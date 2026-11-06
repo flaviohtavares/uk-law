@@ -46,7 +46,7 @@ Coming into force (except article 5)
 
 The Scottish Ministers, in exercise of the powers conferred on them by sections 3, 15(3) and 22(2)(a) of the Sea Fish (Conservation) Act 1967[^f00001], and of all other powers enabling them in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-6c6428c5a85865f5dc1d3e30689042fd]
+## 1. Citation and commencement[^c-6c6428c5a85865f5dc1d3e30689042fd]
 
 (1) This Order may be cited as the Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000.
 
@@ -54,48 +54,48 @@ The Scottish Ministers, in exercise of the powers conferred on them by sections 
 
 (3) Article 5 shall come into force on 1st March 2001.
 
-## 2. Interpretation[^key-f5e06b9d47e180dd5975483fa47710f2]
+## 2. Interpretation[^c-f5e06b9d47e180dd5975483fa47710f2]
 
 (1) In this Order–
 
 - “the Act” means the Sea Fish (Conservation) Act 1967;
-- “Regulation 2019/1241” means[^key-e214965885fbf9590757b29f3b8ddb18] [Regulation (EU) 2019/1241](https://www.legislation.gov.uk/european/regulation/2019/1241) of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures;
+- “Regulation 2019/1241” means[^c-e214965885fbf9590757b29f3b8ddb18] [Regulation (EU) 2019/1241](https://www.legislation.gov.uk/european/regulation/2019/1241) of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures;
 - “beam trawler” means a fishing boat which, in so far as it carries or uses nets, carries or uses only nets which are designed to be towed along the sea-bed and which have their mouth extended by a beam, bar or other rigid device;
-- [^key-97fdbc71f68f38edef13999c16a53b23]...
-- [^key-afef20b0e09d113cb1a489c1c2d5912a]...
-- “extension piece” means an extension piece located immediately in front of the codend and excludes the tapered part of the net;[^key-76b70627651de1c8294600c22acaa542]
+- [^c-97fdbc71f68f38edef13999c16a53b23]...
+- [^c-afef20b0e09d113cb1a489c1c2d5912a]...
+- “extension piece” means an extension piece located immediately in front of the codend and excludes the tapered part of the net;[^c-76b70627651de1c8294600c22acaa542]
 - “ICES” followed by a roman numeral with or without a letter shall be construed as a reference to whichever of the statistical sub-areas and divisions of the International Council for the Exploration of the Sea[^f00006] described in the Schedule is identified therein by that roman numeral or that roman numeral and letter as the case may be; and
-- “Regulation 43/2009” means Council Regulation ([^key-c4745e945916ea4d99cbbbb4b91a0916]EC) No. 43/2009 fixing for 2009 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required[^f00003] as corrected by Corrigendum to the Annexes to said Council Regulation (EC) No. 43/2009[^f00004] and as amended by Council Regulation (EC) No. 302/2009[^f00005], Commission Regulation (EC) No. 517/2009[^f00006], Commission Regulation (EC) No. 593/2009, Commission Regulation (EC) No. 709/2009, Council Regulation (EC) No. 753/2009 and Council Regulation (EC) No. 1288/2009;
-- “strengthening bag” means a cylindrical piece of netting completely surrounding the codend of a trawl or seine net and which may be attached to a codend at intervals;[^key-62502691d2700c7a0be752203df3adbd]
+- “Regulation 43/2009” means Council Regulation ([^c-c4745e945916ea4d99cbbbb4b91a0916]EC) No. 43/2009 fixing for 2009 the fishing opportunities and associated conditions for certain fish stocks and groups of fish stocks, applicable in Community waters and, for Community vessels, in waters where catch limitations are required[^f00003] as corrected by Corrigendum to the Annexes to said Council Regulation (EC) No. 43/2009[^f00004] and as amended by Council Regulation (EC) No. 302/2009[^f00005], Commission Regulation (EC) No. 517/2009[^f00006], Commission Regulation (EC) No. 593/2009, Commission Regulation (EC) No. 709/2009, Council Regulation (EC) No. 753/2009 and Council Regulation (EC) No. 1288/2009;
+- “strengthening bag” means a cylindrical piece of netting completely surrounding the codend of a trawl or seine net and which may be attached to a codend at intervals;[^c-62502691d2700c7a0be752203df3adbd]
 - “net” means a trawl, Danish seine or similar towed net.
-- “tapered part of the net” means the netting immediately in front of the codend or extension piece (if fitted) where the number of open meshes around the circumference of the net increases in a ratio not less that 4 meshes in circumference to every 5 meshes in the long axis of the net.[^key-0b908cfe23e0a222aef9f8efef315365]
+- “tapered part of the net” means the netting immediately in front of the codend or extension piece (if fitted) where the number of open meshes around the circumference of the net increases in a ratio not less that 4 meshes in circumference to every 5 meshes in the long axis of the net.[^c-0b908cfe23e0a222aef9f8efef315365]
 
-(2)[^key-7444559c3b795dc62036c8e5170aa262] Expressions used in this Order that appear or are referred to in Regulation 2019/1241[^key-d3a9e642efeb4708c0eab94741646017] and Regulation 43/2009, and which are not defined in this article, have the same meaning in this Order as in those Regulations.
+(2)[^c-7444559c3b795dc62036c8e5170aa262] Expressions used in this Order that appear or are referred to in Regulation 2019/1241[^c-d3a9e642efeb4708c0eab94741646017] and Regulation 43/2009, and which are not defined in this article, have the same meaning in this Order as in those Regulations.
 
 (3) Any reference in this Order to a numbered article shall be construed as a reference to the article so numbered in this Order and any reference to the Schedule as a reference to the Schedule to this Order.
 
-(4)[^key-a60dfa06e662b98b23894597005d9ad3] For the purposes of this Order, a net shall be deemed to have been carried in a boat for the purpose of fishing for Norway lobsters (Nephrops norvegicus), and a boat shall be deemed to have been fishing for Norway lobsters, if the catch retained on board that boat includes at least 30%[^key-5b8a03890edf00bec365a4e278dd4763] by weight Norway lobsters.
+(4)[^c-a60dfa06e662b98b23894597005d9ad3] For the purposes of this Order, a net shall be deemed to have been carried in a boat for the purpose of fishing for Norway lobsters (Nephrops norvegicus), and a boat shall be deemed to have been fishing for Norway lobsters, if the catch retained on board that boat includes at least 30%[^c-5b8a03890edf00bec365a4e278dd4763] by weight Norway lobsters.
 
 (5) Where detached Norway lobster tails are retained on board a boat, the equivalent weight of the whole Norway lobsters shall be taken into account for the purpose of paragraph (4), and that equivalent weight shall be obtained by multiplying the weight of the tails by 3.
 
-(6)[^key-fd7b1df122be4f3aa7f39799079c871b] For the purposes of this Order, a net shall be deemed to have been carried in a boat for the purpose of fishing for queen scallops (Chlamys opercularis), and a boat shall be deemed to have been fishing for queen scallops, if the catch retained on board that boat includes at least 80% by weight queen scallops.
+(6)[^c-fd7b1df122be4f3aa7f39799079c871b] For the purposes of this Order, a net shall be deemed to have been carried in a boat for the purpose of fishing for queen scallops (Chlamys opercularis), and a boat shall be deemed to have been fishing for queen scallops, if the catch retained on board that boat includes at least 80% by weight queen scallops.
 
-## 3. Application[^key-c9bb2d50cbe984a373310bc5c65dd2b6]
+## 3. Application[^c-c9bb2d50cbe984a373310bc5c65dd2b6]
 
-(1) Subject to paragraph (2), article 4 applies to any net used by[^key-46108f990a60d30296c713d73deb11d3] –
+(1) Subject to paragraph (2), article 4 applies to any net used by[^c-46108f990a60d30296c713d73deb11d3] –
 
-- (a) any Scottish fishing boat in ICES IIa south of 64° north latitude and east of 4° west longitude (Norwegian Sea), ICES IV (North Sea) or ICES VI (West of Scotland) excluding that part of ICES Division VIa which is specified in paragraph (1C)[^key-3bd10c2fb196b7d57a30a298a67a7a26]; or
-- (b) any other[^key-3d14acfd8e1331c17ae35c14c3fcbc11] fishing boat in that part of ICES IIa south of 64° north latitude and east of 4° west longitude (Norwegian Sea), of ICES VI (West of Scotland) excluding that part of ICES Division VIa which is specified in paragraph (1C)[^key-6b970279414dc220eba6d31e79148b75] or of ICES IV (North Sea) within the Scottish zone.
+- (a) any Scottish fishing boat in ICES IIa south of 64° north latitude and east of 4° west longitude (Norwegian Sea), ICES IV (North Sea) or ICES VI (West of Scotland) excluding that part of ICES Division VIa which is specified in paragraph (1C)[^c-3bd10c2fb196b7d57a30a298a67a7a26]; or
+- (b) any other[^c-3d14acfd8e1331c17ae35c14c3fcbc11] fishing boat in that part of ICES IIa south of 64° north latitude and east of 4° west longitude (Norwegian Sea), of ICES VI (West of Scotland) excluding that part of ICES Division VIa which is specified in paragraph (1C)[^c-6b970279414dc220eba6d31e79148b75] or of ICES IV (North Sea) within the Scottish zone.
 
-(1A)[^key-52ab13ef32c8b04bc6d65f2db039b338] Article 4A applies to any net used by–
+(1A)[^c-52ab13ef32c8b04bc6d65f2db039b338] Article 4A applies to any net used by–
 
-- (a) any Scottish fishing boat within that part of ICES Division VIa which is specified in paragraph (1C); or[^key-e20ec840dbccf82f6a490d15bdd58d74]
-- (b)[^key-1bfb19b9cbd4f58517a3ddafeea76f84] any other fishing boat within that part of ICES Division VIa which is specified in paragraph (1C) and is within the Scottish zone.
+- (a) any Scottish fishing boat within that part of ICES Division VIa which is specified in paragraph (1C); or[^c-e20ec840dbccf82f6a490d15bdd58d74]
+- (b)[^c-1bfb19b9cbd4f58517a3ddafeea76f84] any other fishing boat within that part of ICES Division VIa which is specified in paragraph (1C) and is within the Scottish zone.
 
 (1B) Subject to paragraphs (2) and (3), articles 5 and 5A apply to any net used by–
 
 - (a) any Scottish fishing boat in ICES IIa south of 64° north latitude and east of 4° west longitude (Norwegian Sea), or ICES VI (West of Scotland); or
-- (b) any other[^key-606789f386b2193177cd7fdb9a7c0041] fishing boat in that part of ICES IIa south of 64° north latitude and east of 4° west longitude (Norwegian Sea), of ICES VI (West of Scotland) or of ICES IV (North Sea) within the Scottish zone.
+- (b) any other[^c-606789f386b2193177cd7fdb9a7c0041] fishing boat in that part of ICES IIa south of 64° north latitude and east of 4° west longitude (Norwegian Sea), of ICES VI (West of Scotland) or of ICES IV (North Sea) within the Scottish zone.
 
 (1C) The area specified by this paragraph is the area of water within ICES VI (West of Scotland) which is bounded by a line beginning at a point at 55°00'N on the west coast of Scotland; thence to a point at 55°00'N on the east coast of Northern Ireland; thence following the coast north and west to a point at 54°30'N on the west coast of Ireland; thence following those rhumb lines which sequentially join the following coordinates:–
 
@@ -117,22 +117,22 @@ The Scottish Ministers, in exercise of the powers conferred on them by sections 
 
 thence to a point at 4°00'W on the north coast of Scotland; thence west and south along the mainland Scottish coast to a point at 55°00'N on the west coast of Scotland (hereinafter referred to as “east of the Cod Recovery Line within ICES Division VIa”).
 
-(2) Articles 4, 5 and 5A[^key-777233820d182c6650a6a69a631fe5b3] do not apply to any net that is–
+(2) Articles 4, 5 and 5A[^c-777233820d182c6650a6a69a631fe5b3] do not apply to any net that is–
 
 - (a) carried in, or used by, a beam trawler; or
-- (b) properly lashed and stowed in such a way that it may not be readily used; or[^key-f6e197970d7030c1ea26cbedf8cb3021]
-- (c)[^key-714799528365a2658f03d5b38455595a] carried in, or used by, a boat for the purpose of fishing for queen scallops;
+- (b) properly lashed and stowed in such a way that it may not be readily used; or[^c-f6e197970d7030c1ea26cbedf8cb3021]
+- (c)[^c-714799528365a2658f03d5b38455595a] carried in, or used by, a boat for the purpose of fishing for queen scallops;
 
-(3)[^key-1bf98eef26a7046ee34e156c240ea689] Article 5A(b) does not apply to any net that is carried in or used by a boat for the purpose of fishing for Norway lobsters.
+(3)[^c-1bf98eef26a7046ee34e156c240ea689] Article 5A(b) does not apply to any net that is carried in or used by a boat for the purpose of fishing for Norway lobsters.
 
-## 4. Square mesh panel requirements[^key-0e05169c8e87ddeebb0bb6167ea679b4]
+## 4. Square mesh panel requirements[^c-0e05169c8e87ddeebb0bb6167ea679b4]
 
 Any net to which this article applies which has a mesh size of 70 millimetres or more but less than 119 millimetres shall have incorporated in it as part of the net a square mesh panel which–
 
 - (a) has a mesh size of not less than 90 millimetres; and
-- (b)[^key-0f1246b1b5297c6ba55c046ab84fd0ed] is positioned so that the rearmost row of meshes of the square mesh panel is no more than 9 metres from the codline or, in any case where the net is carried in or used by a boat for the purpose of fishing for Norway lobsters, the rearmost row of meshes of the square mesh panel shall be no more than 15 metres from the codline.
+- (b)[^c-0f1246b1b5297c6ba55c046ab84fd0ed] is positioned so that the rearmost row of meshes of the square mesh panel is no more than 9 metres from the codline or, in any case where the net is carried in or used by a boat for the purpose of fishing for Norway lobsters, the rearmost row of meshes of the square mesh panel shall be no more than 15 metres from the codline.
 
-## 4A. Square mesh panel requirements for east of the Cod Recovery Line within ICES Division VIa[^key-bacc90facd2a8bf3428d2991866e1022]
+## 4A. Square mesh panel requirements for east of the Cod Recovery Line within ICES Division VIa[^c-bacc90facd2a8bf3428d2991866e1022]
 
 Any net to which this article applies which has a mesh size of 80 millimetres or more shall have incorporated in it as part of the net a square mesh panel which–
 
@@ -141,26 +141,26 @@ Any net to which this article applies which has a mesh size of 80 millimetres or
 - (c) is positioned so that the rearmost row of meshes of the square mesh panel shall be no more than 12 metres from the codline; and
 - (d) has no more than two open diamond meshes between the longitudinal side of the panel and the adjacent selvedge.
 
-## 5. Twine thickness requirements[^key-057a6202a547c8e97364a281eda89734]
+## 5. Twine thickness requirements[^c-057a6202a547c8e97364a281eda89734]
 
 (1) Where any net to which this article applies is constructed wholly or in part in the codend, extension piece or square mesh panel of multiple twine netting, the sum of the thicknesses of the multiple twines on any side of any mesh shall not exceed 10 millimetres.
 
-(2)[^key-04ccd6509f4d5c51cb845f8e9442ab2b] Where any net to which this article applies is used for the purpose of fishing for Norway lobsters and has a mesh size of between 70 and 94 millimetres, the codend and extension piece shall be constructed of single twine that shall not exceed 4 millimetres in thickness.
+(2)[^c-04ccd6509f4d5c51cb845f8e9442ab2b] Where any net to which this article applies is used for the purpose of fishing for Norway lobsters and has a mesh size of between 70 and 94 millimetres, the codend and extension piece shall be constructed of single twine that shall not exceed 4 millimetres in thickness.
 
-(3)[^key-4d634e5b6841c69e49d2b5b21d263c77] Where any net to which this article applies is used for the purpose of fishing for Norway lobsters and has a mesh size of between 70 and 94 millimetres, the square mesh panel (where fitted) shall be constructed of single twine that shall not exceed 6 millimetres in thickness.
+(3)[^c-4d634e5b6841c69e49d2b5b21d263c77] Where any net to which this article applies is used for the purpose of fishing for Norway lobsters and has a mesh size of between 70 and 94 millimetres, the square mesh panel (where fitted) shall be constructed of single twine that shall not exceed 6 millimetres in thickness.
 
-## 5A. Restriction on length of nets and prohibition of strengthening bags.[^key-b9e34737e41e4b3303e2dedb83848339]
+## 5A. Restriction on length of nets and prohibition of strengthening bags.[^c-b9e34737e41e4b3303e2dedb83848339]
 
 In the case of any net to which this article applies and which has a mesh size of 70 millimetres or more–
 
 - (a) the length of the codend measured together with any extension piece fitted thereto shall not exceed 300 meshes when measured from the codline; and
 - (b) the attachment of a strengthening bag is prohibited.
 
-## 6. Powers of British sea-fishery officers in relation to fishing boats[^key-61791f3fde69306d8ab93a35f585512a]
+## 6. Powers of British sea-fishery officers in relation to fishing boats[^c-61791f3fde69306d8ab93a35f585512a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-c59db073bd2ddaab5f2174a269755876]
+## 7. Revocation[^c-c59db073bd2ddaab5f2174a269755876]
 
 The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 1991[^f00007] and the Sea Fishing (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Variation) Order 1992[^f00008] are revoked.
 
@@ -174,7 +174,7 @@ Edinburgh
 
 5th July 2000
 
-## SCHEDULE — STATISTICAL SUB-AREAS AND DIVISIONS OF THE INTERNATIONAL COUNCIL FOR THE EXPLORATION OF THE SEA[^key-b8577bd08e9ccb569832b42197f556ba]
+## SCHEDULE — STATISTICAL SUB-AREAS AND DIVISIONS OF THE INTERNATIONAL COUNCIL FOR THE EXPLORATION OF THE SEA[^c-b8577bd08e9ccb569832b42197f556ba]
 
 Article 2(1)
 
@@ -188,7 +188,7 @@ The waters bounded by a line beginning at a point on the coast of Norway in 62°
 
 ### ICES Statistical Sub-Area VI (West of Scotland)
 
-The waters bounded by a line beginning at a point on the north coast of Scotland in 4°00' west longitude; thence due north[^key-f503b120a9fd0b8584ec1bb2fbb130e8] to 60°00' north latitude; thence due west to 18°00' west longitude; thence due south to 54°30' north latitude; thence due east to the coast of the Republic of Ireland; thence in a northerly and easterly direction along the coasts of the Republic of Ireland and of Northern Ireland to a point on the east coast of Northern Ireland in 55°00' north latitude; thence due east to the coast of Scotland; thence in a northerly direction along the west coast of Scotland to the point of beginning.
+The waters bounded by a line beginning at a point on the north coast of Scotland in 4°00' west longitude; thence due north[^c-f503b120a9fd0b8584ec1bb2fbb130e8] to 60°00' north latitude; thence due west to 18°00' west longitude; thence due south to 54°30' north latitude; thence due east to the coast of the Republic of Ireland; thence in a northerly and easterly direction along the coasts of the Republic of Ireland and of Northern Ireland to a point on the east coast of Northern Ireland in 55°00' north latitude; thence due east to the coast of Scotland; thence in a northerly direction along the west coast of Scotland to the point of beginning.
 
 (This note is not part of the Order)
 
@@ -212,21 +212,21 @@ Offences and penalties are prescribed respectively by sections 3(5) and 11 of th
 
 [^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), Schedule 1, paragraph 38(3) and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86) Schedule 2, paragraph 16(1). Relevant modifications are contained in the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 (S.I. [1999/1748](https://www.legislation.gov.uk/uksi/1999/1748)), article 5 and the Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. [1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)), articles 3, 5 and 6. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 22(2)(a) which contains a definition of “the Ministers” for the purposes of section 5 and 15(3) was amended by the Fisheries Act 1981, sections 19(2)(d) and 45(b). The definition has effect in relation to Scotland with the modifications made by section 22A(12)(b) inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)); Schedule 2, paragraph 43(13).
 
-[^key-6c6428c5a85865f5dc1d3e30689042fd]: Commencement: Art. 1 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
+[^c-6c6428c5a85865f5dc1d3e30689042fd]: Commencement: Art. 1 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
 
-[^key-f5e06b9d47e180dd5975483fa47710f2]: Commencement: Art. 2 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
+[^c-f5e06b9d47e180dd5975483fa47710f2]: Commencement: Art. 2 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
 
-[^key-e214965885fbf9590757b29f3b8ddb18]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) substituted (21.12.2020) by [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/2/a/i)
+[^c-e214965885fbf9590757b29f3b8ddb18]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) substituted (21.12.2020) by [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/2/a/i)
 
-[^key-97fdbc71f68f38edef13999c16a53b23]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/2/a/ii)
+[^c-97fdbc71f68f38edef13999c16a53b23]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/2/a/ii)
 
-[^key-afef20b0e09d113cb1a489c1c2d5912a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/2/a/iii)
+[^c-afef20b0e09d113cb1a489c1c2d5912a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/2/a/iii)
 
-[^key-76b70627651de1c8294600c22acaa542]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(a)(ii)](https://www.legislation.gov.uk/ssi/2001/250/article/2/a/ii)
+[^c-76b70627651de1c8294600c22acaa542]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(a)(ii)](https://www.legislation.gov.uk/ssi/2001/250/article/2/a/ii)
 
 [^f00006]: Footnote: Cmnd. 2586.
 
-[^key-c4745e945916ea4d99cbbbb4b91a0916]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) substituted (3.7.2010) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2010 (S.S.I. 2010/231)](https://www.legislation.gov.uk/ssi/2010/231), [arts. 1](https://www.legislation.gov.uk/ssi/2010/231/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2010/231/article/2/2/b)
+[^c-c4745e945916ea4d99cbbbb4b91a0916]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) substituted (3.7.2010) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2010 (S.S.I. 2010/231)](https://www.legislation.gov.uk/ssi/2010/231), [arts. 1](https://www.legislation.gov.uk/ssi/2010/231/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2010/231/article/2/2/b)
 
 [^f00003]: Footnote: O.J. No. L 318, 27.11.98, p.63.
 
@@ -234,68 +234,68 @@ Offences and penalties are prescribed respectively by sections 3(5) and 11 of th
 
 [^f00005]: Footnote: O.J. No. L 168, 3.7.99, p.1.
 
-[^key-62502691d2700c7a0be752203df3adbd]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(a)(iii)](https://www.legislation.gov.uk/ssi/2001/250/article/2/a/iii)
+[^c-62502691d2700c7a0be752203df3adbd]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(a)(iii)](https://www.legislation.gov.uk/ssi/2001/250/article/2/a/iii)
 
-[^key-0b908cfe23e0a222aef9f8efef315365]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(a)(iv)](https://www.legislation.gov.uk/ssi/2001/250/article/2/a/iv)
+[^c-0b908cfe23e0a222aef9f8efef315365]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2000/227/article/2/1) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(a)(iv)](https://www.legislation.gov.uk/ssi/2001/250/article/2/a/iv)
 
-[^key-7444559c3b795dc62036c8e5170aa262]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/ssi/2000/227/article/2/2) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2009/165/article/2/2/b)
+[^c-7444559c3b795dc62036c8e5170aa262]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/ssi/2000/227/article/2/2) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2009/165/article/2/2/b)
 
-[^key-d3a9e642efeb4708c0eab94741646017]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/ssi/2000/227/article/2/2) substituted (21.12.2020) by [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/2/b)
+[^c-d3a9e642efeb4708c0eab94741646017]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/ssi/2000/227/article/2/2) substituted (21.12.2020) by [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/2/b)
 
-[^key-a60dfa06e662b98b23894597005d9ad3]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/ssi/2000/227/article/2/4) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2001/250/article/2/b)
+[^c-a60dfa06e662b98b23894597005d9ad3]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/ssi/2000/227/article/2/4) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2001/250/article/2/b)
 
-[^key-5b8a03890edf00bec365a4e278dd4763]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/ssi/2000/227/article/2/4) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2009/165/article/2/2/c)
+[^c-5b8a03890edf00bec365a4e278dd4763]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/ssi/2000/227/article/2/4) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2009/165/article/2/2/c)
 
-[^key-fd7b1df122be4f3aa7f39799079c871b]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/ssi/2000/227/article/2/6) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2001/250/article/2/c)
+[^c-fd7b1df122be4f3aa7f39799079c871b]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/ssi/2000/227/article/2/6) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2001/250/article/2/c)
 
-[^key-c9bb2d50cbe984a373310bc5c65dd2b6]: Commencement: Art. 3 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
+[^c-c9bb2d50cbe984a373310bc5c65dd2b6]: Commencement: Art. 3 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
 
-[^key-46108f990a60d30296c713d73deb11d3]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/a)
+[^c-46108f990a60d30296c713d73deb11d3]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/a)
 
-[^key-3bd10c2fb196b7d57a30a298a67a7a26]: Textual amendment: Words in [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1/a) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/b)
+[^c-3bd10c2fb196b7d57a30a298a67a7a26]: Textual amendment: Words in [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1/a) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/b)
 
-[^key-3d14acfd8e1331c17ae35c14c3fcbc11]: Textual amendment: Word in [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/23/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-3d14acfd8e1331c17ae35c14c3fcbc11]: Textual amendment: Word in [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/23/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-6b970279414dc220eba6d31e79148b75]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1/b) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/b)
+[^c-6b970279414dc220eba6d31e79148b75]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1/b) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/b)
 
-[^key-52ab13ef32c8b04bc6d65f2db039b338]: Textual amendment: [Art. 3(1A)-(1C)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1A) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/c)
+[^c-52ab13ef32c8b04bc6d65f2db039b338]: Textual amendment: [Art. 3(1A)-(1C)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1A) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/c)
 
-[^key-e20ec840dbccf82f6a490d15bdd58d74]: Textual amendment: Word in [art. 3(1A)(a)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1A/a) inserted (3.7.2010) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2010 (S.S.I. 2010/231)](https://www.legislation.gov.uk/ssi/2010/231), [arts. 1](https://www.legislation.gov.uk/ssi/2010/231/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2010/231/article/2/3/a)
+[^c-e20ec840dbccf82f6a490d15bdd58d74]: Textual amendment: Word in [art. 3(1A)(a)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1A/a) inserted (3.7.2010) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2010 (S.S.I. 2010/231)](https://www.legislation.gov.uk/ssi/2010/231), [arts. 1](https://www.legislation.gov.uk/ssi/2010/231/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2010/231/article/2/3/a)
 
-[^key-1bfb19b9cbd4f58517a3ddafeea76f84]: Textual amendment: [Art. 3(1A)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1A/b) substituted for art. 3(1A)(b)(c) (3.7.2010) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2010 (S.S.I. 2010/231)](https://www.legislation.gov.uk/ssi/2010/231), [arts. 1](https://www.legislation.gov.uk/ssi/2010/231/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2010/231/article/2/3/b)
+[^c-1bfb19b9cbd4f58517a3ddafeea76f84]: Textual amendment: [Art. 3(1A)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1A/b) substituted for art. 3(1A)(b)(c) (3.7.2010) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2010 (S.S.I. 2010/231)](https://www.legislation.gov.uk/ssi/2010/231), [arts. 1](https://www.legislation.gov.uk/ssi/2010/231/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2010/231/article/2/3/b)
 
-[^key-606789f386b2193177cd7fdb9a7c0041]: Textual amendment: Word in [art. 3(1B)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1B/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/23/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-606789f386b2193177cd7fdb9a7c0041]: Textual amendment: Word in [art. 3(1B)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/1B/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/23/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-777233820d182c6650a6a69a631fe5b3]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2000/227/article/3/2) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/d)
+[^c-777233820d182c6650a6a69a631fe5b3]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2000/227/article/3/2) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2009/165/article/2/3/d)
 
-[^key-f6e197970d7030c1ea26cbedf8cb3021]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/2/b) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [3(b)(ii)](https://www.legislation.gov.uk/ssi/2001/250/article/3/b/ii)
+[^c-f6e197970d7030c1ea26cbedf8cb3021]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/ssi/2000/227/article/3/2/b) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [3(b)(ii)](https://www.legislation.gov.uk/ssi/2001/250/article/3/b/ii)
 
-[^key-714799528365a2658f03d5b38455595a]: Textual amendment: [Art. 3(2)(c)](https://www.legislation.gov.uk/ssi/2000/227/article/3/2/c) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [3(b)(iii)](https://www.legislation.gov.uk/ssi/2001/250/article/3/b/iii)
+[^c-714799528365a2658f03d5b38455595a]: Textual amendment: [Art. 3(2)(c)](https://www.legislation.gov.uk/ssi/2000/227/article/3/2/c) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [3(b)(iii)](https://www.legislation.gov.uk/ssi/2001/250/article/3/b/iii)
 
-[^key-1bf98eef26a7046ee34e156c240ea689]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2000/227/article/3/3) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [3(c)](https://www.legislation.gov.uk/ssi/2001/250/article/3/c)
+[^c-1bf98eef26a7046ee34e156c240ea689]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2000/227/article/3/3) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [3(c)](https://www.legislation.gov.uk/ssi/2001/250/article/3/c)
 
-[^key-0e05169c8e87ddeebb0bb6167ea679b4]: Commencement: Art. 4 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
+[^c-0e05169c8e87ddeebb0bb6167ea679b4]: Commencement: Art. 4 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
 
-[^key-0f1246b1b5297c6ba55c046ab84fd0ed]: Textual amendment: [Art. 4(b)](https://www.legislation.gov.uk/ssi/2000/227/article/4/b) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [4](https://www.legislation.gov.uk/ssi/2001/250/article/4)
+[^c-0f1246b1b5297c6ba55c046ab84fd0ed]: Textual amendment: [Art. 4(b)](https://www.legislation.gov.uk/ssi/2000/227/article/4/b) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [4](https://www.legislation.gov.uk/ssi/2001/250/article/4)
 
-[^key-bacc90facd2a8bf3428d2991866e1022]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/ssi/2000/227/article/4A) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2009/165/article/2/4)
+[^c-bacc90facd2a8bf3428d2991866e1022]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/ssi/2000/227/article/4A) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2009/165/article/2/4)
 
-[^key-057a6202a547c8e97364a281eda89734]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2000/227/article/5) in force at 1.3.2001, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2000/227/article/1/3)
+[^c-057a6202a547c8e97364a281eda89734]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2000/227/article/5) in force at 1.3.2001, see [art. 1(3)](https://www.legislation.gov.uk/ssi/2000/227/article/1/3)
 
-[^key-04ccd6509f4d5c51cb845f8e9442ab2b]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/ssi/2000/227/article/5/2) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2009/165/article/2/5/a)
+[^c-04ccd6509f4d5c51cb845f8e9442ab2b]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/ssi/2000/227/article/5/2) substituted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2009/165/article/2/5/a)
 
-[^key-4d634e5b6841c69e49d2b5b21d263c77]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/ssi/2000/227/article/5/3) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2009/165/article/2/5/b)
+[^c-4d634e5b6841c69e49d2b5b21d263c77]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/ssi/2000/227/article/5/3) inserted (1.5.2009) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2009 (S.S.I. 2009/165)](https://www.legislation.gov.uk/ssi/2009/165), [arts. 1](https://www.legislation.gov.uk/ssi/2009/165/article/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2009/165/article/2/5/b)
 
-[^key-b9e34737e41e4b3303e2dedb83848339]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/ssi/2000/227/article/5A) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [6](https://www.legislation.gov.uk/ssi/2001/250/article/6)
+[^c-b9e34737e41e4b3303e2dedb83848339]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/ssi/2000/227/article/5A) inserted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [6](https://www.legislation.gov.uk/ssi/2001/250/article/6)
 
-[^key-61791f3fde69306d8ab93a35f585512a]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/ssi/2000/227/article/6) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/3)
+[^c-61791f3fde69306d8ab93a35f585512a]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/ssi/2000/227/article/6) omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2020/367/regulation/2/3)
 
-[^key-c59db073bd2ddaab5f2174a269755876]: Commencement: Art. 7 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
+[^c-c59db073bd2ddaab5f2174a269755876]: Commencement: Art. 7 in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
 
 [^f00007]: Footnote: S.I. [1991/1380](https://www.legislation.gov.uk/uksi/1991/1380)
 
 [^f00008]: Footnote: S.I. [1992/1344](https://www.legislation.gov.uk/uksi/1992/1344).
 
-[^key-b8577bd08e9ccb569832b42197f556ba]: Commencement: Sch. in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
+[^c-b8577bd08e9ccb569832b42197f556ba]: Commencement: Sch. in force at 3.8.2000, see [art. 1(2)](https://www.legislation.gov.uk/ssi/2000/227/article/1/2)
 
-[^key-f503b120a9fd0b8584ec1bb2fbb130e8]: Textual amendment: Word in [sch.](https://www.legislation.gov.uk/ssi/2000/227/schedule) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [7](https://www.legislation.gov.uk/ssi/2001/250/article/7)
+[^c-f503b120a9fd0b8584ec1bb2fbb130e8]: Textual amendment: Word in [sch.](https://www.legislation.gov.uk/ssi/2000/227/schedule) substituted (1.8.2001) by [The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Amendment Order 2001 (S.S.I. 2001/250)](https://www.legislation.gov.uk/ssi/2001/250), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2001/250/article/1/1), [7](https://www.legislation.gov.uk/ssi/2001/250/article/7)

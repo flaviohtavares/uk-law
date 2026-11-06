@@ -36,30 +36,30 @@ concerning the authorisation of the preparation of endo-1,3(4)-beta-glucanase an
 
 (Text with EEA relevance) (revoked)
 
-[^key-af45d17128fff186960b247ce090ef11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af45d17128fff186960b247ce090ef11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-af45d17128fff186960b247ce090ef11]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Regulation (EC) No 1453/2004[^key-af45d17128fff186960b247ce090ef11]
+## Article 1. Authorisation[^c-af45d17128fff186960b247ce090ef11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-af45d17128fff186960b247ce090ef11]
+## Article 2. Amendment to Regulation (EC) No 1453/2004[^c-af45d17128fff186960b247ce090ef11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-af45d17128fff186960b247ce090ef11]
+## Article 3. Transitional measures[^c-af45d17128fff186960b247ce090ef11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af45d17128fff186960b247ce090ef11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Entry into force[^c-af45d17128fff186960b247ce090ef11]
 
-## ANNEX[^key-af45d17128fff186960b247ce090ef11]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-af45d17128fff186960b247ce090ef11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-af45d17128fff186960b247ce090ef11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af45d17128fff186960b247ce090ef11]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 301](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/301) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-af45d17128fff186960b247ce090ef11]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 301](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/301) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Trade enforcement: application of CEMA[^key-45d71a7a857ddbcc7cbf99eafb63b4fb]
+## 55. Trade enforcement: application of CEMA[^c-45d71a7a857ddbcc7cbf99eafb63b4fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ the matter is to be treated as an assigned matter.
 - (c) regulation 46(6) (general trade licences: records), or
 - (d) regulation 47(5) (general trade licences: inspection of records).
 
-(3A)[^key-66c0ed983a61312fc1e993f4673238ba] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
+(3A)[^c-66c0ed983a61312fc1e993f4673238ba] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
 
 - (a) a referral to the Commissioners by the Secretary of State, or
 - (b) a decision by the Commissioners to treat the suspected offence as if it had been referred to them under sub-paragraph (a).
@@ -68,11 +68,11 @@ the matter is to be treated as an assigned matter.
 
 ## Annotations
 
-[^key-45d71a7a857ddbcc7cbf99eafb63b4fb]: Commencement: Reg. 55 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-45d71a7a857ddbcc7cbf99eafb63b4fb]: Commencement: Reg. 55 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
 
 [^c24239741]: Marginal citation: The definition of “assigned matter” in section 1(1) of CEMA was amended by the [Commissioners for Revenue and Customs Act 2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraph 22(a)](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/22/a); the [Scotland Act 2012 (c.11)](https://www.legislation.gov.uk/ukpga/2012/11), [section 24(7)](https://www.legislation.gov.uk/ukpga/2012/11/section/24/7); and the [Wales Act 2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29), [section 7(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/1).
 
-[^key-66c0ed983a61312fc1e993f4673238ba]: Textual amendment: Reg. 55(3A)-(3D) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [13(10)](https://www.legislation.gov.uk/uksi/2024/644/regulation/13/10)
+[^c-66c0ed983a61312fc1e993f4673238ba]: Textual amendment: Reg. 55(3A)-(3D) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [13(10)](https://www.legislation.gov.uk/uksi/2024/644/regulation/13/10)
 
 [^c24239751]: Marginal citation: Section 138 of CEMA was amended by the [Police and Criminal Evidence Act 1984 (c.60)](https://www.legislation.gov.uk/ukpga/1984/60), [section 114(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/114/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/1984/60/schedule/6), [paragraph 37](https://www.legislation.gov.uk/ukpga/1984/60/paragraph/37) and Schedule 7, Part 1; the [Finance Act 1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39), [section 11](https://www.legislation.gov.uk/ukpga/1988/39/section/11); the [Serious Organised Crime and Police Act 2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), [Schedule 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7), [paragraph 54](https://www.legislation.gov.uk/ukpga/2005/15/paragraph/54); [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); and [S.I. 2007/288](https://www.legislation.gov.uk/uksi/2007/288).
 

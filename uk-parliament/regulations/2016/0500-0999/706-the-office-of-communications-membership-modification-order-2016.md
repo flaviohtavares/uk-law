@@ -32,7 +32,7 @@ summary: ''
 
 Electronic Communications
 
-The Office of Communications (Membership) (Modification) Order 2016 (revoked)[^key-9a25865476420329d522237cf1bc2c02]
+The Office of Communications (Membership) (Modification) Order 2016 (revoked)[^c-9a25865476420329d522237cf1bc2c02]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 18th August 2016
 
-[^key-9a25865476420329d522237cf1bc2c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a25865476420329d522237cf1bc2c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9a25865476420329d522237cf1bc2c02]
+## 1. Citation and commencement[^c-9a25865476420329d522237cf1bc2c02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of maximum number of members[^key-9a25865476420329d522237cf1bc2c02]
+## 2. Modification of maximum number of members[^c-9a25865476420329d522237cf1bc2c02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-9a25865476420329d522237cf1bc2c02]
+## 3. Revocations[^c-9a25865476420329d522237cf1bc2c02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a25865476420329d522237cf1bc2c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a25865476420329d522237cf1bc2c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9a25865476420329d522237cf1bc2c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a25865476420329d522237cf1bc2c02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a25865476420329d522237cf1bc2c02]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/706) revoked (3.11.2022) by [The Office of Communications (Membership) (Modification) Order 2022 (S.I. 2022/1033)](https://www.legislation.gov.uk/uksi/2022/1033), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1033/article/1), [3](https://www.legislation.gov.uk/uksi/2022/1033/article/3)
+[^c-9a25865476420329d522237cf1bc2c02]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/706) revoked (3.11.2022) by [The Office of Communications (Membership) (Modification) Order 2022 (S.I. 2022/1033)](https://www.legislation.gov.uk/uksi/2022/1033), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1033/article/1), [3](https://www.legislation.gov.uk/uksi/2022/1033/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Maintained schools: guidance for staff member for looked after pupils[^key-81b34a3e65e0b2677417407d96481a6c]
+## 7. Maintained schools: guidance for staff member for looked after pupils[^c-81b34a3e65e0b2677417407d96481a6c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 20 of the Children and Young Persons Act 2008 (designated staff membe
 
 ## Annotations
 
-[^key-81b34a3e65e0b2677417407d96481a6c]: Commencement: S. 7 in force at 1.9.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)
+[^c-81b34a3e65e0b2677417407d96481a6c]: Commencement: S. 7 in force at 1.9.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)

@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (General Permitted Development) (Amendment) (England) Order 2015 (revoked)[^key-8f0a98399549f55a052fde6013ac987d]
+The Town and Country Planning (General Permitted Development) (Amendment) (England) Order 2015 (revoked)[^c-8f0a98399549f55a052fde6013ac987d]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 6th April 2015
 
-[^key-8f0a98399549f55a052fde6013ac987d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f0a98399549f55a052fde6013ac987d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-8f0a98399549f55a052fde6013ac987d]
+## 1. Citation, commencement and application[^c-8f0a98399549f55a052fde6013ac987d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Town and Country Planning (General Permitted Development) Order 1995[^key-8f0a98399549f55a052fde6013ac987d]
+## 2. Amendments to the Town and Country Planning (General Permitted Development) Order 1995[^c-8f0a98399549f55a052fde6013ac987d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments in relation to changes of use[^key-8f0a98399549f55a052fde6013ac987d]
+## 3. Amendments in relation to changes of use[^c-8f0a98399549f55a052fde6013ac987d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments in relation to temporary buildings and uses[^key-8f0a98399549f55a052fde6013ac987d]
+## 4. Amendments in relation to temporary buildings and uses[^c-8f0a98399549f55a052fde6013ac987d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments in relation to the demolition of buildings[^key-8f0a98399549f55a052fde6013ac987d]
+## 5. Amendments in relation to the demolition of buildings[^c-8f0a98399549f55a052fde6013ac987d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provisions[^key-8f0a98399549f55a052fde6013ac987d]
+## 6. Transitional provisions[^c-8f0a98399549f55a052fde6013ac987d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f0a98399549f55a052fde6013ac987d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f0a98399549f55a052fde6013ac987d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8f0a98399549f55a052fde6013ac987d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f0a98399549f55a052fde6013ac987d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f0a98399549f55a052fde6013ac987d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/659) revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/23) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))
+[^c-8f0a98399549f55a052fde6013ac987d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/659) revoked (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/23) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))

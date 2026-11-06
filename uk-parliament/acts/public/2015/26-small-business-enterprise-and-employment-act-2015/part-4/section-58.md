@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Financial penalties[^key-aeb03d4469232f020c50cc035f71fe0f][^key-68f63df5ded0eb46d54ccc6386f7bedb]
+## 58. Financial penalties[^c-aeb03d4469232f020c50cc035f71fe0f][^c-68f63df5ded0eb46d54ccc6386f7bedb]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aeb03d4469232f020c50cc035f71fe0f]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/26/section/58) in force at 6.4.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/4/d)
+[^c-aeb03d4469232f020c50cc035f71fe0f]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/26/section/58) in force at 6.4.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/4/d)
 
-[^key-68f63df5ded0eb46d54ccc6386f7bedb]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/26/section/58) in force at 21.7.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-68f63df5ded0eb46d54ccc6386f7bedb]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/26/section/58) in force at 21.7.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

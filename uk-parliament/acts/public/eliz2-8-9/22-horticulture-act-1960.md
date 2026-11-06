@@ -133,35 +133,35 @@ but does not include hops.
 
 (5) In this Part of this Act “**preparation for market**” does not include canning, bottling, pulping or cooking, or preserving by sterilisation by freezing, by de-hydrating, by heat or by chemical process.
 
-## Part II — Horticultural Marketing[^key-724e43696186a828c915eedbd610c7bf]
+## Part II — Horticultural Marketing[^c-724e43696186a828c915eedbd610c7bf]
 
 **No longer in force.**
 
-### 9—12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-724e43696186a828c915eedbd610c7bf][^key-724e43696186a828c915eedbd610c7bf]
+### 9—12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-724e43696186a828c915eedbd610c7bf][^c-724e43696186a828c915eedbd610c7bf]
 
-### 13. Miscellaneous financial powers of Council.[^key-724e43696186a828c915eedbd610c7bf][^key-724e43696186a828c915eedbd610c7bf]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 14. Report and accounts of Council.[^key-724e43696186a828c915eedbd610c7bf][^key-724e43696186a828c915eedbd610c7bf]
+### 13. Miscellaneous financial powers of Council.[^c-724e43696186a828c915eedbd610c7bf][^c-724e43696186a828c915eedbd610c7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Special arrangements for home-grown produce.[^key-724e43696186a828c915eedbd610c7bf][^key-724e43696186a828c915eedbd610c7bf]
+### 14. Report and accounts of Council.[^c-724e43696186a828c915eedbd610c7bf][^c-724e43696186a828c915eedbd610c7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-724e43696186a828c915eedbd610c7bf][^key-724e43696186a828c915eedbd610c7bf]
-
-### 17. Dissolution of Council, et ceteralaetc.[^key-724e43696186a828c915eedbd610c7bf][^key-724e43696186a828c915eedbd610c7bf]
+### 15. Special arrangements for home-grown produce.[^c-724e43696186a828c915eedbd610c7bf][^c-724e43696186a828c915eedbd610c7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Interpretation of Part II.[^key-724e43696186a828c915eedbd610c7bf][^key-724e43696186a828c915eedbd610c7bf]
+### 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-724e43696186a828c915eedbd610c7bf][^c-724e43696186a828c915eedbd610c7bf]
+
+### 17. Dissolution of Council, et ceteralaetc.[^c-724e43696186a828c915eedbd610c7bf][^c-724e43696186a828c915eedbd610c7bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-724e43696186a828c915eedbd610c7bf][^key-724e43696186a828c915eedbd610c7bf]
+### 18. Interpretation of Part II.[^c-724e43696186a828c915eedbd610c7bf][^c-724e43696186a828c915eedbd610c7bf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-724e43696186a828c915eedbd610c7bf][^c-724e43696186a828c915eedbd610c7bf]
 
 ## Part III — General and Supplementary
 
@@ -169,7 +169,7 @@ but does not include hops.
 
 In section two of the Horticultural Produce (Sales on Commission) Act, 1926 (under which an owner or consignor has ten days in which to require the salesman to produce books and other documents for inspection), for the words “ten days” there shall be substituted the words “one month”.
 
-### 21. Expenses and receipts.[^key-d787f7892f1f0d713ddcf48e2d616bee]
+### 21. Expenses and receipts.[^c-d787f7892f1f0d713ddcf48e2d616bee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -179,29 +179,29 @@ This Act may be cited as the Horticulture Act, 1960.
 
 SCHEDULES
 
-## FIRST SCHEDULE — Provisions as to corporations constituted under Part II and Members[^key-ed77111fe51f10d9490724d0fbcd46fb]
+## FIRST SCHEDULE — Provisions as to corporations constituted under Part II and Members[^c-ed77111fe51f10d9490724d0fbcd46fb]
 
 **No longer in force.**
 
 Sections 9 and 15.
 
-**1.**[^key-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ed77111fe51f10d9490724d0fbcd46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SECOND SCHEDULE[^c624437][^c624437]
 
@@ -247,12 +247,12 @@ Sections 9 and 15.
 
 [^c624387]: Textual amendment: Ss. 8(3)(4), 9—12, 16, 17(1), 19 repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/VIII)
 
-[^key-724e43696186a828c915eedbd610c7bf]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/22/part/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-724e43696186a828c915eedbd610c7bf]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/22/part/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c624435]: Modification: The text of s. 20 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-d787f7892f1f0d713ddcf48e2d616bee]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/22/section/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-d787f7892f1f0d713ddcf48e2d616bee]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/22/section/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-ed77111fe51f10d9490724d0fbcd46fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/22/schedule/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-ed77111fe51f10d9490724d0fbcd46fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/22/schedule/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c624437]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/22/schedule/2) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/VIII)

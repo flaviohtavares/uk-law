@@ -44,7 +44,7 @@ In accordance with paragraph 7(4) of Schedule 5 to that Act a draft of this inst
 
 In accordance with paragraph 7(1) of Schedule 5 to that Act, the Lord Chancellor makes these Regulations with the agreement of the Lord Chief Justice and the Welsh Ministers.
 
-## 1. Citation, commencement and interpretation[^key-af2f9d4d0f3894263f43e52fd0750df9]
+## 1. Citation, commencement and interpretation[^c-af2f9d4d0f3894263f43e52fd0750df9]
 
 (1) These Regulations may be cited as the Selection of the President of Welsh Tribunals Regulations 2017 and come into force on the day after the day on which they are made.
 
@@ -58,11 +58,11 @@ In accordance with paragraph 7(1) of Schedule 5 to that Act, the Lord Chancellor
   | Paragraph 13(1) of Schedule 9 to the Agriculture Act 1947[^f00003] | Chairman for the Agricultural Land Tribunal |
   | Paragraph 3 of Schedule 10 to the Rent Act 1977[^f00004] | President of the Panel |
   | Paragraph 3 of Schedule 2 to the Mental Health Act 1983[^f00005] | Chairman or President of the Mental Health Review Tribunal for Wales |
-  | Section 333(2)(a) of the Education Act 1996[^f00006] or Section 91(3) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^key-e253cc5512c2624361b2aa5faa97ec7d] | President of the Tribunal |
+  | Section 333(2)(a) of the Education Act 1996[^f00006] or Section 91(3) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^c-e253cc5512c2624361b2aa5faa97ec7d] | President of the Tribunal |
   | Section 75(6) of the Local Government Act 2000[^f00007] | President of the Panel |
   | Section 120(2)(a) of the Welsh Language (Wales) Measure 2011[^f00008] | President of the Welsh Language Tribunal. |
 
-## 2. Non-legally qualified person[^key-9ae140091caaa5f5459deb1f5d15be53]
+## 2. Non-legally qualified person[^c-9ae140091caaa5f5459deb1f5d15be53]
 
 For the purposes of paragraph 4(3) of Schedule 5 (composition of panel) a person is non-legally qualified if that person has never—
 
@@ -70,7 +70,7 @@ For the purposes of paragraph 4(3) of Schedule 5 (composition of panel) a person
 - (b) been a member of a panel appointed under regulation 8(1) and (2)(b) or (c) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^f00010], or
 - (c) practised as, or been employed as, a lawyer.
 
-## 3. Membership of selection panel[^key-6582a773466d1cc51c2b969449ca09b9]
+## 3. Membership of selection panel[^c-6582a773466d1cc51c2b969449ca09b9]
 
 (1) A selection panel appointed under paragraph 4(1) of Schedule 5 (appointment of panel) to select a person for appointment to the office of President of Welsh Tribunals must consist of five members.
 
@@ -121,13 +121,13 @@ the third member of the panel is a lay member of the Commission selected by the 
 - (b) members drawn from a range of different racial groups (within the meaning of section 9(3) of the Equality Act 2010[^f00013]), and
 - (c) members with an understanding of the administration of justice in Wales and Welsh devolution arrangements.
 
-## 4. Consultation[^key-78ebb2af5bb78f1e7272877158f9fceb]
+## 4. Consultation[^c-78ebb2af5bb78f1e7272877158f9fceb]
 
 (1) If practicable, the selection panel must consult the current holder of the office of President of Welsh Tribunals about the exercise of its functions under paragraph 4(4) of Schedule 5 (selection process).
 
 (2) As part of the selection process, the selection panel must, in addition to complying with paragraph 4(5) of Schedule 5 (consultation with the Lord Chancellor and Welsh Ministers), consult the Lord Chief Justice.
 
-## 5. Report[^key-fc7ffc4b66b0bce39780fd3cb119dea0]
+## 5. Report[^c-fc7ffc4b66b0bce39780fd3cb119dea0]
 
 (1) After complying with paragraph 4(4) of Schedule 5 the selection panel must submit a report to the Lord Chief Justice.
 
@@ -140,7 +140,7 @@ the third member of the panel is a lay member of the Commission selected by the 
 
 (4) After submitting the report the selection panel must provide any further information which the Lord Chief Justice may require.
 
-## 6. The Lord Chief Justice’s options[^key-38de00a8d795ab23ecfe8938f635316f]
+## 6. The Lord Chief Justice’s options[^c-38de00a8d795ab23ecfe8938f635316f]
 
 (1) This regulation refers to the following stages—
 
@@ -164,7 +164,7 @@ the third member of the panel is a lay member of the Commission selected by the 
 
 (5) If a person whose selection the Lord Chief Justice required to be reconsidered at stage 1 or 2 was not selected again at the next stage, the Lord Chief Justice may, at stage 3, accept the selection made at that earlier stage.
 
-## 7. Exercise of powers to reject or require reconsideration[^key-46cca8092379e3029c2aebf905fcf7ea]
+## 7. Exercise of powers to reject or require reconsideration[^c-46cca8092379e3029c2aebf905fcf7ea]
 
 (1) The power of the Lord Chief Justice under regulation 6 to reject a selection at stage 1 or 2 is exercisable, only on the ground that, in the Lord Chief Justice’s opinion, the person selected is not suitable for the office of President of Welsh Tribunals.
 
@@ -175,7 +175,7 @@ the third member of the panel is a lay member of the Commission selected by the 
 
 (3) The Lord Chief Justice must give the selection panel reasons in writing for rejecting or requiring reconsideration of a selection.
 
-## 8. Selection following rejection or requirement to reconsider[^key-a9fcb0954d7d380f2ad6ebdcacf7cc96]
+## 8. Selection following rejection or requirement to reconsider[^c-a9fcb0954d7d380f2ad6ebdcacf7cc96]
 
 (1) If under regulation 6 the Lord Chief Justice rejects or requires reconsideration of a selection at stage 1 or 2, the selection panel must select a person in accordance with this regulation.
 
@@ -223,7 +223,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2017 c. 4](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-af2f9d4d0f3894263f43e52fd0750df9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+[^c-af2f9d4d0f3894263f43e52fd0750df9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
 
 [^f00002]: Footnote: The term “Welsh Tribunal” is defined in section 59(1) of the Wales Act 2017.
 
@@ -235,19 +235,19 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00006]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Subsection (2) was amended by paragraph 31(3)(b) of Schedule 3 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) and by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
-[^key-e253cc5512c2624361b2aa5faa97ec7d]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/2/b) table inserted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [7(2)](https://www.legislation.gov.uk/wsi/2022/913/regulation/7/2)
+[^c-e253cc5512c2624361b2aa5faa97ec7d]: Textual amendment: Words in [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/2/b) table inserted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [7(2)](https://www.legislation.gov.uk/wsi/2022/913/regulation/7/2)
 
 [^f00007]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
 [^f00008]: Footnote: [2011 nawm 1](https://www.legislation.gov.uk/mwa/2011/1).
 
-[^key-9ae140091caaa5f5459deb1f5d15be53]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1282/regulation/2) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+[^c-9ae140091caaa5f5459deb1f5d15be53]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1282/regulation/2) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
 
 [^f00009]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4). There are amendments to Schedule 14 but none are relevant.
 
 [^f00010]: Footnote: [S.I. 2013/1237](https://www.legislation.gov.uk/uksi/2013/1237).
 
-[^key-6582a773466d1cc51c2b969449ca09b9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1282/regulation/3) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+[^c-6582a773466d1cc51c2b969449ca09b9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1282/regulation/3) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
 
 [^f00011]: Footnote: The Judicial Appointments Commission (see paragraph 2(5) of Schedule 5 to the Wales Act 2017).
 
@@ -255,12 +255,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00013]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-78ebb2af5bb78f1e7272877158f9fceb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1282/regulation/4) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+[^c-78ebb2af5bb78f1e7272877158f9fceb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1282/regulation/4) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
 
-[^key-fc7ffc4b66b0bce39780fd3cb119dea0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1282/regulation/5) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+[^c-fc7ffc4b66b0bce39780fd3cb119dea0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1282/regulation/5) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
 
-[^key-38de00a8d795ab23ecfe8938f635316f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1282/regulation/6) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+[^c-38de00a8d795ab23ecfe8938f635316f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1282/regulation/6) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
 
-[^key-46cca8092379e3029c2aebf905fcf7ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1282/regulation/7) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+[^c-46cca8092379e3029c2aebf905fcf7ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1282/regulation/7) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
 
-[^key-a9fcb0954d7d380f2ad6ebdcacf7cc96]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1282/regulation/8) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)
+[^c-a9fcb0954d7d380f2ad6ebdcacf7cc96]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1282/regulation/8) in force at 12.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1282/regulation/1/1)

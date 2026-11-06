@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Calculation of capital in the United Kingdom[^key-d831322ca7930f09b4dcaf75afc59a77]
+## 47. Calculation of capital in the United Kingdom[^c-d831322ca7930f09b4dcaf75afc59a77]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Capital which a claimant possesses in the United Kingdom shall be calculated at 
 
 ## Annotations
 
-[^key-d831322ca7930f09b4dcaf75afc59a77]: Textual amendment: Reg. 47 substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/11/8)
+[^c-d831322ca7930f09b4dcaf75afc59a77]: Textual amendment: Reg. 47 substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/11/8)

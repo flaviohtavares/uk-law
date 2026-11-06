@@ -41,8 +41,8 @@ summary: ''
 
 (6) Any death grant paid under this Part must be paid to the appointor's death grant beneficiary or, if more than one, death grant beneficiaries in the shares determined in accordance with paragraphs (4) and (5).
 
-(7) But where there is no death grant beneficiary, the death grant must be paid to the appointor's surviving spouse or surviving civil partner , or surviving qualifying partner[^key-a38ad5fe2a49e1bfe9af8346f7f0b51b] or, if there is no such person, to the appointor's personal representatives as part of the appointor's estate.
+(7) But where there is no death grant beneficiary, the death grant must be paid to the appointor's surviving spouse or surviving civil partner , or surviving qualifying partner[^c-a38ad5fe2a49e1bfe9af8346f7f0b51b] or, if there is no such person, to the appointor's personal representatives as part of the appointor's estate.
 
 ## Annotations
 
-[^key-a38ad5fe2a49e1bfe9af8346f7f0b51b]: Textual amendment: Words in [reg. 103(7)](https://www.legislation.gov.uk/uksi/2010/990/regulation/103/7) inserted (1.9.2019 with effect from 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1134/regulation/12)
+[^c-a38ad5fe2a49e1bfe9af8346f7f0b51b]: Textual amendment: Words in [reg. 103(7)](https://www.legislation.gov.uk/uksi/2010/990/regulation/103/7) inserted (1.9.2019 with effect from 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1134/regulation/12)

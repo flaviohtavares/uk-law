@@ -35,20 +35,20 @@ amending Delegated Regulation (EU) No 876/2013 supplementing Regulation (EU) No 
 
 (Text with EEA relevance) (revoked)
 
-[^key-9d02200014e6893a80997c9b0baef793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d02200014e6893a80997c9b0baef793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Delegated Regulation (EU) No 876/2013[^key-9d02200014e6893a80997c9b0baef793]
+## Article 1. Amendments to Delegated Regulation (EU) No 876/2013[^c-9d02200014e6893a80997c9b0baef793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-9d02200014e6893a80997c9b0baef793]
+## Article 2. Entry into force[^c-9d02200014e6893a80997c9b0baef793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d02200014e6893a80997c9b0baef793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d02200014e6893a80997c9b0baef793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d02200014e6893a80997c9b0baef793]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)
+[^c-9d02200014e6893a80997c9b0baef793]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)

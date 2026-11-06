@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Policy statements relating to critical benchmarks[^key-05b6a47eeab7f0aa15e7af3b96a49421]
+## 17. Policy statements relating to critical benchmarks[^c-05b6a47eeab7f0aa15e7af3b96a49421]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05b6a47eeab7f0aa15e7af3b96a49421]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/22/section/17) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/j)
+[^c-05b6a47eeab7f0aa15e7af3b96a49421]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/22/section/17) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/j)

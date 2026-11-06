@@ -65,7 +65,7 @@ These Regulations may be cited as the Food Safety (Sampling and Qualifications) 
     - (ii) in any other case, the occupier of the premises on which the machine stands or to which it is affixed;
   - (c) in any other case, the person appearing to the authorised officer to be the owner of the sample when the officer procured it;
 - “**qualified**” means qualified for the purposes of the Order;
-- “[^key-27dc85a026169c31751f37891290e330]**specified state**” means one of the states listed in Schedule 1 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
+- “[^c-27dc85a026169c31751f37891290e330]**specified state**” means one of the states listed in Schedule 1 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
 - “**the Order**” means the Food Safety (Northern Ireland) Order 1991.
 
 (2) The Interpretation Act (Northern Ireland) 1954 [^c21705501] applies to these Regulations as it applies to an Act of the Assembly.
@@ -179,9 +179,9 @@ Regulation 3
 | *Title* | *Reference* | *Specified provisions* |
 | --- | --- | --- |
 | The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations (Northern Ireland)1998 | S.R. 1998 No. 237 | Regulations 7,8,9 and 10 |
-| [^key-760bbb1d78e491c0d2aef9f3c29f8709]. . . | [^key-760bbb1d78e491c0d2aef9f3c29f8709]. . . | [^key-760bbb1d78e491c0d2aef9f3c29f8709]. . . |
+| [^c-760bbb1d78e491c0d2aef9f3c29f8709]. . . | [^c-760bbb1d78e491c0d2aef9f3c29f8709]. . . | [^c-760bbb1d78e491c0d2aef9f3c29f8709]. . . |
 | The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2012 | S.R. 2012 No. 384 | Regulations 7,8 and 9 |
-| The Contaminants in Food Regulations (Northern Ireland) 2013[^key-e2f308930cc5f0f7ffbdf1a17405ac2a] (to the extent that a sample falls to be prepared and analysed in accordance with Commission Regulation [(EC) No. 1881/2006](https://www.legislation.gov.uk/european/regulation/2006/1881) setting maximum levels for certain contaminants in foodstuffs) [^c21705541] | S.R. 2013 No. 229 | Regulations 7,8 and 9 |
+| The Contaminants in Food Regulations (Northern Ireland) 2013[^c-e2f308930cc5f0f7ffbdf1a17405ac2a] (to the extent that a sample falls to be prepared and analysed in accordance with Commission Regulation [(EC) No. 1881/2006](https://www.legislation.gov.uk/european/regulation/2006/1881) setting maximum levels for certain contaminants in foodstuffs) [^c21705541] | S.R. 2013 No. 229 | Regulations 7,8 and 9 |
 | The Poultrymeat Regulations (Northern Ireland) 2011 | S.R. 2011 No. 315 | Regulations 7,8 and 9 |
 
 ## SCHEDULE 2 — Qualifications of Food Examiners
@@ -203,17 +203,17 @@ Regulation 5
 
 **5.** Fellowship or Membership of the Institute of Food Science and Technology.
 
-**6.** In paragraphs 1 and 2 of this Part, “**degree**” means a degree awarded by a body recognised for the purposes of Article 3 of the Education (Unrecognised Degrees) (Northern Ireland) Order 1988 [^c21705551] (which relates to bodies empowered to award degrees in the United Kingdom) or by a university in a Member State of the European Union or in a specified state[^key-fe7c1a3960186896d0bd9c5bebee1ae9] .
+**6.** In paragraphs 1 and 2 of this Part, “**degree**” means a degree awarded by a body recognised for the purposes of Article 3 of the Education (Unrecognised Degrees) (Northern Ireland) Order 1988 [^c21705551] (which relates to bodies empowered to award degrees in the United Kingdom) or by a university in a Member State of the European Union or in a specified state[^c-fe7c1a3960186896d0bd9c5bebee1ae9] .
 
 ### PART 2
 
 **1.** The Laboratory of the Government Chemist.
 
-**2.** A laboratory owned by a Government Department or a laboratory under the equivalent control of the government of a Member State of the European Union or of a specified state[^key-f6c18e2600a7c56808f1ef4e3403a0ae] .
+**2.** A laboratory owned by a Government Department or a laboratory under the equivalent control of the government of a Member State of the European Union or of a specified state[^c-f6c18e2600a7c56808f1ef4e3403a0ae] .
 
-**3.** A laboratory appointed as an official laboratory under Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.[^key-5f771ca52051d0eb17d08c448d6fe5fe] .
+**3.** A laboratory appointed as an official laboratory under Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.[^c-5f771ca52051d0eb17d08c448d6fe5fe] .
 
-**4.** A laboratory of a university in the United Kingdom or of a Member State of the European Union or of a specified state[^key-4062bdf0d312721913c9247333608d89] .
+**4.** A laboratory of a university in the United Kingdom or of a Member State of the European Union or of a specified state[^c-4062bdf0d312721913c9247333608d89] .
 
 **5.** A laboratory of a fundable body within the meaning of the Further and Higher Education (Scotland) Act 2005 [^c21705561].
 
@@ -254,7 +254,7 @@ The Regulations also make consequential amendments to other Regulations (*regula
 
 [^c21705491]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Commission Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the treaty to Council Decision 1999/468/EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p14)
 
-[^key-27dc85a026169c31751f37891290e330]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2013/66/regulation/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/9/2)
+[^c-27dc85a026169c31751f37891290e330]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2013/66/regulation/2) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/9/2)
 
 [^c21705501]: Marginal citation: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -264,20 +264,20 @@ The Regulations also make consequential amendments to other Regulations (*regula
 
 [^c21705531]: Marginal citation: S.R. [2009 No. 427](https://www.legislation.gov.uk/ukcm/2009/427)
 
-[^key-760bbb1d78e491c0d2aef9f3c29f8709]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2013/66/schedule/1) omitted (28.11.2015) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2015 (S.R. 2015/365)](https://www.legislation.gov.uk/nisr/2015/365), [reg. 1](https://www.legislation.gov.uk/nisr/2015/365/regulation/1), [Sch. 13 para. 2](https://www.legislation.gov.uk/nisr/2015/365/schedule/13/paragraph/2)
+[^c-760bbb1d78e491c0d2aef9f3c29f8709]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2013/66/schedule/1) omitted (28.11.2015) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water Regulations (Northern Ireland) 2015 (S.R. 2015/365)](https://www.legislation.gov.uk/nisr/2015/365), [reg. 1](https://www.legislation.gov.uk/nisr/2015/365/regulation/1), [Sch. 13 para. 2](https://www.legislation.gov.uk/nisr/2015/365/schedule/13/paragraph/2)
 
-[^key-e2f308930cc5f0f7ffbdf1a17405ac2a]: Textual amendment: Words in Sch. 1 substituted (31.10.2013) by [The Contaminants in Food Regulations (Northern Ireland) 2013 (S.R. 2013/229)](https://www.legislation.gov.uk/nisr/2013/229), [regs. 1](https://www.legislation.gov.uk/nisr/2013/229/regulation/1), [9](https://www.legislation.gov.uk/nisr/2013/229/regulation/9)
+[^c-e2f308930cc5f0f7ffbdf1a17405ac2a]: Textual amendment: Words in Sch. 1 substituted (31.10.2013) by [The Contaminants in Food Regulations (Northern Ireland) 2013 (S.R. 2013/229)](https://www.legislation.gov.uk/nisr/2013/229), [regs. 1](https://www.legislation.gov.uk/nisr/2013/229/regulation/1), [9](https://www.legislation.gov.uk/nisr/2013/229/regulation/9)
 
 [^c21705541]: Marginal citation: OJ No. L364, 20.12.2006, p.5
 
 [^c21705551]: Marginal citation: [S.I. 1988/1989 (N.I. 22)](https://www.legislation.gov.uk/nisi/1988/1989)
 
-[^key-fe7c1a3960186896d0bd9c5bebee1ae9]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/nisr/2013/66/schedule/2/part/1/paragraph/6) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/9/3/a)
+[^c-fe7c1a3960186896d0bd9c5bebee1ae9]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/nisr/2013/66/schedule/2/part/1/paragraph/6) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/9/3/a)
 
-[^key-f6c18e2600a7c56808f1ef4e3403a0ae]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2013/66/schedule/2/part/2/paragraph/2) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/9/3/b)
+[^c-f6c18e2600a7c56808f1ef4e3403a0ae]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2013/66/schedule/2/part/2/paragraph/2) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/9/3/b)
 
-[^key-5f771ca52051d0eb17d08c448d6fe5fe]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2013/66/schedule/2/part/2/paragraph/3) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [39](https://www.legislation.gov.uk/nisr/2019/218/regulation/39)
+[^c-5f771ca52051d0eb17d08c448d6fe5fe]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2013/66/schedule/2/part/2/paragraph/3) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [39](https://www.legislation.gov.uk/nisr/2019/218/regulation/39)
 
-[^key-4062bdf0d312721913c9247333608d89]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/nisr/2013/66/schedule/2/part/2/paragraph/4) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/9/3/b)
+[^c-4062bdf0d312721913c9247333608d89]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/nisr/2013/66/schedule/2/part/2/paragraph/4) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/9/3/b)
 
 [^c21705561]: Marginal citation: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6)

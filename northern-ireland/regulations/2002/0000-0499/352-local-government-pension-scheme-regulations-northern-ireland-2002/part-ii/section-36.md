@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Surrenders of pension[^key-1ff9320d6f3ebb2c90ad201c9d5042c4]
+## 36. Surrenders of pension[^c-1ff9320d6f3ebb2c90ad201c9d5042c4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ff9320d6f3ebb2c90ad201c9d5042c4]: Textual amendment: [Reg. 36](https://www.legislation.gov.uk/nisr/2002/352/regulation/36) deleted (6.4.2006) by [Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/152)](https://www.legislation.gov.uk/nisr/2007/152), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1), [16](https://www.legislation.gov.uk/nisr/2007/152/regulation/16)
+[^c-1ff9320d6f3ebb2c90ad201c9d5042c4]: Textual amendment: [Reg. 36](https://www.legislation.gov.uk/nisr/2002/352/regulation/36) deleted (6.4.2006) by [Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/152)](https://www.legislation.gov.uk/nisr/2007/152), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1), [16](https://www.legislation.gov.uk/nisr/2007/152/regulation/16)

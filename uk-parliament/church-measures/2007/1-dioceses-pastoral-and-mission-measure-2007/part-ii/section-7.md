@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 7. Making of reorganisation scheme[^key-8efb896d0eff2f6a4aa31ab65fdd14b8]
+## 7. Making of reorganisation scheme[^c-8efb896d0eff2f6a4aa31ab65fdd14b8]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ the archbishop may authorise the Commission to lay the draft scheme before the G
 
 ## Annotations
 
-[^key-8efb896d0eff2f6a4aa31ab65fdd14b8]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2007/1/section/7) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-8efb896d0eff2f6a4aa31ab65fdd14b8]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2007/1/section/7) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

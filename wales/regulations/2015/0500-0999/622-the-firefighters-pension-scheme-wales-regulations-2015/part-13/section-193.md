@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 193. Annual benefit information statements[^key-927b1e2e652f9574951a000f675bcc6f]
+## 193. Annual benefit information statements[^c-927b1e2e652f9574951a000f675bcc6f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-927b1e2e652f9574951a000f675bcc6f]: Commencement: Reg. 193 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-927b1e2e652f9574951a000f675bcc6f]: Commencement: Reg. 193 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

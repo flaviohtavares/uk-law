@@ -102,17 +102,17 @@ Most Gracious Sovereign,
 
 ## Car tax
 
-### 8. Reduction of rates.[^key-c06787641cd37b1b3d1a184a8d33b369]
+### 8. Reduction of rates.[^c-c06787641cd37b1b3d1a184a8d33b369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Income tax
 
-### 9. Lower rate.[^key-8cd5ea3fcbd02b1481398a9f9d774bb7]
+### 9. Lower rate.[^c-8cd5ea3fcbd02b1481398a9f9d774bb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Charge etc. for 1992-93.[^key-4ec2ba57e84551b2c6e35a92acdf4f94]
+### 10. Charge etc. for 1992-93.[^c-4ec2ba57e84551b2c6e35a92acdf4f94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -164,10 +164,10 @@ Section 1.
 
 [^c933102]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1992/20/section/7) repealed (1.9.1994) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/1994/23/section/100/2), [101(1)](https://www.legislation.gov.uk/ukpga/1994/23/section/101/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1994/23/schedule/15)
 
-[^key-c06787641cd37b1b3d1a184a8d33b369]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1992/20/section/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
+[^c-c06787641cd37b1b3d1a184a8d33b369]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1992/20/section/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
 
-[^key-8cd5ea3fcbd02b1481398a9f9d774bb7]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1992/20/section/9) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8cd5ea3fcbd02b1481398a9f9d774bb7]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1992/20/section/9) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-4ec2ba57e84551b2c6e35a92acdf4f94]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1992/20/section/10) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-4ec2ba57e84551b2c6e35a92acdf4f94]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1992/20/section/10) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c933104]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).

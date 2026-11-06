@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 150. Fees and allowances payable to the board[^key-32eb14b9f4a4b0440fc20aff534180a9]
+## 150. Fees and allowances payable to the board[^c-32eb14b9f4a4b0440fc20aff534180a9]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32eb14b9f4a4b0440fc20aff534180a9]: Commencement: [Reg. 150](https://www.legislation.gov.uk/ssi/2015/19/regulation/150) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-32eb14b9f4a4b0440fc20aff534180a9]: Commencement: [Reg. 150](https://www.legislation.gov.uk/ssi/2015/19/regulation/150) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

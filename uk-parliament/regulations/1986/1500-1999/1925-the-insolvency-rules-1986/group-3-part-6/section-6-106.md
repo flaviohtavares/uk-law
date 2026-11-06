@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.106. Withdrawal or variation of proof[^key-132a95014e1a012f8c7198a1b2679ecc]
+## 6.106. Withdrawal or variation of proof[^c-132a95014e1a012f8c7198a1b2679ecc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A creditor's proof may at any time, by agreement between himself and the trustee
 
 ## Annotations
 
-[^key-132a95014e1a012f8c7198a1b2679ecc]: Commencement: [Rule 6.106](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.106) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-132a95014e1a012f8c7198a1b2679ecc]: Commencement: [Rule 6.106](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.106) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

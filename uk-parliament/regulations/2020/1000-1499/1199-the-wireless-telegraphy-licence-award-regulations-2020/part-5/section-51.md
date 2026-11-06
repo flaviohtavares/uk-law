@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Alternative method for submission of principal stage form[^key-99a7e1d0be29b116e689b28929b32cc7]
+## 51. Alternative method for submission of principal stage form[^c-99a7e1d0be29b116e689b28929b32cc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99a7e1d0be29b116e689b28929b32cc7]: Commencement: Reg. 51 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-99a7e1d0be29b116e689b28929b32cc7]: Commencement: Reg. 51 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

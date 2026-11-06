@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Capital distribution of chargeable gains: recovery of tax from shareholder.[^c2138343][^key-c42008dae329e95a470c4862d376625e]
+## 189. Capital distribution of chargeable gains: recovery of tax from shareholder.[^c2138343][^c-c42008dae329e95a470c4862d376625e]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ and that person is referred to below as “**the shareholder**”.
 
 [^c2138343]: Commencement: S. 189: 30.9.1993 appointed for the purposes of s. 189 by [S.I. 1992/3066](https://www.legislation.gov.uk/uksi/1992/3066), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/1992/3066/article/2/2/d)
 
-[^key-c42008dae329e95a470c4862d376625e]: Modification: Ss. 170-192 restricted (27.7.1999) by [Commonwealth Development Corporation Act 1999 (c. 20)](https://www.legislation.gov.uk/ukpga/1999/20), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/1), [4(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/4/1)
+[^c-c42008dae329e95a470c4862d376625e]: Modification: Ss. 170-192 restricted (27.7.1999) by [Commonwealth Development Corporation Act 1999 (c. 20)](https://www.legislation.gov.uk/ukpga/1999/20), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/1), [4(1)](https://www.legislation.gov.uk/ukpga/1999/20/schedule/3/paragraph/4/1)

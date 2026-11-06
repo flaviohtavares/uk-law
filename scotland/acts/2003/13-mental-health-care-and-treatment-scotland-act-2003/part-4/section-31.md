@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Assistance from Health Boards and others[^key-308509fe580295aadc88121f8da24b0c]
+## 31. Assistance from Health Boards and others[^c-308509fe580295aadc88121f8da24b0c]
 
 *Extent: S*
 
@@ -34,10 +34,10 @@ the authority may request the Health Board, Special Health Board or National Hea
 
 comply with the request.
 
-(3) This section is without prejudice to section 21 of the Children (Scotland) Act 1995 (c. 36) (which enables a local authority to require assistance from a Health Board, a National Health Service trust or others in the exercise of the authority’s functions under Part II of that Act) and section 183 of the Children’s Hearings (Scotland) Act[^key-1dd6b96fd3768e04bb4ec7829c9df5e8] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) (which enables a local authority to obtain assistance from another local authority or a health board in the carrying out of the authority’s functions under the Act).
+(3) This section is without prejudice to section 21 of the Children (Scotland) Act 1995 (c. 36) (which enables a local authority to require assistance from a Health Board, a National Health Service trust or others in the exercise of the authority’s functions under Part II of that Act) and section 183 of the Children’s Hearings (Scotland) Act[^c-1dd6b96fd3768e04bb4ec7829c9df5e8] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) (which enables a local authority to obtain assistance from another local authority or a health board in the carrying out of the authority’s functions under the Act).
 
 ## Annotations
 
-[^key-308509fe580295aadc88121f8da24b0c]: Commencement: S. 31 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-308509fe580295aadc88121f8da24b0c]: Commencement: S. 31 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-1dd6b96fd3768e04bb4ec7829c9df5e8]: Textual amendment: Words in [s. 31(3)](https://www.legislation.gov.uk/asp/2003/13/section/31/3) inserted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/13)
+[^c-1dd6b96fd3768e04bb4ec7829c9df5e8]: Textual amendment: Words in [s. 31(3)](https://www.legislation.gov.uk/asp/2003/13/section/31/3) inserted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 13](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/13)

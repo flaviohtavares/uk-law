@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Registration procedure[^key-ca6ca3fa8ece54911d145be0c7cb61f6]
+## 20. Registration procedure[^c-ca6ca3fa8ece54911d145be0c7cb61f6]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca6ca3fa8ece54911d145be0c7cb61f6]: Commencement: S. 20 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-ca6ca3fa8ece54911d145be0c7cb61f6]: Commencement: S. 20 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

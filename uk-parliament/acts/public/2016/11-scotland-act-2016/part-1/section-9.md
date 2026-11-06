@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Functions exercisable within devolved competence: elections[^key-af10363c40bdb7782af4c631177fd4ab]
+## 9. Functions exercisable within devolved competence: elections[^c-af10363c40bdb7782af4c631177fd4ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ but did not include the 1998 Act or this Act (or any amendment made by either of
 
 ## Annotations
 
-[^key-af10363c40bdb7782af4c631177fd4ab]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/11/section/9) in force at 18.5.2017 immediately after ss. 3-8, 10-12 come into force by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/2)
+[^c-af10363c40bdb7782af4c631177fd4ab]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/11/section/9) in force at 18.5.2017 immediately after ss. 3-8, 10-12 come into force by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/2)

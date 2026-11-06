@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Amendment of section 71[^key-935043e9d47ccfce3000ab1bd958177f]
+## 110. Amendment of section 71[^c-935043e9d47ccfce3000ab1bd958177f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-935043e9d47ccfce3000ab1bd958177f]: Commencement: Reg. 110 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-935043e9d47ccfce3000ab1bd958177f]: Commencement: Reg. 110 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00089]: Footnote: Section 71(3A) was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and amended by section 230 of, and Schedule 15 to, the Health and Social Care Act 2012. There are other amendments to section 71, but these are not relevant to these Regulations.

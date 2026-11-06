@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.E.8. Surviving children’s pensions[^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.E.8. Surviving children’s pensions[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -41,10 +41,10 @@ summary: ''
 - (a) a pension is only payable in respect of two of them, and
 - (b) the amount payable is equal to the sum of the two highest pensions.
 
-(10) For the rate at which the pension referred to in paragraph (1) is payable, see regulations 3.E.10 to 3.E.15 and, in any case where that pension includes additional pension, regulations 3.C.12(4) and 3.C.14(3)[^key-ba48f0175393ac32398104dfc92e3775].
+(10) For the rate at which the pension referred to in paragraph (1) is payable, see regulations 3.E.10 to 3.E.15 and, in any case where that pension includes additional pension, regulations 3.C.12(4) and 3.C.14(3)[^c-ba48f0175393ac32398104dfc92e3775].
 
 ## Annotations
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-ba48f0175393ac32398104dfc92e3775]: Textual amendment: Words in [reg. 3.E.8(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.E.8/10) substituted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [70](https://www.legislation.gov.uk/uksi/2009/381/regulation/70) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-ba48f0175393ac32398104dfc92e3775]: Textual amendment: Words in [reg. 3.E.8(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.E.8/10) substituted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [70](https://www.legislation.gov.uk/uksi/2009/381/regulation/70) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))

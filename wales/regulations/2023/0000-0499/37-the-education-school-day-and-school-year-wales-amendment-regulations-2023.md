@@ -45,11 +45,11 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 551 and 569(4) and (5) of the Education Act 1996[^f00001], and now vested in them[^f00002], make the following Regulations:
 
-## 1. Title and commencement[^key-90f87a513ea1d87fcd5b10e0ff33847f]
+## 1. Title and commencement[^c-90f87a513ea1d87fcd5b10e0ff33847f]
 
 The title of these Regulations is the Education (School Day and School Year) (Wales) (Amendment) Regulations 2023 and they come into force on 10 February 2023.
 
-## 2. Amendment of the Education (School Day and School Year) (Wales) Regulations 2003[^key-3bae7644466e0c11b082760b296bf531]
+## 2. Amendment of the Education (School Day and School Year) (Wales) Regulations 2003[^c-3bae7644466e0c11b082760b296bf531]
 
 (1) The Education (School Day and School Year) (Wales) Regulations 2003[^f00003] are amended as follows.
 
@@ -97,9 +97,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The functions of the Secretary of State were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-90f87a513ea1d87fcd5b10e0ff33847f]: Commencement: Reg. 1 in force at 10.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/37/regulation/1)
+[^c-90f87a513ea1d87fcd5b10e0ff33847f]: Commencement: Reg. 1 in force at 10.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/37/regulation/1)
 
-[^key-3bae7644466e0c11b082760b296bf531]: Commencement: Reg. 2 in force at 10.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/37/regulation/1)
+[^c-3bae7644466e0c11b082760b296bf531]: Commencement: Reg. 2 in force at 10.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/37/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2003/3231 (W. 311)](https://www.legislation.gov.uk/wsi/2003/3231), amended by [S.I. 2006/1262 (W. 119)](https://www.legislation.gov.uk/wsi/2006/1262), [S.I. 2008/1739 (W. 171)](https://www.legislation.gov.uk/wsi/2008/1739), [S.I. 2011/149 (W. 33)](https://www.legislation.gov.uk/wsi/2011/149), [S.I. 2012/248 (W. 41)](https://www.legislation.gov.uk/wsi/2012/248), [S.I. 2019/1131 (W. 196)](https://www.legislation.gov.uk/wsi/2019/1131), [S.I. 2020/848 (W. 187)](https://www.legislation.gov.uk/wsi/2020/848), [S.I. 2021/1476 (W. 378)](https://www.legislation.gov.uk/wsi/2021/1476) and [S.I. 2022/61 (W. 23)](https://www.legislation.gov.uk/wsi/2022/61).
 

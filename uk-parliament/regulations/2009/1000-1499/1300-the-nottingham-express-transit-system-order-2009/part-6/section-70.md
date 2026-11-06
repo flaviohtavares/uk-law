@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Arrangements with highway authorities[^key-e26d52b92f9b03565681b993518d57ba]
+## 70. Arrangements with highway authorities[^c-e26d52b92f9b03565681b993518d57ba]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e26d52b92f9b03565681b993518d57ba]: Commencement: Art. 70 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-e26d52b92f9b03565681b993518d57ba]: Commencement: Art. 70 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00043]: Footnote: [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113).

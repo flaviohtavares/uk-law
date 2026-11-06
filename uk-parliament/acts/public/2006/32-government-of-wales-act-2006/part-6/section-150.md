@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may by order make such provision as the Secretary of State considers appropriate in consequence of—
 
-- (a) any provision made by an Assembly Measure or Act of the Senedd[^key-60edd79c70d763519861630d1afb7962],
+- (a) any provision made by an Assembly Measure or Act of the Senedd[^c-60edd79c70d763519861630d1afb7962],
 - (b) any provision of subordinate legislation made, or purporting to be made, under an Assembly Measure or Act of the Senedd,
 - (c) any provision of subordinate legislation made, or purporting to be made, by the Welsh Ministers, the First Minister or the Counsel General, or
 - (d) any provision of subordinate legislation made, or purporting to be made, by any other person (not being a Minister of the Crown) in the exercise of a function conferred or imposed by Act of Parliament where the statutory instrument (or a draft of the statutory instrument) containing the subordinate legislation is required to be laid before the Senedd.
@@ -48,4 +48,4 @@ as the Secretary of State considers appropriate.
 
 [^c16543141]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

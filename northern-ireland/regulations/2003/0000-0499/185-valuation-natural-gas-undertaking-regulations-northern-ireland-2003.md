@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Valuation (Natural Gas Undertaking) Regulations (Northern Ireland) 2003 (revoked)[^key-4144022a269f008de33fb1dc3abf7ceb]
+Valuation (Natural Gas Undertaking) Regulations (Northern Ireland) 2003 (revoked)[^c-4144022a269f008de33fb1dc3abf7ceb]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st April 2003
 
-[^key-4144022a269f008de33fb1dc3abf7ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4144022a269f008de33fb1dc3abf7ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4144022a269f008de33fb1dc3abf7ceb]
+## 1. Citation and commencement[^c-4144022a269f008de33fb1dc3abf7ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4144022a269f008de33fb1dc3abf7ceb]
+## 2. Interpretation[^c-4144022a269f008de33fb1dc3abf7ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Phoenix Natural Gas Limited[^key-4144022a269f008de33fb1dc3abf7ceb]
+## 3. Phoenix Natural Gas Limited[^c-4144022a269f008de33fb1dc3abf7ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4144022a269f008de33fb1dc3abf7ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4144022a269f008de33fb1dc3abf7ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4144022a269f008de33fb1dc3abf7ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4144022a269f008de33fb1dc3abf7ceb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4144022a269f008de33fb1dc3abf7ceb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/185) revoked (26.11.2004) by [Valuation (Natural Gas Undertaking) Regulations (Northern Ireland) 2004 (S.R. 2004/462)](https://www.legislation.gov.uk/nisr/2004/462), [regs. 1](https://www.legislation.gov.uk/nisr/2004/462/regulation/1), [5](https://www.legislation.gov.uk/nisr/2004/462/regulation/5)
+[^c-4144022a269f008de33fb1dc3abf7ceb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/185) revoked (26.11.2004) by [Valuation (Natural Gas Undertaking) Regulations (Northern Ireland) 2004 (S.R. 2004/462)](https://www.legislation.gov.uk/nisr/2004/462), [regs. 1](https://www.legislation.gov.uk/nisr/2004/462/regulation/1), [5](https://www.legislation.gov.uk/nisr/2004/462/regulation/5)

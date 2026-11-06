@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Effect of polygraph condition[^key-e0f6ee42de2003996fdd518fed91ddcd][^key-ff779eebfec6415d8fe1ae99e5439476]
+## 29. Effect of polygraph condition[^c-e0f6ee42de2003996fdd518fed91ddcd][^c-ff779eebfec6415d8fe1ae99e5439476]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ summary: ''
 - (b) make provision about the keeping of records of polygraph sessions; and
 - (c) make provision about the preparation of reports on the results of polygraph sessions.
 
-(7A)[^key-55144adb8c169f613aa223d7369c7e1c] Rules under subsection (6) may make—
+(7A)[^c-55144adb8c169f613aa223d7369c7e1c] Rules under subsection (6) may make—
 
 - (a) different provision for different purposes or different areas;
 - (b) incidental, supplemental, consequential, saving or transitional provision.
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e0f6ee42de2003996fdd518fed91ddcd]: Commencement: S. 29 in force at 19.1.2009 for specified purposes and with effect in accordance with art. 5 by [S.I. 2009/32](https://www.legislation.gov.uk/uksi/2009/32), [arts. 3(b)](https://www.legislation.gov.uk/uksi/2009/32/article/3/b), [4](https://www.legislation.gov.uk/uksi/2009/32/article/4)
+[^c-e0f6ee42de2003996fdd518fed91ddcd]: Commencement: S. 29 in force at 19.1.2009 for specified purposes and with effect in accordance with art. 5 by [S.I. 2009/32](https://www.legislation.gov.uk/uksi/2009/32), [arts. 3(b)](https://www.legislation.gov.uk/uksi/2009/32/article/3/b), [4](https://www.legislation.gov.uk/uksi/2009/32/article/4)
 
-[^key-ff779eebfec6415d8fe1ae99e5439476]: Commencement: S. 29 in force at 6.1.2014 in so far as not already in force by [S.I. 2013/1963](https://www.legislation.gov.uk/uksi/2013/1963), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1963/article/2/2)
+[^c-ff779eebfec6415d8fe1ae99e5439476]: Commencement: S. 29 in force at 6.1.2014 in so far as not already in force by [S.I. 2013/1963](https://www.legislation.gov.uk/uksi/2013/1963), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1963/article/2/2)
 
-[^key-55144adb8c169f613aa223d7369c7e1c]: Textual amendment: [S. 29(7A)](https://www.legislation.gov.uk/ukpga/2007/21/section/29/7A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/32/3), [50(2)(q)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/q)
+[^c-55144adb8c169f613aa223d7369c7e1c]: Textual amendment: [S. 29(7A)](https://www.legislation.gov.uk/ukpga/2007/21/section/29/7A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/32/3), [50(2)(q)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/q)

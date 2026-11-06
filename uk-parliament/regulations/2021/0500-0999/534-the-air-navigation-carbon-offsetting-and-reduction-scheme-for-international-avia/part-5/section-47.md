@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Powers of entry, etc.[^key-de818d259b0a9f16a6eb0212029c2b11]
+## 47. Powers of entry, etc.[^c-de818d259b0a9f16a6eb0212029c2b11]
 
 *Extent: E+W+S+N.I.*
 
 (1) A Regulator or an authorised person may—
 
-- (a) enter any premises with a warrant issued in accordance with article 48, together with any equipment or material as may be required,[^key-bfb3c8c587c136d498114b44047dd15c]
+- (a) enter any premises with a warrant issued in accordance with article 48, together with any equipment or material as may be required,[^c-bfb3c8c587c136d498114b44047dd15c]
 - (b) when entering premises by virtue of sub-paragraph (a)—
   - (i) be accompanied by an authorised person and, if considered appropriate, a constable,
   - (ii) direct that any part of the premises be left undisturbed for so long as may be necessary,
@@ -40,7 +40,7 @@ summary: ''
 
 (3) Except to the extent agreed by the person in control of a place or premises, the powers referred to in paragraph (1) do not apply in relation to—
 
-- (a) a prohibited place within the meaning of Part 1 of the National Security Act 2023[^key-74cb85a300a515208a6614938657adf2] , or
+- (a) a prohibited place within the meaning of Part 1 of the National Security Act 2023[^c-74cb85a300a515208a6614938657adf2] , or
 - (b) any other premises to which the Crown restricts access on the ground of national security.
 
 (4) It is an offence for a person—
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-de818d259b0a9f16a6eb0212029c2b11]: Commencement: Art. 47 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-de818d259b0a9f16a6eb0212029c2b11]: Commencement: Art. 47 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-bfb3c8c587c136d498114b44047dd15c]: Textual amendment: [Art. 47](https://www.legislation.gov.uk/uksi/2021/534/article/47): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)
+[^c-bfb3c8c587c136d498114b44047dd15c]: Textual amendment: [Art. 47](https://www.legislation.gov.uk/uksi/2021/534/article/47): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)
 
-[^key-74cb85a300a515208a6614938657adf2]: Textual amendment: Words in [art. 47(3)(a)](https://www.legislation.gov.uk/uksi/2021/534/article/47/3/a) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/60)
+[^c-74cb85a300a515208a6614938657adf2]: Textual amendment: Words in [art. 47(3)(a)](https://www.legislation.gov.uk/uksi/2021/534/article/47/3/a) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/60)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.8. Unauthorised use of disclosed material[^key-f462bc68b458bf09af4e4e9f65a86d39]
+## 15.8. Unauthorised use of disclosed material[^c-f462bc68b458bf09af4e4e9f65a86d39]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ is present, or has had at least 10 business days in which to make representation
 
 ## Annotations
 
-[^key-f462bc68b458bf09af4e4e9f65a86d39]: Commencement: [Rule 15.8](https://www.legislation.gov.uk/uksi/2025/909/rule/15.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f462bc68b458bf09af4e4e9f65a86d39]: Commencement: [Rule 15.8](https://www.legislation.gov.uk/uksi/2025/909/rule/15.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

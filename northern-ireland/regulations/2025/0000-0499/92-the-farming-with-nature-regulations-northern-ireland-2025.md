@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs, in exercise of the powers conferred by section 48 of, and paragraph 7 of Schedule 6 to the Agriculture Act 2020[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-bea1e59a4415091cb81ea6dcc3907387]
+## 1. Citation and commencement[^c-bea1e59a4415091cb81ea6dcc3907387]
 
 These Regulations may be cited as The Farming with Nature Regulations (Northern Ireland) 2025 and shall come into operation on the day after the day on which it is affirmed by resolution of the Assembly.
 
-## 2. Interpretation[^key-fdf8d33990e8e05a407b309887ba29c1]
+## 2. Interpretation[^c-fdf8d33990e8e05a407b309887ba29c1]
 
 (1) In these Regulations—
 
@@ -56,11 +56,11 @@ These Regulations may be cited as The Farming with Nature Regulations (Northern 
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Amendment of the Rural Development Regulation[^key-7a81de10905d0f3f9081b3933c0edce3]
+## 3. Amendment of the Rural Development Regulation[^c-7a81de10905d0f3f9081b3933c0edce3]
 
 The Rural Development Regulation is amended in accordance with regulations 4 and 5.
 
-**4.**[^key-9187ff10f7da57c3f27523a87fb806db] In Article 28—
+**4.**[^c-9187ff10f7da57c3f27523a87fb806db] In Article 28—
 
 - (a) for paragraph 5 substitute—
 
@@ -80,7 +80,7 @@ The Rural Development Regulation is amended in accordance with regulations 4 and
 
   .
 
-**5.**[^key-bf74ad5a5ef7679fa716c71761a02fa6] In Article 35—
+**5.**[^c-bf74ad5a5ef7679fa716c71761a02fa6] In Article 35—
 
 - (a) for paragraph 8 substitute—
 
@@ -115,16 +115,16 @@ Regulation 5 amends paragraphs 8 and 10 of Article 35 of the Rural Development R
 
 [^f00001]: Footnote: [2020 c. 21](https://www.legislation.gov.uk/ukpga/2020/21)
 
-[^key-bea1e59a4415091cb81ea6dcc3907387]: Commencement: Reg. 1 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)
+[^c-bea1e59a4415091cb81ea6dcc3907387]: Commencement: Reg. 1 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)
 
-[^key-fdf8d33990e8e05a407b309887ba29c1]: Commencement: Reg. 2 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)
+[^c-fdf8d33990e8e05a407b309887ba29c1]: Commencement: Reg. 2 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)
 
 [^f00002]: Footnote: EUR 1305/2013
 
 [^f00003]: Footnote: [1954 c. 33](https://www.legislation.gov.uk/ukpga/1954/33)
 
-[^key-7a81de10905d0f3f9081b3933c0edce3]: Commencement: Reg. 3 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)
+[^c-7a81de10905d0f3f9081b3933c0edce3]: Commencement: Reg. 3 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)
 
-[^key-9187ff10f7da57c3f27523a87fb806db]: Commencement: Reg. 4 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)
+[^c-9187ff10f7da57c3f27523a87fb806db]: Commencement: Reg. 4 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)
 
-[^key-bf74ad5a5ef7679fa716c71761a02fa6]: Commencement: Reg. 5 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)
+[^c-bf74ad5a5ef7679fa716c71761a02fa6]: Commencement: Reg. 5 in operation at 20.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/92/regulation/1)

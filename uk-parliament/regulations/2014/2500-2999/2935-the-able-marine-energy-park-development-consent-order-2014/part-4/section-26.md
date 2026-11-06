@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Lights on tidal works etc. during construction[^key-4ba901b0b5336e404ac3154370b6d665]
+## 26. Lights on tidal works etc. during construction[^c-4ba901b0b5336e404ac3154370b6d665]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ during the whole time of the construction, alteration or relaying, exhibit every
 
 ## Annotations
 
-[^key-4ba901b0b5336e404ac3154370b6d665]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2014/2935/article/26) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-4ba901b0b5336e404ac3154370b6d665]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2014/2935/article/26) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

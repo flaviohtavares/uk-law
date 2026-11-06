@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Codes of practice: principles, objectives, content[^key-f68458e238469d1072c502766f36d82b]
+## 42. Codes of practice: principles, objectives, content[^c-f68458e238469d1072c502766f36d82b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Schedule 4 contains—
 
 ## Annotations
 
-[^key-f68458e238469d1072c502766f36d82b]: Commencement: S. 42 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)
+[^c-f68458e238469d1072c502766f36d82b]: Commencement: S. 42 in force at Royal Assent, see [s. 240(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/d)

@@ -39,18 +39,18 @@ on the notification by the United Kingdom of Great Britain and Northern Ireland 
 
 (2013/761/EU) (revoked)
 
-[^key-96d6faf22fa19301c841858d27690f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96d6faf22fa19301c841858d27690f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-96d6faf22fa19301c841858d27690f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-96d6faf22fa19301c841858d27690f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-96d6faf22fa19301c841858d27690f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-96d6faf22fa19301c841858d27690f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-96d6faf22fa19301c841858d27690f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96d6faf22fa19301c841858d27690f44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-96d6faf22fa19301c841858d27690f44]
+## ANNEX[^c-96d6faf22fa19301c841858d27690f44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96d6faf22fa19301c841858d27690f44]: Textual amendment: Decision revoked (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2018/1407/schedule/1/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96d6faf22fa19301c841858d27690f44]: Textual amendment: Decision revoked (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2018/1407/schedule/1/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

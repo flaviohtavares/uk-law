@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C11. Repayment of certain contributions paid for family benefits[^key-194e5a26116e24c998af081cd2a9489f]
+## C11. Repayment of certain contributions paid for family benefits[^c-194e5a26116e24c998af081cd2a9489f]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ his personal representatives are entitled to be paid an amount calculated in acc
 
 ## Annotations
 
-[^key-194e5a26116e24c998af081cd2a9489f]: Commencement: Reg. C11 in operation at 2.11.1998, see reg. A1
+[^c-194e5a26116e24c998af081cd2a9489f]: Commencement: Reg. C11 in operation at 2.11.1998, see reg. A1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48A. Annual returns[^key-864feb5496662d13f80c99dacaa1aae7]
+## 48A. Annual returns[^c-864feb5496662d13f80c99dacaa1aae7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-864feb5496662d13f80c99dacaa1aae7]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/asp/2005/10/section/48A) and cross-heading inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 15(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/15/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-864feb5496662d13f80c99dacaa1aae7]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/asp/2005/10/section/48A) and cross-heading inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 15(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/15/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)

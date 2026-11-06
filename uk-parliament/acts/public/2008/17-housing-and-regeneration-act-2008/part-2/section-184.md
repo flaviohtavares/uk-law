@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Right to acquire: supplemental[^key-f9abfc84e957fc78875bdd2bc61542a8][^key-1468216ddbb75a84d9f259e3f36fd170]
+## 184. Right to acquire: supplemental[^c-f9abfc84e957fc78875bdd2bc61542a8][^c-1468216ddbb75a84d9f259e3f36fd170]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ Nothing in this subsection affects the generality of the power conferred by subs
 
 ## Annotations
 
-[^key-f9abfc84e957fc78875bdd2bc61542a8]: Commencement: S. 184 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-f9abfc84e957fc78875bdd2bc61542a8]: Commencement: S. 184 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-1468216ddbb75a84d9f259e3f36fd170]: Textual amendment: S. 184(1)-(6) substituted for s. 184(1) (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 6(6)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/6); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-1468216ddbb75a84d9f259e3f36fd170]: Textual amendment: S. 184(1)-(6) substituted for s. 184(1) (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 6(6)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6/6); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)

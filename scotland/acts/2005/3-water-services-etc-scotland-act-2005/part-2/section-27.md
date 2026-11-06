@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Meaning of “eligible premises”[^key-ea0b15cc7e3d5a23d4556124abc694e6]
+## 27. Meaning of “eligible premises”[^c-ea0b15cc7e3d5a23d4556124abc694e6]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ but not any dwelling.
 
 ## Annotations
 
-[^key-ea0b15cc7e3d5a23d4556124abc694e6]: Commencement: S. 27 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-ea0b15cc7e3d5a23d4556124abc694e6]: Commencement: S. 27 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

@@ -45,7 +45,7 @@ Coming into force
 
 The Treasury, with the concurrence of the Department for Social Development[^f00001], in exercise of the powers conferred on them by sections 4A, 121(1) and 171(3), (4) and (10) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and of all other powers enabling them in that behalf, and the Commissioners of Inland Revenue, in exercise of the powers conferred on them by Article 7(1)(m) of the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999[^f00003], and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement and effect[^key-823e7881334b0659a476ee699b1dffbd]
+## 1. Citation, commencement and effect[^c-823e7881334b0659a476ee699b1dffbd]
 
 (1) These Regulations may be cited as the Social Security Contributions (Intermediaries) (Northern Ireland) Regulations 2000 and shall come into force on 6th April 2000.
 
@@ -53,7 +53,7 @@ The Treasury, with the concurrence of the Department for Social Development[^f00
 
 (3) Payments or other benefits in respect of such services received before that date shall be treated as if received in the tax year 2000–01.
 
-## 2. Interpretation[^key-9dd06c7c08132d2d3e67d34e2a6db18d]
+## 2. Interpretation[^c-9dd06c7c08132d2d3e67d34e2a6db18d]
 
 (1) In these Regulations unless the context otherwise requires–
 
@@ -87,7 +87,7 @@ The Treasury, with the concurrence of the Department for Social Development[^f00
 
 (5) For the purposes of these Regulations a man and a woman living together as husband and wife are treated as if they were married to each other.
 
-## 3. Meaning of associate[^key-4496e282a1171614b816a590aa5ef7cc]
+## 3. Meaning of associate[^c-4496e282a1171614b816a590aa5ef7cc]
 
 (1) In these Regulations “associate”–
 
@@ -106,7 +106,7 @@ has been the beneficial owner of, or able (directly or through the medium of oth
 
 (4) In paragraph (2) “employee benefit trust” has the same meaning as in paragraph 7 of Schedule 8 to the Taxes Act[^f00011].
 
-## 4. Meaning of benefit[^key-8bc44480a684a09038ff4373ca85d0c3]
+## 4. Meaning of benefit[^c-8bc44480a684a09038ff4373ca85d0c3]
 
 (1) For the purposes of these Regulations a “benefit” includes anything that, if received by an employee for performing the duties of an employment within Schedule E–
 
@@ -130,7 +130,7 @@ or that would be such an emolument, or chargeable as such an emolument, apart fr
 - (a) in the case of a cash benefit, when payment is made of or on account of the benefit; and
 - (b) in the case of a non-cash benefit, when it is used or enjoyed.
 
-## 5. Meaning of intermediary[^key-5d11cc98ff74a90b9a7f9941f1be1636]
+## 5. Meaning of intermediary[^c-5d11cc98ff74a90b9a7f9941f1be1636]
 
 (1) In these Regulations “intermediary” means any person, including a partnership or unincorporated association of which the worker is a member–
 
@@ -183,7 +183,7 @@ has a material interest in the company.
 - (a) is received or receivable by the worker directly from the intermediary, and
 - (b) can reasonably be taken to represent remuneration for services provided by the worker to the client.
 
-## 6. Provision of services through intermediary[^key-9d9856c3b2d805347865fd3c01c795df]
+## 6. Provision of services through intermediary[^c-9d9856c3b2d805347865fd3c01c795df]
 
 (1) These Regulations apply where–
 
@@ -205,7 +205,7 @@ and Parts I to V of that Act have effect accordingly.
 
 (4) Any issue whether the circumstances are such as are mentioned in paragraph (1)(c) is an issue relating to contributions that is prescribed for the purposes of Article 7(1)(m) of the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (decision by officer of the Board).
 
-## 7. Worker’s attributable earnings—calculation[^key-e0f8f518427fc20f4be27cc4f4265cd3]
+## 7. Worker’s attributable earnings—calculation[^c-e0f8f518427fc20f4be27cc4f4265cd3]
 
 (1) For the purposes of regulation 6(3)(a) the amount of the worker’s attributable earnings for a tax year is calculated as follows:
 
@@ -258,7 +258,7 @@ and Parts I to V of that Act have effect accordingly.
 
 (5) For the purposes of this regulation the time when payments are received by the intermediary or the worker under the arrangements shall be found in accordance with the rules contained in section 202B[^f00019] of the Taxes Act (receipts basis; meaning of receipt) as if the payments made were payments of emoluments, except that subsection (1)(b) of that section (the time when a person becomes entitled to payment of or on account of the emoluments) shall not apply in the period (if any) prior to actual receipt of the payment concerned.
 
-## 8. Worker’s attributable earnings—deemed payment[^key-686035b6a7f1fc52cdd6a7f01eaca1f4]
+## 8. Worker’s attributable earnings—deemed payment[^c-686035b6a7f1fc52cdd6a7f01eaca1f4]
 
 (1) The amount referred to in Step Nine of the calculation in regulation 7(1) is treated, for the purposes of Parts I to V of the Contributions and Benefits Act, as a single payment of the worker’s attributable earnings made by the intermediary on the 5th April in the tax year concerned or, as the case may be, on the date found in accordance with paragraphs (4) to (7), and those Parts of that Act shall have effect accordingly.
 
@@ -288,19 +288,19 @@ that amount is treated, for the purposes of Parts I to V of the Contributions an
 
 (8) The fact that an amount of the worker’s attributable earnings is treated as made under paragraph (1) before the end of the tax year concerned does not affect what payments and benefits are taken into account in calculating that amount.
 
-## 9. Multiple intermediaries—general[^key-e164c321646492071eda01d8610b6e54]
+## 9. Multiple intermediaries—general[^c-e164c321646492071eda01d8610b6e54]
 
 (1) Regulations 10 and 11 apply where in any tax year the arrangements involve more than one intermediary.
 
 (2) Except as provided by regulations 10 and 11, the provisions of these Regulations apply separately in relation to each intermediary.
 
-## 10. Multiple intermediaries—avoidance of double-counting[^key-9061afde7b87a5754b49218072df169d]
+## 10. Multiple intermediaries—avoidance of double-counting[^c-9061afde7b87a5754b49218072df169d]
 
 (1) This regulation applies where a payment or benefit has been made or provided, directly or indirectly, from one intermediary to another intermediary under the arrangements.
 
 (2) In that case, the amount taken into account in relation to any intermediary in Step One or Step Two of the calculation in regulation 7(1) shall be reduced to such extent as is necessary to avoid double-counting having regard to the amount so taken into account in relation to any other intermediary.
 
-## 11. Multiple intermediaries—joint and several liability[^key-946feba46d711440e15a55474c08bf52]
+## 11. Multiple intermediaries—joint and several liability[^c-946feba46d711440e15a55474c08bf52]
 
 (1) Where the arrangements involve more than one intermediary, all the intermediaries are jointly and severally liable, subject to paragraph (3), to pay contributions in respect of the amount of the worker’s attributable earnings treated in accordance with regulation 8(1) as paid by any of them–
 
@@ -311,7 +311,7 @@ that amount is treated, for the purposes of Parts I to V of the Contributions an
 
 (3) An intermediary is not jointly and severally liable as mentioned in paragraph (1) if the intermediary has not received any payment or benefit under the arrangements concerned or under any such other arrangements as are mentioned in sub-paragraph (b) of that paragraph.
 
-## 12. Social Security (Categorisation of Earners) Regulations (Northern Ireland) 1978—Saving[^key-dde2394ef2c2e0482c85e118a2c38091]
+## 12. Social Security (Categorisation of Earners) Regulations (Northern Ireland) 1978—Saving[^c-dde2394ef2c2e0482c85e118a2c38091]
 
 Nothing in these Regulations affects the operation of regulation 2 of the Social Security (Categorisation of Earners) Regulations (Northern Ireland) 1978[^f00021] (treatment of earners in one category of earners as falling within another category and disregard of employments) as that regulation applies to employment listed in paragraph 2 in column (A) of Part I of Schedule 1 to those Regulations (earner supplied through a third person treated as employed earner).
 
@@ -365,9 +365,9 @@ Regulation 12 contains a saving provision that nothing in these Regulations affe
 
 [^f00003]: Footnote: S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
-[^key-823e7881334b0659a476ee699b1dffbd]: Commencement: Reg. 1 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-823e7881334b0659a476ee699b1dffbd]: Commencement: Reg. 1 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
-[^key-9dd06c7c08132d2d3e67d34e2a6db18d]: Commencement: Reg. 2 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-9dd06c7c08132d2d3e67d34e2a6db18d]: Commencement: Reg. 2 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
 [^f00004]: Footnote: Section 10 was amended by Article 49 of, and paragraph 40 of Schedule 6 to, the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)), paragraph 11 of Schedule 3 to the Transfer of Functions Order and regulation 4 of [S.R. 1994 No. 94](https://www.legislation.gov.uk/nisr/1994/94).
 
@@ -379,7 +379,7 @@ Regulation 12 contains a saving provision that nothing in these Regulations affe
 
 [^f00008]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-4496e282a1171614b816a590aa5ef7cc]: Commencement: Reg. 3 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-4496e282a1171614b816a590aa5ef7cc]: Commencement: Reg. 3 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
 [^f00009]: Footnote: Section 417 was amended by paragraph 6 of Schedule 17 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).
 
@@ -387,23 +387,23 @@ Regulation 12 contains a saving provision that nothing in these Regulations affe
 
 [^f00011]: Footnote: Paragraph 7 was amended by paragraph 9 of Schedule 4, paragraph 18 of Schedule 12, and Parts IV and V of Schedule 17, to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26). Chapter III of Part V of the Taxes Act (profit-related pay), which includes Schedule 8 to that Act, was repealed in relation to payments made by reference to profit periods beginning on or after 1st January 2000 by section 61(2) of, and Part VI(3) of Schedule 18 to, the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16).
 
-[^key-8bc44480a684a09038ff4373ca85d0c3]: Commencement: Reg. 4 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-8bc44480a684a09038ff4373ca85d0c3]: Commencement: Reg. 4 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
 [^f00012]: Footnote: Section 19(1) was amended by section 36(2) and (3) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), paragraph 5 of Schedule 7 to the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8) and section 63(3)(a) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36).
 
 [^f00013]: Footnote: Section 596B was inserted by paragraph 9 of Schedule 6 to the Finance Act 1989 and amended by section 93(2) of the Finance Act 1998.
 
-[^key-5d11cc98ff74a90b9a7f9941f1be1636]: Commencement: Reg. 5 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-5d11cc98ff74a90b9a7f9941f1be1636]: Commencement: Reg. 5 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
 [^f00014]: Footnote: Section 416 was amended by Part V of Schedule 17 to the Finance Act 1989.
 
 [^f00015]: Footnote: Section 414 was amended by section 104 of, and Part V of Schedule 17 to, the Finance Act 1989. Section 415 was amended by paragraph 6(2)(f) of Schedule 38 to the Finance Act 1996.
 
-[^key-9d9856c3b2d805347865fd3c01c795df]: Commencement: Reg. 6 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-9d9856c3b2d805347865fd3c01c795df]: Commencement: Reg. 6 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
 [^f00016]: Footnote: Section 1(6) was amended by paragraph 38(3) of Schedule 6 to the Social Security (Northern Ireland) Order 1998.
 
-[^key-e0f8f518427fc20f4be27cc4f4265cd3]: Commencement: Reg. 7 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-e0f8f518427fc20f4be27cc4f4265cd3]: Commencement: Reg. 7 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
 [^f00017]: Footnote: [1990 c. 1](https://www.legislation.gov.uk/ukpga/1990/1); section 27 was amended by section 87(1) and (2) of the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) and section 50(2) of the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16).
 
@@ -411,16 +411,16 @@ Regulation 12 contains a saving provision that nothing in these Regulations affe
 
 [^f00019]: Footnote: Section 202B was inserted by section 37(1) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-686035b6a7f1fc52cdd6a7f01eaca1f4]: Commencement: Reg. 8 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-686035b6a7f1fc52cdd6a7f01eaca1f4]: Commencement: Reg. 8 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
 [^f00020]: Footnote: Regulation 6A was inserted by regulation 4 of [S.R. 1983 No. 8](https://www.legislation.gov.uk/nisr/1983/8).
 
-[^key-e164c321646492071eda01d8610b6e54]: Commencement: Reg. 9 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-e164c321646492071eda01d8610b6e54]: Commencement: Reg. 9 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
-[^key-9061afde7b87a5754b49218072df169d]: Commencement: Reg. 10 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-9061afde7b87a5754b49218072df169d]: Commencement: Reg. 10 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
-[^key-946feba46d711440e15a55474c08bf52]: Commencement: Reg. 11 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-946feba46d711440e15a55474c08bf52]: Commencement: Reg. 11 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
-[^key-dde2394ef2c2e0482c85e118a2c38091]: Commencement: Reg. 12 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
+[^c-dde2394ef2c2e0482c85e118a2c38091]: Commencement: Reg. 12 in force at 6.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/728/regulation/1/1)
 
 [^f00021]: Footnote: [S.R. 1978 No. 401](https://www.legislation.gov.uk/nisr/1978/401).

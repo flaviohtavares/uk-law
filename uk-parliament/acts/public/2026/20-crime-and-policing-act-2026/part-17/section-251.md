@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Powers to make consequential amendments etc[^key-2ee41d4c8766f0558ee02ce309c583d1]
+## 251. Powers to make consequential amendments etc[^c-2ee41d4c8766f0558ee02ce309c583d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ For this purpose, provision is “within devolved competence” if it would be w
 
 ## Annotations
 
-[^key-2ee41d4c8766f0558ee02ce309c583d1]: Commencement: S. 251 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-2ee41d4c8766f0558ee02ce309c583d1]: Commencement: S. 251 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

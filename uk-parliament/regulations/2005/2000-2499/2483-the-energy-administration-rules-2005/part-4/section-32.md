@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Reports to creditors[^key-35b45607f2f7debc8b887eb067351987]
+## 32. Reports to creditors[^c-35b45607f2f7debc8b887eb067351987]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35b45607f2f7debc8b887eb067351987]: Commencement: Rule 32 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-35b45607f2f7debc8b887eb067351987]: Commencement: Rule 32 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

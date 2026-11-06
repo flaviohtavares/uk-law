@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-45c20076f3771eb870ab4b8c1872030a]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Article 2
 
 ### In the administrative areas of West Berkshire Council, Wokingham Borough Council, Reading Borough Council, the Royal Borough of Windsor and Maidenhead, Bracknell Forest Council, Buckinghamshire County Council, South Bucks District Council, Slough Borough Council, the London Borough of Hillingdon, the London Borough of Hounslow and the Greater London Authority
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 1a* – The improvement of the eastbound carriageway of the M4 Motorway (51.3 kilometres in length) commencing at grid reference 465337E; 171339N and terminating at grid reference 510045E; 178287N; and
 
@@ -51,7 +51,7 @@ such works including—
 
 ### In the administrative area of West Berkshire Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 2a* – The realignment of the M4 Junction 12 (Theale) eastbound on-slip commencing at grid reference 465236E; 171427N and terminating at grid reference 465627E; 171163N.
 
@@ -67,7 +67,7 @@ such works including—
 
 ### In the administrative area of Wokingham Borough Council and Reading Borough Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 4a* – The realignment of the M4 Junction 11 (Three Mile Cross) eastbound off-slip commencing at grid reference 470765E; 169102N and terminating at grid reference 471343E; 168783N.
 
@@ -79,7 +79,7 @@ such works including—
 
 ### In the administrative area of Wokingham Borough Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 5a* – The realignment of the M4 Junction 10 (Winnersh) eastbound off-slip commencing at grid reference 478879E; 170222N and terminating at grid reference 479314E; 170512N.
 
@@ -95,7 +95,7 @@ such works including—
 
 ### In the administrative area of the Royal Borough of Windsor and Maidenhead
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 6a* – The realignment of the M4 Junction 8/9 (Holyport) eastbound off-slip commencing at grid reference 487916E; 178093N and terminating at grid reference 488542E; 178548N.
 
@@ -117,7 +117,7 @@ such works including—
 
 ### In the administrative areas of the Royal Borough of Windsor and Maidenhead and Buckinghamshire County Council, South Bucks District Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 9a* – The widening of the M4 motorway at the location of the existing Thames Bray underbridge commencing at grid reference 491117E; 179361N and terminating at grid reference 491608E; 179713N, including realignment of the M4 central reserve and realignment of the footway and cycle way along the motorway.
 
@@ -125,7 +125,7 @@ such works including—
 
 ### In the administrative area of Buckinghamshire County Council, South Bucks District Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 10a* – The widening of the eastbound carriageway of the M4 motorway on the north side at the location of the existing Marsh Lane overbridge commencing at grid reference 491720E; 179753N and terminating at grid reference 491879E; 179796N.
 
@@ -141,7 +141,7 @@ such works including—
 
 ### In the administrative area of Buckinghamshire County Council, South Bucks District Council and Slough Borough Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 12a* – The realignment of the M4 Junction 7 (Huntercombe) eastbound off-slip commencing at grid reference 493056E; 180075N and terminating at grid reference 493372E; 180147N.
 
@@ -157,7 +157,7 @@ such works including—
 
 ### In the administrative area of Slough Borough Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 13a* – The realignment of the M4 Junction 7 (Huntercombe) eastbound off-slip commencing at grid reference 493056E; 180075N and terminating at grid reference 493372E; 180147N.
 
@@ -187,7 +187,7 @@ such works including—
 
 ### In the administrative area of Slough Borough Council and the Royal Borough of Windsor and Maidenhead
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 19a* – The widening of the eastbound carriageway of the M4 motorway on the north side at the location of the existing Datchet Road overbridge commencing at grid reference 497855E; 178907N and terminating at grid reference 497983E; 178805N.
 
@@ -197,7 +197,7 @@ such works including—
 
 ### In the administrative area of the Royal Borough of Windsor and Maidenhead
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 20a* – The widening of the eastbound carriageway of the M4 motorway on the north side at the location of the existing Recreation Ground overbridge commencing at grid reference 498117E; 178655N and terminating at grid reference 498210E; 178520N.
 
@@ -219,7 +219,7 @@ such works including—
 
 ### In the administrative areas of the Royal Borough of Windsor and Maidenhead and Slough Borough Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 24a* – The realignment of the M4 Junction 5 (Langley) eastbound off-slip commencing at grid reference 500685E; 177740N and terminating at grid reference 501031E; 177926N.
 
@@ -241,13 +241,13 @@ such works including—
 
 ### In the administrative areas of Buckinghamshire County Council, South Bucks District Council and Slough Borough Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 25* – The demolition of the existing Old Slade Lane overbridge over the M4 and construction of a new bridge over the M4 and the realignment of Old Slade Lane commencing at grid reference 503720E; 178176N and terminating at grid reference 503729E; 178491N, including construction of retaining walls.
 
 ### In the administrative area of Slough Borough Council
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 26a* – The realignment of the M4 Junction 4b (M25) eastbound off-slip and widening of the eastbound carriageway of the M4 motorway on the north side at the location of the existing Old Slade Lane overbridge commencing at grid reference 503425E; 178213N and terminating at grid reference 504178E; 178422N.
 
@@ -255,7 +255,7 @@ such works including—
 
 ### In the administrative area of the London Borough of Hillingdon
 
-[^key-45c20076f3771eb870ab4b8c1872030a]
+[^c-45c20076f3771eb870ab4b8c1872030a]
 
 *Work No. 27a* – The realignment of the M4 Junction 4b (M25) eastbound on-slip commencing at grid reference 505255E; 178385N and terminating at grid reference 505643E; 178384N and the construction of a sign-only cantilever gantry above the on-slip within the gantry siting locations shown as “Gantry Type 4” on the works plans, including gantry foundations gantry structure, signs, sign illumination, control cabinets and power cable connections.
 
@@ -303,4 +303,4 @@ and in connection with such works and to the extent that they do not otherwise f
 
 ## Annotations
 
-[^key-45c20076f3771eb870ab4b8c1872030a]: Commencement: Sch. 1 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-45c20076f3771eb870ab4b8c1872030a]: Commencement: Sch. 1 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

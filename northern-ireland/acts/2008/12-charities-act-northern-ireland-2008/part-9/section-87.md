@@ -28,7 +28,7 @@ summary: ''
 (2) Subsection (1) shall not apply where—
 
 - (a) the charity concerned is a company; and
-- (b) the disqualified person is disqualified by virtue only of paragraph (b) ,(g) or (h)[^key-8ddb726b05f8b4383135673ca0761920] of section 86(1).
+- (b) the disqualified person is disqualified by virtue only of paragraph (b) ,(g) or (h)[^c-8ddb726b05f8b4383135673ca0761920] of section 86(1).
 
 (3) Any acts done as charity trustee or trustee for a charity by a person disqualified for being such a trustee by virtue of section 86 shall not be invalid by reason only of that disqualification.
 
@@ -43,4 +43,4 @@ the Commission may by order direct that person to repay to the charity the whole
 
 ## Annotations
 
-[^key-8ddb726b05f8b4383135673ca0761920]: Textual amendment: Words in [s. 87(2)(b)](https://www.legislation.gov.uk/nia/2008/12/section/87/2/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(4)](https://www.legislation.gov.uk/nia/2013/3/section/3/4), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
+[^c-8ddb726b05f8b4383135673ca0761920]: Textual amendment: Words in [s. 87(2)(b)](https://www.legislation.gov.uk/nia/2008/12/section/87/2/b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 3(4)](https://www.legislation.gov.uk/nia/2013/3/section/3/4), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)

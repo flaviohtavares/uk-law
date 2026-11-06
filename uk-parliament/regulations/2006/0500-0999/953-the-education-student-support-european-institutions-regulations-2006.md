@@ -50,13 +50,13 @@ The Secretary of State for Education and Skills, in exercise of the powers in se
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement, application and interpretation[^key-fc55822bb03aa41ca7f26396e95cfd82]
+### 1. Citation, commencement, application and interpretation[^c-fc55822bb03aa41ca7f26396e95cfd82]
 
 These Regulations may be cited as the Education (Student Support) (European Institutions) Regulations 2006 and shall come into force on 30th April 2006.
 
-**2.**[^key-798ee6482b2fe73638f6a5f0dc40e01f] These Regulations apply only in relation to England[^f00002].
+**2.**[^c-798ee6482b2fe73638f6a5f0dc40e01f] These Regulations apply only in relation to England[^f00002].
 
-**3.**[^key-3216788d0517f515a3078a3006855ed4] In these Regulations—
+**3.**[^c-3216788d0517f515a3078a3006855ed4] In these Regulations—
 
 - “1998 Act” means the Teaching and Higher Education Act 1998;
 - “2000 Regulations” means the Education (Student Support) (European Institutions) Regulations 2000[^f00003];
@@ -100,15 +100,15 @@ These Regulations may be cited as the Education (Student Support) (European Inst
 - “student loans legislation” means the Education (Student Loans) Act 1990, the Education (Student Loans) (Northern Ireland) Order 1990, the Education (Scotland) Act 1980 and regulations made thereunder, the Education (Student Support) (Northern Ireland) Order 1998 and regulations made thereunder or the 1998 Act and regulations made thereunder;
 - “supplementary grants” means the grants payable under Chapter 4 of Part 4.
 
-### 4. Revocation, saving and transitional provisions[^key-47bfcd995603146656dcd592fad221d3]
+### 4. Revocation, saving and transitional provisions[^c-47bfcd995603146656dcd592fad221d3]
 
 The 2000 Regulations, the Education (Student Support) (European Institutions) (Amendment) Regulations 2001[^f00007] and the Education (Student Support) (European Institutions) (Amendment) (No. 2) Regulations 2001[^f00008] are revoked in relation to England.
 
-**5.**[^key-62e47389198512bdf1632ddcadc7457e] The 2000 Regulations shall continue to apply in relation to England in respect of an academic year beginning before 1st September 2005.
+**5.**[^c-62e47389198512bdf1632ddcadc7457e] The 2000 Regulations shall continue to apply in relation to England in respect of an academic year beginning before 1st September 2005.
 
-**6.**[^key-c0c2971f4db6b7949e93c7ccf5402fea] Subject to regulations 7 to 10, these Regulations shall only apply in relation to the provision of support in connection with a new academic year.
+**6.**[^c-c0c2971f4db6b7949e93c7ccf5402fea] Subject to regulations 7 to 10, these Regulations shall only apply in relation to the provision of support in connection with a new academic year.
 
-**7.**[^key-fc3a1bdd8acb87cc03616c8524d4aabb] (1) Any payment of support that has been or was to be made under the 2000 Regulations to a current student in respect of the current academic year is to be treated as a payment made or to be made under these Regulations.
+**7.**[^c-fc3a1bdd8acb87cc03616c8524d4aabb] (1) Any payment of support that has been or was to be made under the 2000 Regulations to a current student in respect of the current academic year is to be treated as a payment made or to be made under these Regulations.
 
 (2) Subject to paragraph (3), the Secretary of State may reassess, in accordance with these Regulations, the amount of support payable to a current student in respect of the current academic year.
 
@@ -116,7 +116,7 @@ The 2000 Regulations, the Education (Student Support) (European Institutions) (A
 
 (4) A current student may apply under these Regulations for support in connection with the current academic year if he had not applied for support under the 2000 Regulations before 30th April 2006.
 
-**8.**[^key-c29a639f2c9ba66868665185a4d1c836] (1) Where before 30th April 2006—
+**8.**[^c-c29a639f2c9ba66868665185a4d1c836] (1) Where before 30th April 2006—
 
 - (a) a current student or a prospective student applied for support under the 2000 Regulations in respect of the next academic year; and
 - (b) the Secretary of State had not determined, if relevant, whether the student was eligible for support in connection with his attendance on the current course or the amount of support payable, if any, to that student,
@@ -135,18 +135,18 @@ the application is to be treated as if it had been made under and in accordance 
 - (b) applied for support under the 2000 Regulations in respect of that course before 30th April 2006; but
 - (c) in respect of whom no decision as to his eligibility for support in connection with the current course had been made by the Secretary of State before 30th April 2006.
 
-**9.**[^key-35e821b575accc53a6f3e2e95dfa0c46] (1) If the Secretary of State had before 30th April 2006 determined under the 2000 Regulations that a person starting a course in the current academic year or in the next academic year was not an eligible student in connection with his attendance on a course designated for the purpose of regulation 4 of the 2000 Regulations, she may—
+**9.**[^c-35e821b575accc53a6f3e2e95dfa0c46] (1) If the Secretary of State had before 30th April 2006 determined under the 2000 Regulations that a person starting a course in the current academic year or in the next academic year was not an eligible student in connection with his attendance on a course designated for the purpose of regulation 4 of the 2000 Regulations, she may—
 
 - (a) treat that person’s application as an application for support made under and in accordance with these Regulations; and
 - (b) determine, in accordance with these Regulations, whether the applicant is an eligible student and if so, the amount of support (if any) payable to him in respect of—
   - (i) in the case of a person who started his course in the current academic year, the current academic year and the next academic year; and
   - (ii) in the case of a person who starts his course in the next academic year, that academic year.
 
-**10.**[^key-49831cbf44739775269a99a2f18f0845] A current Directive student may apply under these Regulations for support or an additional amount of support in connection with the current academic year.
+**10.**[^c-49831cbf44739775269a99a2f18f0845] A current Directive student may apply under these Regulations for support or an additional amount of support in connection with the current academic year.
 
 ## PART 2 — ELIGIBILITY
 
-### 11. Eligible students[^key-70a18c317e8c8998346547a2de9cbdb0]
+### 11. Eligible students[^c-70a18c317e8c8998346547a2de9cbdb0]
 
 (1) An eligible student qualifies for financial support in connection with his attendance on a designated course subject to and in accordance with these Regulations.
 
@@ -187,7 +187,7 @@ the application is to be treated as if it had been made under and in accordance 
   - (ii) of at least two academic years' duration; and
 - (b) in respect of which the student received a statutory award \[other than an award intended to assist with additional expenditure that the student was obliged to incur in connection with his attendance on the course by reason of a disability to which he is or was subject\] for at least two academic years of the course.
 
-### 12. Designated courses[^key-68848226fa088a1e616db6bef7fd0b9e]
+### 12. Designated courses[^c-68848226fa088a1e616db6bef7fd0b9e]
 
 A course is designated for the purposes of section 22(1) of the 1998 Act and regulation 11 if it is—
 
@@ -196,7 +196,7 @@ A course is designated for the purposes of section 22(1) of the 1998 Act and reg
 - (c) of at least one academic year’s duration; and
 - (d) provided by a European institution.
 
-### 13. Period of eligibility[^key-ad96581a111af611825490c8cce2748e]
+### 13. Period of eligibility[^c-ad96581a111af611825490c8cce2748e]
 
 (1) Subject to the following paragraphs, a student’s status as an eligible student in connection with a designated course will terminate at the end of the academic year in which the relevant European institution would ordinarily expect the student to complete the course (“period of eligibility”).
 
@@ -215,7 +215,7 @@ A course is designated for the purposes of section 22(1) of the 1998 Act and reg
 - (b) determine that the student no longer qualifies for any particular type of support or particular amount of support;
 - (c) treat any support already paid to the student as an overpayment which may be recovered in accordance with regulation 42.
 
-### 14. Transfer of eligibility[^key-dfadd4f84dffc70761e74ae297d299b4]
+### 14. Transfer of eligibility[^c-dfadd4f84dffc70761e74ae297d299b4]
 
 (1) Where an eligible student transfers to another designated course at the same European institution, the Secretary of State must transfer the student’s status as an eligible student where—
 
@@ -229,7 +229,7 @@ A course is designated for the purposes of section 22(1) of the 1998 Act and reg
 
 ## PART 3 — APPLYING FOR SUPPORT AND PROVISION OF INFORMATION
 
-### 15. Applications for financial support[^key-0189a63f4c845390900b9e31090a8bf2]
+### 15. Applications for financial support[^c-0189a63f4c845390900b9e31090a8bf2]
 
 (1) A person (the “applicant”) must apply for support in connection with each academic year of a designated course by completing and submitting to the Secretary of State an application in such form and accompanied by such documentation as the Secretary of State may require.
 
@@ -237,7 +237,7 @@ A course is designated for the purposes of section 22(1) of the 1998 Act and reg
 
 (3) The Secretary of State must notify the applicant of whether he qualifies for support and, if he does qualify, the amount of support payable in respect the academic year, if any.
 
-### 16. Time limits[^key-160eefbba54cdfbf73c5cd4586b0b555]
+### 16. Time limits[^c-160eefbba54cdfbf73c5cd4586b0b555]
 
 (1) The general rule is that the application must reach the Secretary of State by 31st August 2006.
 
@@ -259,11 +259,11 @@ A course is designated for the purposes of section 22(1) of the 1998 Act and reg
 - (d) the applicant becomes a person described in paragraph 6(1)(a)(iii) or (vi) of Part 2 of Schedule 1; or
 - (e) the applicant becomes the child of a Swiss national.
 
-### 17. Information[^key-18f535080b4ba4891c6148b78c73dc90]
+### 17. Information[^c-18f535080b4ba4891c6148b78c73dc90]
 
 Every applicant and eligible student must, as soon as reasonably practicable after he is requested to do so, provide the Secretary of State with such information as the Secretary of State considers she requires for the purposes of these Regulations.
 
-**18.**[^key-b5637128e1459961869d1a88156b0015] Every applicant and eligible student must immediately inform the Secretary of State and provide her with particulars if—
+**18.**[^c-b5637128e1459961869d1a88156b0015] Every applicant and eligible student must immediately inform the Secretary of State and provide her with particulars if—
 
 - (a) he withdraws from, abandons or is expelled from his course;
 - (b) he transfers to another course at the same European Institution;
@@ -272,11 +272,11 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 - (e) the month for the start or the completion of the course changes;
 - (f) his home or term-time address changes.
 
-**19.**[^key-525098d97a2dea20b77599bdcb27fae1] Information provided to the Secretary of State pursuant to these Regulations must be in the format required by the Secretary of State and, if the Secretary of State requires the information to be signed by the person providing it, an electronic signature in such form as the Secretary of State may specify satisfies this requirement.
+**19.**[^c-525098d97a2dea20b77599bdcb27fae1] Information provided to the Secretary of State pursuant to these Regulations must be in the format required by the Secretary of State and, if the Secretary of State requires the information to be signed by the person providing it, an electronic signature in such form as the Secretary of State may specify satisfies this requirement.
 
 ## PART 4 — FINANCIAL SUPPORT
 
-### 20. General[^key-1f8f4ed9f70a3bf9d066b082bdf5f269]
+### 20. General[^c-1f8f4ed9f70a3bf9d066b082bdf5f269]
 
 (1) Subject to paragraph (2), the general rule is that—
 
@@ -299,7 +299,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 ### CHAPTER 1 — GRANTS FOR FEES FOR BOLOGNA CENTER STUDENTS
 
-#### 21. Grant for fees[^key-7eba4f42c412011730f302d4e7ccf160]
+#### 21. Grant for fees[^c-7eba4f42c412011730f302d4e7ccf160]
 
 (1) A Bologna Center student qualifies for a grant for fees in respect of an academic year of the current course calculated in accordance with paragraph (2).
 
@@ -309,7 +309,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 ### CHAPTER 2 — GRANTS FOR COLLEGE OF EUROPE STUDENTS
 
-#### 22. Grant for fees[^key-aa7ed6880592abb5fd30d0025f722225]
+#### 22. Grant for fees[^c-aa7ed6880592abb5fd30d0025f722225]
 
 (1) A College of Europe student qualifies for a grant for fees in respect of an academic year of the current course calculated in accordance with paragraph (2).
 
@@ -320,7 +320,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 - (a) in respect of the current academic year, 9,450 euro; and
 - (b) in respect of any other academic year, 10,250 euro.
 
-#### 23. Grants for living and other costs[^key-3d9467511e68f2605db8f884cf11a4c9]
+#### 23. Grants for living and other costs[^c-3d9467511e68f2605db8f884cf11a4c9]
 
 (1) Subject to paragraph (2), a College of Europe Student qualifies in respect of an academic year for the grants for living and other costs specified in and calculated in accordance with paragraphs (3) to (7).
 
@@ -348,11 +348,11 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (7) A College of Europe student qualifies for a grant for research travel of such amount as the Secretary of State determines to be the reasonable cost of travel incurred for the purposes of completing periods of research authorised by the College during the academic year in respect of which support is being applied for.
 
-**24.**[^key-6fdc7f17bcdc55cbb4d6ddf0fb432318] A deduction may be made in accordance with Part 5 from the amount payable in respect of any of the grants calculated in accordance with regulation 23.
+**24.**[^c-6fdc7f17bcdc55cbb4d6ddf0fb432318] A deduction may be made in accordance with Part 5 from the amount payable in respect of any of the grants calculated in accordance with regulation 23.
 
 ### CHAPTER 3 — GRANTS FOR INSTITUTE STUDENTS
 
-#### 25. Grants for living and other costs.[^key-e540d8cdbc9cff42d9d3e3b22fc67ae7]
+#### 25. Grants for living and other costs.[^c-e540d8cdbc9cff42d9d3e3b22fc67ae7]
 
 (1) Subject to paragraphs (2) and (3), an Institute student qualifies in respect of an academic year for the grants for living and other costs specified in and calculated in accordance with paragraphs (4) to (8).
 
@@ -373,17 +373,17 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (8) An Institute student qualifies for a grant for medical insurance of the amount determined by the Secretary of State to be the reasonable cost of insuring the student against liability for the cost of medical treatment provided outside the United Kingdom where the ordinary duration of the course is more than one academic year.
 
-**26.**[^key-b8ad03289846c253a583c4eb613965e1] A deduction may be made in accordance with Part 5 from the amount payable in respect of any of the grants calculated under paragraphs (4) to (7) of regulation 25.
+**26.**[^c-b8ad03289846c253a583c4eb613965e1] A deduction may be made in accordance with Part 5 from the amount payable in respect of any of the grants calculated under paragraphs (4) to (7) of regulation 25.
 
 ### CHAPTER 4 — SUPPLEMENTARY GRANTS
 
-#### 27. Disabled students' allowance – qualifying conditions[^key-2cedb08eb732dfcb1507ca9766a2bf6f]
+#### 27. Disabled students' allowance – qualifying conditions[^c-2cedb08eb732dfcb1507ca9766a2bf6f]
 
 (1) Subject to paragraph (2), a College of Europe student or an Institute student qualifies for a disabled students' allowance to assist with the additional expenditure which the Secretary of State is satisfied that he is obliged to incur by reason of a disability to which he is subject in respect of his attendance at a designated course.
 
 (2) A College of Europe student or an Institute student does not qualify for a disabled students' allowance if paragraph 9 of Part 2 of Schedule 1 is the only paragraph of Part 2 of that Schedule into which the student falls.
 
-#### 28. Amount of disabled students' allowance[^key-8c41029af2a639a63bddbca36c323e57]
+#### 28. Amount of disabled students' allowance[^c-8c41029af2a639a63bddbca36c323e57]
 
 (1) Subject to paragraph (2), the amount of the disabled student’s allowance is the amount that the Secretary of State considers appropriate in accordance with the student’s circumstances.
 
@@ -404,7 +404,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
     - (bb) within or outside the United Kingdom for the purpose of travelling to the relevant institution in order to attend the relevant course;
   - (iv) £1,605 in respect of an academic year for any other expenditure including expenditure incurred for the purposes referred to paragraph (i) or (ii) which exceeds the specified maxima.
 
-#### 29. Grant for dependants[^key-d77267b2144fb1bfada3d754171ca5c6]
+#### 29. Grant for dependants[^c-d77267b2144fb1bfada3d754171ca5c6]
 
 (1) The grant for dependants consists of the following elements—
 
@@ -413,7 +413,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (2) The qualifying conditions for each element and the amounts payable are set out in regulations 30 to 33.
 
-#### 30. Adult dependants' grant[^key-21b54ff47f517e76ef73832623034e92]
+#### 30. Adult dependants' grant[^c-21b54ff47f517e76ef73832623034e92]
 
 (1) Subject to paragraph (3), a College of Europe Student or an Institute student qualifies for an adult dependants' grant in connection with his attendance on a designated course in accordance with this regulation.
 
@@ -426,14 +426,14 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 
 (3) A College of Europe student or an Institute student does not qualify for the grant payable under this regulation if paragraph 9 of Part 2 of Schedule 1 is the only paragraph of Part 2 of that Schedule into which the student falls.
 
-**31.**[^key-ab9c8669fad54c02e966290db73e8172] (1) The amount of adult dependants' grant payable in respect of an academic year is calculated in accordance with regulation 33, the basic amount being—
+**31.**[^c-ab9c8669fad54c02e966290db73e8172] (1) The amount of adult dependants' grant payable in respect of an academic year is calculated in accordance with regulation 33, the basic amount being—
 
 - (a) in respect of the current academic year, £2,395; and
 - (b) in respect of any other academic year—
   - (i) £2,455; or
   - (ii) where the person in respect of whom the student is applying for adult dependants' grant is ordinarily resident outside of the United Kingdom, such amount not exceeding £2,455 as the Secretary of State considers reasonable in the circumstances.
 
-#### 32. Parents' learning allowance[^key-24d7f542b73a3377251cb33074b91a68]
+#### 32. Parents' learning allowance[^c-24d7f542b73a3377251cb33074b91a68]
 
 (1) Subject to paragraph (2), a College of Europe student or an Institute student qualifies in connection with his attendance on a designated course for the parents' learning allowance if he has one or more dependent children.
 
@@ -444,7 +444,7 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
 - (a) in respect of the current academic year, £1,365;
 - (b) in respect of any other academic year, £1,400.
 
-#### 33. Calculations[^key-ac535ebcdcdd5a4ea59be04413399bb7]
+#### 33. Calculations[^c-ac535ebcdcdd5a4ea59be04413399bb7]
 
 (1) Subject to the following paragraphs, the amount payable in respect of a particular element of the grant for dependants for which the College of Europe student or Institute student qualifies under regulations 29 to 32 is the amount of that element remaining after applying, until it is extinguished or no element remains payable under regulations 29 to 32, an amount equal to (**A** – **B)** as follows and in the following order—
 
@@ -481,9 +481,9 @@ Every applicant and eligible student must, as soon as reasonably practicable aft
     - £4,300 where the student is a lone parent and has one dependent child;
     - £5,380 where the student is a lone parent and has more than one dependent child.
 
-**34.**[^key-b4be7938fdcf2bfeeeaa31823a37944a] A deduction may be made in accordance with Part 5 from the amount payable in respect of a particular element of the grant for dependants calculated in accordance with regulations 30 to 33.
+**34.**[^c-b4be7938fdcf2bfeeeaa31823a37944a] A deduction may be made in accordance with Part 5 from the amount payable in respect of a particular element of the grant for dependants calculated in accordance with regulations 30 to 33.
 
-#### 35. Interpretation[^key-daa587acf3e23b8837829e6c7b3df3a6]
+#### 35. Interpretation[^c-daa587acf3e23b8837829e6c7b3df3a6]
 
 (1) For the purposes of regulations 30 to 33—
 
@@ -533,20 +533,20 @@ those payments are to be treated as the child’s income.
 
 ## PART 5 — CONTRIBUTIONS
 
-### 36. Student’s contribution[^key-83e711d85b571152f95fb1f0f7c29571]
+### 36. Student’s contribution[^c-83e711d85b571152f95fb1f0f7c29571]
 
 (1) A College of Europe student or Institute student’s contribution in respect of an academic year is the amount, if any, calculated under Schedule 2.
 
 (2) For the purposes of the exercise of the Secretary of State’s functions under these Regulations she may require a student to provide from time to time such information as she requires in order to assess the student’s contribution.
 
-### 37. Application of the student’s contribution[^key-7ceba488cdf964104cb5ea02e2c05427]
+### 37. Application of the student’s contribution[^c-7ceba488cdf964104cb5ea02e2c05427]
 
 (1) The contribution calculated in accordance with regulation 36 shall be applied—
 
 - (a) in the case of a College of Europe student in accordance with regulation 38; and
 - (b) in the case of an Institute student in accordance with regulation 39.
 
-**38.**[^key-e6458c9b97f79e69793db30777155261] (1) In the case of a College of Europe student, the Secretary of State must apply the student’s contribution—
+**38.**[^c-e6458c9b97f79e69793db30777155261] (1) In the case of a College of Europe student, the Secretary of State must apply the student’s contribution—
 
 - (a) first, to reduce the amount of grant for living costs calculated under regulation 23(3);
 - (b) second—
@@ -560,7 +560,7 @@ those payments are to be treated as the child’s income.
 
 (2) Where the contribution available to reduce the amount of grant for research travel in accordance with paragraph (1)(e) exceeds the amount of that grant calculated under regulation 23(7), the amount of that grant payable to the student is nil.
 
-**39.**[^key-78c6f0b2bdd12fbc7f85fe72f01788ef] (1) In the case of an Institute student, the Secretary of State must apply the student’s contribution—
+**39.**[^c-78c6f0b2bdd12fbc7f85fe72f01788ef] (1) In the case of an Institute student, the Secretary of State must apply the student’s contribution—
 
 - (a) first, to reduce the amount of grant for living costs calculated in accordance with regulation 25(4);
 - (b) second—
@@ -575,13 +575,13 @@ those payments are to be treated as the child’s income.
 
 ## PART 6 — PAYMENTS
 
-### 40. Payment of grant for fees[^key-a75bfbd170e2141a8921ecd623d86429]
+### 40. Payment of grant for fees[^c-a75bfbd170e2141a8921ecd623d86429]
 
 (1) The Secretary of State must not pay the grant for fees for which a student qualifies until she has received a valid request for payment from the academic authority.
 
 (2) The Secretary of State may make the payments of the grant for fees to the academic authority in such instalments and at such times as she considers to be appropriate.
 
-### 41. Payment of grants for living and other costs and supplementary grants[^key-112db4be2b802c97d12df6cf7949c967]
+### 41. Payment of grants for living and other costs and supplementary grants[^c-112db4be2b802c97d12df6cf7949c967]
 
 (1) The Secretary of State may pay the grants for living and other costs and the supplementary grants for which a student qualifies in such instalments and at such times as she considers appropriate.
 
@@ -600,7 +600,7 @@ those payments are to be treated as the child’s income.
 
 unless she considers that it is appropriate to do so taking into account the circumstances of the student’s case.
 
-### 42. Overpayments[^key-72b687d70442cf25d13bd15a7b5ba1ae]
+### 42. Overpayments[^c-72b687d70442cf25d13bd15a7b5ba1ae]
 
 (1) The Secretary of State may recover any overpayment of grant for fees from the academic authority.
 
@@ -620,7 +620,7 @@ Regulation 11
 
 ### PART 1 — Interpretation
 
-**1.**[^key-c8669d821bf28f1a893d03d4ed905b04] (1) For the purposes of this Schedule—
+**1.**[^c-c8669d821bf28f1a893d03d4ed905b04] (1) For the purposes of this Schedule—
 
 - “Directive 2004/38” means Directive [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29th April 2004 on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member States;
 - “EC national” means a national of a Member State of the European Community;
@@ -729,7 +729,7 @@ is or was temporarily employed outside England, the United Kingdom and Islands o
 
 ### PART 2 — Categories
 
-#### 2. Persons who are settled in the United Kingdom[^key-29a7cbb70e78472837426e9eac807174]
+#### 2. Persons who are settled in the United Kingdom[^c-29a7cbb70e78472837426e9eac807174]
 
 (1) A person—
 
@@ -744,7 +744,7 @@ is or was temporarily employed outside England, the United Kingdom and Islands o
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(8).
 
-**3.**[^key-871634e645a6523d669fcf620abcdeb8] A person—
+**3.**[^c-871634e645a6523d669fcf620abcdeb8] A person—
 
 - (a) who, immediately before the moving date, is settled in the United Kingdom by reason of having acquired the right of permanent residence;
 - (b) either—
@@ -755,7 +755,7 @@ is or was temporarily employed outside England, the United Kingdom and Islands o
 - (c) who had been ordinarily resident in the United Kingdom throughout the three-year period preceding the moving date; and
 - (d) in a case where his ordinary residence referred to in paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in paragraph (c).
 
-#### 4. Refugees and persons with leave to enter or remain[^key-b00b6fee67e11839d543e9b29a494a97]
+#### 4. Refugees and persons with leave to enter or remain[^c-b00b6fee67e11839d543e9b29a494a97]
 
 A person who—
 
@@ -768,7 +768,7 @@ A person who—
     - (bb) satisfies the Secretary of State that he will be ordinarily resident in England immediately before the moving date; or
   - (ii) in the case of a person who applies for support after the moving date, satisfies the Secretary of State that he was ordinarily resident in England immediately before the moving date.
 
-**5.**[^key-47672a38a059abd27d677e696f55d1da] A person who—
+**5.**[^c-47672a38a059abd27d677e696f55d1da] A person who—
 
 - (a) is either—
   - (i) a person with leave to enter or remain; or
@@ -780,7 +780,7 @@ A person who—
   - (ii) in any other case, satisfies the Secretary of State that he was ordinarily resident in England immediately before the moving date; and
 - (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the moving date.
 
-#### 6. Workers, employed persons, self-employed persons and their family members[^key-df0f97bc18d4195aa64bab554f4ab1c9]
+#### 6. Workers, employed persons, self-employed persons and their family members[^c-df0f97bc18d4195aa64bab554f4ab1c9]
 
 (1) A person who—
 
@@ -800,7 +800,7 @@ A person who—
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply where the person applying for support falls within paragraph (a)(iv), (v) or (vi) of sub-paragraph (1).
 
-**7.**[^key-c50105e9ab528824a2e675c6b2839c92] A person who—
+**7.**[^c-c50105e9ab528824a2e675c6b2839c92] A person who—
 
 - (a) either—
   - (i) in the case of a person applying for support before the moving date—
@@ -810,7 +810,7 @@ A person who—
 - (b) has been ordinarily resident in the territory comprising the European Economic Area and Switzerland throughout the three-year period preceding the moving date; and
 - (c) is entitled to support by virtue of article 12 of Council Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on the freedom of movement of workers[^f00013], as extended by the EEA Agreement.
 
-#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-f747ae8487cedba22157f86517108235]
+#### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-f747ae8487cedba22157f86517108235]
 
 (1) A person who—
 
@@ -831,7 +831,7 @@ A person who—
 - (a) he is not so resident for a reason connected with the exercise of the right of residence referred to in paragraph (b) of sub-paragraph (1); and
 - (b) he will be ordinarily resident in England immediately before the moving date.
 
-#### 9. EC nationals[^key-df9d66bd95af0c2fbb4880da75662a90]
+#### 9. EC nationals[^c-df9d66bd95af0c2fbb4880da75662a90]
 
 (1) A person who—
 
@@ -850,7 +850,7 @@ A person who—
 
 (3) Where a state accedes to the European Community after the moving date and a person is a national of that state or the family member of a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EC national on the moving date is treated as being satisfied.
 
-**10.**[^key-f77165b4f0fe143bf7ab971899964c70] (1) A person who—
+**10.**[^c-f77165b4f0fe143bf7ab971899964c70] (1) A person who—
 
 - (a) is an EC national other than a United Kingdom national on the moving date;
 - (b) either—
@@ -863,7 +863,7 @@ A person who—
 
 (2) Where a state accedes to the European Community after the moving date and a person is a national of that state, the person is treated as satisfying the requirement in paragraph (a) of sub-paragraph (1) to be an EC national other than a United Kingdom national on the moving date.
 
-#### 11. Children of Swiss nationals[^key-f40b877a48167b32ddf90a74c1b36ac5]
+#### 11. Children of Swiss nationals[^c-f40b877a48167b32ddf90a74c1b36ac5]
 
 A person who—
 
@@ -882,7 +882,7 @@ Regulation 36
 
 ### PART 1 — Interpretation
 
-**1.**[^key-518b25f07e862bf7b3777efbcb822b1d] (1) In this Schedule—
+**1.**[^c-518b25f07e862bf7b3777efbcb822b1d] (1) In this Schedule—
 
 - “EEA State” has the meaning given by paragraph 1 of Part 1 of Schedule 1;
 - “existing student” means a College of Europe student who is not a new eligible student;
@@ -938,7 +938,7 @@ Regulation 36
 
 ### PART 2 — Calculation of contribution
 
-#### 2. Household income[^key-40454905d0f696441595e6e59e7027d6]
+#### 2. Household income[^c-40454905d0f696441595e6e59e7027d6]
 
 (1) The amount of a College of Europe student or an Institute student’s contribution depends on the household income.
 
@@ -975,7 +975,7 @@ Regulation 36
 - (a) in respect of which the household income is calculated with reference to the residual income of the parent student or of the parent student’s partner or of both; or
 - (b) in respect of which a parental contribution is otherwise applicable with reference to the parent student or his partner.
 
-#### 3. Calculation of the student’s residual income[^key-3714f11d0ed9c59f1c219f6ff0907b7f]
+#### 3. Calculation of the student’s residual income[^c-3714f11d0ed9c59f1c219f6ff0907b7f]
 
 (1) For the purpose of determining the residual income of a student, there shall be deducted from his taxable income (unless already deducted in determining taxable income) the aggregate of any amounts falling within any of the following sub-paragraphs—
 
@@ -987,7 +987,7 @@ Regulation 36
 - (a) if the student purchases sterling with the income, the amount of sterling the student so receives; or
 - (b) otherwise, the value of the sterling the income would purchase using the rate for the month in which it is received published by the Office for National Statistics[^f00016].
 
-#### 4. Calculation of parent’s residual income[^key-bf96cd57a1bef8ee94b05139eb57bdf8]
+#### 4. Calculation of parent’s residual income[^c-bf96cd57a1bef8ee94b05139eb57bdf8]
 
 (1) For the purposes of determining the taxable income of a student’s parent, any deductions which fall to be made or exemptions which are permitted—
 
@@ -1035,7 +1035,7 @@ his taxable income for the purpose of this Schedule shall be computed as though 
 - (a) the appropriate proportion of the household income determined in accordance with sub-paragraph (9), being the proportion in respect of that part of the relevant year for which the parents are separated; and
 - (b) the appropriate proportion of the household income determined otherwise in respect of the remainder of the relevant year.
 
-#### 5. Calculation of the student’s partner’s residual income[^key-67de7e1dc2fa3a054acbe5b43a478f51]
+#### 5. Calculation of the student’s partner’s residual income[^c-67de7e1dc2fa3a054acbe5b43a478f51]
 
 (1) Subject to sub-paragraphs (2), (3) and (4) of this paragraph and with the exception of sub-paragraphs (8), (9) and (10) of paragraph 4, a student’s partner’s income shall be determined in accordance with paragraph 4, reference to the parent being construed as references to the student’s partner.
 
@@ -1045,11 +1045,11 @@ his taxable income for the purpose of this Schedule shall be computed as though 
 
 (4) Where a student has more than one partner in any one academic year, the provisions of this paragraph apply in relation to each.
 
-#### 6. Calculation of parent’s partner’s residual income[^key-454e24ab3124efe5c0fb9471e7effd2e]
+#### 6. Calculation of parent’s partner’s residual income[^c-454e24ab3124efe5c0fb9471e7effd2e]
 
 The income of a new student’s parent’s partner whose income is part of the household income by virtue of paragraph 2(2)(a) shall be determined in accordance with paragraph 5, references to the student’s partner being construed as references to the new student’s parent’s partner, and references to the student being construed as references to the student’s parent.
 
-#### 7. Calculation of contribution[^key-c5232666ce2b8c8166d0fa094f7bc293]
+#### 7. Calculation of contribution[^c-c5232666ce2b8c8166d0fa094f7bc293]
 
 (1) A student’s contribution shall be calculated in accordance with this regulation.
 
@@ -1090,7 +1090,7 @@ The income of a new student’s parent’s partner whose income is part of the h
 - (a) two or more College of Europe students in respect of the same income under paragraph 4 or, where the relevant parent’s partner’s residual income is taken into account, under paragraphs 4 and 6; or
 - (b) an independent eligible student and his partner where both hold a statutory award.
 
-#### 8. Split contributions[^key-67c22424675caca98b374519acc0f94a]
+#### 8. Split contributions[^c-67c22424675caca98b374519acc0f94a]
 
 (1) Where a contribution is payable under paragraph 7 above and one or more of the conditions in sub-paragraph (2) are satisfied, the amount of contribution payable in respect of the College of Europe student shall be the amount that the Secretary of State considers just taking into account—
 
@@ -1132,13 +1132,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30); section 22 was amended by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146 and Schedule 11; the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6; the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 147 and the Higher Education Act [2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), sections 42 and 43 and Schedule 7.
 
-[^key-fc55822bb03aa41ca7f26396e95cfd82]: Commencement: Reg. 1 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-fc55822bb03aa41ca7f26396e95cfd82]: Commencement: Reg. 1 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-798ee6482b2fe73638f6a5f0dc40e01f]: Commencement: Reg. 2 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-798ee6482b2fe73638f6a5f0dc40e01f]: Commencement: Reg. 2 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
 [^f00002]: Footnote: In relation to Wales, the functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 were transferred to the National Assembly for Wales under section 44 of the Higher Education Act 2004 except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22.
 
-[^key-3216788d0517f515a3078a3006855ed4]: Commencement: Reg. 3 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-3216788d0517f515a3078a3006855ed4]: Commencement: Reg. 3 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
 [^f00003]: Footnote: S.I. [2000/2197](https://www.legislation.gov.uk/uksi/2000/2197), amended by S.I. [2001/563](https://www.legislation.gov.uk/uksi/2001/563) and S.I. [2001/2892](https://www.legislation.gov.uk/uksi/2001/2892).
 
@@ -1148,73 +1148,73 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00006]: Footnote: [1962 c. 12](https://www.legislation.gov.uk/ukpga/1962/12); sections 1 to 4 and Schedule 1 were substituted by the provision sets out in Schedule 5 to the Education Act [1980 (c. 20)](https://www.legislation.gov.uk/ukpga/1980/20). Section 1(3)(d) was amended by the Education (Grants and Awards) Act [1984 (c. 11)](https://www.legislation.gov.uk/ukpga/1984/11), section 4. Section 4 was amended by the Education Act [1994 (c. 30)](https://www.legislation.gov.uk/ukpga/1994/30), Schedule 2, paragraph 2. The entire Act was repealed by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 44(2) and Schedule 4, subject to the transitional provisions and savings set out in the Teaching and Higher Education Act 1998 (Commencement No. 4 and Transitional Provisions) Order 1998 (S.I. [1998/3237](https://www.legislation.gov.uk/uksi/1998/3237)), article 3.
 
-[^key-47bfcd995603146656dcd592fad221d3]: Commencement: Reg. 4 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-47bfcd995603146656dcd592fad221d3]: Commencement: Reg. 4 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
 [^f00007]: Footnote: S.I. [2001/563](https://www.legislation.gov.uk/uksi/2001/563).
 
 [^f00008]: Footnote: S.I. [2001/2892](https://www.legislation.gov.uk/uksi/2001/2892).
 
-[^key-62e47389198512bdf1632ddcadc7457e]: Commencement: Reg. 5 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-62e47389198512bdf1632ddcadc7457e]: Commencement: Reg. 5 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-c0c2971f4db6b7949e93c7ccf5402fea]: Commencement: Reg. 6 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-c0c2971f4db6b7949e93c7ccf5402fea]: Commencement: Reg. 6 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-fc3a1bdd8acb87cc03616c8524d4aabb]: Commencement: Reg. 7 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-fc3a1bdd8acb87cc03616c8524d4aabb]: Commencement: Reg. 7 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-c29a639f2c9ba66868665185a4d1c836]: Commencement: Reg. 8 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-c29a639f2c9ba66868665185a4d1c836]: Commencement: Reg. 8 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-35e821b575accc53a6f3e2e95dfa0c46]: Commencement: Reg. 9 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-35e821b575accc53a6f3e2e95dfa0c46]: Commencement: Reg. 9 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-49831cbf44739775269a99a2f18f0845]: Commencement: Reg. 10 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-49831cbf44739775269a99a2f18f0845]: Commencement: Reg. 10 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-70a18c317e8c8998346547a2de9cbdb0]: Commencement: Reg. 11 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-70a18c317e8c8998346547a2de9cbdb0]: Commencement: Reg. 11 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-68848226fa088a1e616db6bef7fd0b9e]: Commencement: Reg. 12 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-68848226fa088a1e616db6bef7fd0b9e]: Commencement: Reg. 12 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-ad96581a111af611825490c8cce2748e]: Commencement: Reg. 13 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-ad96581a111af611825490c8cce2748e]: Commencement: Reg. 13 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-dfadd4f84dffc70761e74ae297d299b4]: Commencement: Reg. 14 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-dfadd4f84dffc70761e74ae297d299b4]: Commencement: Reg. 14 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-0189a63f4c845390900b9e31090a8bf2]: Commencement: Reg. 15 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-0189a63f4c845390900b9e31090a8bf2]: Commencement: Reg. 15 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-160eefbba54cdfbf73c5cd4586b0b555]: Commencement: Reg. 16 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-160eefbba54cdfbf73c5cd4586b0b555]: Commencement: Reg. 16 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-18f535080b4ba4891c6148b78c73dc90]: Commencement: Reg. 17 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-18f535080b4ba4891c6148b78c73dc90]: Commencement: Reg. 17 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-b5637128e1459961869d1a88156b0015]: Commencement: Reg. 18 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-b5637128e1459961869d1a88156b0015]: Commencement: Reg. 18 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-525098d97a2dea20b77599bdcb27fae1]: Commencement: Reg. 19 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-525098d97a2dea20b77599bdcb27fae1]: Commencement: Reg. 19 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-1f8f4ed9f70a3bf9d066b082bdf5f269]: Commencement: Reg. 20 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-1f8f4ed9f70a3bf9d066b082bdf5f269]: Commencement: Reg. 20 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-7eba4f42c412011730f302d4e7ccf160]: Commencement: Reg. 21 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-7eba4f42c412011730f302d4e7ccf160]: Commencement: Reg. 21 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-aa7ed6880592abb5fd30d0025f722225]: Commencement: Reg. 22 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-aa7ed6880592abb5fd30d0025f722225]: Commencement: Reg. 22 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-3d9467511e68f2605db8f884cf11a4c9]: Commencement: Reg. 23 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-3d9467511e68f2605db8f884cf11a4c9]: Commencement: Reg. 23 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-6fdc7f17bcdc55cbb4d6ddf0fb432318]: Commencement: Reg. 24 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-6fdc7f17bcdc55cbb4d6ddf0fb432318]: Commencement: Reg. 24 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-e540d8cdbc9cff42d9d3e3b22fc67ae7]: Commencement: Reg. 25 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-e540d8cdbc9cff42d9d3e3b22fc67ae7]: Commencement: Reg. 25 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-b8ad03289846c253a583c4eb613965e1]: Commencement: Reg. 26 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-b8ad03289846c253a583c4eb613965e1]: Commencement: Reg. 26 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-2cedb08eb732dfcb1507ca9766a2bf6f]: Commencement: Reg. 27 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-2cedb08eb732dfcb1507ca9766a2bf6f]: Commencement: Reg. 27 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-8c41029af2a639a63bddbca36c323e57]: Commencement: Reg. 28 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-8c41029af2a639a63bddbca36c323e57]: Commencement: Reg. 28 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-d77267b2144fb1bfada3d754171ca5c6]: Commencement: Reg. 29 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-d77267b2144fb1bfada3d754171ca5c6]: Commencement: Reg. 29 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-21b54ff47f517e76ef73832623034e92]: Commencement: Reg. 30 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-21b54ff47f517e76ef73832623034e92]: Commencement: Reg. 30 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-ab9c8669fad54c02e966290db73e8172]: Commencement: Reg. 31 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-ab9c8669fad54c02e966290db73e8172]: Commencement: Reg. 31 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-24d7f542b73a3377251cb33074b91a68]: Commencement: Reg. 32 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-24d7f542b73a3377251cb33074b91a68]: Commencement: Reg. 32 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-ac535ebcdcdd5a4ea59be04413399bb7]: Commencement: Reg. 33 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-ac535ebcdcdd5a4ea59be04413399bb7]: Commencement: Reg. 33 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-b4be7938fdcf2bfeeeaa31823a37944a]: Commencement: Reg. 34 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-b4be7938fdcf2bfeeeaa31823a37944a]: Commencement: Reg. 34 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-daa587acf3e23b8837829e6c7b3df3a6]: Commencement: Reg. 35 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-daa587acf3e23b8837829e6c7b3df3a6]: Commencement: Reg. 35 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
 [^f00009]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -1222,51 +1222,51 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00011]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 23 was amended by the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), section 49(3).
 
-[^key-83e711d85b571152f95fb1f0f7c29571]: Commencement: Reg. 36 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-83e711d85b571152f95fb1f0f7c29571]: Commencement: Reg. 36 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-7ceba488cdf964104cb5ea02e2c05427]: Commencement: Reg. 37 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-7ceba488cdf964104cb5ea02e2c05427]: Commencement: Reg. 37 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-e6458c9b97f79e69793db30777155261]: Commencement: Reg. 38 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-e6458c9b97f79e69793db30777155261]: Commencement: Reg. 38 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-78c6f0b2bdd12fbc7f85fe72f01788ef]: Commencement: Reg. 39 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-78c6f0b2bdd12fbc7f85fe72f01788ef]: Commencement: Reg. 39 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-a75bfbd170e2141a8921ecd623d86429]: Commencement: Reg. 40 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-a75bfbd170e2141a8921ecd623d86429]: Commencement: Reg. 40 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-112db4be2b802c97d12df6cf7949c967]: Commencement: Reg. 41 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-112db4be2b802c97d12df6cf7949c967]: Commencement: Reg. 41 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-72b687d70442cf25d13bd15a7b5ba1ae]: Commencement: Reg. 42 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-72b687d70442cf25d13bd15a7b5ba1ae]: Commencement: Reg. 42 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-c8669d821bf28f1a893d03d4ed905b04]: Commencement: Sch. 1 para. 1 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-c8669d821bf28f1a893d03d4ed905b04]: Commencement: Sch. 1 para. 1 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
 [^f00012]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); section 33(2A) was inserted by paragraph 7 of Schedule 4 to the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-29a7cbb70e78472837426e9eac807174]: Commencement: Sch. 1 para. 2 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-29a7cbb70e78472837426e9eac807174]: Commencement: Sch. 1 para. 2 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-871634e645a6523d669fcf620abcdeb8]: Commencement: Sch. 1 para. 3 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-871634e645a6523d669fcf620abcdeb8]: Commencement: Sch. 1 para. 3 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-b00b6fee67e11839d543e9b29a494a97]: Commencement: Sch. 1 para. 4 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-b00b6fee67e11839d543e9b29a494a97]: Commencement: Sch. 1 para. 4 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-47672a38a059abd27d677e696f55d1da]: Commencement: Sch. 1 para. 5 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-47672a38a059abd27d677e696f55d1da]: Commencement: Sch. 1 para. 5 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-df0f97bc18d4195aa64bab554f4ab1c9]: Commencement: Sch. 1 para. 6 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-df0f97bc18d4195aa64bab554f4ab1c9]: Commencement: Sch. 1 para. 6 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-c50105e9ab528824a2e675c6b2839c92]: Commencement: Sch. 1 para. 7 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-c50105e9ab528824a2e675c6b2839c92]: Commencement: Sch. 1 para. 7 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
 [^f00013]: Footnote: OJ No L257, 19.10.1968, p2 (OJ/SE 1968 (II) p475).
 
-[^key-f747ae8487cedba22157f86517108235]: Commencement: Sch. 1 para. 8 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-f747ae8487cedba22157f86517108235]: Commencement: Sch. 1 para. 8 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-df9d66bd95af0c2fbb4880da75662a90]: Commencement: Sch. 1 para. 9 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-df9d66bd95af0c2fbb4880da75662a90]: Commencement: Sch. 1 para. 9 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-f77165b4f0fe143bf7ab971899964c70]: Commencement: Sch. 1 para. 10 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-f77165b4f0fe143bf7ab971899964c70]: Commencement: Sch. 1 para. 10 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-f40b877a48167b32ddf90a74c1b36ac5]: Commencement: Sch. 1 para. 11 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-f40b877a48167b32ddf90a74c1b36ac5]: Commencement: Sch. 1 para. 11 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-518b25f07e862bf7b3777efbcb822b1d]: Commencement: Sch. 2 para. 1 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-518b25f07e862bf7b3777efbcb822b1d]: Commencement: Sch. 2 para. 1 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-40454905d0f696441595e6e59e7027d6]: Commencement: Sch. 2 para. 2 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-40454905d0f696441595e6e59e7027d6]: Commencement: Sch. 2 para. 2 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-3714f11d0ed9c59f1c219f6ff0907b7f]: Commencement: Sch. 2 para. 3 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-3714f11d0ed9c59f1c219f6ff0907b7f]: Commencement: Sch. 2 para. 3 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
 [^f00014]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
@@ -1274,12 +1274,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00016]: Footnote: “Financial Statistics” (ISSN 0015-203X).
 
-[^key-bf96cd57a1bef8ee94b05139eb57bdf8]: Commencement: Sch. 2 para. 4 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-bf96cd57a1bef8ee94b05139eb57bdf8]: Commencement: Sch. 2 para. 4 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-67de7e1dc2fa3a054acbe5b43a478f51]: Commencement: Sch. 2 para. 5 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-67de7e1dc2fa3a054acbe5b43a478f51]: Commencement: Sch. 2 para. 5 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-454e24ab3124efe5c0fb9471e7effd2e]: Commencement: Sch. 2 para. 6 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-454e24ab3124efe5c0fb9471e7effd2e]: Commencement: Sch. 2 para. 6 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-c5232666ce2b8c8166d0fa094f7bc293]: Commencement: Sch. 2 para. 7 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-c5232666ce2b8c8166d0fa094f7bc293]: Commencement: Sch. 2 para. 7 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
 
-[^key-67c22424675caca98b374519acc0f94a]: Commencement: Sch. 2 para. 8 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)
+[^c-67c22424675caca98b374519acc0f94a]: Commencement: Sch. 2 para. 8 in force at 30.4.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/953/regulation/1)

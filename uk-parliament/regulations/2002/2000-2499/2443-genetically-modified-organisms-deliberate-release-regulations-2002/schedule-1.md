@@ -14,9 +14,9 @@ summary: ''
 
 > Text as at 2025-11-13.
 
-## SCHEDULE 1 — Information to be included in applications for consent to release genetically modified higher plants for non-marketing purposes[^key-1cb3dd71d1a7581f759767ee5caf6c79]
+## SCHEDULE 1 — Information to be included in applications for consent to release genetically modified higher plants for non-marketing purposes[^c-1cb3dd71d1a7581f759767ee5caf6c79]
 
-Regulation 11[^key-3c3c76379e48a78c0dd86e58676960b7]
+Regulation 11[^c-3c3c76379e48a78c0dd86e58676960b7]
 
 ### PART I — General Information
 
@@ -53,9 +53,9 @@ Regulation 11[^key-3c3c76379e48a78c0dd86e58676960b7]
 - (a) the means and extent (such as an estimation of how viable pollen and/or seeds decline with distance where applicable) of dissemination; and
 - (b) any specific factors affecting dissemination.
 
-**7.** The geographical distribution of the plant in Europe[^key-d0cfd6ce93c316f7fbde3a3d014e0d82].
+**7.** The geographical distribution of the plant in Europe[^c-d0cfd6ce93c316f7fbde3a3d014e0d82].
 
-**8.** Where the application relates to a plant species which is not normally grown in Europe[^key-4bcb5a2b6536dee81eba8e65f8fa1f18], a description of the natural habitat of the plant, including information on natural predators, parasites, competitors and symbionts.
+**8.** Where the application relates to a plant species which is not normally grown in Europe[^c-4bcb5a2b6536dee81eba8e65f8fa1f18], a description of the natural habitat of the plant, including information on natural predators, parasites, competitors and symbionts.
 
 **9.** Any other potential interactions, relevant to the genetically modified organism, of the plant with organisms in the ecosystem where it is usually grown, or elsewhere, including information on toxic effects on humans, animals and other organisms.
 
@@ -78,17 +78,17 @@ Regulation 11[^key-3c3c76379e48a78c0dd86e58676960b7]
 - (c) the copy number of the insert, and
 - (d) the location or locations of the insert or inserts in the plant cells (whether it is integrated in the chromosome, chloroplasts, mitochondria, or maintained in a non-integrated form) and the methods for its determination.
 
-**15.**[^key-86462853c1deb13a515cbb214265e1bb] Information on parts of the plant where the insert is expressed.
+**15.**[^c-86462853c1deb13a515cbb214265e1bb] Information on parts of the plant where the insert is expressed.
 
-**15A.**[^key-a73269a56f921fe7c341e9ddf5fc4cd8] The genetic stability of the insert and phenotypic stability of the genetically modified plant.
+**15A.**[^c-a73269a56f921fe7c341e9ddf5fc4cd8] The genetic stability of the insert and phenotypic stability of the genetically modified plant.
 
 **15B.** Conclusions on the molecular characterisation of the genetically modified plant.
 
-**16.**[^key-55adb52ae9651e300cdfe94f37e98223] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-55adb52ae9651e300cdfe94f37e98223] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-eea9ba1c14c7e66cfdb3f1bd931dbd60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-eea9ba1c14c7e66cfdb3f1bd931dbd60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4A — Information on specific areas of risk[^key-91b3ab861a418fcc7e203c379f0e4a7f]
+### PART 4A — Information on specific areas of risk[^c-91b3ab861a418fcc7e203c379f0e4a7f]
 
 **18.** Information on—
 
@@ -101,15 +101,15 @@ Regulation 11[^key-3c3c76379e48a78c0dd86e58676960b7]
 - (g) any toxic, allergenic or other harmful effects on human health arising from the genetic modification,
 - (h) conclusions on the specific areas of risk.
 
-**19.**[^key-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-91b3ab861a418fcc7e203c379f0e4a7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.** A description of detection and identification techniques for the genetically modified plant.
 
@@ -117,7 +117,7 @@ Regulation 11[^key-3c3c76379e48a78c0dd86e58676960b7]
 
 ### PART V — Information relating to the site of release
 
-#### ...[^key-1d1bee5bd7e0a5be539da410fd8cd676]
+#### ...[^c-1d1bee5bd7e0a5be539da410fd8cd676]
 
 **26.** The location and size of the release site or sites.
 
@@ -129,7 +129,7 @@ Regulation 11[^key-3c3c76379e48a78c0dd86e58676960b7]
 
 ### PART VI — Information relating to the release
 
-#### ...[^key-b4d9ed2a6e56f5eb46946857e7e96405]
+#### ...[^c-b4d9ed2a6e56f5eb46946857e7e96405]
 
 **30.** The purpose of the release of the genetically modified plant, including its initial use and any intention to use it as or in a product in the future.
 
@@ -143,9 +143,9 @@ Regulation 11[^key-3c3c76379e48a78c0dd86e58676960b7]
 
 ### PART VII — Information on control, monitoring, post-release and waste treatment plans
 
-#### ...[^key-12b31f7ee3cb37d022de512c7fff9af7]
+#### ...[^c-12b31f7ee3cb37d022de512c7fff9af7]
 
-**35.**[^key-b46e073a4e06c000c72863e86f8b84e1] (1) A description of any precautions to maintain spatial and, as the case may be, temporal separation of the genetically modified plant from sexually compatible plant species.
+**35.**[^c-b46e073a4e06c000c72863e86f8b84e1] (1) A description of any precautions to maintain spatial and, as the case may be, temporal separation of the genetically modified plant from sexually compatible plant species.
 
 (2) In sub-paragraph (1) “plant species” means—
 
@@ -168,28 +168,28 @@ Regulation 11[^key-3c3c76379e48a78c0dd86e58676960b7]
 
 ## Annotations
 
-[^key-1cb3dd71d1a7581f759767ee5caf6c79]: Textual amendment: Words in Sch. 1 heading substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/2)
+[^c-1cb3dd71d1a7581f759767ee5caf6c79]: Textual amendment: Words in Sch. 1 heading substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/2)
 
-[^key-3c3c76379e48a78c0dd86e58676960b7]: Textual amendment: Sch. 1 shoulder note substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/3)
+[^c-3c3c76379e48a78c0dd86e58676960b7]: Textual amendment: Sch. 1 shoulder note substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/3)
 
-[^key-d0cfd6ce93c316f7fbde3a3d014e0d82]: Textual amendment: Words in Sch. 1 para. 7 inserted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/4)
+[^c-d0cfd6ce93c316f7fbde3a3d014e0d82]: Textual amendment: Words in Sch. 1 para. 7 inserted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/4)
 
-[^key-4bcb5a2b6536dee81eba8e65f8fa1f18]: Textual amendment: Words in Sch. 1 para. 8 substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/5)
+[^c-4bcb5a2b6536dee81eba8e65f8fa1f18]: Textual amendment: Words in Sch. 1 para. 8 substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/5)
 
-[^key-86462853c1deb13a515cbb214265e1bb]: Textual amendment: Sch. 1 para. 15 substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/6)
+[^c-86462853c1deb13a515cbb214265e1bb]: Textual amendment: Sch. 1 para. 15 substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/6)
 
-[^key-a73269a56f921fe7c341e9ddf5fc4cd8]: Textual amendment: Sch. 1 paras. 15A, 15B inserted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/7)
+[^c-a73269a56f921fe7c341e9ddf5fc4cd8]: Textual amendment: Sch. 1 paras. 15A, 15B inserted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/7)
 
-[^key-55adb52ae9651e300cdfe94f37e98223]: Textual amendment: Sch. 1 para. 16 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/8)
+[^c-55adb52ae9651e300cdfe94f37e98223]: Textual amendment: Sch. 1 para. 16 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/8)
 
-[^key-eea9ba1c14c7e66cfdb3f1bd931dbd60]: Textual amendment: Sch. 1 para. 17 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/8)
+[^c-eea9ba1c14c7e66cfdb3f1bd931dbd60]: Textual amendment: Sch. 1 para. 17 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/8)
 
-[^key-91b3ab861a418fcc7e203c379f0e4a7f]: Textual amendment: Sch. 1 Pt. 4A heading and para. 18 substituted for Sch. 1 paras. 18-23 (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(9)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/9)
+[^c-91b3ab861a418fcc7e203c379f0e4a7f]: Textual amendment: Sch. 1 Pt. 4A heading and para. 18 substituted for Sch. 1 paras. 18-23 (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(9)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/9)
 
-[^key-1d1bee5bd7e0a5be539da410fd8cd676]: Textual amendment: Words in Sch. 1 Pt. 5 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(10)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/10)
+[^c-1d1bee5bd7e0a5be539da410fd8cd676]: Textual amendment: Words in Sch. 1 Pt. 5 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(10)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/10)
 
-[^key-b4d9ed2a6e56f5eb46946857e7e96405]: Textual amendment: Words in Sch. 1 Pt. 6 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(11)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/11)
+[^c-b4d9ed2a6e56f5eb46946857e7e96405]: Textual amendment: Words in Sch. 1 Pt. 6 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(11)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/11)
 
-[^key-12b31f7ee3cb37d022de512c7fff9af7]: Textual amendment: Words in Sch. 1 Pt. 7 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(12)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/12)
+[^c-12b31f7ee3cb37d022de512c7fff9af7]: Textual amendment: Words in Sch. 1 Pt. 7 omitted (29.9.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(12)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/12)
 
-[^key-b46e073a4e06c000c72863e86f8b84e1]: Textual amendment: Sch. 1 para. 35 substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(13)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/13)
+[^c-b46e073a4e06c000c72863e86f8b84e1]: Textual amendment: Sch. 1 para. 35 substituted (29.9.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (England) Regulations 2019 (S.I. 2019/1252)](https://www.legislation.gov.uk/uksi/2019/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/1/1), [6(13)](https://www.legislation.gov.uk/uksi/2019/1252/regulation/6/13)

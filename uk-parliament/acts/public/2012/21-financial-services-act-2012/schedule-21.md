@@ -26,14 +26,14 @@ Section 119(2)
 
 #### Interpretation
 
-**1.**[^key-9c89a3834b987fd5a752c4d72a13e0c0] In this Part of this Schedule—
+**1.**[^c-9c89a3834b987fd5a752c4d72a13e0c0] In this Part of this Schedule—
 
 - “**the Bank**” means the Bank of England;
 - “**the FSA**” means the Financial Services Authority.
 
 #### Transfer schemes
 
-**2.**[^key-4ef3cb8bf52009af93580d667c698a0b] (1) The FSA must make one or more schemes under this paragraph for the transfer of property, rights and liabilities of the FSA—
+**2.**[^c-4ef3cb8bf52009af93580d667c698a0b] (1) The FSA must make one or more schemes under this paragraph for the transfer of property, rights and liabilities of the FSA—
 
 - (a) to the PRA or the Bank,
 - (b) to the PRA and the Bank, to be held jointly, or
@@ -56,12 +56,12 @@ Section 119(2)
 
 (8) In the following provisions of this Part of this Schedule a scheme under this paragraph is referred to as a “**transfer scheme**”.
 
-**3.**[^key-9d22d03f597024cad813093ee323941d] The property, rights and liabilities that may be the subject of a transfer scheme include—
+**3.**[^c-9d22d03f597024cad813093ee323941d] The property, rights and liabilities that may be the subject of a transfer scheme include—
 
 - (a) any that would otherwise be incapable of being transferred or assigned, and
 - (b) rights and liabilities under a contract of employment.
 
-**4.**[^key-b68d0c995592efc992f9f7c2ff253c39] A transfer scheme may—
+**4.**[^c-b68d0c995592efc992f9f7c2ff253c39] A transfer scheme may—
 
 - (a) apportion, or provide for the apportionment of, property, rights and liabilities,
 - (b) define the property, rights and liabilities to be transferred by specifying them or by describing them (including describing them by reference to functions that are transferred by or under this Act);
@@ -69,7 +69,7 @@ Section 119(2)
 - (d) contain provision for the payment of compensation by the FSA, the PRA or the Bank to any person whose interests are adversely affected by the scheme;
 - (e) contain supplemental, incidental, transitional and consequential provision.
 
-**5.**[^key-a5ef588194ee6a9083d52e1375041ce4] A transfer scheme which relates to rights and liabilities under a contract of employment—
+**5.**[^c-a5ef588194ee6a9083d52e1375041ce4] A transfer scheme which relates to rights and liabilities under a contract of employment—
 
 - (a) must provide for the transfer to which the scheme relates to be treated as if it were a relevant transfer for the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006 (“TUPE”), but
 - (b) may, in connection with functions becoming exercisable (alone or jointly) by the PRA—
@@ -80,11 +80,11 @@ Section 119(2)
 
 #### Interpretation
 
-**6.**[^key-f597a0a6aa6d9211cd3d9751ed8ca822] In this Part of this Schedule “**the OFT**” means the Office of Fair Trading.
+**6.**[^c-f597a0a6aa6d9211cd3d9751ed8ca822] In this Part of this Schedule “**the OFT**” means the Office of Fair Trading.
 
 #### Transfer schemes
 
-**7.**[^key-4b312a3b044ff730c97cb0c8410efafb] (1) This paragraph applies if after the passing of this Act the Treasury make an order under section 22 of FSMA 2000 which has the effect that an activity—
+**7.**[^c-4b312a3b044ff730c97cb0c8410efafb] (1) This paragraph applies if after the passing of this Act the Treasury make an order under section 22 of FSMA 2000 which has the effect that an activity—
 
 - (a) ceases to be an activity in respect of which a licence under section 21 of the Consumer Credit Act 1974 is required or would be required but for the exemption conferred by subsection (2), (3) or (4) of that section or paragraph 15(3) of Schedule 3 to FSMA 2000, and
 - (b) becomes a regulated activity for the purposes of FSMA 2000.
@@ -108,12 +108,12 @@ Section 119(2)
 
 (9) In the following provisions of this Part of this Schedule a scheme under this paragraph is referred to as a “**transfer scheme**”.
 
-**8.**[^key-51516f2960fc17943c391585deb01308] The property, rights and liabilities that may be the subject of a transfer scheme include—
+**8.**[^c-51516f2960fc17943c391585deb01308] The property, rights and liabilities that may be the subject of a transfer scheme include—
 
 - (a) any that would not otherwise be capable of being transferred or assigned, and
 - (b) rights and liabilities under a contract of employment.
 
-**9.**[^key-e94f35f8eef7b410b8907415f84b69d5] A transfer scheme may—
+**9.**[^c-e94f35f8eef7b410b8907415f84b69d5] A transfer scheme may—
 
 - (a) apportion, or provide for the apportionment of, property, rights and liabilities,
 - (b) define the property, rights and liabilities to be transferred by specifying them or by describing them (including describing them by reference to functions that are transferred by the order falling within paragraph 7(1));
@@ -121,26 +121,26 @@ Section 119(2)
 - (d) contain provision for the payment of compensation by the OFT or the FCA to any person whose interests are adversely affected by the scheme;
 - (e) contain supplemental, incidental, transitional and consequential provision.
 
-**10.**[^key-0ac7534bd2da45d5f99cdc32176fd7ac] A transfer scheme which relates to rights and liabilities under a contract of employment must provide for the transfer to which the scheme relates to be treated as if it were a relevant transfer for the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006.
+**10.**[^c-0ac7534bd2da45d5f99cdc32176fd7ac] A transfer scheme which relates to rights and liabilities under a contract of employment must provide for the transfer to which the scheme relates to be treated as if it were a relevant transfer for the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006.
 
 ## Annotations
 
-[^key-9c89a3834b987fd5a752c4d72a13e0c0]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/1) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-9c89a3834b987fd5a752c4d72a13e0c0]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/1) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-4ef3cb8bf52009af93580d667c698a0b]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/2) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-4ef3cb8bf52009af93580d667c698a0b]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/2) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-9d22d03f597024cad813093ee323941d]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/3) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-9d22d03f597024cad813093ee323941d]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/3) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-b68d0c995592efc992f9f7c2ff253c39]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/4) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-b68d0c995592efc992f9f7c2ff253c39]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/4) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-a5ef588194ee6a9083d52e1375041ce4]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/5) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-a5ef588194ee6a9083d52e1375041ce4]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/5) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-f597a0a6aa6d9211cd3d9751ed8ca822]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/6) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-f597a0a6aa6d9211cd3d9751ed8ca822]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/6) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-4b312a3b044ff730c97cb0c8410efafb]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/7) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-4b312a3b044ff730c97cb0c8410efafb]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/7) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-51516f2960fc17943c391585deb01308]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/8) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-51516f2960fc17943c391585deb01308]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/8) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-e94f35f8eef7b410b8907415f84b69d5]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/9) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-e94f35f8eef7b410b8907415f84b69d5]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/9) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
-[^key-0ac7534bd2da45d5f99cdc32176fd7ac]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/10) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-0ac7534bd2da45d5f99cdc32176fd7ac]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2012/21/schedule/21/paragraph/10) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

@@ -765,7 +765,7 @@ whether the cessation is total or partial, and whether or not it is on account o
 
 (3) Arrangements made between HMRC and a person or body within paragraph 9(2)(b) or (c) may include provision for the making of payments by HMRC to the person or body in respect of the provision of Help-to-Save accounts.
 
-#### Successor accounts for certain Help-to-Save accounts[^key-22681dbf9b99aaf666e855634ab8acfa]
+#### Successor accounts for certain Help-to-Save accounts[^c-22681dbf9b99aaf666e855634ab8acfa]
 
 **13A.** (1) In this paragraph “matured account” means an account provided by the Director of Savings which has been, but has ceased to be, a Help-to-Save account.
 
@@ -1004,4 +1004,4 @@ if the officer reasonably requires to inspect the documents in connection with t
 
 ## Annotations
 
-[^key-22681dbf9b99aaf666e855634ab8acfa]: Textual amendment: Sch. 2 para. 13A inserted (29.4.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 36](https://www.legislation.gov.uk/ukpga/2021/22/section/36), [49(1)(b)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/1/b)
+[^c-22681dbf9b99aaf666e855634ab8acfa]: Textual amendment: Sch. 2 para. 13A inserted (29.4.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 36](https://www.legislation.gov.uk/ukpga/2021/22/section/36), [49(1)(b)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/1/b)

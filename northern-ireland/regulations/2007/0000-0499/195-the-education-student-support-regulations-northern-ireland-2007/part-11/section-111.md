@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Period of eligibility[^key-7c1905b0cf1e571329206b2584fe6a62]
+## 111. Period of eligibility[^c-7c1905b0cf1e571329206b2584fe6a62]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ the Department may, at any time, renew or extend the period of eligibility for s
 
 ## Annotations
 
-[^key-7c1905b0cf1e571329206b2584fe6a62]: Commencement: [Reg. 111](https://www.legislation.gov.uk/nisr/2007/195/regulation/111) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-7c1905b0cf1e571329206b2584fe6a62]: Commencement: [Reg. 111](https://www.legislation.gov.uk/nisr/2007/195/regulation/111) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

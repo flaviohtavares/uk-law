@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2011 (revoked)[^key-c5ae7538b94b9fc9b7d975383de8fb5d]
+The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2011 (revoked)[^c-c5ae7538b94b9fc9b7d975383de8fb5d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st January 2012
 
-[^key-c5ae7538b94b9fc9b7d975383de8fb5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5ae7538b94b9fc9b7d975383de8fb5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c5ae7538b94b9fc9b7d975383de8fb5d]
+## 1. Citation and commencement[^c-c5ae7538b94b9fc9b7d975383de8fb5d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Information About Individual Pupils) (England) Regulations 2006[^key-c5ae7538b94b9fc9b7d975383de8fb5d]
+## 2. Amendment of the Education (Information About Individual Pupils) (England) Regulations 2006[^c-c5ae7538b94b9fc9b7d975383de8fb5d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5ae7538b94b9fc9b7d975383de8fb5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5ae7538b94b9fc9b7d975383de8fb5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5ae7538b94b9fc9b7d975383de8fb5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5ae7538b94b9fc9b7d975383de8fb5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5ae7538b94b9fc9b7d975383de8fb5d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2123) revoked (1.1.2014) by [The Education (Information About Individual Pupils) (England) Regulations 2013 (S.I. 2013/2094)](https://www.legislation.gov.uk/uksi/2013/2094), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2094/schedule/2)
+[^c-c5ae7538b94b9fc9b7d975383de8fb5d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2123) revoked (1.1.2014) by [The Education (Information About Individual Pupils) (England) Regulations 2013 (S.I. 2013/2094)](https://www.legislation.gov.uk/uksi/2013/2094), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2094/schedule/2)

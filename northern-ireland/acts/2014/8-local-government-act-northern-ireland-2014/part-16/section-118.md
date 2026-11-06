@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Persons ceasing to hold office[^key-35f9f663ebe3f648c151ebd5fa9b2bec]
+## 118. Persons ceasing to hold office[^c-35f9f663ebe3f648c151ebd5fa9b2bec]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35f9f663ebe3f648c151ebd5fa9b2bec]: Commencement: [S. 118](https://www.legislation.gov.uk/nia/2014/8/section/118) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-35f9f663ebe3f648c151ebd5fa9b2bec]: Commencement: [S. 118](https://www.legislation.gov.uk/nia/2014/8/section/118) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

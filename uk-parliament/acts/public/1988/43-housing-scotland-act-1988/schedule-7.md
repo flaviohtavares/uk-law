@@ -40,19 +40,19 @@ Section 72.
 
 **9.** In section 200 (slum clearance subsidy) in subsection (2) for “(2)” there shall be substituted “ (1) ”.
 
-**10.**[^key-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-7623c2fe5615bacdb704cbdb019ff6dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17.** In section 254 (exchequer contributions towards certain grants) in each of subsections (1) and (2) for “250” there shall be substituted “ 249 ”.
 
@@ -94,7 +94,7 @@ Section 72.
 
 [^c10517481]: Textual amendment: Sch. 7 para. 2 repealed (30.9.2002) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 14(14)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/14/14); [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [arts. 2(2)](https://www.legislation.gov.uk/ssi/2002/321/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2002/321/schedule) Table (subject to transitional provisions in arts. 3-5)
 
-[^key-7623c2fe5615bacdb704cbdb019ff6dc]: Textual amendment: Sch. 7 paras. 10-16 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-7623c2fe5615bacdb704cbdb019ff6dc]: Textual amendment: Sch. 7 paras. 10-16 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
 [^c10517491]: Marginal citation: [1984 c. 58](https://www.legislation.gov.uk/ukpga/1984/58).
 

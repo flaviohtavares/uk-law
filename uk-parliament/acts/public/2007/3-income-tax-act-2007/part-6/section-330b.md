@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330B. Powers to amend Chapters 3 and 4 by Treasury regulations[^key-ef7936db0b5f2ccef4cca352edc6a005]
+## 330B. Powers to amend Chapters 3 and 4 by Treasury regulations[^c-ef7936db0b5f2ccef4cca352edc6a005]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef7936db0b5f2ccef4cca352edc6a005]: Textual amendment: S. 330B and cross-heading inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/19)
+[^c-ef7936db0b5f2ccef4cca352edc6a005]: Textual amendment: S. 330B and cross-heading inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/19)

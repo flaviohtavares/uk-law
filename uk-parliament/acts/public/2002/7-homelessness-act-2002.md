@@ -33,30 +33,30 @@ An Act to make further provision about the functions of local housing authoritie
 
 \[26th February 2002\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-cda7c06dc09a20c847725518daee975e][^key-85b170d9b9f06a568e94f9e8916edd3d]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-cda7c06dc09a20c847725518daee975e][^c-85b170d9b9f06a568e94f9e8916edd3d]
 
 ## Homelessness reviews and strategies: England[^M_F_1c7529b6-2cac-4136-fc94-31c3fe74a28b]
 
-### 1. Duty of local housing authority in England to formulate a homelessness strategy[^c1805459][^key-300ee7efbb5c0de7b82e9483a3d68b53][^key-786878c6813d2c5065b533042f36dbe4]
+### 1. Duty of local housing authority in England to formulate a homelessness strategy[^c1805459][^c-300ee7efbb5c0de7b82e9483a3d68b53][^c-786878c6813d2c5065b533042f36dbe4]
 
-(1) A local housing authority in England[^key-24ee08264db2078615bc660da5ad3d19] (“**the authority**”) may from time to time—
+(1) A local housing authority in England[^c-24ee08264db2078615bc660da5ad3d19] (“**the authority**”) may from time to time—
 
 - (a) carry out a homelessness review for their district; and
 - (b) formulate and publish a homelessness strategy based on the results of that review.
 
 (2) The social services authority for the district of the authority (where that is a different local authority) shall give such assistance in connection with the exercise of the power under subsection (1) as the authority may reasonably require.
 
-(3)[^key-e7976bffc34b97a9bf98c31b3b4f94c7] The authority shall exercise that power so as to ensure that the first homelessness strategy for their district is published within the period of twelve months beginning with the day on which this section comes into force.
+(3)[^c-e7976bffc34b97a9bf98c31b3b4f94c7] The authority shall exercise that power so as to ensure that the first homelessness strategy for their district is published within the period of twelve months beginning with the day on which this section comes into force.
 
 (4)[^c1811976] The authority shall exercise that power so as to ensure that a new homelessness strategy for their district is published within the period of five years beginning with the day on which their last homelessness strategy was published.
 
-(5) A local housing authority in England[^key-54efec573f1a0b8f28c84f5c5a9dd7ea] shall take their homelessness strategy into account in the exercise of their functions.
+(5) A local housing authority in England[^c-54efec573f1a0b8f28c84f5c5a9dd7ea] shall take their homelessness strategy into account in the exercise of their functions.
 
 (6) A social services authority shall take the homelessness strategy for the district of a local housing authority into account in the exercise of their functions in relation to that district.
 
 (7) Nothing in subsection (5) or (6) affects any duty or requirement arising apart from this section.
 
-### 2. Homelessness reviews[^c1805463][^key-5d8062ef3f29af1d57386109188cb857]
+### 2. Homelessness reviews[^c1805463][^c-5d8062ef3f29af1d57386109188cb857]
 
 (1) For the purposes of this Act “**homelessness review**” means a review by a local housing authority of—
 
@@ -77,7 +77,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) arrange for the results of the review to be available at its principal office for inspection at all reasonable hours, without charge, by members of the public; and
 - (b) provide (on payment if required by the authority of a reasonable charge) a copy of those results to any member of the public who asks for one.
 
-### 3. Homelessness strategies[^c1805482][^key-5d8062ef3f29af1d57386109188cb857]
+### 3. Homelessness strategies[^c1805482][^c-5d8062ef3f29af1d57386109188cb857]
 
 (1) For the purposes of this Act “**homelessness strategy**” means a strategy formulated by a local housing authority for—
 
@@ -105,7 +105,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) If the authority modify their homelessness strategy, they shall publish the modifications or the strategy as modified (as they consider most appropriate).
 
-(7A)[^key-f6e95e26f7fd337c53091d6e97c2cec6] In formulating or modifying a homelessness strategy, a local housing authority [^key-8ac0d1824e453c549f9a2d41f44d608c] ... shall have regard to—
+(7A)[^c-f6e95e26f7fd337c53091d6e97c2cec6] In formulating or modifying a homelessness strategy, a local housing authority [^c-8ac0d1824e453c549f9a2d41f44d608c] ... shall have regard to—
 
 - (a) its current allocation scheme under section 166A of the Housing Act 1996,
 - (b) its current tenancy strategy under section 150 of the Localism Act 2011, and
@@ -118,13 +118,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) make a copy of everything published under section 1 or[^c1811972] this section available at its principal office for inspection at all reasonable hours, without charge, by members of the public; and
 - (b) provide (on payment if required by the authority of a reasonable charge) a copy of anything[^c1811974] so published to any member of the public who asks for one.
 
-### 4. Sections 1 to 3: interpretation[^c1805487][^key-5d8062ef3f29af1d57386109188cb857]
+### 4. Sections 1 to 3: interpretation[^c1805487][^c-5d8062ef3f29af1d57386109188cb857]
 
 In sections 1 to 3—
 
 - “**homeless**” and “**homelessness**” have the same meaning as in Part 7 of the Housing Act 1996 (c. 52) (in this Act referred to as “**the 1996 Act**”);
 - “**local housing authority**” and “**district**” have the same meaning as in the Housing Act 1985 (c. 68);
-- “**social services authority**” means a local authority for the purposes of the Local Authority Social Services Act 1970 (c. 42) or Part 8 of the Social Services and Well-being (Wales) Act 2014[^key-465302cc07a4ab45f3a59185cd5f2637];
+- “**social services authority**” means a local authority for the purposes of the Local Authority Social Services Act 1970 (c. 42) or Part 8 of the Social Services and Well-being (Wales) Act 2014[^c-465302cc07a4ab45f3a59185cd5f2637];
 - “**support**” means advice, information or assistance; and
 - “**voluntary organisation**” has the same meaning as in section 180(3) of the 1996 Act.
 
@@ -159,15 +159,15 @@ In sections 1 to 3—
 
 ### 7. Events which cause the main homelessness duty to cease[^c1805497]
 
-(1)[^key-000de8573907a8be27acc07061e01fb4] Subsections (6) to (8) of section 193 of the 1996 Act (events which bring main homelessness duty to an end) are amended as follows. *(affected by repeal, see note)*[^key-000de8573907a8be27acc07061e01fb4]
+(1)[^c-000de8573907a8be27acc07061e01fb4] Subsections (6) to (8) of section 193 of the 1996 Act (events which bring main homelessness duty to an end) are amended as follows. *(affected by repeal, see note)*[^c-000de8573907a8be27acc07061e01fb4]
 
 *Extent: E*
 
 (1) Section 193 of the 1996 Act (events which bring main homelessness duty to an end) is amended in accordance with subsections (3) to (5).
 
-(2)[^key-27a637e17e5a82eca408d9689778bd84] In subsection (6), after paragraph (c) there is inserted— *(affected by repeal, see note)*[^key-27a637e17e5a82eca408d9689778bd84]
+(2)[^c-27a637e17e5a82eca408d9689778bd84] In subsection (6), after paragraph (c) there is inserted— *(affected by repeal, see note)*[^c-27a637e17e5a82eca408d9689778bd84]
 
-> - (cc (affected by repeal, see note))[^key-27a637e17e5a82eca408d9689778bd84] accepts an offer of an assured tenancy (other than an assured shorthold tenancy) from a private landlord, *(affected by repeal, see note)*[^key-27a637e17e5a82eca408d9689778bd84]
+> - (cc (affected by repeal, see note))[^c-27a637e17e5a82eca408d9689778bd84] accepts an offer of an assured tenancy (other than an assured shorthold tenancy) from a private landlord, *(affected by repeal, see note)*[^c-27a637e17e5a82eca408d9689778bd84]
 
 (3) For subsection (7) there is substituted—
 
@@ -658,35 +658,35 @@ Section 18(2)
 
 ## Annotations
 
-[^key-cda7c06dc09a20c847725518daee975e]: Modification: Act modified (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2008/2867/regulation/27) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
+[^c-cda7c06dc09a20c847725518daee975e]: Modification: Act modified (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2008/2867/regulation/27) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
 
-[^key-85b170d9b9f06a568e94f9e8916edd3d]: Modification: Act applied (with modifications) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-85b170d9b9f06a568e94f9e8916edd3d]: Modification: Act applied (with modifications) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
 [^M_F_1c7529b6-2cac-4136-fc94-31c3fe74a28b]: Textual amendment: Word in s. 1 cross-heading inserted (27.4.2015) by Housing (Wales) Act 2014 (anaw 7), s. 145(3), Sch. 3 para. 16; [S.I. 2015/1272](https://www.legislation.gov.uk/uksi/2015/1272), [art. 2](https://www.legislation.gov.uk/uksi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/uksi/2015/1272/article/7))
 
 [^c1805459]: Commencement: S. 1 wholly in force at 30.9.2002; s. 1 not in force at Royal Assent see s. 20(1); s. 1 in force for E. at 31.7.2002 by [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); s. 1 in force for W. at 30.9.2002 by [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/1)
 
-[^key-300ee7efbb5c0de7b82e9483a3d68b53]: Modification: S. 1 modified in part (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
+[^c-300ee7efbb5c0de7b82e9483a3d68b53]: Modification: S. 1 modified in part (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
 
-[^key-786878c6813d2c5065b533042f36dbe4]: Textual amendment: Words in s. 1 heading inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 17(b)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/17/b); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
+[^c-786878c6813d2c5065b533042f36dbe4]: Textual amendment: Words in s. 1 heading inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 17(b)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/17/b); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
 
-[^key-24ee08264db2078615bc660da5ad3d19]: Textual amendment: Words in s. 1(1) inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 17(a)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/17/a); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
+[^c-24ee08264db2078615bc660da5ad3d19]: Textual amendment: Words in s. 1(1) inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 17(a)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/17/a); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
 
-[^key-e7976bffc34b97a9bf98c31b3b4f94c7]: Modification: S. 1(3) excluded (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
+[^c-e7976bffc34b97a9bf98c31b3b4f94c7]: Modification: S. 1(3) excluded (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [12(4)(a)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
 
 [^c1811976]: Modification: S. 1(4) excluded (1.2.2005) by [The Local Authorities' Plans and Strategies (Disapplication) (England) Order 2005 (S.I. 2005/157)](https://www.legislation.gov.uk/uksi/2005/157), [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/157/article/3/1)
 
-[^key-54efec573f1a0b8f28c84f5c5a9dd7ea]: Textual amendment: Words in s. 1(5) inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 17(a)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/17/a); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
+[^c-54efec573f1a0b8f28c84f5c5a9dd7ea]: Textual amendment: Words in s. 1(5) inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 17(a)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/17/a); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
 
 [^c1805463]: Commencement: S. 2 wholly in force at 30.9.2002; s. 2 not in force at Royal Assent see s. 20(1); s. 2 in force for E. at 31.7.2002 by [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); s. 2 in force for W. at 30.9.2002 by [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/1)
 
-[^key-5d8062ef3f29af1d57386109188cb857]: Modification: Ss. 2-4 modified (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
+[^c-5d8062ef3f29af1d57386109188cb857]: Modification: Ss. 2-4 modified (28.11.2008) by [Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [12(4)(b)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
 
 [^c1805482]: Commencement: S. 3 wholly in force at 30.9.2002; s. 3 not in force at Royal Assent see s. 20(1); s. 3 in force for E. at 31.7.2002 by [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); s. 3 in force for W. at 30.9.2002 by [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/1)
 
-[^key-f6e95e26f7fd337c53091d6e97c2cec6]: Textual amendment: S. 3(7A) inserted (15.1.2012 for specified purposes, 7.6.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 153](https://www.legislation.gov.uk/ukpga/2011/20/section/153), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(o)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/o) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/g)
+[^c-f6e95e26f7fd337c53091d6e97c2cec6]: Textual amendment: S. 3(7A) inserted (15.1.2012 for specified purposes, 7.6.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 153](https://www.legislation.gov.uk/ukpga/2011/20/section/153), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(o)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/o) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/g)
 
-[^key-8ac0d1824e453c549f9a2d41f44d608c]: Textual amendment: Words in s. 3(7A) omitted (27.4.2015) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/18); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
+[^c-8ac0d1824e453c549f9a2d41f44d608c]: Textual amendment: Words in s. 3(7A) omitted (27.4.2015) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/18); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53)
 
 [^c1811972]: Textual amendment: Words in s. 3(9)(a) substituted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 127(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/127/1), [128](https://www.legislation.gov.uk/ukpga/2003/26/section/128), [Sch. 7 para. 81(a)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/81/a)
 
@@ -694,7 +694,7 @@ Section 18(2)
 
 [^c1805487]: Commencement: S. 4 wholly in force at 30.9.2002; s. 4 not in force at Royal Assent see s. 20(1); s. 4 in force for E. at 31.7.2002 by [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); s. 4 in force for W. at 30.9.2002 by [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/1)
 
-[^key-465302cc07a4ab45f3a59185cd5f2637]: Textual amendment: Words in s. 4 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [187](https://www.legislation.gov.uk/wsi/2016/413/regulation/187)
+[^c-465302cc07a4ab45f3a59185cd5f2637]: Textual amendment: Words in s. 4 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [187](https://www.legislation.gov.uk/wsi/2016/413/regulation/187)
 
 [^c1805488]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2002/7/section/5) wholly in force at 30.9.2002; [s. 5](https://www.legislation.gov.uk/ukpga/2002/7/section/5) not in force at Royal Assent see [s. 20(1)](https://www.legislation.gov.uk/ukpga/2002/7/section/20/1); [s. 5](https://www.legislation.gov.uk/ukpga/2002/7/section/5) in force for E. at 31.7.2002 by [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); [s. 5](https://www.legislation.gov.uk/ukpga/2002/7/section/5) in force for W. at 30.9.2002 by [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/1)
 
@@ -702,9 +702,9 @@ Section 18(2)
 
 [^c1805497]: Commencement: S. 7 wholly in force at 30.9.2002; [s. 7](https://www.legislation.gov.uk/ukpga/2002/7/section/7) not in force at Royal Assent see [s. 20(1)](https://www.legislation.gov.uk/ukpga/2002/7/section/20/1); [s. 7](https://www.legislation.gov.uk/ukpga/2002/7/section/7) in force for E. at 31.7.2002 by [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); [s. 7](https://www.legislation.gov.uk/ukpga/2002/7/section/7) in force for W. at 30.9.2002 by [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/1)
 
-[^key-000de8573907a8be27acc07061e01fb4]: Textual amendment: S. 7(1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 58(a)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/58/a) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-000de8573907a8be27acc07061e01fb4]: Textual amendment: S. 7(1) substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 58(a)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/58/a) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
 
-[^key-27a637e17e5a82eca408d9689778bd84]: Textual amendment: S. 7(2) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 58(b)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/58/b) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-27a637e17e5a82eca408d9689778bd84]: Textual amendment: S. 7(2) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 58(b)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/58/b) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
 
 [^c1805502]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2002/7/section/9) wholly in force at 30.9.2002; [s. 9](https://www.legislation.gov.uk/ukpga/2002/7/section/9) not in force at Royal Assent see [s. 20(1)](https://www.legislation.gov.uk/ukpga/2002/7/section/20/1); [s. 9](https://www.legislation.gov.uk/ukpga/2002/7/section/9) in force for E. at 31.7.2002 by [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); [s. 9](https://www.legislation.gov.uk/ukpga/2002/7/section/9) in force for W. at 30.9.2002 by [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/1)
 

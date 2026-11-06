@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Excluded premises[^key-8771b37ee37d6ab43c13540118e4a2e8]
+## 123. Excluded premises[^c-8771b37ee37d6ab43c13540118e4a2e8]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8771b37ee37d6ab43c13540118e4a2e8]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2005/16/section/123) in force at 5.9.2008 by [S.S.I. 2008/292](https://www.legislation.gov.uk/ssi/2008/292), [art. 2](https://www.legislation.gov.uk/ssi/2008/292/article/2)
+[^c-8771b37ee37d6ab43c13540118e4a2e8]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2005/16/section/123) in force at 5.9.2008 by [S.S.I. 2008/292](https://www.legislation.gov.uk/ssi/2008/292), [art. 2](https://www.legislation.gov.uk/ssi/2008/292/article/2)

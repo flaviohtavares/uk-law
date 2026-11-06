@@ -51,11 +51,11 @@ AND WHEREAS the Department has, in accordance with Article 4(3) of the Order, an
 
 NOW THEREFORE the Department of the Environment, in exercise of the powers conferred on it by Articles 3(1) and (3), 4(1) and (8), 5(1) and 6(5) of the Order and of every other power enabling it in that behalf, and in accordance with Article 11(*a*) of the Order with the concurrence of the Department of Finance and Personnel, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-208f2117eab7ce9d3b8f87cafb5858e8]
+## 1. Citation and commencement[^c-208f2117eab7ce9d3b8f87cafb5858e8]
 
 This Order may be cited as the Driver & Vehicle Testing Agency Trading Fund Order (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
-## 2. Interpretation[^key-60998fe1df1c5097f5e7118c9116a78a]
+## 2. Interpretation[^c-60998fe1df1c5097f5e7118c9116a78a]
 
 In this Order—
 
@@ -63,21 +63,21 @@ In this Order—
 - “Driver & Vehicle Testing Agency” means that part of the Department of the Environment known as the Driver & Vehicle Testing Agency; and
 - “vehicle” means road vehicle.
 
-## 3. Establishment of the fund[^key-f95c09638a4f26d293cda550d5d97dbd]
+## 3. Establishment of the fund[^c-f95c09638a4f26d293cda550d5d97dbd]
 
 As from 1st April 1996 there shall be established a trading fund for such of the operations of the Driver & Vehicle Testing Agency as are described in Schedule 1.
 
-## 4. Source of loans[^key-628fa13cde8e66437223c4db6f359023]
+## 4. Source of loans[^c-628fa13cde8e66437223c4db6f359023]
 
 The Department is hereby designated as the source of issues to the fund by way of loan.
 
-## 5. Assets, liabilities and public dividend capital[^key-46257656ca74693e35574bb5f8f624e8]
+## 5. Assets, liabilities and public dividend capital[^c-46257656ca74693e35574bb5f8f624e8]
 
 (1) The Crown assets and liabilities set out in Schedule 2 shall be appropriated as assets and liabilities of the fund at the values or amounts shown in that Schedule.
 
 (2) The sum of £2,100,000, being part of the amount by which the values of those assets exceed the amounts of those liabilities, shall be treated as public dividend capital.
 
-## 6. Limitation of indebtedness[^key-aa5e7fa58ab21470f8304698c0bb865c]
+## 6. Limitation of indebtedness[^c-aa5e7fa58ab21470f8304698c0bb865c]
 
 The maximum amount that may be issued to the fund by way of loan under Article 6 of the Order shall be £10,000,000.
 
@@ -103,7 +103,7 @@ Assistant Secretary
 
 Article 3
 
-**1.**[^key-8dce0f4d41726595102bd8a91d5f1a9b] The—
+**1.**[^c-8dce0f4d41726595102bd8a91d5f1a9b] The—
 
 - (a) inspection, examination, testing and weighing of vehicles, their parts, accessories, equipment and loads;
 - (b) supervision and licensing of drivers and motorcyclists;
@@ -121,7 +121,7 @@ Article 3
 
 **6.** The carrying out of operations incidental, conducive or otherwise ancillary to the conduct of the operations described above.
 
-## SCHEDULE 2 — Assets and Liabilities[^key-6d07bdf33fbc2a8262faefc54880a0b2]
+## SCHEDULE 2 — Assets and Liabilities[^c-6d07bdf33fbc2a8262faefc54880a0b2]
 
 Article 5
 
@@ -150,18 +150,18 @@ Schedule 1 describes the operations in question, and Schedule 2 the assets and l
 
 [^f00001]: Footnote: S.I. [1993/1252 (N.I. 5)](https://www.legislation.gov.uk/nisi/1993/1252)
 
-[^key-208f2117eab7ce9d3b8f87cafb5858e8]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
+[^c-208f2117eab7ce9d3b8f87cafb5858e8]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
 
-[^key-60998fe1df1c5097f5e7118c9116a78a]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1996/32/article/2) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
+[^c-60998fe1df1c5097f5e7118c9116a78a]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1996/32/article/2) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
 
-[^key-f95c09638a4f26d293cda550d5d97dbd]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1996/32/article/3) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
+[^c-f95c09638a4f26d293cda550d5d97dbd]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1996/32/article/3) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
 
-[^key-628fa13cde8e66437223c4db6f359023]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1996/32/article/4) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
+[^c-628fa13cde8e66437223c4db6f359023]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1996/32/article/4) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
 
-[^key-46257656ca74693e35574bb5f8f624e8]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1996/32/article/5) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
+[^c-46257656ca74693e35574bb5f8f624e8]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1996/32/article/5) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
 
-[^key-aa5e7fa58ab21470f8304698c0bb865c]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/1996/32/article/6) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
+[^c-aa5e7fa58ab21470f8304698c0bb865c]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/1996/32/article/6) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
 
-[^key-8dce0f4d41726595102bd8a91d5f1a9b]: Textual amendment: [Sch. 1 paras. 1-6](https://www.legislation.gov.uk/nisr/1996/32/schedule/1/paragraph/1) substituted for [Sch. 1 paras. 1-5](https://www.legislation.gov.uk/nisr/1996/32/schedule/1) (1.4.2016) by [The Driver and Vehicle Agency Trading Fund Order (Northern Ireland) 2016 (S.R. 2016/164)](https://www.legislation.gov.uk/nisr/2016/164), [arts. 1](https://www.legislation.gov.uk/nisr/2016/164/article/1), [4](https://www.legislation.gov.uk/nisr/2016/164/article/4), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/164/schedule/1)
+[^c-8dce0f4d41726595102bd8a91d5f1a9b]: Textual amendment: [Sch. 1 paras. 1-6](https://www.legislation.gov.uk/nisr/1996/32/schedule/1/paragraph/1) substituted for [Sch. 1 paras. 1-5](https://www.legislation.gov.uk/nisr/1996/32/schedule/1) (1.4.2016) by [The Driver and Vehicle Agency Trading Fund Order (Northern Ireland) 2016 (S.R. 2016/164)](https://www.legislation.gov.uk/nisr/2016/164), [arts. 1](https://www.legislation.gov.uk/nisr/2016/164/article/1), [4](https://www.legislation.gov.uk/nisr/2016/164/article/4), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/164/schedule/1)
 
-[^key-6d07bdf33fbc2a8262faefc54880a0b2]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1996/32/schedule/2) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)
+[^c-6d07bdf33fbc2a8262faefc54880a0b2]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1996/32/schedule/2) in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/32/article/1)

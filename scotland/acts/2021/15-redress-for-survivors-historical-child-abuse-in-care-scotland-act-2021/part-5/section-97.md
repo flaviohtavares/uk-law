@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Liability for payments, other than redress payments, made in error[^key-b86fb06b1ea3f9fd7bb2d79f707f5ea3]
+## 97. Liability for payments, other than redress payments, made in error[^c-b86fb06b1ea3f9fd7bb2d79f707f5ea3]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ is liable to pay the Scottish Ministers the value of the payment to the extent t
 
 ## Annotations
 
-[^key-b86fb06b1ea3f9fd7bb2d79f707f5ea3]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2021/15/section/97) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-b86fb06b1ea3f9fd7bb2d79f707f5ea3]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2021/15/section/97) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

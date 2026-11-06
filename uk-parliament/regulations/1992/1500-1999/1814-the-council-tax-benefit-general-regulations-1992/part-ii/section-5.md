@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Persons of prescribed description for the definition of family in section 137(1) of the Contributions and Benefits Act 1992[^key-dc5442242deecc79f4523a3dfd79207f]
+## 5. Persons of prescribed description for the definition of family in section 137(1) of the Contributions and Benefits Act 1992[^c-dc5442242deecc79f4523a3dfd79207f]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc5442242deecc79f4523a3dfd79207f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/1814/regulation/5) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-dc5442242deecc79f4523a3dfd79207f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/1814/regulation/5) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00013]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instrument is S.I. [1990/547](https://www.legislation.gov.uk/uksi/1990/547).

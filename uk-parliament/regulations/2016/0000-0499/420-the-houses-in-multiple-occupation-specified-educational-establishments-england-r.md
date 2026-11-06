@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England
 
-The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2016 (revoked)[^key-9d0ab49e3cc96bfb8843cf79edcee99f]
+The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2016 (revoked)[^c-9d0ab49e3cc96bfb8843cf79edcee99f]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 13th April 2016
 
-[^key-9d0ab49e3cc96bfb8843cf79edcee99f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d0ab49e3cc96bfb8843cf79edcee99f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-9d0ab49e3cc96bfb8843cf79edcee99f]
+## 1. Citation, commencement and application[^c-9d0ab49e3cc96bfb8843cf79edcee99f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Educational establishments specified for certain purposes of the Housing Act 2004[^key-9d0ab49e3cc96bfb8843cf79edcee99f]
+## 2. Educational establishments specified for certain purposes of the Housing Act 2004[^c-9d0ab49e3cc96bfb8843cf79edcee99f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-9d0ab49e3cc96bfb8843cf79edcee99f]
+## 3. Revocation[^c-9d0ab49e3cc96bfb8843cf79edcee99f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d0ab49e3cc96bfb8843cf79edcee99f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d0ab49e3cc96bfb8843cf79edcee99f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004[^key-9d0ab49e3cc96bfb8843cf79edcee99f]
+## SCHEDULE — Educational establishments specified for the purposes of paragraph 4 of Schedule 14 to the Housing Act 2004[^c-9d0ab49e3cc96bfb8843cf79edcee99f]
 
 Regulation 2
 
@@ -74,8 +74,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-9d0ab49e3cc96bfb8843cf79edcee99f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d0ab49e3cc96bfb8843cf79edcee99f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d0ab49e3cc96bfb8843cf79edcee99f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/420) revoked (1.6.2019) by [The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2019 (S.I. 2019/904)](https://www.legislation.gov.uk/uksi/2019/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/904/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/904/regulation/3)
+[^c-9d0ab49e3cc96bfb8843cf79edcee99f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/420) revoked (1.6.2019) by [The Houses in Multiple Occupation (Specified Educational Establishments) (England) Regulations 2019 (S.I. 2019/904)](https://www.legislation.gov.uk/uksi/2019/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/904/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2019/904/regulation/3)

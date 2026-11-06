@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Section 173: code of practice[^key-8544dd0aa8698d2cdd025d14d340fa51][^key-9d82a3791dbe3a81b2cd17f87d299a97]
+## 177. Section 173: code of practice[^c-8544dd0aa8698d2cdd025d14d340fa51][^c-9d82a3791dbe3a81b2cd17f87d299a97]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8544dd0aa8698d2cdd025d14d340fa51]: Commencement: S. 177 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8544dd0aa8698d2cdd025d14d340fa51]: Commencement: S. 177 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9d82a3791dbe3a81b2cd17f87d299a97]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2026/20/section/177) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(t)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/t)
+[^c-9d82a3791dbe3a81b2cd17f87d299a97]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2026/20/section/177) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(t)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/t)

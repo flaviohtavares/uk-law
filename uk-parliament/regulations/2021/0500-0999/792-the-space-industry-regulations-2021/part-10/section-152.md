@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. A spaceport licensee’s safety duty[^key-b1e380b950bcb18dbbc009d90ed07f73]
+## 152. A spaceport licensee’s safety duty[^c-b1e380b950bcb18dbbc009d90ed07f73]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e380b950bcb18dbbc009d90ed07f73]: Commencement: Reg. 152 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-b1e380b950bcb18dbbc009d90ed07f73]: Commencement: Reg. 152 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

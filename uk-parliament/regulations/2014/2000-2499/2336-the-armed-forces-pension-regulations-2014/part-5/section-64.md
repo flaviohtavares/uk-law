@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Adjustment of allocated benefits for the Finance Act 2004 where member dies over 75[^key-835a28abab8ae03e51dd2a6aec9b5fb0]
+## 64. Adjustment of allocated benefits for the Finance Act 2004 where member dies over 75[^c-835a28abab8ae03e51dd2a6aec9b5fb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-835a28abab8ae03e51dd2a6aec9b5fb0]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2014/2336/regulation/64) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-835a28abab8ae03e51dd2a6aec9b5fb0]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2014/2336/regulation/64) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

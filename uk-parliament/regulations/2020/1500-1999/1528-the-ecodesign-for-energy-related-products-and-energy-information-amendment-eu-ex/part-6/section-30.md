@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Application of Commission Delegated Regulation (EU) 2019/2014[^key-c506ac77cb72278d7ab414ef4a62ae5f]
+## 30. Application of Commission Delegated Regulation (EU) 2019/2014[^c-c506ac77cb72278d7ab414ef4a62ae5f]
 
 *Extent: E+W+S*
 
-(1) The provisions of Commission Delegated Regulation (EU) 2019/2014 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of household washing machines and household washer-dryers and repealing Commission Delegated Regulation (EU) No 1061/2010 and Commission [Directive 96/60/EC](https://www.legislation.gov.uk/european/directive/1996/0060) specified in paragraphs (3) and (4) apply as if they were provisions of assimilated direct[^key-e0ee2f9550a1f02968eb5bcb36c58a07] legislation.
+(1) The provisions of Commission Delegated Regulation (EU) 2019/2014 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of household washing machines and household washer-dryers and repealing Commission Delegated Regulation (EU) No 1061/2010 and Commission [Directive 96/60/EC](https://www.legislation.gov.uk/european/directive/1996/0060) specified in paragraphs (3) and (4) apply as if they were provisions of assimilated direct[^c-e0ee2f9550a1f02968eb5bcb36c58a07] legislation.
 
 (2) For the purposes of paragraph (1), the provisions specified in paragraphs (3) and (4) apply—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c506ac77cb72278d7ab414ef4a62ae5f]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-c506ac77cb72278d7ab414ef4a62ae5f]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-e0ee2f9550a1f02968eb5bcb36c58a07]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/11/2/b)
+[^c-e0ee2f9550a1f02968eb5bcb36c58a07]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/11/2/b)

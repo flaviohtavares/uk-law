@@ -48,13 +48,13 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with section 233(2) of that Act he has taken reasonable steps to consult the persons mentioned in paragraphs (a) and (b) of that subsection and he is satisfied as mentioned in section 233(3) of that Act with the publication arrangements.
 
-## 1. Citation, commencement and application[^key-290c50936e30b0b8c4d2e9b17453e0f2]
+## 1. Citation, commencement and application[^c-290c50936e30b0b8c4d2e9b17453e0f2]
 
 (1) This Order may be cited as The Housing (Approval of Codes of Management Practice) (Student Accommodation) (England) Order 2006 and shall come into force on 6th April 2006.
 
 (2) This Order shall apply in relation to premises in England only.
 
-## 2. Approval of codes of practice[^key-ff7cbd59cc7df165bc109541afdeb2e7]
+## 2. Approval of codes of practice[^c-ff7cbd59cc7df165bc109541afdeb2e7]
 
 (1) The codes of practice mentioned in paragraph (2) which lay down standards of conduct and practice to be followed with regard to the management of—
 
@@ -91,9 +91,9 @@ No regulatory impact assessment has been prepared because this instrument has no
 
 [^f00001]: Footnote: [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by section 233 of the Housing Act 2004 (“the Act”) are exercisable, as respects England, by the Secretary of State and, as respects Wales, by the National Assembly for Wales. See the definition of the appropriate national authority in section s261(1).
 
-[^key-290c50936e30b0b8c4d2e9b17453e0f2]: Commencement: Art. 1 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/646/article/1/1)
+[^c-290c50936e30b0b8c4d2e9b17453e0f2]: Commencement: Art. 1 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/646/article/1/1)
 
-[^key-ff7cbd59cc7df165bc109541afdeb2e7]: Commencement: Art. 2 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/646/article/1/1)
+[^c-ff7cbd59cc7df165bc109541afdeb2e7]: Commencement: Art. 2 in force at 6.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/646/article/1/1)
 
 [^f00002]: Footnote: For the meaning of house in multiple occupation see sections 254 to 259 of the Act.
 

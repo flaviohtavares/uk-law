@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 504. Exemptions[^key-c5eb8865a367140727bf2f3ee54305e2]
+## 504. Exemptions[^c-c5eb8865a367140727bf2f3ee54305e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,7 +93,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c5eb8865a367140727bf2f3ee54305e2]: Commencement: Art. 504 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c5eb8865a367140727bf2f3ee54305e2]: Commencement: Art. 504 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00330]: Footnote: Paragraph (i) of sub-paragraph (2)(o) was amended by [S.I. 1999/734](https://www.legislation.gov.uk/uksi/1999/734), regulation 2(d).
 

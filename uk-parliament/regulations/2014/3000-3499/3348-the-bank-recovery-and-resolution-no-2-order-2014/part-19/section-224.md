@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Non-binding co-operation arrangements in line with EBA framework arrangements[^key-5930c38893dcff7a46df49e9bc1992d7]
+## 224. Non-binding co-operation arrangements in line with EBA framework arrangements[^c-5930c38893dcff7a46df49e9bc1992d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5930c38893dcff7a46df49e9bc1992d7]: Textual amendment: [Art. 224](https://www.legislation.gov.uk/uksi/2014/3348/article/224) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 114](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5930c38893dcff7a46df49e9bc1992d7]: Textual amendment: [Art. 224](https://www.legislation.gov.uk/uksi/2014/3348/article/224) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 114](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/114); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

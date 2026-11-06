@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Timing of council meetings[^key-c2e88fdd125479e31651c6b77e57a183]
+## 6. Timing of council meetings[^c-c2e88fdd125479e31651c6b77e57a183]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2e88fdd125479e31651c6b77e57a183]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2011/4/section/6) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/a)
+[^c-c2e88fdd125479e31651c6b77e57a183]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2011/4/section/6) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/a)

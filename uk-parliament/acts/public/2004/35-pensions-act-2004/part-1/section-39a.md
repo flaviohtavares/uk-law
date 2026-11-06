@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Section 38 contribution notice: transfer of members of the scheme[^key-8cc2fe9b28a0e4e769f614a3095a1efb]
+## 39A. Section 38 contribution notice: transfer of members of the scheme[^c-8cc2fe9b28a0e4e769f614a3095a1efb]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ the sum specified by the Regulator in the notice is determined in accordance wit
 
 ## Annotations
 
-[^key-8cc2fe9b28a0e4e769f614a3095a1efb]: Textual amendment: Ss. 39A, 39B inserted (with effect in accordance with Sch. 9 para. 15(3) of the amending Act) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/3), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2008/30/schedule/9/paragraph/9) (with [Sch. 9 para. 16(1)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/9/paragraph/16/1))
+[^c-8cc2fe9b28a0e4e769f614a3095a1efb]: Textual amendment: Ss. 39A, 39B inserted (with effect in accordance with Sch. 9 para. 15(3) of the amending Act) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/3), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2008/30/schedule/9/paragraph/9) (with [Sch. 9 para. 16(1)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/9/paragraph/16/1))

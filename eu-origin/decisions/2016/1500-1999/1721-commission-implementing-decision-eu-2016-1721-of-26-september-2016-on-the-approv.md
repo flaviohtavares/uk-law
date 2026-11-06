@@ -105,7 +105,7 @@ HAS ADOPTED THIS DECISION:
 
 3. The individual eco-innovation code to be entered into type-approval documentation to be used for the innovative technology approved through this Implementing Decision shall be ‘20’.
 
-**Article 2.**[^key-388229e63f0e5f0a286c2ae76510bc93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-388229e63f0e5f0a286c2ae76510bc93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 26 September 2016.
 
@@ -410,6 +410,6 @@ Where the total CO<sub>2</sub> emission savings of the package of the efficient 
 
 [^f00007]: Footnote: Directive 2007/46/EC of the European Parliament ad of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) ([OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG)).
 
-[^key-388229e63f0e5f0a286c2ae76510bc93]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2016/1721/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [24(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/24/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-388229e63f0e5f0a286c2ae76510bc93]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2016/1721/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [24(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/24/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: E/ECE/324/Rev.2/Add.111/Rev.3 — E/ECE/TRANS/505/Rev.2/Add.111/Rev.3, 9 January 2013

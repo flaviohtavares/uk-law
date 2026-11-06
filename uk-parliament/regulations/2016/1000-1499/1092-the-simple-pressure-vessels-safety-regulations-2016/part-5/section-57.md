@@ -24,7 +24,7 @@ When enforcing these Regulations or RAMS (in its application to vessels), the en
 
 - (a) regulation 58 (evaluation of vessels presenting a risk);
 - (b) regulation 59 (enforcement action in respect of vessels which are not in conformity);
-- (c)[^key-e96a63363398668740b6d08a6599b2c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e96a63363398668740b6d08a6599b2c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) regulation 61 (enforcement action in respect of vessels which are in conformity but which present a risk);
 - (e) regulation 62 (enforcement action in respect of formal non-compliance); and
 - (f) regulation 63 (restrictive measures).
@@ -46,6 +46,6 @@ When enforcing these Regulations or RAMS (in its application to vessels), the en
 
 [^M_E_8c34f85c-676a-494b-c75a-3626621851a9]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-e96a63363398668740b6d08a6599b2c6]: Textual amendment: [Reg. 57(c)](https://www.legislation.gov.uk/uksi/2016/1092/regulation/57/c) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 31](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/31) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e96a63363398668740b6d08a6599b2c6]: Textual amendment: [Reg. 57(c)](https://www.legislation.gov.uk/uksi/2016/1092/regulation/57/c) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 31](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/31) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_e9131d85-2715-47e7-8352-a369422d1438]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Triggering events and related amendments: unconnected multiple employer schemes[^key-e97c40f83b58228f129be827af85acbc]
+## 16. Triggering events and related amendments: unconnected multiple employer schemes[^c-e97c40f83b58228f129be827af85acbc]
 
 *Extent: N.I.*
 
@@ -57,6 +57,6 @@ In section 82 (triggering events)—
 
 ## Annotations
 
-[^key-e97c40f83b58228f129be827af85acbc]: Commencement: Reg. 16 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-e97c40f83b58228f129be827af85acbc]: Commencement: Reg. 16 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00009]: Footnote: “The triggering events table” is defined in section 82(4) of the Pension Schemes Act 2021 as the table in that section

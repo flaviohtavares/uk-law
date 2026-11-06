@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167ZZ. Entitlement: general[^key-604f3133e2a60f1eb77d1cdae586af7e]
+## 167ZZ. Entitlement: general[^c-604f3133e2a60f1eb77d1cdae586af7e]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulations may—
 
 - (a) provide that the following do not have effect, or have effect subject to prescribed modifications, in such cases as may be prescribed—
-  - (i) section 167ZU(2)(a) to (n)[^key-2b5343be858f57a284e387e30b50fa58],
-  - (ii) section 167ZU(4)(a) to (o)[^key-6c170b603a4e85111b88efc0b60d8aae],
+  - (i) section 167ZU(2)(a) to (n)[^c-2b5343be858f57a284e387e30b50fa58],
+  - (ii) section 167ZU(4)(a) to (o)[^c-6c170b603a4e85111b88efc0b60d8aae],
   - (iii) section 167ZV(10)(a) and (b),
   - (iv) section 167ZV(12)(a) to (c),
-  - (v) section 167ZW(2)(a) to (n)[^key-5ace33a840c00a464fc66a2b4e689c59],
-  - (vi) section 167ZW(4)(a) to (o)[^key-fbefec02b70b1824728bb7c1fa5c3777],
+  - (v) section 167ZW(2)(a) to (n)[^c-5ace33a840c00a464fc66a2b4e689c59],
+  - (vi) section 167ZW(4)(a) to (o)[^c-fbefec02b70b1824728bb7c1fa5c3777],
   - (vii) section 167ZX(9)(a) and (b), and
   - (viii) section 167ZX(11)(a) to (c),
 - (b) impose requirements about evidence of entitlement and procedures to be followed,
@@ -52,12 +52,12 @@ summary: ''
 
 ## Annotations
 
-[^key-604f3133e2a60f1eb77d1cdae586af7e]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZC) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/d)
+[^c-604f3133e2a60f1eb77d1cdae586af7e]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZC) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/d)
 
-[^key-2b5343be858f57a284e387e30b50fa58]: Textual amendment: Word in [s. 167ZZ(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZZ/1/a/i) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(3)(a)](https://www.legislation.gov.uk/nia/2016/15/section/25/3/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
+[^c-2b5343be858f57a284e387e30b50fa58]: Textual amendment: Word in [s. 167ZZ(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZZ/1/a/i) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(3)(a)](https://www.legislation.gov.uk/nia/2016/15/section/25/3/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
 
-[^key-6c170b603a4e85111b88efc0b60d8aae]: Textual amendment: Word in [s. 167ZZ(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZZ/1/a/ii) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(3)(b)](https://www.legislation.gov.uk/nia/2016/15/section/25/3/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
+[^c-6c170b603a4e85111b88efc0b60d8aae]: Textual amendment: Word in [s. 167ZZ(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZZ/1/a/ii) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(3)(b)](https://www.legislation.gov.uk/nia/2016/15/section/25/3/b), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
 
-[^key-5ace33a840c00a464fc66a2b4e689c59]: Textual amendment: Word in [s. 167ZZ(1)(a)(v)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZZ/1/a/v) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(3)(c)](https://www.legislation.gov.uk/nia/2016/15/section/25/3/c), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
+[^c-5ace33a840c00a464fc66a2b4e689c59]: Textual amendment: Word in [s. 167ZZ(1)(a)(v)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZZ/1/a/v) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(3)(c)](https://www.legislation.gov.uk/nia/2016/15/section/25/3/c), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
 
-[^key-fbefec02b70b1824728bb7c1fa5c3777]: Textual amendment: Word in [s. 167ZZ(1)(a)(vi)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZZ/1/a/vi) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(3)(d)](https://www.legislation.gov.uk/nia/2016/15/section/25/3/d), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)
+[^c-fbefec02b70b1824728bb7c1fa5c3777]: Textual amendment: Word in [s. 167ZZ(1)(a)(vi)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZZ/1/a/vi) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 25(3)(d)](https://www.legislation.gov.uk/nia/2016/15/section/25/3/d), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(j)](https://www.legislation.gov.uk/nisr/2020/1/article/2/j)

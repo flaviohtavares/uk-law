@@ -53,7 +53,7 @@ A draft of these Regulations has been laid before, and been approved by resoluti
 - [Section 2 — Revocation](part-1/section-2.md)
 - [Section 3 — Interpretation](part-1/section-3.md)
 
-### PART 2 — — Non-schools Education Budget, Schools Budget, Individual Schools Budget[^key-8508799638445bd5b495992b00fa0c58]
+### PART 2 — — Non-schools Education Budget, Schools Budget, Individual Schools Budget[^c-8508799638445bd5b495992b00fa0c58]
 
 *Extent: E+W*
 
@@ -144,4 +144,4 @@ Regulation 27 sets out how revised schemes are to be publicised and regulation 2
 
 [^f00004]: Footnote: In accordance with paragraph 34 of Schedule 11 to the Government of Wales Act 2006 and section 138(5) of the School Standards and Framework Act 1998 as amended by paragraph 8 of Schedule 16 to the Education Act 2005.
 
-[^key-8508799638445bd5b495992b00fa0c58]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/wsi/2010/824/part/2) heading substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/19/4)
+[^c-8508799638445bd5b495992b00fa0c58]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/wsi/2010/824/part/2) heading substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/19/4)

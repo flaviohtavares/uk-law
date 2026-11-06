@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-59ed015246d42bff014365533774172e] A planning authority may, if it appears to them that the requirements of subsection (1A) are met, make an order specifying any trees, groups of trees or woodlands in their district and providing for their preservation.
+(1)[^c-59ed015246d42bff014365533774172e] A planning authority may, if it appears to them that the requirements of subsection (1A) are met, make an order specifying any trees, groups of trees or woodlands in their district and providing for their preservation.
 
 (1A) Those requirements are (either or both)—
 
@@ -47,17 +47,17 @@ summary: ''
 
 - (a) it is urgently necessary in the interests of safety,
 - (b) it is necessary for the prevention or abatement of a nuisance, or
-- (ba)[^key-aa4f9d5999d06e118ec764091b7e97a0] it is authorised by an order granting development consent,
-- (c) it is in compliance with any obligation imposed by or under an Act of Parliament or an Act of the Scottish Parliament[^key-13bd7836c0fc0cfe1e3f91bfd62b7204],
+- (ba)[^c-aa4f9d5999d06e118ec764091b7e97a0] it is authorised by an order granting development consent,
+- (c) it is in compliance with any obligation imposed by or under an Act of Parliament or an Act of the Scottish Parliament[^c-13bd7836c0fc0cfe1e3f91bfd62b7204],
 
-so long as[^key-51a2f3bdf23a8ca848b4b1b766a588fc]... notice in writing of the proposed operations is given to the planning authority as soon as practicable after the operations become necessary.
+so long as[^c-51a2f3bdf23a8ca848b4b1b766a588fc]... notice in writing of the proposed operations is given to the planning authority as soon as practicable after the operations become necessary.
 
 (7) This section shall have effect subject to—
 
 - (a) section 39(2) of the [^c950168]Housing and Planning Act 1986 (saving for effect of section 2(4) of the [^c950169]Opencast Coal Act 1958 on land affected by a tree preservation order despite its repeal), and
-- (b)[^key-5a8c3eb7cb2993c8e700108c01a24510] section 33 of the Forestry and Land Management (Scotland) Act 2018 (felling of trees subject to tree preservation orders).
+- (b)[^c-5a8c3eb7cb2993c8e700108c01a24510] section 33 of the Forestry and Land Management (Scotland) Act 2018 (felling of trees subject to tree preservation orders).
 
-(8)[^key-e36ecbafcee10ebe65f245e5ec3658a3] In relation to an application for consent under a tree preservation order the Scottish Ministers may by regulations make provision as to—
+(8)[^c-e36ecbafcee10ebe65f245e5ec3658a3] In relation to an application for consent under a tree preservation order the Scottish Ministers may by regulations make provision as to—
 
 - (a) the form and manner in which the application must be made,
 - (b) particulars of such matters as are to be included in the application,
@@ -65,20 +65,20 @@ so long as[^key-51a2f3bdf23a8ca848b4b1b766a588fc]... notice in writing of the pr
 
 ## Annotations
 
-[^key-59ed015246d42bff014365533774172e]: Textual amendment: S. 160(1)(1A) substituted for s. 160(1) (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(2)(a)](https://www.legislation.gov.uk/asp/2006/17/section/28/2/a), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-59ed015246d42bff014365533774172e]: Textual amendment: S. 160(1)(1A) substituted for s. 160(1) (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(2)(a)](https://www.legislation.gov.uk/asp/2006/17/section/28/2/a), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
 
 [^c950167]: Marginal citation: [1997 c. 9](https://www.legislation.gov.uk/ukpga/1997/9).
 
-[^key-aa4f9d5999d06e118ec764091b7e97a0]: Textual amendment: S. 160(6)(ba) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/56) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-aa4f9d5999d06e118ec764091b7e97a0]: Textual amendment: S. 160(6)(ba) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/56) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-13bd7836c0fc0cfe1e3f91bfd62b7204]: Textual amendment: Words in s. 160(6)(c) added (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(9)](https://www.legislation.gov.uk/asp/2006/17/section/54/9), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-13bd7836c0fc0cfe1e3f91bfd62b7204]: Textual amendment: Words in s. 160(6)(c) added (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(9)](https://www.legislation.gov.uk/asp/2006/17/section/54/9), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-51a2f3bdf23a8ca848b4b1b766a588fc]: Textual amendment: Words in s. 160(6) repealed (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(2)(b)](https://www.legislation.gov.uk/asp/2006/17/section/28/2/b), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-51a2f3bdf23a8ca848b4b1b766a588fc]: Textual amendment: Words in s. 160(6) repealed (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(2)(b)](https://www.legislation.gov.uk/asp/2006/17/section/28/2/b), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
 
 [^c950168]: Marginal citation: [1986 c. 63](https://www.legislation.gov.uk/ukpga/1986/63).
 
 [^c950169]: Marginal citation: [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69).
 
-[^key-5a8c3eb7cb2993c8e700108c01a24510]: Textual amendment: [S. 160(7)(b)](https://www.legislation.gov.uk/ukpga/1997/8/section/160/7/b) substituted (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/1/paragraph/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-5a8c3eb7cb2993c8e700108c01a24510]: Textual amendment: [S. 160(7)(b)](https://www.legislation.gov.uk/ukpga/1997/8/section/160/7/b) substituted (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/1/paragraph/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-e36ecbafcee10ebe65f245e5ec3658a3]: Textual amendment: S. 160(8) inserted (26.11.2010) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(2)(c)](https://www.legislation.gov.uk/asp/2006/17/section/28/2/c), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/400/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2010/400/article/2/2/a)
+[^c-e36ecbafcee10ebe65f245e5ec3658a3]: Textual amendment: S. 160(8) inserted (26.11.2010) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(2)(c)](https://www.legislation.gov.uk/asp/2006/17/section/28/2/c), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/400/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2010/400/article/2/2/a)

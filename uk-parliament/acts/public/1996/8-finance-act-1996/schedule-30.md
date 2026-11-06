@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 30 — Investments in housing[^key-b213bbad5b6a0f8d9abd1921507713bc]
+## SCHEDULE 30 — Investments in housing[^c-b213bbad5b6a0f8d9abd1921507713bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Section 160.
 
-### Reduced rate of corporation tax[^key-b213bbad5b6a0f8d9abd1921507713bc]
+### Reduced rate of corporation tax[^c-b213bbad5b6a0f8d9abd1921507713bc]
 
-**1.**[^key-b213bbad5b6a0f8d9abd1921507713bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b213bbad5b6a0f8d9abd1921507713bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Investments in housing by investment trusts[^key-b213bbad5b6a0f8d9abd1921507713bc]
+### Investments in housing by investment trusts[^c-b213bbad5b6a0f8d9abd1921507713bc]
 
-**2.**[^key-b213bbad5b6a0f8d9abd1921507713bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b213bbad5b6a0f8d9abd1921507713bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Commencement[^key-b213bbad5b6a0f8d9abd1921507713bc]
+### Commencement[^c-b213bbad5b6a0f8d9abd1921507713bc]
 
-**3.**[^key-b213bbad5b6a0f8d9abd1921507713bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b213bbad5b6a0f8d9abd1921507713bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b213bbad5b6a0f8d9abd1921507713bc]: Textual amendment: [Sch. 30](https://www.legislation.gov.uk/ukpga/1996/8/schedule/30) repealed (with effect in accordance with s. 145(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 143](https://www.legislation.gov.uk/ukpga/2006/25/section/143), [Sch. 26 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/4)
+[^c-b213bbad5b6a0f8d9abd1921507713bc]: Textual amendment: [Sch. 30](https://www.legislation.gov.uk/ukpga/1996/8/schedule/30) repealed (with effect in accordance with s. 145(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 143](https://www.legislation.gov.uk/ukpga/2006/25/section/143), [Sch. 26 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/4)

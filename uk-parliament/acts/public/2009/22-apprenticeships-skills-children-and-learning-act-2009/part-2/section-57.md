@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Local authorities in England: provision of transport etc for adult learners[^key-8ad801dea2593f4f90ab9f54c540e37b][^key-062d27e760c356996de33ee6a2c9d7a4]
+## 57. Local authorities in England: provision of transport etc for adult learners[^c-8ad801dea2593f4f90ab9f54c540e37b][^c-062d27e760c356996de33ee6a2c9d7a4]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 > **508F. Local authorities in England: provision of transport etc for adult learners**
 >
-> (1) A local authority[^key-539a148a152b679b0b2f5402f58a05e0] in England must make such arrangements for the provision of transport and otherwise as they consider necessary, or as the Secretary of State may direct, for the purposes mentioned in subsections (2) and (3).
+> (1) A local authority[^c-539a148a152b679b0b2f5402f58a05e0] in England must make such arrangements for the provision of transport and otherwise as they consider necessary, or as the Secretary of State may direct, for the purposes mentioned in subsections (2) and (3).
 >
 > (2) The first purpose is to facilitate the attendance of adults receiving education at institutions—
 >
@@ -135,8 +135,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad801dea2593f4f90ab9f54c540e37b]: Commencement: S. 57 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 8-11](https://www.legislation.gov.uk/uksi/2010/303/article/8))
+[^c-8ad801dea2593f4f90ab9f54c540e37b]: Commencement: S. 57 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 8-11](https://www.legislation.gov.uk/uksi/2010/303/article/8))
 
-[^key-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
+[^c-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

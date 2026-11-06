@@ -45,11 +45,11 @@ Coming into operation on
 
 The Secretary of State, in pursuance of Articles 17(1), (2), 5(*b*), 49, 54(1) and (5) and 55(2), of and paragraphs 5, 14(1) and 15 of Schedule 3 to the Health and Safety at Work (Northern Ireland) Order 1978[^f00001] as applied and modified by Article 53 of that Order and after consulting in accordance with Article 46 of that Order as so applied and modified, the Health and Safety Executive for Northern Ireland and such other bodies as appear to him to be appropriate, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-0e077fd95158107ad0b81a3e72e2d070]
+## 1. Citation and commencement[^c-0e077fd95158107ad0b81a3e72e2d070]
 
 These Regulations may be cited as the Transport of Explosives (Safety Advisers) Regulations (Northern Ireland) 2000 and shall come into operation on 30th June 2000.
 
-## 2. Interpretation[^key-d08b140bad13d49374f50ec89353eb5f]
+## 2. Interpretation[^c-d08b140bad13d49374f50ec89353eb5f]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -108,13 +108,13 @@ and in this paragraph “motor vehicle” shall have the same meaning as in Arti
 
 of explosives.
 
-## 3. Application[^key-06106aa5b33b4f928606a1d6a867ca88]
+## 3. Application[^c-06106aa5b33b4f928606a1d6a867ca88]
 
 (1) These Regulations shall apply to a self-employed person as they apply to an employer.
 
 (2) Subject to the provisions of Schedule 1, these Regulations shall apply to and in relation to the transport of explosives by road, railway and inland waterway.
 
-## 4. Duty to appoint safety advisers[^key-ecdb077e0a46f8acfc96407c7befe256]
+## 4. Duty to appoint safety advisers[^c-ecdb077e0a46f8acfc96407c7befe256]
 
 (1) An employer shall not transport explosives by road, rail or inland waterway unless—
 
@@ -133,7 +133,7 @@ of explosives.
 
 (7) Where two or more persons are together carrying on business in partnership, it shall be sufficient compliance with paragraph (1) if one of them complies with it and each partner ensures that a safety adviser has been appointed by one of them.
 
-## 5. Functions and duties of safety advisers[^key-80085f3623528b6a17a854cd357a0744]
+## 5. Functions and duties of safety advisers[^c-80085f3623528b6a17a854cd357a0744]
 
 (1) Subject to regulation 7(10) a safety adviser shall, for the period of his appointment, have such functions as are necessary to enable him to achieve the purpose referred to in regulation 4(1), including those functions set out in Schedule 2, in connection with the transport of explosives by the employer who has appointed him.
 
@@ -141,11 +141,11 @@ of explosives.
 
 (3) The safety adviser shall provide a copy of the report referred to in paragraph (2) to the employer who has appointed him.
 
-## 6. Keeping of reports[^key-1b465ae6ae75f8bf6551fdda518c5170]
+## 6. Keeping of reports[^c-1b465ae6ae75f8bf6551fdda518c5170]
 
 The employer shall keep reports required by regulation 5(2) and by paragraph (*c*) of Schedule 2 for a minimum of 5 years.
 
-## 7. Vocational training certificates[^key-df369e900f5dd3bfea38ac7a6760690e]
+## 7. Vocational training certificates[^c-df369e900f5dd3bfea38ac7a6760690e]
 
 (1) An employer shall not appoint nor continue the appointment of a person as a safety adviser unless that person holds a valid certificate (in these Regulations referred to as a “vocational training certificate”) issued by the Secretary of State or by a person designated by the Secretary of State for the purpose of issuing vocational training certificates.
 
@@ -183,11 +183,11 @@ the validity of that certificate shall be extended by the Secretary of State for
 
 (9) Where the vocational training certificate held by a safety adviser in accordance with paragraph (1) indicates that it has been limited, in accordance with paragraph (8), to one or more of the specified modes of transport, the functions and duties of that safety adviser shall be limited to the modes of transport so specified.
 
-## 8. Mutual recognition of vocational training certificates[^key-85364247420828883592681e9206a039]
+## 8. Mutual recognition of vocational training certificates[^c-85364247420828883592681e9206a039]
 
 Any current certificate in the form set out in Schedule 3, which is held by a safety adviser and which was issued to him by a competent authority under national provisions giving effect to the Directive, shall be deemed to be a vocational training certificate issued in accordance with regulation 7 and, where that certificate indicates that it is limited to one or more modes of transport, it shall be so limited. In this regulation “competent authority” means the authority appointed or body designated, in a Member State or Great Britain, for the purposes of issuing vocational training certificates in accordance with Article 5 of the Directive.
 
-## 9. Information to be provided to the Secretary of State or vehicle examiners[^key-ab9af2b182e41b82914fa3a1c8765fd7]
+## 9. Information to be provided to the Secretary of State or vehicle examiners[^c-ab9af2b182e41b82914fa3a1c8765fd7]
 
 (1) Any employer, who is required by these Regulations to appoint a safety adviser, shall when requested to do so by the Secretary of State or by any vehicle examiner inform him of the name of that safety adviser.
 
@@ -197,7 +197,7 @@ Any current certificate in the form set out in Schedule 3, which is held by a sa
 
 (4) In this regulation, “vehicle examiner” means a person appointed under Article 74 of the Road Traffic (Northern Ireland) Order 1995[^f00010].
 
-## 10. Exemptions[^key-32e023675e12ef2c21ee5fed649fdced]
+## 10. Exemptions[^c-32e023675e12ef2c21ee5fed649fdced]
 
 (1) Subject to paragraph (2), the Secretary of State may, by a certificate in writing, exempt any person or class of persons from all or any of the requirements or prohibitions imposed by these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by the Secretary of State at any time by a further certificate in writing.
 
@@ -210,7 +210,7 @@ he is satisfied that neither the health and safety of persons who are likely to 
 
 (3) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing, exempt any person from all or any of the requirements or prohibitions imposed by these Regulations in so far as they relate to the transport of any explosives in or on any vehicle owned by or under the control of the armed forces and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by the said Secretary of State by a further certificate in writing.
 
-## 11. Amendment to the Carriage of Explosives by Road Regulations (Northern Ireland) 1997[^key-f3155434d01df3502d77a844967dbfaf]
+## 11. Amendment to the Carriage of Explosives by Road Regulations (Northern Ireland) 1997[^c-f3155434d01df3502d77a844967dbfaf]
 
 In paragraph 7 of Schedule 4 of the Carriage of Explosives by Road Regulations (Northern Ireland) 1997[^f00011], after the words “Carriage of Dangerous Goods by Road Regulations (Northern Ireland) 1997” insert “as amended by the Transport of Dangerous Goods (Safety Advisers) Regulations (Northern Ireland) 2000[^f00012]”.
 
@@ -226,7 +226,7 @@ Northern Ireland Office
 
 Regulation 3(2)
 
-**1.**[^key-4b3bb1987afb913eb4020f895a620857] These Regulations shall not apply to or in relation to the transport by road of explosives—
+**1.**[^c-4b3bb1987afb913eb4020f895a620857] These Regulations shall not apply to or in relation to the transport by road of explosives—
 
 - (a) in a vehicle which is being used to transfer the explosives between—
   - (i) private premises and another vehicle situated in the immediate vicinity of those premises, or
@@ -238,15 +238,15 @@ Regulation 3(2)
 
   to the nearest suitable, safe place, and in this sub-paragraph, “container” has the meaning assigned to it in regulation 2(1) of the CDGCPL Regulations;
 
-**2.**[^key-e20e8d0eb8ab7fbce485b3c02f4449ad] Regulation 4(1) shall not apply to or in relation to the transport in a vehicle by road or by railway of any explosives specified in paragraph 15 of Part II of Schedule 5 to the Carriage of Explosives by Road Regulations (Northern Ireland) 1997[^f00014].
+**2.**[^c-e20e8d0eb8ab7fbce485b3c02f4449ad] Regulation 4(1) shall not apply to or in relation to the transport in a vehicle by road or by railway of any explosives specified in paragraph 15 of Part II of Schedule 5 to the Carriage of Explosives by Road Regulations (Northern Ireland) 1997[^f00014].
 
-**3.**[^key-07f55d015c9b99edc9c64acdb92bb070] Regulation 4(1) shall not apply to an employer—
+**3.**[^c-07f55d015c9b99edc9c64acdb92bb070] Regulation 4(1) shall not apply to an employer—
 
 - (a) to whom explosives are consigned and whose only involvement in the transport of those explosives is in unloading them;
 - (b) whose main or secondary activity is not the transport of explosives; and
 - (c) who occasionally engages in the transport of explosives within the United Kingdom and that transport does not create a significant risk to the health and safety of persons and to the environment.
 
-## SCHEDULE 2 — Functions of safety advisers[^key-bb56ac2f3fcb4230feb8b7085a28d6d6]
+## SCHEDULE 2 — Functions of safety advisers[^c-bb56ac2f3fcb4230feb8b7085a28d6d6]
 
 Regulations 5(1), 6, 7(6) and 9(2)
 
@@ -269,7 +269,7 @@ The functions of safety advisers shall include in particular the following—
   - (xi) the implementation of verification procedures to ensure the presence on board the means of transport of the documents and safety equipment which must accompany transport and the compliance of such documents and equipment with health and safety regulations, and
   - (xii) the implementation of verification procedures to ensure compliance with legislation governing loading and unloading of explosives.
 
-## SCHEDULE 3 — Form of vocational training certificate[^key-3a31ce019dbc8f29d19cecbadfae895e]
+## SCHEDULE 3 — Form of vocational training certificate[^c-3a31ce019dbc8f29d19cecbadfae895e]
 
 Regulation 7(3)
 
@@ -281,15 +281,15 @@ EC CERTIFICATE OF TRAINING AS SAFETY ADVISER FOR THE TRANSPORT OF EXPLOSIVES
 
 Regulation 7(6)
 
-**1.**[^key-41b8683329d4ff8ccdfc1b6d8c3bd690] Any examination approved by the Secretary of State in accordance with regulation 7(2)(*b*) and 7(4) must cover at least the subjects set out in the following paragraphs of this Schedule (which reproduce the provisions set out in Annex II of the Directive).
+**1.**[^c-41b8683329d4ff8ccdfc1b6d8c3bd690] Any examination approved by the Secretary of State in accordance with regulation 7(2)(*b*) and 7(4) must cover at least the subjects set out in the following paragraphs of this Schedule (which reproduce the provisions set out in Annex II of the Directive).
 
-### 2. General preventive and safety measures[^key-cbadefac19408adc3c6d76e8aacd69b4]
+### 2. General preventive and safety measures[^c-cbadefac19408adc3c6d76e8aacd69b4]
 
 Knowledge of the different consequences of an accident involving explosives.
 
-**3.**[^key-a82277d22bab92a6e629e2cbaafb085a] Knowledge of the main causes of accidents.
+**3.**[^c-a82277d22bab92a6e629e2cbaafb085a] Knowledge of the main causes of accidents.
 
-### 4. Provisions relating to the mode of transport used[^key-cdd964e7d94e44edf8672eed3cdbfdfe]
+### 4. Provisions relating to the mode of transport used[^c-cdd964e7d94e44edf8672eed3cdbfdfe]
 
 Provisions under national law relating to the mode of transport used, Community standards, international conventions and agreements, with regard to the following in particular—
 
@@ -365,9 +365,9 @@ Provisions under national law relating to the mode of transport used, Community 
 
 [^f00001]: Footnote: S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039) was modified by the Health and Safety at Work Order (Application to Environmentally Hazardous Substances) Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 525](https://www.legislation.gov.uk/nisr/1996/525)) as amended by the Health and Safety at Work Order (Application to Environmentally Hazardous Substances) (Amendment) Regulations (Northern Ireland) 2000 ([S.R. 2000 N0. 86](https://www.legislation.gov.uk/nisr/2000/86))
 
-[^key-0e077fd95158107ad0b81a3e72e2d070]: Commencement: Reg. 1 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-0e077fd95158107ad0b81a3e72e2d070]: Commencement: Reg. 1 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-d08b140bad13d49374f50ec89353eb5f]: Commencement: Reg. 2 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-d08b140bad13d49374f50ec89353eb5f]: Commencement: Reg. 2 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
 [^f00002]: Footnote: O.J. No. L 145, 19.6.96, p. 10
 
@@ -385,48 +385,48 @@ Provisions under national law relating to the mode of transport used, Community 
 
 [^f00009]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5)
 
-[^key-06106aa5b33b4f928606a1d6a867ca88]: Commencement: Reg. 3 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-06106aa5b33b4f928606a1d6a867ca88]: Commencement: Reg. 3 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-ecdb077e0a46f8acfc96407c7befe256]: Commencement: Reg. 4 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-ecdb077e0a46f8acfc96407c7befe256]: Commencement: Reg. 4 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-80085f3623528b6a17a854cd357a0744]: Commencement: Reg. 5 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-80085f3623528b6a17a854cd357a0744]: Commencement: Reg. 5 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-1b465ae6ae75f8bf6551fdda518c5170]: Commencement: Reg. 6 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-1b465ae6ae75f8bf6551fdda518c5170]: Commencement: Reg. 6 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-df369e900f5dd3bfea38ac7a6760690e]: Commencement: Reg. 7 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-df369e900f5dd3bfea38ac7a6760690e]: Commencement: Reg. 7 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-85364247420828883592681e9206a039]: Commencement: Reg. 8 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-85364247420828883592681e9206a039]: Commencement: Reg. 8 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-ab9af2b182e41b82914fa3a1c8765fd7]: Commencement: Reg. 9 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-ab9af2b182e41b82914fa3a1c8765fd7]: Commencement: Reg. 9 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
 [^f00010]: Footnote: S.I. [1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
-[^key-32e023675e12ef2c21ee5fed649fdced]: Commencement: Reg. 10 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-32e023675e12ef2c21ee5fed649fdced]: Commencement: Reg. 10 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-f3155434d01df3502d77a844967dbfaf]: Commencement: Reg. 11 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-f3155434d01df3502d77a844967dbfaf]: Commencement: Reg. 11 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1997 No. 474](https://www.legislation.gov.uk/nisr/1997/474)
 
 [^f00012]: Footnote: [S.R. 2000 No. 119](https://www.legislation.gov.uk/nisr/2000/119)
 
-[^key-4b3bb1987afb913eb4020f895a620857]: Commencement: Sch. 1 para. 1 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-4b3bb1987afb913eb4020f895a620857]: Commencement: Sch. 1 para. 1 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
 [^f00013]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
 
-[^key-e20e8d0eb8ab7fbce485b3c02f4449ad]: Commencement: Sch. 1 para. 2 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-e20e8d0eb8ab7fbce485b3c02f4449ad]: Commencement: Sch. 1 para. 2 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
 [^f00014]: Footnote: [S.R. 1997 No. 474](https://www.legislation.gov.uk/nisr/1997/474)
 
-[^key-07f55d015c9b99edc9c64acdb92bb070]: Commencement: Sch. 1 para. 3 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-07f55d015c9b99edc9c64acdb92bb070]: Commencement: Sch. 1 para. 3 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-bb56ac2f3fcb4230feb8b7085a28d6d6]: Commencement: Sch. 2 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-bb56ac2f3fcb4230feb8b7085a28d6d6]: Commencement: Sch. 2 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-3a31ce019dbc8f29d19cecbadfae895e]: Commencement: Sch. 3 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-3a31ce019dbc8f29d19cecbadfae895e]: Commencement: Sch. 3 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-41b8683329d4ff8ccdfc1b6d8c3bd690]: Commencement: Sch. 4 para. 1 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-41b8683329d4ff8ccdfc1b6d8c3bd690]: Commencement: Sch. 4 para. 1 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-cbadefac19408adc3c6d76e8aacd69b4]: Commencement: Sch. 4 para. 2 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-cbadefac19408adc3c6d76e8aacd69b4]: Commencement: Sch. 4 para. 2 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-a82277d22bab92a6e629e2cbaafb085a]: Commencement: Sch. 4 para. 3 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-a82277d22bab92a6e629e2cbaafb085a]: Commencement: Sch. 4 para. 3 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
 
-[^key-cdd964e7d94e44edf8672eed3cdbfdfe]: Commencement: Sch. 4 para. 4 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)
+[^c-cdd964e7d94e44edf8672eed3cdbfdfe]: Commencement: Sch. 4 para. 4 in operation at 30.6.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/171/regulation/1)

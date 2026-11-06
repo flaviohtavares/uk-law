@@ -50,13 +50,13 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 ## Preliminary
 
-### 1. Citation, commencement and effect[^key-4dfe99a75973a39f6d54acfd14673f71]
+### 1. Citation, commencement and effect[^c-4dfe99a75973a39f6d54acfd14673f71]
 
 (1) These Regulations may be cited as the Real Estate Investment Trusts (Financial Statements of Group Real Estate Investment Trusts) Regulations 2006, and shall come into force on 1st January 2007.
 
 (2) These Regulations have effect in relation to accounting periods beginning on and after 1st January 2007.
 
-### 2. Interpretation[^key-68c8d6eb7765e636728ea20ec2f6dc2e]
+### 2. Interpretation[^c-68c8d6eb7765e636728ea20ec2f6dc2e]
 
 (1) In these Regulations—
 
@@ -83,7 +83,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 - “generally accepted accounting practice” has the meaning given by section 50 of the Finance Act 2004[^f00004];
 - “joint venture” and “venturer” have the same meaning as for accounting purposes.
 
-### 3. Significant influence and profits available for distribution to equity holders[^key-093c6a704c3483d126c42d92603bf0b6]
+### 3. Significant influence and profits available for distribution to equity holders[^c-093c6a704c3483d126c42d92603bf0b6]
 
 (1) For the purposes of these Regulations a member of a group has significant influence over another entity if—
 
@@ -101,7 +101,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 ## General
 
-### 4. Scope of these Regulations[^key-68d468ab5923a449600afb761e978461]
+### 4. Scope of these Regulations[^c-68d468ab5923a449600afb761e978461]
 
 (1) These Regulations apply in respect of a group to which Part 4 applies in relation to an accounting period of the principal company.
 
@@ -121,7 +121,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 ## Financial statements for G (property rental business) and G (residual)
 
-### 5. General[^key-0b39102e063e7984fc3e60be0ca23a99]
+### 5. General[^c-0b39102e063e7984fc3e60be0ca23a99]
 
 (1) In accordance with paragraph 31(3), a financial statement for G (property rental business) for an accounting period and a financial statement for G (residual) for an accounting period must specify—
 
@@ -154,7 +154,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 - (a) in the case of the financial statement for G (property rental business) for an accounting period, must include Financing Costs (external) (see regulation 6), and
 - (b) in the case of the financial statement for G (residual) for an accounting period, must include financing costs payable by a member of the group in respect of financing used in the business of G (residual).
 
-### 6. Financing Costs (external)[^key-74ef03752d3e6d781300e57884d4ca6d]
+### 6. Financing Costs (external)[^c-74ef03752d3e6d781300e57884d4ca6d]
 
 (1) In the case of the financial statement for G (property rental business) for an accounting period, the amount of Financing Costs (external) is determined as follows—
 
@@ -182,7 +182,7 @@ The amount of Financing Costs (external) is the percentage of the outside financ
   - (b) an entity which, under these Regulations, is treated as a member of the group for accounting purposes and for the purposes of the financial statements specified in regulation 4(2) (see regulations 9 to 11); and
 - “non-group entity” means an entity which is not a group entity.
 
-### 7. Treatment of certain exceptional items[^key-31118bfbb03864dc25da73564540afb3]
+### 7. Treatment of certain exceptional items[^c-31118bfbb03864dc25da73564540afb3]
 
 (1) This regulation applies to items which—
 
@@ -196,7 +196,7 @@ The amount of Financing Costs (external) is the percentage of the outside financ
 - (a) the amount of the income, expenses and profits accruing from any business, and
 - (b) the amount of the assets involved in any business.
 
-### 8. Beneficial interests in entities other than group companies[^key-8acf4c1eaa2b745746bcb5023c2cefa4]
+### 8. Beneficial interests in entities other than group companies[^c-8acf4c1eaa2b745746bcb5023c2cefa4]
 
 (1) This regulation applies if—
 
@@ -219,7 +219,7 @@ The amount of Financing Costs (external) is the percentage of the outside financ
 - (b) an open-ended investment company (see regulation 10), and
 - (c) certain other non-corporate entities (see regulation 11).
 
-### 9. Joint ventures[^key-19dcfbce62cca3e503012e3f6ccfc90e]
+### 9. Joint ventures[^c-19dcfbce62cca3e503012e3f6ccfc90e]
 
 (1) This regulation applies if—
 
@@ -229,13 +229,13 @@ The amount of Financing Costs (external) is the percentage of the outside financ
 
 (2) For the purposes of the financial statements specified in regulation 4(2), the joint venture must be treated, for accounting purposes, as a member of the group.
 
-### 10. Open-ended investment companies[^key-3bf544491fd03552813f72df44b05100]
+### 10. Open-ended investment companies[^c-3bf544491fd03552813f72df44b05100]
 
 (1) This regulation applies if a member of a group has significant influence over an open-ended investment company.
 
 (2) For the purposes of the financial statements specified in regulation 4(2), the open-ended investment company must be treated, for accounting purposes, as a member of the group.
 
-### 11. Other non-corporate entities[^key-5c0be7abaeb2425aa661c0021a518f24]
+### 11. Other non-corporate entities[^c-5c0be7abaeb2425aa661c0021a518f24]
 
 (1) This regulation applies if a member of a group has significant influence over a non-corporate entity.
 
@@ -243,7 +243,7 @@ The amount of Financing Costs (external) is the percentage of the outside financ
 
 ## Financial statements for G (property rental business) in respect of its UK business
 
-### 12. Contents of the financial statement[^key-4a42c268cbf6da5e965515911ad5c73a]
+### 12. Contents of the financial statement[^c-4a42c268cbf6da5e965515911ad5c73a]
 
 (1) In accordance with paragraph 31(4), a financial statement for G (property rental business) in respect of its UK business must specify profits calculated in accordance with section 120 in relation to each member of the group.
 
@@ -256,7 +256,7 @@ The amount of Financing Costs (external) is the percentage of the outside financ
 
 ## Further provisions
 
-### 13. Time by which financial statements must be supplied[^key-1e11b4482f63a0c9268d4a9c8ca08926]
+### 13. Time by which financial statements must be supplied[^c-1e11b4482f63a0c9268d4a9c8ca08926]
 
 (1) The financial statements specified in regulation 4(2) must be supplied with the company tax return for the relevant accounting period.
 
@@ -294,9 +294,9 @@ A regulatory impact assessment for the introduction of the UK-REIT regime was pu
 
 [^f00001]: Footnote: [2006 c. 25](https://www.legislation.gov.uk/ukpga/2006/25).
 
-[^key-4dfe99a75973a39f6d54acfd14673f71]: Commencement: Reg. 1 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-4dfe99a75973a39f6d54acfd14673f71]: Commencement: Reg. 1 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-68c8d6eb7765e636728ea20ec2f6dc2e]: Commencement: Reg. 2 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-68c8d6eb7765e636728ea20ec2f6dc2e]: Commencement: Reg. 2 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2006/2866](https://www.legislation.gov.uk/uksi/2006/2866).
 
@@ -304,26 +304,26 @@ A regulatory impact assessment for the introduction of the UK-REIT regime was pu
 
 [^f00004]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 50 was amended by paragraphs 49 and 50 of Schedule 4 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7).
 
-[^key-093c6a704c3483d126c42d92603bf0b6]: Commencement: Reg. 3 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-093c6a704c3483d126c42d92603bf0b6]: Commencement: Reg. 3 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-68d468ab5923a449600afb761e978461]: Commencement: Reg. 4 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-68d468ab5923a449600afb761e978461]: Commencement: Reg. 4 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-0b39102e063e7984fc3e60be0ca23a99]: Commencement: Reg. 5 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-0b39102e063e7984fc3e60be0ca23a99]: Commencement: Reg. 5 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-74ef03752d3e6d781300e57884d4ca6d]: Commencement: Reg. 6 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-74ef03752d3e6d781300e57884d4ca6d]: Commencement: Reg. 6 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-31118bfbb03864dc25da73564540afb3]: Commencement: Reg. 7 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-31118bfbb03864dc25da73564540afb3]: Commencement: Reg. 7 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-8acf4c1eaa2b745746bcb5023c2cefa4]: Commencement: Reg. 8 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-8acf4c1eaa2b745746bcb5023c2cefa4]: Commencement: Reg. 8 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-19dcfbce62cca3e503012e3f6ccfc90e]: Commencement: Reg. 9 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-19dcfbce62cca3e503012e3f6ccfc90e]: Commencement: Reg. 9 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-3bf544491fd03552813f72df44b05100]: Commencement: Reg. 10 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-3bf544491fd03552813f72df44b05100]: Commencement: Reg. 10 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-5c0be7abaeb2425aa661c0021a518f24]: Commencement: Reg. 11 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-5c0be7abaeb2425aa661c0021a518f24]: Commencement: Reg. 11 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-4a42c268cbf6da5e965515911ad5c73a]: Commencement: Reg. 12 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-4a42c268cbf6da5e965515911ad5c73a]: Commencement: Reg. 12 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
-[^key-1e11b4482f63a0c9268d4a9c8ca08926]: Commencement: Reg. 13 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
+[^c-1e11b4482f63a0c9268d4a9c8ca08926]: Commencement: Reg. 13 in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2865/regulation/1/1)
 
 [^f00005]: Footnote: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36); sub-paragraph (2) of paragraph 14 was amended by Part 3(16) of Schedule 40 to the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23).

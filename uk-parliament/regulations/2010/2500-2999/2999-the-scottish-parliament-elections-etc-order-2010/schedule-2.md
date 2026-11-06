@@ -382,7 +382,7 @@ Return of members and record of returns etc.
 
 ### PART 1 — PROVISIONS AS TO TIME
 
-#### 1. Timetable[^key-afd0626fd7d7adb4ad1abbd0b8318aa2]
+#### 1. Timetable[^c-afd0626fd7d7adb4ad1abbd0b8318aa2]
 
 (1) The proceedings at a Scottish parliamentary election shall be conducted in accordance with the following Table—
 
@@ -411,7 +411,7 @@ Return of members and record of returns etc.
 
 (2) In the Table in paragraph (1) the reference to “nomination papers” includes constituency nomination papers, individual nomination papers and regional lists.
 
-#### 2. Computation of time[^key-e163782ff9f0fdf9f9b7f939fdedf549]
+#### 2. Computation of time[^c-e163782ff9f0fdf9f9b7f939fdedf549]
 
 In computing any period of time for the purposes of the Table in rule 1(1)—
 
@@ -426,7 +426,7 @@ shall be disregarded, and any such day shall not be treated as a day for the pur
 
 #### Notice of election
 
-##### 3. Notice of election[^key-711ff7db18a60928a6dd8cdfad498201]
+##### 3. Notice of election[^c-711ff7db18a60928a6dd8cdfad498201]
 
 (1) The CRO shall publish notice of the election stating—
 
@@ -451,7 +451,7 @@ must reach the ERO in order that they may be effective for the election.
 
 #### Nomination
 
-##### 4. Nomination of candidate for return as a constituency member[^key-b0edb124459d701f46e371f6d36dae67]
+##### 4. Nomination of candidate for return as a constituency member[^c-b0edb124459d701f46e371f6d36dae67]
 
 (1) Each candidate for return as a constituency member shall be nominated by a separate nomination paper (referred to in these Rules as a “constituency nomination paper”), in the form F set out in the Appendix, delivered to the CRO at the place fixed under rule 11 for this purpose.
 
@@ -488,7 +488,7 @@ the nomination paper may state the commonly used surname or forename in addition
 
 (10) The constituency nomination paper shall also state the name and address of the witness to the candidate’s signature.
 
-##### 5. Nomination of individual candidate for return as a regional member[^key-7ed553e1759d57a69fc11b14e619ad71]
+##### 5. Nomination of individual candidate for return as a regional member[^c-7ed553e1759d57a69fc11b14e619ad71]
 
 (1) Each individual candidate for return as a regional member shall be nominated by a separate nomination paper (referred to in these Rules as an “individual nomination paper”), in the form G set out in the Appendix, delivered to the RRO at the place or a place fixed under rule 12 for this purpose.
 
@@ -511,7 +511,7 @@ the nomination paper may state the commonly used surname or forename in addition
 
 (5) The individual nomination paper shall also state the name and address of the witness to the candidate’s signature.
 
-##### 6. Nomination of candidates on a regional list[^key-3add8744bc3e9e28540e08da802928b9]
+##### 6. Nomination of candidates on a regional list[^c-3add8744bc3e9e28540e08da802928b9]
 
 (1) A registered party’s regional list of candidates to be regional members for a particular region shall be in the form H set out in the Appendix and that party shall be nominated by the submission of that list by the party’s nominating officer or a person authorised in writing by that officer to the RRO at the place or a place fixed under rule 12 for this purpose.
 
@@ -534,7 +534,7 @@ the nomination paper may state the commonly used surname or forename in addition
 
 (9) For the purposes of paragraph (8)(a), any day falling within rule 2 shall be disregarded.
 
-##### 7. Constituency nomination papers: name of registered party[^key-c25062de9bdefef3eef079c33cab72b3]
+##### 7. Constituency nomination papers: name of registered party[^c-c25062de9bdefef3eef079c33cab72b3]
 
 (1) A constituency nomination paper may not include a description of a candidate which is likely to lead electors to associate the candidate with a registered party or parties unless the party (or each party) is a qualifying party in relation to the constituency and the description is authorised by a certificate in the form I2 set out in the Appendix—
 
@@ -543,7 +543,7 @@ the nomination paper may state the commonly used surname or forename in addition
 
 (2) A person shall be guilty of a corrupt practice if the person fraudulently purports to be authorised to issue a certificate under paragraph (1) on behalf of a registered party’s nominating officer.
 
-##### 8. Nomination papers and regional lists: miscellaneous[^key-1d2f5ef8aaf6570be3398aa62c2f7fdb]
+##### 8. Nomination papers and regional lists: miscellaneous[^c-1d2f5ef8aaf6570be3398aa62c2f7fdb]
 
 (1) The CRO—
 
@@ -561,7 +561,7 @@ but it is not necessary for a nomination to be on a form supplied by the RRO.
 
 (3) The RRO shall, on request, supply any person with a form of regional list; but it is not necessary for a regional list to be submitted in the form supplied by the RRO.
 
-##### 9. Consent to nomination[^key-6d167d37358f395930c595621a5329f2]
+##### 9. Consent to nomination[^c-6d167d37358f395930c595621a5329f2]
 
 (1) Subject to paragraph (3) a person shall not be validly nominated as a candidate for return as a constituency member unless that person’s consent to nomination—
 
@@ -587,7 +587,7 @@ but it is not necessary for a nomination to be on a form supplied by the RRO.
   - (iv) in the case of a candidate on a registered party’s regional list, that Q is aware of the provisions of section 5(7) of the 1998 Act and that, to the best of Q’s knowledge and belief, Q may be included in that list;
   - (v) in the case of an individual candidate for return as a regional member, that Q is aware of the terms of section 5(8) of the 1998 Act and, to the best of Q’s knowledge and belief, Q may stand as an individual candidate to be a regional member for that region.
 
-##### 10. Deposit[^key-12d6b362a284c307488b84849e22db0b]
+##### 10. Deposit[^c-12d6b362a284c307488b84849e22db0b]
 
 (1) A person shall not be validly nominated as a candidate for return as a constituency member unless the sum of £500 is deposited by, or on behalf of, that person with the CRO at the place and during the time for delivery of nomination papers.
 
@@ -607,7 +607,7 @@ but the appropriate returning officer may refuse to accept a deposit sought to b
 
 (6) Where the deposit is made on behalf of a party’s nominating officer the person making the deposit shall at the time of making it give that person’s name and address to the RRO unless that information has previously been given to that officer under article 32 or rule 6.
 
-##### 11. Place for delivery of constituency nomination papers[^key-ed736f452048713dd5d80124e35548c9]
+##### 11. Place for delivery of constituency nomination papers[^c-ed736f452048713dd5d80124e35548c9]
 
 (1) The CRO shall fix the place at which constituency nomination papers (together with home address forms) are to be delivered to the CRO, and shall attend there during the time for their delivery and for making of objections to them.
 
@@ -617,13 +617,13 @@ but the appropriate returning officer may refuse to accept a deposit sought to b
 - (b) the local government area or (if more than one) any of the local government areas in which the constituency is situated; or
 - (c) any local government area adjoining the local government area or areas (as the case may be) in which the constituency is situated.
 
-##### 12. Place for delivery of individual nomination papers and regional lists[^key-43bc73724f058bfb0f1489c548500fa2]
+##### 12. Place for delivery of individual nomination papers and regional lists[^c-43bc73724f058bfb0f1489c548500fa2]
 
 (1) The RRO shall fix the place or places at which individual nomination papers and regional lists are to be delivered to the RRO, and the RRO shall attend there during the time for their delivery and for making objections to them.
 
 (2) The place or places shall be in the region.
 
-##### 13. Right to attend nomination[^key-8eca8b390f4fb9f3d848e66d5af3d365]
+##### 13. Right to attend nomination[^c-8eca8b390f4fb9f3d848e66d5af3d365]
 
 (1) Except for the purpose of delivering a constituency nomination paper or of assisting the CRO no person is entitled to attend the proceedings during the time for delivery of constituency nomination papers or for making objections to them unless that person is—
 
@@ -654,7 +654,7 @@ but where an individual candidate acts as the candidate’s own election agent, 
 
 (7) One other person chosen by the candidate is entitled to be present at the delivery of the candidate’s nomination under paragraph (1) or (4), and may afterwards, so long as the candidate stands nominated, attend the proceedings referred to in paragraph (1) or (4) as the case may be, but without any such right as is conferred by paragraph (2) or (5).
 
-##### 14. Decisions as to validity of constituency nomination papers[^key-93cd539150b2afb114ed34152b305c96]
+##### 14. Decisions as to validity of constituency nomination papers[^c-93cd539150b2afb114ed34152b305c96]
 
 (1) Where a constituency nomination paper and the candidate’s consent to it are delivered and a deposit is made in accordance with these Rules, the candidate shall be deemed to stand nominated unless and until—
 
@@ -684,7 +684,7 @@ but where an individual candidate acts as the candidate’s own election agent, 
 
 (7) Subject to paragraph (6), nothing in this rule prevents the validity of a nomination being questioned on an election petition.
 
-##### 15. Decisions as to validity of individual nomination papers[^key-f38ed03a88b54aa7abb90435f46069f9]
+##### 15. Decisions as to validity of individual nomination papers[^c-f38ed03a88b54aa7abb90435f46069f9]
 
 (1) Where an individual nomination paper and the candidate’s consent to it are delivered and a deposit is made in accordance with these Rules, the candidate shall be deemed to stand nominated unless and until—
 
@@ -709,7 +709,7 @@ but where an individual candidate acts as the candidate’s own election agent, 
 
 (6) Subject to paragraph (5), nothing in this rule prevents the validity of a nomination being questioned on an election petition.
 
-##### 16. Decisions as to validity of regional lists and as to the validity of nominations included on such a list[^key-a8b8729d8629414b5ad600c16ffc53ca]
+##### 16. Decisions as to validity of regional lists and as to the validity of nominations included on such a list[^c-a8b8729d8629414b5ad600c16ffc53ca]
 
 (1) Where a registered party’s regional list and the consent of each candidate included in that list are delivered and a deposit is made in accordance with these Rules, the party and (subject to paragraphs (3) and (4)) each candidate on its list shall be deemed to stand nominated unless and until the RRO decides that the regional list is invalid.
 
@@ -755,7 +755,7 @@ shall not be questioned in any proceeding whatsoever.
 
 (8) Subject to paragraph (7), nothing in this rule prevents the validity of a nomination being questioned on an election petition.
 
-##### 17. Withdrawal of candidates[^key-1dbb9a67271d899ecfacecf205e4be2c]
+##### 17. Withdrawal of candidates[^c-1dbb9a67271d899ecfacecf205e4be2c]
 
 (1) A candidate for return as a constituency member may withdraw that candidate’s candidature by notice of withdrawal—
 
@@ -774,7 +774,7 @@ shall not be questioned in any proceeding whatsoever.
 
 (4) Where a candidate in a regional list has been withdrawn in accordance with this rule the RRO shall delete the name and address of that candidate from the list.
 
-##### 18. Publication of statement of persons nominated as candidates for return as a constituency member[^key-c3b5cb458b31f14b1f0a8c9642a3a7be]
+##### 18. Publication of statement of persons nominated as candidates for return as a constituency member[^c-c3b5cb458b31f14b1f0a8c9642a3a7be]
 
 (1) The CRO shall prepare and publish a statement showing—
 
@@ -801,7 +801,7 @@ shall not be questioned in any proceeding whatsoever.
 - (a) a copy of the statement; and
 - (b) in the case of each candidate standing nominated in respect of whom a certificate has been received by the returning officer in accordance with rule 7, a copy of that certificate.
 
-##### 19. Publication of statement of persons and parties nominated for return as regional members[^key-29bfede53a1bd49489b9049a9b0149a8]
+##### 19. Publication of statement of persons and parties nominated for return as regional members[^c-29bfede53a1bd49489b9049a9b0149a8]
 
 (1) The RRO shall prepare and publish a statement showing—
 
@@ -830,7 +830,7 @@ shall not be questioned in any proceeding whatsoever.
 
 (10) The RRO shall send a copy of the statement to the Electoral Commission.
 
-##### 20. Correction of minor errors[^key-2a0d751ebddee6fb2758dfc8e3f8b164]
+##### 20. Correction of minor errors[^c-2a0d751ebddee6fb2758dfc8e3f8b164]
 
 (1) A CRO may, if the CRO thinks fit, at any time before the publication under rule 18 of the statement of persons nominated as candidates for return as a constituency member, correct minor errors in the nomination paper.
 
@@ -845,19 +845,19 @@ shall not be questioned in any proceeding whatsoever.
 
 (5) A CRO or RRO shall have regard to any guidance issued by the Electoral Commission for the purposes of this rule.
 
-##### 21. Disqualification by Representation of the People Act 1981: candidates for return as constituency members[^key-fa68651e3347337598616cde722d9a2c]
+##### 21. Disqualification by Representation of the People Act 1981: candidates for return as constituency members[^c-fa68651e3347337598616cde722d9a2c]
 
 (1) If it appears to the CRO that any of the persons nominated as candidates for return as a constituency member might be disqualified by virtue of the Representation of the People Act 1981 (disqualification of certain offenders for membership of the House of Commons), the CRO shall, as soon as practicable after the expiry of the time allowed for the delivery of constituency nomination papers, prepare and publish a draft of the statement required by rule 18.
 
 (2) The draft shall be headed “Draft statement of persons nominated for return as a constituency member” and shall contain a notice stating that any person who wishes to object to the nomination of any candidate on the ground that the candidate is disqualified for nomination under the Representation of the People Act 1981 may do so between the hours of 10 am and 4 pm on the day and at the place specified in the notice; and the day so specified shall be the day after the last day for the delivery of constituency nomination papers.
 
-##### 22. Disqualification by Representation of the People Act 1981: candidates for return as regional members[^key-f393d5c904570d06e20c62ec279378cd]
+##### 22. Disqualification by Representation of the People Act 1981: candidates for return as regional members[^c-f393d5c904570d06e20c62ec279378cd]
 
 (1) If it appears to the RRO that any of the persons nominated as candidates for return as a regional member might be disqualified by the Representation of the People Act 1981 the RRO shall, as soon as practicable after the expiry of the time allowed for the delivery of individual nomination papers and regional lists, prepare and publish a draft of the statement required by rule 19.
 
 (2) The draft shall be headed “Draft statement of persons nominated for return as regional members” and shall contain a notice stating that any person who wishes to object to the nomination of any candidate on the ground that the candidate is disqualified for nomination under the Representation of the People Act 1981 may do so between the hours of 10 am and 4 pm on the day and at the place specified in the notice; and the day so specified shall be the day after the last day for the delivery of individual nomination papers and regional lists.
 
-##### 23. Adjournment of nomination proceedings in the case of riot[^key-f46cae30f61366d2cf75e986d057367a]
+##### 23. Adjournment of nomination proceedings in the case of riot[^c-f46cae30f61366d2cf75e986d057367a]
 
 (1) Where the proceedings for, or in connection with, nomination are on any day interrupted or obstructed by riot or open violence—
 
@@ -873,13 +873,13 @@ the proceedings shall be continued on the next day as if that were the last day 
 - (a) may be done after they are continued if the time for doing it had passed at the time of the abandonment;
 - (b) done before the abandonment shall be invalidated by reason of the abandonment.
 
-##### 24. Method of election: candidates for return as constituency members[^key-142c975c880ae769225f1363a6539004]
+##### 24. Method of election: candidates for return as constituency members[^c-142c975c880ae769225f1363a6539004]
 
 (1) If the statement required by rule 18 shows more than one person standing nominated, a poll shall be taken in accordance with Part 3 of these Rules (contested elections).
 
 (2) If that statement shows only one person standing nominated, that person shall be declared to be elected in accordance with Part 4 of these Rules (final proceedings in contested and uncontested elections).
 
-##### 25. Method of election: candidates for return as regional members[^key-2df745a071fa4aab00a9c11e1831c13c]
+##### 25. Method of election: candidates for return as regional members[^c-2df745a071fa4aab00a9c11e1831c13c]
 
 (1) Subject to paragraph (2)(b), if the statement of persons required by rule 19 shows more candidates (whether on a registered party’s regional list or individual candidates) than the number of seats for that region a poll shall be taken in accordance with Part 3 of these Rules.
 
@@ -894,13 +894,13 @@ the RRO shall, following receipt of the notification under rule 62(3) (declarati
 
 #### General Provisions
 
-##### 26. Poll to be taken by ballot[^key-ff24bd3072b32744777cf89bc5f2b83d]
+##### 26. Poll to be taken by ballot[^c-ff24bd3072b32744777cf89bc5f2b83d]
 
 (1) The votes at the poll for the return of a constituency member shall be given by ballot and the result shall be ascertained by counting the votes given to each candidate, and the candidate to whom the majority of votes has been given shall be declared to have been elected.
 
 (2) The regional votes at a poll for the return of regional members shall be given by ballot, and the regional figure for each individual candidate and each registered party shall be ascertained by counting the regional votes given to each individual candidate and each registered party.
 
-##### 27. The ballot paper: constituency candidates[^key-804cf53cba5626acab1b28661900ff09]
+##### 27. The ballot paper: constituency candidates[^c-804cf53cba5626acab1b28661900ff09]
 
 (1) The ballot of every voter at a poll for the return of a constituency member shall consist of a ballot paper (referred to in these Rules as a “constituency ballot paper”).
 
@@ -923,7 +923,7 @@ the RRO shall, following receipt of the notification under rule 62(3) (declarati
 - (a) be made in writing to the CRO; and
 - (b) be received by the CRO during the period for delivery of nomination papers set out in the Table in rule 1(1).
 
-##### 28. The ballot paper: regional candidates[^key-0f78234f426f32379427b7ab65a36cf9]
+##### 28. The ballot paper: regional candidates[^c-0f78234f426f32379427b7ab65a36cf9]
 
 (1) The ballot of every voter at a poll for the return of regional members shall consist of a ballot paper (referred to in these Rules as a “regional ballot paper”).
 
@@ -946,13 +946,13 @@ and no others, shall be entitled to have their names and descriptions inserted i
 
 (6) The regional ballot paper shall be a different colour from the constituency ballot paper.
 
-##### 29. Corresponding number list[^key-ad73cb669bf9f681759621555078dd17]
+##### 29. Corresponding number list[^c-ad73cb669bf9f681759621555078dd17]
 
 (1) The CRO must prepare a list containing the numbers and other unique identifying marks of all of the ballot papers to be issued by the CRO in pursuance of rule 34(1) or provided by the CRO in pursuance of rule 38(1).
 
-(2)[^key-fedb00c33e7789ef155c874f51d5deff] The list shall be in the form Z set out in the Appendix.
+(2)[^c-fedb00c33e7789ef155c874f51d5deff] The list shall be in the form Z set out in the Appendix.
 
-##### 30. The official mark[^key-62f6794359186a48c276ba7e9f95540d]
+##### 30. The official mark[^c-62f6794359186a48c276ba7e9f95540d]
 
 (1) Every ballot paper shall bear an appropriate security marking (the official mark).
 
@@ -960,11 +960,11 @@ and no others, shall be entitled to have their names and descriptions inserted i
 
 (3) The CRO shall determine the official mark or marks to be used for ballot papers at an election and may use a different official mark for different purposes at the same election.
 
-##### 31. Prohibition of disclosure of vote[^key-ea032612423dd18c48252a4ac3a04681]
+##### 31. Prohibition of disclosure of vote[^c-ea032612423dd18c48252a4ac3a04681]
 
 No person who has voted at a Scottish parliamentary election shall, in any legal proceeding to question the election or return, be required to state the candidate for whom, or the registered party for which, that person voted.
 
-##### 32. Use of schools and public rooms[^key-8a837d04e763cf9aa03532505aa7da43]
+##### 32. Use of schools and public rooms[^c-8a837d04e763cf9aa03532505aa7da43]
 
 (1) At a Scottish parliamentary election the CRO may use, free of charge, for the purpose of taking the poll or counting the votes—
 
@@ -979,7 +979,7 @@ No person who has voted at a Scottish parliamentary election shall, in any legal
 
 #### Action to be taken before the poll
 
-##### 33. Notice of poll[^key-91ff8ec89062905c23edee771b46a7f5]
+##### 33. Notice of poll[^c-91ff8ec89062905c23edee771b46a7f5]
 
 (1) The statement of persons nominated as candidates for return as a constituency member required by rule 18 and the statement of persons and parties nominated for return as regional members required by rule 19 shall each include a notice of the poll, stating the day on which and the hours during which the poll will be taken and, in the case of a Scottish parliamentary general election, each such notice may contain such further information about that election as the returning officer who publishes that notice thinks fit.
 
@@ -990,9 +990,9 @@ No person who has voted at a Scottish parliamentary election shall, in any legal
 
 and the CRO shall as soon as practicable after giving such notice give a copy of it to each of the election agents.
 
-##### 34. Postal ballot papers[^key-fd67ac9643cadfe10a1362246bf577e8]
+##### 34. Postal ballot papers[^c-fd67ac9643cadfe10a1362246bf577e8]
 
-(1)[^key-596f2688b4b8f317c5e8adba61f0cbdf] Subject to paragraph (2) and to paragraph 7 of Schedule 4 (time when postal ballot papers are to be issued), the CRO shall as soon as practicable send to those entitled to vote by post a ballot paper and a postal voting statement in the appropriate form as specified in paragraph 3 of Schedule 4 together with an envelope for their return.
+(1)[^c-596f2688b4b8f317c5e8adba61f0cbdf] Subject to paragraph (2) and to paragraph 7 of Schedule 4 (time when postal ballot papers are to be issued), the CRO shall as soon as practicable send to those entitled to vote by post a ballot paper and a postal voting statement in the appropriate form as specified in paragraph 3 of Schedule 4 together with an envelope for their return.
 
 (2) In the case of a person who is entitled to a postal constituency vote and a postal regional vote, the reference in paragraph (1) to “a ballot paper” shall be construed as a reference to a constituency ballot paper and a regional ballot paper.
 
@@ -1007,7 +1007,7 @@ and the CRO shall as soon as practicable after giving such notice give a copy of
 
 (5) In the case of a ballot paper issued to a person resident in the United Kingdom, the CRO must ensure that the return of the ballot paper and postal voting statement is free of charge to the voter.
 
-##### 35. Provision of polling stations[^key-0c13567ff64079eb7d18c4c0dc8b4252]
+##### 35. Provision of polling stations[^c-0c13567ff64079eb7d18c4c0dc8b4252]
 
 (1) The CRO shall provide a sufficient number of polling stations and, subject to the following provisions of this rule, shall allot the electors to the polling stations in such manner as the CRO thinks most convenient.
 
@@ -1017,7 +1017,7 @@ and the CRO shall as soon as practicable after giving such notice give a copy of
 
 (4) The CRO shall provide each polling station with such number of compartments as may be necessary in which the voters can mark their votes screened from observation.
 
-##### 36. Appointment of presiding officers and clerks[^key-ba76f135e527ab9311f91d2fe2102e73]
+##### 36. Appointment of presiding officers and clerks[^c-ba76f135e527ab9311f91d2fe2102e73]
 
 (1) The CRO shall appoint and pay a presiding officer to attend at each polling station and such clerks as may be necessary, but the CRO shall not appoint any person who has been employed by or on behalf of a candidate or a registered party in or about the election.
 
@@ -1025,7 +1025,7 @@ and the CRO shall as soon as practicable after giving such notice give a copy of
 
 (3) A presiding officer may do, by the clerks appointed to assist that presiding officer, any act (including the asking of questions) which the presiding officer is required or authorised by these Rules to do at a polling station except order the arrest, exclusion or removal of any person from the polling station.
 
-##### 37. Issue of official poll cards[^key-98b29ad8483d1c640b490b1bccdd0a09]
+##### 37. Issue of official poll cards[^c-98b29ad8483d1c640b490b1bccdd0a09]
 
 (1) The CRO shall as soon as practicable after the publication of notice of the election send to each elector and proxy an official poll card.
 
@@ -1046,9 +1046,9 @@ and the CRO shall as soon as practicable after giving such notice give a copy of
 - (a) means a person who is registered in the register of electors for the constituency and the region on the last day for publication of notice of the election; and
 - (b) includes a person then shown in that register or in the record of anonymous entries as below voting age if (but only if) it appears from the register or record that the person will be of voting age on the day fixed for the poll.
 
-##### 38. Equipment of polling stations[^key-3396f0107c7918eeebfa9bcdcd5313a9]
+##### 38. Equipment of polling stations[^c-3396f0107c7918eeebfa9bcdcd5313a9]
 
-(1)[^key-44e5fb08c60e172b052c056939359df6] The CRO shall provide each presiding officer with such number of ballot boxes and ballot papers as in the CRO’s opinion may be necessary and at a Scottish parliamentary general election separate ballot boxes shall be provided for the constituency ballot papers and for the regional ballot papers.
+(1)[^c-44e5fb08c60e172b052c056939359df6] The CRO shall provide each presiding officer with such number of ballot boxes and ballot papers as in the CRO’s opinion may be necessary and at a Scottish parliamentary general election separate ballot boxes shall be provided for the constituency ballot papers and for the regional ballot papers.
 
 (2) Every ballot box shall be so constructed that the ballot papers can be put in it, but cannot be withdrawn from it, without the box being opened.
 
@@ -1084,13 +1084,13 @@ and the CRO shall as soon as practicable after giving such notice give a copy of
 
 (10) Each hole shall be sufficiently large to allow a voter to mark a cross in the relevant space on the ballot paper.
 
-(11)[^key-a1e4c78ca10d5803c1f9597958050f10] A notice in the form O set out in the Appendix, giving directions for the guidance of the voters in voting, shall be printed in conspicuous characters and exhibited inside and outside every polling station.
+(11)[^c-a1e4c78ca10d5803c1f9597958050f10] A notice in the form O set out in the Appendix, giving directions for the guidance of the voters in voting, shall be printed in conspicuous characters and exhibited inside and outside every polling station.
 
-(12)[^key-312699f8552dcecc67dcbd16089c76d1] In every compartment of every polling station there shall be exhibited a notice in the form P set out in the Appendix.
+(12)[^c-312699f8552dcecc67dcbd16089c76d1] In every compartment of every polling station there shall be exhibited a notice in the form P set out in the Appendix.
 
 (13) The statements required by rule 18 (statement of persons nominated as candidates for return as a constituency member) and (except in the case of a poll to fill a vacancy in the seat of a constituency member) rule 19 (statement of persons and parties nominated for return as regional members) shall be printed in conspicuous characters and exhibited inside or outside every polling station and may be exhibited both inside and outside any polling station.
 
-##### 39. Appointment of polling and counting agents[^key-fdfb7b93d0dedd7f7209da0e9bc90c26]
+##### 39. Appointment of polling and counting agents[^c-fdfb7b93d0dedd7f7209da0e9bc90c26]
 
 (1) Each candidate for return as a constituency member, each individual candidate for return as a regional member, and the election agent of each registered party standing nominated, may, before the commencement of the poll, appoint—
 
@@ -1120,7 +1120,7 @@ and the CRO shall as soon as practicable after giving such notice give a copy of
 
 (11) Where by these Rules any act or thing is required or authorised to be done in the presence of the polling or counting agents, the non-attendance of any agents or agent at the time and place appointed for the purpose shall not, if the act or thing is otherwise duly done, invalidate the act or thing done.
 
-##### 40. Notification of requirement of secrecy[^key-54ef6de891af2cdaaea8c52f086b6075]
+##### 40. Notification of requirement of secrecy[^c-54ef6de891af2cdaaea8c52f086b6075]
 
 (1) The CRO shall make such arrangements as the CRO thinks fit to ensure that every person attending at a polling station and every person attending at the counting of the votes has been given a copy in writing of the provisions of article 31 (requirement of secrecy).
 
@@ -1133,9 +1133,9 @@ and the CRO shall as soon as practicable after giving such notice give a copy of
 
 #### The Poll
 
-##### 41. Admission to polling station[^key-7783e33ac88ecdc82eba761de70a4c86]
+##### 41. Admission to polling station[^c-7783e33ac88ecdc82eba761de70a4c86]
 
-(1)[^key-20547bd36f6641654af130c6d56ae01a] The presiding officer shall regulate the total number of voters and persons under the age of 18 years who accompany them to be admitted to the polling station at the same time, and shall exclude all other persons except—
+(1)[^c-20547bd36f6641654af130c6d56ae01a] The presiding officer shall regulate the total number of voters and persons under the age of 18 years who accompany them to be admitted to the polling station at the same time, and shall exclude all other persons except—
 
 - (a) the candidates;
 - (b) the election agent of any candidate for return as a constituency member, or of any individual candidate for return as a regional member, or of any registered party standing nominated;
@@ -1154,7 +1154,7 @@ and the CRO shall as soon as practicable after giving such notice give a copy of
 
 (5) Any certificate surrendered under this rule shall forthwith be cancelled.
 
-##### 42. Keeping of order in station[^key-1267a81adc3d75f978967bf54ce75bca]
+##### 42. Keeping of order in station[^c-1267a81adc3d75f978967bf54ce75bca]
 
 (1) It is the presiding officer’s duty to keep order at the presiding officer’s polling station.
 
@@ -1169,7 +1169,7 @@ and the person so removed shall not, without the presiding officer’s permissio
 
 (4) The powers conferred by this rule shall not be exercised so as to prevent a voter who is otherwise entitled to vote at a polling station from having an opportunity of voting at that station.
 
-##### 43. Sealing of ballot boxes[^key-7b42568ba4111057c043e834121b3e43]
+##### 43. Sealing of ballot boxes[^c-7b42568ba4111057c043e834121b3e43]
 
 Immediately before the commencement of the poll, the presiding officer shall—
 
@@ -1178,7 +1178,7 @@ Immediately before the commencement of the poll, the presiding officer shall—
 - (c) place each box in the presiding officer’s view for the receipt of ballot papers; and
 - (d) keep it so sealed.
 
-##### 44. Questions to be put to voters[^key-d249a568dd5d8b514639b084c89ac233]
+##### 44. Questions to be put to voters[^c-d249a568dd5d8b514639b084c89ac233]
 
 (1) At the time of the application for a ballot paper (but not afterwards), the questions specified in the second column of the following table—
 
@@ -1222,14 +1222,14 @@ Immediately before the commencement of the poll, the presiding officer shall—
 
 (3) Except as authorised by this rule, no inquiry shall be permitted as to the right of any person to vote.
 
-##### 45. Challenge of voter[^key-5cbfe982efb00ffd4a450ab6e4438b2b]
+##### 45. Challenge of voter[^c-5cbfe982efb00ffd4a450ab6e4438b2b]
 
 A person shall not be prevented from voting by reason only that—
 
 - (a) a candidate or the election or polling agent of a candidate or of a registered party standing nominated declares that that candidate or agent has reasonable cause to believe that the person has committed an offence of personation; or
 - (b) the person is arrested on the grounds that the person is suspected of committing or about to commit such an offence.
 
-##### 46. Voting procedure[^key-b7ef8c23ea7973e1dfa50e4f47adc201]
+##### 46. Voting procedure[^c-b7ef8c23ea7973e1dfa50e4f47adc201]
 
 (1) At a Scottish parliamentary general election a voter may apply for a constituency ballot paper or a regional ballot paper or both, but at any such election, the presiding officer shall assume, in the absence of a clear indication to the contrary, that the voter’s application is for a constituency ballot paper and a regional ballot paper.
 
@@ -1238,7 +1238,7 @@ A person shall not be prevented from voting by reason only that—
 - (a) the number and (unless paragraph (3) applies) name of the elector as stated in the polling register shall be called out;
 - (b) the number of the elector shall be marked on the corresponding number list mentioned in rule 38(3)(d) beside the number of the ballot paper to be issued to the elector;
 - (c) a mark shall be placed in the polling register against the number of the elector to note that a ballot paper has been received but without showing the particular ballot paper which has been received;
-- (d)[^key-f77a6f6053b9f1ca0f8fdc3232e3f94b] in the case of a person applying for a ballot paper as proxy, a mark shall also be placed against the proxy’s name in the list of proxies.
+- (d)[^c-f77a6f6053b9f1ca0f8fdc3232e3f94b] in the case of a person applying for a ballot paper as proxy, a mark shall also be placed against the proxy’s name in the list of proxies.
 
 (3) In the case of an elector who has an anonymous entry, the elector must show the presiding officer the elector’s official poll card and only the elector’s number shall be called out in pursuance of sub-paragraph (2)(a).
 
@@ -1246,9 +1246,9 @@ A person shall not be prevented from voting by reason only that—
 
 (5) The voter shall vote without undue delay, and shall leave the polling station as soon as the voter has put the voter’s ballot paper into the ballot box.
 
-(6)[^key-cb556f62549d5ea5b8be8a6d31cab926][^key-cf0e9ad66582b2466681a5dc8ddbc2ac] At a Scottish parliamentary general election the same copy of the polling register may be used under paragraph (2) for a constituency ballot paper and a regional ballot paper and one mark may be placed in that register under paragraph (2)(c) or in the list of proxies under paragraph (2)(d) to denote that each of the ballot papers has been received; and, where one mark is so placed in that register or, as the case may be, list, the mark shall, unless the contrary intention appears, be taken to denote that a constituency ballot paper and regional ballot paper have been received.
+(6)[^c-cb556f62549d5ea5b8be8a6d31cab926][^c-cf0e9ad66582b2466681a5dc8ddbc2ac] At a Scottish parliamentary general election the same copy of the polling register may be used under paragraph (2) for a constituency ballot paper and a regional ballot paper and one mark may be placed in that register under paragraph (2)(c) or in the list of proxies under paragraph (2)(d) to denote that each of the ballot papers has been received; and, where one mark is so placed in that register or, as the case may be, list, the mark shall, unless the contrary intention appears, be taken to denote that a constituency ballot paper and regional ballot paper have been received.
 
-##### 47. Votes marked by presiding officer[^key-07f865c929db796c4d148f9fe727c11b]
+##### 47. Votes marked by presiding officer[^c-07f865c929db796c4d148f9fe727c11b]
 
 (1) The presiding officer on the application of a voter—
 
@@ -1261,9 +1261,9 @@ shall, in the presence of the polling agents, cause the voter’s vote to be mar
 
 (3) In the case of a person voting as proxy for an elector, the number to be entered together with the voter’s name shall be the elector’s number.
 
-(4)[^key-60d2276b0913a5db65b5392f920047b2] At a Scottish parliamentary general election the same list of votes marked by the presiding officer, required under paragraph (2), may be used for votes marked on constituency ballot papers and votes marked on regional ballot papers and where it is so used, an entry in that list shall, unless the contrary intention appears, be taken to mean that each such ballot paper was so marked.
+(4)[^c-60d2276b0913a5db65b5392f920047b2] At a Scottish parliamentary general election the same list of votes marked by the presiding officer, required under paragraph (2), may be used for votes marked on constituency ballot papers and votes marked on regional ballot papers and where it is so used, an entry in that list shall, unless the contrary intention appears, be taken to mean that each such ballot paper was so marked.
 
-##### 48. Voting by persons with disabilities[^key-5de10ba368e87e6100360054e8189a3c]
+##### 48. Voting by persons with disabilities[^c-5de10ba368e87e6100360054e8189a3c]
 
 (1) If a voter makes an application to the presiding officer to be allowed, on the ground of—
 
@@ -1292,14 +1292,14 @@ the presiding officer shall grant the application, and then anything which is by
 
 (6) The declaration made by the companion—
 
-- (a)[^key-7c3e27eceb9b376f6a7d6e5c41c00203] shall be in the form R set out in the Appendix;
+- (a)[^c-7c3e27eceb9b376f6a7d6e5c41c00203] shall be in the form R set out in the Appendix;
 - (b) shall be made before the presiding officer at the time when the voter applies to vote with the assistance of a companion and shall forthwith be given to the presiding officer who shall attest and retain it.
 
 (7) No fee or other payment shall be charged in respect of the declaration.
 
-(8)[^key-58dabb44c4e5d72982fa1bad31e9e334] At a Scottish parliamentary general election the same list of voters with disabilities assisted by companions, required under paragraph (4), may be used for votes marked on constituency ballot papers and votes marked on regional ballot papers and, where it is so used, an entry in that list shall, unless the contrary intention appears, be taken to mean that the votes of the elector in question were so given in relation to each such ballot paper.
+(8)[^c-58dabb44c4e5d72982fa1bad31e9e334] At a Scottish parliamentary general election the same list of voters with disabilities assisted by companions, required under paragraph (4), may be used for votes marked on constituency ballot papers and votes marked on regional ballot papers and, where it is so used, an entry in that list shall, unless the contrary intention appears, be taken to mean that the votes of the elector in question were so given in relation to each such ballot paper.
 
-##### 49. Tendered ballot papers[^key-e6db33f331562051209a5bab3c38f11b]
+##### 49. Tendered ballot papers[^c-e6db33f331562051209a5bab3c38f11b]
 
 (1) Paragraph (5) applies if a person represents to be—
 
@@ -1344,30 +1344,30 @@ and claims to have lost or not to have received that person’s postal ballot pa
 - (b) in paragraph (7) the reference to the voter being required to sign the tendered votes list must be ignored;
 - (c) otherwise, a reference to a person named in the polling register or a list must be construed as a reference to a person whose number appears on the polling register or list (as the case may be).
 
-(10)[^key-210a40246856ba50163c465df8ba5521] At a Scottish parliamentary general election, the same tendered votes list, required under paragraph (7), may be used in relation to all tendered votes in respect of that election and, where it is so used, an entry in that list in relation to a voter shall, unless the contrary intention appears, be taken to mean that tendered ballot papers were marked by that voter in relation to both of the voter’s votes at that election.
+(10)[^c-210a40246856ba50163c465df8ba5521] At a Scottish parliamentary general election, the same tendered votes list, required under paragraph (7), may be used in relation to all tendered votes in respect of that election and, where it is so used, an entry in that list in relation to a voter shall, unless the contrary intention appears, be taken to mean that tendered ballot papers were marked by that voter in relation to both of the voter’s votes at that election.
 
-##### 50. Spoilt ballot papers[^key-64748c4a78595b95d0b2f5be33acf077]
+##### 50. Spoilt ballot papers[^c-64748c4a78595b95d0b2f5be33acf077]
 
 A voter who has inadvertently dealt with a ballot paper in such manner that it cannot be conveniently used as a ballot paper may, on delivering it to the presiding officer and proving to the presiding officer’s satisfaction the fact of the inadvertence, obtain another ballot paper in the place of the ballot paper so delivered (in these Rules referred to as “a spoilt ballot paper”), and the spoilt ballot paper shall be immediately cancelled.
 
-##### 51. Correction of errors on day of poll[^key-1318d1963cdeb036000870dcd4c9e4d0]
+##### 51. Correction of errors on day of poll[^c-1318d1963cdeb036000870dcd4c9e4d0]
 
 The presiding officer shall keep a list of persons to whom ballot papers are delivered in consequence of an alteration to the register of electors made by virtue of section 13B(3B) or (3D) of the 1983 Act[^f00074] (notice of alteration in the register) which takes effect on the day of the poll.
 
-##### 52. Adjournment of poll in case of riot[^key-a03b2f20f04fb5d3be7961b8b55c3980]
+##### 52. Adjournment of poll in case of riot[^c-a03b2f20f04fb5d3be7961b8b55c3980]
 
-(1)[^key-4dd5566139512dcafef8c605f4a62e35] Where the proceedings at any polling station are interrupted or obstructed by riot or open violence, the presiding officer shall adjourn the proceedings till the following day and shall forthwith give notice to the CRO and, except in the case of an election to fill a vacancy in the seat of a constituency member, the RRO.
+(1)[^c-4dd5566139512dcafef8c605f4a62e35] Where the proceedings at any polling station are interrupted or obstructed by riot or open violence, the presiding officer shall adjourn the proceedings till the following day and shall forthwith give notice to the CRO and, except in the case of an election to fill a vacancy in the seat of a constituency member, the RRO.
 
 (2) Where the poll is adjourned at any polling station—
 
 - (a) the hours of polling on the day to which it is adjourned shall be the same as for the original day; and
 - (b) references in this Order to the close of the poll shall be construed accordingly.
 
-##### 53. Procedure on close of poll[^key-37e5a2b1a7e17ff8ac597513f5e3a65f]
+##### 53. Procedure on close of poll[^c-37e5a2b1a7e17ff8ac597513f5e3a65f]
 
-(1)[^key-d83a0b8d8f6a8ea41d3236e7003dea6f] As soon as practicable after the close of the poll, the presiding officer shall, in the presence of the polling agents, using the presiding officer’s own seal and the seals of such polling agents as desire to affix their seals, seal each ballot box in use at the station so as to prevent the introduction of additional ballot papers.
+(1)[^c-d83a0b8d8f6a8ea41d3236e7003dea6f] As soon as practicable after the close of the poll, the presiding officer shall, in the presence of the polling agents, using the presiding officer’s own seal and the seals of such polling agents as desire to affix their seals, seal each ballot box in use at the station so as to prevent the introduction of additional ballot papers.
 
-(2)[^key-d83a0b8d8f6a8ea41d3236e7003dea6f][^key-13adc28dd29705cb8e4416552b52f8dc] The presiding officer shall then make up into separate packets, sealed with the presiding officer’s own seal and the seals of such polling agents as desire to affix their seals–
+(2)[^c-d83a0b8d8f6a8ea41d3236e7003dea6f][^c-13adc28dd29705cb8e4416552b52f8dc] The presiding officer shall then make up into separate packets, sealed with the presiding officer’s own seal and the seals of such polling agents as desire to affix their seals–
 
 - (a) the unused and spoilt ballot papers placed together;
 - (b) the tendered ballot papers;
@@ -1375,7 +1375,7 @@ The presiding officer shall keep a list of persons to whom ballot papers are del
 - (d) the certificates as to employment on duty on the day of the poll surrendered under rule 41(4);
 - (e) the marked copies of the polling register and of the list of proxies;
 - (f) the tendered votes list maintained under rule 49(7), the list of voters with disabilities assisted by companions maintained under rule 48(4), the list of votes marked by the presiding officer maintained under rule 47(2), a statement of the number of voters whose votes are so marked by the presiding officer under the heads ‘disability’ and ‘unable to read’, the list maintained under rule 51, the written declarations made by voters with disabilities under rule 48(1), and the declarations made by the companions of voters with disabilities under rule 48(2)(b);
-- (g)[^key-7921f3e0b2193e0a60ecde05cd169ada] the postal ballot papers and postal voting statements which have been returned by hand to the polling station (unless previously collected in accordance with paragraph 17(3) of Schedule 4),
+- (g)[^c-7921f3e0b2193e0a60ecde05cd169ada] the postal ballot papers and postal voting statements which have been returned by hand to the polling station (unless previously collected in accordance with paragraph 17(3) of Schedule 4),
 
 and shall deliver the sealed ballot boxes and the packets, or cause them to be delivered, to the CRO to be taken charge of by the CRO; but if the boxes and packets are not delivered by the presiding officer personally to the CRO, the arrangements for their delivery shall require the CRO’s approval.
 
@@ -1385,7 +1385,7 @@ and shall deliver the sealed ballot boxes and the packets, or cause them to be d
 
 #### Counting of votes
 
-##### 54. Attendance at counting of votes[^key-517997250499168c251ef5cd9313bf1f][^key-a2f5cffa42488f9167a2de2b34b44116]
+##### 54. Attendance at counting of votes[^c-517997250499168c251ef5cd9313bf1f][^c-a2f5cffa42488f9167a2de2b34b44116]
 
 (1) The CRO shall make arrangements for counting the votes in the presence of the counting agents as soon as practicable after the close of the poll and shall give to the counting agents and the RRO notice in writing of the time and place at which the CRO will begin to count the votes.
 
@@ -1414,7 +1414,7 @@ may be present at the counting of the votes, unless permitted by the CRO to atte
 
 and then counting the number of ballot papers for each such candidate or party, the counting agents shall be entitled to satisfy themselves that the ballot papers are correctly sorted.
 
-##### 55. The count[^key-a0e2c3fe810f6b61458b7c76c36396d3][^key-4c9216f101f0a8820184a17b6909175a]
+##### 55. The count[^c-a0e2c3fe810f6b61458b7c76c36396d3][^c-4c9216f101f0a8820184a17b6909175a]
 
 (1) The CRO shall—
 
@@ -1458,13 +1458,13 @@ shall be as effective as the agreement of the counting agent of that candidate o
 - (a) place the ballot papers and other documents relating to the election under the CRO’s own seal and the seals of such of the counting agents as desire to affix their seals; and
 - (b) otherwise take proper precautions for the security of the papers, equipment and documents.
 
-##### 56. Re-count: constituency election[^key-1e8d3a01a2a9dcc126f7ff7e63c35bdb]
+##### 56. Re-count: constituency election[^c-1e8d3a01a2a9dcc126f7ff7e63c35bdb]
 
 (1) A candidate for return as a constituency member or the election agent of such a candidate may, if present when the counting or any re-count of the votes given in the constituency ballot papers is completed, require the CRO to have the votes re-counted or again re-counted but the CRO may refuse to do so if in the CRO’s opinion the request is unreasonable.
 
 (2) No step shall be taken on the completion of the counting or any re-count of votes given in the constituency ballot papers until the candidates and election agents present at its completion have been given a reasonable opportunity to exercise the right conferred by this rule.
 
-##### 57. Re-count: regional votes in a constituency[^key-ca83c7962c5ae7c8274821eba53d93d5]
+##### 57. Re-count: regional votes in a constituency[^c-ca83c7962c5ae7c8274821eba53d93d5]
 
 (1) If a person specified in paragraph (3) is present when the counting or any re‑count of the votes given in the regional ballot papers is completed in a constituency, that person may, prior to the publication of the statement required by rule 61, require the CRO to have the votes re‑counted or again re-counted.
 
@@ -1479,7 +1479,7 @@ shall be as effective as the agreement of the counting agent of that candidate o
 
 (4) No step shall be taken on the completion of the counting or any re-count of votes until the individual candidates and election agents present at its completion have been given a reasonable opportunity to exercise the right conferred by this rule.
 
-##### 58. Rejected ballot papers[^key-0e88580b6f6f4abe4be48b03a8139373]
+##### 58. Rejected ballot papers[^c-0e88580b6f6f4abe4be48b03a8139373]
 
 (1) Any ballot paper—
 
@@ -1505,15 +1505,15 @@ shall not for such reason be deemed to be void if an intention that the vote sha
 
 (5) The CRO shall draw up a statement showing the number of constituency ballot papers and the number of regional ballot papers, respectively, rejected under each of sub-paragraphs (a) to (e) of paragraph (1).
 
-##### 59. Decisions on ballot papers[^key-5433897e8e15f766d721f28e1667717b]
+##### 59. Decisions on ballot papers[^c-5433897e8e15f766d721f28e1667717b]
 
 The decision of the CRO on any question arising in respect of a ballot paper shall be final, but shall be subject to review on an election petition.
 
-##### 60. Equality of votes: election for return of constituency members[^key-3d6cac39268b6697eba652111c63bba0]
+##### 60. Equality of votes: election for return of constituency members[^c-3d6cac39268b6697eba652111c63bba0]
 
 Where, after the counting of the votes (including any re-count) given in a poll for the return of a constituency member is completed, an equality of votes is found to exist between any candidates and the addition of a vote would entitle any of those candidates to be declared elected, the CRO shall forthwith decide between those candidates by lot, and proceed as if the candidate on whom the lot falls had received an additional vote.
 
-##### 61. Conveying results of count etc. to RRO[^key-aef57bd455a537ebe2f5fc647837874c]
+##### 61. Conveying results of count etc. to RRO[^c-aef57bd455a537ebe2f5fc647837874c]
 
 (1) As soon as practicable after the conclusion of the counting of the votes (including any re-count) given in a constituency in a poll for return of regional members, the CRO shall, in accordance with any directions given by the RRO, draw up a statement showing the number of votes given for each registered party and each individual candidate (excluding any votes given on any rejected ballot papers).
 
@@ -1523,7 +1523,7 @@ Where, after the counting of the votes (including any re-count) given in a poll 
 
 ### PART 4 — FINAL PROCEEDINGS IN CONTESTED AND UNCONTESTED ELECTIONS
 
-#### 62. Declaration of result: constituency members[^key-4c0c813138867a405bd9247d8b83f7f3]
+#### 62. Declaration of result: constituency members[^c-4c0c813138867a405bd9247d8b83f7f3]
 
 (1) In a contested election for return of a constituency member, when the result of the poll for the return of a constituency member has been ascertained, the CRO shall forthwith—
 
@@ -1545,7 +1545,7 @@ Where, after the counting of the votes (including any re-count) given in a poll 
 - (a) completing a certificate in the form S set out in the Appendix; and
 - (b) delivering it, or causing it to be delivered, to the Clerk of the Parliament.
 
-#### 63. Attendance at allocation of seats for regional members[^key-de373e78af427b992ae83c84e8a18019]
+#### 63. Attendance at allocation of seats for regional members[^c-de373e78af427b992ae83c84e8a18019]
 
 (1) At a contested election, the RRO shall make arrangements for making the calculation and allocation referred to in rule 64 as soon as practicable after the RRO receives the statement prepared under rule 61 and the notification under rule 62(3) from each CRO in that region.
 
@@ -1573,7 +1573,7 @@ may be present at that calculation and allocation unless permitted by the RRO to
 
 notice in writing of the place at which the RRO will begin the proceedings under rule 64.
 
-#### 64. Allocation of seats[^key-c9f98f2a596c6fbaf451ca1e56cc8880]
+#### 64. Allocation of seats[^c-c9f98f2a596c6fbaf451ca1e56cc8880]
 
 (1) The RRO shall calculate the total number of regional votes given for each registered party and each individual candidate in all of the constituencies included in the region by adding together the votes given for that registered party or, as the case may be, individual candidate as shown in the statements received under rule 61.
 
@@ -1581,7 +1581,7 @@ notice in writing of the place at which the RRO will begin the proceedings under
 
 (3) The RRO shall then allocate the seats in accordance with sections 7 and 8 of the 1998 Act [^f00076] (calculation of regional figures and allocation of seats).
 
-#### 65. Equality of votes at poll for return of regional members[^key-e894377410096e961f0307246fde6b6a]
+#### 65. Equality of votes at poll for return of regional members[^c-e894377410096e961f0307246fde6b6a]
 
 Section 8(7) of the 1998 Act[^f00077] (allocation of seats to regional members) shall be modified by substituting, for the words after “candidates,”, the following words—
 
@@ -1597,7 +1597,7 @@ Section 8(7) of the 1998 Act[^f00077] (allocation of seats to regional members) 
 
 .
 
-#### 66. Declaration of results: regional members[^key-a3e119055f2f579d9d0ab5f96f0c3909]
+#### 66. Declaration of results: regional members[^c-a3e119055f2f579d9d0ab5f96f0c3909]
 
 (1) When the RRO has allocated the regional member seats the RRO shall forthwith—
 
@@ -1619,7 +1619,7 @@ Section 8(7) of the 1998 Act[^f00077] (allocation of seats to regional members) 
 - (a) completing a certificate in the form T set out in the Appendix;
 - (b) delivering it, or causing it to be delivered, to the Clerk of the Parliament.
 
-#### 67. Return or forfeiture of deposit[^key-7af4f30ac0ed2faa0ee1aedacc767606]
+#### 67. Return or forfeiture of deposit[^c-7af4f30ac0ed2faa0ee1aedacc767606]
 
 (1) The deposit made under rule 10 shall either be returned to the person making it or to that person’s personal representatives or be forfeited to Her Majesty.
 
@@ -1645,18 +1645,18 @@ the deposit shall be returned as soon as practicable after the publication of th
 
 ### PART 5 — DISPOSAL OF DOCUMENTS
 
-#### 68. Sealing up of ballot papers[^key-7651c3a6676ea179101946d74664f8a2]
+#### 68. Sealing up of ballot papers[^c-7651c3a6676ea179101946d74664f8a2]
 
 (1) On the completion of the counting at a contested election the CRO shall seal up in separate packets the counted and rejected ballot papers.
 
-(2)[^key-42364e2ff37c606081c5c31b21ed7a4a] The CRO shall not open the sealed packets of—
+(2)[^c-42364e2ff37c606081c5c31b21ed7a4a] The CRO shall not open the sealed packets of—
 
 - (a) tendered ballot papers;
 - (b) the completed corresponding number lists;
 - (c) certificates as to employment on duty on the day of the poll; or
 - (d) marked copies of the polling register and lists of proxies.
 
-#### 69. Retention of documents by CRO[^key-b7597927791a16f5b15f37c3ecdb1159][^key-909922c72ee47ed07875cad16d9fc686]
+#### 69. Retention of documents by CRO[^c-b7597927791a16f5b15f37c3ecdb1159][^c-909922c72ee47ed07875cad16d9fc686]
 
 (1) This rule applies to the following documents[^f00078]—
 
@@ -1675,7 +1675,7 @@ the deposit shall be returned as soon as practicable after the publication of th
 - (b) the date of the election to which they relate; and
 - (c) the name of the constituency in which the votes were given.
 
-#### 70. Orders for production of documents and records[^key-9a939d92c7f71f49b8210002da1cf051][^key-479000382df83c1fe6ff679b0c50bd90]
+#### 70. Orders for production of documents and records[^c-9a939d92c7f71f49b8210002da1cf051][^c-479000382df83c1fe6ff679b0c50bd90]
 
 (1) An order—
 
@@ -1719,9 +1719,9 @@ as the court making the order may think expedient; but in making and carrying in
 
 shall be prima facie evidence that the elector whose vote was given by that ballot paper was the person whose entry in the register of electors (or on a notice issued under section 13A(2), 13B(3), (3B) or (3D) or 13BB(4) or (5) of the 1983 Act[^f00079] (notice of alteration in the register)) at the time of the election contained the same number as the number marked as mentioned in sub-paragraph (b).
 
-(8)[^key-7497605d940356613e98869cce7bd23e] Save as by this paragraph provided, no person shall be allowed to inspect any rejected or counted ballot papers in the possession of the CRO, or to open any sealed packets of the completed corresponding number lists or of certificates.
+(8)[^c-7497605d940356613e98869cce7bd23e] Save as by this paragraph provided, no person shall be allowed to inspect any rejected or counted ballot papers in the possession of the CRO, or to open any sealed packets of the completed corresponding number lists or of certificates.
 
-#### 71. Retention and public inspection of documents[^key-45fdf64f495bab7ba59679495eefeaf2]
+#### 71. Retention and public inspection of documents[^c-45fdf64f495bab7ba59679495eefeaf2]
 
 (1) The CRO shall retain the documents specified in rule 69(1) for a year and then, unless otherwise directed by order of the Court of Session, shall cause them to be destroyed.
 
@@ -1743,7 +1743,7 @@ shall be open to public inspection.
 
 ### PART 6 — DEATH OF CANDIDATE
 
-#### 72. Constituency election: death of independent candidate[^key-4a5d67ae104676605cd4d3af3be6b082]
+#### 72. Constituency election: death of independent candidate[^c-4a5d67ae104676605cd4d3af3be6b082]
 
 (1) This rule applies if at a contested constituency election proof is given to the CRO’s satisfaction before the result of the election is declared that one of the persons named or to be named on the ballot papers as an independent candidate has died.
 
@@ -1763,7 +1763,7 @@ shall be open to public inspection.
 
 (5) For the purposes of paragraph (1), a person is named or to be named on the ballot papers as an independent candidate if the description on the candidate’s nomination paper is the word “Independent” or the candidate has no description on that nomination paper.
 
-#### 73. Constituency election: deceased independent candidate wins[^key-c7b7d69ce1880a9393adeab1b7342107]
+#### 73. Constituency election: deceased independent candidate wins[^c-c7b7d69ce1880a9393adeab1b7342107]
 
 (1) This rule applies if at an election mentioned in rule 72(1) the majority of votes is given to the deceased candidate.
 
@@ -1797,7 +1797,7 @@ shall be open to public inspection.
 - (a) a working day is a day which is not a day specified in rule 2; and
 - (b) “previous statement of persons nominated” means the statement of persons nominated and standing nominated published under rule 18 in operation at the time of the death of the deceased candidate.
 
-#### 74. Constituency election: deceased independent candidate with equality of votes[^key-bff640c7e31f2eaf8e7c3b3a535de163]
+#### 74. Constituency election: deceased independent candidate with equality of votes[^c-bff640c7e31f2eaf8e7c3b3a535de163]
 
 In an election mentioned in rule 72(1), if—
 
@@ -1806,7 +1806,7 @@ In an election mentioned in rule 72(1), if—
 
 the deceased candidate must be ignored.
 
-#### 75. Constituency election: death of party candidate[^key-aa5a87f5451e52348d0cc4c3b6ef7948]
+#### 75. Constituency election: death of party candidate[^c-aa5a87f5451e52348d0cc4c3b6ef7948]
 
 (1) This rule applies if—
 
@@ -1842,7 +1842,7 @@ the deceased candidate must be ignored.
 - (b) a working day is a day which is not a day specified in rule 2; and
 - (c) “previous statement of persons nominated” means the statement of persons nominated and standing nominated published under rule 18 in operation at the time of the death of the deceased candidate.
 
-#### 76. Regional election: effect of countermand or abandonment of constituency poll[^key-b67f85ed2c8a61ebeddf02164ceb7bc7]
+#### 76. Regional election: effect of countermand or abandonment of constituency poll[^c-b67f85ed2c8a61ebeddf02164ceb7bc7]
 
 (1) This rule applies where at a Scottish parliamentary general election there is a contested election for return of regional members and the poll or declaration of result at a constituency election for a constituency in that region is postponed in accordance with rule 73 or 75.
 
@@ -1852,7 +1852,7 @@ the deceased candidate must be ignored.
 
 (4) The subsequent election of a candidate for the constituency shall have no effect upon the validity of the election and return of any regional member.
 
-#### 77. Regional election: death of candidate[^key-11283cb02a6d1450bd90cf4118e60280]
+#### 77. Regional election: death of candidate[^c-11283cb02a6d1450bd90cf4118e60280]
 
 (1) If at a contested election for the return of regional members proof is given to the RRO’s satisfaction before the results of the election are declared that one of the persons named or to be named as a candidate on the ballot paper (whether on a registered party’s regional list or as an individual candidate) has died and as a result of that death the election becomes uncontested, then the RRO must—
 
@@ -1874,7 +1874,7 @@ and the RRO shall, in particular, consider whether the RRO should publicise as r
 
 (5) In respect of an election to which paragraph (1) or (3) applies, rules 41(1)(a) to (c) (admission to polling station: candidates, election agents and polling agents) and 54(2)(b) to (d) (attendance at counting of votes) do not apply in relation to the deceased candidate, and where the deceased candidate is an individual candidate rule 67(7) (forfeiture of deposit) also does not apply in relation to that deceased candidate.
 
-#### 78. Abandoned poll[^key-a2c157826b3853e118d77cf99e7dc71f][^key-9d3233927f72ad08a85a72bc1e11cfce]
+#### 78. Abandoned poll[^c-a2c157826b3853e118d77cf99e7dc71f][^c-9d3233927f72ad08a85a72bc1e11cfce]
 
 (1) This rule applies to—
 
@@ -1902,7 +1902,7 @@ and the RRO shall, in particular, consider whether the RRO should publicise as r
 
 unless the order is made by a court with reference to a prosecution.
 
-(10)[^key-bcc9467497063e9b19cde779400153c6] Where the polls at an election for the return of regional members and at an election for the return of a member for a constituency within that region are held on the same day but the poll at one election is abandoned in any of the circumstances mentioned in paragraph (1)—
+(10)[^c-bcc9467497063e9b19cde779400153c6] Where the polls at an election for the return of regional members and at an election for the return of a member for a constituency within that region are held on the same day but the poll at one election is abandoned in any of the circumstances mentioned in paragraph (1)—
 
 - (a) the steps which the presiding officer is required to take at such a polling station by paragraph (2) shall take place at the close of the poll at the other election;
 - (b) paragraph (3) shall have effect as if after “the CRO” there were inserted “having separated the ballot papers relating to the other election,” and
@@ -1910,7 +1910,7 @@ unless the order is made by a court with reference to a prosecution.
 
 ### PART 7 — MISCELLANEOUS
 
-#### 79. Return of members and record of returns etc.[^key-7342842de0c94b8ae531d11e6a0e9798]
+#### 79. Return of members and record of returns etc.[^c-7342842de0c94b8ae531d11e6a0e9798]
 
 (1) The Clerk of the Parliament shall on receipt of a certificate delivered under rule 62 or 66 (declaration of results) enter the details specified in paragraph (2) in a book kept for that purpose at the Parliament (in this rule referred to as “the returns book”).
 
@@ -1938,242 +1938,242 @@ the Presiding Officer shall record in the returns book the fact of the vacancy a
 
 ## Annotations
 
-[^key-afd0626fd7d7adb4ad1abbd0b8318aa2]: Commencement: Sch. 2 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-afd0626fd7d7adb4ad1abbd0b8318aa2]: Commencement: Sch. 2 para. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-e163782ff9f0fdf9f9b7f939fdedf549]: Commencement: Sch. 2 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e163782ff9f0fdf9f9b7f939fdedf549]: Commencement: Sch. 2 para. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00065]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-711ff7db18a60928a6dd8cdfad498201]: Commencement: Sch. 2 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-711ff7db18a60928a6dd8cdfad498201]: Commencement: Sch. 2 para. 3 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-b0edb124459d701f46e371f6d36dae67]: Commencement: Sch. 2 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-b0edb124459d701f46e371f6d36dae67]: Commencement: Sch. 2 para. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00066]: Footnote: Section 28 was amended by the 2006 Act, section 48 and [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366), Schedule 1, paragraph 4.
 
-[^key-7ed553e1759d57a69fc11b14e619ad71]: Commencement: Sch. 2 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7ed553e1759d57a69fc11b14e619ad71]: Commencement: Sch. 2 para. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-3add8744bc3e9e28540e08da802928b9]: Commencement: Sch. 2 para. 6 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-3add8744bc3e9e28540e08da802928b9]: Commencement: Sch. 2 para. 6 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00067]: Footnote: Section 28A was inserted by the 2006 Act, section 49.
 
-[^key-c25062de9bdefef3eef079c33cab72b3]: Commencement: Sch. 2 para. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c25062de9bdefef3eef079c33cab72b3]: Commencement: Sch. 2 para. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-1d2f5ef8aaf6570be3398aa62c2f7fdb]: Commencement: Sch. 2 para. 8 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-1d2f5ef8aaf6570be3398aa62c2f7fdb]: Commencement: Sch. 2 para. 8 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-6d167d37358f395930c595621a5329f2]: Commencement: Sch. 2 para. 9 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-6d167d37358f395930c595621a5329f2]: Commencement: Sch. 2 para. 9 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00068]: Footnote: Section 15 was amended by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 18, Part 5. Section 16 was amended by the House of Commons (Removal of Clergy Disqualification) Act [2001 (c.13)](https://www.legislation.gov.uk/ukpga/2001/13), Schedule 1, paragraph 4 and by the 2006 Act, Schedule 1, paragraph 45.
 
-[^key-12d6b362a284c307488b84849e22db0b]: Commencement: Sch. 2 para. 10 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-12d6b362a284c307488b84849e22db0b]: Commencement: Sch. 2 para. 10 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-ed736f452048713dd5d80124e35548c9]: Commencement: Sch. 2 para. 11 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ed736f452048713dd5d80124e35548c9]: Commencement: Sch. 2 para. 11 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-43bc73724f058bfb0f1489c548500fa2]: Commencement: Sch. 2 para. 12 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-43bc73724f058bfb0f1489c548500fa2]: Commencement: Sch. 2 para. 12 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-8eca8b390f4fb9f3d848e66d5af3d365]: Commencement: Sch. 2 para. 13 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-8eca8b390f4fb9f3d848e66d5af3d365]: Commencement: Sch. 2 para. 13 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00069]: Footnote: Sections 6A and 6B were inserted by the 2006 Act, section 29.
 
-[^key-93cd539150b2afb114ed34152b305c96]: Commencement: Sch. 2 para. 14 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-93cd539150b2afb114ed34152b305c96]: Commencement: Sch. 2 para. 14 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00070]: Footnote: [1981 c.34](https://www.legislation.gov.uk/ukpga/1981/34).
 
-[^key-f38ed03a88b54aa7abb90435f46069f9]: Commencement: Sch. 2 para. 15 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f38ed03a88b54aa7abb90435f46069f9]: Commencement: Sch. 2 para. 15 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-a8b8729d8629414b5ad600c16ffc53ca]: Commencement: Sch. 2 para. 16 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a8b8729d8629414b5ad600c16ffc53ca]: Commencement: Sch. 2 para. 16 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-1dbb9a67271d899ecfacecf205e4be2c]: Commencement: Sch. 2 para. 17 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-1dbb9a67271d899ecfacecf205e4be2c]: Commencement: Sch. 2 para. 17 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-c3b5cb458b31f14b1f0a8c9642a3a7be]: Commencement: Sch. 2 para. 18 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c3b5cb458b31f14b1f0a8c9642a3a7be]: Commencement: Sch. 2 para. 18 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-29bfede53a1bd49489b9049a9b0149a8]: Commencement: Sch. 2 para. 19 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-29bfede53a1bd49489b9049a9b0149a8]: Commencement: Sch. 2 para. 19 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-2a0d751ebddee6fb2758dfc8e3f8b164]: Commencement: Sch. 2 para. 20 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-2a0d751ebddee6fb2758dfc8e3f8b164]: Commencement: Sch. 2 para. 20 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-fa68651e3347337598616cde722d9a2c]: Commencement: Sch. 2 para. 21 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-fa68651e3347337598616cde722d9a2c]: Commencement: Sch. 2 para. 21 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-f393d5c904570d06e20c62ec279378cd]: Commencement: Sch. 2 para. 22 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f393d5c904570d06e20c62ec279378cd]: Commencement: Sch. 2 para. 22 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-f46cae30f61366d2cf75e986d057367a]: Commencement: Sch. 2 para. 23 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f46cae30f61366d2cf75e986d057367a]: Commencement: Sch. 2 para. 23 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-142c975c880ae769225f1363a6539004]: Commencement: Sch. 2 para. 24 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-142c975c880ae769225f1363a6539004]: Commencement: Sch. 2 para. 24 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-2df745a071fa4aab00a9c11e1831c13c]: Commencement: Sch. 2 para. 25 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-2df745a071fa4aab00a9c11e1831c13c]: Commencement: Sch. 2 para. 25 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00071]: Footnote: Section 8 is modified by rule 65.
 
-[^key-ff24bd3072b32744777cf89bc5f2b83d]: Commencement: Sch. 2 para. 26 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ff24bd3072b32744777cf89bc5f2b83d]: Commencement: Sch. 2 para. 26 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-804cf53cba5626acab1b28661900ff09]: Commencement: Sch. 2 para. 27 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-804cf53cba5626acab1b28661900ff09]: Commencement: Sch. 2 para. 27 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-0f78234f426f32379427b7ab65a36cf9]: Commencement: Sch. 2 para. 28 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0f78234f426f32379427b7ab65a36cf9]: Commencement: Sch. 2 para. 28 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-ad73cb669bf9f681759621555078dd17]: Commencement: Sch. 2 para. 29 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ad73cb669bf9f681759621555078dd17]: Commencement: Sch. 2 para. 29 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-fedb00c33e7789ef155c874f51d5deff]: Modification: [Sch. 2 rule 29(2)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/29/2) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/6)
+[^c-fedb00c33e7789ef155c874f51d5deff]: Modification: [Sch. 2 rule 29(2)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/29/2) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/6)
 
-[^key-62f6794359186a48c276ba7e9f95540d]: Commencement: Sch. 2 para. 30 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-62f6794359186a48c276ba7e9f95540d]: Commencement: Sch. 2 para. 30 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-ea032612423dd18c48252a4ac3a04681]: Commencement: Sch. 2 para. 31 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ea032612423dd18c48252a4ac3a04681]: Commencement: Sch. 2 para. 31 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-8a837d04e763cf9aa03532505aa7da43]: Commencement: Sch. 2 para. 32 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-8a837d04e763cf9aa03532505aa7da43]: Commencement: Sch. 2 para. 32 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00072]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44). The definition of “independent school” in section 135 was amended by the School Education (Ministerial Powers and Independent Schools) (Scotland) Act [2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), section 3 and the Standards in Scotland’s Schools etc Act [2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), schedule 2, paragraph 3(9).
 
-[^key-91ff8ec89062905c23edee771b46a7f5]: Commencement: Sch. 2 para. 33 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-91ff8ec89062905c23edee771b46a7f5]: Commencement: Sch. 2 para. 33 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-fd67ac9643cadfe10a1362246bf577e8]: Commencement: Sch. 2 para. 34 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-fd67ac9643cadfe10a1362246bf577e8]: Commencement: Sch. 2 para. 34 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-596f2688b4b8f317c5e8adba61f0cbdf]: Modification: [Sch. 2 rule 34(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/34/1) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/10)
+[^c-596f2688b4b8f317c5e8adba61f0cbdf]: Modification: [Sch. 2 rule 34(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/34/1) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/10)
 
-[^key-0c13567ff64079eb7d18c4c0dc8b4252]: Commencement: Sch. 2 para. 35 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0c13567ff64079eb7d18c4c0dc8b4252]: Commencement: Sch. 2 para. 35 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-ba76f135e527ab9311f91d2fe2102e73]: Commencement: Sch. 2 para. 36 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ba76f135e527ab9311f91d2fe2102e73]: Commencement: Sch. 2 para. 36 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-98b29ad8483d1c640b490b1bccdd0a09]: Commencement: Sch. 2 para. 37 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-98b29ad8483d1c640b490b1bccdd0a09]: Commencement: Sch. 2 para. 37 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-3396f0107c7918eeebfa9bcdcd5313a9]: Commencement: Sch. 2 para. 38 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-3396f0107c7918eeebfa9bcdcd5313a9]: Commencement: Sch. 2 para. 38 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-44e5fb08c60e172b052c056939359df6]: Modification: [Sch. 2 rule 38(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/38/1) excluded in part (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/17/1)
+[^c-44e5fb08c60e172b052c056939359df6]: Modification: [Sch. 2 rule 38(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/38/1) excluded in part (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/17/1)
 
-[^key-a1e4c78ca10d5803c1f9597958050f10]: Modification: [Sch. 2 rule 38(11)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/38/11) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/21)
+[^c-a1e4c78ca10d5803c1f9597958050f10]: Modification: [Sch. 2 rule 38(11)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/38/11) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/21)
 
-[^key-312699f8552dcecc67dcbd16089c76d1]: Modification: [Sch. 2 rule 38(12)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/38/12) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/22)
+[^c-312699f8552dcecc67dcbd16089c76d1]: Modification: [Sch. 2 rule 38(12)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/38/12) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/22)
 
-[^key-fdfb7b93d0dedd7f7209da0e9bc90c26]: Commencement: Sch. 2 para. 39 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-fdfb7b93d0dedd7f7209da0e9bc90c26]: Commencement: Sch. 2 para. 39 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-54ef6de891af2cdaaea8c52f086b6075]: Commencement: Sch. 2 para. 40 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-54ef6de891af2cdaaea8c52f086b6075]: Commencement: Sch. 2 para. 40 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-7783e33ac88ecdc82eba761de70a4c86]: Commencement: Sch. 2 para. 41 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7783e33ac88ecdc82eba761de70a4c86]: Commencement: Sch. 2 para. 41 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-20547bd36f6641654af130c6d56ae01a]: Modification: [Sch. 2 rule 41(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/41/1) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 25(2)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/25/2)
+[^c-20547bd36f6641654af130c6d56ae01a]: Modification: [Sch. 2 rule 41(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/41/1) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 25(2)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/25/2)
 
 [^f00073]: Footnote: Sections 6A to 6D were inserted by the 2006 Act, section 29.
 
-[^key-1267a81adc3d75f978967bf54ce75bca]: Commencement: Sch. 2 para. 42 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-1267a81adc3d75f978967bf54ce75bca]: Commencement: Sch. 2 para. 42 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-7b42568ba4111057c043e834121b3e43]: Commencement: Sch. 2 para. 43 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7b42568ba4111057c043e834121b3e43]: Commencement: Sch. 2 para. 43 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-d249a568dd5d8b514639b084c89ac233]: Commencement: Sch. 2 para. 44 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d249a568dd5d8b514639b084c89ac233]: Commencement: Sch. 2 para. 44 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-5cbfe982efb00ffd4a450ab6e4438b2b]: Commencement: Sch. 2 para. 45 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-5cbfe982efb00ffd4a450ab6e4438b2b]: Commencement: Sch. 2 para. 45 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-b7ef8c23ea7973e1dfa50e4f47adc201]: Commencement: Sch. 2 para. 46 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-b7ef8c23ea7973e1dfa50e4f47adc201]: Commencement: Sch. 2 para. 46 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-f77a6f6053b9f1ca0f8fdc3232e3f94b]: Modification: [Sch. 2 rule 46(2)(d)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/46/2/d) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 30(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/30/3)[(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/30/4)
+[^c-f77a6f6053b9f1ca0f8fdc3232e3f94b]: Modification: [Sch. 2 rule 46(2)(d)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/46/2/d) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 30(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/30/3)[(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/30/4)
 
-[^key-cb556f62549d5ea5b8be8a6d31cab926]: Modification: [Sch. 2 rule 46(6)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/46/6) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/29)
+[^c-cb556f62549d5ea5b8be8a6d31cab926]: Modification: [Sch. 2 rule 46(6)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/46/6) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/29)
 
-[^key-cf0e9ad66582b2466681a5dc8ddbc2ac]: Modification: [Sch. 2 rule 46(6)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/46/6) excluded in part (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 30(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/30/3)[(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/30/4)
+[^c-cf0e9ad66582b2466681a5dc8ddbc2ac]: Modification: [Sch. 2 rule 46(6)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/46/6) excluded in part (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 30(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/30/3)[(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/30/4)
 
-[^key-07f865c929db796c4d148f9fe727c11b]: Commencement: Sch. 2 para. 47 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-07f865c929db796c4d148f9fe727c11b]: Commencement: Sch. 2 para. 47 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-60d2276b0913a5db65b5392f920047b2]: Modification: [Sch. 2 rule 47(4)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/47/4) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/32)
+[^c-60d2276b0913a5db65b5392f920047b2]: Modification: [Sch. 2 rule 47(4)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/47/4) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/32)
 
-[^key-5de10ba368e87e6100360054e8189a3c]: Commencement: Sch. 2 para. 48 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-5de10ba368e87e6100360054e8189a3c]: Commencement: Sch. 2 para. 48 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-7c3e27eceb9b376f6a7d6e5c41c00203]: Modification: [Sch. 2 rule 48(6)(a)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/48/6/a) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/33)
+[^c-7c3e27eceb9b376f6a7d6e5c41c00203]: Modification: [Sch. 2 rule 48(6)(a)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/48/6/a) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/33)
 
-[^key-58dabb44c4e5d72982fa1bad31e9e334]: Modification: [Sch. 2 rule 48(8)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/48/8) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 34](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/34)
+[^c-58dabb44c4e5d72982fa1bad31e9e334]: Modification: [Sch. 2 rule 48(8)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/48/8) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 34](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/34)
 
-[^key-e6db33f331562051209a5bab3c38f11b]: Commencement: Sch. 2 para. 49 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e6db33f331562051209a5bab3c38f11b]: Commencement: Sch. 2 para. 49 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-210a40246856ba50163c465df8ba5521]: Modification: [Sch. 2 rule 49(10)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/49/10) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 35](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/35)
+[^c-210a40246856ba50163c465df8ba5521]: Modification: [Sch. 2 rule 49(10)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/49/10) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 35](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/35)
 
-[^key-64748c4a78595b95d0b2f5be33acf077]: Commencement: Sch. 2 para. 50 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-64748c4a78595b95d0b2f5be33acf077]: Commencement: Sch. 2 para. 50 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-1318d1963cdeb036000870dcd4c9e4d0]: Commencement: Sch. 2 para. 51 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-1318d1963cdeb036000870dcd4c9e4d0]: Commencement: Sch. 2 para. 51 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00074]: Footnote: Section 13B was substituted by the 2000 Act, Schedule 1, paragraph 6. Section 13B(3B) and (3D) were inserted by the 2006 Act, section 11(4).
 
-[^key-a03b2f20f04fb5d3be7961b8b55c3980]: Commencement: Sch. 2 para. 52 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a03b2f20f04fb5d3be7961b8b55c3980]: Commencement: Sch. 2 para. 52 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-4dd5566139512dcafef8c605f4a62e35]: Modification: [Sch. 2 rule 52(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/52/1) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/37)
+[^c-4dd5566139512dcafef8c605f4a62e35]: Modification: [Sch. 2 rule 52(1)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/52/1) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/37)
 
-[^key-37e5a2b1a7e17ff8ac597513f5e3a65f]: Commencement: Sch. 2 para. 53 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-37e5a2b1a7e17ff8ac597513f5e3a65f]: Commencement: Sch. 2 para. 53 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-d83a0b8d8f6a8ea41d3236e7003dea6f]: Modification: [Sch. 2 rule 53(1)(2)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/53/1/2) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 38(2)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/38/2)
+[^c-d83a0b8d8f6a8ea41d3236e7003dea6f]: Modification: [Sch. 2 rule 53(1)(2)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/53/1/2) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 38(2)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/38/2)
 
-[^key-13adc28dd29705cb8e4416552b52f8dc]: Modification: [Sch. 2 rule 53(2)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/53/2) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 40](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/40)
+[^c-13adc28dd29705cb8e4416552b52f8dc]: Modification: [Sch. 2 rule 53(2)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/53/2) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 40](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/40)
 
-[^key-7921f3e0b2193e0a60ecde05cd169ada]: Modification: [Sch. 2 rule 53(2)(g)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/53/2/g) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 38(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/38/3)
+[^c-7921f3e0b2193e0a60ecde05cd169ada]: Modification: [Sch. 2 rule 53(2)(g)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/53/2/g) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 38(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/38/3)
 
-[^key-517997250499168c251ef5cd9313bf1f]: Commencement: Sch. 2 para. 54 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-517997250499168c251ef5cd9313bf1f]: Commencement: Sch. 2 para. 54 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-a2f5cffa42488f9167a2de2b34b44116]: Modification: [Sch. 2 rule 54](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/54) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 paras. 42](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/42), [44](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/44), [45](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/45)
+[^c-a2f5cffa42488f9167a2de2b34b44116]: Modification: [Sch. 2 rule 54](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/54) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 paras. 42](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/42), [44](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/44), [45](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/45)
 
 [^f00075]: Footnote: Sections 6A to 6D were inserted by the 2006 Act, section 29.
 
-[^key-a0e2c3fe810f6b61458b7c76c36396d3]: Commencement: Sch. 2 para. 55 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a0e2c3fe810f6b61458b7c76c36396d3]: Commencement: Sch. 2 para. 55 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-4c9216f101f0a8820184a17b6909175a]: Modification: [Sch. 2 rule 55](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/55) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 paras. 48](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/48), [49](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/49)
+[^c-4c9216f101f0a8820184a17b6909175a]: Modification: [Sch. 2 rule 55](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/55) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 paras. 48](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/48), [49](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/49)
 
-[^key-1e8d3a01a2a9dcc126f7ff7e63c35bdb]: Commencement: Sch. 2 para. 56 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-1e8d3a01a2a9dcc126f7ff7e63c35bdb]: Commencement: Sch. 2 para. 56 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-ca83c7962c5ae7c8274821eba53d93d5]: Commencement: Sch. 2 para. 57 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ca83c7962c5ae7c8274821eba53d93d5]: Commencement: Sch. 2 para. 57 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-0e88580b6f6f4abe4be48b03a8139373]: Commencement: Sch. 2 para. 58 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0e88580b6f6f4abe4be48b03a8139373]: Commencement: Sch. 2 para. 58 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-5433897e8e15f766d721f28e1667717b]: Commencement: Sch. 2 para. 59 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-5433897e8e15f766d721f28e1667717b]: Commencement: Sch. 2 para. 59 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-3d6cac39268b6697eba652111c63bba0]: Commencement: Sch. 2 para. 60 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-3d6cac39268b6697eba652111c63bba0]: Commencement: Sch. 2 para. 60 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-aef57bd455a537ebe2f5fc647837874c]: Commencement: Sch. 2 para. 61 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-aef57bd455a537ebe2f5fc647837874c]: Commencement: Sch. 2 para. 61 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-4c0c813138867a405bd9247d8b83f7f3]: Commencement: Sch. 2 para. 62 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4c0c813138867a405bd9247d8b83f7f3]: Commencement: Sch. 2 para. 62 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-de373e78af427b992ae83c84e8a18019]: Commencement: Sch. 2 para. 63 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-de373e78af427b992ae83c84e8a18019]: Commencement: Sch. 2 para. 63 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-c9f98f2a596c6fbaf451ca1e56cc8880]: Commencement: Sch. 2 para. 64 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c9f98f2a596c6fbaf451ca1e56cc8880]: Commencement: Sch. 2 para. 64 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00076]: Footnote: Section 8 is modified by rule 65.
 
-[^key-e894377410096e961f0307246fde6b6a]: Commencement: Sch. 2 para. 65 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-e894377410096e961f0307246fde6b6a]: Commencement: Sch. 2 para. 65 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00077]: Footnote: Section 8 was previously modified by [S.I. 2007/937](https://www.legislation.gov.uk/uksi/2007/937), but that instrument is revoked by this Order.
 
-[^key-a3e119055f2f579d9d0ab5f96f0c3909]: Commencement: Sch. 2 para. 66 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a3e119055f2f579d9d0ab5f96f0c3909]: Commencement: Sch. 2 para. 66 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-7af4f30ac0ed2faa0ee1aedacc767606]: Commencement: Sch. 2 para. 67 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7af4f30ac0ed2faa0ee1aedacc767606]: Commencement: Sch. 2 para. 67 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-7651c3a6676ea179101946d74664f8a2]: Commencement: Sch. 2 para. 68 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7651c3a6676ea179101946d74664f8a2]: Commencement: Sch. 2 para. 68 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-42364e2ff37c606081c5c31b21ed7a4a]: Modification: [Sch. 2 rule 68(2)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/68/2) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 51(2)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/51/2)
+[^c-42364e2ff37c606081c5c31b21ed7a4a]: Modification: [Sch. 2 rule 68(2)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/68/2) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 51(2)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/51/2)
 
-[^key-b7597927791a16f5b15f37c3ecdb1159]: Commencement: Sch. 2 para. 69 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-b7597927791a16f5b15f37c3ecdb1159]: Commencement: Sch. 2 para. 69 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-909922c72ee47ed07875cad16d9fc686]: Modification: [Sch. 2 rule 69](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/69) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 52(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/52/4)
+[^c-909922c72ee47ed07875cad16d9fc686]: Modification: [Sch. 2 rule 69](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/69) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 52(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/52/4)
 
 [^f00078]: Footnote: By virtue of paragraph 30(3) of Schedule 4, rule 69 (together with rules 68, 70 and 71(1)) also applies to the documents specified in that paragraph.
 
-[^key-9a939d92c7f71f49b8210002da1cf051]: Commencement: Sch. 2 para. 70 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-9a939d92c7f71f49b8210002da1cf051]: Commencement: Sch. 2 para. 70 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-479000382df83c1fe6ff679b0c50bd90]: Modification: [Sch. 2 rule 70](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/70) applied (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 52(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/52/3)
+[^c-479000382df83c1fe6ff679b0c50bd90]: Modification: [Sch. 2 rule 70](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/70) applied (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 52(3)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/52/3)
 
 [^f00079]: Footnote: Sections 13A and 13B were substituted by the 2000 Act, Schedule 1, paragraph 6. Section 13B was amended by the 2006 Act, section 11(4). Section 13BB was inserted by the Political Parties and Elections Act [2009 (c.12)](https://www.legislation.gov.uk/ukpga/2009/12), section 23(1).
 
-[^key-7497605d940356613e98869cce7bd23e]: Modification: [Sch. 2 rule 70(8)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/70/8) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 52(5)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/52/5)
+[^c-7497605d940356613e98869cce7bd23e]: Modification: [Sch. 2 rule 70(8)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/70/8) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 52(5)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/52/5)
 
-[^key-45fdf64f495bab7ba59679495eefeaf2]: Commencement: Sch. 2 para. 71 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-45fdf64f495bab7ba59679495eefeaf2]: Commencement: Sch. 2 para. 71 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-4a5d67ae104676605cd4d3af3be6b082]: Commencement: Sch. 2 para. 72 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4a5d67ae104676605cd4d3af3be6b082]: Commencement: Sch. 2 para. 72 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-c7b7d69ce1880a9393adeab1b7342107]: Commencement: Sch. 2 para. 73 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c7b7d69ce1880a9393adeab1b7342107]: Commencement: Sch. 2 para. 73 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-bff640c7e31f2eaf8e7c3b3a535de163]: Commencement: Sch. 2 para. 74 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-bff640c7e31f2eaf8e7c3b3a535de163]: Commencement: Sch. 2 para. 74 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-aa5a87f5451e52348d0cc4c3b6ef7948]: Commencement: Sch. 2 para. 75 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-aa5a87f5451e52348d0cc4c3b6ef7948]: Commencement: Sch. 2 para. 75 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-b67f85ed2c8a61ebeddf02164ceb7bc7]: Commencement: Sch. 2 para. 76 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-b67f85ed2c8a61ebeddf02164ceb7bc7]: Commencement: Sch. 2 para. 76 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-11283cb02a6d1450bd90cf4118e60280]: Commencement: Sch. 2 para. 77 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-11283cb02a6d1450bd90cf4118e60280]: Commencement: Sch. 2 para. 77 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00080]: Footnote: Section 8 is modified by rule 65.
 
-[^key-a2c157826b3853e118d77cf99e7dc71f]: Commencement: Sch. 2 para. 78 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-a2c157826b3853e118d77cf99e7dc71f]: Commencement: Sch. 2 para. 78 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-9d3233927f72ad08a85a72bc1e11cfce]: Modification: [Sch. 2 rule 78](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/78) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 54(2)-(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/54/2)
+[^c-9d3233927f72ad08a85a72bc1e11cfce]: Modification: [Sch. 2 rule 78](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/78) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 54(2)-(4)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/54/2)
 
-[^key-bcc9467497063e9b19cde779400153c6]: Modification: [Sch. 2 rule 78(10)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/78/10) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/54)
+[^c-bcc9467497063e9b19cde779400153c6]: Modification: [Sch. 2 rule 78(10)](https://www.legislation.gov.uk/uksi/2010/2999/schedule/2/rule/78/10) excluded (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2011/1/schedule/7/paragraph/54)
 
-[^key-7342842de0c94b8ae531d11e6a0e9798]: Commencement: Sch. 2 para. 79 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7342842de0c94b8ae531d11e6a0e9798]: Commencement: Sch. 2 para. 79 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

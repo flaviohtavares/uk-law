@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Pilotage
 
-### 1. Power to remove harbour authorities' pilotage functions[^key-9caa2c312ff394a28a3f364649a1cb93][^key-508a3280ac5b9dbd9f75e371299abd97]
+### 1. Power to remove harbour authorities' pilotage functions[^c-9caa2c312ff394a28a3f364649a1cb93][^c-508a3280ac5b9dbd9f75e371299abd97]
 
 (1) In section 1 of the Pilotage Act 1987 (meaning of “competent harbour authority”) after subsection (4) insert—
 
@@ -63,7 +63,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) In section 1A(1) (procedure for certain orders: Scotland) after “other than subsection (4)” insert “ or (4B) ”.
 
-### 2. Pilotage exemption certificates: grant[^key-56f5ecf9d2a29befe31693662d3f5feb][^key-525f9ebb3283593a03d579f0e7f22186]
+### 2. Pilotage exemption certificates: grant[^c-56f5ecf9d2a29befe31693662d3f5feb][^c-525f9ebb3283593a03d579f0e7f22186]
 
 (1) In section 8(1) of the Pilotage Act 1987 (grant)—
 
@@ -80,7 +80,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 .
 
-### 3. Pilotage exemption certificates: suspension and revocation[^key-1623e309ef2b304e35578b974911ba75][^key-0b66e4d86c6c2a868e862c76c8f88c0a]
+### 3. Pilotage exemption certificates: suspension and revocation[^c-1623e309ef2b304e35578b974911ba75][^c-0b66e4d86c6c2a868e862c76c8f88c0a]
 
 (1) After section 8 of the Pilotage Act 1987 insert—
 
@@ -119,7 +119,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) omit subsection (6) (revocation and suspension of certificates), and
 - (b) in subsection (7) (notice) omit “or suspending or revoking a certificate held by any person”.
 
-### 4. Pilotage notification[^key-b691cb9a214b9aabbd6f611aa0171f6b][^key-28c86143a40fd3a9bdaa9e2dc003288e]
+### 4. Pilotage notification[^c-b691cb9a214b9aabbd6f611aa0171f6b][^c-28c86143a40fd3a9bdaa9e2dc003288e]
 
 For section 15(3) of the Pilotage Act 1987 (notification by master navigating ship) substitute—
 
@@ -137,7 +137,7 @@ For section 15(3) of the Pilotage Act 1987 (notification by master navigating sh
 
 ## Harbour authorities
 
-### 5. Harbour directions[^key-566a8c0cc55f3a5cf9ef1582e1f3c0e2][^key-ef2808f3d7559eb237894aee5aabb0b4][^key-b3068edb93887f38131cfd065f00d976]
+### 5. Harbour directions[^c-566a8c0cc55f3a5cf9ef1582e1f3c0e2][^c-ef2808f3d7559eb237894aee5aabb0b4][^c-b3068edb93887f38131cfd065f00d976]
 
 (1) After section 40 of the Harbours Act 1964 insert—
 
@@ -231,7 +231,7 @@ For section 15(3) of the Pilotage Act 1987 (notification by master navigating sh
 
 .
 
-### 6. Harbour closure orders[^key-19c53aa10b160de949bbf495976c9044][^key-99eb48e492366763d96b92b7e7d03dbd][^key-9ccab084f78f2f4af9dfb8874c4a4bfc]
+### 6. Harbour closure orders[^c-19c53aa10b160de949bbf495976c9044][^c-99eb48e492366763d96b92b7e7d03dbd][^c-9ccab084f78f2f4af9dfb8874c4a4bfc]
 
 (1) After section 17 of the Harbours Act 1964 insert—
 
@@ -358,7 +358,7 @@ For section 15(3) of the Pilotage Act 1987 (notification by master navigating sh
 
 *Extent: E+W*
 
-### 7. Port constables: extension of jurisdiction in England and Wales[^key-850f82d4d362ef2ec65b4f95d75412bc]
+### 7. Port constables: extension of jurisdiction in England and Wales[^c-850f82d4d362ef2ec65b4f95d75412bc]
 
 (1) A port constable may, for policing purposes connected with the port constable's police area, act outside that area.
 
@@ -396,7 +396,7 @@ For section 15(3) of the Pilotage Act 1987 (notification by master navigating sh
 
 ## General lighthouse authorities
 
-### 8. General lighthouse authority areas[^key-76b6a2bcb0aff9f91f9477d7ca61ce09]
+### 8. General lighthouse authority areas[^c-76b6a2bcb0aff9f91f9477d7ca61ce09]
 
 (1) In section 193 of the Merchant Shipping Act 1995 (general lighthouse authorities etc) at the end insert—
 
@@ -409,7 +409,7 @@ For section 15(3) of the Pilotage Act 1987 (notification by master navigating sh
 
 (3) In section 255F (removal in default) omit subsection (4).
 
-### 9. General lighthouse authorities: commercial activities[^key-cccc3ef0816cde8087195bb3b38503a9]
+### 9. General lighthouse authorities: commercial activities[^c-cccc3ef0816cde8087195bb3b38503a9]
 
 (1) After section 197 of the Merchant Shipping Act 1995 insert—
 
@@ -444,7 +444,7 @@ For section 15(3) of the Pilotage Act 1987 (notification by master navigating sh
 
 ## Manning requirements and marking wrecks
 
-### 10. Manning requirements for ships[^key-21ce28cd56ec9b299721d27135b4f29f]
+### 10. Manning requirements for ships[^c-21ce28cd56ec9b299721d27135b4f29f]
 
 In section 47 of the Merchant Shipping Act 1995 (manning requirements) after subsection (4) insert—
 
@@ -455,7 +455,7 @@ In section 47 of the Merchant Shipping Act 1995 (manning requirements) after sub
 > - (a) made after the conditions are prescribed or specified, and
 > - (b) approved for the purposes of the regulations by the Secretary of State.
 
-### 11. Marking wrecks[^key-befd3e967bc7dc3713196964c5431777]
+### 11. Marking wrecks[^c-befd3e967bc7dc3713196964c5431777]
 
 (1) In section 252 of the Merchant Shipping Act 1995 (c. 21) (powers of harbour and conservancy authorities in relation to wrecks) in subsection (2)(b) for “light or buoy” substitute “ mark the location of ”.
 
@@ -494,40 +494,40 @@ This Act may be cited as the Marine Navigation Act 2013.
 
 ## Annotations
 
-[^key-9caa2c312ff394a28a3f364649a1cb93]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/23/section/1) in force at 1.10.2013 except in relation to S. by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-9caa2c312ff394a28a3f364649a1cb93]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/23/section/1) in force at 1.10.2013 except in relation to S. by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-508a3280ac5b9dbd9f75e371299abd97]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/23/section/1) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
+[^c-508a3280ac5b9dbd9f75e371299abd97]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/23/section/1) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
 
-[^key-56f5ecf9d2a29befe31693662d3f5feb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/23/section/2) in force at 1.10.2013 except in relation to S. by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-56f5ecf9d2a29befe31693662d3f5feb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/23/section/2) in force at 1.10.2013 except in relation to S. by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-525f9ebb3283593a03d579f0e7f22186]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/23/section/2) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
+[^c-525f9ebb3283593a03d579f0e7f22186]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/23/section/2) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
 
-[^key-1623e309ef2b304e35578b974911ba75]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/23/section/3) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
+[^c-1623e309ef2b304e35578b974911ba75]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/23/section/3) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
 
-[^key-0b66e4d86c6c2a868e862c76c8f88c0a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/23/section/3) in force at 1.10.2013 except in relation to S. by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-0b66e4d86c6c2a868e862c76c8f88c0a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/23/section/3) in force at 1.10.2013 except in relation to S. by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-b691cb9a214b9aabbd6f611aa0171f6b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/23/section/4) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
+[^c-b691cb9a214b9aabbd6f611aa0171f6b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/23/section/4) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
 
-[^key-28c86143a40fd3a9bdaa9e2dc003288e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/23/section/4) in force at 1.10.2013 except in relation to S. by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-28c86143a40fd3a9bdaa9e2dc003288e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/23/section/4) in force at 1.10.2013 except in relation to S. by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-566a8c0cc55f3a5cf9ef1582e1f3c0e2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/23/section/5) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
+[^c-566a8c0cc55f3a5cf9ef1582e1f3c0e2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/23/section/5) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
 
-[^key-ef2808f3d7559eb237894aee5aabb0b4]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/23/section/5) in force at 1.10.2013 for W. in so far as not already in force by [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
+[^c-ef2808f3d7559eb237894aee5aabb0b4]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/23/section/5) in force at 1.10.2013 for W. in so far as not already in force by [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
 
-[^key-b3068edb93887f38131cfd065f00d976]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/23/section/5) in force at 1.10.2013 except in relation to S., and to W. for specified purposes by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-b3068edb93887f38131cfd065f00d976]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/23/section/5) in force at 1.10.2013 except in relation to S., and to W. for specified purposes by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-19c53aa10b160de949bbf495976c9044]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/23/section/6) in force at 1.10.2013 for W. in so far as not already in force by [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
+[^c-19c53aa10b160de949bbf495976c9044]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/23/section/6) in force at 1.10.2013 for W. in so far as not already in force by [S.I. 2013/2006](https://www.legislation.gov.uk/wsi/2013/2006), [art. 2](https://www.legislation.gov.uk/wsi/2013/2006/article/2)
 
-[^key-99eb48e492366763d96b92b7e7d03dbd]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/23/section/6) in force at 1.10.2013 except in relation to S., and to W. for specified purposes by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
+[^c-99eb48e492366763d96b92b7e7d03dbd]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/23/section/6) in force at 1.10.2013 except in relation to S., and to W. for specified purposes by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 3](https://www.legislation.gov.uk/uksi/2013/1489/article/3)
 
-[^key-9ccab084f78f2f4af9dfb8874c4a4bfc]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/23/section/6) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
+[^c-9ccab084f78f2f4af9dfb8874c4a4bfc]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/23/section/6) in force at 1.10.2013 for S. by [S.S.I. 2013/254](https://www.legislation.gov.uk/ssi/2013/254), [art. 2](https://www.legislation.gov.uk/ssi/2013/254/article/2)
 
-[^key-850f82d4d362ef2ec65b4f95d75412bc]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/23/section/7) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
+[^c-850f82d4d362ef2ec65b4f95d75412bc]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/23/section/7) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
 
-[^key-76b6a2bcb0aff9f91f9477d7ca61ce09]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/23/section/8) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
+[^c-76b6a2bcb0aff9f91f9477d7ca61ce09]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/23/section/8) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
 
-[^key-cccc3ef0816cde8087195bb3b38503a9]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/23/section/9) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
+[^c-cccc3ef0816cde8087195bb3b38503a9]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/23/section/9) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
 
-[^key-21ce28cd56ec9b299721d27135b4f29f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/23/section/10) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
+[^c-21ce28cd56ec9b299721d27135b4f29f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/23/section/10) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
 
-[^key-befd3e967bc7dc3713196964c5431777]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/23/section/11) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)
+[^c-befd3e967bc7dc3713196964c5431777]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/23/section/11) in force at 26.6.2013 by [S.I. 2013/1489](https://www.legislation.gov.uk/uksi/2013/1489), [art. 2](https://www.legislation.gov.uk/uksi/2013/1489/article/2)

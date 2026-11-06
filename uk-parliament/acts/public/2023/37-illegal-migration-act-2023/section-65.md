@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Regulations[^key-e67d799fac17a8067583c180f1f12e5e]
+## 65. Regulations[^c-e67d799fac17a8067583c180f1f12e5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ may not be made unless a draft of the instrument has been laid before and approv
 
 ## Annotations
 
-[^key-e67d799fac17a8067583c180f1f12e5e]: Commencement: S. 65 in force at Royal Assent, see [s. 68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c)
+[^c-e67d799fac17a8067583c180f1f12e5e]: Commencement: S. 65 in force at Royal Assent, see [s. 68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c)

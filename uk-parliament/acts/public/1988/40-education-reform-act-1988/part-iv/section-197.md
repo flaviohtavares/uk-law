@@ -32,7 +32,7 @@ summary: ''
 
 (6) In exercising their functions under the Education Acts[^c12676201] the Board shall comply with any directions given to them by the Secretary of State.
 
-(7)[^c12676211][^c12676221] Any local authority[^key-dd8a5cd1b7a66756b606dd2897e7636c] and any governing body of a maintained[^c12676231] [^c12676241]. . . school shall give the Board such information as the Board may require for the purposes of the exercise of any of their functions under the Education Acts[^c12676251].
+(7)[^c12676211][^c12676221] Any local authority[^c-dd8a5cd1b7a66756b606dd2897e7636c] and any governing body of a maintained[^c12676231] [^c12676241]. . . school shall give the Board such information as the Board may require for the purposes of the exercise of any of their functions under the Education Acts[^c12676251].
 
 (7A)[^c12676261] A local authority shall give the Board, within such reasonable time as the Board may specify, such information as the Board may require for the purposes of the exercise of any of their functions under the Further and Higher Education Act 1992 or under section 126 or 130 of this Act.
 
@@ -56,7 +56,7 @@ summary: ''
 
 [^c12676221]: Modification: S. 197(7) applied (with modifications) (9.5.1994) by [S.I. 1994/1084](https://www.legislation.gov.uk/uksi/1994/1084), [reg. 8(1)](https://www.legislation.gov.uk/uksi/1994/1084/regulation/8/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1994/1084/schedule/2/part/I).
 
-[^key-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
+[^c-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
 
 [^c12676231]: Textual amendment: Words in s. 197(7) inserted (1.1.1994) by [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35), [s. 47(5)](https://www.legislation.gov.uk/ukpga/1993/35/section/47/5); [S.I. 1993/3106](https://www.legislation.gov.uk/uksi/1993/3106), [art. 4](https://www.legislation.gov.uk/uksi/1993/3106/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/3106/schedule/1) (as amended by [S.I. 1994/436](https://www.legislation.gov.uk/uksi/1994/436), [art. 2](https://www.legislation.gov.uk/uksi/1994/436/article/2)); (which insertion is continued after the repeal of [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)(3)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2/3), [583](https://www.legislation.gov.uk/ukpga/1996/56/section/583), [Sch. 38 Pt. I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))).
 

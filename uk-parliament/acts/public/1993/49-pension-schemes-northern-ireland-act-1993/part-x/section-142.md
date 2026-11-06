@@ -45,7 +45,7 @@ summary: ''
 and in a case falling within sub-paragraph (ii) references in this Part to the scheme to which the reference relates are references to each of the schemes,[^c11728911]
 
 - (e) any dispute not falling within paragraph (f) between different trustees of the same occupational pension scheme,
-- (f) any dispute, in relation to a time while Article 22 of the Pensions (Northern Ireland) Order 1995 (circumstances in which the Regulatory Authority may appoint an independent trustee) applies in relation to an occupational pension scheme, between an independent trustee of the scheme appointed under Article 23(1) of that Order and either—[^key-cd8f9f618690bb29c3e3342dffc6191c]
+- (f) any dispute, in relation to a time while Article 22 of the Pensions (Northern Ireland) Order 1995 (circumstances in which the Regulatory Authority may appoint an independent trustee) applies in relation to an occupational pension scheme, between an independent trustee of the scheme appointed under Article 23(1) of that Order and either—[^c-cd8f9f618690bb29c3e3342dffc6191c]
   - (i) other trustees of the scheme, or
   - (ii) former trustees of the scheme who were not independent trustees appointed under Article 23(1) of that Order, and
 - (g) any question relating, in the case of an occupational pension scheme with a sole trustee, to the carrying out of the functions of that trustee.
@@ -78,7 +78,7 @@ but, in relation to a person falling within one of those paragraphs, references 
 
 as if for the purposes of this Part he were a person responsible for the management of the scheme.
 
-(4A)[^key-a5c11312b592e008bb4a6eca00574434] For the purposes of subsection (4) a person or body of persons is concerned with the administration of an occupational or personal pension scheme where the person or body is responsible for carrying out an act of administration concerned with the scheme.
+(4A)[^c-a5c11312b592e008bb4a6eca00574434] For the purposes of subsection (4) a person or body of persons is concerned with the administration of an occupational or personal pension scheme where the person or body is responsible for carrying out an act of administration concerned with the scheme.
 
 (5) The Pensions Ombudsman may investigate a complaint or dispute notwithstanding that it arose, or relates to a matter which arose, before 1st October 1990 (the date on which the provisions under which his office was constituted came into force).
 
@@ -93,11 +93,11 @@ as if for the purposes of this Part he were a person responsible for the managem
 (7) The persons who, for the purposes of this Part are ' **[^c11728971]actual or potential beneficiaries**'in relation to a scheme are—
 
 - (a) a member of the scheme;
-- (b) the widow, widower or surviving civil partner[^key-8d808aa3139836830b13d65c6969b108], or any surviving dependant, of a deceased member of the scheme;
+- (b) the widow, widower or surviving civil partner[^c-8d808aa3139836830b13d65c6969b108], or any surviving dependant, of a deceased member of the scheme;
 - (ba)[^c11728981] a person who is entitled to a pension credit as against the trustees or managers of the scheme;
-- (bb)[^key-22fca427ef92d5cb170cbb7ea08c0ef5] a person who has given notice in accordance with section 8 of the Pensions (No. 2) Act (Northern Ireland) 2008 (right to opt out of membership of an automatic enrolment scheme);
+- (bb)[^c-22fca427ef92d5cb170cbb7ea08c0ef5] a person who has given notice in accordance with section 8 of the Pensions (No. 2) Act (Northern Ireland) 2008 (right to opt out of membership of an automatic enrolment scheme);
 - (c) where the complaint or dispute relates to the question—
-  - (i) whether a person who claims to be such a person as is mentioned in paragraph (a), (b)[^c11728991] , (ba) or (bb)[^key-ac13da18725dae8790993d8c455afc6d] is such a person, or
+  - (i) whether a person who claims to be such a person as is mentioned in paragraph (a), (b)[^c11728991] , (ba) or (bb)[^c-ac13da18725dae8790993d8c455afc6d] is such a person, or
   - (ii) whether a person who claims to be entitled to become a member of the scheme is so entitled,
 
   the person so claiming.
@@ -108,7 +108,7 @@ as if for the purposes of this Part he were a person responsible for the managem
   - (a) who is or has been an employer in relation to the scheme, or
   - (b) who is or has been treated under section 176(2) as an employer in relation to the scheme for the purposes of any provision of this Act, or under section 181(2) of the [^c11729001]Pension Schemes Act 1993 as an employer in relation to the scheme for the purposes of any provision of that Act;
 - “independent trustee”, in relation to a scheme, means—[^c11729011]
-- (a) a trustee of the scheme appointed under Article 23(1) of the Pensions (Northern Ireland) Order 1995 (appointment of independent trustee by the Regulatory Authority)[^key-4d77dea0e4f1052b1e0d2a2eedbffbde]
+- (a) a trustee of the scheme appointed under Article 23(1) of the Pensions (Northern Ireland) Order 1995 (appointment of independent trustee by the Regulatory Authority)[^c-4d77dea0e4f1052b1e0d2a2eedbffbde]
 - (b) a person appointed under Article 7(1) of that Order to replace a trustee falling within paragraph (a) or this paragraph;
 
 - “**member**”, in relation to a pension scheme, includes a person—
@@ -133,7 +133,7 @@ and in this subsection “**pensionable service**” includes pensionable servic
 
 [^c11728911]: Textual amendment: Words in s. 142(1)(d) and s. 142(1)(e)-(g) substituted (1.12.2000) for words in s. 142(1)(d) by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 49(3)](https://www.legislation.gov.uk/nia/2000/4/section/49/3) (with [s. 66(6)](https://www.legislation.gov.uk/nia/2000/4/section/66/6)); [S.R. 2000/374](https://www.legislation.gov.uk/nisr/2000/374), [art. 2(a)](https://www.legislation.gov.uk/nisr/2000/374/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2000/374/schedule/part/I)
 
-[^key-cd8f9f618690bb29c3e3342dffc6191c]: Textual amendment: S. 142(1)(f) substituted (6.4.2005) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 10 para. 19(a)](https://www.legislation.gov.uk/nisi/2005/255/schedule/10/paragraph/19/a); [S.R. 2005/48](https://www.legislation.gov.uk/nisr/2005/48), [art. 2(7)](https://www.legislation.gov.uk/nisr/2005/48/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/nisr/2005/48/schedule/part/7)
+[^c-cd8f9f618690bb29c3e3342dffc6191c]: Textual amendment: S. 142(1)(f) substituted (6.4.2005) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 10 para. 19(a)](https://www.legislation.gov.uk/nisi/2005/255/schedule/10/paragraph/19/a); [S.R. 2005/48](https://www.legislation.gov.uk/nisr/2005/48), [art. 2(7)](https://www.legislation.gov.uk/nisr/2005/48/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/nisr/2005/48/schedule/part/7)
 
 [^c11728921]: Textual amendment: S. 142(1A)(1B) inserted (1.12.2000) by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 49(4)](https://www.legislation.gov.uk/nia/2000/4/section/49/4) (with [s. 66(6)](https://www.legislation.gov.uk/nia/2000/4/section/66/6)); [S.R. 2000/374](https://www.legislation.gov.uk/nisr/2000/374), [art. 2(a)](https://www.legislation.gov.uk/nisr/2000/374/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2000/374/schedule/part/I)
 
@@ -141,7 +141,7 @@ and in this subsection “**pensionable service**” includes pensionable servic
 
 [^c11728941]: Textual amendment: S. 142(3A) repealed (1.12.2000) by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 67](https://www.legislation.gov.uk/nia/2000/4/section/67), [Sch. 9 Pt. III(3)](https://www.legislation.gov.uk/nia/2000/4/schedule/9/part/III/3) (with [s. 66(6)](https://www.legislation.gov.uk/nia/2000/4/section/66/6)); [S.R. 2000/374](https://www.legislation.gov.uk/nisr/2000/374), [art. 2(a)](https://www.legislation.gov.uk/nisr/2000/374/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2000/374/schedule/part/I)
 
-[^key-a5c11312b592e008bb4a6eca00574434]: Textual amendment: S. 142(4A) inserted (6.4.2005) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [252](https://www.legislation.gov.uk/nisi/2005/255/article/252) (with [art. 285(5)](https://www.legislation.gov.uk/nisi/2005/255/article/285/5)); [S.R. 2005/48](https://www.legislation.gov.uk/nisr/2005/48), [art. 2(7)](https://www.legislation.gov.uk/nisr/2005/48/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/nisr/2005/48/schedule/part/7)
+[^c-a5c11312b592e008bb4a6eca00574434]: Textual amendment: S. 142(4A) inserted (6.4.2005) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [252](https://www.legislation.gov.uk/nisi/2005/255/article/252) (with [art. 285(5)](https://www.legislation.gov.uk/nisi/2005/255/article/285/5)); [S.R. 2005/48](https://www.legislation.gov.uk/nisr/2005/48), [art. 2(7)](https://www.legislation.gov.uk/nisr/2005/48/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/nisr/2005/48/schedule/part/7)
 
 [^c11728951]: Modification: S. 142(6) modified (1.12.2000) by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 49(10)](https://www.legislation.gov.uk/nia/2000/4/section/49/10) (with [s. 66(6)](https://www.legislation.gov.uk/nia/2000/4/section/66/6)); [S.R. 2000/374](https://www.legislation.gov.uk/nisr/2000/374), [art. 2(a)](https://www.legislation.gov.uk/nisr/2000/374/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2000/374/schedule/part/I)
 
@@ -149,15 +149,15 @@ and in this subsection “**pensionable service**” includes pensionable servic
 
 [^c11728971]: Textual amendment: Words in s. 142(7) substituted (6.4.1997) by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), [art. 153(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/153/3); [S.R. 1997/192](https://www.legislation.gov.uk/nisr/1997/192), [art. 2(b)](https://www.legislation.gov.uk/nisr/1997/192/article/2/b)
 
-[^key-8d808aa3139836830b13d65c6969b108]: Textual amendment: Words in s. 142(7)(b) substituted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/434)](https://www.legislation.gov.uk/nisr/2005/434), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/434/article/1/3), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2005/434/schedule/paragraph/17)
+[^c-8d808aa3139836830b13d65c6969b108]: Textual amendment: Words in s. 142(7)(b) substituted (5.12.2005) by [The Civil Partnership (Pensions and Benefit Payments) (Consequential, etc. Provisions) Order (Northern Ireland) 2005 (S.R. 2005/434)](https://www.legislation.gov.uk/nisr/2005/434), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/434/article/1/3), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2005/434/schedule/paragraph/17)
 
 [^c11728981]: Textual amendment: S. 142(7)(ba) inserted (1.12.2000) by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 49(7)(a)](https://www.legislation.gov.uk/nia/2000/4/section/49/7/a) (with [s. 66(6)](https://www.legislation.gov.uk/nia/2000/4/section/66/6)); [S.R. 2000/374](https://www.legislation.gov.uk/nisr/2000/374), [art. 2(a)](https://www.legislation.gov.uk/nisr/2000/374/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2000/374/schedule/part/I)
 
-[^key-22fca427ef92d5cb170cbb7ea08c0ef5]: Textual amendment: S. 142(7)(bb) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 64(2)](https://www.legislation.gov.uk/nia/2008/13/section/64/2), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-22fca427ef92d5cb170cbb7ea08c0ef5]: Textual amendment: S. 142(7)(bb) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 64(2)](https://www.legislation.gov.uk/nia/2008/13/section/64/2), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
 
 [^c11728991]: Textual amendment: Words in s. 142(7)(c)(i) substituted (1.12.2000) by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 49(7)(b)](https://www.legislation.gov.uk/nia/2000/4/section/49/7/b) (with [s. 66(6)](https://www.legislation.gov.uk/nia/2000/4/section/66/6)); [S.R. 2000/374](https://www.legislation.gov.uk/nisr/2000/374), [art. 2(a)](https://www.legislation.gov.uk/nisr/2000/374/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2000/374/schedule/part/I)
 
-[^key-ac13da18725dae8790993d8c455afc6d]: Textual amendment: Words in s. 142(7)(c)(i) substituted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 64(3)](https://www.legislation.gov.uk/nia/2008/13/section/64/3), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-ac13da18725dae8790993d8c455afc6d]: Textual amendment: Words in s. 142(7)(c)(i) substituted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 64(3)](https://www.legislation.gov.uk/nia/2008/13/section/64/3), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
 
 [^c11729001]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
@@ -167,7 +167,7 @@ and in this subsection “**pensionable service**” includes pensionable servic
 
     inserted (1.12.2000) by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 49(8)](https://www.legislation.gov.uk/nia/2000/4/section/49/8) (with [s. 66(6)](https://www.legislation.gov.uk/nia/2000/4/section/66/6)); [S.R. 2000/374](https://www.legislation.gov.uk/nisr/2000/374), [art. 2(a)](https://www.legislation.gov.uk/nisr/2000/374/article/2/a), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2000/374/schedule/part/I)
 
-[^key-4d77dea0e4f1052b1e0d2a2eedbffbde]: Textual amendment: Words in s. 142(8) substituted (6.4.2005) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 10 para. 19(c)](https://www.legislation.gov.uk/nisi/2005/255/schedule/10/paragraph/19/c); [S.R. 2005/48](https://www.legislation.gov.uk/nisr/2005/48), [art. 2(7)](https://www.legislation.gov.uk/nisr/2005/48/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/nisr/2005/48/schedule/part/7)
+[^c-4d77dea0e4f1052b1e0d2a2eedbffbde]: Textual amendment: Words in s. 142(8) substituted (6.4.2005) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 10 para. 19(c)](https://www.legislation.gov.uk/nisi/2005/255/schedule/10/paragraph/19/c); [S.R. 2005/48](https://www.legislation.gov.uk/nisr/2005/48), [art. 2(7)](https://www.legislation.gov.uk/nisr/2005/48/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/nisr/2005/48/schedule/part/7)
 
 [^c11729021]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 

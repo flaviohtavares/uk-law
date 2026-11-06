@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Decision notice[^key-d8ec7ec3b892bca82eefc8c0ccf7735a]
+## 44. Decision notice[^c-d8ec7ec3b892bca82eefc8c0ccf7735a]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ it must give the person a decision notice.
 
 ## Annotations
 
-[^key-d8ec7ec3b892bca82eefc8c0ccf7735a]: Commencement: Reg. 44 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-d8ec7ec3b892bca82eefc8c0ccf7735a]: Commencement: Reg. 44 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
 
 [^f00043]: Footnote: Section 393(4) was amended by paragraph 32 of Schedule 9 to the Financial Services Act 2012.

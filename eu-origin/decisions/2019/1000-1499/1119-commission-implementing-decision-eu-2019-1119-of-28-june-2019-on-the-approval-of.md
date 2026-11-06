@@ -120,7 +120,7 @@ The LED light or the combination of LED lights forming the efficient LED lightin
 
 2. An application for the certification of the savings from one or a combination of efficient LED lighting shall be accompanied by an independent verification report confirming that the conditions set out in paragraph 1 are met.
 
-3. The Secretary of State[^key-2ab40822c9a347cb5981fc53150e0a40] shall reject the application for certification if Secretary of State[^key-2714821fd96d1b5f917ed35ece1c7cbc] finds that the conditions set out in paragraph 1 are not met.
+3. The Secretary of State[^c-2ab40822c9a347cb5981fc53150e0a40] shall reject the application for certification if Secretary of State[^c-2714821fd96d1b5f917ed35ece1c7cbc] finds that the conditions set out in paragraph 1 are not met.
 
 ## Article 4. Certification of CO<sub>2</sub> savings
 
@@ -133,7 +133,7 @@ The LED light or the combination of LED lights forming the efficient LED lightin
 - ((a)) for a bi-fuel vehicle using petrol and gaseous fuels, the CO<sub> 2 </sub> savings with regard to LPG or CNG fuels;
 - ((b)) for a flex-fuel vehicle using petrol and E85, the CO<sub> 2 </sub> savings with regard to petrol.
 
-3. The Secretary of State[^key-800f3563f9f782e77332527957a47335] shall record the verification report and the test results on the basis of which the savings were determined [^key-02c8d8c80c580fd263945d4ccf711290]....
+3. The Secretary of State[^c-800f3563f9f782e77332527957a47335] shall record the verification report and the test results on the basis of which the savings were determined [^c-02c8d8c80c580fd263945d4ccf711290]....
 
 ## Article 5. Transitional period and eco-innovation codes[^c000002]
 
@@ -143,7 +143,7 @@ The LED light or the combination of LED lights forming the efficient LED lightin
 
 3. CO <sub> 2 </sub> savings recorded by reference to the eco-innovation code No 28 or No 37 may be taken into account for the calculation of the average specific emissions of a manufacturer starting from calendar year 2021.
 
-## Article 6. Entry into force[^key-e57028d1af7ecac7e37332cd3ec0bd6c]
+## Article 6. Entry into force[^c-e57028d1af7ecac7e37332cd3ec0bd6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -697,19 +697,19 @@ Where the total CO<sub>2</sub> emission savings of the efficient LED lighting as
 
 [^f00010]: Footnote: Directive 2007/46/EC of the European Parliament and the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) ([OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG)).
 
-[^key-2ab40822c9a347cb5981fc53150e0a40]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eudn/2019/1119/article/3/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/2/a)
+[^c-2ab40822c9a347cb5981fc53150e0a40]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eudn/2019/1119/article/3/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/2/a)
 
-[^key-2714821fd96d1b5f917ed35ece1c7cbc]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eudn/2019/1119/article/3/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/2/b)
+[^c-2714821fd96d1b5f917ed35ece1c7cbc]: Textual amendment: Words in [Art. 3(3)](https://www.legislation.gov.uk/eudn/2019/1119/article/3/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/2/b)
 
 [^c000001]: Textual amendment: Inserted by [Commission Implementing Decision (EU) 2020/1714 of 16 November 2020 amending Implementing Decision (EU) 2019/1119 as regards the testing methodology for certain not-off vehicle charging hybrid electric passenger cars and to take into account the use of alternative fuels and Implementing Decision (EU) 2020/1339 as regards rear position lamps (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2020/1714).
 
-[^key-800f3563f9f782e77332527957a47335]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eudn/2019/1119/article/4/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/3/a)
+[^c-800f3563f9f782e77332527957a47335]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eudn/2019/1119/article/4/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/3/a)
 
-[^key-02c8d8c80c580fd263945d4ccf711290]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eudn/2019/1119/article/4/3) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(3)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/3/b)
+[^c-02c8d8c80c580fd263945d4ccf711290]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eudn/2019/1119/article/4/3) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(3)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/3/b)
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2020/1714 of 16 November 2020 amending Implementing Decision (EU) 2019/1119 as regards the testing methodology for certain not-off vehicle charging hybrid electric passenger cars and to take into account the use of alternative fuels and Implementing Decision (EU) 2020/1339 as regards rear position lamps (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2020/1714).
 
-[^key-e57028d1af7ecac7e37332cd3ec0bd6c]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2019/1119/article/6) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/4)
+[^c-e57028d1af7ecac7e37332cd3ec0bd6c]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2019/1119/article/6) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/6/4)
 
 [^f00011]: Footnote: [OJ L 4, 7.1.2012, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.004.01.0017.01.ENG).
 

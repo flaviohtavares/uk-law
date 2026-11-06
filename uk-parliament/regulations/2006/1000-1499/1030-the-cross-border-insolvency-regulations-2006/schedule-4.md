@@ -26,13 +26,13 @@ Regulation 6
 
 (1) In this Schedule—
 
-- [^key-33c5ef0f5f7370f9f1374955ee790e22]...
+- [^c-33c5ef0f5f7370f9f1374955ee790e22]...
 - “**electronic communication**” means the same as in the Electronic Communications Act 2000 [^c15463451];
 - “**Model Law notice**” means a notice delivered to the registrar of companies under paragraph 26(6) of Schedule 2 or paragraph 7(4) of Schedule 3.
 
 (2) Expressions defined in the Model Law or Schedule 2 or 3, as appropriate, have the same meaning when used in this Schedule.
 
-(3)[^key-0cf96539f28b4de2b8bc7b3067093a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0cf96539f28b4de2b8bc7b3067093a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Functions of the registrar of companies
 
@@ -96,11 +96,11 @@ and that the court directs should be removed from the register.
 
 ## Annotations
 
-[^key-33c5ef0f5f7370f9f1374955ee790e22]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/uksi/2006/1030/schedule/4/paragraph/1/1) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(5)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/5/a)
+[^c-33c5ef0f5f7370f9f1374955ee790e22]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/uksi/2006/1030/schedule/4/paragraph/1/1) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(5)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/5/a)
 
 [^c15463451]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-0cf96539f28b4de2b8bc7b3067093a7d]: Textual amendment: [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/uksi/2006/1030/schedule/4/paragraph/1/3) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(5)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/5/b)
+[^c-0cf96539f28b4de2b8bc7b3067093a7d]: Textual amendment: [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/uksi/2006/1030/schedule/4/paragraph/1/3) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 264(5)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/264/5/b)
 
 [^c15463461]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); [section 690A](https://www.legislation.gov.uk/uksi/2006/1030/section/690A) was inserted by S.l. 1992/3179.
 

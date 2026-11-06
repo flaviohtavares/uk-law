@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Account to specify amount of added pension[^key-cede17ff3ac537c04b43a5a88aff6ba9]
+## 48. Account to specify amount of added pension[^c-cede17ff3ac537c04b43a5a88aff6ba9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cede17ff3ac537c04b43a5a88aff6ba9]: Commencement: Reg. 48 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-cede17ff3ac537c04b43a5a88aff6ba9]: Commencement: Reg. 48 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

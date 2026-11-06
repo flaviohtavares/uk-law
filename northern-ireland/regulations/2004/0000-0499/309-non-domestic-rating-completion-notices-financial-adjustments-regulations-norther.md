@@ -31,7 +31,7 @@ summary: ''
 
 RATES
 
-Non-Domestic Rating (Completion Notices) (Financial Adjustments) Regulations (Northern Ireland) 2004 (revoked)[^key-325442c860db1d11fa5170daadac5086]
+Non-Domestic Rating (Completion Notices) (Financial Adjustments) Regulations (Northern Ireland) 2004 (revoked)[^c-325442c860db1d11fa5170daadac5086]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 20th August 2004
 
-[^key-325442c860db1d11fa5170daadac5086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-325442c860db1d11fa5170daadac5086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-325442c860db1d11fa5170daadac5086]
+## 1. Citation and commencement[^c-325442c860db1d11fa5170daadac5086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Financial adjustments[^key-325442c860db1d11fa5170daadac5086]
+## 2. Financial adjustments[^c-325442c860db1d11fa5170daadac5086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-325442c860db1d11fa5170daadac5086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-325442c860db1d11fa5170daadac5086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-325442c860db1d11fa5170daadac5086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-325442c860db1d11fa5170daadac5086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-325442c860db1d11fa5170daadac5086]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/309) revoked (1.10.2011) by [Rates (Completion Notices) (Financial Adjustments) Regulations (Northern Ireland) 2011 (S.R. 2011/42)](https://www.legislation.gov.uk/nisr/2011/42), [regs. 1](https://www.legislation.gov.uk/nisr/2011/42/regulation/1), [3](https://www.legislation.gov.uk/nisr/2011/42/regulation/3)
+[^c-325442c860db1d11fa5170daadac5086]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/309) revoked (1.10.2011) by [Rates (Completion Notices) (Financial Adjustments) Regulations (Northern Ireland) 2011 (S.R. 2011/42)](https://www.legislation.gov.uk/nisr/2011/42), [regs. 1](https://www.legislation.gov.uk/nisr/2011/42/regulation/1), [3](https://www.legislation.gov.uk/nisr/2011/42/regulation/3)

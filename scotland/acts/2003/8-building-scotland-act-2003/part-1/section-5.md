@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Compliance with guidance documents[^key-b658eaeec0e191b17eb41288ee0fa114]
+## 5. Compliance with guidance documents[^c-b658eaeec0e191b17eb41288ee0fa114]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b658eaeec0e191b17eb41288ee0fa114]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2003/8/section/5) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-b658eaeec0e191b17eb41288ee0fa114]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2003/8/section/5) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

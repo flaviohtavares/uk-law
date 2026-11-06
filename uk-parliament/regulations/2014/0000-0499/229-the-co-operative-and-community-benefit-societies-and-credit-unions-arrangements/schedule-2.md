@@ -29,15 +29,15 @@ Article 2(3)
 - (c) a reference to a company includes a reference to a relevant society;
 - (d) a reference to a company's creditors does not include a reference to a member of a relevant society to whom an amount is owed by the society if, but only in so far as, the amount concerned is owed in respect of the member's shares;
 - (e) a reference to the directors of a company is a reference to the members of the committee of a relevant society;
-- (f) a reference to a member of a company is a reference to a person whose name is entered as a member in the register kept by a relevant society in accordance with section 30(1) of the[^key-46f4fa86c57d388a584901c06c4d5a78] 2014 Act;
+- (f) a reference to a member of a company is a reference to a person whose name is entered as a member in the register kept by a relevant society in accordance with section 30(1) of the[^c-46f4fa86c57d388a584901c06c4d5a78] 2014 Act;
 - (g) a reference to an officer of a company is a reference to an officer of a relevant society; and
-- (h) a reference to the registrar is a reference to the FCA in its capacity as the authority responsible for the registration of a relevant society under the[^key-93d53397fe94898e7337a1734493e8a8] 2014 Act.
+- (h) a reference to the registrar is a reference to the FCA in its capacity as the authority responsible for the registration of a relevant society under the[^c-93d53397fe94898e7337a1734493e8a8] 2014 Act.
 
 **2.** Part 26 of the 2006 Act applies in relation to a relevant society with the further modifications set out in the following paragraphs of this Schedule and with any other necessary modification.
 
 **3.** In section 895 (application of Part 26) subsection (2) has effect as if after the definition of “company” there were inserted—
 
-> “**relevant society**” means a registered society (within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014) which[^key-d8430daaa8dd325f179a1025b7693d82] is not—
+> “**relevant society**” means a registered society (within the meaning given by section 1(1) of the Co-operative and Community Benefit Societies Act 2014) which[^c-d8430daaa8dd325f179a1025b7693d82] is not—
 >
 > - (a) a private registered provider of social housing; or
 > - (b) registered as a social landlord under Part 1 of the Housing Act 1996 or under Part 2 of the Housing (Scotland) Act 2010.
@@ -55,14 +55,14 @@ Article 2(3)
 >
 > (4B) An order under this section may only be made with respect to the compromise or arrangement if the Financial Conduct Authority—
 >
-> - (a) is satisfied that the compromise or arrangement is not contrary to the rules of the society or the provisions of the[^key-b5747a2a4295383a6878ade95b4b30d4] 2014 Act or the Credit Unions Act 1979; and
+> - (a) is satisfied that the compromise or arrangement is not contrary to the rules of the society or the provisions of the[^c-b5747a2a4295383a6878ade95b4b30d4] 2014 Act or the Credit Unions Act 1979; and
 > - (b) has issued a statement to that effect.
 
 .
 
 **6.** Section 901 (obligations of company with respect to articles etc.) has effect as if after subsection (1) there were inserted—
 
-> (1A) Where, in the case of a relevant society, the compromise or arrangement includes provision for amending the society's rules, the order may be made only if the Financial Conduct Authority has issued a statement to the effect that it would register an amendment in the terms proposed if copies were given to it for registration in accordance with section 16 of the Co-operative and Community Benefit Societies Act 2014[^key-f77b1647b31c90bd8fd6fbb0b396284b].
+> (1A) Where, in the case of a relevant society, the compromise or arrangement includes provision for amending the society's rules, the order may be made only if the Financial Conduct Authority has issued a statement to the effect that it would register an amendment in the terms proposed if copies were given to it for registration in accordance with section 16 of the Co-operative and Community Benefit Societies Act 2014[^c-f77b1647b31c90bd8fd6fbb0b396284b].
 >
 > (1B) Subsection (1A) does not apply if the intended effect of the compromise or arrangement is that the society will cease to be registered under that Act.
 
@@ -82,11 +82,11 @@ Article 2(3)
 
 ## Annotations
 
-[^key-46f4fa86c57d388a584901c06c4d5a78]: Textual amendment: Words in Sch. 2 para. 1(f) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/a/i)
+[^c-46f4fa86c57d388a584901c06c4d5a78]: Textual amendment: Words in Sch. 2 para. 1(f) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/a/i)
 
-[^key-93d53397fe94898e7337a1734493e8a8]: Textual amendment: Words in Sch. 2 para. 1(h) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/a/ii)
+[^c-93d53397fe94898e7337a1734493e8a8]: Textual amendment: Words in Sch. 2 para. 1(h) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/a/ii)
 
-[^key-d8430daaa8dd325f179a1025b7693d82]: Textual amendment: Words in Sch. 2 para. 3 substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/b)
+[^c-d8430daaa8dd325f179a1025b7693d82]: Textual amendment: Words in Sch. 2 para. 3 substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/b)
 
 [^c22009371]: Marginal citation: Section 899 was amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948) and 2011/1265.
 
@@ -94,9 +94,9 @@ Article 2(3)
 
 [^c22009391]: Marginal citation: For the meaning of “contributory” see section 79 of the 1986 Act, which has effect in relation to a relevant society with the modification in paragraph 1(b) of Schedule 1 to this Order.
 
-[^key-b5747a2a4295383a6878ade95b4b30d4]: Textual amendment: Words in Sch. 2 para. 5 substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/c)
+[^c-b5747a2a4295383a6878ade95b4b30d4]: Textual amendment: Words in Sch. 2 para. 5 substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/c)
 
-[^key-f77b1647b31c90bd8fd6fbb0b396284b]: Textual amendment: Words in Sch. 2 para. 6 substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(d)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/d)
+[^c-f77b1647b31c90bd8fd6fbb0b396284b]: Textual amendment: Words in Sch. 2 para. 6 substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6(d)](https://www.legislation.gov.uk/uksi/2014/1822/article/6/d)
 
 [^c22009401]: Marginal citation: Sections 2B and 3A were substituted by the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 6(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/6/1), which substituted new Part 1A of FSMA.
 

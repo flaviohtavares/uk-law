@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Prohibition against assignation or subletting[^key-50a442cf779dc14256564997c58a24af]
+## 130. Prohibition against assignation or subletting[^c-50a442cf779dc14256564997c58a24af]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50a442cf779dc14256564997c58a24af]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2015/6/section/130) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-50a442cf779dc14256564997c58a24af]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2015/6/section/130) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

@@ -29,7 +29,7 @@ summary: ''
 
 (2) Any person from whom any duty is due shall pay the duty at such time and in such manner as may be prescribed or specified.
 
-(2A)[^key-f816e491311c7c1f0ed4ec5a29b949b7] Regulations may require a prescribed person to make, at prescribed times during a prescribed period, payments based on an estimate of what the person's liability will be for duty charged in the period.
+(2A)[^c-f816e491311c7c1f0ed4ec5a29b949b7] Regulations may require a prescribed person to make, at prescribed times during a prescribed period, payments based on an estimate of what the person's liability will be for duty charged in the period.
 
 (2B) The estimate and the amounts of the payments are to be determined in accordance with provision made by the regulations.
 
@@ -48,4 +48,4 @@ or both.
 
 ## Annotations
 
-[^key-f816e491311c7c1f0ed4ec5a29b949b7]: Textual amendment: S. 38(2A)-(2D) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 186(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/186/1)
+[^c-f816e491311c7c1f0ed4ec5a29b949b7]: Textual amendment: S. 38(2A)-(2D) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 186(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/186/1)

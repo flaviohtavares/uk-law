@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Scottish share of emissions from international aviation and international shipping[^key-306f390188bca662ce84cb4f2a6bedb7]
+## 16. Scottish share of emissions from international aviation and international shipping[^c-306f390188bca662ce84cb4f2a6bedb7]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-306f390188bca662ce84cb4f2a6bedb7]: Commencement: S. 16 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-306f390188bca662ce84cb4f2a6bedb7]: Commencement: S. 16 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

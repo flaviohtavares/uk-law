@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 414CZA. Section 172(1) statement[^key-59d2a542472bae4c69be8ba331cee8c3][^key-dad63577b1944f4e84da593288ed18df]
+## 414CZA. Section 172(1) statement[^c-59d2a542472bae4c69be8ba331cee8c3][^c-dad63577b1944f4e84da593288ed18df]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59d2a542472bae4c69be8ba331cee8c3]: Textual amendment: S. 414CZA inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/860/regulation/4)
+[^c-59d2a542472bae4c69be8ba331cee8c3]: Textual amendment: S. 414CZA inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/860/regulation/4)
 
-[^key-dad63577b1944f4e84da593288ed18df]: Textual amendment: Pt. 15 Ch. 4A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3),[3](https://www.legislation.gov.uk/uksi/2013/1970/regulation/3)
+[^c-dad63577b1944f4e84da593288ed18df]: Textual amendment: Pt. 15 Ch. 4A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3),[3](https://www.legislation.gov.uk/uksi/2013/1970/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amendment of regulation 108[^key-c23189db9126ead15de45ded290986cf]
+## 50. Amendment of regulation 108[^c-c23189db9126ead15de45ded290986cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 108—
 
 ## Annotations
 
-[^key-c23189db9126ead15de45ded290986cf]: Commencement: Reg. 50 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-c23189db9126ead15de45ded290986cf]: Commencement: Reg. 50 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

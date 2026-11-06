@@ -48,21 +48,21 @@ Coming into force
 
 The Secretary of State makes the following Rules in exercise of the powers conferred by section 411 of the Insolvency Act 1986[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-120d4dbb96984adf670bf86377cc2c25]
+## 1. Citation, commencement and interpretation[^c-120d4dbb96984adf670bf86377cc2c25]
 
 (1) These Rules may be cited as the Insolvency (Scotland) Amendment Rules 2008 and shall come into force on 6th April 2008 (“**the commencement date**”).
 
 (2) In these Rules “the 1986 Rules” means the Insolvency (Scotland) Rules 1986[^f00002] and, unless the context otherwise requires, references to numbered Rules are to the Rules so numbered in the 1986 Rules.
 
-## 2. Transitional provision[^key-78926729057cb3ca4af5ae2dd9267fd0]
+## 2. Transitional provision[^c-78926729057cb3ca4af5ae2dd9267fd0]
 
 The provisions of Rules 4 to 6 of these Rules shall not apply, and the provisions of the 1986 Rules shall continue to apply without the amendments made by those Rules, in any case where a company has entered administration before the commencement date.
 
-## 3. Amendments to the Insolvency (Scotland) Rules 1986[^key-5bed61362137e6babbd5a97e27eae5a8]
+## 3. Amendments to the Insolvency (Scotland) Rules 1986[^c-5bed61362137e6babbd5a97e27eae5a8]
 
 The 1986 Rules shall be amended in accordance with the following Rules.
 
-## 4. Amendment of Rule 2.1[^key-c9707fe9401c55b995ad770d7102f69a]
+## 4. Amendment of Rule 2.1[^c-c9707fe9401c55b995ad770d7102f69a]
 
 In Rule 2.1(1)(d), after the entry “-Chapter 8: Functions and Remuneration of administrator;” there is inserted–
 
@@ -70,7 +70,7 @@ In Rule 2.1(1)(d), after the entry “-Chapter 8: Functions and Remuneration of 
 
 .
 
-## 5. Insertion of new Chapter 8A of Part 2[^key-82cd4d6ebcfd2d80951845d886a711e2]
+## 5. Insertion of new Chapter 8A of Part 2[^c-82cd4d6ebcfd2d80951845d886a711e2]
 
 After Rule 2.39A[^f00003] there is inserted the following chapter–
 
@@ -103,7 +103,7 @@ After Rule 2.39A[^f00003] there is inserted the following chapter–
 
 .
 
-## 6. Amendment of Rule 2.41[^key-8165e950da53c70fa7d04ef3ce736e27]
+## 6. Amendment of Rule 2.41[^c-8165e950da53c70fa7d04ef3ce736e27]
 
 In Rule 2.41(1) after “liquidator)” there is inserted “(except Rule 4.67)”.
 
@@ -137,18 +137,18 @@ No Regulatory Impact Assessment has been prepared in relation to these Rules, as
 
 [^f00001]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 411 was amended by [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037) and the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 1, paragraph 188.
 
-[^key-120d4dbb96984adf670bf86377cc2c25]: Commencement: Rule 1 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
+[^c-120d4dbb96984adf670bf86377cc2c25]: Commencement: Rule 1 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
 
 [^f00002]: Footnote: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915); amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [2002/2709](https://www.legislation.gov.uk/uksi/2002/2709), [2003/2108](https://www.legislation.gov.uk/uksi/2003/2108), [2003/2109](https://www.legislation.gov.uk/uksi/2003/2109), [2003/2111](https://www.legislation.gov.uk/uksi/2003/2111), [2006/734](https://www.legislation.gov.uk/uksi/2006/734) and [2007/2537](https://www.legislation.gov.uk/uksi/2007/2537).
 
-[^key-78926729057cb3ca4af5ae2dd9267fd0]: Commencement: Rule 2 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
+[^c-78926729057cb3ca4af5ae2dd9267fd0]: Commencement: Rule 2 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
 
-[^key-5bed61362137e6babbd5a97e27eae5a8]: Commencement: Rule 3 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
+[^c-5bed61362137e6babbd5a97e27eae5a8]: Commencement: Rule 3 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
 
-[^key-c9707fe9401c55b995ad770d7102f69a]: Commencement: Rule 4 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
+[^c-c9707fe9401c55b995ad770d7102f69a]: Commencement: Rule 4 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
 
-[^key-82cd4d6ebcfd2d80951845d886a711e2]: Commencement: Rule 5 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
+[^c-82cd4d6ebcfd2d80951845d886a711e2]: Commencement: Rule 5 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
 
 [^f00003]: Footnote: Rule 2.39A was inserted by [S.I 2006/734](https://www.legislation.gov.uk/uksi/2006/734).
 
-[^key-8165e950da53c70fa7d04ef3ce736e27]: Commencement: Rule 6 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)
+[^c-8165e950da53c70fa7d04ef3ce736e27]: Commencement: Rule 6 in force at 6.4.2008, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2008/662/rule/1/1)

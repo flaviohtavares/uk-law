@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — INFORMATION TO BE INCLUDED IN APPLICATIONS FOR CONSENT TO RELEASE OR MARKET GENETICALLY MODIFIED HIGHER PLANTS[^key-dddbf11c812fcf852c6bd3b42a240fa7]
+## SCHEDULE 2 — INFORMATION TO BE INCLUDED IN APPLICATIONS FOR CONSENT TO RELEASE OR MARKET GENETICALLY MODIFIED HIGHER PLANTS[^c-dddbf11c812fcf852c6bd3b42a240fa7]
 
 *Extent: S*
 
@@ -291,7 +291,7 @@ The comparative analysis of agronomic and phenotypic characteristics and of comp
 
 ## Annotations
 
-[^key-dddbf11c812fcf852c6bd3b42a240fa7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2002/541/schedule/2) substituted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2019/86/regulation/18)
+[^c-dddbf11c812fcf852c6bd3b42a240fa7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2002/541/schedule/2) substituted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [18](https://www.legislation.gov.uk/ssi/2019/86/regulation/18)
 
 [^M_F_e3047e80-72bb-4217-e871-80db374bb18b]: Textual amendment: Words in sch. 2 para. 13 substituted (31.12.2020) by [The Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/57)](https://www.legislation.gov.uk/ssi/2019/57), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/57/regulation/1/2/b), [3(25)(a)](https://www.legislation.gov.uk/ssi/2019/57/regulation/3/25/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 

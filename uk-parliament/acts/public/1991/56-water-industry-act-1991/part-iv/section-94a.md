@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Drainage and sewerage management plans: preparation and review[^key-d9d690eca7271320e7a3734dcb4ead1d]
+## 94A. Drainage and sewerage management plans: preparation and review[^c-d9d690eca7271320e7a3734dcb4ead1d]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 - (c) the resilience of the undertaker’s drainage system and sewerage system,
 - (d) the measures the undertaker intends to take or continue for the purpose in subsection (2),
 - (e) the likely sequence and timing for implementing those measures,
-- (ea)[^key-a63fa0b2c0d32d42daf8927b5e053027] the use that is to be made of nature-based solutions, technologies and facilities within the undertaker’s drainage system and sewerage system,
+- (ea)[^c-a63fa0b2c0d32d42daf8927b5e053027] the use that is to be made of nature-based solutions, technologies and facilities within the undertaker’s drainage system and sewerage system,
 - (f) relevant environmental risks and how those risks are to be mitigated, and
 - (g) any other matters specified by the Minister in directions.
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9d690eca7271320e7a3734dcb4ead1d]: Textual amendment: Ss. 94A-94E inserted (1.9.2024 for E., 1.3.2025 for W.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 79](https://www.legislation.gov.uk/ukpga/2021/30/section/79), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 3](https://www.legislation.gov.uk/uksi/2024/639/regulation/3); [S.I. 2025/175](https://www.legislation.gov.uk/wsi/2025/175), [reg. 3](https://www.legislation.gov.uk/wsi/2025/175/regulation/3)
+[^c-d9d690eca7271320e7a3734dcb4ead1d]: Textual amendment: Ss. 94A-94E inserted (1.9.2024 for E., 1.3.2025 for W.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 79](https://www.legislation.gov.uk/ukpga/2021/30/section/79), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 3](https://www.legislation.gov.uk/uksi/2024/639/regulation/3); [S.I. 2025/175](https://www.legislation.gov.uk/wsi/2025/175), [reg. 3](https://www.legislation.gov.uk/wsi/2025/175/regulation/3)
 
-[^key-a63fa0b2c0d32d42daf8927b5e053027]: Textual amendment: [S. 94A(3)(ea)](https://www.legislation.gov.uk/ukpga/1991/56/section/94A/3/ea) inserted (23.6.2025 for E., 1.9.2025 for W.) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 5](https://www.legislation.gov.uk/ukpga/2025/5/section/5), [17(3)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/c)[(4)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/4/c); [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/b); [S.I. 2025/936](https://www.legislation.gov.uk/wsi/2025/936), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2025/936/regulation/2/b)
+[^c-a63fa0b2c0d32d42daf8927b5e053027]: Textual amendment: [S. 94A(3)(ea)](https://www.legislation.gov.uk/ukpga/1991/56/section/94A/3/ea) inserted (23.6.2025 for E., 1.9.2025 for W.) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 5](https://www.legislation.gov.uk/ukpga/2025/5/section/5), [17(3)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/3/c)[(4)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/4/c); [S.I. 2025/726](https://www.legislation.gov.uk/uksi/2025/726), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/726/regulation/2/b); [S.I. 2025/936](https://www.legislation.gov.uk/wsi/2025/936), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2025/936/regulation/2/b)

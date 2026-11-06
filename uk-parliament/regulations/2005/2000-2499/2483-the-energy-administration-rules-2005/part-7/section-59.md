@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Surrender for non-disclosure[^key-28528d59c7184f91183b37f04a86dce5]
+## 59. Surrender for non-disclosure[^c-28528d59c7184f91183b37f04a86dce5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28528d59c7184f91183b37f04a86dce5]: Commencement: Rule 59 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-28528d59c7184f91183b37f04a86dce5]: Commencement: Rule 59 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

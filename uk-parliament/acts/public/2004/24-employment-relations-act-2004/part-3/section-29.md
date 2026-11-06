@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Inducements relating to union membership or activities[^key-a1c1753956ae15d0ae445ca7b13de4d8]
+## 29. Inducements relating to union membership or activities[^c-a1c1753956ae15d0ae445ca7b13de4d8]
 
 *Extent: E+W+S*
 
@@ -131,4 +131,4 @@ After section 145 of the 1992 Act insert—
 
 ## Annotations
 
-[^key-a1c1753956ae15d0ae445ca7b13de4d8]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2004/24/section/29) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/2566/article/5))
+[^c-a1c1753956ae15d0ae445ca7b13de4d8]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2004/24/section/29) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/2566/article/5))

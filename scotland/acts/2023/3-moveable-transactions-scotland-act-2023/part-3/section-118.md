@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Regulations[^key-09a336dadbe55cc50df73a507b1fa469]
+## 118. Regulations[^c-09a336dadbe55cc50df73a507b1fa469]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09a336dadbe55cc50df73a507b1fa469]: Commencement: S. 118 in force at 14.6.2023, see [s. 121(1)](https://www.legislation.gov.uk/asp/2023/3/section/121/1)
+[^c-09a336dadbe55cc50df73a507b1fa469]: Commencement: S. 118 in force at 14.6.2023, see [s. 121(1)](https://www.legislation.gov.uk/asp/2023/3/section/121/1)

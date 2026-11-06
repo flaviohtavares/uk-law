@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Child sexual exploitation[^key-88ea475dd892ed122a3bbd8b41c2a24a]
+## 68. Child sexual exploitation[^c-88ea475dd892ed122a3bbd8b41c2a24a]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88ea475dd892ed122a3bbd8b41c2a24a]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2015/9/section/68) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/l)
+[^c-88ea475dd892ed122a3bbd8b41c2a24a]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2015/9/section/68) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/l)

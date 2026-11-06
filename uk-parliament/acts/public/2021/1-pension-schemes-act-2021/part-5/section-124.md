@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Climate change risk[^key-8228b474ff04f2abe74e49254239d772]
+## 124. Climate change risk[^c-8228b474ff04f2abe74e49254239d772]
 
 *Extent: E+W+S*
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8228b474ff04f2abe74e49254239d772]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2021/1/section/124) in force at 31.5.2021 by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/2/b)
+[^c-8228b474ff04f2abe74e49254239d772]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2021/1/section/124) in force at 31.5.2021 by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/2/b)

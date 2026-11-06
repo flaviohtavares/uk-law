@@ -34,7 +34,7 @@ An Act to make provision for and in connection with civil partnership.
 
 \[18th November 2004\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-125027eeba5d1e8f51e82fa51e726f0b][^key-edc70701d92ec1cd4446c02d123dd134][^key-b0775ec6b2c2cdfa7265cc324eb97b4d][^key-6eaf350db1913a311e10be727027b8fe]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-125027eeba5d1e8f51e82fa51e726f0b][^c-edc70701d92ec1cd4446c02d123dd134][^c-b0775ec6b2c2cdfa7265cc324eb97b4d][^c-6eaf350db1913a311e10be727027b8fe]
 
 ## Contents
 
@@ -267,7 +267,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 99 — Correction of errors in civil partnership register](part-3/section-99.md)
 - [Section 100 — Offences](part-3/section-100.md)
 
-#### Chapter 3 — Occupancy rights and tenancies[^key-720f33b36d5bea5e8e8afc2d77002eca]
+#### Chapter 3 — Occupancy rights and tenancies[^c-720f33b36d5bea5e8e8afc2d77002eca]
 
 ##### Occupancy rights
 
@@ -629,14 +629,14 @@ SCHEDULES
 
 ## Annotations
 
-[^key-125027eeba5d1e8f51e82fa51e726f0b]: Modification: Act power to apply (with modifications) conferred (S.) (1.9.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 30(5)(b)](https://www.legislation.gov.uk/asp/2014/5/section/30/5/b), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (as amended (1.9.2014) by [S.S.I. 2014/218](https://www.legislation.gov.uk/ssi/2014/218), art. 2(3), sch.)
+[^c-125027eeba5d1e8f51e82fa51e726f0b]: Modification: Act power to apply (with modifications) conferred (S.) (1.9.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 30(5)(b)](https://www.legislation.gov.uk/asp/2014/5/section/30/5/b), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (as amended (1.9.2014) by [S.S.I. 2014/218](https://www.legislation.gov.uk/ssi/2014/218), art. 2(3), sch.)
 
-[^key-edc70701d92ec1cd4446c02d123dd134]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/33): power to amend conferred (E.W.) (26.5.2019) by [Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019 (c. 12)](https://www.legislation.gov.uk/ukpga/2019/12), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2019/12/section/2/1) (with [s. 2(2)](https://www.legislation.gov.uk/ukpga/2019/12/section/2/2))
+[^c-edc70701d92ec1cd4446c02d123dd134]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/33): power to amend conferred (E.W.) (26.5.2019) by [Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019 (c. 12)](https://www.legislation.gov.uk/ukpga/2019/12), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2019/12/section/2/1) (with [s. 2(2)](https://www.legislation.gov.uk/ukpga/2019/12/section/2/2))
 
-[^key-b0775ec6b2c2cdfa7265cc324eb97b4d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/33) modified (N.I.) (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/15/2)
+[^c-b0775ec6b2c2cdfa7265cc324eb97b4d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/33) modified (N.I.) (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/15/2)
 
-[^key-6eaf350db1913a311e10be727027b8fe]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/33): power to modify conferred (1.6.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [ss. 4(2)(c)](https://www.legislation.gov.uk/asp/2020/15/section/4/2/c), [16](https://www.legislation.gov.uk/asp/2020/15/section/16); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-6eaf350db1913a311e10be727027b8fe]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/33): power to modify conferred (1.6.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [ss. 4(2)(c)](https://www.legislation.gov.uk/asp/2020/15/section/4/2/c), [16](https://www.legislation.gov.uk/asp/2020/15/section/16); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-720f33b36d5bea5e8e8afc2d77002eca]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2004/33/part/3/chapter/3) excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
+[^c-720f33b36d5bea5e8e8afc2d77002eca]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2004/33/part/3/chapter/3) excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
 
 [^c20607551]: Textual amendment: S. 124A inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 33](https://www.legislation.gov.uk/asp/2006/2/section/33), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/11); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2006/212/article/3))

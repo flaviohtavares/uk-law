@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Correction of errors on day of poll[^key-34b030b2e7d9ec3ec9f1363a5f4ab7fd]
+## 42. Correction of errors on day of poll[^c-34b030b2e7d9ec3ec9f1363a5f4ab7fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The presiding officer must keep a list of persons to whom ballot papers are deli
 
 ## Annotations
 
-[^key-34b030b2e7d9ec3ec9f1363a5f4ab7fd]: Commencement: Reg. 42 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-34b030b2e7d9ec3ec9f1363a5f4ab7fd]: Commencement: Reg. 42 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

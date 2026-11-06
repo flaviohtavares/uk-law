@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-Cereal Seeds (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-1aeded4b6f9805dbaaffcdf63a6eab45]
+Cereal Seeds (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-1aeded4b6f9805dbaaffcdf63a6eab45]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 10th April 2000
 
-[^key-1aeded4b6f9805dbaaffcdf63a6eab45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1aeded4b6f9805dbaaffcdf63a6eab45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1aeded4b6f9805dbaaffcdf63a6eab45]
+## 1. Citation and commencement[^c-1aeded4b6f9805dbaaffcdf63a6eab45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1aeded4b6f9805dbaaffcdf63a6eab45]
+## 2. Interpretation[^c-1aeded4b6f9805dbaaffcdf63a6eab45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Cereal Seeds Regulations (Northern Ireland) 1994[^key-1aeded4b6f9805dbaaffcdf63a6eab45]
+## 3. Amendment of the Cereal Seeds Regulations (Northern Ireland) 1994[^c-1aeded4b6f9805dbaaffcdf63a6eab45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-1aeded4b6f9805dbaaffcdf63a6eab45]
+## 4. Transitional provisions[^c-1aeded4b6f9805dbaaffcdf63a6eab45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1aeded4b6f9805dbaaffcdf63a6eab45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1aeded4b6f9805dbaaffcdf63a6eab45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1aeded4b6f9805dbaaffcdf63a6eab45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1aeded4b6f9805dbaaffcdf63a6eab45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1aeded4b6f9805dbaaffcdf63a6eab45]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/53) revoked (31.12.2009) by [The Cereal Seeds Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/383)](https://www.legislation.gov.uk/nisr/2009/383), [regs. 1](https://www.legislation.gov.uk/nisr/2009/383/regulation/1), [32(1)(c)](https://www.legislation.gov.uk/nisr/2009/383/regulation/32/1/c)
+[^c-1aeded4b6f9805dbaaffcdf63a6eab45]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/53) revoked (31.12.2009) by [The Cereal Seeds Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/383)](https://www.legislation.gov.uk/nisr/2009/383), [regs. 1](https://www.legislation.gov.uk/nisr/2009/383/regulation/1), [32(1)(c)](https://www.legislation.gov.uk/nisr/2009/383/regulation/32/1/c)

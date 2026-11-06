@@ -48,24 +48,24 @@ Coming into force
 
 29th June 2022
 
-[^key-e343ee879ccbd78d6770659bd862bf1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e343ee879ccbd78d6770659bd862bf1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-e343ee879ccbd78d6770659bd862bf1d]
+## 1. Citation, commencement, extent and application[^c-e343ee879ccbd78d6770659bd862bf1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Novel Foods (Authorisations) and Smoke Flavourings (Modification of Authorisations) (England) Regulations 2022[^key-e343ee879ccbd78d6770659bd862bf1d]
+## 2. Amendment of the Novel Foods (Authorisations) and Smoke Flavourings (Modification of Authorisations) (England) Regulations 2022[^c-e343ee879ccbd78d6770659bd862bf1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e343ee879ccbd78d6770659bd862bf1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e343ee879ccbd78d6770659bd862bf1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e343ee879ccbd78d6770659bd862bf1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e343ee879ccbd78d6770659bd862bf1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e343ee879ccbd78d6770659bd862bf1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/619) revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 3 para. (c)](https://www.legislation.gov.uk/uksi/2025/361/schedule/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-e343ee879ccbd78d6770659bd862bf1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/619) revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 3 para. (c)](https://www.legislation.gov.uk/uksi/2025/361/schedule/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

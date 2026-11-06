@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**83.**[^key-4c882bdcca59e3d07c3981190cffbe7b] A person shall not have on board any boat on or from which any net is used to take fish in fisheries to which section 25 of the Act applies, any fish referred to in Byelaw 82.
+**83.**[^c-4c882bdcca59e3d07c3981190cffbe7b] A person shall not have on board any boat on or from which any net is used to take fish in fisheries to which section 25 of the Act applies, any fish referred to in Byelaw 82.
 
 ## Annotations
 
-[^key-4c882bdcca59e3d07c3981190cffbe7b]: Commencement: S. 83 in operation at 1.11.1997, see byelaw 1
+[^c-4c882bdcca59e3d07c3981190cffbe7b]: Commencement: S. 83 in operation at 1.11.1997, see byelaw 1

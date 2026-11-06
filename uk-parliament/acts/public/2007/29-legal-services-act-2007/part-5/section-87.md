@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87. Registers of licensed bodies[^key-9273ebf06cf15f743098a88c40ea5cab]
+## 87. Registers of licensed bodies[^c-9273ebf06cf15f743098a88c40ea5cab]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9273ebf06cf15f743098a88c40ea5cab]: Commencement: S. 87 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-9273ebf06cf15f743098a88c40ea5cab]: Commencement: S. 87 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

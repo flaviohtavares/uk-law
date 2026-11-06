@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Assessment of claimant in connection with claim[^key-9277a8a25ce11c80ac4f513cf05c3fba][^key-5ea424696445ae496f578c881077b39c]
+## 80. Assessment of claimant in connection with claim[^c-9277a8a25ce11c80ac4f513cf05c3fba][^c-5ea424696445ae496f578c881077b39c]
 
 *Extent: E+W*
 
 (1) This section applies where—
 
 - (a) a claim is made under section 63,
-- (b) the grounds for giving effect to the claim also provide grounds for a WRA assessment on the claimant in respect of the WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax, and
+- (b) the grounds for giving effect to the claim also provide grounds for a WRA assessment on the claimant in respect of the WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax, and
 - (c) such an assessment could be made but for a relevant restriction.
 
 (2) In a case falling within section 79(1)(a) or (b), the reference to the claimant in subsection (1)(b) of this section includes any relevant person (as defined in section 79(3)).
@@ -47,8 +47,8 @@ can no longer be varied (whether on review, appeal or otherwise).
 
 ## Annotations
 
-[^key-9277a8a25ce11c80ac4f513cf05c3fba]: Commencement: S. 80 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-9277a8a25ce11c80ac4f513cf05c3fba]: Commencement: S. 80 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-5ea424696445ae496f578c881077b39c]: Modification: S. 80 applied (with modifications) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 7 para. 43(5)](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43/5); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-5ea424696445ae496f578c881077b39c]: Modification: S. 80 applied (with modifications) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 7 para. 43(5)](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43/5); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)

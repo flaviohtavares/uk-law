@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Resignation and removal of local auditor[^M_I_482b04ab-c12c-4c97-cb02-8c73eab3bfcd][^key-bb5ee13c259675e3c6d29c30828c670b]
+## 16. Resignation and removal of local auditor[^M_I_482b04ab-c12c-4c97-cb02-8c73eab3bfcd][^c-bb5ee13c259675e3c6d29c30828c670b]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^M_I_482b04ab-c12c-4c97-cb02-8c73eab3bfcd]: Commencement: S. 16 in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), art. 2(b)
 
-[^key-bb5ee13c259675e3c6d29c30828c670b]: Commencement: S. 16 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(m)](https://www.legislation.gov.uk/uksi/2015/841/article/3/m)
+[^c-bb5ee13c259675e3c6d29c30828c670b]: Commencement: S. 16 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(m)](https://www.legislation.gov.uk/uksi/2015/841/article/3/m)

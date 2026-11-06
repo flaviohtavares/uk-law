@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Facilitating improvement in competence of industry and building inspectors[^key-38e29ea29d27a2422440f48edcb035dd][^key-639b534ce9a7a45a0b382479062f05d0]
+## 6. Facilitating improvement in competence of industry and building inspectors[^c-38e29ea29d27a2422440f48edcb035dd][^c-639b534ce9a7a45a0b382479062f05d0]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ with a view to facilitating their improving the competence of persons in that in
 
 ## Annotations
 
-[^key-38e29ea29d27a2422440f48edcb035dd]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-38e29ea29d27a2422440f48edcb035dd]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-639b534ce9a7a45a0b382479062f05d0]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/30/section/6) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/b)
+[^c-639b534ce9a7a45a0b382479062f05d0]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/30/section/6) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/b)

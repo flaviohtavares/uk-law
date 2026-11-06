@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56D. Fees payable in connection with pre-consultation meetings[^key-e4772d5ce1f79233567f96b5329994b6]
+## 56D. Fees payable in connection with pre-consultation meetings[^c-e4772d5ce1f79233567f96b5329994b6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4772d5ce1f79233567f96b5329994b6]: Textual amendment: [Reg. 56D](https://www.legislation.gov.uk/uksi/2002/618/regulation/56D) omitted (16.7.2025) by virtue of [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/749/regulation/10)
+[^c-e4772d5ce1f79233567f96b5329994b6]: Textual amendment: [Reg. 56D](https://www.legislation.gov.uk/uksi/2002/618/regulation/56D) omitted (16.7.2025) by virtue of [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/749/regulation/10)

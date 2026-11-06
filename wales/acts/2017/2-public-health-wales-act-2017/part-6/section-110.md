@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Meaning of “public body”[^key-b461a4e53c726458d77a09eb94923f4c]
+## 110. Meaning of “public body”[^c-b461a4e53c726458d77a09eb94923f4c]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 - (e) a National Park authority for a National Park in Wales;
 - (f) a Welsh fire and rescue authority;
 - (g) the Natural Resources Body for Wales;
-- (h) the Commission for Tertiary Education and Research[^key-d9f667bc56392de80d59b0254b67a757];
+- (h) the Commission for Tertiary Education and Research[^c-d9f667bc56392de80d59b0254b67a757];
 - (i) the Arts Council of Wales;
 - (j) the Sports Council for Wales;
 - (k) the National Library of Wales;
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b461a4e53c726458d77a09eb94923f4c]: Commencement: [S. 110](https://www.legislation.gov.uk/anaw/2017/2/section/110) in force at 19.9.2025 by [S.I. 2025/1028](https://www.legislation.gov.uk/wsi/2025/1028), [art. 2](https://www.legislation.gov.uk/wsi/2025/1028/article/2)
+[^c-b461a4e53c726458d77a09eb94923f4c]: Commencement: [S. 110](https://www.legislation.gov.uk/anaw/2017/2/section/110) in force at 19.9.2025 by [S.I. 2025/1028](https://www.legislation.gov.uk/wsi/2025/1028), [art. 2](https://www.legislation.gov.uk/wsi/2025/1028/article/2)
 
-[^key-d9f667bc56392de80d59b0254b67a757]: Textual amendment: Words in [s. 110(1)(h)](https://www.legislation.gov.uk/anaw/2017/2/section/110/1/h) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 37](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/37) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xx)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xx) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-d9f667bc56392de80d59b0254b67a757]: Textual amendment: Words in [s. 110(1)(h)](https://www.legislation.gov.uk/anaw/2017/2/section/110/1/h) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 37](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/37) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xx)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xx) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))

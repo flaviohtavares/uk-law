@@ -33,15 +33,15 @@ summary: ''
 
   CLS is the amount of the lump sum (if any) paid to the pension credit member as a result of the member exercising the option under regulation 185 (general option to exchange part of pension for lump sum) on becoming entitled to the pension under regulation 177.
 
-(3)[^key-900f3b9f7f9a6a4d799d565bbd368103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-900f3b9f7f9a6a4d799d565bbd368103] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this regulation—
 
-- “**valuation day**” means the day referred to in Article 26(7) of the 1999 Order, [^key-a77a42de2712e8cea38798cc827447d9]...
-- [^key-a77a42de2712e8cea38798cc827447d9]...
+- “**valuation day**” means the day referred to in Article 26(7) of the 1999 Order, [^c-a77a42de2712e8cea38798cc827447d9]...
+- [^c-a77a42de2712e8cea38798cc827447d9]...
 
 ## Annotations
 
-[^key-900f3b9f7f9a6a4d799d565bbd368103]: Textual amendment: [Reg. 213(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/213/3) omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [52(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/52/2)
+[^c-900f3b9f7f9a6a4d799d565bbd368103]: Textual amendment: [Reg. 213(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/213/3) omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [52(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/52/2)
 
-[^key-a77a42de2712e8cea38798cc827447d9]: Textual amendment: Words in [reg. 213(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/213/4) omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [52(3)](https://www.legislation.gov.uk/nisr/2022/196/regulation/52/3)
+[^c-a77a42de2712e8cea38798cc827447d9]: Textual amendment: Words in [reg. 213(4)](https://www.legislation.gov.uk/nisr/2008/256/regulation/213/4) omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [52(3)](https://www.legislation.gov.uk/nisr/2022/196/regulation/52/3)

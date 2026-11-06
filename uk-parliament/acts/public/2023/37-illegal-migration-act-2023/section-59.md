@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Inadmissibility of certain asylum and human rights claims[^key-0e3aba6fc87f85b607413d313f41d86d][^key-a8108206827d50c711a672aa082d24c8]
+## 59. Inadmissibility of certain asylum and human rights claims[^c-0e3aba6fc87f85b607413d313f41d86d][^c-a8108206827d50c711a672aa082d24c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,6 +115,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e3aba6fc87f85b607413d313f41d86d]: Commencement: S. 59 not in force at Royal Assent, see [s. 68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1)
+[^c-0e3aba6fc87f85b607413d313f41d86d]: Commencement: S. 59 not in force at Royal Assent, see [s. 68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1)
 
-[^key-a8108206827d50c711a672aa082d24c8]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/37/section/59) in force at 28.9.2023 for specified purposes by [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/c)
+[^c-a8108206827d50c711a672aa082d24c8]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/37/section/59) in force at 28.9.2023 for specified purposes by [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/c)

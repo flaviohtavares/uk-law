@@ -24,7 +24,7 @@ Section 18.
 
 ### Consultation and notice with respect to proposed scheme
 
-**1.** (1) Before making a scheme under section 18 of this Act, a local authority shall consult the appropriate agency[^key-ab83a3d1dc1a43c3b9f9cae2b6ca5fb7].
+**1.** (1) Before making a scheme under section 18 of this Act, a local authority shall consult the appropriate agency[^c-ab83a3d1dc1a43c3b9f9cae2b6ca5fb7].
 
 (2) Before making a scheme under section 18 of this Act, the appropriate agency or a local authority shall give a notice under this paragraph—
 
@@ -61,7 +61,7 @@ Section 18.
 
 ## Annotations
 
-[^key-ab83a3d1dc1a43c3b9f9cae2b6ca5fb7]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/1991/59/schedule/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 338](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/338) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ab83a3d1dc1a43c3b9f9cae2b6ca5fb7]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/1991/59/schedule/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 338](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/338) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415697]: Textual amendment: Words in Sch. 4, para. 3 substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [para. 191](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/191) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 

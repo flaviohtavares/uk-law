@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Interpretation[^key-e7532f067421020966c46f9cc405ee1e]
+## 121. Interpretation[^c-e7532f067421020966c46f9cc405ee1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,7 +104,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e7532f067421020966c46f9cc405ee1e]: Commencement: Art. 121 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-e7532f067421020966c46f9cc405ee1e]: Commencement: Art. 121 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00113]: Footnote: Regulation 2(1) was relevantly amended by regulation 3(a) of S.I. [1995/3287](https://www.legislation.gov.uk/uksi/1995/3287), regulation 3(2) and (3) of S.I. [1997/1716](https://www.legislation.gov.uk/uksi/1997/1716), regulation 3 of S.I. [1998/1869](https://www.legislation.gov.uk/uksi/1998/1869) and regulation 3 of S.I. [2001/923](https://www.legislation.gov.uk/uksi/2001/923).
 

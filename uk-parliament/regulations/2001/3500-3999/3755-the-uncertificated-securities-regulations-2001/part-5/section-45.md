@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Participating securities issued in uncertificated form[^key-de4ba223b0a603dc886eeee58c6cbacb]
+## 45. Participating securities issued in uncertificated form[^c-de4ba223b0a603dc886eeee58c6cbacb]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Nothing in these Regulations shall require—
 
 ## Annotations
 
-[^key-de4ba223b0a603dc886eeee58c6cbacb]: Commencement: Reg. 45 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-de4ba223b0a603dc886eeee58c6cbacb]: Commencement: Reg. 45 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

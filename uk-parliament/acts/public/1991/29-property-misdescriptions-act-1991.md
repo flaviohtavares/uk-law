@@ -31,86 +31,86 @@ Property Misdescriptions Act 1991 (repealed)
 
 1991 c. 29
 
-[^key-a8cf03dc626c21c622f974387ee968ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8cf03dc626c21c622f974387ee968ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Offence of property misdescription.[^key-a8cf03dc626c21c622f974387ee968ae]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Due diligence defence.[^key-a8cf03dc626c21c622f974387ee968ae]
+## 1. Offence of property misdescription.[^c-a8cf03dc626c21c622f974387ee968ae]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Enforcement.[^key-a8cf03dc626c21c622f974387ee968ae]
+## 2. Due diligence defence.[^c-a8cf03dc626c21c622f974387ee968ae]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Bodies corporate and Scottish partnerships.[^key-a8cf03dc626c21c622f974387ee968ae]
+## 3. Enforcement.[^c-a8cf03dc626c21c622f974387ee968ae]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prosecution time limit.[^key-a8cf03dc626c21c622f974387ee968ae]
+## 4. Bodies corporate and Scottish partnerships.[^c-a8cf03dc626c21c622f974387ee968ae]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Financial provision.[^key-a8cf03dc626c21c622f974387ee968ae]
+## 5. Prosecution time limit.[^c-a8cf03dc626c21c622f974387ee968ae]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Short title and extent.[^key-a8cf03dc626c21c622f974387ee968ae]
+## 6. Financial provision.[^c-a8cf03dc626c21c622f974387ee968ae]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — Enforcement[^key-a8cf03dc626c21c622f974387ee968ae]
+## 7. Short title and extent.[^c-a8cf03dc626c21c622f974387ee968ae]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE — Enforcement[^c-a8cf03dc626c21c622f974387ee968ae]
 
 **No longer in force.**
 
 Section 3.
 
-### Enforcement authority[^key-a8cf03dc626c21c622f974387ee968ae]
+### Enforcement authority[^c-a8cf03dc626c21c622f974387ee968ae]
 
-**1.**[^key-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Prosecutions[^key-a8cf03dc626c21c622f974387ee968ae]
+### Prosecutions[^c-a8cf03dc626c21c622f974387ee968ae]
 
-**2.**[^key-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Powers of officers of enforcement authority[^key-a8cf03dc626c21c622f974387ee968ae]
+### Powers of officers of enforcement authority[^c-a8cf03dc626c21c622f974387ee968ae]
 
-**3.**[^key-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Obstruction of officers[^key-a8cf03dc626c21c622f974387ee968ae]
+### Obstruction of officers[^c-a8cf03dc626c21c622f974387ee968ae]
 
-**5.**[^key-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Impersonation of officers[^key-a8cf03dc626c21c622f974387ee968ae]
+### Impersonation of officers[^c-a8cf03dc626c21c622f974387ee968ae]
 
-**6.**[^key-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Disclosure of information[^key-a8cf03dc626c21c622f974387ee968ae]
+### Disclosure of information[^c-a8cf03dc626c21c622f974387ee968ae]
 
-**7.**[^key-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Privilege against self-incrimination[^key-a8cf03dc626c21c622f974387ee968ae]
+### Privilege against self-incrimination[^c-a8cf03dc626c21c622f974387ee968ae]
 
-**8.**[^key-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a8cf03dc626c21c622f974387ee968ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a8cf03dc626c21c622f974387ee968ae]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1991/29) repealed (1.10.2013) by [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 2](https://www.legislation.gov.uk/uksi/2013/1575/article/2)
+[^c-a8cf03dc626c21c622f974387ee968ae]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1991/29) repealed (1.10.2013) by [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 2](https://www.legislation.gov.uk/uksi/2013/1575/article/2)

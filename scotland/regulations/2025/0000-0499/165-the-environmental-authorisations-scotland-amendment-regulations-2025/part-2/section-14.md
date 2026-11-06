@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Amendment of regulation 24 (review of permits)[^key-5815563ee339d91ba48f3d08084e6959]
+## 14. Amendment of regulation 24 (review of permits)[^c-5815563ee339d91ba48f3d08084e6959]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In regulation 24 (review of permits)—
 
 ## Annotations
 
-[^key-5815563ee339d91ba48f3d08084e6959]: Commencement: Reg. 14 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-5815563ee339d91ba48f3d08084e6959]: Commencement: Reg. 14 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Salmon fishery districts[^key-2f562a1ca24842a500ee33e258854212]
+## 34. Salmon fishery districts[^c-2f562a1ca24842a500ee33e258854212]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ but such an order shall not create a salmon fishery district.
 
 ## Annotations
 
-[^key-2f562a1ca24842a500ee33e258854212]: Commencement: S. 34 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-2f562a1ca24842a500ee33e258854212]: Commencement: S. 34 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

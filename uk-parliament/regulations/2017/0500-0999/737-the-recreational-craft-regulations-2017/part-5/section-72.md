@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Restrictive measures[^key-e8107b1d2fe4934f7ea0dac290e38a2a]
+## 72. Restrictive measures[^c-e8107b1d2fe4934f7ea0dac290e38a2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ When enforcing these Regulations, an enforcing authority must comply with the re
 
 ## Annotations
 
-[^key-e8107b1d2fe4934f7ea0dac290e38a2a]: Commencement: Reg. 72 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-e8107b1d2fe4934f7ea0dac290e38a2a]: Commencement: Reg. 72 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

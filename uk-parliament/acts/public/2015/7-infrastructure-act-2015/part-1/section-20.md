@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Interpretation of Part 1[^key-d944120ea64bf80a7e687f234b0cdabc]
+## 20. Interpretation of Part 1[^c-d944120ea64bf80a7e687f234b0cdabc]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In this Part—
 
 ## Annotations
 
-[^key-d944120ea64bf80a7e687f234b0cdabc]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2015/7/section/20) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-d944120ea64bf80a7e687f234b0cdabc]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2015/7/section/20) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 53. Role of archdeacon in ordering deposit of articles in place of safety[^key-af192329b3cca94567c1768e10faae7b]
+## 53. Role of archdeacon in ordering deposit of articles in place of safety[^c-af192329b3cca94567c1768e10faae7b]
 
 *Extent: E*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af192329b3cca94567c1768e10faae7b]: Commencement: [S. 53](https://www.legislation.gov.uk/ukcm/2018/3/section/53) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-af192329b3cca94567c1768e10faae7b]: Commencement: [S. 53](https://www.legislation.gov.uk/ukcm/2018/3/section/53) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

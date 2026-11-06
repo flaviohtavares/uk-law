@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.24. Early termination of appeal: order by consent, etc.[^key-772cdfb522b62e7ae6cdcf27476243d8]
+## 50.24. Early termination of appeal: order by consent, etc.[^c-772cdfb522b62e7ae6cdcf27476243d8]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ summary: ''
 
 ## Annotations
 
-[^key-772cdfb522b62e7ae6cdcf27476243d8]: Commencement: [Rule 50.24](https://www.legislation.gov.uk/uksi/2025/909/rule/50.24) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-772cdfb522b62e7ae6cdcf27476243d8]: Commencement: [Rule 50.24](https://www.legislation.gov.uk/uksi/2025/909/rule/50.24) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01362]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); sections 42 and 124 were amended by article 3 of [S.I. 2015/992](https://www.legislation.gov.uk/uksi/2015/992).
 

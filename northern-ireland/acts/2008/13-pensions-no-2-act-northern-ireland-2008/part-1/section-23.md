@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Test scheme[^c19557951][^key-295e4dd8d1f46032118beafb1e305989][^key-8b0820f5c8e9527b7e6e8e68357f176a][^key-295e4dd8d1f46032118beafb1e305989]
+## 23. Test scheme[^c19557951][^c-295e4dd8d1f46032118beafb1e305989][^c-8b0820f5c8e9527b7e6e8e68357f176a][^c-295e4dd8d1f46032118beafb1e305989]
 
 *Extent: N.I.*
 
@@ -49,6 +49,6 @@ multiplied by
 
 [^c19557951]: Commencement: S. 23 partly in force; s. 23 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
+[^c-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
 
-[^key-8b0820f5c8e9527b7e6e8e68357f176a]: Textual amendment: S. 23 substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 12(2)](https://www.legislation.gov.uk/nia/2012/3/section/12/2), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), art. 2(1)(c)
+[^c-8b0820f5c8e9527b7e6e8e68357f176a]: Textual amendment: S. 23 substituted (2.6.2012 for specified purposes, 30.6.2012 in so far as not already in operation) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 12(2)](https://www.legislation.gov.uk/nia/2012/3/section/12/2), [34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)[(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), art. 2(1)(c)

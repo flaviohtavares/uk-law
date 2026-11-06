@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Section 36: application to other bodies[^key-fe74b1fe343240e31e5d77816f0678b6][^key-1b2e2e6737cc1e12fbe2c153692284e2]
+## 37. Section 36: application to other bodies[^c-fe74b1fe343240e31e5d77816f0678b6][^c-1b2e2e6737cc1e12fbe2c153692284e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe74b1fe343240e31e5d77816f0678b6]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-fe74b1fe343240e31e5d77816f0678b6]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-1b2e2e6737cc1e12fbe2c153692284e2]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/56/section/37) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z1)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z1)
+[^c-1b2e2e6737cc1e12fbe2c153692284e2]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/56/section/37) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z1)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z1)

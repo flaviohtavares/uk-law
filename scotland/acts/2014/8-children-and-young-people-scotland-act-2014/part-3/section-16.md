@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Directions in relation to children's services planning[^key-ba2d5c2050e4c02e1ec578a7c9baa911]
+## 16. Directions in relation to children's services planning[^c-ba2d5c2050e4c02e1ec578a7c9baa911]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba2d5c2050e4c02e1ec578a7c9baa911]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/8/section/16) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
+[^c-ba2d5c2050e4c02e1ec578a7c9baa911]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/8/section/16) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)

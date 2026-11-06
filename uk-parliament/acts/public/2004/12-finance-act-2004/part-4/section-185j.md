@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185J. Effect of repayment of certain pre-6 April 2015 lump sums[^key-57fff1cd5eef9483b0086f0955c69a13]
+## 185J. Effect of repayment of certain pre-6 April 2015 lump sums[^c-57fff1cd5eef9483b0086f0955c69a13]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57fff1cd5eef9483b0086f0955c69a13]: Textual amendment: S. 185J and cross-heading inserted (19.3.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 5 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/3), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/15)
+[^c-57fff1cd5eef9483b0086f0955c69a13]: Textual amendment: S. 185J and cross-heading inserted (19.3.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 5 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/3), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/15)

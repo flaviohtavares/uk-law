@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Emergency arrangements concerning medical practitioners: Scotland[^key-7a9f374085c416578afe0aa4c8d60d1f]
+## SCHEDULE 3 — Emergency arrangements concerning medical practitioners: Scotland[^c-7a9f374085c416578afe0aa4c8d60d1f]
 
 *Extent: S*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Section 4
 
-### National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^key-7a9f374085c416578afe0aa4c8d60d1f]
+### National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^c-7a9f374085c416578afe0aa4c8d60d1f]
 
-**1.**[^key-7a9f374085c416578afe0aa4c8d60d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7a9f374085c416578afe0aa4c8d60d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018[^key-7a9f374085c416578afe0aa4c8d60d1f]
+### National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018[^c-7a9f374085c416578afe0aa4c8d60d1f]
 
-**2.**[^key-7a9f374085c416578afe0aa4c8d60d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7a9f374085c416578afe0aa4c8d60d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### National Health Service (Primary Medical Services Section 17C Arrangements) (Scotland) Regulations 2018[^key-7a9f374085c416578afe0aa4c8d60d1f]
+### National Health Service (Primary Medical Services Section 17C Arrangements) (Scotland) Regulations 2018[^c-7a9f374085c416578afe0aa4c8d60d1f]
 
-**3.**[^key-7a9f374085c416578afe0aa4c8d60d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7a9f374085c416578afe0aa4c8d60d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power to modify Schedule[^key-7a9f374085c416578afe0aa4c8d60d1f]
+### Power to modify Schedule[^c-7a9f374085c416578afe0aa4c8d60d1f]
 
-**4.**[^key-7a9f374085c416578afe0aa4c8d60d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7a9f374085c416578afe0aa4c8d60d1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a9f374085c416578afe0aa4c8d60d1f]: Textual amendment: Sch. 3 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-7a9f374085c416578afe0aa4c8d60d1f]: Textual amendment: Sch. 3 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

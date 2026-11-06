@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Interim measures: pre-emptive action: markets[^key-e17a470d961eabdeb50d337248b25d17]
+## 37. Interim measures: pre-emptive action: markets[^c-e17a470d961eabdeb50d337248b25d17]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e17a470d961eabdeb50d337248b25d17]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2013/24/section/37) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e17a470d961eabdeb50d337248b25d17]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2013/24/section/37) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

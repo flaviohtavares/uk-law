@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42A. Verification of information provided in an application[^key-b266a0edd481aa504b6093d324447921]
+## 42A. Verification of information provided in an application[^c-b266a0edd481aa504b6093d324447921]
 
 *Extent: N.I.*
 
-(1) In the case of a relevant application[^key-abf3513184fea0046fd508941f7e0072] submitted through the UK digital service, the Minister of the Crown responsible for providing the UK digital service may disclose the name and any previous name, date of birth and national insurance number of the applicant given in the application to the Secretary of State.
+(1) In the case of a relevant application[^c-abf3513184fea0046fd508941f7e0072] submitted through the UK digital service, the Minister of the Crown responsible for providing the UK digital service may disclose the name and any previous name, date of birth and national insurance number of the applicant given in the application to the Secretary of State.
 
 (2) On receipt of a relevant application other than one submitted through the UK digital service, the registration officer may disclose the name and any previous name, date of birth and national insurance number of the applicant given in the application to the Secretary of State through the UK digital service.
 
@@ -33,14 +33,14 @@ summary: ''
 
 (4) The Secretary of State shall disclose the results of the comparison to the registration officer through the UK digital service, and regulation 41(5) and (7) shall be disregarded for these purposes.
 
-(5)[^key-2aad0abfe58a504da3a90e62c3e279b4] The registration officer may take such results into account in determining—
+(5)[^c-2aad0abfe58a504da3a90e62c3e279b4] The registration officer may take such results into account in determining—
 
 - (a) where the relevant application is a canvass form, what alterations to the officer’s registers fall to be made as a result of the submission of that form, and
 - (b) where the relevant application is an application for registration, that application.
 
 (6) Any person who processes the information disclosed under paragraph (1) or (2) shall do so in accordance with any requirements as to the processing of information that may have been imposed in writing by the Minister of the Crown responsible for providing the UK digital service, including requirements as to the transfer, storage, destruction and security of that information.
 
-(7)[^key-1789b71fb5501e66c66c087a17657c5a] In this regulation—
+(7)[^c-1789b71fb5501e66c66c087a17657c5a] In this regulation—
 
 - “relevant application” means—
   - (a) an application for registration; or
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b266a0edd481aa504b6093d324447921]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/42A) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2018/699/regulation/20)
+[^c-b266a0edd481aa504b6093d324447921]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/42A) inserted (31.5.2018) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2018/699/regulation/20)
 
-[^key-abf3513184fea0046fd508941f7e0072]: Textual amendment: Words in [reg. 42A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/42A) substituted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2020/581/regulation/12/3/a)
+[^c-abf3513184fea0046fd508941f7e0072]: Textual amendment: Words in [reg. 42A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/42A) substituted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2020/581/regulation/12/3/a)
 
-[^key-2aad0abfe58a504da3a90e62c3e279b4]: Textual amendment: [Reg. 42A(5)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/42A/5) substituted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2020/581/regulation/12/3/b)
+[^c-2aad0abfe58a504da3a90e62c3e279b4]: Textual amendment: [Reg. 42A(5)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/42A/5) substituted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2020/581/regulation/12/3/b)
 
-[^key-1789b71fb5501e66c66c087a17657c5a]: Textual amendment: [Reg. 42A(7)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/42A/7) substituted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2020/581/regulation/12/3/c)
+[^c-1789b71fb5501e66c66c087a17657c5a]: Textual amendment: [Reg. 42A(7)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/42A/7) substituted (6.7.2020) by [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2020 (S.I. 2020/581)](https://www.legislation.gov.uk/uksi/2020/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/581/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2020/581/regulation/12/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Replacement and closure of road level crossings[^key-8fe719be182692f3c2c89af9a1c0d9d6]
+## 15. Replacement and closure of road level crossings[^c-8fe719be182692f3c2c89af9a1c0d9d6]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fe719be182692f3c2c89af9a1c0d9d6]: Commencement: Art. 15 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-8fe719be182692f3c2c89af9a1c0d9d6]: Commencement: Art. 15 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

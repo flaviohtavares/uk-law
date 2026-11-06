@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Specified authorities and local government areas[^key-b2810be1ce936f6ebb3d28429af3ce70][^key-b6958faf7009da2d1400441a07e70e80]
+## SCHEDULE 1 — Specified authorities and local government areas[^c-b2810be1ce936f6ebb3d28429af3ce70][^c-b6958faf7009da2d1400441a07e70e80]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ Health and social care
 
 | Specified authority | Local government area |
 | --- | --- |
-| An integrated care board established under section 14Z25[^key-fb254cc970f67fe6ccd15a7e58f9851d] of the National Health Service Act 2006 | Each local government area which, or any part of which, coincides with or falls within the board’s[^key-8c2130718aea6e8359070a2817268d68] area |
+| An integrated care board established under section 14Z25[^c-fb254cc970f67fe6ccd15a7e58f9851d] of the National Health Service Act 2006 | Each local government area which, or any part of which, coincides with or falls within the board’s[^c-8c2130718aea6e8359070a2817268d68] area |
 | A Local Health Board established under section 11 of the National Health Service (Wales) Act 2006 | Each local government area which, or any part of which, coincides with or falls within the Board’s area |
 
 Police
@@ -66,10 +66,10 @@ Fire and rescue authorities
 
 ## Annotations
 
-[^key-b2810be1ce936f6ebb3d28429af3ce70]: Commencement: Sch. 1 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
+[^c-b2810be1ce936f6ebb3d28429af3ce70]: Commencement: Sch. 1 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
 
-[^key-b6958faf7009da2d1400441a07e70e80]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/1) in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(n)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/n)
+[^c-b6958faf7009da2d1400441a07e70e80]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/1) in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(n)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/n)
 
-[^key-fb254cc970f67fe6ccd15a7e58f9851d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/1) Table substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 243(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/243/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-fb254cc970f67fe6ccd15a7e58f9851d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/1) Table substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 243(a)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/243/a); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-8c2130718aea6e8359070a2817268d68]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/1) Table substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 243(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/243/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8c2130718aea6e8359070a2817268d68]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/1) Table substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 243(b)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/243/b); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Taxation of Chargeable Gains Act 1992[^key-b849effa9c8ea9450daaaaa1e64c4add]
+## 105. Taxation of Chargeable Gains Act 1992[^c-b849effa9c8ea9450daaaaa1e64c4add]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Taxation of Chargeable Gains Act 1992 [^f00029] is amended as follows.
 
 ## Annotations
 
-[^key-b849effa9c8ea9450daaaaa1e64c4add]: Commencement: Reg. 105 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b849effa9c8ea9450daaaaa1e64c4add]: Commencement: Reg. 105 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00029]: Footnote: [1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12).

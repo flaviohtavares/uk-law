@@ -26,15 +26,15 @@ Section 81
 
 #### Petroleum extraction activities: sale and leaseback
 
-**1.**[^key-6f5afda11ea5130055f1ec1c0f02fa39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6f5afda11ea5130055f1ec1c0f02fa39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Supplementary charge in respect of ring fence trades
 
-**2.**[^key-6f5afda11ea5130055f1ec1c0f02fa39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6f5afda11ea5130055f1ec1c0f02fa39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Leased assets: special cases
 
-**3.**[^key-2229ce35415a0bf3940952b2962f8dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2229ce35415a0bf3940952b2962f8dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Taxation of Chargeable Gains Act 1992
 
@@ -120,7 +120,7 @@ Section 81
 
 #### Leasing arrangements
 
-**7.**[^key-55676456dbf6768322316f09987539fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-55676456dbf6768322316f09987539fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 2000
 
@@ -298,7 +298,7 @@ Section 81
 
 #### Withdrawal of first year allowances for lessors of certain plant or machinery
 
-**11.**[^key-2a29d8110537196b4d5375a1539496b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-2a29d8110537196b4d5375a1539496b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Plant or machinery treated as owned by person entitled to benefit of contract etc
 
@@ -429,10 +429,10 @@ Section 81
 
 ## Annotations
 
-[^key-6f5afda11ea5130055f1ec1c0f02fa39]: Textual amendment: Sch. 9 paras. 1, 2 repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-6f5afda11ea5130055f1ec1c0f02fa39]: Textual amendment: Sch. 9 paras. 1, 2 repealed (1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-2229ce35415a0bf3940952b2962f8dbb]: Textual amendment: Sch. 9 para. 3 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)) and repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/9) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-2229ce35415a0bf3940952b2962f8dbb]: Textual amendment: Sch. 9 para. 3 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)) and repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/9) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-55676456dbf6768322316f09987539fc]: Textual amendment: Sch. 9 para. 7 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)) and repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-55676456dbf6768322316f09987539fc]: Textual amendment: Sch. 9 para. 7 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)) and repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-2a29d8110537196b4d5375a1539496b6]: Textual amendment: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/9/paragraph/11) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(iii)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/iii)
+[^c-2a29d8110537196b4d5375a1539496b6]: Textual amendment: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2006/25/schedule/9/paragraph/11) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(iii)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/iii)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — requirements relating to obligatory and optional hazard warning signal devices[^key-d914e537ae744148fc8040bad9d14873]
+## SCHEDULE 8 — requirements relating to obligatory and optional hazard warning signal devices[^c-d914e537ae744148fc8040bad9d14873]
 
 *Extent: E+W+S*
 
 (Regulations 18 and 20)
 
-[^key-d914e537ae744148fc8040bad9d14873]Every hazard warning signal device shall–
+[^c-d914e537ae744148fc8040bad9d14873]Every hazard warning signal device shall–
 
 (a) be operated by one switch;
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d914e537ae744148fc8040bad9d14873]: Commencement: [Sch. 8](https://www.legislation.gov.uk/uksi/1989/1796/schedule/8) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-d914e537ae744148fc8040bad9d14873]: Commencement: [Sch. 8](https://www.legislation.gov.uk/uksi/1989/1796/schedule/8) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

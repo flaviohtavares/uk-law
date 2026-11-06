@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. The chair at meetings[^key-7336afdbf070c06798d360f2cfc7fb69]
+## 20. The chair at meetings[^c-7336afdbf070c06798d360f2cfc7fb69]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7336afdbf070c06798d360f2cfc7fb69]: Commencement: Rule 20 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-7336afdbf070c06798d360f2cfc7fb69]: Commencement: Rule 20 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

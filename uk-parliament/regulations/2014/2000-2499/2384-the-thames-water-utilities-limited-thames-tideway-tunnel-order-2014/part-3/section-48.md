@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Rights under or over streets and city walkways[^key-f1001086547aee3b4893615ff196cd46]
+## 48. Rights under or over streets and city walkways[^c-f1001086547aee3b4893615ff196cd46]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1001086547aee3b4893615ff196cd46]: Commencement: Art. 48 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-f1001086547aee3b4893615ff196cd46]: Commencement: Art. 48 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

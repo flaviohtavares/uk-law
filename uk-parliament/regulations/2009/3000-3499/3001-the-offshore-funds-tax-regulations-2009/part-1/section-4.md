@@ -25,10 +25,10 @@ summary: ''
 - (a) non-reporting funds (see Part 2 of these Regulations), and
 - (b) reporting funds (see Part 3 of these Regulations).
 
-(2) In a period of account[^key-b50978814a117de74a2887d02d6169a2] an offshore fund is a non-reporting fund unless it is a fund to which Part 3 of these Regulations applies [^key-c667a2a7064fce10a0502384b2d67949]....
+(2) In a period of account[^c-b50978814a117de74a2887d02d6169a2] an offshore fund is a non-reporting fund unless it is a fund to which Part 3 of these Regulations applies [^c-c667a2a7064fce10a0502384b2d67949]....
 
 ## Annotations
 
-[^key-b50978814a117de74a2887d02d6169a2]: Textual amendment: Words in reg. 4(2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/28/a)
+[^c-b50978814a117de74a2887d02d6169a2]: Textual amendment: Words in reg. 4(2) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/28/a)
 
-[^key-c667a2a7064fce10a0502384b2d67949]: Textual amendment: Words in reg. 4(2) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/28/b)
+[^c-c667a2a7064fce10a0502384b2d67949]: Textual amendment: Words in reg. 4(2) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/28/b)

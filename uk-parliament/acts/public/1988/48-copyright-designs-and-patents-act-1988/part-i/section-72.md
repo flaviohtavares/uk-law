@@ -22,16 +22,16 @@ summary: ''
 
 (1) The showing or playing in public of a broadcast [^c19324061]. . . to an audience who have not paid for admission to the place where the broadcast [^c19324061]. . . is to be seen or heard does not infringe any copyright in—
 
-- (a)[^c19324121] the broadcast; or[^key-c3c244ab379bb6bbedc7f5519d7fb81f]
-- (b) any sound recording (except so far as it is an excepted sound recording) included in it [^key-6bfad9f976ec22665a188f0c20e4e5ae]...
-- (c)[^key-13b15c364967e3c7d3ddf98a18364454] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c19324121] the broadcast; or[^c-c3c244ab379bb6bbedc7f5519d7fb81f]
+- (b) any sound recording (except so far as it is an excepted sound recording) included in it [^c-6bfad9f976ec22665a188f0c20e4e5ae]...
+- (c)[^c-13b15c364967e3c7d3ddf98a18364454] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (1A)[^c19324141] For the purposes of this Part an “excepted sound recording” is a sound recording—
 
 - (a) whose author is not the author of the broadcast in which it is included; and
 - (b) which is a recording of music with or without words spoken or sung.
 
-(1B) Where by virtue of subsection (1) the copyright in a broadcast shown or played in public is not infringed, copyright in any film or[^key-83ea9e245c5239820d80cf5e2979a6d2] excepted sound recording included in it is not infringed if the playing or showing of that broadcast in public—
+(1B) Where by virtue of subsection (1) the copyright in a broadcast shown or played in public is not infringed, copyright in any film or[^c-83ea9e245c5239820d80cf5e2979a6d2] excepted sound recording included in it is not infringed if the playing or showing of that broadcast in public—
 
 - (a) [^c20954061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) is necessary for the purposes of—
@@ -61,15 +61,15 @@ summary: ''
 
 [^c19324121]: Textual amendment: S. 72(1)(a)-(c) substituted (31.10.2003) for s. 72(1)(a)(b) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/21/1/a) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-c3c244ab379bb6bbedc7f5519d7fb81f]: Textual amendment: Word in s. 72(1)(a) inserted (15.6.2016) by [The Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016 (S.I. 2016/565)](https://www.legislation.gov.uk/uksi/2016/565), [regs. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/565/regulation/3/a)
+[^c-c3c244ab379bb6bbedc7f5519d7fb81f]: Textual amendment: Word in s. 72(1)(a) inserted (15.6.2016) by [The Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016 (S.I. 2016/565)](https://www.legislation.gov.uk/uksi/2016/565), [regs. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/565/regulation/3/a)
 
-[^key-6bfad9f976ec22665a188f0c20e4e5ae]: Textual amendment: Word in s. 72(1)(b) omitted (15.6.2016) by virtue of [The Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016 (S.I. 2016/565)](https://www.legislation.gov.uk/uksi/2016/565), [regs. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/565/regulation/3/b)
+[^c-6bfad9f976ec22665a188f0c20e4e5ae]: Textual amendment: Word in s. 72(1)(b) omitted (15.6.2016) by virtue of [The Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016 (S.I. 2016/565)](https://www.legislation.gov.uk/uksi/2016/565), [regs. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/565/regulation/3/b)
 
-[^key-13b15c364967e3c7d3ddf98a18364454]: Textual amendment: S. 72(1)(c) omitted (15.6.2016) by virtue of [The Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016 (S.I. 2016/565)](https://www.legislation.gov.uk/uksi/2016/565), [regs. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/565/regulation/3/c)
+[^c-13b15c364967e3c7d3ddf98a18364454]: Textual amendment: S. 72(1)(c) omitted (15.6.2016) by virtue of [The Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016 (S.I. 2016/565)](https://www.legislation.gov.uk/uksi/2016/565), [regs. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/565/regulation/3/c)
 
 [^c19324141]: Textual amendment: S. 72(1A)(1B) inserted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 21(1)(b)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/21/1/b) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-83ea9e245c5239820d80cf5e2979a6d2]: Textual amendment: Words in s. 72(1B) inserted (15.6.2016) by [The Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016 (S.I. 2016/565)](https://www.legislation.gov.uk/uksi/2016/565), [regs. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2016/565/regulation/3/d)
+[^c-83ea9e245c5239820d80cf5e2979a6d2]: Textual amendment: Words in s. 72(1B) inserted (15.6.2016) by [The Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016 (S.I. 2016/565)](https://www.legislation.gov.uk/uksi/2016/565), [regs. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2016/565/regulation/3/d)
 
 [^c20954061]: Textual amendment: S. 72(1B)(a) omitted (1.1.2011) by virtue of [The Copyright, Designs and Patents Act 1988 (Amendment) Regulations 2010 (S.I. 2010/2694)](https://www.legislation.gov.uk/uksi/2010/2694), [art. 4(1)](https://www.legislation.gov.uk/uksi/2010/2694/article/4/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Chapter 4[^key-7028cab25430e93258080649213cc466]
+## 6. Chapter 4[^c-7028cab25430e93258080649213cc466]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 >
 > **1.**
 >
-> An adjuvant must not be placed on the market or used in a constituent territory unless it has been authorised in that territory in accordance with Schedule 2 to the Plant Protection Products Regulations 2011 [^c23680771] [^key-af3d6645bcdcb03fb33e4347d400e9d9]... .
+> An adjuvant must not be placed on the market or used in a constituent territory unless it has been authorised in that territory in accordance with Schedule 2 to the Plant Protection Products Regulations 2011 [^c23680771] [^c-af3d6645bcdcb03fb33e4347d400e9d9]... .
 >
 > **2.**
 >
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7028cab25430e93258080649213cc466]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-7028cab25430e93258080649213cc466]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23680771]: Marginal citation: [S.I. 2011/2131](https://www.legislation.gov.uk/uksi/2011/2131), to which there are amendments not relevant to these Regulations.
 
-[^key-af3d6645bcdcb03fb33e4347d400e9d9]: Textual amendment: Words in reg. 6(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(6)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/6)
+[^c-af3d6645bcdcb03fb33e4347d400e9d9]: Textual amendment: Words in reg. 6(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(6)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/6)

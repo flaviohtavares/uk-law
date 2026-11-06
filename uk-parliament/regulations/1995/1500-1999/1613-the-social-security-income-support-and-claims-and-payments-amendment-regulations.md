@@ -52,7 +52,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 In the Income Support Regulations, for Schedule 3, there shall be substituted the Schedule set out in Schedule 1 to these Regulations.
 
-## 3. Direct payments[^key-28ead737b633ed743309bc1f8f4ffbbe]
+## 3. Direct payments[^c-28ead737b633ed743309bc1f8f4ffbbe]
 
 The provisions of Schedules 9 and 9A to the Social Security (Claims and Payments) Regulations 1987 [^c1784181] (which relate to direct payments) shall be amended in accordance with the provisions of Schedule 2 to these Regulations.
 
@@ -678,7 +678,7 @@ To be substituted for Schedule 3 to the Income Support Regulations—
 
 .
 
-## SCHEDULE 2 — Amendments to Schedules 9 and 9A to the Social Security Claims and Payments) Regulations 1987[^key-d99af2668001bc98a2b810c5a5c42801]
+## SCHEDULE 2 — Amendments to Schedules 9 and 9A to the Social Security Claims and Payments) Regulations 1987[^c-d99af2668001bc98a2b810c5a5c42801]
 
 Regulation 3
 
@@ -850,7 +850,7 @@ These Regulations do not impose a charge on businesses.
 
 [^c1784180]: Marginal citation: [S. I.1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
-[^key-28ead737b633ed743309bc1f8f4ffbbe]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/1613/regulation/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pts. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-28ead737b633ed743309bc1f8f4ffbbe]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/1613/regulation/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pts. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1784181]: Marginal citation: [S. I.1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); [Schedule 9A](https://www.legislation.gov.uk/uksi/1995/1613/schedule/9A) was inserted by [S. I.1992/1026](https://www.legislation.gov.uk/uksi/1992/1026).
 
@@ -896,7 +896,7 @@ These Regulations do not impose a charge on businesses.
 
 [^c1784202]: Marginal citation: Relevant amending instruments are [S. I.1991/1175](https://www.legislation.gov.uk/uksi/1991/1175) and 1992/1101.
 
-[^key-d99af2668001bc98a2b810c5a5c42801]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1995/1613/schedule/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pts. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-d99af2668001bc98a2b810c5a5c42801]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1995/1613/schedule/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pts. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1784203]: Marginal citation: [S. I.1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 

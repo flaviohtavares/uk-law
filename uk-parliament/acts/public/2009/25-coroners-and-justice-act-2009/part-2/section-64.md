@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Defences[^key-57cee9d395c03b7634523ee41f1bf2ab]
+## 64. Defences[^c-57cee9d395c03b7634523ee41f1bf2ab]
 
 *Extent: E+W+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57cee9d395c03b7634523ee41f1bf2ab]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2009/25/section/64) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)
+[^c-57cee9d395c03b7634523ee41f1bf2ab]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2009/25/section/64) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)

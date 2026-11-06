@@ -24,7 +24,7 @@ Regulation 186
 
 ### PART 1 — General
 
-#### 1. Interpretation[^key-1e135eb294cc6019cbca43e295747cc6]
+#### 1. Interpretation[^c-1e135eb294cc6019cbca43e295747cc6]
 
 In this Schedule—
 
@@ -35,7 +35,7 @@ In this Schedule—
   - (a) in relation to an existing scheme, means the date referred to in section 18(4)(a) or (b) of the 2013 Act, as the case may be,
   - (b) in relation to an existing public body pension scheme, means the date determined under section 31(2) of the 2013 Act by the public authority responsible for that scheme, and
   - (c) in relation to a transition member, means—
-    - (i) if the member is a tapered protection member of the 1992 Scheme or the NFPS, the tapered protection closing date for that member,[^key-1239c8f440234547826858f7f5decef2]
+    - (i) if the member is a tapered protection member of the 1992 Scheme or the NFPS, the tapered protection closing date for that member,[^c-1239c8f440234547826858f7f5decef2]
     - (ii) if the member is a full protection member of the 1992 Scheme or the NFPS, 31st March 2022, or
     - (iii) if the member is not a protected member of one of those schemes, the scheme closing date;
 - “eligible to be an active member of the NFPS” has the meaning given in paragraph 4;
@@ -53,14 +53,14 @@ In this Schedule—
 - “tapered protection closing date”, in relation to a tapered protection member of an existing scheme, has the meaning given in paragraph 3;
 - “tapered protection member”, in relation to the 1992 Scheme or the NFPS, has the meaning given in paragraph 15;
 - “transition date”, in relation to a transition member, means—
-  - (a) if the member is a tapered protection member of the 1992 Scheme or the NFPS, the day after the tapered protection closing date for that member,[^key-d572d44d43475b5b13372f006f3fcdb5]
+  - (a) if the member is a tapered protection member of the 1992 Scheme or the NFPS, the day after the tapered protection closing date for that member,[^c-d572d44d43475b5b13372f006f3fcdb5]
   - (b) if the member is a full protection member of the 1992 Scheme or the NFPS, 1st April 2022, and
   - (c) if the member is not a protected member of the 1992 Scheme or the NFPS, the day after the scheme closing date, or the day the person ceased to be a protected member of that scheme, if later;
 - “transition member” means a person—
   - (a) who is a member of the 1992 Scheme or the NFPS by virtue of his or her pensionable service under that scheme, or who is eligible to be an active member of the NFPS, before the transition date, and
   - (b) who is a member of this scheme by virtue of the person’s pensionable service under this scheme.
 
-#### 2. Meaning of “continuity of service”[^key-a31ecc5d550255dac1812077485d8307]
+#### 2. Meaning of “continuity of service”[^c-a31ecc5d550255dac1812077485d8307]
 
 (1) A transition member (T) has continuity of service between pensionable service in the 1992 Scheme or the NFPS, as the case may be, and pensionable service in this scheme unless T has a gap in service exceeding five years which—
 
@@ -69,17 +69,17 @@ In this Schedule—
 
 (2) For the purposes of sub-paragraph (1), after the scheme closing date T is not on a gap in service while T is in service which is pensionable under an existing scheme, an existing public body pension scheme, a scheme under section 1 of the 2013 Act or a new public body pension scheme.
 
-#### 3. Meaning of “tapered protection closing date”[^key-61653014eb00117f439bf44226544263]
+#### 3. Meaning of “tapered protection closing date”[^c-61653014eb00117f439bf44226544263]
 
 (1) The tapered protection closing date for a tapered protection member of the 1992 Scheme is the date found by applying the relevant date in column 3 of the 1992 Scheme table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
 
-(2) Subject to[^key-77458277f2a4e7147c1a3d32688607ac] sub-paragraphs (3) and (4)[^key-50c99f6dbdb8b3faa4d4dcd38ea35e50], the tapered protection closing date for a tapered protection member of the NFPS is the date found by applying the relevant date in column 3 of the NFPS table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
+(2) Subject to[^c-77458277f2a4e7147c1a3d32688607ac] sub-paragraphs (3) and (4)[^c-50c99f6dbdb8b3faa4d4dcd38ea35e50], the tapered protection closing date for a tapered protection member of the NFPS is the date found by applying the relevant date in column 3 of the NFPS table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
 
-(3) The tapered protection closing date for a tapered protection member of the NFPS to whom paragraph 9(5) or 21 applies is a date determined by the scheme manager which must be before 1st April 2022[^key-b5289e18f59e7cbc6561f85ddec0335f].
+(3) The tapered protection closing date for a tapered protection member of the NFPS to whom paragraph 9(5) or 21 applies is a date determined by the scheme manager which must be before 1st April 2022[^c-b5289e18f59e7cbc6561f85ddec0335f].
 
-(4)[^key-53491d243fb1630140c8ee69d708a9d7] In the case of a tapered protection member of the NFPS who is a special member of the NFPS, the tapered protection closing date is the date found by applying the relevant date in column 3 of the 1992 Scheme table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
+(4)[^c-53491d243fb1630140c8ee69d708a9d7] In the case of a tapered protection member of the NFPS who is a special member of the NFPS, the tapered protection closing date is the date found by applying the relevant date in column 3 of the 1992 Scheme table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
 
-#### 4. Meaning of “eligible to be an active member” of the NFPS[^key-8847c7a53dc1c566fdf569d7b7b6313a]
+#### 4. Meaning of “eligible to be an active member” of the NFPS[^c-8847c7a53dc1c566fdf569d7b7b6313a]
 
 (1) For the purpose of this Schedule, a person (P) is eligible to be an active member of the NFPS on a given date if on that date P is not in pensionable service under the 1992 Scheme or the NFPS and either—
 
@@ -88,7 +88,7 @@ In this Schedule—
 
 (2) For the purpose of sub-paragraph (1)(b), after the scheme closing date P is not on a gap in service while P is in pensionable public service.
 
-#### 5. Meaning of “active member of the 1992 Scheme or the NFPS”[^key-75ec24ef4dabcc67a53f7062daf3c45d]
+#### 5. Meaning of “active member of the 1992 Scheme or the NFPS”[^c-75ec24ef4dabcc67a53f7062daf3c45d]
 
 (1) For the purpose of this Schedule, a person (P) is an active member of the 1992 Scheme or the NFPS on a given date if on that date—
 
@@ -97,7 +97,7 @@ In this Schedule—
 
 (2) For the purpose of sub-paragraph (1)(b), after the scheme closing date P is not on a gap in service while P is in pensionable public service.
 
-#### 6. Meaning of “active member of an existing scheme”[^key-02982e4371fed961e1f8f14ed2f95463]
+#### 6. Meaning of “active member of an existing scheme”[^c-02982e4371fed961e1f8f14ed2f95463]
 
 (1) For the purpose of this Schedule, a person (P) is an active member of an existing scheme[^f00071] (other than the 1992 Scheme or the NFPS) on a given date if on that date—
 
@@ -106,7 +106,7 @@ In this Schedule—
 
 (2) For the purpose of sub-paragraph (1)(b), after the closing date for the existing scheme P is not on a gap in service while P is in pensionable public service.
 
-#### 7. Meaning of “active member of an existing public body pension scheme”[^key-9fb291885cf342409aa63cf3f9618892]
+#### 7. Meaning of “active member of an existing public body pension scheme”[^c-9fb291885cf342409aa63cf3f9618892]
 
 (1) For the purpose of this Schedule, a person (P) is an active member of an existing public body pension scheme on a given date if on that date—
 
@@ -115,7 +115,7 @@ In this Schedule—
 
 (2) For the purpose of sub-paragraph (1)(b), after the closing date for the existing public body pension scheme, P is not on a gap in service while P is in pensionable public service.
 
-#### 8. Commencement of active membership of this scheme[^key-b0b120ee304daa36fff3fbf3aa89e0cc]
+#### 8. Commencement of active membership of this scheme[^c-b0b120ee304daa36fff3fbf3aa89e0cc]
 
 (1) A person who is a transition member on entering pensionable service under this scheme who does not have continuity of service becomes an active member of this scheme on the day the person begins pensionable service in a scheme employment.
 
@@ -126,16 +126,16 @@ In this Schedule—
 
 ### PART 2 — Full protection members of the 1992 Scheme or the NFPS
 
-#### 9. Full protection members of the 1992 Scheme or the NFPS[^key-447abca3b76ee9ca45ad44c5632678f0]
+#### 9. Full protection members of the 1992 Scheme or the NFPS[^c-447abca3b76ee9ca45ad44c5632678f0]
 
 (1) A person (P) to whom any of paragraphs 12 to 14 applies is a full protection member of the 1992 Scheme or the NFPS, as the case may be.
 
-(2) P ceases to be a full protection member of the 1992 Scheme or the NFPS, as the case may be—[^key-82525728e2e14ef86f297cb17f274d36]
+(2) P ceases to be a full protection member of the 1992 Scheme or the NFPS, as the case may be—[^c-82525728e2e14ef86f297cb17f274d36]
 
 - (a) on 31st March 2022; or
 - (b) when P ceases to be in pensionable service under that scheme and ceases to be eligible to be an active member of the NFPS (unless sub-paragraph (3) or (4) applies), if earlier.
 
-(2A)[^key-d461c20e6d4b50005ca3ee92c82dde88] Where P was a full protection member of the 1992 Scheme and after retiring from pensionable service in this scheme became entitled to a continuous service pension under rule B1A, or an ordinary pension under rule B1 or a short service award under rule B2 of that scheme or a continued pension under rule B2A, P ceases to be eligible to be a full protection member of the NFPS.
+(2A)[^c-d461c20e6d4b50005ca3ee92c82dde88] Where P was a full protection member of the 1992 Scheme and after retiring from pensionable service in this scheme became entitled to a continuous service pension under rule B1A, or an ordinary pension under rule B1 or a short service award under rule B2 of that scheme or a continued pension under rule B2A, P ceases to be eligible to be a full protection member of the NFPS.
 
 (3) This sub-paragraph applies if—
 
@@ -156,7 +156,7 @@ In this Schedule—
 
 (7) For the purpose of paragraph (4)(b), after the scheme closing date P is not on a gap in service while P is in pensionable public service.
 
-#### 10. Exception for full protection member during protection period[^key-c49792f3ae25820a2248b541c548c678]
+#### 10. Exception for full protection member during protection period[^c-c49792f3ae25820a2248b541c548c678]
 
 (1) The protection period for a person (P) who is a full protection member of the 1992 Scheme or the NFPS, as the case may be, is the period which—
 
@@ -169,11 +169,11 @@ In this Schedule—
 - (b) section 18(1) of the 2013 Act does not apply in respect of that pensionable service; and
 - (c) benefits are to be provided under the 1992 Scheme or the NFPS, as the case may be, to or in respect of P in relation to that pensionable service.
 
-#### 11. Full protection member not eligible to join this scheme[^key-3e8b4c8d5443a4000c34cf099cb83192]
+#### 11. Full protection member not eligible to join this scheme[^c-3e8b4c8d5443a4000c34cf099cb83192]
 
 While a person (P) is a full protection member of the 1992 Scheme or the NFPS, P is not eligible to be an active member of this scheme in respect of that scheme employment.
 
-#### 12. Full protection: members of the 1992 Scheme or the NFPS on scheme closing date[^key-064c1ae26516dbb19ac9a6e4d19d6187]
+#### 12. Full protection: members of the 1992 Scheme or the NFPS on scheme closing date[^c-064c1ae26516dbb19ac9a6e4d19d6187]
 
 (1) This paragraph applies if sub-paragraph (2) or sub-paragraph (3) applies.
 
@@ -189,7 +189,7 @@ While a person (P) is a full protection member of the 1992 Scheme or the NFPS, P
 - (b) P was an active member or eligible to be an active member of the NFPS on the scheme closing date; and
 - (c) P would, unless P dies, reach normal pension age under the NFPS and P’s transitional scheme on or before 1st April 2022.
 
-#### 13. Full protection: members of an existing scheme[^key-ce3dc7f3e4365b39b07efec3a9926dd8]
+#### 13. Full protection: members of an existing scheme[^c-ce3dc7f3e4365b39b07efec3a9926dd8]
 
 This paragraph applies if—
 
@@ -199,7 +199,7 @@ This paragraph applies if—
 - (d) on the date that P begins service which is pensionable under the NFPS, P would have been a fully protected member of the existing scheme referred to in sub-paragraph (c) had P re-entered service which is pensionable under that scheme on that date; and
 - (e) P would, unless P dies, reach normal pension age under the NFPS and P’s transitional scheme on or before 1st April 2022.
 
-#### 14. Full protection: members of an existing public body pension scheme[^key-c5b0411de078c95ef3928b9eb15321ac]
+#### 14. Full protection: members of an existing public body pension scheme[^c-c5b0411de078c95ef3928b9eb15321ac]
 
 This paragraph applies if—
 
@@ -211,11 +211,11 @@ This paragraph applies if—
 
 ### PART 3 — Exceptions to section 18(1) of the 2013 Act: tapered protection members of the 1992 Scheme or the NFPS
 
-#### 15. Tapered protection members of the 1992 Scheme or the NFPS[^key-410e0a4e03fb98d63e21f230ed33643e]
+#### 15. Tapered protection members of the 1992 Scheme or the NFPS[^c-410e0a4e03fb98d63e21f230ed33643e]
 
 (1) A person (P) to whom any of paragraphs 18 to 21 applies is a tapered protection member of the 1992 Scheme or the NFPS.
 
-(1A)[^key-f5023e337a89726d73a70c4b3e4b2e0e] Where P was a full protection member of the 1992 Scheme and after retiring from pensionable service in this scheme, became entitled to a continuous service pension under rule B1A, or an ordinary pension under rule B1 or a short service award under rule B2 or a continued pension under rule B2A of that scheme, P ceases to be eligible to be a tapered protection member of the NFPS.
+(1A)[^c-f5023e337a89726d73a70c4b3e4b2e0e] Where P was a full protection member of the 1992 Scheme and after retiring from pensionable service in this scheme, became entitled to a continuous service pension under rule B1A, or an ordinary pension under rule B1 or a short service award under rule B2 or a continued pension under rule B2A of that scheme, P ceases to be eligible to be a tapered protection member of the NFPS.
 
 (2) P ceases to be a tapered protection member of the 1992 Scheme or the NFPS on whichever of the following days occurs first—
 
@@ -234,7 +234,7 @@ This paragraph applies if—
 
 (5) For the purpose of paragraph (4)(b), after the scheme closing date, P is not on a gap in service while P is in pensionable public service.
 
-#### 16. Exception for tapered protection members during protection period[^key-cd56cd9aacf0e963d93f499ca3f4bfc3]
+#### 16. Exception for tapered protection members during protection period[^c-cd56cd9aacf0e963d93f499ca3f4bfc3]
 
 (1) The protection period for a tapered protection member of the 1992 Scheme or the NFPS is the period which—
 
@@ -247,11 +247,11 @@ This paragraph applies if—
 - (b) section 18(1) of the 2013 Act does not apply in respect of that pensionable service; and
 - (c) benefits are to be provided under the 1992 Scheme or the NFPS, as the case may be, to or in respect of P in relation to that pensionable service.
 
-#### 17. Tapered protection member not eligible to join this scheme[^key-4abefde8f40a0763dde7d9d0da28c2d5]
+#### 17. Tapered protection member not eligible to join this scheme[^c-4abefde8f40a0763dde7d9d0da28c2d5]
 
 While a person (P) is a tapered protection member of the 1992 Scheme or the NFPS, P is not eligible to be an active member of this scheme in respect of that scheme employment.
 
-#### 18. Tapered protection: members of the 1992 Scheme or the NFPS on scheme closing date[^key-2e83c34cfbf55ffe20bb0fda12c63539]
+#### 18. Tapered protection: members of the 1992 Scheme or the NFPS on scheme closing date[^c-2e83c34cfbf55ffe20bb0fda12c63539]
 
 (1) This paragraph applies if sub-paragraph (2) or sub-paragraph (3) applies.
 
@@ -265,11 +265,11 @@ While a person (P) is a tapered protection member of the 1992 Scheme or the NFPS
 
 - (a) P was an active member of an existing scheme other than the 1992 Scheme or the NFPS, or of an existing public body pension scheme, (“P’s transitional scheme”) on 31st March 2012;
 - (b) P was an active member of the NFPS on the scheme closing date; and
-- (c) P would, unless P dies, [^key-1d655ab3d922dbdf76204ae580fa113c]... reach normal pension age under—
+- (c) P would, unless P dies, [^c-1d655ab3d922dbdf76204ae580fa113c]... reach normal pension age under—
   - (i) the NFPS during the period beginning with 2nd April 2022 and ending with 31st March 2026, and
   - (ii) P’s transitional scheme on or before 1st September 2025.
 
-#### 19. Tapered protection: members of an existing scheme[^key-dcd3a95b00bb6ca2f58e252c01a3c698]
+#### 19. Tapered protection: members of an existing scheme[^c-dcd3a95b00bb6ca2f58e252c01a3c698]
 
 This paragraph applies if—
 
@@ -281,7 +281,7 @@ This paragraph applies if—
   - (i) the NFPS during the period beginning with 2nd April 2022 and ending with 31st March 2026, and
   - (ii) P’s transitional scheme on or before 1st September 2025.
 
-#### 20. Tapered protection: members of an existing public body pension scheme[^key-053aba420de02d39c914740241c1de22]
+#### 20. Tapered protection: members of an existing public body pension scheme[^c-053aba420de02d39c914740241c1de22]
 
 This paragraph applies if—
 
@@ -293,14 +293,14 @@ This paragraph applies if—
   - (i) the NFPS during the period beginning with 2nd April 2022 and ending with 31st March 2026, and
   - (ii) P’s transitional scheme on or before 1st September 2025.
 
-#### 21. Tapered protection members of an existing scheme or an existing public body pension scheme[^key-38e8cc3f882be05eebef02916c8b62d7]
+#### 21. Tapered protection members of an existing scheme or an existing public body pension scheme[^c-38e8cc3f882be05eebef02916c8b62d7]
 
 This paragraph applies if—
 
 - (a) paragraph 13 or 14 of this Schedule would have applied but for the fact that P would not have been a fully protected member of the existing scheme or existing public body pension scheme referred to in paragraph (13)(c) or (14)(c), as the case may be (“transferring scheme”) on the date P begins service which is pensionable under the NFPS; and
 - (b) P would have been a protected member of the transferring scheme by virtue of an exception to which section 18(7)(a) and (b) of the 2013 Act (or that section as applied by section 31(4)) applies had P re-entered service which is pensionable under the transferring scheme on the date P returns to service which is pensionable under the NFPS.
 
-### PART 3A — Payment of ill-health benefits to transition members[^key-807d9af1895a83d6092db7aada3aa3eb]
+### PART 3A — Payment of ill-health benefits to transition members[^c-807d9af1895a83d6092db7aada3aa3eb]
 
 #### 22. Transition member who has not reached normal pension age under the NFPS
 
@@ -312,7 +312,7 @@ This paragraph applies if—
 
 (2) If this paragraph applies—
 
-- (a) neither a lower tier ill-health pension nor a higher tier ill-health pension are payable under rule 2 of Part 3[^key-c485e28d1accb3db49db81acf14d3187] (awards on ill-health retirement) of the NFPS; and
+- (a) neither a lower tier ill-health pension nor a higher tier ill-health pension are payable under rule 2 of Part 3[^c-c485e28d1accb3db49db81acf14d3187] (awards on ill-health retirement) of the NFPS; and
 - (b) an ill-health award is payable under this scheme in accordance with this paragraph.
 
 (3) If the member meets the conditions only for a lower tier ill-health pension under this scheme the annual rate of a lower tier ill-health pension payable under this scheme is the sum of—
@@ -440,7 +440,7 @@ This paragraph applies if—
 
 (2) The following provisions of Chapter 2 (purchase of additional service) of Part 11 (pensionable pay, pension contributions and purchase of additional service) of the NFPS continue to apply after the transition date as if T continued in pensionable service under that scheme—
 
-- (a) the provisions relating to the payment of periodical contributions for the purchase of additional service if T had made an election to purchase additional service under rule 6 (election to purchase additional service) [^key-063c67f19f6acad5fe96173e1bdfcba9]...;
+- (a) the provisions relating to the payment of periodical contributions for the purchase of additional service if T had made an election to purchase additional service under rule 6 (election to purchase additional service) [^c-063c67f19f6acad5fe96173e1bdfcba9]...;
 - (b) the provisions relating to the payment of the mandatory special period pension contributions payable in respect of an election to purchase service during the limited period under rule 6A (election to purchase service during the limited period).
 
 (3) In determining whether T qualifies under the NFPS for retirement benefits (other than an award on ill-health retirement or a deferred pension), T’s pensionable service under the NFPS terminates when T’s pensionable service under this scheme terminates.
@@ -499,7 +499,7 @@ This paragraph applies if—
 
 #### 35. Deferred member of the 1992 Scheme
 
-A transition member with accrued benefits in the 1992 Scheme to whom paragraph 34[^key-c961a5886eabe681314865ba970ba7ef] does not apply is a deferred member of the 1992 Scheme.
+A transition member with accrued benefits in the 1992 Scheme to whom paragraph 34[^c-c961a5886eabe681314865ba970ba7ef] does not apply is a deferred member of the 1992 Scheme.
 
 #### 36. Deferred member of the NFPS
 
@@ -512,11 +512,11 @@ A transition member with accrued benefits in the 1992 Scheme to whom paragraph 3
 
 (3) If T re-enters pensionable service under this scheme after a gap in service not exceeding 5 years, T ceases to be a deferred member of the NFPS.
 
-#### 37. Authority determines the entitlement of a member of the NFPS to an ill-health award[^key-e285748134220682dca5b17ba3752610]
+#### 37. Authority determines the entitlement of a member of the NFPS to an ill-health award[^c-e285748134220682dca5b17ba3752610]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 38. Authority determines the entitlement of a member of the 1992 Scheme to an ill- health award[^key-ad06e5298f0d2d8d3d8e22cc522b1956]
+#### 38. Authority determines the entitlement of a member of the 1992 Scheme to an ill- health award[^c-ad06e5298f0d2d8d3d8e22cc522b1956]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -559,7 +559,7 @@ Where any element of a pension under the 1992 Scheme which is in payment under t
 
 #### 45. Acceptance of club transfer value payments
 
-Any part of a club transfer value payment from another scheme that relates to a member’s final salary benefit apart from a payment from the 1992 scheme as that scheme has effect in Scotland, Wales and Northern Ireland[^key-f36836092ad21880214d6c5ee1587d2c] must be paid into the NFPS.
+Any part of a club transfer value payment from another scheme that relates to a member’s final salary benefit apart from a payment from the 1992 scheme as that scheme has effect in Scotland, Wales and Northern Ireland[^c-f36836092ad21880214d6c5ee1587d2c] must be paid into the NFPS.
 
 #### 46. Member of this scheme or the NFPS
 
@@ -570,7 +570,7 @@ Any part of a club transfer value payment from another scheme that relates to a 
 - (a) becomes a member of this scheme; and
 - (b) is taken to be a transition member with continuity of service.
 
-### PART 4[^key-ed3911e0bfd0d84a127e8b686c7f64f5]
+### PART 4[^c-ed3911e0bfd0d84a127e8b686c7f64f5]
 
 1992 Scheme
 
@@ -680,86 +680,86 @@ NFPS
 
 ## Annotations
 
-[^key-1e135eb294cc6019cbca43e295747cc6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/1) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-1e135eb294cc6019cbca43e295747cc6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/1) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-1239c8f440234547826858f7f5decef2]: Textual amendment: Words in Sch. 2 para. 1 substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/a/i)
+[^c-1239c8f440234547826858f7f5decef2]: Textual amendment: Words in Sch. 2 para. 1 substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/a/i)
 
-[^key-d572d44d43475b5b13372f006f3fcdb5]: Textual amendment: Words in Sch. 2 para. 1 substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/a/ii)
+[^c-d572d44d43475b5b13372f006f3fcdb5]: Textual amendment: Words in Sch. 2 para. 1 substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/a/ii)
 
-[^key-a31ecc5d550255dac1812077485d8307]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/2) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-a31ecc5d550255dac1812077485d8307]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/2) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-61653014eb00117f439bf44226544263]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-61653014eb00117f439bf44226544263]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-77458277f2a4e7147c1a3d32688607ac]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3/2) substituted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/a)
+[^c-77458277f2a4e7147c1a3d32688607ac]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3/2) substituted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/a)
 
-[^key-50c99f6dbdb8b3faa4d4dcd38ea35e50]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3/2) substituted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/10/2)
+[^c-50c99f6dbdb8b3faa4d4dcd38ea35e50]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3/2) substituted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/10/2)
 
-[^key-b5289e18f59e7cbc6561f85ddec0335f]: Textual amendment: Words in [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3/3) inserted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/b)
+[^c-b5289e18f59e7cbc6561f85ddec0335f]: Textual amendment: Words in [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3/3) inserted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/b)
 
-[^key-53491d243fb1630140c8ee69d708a9d7]: Textual amendment: [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3/4) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/a)
+[^c-53491d243fb1630140c8ee69d708a9d7]: Textual amendment: [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/3/4) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/a)
 
-[^key-8847c7a53dc1c566fdf569d7b7b6313a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-8847c7a53dc1c566fdf569d7b7b6313a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-75ec24ef4dabcc67a53f7062daf3c45d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-75ec24ef4dabcc67a53f7062daf3c45d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-02982e4371fed961e1f8f14ed2f95463]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/6) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-02982e4371fed961e1f8f14ed2f95463]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/6) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00071]: Footnote: See section 18(2) of the 2013 Act for the meaning of “existing scheme”.
 
-[^key-9fb291885cf342409aa63cf3f9618892]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-9fb291885cf342409aa63cf3f9618892]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-b0b120ee304daa36fff3fbf3aa89e0cc]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-b0b120ee304daa36fff3fbf3aa89e0cc]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-447abca3b76ee9ca45ad44c5632678f0]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-447abca3b76ee9ca45ad44c5632678f0]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-82525728e2e14ef86f297cb17f274d36]: Textual amendment: Words in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/9/2) substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/c)
+[^c-82525728e2e14ef86f297cb17f274d36]: Textual amendment: Words in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/9/2) substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/c)
 
-[^key-d461c20e6d4b50005ca3ee92c82dde88]: Textual amendment: [Sch. 2 para. 9(2A)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/9/2A) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/b)
+[^c-d461c20e6d4b50005ca3ee92c82dde88]: Textual amendment: [Sch. 2 para. 9(2A)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/9/2A) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/b)
 
-[^key-c49792f3ae25820a2248b541c548c678]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/10) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-c49792f3ae25820a2248b541c548c678]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/10) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-3e8b4c8d5443a4000c34cf099cb83192]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-3e8b4c8d5443a4000c34cf099cb83192]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-064c1ae26516dbb19ac9a6e4d19d6187]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-064c1ae26516dbb19ac9a6e4d19d6187]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00072]: Footnote: [S.I.1992/129](https://www.legislation.gov.uk/uksi/1992/129):rule A13 provides that normal pension age is 55 and rule B1 enables regular firefighters over the age of 50 to retire once have reckoned pensionable service of at least 25 years. These rules have been amended by [S.I. 2005/2980](https://www.legislation.gov.uk/uksi/2005/2980), [3228](https://www.legislation.gov.uk/uksi/2005/3228) and [S.I. 2006/342](https://www.legislation.gov.uk/uksi/2006/342), [1810](https://www.legislation.gov.uk/uksi/2006/1810), [3433](https://www.legislation.gov.uk/uksi/2006/3433) and [2013/1392](https://www.legislation.gov.uk/uksi/2013/1392).
 
 [^f00073]: Footnote: [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432): rule 3(1) of Part 2 provides that normal retirement age of firefighter members is 60.
 
-[^key-ce3dc7f3e4365b39b07efec3a9926dd8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-ce3dc7f3e4365b39b07efec3a9926dd8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-c5b0411de078c95ef3928b9eb15321ac]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-c5b0411de078c95ef3928b9eb15321ac]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-410e0a4e03fb98d63e21f230ed33643e]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/15) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-410e0a4e03fb98d63e21f230ed33643e]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/15) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-f5023e337a89726d73a70c4b3e4b2e0e]: Textual amendment: [Sch. 2 para. 15(1A)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/15/1A) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/c)
+[^c-f5023e337a89726d73a70c4b3e4b2e0e]: Textual amendment: [Sch. 2 para. 15(1A)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/15/1A) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/c)
 
-[^key-cd56cd9aacf0e963d93f499ca3f4bfc3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-cd56cd9aacf0e963d93f499ca3f4bfc3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-4abefde8f40a0763dde7d9d0da28c2d5]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-4abefde8f40a0763dde7d9d0da28c2d5]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-2e83c34cfbf55ffe20bb0fda12c63539]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/18) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-2e83c34cfbf55ffe20bb0fda12c63539]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/18) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-1d655ab3d922dbdf76204ae580fa113c]: Textual amendment: Word in [Sch. 2 para. 18(3)(c)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/18/3/c) omitted (with effect from 1.4.2015) by virtue of [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2017/888/regulation/10/3)
+[^c-1d655ab3d922dbdf76204ae580fa113c]: Textual amendment: Word in [Sch. 2 para. 18(3)(c)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/18/3/c) omitted (with effect from 1.4.2015) by virtue of [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2017/888/regulation/10/3)
 
-[^key-dcd3a95b00bb6ca2f58e252c01a3c698]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-dcd3a95b00bb6ca2f58e252c01a3c698]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-053aba420de02d39c914740241c1de22]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-053aba420de02d39c914740241c1de22]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-38e8cc3f882be05eebef02916c8b62d7]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-38e8cc3f882be05eebef02916c8b62d7]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-807d9af1895a83d6092db7aada3aa3eb]: Textual amendment: Sch. 2 Pts. 3A-3D inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/d)
+[^c-807d9af1895a83d6092db7aada3aa3eb]: Textual amendment: Sch. 2 Pts. 3A-3D inserted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/589)](https://www.legislation.gov.uk/uksi/2015/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/589/regulation/1/2), [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/uksi/2015/589/schedule/1/paragraph/7/d)
 
-[^key-c485e28d1accb3db49db81acf14d3187]: Textual amendment: Words in [Sch. 2 para. 22(2)(a)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/22/2/a) inserted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2017/888/regulation/10/4)
+[^c-c485e28d1accb3db49db81acf14d3187]: Textual amendment: Words in [Sch. 2 para. 22(2)(a)](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/22/2/a) inserted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2017/888/regulation/10/4)
 
-[^key-063c67f19f6acad5fe96173e1bdfcba9]: Textual amendment: Words in Sch. 2 para. 31(2)(a) omitted (1.4.2022) by virtue of [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/d)
+[^c-063c67f19f6acad5fe96173e1bdfcba9]: Textual amendment: Words in Sch. 2 para. 31(2)(a) omitted (1.4.2022) by virtue of [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/d)
 
-[^key-c961a5886eabe681314865ba970ba7ef]: Textual amendment: Words in [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/35) substituted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2015 (S.I. 2015/871)](https://www.legislation.gov.uk/uksi/2015/871), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/871/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/871/regulation/2/4)
+[^c-c961a5886eabe681314865ba970ba7ef]: Textual amendment: Words in [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/paragraph/35) substituted (1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2015 (S.I. 2015/871)](https://www.legislation.gov.uk/uksi/2015/871), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/871/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/871/regulation/2/4)
 
-[^key-e285748134220682dca5b17ba3752610]: Textual amendment: Sch. 2 para. 37 omitted (1.4.2022) by virtue of [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/e)
+[^c-e285748134220682dca5b17ba3752610]: Textual amendment: Sch. 2 para. 37 omitted (1.4.2022) by virtue of [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/e)
 
-[^key-ad06e5298f0d2d8d3d8e22cc522b1956]: Textual amendment: Sch. 2 para. 38 omitted (1.4.2022) by virtue of [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/e)
+[^c-ad06e5298f0d2d8d3d8e22cc522b1956]: Textual amendment: Sch. 2 para. 38 omitted (1.4.2022) by virtue of [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2022/336/regulation/2/3/e)
 
-[^key-f36836092ad21880214d6c5ee1587d2c]: Textual amendment: Words in Sch. 2 para. 45 inserted (with effect from 1.4.2015) by [The Police and Firefighters’ Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [46(2)](https://www.legislation.gov.uk/uksi/2018/997/regulation/46/2)
+[^c-f36836092ad21880214d6c5ee1587d2c]: Textual amendment: Words in Sch. 2 para. 45 inserted (with effect from 1.4.2015) by [The Police and Firefighters’ Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [46(2)](https://www.legislation.gov.uk/uksi/2018/997/regulation/46/2)
 
-[^key-ed3911e0bfd0d84a127e8b686c7f64f5]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/part/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-ed3911e0bfd0d84a127e8b686c7f64f5]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2014/2848/schedule/2/part/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

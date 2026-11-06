@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Disclosure of HMRC council tax information[^key-b8c1ad083f05d9057a7a67d180c43b82]
+## 69. Disclosure of HMRC council tax information[^c-b8c1ad083f05d9057a7a67d180c43b82]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
   - (a) the address (including the postcode) of the premises;
   - (b) the council tax valuation band in which the premises fall;
   - (c) information about when the premises were constructed;
-  - (d) the National Address[^key-07ce882263082e75e6faa1abd57364c6] Gazetteer unique property reference number for the premises;
+  - (d) the National Address[^c-07ce882263082e75e6faa1abd57364c6] Gazetteer unique property reference number for the premises;
   - (e) the unique address reference number allocated to the premises by the Valuation Office of Her Majesty's Revenue and Customs.
 
 (4) The Secretary of State may by regulations amend the definition of “relevant HMRC council tax information” in subsection (3).
@@ -55,6 +55,6 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (wrongful discl
 
 ## Annotations
 
-[^key-b8c1ad083f05d9057a7a67d180c43b82]: Commencement: S. 69 in force at 1.1.2015 in so far as not already in force by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/f)
+[^c-b8c1ad083f05d9057a7a67d180c43b82]: Commencement: S. 69 in force at 1.1.2015 in so far as not already in force by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/f)
 
-[^key-07ce882263082e75e6faa1abd57364c6]: Textual amendment: Word in [s. 69(3)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/69/3/d) substituted (11.11.2015) by [The Flood Reinsurance (Scheme Funding and Administration) Regulations 2015 (S.I. 2015/1902)](https://www.legislation.gov.uk/uksi/2015/1902), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b), [29](https://www.legislation.gov.uk/uksi/2015/1902/regulation/29)
+[^c-07ce882263082e75e6faa1abd57364c6]: Textual amendment: Word in [s. 69(3)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/69/3/d) substituted (11.11.2015) by [The Flood Reinsurance (Scheme Funding and Administration) Regulations 2015 (S.I. 2015/1902)](https://www.legislation.gov.uk/uksi/2015/1902), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/1902/regulation/1/b), [29](https://www.legislation.gov.uk/uksi/2015/1902/regulation/29)

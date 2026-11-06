@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Regular reporting[^key-3b0137f564e5b0224d671699dc59ac83]
+## 82. Regular reporting[^c-3b0137f564e5b0224d671699dc59ac83]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b0137f564e5b0224d671699dc59ac83]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-3b0137f564e5b0224d671699dc59ac83]: Commencement: S. 82 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

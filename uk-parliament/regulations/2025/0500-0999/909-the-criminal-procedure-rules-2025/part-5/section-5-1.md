@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.1. Applications, etc. by forms or electronic means[^key-87775f8355907dbecc0e03e60baa6df3]
+## 5.1. Applications, etc. by forms or electronic means[^c-87775f8355907dbecc0e03e60baa6df3]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87775f8355907dbecc0e03e60baa6df3]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/uksi/2025/909/rule/5.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-87775f8355907dbecc0e03e60baa6df3]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/uksi/2025/909/rule/5.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -208,7 +208,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 56 — Bail: restrictions in certain cases of homicide or rape.](part-iii/section-56.md)
 - [Section 57 — Use of live television links at preliminary hearings.](part-iii/section-57.md)
 
-### Part 3A — Live links for accused's attendance at certain preliminary , Sentencing and other hearings[^key-1c98315fb04d16a1753596fe3f48b413][^c21400021]
+### Part 3A — Live links for accused's attendance at certain preliminary , Sentencing and other hearings[^c-1c98315fb04d16a1753596fe3f48b413][^c21400021]
 
 *Extent: E+W*
 
@@ -250,7 +250,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 65 — Reprimands and warnings.](part-iv/section-65.md)
 - [Section 66 — Effect of reprimands and warnings.](part-iv/section-66.md)
 
-##### Young offenders: youth cautions[^key-f7d828cae8a98711a1348f2121f849d2]
+##### Young offenders: youth cautions[^c-f7d828cae8a98711a1348f2121f849d2]
 
 - [Section 66ZA — Youth cautions](part-iv/section-66za.md)
 - [Section 66ZB — Effect of youth cautions](part-iv/section-66zb.md)
@@ -408,10 +408,10 @@ SCHEDULES
 
 [^c9523681]: Textual amendment: Words in the cross-heading substituted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2001/24/section/39/2), [127(2)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2) (with [s. 42](https://www.legislation.gov.uk/ukpga/2001/24/section/42))
 
-[^key-1c98315fb04d16a1753596fe3f48b413]: Textual amendment: Pt. 3A omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 200(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/200/2), [208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-1c98315fb04d16a1753596fe3f48b413]: Textual amendment: Pt. 3A omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 200(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/200/2), [208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
 
 [^c21400021]: Textual amendment: Words in Pt. 3A title substituted (14.12.2009) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/109/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3253/article/2/b)
 
-[^key-f7d828cae8a98711a1348f2121f849d2]: Textual amendment: Ss. 66ZA, 66ZB and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/453/article/4/d)
+[^c-f7d828cae8a98711a1348f2121f849d2]: Textual amendment: Ss. 66ZA, 66ZB and cross-heading inserted (8.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(d)](https://www.legislation.gov.uk/uksi/2013/453/article/4/d)
 
 [^c21397831]: Textual amendment: Ss. 66A-66H (and cross-headings before ss. 66A, 66H) inserted (1.2.2009 for the insertion of ss. 66G, 66H, 1.4.2009 for the insertion of s. 66C, 16.11.2009 for the insertion of ss. 66A, 66B, 66D-66F for specified purposes, 8.4.2013 in so far as not already in force) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/9/paragraph/3) (with [Sch. 27 para. 18](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/18)); [S.I. 2009/140](https://www.legislation.gov.uk/uksi/2009/140), [art. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2009/140/article/2/e/ii); [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/h); [S.I. 2009/2780](https://www.legislation.gov.uk/uksi/2009/2780), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2009/2780/article/2/2); [S.I. 2013/616](https://www.legislation.gov.uk/uksi/2013/616), art. 2(b)

@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-The Charges for Inspections and Controls (Amendment) Regulations 1998 (revoked)[^key-23820ad454a489c21e8a5322b7561d5b]
+The Charges for Inspections and Controls (Amendment) Regulations 1998 (revoked)[^c-23820ad454a489c21e8a5322b7561d5b]
 
 Made
 
@@ -44,34 +44,34 @@ Coming into force
 
 22nd December 1998
 
-[^key-23820ad454a489c21e8a5322b7561d5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23820ad454a489c21e8a5322b7561d5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-23820ad454a489c21e8a5322b7561d5b]
+## 1. Title, commencement and interpretation[^c-23820ad454a489c21e8a5322b7561d5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-23820ad454a489c21e8a5322b7561d5b]
+## 2. Amendment of the principal Regulations[^c-23820ad454a489c21e8a5322b7561d5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-23820ad454a489c21e8a5322b7561d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-23820ad454a489c21e8a5322b7561d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-23820ad454a489c21e8a5322b7561d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-23820ad454a489c21e8a5322b7561d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-23820ad454a489c21e8a5322b7561d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-23820ad454a489c21e8a5322b7561d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Dairy Produce Quotas Regulations 1997[^key-23820ad454a489c21e8a5322b7561d5b]
+## 6. Amendment of the Dairy Produce Quotas Regulations 1997[^c-23820ad454a489c21e8a5322b7561d5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23820ad454a489c21e8a5322b7561d5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23820ad454a489c21e8a5322b7561d5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-23820ad454a489c21e8a5322b7561d5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23820ad454a489c21e8a5322b7561d5b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23820ad454a489c21e8a5322b7561d5b]: Textual amendment: Regulations revoked (E.W.S) (1.10.2006) by [The Charges for Residues Surveillance Regulations 2006 (S.I. 2006/2285)](https://www.legislation.gov.uk/uksi/2006/2285), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2285/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2285/schedule/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2006/2285/regulation/6))
+[^c-23820ad454a489c21e8a5322b7561d5b]: Textual amendment: Regulations revoked (E.W.S) (1.10.2006) by [The Charges for Residues Surveillance Regulations 2006 (S.I. 2006/2285)](https://www.legislation.gov.uk/uksi/2006/2285), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2285/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2285/schedule/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2006/2285/regulation/6))

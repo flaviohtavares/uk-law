@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Amendments to the definition of “person granted leave under the Afghan Relocations and Assistance Policy Scheme”[^key-2cd4c661c2697db5a2de6f539bcd7b0a]
+## 126. Amendments to the definition of “person granted leave under the Afghan Relocations and Assistance Policy Scheme”[^c-2cd4c661c2697db5a2de6f539bcd7b0a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In Part 1 of Schedule 1 (eligible students: interpretation), in paragraph 1(1), 
 
 ## Annotations
 
-[^key-2cd4c661c2697db5a2de6f539bcd7b0a]: Commencement: Reg. 126 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-2cd4c661c2697db5a2de6f539bcd7b0a]: Commencement: Reg. 126 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

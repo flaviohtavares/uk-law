@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Power to conduct non-contentious inquests in writing[^key-267ae484d9552859f68b9ba81c43774c]
+## 40. Power to conduct non-contentious inquests in writing[^c-267ae484d9552859f68b9ba81c43774c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-267ae484d9552859f68b9ba81c43774c]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/35/section/40) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)
+[^c-267ae484d9552859f68b9ba81c43774c]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/35/section/40) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)

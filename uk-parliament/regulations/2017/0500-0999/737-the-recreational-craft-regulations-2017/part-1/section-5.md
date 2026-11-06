@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Exhibition at trade fairs[^key-274684ccb5139a693958ff3f4e543c7e]
+## 5. Exhibition at trade fairs[^c-274684ccb5139a693958ff3f4e543c7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Nothing in these Regulations prevents the showing of a watercraft which does not
 
 ## Annotations
 
-[^key-274684ccb5139a693958ff3f4e543c7e]: Commencement: Reg. 5 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-274684ccb5139a693958ff3f4e543c7e]: Commencement: Reg. 5 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

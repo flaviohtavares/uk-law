@@ -35,64 +35,64 @@ supplementing Regulation (EU) No 236/2012 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-7e5819b37399f3ef4fa61a2485b3c66d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e5819b37399f3ef4fa61a2485b3c66d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — GENERAL PROVISIONS[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+## CHAPTER I — GENERAL PROVISIONS[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
-### Article 1. Subject matter[^key-7e5819b37399f3ef4fa61a2485b3c66d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## CHAPTER II — DETAILS OF THE INFORMATION ON NET SHORT POSITIONS TO BE NOTIFIED AND DISCLOSED — (ARTICLE 9 OF REGULATION (EU) No 236/2012)[^key-7e5819b37399f3ef4fa61a2485b3c66d]
-
-### Article 2. Notification of net short positions in shares, sovereign debt and uncovered sovereign credit default swaps to competent authorities[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+### Article 1. Subject matter[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Public disclosure of information on net short positions in shares[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+## CHAPTER II — DETAILS OF THE INFORMATION ON NET SHORT POSITIONS TO BE NOTIFIED AND DISCLOSED — (ARTICLE 9 OF REGULATION (EU) No 236/2012)[^c-7e5819b37399f3ef4fa61a2485b3c66d]
+
+### Article 2. Notification of net short positions in shares, sovereign debt and uncovered sovereign credit default swaps to competent authorities[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — DETAILS OF THE INFORMATION TO BE PROVIDED TO ESMA IN RELATION TO NET SHORT POSITIONS — (ARTICLE 11 OF REGULATION (EU) No 236/2012)[^key-7e5819b37399f3ef4fa61a2485b3c66d]
-
-### Article 4. Periodic information[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+### Article 3. Public disclosure of information on net short positions in shares[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Information upon request[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+## CHAPTER III — DETAILS OF THE INFORMATION TO BE PROVIDED TO ESMA IN RELATION TO NET SHORT POSITIONS — (ARTICLE 11 OF REGULATION (EU) No 236/2012)[^c-7e5819b37399f3ef4fa61a2485b3c66d]
+
+### Article 4. Periodic information[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — METHOD OF CALCULATION OF TURNOVER TO DETERMINE THE PRINCIPAL TRADING VENUE FOR A SHARE — (ARTICLE 16 OF REGULATION (EU) No 236/2012)[^key-7e5819b37399f3ef4fa61a2485b3c66d]
-
-### Article 6. Turnover calculation to determine the principal venue for the trading of a share[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+### Article 5. Information upon request[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — FINAL PROVISIONS[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+## CHAPTER IV — METHOD OF CALCULATION OF TURNOVER TO DETERMINE THE PRINCIPAL TRADING VENUE FOR A SHARE — (ARTICLE 16 OF REGULATION (EU) No 236/2012)[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
-### Article 7. Entry into force[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+### Article 6. Turnover calculation to determine the principal venue for the trading of a share[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7e5819b37399f3ef4fa61a2485b3c66d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## CHAPTER V — FINAL PROVISIONS[^c-7e5819b37399f3ef4fa61a2485b3c66d]
+
+### Article 7. Entry into force[^c-7e5819b37399f3ef4fa61a2485b3c66d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7e5819b37399f3ef4fa61a2485b3c66d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+## ANNEX I[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+## ANNEX II[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-7e5819b37399f3ef4fa61a2485b3c66d]
+## ANNEX III[^c-7e5819b37399f3ef4fa61a2485b3c66d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e5819b37399f3ef4fa61a2485b3c66d]: Textual amendment: Regulation revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/i)
+[^c-7e5819b37399f3ef4fa61a2485b3c66d]: Textual amendment: Regulation revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/i)

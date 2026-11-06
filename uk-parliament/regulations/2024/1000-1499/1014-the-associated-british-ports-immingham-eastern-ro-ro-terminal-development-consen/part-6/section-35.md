@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Arbitration[^key-c64b911125b17a248d2b37c26b9c4357]
+## 35. Arbitration[^c-c64b911125b17a248d2b37c26b9c4357]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c64b911125b17a248d2b37c26b9c4357]: Commencement: Art. 35 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-c64b911125b17a248d2b37c26b9c4357]: Commencement: Art. 35 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

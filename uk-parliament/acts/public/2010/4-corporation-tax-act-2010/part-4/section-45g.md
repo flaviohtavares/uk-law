@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45G. Section 45F: accounting period falling partly within 3 year period[^key-f62d45eaf683c7e3c6610545509c354e][^key-3dae2ad9d792a6cd0460297a35321a6e]
+## 45G. Section 45F: accounting period falling partly within 3 year period[^c-f62d45eaf683c7e3c6610545509c354e][^c-3dae2ad9d792a6cd0460297a35321a6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ must not exceed an amount equal to the overlapping proportion of the total profi
 
 ## Annotations
 
-[^key-f62d45eaf683c7e3c6610545509c354e]: Textual amendment: [S. 45G](https://www.legislation.gov.uk/ukpga/2010/4/section/45G) substituted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 21](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/21)
+[^c-f62d45eaf683c7e3c6610545509c354e]: Textual amendment: [S. 45G](https://www.legislation.gov.uk/ukpga/2010/4/section/45G) substituted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 21](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/21)
 
-[^key-3dae2ad9d792a6cd0460297a35321a6e]: Textual amendment: Ss. 45A-45H inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/11)
+[^c-3dae2ad9d792a6cd0460297a35321a6e]: Textual amendment: Ss. 45A-45H inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 730B. Interpretation of Part[^key-e8dcce066e61ae6bc605a2b85b4b9a33]
+## 730B. Interpretation of Part[^c-e8dcce066e61ae6bc605a2b85b4b9a33]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
   but does not include any amount that has been taken into account in determining RTWDV within the meaning of Chapter 16A of Part 2 of CAA 2001 (restrictions on allowance buying) (see section 212K of that Act),
 
-  other than an amount treated as such an expense by section 450(a) of[^key-c9e450c7afeccd2c02e57570da6d1a43] CAA 2001 (research and development allowances treated as expenses in calculating profits of a trade),
+  other than an amount treated as such an expense by section 450(a) of[^c-c9e450c7afeccd2c02e57570da6d1a43] CAA 2001 (research and development allowances treated as expenses in calculating profits of a trade),
 - “**C**” means the company mentioned in section 730A(1),
 - “**qualifying change**”, in relation to a company, has the same meaning as in that Chapter, and
 - “**the relevant day**” means the day on which the qualifying change in relation to C occurred.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8dcce066e61ae6bc605a2b85b4b9a33]: Textual amendment: Pt. 14A inserted (with effect in accordance with Sch. 14 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/14/paragraph/1)
+[^c-e8dcce066e61ae6bc605a2b85b4b9a33]: Textual amendment: Pt. 14A inserted (with effect in accordance with Sch. 14 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/14/paragraph/1)
 
-[^key-c9e450c7afeccd2c02e57570da6d1a43]: Textual amendment: Words in s. 730B(1) inserted (with effect in accordance with s. 38(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/38/1)
+[^c-c9e450c7afeccd2c02e57570da6d1a43]: Textual amendment: Words in s. 730B(1) inserted (with effect in accordance with s. 38(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/38/1)

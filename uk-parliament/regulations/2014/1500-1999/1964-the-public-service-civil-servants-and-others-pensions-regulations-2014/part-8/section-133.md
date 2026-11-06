@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Amount payable under court order to former spouse or civil partner[^key-82f1f4f1607d3d4c5c9864753d430e61]
+## 133. Amount payable under court order to former spouse or civil partner[^c-82f1f4f1607d3d4c5c9864753d430e61]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82f1f4f1607d3d4c5c9864753d430e61]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2014/1964/regulation/133) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-82f1f4f1607d3d4c5c9864753d430e61]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2014/1964/regulation/133) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

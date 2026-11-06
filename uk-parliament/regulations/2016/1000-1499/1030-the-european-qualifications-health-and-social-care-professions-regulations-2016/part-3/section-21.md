@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Insertion of articles 8C and 8D[^key-3c2c5502af9fdcaf1559769f785914ed]
+## 21. Insertion of articles 8C and 8D[^c-3c2c5502af9fdcaf1559769f785914ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ After article 8B (visiting pharmaceutical chemist from a relevant European State
 
 ## Annotations
 
-[^key-3c2c5502af9fdcaf1559769f785914ed]: Commencement: Reg. 21 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-3c2c5502af9fdcaf1559769f785914ed]: Commencement: Reg. 21 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00020]: Footnote: Article 8B was inserted by [S.R. (N.I.) 2008 No. 192](https://www.legislation.gov.uk/nisr/2008/192).

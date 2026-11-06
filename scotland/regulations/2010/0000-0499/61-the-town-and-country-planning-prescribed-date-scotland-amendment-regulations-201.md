@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning
 
-The Town and Country Planning (Prescribed Date) (Scotland) Amendment Regulations 2010 (revoked)[^key-fe182b8d6d9cfffecc264309fa91f204]
+The Town and Country Planning (Prescribed Date) (Scotland) Amendment Regulations 2010 (revoked)[^c-fe182b8d6d9cfffecc264309fa91f204]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st March 2010
 
-[^key-fe182b8d6d9cfffecc264309fa91f204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe182b8d6d9cfffecc264309fa91f204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fe182b8d6d9cfffecc264309fa91f204]
+## 1. Citation and commencement[^c-fe182b8d6d9cfffecc264309fa91f204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (Prescribed Date) (Scotland) Regulations 2007[^key-fe182b8d6d9cfffecc264309fa91f204]
+## 2. Amendment of the Town and Country Planning (Prescribed Date) (Scotland) Regulations 2007[^c-fe182b8d6d9cfffecc264309fa91f204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe182b8d6d9cfffecc264309fa91f204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe182b8d6d9cfffecc264309fa91f204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fe182b8d6d9cfffecc264309fa91f204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe182b8d6d9cfffecc264309fa91f204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe182b8d6d9cfffecc264309fa91f204]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/61) revoked (10.11.2012) by [The Town and Country Planning (Prescribed Date) (Scotland) Regulations 2012 (S.S.I. 2012/260)](https://www.legislation.gov.uk/ssi/2012/260), [regs. 1](https://www.legislation.gov.uk/ssi/2012/260/regulation/1), [3](https://www.legislation.gov.uk/ssi/2012/260/regulation/3)
+[^c-fe182b8d6d9cfffecc264309fa91f204]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/61) revoked (10.11.2012) by [The Town and Country Planning (Prescribed Date) (Scotland) Regulations 2012 (S.S.I. 2012/260)](https://www.legislation.gov.uk/ssi/2012/260), [regs. 1](https://www.legislation.gov.uk/ssi/2012/260/regulation/1), [3](https://www.legislation.gov.uk/ssi/2012/260/regulation/3)

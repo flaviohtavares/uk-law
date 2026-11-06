@@ -28,8 +28,8 @@ summary: ''
 
 (4) When considering whether to require an occupier to comply with any of the measures in Schedule 2, a veterinary inspector must take the following criteria into account—
 
-- (a) the existence of any clinical signs of avian influenza in any poultry or other captive birds[^key-2205408f8bf7051d6c5a5a1b2fe72a70] on the contact premises;
-- (b) the susceptibility to avian influenza of the species of poultry or other captive birds[^key-f53b5f3ae856bbe26a4ee92c78c20811] on the contact premises;
+- (a) the existence of any clinical signs of avian influenza in any poultry or other captive birds[^c-2205408f8bf7051d6c5a5a1b2fe72a70] on the contact premises;
+- (b) the susceptibility to avian influenza of the species of poultry or other captive birds[^c-f53b5f3ae856bbe26a4ee92c78c20811] on the contact premises;
 - (c) any movements of poultry or other captive birds from infected premises to the contact premises after the earliest date a veterinary inspector considers avian influenza may have been introduced to the infected premises;
 - (d) the density of poultry in the area where the contact premises are located;
 - (e) the time passed since avian influenza was first confirmed and how far avian influenza has spread from infected premises;
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2205408f8bf7051d6c5a5a1b2fe72a70]: Textual amendment: Words in [art. 27(4)(a)](https://www.legislation.gov.uk/wsi/2006/2927/article/27/4/a) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [20(a)](https://www.legislation.gov.uk/wsi/2025/1357/article/20/a)
+[^c-2205408f8bf7051d6c5a5a1b2fe72a70]: Textual amendment: Words in [art. 27(4)(a)](https://www.legislation.gov.uk/wsi/2006/2927/article/27/4/a) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [20(a)](https://www.legislation.gov.uk/wsi/2025/1357/article/20/a)
 
-[^key-f53b5f3ae856bbe26a4ee92c78c20811]: Textual amendment: Words in [art. 27(4)(b)](https://www.legislation.gov.uk/wsi/2006/2927/article/27/4/b) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [20(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/20/b)
+[^c-f53b5f3ae856bbe26a4ee92c78c20811]: Textual amendment: Words in [art. 27(4)(b)](https://www.legislation.gov.uk/wsi/2006/2927/article/27/4/b) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [20(b)](https://www.legislation.gov.uk/wsi/2025/1357/article/20/b)

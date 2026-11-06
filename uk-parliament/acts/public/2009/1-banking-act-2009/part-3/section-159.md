@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Credit unions[^M_I_cbea1576-fe53-466b-b560-e8e8b8423923][^key-f8027f75e75138d50b416d7ee0b4527c]
+## 159. Credit unions[^M_I_cbea1576-fe53-466b-b560-e8e8b8423923][^c-f8027f75e75138d50b416d7ee0b4527c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^M_I_cbea1576-fe53-466b-b560-e8e8b8423923]: Commencement: S. 159 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 3
 
-[^key-f8027f75e75138d50b416d7ee0b4527c]: Commencement: S. 159 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-f8027f75e75138d50b416d7ee0b4527c]: Commencement: S. 159 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)

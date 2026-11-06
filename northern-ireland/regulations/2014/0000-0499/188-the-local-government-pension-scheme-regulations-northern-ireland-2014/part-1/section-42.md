@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Meaning of “nominated co-habiting partner”[^key-d74a9b9f2082aee1ef6ec58f883a1e93]
+## 42. Meaning of “nominated co-habiting partner”[^c-d74a9b9f2082aee1ef6ec58f883a1e93]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d74a9b9f2082aee1ef6ec58f883a1e93]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/nisr/2014/188/regulation/42) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [24](https://www.legislation.gov.uk/nisr/2019/206/regulation/24)
+[^c-d74a9b9f2082aee1ef6ec58f883a1e93]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/nisr/2014/188/regulation/42) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [24](https://www.legislation.gov.uk/nisr/2019/206/regulation/24)

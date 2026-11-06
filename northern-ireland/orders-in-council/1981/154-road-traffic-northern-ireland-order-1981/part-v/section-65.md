@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Power to make bye-laws regulating public service vehicles within any area[^c17616741][^key-e8f83d28dba9eba785ba62c4e7da031e]
+## 65. Power to make bye-laws regulating public service vehicles within any area[^c17616741][^c-e8f83d28dba9eba785ba62c4e7da031e]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^c17616741]: Textual amendment: mod. by SR 1981/199
 
-[^key-e8f83d28dba9eba785ba62c4e7da031e]: Modification: Arts. 59-66 excluded (23.11.2009 for specified purposes, 31.5.2016 in so far as not already in operation) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [ss. 54(1)](https://www.legislation.gov.uk/nia/2008/4/section/54/1), [59](https://www.legislation.gov.uk/nia/2008/4/section/59); [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-e8f83d28dba9eba785ba62c4e7da031e]: Modification: Arts. 59-66 excluded (23.11.2009 for specified purposes, 31.5.2016 in so far as not already in operation) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [ss. 54(1)](https://www.legislation.gov.uk/nia/2008/4/section/54/1), [59](https://www.legislation.gov.uk/nia/2008/4/section/59); [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
 [^m00007]: Marginal citation: 1972 c.9

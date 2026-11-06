@@ -36,22 +36,22 @@ concerning the authorisation of diclazuril as a feed additive for chickens reare
 
 (Text with EEA relevance) (revoked)
 
-[^key-cde4b8d58a584bc710d36ac7bf3854e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cde4b8d58a584bc710d36ac7bf3854e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-cde4b8d58a584bc710d36ac7bf3854e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cde4b8d58a584bc710d36ac7bf3854e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cde4b8d58a584bc710d36ac7bf3854e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cde4b8d58a584bc710d36ac7bf3854e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-cde4b8d58a584bc710d36ac7bf3854e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-cde4b8d58a584bc710d36ac7bf3854e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-cde4b8d58a584bc710d36ac7bf3854e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-cde4b8d58a584bc710d36ac7bf3854e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cde4b8d58a584bc710d36ac7bf3854e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cde4b8d58a584bc710d36ac7bf3854e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-cde4b8d58a584bc710d36ac7bf3854e0]
+## ANNEX[^c-cde4b8d58a584bc710d36ac7bf3854e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cde4b8d58a584bc710d36ac7bf3854e0]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 113](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/113) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-cde4b8d58a584bc710d36ac7bf3854e0]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 113](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/113) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

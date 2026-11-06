@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Option to commute part of pension[^key-4cd9a75d21af079e025f63eefe7aa8b9]
+## 60. Option to commute part of pension[^c-4cd9a75d21af079e025f63eefe7aa8b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cd9a75d21af079e025f63eefe7aa8b9]: Commencement: Reg. 60 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-4cd9a75d21af079e025f63eefe7aa8b9]: Commencement: Reg. 60 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

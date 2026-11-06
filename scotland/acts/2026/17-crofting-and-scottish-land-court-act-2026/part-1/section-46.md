@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Letting of owner-occupied crofts[^key-98cfeb1b3d6e89546fad1f3618e091a3]
+## 46. Letting of owner-occupied crofts[^c-98cfeb1b3d6e89546fad1f3618e091a3]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98cfeb1b3d6e89546fad1f3618e091a3]: Commencement: S. 46 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-98cfeb1b3d6e89546fad1f3618e091a3]: Commencement: S. 46 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -30,7 +30,7 @@ summary: ''
 - (a) remove or alter a physical feature (for example, one arising from the design or construction of the school premises or the location of resources); or
 - (b) provide auxiliary aids or services.
 
-(3) The Department may by regulations[^key-a9dff0f9d1782efd162b134417dd136c] make provision, for the purposes of this Article—
+(3) The Department may by regulations[^c-a9dff0f9d1782efd162b134417dd136c] make provision, for the purposes of this Article—
 
 - (a) as to circumstances in which it is reasonable for a responsible body to have to take steps of a prescribed description;
 - (b) as to steps which it is always reasonable for a responsible body to have to take;
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9dff0f9d1782efd162b134417dd136c]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/nisi/2005/1117/article/16/3) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/2) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))
+[^c-a9dff0f9d1782efd162b134417dd136c]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/nisi/2005/1117/article/16/3) substituted (2.6.2021) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2021 (S.R. 2021/114)](https://www.legislation.gov.uk/nisr/2021/114), [art. 1(2)](https://www.legislation.gov.uk/nisr/2021/114/article/1/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2021/114/schedule/paragraph/3/2) (with [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/a)[(b)](https://www.legislation.gov.uk/nisr/2021/114/article/2/2/b))

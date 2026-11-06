@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Short title[^key-2b6211c9eed94bde11908ac0e1dbd8bc]
+## 64. Short title[^c-2b6211c9eed94bde11908ac0e1dbd8bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Northern Ireland Troubles (Legacy and Reconciliatio
 
 ## Annotations
 
-[^key-2b6211c9eed94bde11908ac0e1dbd8bc]: Commencement: S. 64 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)
+[^c-2b6211c9eed94bde11908ac0e1dbd8bc]: Commencement: S. 64 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)

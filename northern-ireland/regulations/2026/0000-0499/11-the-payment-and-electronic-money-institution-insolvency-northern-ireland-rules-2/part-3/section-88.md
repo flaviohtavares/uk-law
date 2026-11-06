@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Definition of proxy[^key-4e518ce84ec033876319289d941556e6]
+## 88. Definition of proxy[^c-4e518ce84ec033876319289d941556e6]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e518ce84ec033876319289d941556e6]: Commencement: [Rule 88](https://www.legislation.gov.uk/nisr/2026/11/rule/88) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-4e518ce84ec033876319289d941556e6]: Commencement: [Rule 88](https://www.legislation.gov.uk/nisr/2026/11/rule/88) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Provision supplementary to sections 166 and 168[^key-db0e2a9810d9d4ac4a2bb10f93ddcd38][^key-b99099bf0aba4b4a481bef84497edace][^key-af1948fef59138286f43033ddfb857cf]
+## 172. Provision supplementary to sections 166 and 168[^c-db0e2a9810d9d4ac4a2bb10f93ddcd38][^c-b99099bf0aba4b4a481bef84497edace][^c-af1948fef59138286f43033ddfb857cf]
 
 *Extent: E+W+S+N.I.*
 
-(1) In sections 166 and 168 and this section “**duly approved**” means approved for the purposes of section 12 of the Mental Health Act 1983 by the Secretary of State , or by another person by virtue of section 12ZA or 12ZB of that Act,[^key-a560fb32936eb5a1c37a6a26325f9e87] as having special experience in the diagnosis or treatment of mental disorder.
+(1) In sections 166 and 168 and this section “**duly approved**” means approved for the purposes of section 12 of the Mental Health Act 1983 by the Secretary of State , or by another person by virtue of section 12ZA or 12ZB of that Act,[^c-a560fb32936eb5a1c37a6a26325f9e87] as having special experience in the diagnosis or treatment of mental disorder.
 
 (2) For the purposes of the provisions of sections 166 and 168 which permit a court to act on the written evidence of—
 
@@ -40,10 +40,10 @@ a report in writing purporting to be signed by a registered medical practitioner
 
 ## Annotations
 
-[^key-db0e2a9810d9d4ac4a2bb10f93ddcd38]: Commencement: S. 172 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-db0e2a9810d9d4ac4a2bb10f93ddcd38]: Commencement: S. 172 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b99099bf0aba4b4a481bef84497edace]: Modification: S. 172 applied (with modifications) by 1968 c. 20, s. 22(3B) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 23(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/23/c) (with [s. 385](https://www.legislation.gov.uk/ukpga/2006/52/section/385)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
+[^c-b99099bf0aba4b4a481bef84497edace]: Modification: S. 172 applied (with modifications) by 1968 c. 20, s. 22(3B) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 23(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/23/c) (with [s. 385](https://www.legislation.gov.uk/ukpga/2006/52/section/385)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
 
-[^key-af1948fef59138286f43033ddfb857cf]: Commencement: S. 172 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-af1948fef59138286f43033ddfb857cf]: Commencement: S. 172 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-a560fb32936eb5a1c37a6a26325f9e87]: Textual amendment: Words in s. 172(1) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(5)(e)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/e), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-a560fb32936eb5a1c37a6a26325f9e87]: Textual amendment: Words in s. 172(1) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(5)(e)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/e), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

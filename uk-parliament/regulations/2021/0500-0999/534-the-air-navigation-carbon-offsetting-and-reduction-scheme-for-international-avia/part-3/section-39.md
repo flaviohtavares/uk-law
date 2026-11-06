@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Reporting on improvements to the monitoring methodology[^key-7663a4765afa7d2864cfd024e90ce49c]
+## 39. Reporting on improvements to the monitoring methodology[^c-7663a4765afa7d2864cfd024e90ce49c]
 
 *Extent: E+W+S+N.I.*
 
 (1) An aeroplane operator must regularly check whether the monitoring methodology applied can be improved.
 
-(2) Where the Verification Report[^key-09be358f72ef03804939518ceaadfd4b] states outstanding non-conformities, the aeroplane operator must submit to the Regulator for approval a report on improvements by 30th June of the year in which that Verification Report is issued by the verification body. That report on improvements must describe how and when the aeroplane operator has rectified, or plans to rectify, the non-conformities identified by the verification body and to implement recommended improvements.
+(2) Where the Verification Report[^c-09be358f72ef03804939518ceaadfd4b] states outstanding non-conformities, the aeroplane operator must submit to the Regulator for approval a report on improvements by 30th June of the year in which that Verification Report is issued by the verification body. That report on improvements must describe how and when the aeroplane operator has rectified, or plans to rectify, the non-conformities identified by the verification body and to implement recommended improvements.
 
 (3) The Regulator may set an alternative date for submission of the report on improvements as referred to in paragraph (2), but no later date than 30th September in the same year. Where applicable, such report on improvements may be combined with the report referred to in paragraph (2).
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7663a4765afa7d2864cfd024e90ce49c]: Commencement: Art. 39 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-7663a4765afa7d2864cfd024e90ce49c]: Commencement: Art. 39 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-09be358f72ef03804939518ceaadfd4b]: Textual amendment: Words in [art. 39(2)](https://www.legislation.gov.uk/uksi/2021/534/article/39/2) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [20](https://www.legislation.gov.uk/uksi/2022/1050/article/20)
+[^c-09be358f72ef03804939518ceaadfd4b]: Textual amendment: Words in [art. 39(2)](https://www.legislation.gov.uk/uksi/2021/534/article/39/2) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [20](https://www.legislation.gov.uk/uksi/2022/1050/article/20)

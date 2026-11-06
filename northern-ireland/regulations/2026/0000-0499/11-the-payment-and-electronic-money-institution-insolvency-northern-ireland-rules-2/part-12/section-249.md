@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 249. Postal delivery of documents[^key-9224f96f93a2415e452310da549eab3c]
+## 249. Postal delivery of documents[^c-9224f96f93a2415e452310da549eab3c]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9224f96f93a2415e452310da549eab3c]: Commencement: [Rule 249](https://www.legislation.gov.uk/nisr/2026/11/rule/249) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-9224f96f93a2415e452310da549eab3c]: Commencement: [Rule 249](https://www.legislation.gov.uk/nisr/2026/11/rule/249) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

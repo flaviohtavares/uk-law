@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Resolutions[^key-a7293ad17a4561efdca92e1ec16a436f]
+## 50. Resolutions[^c-a7293ad17a4561efdca92e1ec16a436f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.63 of the 1986 Rules[^f00018].
 
 ## Annotations
 
-[^key-a7293ad17a4561efdca92e1ec16a436f]: Commencement: Rule 50 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-a7293ad17a4561efdca92e1ec16a436f]: Commencement: Rule 50 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00018]: Footnote: Rule 4.63 was by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

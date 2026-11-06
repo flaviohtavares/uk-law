@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. For protection of the Environment Agency[^key-b0c5dc53b99e4587b9e27d1fae87cccc]
+## 71. For protection of the Environment Agency[^c-b0c5dc53b99e4587b9e27d1fae87cccc]
 
 *Extent: E+W*
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0c5dc53b99e4587b9e27d1fae87cccc]: Commencement: Art. 71 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-b0c5dc53b99e4587b9e27d1fae87cccc]: Commencement: Art. 71 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00044]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).

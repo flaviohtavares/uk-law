@@ -31,7 +31,7 @@ summary: ''
 
 health and safety
 
-The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked)[^key-d6ec231792022c4660ffc80f903e6655]
+The Construction (Design and Management) Regulations (Northern Ireland) 2007 (revoked)[^c-d6ec231792022c4660ffc80f903e6655]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 9th July 2007
 
-[^key-d6ec231792022c4660ffc80f903e6655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6ec231792022c4660ffc80f903e6655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — INTRODUCTION[^key-d6ec231792022c4660ffc80f903e6655]
+### PART 1 — INTRODUCTION[^c-d6ec231792022c4660ffc80f903e6655]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ Coming into operation
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Application](part-1/section-3.md)
 
-### PART 2 — GENERAL MANAGEMENT DUTIES APPLYING TO CONSTRUCTION PROJECTS[^key-d6ec231792022c4660ffc80f903e6655]
+### PART 2 — GENERAL MANAGEMENT DUTIES APPLYING TO CONSTRUCTION PROJECTS[^c-d6ec231792022c4660ffc80f903e6655]
 
 *Extent: N.I.*
 
@@ -72,7 +72,7 @@ Coming into operation
 - [Section 12 — Designs prepared or modified outside Northern Ireland](part-2/section-12.md)
 - [Section 13 — Duties of contractors](part-2/section-13.md)
 
-### PART 3 — ADDITIONAL DUTIES WHERE PROJECT IS NOTIFIABLE[^key-d6ec231792022c4660ffc80f903e6655]
+### PART 3 — ADDITIONAL DUTIES WHERE PROJECT IS NOTIFIABLE[^c-d6ec231792022c4660ffc80f903e6655]
 
 *Extent: N.I.*
 
@@ -90,7 +90,7 @@ Coming into operation
 - [Section 23 — The principal contractor’s duty in relation to the construction phase plan](part-3/section-23.md)
 - [Section 24 — The principal contractor’s duty in relation to co-operation and consultation with workers](part-3/section-24.md)
 
-### PART 4 — DUTIES RELATING TO HEALTH AND SAFETY ON CONSTRUCTION SITES[^key-d6ec231792022c4660ffc80f903e6655]
+### PART 4 — DUTIES RELATING TO HEALTH AND SAFETY ON CONSTRUCTION SITES[^c-d6ec231792022c4660ffc80f903e6655]
 
 *Extent: N.I.*
 
@@ -116,7 +116,7 @@ Coming into operation
 - [Section 42 — Temperature and weather protection](part-4/section-42.md)
 - [Section 43 — Lighting](part-4/section-43.md)
 
-### PART 5 — GENERAL[^key-d6ec231792022c4660ffc80f903e6655]
+### PART 5 — GENERAL[^c-d6ec231792022c4660ffc80f903e6655]
 
 *Extent: N.I.*
 
@@ -138,12 +138,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-d6ec231792022c4660ffc80f903e6655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6ec231792022c4660ffc80f903e6655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-d6ec231792022c4660ffc80f903e6655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6ec231792022c4660ffc80f903e6655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6ec231792022c4660ffc80f903e6655]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/291) revoked (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 38](https://www.legislation.gov.uk/nisr/2016/146/regulation/38)
+[^c-d6ec231792022c4660ffc80f903e6655]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/291) revoked (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 38](https://www.legislation.gov.uk/nisr/2016/146/regulation/38)

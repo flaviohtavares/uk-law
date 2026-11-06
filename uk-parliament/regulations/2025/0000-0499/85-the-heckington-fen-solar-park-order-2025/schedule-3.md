@@ -22,7 +22,7 @@ summary: ''
 
 Article 6
 
-**1.**[^key-a86d08cc271d0c991e8f959ff73c01f9] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
+**1.**[^c-a86d08cc271d0c991e8f959ff73c01f9] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
 
 - (a) Witham Drainage Act 1762[^f00043];
 - (b) Witham Navigation and Drainage Act 1812[^f00044];
@@ -38,7 +38,7 @@ Article 6
 
 ## Annotations
 
-[^key-a86d08cc271d0c991e8f959ff73c01f9]: Commencement: Sch. 3 para. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-a86d08cc271d0c991e8f959ff73c01f9]: Commencement: Sch. 3 para. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
 [^f00043]: Footnote: 1762\. c. 32.
 

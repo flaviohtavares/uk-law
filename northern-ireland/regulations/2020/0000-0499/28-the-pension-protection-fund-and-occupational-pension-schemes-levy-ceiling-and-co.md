@@ -44,7 +44,7 @@ The Secretary of State for Work and Pensions has made an Order[^f00002] under se
 
 Accordingly the Department for Communities[^f00004] makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-06ce3e7e108aec588bec4970f352a468][^key-06ce3e7e108aec588bec4970f352a468]
+## 1. Citation, commencement and interpretation[^c-06ce3e7e108aec588bec4970f352a468][^c-06ce3e7e108aec588bec4970f352a468]
 
 (1) This Order may be cited as the Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order (Northern Ireland) 2020 and shall come into operation—
 
@@ -53,15 +53,15 @@ Accordingly the Department for Communities[^f00004] makes the following Order:
 
 (2) In this Order “the 2005 Order” means the Pensions (Northern Ireland) Order 2005.
 
-## 2. The levy ceiling[^key-1f550d2643fe5d436bb8a93b5fad76d0]
+## 2. The levy ceiling[^c-1f550d2643fe5d436bb8a93b5fad76d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The compensation cap[^key-4111f71b78e68bbe8c007b99a6cab199]
+## 3. The compensation cap[^c-4111f71b78e68bbe8c007b99a6cab199]
 
 The amount specified for the purposes of paragraph (a) of the definition of “the standard amount” in paragraph 26A(7) of Schedule 6 to the 2005 Order (pension compensation provisions – meaning of “the compensation cap”) is £41,461∙07.
 
-## 4. Revocation[^key-2eeb858c8f38d134f093f0c544ff9a8b]
+## 4. Revocation[^c-2eeb858c8f38d134f093f0c544ff9a8b]
 
 The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order (Northern Ireland) 2019[^f00005] is revoked.
 
@@ -101,12 +101,12 @@ Article 4 of this Order makes a revocation.
 
 [^f00004]: Footnote: *See* section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-06ce3e7e108aec588bec4970f352a468]: Commencement: Art. 1 in operation at 31.3.2020, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2020/28/article/1/1/a)
+[^c-06ce3e7e108aec588bec4970f352a468]: Commencement: Art. 1 in operation at 31.3.2020, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2020/28/article/1/1/a)
 
-[^key-1f550d2643fe5d436bb8a93b5fad76d0]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2020/28/article/2) revoked (31.3.2021) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2021 (S.R. 2021/38)](https://www.legislation.gov.uk/nisr/2021/38), [arts. 1](https://www.legislation.gov.uk/nisr/2021/38/article/1), [3](https://www.legislation.gov.uk/nisr/2021/38/article/3)
+[^c-1f550d2643fe5d436bb8a93b5fad76d0]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2020/28/article/2) revoked (31.3.2021) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order (Northern Ireland) 2021 (S.R. 2021/38)](https://www.legislation.gov.uk/nisr/2021/38), [arts. 1](https://www.legislation.gov.uk/nisr/2021/38/article/1), [3](https://www.legislation.gov.uk/nisr/2021/38/article/3)
 
-[^key-4111f71b78e68bbe8c007b99a6cab199]: Commencement: Art. 3 in operation at 1.4.2020, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2020/28/article/1/1/b)
+[^c-4111f71b78e68bbe8c007b99a6cab199]: Commencement: Art. 3 in operation at 1.4.2020, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2020/28/article/1/1/b)
 
-[^key-2eeb858c8f38d134f093f0c544ff9a8b]: Commencement: Art. 4 in operation at 1.4.2020, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2020/28/article/1/1/b)
+[^c-2eeb858c8f38d134f093f0c544ff9a8b]: Commencement: Art. 4 in operation at 1.4.2020, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2020/28/article/1/1/b)
 
 [^f00005]: Footnote: [S.R. 2019 No. 22](https://www.legislation.gov.uk/nisr/2019/22)

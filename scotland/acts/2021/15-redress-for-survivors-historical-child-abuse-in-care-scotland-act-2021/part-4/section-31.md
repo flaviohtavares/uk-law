@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Application period[^key-c5cc0657d32c6299e1b22b4634ce987b]
+## 31. Application period[^c-c5cc0657d32c6299e1b22b4634ce987b]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5cc0657d32c6299e1b22b4634ce987b]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2021/15/section/31) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-c5cc0657d32c6299e1b22b4634ce987b]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2021/15/section/31) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Meaning of “listed building”[^key-d8af6593d63f3230c857bd9498e10219]
+## 22. Meaning of “listed building”[^c-d8af6593d63f3230c857bd9498e10219]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8af6593d63f3230c857bd9498e10219]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/19/section/22) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-d8af6593d63f3230c857bd9498e10219]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/19/section/22) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

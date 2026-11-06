@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Duty to pass on items seized under section 24[^key-c5bb72c7eef72d84f889b50527a837c9][^key-480a5e60da0363abd971332b17c869f2]
+## 25. Duty to pass on items seized under section 24[^c-c5bb72c7eef72d84f889b50527a837c9][^c-480a5e60da0363abd971332b17c869f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5bb72c7eef72d84f889b50527a837c9]: Commencement: S. 25 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-c5bb72c7eef72d84f889b50527a837c9]: Commencement: S. 25 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-480a5e60da0363abd971332b17c869f2]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2025/31/section/25) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)
+[^c-480a5e60da0363abd971332b17c869f2]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2025/31/section/25) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)

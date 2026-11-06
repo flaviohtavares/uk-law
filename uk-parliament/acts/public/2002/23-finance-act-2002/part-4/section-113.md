@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Withdrawal of relief for company acquisitions[^key-ef0b0de3f2ad2e5222d78af922424607]
+## 113. Withdrawal of relief for company acquisitions[^c-ef0b0de3f2ad2e5222d78af922424607]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef0b0de3f2ad2e5222d78af922424607]: Textual amendment: [S. 113](https://www.legislation.gov.uk/ukpga/2002/23/section/113) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/1/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-ef0b0de3f2ad2e5222d78af922424607]: Textual amendment: [S. 113](https://www.legislation.gov.uk/ukpga/2002/23/section/113) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/1/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

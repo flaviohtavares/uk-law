@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 212A. Voluntary scheme pays arrangement[^key-87bcd6e58b9f23a68a6cd09b62569b03]
+## 212A. Voluntary scheme pays arrangement[^c-87bcd6e58b9f23a68a6cd09b62569b03]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87bcd6e58b9f23a68a6cd09b62569b03]: Textual amendment: [Reg. 212A](https://www.legislation.gov.uk/ssi/2015/142/regulation/212A) inserted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [64](https://www.legislation.gov.uk/ssi/2019/68/regulation/64)
+[^c-87bcd6e58b9f23a68a6cd09b62569b03]: Textual amendment: [Reg. 212A](https://www.legislation.gov.uk/ssi/2015/142/regulation/212A) inserted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [64](https://www.legislation.gov.uk/ssi/2019/68/regulation/64)

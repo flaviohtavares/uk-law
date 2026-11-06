@@ -40,7 +40,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Communities, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to personal and occupational pensions, makes the following Regulations in exercise of the powers conferred by that section, sections 109(1), (6) and (7), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00003] and Articles 35(4), 36(1), (1A)(a) and (9) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00004], and now vested in it[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-1d834e46d39179199674eb756ed59b3a]
+## 1. Citation, commencement and interpretation[^c-1d834e46d39179199674eb756ed59b3a]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations (Northern Ireland) 2019 and, except as provided for in paragraphs (2) and (3), shall come into operation on 30th September 2019.
 
@@ -58,7 +58,7 @@ The Department for Communities, being a Department designated[^f00001] for the p
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-e13a3a9f15abdadc9f157e0aa3b83fea]
+## 2. Amendment of the Occupational Pension Schemes (Investment) Regulations[^c-e13a3a9f15abdadc9f157e0aa3b83fea]
 
 (1) The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^f00008] are amended in accordance with paragraph (2).
 
@@ -91,7 +91,7 @@ The Department for Communities, being a Department designated[^f00001] for the p
 
     .
 
-## 3. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^key-b5e344cb0512de1b3bf650eb09614245]
+## 3. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^c-b5e344cb0512de1b3bf650eb09614245]
 
 (1) The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 are amended in accordance with paragraphs (2) to (4).
 
@@ -121,7 +121,7 @@ The Department for Communities, being a Department designated[^f00001] for the p
 
 .
 
-## 4. Amendment of the Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations[^key-de6f6dc372a62645d903823bf58fef40]
+## 4. Amendment of the Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations[^c-de6f6dc372a62645d903823bf58fef40]
 
 (1) The Pension Protection Fund (Pensionable Service) and Occupational Pension Schemes (Investment and Disclosure) (Amendment and Modification) Regulations (Northern Ireland) 2018[^f00015] are amended in accordance with paragraphs (2) and (3).
 
@@ -172,7 +172,7 @@ The Department for Communities, being a Department designated[^f00001] for the p
 
       .
 
-## 5. Transitional provisions[^key-e8f6a03106b1ce3c885176e33990b167]
+## 5. Transitional provisions[^c-e8f6a03106b1ce3c885176e33990b167]
 
 (1) The first policies in relation to the matters referred to in regulation 2(3)(d) of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005 to be prepared by the trustees of a scheme in accordance with regulation 2 or 2A(1) of those Regulations must be prepared by the relevant date.
 
@@ -230,19 +230,19 @@ An assessment of the impact of these Regulations is detailed in a Regulatory Imp
 
 [^f00005]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-1d834e46d39179199674eb756ed59b3a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2019/115/regulation/1) in operation at 30.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1)
+[^c-1d834e46d39179199674eb756ed59b3a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2019/115/regulation/1) in operation at 30.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2014 No. 79](https://www.legislation.gov.uk/nisr/2014/79); regulation 29A was inserted by regulation 3(6) of [S.R. 2018 No. 53](https://www.legislation.gov.uk/nisr/2018/53)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e13a3a9f15abdadc9f157e0aa3b83fea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2019/115/regulation/2) in operation at 1.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/2)
+[^c-e13a3a9f15abdadc9f157e0aa3b83fea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2019/115/regulation/2) in operation at 1.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 2005 No. 569](https://www.legislation.gov.uk/nisr/2005/569)
 
 [^f00009]: Footnote: Regulation 2 is amended by regulation 4(2) of [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165)
 
-[^key-b5e344cb0512de1b3bf650eb09614245]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2019/115/regulation/3) in operation at 30.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1)
+[^c-b5e344cb0512de1b3bf650eb09614245]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2019/115/regulation/3) in operation at 30.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1)
 
 [^f00010]: Footnote: Regulation 4(1) was amended by regulation 3(2) of [S.R. 2018 No. 53](https://www.legislation.gov.uk/nisr/2018/53)
 
@@ -254,7 +254,7 @@ An assessment of the impact of these Regulations is detailed in a Regulatory Imp
 
 [^f00014]: Footnote: Regulation 2(3)(c) is substituted by regulation 4(2)(a)(iv) of [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165)
 
-[^key-de6f6dc372a62645d903823bf58fef40]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2019/115/regulation/4) in operation at 30.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1)
+[^c-de6f6dc372a62645d903823bf58fef40]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2019/115/regulation/4) in operation at 30.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165)
 
@@ -268,4 +268,4 @@ An assessment of the impact of these Regulations is detailed in a Regulatory Imp
 
 [^f00020]: Footnote: Paragraph 30(f) is added by regulation 5(5)(c) of [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165)
 
-[^key-e8f6a03106b1ce3c885176e33990b167]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5) in operation at 1.10.2019, see [reg. 1(2)(d)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/2/d)
+[^c-e8f6a03106b1ce3c885176e33990b167]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2019/115/regulation/5) in operation at 1.10.2019, see [reg. 1(2)(d)](https://www.legislation.gov.uk/nisr/2019/115/regulation/1/2/d)

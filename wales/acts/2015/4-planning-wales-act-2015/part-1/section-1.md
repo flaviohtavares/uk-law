@@ -39,7 +39,7 @@ summary: ''
 - (a) consultation to be carried out by a prospective applicant for planning permission;
 - (b) pre-application services that are to be provided by a local planning authority or the Welsh Ministers.
 
-(6) Part 5 of this Act is about the making of certain applications either to the Welsh Ministers or a local planning authority[^key-7fde7ac6f2ec8d98de358465b4ff4a38].
+(6) Part 5 of this Act is about the making of certain applications either to the Welsh Ministers or a local planning authority[^c-7fde7ac6f2ec8d98de358465b4ff4a38].
 
 (7) Part 5 also makes provision—
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fde7ac6f2ec8d98de358465b4ff4a38]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/anaw/2015/4/section/1/6) substituted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/12/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-7fde7ac6f2ec8d98de358465b4ff4a38]: Textual amendment: Words in [s. 1(6)](https://www.legislation.gov.uk/anaw/2015/4/section/1/6) substituted (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/12/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)

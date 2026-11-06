@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Requirement for certain applications for first registration to be copied to landlord[^key-92b88c2d846f028934e7d6cf958cbf95]
+## 34. Requirement for certain applications for first registration to be copied to landlord[^c-92b88c2d846f028934e7d6cf958cbf95]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92b88c2d846f028934e7d6cf958cbf95]: Commencement: S. 34 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-92b88c2d846f028934e7d6cf958cbf95]: Commencement: S. 34 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

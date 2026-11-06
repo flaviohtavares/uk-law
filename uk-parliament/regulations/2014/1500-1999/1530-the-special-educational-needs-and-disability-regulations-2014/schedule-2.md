@@ -66,7 +66,7 @@ Regulation 53
 
 **7.** Where the strategy prepared by the local authority under paragraph 1 of Schedule 10 to the Equality Act 2010 [^c22119301] can be obtained.
 
-**8.** Special educational provision and training provision the local authority expects to be made in relation to young people with special educational needs or a disability who have entered into an apprenticeship agreement within the meaning of section 32(1) of the Apprenticeships, Skills, Children and Learning Act 2009 or approved English apprenticeship agreement within the meaning of section A1(3) of the Apprenticeships, Skills, Children and Learning Act 2009[^key-229522f803533a2b5b647dd004106df6].
+**8.** Special educational provision and training provision the local authority expects to be made in relation to young people with special educational needs or a disability who have entered into an apprenticeship agreement within the meaning of section 32(1) of the Apprenticeships, Skills, Children and Learning Act 2009 or approved English apprenticeship agreement within the meaning of section A1(3) of the Apprenticeships, Skills, Children and Learning Act 2009[^c-229522f803533a2b5b647dd004106df6].
 
 **9.** Special educational provision and training provision the local authority expects to be made by providers of training in its area, and outside its area for young people in its area with special educational needs or a disability.
 
@@ -121,7 +121,7 @@ Regulation 53
 
 [^c22119301]: Marginal citation: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15)
 
-[^key-229522f803533a2b5b647dd004106df6]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/1530/schedule/2/paragraph/8) inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/2/2)
+[^c-229522f803533a2b5b647dd004106df6]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/1530/schedule/2/paragraph/8) inserted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/1/paragraph/2/2)
 
 [^c22119311]: Marginal citation: SI 2011/1986, as amended by the Education (Student Fees, Awards and Support) (Amendment) Regulations 2012\[SI 2012/1628\] and Education (Student Support and European University Institute) (Amendment) Regulations 2013\[SI 2013/1728\]
 

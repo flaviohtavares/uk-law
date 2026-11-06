@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Delegation and contracting out[^key-394a02eda631299cee925fab5d6844ad]
+## 35. Delegation and contracting out[^c-394a02eda631299cee925fab5d6844ad]
 
 *Extent: N.I.*
 
@@ -48,10 +48,10 @@ summary: ''
 
 the authorised person is entitled to treat the contract as repudiated by the Department (and not as frustrated by reason of the revocation).
 
-(7)[^key-6bbacc566917a7c7318baf348428c177] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-6bbacc566917a7c7318baf348428c177] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-394a02eda631299cee925fab5d6844ad]: Commencement: [Art. 35](https://www.legislation.gov.uk/nisi/2015/2006/article/35) in operation at 27.9.2017 by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(b)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/b)
+[^c-394a02eda631299cee925fab5d6844ad]: Commencement: [Art. 35](https://www.legislation.gov.uk/nisi/2015/2006/article/35) in operation at 27.9.2017 by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(b)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/b)
 
-[^key-6bbacc566917a7c7318baf348428c177]: Textual amendment: [Art. 35(7)](https://www.legislation.gov.uk/nisi/2015/2006/article/35/7) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 63](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/63) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2)) (Art. 35(7) omitted before art. 35 comes into operation)
+[^c-6bbacc566917a7c7318baf348428c177]: Textual amendment: [Art. 35(7)](https://www.legislation.gov.uk/nisi/2015/2006/article/35/7) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 63](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/63) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2)) (Art. 35(7) omitted before art. 35 comes into operation)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Service of notices[^key-3c2713d439797382b7954950ac2545c4]
+## 44. Service of notices[^c-3c2713d439797382b7954950ac2545c4]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (5) Paragraphs (6) to (9) apply where a person (“A”) is required or authorised to serve or send a notice or other document for the purposes of this Order on or to another person (“B”).
 
-(6) A may serve or send[^key-bb6790ef2a480c30ac150500f4526a73] the notice or other document by electronic transmission if—
+(6) A may serve or send[^c-bb6790ef2a480c30ac150500f4526a73] the notice or other document by electronic transmission if—
 
 - (a) B has sent A notice that B agrees to receive that notice or document (or notices and documents of a description including that notice or document) by electronic transmission;
 - (b) B has not subsequently withdrawn that agreement in accordance with paragraph (8); and
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3c2713d439797382b7954950ac2545c4]: Commencement: Art. 44 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-3c2713d439797382b7954950ac2545c4]: Commencement: Art. 44 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
 [^f00022]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30). There are amendments to this Act which are not relevant to this Order.
 
-[^key-bb6790ef2a480c30ac150500f4526a73]: Textual amendment: Words in [art. 44(6)](https://www.legislation.gov.uk/uksi/2013/648/article/44/6) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1
+[^c-bb6790ef2a480c30ac150500f4526a73]: Textual amendment: Words in [art. 44(6)](https://www.legislation.gov.uk/uksi/2013/648/article/44/6) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1

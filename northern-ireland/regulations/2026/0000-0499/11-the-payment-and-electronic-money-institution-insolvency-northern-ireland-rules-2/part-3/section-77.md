@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Vacancies[^key-6e5b344beb1ca14f0f60fecfdf98ce69]
+## 77. Vacancies[^c-6e5b344beb1ca14f0f60fecfdf98ce69]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e5b344beb1ca14f0f60fecfdf98ce69]: Commencement: [Rule 77](https://www.legislation.gov.uk/nisr/2026/11/rule/77) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6e5b344beb1ca14f0f60fecfdf98ce69]: Commencement: [Rule 77](https://www.legislation.gov.uk/nisr/2026/11/rule/77) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

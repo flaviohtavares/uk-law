@@ -115,7 +115,7 @@ The reduction in CO<sub>2</sub> emissions from the use of the BMW engine idle co
 
 The eco-innovation code No 23 shall be entered into the type approval documentation where reference is made to this Decision in accordance with Article 11(1) of Implementing Regulation (EU) No 725/2011.
 
-## Article 5. Entry into force[^key-d45ca2c271fdddbf8d031b79e00a5d6b]
+## Article 5. Entry into force[^c-d45ca2c271fdddbf8d031b79e00a5d6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -507,6 +507,6 @@ Where the CO<sub>2</sub> emission savings, as a result of the calculation using 
 
 [^f00005]: Footnote: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) ([OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG)).
 
-[^key-d45ca2c271fdddbf8d031b79e00a5d6b]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2017/1402/article/5) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/27/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d45ca2c271fdddbf8d031b79e00a5d6b]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2017/1402/article/5) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/27/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: Regulation No 83 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of vehicles with regard to the emission of pollutants according to engine fuel requirements ([OJ L 42, 15.2.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.042.01.0001.01.ENG)).

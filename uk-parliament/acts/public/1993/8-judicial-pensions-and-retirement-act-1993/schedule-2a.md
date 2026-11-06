@@ -44,7 +44,7 @@ summary: ''
 - (a) a pension or lump sum under Part I of this Act; or
 - (b) a payment authorised by section 19 of this Act,
 
-payable to the transferor in respect of the rights from which the pension credit is derived[^key-dd6f55402ab02550a6ca06b4e65560f4] .
+payable to the transferor in respect of the rights from which the pension credit is derived[^c-dd6f55402ab02550a6ca06b4e65560f4] .
 
 **2.** The appropriate Minister shall have no power to accept, for the benefit of a member of a judicial pension scheme—
 
@@ -58,6 +58,6 @@ to the extent that that payment directly or indirectly represents a pension cred
 
 [^c13957401]: Textual amendment: Sch. 2A inserted (1.12.2000) by [S.I. 2000/2986](https://www.legislation.gov.uk/uksi/2000/2986), [reg. 3](https://www.legislation.gov.uk/uksi/2000/2986/regulation/3)
 
-[^key-dd6f55402ab02550a6ca06b4e65560f4]: Textual amendment: Words in Sch. 2A para. 1(5) substituted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 79](https://www.legislation.gov.uk/ukpga/2015/8/section/79), [89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-dd6f55402ab02550a6ca06b4e65560f4]: Textual amendment: Words in Sch. 2A para. 1(5) substituted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 79](https://www.legislation.gov.uk/ukpga/2015/8/section/79), [89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
 [^c13957431]: Textual amendment: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

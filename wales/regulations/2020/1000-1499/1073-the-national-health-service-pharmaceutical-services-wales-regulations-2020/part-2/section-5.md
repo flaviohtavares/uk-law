@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Date by which the first pharmaceutical needs assessment is to be published[^key-886692f4370e90b503273cc566757967]
+## 5. Date by which the first pharmaceutical needs assessment is to be published[^c-886692f4370e90b503273cc566757967]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Each Local Health Board must publish its first pharmaceutical needs assessment w
 
 ## Annotations
 
-[^key-886692f4370e90b503273cc566757967]: Commencement: Reg. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-886692f4370e90b503273cc566757967]: Commencement: Reg. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

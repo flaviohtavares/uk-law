@@ -32,7 +32,7 @@ summary: ''
 - (a) the predecessor's assets immediately before the transfer of the transferred trade so far as they are not transferred to the successor on that transfer, and
 - (b) the consideration given to the predecessor by the successor in relation to the transfer of the transferred trade.
 
-(4) The relief to be given to the successor as a result of sections 944 to 944E[^key-004c2f9786d88d3c7b03cf8b8aa5fa1b] is limited to—
+(4) The relief to be given to the successor as a result of sections 944 to 944E[^c-004c2f9786d88d3c7b03cf8b8aa5fa1b] is limited to—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2010/4)
 
@@ -46,4 +46,4 @@ E is the amount by which L exceeds A.
 
 ## Annotations
 
-[^key-004c2f9786d88d3c7b03cf8b8aa5fa1b]: Textual amendment: Words in s. 945(4) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 66](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/66)
+[^c-004c2f9786d88d3c7b03cf8b8aa5fa1b]: Textual amendment: Words in s. 945(4) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 66](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/66)

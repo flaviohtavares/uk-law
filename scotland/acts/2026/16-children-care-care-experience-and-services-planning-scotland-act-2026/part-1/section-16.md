@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Guidance on family group decision-making services[^key-73835d047fe8598bcbffa1f3310f0364]
+## 16. Guidance on family group decision-making services[^c-73835d047fe8598bcbffa1f3310f0364]
 
 *Extent: S*
 
 (1) The Children and Young People (Scotland) Act 2014 is amended as follows.
 
-(2)[^key-e99e3fb866ef12e59465c63f6b76da8f] After section 69B, insert—
+(2)[^c-e99e3fb866ef12e59465c63f6b76da8f] After section 69B, insert—
 
 > **69C. Guidance on family group decision-making services**
 >
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73835d047fe8598bcbffa1f3310f0364]: Commencement: S. 16 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-73835d047fe8598bcbffa1f3310f0364]: Commencement: S. 16 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-e99e3fb866ef12e59465c63f6b76da8f]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/asp/2026/16/section/16/2) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-e99e3fb866ef12e59465c63f6b76da8f]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/asp/2026/16/section/16/2) in force at 30.9.2026 for specified purposes by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

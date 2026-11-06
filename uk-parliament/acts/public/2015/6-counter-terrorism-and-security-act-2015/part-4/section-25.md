@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Aviation, maritime and rail security[^c22388841][^key-7cb3b4dce268031987e2d0dd38aafbe8][^key-a8c280cc679e996537d141d9e778bd38]
+## 25. Aviation, maritime and rail security[^c22388841][^c-7cb3b4dce268031987e2d0dd38aafbe8][^c-a8c280cc679e996537d141d9e778bd38]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 [^c22388841]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2015/6/section/25) partly in force; [s. 25](https://www.legislation.gov.uk/ukpga/2015/6/section/25) in force for specified purposes at Royal Assent, see [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c)
 
-[^key-7cb3b4dce268031987e2d0dd38aafbe8]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2015/6/section/25) in force at 1.10.2015 for specified purposes by [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
+[^c-7cb3b4dce268031987e2d0dd38aafbe8]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2015/6/section/25) in force at 1.10.2015 for specified purposes by [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [art. 2](https://www.legislation.gov.uk/uksi/2015/1729/article/2)
 
-[^key-a8c280cc679e996537d141d9e778bd38]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/2015/6/section/25) extended in part (Isle of Man) (with modifications) (11.11.2021) by S.I. 2008/680, art. 22ZA, Sch. 9AA (as inserted by [The Immigration (Isle of Man) (Amendment) Order 2021 (S.I. 2021/1277)](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1277/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2021/1277/schedule))
+[^c-a8c280cc679e996537d141d9e778bd38]: Modification: [S. 25](https://www.legislation.gov.uk/ukpga/2015/6/section/25) extended in part (Isle of Man) (with modifications) (11.11.2021) by S.I. 2008/680, art. 22ZA, Sch. 9AA (as inserted by [The Immigration (Isle of Man) (Amendment) Order 2021 (S.I. 2021/1277)](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1277/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2021/1277/schedule))

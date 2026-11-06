@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Duty to review seal licensing regime[^key-8c6beb9cc9c59a897bd56235039c91fd]
+## 129. Duty to review seal licensing regime[^c-8c6beb9cc9c59a897bd56235039c91fd]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) When carrying out a review, the Scottish Ministers must—
 
 - (a) have regard to such scientific evidence on seal biology, welfare and behaviour, and on such other matters, as they consider relevant, and
-- (b) consult United Kingdom Research and Innovation[^key-51b32cb12447489024c37b8ba0231e04] and such other persons as they consider appropriate.
+- (b) consult United Kingdom Research and Innovation[^c-51b32cb12447489024c37b8ba0231e04] and such other persons as they consider appropriate.
 
 (3) The Scottish Ministers must have regard to their most recent report when performing functions under the seal licensing regime.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c6beb9cc9c59a897bd56235039c91fd]: Commencement: S. 129 in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(g)](https://www.legislation.gov.uk/ssi/2010/230/article/4/g)
+[^c-8c6beb9cc9c59a897bd56235039c91fd]: Commencement: S. 129 in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(g)](https://www.legislation.gov.uk/ssi/2010/230/article/4/g)
 
-[^key-51b32cb12447489024c37b8ba0231e04]: Textual amendment: Words in [s. 129(2)(b)](https://www.legislation.gov.uk/asp/2010/5/section/129/2/b) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/25); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
+[^c-51b32cb12447489024c37b8ba0231e04]: Textual amendment: Words in [s. 129(2)(b)](https://www.legislation.gov.uk/asp/2010/5/section/129/2/b) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/25); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)

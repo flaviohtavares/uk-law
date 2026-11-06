@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Deemed consent of superior lessor or mortgagee[^key-0bd16eab84c569173f6d1730a33619de][^key-93d5d040027ec488bba12c74bff2a15e]
+## 208. Deemed consent of superior lessor or mortgagee[^c-0bd16eab84c569173f6d1730a33619de][^c-93d5d040027ec488bba12c74bff2a15e]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ A contract entered into under section 204, and a tenancy granted further to such
 
 ## Annotations
 
-[^key-0bd16eab84c569173f6d1730a33619de]: Commencement: S. 208 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-0bd16eab84c569173f6d1730a33619de]: Commencement: S. 208 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-93d5d040027ec488bba12c74bff2a15e]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2023/55/section/208) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-93d5d040027ec488bba12c74bff2a15e]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2023/55/section/208) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)

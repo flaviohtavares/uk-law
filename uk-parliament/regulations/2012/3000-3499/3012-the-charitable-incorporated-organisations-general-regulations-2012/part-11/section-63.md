@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Consequential amendments to secondary legislation[^key-1538b7bd6438fc1fe1ec1c6e71d78254]
+## 63. Consequential amendments to secondary legislation[^c-1538b7bd6438fc1fe1ec1c6e71d78254]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The consequential amendments in Schedule 4 have effect.
 
 ## Annotations
 
-[^key-1538b7bd6438fc1fe1ec1c6e71d78254]: Commencement: Reg. 63 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-1538b7bd6438fc1fe1ec1c6e71d78254]: Commencement: Reg. 63 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

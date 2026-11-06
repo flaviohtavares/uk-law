@@ -53,7 +53,7 @@ The Welsh Ministers, in exercise of the powers conferred by paragraph 1(1) of Sc
 
 The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the appropriate National Assembly for Wales scrutiny procedure for these Regulations) have been satisfied.
 
-## 1. Title, commencement and application[^key-9b3a4bdcfdda2345b818f798acffb66e]
+## 1. Title, commencement and application[^c-9b3a4bdcfdda2345b818f798acffb66e]
 
 (1) The title of these Regulations is the Trade in Animals and Related Products (Amendment) (Wales) (EU Exit) Regulations 2019.
 
@@ -61,7 +61,7 @@ The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the ap
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. The Bovine Semen (Wales) Regulations 2008[^key-7ae159a13c3b4b04c94e0e117e444e4f]
+## 2. The Bovine Semen (Wales) Regulations 2008[^c-7ae159a13c3b4b04c94e0e117e444e4f]
 
 (1) The Bovine Semen (Wales) Regulations 2008 are amended as follows.
 
@@ -117,7 +117,7 @@ The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the ap
 
 (11) In Schedule 8, in Part 1, in sub-paragraphs (a)(ii) and (b)(ii), for “another” substitute “ a ”.
 
-## 3. The Trade in Animals and Related Products (Wales) Regulations 2011[^key-b3854e11bad7dc52932e3b445b8d032d]
+## 3. The Trade in Animals and Related Products (Wales) Regulations 2011[^c-b3854e11bad7dc52932e3b445b8d032d]
 
 **Not yet in force.**
 
@@ -139,8 +139,8 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23652381]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-9b3a4bdcfdda2345b818f798acffb66e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9b3a4bdcfdda2345b818f798acffb66e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-7ae159a13c3b4b04c94e0e117e444e4f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-7ae159a13c3b4b04c94e0e117e444e4f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-b3854e11bad7dc52932e3b445b8d032d]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/uksi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1612/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2020/1612/regulation/34)
+[^c-b3854e11bad7dc52932e3b445b8d032d]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/uksi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1612/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2020/1612/regulation/34)

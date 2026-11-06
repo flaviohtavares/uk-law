@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Non-Domestic Rates (Levying) (Scotland) Regulations 2014 (revoked)[^key-9b2718ed0d9c32d1c4da82c825b24d39]
+The Non-Domestic Rates (Levying) (Scotland) Regulations 2014 (revoked)[^c-9b2718ed0d9c32d1c4da82c825b24d39]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 1st April 2014
 
-[^key-9b2718ed0d9c32d1c4da82c825b24d39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b2718ed0d9c32d1c4da82c825b24d39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9b2718ed0d9c32d1c4da82c825b24d39]
+## 1. Citation and commencement[^c-9b2718ed0d9c32d1c4da82c825b24d39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9b2718ed0d9c32d1c4da82c825b24d39]
+## 2. Interpretation[^c-9b2718ed0d9c32d1c4da82c825b24d39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^key-9b2718ed0d9c32d1c4da82c825b24d39]
+## 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^c-9b2718ed0d9c32d1c4da82c825b24d39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount payable as rates – lands and heritages with rateable value of more than £35,000[^key-9b2718ed0d9c32d1c4da82c825b24d39]
+## 4. Amount payable as rates – lands and heritages with rateable value of more than £35,000[^c-9b2718ed0d9c32d1c4da82c825b24d39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemptions and discretionary reductions and remissions[^key-9b2718ed0d9c32d1c4da82c825b24d39]
+## 5. Exemptions and discretionary reductions and remissions[^c-9b2718ed0d9c32d1c4da82c825b24d39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation of the 2012 Regulations and the 2013 Regulations[^key-9b2718ed0d9c32d1c4da82c825b24d39]
+## 6. Revocation of the 2012 Regulations and the 2013 Regulations[^c-9b2718ed0d9c32d1c4da82c825b24d39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9b2718ed0d9c32d1c4da82c825b24d39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b2718ed0d9c32d1c4da82c825b24d39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9b2718ed0d9c32d1c4da82c825b24d39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b2718ed0d9c32d1c4da82c825b24d39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9b2718ed0d9c32d1c4da82c825b24d39]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/30) revoked (1.4.2016) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2016 (S.S.I. 2016/114)](https://www.legislation.gov.uk/ssi/2016/114), [regs. 1](https://www.legislation.gov.uk/ssi/2016/114/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2016/114/regulation/6) (with [regs. 5](https://www.legislation.gov.uk/ssi/2016/114/regulation/5), [6(3)](https://www.legislation.gov.uk/ssi/2016/114/regulation/6))
+[^c-9b2718ed0d9c32d1c4da82c825b24d39]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/30) revoked (1.4.2016) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2016 (S.S.I. 2016/114)](https://www.legislation.gov.uk/ssi/2016/114), [regs. 1](https://www.legislation.gov.uk/ssi/2016/114/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2016/114/regulation/6) (with [regs. 5](https://www.legislation.gov.uk/ssi/2016/114/regulation/5), [6(3)](https://www.legislation.gov.uk/ssi/2016/114/regulation/6))

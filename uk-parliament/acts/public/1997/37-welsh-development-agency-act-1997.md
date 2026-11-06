@@ -31,18 +31,18 @@ Welsh Development Agency Act 1997 (repealed)
 
 1997 c. 37
 
-[^key-86848101e2d768fcb362a21f0a77c036]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86848101e2d768fcb362a21f0a77c036]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Financial limit of Welsh Development Agency.[^key-86848101e2d768fcb362a21f0a77c036]
+## 1. Financial limit of Welsh Development Agency.[^c-86848101e2d768fcb362a21f0a77c036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, extent, commencement and repeal.[^key-86848101e2d768fcb362a21f0a77c036]
+## 2. Short title, extent, commencement and repeal.[^c-86848101e2d768fcb362a21f0a77c036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86848101e2d768fcb362a21f0a77c036]: Textual amendment: Act repealed (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 48](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/48)
+[^c-86848101e2d768fcb362a21f0a77c036]: Textual amendment: Act repealed (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 48](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/48)

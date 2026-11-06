@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.7. The open justice principle[^key-626ed0470d3e03c3dc8266fdf2fdb029]
+## 5.7. The open justice principle[^c-626ed0470d3e03c3dc8266fdf2fdb029]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-626ed0470d3e03c3dc8266fdf2fdb029]: Commencement: [Rule 5.7](https://www.legislation.gov.uk/uksi/2025/909/rule/5.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-626ed0470d3e03c3dc8266fdf2fdb029]: Commencement: [Rule 5.7](https://www.legislation.gov.uk/uksi/2025/909/rule/5.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

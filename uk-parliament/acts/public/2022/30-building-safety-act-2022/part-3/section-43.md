@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Transfer of approved inspectors’ functions to registered building control approvers[^key-7e2ad1525f3c0c66a37e8bf19010c9af][^key-45c3a99d98938f90fac8cbd2ac0f9587][^key-067eca21d829b33f9935a4f66bf690da]
+## 43. Transfer of approved inspectors’ functions to registered building control approvers[^c-7e2ad1525f3c0c66a37e8bf19010c9af][^c-45c3a99d98938f90fac8cbd2ac0f9587][^c-067eca21d829b33f9935a4f66bf690da]
 
 *Extent: E+W*
 
@@ -27,8 +27,8 @@ Schedule 4 amends the Building Act 1984 so as to—
 
 ## Annotations
 
-[^key-7e2ad1525f3c0c66a37e8bf19010c9af]: Commencement: S. 43 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(v)(c)
+[^c-7e2ad1525f3c0c66a37e8bf19010c9af]: Commencement: S. 43 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(v)(c)
 
-[^key-45c3a99d98938f90fac8cbd2ac0f9587]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/30/section/43) in force at 6.4.2024 for W. by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(iii)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/iii) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-45c3a99d98938f90fac8cbd2ac0f9587]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/30/section/43) in force at 6.4.2024 for W. by [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(iii)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/iii) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
 
-[^key-067eca21d829b33f9935a4f66bf690da]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/30/section/43) in force at 6.4.2024 except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))
+[^c-067eca21d829b33f9935a4f66bf690da]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2022/30/section/43) in force at 6.4.2024 except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))

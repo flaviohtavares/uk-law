@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 328. Power of court to recommend licence conditions for adults sentenced to term of 12 months or more[^key-fa0e47a9bf85d1287712eba4a73e2f18][^key-4c7428fc54cbcf1c0255452821b9a010]
+## 328. Power of court to recommend licence conditions for adults sentenced to term of 12 months or more[^c-fa0e47a9bf85d1287712eba4a73e2f18][^c-4c7428fc54cbcf1c0255452821b9a010]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ of 12 months or more in respect of any offence.
 
 ## Annotations
 
-[^key-fa0e47a9bf85d1287712eba4a73e2f18]: Commencement: S. 328 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fa0e47a9bf85d1287712eba4a73e2f18]: Commencement: S. 328 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4c7428fc54cbcf1c0255452821b9a010]: Modification: S. 328 modified by 2006 c. 52, s. 262 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 61](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/61) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-4c7428fc54cbcf1c0255452821b9a010]: Modification: S. 328 modified by 2006 c. 52, s. 262 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 61](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/61) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

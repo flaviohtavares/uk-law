@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Duty of principal council to arrange panel performance assessment[^key-f3b77a06f5a4354f0f8236732f606a38]
+## 92. Duty of principal council to arrange panel performance assessment[^c-f3b77a06f5a4354f0f8236732f606a38]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3b77a06f5a4354f0f8236732f606a38]: Commencement: [S. 92](https://www.legislation.gov.uk/asc/2021/1/section/92) in force at 5.5.2022 by [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [art. 3(a)](https://www.legislation.gov.uk/wsi/2021/297/article/3/a)
+[^c-f3b77a06f5a4354f0f8236732f606a38]: Commencement: [S. 92](https://www.legislation.gov.uk/asc/2021/1/section/92) in force at 5.5.2022 by [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [art. 3(a)](https://www.legislation.gov.uk/wsi/2021/297/article/3/a)

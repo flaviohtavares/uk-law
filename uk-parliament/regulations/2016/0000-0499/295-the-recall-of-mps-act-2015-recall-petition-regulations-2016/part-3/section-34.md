@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Reporting discrepancies[^key-80cb8d70a7829baa3efb8a5a72f00e94]
+## 34. Reporting discrepancies[^c-80cb8d70a7829baa3efb8a5a72f00e94]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the petition clerk identifies any discrepancies between the number of sign
 
 ## Annotations
 
-[^key-80cb8d70a7829baa3efb8a5a72f00e94]: Commencement: Reg. 34 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-80cb8d70a7829baa3efb8a5a72f00e94]: Commencement: Reg. 34 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

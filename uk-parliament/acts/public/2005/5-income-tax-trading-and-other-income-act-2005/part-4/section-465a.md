@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies if—
 
 - (a) an individual is liable for tax under this Chapter in respect of an amount, and
-- (b) the individual is treated by section 530 as having paid income tax at the savings basic rate[^key-8350fdb558622178f588ed92526a5053] on the amount.
+- (b) the individual is treated by section 530 as having paid income tax at the savings basic rate[^c-8350fdb558622178f588ed92526a5053] on the amount.
 
 (2) The amount is treated as the highest part of the individual's total income.
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c19743131]: Textual amendment: S. 465A inserted (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 529](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/529) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8350fdb558622178f588ed92526a5053]: Textual amendment: Words in [s. 465A(1)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/465A/1/b) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/41)
+[^c-8350fdb558622178f588ed92526a5053]: Textual amendment: Words in [s. 465A(1)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/465A/1/b) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/41)

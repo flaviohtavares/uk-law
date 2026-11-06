@@ -22,20 +22,20 @@ summary: ''
 
 Articles 17, 18 and 19
 
-### PART 1 — AMENDMENTS TO EXISTING ORDERS[^key-8cf9fb843c43907a2ab63a812fe91175]
+### PART 1 — AMENDMENTS TO EXISTING ORDERS[^c-8cf9fb843c43907a2ab63a812fe91175]
 
 | *(1)*<br>*Statutory Instrument/ Order Title* | *(2)*<br>*Changes* | *(3)*<br>*Event* |
 | --- | --- | --- |
 | The County of Northampton (Church Lane, Blisworth) (Weight Restriction) Order 1971 | To be revoked in its entirety | Opening to traffic of the Roade Bypass constructed as part of Works No. 13 as shown on the works plans (Documents 2.2D and 2.2E). |
 
-### PART 2 — CLEARWAYS[^key-ca0d01946c87cbb31964bdcf735a0c1d]
+### PART 2 — CLEARWAYS[^c-ca0d01946c87cbb31964bdcf735a0c1d]
 
 | *(1)*<br>*Location* | *(2)*<br>*Description* | *(3)*<br>*Event* |
 | --- | --- | --- |
 | A508 Southbound | From the junction with the circulatory carriageway at the signalised roundabout between the A45, A508 and M1 slip roads at M1 junction 15 to the roundabout junction between the A508 and the main site access road, the centreline of which is shown coloured purple between points 1 and 2 on the traffic regulation plan (Document 2.6A). | Completion of Works No. 7 |
 | A508 Northbound | From the roundabout junction between the A508 and the rail terminal access road to the junction with the circulatory carriageway at the signalised roundabout between the A45, A508 and M1 slip roads at the M1 junction 15; the centreline of which is shown coloured purple between points 3 and 4 as shown on the traffic regulation plan (Document 2.6A). | Completion of Works No. 7 |
 
-### PART 3 — ENVIRONMENTAL WEIGHT LIMIT[^key-309eb0157f114a2a141c5e2db686af39]
+### PART 3 — ENVIRONMENTAL WEIGHT LIMIT[^c-309eb0157f114a2a141c5e2db686af39]
 
 | *(1)*<br>*Location* | *(2)*<br>*Zone* | *(3)*<br>*Terminal points* | *(4)*<br>*Event* |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Articles 17, 18 and 19
 | Parish of Ashton, Parish of Roade and Parish of Stoke Bruerne | C | (i) Northampton Road, at its junction with the A508 Roade Bypass as shown at point 18 on the traffic regulation plans (Inset H of Document 2.6B);<br>(ii) C48 Hartwell Road, at its junction with the C26 Ashton Road as shown at point 19 on the traffic regulation plans (Inset J of Document 2.6B);<br>(iii) Roade Hill, at its junction with the C26 Stoke Road as shown at point 20 on the traffic regulation plans (Inset K of Document 2.6B);<br>(iv) Stratford Road, at its junction with the A508 Roade Bypass as shown at point 21 on the traffic regulation plans (Inset L of Document 2.6B); and<br>(v) Blisworth Road (Parish of Roade) at its junction with the A508 Roade Bypass as shown at point 22 on the traffic regulation plans (Inset C of Document 2.6B). | Completion of Works No. 13 |
 | Parish of Collingtree and Parish of East Hunsbury | D | (i) C23 Rowtree Road, at its junction with the A45 London Road as shown at point 23 on the traffic regulation plans (Inset M of Document 2.6B);<br>(ii) Penvale Road, at its junction with the A5076 Mere Way as shown at point 24 on the traffic regulation plans (Inset N of Document 2.6B);<br>(iii) Clannell Road, at its junction with the C188 Towcester Road as shown at point 25 on the traffic regulation plans (Inset P of Document 2.6B); and<br>(iv) C23 Rowtree Road, at its junction with the C188 Towcester Road as shown at point 26 on the traffic regulation plans (Inset Q of Document 2.6B). | Commencement of any of Works Nos. 1 to 6 |
 
-### PART 4 — PROHIBITED MOVEMENTS[^key-4d88e429ba73f5e957e1ad13f6c5498b]
+### PART 4 — PROHIBITED MOVEMENTS[^c-4d88e429ba73f5e957e1ad13f6c5498b]
 
 <table>
 <thead>
@@ -58,10 +58,10 @@ Articles 17, 18 and 19
 
 ## Annotations
 
-[^key-8cf9fb843c43907a2ab63a812fe91175]: Commencement: Sch. 9 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-8cf9fb843c43907a2ab63a812fe91175]: Commencement: Sch. 9 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-ca0d01946c87cbb31964bdcf735a0c1d]: Commencement: Sch. 9 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-ca0d01946c87cbb31964bdcf735a0c1d]: Commencement: Sch. 9 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-309eb0157f114a2a141c5e2db686af39]: Commencement: Sch. 9 Pt. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-309eb0157f114a2a141c5e2db686af39]: Commencement: Sch. 9 Pt. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-4d88e429ba73f5e957e1ad13f6c5498b]: Commencement: Sch. 9 Pt. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-4d88e429ba73f5e957e1ad13f6c5498b]: Commencement: Sch. 9 Pt. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

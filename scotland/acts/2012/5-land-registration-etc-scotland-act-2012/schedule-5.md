@@ -24,14 +24,14 @@ summary: ''
 
 ### Lands Clauses Consolidation (Scotland) Act 1845 (c.19)
 
-**1.**[^key-32a938605a73a426a425e711d849e5e4] In the Lands Clauses Consolidation (Scotland) Act 1845, in the note to schedule (A.) (form of conveyance)—
+**1.**[^c-32a938605a73a426a425e711d849e5e4] In the Lands Clauses Consolidation (Scotland) Act 1845, in the note to schedule (A.) (form of conveyance)—
 
 - (a) for “Subscription of the document by the granter of it” substitute “ In the case of a traditional document, subscription of it by the granter ”,
 - (b) after “1995” insert “ , which also makes provision as regards the authentication of an electronic document ”.
 
 ### Commissioners Clauses Act 1847 (c.16)
 
-**2.**[^key-ae9b88fcab11e1454c0c8bcafa746d5b] (1) The Commissioners Clauses Act 1847 is amended as follows.
+**2.**[^c-ae9b88fcab11e1454c0c8bcafa746d5b] (1) The Commissioners Clauses Act 1847 is amended as follows.
 
 (2) In section 59(2) (conveyance of lands by commissioners)—
 
@@ -48,24 +48,24 @@ summary: ''
 
 ### Ordnance Board Transfer Act 1855 (c.117)
 
-**3.**[^key-283343e84e42b924e3f16e8ef15beb71] In section 5(2) of the Ordnance Board Transfer Act 1855 (description in conveyances etc.), after “subscribing” insert “ , or as the case may be authenticating, ”.
+**3.**[^c-283343e84e42b924e3f16e8ef15beb71] In section 5(2) of the Ordnance Board Transfer Act 1855 (description in conveyances etc.), after “subscribing” insert “ , or as the case may be authenticating, ”.
 
 ### Transmission of Moveable Property (Scotland) Act 1862 (c.85)
 
-**4.**[^key-6d473b4ff2ebd167f30654bb13f1d598] In the Transmission of Moveable Property (Scotland) Act 1862, in the note to each of schedules A (form for assignation of bond or conveyance) and B (form of bond or conveyance)—
+**4.**[^c-6d473b4ff2ebd167f30654bb13f1d598] In the Transmission of Moveable Property (Scotland) Act 1862, in the note to each of schedules A (form for assignation of bond or conveyance) and B (form of bond or conveyance)—
 
 - (a) for “Subscription of the document by the granter of it” substitute “ In the case of a traditional document, subscription of it by the granter ”,
 - (b) after “1995” insert “ , which also makes provision as regards the authentication of an electronic document ”.
 
 ### Land Registers (Scotland) Act 1868 (c.64)
 
-**5.**[^key-e18b918da9e8b5a7c2ba6d1b9f0ab3d2] (1) The Land Registers (Scotland) Act 1868 is amended as follows.
+**5.**[^c-e18b918da9e8b5a7c2ba6d1b9f0ab3d2] (1) The Land Registers (Scotland) Act 1868 is amended as follows.
 
 (2) Sections 13, 19 and 25 are repealed.
 
 ### Titles to Land Consolidation (Scotland) Act 1868 (c.101)
 
-**6.**[^key-631f5e259231e896d5cbeaf5a5cf4d55] (1) The Titles to Land Consolidation (Scotland) Act 1868 is amended as follows.
+**6.**[^c-631f5e259231e896d5cbeaf5a5cf4d55] (1) The Titles to Land Consolidation (Scotland) Act 1868 is amended as follows.
 
 (2) In section 159 (litigiosity not to begin before date of registration of notice of summons)—
 
@@ -92,7 +92,7 @@ summary: ''
 
 ### Conveyancing (Scotland) Act 1874 (c.94)
 
-**7.**[^key-d61f7a77e46de9a6ac6317a8f2d1c473] (1) The Conveyancing (Scotland) Act 1874 is amended as follows.
+**7.**[^c-d61f7a77e46de9a6ac6317a8f2d1c473] (1) The Conveyancing (Scotland) Act 1874 is amended as follows.
 
 (2) In schedule M (form of assignation of right of relief etc.), in the note—
 
@@ -101,7 +101,7 @@ summary: ''
 
 ### Trusts (Scotland) Act 1921 (c.58)
 
-**8.**[^key-b2568a5be6ef45b72640370c36a7dc23] (1) The Trusts (Scotland) Act 1921 is amended as follows.
+**8.**[^c-b2568a5be6ef45b72640370c36a7dc23] (1) The Trusts (Scotland) Act 1921 is amended as follows.
 
 (2) In schedule A (form of minute of resignation), in the note—
 
@@ -115,7 +115,7 @@ summary: ''
 
 ### Conveyancing (Scotland) Act 1924 (c.27)
 
-**9.**[^key-7ce978c3ac7d547baf9ce2c9427f30f0] (1) The Conveyancing (Scotland) Act 1924 is amended as follows.
+**9.**[^c-7ce978c3ac7d547baf9ce2c9427f30f0] (1) The Conveyancing (Scotland) Act 1924 is amended as follows.
 
 (2) In section 2(5) (interpretation), after “registrable” insert “ in the Land Register of Scotland or ”.
 
@@ -141,35 +141,35 @@ summary: ''
 
 ### Burgh Registers (Scotland) Act 1926 (c.50)
 
-**10.**[^key-3d39671fcc22c2737e44bb2c8c5dc3c7] The Burgh Registers (Scotland) Act 1926 is repealed.
+**10.**[^c-3d39671fcc22c2737e44bb2c8c5dc3c7] The Burgh Registers (Scotland) Act 1926 is repealed.
 
 ### Public Registers and Records (Scotland) Act 1948 (c.57)
 
-**11.**[^key-3f4d956c9c2cc87487c51b33b5eee576] Section 4 of the Public Registers and Records (Scotland) Act 1948 is repealed.
+**11.**[^c-3f4d956c9c2cc87487c51b33b5eee576] Section 4 of the Public Registers and Records (Scotland) Act 1948 is repealed.
 
 ### Land Drainage (Scotland) Act 1958 (c.24)
 
-**12.**[^key-234c1ef43e81e98e4b0284a0a240a928] In section 18(1) of the Land Drainage (Scotland) Act 1958 (interpretation), in the definition of “long lease”, after “being,” insert “ registered in the Land Register of Scotland or ”.
+**12.**[^c-234c1ef43e81e98e4b0284a0a240a928] In section 18(1) of the Land Drainage (Scotland) Act 1958 (interpretation), in the definition of “long lease”, after “being,” insert “ registered in the Land Register of Scotland or ”.
 
 ### Harbours Act 1964 (c.40)
 
-**13.**[^key-3db8e8dbe0ed878880ec9fa65ffbfafe] In section 57(1) of the Harbours Act 1964 (interpretation), in the definition of “long lease”, after “being,” insert “ registered in the Land Register of Scotland or ”.
+**13.**[^c-3db8e8dbe0ed878880ec9fa65ffbfafe] In section 57(1) of the Harbours Act 1964 (interpretation), in the definition of “long lease”, after “being,” insert “ registered in the Land Register of Scotland or ”.
 
 ### Succession (Scotland) Act 1964 (c.41)
 
-**14.**[^key-6b6fe6448b9d482624f456f463643fac] In section 21A(a) of the Succession (Scotland) Act 1964 (evidence as to testamentary documents in commissary proceedings), after “subscribed” insert “or under section 9C or 9D (or by virtue of section 9E(1)) of that Act to have been authenticated”[^key-8e85832ef28dbea4899dc87a5b9ae2d1].
+**14.**[^c-6b6fe6448b9d482624f456f463643fac] In section 21A(a) of the Succession (Scotland) Act 1964 (evidence as to testamentary documents in commissary proceedings), after “subscribed” insert “or under section 9C or 9D (or by virtue of section 9E(1)) of that Act to have been authenticated”[^c-8e85832ef28dbea4899dc87a5b9ae2d1].
 
 ### Industrial and Provident Societies Act 1965 (c.12)
 
-**15.**[^key-86da7c557324691da236705e5b6987b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-86da7c557324691da236705e5b6987b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Gas Act 1965 (c.36)
 
-**16.**[^key-d5de1f47a79fb0b8e4b5f04640c875b8] In section 28(1) of the Gas Act 1965 (interpretation of Part 2 of the Act), in the definition of “**long lease**” for the purposes of the definition of “owner”, after “being,” insert “ registered in the Land Register of Scotland or ”.
+**16.**[^c-d5de1f47a79fb0b8e4b5f04640c875b8] In section 28(1) of the Gas Act 1965 (interpretation of Part 2 of the Act), in the definition of “**long lease**” for the purposes of the definition of “owner”, after “being,” insert “ registered in the Land Register of Scotland or ”.
 
 ### Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35)
 
-**17.**[^key-5cb618042610a14df7aef9f6c1e23ce1] (1) The Conveyancing and Feudal Reform (Scotland) Act 1970 is amended as follows.
+**17.**[^c-5cb618042610a14df7aef9f6c1e23ce1] (1) The Conveyancing and Feudal Reform (Scotland) Act 1970 is amended as follows.
 
 (2) In section 9 (the standard security)—
 
@@ -338,7 +338,7 @@ summary: ''
 
 ### Prescription and Limitation (Scotland) Act 1973 (c.52)
 
-**18.**[^key-5120ef6797f59bcdf072263e9480f597] (1) The Prescription and Limitation (Scotland) Act 1973 is amended as follows.
+**18.**[^c-5120ef6797f59bcdf072263e9480f597] (1) The Prescription and Limitation (Scotland) Act 1973 is amended as follows.
 
 (2) In section 1 of the Prescription and Limitation (Scotland) Act 1973 (c.52) (validity of right), for subsection (1)(b) substitute—
 
@@ -362,7 +362,7 @@ summary: ''
 
 (5) In section 15(1) (interpretation of Part 1 of the Act), at end insert “ and to the registering of a deed are to the registering thereof in the Land Register of Scotland ”.
 
-(6) In paragraph 1 of schedule 1 (obligations affected by prescriptive periods of 5 years under section 6 of that Act), after sub-paragraph (aca)[^key-4a689948170d9849e51da77e9640b4d6] insert—
+(6) In paragraph 1 of schedule 1 (obligations affected by prescriptive periods of 5 years under section 6 of that Act), after sub-paragraph (aca)[^c-4a689948170d9849e51da77e9640b4d6] insert—
 
 > - (ad) to any obligation of the Keeper of the Registers of Scotland to pay compensation by virtue of section 84 of the Land Registration etc. (Scotland) Act 2012 (asp 5);
 > - (ae) to any obligation to pay compensation by virtue of section 111 of that Act;
@@ -371,7 +371,7 @@ summary: ''
 
 (7) In paragraph 2 of that schedule (obligations which, notwithstanding paragraph 1 of the schedule, are not affected by prescriptive periods of 5 years under section 6 of that Act), in sub-paragraph (e)—
 
-- (a)[^key-f3e6e1195344a1258b5d9285a9ccc972] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f3e6e1195344a1258b5d9285a9ccc972] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after “servitude)” insert “ and any obligation of the Keeper of the Registers of Scotland to pay compensation by virtue of section 77 or 94 of the Land Registration etc. (Scotland) Act 2012 (asp 5) ”.
 
 (8) In schedule 3 (rights and obligations which are imprescriptible for certain purposes of that Act) after sub-paragraph (h) insert—
@@ -382,7 +382,7 @@ summary: ''
 
 ### Land Registration (Scotland) Act 1979 (c.33)
 
-**19.**[^key-0aceeeb0cd64f8e48b80de14786a905e] (1) The Land Registration (Scotland) Act 1979 is amended as follows.
+**19.**[^c-0aceeeb0cd64f8e48b80de14786a905e] (1) The Land Registration (Scotland) Act 1979 is amended as follows.
 
 (2) Sections 1 to 14 are repealed.
 
@@ -437,14 +437,14 @@ summary: ''
 
 ### Education (Scotland) Act 1980 (c.44)
 
-**20.**[^key-bbff59535a3f090e90784c8248907d32] In section 16(2) of the Education (Scotland) Act 1980 (transference of denominational schools to education authorities)—
+**20.**[^c-bbff59535a3f090e90784c8248907d32] In section 16(2) of the Education (Scotland) Act 1980 (transference of denominational schools to education authorities)—
 
 - (a) for paragraphs (a) and (b) substitute “ by registration in the Land Register of Scotland of an ordinary disposition or other deed of conveyance by the persons vested with the title ”,
 - (b) for “the recording of the deed of conveyance or, as the case may be,” substitute “ such ”.
 
 ### Water (Scotland) Act 1980 (c.45)
 
-**21.**[^key-15919afd2aa763c851b5205ed9a543dc] (1) The Water (Scotland) Act 1980 is amended as follows.
+**21.**[^c-15919afd2aa763c851b5205ed9a543dc] (1) The Water (Scotland) Act 1980 is amended as follows.
 
 (2) In section 58(5) (termination of right to supply of water on special terms), for “record” to the end substitute
 
@@ -461,11 +461,11 @@ summary: ''
 
 ### Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c.59)
 
-**22.**[^key-3ab8bb141ddc319473624f346e08b8f0] In section 13(8) of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (transfer of tenancy), in the definition of “long lease”, for “section 28(1) of the Land Registration (Scotland) Act 1979” substitute “ section 9(2) of the Land Registration etc. (Scotland) Act 2012 (asp 5) ”.
+**22.**[^c-3ab8bb141ddc319473624f346e08b8f0] In section 13(8) of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (transfer of tenancy), in the definition of “long lease”, for “section 28(1) of the Land Registration (Scotland) Act 1979” substitute “ section 9(2) of the Land Registration etc. (Scotland) Act 2012 (asp 5) ”.
 
 ### Civil Aviation Act 1982 (c.16)
 
-**23.**[^key-35b81088db382bbe765b2032742db47e] In section 55 of the Civil Aviation Act 1982 (c.16) (registration of orders etc. under Part 2 of the Act)—
+**23.**[^c-35b81088db382bbe765b2032742db47e] In section 55 of the Civil Aviation Act 1982 (c.16) (registration of orders etc. under Part 2 of the Act)—
 
 - (a) in subsection (2), repeal “in the Land Register of Scotland”,
 - (b) in subsection (3), for second “as” to “interest” substitute “ , and on being registered shall be enforceable against any person having or subsequently acquiring any right ”,
@@ -482,7 +482,7 @@ summary: ''
 
 ### Litter Act 1983 (c.35)
 
-**24.**[^key-5ef9141016ad3a5fdcecc2689ae2fb83] In section 8 of the Litter Act 1983 (provisions supplementary to section 7 of the Act)—
+**24.**[^c-5ef9141016ad3a5fdcecc2689ae2fb83] In section 8 of the Litter Act 1983 (provisions supplementary to section 7 of the Act)—
 
 - (a) in subsection (3)—
   - (i) repeal “Subject to subsection (4) below,”,
@@ -500,19 +500,19 @@ summary: ''
 
 ### Health and Social Services and Social Security Adjudications Act 1983 (c.41)
 
-**25.**[^key-3d9c3fabf49d4930b1bf56f339a2a08d] In section 23(1) of the Health and Social Services and Social Security Adjudications Act 1983 (arrears of contributions secured over interest in land in Scotland), for “Land Registration (Scotland) Act 1979” substitute “ Land Registration etc. (Scotland) Act 2012 ”.
+**25.**[^c-3d9c3fabf49d4930b1bf56f339a2a08d] In section 23(1) of the Health and Social Services and Social Security Adjudications Act 1983 (arrears of contributions secured over interest in land in Scotland), for “Land Registration (Scotland) Act 1979” substitute “ Land Registration etc. (Scotland) Act 2012 ”.
 
 ### Telecommunications Act 1984 (c.12)
 
-**26.**[^key-11bdcc781ea69d765b521360b6788c38] In schedule 4 of the Telecommunications Act 1984 (minor and consequential amendments), paragraph 71 is repealed.
+**26.**[^c-11bdcc781ea69d765b521360b6788c38] In schedule 4 of the Telecommunications Act 1984 (minor and consequential amendments), paragraph 71 is repealed.
 
 ### Matrimonial and Family Proceedings Act 1984 (c.42)
 
-**27.**[^key-56a4c3804a2236952aba22e366a7eb73] In schedule 1 of the Matrimonial and Family Proceedings Act 1984 (minor and consequential amendments), paragraph 28 is repealed.
+**27.**[^c-56a4c3804a2236952aba22e366a7eb73] In schedule 1 of the Matrimonial and Family Proceedings Act 1984 (minor and consequential amendments), paragraph 28 is repealed.
 
 ### Bankruptcy (Scotland) Act 1985 (c.66)
 
-**28.**[^key-28a0293cde54613d70f4920e2e92d8fd] (1) The Bankruptcy (Scotland) Act 1985 is amended as follows.
+**28.**[^c-28a0293cde54613d70f4920e2e92d8fd] (1) The Bankruptcy (Scotland) Act 1985 is amended as follows.
 
 (2) In section 5 (sequestration of estate of a living or deceased debtor), in subsection (4AA)(a)(ii), for “28(1) of the Land Registration (Scotland) Act 1979 (c.33)” substitute “ 9(2) of the Land Registration etc. (Scotland) Act 2012 (asp 5)) ”.
 
@@ -520,11 +520,11 @@ summary: ''
 
 ### Housing Associations Act 1985 (c.69)
 
-**29.**[^key-89666e8ad3a626f1a76d695b97c185f0] In section 68(6) of the Housing Associations Act 1985 (loans by Public Works Loan Commissioners: Scotland), after “lease” insert “ registered or ”.
+**29.**[^c-89666e8ad3a626f1a76d695b97c185f0] In section 68(6) of the Housing Associations Act 1985 (loans by Public Works Loan Commissioners: Scotland), after “lease” insert “ registered or ”.
 
 ### Law Reform (Miscellaneous Provisions)(Scotland) Act 1985 (c.73)
 
-**30.**[^key-0613330e8d70273bc7e352c0317a3d21] In section 8 of the Law Reform (Miscellaneous Provisions)(Scotland) Act 1985 (rectification of defectively expressed documents)—
+**30.**[^c-0613330e8d70273bc7e352c0317a3d21] In section 8 of the Law Reform (Miscellaneous Provisions)(Scotland) Act 1985 (rectification of defectively expressed documents)—
 
 - (a) in subsection (7), at end insert “ except that this subsection is subject to subsection (8A) below. ”,
 - (b) after subsection (8) insert—
@@ -535,25 +535,25 @@ summary: ''
 
 ### Electricity Act 1989 (c.29)
 
-**31.**[^key-e8729c0416c17f322a3d24d32b78c05a] In schedule 16 to the Electricity Act 1989 (minor and consequential amendments), paragraph 23 is repealed.
+**31.**[^c-e8729c0416c17f322a3d24d32b78c05a] In schedule 16 to the Electricity Act 1989 (minor and consequential amendments), paragraph 23 is repealed.
 
 ### Property Misdescriptions Act 1991 (c.29)
 
 **Not yet in force.**
 
-**32.**[^key-118e9a3c18acbca73d2f3b186a19cf90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-118e9a3c18acbca73d2f3b186a19cf90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Agricultural Holdings (Scotland) Act 1991 (c.55)
 
-**33.**[^key-fd544e2c0bf63cdd4c6d392aad0f763b] In section 75(1) of the Agricultural Holdings (Scotland) Act 1991 (power of tenant and landlord to obtain charge on holding), after “recorded” insert “ or registered ”.
+**33.**[^c-fd544e2c0bf63cdd4c6d392aad0f763b] In section 75(1) of the Agricultural Holdings (Scotland) Act 1991 (power of tenant and landlord to obtain charge on holding), after “recorded” insert “ or registered ”.
 
 ### Coal Industry Act 1994 (c.21)
 
-**34.**[^key-ac3983bf115b113dfbbda4d617613a61] In the Coal Industry Act 1994, in schedule 9 (minor and consequential amendments), paragraph 20 is repealed.
+**34.**[^c-ac3983bf115b113dfbbda4d617613a61] In the Coal Industry Act 1994, in schedule 9 (minor and consequential amendments), paragraph 20 is repealed.
 
 ### Land Registers (Scotland) Act 1995 (c.14)
 
-**35.**[^key-c75a27d0a26a1776a7d09ca5eba48949] In section 1 of the Land Registers (Scotland) Act 1995 (prepayment of recording and registration fees)—
+**35.**[^c-c75a27d0a26a1776a7d09ca5eba48949] In section 1 of the Land Registers (Scotland) Act 1995 (prepayment of recording and registration fees)—
 
 - (a) in subsection (1), for “payment” to the end substitute
 
@@ -567,15 +567,15 @@ summary: ''
 
 ### Petroleum Act 1998 (c.17)
 
-**36.**[^key-fe14ac5fa5b3910fc89769961f37740a] In section 5(9) of the Petroleum Act 1998 (existing licences), after “subscribed” insert “ or authenticated ”.
+**36.**[^c-fe14ac5fa5b3910fc89769961f37740a] In section 5(9) of the Petroleum Act 1998 (existing licences), after “subscribed” insert “ or authenticated ”.
 
 ### Public Finance and Accountability (Scotland) Act 2000 (asp 1)
 
-**37.**[^key-28364eb1e58f27ef44c9f326df521530] In section 9(1) of the Public Finance and Accountability (Scotland) Act 2000 (Keeper of the Registers of Scotland: financial arrangements), for “section 25 of the Land Registers (Scotland) Act 1868 (c.64)” substitute “ section 110 of the Land Registration etc. (Scotland) Act 2012 (asp 5) ”.
+**37.**[^c-28364eb1e58f27ef44c9f326df521530] In section 9(1) of the Public Finance and Accountability (Scotland) Act 2000 (Keeper of the Registers of Scotland: financial arrangements), for “section 25 of the Land Registers (Scotland) Act 1868 (c.64)” substitute “ section 110 of the Land Registration etc. (Scotland) Act 2012 (asp 5) ”.
 
 ### Adults with Incapacity (Scotland) Act 2000 (asp 4)
 
-**38.**[^key-1fc7610c6e515b4bca2b20dca891cf1f] (1) The Adults with Incapacity (Scotland) Act 2000 is amended as follows.
+**38.**[^c-1fc7610c6e515b4bca2b20dca891cf1f] (1) The Adults with Incapacity (Scotland) Act 2000 is amended as follows.
 
 (2) In section 56(7) (registration of intervention order relating to heritable property, for “the updated Land Certificate or an office copy thereof” substitute “ an extract of the updated title sheet ”.
 
@@ -583,7 +583,7 @@ summary: ''
 
 ### Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)
 
-**39.**[^key-90db564a92281f20ae2a5a4d23a84303] (1) The Abolition of Feudal Tenure etc. (Scotland) Act 2000 is amended as follows.
+**39.**[^c-90db564a92281f20ae2a5a4d23a84303] (1) The Abolition of Feudal Tenure etc. (Scotland) Act 2000 is amended as follows.
 
 (2) Section 4 is repealed.
 
@@ -614,11 +614,11 @@ summary: ''
 
 ### Standards in Scotland's Schools etc. Act 2000 (asp 6)
 
-**40.**[^key-3bf43c55b1555cf3d635cf9a69ed1ec3] In section 58(1) of the Standards in Scotland's Schools etc. Act 2000 (interpretation), in the definition of “land”, for “interests in land (within the meaning of the Land Registration (Scotland) Act 1979 (c.33)” substitute “ rights registered in the Land Register of Scotland ”.
+**40.**[^c-3bf43c55b1555cf3d635cf9a69ed1ec3] In section 58(1) of the Standards in Scotland's Schools etc. Act 2000 (interpretation), in the definition of “land”, for “interests in land (within the meaning of the Land Registration (Scotland) Act 1979 (c.33)” substitute “ rights registered in the Land Register of Scotland ”.
 
 ### National Parks (Scotland) Act 2000 (asp 10)
 
-**41.**[^key-260da89f397432da0b4789dce7a64759] In section 15 of the National Parks (Scotland) Act 2000 (management agreements)—
+**41.**[^c-260da89f397432da0b4789dce7a64759] In section 15 of the National Parks (Scotland) Act 2000 (management agreements)—
 
 - (a) in subsection (1), for “an interest” substitute “ a right ”,
 - (b) for subsection (5) substitute—
@@ -633,14 +633,14 @@ summary: ''
 
 ### Housing (Scotland) Act 2001 (asp 10)
 
-**42.**[^key-476586e4529b4a11ed58fd2386b7b9f2] In the Housing (Scotland) Act 2001—
+**42.**[^c-476586e4529b4a11ed58fd2386b7b9f2] In the Housing (Scotland) Act 2001—
 
 - (a) in section 23(1)(b) (tenant's right to written tenancy agreement and information), after “subscribed” insert “ or authenticated ”,
 - (b) in section 24(3) (restriction on variation of tenancy), after “subscribed” insert “ or authenticated ”.
 
 ### Title Conditions (Scotland) Act 2003 (asp 9)
 
-**43.**[^key-266e5adb04e6f7fddb093f780d390f98] (1) The Title Conditions (Scotland) Act 2003 is amended as follows.
+**43.**[^c-266e5adb04e6f7fddb093f780d390f98] (1) The Title Conditions (Scotland) Act 2003 is amended as follows.
 
 (2) In section 4 (creation of real burdens), in subsection (1), repeal “, notwithstanding section 3(4) of the 1979 Act (creation of real right or obligation on date of registration etc.),”.
 
@@ -676,11 +676,11 @@ summary: ''
 
 ### Civil Partnership Act 2004 (c.33)
 
-**44.**[^key-108216b162ee1f63e0c37475d26ce2b2] In section 112(9) of the Civil Partnership Act 2004 (transfer of tenancy), in the definition of “long lease”, for “28(1) of the Land Registration (Scotland) Act 1979 (c.33)” substitute “ 9(2) of the Land Registration etc. (Scotland) Act 2012 (asp 5) ”.
+**44.**[^c-108216b162ee1f63e0c37475d26ce2b2] In section 112(9) of the Civil Partnership Act 2004 (transfer of tenancy), in the definition of “long lease”, for “28(1) of the Land Registration (Scotland) Act 1979 (c.33)” substitute “ 9(2) of the Land Registration etc. (Scotland) Act 2012 (asp 5) ”.
 
 ### Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)
 
-**45.**[^key-76662eb501a91274aeb06674f7968dba] In section 16 of the Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (rights in roads or public places), for subsection (3) substitute—
+**45.**[^c-76662eb501a91274aeb06674f7968dba] In section 16 of the Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (rights in roads or public places), for subsection (3) substitute—
 
 > (3) The powers conferred by this section constitute a real right.
 
@@ -688,7 +688,7 @@ summary: ''
 
 ### Tenements (Scotland) Act 2004 (asp 11)
 
-**46.**[^key-851e13ed4ab2ce50ae333817e54fa176] (1) The Tenements (Scotland) Act 2004 is amended as follows.
+**46.**[^c-851e13ed4ab2ce50ae333817e54fa176] (1) The Tenements (Scotland) Act 2004 is amended as follows.
 
 (2) In section 1(2)(b) (determination of boundaries and pertinents)—
 
@@ -703,7 +703,7 @@ summary: ''
 
 ### Edinburgh Tram (Line Two) Act 2006 (asp 6)
 
-**47.**[^key-1dcb49784754728e616327083b2922ba] In section 25 of the Edinburgh Tram (Line Two) Act 2006 (rights under or over roads), for subsection (5) substitute—
+**47.**[^c-1dcb49784754728e616327083b2922ba] In section 25 of the Edinburgh Tram (Line Two) Act 2006 (rights under or over roads), for subsection (5) substitute—
 
 > (5) The powers conferred by this section constitute a real right.
 
@@ -711,7 +711,7 @@ summary: ''
 
 ### Edinburgh Tram (Line One) Act 2006 (asp 7)
 
-**48.**[^key-abf2794804e63bc04ff4eb817ee49e8c] In section 25 of the Edinburgh Tram (Line One) Act 2006 (rights under or over roads), for subsection (5) substitute—
+**48.**[^c-abf2794804e63bc04ff4eb817ee49e8c] In section 25 of the Edinburgh Tram (Line One) Act 2006 (rights under or over roads), for subsection (5) substitute—
 
 > (5) The powers conferred by this section constitute a real right.
 
@@ -719,7 +719,7 @@ summary: ''
 
 ### Waverley Railway (Scotland) Act 2006 (asp 13)
 
-**49.**[^key-b41bd5443ca80f925ee31c19e91430e5] In section 16 of the Waverley Railway (Scotland) Act 2006 (rights in roads or public places), for subsection (3) substitute—
+**49.**[^c-b41bd5443ca80f925ee31c19e91430e5] In section 16 of the Waverley Railway (Scotland) Act 2006 (rights in roads or public places), for subsection (3) substitute—
 
 > (3) The powers conferred by this section constitute a real right.
 
@@ -727,7 +727,7 @@ summary: ''
 
 ### Companies Act 2006 (c.46)
 
-**50.**[^key-9808fb3ffb23839b49486fcfa57f935f] (1) The Companies Act 2006 is amended as follows.
+**50.**[^c-9808fb3ffb23839b49486fcfa57f935f] (1) The Companies Act 2006 is amended as follows.
 
 (2) In section 48(3) (execution of documents by companies), after “subscribed” insert “ (or, in the case of an electronic document, authenticated) ”.
 
@@ -737,7 +737,7 @@ summary: ''
 
 ### Glasgow Airport Rail Link Act 2007 (asp 1)
 
-**51.**[^key-47db43dd2c0e71bf320422af527d6890] In section 15 of the Glasgow Airport Rail Link Act 2007 (rights in roads), for subsection (3) substitute—
+**51.**[^c-47db43dd2c0e71bf320422af527d6890] In section 15 of the Glasgow Airport Rail Link Act 2007 (rights in roads), for subsection (3) substitute—
 
 > (3) The powers conferred by this section constitute a real right.
 
@@ -745,7 +745,7 @@ summary: ''
 
 ### Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)
 
-**52.**[^key-c7c132b7cb050007c301d3b00f1a91bc] (1) The Bankruptcy and Diligence etc. (Scotland) Act 2007 is amended as follows.
+**52.**[^c-c7c132b7cb050007c301d3b00f1a91bc] (1) The Bankruptcy and Diligence etc. (Scotland) Act 2007 is amended as follows.
 
 (2) In section 85 (restriction on priority of ranking of certain securities), in new section 13A (to be inserted in the Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35)), in subsection (1)(a), after “duly” insert “ registered or ”.
 
@@ -753,7 +753,7 @@ summary: ''
 
 ### Edinburgh Airport Rail Link Act 2007 (asp 16)
 
-**53.**[^key-f23bde3fe650db278052edba31d05247] (1) The Edinburgh Airport Rail Link Act 2007 is amended as follows.
+**53.**[^c-f23bde3fe650db278052edba31d05247] (1) The Edinburgh Airport Rail Link Act 2007 is amended as follows.
 
 (2) In section 9(1) (registration of vested land), for “section 4 of the Land Registration (Scotland) Act 1979 (c.33)” substitute “ Part 2 of the Land Registration etc. (Scotland) Act 2012 (asp 5) ”.
 
@@ -765,7 +765,7 @@ summary: ''
 
 ### Airdrie-Bathgate Railway and Linked Improvements Act 2007 (asp 19)
 
-**54.**[^key-ea273b7371b2f0c292ae81757b8a34ec] (1) The Airdrie-Bathgate Railway and Linked Improvements Act 2007 is amended as follows.
+**54.**[^c-ea273b7371b2f0c292ae81757b8a34ec] (1) The Airdrie-Bathgate Railway and Linked Improvements Act 2007 is amended as follows.
 
 (2) In section 9(1) (registration of vested land), for “section 4 of the Land Registration (Scotland) Act 1979 (c.33)” substitute “ Part 2 of the Land Registration etc. (Scotland) Act 2012 (asp 5) ”.
 
@@ -777,122 +777,122 @@ summary: ''
 
 ### Energy Act 2008 (c.32)
 
-**55.**[^key-42dec58820423c35e9222bbdb9606f12] In section 77(7) of the Energy Act 2008 (model clauses of petroleum licences), after “subscribed” insert “ or authenticated ”.
+**55.**[^c-42dec58820423c35e9222bbdb9606f12] In section 77(7) of the Energy Act 2008 (model clauses of petroleum licences), after “subscribed” insert “ or authenticated ”.
 
 ## Annotations
 
-[^key-32a938605a73a426a425e711d849e5e4]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/1) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-32a938605a73a426a425e711d849e5e4]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/1) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-ae9b88fcab11e1454c0c8bcafa746d5b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/2) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-ae9b88fcab11e1454c0c8bcafa746d5b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/2) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-283343e84e42b924e3f16e8ef15beb71]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/3) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-283343e84e42b924e3f16e8ef15beb71]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/3) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-6d473b4ff2ebd167f30654bb13f1d598]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/4) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-6d473b4ff2ebd167f30654bb13f1d598]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/4) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-e18b918da9e8b5a7c2ba6d1b9f0ab3d2]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/5) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-e18b918da9e8b5a7c2ba6d1b9f0ab3d2]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/5) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-631f5e259231e896d5cbeaf5a5cf4d55]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/6) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-631f5e259231e896d5cbeaf5a5cf4d55]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/6) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-d61f7a77e46de9a6ac6317a8f2d1c473]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/7) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-d61f7a77e46de9a6ac6317a8f2d1c473]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/7) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-b2568a5be6ef45b72640370c36a7dc23]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/8) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-b2568a5be6ef45b72640370c36a7dc23]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/8) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-7ce978c3ac7d547baf9ce2c9427f30f0]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/9) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-7ce978c3ac7d547baf9ce2c9427f30f0]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/9) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-3d39671fcc22c2737e44bb2c8c5dc3c7]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/10) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3d39671fcc22c2737e44bb2c8c5dc3c7]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/10) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-3f4d956c9c2cc87487c51b33b5eee576]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/11) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3f4d956c9c2cc87487c51b33b5eee576]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/11) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-234c1ef43e81e98e4b0284a0a240a928]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/12) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-234c1ef43e81e98e4b0284a0a240a928]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/12) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-3db8e8dbe0ed878880ec9fa65ffbfafe]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/13) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3db8e8dbe0ed878880ec9fa65ffbfafe]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/13) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-6b6fe6448b9d482624f456f463643fac]: Commencement: Sch. 5 para. 14 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-6b6fe6448b9d482624f456f463643fac]: Commencement: Sch. 5 para. 14 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-8e85832ef28dbea4899dc87a5b9ae2d1]: Textual amendment: Words in [sch. 5 para. 14](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/14) substituted (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Amendment and Transitional) Order 2014 (S.S.I. 2014/346)](https://www.legislation.gov.uk/ssi/2014/346), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/346/article/1/2), [3](https://www.legislation.gov.uk/ssi/2014/346/article/3)
+[^c-8e85832ef28dbea4899dc87a5b9ae2d1]: Textual amendment: Words in [sch. 5 para. 14](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/14) substituted (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Amendment and Transitional) Order 2014 (S.S.I. 2014/346)](https://www.legislation.gov.uk/ssi/2014/346), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/346/article/1/2), [3](https://www.legislation.gov.uk/ssi/2014/346/article/3)
 
-[^key-86da7c557324691da236705e5b6987b7]: Textual amendment: Sch. 5 para. 15 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-86da7c557324691da236705e5b6987b7]: Textual amendment: Sch. 5 para. 15 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-d5de1f47a79fb0b8e4b5f04640c875b8]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/16) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-d5de1f47a79fb0b8e4b5f04640c875b8]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/16) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-5cb618042610a14df7aef9f6c1e23ce1]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/17) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5cb618042610a14df7aef9f6c1e23ce1]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/17) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-5120ef6797f59bcdf072263e9480f597]: Commencement: Sch. 5 para. 18 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5120ef6797f59bcdf072263e9480f597]: Commencement: Sch. 5 para. 18 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-4a689948170d9849e51da77e9640b4d6]: Textual amendment: Words in [sch. 5 para. 18(6)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/18/6) substituted (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2014/190/article/2/2/a)
+[^c-4a689948170d9849e51da77e9640b4d6]: Textual amendment: Words in [sch. 5 para. 18(6)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/18/6) substituted (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2014/190/article/2/2/a)
 
-[^key-f3e6e1195344a1258b5d9285a9ccc972]: Textual amendment: [Sch. 5 para. 18(7)(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/18/7/a) repealed (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2014/190/article/2/2/b)
+[^c-f3e6e1195344a1258b5d9285a9ccc972]: Textual amendment: [Sch. 5 para. 18(7)(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/18/7/a) repealed (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Incidental, Consequential and Transitional) Order 2014 (S.S.I. 2014/190)](https://www.legislation.gov.uk/ssi/2014/190), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/190/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2014/190/article/2/2/b)
 
-[^key-0aceeeb0cd64f8e48b80de14786a905e]: Commencement: Sch. 5 para. 19 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-0aceeeb0cd64f8e48b80de14786a905e]: Commencement: Sch. 5 para. 19 in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-bbff59535a3f090e90784c8248907d32]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/20) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-bbff59535a3f090e90784c8248907d32]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/20) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-15919afd2aa763c851b5205ed9a543dc]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/21) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-15919afd2aa763c851b5205ed9a543dc]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/21) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-3ab8bb141ddc319473624f346e08b8f0]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/22) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3ab8bb141ddc319473624f346e08b8f0]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/22) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-35b81088db382bbe765b2032742db47e]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/23) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-35b81088db382bbe765b2032742db47e]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/23) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-5ef9141016ad3a5fdcecc2689ae2fb83]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/24) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-5ef9141016ad3a5fdcecc2689ae2fb83]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/24) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-3d9c3fabf49d4930b1bf56f339a2a08d]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/25) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3d9c3fabf49d4930b1bf56f339a2a08d]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/25) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-11bdcc781ea69d765b521360b6788c38]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/26) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-11bdcc781ea69d765b521360b6788c38]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/26) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-56a4c3804a2236952aba22e366a7eb73]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/27) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-56a4c3804a2236952aba22e366a7eb73]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/27) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-28a0293cde54613d70f4920e2e92d8fd]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/28) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-28a0293cde54613d70f4920e2e92d8fd]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/28) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-89666e8ad3a626f1a76d695b97c185f0]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/29) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-89666e8ad3a626f1a76d695b97c185f0]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/29) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-0613330e8d70273bc7e352c0317a3d21]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/30) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-0613330e8d70273bc7e352c0317a3d21]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/30) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-e8729c0416c17f322a3d24d32b78c05a]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/31) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-e8729c0416c17f322a3d24d32b78c05a]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/31) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-118e9a3c18acbca73d2f3b186a19cf90]: Textual amendment: [Sch. 5 para. 32](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/32) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/16)
+[^c-118e9a3c18acbca73d2f3b186a19cf90]: Textual amendment: [Sch. 5 para. 32](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/32) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/16)
 
-[^key-fd544e2c0bf63cdd4c6d392aad0f763b]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/33) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-fd544e2c0bf63cdd4c6d392aad0f763b]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/33) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-ac3983bf115b113dfbbda4d617613a61]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/34) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-ac3983bf115b113dfbbda4d617613a61]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/34) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-c75a27d0a26a1776a7d09ca5eba48949]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/35) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-c75a27d0a26a1776a7d09ca5eba48949]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/35) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-fe14ac5fa5b3910fc89769961f37740a]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/36) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-fe14ac5fa5b3910fc89769961f37740a]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/36) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-28364eb1e58f27ef44c9f326df521530]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/37) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-28364eb1e58f27ef44c9f326df521530]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/37) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-1fc7610c6e515b4bca2b20dca891cf1f]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/38) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-1fc7610c6e515b4bca2b20dca891cf1f]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/38) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-90db564a92281f20ae2a5a4d23a84303]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/39) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-90db564a92281f20ae2a5a4d23a84303]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/39) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-3bf43c55b1555cf3d635cf9a69ed1ec3]: Commencement: [Sch. 5 para. 40](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/40) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3bf43c55b1555cf3d635cf9a69ed1ec3]: Commencement: [Sch. 5 para. 40](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/40) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-260da89f397432da0b4789dce7a64759]: Commencement: [Sch. 5 para. 41](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/41) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-260da89f397432da0b4789dce7a64759]: Commencement: [Sch. 5 para. 41](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/41) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-476586e4529b4a11ed58fd2386b7b9f2]: Commencement: [Sch. 5 para. 42](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/42) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-476586e4529b4a11ed58fd2386b7b9f2]: Commencement: [Sch. 5 para. 42](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/42) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-266e5adb04e6f7fddb093f780d390f98]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-266e5adb04e6f7fddb093f780d390f98]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/43) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-108216b162ee1f63e0c37475d26ce2b2]: Commencement: [Sch. 5 para. 44](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/44) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-108216b162ee1f63e0c37475d26ce2b2]: Commencement: [Sch. 5 para. 44](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/44) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-76662eb501a91274aeb06674f7968dba]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/45) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-76662eb501a91274aeb06674f7968dba]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/45) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-851e13ed4ab2ce50ae333817e54fa176]: Commencement: [Sch. 5 para. 46](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/46) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-851e13ed4ab2ce50ae333817e54fa176]: Commencement: [Sch. 5 para. 46](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/46) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-1dcb49784754728e616327083b2922ba]: Commencement: [Sch. 5 para. 47](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/47) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-1dcb49784754728e616327083b2922ba]: Commencement: [Sch. 5 para. 47](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/47) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-abf2794804e63bc04ff4eb817ee49e8c]: Commencement: [Sch. 5 para. 48](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/48) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-abf2794804e63bc04ff4eb817ee49e8c]: Commencement: [Sch. 5 para. 48](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/48) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-b41bd5443ca80f925ee31c19e91430e5]: Commencement: [Sch. 5 para. 49](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/49) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-b41bd5443ca80f925ee31c19e91430e5]: Commencement: [Sch. 5 para. 49](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/49) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-9808fb3ffb23839b49486fcfa57f935f]: Commencement: [Sch. 5 para. 50](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/50) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-9808fb3ffb23839b49486fcfa57f935f]: Commencement: [Sch. 5 para. 50](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/50) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-47db43dd2c0e71bf320422af527d6890]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/51) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-47db43dd2c0e71bf320422af527d6890]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/51) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-c7c132b7cb050007c301d3b00f1a91bc]: Commencement: [Sch. 5 para. 52](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/52) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-c7c132b7cb050007c301d3b00f1a91bc]: Commencement: [Sch. 5 para. 52](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/52) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-f23bde3fe650db278052edba31d05247]: Commencement: [Sch. 5 para. 53](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/53) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-f23bde3fe650db278052edba31d05247]: Commencement: [Sch. 5 para. 53](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/53) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-ea273b7371b2f0c292ae81757b8a34ec]: Commencement: [Sch. 5 para. 54](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/54) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-ea273b7371b2f0c292ae81757b8a34ec]: Commencement: [Sch. 5 para. 54](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/54) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-42dec58820423c35e9222bbdb9606f12]: Commencement: [Sch. 5 para. 55](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/55) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-42dec58820423c35e9222bbdb9606f12]: Commencement: [Sch. 5 para. 55](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/55) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

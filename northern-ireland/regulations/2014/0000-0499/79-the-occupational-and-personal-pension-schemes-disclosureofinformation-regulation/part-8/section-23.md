@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Personal pension schemes that have begun winding up[^key-238bc529e30b820b2214458d5d35a2d4]
+## 23. Personal pension schemes that have begun winding up[^c-238bc529e30b820b2214458d5d35a2d4]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ of the decision.
 
 ## Annotations
 
-[^key-238bc529e30b820b2214458d5d35a2d4]: Commencement: Reg. 23 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-238bc529e30b820b2214458d5d35a2d4]: Commencement: Reg. 23 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

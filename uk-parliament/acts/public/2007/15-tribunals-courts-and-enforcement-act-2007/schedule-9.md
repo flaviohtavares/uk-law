@@ -80,11 +80,11 @@ the person shall be treated for the purposes of paragraphs 6 and 7 as not having
 
 **4.** Paragraphs 5 to 8 apply where a person holds a relevant judicial office.
 
-#### Retirement later than age 75 in certain cases where office previously held in another tribunal[^key-482f6166222480c7a381ec17c1d9bd9b]
+#### Retirement later than age 75 in certain cases where office previously held in another tribunal[^c-482f6166222480c7a381ec17c1d9bd9b]
 
-**5.** (1) [^key-dd2e29966b2c2744a1e9b17d6645c692]... Sub-paragraphs (3) and (4) apply where the person has a personal retirement date under either or both of paragraphs 6 and 7.
+**5.** (1) [^c-dd2e29966b2c2744a1e9b17d6645c692]... Sub-paragraphs (3) and (4) apply where the person has a personal retirement date under either or both of paragraphs 6 and 7.
 
-(2) In sub-paragraphs (3) and (4) [^key-4ea46bcf6206afaa9563bac2cb7ca935]...—
+(2) In sub-paragraphs (3) and (4) [^c-4ea46bcf6206afaa9563bac2cb7ca935]...—
 
 - (a) if the person has a personal retirement date under just one of paragraphs 6 and 7 or has the same personal retirement date under each of those paragraphs, “**the special date**” means that date;
 - (b) if the person has a personal retirement date under each of those paragraphs and those dates are different, “**the special date**” means the later of those dates.
@@ -93,12 +93,12 @@ the person shall be treated for the purposes of paragraphs 6 and 7 as not having
 
 (4) The special date is to be taken for the purposes of that section to be the compulsory retirement date for the relevant judicial office in the person's case.
 
-#### Cases where retirement from existing office would be after age 75[^key-9abdec5457c70e314383ca3ba35c46c0]
+#### Cases where retirement from existing office would be after age 75[^c-9abdec5457c70e314383ca3ba35c46c0]
 
 **6.** (1) Sub-paragraphs (2) and (3) apply where, immediately before the relevant day, the person—
 
 - (a) held a qualifying office, and
-- (b) was required to vacate the qualifying office on a day later than the day on which he attains the age of 75[^key-ece27287afb78bbf47ff60d9e2e657c6].
+- (b) was required to vacate the qualifying office on a day later than the day on which he attains the age of 75[^c-ece27287afb78bbf47ff60d9e2e657c6].
 
 (2) The person's personal retirement date under this paragraph is the later day mentioned in sub-paragraph (1)(b), subject to sub-paragraph (3).
 
@@ -106,7 +106,7 @@ the person shall be treated for the purposes of paragraphs 6 and 7 as not having
 
 - (a) there are two or more qualifying offices each of which is one that, immediately before the relevant day, the person—
   - (i) held, and
-  - (ii) was required to vacate on a day later than the day on which he attains the age of 75[^key-8453491a163d8f74ac27eb04be845b63], and
+  - (ii) was required to vacate on a day later than the day on which he attains the age of 75[^c-8453491a163d8f74ac27eb04be845b63], and
 - (b) the later day mentioned in paragraph (a)(ii) is not the same for each of those offices,
 
 the person's personal retirement date under this paragraph is the latest (or later) of those later days.
@@ -116,7 +116,7 @@ the person's personal retirement date under this paragraph is the latest (or lat
 **7.** (1) Sub-paragraph (2) applies where—
 
 - (a) immediately before the relevant day, the person held, on an unlimited basis, a qualifying office or two or more qualifying offices, and
-- (b) the relevant day falls after the day on which the person attains the age of 74[^key-8ea9a38b7b4574255927e114f18dcbc2].
+- (b) the relevant day falls after the day on which the person attains the age of 74[^c-8ea9a38b7b4574255927e114f18dcbc2].
 
 (2) The person's personal retirement date under this paragraph is the last day of the 12 months beginning with the day after the relevant day.
 
@@ -124,22 +124,22 @@ the person's personal retirement date under this paragraph is the latest (or lat
 
 #### Interaction between rules under paragraph 5, and rules under Schedule 7 to the 1993 Act, in cases where office held on 30th March 1995
 
-**8.**[^key-ee3b38bbbbeb10475f4abb2a26bd1541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ee3b38bbbbeb10475f4abb2a26bd1541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Eligibility for appointment after having attained age of 75[^key-6a94740fde1489a1dd6e3ef467b36570]
+#### Eligibility for appointment after having attained age of 75[^c-6a94740fde1489a1dd6e3ef467b36570]
 
 **9.** (1) Sub-paragraph (3) applies in respect of a person on each day that—
 
-- (a) is, or is later than, the day on which the person attains the age of 75[^key-3a2a97764bfda8be6596da9a94a7d142],
+- (a) is, or is later than, the day on which the person attains the age of 75[^c-3a2a97764bfda8be6596da9a94a7d142],
 - (b) is a day on which the person holds a qualifying office, and
 - (c) is earlier than the day on which the person is required to vacate the qualifying office.
 
 (2) Sub-paragraph (3) also applies in respect of a person on each day that—
 
-- (a) is, or is later than, the day on which the person attains the age of 75[^key-913bf3f91d21f0580288e5252c9e53dd], and
+- (a) is, or is later than, the day on which the person attains the age of 75[^c-913bf3f91d21f0580288e5252c9e53dd], and
 - (b) is a day on which the person holds, on an unlimited basis, a qualifying office.
 
-(3) Where this sub-paragraph applies in respect of a person on a day, the fact that the person has attained the age of 75[^key-8b84df6e7f14c978c980e5b966c0d6c1] shall not (by itself) render him ineligible for appointment (or re-appointment) on that day to a relevant judicial office.
+(3) Where this sub-paragraph applies in respect of a person on a day, the fact that the person has attained the age of 75[^c-8b84df6e7f14c978c980e5b966c0d6c1] shall not (by itself) render him ineligible for appointment (or re-appointment) on that day to a relevant judicial office.
 
 (4) For the purposes of this paragraph, a person holds an office on an unlimited basis at a particular time if at that time he is not required to vacate the office at any particular later time.
 
@@ -339,28 +339,28 @@ the person's personal retirement date under this paragraph is the latest (or lat
 
 ## Annotations
 
-[^key-482f6166222480c7a381ec17c1d9bd9b]: Textual amendment: Word in Sch. 9 para. 5 cross-heading substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4/a), [Sch. 1 para. 36(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/a/i) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-482f6166222480c7a381ec17c1d9bd9b]: Textual amendment: Word in Sch. 9 para. 5 cross-heading substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4/a), [Sch. 1 para. 36(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/a/i) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-dd2e29966b2c2744a1e9b17d6645c692]: Textual amendment: Words in [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/5/1) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/a/ii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-dd2e29966b2c2744a1e9b17d6645c692]: Textual amendment: Words in [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/5/1) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/a/ii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-4ea46bcf6206afaa9563bac2cb7ca935]: Textual amendment: Words in [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/5/2) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(a)(iii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/a/iii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-4ea46bcf6206afaa9563bac2cb7ca935]: Textual amendment: Words in [Sch. 9 para. 5(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/5/2) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(a)(iii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/a/iii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-9abdec5457c70e314383ca3ba35c46c0]: Textual amendment: Word in Sch. 9 para. 6 cross-heading substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4/a), [Sch. 1 para. 36(6)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/b/i) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-9abdec5457c70e314383ca3ba35c46c0]: Textual amendment: Word in Sch. 9 para. 6 cross-heading substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4/a), [Sch. 1 para. 36(6)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/b/i) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-ece27287afb78bbf47ff60d9e2e657c6]: Textual amendment: Word in [Sch. 9 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/6/1/b) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/b/ii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-ece27287afb78bbf47ff60d9e2e657c6]: Textual amendment: Word in [Sch. 9 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/6/1/b) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/b/ii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-8453491a163d8f74ac27eb04be845b63]: Textual amendment: Word in [Sch. 9 para. 6(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/6/3/a/ii) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(b)(iii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/b/iii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-8453491a163d8f74ac27eb04be845b63]: Textual amendment: Word in [Sch. 9 para. 6(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/6/3/a/ii) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(b)(iii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/b/iii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-8ea9a38b7b4574255927e114f18dcbc2]: Textual amendment: Word in [Sch. 9 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/7/1/b) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(c)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/c) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-8ea9a38b7b4574255927e114f18dcbc2]: Textual amendment: Word in [Sch. 9 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/7/1/b) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(c)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/c) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-ee3b38bbbbeb10475f4abb2a26bd1541]: Textual amendment: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/8) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(d)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/d) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-ee3b38bbbbeb10475f4abb2a26bd1541]: Textual amendment: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/8) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(d)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/d) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-6a94740fde1489a1dd6e3ef467b36570]: Textual amendment: Word in Sch. 9 para. 9 cross-heading substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4/a), [Sch. 1 para. 36(6)(e)(i)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/e/i) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-6a94740fde1489a1dd6e3ef467b36570]: Textual amendment: Word in Sch. 9 para. 9 cross-heading substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1/4/a), [Sch. 1 para. 36(6)(e)(i)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/6/e/i) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-3a2a97764bfda8be6596da9a94a7d142]: Textual amendment: Word in [Sch. 9 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/9/1/a) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(e)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/e/ii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-3a2a97764bfda8be6596da9a94a7d142]: Textual amendment: Word in [Sch. 9 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/9/1/a) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(e)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/e/ii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-913bf3f91d21f0580288e5252c9e53dd]: Textual amendment: Word in [Sch. 9 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/9/2/a) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(e)(iii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/e/iii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-913bf3f91d21f0580288e5252c9e53dd]: Textual amendment: Word in [Sch. 9 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/9/2/a) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(e)(iii)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/e/iii) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-8b84df6e7f14c978c980e5b966c0d6c1]: Textual amendment: Word in [Sch. 9 para. 9(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/9/3) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(e)(iv)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/e/iv) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-8b84df6e7f14c978c980e5b966c0d6c1]: Textual amendment: Word in [Sch. 9 para. 9(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/9/3) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 36(6)(e)(iv)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/36/e/iv) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c20860491]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/12) wholly in force at 3.11.2008; [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/12) not in force at Royal Assent see [s. 148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5); [Sch. 9 para. 12(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/12/2) in force at 19.9.2007 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/d); [Sch. 9 para. 12(1)-(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/12/1)-(7) in force at 3.11.2008 by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(d)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/d)

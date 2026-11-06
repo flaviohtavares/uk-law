@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357EB. Allocation of set-off amount within a group[^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357EB. Allocation of set-off amount within a group[^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) For the purposes of this section—
 
-- (a) “**relevant group member**” means another member of the group that has made an election under section 357A(1)[^key-bbca4f111a0c0c6713969542b4533cf2] and is a qualifying company for the relevant accounting period, and
+- (a) “**relevant group member**” means another member of the group that has made an election under section 357A(1)[^c-bbca4f111a0c0c6713969542b4533cf2] and is a qualifying company for the relevant accounting period, and
 - (b) “**relevant accounting period**”, in relation to a company, means the accounting period of the company in or at the end of which the accounting period mentioned in subsection (1)(a) ends.
 
 (4) Section 357A does not apply in relation to so much of the amount of relevant IP profits of the trade of the relevant group member for the relevant accounting period as is equal to the amount by which the set-off amount (or so much of it as remains after the operation of section 357EA(2)) is reduced under subsection (2).
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-bbca4f111a0c0c6713969542b4533cf2]: Textual amendment: Words in [s. 357EB(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357EB/3/a) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/15)
+[^c-bbca4f111a0c0c6713969542b4533cf2]: Textual amendment: Words in [s. 357EB(3)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357EB/3/a) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/15)

@@ -39,14 +39,14 @@ summary: ''
 - (f) any person who—
   - (i) is solicited by A with a view to the disposal by A of shares in a body corporate to the person solicited or to a member of the same group as that person; and
   - (ii) either alone or with members of the same group holds 20 per cent or more of the voting shares in the body corporate;
-- (g) any person whose head office is outside the United Kingdom, who is solicited by an approach made or directed to him at a place outside the United Kingdom and whose ordinary business involves him in carrying on activities of the kind specified by any of articles 14, 21, 25, 37, 40, 45, 51ZA, 51ZB, 51ZC, 51ZD, 51ZE[^key-6a2c92460a89389e7b3e2e4a2e1603a6], 52 and 53 or (so far as relevant to any of those articles) article 64, or would do so apart from any exclusion from any of those articles made by this Order.
+- (g) any person whose head office is outside the United Kingdom, who is solicited by an approach made or directed to him at a place outside the United Kingdom and whose ordinary business involves him in carrying on activities of the kind specified by any of articles 14, 21, 25, 37, 40, 45, 51ZA, 51ZB, 51ZC, 51ZD, 51ZE[^c-6a2c92460a89389e7b3e2e4a2e1603a6], 52 and 53 or (so far as relevant to any of those articles) article 64, or would do so apart from any exclusion from any of those articles made by this Order.
 
 (3) This article does not apply where A enters into the transaction as bare trustee or, in Scotland, as nominee for another person and is acting on that other person’s instructions (but the exclusion in article 66(1) applies if the conditions set out there are met).
 
-(4)[^key-9ed4d44d7481759a44cd6b7d8b5384ea] This article is subject to article 4(4).
+(4)[^c-9ed4d44d7481759a44cd6b7d8b5384ea] This article is subject to article 4(4).
 
 ## Annotations
 
-[^key-6a2c92460a89389e7b3e2e4a2e1603a6]: Textual amendment: Words in art. 15(2)(g) substituted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/3)
+[^c-6a2c92460a89389e7b3e2e4a2e1603a6]: Textual amendment: Words in art. 15(2)(g) substituted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/3)
 
-[^key-9ed4d44d7481759a44cd6b7d8b5384ea]: Textual amendment: Art. 15(4) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [6](https://www.legislation.gov.uk/uksi/2006/3384/article/6)
+[^c-9ed4d44d7481759a44cd6b7d8b5384ea]: Textual amendment: Art. 15(4) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [6](https://www.legislation.gov.uk/uksi/2006/3384/article/6)

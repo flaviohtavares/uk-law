@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Sub-contracting[^key-70a8aed09ea31063e06e4f1580c939b2]
+## 26. Sub-contracting[^c-70a8aed09ea31063e06e4f1580c939b2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A contract must contain terms which prevent a contractor from sub-contracting an
 
 ## Annotations
 
-[^key-70a8aed09ea31063e06e4f1580c939b2]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2023/953/regulation/26) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-70a8aed09ea31063e06e4f1580c939b2]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2023/953/regulation/26) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

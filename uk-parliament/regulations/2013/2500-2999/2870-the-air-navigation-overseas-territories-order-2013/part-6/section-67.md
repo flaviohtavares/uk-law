@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Rules of the Air[^key-affc0539f588352ab4c01358cb7ea02d]
+## 67. Rules of the Air[^c-affc0539f588352ab4c01358cb7ea02d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-affc0539f588352ab4c01358cb7ea02d]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2013/2870/article/67) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-affc0539f588352ab4c01358cb7ea02d]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2013/2870/article/67) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

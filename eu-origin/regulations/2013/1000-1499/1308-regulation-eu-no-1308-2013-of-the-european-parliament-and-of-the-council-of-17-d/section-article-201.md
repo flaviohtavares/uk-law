@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The volume commitments resulting from the international agreements to which the United Kingdom is a party[^key-4a7b1869b243c75a38d84d751e1650bf] shall be respected on the basis of export licences issued for the reference periods applying to the products concerned.
+The volume commitments resulting from the international agreements to which the United Kingdom is a party[^c-4a7b1869b243c75a38d84d751e1650bf] shall be respected on the basis of export licences issued for the reference periods applying to the products concerned.
 
 With regard to compliance with the obligations under the WTO Agreement on Agriculture, the ending of a reference period shall not affect the validity of export licences.
 
 ## Annotations
 
-[^key-4a7b1869b243c75a38d84d751e1650bf]: Textual amendment: Words in [Art. 201](https://www.legislation.gov.uk/eur/2013/1308/article/201) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [64](https://www.legislation.gov.uk/uksi/2019/821/regulation/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a7b1869b243c75a38d84d751e1650bf]: Textual amendment: Words in [Art. 201](https://www.legislation.gov.uk/eur/2013/1308/article/201) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [64](https://www.legislation.gov.uk/uksi/2019/821/regulation/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

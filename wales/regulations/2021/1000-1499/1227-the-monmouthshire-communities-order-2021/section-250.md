@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 250. Llantilio Crossenny — dissolution of community of and consequential change to community council[^key-c9232fa3189000de6bab38400d392160][^key-006167163cc549ba04b5ed72175e9e5f]
+## 250. Llantilio Crossenny — dissolution of community of and consequential change to community council[^c-c9232fa3189000de6bab38400d392160][^c-006167163cc549ba04b5ed72175e9e5f]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9232fa3189000de6bab38400d392160]: Commencement: Art. 250 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-c9232fa3189000de6bab38400d392160]: Commencement: Art. 250 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-006167163cc549ba04b5ed72175e9e5f]: Commencement: [Art. 250](https://www.legislation.gov.uk/wsi/2021/1227/article/250) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-006167163cc549ba04b5ed72175e9e5f]: Commencement: [Art. 250](https://www.legislation.gov.uk/wsi/2021/1227/article/250) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

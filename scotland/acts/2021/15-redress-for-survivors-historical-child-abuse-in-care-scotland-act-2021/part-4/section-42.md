@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Deduction of previous payments from redress payment[^key-31b364ea20a5dcfea8c61333ced7182a]
+## 42. Deduction of previous payments from redress payment[^c-31b364ea20a5dcfea8c61333ced7182a]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ is to be deducted from the redress payment for which the applicant is eligible.
 
 ## Annotations
 
-[^key-31b364ea20a5dcfea8c61333ced7182a]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2021/15/section/42) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-31b364ea20a5dcfea8c61333ced7182a]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2021/15/section/42) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Overview[^key-21e6176d04f4af279ab96ab52d67dff0]
+## 253. Overview[^c-21e6176d04f4af279ab96ab52d67dff0]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21e6176d04f4af279ab96ab52d67dff0]: Commencement: S. 253 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-21e6176d04f4af279ab96ab52d67dff0]: Commencement: S. 253 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

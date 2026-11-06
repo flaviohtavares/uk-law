@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Payments to minors under seven years of age[^key-fcc6a14b5325355862e6599049d64045]
+## 48. Payments to minors under seven years of age[^c-fcc6a14b5325355862e6599049d64045]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcc6a14b5325355862e6599049d64045]: Commencement: Reg. 48 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-fcc6a14b5325355862e6599049d64045]: Commencement: Reg. 48 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

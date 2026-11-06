@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Exclusion or expulsion from trade union attributable to conduct[^key-6c6d6006263939106d85721940d3ce53]
+## 33. Exclusion or expulsion from trade union attributable to conduct[^c-6c6d6006263939106d85721940d3ce53]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c6d6006263939106d85721940d3ce53]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/24/section/33) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a) (with [arts. 7](https://www.legislation.gov.uk/uksi/2004/3342/article/7), [10](https://www.legislation.gov.uk/uksi/2004/3342/article/10))
+[^c-6c6d6006263939106d85721940d3ce53]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/24/section/33) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a) (with [arts. 7](https://www.legislation.gov.uk/uksi/2004/3342/article/7), [10](https://www.legislation.gov.uk/uksi/2004/3342/article/10))

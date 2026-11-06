@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Examination of accused through intermediary[^key-bedbf45439306d25553d0c3068848b8c][^key-0c638d8ae2dff8553110b3b26b75e82a][^key-c9fbe61d5bf493322940b6089a517d4b][^key-aa78406f9b73cdb0fa64f362f50fee50]
+## 12. Examination of accused through intermediary[^c-bedbf45439306d25553d0c3068848b8c][^c-0c638d8ae2dff8553110b3b26b75e82a][^c-c9fbe61d5bf493322940b6089a517d4b][^c-aa78406f9b73cdb0fa64f362f50fee50]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 >
 > (1) This Article applies to any proceedings (whether in a magistrates' court or before the Crown Court) against a person for an offence.
 >
-> (2) Subject to paragraph (2A),[^key-15dcd68adcd0aa46e7f4a4fc711950a4] the court may, on the application of the accused, give a direction under paragraph (3) if it is satisfied—
+> (2) Subject to paragraph (2A),[^c-15dcd68adcd0aa46e7f4a4fc711950a4] the court may, on the application of the accused, give a direction under paragraph (3) if it is satisfied—
 >
 > - (a) that the condition in paragraph (5) is or, as the case may be, the conditions in paragraph (6) are met in relation to the accused; and
 > - (b) that giving the direction is necessary in order to ensure that the accused receives a fair trial.
@@ -89,12 +89,12 @@ summary: ''
 
 ## Annotations
 
-[^key-bedbf45439306d25553d0c3068848b8c]: Commencement: S. 12 in operation at 10.5.2013 for specified purposes by [S.R. 2013/125](https://www.legislation.gov.uk/nisr/2013/125), [art. 2](https://www.legislation.gov.uk/nisr/2013/125/article/2)
+[^c-bedbf45439306d25553d0c3068848b8c]: Commencement: S. 12 in operation at 10.5.2013 for specified purposes by [S.R. 2013/125](https://www.legislation.gov.uk/nisr/2013/125), [art. 2](https://www.legislation.gov.uk/nisr/2013/125/article/2)
 
-[^key-0c638d8ae2dff8553110b3b26b75e82a]: Commencement: S. 12 in operation at 11.11.2013 for specified purposes by [S.R. 2013/252](https://www.legislation.gov.uk/nisr/2013/252), [art. 2](https://www.legislation.gov.uk/nisr/2013/252/article/2)
+[^c-0c638d8ae2dff8553110b3b26b75e82a]: Commencement: S. 12 in operation at 11.11.2013 for specified purposes by [S.R. 2013/252](https://www.legislation.gov.uk/nisr/2013/252), [art. 2](https://www.legislation.gov.uk/nisr/2013/252/article/2)
 
-[^key-c9fbe61d5bf493322940b6089a517d4b]: Commencement: S. 12 in operation at 1.4.2015 for specified purposes by [S.R. 2015/158](https://www.legislation.gov.uk/nisr/2015/158), [art. 2](https://www.legislation.gov.uk/nisr/2015/158/article/2)
+[^c-c9fbe61d5bf493322940b6089a517d4b]: Commencement: S. 12 in operation at 1.4.2015 for specified purposes by [S.R. 2015/158](https://www.legislation.gov.uk/nisr/2015/158), [art. 2](https://www.legislation.gov.uk/nisr/2015/158/article/2)
 
-[^key-aa78406f9b73cdb0fa64f362f50fee50]: Commencement: S. 12 in operation at 3.4.2017 for specified purposes by [S.R. 2017/6](https://www.legislation.gov.uk/nisr/2017/6), [art. 2](https://www.legislation.gov.uk/nisr/2017/6/article/2)
+[^c-aa78406f9b73cdb0fa64f362f50fee50]: Commencement: S. 12 in operation at 3.4.2017 for specified purposes by [S.R. 2017/6](https://www.legislation.gov.uk/nisr/2017/6), [art. 2](https://www.legislation.gov.uk/nisr/2017/6/article/2)
 
-[^key-15dcd68adcd0aa46e7f4a4fc711950a4]: Textual amendment: Words in s. 12(1) inserted (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 11(2)(3)](https://www.legislation.gov.uk/nia/2013/7/section/11/1), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
+[^c-15dcd68adcd0aa46e7f4a4fc711950a4]: Textual amendment: Words in s. 12(1) inserted (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 11(2)(3)](https://www.legislation.gov.uk/nia/2013/7/section/11/1), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)

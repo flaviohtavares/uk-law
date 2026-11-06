@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Payments in respect of costs of sight tests[^key-9c2a214db12f286979ed065f16aa33c1]
+## 205. Payments in respect of costs of sight tests[^c-9c2a214db12f286979ed065f16aa33c1]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c2a214db12f286979ed065f16aa33c1]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2012/7/section/205) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-9c2a214db12f286979ed065f16aa33c1]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2012/7/section/205) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

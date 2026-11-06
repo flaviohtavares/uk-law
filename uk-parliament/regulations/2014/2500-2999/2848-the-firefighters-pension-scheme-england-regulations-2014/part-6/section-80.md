@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Surviving partner’s pension payable on death of pensioner member[^key-ac94026572bd0f322ef98a6fd4982b56]
+## 80. Surviving partner’s pension payable on death of pensioner member[^c-ac94026572bd0f322ef98a6fd4982b56]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac94026572bd0f322ef98a6fd4982b56]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2014/2848/regulation/80) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-ac94026572bd0f322ef98a6fd4982b56]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2014/2848/regulation/80) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — CONSEQUENTIAL AMENDMENTS[^key-e78c7858dd392de28885e942191521ac]
+## SCHEDULE 7 — CONSEQUENTIAL AMENDMENTS[^c-e78c7858dd392de28885e942191521ac]
 
 *Extent: E+W*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Regulation 33
 
-### 1. The Colours in Food Regulations 1995[^key-e78c7858dd392de28885e942191521ac]
+### 1. The Colours in Food Regulations 1995[^c-e78c7858dd392de28885e942191521ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The Animal By-Products (Identification) Regulations 1995[^key-e78c7858dd392de28885e942191521ac]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 12. The Food Labelling Regulations 1996[^key-e78c7858dd392de28885e942191521ac]
+### 3. The Animal By-Products (Identification) Regulations 1995[^c-e78c7858dd392de28885e942191521ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. The Beef Bones Regulations 1997[^key-e78c7858dd392de28885e942191521ac]
+**6.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. The Food Labelling Regulations 1996[^c-e78c7858dd392de28885e942191521ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. The Beef Bones Regulations 1997[^c-e78c7858dd392de28885e942191521ac]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-e78c7858dd392de28885e942191521ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e78c7858dd392de28885e942191521ac]: Textual amendment: Sch. 7 omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(9)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/9)
+[^c-e78c7858dd392de28885e942191521ac]: Textual amendment: Sch. 7 omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [11(9)](https://www.legislation.gov.uk/wsi/2018/806/regulation/11/9)

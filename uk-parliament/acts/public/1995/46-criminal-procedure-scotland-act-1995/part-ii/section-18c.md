@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18C. Section 18B: extension of retention period where relevant offer relates to certain sexual or violent offences[^key-5088cc5493addf13b2c3e3b8213e6f6a]
+## 18C. Section 18B: extension of retention period where relevant offer relates to certain sexual or violent offences[^c-5088cc5493addf13b2c3e3b8213e6f6a]
 
 *Extent: S*
 
 (1) This section applies where the destruction date for relevant physical data, a sample or information derived from a sample falls within section 18B(5)(a) or (b).
 
-(2) On a summary application made by the chief constable of the Police Service of Scotland[^key-7f53fdab268803c8ffba6b6dedcf8ad5] within the period of 3 months before the destruction date, the sheriff may, if satisfied that there are reasonable grounds for doing so, make an order amending, or further amending, the destruction date.
+(2) On a summary application made by the chief constable of the Police Service of Scotland[^c-7f53fdab268803c8ffba6b6dedcf8ad5] within the period of 3 months before the destruction date, the sheriff may, if satisfied that there are reasonable grounds for doing so, make an order amending, or further amending, the destruction date.
 
 (3) An application under subsection (2) may be made to any sheriff—
 
@@ -58,12 +58,12 @@ the relevant physical data, sample or information derived from a sample must be 
 
 - “**appropriate person**” means the person from whom the relevant physical data was taken or by whom it was provided or from whom the sample was taken,
 - “**destruction date**” has the meaning given by section 18B(5),
-- [^key-441ec70490aaf0dc621962511181f368]...
+- [^c-441ec70490aaf0dc621962511181f368]...
 
 ## Annotations
 
-[^key-5088cc5493addf13b2c3e3b8213e6f6a]: Textual amendment: Ss. 18B-18C inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 78](https://www.legislation.gov.uk/asp/2010/13/section/78), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2011/178/article/5))
+[^c-5088cc5493addf13b2c3e3b8213e6f6a]: Textual amendment: Ss. 18B-18C inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 78](https://www.legislation.gov.uk/asp/2010/13/section/78), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2011/178/article/5))
 
-[^key-7f53fdab268803c8ffba6b6dedcf8ad5]: Textual amendment: Words in s. 18C(2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 12(5)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/12/5/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-7f53fdab268803c8ffba6b6dedcf8ad5]: Textual amendment: Words in s. 18C(2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 12(5)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/12/5/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-441ec70490aaf0dc621962511181f368]: Textual amendment: Definition in s. 18C(11) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 12(5)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/12/5/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-441ec70490aaf0dc621962511181f368]: Textual amendment: Definition in s. 18C(11) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 12(5)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/12/5/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

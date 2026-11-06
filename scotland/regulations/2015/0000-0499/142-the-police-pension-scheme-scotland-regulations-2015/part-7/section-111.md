@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Exercising an option under this Chapter[^key-f65126ca4ff3cf01d75c8c3a34fed0f1]
+## 111. Exercising an option under this Chapter[^c-f65126ca4ff3cf01d75c8c3a34fed0f1]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f65126ca4ff3cf01d75c8c3a34fed0f1]: Commencement: Reg. 111 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f65126ca4ff3cf01d75c8c3a34fed0f1]: Commencement: Reg. 111 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

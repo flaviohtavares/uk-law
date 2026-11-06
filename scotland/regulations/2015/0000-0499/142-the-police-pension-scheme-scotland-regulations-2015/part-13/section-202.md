@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 202. Forfeiture: offences committed by a member’s beneficiary[^key-b8166ac863361df309d4be2925b9ebd2]
+## 202. Forfeiture: offences committed by a member’s beneficiary[^c-b8166ac863361df309d4be2925b9ebd2]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8166ac863361df309d4be2925b9ebd2]: Commencement: Reg. 202 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-b8166ac863361df309d4be2925b9ebd2]: Commencement: Reg. 202 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

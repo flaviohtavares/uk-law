@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Provision of confirmation of scheme membership to third parties[^key-bf9734922875ae9d85537ec4f267e860]
+## 54. Provision of confirmation of scheme membership to third parties[^c-bf9734922875ae9d85537ec4f267e860]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ Ministers must comply with the request.
 
 ## Annotations
 
-[^key-bf9734922875ae9d85537ec4f267e860]: Textual amendment: [S. 54](https://www.legislation.gov.uk/asp/2007/14/section/54) substituted (30.9.2024 for specified purposes, 1.4.2025 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 86(3)](https://www.legislation.gov.uk/asp/2020/13/section/86/3), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/27/regulation/6))
+[^c-bf9734922875ae9d85537ec4f267e860]: Textual amendment: [S. 54](https://www.legislation.gov.uk/asp/2007/14/section/54) substituted (30.9.2024 for specified purposes, 1.4.2025 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 86(3)](https://www.legislation.gov.uk/asp/2020/13/section/86/3), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/27/regulation/6))

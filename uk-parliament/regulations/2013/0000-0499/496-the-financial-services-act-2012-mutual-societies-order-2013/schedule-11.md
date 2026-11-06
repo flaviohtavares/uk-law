@@ -22,7 +22,7 @@ summary: ''
 
 Article 2(c)
 
-### 1. Consequential amendments to primary legislation[^key-d905df916b0ce1ccf54223fc997ad670]
+### 1. Consequential amendments to primary legislation[^c-d905df916b0ce1ccf54223fc997ad670]
 
 (1) The Housing Associations Act 1985[^f00253] is amended as follows.
 
@@ -30,18 +30,18 @@ Article 2(c)
 
 (3) In section 86(4)[^f00255] (agreements to indemnify building societies: Scotland), for “the Financial Services Authority” substitute “the Financial Conduct Authority and the Prudential Regulation Authority”.
 
-**2.**[^key-db1b7236294c1874ff3269c263db1cdc] (1) In the provisions of the Insolvency Act 1986[^f00256] listed in sub-paragraph (2), for “Financial Services Authority” substitute “Financial Conduct Authority”.
+**2.**[^c-db1b7236294c1874ff3269c263db1cdc] (1) In the provisions of the Insolvency Act 1986[^f00256] listed in sub-paragraph (2), for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
 (2) The provisions are—
 
 - (a) section 124(4AA)[^f00257] (application for winding up);
 - (b) section 124C(1)(b) and (2)(b)[^f00258] (petition for winding up a European cooperative society).
 
-**3.**[^key-723063f849cb0692acac5ea080a36873] In section 22E(4)(d) of the Company Directors Disqualification Act 1986[^f00259] (application of Act to societies registered under the Industrial and Provident Societies Act 1965), as inserted by section 3 of the Co-operative and Community Benefit Societies and Credit Unions Act 2010[^f00260], for “Financial Services Authority” substitute “Financial Conduct Authority”.
+**3.**[^c-723063f849cb0692acac5ea080a36873] In section 22E(4)(d) of the Company Directors Disqualification Act 1986[^f00259] (application of Act to societies registered under the Industrial and Provident Societies Act 1965), as inserted by section 3 of the Co-operative and Community Benefit Societies and Credit Unions Act 2010[^f00260], for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-**4.**[^key-79ca9789270bb7713e23a218d87dac0f] In section 229(4) of the Housing (Scotland) Act 1987[^f00261] (local authority indemnities for building societies, etc.), for “Financial Services Authority” substitute “Financial Conduct Authority and the Prudential Regulation Authority”.
+**4.**[^c-79ca9789270bb7713e23a218d87dac0f] In section 229(4) of the Housing (Scotland) Act 1987[^f00261] (local authority indemnities for building societies, etc.), for “Financial Services Authority” substitute “Financial Conduct Authority and the Prudential Regulation Authority”.
 
-**5.**[^key-a6741de465bebe8d5f2859a234745b60] (1) In the provisions of the Housing Act 1996[^f00262] listed in sub-paragraph (2), for “Financial Services Authority”, in each place, substitute “Financial Conduct Authority”.
+**5.**[^c-a6741de465bebe8d5f2859a234745b60] (1) In the provisions of the Housing Act 1996[^f00262] listed in sub-paragraph (2), for “Financial Services Authority”, in each place, substitute “Financial Conduct Authority”.
 
 (2) The provisions are—
 
@@ -52,7 +52,7 @@ Article 2(c)
 - (e) section 48(3)[^f00267] (powers of the manager: transfer of engagements); and
 - (f) paragraphs 9, 12 and 15H(5)[^f00268] of Part 2 of Schedule 1 (registered social landlords: regulation).
 
-**6.**[^key-a64e2f4042876a45a9370091c1fa11fd] (1) In the provisions of the Housing (Scotland) Act 2001[^f00269] listed in sub-paragraph (2), for “Financial Services Authority” substitute “Financial Conduct Authority”.
+**6.**[^c-a64e2f4042876a45a9370091c1fa11fd] (1) In the provisions of the Housing (Scotland) Act 2001[^f00269] listed in sub-paragraph (2), for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
 (2) The provisions are—
 
@@ -60,9 +60,9 @@ Article 2(c)
 - (b) section 60(5) (removal from the register); and
 - (c) section 62(3) (appeal against decision on registration or removal).
 
-**7.**[^key-814c995bcea8ef2d44ac7f363349643a] In section 58(7)(b) of the Charities and Trustee Investment (Scotland) Act 2005[^f00270] (conversion: supplementary), for “Financial Services Authority” substitute “Financial Conduct Authority”.
+**7.**[^c-814c995bcea8ef2d44ac7f363349643a] In section 58(7)(b) of the Charities and Trustee Investment (Scotland) Act 2005[^f00270] (conversion: supplementary), for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-**8.**[^key-01e10bbef86dda907004dc1f363bcafe] (1) The Housing and Regeneration Act 2008[^f00271] is amended as follows.
+**8.**[^c-01e10bbef86dda907004dc1f363bcafe] (1) The Housing and Regeneration Act 2008[^f00271] is amended as follows.
 
 (2) In the provisions listed in sub-paragraph (3), for “Financial Services Authority” substitute “Financial Conduct Authority”
 
@@ -77,9 +77,9 @@ Article 2(c)
 
 (4) In sections 164(3) (industrial and provident society: winding up) and 212(6) (industrial and provident society: change of rules), for “FSA” substitute “Financial Conduct Authority”.
 
-**9.**[^key-e551b30fa8bb5ea26588077cd1b42a25] In section 4(3)(a) of the Co-operative and Community Benefit Societies and Credit Unions Act 2010[^f00273] (power to apply certain other provisions relating to companies), for “Authority” substitute “appropriate authority”.
+**9.**[^c-e551b30fa8bb5ea26588077cd1b42a25] In section 4(3)(a) of the Co-operative and Community Benefit Societies and Credit Unions Act 2010[^f00273] (power to apply certain other provisions relating to companies), for “Authority” substitute “appropriate authority”.
 
-**10.**[^key-19a385039f4c1c8fcf4a0fb2d8c29f4f] (1) The Housing (Scotland) Act 2010[^f00274] is amended as follows.
+**10.**[^c-19a385039f4c1c8fcf4a0fb2d8c29f4f] (1) The Housing (Scotland) Act 2010[^f00274] is amended as follows.
 
 (2) In section 18(2) (co-operation with other regulators) for paragraph (f) substitute—
 
@@ -102,9 +102,9 @@ Article 2(c)
 - (h) section 98 (voluntary winding up of society); and
 - (i) section 99 (dissolution of society).
 
-**11.**[^key-312477264ad02203a37f9d7353505e98] In section 230(2)(b) of the Charities Act 2011[^f00275] (Commission to consult appropriate registrar and others), for “Financial Services Authority” substitute “Financial Conduct Authority and, if the society is a PRA-authorised person within the meaning of section 2B of the Financial Services and Markets Act 2000, the Prudential Regulation Authority”.
+**11.**[^c-312477264ad02203a37f9d7353505e98] In section 230(2)(b) of the Charities Act 2011[^f00275] (Commission to consult appropriate registrar and others), for “Financial Services Authority” substitute “Financial Conduct Authority and, if the society is a PRA-authorised person within the meaning of section 2B of the Financial Services and Markets Act 2000, the Prudential Regulation Authority”.
 
-### 12. Consequential amendments to secondary legislation[^key-28d354d9fe4f2c61ce3c60aeef9a80be]
+### 12. Consequential amendments to secondary legislation[^c-28d354d9fe4f2c61ce3c60aeef9a80be]
 
 (1) The Friendly Societies (Life Assurance Premium Relief) (Change of Rate) Regulations 1980[^f00276] are amended as follows.
 
@@ -118,7 +118,7 @@ Article 2(c)
 
 (3) In regulations 3(3), 5 and 8, for “Chief Registrar of Friendly Societies” substitute “relevant authority”.
 
-**13.**[^key-8222271583924a4792c0cbc0187b74f6] (1) The Industrial Assurance (Life Assurance Premium Relief) (Change of Rate) Regulations 1980[^f00277] are amended as follows.
+**13.**[^c-8222271583924a4792c0cbc0187b74f6] (1) The Industrial Assurance (Life Assurance Premium Relief) (Change of Rate) Regulations 1980[^f00277] are amended as follows.
 
 (2) In regulation 2, at the appropriate place, insert—
 
@@ -130,9 +130,9 @@ Article 2(c)
 
 (3) In regulations 3(3), 5 and 8[^f00278], for “Friendly Societies Commission” substitute “relevant authority”.
 
-**14.**[^key-333a62a5ddc4e511ba227a7a0af37508] In regulation 2 of the Community Interest Company Regulations 2005[^f00279], in the definition of “the Authority”, for “Financial Services Authority” substitute “Financial Conduct Authority”.
+**14.**[^c-333a62a5ddc4e511ba227a7a0af37508] In regulation 2 of the Community Interest Company Regulations 2005[^f00279], in the definition of “the Authority”, for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
-**15.**[^key-b85aec9520feec93125e8f6949ac064b] (1) In the provisions of the European Cooperative Society Regulations 2006[^f00280] listed in sub-paragraph (2), for “Financial Services Authority” substitute “Financial Conduct Authority”.
+**15.**[^c-b85aec9520feec93125e8f6949ac064b] (1) In the provisions of the European Cooperative Society Regulations 2006[^f00280] listed in sub-paragraph (2), for “Financial Services Authority” substitute “Financial Conduct Authority”.
 
 (2) The provisions are—
 
@@ -140,7 +140,7 @@ Article 2(c)
 - (b) regulation 8(1), and
 - (c) regulation 13(1).
 
-**16.**[^key-5f56de481d9e96ced8cf32404d380f25] (1) Schedule 1 to the Building Societies (Insolvency and Special Administration) Order 2009[^f00281] is amended as follows.
+**16.**[^c-5f56de481d9e96ced8cf32404d380f25] (1) Schedule 1 to the Building Societies (Insolvency and Special Administration) Order 2009[^f00281] is amended as follows.
 
 (2) In paragraph 3(d) and (i), for “FSA”, in each place, substitute “FCA”.
 
@@ -164,9 +164,9 @@ Article 2(c)
 
 (8) In paragraph 32A[^f00282], for “FSA” substitute “FCA and the PRA”.
 
-**17.**[^key-e4b796a4845a4b0118ff1b574b72d604] In regulation 3(3)(d) of the Mutual Societies (Transfers of Business) (Tax) Regulations 2009[^f00283], for “Financial Services Authority” substitute “appropriate authority”.
+**17.**[^c-e4b796a4845a4b0118ff1b574b72d604] In regulation 3(3)(d) of the Mutual Societies (Transfers of Business) (Tax) Regulations 2009[^f00283], for “Financial Services Authority” substitute “appropriate authority”.
 
-**18.**[^key-feb89622f121bc88789c81846e97080c] (1) The Building Societies (Financial Assistance) Order 2010[^f00284] is amended as follows.
+**18.**[^c-feb89622f121bc88789c81846e97080c] (1) The Building Societies (Financial Assistance) Order 2010[^f00284] is amended as follows.
 
 (2) In article 2, omit the definitions of—
 
@@ -198,7 +198,7 @@ Article 2(c)
 - (c) in paragraph (7), for “Authority”, in each place, substitute “FCA or, as the case may be, the PRA”, and
 - (d) in paragraph (9), in the paragraph 49C(a) substituted by that paragraph, for “Authority” substitute “Financial Conduct Authority”.
 
-**19.**[^key-15c35fafce17330ed4290461bdcdad93] (1) The Building Society Special Administration (England and Wales) Rules 2010[^f00285] are amended as follows.
+**19.**[^c-15c35fafce17330ed4290461bdcdad93] (1) The Building Society Special Administration (England and Wales) Rules 2010[^f00285] are amended as follows.
 
 (2) In rule 4(1)—
 
@@ -227,7 +227,7 @@ Article 2(c)
 
 ## Annotations
 
-[^key-d905df916b0ce1ccf54223fc997ad670]: Commencement: Sch. 11 para. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-d905df916b0ce1ccf54223fc997ad670]: Commencement: Sch. 11 para. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00253]: Footnote: [1985 c.69](https://www.legislation.gov.uk/ukpga/1985/69).
 
@@ -235,7 +235,7 @@ Article 2(c)
 
 [^f00255]: Footnote: Subsection (4) was amended by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-db1b7236294c1874ff3269c263db1cdc]: Commencement: Sch. 11 para. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-db1b7236294c1874ff3269c263db1cdc]: Commencement: Sch. 11 para. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00256]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -243,17 +243,17 @@ Article 2(c)
 
 [^f00258]: Footnote: Section 124C was inserted by [S.I. 2006/2078](https://www.legislation.gov.uk/uksi/2006/2078).
 
-[^key-723063f849cb0692acac5ea080a36873]: Commencement: Sch. 11 para. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-723063f849cb0692acac5ea080a36873]: Commencement: Sch. 11 para. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00259]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46).
 
 [^f00260]: Footnote: [2010 c.7](https://www.legislation.gov.uk/ukpga/2010/7).
 
-[^key-79ca9789270bb7713e23a218d87dac0f]: Commencement: Sch. 11 para. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-79ca9789270bb7713e23a218d87dac0f]: Commencement: Sch. 11 para. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00261]: Footnote: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26). Section 229(4) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-a6741de465bebe8d5f2859a234745b60]: Commencement: Sch. 11 para. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-a6741de465bebe8d5f2859a234745b60]: Commencement: Sch. 11 para. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00262]: Footnote: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52).
 
@@ -269,64 +269,64 @@ Article 2(c)
 
 [^f00268]: Footnote: Paragraphs 9(1) and 12(1) were amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649). Paragraph 15H(5) was inserted by the Housing (Wales) Measure 2011 ([2011 nawm 5](https://www.legislation.gov.uk/mwa/2011/5)), section 78.
 
-[^key-a64e2f4042876a45a9370091c1fa11fd]: Commencement: Sch. 11 para. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-a64e2f4042876a45a9370091c1fa11fd]: Commencement: Sch. 11 para. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00269]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10).
 
-[^key-814c995bcea8ef2d44ac7f363349643a]: Commencement: Sch. 11 para. 7 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-814c995bcea8ef2d44ac7f363349643a]: Commencement: Sch. 11 para. 7 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00270]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-01e10bbef86dda907004dc1f363bcafe]: Commencement: Sch. 11 para. 8 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-01e10bbef86dda907004dc1f363bcafe]: Commencement: Sch. 11 para. 8 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00271]: Footnote: [2008 c.17](https://www.legislation.gov.uk/ukpga/2008/17).
 
 [^f00272]: Footnote: Section 120(1)(b) was amended by [S.I. 2010/844](https://www.legislation.gov.uk/uksi/2010/844).
 
-[^key-e551b30fa8bb5ea26588077cd1b42a25]: Commencement: Sch. 11 para. 9 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-e551b30fa8bb5ea26588077cd1b42a25]: Commencement: Sch. 11 para. 9 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00273]: Footnote: [2010 c.7](https://www.legislation.gov.uk/ukpga/2010/7).
 
-[^key-19a385039f4c1c8fcf4a0fb2d8c29f4f]: Commencement: Sch. 11 para. 10 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-19a385039f4c1c8fcf4a0fb2d8c29f4f]: Commencement: Sch. 11 para. 10 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00274]: Footnote: [2010 asp 17](https://www.legislation.gov.uk/asp/2010/17).
 
-[^key-312477264ad02203a37f9d7353505e98]: Commencement: Sch. 11 para. 11 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-312477264ad02203a37f9d7353505e98]: Commencement: Sch. 11 para. 11 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00275]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).
 
-[^key-28d354d9fe4f2c61ce3c60aeef9a80be]: Commencement: Sch. 11 para. 12 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-28d354d9fe4f2c61ce3c60aeef9a80be]: Commencement: Sch. 11 para. 12 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00276]: Footnote: [S.I. 1980/1947](https://www.legislation.gov.uk/uksi/1980/1947).
 
-[^key-8222271583924a4792c0cbc0187b74f6]: Commencement: Sch. 11 para. 13 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-8222271583924a4792c0cbc0187b74f6]: Commencement: Sch. 11 para. 13 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00277]: Footnote: [S.I. 1980/1948](https://www.legislation.gov.uk/uksi/1980/1948).
 
 [^f00278]: Footnote: Regulations 3, 5 and 8 were amended by [S.I. 1995/710](https://www.legislation.gov.uk/uksi/1995/710).
 
-[^key-333a62a5ddc4e511ba227a7a0af37508]: Commencement: Sch. 11 para. 14 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-333a62a5ddc4e511ba227a7a0af37508]: Commencement: Sch. 11 para. 14 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00279]: Footnote: [S.I. 2005/1788](https://www.legislation.gov.uk/uksi/2005/1788), as amended by [S.I. 2009/1942](https://www.legislation.gov.uk/uksi/2009/1942). There are other amending instruments, but none is relevant.
 
-[^key-b85aec9520feec93125e8f6949ac064b]: Commencement: Sch. 11 para. 15 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-b85aec9520feec93125e8f6949ac064b]: Commencement: Sch. 11 para. 15 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00280]: Footnote: [S.I. 2006/2078](https://www.legislation.gov.uk/uksi/2006/2078).
 
-[^key-5f56de481d9e96ced8cf32404d380f25]: Commencement: Sch. 11 para. 16 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-5f56de481d9e96ced8cf32404d380f25]: Commencement: Sch. 11 para. 16 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00281]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805), as amended by [S.I. 2010/1189](https://www.legislation.gov.uk/uksi/2010/1189).
 
 [^f00282]: Footnote: Paragraph 32A was inserted by [S.I. 2010/1189](https://www.legislation.gov.uk/uksi/2010/1189).
 
-[^key-e4b796a4845a4b0118ff1b574b72d604]: Commencement: Sch. 11 para. 17 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-e4b796a4845a4b0118ff1b574b72d604]: Commencement: Sch. 11 para. 17 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00283]: Footnote: [S.I. 2009/2971](https://www.legislation.gov.uk/uksi/2009/2971).
 
-[^key-feb89622f121bc88789c81846e97080c]: Commencement: Sch. 11 para. 18 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-feb89622f121bc88789c81846e97080c]: Commencement: Sch. 11 para. 18 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00284]: Footnote: [S.I. 2010/1188](https://www.legislation.gov.uk/uksi/2010/1188).
 
-[^key-15c35fafce17330ed4290461bdcdad93]: Commencement: Sch. 11 para. 19 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-15c35fafce17330ed4290461bdcdad93]: Commencement: Sch. 11 para. 19 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00285]: Footnote: [S.I. 2010/2580](https://www.legislation.gov.uk/uksi/2010/2580).

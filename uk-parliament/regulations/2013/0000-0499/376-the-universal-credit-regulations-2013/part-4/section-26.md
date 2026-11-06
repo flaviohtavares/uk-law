@@ -31,8 +31,8 @@ summary: ''
 
 - (a) the claimant meets all of those conditions; and
 - (b) the payments for which the claimant is liable are—
-  - (i)[^key-bae2cf90b7420bc1ce3ca7e3afeec146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) service charge payments [^key-2f21e08d1fbafbccf0f2082c0554e7dd]....
+  - (i)[^c-bae2cf90b7420bc1ce3ca7e3afeec146] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) service charge payments [^c-2f21e08d1fbafbccf0f2082c0554e7dd]....
 
 (4) Where both paragraphs (2) and (3) apply in relation to a claimant who occupies accommodation under a shared ownership tenancy—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bae2cf90b7420bc1ce3ca7e3afeec146]: Textual amendment: [Reg. 26(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/376/regulation/26/3/b/i) omitted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by virtue of [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(b)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/b)
+[^c-bae2cf90b7420bc1ce3ca7e3afeec146]: Textual amendment: [Reg. 26(3)(b)(i)](https://www.legislation.gov.uk/uksi/2013/376/regulation/26/3/b/i) omitted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by virtue of [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(b)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/b)
 
-[^key-2f21e08d1fbafbccf0f2082c0554e7dd]: Textual amendment: Word in [reg. 26(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/376/regulation/26/3/b/ii) omitted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by virtue of [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(c)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/c)
+[^c-2f21e08d1fbafbccf0f2082c0554e7dd]: Textual amendment: Word in [reg. 26(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/376/regulation/26/3/b/ii) omitted (with effect in accordance with regs. 19 - 21 of the amending S.I.) by virtue of [The Loans for Mortgage Interest Regulations 2017 (S.I. 2017/725)](https://www.legislation.gov.uk/uksi/2017/725), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/725/regulation/1/2/a), [Sch. 5 para. 5(c)](https://www.legislation.gov.uk/uksi/2017/725/schedule/5/paragraph/5/c)

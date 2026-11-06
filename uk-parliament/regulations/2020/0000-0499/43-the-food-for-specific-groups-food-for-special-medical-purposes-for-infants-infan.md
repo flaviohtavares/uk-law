@@ -58,11 +58,11 @@ There has been open and transparent public consultation as required by Article 9
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement, interpretation and application[^key-9ab6597c616d5528c2944ab1fa0e8983]
+### 1. Citation, commencement, interpretation and application[^c-9ab6597c616d5528c2944ab1fa0e8983]
 
 (1) These Regulations may be cited as the Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 and come into force on 22nd February 2020, except where paragraph (2) applies.
 
-(2) Regulations 2 to 4 come into force on 22nd February 2022[^key-0fd0816af25558049448d6e87f7f1ece] in respect of infant formula and follow-on formula manufactured from protein hydrolysates.
+(2) Regulations 2 to 4 come into force on 22nd February 2022[^c-0fd0816af25558049448d6e87f7f1ece] in respect of infant formula and follow-on formula manufactured from protein hydrolysates.
 
 (3) In these Regulations, “**the 1990 Act**” means the Food Safety Act 1990.
 
@@ -70,7 +70,7 @@ There has been open and transparent public consultation as required by Article 9
 
 ## PART 2 — Infant Formula and Follow-on Formula
 
-### 2. Interpretation of Part 2[^key-c244b0f6123cca88f00f8584d7ea334c]
+### 2. Interpretation of Part 2[^c-c244b0f6123cca88f00f8584d7ea334c]
 
 (1) In this Part—
 
@@ -88,11 +88,11 @@ There has been open and transparent public consultation as required by Article 9
 
 (3) Expressions used both in this Part of these Regulations and in Delegated Regulation 127 have the same meaning in this Part as they have in Delegated Regulation 127.
 
-### 3. Enforcement[^key-6a55d157c406b42962027af2e6329534]
+### 3. Enforcement[^c-6a55d157c406b42962027af2e6329534]
 
 Each food authority must execute and enforce this Part of these Regulations within its area.
 
-### 4. Application of provisions of the 1990 Act[^key-2aee099a900da23337fa3a158af46661]
+### 4. Application of provisions of the 1990 Act[^c-2aee099a900da23337fa3a158af46661]
 
 (1) Section 10(1) and (2) of the 1990 Act (improvement notices) applies, with the modification (in the case of section 10(1)) specified in Part 1 of Schedule 2, for the purposes of—
 
@@ -126,35 +126,35 @@ Each food authority must execute and enforce this Part of these Regulations with
 - (j) section 44 (protection of officers acting in good faith);
 - (k) section 53 (general interpretation).
 
-### 5. Revocations, savings and transitional provisions relating to infant formula and follow-on formula[^key-67c06caa3a52a2d5b65fca70602d9346]
+### 5. Revocations, savings and transitional provisions relating to infant formula and follow-on formula[^c-67c06caa3a52a2d5b65fca70602d9346]
 
 (1) The instruments specified in column 1 of the table in Schedule 3 are revoked to the extent specified in column 3 of that table, subject to paragraph (2).
 
 (2) The instruments specified in column 1 of the table in Schedule 3 continue to have effect (so far as otherwise revoked to the extent specified in column 3 of that table)—
 
-- (a) until 21st February 2022[^key-ef277e1a215b7e689fd16e91def6df30] in respect of infant formula and follow-on formula manufactured from protein hydrolysates;
+- (a) until 21st February 2022[^c-ef277e1a215b7e689fd16e91def6df30] in respect of infant formula and follow-on formula manufactured from protein hydrolysates;
 - (b) for the purposes of paragraph (3)(b).
 
 (3) Infant formula and follow-on formula which does not comply with a specified EU law requirement may continue to be marketed until stocks of such food are exhausted, provided that—
 
 - (a) it was placed on the market or labelled—
   - (i) before 22nd February 2020; or
-  - (ii) before 22nd February 2022[^key-957d776352531de03d203079db4e70fd] in the case of infant formula and follow-on formula manufactured from protein hydrolysates; and
+  - (ii) before 22nd February 2022[^c-957d776352531de03d203079db4e70fd] in the case of infant formula and follow-on formula manufactured from protein hydrolysates; and
 - (b) the conditions specified in the following provision of the Infant Formula and Follow-on Formula (England) Regulations 2007 [^c23968701] are met—
   - (i) regulation 3(1) (prohibition on the marketing of infant formula unless certain conditions are met) in the case of infant formula;
   - (ii) regulation 3(2) (prohibition on the marketing of follow-on formula unless certain conditions are met) in the case of follow-on formula.
 
 ## PART 3 — Amendments, revocations, saving and review
 
-### 6. Amendment of the Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016[^key-7c7adbb8ab60fcdd88b301a57844c54f]
+### 6. Amendment of the Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016[^c-7c7adbb8ab60fcdd88b301a57844c54f]
 
 Schedule 4 has effect.
 
-### 7. Miscellaneous amendments[^key-b74c79de1957a9c0c9048125e94f3cc6]
+### 7. Miscellaneous amendments[^c-b74c79de1957a9c0c9048125e94f3cc6]
 
 Schedule 5 has effect.
 
-### 8. Revocations and saving relating to food for special medical purposes[^key-19209a4c4f01b56939c790996021b629]
+### 8. Revocations and saving relating to food for special medical purposes[^c-19209a4c4f01b56939c790996021b629]
 
 (1) The instruments specified in column 1 of the table in Schedule 6 are revoked to the extent specified in column 3 of that table, subject to paragraph (2).
 
@@ -163,11 +163,11 @@ Schedule 5 has effect.
 - (a) regulation 8(c) of the Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 [^c23968711] (transitional arrangements) as substituted by paragraph 3 of Schedule 4 to these Regulations; and
 - (b) regulation 5(3)(b) of these Regulations.
 
-### 9. Revocation of regulation 4 of the Food for Specific Groups (Information and Compositional Requirements) (England) (Amendment) Regulations 2017[^key-f927acdac3678105fe0081444d0ab1bf]
+### 9. Revocation of regulation 4 of the Food for Specific Groups (Information and Compositional Requirements) (England) (Amendment) Regulations 2017[^c-f927acdac3678105fe0081444d0ab1bf]
 
 Regulation 4 of the Food for Specific Groups (Information and Compositional Requirements) (England) (Amendment) Regulations 2017 [^c23968721] (amendment of Schedule 3 to the Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016) is revoked.
 
-### 10. Review[^key-ead74157038ecc03255e49dcad242f35]
+### 10. Review[^c-ead74157038ecc03255e49dcad242f35]
 
 (1) The Secretary of State must from time to time—
 
@@ -195,7 +195,7 @@ Parliamentary Under-Secretary of State,
 
 Department of Health and Social Care
 
-## SCHEDULE 1 — Specified EU law requirements[^key-46a72fd3c26fa956c6a309b7afba2f63]
+## SCHEDULE 1 — Specified EU law requirements[^c-46a72fd3c26fa956c6a309b7afba2f63]
 
 Regulation 2(1)
 
@@ -240,7 +240,7 @@ Regulation 4
 
 ### PART 1 — Modification of section 10 of the 1990 Act
 
-**1.**[^key-877288412fb73ed14dda9ca4b5b1890f] Section 10 of the 1990 Act (improvement notices) applies as if, for subsection (1), there were substituted—
+**1.**[^c-877288412fb73ed14dda9ca4b5b1890f] Section 10 of the 1990 Act (improvement notices) applies as if, for subsection (1), there were substituted—
 
 > (1) If an authorised officer of an enforcement authority has reasonable grounds for believing that a person is failing to comply with a specified EU law requirement, the authorised officer may, by a notice served on that person (in this Act referred to as an “**improvement notice**”)—
 >
@@ -253,7 +253,7 @@ Regulation 4
 
 ### PART 2 — Modification of section 32 of the 1990 Act
 
-**2.**[^key-de0bec3b577d87c3589521b17fb72087] Section 32 of the 1990 Act [^c23968751] (powers of entry) applies as if—
+**2.**[^c-de0bec3b577d87c3589521b17fb72087] Section 32 of the 1990 Act [^c23968751] (powers of entry) applies as if—
 
 - (a) in subsection (1) for paragraphs (a) to (c) there were substituted—
 
@@ -266,7 +266,7 @@ Regulation 4
 
 ### PART 3 — Modification of section 35 of the 1990 Act
 
-**3.**[^key-6d05cc3ff7e3ef0c518db6cd216b6488] Section 35 of the 1990 Act (punishment of offences) applies as if, before subsection (2), there were inserted—
+**3.**[^c-6d05cc3ff7e3ef0c518db6cd216b6488] Section 35 of the 1990 Act (punishment of offences) applies as if, before subsection (2), there were inserted—
 
 > (1B) A person guilty of an offence under section 10(2), as applied by regulation 4(1) of the 2020 Regulations, is liable on summary conviction, to a fine.
 
@@ -274,7 +274,7 @@ Regulation 4
 
 ### PART 4 — Modification of section 37 of the 1990 Act
 
-**4.**[^key-1d28142610a23bd8ba55447cdbf91cf3] Section 37 of the 1990 Act (appeals) applies as if—
+**4.**[^c-1d28142610a23bd8ba55447cdbf91cf3] Section 37 of the 1990 Act (appeals) applies as if—
 
 - (a) for the heading there were substituted “ Appeals ”;
 - (b) for subsection (1) there were substituted—
@@ -300,7 +300,7 @@ Regulation 4
 
 ### PART 5 — Modification of section 39 of the 1990 Act
 
-**5.**[^key-ee30c982a306df1932eed798f2c54155] Section 39 of the 1990 Act (appeals against improvement notices) applies as if—
+**5.**[^c-ee30c982a306df1932eed798f2c54155] Section 39 of the 1990 Act (appeals against improvement notices) applies as if—
 
 - (a) for subsection (1) there were substituted—
 
@@ -311,30 +311,30 @@ Regulation 4
 
 ### PART 6 — Further modifications of provisions of the 1990 Act
 
-**6.**[^key-bb89963b1a06ad1d0ac31a21699a035b] Section 3 of the 1990 Act (presumptions that food intended for human consumption) applies as if, in subsection (1), for “this Act” there were substituted “ the 2020 Regulations ”.
+**6.**[^c-bb89963b1a06ad1d0ac31a21699a035b] Section 3 of the 1990 Act (presumptions that food intended for human consumption) applies as if, in subsection (1), for “this Act” there were substituted “ the 2020 Regulations ”.
 
-**7.**[^key-4e6e731d2331ad69865deac09cd0ef65] Section 20 of the 1990 Act (offences due to fault of another person) applies as if, for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
+**7.**[^c-4e6e731d2331ad69865deac09cd0ef65] Section 20 of the 1990 Act (offences due to fault of another person) applies as if, for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
 
-**8.**[^key-41a65dc16c46e48cea36c6c6276793ac] Section 21 of the 1990 Act (defence of due diligence) applies as if, in subsection (1), for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
+**8.**[^c-41a65dc16c46e48cea36c6c6276793ac] Section 21 of the 1990 Act (defence of due diligence) applies as if, in subsection (1), for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
 
-**9.**[^key-eb5ad9d682119787f3ad9bf2cbe9390b] Section 22 of the 1990 Act (defence of publication in the course of business) applies as if, for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
+**9.**[^c-eb5ad9d682119787f3ad9bf2cbe9390b] Section 22 of the 1990 Act (defence of publication in the course of business) applies as if, for “any of the preceding provisions of this Part”, there were substituted “ the 2020 Regulations ”.
 
-**10.**[^key-036e5f7a82bbc7e2649dd904a04b2c07] Section 29 of the 1990 Act (procurement of samples) applies as if, in paragraph (b)(ii), after “under section 32 below”, there were inserted “ , including under section 32 as applied and modified by regulation 4(2) of, and Part 2 of Schedule 2 to, the 2020 Regulations ”.
+**10.**[^c-036e5f7a82bbc7e2649dd904a04b2c07] Section 29 of the 1990 Act (procurement of samples) applies as if, in paragraph (b)(ii), after “under section 32 below”, there were inserted “ , including under section 32 as applied and modified by regulation 4(2) of, and Part 2 of Schedule 2 to, the 2020 Regulations ”.
 
-**11.**[^key-9910f541de1632687ef1fa812ba89310] Section 30 of the 1990 Act (analysis etc. of samples) applies as if—
+**11.**[^c-9910f541de1632687ef1fa812ba89310] Section 30 of the 1990 Act (analysis etc. of samples) applies as if—
 
 - (a) in subsection (1), after “under section 29 above”, there were inserted “ , including under section 29 as applied and modified by regulation 4(6) of, and Part 6 of Schedule 2 to, the 2020 Regulations ”; and
 - (b) in subsection (8), for “this Act” there were substituted “ the 2020 Regulations ”.
 
-**12.**[^key-d00d242133d906b9a55865cc5e2e3b97] Section 33 of the 1990 Act (obstruction etc. of officers) applies as if, in subsection (1), for “this Act” (in each place where it occurs) there were substituted “ the 2020 Regulations ”.
+**12.**[^c-d00d242133d906b9a55865cc5e2e3b97] Section 33 of the 1990 Act (obstruction etc. of officers) applies as if, in subsection (1), for “this Act” (in each place where it occurs) there were substituted “ the 2020 Regulations ”.
 
-**13.**[^key-4c66dd52e221db4e614c3b9b4fa7c333] Section 36 of the 1990 Act (offences by bodies corporate) applies as if, in subsection (1), for “this Act” there were substituted “ the 2020 Regulations ”.
+**13.**[^c-4c66dd52e221db4e614c3b9b4fa7c333] Section 36 of the 1990 Act (offences by bodies corporate) applies as if, in subsection (1), for “this Act” there were substituted “ the 2020 Regulations ”.
 
-**14.**[^key-1867e81d28b0b08b2055d910329485e8] Section 36A of the 1990 Act [^c23968771] (offences by Scottish partnerships) applies as if, for “this Act”, there were substituted “ the 2020 Regulations ”.
+**14.**[^c-1867e81d28b0b08b2055d910329485e8] Section 36A of the 1990 Act [^c23968771] (offences by Scottish partnerships) applies as if, for “this Act”, there were substituted “ the 2020 Regulations ”.
 
-**15.**[^key-bb3a2f6c90abcc78c01ac76af7822640] Section 44 of the 1990 Act (protection of officers acting in good faith) applies as if, for “this Act”, in each place where those words appear, there were substituted “ the 2020 Regulations ”.
+**15.**[^c-bb3a2f6c90abcc78c01ac76af7822640] Section 44 of the 1990 Act (protection of officers acting in good faith) applies as if, for “this Act”, in each place where those words appear, there were substituted “ the 2020 Regulations ”.
 
-**16.**[^key-68e3e391cc5ec5381b34ac02be067dee] Section 53 of the 1990 Act (general interpretation) applies as if—
+**16.**[^c-68e3e391cc5ec5381b34ac02be067dee] Section 53 of the 1990 Act (general interpretation) applies as if—
 
 - (a) after the definition of “the 1956 Act” there were inserted—
 
@@ -347,7 +347,7 @@ Regulation 4
 
   .
 
-## SCHEDULE 3 — Revocations relating to Infant Formula and Follow-on Formula[^key-cd67fa4bd41265cbf4a27bc68759e939]
+## SCHEDULE 3 — Revocations relating to Infant Formula and Follow-on Formula[^c-cd67fa4bd41265cbf4a27bc68759e939]
 
 Regulation 5(1)
 
@@ -365,15 +365,15 @@ Regulation 5(1)
 
 Regulation 6
 
-### 1. Interpretation[^key-90b3c8e6f86db21d80f73291feb983fc]
+### 1. Interpretation[^c-90b3c8e6f86db21d80f73291feb983fc]
 
 In this Schedule, “**the 2016 Regulations**” means the Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 [^c23968781].
 
-### 2. Amendment of regulation 2 of the 2016 Regulations[^key-7b8975051069350df373663007c35832]
+### 2. Amendment of regulation 2 of the 2016 Regulations[^c-7b8975051069350df373663007c35832]
 
 In regulation 2 of the 2016 Regulations (interpretation), omit paragraph (6).
 
-### 3. Amendment of regulation 8 of the 2016 Regulations[^key-466e7ea854585a173bec3dd6c1325546]
+### 3. Amendment of regulation 8 of the 2016 Regulations[^c-466e7ea854585a173bec3dd6c1325546]
 
 For regulation 8 of the 2016 Regulations (transitional arrangements) substitute—
 
@@ -389,7 +389,7 @@ For regulation 8 of the 2016 Regulations (transitional arrangements) substitute�
 
 .
 
-### 4. Amendment of Schedule 1 to the 2016 Regulations[^key-350bbdc0b76ce5050437b426925fd486]
+### 4. Amendment of Schedule 1 to the 2016 Regulations[^c-350bbdc0b76ce5050437b426925fd486]
 
 In Schedule 1 to the 2016 Regulations [^c23968801] (specified EU Requirements)—
 
@@ -422,7 +422,7 @@ In Schedule 1 to the 2016 Regulations [^c23968801] (specified EU Requirements)�
 
 Regulation 7
 
-### 1. Amendment of the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997[^key-ffd31103588e580fab4c8ec2d82b7bcd]
+### 1. Amendment of the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997[^c-ffd31103588e580fab4c8ec2d82b7bcd]
 
 (1) The Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997 [^c23968811] are amended as follows.
 
@@ -431,11 +431,11 @@ Regulation 7
 - (a) In Part 1, in paragraph 1, in the modification of section 10(1) of the 1990 Act (improvement notices) in paragraph (a) for “state the officer's grounds for suspecting” substitute “ state the officer's grounds for believing ”;
 - (b) in Part 5, in paragraph 10, in the modification of section 39(1) of the 1990 Act (appeals against improvement notices) for “either cancel of affirm the notice” substitute “ either cancel or affirm the notice ”.
 
-### 2. Amendment of the Medical Food (England) Regulations 2000[^key-1fe527be15a2e9e119379d2ca803743c]
+### 2. Amendment of the Medical Food (England) Regulations 2000[^c-1fe527be15a2e9e119379d2ca803743c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003[^key-be3fcd92fe2a66be85ca4fbd82a86958]
+### 3. Amendment of the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003[^c-be3fcd92fe2a66be85ca4fbd82a86958]
 
 (1) The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003 [^c23968831] are amended as follows.
 
@@ -446,11 +446,11 @@ Regulation 7
   - (ii) in paragraph (a) for “state the officer's grounds for suspecting” substitute “ state the officer's grounds for believing ”;
 - (b) in Part 5, in paragraph 10, in the modification of section 39(1) of the 1990 Act (appeals against improvement notices) for “either cancel of affirm the notice” substitute “ either cancel or affirm the notice ”.
 
-### 4. Amendment of the Infant Formula and Follow-on Formula (England) Regulations 2007[^key-87a56176e828831f0aff40f180b5b042]
+### 4. Amendment of the Infant Formula and Follow-on Formula (England) Regulations 2007[^c-87a56176e828831f0aff40f180b5b042]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (England) Regulations 2009[^key-baea89a63a3003321d2fe5c005dc8f40]
+### 5. Amendment of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (England) Regulations 2009[^c-baea89a63a3003321d2fe5c005dc8f40]
 
 (1) The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (England) Regulations 2009 [^c23968851] are amended as follows.
 
@@ -463,7 +463,7 @@ Regulation 7
   - (ii) in paragraph (a) for “state the officer's grounds for suspecting” substitute “ state the officer's grounds for believing ”;
 - (b) in Part 5, in paragraph 10, in the modification of section 39(1) of the 1990 Act (appeals against improvement notices) for “either cancel of affirm the notice” substitute “ either cancel or affirm the notice ”.
 
-## SCHEDULE 6 — Revocations relating to food for special medical purposes[^key-f75f6f6ecc50f34a71bfd84bbc94798f]
+## SCHEDULE 6 — Revocations relating to food for special medical purposes[^c-f75f6f6ecc50f34a71bfd84bbc94798f]
 
 Regulation 8
 
@@ -534,15 +534,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23968641]: Marginal citation: O.J. No. L 31, 1.2.2002, p. 1, as last amended by Regulation (EU) 2019/1243 of the European Parliament and of the Council (O.J. No. L 198, 25.07.2019, p. 241).
 
-[^key-9ab6597c616d5528c2944ab1fa0e8983]: Commencement: Reg. 1 in force at 22.2.2020, see reg. 1(1)
+[^c-9ab6597c616d5528c2944ab1fa0e8983]: Commencement: Reg. 1 in force at 22.2.2020, see reg. 1(1)
 
-[^key-0fd0816af25558049448d6e87f7f1ece]: Textual amendment: Word in reg. 1(2) substituted (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/2)
+[^c-0fd0816af25558049448d6e87f7f1ece]: Textual amendment: Word in reg. 1(2) substituted (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/2)
 
-[^key-c244b0f6123cca88f00f8584d7ea334c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/43/regulation/2) in force at 22.2.2021 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/2)
+[^c-c244b0f6123cca88f00f8584d7ea334c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/43/regulation/2) in force at 22.2.2021 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/2)
 
-[^key-6a55d157c406b42962027af2e6329534]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/43/regulation/3) in force at 22.2.2021 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/2)
+[^c-6a55d157c406b42962027af2e6329534]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/43/regulation/3) in force at 22.2.2021 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/2)
 
-[^key-2aee099a900da23337fa3a158af46661]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/43/regulation/4) in force at 22.2.2021 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/2)
+[^c-2aee099a900da23337fa3a158af46661]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/43/regulation/4) in force at 22.2.2021 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/2)
 
 [^c23968651]: Marginal citation: There are amendments to section 32(5) and (6), but none is relevant.
 
@@ -554,102 +554,102 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23968691]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/uksi/2020/43/section/36A) was inserted by paragraph 16 of Schedule 5 to the 1999 Act.
 
-[^key-67c06caa3a52a2d5b65fca70602d9346]: Commencement: Reg. 5 in force at 22.2.2020, see reg. 1(1)
+[^c-67c06caa3a52a2d5b65fca70602d9346]: Commencement: Reg. 5 in force at 22.2.2020, see reg. 1(1)
 
-[^key-ef277e1a215b7e689fd16e91def6df30]: Textual amendment: Word in reg. 5(2)(a) substituted (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3/a)
+[^c-ef277e1a215b7e689fd16e91def6df30]: Textual amendment: Word in reg. 5(2)(a) substituted (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3/a)
 
-[^key-957d776352531de03d203079db4e70fd]: Textual amendment: Word in reg. 5(3)(a)(ii) substituted (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3/b)
+[^c-957d776352531de03d203079db4e70fd]: Textual amendment: Word in reg. 5(3)(a)(ii) substituted (21.2.2021) by [The Nutrition (Amendment) and Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment) Regulations 2021 (S.I. 2021/168)](https://www.legislation.gov.uk/uksi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/168/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3/b)
 
 [^c23968701]: Marginal citation: [S.I. 2007/3521](https://www.legislation.gov.uk/uksi/2007/3521), the relevant amending instrument is [S.I. 2008/2445](https://www.legislation.gov.uk/uksi/2008/2445).
 
-[^key-7c7adbb8ab60fcdd88b301a57844c54f]: Commencement: Reg. 6 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-7c7adbb8ab60fcdd88b301a57844c54f]: Commencement: Reg. 6 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-b74c79de1957a9c0c9048125e94f3cc6]: Commencement: Reg. 7 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-b74c79de1957a9c0c9048125e94f3cc6]: Commencement: Reg. 7 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-19209a4c4f01b56939c790996021b629]: Commencement: Reg. 8 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-19209a4c4f01b56939c790996021b629]: Commencement: Reg. 8 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968711]: Marginal citation: [S.I. 2016/688](https://www.legislation.gov.uk/uksi/2016/688), [regulation 8](https://www.legislation.gov.uk/uksi/2016/688/regulation/8) was inserted by [S.I. 2019/44](https://www.legislation.gov.uk/uksi/2019/44).
 
-[^key-f927acdac3678105fe0081444d0ab1bf]: Commencement: Reg. 9 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-f927acdac3678105fe0081444d0ab1bf]: Commencement: Reg. 9 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968721]: Marginal citation: [S.I. 2017/62](https://www.legislation.gov.uk/uksi/2017/62).
 
-[^key-ead74157038ecc03255e49dcad242f35]: Commencement: Reg. 10 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-ead74157038ecc03255e49dcad242f35]: Commencement: Reg. 10 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968731]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-46a72fd3c26fa956c6a309b7afba2f63]: Commencement: Sch. 1 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-46a72fd3c26fa956c6a309b7afba2f63]: Commencement: Sch. 1 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968741]: Marginal citation: Regulation (EU) No. 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, etc. (O.J. No. L 304, 22.11.2011, p. 18).
 
-[^key-877288412fb73ed14dda9ca4b5b1890f]: Commencement: Sch. 2 para. 1 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-877288412fb73ed14dda9ca4b5b1890f]: Commencement: Sch. 2 para. 1 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-de0bec3b577d87c3589521b17fb72087]: Commencement: Sch. 2 para. 2 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-de0bec3b577d87c3589521b17fb72087]: Commencement: Sch. 2 para. 2 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968751]: Marginal citation: [Section 32(5)](https://www.legislation.gov.uk/uksi/2020/43/section/32/5) and (6) was amended by section 70 of, and paragraph 18 of Schedule 2 to, the [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
-[^key-6d05cc3ff7e3ef0c518db6cd216b6488]: Commencement: Sch. 2 para. 3 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-6d05cc3ff7e3ef0c518db6cd216b6488]: Commencement: Sch. 2 para. 3 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-1d28142610a23bd8ba55447cdbf91cf3]: Commencement: Sch. 2 para. 4 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-1d28142610a23bd8ba55447cdbf91cf3]: Commencement: Sch. 2 para. 4 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968761]: Marginal citation: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976), amended by [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43), 2653, 2011/651, 2012/500, 2013/477, 2014/2128, 2015/2059, 2017/1168, 2018/1053 and 2019/925.
 
-[^key-ee30c982a306df1932eed798f2c54155]: Commencement: Sch. 2 para. 5 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-ee30c982a306df1932eed798f2c54155]: Commencement: Sch. 2 para. 5 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-bb89963b1a06ad1d0ac31a21699a035b]: Commencement: Sch. 2 para. 6 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-bb89963b1a06ad1d0ac31a21699a035b]: Commencement: Sch. 2 para. 6 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-4e6e731d2331ad69865deac09cd0ef65]: Commencement: Sch. 2 para. 7 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-4e6e731d2331ad69865deac09cd0ef65]: Commencement: Sch. 2 para. 7 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-41a65dc16c46e48cea36c6c6276793ac]: Commencement: Sch. 2 para. 8 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-41a65dc16c46e48cea36c6c6276793ac]: Commencement: Sch. 2 para. 8 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-eb5ad9d682119787f3ad9bf2cbe9390b]: Commencement: Sch. 2 para. 9 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-eb5ad9d682119787f3ad9bf2cbe9390b]: Commencement: Sch. 2 para. 9 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-036e5f7a82bbc7e2649dd904a04b2c07]: Commencement: Sch. 2 para. 10 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-036e5f7a82bbc7e2649dd904a04b2c07]: Commencement: Sch. 2 para. 10 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-9910f541de1632687ef1fa812ba89310]: Commencement: Sch. 2 para. 11 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-9910f541de1632687ef1fa812ba89310]: Commencement: Sch. 2 para. 11 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-d00d242133d906b9a55865cc5e2e3b97]: Commencement: Sch. 2 para. 12 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-d00d242133d906b9a55865cc5e2e3b97]: Commencement: Sch. 2 para. 12 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-4c66dd52e221db4e614c3b9b4fa7c333]: Commencement: Sch. 2 para. 13 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-4c66dd52e221db4e614c3b9b4fa7c333]: Commencement: Sch. 2 para. 13 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-1867e81d28b0b08b2055d910329485e8]: Commencement: Sch. 2 para. 14 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-1867e81d28b0b08b2055d910329485e8]: Commencement: Sch. 2 para. 14 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968771]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/uksi/2020/43/section/36A) was inserted by section 40(1) of, and paragraph 16 of Schedule 5 to, the 1999 Act.
 
-[^key-bb3a2f6c90abcc78c01ac76af7822640]: Commencement: Sch. 2 para. 15 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-bb3a2f6c90abcc78c01ac76af7822640]: Commencement: Sch. 2 para. 15 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-68e3e391cc5ec5381b34ac02be067dee]: Commencement: Sch. 2 para. 16 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-68e3e391cc5ec5381b34ac02be067dee]: Commencement: Sch. 2 para. 16 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-cd67fa4bd41265cbf4a27bc68759e939]: Commencement: Sch. 3 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-cd67fa4bd41265cbf4a27bc68759e939]: Commencement: Sch. 3 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-90b3c8e6f86db21d80f73291feb983fc]: Commencement: Sch. 4 para. 1 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-90b3c8e6f86db21d80f73291feb983fc]: Commencement: Sch. 4 para. 1 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968781]: Marginal citation: [S.I. 2016/688](https://www.legislation.gov.uk/uksi/2016/688), amended by [S.I. 2017/62](https://www.legislation.gov.uk/uksi/2017/62) and 2019/44.
 
-[^key-7b8975051069350df373663007c35832]: Commencement: Sch. 4 para. 2 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-7b8975051069350df373663007c35832]: Commencement: Sch. 4 para. 2 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
-[^key-466e7ea854585a173bec3dd6c1325546]: Commencement: Sch. 4 para. 3 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-466e7ea854585a173bec3dd6c1325546]: Commencement: Sch. 4 para. 3 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968791]: Marginal citation: [S.I. 2000/845](https://www.legislation.gov.uk/uksi/2000/845), the relevant amending instrument is [S.I. 2011/3012](https://www.legislation.gov.uk/uksi/2011/3012).
 
-[^key-350bbdc0b76ce5050437b426925fd486]: Commencement: Sch. 4 para. 4 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-350bbdc0b76ce5050437b426925fd486]: Commencement: Sch. 4 para. 4 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968801]: Marginal citation: The table in Schedule 1 was substituted by [S.I. 2019/44](https://www.legislation.gov.uk/uksi/2019/44).
 
-[^key-ffd31103588e580fab4c8ec2d82b7bcd]: Commencement: Sch. 5 para. 1 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-ffd31103588e580fab4c8ec2d82b7bcd]: Commencement: Sch. 5 para. 1 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968811]: Marginal citation: [S.I. 1997/2182](https://www.legislation.gov.uk/uksi/1997/2182), the relevant amending instrument is [S.I. 2016/688](https://www.legislation.gov.uk/uksi/2016/688).
 
-[^key-1fe527be15a2e9e119379d2ca803743c]: Textual amendment: Sch. 5 para. 2 revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/43/schedule/6) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/8/2))
+[^c-1fe527be15a2e9e119379d2ca803743c]: Textual amendment: Sch. 5 para. 2 revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/43/schedule/6) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/8/2))
 
-[^key-be3fcd92fe2a66be85ca4fbd82a86958]: Commencement: Sch. 5 para. 3 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-be3fcd92fe2a66be85ca4fbd82a86958]: Commencement: Sch. 5 para. 3 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968831]: Marginal citation: [S.I. 2003/3207](https://www.legislation.gov.uk/uksi/2003/3207), the relevant amending instrument is [S.I. 2016/688](https://www.legislation.gov.uk/uksi/2016/688).
 
-[^key-87a56176e828831f0aff40f180b5b042]: Textual amendment: Sch. 5 para. 4 revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/43/schedule/3) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/5/2)) (as amended by [S.I. 2021/168](https://www.legislation.gov.uk/uksi/2021/168), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3))
+[^c-87a56176e828831f0aff40f180b5b042]: Textual amendment: Sch. 5 para. 4 revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/43/schedule/3) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/5/2)) (as amended by [S.I. 2021/168](https://www.legislation.gov.uk/uksi/2021/168), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3))
 
-[^key-baea89a63a3003321d2fe5c005dc8f40]: Commencement: Sch. 5 para. 5 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-baea89a63a3003321d2fe5c005dc8f40]: Commencement: Sch. 5 para. 5 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
 
 [^c23968851]: Marginal citation: [S.I. 2009/3051](https://www.legislation.gov.uk/uksi/2009/3051), the relevant amending instrument is [S.I. 2016/688](https://www.legislation.gov.uk/uksi/2016/688).
 
-[^key-f75f6f6ecc50f34a71bfd84bbc94798f]: Commencement: Sch. 6 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)
+[^c-f75f6f6ecc50f34a71bfd84bbc94798f]: Commencement: Sch. 6 in force at 22.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1)

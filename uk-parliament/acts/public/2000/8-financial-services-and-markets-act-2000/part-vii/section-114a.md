@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114A. Notice of transfer of reinsurance contracts[^key-a17ccce772d1b4500282b5816852ee49]
+## 114A. Notice of transfer of reinsurance contracts[^c-a17ccce772d1b4500282b5816852ee49]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a17ccce772d1b4500282b5816852ee49]: Textual amendment: S. 114A omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [33(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/33/3) (with transitional provisions in [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/4), [36](https://www.legislation.gov.uk/uksi/2019/710/regulation/36), [Sch. paras. 3-5](https://www.legislation.gov.uk/uksi/2019/710/schedule/paragraph/3), [6(5)](https://www.legislation.gov.uk/uksi/2019/710/schedule/paragraph/6/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a17ccce772d1b4500282b5816852ee49]: Textual amendment: S. 114A omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [33(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/33/3) (with transitional provisions in [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/4), [36](https://www.legislation.gov.uk/uksi/2019/710/regulation/36), [Sch. paras. 3-5](https://www.legislation.gov.uk/uksi/2019/710/schedule/paragraph/3), [6(5)](https://www.legislation.gov.uk/uksi/2019/710/schedule/paragraph/6/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

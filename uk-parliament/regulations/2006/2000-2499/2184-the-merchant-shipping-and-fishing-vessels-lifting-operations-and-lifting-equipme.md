@@ -48,7 +48,7 @@ Coming into force
 
 [^c16508861]The Secretary of State is a Minister designated for the purposes of section 2(2) of the 1972 Act in relation to measures relating to the safety of ships and the health and safety of persons on them.
 
-In accordance with section 86(4) of the 1995 Act the Secretary of State has consulted the persons referred to in that section.[^key-115b336f5f0ee3aa02a9d748679a69f3]
+In accordance with section 86(4) of the 1995 Act the Secretary of State has consulted the persons referred to in that section.[^c-115b336f5f0ee3aa02a9d748679a69f3]
 
 ## PART 1 — GENERAL
 
@@ -72,7 +72,7 @@ In accordance with section 86(4) of the 1995 Act the Secretary of State has cons
 - “**contract of employment**” means a contract of employment, whether express or implied, and if express, whether oral or in writing;
 - “**employer**” means a person by whom a worker is employed under a contract of employment and (except in regulation 4(3) and (4)) includes a self-employed person to whom the requirements imposed by these Regulations apply by virtue of regulation 4(4);
 - “**fishing vessel**” means a vessel for the time being used for, or in connection with, fishing for sea fish other than a vessel used for fishing otherwise than for profit; and for the purposes of this definition “**sea fish**” includes shellfish, salmon and migratory trout (as defined by section 44 of the Fisheries Act 1981 [^c16508891]);
-- [^key-44cbf583b63fc93a5b4008d86a2e1560]...
+- [^c-44cbf583b63fc93a5b4008d86a2e1560]...
 - “**hatch covering**” includes hatch covers, beams and attached fixtures and fittings;
 - “**health and safety**” includes the occupational health and safety of persons whilst on board the ship and whilst boarding or leaving the ship;
 - “**lifting equipment**” means work equipment used for lifting or lowering loads and includes its attachments used for anchoring, fixing or supporting it;
@@ -87,7 +87,7 @@ In accordance with section 86(4) of the 1995 Act the Secretary of State has cons
 - “**thorough examination**” means a thorough examination by a competent person, and “**thoroughly examined**” shall be construed accordingly;
 - “**United Kingdom ship**” means a ship which—
   - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or
-  - (b) [^key-44cbf583b63fc93a5b4008d86a2e1560]...
+  - (b) [^c-44cbf583b63fc93a5b4008d86a2e1560]...
   - (c) is a hovercraft registered under the Hovercraft Act 1968 [^c16508901];
 - “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom;
 - “**use**” in relation to work equipment, including lifting equipment, means any activity involving work equipment, and includes starting, stopping, programming, setting, transporting, repairing, modifying, maintaining and servicing, including cleaning;
@@ -133,9 +133,9 @@ and in such a case there shall be a duty on the employer so far as is reasonably
 
 (5) In respect of his own use of lifting equipment on a ship, whether provided by him or not, a self-employed person shall be treated as a worker and shall ensure that the requirements of these Regulations in relation to a worker are met.
 
-(6) Regulations 6(1), 6(2)(b), 9(1)(c), 9(3), 11, 12(7), 13 and 16 shall not apply in relation to a fishing vessel [^key-c2b6f2ca2adf04cf86f83c352e0d40ef]....
+(6) Regulations 6(1), 6(2)(b), 9(1)(c), 9(3), 11, 12(7), 13 and 16 shall not apply in relation to a fishing vessel [^c-c2b6f2ca2adf04cf86f83c352e0d40ef]....
 
-(7)[^key-07aefe0d1d7dbd507be9824c3062346a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-07aefe0d1d7dbd507be9824c3062346a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) These Regulations shall not apply in relation to the activities of a worker which are covered by the Lifting Operations and Lifting Equipment Regulations 1998 [^c16508961] or the Lifting Operations and Lifting Equipment (Northern Ireland) Regulations 1999 [^c16508971].
 
@@ -245,7 +245,7 @@ and that such lifting operations are not carried out unless the procedures and s
 
 without being first suitably tested by a competent person.
 
-(2) The employer shall ensure that the ship's lifting equipment (other than an accessory for lifting)[^key-5b13b08a6a55fcd62c0bff2a858eb6a6] is not used unless it has been suitably tested by a competent person within the preceding five years.
+(2) The employer shall ensure that the ship's lifting equipment (other than an accessory for lifting)[^c-5b13b08a6a55fcd62c0bff2a858eb6a6] is not used unless it has been suitably tested by a competent person within the preceding five years.
 
 (3) Upon the completion of every test of lifting equipment, accessory for lifting or item of loose gear carried out in accordance with this regulation, the equipment, accessory or gear shall be thoroughly examined and certified for use by the person carrying out the test.
 
@@ -475,7 +475,7 @@ International Labour Organization Conventions are published by the International
 
 [^c16508861]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-115b336f5f0ee3aa02a9d748679a69f3]: Modification: Regulations applied (6.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010 (S.I. 2010/332)](https://www.legislation.gov.uk/uksi/2010/332), [regs. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2010/332/regulation/4))
+[^c-115b336f5f0ee3aa02a9d748679a69f3]: Modification: Regulations applied (6.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010 (S.I. 2010/332)](https://www.legislation.gov.uk/uksi/2010/332), [regs. 1](https://www.legislation.gov.uk/uksi/2010/332/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2010/332/regulation/4))
 
 [^c16508871]: Marginal citation: [S.I. 1988/1639](https://www.legislation.gov.uk/uksi/1988/1639).
 
@@ -483,7 +483,7 @@ International Labour Organization Conventions are published by the International
 
 [^c16508891]: Marginal citation: [1981 c.29](https://www.legislation.gov.uk/ukpga/1981/29).
 
-[^key-44cbf583b63fc93a5b4008d86a2e1560]: Textual amendment: Words in reg. 2(1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-44cbf583b63fc93a5b4008d86a2e1560]: Textual amendment: Words in reg. 2(1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c16508901]: Marginal citation: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59). [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), as amended by [S.I. 1990/2594](https://www.legislation.gov.uk/uksi/1990/2594), applies various merchant shipping enactments to hovercraft, with modifications.
 
@@ -497,9 +497,9 @@ International Labour Organization Conventions are published by the International
 
 [^c16508951]: Marginal citation: Published by the Stationery Office in 1999 (ISBN 0-11-551812-6).
 
-[^key-c2b6f2ca2adf04cf86f83c352e0d40ef]: Textual amendment: Words in reg. 4(6) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-c2b6f2ca2adf04cf86f83c352e0d40ef]: Textual amendment: Words in reg. 4(6) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-07aefe0d1d7dbd507be9824c3062346a]: Textual amendment: Reg. 4(7) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-07aefe0d1d7dbd507be9824c3062346a]: Textual amendment: Reg. 4(7) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c16508961]: Marginal citation: [S.I. 1998/2307](https://www.legislation.gov.uk/uksi/1998/2307), amended by [S.I. 2002/2174](https://www.legislation.gov.uk/uksi/2002/2174).
 
@@ -509,6 +509,6 @@ International Labour Organization Conventions are published by the International
 
 [^c16508991]: Marginal citation: [S.I. 2006/2183](https://www.legislation.gov.uk/uksi/2006/2183).
 
-[^key-5b13b08a6a55fcd62c0bff2a858eb6a6]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2006/2184/regulation/11/2) inserted (8.9.2008) by [The Merchant Shipping and Fishing Vessels (Lifting Operations and Lifting Equipment) (Amendment) Regulations 2008 (S.I. 2008/2166)](https://www.legislation.gov.uk/uksi/2008/2166), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2166/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/2166/regulation/2)
+[^c-5b13b08a6a55fcd62c0bff2a858eb6a6]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2006/2184/regulation/11/2) inserted (8.9.2008) by [The Merchant Shipping and Fishing Vessels (Lifting Operations and Lifting Equipment) (Amendment) Regulations 2008 (S.I. 2008/2166)](https://www.legislation.gov.uk/uksi/2008/2166), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2166/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/2166/regulation/2)
 
 [^c16509001]: Marginal citation: [Section 284](https://www.legislation.gov.uk/uksi/2006/2184/section/284) was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1, paragraph 5.

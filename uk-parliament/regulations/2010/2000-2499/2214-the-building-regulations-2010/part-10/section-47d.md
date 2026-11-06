@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47D. Compliance notices and stop notices: giving of notices and notification of others[^key-fac4dd8b45113f5d5765918aba91684a]
+## 47D. Compliance notices and stop notices: giving of notices and notification of others[^c-fac4dd8b45113f5d5765918aba91684a]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fac4dd8b45113f5d5765918aba91684a]: Textual amendment: [Regs. 47A-47H](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/16/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-fac4dd8b45113f5d5765918aba91684a]: Textual amendment: [Regs. 47A-47H](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/16/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))

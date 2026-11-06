@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Motor Vehicles (Driving Licences) (Amendment) (No.2) Regulations 2015 (revoked)[^key-f23f0fd1586b431f95282357351cc715]
+The Motor Vehicles (Driving Licences) (Amendment) (No.2) Regulations 2015 (revoked)[^c-f23f0fd1586b431f95282357351cc715]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 26th March 2015
 
-[^key-f23f0fd1586b431f95282357351cc715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f23f0fd1586b431f95282357351cc715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f23f0fd1586b431f95282357351cc715]
+## 1. Citation and commencement[^c-f23f0fd1586b431f95282357351cc715]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations 1999[^key-f23f0fd1586b431f95282357351cc715]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations 1999[^c-f23f0fd1586b431f95282357351cc715]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-f23f0fd1586b431f95282357351cc715]
+## 3.[^c-f23f0fd1586b431f95282357351cc715]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f23f0fd1586b431f95282357351cc715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f23f0fd1586b431f95282357351cc715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f23f0fd1586b431f95282357351cc715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f23f0fd1586b431f95282357351cc715]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f23f0fd1586b431f95282357351cc715]: Textual amendment: Regulations revoked (25.3.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2015 (S.I. 2015/719)](https://www.legislation.gov.uk/uksi/2015/719), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/719/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/719/regulation/2)
+[^c-f23f0fd1586b431f95282357351cc715]: Textual amendment: Regulations revoked (25.3.2015) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2015 (S.I. 2015/719)](https://www.legislation.gov.uk/uksi/2015/719), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/719/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/719/regulation/2)

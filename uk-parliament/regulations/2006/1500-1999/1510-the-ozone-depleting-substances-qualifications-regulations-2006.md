@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Ozone Depleting Substances (Qualifications) Regulations 2006 (revoked)[^key-6dcb8b392ea68e48e4aa04c007471d76]
+The Ozone Depleting Substances (Qualifications) Regulations 2006 (revoked)[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 Made
 
@@ -46,112 +46,112 @@ Coming into force
 
 10th July 2006
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dcb8b392ea68e48e4aa04c007471d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 1. Citation, commencement and extent[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 2. Interpretation[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Meaning of “competent”[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 3. Meaning of “competent”[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Meaning of “relevant work”[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 4. Meaning of “relevant work”[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Qualification and supervision[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 5. Qualification and supervision[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provision[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 6. Transitional provision[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Training[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 7. Training[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Appointment of persons to enforce these Regulations[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 8. Appointment of persons to enforce these Regulations[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Powers of an authorised person[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 9. Powers of an authorised person[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Miscellaneous offences[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 10. Miscellaneous offences[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Corporate offences[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 11. Corporate offences[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Penalties[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 12. Penalties[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of the Environmental Protection (Controls on Ozone-Depleting Substances) Regulations 2002[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## 13. Amendment of the Environmental Protection (Controls on Ozone-Depleting Substances) Regulations 2002[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dcb8b392ea68e48e4aa04c007471d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLE OF MINIMUM QUALIFICATIONS[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## SCHEDULE 1 — TABLE OF MINIMUM QUALIFICATIONS[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 Regulation 3(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — BRITISH PEST CONTROL ASSOCIATION MODULES[^key-6dcb8b392ea68e48e4aa04c007471d76]
+## SCHEDULE 2 — BRITISH PEST CONTROL ASSOCIATION MODULES[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 Regulation 3(c)
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]
+[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]
+[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]
+[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]
+[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]
+[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]
+[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]
+[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]
+[^c-6dcb8b392ea68e48e4aa04c007471d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6dcb8b392ea68e48e4aa04c007471d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6dcb8b392ea68e48e4aa04c007471d76]: Textual amendment: Regulations revoked (9.3.2009) by [The Ozone-Depleting Substances (Qualifications) Regulations 2009 (S.I. 2009/216)](https://www.legislation.gov.uk/uksi/2009/216), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/216/regulation/1/b), [12](https://www.legislation.gov.uk/uksi/2009/216/regulation/12)
+[^c-6dcb8b392ea68e48e4aa04c007471d76]: Textual amendment: Regulations revoked (9.3.2009) by [The Ozone-Depleting Substances (Qualifications) Regulations 2009 (S.I. 2009/216)](https://www.legislation.gov.uk/uksi/2009/216), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/216/regulation/1/b), [12](https://www.legislation.gov.uk/uksi/2009/216/regulation/12)

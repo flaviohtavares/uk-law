@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. The claimant: partnerships[^key-39f53cb46fb9094f1ea65c41d463a1c0][^key-d826b672de41a0f12cd0699dd97803f1]
+## 79. The claimant: partnerships[^c-39f53cb46fb9094f1ea65c41d463a1c0][^c-d826b672de41a0f12cd0699dd97803f1]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39f53cb46fb9094f1ea65c41d463a1c0]: Commencement: S. 79 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-39f53cb46fb9094f1ea65c41d463a1c0]: Commencement: S. 79 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-d826b672de41a0f12cd0699dd97803f1]: Modification: S. 79 applied (with modifications) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 7 para. 43(4)](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43/4); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d826b672de41a0f12cd0699dd97803f1]: Modification: S. 79 applied (with modifications) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 7 para. 43(4)](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43/4); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

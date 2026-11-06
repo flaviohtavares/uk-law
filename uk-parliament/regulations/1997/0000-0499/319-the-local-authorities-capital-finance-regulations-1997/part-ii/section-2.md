@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Issue of loan instruments[^key-67ff4f85ea8b6ccc06c838a0743c7cd9]
+## 2. Issue of loan instruments[^c-67ff4f85ea8b6ccc06c838a0743c7cd9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Expenditure of a local authority which is incidental to the issue of a loan inst
 
 ## Annotations
 
-[^key-67ff4f85ea8b6ccc06c838a0743c7cd9]: Commencement: Reg. 2 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-67ff4f85ea8b6ccc06c838a0743c7cd9]: Commencement: Reg. 2 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

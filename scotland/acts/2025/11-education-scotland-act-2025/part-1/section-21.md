@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Scottish Ministers’ power to direct Qualifications Scotland[^key-b2b4b31f3fb5709cc62c757b5414eafe][^key-2fe9d40e88489f64ad6eb6b7e2303df3]
+## 21. Scottish Ministers’ power to direct Qualifications Scotland[^c-b2b4b31f3fb5709cc62c757b5414eafe][^c-2fe9d40e88489f64ad6eb6b7e2303df3]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2b4b31f3fb5709cc62c757b5414eafe]: Commencement: S. 21 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-b2b4b31f3fb5709cc62c757b5414eafe]: Commencement: S. 21 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-2fe9d40e88489f64ad6eb6b7e2303df3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/11/section/21) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-2fe9d40e88489f64ad6eb6b7e2303df3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/11/section/21) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

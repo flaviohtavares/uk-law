@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Compensation for refusal of scheduled monument consent or grant of consent subject to conditions[^key-2f034ac95a81549c84b569565e9b5c1f][^key-0d141abd59607985dbf40237f37a5d40]
+## 21. Compensation for refusal of scheduled monument consent or grant of consent subject to conditions[^c-2f034ac95a81549c84b569565e9b5c1f][^c-0d141abd59607985dbf40237f37a5d40]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f034ac95a81549c84b569565e9b5c1f]: Commencement: S. 21 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2f034ac95a81549c84b569565e9b5c1f]: Commencement: S. 21 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-0d141abd59607985dbf40237f37a5d40]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2023/3/section/21) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-0d141abd59607985dbf40237f37a5d40]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2023/3/section/21) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -216,7 +216,7 @@ Birds belonging to the following orders—
 
 **49.**[^c16923661] Equine viral arteritis.
 
-**50.**[^key-f12f940ad458ce655f0f909e61940c5e] Bovine Viral Diarrhoea, for the purposes of Articles 5A, 46, 52, 54 and 60(1).
+**50.**[^c-f12f940ad458ce655f0f909e61940c5e] Bovine Viral Diarrhoea, for the purposes of Articles 5A, 46, 52, 54 and 60(1).
 
 Article 10(1) (separation of diseased animals and notice of disease) shall not apply in the case of atrophic rhinitis (18)[^c16923681]. . . and spongiform encephalopathy (47)[^c16923691].
 
@@ -298,7 +298,7 @@ Article 10(1) (separation of diseased animals and notice of disease) shall not a
 
 [^c16923661]: Textual amendment: SR 1996/273
 
-[^key-f12f940ad458ce655f0f909e61940c5e]: Textual amendment: [Sch. 1 Pt. III](https://www.legislation.gov.uk/nisi/1981/1115/schedule/1/part/III) entry 50 inserted (1.2.2025) by [The Bovine Viral Diarrhoea Control Order (Northern Ireland) 2024 (S.R. 2024/226)](https://www.legislation.gov.uk/nisr/2024/226), [arts. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1), [4](https://www.legislation.gov.uk/nisr/2024/226/article/4)
+[^c-f12f940ad458ce655f0f909e61940c5e]: Textual amendment: [Sch. 1 Pt. III](https://www.legislation.gov.uk/nisi/1981/1115/schedule/1/part/III) entry 50 inserted (1.2.2025) by [The Bovine Viral Diarrhoea Control Order (Northern Ireland) 2024 (S.R. 2024/226)](https://www.legislation.gov.uk/nisr/2024/226), [arts. 1](https://www.legislation.gov.uk/nisr/2024/226/article/1), [4](https://www.legislation.gov.uk/nisr/2024/226/article/4)
 
 [^c16923681]: Textual amendment: SR 1993/43
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Pre-qualification technical competence[^key-fe32878e76a3b83299471e2f7f2cc3ec]
+## 5. Pre-qualification technical competence[^c-fe32878e76a3b83299471e2f7f2cc3ec]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ then, in relation to the facility in respect of which the application mentioned 
 
 ## Annotations
 
-[^key-fe32878e76a3b83299471e2f7f2cc3ec]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/493/regulation/5) substituted (5.12.2022) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/288)](https://www.legislation.gov.uk/nisr/2022/288), [regs. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2022/288/regulation/5/1)
+[^c-fe32878e76a3b83299471e2f7f2cc3ec]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/493/regulation/5) substituted (5.12.2022) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/288)](https://www.legislation.gov.uk/nisr/2022/288), [regs. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2022/288/regulation/5/1)

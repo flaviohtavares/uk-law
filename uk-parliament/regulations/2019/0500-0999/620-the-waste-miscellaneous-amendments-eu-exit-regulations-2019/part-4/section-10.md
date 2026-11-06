@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Commission Regulation (EU) No 493/2012 laying down detailed rules regarding the calculation of recycling efficiencies of the recycling processes of waste batteries and accumulators[^key-0b08dd27befd9152425adf63396c1454]
+## 10. Commission Regulation (EU) No 493/2012 laying down detailed rules regarding the calculation of recycling efficiencies of the recycling processes of waste batteries and accumulators[^c-0b08dd27befd9152425adf63396c1454]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,16 +31,16 @@ summary: ''
   >
   > (4B) “**disposal**” means any of the applicable operations provided for in Annex 1 to the Waste Framework Directive;
   >
-  > (4C) “**Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66)**” means Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66) of the European Parliament and of the Council on batteries and accumulators and waste batteries and accumulators, as last amended by Directive (EU) 2018/849[^key-3aaa371f814233486bfb0f41b0ab2ed3] of the European Parliament and of the Council;
+  > (4C) “**Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66)**” means Directive [2006/66/EC](https://www.legislation.gov.uk/eudr/2006/66) of the European Parliament and of the Council on batteries and accumulators and waste batteries and accumulators, as last amended by Directive (EU) 2018/849[^c-3aaa371f814233486bfb0f41b0ab2ed3] of the European Parliament and of the Council;
 
   ;
 - (c) after that paragraph, insert—
 
   > **2.**
   >
-  > In paragraph 1, “**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^key-190bdec1b9a9be3172f1c24613648f7d] , read in accordance with paragraphs 3 and 4.
+  > In paragraph 1, “**the Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^c-190bdec1b9a9be3172f1c24613648f7d] , read in accordance with paragraphs 3 and 4.
   >
-  > **3.[^key-6db11d991b621048ba4730d1bf3dc12d]**
+  > **3.[^c-6db11d991b621048ba4730d1bf3dc12d]**
   >
   > Article 5 is to be read as if—
   >
@@ -109,15 +109,15 @@ summary: ''
 >
 > **8.**
 >
-> In point 3, “**producer**” means any person [^key-fd33e447d4dd4f3428f8a9f57bf55bd2]... that, irrespective of the selling technique used, including by distance contract, places batteries or accumulators, including those incorporated into appliances or vehicles, on the market for the first time within Great Britain[^key-4c17d15c3d5fa8b3409dbd2f3487a762] on a professional basis.
+> In point 3, “**producer**” means any person [^c-fd33e447d4dd4f3428f8a9f57bf55bd2]... that, irrespective of the selling technique used, including by distance contract, places batteries or accumulators, including those incorporated into appliances or vehicles, on the market for the first time within Great Britain[^c-4c17d15c3d5fa8b3409dbd2f3487a762] on a professional basis.
 >
 > **9.**
 >
 > In point 8—
 >
-> - (a) “**appliance**” means any electrical or electronic equipment, as defined by Article 3(1)(a) of Directive 2012/19/EU of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE) as last amended by Directive (EU) 2018/849[^key-53e83cb3e02a17f66d9f4f3a7bd352c6] , which is fully or partly powered by batteries or accumulators or is capable of being so;
+> - (a) “**appliance**” means any electrical or electronic equipment, as defined by Article 3(1)(a) of Directive 2012/19/EU of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE) as last amended by Directive (EU) 2018/849[^c-53e83cb3e02a17f66d9f4f3a7bd352c6] , which is fully or partly powered by batteries or accumulators or is capable of being so;
 > - (b) “**distance contract**” has the meaning given in regulation 5 of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 [^c23656341];
-> - (c) “placing on the market' means supplying or making available, whether in return for payment or free of charge, to a third party within Great Britain[^key-ac65be34fd66a8436eb5bf02cb460336] and includes import into Great Britain.
+> - (c) “placing on the market' means supplying or making available, whether in return for payment or free of charge, to a third party within Great Britain[^c-ac65be34fd66a8436eb5bf02cb460336] and includes import into Great Britain.
 
 .
 
@@ -131,20 +131,20 @@ summary: ''
 
 ## Annotations
 
-[^key-0b08dd27befd9152425adf63396c1454]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-0b08dd27befd9152425adf63396c1454]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-3aaa371f814233486bfb0f41b0ab2ed3]: Textual amendment: Words in reg. 10(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/a)
+[^c-3aaa371f814233486bfb0f41b0ab2ed3]: Textual amendment: Words in reg. 10(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/a)
 
-[^key-190bdec1b9a9be3172f1c24613648f7d]: Textual amendment: Words in reg. 10(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/b/i)
+[^c-190bdec1b9a9be3172f1c24613648f7d]: Textual amendment: Words in reg. 10(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/b/i)
 
-[^key-6db11d991b621048ba4730d1bf3dc12d]: Textual amendment: Words in reg. 10(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/b/ii)
+[^c-6db11d991b621048ba4730d1bf3dc12d]: Textual amendment: Words in reg. 10(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/b/ii)
 
-[^key-fd33e447d4dd4f3428f8a9f57bf55bd2]: Textual amendment: Words in reg. 10(6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c/i/aa)
+[^c-fd33e447d4dd4f3428f8a9f57bf55bd2]: Textual amendment: Words in reg. 10(6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c/i/aa)
 
-[^key-4c17d15c3d5fa8b3409dbd2f3487a762]: Textual amendment: Words in reg. 10(6) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c/i/bb)
+[^c-4c17d15c3d5fa8b3409dbd2f3487a762]: Textual amendment: Words in reg. 10(6) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c/i/bb)
 
-[^key-53e83cb3e02a17f66d9f4f3a7bd352c6]: Textual amendment: Words in reg. 10(6) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c/ii)
+[^c-53e83cb3e02a17f66d9f4f3a7bd352c6]: Textual amendment: Words in reg. 10(6) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c/ii)
 
 [^c23656341]: Marginal citation: [S.I. 2013/3134](https://www.legislation.gov.uk/uksi/2013/3134), to which there are amendments not relevant to these Regulations.
 
-[^key-ac65be34fd66a8436eb5bf02cb460336]: Textual amendment: Words in reg. 10(6) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c/iii)
+[^c-ac65be34fd66a8436eb5bf02cb460336]: Textual amendment: Words in reg. 10(6) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(6)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/6/c/iii)

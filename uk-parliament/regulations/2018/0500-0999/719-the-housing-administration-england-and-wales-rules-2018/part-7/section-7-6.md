@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.6. Variations from prescribed contents[^key-9af2fc4e71d6669dca9e286297983540]
+## 7.6. Variations from prescribed contents[^c-9af2fc4e71d6669dca9e286297983540]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a rule sets out the required contents of a document, the document may depa
 
 ## Annotations
 
-[^key-9af2fc4e71d6669dca9e286297983540]: Commencement: Rule 7.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-9af2fc4e71d6669dca9e286297983540]: Commencement: Rule 7.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

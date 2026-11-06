@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80AE. Modification of regulation 80: Ukraine Family Scheme: first scenario[^key-44080e3cd510c0740950eacec3e6ff45]
+## 80AE. Modification of regulation 80: Ukraine Family Scheme: first scenario[^c-44080e3cd510c0740950eacec3e6ff45]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44080e3cd510c0740950eacec3e6ff45]: Textual amendment: [Reg. 80AE](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AE) inserted (3.3.2025) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2025 (S.I. 2025/138)](https://www.legislation.gov.uk/uksi/2025/138), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/138/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/138/regulation/9)
+[^c-44080e3cd510c0740950eacec3e6ff45]: Textual amendment: [Reg. 80AE](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AE) inserted (3.3.2025) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2025 (S.I. 2025/138)](https://www.legislation.gov.uk/uksi/2025/138), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/138/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/138/regulation/9)

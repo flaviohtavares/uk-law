@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Local development orders: removal of requirement to implement policies[^key-df55964a9b30cbb3b61e5edce141d734][^key-f7202ded8cac231d68b636ffa274017f]
+## 188. Local development orders: removal of requirement to implement policies[^c-df55964a9b30cbb3b61e5edce141d734][^c-f7202ded8cac231d68b636ffa274017f]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df55964a9b30cbb3b61e5edce141d734]: Commencement: S. 188 in force at 23.6.2009 for E. by [S.I. 2009/1303](https://www.legislation.gov.uk/uksi/2009/1303), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1303/article/2/a)
+[^c-df55964a9b30cbb3b61e5edce141d734]: Commencement: S. 188 in force at 23.6.2009 for E. by [S.I. 2009/1303](https://www.legislation.gov.uk/uksi/2009/1303), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1303/article/2/a)
 
-[^key-f7202ded8cac231d68b636ffa274017f]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2008/29/section/188) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/802/article/2/a)
+[^c-f7202ded8cac231d68b636ffa274017f]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2008/29/section/188) in force at 30.4.2012 for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/802/article/2/a)

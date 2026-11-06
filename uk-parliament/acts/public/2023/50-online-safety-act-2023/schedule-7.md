@@ -22,21 +22,21 @@ summary: ''
 
 Section 59
 
-### 1. Assisting suicide[^key-a1b83e5e38d6c9041334be6a0f188a45]
+### 1. Assisting suicide[^c-a1b83e5e38d6c9041334be6a0f188a45]
 
 An offence under section 2 of the Suicide Act 1961 (assisting suicide etc).
 
-**2.**[^key-2c2dc5d9e07805b478534622da62d44b] An offence under section 13 of the [Criminal Justice Act (Northern Ireland) 1966 (c. 20 (N.I.))](https://www.legislation.gov.uk/apni/1966/20) (assisting suicide etc).
+**2.**[^c-2c2dc5d9e07805b478534622da62d44b] An offence under section 13 of the [Criminal Justice Act (Northern Ireland) 1966 (c. 20 (N.I.))](https://www.legislation.gov.uk/apni/1966/20) (assisting suicide etc).
 
-### 2A. Encouraging or assisting serious self-harm[^key-0ba9afca9cb5f01f7e679b0967c9ec01]
+### 2A. Encouraging or assisting serious self-harm[^c-0ba9afca9cb5f01f7e679b0967c9ec01]
 
 An offence under section 184 of this Act (encouraging or assisting serious self-harm).
 
-### 3. Threats to kill[^key-c0f6b7946a226b6a7fab245df4e0b57d]
+### 3. Threats to kill[^c-c0f6b7946a226b6a7fab245df4e0b57d]
 
 An offence under section 16 of the Offences against the Person Act 1861 (threats to kill).
 
-### 4. Public order offences, harassment, stalking and fear or provocation of violence[^key-6e9ee891da4c6c18201fb1b92d0e92ca]
+### 4. Public order offences, harassment, stalking and fear or provocation of violence[^c-6e9ee891da4c6c18201fb1b92d0e92ca]
 
 An offence under any of the following provisions of the Public Order Act 1986—
 
@@ -44,7 +44,7 @@ An offence under any of the following provisions of the Public Order Act 1986—
 - (b) section 4A (intentional harassment, alarm or distress);
 - (c) section 5 (harassment, alarm or distress);
 
-**5.**[^key-3041bf6cdfd0a220e8cf24f291f2f7da] An offence under any of the following provisions of the Public Order Act 1986—
+**5.**[^c-3041bf6cdfd0a220e8cf24f291f2f7da] An offence under any of the following provisions of the Public Order Act 1986—
 
 - (a) section 18 (use of words or behaviour or display of written material);
 - (b) section 19 (publishing or distributing written material);
@@ -53,33 +53,33 @@ An offence under any of the following provisions of the Public Order Act 1986—
 - (e) section 29C (publishing or distributing written material);
 - (f) section 29E (distributing, showing or playing a recording).
 
-**6.**[^key-ba684d1fae20d20e82a075de63e3eddf] An offence under section 50A of the Criminal Law (Consolidation) (Scotland) Act 1995 (racially-aggravated harassment).
+**6.**[^c-ba684d1fae20d20e82a075de63e3eddf] An offence under section 50A of the Criminal Law (Consolidation) (Scotland) Act 1995 (racially-aggravated harassment).
 
-**7.**[^key-d3be11784bfc75515192ecd7657ae1b5] An offence under any of the following provisions of the Protection from Harassment Act 1997—
+**7.**[^c-d3be11784bfc75515192ecd7657ae1b5] An offence under any of the following provisions of the Protection from Harassment Act 1997—
 
 - (a) section 2 (harassment);
 - (b) section 2A (stalking);
 - (c) section 4 (putting people in fear of violence);
 - (d) section 4A (stalking involving fear of violence or serious alarm or distress).
 
-**8.**[^key-909e48dbb6afd2ae3b3e1b8e8869e9ff] An offence under any of the following provisions of the Protection from Harassment (Northern Ireland) Order 1997 ([S.I. 1997/1180 (N.I. 9)](https://www.legislation.gov.uk/nisi/1997/1180))—
+**8.**[^c-909e48dbb6afd2ae3b3e1b8e8869e9ff] An offence under any of the following provisions of the Protection from Harassment (Northern Ireland) Order 1997 ([S.I. 1997/1180 (N.I. 9)](https://www.legislation.gov.uk/nisi/1997/1180))—
 
 - (a) Article 4 (harassment);
 - (b) Article 6 (putting people in fear of violence).
 
-**9.**[^key-ad86c76f0c56f629e14540490a76c2fd] An offence under any of the following provisions of the Crime and Disorder Act 1998—
+**9.**[^c-ad86c76f0c56f629e14540490a76c2fd] An offence under any of the following provisions of the Crime and Disorder Act 1998—
 
 - (a) section 31 (racially or religiously aggravated public order offences);
 - (b) section 32 (racially or religiously aggravated harassment etc).
 
-**10.**[^key-e221eb7a7edb598463ece441a08ed511] An offence under any of the following provisions of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13)—
+**10.**[^c-e221eb7a7edb598463ece441a08ed511] An offence under any of the following provisions of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13)—
 
 - (a) section 38 (threatening or abusive behaviour);
 - (b) section 39 (stalking).
 
-**11.**[^key-d591da8196f0d25562e26d49fabad311] An offence under section 76 of the Serious Crime Act 2015 (controlling or coercive behaviour in an intimate or family relationship).
+**11.**[^c-d591da8196f0d25562e26d49fabad311] An offence under section 76 of the Serious Crime Act 2015 (controlling or coercive behaviour in an intimate or family relationship).
 
-### 12. Drugs and psychoactive substances[^key-1e721e822abafb934ff4a752227553a6]
+### 12. Drugs and psychoactive substances[^c-1e721e822abafb934ff4a752227553a6]
 
 An offence under any of the following provisions of the Misuse of Drugs Act 1971—
 
@@ -87,13 +87,13 @@ An offence under any of the following provisions of the Misuse of Drugs Act 1971
 - (b) section 9A (prohibition of supply etc of articles for administering or preparing controlled drugs);
 - (c) section 19 (inciting any other offence under that Act).
 
-**13.**[^key-15d1bdcbba3a81e8423a90a86f561445] An offence under section 5 of the Psychoactive Substances Act 2016 (supplying, or offering to supply, a psychoactive substance).
+**13.**[^c-15d1bdcbba3a81e8423a90a86f561445] An offence under section 5 of the Psychoactive Substances Act 2016 (supplying, or offering to supply, a psychoactive substance).
 
-### 14. Firearms and other weapons[^key-17212669d36dd92c7a04ad7423c58b9a]
+### 14. Firearms and other weapons[^c-17212669d36dd92c7a04ad7423c58b9a]
 
 An offence under section 1(1) or (2) of the Restriction of Offensive Weapons Act 1959 (sale etc of flick knife etc).
 
-**15.**[^key-d17869d58dd7c3f835e819886e086fd2] An offence under any of the following provisions of the Firearms Act 1968—
+**15.**[^c-d17869d58dd7c3f835e819886e086fd2] An offence under any of the following provisions of the Firearms Act 1968—
 
 - (a) section 1(1) (purchase etc of firearms or ammunition without certificate);
 - (b) section 2(1) (purchase etc of shot gun without certificate);
@@ -105,27 +105,27 @@ An offence under section 1(1) or (2) of the Restriction of Offensive Weapons Act
 - (h) section 24 (supplying firearms to minors);
 - (i) section 24A (supplying imitation firearms to minors).
 
-**16.**[^key-a8a553c2af74541562af11fa5cb53530] An offence under any of the following provisions of the Crossbows Act 1987—
+**16.**[^c-a8a553c2af74541562af11fa5cb53530] An offence under any of the following provisions of the Crossbows Act 1987—
 
 - (a) section 1 (sale and letting on hire of crossbow);
 - (b) section 2 (purchase and hiring of crossbow).
 
-**17.**[^key-b4f9c8c00bd2b3eca85a701745521f9c] An offence under any of the following provisions of the Criminal Justice Act 1988—
+**17.**[^c-b4f9c8c00bd2b3eca85a701745521f9c] An offence under any of the following provisions of the Criminal Justice Act 1988—
 
 - (a) section 141(1) or (4) (sale etc of offensive weapons);
 - (b) section 141A (sale of knives etc to persons under 18).
 
-**18.**[^key-9b3eb8b60c26cdbfdc86f0828ab1a696] An offence under any of the following provisions of the Criminal Justice (Northern Ireland) Order 1996 ([S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160))—
+**18.**[^c-9b3eb8b60c26cdbfdc86f0828ab1a696] An offence under any of the following provisions of the Criminal Justice (Northern Ireland) Order 1996 ([S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160))—
 
 - (a) Article 53 (sale etc of knives);
 - (b) Article 54 (sale of knives etc to minors).
 
-**19.**[^key-5fe492c7133255f101a5dad361ba83b8] An offence under any of the following provisions of the Knives Act 1997—
+**19.**[^c-5fe492c7133255f101a5dad361ba83b8] An offence under any of the following provisions of the Knives Act 1997—
 
 - (a) section 1 (unlawful marketing of knives);
 - (b) section 2 (publication of material in connection with marketing of knives).
 
-**20.**[^key-3d73c5327cada8747768409a97a8483f] An offence under any of the following provisions of the Firearms (Northern Ireland) Order 2004 ([S.I. 2004/702 (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702))—
+**20.**[^c-3d73c5327cada8747768409a97a8483f] An offence under any of the following provisions of the Firearms (Northern Ireland) Order 2004 ([S.I. 2004/702 (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702))—
 
 - (a) Article 24 (sale etc of firearms or ammunition without certificate);
 - (b) Article 37(1) (sale etc of firearms or ammunition to person without certificate etc);
@@ -133,56 +133,56 @@ An offence under section 1(1) or (2) of the Restriction of Offensive Weapons Act
 - (d) Article 63(8) (sale etc of firearms or ammunition to people who have been in prison etc);
 - (e) Article 66A (supplying imitation firearms to minors).
 
-**21.**[^key-5017d631a8657c2128347c2ccb3b17f7] An offence under section 36(1)(c) or (d) of the Violent Crime Reduction Act 2006 (sale etc of realistic imitation firearms).
+**21.**[^c-5017d631a8657c2128347c2ccb3b17f7] An offence under section 36(1)(c) or (d) of the Violent Crime Reduction Act 2006 (sale etc of realistic imitation firearms).
 
-**22.**[^key-07d1857581768cd5f24e351e9eaa5c6f] An offence under any of the following provisions of the Air Weapons and Licensing (Scotland) Act [2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10)—
+**22.**[^c-07d1857581768cd5f24e351e9eaa5c6f] An offence under any of the following provisions of the Air Weapons and Licensing (Scotland) Act [2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10)—
 
 - (a) section 2 (requirement for air weapon certificate);
 - (b) section 24 (restrictions on sale etc of air weapons).
 
-### 23. Assisting illegal immigration[^key-983ca0f51b0f5f2519e2e0036763e2a5]
+### 23. Assisting illegal immigration[^c-983ca0f51b0f5f2519e2e0036763e2a5]
 
 An offence under any of the following provisions of the Immigration Act 1971—
 
 - (a) section 24(A1), (B1), (C1) or (D1) (illegal entry and similar offences);
 - (b) section 25 (assisting unlawful immigration).
 
-### 24. Human trafficking[^key-1bea118870da56bc1f2253f23f152228]
+### 24. Human trafficking[^c-1bea118870da56bc1f2253f23f152228]
 
 An offence under section 2 of the Modern Slavery Act 2015 (human trafficking).
 
-**25.**[^key-fd851faa5d096fc39877229113b938ac] An offence under section 1 of the Human Trafficking and Exploitation (Scotland) Act [2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12) (human trafficking).
+**25.**[^c-fd851faa5d096fc39877229113b938ac] An offence under section 1 of the Human Trafficking and Exploitation (Scotland) Act [2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12) (human trafficking).
 
-**26.**[^key-c97b5d5471cb43bad9f8bf566d2a710d] An offence under section 2 of the [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2015/2) (human trafficking).
+**26.**[^c-c97b5d5471cb43bad9f8bf566d2a710d] An offence under section 2 of the [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2015/2) (human trafficking).
 
-### 27. Sexual exploitation[^key-c6972504d8f39369f6165794d0a41bf5]
+### 27. Sexual exploitation[^c-c6972504d8f39369f6165794d0a41bf5]
 
 An offence under any of the following provisions of the Sexual Offences Act 2003—
 
 - (a) section 52 (causing or inciting prostitution for gain);
 - (b) section 53 (controlling prostitution for gain).
 
-**28.**[^key-bb89e92a43214b97863aec8f4fe6cb0f] An offence under any of the following provisions of the Sexual Offences (Northern Ireland) Order 2008 ([S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769))—
+**28.**[^c-bb89e92a43214b97863aec8f4fe6cb0f] An offence under any of the following provisions of the Sexual Offences (Northern Ireland) Order 2008 ([S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769))—
 
 - (a) Article 62 (causing or inciting prostitution for gain);
 - (b) Article 63 (controlling prostitution for gain).
 
 ### Sexual images
 
-**28A.**[^key-491f325b8fcbe6e287dc1037c5b82b34] An offence under any of the following provisions of the Sexual Offences Act 2003—
+**28A.**[^c-491f325b8fcbe6e287dc1037c5b82b34] An offence under any of the following provisions of the Sexual Offences Act 2003—
 
 - (a) section 66A (sending etc photograph or film of genitals);
 - (b) section 66B (sharing or threatening to share intimate photograph or film).
-- (c)[^key-f98a5df1a86a0d6f2c43a2e0265d8190] section 66E (creating purported intimate image of adult);
+- (c)[^c-f98a5df1a86a0d6f2c43a2e0265d8190] section 66E (creating purported intimate image of adult);
 - (d) section 66F (requesting the creation of purported intimate image of adult).
 
-**29.**[^key-89a00f61162329ebd38fdfca9da80ae0] An offence under section 63 of the Criminal Justice and Immigration Act 2008 (possession of extreme pornographic images).
+**29.**[^c-89a00f61162329ebd38fdfca9da80ae0] An offence under section 63 of the Criminal Justice and Immigration Act 2008 (possession of extreme pornographic images).
 
-**30.**[^key-3132f674cd1473b82af76c39f9517971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-3132f674cd1473b82af76c39f9517971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-23779dd8d997ab31c45b056b682fa845] An offence under section 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act [2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22) (disclosing, or threatening to disclose, an intimate photograph or film).
+**31.**[^c-23779dd8d997ab31c45b056b682fa845] An offence under section 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act [2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22) (disclosing, or threatening to disclose, an intimate photograph or film).
 
-### 32. Proceeds of crime[^key-7e39022e1e9d7f4443f547d47d6554b7]
+### 32. Proceeds of crime[^c-7e39022e1e9d7f4443f547d47d6554b7]
 
 An offence under any of the following provisions of the Proceeds of Crime Act 2002—
 
@@ -190,7 +190,7 @@ An offence under any of the following provisions of the Proceeds of Crime Act 20
 - (b) section 328 (arrangements facilitating acquisition etc of criminal property);
 - (c) section 329 (acquisition, use and possession of criminal property).
 
-### 33. Fraud[^key-074ff746a804efcc5968682416443810]
+### 33. Fraud[^c-074ff746a804efcc5968682416443810]
 
 An offence under any of the following provisions of the Fraud Act 2006—
 
@@ -199,9 +199,9 @@ An offence under any of the following provisions of the Fraud Act 2006—
 - (c) section 7 (making or supplying articles for use in frauds);
 - (d) section 9 (participating in fraudulent business carried on by sole trader etc).
 
-**34.**[^key-c6c3ecf195e409b3b357bd83687c5c0b] An offence under section 49(3) of the Criminal Justice and Licensing (Scotland) Act 2010 (articles for use in fraud).
+**34.**[^c-c6c3ecf195e409b3b357bd83687c5c0b] An offence under section 49(3) of the Criminal Justice and Licensing (Scotland) Act 2010 (articles for use in fraud).
 
-### 35. Financial services[^key-ceaeb46bbf7df14a637538c35ec019cc]
+### 35. Financial services[^c-ceaeb46bbf7df14a637538c35ec019cc]
 
 An offence under any of the following provisions of the Financial Services and Markets Act 2000—
 
@@ -209,20 +209,20 @@ An offence under any of the following provisions of the Financial Services and M
 - (b) section 24 (false claims to be authorised or exempt);
 - (c) section 25 (contravention of restrictions on financial promotion).
 
-**36.**[^key-6c3fc5b871126a54ec32a18de48f9cb6] An offence under any of the following provisions of the Financial Services Act 2012—
+**36.**[^c-6c3fc5b871126a54ec32a18de48f9cb6] An offence under any of the following provisions of the Financial Services Act 2012—
 
 - (a) section 89 (misleading statements);
 - (b) section 90 (misleading impressions).
 
-### 37. Foreign interference[^key-3b4e9635023d9d8c6578a706dfda59c2]
+### 37. Foreign interference[^c-3b4e9635023d9d8c6578a706dfda59c2]
 
 An offence under section 13 of the National Security Act 2023 (foreign interference).
 
-### 38. Animal welfare[^key-95ee63207cd5ffecbbf2ff891e9575e7]
+### 38. Animal welfare[^c-95ee63207cd5ffecbbf2ff891e9575e7]
 
 An offence under section 4(1) of the Animal Welfare Act 2006 (unnecessary suffering of an animal).
 
-### 39. Inchoate offences[^key-f831bb9ec2d993cf9aaf786136976cb1]
+### 39. Inchoate offences[^c-f831bb9ec2d993cf9aaf786136976cb1]
 
 (1) An offence of attempting or conspiring to commit an offence specified in this Schedule.
 
@@ -232,86 +232,86 @@ An offence under section 4(1) of the Animal Welfare Act 2006 (unnecessary suffer
 
 ## Annotations
 
-[^key-a1b83e5e38d6c9041334be6a0f188a45]: Commencement: Sch. 7 para. 1 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-a1b83e5e38d6c9041334be6a0f188a45]: Commencement: Sch. 7 para. 1 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-2c2dc5d9e07805b478534622da62d44b]: Commencement: Sch. 7 para. 2 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-2c2dc5d9e07805b478534622da62d44b]: Commencement: Sch. 7 para. 2 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-0ba9afca9cb5f01f7e679b0967c9ec01]: Textual amendment: [Sch. 7 para. 2A](https://www.legislation.gov.uk/ukpga/2023/50/schedule/7/paragraph/2A) inserted (8.1.2026) by [The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2025 (S.I. 2025/1352)](https://www.legislation.gov.uk/uksi/2025/1352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/2/2)
+[^c-0ba9afca9cb5f01f7e679b0967c9ec01]: Textual amendment: [Sch. 7 para. 2A](https://www.legislation.gov.uk/ukpga/2023/50/schedule/7/paragraph/2A) inserted (8.1.2026) by [The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2025 (S.I. 2025/1352)](https://www.legislation.gov.uk/uksi/2025/1352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/2/2)
 
-[^key-c0f6b7946a226b6a7fab245df4e0b57d]: Commencement: Sch. 7 para. 3 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-c0f6b7946a226b6a7fab245df4e0b57d]: Commencement: Sch. 7 para. 3 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-6e9ee891da4c6c18201fb1b92d0e92ca]: Commencement: Sch. 7 para. 4 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-6e9ee891da4c6c18201fb1b92d0e92ca]: Commencement: Sch. 7 para. 4 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-3041bf6cdfd0a220e8cf24f291f2f7da]: Commencement: Sch. 7 para. 5 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-3041bf6cdfd0a220e8cf24f291f2f7da]: Commencement: Sch. 7 para. 5 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-ba684d1fae20d20e82a075de63e3eddf]: Commencement: Sch. 7 para. 6 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-ba684d1fae20d20e82a075de63e3eddf]: Commencement: Sch. 7 para. 6 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-d3be11784bfc75515192ecd7657ae1b5]: Commencement: Sch. 7 para. 7 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-d3be11784bfc75515192ecd7657ae1b5]: Commencement: Sch. 7 para. 7 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-909e48dbb6afd2ae3b3e1b8e8869e9ff]: Commencement: Sch. 7 para. 8 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-909e48dbb6afd2ae3b3e1b8e8869e9ff]: Commencement: Sch. 7 para. 8 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-ad86c76f0c56f629e14540490a76c2fd]: Commencement: Sch. 7 para. 9 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-ad86c76f0c56f629e14540490a76c2fd]: Commencement: Sch. 7 para. 9 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-e221eb7a7edb598463ece441a08ed511]: Commencement: Sch. 7 para. 10 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-e221eb7a7edb598463ece441a08ed511]: Commencement: Sch. 7 para. 10 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-d591da8196f0d25562e26d49fabad311]: Commencement: Sch. 7 para. 11 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-d591da8196f0d25562e26d49fabad311]: Commencement: Sch. 7 para. 11 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-1e721e822abafb934ff4a752227553a6]: Commencement: Sch. 7 para. 12 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-1e721e822abafb934ff4a752227553a6]: Commencement: Sch. 7 para. 12 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-15d1bdcbba3a81e8423a90a86f561445]: Commencement: Sch. 7 para. 13 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-15d1bdcbba3a81e8423a90a86f561445]: Commencement: Sch. 7 para. 13 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-17212669d36dd92c7a04ad7423c58b9a]: Commencement: Sch. 7 para. 14 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-17212669d36dd92c7a04ad7423c58b9a]: Commencement: Sch. 7 para. 14 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-d17869d58dd7c3f835e819886e086fd2]: Commencement: Sch. 7 para. 15 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-d17869d58dd7c3f835e819886e086fd2]: Commencement: Sch. 7 para. 15 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-a8a553c2af74541562af11fa5cb53530]: Commencement: Sch. 7 para. 16 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-a8a553c2af74541562af11fa5cb53530]: Commencement: Sch. 7 para. 16 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-b4f9c8c00bd2b3eca85a701745521f9c]: Commencement: Sch. 7 para. 17 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-b4f9c8c00bd2b3eca85a701745521f9c]: Commencement: Sch. 7 para. 17 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-9b3eb8b60c26cdbfdc86f0828ab1a696]: Commencement: Sch. 7 para. 18 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-9b3eb8b60c26cdbfdc86f0828ab1a696]: Commencement: Sch. 7 para. 18 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-5fe492c7133255f101a5dad361ba83b8]: Commencement: Sch. 7 para. 19 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-5fe492c7133255f101a5dad361ba83b8]: Commencement: Sch. 7 para. 19 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-3d73c5327cada8747768409a97a8483f]: Commencement: Sch. 7 para. 20 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-3d73c5327cada8747768409a97a8483f]: Commencement: Sch. 7 para. 20 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-5017d631a8657c2128347c2ccb3b17f7]: Commencement: Sch. 7 para. 21 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-5017d631a8657c2128347c2ccb3b17f7]: Commencement: Sch. 7 para. 21 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-07d1857581768cd5f24e351e9eaa5c6f]: Commencement: Sch. 7 para. 22 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-07d1857581768cd5f24e351e9eaa5c6f]: Commencement: Sch. 7 para. 22 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-983ca0f51b0f5f2519e2e0036763e2a5]: Commencement: Sch. 7 para. 23 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-983ca0f51b0f5f2519e2e0036763e2a5]: Commencement: Sch. 7 para. 23 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-1bea118870da56bc1f2253f23f152228]: Commencement: Sch. 7 para. 24 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-1bea118870da56bc1f2253f23f152228]: Commencement: Sch. 7 para. 24 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-fd851faa5d096fc39877229113b938ac]: Commencement: Sch. 7 para. 25 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-fd851faa5d096fc39877229113b938ac]: Commencement: Sch. 7 para. 25 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-c97b5d5471cb43bad9f8bf566d2a710d]: Commencement: Sch. 7 para. 26 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-c97b5d5471cb43bad9f8bf566d2a710d]: Commencement: Sch. 7 para. 26 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-c6972504d8f39369f6165794d0a41bf5]: Commencement: Sch. 7 para. 27 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-c6972504d8f39369f6165794d0a41bf5]: Commencement: Sch. 7 para. 27 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-bb89e92a43214b97863aec8f4fe6cb0f]: Commencement: Sch. 7 para. 28 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-bb89e92a43214b97863aec8f4fe6cb0f]: Commencement: Sch. 7 para. 28 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-491f325b8fcbe6e287dc1037c5b82b34]: Textual amendment: Sch. 7 para. 28A substituted (8.1.2026) by [The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2025 (S.I. 2025/1352)](https://www.legislation.gov.uk/uksi/2025/1352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/2/3)
+[^c-491f325b8fcbe6e287dc1037c5b82b34]: Textual amendment: Sch. 7 para. 28A substituted (8.1.2026) by [The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2025 (S.I. 2025/1352)](https://www.legislation.gov.uk/uksi/2025/1352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/2/3)
 
-[^key-f98a5df1a86a0d6f2c43a2e0265d8190]: Textual amendment: Sch. 7 para. 28A(c)(d) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2026/20/schedule/13/paragraph/24); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z9)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z9)
+[^c-f98a5df1a86a0d6f2c43a2e0265d8190]: Textual amendment: Sch. 7 para. 28A(c)(d) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2026/20/schedule/13/paragraph/24); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z9)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z9)
 
-[^key-89a00f61162329ebd38fdfca9da80ae0]: Commencement: Sch. 7 para. 29 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-89a00f61162329ebd38fdfca9da80ae0]: Commencement: Sch. 7 para. 29 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-3132f674cd1473b82af76c39f9517971]: Textual amendment: [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2023/50/schedule/7/paragraph/30) omitted (10.12.2024) by virtue of [The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2024 (S.I. 2024/1188)](https://www.legislation.gov.uk/uksi/2024/1188), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1188/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1188/regulation/2/3)
+[^c-3132f674cd1473b82af76c39f9517971]: Textual amendment: [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2023/50/schedule/7/paragraph/30) omitted (10.12.2024) by virtue of [The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2024 (S.I. 2024/1188)](https://www.legislation.gov.uk/uksi/2024/1188), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1188/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1188/regulation/2/3)
 
-[^key-23779dd8d997ab31c45b056b682fa845]: Commencement: Sch. 7 para. 31 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-23779dd8d997ab31c45b056b682fa845]: Commencement: Sch. 7 para. 31 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-7e39022e1e9d7f4443f547d47d6554b7]: Commencement: Sch. 7 para. 32 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-7e39022e1e9d7f4443f547d47d6554b7]: Commencement: Sch. 7 para. 32 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-074ff746a804efcc5968682416443810]: Commencement: Sch. 7 para. 33 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-074ff746a804efcc5968682416443810]: Commencement: Sch. 7 para. 33 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-c6c3ecf195e409b3b357bd83687c5c0b]: Commencement: Sch. 7 para. 34 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-c6c3ecf195e409b3b357bd83687c5c0b]: Commencement: Sch. 7 para. 34 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-ceaeb46bbf7df14a637538c35ec019cc]: Commencement: Sch. 7 para. 35 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-ceaeb46bbf7df14a637538c35ec019cc]: Commencement: Sch. 7 para. 35 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-6c3fc5b871126a54ec32a18de48f9cb6]: Commencement: Sch. 7 para. 36 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-6c3fc5b871126a54ec32a18de48f9cb6]: Commencement: Sch. 7 para. 36 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-3b4e9635023d9d8c6578a706dfda59c2]: Commencement: Sch. 7 para. 37 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-3b4e9635023d9d8c6578a706dfda59c2]: Commencement: Sch. 7 para. 37 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-95ee63207cd5ffecbbf2ff891e9575e7]: Commencement: Sch. 7 para. 38 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-95ee63207cd5ffecbbf2ff891e9575e7]: Commencement: Sch. 7 para. 38 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-f831bb9ec2d993cf9aaf786136976cb1]: Commencement: Sch. 7 para. 39 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-f831bb9ec2d993cf9aaf786136976cb1]: Commencement: Sch. 7 para. 39 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

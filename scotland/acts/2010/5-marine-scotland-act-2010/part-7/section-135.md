@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 135. Power to enter and inspect premises[^key-4ad735cac1087bdecf3aae7c4ec63785]
+## 135. Power to enter and inspect premises[^c-4ad735cac1087bdecf3aae7c4ec63785]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ad735cac1087bdecf3aae7c4ec63785]: Commencement: [S. 135](https://www.legislation.gov.uk/asp/2010/5/section/135) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-4ad735cac1087bdecf3aae7c4ec63785]: Commencement: [S. 135](https://www.legislation.gov.uk/asp/2010/5/section/135) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

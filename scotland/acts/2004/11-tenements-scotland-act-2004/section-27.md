@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Meaning of “management scheme”[^key-c232e85fbf88eb7ffca3d32ccd123b74]
+## 27. Meaning of “management scheme”[^c-c232e85fbf88eb7ffca3d32ccd123b74]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ References in this Act to the management scheme which applies as respects any te
 
 ## Annotations
 
-[^key-c232e85fbf88eb7ffca3d32ccd123b74]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2004/11/section/27) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-c232e85fbf88eb7ffca3d32ccd123b74]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2004/11/section/27) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

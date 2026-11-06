@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 153. Assets discovered after discharge of trustee: notice[^key-53d61888b84a1f4e6baa8d3a62b2023a]
+## 153. Assets discovered after discharge of trustee: notice[^c-53d61888b84a1f4e6baa8d3a62b2023a]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53d61888b84a1f4e6baa8d3a62b2023a]: Commencement: [S. 153](https://www.legislation.gov.uk/asp/2016/21/section/153) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-53d61888b84a1f4e6baa8d3a62b2023a]: Commencement: [S. 153](https://www.legislation.gov.uk/asp/2016/21/section/153) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

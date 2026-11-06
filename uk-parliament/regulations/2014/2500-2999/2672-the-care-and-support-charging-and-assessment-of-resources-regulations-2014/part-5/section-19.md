@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Income treated as capital[^key-a12392a5f53dd491aabd61116f13d743]
+## 19. Income treated as capital[^c-a12392a5f53dd491aabd61116f13d743]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a12392a5f53dd491aabd61116f13d743]: Commencement: Reg. 19 in force at 1.4.2015 in accordance with reg. 1
+[^c-a12392a5f53dd491aabd61116f13d743]: Commencement: Reg. 19 in force at 1.4.2015 in accordance with reg. 1

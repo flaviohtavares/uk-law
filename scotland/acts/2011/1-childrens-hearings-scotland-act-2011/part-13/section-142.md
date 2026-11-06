@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Review of determination that person be deemed a relevant person[^key-a93a525705fb71b9f6d60eabdfeaf406]
+## 142. Review of determination that person be deemed a relevant person[^c-a93a525705fb71b9f6d60eabdfeaf406]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) an individual is deemed to be a relevant person by virtue of section 81, and
 - (c) it appears to the children's hearing that the individual may no longer have (nor recently have had) a significant involvement in the upbringing of the child.
 
-(1A)[^key-9f8bedd2703f47c0aeecb22dec0fde4e] But this section does not apply where the matter of whether the individual should continue to be deemed to be a relevant person in relation to the child—
+(1A)[^c-9f8bedd2703f47c0aeecb22dec0fde4e] But this section does not apply where the matter of whether the individual should continue to be deemed to be a relevant person in relation to the child—
 
 - (a) has been determined by a meeting of a pre-hearing panel held in relation to the children's hearing, or
 - (b) is, by virtue of section 80(3), to be determined by the children's hearing.
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a93a525705fb71b9f6d60eabdfeaf406]: Commencement: S. 142 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-a93a525705fb71b9f6d60eabdfeaf406]: Commencement: S. 142 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-9f8bedd2703f47c0aeecb22dec0fde4e]: Textual amendment: S. 142(1A) inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(7)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/7); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-9f8bedd2703f47c0aeecb22dec0fde4e]: Textual amendment: S. 142(1A) inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(7)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/7); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

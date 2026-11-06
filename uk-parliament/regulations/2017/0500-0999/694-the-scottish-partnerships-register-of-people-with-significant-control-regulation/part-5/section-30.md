@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies where an eligible Scottish partnership has issued a restrictions notice under paragraph 1 of Schedule 2.
 
-(2)[^key-69f138c2e60dd615072a6e3791c92b32] The eligible Scottish partnership must within the period of 14 days beginning with the day on which it issues the restrictions notice deliver to the registrar a statement that it has issued a restrictions notice under paragraph 1 of Schedule 2.
+(2)[^c-69f138c2e60dd615072a6e3791c92b32] The eligible Scottish partnership must within the period of 14 days beginning with the day on which it issues the restrictions notice deliver to the registrar a statement that it has issued a restrictions notice under paragraph 1 of Schedule 2.
 
 (3) Where the eligible Scottish partnership withdraws the restrictions notice under paragraph 10 of Schedule 2, the eligible Scottish partnership must deliver to the registrar a statement—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69f138c2e60dd615072a6e3791c92b32]: Modification: [Reg. 30(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/30/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [33](https://www.legislation.gov.uk/uksi/2020/645/regulation/33)
+[^c-69f138c2e60dd615072a6e3791c92b32]: Modification: [Reg. 30(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/30/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [33](https://www.legislation.gov.uk/uksi/2020/645/regulation/33)

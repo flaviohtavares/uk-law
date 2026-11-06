@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Cancellation of warrants[^key-9cb4076127d31a46c1642d6acc75b637]
+## 218. Cancellation of warrants[^c-9cb4076127d31a46c1642d6acc75b637]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cb4076127d31a46c1642d6acc75b637]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2016/25/section/218) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
+[^c-9cb4076127d31a46c1642d6acc75b637]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2016/25/section/218) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)

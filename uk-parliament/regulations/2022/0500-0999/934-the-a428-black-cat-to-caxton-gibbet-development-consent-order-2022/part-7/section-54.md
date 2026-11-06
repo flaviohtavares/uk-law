@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Works in the River Great Ouse[^key-af280e6d308844dc240731dd2439fdc0]
+## 54. Works in the River Great Ouse[^c-af280e6d308844dc240731dd2439fdc0]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ and must include an explanation of the need for the proposed suspension or perio
 
 ## Annotations
 
-[^key-af280e6d308844dc240731dd2439fdc0]: Commencement: Art. 54 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-af280e6d308844dc240731dd2439fdc0]: Commencement: Art. 54 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

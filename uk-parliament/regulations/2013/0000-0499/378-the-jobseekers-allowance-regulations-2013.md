@@ -93,7 +93,7 @@ A draft of these Regulations has been laid before Parliament in accordance with 
   | 40 to 59 | Wednesday |
   | 60 to 79 | Thursday |
   | 80 to 99 | Friday; |
-- “[^key-84425b886546b7d23c015bebe45b48ab]**carer support payment**” means the carer support payment component of carer support[^key-9036fea3f61e4bddd08e4aa8dc9e67b2] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- “[^c-84425b886546b7d23c015bebe45b48ab]**carer support payment**” means the carer support payment component of carer support[^c-9036fea3f61e4bddd08e4aa8dc9e67b2] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
 - “**Claims and Payments Regulations 2013**” means the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013[^c21674851];
 - “**close relative**” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister or, if any of the preceding persons is one member of a couple, the other member of that couple;
 - “**date of claim**” means the date on which the claimant makes, or is treated as making, a claim for a jobseeker's allowance for the purposes of—
@@ -102,28 +102,28 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 - “earnings”, for the purposes of section 35(3) of the Act, has the meaning specified—
   - (a) in the case of an employed earner, in regulation 58; or
   - (b) in the case of a self-employed earner, in regulation 60;
-- “first year of training” means a period of one year beginning with a person’s first day of training.[^key-da835094655d6374784d8a37c154ddd4]
+- “first year of training” means a period of one year beginning with a person’s first day of training.[^c-da835094655d6374784d8a37c154ddd4]
 - “**Health Service Act**” means the National Health Service Act 2006 [^c21674871];
 - “**Health Service (Wales) Act**” means the National Health Service (Wales) Act 2006 [^c21674881];
 - “**maternity leave**” means a period during which a woman is absent from work because she is pregnant or has given birth to a child, and at the end of which she has a right to return to work either under the terms of her contract of employment or under Part 8 of the Employment Rights Act 1996 [^c21674891];
-- “[^key-556ab2e70444fb52583720bc15ef3035]**neonatal care leave**” means a period of absence from work on leave by virtue of section 80EF of the Employment Rights Act 1996;
+- “[^c-556ab2e70444fb52583720bc15ef3035]**neonatal care leave**” means a period of absence from work on leave by virtue of section 80EF of the Employment Rights Act 1996;
 - “**net earnings**” means such earnings as are calculated in accordance with regulation 59;
 - “**net profit**” means such profit as is calculated in accordance with regulation 61;
 - “**occupational pension**” means any pension or other periodical payment under an occupational pension scheme but does not include any discretionary payment out of a fund established for relieving hardship in particular cases;
 - “**partner**” means, where a claimant—
   - (a) is a member of a couple, the other member of that couple;
   - (b) is married polygamously to two or more members of the claimant's household, any such member;
-- “parental bereavement leave” means a period of absence from work on leave by virtue of section 80EA of the Employment Rights Act 1996;[^key-0637d11beaed2b06642d745d348185aa]
+- “parental bereavement leave” means a period of absence from work on leave by virtue of section 80EA of the Employment Rights Act 1996;[^c-0637d11beaed2b06642d745d348185aa]
 - “**paternity leave**” means a period of absence from work on leave by virtue of section 80A or 80B of the Employment Rights Act 1996 [^c21674901];
 - “**payment**” includes a part of a payment;
 - “**remunerative work**” has the meaning prescribed in regulation 42(1);
-- “Scottish basic rate” means the rate of income tax of that name calculated in accordance with section 6A of the Income Tax Act 2007;[^key-6b13a3d482d68d4938d1926d5c97a897]
+- “Scottish basic rate” means the rate of income tax of that name calculated in accordance with section 6A of the Income Tax Act 2007;[^c-6b13a3d482d68d4938d1926d5c97a897]
 - “Scottish taxpayer” has the same meaning as in Chapter 2 of Part 4A of the Scotland Act 1998;
 - “**self-employed earner**” is to be construed in accordance with section 2(1)(b) of the Benefits Act;
-- “shared parental leave” means a period of absence from work on leave by virtue of section 75E or 75G of the Employment Rights Act 1996;[^key-2221aaf3351fc6ec0effae4e127804dd]
+- “shared parental leave” means a period of absence from work on leave by virtue of section 75E or 75G of the Employment Rights Act 1996;[^c-2221aaf3351fc6ec0effae4e127804dd]
 - “**sports award**” means an award made by one of the Sports Councils named in section 23(2) of the National Lottery etc. Act 1993 [^c21674911] out of sums allocated to it for distribution under that section;
 - “**training allowance**” means an allowance (whether by way of periodical grants or otherwise) payable—
-  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise, Highlands and Islands Enterprise[^key-003187c99f7df543400e556ad2665ff9]... or the Welsh Ministers;
+  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise, Highlands and Islands Enterprise[^c-003187c99f7df543400e556ad2665ff9]... or the Welsh Ministers;
   - (b) to a person for their maintenance or in respect of the maintenance of a member of their family; and
   - (c) for the period, or part of the period, during which the person is following a course of training or instruction provided by, or in pursuance of arrangements made with, that department or approved by that department in relation to them or provided or approved by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise, Highlands and Islands Enterprise or the Welsh Ministers,
 
@@ -144,23 +144,23 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 
 (3) A person of a prescribed description for the purposes of the definition of “family” in section 35(1) of the Act [^c21674961] is a young person.
 
-(4)[^key-3be10fb2759f7c85952bfe1fdfc9c0cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3be10fb2759f7c85952bfe1fdfc9c0cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this regulation, “**polygamous marriage**” means any marriage during the subsistence of which a party to it is married to more than one person and the ceremony of marriage took place under the law of a country which permits polygamy.
 
-(6) References in these Regulations to a person participating as a service user are to[^key-a3a3195a3e5bb0ad2667f6a0601bb51a]...—
+(6) References in these Regulations to a person participating as a service user are to[^c-a3a3195a3e5bb0ad2667f6a0601bb51a]...—
 
 - (a) a person who is being consulted by or on behalf of—
   - (i) a body which has a statutory duty to provide services in the field of health, social care or social housing; or
   - (ii) a body which conducts research or undertakes monitoring for the purpose of planning or improving such services,
 
   in the person's capacity as a user, potential user, carer of a user or person otherwise affected by the provision of those services; or
-- (ab)[^key-05ef8455921a379cddc7c0e90ce658a1] a person who is being consulted by or on behalf of—
+- (ab)[^c-05ef8455921a379cddc7c0e90ce658a1] a person who is being consulted by or on behalf of—
   - (i) the Secretary of State in relation to any of the Secretary of State’s functions in the field of social security or child support or under section 2 of the Employment and Training Act 1973; or
   - (ii) a body which conducts research or undertakes monitoring for the purpose of planning or improving such functions,
 
   in their capacity as a person affected or potentially affected by the exercise of those functions or the carer of such a person;
-- (b) the carer of a person consulted under sub-paragraphs (a) or (ab)[^key-a132fc0e3fc17430585c89f412e379c3].
+- (b) the carer of a person consulted under sub-paragraphs (a) or (ab)[^c-a132fc0e3fc17430585c89f412e379c3].
 
 (7) In these Regulations, references to obtaining paid work includes obtaining more paid work or obtaining better-paid work.
 
@@ -323,13 +323,13 @@ A claimant is to be treated as not having complied with a work search requiremen
 (3) Where a claimant has previously carried out work of a particular nature, or at a particular level of remuneration, a work search requirement and a work availability requirement must be limited to work of a similar nature, or level of remuneration, for such period as the Secretary of State considers appropriate; but
 
 - (a) only if the Secretary of State is satisfied that the claimant will have reasonable prospects of obtaining paid work in spite of such limitation; and
-- (b) the limitation is to apply for no more than 4 weeks[^key-39761655ecdc73a5faec89dea7a16b87] beginning on the date of claim.
+- (b) the limitation is to apply for no more than 4 weeks[^c-39761655ecdc73a5faec89dea7a16b87] beginning on the date of claim.
 
 (4) Where a claimant has a physical or mental impairment that has a substantial adverse effect on the claimant's ability to carry out work of a particular nature, or in particular locations, a work search requirement or work availability requirement must not relate to work of such a nature or in such locations.
 
 (5) In the case of a claimant who is a relevant carer or a responsible carer or has a physical or mental impairment, a work search and work availability requirement must be limited to the number of hours that is determined to be the claimant's expected number of hours per week in accordance with regulation 9(2).
 
-### 15. Victims of domestic violence[^key-4741fa1a1bd878c43e55115dcc6564b3]
+### 15. Victims of domestic violence[^c-4741fa1a1bd878c43e55115dcc6564b3]
 
 (1) Where a claimant has recently been a victim of domestic violence and the circumstances set out in paragraph (3) apply—
 
@@ -355,7 +355,7 @@ A claimant is to be treated as not having complied with a work search requiremen
 
 (5) In this regulation—
 
-- “coercive behaviour” means an act of assault, humiliation or intimidation or other abuse that is used to harm, punish or frighten the victim;[^key-7a8ca2a3921efe404d025e1c58b1a046]
+- “coercive behaviour” means an act of assault, humiliation or intimidation or other abuse that is used to harm, punish or frighten the victim;[^c-7a8ca2a3921efe404d025e1c58b1a046]
 - “controlling behaviour” means an act designed to make a person subordinate or dependent by isolating them from sources of support, exploiting their resources and capacities for personal gain, depriving them of the means needed for independence, resistance or escape or regulating their everyday behaviour;
 - “domestic violence” means any incident, or pattern of incidents, of controlling behaviour, coercive behaviour, violence or abuse, including but not limited to—
   - (a) psychological abuse;
@@ -368,19 +368,19 @@ A claimant is to be treated as not having complied with a work search requiremen
 - “**health care professional**” means a person who is a member of a profession regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c21675041];
 - “**person acting in an official capacity**” means a health care professional, a police officer, a registered social worker, the claimant's employer, a representative of the claimant's trade union or any public, voluntary or charitable body which has had direct contact with the claimant in connection with domestic violence;
 - “**registered social worker**” means a person registered as a social worker in a register maintained by—
-  - (a) Social Work England;[^key-11f7bc65b511f8619c6301341c2a1db0]
-  - (b) Social Care Wales;[^key-7b8d0476a645738438400a146475c51a]
+  - (a) Social Work England;[^c-11f7bc65b511f8619c6301341c2a1db0]
+  - (b) Social Care Wales;[^c-7b8d0476a645738438400a146475c51a]
   - (c) the Scottish Social Services Council; or
   - (d) the Northern Ireland Social Care Council.
 
 ### 16. Circumstances in which requirements must not be imposed
 
-(1) Where paragraph (3), (4), (5) or (5B)[^key-2971f538e8ae0b5cc2b22c70cedb6b36] applies—
+(1) Where paragraph (3), (4), (5) or (5B)[^c-2971f538e8ae0b5cc2b22c70cedb6b36] applies—
 
 - (a) the Secretary of State must not impose a work search requirement on a claimant; and
 - (b) “able and willing immediately to take up work” under a work availability requirement means able and willing to take up paid work, or attend an interview, immediately once the circumstances set out in paragraph (3), (4), (5) or (5B) no longer apply.
 
-(2) A work search requirement previously applying to the claimant ceases to have effect from the date on which the circumstances set out in paragraph (3), (4), (5) or (5B)[^key-ee37659863de8d6ed64e71cdd358b124] apply.
+(2) A work search requirement previously applying to the claimant ceases to have effect from the date on which the circumstances set out in paragraph (3), (4), (5) or (5B)[^c-ee37659863de8d6ed64e71cdd358b124] apply.
 
 (3) This paragraph applies where—
 
@@ -410,9 +410,9 @@ A claimant is to be treated as not having complied with a work search requiremen
   - (ii) on no more than two such periods in any period of 12 months; and
 - (b) provides to the Secretary of State the following evidence—
   - (i) for the first seven days when they are unfit for work, a declaration made by the claimant in such manner and form as the Secretary of State approves that the claimant is unfit for work; and
-  - (ii) for any further days when they are unfit for work, a statement given [^key-a2860ac9250a6375900d7da82649f1b1]... in accordance with the rules set out in Part 1 of Schedule 1 to the Social Security (Medical Evidence) Regulations 1976 [^c21675061] which advises that the person is not fit for work.
+  - (ii) for any further days when they are unfit for work, a statement given [^c-a2860ac9250a6375900d7da82649f1b1]... in accordance with the rules set out in Part 1 of Schedule 1 to the Social Security (Medical Evidence) Regulations 1976 [^c21675061] which advises that the person is not fit for work.
 
-(5A)[^key-292973c77697db209b3a44da3a295b4a] Paragraph (5) does not apply to a claimant—
+(5A)[^c-292973c77697db209b3a44da3a295b4a] Paragraph (5) does not apply to a claimant—
 
 - (a) if it has previously been determined on the basis of an assessment under Part 5 of the Universal Credit Regulations 2013 or Part 4 or 5 of the Employment and Support Allowance Regulations 2013 that the claimant does not have limited capability for work; and
 - (b) the condition specified in the evidence provided by the claimant in accordance with paragraph (5)(b) is in the opinion of the Secretary of State the same, or substantially the same, as the condition specified in the evidence provided by the claimant before the date of the determination that the claimant does not have limited capability for work.
@@ -421,7 +421,7 @@ A claimant is to be treated as not having complied with a work search requiremen
 
 (6) In this regulation, “**tribunal**” means any tribunal listed in Schedule 1 to the Tribunal and Inquiries Act 1992 [^c21675071].
 
-### 16A. Further circumstances in which requirements must not be imposed[^key-23a05968e03cd8959d37b222d4b0f55c]
+### 16A. Further circumstances in which requirements must not be imposed[^c-23a05968e03cd8959d37b222d4b0f55c]
 
 (1) This regulation applies in the case of a claimant who is treated as capable of work or as not having limited capability for work under regulation 46A (extended period of sickness).
 
@@ -453,7 +453,7 @@ A claimant is to be treated as not having complied with a work search requiremen
 
 For the purposes of this Part—
 
-- “current sanctionable failure” means a failure of the following kinds in relation to which the Secretary of State has not yet determined whether the amount of an award of benefit is to be reduced—[^key-d9a26c884620f2c6c9cc25d919f81b51]
+- “current sanctionable failure” means a failure of the following kinds in relation to which the Secretary of State has not yet determined whether the amount of an award of benefit is to be reduced—[^c-d9a26c884620f2c6c9cc25d919f81b51]
   - (a) a sanctionable failure,
   - (b) an ESA sanctionable failure, or
   - (c) a UC sanctionable failure;
@@ -475,17 +475,17 @@ For the purposes of this Part—
 
 ### 18. General principles for calculating reduction periods[^c22713051][^c22713071]
 
-(1) Subject to paragraph (3)[^key-9af112597e691140bf74e4172e2cca60], the reduction period is to be determined in relation to each sanctionable failure in accordance with regulations 19, 20 and 21.
+(1) Subject to paragraph (3)[^c-9af112597e691140bf74e4172e2cca60], the reduction period is to be determined in relation to each sanctionable failure in accordance with regulations 19, 20 and 21.
 
 (2) Reduction periods are to run consecutively.
 
 (3) Where the reduction period calculated in relation to a sanctionable failure in accordance with regulation 19, 20 or 21 would result in the total outstanding reduction period exceeding 1095 days, the number of days in the reduction period in relation to that failure is to be adjusted so that 1095 days is not exceeded.
 
-(4)[^key-56aef01ab9702510250bcd02e878f285] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-56aef01ab9702510250bcd02e878f285] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 19. Higher-level sanction
 
-(1)[^key-3aab5c5806b4bd078187f1fd1392ed9e] Where the sanctionable failure is not a pre-claim failure, the reduction for a higher-level sanction in the circumstances described in the first column of the following table is the period set out in the second column.
+(1)[^c-3aab5c5806b4bd078187f1fd1392ed9e] Where the sanctionable failure is not a pre-claim failure, the reduction for a higher-level sanction in the circumstances described in the first column of the following table is the period set out in the second column.
 
 | Circumstances in which reduction period applies | Reduction period |
 | --- | --- |
@@ -493,12 +493,12 @@ For the purposes of this Part—
 | Where there have been one or more previous relevant failures by the claimant and the date of the most recent relevant failure is not within 365 days beginning with the date of the current sanctionable failure | 91 days |
 | Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is within 365 days, but not within 14 days, beginning with the date of the current sanctionable failure and the reduction period applicable to the most recent previous relevant failure is— |  |
 | (a) 91 days | 182 days |
-| (b) 182 days | 182 days[^key-54ef29e200bb413aebaf61cdf80b1c6f] |
-| [^key-09d5a09b2ecdc587b6b1bcb13a8a02f1]. . . | [^key-09d5a09b2ecdc587b6b1bcb13a8a02f1]. . . |
+| (b) 182 days | 182 days[^c-54ef29e200bb413aebaf61cdf80b1c6f] |
+| [^c-09d5a09b2ecdc587b6b1bcb13a8a02f1]. . . | [^c-09d5a09b2ecdc587b6b1bcb13a8a02f1]. . . |
 | Where there have been one or more previous relevant failures by the claimant and the date of the most recent previous relevant failure is within 14 days beginning with the date of the current sanctionable failure and the reduction period applicable to the most recent previous relevant failure is— |  |
 | (a) 91 days | 91 days |
 | (b) 182 days | 182 days |
-| [^key-a99d94bdb8f604153965c10c890c38d6]. . . | [^key-a99d94bdb8f604153965c10c890c38d6]. . . |
+| [^c-a99d94bdb8f604153965c10c890c38d6]. . . | [^c-a99d94bdb8f604153965c10c890c38d6]. . . |
 
 (2) But where—
 
@@ -514,12 +514,12 @@ it is to be disregarded in determining the reduction period in accordance with p
 
 minus the number of days beginning with the day after the date of the sanctionable failure and ending with the day before the date of claim.
 
-(4)[^key-ab51ed3d44945c44c6826d510cf543b6] In this regulation “relevant failure” means—
+(4)[^c-ab51ed3d44945c44c6826d510cf543b6] In this regulation “relevant failure” means—
 
 - (a) a sanctionable failure giving rise to a higher-level sanction, or
 - (b) a UC sanctionable failure giving rise to a sanction under section 26 of the Welfare Reform Act 2012.
 
-### 20. Medium-level sanctions[^key-e25356687794bb7ec8fc14139edcd0f0]
+### 20. Medium-level sanctions[^c-e25356687794bb7ec8fc14139edcd0f0]
 
 (1) The reduction for a medium-level sanction in the circumstances described in the first column of the following table is the period set out in the second column.
 
@@ -551,7 +551,7 @@ minus the number of days beginning with the day after the date of the sanctionab
 
 whichever is soonest.
 
-(3)[^key-570119efc76fbe521d783ae047568668] In the circumstances described in the first column of the following table, the number of days set out in the second column.
+(3)[^c-570119efc76fbe521d783ae047568668] In the circumstances described in the first column of the following table, the number of days set out in the second column.
 
 | Circumstances applicable to claimant’s case | Number of days |
 | --- | --- |
@@ -749,13 +749,13 @@ Where it has been determined that an award of a jobseeker's allowance is to be r
 
 (3) In this regulation, “**relevant benefit week**” means the week in relation to which the question of entitlement to a jobseeker's allowance is being considered.
 
-### 36. Waiting Days[^key-4741fa1a1bd878c43e55115dcc6564b3]
+### 36. Waiting Days[^c-4741fa1a1bd878c43e55115dcc6564b3]
 
-(1) Paragraph 4 of Schedule 1 to the Act does not apply in a case where a person's entitlement to a jobseeker's allowance commences within 12 weeks of an entitlement of theirs to income support, incapacity benefit, employment and support allowance , carer’s allowance or carer support payment[^key-19f58d70203b082ade8820d6d93a31e4] coming to an end.
+(1) Paragraph 4 of Schedule 1 to the Act does not apply in a case where a person's entitlement to a jobseeker's allowance commences within 12 weeks of an entitlement of theirs to income support, incapacity benefit, employment and support allowance , carer’s allowance or carer support payment[^c-19f58d70203b082ade8820d6d93a31e4] coming to an end.
 
-(2) In the case of a person to whom paragraph 4 of Schedule 1 to the Act applies, the number of days is seven[^key-6fccfa1511517cf4dd67e442b263b956].
+(2) In the case of a person to whom paragraph 4 of Schedule 1 to the Act applies, the number of days is seven[^c-6fccfa1511517cf4dd67e442b263b956].
 
-### 37. Jobseeking Period[^key-4741fa1a1bd878c43e55115dcc6564b3]
+### 37. Jobseeking Period[^c-4741fa1a1bd878c43e55115dcc6564b3]
 
 (1) For the purposes of the Act, but subject to paragraph (2), the “**jobseeking period**” means any period throughout which the claimant satisfies or is treated as satisfying the conditions specified in section 1(2)(b) and (e) to (i) of the Act (conditions of entitlement to a jobseeker's allowance) [^c21675181].
 
@@ -804,16 +804,16 @@ must be treated as a jobseeking period and, for the purposes of sub-paragraph (a
 
 (2) Linked periods for the purposes of the Act are any of the following periods—
 
-- (a) to the extent specified in paragraph (4), any period throughout which the claimant is entitled to a carer's allowance under section 70 of the Benefits Act [^c21675251] or carer support payment[^key-355ff59db1f9608de2b8a7a211dc8a72];
+- (a) to the extent specified in paragraph (4), any period throughout which the claimant is entitled to a carer's allowance under section 70 of the Benefits Act [^c21675251] or carer support payment[^c-355ff59db1f9608de2b8a7a211dc8a72];
 - (b) any period throughout which the claimant is incapable of work, or is treated as incapable of work, in accordance with Part 12A of the Benefits Act[^c21675261];
 - (c) any period throughout which the claimant has, or is treated as having, limited capability for work for the purposes of Part 1 of the Welfare Reform Act 2007;
-- (d) any period throughout which the claimant was entitled to a maternity allowance under section 35 or 35B[^key-137bd9ddb9f4793084ca600bf4d77e19] of the Benefits Act[^c21675271];
+- (d) any period throughout which the claimant was entitled to a maternity allowance under section 35 or 35B[^c-137bd9ddb9f4793084ca600bf4d77e19] of the Benefits Act[^c21675271];
 - (e) any period throughout which the claimant was engaged in training for which a training allowance is payable;
 - (f) a period which includes 6th October 1996 during which the claimant attends court in response to a summons for jury service and which was immediately preceded by a period of entitlement to unemployment benefit.
 
 (3) A period is a linked period for the purposes of section 2(4)(b)(ii) of the Act only where it ends within 12 weeks or less of the commencement of a jobseeking period or of some other linked period.
 
-(4) A period of entitlement to carer's allowance or carer support payment[^key-9be5f85c71e4a41debfa378163a5ac04] is a linked period only where it enables the claimant to satisfy contribution conditions for entitlement to a jobseeker's allowance which the claimant would otherwise be unable to satisfy.
+(4) A period of entitlement to carer's allowance or carer support payment[^c-9be5f85c71e4a41debfa378163a5ac04] is a linked period only where it enables the claimant to satisfy contribution conditions for entitlement to a jobseeker's allowance which the claimant would otherwise be unable to satisfy.
 
 ### 40. Persons approaching retirement and the jobseeking period
 
@@ -833,13 +833,13 @@ must be treated as a jobseeking period and, for the purposes of sub-paragraph (a
 
 (5) Any day which, for the purposes of Part 1 of the Welfare Reform Act 2007, is a day where the person has limited capability for work falling within a period of limited capability for work is not to be a day on which the person is treated as satisfying the conditions referred to in paragraph (2).
 
-### 41. Persons temporarily absent from Great Britain[^key-4741fa1a1bd878c43e55115dcc6564b3]
+### 41. Persons temporarily absent from Great Britain[^c-4741fa1a1bd878c43e55115dcc6564b3]
 
 (1) For the purposes of the Act, a claimant must be treated as being in Great Britain during any period of temporary absence from Great Britain—
 
 - (a) not exceeding four weeks in the circumstances specified in paragraph (2);
-- (b) not exceeding eight weeks in the circumstances specified in paragraph (3) ; or[^key-434b26c0b7e4e7b41d0d29fd366356f9]
-- (c)[^key-f92f411f216664b9f5ebbe68fb3dbe4c] not exceeding 26 weeks in the circumstances specified in paragraph (6A).
+- (b) not exceeding eight weeks in the circumstances specified in paragraph (3) ; or[^c-434b26c0b7e4e7b41d0d29fd366356f9]
+- (c)[^c-f92f411f216664b9f5ebbe68fb3dbe4c] not exceeding 26 weeks in the circumstances specified in paragraph (6A).
 
 (2) The circumstances specified in this paragraph are that—
 
@@ -875,10 +875,10 @@ must be treated as a jobseeking period and, for the purposes of sub-paragraph (a
 
 (6) For the purposes of the Act, a person must be treated as being in Great Britain during any period of temporary absence from Great Britain not exceeding 15 days where—
 
-- (a) the absence is for the purpose of taking part in annual continuous training as a member of any [^key-bc3ca2fbc3ad16d5ed56a1bbba72de6f]... reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001[^c21675331]; and
+- (a) the absence is for the purpose of taking part in annual continuous training as a member of any [^c-bc3ca2fbc3ad16d5ed56a1bbba72de6f]... reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001[^c21675331]; and
 - (b) the person was entitled to a jobseeker's allowance immediately before the period of absence.
 
-(6A)[^key-c30961c20c24dfc9acd3976c8395fae8] The circumstances in this paragraph are that—
+(6A)[^c-c30961c20c24dfc9acd3976c8395fae8] The circumstances in this paragraph are that—
 
 - (a) the claimant was present in a country or territory outside Great Britain immediately before His Majesty’s Government—
   - (i) provided public information to advise British nationals to leave that country or territory, or
@@ -912,31 +912,31 @@ must be treated as a jobseeking period and, for the purposes of sub-paragraph (a
 - (a) that number must include any time allowed to that person by their employer for a meal or for refreshments, but only where the person is, or expects to be, paid earnings in respect of that time;
 - (b) no account must be taken of any hours in which the person is engaged in an employment or scheme to which any one of sub-paragraphs (a) to (e) of regulation 44(1) (person treated as not engaged in remunerative work) applies;
 - (c) no account must be taken of any hours in which the person is engaged otherwise than in an employment as an earner in caring for—
-  - (i) a person who is in receipt of attendance allowance , pension age disability payment[^key-bda765d724272b6733cfbf08058ff799], the care component [^c22713111]. . . the daily living component or armed forces independence payment[^c22713131];
-  - (ii) a person who has claimed an attendance allowance , pension age disability payment[^key-fcf258da5cbdf431a88967a36ff1b203], armed forces independence payment,[^c22713151] a disability living allowance , Scottish adult disability living allowance[^key-9ac5d704d512f9d365b420f73383c27f] , child disability payment[^key-a58981ceaf2c38c28646152f96641fc0] ,[^key-221438802faa4c5f374364925bc65dea] personal independence payment or adult disability payment[^key-a3c5c20350aca2b2359a2956801efc28], but only for the period beginning with the date of claim and ending on the date on which the claim is determined or, if earlier, on the expiration of the period of 26 weeks from the date of claim;
-  - (iii) another person and is in receipt of a carer's allowance under section 70 of the Benefits Act or carer support payment[^key-e90c795bebf4d0d9e3012d5561badcdd]; or
-  - (iv) a person who has claimed either an attendance allowance , pension age disability payment[^key-11e7a8589af79b9b18859d76184fbe90], armed forces independence payment,[^c22713171] a disability living allowance , child disability payment[^key-d5cc03a86ab3536d1ddfaa838fcc7121] ,[^key-ce221305aa155e98bc0357004e8ccc33] personal independence payment or adult disability payment[^key-23d95b83837bace6ae8e8c968a14153f] and has an award of attendance allowance, armed forces independence payment,[^c22713191] the care component or the daily living component for a period commencing after the date on which that claim was made.
+  - (i) a person who is in receipt of attendance allowance , pension age disability payment[^c-bda765d724272b6733cfbf08058ff799], the care component [^c22713111]. . . the daily living component or armed forces independence payment[^c22713131];
+  - (ii) a person who has claimed an attendance allowance , pension age disability payment[^c-fcf258da5cbdf431a88967a36ff1b203], armed forces independence payment,[^c22713151] a disability living allowance , Scottish adult disability living allowance[^c-9ac5d704d512f9d365b420f73383c27f] , child disability payment[^c-a58981ceaf2c38c28646152f96641fc0] ,[^c-221438802faa4c5f374364925bc65dea] personal independence payment or adult disability payment[^c-a3c5c20350aca2b2359a2956801efc28], but only for the period beginning with the date of claim and ending on the date on which the claim is determined or, if earlier, on the expiration of the period of 26 weeks from the date of claim;
+  - (iii) another person and is in receipt of a carer's allowance under section 70 of the Benefits Act or carer support payment[^c-e90c795bebf4d0d9e3012d5561badcdd]; or
+  - (iv) a person who has claimed either an attendance allowance , pension age disability payment[^c-11e7a8589af79b9b18859d76184fbe90], armed forces independence payment,[^c22713171] a disability living allowance , child disability payment[^c-d5cc03a86ab3536d1ddfaa838fcc7121] ,[^c-ce221305aa155e98bc0357004e8ccc33] personal independence payment or adult disability payment[^c-23d95b83837bace6ae8e8c968a14153f] and has an award of attendance allowance, armed forces independence payment,[^c22713191] the care component or the daily living component for a period commencing after the date on which that claim was made.
 
 (4) In this regulation—
 
-- “[^key-0af62f4666af8f8ad18754b5085fd2a0]**adult disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;
+- “[^c-0af62f4666af8f8ad18754b5085fd2a0]**adult disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;
 - “[^c22713211]**armed forces independence payment**” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;
-- “child disability payment” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021;[^key-d0c512097c6d16f3965fd62e5f48dafb]
+- “child disability payment” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021;[^c-d0c512097c6d16f3965fd62e5f48dafb]
 - “**disability living allowance**” means a disability living allowance under section 71 of the Benefits Act [^c21675341];
-- “care component” means—[^key-06eff0e8ed382d567a255e413c99d327]
-  - (a) the care component of disability living allowance at the highest or middle rate prescribed under section 72(3) of the Benefits Act; [^key-81789fc44f110ca28b03319b7234b276]...
-  - (b) the care component of child disability payment at the highest or middle rate provided for in regulation 11(5) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021; or[^key-2576b59532e554052efe22876fe82c20]
+- “care component” means—[^c-06eff0e8ed382d567a255e413c99d327]
+  - (a) the care component of disability living allowance at the highest or middle rate prescribed under section 72(3) of the Benefits Act; [^c-81789fc44f110ca28b03319b7234b276]...
+  - (b) the care component of child disability payment at the highest or middle rate provided for in regulation 11(5) of the Disability Assistance for Children and Young People (Scotland) Regulations 2021; or[^c-2576b59532e554052efe22876fe82c20]
   - (c) the care component of Scottish adult disability living allowance at the highest or middle rate in accordance with regulation 6(4) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
-- “[^key-e13a545962c2d8f40eac90d68d4ad239]**daily living component**” means—
+- “[^c-e13a545962c2d8f40eac90d68d4ad239]**daily living component**” means—
   - (a) in respect of personal independence payment, the daily living component of that payment at the standard or enhanced rate referred to in section 78 of the Welfare Reform Act 2012;
   - (b) in respect of adult disability payment, the daily living component of that payment at the standard or enhanced rate referred to in regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022.
-- “[^key-5679939405514728830a8b173c475d87]**pension age disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Older People (Scotland) Regulations 2024;
-- “**personal independence payment**” means an allowance under Part 4 of the Welfare Reform Act 2012;[^key-4b5be7159f43ba95cbc926f9ddcdd6f6]
+- “[^c-5679939405514728830a8b173c475d87]**pension age disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Older People (Scotland) Regulations 2024;
+- “**personal independence payment**” means an allowance under Part 4 of the Welfare Reform Act 2012;[^c-4b5be7159f43ba95cbc926f9ddcdd6f6]
 - “**Scottish adult disability living allowance**” has the meaning given in regulation 2 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025.
 
 ### 43. Persons treated as engaged in remunerative work
 
-(1) Except in the case of a person on maternity leave, paternity leave, shared parental leave,[^key-fef636a8d002d2259d57271faba3f8da] parental bereavement leave,[^key-543240fc409da4eb04c3d856ce5cdafe] neonatal care leave,[^key-5512192199998afb6b7c1baf28aa49f9] adoption leave or absent from work through illness, a person is to be treated as engaged in remunerative work during any period for which they are absent from work referred to in regulation 42(1) (remunerative work) where the absence is either without good cause or by reason of a recognised, customary or other holiday.
+(1) Except in the case of a person on maternity leave, paternity leave, shared parental leave,[^c-fef636a8d002d2259d57271faba3f8da] parental bereavement leave,[^c-543240fc409da4eb04c3d856ce5cdafe] neonatal care leave,[^c-5512192199998afb6b7c1baf28aa49f9] adoption leave or absent from work through illness, a person is to be treated as engaged in remunerative work during any period for which they are absent from work referred to in regulation 42(1) (remunerative work) where the absence is either without good cause or by reason of a recognised, customary or other holiday.
 
 (2) Subject to paragraph (3), a person who was, or was treated as being, engaged in remunerative work and in respect of that work earnings to which regulation 58(1)(c) (earnings of employed earners) applies are paid, is to be treated as engaged in remunerative work for the period for which those earnings are taken into account in accordance with Part 7.
 
@@ -949,10 +949,10 @@ must be treated as a jobseeking period and, for the purposes of sub-paragraph (a
 - (a) engaged by a charity [^c21675351] or a voluntary organisation or are a volunteer where the only payment received by them or due to be paid to them is a payment in respect of any expenses incurred, or to be incurred, if they otherwise derive no remuneration or profit from the employment;
 - (b) engaged on a scheme for which a training allowance is being paid;
 - (c) engaged in employment as—
-  - (i)[^key-5797b9e3f1939d283f57263637ea5d00] a part-time fire-fighter employed by a fire and rescue authority under the Fire and Rescue Services Act 2004 or by the Scottish Fire and Rescue Service established under section 1A of the Fire (Scotland) Act 2005;
+  - (i)[^c-5797b9e3f1939d283f57263637ea5d00] a part-time fire-fighter employed by a fire and rescue authority under the Fire and Rescue Services Act 2004 or by the Scottish Fire and Rescue Service established under section 1A of the Fire (Scotland) Act 2005;
   - (iii) an auxiliary coastguard in respect of coastal rescue activities;
   - (iv) a person engaged part-time in the manning or launching of a lifeboat;
-  - (v) a member of any [^key-d6c3e62277dcb96db095d976a647a735]... reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001;
+  - (v) a member of any [^c-d6c3e62277dcb96db095d976a647a735]... reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001;
 - (d) performing their duties as a councillor, and for this purpose “**councillor**” has the same meaning as in section 171F(2) of the Benefits Act [^c21675371];
 - (e) engaged in caring for a person who is accommodated with them by virtue of arrangements made under any of the provisions referred to in regulation 60(2)(b) or (c), and are in receipt of any payment specified in regulation 60(2)(b) or (c);
 - (f) engaged in an activity in respect of which—
@@ -966,16 +966,16 @@ must be treated as a jobseeking period and, for the purposes of sub-paragraph (a
 
 (1) For the purposes of the Act—
 
-- (a) a person is to be treated as receiving relevant education if they are a qualifying young person, unless the person is participating in a traineeship[^key-fc70ebe1418c7cfb304972effe646ed7]; and
-- (b) except in circumstances where sub-paragraph (a) applies[^key-5a7efd69930bb4df0c61b8b82f4cfd2e] the following are to be treated as relevant education—
+- (a) a person is to be treated as receiving relevant education if they are a qualifying young person, unless the person is participating in a traineeship[^c-fc70ebe1418c7cfb304972effe646ed7]; and
+- (b) except in circumstances where sub-paragraph (a) applies[^c-5a7efd69930bb4df0c61b8b82f4cfd2e] the following are to be treated as relevant education—
   - (i) undertaking a full-time course of advanced education; and
   - (ii) undertaking any other full-time course of study or training at an educational establishment for which a student loan, grant or bursary is provided for the person's maintenance or would be available if the person applied for it.
 
-(1A)[^key-0ad4b51cac69d97c376ece04a2c0e86b] In paragraph (1) “traineeship” means a course which—
+(1A)[^c-0ad4b51cac69d97c376ece04a2c0e86b] In paragraph (1) “traineeship” means a course which—
 
 - (a) is funded (in whole or in part) by, or under arrangements made by, the—
   - (i) Secretary of State under section 14 of the Education Act 2002, or
-  - (ii) Chief Executive of Education and Skills Funding[^key-4e145fc8b1ef7ed25e3a025370e187fa];
+  - (ii) Chief Executive of Education and Skills Funding[^c-4e145fc8b1ef7ed25e3a025370e187fa];
 - (b) lasts no more than 6 months;
 - (c) includes training to help prepare the participant for work and a work experience placement; and
 - (d) is open to persons who on the first day of the course have reached the age of 16 but not 25.
@@ -1029,58 +1029,58 @@ must be treated as a jobseeking period and, for the purposes of sub-paragraph (a
 - “**modular course**” means a course which consists of two or more modules, the successful completion of a specified number of which is required before a person is considered by the educational establishment to have completed the course;
 - “**student loan**” means a loan towards a student's maintenance pursuant to any regulations made under section 22 of the Teaching and Higher Education Act 1998[^c21675381], section 73 of the Education (Scotland) Act 1980 [^c21675391] or Article 3 of the Education (Student Support) (Northern Ireland) Order 1998[^c21675401], including in Scotland a young student's bursary paid under regulation 4(1)(c) of the Student's Allowances (Scotland) Regulations 2007[^c21675411].
 
-### 46. Short periods of sickness[^key-4741fa1a1bd878c43e55115dcc6564b3]
+### 46. Short periods of sickness[^c-4741fa1a1bd878c43e55115dcc6564b3]
 
 (1) Subject to the following provisions of this regulation, a person who—
 
-- (a) [^key-eb8bb867fc49102154fca4d60b95d18a]... has been awarded a jobseeker's allowance, or is a person to whom any of the circumstances mentioned in section 6J(2) or (3) or 6K(2) of the Act apply;
+- (a) [^c-eb8bb867fc49102154fca4d60b95d18a]... has been awarded a jobseeker's allowance, or is a person to whom any of the circumstances mentioned in section 6J(2) or (3) or 6K(2) of the Act apply;
 - (b) proves to the satisfaction of the Secretary of State that they are unable to work on account of some specific disease or disablement; and
-- (c) during the period of their disease or disablement, satisfies[^key-820bc22d512e8daa854cb2c80661bcc7] the requirements for entitlement to a jobseeker's allowance other than those specified in section 1(2)(f) of the Act (capable of work or not having limited capability for work),
+- (c) during the period of their disease or disablement, satisfies[^c-820bc22d512e8daa854cb2c80661bcc7] the requirements for entitlement to a jobseeker's allowance other than those specified in section 1(2)(f) of the Act (capable of work or not having limited capability for work),
 
-is to be treated for a period of not more than two weeks, beginning on the day on which sub-paragraphs (a) to (c) are met, as capable of work or as not having limited capability for work, except where the claimant states in writing that for the period of their disease or disablement they propose to claim or have claimed employment and support allowance or universal credit[^key-215c0d432004f80515e60dd87c71d062].
+is to be treated for a period of not more than two weeks, beginning on the day on which sub-paragraphs (a) to (c) are met, as capable of work or as not having limited capability for work, except where the claimant states in writing that for the period of their disease or disablement they propose to claim or have claimed employment and support allowance or universal credit[^c-215c0d432004f80515e60dd87c71d062].
 
 (2) The evidence which is required for the purposes of paragraph (1)(b) is a declaration made by the claimant in writing, in a form approved for the purposes by the Secretary of State, that they have been unfit for work from a date or for a period specified in the declaration.
 
-(3)[^key-67b80d11fb0ebb2df9880fc299889dbb] Paragraph (1) does[^key-4302b6f930d29930f1566c3282afcd23] not apply to a claimant on more than two occasions in any one jobseeking period or, where a jobseeking period exceeds 12 months, in each successive 12 months within that period; and for the purposes of calculating any period of 12 months, the first 12 months in the jobseeking period commences on the first day of the jobseeking period.
+(3)[^c-67b80d11fb0ebb2df9880fc299889dbb] Paragraph (1) does[^c-4302b6f930d29930f1566c3282afcd23] not apply to a claimant on more than two occasions in any one jobseeking period or, where a jobseeking period exceeds 12 months, in each successive 12 months within that period; and for the purposes of calculating any period of 12 months, the first 12 months in the jobseeking period commences on the first day of the jobseeking period.
 
-(4) Paragraph (1) does[^key-55b4bf7bddbf472a668c7022fe385952] not apply to any person where the first day in respect of which they are unable to work falls within eight weeks after the day the person ceased to be entitled to statutory sick pay.
+(4) Paragraph (1) does[^c-55b4bf7bddbf472a668c7022fe385952] not apply to any person where the first day in respect of which they are unable to work falls within eight weeks after the day the person ceased to be entitled to statutory sick pay.
 
-(5) Paragraph (1) does[^key-138f08f445b520e31995254e6760b480] not apply to a claimant who is temporarily absent from Great Britain in the circumstances prescribed by regulation 41(5).
+(5) Paragraph (1) does[^c-138f08f445b520e31995254e6760b480] not apply to a claimant who is temporarily absent from Great Britain in the circumstances prescribed by regulation 41(5).
 
-(6)[^key-b6fe83f1725578cea7d6959082aa7dec] Paragraph (1) does not apply to any person—
+(6)[^c-b6fe83f1725578cea7d6959082aa7dec] Paragraph (1) does not apply to any person—
 
 - (a) during any period where the person is treated as capable of work or as not having limited capability for work under regulation 46A (extended period of sickness); or
 - (b) where the first day in respect of which that person would, apart from this sub-paragraph, have been treated as capable of work or as not having limited capability for work under this regulation falls immediately after the last day on which the person is so treated under regulation 46A.
 
-(7)[^key-08b3b1e40fec692fc007a7c441871e5f] For the purposes of calculating the number of occasions under paragraph (3), any occasion to which regulation 46A applies to the claimant is to be disregarded.
+(7)[^c-08b3b1e40fec692fc007a7c441871e5f] For the purposes of calculating the number of occasions under paragraph (3), any occasion to which regulation 46A applies to the claimant is to be disregarded.
 
-### 46A. Extended period of sickness[^key-d5188d5a889a0c7545e989ec32a4d55e]
+### 46A. Extended period of sickness[^c-d5188d5a889a0c7545e989ec32a4d55e]
 
 (1) This regulation applies to a person who—
 
 - (a) has been awarded a jobseeker’s allowance or is a person to whom any of the circumstances mentioned in section 6J(2) or (3) or 6K(2) of the Act apply;
-- (b) proves to the satisfaction of the Secretary of State that they are unable to work on account of some specific disease or disablement (“the initial condition”)[^key-fbcd3857b02344517447bb17cfd9d4c1];
+- (b) proves to the satisfaction of the Secretary of State that they are unable to work on account of some specific disease or disablement (“the initial condition”)[^c-fbcd3857b02344517447bb17cfd9d4c1];
 - (c) either—
-  - (i) declares that they have been unable to work, or expect to be unable to work, on account of the initial condition or any other disease or disablement[^key-139bf09fdbcc449e3db770f21d6c0a13] for more than 2 weeks but not[^key-68fef67841541dac0578f91c3aa2397b] for more than 13 weeks; or
-  - (ii) is not a person to whom regulation 46(1) (short periods of sickness) applies by virtue of paragraph (3) of that regulation, and declares that he has been unable to work or expects to be unable to work, on account of the initial condition or any other disease or disablement, for 2 weeks or less[^key-656d12d6df047ee58ea8963bda927333];
+  - (i) declares that they have been unable to work, or expect to be unable to work, on account of the initial condition or any other disease or disablement[^c-139bf09fdbcc449e3db770f21d6c0a13] for more than 2 weeks but not[^c-68fef67841541dac0578f91c3aa2397b] for more than 13 weeks; or
+  - (ii) is not a person to whom regulation 46(1) (short periods of sickness) applies by virtue of paragraph (3) of that regulation, and declares that he has been unable to work or expects to be unable to work, on account of the initial condition or any other disease or disablement, for 2 weeks or less[^c-656d12d6df047ee58ea8963bda927333];
 - (d) during the period of their disease or disablement, satisfies the requirements for entitlement to a jobseeker’s allowance except those specified in section 1(2)(f) (capable of work or not having limited capability for work); and
 - (e) has not stated in writing that for the period of the disease or disablement they propose to claim or have claimed an employment and support allowance or universal credit.
 
 (2) The evidence which is required for the purposes of paragraph (1)(b) in a case where paragraph (1)(c)(i) applies is—
 
-- (a) evidence of incapacity for work or limited capability for work in accordance with the Social Security (Medical Evidence) Regulations 1976 (which prescribe the form of [^key-baadc701d6ce53c91c29508b39be19df]... statement or other evidence required in each case); and
+- (a) evidence of incapacity for work or limited capability for work in accordance with the Social Security (Medical Evidence) Regulations 1976 (which prescribe the form of [^c-baadc701d6ce53c91c29508b39be19df]... statement or other evidence required in each case); and
 - (b) any such additional information as the Secretary of State may request.
 
-(3) Subject to paragraph (3A),[^key-bfc4dd46c3a840affa3e0f4fb28a3a8f] the evidence which is required for the purposes of paragraph (1)(b) in a case where paragraph (1)(c)(ii) applies is a declaration made by the person in writing, in a form approved for the purposes by the Secretary of State, that the person has been unfit for work from a date or for a period specified in the declaration.
+(3) Subject to paragraph (3A),[^c-bfc4dd46c3a840affa3e0f4fb28a3a8f] the evidence which is required for the purposes of paragraph (1)(b) in a case where paragraph (1)(c)(ii) applies is a declaration made by the person in writing, in a form approved for the purposes by the Secretary of State, that the person has been unfit for work from a date or for a period specified in the declaration.
 
-(3A)[^key-42e2dfc8893f750069073eff0c546787] In a case where paragraph (1)(c)(ii) applies, but the period in which the person has been unable to work or expects to be unable to work in fact exceeds 2 weeks, the evidence that is required for the purposes of paragraph (1)(b) is the evidence that is required in a case where paragraph (1)(c)(i) applies.
+(3A)[^c-42e2dfc8893f750069073eff0c546787] In a case where paragraph (1)(c)(ii) applies, but the period in which the person has been unable to work or expects to be unable to work in fact exceeds 2 weeks, the evidence that is required for the purposes of paragraph (1)(b) is the evidence that is required in a case where paragraph (1)(c)(i) applies.
 
-(4) Subject to the following paragraphs, a person to whom this regulation applies is to be treated as capable of work or as not having limited capability for work for the continuous period beginning on the first day on which the person is unable to work on account of [^key-7b5966ff7d83f8b88c4eb693480deec2]... disease or disablement (“the first day”) and ending on—
+(4) Subject to the following paragraphs, a person to whom this regulation applies is to be treated as capable of work or as not having limited capability for work for the continuous period beginning on the first day on which the person is unable to work on account of [^c-7b5966ff7d83f8b88c4eb693480deec2]... disease or disablement (“the first day”) and ending on—
 
 - (a) the last such day; or
 - (b) if that period would otherwise exceed thirteen weeks, the day which is thirteen weeks after the first day.
 
-(5)[^key-01ac581132d9b0ca98f63ba932bc6d56] This regulation does not apply to a person on more than one occasion in any one period of twelve months starting on the first day applying for the purpose of paragraph (4).
+(5)[^c-01ac581132d9b0ca98f63ba932bc6d56] This regulation does not apply to a person on more than one occasion in any one period of twelve months starting on the first day applying for the purpose of paragraph (4).
 
 (6) Paragraphs (4) and (5) of regulation 46 apply for the purposes of this regulation as they apply for the purposes of paragraph (1) of regulation 46.
 
@@ -1115,8 +1115,8 @@ D is any amount disregarded from the claimant's earnings in accordance with the 
 
 (1) In the case of a jobseeker's allowance, the age-related amount applicable to a claimant for the purposes of section 4(1)(a) of the Act is—
 
-- (a) in the case of a person who has not attained the age of 25, £75.65[^key-f3b6502e2e0334cd9273b4fe05d27980] per week;
-- (b) in the case of a person who has attained the age of 25, £95.55[^key-0c443118a79729b0a969295b8ecce216] per week.
+- (a) in the case of a person who has not attained the age of 25, £75.65[^c-f3b6502e2e0334cd9273b4fe05d27980] per week;
+- (b) in the case of a person who has attained the age of 25, £95.55[^c-0c443118a79729b0a969295b8ecce216] per week.
 
 (2) Where the amount of any jobseeker's allowance would, but for this paragraph, include a fraction of one penny, that fraction is to be treated as one penny.
 
@@ -1179,7 +1179,7 @@ Where any calculation under this Part results in a fraction of a penny that frac
 
 and that period is to begin on the date on which the payment is treated as paid under regulation 56.
 
-(3)[^key-10afc0bf3a6e00257cfc4d4a3b3bb48c]
+(3)[^c-10afc0bf3a6e00257cfc4d4a3b3bb48c]
 
 - (a) This paragraph applies where earnings are derived by a claimant as a member of a reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001—
   - (i) in respect of a period of annual continuous training for a maximum of 15 days in any calendar year; or
@@ -1322,13 +1322,13 @@ A payment of earnings to which regulation 54 (calculation of earnings derived fr
 
 - (a) subject to paragraph (3), any payment in kind;
 - (b) any periodic sum paid to a claimant on account of the termination of their employment by reason of redundancy;
-- (c) any remuneration paid by or on behalf of an employer to the claimant in respect of a period throughout which the claimant is on maternity leave, paternity leave , shared parental leave[^key-53efcbce3039f914a9e15c63455c48b5] , parental bereavement leave[^key-6ae5e0d6bc5797fc77da4180458fb100] , neonatal care leave[^key-2a207ab2c8c6cef602f7ddbc54077092] or adoption leave or is absent from work because they are ill;
+- (c) any remuneration paid by or on behalf of an employer to the claimant in respect of a period throughout which the claimant is on maternity leave, paternity leave , shared parental leave[^c-53efcbce3039f914a9e15c63455c48b5] , parental bereavement leave[^c-6ae5e0d6bc5797fc77da4180458fb100] , neonatal care leave[^c-2a207ab2c8c6cef602f7ddbc54077092] or adoption leave or is absent from work because they are ill;
 - (d) any payment in respect of expenses wholly, exclusively and necessarily incurred in the performance of the duties of the employment;
 - (e) any occupational pension;
 - (f) any redundancy payment within the meaning of section 135(1) of the Employment Rights Act 1996;
 - (g) any lump sum payment made under the Iron and Steel Re-adaptation Benefits Scheme [^c21675501];
 - (h) any payment in respect of expenses arising out of the claimant's participation as a service user.
-- (i)[^key-bc9c3e794ac79dcdbc2c1ccb02e3656c] any bounty paid at intervals of at least one year and derived from employment to which paragraph 6 of the Schedule to these Regulations applies.
+- (i)[^c-bc9c3e794ac79dcdbc2c1ccb02e3656c] any bounty paid at intervals of at least one year and derived from employment to which paragraph 6 of the Schedule to these Regulations applies.
 
 (3) Paragraph (2)(a) does not apply in respect of any non-cash voucher referred to in paragraph (1)(i).
 
@@ -1361,19 +1361,19 @@ A payment of earnings to which regulation 54 (calculation of earnings derived fr
 - (a) where a claimant is involved in providing board and lodging accommodation for which a charge is payable, any payment by way of such a charge;
 - (b) any payment made to the claimant with whom a person is accommodated by virtue of arrangements made—
   - (i) under section 22C(2), (3), (5) or (6)(a) or (b) of the Children Act 1989 (provision of accommodation and maintenance for a child whom the local authority is looking after)[^c21675511];
-  - (ia)[^key-2f5925f9974798c0a00f69ff00d8c892] under section 81(2), (3), (5) or (6)(a) or (b) of the Social Services and Well-being (Wales) Act 2014 (ways in which looked after children are to be accommodated and maintained);
-  - (ii) by a local authority under section 26 or 26A[^key-a772c4d2c3f33b9ae87ce37cc6a4638d] of the Children (Scotland) Act 1995 (manner of provision of accommodation to child looked after by local authority and duty to provide continuing care[^key-04c0e713af97608aaa510fae8e9b228a]) [^c21675521]; or
+  - (ia)[^c-2f5925f9974798c0a00f69ff00d8c892] under section 81(2), (3), (5) or (6)(a) or (b) of the Social Services and Well-being (Wales) Act 2014 (ways in which looked after children are to be accommodated and maintained);
+  - (ii) by a local authority under section 26 or 26A[^c-a772c4d2c3f33b9ae87ce37cc6a4638d] of the Children (Scotland) Act 1995 (manner of provision of accommodation to child looked after by local authority and duty to provide continuing care[^c-04c0e713af97608aaa510fae8e9b228a]) [^c21675521]; or
   - (iii) by a local authority under regulation 33 or 51 of the Looked After Children (Scotland) Regulations 2009 (fostering and kinship care allowances and fostering allowances) [^c21675531]; or
   - (iv) by a voluntary organisation under section 59(1)(a) of the Children Act 1989 (provision of accommodation by voluntary organisations) [^c21675541];
-- (ba)[^key-e21c6beb8b60e8a9436f1330876152d5] any payment made to the claimant under section 73(1)(b) of the Children and Young People (Scotland) Act 2014 (kinship care assistance);
+- (ba)[^c-e21c6beb8b60e8a9436f1330876152d5] any payment made to the claimant under section 73(1)(b) of the Children and Young People (Scotland) Act 2014 (kinship care assistance);
 - (c) any payment made to the claimant for a person (“**the person concerned**”), who is not normally a member of the claimant's household but is temporarily in the claimant's care, by—
-  - (i) NHS England[^key-5027c90ef807c3ff9005c666e3a5acd6];
+  - (i) NHS England[^c-5027c90ef807c3ff9005c666e3a5acd6];
   - (ii) a local authority but excluding payments of housing benefit made in respect of the person concerned;
   - (iii) a voluntary organisation;
   - (iv) the person concerned pursuant to section 26(3A) of the National Assistance Act 1948 [^c21675561];
-  - (v)[^key-b1e3917ae24045adda7874ee4d5e378f] an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
-  - (vi) a Local Health Board established by an order made under section 11 of the Health Service (Wales) Act; [^key-9cd24e4615c16ac9cc19f38c7e1ebbc6]...
-- (vii)[^key-b700688b8bfec28f9843d4a90f6e98e5] the person concerned where the payment is for the provision of accommodation in respect of the meeting of that person’s needs under section 18 or 19 of the Care Act 2014 (duty and power to meet needs for care and support); or[^key-a7f99ce8ebe66e705da1ae29133e0df9]
+  - (v)[^c-b1e3917ae24045adda7874ee4d5e378f] an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+  - (vi) a Local Health Board established by an order made under section 11 of the Health Service (Wales) Act; [^c-9cd24e4615c16ac9cc19f38c7e1ebbc6]...
+- (vii)[^c-b700688b8bfec28f9843d4a90f6e98e5] the person concerned where the payment is for the provision of accommodation in respect of the meeting of that person’s needs under section 18 or 19 of the Care Act 2014 (duty and power to meet needs for care and support); or[^c-a7f99ce8ebe66e705da1ae29133e0df9]
 - (viii) the person concerned where the payment is for the provision of accommodation to meet that person’s needs for care and support under section 35 or 36 of the Social Services and Well-being (Wales) Act 2014 (duty and power to meet needs for care and support of an adult);
 - (d) any sports award.
 
@@ -1447,18 +1447,18 @@ except accommodation provided by a close relative of theirs or of any other memb
 (1) Subject to paragraph (2), the amount to be deducted in respect of income tax under regulation 61(1)(b)(i), (3)(b)(i) or (9)(a)(i) (calculation of net profit of self-employed earners) is to be calculated—
 
 - (a) on the basis of the amount of chargeable income; and
-- (b)[^key-e878968aac46bd28af7db089690b4a35] as if that income were assessable to income tax at the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate, of tax less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are appropriate to their circumstances;
+- (b)[^c-e878968aac46bd28af7db089690b4a35] as if that income were assessable to income tax at the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate, of tax less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are appropriate to their circumstances;
 
-(2) If the period determined under regulation 55 is less than a year, the earnings to which the basic rate, or the Scottish basic rate,[^key-b360a1d970ad7e245542ef8d23224ea1] of tax is to be applied and the amount of the personal reliefs deductible under paragraph (1) are[^key-7c151e52b6ab7804bd593c70bbbd75fd] to be calculated on a pro rata basis.
+(2) If the period determined under regulation 55 is less than a year, the earnings to which the basic rate, or the Scottish basic rate,[^c-b360a1d970ad7e245542ef8d23224ea1] of tax is to be applied and the amount of the personal reliefs deductible under paragraph (1) are[^c-7c151e52b6ab7804bd593c70bbbd75fd] to be calculated on a pro rata basis.
 
 (3) Subject to paragraph (4), the amount to be deducted in respect of national insurance contributions under regulation 61(1)(b)(i), (3)(b)(ii) or (9)(a)(ii) is to be the total of—
 
-- (a)[^key-9b791cfd3f4b302dc5fa4ade494ef602] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9b791cfd3f4b302dc5fa4ade494ef602] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the amount of Class 4 contributions (if any) which would be payable under section 15 of that Act (Class 4 contributions recoverable under the Income Tax Acts) [^c21675601] at the percentage rate applicable at the date of claim on so much of the chargeable income as exceeds the lower limit but does not exceed the upper limit of profits and gains applicable for the tax year in which the date of claim falls.
 
 (4) If the period determined under regulation 55 is less than a year—
 
-- (a)[^key-475ad52d688053f90cdd9e6ede1eea40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-475ad52d688053f90cdd9e6ede1eea40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the limits referred to in paragraph (3)(b) are to be reduced pro rata.
 
 (5) In this regulation “**chargeable income**” means—
@@ -1497,7 +1497,7 @@ the Secretary of State must treat the claimant as possessing such earnings (if a
 
 - (a) where the period over which the earnings which the claimant is treated as possessing are to be taken into account is—
   - (i) a year or more, an amount in respect of income tax equivalent to an amount calculated in accordance with paragraph (11);
-  - (ii) less than a year, the earnings to which the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate,[^key-36249f7b1301a4ca7dfbd9569eb0482a] of tax is to be applied and the amount of the personal reliefs[^key-284f1ded02b91ecde7384aeb5bef112d] deductible under this paragraph are to be calculated on a pro rata basis;
+  - (ii) less than a year, the earnings to which the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate,[^c-36249f7b1301a4ca7dfbd9569eb0482a] of tax is to be applied and the amount of the personal reliefs[^c-284f1ded02b91ecde7384aeb5bef112d] deductible under this paragraph are to be calculated on a pro rata basis;
 - (b) where the weekly amount of the earnings which the claimant is treated as possessing is not less than the lower earnings limit, an amount representing primary Class 1 contributions under the Benefits Act, calculated by applying to those earnings the initial and main primary percentages in accordance with section 8(1)(a) and (b) of that Act[^c21675611]; and
 - (c) half of any sum payable by the claimant in respect of a pay period by way of a contribution towards an occupational or personal pension scheme.
 
@@ -1505,7 +1505,7 @@ the Secretary of State must treat the claimant as possessing such earnings (if a
 
 (10) In this regulation, “**work placement**” means practical work experience which is not undertaken in expectation of payment.
 
-(11)[^key-b052df09120f7d83b26be6318e8e3d17] For the purposes of paragraph (8)(a)(i), the amount is calculated by applying to those earnings the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate, of tax in the year of assessment less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are appropriate to the claimant’s circumstances.
+(11)[^c-b052df09120f7d83b26be6318e8e3d17] For the purposes of paragraph (8)(a)(i), the amount is calculated by applying to those earnings the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate, of tax in the year of assessment less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are appropriate to the claimant’s circumstances.
 
 ## PART 8 — Part weeks
 
@@ -1632,7 +1632,7 @@ In determining the number of hours in which a person is engaged in remunerative 
 > (5) Where a share fisherman has earnings from work other than work as a share fisherman, and an amount is disregarded from those earnings in accordance with paragraph 5, 6 or 7 of the Schedule—
 >
 > - (a) if the amount so disregarded is £20, paragraph (4)(a) does not apply;
-> - (b) if the amount so disregarded is less than £20, the amount disregarded under paragraph (4)(a) must not exceed the difference between the amount disregarded from those other earnings and £20[^key-4bb9369d9ab87be15232077823c4cb84].
+> - (b) if the amount so disregarded is less than £20, the amount disregarded under paragraph (4)(a) must not exceed the difference between the amount disregarded from those other earnings and £20[^c-4bb9369d9ab87be15232077823c4cb84].
 >
 > (6) For the purposes of paragraph (3), the net profit is to be calculated by taking into account the earnings less, subject to paragraphs (7) to (9), any expenses relevant to that benefit week which were wholly, exclusively and necessarily incurred for the purposes of the employment.
 >
@@ -1669,11 +1669,11 @@ In determining the number of hours in which a person is engaged in remunerative 
 
 - (a) in paragraphs (1) and (3), for the words “regulation 61(1)(b)(i)” there is to be substituted the words “ regulation 61(3)(a) ”;
 - (b) paragraphs (2) and (4) are to be omitted;
-- (ba)[^key-a5c379c170b6b6027faee0022d8f2c1d] in paragraph (3) for “Subject to paragraph (4), the” substitute “The”;
+- (ba)[^c-a5c379c170b6b6027faee0022d8f2c1d] in paragraph (3) for “Subject to paragraph (4), the” substitute “The”;
 - (c) in paragraph (5)(a) for the words “regulation 61(3)(a) or, as the case may be, (4)” there is to be substituted the words “ regulation 61(6) ”;
 - (d) at the end of the regulation there is to be added the following paragraph—
 
-  > (6) For the purposes of paragraphs (1) and (3) the earnings to which the basic rate, or the Scottish basic rate,[^key-6bc17ba767d1bffbd0e787a88ba49e65] of tax is to be applied and the amount of personal reliefs[^key-63cbc4139ed2a19632039b0b93ec1185] deductible, [^key-df391749c330ceccb240dafb65e2a788]... and the upper limit of profits and gains referred to in paragraph (3)(b), are to be apportioned pro rata according to the period over which the earnings are assessed in accordance with regulation 61.
+  > (6) For the purposes of paragraphs (1) and (3) the earnings to which the basic rate, or the Scottish basic rate,[^c-6bc17ba767d1bffbd0e787a88ba49e65] of tax is to be applied and the amount of personal reliefs[^c-63cbc4139ed2a19632039b0b93ec1185] deductible, [^c-df391749c330ceccb240dafb65e2a788]... and the upper limit of profits and gains referred to in paragraph (3)(b), are to be apportioned pro rata according to the period over which the earnings are assessed in accordance with regulation 61.
 
   .
 
@@ -1742,10 +1742,10 @@ Regulations 59(2) and 61(2)
 
 **6.** £20 of the total earnings derived from one or more employments as—
 
-- (a)[^key-247740ea3c71e4acc95f18df46a030a7] a part-time fire-fighter employed by a fire and rescue authority under the Fire and Rescue Services Act 2004 or by the Scottish Fire and Rescue Service established under section 1A of the Fire (Scotland) Act 2005;
+- (a)[^c-247740ea3c71e4acc95f18df46a030a7] a part-time fire-fighter employed by a fire and rescue authority under the Fire and Rescue Services Act 2004 or by the Scottish Fire and Rescue Service established under section 1A of the Fire (Scotland) Act 2005;
 - (c) an auxiliary coastguard in respect of coast rescue activities;
 - (d) a person engaged part-time in the manning or launching of a lifeboat;
-- (e) a member of any [^key-e51a42e07a9598b3e364d7f888d3294f]... reserve force prescribed in Part I of Schedule 6 to the Social Security (Contributions) Regulations 2001.
+- (e) a member of any [^c-e51a42e07a9598b3e364d7f888d3294f]... reserve force prescribed in Part I of Schedule 6 to the Social Security (Contributions) Regulations 2001.
 
 **7.** Where the claimant is engaged in one or more employments specified in paragraph 6 but their earnings derived from such employments are less than £20 in any week and they are also engaged in any other part-time employment, so much of their earnings from that other employment up to £5 as would not in aggregate with the amount of their earnings disregarded under paragraph 6 exceed £20.
 
@@ -1759,7 +1759,7 @@ Regulations 59(2) and 61(2)
 
 **12.** (1) Where by reason of earnings to which sub-paragraph (2) applies (in aggregate with the claimant's other earnings (if any) calculated in accordance with this Part) the claimant would (apart from this paragraph) have a personal rate of less than 10 pence, the amount of such earnings but only to the extent that that amount exceeds the claimant's personal rate less 10 pence.
 
-(2) This sub-paragraph applies to earnings, in so far as they exceed the amount disregarded under paragraph 6, derived by the claimant from employment as a member of any [^key-4f821704375b762fd83f283f67cb41d7]... reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001 in respect of a period of annual continuous training for a maximum of 15 days in any calendar year or in respect of training in the claimant’s first year of training as a member of a reserve force for a maximum of 43 days in that year.[^key-a9bbbbfac285a3490fdef20b4afe6e80]
+(2) This sub-paragraph applies to earnings, in so far as they exceed the amount disregarded under paragraph 6, derived by the claimant from employment as a member of any [^c-4f821704375b762fd83f283f67cb41d7]... reserve force prescribed in Part 1 of Schedule 6 to the Social Security (Contributions) Regulations 2001 in respect of a period of annual continuous training for a maximum of 15 days in any calendar year or in respect of training in the claimant’s first year of training as a member of a reserve force for a maximum of 43 days in that year.[^c-a9bbbbfac285a3490fdef20b4afe6e80]
 
 (3) In sub-paragraph (1), “**personal rate**” means the rate for the claimant calculated as specified in section 4(1) of the Act.
 
@@ -1819,15 +1819,15 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21674841]: Marginal citation: [2007 c.3](https://www.legislation.gov.uk/ukpga/2007/3). *See* section 989 of that Act.
 
-[^key-84425b886546b7d23c015bebe45b48ab]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/2/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/2)
+[^c-84425b886546b7d23c015bebe45b48ab]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/2/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/2)
 
-[^key-9036fea3f61e4bddd08e4aa8dc9e67b2]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/2/2) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [26](https://www.legislation.gov.uk/uksi/2026/246/article/26)
+[^c-9036fea3f61e4bddd08e4aa8dc9e67b2]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/2/2) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [26](https://www.legislation.gov.uk/uksi/2026/246/article/26)
 
 [^c21674851]: Marginal citation: [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380).
 
 [^c21674861]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
-[^key-da835094655d6374784d8a37c154ddd4]: Textual amendment: Words in reg. 2(2) inserted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/2)
+[^c-da835094655d6374784d8a37c154ddd4]: Textual amendment: Words in reg. 2(2) inserted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/2)
 
 [^c21674871]: Marginal citation: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -1835,19 +1835,19 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21674891]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-556ab2e70444fb52583720bc15ef3035]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/2/2) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/20/2)
+[^c-556ab2e70444fb52583720bc15ef3035]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/2/2) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/20/2)
 
-[^key-0637d11beaed2b06642d745d348185aa]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/2/2) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [29(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/29/2)
+[^c-0637d11beaed2b06642d745d348185aa]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/2/2) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [29(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/29/2)
 
 [^c21674901]: Marginal citation: Section 80A was inserted by section 1 of the Employment Act 2002 and amended by paragraph 35 of Schedule 1 to the Work and Families Act 2006. Section 80B was inserted by section 1 of the Employment Act 2002 and amended by paragraph 36 of Schedule 1 to the Work and Families Act 2006.
 
-[^key-6b13a3d482d68d4938d1926d5c97a897]: Textual amendment: Words in reg. 2(2) inserted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/2)
+[^c-6b13a3d482d68d4938d1926d5c97a897]: Textual amendment: Words in reg. 2(2) inserted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/2)
 
-[^key-2221aaf3351fc6ec0effae4e127804dd]: Textual amendment: Words in reg. 2(2) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/29/2)
+[^c-2221aaf3351fc6ec0effae4e127804dd]: Textual amendment: Words in reg. 2(2) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/29/2)
 
 [^c21674911]: Marginal citation: [1993 c.39](https://www.legislation.gov.uk/ukpga/1993/39). Section 23(2) was amended by S.I.s 1996/3095, 1999/1563 and 2006/654.
 
-[^key-003187c99f7df543400e556ad2665ff9]: Textual amendment: Words in reg. 2(2) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/25)
+[^c-003187c99f7df543400e556ad2665ff9]: Textual amendment: Words in reg. 2(2) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/25)
 
 [^c21674921]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by section 25 of the [Employment Act 1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19).
 
@@ -1859,13 +1859,13 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21674961]: Marginal citation: The definition of “family” was amended by paragraph 124 of Schedule 24 of the [Civil Partnerships Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-3be10fb2759f7c85952bfe1fdfc9c0cc]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/3/4) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 97](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/97)
+[^c-3be10fb2759f7c85952bfe1fdfc9c0cc]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/3/4) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 97](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/97)
 
-[^key-a3a3195a3e5bb0ad2667f6a0601bb51a]: Textual amendment: Words in reg. 3(6) omitted (23.2.2015) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/3)
+[^c-a3a3195a3e5bb0ad2667f6a0601bb51a]: Textual amendment: Words in reg. 3(6) omitted (23.2.2015) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/3)
 
-[^key-05ef8455921a379cddc7c0e90ce658a1]: Textual amendment: Reg. 3(6)(ab) inserted (23.2.2015) by [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/2/a)
+[^c-05ef8455921a379cddc7c0e90ce658a1]: Textual amendment: Reg. 3(6)(ab) inserted (23.2.2015) by [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/2/a)
 
-[^key-a132fc0e3fc17430585c89f412e379c3]: Textual amendment: Words in reg. 3(6)(b) substituted (23.2.2015) by [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/2/b)
+[^c-a132fc0e3fc17430585c89f412e379c3]: Textual amendment: Words in reg. 3(6)(b) substituted (23.2.2015) by [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/2/b)
 
 [^c21674971]: Marginal citation: Sections 6B to 6I were inserted by section 49 of the Welfare Reform Act 2012.
 
@@ -1879,57 +1879,57 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21675021]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Section 86 was amended by [S.I. 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034).
 
-[^key-39761655ecdc73a5faec89dea7a16b87]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2013/378/regulation/14/3/b) substituted (8.2.2022) by [The Universal Credit and Jobseeker’s Allowance (Work Search and Work Availability Requirements - limitations) (Amendment) Regulations 2022 (S.I. 2022/108)](https://www.legislation.gov.uk/uksi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/108/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/108/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/108/regulation/4))
+[^c-39761655ecdc73a5faec89dea7a16b87]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2013/378/regulation/14/3/b) substituted (8.2.2022) by [The Universal Credit and Jobseeker’s Allowance (Work Search and Work Availability Requirements - limitations) (Amendment) Regulations 2022 (S.I. 2022/108)](https://www.legislation.gov.uk/uksi/2022/108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/108/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/108/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/108/regulation/4))
 
-[^key-4741fa1a1bd878c43e55115dcc6564b3]: Modification: Regulations modified (24.4.2013) by The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 ([S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983)), (art. 12) (with application in accordance with art. 12(1)) (as amended: (20.6.2013) by S.I. 2013/1511).
+[^c-4741fa1a1bd878c43e55115dcc6564b3]: Modification: Regulations modified (24.4.2013) by The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 ([S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983)), (art. 12) (with application in accordance with art. 12(1)) (as amended: (20.6.2013) by S.I. 2013/1511).
 
-[^key-7a8ca2a3921efe404d025e1c58b1a046]: Textual amendment: Words in reg. 15(5) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/4/2)
+[^c-7a8ca2a3921efe404d025e1c58b1a046]: Textual amendment: Words in reg. 15(5) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/4/2)
 
 [^c21675041]: Marginal citation: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17). Section 25(3) was amended by paragraph 17 of Schedule 10 to the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) and paragraph 56 of Schedule 15 to the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-11f7bc65b511f8619c6301341c2a1db0]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2013/378/regulation/15/5) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 3 para. 31](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/31)
+[^c-11f7bc65b511f8619c6301341c2a1db0]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2013/378/regulation/15/5) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 3 para. 31](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/31)
 
-[^key-7b8d0476a645738438400a146475c51a]: Textual amendment: Words in reg. 15(5)(b) substituted (1.4.2017) by [The Social Security (Social Care Wales) (Amendment) Regulations 2017 (S.I. 2017/291)](https://www.legislation.gov.uk/uksi/2017/291), [regs. 1](https://www.legislation.gov.uk/uksi/2017/291/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/291/regulation/3)
+[^c-7b8d0476a645738438400a146475c51a]: Textual amendment: Words in reg. 15(5)(b) substituted (1.4.2017) by [The Social Security (Social Care Wales) (Amendment) Regulations 2017 (S.I. 2017/291)](https://www.legislation.gov.uk/uksi/2017/291), [regs. 1](https://www.legislation.gov.uk/uksi/2017/291/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/291/regulation/3)
 
-[^key-2971f538e8ae0b5cc2b22c70cedb6b36]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/1) substituted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [4(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/4/a)
+[^c-2971f538e8ae0b5cc2b22c70cedb6b36]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/1) substituted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [4(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/4/a)
 
-[^key-ee37659863de8d6ed64e71cdd358b124]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/2) substituted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [4(b)](https://www.legislation.gov.uk/uksi/2018/65/regulation/4/b)
+[^c-ee37659863de8d6ed64e71cdd358b124]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/2) substituted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [4(b)](https://www.legislation.gov.uk/uksi/2018/65/regulation/4/b)
 
 [^c21675051]: Marginal citation: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15). Section 82 was amended by paragraph 13 of Schedule 6 to the [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10) and [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
 
-[^key-a2860ac9250a6375900d7da82649f1b1]: Textual amendment: Words in [reg. 16(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/5/b/ii) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/4/4/a)
+[^c-a2860ac9250a6375900d7da82649f1b1]: Textual amendment: Words in [reg. 16(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/5/b/ii) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2022/630/regulation/4/4/a)
 
 [^c21675061]: Marginal citation: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615).
 
-[^key-292973c77697db209b3a44da3a295b4a]: Textual amendment: [Reg. 16(5A)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/5A)[(5B)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/5B) inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [4(c)](https://www.legislation.gov.uk/uksi/2018/65/regulation/4/c)
+[^c-292973c77697db209b3a44da3a295b4a]: Textual amendment: [Reg. 16(5A)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/5A)[(5B)](https://www.legislation.gov.uk/uksi/2013/378/regulation/16/5B) inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [4(c)](https://www.legislation.gov.uk/uksi/2018/65/regulation/4/c)
 
 [^c21675071]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-23a05968e03cd8959d37b222d4b0f55c]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2013/378/regulation/16A) inserted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/2)
+[^c-23a05968e03cd8959d37b222d4b0f55c]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2013/378/regulation/16A) inserted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/2)
 
-[^key-d9a26c884620f2c6c9cc25d919f81b51]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2013/378/regulation/17) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/2)
+[^c-d9a26c884620f2c6c9cc25d919f81b51]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2013/378/regulation/17) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/2)
 
 [^c22713051]: Modification: Reg. 18 modified (24.4.2013) by The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 ([S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983)), art. {17(4)} (with application in accordance with art. 17(1)-(3))
 
 [^c22713071]: Modification: Reg. 18 modified (24.4.2013) by The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 ([S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983)), art. {18(4)} (with application in accordance with art. 18(1)-(3))
 
-[^key-9af112597e691140bf74e4172e2cca60]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/18/1) substituted (1.11.2021) by [The Jobseeker’s Allowance and Employment and Support Allowance (Amendment) Regulations 2021 (S.I. 2021/1132)](https://www.legislation.gov.uk/uksi/2021/1132), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1132/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/1132/regulation/2/a)
+[^c-9af112597e691140bf74e4172e2cca60]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/18/1) substituted (1.11.2021) by [The Jobseeker’s Allowance and Employment and Support Allowance (Amendment) Regulations 2021 (S.I. 2021/1132)](https://www.legislation.gov.uk/uksi/2021/1132), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1132/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/1132/regulation/2/a)
 
-[^key-56aef01ab9702510250bcd02e878f285]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/18/4) omitted (1.11.2021) by virtue of [The Jobseeker’s Allowance and Employment and Support Allowance (Amendment) Regulations 2021 (S.I. 2021/1132)](https://www.legislation.gov.uk/uksi/2021/1132), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1132/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1132/regulation/2/b)
+[^c-56aef01ab9702510250bcd02e878f285]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/18/4) omitted (1.11.2021) by virtue of [The Jobseeker’s Allowance and Employment and Support Allowance (Amendment) Regulations 2021 (S.I. 2021/1132)](https://www.legislation.gov.uk/uksi/2021/1132), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1132/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/1132/regulation/2/b)
 
-[^key-3aab5c5806b4bd078187f1fd1392ed9e]: Textual amendment: Reg. 19(1) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/4/a)
+[^c-3aab5c5806b4bd078187f1fd1392ed9e]: Textual amendment: Reg. 19(1) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/4/a)
 
-[^key-54ef29e200bb413aebaf61cdf80b1c6f]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/19/1) substituted (27.11.2019) by [The Jobseekers Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/4/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
+[^c-54ef29e200bb413aebaf61cdf80b1c6f]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/19/1) substituted (27.11.2019) by [The Jobseekers Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/4/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
 
-[^key-09d5a09b2ecdc587b6b1bcb13a8a02f1]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/19/1) omitted (27.11.2019) by virtue of [The Jobseekers Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/4/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
+[^c-09d5a09b2ecdc587b6b1bcb13a8a02f1]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/19/1) omitted (27.11.2019) by virtue of [The Jobseekers Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/4/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
 
-[^key-a99d94bdb8f604153965c10c890c38d6]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/19/1) omitted (27.11.2019) by virtue of [The Jobseekers Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
+[^c-a99d94bdb8f604153965c10c890c38d6]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/19/1) omitted (27.11.2019) by virtue of [The Jobseekers Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
 
-[^key-ab51ed3d44945c44c6826d510cf543b6]: Textual amendment: Reg. 19(4) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/4/b)
+[^c-ab51ed3d44945c44c6826d510cf543b6]: Textual amendment: Reg. 19(4) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/4/b)
 
-[^key-e25356687794bb7ec8fc14139edcd0f0]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/378/regulation/20) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/5)
+[^c-e25356687794bb7ec8fc14139edcd0f0]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2013/378/regulation/20) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/5)
 
-[^key-570119efc76fbe521d783ae047568668]: Textual amendment: Reg. 21(3)(4) substituted for reg. 21(3) (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/6)
+[^c-570119efc76fbe521d783ae047568668]: Textual amendment: Reg. 21(3)(4) substituted for reg. 21(3) (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseekers Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2016/678/regulation/6/6)
 
 [^c22713091]: Modification: Reg. 23 restricted (24.4.2013) by The Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013 ([S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983)), art. {20(2)(a)} (with application in accordance with art. 20(1))
 
@@ -1953,9 +1953,9 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21675171]: Marginal citation: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556). Regulation 9E was inserted by [S.I. 2010/385](https://www.legislation.gov.uk/uksi/2010/385).
 
-[^key-19f58d70203b082ade8820d6d93a31e4]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/36/1) substituted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/3)
+[^c-19f58d70203b082ade8820d6d93a31e4]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/36/1) substituted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/3)
 
-[^key-6fccfa1511517cf4dd67e442b263b956]: Textual amendment: Word in reg. 36(2) substituted (27.10.2014) by [The Social Security (Jobseeker s Allowance and Employment and Support Allowance) (Waiting Days) Amendment Regulations 2014 (S.I. 2014/2309)](https://www.legislation.gov.uk/uksi/2014/2309), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2309/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2309/regulation/2/3) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/2309/regulation/4/1))
+[^c-6fccfa1511517cf4dd67e442b263b956]: Textual amendment: Word in reg. 36(2) substituted (27.10.2014) by [The Social Security (Jobseeker s Allowance and Employment and Support Allowance) (Waiting Days) Amendment Regulations 2014 (S.I. 2014/2309)](https://www.legislation.gov.uk/uksi/2014/2309), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2309/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2309/regulation/2/3) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/2309/regulation/4/1))
 
 [^c21675181]: Marginal citation: Relevant amendments to section 1(2) were made by section 44 of the Welfare Reform Act 2012 and paragraph 12 of Schedule 3 to the Welfare Reform Act 2007.
 
@@ -1973,21 +1973,21 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21675251]: Marginal citation: Section 70 was amended by S.I.s 1994/2556, 2002/1457 and 2011/2426.
 
-[^key-355ff59db1f9608de2b8a7a211dc8a72]: Textual amendment: Words in [reg. 39(2)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/39/2/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(4)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/4/a)
+[^c-355ff59db1f9608de2b8a7a211dc8a72]: Textual amendment: Words in [reg. 39(2)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/39/2/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(4)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/4/a)
 
 [^c21675261]: Marginal citation: Part 12A was inserted by section 5 of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-137bd9ddb9f4793084ca600bf4d77e19]: Textual amendment: Words in reg. 39(2)(d) inserted (18.5.2014) by [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/884)](https://www.legislation.gov.uk/uksi/2014/884), [regs. 1](https://www.legislation.gov.uk/uksi/2014/884/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2014/884/regulation/6/2)
+[^c-137bd9ddb9f4793084ca600bf4d77e19]: Textual amendment: Words in reg. 39(2)(d) inserted (18.5.2014) by [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/884)](https://www.legislation.gov.uk/uksi/2014/884), [regs. 1](https://www.legislation.gov.uk/uksi/2014/884/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2014/884/regulation/6/2)
 
 [^c21675271]: Marginal citation: Section 35 was amended by section 67 of the Social Security Act 1998, section 4(2) of the Still-[Birth (Definition) Act 1992 (c.29)](https://www.legislation.gov.uk/ukpga/1992/29), [section 53](https://www.legislation.gov.uk/ukpga/1992/29/section/53) of the Welfare Reform and Pensions Act 1999, paragraph 4 of Schedule 7 to the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), [paragraph 6](https://www.legislation.gov.uk/ukpga/2002/22/paragraph/6) of Schedule 1 to the Work and Families Act 2006, section 63 of the Welfare Reform Act 2012 and [S.I. 1994/1230](https://www.legislation.gov.uk/uksi/1994/1230).
 
-[^key-9be5f85c71e4a41debfa378163a5ac04]: Textual amendment: Words in [reg. 39(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/39/4) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(4)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/4/b)
+[^c-9be5f85c71e4a41debfa378163a5ac04]: Textual amendment: Words in [reg. 39(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/39/4) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(4)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/4/b)
 
 [^c21675281]: Marginal citation: Section 30C was inserted by section 3 of the Social Security (Incapacity for Work) Act 1994 and amended by paragraph 25 of Schedule 3 to the [Tax Credits Act 2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-434b26c0b7e4e7b41d0d29fd366356f9]: Textual amendment: Word in [reg. 41(1)(b)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/1/b) substituted for full stop (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2025/884/regulation/11/2/a)
+[^c-434b26c0b7e4e7b41d0d29fd366356f9]: Textual amendment: Word in [reg. 41(1)(b)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/1/b) substituted for full stop (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2025/884/regulation/11/2/a)
 
-[^key-f92f411f216664b9f5ebbe68fb3dbe4c]: Textual amendment: [Reg. 41(1)(c)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/1/c) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/11/2/b)
+[^c-f92f411f216664b9f5ebbe68fb3dbe4c]: Textual amendment: [Reg. 41(1)(c)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/1/c) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2025/884/regulation/11/2/b)
 
 [^c21675291]: Marginal citation: Section 6(2) was amended by paragraph 2 of Schedule 4 to the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
@@ -1997,85 +1997,85 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21675321]: Marginal citation: Paragraph 18 of Schedule 3 was amended by paragraph 40 of Schedule 21 to the Health and Social Care Act 2012.
 
-[^key-bc3ca2fbc3ad16d5ed56a1bbba72de6f]: Textual amendment: Words in [reg. 41(6)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/6) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/5/a)
+[^c-bc3ca2fbc3ad16d5ed56a1bbba72de6f]: Textual amendment: Words in [reg. 41(6)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/6) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/5/a)
 
 [^c21675331]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 
-[^key-c30961c20c24dfc9acd3976c8395fae8]: Textual amendment: [Reg. 41(6A)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/6A)[(6B)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/6B) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [11(2)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/11/2/c)
+[^c-c30961c20c24dfc9acd3976c8395fae8]: Textual amendment: [Reg. 41(6A)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/6A)[(6B)](https://www.legislation.gov.uk/uksi/2013/378/regulation/41/6B) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [11(2)(c)](https://www.legislation.gov.uk/uksi/2025/884/regulation/11/2/c)
 
-[^key-bda765d724272b6733cfbf08058ff799]: Textual amendment: Words in [reg. 42(3)(c)(i)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/i) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2024/919/article/15/2/a)
+[^c-bda765d724272b6733cfbf08058ff799]: Textual amendment: Words in [reg. 42(3)(c)(i)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/i) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2024/919/article/15/2/a)
 
 [^c22713111]: Textual amendment: Word in reg. 42(3)(c)(i) omitted (8.4.2013) by virtue of [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [7](https://www.legislation.gov.uk/uksi/2013/591/article/7), [Sch. para. 52(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/52/2/a/i)
 
 [^c22713131]: Textual amendment: Words in reg. 42(3)(c)(i) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [7](https://www.legislation.gov.uk/uksi/2013/591/article/7), [Sch. para. 52(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/52/2/a/ii)
 
-[^key-fcf258da5cbdf431a88967a36ff1b203]: Textual amendment: Words in [reg. 42(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/ii) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2024/919/article/15/2/a)
+[^c-fcf258da5cbdf431a88967a36ff1b203]: Textual amendment: Words in [reg. 42(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/ii) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2024/919/article/15/2/a)
 
 [^c22713151]: Textual amendment: Words in reg. 42(3)(c)(ii) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [7](https://www.legislation.gov.uk/uksi/2013/591/article/7), [Sch. para. 52(2)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/52/2/b)
 
-[^key-9ac5d704d512f9d365b420f73383c27f]: Textual amendment: Words in [reg. 42(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/ii) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/16/2/a)
+[^c-9ac5d704d512f9d365b420f73383c27f]: Textual amendment: Words in [reg. 42(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/ii) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/16/2/a)
 
-[^key-a58981ceaf2c38c28646152f96641fc0]: Textual amendment: Words in reg. 42(3)(c)(ii) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/22/2/a)
+[^c-a58981ceaf2c38c28646152f96641fc0]: Textual amendment: Words in reg. 42(3)(c)(ii) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/22/2/a)
 
-[^key-221438802faa4c5f374364925bc65dea]: Textual amendment: [Reg. 42(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/ii): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/a/i/aa)
+[^c-221438802faa4c5f374364925bc65dea]: Textual amendment: [Reg. 42(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/ii): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/a/i/aa)
 
-[^key-a3c5c20350aca2b2359a2956801efc28]: Textual amendment: Words in [reg. 42(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/ii) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/a/i/bb)
+[^c-a3c5c20350aca2b2359a2956801efc28]: Textual amendment: Words in [reg. 42(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/ii) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/a/i/bb)
 
-[^key-e90c795bebf4d0d9e3012d5561badcdd]: Textual amendment: Words in [reg. 42(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/iii) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/5)
+[^c-e90c795bebf4d0d9e3012d5561badcdd]: Textual amendment: Words in [reg. 42(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/iii) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [24(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/24/5)
 
-[^key-11e7a8589af79b9b18859d76184fbe90]: Textual amendment: Words in [reg. 42(3)(c)(iv)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/iv) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2024/919/article/15/2/a)
+[^c-11e7a8589af79b9b18859d76184fbe90]: Textual amendment: Words in [reg. 42(3)(c)(iv)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/iv) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2024/919/article/15/2/a)
 
 [^c22713171]: Textual amendment: Words in reg. 42(3)(c)(iv) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [7](https://www.legislation.gov.uk/uksi/2013/591/article/7), [Sch. para. 52(2)(c)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/52/2/c)
 
-[^key-d5cc03a86ab3536d1ddfaa838fcc7121]: Textual amendment: Words in reg. 42(3)(c)(iv) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/22/2/b)
+[^c-d5cc03a86ab3536d1ddfaa838fcc7121]: Textual amendment: Words in reg. 42(3)(c)(iv) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/22/2/b)
 
-[^key-ce221305aa155e98bc0357004e8ccc33]: Textual amendment: [Reg. 42(3)(c)(iv)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/iv): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/a/ii/aa)
+[^c-ce221305aa155e98bc0357004e8ccc33]: Textual amendment: [Reg. 42(3)(c)(iv)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/iv): comma substituted for word (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/a/ii/aa)
 
-[^key-23d95b83837bace6ae8e8c968a14153f]: Textual amendment: Words in [reg. 42(3)(c)(iv)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/iv) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/a/ii/bb)
+[^c-23d95b83837bace6ae8e8c968a14153f]: Textual amendment: Words in [reg. 42(3)(c)(iv)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/3/c/iv) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/a/ii/bb)
 
 [^c22713191]: Textual amendment: Words in reg. 42(3)(c)(iv) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [7](https://www.legislation.gov.uk/uksi/2013/591/article/7), [Sch. para. 52(2)(d)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/52/2/d)
 
-[^key-0af62f4666af8f8ad18754b5085fd2a0]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/b/i)
+[^c-0af62f4666af8f8ad18754b5085fd2a0]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/b/i)
 
 [^c22713211]: Textual amendment: Words in reg. 42(4) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [7](https://www.legislation.gov.uk/uksi/2013/591/article/7), [Sch. para. 52(2)(e)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/52/2/e)
 
-[^key-d0c512097c6d16f3965fd62e5f48dafb]: Textual amendment: Words in reg. 42(4) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/22/3/a)
+[^c-d0c512097c6d16f3965fd62e5f48dafb]: Textual amendment: Words in reg. 42(4) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/22/3/a)
 
 [^c21675341]: Marginal citation: Section 71 was amended by section 67 of the Welfare Reform and Pensions Act 1999.
 
-[^key-06eff0e8ed382d567a255e413c99d327]: Textual amendment: Words in reg. 42(4) substituted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/22/3/b)
+[^c-06eff0e8ed382d567a255e413c99d327]: Textual amendment: Words in reg. 42(4) substituted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/22/3/b)
 
-[^key-81789fc44f110ca28b03319b7234b276]: Textual amendment: Word in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [16(2)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/227/article/16/2/b/i/aa)
+[^c-81789fc44f110ca28b03319b7234b276]: Textual amendment: Word in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [16(2)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/227/article/16/2/b/i/aa)
 
-[^key-2576b59532e554052efe22876fe82c20]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [16(2)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/227/article/16/2/b/i/bb)
+[^c-2576b59532e554052efe22876fe82c20]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [16(2)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/227/article/16/2/b/i/bb)
 
-[^key-e13a545962c2d8f40eac90d68d4ad239]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/b/ii)
+[^c-e13a545962c2d8f40eac90d68d4ad239]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) substituted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/177/article/15/2/b/ii)
 
-[^key-5679939405514728830a8b173c475d87]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/2024/919/article/15/2/b)
+[^c-5679939405514728830a8b173c475d87]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) inserted (21.10.2024) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2024 (S.I. 2024/919)](https://www.legislation.gov.uk/uksi/2024/919), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/919/article/1/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/2024/919/article/15/2/b)
 
-[^key-4b5be7159f43ba95cbc926f9ddcdd6f6]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [16(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/227/article/16/2/b/ii)
+[^c-4b5be7159f43ba95cbc926f9ddcdd6f6]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/uksi/2013/378/regulation/42/4) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [16(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/227/article/16/2/b/ii)
 
-[^key-fef636a8d002d2259d57271faba3f8da]: Textual amendment: Words in reg. 43(1) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/29/3)
+[^c-fef636a8d002d2259d57271faba3f8da]: Textual amendment: Words in reg. 43(1) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/29/3)
 
-[^key-543240fc409da4eb04c3d856ce5cdafe]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/43/1) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [29(3)](https://www.legislation.gov.uk/uksi/2020/354/regulation/29/3)
+[^c-543240fc409da4eb04c3d856ce5cdafe]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/43/1) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [29(3)](https://www.legislation.gov.uk/uksi/2020/354/regulation/29/3)
 
-[^key-5512192199998afb6b7c1baf28aa49f9]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/43/1) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2025/201/regulation/20/3)
+[^c-5512192199998afb6b7c1baf28aa49f9]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2013/378/regulation/43/1) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2025/201/regulation/20/3)
 
 [^c21675351]: Marginal citation: *See* section 1 of the [Charities Act 2011 (c.25)](https://www.legislation.gov.uk/ukpga/2011/25).
 
-[^key-5797b9e3f1939d283f57263637ea5d00]: Textual amendment: Reg. 44(1)(c)(i) substituted for reg. 44(1)(c)(i)-(ii) (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [4(3)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/4/3)
+[^c-5797b9e3f1939d283f57263637ea5d00]: Textual amendment: Reg. 44(1)(c)(i) substituted for reg. 44(1)(c)(i)-(ii) (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [4(3)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/4/3)
 
-[^key-d6c3e62277dcb96db095d976a647a735]: Textual amendment: Words in [reg. 44(1)(c)(v)](https://www.legislation.gov.uk/uksi/2013/378/regulation/44/1/c/v) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/5/b)
+[^c-d6c3e62277dcb96db095d976a647a735]: Textual amendment: Words in [reg. 44(1)(c)(v)](https://www.legislation.gov.uk/uksi/2013/378/regulation/44/1/c/v) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/5/b)
 
 [^c21675371]: Marginal citation: Section 171F was inserted by section 6 of the Social Security (Incapacity for Work) Act 1994.
 
-[^key-fc70ebe1418c7cfb304972effe646ed7]: Textual amendment: Words in reg. 45(1)(a) inserted (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2015/336/regulation/5/a/i)
+[^c-fc70ebe1418c7cfb304972effe646ed7]: Textual amendment: Words in reg. 45(1)(a) inserted (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2015/336/regulation/5/a/i)
 
-[^key-5a7efd69930bb4df0c61b8b82f4cfd2e]: Textual amendment: Words in reg. 45(1)(b) inserted (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2015/336/regulation/5/a/ii)
+[^c-5a7efd69930bb4df0c61b8b82f4cfd2e]: Textual amendment: Words in reg. 45(1)(b) inserted (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2015/336/regulation/5/a/ii)
 
-[^key-0ad4b51cac69d97c376ece04a2c0e86b]: Textual amendment: Reg. 45(1A) inserted (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/336/regulation/5/b)
+[^c-0ad4b51cac69d97c376ece04a2c0e86b]: Textual amendment: Reg. 45(1A) inserted (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/336/regulation/5/b)
 
-[^key-4e145fc8b1ef7ed25e3a025370e187fa]: Textual amendment: Words in [reg. 45(1A)](https://www.legislation.gov.uk/uksi/2013/378/regulation/45/1A) substituted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/987/regulation/5)
+[^c-4e145fc8b1ef7ed25e3a025370e187fa]: Textual amendment: Words in [reg. 45(1A)](https://www.legislation.gov.uk/uksi/2013/378/regulation/45/1A) substituted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/987/regulation/5)
 
 [^c21675381]: Marginal citation: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by section 146 of the [Learning and Skills Act 2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), [sections 42](https://www.legislation.gov.uk/ukpga/2000/21/section/42) and 43 of the [Higher Education Act 2004 (c.8)](https://www.legislation.gov.uk/ukpga/2004/8), [section 257](https://www.legislation.gov.uk/ukpga/2004/8/section/257) of the [Apprenticeships, Skills, Children and Learning Act 2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), [section 76](https://www.legislation.gov.uk/ukpga/2009/22/section/76) of the [Education Act 2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21), [paragraph 236](https://www.legislation.gov.uk/ukpga/2011/21/paragraph/236) of Schedule 6 to the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1) and section 147 of the [Finance Act 2003 (c.14)](https://www.legislation.gov.uk/ukpga/2003/14).
 
@@ -2085,53 +2085,53 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21675411]: Marginal citation: S.S.I 2007/153.
 
-[^key-eb8bb867fc49102154fca4d60b95d18a]: Textual amendment: Words in reg. 46(1)(a) omitted (30.3.2015) by virtue of [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/a/i)
+[^c-eb8bb867fc49102154fca4d60b95d18a]: Textual amendment: Words in reg. 46(1)(a) omitted (30.3.2015) by virtue of [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/a/i)
 
-[^key-820bc22d512e8daa854cb2c80661bcc7]: Textual amendment: Words in reg. 46(1)(c) substituted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/a/ii)
+[^c-820bc22d512e8daa854cb2c80661bcc7]: Textual amendment: Words in reg. 46(1)(c) substituted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/a/ii)
 
-[^key-215c0d432004f80515e60dd87c71d062]: Textual amendment: Words in reg. 46(1) inserted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/a/iii)
+[^c-215c0d432004f80515e60dd87c71d062]: Textual amendment: Words in reg. 46(1) inserted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/a/iii)
 
-[^key-67b80d11fb0ebb2df9880fc299889dbb]: Modification: Reg. 46(3) modified (temp.) (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/371/regulation/8/2/b) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/2)) (as amended (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/476/regulation/3))
+[^c-67b80d11fb0ebb2df9880fc299889dbb]: Modification: Reg. 46(3) modified (temp.) (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/371/regulation/8/2/b) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/2)) (as amended (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/476/regulation/3))
 
-[^key-4302b6f930d29930f1566c3282afcd23]: Textual amendment: Words in reg. 46(3) substituted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/b)
+[^c-4302b6f930d29930f1566c3282afcd23]: Textual amendment: Words in reg. 46(3) substituted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/b)
 
-[^key-55b4bf7bddbf472a668c7022fe385952]: Textual amendment: Words in reg. 46(4) substituted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/b)
+[^c-55b4bf7bddbf472a668c7022fe385952]: Textual amendment: Words in reg. 46(4) substituted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/b)
 
-[^key-138f08f445b520e31995254e6760b480]: Textual amendment: Words in reg. 46(5) substituted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/b)
+[^c-138f08f445b520e31995254e6760b480]: Textual amendment: Words in reg. 46(5) substituted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/b)
 
-[^key-b6fe83f1725578cea7d6959082aa7dec]: Textual amendment: Reg. 46(6) inserted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/c)
+[^c-b6fe83f1725578cea7d6959082aa7dec]: Textual amendment: Reg. 46(6) inserted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/3/c)
 
-[^key-08b3b1e40fec692fc007a7c441871e5f]: Textual amendment: Reg. 46(7) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/2)
+[^c-08b3b1e40fec692fc007a7c441871e5f]: Textual amendment: Reg. 46(7) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/2)
 
-[^key-d5188d5a889a0c7545e989ec32a4d55e]: Textual amendment: Reg. 46A inserted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/4)
+[^c-d5188d5a889a0c7545e989ec32a4d55e]: Textual amendment: Reg. 46A inserted (30.3.2015) by [The Jobseeker s Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/339/regulation/3/4)
 
-[^key-fbcd3857b02344517447bb17cfd9d4c1]: Textual amendment: Words in reg. 46A(1)(b) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/a/i)
+[^c-fbcd3857b02344517447bb17cfd9d4c1]: Textual amendment: Words in reg. 46A(1)(b) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/a/i)
 
-[^key-139bf09fdbcc449e3db770f21d6c0a13]: Textual amendment: Words in reg. 46A(1)(c)(i) substituted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/a/ii)[(aa)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/aa)
+[^c-139bf09fdbcc449e3db770f21d6c0a13]: Textual amendment: Words in reg. 46A(1)(c)(i) substituted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/a/ii)[(aa)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/aa)
 
-[^key-68fef67841541dac0578f91c3aa2397b]: Textual amendment: Word in reg. 46A(1)(c)(i) substituted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/a/ii)[(bb)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/bb)
+[^c-68fef67841541dac0578f91c3aa2397b]: Textual amendment: Word in reg. 46A(1)(c)(i) substituted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/a/ii)[(bb)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/bb)
 
-[^key-656d12d6df047ee58ea8963bda927333]: Textual amendment: Words in reg. 46A(1)(c)(ii) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/a/iii)
+[^c-656d12d6df047ee58ea8963bda927333]: Textual amendment: Words in reg. 46A(1)(c)(ii) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/a/iii)
 
-[^key-baadc701d6ce53c91c29508b39be19df]: Textual amendment: Words in [reg. 46A(2)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/46A/2/a) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/4/4/b)
+[^c-baadc701d6ce53c91c29508b39be19df]: Textual amendment: Words in [reg. 46A(2)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/46A/2/a) omitted (1.7.2022) by virtue of [The Social Security (Medical Evidence) and Statutory Sick Pay (Medical Evidence) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/630)](https://www.legislation.gov.uk/uksi/2022/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/630/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2022/630/regulation/4/4/b)
 
-[^key-bfc4dd46c3a840affa3e0f4fb28a3a8f]: Textual amendment: Words in reg. 46A(3) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/b)
+[^c-bfc4dd46c3a840affa3e0f4fb28a3a8f]: Textual amendment: Words in reg. 46A(3) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/b)
 
-[^key-42e2dfc8893f750069073eff0c546787]: Textual amendment: Reg. 46A(3A) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/c)
+[^c-42e2dfc8893f750069073eff0c546787]: Textual amendment: Reg. 46A(3A) inserted (23.5.2016) by [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/c)
 
-[^key-7b5966ff7d83f8b88c4eb693480deec2]: Textual amendment: Word in reg. 46A(4) omitted (23.5.2016) by virtue of [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/d)
+[^c-7b5966ff7d83f8b88c4eb693480deec2]: Textual amendment: Word in reg. 46A(4) omitted (23.5.2016) by virtue of [The Jobseekers Allowance (Extended Period of Sickness) Amendment Regulations 2016 (S.I. 2016/502)](https://www.legislation.gov.uk/uksi/2016/502), [regs. 1](https://www.legislation.gov.uk/uksi/2016/502/regulation/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2016/502/regulation/3/3/d)
 
-[^key-01ac581132d9b0ca98f63ba932bc6d56]: Modification: Reg. 46A(5) modified (temp.) (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/371/regulation/8/2/b) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/2)) (as amended (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/476/regulation/3))
+[^c-01ac581132d9b0ca98f63ba932bc6d56]: Modification: Reg. 46A(5) modified (temp.) (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/371/regulation/8/2/b) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/2)) (as amended (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/476/regulation/3))
 
 [^c21675421]: Marginal citation: Section 4(1)(a) was amended by Schedule 14 to the Welfare Reform Act 2012.
 
-[^key-f3b6502e2e0334cd9273b4fe05d27980]: Textual amendment: Sum in [Reg. 49(1)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/49/1/a) substituted (coming into force in accordance with art. 1(3)(j)(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(j)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/j), [28(a)](https://www.legislation.gov.uk/uksi/2026/148/article/28/a)
+[^c-f3b6502e2e0334cd9273b4fe05d27980]: Textual amendment: Sum in [Reg. 49(1)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/49/1/a) substituted (coming into force in accordance with art. 1(3)(j)(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(j)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/j), [28(a)](https://www.legislation.gov.uk/uksi/2026/148/article/28/a)
 
-[^key-0c443118a79729b0a969295b8ecce216]: Textual amendment: Sum in [Reg. 49(1)(b)](https://www.legislation.gov.uk/uksi/2013/378/regulation/49/1/b) substituted (coming into force in accordance with art. 1(3)(j)(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(j)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/j), [28(b)](https://www.legislation.gov.uk/uksi/2026/148/article/28/b)
+[^c-0c443118a79729b0a969295b8ecce216]: Textual amendment: Sum in [Reg. 49(1)(b)](https://www.legislation.gov.uk/uksi/2013/378/regulation/49/1/b) substituted (coming into force in accordance with art. 1(3)(j)(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(j)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/j), [28(b)](https://www.legislation.gov.uk/uksi/2026/148/article/28/b)
 
 [^c21675431]: Marginal citation: Section 4(1)(b) was amended by paragraph 5 of Schedule 5 and Schedule 14 to the Welfare Reform Act 2012 and [S.I. 2006/343](https://www.legislation.gov.uk/uksi/2006/343).
 
-[^key-10afc0bf3a6e00257cfc4d4a3b3bb48c]: Textual amendment: Reg. 54(3) substituted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/3)
+[^c-10afc0bf3a6e00257cfc4d4a3b3bb48c]: Textual amendment: Reg. 54(3) substituted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/3)
 
 [^c21675441]: Marginal citation: 1992 (c.52). Section 188 was amended by section 34 of the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19) and S.I.s 1995/2587, 1999/1925 and 2010/93.
 
@@ -2145,23 +2145,23 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21675491]: Marginal citation: Section 156 was amended by paragraph 56 of Schedule 1 to the Employment Rights Act 1996 and [S.I. 2011/3006](https://www.legislation.gov.uk/uksi/2011/3006). Section 161 was amended by paragraph 12 of Schedule 1 to the [Employment Relations Act 2004 (c.24)](https://www.legislation.gov.uk/ukpga/2004/24). Sections 162, 165 and 192 were amended by section 1 of the [Employment Rights (Dispute Resolution) Act 1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8). Section 164 was amended by paragraph 69 of Schedule 8 to the Trade Union Reform and Employment Rights Act 1993. Section 166 was amended by section 1 of the Employment Rights (Dispute Resolution) Act 1998 and paragraph 22 of Schedule 7 to the Trade Union Reform and Employment Rights Act 1993. Section 189 was amended by section 1 of the Employment Rights (Dispute Resolution) Act 1998 and S.I.s 1995/2587 and 1999/1925.
 
-[^key-53efcbce3039f914a9e15c63455c48b5]: Textual amendment: Words in reg. 58(2)(c) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [29(4)](https://www.legislation.gov.uk/uksi/2014/3255/article/29/4)
+[^c-53efcbce3039f914a9e15c63455c48b5]: Textual amendment: Words in reg. 58(2)(c) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [29(4)](https://www.legislation.gov.uk/uksi/2014/3255/article/29/4)
 
-[^key-6ae5e0d6bc5797fc77da4180458fb100]: Textual amendment: Words in reg. 58(2)(c) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [29(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/29/4)
+[^c-6ae5e0d6bc5797fc77da4180458fb100]: Textual amendment: Words in reg. 58(2)(c) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [29(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/29/4)
 
-[^key-2a207ab2c8c6cef602f7ddbc54077092]: Textual amendment: Words in [reg. 58(2)(c)](https://www.legislation.gov.uk/uksi/2013/378/regulation/58/2/c) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2025/201/regulation/20/4)
+[^c-2a207ab2c8c6cef602f7ddbc54077092]: Textual amendment: Words in [reg. 58(2)(c)](https://www.legislation.gov.uk/uksi/2013/378/regulation/58/2/c) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2025/201/regulation/20/4)
 
 [^c21675501]: Marginal citation: The Scheme is set out in regulation 4 of, and the Schedule to, the European Communities (Iron and Steel Employees Re-adaptation Benefits Scheme) (No.2) Regulations 1996/3182.
 
-[^key-bc9c3e794ac79dcdbc2c1ccb02e3656c]: Textual amendment: Reg. 58(2)(i) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/597/regulation/3/7)
+[^c-bc9c3e794ac79dcdbc2c1ccb02e3656c]: Textual amendment: Reg. 58(2)(i) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/597/regulation/3/7)
 
 [^c21675511]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22C was inserted by section 8(1) of the [Children and Young Persons Act 2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23).
 
-[^key-2f5925f9974798c0a00f69ff00d8c892]: Textual amendment: Reg. 60(2)(b)(ia) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [17(a)](https://www.legislation.gov.uk/uksi/2017/901/article/17/a)
+[^c-2f5925f9974798c0a00f69ff00d8c892]: Textual amendment: Reg. 60(2)(b)(ia) inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [17(a)](https://www.legislation.gov.uk/uksi/2017/901/article/17/a)
 
-[^key-a772c4d2c3f33b9ae87ce37cc6a4638d]: Textual amendment: Words in reg. 60(2)(b)(ii) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2017/995/regulation/14/2/a)
+[^c-a772c4d2c3f33b9ae87ce37cc6a4638d]: Textual amendment: Words in reg. 60(2)(b)(ii) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2017/995/regulation/14/2/a)
 
-[^key-04c0e713af97608aaa510fae8e9b228a]: Textual amendment: Words in reg. 60(2)(b)(ii) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2017/995/regulation/14/2/b)
+[^c-04c0e713af97608aaa510fae8e9b228a]: Textual amendment: Words in reg. 60(2)(b)(ii) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2017/995/regulation/14/2/b)
 
 [^c21675521]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36). Section 26 was amended by Schedule 3 to the [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4) and paragraph 9 of Schedule 1 to the Children and Young Persons Act 2008.
 
@@ -2169,39 +2169,39 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21675541]: Marginal citation: Section 59(1)(a) was amended by section 49 of the [Children Act 2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31).
 
-[^key-e21c6beb8b60e8a9436f1330876152d5]: Textual amendment: Reg. 60(2)(ba) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/8/2)
+[^c-e21c6beb8b60e8a9436f1330876152d5]: Textual amendment: Reg. 60(2)(ba) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/8/2)
 
-[^key-5027c90ef807c3ff9005c666e3a5acd6]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-5027c90ef807c3ff9005c666e3a5acd6]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21675561]: Marginal citation: [1948 c.29](https://www.legislation.gov.uk/ukpga/1948/29). Section 26(3A) was inserted by section 42 of the [National Health Service and Community Care Act 1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19)
 
-[^key-b1e3917ae24045adda7874ee4d5e378f]: Textual amendment: [Reg. 60(2)(c)(v)](https://www.legislation.gov.uk/uksi/2013/378/regulation/60/2/c/v) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [65(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/65/2)
+[^c-b1e3917ae24045adda7874ee4d5e378f]: Textual amendment: [Reg. 60(2)(c)(v)](https://www.legislation.gov.uk/uksi/2013/378/regulation/60/2/c/v) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [65(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/65/2)
 
-[^key-9cd24e4615c16ac9cc19f38c7e1ebbc6]: Textual amendment: Word in reg. 60(2)(c)(vi) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [17(b)(i)](https://www.legislation.gov.uk/uksi/2017/901/article/17/b/i)
+[^c-9cd24e4615c16ac9cc19f38c7e1ebbc6]: Textual amendment: Word in reg. 60(2)(c)(vi) omitted (3.11.2017) by virtue of [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [17(b)(i)](https://www.legislation.gov.uk/uksi/2017/901/article/17/b/i)
 
-[^key-b700688b8bfec28f9843d4a90f6e98e5]: Textual amendment: Reg. 60(2)(c)(vii) and word inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 41(b)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/41/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+[^c-b700688b8bfec28f9843d4a90f6e98e5]: Textual amendment: Reg. 60(2)(c)(vii) and word inserted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 41(b)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/41/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
 
-[^key-a7f99ce8ebe66e705da1ae29133e0df9]: Textual amendment: Reg. 60(2)(c)(vii) and word inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [17(b)(ii)](https://www.legislation.gov.uk/uksi/2017/901/article/17/b/ii)
+[^c-a7f99ce8ebe66e705da1ae29133e0df9]: Textual amendment: Reg. 60(2)(c)(vii) and word inserted (3.11.2017) by [The Social Services and Well-being (Wales) Act 2014 and the Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Order 2017 (S.I. 2017/901)](https://www.legislation.gov.uk/uksi/2017/901), [arts. 1](https://www.legislation.gov.uk/uksi/2017/901/article/1), [17(b)(ii)](https://www.legislation.gov.uk/uksi/2017/901/article/17/b/ii)
 
-[^key-e878968aac46bd28af7db089690b4a35]: Textual amendment: [Reg. 62(1)(b)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/1/b) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/3/a)
+[^c-e878968aac46bd28af7db089690b4a35]: Textual amendment: [Reg. 62(1)(b)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/1/b) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/3/a)
 
-[^key-b360a1d970ad7e245542ef8d23224ea1]: Textual amendment: Words in [reg. 62(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/2) inserted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(3)(b)(i)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/3/b/i)
+[^c-b360a1d970ad7e245542ef8d23224ea1]: Textual amendment: Words in [reg. 62(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/2) inserted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(3)(b)(i)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/3/b/i)
 
-[^key-7c151e52b6ab7804bd593c70bbbd75fd]: Textual amendment: Words in [reg. 62(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/2) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/3/b/ii)
+[^c-7c151e52b6ab7804bd593c70bbbd75fd]: Textual amendment: Words in [reg. 62(2)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/2) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/3/b/ii)
 
-[^key-9b791cfd3f4b302dc5fa4ade494ef602]: Textual amendment: [Reg. 62(3)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/3/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(20)(a)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/20/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-9b791cfd3f4b302dc5fa4ade494ef602]: Textual amendment: [Reg. 62(3)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/3/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(20)(a)(i)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/20/a/i) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
 [^c21675601]: Marginal citation: Section 15 was amended by paragraph 420 of Schedule 1 to the [Income Tax (Trading and Other Income) Act 2005 (c.5)](https://www.legislation.gov.uk/ukpga/2005/5), [sections 2](https://www.legislation.gov.uk/ukpga/2005/5/section/2) and 3 of the [National Insurance Contributions Act 2002 (c.19)](https://www.legislation.gov.uk/ukpga/2002/19), [section 13](https://www.legislation.gov.uk/ukpga/2002/19/section/13) of the [Limited Liability Partnerships Act 2000 (c.12)](https://www.legislation.gov.uk/ukpga/2000/12) and S.I.s 2011/938 and 2012/807.
 
-[^key-475ad52d688053f90cdd9e6ede1eea40]: Textual amendment: [Reg. 62(4)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/4/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/20/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-475ad52d688053f90cdd9e6ede1eea40]: Textual amendment: [Reg. 62(4)(a)](https://www.legislation.gov.uk/uksi/2013/378/regulation/62/4/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/20/a/ii) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
-[^key-36249f7b1301a4ca7dfbd9569eb0482a]: Textual amendment: Words in [reg. 63(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/63/8/a/ii) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(4)(a)(i)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/4/a/i)
+[^c-36249f7b1301a4ca7dfbd9569eb0482a]: Textual amendment: Words in [reg. 63(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/63/8/a/ii) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(4)(a)(i)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/4/a/i)
 
-[^key-284f1ded02b91ecde7384aeb5bef112d]: Textual amendment: Words in [reg. 63(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/63/8/a/ii) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/4/a/ii)
+[^c-284f1ded02b91ecde7384aeb5bef112d]: Textual amendment: Words in [reg. 63(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/378/regulation/63/8/a/ii) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/4/a/ii)
 
 [^c21675611]: Marginal citation: Section 8 was substituted by section 1 of the [National Insurance Contributions Act 2002 (c.19)](https://www.legislation.gov.uk/ukpga/2002/19).
 
-[^key-b052df09120f7d83b26be6318e8e3d17]: Textual amendment: [Reg. 63(11)](https://www.legislation.gov.uk/uksi/2013/378/regulation/63/11) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/4/b)
+[^c-b052df09120f7d83b26be6318e8e3d17]: Textual amendment: [Reg. 63(11)](https://www.legislation.gov.uk/uksi/2013/378/regulation/63/11) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/4/b)
 
 [^c21675621]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -2209,22 +2209,22 @@ A full impact assessment has not been published for these Regulations as they ha
 
 [^c21675641]: Marginal citation: Regulation 125(c) was amended by [S.I. 2012/867](https://www.legislation.gov.uk/uksi/2012/867).
 
-[^key-4bb9369d9ab87be15232077823c4cb84]: Textual amendment: Words in reg. 73(3) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [4(4)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/4/4)
+[^c-4bb9369d9ab87be15232077823c4cb84]: Textual amendment: Words in reg. 73(3) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [4(4)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/4/4)
 
-[^key-a5c379c170b6b6027faee0022d8f2c1d]: Textual amendment: [Reg. 73(4)(ba)](https://www.legislation.gov.uk/uksi/2013/378/regulation/73/4/ba) inserted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/5/a)
+[^c-a5c379c170b6b6027faee0022d8f2c1d]: Textual amendment: [Reg. 73(4)(ba)](https://www.legislation.gov.uk/uksi/2013/378/regulation/73/4/ba) inserted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/5/a)
 
-[^key-6bc17ba767d1bffbd0e787a88ba49e65]: Textual amendment: Words in [reg. 73(4)(d)](https://www.legislation.gov.uk/uksi/2013/378/regulation/73/4/d) inserted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/5/b/i)
+[^c-6bc17ba767d1bffbd0e787a88ba49e65]: Textual amendment: Words in [reg. 73(4)(d)](https://www.legislation.gov.uk/uksi/2013/378/regulation/73/4/d) inserted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(5)(b)(i)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/5/b/i)
 
-[^key-63cbc4139ed2a19632039b0b93ec1185]: Textual amendment: Word in [reg. 73(4)(d)](https://www.legislation.gov.uk/uksi/2013/378/regulation/73/4/d) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/5/b/ii)
+[^c-63cbc4139ed2a19632039b0b93ec1185]: Textual amendment: Word in [reg. 73(4)(d)](https://www.legislation.gov.uk/uksi/2013/378/regulation/73/4/d) substituted (6.4.2016) by [The Social Security (Scottish Rate of Income Tax etc.) (Amendment) Regulations 2016 (S.I. 2016/233)](https://www.legislation.gov.uk/uksi/2016/233), [regs. 1](https://www.legislation.gov.uk/uksi/2016/233/regulation/1), [7(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/233/regulation/7/5/b/ii)
 
-[^key-df391749c330ceccb240dafb65e2a788]: Textual amendment: Words in [reg. 73(4)(d)](https://www.legislation.gov.uk/uksi/2013/378/regulation/73/4/d) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(20)(b)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/20/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-df391749c330ceccb240dafb65e2a788]: Textual amendment: Words in [reg. 73(4)(d)](https://www.legislation.gov.uk/uksi/2013/378/regulation/73/4/d) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(20)(b)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/20/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
 [^c21675661]: Marginal citation: [Section 118](https://www.legislation.gov.uk/uksi/2013/378/section/118) was amended by section 8 of the [Public Interest Disclosure Act 1998 (c.23)](https://www.legislation.gov.uk/ukpga/1998/23), [Schedule 9](https://www.legislation.gov.uk/ukpga/1998/23/schedule/9) to the [Employment Relations Act 1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26), [paragraph 21](https://www.legislation.gov.uk/ukpga/1999/26/paragraph/21) of Schedule 1 to the [Employment Rights (Dispute Resolution) Act 1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8) and paragraph 38 of Schedule 7 and Schedule 8 to the Employment Act 2002.
 
-[^key-247740ea3c71e4acc95f18df46a030a7]: Textual amendment: Sch. para. 6(a) substituted for Sch. para. 6(a)(b) (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [4(5)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/4/5)
+[^c-247740ea3c71e4acc95f18df46a030a7]: Textual amendment: Sch. para. 6(a) substituted for Sch. para. 6(a)(b) (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [4(5)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/4/5)
 
-[^key-e51a42e07a9598b3e364d7f888d3294f]: Textual amendment: Words in [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/378/schedule/paragraph/6) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/4/a)
+[^c-e51a42e07a9598b3e364d7f888d3294f]: Textual amendment: Words in [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/378/schedule/paragraph/6) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/4/a)
 
-[^key-4f821704375b762fd83f283f67cb41d7]: Textual amendment: Words in Sch. para. 12(2) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/4/b/i)
+[^c-4f821704375b762fd83f283f67cb41d7]: Textual amendment: Words in Sch. para. 12(2) omitted (6.4.2015) by virtue of [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(4)(b)(i)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/4/b/i)
 
-[^key-a9bbbbfac285a3490fdef20b4afe6e80]: Textual amendment: Words in Sch. para. 12(2) inserted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/4/b/ii)
+[^c-a9bbbbfac285a3490fdef20b4afe6e80]: Textual amendment: Words in Sch. para. 12(2) inserted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [5(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/389/regulation/5/4/b/ii)

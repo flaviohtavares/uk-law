@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Power to stop, board, search etc.[^key-64e7c8599e761ae906098000d8669dce]
+## 61. Power to stop, board, search etc.[^c-64e7c8599e761ae906098000d8669dce]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64e7c8599e761ae906098000d8669dce]: Commencement: Reg. 61 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-64e7c8599e761ae906098000d8669dce]: Commencement: Reg. 61 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

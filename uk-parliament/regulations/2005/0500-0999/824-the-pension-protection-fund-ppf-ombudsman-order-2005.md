@@ -106,7 +106,7 @@ In conducting an investigation in accordance with regulations made under section
 
 (1) The PPF Ombudsman must not disclose any information which he obtains for the purposes of an investigation under section 213 or 214 of the Act unless—
 
-- (a)[^key-cf61b04ccb94f9f763b86c8bcb631456] the disclosure is to a person specified in paragraph (2) and the PPF Ombudsman considers that disclosure would enable or assist that person to discharge that person’s functions;
+- (a)[^c-cf61b04ccb94f9f763b86c8bcb631456] the disclosure is to a person specified in paragraph (2) and the PPF Ombudsman considers that disclosure would enable or assist that person to discharge that person’s functions;
 - (b) the disclosure is to a person specified in paragraph (3) and the PPF Ombudsman considers that disclosure is necessary to enable the PPF Ombudsman to carry out his functions.
 
 (2) The persons specified in this paragraph are—
@@ -115,7 +115,7 @@ In conducting an investigation in accordance with regulations made under section
 - (b) the Regulator;
 - (c) the Pensions Compensation Board [^c1190473];
 - (d) the Pensions Ombudsman [^c1190474];
-- (e)[^key-ce5877c92c8bbce68a0de0ede3ad073d] the Financial Conduct Authority;
+- (e)[^c-ce5877c92c8bbce68a0de0ede3ad073d] the Financial Conduct Authority;
 - (ea) the Prudential Regulation Authority;
 - (f) any government department (including a Northern Ireland department);
 - (g) a person appointed under—
@@ -125,11 +125,11 @@ In conducting an investigation in accordance with regulations made under section
 
   to conduct an investigation;
 - (h) an inspector appointed under Part XIV of the Companies Act 1985 [^c1190476] or under Part XV of the Companies (Northern Ireland) Order 1986[^c1190477];
-- (i) a body designated under section 326(1) of the Financial Services and Markets Act 2000 (designation of professional bodies); ;[^key-f2644b2ebaf722801b127b9aa2460ed4]
-- (j)[^key-55aafb2615dbf5d07dd47aec911f2c8f] a recognised investment exchange, a recognised clearing house[^key-0b149008ec4e5aba70307459257b03a7]..., a third country central counterparty, a recognised CSD[^key-1f9e9b4ba8f1173392b9d55ee0d21a87][^key-0b149008ec4e5aba70307459257b03a7]... or a third country CSD (as defined by section 285 of that Act); [^key-84dd7c1431b80774f61d337e6f875244]...
-- (k) [^key-84dd7c1431b80774f61d337e6f875244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i) a body designated under section 326(1) of the Financial Services and Markets Act 2000 (designation of professional bodies); ;[^c-f2644b2ebaf722801b127b9aa2460ed4]
+- (j)[^c-55aafb2615dbf5d07dd47aec911f2c8f] a recognised investment exchange, a recognised clearing house[^c-0b149008ec4e5aba70307459257b03a7]..., a third country central counterparty, a recognised CSD[^c-1f9e9b4ba8f1173392b9d55ee0d21a87][^c-0b149008ec4e5aba70307459257b03a7]... or a third country CSD (as defined by section 285 of that Act); [^c-84dd7c1431b80774f61d337e6f875244]...
+- (k) [^c-84dd7c1431b80774f61d337e6f875244]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3dda09ca9801f73c43f9059936b9587a] The persons specified in this paragraph are—
+(3)[^c-3dda09ca9801f73c43f9059936b9587a] The persons specified in this paragraph are—
 
 - (a) the Board;
 - (b) the person who referred a matter to him in accordance with regulations made under section 213 or 214 of the Act or a representative of such a person appointed under those regulations;
@@ -170,26 +170,26 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1190472]: Marginal citation: *See* section 210 of the Pensions Act 2004, which provides that the Secretary of State may appoint one or more persons to act as a deputy to the PPF Ombudsman.
 
-[^key-cf61b04ccb94f9f763b86c8bcb631456]: Textual amendment: Art. 7(1)(a)(b) substituted (21.7.2005) by [Pension Protection Fund (PPF Ombudsman) Amendment Order 2005 (S.I. 2005/2023)](https://www.legislation.gov.uk/uksi/2005/2023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2023/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2005/2023/article/2/a)
+[^c-cf61b04ccb94f9f763b86c8bcb631456]: Textual amendment: Art. 7(1)(a)(b) substituted (21.7.2005) by [Pension Protection Fund (PPF Ombudsman) Amendment Order 2005 (S.I. 2005/2023)](https://www.legislation.gov.uk/uksi/2005/2023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2023/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2005/2023/article/2/a)
 
 [^c1190473]: Marginal citation: *See* section 78(1) of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) which establishes the Pensions Compensation Board.
 
 [^c1190474]: Marginal citation: *See* section 145 of the [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48) which establishes the Pensions Ombudsman.
 
-[^key-ce5877c92c8bbce68a0de0ede3ad073d]: Textual amendment: Art. 7(2)(e)(ea) substituted for art. 7(2)(e) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 105](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/105)
+[^c-ce5877c92c8bbce68a0de0ede3ad073d]: Textual amendment: Art. 7(2)(e)(ea) substituted for art. 7(2)(e) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 105](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/105)
 
 [^c1190476]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6). Part XIV of the Companies Act 1985 (as amended) provides that the Secretary of State may appoint one or more inspectors to investigate a company and its affairs.
 
 [^c1190477]: Marginal citation: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-f2644b2ebaf722801b127b9aa2460ed4]: Textual amendment: Word in art. 7(2)(i) substituted (21.7.2005) by [Pension Protection Fund (PPF Ombudsman) Amendment Order 2005 (S.I. 2005/2023)](https://www.legislation.gov.uk/uksi/2005/2023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2023/article/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2005/2023/article/2/b/i)
+[^c-f2644b2ebaf722801b127b9aa2460ed4]: Textual amendment: Word in art. 7(2)(i) substituted (21.7.2005) by [Pension Protection Fund (PPF Ombudsman) Amendment Order 2005 (S.I. 2005/2023)](https://www.legislation.gov.uk/uksi/2005/2023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2023/article/1/1), [2(b)(i)](https://www.legislation.gov.uk/uksi/2005/2023/article/2/b/i)
 
-[^key-55aafb2615dbf5d07dd47aec911f2c8f]: Textual amendment: Art. 7(2)(j) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [38(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/38/2) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+[^c-55aafb2615dbf5d07dd47aec911f2c8f]: Textual amendment: Art. 7(2)(j) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [38(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/38/2) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
 
-[^key-0b149008ec4e5aba70307459257b03a7]: Textual amendment: Words in [art. 7(2)(j)](https://www.legislation.gov.uk/uksi/2005/824/article/7/2/j) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b149008ec4e5aba70307459257b03a7]: Textual amendment: Words in [art. 7(2)(j)](https://www.legislation.gov.uk/uksi/2005/824/article/7/2/j) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f9e9b4ba8f1173392b9d55ee0d21a87]: Textual amendment: Words in [art. 7(2)(j)](https://www.legislation.gov.uk/uksi/2005/824/article/7/2/j) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/29) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-1f9e9b4ba8f1173392b9d55ee0d21a87]: Textual amendment: Words in [art. 7(2)(j)](https://www.legislation.gov.uk/uksi/2005/824/article/7/2/j) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/29) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-84dd7c1431b80774f61d337e6f875244]: Textual amendment: Art. 7(2)(k) and preceding word omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 59](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/59)
+[^c-84dd7c1431b80774f61d337e6f875244]: Textual amendment: Art. 7(2)(k) and preceding word omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 59](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/59)
 
-[^key-3dda09ca9801f73c43f9059936b9587a]: Textual amendment: Art. 7(3) added (21.7.2005) by [Pension Protection Fund (PPF Ombudsman) Amendment Order 2005 (S.I. 2005/2023)](https://www.legislation.gov.uk/uksi/2005/2023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2023/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2005/2023/article/2/c)
+[^c-3dda09ca9801f73c43f9059936b9587a]: Textual amendment: Art. 7(3) added (21.7.2005) by [Pension Protection Fund (PPF Ombudsman) Amendment Order 2005 (S.I. 2005/2023)](https://www.legislation.gov.uk/uksi/2005/2023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2023/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2005/2023/article/2/c)

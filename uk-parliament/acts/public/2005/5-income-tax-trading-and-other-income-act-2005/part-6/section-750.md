@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 750. Interest from tax reserve certificates[^key-1691e7647bbb306ea2259f56118d79ce]
+## 750. Interest from tax reserve certificates[^c-1691e7647bbb306ea2259f56118d79ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1691e7647bbb306ea2259f56118d79ce]: Textual amendment: [S. 750](https://www.legislation.gov.uk/ukpga/2005/5/section/750) repealed (with effect in accordance with Sch. 39 para. 53(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 53(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/53/1/a)
+[^c-1691e7647bbb306ea2259f56118d79ce]: Textual amendment: [S. 750](https://www.legislation.gov.uk/ukpga/2005/5/section/750) repealed (with effect in accordance with Sch. 39 para. 53(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 53(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/53/1/a)

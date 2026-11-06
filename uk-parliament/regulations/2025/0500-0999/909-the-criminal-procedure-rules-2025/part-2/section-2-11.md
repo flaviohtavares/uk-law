@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.11. Taking of statutory declarations by court officers[^key-3e548b65fa410fa956ffe5f402f33444]
+## 2.11. Taking of statutory declarations by court officers[^c-3e548b65fa410fa956ffe5f402f33444]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e548b65fa410fa956ffe5f402f33444]: Commencement: [Rule 2.11](https://www.legislation.gov.uk/uksi/2025/909/rule/2.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3e548b65fa410fa956ffe5f402f33444]: Commencement: [Rule 2.11](https://www.legislation.gov.uk/uksi/2025/909/rule/2.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00080]: Footnote: [1889 c. 10](https://www.legislation.gov.uk/ukpga/1889/10); section 2 was amended by section 59 of, and paragraph 15 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).

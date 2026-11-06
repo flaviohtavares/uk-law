@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-ce77621771c752166de52cd2c1726c40]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-ce77621771c752166de52cd2c1726c40]
 
 *Extent: E+W*
 
@@ -116,7 +116,7 @@ A nationally significant infrastructure project, as defined in sections 14(1)(b)
 
 ## Annotations
 
-[^key-ce77621771c752166de52cd2c1726c40]: Commencement: Sch. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-ce77621771c752166de52cd2c1726c40]: Commencement: Sch. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030781]: Marginal citation: Relevant amendments to section 16 were made by [S.I. 2010/277](https://www.legislation.gov.uk/uksi/2010/277), [S.I](https://www.legislation.gov.uk/uksi/2010/277/section/I). 2013/1479 and [S.I.2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 

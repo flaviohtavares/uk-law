@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 165. Failure to meet standards[^key-e75bec0b43a07d5c66e413edf23b45e4][^key-ef61bc3b4de900974547c2f9e3712bb3][^key-32a2b48763cca4c928ea8ac4ec072a18]
+## 165. Failure to meet standards[^c-e75bec0b43a07d5c66e413edf23b45e4][^c-ef61bc3b4de900974547c2f9e3712bb3][^c-32a2b48763cca4c928ea8ac4ec072a18]
 
 *Extent: E+W*
 
 (1) This section applies where, taking into account—
 
-- (a) a report under section [^key-4a847b37c5fb82f47d01873f4b54d2a7]... 163 in respect of a registered school, or
+- (a) a report under section [^c-4a847b37c5fb82f47d01873f4b54d2a7]... 163 in respect of a registered school, or
 - (b) any other evidence in respect of a registered school,
 
 the registration authority is satisfied that any one or more of the independent school standards is or are not being met in relation to the school.
@@ -79,10 +79,10 @@ the registration authority is satisfied that any one or more of the independent 
 
 ## Annotations
 
-[^key-e75bec0b43a07d5c66e413edf23b45e4]: Commencement: S. 165 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2003/1667/schedule/paragraph/6))
+[^c-e75bec0b43a07d5c66e413edf23b45e4]: Commencement: S. 165 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2003/1667/schedule/paragraph/6))
 
-[^key-ef61bc3b4de900974547c2f9e3712bb3]: Modification: S. 165 restricted (19.11.2003) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (No.2) (Wales) Regulations 2003 (S.I. 2003/2959)](https://www.legislation.gov.uk/uksi/2003/2959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2959/regulation/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2003/2959/regulation/8/1)
+[^c-ef61bc3b4de900974547c2f9e3712bb3]: Modification: S. 165 restricted (19.11.2003) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (No.2) (Wales) Regulations 2003 (S.I. 2003/2959)](https://www.legislation.gov.uk/uksi/2003/2959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2959/regulation/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2003/2959/regulation/8/1)
 
-[^key-32a2b48763cca4c928ea8ac4ec072a18]: Commencement: S. 165 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
+[^c-32a2b48763cca4c928ea8ac4ec072a18]: Commencement: S. 165 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
 
-[^key-4a847b37c5fb82f47d01873f4b54d2a7]: Textual amendment: Words in [s. 165(1)(a)](https://www.legislation.gov.uk/ukpga/2002/32/section/165/1/a) repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/21), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) (with [s. 139](https://www.legislation.gov.uk/ukpga/2008/25/section/139)); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(z)(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/z/aa) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/3364/article/4))
+[^c-4a847b37c5fb82f47d01873f4b54d2a7]: Textual amendment: Words in [s. 165(1)(a)](https://www.legislation.gov.uk/ukpga/2002/32/section/165/1/a) repealed (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/21), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2) (with [s. 139](https://www.legislation.gov.uk/ukpga/2008/25/section/139)); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(z)(aa)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/z/aa) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/3364/article/4))

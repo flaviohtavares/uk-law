@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Application and termination of permitted development rights[^key-8c3c81c2afa2e852fa9049d48f3034ce]
+## 80. Application and termination of permitted development rights[^c-8c3c81c2afa2e852fa9049d48f3034ce]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c3c81c2afa2e852fa9049d48f3034ce]: Commencement: Art. 80 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-8c3c81c2afa2e852fa9049d48f3034ce]: Commencement: Art. 80 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

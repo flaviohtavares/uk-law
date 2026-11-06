@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45ZB. Warrants for further detention: use of live links[^key-24c33310d05d4a2981f49b0076beaa77]
+## 45ZB. Warrants for further detention: use of live links[^c-24c33310d05d4a2981f49b0076beaa77]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24c33310d05d4a2981f49b0076beaa77]: Textual amendment: Ss. 45ZA, 45ZB and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/74/2), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/23)
+[^c-24c33310d05d4a2981f49b0076beaa77]: Textual amendment: Ss. 45ZA, 45ZB and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/74/2), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/23)

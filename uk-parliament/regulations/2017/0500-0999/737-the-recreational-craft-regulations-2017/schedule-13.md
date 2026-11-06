@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 67
 
-### 1. Enforcement powers under the 1987 Act[^key-83a6092e6ed974b91e05f3b950f211d3]
+### 1. Enforcement powers under the 1987 Act[^c-83a6092e6ed974b91e05f3b950f211d3]
 
 For the purposes of enforcing these Regulations, the following sections of the 1987 Act apply subject to the modifications in paragraph 2—
 
@@ -44,7 +44,7 @@ For the purposes of enforcing these Regulations, the following sections of the 1
 - (p) section 46(1) (meaning of “supply”);
 - (q) Schedule 2 (prohibition notices and notices to warn).
 
-### 2. Modifications to the 1987 Act[^key-345843411ea7ce4ffa6c27c93dbf24ba]
+### 2. Modifications to the 1987 Act[^c-345843411ea7ce4ffa6c27c93dbf24ba]
 
 The sections of the 1987 Act referred to in paragraph 1 are to apply as if—
 
@@ -147,6 +147,6 @@ The sections of the 1987 Act referred to in paragraph 1 are to apply as if—
 
 ## Annotations
 
-[^key-83a6092e6ed974b91e05f3b950f211d3]: Commencement: Sch. 13 para. 1 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-83a6092e6ed974b91e05f3b950f211d3]: Commencement: Sch. 13 para. 1 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
-[^key-345843411ea7ce4ffa6c27c93dbf24ba]: Commencement: Sch. 13 para. 2 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-345843411ea7ce4ffa6c27c93dbf24ba]: Commencement: Sch. 13 para. 2 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

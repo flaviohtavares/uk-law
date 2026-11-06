@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## S1. Suspension of pension on return to NHS employment[^key-560980b2f214623fedb866da06cd474e]
+## S1. Suspension of pension on return to NHS employment[^c-560980b2f214623fedb866da06cd474e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-560980b2f214623fedb866da06cd474e]: Textual amendment: [Reg. S1](https://www.legislation.gov.uk/uksi/1995/300/regulation/S1) omitted (1.4.2023) by virtue of [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/301/regulation/5)
+[^c-560980b2f214623fedb866da06cd474e]: Textual amendment: [Reg. S1](https://www.legislation.gov.uk/uksi/1995/300/regulation/S1) omitted (1.4.2023) by virtue of [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/301/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309. Offences by bodies corporate and partnerships[^key-d75749167100b7d0abf7753633253711]
+## 309. Offences by bodies corporate and partnerships[^c-d75749167100b7d0abf7753633253711]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d75749167100b7d0abf7753633253711]: Commencement: [S. 309](https://www.legislation.gov.uk/ukpga/2004/35/section/309) in force at 1.9.2005 by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/1)
+[^c-d75749167100b7d0abf7753633253711]: Commencement: [S. 309](https://www.legislation.gov.uk/ukpga/2004/35/section/309) in force at 1.9.2005 by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/1)

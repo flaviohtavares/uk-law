@@ -48,17 +48,17 @@ In accordance with section 1(4) of that Act, the Executive Office[^f00003] appro
 
 ## Introductory
 
-### 1. Citation and commencement[^key-5d3a30266c5114d1a7543033a99c559b]
+### 1. Citation and commencement[^c-5d3a30266c5114d1a7543033a99c559b]
 
 (1) These Regulations may be cited as the Home Heating Oil (Temporary Financial Assistance) Regulations (Northern Ireland) 2026.
 
 (2) These Regulations come into operation on 14 August 2026.
 
-### 2. Expiry[^key-c5aa658fc677912b7fa99afdadff3f5f]
+### 2. Expiry[^c-c5aa658fc677912b7fa99afdadff3f5f]
 
 These Regulations expire on 31 March 2027.
 
-### 3. Interpretation[^key-0a4185aa46cf47328849835ac7e433ef]
+### 3. Interpretation[^c-0a4185aa46cf47328849835ac7e433ef]
 
 In these Regulations—
 
@@ -71,11 +71,11 @@ In these Regulations—
 
 ## Heating oil award
 
-### 4. Heating oil award[^key-b1f8783f099602b25d801deab36c2904]
+### 4. Heating oil award[^c-b1f8783f099602b25d801deab36c2904]
 
 In these Regulations, a heating oil award (“the award”) is a one-off award to a claimant to the value of £100.
 
-### 5. Eligibility[^key-34389a45dc5f26f71e453a333578245f]
+### 5. Eligibility[^c-34389a45dc5f26f71e453a333578245f]
 
 (1) An award may be made to a claimant if the following conditions are satisfied—
 
@@ -127,7 +127,7 @@ In these Regulations, a heating oil award (“the award”) is a one-off award t
 - (a) deductions set out in regulation 55(6) of the Universal Credit Regulations (Northern Ireland) 2016, in respect of employed earnings, and
 - (b) equivalent deductions of tax, national insurance contributions, charitable contributions and relievable pension contributions, in respect of self-employed income and unearned income.
 
-### 6. Delivery of the award: digital prepaid card[^key-b3a1f34c9b9454a40ad0bedf6d4e8b0d]
+### 6. Delivery of the award: digital prepaid card[^c-b3a1f34c9b9454a40ad0bedf6d4e8b0d]
 
 (1) Where an award is made, it is to be made in the form of a digital prepaid card containing credit to the value of the award.
 
@@ -146,7 +146,7 @@ In these Regulations, a heating oil award (“the award”) is a one-off award t
 
 (7) The Department may reactivate or reissue an annulled or expired card if it is of the opinion that it is appropriate to do so. Reactivation or reissue is to restore any lost credit on the card.
 
-### 7. Exclusions[^key-b6ed368ec7fb295d059502cd80da7b7f]
+### 7. Exclusions[^c-b6ed368ec7fb295d059502cd80da7b7f]
 
 (1) A person is not eligible for an award if, for the entirety of the qualifying month in respect of which their application is made, they are—
 
@@ -174,7 +174,7 @@ In these Regulations, a heating oil award (“the award”) is a one-off award t
 
 ## Administration of claim process
 
-### 8. Making a claim[^key-65bc40e1465c4079cc3eff98a0632520]
+### 8. Making a claim[^c-65bc40e1465c4079cc3eff98a0632520]
 
 (1) A claim must be made using the online portal established by the Department for this purpose.
 
@@ -200,7 +200,7 @@ In these Regulations, a heating oil award (“the award”) is a one-off award t
 
 (9) The Department may reject a claim where the claimant does not comply with this regulation.
 
-### 9. Recovery of awards[^key-2d8578740db5cfb8e8cef2c1f3210ca8]
+### 9. Recovery of awards[^c-2d8578740db5cfb8e8cef2c1f3210ca8]
 
 (1) This regulation applies where the Department determines that, whether fraudulently or otherwise, any person has misrepresented, or failed to disclose, any material fact and in consequence of the misrepresentation or failure an award has been made.
 
@@ -208,7 +208,7 @@ In these Regulations, a heating oil award (“the award”) is a one-off award t
 
 (3) Section 69 of the Social Security Administration (Northern Ireland) Act 1992[^f00016] applies to amounts recoverable under this regulation as if an award was a benefit to which section 69 of the Social Security Administration (Northern Ireland) Act 1992 applies.
 
-### 10. Internal review of a decision[^key-fc4ecbfb0047e2f28c208622144da76e]
+### 10. Internal review of a decision[^c-fc4ecbfb0047e2f28c208622144da76e]
 
 (1) The Department must establish procedures for an internal review of a decision on a claim.
 
@@ -226,7 +226,7 @@ In these Regulations, a heating oil award (“the award”) is a one-off award t
 
 ## Miscellaneous
 
-### 11. Awards to be disregarded in considering entitlement to social security benefits[^key-c03386ab5964b1d08455f3800508584f]
+### 11. Awards to be disregarded in considering entitlement to social security benefits[^c-c03386ab5964b1d08455f3800508584f]
 
 An award under these Regulations is to be disregarded for the purposes of calculating entitlement to any of the following, or calculating income or earnings for the purposes of any of the following—
 
@@ -237,7 +237,7 @@ An award under these Regulations is to be disregarded for the purposes of calcul
 - (e) discretionary support,
 - (f) a Social Fund payment.
 
-### 12. Arrangements with third parties in connection with the card[^key-5e7e1d331a4abe775a8d47294fb894f5]
+### 12. Arrangements with third parties in connection with the card[^c-5e7e1d331a4abe775a8d47294fb894f5]
 
 (1) The Department may enter into arrangements with a third party to act on behalf of the Department for, or in connection with, carrying out any functions of the Department under regulation 6.
 
@@ -246,7 +246,7 @@ An award under these Regulations is to be disregarded for the purposes of calcul
 - (a) determining if there has been a breach of these Regulations,
 - (b) determining if it is appropriate to reactivate or reissue an annulled or expired card.
 
-### 13. Information[^key-93490c37e4ea7ac90b5fdbcccfcbb68f]
+### 13. Information[^c-93490c37e4ea7ac90b5fdbcccfcbb68f]
 
 Article 63(4)(a) and (h) of the Energy (Northern Ireland) Order 2003 (exceptions to restriction on disclosure) has effect as if these Regulations were among the statutory provisions specified in Article 63(6) of that Order.
 
@@ -294,15 +294,15 @@ A regulatory impact assessment has not been produced for the Regulations as they
 
 [^f00003]: Footnote: Formerly the Office of the First Minister and deputy First Minister; see section 1(1) of the Departments Act (Northern Ireland) [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-5d3a30266c5114d1a7543033a99c559b]: Commencement: Reg. 1 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-5d3a30266c5114d1a7543033a99c559b]: Commencement: Reg. 1 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
-[^key-c5aa658fc677912b7fa99afdadff3f5f]: Commencement: Reg. 2 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-c5aa658fc677912b7fa99afdadff3f5f]: Commencement: Reg. 2 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
-[^key-0a4185aa46cf47328849835ac7e433ef]: Commencement: Reg. 3 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-0a4185aa46cf47328849835ac7e433ef]: Commencement: Reg. 3 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
-[^key-b1f8783f099602b25d801deab36c2904]: Commencement: Reg. 4 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-b1f8783f099602b25d801deab36c2904]: Commencement: Reg. 4 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
-[^key-34389a45dc5f26f71e453a333578245f]: Commencement: Reg. 5 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-34389a45dc5f26f71e453a333578245f]: Commencement: Reg. 5 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
 [^f00004]: Footnote: See Universal Credit Regulations (Northern Ireland) 2016 [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
@@ -324,24 +324,24 @@ A regulatory impact assessment has not been produced for the Regulations as they
 
 [^f00013]: Footnote: See Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606)
 
-[^key-b3a1f34c9b9454a40ad0bedf6d4e8b0d]: Commencement: Reg. 6 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-b3a1f34c9b9454a40ad0bedf6d4e8b0d]: Commencement: Reg. 6 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
-[^key-b6ed368ec7fb295d059502cd80da7b7f]: Commencement: Reg. 7 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-b6ed368ec7fb295d059502cd80da7b7f]: Commencement: Reg. 7 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
 [^f00015]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725).
 
-[^key-65bc40e1465c4079cc3eff98a0632520]: Commencement: Reg. 8 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-65bc40e1465c4079cc3eff98a0632520]: Commencement: Reg. 8 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
-[^key-2d8578740db5cfb8e8cef2c1f3210ca8]: Commencement: Reg. 9 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-2d8578740db5cfb8e8cef2c1f3210ca8]: Commencement: Reg. 9 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
 [^f00016]: Footnote: [1992 c.8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-fc4ecbfb0047e2f28c208622144da76e]: Commencement: Reg. 10 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-fc4ecbfb0047e2f28c208622144da76e]: Commencement: Reg. 10 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
-[^key-c03386ab5964b1d08455f3800508584f]: Commencement: Reg. 11 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-c03386ab5964b1d08455f3800508584f]: Commencement: Reg. 11 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
-[^key-5e7e1d331a4abe775a8d47294fb894f5]: Commencement: Reg. 12 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-5e7e1d331a4abe775a8d47294fb894f5]: Commencement: Reg. 12 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
 
-[^key-93490c37e4ea7ac90b5fdbcccfcbb68f]: Commencement: Reg. 13 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)
+[^c-93490c37e4ea7ac90b5fdbcccfcbb68f]: Commencement: Reg. 13 in operation at 14.8.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/149/regulation/1/2)

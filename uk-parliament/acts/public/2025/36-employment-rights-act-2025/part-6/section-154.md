@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Power to make consequential amendments[^key-f18ef4d100a81e2ac8ecd0afcbc8da73]
+## 154. Power to make consequential amendments[^c-f18ef4d100a81e2ac8ecd0afcbc8da73]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f18ef4d100a81e2ac8ecd0afcbc8da73]: Commencement: S. 154 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)
+[^c-f18ef4d100a81e2ac8ecd0afcbc8da73]: Commencement: S. 154 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Notice of meeting by individual notice: content and accompanying documents[^key-17aa846abb1db31128dd5a7a43c6e37e]
+## 71. Notice of meeting by individual notice: content and accompanying documents[^c-17aa846abb1db31128dd5a7a43c6e37e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17aa846abb1db31128dd5a7a43c6e37e]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2011/1301/rule/71) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-17aa846abb1db31128dd5a7a43c6e37e]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2011/1301/rule/71) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

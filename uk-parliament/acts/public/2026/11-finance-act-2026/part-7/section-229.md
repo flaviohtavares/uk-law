@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Registration conditions: offences[^M_I_a22f931b-c4ce-4f69-ac08-b56b8863c9d8][^key-0d27f231ed58127cba22e4412b7d4f2d][^key-e794c7c0e22eed6c3d6ec9ee80d290b1]
+## 229. Registration conditions: offences[^M_I_a22f931b-c4ce-4f69-ac08-b56b8863c9d8][^c-0d27f231ed58127cba22e4412b7d4f2d][^c-e794c7c0e22eed6c3d6ec9ee80d290b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^M_I_a22f931b-c4ce-4f69-ac08-b56b8863c9d8]: Commencement: S. 229 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-0d27f231ed58127cba22e4412b7d4f2d]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2026/11/section/229) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-0d27f231ed58127cba22e4412b7d4f2d]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2026/11/section/229) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-e794c7c0e22eed6c3d6ec9ee80d290b1]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2026/11/section/229) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-e794c7c0e22eed6c3d6ec9ee80d290b1]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2026/11/section/229) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45A. Licensing of sexual entertainment venues: interpretation[^key-7b2864a668ebd8736b814c965d393815]
+## 45A. Licensing of sexual entertainment venues: interpretation[^c-7b2864a668ebd8736b814c965d393815]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ which are not to be treated as sexual entertainment for the purposes of this sec
 
 ## Annotations
 
-[^key-7b2864a668ebd8736b814c965d393815]: Textual amendment: Ss. 45A-45C inserted (1.12.2015 for the insertion of s. 45A for specified purposes, 26.4.2019 in so far as not already in force) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 76(3)](https://www.legislation.gov.uk/asp/2015/10/section/76/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule); [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))
+[^c-7b2864a668ebd8736b814c965d393815]: Textual amendment: Ss. 45A-45C inserted (1.12.2015 for the insertion of s. 45A for specified purposes, 26.4.2019 in so far as not already in force) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 76(3)](https://www.legislation.gov.uk/asp/2015/10/section/76/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule); [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Application of compulsory acquisition provisions[^key-a81561e93ebc6b03eab9fe0966082ffc]
+## 125. Application of compulsory acquisition provisions[^c-a81561e93ebc6b03eab9fe0966082ffc]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) section 4 (time limit for exercise of compulsory purchase powers);
 - (b) section 10 (compensation for injurious affection);
-- (c)[^key-5c8d86167484a842e837917e250baddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5c8d86167484a842e837917e250baddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In so far as the order includes provision authorising the compulsory acquisition of land in Scotland—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a81561e93ebc6b03eab9fe0966082ffc]: Commencement: S. 125 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/101/article/3/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-a81561e93ebc6b03eab9fe0966082ffc]: Commencement: S. 125 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(f)](https://www.legislation.gov.uk/uksi/2010/101/article/3/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-5c8d86167484a842e837917e250baddf]: Textual amendment: [S. 125(3)(c)](https://www.legislation.gov.uk/ukpga/2008/29/section/125/3/c) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/17); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)
+[^c-5c8d86167484a842e837917e250baddf]: Textual amendment: [S. 125(3)(c)](https://www.legislation.gov.uk/ukpga/2008/29/section/125/3/c) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/17); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)

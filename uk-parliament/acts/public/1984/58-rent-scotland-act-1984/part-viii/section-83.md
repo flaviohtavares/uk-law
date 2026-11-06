@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Prohibition of premiums and loans on assignation of protected tenancies.[^key-10f03ac3d54b34dc5fd6d297842a41d0][^key-f2d6365825f17973d02bdd274e14787c][^c982611]
+## 83. Prohibition of premiums and loans on assignation of protected tenancies.[^c-10f03ac3d54b34dc5fd6d297842a41d0][^c-f2d6365825f17973d02bdd274e14787c][^c982611]
 
 *Extent: S*
 
@@ -48,8 +48,8 @@ but nothing in this subsection shall prejudice any right of recovery under secti
 
 ## Annotations
 
-[^key-10f03ac3d54b34dc5fd6d297842a41d0]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/1984/58/section/83) applied (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [ss. 20(1)](https://www.legislation.gov.uk/asp/2016/19/section/20/1), [79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-10f03ac3d54b34dc5fd6d297842a41d0]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/1984/58/section/83) applied (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [ss. 20(1)](https://www.legislation.gov.uk/asp/2016/19/section/20/1), [79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-f2d6365825f17973d02bdd274e14787c]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/1984/58/section/83) applied (with modifications) (1.4.2026) by [2016 asp 19](https://www.legislation.gov.uk/asp/2016/19), [s. 43J](https://www.legislation.gov.uk/asp/2016/19/section/43J) (as inserted by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(4)](https://www.legislation.gov.uk/asp/2025/13/section/23/4), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1))
+[^c-f2d6365825f17973d02bdd274e14787c]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/1984/58/section/83) applied (with modifications) (1.4.2026) by [2016 asp 19](https://www.legislation.gov.uk/asp/2016/19), [s. 43J](https://www.legislation.gov.uk/asp/2016/19/section/43J) (as inserted by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 23(4)](https://www.legislation.gov.uk/asp/2025/13/section/23/4), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1))
 
 [^c982611]: Modification: Ss. 82, 83, 86–90 applied (with modifications) by [Housing (Scotland) Act 1988 (c. 43, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/43), [ss. 27](https://www.legislation.gov.uk/ukpga/1988/43/section/27), [52](https://www.legislation.gov.uk/ukpga/1988/43/section/52)

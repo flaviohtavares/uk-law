@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12 — Friendly societies: transfers to insurance companies etc[^key-5ac6f620a72914836d5c11231a38b8ff]
+## SCHEDULE 12 — Friendly societies: transfers to insurance companies etc[^c-5ac6f620a72914836d5c11231a38b8ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ Section 44
 
 ## Annotations
 
-[^key-5ac6f620a72914836d5c11231a38b8ff]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/ukpga/2007/11/schedule/12) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(e)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/e/iii)
+[^c-5ac6f620a72914836d5c11231a38b8ff]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/ukpga/2007/11/schedule/12) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(e)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/e/iii)

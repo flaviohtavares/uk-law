@@ -182,7 +182,7 @@ Section 19 of the Interpretation Act (Northern Ireland) Act 1954[^c5482261] shal
 (3) An appointed Governor shall be deemed to have vacated his office and the Governors shall declare his place vacant in the following circumstances—
 
 - (a) where he gives to the chairman of the Governors a notice in writing of his resignation and so informs the body which appointed him a Governor;
-- (b) where he becomes bankrupt or has had a debt relief order made in respect of him[^key-2d8d35dd23ad4dac2f131dd2c33aa8c8] or makes a composition with his creditors or is the subject of a bankruptcy restrictions order[^c21145451] or a debt relief restrictions order ; or
+- (b) where he becomes bankrupt or has had a debt relief order made in respect of him[^c-2d8d35dd23ad4dac2f131dd2c33aa8c8] or makes a composition with his creditors or is the subject of a bankruptcy restrictions order[^c21145451] or a debt relief restrictions order ; or
 - (c) where he is convicted of an indictable offence and sentenced to a term of imprisonment of not less than 3 months.
 
 (4) Any body entitled to appoint a Governor under paragraph 2(1)(d) or (e) or (2) may remove any Governor so appointed and appoint another Governor in his place.
@@ -262,7 +262,7 @@ The Governors may form bodies corporate, but shall only do so with the approval 
 
 [^c5482261]: Textual amendment: [1954 c.33 (N.I)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2d8d35dd23ad4dac2f131dd2c33aa8c8]: Textual amendment: Words in [Sch. 1 para. 3(3)(b)](https://www.legislation.gov.uk/nisi/1995/1622/schedule/1/paragraph/3/3/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/14)
+[^c-2d8d35dd23ad4dac2f131dd2c33aa8c8]: Textual amendment: Words in [Sch. 1 para. 3(3)(b)](https://www.legislation.gov.uk/nisi/1995/1622/schedule/1/paragraph/3/3/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/14)
 
 [^c21145451]: Textual amendment: Words in Sch. 1 para. 3(3)(b) inserted (13.5.2008) by [Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [arts. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [2](https://www.legislation.gov.uk/nisr/2008/94/article/2), [Sch. para. 3](https://www.legislation.gov.uk/nisr/2008/94/schedule/paragraph/3)
 

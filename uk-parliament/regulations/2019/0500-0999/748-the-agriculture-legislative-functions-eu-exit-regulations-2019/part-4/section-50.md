@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50.[^key-9193ed0c58b2e0b702d27a7ad475557a]
+## 50.[^c-9193ed0c58b2e0b702d27a7ad475557a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ In Article 2—
 
 ## Annotations
 
-[^key-9193ed0c58b2e0b702d27a7ad475557a]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9193ed0c58b2e0b702d27a7ad475557a]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23689571]: Marginal citation: Article 2(1) of Regulation (EU) No. 1305/2013 is amended to insert new points by The Rural Development (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/XXXX).

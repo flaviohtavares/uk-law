@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14D. Sections 14A to 14C: supplementary[^key-1151965ed2e5155fc93de0ef2beb4cac]
+## 14D. Sections 14A to 14C: supplementary[^c-1151965ed2e5155fc93de0ef2beb4cac]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1151965ed2e5155fc93de0ef2beb4cac]: Textual amendment: Ss. 14A-14D inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/14/2)
+[^c-1151965ed2e5155fc93de0ef2beb4cac]: Textual amendment: Ss. 14A-14D inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/14/2)

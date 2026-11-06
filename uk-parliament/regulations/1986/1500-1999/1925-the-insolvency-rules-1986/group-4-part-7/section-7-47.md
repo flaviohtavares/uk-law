@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.47. Appeals and reviews of court orders (winding up)[^key-7bcca9243675681ab910a73bea9e077e]
+## 7.47. Appeals and reviews of court orders (winding up)[^c-7bcca9243675681ab910a73bea9e077e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bcca9243675681ab910a73bea9e077e]: Commencement: [Rule 7.47](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.47) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7bcca9243675681ab910a73bea9e077e]: Commencement: [Rule 7.47](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.47) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

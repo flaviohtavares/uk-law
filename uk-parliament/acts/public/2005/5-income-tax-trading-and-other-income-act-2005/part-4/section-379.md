@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 379. Payments by registered societies or certain co-operatives[^key-3572bf2f7213aadc0bdfb7bb973752ea]
+## 379. Payments by registered societies or certain co-operatives[^c-3572bf2f7213aadc0bdfb7bb973752ea]
 
 *Extent: E+W+S+N.I.*
 
 (1) Any dividend, bonus or other sum payable to a shareholder in—
 
-- (a) registered society[^key-4cad59fdadde3f2735465a49e657a320] , or
+- (a) registered society[^c-4cad59fdadde3f2735465a49e657a320] , or
 - (b) a UK agricultural or fishing co-operative,
 
 is treated as interest for income tax purposes if it is payable by reference to the amount of the shareholder's holding in its share capital.
 
 (2) In subsection (1)—
 
-- “[^key-e4f3c09635315283b1d37f5ecf27265e]**registered society**” means—
+- “[^c-e4f3c09635315283b1d37f5ecf27265e]**registered society**” means—
   - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014,
   - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969,
   - (c) a society registered as a credit union under the Credit Unions (Northern Ireland) Order 1985 ( S.I. 1985/1205 (N.I. 12)), or
@@ -48,8 +48,8 @@ is treated as interest for income tax purposes if it is payable by reference to 
 
 ## Annotations
 
-[^key-3572bf2f7213aadc0bdfb7bb973752ea]: Textual amendment: S. 379 heading substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 94(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/94/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-3572bf2f7213aadc0bdfb7bb973752ea]: Textual amendment: S. 379 heading substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 94(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/94/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-4cad59fdadde3f2735465a49e657a320]: Textual amendment: Words in s. 379(1)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 94(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/94/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-4cad59fdadde3f2735465a49e657a320]: Textual amendment: Words in s. 379(1)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 94(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/94/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-e4f3c09635315283b1d37f5ecf27265e]: Textual amendment: Words in s. 379(2) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 94(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/94/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (as amended by Finance Act 2014 (c. 26), Sch. 39 paras. 9, 15)
+[^c-e4f3c09635315283b1d37f5ecf27265e]: Textual amendment: Words in s. 379(2) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 94(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/94/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (as amended by Finance Act 2014 (c. 26), Sch. 39 paras. 9, 15)

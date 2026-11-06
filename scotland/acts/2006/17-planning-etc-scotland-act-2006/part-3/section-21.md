@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Planning permission in principle[^key-e7740a62eaf3dc03ab8c921729aab4db][^key-f986d1225c107a4f68ee00db154d8bd4]
+## 21. Planning permission in principle[^c-e7740a62eaf3dc03ab8c921729aab4db][^c-f986d1225c107a4f68ee00db154d8bd4]
 
 *Extent: S*
 
@@ -52,7 +52,7 @@ summary: ''
 >
 > of such other periods respectively (whether longer or shorter) as they consider appropriate.
 >
-> (6) For the purposes of sections 43A(8)(b) and[^key-8eaabdb27450f92fef58a556ba5ae1c2] 47(1)(a), (3) and (4)(a)—
+> (6) For the purposes of sections 43A(8)(b) and[^c-8eaabdb27450f92fef58a556ba5ae1c2] 47(1)(a), (3) and (4)(a)—
 >
 > - (a) any such direction, or
 > - (b) the effect of subsection (4) as that subsection applies in consequence of the authority electing not to make such a direction,
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e7740a62eaf3dc03ab8c921729aab4db]: Commencement: S. 21 in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-e7740a62eaf3dc03ab8c921729aab4db]: Commencement: S. 21 in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-f986d1225c107a4f68ee00db154d8bd4]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2006/17/section/21) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-f986d1225c107a4f68ee00db154d8bd4]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2006/17/section/21) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-8eaabdb27450f92fef58a556ba5ae1c2]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/asp/2006/17/section/21/1) substituted (2.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/256/article/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2009/256/article/5/3)
+[^c-8eaabdb27450f92fef58a556ba5ae1c2]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/asp/2006/17/section/21/1) substituted (2.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/256/article/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2009/256/article/5/3)

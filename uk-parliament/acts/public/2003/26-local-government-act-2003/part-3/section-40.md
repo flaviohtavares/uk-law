@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Local government finance reports: Wales[^key-5af3c03cc837478517e2f568430bccd0]
+## 40. Local government finance reports: Wales[^c-5af3c03cc837478517e2f568430bccd0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5af3c03cc837478517e2f568430bccd0]: Commencement: S. 40 in force W. at 27.11.2003 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-5af3c03cc837478517e2f568430bccd0]: Commencement: S. 40 in force W. at 27.11.2003 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)

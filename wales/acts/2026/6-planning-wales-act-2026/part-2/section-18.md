@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Survey of planning authority’s area[^key-53070ae59db0c7a7059c24d7ea1721d1]
+## 18. Survey of planning authority’s area[^c-53070ae59db0c7a7059c24d7ea1721d1]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53070ae59db0c7a7059c24d7ea1721d1]: Commencement: S. 18 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-53070ae59db0c7a7059c24d7ea1721d1]: Commencement: S. 18 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

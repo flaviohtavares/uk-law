@@ -32,8 +32,8 @@ summary: ''
 - “annual value”,
 - “person involved in providing accommodation”, and
 - “the property”,
-- have the meaning given by sections 110 to 113, and “**the taxable period**” has the meaning given by section 102(1)[^key-e68bb4f008b74301c4d6f013215f7d85] .
+- have the meaning given by sections 110 to 113, and “**the taxable period**” has the meaning given by section 102(1)[^c-e68bb4f008b74301c4d6f013215f7d85] .
 
 ## Annotations
 
-[^key-e68bb4f008b74301c4d6f013215f7d85]: Textual amendment: Word in [s. 103(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/103/3) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/14)
+[^c-e68bb4f008b74301c4d6f013215f7d85]: Textual amendment: Word in [s. 103(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/103/3) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/14)

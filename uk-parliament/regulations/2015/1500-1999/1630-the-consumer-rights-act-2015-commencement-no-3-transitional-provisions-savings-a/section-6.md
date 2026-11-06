@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Transitional and saving provisions in respect of Parts 1 and 2 of the Act[^key-c46736cdb787296eeac6dec17fbe04ba]
+## 6. Transitional and saving provisions in respect of Parts 1 and 2 of the Act[^c-c46736cdb787296eeac6dec17fbe04ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) any contract entered into before 1st October 2015 which would, apart from these provisions, be covered by Parts 1 or 2 of the Act; and
 - (b) any notice provided or communicated before 1st October 2015 which would, apart from these provisions, constitute a consumer notice and be covered by Part 2 of the Act;
 
-(2) The provisions brought into force by article 4 of this Order do not apply to any contract to supply a consumer transport service entered into before 1st October 2016[^key-b55f390bed0b84d52b4b7230827a4d1d].
+(2) The provisions brought into force by article 4 of this Order do not apply to any contract to supply a consumer transport service entered into before 1st October 2016[^c-b55f390bed0b84d52b4b7230827a4d1d].
 
 (3) The amendments to the law enacted by the Sale and Supply of Goods to Consumers Regulations 2002[^f00007] continue to have effect in relation to any contract specified in paragraph (1)(a) despite the revocation of those Regulations by paragraph 53 of Schedule 1 to the Act.
 
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c46736cdb787296eeac6dec17fbe04ba]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1630/article/6) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
+[^c-c46736cdb787296eeac6dec17fbe04ba]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/1630/article/6) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
 
-[^key-b55f390bed0b84d52b4b7230827a4d1d]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2) substituted (22.3.2016) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) (Amendment) Order 2016 (S.I. 2016/484)](https://www.legislation.gov.uk/uksi/2016/484), [art. 2(3)](https://www.legislation.gov.uk/uksi/2016/484/article/2/3)
+[^c-b55f390bed0b84d52b4b7230827a4d1d]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2) substituted (22.3.2016) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) (Amendment) Order 2016 (S.I. 2016/484)](https://www.legislation.gov.uk/uksi/2016/484), [art. 2(3)](https://www.legislation.gov.uk/uksi/2016/484/article/2/3)
 
 [^f00007]: Footnote: [S.I. 2002/3045](https://www.legislation.gov.uk/uksi/2002/3045).
 

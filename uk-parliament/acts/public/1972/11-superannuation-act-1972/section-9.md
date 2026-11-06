@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may, by regulations made with the consent of the Minister, make provision with respect to the pensions, allowances or gratuities which, subject to the fulfilment of such requirements and conditions as may be prescribed by the regulations, are to be, or may be, paid to or in respect of teachers by the Secretary of State or, in the case of injury benefit, by the Secretary of State, an employer of teachers or such other person as the Secretary of State may consider appropriate and may specify in the regulations.[^c8518991]
 
-(1A)[^key-9c312479438fb7505f2838aa071a79e4] Subsection (1) is subject to sections 18 and 19 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
+(1A)[^c-9c312479438fb7505f2838aa071a79e4] Subsection (1) is subject to sections 18 and 19 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
 
 (2) Without prejudice to the generality of subsection (1) above, regulations under this section—
 
@@ -50,9 +50,9 @@ and any provisions of the said Act of 1971, or of regulations made under section
 - (a) of the administrative expenses of the persons by whom, in accordance with the regulations, the fund is to be administered; and
 - (b) of such travelling, subsistence and other allowances to those persons as the Secretary of State may, with the consent of the Minister, determine.
 
-(5) Before making any such regulations the Secretary of State shall consult with representatives of local authorities, or, in Scotland, education authorities[^key-b2c8d8b33560dfbaa619ff3c52b66476] and of teachers and with such representatives of other persons likely to be affected by the proposed regulations as appear to him to be appropriate.
+(5) Before making any such regulations the Secretary of State shall consult with representatives of local authorities, or, in Scotland, education authorities[^c-b2c8d8b33560dfbaa619ff3c52b66476] and of teachers and with such representatives of other persons likely to be affected by the proposed regulations as appear to him to be appropriate.
 
-(5A)[^c8519031] The powers exercisable by a local authority[^key-2660b6a0ee291ba9b4f033a4e6ac9f96] or, in Scotland, an education authority, by virtue of—
+(5A)[^c8519031] The powers exercisable by a local authority[^c-2660b6a0ee291ba9b4f033a4e6ac9f96] or, in Scotland, an education authority, by virtue of—
 
 - (a) section 111 of the [^c8519041]Local Government Act 1972 (subsidiary powers of local authorities), or
 - (b) section 69 of the [^c8519051]Local Government (Scotland) Act 1973 (similar provision for Scotland),
@@ -63,7 +63,7 @@ shall be taken to include, and to have at all times included, power to pay, or a
 
 - “[^c8519081][^c8519061]**authorised provider**” has the meaning given in section 1
 - “[^c8519071]**injury benefit**” means a pension, allowance or gratuitypayable under the regulationsto or in respect of a teacher in consequenceof any injury sustained , or diseasecontracted, by him in the course of hisemployment in that capacity:
-- “local authority” has the meaning given by section 579(1) of the Education Act 1996;[^key-31e69c9fb089dc9fae7082a722fe4d67]
+- “local authority” has the meaning given by section 579(1) of the Education Act 1996;[^c-31e69c9fb089dc9fae7082a722fe4d67]
 - “**money purchase benefits**” has the meaning given by section 181(1) of the Pension Schemes Act 1993[^c8519091];
 - “**teachers**” includes such persons as may be prescribed by regulations made under this section, being persons employed otherwise than as teachers—
 
@@ -71,7 +71,7 @@ shall be taken to include, and to have at all times included, power to pay, or a
 
   (b) in employment which involves the performance of duties in connection with the provision of education or services ancillary to education.
 
-(7)[^key-5f993fbb3b3efb3b185c61d3b0d46a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5f993fbb3b3efb3b185c61d3b0d46a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -83,7 +83,7 @@ shall be taken to include, and to have at all times included, power to pay, or a
 
 [^c8518991]: Textual amendment: Words substituted by [Pensions (Miscellaneous Provisions) Act 1990 (c. 7, SIF 101A:3)](https://www.legislation.gov.uk/ukpga/1990/7), [s. 11(1)](https://www.legislation.gov.uk/ukpga/1990/7/section/11/1)
 
-[^key-9c312479438fb7505f2838aa071a79e4]: Textual amendment: [S. 9(1A)](https://www.legislation.gov.uk/ukpga/1972/11/section/9/1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/9) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/d)
+[^c-9c312479438fb7505f2838aa071a79e4]: Textual amendment: [S. 9(1A)](https://www.legislation.gov.uk/ukpga/1972/11/section/9/1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/9) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/d)
 
 [^c8519001]: Textual amendment: S. 9(2A) inserted by [Pensions (Miscellaneous Provisions) Act 1990 (c. 7, SIF 101A:3)](https://www.legislation.gov.uk/ukpga/1990/7), [s. 8(3)](https://www.legislation.gov.uk/ukpga/1990/7/section/8/3)
 
@@ -91,11 +91,11 @@ shall be taken to include, and to have at all times included, power to pay, or a
 
 [^c8519021]: Marginal citation: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56)
 
-[^key-b2c8d8b33560dfbaa619ff3c52b66476]: Textual amendment: Words in s. 9(5) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 27(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27/2)
+[^c-b2c8d8b33560dfbaa619ff3c52b66476]: Textual amendment: Words in s. 9(5) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 27(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27/2)
 
 [^c8519031]: Textual amendment: S. 9(5A) inserted by [Pensions (Miscellaneous Provisions) Act 1990 (c. 7, SIF 101A:3)](https://www.legislation.gov.uk/ukpga/1990/7), [s. 11(2)](https://www.legislation.gov.uk/ukpga/1990/7/section/11/2)
 
-[^key-2660b6a0ee291ba9b4f033a4e6ac9f96]: Textual amendment: Words in s. 9(5A) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 27(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27/3)
+[^c-2660b6a0ee291ba9b4f033a4e6ac9f96]: Textual amendment: Words in s. 9(5A) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 27(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27/3)
 
 [^c8519041]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70)
 
@@ -107,8 +107,8 @@ shall be taken to include, and to have at all times included, power to pay, or a
 
 [^c8519071]: Textual amendment: Definition inserted by [Pensions (Miscellaneous Provisions) Act 1990 (c. 7, SIF 101A:3)](https://www.legislation.gov.uk/ukpga/1990/7), [s. 11(3)](https://www.legislation.gov.uk/ukpga/1990/7/section/11/3)
 
-[^key-31e69c9fb089dc9fae7082a722fe4d67]: Textual amendment: Words in s. 9(6) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 27(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27/4)
+[^c-31e69c9fb089dc9fae7082a722fe4d67]: Textual amendment: Words in s. 9(6) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 27(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27/4)
 
 [^c8519091]: Textual amendment: Words in definition of“money purchase benefits” in s. 9(6) substituted (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [s. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/7) (with [s. 6(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/6/8)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-5f993fbb3b3efb3b185c61d3b0d46a39]: Textual amendment: S. 9(7) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 27(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27/5), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
+[^c-5f993fbb3b3efb3b185c61d3b0d46a39]: Textual amendment: S. 9(7) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 27(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/27/5), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)

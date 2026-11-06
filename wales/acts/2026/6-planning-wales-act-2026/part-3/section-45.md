@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Power of planning authority to grant permission by local development order[^key-ae880ffc751073305e8b74e0af4dd709]
+## 45. Power of planning authority to grant permission by local development order[^c-ae880ffc751073305e8b74e0af4dd709]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae880ffc751073305e8b74e0af4dd709]: Commencement: S. 45 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ae880ffc751073305e8b74e0af4dd709]: Commencement: S. 45 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

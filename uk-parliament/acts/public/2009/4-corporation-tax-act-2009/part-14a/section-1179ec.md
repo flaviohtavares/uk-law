@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1179EC. Special credit for visual effects[^key-27258acfc32ca744a409d0a89d4a1fcf]
+## 1179EC. Special credit for visual effects[^c-27258acfc32ca744a409d0a89d4a1fcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,24 +24,24 @@ summary: ''
 
 (2) The production company is entitled to claim an additional amount of audiovisual expenditure credit for an accounting period (“the claim period”) that is the completion period (see section 1179DY) or a subsequent accounting period if—
 
-- (a) the company has incurred relevant visual effects expenditure on the film or programme in that period or an earlier accounting period, [^key-ac346c71a7518c3af25c0cc4ab565078]...
-- (aa)[^key-04804769ed5a6702c391a60e577d3b45] a claim for Chapter 3 credit has been made for the last accounting period in the AVEC period (which may be the claim period) in which the company incurred relevant global expenditure (see section 1179CA(2)) that is UK expenditure (see section 1179AB), and
-- (b) [^key-e9b7c1c18871c8ddb5ab6f632edfc361]... the relevant percentage for the purposes of all Chapter 3 credit claims in respect of the film or television programme[^key-d742ba52da31688d87bfc55f5e7f34d1] was the percentage given by subsection (2) or (5) of section 1179DV.
+- (a) the company has incurred relevant visual effects expenditure on the film or programme in that period or an earlier accounting period, [^c-ac346c71a7518c3af25c0cc4ab565078]...
+- (aa)[^c-04804769ed5a6702c391a60e577d3b45] a claim for Chapter 3 credit has been made for the last accounting period in the AVEC period (which may be the claim period) in which the company incurred relevant global expenditure (see section 1179CA(2)) that is UK expenditure (see section 1179AB), and
+- (b) [^c-e9b7c1c18871c8ddb5ab6f632edfc361]... the relevant percentage for the purposes of all Chapter 3 credit claims in respect of the film or television programme[^c-d742ba52da31688d87bfc55f5e7f34d1] was the percentage given by subsection (2) or (5) of section 1179DV.
 
 (3) The additional amount is equal to—
 
 - (a) 39% of the total amount of the relevant visual effects expenditure incurred on the film or programme in the claim period and in previous periods, less
 - (b) the sum of—
-  - (i)[^key-c47f97965b1976f9a4200bd303c1d157] the adjusted VFX portion of Chapter 3 credits claimed in respect of the film or television programme, and
+  - (i)[^c-c47f97965b1976f9a4200bd303c1d157] the adjusted VFX portion of Chapter 3 credits claimed in respect of the film or television programme, and
   - (ii) any additional amounts of audiovisual expenditure credit previously claimed under this section.
 
-(4) Take the following steps to determine the adjusted VFX portion of Chapter 3 credits claimed in respect of the film or television programme[^key-15ebb201a94b488542ac57ee263fec87]—
+(4) Take the following steps to determine the adjusted VFX portion of Chapter 3 credits claimed in respect of the film or television programme[^c-15ebb201a94b488542ac57ee263fec87]—
 
 - *Step 1 (identify the total UK expenditure in the AVEC period)*
 
-  Determine the total amount of the company’s relevant global expenditure [^key-45bfd1135c61f95be5d243f65e236bad]... that—
+  Determine the total amount of the company’s relevant global expenditure [^c-45bfd1135c61f95be5d243f65e236bad]... that—
 
-  - (a) is UK expenditure [^key-9410b6d55c3b14826f318747038ee6a1]..., and
+  - (a) is UK expenditure [^c-9410b6d55c3b14826f318747038ee6a1]..., and
   - (b) was incurred for accounting periods falling within the company’s AVEC period.
 - *Step 2 (identify the amount of visual effects expenditure)*
 
@@ -73,7 +73,7 @@ summary: ''
 
 (6) Sections 1179C and 1179CB to 1179CI (treatment of expenditure credits) apply to the additional amount as they apply to an expenditure credit under Chapter 3.
 
-(6A)[^key-0b829aceea9b57e3fcf9a695a8a4ba46] Where a production company has claimed an additional amount of audiovisual expenditure credit for an accounting period and makes a claim for Chapter 3 credit for a subsequent accounting period—
+(6A)[^c-0b829aceea9b57e3fcf9a695a8a4ba46] Where a production company has claimed an additional amount of audiovisual expenditure credit for an accounting period and makes a claim for Chapter 3 credit for a subsequent accounting period—
 
 - (a) the additional amount is to be calculated for that subsequent accounting period, and
 - (b) if that additional amount is negative, the amount of Chapter 3 credit to which the company is entitled for that period is to be reduced by the additional amount.
@@ -94,22 +94,22 @@ summary: ''
 
 ## Annotations
 
-[^key-27258acfc32ca744a409d0a89d4a1fcf]: Textual amendment: S. 1179EC inserted (with effect in accordance with s. 26(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/26/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/26/2) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/26/3))
+[^c-27258acfc32ca744a409d0a89d4a1fcf]: Textual amendment: S. 1179EC inserted (with effect in accordance with s. 26(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/26/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/26/2) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/26/3))
 
-[^key-ac346c71a7518c3af25c0cc4ab565078]: Textual amendment: Word in [s. 1179EC(2)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/2) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/2/a)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
+[^c-ac346c71a7518c3af25c0cc4ab565078]: Textual amendment: Word in [s. 1179EC(2)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/2) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/2/a)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
 
-[^key-04804769ed5a6702c391a60e577d3b45]: Textual amendment: [S. 1179EC(2)(aa)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/2/aa) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/2/b)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
+[^c-04804769ed5a6702c391a60e577d3b45]: Textual amendment: [S. 1179EC(2)(aa)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/2/aa) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(2)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/2/b)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
 
-[^key-e9b7c1c18871c8ddb5ab6f632edfc361]: Textual amendment: Words in [s. 1179EC(2)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/2/b) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/2/c/i)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
+[^c-e9b7c1c18871c8ddb5ab6f632edfc361]: Textual amendment: Words in [s. 1179EC(2)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/2/b) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/2/c/i)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
 
-[^key-d742ba52da31688d87bfc55f5e7f34d1]: Textual amendment: Words in [s. 1179EC(2)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/2/b) substituted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/2/c/ii)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
+[^c-d742ba52da31688d87bfc55f5e7f34d1]: Textual amendment: Words in [s. 1179EC(2)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/2/b) substituted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/2/c/ii)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
 
-[^key-c47f97965b1976f9a4200bd303c1d157]: Textual amendment: [S. 1179EC(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/3/b/i) substituted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/3)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
+[^c-c47f97965b1976f9a4200bd303c1d157]: Textual amendment: [S. 1179EC(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/3/b/i) substituted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/3)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
 
-[^key-15ebb201a94b488542ac57ee263fec87]: Textual amendment: Words in [s. 1179EC(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/4) substituted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/4/a)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
+[^c-15ebb201a94b488542ac57ee263fec87]: Textual amendment: Words in [s. 1179EC(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/4) substituted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/4/a)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
 
-[^key-45bfd1135c61f95be5d243f65e236bad]: Textual amendment: Words in [s. 1179EC(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/4) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/4/b/i)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
+[^c-45bfd1135c61f95be5d243f65e236bad]: Textual amendment: Words in [s. 1179EC(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/4) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/4/b/i)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
 
-[^key-9410b6d55c3b14826f318747038ee6a1]: Textual amendment: Words in [s. 1179EC(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/4) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/4/b/ii)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
+[^c-9410b6d55c3b14826f318747038ee6a1]: Textual amendment: Words in [s. 1179EC(4)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/4) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/4/b/ii)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
 
-[^key-0b829aceea9b57e3fcf9a695a8a4ba46]: Textual amendment: [S. 1179EC(6A)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/6B) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/5)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)
+[^c-0b829aceea9b57e3fcf9a695a8a4ba46]: Textual amendment: [S. 1179EC(6A)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2009/4/section/1179EC/6B) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 33(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/5)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/33/6)

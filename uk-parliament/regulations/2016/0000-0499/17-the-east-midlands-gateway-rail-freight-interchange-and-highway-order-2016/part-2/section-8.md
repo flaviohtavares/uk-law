@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Application and modification of legislative provisions[^key-4e5fc27001b8b63b6ae374280f2ed6df]
+## 8. Application and modification of legislative provisions[^c-4e5fc27001b8b63b6ae374280f2ed6df]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4e5fc27001b8b63b6ae374280f2ed6df]: Commencement: Art. 8 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-4e5fc27001b8b63b6ae374280f2ed6df]: Commencement: Art. 8 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
 [^f00021]: Footnote: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29). Schedule 3 was amended by sections 21(3) and 88 of the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). Schedule 3 is to come into force on a date to be appointed.
 

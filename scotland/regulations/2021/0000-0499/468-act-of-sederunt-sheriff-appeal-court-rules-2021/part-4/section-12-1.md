@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12.1. Application of this Chapter[^key-b1db962468e2f77ad628c64b9424b902]
+## 12.1. Application of this Chapter[^c-b1db962468e2f77ad628c64b9424b902]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies where a party seeks the permission of the Court to appeal t
 
 ## Annotations
 
-[^key-b1db962468e2f77ad628c64b9424b902]: Commencement: Para. 12.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-b1db962468e2f77ad628c64b9424b902]: Commencement: Para. 12.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

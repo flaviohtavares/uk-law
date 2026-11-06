@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 258. Power of Department to regulate certain matters[^key-fd351e5b3aa0d957fbb50ce538272596]
+## 258. Power of Department to regulate certain matters[^c-fd351e5b3aa0d957fbb50ce538272596]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd351e5b3aa0d957fbb50ce538272596]: Commencement: Rule 258 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-fd351e5b3aa0d957fbb50ce538272596]: Commencement: Rule 258 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00025]: Footnote: Article 359 of the Order, which introduces Schedule 5, was amended by section 134 of the 2009 Act to extend the powers in the Schedule to rules made under Part 2 of that Act

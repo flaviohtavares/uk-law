@@ -35,56 +35,56 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-614934a458f14272c523911305ccf800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-614934a458f14272c523911305ccf800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-614934a458f14272c523911305ccf800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-614934a458f14272c523911305ccf800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-614934a458f14272c523911305ccf800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-614934a458f14272c523911305ccf800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-614934a458f14272c523911305ccf800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-614934a458f14272c523911305ccf800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-614934a458f14272c523911305ccf800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-614934a458f14272c523911305ccf800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-614934a458f14272c523911305ccf800]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-614934a458f14272c523911305ccf800] Reclassification of Financial Assets — Effective Date and Transition (Amendments to IAS 39 Financial Instruments: Recognition and Measurement and IFRS 7 Financial Instruments: Disclosures)
+## ANNEX[^c-614934a458f14272c523911305ccf800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-614934a458f14272c523911305ccf800] Amendment to IAS 39
+[^c-614934a458f14272c523911305ccf800] Reclassification of Financial Assets — Effective Date and Transition (Amendments to IAS 39 Financial Instruments: Recognition and Measurement and IFRS 7 Financial Instruments: Disclosures)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-614934a458f14272c523911305ccf800]EFFECTIVE DATE AND TRANSITION
+[^c-614934a458f14272c523911305ccf800] Amendment to IAS 39
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-614934a458f14272c523911305ccf800]103H
+[^c-614934a458f14272c523911305ccf800]EFFECTIVE DATE AND TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-614934a458f14272c523911305ccf800]103I
+[^c-614934a458f14272c523911305ccf800]103H
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-614934a458f14272c523911305ccf800] Amendment to IFRS 7
+[^c-614934a458f14272c523911305ccf800]103I
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-614934a458f14272c523911305ccf800]EFFECTIVE DATE AND TRANSITION
+[^c-614934a458f14272c523911305ccf800] Amendment to IFRS 7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-614934a458f14272c523911305ccf800]44E
+[^c-614934a458f14272c523911305ccf800]EFFECTIVE DATE AND TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-614934a458f14272c523911305ccf800]44F
+[^c-614934a458f14272c523911305ccf800]44E
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-614934a458f14272c523911305ccf800]44F
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-614934a458f14272c523911305ccf800]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/15) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-614934a458f14272c523911305ccf800]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/15) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

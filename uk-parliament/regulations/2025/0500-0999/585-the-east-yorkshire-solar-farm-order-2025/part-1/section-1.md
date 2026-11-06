@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-1036e779e00ac681c8ce5acc52acf005]
+## 1. Citation and commencement[^c-1036e779e00ac681c8ce5acc52acf005]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the East Yorkshire Solar Farm Order 2025 and comes in
 
 ## Annotations
 
-[^key-1036e779e00ac681c8ce5acc52acf005]: Commencement: Art. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-1036e779e00ac681c8ce5acc52acf005]: Commencement: Art. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

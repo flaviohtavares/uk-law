@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Incidental powers[^key-b83e42c20897a5300be447b9ace99a35]
+## 10. Incidental powers[^c-b83e42c20897a5300be447b9ace99a35]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b83e42c20897a5300be447b9ace99a35]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/17/section/10) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-b83e42c20897a5300be447b9ace99a35]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/17/section/10) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

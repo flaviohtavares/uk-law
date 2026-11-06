@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Laying of annual documents before devolved legislatures[^key-f266e20a4d11674028f00d7a5c885c7d]
+## 40. Laying of annual documents before devolved legislatures[^c-f266e20a4d11674028f00d7a5c885c7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f266e20a4d11674028f00d7a5c885c7d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2020/27/section/40) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/i)
+[^c-f266e20a4d11674028f00d7a5c885c7d]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2020/27/section/40) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/i)

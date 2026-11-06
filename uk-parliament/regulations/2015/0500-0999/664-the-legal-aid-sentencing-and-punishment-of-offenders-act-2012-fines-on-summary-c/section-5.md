@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Transitional and saving provision[^key-ff222476c758d1ad0426af7a4c7ad2a8]
+## 5. Transitional and saving provision[^c-ff222476c758d1ad0426af7a4c7ad2a8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff222476c758d1ad0426af7a4c7ad2a8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/664/regulation/5) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-ff222476c758d1ad0426af7a4c7ad2a8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/664/regulation/5) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)

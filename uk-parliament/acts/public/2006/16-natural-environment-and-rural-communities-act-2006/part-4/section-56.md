@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Denotification[^key-83929f7e46428dd14840829aaaf2752a]
+## 56. Denotification[^c-83929f7e46428dd14840829aaaf2752a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 28D of the 1981 Act (denotification), in subsection (1), for “no lo
 
 ## Annotations
 
-[^key-83929f7e46428dd14840829aaaf2752a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2006/16/section/56) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-83929f7e46428dd14840829aaaf2752a]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2006/16/section/56) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)

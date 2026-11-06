@@ -107,7 +107,7 @@ HAS ADOPTED THIS DECISION:
 
 4. The individual eco-innovation code to be entered into type approval documentation to be used for the innovative technology approved through this Decision shall be ‘12’.
 
-**Article 2.**[^key-ba29629562c11052b398a31a3d8ec76d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ba29629562c11052b398a31a3d8ec76d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 24 February 2015.
 
@@ -131,4 +131,4 @@ Jean-Claude Juncker
 
 [^f00006]: Footnote: Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) ([OJ L 263, 9.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.263.01.0001.01.ENG)).
 
-[^key-ba29629562c11052b398a31a3d8ec76d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2015/295/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba29629562c11052b398a31a3d8ec76d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2015/295/article/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/550)](https://www.legislation.gov.uk/uksi/2019/550), [regs. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/550/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

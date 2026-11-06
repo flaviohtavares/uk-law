@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Repeals and revocations[^key-0b4104863bc6a9d623d1a8eeafd358e6]
+## 19. Repeals and revocations[^c-0b4104863bc6a9d623d1a8eeafd358e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b4104863bc6a9d623d1a8eeafd358e6]: Commencement: Reg. 19 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-0b4104863bc6a9d623d1a8eeafd358e6]: Commencement: Reg. 19 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00011]: Footnote: [S.I. 2000/595](https://www.legislation.gov.uk/uksi/2000/595).

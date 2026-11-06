@@ -48,13 +48,13 @@ The Secretary of State for Work and Pensions, after reference to the Industrial 
 
 The Secretary of State is satisfied of the matters to which section 108(2)(a) and (b) of that Act refer.
 
-## 1. Citation, commencement and extent[^key-673bcf76bb04f92c6738e24b3c6f3228]
+## 1. Citation, commencement and extent[^c-673bcf76bb04f92c6738e24b3c6f3228]
 
-(1) These regulations may be cited as the Social Security (Industrial Injuries) (Prescribed Diseases) Amendment Regulations 2022 and come into force on 28th March 2022[^key-28204a0f47d42c0e0ee91c09ad361374].
+(1) These regulations may be cited as the Social Security (Industrial Injuries) (Prescribed Diseases) Amendment Regulations 2022 and come into force on 28th March 2022[^c-28204a0f47d42c0e0ee91c09ad361374].
 
 (2) These regulations extend to England and Wales.
 
-## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1985[^key-4d5218764d8b65845aceee780c4e08de]
+## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1985[^c-4d5218764d8b65845aceee780c4e08de]
 
 (1) The Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1985[^f00003] are amended as follows.
 
@@ -108,11 +108,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Sections 108(1) and 109(2) were amended by section 64(1)(c) of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5). Section 109(2) was amended by paragraphs 65(a) – (d) of Schedule 7 to the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14). Section 175(4) was amended by paragraph 29(4) of Schedule 3 to the Social Security Contributions (Transfer of Functions etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2). Section 175(5) was amended by paragraph 36 to Schedule 1(1) to the Social Security (Incapacity for Work) Act [1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18). Section 122(1) is cited for the meaning of “prescribe”.
 
-[^key-673bcf76bb04f92c6738e24b3c6f3228]: Commencement: Reg. 1 in force at 28.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/214/regulation/1/1)
+[^c-673bcf76bb04f92c6738e24b3c6f3228]: Commencement: Reg. 1 in force at 28.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/214/regulation/1/1)
 
-[^key-28204a0f47d42c0e0ee91c09ad361374]: Textual amendment: Words in reg. 1(1) substituted (7.3.2022 at 7.30 p.m.) by [The Social Security (Industrial Injuries) (Prescribed Diseases) Amendment (No. 2) Regulations 2022 (S.I. 2022/229)](https://www.legislation.gov.uk/uksi/2022/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/229/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/229/regulation/2)
+[^c-28204a0f47d42c0e0ee91c09ad361374]: Textual amendment: Words in reg. 1(1) substituted (7.3.2022 at 7.30 p.m.) by [The Social Security (Industrial Injuries) (Prescribed Diseases) Amendment (No. 2) Regulations 2022 (S.I. 2022/229)](https://www.legislation.gov.uk/uksi/2022/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/229/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/229/regulation/2)
 
-[^key-4d5218764d8b65845aceee780c4e08de]: Commencement: Reg. 2 in force at 28.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/214/regulation/1/1)
+[^c-4d5218764d8b65845aceee780c4e08de]: Commencement: Reg. 2 in force at 28.3.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/214/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1985/967](https://www.legislation.gov.uk/uksi/1985/967), amended by [S.I. 2019/1241](https://www.legislation.gov.uk/uksi/2019/1241); there are other amending instruments, but none is relevant.
 

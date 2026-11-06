@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Fixed penalty notices[^key-af850160e2961b2877054bfdf3644dfd][^key-9d75db4fccaa926ff10c83ca87a860cd]
+## 4. Fixed penalty notices[^c-af850160e2961b2877054bfdf3644dfd][^c-9d75db4fccaa926ff10c83ca87a860cd]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af850160e2961b2877054bfdf3644dfd]: Commencement: S. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-af850160e2961b2877054bfdf3644dfd]: Commencement: S. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9d75db4fccaa926ff10c83ca87a860cd]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/20/section/4) in force at 26.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/d)
+[^c-9d75db4fccaa926ff10c83ca87a860cd]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/20/section/4) in force at 26.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/d)

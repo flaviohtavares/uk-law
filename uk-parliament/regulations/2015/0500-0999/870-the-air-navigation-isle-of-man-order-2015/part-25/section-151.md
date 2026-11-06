@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Directions to operators of aircraft to make data available[^key-8b88d243212e3db9c4b3e418c5423513]
+## 151. Directions to operators of aircraft to make data available[^c-8b88d243212e3db9c4b3e418c5423513]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ of which (at the time when the direction is given or at any subsequent time) the
 
 ## Annotations
 
-[^key-8b88d243212e3db9c4b3e418c5423513]: Commencement: [Art. 151](https://www.legislation.gov.uk/uksi/2015/870/article/151) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-8b88d243212e3db9c4b3e418c5423513]: Commencement: [Art. 151](https://www.legislation.gov.uk/uksi/2015/870/article/151) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

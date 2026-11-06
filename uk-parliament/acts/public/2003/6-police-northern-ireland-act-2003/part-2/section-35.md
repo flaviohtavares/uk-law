@@ -22,7 +22,7 @@ summary: ''
 
 (1) For the purposes of determining liability for the unlawful conduct of members of the police support staff—
 
-- (a) a member of the police support staff must be treated as an employee of the Chief Constable in relation to conduct in reliance or purported reliance on a designation under section 30 or 30A[^key-4889ace309b284a30073e0768f1a5ce7] ;
+- (a) a member of the police support staff must be treated as an employee of the Chief Constable in relation to conduct in reliance or purported reliance on a designation under section 30 or 30A[^c-4889ace309b284a30073e0768f1a5ce7] ;
 - (b) conduct by a member of the police support staff in reliance or purported reliance on a designation under section 30 or 30A must be taken to be conduct in the course of that employment;
 - (c) in the case of a tort, the Chief Constable accordingly falls to be treated as a joint tortfeasor.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4889ace309b284a30073e0768f1a5ce7]: Textual amendment: Words in s. 35(1)(a)(b) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [7(5)](https://www.legislation.gov.uk/nisi/2007/912/article/7/5)
+[^c-4889ace309b284a30073e0768f1a5ce7]: Textual amendment: Words in s. 35(1)(a)(b) inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [7(5)](https://www.legislation.gov.uk/nisi/2007/912/article/7/5)

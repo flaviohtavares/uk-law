@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Insertion of new Schedule into the FTRS Regulations[^key-e034f2464fc2be06ac9b6f6347d807c2]
+## 26. Insertion of new Schedule into the FTRS Regulations[^c-e034f2464fc2be06ac9b6f6347d807c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The FTRS Regulations are amended by the insertion of the new Schedule 2 containe
 
 ## Annotations
 
-[^key-e034f2464fc2be06ac9b6f6347d807c2]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-e034f2464fc2be06ac9b6f6347d807c2]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

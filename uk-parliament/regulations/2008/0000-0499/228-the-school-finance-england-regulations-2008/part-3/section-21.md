@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Sixth form funding[^key-ff3bcb80c8e4772cb71735719789a1d8]
+## 21. Sixth form funding[^c-ff3bcb80c8e4772cb71735719789a1d8]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff3bcb80c8e4772cb71735719789a1d8]: Commencement: Reg. 21 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-ff3bcb80c8e4772cb71735719789a1d8]: Commencement: Reg. 21 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00031]: Footnote: The authority’s funding in respect of sixth forms is paid by the LSC in the form of a grant under section 7 of the 2000 Act. Section 7 was amended by section 215(1) of, and paragraph 124(1) and (2) of Schedule 21 to, the 2002 Act, and section 117 of, and paragraph 12 of Schedule 18 to, the 2005 Act.

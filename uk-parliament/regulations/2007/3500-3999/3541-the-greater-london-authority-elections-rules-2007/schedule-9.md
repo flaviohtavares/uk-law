@@ -54,7 +54,7 @@ may differ depending on where they are to be displayed.
 
 Notices for display inside a polling station must contain information explaining—
 
-- (za)[^key-e1163517e157bba9f41917f19a852145] the relevant identification information,
+- (za)[^c-e1163517e157bba9f41917f19a852145] the relevant identification information,
 - (a) which election each ballot paper is for,
 - (b) how many votes a voter has in each election,
 - (c) the marks to be used, and the manner in which they should be used, in order to ensure that a vote is counted for any candidate or party (as the case may be),
@@ -62,7 +62,7 @@ Notices for display inside a polling station must contain information explaining
 - (e) which ballot box the voter is to put their ballot paper into after recording their vote, and
 - (f) what to do if the voter spoils a ballot paper.
 
-**6A.**[^key-0071e4341614eadef7e56a4f45cd6d6b] In paragraph 6(za), the “**relevant identification information**” means—
+**6A.**[^c-0071e4341614eadef7e56a4f45cd6d6b] In paragraph 6(za), the “**relevant identification information**” means—
 
 - (a) details of the documents a voter needs to produce when applying for a ballot paper, namely—
   - (i) in the case of an elector (other than an elector with an anonymous entry) or a proxy, any of the forms of identification for the time being referred to in rule 37(1H) of the parliamentary election rules;
@@ -85,6 +85,6 @@ Notices for display inside a polling station must contain information explaining
 
 ## Annotations
 
-[^key-e1163517e157bba9f41917f19a852145]: Textual amendment: Sch. 9 para. 6(za) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/18/a)
+[^c-e1163517e157bba9f41917f19a852145]: Textual amendment: Sch. 9 para. 6(za) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2022/1397/rule/18/a)
 
-[^key-0071e4341614eadef7e56a4f45cd6d6b]: Textual amendment: [Sch. 9 para. 6A](https://www.legislation.gov.uk/uksi/2007/3541/schedule/9/paragraph/6A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [18(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/18/b)
+[^c-0071e4341614eadef7e56a4f45cd6d6b]: Textual amendment: [Sch. 9 para. 6A](https://www.legislation.gov.uk/uksi/2007/3541/schedule/9/paragraph/6A) inserted (with application in accordance with rule 1(3)(4) of the amending S.I.) by [The Voter Identification (Principal Area, Parish and Greater London Authority Elections) (Amendment) Rules 2022 (S.I. 2022/1397)](https://www.legislation.gov.uk/uksi/2022/1397), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1397/rule/1/1), [18(b)](https://www.legislation.gov.uk/uksi/2022/1397/rule/18/b)

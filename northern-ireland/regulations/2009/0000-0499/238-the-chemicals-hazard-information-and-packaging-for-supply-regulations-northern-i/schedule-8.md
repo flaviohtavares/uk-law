@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 18
 
-### PART I — REVOCATIONS TO STATUTORY RULES OF NORTHERN IRELAND[^key-73615f746511c5c83fa54aa4b88f2c70]
+### PART I — REVOCATIONS TO STATUTORY RULES OF NORTHERN IRELAND[^c-73615f746511c5c83fa54aa4b88f2c70]
 
 <table>
 <thead>
@@ -39,7 +39,7 @@ Regulation 18
 </tbody>
 </table>
 
-### PART II — REVOCATIONS TO STATUTORY INSTRUMENTS THAT EXTEND TO NORTHERN IRELAND[^key-02117d6009edbab715c597db6b1cd044]
+### PART II — REVOCATIONS TO STATUTORY INSTRUMENTS THAT EXTEND TO NORTHERN IRELAND[^c-02117d6009edbab715c597db6b1cd044]
 
 <table>
 <thead>
@@ -55,6 +55,6 @@ Regulation 18
 
 ## Annotations
 
-[^key-73615f746511c5c83fa54aa4b88f2c70]: Commencement: [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2009/238/schedule/8/part/I) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-73615f746511c5c83fa54aa4b88f2c70]: Commencement: [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2009/238/schedule/8/part/I) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-02117d6009edbab715c597db6b1cd044]: Commencement: [Sch. 8 Pt. II](https://www.legislation.gov.uk/nisr/2009/238/schedule/8/part/II) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-02117d6009edbab715c597db6b1cd044]: Commencement: [Sch. 8 Pt. II](https://www.legislation.gov.uk/nisr/2009/238/schedule/8/part/II) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)

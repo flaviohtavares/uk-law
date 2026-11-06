@@ -35,7 +35,7 @@ An Act to consolidate certain enactments relating to the national health service
 
 ## Contents
 
-### Part I — Organisation[^key-046ff196cf20fcbfdda9dbc11f657411]
+### Part I — Organisation[^c-046ff196cf20fcbfdda9dbc11f657411]
 
 *Extent: S*
 
@@ -81,33 +81,33 @@ An Act to consolidate certain enactments relating to the national health service
 - [Section 10 — Common Services Agency.](part-i/section-10.md)
 - [Section 10ZA — Provision of patient advice and support service](part-i/section-10za.md)
 
-#### Healthcare Improvement Scotland[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Healthcare Improvement Scotland[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10A — Healthcare Improvement Scotland](part-i/section-10a.md)
 
-#### Principles[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Principles[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10B — Principles](part-i/section-10b.md)
 
-#### Functions related to the health service[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Functions related to the health service[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10C — Health service functions](part-i/section-10c.md)
 - [Section 10D — Health service functions: further provision](part-i/section-10d.md)
 
-#### Functions related to independent health care[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Functions related to independent health care[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10E — Independent health care functions](part-i/section-10e.md)
 
-#### Meaning of “ independent health care services ”[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Meaning of “ independent health care services ”[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10F — Meaning of “independent health care services”](part-i/section-10f.md)
 - [Section 10G — Power to modify definitions](part-i/section-10g.md)
 
-#### Standards and outcomes[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Standards and outcomes[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10H — Standards and outcomes](part-i/section-10h.md)
 
-#### Inspections[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Inspections[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10I — Inspections of services provided under the health service or under the 2021 Act](part-i/section-10i.md)
 - [Section 10J — Inspections of independent health care services](part-i/section-10j.md)
@@ -117,16 +117,16 @@ An Act to consolidate certain enactments relating to the national health service
 - [Section 10N — Inspections: reports](part-i/section-10n.md)
 - [Section 10O — Regulations relating to inspections](part-i/section-10o.md)
 
-#### Registration[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Registration[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10P — Registration of independent health care services](part-i/section-10p.md)
 - [Section 10Q — Grant or refusal of registration](part-i/section-10q.md)
 
-#### Improvement notices[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Improvement notices[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10R — Improvement notices: independent health care services](part-i/section-10r.md)
 
-#### Proposals and applications in relation to registered independent health care services[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Proposals and applications in relation to registered independent health care services[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10S — Cancellation of registration](part-i/section-10s.md)
 - [Section 10T — Emergency cancellation of registration](part-i/section-10t.md)
@@ -138,63 +138,63 @@ An Act to consolidate certain enactments relating to the national health service
 - [Section 10Z — Further provision as respects notice of proposals](part-i/section-10z.md)
 - [Section 10Z1 — Right to make representations to HIS as respects proposals](part-i/section-10z1.md)
 
-#### Notice of decision on application for registration[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Notice of decision on application for registration[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z2 — Notice of HIS's decisions](part-i/section-10z2.md)
 
-#### Conditions as to numbers[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Conditions as to numbers[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z3 — Conditions as to numbers](part-i/section-10z3.md)
 
-#### Appeal against decision to implement proposal[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Appeal against decision to implement proposal[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z4 — Appeal against decision to implement proposal](part-i/section-10z4.md)
 
-#### Fees[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Fees[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z5 — Registration fees](part-i/section-10z5.md)
 
-#### Regulations[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Regulations[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z6 — Regulations: registers and registration](part-i/section-10z6.md)
 - [Section 10Z7 — Regulations: independent health care services](part-i/section-10z7.md)
 
-#### Complaints about independent health care services[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Complaints about independent health care services[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z8 — Complaints about independent health care services](part-i/section-10z8.md)
 
-#### Offences[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Offences[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z9 — Offences in relation to registration](part-i/section-10z9.md)
 - [Section 10Z10 — False statements in applications](part-i/section-10z10.md)
 - [Section 10Z11 — Offences by bodies corporate etc.](part-i/section-10z11.md)
 
-#### Inquiries[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Inquiries[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z12 — Inquiries](part-i/section-10z12.md)
 
-#### Arrangements to provide independent health care services: registration[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Arrangements to provide independent health care services: registration[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z13 — Arrangements entered into by certain bodies: services to be registered](part-i/section-10z13.md)
 
-#### Duty of certain bodies to be aware of reports, etc.[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Duty of certain bodies to be aware of reports, etc.[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z14 — Local authorities and other bodies: awareness of HIS reports etc.](part-i/section-10z14.md)
 
-#### Giving of notice[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Giving of notice[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z15 — Giving of notice](part-i/section-10z15.md)
 
-#### Scottish Health Council[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Scottish Health Council[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z16 — Establishment of Scottish Health Council](part-i/section-10z16.md)
 
-#### Miscellaneous[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Miscellaneous[^c-f3a3f118524668fa8c951a209e7e0631]
 
 - [Section 10Z17 — Transfer of staff](part-i/section-10z17.md)
 - [Section 10Z18 — “ Provide ” in relation to independent health care services](part-i/section-10z18.md)
 
-#### Consultation with Mental Welfare Commission for Scotland[^key-f3a3f118524668fa8c951a209e7e0631]
+#### Consultation with Mental Welfare Commission for Scotland[^c-f3a3f118524668fa8c951a209e7e0631]
 
 *Extent: S*
 
@@ -224,7 +224,7 @@ An Act to consolidate certain enactments relating to the national health service
 - [Section 12H — Duty of quality.](part-i/section-12h.md)
 - [Section 12I — Duty in relation to governance of staff](part-i/section-12i.md)
 
-#### Staffing[^key-579c923316e143a968d434aa55ba11ee]
+#### Staffing[^c-579c923316e143a968d434aa55ba11ee]
 
 - [Section 12IA — Duty to ensure appropriate staffing](part-i/section-12ia.md)
 - [Section 12IB — Duty to ensure appropriate staffing: agency workers](part-i/section-12ib.md)
@@ -242,7 +242,7 @@ An Act to consolidate certain enactments relating to the national health service
 - [Section 12IN — Ministerial guidance on staffing](part-i/section-12in.md)
 - [Section 12IO — Interpretation of sections 12H to 12IN](part-i/section-12io.md)
 
-#### HIS functions in relation to staffing[^key-8dd9cf4ba13d19266fa9ee22221f8518]
+#### HIS functions in relation to staffing[^c-8dd9cf4ba13d19266fa9ee22221f8518]
 
 - [Section 12IP — HIS: monitoring compliance with staffing duties](part-i/section-12ip.md)
 - [Section 12IQ — HIS: monitoring and review of common staffing method](part-i/section-12iq.md)
@@ -638,17 +638,17 @@ SCHEDULES
 
 [^c20959271]: Modification: Act modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 288(4)](https://www.legislation.gov.uk/asp/2003/13/section/288/4), [333(3)](https://www.legislation.gov.uk/asp/2003/13/section/333/3); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), [art. 2](https://www.legislation.gov.uk/ssi/2005/375/article/2))
 
-[^key-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c20957251]: Textual amendment: Ss. 4A, 4B inserted (1.9.2004 for certain purposes otherwise 30.9.2004) by [National Health Service Reform (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), [ss. 2](https://www.legislation.gov.uk/asp/2004/7/section/2), [12(1)](https://www.legislation.gov.uk/asp/2004/7/section/12/1); [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(a)(ii)(b)(ii)](https://www.legislation.gov.uk/ssi/2004/361/article/2/a/ii/b/ii)
 
-[^key-f3a3f118524668fa8c951a209e7e0631]: Textual amendment: Ss. 10A-10Z19 and cross-headings inserted (1.8.2010 for the insertion of s. 10A for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 for specified purposes, 1.4.2016 for specified purposes with the exception of the insertion of s. 10Z9(1)(a), 1.4.2017 for specified purposes, 19.6.2024 for specified purposes with the exception of the insertion of s. 10Z9(1)(a), 19.6.2025 for specified purposes) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 108](https://www.legislation.gov.uk/asp/2010/8/section/108), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule); [S.S.I. 2016/22](https://www.legislation.gov.uk/ssi/2016/22), [art. 2(1)](https://www.legislation.gov.uk/ssi/2016/22/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/22/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/22/schedule/1), [sch. 2](https://www.legislation.gov.uk/ssi/2016/22/schedule/2); [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/131/schedule/1), [sch. 2](https://www.legislation.gov.uk/ssi/2024/131/schedule/2)
+[^c-f3a3f118524668fa8c951a209e7e0631]: Textual amendment: Ss. 10A-10Z19 and cross-headings inserted (1.8.2010 for the insertion of s. 10A for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 for specified purposes, 1.4.2016 for specified purposes with the exception of the insertion of s. 10Z9(1)(a), 1.4.2017 for specified purposes, 19.6.2024 for specified purposes with the exception of the insertion of s. 10Z9(1)(a), 19.6.2025 for specified purposes) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 108](https://www.legislation.gov.uk/asp/2010/8/section/108), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule); [S.S.I. 2016/22](https://www.legislation.gov.uk/ssi/2016/22), [art. 2(1)](https://www.legislation.gov.uk/ssi/2016/22/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/22/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/22/schedule/1), [sch. 2](https://www.legislation.gov.uk/ssi/2016/22/schedule/2); [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/131/schedule/1), [sch. 2](https://www.legislation.gov.uk/ssi/2024/131/schedule/2)
 
 [^c14159371]: Textual amendment: S. 12H and cross-heading inserted (1.10.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 51](https://www.legislation.gov.uk/ukpga/1999/8/section/51); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(a)](https://www.legislation.gov.uk/ssi/1999/90/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/1999/90/schedule/1)
 
-[^key-579c923316e143a968d434aa55ba11ee]: Textual amendment: [Ss. 12IA-12IO](https://www.legislation.gov.uk/ukpga/1978/29/section/12IA) and cross-heading inserted (15.5.2023 for specified purposes, 6.2.2024 for specified purposes, 1.4.2024 for specified purposes) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 4(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(1)(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/1/2)
+[^c-579c923316e143a968d434aa55ba11ee]: Textual amendment: [Ss. 12IA-12IO](https://www.legislation.gov.uk/ukpga/1978/29/section/12IA) and cross-heading inserted (15.5.2023 for specified purposes, 6.2.2024 for specified purposes, 1.4.2024 for specified purposes) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 4(2)](https://www.legislation.gov.uk/asp/2019/6/section/4/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(1)(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/1/2)
 
-[^key-8dd9cf4ba13d19266fa9ee22221f8518]: Textual amendment: [Ss. 12IP-12IW](https://www.legislation.gov.uk/ukpga/1978/29/section/12IP) and cross-heading inserted (15.5.2023 for specified purposes, 1.4.2024 in so far as not already in force) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 6(2)](https://www.legislation.gov.uk/asp/2019/6/section/6/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-8dd9cf4ba13d19266fa9ee22221f8518]: Textual amendment: [Ss. 12IP-12IW](https://www.legislation.gov.uk/ukpga/1978/29/section/12IP) and cross-heading inserted (15.5.2023 for specified purposes, 1.4.2024 in so far as not already in force) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 6(2)](https://www.legislation.gov.uk/asp/2019/6/section/6/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2023/131](https://www.legislation.gov.uk/ssi/2023/131), [reg. 2](https://www.legislation.gov.uk/ssi/2023/131/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/131/schedule); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
 [^c20947511]: Textual amendment: Ss. 17J-17O and cross-heading inserted (13.2.2004 for certain purposes otherwise 1.4.2004) by [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [ss. 4](https://www.legislation.gov.uk/asp/2004/1/section/4), [9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1/3), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule)
 

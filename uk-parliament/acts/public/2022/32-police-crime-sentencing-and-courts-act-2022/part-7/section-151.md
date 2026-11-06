@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Power for responsible officer to vary curfew requirements etc[^key-ca4cc6f0c1b59d21dfdec3a9a66ce0c2]
+## 151. Power for responsible officer to vary curfew requirements etc[^c-ca4cc6f0c1b59d21dfdec3a9a66ce0c2]
 
 *Extent: E+W*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca4cc6f0c1b59d21dfdec3a9a66ce0c2]: Commencement: S. 151 in force at 28.6.2022, see [s. 208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)
+[^c-ca4cc6f0c1b59d21dfdec3a9a66ce0c2]: Commencement: S. 151 in force at 28.6.2022, see [s. 208(5)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/q)

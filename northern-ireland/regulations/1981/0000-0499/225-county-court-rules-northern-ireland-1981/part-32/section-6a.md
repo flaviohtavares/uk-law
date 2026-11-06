@@ -22,7 +22,7 @@ summary: ''
 
 (1) An application for an extension of time under Article 144(2A) of the Magistrates’ Courts (Northern Ireland) 1981[^f00295] shall be made in writing, specifying the grounds of the application.
 
-(2) The application under paragraph (1) shall be served on the chief clerk [^key-baf18033f948256f9fd637ec7e047ebf]... and at the same time a copy thereof shall be served by the applicant on every proposed respondent to the intended appeal.
+(2) The application under paragraph (1) shall be served on the chief clerk [^c-baf18033f948256f9fd637ec7e047ebf]... and at the same time a copy thereof shall be served by the applicant on every proposed respondent to the intended appeal.
 
 (3) A party who receives a copy of an application under paragraph (1) and who wishes to oppose the application shall within 14 days notify the applicant and the chief clerk in writing, of his opposition, giving the reasons therefor.
 
@@ -31,13 +31,13 @@ summary: ''
 (5) The chief clerk shall give notice of the decision of the judge to—
 
 - (a) the applicant;
-- (b) the clerk of petty sessions [^key-595e70754037fa6e0f33506fcb978182]...; and
+- (b) the clerk of petty sessions [^c-595e70754037fa6e0f33506fcb978182]...; and
 - (c) the other parties to the application.\]
 
 ## Annotations
 
 [^f00295]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-baf18033f948256f9fd637ec7e047ebf]: Textual amendment: Words in Order 32 rule 6A(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(c)(i)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/c/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-baf18033f948256f9fd637ec7e047ebf]: Textual amendment: Words in Order 32 rule 6A(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(c)(i)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/c/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
-[^key-595e70754037fa6e0f33506fcb978182]: Textual amendment: Words in Order 32 rule 6A(5) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/c/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-595e70754037fa6e0f33506fcb978182]: Textual amendment: Words in Order 32 rule 6A(5) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/c/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

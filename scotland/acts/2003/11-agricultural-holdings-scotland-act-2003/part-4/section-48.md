@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Consent required for compensation in certain cases[^key-c6db20176a8a0403e2e44761ce234ecf]
+## 48. Consent required for compensation in certain cases[^c-c6db20176a8a0403e2e44761ce234ecf]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Compensation under section 45(1) is not payable for an improvement specified in 
 
 ## Annotations
 
-[^key-c6db20176a8a0403e2e44761ce234ecf]: Commencement: S. 48 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-c6db20176a8a0403e2e44761ce234ecf]: Commencement: S. 48 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

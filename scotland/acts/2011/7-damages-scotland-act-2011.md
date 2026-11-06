@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make further provision as regards rights to
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 3rd March 2011 and received Royal Assent on 7th April 2011
 
-## 1. Damages to injured person whose expectation of life is diminished[^key-e0454ca9b4dd3a48c4b0e73d14f02db8]
+## 1. Damages to injured person whose expectation of life is diminished[^c-e0454ca9b4dd3a48c4b0e73d14f02db8]
 
 (1) This section applies to an action for damages in respect of personal injuries suffered by a pursuer whose date of death is expected to be earlier than had the injuries not been suffered.
 
@@ -65,14 +65,14 @@ aware of the reduced expectation of life, to have regard to the extent to which 
 - (a) derived from the pursuer's own estate, or
 - (b) consisting of such earnings as are mentioned in paragraph (a) of that subsection.
 
-## 2. Transmission of deceased's rights to executor[^key-758de5d04c52c9c257dfd7daf94da977]
+## 2. Transmission of deceased's rights to executor[^c-758de5d04c52c9c257dfd7daf94da977]
 
 (1) There are transmissible to a deceased person's executor (“E”) the like rights to damages, including a right to damages for non-patrimonial loss, in respect of injuries suffered by the deceased (“A”) and vested in A immediately before A's death, being––
 
 - (a) personal injuries, or
 - (b) injuries which, though not personal injuries, are––
   - (i) injuries to name or reputation, or
-  - (ii) injuries resulting from harassment actionable under section 8 or section 8A[^key-89872899f184a9806ff620479803cdb7] of the Protection from Harassment Act 1997 (c.40).
+  - (ii) injuries resulting from harassment actionable under section 8 or section 8A[^c-89872899f184a9806ff620479803cdb7] of the Protection from Harassment Act 1997 (c.40).
 
 (2) The “like rights” mentioned in subsection (1) do not include any right to damages by way of compensation for patrimonial loss attributable to any period after the date of death; and in determining the amount of damages for non-patrimonial loss payable to E by virtue of this section, the only period to which the court is to have regard is that ending immediately before A's death.
 
@@ -83,14 +83,14 @@ aware of the reduced expectation of life, to have regard to the extent to which 
 - (a) while an appeal is competent, or
 - (b) before any appeal taken is disposed of.
 
-## 3. Application of sections 4 to 6[^key-eb1b416a0c1f430ff3501bbbf7635285]
+## 3. Application of sections 4 to 6[^c-eb1b416a0c1f430ff3501bbbf7635285]
 
 Sections 4 to 6 apply where a person (“A”) dies in consequence of suffering personal injuries as the result of the act or omission of another person (“B”) and the act or omission––
 
 - (a) gives rise to liability to pay damages to A (or to A's executor), or
 - (b) would have given rise to such liability but for A's death.
 
-## 4. Sums of damages payable to relatives[^key-b335ca690d182c87f42cabc7c1284abb]
+## 4. Sums of damages payable to relatives[^c-b335ca690d182c87f42cabc7c1284abb]
 
 (1) B is liable under this subsection to pay––
 
@@ -117,7 +117,7 @@ Sections 4 to 6 apply where a person (“A”) dies in consequence of suffering 
 - (a) a relative of A is a member of A's immediate family if the relative falls within any of paragraphs (a) to (d) of the definition of “relative” in section 14(1),
 - (b) paragraphs (a)(i) and (b) of section 14(2) are to be disregarded.
 
-## 5. Discharge of liability to pay damages: exception for mesothelioma[^key-a8c5e9a068575bbc768bc87fa593dc59]
+## 5. Discharge of liability to pay damages: exception for mesothelioma[^c-a8c5e9a068575bbc768bc87fa593dc59]
 
 (1) This section applies where––
 
@@ -127,13 +127,13 @@ Sections 4 to 6 apply where a person (“A”) dies in consequence of suffering 
 
 (2) Liability arises under section 4(1) but is limited to the payment of such sum of damages as is mentioned in paragraph (b) of section 4(3).
 
-## 6. Relative's loss of personal services[^key-1c0eacbae7fef038d4a198d1d5500038]
+## 6. Relative's loss of personal services[^c-1c0eacbae7fef038d4a198d1d5500038]
 
 (1) A relative entitled to damages under paragraph (a) of section 4(3) is entitled to include, as a head of damages under that paragraph, a reasonable sum in respect of the loss to the relative of A's personal services as a result of the act or omission.
 
 (2) In subsection (1), “**personal services**” has the same meaning as in section 9(1) of the Administration of Justice Act 1982 (c.53) (damages in respect of inability of injured person to render such services).
 
-## 7. Assessment of compensation for loss of support[^key-0a093cbc2829b7979391492d7775c9d4]
+## 7. Assessment of compensation for loss of support[^c-0a093cbc2829b7979391492d7775c9d4]
 
 (1) Such part of an award under paragraph (a) of section 4(3) as consists of a sum in compensation for loss of support is to be assessed applying the following paragraphs––
 
@@ -157,7 +157,7 @@ Sections 4 to 6 apply where a person (“A”) dies in consequence of suffering 
 - (a) has not attained the age of 18 years, and
 - (b) is owed an obligation of aliment by A.
 
-## 8. Further provision as regards relative's entitlement to damages[^key-26cb0c21482048f9a5db35e442bb3556]
+## 8. Further provision as regards relative's entitlement to damages[^c-26cb0c21482048f9a5db35e442bb3556]
 
 (1) Subject to subsection (3), in assessing for the purposes of section 4 or 6 the amount of any loss of support sustained by a relative of A no account is to be taken of––
 
@@ -178,7 +178,7 @@ Sections 4 to 6 apply where a person (“A”) dies in consequence of suffering 
 
 (6) In subsection (5), “**damages**” includes damages by way of solatium.
 
-## 9. Transmission of relative's rights to executor[^key-3435a857acf3ba0c1920f5eec1e860dc]
+## 9. Transmission of relative's rights to executor[^c-3435a857acf3ba0c1920f5eec1e860dc]
 
 (1) This section applies where liability to pay damages to a relative (“R”) has arisen under section 4 or 6 but R dies.
 
@@ -191,7 +191,7 @@ Sections 4 to 6 apply where a person (“A”) dies in consequence of suffering 
 
 any right of R to damages under that section is to be taken, for the purposes of subsection (2), to have vested in R on A's death.
 
-## 10. Enforcement by executor of rights transmitted under section 2 or 9[^key-6c58314f6c8b9cf3d2886569f9110a0e]
+## 10. Enforcement by executor of rights transmitted under section 2 or 9[^c-6c58314f6c8b9cf3d2886569f9110a0e]
 
 (1) Where a right is transmitted by virtue of section 2 or 9, the executor in question is entitled––
 
@@ -203,13 +203,13 @@ any right of R to damages under that section is to be taken, for the purposes of
 - (a) while an appeal is competent, or
 - (b) before any appeal taken is disposed of.
 
-## 11. Executor's claim not excluded by relative's claim etc.[^key-9db73421e439a19c22540a814947798a]
+## 11. Executor's claim not excluded by relative's claim etc.[^c-9db73421e439a19c22540a814947798a]
 
 (1) A claim made by virtue of this Act by a deceased's executor is not excluded by a claim so made by a relative of the deceased (or by such a relative's executor).
 
 (2) Nor is a claim so made by a such a relative (or by such a relative's executor) excluded by a claim so made by the deceased's executor.
 
-## 12. Limitation of total amount of liability[^key-5f733230855cb0ca40d3549f68c190be]
+## 12. Limitation of total amount of liability[^c-5f733230855cb0ca40d3549f68c190be]
 
 (1) This section applies to an action directed against a defender (“B”) in which, following the death of a person (“A”) from personal injuries, damages are claimed––
 
@@ -227,7 +227,7 @@ nothing in this Act makes B liable to pay damages exceeding that amount.
 
 (4) And where two or more actions are conjoined the conjoined actions are to be treated, for the purposes of this section, as if they were a single action.
 
-## 13. Amendment of section 9 of Administration of Justice Act 1982[^key-6022548729ed5b22cdbbc6fec0011c88]
+## 13. Amendment of section 9 of Administration of Justice Act 1982[^c-6022548729ed5b22cdbbc6fec0011c88]
 
 In section 9 of the Administration of Justice Act 1982 (c.53) (services to injured person's relative)––
 
@@ -240,7 +240,7 @@ In section 9 of the Administration of Justice Act 1982 (c.53) (services to injur
 - (c) in subsection (3), for the words “subsections (1) and (2)” there is substituted “ subsection (1) ”, and
 - (d) in subsection (4), for the words “subsection (2) above” there is substituted “ section 6(1) of the Damages (Scotland) Act 2011 (asp 7) (relative's loss of personal services) ”.
 
-## 14. Interpretation[^key-40324c12b08afc4522d5b06dde25b9bd]
+## 14. Interpretation[^c-40324c12b08afc4522d5b06dde25b9bd]
 
 (1) In this Act, unless the context otherwise requires––
 
@@ -273,15 +273,15 @@ In section 9 of the Administration of Justice Act 1982 (c.53) (services to injur
 
 is to be construed as a reference to an award under paragraph (b) of section 4(3).
 
-## 15. Minor and consequential amendments[^key-cd088fe9c042264ec32a068751568288]
+## 15. Minor and consequential amendments[^c-cd088fe9c042264ec32a068751568288]
 
 Schedule 1 to this Act, which contains minor amendments and amendments consequential on the provisions of this Act, has effect.
 
-## 16. Repeals[^key-e3a9a3a39c72fedf7a0d0c774fd01ec3]
+## 16. Repeals[^c-e3a9a3a39c72fedf7a0d0c774fd01ec3]
 
 The enactments mentioned in schedule 2 to this Act are repealed to the extent mentioned in the second column of that schedule.
 
-## 17. Saving[^key-7fbca8adb24014ae1d629d6b35e9f674]
+## 17. Saving[^c-7fbca8adb24014ae1d629d6b35e9f674]
 
 Nothing in this Act affects proceedings commenced before section 16 comes into force.
 
@@ -316,17 +316,17 @@ the Parliament.
 
 ### Sheriff Courts (Scotland) Act 1907 (c.51)
 
-**1.**[^key-8067dc7de97295ee7a36c0aaab7b517a] In Schedule 1 to the Sheriff Courts (Scotland) Act 1907 (ordinary court rules), in the definition of “relative” in rule 36.1(2), for the words “meaning assigned to it in Schedule 1 to the Damages (Scotland) Act 1976” there is substituted “ same meaning as in the Damages (Scotland) Act 2011 ”.
+**1.**[^c-8067dc7de97295ee7a36c0aaab7b517a] In Schedule 1 to the Sheriff Courts (Scotland) Act 1907 (ordinary court rules), in the definition of “relative” in rule 36.1(2), for the words “meaning assigned to it in Schedule 1 to the Damages (Scotland) Act 1976” there is substituted “ same meaning as in the Damages (Scotland) Act 2011 ”.
 
 ### Prescription and Limitation (Scotland) Act 1973 (c.52)
 
-**2.**[^key-9ea2a7eae0a0d38a93e9d886376a2149] (1) In section 18 of the Prescription and Limitation (Scotland) Act 1973 (actions where death has resulted from personal injuries), in subsection (5), for the words “Schedule 1 to the Damages (Scotland) Act 1976” there is substituted “ the Damages (Scotland) Act 2011 ”.
+**2.**[^c-9ea2a7eae0a0d38a93e9d886376a2149] (1) In section 18 of the Prescription and Limitation (Scotland) Act 1973 (actions where death has resulted from personal injuries), in subsection (5), for the words “Schedule 1 to the Damages (Scotland) Act 1976” there is substituted “ the Damages (Scotland) Act 2011 ”.
 
 (2) In section 22C of that Act (actions under the Consumer Protection Act 1987 where death has resulted from personal injuries), in subsection (6), for the words “Damages (Scotland) Act 1976” there is substituted “ Damages (Scotland) Act 2011 ”.
 
 ### Administration of Justice Act 1982 (c.53)
 
-**3.**[^key-1ff5b3dc0c229389823f83b73230d7e0] In section 13(1) of the Administration of Justice Act 1982 (supplementary), for the definition of “personal injuries” there is substituted––
+**3.**[^c-1ff5b3dc0c229389823f83b73230d7e0] In section 13(1) of the Administration of Justice Act 1982 (supplementary), for the definition of “personal injuries” there is substituted––
 
 > “**personal injuries**” means––
 >
@@ -337,7 +337,7 @@ the Parliament.
 
 ### Consumer Protection Act 1987 (c.43)
 
-**4.**[^key-06d6d8a92b9abfbcc3bc63ad38ac7e45] (1) In section 1 of the Consumer Protection Act 1987 (purpose and construction of Part 1), in subsection (2), for the words “Damages (Scotland) Act 1976” there is substituted “ Damages (Scotland) Act 2011 ”.
+**4.**[^c-06d6d8a92b9abfbcc3bc63ad38ac7e45] (1) In section 1 of the Consumer Protection Act 1987 (purpose and construction of Part 1), in subsection (2), for the words “Damages (Scotland) Act 1976” there is substituted “ Damages (Scotland) Act 2011 ”.
 
 (2) In section 6 of that Act (application of certain enactments etc.)––
 
@@ -346,25 +346,25 @@ the Parliament.
 
 ### Coal Mining Subsidence Act 1991 (c.45)
 
-**5.**[^key-68e52d7b13ee167aff1cb2ebd67b0029] In section 32 of the Coal Mining Subsidence Act 1991 (compensation for death or disablement), in subsection (2)(c), for the words “Damages (Scotland) Act 1976” there is substituted “ Damages (Scotland) Act 2011 ”.
+**5.**[^c-68e52d7b13ee167aff1cb2ebd67b0029] In section 32 of the Coal Mining Subsidence Act 1991 (compensation for death or disablement), in subsection (2)(c), for the words “Damages (Scotland) Act 1976” there is substituted “ Damages (Scotland) Act 2011 ”.
 
 ### Merchant Shipping Act 1995 (c.21)
 
-**6.**[^key-6dcd5434e32bcd922f024cb2ad9f67da] In Part 2 of Schedule 7 to the Merchant Shipping Act 1995 (Convention on Limitation of Liability for Maritime Claims 1976), in paragraph 6, for the words “Damages (Scotland) Act 1976” there is substituted “ Damages (Scotland) Act 2011 ”.
+**6.**[^c-6dcd5434e32bcd922f024cb2ad9f67da] In Part 2 of Schedule 7 to the Merchant Shipping Act 1995 (Convention on Limitation of Liability for Maritime Claims 1976), in paragraph 6, for the words “Damages (Scotland) Act 1976” there is substituted “ Damages (Scotland) Act 2011 ”.
 
 ### Damages Act 1996 (c.48)
 
-**7.**[^key-38d3c723aa547f035e9bb45120b17b67] In section 7 of the Damages Act 1996 (interpretation), in subsection (2), for the words “meaning given by section 10(1) of the Damages (Scotland) Act 1976” there is substituted “ same meaning as in the Damages (Scotland) Act 2011 ”.
+**7.**[^c-38d3c723aa547f035e9bb45120b17b67] In section 7 of the Damages Act 1996 (interpretation), in subsection (2), for the words “meaning given by section 10(1) of the Damages (Scotland) Act 1976” there is substituted “ same meaning as in the Damages (Scotland) Act 2011 ”.
 
 ### Health and Social Care (Community Health and Standards) Act 2003 (c.43)
 
-**8.**[^key-2938b76748b293607d3de3d68fa77133] In Schedule 10 to the Health and Social Care (Community Health and Standards) Act 2003 (recovery of NHS charges: exempted payments), in paragraph 7, for the words “section 1 of the Damages (Scotland) Act 1976 (c.13)” there is substituted “ any of sections 4 to 6 of the Damages (Scotland) Act 2011 (asp 7) ”.
+**8.**[^c-2938b76748b293607d3de3d68fa77133] In Schedule 10 to the Health and Social Care (Community Health and Standards) Act 2003 (recovery of NHS charges: exempted payments), in paragraph 7, for the words “section 1 of the Damages (Scotland) Act 1976 (c.13)” there is substituted “ any of sections 4 to 6 of the Damages (Scotland) Act 2011 (asp 7) ”.
 
 ### Companies Act 2006 (c.46)
 
-**9.**[^key-d220b14fa538839a46ad065cda800a30] In section 1030 of the Companies Act 2006 (when application to the court may be made), in subsection (6)(b)(ii), for the words “Damages (Scotland) Act 1976 (c.13)” there is substituted “ Damages (Scotland) Act 2011 (asp 7) ”.
+**9.**[^c-d220b14fa538839a46ad065cda800a30] In section 1030 of the Companies Act 2006 (when application to the court may be made), in subsection (6)(b)(ii), for the words “Damages (Scotland) Act 1976 (c.13)” there is substituted “ Damages (Scotland) Act 2011 (asp 7) ”.
 
-## SCHEDULE 2 — Repeals[^key-053bc9619e74525d7ece4332bedfbcb8]
+## SCHEDULE 2 — Repeals[^c-053bc9619e74525d7ece4332bedfbcb8]
 
 (introduced by section 16)
 
@@ -381,58 +381,58 @@ the Parliament.
 
 ## Annotations
 
-[^key-e0454ca9b4dd3a48c4b0e73d14f02db8]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/7/section/1) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-e0454ca9b4dd3a48c4b0e73d14f02db8]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/7/section/1) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-758de5d04c52c9c257dfd7daf94da977]: Commencement: S. 2 in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-758de5d04c52c9c257dfd7daf94da977]: Commencement: S. 2 in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-89872899f184a9806ff620479803cdb7]: Textual amendment: Words in [s. 2(1)(b)(ii)](https://www.legislation.gov.uk/asp/2011/7/section/2/1/b/ii) inserted (21.7.2011) by [Domestic Abuse (Scotland) Act 2011 (asp 13)](https://www.legislation.gov.uk/asp/2011/13), [ss. 1(5)](https://www.legislation.gov.uk/asp/2011/13/section/1/5), [5(2)](https://www.legislation.gov.uk/asp/2011/13/section/5/2)
+[^c-89872899f184a9806ff620479803cdb7]: Textual amendment: Words in [s. 2(1)(b)(ii)](https://www.legislation.gov.uk/asp/2011/7/section/2/1/b/ii) inserted (21.7.2011) by [Domestic Abuse (Scotland) Act 2011 (asp 13)](https://www.legislation.gov.uk/asp/2011/13), [ss. 1(5)](https://www.legislation.gov.uk/asp/2011/13/section/1/5), [5(2)](https://www.legislation.gov.uk/asp/2011/13/section/5/2)
 
-[^key-eb1b416a0c1f430ff3501bbbf7635285]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/7/section/3) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-eb1b416a0c1f430ff3501bbbf7635285]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/7/section/3) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-b335ca690d182c87f42cabc7c1284abb]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/7/section/4) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-b335ca690d182c87f42cabc7c1284abb]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/7/section/4) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-a8c5e9a068575bbc768bc87fa593dc59]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/7/section/5) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-a8c5e9a068575bbc768bc87fa593dc59]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/7/section/5) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-1c0eacbae7fef038d4a198d1d5500038]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/7/section/6) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-1c0eacbae7fef038d4a198d1d5500038]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/7/section/6) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-0a093cbc2829b7979391492d7775c9d4]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/7/section/7) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-0a093cbc2829b7979391492d7775c9d4]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/7/section/7) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-26cb0c21482048f9a5db35e442bb3556]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/7/section/8) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-26cb0c21482048f9a5db35e442bb3556]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/7/section/8) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-3435a857acf3ba0c1920f5eec1e860dc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/7/section/9) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-3435a857acf3ba0c1920f5eec1e860dc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/7/section/9) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-6c58314f6c8b9cf3d2886569f9110a0e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/7/section/10) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-6c58314f6c8b9cf3d2886569f9110a0e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/7/section/10) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-9db73421e439a19c22540a814947798a]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/7/section/11) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-9db73421e439a19c22540a814947798a]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/7/section/11) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-5f733230855cb0ca40d3549f68c190be]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/7/section/12) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-5f733230855cb0ca40d3549f68c190be]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/7/section/12) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-6022548729ed5b22cdbbc6fec0011c88]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/7/section/13) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-6022548729ed5b22cdbbc6fec0011c88]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/7/section/13) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-40324c12b08afc4522d5b06dde25b9bd]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/7/section/14) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-40324c12b08afc4522d5b06dde25b9bd]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/7/section/14) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-cd088fe9c042264ec32a068751568288]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/7/section/15) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-cd088fe9c042264ec32a068751568288]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/7/section/15) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-e3a9a3a39c72fedf7a0d0c774fd01ec3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/7/section/16) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-e3a9a3a39c72fedf7a0d0c774fd01ec3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/7/section/16) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-7fbca8adb24014ae1d629d6b35e9f674]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/7/section/17) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-7fbca8adb24014ae1d629d6b35e9f674]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/7/section/17) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-8067dc7de97295ee7a36c0aaab7b517a]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/1) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-8067dc7de97295ee7a36c0aaab7b517a]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/1) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-9ea2a7eae0a0d38a93e9d886376a2149]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/2) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-9ea2a7eae0a0d38a93e9d886376a2149]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/2) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-1ff5b3dc0c229389823f83b73230d7e0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/3) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-1ff5b3dc0c229389823f83b73230d7e0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/3) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-06d6d8a92b9abfbcc3bc63ad38ac7e45]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/4) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-06d6d8a92b9abfbcc3bc63ad38ac7e45]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/4) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-68e52d7b13ee167aff1cb2ebd67b0029]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/5) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-68e52d7b13ee167aff1cb2ebd67b0029]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/5) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-6dcd5434e32bcd922f024cb2ad9f67da]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/6) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-6dcd5434e32bcd922f024cb2ad9f67da]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/6) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-38d3c723aa547f035e9bb45120b17b67]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/7) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-38d3c723aa547f035e9bb45120b17b67]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/7) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-2938b76748b293607d3de3d68fa77133]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/8) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-2938b76748b293607d3de3d68fa77133]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/8) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-d220b14fa538839a46ad065cda800a30]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/9) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-d220b14fa538839a46ad065cda800a30]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/9) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
-[^key-053bc9619e74525d7ece4332bedfbcb8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-053bc9619e74525d7ece4332bedfbcb8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) in force at 7.7.2011 by [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))

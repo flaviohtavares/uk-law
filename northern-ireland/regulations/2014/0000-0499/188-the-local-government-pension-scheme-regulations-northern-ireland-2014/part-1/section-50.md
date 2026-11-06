@@ -24,7 +24,7 @@ summary: ''
 
 (2) The opening balance of a survivor member's pension account opened under paragraph (1) is the amount of pension payable to the eligible child or children, calculated in accordance with paragraph (3) or (4).
 
-(3) The amount of pension payable under paragraph (2) where there is only one such eligible child is calculated by adding together the pension that the member would have been entitled to draw excluding any final guarantee amount under regulation 4B (statutory underpin; retirement, redundancy, ill-health) or 4C (statutory underpin: flexible retirement) of the Transitional Regulations[^key-610462d5176e922cd64306ef8c1128e3] if—
+(3) The amount of pension payable under paragraph (2) where there is only one such eligible child is calculated by adding together the pension that the member would have been entitled to draw excluding any final guarantee amount under regulation 4B (statutory underpin; retirement, redundancy, ill-health) or 4C (statutory underpin: flexible retirement) of the Transitional Regulations[^c-610462d5176e922cd64306ef8c1128e3] if—
 
 - (a) the member had been entitled to draw a pension on the date the member died;
 - (b) the pension the member would have been able to draw on that date had not been subject to any restriction on the age at which it could be drawn, or actuarial adjustment relating to the age at which it was drawn or following a Scheme Pays Election or any pension debit applied on account of a pension sharing order;
@@ -33,14 +33,14 @@ summary: ''
 - (e) the member's earned pension had accrued at a rate of 1/240th of pensionable pay; and
 - (f) the amount of earned pension credited under regulation 113(1) (effect of acceptance of transfer value payment) had been multiplied by 49/240.
 
-(3A)[^key-83f5ca5d08819ec7bcb4f21449a6ca5a] For the purposes of paragraph (3), if the member—
+(3A)[^c-83f5ca5d08819ec7bcb4f21449a6ca5a] For the purposes of paragraph (3), if the member—
 
 - (a) died in the period beginning with 1st April and ending with 5th April in the Scheme year following the Scheme year in which the member become a deferred member; or
 - (b) ceased to be an active member and became a deferred member in the period beginning with 1st April and ending with 5th April in a Scheme year and subsequently died within that same period,
 
 the pension is deemed to include the revaluation adjustment that would have been due at the next revaluation date.
 
-(4) The amount of pension payable under paragraph (2) where there is more than one such eligible child, is payable to those children in equal shares and is calculated by adding together the pension that the member would have been entitled to draw excluding any final guarantee amount under regulation 4B (statutory underpin; retirement, redundancy, ill-health) or 4C (statutory underpin: flexible retirement) of the Transitional Regulations[^key-4a517689417e1bdf478295f0403cafba] if—
+(4) The amount of pension payable under paragraph (2) where there is more than one such eligible child, is payable to those children in equal shares and is calculated by adding together the pension that the member would have been entitled to draw excluding any final guarantee amount under regulation 4B (statutory underpin; retirement, redundancy, ill-health) or 4C (statutory underpin: flexible retirement) of the Transitional Regulations[^c-4a517689417e1bdf478295f0403cafba] if—
 
 - (a) the member had been entitled to draw a pension on the date the member died;
 - (b) the pension the member would have been able to draw on that date had not been subject to any restriction on the age at which it could be drawn, or actuarial adjustment relating to the age at which it was drawn or following a Scheme Pays Election or any pension debit applied on account of a pension sharing order;
@@ -49,7 +49,7 @@ the pension is deemed to include the revaluation adjustment that would have been
 - (e) the member's earned pension had accrued at a rate of 1/120th of pensionable pay; and
 - (f) the amount of earned pension credited under regulation 113(1) (effect of acceptance of transfer value payment) had been multiplied by 49/120.
 
-(4A)[^key-2a90ac9c82924f4f4a25c72f70546d49] For the purposes of paragraph (4), if the member—
+(4A)[^c-2a90ac9c82924f4f4a25c72f70546d49] For the purposes of paragraph (4), if the member—
 
 - (a) died in the period beginning with 1st April and ending with 5th April in the Scheme year following the Scheme year in which the member ceased to be an active member; or
 - (b) ceased to be an active member and became a deferred member in the period beginning with 1st April and ending with 5th April in a Scheme year and subsequently died within that same period,
@@ -60,10 +60,10 @@ the pension is deemed to include the revaluation adjustment that would have been
 
 ## Annotations
 
-[^key-610462d5176e922cd64306ef8c1128e3]: Textual amendment: Words in [reg. 50(3)](https://www.legislation.gov.uk/nisr/2014/188/regulation/50/3) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/8)
+[^c-610462d5176e922cd64306ef8c1128e3]: Textual amendment: Words in [reg. 50(3)](https://www.legislation.gov.uk/nisr/2014/188/regulation/50/3) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/8)
 
-[^key-83f5ca5d08819ec7bcb4f21449a6ca5a]: Textual amendment: [Reg. 50(3A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/50/3A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/81)](https://www.legislation.gov.uk/nisr/2023/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/nisr/2023/81/regulation/6/4/a)
+[^c-83f5ca5d08819ec7bcb4f21449a6ca5a]: Textual amendment: [Reg. 50(3A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/50/3A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/81)](https://www.legislation.gov.uk/nisr/2023/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/nisr/2023/81/regulation/6/4/a)
 
-[^key-4a517689417e1bdf478295f0403cafba]: Textual amendment: Words in [reg. 50(4)](https://www.legislation.gov.uk/nisr/2014/188/regulation/50/4) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/8)
+[^c-4a517689417e1bdf478295f0403cafba]: Textual amendment: Words in [reg. 50(4)](https://www.legislation.gov.uk/nisr/2014/188/regulation/50/4) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/8)
 
-[^key-2a90ac9c82924f4f4a25c72f70546d49]: Textual amendment: [Reg. 50(4A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/50/4A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/81)](https://www.legislation.gov.uk/nisr/2023/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/nisr/2023/81/regulation/6/4/b)
+[^c-2a90ac9c82924f4f4a25c72f70546d49]: Textual amendment: [Reg. 50(4A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/50/4A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/81)](https://www.legislation.gov.uk/nisr/2023/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/81/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/nisr/2023/81/regulation/6/4/b)

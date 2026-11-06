@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Formulae for determination of budget shares etc. for certain maintained schools and early years providers[^key-e6569b6ce35fa67961339897e5649e65]
+## 10. Formulae for determination of budget shares etc. for certain maintained schools and early years providers[^c-e6569b6ce35fa67961339897e5649e65]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6569b6ce35fa67961339897e5649e65]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/42/regulation/10) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-e6569b6ce35fa67961339897e5649e65]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/42/regulation/10) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

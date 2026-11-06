@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 307F. Deemed capital receipts under, or after leaving, cash basis[^key-69f0f53c554c07a41dea095914b6603b][^key-04746d3ad4dfcba2085f30c87686c90e]
+## 307F. Deemed capital receipts under, or after leaving, cash basis[^c-69f0f53c554c07a41dea095914b6603b][^c-04746d3ad4dfcba2085f30c87686c90e]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ the person is to be regarded for the purposes of section 307E as disposing of th
 
 ## Annotations
 
-[^key-69f0f53c554c07a41dea095914b6603b]: Textual amendment: Ss. 307A-307F and cross-headings inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/23)
+[^c-69f0f53c554c07a41dea095914b6603b]: Textual amendment: Ss. 307A-307F and cross-headings inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/23)
 
-[^key-04746d3ad4dfcba2085f30c87686c90e]: Modification: S. 307F excluded in part (16.11.2017) by 1992 c. 12, s. 37(1A)-(1C) (as inserted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/44))
+[^c-04746d3ad4dfcba2085f30c87686c90e]: Modification: S. 307F excluded in part (16.11.2017) by 1992 c. 12, s. 37(1A)-(1C) (as inserted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/44))

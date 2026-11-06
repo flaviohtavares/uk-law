@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.11. Orders restraining civil proceedings[^key-8af083a35ffac83dc9fd84171a0b3fb9]
+## 3.11. Orders restraining civil proceedings[^c-8af083a35ffac83dc9fd84171a0b3fb9]
 
 *Extent: E+W*
 
-(1)[^key-75435e7c07a449e03351d3f1781963b8] A “civil proceedings order” and an “all proceedings order” under section 42(1A) of the Senior Courts Act 1981 shall include provision for applying to begin, continue or make any application in any civil proceedings.
+(1)[^c-75435e7c07a449e03351d3f1781963b8] A “civil proceedings order” and an “all proceedings order” under section 42(1A) of the Senior Courts Act 1981 shall include provision for applying to begin, continue or make any application in any civil proceedings.
 
-(2)[^key-8634a3e46d26bab32f8b7169891ae116] A practice direction may set out—
+(2)[^c-8634a3e46d26bab32f8b7169891ae116] A practice direction may set out—
 
 - (a) the circumstances in which the court has the power to make a civil restraint order against a party to proceedings;
 - (b) the procedure where a party applies for a civil restraint order against another party; and
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8af083a35ffac83dc9fd84171a0b3fb9]: Textual amendment: [Rule 3.11 heading](https://www.legislation.gov.uk/uksi/1998/3132/part/3/crossheading/case-management) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/4/3/a)
+[^c-8af083a35ffac83dc9fd84171a0b3fb9]: Textual amendment: [Rule 3.11 heading](https://www.legislation.gov.uk/uksi/1998/3132/part/3/crossheading/case-management) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/4/3/a)
 
-[^key-75435e7c07a449e03351d3f1781963b8]: Textual amendment: [Rule 3.11(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.11/1) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/4/3/b)
+[^c-75435e7c07a449e03351d3f1781963b8]: Textual amendment: [Rule 3.11(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.11/1) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/4/3/b)
 
-[^key-8634a3e46d26bab32f8b7169891ae116]: Textual amendment: [Rule 3](https://www.legislation.gov.uk/uksi/1998/3132/rule/3).11 renumbered as rule 3.11(2) (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2022/783/rule/4/3/c)
+[^c-8634a3e46d26bab32f8b7169891ae116]: Textual amendment: [Rule 3](https://www.legislation.gov.uk/uksi/1998/3132/rule/3).11 renumbered as rule 3.11(2) (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2022/783/rule/4/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43ZB. Interpretation[^key-da76d847f6d48ee283563acef5a4a66e]
+## 43ZB. Interpretation[^c-da76d847f6d48ee283563acef5a4a66e]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da76d847f6d48ee283563acef5a4a66e]: Textual amendment: [Ss. 43ZA](https://www.legislation.gov.uk/ukpga/1996/18/section/43ZA), [43ZB](https://www.legislation.gov.uk/ukpga/1996/18/section/43ZB) inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/6)
+[^c-da76d847f6d48ee283563acef5a4a66e]: Textual amendment: [Ss. 43ZA](https://www.legislation.gov.uk/ukpga/1996/18/section/43ZA), [43ZB](https://www.legislation.gov.uk/ukpga/1996/18/section/43ZB) inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/6)

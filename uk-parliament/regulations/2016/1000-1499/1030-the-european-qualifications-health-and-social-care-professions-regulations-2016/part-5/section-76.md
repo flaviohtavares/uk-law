@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Amendment of article 5[^key-c814a615c1c8137d0518aec42996d3bc]
+## 76. Amendment of article 5[^c-c814a615c1c8137d0518aec42996d3bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c814a615c1c8137d0518aec42996d3bc]: Commencement: Reg. 76 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c814a615c1c8137d0518aec42996d3bc]: Commencement: Reg. 76 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00057]: Footnote: Article 5(1) was substituted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

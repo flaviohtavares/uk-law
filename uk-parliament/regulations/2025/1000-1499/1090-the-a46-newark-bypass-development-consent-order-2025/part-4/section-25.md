@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Authority to survey and investigate the land[^key-bfd32e4b5b2e02f076ccb08a967b4b9a]
+## 25. Authority to survey and investigate the land[^c-bfd32e4b5b2e02f076ccb08a967b4b9a]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-bfd32e4b5b2e02f076ccb08a967b4b9a]: Commencement: Art. 25 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-bfd32e4b5b2e02f076ccb08a967b4b9a]: Commencement: Art. 25 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

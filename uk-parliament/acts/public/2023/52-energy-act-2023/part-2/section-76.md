@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Allocation of contracts[^key-de2e62f319b13c7f46599e9110d75231]
+## 76. Allocation of contracts[^c-de2e62f319b13c7f46599e9110d75231]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de2e62f319b13c7f46599e9110d75231]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/52/section/76) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-de2e62f319b13c7f46599e9110d75231]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/52/section/76) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — Repeals[^key-80be4aec275f3bab710f46789df5922b][^key-ff88499268607e5636b973d64a0dfef4][^key-262df7a05b48f56c738a57bfdce92bc8][^key-9b2d79d0d63878f49500a2bbe581705b][^key-80ca9e66ab5a8dbb3382599de33fe20c][^key-f4d735cf746ee1e3a14c5b071621c0e3][^key-4fbeb076282119a8598bc7f5fe5f7bce][^key-4b17f420a1dababd77c54832e1fcfe7b]
+## SCHEDULE 9 — Repeals[^c-80be4aec275f3bab710f46789df5922b][^c-ff88499268607e5636b973d64a0dfef4][^c-262df7a05b48f56c738a57bfdce92bc8][^c-9b2d79d0d63878f49500a2bbe581705b][^c-80ca9e66ab5a8dbb3382599de33fe20c][^c-f4d735cf746ee1e3a14c5b071621c0e3][^c-4fbeb076282119a8598bc7f5fe5f7bce][^c-4b17f420a1dababd77c54832e1fcfe7b]
 
 *Extent: E+W*
 
@@ -51,18 +51,18 @@ Section 120
 
 ## Annotations
 
-[^key-80be4aec275f3bab710f46789df5922b]: Commencement: Sch. 9 in force at 28.9.2004 for specified purposes for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/k), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
+[^c-80be4aec275f3bab710f46789df5922b]: Commencement: Sch. 9 in force at 28.9.2004 for specified purposes for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/k), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
 
-[^key-ff88499268607e5636b973d64a0dfef4]: Commencement: Sch. 9 in force at 28.9.2004 for specified purposes by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/f), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/2)
+[^c-ff88499268607e5636b973d64a0dfef4]: Commencement: Sch. 9 in force at 28.9.2004 for specified purposes by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/f), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/2)
 
-[^key-262df7a05b48f56c738a57bfdce92bc8]: Commencement: Sch. 9 in force at 31.10.2004 for specified purposes by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/e)
+[^c-262df7a05b48f56c738a57bfdce92bc8]: Commencement: Sch. 9 in force at 31.10.2004 for specified purposes by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/e)
 
-[^key-9b2d79d0d63878f49500a2bbe581705b]: Commencement: Sch. 9 in force at 15.10.2005 for specified purposes for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2847/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2847/schedule/2))
+[^c-9b2d79d0d63878f49500a2bbe581705b]: Commencement: Sch. 9 in force at 15.10.2005 for specified purposes for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2847/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2847/schedule/2))
 
-[^key-80ca9e66ab5a8dbb3382599de33fe20c]: Commencement: Sch. 9 in force at 7.6.2006 for specified purposes for E.W. by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/f)
+[^c-80ca9e66ab5a8dbb3382599de33fe20c]: Commencement: Sch. 9 in force at 7.6.2006 for specified purposes for E.W. by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/f)
 
-[^key-f4d735cf746ee1e3a14c5b071621c0e3]: Commencement: Sch. 9 in force at 12.6.2006 for specified purposes for S. by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)](https://www.legislation.gov.uk/ssi/2006/268/article/3/e)
+[^c-f4d735cf746ee1e3a14c5b071621c0e3]: Commencement: Sch. 9 in force at 12.6.2006 for specified purposes for S. by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)](https://www.legislation.gov.uk/ssi/2006/268/article/3/e)
 
-[^key-4fbeb076282119a8598bc7f5fe5f7bce]: Commencement: Sch. 9 in force at 10.8.2006 for specified purposes for E. by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 3(b)](https://www.legislation.gov.uk/uksi/2006/1061/article/3/b)
+[^c-4fbeb076282119a8598bc7f5fe5f7bce]: Commencement: Sch. 9 in force at 10.8.2006 for specified purposes for E. by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 3(b)](https://www.legislation.gov.uk/uksi/2006/1061/article/3/b)
 
-[^key-4b17f420a1dababd77c54832e1fcfe7b]: Commencement: Sch. 9 in force at 30.6.2007 for specified purposes for W. by [S.I. 2007/1369](https://www.legislation.gov.uk/uksi/2007/1369), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1369/article/2/b)
+[^c-4b17f420a1dababd77c54832e1fcfe7b]: Commencement: Sch. 9 in force at 30.6.2007 for specified purposes for W. by [S.I. 2007/1369](https://www.legislation.gov.uk/uksi/2007/1369), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1369/article/2/b)

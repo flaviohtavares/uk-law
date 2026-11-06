@@ -24,7 +24,7 @@ Regulations 4(2)(*a*)(i) and (ii), (11)and (12)(*b*)(iv), 7(1)(*e*) and 14(1)
 
 ### Part I — General Requirements
 
-**1.**[^key-a928b8c750c6340704c5ccec5f434ca9] All low throughput slaughterhouses and low throughput cutting premises shall have—
+**1.**[^c-a928b8c750c6340704c5ccec5f434ca9] All low throughput slaughterhouses and low throughput cutting premises shall have—
 
 - (a) a clearly defined boundary;
 - (b) at places readily accessible to the work stations and sanitary conveniences, suitable facilities, that is to say—
@@ -52,9 +52,9 @@ Regulations 4(2)(*a*)(i) and (ii), (11)and (12)(*b*)(iv), 7(1)(*e*) and 14(1)
 - (n) access to suitable, sufficient and adequately equipped facilities where persons working in the premises may change their clothes, not being any part of the premises which at any time contain fresh meat; and
 - (o) OVS facilities.
 
-**2.**[^key-ef2394fa8b8fe2dc8edb5fce4e678e5a] The equipment and rooms referred to in paragraph 1(*h*) and (*i*) are not required where fresh meat is removed from any low throughput slaughterhouse within 24 hours of slaughter for delivery to cutting premises or butchers' shops and can be taken there within two hours.
+**2.**[^c-ef2394fa8b8fe2dc8edb5fce4e678e5a] The equipment and rooms referred to in paragraph 1(*h*) and (*i*) are not required where fresh meat is removed from any low throughput slaughterhouse within 24 hours of slaughter for delivery to cutting premises or butchers' shops and can be taken there within two hours.
 
-**3.**[^key-d769c24b1c4e6ccb6067774facd8be96] Every room in any low throughput slaughterhouse or cutting premises in which any fresh meat is produced, worked on, handled or stored shall have—
+**3.**[^c-d769c24b1c4e6ccb6067774facd8be96] Every room in any low throughput slaughterhouse or cutting premises in which any fresh meat is produced, worked on, handled or stored shall have—
 
 - (a) floors and floor surfaces of impermeable, rot proof, non-slip and durable material, which shall be so constructed and kept in such good order, repair and condition as to enable them to be thoroughly cleaned and disinfected; (such floors shall be laid in such a way as to facilitate the drainage of water);
 - (b) interior wall surfaces faced with a smooth, durable, impermeable and washable material (which shall be of a light colour) to the following heights—
@@ -71,7 +71,7 @@ Regulations 4(2)(*a*)(i) and (ii), (11)and (12)(*b*)(iv), 7(1)(*e*) and 14(1)
 
 ### Part II — Additional Requirements
 
-**1.**[^key-54bcd9a0323c8b11f443b2973c539cd2] In addition to the general requirements contained in Part I of this Schedule each low throughput slaughterhouse shall have—
+**1.**[^c-54bcd9a0323c8b11f443b2973c539cd2] In addition to the general requirements contained in Part I of this Schedule each low throughput slaughterhouse shall have—
 
 - (a) a suitable and sufficient lairage which—
   - (i) shall be adequately lit so as to enable the inspection of animals; and shall be so constructed that its walls and floors are of impermeable, durable and, in the case of floors, non-slip material and shall be so constructed and kept in such good order, repair and condition as to enable them to be thoroughly cleaned and disinfected; and
@@ -97,10 +97,10 @@ Regulations 4(2)(*a*)(i) and (ii), (11)and (12)(*b*)(iv), 7(1)(*e*) and 14(1)
 
 ## Annotations
 
-[^key-a928b8c750c6340704c5ccec5f434ca9]: Commencement: Sch. 5 Pt. I para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-a928b8c750c6340704c5ccec5f434ca9]: Commencement: Sch. 5 Pt. I para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-ef2394fa8b8fe2dc8edb5fce4e678e5a]: Commencement: Sch. 5 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-ef2394fa8b8fe2dc8edb5fce4e678e5a]: Commencement: Sch. 5 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-d769c24b1c4e6ccb6067774facd8be96]: Commencement: Sch. 5 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-d769c24b1c4e6ccb6067774facd8be96]: Commencement: Sch. 5 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-54bcd9a0323c8b11f443b2973c539cd2]: Commencement: Sch. 5 Pt. II para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-54bcd9a0323c8b11f443b2973c539cd2]: Commencement: Sch. 5 Pt. II para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

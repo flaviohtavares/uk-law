@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Offences by bodies corporate etc.[^key-e9d864a18b6a8fe29ef4728334f499ac]
+## 45. Offences by bodies corporate etc.[^c-e9d864a18b6a8fe29ef4728334f499ac]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ that person (as well as the body corporate) commits the offence.
 
 ## Annotations
 
-[^key-e9d864a18b6a8fe29ef4728334f499ac]: Commencement: S. 45 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-e9d864a18b6a8fe29ef4728334f499ac]: Commencement: S. 45 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

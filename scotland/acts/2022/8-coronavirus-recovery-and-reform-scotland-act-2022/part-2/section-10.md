@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Regulations on student accommodation[^key-59833ba2bfb075e92215fffdb2e7ec88]
+## 10. Regulations on student accommodation[^c-59833ba2bfb075e92215fffdb2e7ec88]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59833ba2bfb075e92215fffdb2e7ec88]: Commencement: S. 10 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-59833ba2bfb075e92215fffdb2e7ec88]: Commencement: S. 10 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

@@ -33,45 +33,45 @@ Section 122(4).
 
 (3) This paragraph has effect in relation to instruments executed on or after 6th February 2000.
 
-### Part II — Stamp duty reserve tax on dealings with units in unit trusts[^key-c2b44d31e44b94ce358eb3618a960150]
+### Part II — Stamp duty reserve tax on dealings with units in unit trusts[^c-c2b44d31e44b94ce358eb3618a960150]
 
 **No longer in force.**
 
-#### Charge to tax[^key-c2b44d31e44b94ce358eb3618a960150]
+#### Charge to tax[^c-c2b44d31e44b94ce358eb3618a960150]
 
-**2.**[^key-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Rate of tax[^key-c2b44d31e44b94ce358eb3618a960150]
+#### Rate of tax[^c-c2b44d31e44b94ce358eb3618a960150]
 
-**3.**[^key-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Proportionate reduction of tax by reference to units issued[^key-c2b44d31e44b94ce358eb3618a960150]
+#### Proportionate reduction of tax by reference to units issued[^c-c2b44d31e44b94ce358eb3618a960150]
 
-**4.**[^key-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Proportionate reduction of tax by reference to assets held[^key-c2b44d31e44b94ce358eb3618a960150]
+#### Proportionate reduction of tax by reference to assets held[^c-c2b44d31e44b94ce358eb3618a960150]
 
-**5.**[^key-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Exclusion of charge in certain cases of change of ownership[^key-c2b44d31e44b94ce358eb3618a960150]
+#### Exclusion of charge in certain cases of change of ownership[^c-c2b44d31e44b94ce358eb3618a960150]
 
-**6.**[^key-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 6A. Exclusion of charge in case of individual pension accounts[^key-c2b44d31e44b94ce358eb3618a960150]
+##### 6A. Exclusion of charge in case of individual pension accounts[^c-c2b44d31e44b94ce358eb3618a960150]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Exclusion of charge in case of in specie redemption[^key-c2b44d31e44b94ce358eb3618a960150]
+#### Exclusion of charge in case of in specie redemption[^c-c2b44d31e44b94ce358eb3618a960150]
 
-**7.**[^key-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Interpretation[^key-c2b44d31e44b94ce358eb3618a960150]
+#### Interpretation[^c-c2b44d31e44b94ce358eb3618a960150]
 
-**8.**[^key-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Transitional provision[^key-c2b44d31e44b94ce358eb3618a960150]
+#### Transitional provision[^c-c2b44d31e44b94ce358eb3618a960150]
 
-**9.**[^key-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c2b44d31e44b94ce358eb3618a960150] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Minor and consequential amendments
 
@@ -181,7 +181,7 @@ Section 122(4).
 
 - (a) a common investment scheme under section 22 of the [^c1126557]Charities Act 1960, section 25 of the [^c1126558]Charities Act (Northern Ireland) 1964 , section 24 of the Charities Act 1993 or section 96 of the Charities Act 2011,[^M_F_6dea98e5-bc9d-47e5-b54b-6622b3100597]
 - (b) a common deposit scheme under section 22A of the Charities Act 1960 , section 25 of the Charities Act 1993 or section 100 of the Charities Act 2011[^M_F_2d226dfd-4b49-4cd2-a2e1-6f7a67246281], or
-- (c) a unit trust scheme the units in which are under the terms of the trust instrument required to be held only by charitable companies or trustees of charitable trusts[^key-2b55720f8a9336fc8f70fc96e9eaeac5].
+- (c) a unit trust scheme the units in which are under the terms of the trust instrument required to be held only by charitable companies or trustees of charitable trusts[^c-2b55720f8a9336fc8f70fc96e9eaeac5].
 
 **16.** References in the enactments relating to stamp duty and the enactments relating to stamp duty reserve tax to a unit trust scheme do not include common investment arrangements made by trustees of exempt approved schemes (within the meaning of section 592(1) of the Taxes Act 1988) solely for the purposes of the schemes.
 
@@ -221,7 +221,7 @@ and a “**part of an umbrella scheme**” means such of the arrangements as rel
 
 ## Annotations
 
-[^key-c2b44d31e44b94ce358eb3618a960150]: Textual amendment: Sch. 19 Pt. 2 omitted (with effect in accordance with s. 114(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 114(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/114/1)
+[^c-c2b44d31e44b94ce358eb3618a960150]: Textual amendment: Sch. 19 Pt. 2 omitted (with effect in accordance with s. 114(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 114(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/114/1)
 
 [^c1126552]: Modification: [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/1999/16/schedule/19/paragraph/14) modified (6.2.2000) by [S.I. 1997/1156](https://www.legislation.gov.uk/uksi/1997/1156), [reg. 4A(3)](https://www.legislation.gov.uk/uksi/1997/1156/regulation/4A/3) (as inserted (6.2.2000) by [S.I. 1999/3261](https://www.legislation.gov.uk/uksi/1999/3261),reg. 5)
 
@@ -235,7 +235,7 @@ and a “**part of an umbrella scheme**” means such of the arrangements as rel
 
 [^M_F_2d226dfd-4b49-4cd2-a2e1-6f7a67246281]: Textual amendment: Words in Sch. 19 para. 15(b) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 81(b)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/81/b) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-2b55720f8a9336fc8f70fc96e9eaeac5]: Textual amendment: Words in Sch. 19 para. 15(c) substituted (1.4.2012) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 15(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/15/3), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 11](https://www.legislation.gov.uk/uksi/2012/736/article/11)
+[^c-2b55720f8a9336fc8f70fc96e9eaeac5]: Textual amendment: Words in Sch. 19 para. 15(c) substituted (1.4.2012) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 15(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/15/3), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 11](https://www.legislation.gov.uk/uksi/2012/736/article/11)
 
 [^c1126565]: Modification: [Sch. 19 para. 17](https://www.legislation.gov.uk/ukpga/1999/16/schedule/19/paragraph/17) modified (6.2.2000) by [S.I. 1997/1156](https://www.legislation.gov.uk/uksi/1997/1156), [reg. 4A(4)](https://www.legislation.gov.uk/uksi/1997/1156/regulation/4A/4) (as inserted (6.2.2000) by [S.I. 1999/3261](https://www.legislation.gov.uk/uksi/1999/3261),reg. 5)
 

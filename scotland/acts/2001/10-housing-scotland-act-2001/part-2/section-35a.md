@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35A. Extension of term of short Scottish secure tenancy[^key-c727a6951d9882689ac41b07eb9d16bf]
+## 35A. Extension of term of short Scottish secure tenancy[^c-c727a6951d9882689ac41b07eb9d16bf]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c727a6951d9882689ac41b07eb9d16bf]: Textual amendment: [S. 35A](https://www.legislation.gov.uk/asp/2001/10/section/35A) inserted (1.5.2019) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 10(1)](https://www.legislation.gov.uk/asp/2014/14/section/10/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2018/153/article/3), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-c727a6951d9882689ac41b07eb9d16bf]: Textual amendment: [S. 35A](https://www.legislation.gov.uk/asp/2001/10/section/35A) inserted (1.5.2019) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 10(1)](https://www.legislation.gov.uk/asp/2014/14/section/10/1), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2018/153/article/3), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

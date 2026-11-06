@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40D. Special provisions for reporting, payment and collection of Class 1A contributions relating to sporting testimonials[^key-4ea813150c3bcc61d54702bbb6faaa36]
+## 40D. Special provisions for reporting, payment and collection of Class 1A contributions relating to sporting testimonials[^c-4ea813150c3bcc61d54702bbb6faaa36]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ea813150c3bcc61d54702bbb6faaa36]: Textual amendment: [Reg. 40C](https://www.legislation.gov.uk/uksi/2001/1004/regulation/40C) - [Reg. 40D](https://www.legislation.gov.uk/uksi/2001/1004/regulation/40D) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2020 (S.I. 2020/300)](https://www.legislation.gov.uk/uksi/2020/300), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/300/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/300/regulation/7)
+[^c-4ea813150c3bcc61d54702bbb6faaa36]: Textual amendment: [Reg. 40C](https://www.legislation.gov.uk/uksi/2001/1004/regulation/40C) - [Reg. 40D](https://www.legislation.gov.uk/uksi/2001/1004/regulation/40D) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2020 (S.I. 2020/300)](https://www.legislation.gov.uk/uksi/2020/300), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/300/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/300/regulation/7)

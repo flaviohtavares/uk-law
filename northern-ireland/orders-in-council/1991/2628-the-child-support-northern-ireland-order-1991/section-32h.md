@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32H. Orders under Article 32F: deductions and payments[^key-ef0b1567322ef55493deea201619f5d4]
+## 32H. Orders under Article 32F: deductions and payments[^c-ef0b1567322ef55493deea201619f5d4]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) If an amount of arrears specified in the order remains unpaid after any payment required by paragraph (1) has been made, the order shall operate until the relevant time as an instruction to the deposit-taker—
 
 - (a) to pay to the Department any amount (not exceeding the remaining amount) standing to the credit of the account specified in the order; and
-- (b)[^key-b35c582f40ab3a9fd75b3649638ce6be] not to do anything else that would reduce the amount standing to the credit of the account.
+- (b)[^c-b35c582f40ab3a9fd75b3649638ce6be] not to do anything else that would reduce the amount standing to the credit of the account.
 
 (3) Once the relevant period has ended, any other order under Article 32F shall operate as an instruction to the third party at which it is directed—
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef0b1567322ef55493deea201619f5d4]: Textual amendment: [Arts. 32E-32K](https://www.legislation.gov.uk/nisi/1991/2628/article/32E) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 15](https://www.legislation.gov.uk/nia/2008/10/section/15), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(3)](https://www.legislation.gov.uk/nia/2008/10/section/40/3)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/216/article/2/1/b)
+[^c-ef0b1567322ef55493deea201619f5d4]: Textual amendment: [Arts. 32E-32K](https://www.legislation.gov.uk/nisi/1991/2628/article/32E) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 15](https://www.legislation.gov.uk/nia/2008/10/section/15), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(3)](https://www.legislation.gov.uk/nia/2008/10/section/40/3)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/216/article/2/1/b)
 
-[^key-b35c582f40ab3a9fd75b3649638ce6be]: Modification: [Art. 32H(2)(b)](https://www.legislation.gov.uk/nisi/1991/2628/article/32H/2/b) restricted (3.8.2009) by The Child Support (Collection and Enforcement) Regulations ([S.R. 1992/390](https://www.legislation.gov.uk/nisr/1992/390)), reg. 25N (as inserted by [S.R. 2009/286](https://www.legislation.gov.uk/nisr/2009/286), [regs. 1](https://www.legislation.gov.uk/nisr/2009/286/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/286/regulation/2))
+[^c-b35c582f40ab3a9fd75b3649638ce6be]: Modification: [Art. 32H(2)(b)](https://www.legislation.gov.uk/nisi/1991/2628/article/32H/2/b) restricted (3.8.2009) by The Child Support (Collection and Enforcement) Regulations ([S.R. 1992/390](https://www.legislation.gov.uk/nisr/1992/390)), reg. 25N (as inserted by [S.R. 2009/286](https://www.legislation.gov.uk/nisr/2009/286), [regs. 1](https://www.legislation.gov.uk/nisr/2009/286/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/286/regulation/2))

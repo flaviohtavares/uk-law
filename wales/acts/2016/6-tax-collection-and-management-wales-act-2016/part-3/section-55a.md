@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55A. Assessment in relation to tax credit[^key-96200d3ed94551d4d841efb506649596]
+## 55A. Assessment in relation to tax credit[^c-96200d3ed94551d4d841efb506649596]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ WRA may make an assessment of the amount that ought in its opinion to be paid to
 
 ## Annotations
 
-[^key-96200d3ed94551d4d841efb506649596]: Textual amendment: [S. 55A](https://www.legislation.gov.uk/anaw/2016/6/section/55A) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/12)
+[^c-96200d3ed94551d4d841efb506649596]: Textual amendment: [S. 55A](https://www.legislation.gov.uk/anaw/2016/6/section/55A) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/12)

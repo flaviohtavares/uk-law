@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Defences[^key-ec60d00b4026c60796b91c6850d4bf33]
+## 13. Defences[^c-ec60d00b4026c60796b91c6850d4bf33]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec60d00b4026c60796b91c6850d4bf33]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/6/section/13) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-ec60d00b4026c60796b91c6850d4bf33]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/6/section/13) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The Employment Rights (Increase of Limits) Order 2018 (revoked)[^key-009a6e55727a03ce30b325b37c04ae7f]
+The Employment Rights (Increase of Limits) Order 2018 (revoked)[^c-009a6e55727a03ce30b325b37c04ae7f]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 6th April 2018
 
-[^key-009a6e55727a03ce30b325b37c04ae7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-009a6e55727a03ce30b325b37c04ae7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-009a6e55727a03ce30b325b37c04ae7f]
+## 1. Citation, commencement and interpretation[^c-009a6e55727a03ce30b325b37c04ae7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-009a6e55727a03ce30b325b37c04ae7f]
+## 2. Revocation[^c-009a6e55727a03ce30b325b37c04ae7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-009a6e55727a03ce30b325b37c04ae7f]
+## 3. Increase of limits[^c-009a6e55727a03ce30b325b37c04ae7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-009a6e55727a03ce30b325b37c04ae7f]
+## 4. Transitional provisions[^c-009a6e55727a03ce30b325b37c04ae7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-009a6e55727a03ce30b325b37c04ae7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-009a6e55727a03ce30b325b37c04ae7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-009a6e55727a03ce30b325b37c04ae7f]
+## SCHEDULE[^c-009a6e55727a03ce30b325b37c04ae7f]
 
 Article 3
 
@@ -78,8 +78,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-009a6e55727a03ce30b325b37c04ae7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-009a6e55727a03ce30b325b37c04ae7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-009a6e55727a03ce30b325b37c04ae7f]: Textual amendment: Order revoked (6.4.2019) by [The Employment Rights (Increase of Limits) Order 2019 (S.I. 2019/324)](https://www.legislation.gov.uk/uksi/2019/324), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/324/article/1/1), [2](https://www.legislation.gov.uk/uksi/2019/324/article/2)
+[^c-009a6e55727a03ce30b325b37c04ae7f]: Textual amendment: Order revoked (6.4.2019) by [The Employment Rights (Increase of Limits) Order 2019 (S.I. 2019/324)](https://www.legislation.gov.uk/uksi/2019/324), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/324/article/1/1), [2](https://www.legislation.gov.uk/uksi/2019/324/article/2)

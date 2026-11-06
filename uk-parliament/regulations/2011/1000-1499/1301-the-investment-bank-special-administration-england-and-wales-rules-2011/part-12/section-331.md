@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 331. Insolvent estate[^key-40607482469656b2df0222d0dd6088bd]
+## 331. Insolvent estate[^c-40607482469656b2df0222d0dd6088bd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ References to “the insolvent estate” are, in relation to a special administ
 
 ## Annotations
 
-[^key-40607482469656b2df0222d0dd6088bd]: Commencement: [Rule 331](https://www.legislation.gov.uk/uksi/2011/1301/rule/331) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-40607482469656b2df0222d0dd6088bd]: Commencement: [Rule 331](https://www.legislation.gov.uk/uksi/2011/1301/rule/331) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

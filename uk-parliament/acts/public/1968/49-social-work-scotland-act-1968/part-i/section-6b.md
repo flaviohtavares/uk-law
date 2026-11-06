@@ -22,7 +22,7 @@ summary: ''
 
 (1) Without prejudice to section 6A(1) of this Act, a local authority may cause an inquiry to be held into their functions under this Act, or any of the enactments mentioned in section 5(1B) of this Act, in so far as those functions relate to children.
 
-(1A)[^key-7acea2170ad7f0fb69b9330634d3320d] Where a function mentioned in subsection (1) is delegated by a local authority to a person in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, this section applies to that person as it applies to a local authority (but subject to the modification in subsection 1B).
+(1A)[^c-7acea2170ad7f0fb69b9330634d3320d] Where a function mentioned in subsection (1) is delegated by a local authority to a person in pursuance of an integration scheme prepared under section 1 or 2 of the Public Bodies (Joint Working) (Scotland) Act 2014, this section applies to that person as it applies to a local authority (but subject to the modification in subsection 1B).
 
 (1B) The modification is that the reference in subsection (3) to an officer of the local authority must be construed as if it were a reference to a member of staff of the person to whom the function is delegated.
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c9963451]: Textual amendment: S. 6B inserted (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 100](https://www.legislation.gov.uk/ukpga/1995/36/section/100) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7) (which said art. 3(7) was substituted (7.3.1997) by [S.I. 1997/744](https://www.legislation.gov.uk/uksi/1997/744), [art. 2](https://www.legislation.gov.uk/uksi/1997/744/article/2) (with transitional provisions inserted into [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201) by [art. 3](https://www.legislation.gov.uk/uksi/1996/3201/article/3)))
 
-[^key-7acea2170ad7f0fb69b9330634d3320d]: Textual amendment: S. 6B(1A)(1B) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [sch. para. 1(2)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/1/2)
+[^c-7acea2170ad7f0fb69b9330634d3320d]: Textual amendment: S. 6B(1A)(1B) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [sch. para. 1(2)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/1/2)
 
 [^c9963461]: Marginal citation: [1973 c.45](https://www.legislation.gov.uk/ukpga/1973/45).

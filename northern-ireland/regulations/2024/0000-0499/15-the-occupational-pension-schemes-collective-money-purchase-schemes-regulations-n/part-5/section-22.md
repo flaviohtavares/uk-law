@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Supervisory return: contents[^key-03174bbf43ac8bf600b27bda725d468e]
+## 22. Supervisory return: contents[^c-03174bbf43ac8bf600b27bda725d468e]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ For the purposes of section 78(2) of the 2021 Act (requirement to submit supervi
 
 ## Annotations
 
-[^key-03174bbf43ac8bf600b27bda725d468e]: Commencement: Reg. 22 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-03174bbf43ac8bf600b27bda725d468e]: Commencement: Reg. 22 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00020]: Footnote: Article 225 was amended by paragraph 252(9) of Schedule 1 to [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941)

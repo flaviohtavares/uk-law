@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Recovery of costs incurred by virtue of section 8[^key-4aa81cfe23e3e2155dfdcf396022d895]
+## 10. Recovery of costs incurred by virtue of section 8[^c-4aa81cfe23e3e2155dfdcf396022d895]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ the owner shall be entitled to recover from any other owner any share of the cos
 
 ## Annotations
 
-[^key-4aa81cfe23e3e2155dfdcf396022d895]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2004/11/section/10) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-4aa81cfe23e3e2155dfdcf396022d895]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2004/11/section/10) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)

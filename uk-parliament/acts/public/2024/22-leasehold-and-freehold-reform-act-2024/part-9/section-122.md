@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Regulations[^key-e4a724daadd52844a0c0124b41c48b46]
+## 122. Regulations[^c-e4a724daadd52844a0c0124b41c48b46]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4a724daadd52844a0c0124b41c48b46]: Commencement: S. 122 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)
+[^c-e4a724daadd52844a0c0124b41c48b46]: Commencement: S. 122 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)

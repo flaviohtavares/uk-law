@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**182.**[^key-3bfc9bc16c7b74ca94c9999ee7650a8b] Omit section 54 (funding by resident of more expensive accommodation).
+**182.**[^c-3bfc9bc16c7b74ca94c9999ee7650a8b] Omit section 54 (funding by resident of more expensive accommodation).
 
 ## Annotations
 
-[^key-3bfc9bc16c7b74ca94c9999ee7650a8b]: Commencement: Reg. 182 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-3bfc9bc16c7b74ca94c9999ee7650a8b]: Commencement: Reg. 182 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

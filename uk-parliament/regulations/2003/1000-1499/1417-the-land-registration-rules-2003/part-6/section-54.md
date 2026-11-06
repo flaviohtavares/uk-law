@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Outline applications[^key-2074fa3b4133283315375dd73ff77e29]
+## 54. Outline applications[^c-2074fa3b4133283315375dd73ff77e29]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2074fa3b4133283315375dd73ff77e29]: Textual amendment: [Rule 54](https://www.legislation.gov.uk/uksi/2003/1417/rule/54) omitted (6.4.2018) by virtue of [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/10)
+[^c-2074fa3b4133283315375dd73ff77e29]: Textual amendment: [Rule 54](https://www.legislation.gov.uk/uksi/2003/1417/rule/54) omitted (6.4.2018) by virtue of [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/10)

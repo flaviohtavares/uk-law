@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Limit on fines imposed by magistrates' courts in respect of young offenders[^key-42b037f6f70fa029bc4bcd09535f7b83]
+## 123. Limit on fines imposed by magistrates' courts in respect of young offenders[^c-42b037f6f70fa029bc4bcd09535f7b83]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42b037f6f70fa029bc4bcd09535f7b83]: Commencement: S. 123 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-42b037f6f70fa029bc4bcd09535f7b83]: Commencement: S. 123 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

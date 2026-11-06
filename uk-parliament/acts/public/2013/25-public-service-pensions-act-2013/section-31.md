@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Restriction of certain existing public body pension schemes[^key-23c803fb2a5a12737ae77dabebb46c37]
+## 31. Restriction of certain existing public body pension schemes[^c-23c803fb2a5a12737ae77dabebb46c37]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) in relation to a public body pension scheme which is a defined contributions scheme, or
 - (b) to injury or compensation benefits.
 
-(4) The public authority responsible for a scheme to which subsection (2) applies may provide for exceptions to the provision made under subsection (2) [^key-2b5e9f5d0c9d7b91dac6d5875f9ae3e3]... .
+(4) The public authority responsible for a scheme to which subsection (2) applies may provide for exceptions to the provision made under subsection (2) [^c-2b5e9f5d0c9d7b91dac6d5875f9ae3e3]... .
 
 (5) Provision made under subsection (2) or (4) may in particular be made by amending the public body pension scheme.
 
@@ -58,6 +58,6 @@ but may not add a devolved body or office.
 
 ## Annotations
 
-[^key-23c803fb2a5a12737ae77dabebb46c37]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/25/section/31) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/4/article/5/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/5/2/b)
+[^c-23c803fb2a5a12737ae77dabebb46c37]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/25/section/31) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/4/article/5/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/5/2/b)
 
-[^key-2b5e9f5d0c9d7b91dac6d5875f9ae3e3]: Textual amendment: Words in [s. 31(4)](https://www.legislation.gov.uk/ukpga/2013/25/section/31/4) omitted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 88(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/88/3), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f) (with [s. 96(6)](https://www.legislation.gov.uk/ukpga/2022/7/section/96/6)[(7)](https://www.legislation.gov.uk/ukpga/2022/7/section/96/7))
+[^c-2b5e9f5d0c9d7b91dac6d5875f9ae3e3]: Textual amendment: Words in [s. 31(4)](https://www.legislation.gov.uk/ukpga/2013/25/section/31/4) omitted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 88(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/88/3), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f) (with [s. 96(6)](https://www.legislation.gov.uk/ukpga/2022/7/section/96/6)[(7)](https://www.legislation.gov.uk/ukpga/2022/7/section/96/7))

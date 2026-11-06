@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 8. Confirmation of scheme by Order in Council and publication of scheme[^key-75a2b5aedac534aa657bde002c9c2573]
+## 8. Confirmation of scheme by Order in Council and publication of scheme[^c-75a2b5aedac534aa657bde002c9c2573]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75a2b5aedac534aa657bde002c9c2573]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2007/1/section/8) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-75a2b5aedac534aa657bde002c9c2573]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2007/1/section/8) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

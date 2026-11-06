@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5D. Repairing tenancies: exemption from rules of good husbandry during repairing period[^key-cf4e98bbb51caea5611b93901052bcbc]
+## 5D. Repairing tenancies: exemption from rules of good husbandry during repairing period[^c-cf4e98bbb51caea5611b93901052bcbc]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf4e98bbb51caea5611b93901052bcbc]: Textual amendment: Ss. 5C, 5D inserted (23.12.2016 for specified purposes) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 92(2)](https://www.legislation.gov.uk/asp/2016/18/section/92/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)
+[^c-cf4e98bbb51caea5611b93901052bcbc]: Textual amendment: Ss. 5C, 5D inserted (23.12.2016 for specified purposes) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 92(2)](https://www.legislation.gov.uk/asp/2016/18/section/92/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule)

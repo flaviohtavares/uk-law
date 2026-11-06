@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Directions[^key-63ac0ac10619b55b1e789296fdc74532]
+## 88. Directions[^c-63ac0ac10619b55b1e789296fdc74532]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63ac0ac10619b55b1e789296fdc74532]: Commencement: S. 88 in force at Royal Assent, see [s. 91(1)(c)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/c)
+[^c-63ac0ac10619b55b1e789296fdc74532]: Commencement: S. 88 in force at Royal Assent, see [s. 91(1)(c)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/c)

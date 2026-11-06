@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-82ce7476d46bfb03fe9e194879aa96a3] This regulation applies to—
+(A1)[^c-82ce7476d46bfb03fe9e194879aa96a3] This regulation applies to—
 
 - (a) non-Real Time Information employers, and
 - (b) Real Time Information employers to whom HMRC has given a notice requiring the employer to send to HMRC Form P45 or Form P46 on the commencement of a new employee’s employment.
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82ce7476d46bfb03fe9e194879aa96a3]: Textual amendment: [Reg. 38(A1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/38/A1) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2012/822/regulation/7)
+[^c-82ce7476d46bfb03fe9e194879aa96a3]: Textual amendment: [Reg. 38(A1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/38/A1) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2012/822/regulation/7)

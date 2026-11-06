@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Quality of service review[^key-4f2eb3d4d9a25d89d95cb98c1f042ad5]
+## 50. Quality of service review[^c-4f2eb3d4d9a25d89d95cb98c1f042ad5]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f2eb3d4d9a25d89d95cb98c1f042ad5]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2019/165/regulation/50) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-4f2eb3d4d9a25d89d95cb98c1f042ad5]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2019/165/regulation/50) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

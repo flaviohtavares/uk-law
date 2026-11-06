@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Taxation in respect of other business: incorporated friendly societies qualifying for exemption[^key-b816da1eda0c6e40fb939fb867228e55]
+## 34. Taxation in respect of other business: incorporated friendly societies qualifying for exemption[^c-b816da1eda0c6e40fb939fb867228e55]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b816da1eda0c6e40fb939fb867228e55]: Commencement: Art. 34 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-b816da1eda0c6e40fb939fb867228e55]: Commencement: Art. 34 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00039]: Footnote: Sections 461A was inserted, together with sections 461B and 461C, by paragraph 7 of Schedule 22 to the Finance (No. 2) Act 1992.

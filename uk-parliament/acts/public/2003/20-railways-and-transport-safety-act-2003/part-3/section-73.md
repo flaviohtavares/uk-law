@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Consequential, transitional and incidental provision[^key-4d503066aff3e9dd7387d06aca77c22f]
+## 73. Consequential, transitional and incidental provision[^c-4d503066aff3e9dd7387d06aca77c22f]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ summary: ''
 
 (3) Transitional provision under subsection (2) may, in particular, make provision in connection with the abolition of the police force comprising constables appointed under section 53 of the British Transport Commission Act 1949 (c. xxix) (“the old transport police”); and that provision may include, in particular, provision—
 
-- (a)[^key-54c283214dbbd2de8cceb362b623d6fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) for the transfer to the Authority of property held [^key-aaf63c26697601e6f000163edb2aa9a3]... for the purpose of or in connection with the old transport police;
+- (a)[^c-54c283214dbbd2de8cceb362b623d6fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) for the transfer to the Authority of property held [^c-aaf63c26697601e6f000163edb2aa9a3]... for the purpose of or in connection with the old transport police;
 - (c) for the transfer to the Authority of rights and liabilities arising in connection with the old transport police;
 - (d) for employment to be treated as continuous in the case of staff transferred;
 - (e) for or in relation to the continuity (with or without modifications) of a scheme in respect of pensions, which may include a scheme having effect under an instrument;
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4d503066aff3e9dd7387d06aca77c22f]: Commencement: S. 73 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ddd)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ddd)
+[^c-4d503066aff3e9dd7387d06aca77c22f]: Commencement: S. 73 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ddd)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ddd)
 
-[^key-54c283214dbbd2de8cceb362b623d6fe]: Textual amendment: [S. 73(3)(a)](https://www.legislation.gov.uk/ukpga/2003/20/section/73/3/a) repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-54c283214dbbd2de8cceb362b623d6fe]: Textual amendment: [S. 73(3)(a)](https://www.legislation.gov.uk/ukpga/2003/20/section/73/3/a) repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-aaf63c26697601e6f000163edb2aa9a3]: Textual amendment: Words in [s. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2003/20/section/73/3/b) repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-aaf63c26697601e6f000163edb2aa9a3]: Textual amendment: Words in [s. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2003/20/section/73/3/b) repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)

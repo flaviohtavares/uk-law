@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Water Customer Consultation Panels[^key-3022b8e2b0e9d738ebea773f58fc8526]
+## 2. Water Customer Consultation Panels[^c-3022b8e2b0e9d738ebea773f58fc8526]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3022b8e2b0e9d738ebea773f58fc8526]: Textual amendment: S. 2 repealed (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [sch. 2 para. 21](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/21); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)
+[^c-3022b8e2b0e9d738ebea773f58fc8526]: Textual amendment: S. 2 repealed (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [sch. 2 para. 21](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/21); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Periodic support payments for accredited RHI installations ...[^key-86b20fe91a32cfa6b9e02f2177b7ae71]
+## 66. Periodic support payments for accredited RHI installations ...[^c-86b20fe91a32cfa6b9e02f2177b7ae71]
 
 *Extent: E+W+S*
 
-(1) Except where regulation 67, 68 or 70 applies, this regulation applies to an accredited RHI installation [^key-7009d2dcfba1c6e1d442ae4c89eef130]....
+(1) Except where regulation 67, 68 or 70 applies, this regulation applies to an accredited RHI installation [^c-7009d2dcfba1c6e1d442ae4c89eef130]....
 
-(2) Subject to regulations 31(2), 69, 71, 72 , 72A[^key-0efcc25914ee6aa7cf00d60b21d9c78e] and 74, periodic support payments in respect of each quarterly period must be calculated in accordance with one of the following formulae, as applicable—
+(2) Subject to regulations 31(2), 69, 71, 72 , 72A[^c-0efcc25914ee6aa7cf00d60b21d9c78e] and 74, periodic support payments in respect of each quarterly period must be calculated in accordance with one of the following formulae, as applicable—
 
 - (a) [formula: see source](https://www.legislation.gov.uk/uksi/2018/611)
 - (b) where the accredited RHI installation is generating heat from the combustion of biogas,
@@ -44,8 +44,8 @@ where—
 
 ## Annotations
 
-[^key-86b20fe91a32cfa6b9e02f2177b7ae71]: Textual amendment: Words in reg. 66 heading omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [28(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/28/a)
+[^c-86b20fe91a32cfa6b9e02f2177b7ae71]: Textual amendment: Words in reg. 66 heading omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [28(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/28/a)
 
-[^key-7009d2dcfba1c6e1d442ae4c89eef130]: Textual amendment: Words in reg. 66(1) omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [28(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/28/b)
+[^c-7009d2dcfba1c6e1d442ae4c89eef130]: Textual amendment: Words in reg. 66(1) omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [28(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/28/b)
 
-[^key-0efcc25914ee6aa7cf00d60b21d9c78e]: Textual amendment: Word in reg. 66(2) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [28(c)](https://www.legislation.gov.uk/uksi/2021/76/regulation/28/c)
+[^c-0efcc25914ee6aa7cf00d60b21d9c78e]: Textual amendment: Word in reg. 66(2) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [28(c)](https://www.legislation.gov.uk/uksi/2021/76/regulation/28/c)

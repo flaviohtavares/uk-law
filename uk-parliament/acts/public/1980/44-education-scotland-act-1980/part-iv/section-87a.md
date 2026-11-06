@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87A. Appointment of principal teachers.[^key-c5b327e1c21997cc83c0600b306f5929]
+## 87A. Appointment of principal teachers.[^c-c5b327e1c21997cc83c0600b306f5929]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5b327e1c21997cc83c0600b306f5929]: Textual amendment: S. 87A repealed (5.2.2007 for specified purposes, 1.8.2007 in so far as not already in force) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/31/article/2/a)[(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [schs. 1](https://www.legislation.gov.uk/ssi/2007/31/schedule/1), [2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-c5b327e1c21997cc83c0600b306f5929]: Textual amendment: S. 87A repealed (5.2.2007 for specified purposes, 1.8.2007 in so far as not already in force) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/31/article/2/a)[(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [schs. 1](https://www.legislation.gov.uk/ssi/2007/31/schedule/1), [2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)

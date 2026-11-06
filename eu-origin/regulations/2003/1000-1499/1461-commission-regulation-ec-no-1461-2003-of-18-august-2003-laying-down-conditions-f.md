@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1461/2003
 
 of 18 August 2003 laying down conditions for pilot projects for the electronic transmission of information on fishing activities and for remote sensing (revoked)
 
-[^key-c7c9a6a48a9336602abd6ecfdb57de5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7c9a6a48a9336602abd6ecfdb57de5d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c7c9a6a48a9336602abd6ecfdb57de5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c7c9a6a48a9336602abd6ecfdb57de5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7c9a6a48a9336602abd6ecfdb57de5d]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/42)
+[^c-c7c9a6a48a9336602abd6ecfdb57de5d]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/42)

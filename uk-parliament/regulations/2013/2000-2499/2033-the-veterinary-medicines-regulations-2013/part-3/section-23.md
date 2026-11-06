@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-03ad9b1d300024a9099bf821e5f2f6fa] Any person permitted under these Regulations to supply a veterinary medicinal product classified as POM-V or POM-VPS or prescribed under the cascade who receives or supplies any such veterinary medicinal product must keep all documents relating to the transaction which show—
+(1)[^c-03ad9b1d300024a9099bf821e5f2f6fa] Any person permitted under these Regulations to supply a veterinary medicinal product classified as POM-V or POM-VPS or prescribed under the cascade who receives or supplies any such veterinary medicinal product must keep all documents relating to the transaction which show—
 
 - (a) the date of the transaction under which the product was received or supplied;
 - (b) the name of the veterinary medicinal product;
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03ad9b1d300024a9099bf821e5f2f6fa]: Textual amendment: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/23/1)[(1A)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/23/1A) substituted for [reg. 23(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/23/1) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/567/regulation/14)
+[^c-03ad9b1d300024a9099bf821e5f2f6fa]: Textual amendment: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/23/1)[(1A)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/23/1A) substituted for [reg. 23(1)](https://www.legislation.gov.uk/uksi/2013/2033/regulation/23/1) (E.W.S.) (17.5.2024) by [The Veterinary Medicines (Amendment etc.) Regulations 2024 (S.I. 2024/567)](https://www.legislation.gov.uk/uksi/2024/567), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/567/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/567/regulation/14)

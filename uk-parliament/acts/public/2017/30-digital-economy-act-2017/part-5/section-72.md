@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Delegation of functions of the Statistics Board[^key-68e193d2adbefd9a4bdb32e57f38df70][^key-17c4cd02af74c8bea3948d17eebfd528]
+## 72. Delegation of functions of the Statistics Board[^c-68e193d2adbefd9a4bdb32e57f38df70][^c-17c4cd02af74c8bea3948d17eebfd528]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68e193d2adbefd9a4bdb32e57f38df70]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2017/30/section/72) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
+[^c-68e193d2adbefd9a4bdb32e57f38df70]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2017/30/section/72) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
 
-[^key-17c4cd02af74c8bea3948d17eebfd528]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2017/30/section/72) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ii)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ii)
+[^c-17c4cd02af74c8bea3948d17eebfd528]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2017/30/section/72) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ii)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ii)

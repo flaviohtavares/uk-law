@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 131. Exclusion from individual voluntary arrangements[^key-057e47958b7705a86616c3a9cb756580]
+## 131. Exclusion from individual voluntary arrangements[^c-057e47958b7705a86616c3a9cb756580]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In the Insolvency (Northern Ireland) Order 1989, in Article 9 (interpretation), 
 
 ## Annotations
 
-[^key-057e47958b7705a86616c3a9cb756580]: Commencement: [Art. 131](https://www.legislation.gov.uk/nisi/2015/2006/article/131) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)
+[^c-057e47958b7705a86616c3a9cb756580]: Commencement: [Art. 131](https://www.legislation.gov.uk/nisi/2015/2006/article/131) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)

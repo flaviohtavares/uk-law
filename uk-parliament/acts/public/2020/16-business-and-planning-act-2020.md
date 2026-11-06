@@ -71,9 +71,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - (a) be made in writing and in such form as the authority may specify,
 - (b) be sent to the authority using electronic communications in such manner as the authority may specify, and
-- (c) be accompanied by such fee not exceeding the relevant amount[^key-a2cd35c44bddd827533789bfd143d128] as the local authority may require.
+- (c) be accompanied by such fee not exceeding the relevant amount[^c-a2cd35c44bddd827533789bfd143d128] as the local authority may require.
 
-(1A)[^key-3eda2a8ddefa57111ff712e0d77dce60] In subsection (1)(c), “**the relevant amount**” means—
+(1A)[^c-3eda2a8ddefa57111ff712e0d77dce60] In subsection (1)(c), “**the relevant amount**” means—
 
 - (a) £350, in the case of an application which—
   - (i) is made by a person who already holds a pavement licence, and
@@ -91,7 +91,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (e) contain or be accompanied by such evidence of public liability insurance in respect of anything to be done by the licence-holder pursuant to the licence as the authority may require, and
 - (f) contain or be accompanied by such other information or material as the local authority may require.
 
-(2A)[^key-470dbb129cb85f5bd955fd297cf6f9fa] If the application is a renewal application—
+(2A)[^c-470dbb129cb85f5bd955fd297cf6f9fa] If the application is a renewal application—
 
 - (a) subsection (2) does not apply, but
 - (b) the application must contain or be accompanied by such information or material as the local authority may require.
@@ -101,7 +101,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) publish the application and any information or material required by the local authority under subsection (2)(f), and
 - (b) publicise the fact that representations relating to the application may be made to the authority during the public consultation period (and indicate when that period comes to an end).
 
-(4) In this group of sections, the “**public consultation period**” means the period of 14[^key-30dd7620ad79050b081e4218e82ce3c9] days beginning with the day after that on which the application is made.
+(4) In this group of sections, the “**public consultation period**” means the period of 14[^c-30dd7620ad79050b081e4218e82ce3c9] days beginning with the day after that on which the application is made.
 
 (5) A person who applies for a pavement licence must—
 
@@ -124,7 +124,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) Where a person applies for a pavement licence, the person may not make another application for a pavement licence in respect of the same premises before the end of the determination period (see section 3).
 
-(10)[^key-7b4fa8e9a16b683416ad88c5a95bf730] For the purposes of this section, an application is a renewal application if—
+(10)[^c-7b4fa8e9a16b683416ad88c5a95bf730] For the purposes of this section, an application is a renewal application if—
 
 - (a) it is made by a person who already holds a pavement licence,
 - (b) it is in respect of the premises to which the existing licence relates, and
@@ -171,17 +171,17 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) If the local authority does not make a determination under subsection (3) by the end of the determination period, the licence for which the application was made is deemed to be granted by the authority to the applicant.
 
-(10) In this group of sections, the “**determination period**” means the period of 14[^key-fc22cd0a09a1dbc3bbc2694053c9f991] days beginning with the first day after the public consultation period.
+(10) In this group of sections, the “**determination period**” means the period of 14[^c-fc22cd0a09a1dbc3bbc2694053c9f991] days beginning with the first day after the public consultation period.
 
 #### 4. Duration
 
-(1)[^key-3ebc9604c087cd6eba5cb87e37ad8135] A pavement licence may be granted by a local authority for such period as the authority may specify in the licence.
+(1)[^c-3ebc9604c087cd6eba5cb87e37ad8135] A pavement licence may be granted by a local authority for such period as the authority may specify in the licence.
 
 (2) The period specified may not exceed two years.
 
-(3) Where a pavement licence is deemed to be granted under section 3(9) it is [^key-0076f8af115d8caf813a02ccb7bad8da]... deemed to be granted for two years[^key-f05d2464b549a4dfc6e7fc01eee2ea25] starting with the first day after the determination period.
+(3) Where a pavement licence is deemed to be granted under section 3(9) it is [^c-0076f8af115d8caf813a02ccb7bad8da]... deemed to be granted for two years[^c-f05d2464b549a4dfc6e7fc01eee2ea25] starting with the first day after the determination period.
 
-(4)[^key-b7950bf29d232b5887b31e1e20c6e0cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b7950bf29d232b5887b31e1e20c6e0cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The licence-holder may surrender a pavement licence at any time by giving notice to the local authority by which it is granted or deemed to be granted.
 
@@ -230,7 +230,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (c) anything material stated by the licence-holder in their application was false or misleading, or
 - (d) the licence-holder did not comply with the duty in section 2(5).
 
-(4)[^key-012c19a9d566601c0a124acfc89c0e9d] A local authority by which a pavement licence is granted or deemed to be granted may, with the consent of the licence-holder, amend the licence if it considers that—
+(4)[^c-012c19a9d566601c0a124acfc89c0e9d] A local authority by which a pavement licence is granted or deemed to be granted may, with the consent of the licence-holder, amend the licence if it considers that—
 
 - (a) the condition in subsection (3)(a) or (b) is met, or
 - (b) a no-obstruction condition of the licence is not being complied with.
@@ -250,21 +250,21 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (b) Part 3 of the London Local Authorities Act 1990 (street trading), or
 - (c) any other enactment under or by virtue of which street trading without a licence or other form of permission is unlawful.
 
-(4)[^key-d61ed8c18362e21427f90ad766f20537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d61ed8c18362e21427f90ad766f20537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d61ed8c18362e21427f90ad766f20537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d61ed8c18362e21427f90ad766f20537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-d61ed8c18362e21427f90ad766f20537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d61ed8c18362e21427f90ad766f20537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Section 333 of the Highways Act 1980 (saving for rights and liabilities as to interference with highways) applies as if sections 1 to 6 were provisions of that Act.
 
-(8)[^key-cc4ea070318053c35dd9a1c6b8d5eae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-cc4ea070318053c35dd9a1c6b8d5eae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-cc4ea070318053c35dd9a1c6b8d5eae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-cc4ea070318053c35dd9a1c6b8d5eae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-cc4ea070318053c35dd9a1c6b8d5eae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-cc4ea070318053c35dd9a1c6b8d5eae8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7A. Enforcement[^key-c8fa007a4304b045b1dda2aee8784c3f]
+#### 7A. Enforcement[^c-c8fa007a4304b045b1dda2aee8784c3f]
 
 (1) The following provisions of this section apply where—
 
@@ -302,7 +302,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (1) In exercising its functions under this group of sections a local authority must have regard to any guidance issued under this section by the Secretary of State.
 
-(2)[^key-f25961740cf5efc848209dbbc8885f6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f25961740cf5efc848209dbbc8885f6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 9. Interpretation
 
@@ -334,9 +334,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - “**smoking**” has the same meaning as in Part 1 of the Health Act 2006;
 - “**this group of sections**” means sections 1 to 10.
 
-(2)[^key-7140714e400c586386056df0aeac0ebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7140714e400c586386056df0aeac0ebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-7140714e400c586386056df0aeac0ebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7140714e400c586386056df0aeac0ebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Section 115A(5) of the Highways Act 1980 (references to highways to which Part 7A of that Act applies) applies for the purposes of this group of sections.
 
@@ -346,7 +346,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (b) Good Friday, or
 - (c) a day which is a bank holiday in England under the Banking and Financial Dealings Act 1971.
 
-#### 10. Expiry of pavement licence provisions[^key-30a39ab9a7662daca67765d44d419c47]
+#### 10. Expiry of pavement licence provisions[^c-30a39ab9a7662daca67765d44d419c47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -735,7 +735,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (12) The Secretary of State may by regulations amend section 172K(3) of the Licensing Act 2003 (modifications of Licensing Act 2003 (Premises licences and club premises certificates) Regulations 2005 as applied by section 172K(1)), as that Act has effect by virtue of subsection (2) of this section.
 
-(13) Subsections (1) to (10) expire at the end of 31 March 2025[^key-ec58419e9fbc8d35a70a658cb2d41987].
+(13) Subsections (1) to (10) expire at the end of 31 March 2025[^c-ec58419e9fbc8d35a70a658cb2d41987].
 
 (14) If the Secretary of State considers it reasonable to do so to mitigate an effect of coronavirus, the Secretary of State may by regulations substitute the date for the time being specified in any of the following provisions with a later date—
 
@@ -1365,7 +1365,7 @@ Article 15(2)(a) of the 1981 Order (duration of driving licence in certain cases
 > - (a) how a copy of the current version of the spatial development strategy should be made available by electronic means;
 > - (b) the arrangements (if any) that may be appropriate to mitigate the effects on a person of not being able to inspect a copy of the strategy, or finding it difficult to do so, by electronic means.
 
-(2) Subsection (1) expires at the end of 31 December 2021[^key-2770d77e660cbf5b046666dcd1f31928].
+(2) Subsection (1) expires at the end of 31 December 2021[^c-2770d77e660cbf5b046666dcd1f31928].
 
 (3) If the Secretary of State considers it reasonable to do so to mitigate an effect of coronavirus, the Secretary of State may by regulations substitute the date for the time being specified in subsection (2) with a later date.
 
@@ -1394,9 +1394,9 @@ In section 78(7) of the Coronavirus Act 2020 (meaning of local authority: Englan
 - (b) different provision for different areas;
 - (c) supplementary, incidental, consequential, transitional, transitory or saving provision.
 
-(3) A statutory instrument containing regulations under section 2(1B) or[^key-068fab53620d44934ac831b14ac59d63] 5(8) is subject to annulment in pursuance of a resolution of either House of Parliament.
+(3) A statutory instrument containing regulations under section 2(1B) or[^c-068fab53620d44934ac831b14ac59d63] 5(8) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(4) A statutory instrument containing regulations under any of sections 10, *(Extent: E+W)* *(affected by repeal, see note)*[^key-a8e016d91d3d465dc5a8a862c43e5ccf] 11(12) or (14), 16 to 19 or 21 must be laid before Parliament as soon as reasonably practicable after being made.
+(4) A statutory instrument containing regulations under any of sections 10, *(Extent: E+W)* *(affected by repeal, see note)*[^c-a8e016d91d3d465dc5a8a862c43e5ccf] 11(12) or (14), 16 to 19 or 21 must be laid before Parliament as soon as reasonably practicable after being made.
 
 (5) A statutory instrument containing regulations made under section 11(16)—
 
@@ -1461,46 +1461,46 @@ This Act may be cited as the Business and Planning Act 2020.
 
 ## Annotations
 
-[^key-a2cd35c44bddd827533789bfd143d128]: Textual amendment: Words in [s. 2(1)(c)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/1/c) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 3(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/3/2) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
+[^c-a2cd35c44bddd827533789bfd143d128]: Textual amendment: Words in [s. 2(1)(c)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/1/c) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 3(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/3/2) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
 
-[^key-3eda2a8ddefa57111ff712e0d77dce60]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/1B) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 3(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/3/3) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
+[^c-3eda2a8ddefa57111ff712e0d77dce60]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/1B) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 3(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/3/3) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
 
-[^key-470dbb129cb85f5bd955fd297cf6f9fa]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/2A) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 5(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/5/2) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-470dbb129cb85f5bd955fd297cf6f9fa]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/2A) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 5(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/5/2) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-30dd7620ad79050b081e4218e82ce3c9]: Textual amendment: Word in [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/4) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/6) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
+[^c-30dd7620ad79050b081e4218e82ce3c9]: Textual amendment: Word in [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/4) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/6) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
 
-[^key-7b4fa8e9a16b683416ad88c5a95bf730]: Textual amendment: [S. 2(10)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/10) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/5/3) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-7b4fa8e9a16b683416ad88c5a95bf730]: Textual amendment: [S. 2(10)](https://www.legislation.gov.uk/ukpga/2020/16/section/2/10) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/5/3) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-fc22cd0a09a1dbc3bbc2694053c9f991]: Textual amendment: Word in [s. 3(10)](https://www.legislation.gov.uk/ukpga/2020/16/section/3/10) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/7) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
+[^c-fc22cd0a09a1dbc3bbc2694053c9f991]: Textual amendment: Word in [s. 3(10)](https://www.legislation.gov.uk/ukpga/2020/16/section/3/10) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/7) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
 
-[^key-3ebc9604c087cd6eba5cb87e37ad8135]: Textual amendment: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/2) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 8(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8/2) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-3ebc9604c087cd6eba5cb87e37ad8135]: Textual amendment: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/2) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 8(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8/2) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-0076f8af115d8caf813a02ccb7bad8da]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/3) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8/3/a) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-0076f8af115d8caf813a02ccb7bad8da]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/3) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8/3/a) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-f05d2464b549a4dfc6e7fc01eee2ea25]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/3) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8/3/b) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-f05d2464b549a4dfc6e7fc01eee2ea25]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/3) substituted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8/3/b) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-b7950bf29d232b5887b31e1e20c6e0cb]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/4) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 8(4)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8/4) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-b7950bf29d232b5887b31e1e20c6e0cb]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/4/4) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 8(4)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8/4) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-012c19a9d566601c0a124acfc89c0e9d]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/6/4) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/9) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-012c19a9d566601c0a124acfc89c0e9d]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/6/4) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/9) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-d61ed8c18362e21427f90ad766f20537]: Textual amendment: [S. 7(4)-(6)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 10(a)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/10/a) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/2))
+[^c-d61ed8c18362e21427f90ad766f20537]: Textual amendment: [S. 7(4)-(6)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 10(a)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/10/a) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/2))
 
-[^key-cc4ea070318053c35dd9a1c6b8d5eae8]: Textual amendment: [S. 7(8)-(10)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/8) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 10(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/10/b) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/2))
+[^c-cc4ea070318053c35dd9a1c6b8d5eae8]: Textual amendment: [S. 7(8)-(10)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/8) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 10(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/10/b) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/2))
 
-[^key-c8fa007a4304b045b1dda2aee8784c3f]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/2020/16/section/7A) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/13) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-c8fa007a4304b045b1dda2aee8784c3f]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/2020/16/section/7A) inserted (31.3.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/13) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-f25961740cf5efc848209dbbc8885f6a]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/8/2) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/14) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-f25961740cf5efc848209dbbc8885f6a]: Textual amendment: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/8/2) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/14) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-7140714e400c586386056df0aeac0ebd]: Textual amendment: [S. 9(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/9/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/9/3) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/16) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-7140714e400c586386056df0aeac0ebd]: Textual amendment: [S. 9(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/9/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/9/3) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/16) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-30a39ab9a7662daca67765d44d419c47]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/2020/16/section/10) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/2/1) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-30a39ab9a7662daca67765d44d419c47]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/2020/16/section/10) omitted (31.3.2024) by virtue of [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/2/1) (with [s. 247, Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/section/247/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
 [^M_F_023f3ab4-efa1-4329-83ef-aad504f23df2]: Textual amendment: Words in s. 11(2) substituted (28.9.2023) by virtue of [The Alcohol Licensing (Coronavirus) (Regulatory Easements) (Amendment) Regulations 2023 (S.I. 2023/990)](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/2/2)
 
-[^key-ec58419e9fbc8d35a70a658cb2d41987]: Textual amendment: Words in s. 11(13) substituted (28.9.2023) by [The Alcohol Licensing (Coronavirus) (Regulatory Easements) (Amendment) Regulations 2023 (S.I. 2023/990)](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/990/regulation/2/1)
+[^c-ec58419e9fbc8d35a70a658cb2d41987]: Textual amendment: Words in s. 11(13) substituted (28.9.2023) by [The Alcohol Licensing (Coronavirus) (Regulatory Easements) (Amendment) Regulations 2023 (S.I. 2023/990)](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/990/regulation/2/1)
 
-[^key-2770d77e660cbf5b046666dcd1f31928]: Textual amendment: Words in s. 21(2) substituted (15.12.2020) by [The Business and Planning Act 2020 (London Spatial Development Strategy) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1529)](https://www.legislation.gov.uk/uksi/2020/1529), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1529/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1529/regulation/2)
+[^c-2770d77e660cbf5b046666dcd1f31928]: Textual amendment: Words in s. 21(2) substituted (15.12.2020) by [The Business and Planning Act 2020 (London Spatial Development Strategy) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1529)](https://www.legislation.gov.uk/uksi/2020/1529), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1529/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1529/regulation/2)
 
-[^key-068fab53620d44934ac831b14ac59d63]: Textual amendment: Words in [s. 23(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/23/3) inserted (E.W.) (31.3.2024) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247), [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-068fab53620d44934ac831b14ac59d63]: Textual amendment: Words in [s. 23(3)](https://www.legislation.gov.uk/ukpga/2020/16/section/23/3) inserted (E.W.) (31.3.2024) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247), [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-a8e016d91d3d465dc5a8a862c43e5ccf]: Textual amendment: Word in [s. 23(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/23/4) omitted (E.W.) (31.3.2024) by virtue of [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/2/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247), [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-a8e016d91d3d465dc5a8a862c43e5ccf]: Textual amendment: Word in [s. 23(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/23/4) omitted (E.W.) (31.3.2024) by virtue of [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a), [Sch. 22 para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/2/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247), [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/18)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)

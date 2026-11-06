@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 17 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-5186e84f478ccefe9f118a3cf674fce2]
+## SCHEDULE 17 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-5186e84f478ccefe9f118a3cf674fce2]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Article ‎37
 
 ## Annotations
 
-[^key-5186e84f478ccefe9f118a3cf674fce2]: Commencement: Sch. 17 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-5186e84f478ccefe9f118a3cf674fce2]: Commencement: Sch. 17 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

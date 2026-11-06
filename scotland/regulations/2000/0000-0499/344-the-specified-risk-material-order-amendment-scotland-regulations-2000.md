@@ -32,7 +32,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Specified Risk Material Order Amendment (Scotland) Regulations 2000 (revoked)[^key-8b158cf329a5e3eb4ad8bb153c4e51bf]
+The Specified Risk Material Order Amendment (Scotland) Regulations 2000 (revoked)[^c-8b158cf329a5e3eb4ad8bb153c4e51bf]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 1st October 2000
 
-[^key-8b158cf329a5e3eb4ad8bb153c4e51bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b158cf329a5e3eb4ad8bb153c4e51bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-8b158cf329a5e3eb4ad8bb153c4e51bf]
+## 1. Citation, commencement and extent[^c-8b158cf329a5e3eb4ad8bb153c4e51bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Specified Risk Material Order 1997[^key-8b158cf329a5e3eb4ad8bb153c4e51bf]
+## 2. Amendments to the Specified Risk Material Order 1997[^c-8b158cf329a5e3eb4ad8bb153c4e51bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b158cf329a5e3eb4ad8bb153c4e51bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b158cf329a5e3eb4ad8bb153c4e51bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b158cf329a5e3eb4ad8bb153c4e51bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b158cf329a5e3eb4ad8bb153c4e51bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b158cf329a5e3eb4ad8bb153c4e51bf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2000/344) revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-8b158cf329a5e3eb4ad8bb153c4e51bf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2000/344) revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

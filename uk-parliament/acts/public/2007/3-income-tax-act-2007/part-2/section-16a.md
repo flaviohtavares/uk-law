@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Treatment of property income in hierarchy of total income[^key-5c1a07b938003ae2e0b4132b9c82e48d]
+## 16A. Treatment of property income in hierarchy of total income[^c-5c1a07b938003ae2e0b4132b9c82e48d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ the property income is treated as the part of the person’s total income immedi
 
 ## Annotations
 
-[^key-5c1a07b938003ae2e0b4132b9c82e48d]: Textual amendment: S. 16A inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/4)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8)
+[^c-5c1a07b938003ae2e0b4132b9c82e48d]: Textual amendment: S. 16A inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/4)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8)

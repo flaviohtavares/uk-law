@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50A. Cross border areas[^key-548613f04865979346923f66a65a4c25]
+## 50A. Cross border areas[^c-548613f04865979346923f66a65a4c25]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-548613f04865979346923f66a65a4c25]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/asp/2009/6/section/50A) inserted (30.4.2010) by [Flood Risk (Cross Border Areas) Regulations 2010 (S.I. 2010/1102)](https://www.legislation.gov.uk/uksi/2010/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1102/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2010/1102/regulation/33)
+[^c-548613f04865979346923f66a65a4c25]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/asp/2009/6/section/50A) inserted (30.4.2010) by [Flood Risk (Cross Border Areas) Regulations 2010 (S.I. 2010/1102)](https://www.legislation.gov.uk/uksi/2010/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1102/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2010/1102/regulation/33)

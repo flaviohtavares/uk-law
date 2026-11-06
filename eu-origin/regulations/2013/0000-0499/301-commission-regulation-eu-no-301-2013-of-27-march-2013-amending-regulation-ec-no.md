@@ -35,336 +35,336 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-628a5a69dcb9eacee064d4730b9c1e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-628a5a69dcb9eacee064d4730b9c1e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-628a5a69dcb9eacee064d4730b9c1e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-628a5a69dcb9eacee064d4730b9c1e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-628a5a69dcb9eacee064d4730b9c1e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-628a5a69dcb9eacee064d4730b9c1e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-628a5a69dcb9eacee064d4730b9c1e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-628a5a69dcb9eacee064d4730b9c1e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^key-628a5a69dcb9eacee064d4730b9c1e45]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IFRS 1 First-time Adoption of International Financial Reporting Standards
+## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^c-628a5a69dcb9eacee064d4730b9c1e45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]SCOPE
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IFRS 1 First-time Adoption of International Financial Reporting Standards
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]4A
+[^c-628a5a69dcb9eacee064d4730b9c1e45]SCOPE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]4B
+[^c-628a5a69dcb9eacee064d4730b9c1e45]4A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]PRESENTATION AND DISCLOSURE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]4B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Explanation of transition to IFRSs
+[^c-628a5a69dcb9eacee064d4730b9c1e45]PRESENTATION AND DISCLOSURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]23A
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Explanation of transition to IFRSs
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-628a5a69dcb9eacee064d4730b9c1e45]23A
 
 An entity that has applied IFRSs in a previous period, as described in paragraph 4A, shall disclose:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]23B
+[^c-628a5a69dcb9eacee064d4730b9c1e45]23B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]39P
+[^c-628a5a69dcb9eacee064d4730b9c1e45]39P
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Amendment to Appendix D of IFRS 1 First-time Adoption of International Financial Reporting Standards
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Amendment to Appendix D of IFRS 1 First-time Adoption of International Financial Reporting Standards
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Borrowing costs
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Borrowing costs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]D23
+[^c-628a5a69dcb9eacee064d4730b9c1e45]D23
 
 A first-time adopter can elect to apply the requirements of IAS 23 from the date of transition or from an earlier date as permitted by paragraph 28 of IAS 23. From the date on which an entity that applies this exemption begins to apply IAS 23, the entity:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]39Q
+[^c-628a5a69dcb9eacee064d4730b9c1e45]39Q
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 1 Presentation of Financial Statements
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 1 Presentation of Financial Statements
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Complete set of financial statements
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Complete set of financial statements
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] 10
+[^c-628a5a69dcb9eacee064d4730b9c1e45] 10
 
 **A complete set of financial statements comprises**:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Comparative information
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Comparative information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Minimum comparative information
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Minimum comparative information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] 38
+[^c-628a5a69dcb9eacee064d4730b9c1e45] 38
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] 38A
+[^c-628a5a69dcb9eacee064d4730b9c1e45] 38A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]38B
+[^c-628a5a69dcb9eacee064d4730b9c1e45]38B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Additional comparative information
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Additional comparative information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]38C
+[^c-628a5a69dcb9eacee064d4730b9c1e45]38C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]38D
+[^c-628a5a69dcb9eacee064d4730b9c1e45]38D
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]39
+[^c-628a5a69dcb9eacee064d4730b9c1e45]39
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]40
+[^c-628a5a69dcb9eacee064d4730b9c1e45]40
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Change in accounting policy, retrospective restatement or reclassification
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Change in accounting policy, retrospective restatement or reclassification
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] 40A
+[^c-628a5a69dcb9eacee064d4730b9c1e45] 40A
 
 **An entity shall present a third statement of financial position as at the beginning of the preceding period in addition to the minimum comparative financial statements required in paragraph 38A if:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]40B
+[^c-628a5a69dcb9eacee064d4730b9c1e45]40B
 
 In the circumstances described in paragraph 40A, an entity shall present three statements of financial position as at:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]40C
+[^c-628a5a69dcb9eacee064d4730b9c1e45]40C
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]40D
+[^c-628a5a69dcb9eacee064d4730b9c1e45]40D
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] 41
+[^c-628a5a69dcb9eacee064d4730b9c1e45] 41
 
 **If an entity changes the presentation or classification of items in its financial statements, it shall reclassify comparative amounts unless reclassification is impracticable. When an entity reclassifies comparative amounts, it shall disclose (including as at the beginning of the preceding period):**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]TRANSITION AND EFFECTIVE DATE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]TRANSITION AND EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]139L
+[^c-628a5a69dcb9eacee064d4730b9c1e45]139L
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Consequential amendments to other standards resulting from the amendment to IAS 1
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Consequential amendments to other standards resulting from the amendment to IAS 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IFRS 1 First-time Adoption of International Financial Reporting Standards
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IFRS 1 First-time Adoption of International Financial Reporting Standards
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]PRESENTATION AND DISCLOSURE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]PRESENTATION AND DISCLOSURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Comparative information
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Comparative information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]21
+[^c-628a5a69dcb9eacee064d4730b9c1e45]21
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]39R
+[^c-628a5a69dcb9eacee064d4730b9c1e45]39R
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 34 Interim Financial Reporting
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 34 Interim Financial Reporting
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]CONTENT OF AN INTERIM FINANCIAL REPORT
+[^c-628a5a69dcb9eacee064d4730b9c1e45]CONTENT OF AN INTERIM FINANCIAL REPORT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]5
+[^c-628a5a69dcb9eacee064d4730b9c1e45]5
 
 IAS 1 defines a complete set of financial statements as including the following components:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]52
+[^c-628a5a69dcb9eacee064d4730b9c1e45]52
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 16 Property, Plant and Equipment
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 16 Property, Plant and Equipment
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]RECOGNITION
+[^c-628a5a69dcb9eacee064d4730b9c1e45]RECOGNITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]8
+[^c-628a5a69dcb9eacee064d4730b9c1e45]8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]81G
+[^c-628a5a69dcb9eacee064d4730b9c1e45]81G
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 32 Financial Instruments: Presentation
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 32 Financial Instruments: Presentation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]PRESENTATION
+[^c-628a5a69dcb9eacee064d4730b9c1e45]PRESENTATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Interest, dividends, losses and gains (see also paragraph AG37)
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Interest, dividends, losses and gains (see also paragraph AG37)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] 35
+[^c-628a5a69dcb9eacee064d4730b9c1e45] 35
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]35A
+[^c-628a5a69dcb9eacee064d4730b9c1e45]35A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]37
+[^c-628a5a69dcb9eacee064d4730b9c1e45]37
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]39
+[^c-628a5a69dcb9eacee064d4730b9c1e45]39
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE AND TRANSITION
+[^c-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE AND TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]97M
+[^c-628a5a69dcb9eacee064d4730b9c1e45]97M
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Consequential amendments to other standards resulting from the amendment to IAS 32
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Consequential amendments to other standards resulting from the amendment to IAS 32
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IFRIC 2 Members’ Shares in Co-operative Entities and Similar Instruments
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IFRIC 2 Members’ Shares in Co-operative Entities and Similar Instruments
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]CONSENSUS
+[^c-628a5a69dcb9eacee064d4730b9c1e45]CONSENSUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]11
+[^c-628a5a69dcb9eacee064d4730b9c1e45]11
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]17
+[^c-628a5a69dcb9eacee064d4730b9c1e45]17
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 34 Interim Financial Reporting
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Amendment to IAS 34 Interim Financial Reporting
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]CONTENT OF AN INTERIM FINANCIAL REPORT
+[^c-628a5a69dcb9eacee064d4730b9c1e45]CONTENT OF AN INTERIM FINANCIAL REPORT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] Other disclosures
+[^c-628a5a69dcb9eacee064d4730b9c1e45] Other disclosures
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45] 16A
+[^c-628a5a69dcb9eacee064d4730b9c1e45] 16A
 
 **In addition to disclosing significant events and transactions in accordance with paragraphs 15–15C, an entity shall include the following information in the notes to its interim financial statements, if not disclosed elsewhere in the interim financial report. The information shall normally be reported on a financial year-to-date basis.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
+[^c-628a5a69dcb9eacee064d4730b9c1e45]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]53
+[^c-628a5a69dcb9eacee064d4730b9c1e45]53
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-628a5a69dcb9eacee064d4730b9c1e45]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/37) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-628a5a69dcb9eacee064d4730b9c1e45]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/37) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

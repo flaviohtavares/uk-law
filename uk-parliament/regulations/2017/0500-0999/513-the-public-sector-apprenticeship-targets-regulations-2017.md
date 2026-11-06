@@ -44,7 +44,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with sections 262(6)(za) and (zb) of the Apprenticeships, Skills, Children and Learning Act 2009, a draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-3ac04b39fff5dc8f49d8da39dfff05bd]
+## 1. Citation, commencement and interpretation[^c-3ac04b39fff5dc8f49d8da39dfff05bd]
 
 (1) These Regulations may be cited as the Public Sector Apprenticeship Targets Regulations 2017 and come into force on 31st March 2017.
 
@@ -56,15 +56,15 @@ In accordance with sections 262(6)(za) and (zb) of the Apprenticeships, Skills, 
 - “headcount” has the meaning given by regulation 2;
 - “target period” has the meaning given by regulation 5.
 
-## 2. Headcount[^key-3650930142d7a4d3754559ae0d58bedb]
+## 2. Headcount[^c-3650930142d7a4d3754559ae0d58bedb]
 
 (1) A public body’s headcount is equal to the number of persons who work for that public body in England.
 
 (2) A person works for a public body if the person—
 
 - (a) works for the public body as a worker within the meaning given by section 230(3) of the Employment Rights Act 1996 (employees and other workers)[^f00002];
-- (b) is an apprentice working for the public body, whether the apprenticeship agreement is with the public body itself or with an apprenticeship training agency[^f00003]; [^key-54672adc3784acb14accd49f2e0849eb]...
-- (c) works for the public body in the course of Crown employment or of service as a member of the naval, military or air forces of the Crown ; or[^key-2ec2abfd28174011d996eb4286882530]
+- (b) is an apprentice working for the public body, whether the apprenticeship agreement is with the public body itself or with an apprenticeship training agency[^f00003]; [^c-54672adc3784acb14accd49f2e0849eb]...
+- (c) works for the public body in the course of Crown employment or of service as a member of the naval, military or air forces of the Crown ; or[^c-2ec2abfd28174011d996eb4286882530]
 - (d) is a member of a police force.
 
 (3) But a person coming within any of paragraphs (4) to (6) does not, for the purposes of these Regulations, work for that public body.
@@ -80,7 +80,7 @@ In accordance with sections 262(6)(za) and (zb) of the Apprenticeships, Skills, 
 - “Crown employment” has the meaning given by section A7(6) of the 2009 Act[^f00004];
 - “zero hours contract” has the same meaning as in section 27A of the Employment Rights Act 1996[^f00005].
 
-## 3. Prescribed public bodies[^key-fb2eac944b984de07dcf110977226cb3]
+## 3. Prescribed public bodies[^c-fb2eac944b984de07dcf110977226cb3]
 
 (1) The following are prescribed for the purposes of section A9(1) of the 2009 Act—
 
@@ -94,25 +94,25 @@ In accordance with sections 262(6)(za) and (zb) of the Apprenticeships, Skills, 
 
 (3) Group B comprises Transport for London[^f00006] and those of its subsidiaries which are public bodies.
 
-(4) In addition, a public body is prescribed for the purposes of section A9(1) of the 2009 Act if on 31st March 2021[^key-e1181c3081903971946a0fd9d85a9852] the body—
+(4) In addition, a public body is prescribed for the purposes of section A9(1) of the 2009 Act if on 31st March 2021[^c-e1181c3081903971946a0fd9d85a9852] the body—
 
 - (a) is not a constituent part of Group A or Group B;
 - (b) is not described in Schedule 2; and
 - (c) has a headcount equal to, or greater than 250.
 
-## 4. Reporting period[^key-35c1c073b78c18dbac51d6cc91ac3921][^key-4a0e78f18aa048ce945d9e8718f39690]
+## 4. Reporting period[^c-35c1c073b78c18dbac51d6cc91ac3921][^c-4a0e78f18aa048ce945d9e8718f39690]
 
 For the purposes of section A10(5) of the 2009 Act (reporting periods) the financial year of—
 
-- (a) the Department for Education, which begins with 1st April 2021[^key-6bb620d21100d884f4ff2f9b520bb285] and ends with 31st March 2022[^key-44fed877053def93a8f8d226df5e9cff], is to be used to determine the reporting period[^key-7192f45a112518c0b99ee9eee8063e91] for all the prescribed public bodies within Group A;
-- (b) Transport for London, which begins with 1st April 2021[^key-d97f8f632d6c170985c712b85b0332e8] and ends with 31st March 2022[^key-f2c410d75685c69c2ec589e02e0adbf7], is to be used to determine the reporting period[^key-6c9fdaf97754b2385023cc513c50d512] for all the prescribed public bodies within Group B;
-- (c) Westminster City Council, which begins with 1st April 2021[^key-64f59e7db5747d16d3950ccaad77aeef] and ends with 31st March 2022[^key-6873d0b45a827774c53f8ce70f13d85a], is to be used to determine the reporting period[^key-c91d5986604c29a37b062e98c4656aa7] for all the prescribed public bodies coming within regulation 3(4).
+- (a) the Department for Education, which begins with 1st April 2021[^c-6bb620d21100d884f4ff2f9b520bb285] and ends with 31st March 2022[^c-44fed877053def93a8f8d226df5e9cff], is to be used to determine the reporting period[^c-7192f45a112518c0b99ee9eee8063e91] for all the prescribed public bodies within Group A;
+- (b) Transport for London, which begins with 1st April 2021[^c-d97f8f632d6c170985c712b85b0332e8] and ends with 31st March 2022[^c-f2c410d75685c69c2ec589e02e0adbf7], is to be used to determine the reporting period[^c-6c9fdaf97754b2385023cc513c50d512] for all the prescribed public bodies within Group B;
+- (c) Westminster City Council, which begins with 1st April 2021[^c-64f59e7db5747d16d3950ccaad77aeef] and ends with 31st March 2022[^c-6873d0b45a827774c53f8ce70f13d85a], is to be used to determine the reporting period[^c-c91d5986604c29a37b062e98c4656aa7] for all the prescribed public bodies coming within regulation 3(4).
 
-## 5. Target period[^key-85469d7f42477d5fc229c12b7f86362a][^key-34890dbc27a5e7c503133e834dbfb936]
+## 5. Target period[^c-85469d7f42477d5fc229c12b7f86362a][^c-34890dbc27a5e7c503133e834dbfb936]
 
 The target period is the period beginning with 1st April 2021 and ending with 31st March 2022.
 
-## 6. Public sector apprenticeship targets[^key-b9bb4d05d0bb9136441b2e3a51ff6017]
+## 6. Public sector apprenticeship targets[^c-b9bb4d05d0bb9136441b2e3a51ff6017]
 
 (1) The apprenticeship target for each of Group A and Group B is to ensure that the total number of apprentices who —
 
@@ -123,53 +123,53 @@ is equal to figure Z.
 
 (2) The apprenticeship target for a public body referred to in regulation 3(4) is to ensure that the total number of apprentices who—
 
-- (a) begin working for that public body during the target period[^key-47760c1805d211ee5e434b12610e3aef], and whose apprenticeship agreements began during an active period; and
+- (a) begin working for that public body during the target period[^c-47760c1805d211ee5e434b12610e3aef], and whose apprenticeship agreements began during an active period; and
 - (b) ordinarily work in England,
 
 is equal to figure Z.
 
-(3)[^key-8340cdd07593cc98a4646cf39aaebb07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8340cdd07593cc98a4646cf39aaebb07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Public sector apprenticeship target: Group A and Group B[^key-c7449b45df12eb4e2efbe4c5280d95d2]
+## 7. Public sector apprenticeship target: Group A and Group B[^c-c7449b45df12eb4e2efbe4c5280d95d2]
 
 (1) Figure Z in respect of Group A and Group B is calculated in accordance with the steps outlined in the following paragraphs.
 
-(2) Step 1 is to ascertain the total headcount of each of Group A and Group B on 31st March 2021 (“figure X”)[^key-afb8544638087db6643750374fa8e639]
+(2) Step 1 is to ascertain the total headcount of each of Group A and Group B on 31st March 2021 (“figure X”)[^c-afb8544638087db6643750374fa8e639]
 
 - (a) “W1” in relation to the reporting period beginning with 1st April 2017;
 - (b) “W2” in relation to the reporting period beginning with 1st April 2018;
 - (c) “W3” in relation to the reporting period beginning with 1st April 2019;
 - (d) “W4” in relation to the reporting period beginning with 1st April 2020.
 
-(3)[^key-622370584292f1e1c4eb0d5269eaa477] Step 2 is to multiply figure X in relation to that Group by 0.023 (“figure Y”).
+(3)[^c-622370584292f1e1c4eb0d5269eaa477] Step 2 is to multiply figure X in relation to that Group by 0.023 (“figure Y”).
 
-(4)[^key-e2c78308dea8f7fd0675f4f991df7ac7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e2c78308dea8f7fd0675f4f991df7ac7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Step 3[^key-1199233c76d9dcf2801d12995b1a8efd] is to round figure Y up or down to the nearest whole number (“figure Z”).
+(5) Step 3[^c-1199233c76d9dcf2801d12995b1a8efd] is to round figure Y up or down to the nearest whole number (“figure Z”).
 
-## 8. Public sector apprenticeship target: other public bodies[^key-4781284c193af2b3cd2e719202ee63e1]
+## 8. Public sector apprenticeship target: other public bodies[^c-4781284c193af2b3cd2e719202ee63e1]
 
 (1) Figure Z in respect of a public body referred to in regulation 3(4) is calculated in accordance with the steps outlined in the following paragraphs.
 
-(2) Step 1 is to ascertain the total headcount of the public body on 31st March 2021[^key-7fa54050b7351d7920d78d80362011c5].
+(2) Step 1 is to ascertain the total headcount of the public body on 31st March 2021[^c-7fa54050b7351d7920d78d80362011c5].
 
-(3) Step 2 is to multiply the figure[^key-5fe5e464189fdd6cb9ff6b3b1dcdea65] determined under Step 1 by 0.023.
+(3) Step 2 is to multiply the figure[^c-5fe5e464189fdd6cb9ff6b3b1dcdea65] determined under Step 1 by 0.023.
 
-(4)[^key-7993355085fd9bd2b13dc75a09b3a87c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7993355085fd9bd2b13dc75a09b3a87c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2826ab189bb5b04ae67180d1746e7629] Step 3 is to round up or down to the nearest whole number the figure calculated under Step 2, with the resulting rounded figure being figure Z.
+(5)[^c-2826ab189bb5b04ae67180d1746e7629] Step 3 is to round up or down to the nearest whole number the figure calculated under Step 2, with the resulting rounded figure being figure Z.
 
 (6) Where the public body is an apprenticeship training agency, any apprentices which the agency supplies to another public body must not be taken into account when calculating figure Z.
 
-(7)[^key-4451641577d94de4245140d561a7cae0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4451641577d94de4245140d561a7cae0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Prescribed information[^key-834a0074ea6c43bfc579094d39d6f6a4]
+## 9. Prescribed information[^c-834a0074ea6c43bfc579094d39d6f6a4]
 
 The information prescribed under section A10(1)(b) of the 2009 Act is—
 
 - (a) the information described in paragraphs (a) to (d) of section A10(3) of the 2009 Act (information explaining steps taken to meet a target or reasons why a target has not or may not be met);
-- (b) the figure determined under Step 1 in regulation 7(2) or 8(2) (as the case may be) [^key-e575b44e045cb1af486b70a3ffba3475]...;
-- (c)[^key-19a764af785c13a3a880d9c0f8f1e392] figure B (the number of apprentices who began to work for the body during the reporting period) expressed as a percentage of the figure described in paragraph (b).
+- (b) the figure determined under Step 1 in regulation 7(2) or 8(2) (as the case may be) [^c-e575b44e045cb1af486b70a3ffba3475]...;
+- (c)[^c-19a764af785c13a3a880d9c0f8f1e392] figure B (the number of apprentices who began to work for the body during the reporting period) expressed as a percentage of the figure described in paragraph (b).
 
 Caroline Dinenage
 
@@ -183,13 +183,13 @@ Department for Education
 
 Regulation 3(2)(b)
 
-**1.**[^key-80ea1782a8d5b3ce4e0a798abf02870e] Advisory Conciliation and Arbitration Service.
+**1.**[^c-80ea1782a8d5b3ce4e0a798abf02870e] Advisory Conciliation and Arbitration Service.
 
-**2.**[^key-5f58fabd7db3d5afd78230ccd63c38e8] Health and Safety Executive.
+**2.**[^c-5f58fabd7db3d5afd78230ccd63c38e8] Health and Safety Executive.
 
-**3.**[^key-6c43ae20e66bdb3b55178727a93b994e] Office for Budget Responsibility.
+**3.**[^c-6c43ae20e66bdb3b55178727a93b994e] Office for Budget Responsibility.
 
-**4.**[^key-29a91d81c795433c551be162a5d5f8b8] The proprietor of a relevant academy, where—
+**4.**[^c-29a91d81c795433c551be162a5d5f8b8] The proprietor of a relevant academy, where—
 
 - “proprietor” has the meaning given by section 579(1) of the Education Act 1996;
 - “relevant academy” means any of—
@@ -201,35 +201,35 @@ Regulation 3(2)(b)
 
 Regulation 3(4)(b)
 
-**1.**[^key-9e4db178188569e238fb6fd500ca4c3e] The British Broadcasting Corporation and any of its subsidiaries.
+**1.**[^c-9e4db178188569e238fb6fd500ca4c3e] The British Broadcasting Corporation and any of its subsidiaries.
 
-**2.**[^key-243ca4a8b2ea7602ccfd4bac4688b117] Channel Four Television Corporation and any of its subsidiaries.
+**2.**[^c-243ca4a8b2ea7602ccfd4bac4688b117] Channel Four Television Corporation and any of its subsidiaries.
 
-**3.**[^key-5ce9cf51f644534a8b72688f2663ac66] The House of Commons.
+**3.**[^c-5ce9cf51f644534a8b72688f2663ac66] The House of Commons.
 
-**4.**[^key-f27d6980cd6ece825c77b7fef8928200] The House of Lords.
+**4.**[^c-f27d6980cd6ece825c77b7fef8928200] The House of Lords.
 
-**5.**[^key-8c1eceefc48bb749313e9eca0a54549b] Post Office Ltd[^f00007] and any of its subsidiaries.
+**5.**[^c-8c1eceefc48bb749313e9eca0a54549b] Post Office Ltd[^f00007] and any of its subsidiaries.
 
-**6.**[^key-ef7185db6a6bbae42c3fbd167ade9bf1] A charity within the meaning of section 1(1) of the Charities Act 2011[^f00008] which—
+**6.**[^c-ef7185db6a6bbae42c3fbd167ade9bf1] A charity within the meaning of section 1(1) of the Charities Act 2011[^f00008] which—
 
 - (a) does not come within any other paragraph in this Schedule;
-- (b)[^key-55a5de033ac8cab4b8ae922458e39d32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-55a5de033ac8cab4b8ae922458e39d32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-d7d033708d9c9a96a16619bff20ca390] is not the governing body of any foundation, voluntary, or foundation special school; and
-- (e) is not the proprietor of a relevant academy, and in this Schedule, “proprietor” and “relevant academy” have the meanings given in Schedule 1[^key-932c3c14e36755ad70ba73b65fc14889].
+- (b)[^c-55a5de033ac8cab4b8ae922458e39d32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-55a5de033ac8cab4b8ae922458e39d32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-d7d033708d9c9a96a16619bff20ca390] is not the governing body of any foundation, voluntary, or foundation special school; and
+- (e) is not the proprietor of a relevant academy, and in this Schedule, “proprietor” and “relevant academy” have the meanings given in Schedule 1[^c-932c3c14e36755ad70ba73b65fc14889].
 
-**7.**[^key-1d35d2ce7c76d97de477e18714032b7f] A further education corporation within the meaning of section 17 of the Further and Higher Education Act 1992[^f00011].
+**7.**[^c-1d35d2ce7c76d97de477e18714032b7f] A further education corporation within the meaning of section 17 of the Further and Higher Education Act 1992[^f00011].
 
-**8.**[^key-b301c569a047653f56eebbdbe4bae9c3] A housing association within the meaning of section 1 of the Housing Associations Act 1985[^f00012].
+**8.**[^c-b301c569a047653f56eebbdbe4bae9c3] A housing association within the meaning of section 1 of the Housing Associations Act 1985[^f00012].
 
-**9.**[^key-8d77897e8d2187a081f3b0e97683ba0d] A housing trust within the meaning of section 2 of the Housing Associations Act 1985.
+**9.**[^c-8d77897e8d2187a081f3b0e97683ba0d] A housing trust within the meaning of section 2 of the Housing Associations Act 1985.
 
-**10.**[^key-51d51edb8549b09dc3e4de729ab28e4c] The proprietor of an independent school within the meaning of section 463 of the Education Act 1996, other than the proprietor of a relevant academy.
+**10.**[^c-51d51edb8549b09dc3e4de729ab28e4c] The proprietor of an independent school within the meaning of section 463 of the Education Act 1996, other than the proprietor of a relevant academy.
 
-**11.**[^key-8ac23d3c32b3ccaf238b82ffd84d48f0] An institution incorporated in, or formed under the law of any part of the United Kingdom, which has permission under Part 4A of the Financial Services and Markets Act 2000[^f00014] to carry on any regulated activity within the meaning of section 22[^f00015] of that Act.
+**11.**[^c-8ac23d3c32b3ccaf238b82ffd84d48f0] An institution incorporated in, or formed under the law of any part of the United Kingdom, which has permission under Part 4A of the Financial Services and Markets Act 2000[^f00014] to carry on any regulated activity within the meaning of section 22[^f00015] of that Act.
 
-**12.**[^key-d6ceb1ed0eeb93929c5fe0f61b633435] A university, including any university college and any college, or institution in the nature of a college, in a university.
+**12.**[^c-d6ceb1ed0eeb93929c5fe0f61b633435] A university, including any university college and any college, or institution in the nature of a college, in a university.
 
 EXPLANATORY NOTE
 
@@ -255,134 +255,134 @@ An Impact Assessment has not been prepared for this instrument. As this measure 
 
 [^f00001]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22); sections A9 and A10 were inserted by section 24(1) of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
-[^key-3ac04b39fff5dc8f49d8da39dfff05bd]: Commencement: Reg. 1 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-3ac04b39fff5dc8f49d8da39dfff05bd]: Commencement: Reg. 1 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-3650930142d7a4d3754559ae0d58bedb]: Commencement: Reg. 2 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-3650930142d7a4d3754559ae0d58bedb]: Commencement: Reg. 2 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
 [^f00002]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
 [^f00003]: Footnote: An apprenticeship training agency is an organisation approved as such by the Skills Funding Agency which supplies apprentices to host businesses and other organisations whilst itself remaining the apprentice’s employer throughout.
 
-[^key-54672adc3784acb14accd49f2e0849eb]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/513/regulation/2/2) omitted (31.3.2018) by virtue of [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/2/a)
+[^c-54672adc3784acb14accd49f2e0849eb]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/513/regulation/2/2) omitted (31.3.2018) by virtue of [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/2/a)
 
-[^key-2ec2abfd28174011d996eb4286882530]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2017/513/regulation/2/2/d) and word inserted (31.3.2018) by [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/2/b)
+[^c-2ec2abfd28174011d996eb4286882530]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2017/513/regulation/2/2/d) and word inserted (31.3.2018) by [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/2/b)
 
 [^f00004]: Footnote: Section A7 was inserted by paragraph 1 of Part 1 of Schedule 1 to the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
 [^f00005]: Footnote: Section 27A was inserted by section 153 of the Small Business, Enterprise and Employment Act [2015 (c. 18)](https://www.legislation.gov.uk/ukpga/2015/18).
 
-[^key-fb2eac944b984de07dcf110977226cb3]: Commencement: Reg. 3 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-fb2eac944b984de07dcf110977226cb3]: Commencement: Reg. 3 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
 [^f00006]: Footnote: A body corporate established under section 154(1) of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-e1181c3081903971946a0fd9d85a9852]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/513/regulation/3/4) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/278/regulation/3)
+[^c-e1181c3081903971946a0fd9d85a9852]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/513/regulation/3/4) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/278/regulation/3)
 
-[^key-35c1c073b78c18dbac51d6cc91ac3921]: Commencement: Reg. 4 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-35c1c073b78c18dbac51d6cc91ac3921]: Commencement: Reg. 4 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-4a0e78f18aa048ce945d9e8718f39690]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2017/513/regulation/4) heading substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/a)
+[^c-4a0e78f18aa048ce945d9e8718f39690]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2017/513/regulation/4) heading substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/a)
 
-[^key-6bb620d21100d884f4ff2f9b520bb285]: Textual amendment: Word in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/a) inserted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/b/i)
+[^c-6bb620d21100d884f4ff2f9b520bb285]: Textual amendment: Word in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/a) inserted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/b/i)
 
-[^key-44fed877053def93a8f8d226df5e9cff]: Textual amendment: Word in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/a) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/b/ii)
+[^c-44fed877053def93a8f8d226df5e9cff]: Textual amendment: Word in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/a) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/b/ii)
 
-[^key-7192f45a112518c0b99ee9eee8063e91]: Textual amendment: Word in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/a) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(b)(iii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/b/iii)
+[^c-7192f45a112518c0b99ee9eee8063e91]: Textual amendment: Word in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/a) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(b)(iii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/b/iii)
 
-[^key-d97f8f632d6c170985c712b85b0332e8]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/b) inserted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/c/i)
+[^c-d97f8f632d6c170985c712b85b0332e8]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/b) inserted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/c/i)
 
-[^key-f2c410d75685c69c2ec589e02e0adbf7]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/b) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/c/ii)
+[^c-f2c410d75685c69c2ec589e02e0adbf7]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/b) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/c/ii)
 
-[^key-6c9fdaf97754b2385023cc513c50d512]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/b) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(c)(iii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/c/iii)
+[^c-6c9fdaf97754b2385023cc513c50d512]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/b) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(c)(iii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/c/iii)
 
-[^key-64f59e7db5747d16d3950ccaad77aeef]: Textual amendment: Word in [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/c) inserted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(d)(i)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/d/i)
+[^c-64f59e7db5747d16d3950ccaad77aeef]: Textual amendment: Word in [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/c) inserted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(d)(i)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/d/i)
 
-[^key-6873d0b45a827774c53f8ce70f13d85a]: Textual amendment: Word in [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/c) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(d)(ii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/d/ii)
+[^c-6873d0b45a827774c53f8ce70f13d85a]: Textual amendment: Word in [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/c) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(d)(ii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/d/ii)
 
-[^key-c91d5986604c29a37b062e98c4656aa7]: Textual amendment: Word in [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/c) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(d)(iii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/d/iii)
+[^c-c91d5986604c29a37b062e98c4656aa7]: Textual amendment: Word in [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/513/regulation/4/c) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [4(d)(iii)](https://www.legislation.gov.uk/uksi/2021/278/regulation/4/d/iii)
 
-[^key-85469d7f42477d5fc229c12b7f86362a]: Commencement: Reg. 5 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-85469d7f42477d5fc229c12b7f86362a]: Commencement: Reg. 5 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-34890dbc27a5e7c503133e834dbfb936]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/513/regulation/5) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/278/regulation/5)
+[^c-34890dbc27a5e7c503133e834dbfb936]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/513/regulation/5) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/278/regulation/5)
 
-[^key-b9bb4d05d0bb9136441b2e3a51ff6017]: Commencement: Reg. 6 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-b9bb4d05d0bb9136441b2e3a51ff6017]: Commencement: Reg. 6 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-47760c1805d211ee5e434b12610e3aef]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2017/513/regulation/6/2/a) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/6/a)
+[^c-47760c1805d211ee5e434b12610e3aef]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2017/513/regulation/6/2/a) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/6/a)
 
-[^key-8340cdd07593cc98a4646cf39aaebb07]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2017/513/regulation/6/3) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2021/278/regulation/6/b)
+[^c-8340cdd07593cc98a4646cf39aaebb07]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2017/513/regulation/6/3) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2021/278/regulation/6/b)
 
-[^key-c7449b45df12eb4e2efbe4c5280d95d2]: Commencement: Reg. 7 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-c7449b45df12eb4e2efbe4c5280d95d2]: Commencement: Reg. 7 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-afb8544638087db6643750374fa8e639]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/513/regulation/7/2) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/7/a)
+[^c-afb8544638087db6643750374fa8e639]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/513/regulation/7/2) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/7/a)
 
-[^key-622370584292f1e1c4eb0d5269eaa477]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2017/513/regulation/7/3) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/278/regulation/7/b)
+[^c-622370584292f1e1c4eb0d5269eaa477]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2017/513/regulation/7/3) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/278/regulation/7/b)
 
-[^key-e2c78308dea8f7fd0675f4f991df7ac7]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2017/513/regulation/7/4) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2021/278/regulation/7/c)
+[^c-e2c78308dea8f7fd0675f4f991df7ac7]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2017/513/regulation/7/4) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2021/278/regulation/7/c)
 
-[^key-1199233c76d9dcf2801d12995b1a8efd]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2017/513/regulation/7/5) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2021/278/regulation/7/d)
+[^c-1199233c76d9dcf2801d12995b1a8efd]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2017/513/regulation/7/5) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2021/278/regulation/7/d)
 
-[^key-4781284c193af2b3cd2e719202ee63e1]: Commencement: Reg. 8 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-4781284c193af2b3cd2e719202ee63e1]: Commencement: Reg. 8 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-7fa54050b7351d7920d78d80362011c5]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/2) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/a)
+[^c-7fa54050b7351d7920d78d80362011c5]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/2) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/a)
 
-[^key-5fe5e464189fdd6cb9ff6b3b1dcdea65]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/3) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/b)
+[^c-5fe5e464189fdd6cb9ff6b3b1dcdea65]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/3) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/b)
 
-[^key-7993355085fd9bd2b13dc75a09b3a87c]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/4) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/c)
+[^c-7993355085fd9bd2b13dc75a09b3a87c]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/4) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/c)
 
-[^key-2826ab189bb5b04ae67180d1746e7629]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/5) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/d)
+[^c-2826ab189bb5b04ae67180d1746e7629]: Textual amendment: [Reg. 8(5)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/5) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/d)
 
-[^key-4451641577d94de4245140d561a7cae0]: Textual amendment: [Reg. 8(7)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/7) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(e)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/e)
+[^c-4451641577d94de4245140d561a7cae0]: Textual amendment: [Reg. 8(7)](https://www.legislation.gov.uk/uksi/2017/513/regulation/8/7) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [8(e)](https://www.legislation.gov.uk/uksi/2021/278/regulation/8/e)
 
-[^key-834a0074ea6c43bfc579094d39d6f6a4]: Commencement: Reg. 9 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-834a0074ea6c43bfc579094d39d6f6a4]: Commencement: Reg. 9 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-e575b44e045cb1af486b70a3ffba3475]: Textual amendment: Words in [reg. 9(b)](https://www.legislation.gov.uk/uksi/2017/513/regulation/9/b) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/9/a)
+[^c-e575b44e045cb1af486b70a3ffba3475]: Textual amendment: Words in [reg. 9(b)](https://www.legislation.gov.uk/uksi/2017/513/regulation/9/b) omitted (1.4.2021) by virtue of [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2021/278/regulation/9/a)
 
-[^key-19a764af785c13a3a880d9c0f8f1e392]: Textual amendment: [Reg. 9(c)](https://www.legislation.gov.uk/uksi/2017/513/regulation/9/c) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2021/278/regulation/9/b)
+[^c-19a764af785c13a3a880d9c0f8f1e392]: Textual amendment: [Reg. 9(c)](https://www.legislation.gov.uk/uksi/2017/513/regulation/9/c) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2021/278/regulation/9/b)
 
-[^key-80ea1782a8d5b3ce4e0a798abf02870e]: Commencement: Sch. 1 para. 1 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-80ea1782a8d5b3ce4e0a798abf02870e]: Commencement: Sch. 1 para. 1 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-5f58fabd7db3d5afd78230ccd63c38e8]: Commencement: Sch. 1 para. 2 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-5f58fabd7db3d5afd78230ccd63c38e8]: Commencement: Sch. 1 para. 2 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-6c43ae20e66bdb3b55178727a93b994e]: Commencement: Sch. 1 para. 3 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-6c43ae20e66bdb3b55178727a93b994e]: Commencement: Sch. 1 para. 3 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-29a91d81c795433c551be162a5d5f8b8]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/513/schedule/1/paragraph/4) inserted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/278/regulation/10)
+[^c-29a91d81c795433c551be162a5d5f8b8]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/513/schedule/1/paragraph/4) inserted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/278/regulation/10)
 
-[^key-9e4db178188569e238fb6fd500ca4c3e]: Commencement: Sch. 2 para. 1 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-9e4db178188569e238fb6fd500ca4c3e]: Commencement: Sch. 2 para. 1 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-243ca4a8b2ea7602ccfd4bac4688b117]: Commencement: Sch. 2 para. 2 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-243ca4a8b2ea7602ccfd4bac4688b117]: Commencement: Sch. 2 para. 2 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-5ce9cf51f644534a8b72688f2663ac66]: Commencement: Sch. 2 para. 3 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-5ce9cf51f644534a8b72688f2663ac66]: Commencement: Sch. 2 para. 3 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-f27d6980cd6ece825c77b7fef8928200]: Commencement: Sch. 2 para. 4 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-f27d6980cd6ece825c77b7fef8928200]: Commencement: Sch. 2 para. 4 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-8c1eceefc48bb749313e9eca0a54549b]: Commencement: Sch. 2 para. 5 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-8c1eceefc48bb749313e9eca0a54549b]: Commencement: Sch. 2 para. 5 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
 [^f00007]: Footnote: Registered company number 02154540.
 
-[^key-ef7185db6a6bbae42c3fbd167ade9bf1]: Commencement: Sch. 2 para. 6 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-ef7185db6a6bbae42c3fbd167ade9bf1]: Commencement: Sch. 2 para. 6 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
 [^f00008]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
 
-[^key-55a5de033ac8cab4b8ae922458e39d32]: Textual amendment: [Sch. 2 para. 6(b)(c)](https://www.legislation.gov.uk/uksi/2017/513/schedule/2/paragraph/6/b/c) omitted (31.3.2018) by virtue of [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/4/a/i)
+[^c-55a5de033ac8cab4b8ae922458e39d32]: Textual amendment: [Sch. 2 para. 6(b)(c)](https://www.legislation.gov.uk/uksi/2017/513/schedule/2/paragraph/6/b/c) omitted (31.3.2018) by virtue of [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/4/a/i)
 
-[^key-d7d033708d9c9a96a16619bff20ca390]: Textual amendment: [Sch. 2 para. 6(d)(e)](https://www.legislation.gov.uk/uksi/2017/513/schedule/2/paragraph/6/d/e) inserted (31.3.2018) by [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/4/a/ii)
+[^c-d7d033708d9c9a96a16619bff20ca390]: Textual amendment: [Sch. 2 para. 6(d)(e)](https://www.legislation.gov.uk/uksi/2017/513/schedule/2/paragraph/6/d/e) inserted (31.3.2018) by [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/4/a/ii)
 
-[^key-932c3c14e36755ad70ba73b65fc14889]: Textual amendment: Words in [Sch. 2 para. 6(e)](https://www.legislation.gov.uk/uksi/2017/513/schedule/2/paragraph/6/e) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2021/278/regulation/11)
+[^c-932c3c14e36755ad70ba73b65fc14889]: Textual amendment: Words in [Sch. 2 para. 6(e)](https://www.legislation.gov.uk/uksi/2017/513/schedule/2/paragraph/6/e) substituted (1.4.2021) by [The Public Sector Apprenticeship Targets (Amendment) Regulations 2021 (S.I. 2021/278)](https://www.legislation.gov.uk/uksi/2021/278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/278/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2021/278/regulation/11)
 
-[^key-1d35d2ce7c76d97de477e18714032b7f]: Commencement: Sch. 2 para. 7 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-1d35d2ce7c76d97de477e18714032b7f]: Commencement: Sch. 2 para. 7 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
 [^f00011]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 17 was amended by the section 44(1) of, and paragraph 7 of Schedule 3 to, the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30).
 
-[^key-b301c569a047653f56eebbdbe4bae9c3]: Commencement: Sch. 2 para. 8 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-b301c569a047653f56eebbdbe4bae9c3]: Commencement: Sch. 2 para. 8 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
 [^f00012]: Footnote: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69); section 1 was amended by section 151(1) of, and paragraph 36 of Schedule 4 to, the Co-operative and Community Benefits Societies Act [2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14). There are other amendments to section 1 which are not relevant to these Regulations.
 
-[^key-8d77897e8d2187a081f3b0e97683ba0d]: Commencement: Sch. 2 para. 9 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-8d77897e8d2187a081f3b0e97683ba0d]: Commencement: Sch. 2 para. 9 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
-[^key-51d51edb8549b09dc3e4de729ab28e4c]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/513/schedule/2/paragraph/10) substituted (31.3.2018) by [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(4)(b)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/4/b)
+[^c-51d51edb8549b09dc3e4de729ab28e4c]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/513/schedule/2/paragraph/10) substituted (31.3.2018) by [The Apprenticeships (Miscellaneous Provisions) Regulations 2017 (S.I. 2017/1310)](https://www.legislation.gov.uk/uksi/2017/1310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/1/3), [8(4)(b)](https://www.legislation.gov.uk/uksi/2017/1310/regulation/8/4/b)
 
-[^key-8ac23d3c32b3ccaf238b82ffd84d48f0]: Commencement: Sch. 2 para. 11 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-8ac23d3c32b3ccaf238b82ffd84d48f0]: Commencement: Sch. 2 para. 11 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
 
 [^f00014]: Footnote: [2008 c. 8](https://www.legislation.gov.uk/ukpga/2008/8).
 
 [^f00015]: Footnote: There have been amendments to section 22 but none are relevant for the purposes of these Regulations.
 
-[^key-d6ceb1ed0eeb93929c5fe0f61b633435]: Commencement: Sch. 2 para. 12 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)
+[^c-d6ceb1ed0eeb93929c5fe0f61b633435]: Commencement: Sch. 2 para. 12 in force at 31.3.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/513/regulation/1/1)

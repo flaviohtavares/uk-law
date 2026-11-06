@@ -22,11 +22,11 @@ summary: ''
 
 Article 42
 
-### 1. Commencing an arbitration[^key-11968342b986258656b7dc46562bf7ff]
+### 1. Commencing an arbitration[^c-11968342b986258656b7dc46562bf7ff]
 
 The arbitration is deemed to have commenced when a party (“**the claimant**”) serves a written notice of arbitration on the other party (“**the respondent**”).
 
-### 2. Time periods[^key-48a982bfe1b1aa7e372c9be0edab8b83]
+### 2. Time periods[^c-48a982bfe1b1aa7e372c9be0edab8b83]
 
 (1) All time periods in these arbitration rules are measured in days and include weekends, but not bank or public holidays.
 
@@ -35,7 +35,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 - (a) the date the arbitrator notifies the parties in writing of their acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-b45721c17f624b0894466e2e65486c10]
+### 3. Timetable[^c-b45721c17f624b0894466e2e65486c10]
 
 (1) The timetable for the arbitration is that which is set out in sub-paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -58,7 +58,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-5c3cffc726436fee3819e9b51dcccf41]
+### 4. Procedure[^c-5c3cffc726436fee3819e9b51dcccf41]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. A single pleading must not exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -86,7 +86,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 (11) The arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given must be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-72b69e83878149ed991f92af177af66e]
+### 5. Arbitrator’s powers[^c-72b69e83878149ed991f92af177af66e]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996, save where modified in this Schedule.
 
@@ -99,7 +99,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-ab4685cfcd1bbd74a67f04ab389a1327]
+### 6. Costs[^c-ab4685cfcd1bbd74a67f04ab389a1327]
 
 (1) The costs of the arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -109,7 +109,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 (4) The arbitrator must award recoverable costs on the general principle that each party should bear its own costs, having regard to all material circumstances, including such matters as exaggerated claims or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-eaf35d46a2b3b706253065e84d225c04]
+### 7. Confidentiality[^c-eaf35d46a2b3b706253065e84d225c04]
 
 (1) Subject to sub-paragraphs (2) and (3), any arbitration hearing and documentation will be open and accessible by the public.
 
@@ -119,16 +119,16 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 ## Annotations
 
-[^key-11968342b986258656b7dc46562bf7ff]: Commencement: Sch. 14 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-11968342b986258656b7dc46562bf7ff]: Commencement: Sch. 14 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-48a982bfe1b1aa7e372c9be0edab8b83]: Commencement: Sch. 14 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-48a982bfe1b1aa7e372c9be0edab8b83]: Commencement: Sch. 14 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-b45721c17f624b0894466e2e65486c10]: Commencement: Sch. 14 para. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-b45721c17f624b0894466e2e65486c10]: Commencement: Sch. 14 para. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-5c3cffc726436fee3819e9b51dcccf41]: Commencement: Sch. 14 para. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-5c3cffc726436fee3819e9b51dcccf41]: Commencement: Sch. 14 para. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-72b69e83878149ed991f92af177af66e]: Commencement: Sch. 14 para. 5 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-72b69e83878149ed991f92af177af66e]: Commencement: Sch. 14 para. 5 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-ab4685cfcd1bbd74a67f04ab389a1327]: Commencement: Sch. 14 para. 6 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-ab4685cfcd1bbd74a67f04ab389a1327]: Commencement: Sch. 14 para. 6 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-eaf35d46a2b3b706253065e84d225c04]: Commencement: Sch. 14 para. 7 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-eaf35d46a2b3b706253065e84d225c04]: Commencement: Sch. 14 para. 7 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

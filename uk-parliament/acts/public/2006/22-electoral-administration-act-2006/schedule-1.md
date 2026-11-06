@@ -34,37 +34,37 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 #### The 1983 Act
 
-**2.**[^c18997001][^key-09b0d6df9afa96fc42f7bb7f4346c979] The 1983 Act is amended in accordance with paragraphs 3 to 16.
+**2.**[^c18997001][^c-09b0d6df9afa96fc42f7bb7f4346c979] The 1983 Act is amended in accordance with paragraphs 3 to 16.
 
-**3.**[^c18997011][^key-09b0d6df9afa96fc42f7bb7f4346c979] In section 4 (entitlement to be registered as parliamentary or local government elector), after subsection (5) insert—
+**3.**[^c18997011][^c-09b0d6df9afa96fc42f7bb7f4346c979] In section 4 (entitlement to be registered as parliamentary or local government elector), after subsection (5) insert—
 
 > (5A) If a person entitled to be registered by virtue of subsection (5) above has an anonymous entry in the register, the references in paragraphs (a) and (b) of that subsection to his entry in the register are to be read as references to his entry in the record of anonymous entries prepared in pursuance of paragraph 8A of Schedule 2 below.
 
-**4.**[^c18997021][^key-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 9 (registers of electors) is amended as follows.
+**4.**[^c18997021][^c-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 9 (registers of electors) is amended as follows.
 
-(2)[^key-a6428dd6da6a94f5b15a177c72397e67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a6428dd6da6a94f5b15a177c72397e67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5), for “names” substitute “ entries ”.
 
-**5.**[^key-2f169c98d98cb0ce5bdb0ac276ce3a8e][^c18997051][^key-09b0d6df9afa96fc42f7bb7f4346c979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2f169c98d98cb0ce5bdb0ac276ce3a8e][^c18997051][^c-09b0d6df9afa96fc42f7bb7f4346c979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^c18997061][^key-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 10A (maintenance of the registers: registration of electors) is amended as follows.
+**6.**[^c18997061][^c-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 10A (maintenance of the registers: registration of electors) is amended as follows.
 
-(2)[^key-b64f904f74cbb4ccb5cbdd8e48e5f26c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b64f904f74cbb4ccb5cbdd8e48e5f26c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5) the words “the name of” are omitted.
 
-**7.**[^c18997071][^key-09b0d6df9afa96fc42f7bb7f4346c979] In section 49 (effect of registers), after subsection (4) insert—
+**7.**[^c18997071][^c-09b0d6df9afa96fc42f7bb7f4346c979] In section 49 (effect of registers), after subsection (4) insert—
 
 > (4A) Subsection (4) applies to an entry in the record of anonymous entries as it applies to an entry in the register of parliamentary or local government electors.
 
-**8.**[^c18997081][^key-09b0d6df9afa96fc42f7bb7f4346c979] In section 56 (registration appeals), in subsection (1) after paragraph (aa) (inserted by section 12(8) of this Act) insert—
+**8.**[^c18997081][^c-09b0d6df9afa96fc42f7bb7f4346c979] In section 56 (registration appeals), in subsection (1) after paragraph (aa) (inserted by section 12(8) of this Act) insert—
 
 > - (ab) from a determination of the registration officer under section 9B(2) above,
 
 .
 
-**9.**[^c18997091][^key-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 62 (offences as to declarations) is amended as follows.
+**9.**[^c18997091][^c-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 62 (offences as to declarations) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -77,7 +77,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 (3) In subsection (2) for “the reference in subsection (1) above to a legal incapacity to vote refers” substitute “ the references in subsections (1) and (1A) above to a legal incapacity to vote refer ”.
 
-**10.**[^c18997101][^key-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 91 (candidate's right to send election address post free) is amended as follows.
+**10.**[^c18997101][^c-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 91 (candidate's right to send election address post free) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -90,17 +90,17 @@ Sections 10, 11, 18, 20, 47, 61, 74
 - (a) after “in that register” insert “ (or, in the case of a person who has an anonymous entry in the register, in the record of anonymous entries) ”, and
 - (b) after “from the register” insert “ (or from the record) ”.
 
-**11.**[^c18997111][^key-09b0d6df9afa96fc42f7bb7f4346c979] In section 121 (presentation and service of parliamentary election petition), after subsection (1) insert—
+**11.**[^c18997111][^c-09b0d6df9afa96fc42f7bb7f4346c979] In section 121 (presentation and service of parliamentary election petition), after subsection (1) insert—
 
 > (1A) The reference in subsection (1)(a) to a person who voted as an elector at an election or who had the right so to vote does not include a person who had an anonymous entry in the register of electors.
 
-**12.**[^c18997121][^key-09b0d6df9afa96fc42f7bb7f4346c979] In section 128 (presentation of petition questioning local election), after subsection (1) insert—
+**12.**[^c18997121][^c-09b0d6df9afa96fc42f7bb7f4346c979] In section 128 (presentation of petition questioning local election), after subsection (1) insert—
 
 > (1A) The reference in subsection (1) to a person who voted as an elector at an election or who had the right so to vote does not include a person who had an anonymous entry in the register of electors.
 >
 > (1B) Subsection (1A) does not apply to a local government election in Scotland.
 
-**13.**[^c18997131][^key-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 202(1) (general provisions as to interpretation) is amended as follows.
+**13.**[^c18997131][^c-09b0d6df9afa96fc42f7bb7f4346c979] (1) Section 202(1) (general provisions as to interpretation) is amended as follows.
 
 (2) Before the definition of “citizen of the Union” insert—
 
@@ -113,7 +113,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 - (a) for “whose name is for the time being” substitute “ who has for the time being an entry ”, and
 - (b) after “shown in the register” insert “ (or, in the case of a person who has an anonymous entry in the register, in the record of anonymous entries) ”.
 
-**14.**[^c18997141][^key-09b0d6df9afa96fc42f7bb7f4346c979] (1) Schedule 1 (parliamentary elections rules) is amended as follows.
+**14.**[^c18997141][^c-09b0d6df9afa96fc42f7bb7f4346c979] (1) Schedule 1 (parliamentary elections rules) is amended as follows.
 
 (2) In rule 7 (subscription of nomination paper), after paragraph (6) insert—
 
@@ -132,7 +132,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 > - (a) in paragraphs (2)(b) and (3) the references to the name of the voter must be ignored;
 > - (b) otherwise, a reference to a person named on a register or list must be construed as a reference to a person whose number appears on the register or list (as the case may be).
 
-**15.**[^c19012021][^key-09b0d6df9afa96fc42f7bb7f4346c979] (1) Schedule 2 (provisions which may be contained in regulations as to registration etc.) is amended as follows.
+**15.**[^c19012021][^c-09b0d6df9afa96fc42f7bb7f4346c979] (1) Schedule 2 (provisions which may be contained in regulations as to registration etc.) is amended as follows.
 
 (2) In paragraph 1(3), for “name” substitute “ entry ”.
 
@@ -156,7 +156,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 > (1A) The edited version shall also omit anonymous entries.
 
-**16.**[^c18997171][^key-09b0d6df9afa96fc42f7bb7f4346c979] In Schedule 2A (control of donations to candidates), the existing text of paragraph 10 becomes sub-paragraph (1) of the paragraph and after sub-paragraph (1) insert—
+**16.**[^c18997171][^c-09b0d6df9afa96fc42f7bb7f4346c979] In Schedule 2A (control of donations to candidates), the existing text of paragraph 10 becomes sub-paragraph (1) of the paragraph and after sub-paragraph (1) insert—
 
 > (2) If the statement states that the candidate's election agent has seen evidence of such description as is prescribed by the Secretary of State in regulations that an individual donor has an anonymous entry in an electoral register, the statement must be accompanied by a copy of the evidence.
 >
@@ -164,7 +164,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 #### The Representation of the People Act 1985 (c. 50)
 
-**17.**[^key-ceb38131ed0f07d08080a195939c3b5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-ceb38131ed0f07d08080a195939c3b5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Greater London Authority Act 1999 (c. 29)
 
@@ -227,13 +227,13 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 #### The 2000 Act
 
-**24.**[^c18997531][^key-d2fb16e385e1908bdce42c79c1250120] The 2000 Act is amended as follows.
+**24.**[^c18997531][^c-d2fb16e385e1908bdce42c79c1250120] The 2000 Act is amended as follows.
 
-**25.**[^c19009731][^key-d2fb16e385e1908bdce42c79c1250120] In section 65 (submission of donation reports to Commission), after subsection (2) insert—
+**25.**[^c19009731][^c-d2fb16e385e1908bdce42c79c1250120] In section 65 (submission of donation reports to Commission), after subsection (2) insert—
 
 > (2A) If a donation report under section 62 or 63 states that the registered party has seen evidence of such description as is prescribed by the Secretary of State in regulations that an individual donor has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), the report must be accompanied by a copy of the evidence.
 
-**26.**[^c19009771][^key-d2fb16e385e1908bdce42c79c1250120] In paragraph 2 of Schedule 6 (details to be given in donation reports) after sub-paragraph (3A) insert—
+**26.**[^c19009771][^c-d2fb16e385e1908bdce42c79c1250120] In paragraph 2 of Schedule 6 (details to be given in donation reports) after sub-paragraph (3A) insert—
 
 > (3B) Sub-paragraph (2) applies in the case of a donation by a person who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), as if for paragraphs (a) and (b) there were substituted “ state that the registered party has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) ”.
 >
@@ -250,7 +250,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 > >
 > >   an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983).
 
-**27.**[^c19009781][^key-d2fb16e385e1908bdce42c79c1250120] The existing text of paragraph 3 of that Schedule becomes sub-paragraph (1) and after sub-paragraph (1) insert—
+**27.**[^c19009781][^c-d2fb16e385e1908bdce42c79c1250120] The existing text of paragraph 3 of that Schedule becomes sub-paragraph (1) and after sub-paragraph (1) insert—
 
 > (2) In the case of a donation by a person who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), instead of giving details of the address of the donor the party must state that it has seen evidence of such description as is prescribed by the Secretary of State in regulations that the person has such an entry.
 >
@@ -261,15 +261,15 @@ Sections 10, 11, 18, 20, 47, 61, 74
 >
 > had such an entry, instead of giving details of the address of the donor, the party must state that it has seen evidence of such description as is prescribed by the Secretary of State in regulations that the person had, at that time, such an entry.
 
-**28.**[^c19009791][^key-d2fb16e385e1908bdce42c79c1250120] In Schedule 7 (control of donations to individuals and members associations), in paragraph 10, after sub-paragraph (4) insert—
+**28.**[^c19009791][^c-d2fb16e385e1908bdce42c79c1250120] In Schedule 7 (control of donations to individuals and members associations), in paragraph 10, after sub-paragraph (4) insert—
 
 > (4A) In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983), if the report states that the donee has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the report must be accompanied by a copy of the evidence.
 
-**29.**[^c19009821][^key-d2fb16e385e1908bdce42c79c1250120] In Schedule 11 (control of donations to recognised third parties), in paragraph 10, after sub-paragraph (3) insert—
+**29.**[^c19009821][^c-d2fb16e385e1908bdce42c79c1250120] In Schedule 11 (control of donations to recognised third parties), in paragraph 10, after sub-paragraph (3) insert—
 
 > (4) In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) if the statement states that the recognised third party has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the statement must be accompanied by a copy of the evidence.
 
-**30.**[^c19009841][^key-d2fb16e385e1908bdce42c79c1250120] In Schedule 15 (control of donations to permitted participants), in paragraph 10, after sub-paragraph (3) insert—
+**30.**[^c19009841][^c-d2fb16e385e1908bdce42c79c1250120] In Schedule 15 (control of donations to permitted participants), in paragraph 10, after sub-paragraph (3) insert—
 
 > (4) In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) if the statement states that the permitted participant has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the statement must be accompanied by a copy of the evidence.
 
@@ -323,7 +323,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 #### European Parliament
 
-**41.**[^key-03575c151c45164f9b13c0e15cc0a5cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-03575c151c45164f9b13c0e15cc0a5cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Greater London Authority
 
@@ -843,7 +843,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 >
 > Schedule 7A, which makes provisions for controlling loans and certain other transactions to individual members of registered parties, associations of such members, and certain elected office holders, shall have effect.
 
-**99.**[^c18922631][^key-ad46536e4270a8110343b3f68d2d63e7] After Schedule 7 insert—
+**99.**[^c18922631][^c-ad46536e4270a8110343b3f68d2d63e7] After Schedule 7 insert—
 
 > **SCHEDULE 7A — Control of loans etc to individuals and members associations**
 >
@@ -1341,7 +1341,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 (2) For subsections (3) to (6) substitute—
 
-> (3) Subject to section 29A,[^key-4d0f1aec2e5e28ca0d2bcf5aa8b85949] a returning officer shall be entitled to recover his charges in respect of services rendered, or expenses incurred, for or in connection with a parliamentary election if—
+> (3) Subject to section 29A,[^c-4d0f1aec2e5e28ca0d2bcf5aa8b85949] a returning officer shall be entitled to recover his charges in respect of services rendered, or expenses incurred, for or in connection with a parliamentary election if—
 >
 > - (a) the services were necessarily rendered, or the expenses were necessarily incurred, for the efficient and effective conduct of the election; and
 > - (b) the total of his charges does not exceed the amount (“**the overall maximum recoverable amount**”) specified in, or determined in accordance with, regulations made by the Commission, with the consent of the Treasury, for the purposes of this subsection.
@@ -1746,7 +1746,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 #### European Parliament (Representation) Act 2003 (c. 7)
 
-**156.**[^key-c0cea9157546a04ec68498cd7c95e32f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**156.**[^c-c0cea9157546a04ec68498cd7c95e32f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -1754,21 +1754,21 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 [^c18997001]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/2) wholly in force at 1.1.2007, see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
-[^key-09b0d6df9afa96fc42f7bb7f4346c979]: Modification: [Sch. 1 paras. 2-16](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/2) extended (N.I.) (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2/a)
+[^c-09b0d6df9afa96fc42f7bb7f4346c979]: Modification: [Sch. 1 paras. 2-16](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/2) extended (N.I.) (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2/a)
 
 [^c18997011]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/3) wholly in force at 1.1.2007, see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
 [^c18997021]: Commencement: Sch. 1 para. 4 wholly in force at 1.1.2007, see s. 77 and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
-[^key-a6428dd6da6a94f5b15a177c72397e67]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/4/2) omitted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/23) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
+[^c-a6428dd6da6a94f5b15a177c72397e67]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/4/2) omitted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/23) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/l)
 
-[^key-2f169c98d98cb0ce5bdb0ac276ce3a8e]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/5) omitted (10.6.2014 for E.W., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/23) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m)
+[^c-2f169c98d98cb0ce5bdb0ac276ce3a8e]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/5) omitted (10.6.2014 for E.W., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/23) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m)
 
 [^c18997051]: Commencement: Sch. 1 para. 5 wholly in force at 1.1.2007, see s. 77 and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
 [^c18997061]: Commencement: Sch. 1 para. 6 wholly in force at 1.1.2007, see s. 77 and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
-[^key-b64f904f74cbb4ccb5cbdd8e48e5f26c]: Textual amendment: [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/6/2) omitted (10.6.2014 for E.W., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/23) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m)
+[^c-b64f904f74cbb4ccb5cbdd8e48e5f26c]: Textual amendment: [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/6/2) omitted (10.6.2014 for E.W., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4/paragraph/23) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m)
 
 [^c18997071]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/7) wholly in force at 1.1.2007, see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
@@ -1790,7 +1790,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 [^c18997171]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/16) wholly in force at 1.1.2007, see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
-[^key-ceb38131ed0f07d08080a195939c3b5e]: Textual amendment: Sch. 1 para. 17 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-ceb38131ed0f07d08080a195939c3b5e]: Textual amendment: Sch. 1 para. 17 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c18997271]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/18) wholly in force at 1.1.2007, see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
@@ -1806,7 +1806,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 [^c18997531]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/24) wholly in force at 1.1.2007, see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
-[^key-d2fb16e385e1908bdce42c79c1250120]: Modification: [Sch. 1 paras. 24-30](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/24) extended (N.I.) (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2/c)
+[^c-d2fb16e385e1908bdce42c79c1250120]: Modification: [Sch. 1 paras. 24-30](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/24) extended (N.I.) (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2/c)
 
 [^c19009731]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/25) wholly in force at 1.1.2007, see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
@@ -1840,7 +1840,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 [^c19010051]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/40) wholly in force at 1.1.2007, see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) and [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/b) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 
-[^key-03575c151c45164f9b13c0e15cc0a5cb]: Textual amendment: Sch. 1 para. 41 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-03575c151c45164f9b13c0e15cc0a5cb]: Textual amendment: Sch. 1 para. 41 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c18912701]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/42) wholly in force at 1.7.2008; [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/42) not in force at Royal Assent see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/42) in force for E.W.S. at 1.1.2007 by [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14) (bb)(i) (subject to Sch. 2); [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/42) in force for N.I. at 1.7.2008 by [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/2), [4(z)(i)](https://www.legislation.gov.uk/uksi/2008/1316/article/4/z/i)
 
@@ -1922,7 +1922,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 [^c18922631]: Commencement: [Sch. 1 para. 99](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/99) partly in force; [Sch. 1 para. 99](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/99) not in force at Royal Assent see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [Sch. 1 para. 99](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/99) in force for E.W.S. for certain purposes at 11.9.2006 by [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 25(m)](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/25/m) (as amended by [S.I. 2006/2268](https://www.legislation.gov.uk/uksi/2006/2268), [art. 3](https://www.legislation.gov.uk/uksi/2006/2268/article/3)) (subject to art. 4, Sch. 2 of [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972)); [Sch. 1 para. 99](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/99) in force for N.I. for certain purposes at 1.7.2008 by [S.I. 2008/1656](https://www.legislation.gov.uk/uksi/2008/1656), [art. 2(1)(2)(d)(i)](https://www.legislation.gov.uk/uksi/2008/1656/article/2/1/2/d/i) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2008/1656/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1656/schedule)); [Sch. 1 para. 99](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/99) in force for certain purposes at 1.7.2009 by [S.I. 2009/1509](https://www.legislation.gov.uk/uksi/2009/1509), [art. 2](https://www.legislation.gov.uk/uksi/2009/1509/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/1509/article/3))
 
-[^key-ad46536e4270a8110343b3f68d2d63e7]: Commencement: [Sch. 1 para. 99](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/99) in force at 4.5.2016 for specified purposes by [S.I. 2016/551](https://www.legislation.gov.uk/uksi/2016/551), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/551/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/551/article/3))
+[^c-ad46536e4270a8110343b3f68d2d63e7]: Commencement: [Sch. 1 para. 99](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/99) in force at 4.5.2016 for specified purposes by [S.I. 2016/551](https://www.legislation.gov.uk/uksi/2016/551), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/551/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/551/article/3))
 
 [^c18922661]: Commencement: [Sch. 1 para. 100](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/100) partly in force; [Sch. 1 para. 100](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/100) not in force at Royal Assent see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [Sch. 1 para. 100](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/100) in force for E.W.S. for certain purposes at 11.9.2006 by [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 25(m)](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/25/m) (as amended by [S.I. 2006/2268](https://www.legislation.gov.uk/uksi/2006/2268), [art. 3](https://www.legislation.gov.uk/uksi/2006/2268/article/3)) (subject to art. 4, Sch. 2 of [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972)); [Sch. 1 para. 100](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/100) in force for N.I. at 1.7.2008 by [S.I. 2008/1656](https://www.legislation.gov.uk/uksi/2008/1656), [art. 2(1)(2)(d)(i)](https://www.legislation.gov.uk/uksi/2008/1656/article/2/1/2/d/i) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2008/1656/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1656/schedule))
 
@@ -1938,7 +1938,7 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 [^c18914011]: Commencement: [Sch. 1 para. 106](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/106) wholly in force at 1.7.2008; [Sch. 1 para. 106](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/106) not in force at Royal Assent see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [Sch. 1 para. 106](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/106) in force for E.W.S. at 1.1.2007 by [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14) (bb)(v) (subject to Sch. 2); [Sch. 1 para. 106](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/106) in force for N.I. at 1.7.2008 by [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/2), [4(z)(v)](https://www.legislation.gov.uk/uksi/2008/1316/article/4/z/v)
 
-[^key-4d0f1aec2e5e28ca0d2bcf5aa8b85949]: Textual amendment: Words in Sch. 1 para. 107(2) inserted (6.4.2014) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2013/6/section/18/3), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/414/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
+[^c-4d0f1aec2e5e28ca0d2bcf5aa8b85949]: Textual amendment: Words in Sch. 1 para. 107(2) inserted (6.4.2014) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2013/6/section/18/3), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/414/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
 
 [^c18914021]: Commencement: [Sch. 1 para. 108](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/108) wholly in force at 1.7.2008; [Sch. 1 para. 108](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/108) not in force at Royal Assent see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [Sch. 1 para. 108](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/108) in force for E.W.S. at 1.1.2007 by [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14) (bb)(v) (subject to Sch. 2); [Sch. 1 para. 108](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/108) in force for N.I. at 1.7.2008 by [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/2), [4(z)(v)](https://www.legislation.gov.uk/uksi/2008/1316/article/4/z/v)
 
@@ -2032,4 +2032,4 @@ Sections 10, 11, 18, 20, 47, 61, 74
 
 [^c18920491]: Commencement: [Sch. 1 para. 155](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/155) wholly in force at 11.9.2006, see [s. 77(2)-(4)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2) and [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 25(k)](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/25/k) (subject to transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2))
 
-[^key-c0cea9157546a04ec68498cd7c95e32f]: Textual amendment: Sch. 1 para. 156 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-c0cea9157546a04ec68498cd7c95e32f]: Textual amendment: Sch. 1 para. 156 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

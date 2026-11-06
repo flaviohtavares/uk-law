@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. The right.[^key-df82f4e995b76c17ef32ad22071d4d46][^key-5029e2710648fc95461a0688ac07e40d]
+## 135. The right.[^c-df82f4e995b76c17ef32ad22071d4d46][^c-5029e2710648fc95461a0688ac07e40d]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df82f4e995b76c17ef32ad22071d4d46]: Modification: S. 135 modified by SI 2006/246 reg. 7(3)(b) (as substituted (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/2)))
+[^c-df82f4e995b76c17ef32ad22071d4d46]: Modification: S. 135 modified by SI 2006/246 reg. 7(3)(b) (as substituted (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/2)))
 
-[^key-5029e2710648fc95461a0688ac07e40d]: Modification: S. 135 modified (E.) (1.11.2017) by [The NHS Counter Fraud Authority (Establishment, Constitution, and Staff and Other Transfer Provisions) Order 2017 (S.I. 2017/958)](https://www.legislation.gov.uk/uksi/2017/958), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1), [8(12)](https://www.legislation.gov.uk/uksi/2017/958/article/8/12) (with [arts. 4(5)](https://www.legislation.gov.uk/uksi/2017/958/article/4/5), [7(2)](https://www.legislation.gov.uk/uksi/2017/958/article/7/2), [8(13)-(15)](https://www.legislation.gov.uk/uksi/2017/958/article/8/13), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/958/schedule/3/paragraph/6))
+[^c-5029e2710648fc95461a0688ac07e40d]: Modification: S. 135 modified (E.) (1.11.2017) by [The NHS Counter Fraud Authority (Establishment, Constitution, and Staff and Other Transfer Provisions) Order 2017 (S.I. 2017/958)](https://www.legislation.gov.uk/uksi/2017/958), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1), [8(12)](https://www.legislation.gov.uk/uksi/2017/958/article/8/12) (with [arts. 4(5)](https://www.legislation.gov.uk/uksi/2017/958/article/4/5), [7(2)](https://www.legislation.gov.uk/uksi/2017/958/article/7/2), [8(13)-(15)](https://www.legislation.gov.uk/uksi/2017/958/article/8/13), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/958/schedule/3/paragraph/6))

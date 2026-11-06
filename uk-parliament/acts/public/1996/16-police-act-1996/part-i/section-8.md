@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Local policing plans.[^key-4ea6475bbc427d7aeb65ebc7ed7c80c5]
+## 8. Local policing plans.[^c-4ea6475bbc427d7aeb65ebc7ed7c80c5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ea6475bbc427d7aeb65ebc7ed7c80c5]: Textual amendment: S. 8 repealed (14.3.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/10), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/311/article/2/b)
+[^c-4ea6475bbc427d7aeb65ebc7ed7c80c5]: Textual amendment: S. 8 repealed (14.3.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/10), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/311/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX III — Information to be submitted with requests for opening an account (Article 13)[^key-cb878ddb3fef0481574ee59a2206ed9c]
+## ANNEX III — Information to be submitted with requests for opening an account (Article 13)[^c-cb878ddb3fef0481574ee59a2206ed9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ The information set out in Table III-I.
 </tbody>
 </table>
 
-[^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-d8b6b881bded0d7442d17bd9cc738ca8][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-ffde8c49e53844becc7e3da1deb04a50][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-ffde8c49e53844becc7e3da1deb04a50][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b][^key-b6201dee3daa5fb323c28f2f0a4efd9b]
+[^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-d8b6b881bded0d7442d17bd9cc738ca8][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-ffde8c49e53844becc7e3da1deb04a50][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-ffde8c49e53844becc7e3da1deb04a50][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b][^c-b6201dee3daa5fb323c28f2f0a4efd9b]
 
 2\.
 
@@ -68,10 +68,10 @@ The account identifier shall be unique within the registry system.
 
 ## Annotations
 
-[^key-cb878ddb3fef0481574ee59a2206ed9c]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2013/389/annex/III) heading substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/3/a)
+[^c-cb878ddb3fef0481574ee59a2206ed9c]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2013/389/annex/III) heading substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/3/a)
 
-[^key-b6201dee3daa5fb323c28f2f0a4efd9b]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2013/389/annex/III) Table 3-1 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/3/b/iii)
+[^c-b6201dee3daa5fb323c28f2f0a4efd9b]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2013/389/annex/III) Table 3-1 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/3/b/iii)
 
-[^key-d8b6b881bded0d7442d17bd9cc738ca8]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2013/389/annex/III) Table 3-1 substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/3/b/i)
+[^c-d8b6b881bded0d7442d17bd9cc738ca8]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eur/2013/389/annex/III) Table 3-1 substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/3/b/i)
 
-[^key-ffde8c49e53844becc7e3da1deb04a50]: Textual amendment: Word in [Annex 3](https://www.legislation.gov.uk/eur/2013/389/annex/III) Table 3-1 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/3/b/ii)
+[^c-ffde8c49e53844becc7e3da1deb04a50]: Textual amendment: Word in [Annex 3](https://www.legislation.gov.uk/eur/2013/389/annex/III) Table 3-1 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/3/b/ii)

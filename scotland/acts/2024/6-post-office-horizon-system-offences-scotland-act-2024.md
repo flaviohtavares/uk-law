@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Quashing of convictions
 
-### 1. Quashing of convictions for relevant offences[^key-1e51c4bd0aa3900e66afd73a3b548f7a]
+### 1. Quashing of convictions for relevant offences[^c-1e51c4bd0aa3900e66afd73a3b548f7a]
 
 (1) Every conviction to which this Act applies is quashed on the coming into force of this Act.
 
@@ -45,7 +45,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) is for a relevant offence, and
 - (b) took place before the coming into force of this Act.
 
-### 2. Meaning of “relevant offence”[^key-4df0e62b78b78830c263506f99d6066d]
+### 2. Meaning of “relevant offence”[^c-4df0e62b78b78830c263506f99d6066d]
 
 (1) For the purposes of this Act, an offence alleged to have been committed by a person is a “relevant offence” if conditions A to E are met.
 
@@ -80,7 +80,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) an offence of inciting a person to commit a specified offence, or
 - (c) an offence of aiding, abetting, counselling or procuring the commission of a specified offence.
 
-### 3. Identification and notification of quashed convictions[^key-5ea0fe28ce2c1421103d1d070388b9cf]
+### 3. Identification and notification of quashed convictions[^c-5ea0fe28ce2c1421103d1d070388b9cf]
 
 (1) The Scottish Ministers must take all reasonable steps to identify the convictions quashed by section 1(1).
 
@@ -101,7 +101,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Deletion of details of alternatives to prosecution
 
-### 4. Deletion of details of alternatives to prosecution for relevant offences[^key-0792b5a21d012e3bc963c98326a8b9a4]
+### 4. Deletion of details of alternatives to prosecution for relevant offences[^c-0792b5a21d012e3bc963c98326a8b9a4]
 
 (1) If it appears to the Scottish Ministers that an alternative to prosecution has, before the coming into force of this Act, been given to a person for a relevant offence, the Scottish Ministers must direct the chief constable of the Police Service of Scotland to delete the details, contained in the criminal history database, of the alternative to prosecution.
 
@@ -129,7 +129,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Information-sharing
 
-### 5. Provision of information[^key-44a9a02959de8b372f5d40a8e60e41d3]
+### 5. Provision of information[^c-44a9a02959de8b372f5d40a8e60e41d3]
 
 The Scottish Ministers may, by notice in writing, require a person to provide them with information which—
 
@@ -138,7 +138,7 @@ The Scottish Ministers may, by notice in writing, require a person to provide th
 
 ## Reporting
 
-### 6. Report on the operation of the Act[^key-ad5cb8ccf69cf5093ebb08b178d681e7]
+### 6. Report on the operation of the Act[^c-ad5cb8ccf69cf5093ebb08b178d681e7]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of the period of one year beginning with the day after Royal Assent—
 
@@ -156,13 +156,13 @@ The Scottish Ministers may, by notice in writing, require a person to provide th
 
 ## Final provisions
 
-### 7. Consequential provision[^key-357426e32e2eca84a454b4689d3bf6fa]
+### 7. Consequential provision[^c-357426e32e2eca84a454b4689d3bf6fa]
 
 (1) Except as otherwise provided by section 3, a person whose conviction is quashed by section 1(1) is to be treated as if, on the coming into force of this Act, the conviction had been quashed by the High Court on an appeal by the convicted person.
 
 (2) In section 133 of the Criminal Justice Act 1988 (compensation for miscarriages of justice), the reference in subsection (5) to a conviction having been quashed (or set aside) on an appeal out of time includes a reference to a conviction having been quashed by section 1(1).
 
-### 8. Ancillary provision[^key-191ed3d444e91b30cdefac5778f197cc]
+### 8. Ancillary provision[^c-191ed3d444e91b30cdefac5778f197cc]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -176,7 +176,7 @@ The Scottish Ministers may, by notice in writing, require a person to provide th
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise are subject to the negative procedure.
 
-### 9. Interpretation[^key-13a0f3942a4b7aca486b12c9ccdd0509]
+### 9. Interpretation[^c-13a0f3942a4b7aca486b12c9ccdd0509]
 
 (1) In this Act—
 
@@ -197,34 +197,34 @@ The Scottish Ministers may, by notice in writing, require a person to provide th
 
 (2) Nothing in this Act affects any power of a court to quash a conviction to which this Act does not apply.
 
-### 10. Commencement[^key-c1a48a52e856cff5694b5d357d5a56aa]
+### 10. Commencement[^c-c1a48a52e856cff5694b5d357d5a56aa]
 
 This Act comes into force on the day after Royal Assent.
 
-### 11. Short title[^key-b78e496ec6df1e9d8f81e2e803e07951]
+### 11. Short title[^c-b78e496ec6df1e9d8f81e2e803e07951]
 
 The short title of this Act is the Post Office (Horizon System) Offences (Scotland) Act 2024.
 
 ## Annotations
 
-[^key-1e51c4bd0aa3900e66afd73a3b548f7a]: Commencement: S. 1 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-1e51c4bd0aa3900e66afd73a3b548f7a]: Commencement: S. 1 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-4df0e62b78b78830c263506f99d6066d]: Commencement: S. 2 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-4df0e62b78b78830c263506f99d6066d]: Commencement: S. 2 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-5ea0fe28ce2c1421103d1d070388b9cf]: Commencement: S. 3 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-5ea0fe28ce2c1421103d1d070388b9cf]: Commencement: S. 3 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-0792b5a21d012e3bc963c98326a8b9a4]: Commencement: S. 4 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-0792b5a21d012e3bc963c98326a8b9a4]: Commencement: S. 4 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-44a9a02959de8b372f5d40a8e60e41d3]: Commencement: S. 5 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-44a9a02959de8b372f5d40a8e60e41d3]: Commencement: S. 5 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-ad5cb8ccf69cf5093ebb08b178d681e7]: Commencement: S. 6 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-ad5cb8ccf69cf5093ebb08b178d681e7]: Commencement: S. 6 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-357426e32e2eca84a454b4689d3bf6fa]: Commencement: S. 7 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-357426e32e2eca84a454b4689d3bf6fa]: Commencement: S. 7 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-191ed3d444e91b30cdefac5778f197cc]: Commencement: S. 8 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-191ed3d444e91b30cdefac5778f197cc]: Commencement: S. 8 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-13a0f3942a4b7aca486b12c9ccdd0509]: Commencement: S. 9 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-13a0f3942a4b7aca486b12c9ccdd0509]: Commencement: S. 9 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-c1a48a52e856cff5694b5d357d5a56aa]: Commencement: S. 10 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-c1a48a52e856cff5694b5d357d5a56aa]: Commencement: S. 10 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
 
-[^key-b78e496ec6df1e9d8f81e2e803e07951]: Commencement: S. 11 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)
+[^c-b78e496ec6df1e9d8f81e2e803e07951]: Commencement: S. 11 in force at 14.6.2024, see [s. 10](https://www.legislation.gov.uk/asp/2024/6/section/10)

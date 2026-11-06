@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Fuel poverty targets
 
-### 1. The 2040 targets[^key-3ea9a1d9fdebdeae9d7ee984b73a98ea]
+### 1. The 2040 targets[^c-3ea9a1d9fdebdeae9d7ee984b73a98ea]
 
 (1) This section makes provision for the 2040 fuel poverty targets.
 
@@ -56,7 +56,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) the reporting date specified in section 12(1) or, as the case may be, section 13(1),
 - (c) the years specified in section 13(2)(b).
 
-### 2. The interim targets[^key-ebd4f1193513ea61316cf40eec918ddb]
+### 2. The interim targets[^c-ebd4f1193513ea61316cf40eec918ddb]
 
 (1) This section makes provision for a number of interim fuel poverty targets.
 
@@ -72,7 +72,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) no more than 3% of households in Scotland are in extreme fuel poverty,
 - (c) the median fuel poverty gap of households in Scotland in fuel poverty is no more than £300 adjusted in accordance with section 5(5) to take account of changes in the value of money.
 
-### 3. Meaning of fuel poverty[^key-d318fceefa0a3cb36db0dd036ae22ab0]
+### 3. Meaning of fuel poverty[^c-d318fceefa0a3cb36db0dd036ae22ab0]
 
 (1) A household is in fuel poverty if—
 
@@ -157,7 +157,7 @@ are appropriate.
   - (i) the income tax payable on that income, and
   - (ii) the national insurance contributions for which those adults are liable under Part 1 of the Social Security Contributions and Benefits Act 1992.
 
-### 4. Meaning of extreme fuel poverty[^key-3f3e2cdd7eec34ac79fbdf769c368bc3]
+### 4. Meaning of extreme fuel poverty[^c-3f3e2cdd7eec34ac79fbdf769c368bc3]
 
 (1) A household is in extreme fuel poverty if—
 
@@ -166,7 +166,7 @@ are appropriate.
 
 (2) Subsections (2) to (10) of section 3 apply in relation to the definition of extreme fuel poverty under this section as they apply in relation to the definition of fuel poverty under that section.
 
-### 5. Meaning of fuel poverty gap[^key-2a3fc2d2126cb25ec109b7b8545413c1]
+### 5. Meaning of fuel poverty gap[^c-2a3fc2d2126cb25ec109b7b8545413c1]
 
 (1) Where a household is in fuel poverty, the fuel poverty gap is the figure calculated in accordance with subsection (2) or the figure calculated in accordance with subsection (3), whichever is the lower.
 
@@ -193,7 +193,7 @@ are appropriate.
 
 ## Fuel poverty strategy
 
-### 6. Preparation and review of strategy[^key-6cdd49dd9778548f8a54427481830630]
+### 6. Preparation and review of strategy[^c-6cdd49dd9778548f8a54427481830630]
 
 (1) The Scottish Ministers must prepare a fuel poverty strategy.
 
@@ -233,33 +233,33 @@ are appropriate.
 
 ### 7. Consultation on strategy
 
-(1)[^key-3727106b98aa3f5f4079c0f4189d6ecd] In preparing or reviewing[^key-952dbf53af4942b86541bdf33c10b8d4] the fuel poverty strategy, the Scottish Ministers must consult such persons as they consider appropriate.
+(1)[^c-3727106b98aa3f5f4079c0f4189d6ecd] In preparing or reviewing[^c-952dbf53af4942b86541bdf33c10b8d4] the fuel poverty strategy, the Scottish Ministers must consult such persons as they consider appropriate.
 
 (2) The persons consulted under subsection (1) must include—
 
-- (a)[^key-3727106b98aa3f5f4079c0f4189d6ecd] individuals who are living, or have lived, in fuel poverty,
-- (b)[^key-3727106b98aa3f5f4079c0f4189d6ecd] local authorities,
-- (c)[^key-3727106b98aa3f5f4079c0f4189d6ecd] disabled people,
-- (d)[^key-3727106b98aa3f5f4079c0f4189d6ecd] people with long-term illness,
-- (e)[^key-3727106b98aa3f5f4079c0f4189d6ecd] older people,
-- (f)[^key-3727106b98aa3f5f4079c0f4189d6ecd] individuals living in rural areas, and
-- (g)[^key-cc5b2094723ae71b6da8874fc77d0563] the Scottish Fuel Poverty Advisory Panel.
+- (a)[^c-3727106b98aa3f5f4079c0f4189d6ecd] individuals who are living, or have lived, in fuel poverty,
+- (b)[^c-3727106b98aa3f5f4079c0f4189d6ecd] local authorities,
+- (c)[^c-3727106b98aa3f5f4079c0f4189d6ecd] disabled people,
+- (d)[^c-3727106b98aa3f5f4079c0f4189d6ecd] people with long-term illness,
+- (e)[^c-3727106b98aa3f5f4079c0f4189d6ecd] older people,
+- (f)[^c-3727106b98aa3f5f4079c0f4189d6ecd] individuals living in rural areas, and
+- (g)[^c-cc5b2094723ae71b6da8874fc77d0563] the Scottish Fuel Poverty Advisory Panel.
 
-(3)[^key-3727106b98aa3f5f4079c0f4189d6ecd] For the purpose of subsection (1), it is immaterial that anything done by way of consultation was done—
+(3)[^c-3727106b98aa3f5f4079c0f4189d6ecd] For the purpose of subsection (1), it is immaterial that anything done by way of consultation was done—
 
 - (a) before the Bill for this Act was passed, or
 - (b) after that but before this section comes into force.
 
-(3A)[^key-a6d3fcad79833dbcd3b30ef38acbb78b] For the purpose of subsection (2), the duty to consult the persons mentioned in paragraph (a), (c), (d), (e) or (f) may be met by consulting persons who appear to the Scottish Ministers to represent the interests of the persons mentioned in any of those paragraphs.
+(3A)[^c-a6d3fcad79833dbcd3b30ef38acbb78b] For the purpose of subsection (2), the duty to consult the persons mentioned in paragraph (a), (c), (d), (e) or (f) may be met by consulting persons who appear to the Scottish Ministers to represent the interests of the persons mentioned in any of those paragraphs.
 
-(4)[^key-3727106b98aa3f5f4079c0f4189d6ecd] The Scottish Ministers must lay the proposed fuel poverty strategy before the Scottish Parliament—
+(4)[^c-3727106b98aa3f5f4079c0f4189d6ecd] The Scottish Ministers must lay the proposed fuel poverty strategy before the Scottish Parliament—
 
 - (a) in the case of the first strategy, before the expiry of the period of 1 year beginning with the day on which section 6 comes into force,
 - (b) in the case of a revised strategy, following a review under section 6(5).
 
-(5)[^key-3727106b98aa3f5f4079c0f4189d6ecd] The Scottish Ministers may not complete their preparation of the fuel poverty strategy until after the expiry of the period of 40 days beginning with the day on which the proposed strategy is laid before the Scottish Parliament (taking no account of any time during which the Parliament is dissolved or in recess for more than 4 days).
+(5)[^c-3727106b98aa3f5f4079c0f4189d6ecd] The Scottish Ministers may not complete their preparation of the fuel poverty strategy until after the expiry of the period of 40 days beginning with the day on which the proposed strategy is laid before the Scottish Parliament (taking no account of any time during which the Parliament is dissolved or in recess for more than 4 days).
 
-### 8. Publication and laying of strategy[^key-68fa857cb0f72d03da1cec98b79ebcd5]
+### 8. Publication and laying of strategy[^c-68fa857cb0f72d03da1cec98b79ebcd5]
 
 (1) As soon as reasonably practicable after the end of the period mentioned in section 7(5), the Scottish Ministers must—
 
@@ -276,7 +276,7 @@ are appropriate.
 
 ## Reporting on fuel poverty
 
-### 9. Preparation of periodic reports[^key-509c086cb7359dcda022c2af0f30e1a7]
+### 9. Preparation of periodic reports[^c-509c086cb7359dcda022c2af0f30e1a7]
 
 (1) The Scottish Ministers must, for each reporting period, prepare a report setting out—
 
@@ -308,30 +308,30 @@ are appropriate.
 
 (7) For the purpose of subsection (1), “**four drivers of fuel poverty**” has the same meaning as in section 14(10).
 
-### 10. Consultation on periodic reports[^key-1ba9fa3828c67d266430fc70ef9d3915]
+### 10. Consultation on periodic reports[^c-1ba9fa3828c67d266430fc70ef9d3915]
 
 (1) In preparing a report under section 9, the Scottish Ministers must consult such persons as they consider appropriate.
 
 (2) The persons consulted under subsection (1) must include—
 
-- (a)[^key-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-2d4e9bb46cd4efbd3f8c8790188cf899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the Scottish Fuel Poverty Advisory Panel.
 
-### 11. Publication and laying of periodic reports[^key-9245722878ac3d5549db168e2e346c88]
+### 11. Publication and laying of periodic reports[^c-9245722878ac3d5549db168e2e346c88]
 
 The Scottish Ministers must—
 
 - (a) publish each report prepared under section 9, and
 - (b) lay a copy of it before the Scottish Parliament,
 
-within the period of 6 months beginning with the day after[^key-572ab25a7a94e04a60c86310064b281c] the reporting period ends.
+within the period of 6 months beginning with the day after[^c-572ab25a7a94e04a60c86310064b281c] the reporting period ends.
 
-### 12. Report on the 2040 target[^key-5944411aeb57ef9b43e21d95531ee03a]
+### 12. Report on the 2040 target[^c-5944411aeb57ef9b43e21d95531ee03a]
 
 (1) The Scottish Ministers must, no later than 31 March 2042, lay before the Scottish Parliament a report on the 2040 target.
 
@@ -342,7 +342,7 @@ within the period of 6 months beginning with the day after[^key-572ab25a7a94e04a
 
 (3) The report may contain such other information as the Scottish Ministers consider appropriate.
 
-### 13. Report on the 2040 target in relation to each local authority area[^key-cb83a93eb8e8ceba415fde8334b89391]
+### 13. Report on the 2040 target in relation to each local authority area[^c-cb83a93eb8e8ceba415fde8334b89391]
 
 (1) The Scottish Ministers must, no later than 31 December 2043, lay before the Scottish Parliament a report on the 2040 target in relation to each local authority area in Scotland.
 
@@ -355,7 +355,7 @@ within the period of 6 months beginning with the day after[^key-572ab25a7a94e04a
 
 ## Independent advisory panel
 
-### 14. Scottish Fuel Poverty Advisory Panel[^key-3ae9dbafa3315f997d3d0d1d08f7b6da]
+### 14. Scottish Fuel Poverty Advisory Panel[^c-3ae9dbafa3315f997d3d0d1d08f7b6da]
 
 (1) The Scottish Fuel Poverty Advisory Panel is established.
 
@@ -403,23 +403,23 @@ within the period of 6 months beginning with the day after[^key-572ab25a7a94e04a
 
 (11) For the purpose of subsection (10), “**adjusted**”, “**household**” and “**net income**” have the same meanings as in section 3(10).
 
-### 15. Funding of the Scottish Fuel Poverty Advisory Panel[^key-2c151250851dd6a0260fc361e8d7e19f]
+### 15. Funding of the Scottish Fuel Poverty Advisory Panel[^c-2c151250851dd6a0260fc361e8d7e19f]
 
-(1) [^key-6a6f3864c584474a76fdc8e7c2fbf692]... The Scottish Ministers must provide such financial resources as they consider necessary to support the operation of the Scottish Fuel Poverty Advisory Panel.
+(1) [^c-6a6f3864c584474a76fdc8e7c2fbf692]... The Scottish Ministers must provide such financial resources as they consider necessary to support the operation of the Scottish Fuel Poverty Advisory Panel.
 
-(2)[^key-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e2c0cb00c94ae21a56221dd4bb693556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## General
 
-### 16. Power to modify section 3[^key-c29f8a73ea6842b90d78bda75546e906]
+### 16. Power to modify section 3[^c-c29f8a73ea6842b90d78bda75546e906]
 
 The Scottish Ministers may by regulations amend section 3 so as to—
 
@@ -431,7 +431,7 @@ The Scottish Ministers may by regulations amend section 3 so as to—
 - (b) modify the definitions for the time being in subsection (10) of that section,
 - (c) make different provision as to when a household's remaining adjusted net income is sufficient, or is insufficient, to maintain an acceptable standard of living for members of the household.
 
-### 17. Regulation-making powers[^key-3563b401ae668d7ea602d40cb3e6df0e]
+### 17. Regulation-making powers[^c-3563b401ae668d7ea602d40cb3e6df0e]
 
 (1) Regulations under section 1(4), 3(4) or (6)(b), 5(7), 14(7)(a) or (b), 15(5) or 16—
 
@@ -451,9 +451,9 @@ The Scottish Ministers may by regulations amend section 3 so as to—
 
 ### 18. Consequential modifications
 
-(1)[^key-c4ba61e041f29fa0c6287ea7c1ae4058] The Housing (Scotland) Act 2001 is amended as follows.
+(1)[^c-c4ba61e041f29fa0c6287ea7c1ae4058] The Housing (Scotland) Act 2001 is amended as follows.
 
-(2)[^key-c4ba61e041f29fa0c6287ea7c1ae4058] Section 88 (statement on fuel poverty), together with the italic heading preceding it, is repealed.
+(2)[^c-c4ba61e041f29fa0c6287ea7c1ae4058] Section 88 (statement on fuel poverty), together with the italic heading preceding it, is repealed.
 
 (3) In section 89 (local housing strategies), after subsection (11) insert—
 
@@ -489,52 +489,52 @@ The short title of this Act is the Fuel Poverty (Targets, Definition and Strateg
 
 ## Annotations
 
-[^key-3ea9a1d9fdebdeae9d7ee984b73a98ea]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/10/section/1) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-3ea9a1d9fdebdeae9d7ee984b73a98ea]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/10/section/1) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-ebd4f1193513ea61316cf40eec918ddb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/10/section/2) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-ebd4f1193513ea61316cf40eec918ddb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/10/section/2) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-d318fceefa0a3cb36db0dd036ae22ab0]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/10/section/3) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-d318fceefa0a3cb36db0dd036ae22ab0]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/10/section/3) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-3f3e2cdd7eec34ac79fbdf769c368bc3]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/10/section/4) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-3f3e2cdd7eec34ac79fbdf769c368bc3]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/10/section/4) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-2a3fc2d2126cb25ec109b7b8545413c1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/10/section/5) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-2a3fc2d2126cb25ec109b7b8545413c1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/10/section/5) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-6cdd49dd9778548f8a54427481830630]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/10/section/6) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-6cdd49dd9778548f8a54427481830630]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/10/section/6) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-3727106b98aa3f5f4079c0f4189d6ecd]: Commencement: S. 7(1)(2)(a)-(f)(3)-(5) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-3727106b98aa3f5f4079c0f4189d6ecd]: Commencement: S. 7(1)(2)(a)-(f)(3)-(5) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-952dbf53af4942b86541bdf33c10b8d4]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2019/10/section/7/1) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 71(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/71/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-952dbf53af4942b86541bdf33c10b8d4]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2019/10/section/7/1) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 71(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/71/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-cc5b2094723ae71b6da8874fc77d0563]: Commencement: [S. 7(2)(g)](https://www.legislation.gov.uk/asp/2019/10/section/7/2/g) in force at 11.10.2021 by [S.S.I. 2021/332](https://www.legislation.gov.uk/ssi/2021/332), [reg. 2](https://www.legislation.gov.uk/ssi/2021/332/regulation/2)
+[^c-cc5b2094723ae71b6da8874fc77d0563]: Commencement: [S. 7(2)(g)](https://www.legislation.gov.uk/asp/2019/10/section/7/2/g) in force at 11.10.2021 by [S.S.I. 2021/332](https://www.legislation.gov.uk/ssi/2021/332), [reg. 2](https://www.legislation.gov.uk/ssi/2021/332/regulation/2)
 
-[^key-a6d3fcad79833dbcd3b30ef38acbb78b]: Textual amendment: [S. 7(3A)](https://www.legislation.gov.uk/asp/2019/10/section/7/3A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 71(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/71/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-a6d3fcad79833dbcd3b30ef38acbb78b]: Textual amendment: [S. 7(3A)](https://www.legislation.gov.uk/asp/2019/10/section/7/3A) inserted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 71(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/71/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-68fa857cb0f72d03da1cec98b79ebcd5]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/10/section/8) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-68fa857cb0f72d03da1cec98b79ebcd5]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/10/section/8) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-509c086cb7359dcda022c2af0f30e1a7]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/10/section/9) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-509c086cb7359dcda022c2af0f30e1a7]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/10/section/9) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-1ba9fa3828c67d266430fc70ef9d3915]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/10/section/10) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-1ba9fa3828c67d266430fc70ef9d3915]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/10/section/10) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-2d4e9bb46cd4efbd3f8c8790188cf899]: Textual amendment: [S. 10(2)(a)-(f)](https://www.legislation.gov.uk/asp/2019/10/section/10/2/a) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 72(2)](https://www.legislation.gov.uk/asp/2025/13/section/72/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-2d4e9bb46cd4efbd3f8c8790188cf899]: Textual amendment: [S. 10(2)(a)-(f)](https://www.legislation.gov.uk/asp/2019/10/section/10/2/a) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 72(2)](https://www.legislation.gov.uk/asp/2025/13/section/72/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-9245722878ac3d5549db168e2e346c88]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/10/section/11) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-9245722878ac3d5549db168e2e346c88]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/10/section/11) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-572ab25a7a94e04a60c86310064b281c]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/asp/2019/10/section/11) substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 72(3)](https://www.legislation.gov.uk/asp/2025/13/section/72/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-572ab25a7a94e04a60c86310064b281c]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/asp/2019/10/section/11) substituted (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 72(3)](https://www.legislation.gov.uk/asp/2025/13/section/72/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-5944411aeb57ef9b43e21d95531ee03a]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/10/section/12) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-5944411aeb57ef9b43e21d95531ee03a]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/10/section/12) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-cb83a93eb8e8ceba415fde8334b89391]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/10/section/13) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-cb83a93eb8e8ceba415fde8334b89391]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/10/section/13) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-3ae9dbafa3315f997d3d0d1d08f7b6da]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/10/section/14) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-3ae9dbafa3315f997d3d0d1d08f7b6da]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/10/section/14) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-2c151250851dd6a0260fc361e8d7e19f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/10/section/15) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-2c151250851dd6a0260fc361e8d7e19f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/10/section/15) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-6a6f3864c584474a76fdc8e7c2fbf692]: Textual amendment: Words in [s. 15(1)](https://www.legislation.gov.uk/asp/2019/10/section/15/1) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 73(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/73/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-6a6f3864c584474a76fdc8e7c2fbf692]: Textual amendment: Words in [s. 15(1)](https://www.legislation.gov.uk/asp/2019/10/section/15/1) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 73(2)(a)](https://www.legislation.gov.uk/asp/2025/13/section/73/2/a), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-e2c0cb00c94ae21a56221dd4bb693556]: Textual amendment: [S. 15(2)-(6)](https://www.legislation.gov.uk/asp/2019/10/section/15/2) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 73(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/73/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-e2c0cb00c94ae21a56221dd4bb693556]: Textual amendment: [S. 15(2)-(6)](https://www.legislation.gov.uk/asp/2019/10/section/15/2) repealed (1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 73(2)(b)](https://www.legislation.gov.uk/asp/2025/13/section/73/2/b), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-c29f8a73ea6842b90d78bda75546e906]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/10/section/16) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-c29f8a73ea6842b90d78bda75546e906]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/10/section/16) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-3563b401ae668d7ea602d40cb3e6df0e]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/10/section/17) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-3563b401ae668d7ea602d40cb3e6df0e]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/10/section/17) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-c4ba61e041f29fa0c6287ea7c1ae4058]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asp/2019/10/section/18/1)[(2)](https://www.legislation.gov.uk/asp/2019/10/section/18/2) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-c4ba61e041f29fa0c6287ea7c1ae4058]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asp/2019/10/section/18/1)[(2)](https://www.legislation.gov.uk/asp/2019/10/section/18/2) in force at 19.9.2019 by [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)

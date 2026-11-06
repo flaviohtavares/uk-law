@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 47. Power under section 46: time limit[^key-774a3a7300c66a4c626a11896376627d]
+## 47. Power under section 46: time limit[^c-774a3a7300c66a4c626a11896376627d]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-774a3a7300c66a4c626a11896376627d]: Commencement: S. 47 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-774a3a7300c66a4c626a11896376627d]: Commencement: S. 47 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

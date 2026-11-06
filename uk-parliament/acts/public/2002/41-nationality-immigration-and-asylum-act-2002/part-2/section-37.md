@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) This section applies to a child if a person who provides education to residents of an accommodation centre recommends in writing to the local authority[^key-e28fcd7156debef79aeb714cff78a8b7] for the area in which the centre is that this section should apply to the child on the grounds that his special circumstances call for provision that can only or best be arranged by the authority.
+(1) This section applies to a child if a person who provides education to residents of an accommodation centre recommends in writing to the local authority[^c-e28fcd7156debef79aeb714cff78a8b7] for the area in which the centre is that this section should apply to the child on the grounds that his special circumstances call for provision that can only or best be arranged by the authority.
 
 (2) A local authority may—
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e28fcd7156debef79aeb714cff78a8b7]: Textual amendment: Words in s. 37 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 51(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/51/3)
+[^c-e28fcd7156debef79aeb714cff78a8b7]: Textual amendment: Words in s. 37 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 51(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/51/3)

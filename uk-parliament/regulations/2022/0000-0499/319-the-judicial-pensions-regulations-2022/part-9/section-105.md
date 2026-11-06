@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Rate of member contributions[^key-5946cf2c9d88710c14660b35e7e6f3ba]
+## 105. Rate of member contributions[^c-5946cf2c9d88710c14660b35e7e6f3ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5946cf2c9d88710c14660b35e7e6f3ba]: Commencement: Reg. 105 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-5946cf2c9d88710c14660b35e7e6f3ba]: Commencement: Reg. 105 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

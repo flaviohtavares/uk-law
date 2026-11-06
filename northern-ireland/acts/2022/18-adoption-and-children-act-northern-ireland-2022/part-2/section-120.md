@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 120. Ascertainment of children’s wishes[^key-40e653267e09e49ebb2f75cea5e7816e][^key-f10e3928a31cabbe01c6d3577cbb6332]
+## 120. Ascertainment of children’s wishes[^c-40e653267e09e49ebb2f75cea5e7816e][^c-f10e3928a31cabbe01c6d3577cbb6332]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-40e653267e09e49ebb2f75cea5e7816e]: Commencement: S. 120 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-40e653267e09e49ebb2f75cea5e7816e]: Commencement: S. 120 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-f10e3928a31cabbe01c6d3577cbb6332]: Commencement: [S. 120](https://www.legislation.gov.uk/nia/2022/18/section/120) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/c)
+[^c-f10e3928a31cabbe01c6d3577cbb6332]: Commencement: [S. 120](https://www.legislation.gov.uk/nia/2022/18/section/120) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/c)

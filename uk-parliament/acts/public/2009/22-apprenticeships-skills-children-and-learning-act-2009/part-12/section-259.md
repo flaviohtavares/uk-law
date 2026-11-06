@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259. Power to award foundation degrees: Wales[^key-c0c81571e561f526bcc87f12e856264a]
+## 259. Power to award foundation degrees: Wales[^c-c0c81571e561f526bcc87f12e856264a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0c81571e561f526bcc87f12e856264a]: Commencement: S. 259 in force at 1.10.2010 by [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2413/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2010/2413/article/3))
+[^c-c0c81571e561f526bcc87f12e856264a]: Commencement: S. 259 in force at 1.10.2010 by [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2413/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2010/2413/article/3))

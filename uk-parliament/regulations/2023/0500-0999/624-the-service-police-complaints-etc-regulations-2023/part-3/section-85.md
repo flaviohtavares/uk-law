@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Power of the Commissioner to issue guidance[^key-549be0a9c47c7dc4d7bf0f4eedc3521e]
+## 85. Power of the Commissioner to issue guidance[^c-549be0a9c47c7dc4d7bf0f4eedc3521e]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ concerning the exercise or performance, by the persons to whom the guidance is i
 
 ## Annotations
 
-[^key-549be0a9c47c7dc4d7bf0f4eedc3521e]: Commencement: Reg. 85 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-549be0a9c47c7dc4d7bf0f4eedc3521e]: Commencement: Reg. 85 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

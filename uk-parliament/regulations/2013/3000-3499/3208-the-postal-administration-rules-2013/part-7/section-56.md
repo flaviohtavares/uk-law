@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Debt in foreign currency[^key-fa01b9b5b64951217aa022ee6fb41f6c]
+## 56. Debt in foreign currency[^c-fa01b9b5b64951217aa022ee6fb41f6c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa01b9b5b64951217aa022ee6fb41f6c]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2013/3208/rule/56) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-fa01b9b5b64951217aa022ee6fb41f6c]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2013/3208/rule/56) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person is guilty of an offence if the person commits a breach of a provision in this Part, other than Schedule 12A (further requirements in respect of pharmacovigilance activities) and[^key-def4d7d97427a640d0e8cafc5e1eddc2] regulation 199(2) or (6) (submission of draft study protocols for required studies).
+(1) A person is guilty of an offence if the person commits a breach of a provision in this Part, other than Schedule 12A (further requirements in respect of pharmacovigilance activities) and[^c-def4d7d97427a640d0e8cafc5e1eddc2] regulation 199(2) or (6) (submission of draft study protocols for required studies).
 
 (2) A breach of a provision in this Part includes any—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-def4d7d97427a640d0e8cafc5e1eddc2]: Textual amendment: Words in [reg. 207(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/207/1) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [171](https://www.legislation.gov.uk/uksi/2019/775/regulation/171); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-def4d7d97427a640d0e8cafc5e1eddc2]: Textual amendment: Words in [reg. 207(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/207/1) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [171](https://www.legislation.gov.uk/uksi/2019/775/regulation/171); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

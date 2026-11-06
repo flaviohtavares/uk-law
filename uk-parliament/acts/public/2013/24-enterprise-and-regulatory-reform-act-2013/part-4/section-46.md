@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Review of operation of Part 1 of 1998 Act[^key-49de39f8cdaee4f0b7b6895d8e3ba07e]
+## 46. Review of operation of Part 1 of 1998 Act[^c-49de39f8cdaee4f0b7b6895d8e3ba07e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49de39f8cdaee4f0b7b6895d8e3ba07e]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2013/24/section/46) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-49de39f8cdaee4f0b7b6895d8e3ba07e]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2013/24/section/46) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

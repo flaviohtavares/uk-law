@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Compulsory purchase powers: Natural England[^key-11c40dca40a50cd6938584894328b4ae][^key-7153fe4fc74d57dcd02e05625577f9bf]
+## 89. Compulsory purchase powers: Natural England[^c-11c40dca40a50cd6938584894328b4ae][^c-7153fe4fc74d57dcd02e05625577f9bf]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11c40dca40a50cd6938584894328b4ae]: Commencement: S. 89 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-11c40dca40a50cd6938584894328b4ae]: Commencement: S. 89 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-7153fe4fc74d57dcd02e05625577f9bf]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/34/section/89) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-7153fe4fc74d57dcd02e05625577f9bf]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2025/34/section/89) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

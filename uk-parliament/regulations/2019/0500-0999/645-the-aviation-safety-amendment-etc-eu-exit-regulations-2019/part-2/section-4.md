@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**4.**[^key-969ea286e72a45e57e75412f6350d44f] In regulation 25 (hearings in connection with licences), in paragraph (1)(c), after “an Air Navigation Order” insert “or under other retained EU law regarding aviation safety”.
+**4.**[^c-969ea286e72a45e57e75412f6350d44f] In regulation 25 (hearings in connection with licences), in paragraph (1)(c), after “an Air Navigation Order” insert “or under other retained EU law regarding aviation safety”.
 
 ## Annotations
 
-[^key-969ea286e72a45e57e75412f6350d44f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-969ea286e72a45e57e75412f6350d44f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

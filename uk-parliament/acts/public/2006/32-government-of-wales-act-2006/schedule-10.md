@@ -22,13 +22,13 @@ summary: ''
 
 Section 160
 
-### ...[^key-1b6b954f7f491a48dafb117f50c148b8]
+### ...[^c-1b6b954f7f491a48dafb117f50c148b8]
 
-**1.**[^key-1b6b954f7f491a48dafb117f50c148b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1b6b954f7f491a48dafb117f50c148b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1b6b954f7f491a48dafb117f50c148b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1b6b954f7f491a48dafb117f50c148b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1b6b954f7f491a48dafb117f50c148b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1b6b954f7f491a48dafb117f50c148b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Laying of Documents before Parliament (Interpretation) Act 1948 (c. 59)
 
@@ -70,7 +70,7 @@ Section 160
 
 ### Interpretation Act 1978 (c. 30)
 
-**11.**[^key-5bbc5df8f87a04503a849b0cf4a0d2c3][^c16543951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5bbc5df8f87a04503a849b0cf4a0d2c3][^c16543951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government, Planning and Land Act 1980 (c. 65)
 
@@ -83,17 +83,17 @@ Section 160
 
 ### Mental Health Act 1983 (c. 20)
 
-**13.**[^key-c406d57207b9478fd11023c3f3a25fd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c406d57207b9478fd11023c3f3a25fd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Audit Act 1983 (c. 44)
 
-**14.**[^key-4cea62fc5023e4b6c0fc568465ef52e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-4cea62fc5023e4b6c0fc568465ef52e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-b3fe0d4deb107f097017ffef0171af4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b3fe0d4deb107f097017ffef0171af4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-3844602bc63aec77fe9d25deb4e0f474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-3844602bc63aec77fe9d25deb4e0f474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-d00f568df899d3d98e514715b5c5ac0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-d00f568df899d3d98e514715b5c5ac0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insolvency Act 1986 (c. 45)
 
@@ -105,7 +105,7 @@ Section 160
 
 ### Finance Act 1987 (c. 16)
 
-**20.**[^c16544031] In section 55(1)(c) of the Finance Act 1987 (exemption from stamp duty for the National Assembly for Wales), for “National Assembly for Wales” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government or the National Assembly for Wales Commission ”.
+**20.**[^c16544031] In section 55(1)(c) of the Finance Act 1987 (exemption from stamp duty for the National Assembly for Wales), for “National Assembly for Wales” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government or the National Assembly for Wales Commission ”.
 
 ### Local Government Finance Act 1988 (c. 41)
 
@@ -170,7 +170,7 @@ Section 160
 
 **29.**[^c16544121] (1) Section 178 (minor definitions) is amended as follows.
 
-(2) In the definition of “the Crown”, after “the Scottish Administration” insert “ , of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+(2) In the definition of “the Crown”, after “the Scottish Administration” insert “ , of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
 (3) In the definition of “parliamentary proceedings”, after “European Parliament” insert “ and Assembly proceedings within the meaning of section 1(5) of the Government of Wales Act 2006 ”.
 
@@ -178,15 +178,15 @@ Section 160
 
 **31.**[^c16544141] (1) Section 263(1) (Part 3: minor definitions) is amended as follows.
 
-(2) In the definition of “the Crown”, insert at the end “ and the Crown in right of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+(2) In the definition of “the Crown”, insert at the end “ and the Crown in right of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
-(3) In the definition of “government department”, insert at the end “ and any part of the Welsh[^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+(3) In the definition of “government department”, insert at the end “ and any part of the Welsh[^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
 **32.**[^c16544151] In paragraph 10(1) of Schedule 2 (public records), for “the Government of Wales Act 1998” substitute “ the Government of Wales Act 2006 ”.
 
-### ...[^key-9774ed307c148e6de51699055abc241f]
+### ...[^c-9774ed307c148e6de51699055abc241f]
 
-**33.**[^key-9774ed307c148e6de51699055abc241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-9774ed307c148e6de51699055abc241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Official Secrets Act 1989 (c. 6)
 
@@ -194,7 +194,7 @@ Section 160
 
 - (a) in subsection (1), after paragraph (aa) insert—
 
-  > - (ab) the First Minister for Wales, a Welsh Minister appointed under section 48 of the Government of Wales Act 2006, the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government or a Deputy Welsh Minister;
+  > - (ab) the First Minister for Wales, a Welsh Minister appointed under section 48 of the Government of Wales Act 2006, the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government or a Deputy Welsh Minister;
 
   , and
 - (b) in subsection (2), in paragraph (a), after “(a)” insert “ , (ab) ” and omit paragraph (aa).
@@ -203,18 +203,18 @@ Section 160
 
 **35.**[^c16544171] In section 321B of the Town and Country Planning Act 1990 (planning inquiries relating to Wales: national security)—
 
-- (a) in subsection (2), for “National Assembly[^key-60edd79c70d763519861630d1afb7962] for Wales” substitute “ Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”, and
+- (a) in subsection (2), for “National Assembly[^c-60edd79c70d763519861630d1afb7962] for Wales” substitute “ Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”, and
 - (b) omit subsection (5).
 
 ### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
 
-**36.**[^key-550d6dbcbddebe5bb5b715034f4dc7d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-550d6dbcbddebe5bb5b715034f4dc7d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Planning (Hazardous Substances) Act 1990 (c. 10)
 
 **37.**[^c16544191] In paragraph 8 of the Schedule to the Planning (Hazardous Substances) Act 1990 (local inquiries relating to Wales: national security)—
 
-- (a) in sub-paragraph (2), for “National Assembly for Wales” substitute “ Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”, and
+- (a) in sub-paragraph (2), for “National Assembly for Wales” substitute “ Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”, and
 - (b) omit sub-paragraph (5).
 
 ### Tribunals and Inquiries Act 1992 (c. 53)
@@ -223,11 +223,11 @@ Section 160
 
 ### Value Added Tax Act 1994 (c. 23)
 
-**39.**[^c16544211] In section 41(6) of the Value Added Tax Act 1994 (meaning of “Government department”), for “National Assembly for Wales” substitute “ Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+**39.**[^c16544211] In section 41(6) of the Value Added Tax Act 1994 (meaning of “Government department”), for “National Assembly for Wales” substitute “ Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
 ### Defamation Act 1996 (c. 31)
 
-**40.**[^c16544221] In paragraph 11(1)(c) of Schedule 1 to the Defamation Act 1996 (qualified privilege: accurate reports of proceedings of inquiries etc.), after “Scottish Executive” insert “ , the Welsh Ministers or the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+**40.**[^c16544221] In paragraph 11(1)(c) of Schedule 1 to the Defamation Act 1996 (qualified privilege: accurate reports of proceedings of inquiries etc.), after “Scottish Executive” insert “ , the Welsh Ministers or the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
 ### Government of Wales Act 1998 (c. 38)
 
@@ -265,7 +265,7 @@ Section 160
 
 (8) Omit subsection (5).
 
-**44.**[^key-70ffa57faeb7caf6059cfdb1af7904ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-70ffa57faeb7caf6059cfdb1af7904ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **45.**[^c16544411] (1) Section 144 (power of Secretary of State by order to make provision about accounts etc. of bodies specified in Schedule 17) is amended as follows.
 
@@ -275,14 +275,14 @@ Section 160
 
 - (a) for paragraph (a) substitute—
 
-  > - (a) the Permanent Secretary to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government to designate accounting officers and to specify their responsibilities,
+  > - (a) the Permanent Secretary to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government to designate accounting officers and to specify their responsibilities,
 
   , and
 - (b) in paragraph (d), for “ Assembly (or, before the first ordinary election, by the Secretary of State)” substitute “ Welsh Ministers ”.
 
 (4) For subsection (4) substitute—
 
-> (4) The Welsh Ministers may by order make provision for the Permanent Secretary to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government to designate accounting officers of any body specified in Part 3 of Schedule 17 and to specify their responsibilities.
+> (4) The Welsh Ministers may by order make provision for the Permanent Secretary to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government to designate accounting officers of any body specified in Part 3 of Schedule 17 and to specify their responsibilities.
 >
 > (4A) An order under subsection (1) or (4) may not remove or restrict any function of the Comptroller and Auditor General.
 
@@ -309,7 +309,7 @@ Section 160
 
 (10) In subsection (9), before the word “and” at the end of paragraph (b) insert—
 
-> - (ba) “**Permanent Secretary to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government**” means the person appointed in accordance with section 52 of the Government of Wales Act 2006 to be the head of the staff of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government (whether or not that person is known by the title of Permanent Secretary to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government),
+> - (ba) “**Permanent Secretary to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government**” means the person appointed in accordance with section 52 of the Government of Wales Act 2006 to be the head of the staff of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government (whether or not that person is known by the title of Permanent Secretary to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government),
 
 .
 
@@ -352,7 +352,7 @@ Section 160
 
 (5) In the heading, for “ Assembly ” substitute “ Welsh Ministers ”.
 
-**51.**[^key-05429028ac1aa37e4a684ca43126aeae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-05429028ac1aa37e4a684ca43126aeae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **52.**[^c16554621] In section 151(2) (power to make consequential amendments), for “22” substitute “ 58 of the Government of Wales Act 2006 ”.
 
@@ -411,13 +411,13 @@ Section 160
 
 (6) In subsection (3), omit the words from “; and the” to the end.
 
-**55.**[^key-783b2f24967c7ed1a02a6a879a86a708] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-783b2f24967c7ed1a02a6a879a86a708] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Human Rights Act 1998 (c. 42)
 
 **56.**[^c16544241] (1) Section 21(1) of the Human Rights Act 1998 (interpretation) is amended as follows.
 
-(2) In the definition of “primary legislation”, for “National Assembly for Wales” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, ”.
+(2) In the definition of “primary legislation”, for “National Assembly for Wales” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, ”.
 
 (3) In the definition of “subordinate legislation”, after paragraph (b) insert—
 
@@ -426,7 +426,7 @@ Section 160
 
 .
 
-(4) In paragraph (h) of that definition, after “Executive” insert “ , Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, ”.
+(4) In paragraph (h) of that definition, after “Executive” insert “ , Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, ”.
 
 ### Government Resources and Accounts Act 2000 (c. 20)
 
@@ -457,21 +457,21 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 **62.**[^c16554661] The Finance Act 2003 is amended as follows.
 
-**63.**[^c16554671] In section 61(3) (stamp duty land tax: compliance with planning obligations), for the entry relating to the National Assembly for Wales substitute— “ The Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+**63.**[^c16554671] In section 61(3) (stamp duty land tax: compliance with planning obligations), for the entry relating to the National Assembly for Wales substitute— “ The Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
 **64.**[^c16554681] In section 66(4) (stamp duty land tax: transfers involving public bodies)—
 
-- (a) for the entry relating to the National Assembly for Wales substitute— “ The Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”, and
+- (a) for the entry relating to the National Assembly for Wales substitute— “ The Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”, and
 - (b) after the entry relating to the Northern Ireland Assembly Commission insert— “ The National Assembly for Wales Commission ”.
 
 **65.**[^c16554691] In section 107(2) (stamp duty land tax: Crown application)—
 
-- (a) after the entry relating to a Northern Ireland department insert— “ The Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”, and
+- (a) after the entry relating to a Northern Ireland department insert— “ The Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”, and
 - (b) for the entry relating to the National Assembly for Wales substitute— “ The National Assembly for Wales Commission ”.
 
-### ...[^key-a855b7fb90a4800dfb291ee8b2345eb3]
+### ...[^c-a855b7fb90a4800dfb291ee8b2345eb3]
 
-**66.**[^key-a855b7fb90a4800dfb291ee8b2345eb3][^c16554711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-a855b7fb90a4800dfb291ee8b2345eb3][^c16554711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Services Ombudsman (Wales) Act 2005 (c. 10)
 
@@ -479,9 +479,9 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 **68.**[^c16554731] In section 7(3)(b) (relevant action: Welsh health service bodies), for “ Assembly ” substitute “ Welsh Ministers ”.
 
-**69.**[^c16554741] In section 8(2) (exclusion from investigation for matters not relating to Wales: exception for Assembly ), for “ Assembly ” substitute “ Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+**69.**[^c16554741] In section 8(2) (exclusion from investigation for matters not relating to Wales: exception for Assembly ), for “ Assembly ” substitute “ Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
-**70.**[^c16554751] In section 9(1)(b) (exclusion from investigation of matters: right of appeal to Assembly ), for “or the Assembly ” substitute “ , the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+**70.**[^c16554751] In section 9(1)(b) (exclusion from investigation of matters: right of appeal to Assembly ), for “or the Assembly ” substitute “ , the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
 **71.**[^c16554781] (1) Section 10 (other excluded matters) is amended as follows.
 
@@ -498,7 +498,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 (2) In subsection (2)(f)—
 
 - (a) for “ Assembly First Secretary” substitute “ First Minister for Wales ”, and
-- (b) for “ Assembly ” substitute “ Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+- (b) for “ Assembly ” substitute “ Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
 (3) Omit subsection (9).
 
@@ -508,7 +508,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 **76.**[^c16554831] (1) Section 24 (special reports relating to the Assembly ) is amended as follows.
 
-(2) In subsection (1), for “ Assembly ” substitute “ Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government or the National Assembly for Wales Commission ”.
+(2) In subsection (1), for “ Assembly ” substitute “ Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government or the National Assembly for Wales Commission ”.
 
 (3) In subsection (2)—
 
@@ -519,12 +519,12 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 > (2A) In subsection (2) “**the relevant person**” means—
 >
-> - (a) if the complaint was made in respect of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, the First Minister for Wales, and
+> - (a) if the complaint was made in respect of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, the First Minister for Wales, and
 > - (b) if the complaint was made in respect of the National Assembly for Wales Commission, a member of that Commission.
 
 (5) Omit subsection (3).
 
-(6) In the side-note, for “ Assembly ” substitute “ Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government etc. ”.
+(6) In the side-note, for “ Assembly ” substitute “ Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government etc. ”.
 
 **77.**[^M_F_549ecb50-c42e-41c6-9e52-e32cf8f7db9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -538,13 +538,13 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 **79.**[^c16555011] (1) Section 29 (restrictions on power to amend Schedule 3) is amended as follows.
 
-(2) In subsection (1), for “ Assembly ” substitute “ Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government or the National Assembly for Wales Commission ”.
+(2) In subsection (1), for “ Assembly ” substitute “ Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government or the National Assembly for Wales Commission ”.
 
-(3) In subsection (2)(b), for “ Assembly has” substitute “ Welsh Ministers have, or the First Minister for Wales or the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government has, ”.
+(3) In subsection (2)(b), for “ Assembly has” substitute “ Welsh Ministers have, or the First Minister for Wales or the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government has, ”.
 
 (4) In subsection (3)—
 
-- (a) in paragraphs (a) and (b), for “ Assembly ” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”, and
+- (a) in paragraphs (a) and (b), for “ Assembly ” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”, and
 - (b) in paragraph (c), for “directly from payments made by the Assembly or other listed authorities” substitute “ out of the Welsh Consolidated Fund or is met directly from payments made by other listed authorities ”.
 
 (5) In subsection (5)—
@@ -559,11 +559,11 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 - (a) for “ Assembly proposes” substitute “ Welsh Ministers propose ”, and
 - (b) for “it must” substitute “ they must ”.
 
-(3) In subsection (2), for “ Assembly has” substitute “ Welsh Ministers have, or the First Minister for Wales or the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government has, ”.
+(3) In subsection (2), for “ Assembly has” substitute “ Welsh Ministers have, or the First Minister for Wales or the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government has, ”.
 
 (4) In subsection (3)—
 
-- (a) in paragraph (a), for “ Assembly has” substitute “ Welsh Ministers have, or the First Minister for Wales or the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government has, ”, and
+- (a) in paragraph (a), for “ Assembly has” substitute “ Welsh Ministers have, or the First Minister for Wales or the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government has, ”, and
 - (b) in paragraph (b), for “ Assembly ” substitute “ Welsh Ministers ”.
 
 **81.**[^c16555901] In section 40 (commencement), for “ Assembly ” substitute “ Welsh Ministers ”.
@@ -645,7 +645,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
   > (5) A recommendation for the removal of a person from office as the Ombudsman may not be made unless—
   >
   > - (a) the Assembly has resolved that the recommendation should be made, and
-  > - (b) the resolution of the Assembly is passed on a vote in which the number of Members of the Assembly[^key-959ca092134c70e47fe7789224d88f33] voting in favour of it is not less than two-thirds of the total number of Assembly seats.
+  > - (b) the resolution of the Assembly is passed on a vote in which the number of Members of the Assembly[^c-959ca092134c70e47fe7789224d88f33] voting in favour of it is not less than two-thirds of the total number of Assembly seats.
 
 (4) In paragraph 4 (acting Public Service Ombudsman for Wales), for sub-paragraphs (1) and (2) substitute—
 
@@ -656,7 +656,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 (6) In paragraph 7(3) (exceptions from disqualifications applying to former Ombudsman or acting Ombudsman)—
 
 - (a) in paragraph (a), after “ Assembly ” insert “ or the National Assembly for Wales Commission ”, and
-- (b) in paragraph (b), for “ Assembly First Secretary or Assembly Secretary” substitute “ First Minister for Wales, Welsh Minister appointed under section 48 of the Government of Wales Act 2006, Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government or Deputy Welsh Minister ”.
+- (b) in paragraph (b), for “ Assembly First Secretary or Assembly Secretary” substitute “ First Minister for Wales, Welsh Minister appointed under section 48 of the Government of Wales Act 2006, Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government or Deputy Welsh Minister ”.
 
 (7) In paragraph 9 (remuneration etc.), after sub-paragraph (5) insert—
 
@@ -683,17 +683,17 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 (10) In paragraph 13 (delegation), for sub-paragraph (4) substitute—
 
-> (4) No arrangements may be made between the Ombudsman, on the one hand, and the Welsh Ministers (or the First Minister for Wales or the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government), on the other, for—
+> (4) No arrangements may be made between the Ombudsman, on the one hand, and the Welsh Ministers (or the First Minister for Wales or the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government), on the other, for—
 >
 > - (a) any functions of one of them to be exercised by the other,
-> - (b) any functions of the Welsh Ministers (or the First Minister for Wales or the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government) to be exercised by members of staff of the Ombudsman,
-> - (c) any functions of the Ombudsman to be exercised by members of the staff of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, or
+> - (b) any functions of the Welsh Ministers (or the First Minister for Wales or the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government) to be exercised by members of staff of the Ombudsman,
+> - (c) any functions of the Ombudsman to be exercised by members of the staff of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, or
 > - (d) the provision of administrative, professional or technical services by one of them for the other.
 
 (11) In paragraph 14(3) (duty to send copy of extraordinary report to listed authorities other than the Assembly )—
 
-- (a) after “time” insert “ send a copy to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government and ”, and
-- (b) for “than the Assembly ” substitute “ than the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+- (a) after “time” insert “ send a copy to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government and ”, and
+- (b) for “than the Assembly ” substitute “ than the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
 (12) In paragraph 15 (estimates)—
 
@@ -714,11 +714,11 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 - (a) for “Treasury” (in each place) substitute “ Audit Committee ”, and
 - (b) in sub-paragraph (6)(a), for “ Assembly Cabinet” substitute “ Welsh Ministers ”.
 
-**87.**[^c16555961] In paragraph 1 of Schedule 2 (excluded matters), for “ Assembly ” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government ”.
+**87.**[^c16555961] In paragraph 1 of Schedule 2 (excluded matters), for “ Assembly ” substitute “ Welsh Ministers, the First Minister for Wales, the Counsel General to the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government ”.
 
 **88.**[^c16555971] In Schedule 3 (listed authorities), under the heading “Government of Wales”, for the entry relating to the Assembly substitute—
 
-> The Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government.
+> The Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government.
 >
 > The National Assembly for Wales Commission.
 
@@ -769,7 +769,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 ## Annotations
 
-[^key-1b6b954f7f491a48dafb117f50c148b8]: Textual amendment: [Sch. 10 paras. 1-3](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/1) and cross-heading omitted (1.1.2026) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 6(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/6/c); [S.I. 2025/1160](https://www.legislation.gov.uk/uksi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/uksi/2025/1160/article/2/e)
+[^c-1b6b954f7f491a48dafb117f50c148b8]: Textual amendment: [Sch. 10 paras. 1-3](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/1) and cross-heading omitted (1.1.2026) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 6(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/6/c); [S.I. 2025/1160](https://www.legislation.gov.uk/uksi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/uksi/2025/1160/article/2/e)
 
 [^c16544341]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
@@ -785,19 +785,19 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 [^c16543941]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-5bbc5df8f87a04503a849b0cf4a0d2c3]: Textual amendment: Sch. 10 para. 11 omitted (11.9.2019) by virtue of [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4), [s. 44(1)(e)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/e), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/anaw/2019/4/schedule/2/paragraph/2/4)
+[^c-5bbc5df8f87a04503a849b0cf4a0d2c3]: Textual amendment: Sch. 10 para. 11 omitted (11.9.2019) by virtue of [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4), [s. 44(1)(e)](https://www.legislation.gov.uk/anaw/2019/4/section/44/1/e), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/anaw/2019/4/schedule/2/paragraph/2/4)
 
 [^c16543951]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-c406d57207b9478fd11023c3f3a25fd3]: Textual amendment: Sch. 10 para. 13 omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/5/2)
+[^c-c406d57207b9478fd11023c3f3a25fd3]: Textual amendment: Sch. 10 para. 13 omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/5/2)
 
-[^key-4cea62fc5023e4b6c0fc568465ef52e0]: Textual amendment: Sch. 10 para. 14 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/14) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
+[^c-4cea62fc5023e4b6c0fc568465ef52e0]: Textual amendment: Sch. 10 para. 14 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/14) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
 
-[^key-b3fe0d4deb107f097017ffef0171af4d]: Textual amendment: Sch. 10 para. 15 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/14) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
+[^c-b3fe0d4deb107f097017ffef0171af4d]: Textual amendment: Sch. 10 para. 15 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/14) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
 
-[^key-3844602bc63aec77fe9d25deb4e0f474]: Textual amendment: Sch. 10 para. 16 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/14) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
+[^c-3844602bc63aec77fe9d25deb4e0f474]: Textual amendment: Sch. 10 para. 16 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/14) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
 
-[^key-d00f568df899d3d98e514715b5c5ac0f]: Textual amendment: Sch. 10 para. 17 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/14) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
+[^c-d00f568df899d3d98e514715b5c5ac0f]: Textual amendment: Sch. 10 para. 17 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/14) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
 
 [^M_F_50a0aa3f-7171-4119-cd5c-752688c2c623]: Textual amendment: Sch. 10 para. 18 and cross-heading omitted (15.1.2020 with effect for the purposes of a Assembly election at which the poll is held on or after 5.4.2021) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 35(2)](https://www.legislation.gov.uk/anaw/2020/1/section/35/2), [42(1)(c)](https://www.legislation.gov.uk/anaw/2020/1/section/42/1)
 
@@ -805,7 +805,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 [^c16544031]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
 
 [^c16544041]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
@@ -831,15 +831,15 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 [^c16544151]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-9774ed307c148e6de51699055abc241f]: Textual amendment: [Sch. 10 para. 33 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/crossheading/housing-act-1988-c-50) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/12)
+[^c-9774ed307c148e6de51699055abc241f]: Textual amendment: [Sch. 10 para. 33 and cross-heading](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/crossheading/housing-act-1988-c-50) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/12)
 
 [^c16544161]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
 [^c16544171]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-550d6dbcbddebe5bb5b715034f4dc7d5]: Textual amendment: [Sch. 10 para. 36](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/36) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 184](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/184) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-550d6dbcbddebe5bb5b715034f4dc7d5]: Textual amendment: [Sch. 10 para. 36](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/36) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 184](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/184) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c16544191]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
@@ -855,7 +855,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 [^c16544391]: Commencement: Sch. 10 paras. 42-55 in force immediately after the end of "the initial period" by s. 161(4)(d)
 
-[^key-70ffa57faeb7caf6059cfdb1af7904ed]: Textual amendment: [Sch. 10 para. 44](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/44) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 57(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/57/a)
+[^c-70ffa57faeb7caf6059cfdb1af7904ed]: Textual amendment: [Sch. 10 para. 44](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/44) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 57(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/57/a)
 
 [^c16544411]: Commencement: Sch. 10 paras. 42-55 in force immediately after the end of "the initial period" by s. 161(4)(d)
 
@@ -869,7 +869,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 [^c16544461]: Commencement: Sch. 10 paras. 42-55 in force immediately after the end of "the initial period" by s. 161(4)(d)
 
-[^key-05429028ac1aa37e4a684ca43126aeae]: Textual amendment: [Sch. 10 para. 51](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/51) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 57(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/57/b)
+[^c-05429028ac1aa37e4a684ca43126aeae]: Textual amendment: [Sch. 10 para. 51](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/51) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 57(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/57/b)
 
 [^c16554621]: Commencement: Sch. 10 paras. 42-55 in force immediately after the end of "the initial period" by s. 161(4)(d)
 
@@ -877,7 +877,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 [^c16554641]: Commencement: Sch. 10 paras. 42-55 in force immediately after the end of "the initial period" by s. 161(4)(d)
 
-[^key-783b2f24967c7ed1a02a6a879a86a708]: Textual amendment: [Sch. 10 para. 55](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/55) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 57(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/57/c)
+[^c-783b2f24967c7ed1a02a6a879a86a708]: Textual amendment: [Sch. 10 para. 55](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/55) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 57(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/57/c)
 
 [^c16544241]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
@@ -897,7 +897,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 [^c16554691]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-a855b7fb90a4800dfb291ee8b2345eb3]: Textual amendment: Sch. 10 para. 66 and cross-heading omitted (6.9.2015 for specified purposes, 4.12.2020 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 29](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/29); [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/b)
+[^c-a855b7fb90a4800dfb291ee8b2345eb3]: Textual amendment: Sch. 10 para. 66 and cross-heading omitted (6.9.2015 for specified purposes, 4.12.2020 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 29](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/29); [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(b)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/b)
 
 [^c16554711]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
@@ -941,7 +941,7 @@ for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
 [^c16555951]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
 [^c16555961]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 

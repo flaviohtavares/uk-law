@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. “Employer”, “worker” and related expressions[^key-85e67ce57a9967d9713c2440cf9eb69e]
+## 70. “Employer”, “worker” and related expressions[^c-85e67ce57a9967d9713c2440cf9eb69e]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85e67ce57a9967d9713c2440cf9eb69e]: Commencement: S. 70 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-85e67ce57a9967d9713c2440cf9eb69e]: Commencement: S. 70 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

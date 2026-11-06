@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Withdrawal of sanction notices[^key-c260ad3ba0145afb22f04ace3442adce]
+## 55. Withdrawal of sanction notices[^c-c260ad3ba0145afb22f04ace3442adce]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c260ad3ba0145afb22f04ace3442adce]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/20/section/55) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-c260ad3ba0145afb22f04ace3442adce]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/20/section/55) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

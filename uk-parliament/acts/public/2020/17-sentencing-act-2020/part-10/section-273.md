@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273. Custody for life for second listed offence[^key-9290b3add85b553dd447d2fe5460546a]
+## 273. Custody for life for second listed offence[^c-9290b3add85b553dd447d2fe5460546a]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (2) In subsection (1)(b), “**relevant date**”, in relation to an offence, means the date specified for that offence in Part 1 of Schedule 15.
 
-(3)[^key-da8edf0971c4205374d3c5426de220d6] The court must impose a sentence of custody for life under section 272 unless the court is of the opinion that there are particular circumstances which—
+(3)[^c-da8edf0971c4205374d3c5426de220d6] The court must impose a sentence of custody for life under section 272 unless the court is of the opinion that there are particular circumstances which—
 
 - (a) relate to—
   - (i) the index offence,
@@ -67,7 +67,7 @@ Sections 230(2) and 231(2) apply for this purpose.
   - (a) a sentence imposed under section 254 or 266 (including one imposed as a result of section 219A or 221A of the Armed Forces Act 2006), or
   - (b) a sentence imposed under section 226A, 226B, 227 or 228 of the Criminal Justice Act 2003 (including one imposed as a result of section 219A, 220, 221A or 222 of the Armed Forces Act 2006),
 
-  or an equivalent sentence imposed under the law of Scotland or Northern Ireland[^key-9ca049e3d5a4c9ef04b5c89776a22bfa];
+  or an equivalent sentence imposed under the law of Scotland or Northern Ireland[^c-9ca049e3d5a4c9ef04b5c89776a22bfa];
 - “**life sentence**” means—
   - (a) a sentence of detention for life under—
     - (i) section 250,
@@ -81,11 +81,11 @@ Sections 230(2) and 231(2) apply for this purpose.
     - (i) section 272 or 275 (including one passed as a result of section 210A, 217, 218A or 219 of the Armed Forces Act 2006), or
     - (ii) section 93 or 94 of the Powers of Criminal Courts (Sentencing) Act 2000 (including one passed as a result of paragraph 6 or 7 of Schedule 2 to the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)),
 
-  or an equivalent sentence imposed under the law of Scotland or Northern Ireland[^key-ad9cd8dd38c88e64bd237cb0c6ddf3f1];
+  or an equivalent sentence imposed under the law of Scotland or Northern Ireland[^c-ad9cd8dd38c88e64bd237cb0c6ddf3f1];
 - “**relevant pre-sentence period**”, in relation to the previous offence referred to in subsection (5), means any period which the offender spent in custody or on bail before the sentence for that offence was imposed;
 - “**sentence of detention**” includes any sentence of a period in custody (however expressed).
 
-(12A)[^key-89ee34a47c2833088cf59b4dba1c876e][^key-dd66f28c694e40b05077a630f0c90870] If the proceedings for the index offence were instituted before IP completion day (see section 397(5)), the references to “an equivalent sentence” in the definitions of the following are to be read as also including an equivalent sentence imposed under the law of a member State—
+(12A)[^c-89ee34a47c2833088cf59b4dba1c876e][^c-dd66f28c694e40b05077a630f0c90870] If the proceedings for the index offence were instituted before IP completion day (see section 397(5)), the references to “an equivalent sentence” in the definitions of the following are to be read as also including an equivalent sentence imposed under the law of a member State—
 
 - (a) “extended sentence”, and
 - (b) “life sentence”.
@@ -96,14 +96,14 @@ Sections 230(2) and 231(2) apply for this purpose.
 
 ## Annotations
 
-[^key-9290b3add85b553dd447d2fe5460546a]: Commencement: S. 273 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9290b3add85b553dd447d2fe5460546a]: Commencement: S. 273 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-da8edf0971c4205374d3c5426de220d6]: Modification: S. 273(3) applied (with modifications) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 218A(1B)(3)](https://www.legislation.gov.uk/ukpga/2006/52/section/218A/1B/3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 38(3)(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/38/3/5) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-da8edf0971c4205374d3c5426de220d6]: Modification: S. 273(3) applied (with modifications) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 218A(1B)(3)](https://www.legislation.gov.uk/ukpga/2006/52/section/218A/1B/3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 38(3)(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/38/3/5) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-9ca049e3d5a4c9ef04b5c89776a22bfa]: Textual amendment: Words in s. 273(12) substituted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 417(9)](https://www.legislation.gov.uk/ukpga/2020/17/section/417/9), [Sch. 22 para. 88(1)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/88/1/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)) (as amended by [S.I. 2020/1520](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/5/a))
+[^c-9ca049e3d5a4c9ef04b5c89776a22bfa]: Textual amendment: Words in s. 273(12) substituted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 417(9)](https://www.legislation.gov.uk/ukpga/2020/17/section/417/9), [Sch. 22 para. 88(1)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/88/1/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)) (as amended by [S.I. 2020/1520](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/5/a))
 
-[^key-ad9cd8dd38c88e64bd237cb0c6ddf3f1]: Textual amendment: Words in s. 273(12) substituted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 417(9)](https://www.legislation.gov.uk/ukpga/2020/17/section/417/9), [Sch. 22 para. 88(1)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/88/1/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)) (as amended by [S.I. 2020/1520](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/5/a))
+[^c-ad9cd8dd38c88e64bd237cb0c6ddf3f1]: Textual amendment: Words in s. 273(12) substituted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 417(9)](https://www.legislation.gov.uk/ukpga/2020/17/section/417/9), [Sch. 22 para. 88(1)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/88/1/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)) (as amended by [S.I. 2020/1520](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(5)(a)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/5/a))
 
-[^key-89ee34a47c2833088cf59b4dba1c876e]: Modification: S. 273(12A) modified (31.12.2020) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 218A(6A)](https://www.legislation.gov.uk/ukpga/2006/52/section/218A/6A) (as inserted by [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 26 para. 12(1)(db)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/26/paragraph/12/1/db) (as inserted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/2/b)))
+[^c-89ee34a47c2833088cf59b4dba1c876e]: Modification: S. 273(12A) modified (31.12.2020) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 218A(6A)](https://www.legislation.gov.uk/ukpga/2006/52/section/218A/6A) (as inserted by [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 26 para. 12(1)(db)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/26/paragraph/12/1/db) (as inserted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/6/2/b)))
 
-[^key-dd66f28c694e40b05077a630f0c90870]: Textual amendment: S. 273(12A) inserted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 22 para. 88(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/88/2) (as inserted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/5/b))
+[^c-dd66f28c694e40b05077a630f0c90870]: Textual amendment: S. 273(12A) inserted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 22 para. 88(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/88/2) (as inserted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/5/b))

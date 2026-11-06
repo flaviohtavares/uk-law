@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Annual report of Qualifications Scotland[^key-978f8b7e0fe160335043b6bbc9769d8d][^key-b63883c22e60fffd7ca86a0e2509ad93]
+## 17. Annual report of Qualifications Scotland[^c-978f8b7e0fe160335043b6bbc9769d8d][^c-b63883c22e60fffd7ca86a0e2509ad93]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-978f8b7e0fe160335043b6bbc9769d8d]: Commencement: S. 17 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-978f8b7e0fe160335043b6bbc9769d8d]: Commencement: S. 17 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-b63883c22e60fffd7ca86a0e2509ad93]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/11/section/17) in force at 1.4.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(6)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/6), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/2/regulation/4))
+[^c-b63883c22e60fffd7ca86a0e2509ad93]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/11/section/17) in force at 1.4.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(6)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/6), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/2/regulation/4))

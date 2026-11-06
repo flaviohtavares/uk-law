@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Certification that alternative to quality requirement is satisfied[^c21291371][^key-f98e1f81f699f30a67125d310ff16c21]
+## 13. Certification that alternative to quality requirement is satisfied[^c21291371][^c-f98e1f81f699f30a67125d310ff16c21]
 
 *Extent: N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 [^c21291371]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2012/3/section/13) partly in operation; [s. 13](https://www.legislation.gov.uk/nia/2012/3/section/13) in operation for certain purposes at 2.6.2012 see [s. 34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)
 
-[^key-f98e1f81f699f30a67125d310ff16c21]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2012/3/section/13) in operation at 7.6.2012 in so far as not already in operation by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/233/article/2/1/b)
+[^c-f98e1f81f699f30a67125d310ff16c21]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2012/3/section/13) in operation at 7.6.2012 in so far as not already in operation by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/233/article/2/1/b)

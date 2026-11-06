@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Supplement payable on late renewal of vehicle licence[^key-788d1ef9b660894b993f37d046a4eac9]
+## 9A. Supplement payable on late renewal of vehicle licence[^c-788d1ef9b660894b993f37d046a4eac9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,13 +32,13 @@ summary: ''
 
 (4) The supplement shall be payable by the person in whose name the vehicle is registered under the 1994 Act at the date of the expiry of the licence by reason of whose late renewal the supplement becomes payable.
 
-(5)[^key-ecb309c3982969a87e2a770ddb86591c] The Secretary of State shall notify the person referred to in paragraph (4) that the supplement is payable and that notification shall—
+(5)[^c-ecb309c3982969a87e2a770ddb86591c] The Secretary of State shall notify the person referred to in paragraph (4) that the supplement is payable and that notification shall—
 
 - (a) state the amount of the supplement payable; and
 - (b) be sent to the address of the person as given in the register.
 
 ## Annotations
 
-[^key-788d1ef9b660894b993f37d046a4eac9]: Textual amendment: Reg. 9A inserted (30.11.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 3) Regulations 2003 (S.I. 2003/2981)](https://www.legislation.gov.uk/uksi/2003/2981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2981/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2003/2981/regulation/2)
+[^c-788d1ef9b660894b993f37d046a4eac9]: Textual amendment: Reg. 9A inserted (30.11.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 3) Regulations 2003 (S.I. 2003/2981)](https://www.legislation.gov.uk/uksi/2003/2981), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2981/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2003/2981/regulation/2)
 
-[^key-ecb309c3982969a87e2a770ddb86591c]: Textual amendment: Reg. 9A(5) inserted (19.12.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 4) Regulations 2003 (S.I. 2003/3073)](https://www.legislation.gov.uk/uksi/2003/3073), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/1/1/a), [2](https://www.legislation.gov.uk/uksi/2003/3073/regulation/2)
+[^c-ecb309c3982969a87e2a770ddb86591c]: Textual amendment: Reg. 9A(5) inserted (19.12.2003) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 4) Regulations 2003 (S.I. 2003/3073)](https://www.legislation.gov.uk/uksi/2003/3073), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/3073/regulation/1/1/a), [2](https://www.legislation.gov.uk/uksi/2003/3073/regulation/2)

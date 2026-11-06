@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — Biocidal product-types and their descriptions[^key-76fbeaa65ccec0dc7a58e87d5f86c86e]
+## SCHEDULE 1 — Biocidal product-types and their descriptions[^c-76fbeaa65ccec0dc7a58e87d5f86c86e]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-76fbeaa65ccec0dc7a58e87d5f86c86e]: Commencement: Sch. 1 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-76fbeaa65ccec0dc7a58e87d5f86c86e]: Commencement: Sch. 1 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

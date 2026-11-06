@@ -32,18 +32,18 @@ Rights of Relatives to Damages (Mesothelioma) (Scotland) Act 2007 (repealed)
 
 2007 asp 18
 
-[^key-14f57b68bcb0ef9fea2349bd88a1c265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14f57b68bcb0ef9fea2349bd88a1c265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Mesothelioma: rights of relatives of a deceased person to damages[^key-14f57b68bcb0ef9fea2349bd88a1c265][^key-14f57b68bcb0ef9fea2349bd88a1c265]
+## 1. Mesothelioma: rights of relatives of a deceased person to damages[^c-14f57b68bcb0ef9fea2349bd88a1c265][^c-14f57b68bcb0ef9fea2349bd88a1c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and commencement[^key-14f57b68bcb0ef9fea2349bd88a1c265][^key-14f57b68bcb0ef9fea2349bd88a1c265]
+## 2. Short title and commencement[^c-14f57b68bcb0ef9fea2349bd88a1c265][^c-14f57b68bcb0ef9fea2349bd88a1c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-14f57b68bcb0ef9fea2349bd88a1c265]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2007/18) repealed (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-14f57b68bcb0ef9fea2349bd88a1c265]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2007/18) repealed (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asp/2011/7/schedule/2) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))

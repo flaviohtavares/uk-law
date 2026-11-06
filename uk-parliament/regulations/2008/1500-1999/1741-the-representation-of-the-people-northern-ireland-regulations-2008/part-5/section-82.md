@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Notice of opening of postal ballot paper envelopes[^key-85c05318ad21a41cb4e923a39c6d9ef5]
+## 82. Notice of opening of postal ballot paper envelopes[^c-85c05318ad21a41cb4e923a39c6d9ef5]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85c05318ad21a41cb4e923a39c6d9ef5]: Modification: [Reg. 82](https://www.legislation.gov.uk/uksi/2008/1741/regulation/82) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 94](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/94)
+[^c-85c05318ad21a41cb4e923a39c6d9ef5]: Modification: [Reg. 82](https://www.legislation.gov.uk/uksi/2008/1741/regulation/82) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 94](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/94)

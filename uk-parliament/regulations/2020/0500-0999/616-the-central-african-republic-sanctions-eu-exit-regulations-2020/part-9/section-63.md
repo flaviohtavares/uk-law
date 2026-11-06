@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Interpretation of Part 9[^key-d1f40abf06ee61559d0e4d077b73e644]
+## 63. Interpretation of Part 9[^c-d1f40abf06ee61559d0e4d077b73e644]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1f40abf06ee61559d0e4d077b73e644]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-d1f40abf06ee61559d0e4d077b73e644]: Commencement: Reg. 63 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)

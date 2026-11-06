@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Continuation of schemes for areas in Wales: procedure[^key-0e2797533e36d560667a89e33adaa839]
+## 34. Continuation of schemes for areas in Wales: procedure[^c-0e2797533e36d560667a89e33adaa839]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ After section 131C of the TA 2000 insert—
 
 ## Annotations
 
-[^key-0e2797533e36d560667a89e33adaa839]: Commencement: S. 34 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-0e2797533e36d560667a89e33adaa839]: Commencement: S. 34 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

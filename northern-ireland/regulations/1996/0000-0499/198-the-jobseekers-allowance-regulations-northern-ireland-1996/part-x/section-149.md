@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 149. Assessment of income and capital in urgent cases[^key-0a3c727c4fef59d33fa1e1cb26ea1b95]
+## 149. Assessment of income and capital in urgent cases[^c-0a3c727c4fef59d33fa1e1cb26ea1b95]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a3c727c4fef59d33fa1e1cb26ea1b95]: Commencement: Reg. 149 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0a3c727c4fef59d33fa1e1cb26ea1b95]: Commencement: Reg. 149 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

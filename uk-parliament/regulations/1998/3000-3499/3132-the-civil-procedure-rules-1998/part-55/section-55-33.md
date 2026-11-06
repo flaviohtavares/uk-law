@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.33. Particulars of claim[^key-be70ca960d1e604c7180eff16abf7117][^key-6d372728ca614d30331c2a6aa037d325]
+## 55.33. Particulars of claim[^c-be70ca960d1e604c7180eff16abf7117][^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ The particulars of claim must be filed and served with the claim form.
 
 ## Annotations
 
-[^key-be70ca960d1e604c7180eff16abf7117]: Textual amendment: Pt. 55 Section 4 inserted (1.12.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/22/2)
+[^c-be70ca960d1e604c7180eff16abf7117]: Textual amendment: Pt. 55 Section 4 inserted (1.12.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/22/2)
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))

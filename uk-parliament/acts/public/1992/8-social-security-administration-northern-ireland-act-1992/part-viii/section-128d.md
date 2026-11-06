@@ -26,12 +26,12 @@ summary: ''
 - (b)[^M_F_3b622c16-79b4-40e9-cac4-edaea7305e5a] a report has been laid before the Assembly under Article 21(5) of the Housing (Northern Ireland) Order 1981; or
 - (c) a copy of a report has been sent to the Housing Executive under Article 6(7) of the Social Security Administration (Fraud) (Northern Ireland) Order 1997.
 
-(2) The Department may require[^key-2079bb1c50f2fcfdf549868ee2f51b31] the Housing Executive to consider the report and to submit proposals for—
+(2) The Department may require[^c-2079bb1c50f2fcfdf549868ee2f51b31] the Housing Executive to consider the report and to submit proposals for—
 
 - (a) improving the Executive’s performance in relation to the prevention and detection of fraud relating to housing benefit or otherwise in relation to the administration of that benefit; and
 - (b) remedying any failings identified by the report.
 
-(2A)[^key-01067068ad554204683bcabf6419f83a] A requirement under subsection (2) above may specify—
+(2A)[^c-01067068ad554204683bcabf6419f83a] A requirement under subsection (2) above may specify—
 
 - (a) any information or description of information to be provided;
 - (b) the form and manner in which the information is to be provided.
@@ -40,7 +40,7 @@ summary: ''
 
 (2C) The Department may extend the period specified under subsection (2B) above.
 
-(3)[^key-19c2bed1b9e9e28586a714c0da062564] After considering—
+(3)[^c-19c2bed1b9e9e28586a714c0da062564] After considering—
 
 - (a) the report,
 - (b) any proposals made by the Housing Executive in response to it, and
@@ -60,9 +60,9 @@ the Department may give directions to the Housing Executive under subsection (3A
 
 (3C) A direction under subsection (3B) above may specify the time within which anything is to be done.
 
-(4) When giving directions to the Housing Executive under subsection (3A)[^key-94862a5eddaed69a572ee366f59b4287] above, the Department may make recommendations to the Executive setting out any course of action which the Department thinks the Executive might take to attain the standards which it is directed to attain.
+(4) When giving directions to the Housing Executive under subsection (3A)[^c-94862a5eddaed69a572ee366f59b4287] above, the Department may make recommendations to the Executive setting out any course of action which the Department thinks the Executive might take to attain the standards which it is directed to attain.
 
-(5)[^key-073cded52a8c0cdeac5bcc3703775ebf] If the Department proposes to give a direction under this section it must give the Housing Executive an opportunity to make representations about the proposed direction.
+(5)[^c-073cded52a8c0cdeac5bcc3703775ebf] If the Department proposes to give a direction under this section it must give the Housing Executive an opportunity to make representations about the proposed direction.
 
 (6) The Department may specify a period within which representations mentioned in subsection (5) above must be made.
 
@@ -78,12 +78,12 @@ the Department may give directions to the Housing Executive under subsection (3A
 
 [^M_F_3b622c16-79b4-40e9-cac4-edaea7305e5a]: Textual amendment: S. 128D(1)(b) substituted (1.4.2003) by [The Audit and Accountability (Northern Ireland) Order 2003 (S.I. 2003/418)](https://www.legislation.gov.uk/uksi/2003/418), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/418/article/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2003/418/schedule/2/paragraph/4)
 
-[^key-2079bb1c50f2fcfdf549868ee2f51b31]: Textual amendment: Word in [s. 128D(2)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/2) substituted (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(2)](https://www.legislation.gov.uk/nia/2007/2/section/36/2), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
+[^c-2079bb1c50f2fcfdf549868ee2f51b31]: Textual amendment: Word in [s. 128D(2)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/2) substituted (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(2)](https://www.legislation.gov.uk/nia/2007/2/section/36/2), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
 
-[^key-01067068ad554204683bcabf6419f83a]: Textual amendment: [Ss. 128D(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/2A) inserted (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(3)](https://www.legislation.gov.uk/nia/2007/2/section/36/3), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
+[^c-01067068ad554204683bcabf6419f83a]: Textual amendment: [Ss. 128D(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/2A) inserted (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(3)](https://www.legislation.gov.uk/nia/2007/2/section/36/3), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
 
-[^key-19c2bed1b9e9e28586a714c0da062564]: Textual amendment: [Ss. 128D(3)-(3C)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/3) substituted for [s. 128D(3)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/3) (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(4)](https://www.legislation.gov.uk/nia/2007/2/section/36/4), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
+[^c-19c2bed1b9e9e28586a714c0da062564]: Textual amendment: [Ss. 128D(3)-(3C)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/3) substituted for [s. 128D(3)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/3) (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(4)](https://www.legislation.gov.uk/nia/2007/2/section/36/4), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
 
-[^key-94862a5eddaed69a572ee366f59b4287]: Textual amendment: Words in [s. 128D(4)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/4) substituted (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(5)](https://www.legislation.gov.uk/nia/2007/2/section/36/5), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
+[^c-94862a5eddaed69a572ee366f59b4287]: Textual amendment: Words in [s. 128D(4)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/4) substituted (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(5)](https://www.legislation.gov.uk/nia/2007/2/section/36/5), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
 
-[^key-073cded52a8c0cdeac5bcc3703775ebf]: Textual amendment: [Ss. 128D(5)-(9)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/5) added (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(6)](https://www.legislation.gov.uk/nia/2007/2/section/36/6), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)
+[^c-073cded52a8c0cdeac5bcc3703775ebf]: Textual amendment: [Ss. 128D(5)-(9)](https://www.legislation.gov.uk/ukpga/1992/8/section/128D/5) added (1.4.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 36(6)](https://www.legislation.gov.uk/nia/2007/2/section/36/6), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2008/147](https://www.legislation.gov.uk/nisr/2008/147), [art. 2(a)](https://www.legislation.gov.uk/nisr/2008/147/article/2/a)

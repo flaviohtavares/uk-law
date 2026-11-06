@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the “**WIA**” means the Water Industry Act 1991 (c. 56),
 - (b) the “**WRA**” means the Water Resources Act 1991 (c. 57),
-- (ba)[^key-a912128d3ddebdec12eff541ced4dbac] “the appropriate agency” has the meaning given by section 221 of the WRA,
+- (ba)[^c-a912128d3ddebdec12eff541ced4dbac] “the appropriate agency” has the meaning given by section 221 of the WRA,
 - (c) “**the Assembly**” means the National Assembly for Wales.
 
 (3) Apart from this section and sections 102 to 104, this Act comes into force on such day as the appropriate authority may by order appoint.
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a912128d3ddebdec12eff541ced4dbac]: Textual amendment: [S. 105(2)(ba)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/2/ba) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 424](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/424) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a912128d3ddebdec12eff541ced4dbac]: Textual amendment: [S. 105(2)(ba)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/2/ba) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 424](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/424) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

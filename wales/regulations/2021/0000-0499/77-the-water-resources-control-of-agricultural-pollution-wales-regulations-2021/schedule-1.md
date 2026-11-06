@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Amount of manure, nitrogen and phosphate produced by grazing livestock and non-grazing livestock[^key-213ad2a33b3caf9454bfbfd1ca698f60]
+## SCHEDULE 1 — Amount of manure, nitrogen and phosphate produced by grazing livestock and non-grazing livestock[^c-213ad2a33b3caf9454bfbfd1ca698f60]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ Grazing livestock
 </tbody>
 </table>
 
-[^key-1492030d77ae96e90d8e2be58feeba9e][^f01006][^f01007][^key-5d314b9b0af4792f4d37777599d81c29]
+[^c-1492030d77ae96e90d8e2be58feeba9e][^f01006][^f01007][^c-5d314b9b0af4792f4d37777599d81c29]
 
 Table 2
 
@@ -124,9 +124,9 @@ Non-grazing livestock
 
 ## Annotations
 
-[^key-213ad2a33b3caf9454bfbfd1ca698f60]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/1) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-213ad2a33b3caf9454bfbfd1ca698f60]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/1) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
-[^key-1492030d77ae96e90d8e2be58feeba9e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/1) Table 1 substituted (31.12.2022) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1305)](https://www.legislation.gov.uk/wsi/2022/1305), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/2/6/a)
+[^c-1492030d77ae96e90d8e2be58feeba9e]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/1) Table 1 substituted (31.12.2022) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1305)](https://www.legislation.gov.uk/wsi/2022/1305), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/2/6/a)
 
 [^f01006]: Footnote: (a)
 
@@ -136,7 +136,7 @@ Non-grazing livestock
 
     In the case of a ewe, this figure includes one or more suckled lambs until the lambs are aged six months.
 
-[^key-5d314b9b0af4792f4d37777599d81c29]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/1) Table 1 substituted (31.12.2022) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1305)](https://www.legislation.gov.uk/wsi/2022/1305), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/2/6/b)
+[^c-5d314b9b0af4792f4d37777599d81c29]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/1) Table 1 substituted (31.12.2022) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1305)](https://www.legislation.gov.uk/wsi/2022/1305), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/2/6/b)
 
 [^f01008]: Footnote: (a)
 

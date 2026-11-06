@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Applications to vary[^key-f2f2f1ae19b4bdfe5af550871dc80bad][^key-4aaec546568706e3d1688daf6ff58b47]
+## 28. Applications to vary[^c-f2f2f1ae19b4bdfe5af550871dc80bad][^c-4aaec546568706e3d1688daf6ff58b47]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f2f2f1ae19b4bdfe5af550871dc80bad]: Commencement: S. 28 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-f2f2f1ae19b4bdfe5af550871dc80bad]: Commencement: S. 28 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-4aaec546568706e3d1688daf6ff58b47]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/28/section/28) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-4aaec546568706e3d1688daf6ff58b47]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/28/section/28) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

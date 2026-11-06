@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Extent[^key-5dad49b5af8266d892122813f5351a86]
+## 56. Extent[^c-5dad49b5af8266d892122813f5351a86]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dad49b5af8266d892122813f5351a86]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2005/11/section/56) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-5dad49b5af8266d892122813f5351a86]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2005/11/section/56) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

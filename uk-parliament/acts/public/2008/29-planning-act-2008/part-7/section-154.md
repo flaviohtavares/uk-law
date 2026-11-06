@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Duration of order granting development consent[^c19534391][^key-288e03286b63fe1e5d955cc8cb9590b4]
+## 154. Duration of order granting development consent[^c19534391][^c-288e03286b63fe1e5d955cc8cb9590b4]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c19534391]: Commencement: S. 154 partly in force; s. 154 in force for certain purposes at Royal Assent see s. 241
 
-[^key-288e03286b63fe1e5d955cc8cb9590b4]: Commencement: S. 154 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(i)](https://www.legislation.gov.uk/uksi/2010/101/article/3/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-288e03286b63fe1e5d955cc8cb9590b4]: Commencement: S. 154 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(i)](https://www.legislation.gov.uk/uksi/2010/101/article/3/i) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

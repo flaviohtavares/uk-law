@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Effect of deferment order[^key-87bcdb011a0a0b7271b343f5bb08529b]
+## 6. Effect of deferment order[^c-87bcdb011a0a0b7271b343f5bb08529b]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ Accordingly, sections 11(1) and 13(1) to (3A) and (5) of that Act (non-appearanc
 
 ## Annotations
 
-[^key-87bcdb011a0a0b7271b343f5bb08529b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2020/17/section/6) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-87bcdb011a0a0b7271b343f5bb08529b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2020/17/section/6) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

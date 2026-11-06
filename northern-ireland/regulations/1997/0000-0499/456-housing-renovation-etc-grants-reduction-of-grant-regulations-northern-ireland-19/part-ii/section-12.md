@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Successive applications[^key-f8bbbe97042fe63fbb90610b7110d568]
+## 12. Successive applications[^c-f8bbbe97042fe63fbb90610b7110d568]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8bbbe97042fe63fbb90610b7110d568]: Commencement: Reg. 12 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-f8bbbe97042fe63fbb90610b7110d568]: Commencement: Reg. 12 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

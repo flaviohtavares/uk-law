@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Powers of Crown Court and Magistrates' Court to issue witness summons[^key-ebe9fe6f6bbfded52eebb6374ca32e9d]
+## 169. Powers of Crown Court and Magistrates' Court to issue witness summons[^c-ebe9fe6f6bbfded52eebb6374ca32e9d]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebe9fe6f6bbfded52eebb6374ca32e9d]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2005/15/section/169) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(bb)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/bb)
+[^c-ebe9fe6f6bbfded52eebb6374ca32e9d]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2005/15/section/169) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(bb)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/bb)

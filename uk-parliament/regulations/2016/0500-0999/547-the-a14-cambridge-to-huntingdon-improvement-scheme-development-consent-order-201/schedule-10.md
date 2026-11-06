@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^key-152bb9db9664d543f1bf852005717f89]
+## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^c-152bb9db9664d543f1bf852005717f89]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ Article 41
 
 ## Annotations
 
-[^key-152bb9db9664d543f1bf852005717f89]: Commencement: Sch. 10 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-152bb9db9664d543f1bf852005717f89]: Commencement: Sch. 10 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 74ZA. Alternative means of notifying changes of circumstances[^key-267b96931114dc17500d876210acdf3e]
+## 74ZA. Alternative means of notifying changes of circumstances[^c-267b96931114dc17500d876210acdf3e]
 
 (1) In such cases and subject to such conditions as the Secretary of State may specify, the duty in regulation 74(1) to notify a change of circumstances may be discharged by notifying the Secretary of State—
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-267b96931114dc17500d876210acdf3e]: Textual amendment: [Reg. 74ZA](https://www.legislation.gov.uk/uksi/2006/215/regulation/74ZA) inserted (5.4.2010) by [The Social Security (Notification of Changes of Circumstances) Regulations 2010 (S.I. 2010/444)](https://www.legislation.gov.uk/uksi/2010/444), [regs. 1](https://www.legislation.gov.uk/uksi/2010/444/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/444/regulation/7)
+[^c-267b96931114dc17500d876210acdf3e]: Textual amendment: [Reg. 74ZA](https://www.legislation.gov.uk/uksi/2006/215/regulation/74ZA) inserted (5.4.2010) by [The Social Security (Notification of Changes of Circumstances) Regulations 2010 (S.I. 2010/444)](https://www.legislation.gov.uk/uksi/2010/444), [regs. 1](https://www.legislation.gov.uk/uksi/2010/444/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/444/regulation/7)

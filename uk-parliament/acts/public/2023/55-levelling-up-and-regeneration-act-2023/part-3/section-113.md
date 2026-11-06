@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Power to decline to determine applications in cases of earlier non-implementation etc[^key-1cd6738c438b6e1feb4f0a6319a7ac7c]
+## 113. Power to decline to determine applications in cases of earlier non-implementation etc[^c-1cd6738c438b6e1feb4f0a6319a7ac7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cd6738c438b6e1feb4f0a6319a7ac7c]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2023/55/section/113) in force at 26.12.2023 for specified purposes, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-1cd6738c438b6e1feb4f0a6319a7ac7c]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2023/55/section/113) in force at 26.12.2023 for specified purposes, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

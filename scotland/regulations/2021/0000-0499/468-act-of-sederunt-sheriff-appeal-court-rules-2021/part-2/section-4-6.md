@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.6. Lay support: functions, conditions and duties[^key-6775063b41ec777f72efbb81ccb63f5e]
+## 4.6. Lay support: functions, conditions and duties[^c-6775063b41ec777f72efbb81ccb63f5e]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6775063b41ec777f72efbb81ccb63f5e]: Commencement: Para. 4.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-6775063b41ec777f72efbb81ccb63f5e]: Commencement: Para. 4.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

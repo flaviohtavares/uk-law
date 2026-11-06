@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Compulsory and other acquisition of rights[^key-16b7ef03539b392cbd26b8d7615109c7]
+## 24. Compulsory and other acquisition of rights[^c-16b7ef03539b392cbd26b8d7615109c7]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ whichever is the earlier.
 
 ## Annotations
 
-[^key-16b7ef03539b392cbd26b8d7615109c7]: Commencement: Art. 24 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-16b7ef03539b392cbd26b8d7615109c7]: Commencement: Art. 24 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
 [^f00024]: Footnote: Section 11(1) was amended by Section 34(1) of, and paragraph 12(1) of Schedule 5 to the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1).

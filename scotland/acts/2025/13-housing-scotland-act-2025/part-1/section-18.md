@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Scottish Ministers’ request for landlord information from local authorities[^key-a743fb6fcd6562f02dbf2f08cecd1cd6][^key-ac45ffd812ef0adb1fe926647ec7d939]
+## 18. Scottish Ministers’ request for landlord information from local authorities[^c-a743fb6fcd6562f02dbf2f08cecd1cd6][^c-ac45ffd812ef0adb1fe926647ec7d939]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a743fb6fcd6562f02dbf2f08cecd1cd6]: Commencement: S. 18 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-a743fb6fcd6562f02dbf2f08cecd1cd6]: Commencement: S. 18 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-ac45ffd812ef0adb1fe926647ec7d939]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/13/section/18) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-ac45ffd812ef0adb1fe926647ec7d939]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/13/section/18) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

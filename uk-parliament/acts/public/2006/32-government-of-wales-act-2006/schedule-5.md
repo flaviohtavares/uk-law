@@ -204,7 +204,7 @@ Section 94
 
     *Not included in matters 6.1 and 6.2*
   - Matters 6.1 and 6.2 do not include any of the following—
-    - (a) regulation of decommissioned explosives that are outside the scope of the Waste Directive by virtue of Article 2(1)(b)(v) *(Extent: E+W)* *(affected by repeal, see note)*[^key-6383670989a97c01b6ec5a57f9efbfde]Article 2(1)(e) *(Extent: E+W)* of the Waste Directive and are or have been—
+    - (a) regulation of decommissioned explosives that are outside the scope of the Waste Directive by virtue of Article 2(1)(b)(v) *(Extent: E+W)* *(affected by repeal, see note)*[^c-6383670989a97c01b6ec5a57f9efbfde]Article 2(1)(e) *(Extent: E+W)* of the Waste Directive and are or have been—
       - (i) held on behalf of the Crown for naval, military or air force purposes or for the purposes of the department of the Secretary of State having responsibility for defence, or
       - (ii) held by or for the purposes of visiting forces;
     - (b) regulation of radioactive material that is at military premises;
@@ -270,7 +270,7 @@ Section 94
     - (b) carbon dioxide storage installations;
     - (c) renewable energy installations;
 
-    “**oil activity**” means storing, conveying or supplying oil, except any such activity that is carried out by an individual for the domestic purposes of the individual; “**relevant carbon capture and storage**” means the capture and underground disposal of carbon dioxide by a method in which the carbon dioxide is captured at the place of its production and conveyed for disposal by pipeline directly from the place of production to a place of underground disposal; “**relevant territorial waters**” means the waters which extend seaward for three miles from the baselines from which the breadth of the territorial sea adjacent to Wales is measured; but any order made under section 104(4)(a) of the Water Resources Act 1991 [^c20133211] for the purposes of Part 3 of that Act in relation to an area of the territorial sea adjacent to Wales also applies for the purposes of determining what are relevant territorial waters for the purposes of this field;“**sea**” means (except where the context otherwise requires) the sea adjacent to Wales out as far as the seaward boundary of the territorial sea; “**statutory**” means arising by virtue of an Act; “**visiting force**” means any such body, contingent or detachment of the forces of any country as is a visiting force for the purposes of any of the provisions of the Visiting Forces Act 1952; **“Waste Directive” *(Extent: E+W)* *(affected by repeal, see note)*[^key-b16160ce80b7ee1a283947677f46aef0]** means Directive 2006/12/EC of the European Parliament and of the Council of 5 April 2006 on waste, as it was originally adopted. *(Extent: E+W)* *(affected by repeal, see note)*[^key-b16160ce80b7ee1a283947677f46aef0] “Waste Directive” means Directive *(Extent: E+W)* [2008/98/ *(Extent: E+W)* EC *(Extent: E+W)*](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste. *(Extent: E+W)* .
+    “**oil activity**” means storing, conveying or supplying oil, except any such activity that is carried out by an individual for the domestic purposes of the individual; “**relevant carbon capture and storage**” means the capture and underground disposal of carbon dioxide by a method in which the carbon dioxide is captured at the place of its production and conveyed for disposal by pipeline directly from the place of production to a place of underground disposal; “**relevant territorial waters**” means the waters which extend seaward for three miles from the baselines from which the breadth of the territorial sea adjacent to Wales is measured; but any order made under section 104(4)(a) of the Water Resources Act 1991 [^c20133211] for the purposes of Part 3 of that Act in relation to an area of the territorial sea adjacent to Wales also applies for the purposes of determining what are relevant territorial waters for the purposes of this field;“**sea**” means (except where the context otherwise requires) the sea adjacent to Wales out as far as the seaward boundary of the territorial sea; “**statutory**” means arising by virtue of an Act; “**visiting force**” means any such body, contingent or detachment of the forces of any country as is a visiting force for the purposes of any of the provisions of the Visiting Forces Act 1952; **“Waste Directive” *(Extent: E+W)* *(affected by repeal, see note)*[^c-b16160ce80b7ee1a283947677f46aef0]** means Directive 2006/12/EC of the European Parliament and of the Council of 5 April 2006 on waste, as it was originally adopted. *(Extent: E+W)* *(affected by repeal, see note)*[^c-b16160ce80b7ee1a283947677f46aef0] “Waste Directive” means Directive *(Extent: E+W)* [2008/98/ *(Extent: E+W)* EC *(Extent: E+W)*](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste. *(Extent: E+W)* .
   - An order or an Order in Council made under or by virtue of section 158(3) or (4) for the purposes of that section also applies for the purpose of determining any boundary between the parts of the sea which are to be treated as adjacent to Wales for the purposes of this field and those which are not.
 - *Field 7: fire and rescue services and promotion of fire safety*
 - *Field 8: food*
@@ -456,9 +456,9 @@ Section 94
   - Council tax payable in respect of dwellings that are not the main residence of an individual.
   - *Interpretation of this field*
   - In this field— “**communities**” means separate areas for the administration of local government, each of which is wholly within a principal area (but does not constitute the whole of a principal area); “**principal area**” means a county borough or a county; “**principal council**” means a council for a principal area.
-- *Field 13: National Senedd[^key-60edd79c70d763519861630d1afb7962] for Wales*
+- *Field 13: National Senedd[^c-60edd79c70d763519861630d1afb7962] for Wales*
   - *Matter 13.1*
-  - Creation of, and conferral of functions on, an office or body for and in connection with investigating complaints about the conduct of Members of the Senedd[^key-959ca092134c70e47fe7789224d88f33] and reporting on the outcome of such investigations to the Senedd.
+  - Creation of, and conferral of functions on, an office or body for and in connection with investigating complaints about the conduct of Members of the Senedd[^c-959ca092134c70e47fe7789224d88f33] and reporting on the outcome of such investigations to the Senedd.
   - *Matter 13.2*
   - Conferral of functions on the Senedd Commission for and in connection with facilitating the exercise by the Senedd of its functions (including the provision to the Senedd of the property, staff and services required for the Senedd's purposes).
   - *Matter 13.3*
@@ -477,7 +477,7 @@ Section 94
     - (c) the imposition of fees for and in connection with the promotion of proposed private Assembly Measures, and
     - (d) the assessment of costs incurred in connection with proposed private Assembly Measures.
 - *Field 14: public administration*
-  - *Matter 14.1[^key-3b9b64b824e29893086d342de415c927]* The following provision relating to the Auditor General—
+  - *Matter 14.1[^c-3b9b64b824e29893086d342de415c927]* The following provision relating to the Auditor General—
     - (a) the following aspects of the Auditor General's terms of appointment—
     - (i) the period of the appointment;
     - (ii) salary, allowances and superannuation benefits;
@@ -688,7 +688,7 @@ Section 94
     - (ii) the Welsh Ministers;
     - (iii) Parliament;
     - (iv) Ministers of the Crown; or
-    - (v) an institution of the European Union[^key-8ec106c1301cbc895842c7650c3cb641];
+    - (v) an institution of the European Union[^c-8ec106c1301cbc895842c7650c3cb641];
   - (b) moneys provided by virtue of any enactment;
 
   “**telecommunications service**” means any service that consists of providing access to, or facilities for making use of, any system which exists (whether wholly or partly in the United Kingdom or elsewhere) for the purpose of facilitating the transmission of communications by any means involving the use of electrical, magnetic or electro-magnetic energy (including the apparatus comprised in the system), but does not include broadcasting, radio, or television; “**Welsh language authority**” means a person upon whom an enactment confers or imposes functions of—
@@ -868,7 +868,7 @@ and for this purpose, the reference to consent of the Secretary of State is a re
 
 #### Enactments other than this Act
 
-**3.** (1)[^key-ea5d68428bc41ebd96ad05ea4a6cb321] A provision of an Assembly Measure cannot make modifications of, or confer power by subordinate legislation to make modifications of, any of the provisions listed in the Table below—
+**3.** (1)[^c-ea5d68428bc41ebd96ad05ea4a6cb321] A provision of an Assembly Measure cannot make modifications of, or confer power by subordinate legislation to make modifications of, any of the provisions listed in the Table below—
 
 Table
 
@@ -881,7 +881,7 @@ Table
 | Civil Contingencies Act 2004 (c. 36) | The whole Act |
 | Re-Use of Public Sector Information Regulations 2005 (S.I. 2005/1505) | The whole set of Regulations |
 
-(2)[^key-394b8fe6658a23d57f3de9307386831f] Sub-paragraph (1), so far as it applies in relation to sections 145, 145A and 146A(1) of the Government of Wales Act 1998, does not apply to a provision to which sub-paragraph (3) applies.
+(2)[^c-394b8fe6658a23d57f3de9307386831f] Sub-paragraph (1), so far as it applies in relation to sections 145, 145A and 146A(1) of the Government of Wales Act 1998, does not apply to a provision to which sub-paragraph (3) applies.
 
 (3) This sub-paragraph applies to a provision of an Assembly Measure which—
 
@@ -891,7 +891,7 @@ Table
 
 **4.** A provision of an Assembly Measure cannot make modifications of, or confer power by subordinate legislation to make modifications of, any provision of an Act of Parliament other than this Act which requires sums required for the repayment of, or the payment of interest on, amounts borrowed by the Welsh Ministers to be charged on the Welsh Consolidated Fund.
 
-**5.** A provision of an Assembly Measure cannot make modifications of, or confer power by subordinate legislation to make modifications of, any functions of the Comptroller and Auditor General or the National Audit Office[^key-c7845c221255db9cd109501bc7c27526].
+**5.** A provision of an Assembly Measure cannot make modifications of, or confer power by subordinate legislation to make modifications of, any functions of the Comptroller and Auditor General or the National Audit Office[^c-c7845c221255db9cd109501bc7c27526].
 
 #### This Act
 
@@ -907,7 +907,7 @@ Table
 - (a) making modifications of so much of any enactment as is modified by this Act, or
 - (b) repealing so much of any provision of this Act as amends any enactment, if the provision ceases to have effect in consequence of any provision of, or made under, an Assembly Measure.
 
-(4)[^key-a98b8369bb455867cf8d07369ba08ea7] Sub-paragraph (1) does not apply in relation to any provision to which paragraph 3(3) applies.
+(4)[^c-a98b8369bb455867cf8d07369ba08ea7] Sub-paragraph (1) does not apply in relation to any provision to which paragraph 3(3) applies.
 
 (5) But, subject to sub-paragraph (6), a provision to which paragraph 3(3) applies cannot modify, or confer power by subordinate legislation to modify, paragraph 3 of Schedule 8.
 
@@ -918,7 +918,7 @@ Table
   - (ii) a Welsh Minister appointed under section 48,
   - (iii) the Counsel General or any person designated to exercise the functions of the Counsel General, or
   - (iv) a Deputy Welsh Minister, and
-- (b) is not chaired by a Member of the Senedd[^key-9348d22b2d042136af6e1508e7843105] who is a member of a political group with an executive role.
+- (b) is not chaired by a Member of the Senedd[^c-9348d22b2d042136af6e1508e7843105] who is a member of a political group with an executive role.
 
 ### Part 3 — EXCEPTIONS FROM GENERAL RESTRICTIONS IN PART 2[^c20328991]
 
@@ -938,7 +938,7 @@ Table
 
 #### Comptroller and Auditor General and National Audit Office[^M_F_4b65af2f-fedd-498d-d639-b0ccf99f583d]
 
-**8.** The general restrictions in Part 2 do not[^c20329491] prevent a provision of an Assembly Measure modifying, or conferring power by subordinate legislation to modify, any enactment relating to the Comptroller and Auditor General or the National Audit Office[^key-0bb43f3cb393f960a487380bc72f69d7] if the Secretary of State consents to the provision.
+**8.** The general restrictions in Part 2 do not[^c20329491] prevent a provision of an Assembly Measure modifying, or conferring power by subordinate legislation to modify, any enactment relating to the Comptroller and Auditor General or the National Audit Office[^c-0bb43f3cb393f960a487380bc72f69d7] if the Secretary of State consents to the provision.
 
 #### Restatement
 
@@ -1005,7 +1005,7 @@ or conferring power by subordinate legislation to do so.
 
 [^c20133181]: Textual amendment: O.J. No. L10, 14.1.1997, pp. 13-33. The scope of the Directive was extended by Directive 2003/105/EC of the European Parliament and of the Council (O.J. No. L345, 31.12.2003, pp 97-105). There have been other amendments which are not relevant to this Order.
 
-[^key-6383670989a97c01b6ec5a57f9efbfde]: Textual amendment: Words in Sch. 5 Pt. 1 substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/7/2/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-6383670989a97c01b6ec5a57f9efbfde]: Textual amendment: Words in Sch. 5 Pt. 1 substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/7/2/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^c20133191]: Textual amendment: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
 
@@ -1013,7 +1013,7 @@ or conferring power by subordinate legislation to do so.
 
 [^c20133211]: Textual amendment: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-b16160ce80b7ee1a283947677f46aef0]: Textual amendment: Words in Sch. 5 Pt. 1 substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-b16160ce80b7ee1a283947677f46aef0]: Textual amendment: Words in Sch. 5 Pt. 1 substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/7/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^c20310051]: Textual amendment: Sch. 5 Pt. 1 Field 9: Matter 9.1 inserted by [The National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910)](https://www.legislation.gov.uk/uksi/2007/910), [art. 3](https://www.legislation.gov.uk/uksi/2007/910/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2007/910/article/2)), the amending provision coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see Government of Wales Act 2006, s. 161(5)
 
@@ -1047,11 +1047,11 @@ or conferring power by subordinate legislation to do so.
 
 [^c20931751]: Textual amendment: Sch. 5 Pt. 1 Field 12: Matter 12.18 inserted (22.7.2010) by [The National Assembly for Wales (Legislative Competence) (Housing and Local Government) Order 2010 (S.I. 2010/1838)](https://www.legislation.gov.uk/uksi/2010/1838), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1838/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2010/1838/article/3/2)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
-[^key-3b9b64b824e29893086d342de415c927]: Textual amendment: Words in Sch. 5 Pt. 1 inserted (22.5.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6/paragraph/3)
+[^c-3b9b64b824e29893086d342de415c927]: Textual amendment: Words in Sch. 5 Pt. 1 inserted (22.5.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6/paragraph/3)
 
 [^c20317361]: Textual amendment: Sch. 5 Pt. 1 Field 15: Matter 15.1 inserted (10.7.2008) by [The National Assembly for Wales (Legislative Competence) (Social Welfare) Order 2008 (S.I. 2008/1785)](https://www.legislation.gov.uk/uksi/2008/1785), [art. 2](https://www.legislation.gov.uk/uksi/2008/1785/article/2)
 
@@ -1081,7 +1081,7 @@ or conferring power by subordinate legislation to do so.
 
 [^c20926961]: Textual amendment: Sch. 5 Pt. 1 Field 20: Matter 20.1 inserted (11.2.2010) by [The National Assembly for Wales (Legislative Competence) (Welsh Language) Order 2010 (S.I. 2010/245)](https://www.legislation.gov.uk/uksi/2010/245), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/245/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2010/245/article/3/2)
 
-[^key-8ec106c1301cbc895842c7650c3cb641]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-8ec106c1301cbc895842c7650c3cb641]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^c20326701]: Textual amendment: Sch. 5 Pt. 1: "Exceptions to Matters" repealed (19.11.2009) by [The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006)](https://www.legislation.gov.uk/uksi/2009/3006), [art. 2(7)](https://www.legislation.gov.uk/uksi/2009/3006/article/2/7)
 
@@ -1123,17 +1123,17 @@ or conferring power by subordinate legislation to do so.
 
 [^c20329891]: Textual amendment: Sch. 5 Pt. 2 para. 2A and cross-heading inserted (30.12.2007) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 235](https://www.legislation.gov.uk/ukpga/2007/28/section/235), [245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2), [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2007/28/schedule/17/paragraph/3)
 
-[^key-ea5d68428bc41ebd96ad05ea4a6cb321]: Textual amendment: Sch. 5 para. 3(1): Sch. 5 para. 3 renumbered as Sch. 5 para. 3(1) (22.5.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 6 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6/paragraph/4/2/a)
+[^c-ea5d68428bc41ebd96ad05ea4a6cb321]: Textual amendment: Sch. 5 para. 3(1): Sch. 5 para. 3 renumbered as Sch. 5 para. 3(1) (22.5.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 6 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6/paragraph/4/2/a)
 
-[^key-394b8fe6658a23d57f3de9307386831f]: Textual amendment: Sch. 5 para. 3(2), (3) inserted (22.5.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 6 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6/paragraph/4/2/b)
+[^c-394b8fe6658a23d57f3de9307386831f]: Textual amendment: Sch. 5 para. 3(2), (3) inserted (22.5.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 6 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6/paragraph/4/2/b)
 
-[^key-c7845c221255db9cd109501bc7c27526]: Textual amendment: Words in Sch. 5 para. 5 inserted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 27(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/27/1); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-c7845c221255db9cd109501bc7c27526]: Textual amendment: Words in Sch. 5 para. 5 inserted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 27(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/27/1); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
 [^c20927041]: Textual amendment: Sch. 5 Pt. 2 para. 6(2) substituted (11.2.2010) by [The National Assembly for Wales (Legislative Competence) (Welsh Language) Order 2010 (S.I. 2010/245)](https://www.legislation.gov.uk/uksi/2010/245), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/245/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2010/245/article/4/2)
 
-[^key-a98b8369bb455867cf8d07369ba08ea7]: Textual amendment: Sch. 5 para. 6(4)-(6) inserted (22.5.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6/paragraph/4/3)
+[^c-a98b8369bb455867cf8d07369ba08ea7]: Textual amendment: Sch. 5 para. 6(4)-(6) inserted (22.5.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/6/paragraph/4/3)
 
-[^key-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
 [^c20328991]: Textual amendment: Sch. 5 Pt. 3: heading substituted (19.11.2009) by [The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006)](https://www.legislation.gov.uk/uksi/2009/3006), [art. 2(10)](https://www.legislation.gov.uk/uksi/2009/3006/article/2/10)
 
@@ -1153,7 +1153,7 @@ or conferring power by subordinate legislation to do so.
 
 [^c20329491]: Textual amendment: Sch. 5 Pt. 3: words substituted (19.11.2009) in each place by [The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006)](https://www.legislation.gov.uk/uksi/2009/3006), [art. 2(12)](https://www.legislation.gov.uk/uksi/2009/3006/article/2/12)
 
-[^key-0bb43f3cb393f960a487380bc72f69d7]: Textual amendment: Words in Sch. 5 para. 8 inserted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 27(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/27/1); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-0bb43f3cb393f960a487380bc72f69d7]: Textual amendment: Words in Sch. 5 para. 8 inserted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 27(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/27/1); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
 [^c20329511]: Textual amendment: Sch. 5 Pt. 3: words substituted (19.11.2009) in each place by [The National Assembly for Wales (Legislative Competence) (Exceptions to Matters) Order 2009 (S.I. 2009/3006)](https://www.legislation.gov.uk/uksi/2009/3006), [art. 2(12)](https://www.legislation.gov.uk/uksi/2009/3006/article/2/12)
 

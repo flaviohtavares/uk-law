@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Dangerous structure orders in respect of listed buildings.[^c12917191][^key-cf49bdbbd62a5a3f7c94e3bc886ce8a2][^c12917181]
+## 56. Dangerous structure orders in respect of listed buildings.[^c12917191][^c-cf49bdbbd62a5a3f7c94e3bc886ce8a2][^c12917181]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ a local planning authority shall consider whether they should instead exercise t
 
 [^c12917191]: Modification: Chs. I, II (ss. 1-26) and IV (ss. 38-44) of Pt. I, ss. 54-56, 59-61, 66, 68-72, 74-76 and 88: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/b); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3).
 
-[^key-cf49bdbbd62a5a3f7c94e3bc886ce8a2]: Modification: S. 56 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
+[^c-cf49bdbbd62a5a3f7c94e3bc886ce8a2]: Modification: S. 56 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
 
 [^c12917181]: Modification: S. 56 applied (with modifications) by [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), [reg. 12](https://www.legislation.gov.uk/uksi/1990/1519/regulation/12), [Sch. 3](https://www.legislation.gov.uk/uksi/1990/1519/schedule/3)
 

@@ -26,15 +26,15 @@ Section 24
 
 **1.** The Financial Services and Markets Act 2000 is amended as follows.
 
-**2.**[^key-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ec13b477823c4e1cfd4ee9549c950346] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In the italic cross-heading before section 64, at the end insert “ *of approved persons* ”.
 
@@ -102,13 +102,13 @@ Section 24
 - (a) in the opening words, after “should be” insert “ , or what the period for which a suspension or restriction is to have effect should be, ”, and
 - (b) in paragraph (c), for “the person on whom the penalty is to be imposed” substitute “ the person against whom action is to be taken ”.
 
-**11.**[^key-c5eb7ede131b2d44aa4c38e7d4b29974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c5eb7ede131b2d44aa4c38e7d4b29974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c5eb7ede131b2d44aa4c38e7d4b29974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c5eb7ede131b2d44aa4c38e7d4b29974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-c5eb7ede131b2d44aa4c38e7d4b29974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c5eb7ede131b2d44aa4c38e7d4b29974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-c5eb7ede131b2d44aa4c38e7d4b29974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c5eb7ede131b2d44aa4c38e7d4b29974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** In section 165 (FSA's power to require information), in the heading, at the end insert “ **: authorised persons etc** ”.
 
@@ -175,17 +175,17 @@ Section 24
 
 (4) In subsection (7), after “206” insert “ or 206A ”.
 
-**21.**[^key-8f3d421fcaf71323c7cfb7c4cbfec3ab] In section 212(2) (the scheme manager), after “those functions” insert “ and the functions conferred on it by or under Part 15A ”.
+**21.**[^c-8f3d421fcaf71323c7cfb7c4cbfec3ab] In section 212(2) (the scheme manager), after “those functions” insert “ and the functions conferred on it by or under Part 15A ”.
 
 **22.** In section 219(3A) (scheme manager's power to require information), for “applying regulations under section 214B(3) above” substitute “ determining the matters mentioned in section 214D(2)(a) and (b) above ”.
 
-**23.**[^key-9ccd1829d8f45283a17b57ef57e3c4e6] In section 221A(3) (delegation of functions of FSCS manager), after “management expenses of the scheme manager” insert “ except where the function in question is one under Part 15A ”.
+**23.**[^c-9ccd1829d8f45283a17b57ef57e3c4e6] In section 221A(3) (delegation of functions of FSCS manager), after “management expenses of the scheme manager” insert “ except where the function in question is one under Part 15A ”.
 
 **24.**[^c2030332] (1) Section 223 (FSCS manager's management expenses) is amended as follows.
 
 (2) In subsection (3), in paragraph (c), after “214B” insert “ or 214D ”.
 
-(3)[^key-1f4b11913f74355ab5f37b01d551396d] After that paragraph insert—
+(3)[^c-1f4b11913f74355ab5f37b01d551396d] After that paragraph insert—
 
 > - (d) under Part 15A.
 
@@ -199,7 +199,7 @@ Section 24
 
 **26.** In section 348(5)(d) (restrictions on disclosure of confidential information by Authority etc), after “a person appointed” insert “ to collect or update information under section 139E or ”.
 
-**27.**[^key-120d47a36a8e8b7cb5f69e59b6ee2112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-120d47a36a8e8b7cb5f69e59b6ee2112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.** In section 391 (publication), for subsection (11) substitute—
 
@@ -210,12 +210,12 @@ Section 24
 (2) In paragraph (a)—
 
 - (a) after “63(3),” insert “ 63B(1), ”, and
-- (b)[^key-835bb261228af34a75bcca2b7e386b86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-835bb261228af34a75bcca2b7e386b86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph (b)—
 
 - (a) after “63(4),” insert “ 63B(3), ”, and
-- (b)[^key-cdb3d2b4f87699a411ac27d844ed877e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-cdb3d2b4f87699a411ac27d844ed877e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **30.** After section 415 insert—
 
@@ -266,7 +266,7 @@ Section 24
 
 **33.**[^c2030336] (1) Section 429 (Parliamentary control of statutory instruments) is amended as follows.
 
-(2)[^key-806b6da68ccfaaef7a48c6319c4f6717] In subsection (1)(a)—
+(2)[^c-806b6da68ccfaaef7a48c6319c4f6717] In subsection (1)(a)—
 
 - (a) omit “404”, and
 - (b) after “236(5),” insert “ 404G ”.
@@ -275,7 +275,7 @@ Section 24
 
 (4) In subsection (8), after “one made under section” insert “ 165A(2)(d) or ”.
 
-**34.**[^key-690201199cb5edae68fc087e572f42ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-690201199cb5edae68fc087e572f42ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **35.** (1) In Schedule 4 (treaty rights), paragraph 1 is amended as follows.
 
@@ -346,28 +346,28 @@ Section 24
 
 ## Annotations
 
-[^key-ec13b477823c4e1cfd4ee9549c950346]: Textual amendment: [Sch. 2 paras. 2-6](https://www.legislation.gov.uk/ukpga/2010/28/schedule/2/paragraph/2) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-ec13b477823c4e1cfd4ee9549c950346]: Textual amendment: [Sch. 2 paras. 2-6](https://www.legislation.gov.uk/ukpga/2010/28/schedule/2/paragraph/2) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-c5eb7ede131b2d44aa4c38e7d4b29974]: Textual amendment: [Sch. 2 paras. 11-14](https://www.legislation.gov.uk/ukpga/2010/28/schedule/2/paragraph/11) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c5eb7ede131b2d44aa4c38e7d4b29974]: Textual amendment: [Sch. 2 paras. 11-14](https://www.legislation.gov.uk/ukpga/2010/28/schedule/2/paragraph/11) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2030329]: Commencement: Sch. 2 para. 16 wholly in force at 8.6.2010; Sch. 2 para. 16(1)(2) in force at Royal Assent and Sch. 2 para. 16(3) in force at 8.6.2010 see s. 26(1)(l)(2)(e)
 
-[^key-8f3d421fcaf71323c7cfb7c4cbfec3ab]: Commencement: Sch. 2 para. 21 in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/f)
+[^c-8f3d421fcaf71323c7cfb7c4cbfec3ab]: Commencement: Sch. 2 para. 21 in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/f)
 
-[^key-9ccd1829d8f45283a17b57ef57e3c4e6]: Commencement: Sch. 2 para. 23 in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/f)
+[^c-9ccd1829d8f45283a17b57ef57e3c4e6]: Commencement: Sch. 2 para. 23 in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/f)
 
 [^c2030332]: Commencement: Sch. 2 para. 24 partly in force; Sch. 2 para. 24(1)(2) in force at Royal Assent see s. 26(1)(l)
 
-[^key-1f4b11913f74355ab5f37b01d551396d]: Commencement: Sch. 2 para. 24(3) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/f)
+[^c-1f4b11913f74355ab5f37b01d551396d]: Commencement: Sch. 2 para. 24(3) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/f)
 
-[^key-120d47a36a8e8b7cb5f69e59b6ee2112]: Textual amendment: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2010/28/schedule/2/paragraph/27) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-120d47a36a8e8b7cb5f69e59b6ee2112]: Textual amendment: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2010/28/schedule/2/paragraph/27) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-835bb261228af34a75bcca2b7e386b86]: Textual amendment: Sch. 2 para. 29(2)(b) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/2/3); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
+[^c-835bb261228af34a75bcca2b7e386b86]: Textual amendment: Sch. 2 para. 29(2)(b) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/2/3); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
 
-[^key-cdb3d2b4f87699a411ac27d844ed877e]: Textual amendment: Sch. 2 para. 29(3)(b) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/2/3); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
+[^c-cdb3d2b4f87699a411ac27d844ed877e]: Textual amendment: Sch. 2 para. 29(3)(b) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/2/3); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
 
 [^c2030336]: Commencement: Sch. 2 para. 33 partly in force; Sch. 2 para. 33(1)(3) in force at Royal Assent and Sch. 2 para. 33(4) in force at 8.6.2010 see s. 26(1)(l)(2)(e)
 
-[^key-806b6da68ccfaaef7a48c6319c4f6717]: Commencement: Sch. 2 para. 33(2) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/f)
+[^c-806b6da68ccfaaef7a48c6319c4f6717]: Commencement: Sch. 2 para. 33(2) in force at 12.10.2010 by [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/2480/article/2/f)
 
-[^key-690201199cb5edae68fc087e572f42ad]: Textual amendment: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2010/28/schedule/2/paragraph/34) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-690201199cb5edae68fc087e572f42ad]: Textual amendment: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2010/28/schedule/2/paragraph/34) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

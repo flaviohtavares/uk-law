@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Data Protection[^key-88d92416145276b3b7d0b455806d0378][^key-75b6df644d9b0e2176d8e7b31019ee97]
+## 141. Data Protection[^c-88d92416145276b3b7d0b455806d0378][^c-75b6df644d9b0e2176d8e7b31019ee97]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88d92416145276b3b7d0b455806d0378]: Commencement: S. 141 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
+[^c-88d92416145276b3b7d0b455806d0378]: Commencement: S. 141 not in force at Royal Assent, see [s. 148](https://www.legislation.gov.uk/asc/2022/1/section/148)
 
-[^key-75b6df644d9b0e2176d8e7b31019ee97]: Commencement: [S. 141](https://www.legislation.gov.uk/asc/2022/1/section/141) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(s)](https://www.legislation.gov.uk/wsi/2023/919/article/2/s)
+[^c-75b6df644d9b0e2176d8e7b31019ee97]: Commencement: [S. 141](https://www.legislation.gov.uk/asc/2022/1/section/141) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(s)](https://www.legislation.gov.uk/wsi/2023/919/article/2/s)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.237E. Interpretation[^key-78c7b777330ac8bace13f129695e3ff7]
+## 6.237E. Interpretation[^c-78c7b777330ac8bace13f129695e3ff7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78c7b777330ac8bace13f129695e3ff7]: Textual amendment: Rules 6.237-6.237E substituted for rule 6.327 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/51)
+[^c-78c7b777330ac8bace13f129695e3ff7]: Textual amendment: Rules 6.237-6.237E substituted for rule 6.327 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/51)

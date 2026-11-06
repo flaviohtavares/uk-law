@@ -44,19 +44,19 @@ An Act to amend the law relating to rape.
 
 and references to rape in other enactments (including the following provisions of this Act) shall be construed accordingly.
 
-(2)[^key-57485661a33e6b3bc697499b5a171097] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-57485661a33e6b3bc697499b5a171097] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c725377]
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c725388]
 
-## 4. Anonymity of complainants in rape etc cases.[^key-62c93d0bc0ea5616a60d63538195fc36]
+## 4. Anonymity of complainants in rape etc cases.[^c-62c93d0bc0ea5616a60d63538195fc36]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Provisions supplementary to s. 4.[^key-b444c106e883285873f8cb63a83826e6]
+## 5. Provisions supplementary to s. 4.[^c-b444c106e883285873f8cb63a83826e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -70,7 +70,7 @@ and references to rape in other enactments (including the following provisions o
 
 (1) This Act may be cited as the Sexual Offences (Amendment) Act 1976, and this Act and the Sexual Offences Acts 1956 and 1967 may be cited together as the Sexual Offences Acts 1956 to 1976.
 
-(2)[^key-81ca499e1857c725753199f070a5c45e] In this Act—
+(2)[^c-81ca499e1857c725753199f070a5c45e] In this Act—
 
 - (a) “ **a rape offence** ” means any of the following—
   - (i) an offence under section 1 of the Sexual Offences Act 2003 (rape);
@@ -81,17 +81,17 @@ and references to rape in other enactments (including the following provisions o
   - (vi) an offence under section 8 of that Act (causing or inciting a child under 13 to engage in sexual activity), where an activity involving penetration within subsection (3)(a) to (d) of that section was caused;
   - (vii) an offence under section 30 of that Act (sexual activity with a person with a mental disorder impeding choice), where the touching involved penetration within subsection (3)(a) to (d) of that section;
   - (viii) an offence under section 31 of that Act (causing or inciting a person, with a mental disorder impeding choice, to engage in sexual activity), where an activity involving penetration within subsection (3)(a) to (d) of that section was caused;
-  - (ix) [^key-03769e4b7d950ae225db795f2e2df94e]an attempt, conspiracy or incitement to commit an offence within any of paragraphs (i) to (vii);
+  - (ix) [^c-03769e4b7d950ae225db795f2e2df94e]an attempt, conspiracy or incitement to commit an offence within any of paragraphs (i) to (vii);
   - (x) aiding, abetting, counselling or procuring the commission of such an offence or an attempt to commit such an offence.
 - (b) the use in any provision of the word “man” without the addition of the word “boy” does not prevent the provision applying to any person to whom it would have applied if both words had been used, and similarly with the words “woman” and “girl”.
 
-(3)[^key-a3fb73ad44c6c1fa142f023843b701b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a3fb73ad44c6c1fa142f023843b701b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^c725551] This Act shall come into force on the expiration of the period of one month beginning with the date on which it is passed, [^key-598b5f4aaf86fc60475e21afc025baca]......
+(4)[^c725551] This Act shall come into force on the expiration of the period of one month beginning with the date on which it is passed, [^c-598b5f4aaf86fc60475e21afc025baca]......
 
-(5)[^key-585ba96c037ebbc0e11af0f5d1923641] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-585ba96c037ebbc0e11af0f5d1923641] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) This Act, except so far as it relates to courts–martial and the Courts–Martial Appeal Court, shall not extend to Scotland or Northern Ireland.[^key-b9076530a2fc148b3657c631c1e578c0]
+(6) This Act, except so far as it relates to courts–martial and the Courts–Martial Appeal Court, shall not extend to Scotland or Northern Ireland.[^c-b9076530a2fc148b3657c631c1e578c0]
 
 ## Annotations
 
@@ -103,28 +103,28 @@ and references to rape in other enactments (including the following provisions o
 
 [^c725375]: Marginal citation: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69).
 
-[^key-57485661a33e6b3bc697499b5a171097]: Textual amendment: S. 1(2) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/20/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-57485661a33e6b3bc697499b5a171097]: Textual amendment: S. 1(2) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 20(2)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/20/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c725377]: Textual amendment: S. 2 repealed (4.12.2000) by [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23), [s. 67(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/67/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7 paras. 3(3)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/3/3), [5(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/5/2)); [S.I. 2000/3075](https://www.legislation.gov.uk/uksi/2000/3075), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2000/3075/article/2/c/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2000/3075/article/3))
 
 [^c725388]: Textual amendment: S. 3 repealed (4.12.2000) by [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23), [s. 67(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/67/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7 paras. 3(3)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/3/3), [5(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/5/2)); [S.I. 2000/3075](https://www.legislation.gov.uk/uksi/2000/3075), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2000/3075/article/2/c/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2000/3075/article/3))
 
-[^key-62c93d0bc0ea5616a60d63538195fc36]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1976/82/section/4) repealed (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/2/paragraph/4/2), [6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(c)(e)](https://www.legislation.gov.uk/nisr/2004/467/article/2/c/e); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/e/f)
+[^c-62c93d0bc0ea5616a60d63538195fc36]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1976/82/section/4) repealed (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/2/paragraph/4/2), [6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(c)(e)](https://www.legislation.gov.uk/nisr/2004/467/article/2/c/e); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/e/f)
 
-[^key-b444c106e883285873f8cb63a83826e6]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1976/82/section/5) repealed (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/2/paragraph/4/2), [6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(c)(e)](https://www.legislation.gov.uk/nisr/2004/467/article/2/c/e); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/e/f)
+[^c-b444c106e883285873f8cb63a83826e6]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1976/82/section/5) repealed (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/2/paragraph/4/2), [6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(c)(e)](https://www.legislation.gov.uk/nisr/2004/467/article/2/c/e); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/e/f)
 
 [^c725540]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1976/82/section/6) repealed by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [ss. 158(5)](https://www.legislation.gov.uk/ukpga/1988/33/section/158/5), [170](https://www.legislation.gov.uk/ukpga/1988/33/section/170), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/16)
 
-[^key-81ca499e1857c725753199f070a5c45e]: Textual amendment: S. 7(2) substituted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/20/3/a); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-81ca499e1857c725753199f070a5c45e]: Textual amendment: S. 7(2) substituted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/20/3/a); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
-[^key-03769e4b7d950ae225db795f2e2df94e]: Modification: S. 7(2)(a)(ix) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/4) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-03769e4b7d950ae225db795f2e2df94e]: Modification: S. 7(2)(a)(ix) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/4) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-a3fb73ad44c6c1fa142f023843b701b5]: Textual amendment: S. 7(3) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/20/3/b); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-a3fb73ad44c6c1fa142f023843b701b5]: Textual amendment: S. 7(3) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/20/3/b); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c725551]: Modification: Power conferred by s. 7(4) fully exercised (22.4.1978) by [S.I. 1978/485](https://www.legislation.gov.uk/uksi/1978/485), [art. 2](https://www.legislation.gov.uk/uksi/1978/485/article/2)
 
-[^key-598b5f4aaf86fc60475e21afc025baca]: Textual amendment: Words in s. 7(4) repealed (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/f); S.R. 2004/467, art. 2(c)(e)
+[^c-598b5f4aaf86fc60475e21afc025baca]: Textual amendment: Words in s. 7(4) repealed (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/f); S.R. 2004/467, art. 2(c)(e)
 
-[^key-585ba96c037ebbc0e11af0f5d1923641]: Textual amendment: S. 7(5) repealed (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/f); S.R. 2004/467, art. 2(c)(e)
+[^c-585ba96c037ebbc0e11af0f5d1923641]: Textual amendment: S. 7(5) repealed (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/23/schedule/6) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/f); S.R. 2004/467, art. 2(c)(e)
 
-[^key-b9076530a2fc148b3657c631c1e578c0]: Textual amendment: Words in s. 7(6) substituted (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/2/paragraph/4/3) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/e); S.R. 2004/467, art. 2(c)(e)
+[^c-b9076530a2fc148b3657c631c1e578c0]: Textual amendment: Words in s. 7(6) substituted (7.10.2004 for E.W., 8.11.2004 for N.I.) by [Youth Justice and Criminal Evidence Act 1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), [s. 68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/4), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/2/paragraph/4/3) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7)); [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/e); S.R. 2004/467, art. 2(c)(e)

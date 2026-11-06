@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118A. Copyright in documents made available electronically for inspection under section 118(1)[^key-e1c7654a5847aaa37b56cffa7b4c0f97]
+## 118A. Copyright in documents made available electronically for inspection under section 118(1)[^c-e1c7654a5847aaa37b56cffa7b4c0f97]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1c7654a5847aaa37b56cffa7b4c0f97]: Textual amendment: S. 118A repealed (1.6.2014) by [The Copyright (Public Administration) Regulations 2014 (S.I. 2014/1385)](https://www.legislation.gov.uk/uksi/2014/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/1385/regulation/3/1)
+[^c-e1c7654a5847aaa37b56cffa7b4c0f97]: Textual amendment: S. 118A repealed (1.6.2014) by [The Copyright (Public Administration) Regulations 2014 (S.I. 2014/1385)](https://www.legislation.gov.uk/uksi/2014/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/1385/regulation/3/1)

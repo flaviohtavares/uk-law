@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 110. Confidentiality[^key-878795b7c390f41627ce92be31b90f1e]
+## Article 110. Confidentiality[^c-878795b7c390f41627ce92be31b90f1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-878795b7c390f41627ce92be31b90f1e]: Textual amendment: [Art. 110](https://www.legislation.gov.uk/eur/2013/389/article/110) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(16)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/16)
+[^c-878795b7c390f41627ce92be31b90f1e]: Textual amendment: [Art. 110](https://www.legislation.gov.uk/eur/2013/389/article/110) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(16)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/16)

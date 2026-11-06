@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Modifications to Part 3[^key-8025c0c8b23939854c2cf96fbc651ab7]
+## 28. Modifications to Part 3[^c-8025c0c8b23939854c2cf96fbc651ab7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The heading to regulation 17 (appeals to the Upper Tribunal in relation to a det
 
 ## Annotations
 
-[^key-8025c0c8b23939854c2cf96fbc651ab7]: Commencement: Reg. 28 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-8025c0c8b23939854c2cf96fbc651ab7]: Commencement: Reg. 28 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

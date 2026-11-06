@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Amendments relating to termination of status as eligible student: Education (Postgraduate Master’s Degree Loans) Regulations 2016[^key-e6f5dade5f956de41ad1057ff2123199]
+## 134. Amendments relating to termination of status as eligible student: Education (Postgraduate Master’s Degree Loans) Regulations 2016[^c-e6f5dade5f956de41ad1057ff2123199]
 
 *Extent: E+W*
 
@@ -108,17 +108,17 @@ summary: ''
 
 .
 
-**135.**[^key-667782e3e7f2e2b1c69ddb7e56cb757d] In regulation 12(4) (amount of the postgraduate master’s degree loan)—
+**135.**[^c-667782e3e7f2e2b1c69ddb7e56cb757d] In regulation 12(4) (amount of the postgraduate master’s degree loan)—
 
 - (a) for “eligible student”, in second place it occurs, substitute “student”;
 - (b) after “(1) and (2)” insert “and the student’s status as an eligible student has not terminated (see regulation 3)”.
 
 ## Annotations
 
-[^key-e6f5dade5f956de41ad1057ff2123199]: Commencement: Reg. 134 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-e6f5dade5f956de41ad1057ff2123199]: Commencement: Reg. 134 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00098]: Footnote: Paragraph (9) was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127) and amended by [S.I. 2021/929](https://www.legislation.gov.uk/uksi/2021/929) and [2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).
 
 [^f00099]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-667782e3e7f2e2b1c69ddb7e56cb757d]: Commencement: Reg. 135 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-667782e3e7f2e2b1c69ddb7e56cb757d]: Commencement: Reg. 135 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 102d. Transitional provisions: relations between trade marks, designations of origin and geographical indications when bridging arrangements are in effect[^key-0abbbd19b5863d5d1e93b0a2bcfd0379]
+## Article 102d. Transitional provisions: relations between trade marks, designations of origin and geographical indications when bridging arrangements are in effect[^c-0abbbd19b5863d5d1e93b0a2bcfd0379]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ but subject to the general modifications specified in paragraphs 2 and 3 and any
 
 ## Annotations
 
-[^key-0abbbd19b5863d5d1e93b0a2bcfd0379]: Textual amendment: [Arts. 102c](https://www.legislation.gov.uk/eur/2013/1308/article/102c), [102d](https://www.legislation.gov.uk/eur/2013/1308/article/102d) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1661/schedule/2)
+[^c-0abbbd19b5863d5d1e93b0a2bcfd0379]: Textual amendment: [Arts. 102c](https://www.legislation.gov.uk/eur/2013/1308/article/102c), [102d](https://www.legislation.gov.uk/eur/2013/1308/article/102d) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1661/schedule/2)

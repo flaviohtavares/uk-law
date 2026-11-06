@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**9.**[^key-623364c8b2f655c8d8e852a1298bf0ae] In rule 14(3), omit the words from after “discharged” to the end of the paragraph.
+**9.**[^c-623364c8b2f655c8d8e852a1298bf0ae] In rule 14(3), omit the words from after “discharged” to the end of the paragraph.
 
 ## Annotations
 
-[^key-623364c8b2f655c8d8e852a1298bf0ae]: Commencement: Art. 9 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-623364c8b2f655c8d8e852a1298bf0ae]: Commencement: Art. 9 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

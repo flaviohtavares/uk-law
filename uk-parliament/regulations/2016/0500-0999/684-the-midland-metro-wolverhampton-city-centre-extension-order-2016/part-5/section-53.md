@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Arbitration[^key-9ea37ff4430c0c761660b8be2eaecd4c]
+## 53. Arbitration[^c-9ea37ff4430c0c761660b8be2eaecd4c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except where otherwise expressly provided for in this Order and unless otherwise
 
 ## Annotations
 
-[^key-9ea37ff4430c0c761660b8be2eaecd4c]: Commencement: Art. 53 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-9ea37ff4430c0c761660b8be2eaecd4c]: Commencement: Art. 53 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

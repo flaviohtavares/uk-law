@@ -50,11 +50,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 > (6) References in this section (however expressed) to distribution under section 25(1) of money for meeting expenditure are to be construed in accordance with section 25(5).
 
-(5)[^key-ce4d77abb76f94ef54bb519287393964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ce4d77abb76f94ef54bb519287393964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ce4d77abb76f94ef54bb519287393964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ce4d77abb76f94ef54bb519287393964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-ce4d77abb76f94ef54bb519287393964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ce4d77abb76f94ef54bb519287393964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 44 (interpretation), in subsection (1), after the definition of “education” there is inserted—
 
@@ -72,4 +72,4 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-ce4d77abb76f94ef54bb519287393964]: Textual amendment: [S. 1(5)-(7)](https://www.legislation.gov.uk/ukpga/2003/23/section/1/5) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-ce4d77abb76f94ef54bb519287393964]: Textual amendment: [S. 1(5)-(7)](https://www.legislation.gov.uk/ukpga/2003/23/section/1/5) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)

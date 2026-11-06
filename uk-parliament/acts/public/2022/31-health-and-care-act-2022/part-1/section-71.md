@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Joint working and delegation arrangements[^key-a72d72bf7dc9780d83a247cf31df929a][^key-d3101bec6b2b836c02b0d8e0fbb4b430]
+## 71. Joint working and delegation arrangements[^c-a72d72bf7dc9780d83a247cf31df929a][^c-d3101bec6b2b836c02b0d8e0fbb4b430]
 
 *Extent: E+W*
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a72d72bf7dc9780d83a247cf31df929a]: Commencement: S. 71 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-a72d72bf7dc9780d83a247cf31df929a]: Commencement: S. 71 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-d3101bec6b2b836c02b0d8e0fbb4b430]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2022/31/section/71) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-d3101bec6b2b836c02b0d8e0fbb4b430]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2022/31/section/71) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

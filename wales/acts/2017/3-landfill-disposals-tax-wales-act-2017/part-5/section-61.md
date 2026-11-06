@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Penalty for failure to determine weight properly[^key-f4a579f397fed33b99492f1e92e4cb81]
+## 61. Penalty for failure to determine weight properly[^c-f4a579f397fed33b99492f1e92e4cb81]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An operator of an authorised landfill site who fails to determine the weight of 
 
 ## Annotations
 
-[^key-f4a579f397fed33b99492f1e92e4cb81]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2017/3/section/61) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-f4a579f397fed33b99492f1e92e4cb81]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2017/3/section/61) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

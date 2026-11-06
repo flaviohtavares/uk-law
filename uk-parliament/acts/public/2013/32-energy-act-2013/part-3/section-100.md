@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Disclosure of information[^key-fb92d77042fea8ace809aae4dd0e74f2]
+## 100. Disclosure of information[^c-fb92d77042fea8ace809aae4dd0e74f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 9 (disclosure of information) has effect.
 
 ## Annotations
 
-[^key-fb92d77042fea8ace809aae4dd0e74f2]: Commencement: S. 100 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-fb92d77042fea8ace809aae4dd0e74f2]: Commencement: S. 100 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

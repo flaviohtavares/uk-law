@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136.[^key-aa71ad78a6bee218509e50549b7654ac]
+## 136.[^c-aa71ad78a6bee218509e50549b7654ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 29 (gains and losses of a company from intangible fixed assets), in 
 
 ## Annotations
 
-[^key-aa71ad78a6bee218509e50549b7654ac]: Commencement: Reg. 136 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-aa71ad78a6bee218509e50549b7654ac]: Commencement: Reg. 136 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

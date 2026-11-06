@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Efficiency etc[^key-803723c8783b68f7de186d9861bc317c]
+## 28. Efficiency etc[^c-803723c8783b68f7de186d9861bc317c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-803723c8783b68f7de186d9861bc317c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2007/18/section/28) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/e)
+[^c-803723c8783b68f7de186d9861bc317c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2007/18/section/28) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/e)

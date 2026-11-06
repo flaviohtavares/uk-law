@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Powers of entry under the Coal Industry Act 1994[^key-8802f13124ffa6b3ece685c774013fbb]
+## SCHEDULE 5 — Powers of entry under the Coal Industry Act 1994[^c-8802f13124ffa6b3ece685c774013fbb]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ After Schedule 1 to the Coal Industry Act 1994 (c. 21) there is inserted—
 
 ## Annotations
 
-[^key-8802f13124ffa6b3ece685c774013fbb]: Commencement: Sch. 5 in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-8802f13124ffa6b3ece685c774013fbb]: Commencement: Sch. 5 in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

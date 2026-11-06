@@ -39,7 +39,7 @@ Made
 
 The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by section 269(4) and (8) of the Apprenticeships, Skills, Children and Learning Act 2009[^f00001]:
 
-## 1. Citation and interpretation[^key-44dba014a3f2137f3d33511af0e9325f]
+## 1. Citation and interpretation[^c-44dba014a3f2137f3d33511af0e9325f]
 
 (1) This Order may be cited as the Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No.2 and Transitional and Saving Provisions) Order 2010.
 
@@ -49,35 +49,35 @@ The Secretary of State for Children, Schools and Families makes the following Or
 - “relevant young offender institution” means a young offender institution in England, or part of such an institution, other than Ashfield Young Offender Institution, South Gloucestershire;
 - “the YPLA” means the Young People’s Learning Agency for England.
 
-## 2. Provisions coming into force on 26th February 2010[^key-e41917c9705d1823c86c9eb144f895fe]
+## 2. Provisions coming into force on 26th February 2010[^c-e41917c9705d1823c86c9eb144f895fe]
 
 The provisions of the Act specified in column 1 of Schedule 1 come into force on 26th February 2010 to the extent specified in column 2 of the Schedule.
 
-## 3. Provisions coming into force on 1st April 2010[^key-125016f3a29f2ad6dac919ea809ddd2d]
+## 3. Provisions coming into force on 1st April 2010[^c-125016f3a29f2ad6dac919ea809ddd2d]
 
 (1) The provisions of the Act specified in column 1 of Schedule 2 come into force on 1st April 2010.
 
 (2) Where a particular purpose is specified in column 2 of that Schedule in relation to any such provision, the provision comes into force on that date for that purpose only.
 
-## 4. Provisions coming into force on 6th April 2010[^key-46c142fc817f527d7cfaba9c6be868ff]
+## 4. Provisions coming into force on 6th April 2010[^c-46c142fc817f527d7cfaba9c6be868ff]
 
 The provisions of the Act specified in column 1 of Schedule 3 come into force on 6th April 2010 to the extent specified in column 2 of the Schedule.
 
-## 5. Provisions coming into force on 19th April 2010[^key-6915869460d5fb83b02273c84c95ce18]
+## 5. Provisions coming into force on 19th April 2010[^c-6915869460d5fb83b02273c84c95ce18]
 
 The provisions of the Act specified in column 1 of Schedule 4 come into force on 19th April 2010 to the extent specified in column 2 of the Schedule.
 
-## 6. Provisions coming into force on 1st September 2010[^key-dde60952b59136bf5496a5f2ed74ee59]
+## 6. Provisions coming into force on 1st September 2010[^c-dde60952b59136bf5496a5f2ed74ee59]
 
 (1) The provisions of the Act specified in column 1 of Schedule 5 come into force on 1st September 2010.
 
 (2) Where a particular purpose is specified in column 2 of that Schedule in relation to any such provision, the provision comes into force on that date for that purpose only.
 
-## 7. Provisions coming into force on 6th April 2011[^key-53e00c82dd5e2106f8635b40d708456d]
+## 7. Provisions coming into force on 6th April 2011[^c-53e00c82dd5e2106f8635b40d708456d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional and Saving Provisions[^key-ca824ac1a0c10c549d8846269775e586]
+## 8. Transitional and Saving Provisions[^c-ca824ac1a0c10c549d8846269775e586]
 
 (1) Despite the coming into force of sections 54 and 57 of the Act in accordance with article 3, the amendments to the Education Act 1996 made by those sections in relation to—
 
@@ -88,11 +88,11 @@ do not have effect in respect of any academic year before the 2011-2012 academic
 
 (2) In this article “academic year” has the meaning given by section 509AC of the Education Act 1996.
 
-**9.**[^key-0793179ef263e92ce9b4784e63620aa1] (1) This article applies in relation to any consultation carried out before 1st April 2010 in respect of the first guidance to be issued to local education authorities under section 72(1) of the Act.
+**9.**[^c-0793179ef263e92ce9b4784e63620aa1] (1) This article applies in relation to any consultation carried out before 1st April 2010 in respect of the first guidance to be issued to local education authorities under section 72(1) of the Act.
 
 (2) For the purposes of section 72 of the Act, the consultation is to be treated, on and after 1st April 2010, as if it had been carried out under section 72(3) of the Act by the YPLA.
 
-**10.**[^key-4494f729aef1bf88875c37541e59060b] (1) This article applies in relation to the statement of policy most recently published by the Learning and Skills Council for England under section 56B(7) of the 1992 Act (“the current section 56B statement”).
+**10.**[^c-4494f729aef1bf88875c37541e59060b] (1) This article applies in relation to the statement of policy most recently published by the Learning and Skills Council for England under section 56B(7) of the 1992 Act (“the current section 56B statement”).
 
 (2) The current section 56B statement is to be treated during the transitional period as prepared by the YPLA with respect to the exercise of its intervention powers (as defined in section 73(6) of the Act).
 
@@ -103,7 +103,7 @@ do not have effect in respect of any academic year before the 2011-2012 academic
 - “the 1992 Act” means the Further and Higher Education Act 1992;
 - “the transitional period” means the period beginning with 1st April 2010 and ending with the date on which the YPLA publishes a statement under section 73(4) of the Act.
 
-**11.**[^key-eb92a14d8b26f8eff1dc67aac0a5df4d] (1) This article applies in relation to any children and young people’s plan (“the current plan”) prepared by a local authority[^M_F_d291d161-149f-41b6-838f-145d2fc96b37] under section 17 of the Children Act 2004 (“the 2004 Act”) and which has effect immediately before 1st April 2010.
+**11.**[^c-eb92a14d8b26f8eff1dc67aac0a5df4d] (1) This article applies in relation to any children and young people’s plan (“the current plan”) prepared by a local authority[^M_F_d291d161-149f-41b6-838f-145d2fc96b37] under section 17 of the Children Act 2004 (“the 2004 Act”) and which has effect immediately before 1st April 2010.
 
 (2) The current plan is to continue to have effect until the relevant date.
 
@@ -111,11 +111,11 @@ do not have effect in respect of any academic year before the 2011-2012 academic
 
 (4) For the purposes of this article and article 12, a “new children and young people’s plan” means a children and young people’s plan published in accordance with regulations under section 17 of the 2004 Act, as substituted by section 194(3) of the Act.
 
-**12.**[^key-2f35e5698a5521f361cdc4f6fc3d5c2d] (1) Despite the coming into force of section 194(9) of the Act in accordance with article 3, the amendments to section 21 of the Education Act 2002 made by that subsection do not have effect in relation to a school until the relevant Children’s Trust Board publishes a new children and young people’s plan.
+**12.**[^c-2f35e5698a5521f361cdc4f6fc3d5c2d] (1) Despite the coming into force of section 194(9) of the Act in accordance with article 3, the amendments to section 21 of the Education Act 2002 made by that subsection do not have effect in relation to a school until the relevant Children’s Trust Board publishes a new children and young people’s plan.
 
 (2) The “relevant Children’s Trust Board”, in relation to a school, means the Children’s Trust Board established by arrangements made under section 10 of the Children Act 2004 by the local authority by which the school is maintained[^M_F_1e164bba-88ef-444d-c0eb-69fed2873464].
 
-**13.**[^key-ab4f623c387a48faba050417e45af051] Despite the coming into force of section 123 of and paragraphs 14, 15, 41 and 50 of Schedule 6 to, and section 266 of and Part 2 of Schedule 16 to the Act (which repeal sections 1 and 28 of, and Schedule 1 to, the Learning and Skills Act 2000), in accordance with article 3, section 28 and paragraph 14 of Schedule 1 to the Learning and Skills Act 2000 continue to have effect in respect of the financial year beginning on 1st April 2009 only, save that the first reference to the Council is to be read as a reference to the Chief Executive of Skills Funding.
+**13.**[^c-ab4f623c387a48faba050417e45af051] Despite the coming into force of section 123 of and paragraphs 14, 15, 41 and 50 of Schedule 6 to, and section 266 of and Part 2 of Schedule 16 to the Act (which repeal sections 1 and 28 of, and Schedule 1 to, the Learning and Skills Act 2000), in accordance with article 3, section 28 and paragraph 14 of Schedule 1 to the Learning and Skills Act 2000 continue to have effect in respect of the financial year beginning on 1st April 2009 only, save that the first reference to the Council is to be read as a reference to the Chief Executive of Skills Funding.
 
 **14.** (1) Despite the coming into force of section 123 of and paragraphs 14 and 16 of Schedule 6 to, and section 266 of and Part 2 of Schedule 16 to the Act (which repeal section 2 of the Learning and Skills Act 2000), in accordance with article 3, section 2 of the Learning and Skills Act 2000 continues to have effect in accordance with paragraph (2) until the earliest date on which regulations under section 1(5)(b) of the Act come into force.
 
@@ -134,13 +134,13 @@ Department for Children, Schools and Families
 
 10th February 2010
 
-## SCHEDULE 1 — Provisions coming into force on 26th February 2010[^key-405268fe501b6171c2f110bca7d614df]
+## SCHEDULE 1 — Provisions coming into force on 26th February 2010[^c-405268fe501b6171c2f110bca7d614df]
 
 | Column 1 | Column 2 |
 | --- | --- |
 | Section 194(1), (2) and (3) | To the extent necessary for the purposes of enabling regulations to be made under section 12A(4) of the Children Act 2004 (as inserted by section 194(2) of the Act) and section 17(1) of the Children Act 2004 (as substituted by section 194(3) of the Act). |
 
-## SCHEDULE 2 — Provisions coming into force on 1st April 2010[^key-fe89e1ab39c34b03fff66ba64ad899f9]
+## SCHEDULE 2 — Provisions coming into force on 1st April 2010[^c-fe89e1ab39c34b03fff66ba64ad899f9]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -179,21 +179,21 @@ Department for Children, Schools and Families
 | Schedule 8 | To the extent that it is not already in force. |
 | In Schedule 16—<br>The repeals specified in Parts 1, 2 and 5 | To the extent that it is not already in force. |
 
-## SCHEDULE 3 — Provisions coming into force on 6th April 2010[^key-2c06ed3781215ea20777b5978cb2b2af]
+## SCHEDULE 3 — Provisions coming into force on 6th April 2010[^c-2c06ed3781215ea20777b5978cb2b2af]
 
 | Column 1 | Column 2 |
 | --- | --- |
 | Section 40 | For all purposes except in relation to small employers and their employees.<br>- (1) “small employer” means an employer who employs fewer than 250 employees.<br>- (2) For the purposes of (1) above —<br>  - (a) Subject to (3) below, the number of employees employed by an employer at any time shall be determined by ascertaining the average number of employees employed by the employer in the previous twelve months, calculated in accordance with (b).<br>  - (b) The average number of employees employed by an employer in a twelve month period is to be ascertained by determining the number of employees employed by the employer in each month in the twelve month period (whether they were employed throughout the month or not), adding together those monthly figures and dividing the number by 12.<br>- (3) If the undertaking has been in existence for less than twelve months, the references to twelve months in (2)(a) and (b) and the divisor of 12 referred to in (2)(b), are to be replaced by the number of months the undertaking has been in existence. |
 | Schedule 1 | For all purposes except in relation to small employers and their employees as defined above. |
 
-## SCHEDULE 4 — Provisions coming into force on 19th April 2010[^key-386220b70239a9608f1ab2d6e7d9333a]
+## SCHEDULE 4 — Provisions coming into force on 19th April 2010[^c-386220b70239a9608f1ab2d6e7d9333a]
 
 | Column 1 | Column 2 |
 | --- | --- |
 | Sections 206 to 224 | In relation to a complaint against a school (as defined in section 206 of the Act), where the school is maintained by Barking and Dagenham London Borough Council, Cambridgeshire County Council, Medway Council or Sefton Council. |
 | In Schedule 16,<br>Part 7 | In relation to a complaint against a school (as defined in section 206 of the Act), where the school is maintained by Barking and Dagenham London Borough Council, Cambridgeshire County Council, Medway Council or Sefton Council. |
 
-## SCHEDULE 5 — Provisions coming into force on 1st September 2010[^key-997f7ad6980a1fc71dd19b2fd1d891e7]
+## SCHEDULE 5 — Provisions coming into force on 1st September 2010[^c-997f7ad6980a1fc71dd19b2fd1d891e7]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -204,12 +204,12 @@ Department for Children, Schools and Families
 | Section 51 for England only |  |
 | Section 52 for England only |  |
 | Section 59 | To the extent that it is not already in force. |
-| Sections 242 to 245[^key-eca7a485f5e33755d54c14eb76a24364] |  |
+| Sections 242 to 245[^c-eca7a485f5e33755d54c14eb76a24364] |  |
 | Section 249(3) |  |
-| [^key-57f2a32f85a5cc0f234b3f74d520cfc0]. . . |  |
+| [^c-57f2a32f85a5cc0f234b3f74d520cfc0]. . . |  |
 | Schedule 2 | To the extent that it is not already in force. |
 
-## SCHEDULE 6 — Provisions coming into force on 6th April 2011[^key-2137a946300344802e4d9133cc62da25]
+## SCHEDULE 6 — Provisions coming into force on 6th April 2011[^c-2137a946300344802e4d9133cc62da25]
 
 **No longer in force.**
 
@@ -329,50 +329,50 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-44dba014a3f2137f3d33511af0e9325f]: Commencement: Art. 1 in force at made date
+[^c-44dba014a3f2137f3d33511af0e9325f]: Commencement: Art. 1 in force at made date
 
-[^key-e41917c9705d1823c86c9eb144f895fe]: Commencement: Art. 2 in force at made date
+[^c-e41917c9705d1823c86c9eb144f895fe]: Commencement: Art. 2 in force at made date
 
-[^key-125016f3a29f2ad6dac919ea809ddd2d]: Commencement: Art. 3 in force at made date
+[^c-125016f3a29f2ad6dac919ea809ddd2d]: Commencement: Art. 3 in force at made date
 
-[^key-46c142fc817f527d7cfaba9c6be868ff]: Commencement: Art. 4 in force at made date
+[^c-46c142fc817f527d7cfaba9c6be868ff]: Commencement: Art. 4 in force at made date
 
-[^key-6915869460d5fb83b02273c84c95ce18]: Commencement: Art. 5 in force at made date
+[^c-6915869460d5fb83b02273c84c95ce18]: Commencement: Art. 5 in force at made date
 
-[^key-dde60952b59136bf5496a5f2ed74ee59]: Commencement: Art. 6 in force at made date
+[^c-dde60952b59136bf5496a5f2ed74ee59]: Commencement: Art. 6 in force at made date
 
-[^key-53e00c82dd5e2106f8635b40d708456d]: Textual amendment: Art. 7 omitted (21.3.2011) by virtue of [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 and Transitional and Saving Provisions) Order 2010 (Amendment) Order 2011 (S.I. 2011/882)](https://www.legislation.gov.uk/uksi/2011/882), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/882/article/2/a)
+[^c-53e00c82dd5e2106f8635b40d708456d]: Textual amendment: Art. 7 omitted (21.3.2011) by virtue of [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 and Transitional and Saving Provisions) Order 2010 (Amendment) Order 2011 (S.I. 2011/882)](https://www.legislation.gov.uk/uksi/2011/882), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/882/article/2/a)
 
-[^key-ca824ac1a0c10c549d8846269775e586]: Commencement: Art. 8 in force at made date
+[^c-ca824ac1a0c10c549d8846269775e586]: Commencement: Art. 8 in force at made date
 
-[^key-0793179ef263e92ce9b4784e63620aa1]: Commencement: Art. 9 in force at made date
+[^c-0793179ef263e92ce9b4784e63620aa1]: Commencement: Art. 9 in force at made date
 
-[^key-4494f729aef1bf88875c37541e59060b]: Commencement: Art. 10 in force at made date
+[^c-4494f729aef1bf88875c37541e59060b]: Commencement: Art. 10 in force at made date
 
-[^key-eb92a14d8b26f8eff1dc67aac0a5df4d]: Commencement: Art. 11 in force at made date
+[^c-eb92a14d8b26f8eff1dc67aac0a5df4d]: Commencement: Art. 11 in force at made date
 
 [^M_F_d291d161-149f-41b6-838f-145d2fc96b37]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2010/303/article/11/1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1](https://www.legislation.gov.uk/uksi/2010/1172/article/1), [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/2/paragraph/25/2)
 
 [^M_F_2178073e-8c10-4583-aea1-270ddfc523f4]: Textual amendment: Words in [art. 11(3)](https://www.legislation.gov.uk/uksi/2010/303/article/11/3) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1](https://www.legislation.gov.uk/uksi/2010/1172/article/1), [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/2/paragraph/25/2)
 
-[^key-2f35e5698a5521f361cdc4f6fc3d5c2d]: Commencement: Art. 12 in force at made date
+[^c-2f35e5698a5521f361cdc4f6fc3d5c2d]: Commencement: Art. 12 in force at made date
 
 [^M_F_1e164bba-88ef-444d-c0eb-69fed2873464]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2010/303/article/12/2) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1](https://www.legislation.gov.uk/uksi/2010/1172/article/1), [Sch. 2 para. 25(3)](https://www.legislation.gov.uk/uksi/2010/1172/schedule/2/paragraph/25/3)
 
-[^key-ab4f623c387a48faba050417e45af051]: Textual amendment: Arts. 13, 14 inserted (30.3.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 3 and Transitional and Transitory Provisions) and (Commencement No. 2 (Amendment)) Order 2010 (S.I. 2010/1151)](https://www.legislation.gov.uk/uksi/2010/1151), [art. 22](https://www.legislation.gov.uk/uksi/2010/1151/article/22)
+[^c-ab4f623c387a48faba050417e45af051]: Textual amendment: Arts. 13, 14 inserted (30.3.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 3 and Transitional and Transitory Provisions) and (Commencement No. 2 (Amendment)) Order 2010 (S.I. 2010/1151)](https://www.legislation.gov.uk/uksi/2010/1151), [art. 22](https://www.legislation.gov.uk/uksi/2010/1151/article/22)
 
-[^key-405268fe501b6171c2f110bca7d614df]: Commencement: Sch. 1 in force at made date
+[^c-405268fe501b6171c2f110bca7d614df]: Commencement: Sch. 1 in force at made date
 
-[^key-fe89e1ab39c34b03fff66ba64ad899f9]: Commencement: Sch. 2 in force at made date
+[^c-fe89e1ab39c34b03fff66ba64ad899f9]: Commencement: Sch. 2 in force at made date
 
-[^key-2c06ed3781215ea20777b5978cb2b2af]: Commencement: Sch. 3 in force at made date
+[^c-2c06ed3781215ea20777b5978cb2b2af]: Commencement: Sch. 3 in force at made date
 
-[^key-386220b70239a9608f1ab2d6e7d9333a]: Commencement: Sch. 4 in force at made date
+[^c-386220b70239a9608f1ab2d6e7d9333a]: Commencement: Sch. 4 in force at made date
 
-[^key-997f7ad6980a1fc71dd19b2fd1d891e7]: Commencement: Sch. 5 in force at made date
+[^c-997f7ad6980a1fc71dd19b2fd1d891e7]: Commencement: Sch. 5 in force at made date
 
-[^key-eca7a485f5e33755d54c14eb76a24364]: Textual amendment: Words in Sch. 5 Table substituted (26.7.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 (Amendment) and Transitional Provision) Order 2010 (S.I. 2010/1891)](https://www.legislation.gov.uk/uksi/2010/1891), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/1891/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/1891/article/3))
+[^c-eca7a485f5e33755d54c14eb76a24364]: Textual amendment: Words in Sch. 5 Table substituted (26.7.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 (Amendment) and Transitional Provision) Order 2010 (S.I. 2010/1891)](https://www.legislation.gov.uk/uksi/2010/1891), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/1891/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/1891/article/3))
 
-[^key-57f2a32f85a5cc0f234b3f74d520cfc0]: Textual amendment: Words in Sch. 5 Table omitted (26.7.2010) by virtue of [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 (Amendment) and Transitional Provision) Order 2010 (S.I. 2010/1891)](https://www.legislation.gov.uk/uksi/2010/1891), [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1891/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/1891/article/3))
+[^c-57f2a32f85a5cc0f234b3f74d520cfc0]: Textual amendment: Words in Sch. 5 Table omitted (26.7.2010) by virtue of [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 (Amendment) and Transitional Provision) Order 2010 (S.I. 2010/1891)](https://www.legislation.gov.uk/uksi/2010/1891), [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1891/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/1891/article/3))
 
-[^key-2137a946300344802e4d9133cc62da25]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2010/303/schedule/6) omitted (21.3.2011) by virtue of [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 and Transitional and Saving Provisions) Order 2010 (Amendment) Order 2011 (S.I. 2011/882)](https://www.legislation.gov.uk/uksi/2011/882), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/882/article/2/b)
+[^c-2137a946300344802e4d9133cc62da25]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2010/303/schedule/6) omitted (21.3.2011) by virtue of [The Apprenticeships, Skills, Children and Learning Act 2009 (Commencement No. 2 and Transitional and Saving Provisions) Order 2010 (Amendment) Order 2011 (S.I. 2011/882)](https://www.legislation.gov.uk/uksi/2011/882), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/882/article/2/b)

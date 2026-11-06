@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**27.**[^key-1452cf55f966437ade5489da19f7c045] Where the Board revokes a fishing licence or refuses to issue or renew a fishing licence, the person to whom notice under Byelaw 26 has been given may appeal to the Department within 14 days from the date on which such notice is served on him.
+**27.**[^c-1452cf55f966437ade5489da19f7c045] Where the Board revokes a fishing licence or refuses to issue or renew a fishing licence, the person to whom notice under Byelaw 26 has been given may appeal to the Department within 14 days from the date on which such notice is served on him.
 
 ## Annotations
 
-[^key-1452cf55f966437ade5489da19f7c045]: Commencement: S. 27 in operation at 1.11.1997, see byelaw 1
+[^c-1452cf55f966437ade5489da19f7c045]: Commencement: S. 27 in operation at 1.11.1997, see byelaw 1

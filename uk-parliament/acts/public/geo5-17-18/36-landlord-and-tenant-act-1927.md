@@ -128,7 +128,7 @@ Section twenty of the [^c5856961]Agricultural Holdings Act, 1923 (which relates 
 
 ### 13. Power to apply and raise capital money.
 
-(1) Capital money arising under the [^c5857031]Settled Land Act, 1925 [^c5857041]. . . [^key-6e4e0f9757fec32553b88c8ce4ef5ef5]. . . may be applied—
+(1) Capital money arising under the [^c5857031]Settled Land Act, 1925 [^c5857041]. . . [^c-6e4e0f9757fec32553b88c8ce4ef5ef5]. . . may be applied—
 
 - (a) in payment as for an improvement authorised by the Act of any money expended and costs incurred by a landlord under or in pursuance of this Part of this Act in or about the execution of any improvement;
 - (b) in payment of any sum due to a tenant under this Part of this Act in respect of compensation for an improvement [^c5857061]. . . and any costs, charges, and expenses incidental thereto;
@@ -201,9 +201,9 @@ This subsection shall be construed as one with section one hundred and forty-six
 
 (3) This section applies whether the lease was created before or after the commencement of this Act.
 
-### 19. Provisions as to covenants not to assign, &c. without licence or consent.[^c5857401][^c5857411][^key-019b314c86ab940859d95a9207e5c618][^key-260eb7ba31355798d9ff88b68b9a606e][^c5857391]
+### 19. Provisions as to covenants not to assign, &c. without licence or consent.[^c5857401][^c5857411][^c-019b314c86ab940859d95a9207e5c618][^c-260eb7ba31355798d9ff88b68b9a606e][^c5857391]
 
-(1)[^c5857431][^c5857441][^key-b16e783bfd7c9fc488572a3f348f7277] In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against assigning, underletting, charging or parting with the possession of demised premises or any part thereof without licence or consent, such covenant condition or agreement shall, notwithstanding any express provision to the contrary, be deemed to be subject—
+(1)[^c5857431][^c5857441][^c-b16e783bfd7c9fc488572a3f348f7277] In all leases whether made before or after the commencement of this Act containing a covenant condition or agreement against assigning, underletting, charging or parting with the possession of demised premises or any part thereof without licence or consent, such covenant condition or agreement shall, notwithstanding any express provision to the contrary, be deemed to be subject—
 
 - (a) to a proviso to the effect that such licence or consent is not to be unreasonably withheld, but this proviso does not preclude the right of the landlord to require payment of a reasonable sum in respect of any legal or other expenses incurred in connection with such licence or consent; and
 - (b) (if the lease is for more than forty years, and is made in consideration wholly or partially of the erection, or the substantial improvement, addition or alteration of buildings, and the lessor is not a Government department or local or public authority, or a statutory or public utility company) to a proviso to the effect that in the case of any assignment, under-letting, charging or parting with the possession (whether by the holders of the lease or any under-tenant whether immediate or not) effected more than seven years before the end of the term no consent or licence shall be required, if notice in writing of the transaction is given to the lessor within six months after the transaction is effected.
@@ -249,7 +249,7 @@ Where a dispute as to the reasonableness of any such sum has been determined by 
 
 *Extent: W*
 
-(5)[^key-41d6b9a4d82f394aec01dfff22f7954d] This section does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1).
+(5)[^c-41d6b9a4d82f394aec01dfff22f7954d] This section does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1).
 
 ### 20. Apportionment of rents.[^c5857551][^c5857541]
 
@@ -263,7 +263,7 @@ Provided that the Minister may in any such case, on the application of any perso
 
 *Extent: W*
 
-(3)[^key-1c1e1b9b642bc8e98468a6f22cb3cbdb] This section does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1).
+(3)[^c-1c1e1b9b642bc8e98468a6f22cb3cbdb] This section does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1).
 
 ## Part III — General
 
@@ -411,7 +411,7 @@ Section 12.
 
 [^c5857041]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/13/1) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4), [25(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
-[^key-6e4e0f9757fec32553b88c8ce4ef5ef5]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/13/1) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/2); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-6e4e0f9757fec32553b88c8ce4ef5ef5]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/13/1) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/2); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c5857061]: Textual amendment: Words repealed by [Landlord and Tenant Act 1954 (c. 56)](https://www.legislation.gov.uk/ukpga/1954/56), [s. 45](https://www.legislation.gov.uk/ukpga/1954/56/section/45), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1954/56/schedule/7/part/I)
 
@@ -439,9 +439,9 @@ Section 12.
 
 [^c5857411]: Modification: S. 19 excluded (3.11.1994) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 7(3)(c)](https://www.legislation.gov.uk/ukpga/1994/33/section/7/3/c)
 
-[^key-019b314c86ab940859d95a9207e5c618]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19) modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
+[^c-019b314c86ab940859d95a9207e5c618]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19) modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-260eb7ba31355798d9ff88b68b9a606e]: Modification: S. 19 excluded (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/3/1/c); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
+[^c-260eb7ba31355798d9ff88b68b9a606e]: Modification: S. 19 excluded (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/3/1/c); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
 
 [^c5857391]: Modification: S. 19 excluded by [Housing Act 1988 (c. 50, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 15(2)](https://www.legislation.gov.uk/ukpga/1988/50/section/15/2)
 
@@ -449,7 +449,7 @@ Section 12.
 
 [^c5857441]: Modification: S. 19(1)-(3) excluded (1.8.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [ss. 149(3)(c)](https://www.legislation.gov.uk/ukpga/1999/33/section/149/3/c); [S.I. 2000/1985](https://www.legislation.gov.uk/uksi/2000/1985), [art. 2](https://www.legislation.gov.uk/uksi/2000/1985/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1985/schedule)
 
-[^key-b16e783bfd7c9fc488572a3f348f7277]: Modification: [S. 19(1)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19/1) excluded (1.12.2022) by [Renting Homes (Wales) Act 2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1), [ss. 58(2)](https://www.legislation.gov.uk/anaw/2016/1/section/58/2), [257(2)](https://www.legislation.gov.uk/anaw/2016/1/section/257/2) (with [ss. 18(3)](https://www.legislation.gov.uk/anaw/2016/1/section/18/3), [254](https://www.legislation.gov.uk/anaw/2016/1/section/254)); [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-b16e783bfd7c9fc488572a3f348f7277]: Modification: [S. 19(1)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19/1) excluded (1.12.2022) by [Renting Homes (Wales) Act 2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1), [ss. 58(2)](https://www.legislation.gov.uk/anaw/2016/1/section/58/2), [257(2)](https://www.legislation.gov.uk/anaw/2016/1/section/257/2) (with [ss. 18(3)](https://www.legislation.gov.uk/anaw/2016/1/section/18/3), [254](https://www.legislation.gov.uk/anaw/2016/1/section/254)); [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
 [^c5857451]: Textual amendment: S. 19(1A)-(1E) inserted (1.1.1996) by [1995 c. 39](https://www.legislation.gov.uk/ukpga/1995/39), [s. 22](https://www.legislation.gov.uk/ukpga/1995/39/section/22) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1995/39/section/2/2), [26(1)](https://www.legislation.gov.uk/ukpga/1995/39/section/26/1)); [S.I. 1996/2963](https://www.legislation.gov.uk/uksi/1996/2963), [art. 2](https://www.legislation.gov.uk/uksi/1996/2963/article/2)
 
@@ -461,7 +461,7 @@ Section 12.
 
 [^c5857531]: Textual amendment: Words in s. 19(4) inserted (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 40](https://www.legislation.gov.uk/ukpga/1995/8/section/40), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/1995/8/schedule/paragraph/6) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37))
 
-[^key-41d6b9a4d82f394aec01dfff22f7954d]: Textual amendment: [S. 19(5)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19/5) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/3/2)
+[^c-41d6b9a4d82f394aec01dfff22f7954d]: Textual amendment: [S. 19(5)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/19/5) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/3/2)
 
 [^c5857551]: Modification: Power to vary amount conferred by [Housing Act 1980 (c. 51)](https://www.legislation.gov.uk/ukpga/1980/51), [s. 143(2)](https://www.legislation.gov.uk/ukpga/1980/51/section/143/2)
 
@@ -479,7 +479,7 @@ Section 12.
 
 [^c5857611]: Marginal citation: [1854 c. 97](https://www.legislation.gov.uk/ukpga/1854/97).
 
-[^key-1c1e1b9b642bc8e98468a6f22cb3cbdb]: Textual amendment: [S. 20(3)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/20/3) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/3/3)
+[^c-1c1e1b9b642bc8e98468a6f22cb3cbdb]: Textual amendment: [S. 20(3)](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/20/3) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/3/3)
 
 [^c5857621]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/Geo5/17-18/36/section/21) substituted by [Landlord and Tenant Act 1954 (c. 56)](https://www.legislation.gov.uk/ukpga/1954/56), [s. 63(10)](https://www.legislation.gov.uk/ukpga/1954/56/section/63/10)
 

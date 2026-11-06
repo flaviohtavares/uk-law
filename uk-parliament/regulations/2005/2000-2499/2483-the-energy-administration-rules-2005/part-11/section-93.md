@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Interpretation[^key-18edfefa572ebe405d6b3674da71af9a]
+## 93. Interpretation[^c-18edfefa572ebe405d6b3674da71af9a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18edfefa572ebe405d6b3674da71af9a]: Commencement: Rule 93 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-18edfefa572ebe405d6b3674da71af9a]: Commencement: Rule 93 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

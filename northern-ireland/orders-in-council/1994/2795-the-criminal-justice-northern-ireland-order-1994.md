@@ -383,7 +383,7 @@ the court shall give preference to compensation (though it may impose a fine as 
 - (a) if made by a magistrates' court, in the same manner as any other sum adjudged to be paid by a conviction of that court;
 - (b) if made by any other court, in the same manner as any fine which has been or might have been imposed, in respect of the offence for which the person has been convicted, by the court making the order.
 
-#### 15. Enforcement and appeals[^key-61a2f84a9ea536712e3df3b4091f564c]
+#### 15. Enforcement and appeals[^c-61a2f84a9ea536712e3df3b4091f564c]
 
 (1) A person in whose favour a compensation order is made shall not be entitled to receive the amount due to him until (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of an appeal on which the order could be varied or set aside.
 
@@ -394,16 +394,16 @@ the court shall give preference to compensation (though it may impose a fine as 
 - (a) the order shall cease to have effect if he successfully appeals against his conviction of the offence or, if more than one, all the offences, of which he was convicted in the proceedings in which the order was made;
 - (b) he may appeal against the order as if it were part of the sentence imposed in respect of the offence or, if more than one, any of the offences, of which he was so convicted.
 
-#### 16. Review of compensation orders[^key-61a2f84a9ea536712e3df3b4091f564c]
+#### 16. Review of compensation orders[^c-61a2f84a9ea536712e3df3b4091f564c]
 
 Without prejudice to section 49(2) of the Judicature (Northern Ireland) Act 1978[^c17265691] and Article 91 of the Magistrates' Courts (Northern Ireland) Order 1981[^c17265701], at any time before the person against whom a compensation order has been made has paid into court the whole of the compensation which the order requires him to pay, but at a time when (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of an appeal on which the order could be varied or set aside, the court for the time being having functions in relation to the enforcement of the order may, on the application of the person against whom it was made, discharge the order, or reduce the amount which remains to be paid, if it appears to the court—
 
-- (a) that the means of the person against whom the order was made are insufficient to satisfy in full both the order and either or both of the following made against him in the same proceedings—[^key-5342530e0a706e0ca276081cb1341661]
+- (a) that the means of the person against whom the order was made are insufficient to satisfy in full both the order and either or both of the following made against him in the same proceedings—[^c-5342530e0a706e0ca276081cb1341661]
   - (i) a confiscation order under Part 4 of the Proceeds of Crime Act 2002;
   - (ii) a slavery and trafficking reparation order under Schedule 2 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015; or
 - (b) that the person against whom the order was made has suffered a substantial reduction in his means which was unexpected at the time when the compensation order was made, and that his means seem unlikely to increase for a considerable period.
 
-#### 17. Effect of compensation order on subsequent award of damages in civil proceedings[^key-61a2f84a9ea536712e3df3b4091f564c]
+#### 17. Effect of compensation order on subsequent award of damages in civil proceedings[^c-61a2f84a9ea536712e3df3b4091f564c]
 
 (1) This Article shall have effect where a compensation order or a service compensation order or award has been made in favour of any person in respect of any injury, loss or damage and a claim by him in civil proceedings for damages in respect of the injury, loss or damage subsequently falls to be determined.
 
@@ -543,13 +543,13 @@ Article 3(5)
 
 [^c17265661]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-61a2f84a9ea536712e3df3b4091f564c]: Modification: Arts. 15-17 applied (with modifications) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nia/2015/2/schedule/2/paragraph/3/3)
+[^c-61a2f84a9ea536712e3df3b4091f564c]: Modification: Arts. 15-17 applied (with modifications) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nia/2015/2/schedule/2/paragraph/3/3)
 
 [^c17265691]: Textual amendment: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
 [^c17265701]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-5342530e0a706e0ca276081cb1341661]: Textual amendment: Words in art. 16(a) substituted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 9](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/9)
+[^c-5342530e0a706e0ca276081cb1341661]: Textual amendment: Words in art. 16(a) substituted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 9](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/9)
 
 [^c17265751]: Textual amendment: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18)
 

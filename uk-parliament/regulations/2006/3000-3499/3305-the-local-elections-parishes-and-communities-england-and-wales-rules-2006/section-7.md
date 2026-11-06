@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-A declaration as to election expenses at an election of parish [^key-eb6118978363426b71c802b3dc50185c]... councillors must be in the form in Schedule 4 to these Rules, or a form to the like effect.
+A declaration as to election expenses at an election of parish [^c-eb6118978363426b71c802b3dc50185c]... councillors must be in the form in Schedule 4 to these Rules, or a form to the like effect.
 
 ## Annotations
 
-[^key-eb6118978363426b71c802b3dc50185c]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2006/3305/rule/7) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/263/schedule/2/paragraph/7) (with [reg. 12(d)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/d))
+[^c-eb6118978363426b71c802b3dc50185c]: Textual amendment: Words in [rule 7](https://www.legislation.gov.uk/uksi/2006/3305/rule/7) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2022/263/schedule/2/paragraph/7) (with [reg. 12(d)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/d))

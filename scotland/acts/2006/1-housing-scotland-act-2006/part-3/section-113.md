@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Information for tenants exercising right to purchase[^key-fda6cd1c3a21992bff48d2e6366f3dfb]
+## 113. Information for tenants exercising right to purchase[^c-fda6cd1c3a21992bff48d2e6366f3dfb]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fda6cd1c3a21992bff48d2e6366f3dfb]: Commencement: S. 113 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-fda6cd1c3a21992bff48d2e6366f3dfb]: Commencement: S. 113 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

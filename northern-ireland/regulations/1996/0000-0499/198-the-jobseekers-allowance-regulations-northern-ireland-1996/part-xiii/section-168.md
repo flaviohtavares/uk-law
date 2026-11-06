@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 168. Persons in receipt of a training allowance[^key-4d8ff327d2bed6ab1149b309b6b16332]
+## 168. Persons in receipt of a training allowance[^c-4d8ff327d2bed6ab1149b309b6b16332]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d8ff327d2bed6ab1149b309b6b16332]: Commencement: Reg. 168 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-4d8ff327d2bed6ab1149b309b6b16332]: Commencement: Reg. 168 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

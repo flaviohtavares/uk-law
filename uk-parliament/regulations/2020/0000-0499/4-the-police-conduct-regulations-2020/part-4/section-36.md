@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Public notification of misconduct hearings[^key-e85726867e9bf0acede649ba661c89be]
+## 36. Public notification of misconduct hearings[^c-e85726867e9bf0acede649ba661c89be]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e85726867e9bf0acede649ba661c89be]: Commencement: Reg. 36 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-e85726867e9bf0acede649ba661c89be]: Commencement: Reg. 36 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

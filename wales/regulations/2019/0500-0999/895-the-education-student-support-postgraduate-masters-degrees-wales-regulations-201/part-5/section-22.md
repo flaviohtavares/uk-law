@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Requirements on eligible students to provide information[^key-024d99bd0cd4a086b544a1ba7ded7e1c]
+## 22. Requirements on eligible students to provide information[^c-024d99bd0cd4a086b544a1ba7ded7e1c]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ must be signed in such manner (including electronically) as they may specify.
 
 ## Annotations
 
-[^key-024d99bd0cd4a086b544a1ba7ded7e1c]: Commencement: Reg. 22 in force at 27.5.2019, see reg. 1(2)
+[^c-024d99bd0cd4a086b544a1ba7ded7e1c]: Commencement: Reg. 22 in force at 27.5.2019, see reg. 1(2)

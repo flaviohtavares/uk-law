@@ -45,7 +45,7 @@ or otherwise.
 
 (8) The provisions are—
 
-- (za)[^key-3ec635e155bee19538701eb80f956ed5] section 2A(1) of TCGA 1992 (allowable capital losses);
+- (za)[^c-3ec635e155bee19538701eb80f956ed5] section 2A(1) of TCGA 1992 (allowable capital losses);
 - (a) sections 457, 459, 461, 462, 463B, 463G and 463H of CTA 2009 (non-trading deficits from loan relationships);
 - (b) section 753 of CTA 2009 (non-trading losses on intangible fixed assets);
 - (c) section 1219 of CTA 2009 (management expenses etc);
@@ -79,10 +79,10 @@ or otherwise.
 
 subsections (10) and (11) have effect as if the references to 1 April 2017 were to 13 July 2017.
 
-(13)[^key-e6dc4aec48f36d658580593170cc78cf] In the case of a tax advantage as a result of a deduction (or increased deduction) under section 2A(1) of TCGA 1992, subsections (10) and (11) have effect as if the references to 1 April 2017 were to 1 April 2020.
+(13)[^c-e6dc4aec48f36d658580593170cc78cf] In the case of a tax advantage as a result of a deduction (or increased deduction) under section 2A(1) of TCGA 1992, subsections (10) and (11) have effect as if the references to 1 April 2017 were to 1 April 2020.
 
 ## Annotations
 
-[^key-3ec635e155bee19538701eb80f956ed5]: Textual amendment: S. 19(8)(za) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 23(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/23/2), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
+[^c-3ec635e155bee19538701eb80f956ed5]: Textual amendment: S. 19(8)(za) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 23(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/23/2), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
 
-[^key-e6dc4aec48f36d658580593170cc78cf]: Textual amendment: S. 19(13) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 23(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/23/3), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))
+[^c-e6dc4aec48f36d658580593170cc78cf]: Textual amendment: S. 19(13) inserted (with effect in relation to accounting periods beginning on or after 1.4.2020 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 4 paras. 23(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/23/3), [42](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/42) (with [Sch. 4 paras. 43-46](https://www.legislation.gov.uk/ukpga/2020/14/schedule/4/paragraph/43))

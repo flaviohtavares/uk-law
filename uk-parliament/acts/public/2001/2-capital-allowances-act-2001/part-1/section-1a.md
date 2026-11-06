@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Capital allowances and charges: cash basis[^key-ca006a4807cff4569d302c2071157712]
+## 1A. Capital allowances and charges: cash basis[^c-ca006a4807cff4569d302c2071157712]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,8 +42,8 @@ summary: ''
 
 (9) For the purposes of this section a person carrying on a trade, profession or vocation “enters the cash basis” for a tax year if—
 
-- (a) the cash basis applies[^key-3d4447cddaf309417920cd1036ccbdec] in relation to the trade, profession or vocation for the tax year, and
-- (b) the cash basis did not apply[^key-ad82233cfcf91b4199a0edc0cc1d7893] in relation to the trade, profession or vocation for the previous tax year.
+- (a) the cash basis applies[^c-3d4447cddaf309417920cd1036ccbdec] in relation to the trade, profession or vocation for the tax year, and
+- (b) the cash basis did not apply[^c-ad82233cfcf91b4199a0edc0cc1d7893] in relation to the trade, profession or vocation for the previous tax year.
 
 (10) For the purposes of this section a person carrying on a property business “enters the cash basis” for a tax year if the profits of the business are calculated—
 
@@ -52,8 +52,8 @@ summary: ''
 
 (11) In this section—
 
-- (za)[^key-ed3c941f0b3bbf0e1fc983659f2b78e7] references to a trade, profession or vocation in relation to which the cash basis applies are to a trade, profession or vocation the profits of which are required by virtue of section 24A(1) of ITTOIA 2005 to be calculated on the cash basis,
-- (a) references to calculating the profits of a trade, profession or vocation on the cash basis are to doing so in accordance with[^key-9f990ebfb7576f257532b9e4baa25aa3] section 24A of ITTOIA 2005, and
+- (za)[^c-ed3c941f0b3bbf0e1fc983659f2b78e7] references to a trade, profession or vocation in relation to which the cash basis applies are to a trade, profession or vocation the profits of which are required by virtue of section 24A(1) of ITTOIA 2005 to be calculated on the cash basis,
+- (a) references to calculating the profits of a trade, profession or vocation on the cash basis are to doing so in accordance with[^c-9f990ebfb7576f257532b9e4baa25aa3] section 24A of ITTOIA 2005, and
 - (b) references to calculating the profits of a property business on the cash basis are to be construed in accordance with section 271D of that Act (calculation of profits of property businesses on the cash basis).
 
 (12) In this section—
@@ -66,12 +66,12 @@ summary: ''
 
 ## Annotations
 
-[^key-ca006a4807cff4569d302c2071157712]: Textual amendment: S. 1A inserted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/50)
+[^c-ca006a4807cff4569d302c2071157712]: Textual amendment: S. 1A inserted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/50)
 
-[^key-3d4447cddaf309417920cd1036ccbdec]: Textual amendment: Words in s. 1A(9)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/39/2/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-3d4447cddaf309417920cd1036ccbdec]: Textual amendment: Words in s. 1A(9)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/39/2/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-ad82233cfcf91b4199a0edc0cc1d7893]: Textual amendment: Words in s. 1A(9)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 39(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/39/2/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-ad82233cfcf91b4199a0edc0cc1d7893]: Textual amendment: Words in s. 1A(9)(b) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 39(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/39/2/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-ed3c941f0b3bbf0e1fc983659f2b78e7]: Textual amendment: S. 1A(11)(za) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 39(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/39/3/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-ed3c941f0b3bbf0e1fc983659f2b78e7]: Textual amendment: S. 1A(11)(za) inserted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 39(3)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/39/3/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-9f990ebfb7576f257532b9e4baa25aa3]: Textual amendment: Words in s. 1A(11)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/39/3/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-9f990ebfb7576f257532b9e4baa25aa3]: Textual amendment: Words in s. 1A(11)(a) substituted (for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/39/3/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

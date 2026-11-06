@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Postponement of discharge: Army Reserve and Royal Auxiliary Air Force.[^key-67963aace79d0fea2cbe4c142624c9b5]
+## 100. Postponement of discharge: Army Reserve and Royal Auxiliary Air Force.[^c-67963aace79d0fea2cbe4c142624c9b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,17 +26,17 @@ summary: ''
 
 (3) In this section the expression “**period of emergency**” means—
 
-- (a) in relation to a man of the Army Reserve , any period while an order under section 52(1)(a) of the Reserve Forces Act 1996[^c11527081] is in force authorising members of the Regular Reserve[^key-a4a6117152a70855c16dfaf06fa247f5] to be called out for permanent service;
+- (a) in relation to a man of the Army Reserve , any period while an order under section 52(1)(a) of the Reserve Forces Act 1996[^c11527081] is in force authorising members of the Regular Reserve[^c-a4a6117152a70855c16dfaf06fa247f5] to be called out for permanent service;
 - (b) in relation to a man of the Royal Auxiliary Air Force, any period—
   - (i) while an order under section 52(1)(a) of the Reserve Forces Act 1996 is in force authorising members of the Air Force Reserve to be called out for permanent service; or
   - (ii) while the man in question is called out for home defence service.
 
 ## Annotations
 
-[^key-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
 [^c11527071]: Textual amendment: Words in s. 100(2) substituted (1.4.1997) by [S.I. 1997/306](https://www.legislation.gov.uk/uksi/1997/306), [reg. 24(2)](https://www.legislation.gov.uk/uksi/1997/306/regulation/24/2)
 
 [^c11527081]: Textual amendment: Words in s. 100(3) substituted (1.4.1997) by [S.I. 1997/306](https://www.legislation.gov.uk/uksi/1997/306), [reg. 24(3)(a)(b)](https://www.legislation.gov.uk/uksi/1997/306/regulation/24/3/a/b)
 
-[^key-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)

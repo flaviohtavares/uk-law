@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Powers of Court of Session: deemed removal of persons[^key-3eca68986fe46ad6b53f80eee82a9063]
+## 122. Powers of Court of Session: deemed removal of persons[^c-3eca68986fe46ad6b53f80eee82a9063]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In section 34(5) of the 2005 Act (powers of Court of Session), after paragraph (
 
 ## Annotations
 
-[^key-3eca68986fe46ad6b53f80eee82a9063]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2010/8/section/122) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-3eca68986fe46ad6b53f80eee82a9063]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2010/8/section/122) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

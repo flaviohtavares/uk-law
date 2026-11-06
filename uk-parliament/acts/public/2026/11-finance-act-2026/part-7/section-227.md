@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Registration conditions[^M_I_cce36dda-f370-4324-9e8a-3fd6b4a0591c][^key-dfe2a51263d8199436686d2621d98b58][^key-1fe7edcbc2aa8be5d30fbc88b332e75f]
+## 227. Registration conditions[^M_I_cce36dda-f370-4324-9e8a-3fd6b4a0591c][^c-dfe2a51263d8199436686d2621d98b58][^c-1fe7edcbc2aa8be5d30fbc88b332e75f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^M_I_cce36dda-f370-4324-9e8a-3fd6b4a0591c]: Commencement: S. 227 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-dfe2a51263d8199436686d2621d98b58]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2026/11/section/227) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-dfe2a51263d8199436686d2621d98b58]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2026/11/section/227) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-1fe7edcbc2aa8be5d30fbc88b332e75f]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2026/11/section/227) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-1fe7edcbc2aa8be5d30fbc88b332e75f]: Commencement: [S. 227](https://www.legislation.gov.uk/ukpga/2026/11/section/227) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

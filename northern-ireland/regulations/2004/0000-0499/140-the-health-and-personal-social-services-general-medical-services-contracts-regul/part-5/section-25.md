@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Arrangements on termination[^key-a5246e1783d69815714fe637b52ab8f6]
+## 25. Arrangements on termination[^c-a5246e1783d69815714fe637b52ab8f6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A contract shall make suitable provision for arrangements on termination of a co
 
 ## Annotations
 
-[^key-a5246e1783d69815714fe637b52ab8f6]: Commencement: Reg. 25 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-a5246e1783d69815714fe637b52ab8f6]: Commencement: Reg. 25 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

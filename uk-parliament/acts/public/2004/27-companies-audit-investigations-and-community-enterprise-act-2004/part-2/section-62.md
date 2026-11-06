@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Regulations[^key-e75e2e74050caae916083fc55bf99872]
+## 62. Regulations[^c-e75e2e74050caae916083fc55bf99872]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 - (d) section 34,
 - (e) section 35,
 - (f) section 36,
-- (g) section 37C[^key-fe6af35dd6be6df7226aae0b98ae48c9] ,
+- (g) section 37C[^c-fe6af35dd6be6df7226aae0b98ae48c9] ,
 - (h) section 47, and
 - (i) section 56.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e75e2e74050caae916083fc55bf99872]: Commencement: S. 62 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-e75e2e74050caae916083fc55bf99872]: Commencement: S. 62 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-fe6af35dd6be6df7226aae0b98ae48c9]: Textual amendment: Words in s. 62(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 240](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/240) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-fe6af35dd6be6df7226aae0b98ae48c9]: Textual amendment: Words in s. 62(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 240](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/240) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

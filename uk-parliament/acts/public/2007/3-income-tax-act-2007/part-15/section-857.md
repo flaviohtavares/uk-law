@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A deposit-taker [^key-9bedb74a2c4351166d2412e47cee5359]... must treat every investment with it as a relevant investment unless satisfied that the investment is not a relevant investment.
+(1) A deposit-taker [^c-9bedb74a2c4351166d2412e47cee5359]... must treat every investment with it as a relevant investment unless satisfied that the investment is not a relevant investment.
 
-(2) If a deposit-taker [^key-9bedb74a2c4351166d2412e47cee5359]... is satisfied that an investment is not a relevant investment, it may continue to treat the investment as not being a relevant investment until subsection (3) applies.
+(2) If a deposit-taker [^c-9bedb74a2c4351166d2412e47cee5359]... is satisfied that an investment is not a relevant investment, it may continue to treat the investment as not being a relevant investment until subsection (3) applies.
 
-(3) This subsection applies when the deposit-taker [^key-9bedb74a2c4351166d2412e47cee5359]... has information which can reasonably be taken to indicate that the investment is or may be a relevant investment.
+(3) This subsection applies when the deposit-taker [^c-9bedb74a2c4351166d2412e47cee5359]... has information which can reasonably be taken to indicate that the investment is or may be a relevant investment.
 
 ## Annotations
 
-[^key-9bedb74a2c4351166d2412e47cee5359]: Textual amendment: Words in s. 857 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/11)
+[^c-9bedb74a2c4351166d2412e47cee5359]: Textual amendment: Words in s. 857 omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/11)

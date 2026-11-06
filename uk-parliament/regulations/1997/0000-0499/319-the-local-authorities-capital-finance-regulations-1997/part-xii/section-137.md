@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Use of amounts set aside to meet liabilities under credit arrangements which had an initial cost of nil[^key-4a300e508264611dd2c01800cb03fe4c]
+## 137. Use of amounts set aside to meet liabilities under credit arrangements which had an initial cost of nil[^c-4a300e508264611dd2c01800cb03fe4c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a300e508264611dd2c01800cb03fe4c]: Commencement: Reg. 137 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-4a300e508264611dd2c01800cb03fe4c]: Commencement: Reg. 137 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

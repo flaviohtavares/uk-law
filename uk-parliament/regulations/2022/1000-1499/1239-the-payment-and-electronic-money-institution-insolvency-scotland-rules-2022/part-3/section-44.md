@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Chair at meetings[^key-cce423fa9097d6d6f59f749484f8b10c]
+## 44. Chair at meetings[^c-cce423fa9097d6d6f59f749484f8b10c]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cce423fa9097d6d6f59f749484f8b10c]: Commencement: Rule 44 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-cce423fa9097d6d6f59f749484f8b10c]: Commencement: Rule 44 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

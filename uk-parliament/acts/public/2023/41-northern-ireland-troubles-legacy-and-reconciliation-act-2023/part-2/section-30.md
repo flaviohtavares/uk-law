@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Disclosure of information: general power and prohibitions[^key-6ea608e1aeec4f544a86013a17991292][^key-0385759a4fde21de24560fcb6dd808a1]
+## 30. Disclosure of information: general power and prohibitions[^c-6ea608e1aeec4f544a86013a17991292][^c-0385759a4fde21de24560fcb6dd808a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ Here “**the data protection legislation**” has the same meaning as in the Da
 
 ## Annotations
 
-[^key-6ea608e1aeec4f544a86013a17991292]: Commencement: S. 30 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-6ea608e1aeec4f544a86013a17991292]: Commencement: S. 30 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-0385759a4fde21de24560fcb6dd808a1]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/41/section/30) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-0385759a4fde21de24560fcb6dd808a1]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2023/41/section/30) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

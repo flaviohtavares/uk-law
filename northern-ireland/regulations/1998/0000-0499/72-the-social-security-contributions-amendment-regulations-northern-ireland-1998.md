@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Contributions) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-b5df58aaabeb5401ba188336b5bc06d4]
+The Social Security (Contributions) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-b5df58aaabeb5401ba188336b5bc06d4]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 6th April 1998
 
-[^key-b5df58aaabeb5401ba188336b5bc06d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5df58aaabeb5401ba188336b5bc06d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b5df58aaabeb5401ba188336b5bc06d4]
+## 1. Citation and commencement[^c-b5df58aaabeb5401ba188336b5bc06d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 7 of the Social Security (Contributions) Regulations[^key-b5df58aaabeb5401ba188336b5bc06d4]
+## 2. Amendment of regulation 7 of the Social Security (Contributions) Regulations[^c-b5df58aaabeb5401ba188336b5bc06d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-b5df58aaabeb5401ba188336b5bc06d4]
+## 3. Revocation[^c-b5df58aaabeb5401ba188336b5bc06d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5df58aaabeb5401ba188336b5bc06d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5df58aaabeb5401ba188336b5bc06d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b5df58aaabeb5401ba188336b5bc06d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5df58aaabeb5401ba188336b5bc06d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5df58aaabeb5401ba188336b5bc06d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/72) revoked (6.4.1999) by [The Social Security (Contributions and Credits) (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 (S.R. 1999/118)](https://www.legislation.gov.uk/nisr/1999/118), [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/118/regulation/1/1/b), [Sch.](https://www.legislation.gov.uk/nisr/1999/118/schedule)
+[^c-b5df58aaabeb5401ba188336b5bc06d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/72) revoked (6.4.1999) by [The Social Security (Contributions and Credits) (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 (S.R. 1999/118)](https://www.legislation.gov.uk/nisr/1999/118), [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/118/regulation/1/1/b), [Sch.](https://www.legislation.gov.uk/nisr/1999/118/schedule)

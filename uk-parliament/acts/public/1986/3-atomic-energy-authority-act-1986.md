@@ -185,7 +185,7 @@ and submit the programme to the Secretary of State for his approval.
 in this Act—
 
 - “**the Authority**” means the United Kingdom Atomic Energy Authority, and
-- “**subsidiary**” and “**wholly owned subsidiary**”have the meaning given by[^c787137] section 1159 of the Companies Act 2006[^key-dfac6a436c3661cec96598ea8fec7517].
+- “**subsidiary**” and “**wholly owned subsidiary**”have the meaning given by[^c787137] section 1159 of the Companies Act 2006[^c-dfac6a436c3661cec96598ea8fec7517].
 
 ### 10. Short title, commencement and extent.
 
@@ -209,4 +209,4 @@ in this Act—
 
 [^c787137]: Textual amendment: Words substituted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40) , [ss. 144(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/4) , [215](https://www.legislation.gov.uk/ukpga/1989/40/section/215) , [Sch. 18 para. 42](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18/paragraph/42)
 
-[^key-dfac6a436c3661cec96598ea8fec7517]: Textual amendment: Words in s. 9 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2) , [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/67) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10) )
+[^c-dfac6a436c3661cec96598ea8fec7517]: Textual amendment: Words in s. 9 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2) , [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/67) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10) )

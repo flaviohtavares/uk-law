@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Legal advisers[^key-efa856e61035e104b566486a26a9c0b3][^key-2cd4fd7a8bc2373defba91403e44cb2c]
+## 63. Legal advisers[^c-efa856e61035e104b566486a26a9c0b3][^c-2cd4fd7a8bc2373defba91403e44cb2c]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-efa856e61035e104b566486a26a9c0b3]: Commencement: Art. 63 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-efa856e61035e104b566486a26a9c0b3]: Commencement: Art. 63 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-2cd4fd7a8bc2373defba91403e44cb2c]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2010/231/article/63) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2cd4fd7a8bc2373defba91403e44cb2c]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2010/231/article/63) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

@@ -32,11 +32,11 @@ summary: ''
 - (a) notify the European Commission of the decision; and
 - (b) enclose the information it considers relevant to the decision.
 
-(4) Article 51[^key-3ccaf380d8772641fbdff0214e549f73] of the Electricity Regulation sets out an obligation to make a final review decision, together with related processes, time limits, matters to be taken into account and conditions.
+(4) Article 51[^c-3ccaf380d8772641fbdff0214e549f73] of the Electricity Regulation sets out an obligation to make a final review decision, together with related processes, time limits, matters to be taken into account and conditions.
 
-(5) Paragraphs (6) to (8) apply in relation to the Authority's final decision under Article 51[^key-a62707bf10f50ff1beb38f88aef2ea65] of the Electricity Regulation whether or not to confirm the certification.
+(5) Paragraphs (6) to (8) apply in relation to the Authority's final decision under Article 51[^c-a62707bf10f50ff1beb38f88aef2ea65] of the Electricity Regulation whether or not to confirm the certification.
 
-(5A)[^key-b1b268311369172c0f48b72236eef368] In paragraph (5), the reference to a final decision made under Article 51 of the Electricity Regulation is to be treated as including a final decision made under Article 3 of the 2009 Electricity Market Regulation.
+(5A)[^c-b1b268311369172c0f48b72236eef368] In paragraph (5), the reference to a final decision made under Article 51 of the Electricity Regulation is to be treated as including a final decision made under Article 3 of the 2009 Electricity Market Regulation.
 
 (6) As soon as is reasonably practicable after making the final decision, the Authority must notify the decision and the reasons for it to—
 
@@ -55,8 +55,8 @@ summary: ''
 
 [^c21262041]: Textual amendment: Arts. 10B-10L inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 10](https://www.legislation.gov.uk/nisr/2011/155/regulation/10)
 
-[^key-3ccaf380d8772641fbdff0214e549f73]: Textual amendment: Words in [art. 10K(4)](https://www.legislation.gov.uk/nisi/1992/231/article/10K/4) substituted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/5/a)
+[^c-3ccaf380d8772641fbdff0214e549f73]: Textual amendment: Words in [art. 10K(4)](https://www.legislation.gov.uk/nisi/1992/231/article/10K/4) substituted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/5/a)
 
-[^key-a62707bf10f50ff1beb38f88aef2ea65]: Textual amendment: Words in [art. 10K(5)](https://www.legislation.gov.uk/nisi/1992/231/article/10K/5) substituted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/5/a)
+[^c-a62707bf10f50ff1beb38f88aef2ea65]: Textual amendment: Words in [art. 10K(5)](https://www.legislation.gov.uk/nisi/1992/231/article/10K/5) substituted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/5/a)
 
-[^key-b1b268311369172c0f48b72236eef368]: Textual amendment: [Art. 10K(5A)](https://www.legislation.gov.uk/nisi/1992/231/article/10K/5A) inserted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/5/b)
+[^c-b1b268311369172c0f48b72236eef368]: Textual amendment: [Art. 10K(5A)](https://www.legislation.gov.uk/nisi/1992/231/article/10K/5A) inserted (25.2.2020) by [The Electricity and Gas (Internal Markets) Regulations 2020 (S.I. 2020/96)](https://www.legislation.gov.uk/uksi/2020/96), [regs. 1](https://www.legislation.gov.uk/uksi/2020/96/regulation/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2020/96/regulation/6/5/b)

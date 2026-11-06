@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Notification of triggering events: unconnected multiple employer schemes[^key-dd89d1fb773ee738736cbeaa293e283c]
+## 18. Notification of triggering events: unconnected multiple employer schemes[^c-dd89d1fb773ee738736cbeaa293e283c]
 
 *Extent: N.I.*
 
@@ -84,4 +84,4 @@ In section 84 (notification of triggering events)—
 
 ## Annotations
 
-[^key-dd89d1fb773ee738736cbeaa293e283c]: Commencement: Reg. 18 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-dd89d1fb773ee738736cbeaa293e283c]: Commencement: Reg. 18 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

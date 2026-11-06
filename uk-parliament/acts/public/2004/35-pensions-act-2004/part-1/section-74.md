@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Inspection of premises in respect of employers' obligations[^key-f213f33ed3781ddfa26d582b5b494c46]
+## 74. Inspection of premises in respect of employers' obligations[^c-f213f33ed3781ddfa26d582b5b494c46]
 
 *Extent: E+W+S*
 
-(A1)[^key-9dcabf886f254f2aeb3d3315313a5663] An inspector may, for the purposes of investigating whether an employer is contravening, or has contravened—
+(A1)[^c-9dcabf886f254f2aeb3d3315313a5663] An inspector may, for the purposes of investigating whether an employer is contravening, or has contravened—
 
 - (a) any provision of, or of regulations under, Chapter 1 of Part 1, or section 50 or 54, of the Pensions Act 2008, or
 - (b) any corresponding provision in force in Northern Ireland,
@@ -87,6 +87,6 @@ are to be read as having the meanings that they have for the purposes of the cor
 
 ## Annotations
 
-[^key-f213f33ed3781ddfa26d582b5b494c46]: Commencement: S. 74 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-f213f33ed3781ddfa26d582b5b494c46]: Commencement: S. 74 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-9dcabf886f254f2aeb3d3315313a5663]: Textual amendment: S. 74(A1)-(D1) inserted (30.6.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 61(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/61/3), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1682/schedule/2)
+[^c-9dcabf886f254f2aeb3d3315313a5663]: Textual amendment: S. 74(A1)-(D1) inserted (30.6.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 61(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/61/3), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1682/schedule/2)

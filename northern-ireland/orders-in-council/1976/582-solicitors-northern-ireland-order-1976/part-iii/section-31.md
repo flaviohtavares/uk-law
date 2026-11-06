@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Provisions as to clerk or apprentice found guilty of offences or party to misconduct of solicitor[^key-0cd55f9c2ab4fecdca4e9c8a7693e4b7]
+## 31. Provisions as to clerk or apprentice found guilty of offences or party to misconduct of solicitor[^c-0cd55f9c2ab4fecdca4e9c8a7693e4b7]
 
 *Extent: N.I.*
 
@@ -40,7 +40,7 @@ an application may be made by or on behalf of the Society to the Tribunal that a
 
 ## Annotations
 
-[^key-0cd55f9c2ab4fecdca4e9c8a7693e4b7]: Modification: [Art. 31](https://www.legislation.gov.uk/nisi/1976/582/article/31) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(g)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/g)
+[^c-0cd55f9c2ab4fecdca4e9c8a7693e4b7]: Modification: [Art. 31](https://www.legislation.gov.uk/nisi/1976/582/article/31) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(g)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/g)
 
 [^m00016]: Marginal citation: 1969 c.16
 

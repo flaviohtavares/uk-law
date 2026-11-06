@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 132(1) and (2), 135A(1) and 145(1) of the Education Act 2002[^f00001], section 317(3B) of the Education Act 1996[^f00002] and section 67(3) of the Children and Families Act 2014[^f00003].
 
-## 1. Citation and commencement[^key-b89b689704ea1540ee2613f70255d2c8]
+## 1. Citation and commencement[^c-b89b689704ea1540ee2613f70255d2c8]
 
 These Regulations may be cited as the Education (School Teachers’ Qualifications and Induction Arrangements and Special Educational Needs Co-ordinators) (Amendment) Regulations 2016 and come into force on 19th December 2016.
 
-## 2. Amendments to the Education (School Teachers’ Qualifications) (England) Regulations 2003[^key-cb30cb7c0d037646527ed19f4eaabd82]
+## 2. Amendments to the Education (School Teachers’ Qualifications) (England) Regulations 2003[^c-cb30cb7c0d037646527ed19f4eaabd82]
 
 (1) The Education (School Teachers’ Qualifications) (England) Regulations 2003[^f00004] are amended as follows.
 
@@ -86,13 +86,13 @@ These Regulations may be cited as the Education (School Teachers’ Qualificatio
 
 .
 
-## 3. Amendments to the Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^key-c64bfe34f560d7daea03dba9161b0e1a]
+## 3. Amendments to the Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^c-c64bfe34f560d7daea03dba9161b0e1a]
 
 (1) The Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^f00008] are amended as follows.
 
 (2) In paragraph 10 of Schedule 1 (Cases in which a person may be employed as a qualified teacher in a relevant school without having satisfactorily completed an induction period), after “the European Union (Recognition of Professional Qualifications) Regulations 2015” insert “including where the person is entitled to partial access to the profession of school teacher by virtue of Part 1 of those Regulations”.
 
-## 4. Amendments relating to Special Educational Needs Co-ordinators[^key-229ada071c49bbb436eab05ff30cf37a]
+## 4. Amendments relating to Special Educational Needs Co-ordinators[^c-229ada071c49bbb436eab05ff30cf37a]
 
 (1) In regulation 3 of the Education (Special Educational Needs Co-ordinators) (England) Regulations 2008[^f00009] (Prescribed qualifications and experience of SENCOs), at the end of sub-paragraph (2)(a) insert “other than by virtue of paragraph 8A of Part 1 of Schedule 2 to the Education (School Teachers’ Qualifications) (England) Regulations 2003”.
 
@@ -128,9 +128,9 @@ An impact assessment has not been produced for this instrument as it has a minim
 
 [^f00003]: Footnote: [2014 c.6](https://www.legislation.gov.uk/ukpga/2014/6). For the meaning of “prescribed” and “regulations” see section 579(1) of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56); there are amendments to section 579(1) which are not relevant to these Regulations. Section 83(7) of the Children and Families Act 2014 provides that the provisions of Part 3 of that Act, which include section 67, are to be read as if they were contained in the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56) (except so far as they amend other Acts).
 
-[^key-b89b689704ea1540ee2613f70255d2c8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1) in force at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1)
+[^c-b89b689704ea1540ee2613f70255d2c8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1) in force at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1)
 
-[^key-cb30cb7c0d037646527ed19f4eaabd82]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/1123/regulation/2) in force at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1)
+[^c-cb30cb7c0d037646527ed19f4eaabd82]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/1123/regulation/2) in force at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662); the definition of “school” in regulation 3 was amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172); Schedule 2, paragraph 8 was substituted by [S.I. 2007/2782](https://www.legislation.gov.uk/uksi/2007/2782) and amended by [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059); there are other amendments to [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662) which are not relevant to these Regulations.
 
@@ -140,11 +140,11 @@ An impact assessment has not been produced for this instrument as it has a minim
 
 [^f00007]: Footnote: “Special educational needs” is defined in section 20 of the Children and Families Act [2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6); section 83(7) of that Act provides that the provisions of Part 3 of the Act, which include section 20, are to be read as if they were contained in the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56) (except so far as they amend other Acts).
 
-[^key-c64bfe34f560d7daea03dba9161b0e1a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/1123/regulation/3) in force at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1)
+[^c-c64bfe34f560d7daea03dba9161b0e1a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/1123/regulation/3) in force at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1)
 
 [^f00008]: Footnote: [S.I. 2012/1115](https://www.legislation.gov.uk/uksi/2012/1115); amended by [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059).
 
-[^key-229ada071c49bbb436eab05ff30cf37a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/1123/regulation/4) in force at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1)
+[^c-229ada071c49bbb436eab05ff30cf37a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/1123/regulation/4) in force at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1123/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2008/2945](https://www.legislation.gov.uk/uksi/2008/2945); there are amendments to regulation 3 which are not relevant to these Regulations.
 

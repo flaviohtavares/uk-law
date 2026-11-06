@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Facility time: publication requirements and reserve powers[^key-ff1191a41b97389ae94d79f06aa7375e]
+## 66. Facility time: publication requirements and reserve powers[^c-ff1191a41b97389ae94d79f06aa7375e]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff1191a41b97389ae94d79f06aa7375e]: Commencement: S. 66 in force at 18.2.2026, see [s. 159(2)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/d) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/6))
+[^c-ff1191a41b97389ae94d79f06aa7375e]: Commencement: S. 66 in force at 18.2.2026, see [s. 159(2)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/d) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/6))

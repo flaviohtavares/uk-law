@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Procedure to approve improvement plans[^key-a95fa12a4194bd2fe590fdf297696334][^key-a7f922831e79cd41c607081103310a42]
+## 54. Procedure to approve improvement plans[^c-a95fa12a4194bd2fe590fdf297696334][^c-a7f922831e79cd41c607081103310a42]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a95fa12a4194bd2fe590fdf297696334]: Commencement: S. 54 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-a95fa12a4194bd2fe590fdf297696334]: Commencement: S. 54 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-a7f922831e79cd41c607081103310a42]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2026/6/section/54) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z9)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z9)
+[^c-a7f922831e79cd41c607081103310a42]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2026/6/section/54) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z9)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z9)

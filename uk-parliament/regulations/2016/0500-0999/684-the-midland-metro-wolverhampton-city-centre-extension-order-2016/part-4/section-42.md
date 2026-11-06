@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Traffic signs[^key-1a64a44b4fe33431004d95b0f52ffbb8]
+## 42. Traffic signs[^c-1a64a44b4fe33431004d95b0f52ffbb8]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a64a44b4fe33431004d95b0f52ffbb8]: Commencement: Art. 42 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-1a64a44b4fe33431004d95b0f52ffbb8]: Commencement: Art. 42 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

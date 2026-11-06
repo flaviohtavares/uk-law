@@ -121,9 +121,9 @@ the arrangement is a controlled transaction.
 
 (3) In this Schedule, an authorised participant is a person who is a permissible donor within the meaning of section 54(2).
 
-(3A)[^key-40eeaaa967232f1fe80495ecdbabbae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-40eeaaa967232f1fe80495ecdbabbae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-40eeaaa967232f1fe80495ecdbabbae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3B)[^c-40eeaaa967232f1fe80495ecdbabbae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Secretary of State may, by order, specify circumstances or any description of circumstances in which a person who is not a permissible donor is to be treated as an authorised participant.
 
@@ -283,12 +283,12 @@ any arrangement which facilitates or is likely to facilitate, whether by means o
 
 (2) For the purposes of this paragraph a controlled transaction is a recordable transaction—
 
-- (a) if the value of the transaction is more than £11,180[^key-b32aa4d95bbee23a10f9ed20b9b91f1e] (where the regulated participant is a members association) or £2,230[^key-5c4df4e4281f7d464fee1c877a565286] (in any other case), or
+- (a) if the value of the transaction is more than £11,180[^c-b32aa4d95bbee23a10f9ed20b9b91f1e] (where the regulated participant is a members association) or £2,230[^c-5c4df4e4281f7d464fee1c877a565286] (in any other case), or
 - (b) if the aggregate value of it and any other controlled benefit or benefits accruing to the regulated participant—
   - (i) from the same person and in the same calendar year, and
   - (ii) in respect of which no report has been previously made under this paragraph,
 
-  is more than £11,180[^key-22e142098cf0b4573162cebfcce9c761] (where the regulated participant is a members association) or £2,230[^key-94e5012c6f9a801607a5221f06cedad9] (in any other case).
+  is more than £11,180[^c-22e142098cf0b4573162cebfcce9c761] (where the regulated participant is a members association) or £2,230[^c-94e5012c6f9a801607a5221f06cedad9] (in any other case).
 
 (3) A controlled benefit is—
 
@@ -297,7 +297,7 @@ any arrangement which facilitates or is likely to facilitate, whether by means o
 
 (4) A controlled benefit which is a controlled donation accrues—
 
-- (a) from the permissible donor (within the meaning of section 54(2) [^key-08d35e452c5068a7cd113220d3a2482e]...) who made it, and
+- (a) from the permissible donor (within the meaning of section 54(2) [^c-08d35e452c5068a7cd113220d3a2482e]...) who made it, and
 - (b) when it is accepted by the donee.
 
 (5) A controlled benefit which is a controlled transaction accrues—
@@ -305,14 +305,14 @@ any arrangement which facilitates or is likely to facilitate, whether by means o
 - (a) from any authorised participant who is a party to it, and
 - (b) when it is entered into.
 
-(6) For the purposes of this paragraph (other than sub-paragraphs (6A) to (6C)) and section 71Z4 (duty not to disclose contents of transaction reports)[^key-2221ec413c01c22eaed8364bd43483c0] , if—
+(6) For the purposes of this paragraph (other than sub-paragraphs (6A) to (6C)) and section 71Z4 (duty not to disclose contents of transaction reports)[^c-2221ec413c01c22eaed8364bd43483c0] , if—
 
 - (a) the value of a controlled transaction as first entered into is such that it is not a recordable transaction, but
 - (b) the terms of the transaction are subsequently varied in such a way that it becomes a recordable transaction,
 
 the regulated participant must be treated as having entered into a recordable transaction on the date when the variation takes effect.
 
-(6A)[^key-51bc5842a4449c72ed96cef450c32589] But if sub-paragraph (6) would otherwise have the effect that a person who is or has been a member or employee of the Commission could make available to the public information to which this sub-paragraph applies, it does not have that effect.
+(6A)[^c-51bc5842a4449c72ed96cef450c32589] But if sub-paragraph (6) would otherwise have the effect that a person who is or has been a member or employee of the Commission could make available to the public information to which this sub-paragraph applies, it does not have that effect.
 
 (6B) Sub-paragraph (6A) applies to information—
 
@@ -324,7 +324,7 @@ the regulated participant must be treated as having entered into a recordable tr
 (7) A regulated participant must deliver the report prepared in accordance with sub-paragraph (1) to the Commission within the period of 30 days beginning with—
 
 - (a) if sub-paragraph (2)(a) applies, the date on which the transaction is entered into;
-- (b) if sub-paragraph (2)(b) applies, the date on which the benefit which causes the aggregate amount to exceed £11,180[^key-1a360c72f52a29e03de2250d99a261a5] or (as the case may be) £2,230[^key-4efb2276be01dfc1748bd80bcb2a8353].
+- (b) if sub-paragraph (2)(b) applies, the date on which the benefit which causes the aggregate amount to exceed £11,180[^c-1a360c72f52a29e03de2250d99a261a5] or (as the case may be) £2,230[^c-4efb2276be01dfc1748bd80bcb2a8353].
 
 (8) Each report prepared in accordance with sub-paragraph (1) must—
 
@@ -339,7 +339,7 @@ the regulated participant must be treated as having entered into a recordable tr
 - (d) the date on which the transaction is entered into;
 - (e) such other information as is required by regulations made by the Commission.
 
-(9A)[^key-170d029625ffedde6f136255856a6db4] Sub-paragraph (9B) applies in relation to a transaction which—
+(9A)[^c-170d029625ffedde6f136255856a6db4] Sub-paragraph (9B) applies in relation to a transaction which—
 
 - (a) is entered into by a Northern Ireland participant before 1 July 2017, and
 - (b) is included in a report under sub-paragraph (1) to which this sub-paragraph applies because it has been varied as described in sub-paragraph (6).
@@ -358,7 +358,7 @@ the regulated participant must be treated as having entered into a recordable tr
 - (c) any reference to a regulated transaction or a registered party within the meaning of that Schedule must be construed as a reference to a controlled transaction or a regulated participant within the meaning of this paragraph;
 - (d) any reference to a transaction report within the meaning of that Schedule must be construed as a reference to a report under this paragraph.
 
-(11)[^key-4cdd2e7c207b2fbc11b7b94024ab393a] In this Schedule, “Northern Ireland participant” means a regulated participant who is—
+(11)[^c-4cdd2e7c207b2fbc11b7b94024ab393a] In this Schedule, “Northern Ireland participant” means a regulated participant who is—
 
 - (a) an individual ordinarily resident in Northern Ireland, or
 - (b) a members association wholly or mainly consisting of members of a party registered in the Northern Ireland register.
@@ -428,7 +428,7 @@ the regulated participant must be treated as having entered into a recordable tr
 - (c) in the case of a change falling within sub-paragraph (5), the date when and the manner in which the transaction was dealt with in accordance with paragraph 5 or 6;
 - (d) such other information as is required by regulations made by the Commission.
 
-(8)[^key-49b0df908447caa816e188da1dee2076] Where information about a change of the kind mentioned in section 71Z4(A3)(b) to a transaction to which a Northern Ireland participant is a party is supplied in a report under this paragraph to which this sub-paragraph applies, and the transaction was entered into before 1 January 2014, the report must state that fact.
+(8)[^c-49b0df908447caa816e188da1dee2076] Where information about a change of the kind mentioned in section 71Z4(A3)(b) to a transaction to which a Northern Ireland participant is a party is supplied in a report under this paragraph to which this sub-paragraph applies, and the transaction was entered into before 1 January 2014, the report must state that fact.
 
 (9) Sub-paragraph (8) applies to a report which is delivered to the Commission on or after the date on which Article 9 of the Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 comes into force.
 
@@ -493,7 +493,7 @@ which complies with sub-paragraph (2) or (3).
 - (a) in England and Wales, the county court;
 - (b) in Scotland, the sheriff, and the proceedings are civil proceedings;
 - (c) in Northern Ireland, the county court.
-- (d)[^key-2b396aa06645f5512ad2343785f25172] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2b396aa06645f5512ad2343785f25172] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The standard of proof is that applicable to civil proceedings.
 
@@ -501,7 +501,7 @@ which complies with sub-paragraph (2) or (3).
 
 (5) An appeal against an order made by the sheriff may be made to the Court of Session.
 
-(6) Rules of court [^key-bd87305883fb47f9feaeb65cb6e3fca4]... may make provision—
+(6) Rules of court [^c-bd87305883fb47f9feaeb65cb6e3fca4]... may make provision—
 
 - (a) with respect to applications or appeals from proceedings on such applications;
 - (b) for the giving of notice of such applications or appeals to persons affected;
@@ -532,33 +532,33 @@ which complies with sub-paragraph (2) or (3).
 
 [^c20254201]: Textual amendment: Sum in Sch. 7A para. 2(4)(b) substituted (1.1.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/20/1), [43](https://www.legislation.gov.uk/ukpga/2009/12/section/43); [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/h)
 
-[^key-40eeaaa967232f1fe80495ecdbabbae5]: Textual amendment: [Sch. 7A para. 4(3A)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/4/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/4/3B) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-40eeaaa967232f1fe80495ecdbabbae5]: Textual amendment: [Sch. 7A para. 4(3A)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/4/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/4/3B) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c20256501]: Textual amendment: Sch. 7A para. 4A and preceding cross-heading inserted (prosp.) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2009/12/section/11/4), [43](https://www.legislation.gov.uk/ukpga/2009/12/section/43)
 
-[^key-b32aa4d95bbee23a10f9ed20b9b91f1e]: Textual amendment: Sum in [Sch. 7A para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/2/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(f)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/f)
+[^c-b32aa4d95bbee23a10f9ed20b9b91f1e]: Textual amendment: Sum in [Sch. 7A para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/2/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(f)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/f)
 
-[^key-5c4df4e4281f7d464fee1c877a565286]: Textual amendment: Sum in [Sch. 7A para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/2/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(2)(d)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/2/d)
+[^c-5c4df4e4281f7d464fee1c877a565286]: Textual amendment: Sum in [Sch. 7A para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/2/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(2)(d)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/2/d)
 
-[^key-22e142098cf0b4573162cebfcce9c761]: Textual amendment: Sum in [Sch. 7A para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/2/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(f)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/f)
+[^c-22e142098cf0b4573162cebfcce9c761]: Textual amendment: Sum in [Sch. 7A para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/2/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(f)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/f)
 
-[^key-94e5012c6f9a801607a5221f06cedad9]: Textual amendment: Sum in [Sch. 7A para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/2/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(2)(d)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/2/d)
+[^c-94e5012c6f9a801607a5221f06cedad9]: Textual amendment: Sum in [Sch. 7A para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/2/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(2)(d)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/2/d)
 
-[^key-08d35e452c5068a7cd113220d3a2482e]: Textual amendment: Words in [Sch. 7A para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/4/a) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-08d35e452c5068a7cd113220d3a2482e]: Textual amendment: Words in [Sch. 7A para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/4/a) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-2221ec413c01c22eaed8364bd43483c0]: Textual amendment: Words in Sch. 7A para. 9(6) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/328/article/9/2/a)
+[^c-2221ec413c01c22eaed8364bd43483c0]: Textual amendment: Words in Sch. 7A para. 9(6) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/328/article/9/2/a)
 
-[^key-51bc5842a4449c72ed96cef450c32589]: Textual amendment: Sch. 7A para. 9(6A)-(6C) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/328/article/9/2/b)
+[^c-51bc5842a4449c72ed96cef450c32589]: Textual amendment: Sch. 7A para. 9(6A)-(6C) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/328/article/9/2/b)
 
-[^key-1a360c72f52a29e03de2250d99a261a5]: Textual amendment: Sum in [Sch. 7A para. 9(7)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/7/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(f)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/f)
+[^c-1a360c72f52a29e03de2250d99a261a5]: Textual amendment: Sum in [Sch. 7A para. 9(7)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/7/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(f)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/f)
 
-[^key-4efb2276be01dfc1748bd80bcb2a8353]: Textual amendment: Sum in [Sch. 7A para. 9(7)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/7/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(2)(d)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/2/d)
+[^c-4efb2276be01dfc1748bd80bcb2a8353]: Textual amendment: Sum in [Sch. 7A para. 9(7)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/9/7/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(2)(d)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/2/d)
 
 [^c20108041]: Textual amendment: Words in Sch. 7A para. 9(9)(a)(10) inserted (1.7.2008) by [The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008 (S.I. 2008/1737)](https://www.legislation.gov.uk/uksi/2008/1737), [art. 6](https://www.legislation.gov.uk/uksi/2008/1737/article/6), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1737/schedule/2/paragraph/2)
 
-[^key-170d029625ffedde6f136255856a6db4]: Textual amendment: Sch. 7A para. 9(9A)-(9C) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(2)(c)](https://www.legislation.gov.uk/uksi/2018/328/article/9/2/c)
+[^c-170d029625ffedde6f136255856a6db4]: Textual amendment: Sch. 7A para. 9(9A)-(9C) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(2)(c)](https://www.legislation.gov.uk/uksi/2018/328/article/9/2/c)
 
-[^key-4cdd2e7c207b2fbc11b7b94024ab393a]: Textual amendment: Sch. 7A para. 9(11) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(2)(d)](https://www.legislation.gov.uk/uksi/2018/328/article/9/2/d)
+[^c-4cdd2e7c207b2fbc11b7b94024ab393a]: Textual amendment: Sch. 7A para. 9(11) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(2)(d)](https://www.legislation.gov.uk/uksi/2018/328/article/9/2/d)
 
 [^c20108071]: Textual amendment: Words in Sch. 7A para. 10(3) inserted (1.7.2008) by [The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008 (S.I. 2008/1737)](https://www.legislation.gov.uk/uksi/2008/1737), [art. 6](https://www.legislation.gov.uk/uksi/2008/1737/article/6), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/1737/schedule/2/paragraph/3)
 
@@ -566,7 +566,7 @@ which complies with sub-paragraph (2) or (3).
 
 [^c20108111]: Textual amendment: Sch. 7A para. 10(5) inserted (1.7.2008) by [The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008 (S.I. 2008/1737)](https://www.legislation.gov.uk/uksi/2008/1737), [art. 6](https://www.legislation.gov.uk/uksi/2008/1737/article/6), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2008/1737/schedule/2/paragraph/5)
 
-[^key-49b0df908447caa816e188da1dee2076]: Textual amendment: Sch. 7A para. 11(8)(9) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2018/328/article/9/3)
+[^c-49b0df908447caa816e188da1dee2076]: Textual amendment: Sch. 7A para. 11(8)(9) inserted (28.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/328/article/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2018/328/article/9/3)
 
 [^c20256911]: Textual amendment: Words in Sch. 7A para. 12(1) inserted (1.1.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 13(6)(a)](https://www.legislation.gov.uk/ukpga/2009/12/section/13/6/a), [43](https://www.legislation.gov.uk/ukpga/2009/12/section/43); [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/3084/article/5))
 
@@ -578,8 +578,8 @@ which complies with sub-paragraph (2) or (3).
 
 [^c20108131]: Textual amendment: Words in Sch. 7A para. 15(2) substituted (1.7.2008) by [The Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008 (S.I. 2008/1737)](https://www.legislation.gov.uk/uksi/2008/1737), [art. 6](https://www.legislation.gov.uk/uksi/2008/1737/article/6), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/1737/schedule/2/paragraph/6)
 
-[^key-2b396aa06645f5512ad2343785f25172]: Textual amendment: [Sch. 7A para. 17(2)(d)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/17/2/d) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-2b396aa06645f5512ad2343785f25172]: Textual amendment: [Sch. 7A para. 17(2)(d)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/17/2/d) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-bd87305883fb47f9feaeb65cb6e3fca4]: Textual amendment: Words in [Sch. 7A para. 17(6)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/17/6) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-bd87305883fb47f9feaeb65cb6e3fca4]: Textual amendment: Words in [Sch. 7A para. 17(6)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/7A/paragraph/17/6) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c20256991]: Textual amendment: Sch. 7A para. 18 and preceding cross-heading inserted (1.1.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 17](https://www.legislation.gov.uk/ukpga/2009/12/section/17), [43](https://www.legislation.gov.uk/ukpga/2009/12/section/43); [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art 4(f)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/f)

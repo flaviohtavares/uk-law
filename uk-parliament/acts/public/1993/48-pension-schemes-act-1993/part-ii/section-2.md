@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Constitution and functions of the Board.[^key-dcbcbb69c7bef566fe471aad1da7b7f1]
+## 2. Constitution and functions of the Board.[^c-dcbcbb69c7bef566fe471aad1da7b7f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcbcbb69c7bef566fe471aad1da7b7f1]: Textual amendment: [Ss. 2-5](https://www.legislation.gov.uk/ukpga/1993/48/section/2) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/19), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule)
+[^c-dcbcbb69c7bef566fe471aad1da7b7f1]: Textual amendment: [Ss. 2-5](https://www.legislation.gov.uk/ukpga/1993/48/section/2) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/19), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule)

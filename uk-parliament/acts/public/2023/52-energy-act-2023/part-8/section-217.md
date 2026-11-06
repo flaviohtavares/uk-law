@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. The Regulator[^key-c3a505aa06e0becadc6d1655fe157f54]
+## 217. The Regulator[^c-c3a505aa06e0becadc6d1655fe157f54]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3a505aa06e0becadc6d1655fe157f54]: Commencement: S. 217 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c3a505aa06e0becadc6d1655fe157f54]: Commencement: S. 217 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Penalties[^key-afe4bd7894a6516aee66b431cb961455]
+## 50. Penalties[^c-afe4bd7894a6516aee66b431cb961455]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afe4bd7894a6516aee66b431cb961455]: Commencement: Reg. 50 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-afe4bd7894a6516aee66b431cb961455]: Commencement: Reg. 50 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

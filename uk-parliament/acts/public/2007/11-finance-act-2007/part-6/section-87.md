@@ -27,7 +27,7 @@ summary: ''
 - (a) a reference to a constable (including a reference to a constable of a police force in England and Wales, a constable of a police force in Scotland or a constable of a police force in Northern Ireland) shall be treated as a reference to an officer of Revenue and Customs, and
 - (b) a reference to a police station, or a designated police station, includes a reference to an office of Revenue and Customs or (in England and Wales and Northern Ireland) a designated office of Revenue and Customs.
 
-(2A)[^key-898b8a909f1262f76aea278706f89e4e] In the application of section 137C where a person is arrested under section 137A by an officer of Revenue and Customs in respect of a specified offence that is being investigated by an officer of Revenue and Customs—
+(2A)[^c-898b8a909f1262f76aea278706f89e4e] In the application of section 137C where a person is arrested under section 137A by an officer of Revenue and Customs in respect of a specified offence that is being investigated by an officer of Revenue and Customs—
 
 - (a) subsection (2)(b) is to be read as if (instead of requiring the detention to be authorised by both an officer of at least the rank of inspector in the arresting force and an officer of at least the rank of inspector in the investigating force) it required the detention to be authorised by an officer of Revenue and Customs of at least the grade equivalent to the rank of inspector;
 - (b) subsection (2)(c) is to be read as if (instead of requiring the detention to be authorised by both an officer of a rank above that of inspector in the arresting force and an officer of a rank above that of inspector in the investigating force) it required the detention to be authorised by an officer of Revenue and Customs of a grade above that equivalent to the rank of inspector;
@@ -59,14 +59,14 @@ summary: ''
 - (c) instead of the modification made by paragraph 9, section 42 of the Criminal Justice (Scotland) Act 2016 is to be read as if the references in subsections (1)(c)(ii) and (3)(b) to the police were references to officers of Revenue and Customs;
 - (d) the Schedule is to be read as if it also provided for references in the provisions applied by section 137D(2)(d), (3)(d) and (4)(d) to a police station to include references to an office of Revenue and Customs.
 
-(2E)[^key-a3aa7be4986dd8f463b82018bb107743] In the application of those sections to an officer of Revenue and Customs—
+(2E)[^c-a3aa7be4986dd8f463b82018bb107743] In the application of those sections to an officer of Revenue and Customs—
 
 - (a) sections 136(4B) and 137(7B) apply with the omission of the words from “and, if the constable” to the end;
 - (b) section 137ZA applies with the omission of subsection (6).
 
-(3)[^key-a3d7360546009f441eb12b12d2d71e7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a3d7360546009f441eb12b12d2d71e7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) An officer of Revenue and Customs may exercise a power under sections 136 to 139 in the exercise of any function of the Commissioners for Her Majesty's Revenue and Customs or of officers of Revenue and Customs, within the meaning of the Commissioners for Revenue and Customs Act 2005 (see section 51(2) to (2B) of that Act)[^key-4f1aa2ec579ed47ce870faa382a46547] .
+(4) An officer of Revenue and Customs may exercise a power under sections 136 to 139 in the exercise of any function of the Commissioners for Her Majesty's Revenue and Customs or of officers of Revenue and Customs, within the meaning of the Commissioners for Revenue and Customs Act 2005 (see section 51(2) to (2B) of that Act)[^c-4f1aa2ec579ed47ce870faa382a46547] .
 
 (5) In subsection (2)—
 
@@ -79,10 +79,10 @@ summary: ''
 
 ## Annotations
 
-[^key-898b8a909f1262f76aea278706f89e4e]: Textual amendment: S. 87(2A)-(2D) inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 17 para. 9(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/9/2); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-898b8a909f1262f76aea278706f89e4e]: Textual amendment: S. 87(2A)-(2D) inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 17 para. 9(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/17/paragraph/9/2); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
 
-[^key-a3aa7be4986dd8f463b82018bb107743]: Textual amendment: S. 87(2E) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [19(3)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/19/3/a) (with [art. 19(2)](https://www.legislation.gov.uk/uksi/2018/46/article/19/2))
+[^c-a3aa7be4986dd8f463b82018bb107743]: Textual amendment: S. 87(2E) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [19(3)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/19/3/a) (with [art. 19(2)](https://www.legislation.gov.uk/uksi/2018/46/article/19/2))
 
-[^key-a3d7360546009f441eb12b12d2d71e7e]: Textual amendment: S. 87(3) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [19(3)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/19/3/b) (with [art. 19(2)](https://www.legislation.gov.uk/uksi/2018/46/article/19/2))
+[^c-a3d7360546009f441eb12b12d2d71e7e]: Textual amendment: S. 87(3) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [19(3)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/19/3/b) (with [art. 19(2)](https://www.legislation.gov.uk/uksi/2018/46/article/19/2))
 
-[^key-4f1aa2ec579ed47ce870faa382a46547]: Textual amendment: Words in s. 87(4) substituted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 118](https://www.legislation.gov.uk/ukpga/2017/3/section/118), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)
+[^c-4f1aa2ec579ed47ce870faa382a46547]: Textual amendment: Words in s. 87(4) substituted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 118](https://www.legislation.gov.uk/ukpga/2017/3/section/118), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)

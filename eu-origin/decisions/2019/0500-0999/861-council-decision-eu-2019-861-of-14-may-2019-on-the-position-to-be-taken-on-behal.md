@@ -33,42 +33,42 @@ of 14 May 2019
 
 on the position to be taken on behalf of the European Union in the South East Atlantic Fisheries Organisation (SEAFO), and repealing the Decision of 12 June 2014 on the position to be adopted, on behalf of the Union, in the SEAFO (revoked)
 
-[^key-fc299d182c204ce2d0c9f480770deeda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc299d182c204ce2d0c9f480770deeda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-fc299d182c204ce2d0c9f480770deeda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc299d182c204ce2d0c9f480770deeda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc299d182c204ce2d0c9f480770deeda]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — The position to be taken on the Union's behalf in the South East Atlantic Fisheries Organisation (SEAFO)[^key-fc299d182c204ce2d0c9f480770deeda]
+## ANNEX I — The position to be taken on the Union's behalf in the South East Atlantic Fisheries Organisation (SEAFO)[^c-fc299d182c204ce2d0c9f480770deeda]
 
-[^key-fc299d182c204ce2d0c9f480770deeda]1.
+[^c-fc299d182c204ce2d0c9f480770deeda]1.
 
 PRINCIPLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc299d182c204ce2d0c9f480770deeda]2.
+[^c-fc299d182c204ce2d0c9f480770deeda]2.
 
 ORIENTATIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Year to year specification of the Union's position to be taken at meetings of the South East Atlantic Fisheries Organisation[^key-fc299d182c204ce2d0c9f480770deeda]
+## ANNEX II — Year to year specification of the Union's position to be taken at meetings of the South East Atlantic Fisheries Organisation[^c-fc299d182c204ce2d0c9f480770deeda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc299d182c204ce2d0c9f480770deeda]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-fc299d182c204ce2d0c9f480770deeda]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

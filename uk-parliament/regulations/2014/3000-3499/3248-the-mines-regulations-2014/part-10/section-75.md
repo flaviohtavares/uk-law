@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Modifications[^key-afd3357ff1398bf0a421ac7f505d3497]
+## 75. Modifications[^c-afd3357ff1398bf0a421ac7f505d3497]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The modifications specified in Schedule 5 have effect.
 
 ## Annotations
 
-[^key-afd3357ff1398bf0a421ac7f505d3497]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2014/3248/regulation/75) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-afd3357ff1398bf0a421ac7f505d3497]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2014/3248/regulation/75) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

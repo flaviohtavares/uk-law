@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Saving for Trinity House[^key-8a37a3bfddf9ac290acb793b341d3e3f]
+## 63. Saving for Trinity House[^c-8a37a3bfddf9ac290acb793b341d3e3f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties, or
 
 ## Annotations
 
-[^key-8a37a3bfddf9ac290acb793b341d3e3f]: Commencement: Art. 63 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-8a37a3bfddf9ac290acb793b341d3e3f]: Commencement: Art. 63 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

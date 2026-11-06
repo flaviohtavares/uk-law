@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7ZA. Licences for operation of gas interconnectors[^key-9a2e2f557dc7281ba31658bac2b47d1f][^key-7bcb872891e92a66cd5045e649fc1383]
+## 7ZA. Licences for operation of gas interconnectors[^c-9a2e2f557dc7281ba31658bac2b47d1f][^c-7bcb872891e92a66cd5045e649fc1383]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a2e2f557dc7281ba31658bac2b47d1f]: Textual amendment: S. 7ZA inserted (1.12.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 149(6)](https://www.legislation.gov.uk/ukpga/2004/20/section/149/6), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)
+[^c-9a2e2f557dc7281ba31658bac2b47d1f]: Textual amendment: S. 7ZA inserted (1.12.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 149(6)](https://www.legislation.gov.uk/ukpga/2004/20/section/149/6), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)
 
-[^key-7bcb872891e92a66cd5045e649fc1383]: Modification: S. 7ZA modified (1.12.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 152(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/152/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)
+[^c-7bcb872891e92a66cd5045e649fc1383]: Modification: S. 7ZA modified (1.12.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 152(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/152/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)

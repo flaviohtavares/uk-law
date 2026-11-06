@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Withdrawal[^key-d8a2f460d2cc7e70295b70c0f12cf7e5]
+## 130. Withdrawal[^c-d8a2f460d2cc7e70295b70c0f12cf7e5]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8a2f460d2cc7e70295b70c0f12cf7e5]: Commencement: [S. 130](https://www.legislation.gov.uk/anaw/2016/1/section/130) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-d8a2f460d2cc7e70295b70c0f12cf7e5]: Commencement: [S. 130](https://www.legislation.gov.uk/anaw/2016/1/section/130) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

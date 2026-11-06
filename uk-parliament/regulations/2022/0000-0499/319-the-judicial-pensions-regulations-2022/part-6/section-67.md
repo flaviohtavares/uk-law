@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Adjustment of allocated benefit (members who have reached the age of 75)[^key-416144aa650b4ffe0384ffdbe674e59a]
+## 67. Adjustment of allocated benefit (members who have reached the age of 75)[^c-416144aa650b4ffe0384ffdbe674e59a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-416144aa650b4ffe0384ffdbe674e59a]: Commencement: Reg. 67 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-416144aa650b4ffe0384ffdbe674e59a]: Commencement: Reg. 67 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

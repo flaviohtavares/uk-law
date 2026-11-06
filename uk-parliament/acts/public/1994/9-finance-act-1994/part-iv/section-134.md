@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Controlled foreign companies.[^key-8ff9750f24793d6618b47e721f636707]
+## 134. Controlled foreign companies.[^c-8ff9750f24793d6618b47e721f636707]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ff9750f24793d6618b47e721f636707]: Textual amendment: [S. 134](https://www.legislation.gov.uk/ukpga/1994/9/section/134) omitted (21.7.2009) (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/b) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
+[^c-8ff9750f24793d6618b47e721f636707]: Textual amendment: [S. 134](https://www.legislation.gov.uk/ukpga/1994/9/section/134) omitted (21.7.2009) (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/b) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))

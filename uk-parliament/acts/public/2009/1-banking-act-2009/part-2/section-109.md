@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Removal by creditors[^key-b5b2b5c48561992ea4319a172b5726f9]
+## 109. Removal by creditors[^c-b5b2b5c48561992ea4319a172b5726f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) Condition 2 is that the notice given to creditors of the meeting includes notice of intention to move a resolution removing the bank liquidator.
 
-(4) Condition 3 is that the Bank of England, the PRA and the FCA[^key-05f0f37d1ea3d0721cfb010b956cdcd9]—
+(4) Condition 3 is that the Bank of England, the PRA and the FCA[^c-05f0f37d1ea3d0721cfb010b956cdcd9]—
 
 - (a) receive notice of the meeting, and
 - (b) are given an opportunity to make representations to it.
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b2b5c48561992ea4319a172b5726f9]: Commencement: S. 109 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-b5b2b5c48561992ea4319a172b5726f9]: Commencement: S. 109 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
 
-[^key-05f0f37d1ea3d0721cfb010b956cdcd9]: Textual amendment: Words in s. 109(4) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 40](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/40) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-05f0f37d1ea3d0721cfb010b956cdcd9]: Textual amendment: Words in s. 109(4) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 40](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/40) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Annual or quarterly return[^key-b17c533248f76b1d211f6d052fed1b3d]
+## 37. Annual or quarterly return[^c-b17c533248f76b1d211f6d052fed1b3d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b17c533248f76b1d211f6d052fed1b3d]: Commencement: S. 37 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-b17c533248f76b1d211f6d052fed1b3d]: Commencement: S. 37 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

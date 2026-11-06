@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153A. Regulations to restrict public sector exit payments[^key-4eca5c0b4d1df71b1654302062cd4440]
+## 153A. Regulations to restrict public sector exit payments[^c-4eca5c0b4d1df71b1654302062cd4440]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eca5c0b4d1df71b1654302062cd4440]: Textual amendment: Ss. 153A-153C inserted (1.2.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 41](https://www.legislation.gov.uk/ukpga/2016/12/section/41), [44(4)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/4/b); [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/b)
+[^c-4eca5c0b4d1df71b1654302062cd4440]: Textual amendment: Ss. 153A-153C inserted (1.2.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 41](https://www.legislation.gov.uk/ukpga/2016/12/section/41), [44(4)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/4/b); [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/b)

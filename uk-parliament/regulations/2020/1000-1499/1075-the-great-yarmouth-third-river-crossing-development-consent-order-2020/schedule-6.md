@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS MAY BE ACQUIRED[^key-1bb952bc02f4b68f2a0667c61ec79297]
+## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS MAY BE ACQUIRED[^c-1bb952bc02f4b68f2a0667c61ec79297]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Article 28(2)
 
 ## Annotations
 
-[^key-1bb952bc02f4b68f2a0667c61ec79297]: Commencement: Sch. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-1bb952bc02f4b68f2a0667c61ec79297]: Commencement: Sch. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18D. Review of polling districts and places: representations to Electoral Commission[^key-75eeb145e6e1cc5336c769764768c8c4][^c19430921][^c14479931]
+## 18D. Review of polling districts and places: representations to Electoral Commission[^c-75eeb145e6e1cc5336c769764768c8c4][^c19430921][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-75eeb145e6e1cc5336c769764768c8c4]: Modification: S. 18D applied (with modifications) by [The Northern Ireland Assembly (Elections) Order 2001 (S.I. 2001/2599)](https://www.legislation.gov.uk/uksi/2001/2599), [art. 3](https://www.legislation.gov.uk/uksi/2001/2599/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2599/schedule/1) (as amended (30.7.2015) by [S.I. 2015/1610](https://www.legislation.gov.uk/uksi/2015/1610), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1610/article/1/2), [2](https://www.legislation.gov.uk/uksi/2015/1610/article/2))
+[^c-75eeb145e6e1cc5336c769764768c8c4]: Modification: S. 18D applied (with modifications) by [The Northern Ireland Assembly (Elections) Order 2001 (S.I. 2001/2599)](https://www.legislation.gov.uk/uksi/2001/2599), [art. 3](https://www.legislation.gov.uk/uksi/2001/2599/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2599/schedule/1) (as amended (30.7.2015) by [S.I. 2015/1610](https://www.legislation.gov.uk/uksi/2015/1610), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1610/article/1/2), [2](https://www.legislation.gov.uk/uksi/2015/1610/article/2))
 
 [^c19430921]: Textual amendment: Ss. 18A-18E substituted (1.1.2007 for E.W.S. and 1.7.2008 for N.I.) for s. 18 by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2006/22/section/16/1), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14(c)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14/c) (subject to transitional provisions in [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts 2](https://www.legislation.gov.uk/uksi/2008/1316/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1316/article/4)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Different standards relating to particular conduct[^key-d54e44f3f79da83b596c008a6f6b0a96]
+## 41. Different standards relating to particular conduct[^c-d54e44f3f79da83b596c008a6f6b0a96]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d54e44f3f79da83b596c008a6f6b0a96]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2011/1/section/41) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-d54e44f3f79da83b596c008a6f6b0a96]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2011/1/section/41) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

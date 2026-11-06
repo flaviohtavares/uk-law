@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56.7. Further provision for Renting Homes (Wales) claims[^key-fa6a0240c7c1bc7b1c4b04d637b2ee82][^key-083d3acaff142ff50b3490b86b713816]
+## 56.7. Further provision for Renting Homes (Wales) claims[^c-fa6a0240c7c1bc7b1c4b04d637b2ee82][^c-083d3acaff142ff50b3490b86b713816]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A practice direction may set out provisions with regard to Renting Homes (Wales)
 
 ## Annotations
 
-[^key-fa6a0240c7c1bc7b1c4b04d637b2ee82]: Textual amendment: [Pt. 56](https://www.legislation.gov.uk/uksi/1998/3132/part/56) Section 3 inserted (1.12.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2022/783/rule/23/3)
+[^c-fa6a0240c7c1bc7b1c4b04d637b2ee82]: Textual amendment: [Pt. 56](https://www.legislation.gov.uk/uksi/1998/3132/part/56) Section 3 inserted (1.12.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2022/783/rule/23/3)
 
-[^key-083d3acaff142ff50b3490b86b713816]: Textual amendment: Pt. 56 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/256/schedule/2) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-083d3acaff142ff50b3490b86b713816]: Textual amendment: Pt. 56 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/256/schedule/2) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))

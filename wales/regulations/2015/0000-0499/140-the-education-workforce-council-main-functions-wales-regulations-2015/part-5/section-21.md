@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Delegation of Investigating Committees’ functions[^key-d65d89fe57dcc2291c1d55761f7f9300]
+## 21. Delegation of Investigating Committees’ functions[^c-d65d89fe57dcc2291c1d55761f7f9300]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d65d89fe57dcc2291c1d55761f7f9300]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2015/140/regulation/21) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-d65d89fe57dcc2291c1d55761f7f9300]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2015/140/regulation/21) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

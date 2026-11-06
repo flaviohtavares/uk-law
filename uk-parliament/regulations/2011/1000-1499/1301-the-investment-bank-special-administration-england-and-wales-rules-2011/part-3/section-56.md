@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Release from duty to submit statement of affairs[^key-a2bfdc354a96350189dc1de98778d108]
+## 56. Release from duty to submit statement of affairs[^c-a2bfdc354a96350189dc1de98778d108]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The court may, if it thinks that no sufficient cause is shown for the application, dismiss it without a hearing but it shall not do so without giving the relevant person at least 5 business days’ notice, upon receipt of which the relevant person may request the court to list the application for a without notice hearing.
 
-(4) If the application is not dismissed under paragraph (3), the court shall fix a venue for it to be heard, and give notice to the relevant person and to the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-5e64405dc7972a0b49ed9a04f5f0ac53] accordingly.
+(4) If the application is not dismissed under paragraph (3), the court shall fix a venue for it to be heard, and give notice to the relevant person and to the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-5e64405dc7972a0b49ed9a04f5f0ac53] accordingly.
 
 (5) Where an application has been made under paragraph (2), the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA may appear and be heard at the hearing and in a special administration (bank administration), the Bank of England may also be given notice of the hearing and may appear and be heard at the hearing or may make written representations.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2bfdc354a96350189dc1de98778d108]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2011/1301/rule/56) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a2bfdc354a96350189dc1de98778d108]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2011/1301/rule/56) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-5e64405dc7972a0b49ed9a04f5f0ac53]: Textual amendment: Words in [art. 56(4)](https://www.legislation.gov.uk/uksi/2011/1301/article/56/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1301/article/56/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/iv) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-5e64405dc7972a0b49ed9a04f5f0ac53]: Textual amendment: Words in [art. 56(4)](https://www.legislation.gov.uk/uksi/2011/1301/article/56/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1301/article/56/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/iv) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

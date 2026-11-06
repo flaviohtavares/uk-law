@@ -46,7 +46,7 @@ summary: ''
 - “road” includes a public road and any street, carriageway, highway or roadway to which the public has access;
 - “the Road Traffic Orders” means this Order the Order of 1981[^c17246751] [^c20462021]. . . the Road Traffic Regulation (Northern Ireland) Order 1997[^c21148861]. . . the Order of 2007[^c20462051] and the Taxis Act (Northern Ireland) 2008[^c21148881];
 - “statutory provision” has the meaning assigned to it by section 1(f) of the Interpretation Act (Northern Ireland) 1954[^c17246771];
-- “[^key-6bae34cb416f91941ced1a0430aedb2e]**taxi**” has the same meaning as in the Taxis Act (Northern Ireland) 2008;
+- “[^c-6bae34cb416f91941ced1a0430aedb2e]**taxi**” has the same meaning as in the Taxis Act (Northern Ireland) 2008;
 - “traffic” includes the passage of animals on a road;
 - “traffic sign” has the meaning assigned to it by Article 28 of the Road Traffic Regulation (Northern Ireland) Order 1997
 - “trolley vehicle” means a mechanically propelled vehicle adapted for use without rails under power transmitted to the vehicle from some external source (whether or not there is in addition a source of power on board the vehicle).
@@ -77,4 +77,4 @@ summary: ''
 
 [^c17246771]: Textual amendment: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6bae34cb416f91941ced1a0430aedb2e]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1995/2994/article/2/2) inserted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/6/b); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-6bae34cb416f91941ced1a0430aedb2e]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1995/2994/article/2/2) inserted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/6/b); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)

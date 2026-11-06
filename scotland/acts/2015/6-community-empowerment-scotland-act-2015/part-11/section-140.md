@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 140. Schemes for reduction and remission of non-domestic rates[^key-ff363bc487e6d7b9cd4e364d63f8f159]
+## 140. Schemes for reduction and remission of non-domestic rates[^c-ff363bc487e6d7b9cd4e364d63f8f159]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff363bc487e6d7b9cd4e364d63f8f159]: Commencement: [S. 140](https://www.legislation.gov.uk/asp/2015/6/section/140) in force at 31.10.2015 by [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)
+[^c-ff363bc487e6d7b9cd4e364d63f8f159]: Commencement: [S. 140](https://www.legislation.gov.uk/asp/2015/6/section/140) in force at 31.10.2015 by [S.S.I. 2015/344](https://www.legislation.gov.uk/ssi/2015/344), [art. 2](https://www.legislation.gov.uk/ssi/2015/344/article/2)

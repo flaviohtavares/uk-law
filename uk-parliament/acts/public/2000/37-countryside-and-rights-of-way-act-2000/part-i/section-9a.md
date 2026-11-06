@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Review of maps (England)[^key-9c797da43cb1d04dc6632f768b30ce30]
+## 9A. Review of maps (England)[^c-9c797da43cb1d04dc6632f768b30ce30]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c797da43cb1d04dc6632f768b30ce30]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2000/37/section/9A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 236(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/236/2), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-9c797da43cb1d04dc6632f768b30ce30]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2000/37/section/9A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 236(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/236/2), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

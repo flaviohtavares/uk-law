@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Inquiries under section 33: warrants[^key-6c42945751c42e9ac51b43d03618a58b]
+## 35. Inquiries under section 33: warrants[^c-6c42945751c42e9ac51b43d03618a58b]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) authorising—
   - (i) the mental health officer specified in the warrant;
   - (ii) any other persons so specified; and
-  - (iiia)[^key-561172ea89c997684481c0be575cb152] any constable of the Police Service of Scotland,
+  - (iiia)[^c-561172ea89c997684481c0be575cb152] any constable of the Police Service of Scotland,
 
   before the expiry of the period of 8 days beginning with the day on which the warrant is granted, to enter, for the purposes of the inquiries, any premises so specified; and
 - (b) authorising any such constable, before the expiry of that period, for the purpose of exercising the power mentioned in paragraph (a) above, to open lockfast places on premises so specified.
@@ -89,6 +89,6 @@ in which the person who is the subject of the inquiries for the time being is.
 
 ## Annotations
 
-[^key-6c42945751c42e9ac51b43d03618a58b]: Commencement: S. 35 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-6c42945751c42e9ac51b43d03618a58b]: Commencement: S. 35 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-561172ea89c997684481c0be575cb152]: Textual amendment: [S. 35(2)(a)](https://www.legislation.gov.uk/asp/2003/13/section/35/2/a)[(iiia)](https://www.legislation.gov.uk/asp/2003/13/section/35/2/iiia) substituted for s. 35(2)(a)(iii) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(4)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/4); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-561172ea89c997684481c0be575cb152]: Textual amendment: [S. 35(2)(a)](https://www.legislation.gov.uk/asp/2003/13/section/35/2/a)[(iiia)](https://www.legislation.gov.uk/asp/2003/13/section/35/2/iiia) substituted for s. 35(2)(a)(iii) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(4)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/4); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

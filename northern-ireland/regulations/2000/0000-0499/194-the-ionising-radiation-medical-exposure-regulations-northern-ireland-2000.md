@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2000 (revoked)[^key-554c437564640556253efa5cf7491810]
+The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2000 (revoked)[^c-554c437564640556253efa5cf7491810]
 
 Made
 
@@ -39,77 +39,77 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-554c437564640556253efa5cf7491810]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-554c437564640556253efa5cf7491810]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-554c437564640556253efa5cf7491810]
+## 1. Citation and commencement[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-554c437564640556253efa5cf7491810]
+## 2. Interpretation[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-554c437564640556253efa5cf7491810]
+## 3. Application[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Duties of Employer[^key-554c437564640556253efa5cf7491810]
+## 4. Duties of Employer[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duties of the Practitioner, Operator and Referrer[^key-554c437564640556253efa5cf7491810]
+## 5. Duties of the Practitioner, Operator and Referrer[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Justification of Individual Medical Exposures[^key-554c437564640556253efa5cf7491810]
+## 6. Justification of Individual Medical Exposures[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Optimisation[^key-554c437564640556253efa5cf7491810]
+## 7. Optimisation[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Clinical audit[^key-554c437564640556253efa5cf7491810]
+## 8. Clinical audit[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Expert advice[^key-554c437564640556253efa5cf7491810]
+## 9. Expert advice[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Equipment[^key-554c437564640556253efa5cf7491810]
+## 10. Equipment[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Training[^key-554c437564640556253efa5cf7491810]
+## 11. Training[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Enforcement[^key-554c437564640556253efa5cf7491810]
+## 12. Enforcement[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Defence of due diligence[^key-554c437564640556253efa5cf7491810]
+## 13. Defence of due diligence[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Revocation[^key-554c437564640556253efa5cf7491810]
+## 14. Revocation[^c-554c437564640556253efa5cf7491810]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-554c437564640556253efa5cf7491810]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-554c437564640556253efa5cf7491810]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Employer’s Procedures[^key-554c437564640556253efa5cf7491810]
+## SCHEDULE 1 — Employer’s Procedures[^c-554c437564640556253efa5cf7491810]
 
 Regulation 4(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Adequate training[^key-554c437564640556253efa5cf7491810]
+## SCHEDULE 2 — Adequate training[^c-554c437564640556253efa5cf7491810]
 
 Regulation 2(1)
 
@@ -117,8 +117,8 @@ Regulation 2(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-554c437564640556253efa5cf7491810]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-554c437564640556253efa5cf7491810]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-554c437564640556253efa5cf7491810]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/194) revoked (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [regs. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [20(1)](https://www.legislation.gov.uk/nisr/2018/17/regulation/20/1)
+[^c-554c437564640556253efa5cf7491810]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/194) revoked (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [regs. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [20(1)](https://www.legislation.gov.uk/nisr/2018/17/regulation/20/1)

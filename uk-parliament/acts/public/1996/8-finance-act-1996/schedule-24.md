@@ -237,11 +237,11 @@ Section 138.
 
 #### Determination of accounting date
 
-**11.**[^key-63a65ffbf0aa80a99bbdc429a120fc39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-63a65ffbf0aa80a99bbdc429a120fc39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Companies in liquidation
 
-**12.**[^key-ca961d685d248b11a0ac655dcbcf17c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ca961d685d248b11a0ac655dcbcf17c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Construction of references to assessments
 
@@ -269,9 +269,9 @@ Section 138.
 
 [^c14618291]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-63a65ffbf0aa80a99bbdc429a120fc39]: Textual amendment: [Sch. 24 para. 11](https://www.legislation.gov.uk/ukpga/1996/8/schedule/24/paragraph/11) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-63a65ffbf0aa80a99bbdc429a120fc39]: Textual amendment: [Sch. 24 para. 11](https://www.legislation.gov.uk/ukpga/1996/8/schedule/24/paragraph/11) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-ca961d685d248b11a0ac655dcbcf17c5]: Textual amendment: [Sch. 24 para. 12](https://www.legislation.gov.uk/ukpga/1996/8/schedule/24/paragraph/12) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ca961d685d248b11a0ac655dcbcf17c5]: Textual amendment: [Sch. 24 para. 12](https://www.legislation.gov.uk/ukpga/1996/8/schedule/24/paragraph/12) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14618311]: Textual amendment: [Sch. 24 para. 13](https://www.legislation.gov.uk/ukpga/1996/8/schedule/24/paragraph/13) repealed (31.7.1998 with effect as mentioned in Sch. 27 Pt. III(28), Note of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(28)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/28)
 

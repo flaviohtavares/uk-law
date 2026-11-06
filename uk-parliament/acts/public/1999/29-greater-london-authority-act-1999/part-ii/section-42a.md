@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42A. Consultation: supplementary provision[^key-df4a3870e9df83275f6d4101ca5702ad]
+## 42A. Consultation: supplementary provision[^c-df4a3870e9df83275f6d4101ca5702ad]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df4a3870e9df83275f6d4101ca5702ad]: Textual amendment: S. 42A repealed (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 228(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/228/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-df4a3870e9df83275f6d4101ca5702ad]: Textual amendment: S. 42A repealed (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 228(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/228/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

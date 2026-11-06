@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. The HRA's functions[^key-d4c98dec72961607872bcb57c2e0effa]
+## 110. The HRA's functions[^c-d4c98dec72961607872bcb57c2e0effa]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4c98dec72961607872bcb57c2e0effa]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2014/23/section/110) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(b)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/b)
+[^c-d4c98dec72961607872bcb57c2e0effa]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2014/23/section/110) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(b)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/b)

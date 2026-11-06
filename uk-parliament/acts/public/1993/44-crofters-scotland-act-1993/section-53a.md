@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53A. Extent of boundaries[^key-1dc9f3e2392545430e63cc36ecdc7f54]
+## 53A. Extent of boundaries[^c-1dc9f3e2392545430e63cc36ecdc7f54]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where an application is made to the Land Court to determine a question under sec
 
 ## Annotations
 
-[^key-1dc9f3e2392545430e63cc36ecdc7f54]: Textual amendment: S. 53A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 18](https://www.legislation.gov.uk/asp/2007/7/section/18), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-1dc9f3e2392545430e63cc36ecdc7f54]: Textual amendment: S. 53A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 18](https://www.legislation.gov.uk/asp/2007/7/section/18), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)

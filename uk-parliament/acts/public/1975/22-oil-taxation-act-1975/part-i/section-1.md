@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c10738561] A tax, to be known as petroleum revenue tax, shall be charged in accordance with this Part of this Act in respect of profits from oil won under the authority of a licence granted under either Part I of the Petroleum Act 1998[^c10738571] or the [^c10738581]Petroleum (Production) Act (Northern Ireland) 1964; and in this Part of this Act “**oil**” means any substance so won or capable of being so won other than methane gas won in the course of operations for making and keeping mines safe.
 
-(2)[^c10738591] For each oil field which is a taxable field[^c10738601] the tax shall, in the case of each participator, be charged at the rate of 0[^key-d944aca84a8c4caf433fcd67e637f00e][^c10738611] per cent. on the assessable profit accruing to him in any chargeable period from that field, as reduced under section 7 of this Act by any allowable losses and under section 8 of this Act by reference to his share, if any, of the oil allowance for that period, subject however to the limit imposed in his case by section 9 of this Act.
+(2)[^c10738591] For each oil field which is a taxable field[^c10738601] the tax shall, in the case of each participator, be charged at the rate of 0[^c-d944aca84a8c4caf433fcd67e637f00e][^c10738611] per cent. on the assessable profit accruing to him in any chargeable period from that field, as reduced under section 7 of this Act by any allowable losses and under section 8 of this Act by reference to his share, if any, of the oil allowance for that period, subject however to the limit imposed in his case by section 9 of this Act.
 
 (3)[^c10738631] In relation to any oil field—
 
@@ -48,7 +48,7 @@ summary: ''
 
 [^c10738601]: Textual amendment: Words in s. 1(2) inserted (27.7.1993) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 185(4)(a)](https://www.legislation.gov.uk/ukpga/1993/34/section/185/4/a)
 
-[^key-d944aca84a8c4caf433fcd67e637f00e]: Textual amendment: Word in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1975/22/section/1/2) substituted (with effect in accordance with s. 140(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 140(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/140/1)
+[^c-d944aca84a8c4caf433fcd67e637f00e]: Textual amendment: Word in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1975/22/section/1/2) substituted (with effect in accordance with s. 140(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 140(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/140/1)
 
 [^c10738611]: Textual amendment: Words substituted by [Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), [s. 132(1)](https://www.legislation.gov.uk/ukpga/1982/39/section/132/1) in relation to chargeable periods ending after 31 December 1982
 

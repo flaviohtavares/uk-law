@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Enforcement: supplemental provision[^key-0c0c53284b8e851d6ce9de9ddc0fa5b0]
+## 36. Enforcement: supplemental provision[^c-0c0c53284b8e851d6ce9de9ddc0fa5b0]
 
 *Extent: E+W*
 
@@ -32,10 +32,10 @@ summary: ''
 (3) A constable may use reasonable force in the exercise of a power under—
 
 - (a) regulation 28(2)(b)(ii), (4)(c) or (5)(b);
-- (b)[^key-7494f03c036d3372e1a7e25c1996dbc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-996236b3e6ee1a2b7b002a5b84b8bb20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7494f03c036d3372e1a7e25c1996dbc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-996236b3e6ee1a2b7b002a5b84b8bb20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) regulation 31(2)(b) (d) or (e)(ii), or (3)(c) or (e);
-- (e) regulation 32(3)(b)[^key-2e13069c081fa595b16f5ed8319b3c80];
+- (e) regulation 32(3)(b)[^c-2e13069c081fa595b16f5ed8319b3c80];
 - (f) regulation 34(1).
 
 (4) An enforcement officer may only exercise a power under this Part if the officer considers that it is necessary and proportionate to do so.
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0c0c53284b8e851d6ce9de9ddc0fa5b0]: Commencement: Reg. 36 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-0c0c53284b8e851d6ce9de9ddc0fa5b0]: Commencement: Reg. 36 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
-[^key-7494f03c036d3372e1a7e25c1996dbc4]: Textual amendment: [Reg. 36(3)(b)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/36/3/b) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/12/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
+[^c-7494f03c036d3372e1a7e25c1996dbc4]: Textual amendment: [Reg. 36(3)(b)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/36/3/b) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/12/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
 
-[^key-996236b3e6ee1a2b7b002a5b84b8bb20]: Textual amendment: [Reg. 36(3)(c)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/36/3/c) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/12/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
+[^c-996236b3e6ee1a2b7b002a5b84b8bb20]: Textual amendment: [Reg. 36(3)(c)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/36/3/c) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/12/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
 
-[^key-2e13069c081fa595b16f5ed8319b3c80]: Textual amendment: Word in [reg. 36(3)(e)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/36/3/e) substituted (28.3.2022) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/12/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
+[^c-2e13069c081fa595b16f5ed8319b3c80]: Textual amendment: Word in [reg. 36(3)(e)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/36/3/e) substituted (28.3.2022) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/12/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))

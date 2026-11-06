@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Repayment of grants by local authority[^key-742bededb1377efa95b98a628953dcb7]
+## 5. Repayment of grants by local authority[^c-742bededb1377efa95b98a628953dcb7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where a local authority are required to repay or make a payment in respect of an
 
 ## Annotations
 
-[^key-742bededb1377efa95b98a628953dcb7]: Commencement: Reg. 5 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-742bededb1377efa95b98a628953dcb7]: Commencement: Reg. 5 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

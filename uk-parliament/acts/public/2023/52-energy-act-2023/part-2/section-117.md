@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Financial penalty notices[^key-7e70d22bc59c92c7eabd0124653bdf08]
+## 117. Financial penalty notices[^c-7e70d22bc59c92c7eabd0124653bdf08]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e70d22bc59c92c7eabd0124653bdf08]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2023/52/section/117) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-7e70d22bc59c92c7eabd0124653bdf08]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2023/52/section/117) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

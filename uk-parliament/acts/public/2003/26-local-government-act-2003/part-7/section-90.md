@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-ba213e08bee8c4a2617867b19e451cb4][^key-920601f4bc08432412b989e9990c13b5] In Part 6 of the Local Government and Housing Act 1989 (c. 42) (housing finance), after section 80 there is inserted—
+(1)[^c-ba213e08bee8c4a2617867b19e451cb4][^c-920601f4bc08432412b989e9990c13b5] In Part 6 of the Local Government and Housing Act 1989 (c. 42) (housing finance), after section 80 there is inserted—
 
 > **80ZA. Negative amounts of subsidy payable to appropriate person**
 >
@@ -37,9 +37,9 @@ summary: ''
 >
 > (5) The appropriate person may charge a local housing authority an amount equal to any additional costs incurred by him as a result of any sum payable to him under subsection (1)(b) above not being paid by such time as may be determined under subsection (2) above for its payment.
 
-(2)[^key-920601f4bc08432412b989e9990c13b5][^key-8f76f46ccb42d6ab17e50ce6f7299e2d] In section 80 of that Act (calculation of Housing Revenue Account subsidy), subsection (2) (negative amounts of subsidy) is omitted.
+(2)[^c-920601f4bc08432412b989e9990c13b5][^c-8f76f46ccb42d6ab17e50ce6f7299e2d] In section 80 of that Act (calculation of Housing Revenue Account subsidy), subsection (2) (negative amounts of subsidy) is omitted.
 
-(3)[^key-920601f4bc08432412b989e9990c13b5][^key-8f76f46ccb42d6ab17e50ce6f7299e2d] In Part 2 of Schedule 4 to that Act (amounts to be debited to a local housing authority’s Housing Revenue Account), for item 5 there is substituted—
+(3)[^c-920601f4bc08432412b989e9990c13b5][^c-8f76f46ccb42d6ab17e50ce6f7299e2d] In Part 2 of Schedule 4 to that Act (amounts to be debited to a local housing authority’s Housing Revenue Account), for item 5 there is substituted—
 
 > **Item 5: sums payable under section 80ZA**
 >
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ba213e08bee8c4a2617867b19e451cb4]: Commencement: [S. 90(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/90/1) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-ba213e08bee8c4a2617867b19e451cb4]: Commencement: [S. 90(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/90/1) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-920601f4bc08432412b989e9990c13b5]: Commencement: [S. 90(1)-(3)](https://www.legislation.gov.uk/ukpga/2003/26/section/90/1) in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-920601f4bc08432412b989e9990c13b5]: Commencement: [S. 90(1)-(3)](https://www.legislation.gov.uk/ukpga/2003/26/section/90/1) in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
 
-[^key-8f76f46ccb42d6ab17e50ce6f7299e2d]: Commencement: [S. 90(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/90/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/26/section/90/3) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-8f76f46ccb42d6ab17e50ce6f7299e2d]: Commencement: [S. 90(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/90/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/26/section/90/3) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

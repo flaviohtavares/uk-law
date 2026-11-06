@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172H. Repayment of input tax[^key-12b3ddc9e3df0471c0d476f47d2d5398]
+## 172H. Repayment of input tax[^c-12b3ddc9e3df0471c0d476f47d2d5398]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraphs (5) and (6)[^key-74705fa192d8463d9b913aad66b2ba8e] below, where a person—
+(1) Subject to paragraphs (5) and (6)[^c-74705fa192d8463d9b913aad66b2ba8e] below, where a person—
 
 - (a) has not paid the whole or any part of the consideration for a supply by the end of the relevant period; and
 - (b) has claimed deduction of the whole or part of the VAT on the supply as input tax (“the deduction”),
@@ -35,12 +35,12 @@ he shall make an entry in his VAT account in accordance with paragraphs (2) and 
 
 (5) This regulation does not apply where, for input tax, the operative date for VAT accounting purposes is the date mentioned in regulation 57(b) above.
 
-(6)[^key-0674570aef8e86c7c10d96ff86f564d3] This regulation does not apply in so far as a person is entitled under section 26AA of the Act to credit for input tax in relation to the supply.
+(6)[^c-0674570aef8e86c7c10d96ff86f564d3] This regulation does not apply in so far as a person is entitled under section 26AA of the Act to credit for input tax in relation to the supply.
 
 ## Annotations
 
-[^key-12b3ddc9e3df0471c0d476f47d2d5398]: Textual amendment: [Pt. 19B](https://www.legislation.gov.uk/uksi/1995/2518/part/19B) inserted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [8](https://www.legislation.gov.uk/uksi/2002/3027/regulation/8)
+[^c-12b3ddc9e3df0471c0d476f47d2d5398]: Textual amendment: [Pt. 19B](https://www.legislation.gov.uk/uksi/1995/2518/part/19B) inserted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [8](https://www.legislation.gov.uk/uksi/2002/3027/regulation/8)
 
-[^key-74705fa192d8463d9b913aad66b2ba8e]: Textual amendment: Words in [reg. 172H(1)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/172H/1) substituted (with effect in accordance with art. 9 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/495/article/8/2)
+[^c-74705fa192d8463d9b913aad66b2ba8e]: Textual amendment: Words in [reg. 172H(1)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/172H/1) substituted (with effect in accordance with art. 9 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/495/article/8/2)
 
-[^key-0674570aef8e86c7c10d96ff86f564d3]: Textual amendment: [Reg. 172H(6)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/172H/6) inserted (with effect in accordance with art. 9 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2017/495/article/8/3)
+[^c-0674570aef8e86c7c10d96ff86f564d3]: Textual amendment: [Reg. 172H(6)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/172H/6) inserted (with effect in accordance with art. 9 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2017/495/article/8/3)

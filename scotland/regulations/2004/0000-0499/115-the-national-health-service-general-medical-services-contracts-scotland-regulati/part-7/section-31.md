@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Out of hours services[^key-94dafd2eef05faebd47615ff83c79496]
+## 31. Out of hours services[^c-94dafd2eef05faebd47615ff83c79496]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ the contract with that contractor must require the contractor to continue to pro
 
 ## Annotations
 
-[^key-94dafd2eef05faebd47615ff83c79496]: Commencement: Reg. 31 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-94dafd2eef05faebd47615ff83c79496]: Commencement: Reg. 31 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

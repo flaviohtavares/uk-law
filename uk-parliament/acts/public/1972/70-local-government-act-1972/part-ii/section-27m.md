@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27M (Extent: W.). Power of Welsh Ministers to alter voting thresholds in connection with organisation of community councils (Extent: W.)[^key-11a9690044064f75a4da2f43a5f1f8ee]
+## 27M (Extent: W.). Power of Welsh Ministers to alter voting thresholds in connection with organisation of community councils (Extent: W.)[^c-11a9690044064f75a4da2f43a5f1f8ee]
 
 *Extent: E+W.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11a9690044064f75a4da2f43a5f1f8ee]: Textual amendment: S. 27M inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 113](https://www.legislation.gov.uk/mwa/2011/4/section/113), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2)
+[^c-11a9690044064f75a4da2f43a5f1f8ee]: Textual amendment: S. 27M inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 113](https://www.legislation.gov.uk/mwa/2011/4/section/113), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Primary Care Trusts[^key-1d6e579dc168483085253e30da58cc4c]
+## SCHEDULE 3 — Primary Care Trusts[^c-1d6e579dc168483085253e30da58cc4c]
 
 *Extent: E+W*
 
@@ -24,100 +24,100 @@ summary: ''
 
 Section 18
 
-### Part 1 — Constitution and membership[^key-1d6e579dc168483085253e30da58cc4c]
+### Part 1 — Constitution and membership[^c-1d6e579dc168483085253e30da58cc4c]
 
-#### Status[^key-1d6e579dc168483085253e30da58cc4c]
+#### Status[^c-1d6e579dc168483085253e30da58cc4c]
 
-**1.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Membership[^key-1d6e579dc168483085253e30da58cc4c]
+#### Membership[^c-1d6e579dc168483085253e30da58cc4c]
 
-**3.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Staff[^key-1d6e579dc168483085253e30da58cc4c]
+#### Staff[^c-1d6e579dc168483085253e30da58cc4c]
 
-**7.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Remuneration, pensions etc of members[^key-1d6e579dc168483085253e30da58cc4c]
+#### Remuneration, pensions etc of members[^c-1d6e579dc168483085253e30da58cc4c]
 
-**11.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Trust funds and trustees[^key-1d6e579dc168483085253e30da58cc4c]
+#### Trust funds and trustees[^c-1d6e579dc168483085253e30da58cc4c]
 
-**12.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — PCT orders[^key-1d6e579dc168483085253e30da58cc4c]
+### Part 2 — PCT orders[^c-1d6e579dc168483085253e30da58cc4c]
 
-**13.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 3 — Powers and duties[^key-1d6e579dc168483085253e30da58cc4c]
+### Part 3 — Powers and duties[^c-1d6e579dc168483085253e30da58cc4c]
 
-#### General[^key-1d6e579dc168483085253e30da58cc4c]
+#### General[^c-1d6e579dc168483085253e30da58cc4c]
 
-**15.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Rights and liabilities[^key-1d6e579dc168483085253e30da58cc4c]
+#### Rights and liabilities[^c-1d6e579dc168483085253e30da58cc4c]
 
-**16.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Powers of Primary Care Trusts to enter into externally financed development agreements[^key-1d6e579dc168483085253e30da58cc4c]
+#### Powers of Primary Care Trusts to enter into externally financed development agreements[^c-1d6e579dc168483085253e30da58cc4c]
 
-**17.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Research[^key-1d6e579dc168483085253e30da58cc4c]
+#### Research[^c-1d6e579dc168483085253e30da58cc4c]
 
-**18.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Training[^key-1d6e579dc168483085253e30da58cc4c]
+#### Training[^c-1d6e579dc168483085253e30da58cc4c]
 
-**19.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Specific duties[^key-1d6e579dc168483085253e30da58cc4c]
+#### Specific duties[^c-1d6e579dc168483085253e30da58cc4c]
 
-**20.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Compulsory acquisition[^key-1d6e579dc168483085253e30da58cc4c]
+#### Compulsory acquisition[^c-1d6e579dc168483085253e30da58cc4c]
 
-**22.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Dissolution[^key-1d6e579dc168483085253e30da58cc4c]
+#### Dissolution[^c-1d6e579dc168483085253e30da58cc4c]
 
-**23.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 4 — Transfer of property[^key-1d6e579dc168483085253e30da58cc4c]
+### Part 4 — Transfer of property[^c-1d6e579dc168483085253e30da58cc4c]
 
-**24.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 5 — Transfer of staff[^key-1d6e579dc168483085253e30da58cc4c]
+### Part 5 — Transfer of staff[^c-1d6e579dc168483085253e30da58cc4c]
 
-**26.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-1d6e579dc168483085253e30da58cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d6e579dc168483085253e30da58cc4c]: Textual amendment: Sch. 3 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/21); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-1d6e579dc168483085253e30da58cc4c]: Textual amendment: Sch. 3 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/21); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

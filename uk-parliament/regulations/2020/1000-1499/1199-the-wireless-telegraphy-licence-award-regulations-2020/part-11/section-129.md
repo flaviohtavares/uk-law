@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Rerunning rounds[^key-c974ae5707cb5b86704fb2277f7eba95]
+## 129. Rerunning rounds[^c-c974ae5707cb5b86704fb2277f7eba95]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c974ae5707cb5b86704fb2277f7eba95]: Commencement: Reg. 129 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-c974ae5707cb5b86704fb2277f7eba95]: Commencement: Reg. 129 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

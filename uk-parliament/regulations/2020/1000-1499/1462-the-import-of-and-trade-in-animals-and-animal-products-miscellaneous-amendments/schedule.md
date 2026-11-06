@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE — Revocation of retained direct EU legislation[^key-fb5539747404ff5bade881c4a7c941c6]
+## SCHEDULE — Revocation of retained direct EU legislation[^c-fb5539747404ff5bade881c4a7c941c6]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 73(2)
 
-[^key-fb5539747404ff5bade881c4a7c941c6]
+[^c-fb5539747404ff5bade881c4a7c941c6]
 
 The following retained direct EU legislation is revoked—
 
@@ -44,4 +44,4 @@ The following retained direct EU legislation is revoked—
 
 ## Annotations
 
-[^key-fb5539747404ff5bade881c4a7c941c6]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2020/1462/schedule) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-fb5539747404ff5bade881c4a7c941c6]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2020/1462/schedule) in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

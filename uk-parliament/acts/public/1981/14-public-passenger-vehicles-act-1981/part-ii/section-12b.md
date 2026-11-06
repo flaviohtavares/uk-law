@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12B. Power to stop[^key-0a920e93e67c2fbe8337927316564ed4]
+## 12B. Power to stop[^c-0a920e93e67c2fbe8337927316564ed4]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a920e93e67c2fbe8337927316564ed4]: Textual amendment: S. 12B inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/5/2)
+[^c-0a920e93e67c2fbe8337927316564ed4]: Textual amendment: S. 12B inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/5/2)

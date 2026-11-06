@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Court sanction of insolvency practitioners in public interest cases[^key-b86f4a7766d9848aa966201546928f73]
+## 141. Court sanction of insolvency practitioners in public interest cases[^c-b86f4a7766d9848aa966201546928f73]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,4 +106,4 @@ After section 391N of the Insolvency Act 1986 (inserted by section 140) insertâ€
 
 ## Annotations
 
-[^key-b86f4a7766d9848aa966201546928f73]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2015/26/section/141) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a) (with [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/18))
+[^c-b86f4a7766d9848aa966201546928f73]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2015/26/section/141) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a) (with [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/18))

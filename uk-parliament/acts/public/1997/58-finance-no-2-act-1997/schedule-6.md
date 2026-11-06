@@ -34,7 +34,7 @@ Section 36.
 
 ### Section 75 of the Taxes Act 1988
 
-**2.**[^key-92de3236ed83dbf31cb3c265004cd592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-92de3236ed83dbf31cb3c265004cd592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Chapter VA of Part VI of the Taxes Act 1988
 
@@ -138,15 +138,15 @@ Section 36.
 
 ### Section 699A of the Taxes Act 1988
 
-**12.**[^key-97b3021efddb3652d38ddfe44db5cb17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-97b3021efddb3652d38ddfe44db5cb17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Section 701 of the Taxes Act 1988
 
-**13.**[^key-4b430f6c51eb224af93c853af4c45e61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4b430f6c51eb224af93c853af4c45e61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Section 731 of the Taxes Act 1988
 
-**14.**[^key-b6ff45b7d41ce4cd81c4de68f76fff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b6ff45b7d41ce4cd81c4de68f76fff4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Section 802 of the Taxes Act 1988
 
@@ -270,17 +270,17 @@ shall cease to have effect.
 - (a) is received by a person on or after that date, and
 - (b) is not one in relation to which section 246D of the Taxes Act 1988 applies,
 
-the recipient shall be treated, for all purposes of the Tax Acts, as receiving instead a [^key-d011cfce556b9329eaf7c18420b97b60]... distribution made by a company resident in the United Kingdom of an amount equal to [^key-dcca2b08416ba182453ea22c443ed736]... the amount of the foreign income dividend.
+the recipient shall be treated, for all purposes of the Tax Acts, as receiving instead a [^c-d011cfce556b9329eaf7c18420b97b60]... distribution made by a company resident in the United Kingdom of an amount equal to [^c-dcca2b08416ba182453ea22c443ed736]... the amount of the foreign income dividend.
 
 ## Annotations
 
-[^key-92de3236ed83dbf31cb3c265004cd592]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6/paragraph/2) repealed (22.7.2004) (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)
+[^c-92de3236ed83dbf31cb3c265004cd592]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6/paragraph/2) repealed (22.7.2004) (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)
 
-[^key-97b3021efddb3652d38ddfe44db5cb17]: Textual amendment: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6/paragraph/12) repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-97b3021efddb3652d38ddfe44db5cb17]: Textual amendment: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6/paragraph/12) repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-4b430f6c51eb224af93c853af4c45e61]: Textual amendment: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6/paragraph/13) repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-4b430f6c51eb224af93c853af4c45e61]: Textual amendment: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6/paragraph/13) repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b6ff45b7d41ce4cd81c4de68f76fff4c]: Textual amendment: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6/paragraph/14) omitted (21.7.2008) (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(i)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/i/ii)
+[^c-b6ff45b7d41ce4cd81c4de68f76fff4c]: Textual amendment: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6/paragraph/14) omitted (21.7.2008) (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(i)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/i/ii)
 
 [^c4156871]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 
@@ -288,6 +288,6 @@ the recipient shall be treated, for all purposes of the Tax Acts, as receiving i
 
 [^c4156891]: Marginal citation: [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16).
 
-[^key-d011cfce556b9329eaf7c18420b97b60]: Textual amendment: Word in Sch. 6 para. 23 omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 57(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/57/5/a)
+[^c-d011cfce556b9329eaf7c18420b97b60]: Textual amendment: Word in Sch. 6 para. 23 omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 57(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/57/5/a)
 
-[^key-dcca2b08416ba182453ea22c443ed736]: Textual amendment: Words in Sch. 6 para. 23 omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 57(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/57/5/b)
+[^c-dcca2b08416ba182453ea22c443ed736]: Textual amendment: Words in Sch. 6 para. 23 omitted (15.9.2016) (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 57(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/57/5/b)

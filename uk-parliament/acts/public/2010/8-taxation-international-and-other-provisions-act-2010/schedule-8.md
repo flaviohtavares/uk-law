@@ -80,7 +80,7 @@ Section 374
 
 **8.** ICTA is amended as follows.
 
-**9.**[^key-3ea8cf5779b90338287e765969d4cfad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3ea8cf5779b90338287e765969d4cfad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** In section 750(3)(b) (disregard of certain double taxation relief) for “Part XVIII” substitute “ Part 2 of TIOPA 2010 (double taxation relief) ”.
 
@@ -180,15 +180,15 @@ Section 374
 
 **29.** Omit sections 808A to 809 and 811 (provision, in connection with relief, about interest, royalties and discretionary trusts, and for deductions where no credit allowed).
 
-**30.**[^key-569aec5c576e8c73f9e13d4f59d3df15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-569aec5c576e8c73f9e13d4f59d3df15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-569aec5c576e8c73f9e13d4f59d3df15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-569aec5c576e8c73f9e13d4f59d3df15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **32.** Omit sections 815A to 815B and 816 (provision, in connection with relief, about transfer of non-UK trades, about foreign enterprises and about cases presented under arrangements, and provision about the Arbitration Convention and about disclosure of information).
 
 **33.** In section 828(4) (orders and regulations not subject to annulment) omit “791”.
 
-**34.**[^key-bea8c483d841480a124a3d9209be5a51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-bea8c483d841480a124a3d9209be5a51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **35.** (1) Amend Schedule 26 (reliefs against liability for tax in respect of chargeable profits of controlled foreign companies) as follows.
 
@@ -217,7 +217,7 @@ Section 374
 
 **37.** FA 1989 is amended as follows.
 
-**38.**[^key-7981e3f53dc35c8c31b965772dca74e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-7981e3f53dc35c8c31b965772dca74e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **39.** In section 182A(6) (double taxation: disclosure of information: interpretation) for “section 815B(4) of the Taxes Act 1988” substitute “ section 126 of the Taxation (International and Other Provisions) Act 2010 ”.
 
@@ -259,9 +259,9 @@ Section 374
 
 #### Finance (No. 2) Act 1997 (c. 58)
 
-**51.**[^key-daad85b748d4ed3ce085c8e378282cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-daad85b748d4ed3ce085c8e378282cb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-705548f1fb5a6689f8610db425038ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-705548f1fb5a6689f8610db425038ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Finance Act 1998 (c. 36)
 
@@ -328,9 +328,9 @@ Section 374
 
 **65.** ITTOIA 2005 is amended as follows.
 
-**66.**[^key-dc9c915b17e7ccec977515cf84d6427b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-dc9c915b17e7ccec977515cf84d6427b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**67.**[^key-02a1b73fa502b5783d703a26b6c97196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67.**[^c-02a1b73fa502b5783d703a26b6c97196] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **68.** In section 763(3) (priority of double taxation arrangements) for “section 788 of ICTA” substitute “ section 2(1) of TIOPA 2010 ”.
 
@@ -418,7 +418,7 @@ Section 374
 
 **81.** In section 527(2) omit paragraph (b) (subsection (1) does not apply to income chargeable to tax under section 804 of ICTA).
 
-**82.**[^key-d827ebff3d71a6cf82d3ba88faa31e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**82.**[^c-d827ebff3d71a6cf82d3ba88faa31e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **83.** In section 828C(4) (entitlement to double taxation relief)—
 
@@ -788,7 +788,7 @@ Section 374
 
 (2) Omit the entry for regulations under Schedule 15 to FA 2009.
 
-(3)[^key-ea64eb738928163626f9dac6a0383e0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ea64eb738928163626f9dac6a0383e0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Finance Act 2009
 
@@ -1724,22 +1724,22 @@ Section 374
 
 ## Annotations
 
-[^key-3ea8cf5779b90338287e765969d4cfad]: Textual amendment: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/9) repealed (with effect in accordance with s. 26(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 26(2)(e)](https://www.legislation.gov.uk/ukpga/2012/14/section/26/2/e); [S.I. 2015/1999](https://www.legislation.gov.uk/uksi/2015/1999), [art. 2](https://www.legislation.gov.uk/uksi/2015/1999/article/2)
+[^c-3ea8cf5779b90338287e765969d4cfad]: Textual amendment: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/9) repealed (with effect in accordance with s. 26(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 26(2)(e)](https://www.legislation.gov.uk/ukpga/2012/14/section/26/2/e); [S.I. 2015/1999](https://www.legislation.gov.uk/uksi/2015/1999), [art. 2](https://www.legislation.gov.uk/uksi/2015/1999/article/2)
 
-[^key-569aec5c576e8c73f9e13d4f59d3df15]: Textual amendment: Sch. 8 paras. 30, 31 repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-569aec5c576e8c73f9e13d4f59d3df15]: Textual amendment: Sch. 8 paras. 30, 31 repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
-[^key-bea8c483d841480a124a3d9209be5a51]: Textual amendment: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/34) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(x)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/x)
+[^c-bea8c483d841480a124a3d9209be5a51]: Textual amendment: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/34) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(x)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/x)
 
-[^key-7981e3f53dc35c8c31b965772dca74e8]: Textual amendment: [Sch. 8 para. 38](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/38) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
+[^c-7981e3f53dc35c8c31b965772dca74e8]: Textual amendment: [Sch. 8 para. 38](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/38) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
 
-[^key-daad85b748d4ed3ce085c8e378282cb8]: Textual amendment: [Sch. 8 para. 51](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/51) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
+[^c-daad85b748d4ed3ce085c8e378282cb8]: Textual amendment: [Sch. 8 para. 51](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/51) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
 
-[^key-705548f1fb5a6689f8610db425038ad4]: Textual amendment: [Sch. 8 para. 52](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/52) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
+[^c-705548f1fb5a6689f8610db425038ad4]: Textual amendment: [Sch. 8 para. 52](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/52) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
 
-[^key-dc9c915b17e7ccec977515cf84d6427b]: Textual amendment: [Sch. 8 para. 66](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/66) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
+[^c-dc9c915b17e7ccec977515cf84d6427b]: Textual amendment: [Sch. 8 para. 66](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/66) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
 
-[^key-02a1b73fa502b5783d703a26b6c97196]: Textual amendment: [Sch. 8 para. 67](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/67) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
+[^c-02a1b73fa502b5783d703a26b6c97196]: Textual amendment: [Sch. 8 para. 67](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/67) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/68/5)
 
-[^key-d827ebff3d71a6cf82d3ba88faa31e4a]: Textual amendment: [Sch. 8 para. 82](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/82) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 48(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/48/4)
+[^c-d827ebff3d71a6cf82d3ba88faa31e4a]: Textual amendment: [Sch. 8 para. 82](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/82) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 48(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/48/4)
 
-[^key-ea64eb738928163626f9dac6a0383e0d]: Textual amendment: [Sch. 8 para. 157(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/157/3) repealed (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/3/2)
+[^c-ea64eb738928163626f9dac6a0383e0d]: Textual amendment: [Sch. 8 para. 157(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/157/3) repealed (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/3/2)

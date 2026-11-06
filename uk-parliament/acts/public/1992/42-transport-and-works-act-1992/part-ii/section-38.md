@@ -51,10 +51,10 @@ or such other proportion as may be prescribed by regulations made by the Secreta
 - (a) is sufficient to enable the test or the analysis to be carried out, and
 - (b) is provided in such a way as to enable the objective of the test or analysis to be satisfactorily achieved.
 
-(5)[^key-0f483d1be650d9ec778970837b1ee820] For the purposes of this Chapter, a person provides a specimen of blood if and only if—
+(5)[^c-0f483d1be650d9ec778970837b1ee820] For the purposes of this Chapter, a person provides a specimen of blood if and only if—
 
 - (a) he consents to the taking of such a specimen from him; and
-- (b) the specimen is taken from him [^key-a5e2f52ad53df957b2dd00a2fc17ed9d]... either by a medical practitioner or by a registered health care professional.
+- (b) the specimen is taken from him [^c-a5e2f52ad53df957b2dd00a2fc17ed9d]... either by a medical practitioner or by a registered health care professional.
 
 (6) The power to make regulations under subsection (2) above shall be exercisable by statutory instrument; and no such regulations shall be made unless a draft of the instrument containing them has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -64,6 +64,6 @@ or such other proportion as may be prescribed by regulations made by the Secreta
 
 [^c17273631]: Textual amendment: S. 38(2A)-(2C) inserted (1.10.2002 for specified purposes, 1.4.2003 in so far as not already in force) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 58(10)](https://www.legislation.gov.uk/ukpga/2002/30/section/58/10), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2); [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306), [art. 4(d)](https://www.legislation.gov.uk/uksi/2002/2306/article/4/d); [S.I. 2003/808](https://www.legislation.gov.uk/uksi/2003/808), [art. 2(e)](https://www.legislation.gov.uk/uksi/2003/808/article/2/e)
 
-[^key-0f483d1be650d9ec778970837b1ee820]: Textual amendment: S. 38(5) substituted (1.4.2003) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 58(11)](https://www.legislation.gov.uk/ukpga/2002/30/section/58/11), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2); [S.I. 2003/808](https://www.legislation.gov.uk/uksi/2003/808), [art. 2(e)](https://www.legislation.gov.uk/uksi/2003/808/article/2/e)
+[^c-0f483d1be650d9ec778970837b1ee820]: Textual amendment: S. 38(5) substituted (1.4.2003) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 58(11)](https://www.legislation.gov.uk/ukpga/2002/30/section/58/11), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2); [S.I. 2003/808](https://www.legislation.gov.uk/uksi/2003/808), [art. 2(e)](https://www.legislation.gov.uk/uksi/2003/808/article/2/e)
 
-[^key-a5e2f52ad53df957b2dd00a2fc17ed9d]: Textual amendment: Words in [s. 38(5)(b)](https://www.legislation.gov.uk/ukpga/1992/42/section/38/5/b) omitted (10.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/13); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-a5e2f52ad53df957b2dd00a2fc17ed9d]: Textual amendment: Words in [s. 38(5)(b)](https://www.legislation.gov.uk/ukpga/1992/42/section/38/5/b) omitted (10.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/13); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)

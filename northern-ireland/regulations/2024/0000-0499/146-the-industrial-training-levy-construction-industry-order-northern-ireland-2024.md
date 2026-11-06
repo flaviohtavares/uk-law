@@ -54,7 +54,7 @@ The conditions set out in Article 23(7)(b) of the Order of 1984 are satisfied.
 
 The Department makes the following Order in exercise of the powers conferred by Articles 23(2) and (3) and 24(3) and (4) of the Order of 1984 and now vested in it.
 
-## 1. Citation, commencement and interpretation[^key-06238bc6de25662961725b23dfa6489d]
+## 1. Citation, commencement and interpretation[^c-06238bc6de25662961725b23dfa6489d]
 
 (1) This Order may be cited as the Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2024 and shall come into operation on 31st August 2024.
 
@@ -76,7 +76,7 @@ The Department makes the following Order in exercise of the powers conferred by 
 
 (3) Any reference in this Order to an establishment that commences to carry on business or that ceases to carry on business shall not be taken to apply where the location of the establishment is changed but its business is continued wholly or mainly at or from the new location, or where the suspension of activities is of a temporary or seasonal nature.
 
-## 2. Imposition and assessment of the levy for the sixtieth levy period[^key-6f3da2f0f6399c572126aad08c2127c0]
+## 2. Imposition and assessment of the levy for the sixtieth levy period[^c-6f3da2f0f6399c572126aad08c2127c0]
 
 (1) The levy to be imposed on employers shall be assessed in accordance with the provisions of this Article.
 
@@ -100,7 +100,7 @@ and no remission for the levy shall be given to an employer.
 
 (7) In reckoning the amount of the relevant earnings for the purposes of this Article no regard shall be had to the earnings of any person engaged wholly in the supply of food or drink for immediate consumption.
 
-## 3. Assessment notices[^key-1e1f0e10fb80efd0057f0b327abbeca1]
+## 3. Assessment notices[^c-1e1f0e10fb80efd0057f0b327abbeca1]
 
 (1) The Board shall serve an assessment notice on every employer assessed to the levy but one notice may comprise two or more assessments.
 
@@ -115,7 +115,7 @@ and no remission for the levy shall be given to an employer.
 
 (5) An assessment notice may be served on the person assessed to the levy either by delivering it to him personally or by leaving it, or sending it to him by post, at his last known address or place of business in the United Kingdom, or, if that person is a corporation, by leaving it, or sending it by post to the corporation, at such address or place of business or at its registered or principal office.
 
-## 4. Payment of the levy[^key-a56dcea6ee698d26c31d9d83faccb902]
+## 4. Payment of the levy[^c-a56dcea6ee698d26c31d9d83faccb902]
 
 (1) Subject to the provisions of this Article and of Articles 5 and 6 the amount of each assessment appearing in an assessment notice served by the Board shall be due and payable to the Board in two instalments and the said instalments shall be due respectively on 1st October 2024 and 1st February 2025.
 
@@ -123,13 +123,13 @@ and no remission for the levy shall be given to an employer.
 
 (3) An instalment of an assessment shall not be recoverable by the Board until there has expired the time allowed for appealing against the assessment by Article 6(1) and any further period of time that the Board or an industrial tribunal may have allowed for appealing under Article 6(2) or 6(3) or, where an appeal is brought, until the appeal is decided or withdrawn.
 
-## 5. Withdrawal of assessment[^key-673e5ce6d710e83d7083b498a312ea7e]
+## 5. Withdrawal of assessment[^c-673e5ce6d710e83d7083b498a312ea7e]
 
 (1) The Board may, by a notice served on the person assessed to the levy in the same manner as an assessment notice, withdraw an assessment if that person has appealed against that assessment under the provisions of Article 6 and the appeal has not been entered in the Register of Appeals kept under the regulations specified in Article 6(5).
 
 (2) The withdrawal of an assessment shall be without prejudice to the power of the Board to serve a further assessment notice in respect of any establishment to which that assessment related and where the withdrawal is made by reason of the fact that an establishment has ceased to carry on business in the sixtieth levy period, the said notice may provide that the whole amount payable thereunder shall be due one month after the date of the notice.
 
-## 6. Appeals[^key-c49b7344bd93b7c52b6d941fdbbc5307]
+## 6. Appeals[^c-c49b7344bd93b7c52b6d941fdbbc5307]
 
 (1) A person assessed to the levy may appeal to an industrial tribunal against the assessment within one month from the date of the service of the assessment notice or within any further period of time that may be allowed by the Board or an industrial tribunal under the following provisions of the Article.
 
@@ -141,7 +141,7 @@ and no remission for the levy shall be given to an employer.
 
 (5) An application to an industrial tribunal under this Article shall be made in accordance with the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^f00006].
 
-## 7. Evidence[^key-d28c35fe24658b8a4e4ed7a61cf69409]
+## 7. Evidence[^c-d28c35fe24658b8a4e4ed7a61cf69409]
 
 Upon the discharge by a person assessed to the levy of his liability under an assessment the Board shall if so requested issue to him a certificate to that effect.
 
@@ -173,22 +173,22 @@ An employer will be exempt from levy in the sixtieth levy period where the relev
 
 [^f00003]: Footnote: [S.I. 1984/1159 (N.I. 9)](https://www.legislation.gov.uk/nisi/1984/1159) The functions of the Department of Economic Development under the Industrial Training (Northern Ireland) Order 1984 were transferred to the Department of Higher and Further Education, Training and Employment by [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 4(b) and Schedule 2, Part II. The Department of Higher and Further Education, Training and Employment was renamed the Department for Employment and Learning by [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15) (N.I.) section 1(1), and following the dissolution of that department by the Departments Act (Northern Ireland) [2016 (c.5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5), section 1(10) its functions under the Industrial Training (Northern Ireland) Order 1985 were transferred to the Department for the Economy by [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76), Article 6(1)(c).
 
-[^key-06238bc6de25662961725b23dfa6489d]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/146/article/1) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
+[^c-06238bc6de25662961725b23dfa6489d]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/146/article/1) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
 
 [^f00004]: Footnote: [S.R. & O. (N. I.) No. 1964 No. 145](https://www.legislation.gov.uk/nisro/1964/145) as amended by [S.R. & O. (N. I.) No. 1967 No.236](https://www.legislation.gov.uk/nisro/1967/236), [S.R. 1994 No. 312](https://www.legislation.gov.uk/nisr/1994/312), and [S.R. 1997 No. 45](https://www.legislation.gov.uk/nisr/1997/45).
 
 [^f00005]: Footnote: Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-6f3da2f0f6399c572126aad08c2127c0]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/146/article/2) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
+[^c-6f3da2f0f6399c572126aad08c2127c0]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/146/article/2) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
 
-[^key-1e1f0e10fb80efd0057f0b327abbeca1]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/146/article/3) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
+[^c-1e1f0e10fb80efd0057f0b327abbeca1]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/146/article/3) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
 
-[^key-a56dcea6ee698d26c31d9d83faccb902]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2024/146/article/4) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
+[^c-a56dcea6ee698d26c31d9d83faccb902]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2024/146/article/4) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
 
-[^key-673e5ce6d710e83d7083b498a312ea7e]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2024/146/article/5) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
+[^c-673e5ce6d710e83d7083b498a312ea7e]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2024/146/article/5) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
 
-[^key-c49b7344bd93b7c52b6d941fdbbc5307]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2024/146/article/6) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
+[^c-c49b7344bd93b7c52b6d941fdbbc5307]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2024/146/article/6) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
 
 [^f00006]: Footnote: [S.R. 2020 No. 3](https://www.legislation.gov.uk/nisr/2020/3)
 
-[^key-d28c35fe24658b8a4e4ed7a61cf69409]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2024/146/article/7) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)
+[^c-d28c35fe24658b8a4e4ed7a61cf69409]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2024/146/article/7) in operation at 31.8.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/146/article/1/1)

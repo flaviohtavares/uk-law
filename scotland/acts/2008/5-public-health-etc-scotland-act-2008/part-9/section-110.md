@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Artificial light nuisance[^key-a4fa82d538bcd407c5e87597bf0b0c03]
+## 110. Artificial light nuisance[^c-a4fa82d538bcd407c5e87597bf0b0c03]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4fa82d538bcd407c5e87597bf0b0c03]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2008/5/section/110) in force at 26.1.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-a4fa82d538bcd407c5e87597bf0b0c03]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2008/5/section/110) in force at 26.1.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)

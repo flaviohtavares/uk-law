@@ -44,7 +44,7 @@ An Act of Senedd Cymru to make provision about sustainable development in accord
 
 ### Establishment and purpose
 
-#### 1. Social Partnership Council for Wales[^key-edfe2b9fc8afe977bf1b3d9fe4b0fc34][^key-77a1dcbeee7a6767b250c0d9ce19e55c]
+#### 1. Social Partnership Council for Wales[^c-edfe2b9fc8afe977bf1b3d9fe4b0fc34][^c-77a1dcbeee7a6767b250c0d9ce19e55c]
 
 (1) There is to be a Social Partnership Council for Wales (“**SPC**”).
 
@@ -58,7 +58,7 @@ An Act of Senedd Cymru to make provision about sustainable development in accord
 
 (4) Where the SPC receives a request from the Welsh Ministers under subsection (3), the SPC must provide the information or advice as soon as reasonably practicable.
 
-#### 2. Membership of the Social Partnership Council for Wales[^key-4848af78f61fbe055300be42e9d065e2][^key-741ce0316a381d19971ee84a8fefd64a]
+#### 2. Membership of the Social Partnership Council for Wales[^c-4848af78f61fbe055300be42e9d065e2][^c-741ce0316a381d19971ee84a8fefd64a]
 
 (1) The SPC is to consist of the following members—
 
@@ -79,15 +79,15 @@ An Act of Senedd Cymru to make provision about sustainable development in accord
 
 (5) In this Act, a reference to the “**Social Partnership Council for Wales**” or “**SPC**” is a reference to the members of the SPC acting jointly; accordingly, a function expressed as a function of the SPC is a function of each member that may only be exercised jointly with the other members.
 
-#### 3. Employer representatives[^key-21fdcf8219440de21ea07cdc1ae1ccbd][^key-a03175bc1c6be98c97a6a43281d96ff7]
+#### 3. Employer representatives[^c-21fdcf8219440de21ea07cdc1ae1ccbd][^c-a03175bc1c6be98c97a6a43281d96ff7]
 
 The employer representatives are to consist of individuals who the First Minister considers represent public body employers, private sector employers, voluntary organisation employers, higher education employers and further education employers.
 
-#### 4. Worker representatives[^key-1ab6083ad640602a187515cf5cb0664e][^key-455c6a9300412f8c370c5ce02a966f60]
+#### 4. Worker representatives[^c-1ab6083ad640602a187515cf5cb0664e][^c-455c6a9300412f8c370c5ce02a966f60]
 
 The worker representatives are to consist of individuals who the First Minister considers represent staff working for each category of employer referred to in section 3.
 
-#### 5. Nomination of appointed members[^key-169e76bfe263d19d050051243d2b399b][^key-b5737cd2ddbe9a8577fab935d401580a]
+#### 5. Nomination of appointed members[^c-169e76bfe263d19d050051243d2b399b][^c-b5737cd2ddbe9a8577fab935d401580a]
 
 (1) Before appointing employer representatives, the First Minister must seek nominations from persons or bodies who the First Minister considers represent the views of the categories of employer referred to in section 3.
 
@@ -97,7 +97,7 @@ The worker representatives are to consist of individuals who the First Minister 
 
 (4) When appointing worker representatives, the First Minister must only appoint individuals who have been nominated under subsection (2).
 
-#### 6. Duration of appointments[^key-80edcaade37aab4e082ddd625df98b30][^key-06f071dc09e80a7c53ba5793dea497db]
+#### 6. Duration of appointments[^c-80edcaade37aab4e082ddd625df98b30][^c-06f071dc09e80a7c53ba5793dea497db]
 
 (1) Appointed members are appointed for 3 years unless—
 
@@ -108,7 +108,7 @@ The worker representatives are to consist of individuals who the First Minister 
 
 ### Operation and administration
 
-#### 7. Meetings, procedures and administrative support[^key-29c87e8dae1f7c6ae897dbcac59844e5][^key-aa75819f593686f5561909aef99aba61]
+#### 7. Meetings, procedures and administrative support[^c-29c87e8dae1f7c6ae897dbcac59844e5][^c-aa75819f593686f5561909aef99aba61]
 
 (1) The SPC must meet at least 3 times in each 12 month period beginning with the day after the First Minister has made all the initial appointments mentioned in section 2.
 
@@ -131,7 +131,7 @@ The worker representatives are to consist of individuals who the First Minister 
 
 (7) The Welsh Ministers must make administrative support available to the SPC.
 
-#### 8. Subgroups[^key-edbf8a1be52632e9a6ba61e23a168fc2][^key-8df4af8e62977936e7fea26c0092761d]
+#### 8. Subgroups[^c-edbf8a1be52632e9a6ba61e23a168fc2][^c-8df4af8e62977936e7fea26c0092761d]
 
 (1) The SPC may establish subgroups.
 
@@ -145,26 +145,26 @@ The worker representatives are to consist of individuals who the First Minister 
 - (a) must be chaired by a member of the SPC, and
 - (b) may include other members of the SPC and other individuals.
 
-#### 9. Public procurement subgroup[^key-9c528ef5cbc670eb0f9070b516a02071]
+#### 9. Public procurement subgroup[^c-9c528ef5cbc670eb0f9070b516a02071]
 
-(1)[^key-496778fde288a9ce6f5d722609a249c0] The SPC must take all reasonable steps to establish a public procurement subgroup within 6 months beginning with the day after this subsection comes into force.
+(1)[^c-496778fde288a9ce6f5d722609a249c0] The SPC must take all reasonable steps to establish a public procurement subgroup within 6 months beginning with the day after this subsection comes into force.
 
-(2)[^key-496778fde288a9ce6f5d722609a249c0] Within 6 months beginning with the day after this subsection comes into force, the Welsh Ministers must specify and publish—
+(2)[^c-496778fde288a9ce6f5d722609a249c0] Within 6 months beginning with the day after this subsection comes into force, the Welsh Ministers must specify and publish—
 
 - (a) the quorum for public procurement subgroup meetings, and
 - (b) the procedures to be followed by the public procurement subgroup, in so far as they are not specified in this Act.
 
-(3)[^key-496778fde288a9ce6f5d722609a249c0] The Welsh Ministers may revise anything specified under subsection (2) and must publish any such revisions.
+(3)[^c-496778fde288a9ce6f5d722609a249c0] The Welsh Ministers may revise anything specified under subsection (2) and must publish any such revisions.
 
-(4)[^key-496778fde288a9ce6f5d722609a249c0] The public procurement subgroup’s procedures must include—
+(4)[^c-496778fde288a9ce6f5d722609a249c0] The public procurement subgroup’s procedures must include—
 
 - (a) the procedures for arranging meetings including notice to be given to attendees and how attendees may add items to the agenda for meetings;
 - (b) the procedure for resolving a disagreement between members relating to the exercise of the subgroup’s functions;
 - (c) the procedures for providing information and advice to the SPC and the Welsh Ministers.
 
-(5)[^key-a00d6ecf450913bfd38e6f0d4831794a] The Welsh Ministers must issue guidance about the composition of the public procurement subgroup (including for the purpose of achieving an appropriately representative membership), and the SPC must have regard to that guidance.
+(5)[^c-a00d6ecf450913bfd38e6f0d4831794a] The Welsh Ministers must issue guidance about the composition of the public procurement subgroup (including for the purpose of achieving an appropriately representative membership), and the SPC must have regard to that guidance.
 
-#### 10. Provision of information and advice to the SPC by public procurement subgroup[^key-c14433b5d06fe33534e09049fe5484cd][^key-b008cf3584004a08c6aade851711cce0]
+#### 10. Provision of information and advice to the SPC by public procurement subgroup[^c-c14433b5d06fe33534e09049fe5484cd][^c-b008cf3584004a08c6aade851711cce0]
 
 (1) The public procurement subgroup may provide information and advice to the SPC about the functions conferred on contracting authorities and the Welsh Ministers under Part 3 (socially responsible public procurement).
 
@@ -182,11 +182,11 @@ The worker representatives are to consist of individuals who the First Minister 
 
 (5) If a public procurement subgroup has not yet been established under section 9(1), the SPC may nevertheless provide information and advice to the Welsh Ministers about a matter referred to in subsection (1).
 
-#### 11. Meeting remotely[^key-fa213f442ae01de3df985ef8f30e7bde][^key-ea6029c502a6834ea55f8cf0a88d67be]
+#### 11. Meeting remotely[^c-fa213f442ae01de3df985ef8f30e7bde][^c-ea6029c502a6834ea55f8cf0a88d67be]
 
 The SPC or a subgroup may hold a meeting by means of any equipment or other facility which enables persons who are not in the same place to speak to and be heard by each other (whether or not the equipment or facility enables those persons to see and be seen by each other).
 
-#### 12. Expenses[^key-a78e3462551d67134ca74e0ff9654ef8][^key-94bb68ea4b144b4a33e94e3b0bf7ec6c]
+#### 12. Expenses[^c-a78e3462551d67134ca74e0ff9654ef8][^c-94bb68ea4b144b4a33e94e3b0bf7ec6c]
 
 The Welsh Ministers may meet the expenses of—
 
@@ -194,13 +194,13 @@ The Welsh Ministers may meet the expenses of—
 - (b) a worker representative;
 - (c) a member of a subgroup.
 
-#### 13. Supplementary powers[^key-6d9860da286eb117c180e6c0a9ebc9a6][^key-490f328ff0ac12a8790ca3a99fabb205]
+#### 13. Supplementary powers[^c-6d9860da286eb117c180e6c0a9ebc9a6][^c-490f328ff0ac12a8790ca3a99fabb205]
 
 The SPC may do anything which is calculated to facilitate, or which is conducive or incidental to, the exercise of its functions or the functions of a subgroup.
 
 ### Interpretation
 
-#### 14. Interpretation of Part 1[^key-e319905fef318db8d4fe6384559b88a9][^key-52ee40a8ed36cc6892986499e62aefc7]
+#### 14. Interpretation of Part 1[^c-e319905fef318db8d4fe6384559b88a9][^c-52ee40a8ed36cc6892986499e62aefc7]
 
 In this Part—
 
@@ -218,7 +218,7 @@ In this Part—
 
 ## PART 2 — SOCIAL PARTNERSHIP AND SUSTAINABLE DEVELOPMENT
 
-### 15. Overview of Part and interpretation[^key-16777335b67892c884e5ed2ac38f6167][^key-3f75805cc085f92725d0cb2270f51822]
+### 15. Overview of Part and interpretation[^c-16777335b67892c884e5ed2ac38f6167][^c-3f75805cc085f92725d0cb2270f51822]
 
 (1) For the purposes of improving economic, environmental, social, and cultural well-being (including by improving public services) in Wales, this Part—
 
@@ -229,7 +229,7 @@ In this Part—
 
 (3) In this Part, a “**public body**” means a person listed as a “public body” in section 6(1) of the WFGA 2015, but for the purposes of sections 16 and 18 it does not include the Welsh Ministers.
 
-### 16. Social partnership duty[^key-1c45b8fec15f4260b6386280df69ac82][^key-3dd81b6c9a25dba75156783d2329fe88]
+### 16. Social partnership duty[^c-1c45b8fec15f4260b6386280df69ac82][^c-3dd81b6c9a25dba75156783d2329fe88]
 
 (1) In carrying out sustainable development, a public body must, in so far as is reasonable, seek consensus or compromise with its recognised trade unions or (where there is no recognised trade union) other representatives of its staff on—
 
@@ -247,11 +247,11 @@ In this Part—
 
 (4) The Welsh Ministers must consult with the SPC before publishing the guidance referred to in subsection (3).
 
-### 17. Social partnership duty: Welsh Ministers[^key-9a9b0688a39bf43a7037328796505d01][^key-cc8350f6d1df8bca4fde30ebae66af9c]
+### 17. Social partnership duty: Welsh Ministers[^c-9a9b0688a39bf43a7037328796505d01][^c-cc8350f6d1df8bca4fde30ebae66af9c]
 
 When making decisions of a strategic nature about the reasonable steps the Welsh Ministers take (in the exercise of their functions) under section 3(2)(b) of the WFGA 2015 (to meet the objectives set under section 3(2)(a) of the WFGA 2015), the Welsh Ministers must consult with the SPC.
 
-### 18. Social partnership reports[^key-3e6a572dbb2b0ca339280899c2ad9a0c][^key-df2fafe507e6aa469365aeb60cb4df66]
+### 18. Social partnership reports[^c-3e6a572dbb2b0ca339280899c2ad9a0c][^c-df2fafe507e6aa469365aeb60cb4df66]
 
 (1) A public body must prepare, in respect of each financial year, a report of what it has done to comply with the duty imposed under section 16.
 
@@ -259,7 +259,7 @@ When making decisions of a strategic nature about the reasonable steps the Welsh
 
 (3) The public body must publish the report, and submit it to the SPC, as soon as reasonably practicable after the end of the financial year.
 
-### 19. Social partnership reports: Welsh Ministers[^key-3e35f7cc466a88a0a465f043d962b14a][^key-8c289140620f2e1fc379967cfde417c9]
+### 19. Social partnership reports: Welsh Ministers[^c-3e35f7cc466a88a0a465f043d962b14a][^c-8c289140620f2e1fc379967cfde417c9]
 
 (1) The Welsh Ministers must prepare, in respect of each financial year, a report of what they have done to comply with the duty imposed under section 17.
 
@@ -270,7 +270,7 @@ When making decisions of a strategic nature about the reasonable steps the Welsh
 - (a) publish the report, and submit it to the SPC;
 - (b) lay the report before the Senedd.
 
-### 20. Fair work[^key-8f303d4aad58e52d5b310dc683849a3c][^key-44434b4af1dd8e958e721ef88da9bf5e]
+### 20. Fair work[^c-8f303d4aad58e52d5b310dc683849a3c][^c-44434b4af1dd8e958e721ef88da9bf5e]
 
 In section 4 (well-being goals) of the WFGA 2015, in Table 1, in the description of the “A prosperous Wales” goal, for “decent work” substitute “fair work”.
 
@@ -280,23 +280,23 @@ In section 4 (well-being goals) of the WFGA 2015, in Table 1, in the description
 
 #### Key concepts
 
-##### 21. Public contracts[^key-9099d9bb19d370983fd9a001e00213e4][^key-145c956c18e1bb9f9ff8d10f8bad7366]
+##### 21. Public contracts[^c-9099d9bb19d370983fd9a001e00213e4][^c-145c956c18e1bb9f9ff8d10f8bad7366]
 
 (1) In this Part, a “**public contract**” means a contract between one or more economic operators and one or more contracting authorities; and having as its object the execution of works, the supply of products or the provision of services.
 
 (2) For the purposes of this Part, a framework agreement is treated as a public contract (and references to “public contract” are to be construed accordingly).
 
-##### 22. Contracting authorities[^key-00b195e2de8428b6a57655bc3579486d]
+##### 22. Contracting authorities[^c-00b195e2de8428b6a57655bc3579486d]
 
-(1)[^key-7d53ec0cdb6ef1266d5bdff157af1e16] In this Part, a “**contracting authority**” means a body, office-holder or other person listed in Schedule 1.
+(1)[^c-7d53ec0cdb6ef1266d5bdff157af1e16] In this Part, a “**contracting authority**” means a body, office-holder or other person listed in Schedule 1.
 
-(2)[^key-d9a947667ceb24e657034fe1d7216e8c] But the Welsh Ministers are not a contracting authority for the purposes of sections 29, 30, 35, 36 and 41.
+(2)[^c-d9a947667ceb24e657034fe1d7216e8c] But the Welsh Ministers are not a contracting authority for the purposes of sections 29, 30, 35, 36 and 41.
 
-(3)[^key-7d53ec0cdb6ef1266d5bdff157af1e16] In this Part, a contracting authority’s area is the area by reference to which the authority primarily exercises its functions, disregarding any areas outside Wales.
+(3)[^c-7d53ec0cdb6ef1266d5bdff157af1e16] In this Part, a contracting authority’s area is the area by reference to which the authority primarily exercises its functions, disregarding any areas outside Wales.
 
-(4)[^key-7d53ec0cdb6ef1266d5bdff157af1e16] The Welsh Ministers may by regulations amend this section, and Schedule 1, so as to modify the meaning of a contracting authority.
+(4)[^c-7d53ec0cdb6ef1266d5bdff157af1e16] The Welsh Ministers may by regulations amend this section, and Schedule 1, so as to modify the meaning of a contracting authority.
 
-##### 23. Public procurement[^key-c474d279fceca97ff1c79f3b12312cf9][^key-95b1d3710dc521620eafe9f39aab440a]
+##### 23. Public procurement[^c-c474d279fceca97ff1c79f3b12312cf9][^c-95b1d3710dc521620eafe9f39aab440a]
 
 For the purposes of this Part, references to “public procurement” are to a contracting authority—
 
@@ -310,38 +310,38 @@ and references to “procurement” are to be construed accordingly.
 
 #### The socially responsible procurement duty
 
-##### 24. Socially responsible procurement duty[^key-718ef4b8e178a7dd831c8d35ea2d514a]
+##### 24. Socially responsible procurement duty[^c-718ef4b8e178a7dd831c8d35ea2d514a]
 
-(1)[^key-fa0b5dabe3106a3ecaa43ea9602a6ea5] A contracting authority must seek to improve the economic, social, environmental and cultural well-being of its area by carrying out public procurement in a socially responsible way.
+(1)[^c-fa0b5dabe3106a3ecaa43ea9602a6ea5] A contracting authority must seek to improve the economic, social, environmental and cultural well-being of its area by carrying out public procurement in a socially responsible way.
 
-(2)[^key-fa0b5dabe3106a3ecaa43ea9602a6ea5] A contracting authority carries out public procurement in a socially responsible way by taking action, in accordance with the sustainable development principle, aimed at contributing to the achievement of the well-being goals listed in section 4 of the WFGA 2015 (referred to for the purposes of this Part as the “well-being goals”).
+(2)[^c-fa0b5dabe3106a3ecaa43ea9602a6ea5] A contracting authority carries out public procurement in a socially responsible way by taking action, in accordance with the sustainable development principle, aimed at contributing to the achievement of the well-being goals listed in section 4 of the WFGA 2015 (referred to for the purposes of this Part as the “well-being goals”).
 
-(3)[^key-fa0b5dabe3106a3ecaa43ea9602a6ea5] A contracting authority must set and publish objectives (“socially responsible procurement objectives”) designed to maximise its contribution to achieving the well-being goals.
+(3)[^c-fa0b5dabe3106a3ecaa43ea9602a6ea5] A contracting authority must set and publish objectives (“socially responsible procurement objectives”) designed to maximise its contribution to achieving the well-being goals.
 
-(4)[^key-fa0b5dabe3106a3ecaa43ea9602a6ea5] Schedule 2 makes provision about revising and reviewing socially responsible procurement objectives.
+(4)[^c-fa0b5dabe3106a3ecaa43ea9602a6ea5] Schedule 2 makes provision about revising and reviewing socially responsible procurement objectives.
 
-(5)[^key-fa0b5dabe3106a3ecaa43ea9602a6ea5] In taking action aimed at contributing to the achievement of the well-being goals, a contracting authority must—
+(5)[^c-fa0b5dabe3106a3ecaa43ea9602a6ea5] In taking action aimed at contributing to the achievement of the well-being goals, a contracting authority must—
 
 - (a) take all reasonable steps to meet its socially responsible procurement objectives when it carries out public procurement in relation to any prescribed contract;
 - (b) take the particular actions referred to in section 25 when it carries out public procurement in relation to a major construction contract;
 - (c) take the particular actions referred to in section 26 when it carries out public procurement in relation to an outsourcing services contract.
 
-(6)[^key-fa0b5dabe3106a3ecaa43ea9602a6ea5] Despite subsection (1), a contracting authority must not include provisions in a prescribed contract that—
+(6)[^c-fa0b5dabe3106a3ecaa43ea9602a6ea5] Despite subsection (1), a contracting authority must not include provisions in a prescribed contract that—
 
 - (a) are not proportionate (taking into account the estimated value of the contract);
 - (b) would conflict with any other enactment or rule of law relating to public procurement.
 
-(7)[^key-fa0b5dabe3106a3ecaa43ea9602a6ea5] For the purposes of subsection (2), “**the sustainable development principle**” has the meaning given by section 5 of the WFGA 2015.
+(7)[^c-fa0b5dabe3106a3ecaa43ea9602a6ea5] For the purposes of subsection (2), “**the sustainable development principle**” has the meaning given by section 5 of the WFGA 2015.
 
-(8)[^key-4d32db6d67da413c17b31472d58faa88] In this Part, a “**prescribed contract**” means—
+(8)[^c-4d32db6d67da413c17b31472d58faa88] In this Part, a “**prescribed contract**” means—
 
 - (a) a major construction contract (see section 25),
 - (b) an outsourcing services contract (see section 26), and
 - (c) any other public contract of a description prescribed by the Welsh Ministers by regulations.
 
-##### 25. Socially responsible procurement duty: major construction contracts[^key-9511f16bf19e7459bf05e34c79f5a61c]
+##### 25. Socially responsible procurement duty: major construction contracts[^c-9511f16bf19e7459bf05e34c79f5a61c]
 
-(1)[^key-2863791bfc5ad03fe2d001838e2f463b] The particular actions mentioned in section 24(5)(b) are—
+(1)[^c-2863791bfc5ad03fe2d001838e2f463b] The particular actions mentioned in section 24(5)(b) are—
 
 - (a) having regard to model social public works clauses published by the Welsh Ministers under section 27;
 - (b) in designing and carrying out procedures preceding the award of the major construction contract, considering whether the contract should include social public works clauses;
@@ -352,13 +352,13 @@ and references to “procurement” are to be construed accordingly.
 
 (see sections 27 to 31 for further provision about the meaning of “social public works clauses” and their application to major construction contracts).
 
-(2)[^key-89e7be2af1dac788c1891d7792089b8b] In this Part, a “major construction contract” is a public contract that is a works contract with an estimated value equal to or greater than £2,000,000.[^key-84228c60938e8f4cdba6b5cd154481aa]
+(2)[^c-89e7be2af1dac788c1891d7792089b8b] In this Part, a “major construction contract” is a public contract that is a works contract with an estimated value equal to or greater than £2,000,000.[^c-84228c60938e8f4cdba6b5cd154481aa]
 
-(3)[^key-89e7be2af1dac788c1891d7792089b8b] The Welsh Ministers may by regulations amend this section to modify the meaning of a major construction contract.
+(3)[^c-89e7be2af1dac788c1891d7792089b8b] The Welsh Ministers may by regulations amend this section to modify the meaning of a major construction contract.
 
-##### 26. Socially responsible procurement duty: outsourcing services contracts[^key-be15cef4384cf100e17cb85acb7468f9]
+##### 26. Socially responsible procurement duty: outsourcing services contracts[^c-be15cef4384cf100e17cb85acb7468f9]
 
-(1)[^key-28d7c081574ee2c20832ee1c70b2d78c] The particular actions mentioned in section 24(5)(c) are—
+(1)[^c-28d7c081574ee2c20832ee1c70b2d78c] The particular actions mentioned in section 24(5)(c) are—
 
 - (a) having regard to the public services outsourcing and workforce code published by the Welsh Ministers under section 32;
 - (b) in designing and carrying out procedures preceding the award of the outsourcing services contract, considering whether the contract should include social public workforce clauses;
@@ -369,7 +369,7 @@ and references to “procurement” are to be construed accordingly.
 
 (see sections 32 to 37 for further provision about the public services outsourcing and workforce code, the meaning of “social public workforce clauses” and their application to outsourcing services contracts).
 
-(2)[^key-a92e6489593e7528fb0d76e6df163707] In this Part, “**an outsourcing services contract**” means a contract under which—
+(2)[^c-a92e6489593e7528fb0d76e6df163707] In this Part, “**an outsourcing services contract**” means a contract under which—
 
 - (a) a requirement to provide a public service provided by, or previously provided by, a contracting authority is transferred to another person, or
 - (b) another person agrees to undertake any other function undertaken by, or previously undertaken by, a contracting authority;
@@ -378,7 +378,7 @@ and “**outsourced**” is to be construed accordingly.
 
 #### Social public works clauses
 
-##### 27. Social public works clauses in major construction contracts[^key-272fe13cd23ddeb3160c236749506e53][^key-4f2964a972cf18e17d726918ed47e7ac]
+##### 27. Social public works clauses in major construction contracts[^c-272fe13cd23ddeb3160c236749506e53][^c-4f2964a972cf18e17d726918ed47e7ac]
 
 (1) The Welsh Ministers must publish model clauses for major construction contracts (“social public works clauses”) designed to bring about the improvements to economic, social, environmental and cultural well-being listed under each category in the Table in subsection (2).
 
@@ -389,7 +389,7 @@ TABLE 1
 | ***Category*** | ***Improvements*** |
 | --- | --- |
 | Payments | Ensuring and enforcing prompt payments. |
-| Employment | Providing employment opportunities to younger people, older people, the long term unemployed, disabled people[^key-c2105d31e3aff2c2099bd87abbd942a5] or people who may otherwise be disadvantaged (for example because of their race, religion or belief, sex, gender identity or sexual orientation). |
+| Employment | Providing employment opportunities to younger people, older people, the long term unemployed, disabled people[^c-c2105d31e3aff2c2099bd87abbd942a5] or people who may otherwise be disadvantaged (for example because of their race, religion or belief, sex, gender identity or sexual orientation). |
 | Compliance | health and safety, and trade union representation. |
 | Training | Providing appropriate training for workers. |
 | Sub-contracting | Providing opportunities to small and medium sized enterprises and voluntary organisations to execute works, supply products or provide services. |
@@ -406,7 +406,7 @@ TABLE 1
 - (b) to remove a category, and improvements under that category, from the Table;
 - (c) to amend a category or improvements under a category in the Table.
 
-##### 28. Social public works clauses in subcontracts[^key-ee54e000ed12f1d36a02c9e7f79e909d][^key-512639160069e4a4ede8053602a054ad]
+##### 28. Social public works clauses in subcontracts[^c-ee54e000ed12f1d36a02c9e7f79e909d][^c-512639160069e4a4ede8053602a054ad]
 
 (1) Subsection (2) applies if a contracting authority intends to include social public works clauses in a major construction contract it agrees with an economic operator (a “contractor”) (the authority having considered whether to do so in accordance with section 25(1)(b)).
 
@@ -422,7 +422,7 @@ TABLE 1
 - (d) requiring the contractor to inform the contracting authority if it intends to enter into a subcontract which does not include social public works clauses having the same or substantially the same effect are those included in the major construction contract;
 - (e) requiring the contractor to monitor the extent any obligations in social public works clauses are implemented where the contractor has entered into a subcontract with any other economic operator.
 
-##### 29. Social public works clauses: notifying the Welsh Ministers[^key-8c86ac7a52154ecaa1b47be026097478][^key-0eed5b06190cc4768bf49795a65e2b41]
+##### 29. Social public works clauses: notifying the Welsh Ministers[^c-8c86ac7a52154ecaa1b47be026097478][^c-0eed5b06190cc4768bf49795a65e2b41]
 
 (1) A contracting authority must notify the Welsh Ministers if, in relation to a major construction contract—
 
@@ -433,7 +433,7 @@ TABLE 1
 
 (2) A notification under subsection (1) must be made as soon as reasonably practicable and give the authority’s reasons.
 
-##### 30. Social public works clauses: Welsh Ministers’ response[^key-dab441eda7b666cf53e03a5f77b1e98d][^key-003fd55af3b5ad1719931c5454787f13]
+##### 30. Social public works clauses: Welsh Ministers’ response[^c-dab441eda7b666cf53e03a5f77b1e98d][^c-003fd55af3b5ad1719931c5454787f13]
 
 (1) Where the Welsh Ministers receive a notification from a contracting authority under section 29(1), they must—
 
@@ -473,7 +473,7 @@ TABLE 1
 
 (9) Nothing in this section requires the Welsh Ministers to publish information which, following consultation with the appropriate contracting authority, the Welsh Ministers consider would be exempt from disclosure were it to be subject to a request for information under the [Freedom of Information Act 2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36).
 
-##### 31. Social public works clauses: Welsh Ministers’ contracts[^key-e2ed3bd19622e22d6e327556456345d5][^key-4a472823ef5facff3c3cc2a6baf94acc]
+##### 31. Social public works clauses: Welsh Ministers’ contracts[^c-e2ed3bd19622e22d6e327556456345d5][^c-4a472823ef5facff3c3cc2a6baf94acc]
 
 (1) The Welsh Ministers must publish a statement if, in relation to a major construction contract—
 
@@ -486,7 +486,7 @@ TABLE 1
 
 #### Social public workforce clauses and code of practice on outsourcing public services
 
-##### 32. Public services outsourcing and workforce code[^key-95a1b7c786f8c6476cbe72dc0bb0c91c][^key-15b3b740882688053b87b651b4bd36fc]
+##### 32. Public services outsourcing and workforce code[^c-95a1b7c786f8c6476cbe72dc0bb0c91c][^c-15b3b740882688053b87b651b4bd36fc]
 
 (1) For the purposes of maintaining or improving the quality of public services or other functions outsourced by contracting authorities, the Welsh Ministers must prepare and publish a code of practice (the “public services outsourcing and workforce code”) about employment and pensions matters related to outsourcing services contracts.
 
@@ -496,7 +496,7 @@ TABLE 1
 
 (4) The Welsh Ministers must lay a copy of the code and any revision before the Senedd.
 
-##### 33. Social public workforce clauses in outsourcing services contracts[^key-6efa45116c297c0e342b58a4b45d75b6][^key-52c26c263021d04dd127e903af8cf527]
+##### 33. Social public workforce clauses in outsourcing services contracts[^c-6efa45116c297c0e342b58a4b45d75b6][^c-52c26c263021d04dd127e903af8cf527]
 
 The public services outsourcing and workforce code must include model contract clauses (“social public workforce clauses”), which in particular—
 
@@ -505,7 +505,7 @@ The public services outsourcing and workforce code must include model contract c
 - (c) are designed to ensure that the terms and conditions of other members of staff employed by the person providing the services, or undertaking the functions, who are involved in providing those services, or undertaking those functions, are no less favourable overall than those of transferring staff, and that the pensions arrangements of those other members of staff are reasonable;
 - (d) make provision supplementary to the matters referred to in paragraphs (a) to (c).
 
-##### 34. Social public workforce clauses in subcontracts[^key-e911b03e66d6219d7d672865386acbab][^key-59a0fd98d70053716e2cc1ea8bf98366]
+##### 34. Social public workforce clauses in subcontracts[^c-e911b03e66d6219d7d672865386acbab][^c-59a0fd98d70053716e2cc1ea8bf98366]
 
 (1) Subsection (2) applies if a contracting authority intends to include social public workforce clauses in an outsourcing services contract it agrees with an economic operator (a “contractor”) (the authority having considered whether to do so in accordance with section 26(1)(b)).
 
@@ -521,7 +521,7 @@ The public services outsourcing and workforce code must include model contract c
 - (d) requiring the contractor to inform the contracting authority if it intends to enter into a subcontract which does not include social public workforce clauses having the same or substantially the same effect as those included in the outsourcing services contract;
 - (e) requiring the contractor to monitor the extent any obligations in social public workforce clauses are implemented where the contractor has entered into a subcontract with any other economic operator.
 
-##### 35. Social public workforce clauses: notifying the Welsh Ministers[^key-cdca13ac7c1ea8d5fe4b4342cb010bf0][^key-da8a1b52ce9f363a9b08fac0918def56]
+##### 35. Social public workforce clauses: notifying the Welsh Ministers[^c-cdca13ac7c1ea8d5fe4b4342cb010bf0][^c-da8a1b52ce9f363a9b08fac0918def56]
 
 (1) A contracting authority must notify the Welsh Ministers if, in relation to an outsourcing services contract—
 
@@ -532,7 +532,7 @@ The public services outsourcing and workforce code must include model contract c
 
 (2) A notification under subsection (1) must be made as soon as reasonably practicable and must give the authority’s reasons.
 
-##### 36. Social public workforce clauses: Welsh Ministers’ response[^key-28aaaafe17c6553b877ddf62dd29b0c4][^key-253648124d676db53bb37c2ff06cd5d6]
+##### 36. Social public workforce clauses: Welsh Ministers’ response[^c-28aaaafe17c6553b877ddf62dd29b0c4][^c-253648124d676db53bb37c2ff06cd5d6]
 
 (1) Where the Welsh Ministers receive a notification under section 35(1), they must—
 
@@ -572,7 +572,7 @@ The public services outsourcing and workforce code must include model contract c
 
 (9) Nothing in this section requires the Welsh Ministers to publish information which, following consultation with the appropriate contracting authority, the Welsh Ministers consider would be exempt from disclosure were it to be subject to a request for information under the [Freedom of Information Act 2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36).
 
-##### 37. Social public workforce clauses: Welsh Ministers’ contracts[^key-c621d5dcc3869aee3a8c684d402615df][^key-99fb6f6ef5ffa22e5b87d23b1cd952a5]
+##### 37. Social public workforce clauses: Welsh Ministers’ contracts[^c-c621d5dcc3869aee3a8c684d402615df][^c-99fb6f6ef5ffa22e5b87d23b1cd952a5]
 
 (1) The Welsh Ministers must publish a statement if, in relation to an outsourcing services contract—
 
@@ -585,7 +585,7 @@ The public services outsourcing and workforce code must include model contract c
 
 #### Procurement strategies
 
-##### 38. Procurement strategy[^key-55a2e2d5eacbf8e625d35aee4b1f2548][^key-90a878c78831c6bc958d3a152a824b57]
+##### 38. Procurement strategy[^c-55a2e2d5eacbf8e625d35aee4b1f2548][^c-90a878c78831c6bc958d3a152a824b57]
 
 (1) A contracting authority must prepare a strategy (a “procurement strategy”) setting out how the authority intends to carry out public procurement.
 
@@ -610,7 +610,7 @@ The public services outsourcing and workforce code must include model contract c
 
 ### CHAPTER 3 — REPORTING AND ACCOUNTABILITY
 
-#### 39. Annual socially responsible procurement reports[^key-4f49bfab00b1e89e3e3b8b4d6362d96e][^key-1b746f6a02d3073fb081f4b50ff19cd4][^key-eb90bb5f283e78da7507a32af4393c35]
+#### 39. Annual socially responsible procurement reports[^c-4f49bfab00b1e89e3e3b8b4d6362d96e][^c-1b746f6a02d3073fb081f4b50ff19cd4][^c-eb90bb5f283e78da7507a32af4393c35]
 
 (1) A contracting authority that has awarded any prescribed contracts during a financial year must prepare and publish an annual report on its public procurement as soon as reasonably practicable after the end of that year.
 
@@ -632,7 +632,7 @@ The public services outsourcing and workforce code must include model contract c
   - (iii) taking (other) social considerations into account;
   - (iv) promoting and facilitating use of the Welsh language.
 
-#### 40. Contracts register[^key-902eb5379e5b072805767f7998a219c4][^key-9d562395889f986512d28e738e3bb906][^key-85d46c186890a6a8444b50d5a1b66b59]
+#### 40. Contracts register[^c-902eb5379e5b072805767f7998a219c4][^c-9d562395889f986512d28e738e3bb906][^c-85d46c186890a6a8444b50d5a1b66b59]
 
 (1) A contracting authority must create, maintain and publish a contracts register.
 
@@ -659,7 +659,7 @@ The public services outsourcing and workforce code must include model contract c
 
 (5) An authority may delete an entry in its contracts register only after the contract to which it relates has expired or been terminated.
 
-#### 41. Procurement investigations[^key-31af897336698a91ba875ad990b1dba1][^key-39d1cd45fca3e69fe789f0760951779a]
+#### 41. Procurement investigations[^c-31af897336698a91ba875ad990b1dba1][^c-39d1cd45fca3e69fe789f0760951779a]
 
 (1) The Welsh Ministers may investigate how a contracting authority carries out public procurement.
 
@@ -678,7 +678,7 @@ The public services outsourcing and workforce code must include model contract c
 - (b) publish a report of the results of the investigation;
 - (c) lay a copy of any report published before the Senedd.
 
-#### 42. Welsh Ministers’ annual report on public procurement[^key-0d42cd13394909bee67184696bab4f3f][^key-7703e660494dfa3f83f02dbf07a5de87]
+#### 42. Welsh Ministers’ annual report on public procurement[^c-0d42cd13394909bee67184696bab4f3f][^c-7703e660494dfa3f83f02dbf07a5de87]
 
 (1) As soon as reasonably practicable after the end of a financial year, the Welsh Ministers must prepare a report on public procurement in Wales that year.
 
@@ -691,7 +691,7 @@ The public services outsourcing and workforce code must include model contract c
 
 ### CHAPTER 4 — GENERAL
 
-#### 43. Guidance[^key-bb861b84fae0424440afc0d98e7f2ddd][^key-34ab82e70982e40ed6813d43ef135a63]
+#### 43. Guidance[^c-bb861b84fae0424440afc0d98e7f2ddd][^c-34ab82e70982e40ed6813d43ef135a63]
 
 (1) The Welsh Ministers may issue guidance about the operation of this Part.
 
@@ -715,7 +715,7 @@ The public services outsourcing and workforce code must include model contract c
 - (a) the SPC;
 - (b) such other persons as they consider appropriate.
 
-#### 44. Regulations[^key-fb46b5b5f2fc13bda71319778a316263][^key-276d87d110e4d03c3df5e81f032f4215]
+#### 44. Regulations[^c-fb46b5b5f2fc13bda71319778a316263][^c-276d87d110e4d03c3df5e81f032f4215]
 
 (1) A power to make regulations under this Part—
 
@@ -727,33 +727,33 @@ The public services outsourcing and workforce code must include model contract c
 
 (3) Any other statutory instrument containing regulations made under this Part is subject to annulment in pursuance of a resolution of the Senedd.
 
-#### 45. Interpretation of Part 3[^key-a55741c04082efb75adb7242198d26ec][^key-36ec1f83aaaf91b86681c31e90e10335]
+#### 45. Interpretation of Part 3[^c-a55741c04082efb75adb7242198d26ec][^c-36ec1f83aaaf91b86681c31e90e10335]
 
 (1) In this Part—
 
-- [^key-63d21037681cc9c16d71c268883deb83]...
+- [^c-63d21037681cc9c16d71c268883deb83]...
 - “**contracting authority**” (“***awdurdod contractio***”) has the meaning given in section 22;
 - “**economic operator**” (“***gweithredwr economaidd***”) means any person who offers the execution of works, the supply of products or the provision of services on the market;
 - “**framework agreement**” (“***cytundeb fframwaith***”) means an agreement between one or more contracting authorities and one or more economic operators, the purpose of which is to establish the main terms governing public contracts (call-off contracts) to be awarded during a given period, in particular with regard to pricing the things envisaged to be procured and, where appropriate, their quantity;
 - “**outsourcing services contract**” (“***contract allanoli gwasanaethau***”) has the meaning given in section 26(2);
 - “**prescribed contract**” (“***contract rhagnodedig***”) has the meaning given in section 24(8);
-- [^key-f50a5c03441ebf4f5c048b75fdcccbc3]...
+- [^c-f50a5c03441ebf4f5c048b75fdcccbc3]...
 - “**public procurement**” (“***caffael cyhoeddus***”) has the meaning given in section 23;
 - “**the public services outsourcing and workforce code**” (“***y cod allanoli gwasanaethau cyhoeddus a’r gweithlu***”) has the meaning given in section 32(1);
-- [^key-31de738eea86e40cd5d6787f280fce15]...
+- [^c-31de738eea86e40cd5d6787f280fce15]...
 - “**social public workforce clauses**” (“***cymalau gweithlu cyhoeddus cymdeithasol***”) has the meaning given in section 33;
 - “**social public works clauses**” (“***cymalau gweithiau cyhoeddus cymdeithasol***”) has the meaning given in section 27;
-- [^key-bf2d792fd3362fcff8239de5490273a2]...
+- [^c-bf2d792fd3362fcff8239de5490273a2]...
 - “**voluntary organisations**” (“***sefydliadau gwirfoddol***”) has the same meaning as “relevant voluntary organisations” within the meaning of section 74(2) of the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32);
-- “**works**” (“***gweithiau***”) has the meaning given by regulation 45 of and Schedule 3 to the Procurement (Wales) Regulations 2024[^key-9d69450b88cc22771663e765abd7611c];
-- [^key-a66b8fd9f7f3c5542e331966dd2f1296]...
-- “**works contract**” (“***contract gweithiau***”) has the meaning given by paragraph 4 of Schedule 1 to the Procurement Act[^key-991171b7d74ee4a44c0d932c3cf6d48e] [2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54).
+- “**works**” (“***gweithiau***”) has the meaning given by regulation 45 of and Schedule 3 to the Procurement (Wales) Regulations 2024[^c-9d69450b88cc22771663e765abd7611c];
+- [^c-a66b8fd9f7f3c5542e331966dd2f1296]...
+- “**works contract**” (“***contract gweithiau***”) has the meaning given by paragraph 4 of Schedule 1 to the Procurement Act[^c-991171b7d74ee4a44c0d932c3cf6d48e] [2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54).
 
-(2) For the purposes of this Part, the estimated value of a contract is to be determined in accordance with section 4 of the Procurement Act 2023[^key-a6c4b606043071e98fa36f5f6ff9fdff].
+(2) For the purposes of this Part, the estimated value of a contract is to be determined in accordance with section 4 of the Procurement Act 2023[^c-a6c4b606043071e98fa36f5f6ff9fdff].
 
 ## PART 4 — FINAL PROVISIONS
 
-### 46. General interpretation[^key-beb8cecc0e32197e1c4585c26d99813b][^key-692cbb8446930dc1585edff63ed260cc]
+### 46. General interpretation[^c-beb8cecc0e32197e1c4585c26d99813b][^c-692cbb8446930dc1585edff63ed260cc]
 
 In this Act—
 
@@ -766,11 +766,11 @@ In this Act—
 - “trade union”(“***undeb llafur***”) has the meaning given by section 1 of the [Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52) (and “**recognised**” (“***cydnabyddedig***”) in relation to a trade union has the meaning given by section 178(3) of that Act);
 - “**the WFGA 2015**” (*“DLlCD 2015”*) means the [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2).
 
-### 47. Minor amendment of the WFGA 2015[^key-254f9bf500044cafaaa8d79787013434][^key-a7eb135884af2d088599f98bb03e5d20]
+### 47. Minor amendment of the WFGA 2015[^c-254f9bf500044cafaaa8d79787013434][^c-a7eb135884af2d088599f98bb03e5d20]
 
 In section 9(6) of the WFGA 2015 (publication of public body’s revised well-being objectives), for “(3) or (4)” substitute “(4) or (5)”.
 
-### 48. Coming into force[^key-8def9a142937d97e226fddac869feb82]
+### 48. Coming into force[^c-8def9a142937d97e226fddac869feb82]
 
 (1) This Act comes into force on such day as the Welsh Ministers may by order appoint; except for this section, which comes into force on the day after the day this Act receives Royal Assent.
 
@@ -778,7 +778,7 @@ In section 9(6) of the WFGA 2015 (publication of public body’s revised well-be
 
 (3) The power of the Welsh Ministers to make an order under subsection (1) is exercisable by statutory instrument.
 
-### 49. Short title[^key-20b6c06de3beb0f0b0136ebafeddc75b][^key-c4ce04426f313205fa1d04c784ddc607]
+### 49. Short title[^c-20b6c06de3beb0f0b0136ebafeddc75b][^c-c4ce04426f313205fa1d04c784ddc607]
 
 The short title of this Act is the Social Partnership and Public Procurement (Wales) Act 2023.
 
@@ -786,370 +786,370 @@ The short title of this Act is the Social Partnership and Public Procurement (Wa
 
 (as introduced by section 22)
 
-**1.**[^key-945cee5e13ff521875b56f1b9cc8b1d5][^key-b8951ec701a206a61f56828a81421629] The Senedd Commission.
+**1.**[^c-945cee5e13ff521875b56f1b9cc8b1d5][^c-b8951ec701a206a61f56828a81421629] The Senedd Commission.
 
-**2.**[^key-0f29d11ceb181e06ebc2f76a4bbb1513][^key-bf2e19b96bc96e49c4ca1684abca16d4] A person listed as a “public body” in section 6(1) of the WFGA 2015.
+**2.**[^c-0f29d11ceb181e06ebc2f76a4bbb1513][^c-bf2e19b96bc96e49c4ca1684abca16d4] A person listed as a “public body” in section 6(1) of the WFGA 2015.
 
-**3.**[^key-7e6bd4ae8aeccef46d549e4c47a57c62][^key-c33f8d9a722ced255c8e69cc4028862f] The Welsh Language Commissioner.
+**3.**[^c-7e6bd4ae8aeccef46d549e4c47a57c62][^c-c33f8d9a722ced255c8e69cc4028862f] The Welsh Language Commissioner.
 
-**4.**[^key-3634f9ec78e6208aecf84f4868a99c7c][^key-6d9a50effd57a8cdf31c95236dfec919] The Future Generations Commissioner for Wales.
+**4.**[^c-3634f9ec78e6208aecf84f4868a99c7c][^c-6d9a50effd57a8cdf31c95236dfec919] The Future Generations Commissioner for Wales.
 
-**5.**[^key-ed94f3b977529b63b9a91ca001c8e978][^key-15ee8957798e82a340a3bb6c60eafc3d] The Children’s Commissioner for Wales.
+**5.**[^c-ed94f3b977529b63b9a91ca001c8e978][^c-15ee8957798e82a340a3bb6c60eafc3d] The Children’s Commissioner for Wales.
 
-**6.**[^key-64bb140a038c4179c0d6461a3fd8bab5][^key-24219f7c40458535bc18850e0ff64de5] The Commissioner for Older People in Wales.
+**6.**[^c-64bb140a038c4179c0d6461a3fd8bab5][^c-24219f7c40458535bc18850e0ff64de5] The Commissioner for Older People in Wales.
 
-**7.**[^key-24fd75272237e2c59b8d9710cd88fec0][^key-2b13fc74dabda882a6e1e6074e7cfe7f] Social Care Wales.
+**7.**[^c-24fd75272237e2c59b8d9710cd88fec0][^c-2b13fc74dabda882a6e1e6074e7cfe7f] Social Care Wales.
 
-**8.**[^key-f6c21b6ccdac4fcc10edc43bc3914ded][^key-4368eb164102893bd0d126f34adcb889] The Welsh Ambulance Services NHS Trust.
+**8.**[^c-f6c21b6ccdac4fcc10edc43bc3914ded][^c-4368eb164102893bd0d126f34adcb889] The Welsh Ambulance Services NHS Trust.
 
-**9.**[^key-9f53e1f09eec9bbc8dd7c0a937420ed4][^key-9c5e3e96eab55748ef0cc94fbf5ca9c4] Digital Health and Care Wales.
+**9.**[^c-9f53e1f09eec9bbc8dd7c0a937420ed4][^c-9c5e3e96eab55748ef0cc94fbf5ca9c4] Digital Health and Care Wales.
 
-**10.**[^key-9aea80b5726cbdac70ba74fd1b05b393][^key-fdaba3f200bfb33bd6d9a55e6a756015] The Welsh Revenue Authority.
+**10.**[^c-9aea80b5726cbdac70ba74fd1b05b393][^c-fdaba3f200bfb33bd6d9a55e6a756015] The Welsh Revenue Authority.
 
-**11.**[^key-3391d72a1c3a4ea9f4039a0a094ca8c3][^key-fe8c0cea6a10ea98545bcd335b36e90e] Transport for Wales.
+**11.**[^c-3391d72a1c3a4ea9f4039a0a094ca8c3][^c-fe8c0cea6a10ea98545bcd335b36e90e] Transport for Wales.
 
-**12.**[^key-be14bf1dd802460c44e1f00ed69c81da][^key-01e762517ab9a0806c691a00c36c5e8e] The Royal Commission on the Ancient and Historical Monuments of Wales.
+**12.**[^c-be14bf1dd802460c44e1f00ed69c81da][^c-01e762517ab9a0806c691a00c36c5e8e] The Royal Commission on the Ancient and Historical Monuments of Wales.
 
-**13.**[^key-cbfd68b535466b15517519cde569ec57][^key-d6ba04736c5672f01c2fb68a76e8d663] His Majesty’s Chief Inspector of Education and Training in Wales.
+**13.**[^c-cbfd68b535466b15517519cde569ec57][^c-d6ba04736c5672f01c2fb68a76e8d663] His Majesty’s Chief Inspector of Education and Training in Wales.
 
-**14.**[^key-efab6538d06c37f6474e7dd483f651be][^key-e62bda44c1b6e1e7bc9592c12419fa32] Meat Promotion Wales.
+**14.**[^c-efab6538d06c37f6474e7dd483f651be][^c-e62bda44c1b6e1e7bc9592c12419fa32] Meat Promotion Wales.
 
-**15.**[^key-c3c41447ecfa6f60be64911067d8cb66][^key-fc24f8e65633feb15dcc2a530b5a541f] Qualifications Wales.
+**15.**[^c-c3c41447ecfa6f60be64911067d8cb66][^c-fc24f8e65633feb15dcc2a530b5a541f] Qualifications Wales.
 
-**16.**[^key-512d6bf595e14caec12141b80539f8e2][^key-969795313a8ead53bf1183f026c438b7] Health Education and Improvement Wales.
+**16.**[^c-512d6bf595e14caec12141b80539f8e2][^c-969795313a8ead53bf1183f026c438b7] Health Education and Improvement Wales.
 
-**17.**[^key-44c969c8e9f62428668ffbb7945bb0d3][^key-036021ae2e4fd51874634f23bcf0af90] The Education Workforce Council.
+**17.**[^c-44c969c8e9f62428668ffbb7945bb0d3][^c-036021ae2e4fd51874634f23bcf0af90] The Education Workforce Council.
 
-**18.**[^key-0479f8c9704313f94bcb20f650c2367b][^key-13ac3f02e7305930948f30d608f2d3bb] The Democracy and Boundary Commission Cymru[^key-dd62bf55bdf4566c67fdc3d89243c476].
+**18.**[^c-0479f8c9704313f94bcb20f650c2367b][^c-13ac3f02e7305930948f30d608f2d3bb] The Democracy and Boundary Commission Cymru[^c-dd62bf55bdf4566c67fdc3d89243c476].
 
 ## SCHEDULE 2 — SOCIALLY RESPONSIBLE PROCUREMENT OBJECTIVES
 
 (as introduced by section 24(4))
 
-**1.**[^key-008e99c954694fc1bb632ab3bedfb2a9][^key-4c278b1217f7ba64508ef3fe74d62dd8] If the well-being goals are amended, a contracting authority must review its socially responsible procurement objectives.
+**1.**[^c-008e99c954694fc1bb632ab3bedfb2a9][^c-4c278b1217f7ba64508ef3fe74d62dd8] If the well-being goals are amended, a contracting authority must review its socially responsible procurement objectives.
 
-**2.**[^key-afdf669c23f89b4ab4f2388a92fd5fd7][^key-e112222523ceca2a0396b89022716f41] If, on a review under paragraph 1, a contracting authority determines that one or more of its socially responsible procurement objectives are no longer appropriate, it must revise the objective or objectives concerned.
+**2.**[^c-afdf669c23f89b4ab4f2388a92fd5fd7][^c-e112222523ceca2a0396b89022716f41] If, on a review under paragraph 1, a contracting authority determines that one or more of its socially responsible procurement objectives are no longer appropriate, it must revise the objective or objectives concerned.
 
-**3.**[^key-d5f1f96c05d69368d11636e670329679][^key-d3bc71b432286f1f2f9884acf6ec331e] A contracting authority may at any other time review and revise its socially responsible procurement objectives.
+**3.**[^c-d5f1f96c05d69368d11636e670329679][^c-d3bc71b432286f1f2f9884acf6ec331e] A contracting authority may at any other time review and revise its socially responsible procurement objectives.
 
-**4.**[^key-7456a53632d9b80f31fcbd6d993b3cfb][^key-721f27a602c1bd6592ad5ba4c38d881b] Where a contracting authority revises its socially responsible procurement objectives under paragraph 2 or 3, it must publish them as soon as reasonably practicable.
+**4.**[^c-7456a53632d9b80f31fcbd6d993b3cfb][^c-721f27a602c1bd6592ad5ba4c38d881b] Where a contracting authority revises its socially responsible procurement objectives under paragraph 2 or 3, it must publish them as soon as reasonably practicable.
 
 ## Annotations
 
-[^key-edfe2b9fc8afe977bf1b3d9fe4b0fc34]: Commencement: S. 1 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-edfe2b9fc8afe977bf1b3d9fe4b0fc34]: Commencement: S. 1 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-77a1dcbeee7a6767b250c0d9ce19e55c]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2023/1/section/1) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/794/article/2/a)
+[^c-77a1dcbeee7a6767b250c0d9ce19e55c]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2023/1/section/1) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/794/article/2/a)
 
-[^key-4848af78f61fbe055300be42e9d065e2]: Commencement: S. 2 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-4848af78f61fbe055300be42e9d065e2]: Commencement: S. 2 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-741ce0316a381d19971ee84a8fefd64a]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2023/1/section/2) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/794/article/2/b)
+[^c-741ce0316a381d19971ee84a8fefd64a]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2023/1/section/2) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/794/article/2/b)
 
-[^key-21fdcf8219440de21ea07cdc1ae1ccbd]: Commencement: S. 3 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-21fdcf8219440de21ea07cdc1ae1ccbd]: Commencement: S. 3 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-a03175bc1c6be98c97a6a43281d96ff7]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2023/1/section/3) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/794/article/2/c)
+[^c-a03175bc1c6be98c97a6a43281d96ff7]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2023/1/section/3) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/794/article/2/c)
 
-[^key-1ab6083ad640602a187515cf5cb0664e]: Commencement: S. 4 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-1ab6083ad640602a187515cf5cb0664e]: Commencement: S. 4 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-455c6a9300412f8c370c5ce02a966f60]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2023/1/section/4) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/794/article/2/d)
+[^c-455c6a9300412f8c370c5ce02a966f60]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2023/1/section/4) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/794/article/2/d)
 
-[^key-169e76bfe263d19d050051243d2b399b]: Commencement: S. 5 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-169e76bfe263d19d050051243d2b399b]: Commencement: S. 5 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-b5737cd2ddbe9a8577fab935d401580a]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2023/1/section/5) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/794/article/2/e)
+[^c-b5737cd2ddbe9a8577fab935d401580a]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2023/1/section/5) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/794/article/2/e)
 
-[^key-80edcaade37aab4e082ddd625df98b30]: Commencement: S. 6 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-80edcaade37aab4e082ddd625df98b30]: Commencement: S. 6 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-06f071dc09e80a7c53ba5793dea497db]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2023/1/section/6) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(f)](https://www.legislation.gov.uk/wsi/2023/794/article/2/f)
+[^c-06f071dc09e80a7c53ba5793dea497db]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2023/1/section/6) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(f)](https://www.legislation.gov.uk/wsi/2023/794/article/2/f)
 
-[^key-29c87e8dae1f7c6ae897dbcac59844e5]: Commencement: S. 7 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-29c87e8dae1f7c6ae897dbcac59844e5]: Commencement: S. 7 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-aa75819f593686f5561909aef99aba61]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2023/1/section/7) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/794/article/2/g)
+[^c-aa75819f593686f5561909aef99aba61]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2023/1/section/7) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/794/article/2/g)
 
-[^key-edbf8a1be52632e9a6ba61e23a168fc2]: Commencement: S. 8 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-edbf8a1be52632e9a6ba61e23a168fc2]: Commencement: S. 8 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-8df4af8e62977936e7fea26c0092761d]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2023/1/section/8) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(h)](https://www.legislation.gov.uk/wsi/2023/794/article/2/h)
+[^c-8df4af8e62977936e7fea26c0092761d]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2023/1/section/8) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(h)](https://www.legislation.gov.uk/wsi/2023/794/article/2/h)
 
-[^key-9c528ef5cbc670eb0f9070b516a02071]: Commencement: S. 9 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-9c528ef5cbc670eb0f9070b516a02071]: Commencement: S. 9 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-496778fde288a9ce6f5d722609a249c0]: Commencement: [S. 9(1)-(4)](https://www.legislation.gov.uk/asc/2023/1/section/9/1) in force at 30.6.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 4(a)](https://www.legislation.gov.uk/wsi/2025/338/article/4/a)
+[^c-496778fde288a9ce6f5d722609a249c0]: Commencement: [S. 9(1)-(4)](https://www.legislation.gov.uk/asc/2023/1/section/9/1) in force at 30.6.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 4(a)](https://www.legislation.gov.uk/wsi/2025/338/article/4/a)
 
-[^key-a00d6ecf450913bfd38e6f0d4831794a]: Commencement: [S. 9(5)](https://www.legislation.gov.uk/asc/2023/1/section/9/5) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/338/article/2/a)
+[^c-a00d6ecf450913bfd38e6f0d4831794a]: Commencement: [S. 9(5)](https://www.legislation.gov.uk/asc/2023/1/section/9/5) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/338/article/2/a)
 
-[^key-c14433b5d06fe33534e09049fe5484cd]: Commencement: S. 10 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-c14433b5d06fe33534e09049fe5484cd]: Commencement: S. 10 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-b008cf3584004a08c6aade851711cce0]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2023/1/section/10) in force at 30.6.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/338/article/4/b)
+[^c-b008cf3584004a08c6aade851711cce0]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2023/1/section/10) in force at 30.6.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/338/article/4/b)
 
-[^key-fa213f442ae01de3df985ef8f30e7bde]: Commencement: S. 11 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-fa213f442ae01de3df985ef8f30e7bde]: Commencement: S. 11 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-ea6029c502a6834ea55f8cf0a88d67be]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2023/1/section/11) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(i)](https://www.legislation.gov.uk/wsi/2023/794/article/2/i)
+[^c-ea6029c502a6834ea55f8cf0a88d67be]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2023/1/section/11) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(i)](https://www.legislation.gov.uk/wsi/2023/794/article/2/i)
 
-[^key-a78e3462551d67134ca74e0ff9654ef8]: Commencement: S. 12 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-a78e3462551d67134ca74e0ff9654ef8]: Commencement: S. 12 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-94bb68ea4b144b4a33e94e3b0bf7ec6c]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2023/1/section/12) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(j)](https://www.legislation.gov.uk/wsi/2023/794/article/2/j)
+[^c-94bb68ea4b144b4a33e94e3b0bf7ec6c]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2023/1/section/12) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(j)](https://www.legislation.gov.uk/wsi/2023/794/article/2/j)
 
-[^key-6d9860da286eb117c180e6c0a9ebc9a6]: Commencement: S. 13 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-6d9860da286eb117c180e6c0a9ebc9a6]: Commencement: S. 13 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-490f328ff0ac12a8790ca3a99fabb205]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2023/1/section/13) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(k)](https://www.legislation.gov.uk/wsi/2023/794/article/2/k)
+[^c-490f328ff0ac12a8790ca3a99fabb205]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2023/1/section/13) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(k)](https://www.legislation.gov.uk/wsi/2023/794/article/2/k)
 
-[^key-e319905fef318db8d4fe6384559b88a9]: Commencement: S. 14 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-e319905fef318db8d4fe6384559b88a9]: Commencement: S. 14 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-52ee40a8ed36cc6892986499e62aefc7]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2023/1/section/14) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(l)](https://www.legislation.gov.uk/wsi/2023/794/article/2/l)
+[^c-52ee40a8ed36cc6892986499e62aefc7]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2023/1/section/14) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(l)](https://www.legislation.gov.uk/wsi/2023/794/article/2/l)
 
-[^key-16777335b67892c884e5ed2ac38f6167]: Commencement: S. 15 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-16777335b67892c884e5ed2ac38f6167]: Commencement: S. 15 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-3f75805cc085f92725d0cb2270f51822]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2023/1/section/15) in force at 1.4.2024 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/794/article/3/a)
+[^c-3f75805cc085f92725d0cb2270f51822]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2023/1/section/15) in force at 1.4.2024 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/794/article/3/a)
 
-[^key-1c45b8fec15f4260b6386280df69ac82]: Commencement: S. 16 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-1c45b8fec15f4260b6386280df69ac82]: Commencement: S. 16 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-3dd81b6c9a25dba75156783d2329fe88]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2023/1/section/16) in force at 1.4.2024 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 3(b)](https://www.legislation.gov.uk/wsi/2023/794/article/3/b)
+[^c-3dd81b6c9a25dba75156783d2329fe88]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2023/1/section/16) in force at 1.4.2024 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 3(b)](https://www.legislation.gov.uk/wsi/2023/794/article/3/b)
 
-[^key-9a9b0688a39bf43a7037328796505d01]: Commencement: S. 17 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-9a9b0688a39bf43a7037328796505d01]: Commencement: S. 17 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-cc8350f6d1df8bca4fde30ebae66af9c]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2023/1/section/17) in force at 1.4.2024 by [S.I. 2024/343](https://www.legislation.gov.uk/wsi/2024/343), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/343/article/2/a)
+[^c-cc8350f6d1df8bca4fde30ebae66af9c]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2023/1/section/17) in force at 1.4.2024 by [S.I. 2024/343](https://www.legislation.gov.uk/wsi/2024/343), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/343/article/2/a)
 
-[^key-3e6a572dbb2b0ca339280899c2ad9a0c]: Commencement: S. 18 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-3e6a572dbb2b0ca339280899c2ad9a0c]: Commencement: S. 18 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-df2fafe507e6aa469365aeb60cb4df66]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2023/1/section/18) in force at 1.4.2024 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 3(c)](https://www.legislation.gov.uk/wsi/2023/794/article/3/c)
+[^c-df2fafe507e6aa469365aeb60cb4df66]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2023/1/section/18) in force at 1.4.2024 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 3(c)](https://www.legislation.gov.uk/wsi/2023/794/article/3/c)
 
-[^key-3e35f7cc466a88a0a465f043d962b14a]: Commencement: S. 19 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-3e35f7cc466a88a0a465f043d962b14a]: Commencement: S. 19 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-8c289140620f2e1fc379967cfde417c9]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2023/1/section/19) in force at 1.4.2024 by [S.I. 2024/343](https://www.legislation.gov.uk/wsi/2024/343), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/343/article/2/b)
+[^c-8c289140620f2e1fc379967cfde417c9]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2023/1/section/19) in force at 1.4.2024 by [S.I. 2024/343](https://www.legislation.gov.uk/wsi/2024/343), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/343/article/2/b)
 
-[^key-8f303d4aad58e52d5b310dc683849a3c]: Commencement: S. 20 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-8f303d4aad58e52d5b310dc683849a3c]: Commencement: S. 20 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-44434b4af1dd8e958e721ef88da9bf5e]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2023/1/section/20) in force at 1.4.2024 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 3(d)](https://www.legislation.gov.uk/wsi/2023/794/article/3/d)
+[^c-44434b4af1dd8e958e721ef88da9bf5e]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2023/1/section/20) in force at 1.4.2024 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 3(d)](https://www.legislation.gov.uk/wsi/2023/794/article/3/d)
 
-[^key-9099d9bb19d370983fd9a001e00213e4]: Commencement: S. 21 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-9099d9bb19d370983fd9a001e00213e4]: Commencement: S. 21 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-145c956c18e1bb9f9ff8d10f8bad7366]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2023/1/section/21) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/338/article/2/b)
+[^c-145c956c18e1bb9f9ff8d10f8bad7366]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2023/1/section/21) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/338/article/2/b)
 
-[^key-00b195e2de8428b6a57655bc3579486d]: Commencement: S. 22 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-00b195e2de8428b6a57655bc3579486d]: Commencement: S. 22 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-7d53ec0cdb6ef1266d5bdff157af1e16]: Commencement: S. 22(1)(3)(4) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/338/article/2/c)
+[^c-7d53ec0cdb6ef1266d5bdff157af1e16]: Commencement: S. 22(1)(3)(4) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/338/article/2/c)
 
-[^key-d9a947667ceb24e657034fe1d7216e8c]: Commencement: S. 22(2) in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/a)
+[^c-d9a947667ceb24e657034fe1d7216e8c]: Commencement: S. 22(2) in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/a)
 
-[^key-c474d279fceca97ff1c79f3b12312cf9]: Commencement: S. 23 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-c474d279fceca97ff1c79f3b12312cf9]: Commencement: S. 23 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-95b1d3710dc521620eafe9f39aab440a]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2023/1/section/23) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/338/article/2/d)
+[^c-95b1d3710dc521620eafe9f39aab440a]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2023/1/section/23) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/338/article/2/d)
 
-[^key-718ef4b8e178a7dd831c8d35ea2d514a]: Commencement: S. 24 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-718ef4b8e178a7dd831c8d35ea2d514a]: Commencement: S. 24 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-fa0b5dabe3106a3ecaa43ea9602a6ea5]: Commencement: S. 24(1)-(7) in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/b)
+[^c-fa0b5dabe3106a3ecaa43ea9602a6ea5]: Commencement: S. 24(1)-(7) in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/b)
 
-[^key-4d32db6d67da413c17b31472d58faa88]: Commencement: S. 24(8) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/338/article/2/e)
+[^c-4d32db6d67da413c17b31472d58faa88]: Commencement: S. 24(8) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/338/article/2/e)
 
-[^key-9511f16bf19e7459bf05e34c79f5a61c]: Commencement: S. 25 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-9511f16bf19e7459bf05e34c79f5a61c]: Commencement: S. 25 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-2863791bfc5ad03fe2d001838e2f463b]: Commencement: S. 25(1) in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/c)
+[^c-2863791bfc5ad03fe2d001838e2f463b]: Commencement: S. 25(1) in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/c)
 
-[^key-89e7be2af1dac788c1891d7792089b8b]: Commencement: S. 25(2)(3) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/338/article/2/f)
+[^c-89e7be2af1dac788c1891d7792089b8b]: Commencement: S. 25(2)(3) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/338/article/2/f)
 
-[^key-84228c60938e8f4cdba6b5cd154481aa]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/asc/2023/1/section/25/2) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/uksi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/782/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2024/782/regulation/46/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-84228c60938e8f4cdba6b5cd154481aa]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/asc/2023/1/section/25/2) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/uksi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/782/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2024/782/regulation/46/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-be15cef4384cf100e17cb85acb7468f9]: Commencement: S. 26 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-be15cef4384cf100e17cb85acb7468f9]: Commencement: S. 26 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-28d7c081574ee2c20832ee1c70b2d78c]: Commencement: S. 26(1) in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/d)
+[^c-28d7c081574ee2c20832ee1c70b2d78c]: Commencement: S. 26(1) in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/d)
 
-[^key-a92e6489593e7528fb0d76e6df163707]: Commencement: S. 26(2) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/338/article/2/g)
+[^c-a92e6489593e7528fb0d76e6df163707]: Commencement: S. 26(2) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/338/article/2/g)
 
-[^key-272fe13cd23ddeb3160c236749506e53]: Commencement: S. 27 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-272fe13cd23ddeb3160c236749506e53]: Commencement: S. 27 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-4f2964a972cf18e17d726918ed47e7ac]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2023/1/section/27) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(h)](https://www.legislation.gov.uk/wsi/2025/338/article/2/h)
+[^c-4f2964a972cf18e17d726918ed47e7ac]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2023/1/section/27) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(h)](https://www.legislation.gov.uk/wsi/2025/338/article/2/h)
 
-[^key-c2105d31e3aff2c2099bd87abbd942a5]: Textual amendment: Words in s. 27(2) table substituted (25.3.2026) by [The Social Partnership and Public Procurement (Wales) Regulations 2026 (W.S.I. 2026/75)](https://www.legislation.gov.uk/wsi/2026/75), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/75/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2026/75/regulation/7)
+[^c-c2105d31e3aff2c2099bd87abbd942a5]: Textual amendment: Words in s. 27(2) table substituted (25.3.2026) by [The Social Partnership and Public Procurement (Wales) Regulations 2026 (W.S.I. 2026/75)](https://www.legislation.gov.uk/wsi/2026/75), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/75/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2026/75/regulation/7)
 
-[^key-ee54e000ed12f1d36a02c9e7f79e909d]: Commencement: S. 28 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-ee54e000ed12f1d36a02c9e7f79e909d]: Commencement: S. 28 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-512639160069e4a4ede8053602a054ad]: Commencement: S. 28 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/e)
+[^c-512639160069e4a4ede8053602a054ad]: Commencement: S. 28 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/e)
 
-[^key-8c86ac7a52154ecaa1b47be026097478]: Commencement: S. 29 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-8c86ac7a52154ecaa1b47be026097478]: Commencement: S. 29 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-0eed5b06190cc4768bf49795a65e2b41]: Commencement: S. 29 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/f)
+[^c-0eed5b06190cc4768bf49795a65e2b41]: Commencement: S. 29 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/f)
 
-[^key-dab441eda7b666cf53e03a5f77b1e98d]: Commencement: S. 30 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-dab441eda7b666cf53e03a5f77b1e98d]: Commencement: S. 30 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-003fd55af3b5ad1719931c5454787f13]: Commencement: S. 30 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/g)
+[^c-003fd55af3b5ad1719931c5454787f13]: Commencement: S. 30 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/g)
 
-[^key-e2ed3bd19622e22d6e327556456345d5]: Commencement: S. 31 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-e2ed3bd19622e22d6e327556456345d5]: Commencement: S. 31 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-4a472823ef5facff3c3cc2a6baf94acc]: Commencement: S. 31 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(h)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/h)
+[^c-4a472823ef5facff3c3cc2a6baf94acc]: Commencement: S. 31 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(h)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/h)
 
-[^key-95a1b7c786f8c6476cbe72dc0bb0c91c]: Commencement: S. 32 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-95a1b7c786f8c6476cbe72dc0bb0c91c]: Commencement: S. 32 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-15b3b740882688053b87b651b4bd36fc]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2023/1/section/32) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(i)](https://www.legislation.gov.uk/wsi/2025/338/article/2/i)
+[^c-15b3b740882688053b87b651b4bd36fc]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2023/1/section/32) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(i)](https://www.legislation.gov.uk/wsi/2025/338/article/2/i)
 
-[^key-6efa45116c297c0e342b58a4b45d75b6]: Commencement: S. 33 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-6efa45116c297c0e342b58a4b45d75b6]: Commencement: S. 33 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-52c26c263021d04dd127e903af8cf527]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2023/1/section/33) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(j)](https://www.legislation.gov.uk/wsi/2025/338/article/2/j)
+[^c-52c26c263021d04dd127e903af8cf527]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2023/1/section/33) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(j)](https://www.legislation.gov.uk/wsi/2025/338/article/2/j)
 
-[^key-e911b03e66d6219d7d672865386acbab]: Commencement: S. 34 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-e911b03e66d6219d7d672865386acbab]: Commencement: S. 34 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-59a0fd98d70053716e2cc1ea8bf98366]: Commencement: S. 34 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(i)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/i)
+[^c-59a0fd98d70053716e2cc1ea8bf98366]: Commencement: S. 34 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(i)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/i)
 
-[^key-cdca13ac7c1ea8d5fe4b4342cb010bf0]: Commencement: S. 35 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-cdca13ac7c1ea8d5fe4b4342cb010bf0]: Commencement: S. 35 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-da8a1b52ce9f363a9b08fac0918def56]: Commencement: S. 35 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(j)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/j)
+[^c-da8a1b52ce9f363a9b08fac0918def56]: Commencement: S. 35 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(j)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/j)
 
-[^key-28aaaafe17c6553b877ddf62dd29b0c4]: Commencement: S. 36 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-28aaaafe17c6553b877ddf62dd29b0c4]: Commencement: S. 36 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-253648124d676db53bb37c2ff06cd5d6]: Commencement: S. 36 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(k)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/k)
+[^c-253648124d676db53bb37c2ff06cd5d6]: Commencement: S. 36 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(k)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/k)
 
-[^key-c621d5dcc3869aee3a8c684d402615df]: Commencement: S. 37 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-c621d5dcc3869aee3a8c684d402615df]: Commencement: S. 37 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-99fb6f6ef5ffa22e5b87d23b1cd952a5]: Commencement: S. 37 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(l)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/l)
+[^c-99fb6f6ef5ffa22e5b87d23b1cd952a5]: Commencement: S. 37 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(l)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/l)
 
-[^key-55a2e2d5eacbf8e625d35aee4b1f2548]: Commencement: S. 38 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-55a2e2d5eacbf8e625d35aee4b1f2548]: Commencement: S. 38 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-90a878c78831c6bc958d3a152a824b57]: Commencement: S. 38 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/m)
+[^c-90a878c78831c6bc958d3a152a824b57]: Commencement: S. 38 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/m)
 
-[^key-4f49bfab00b1e89e3e3b8b4d6362d96e]: Commencement: S. 39 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-4f49bfab00b1e89e3e3b8b4d6362d96e]: Commencement: S. 39 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-1b746f6a02d3073fb081f4b50ff19cd4]: Commencement: S. 39 in force at 21.3.2025 for specified purposes by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/338/article/3/a)
+[^c-1b746f6a02d3073fb081f4b50ff19cd4]: Commencement: S. 39 in force at 21.3.2025 for specified purposes by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/338/article/3/a)
 
-[^key-eb90bb5f283e78da7507a32af4393c35]: Commencement: S. 39 in force at 1.4.2026 in so far as not already in force by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/1353/article/3/a)
+[^c-eb90bb5f283e78da7507a32af4393c35]: Commencement: S. 39 in force at 1.4.2026 in so far as not already in force by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/1353/article/3/a)
 
-[^key-902eb5379e5b072805767f7998a219c4]: Commencement: S. 40 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-902eb5379e5b072805767f7998a219c4]: Commencement: S. 40 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-9d562395889f986512d28e738e3bb906]: Commencement: S. 40 in force at 21.3.2025 for specified purposes by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/338/article/3/b)
+[^c-9d562395889f986512d28e738e3bb906]: Commencement: S. 40 in force at 21.3.2025 for specified purposes by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/338/article/3/b)
 
-[^key-85d46c186890a6a8444b50d5a1b66b59]: Commencement: S. 40 in force at 25.3.2026 in so far as not already in force by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/n)
+[^c-85d46c186890a6a8444b50d5a1b66b59]: Commencement: S. 40 in force at 25.3.2026 in so far as not already in force by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/n)
 
-[^key-31af897336698a91ba875ad990b1dba1]: Commencement: S. 41 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-31af897336698a91ba875ad990b1dba1]: Commencement: S. 41 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-39d1cd45fca3e69fe789f0760951779a]: Commencement: S. 41 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(o)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/o)
+[^c-39d1cd45fca3e69fe789f0760951779a]: Commencement: S. 41 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(o)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/o)
 
-[^key-0d42cd13394909bee67184696bab4f3f]: Commencement: S. 42 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-0d42cd13394909bee67184696bab4f3f]: Commencement: S. 42 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-7703e660494dfa3f83f02dbf07a5de87]: Commencement: S. 42 in force at 1.4.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/1353/article/3/b)
+[^c-7703e660494dfa3f83f02dbf07a5de87]: Commencement: S. 42 in force at 1.4.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/1353/article/3/b)
 
-[^key-bb861b84fae0424440afc0d98e7f2ddd]: Commencement: S. 43 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-bb861b84fae0424440afc0d98e7f2ddd]: Commencement: S. 43 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-34ab82e70982e40ed6813d43ef135a63]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2023/1/section/43) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(k)](https://www.legislation.gov.uk/wsi/2025/338/article/2/k)
+[^c-34ab82e70982e40ed6813d43ef135a63]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2023/1/section/43) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(k)](https://www.legislation.gov.uk/wsi/2025/338/article/2/k)
 
-[^key-fb46b5b5f2fc13bda71319778a316263]: Commencement: S. 44 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-fb46b5b5f2fc13bda71319778a316263]: Commencement: S. 44 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-276d87d110e4d03c3df5e81f032f4215]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2023/1/section/44) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(l)](https://www.legislation.gov.uk/wsi/2025/338/article/2/l)
+[^c-276d87d110e4d03c3df5e81f032f4215]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2023/1/section/44) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(l)](https://www.legislation.gov.uk/wsi/2025/338/article/2/l)
 
-[^key-a55741c04082efb75adb7242198d26ec]: Commencement: S. 45 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-a55741c04082efb75adb7242198d26ec]: Commencement: S. 45 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-36ec1f83aaaf91b86681c31e90e10335]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2023/1/section/45) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/338/article/2/m)
+[^c-36ec1f83aaaf91b86681c31e90e10335]: Commencement: [S. 45](https://www.legislation.gov.uk/asc/2023/1/section/45) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/338/article/2/m)
 
-[^key-63d21037681cc9c16d71c268883deb83]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(i)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/i) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-63d21037681cc9c16d71c268883deb83]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(i)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/i) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-f50a5c03441ebf4f5c048b75fdcccbc3]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/ii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-f50a5c03441ebf4f5c048b75fdcccbc3]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/ii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-31de738eea86e40cd5d6787f280fce15]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/iii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-31de738eea86e40cd5d6787f280fce15]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/iii) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-bf2d792fd3362fcff8239de5490273a2]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(iv)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/iv) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-bf2d792fd3362fcff8239de5490273a2]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(iv)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/iv) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-9d69450b88cc22771663e765abd7611c]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(b)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-9d69450b88cc22771663e765abd7611c]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(b)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-a66b8fd9f7f3c5542e331966dd2f1296]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(v)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/v) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-a66b8fd9f7f3c5542e331966dd2f1296]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(a)(v)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/a/v) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-991171b7d74ee4a44c0d932c3cf6d48e]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(c)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-991171b7d74ee4a44c0d932c3cf6d48e]: Textual amendment: Words in [s. 45(1)](https://www.legislation.gov.uk/asc/2023/1/section/45/1) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(3)(c)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/3/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-a6c4b606043071e98fa36f5f6ff9fdff]: Textual amendment: Words in [s. 45(2)](https://www.legislation.gov.uk/asc/2023/1/section/45/2) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(4)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-a6c4b606043071e98fa36f5f6ff9fdff]: Textual amendment: Words in [s. 45(2)](https://www.legislation.gov.uk/asc/2023/1/section/45/2) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [46(4)](https://www.legislation.gov.uk/wsi/2024/782/regulation/46/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-beb8cecc0e32197e1c4585c26d99813b]: Commencement: S. 46 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-beb8cecc0e32197e1c4585c26d99813b]: Commencement: S. 46 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-692cbb8446930dc1585edff63ed260cc]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2023/1/section/46) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(m)](https://www.legislation.gov.uk/wsi/2023/794/article/2/m)
+[^c-692cbb8446930dc1585edff63ed260cc]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2023/1/section/46) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(m)](https://www.legislation.gov.uk/wsi/2023/794/article/2/m)
 
-[^key-254f9bf500044cafaaa8d79787013434]: Commencement: S. 47 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-254f9bf500044cafaaa8d79787013434]: Commencement: S. 47 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-a7eb135884af2d088599f98bb03e5d20]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2023/1/section/47) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(n)](https://www.legislation.gov.uk/wsi/2023/794/article/2/n)
+[^c-a7eb135884af2d088599f98bb03e5d20]: Commencement: [S. 47](https://www.legislation.gov.uk/asc/2023/1/section/47) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(n)](https://www.legislation.gov.uk/wsi/2023/794/article/2/n)
 
-[^key-8def9a142937d97e226fddac869feb82]: Commencement: S. 48 in force at 25.5.2023, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-8def9a142937d97e226fddac869feb82]: Commencement: S. 48 in force at 25.5.2023, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-20b6c06de3beb0f0b0136ebafeddc75b]: Commencement: S. 49 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-20b6c06de3beb0f0b0136ebafeddc75b]: Commencement: S. 49 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-c4ce04426f313205fa1d04c784ddc607]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2023/1/section/49) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(o)](https://www.legislation.gov.uk/wsi/2023/794/article/2/o)
+[^c-c4ce04426f313205fa1d04c784ddc607]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2023/1/section/49) in force at 29.7.2023 by [S.I. 2023/794](https://www.legislation.gov.uk/wsi/2023/794), [art. 2(o)](https://www.legislation.gov.uk/wsi/2023/794/article/2/o)
 
-[^key-945cee5e13ff521875b56f1b9cc8b1d5]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-945cee5e13ff521875b56f1b9cc8b1d5]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-b8951ec701a206a61f56828a81421629]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/1) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-b8951ec701a206a61f56828a81421629]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/1) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-0f29d11ceb181e06ebc2f76a4bbb1513]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-0f29d11ceb181e06ebc2f76a4bbb1513]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-bf2e19b96bc96e49c4ca1684abca16d4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/2) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-bf2e19b96bc96e49c4ca1684abca16d4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/2) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-7e6bd4ae8aeccef46d549e4c47a57c62]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-7e6bd4ae8aeccef46d549e4c47a57c62]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-c33f8d9a722ced255c8e69cc4028862f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/3) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-c33f8d9a722ced255c8e69cc4028862f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/3) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-3634f9ec78e6208aecf84f4868a99c7c]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-3634f9ec78e6208aecf84f4868a99c7c]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-6d9a50effd57a8cdf31c95236dfec919]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/4) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-6d9a50effd57a8cdf31c95236dfec919]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/4) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-ed94f3b977529b63b9a91ca001c8e978]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-ed94f3b977529b63b9a91ca001c8e978]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-15ee8957798e82a340a3bb6c60eafc3d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/5) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-15ee8957798e82a340a3bb6c60eafc3d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/5) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-64bb140a038c4179c0d6461a3fd8bab5]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-64bb140a038c4179c0d6461a3fd8bab5]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-24219f7c40458535bc18850e0ff64de5]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/6) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-24219f7c40458535bc18850e0ff64de5]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/6) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-24fd75272237e2c59b8d9710cd88fec0]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-24fd75272237e2c59b8d9710cd88fec0]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-2b13fc74dabda882a6e1e6074e7cfe7f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/7) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-2b13fc74dabda882a6e1e6074e7cfe7f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/7) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-f6c21b6ccdac4fcc10edc43bc3914ded]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-f6c21b6ccdac4fcc10edc43bc3914ded]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-4368eb164102893bd0d126f34adcb889]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/8) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-4368eb164102893bd0d126f34adcb889]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/8) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-9f53e1f09eec9bbc8dd7c0a937420ed4]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-9f53e1f09eec9bbc8dd7c0a937420ed4]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-9c5e3e96eab55748ef0cc94fbf5ca9c4]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/9) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-9c5e3e96eab55748ef0cc94fbf5ca9c4]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/9) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-9aea80b5726cbdac70ba74fd1b05b393]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-9aea80b5726cbdac70ba74fd1b05b393]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-fdaba3f200bfb33bd6d9a55e6a756015]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/10) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-fdaba3f200bfb33bd6d9a55e6a756015]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/10) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-3391d72a1c3a4ea9f4039a0a094ca8c3]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-3391d72a1c3a4ea9f4039a0a094ca8c3]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-fe8c0cea6a10ea98545bcd335b36e90e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/11) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-fe8c0cea6a10ea98545bcd335b36e90e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/11) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-be14bf1dd802460c44e1f00ed69c81da]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-be14bf1dd802460c44e1f00ed69c81da]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-01e762517ab9a0806c691a00c36c5e8e]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/12) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-01e762517ab9a0806c691a00c36c5e8e]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/12) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-cbfd68b535466b15517519cde569ec57]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-cbfd68b535466b15517519cde569ec57]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-d6ba04736c5672f01c2fb68a76e8d663]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/13) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-d6ba04736c5672f01c2fb68a76e8d663]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/13) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-efab6538d06c37f6474e7dd483f651be]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-efab6538d06c37f6474e7dd483f651be]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-e62bda44c1b6e1e7bc9592c12419fa32]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/14) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-e62bda44c1b6e1e7bc9592c12419fa32]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/14) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-c3c41447ecfa6f60be64911067d8cb66]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-c3c41447ecfa6f60be64911067d8cb66]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-fc24f8e65633feb15dcc2a530b5a541f]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/15) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-fc24f8e65633feb15dcc2a530b5a541f]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/15) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-512d6bf595e14caec12141b80539f8e2]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-512d6bf595e14caec12141b80539f8e2]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-969795313a8ead53bf1183f026c438b7]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/16) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-969795313a8ead53bf1183f026c438b7]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/16) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-44c969c8e9f62428668ffbb7945bb0d3]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-44c969c8e9f62428668ffbb7945bb0d3]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-036021ae2e4fd51874634f23bcf0af90]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/17) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-036021ae2e4fd51874634f23bcf0af90]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/17) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-0479f8c9704313f94bcb20f650c2367b]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-0479f8c9704313f94bcb20f650c2367b]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-13ac3f02e7305930948f30d608f2d3bb]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/18) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
+[^c-13ac3f02e7305930948f30d608f2d3bb]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/18) in force at 21.3.2025 by [S.I. 2025/338](https://www.legislation.gov.uk/wsi/2025/338), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/338/article/2/n)
 
-[^key-dd62bf55bdf4566c67fdc3d89243c476]: Textual amendment: Words in [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/18) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 51](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/51)
+[^c-dd62bf55bdf4566c67fdc3d89243c476]: Textual amendment: Words in [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2023/1/schedule/1/paragraph/18) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 51](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/51)
 
-[^key-008e99c954694fc1bb632ab3bedfb2a9]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-008e99c954694fc1bb632ab3bedfb2a9]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-4c278b1217f7ba64508ef3fe74d62dd8]: Commencement: Sch. 2 para. 1 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/p)
+[^c-4c278b1217f7ba64508ef3fe74d62dd8]: Commencement: Sch. 2 para. 1 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/p)
 
-[^key-afdf669c23f89b4ab4f2388a92fd5fd7]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-afdf669c23f89b4ab4f2388a92fd5fd7]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-e112222523ceca2a0396b89022716f41]: Commencement: Sch. 2 para. 2 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/p)
+[^c-e112222523ceca2a0396b89022716f41]: Commencement: Sch. 2 para. 2 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/p)
 
-[^key-d5f1f96c05d69368d11636e670329679]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-d5f1f96c05d69368d11636e670329679]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-d3bc71b432286f1f2f9884acf6ec331e]: Commencement: Sch. 2 para. 3 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/p)
+[^c-d3bc71b432286f1f2f9884acf6ec331e]: Commencement: Sch. 2 para. 3 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/p)
 
-[^key-7456a53632d9b80f31fcbd6d993b3cfb]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
+[^c-7456a53632d9b80f31fcbd6d993b3cfb]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 48(1)](https://www.legislation.gov.uk/asc/2023/1/section/48/1)
 
-[^key-721f27a602c1bd6592ad5ba4c38d881b]: Commencement: Sch. 2 para. 4 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/p)
+[^c-721f27a602c1bd6592ad5ba4c38d881b]: Commencement: Sch. 2 para. 4 in force at 25.3.2026 by [S.I. 2025/1353](https://www.legislation.gov.uk/wsi/2025/1353), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/1353/article/2/p)

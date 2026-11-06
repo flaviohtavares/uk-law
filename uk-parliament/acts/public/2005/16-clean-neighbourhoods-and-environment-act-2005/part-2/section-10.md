@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Offence of abandoning a vehicle: fixed penalty notices[^key-7501b95b7e18c85e6ec61029825d8cb5][^key-27cb626c208df0a639e836f1b5271d14][^key-c534570ed90e7aa1ce77dcb3ad16b8c8]
+## 10. Offence of abandoning a vehicle: fixed penalty notices[^c-7501b95b7e18c85e6ec61029825d8cb5][^c-27cb626c208df0a639e836f1b5271d14][^c-c534570ed90e7aa1ce77dcb3ad16b8c8]
 
 *Extent: E+W*
 
@@ -113,8 +113,8 @@ In the Refuse Disposal (Amenity) Act 1978 (c. 3), after section 2 (offence of un
 
 ## Annotations
 
-[^key-7501b95b7e18c85e6ec61029825d8cb5]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2005/16/section/10) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-7501b95b7e18c85e6ec61029825d8cb5]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2005/16/section/10) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-27cb626c208df0a639e836f1b5271d14]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2005/16/section/10) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-27cb626c208df0a639e836f1b5271d14]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2005/16/section/10) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-c534570ed90e7aa1ce77dcb3ad16b8c8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2005/16/section/10) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(e)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/e)
+[^c-c534570ed90e7aa1ce77dcb3ad16b8c8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2005/16/section/10) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(e)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/e)

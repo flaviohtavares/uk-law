@@ -22,8 +22,8 @@ summary: ''
 
 1. The competent authorities shall ensure that the operators receive, upon request, proof of payment of fees or charges in the event that the operators do not otherwise have access to such proof.
 
-2.[^key-5ed585c1599814b1487d5bedb3fafdbf] The operator responsible for the consignment or its representative must pay the fee or charge collected in accordance with Articles 79(1), (2) or 80, subject to alternative arrangements being provided by other legislation.
+2.[^c-5ed585c1599814b1487d5bedb3fafdbf] The operator responsible for the consignment or its representative must pay the fee or charge collected in accordance with Articles 79(1), (2) or 80, subject to alternative arrangements being provided by other legislation.
 
 ## Annotations
 
-[^key-5ed585c1599814b1487d5bedb3fafdbf]: Textual amendment: Art. 84(2) substituted (30.4.2024) by [The Official Controls (Fees and Charges) (Amendment) Regulations 2024 (S.I. 2024/547)](https://www.legislation.gov.uk/uksi/2024/547), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/547/regulation/1/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2024/547/regulation/2/5)
+[^c-5ed585c1599814b1487d5bedb3fafdbf]: Textual amendment: Art. 84(2) substituted (30.4.2024) by [The Official Controls (Fees and Charges) (Amendment) Regulations 2024 (S.I. 2024/547)](https://www.legislation.gov.uk/uksi/2024/547), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/547/regulation/1/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2024/547/regulation/2/5)

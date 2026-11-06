@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Ill-health pension ceases to be payable[^key-3a241df917ce35feb79ec823c21f0e41]
+## 75. Ill-health pension ceases to be payable[^c-3a241df917ce35feb79ec823c21f0e41]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If an ill-health pension ceases to be payable under regulation 111 or 115, the p
 
 ## Annotations
 
-[^key-3a241df917ce35feb79ec823c21f0e41]: Commencement: [Reg. 75](https://www.legislation.gov.uk/ssi/2014/292/regulation/75) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3a241df917ce35feb79ec823c21f0e41]: Commencement: [Reg. 75](https://www.legislation.gov.uk/ssi/2014/292/regulation/75) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

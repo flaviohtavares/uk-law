@@ -22,7 +22,7 @@ summary: ''
 
 (1) No paid instruction in the driving of a motor car shall be given unless—
 
-- (a) the name of the person giving the instruction is in the register of approved instructors established in pursuance of section 23 of the [^c13988191]Road Traffic Act 1962 (in this Part of this Act referred to as “**the register**”) and the registration is not suspended[^key-6b70ecd37c6e4814fe5a43312a6b88ea], or
+- (a) the name of the person giving the instruction is in the register of approved instructors established in pursuance of section 23 of the [^c13988191]Road Traffic Act 1962 (in this Part of this Act referred to as “**the register**”) and the registration is not suspended[^c-6b70ecd37c6e4814fe5a43312a6b88ea], or
 - (b) the person giving the instruction is the holder of a current licence granted under this Part of this Act authorising him to give such instruction.
 
 (2) No paid instruction in the driving of a motor car shall be given unless there is fixed to and exhibited on that motor car in such manner as may be prescribed by regulations either—
@@ -45,7 +45,7 @@ shall be deemed to be given for payment of money by the person to whom the instr
 
 is guilty of an offence.
 
-(5) In proceedings against a person for an offence under subsection (4) above it shall be a defence for him to prove that he did not know, and had no reasonable cause to believe, that his name or, as the case may be, that of the person employed by him, was not in the register at the material time , or (as the case may be) that the registration was at that time suspended[^key-b84a1c27568a750af45e6bd29176b490] .
+(5) In proceedings against a person for an offence under subsection (4) above it shall be a defence for him to prove that he did not know, and had no reasonable cause to believe, that his name or, as the case may be, that of the person employed by him, was not in the register at the material time , or (as the case may be) that the registration was at that time suspended[^c-b84a1c27568a750af45e6bd29176b490] .
 
 (6) If instruction is given in contravention of subsection (2) above, the person by whom it is given is guilty of an offence.
 
@@ -62,9 +62,9 @@ is guilty of an offence.
 
 [^c13988191]: Marginal citation: [1962 c. 59](https://www.legislation.gov.uk/ukpga/1962/59).
 
-[^key-6b70ecd37c6e4814fe5a43312a6b88ea]: Textual amendment: Words in s. 123(1)(a) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/2/2); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-6b70ecd37c6e4814fe5a43312a6b88ea]: Textual amendment: Words in s. 123(1)(a) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/2/2); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
-[^key-b84a1c27568a750af45e6bd29176b490]: Textual amendment: Words in s. 123(5) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/2/3); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-b84a1c27568a750af45e6bd29176b490]: Textual amendment: Words in s. 123(5) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/2/3); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
 [^c13988201]: Textual amendment: Words in s. 123(7) inserted (9.9.1996) by [1993 c. 31](https://www.legislation.gov.uk/ukpga/1993/31), [s. 6](https://www.legislation.gov.uk/ukpga/1993/31/section/6), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/1993/31/schedule/paragraph/2/2); [S.I. 1996/1980](https://www.legislation.gov.uk/uksi/1996/1980), [art. 2](https://www.legislation.gov.uk/uksi/1996/1980/article/2)
 

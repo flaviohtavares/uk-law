@@ -54,7 +54,7 @@ This Order may be cited as the Channel Tunnel (Alcoholic Liquor and Tobacco Prod
 
 The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 [^c20165171] apply in a control zone with the modifications indicated in the Schedule.
 
-## 2A.[^key-58f60e54998bfe9ae7e3dd45f4e40d3e]
+## 2A.[^c-58f60e54998bfe9ae7e3dd45f4e40d3e]
 
 The modifications made by paragraphs 1(a) and (ab), 4B and 4C of the Schedule continue to apply to any movement starting in a control zone until the end of that movement.
 
@@ -109,12 +109,12 @@ In regulation 3(1) of the Excise Goods (Holding, Movement and Duty Point) Regula
   > “**control zone**” means a control zone to which article 5(2)(a) of the Channel Tunnel (Customs and Excise) Order 1990 refers;
 
   ;
-- (aa)[^key-f354f887e086cf314be3e951364c337b] in paragraph (b) of the definition of “customs suspensive procedure or arrangement”, regard the words “United Kingdom” as being followed by “or a control zone”; and
+- (aa)[^c-f354f887e086cf314be3e951364c337b] in paragraph (b) of the definition of “customs suspensive procedure or arrangement”, regard the words “United Kingdom” as being followed by “or a control zone”; and
 - (ab) after the meaning given for “transporter”, regard there as being—
 
   > “**the tunnel**” has the meaning provided in article 2(1) of the Channel Tunnel (Customs and Excise) Order 1990 .
-- (b)[^key-68f98b90c4840b3b4c2bb258cf266987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-1e8d95c9f86c4e95b375bf657ffc6777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-68f98b90c4840b3b4c2bb258cf266987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1e8d95c9f86c4e95b375bf657ffc6777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2.
 
@@ -128,7 +128,7 @@ After regulation 3(4) of those Regulations, regard there as being—
 
 In regulation 5 of those Regulations, regard the words “United Kingdom” as being followed by “or a control zone”.
 
-### 4.[^key-0846ba510416c76669359a9c8bf7dac3]
+### 4.[^c-0846ba510416c76669359a9c8bf7dac3]
 
 In regulation 6 of those Regulations—
 
@@ -154,27 +154,27 @@ In regulation 56 of those Regulations—
 
   .
 
-### 5.[^key-917bb48ee241d8dbf5cc823484a87405]
+### 5.[^c-917bb48ee241d8dbf5cc823484a87405]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-917bb48ee241d8dbf5cc823484a87405]
+### 6.[^c-917bb48ee241d8dbf5cc823484a87405]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7.[^key-917bb48ee241d8dbf5cc823484a87405]
+### 7.[^c-917bb48ee241d8dbf5cc823484a87405]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8.[^key-917bb48ee241d8dbf5cc823484a87405]
+### 8.[^c-917bb48ee241d8dbf5cc823484a87405]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9.[^key-917bb48ee241d8dbf5cc823484a87405]
+### 9.[^c-917bb48ee241d8dbf5cc823484a87405]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10.[^key-917bb48ee241d8dbf5cc823484a87405]
+### 10.[^c-917bb48ee241d8dbf5cc823484a87405]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -187,7 +187,7 @@ After paragraph 4(2) of Schedule 41 to the Finance Act 2008, regard there as bei
 > - (a) the excise duty point for those goods had been passed, and
 > - (b) those goods were chargeable with a duty of excise.
 >
-> (4)[^key-dec4ee996332e6e4a623406c566fa165] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-dec4ee996332e6e4a623406c566fa165] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
@@ -209,7 +209,7 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^c20165171]: Marginal citation: [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593)
 
-[^key-58f60e54998bfe9ae7e3dd45f4e40d3e]: Textual amendment: [Arts. 2A](https://www.legislation.gov.uk/uksi/2010/594/article/2A), [2B](https://www.legislation.gov.uk/uksi/2010/594/article/2B) inserted (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-58f60e54998bfe9ae7e3dd45f4e40d3e]: Textual amendment: [Arts. 2A](https://www.legislation.gov.uk/uksi/2010/594/article/2A), [2B](https://www.legislation.gov.uk/uksi/2010/594/article/2B) inserted (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
 [^c20165181]: Marginal citation: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9).
 
@@ -225,14 +225,14 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^c20165241]: Marginal citation: OJ L 076, 23.03.92, p 1.
 
-[^key-f354f887e086cf314be3e951364c337b]: Textual amendment: [Sch. para. 1(aa)(ab)](https://www.legislation.gov.uk/uksi/2010/594/schedule/paragraph/1/aa/ab) inserted (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-f354f887e086cf314be3e951364c337b]: Textual amendment: [Sch. para. 1(aa)(ab)](https://www.legislation.gov.uk/uksi/2010/594/schedule/paragraph/1/aa/ab) inserted (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-68f98b90c4840b3b4c2bb258cf266987]: Textual amendment: [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2010/594/schedule/paragraph/1/b) omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-68f98b90c4840b3b4c2bb258cf266987]: Textual amendment: [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2010/594/schedule/paragraph/1/b) omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-1e8d95c9f86c4e95b375bf657ffc6777]: Textual amendment: [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2010/594/schedule/paragraph/1/c) omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-1e8d95c9f86c4e95b375bf657ffc6777]: Textual amendment: [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2010/594/schedule/paragraph/1/c) omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-0846ba510416c76669359a9c8bf7dac3]: Textual amendment: Sch. paras. 4-4C substituted for Sch. para. 4 (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-0846ba510416c76669359a9c8bf7dac3]: Textual amendment: Sch. paras. 4-4C substituted for Sch. para. 4 (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-917bb48ee241d8dbf5cc823484a87405]: Textual amendment: Sch. paras. 5-10 omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-917bb48ee241d8dbf5cc823484a87405]: Textual amendment: Sch. paras. 5-10 omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-dec4ee996332e6e4a623406c566fa165]: Textual amendment: Words in Sch. para. 11 omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/6) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-dec4ee996332e6e4a623406c566fa165]: Textual amendment: Words in Sch. para. 11 omitted (31.12.2020) by virtue of [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/474)](https://www.legislation.gov.uk/uksi/2019/474), [regs. 1](https://www.legislation.gov.uk/uksi/2019/474/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/474/regulation/4/6) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/474/regulation/5)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/5/3)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)

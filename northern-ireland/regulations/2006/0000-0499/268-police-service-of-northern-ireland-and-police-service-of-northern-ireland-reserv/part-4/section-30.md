@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Appeal to independent medical referee[^key-60bf2ebbc67070e92f3b2a1d7816617b]
+## 30. Appeal to independent medical referee[^c-60bf2ebbc67070e92f3b2a1d7816617b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60bf2ebbc67070e92f3b2a1d7816617b]: Commencement: Reg. 30 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-60bf2ebbc67070e92f3b2a1d7816617b]: Commencement: Reg. 30 in operation at 25.7.2006 with effect in accordance with reg. 1

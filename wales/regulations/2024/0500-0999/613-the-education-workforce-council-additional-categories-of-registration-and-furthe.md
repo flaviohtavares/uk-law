@@ -45,13 +45,13 @@ In accordance with section 47(2)(a), (c) and (e) of the Education (Wales) Act 20
 
 ## PART 1 — General
 
-### 1. Title and coming into force[^key-97e82f9fe0be1956e4f06d39b4788ce7]
+### 1. Title and coming into force[^c-97e82f9fe0be1956e4f06d39b4788ce7]
 
 (1) The title of this Order is the Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024.
 
 (2) This Order comes into force on 10 May 2024.
 
-### 2. Interpretation[^key-a7a6c51c0405d42d8e73b5409db9c5d7]
+### 2. Interpretation[^c-a7a6c51c0405d42d8e73b5409db9c5d7]
 
 In this Order—
 
@@ -75,13 +75,13 @@ In this Order—
 
 ## PART 2 — Principals and senior leaders in education
 
-### 3. Principals and senior leaders in education Requirement to be registered: principals and senior leaders in further education[^key-0b51438c5fa23b1b5275094db6531325]
+### 3. Principals and senior leaders in education Requirement to be registered: principals and senior leaders in further education[^c-0b51438c5fa23b1b5275094db6531325]
 
 A person may not undertake a senior leadership role in managing teaching and learning in or for a further education institution in Wales unless the person is registered under section 9 of the 2014 Act (register maintained by the Council) in the category of principal or senior leader in further education.
 
 ## PART 3 — Adult learning practitioners
 
-### 4. Requirements to work as an adult learning practitioner[^key-8f65935371b6dd4844107708dbb1bcd0]
+### 4. Requirements to work as an adult learning practitioner[^c-8f65935371b6dd4844107708dbb1bcd0]
 
 (1) A person may not work as an adult learning practitioner for or on behalf of any community-based adult learning provider unless—
 
@@ -107,19 +107,19 @@ A person may not undertake a senior leadership role in managing teaching and lea
   - (ii) right to parental leave conferred by section 76 of the 1996 Act[^f00015];
   - (iii) right to paternity leave conferred by section 80A or 80B of the 1996 Act[^f00016];
   - (iv) right to adoption leave conferred by section 75A or 75B of the 1996 Act[^f00017];
-  - (v) right to shared parental leave conferred by section 75E or 75G of the 1996 Act[^f00018]; [^key-6ddcedf1972791d14c30616e45c920aa]...
+  - (v) right to shared parental leave conferred by section 75E or 75G of the 1996 Act[^f00018]; [^c-6ddcedf1972791d14c30616e45c920aa]...
   - (vi) right to parental bereavement leave conferred by section 80EA of the 1996 Act[^f00019]; or
-  - (vii)[^key-d2f993111161d3965d7f4cf2cd5e26cb] right to neonatal care leave conferred by section 80EF of the 1996 Act,
-- (b) because of pregnancy; or[^key-52b8b85fbf2894c647e1a5ddefc88b2a]
-- (c)[^key-eb67d74b7f8a02c8f91c0e0e4cbc27b6] because of sickness or injury.
+  - (vii)[^c-d2f993111161d3965d7f4cf2cd5e26cb] right to neonatal care leave conferred by section 80EF of the 1996 Act,
+- (b) because of pregnancy; or[^c-52b8b85fbf2894c647e1a5ddefc88b2a]
+- (c)[^c-eb67d74b7f8a02c8f91c0e0e4cbc27b6] because of sickness or injury.
 
-### 5. Council to review the list of adult learning practitioner qualifications[^key-50e8e436832d24a35f34349202650cfa]
+### 5. Council to review the list of adult learning practitioner qualifications[^c-50e8e436832d24a35f34349202650cfa]
 
 The Council must review the list of qualifications specified in Part 1 of the Schedule and report to the Welsh Ministers on an annual basis any amendments which it considers may be required.
 
 ## PART 4 — Amendments to the 2014 Act
 
-### 6. Amendments to Schedule 2 to the 2014 Act[^key-b3791646e0288846c91e730d79e205b5]
+### 6. Amendments to Schedule 2 to the 2014 Act[^c-b3791646e0288846c91e730d79e205b5]
 
 (1) Schedule 2 (categories of registration) to the 2014 Act is amended as follows.
 
@@ -150,7 +150,7 @@ The Council must review the list of qualifications specified in Part 1 of the Sc
 
 > - “**higher education institution**” (“***sefydliad addysg uwch***”) means an institution falling within section 91(5) of the Further and Higher Education Act 1992[^f00022];
 
-### 7. Amendments to Schedule 4 to the 2014 Act[^key-b790c847c80e7d3188ea657ac8ca2413]
+### 7. Amendments to Schedule 4 to the 2014 Act[^c-b790c847c80e7d3188ea657ac8ca2413]
 
 (1) Schedule 4 (index of defined words and expressions) to the 2014 Act is amended as follows.
 
@@ -168,13 +168,13 @@ The Council must review the list of qualifications specified in Part 1 of the Sc
 
 ## PART 5 — Amendment to the 2015 Regulations
 
-### 8. Amendments to the 2015 Regulations[^key-1ca8051a8b1b686731b1df968f8ec792]
+### 8. Amendments to the 2015 Regulations[^c-1ca8051a8b1b686731b1df968f8ec792]
 
 The 2015 Regulations are amended in accordance with articles 9 to 12.
 
-**9.**[^key-02a10324a3f69337ba61d3bc96b95f67] For the heading to Part 4 (Requirement to be registered: further education teachers), substitute “Requirements relating to further education teachers”.
+**9.**[^c-02a10324a3f69337ba61d3bc96b95f67] For the heading to Part 4 (Requirement to be registered: further education teachers), substitute “Requirements relating to further education teachers”.
 
-**10.**[^key-73aa5bb3a3178102a608459635498707] (1) Regulation 19 of the 2015 Regulations is amended in accordance with paragraphs to (2) to (6).
+**10.**[^c-73aa5bb3a3178102a608459635498707] (1) Regulation 19 of the 2015 Regulations is amended in accordance with paragraphs to (2) to (6).
 
 (2) For the heading substitute “Requirements relating to further education teachers”.
 
@@ -220,13 +220,13 @@ The 2015 Regulations are amended in accordance with articles 9 to 12.
 
 > (3) For the purposes of this regulation and regulation 19ZA, a specified qualification means a qualification listed in Part 1 of Schedule 6.
 
-**11.**[^key-3f63ea2813f6d7f2e02d5eb88235d11c] After regulation 19 of the 2015 Regulations, insert —
+**11.**[^c-3f63ea2813f6d7f2e02d5eb88235d11c] After regulation 19 of the 2015 Regulations, insert —
 
 > **19ZA. Council to review list of specified qualifications**
 >
 > The Council must review the list of specified qualifications and report to the Welsh Ministers on an annual basis any amendments which it considers may be required.
 
-**12.**[^key-ff33dd867fdf82f66d3ffe90662ad511] After Schedule 5 to the 2015 Regulations insert—
+**12.**[^c-ff33dd867fdf82f66d3ffe90662ad511] After Schedule 5 to the 2015 Regulations insert—
 
 > **SCHEDULE 6 — Further education teachers**
 >
@@ -514,7 +514,7 @@ The 2015 Regulations are amended in accordance with articles 9 to 12.
 
 ## PART 6 — Amendments to the 2017 Regulations
 
-### 13. Amendments to the 2017 Regulations[^key-09ace6c010754a1f92a3642839438c38]
+### 13. Amendments to the 2017 Regulations[^c-09ace6c010754a1f92a3642839438c38]
 
 In regulation 4 of the 2017 Regulations, after paragraph (1)(k) insert—
 
@@ -523,7 +523,7 @@ In regulation 4 of the 2017 Regulations, after paragraph (1)(k) insert—
 
 ## PART 7 — Amendments to the 2023 Regulations
 
-### 14. Amendments to the 2023 Regulations[^key-4ec782975a529b1c9a4cb2c13e6013b1]
+### 14. Amendments to the 2023 Regulations[^c-4ec782975a529b1c9a4cb2c13e6013b1]
 
 In Schedule 1 to the 2023 Regulations—
 
@@ -548,9 +548,9 @@ article 4(3)(a)
 
 ### PART 1 — Qualifications
 
-**1.**[^key-622fd57e6ec74a9e035915a30cc1c8e0] A qualification specified as further education teacher qualifications in Schedule 6 to the 2015 Regulations.
+**1.**[^c-622fd57e6ec74a9e035915a30cc1c8e0] A qualification specified as further education teacher qualifications in Schedule 6 to the 2015 Regulations.
 
-**2.**[^key-fcb0eb00f9878fee715765d98b5357db] A qualification in the following table.
+**2.**[^c-fcb0eb00f9878fee715765d98b5357db] A qualification in the following table.
 
 | **Qualifications** | **Awarding body** |
 | --- | --- |
@@ -602,7 +602,7 @@ article 4(3)(a)
 
 ### PART 2 — Alternative Requirement
 
-**3.**[^key-706268c7a59d35a382289d9002ed033d] A person meets the alternative requirement if that person is, as respects the profession of adult learning practitioner, entitled to practice pursuant to the 2023 Regulations.
+**3.**[^c-706268c7a59d35a382289d9002ed033d] A person meets the alternative requirement if that person is, as respects the profession of adult learning practitioner, entitled to practice pursuant to the 2023 Regulations.
 
 EXPLANATORY NOTE
 
@@ -642,9 +642,9 @@ The Welsh Ministers’ code of practice on the carrying out of regulatory impact
 
 [^f00005]: Footnote: The reference in section 47(2) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-97e82f9fe0be1956e4f06d39b4788ce7]: Commencement: Art. 1 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-97e82f9fe0be1956e4f06d39b4788ce7]: Commencement: Art. 1 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-a7a6c51c0405d42d8e73b5409db9c5d7]: Commencement: Art. 2 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-a7a6c51c0405d42d8e73b5409db9c5d7]: Commencement: Art. 2 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
 [^f00006]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -662,9 +662,9 @@ The Welsh Ministers’ code of practice on the carrying out of regulatory impact
 
 [^f00013]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-0b51438c5fa23b1b5275094db6531325]: Commencement: Art. 3 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-0b51438c5fa23b1b5275094db6531325]: Commencement: Art. 3 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-8f65935371b6dd4844107708dbb1bcd0]: Commencement: Art. 4 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-8f65935371b6dd4844107708dbb1bcd0]: Commencement: Art. 4 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
 [^f00014]: Footnote: Sections 71 and 73 were substituted by Part 1 of Schedule 4 to the Employment Relations Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29). Section 71 was amended by paragraph 31, and section 73 by paragraph 32, of Schedule 1 to the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18) and both sections were amended by section 17 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22). Section 71 was further amended by section 118(1), (2)(a) and (b) of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6). Section 73 was further amended by section 118(1), (3)(a), (b) and (c) of the Children and Families Act 2014.
 
@@ -676,19 +676,19 @@ The Welsh Ministers’ code of practice on the carrying out of regulatory impact
 
 [^f00018]: Footnote: Sections 75E and 75G were inserted into the Employment Rights Act [1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18) by section 117(1) of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6). Section 75G was amended by regulation 146(a) and (b) of [S.I. 2016/413 (W. 131)](https://www.legislation.gov.uk/wsi/2016/413).
 
-[^key-6ddcedf1972791d14c30616e45c920aa]: Textual amendment: Word in art. 4(5)(a)(v) omitted (19.3.2026) by virtue of [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [5(1)(a)(i)](https://www.legislation.gov.uk/wsi/2026/51/regulation/5/1/a/i)
+[^c-6ddcedf1972791d14c30616e45c920aa]: Textual amendment: Word in art. 4(5)(a)(v) omitted (19.3.2026) by virtue of [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [5(1)(a)(i)](https://www.legislation.gov.uk/wsi/2026/51/regulation/5/1/a/i)
 
 [^f00019]: Footnote: Section 80EA was inserted by paragraph 2 of Part 1 of the Schedule to the Parental Bereavement (Leave and Pay) Act [2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24).
 
-[^key-d2f993111161d3965d7f4cf2cd5e26cb]: Textual amendment: Art. 4(5)(a)(vii) inserted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [5(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/51/regulation/5/1/a/ii)
+[^c-d2f993111161d3965d7f4cf2cd5e26cb]: Textual amendment: Art. 4(5)(a)(vii) inserted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [5(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/51/regulation/5/1/a/ii)
 
-[^key-52b8b85fbf2894c647e1a5ddefc88b2a]: Textual amendment: Words in art. 4(5)(b) substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/wsi/2026/51/regulation/5/1/b)
+[^c-52b8b85fbf2894c647e1a5ddefc88b2a]: Textual amendment: Words in art. 4(5)(b) substituted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/wsi/2026/51/regulation/5/1/b)
 
-[^key-eb67d74b7f8a02c8f91c0e0e4cbc27b6]: Textual amendment: Art. 4(5)(c) inserted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [5(1)(c)](https://www.legislation.gov.uk/wsi/2026/51/regulation/5/1/c)
+[^c-eb67d74b7f8a02c8f91c0e0e4cbc27b6]: Textual amendment: Art. 4(5)(c) inserted (19.3.2026) by [The Education Workforce Council (Further Education Teacher Qualifications, Periods of Absence from Work and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/51)](https://www.legislation.gov.uk/wsi/2026/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/51/regulation/1/2), [5(1)(c)](https://www.legislation.gov.uk/wsi/2026/51/regulation/5/1/c)
 
-[^key-50e8e436832d24a35f34349202650cfa]: Commencement: Art. 5 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-50e8e436832d24a35f34349202650cfa]: Commencement: Art. 5 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-b3791646e0288846c91e730d79e205b5]: Commencement: Art. 6 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-b3791646e0288846c91e730d79e205b5]: Commencement: Art. 6 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
 [^f00020]: Footnote: Established under section 1 of the Tertiary Education and Research (Wales) Act [2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1).
 
@@ -696,13 +696,13 @@ The Welsh Ministers’ code of practice on the carrying out of regulatory impact
 
 [^f00022]: Footnote: [1992 c. 31](https://www.legislation.gov.uk/ukpga/1992/31).
 
-[^key-b790c847c80e7d3188ea657ac8ca2413]: Commencement: Art. 7 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-b790c847c80e7d3188ea657ac8ca2413]: Commencement: Art. 7 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-1ca8051a8b1b686731b1df968f8ec792]: Commencement: Art. 8 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-1ca8051a8b1b686731b1df968f8ec792]: Commencement: Art. 8 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-02a10324a3f69337ba61d3bc96b95f67]: Commencement: Art. 9 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-02a10324a3f69337ba61d3bc96b95f67]: Commencement: Art. 9 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-73aa5bb3a3178102a608459635498707]: Commencement: Art. 10 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-73aa5bb3a3178102a608459635498707]: Commencement: Art. 10 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
 [^f00023]: Footnote: Sections 71 and 73 were substituted by Part 1 of Schedule 4 to the Employment Relations Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29). Section 71 was amended by paragraph 31, and section 73 by paragraph 32, of Schedule 1 to the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18) and both sections were amended by section 17 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22). Section 71 was further amended by section 118(1), (2)(a) and (b) of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6). Section 73 was further amended by section 118(1), (3)(a), (b) and (c) of the Children and Families Act 2014.
 
@@ -716,20 +716,20 @@ The Welsh Ministers’ code of practice on the carrying out of regulatory impact
 
 [^f00028]: Footnote: Section 80EA was inserted by paragraph 2 of Part 1 of the Schedule to the Parental Bereavement (Leave and Pay) Act [2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24).
 
-[^key-3f63ea2813f6d7f2e02d5eb88235d11c]: Commencement: Art. 11 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-3f63ea2813f6d7f2e02d5eb88235d11c]: Commencement: Art. 11 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-ff33dd867fdf82f66d3ffe90662ad511]: Commencement: Art. 12 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-ff33dd867fdf82f66d3ffe90662ad511]: Commencement: Art. 12 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-09ace6c010754a1f92a3642839438c38]: Commencement: Art. 13 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-09ace6c010754a1f92a3642839438c38]: Commencement: Art. 13 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
 [^f00029]: Footnote: As defined in the entry for adult learning practitioner in Table 1 in Schedule 2 to the 2014 Act.
 
 [^f00030]: Footnote: As defined in the entry for principal or senior leader in further education in Table 1 in Schedule 2 to the 2014 Act.
 
-[^key-4ec782975a529b1c9a4cb2c13e6013b1]: Commencement: Art. 14 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-4ec782975a529b1c9a4cb2c13e6013b1]: Commencement: Art. 14 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-622fd57e6ec74a9e035915a30cc1c8e0]: Commencement: Sch. para. 1 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-622fd57e6ec74a9e035915a30cc1c8e0]: Commencement: Sch. para. 1 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-fcb0eb00f9878fee715765d98b5357db]: Commencement: Sch. para. 2 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-fcb0eb00f9878fee715765d98b5357db]: Commencement: Sch. para. 2 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
 
-[^key-706268c7a59d35a382289d9002ed033d]: Commencement: Sch. para. 3 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)
+[^c-706268c7a59d35a382289d9002ed033d]: Commencement: Sch. para. 3 in force at 10.5.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2)

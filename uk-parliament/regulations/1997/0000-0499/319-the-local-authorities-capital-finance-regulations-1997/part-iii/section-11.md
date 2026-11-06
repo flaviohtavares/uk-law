@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Expenditure required to be charged to a revenue account[^key-ff7d414b0ce2ad6fad657314383547a1]
+## 11. Expenditure required to be charged to a revenue account[^c-ff7d414b0ce2ad6fad657314383547a1]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ Expenditure in respect of which a local authority have made a determination unde
 
 ## Annotations
 
-[^key-ff7d414b0ce2ad6fad657314383547a1]: Commencement: Reg. 11 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ff7d414b0ce2ad6fad657314383547a1]: Commencement: Reg. 11 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00005]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). Section 516 was amended by section 132(5) of the Local Government and Housing Act 1989, and repealed by section 194(4) of, and Part II of Schedule 12 to, that Act, subject to the savings contained in paragraph 2 of the Schedule to the Local Government and Housing Act 1989 (Commencement No. 8 and Transitional Provisions) Order 1990 ([S.I. 1990/1274 (c. 36)](https://www.legislation.gov.uk/uksi/1990/1274)).

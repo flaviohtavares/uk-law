@@ -47,21 +47,21 @@ The Welsh Ministers are designated [^c23894231] for the purposes of section 2(2)
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and section 111(4) and (11) of the Environmental Protection Act 1990 [^c23894251], having consulted the Food Standards Agency in accordance with section 126(5) of that Act.
 
-## 1. Title, commencement and application[^key-980fd38ef822abf9097fdfd5c49ad68d]
+## 1. Title, commencement and application[^c-980fd38ef822abf9097fdfd5c49ad68d]
 
 (1) The title of these Regulations is the Genetically Modified Organisms (Deliberate Release) (Amendment) (Wales) Regulations 2019.
 
 (2) These Regulations come into force on 30 October 2019.
 
-## 2. Amendment of the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002[^key-59fe8bd9045a1d237c515c34f64e2de8]
+## 2. Amendment of the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002[^c-59fe8bd9045a1d237c515c34f64e2de8]
 
 The Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002 [^c23894261] are amended in accordance with regulations 3 to 8.
 
-## 3. Amendment of regulation 2[^key-4e41329599b21585ac909b4b3f52c142]
+## 3. Amendment of regulation 2[^c-4e41329599b21585ac909b4b3f52c142]
 
 In regulation 2 (interpretation), in the definition of “the Deliberate Release Directive” for the text from “2015/412 of the European” to “in their territory” substitute “ 2018/350 amending Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) of the European Parliament and of the Council as regards the environmental risk assessment of genetically modified organisms [^c23894271] ”.
 
-## 4. Amendment of regulation 12[^key-f5117ea162a71104c7695feb92fed026]
+## 4. Amendment of regulation 12[^c-f5117ea162a71104c7695feb92fed026]
 
 In regulation 12 (information to be contained in application for consent to release)—
 
@@ -79,7 +79,7 @@ In regulation 12 (information to be contained in application for consent to rele
 
   .
 
-## 5. Amendment of regulation 17[^key-c4daa067cd6e7005082be07f5ded084d]
+## 5. Amendment of regulation 17[^c-c4daa067cd6e7005082be07f5ded084d]
 
 In regulation 17 (application for consent to market)—
 
@@ -100,7 +100,7 @@ In regulation 17 (application for consent to market)—
 
   .
 
-## 6. Amendment of Schedule 1[^key-a4a85ee4bcc64a4dce8715991ee9af44]
+## 6. Amendment of Schedule 1[^c-a4a85ee4bcc64a4dce8715991ee9af44]
 
 (1) Schedule 1 (information to be included in applications for consent to release or market genetically modified higher plants) is amended as follows.
 
@@ -166,7 +166,7 @@ In regulation 17 (application for consent to market)—
 
 .
 
-## 7. Insertion of Schedule 1A[^key-5631a224b5db102316a2b8c96b9034a8]
+## 7. Insertion of Schedule 1A[^c-5631a224b5db102316a2b8c96b9034a8]
 
 After Schedule 1 insert—
 
@@ -248,7 +248,7 @@ After Schedule 1 insert—
 >
 > - (a) information on the developmental expression of the inserted or modified DNA during the lifecycle of the plant and methods used for its characterisation,
 > - (b) the parts of the plant where the insert is expressed, such as roots, stem or pollen,
-> - (c) the potential unintended expression of a new ORF (which has the meaning given in paragraph 14(2)), which has resulted from the insertion or deletion of genetic material into a known gene (as identified under paragraph 14(1)(g)[^key-5e684aed355896ff5d8fa6f97593d2bf]) and which raises a safety concern,
+> - (c) the potential unintended expression of a new ORF (which has the meaning given in paragraph 14(2)), which has resulted from the insertion or deletion of genetic material into a known gene (as identified under paragraph 14(1)(g)[^c-5e684aed355896ff5d8fa6f97593d2bf]) and which raises a safety concern,
 > - (d) protein expression data from genetically modified plants grown under field conditions.
 >
 > **16.** The genetic stability of the insert and phenotypic stability of the genetically modified plant.
@@ -329,7 +329,7 @@ After Schedule 1 insert—
 
 .
 
-## 8. Amendment of Schedule 3[^key-5cfac243f96d43271c9e6282cb5c6809]
+## 8. Amendment of Schedule 3[^c-5cfac243f96d43271c9e6282cb5c6809]
 
 In Schedule 3 (information to be included in an application for consent to market genetically modified organisms), for paragraph 7 substitute—
 
@@ -345,7 +345,7 @@ In Schedule 3 (information to be included in an application for consent to marke
 
 .
 
-## 9. Amendment of the Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^key-5c21ac6f4dd6b9cee42043f4b9b2f263]
+## 9. Amendment of the Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^c-5c21ac6f4dd6b9cee42043f4b9b2f263]
 
 In the Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 [^c23894281] omit regulation 3(18)(c).
 
@@ -375,28 +375,28 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23894251]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Subsection (11) defines “prescribed”. Section 126 was substituted by paragraph 18 of Schedule 3 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28). The functions of the Secretary of State under these provisions were transferred to the National Assembly for Wales under Article 2 of, and Schedule 1 to, the [National Assembly for Wales (Transfer of Function) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672). By virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006 these functions were then further transferred to the Welsh Ministers.
 
-[^key-980fd38ef822abf9097fdfd5c49ad68d]: Commencement: Reg. 1 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
+[^c-980fd38ef822abf9097fdfd5c49ad68d]: Commencement: Reg. 1 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
 
-[^key-59fe8bd9045a1d237c515c34f64e2de8]: Commencement: Reg. 2 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
+[^c-59fe8bd9045a1d237c515c34f64e2de8]: Commencement: Reg. 2 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
 
 [^c23894261]: Marginal citation: [S.I. 2002/3188](https://www.legislation.gov.uk/uksi/2002/3188) (W. 304), as amended by [S.I. 2019/463](https://www.legislation.gov.uk/uksi/2019/463) (W. 111). [S.I. 2002/3188](https://www.legislation.gov.uk/uksi/2002/3188) is also amended by [S.I. 2019/379](https://www.legislation.gov.uk/uksi/2019/379) with effect from exit day; there are other amendments but none is relevant.
 
-[^key-4e41329599b21585ac909b4b3f52c142]: Commencement: Reg. 3 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
+[^c-4e41329599b21585ac909b4b3f52c142]: Commencement: Reg. 3 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
 
 [^c23894271]: Marginal citation: O.J. No L 67, 9.3.2018, p. 30.
 
-[^key-f5117ea162a71104c7695feb92fed026]: Commencement: Reg. 4 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
+[^c-f5117ea162a71104c7695feb92fed026]: Commencement: Reg. 4 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
 
-[^key-c4daa067cd6e7005082be07f5ded084d]: Commencement: Reg. 5 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
+[^c-c4daa067cd6e7005082be07f5ded084d]: Commencement: Reg. 5 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
 
-[^key-a4a85ee4bcc64a4dce8715991ee9af44]: Commencement: Reg. 6 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
+[^c-a4a85ee4bcc64a4dce8715991ee9af44]: Commencement: Reg. 6 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
 
-[^key-5631a224b5db102316a2b8c96b9034a8]: Commencement: Reg. 7 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
+[^c-5631a224b5db102316a2b8c96b9034a8]: Commencement: Reg. 7 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
 
-[^key-5e684aed355896ff5d8fa6f97593d2bf]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2019/1316/regulation/7) substituted (30.10.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1407)](https://www.legislation.gov.uk/wsi/2019/1407), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1407/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2019/1407/regulation/4/b)
+[^c-5e684aed355896ff5d8fa6f97593d2bf]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2019/1316/regulation/7) substituted (30.10.2019) by [The Genetically Modified Organisms (Deliberate Release) (Amendment) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1407)](https://www.legislation.gov.uk/wsi/2019/1407), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1407/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2019/1407/regulation/4/b)
 
-[^key-5cfac243f96d43271c9e6282cb5c6809]: Commencement: Reg. 8 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
+[^c-5cfac243f96d43271c9e6282cb5c6809]: Commencement: Reg. 8 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
 
-[^key-5c21ac6f4dd6b9cee42043f4b9b2f263]: Commencement: Reg. 9 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
+[^c-5c21ac6f4dd6b9cee42043f4b9b2f263]: Commencement: Reg. 9 in force at 30.10.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1316/regulation/1/2)
 
 [^c23894281]: Marginal citation: [S.I. 2019/379](https://www.legislation.gov.uk/uksi/2019/379) (W. 94).

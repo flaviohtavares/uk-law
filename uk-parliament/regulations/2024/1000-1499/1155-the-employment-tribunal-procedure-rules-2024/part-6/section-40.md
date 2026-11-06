@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Deposit orders[^key-4722dfa698ff12bf7780f7ab75a70f04]
+## 40. Deposit orders[^c-4722dfa698ff12bf7780f7ab75a70f04]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ otherwise the deposit must be refunded.
 
 ## Annotations
 
-[^key-4722dfa698ff12bf7780f7ab75a70f04]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2024/1155/rule/40) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-4722dfa698ff12bf7780f7ab75a70f04]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2024/1155/rule/40) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 120. Power to dissolve the Local Government Staff Commission for Northern Ireland[^key-75b7c3713996cbfe52e03b44803dd4b0]
+## 120. Power to dissolve the Local Government Staff Commission for Northern Ireland[^c-75b7c3713996cbfe52e03b44803dd4b0]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ In section 40 of the Local Government Act (Northern Ireland) 1972 (Staff Commiss
 
 ## Annotations
 
-[^key-75b7c3713996cbfe52e03b44803dd4b0]: Commencement: [S. 120](https://www.legislation.gov.uk/nia/2014/8/section/120) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-75b7c3713996cbfe52e03b44803dd4b0]: Commencement: [S. 120](https://www.legislation.gov.uk/nia/2014/8/section/120) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

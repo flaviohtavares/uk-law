@@ -48,9 +48,9 @@ Coming into force
 
 The Secretary of State is designated[^f00001] for the purposes of making Regulations under section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment.
 
-It appears to the Secretary of State that it is expedient for any reference to Annex 1, 3, 4 or 5 of Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council of 17th June 2008 establishing a framework for Community action in the field of marine environmental policy[^f00003] to be construed as a reference to that Annex as amended from time to time.[^key-aa493f31e3fa58668f3d373e3d56544a]
+It appears to the Secretary of State that it is expedient for any reference to Annex 1, 3, 4 or 5 of Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council of 17th June 2008 establishing a framework for Community action in the field of marine environmental policy[^f00003] to be construed as a reference to that Annex as amended from time to time.[^c-aa493f31e3fa58668f3d373e3d56544a]
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by that section, and by paragraph (1A) of Schedule 2 to the European Communities Act 1972.[^key-aa493f31e3fa58668f3d373e3d56544a]
+The Secretary of State makes these Regulations in exercise of the powers conferred by that section, and by paragraph (1A) of Schedule 2 to the European Communities Act 1972.[^c-aa493f31e3fa58668f3d373e3d56544a]
 
 ## PART 1 — Preliminary and interpretation
 
@@ -66,19 +66,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 - “baseline” means the baseline from which the breadth of the territorial sea is measured;
 - “coastal water” has the meaning given by the Water Framework Directive (set out in Part 3 of Schedule 1);
-- [^key-253992d0f0258aa683dfdbd392ae2cbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-253992d0f0258aa683dfdbd392ae2cbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “competent authority” means—
   - (a) in relation to the Scottish inshore region and the Scottish offshore region, the Scottish Ministers;
-  - (b) in relation to the Welsh inshore region and the Welsh offshore region[^key-b0e5218301fd2422ea0b7e695acafedb] , the Welsh Ministers;
-  - (c) in relation to the Northern Ireland inshore region, the Department of Agriculture, Environment and Rural Affairs[^key-c00b86fea2847f95e892872dbf9fc779] in Northern Ireland;
+  - (b) in relation to the Welsh inshore region and the Welsh offshore region[^c-b0e5218301fd2422ea0b7e695acafedb] , the Welsh Ministers;
+  - (c) in relation to the Northern Ireland inshore region, the Department of Agriculture, Environment and Rural Affairs[^c-c00b86fea2847f95e892872dbf9fc779] in Northern Ireland;
   - (d) in relation to all other areas within the marine strategy area, the Secretary of State;
 - “Counsel General” has the same meaning as in the Government of Wales Act 2006[^f00004];
 - “devolved function”, in relation to the marine strategy area, means any function which is not a retained function as respects that area;
 - “devolved marine area” means—
   - (a) in relation to any function exercisable by the Scottish Ministers, the Scottish inshore region and the Scottish offshore region,
-  - (b) in relation to any function exercisable by the Welsh Ministers, the Welsh inshore region and the Welsh offshore region[^key-2f5ca2b70583715d5002a9b9e6522d66] , and
-  - (c) in relation to any function exercisable by the Department of Agriculture, Environment and Rural Affairs[^key-0e1d6ba01acac8a13038f7759d442cc7] in Northern Ireland, the Northern Ireland inshore region;
-- “devolved policy authority” means the Scottish Ministers, the Welsh Ministers or[^key-c878fc29a728c74010e310a3358191f5] the Department of Agriculture, Environment and Rural Affairs”[^key-e52d9990911ff1155375ec6425d33288] in Northern Ireland;
+  - (b) in relation to any function exercisable by the Welsh Ministers, the Welsh inshore region and the Welsh offshore region[^c-2f5ca2b70583715d5002a9b9e6522d66] , and
+  - (c) in relation to any function exercisable by the Department of Agriculture, Environment and Rural Affairs[^c-0e1d6ba01acac8a13038f7759d442cc7] in Northern Ireland, the Northern Ireland inshore region;
+- “devolved policy authority” means the Scottish Ministers, the Welsh Ministers or[^c-c878fc29a728c74010e310a3358191f5] the Department of Agriculture, Environment and Rural Affairs”[^c-e52d9990911ff1155375ec6425d33288] in Northern Ireland;
 - “the Directive” means Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council of 17th June 2008 establishing a framework for Community action in the field of marine environmental policy[^f00005];
 - “enactment” includes any Act of the Scottish Parliament, Northern Ireland legislation, any Act or Measure of the National Assembly for Wales and subordinate legislation, and for this purpose “subordinate legislation” means Orders in Council, orders, rules, regulations, schemes, warrants, byelaws and other instruments made or to be made under any Act or under any Act of the Scottish Parliament, Northern Ireland legislation or under any Act or Measure of the National Assembly for Wales;
 - “First Minister”, other than in relation to Northern Ireland, has the same meaning as in the Government of Wales Act 2006;
@@ -91,7 +91,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “marine strategy” has the meaning given by Part 2 of Schedule 1;
 - “the marine strategy area” has the meaning given by regulation 3;
 - “marine waters” has the meaning given by regulation 3(3);
-- “Northern Ireland body” means the Foyle, Carlingford and Irish Lights Commission[^f00007] and the following Departments in Northern Ireland: the Department for the Economy and the Department for Infrastructure[^key-0960a30327118c04b98c9b21b1739a38] ;
+- “Northern Ireland body” means the Foyle, Carlingford and Irish Lights Commission[^f00007] and the following Departments in Northern Ireland: the Department for the Economy and the Department for Infrastructure[^c-0960a30327118c04b98c9b21b1739a38] ;
 - “Northern Ireland inshore region” means the area of sea within the seaward limits of the territorial sea adjacent to Northern Ireland;
 - “Northern Ireland Minister” has the same meaning as in the Northern Ireland Act 1998[^f00008], but includes a reference to the First Minister and the deputy First Minister, within the meaning of that Act;
 - “Northern Ireland offshore region” means so much of the Northern Ireland zone as lies beyond the seaward limits of the territorial sea;
@@ -141,7 +141,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   other than any function in relation to which functions are exercisable by a Minister of the Crown or government department[^f00014];
 - “statutory undertaker” means a person who is, or is deemed to be, a statutory undertaker for the purposes of any provision of Part 11 of the Town and Country Planning Act 1990[^f00015], Part 10 of the Town and Country Planning (Scotland) Act 1997[^f00016] or the Planning (Northern Ireland) Order 1991[^f00017];
 - “transitional waters” has the meaning given by the Water Framework Directive (set out in Part 3 of Schedule 1);
-- “Water Framework Directive” means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of Council of 23rd October 2000 establishing a framework for Community action in the field of water policy, as last amended by Commission[^key-c7bf2b95631a85ac8d32ae83b295630c] [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101);
+- “Water Framework Directive” means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of Council of 23rd October 2000 establishing a framework for Community action in the field of water policy, as last amended by Commission[^c-c7bf2b95631a85ac8d32ae83b295630c] [Directive 2014/101/EU](https://www.legislation.gov.uk/european/directive/2014/0101);
 - “Welsh inshore region” means the area of sea within the seaward limits of the territorial sea adjacent to Wales;
 - “Welsh offshore region” means so much of the Welsh zone as lies beyond the seaward limits of the territorial sea;
 - “Welsh public authority” means any public authority so far as exercising functions in relation to which functions are exercisable by the Welsh Ministers, the First Minister or the Counsel General; and
@@ -151,14 +151,14 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) References in these Regulations to an Annex or an Article are to an Annex to, or an Article of, the Directive, unless otherwise specified.
 
-(4) References in these Regulations to Annex 1, 3, 4 or 5 are references to that Annex as it had effect immediately before exit day[^key-66eba6925e94fdf3e5128968b9a5273c].
+(4) References in these Regulations to Annex 1, 3, 4 or 5 are references to that Annex as it had effect immediately before exit day[^c-66eba6925e94fdf3e5128968b9a5273c].
 
-(5)[^key-aab97e6c341041473d75e8cb047b3015] For the purposes of any reference to an Article or an Annex of the Directive, the Article or Annex is to be read—
+(5)[^c-aab97e6c341041473d75e8cb047b3015] For the purposes of any reference to an Article or an Annex of the Directive, the Article or Annex is to be read—
 
 - (a) subject to the modifications specified in Schedule 3; and
 - (b) as if—
   - (i) references to “Member State” or “Member States” (except in Articles 20 to 22) included a reference to the United Kingdom; and
-  - (ii) references to “Community legislation” or “existing Community legislation” were, in relation to the United Kingdom, references to assimilated[^key-7b1c32fb538a2ed771894cddd84d0fb2] law.
+  - (ii) references to “Community legislation” or “existing Community legislation” were, in relation to the United Kingdom, references to assimilated[^c-7b1c32fb538a2ed771894cddd84d0fb2] law.
 
 (6) Any reference in these Regulations to “the requirements of the Directive” is a reference to the requirements of the Directive in so far as any such requirements are not reflected in any provision of these Regulations or by Commission Decision (EU) 2017/848 laying down criteria and methodological standards on good environmental status of marine waters and specifications and standardised methods for monitoring and assessment, and read—
 
@@ -191,7 +191,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ### 5. Functions of the Secretary of State in the development of the marine strategy
 
-(1) The Secretary of State must, in accordance with the requirements of Commission Decision ([^key-85a8601bdb50ef542c1dd7c1fb995fd3]EU) 2017/848, develop a marine strategy for the marine strategy area in order to—
+(1) The Secretary of State must, in accordance with the requirements of Commission Decision ([^c-85a8601bdb50ef542c1dd7c1fb995fd3]EU) 2017/848, develop a marine strategy for the marine strategy area in order to—
 
 - (a) protect and preserve the marine environment, prevent its deterioration or, where practicable, restore marine ecosystems in areas where they have been adversely affected; and
 - (b) prevent and reduce inputs into the marine environment, with a view to phasing out pollution, so as to ensure they do not give rise to any significant impacts on or risks to marine biodiversity, marine ecosystems, human health or legitimate uses of the sea.
@@ -217,7 +217,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   - (i) the assessment of marine waters for the devolved marine area;
   - (ii) the determination of the characteristics of good environmental status for any area within the devolved marine area which is distinct as regards its hydrological, oceanographic and biogeographic features; and
   - (iii) the development of environmental targets and indicators for any area within the devolved marine area which is distinct as regards its hydrological, oceanographic and biogeographic features; and
-- (c) such other information as the Secretary of State may reasonably require for the purpose of securing compliance with the requirements of[^key-25e0888eedd4840943f51730ad54bc95] the Directive.
+- (c) such other information as the Secretary of State may reasonably require for the purpose of securing compliance with the requirements of[^c-25e0888eedd4840943f51730ad54bc95] the Directive.
 
 (2) The information required under paragraph (1) must be sent to the Secretary of State by such date as the Secretary of State may direct.
 
@@ -227,18 +227,18 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (2) A devolved policy authority must obtain the consent of the Secretary of State for inclusion within the proposals required by regulation 6(1)(a) of any proposal which affects or is likely to affect the exercise of any retained function.
 
-(3)[^key-f911c1d2e66a4a02e24b7b621eaf1bf2] Before adopting or revising any element of the marine strategy which affects or is likely to affect the exercise of any devolved function, the Secretary of State must obtain the consent of the relevant devolved policy authority.
+(3)[^c-f911c1d2e66a4a02e24b7b621eaf1bf2] Before adopting or revising any element of the marine strategy which affects or is likely to affect the exercise of any devolved function, the Secretary of State must obtain the consent of the relevant devolved policy authority.
 
 ### 8. Cooperation in implementation of the marine strategy
 
 (1) The devolved policy authorities and the Secretary of State must co-operate in exercising any relevant function in relation to the implementation of the marine strategy in the marine strategy area including, in particular—
 
-- (a) in relation to the exercise of any relevant function of the Secretary of State in respect of any activity carried out within the Scottish inshore region, the Scottish offshore region, the Northern Ireland inshore region , the Welsh inshore region or the Welsh offshore region[^key-fdc1e65d2119c4f49cbdbaa8e5d60fbc] ; and
-- (b) in relation to the exercise of any relevant function of the Department of Agriculture, Environment and Rural Affairs in Northern Ireland or a[^key-9408fe297aa2bc09f17fef85fc2acead] Northern Ireland body in respect of any activity carried out within the Northern Ireland offshore region [^key-e2f0aceb970318724b56b340115409da]....
+- (a) in relation to the exercise of any relevant function of the Secretary of State in respect of any activity carried out within the Scottish inshore region, the Scottish offshore region, the Northern Ireland inshore region , the Welsh inshore region or the Welsh offshore region[^c-fdc1e65d2119c4f49cbdbaa8e5d60fbc] ; and
+- (b) in relation to the exercise of any relevant function of the Department of Agriculture, Environment and Rural Affairs in Northern Ireland or a[^c-9408fe297aa2bc09f17fef85fc2acead] Northern Ireland body in respect of any activity carried out within the Northern Ireland offshore region [^c-e2f0aceb970318724b56b340115409da]....
 
-(2) A devolved policy authority must obtain the consent of the Secretary of State before it exercises any relevant function for the purpose of giving effect to the requirements of[^key-673c9e33e345a1e0b3f9afde2f7004c1] the Directive, where the exercise of that function relates to any activity which affects or is likely to affect the exercise of any retained function.
+(2) A devolved policy authority must obtain the consent of the Secretary of State before it exercises any relevant function for the purpose of giving effect to the requirements of[^c-673c9e33e345a1e0b3f9afde2f7004c1] the Directive, where the exercise of that function relates to any activity which affects or is likely to affect the exercise of any retained function.
 
-(3) The Secretary of State must obtain the consent of the relevant devolved policy authority before the Secretary of State exercises any relevant function for the purpose of giving effect to the requirements of[^key-55aca642454eafe7eae8e1883a66c9db] the Directive, where the exercise of that function relates to any activity which affects or is likely to affect the exercise of any devolved function.
+(3) The Secretary of State must obtain the consent of the relevant devolved policy authority before the Secretary of State exercises any relevant function for the purpose of giving effect to the requirements of[^c-55aca642454eafe7eae8e1883a66c9db] the Directive, where the exercise of that function relates to any activity which affects or is likely to affect the exercise of any devolved function.
 
 ### 9. Duty to have regard to the marine strategy
 
@@ -330,7 +330,7 @@ The Secretary of State, devolved policy authorities, each Northern Ireland body 
 
 (13) Nothing in paragraph (10) or (11) requires a review in response to a request unless the request is reasonable.
 
-(14)[^key-c63e71c3776fb5d47877a875724dca14] The competent authority must publish a report describing the progress made in implementing the programme of measures within 3 years of any update to that programme.
+(14)[^c-c63e71c3776fb5d47877a875724dca14] The competent authority must publish a report describing the progress made in implementing the programme of measures within 3 years of any update to that programme.
 
 ### 15. Exceptions
 
@@ -349,17 +349,17 @@ The Secretary of State, devolved policy authorities, each Northern Ireland body 
 (4) In respect of a case falling within paragraph (1) by virtue of sub-paragraph (b), (c) or (d) of paragraph (2), the competent authority must take such measures as it considers appropriate which aim—
 
 - (a) to make progress towards the environmental targets established under regulation 12 to prevent further deterioration of the status of the affected marine waters; and
-- (b) to mitigate the adverse impact of such a case at the level of the marine region or subregion or in the marine waters in relation to which [^key-9177ded6a39b2ae359997a3f02af36d5]... member States have or exercise jurisdictional rights.
+- (b) to mitigate the adverse impact of such a case at the level of the marine region or subregion or in the marine waters in relation to which [^c-9177ded6a39b2ae359997a3f02af36d5]... member States have or exercise jurisdictional rights.
 
 (5) Such measures must be integrated into the programme of measures, so far as practicable.
 
-(6) In respect of a case falling within paragraph (1) by virtue of sub-paragraph (d) of paragraph (2), the competent authority must ensure that the modifications and alterations do not permanently preclude or compromise the achievement of good environmental status at the level of the marine region or subregion or in the marine waters in relation to which [^key-47ed83886c0cc949ed2229b8b007ce14]... member States have or exercise jurisdictional rights.
+(6) In respect of a case falling within paragraph (1) by virtue of sub-paragraph (d) of paragraph (2), the competent authority must ensure that the modifications and alterations do not permanently preclude or compromise the achievement of good environmental status at the level of the marine region or subregion or in the marine waters in relation to which [^c-47ed83886c0cc949ed2229b8b007ce14]... member States have or exercise jurisdictional rights.
 
-(7) In identifying any case under paragraph (1), the competent authority must consider the consequences for [^key-7a8de9540b1e1275fb255646c3ce1d6a]... member States in the marine region or subregion concerned.
+(7) In identifying any case under paragraph (1), the competent authority must consider the consequences for [^c-7a8de9540b1e1275fb255646c3ce1d6a]... member States in the marine region or subregion concerned.
 
 (8) The competent authority must clearly identify such cases in the programme of measures.
 
-(9)[^key-5751b2b63951d359fae01ab1dd4aa75f] The competent authority must—
+(9)[^c-5751b2b63951d359fae01ab1dd4aa75f] The competent authority must—
 
 - (a) prepare a report setting out the justification for any such cases identified; and
 - (b) publish that report as soon as reasonably practicable in a form accessible to the public.
@@ -373,7 +373,7 @@ provided that the omission to take those steps does not result in deterioration 
 
 (11) Where the competent authority relies on either exception under paragraph (10)—
 
-- (a)[^key-018c2fcd596509abf9cbfefe2d65899f] the competent authority must—
+- (a)[^c-018c2fcd596509abf9cbfefe2d65899f] the competent authority must—
   - (i) prepare a report setting out the necessary justification; and
   - (ii) publish that report as soon as reasonably practicable in a form accessible to the public; and
 - (b) the competent authority must avoid the achievement of good environmental status being permanently compromised.
@@ -382,11 +382,11 @@ provided that the omission to take those steps does not result in deterioration 
 
 ### 16. Relationship with Water Framework Directive
 
-Nothing in these Regulations requires any action in coastal waters in so far as the objectives of the Directive are achieved by any enactment implementing the Water Framework Directive or by any provision of[^key-24619d29f1247256af710aba8fdb7416] assimilated[^key-a3dcaa9584606a53803cec3b981b98ca] law other than these Regulations.
+Nothing in these Regulations requires any action in coastal waters in so far as the objectives of the Directive are achieved by any enactment implementing the Water Framework Directive or by any provision of[^c-24619d29f1247256af710aba8fdb7416] assimilated[^c-a3dcaa9584606a53803cec3b981b98ca] law other than these Regulations.
 
 ## PART 4 — Procedural requirements
 
-### 17. Notification[^key-8937b2af75f139fcebdc3d04812cc48a]
+### 17. Notification[^c-8937b2af75f139fcebdc3d04812cc48a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -403,31 +403,31 @@ Nothing in these Regulations requires any action in coastal waters in so far as 
 - (b) determination of good environmental status required by regulation 11; or
 - (c) environmental targets and indicators required by regulation 12.
 
-(3) The competent authority , when consulting under paragraph (1), and the Secretary of State, when consulting under paragraph (2),[^key-74692dd4363b5da8b8e11f81446f8a9e] must—
+(3) The competent authority , when consulting under paragraph (1), and the Secretary of State, when consulting under paragraph (2),[^c-74692dd4363b5da8b8e11f81446f8a9e] must—
 
-- (a) inform the public as to the proposal[^key-8735eed84e9d3d87d73eb58b69e878ec], including a summary of the relevant element of the marine strategy mentioned in paragraph (1) or (2), any relevant background information, and the right of the public to participate in the relevant decision-making process;
+- (a) inform the public as to the proposal[^c-8735eed84e9d3d87d73eb58b69e878ec], including a summary of the relevant element of the marine strategy mentioned in paragraph (1) or (2), any relevant background information, and the right of the public to participate in the relevant decision-making process;
 - (b) specify the means by which the public can participate in the consultation, including an address for responses, and a reasonable timescale for the consultation; and
 - (c) take account of the consultation responses in making any relevant decision.
 
-(4) The competent authority or the Secretary of State, as the case may be,[^key-2f0deb6c1aed5d395070758d3af25929] must take such steps as they respectively[^key-5884fe3682aa018b479aa9e3a73e3848] consider appropriate to secure that the proposals contained in the consultation draft are brought to the attention of the public, including any persons appearing to the relevant authorities to be likely to be interested in, or affected by, the proposed policies.
+(4) The competent authority or the Secretary of State, as the case may be,[^c-2f0deb6c1aed5d395070758d3af25929] must take such steps as they respectively[^c-5884fe3682aa018b479aa9e3a73e3848] consider appropriate to secure that the proposals contained in the consultation draft are brought to the attention of the public, including any persons appearing to the relevant authorities to be likely to be interested in, or affected by, the proposed policies.
 
-(5) If the consultation under paragraph (1)[^key-2504fdc598e7911027ec7d74e313a67b] includes proposals relating to retained functions, it may be published only with the agreement of the Secretary of State.
+(5) If the consultation under paragraph (1)[^c-2504fdc598e7911027ec7d74e313a67b] includes proposals relating to retained functions, it may be published only with the agreement of the Secretary of State.
 
-(6) If the consultation under paragraph (1) or (2)[^key-a32784050942fc29064781d98394663c] includes proposals relating to devolved functions, it may be published only with the agreement of the relevant devolved policy authority.
+(6) If the consultation under paragraph (1) or (2)[^c-a32784050942fc29064781d98394663c] includes proposals relating to devolved functions, it may be published only with the agreement of the relevant devolved policy authority.
 
-(7) After taking any decision in relation to a proposal following a consultation on that proposal, the competent authority or the Secretary of State, as the case may be, must publish a report in respect of that decision, which must—[^key-34fa22228b91f4fb2331b843baecf071]
+(7) After taking any decision in relation to a proposal following a consultation on that proposal, the competent authority or the Secretary of State, as the case may be, must publish a report in respect of that decision, which must—[^c-34fa22228b91f4fb2331b843baecf071]
 
 - (a) inform the public of that decision;
 - (b) provide information as to the reasons and considerations on which that decision is based; and
 - (c) provide a statement of the steps taken by the competent authority, or the Secretary of State (as the case may be) to comply with paragraphs (1) to (4), as appropriate.
 
-(8) For the purpose of this regulation, “the public” includes the OSPAR Commission (the Commission established by Article 10 of the Convention for the Protection of the Marine Environment of the North-East Atlantic)[^key-1dac12e8bded7d94afc1bb802e3fdf63] and any other interested organ of an international organisation.
+(8) For the purpose of this regulation, “the public” includes the OSPAR Commission (the Commission established by Article 10 of the Convention for the Protection of the Marine Environment of the North-East Atlantic)[^c-1dac12e8bded7d94afc1bb802e3fdf63] and any other interested organ of an international organisation.
 
 ## PART 5 — Directions and guidance
 
-### 19. Directions to, and assistance from, public authorities[^key-1994fd2d87959dee50bbf8ec73d0ab81]
+### 19. Directions to, and assistance from, public authorities[^c-1994fd2d87959dee50bbf8ec73d0ab81]
 
-(1) The Secretary of State may give directions to any public authority for the purpose of giving effect to the requirements of[^key-7cfb9b7e90ef757ef1df219b69f2e840] the Directive.
+(1) The Secretary of State may give directions to any public authority for the purpose of giving effect to the requirements of[^c-7cfb9b7e90ef757ef1df219b69f2e840] the Directive.
 
 (2) But the Secretary of State may only give directions in respect of the Scottish inshore region, Scottish offshore region, Welsh inshore region, Welsh offshore region, Northern Ireland inshore region or Northern Ireland offshore region in relation to the exercise by a public authority of a retained function.
 
@@ -443,7 +443,7 @@ Nothing in these Regulations requires any action in coastal waters in so far as 
 
 (8) For the purpose of this regulation, a direction—
 
-- (a) may be of a general or specific character for the purpose of giving effect to the requirements of the[^key-2c4cd68640ce9b9fa8ed96a620683256] Directive; and
+- (a) may be of a general or specific character for the purpose of giving effect to the requirements of the[^c-2c4cd68640ce9b9fa8ed96a620683256] Directive; and
 - (b) without prejudice to the generality of sub-paragraph (a), may direct a public authority to exercise or not to exercise—
   - (i) specified powers;
   - (ii) its powers in specified circumstances; or
@@ -462,9 +462,9 @@ in connection with the exercise of any functions exercisable by a Northern Irela
 
 (12) The Department of the Environment in Northern Ireland must consult the relevant Northern Ireland body on proposals to prepare, modify or review any element of the marine strategy which may affect the functions of the relevant Northern Ireland body.
 
-### 20. Guidance[^key-60012551f303bdba0d5b0d8f8ce344a6]
+### 20. Guidance[^c-60012551f303bdba0d5b0d8f8ce344a6]
 
-(1) The Secretary of State may give guidance to any person with respect to the practical implementation of the requirements of the[^key-02cbc89398edcc2621ac72c5425f2a8b] Directive.
+(1) The Secretary of State may give guidance to any person with respect to the practical implementation of the requirements of the[^c-02cbc89398edcc2621ac72c5425f2a8b] Directive.
 
 (2) The Scottish Ministers may give guidance to any public authority in respect of the Scottish inshore region and Scottish offshore region in relation to the exercise by that public authority of secondary devolved Scottish functions.
 
@@ -479,7 +479,7 @@ in connection with the exercise of any functions exercisable by a Northern Irela
 
 (6) Any person to whom guidance is given under this regulation must have regard to it.
 
-## PART 6 — Powers to make regulations[^key-7df02932305065b4d037a1b95e32a874]
+## PART 6 — Powers to make regulations[^c-7df02932305065b4d037a1b95e32a874]
 
 ### 21. Power to lay down standardised methods for monitoring and assessment of the status of the marine environment
 
@@ -498,7 +498,7 @@ The Secretary of State may, by regulations, make provision laying down specifica
 - (a) requiring a reference to a relevant Annex to the Directive (or a reference which encompasses that Annex) to be read as a reference to that Annex with modifications;
 - (b) amending a provision which corresponds to that made by a relevant Annex.
 
-(3) Regulations under paragraph (1) may amend any subordinate legislation (which, for the purpose of this regulation, has the meaning given by section 20(1) of the European Union (Withdrawal) Act 2018) or assimilated direct[^key-185ae1556b67fb52815193ac80e0a0d2] legislation.
+(3) Regulations under paragraph (1) may amend any subordinate legislation (which, for the purpose of this regulation, has the meaning given by section 20(1) of the European Union (Withdrawal) Act 2018) or assimilated direct[^c-185ae1556b67fb52815193ac80e0a0d2] legislation.
 
 (4) The Secretary of State may only exercise the power in paragraph (1) to the extent that the Secretary of State considers it appropriate to do so as a result of scientific and technical progress.
 
@@ -550,7 +550,7 @@ The Secretary of State may, by regulations, make provision specifying standardis
 
 (3) Regulations made under this Part may—
 
-- (a) contain consequential, incidental, supplementary, transitional or saving provision (including provision amending, repealing or revoking enactments or assimilated direct[^key-33bdb2e334fafce1b14413ca5ae8c7b6] legislation);
+- (a) contain consequential, incidental, supplementary, transitional or saving provision (including provision amending, repealing or revoking enactments or assimilated direct[^c-33bdb2e334fafce1b14413ca5ae8c7b6] legislation);
 - (b) make different provision for different purposes.
 
 Richard Benyon
@@ -607,10 +607,10 @@ other than any function in relation to which functions are exercisable by a Mini
 
 **5.** The functions mentioned in paragraph 4(c) are—
 
-- (a)[^key-ef561d4308d0a31f7c93a742ee2b35c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-13d24822d3888944244da6ab55b0f9c5] functions under section 58 of the Scotland Act 1998 (international obligations);
+- (a)[^c-ef561d4308d0a31f7c93a742ee2b35c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-13d24822d3888944244da6ab55b0f9c5] functions under section 58 of the Scotland Act 1998 (international obligations);
 - (c) functions under section 26 or 27 of the Northern Ireland Act 1998[^f00026] (international obligations and quotas for international obligations);
-- (d) functions by virtue of section 80(3) of [^key-c6aaef1fd19961d3f4d0e58f0ef23b20]... the Government of Wales Act 2006[^f00027] ([^key-ca933a0b741e9ff1517bd565e1849cb6]assimilated[^key-4778da7f2277eb584de2878808583c18] obligations) or under section 82 of that Act (international obligations etc);
+- (d) functions by virtue of section 80(3) of [^c-c6aaef1fd19961d3f4d0e58f0ef23b20]... the Government of Wales Act 2006[^f00027] ([^c-ca933a0b741e9ff1517bd565e1849cb6]assimilated[^c-4778da7f2277eb584de2878808583c18] obligations) or under section 82 of that Act (international obligations etc);
 - (e) functions under section 152 of that Act (intervention in case of functions relating to water etc).
 
 ### PART 2 — Directive definitions
@@ -627,7 +627,7 @@ other than any function in relation to which functions are exercisable by a Mini
 - “marine region” means a sea region which is identified under Article 4. Marine regions and their subregions are designated for the purpose of facilitating implementation of this Directive and are determined taking into account hydrological, oceanographic and biogeographic features;
 - “marine strategy” means the strategy to be developed and implemented in respect of each marine region or subregion concerned as laid down in Article 5;
 - “pollution” means the direct or indirect introduction into the marine environment, as a result of human activity, of substances or energy, including human-induced marine underwater noise, which results or is likely to result in deleterious effects such as harm to living resources and marine ecosystems, including loss of biodiversity, hazards to human health, the hindering of marine activities, including fishing, tourism and recreation and other legitimate uses of the sea, impairment of the quality for use of sea water and reduction of amenities or, in general, impairment of the sustainable use of marine goods and services;
-- [^key-c0ef65b9299b480ce4ee4741c8ee8f4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-c0ef65b9299b480ce4ee4741c8ee8f4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Water Framework Directive definitions
 
@@ -661,30 +661,30 @@ Regulation 4(2)
 - The Urban Waste Water Treatment (England and Wales) Regulations 1994[^f00043]
 - The Urban Waste Water Treatment (Scotland) Regulations 1994[^f00044]
 - The Conservation (Natural Habitats, &c.) Regulations (Northern Ireland) 1995[^f00045]
-- [^key-fc787629dfff8eee04d87b87241b3f45]...
+- [^c-fc787629dfff8eee04d87b87241b3f45]...
 - The Surface Waters (Shellfish) (Classification) Regulations 1997[^f00047]
-- [^key-15c4761cd4152741dd5ff16f6b9d5ba9]...
+- [^c-15c4761cd4152741dd5ff16f6b9d5ba9]...
 - The Surface Waters (Shellfish) (Classification) Regulations (Northern Ireland) 1997[^f00049]
 - The Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998[^f00050]
 - The Water (Northern Ireland) Order 1999[^f00051]
 - The Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^f00052]
 - The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003[^f00053]
-- the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^key-d740229ccc841a6a7879d4809e580890]
+- the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^c-d740229ccc841a6a7879d4809e580890]
 - The Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003[^f00055]
-- the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017[^key-e038c045505cbd9ed95564c3c4a1b3f0]
+- the Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017[^c-e038c045505cbd9ed95564c3c4a1b3f0]
 - The Pollution Prevention and Control Regulations (Northern Ireland) 2003[^f00057]
 - The Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004[^f00058]
 - The Water and Sewerage Services (Northern Ireland) Order 2006[^f00059]
 - The Water Supply (Water Quality) Regulations (Northern Ireland) 2007[^f00060]
 - The Urban Waste Water Treatment Regulations (Northern Ireland) 2007[^f00061]
-- The Conservation of Offshore Marine Habitats and Species Regulations 2017[^key-dd30f6c599761345c0893d8ac4b7eddf]
+- The Conservation of Offshore Marine Habitats and Species Regulations 2017[^c-dd30f6c599761345c0893d8ac4b7eddf]
 - The Bathing Waters (Scotland) Regulations 2008[^f00063]
 - The Bathing Water Regulations 2008[^f00064]
 - The Quality of Bathing Water Regulations (Northern Ireland) 2008[^f00065]
-- The Conservation of Habitats and Species Regulations 2017[^key-5736e57d751c2b6df2b0765acd211462]
-- The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^key-07cde4c3a653ca7614705fa4ad13f8bf]
+- The Conservation of Habitats and Species Regulations 2017[^c-5736e57d751c2b6df2b0765acd211462]
+- The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^c-07cde4c3a653ca7614705fa4ad13f8bf]
 
-## SCHEDULE 3 — Modification of Marine Strategy Framework Directive[^key-c0410899a3d5c27ef13d734a7b10286c]
+## SCHEDULE 3 — Modification of Marine Strategy Framework Directive[^c-c0410899a3d5c27ef13d734a7b10286c]
 
 Regulation 2(5)(a)
 
@@ -737,7 +737,7 @@ Regulation 2(5)(a)
 - (a) in paragraph 2, for the words from “in particular [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)” to “forthcoming legislation on environmental quality standards in the field of water policy” substitute “(in particular in relation to water quality, including urban waste-water treatment and bathing water quality)”;
 - (b) in paragraph 3, omit “referred to in Article 7”;
 - (c) in paragraph 4—
-  - (i) for “special areas of conservation pursuant to the Habitats Directive, special protection areas pursuant to the Birds Directive” substitute “special areas of conservation or special protection areas pursuant to assimilated[^key-173e7ebd81ddbfe27908a3d290331386] law”;
+  - (i) for “special areas of conservation pursuant to the Habitats Directive, special protection areas pursuant to the Birds Directive” substitute “special areas of conservation or special protection areas pursuant to assimilated[^c-173e7ebd81ddbfe27908a3d290331386] law”;
   - (ii) for “Community or Members States concerned in the framework of international or regional agreements to which they are parties” substitute “United Kingdom in the framework of international or regional agreements to which it is a party”;
 - (d) in paragraph 5, omit─
   - (i) “Community or”;
@@ -760,7 +760,7 @@ Regulation 2(5)(a)
 
 **12.** In Article 19(3)—
 
-- (a) in the first subparagraph, for “[Directive 2003/4/EC](https://www.legislation.gov.uk/european/directive/2003/0004) of the European Parliament and of the Council of 28 January 2003 on public access to environmental information” substitute “the assimilated[^key-1b2f4a042094f8bfc7bb211d5700e404] law which transposed [Directive 2003/4/EC](https://www.legislation.gov.uk/european/directive/2003/0004) of the European Parliament and of the Council of 28 January 2003 on public access to environmental information”;
+- (a) in the first subparagraph, for “[Directive 2003/4/EC](https://www.legislation.gov.uk/european/directive/2003/0004) of the European Parliament and of the Council of 28 January 2003 on public access to environmental information” substitute “the assimilated[^c-1b2f4a042094f8bfc7bb211d5700e404] law which transposed [Directive 2003/4/EC](https://www.legislation.gov.uk/european/directive/2003/0004) of the European Parliament and of the Council of 28 January 2003 on public access to environmental information”;
 - (b) omit the second and third subparagraphs.
 
 **13.** In Annex 3—
@@ -806,23 +806,23 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^f00003]: Footnote: OJ L No. 164, 25.06.08, p. 19.
 
-[^key-aa493f31e3fa58668f3d373e3d56544a]: Modification: Regulations modified (31.12.2020) by EU Decision 2017/848, Art. 2, Annex 2 (as amended by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/1399/regulation/7), [12(3)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/12/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2018/1399/schedule/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-aa493f31e3fa58668f3d373e3d56544a]: Modification: Regulations modified (31.12.2020) by EU Decision 2017/848, Art. 2, Annex 2 (as amended by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/1399/regulation/7), [12(3)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/12/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2018/1399/schedule/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-253992d0f0258aa683dfdbd392ae2cbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/1) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-253992d0f0258aa683dfdbd392ae2cbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/1) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b0e5218301fd2422ea0b7e695acafedb]: Textual amendment: Words in reg. 2(1) inserted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/a/i)
+[^c-b0e5218301fd2422ea0b7e695acafedb]: Textual amendment: Words in reg. 2(1) inserted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/a/i)
 
-[^key-c00b86fea2847f95e892872dbf9fc779]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/a/ii)
+[^c-c00b86fea2847f95e892872dbf9fc779]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/a/ii)
 
 [^f00004]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-2f5ca2b70583715d5002a9b9e6522d66]: Textual amendment: Words in reg. 2(1) inserted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/b/i)
+[^c-2f5ca2b70583715d5002a9b9e6522d66]: Textual amendment: Words in reg. 2(1) inserted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/b/i)
 
-[^key-0e1d6ba01acac8a13038f7759d442cc7]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/b/ii)
+[^c-0e1d6ba01acac8a13038f7759d442cc7]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/b/ii)
 
-[^key-c878fc29a728c74010e310a3358191f5]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/1) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c878fc29a728c74010e310a3358191f5]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/1) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e52d9990911ff1155375ec6425d33288]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/c)
+[^c-e52d9990911ff1155375ec6425d33288]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/c)
 
 [^f00005]: Footnote: OJ L No. 164, 25.06.08, p. 19.
 
@@ -830,7 +830,7 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^f00007]: Footnote: The Foyle, Carlingford and Irish Lights Commission was established by article 1(f) of the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland establishing implementation bodies on the 8th day of March 1999. This Agreement is set out in Schedule 1 to the North/South Co-operation (Implementation Bodies) (Northern Ireland) Order 1999 ([S.I. 1999/859](https://www.legislation.gov.uk/uksi/1999/859)).
 
-[^key-0960a30327118c04b98c9b21b1739a38]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/d)
+[^c-0960a30327118c04b98c9b21b1739a38]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/2/d)
 
 [^f00008]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
@@ -852,103 +852,103 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^f00017]: Footnote: [S.I. 1991/1220 (N.I.11)](https://www.legislation.gov.uk/nisi/1991/1220).
 
-[^key-c7bf2b95631a85ac8d32ae83b295630c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2018/942/regulation/16)
+[^c-c7bf2b95631a85ac8d32ae83b295630c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2018/942/regulation/16)
 
 [^f00019]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 158(1) was amended, and section 158(3) was substituted by section 43 of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23). The sea adjacent to Wales relevant for the purposes of the definition of “the Welsh zone” in section 158(1) of the Government of Wales Act 2006 was specified by [S.I. 2010/760](https://www.legislation.gov.uk/uksi/2010/760), article 3 and Schedule 1.
 
-[^key-66eba6925e94fdf3e5128968b9a5273c]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/4) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66eba6925e94fdf3e5128968b9a5273c]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/4) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aab97e6c341041473d75e8cb047b3015]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/5)[(6)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/6) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aab97e6c341041473d75e8cb047b3015]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/5)[(6)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/6) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b1c32fb538a2ed771894cddd84d0fb2]: Textual amendment: Word in [reg. 2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/5/b/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/a)
+[^c-7b1c32fb538a2ed771894cddd84d0fb2]: Textual amendment: Word in [reg. 2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/2/5/b/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/a)
 
 [^f00020]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) was amended by the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), section 37 and Schedule 3, paragraph 1. Areas have been designated under section 1(7) by [S.I. 1987/1265](https://www.legislation.gov.uk/uksi/1987/1265), [2000/3062](https://www.legislation.gov.uk/uksi/2000/3062) and [2001/3670](https://www.legislation.gov.uk/uksi/2001/3670).
 
-[^key-85a8601bdb50ef542c1dd7c1fb995fd3]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/5/1) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85a8601bdb50ef542c1dd7c1fb995fd3]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/5/1) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-25e0888eedd4840943f51730ad54bc95]: Textual amendment: Words in [reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/6/1/c) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25e0888eedd4840943f51730ad54bc95]: Textual amendment: Words in [reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/6/1/c) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f911c1d2e66a4a02e24b7b621eaf1bf2]: Modification: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/7/3) applied (31.12.2020) by EU Decision 2017/848, Art. 1(2) (as inserted by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f911c1d2e66a4a02e24b7b621eaf1bf2]: Modification: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/7/3) applied (31.12.2020) by EU Decision 2017/848, Art. 1(2) (as inserted by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-fdc1e65d2119c4f49cbdbaa8e5d60fbc]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/1/a) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/3/a)
+[^c-fdc1e65d2119c4f49cbdbaa8e5d60fbc]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/1/a) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/3/a)
 
-[^key-9408fe297aa2bc09f17fef85fc2acead]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/1/b) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/3/b/i)
+[^c-9408fe297aa2bc09f17fef85fc2acead]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/1/b) substituted (1.4.2018) by [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/3/b/i)
 
-[^key-e2f0aceb970318724b56b340115409da]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/1/b) omitted (1.4.2018) by virtue of [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/3/b/ii)
+[^c-e2f0aceb970318724b56b340115409da]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/1/b) omitted (1.4.2018) by virtue of [The Marine Works (Environmental Impact Assessment) and Marine Strategy (Amendment) Regulations 2018 (S.I. 2018/287)](https://www.legislation.gov.uk/uksi/2018/287), [regs. 1](https://www.legislation.gov.uk/uksi/2018/287/regulation/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/287/regulation/3/3/b/ii)
 
-[^key-673c9e33e345a1e0b3f9afde2f7004c1]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/2) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-673c9e33e345a1e0b3f9afde2f7004c1]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/2) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55aca642454eafe7eae8e1883a66c9db]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/3) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55aca642454eafe7eae8e1883a66c9db]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/8/3) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c63e71c3776fb5d47877a875724dca14]: Textual amendment: [Reg. 14(14)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/14/14) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c63e71c3776fb5d47877a875724dca14]: Textual amendment: [Reg. 14(14)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/14/14) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9177ded6a39b2ae359997a3f02af36d5]: Textual amendment: Word in [reg. 15(4)(b)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/4/b) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9177ded6a39b2ae359997a3f02af36d5]: Textual amendment: Word in [reg. 15(4)(b)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/4/b) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-47ed83886c0cc949ed2229b8b007ce14]: Textual amendment: Word in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/6) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47ed83886c0cc949ed2229b8b007ce14]: Textual amendment: Word in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/6) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a8de9540b1e1275fb255646c3ce1d6a]: Textual amendment: Word in [reg. 15(7)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/7) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a8de9540b1e1275fb255646c3ce1d6a]: Textual amendment: Word in [reg. 15(7)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/7) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5751b2b63951d359fae01ab1dd4aa75f]: Textual amendment: [Reg. 15(9)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/9) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5751b2b63951d359fae01ab1dd4aa75f]: Textual amendment: [Reg. 15(9)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/9) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-018c2fcd596509abf9cbfefe2d65899f]: Textual amendment: [Reg. 15(11)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/11/a) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-018c2fcd596509abf9cbfefe2d65899f]: Textual amendment: [Reg. 15(11)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/15/11/a) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24619d29f1247256af710aba8fdb7416]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2010/1627/regulation/16) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24619d29f1247256af710aba8fdb7416]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2010/1627/regulation/16) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3dcaa9584606a53803cec3b981b98ca]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2010/1627/regulation/16) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/b)
+[^c-a3dcaa9584606a53803cec3b981b98ca]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2010/1627/regulation/16) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/b)
 
-[^key-8937b2af75f139fcebdc3d04812cc48a]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2010/1627/regulation/17) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8937b2af75f139fcebdc3d04812cc48a]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2010/1627/regulation/17) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74692dd4363b5da8b8e11f81446f8a9e]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/3) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74692dd4363b5da8b8e11f81446f8a9e]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/3) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8735eed84e9d3d87d73eb58b69e878ec]: Textual amendment: Words in [reg. 18(3)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/3/a) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8735eed84e9d3d87d73eb58b69e878ec]: Textual amendment: Words in [reg. 18(3)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/3/a) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f0deb6c1aed5d395070758d3af25929]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/4) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f0deb6c1aed5d395070758d3af25929]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/4) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5884fe3682aa018b479aa9e3a73e3848]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/4) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5884fe3682aa018b479aa9e3a73e3848]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/4) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2504fdc598e7911027ec7d74e313a67b]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/5) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(c)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2504fdc598e7911027ec7d74e313a67b]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/5) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(c)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a32784050942fc29064781d98394663c]: Textual amendment: Words in [reg. 18(6)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/6) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(d)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a32784050942fc29064781d98394663c]: Textual amendment: Words in [reg. 18(6)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/6) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(d)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34fa22228b91f4fb2331b843baecf071]: Textual amendment: Words in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/7) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(e)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34fa22228b91f4fb2331b843baecf071]: Textual amendment: Words in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/7) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(e)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1dac12e8bded7d94afc1bb802e3fdf63]: Textual amendment: Words in [reg. 18(8)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/8) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(f)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1dac12e8bded7d94afc1bb802e3fdf63]: Textual amendment: Words in [reg. 18(8)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/18/8) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(10)(f)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/10/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1994fd2d87959dee50bbf8ec73d0ab81]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/1627/regulation/19) functions made exercisable jointly with the Welsh Ministers by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [Sch. 3A para. 4](https://www.legislation.gov.uk/ukpga/2006/32/schedule/3A/paragraph/4) (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-1994fd2d87959dee50bbf8ec73d0ab81]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/1627/regulation/19) functions made exercisable jointly with the Welsh Ministers by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [Sch. 3A para. 4](https://www.legislation.gov.uk/ukpga/2006/32/schedule/3A/paragraph/4) (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
-[^key-7cfb9b7e90ef757ef1df219b69f2e840]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/19/1) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(11)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7cfb9b7e90ef757ef1df219b69f2e840]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/19/1) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(11)(a)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00022]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-2c4cd68640ce9b9fa8ed96a620683256]: Textual amendment: Words in [reg. 19(8)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/19/8/a) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(11)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c4cd68640ce9b9fa8ed96a620683256]: Textual amendment: Words in [reg. 19(8)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/19/8/a) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(11)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-60012551f303bdba0d5b0d8f8ce344a6]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/1627/regulation/20) functions made exercisable jointly with the Welsh Ministers by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [Sch. 3A para. 4](https://www.legislation.gov.uk/ukpga/2006/32/schedule/3A/paragraph/4) (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-60012551f303bdba0d5b0d8f8ce344a6]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/1627/regulation/20) functions made exercisable jointly with the Welsh Ministers by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [Sch. 3A para. 4](https://www.legislation.gov.uk/ukpga/2006/32/schedule/3A/paragraph/4) (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
-[^key-02cbc89398edcc2621ac72c5425f2a8b]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/20/1) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02cbc89398edcc2621ac72c5425f2a8b]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/20/1) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7df02932305065b4d037a1b95e32a874]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2010/1627/part/6) inserted (31.12.2020) by [The Environment (Legislative Functions from Directives) (EU Exit) Regulations 2019 (S.I. 2019/1350)](https://www.legislation.gov.uk/uksi/2019/1350), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1350/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/1350/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7df02932305065b4d037a1b95e32a874]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2010/1627/part/6) inserted (31.12.2020) by [The Environment (Legislative Functions from Directives) (EU Exit) Regulations 2019 (S.I. 2019/1350)](https://www.legislation.gov.uk/uksi/2019/1350), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1350/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/1350/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-185ae1556b67fb52815193ac80e0a0d2]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/22/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/c)
+[^c-185ae1556b67fb52815193ac80e0a0d2]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/22/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/c)
 
-[^key-33bdb2e334fafce1b14413ca5ae8c7b6]: Textual amendment: Words in [reg. 26(3)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/26/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/d)
+[^c-33bdb2e334fafce1b14413ca5ae8c7b6]: Textual amendment: Words in [reg. 26(3)(a)](https://www.legislation.gov.uk/uksi/2010/1627/regulation/26/3/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/d)
 
 [^f00023]: Footnote: See definitions of “secondary devolved Northern Ireland function”, “secondary devolved Scottish function” and “secondary devolved Welsh function”.
 
-[^key-ef561d4308d0a31f7c93a742ee2b35c2]: Textual amendment: [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/paragraph/5/a) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef561d4308d0a31f7c93a742ee2b35c2]: Textual amendment: [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/paragraph/5/a) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13d24822d3888944244da6ab55b0f9c5]: Textual amendment: [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/paragraph/5/b) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13d24822d3888944244da6ab55b0f9c5]: Textual amendment: [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/paragraph/5/b) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00026]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-c6aaef1fd19961d3f4d0e58f0ef23b20]: Textual amendment: Words in [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/paragraph/5/d) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/a/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6aaef1fd19961d3f4d0e58f0ef23b20]: Textual amendment: Words in [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/paragraph/5/d) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/a/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00027]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-ca933a0b741e9ff1517bd565e1849cb6]: Textual amendment: Words in [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/paragraph/5/d) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/a/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca933a0b741e9ff1517bd565e1849cb6]: Textual amendment: Words in [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/paragraph/5/d) substituted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/a/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4778da7f2277eb584de2878808583c18]: Textual amendment: Word in [Sch. 1 Pt. 1 para. 5(d)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/part/1/paragraph/5/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/e)
+[^c-4778da7f2277eb584de2878808583c18]: Textual amendment: Word in [Sch. 1 Pt. 1 para. 5(d)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/1/part/1/paragraph/5/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/e)
 
-[^key-c0ef65b9299b480ce4ee4741c8ee8f4a]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2010/1627/part/2) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0ef65b9299b480ce4ee4741c8ee8f4a]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2010/1627/part/2) omitted (31.12.2020) by virtue of [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [3(13)(b)](https://www.legislation.gov.uk/uksi/2018/1399/regulation/3/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00028]: Footnote: [1934 c. 49](https://www.legislation.gov.uk/ukpga/1934/49).
 
@@ -986,11 +986,11 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^f00045]: Footnote: [S.R. (NI) 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380), amended by [S.R. (NI) 2003 No. 46](https://www.legislation.gov.uk/nisr/2003/46), [S.R. (NI) 2004 No. 435](https://www.legislation.gov.uk/nisr/2004/435), [S.R. (NI) 2007 No. 345](https://www.legislation.gov.uk/nisr/2007/345) and [S.R. (NI) 2009 No. 8](https://www.legislation.gov.uk/nisr/2009/8).
 
-[^key-fc787629dfff8eee04d87b87241b3f45]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1627/schedule/2) omitted (1.3.2019) by virtue of [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/4/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
+[^c-fc787629dfff8eee04d87b87241b3f45]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1627/schedule/2) omitted (1.3.2019) by virtue of [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/4/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
 
 [^f00047]: Footnote: [S.I. 1997/1332](https://www.legislation.gov.uk/uksi/1997/1332), amended by [S.I. 2009/1266](https://www.legislation.gov.uk/uksi/2009/1266).
 
-[^key-15c4761cd4152741dd5ff16f6b9d5ba9]: Textual amendment: Words in Sch. 2 omitted (S.) (22.12.2013) by virtue of [The Water Environment (River Basin Management Planning Further Provision) (Scotland) Regulations 2013 (S.S.I. 2013/323)](https://www.legislation.gov.uk/ssi/2013/323), [regs. 1](https://www.legislation.gov.uk/ssi/2013/323/regulation/1), [26](https://www.legislation.gov.uk/ssi/2013/323/regulation/26)
+[^c-15c4761cd4152741dd5ff16f6b9d5ba9]: Textual amendment: Words in Sch. 2 omitted (S.) (22.12.2013) by virtue of [The Water Environment (River Basin Management Planning Further Provision) (Scotland) Regulations 2013 (S.S.I. 2013/323)](https://www.legislation.gov.uk/ssi/2013/323), [regs. 1](https://www.legislation.gov.uk/ssi/2013/323/regulation/1), [26](https://www.legislation.gov.uk/ssi/2013/323/regulation/26)
 
 [^f00049]: Footnote: [S.R. (NI) 1997 No. 489](https://www.legislation.gov.uk/nisr/1997/489), amended by [S.R. (NI) 2009 No 61](https://www.legislation.gov.uk/nisr/2009/61).
 
@@ -1002,11 +1002,11 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^f00053]: Footnote: [S.I. 2003/1809](https://www.legislation.gov.uk/uksi/2003/1809), amended by [S.I. 2009/1176](https://www.legislation.gov.uk/uksi/2009/1176).
 
-[^key-d740229ccc841a6a7879d4809e580890]: Textual amendment: Words in Sch. 2 substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/3) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-d740229ccc841a6a7879d4809e580890]: Textual amendment: Words in Sch. 2 substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/3) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
 [^f00055]: Footnote: [S.I. 2003/3245](https://www.legislation.gov.uk/uksi/2003/3245).
 
-[^key-e038c045505cbd9ed95564c3c4a1b3f0]: Textual amendment: Words in Sch. 2 substituted (N.I.) (with application in accordance with regs. 1(b), 4(1) of the amending Rules) (25.05.2017) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-e038c045505cbd9ed95564c3c4a1b3f0]: Textual amendment: Words in Sch. 2 substituted (N.I.) (with application in accordance with regs. 1(b), 4(1) of the amending Rules) (25.05.2017) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2017/81/regulation/1/a), [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2017/81/schedule/4/paragraph/3) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
 
 [^f00057]: Footnote: [S.R. (NI) 2003 No. 46](https://www.legislation.gov.uk/nisr/2003/46), amended by [S.R. (NI) 2007 No. 245](https://www.legislation.gov.uk/nisr/2007/245) and [S.R. (NI) 2009 No. 403](https://www.legislation.gov.uk/nisr/2009/403).
 
@@ -1018,7 +1018,7 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^f00061]: Footnote: [S.R. (NI) 2007 No. 187](https://www.legislation.gov.uk/nisr/2007/187).
 
-[^key-dd30f6c599761345c0893d8ac4b7eddf]: Textual amendment: Words in Sch. 2 substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/7/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-dd30f6c599761345c0893d8ac4b7eddf]: Textual amendment: Words in Sch. 2 substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/7/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
 
 [^f00063]: Footnote: [S.S.I. 2008/170](https://www.legislation.gov.uk/ssi/2008/170).
 
@@ -1026,14 +1026,14 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^f00065]: Footnote: [S.R. (NI) 2008 No. 231](https://www.legislation.gov.uk/nisr/2008/231).
 
-[^key-5736e57d751c2b6df2b0765acd211462]: Textual amendment: Words in Sch. 2 substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 19](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/19)
+[^c-5736e57d751c2b6df2b0765acd211462]: Textual amendment: Words in Sch. 2 substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 19](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/19)
 
-[^key-07cde4c3a653ca7614705fa4ad13f8bf]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1627/schedule/2) inserted (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/4/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
+[^c-07cde4c3a653ca7614705fa4ad13f8bf]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1627/schedule/2) inserted (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/4/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
 
-[^key-c0410899a3d5c27ef13d734a7b10286c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1627/schedule/3) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1399/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0410899a3d5c27ef13d734a7b10286c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1627/schedule/3) inserted (31.12.2020) by [The Marine Environment (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1399)](https://www.legislation.gov.uk/uksi/2018/1399), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1399/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1399/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-173e7ebd81ddbfe27908a3d290331386]: Textual amendment: Word in [Sch. 3 para. 9(c)(i)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/3/paragraph/9/c/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/f)
+[^c-173e7ebd81ddbfe27908a3d290331386]: Textual amendment: Word in [Sch. 3 para. 9(c)(i)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/3/paragraph/9/c/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/f)
 
-[^key-1b2f4a042094f8bfc7bb211d5700e404]: Textual amendment: Word in [Sch. 3 para. 12(a)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/3/paragraph/12/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/f)
+[^c-1b2f4a042094f8bfc7bb211d5700e404]: Textual amendment: Word in [Sch. 3 para. 12(a)](https://www.legislation.gov.uk/uksi/2010/1627/schedule/3/paragraph/12/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 20(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/20/f)
 
 [^f00067]: Footnote: OJ L No. 164, 25.06.08, p.19.

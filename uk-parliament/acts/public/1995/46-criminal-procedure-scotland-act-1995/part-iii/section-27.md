@@ -40,7 +40,7 @@ shall, subject to subsection (3) below, be guilty of an offence and liable on co
 - (b) any previous conviction of the accused of an offence under subsection (1)(b) above; and
 - (c) the extent to which the sentence or disposal in respect of any previous conviction of the accused differed, by virtue of this subsection, from that which the court would have imposed but for this subsection.
 
-(3A)[^c20905821][^key-54497a30e9d1e678331384ca2dc1b3e5] The reference in subsection (3)(b) to any previous conviction of an offence under subsection (1)(b) includes—
+(3A)[^c20905821][^c-54497a30e9d1e678331384ca2dc1b3e5] The reference in subsection (3)(b) to any previous conviction of an offence under subsection (1)(b) includes—
 
 - (a) any previous conviction by a court in England and Wales or Northern Ireland, and
 - (b) if the court considers appropriate, any previous conviction by a court in a member State of the European Union,
@@ -92,7 +92,7 @@ shall, unless challenged in the manner described in paragraph (a) or (b) of subs
 - (a) to amend the indictment to include an additional charge of an offence under this section;
 - (b) to include in the list of witnesses or productions relating to the original offence, witnesses or productions relating to the offence under this section.
 
-(8A)[^key-64c8df44f6e07a0a041b7dd9a37675ac] At any time before the trial of an accused in summary proceedings for the original offence, it is competent to amend the complaint to include an additional charge of an offence under this section.
+(8A)[^c-64c8df44f6e07a0a041b7dd9a37675ac] At any time before the trial of an accused in summary proceedings for the original offence, it is competent to amend the complaint to include an additional charge of an offence under this section.
 
 (9) A penalty under subsection (2) or (7) above shall[^c19794481] be imposed in addition to any other penalty which it is competent for the court to impose, notwithstanding that the total of penalties imposed may exceed the maximum penalty which it is competent to impose in respect of the original offence.
 
@@ -117,7 +117,7 @@ shall, unless challenged in the manner described in paragraph (a) or (b) of subs
 
 [^c20905821]: Textual amendment: S. 27(3A)-(3C) inserted (13.12.2010 for all purposes in respect of offences committed on or after this date) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 71(1)](https://www.legislation.gov.uk/asp/2010/13/section/71/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/3); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-54497a30e9d1e678331384ca2dc1b3e5]: Textual amendment: [S. 27(3A)](https://www.legislation.gov.uk/ukpga/1995/46/section/27/3A) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(4)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/4) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-54497a30e9d1e678331384ca2dc1b3e5]: Textual amendment: [S. 27(3A)](https://www.legislation.gov.uk/ukpga/1995/46/section/27/3A) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(4)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/4) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
 [^c14468291]: Textual amendment: S. 27(4A) inserted (4.7.1996) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [s. 73(2)](https://www.legislation.gov.uk/ukpga/1996/25/section/73/2)
 
@@ -129,7 +129,7 @@ shall, unless challenged in the manner described in paragraph (a) or (b) of subs
 
 [^c19794451]: Textual amendment: Word in s. 27(7)(b) substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 3(1)(d)](https://www.legislation.gov.uk/asp/2007/6/section/3/1/d), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S. I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-64c8df44f6e07a0a041b7dd9a37675ac]: Textual amendment: S. 27(8A) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 62(1)](https://www.legislation.gov.uk/asp/2010/13/section/62/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-64c8df44f6e07a0a041b7dd9a37675ac]: Textual amendment: S. 27(8A) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 62(1)](https://www.legislation.gov.uk/asp/2010/13/section/62/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c19794481]: Textual amendment: Words in s. 27(9) substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 3(1)(e)](https://www.legislation.gov.uk/asp/2007/6/section/3/1/e), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S. I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 

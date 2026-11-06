@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Repeals[^key-065c34397ace9176897a313e575469b4][^key-8c6688be0131c197716336ad30745301][^key-f0624968d40e4182be4e59b44589e06a][^key-da25f3dc43b35d85ade8f0dd1628e86f]
+## SCHEDULE 6 — Repeals[^c-065c34397ace9176897a313e575469b4][^c-8c6688be0131c197716336ad30745301][^c-f0624968d40e4182be4e59b44589e06a][^c-da25f3dc43b35d85ade8f0dd1628e86f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,10 +36,10 @@ Section 108
 
 ## Annotations
 
-[^key-065c34397ace9176897a313e575469b4]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6) in force at 26.1.2009 for specified purposes by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [arts. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/vi), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/c/ii), [4(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/d/ii)
+[^c-065c34397ace9176897a313e575469b4]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6) in force at 26.1.2009 for specified purposes by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [arts. 2(e)(vi)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/vi), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/c/ii), [4(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/d/ii)
 
-[^key-8c6688be0131c197716336ad30745301]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6) in force at 1.4.2009 for specified purposes by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/c/ii)
+[^c-8c6688be0131c197716336ad30745301]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6) in force at 1.4.2009 for specified purposes by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/c/ii)
 
-[^key-f0624968d40e4182be4e59b44589e06a]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6) in force at 6.4.2009 for specified purposes by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/d/ii)
+[^c-f0624968d40e4182be4e59b44589e06a]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6) in force at 6.4.2009 for specified purposes by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/d/ii)
 
-[^key-da25f3dc43b35d85ade8f0dd1628e86f]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6) in force at 10.6.2014 for specified purposes by [S.I. 2014/1461](https://www.legislation.gov.uk/uksi/2014/1461), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1461/article/2/b)
+[^c-da25f3dc43b35d85ade8f0dd1628e86f]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6) in force at 10.6.2014 for specified purposes by [S.I. 2014/1461](https://www.legislation.gov.uk/uksi/2014/1461), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1461/article/2/b)

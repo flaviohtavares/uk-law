@@ -44,7 +44,7 @@ Regulations 8 and 9 are made with the consent of the Department of Finance and P
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 8 and 9 should not be referred to it[^f00009].
 
-## 1. Citation, commencement and interpretation[^key-d90e09e6d91a1b58440d3d185af00bee][^key-d90e09e6d91a1b58440d3d185af00bee]
+## 1. Citation, commencement and interpretation[^c-d90e09e6d91a1b58440d3d185af00bee][^c-d90e09e6d91a1b58440d3d185af00bee]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 and, subject to paragraphs (2) to (4), shall come into operation on 6th April 2010.
 
@@ -63,17 +63,17 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-7a2cb313e70c11498b5dffb11e3fb108][^key-4f7e11e47c7e8d83db6e860a2b972342]
+## 2. Amendment of the Income Support (General) Regulations[^c-7a2cb313e70c11498b5dffb11e3fb108][^c-4f7e11e47c7e8d83db6e860a2b972342]
 
-(1)[^key-7a2cb313e70c11498b5dffb11e3fb108] The Income Support (General) Regulations (Northern Ireland) 1987[^f00011] are amended in accordance with paragraphs (2) to (10).
+(1)[^c-7a2cb313e70c11498b5dffb11e3fb108] The Income Support (General) Regulations (Northern Ireland) 1987[^f00011] are amended in accordance with paragraphs (2) to (10).
 
-(2)[^key-7a2cb313e70c11498b5dffb11e3fb108] In regulation 2(1) (interpretation) after the definition of “the Macfarlane (Special Payments) (No. 2) Trust”[^f00012] insert—
+(2)[^c-7a2cb313e70c11498b5dffb11e3fb108] In regulation 2(1) (interpretation) after the definition of “the Macfarlane (Special Payments) (No. 2) Trust”[^f00012] insert—
 
 > - “MFET Limited” means the company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products;
 
 .
 
-(3)[^key-7a2cb313e70c11498b5dffb11e3fb108] In—
+(3)[^c-7a2cb313e70c11498b5dffb11e3fb108] In—
 
 - (a) regulation 2(1) in the definition of “qualifying person”[^f00013];
 - (b) regulation 42(4ZA)(a)[^f00014] (notional income);
@@ -85,17 +85,17 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 after “Eileen Trust” insert “, MFET Limited”.
 
-(4)[^key-7a2cb313e70c11498b5dffb11e3fb108] In regulation 6(1)(c) (persons not treated as engaged in remunerative work) after “earnings)” insert “and in this paragraph “volunteer” means a person who is engaged in voluntary work, otherwise than for a relative, where the only payment received, or due to be paid to the person by virtue of being so engaged, is in respect of any expenses reasonably incurred by the person in connection with that work;”.
+(4)[^c-7a2cb313e70c11498b5dffb11e3fb108] In regulation 6(1)(c) (persons not treated as engaged in remunerative work) after “earnings)” insert “and in this paragraph “volunteer” means a person who is engaged in voluntary work, otherwise than for a relative, where the only payment received, or due to be paid to the person by virtue of being so engaged, is in respect of any expenses reasonably incurred by the person in connection with that work;”.
 
-(5)[^key-7a2cb313e70c11498b5dffb11e3fb108] In regulation 13(2)(dd)[^f00023] (circumstances in which persons in relevant education are to be entitled to income support) after “and their families)” insert “or Part II of the Children (Scotland) Act 1995 (promotion of children’s welfare by local authorities and by children’s hearings etc.)”.
+(5)[^c-7a2cb313e70c11498b5dffb11e3fb108] In regulation 13(2)(dd)[^f00023] (circumstances in which persons in relevant education are to be entitled to income support) after “and their families)” insert “or Part II of the Children (Scotland) Act 1995 (promotion of children’s welfare by local authorities and by children’s hearings etc.)”.
 
-(6)[^key-7a2cb313e70c11498b5dffb11e3fb108] In regulation 42 in—
+(6)[^c-7a2cb313e70c11498b5dffb11e3fb108] In regulation 42 in—
 
 - (a) paragraph (2)(g)[^f00024] for “is aged under 60” substitute “has not attained the qualifying age for state pension credit”;
 - (b) paragraph (2ZA)[^f00025] for “age of 60” substitute “qualifying age for state pension credit”; and
 - (c) paragraph (2A)[^f00026] for “aged not less than 60” substitute “who has attained the qualifying age for state pension credit”.
 
-(7)[^key-7a2cb313e70c11498b5dffb11e3fb108] In—
+(7)[^c-7a2cb313e70c11498b5dffb11e3fb108] In—
 
 - (a) regulation 42(4ZA)(a);
 - (b) regulation 48(10)(c);
@@ -106,27 +106,27 @@ after “Eileen Trust” insert “, MFET Limited”.
 
 after “under” insert “or by”.
 
-(8)[^key-7a2cb313e70c11498b5dffb11e3fb108] In regulation 51 in paragraph (2)(da)[^f00030] for “is aged under 60” substitute “has not attained the qualifying age for state pension credit”.
+(8)[^c-7a2cb313e70c11498b5dffb11e3fb108] In regulation 51 in paragraph (2)(da)[^f00030] for “is aged under 60” substitute “has not attained the qualifying age for state pension credit”.
 
-(9)[^key-4f7e11e47c7e8d83db6e860a2b972342] In Schedule 2 (applicable amounts) in paragraph 1(3)(a)(ii), paragraph 1(3)(e)(i), paragraph 1(3)(f)(i) and paragraph 1(3)(g)(i)[^f00031] after “regulation 4ZA” insert “or income-related employment and support allowance”.
+(9)[^c-4f7e11e47c7e8d83db6e860a2b972342] In Schedule 2 (applicable amounts) in paragraph 1(3)(a)(ii), paragraph 1(3)(e)(i), paragraph 1(3)(f)(i) and paragraph 1(3)(g)(i)[^f00031] after “regulation 4ZA” insert “or income-related employment and support allowance”.
 
-(10)[^key-7a2cb313e70c11498b5dffb11e3fb108] In Schedule 10 in paragraph 29 after “the Fund” insert “, MFET Limited”.
+(10)[^c-7a2cb313e70c11498b5dffb11e3fb108] In Schedule 10 in paragraph 29 after “the Fund” insert “, MFET Limited”.
 
-## 3. Amendment of the Social Security (Claims and Payments) Regulations[^key-cedcf51a32bbfd2b651e5bb1fb98895a]
+## 3. Amendment of the Social Security (Claims and Payments) Regulations[^c-cedcf51a32bbfd2b651e5bb1fb98895a]
 
 In regulation 7 of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00032] (evidence and information) in paragraph (4)[^f00033] for “is aged not less than 60”, substitute “has attained the qualifying age”.
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-ac846d92c866da115c1fbb68fe30caa7][^key-a5930dae1f5775ff1ec66fd7b86ec398]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-ac846d92c866da115c1fbb68fe30caa7][^c-a5930dae1f5775ff1ec66fd7b86ec398]
 
-(1)[^key-ac846d92c866da115c1fbb68fe30caa7] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00034] are amended in accordance with paragraphs (2) to (13).
+(1)[^c-ac846d92c866da115c1fbb68fe30caa7] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00034] are amended in accordance with paragraphs (2) to (13).
 
-(2)[^key-ac846d92c866da115c1fbb68fe30caa7] In regulation 1(2) (citation, commencement and interpretation) after the definition of “maternity leave”[^f00035] insert—
+(2)[^c-ac846d92c866da115c1fbb68fe30caa7] In regulation 1(2) (citation, commencement and interpretation) after the definition of “maternity leave”[^f00035] insert—
 
 > - “MFET Limited” means the company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products;
 
 .
 
-(3)[^key-ac846d92c866da115c1fbb68fe30caa7] In—
+(3)[^c-ac846d92c866da115c1fbb68fe30caa7] In—
 
 - (a) regulation 1(2) in the definition of “qualifying person”[^f00036];
 - (b) regulation 105(10A)(a)[^f00037] (notional income);
@@ -138,23 +138,23 @@ In regulation 7 of the Social Security (Claims and Payments) Regulations (Northe
 
 after “Eileen Trust” insert “, MFET Limited”.
 
-(4)[^key-ac846d92c866da115c1fbb68fe30caa7] In regulation 3E(2)(i)[^f00044] (entitlement of a member of a joint-claim couple to a jobseeker’s allowance without a claim being made jointly by the couple) for “7 weeks after the date on which the pregnancy ends where the expected week of confinement begins prior to 6th April 2003 or fifteen weeks after the date on which her pregnancy ends where the expected week of confinement begins on or after 6th April 2003”, substitute “28 weeks after the date on which the pregnancy ends”.
+(4)[^c-ac846d92c866da115c1fbb68fe30caa7] In regulation 3E(2)(i)[^f00044] (entitlement of a member of a joint-claim couple to a jobseeker’s allowance without a claim being made jointly by the couple) for “7 weeks after the date on which the pregnancy ends where the expected week of confinement begins prior to 6th April 2003 or fifteen weeks after the date on which her pregnancy ends where the expected week of confinement begins on or after 6th April 2003”, substitute “28 weeks after the date on which the pregnancy ends”.
 
-(5)[^key-ac846d92c866da115c1fbb68fe30caa7] In regulation 53(a) (persons treated as not engaged in remunerative work) after “earnings)” insert “and in this paragraph “volunteer” means a person who is engaged in voluntary work, otherwise than for a relative, where the only payment received, or due to be paid to the person by virtue of being so engaged, is in respect of any expenses reasonably incurred by the person in connection with that work;”.
+(5)[^c-ac846d92c866da115c1fbb68fe30caa7] In regulation 53(a) (persons treated as not engaged in remunerative work) after “earnings)” insert “and in this paragraph “volunteer” means a person who is engaged in voluntary work, otherwise than for a relative, where the only payment received, or due to be paid to the person by virtue of being so engaged, is in respect of any expenses reasonably incurred by the person in connection with that work;”.
 
-(6)[^key-ac846d92c866da115c1fbb68fe30caa7] In regulation 57(4)(a) (interpretation of Part IV), subject to paragraph (13), omit—
+(6)[^c-ac846d92c866da115c1fbb68fe30caa7] In regulation 57(4)(a) (interpretation of Part IV), subject to paragraph (13), omit—
 
 - (a) paragraph 10 (disabled students);
 - (b) paragraph 12 (deaf students); and
 - (c) paragraph 13 (blind persons).
 
-(7)[^key-ac846d92c866da115c1fbb68fe30caa7] In regulation 105 in—
+(7)[^c-ac846d92c866da115c1fbb68fe30caa7] In regulation 105 in—
 
 - (a) paragraph (2)(g)[^f00045] for “is aged under 60” substitute “has not attained the qualifying age for state pension credit”;
 - (b) paragraph (2B)[^f00046] for “age of 60” substitute “qualifying age for state pension credit”;
 - (c) paragraph (3)[^f00047] for “aged not less than 60” substitute “ who has attained the qualifying age for state pension credit”.
 
-(8)[^key-ac846d92c866da115c1fbb68fe30caa7] In—
+(8)[^c-ac846d92c866da115c1fbb68fe30caa7] In—
 
 - (a) regulation 105(10A)(a);
 - (b) regulation 110(10)(c);
@@ -165,15 +165,15 @@ after “Eileen Trust” insert “, MFET Limited”.
 
 after “under” insert “or by”.
 
-(9)[^key-ac846d92c866da115c1fbb68fe30caa7] In regulation 113(2)(da)[^f00050] for “is aged under 60” substitute “has not attained the qualifying age for state pension credit”.
+(9)[^c-ac846d92c866da115c1fbb68fe30caa7] In regulation 113(2)(da)[^f00050] for “is aged under 60” substitute “has not attained the qualifying age for state pension credit”.
 
-(10)[^key-ac846d92c866da115c1fbb68fe30caa7] In regulation 130 (interpretation) after the definition of “grant income” insert—
+(10)[^c-ac846d92c866da115c1fbb68fe30caa7] In regulation 130 (interpretation) after the definition of “grant income” insert—
 
 > - “last day of the course” means the date on which the last day of the final academic term falls in respect of the course in which the student is enrolled;
 
 .
 
-(11)[^key-a5930dae1f5775ff1ec66fd7b86ec398] For regulation 146G(1)[^f00051] (applicable amount in hardship cases for joint-claim couples), substitute—
+(11)[^c-a5930dae1f5775ff1ec66fd7b86ec398] For regulation 146G(1)[^f00051] (applicable amount in hardship cases for joint-claim couples), substitute—
 
 > (1) The weekly applicable amount of the joint-claim couple to whom a joint-claim jobseeker’s allowance is payable in accordance with this Part of these Regulations shall be reduced by a sum equivalent to—
 >
@@ -182,16 +182,16 @@ after “under” insert “or by”.
 >   - (ii) a member of a polygamous marriage and one of the members of that marriage is pregnant or seriously ill, or
 > - (b) 40% of the amount specified in paragraph 1(1)(e) of Schedule 1 in all other cases.
 
-(12)[^key-ac846d92c866da115c1fbb68fe30caa7] In Schedule 6 in paragraph 41—
+(12)[^c-ac846d92c866da115c1fbb68fe30caa7] In Schedule 6 in paragraph 41—
 
 - (a) in sub-paragraph (1) after “(“the Trusts”)”, and
 - (b) in sub-paragraph (7)[^f00052] after “Skipton Fund”;
 
 insert “, MFET Limited”.
 
-(13)[^key-ac846d92c866da115c1fbb68fe30caa7] The provisions omitted by paragraph (6) continue to have effect in relation to a person referred to in regulation 2(2) of the Income Support (Prescribed Categories of Person) Regulations (Northern Ireland) 2009[^f00053].
+(13)[^c-ac846d92c866da115c1fbb68fe30caa7] The provisions omitted by paragraph (6) continue to have effect in relation to a person referred to in regulation 2(2) of the Income Support (Prescribed Categories of Person) Regulations (Northern Ireland) 2009[^f00053].
 
-## 5. Amendment of the Social Security (Recovery of Benefits) Regulations[^key-e28881fa292f49f0c0463edb9f44c7c1]
+## 5. Amendment of the Social Security (Recovery of Benefits) Regulations[^c-e28881fa292f49f0c0463edb9f44c7c1]
 
 In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997[^f00054] (exempted trusts and payments) after sub-paragraph (k)[^f00055] add—
 
@@ -199,11 +199,11 @@ In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (No
 
 .
 
-## 6. Amendment of the State Pension Credit Regulations[^key-33d746d6e11a7e4f74ca0fa9d635a509][^key-7243580fe7cc41c80257183395c63da4][^key-6be31f74c55fb30fd9fd3c9bbddf65f7]
+## 6. Amendment of the State Pension Credit Regulations[^c-33d746d6e11a7e4f74ca0fa9d635a509][^c-7243580fe7cc41c80257183395c63da4][^c-6be31f74c55fb30fd9fd3c9bbddf65f7]
 
-(1)[^key-33d746d6e11a7e4f74ca0fa9d635a509] The State Pension Credit Regulations (Northern Ireland) 2003[^f00056] are amended in accordance with paragraphs (2) to (7).
+(1)[^c-33d746d6e11a7e4f74ca0fa9d635a509] The State Pension Credit Regulations (Northern Ireland) 2003[^f00056] are amended in accordance with paragraphs (2) to (7).
 
-(2)[^key-33d746d6e11a7e4f74ca0fa9d635a509] In regulation 1(2) (citation, commencement and interpretation)—
+(2)[^c-33d746d6e11a7e4f74ca0fa9d635a509] In regulation 1(2) (citation, commencement and interpretation)—
 
 - (a) after the definition of “equity release scheme”[^f00057] insert—
 
@@ -216,7 +216,7 @@ In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (No
 
   .
 
-(3)[^key-33d746d6e11a7e4f74ca0fa9d635a509] In—
+(3)[^c-33d746d6e11a7e4f74ca0fa9d635a509] In—
 
 - (a) regulation 1(2) in the definition of “qualifying person”[^f00058];
 - (b) Schedule 2 (housing costs), paragraph 14(8)(b)[^f00059]; and
@@ -224,13 +224,13 @@ In regulation 2(2) of the Social Security (Recovery of Benefits) Regulations (No
 
 after “the Eileen Trust” insert “, MFET Limited”.
 
-(4)[^key-7243580fe7cc41c80257183395c63da4] The provisions of regulation 11 (retirement provision in assessed income period) become paragraph (1) of that regulation, and after that paragraph (as renumbered) add—
+(4)[^c-7243580fe7cc41c80257183395c63da4] The provisions of regulation 11 (retirement provision in assessed income period) become paragraph (1) of that regulation, and after that paragraph (as renumbered) add—
 
 > (2) For the purposes of section 7(6) of the Act, a foreign state retirement pension is to be treated as a benefit under the Contributions and Benefits Act.
 
 .
 
-(5)[^key-6be31f74c55fb30fd9fd3c9bbddf65f7] For regulation 15(2) (income for the purposes of the Act), substitute—
+(5)[^c-6be31f74c55fb30fd9fd3c9bbddf65f7] For regulation 15(2) (income for the purposes of the Act), substitute—
 
 > (2) For the purposes of section 15(1)(f) of the Act, income includes—
 >
@@ -239,11 +239,11 @@ after “the Eileen Trust” insert “, MFET Limited”.
 
 .
 
-(6)[^key-33d746d6e11a7e4f74ca0fa9d635a509] In regulation 18(2) (notional income) for “aged not less than 60” substitute “who has attained the qualifying age”.
+(6)[^c-33d746d6e11a7e4f74ca0fa9d635a509] In regulation 18(2) (notional income) for “aged not less than 60” substitute “who has attained the qualifying age”.
 
-(7)[^key-33d746d6e11a7e4f74ca0fa9d635a509] In Schedule 5 (income from capital) in paragraph 15(1) to (5)[^f00062] after “under” insert “or by”.
+(7)[^c-33d746d6e11a7e4f74ca0fa9d635a509] In Schedule 5 (income from capital) in paragraph 15(1) to (5)[^f00062] after “under” insert “or by”.
 
-## 7. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^key-0eced2dc22209b29149b44f505940231]
+## 7. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^c-0eced2dc22209b29149b44f505940231]
 
 In regulation 10(2) of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^f00063] (deductions from an award of a funeral payment)—
 
@@ -259,11 +259,11 @@ In regulation 10(2) of the Social Fund Maternity and Funeral Expenses (General) 
     ; and
 - (b) in paragraph (3)[^f00065] after “Eileen Trust” insert “, MFET Limited”.
 
-## 8. Amendment of the Housing Benefit Regulations[^key-f823b9339f71fded19323d6390e40c38][^key-6e2aff1e89aa24536af75ef7976274f7][^key-26e7c18e84a7e2e5bebf817e32b38f9f][^key-f823b9339f71fded19323d6390e40c38][^key-6e2aff1e89aa24536af75ef7976274f7]
+## 8. Amendment of the Housing Benefit Regulations[^c-f823b9339f71fded19323d6390e40c38][^c-6e2aff1e89aa24536af75ef7976274f7][^c-26e7c18e84a7e2e5bebf817e32b38f9f][^c-f823b9339f71fded19323d6390e40c38][^c-6e2aff1e89aa24536af75ef7976274f7]
 
-(1)[^key-f823b9339f71fded19323d6390e40c38][^key-6e2aff1e89aa24536af75ef7976274f7] The Housing Benefit Regulations (Northern Ireland) 2006[^f00066] are amended in accordance with paragraphs (2) to (10).
+(1)[^c-f823b9339f71fded19323d6390e40c38][^c-6e2aff1e89aa24536af75ef7976274f7] The Housing Benefit Regulations (Northern Ireland) 2006[^f00066] are amended in accordance with paragraphs (2) to (10).
 
-(2)[^key-f823b9339f71fded19323d6390e40c38][^key-6e2aff1e89aa24536af75ef7976274f7][^key-26e7c18e84a7e2e5bebf817e32b38f9f] In regulation 2(1) (interpretation)—
+(2)[^c-f823b9339f71fded19323d6390e40c38][^c-6e2aff1e89aa24536af75ef7976274f7][^c-26e7c18e84a7e2e5bebf817e32b38f9f] In regulation 2(1) (interpretation)—
 
 - (a) after the definition of “maximum rent (LHA)”[^f00067] insert—
 
@@ -276,7 +276,7 @@ In regulation 10(2) of the Social Fund Maternity and Funeral Expenses (General) 
 
   .
 
-(3)[^key-f823b9339f71fded19323d6390e40c38][^key-6e2aff1e89aa24536af75ef7976274f7] In—
+(3)[^c-f823b9339f71fded19323d6390e40c38][^c-6e2aff1e89aa24536af75ef7976274f7] In—
 
 - (a) regulation 2(1) in the definition of “qualifying person”;
 - (b) regulation 39(7)(a)[^f00068] (notional income);
@@ -289,9 +289,9 @@ In regulation 10(2) of the Social Fund Maternity and Funeral Expenses (General) 
 
 after “Eileen Trust” insert “, MFET Limited”.
 
-(4)[^key-26e7c18e84a7e2e5bebf817e32b38f9f] In regulation 39(2)(c)[^f00074] for “is aged under 60” substitute “has not attained the qualifying age for state pension credit”.
+(4)[^c-26e7c18e84a7e2e5bebf817e32b38f9f] In regulation 39(2)(c)[^f00074] for “is aged under 60” substitute “has not attained the qualifying age for state pension credit”.
 
-(5)[^key-f823b9339f71fded19323d6390e40c38][^key-6e2aff1e89aa24536af75ef7976274f7] In—
+(5)[^c-f823b9339f71fded19323d6390e40c38][^c-6e2aff1e89aa24536af75ef7976274f7] In—
 
 - (a) regulation 39(7)(a);
 - (b) regulation 43(6);
@@ -303,30 +303,30 @@ after “Eileen Trust” insert “, MFET Limited”.
 
 after “under” insert “or by”.
 
-(6)[^key-f823b9339f71fded19323d6390e40c38][^key-6e2aff1e89aa24536af75ef7976274f7][^key-26e7c18e84a7e2e5bebf817e32b38f9f] In regulation 43(7) omit “(as defined for the purposes of Chapter IVA of Part VIII of the Jobseeker’s Allowance Regulations)”.
+(6)[^c-f823b9339f71fded19323d6390e40c38][^c-6e2aff1e89aa24536af75ef7976274f7][^c-26e7c18e84a7e2e5bebf817e32b38f9f] In regulation 43(7) omit “(as defined for the purposes of Chapter IVA of Part VIII of the Jobseeker’s Allowance Regulations)”.
 
-(7)[^key-86df06e93327b016e64502b4a324936a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-86df06e93327b016e64502b4a324936a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-26e7c18e84a7e2e5bebf817e32b38f9f] In regulation 82(5)[^f00077] for “is aged not less than 60” substitute “has attained the qualifying age for state pension credit”.
+(8)[^c-26e7c18e84a7e2e5bebf817e32b38f9f] In regulation 82(5)[^f00077] for “is aged not less than 60” substitute “has attained the qualifying age for state pension credit”.
 
-(9)[^key-f823b9339f71fded19323d6390e40c38][^key-6e2aff1e89aa24536af75ef7976274f7] In Schedule 6—
+(9)[^c-f823b9339f71fded19323d6390e40c38][^c-6e2aff1e89aa24536af75ef7976274f7] In Schedule 6—
 
 - (a) in paragraph 13(1)(a) for “or severe disablement allowance” substitute “, severe disablement allowance or employment and support allowance”; and
 - (b) in paragraph 60(2) omit “as defined for the purposes of Chapter IVA of Part VIII of the Jobseeker’s Allowance Regulations”.
 
-(10)[^key-f823b9339f71fded19323d6390e40c38][^key-6e2aff1e89aa24536af75ef7976274f7] In Schedule 7 in paragraph 35 after “the Fund” insert “, MFET Limited”.
+(10)[^c-f823b9339f71fded19323d6390e40c38][^c-6e2aff1e89aa24536af75ef7976274f7] In Schedule 7 in paragraph 35 after “the Fund” insert “, MFET Limited”.
 
-## 9. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-954a5728b5c43eab6715adbeb4375561][^key-09ddee5851845b680f77555552ca993f][^key-9a986dffcc0ea623e43dadbf536e4e24][^key-954a5728b5c43eab6715adbeb4375561][^key-09ddee5851845b680f77555552ca993f]
+## 9. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-954a5728b5c43eab6715adbeb4375561][^c-09ddee5851845b680f77555552ca993f][^c-9a986dffcc0ea623e43dadbf536e4e24][^c-954a5728b5c43eab6715adbeb4375561][^c-09ddee5851845b680f77555552ca993f]
 
-(1)[^key-954a5728b5c43eab6715adbeb4375561][^key-09ddee5851845b680f77555552ca993f] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00078] are amended in accordance with paragraphs (2) to (6).
+(1)[^c-954a5728b5c43eab6715adbeb4375561][^c-09ddee5851845b680f77555552ca993f] The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00078] are amended in accordance with paragraphs (2) to (6).
 
-(2)[^key-954a5728b5c43eab6715adbeb4375561][^key-09ddee5851845b680f77555552ca993f][^key-9a986dffcc0ea623e43dadbf536e4e24] In regulation 2(1) (interpretation) after the definition of “maximum rent (LHA)”[^f00079] insert—
+(2)[^c-954a5728b5c43eab6715adbeb4375561][^c-09ddee5851845b680f77555552ca993f][^c-9a986dffcc0ea623e43dadbf536e4e24] In regulation 2(1) (interpretation) after the definition of “maximum rent (LHA)”[^f00079] insert—
 
 > - “MFET Limited” means the company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products;
 
 .
 
-(3)[^key-954a5728b5c43eab6715adbeb4375561][^key-09ddee5851845b680f77555552ca993f] In—
+(3)[^c-954a5728b5c43eab6715adbeb4375561][^c-09ddee5851845b680f77555552ca993f] In—
 
 - (a) regulation 2(1) in the definition of “qualifying person”;
 - (b) regulation 53(10)(b)[^f00080] (non-dependant deductions);
@@ -335,9 +335,9 @@ after “under” insert “or by”.
 
 after “Eileen Trust” insert “, MFET Limited”.
 
-(4)[^key-9a986dffcc0ea623e43dadbf536e4e24] In regulation 39(4)[^f00081] (notional income) for “aged not less than 60” substitute “who has attained the qualifying age for state pension credit”.
+(4)[^c-9a986dffcc0ea623e43dadbf536e4e24] In regulation 39(4)[^f00081] (notional income) for “aged not less than 60” substitute “who has attained the qualifying age for state pension credit”.
 
-(5)[^key-954a5728b5c43eab6715adbeb4375561][^key-09ddee5851845b680f77555552ca993f] In—
+(5)[^c-954a5728b5c43eab6715adbeb4375561][^c-09ddee5851845b680f77555552ca993f] In—
 
 - (a) regulation 53(10)(b) where it first occurs;
 - (b) regulation 63(4)(a)(ii); and
@@ -345,9 +345,9 @@ after “Eileen Trust” insert “, MFET Limited”.
 
 after “under” insert “or by”.
 
-(6)[^key-9a986dffcc0ea623e43dadbf536e4e24] In regulation 63(5)[^f00083] for “is aged not less than 60” substitute “has attained the qualifying age for state pension credit”.
+(6)[^c-9a986dffcc0ea623e43dadbf536e4e24] In regulation 63(5)[^f00083] for “is aged not less than 60” substitute “has attained the qualifying age for state pension credit”.
 
-## 10. Amendment of the Employment and Support Allowance Regulations[^key-e7a09307ba469856fb4e7a7ab22a2b46]
+## 10. Amendment of the Employment and Support Allowance Regulations[^c-e7a09307ba469856fb4e7a7ab22a2b46]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00084] are amended in accordance with paragraphs (2) to (6).
 
@@ -388,7 +388,7 @@ after “under” insert “or by”.
 
 (6) In regulation 115(2)(e) for “is aged under 60” substitute “has not attained the qualifying age for state pension credit”.
 
-## 11. Amendment of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations[^key-337f92f1f17490d5b14c72919c5546e5]
+## 11. Amendment of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations[^c-337f92f1f17490d5b14c72919c5546e5]
 
 In regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payments) Regulations (Northern Ireland) 2008[^f00085] (exempted trusts and payments) after sub-paragraph (h) add—
 
@@ -396,7 +396,7 @@ In regulation 7(2) of the Social Security (Recovery of Benefits) (Lump Sum Payme
 
 .
 
-## 12. Revocation[^key-6a576e0af268a2a8c03a76ce33a3a04f]
+## 12. Revocation[^c-6a576e0af268a2a8c03a76ce33a3a04f]
 
 Regulation 3 of the Income Support (General) and Jobseeker’s Allowance (Amendment No. 2) Regulations (Northern Ireland) 2002[^f00086] is hereby revoked.
 
@@ -483,13 +483,13 @@ In so far as these Regulations are required, for the purposes of regulations 8 a
 
 [^f00009]: Footnote: S*ee* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-d90e09e6d91a1b58440d3d185af00bee]: Commencement: Reg. 1 in operation at 1.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/2)
+[^c-d90e09e6d91a1b58440d3d185af00bee]: Commencement: Reg. 1 in operation at 1.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/2)
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7a2cb313e70c11498b5dffb11e3fb108]: Commencement: Reg. 2(1)-(8)(10) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-7a2cb313e70c11498b5dffb11e3fb108]: Commencement: Reg. 2(1)-(8)(10) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
-[^key-4f7e11e47c7e8d83db6e860a2b972342]: Commencement: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2010/69/regulation/2/9) in operation at 13.4.2010, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/4/a)
+[^c-4f7e11e47c7e8d83db6e860a2b972342]: Commencement: [Reg. 2(9)](https://www.legislation.gov.uk/nisr/2010/69/regulation/2/9) in operation at 13.4.2010, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/4/a)
 
 [^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146), [205](https://www.legislation.gov.uk/nisr/1988/205) and [318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1990 No. 33](https://www.legislation.gov.uk/nisr/1990/33), [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204), [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), [S.R. 1993 Nos. 195](https://www.legislation.gov.uk/nisr/1993/195) and [233](https://www.legislation.gov.uk/nisr/1993/233), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199), [S.R. 1998 Nos. 2](https://www.legislation.gov.uk/nisr/1998/2) and [326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241), [S.R. 2004 Nos. 213](https://www.legislation.gov.uk/nisr/2004/213) and [389](https://www.legislation.gov.uk/nisr/2004/389), [S.R. 2005 Nos. 424](https://www.legislation.gov.uk/nisr/2005/424), [536](https://www.legislation.gov.uk/nisr/2005/536) and [550](https://www.legislation.gov.uk/nisr/2005/550), [S.R. 2006 No. 97](https://www.legislation.gov.uk/nisr/2006/97) and [S.R. 2007 Nos. 306](https://www.legislation.gov.uk/nisr/2007/306) and [382](https://www.legislation.gov.uk/nisr/2007/382) and [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428)
 
@@ -533,15 +533,15 @@ In so far as these Regulations are required, for the purposes of regulations 8 a
 
 [^f00031]: Footnote: Sub-paragraph (3) was substituted by paragraph 3 of Schedule 2 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
 
-[^key-cedcf51a32bbfd2b651e5bb1fb98895a]: Commencement: Reg. 3 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-cedcf51a32bbfd2b651e5bb1fb98895a]: Commencement: Reg. 3 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
 [^f00032]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are regulation 5(3) of [S.R.1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), regulation 2(6)(b) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), regulation 5(b) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and regulation 13(7) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
 [^f00033]: Footnote: Paragraph (4) was added by regulation 5(3) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
 
-[^key-ac846d92c866da115c1fbb68fe30caa7]: Commencement: Reg. 4(1)-(10)(12)-(13) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-ac846d92c866da115c1fbb68fe30caa7]: Commencement: Reg. 4(1)-(10)(12)-(13) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
-[^key-a5930dae1f5775ff1ec66fd7b86ec398]: Commencement: [Reg. 4(11)](https://www.legislation.gov.uk/nisr/2010/69/regulation/4/11) in operation at 13.4.2010, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/4/b)
+[^c-a5930dae1f5775ff1ec66fd7b86ec398]: Commencement: [Reg. 4(11)](https://www.legislation.gov.uk/nisr/2010/69/regulation/4/11) in operation at 13.4.2010, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/4/b)
 
 [^f00034]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Rules are [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326), [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350), [S.R. 2002 Nos. 236](https://www.legislation.gov.uk/nisr/2002/236) and [332](https://www.legislation.gov.uk/nisr/2002/332), [S.R. 2004 Nos. 213](https://www.legislation.gov.uk/nisr/2004/213) and [389](https://www.legislation.gov.uk/nisr/2004/389), [S.R. 2005 Nos. 424](https://www.legislation.gov.uk/nisr/2005/424), [536](https://www.legislation.gov.uk/nisr/2005/536) and [550](https://www.legislation.gov.uk/nisr/2005/550), [S.R. 2006 No. 97](https://www.legislation.gov.uk/nisr/2006/97), [S.R. 2007 Nos. 306](https://www.legislation.gov.uk/nisr/2007/306) and [396](https://www.legislation.gov.uk/nisr/2007/396), [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428)
 
@@ -583,17 +583,17 @@ In so far as these Regulations are required, for the purposes of regulations 8 a
 
 [^f00053]: Footnote: [S.R. 2009 No.418](https://www.legislation.gov.uk/nisr/2009/418)
 
-[^key-e28881fa292f49f0c0463edb9f44c7c1]: Commencement: Reg. 5 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-e28881fa292f49f0c0463edb9f44c7c1]: Commencement: Reg. 5 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
 [^f00054]: Footnote: [S.R. 1997 No. 429](https://www.legislation.gov.uk/nisr/1997/429)
 
 [^f00055]: Footnote: Sub-paragraph (k) was added by regulation 5 of [S.R. 2005 No. 550](https://www.legislation.gov.uk/nisr/2005/550)
 
-[^key-33d746d6e11a7e4f74ca0fa9d635a509]: Commencement: Reg. 6(1)-(3)(6)(7) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-33d746d6e11a7e4f74ca0fa9d635a509]: Commencement: Reg. 6(1)-(3)(6)(7) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
-[^key-7243580fe7cc41c80257183395c63da4]: Commencement: [Reg. 6(4)](https://www.legislation.gov.uk/nisr/2010/69/regulation/6/4) in operation at 13.4.2010, see [reg. 1(4)(c)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/4/c)
+[^c-7243580fe7cc41c80257183395c63da4]: Commencement: [Reg. 6(4)](https://www.legislation.gov.uk/nisr/2010/69/regulation/6/4) in operation at 13.4.2010, see [reg. 1(4)(c)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/4/c)
 
-[^key-6be31f74c55fb30fd9fd3c9bbddf65f7]: Commencement: [Reg. 6(5)](https://www.legislation.gov.uk/nisr/2010/69/regulation/6/5) in operation at 13.4.2010, see [reg. 1(4)(c)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/4/c)
+[^c-6be31f74c55fb30fd9fd3c9bbddf65f7]: Commencement: [Reg. 6(5)](https://www.legislation.gov.uk/nisr/2010/69/regulation/6/5) in operation at 13.4.2010, see [reg. 1(4)(c)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/4/c)
 
 [^f00056]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Regulations are [S.R. 2004 Nos. 213](https://www.legislation.gov.uk/nisr/2004/213) and [394](https://www.legislation.gov.uk/nisr/2004/394), [S.R. 2005 Nos. 536](https://www.legislation.gov.uk/nisr/2005/536) and [550](https://www.legislation.gov.uk/nisr/2005/550), [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428)
 
@@ -609,7 +609,7 @@ In so far as these Regulations are required, for the purposes of regulations 8 a
 
 [^f00062]: Footnote: Sub-paragraphs (2) to (5) were amended by paragraph 30(5)(e) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
 
-[^key-0eced2dc22209b29149b44f505940231]: Commencement: Reg. 7 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-0eced2dc22209b29149b44f505940231]: Commencement: Reg. 7 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
 [^f00063]: Footnote: [S.R 2005 No. 506](https://www.legislation.gov.uk/nisr/2005/506); relevant amending Regulation is [S.R. 2005 No. 550](https://www.legislation.gov.uk/nisr/2005/550)
 
@@ -617,11 +617,11 @@ In so far as these Regulations are required, for the purposes of regulations 8 a
 
 [^f00065]: Footnote: Paragraph (3) was amended by regulation 7(b) of [S.R. 2005 No. 550](https://www.legislation.gov.uk/nisr/2005/550)
 
-[^key-f823b9339f71fded19323d6390e40c38]: Commencement: [Reg. 8(1)-(3)](https://www.legislation.gov.uk/nisr/2010/69/regulation/8/1)(5)-(7)(9)(10) in operation at 1.4.2010 in so far as not already in operation, see [reg. 1(3)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/3/a)
+[^c-f823b9339f71fded19323d6390e40c38]: Commencement: [Reg. 8(1)-(3)](https://www.legislation.gov.uk/nisr/2010/69/regulation/8/1)(5)-(7)(9)(10) in operation at 1.4.2010 in so far as not already in operation, see [reg. 1(3)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/3/a)
 
-[^key-6e2aff1e89aa24536af75ef7976274f7]: Commencement: Reg. 8(1)-(3)(5)-(7)(9)(10) in operation at 5.4.2010 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/3/a)
+[^c-6e2aff1e89aa24536af75ef7976274f7]: Commencement: Reg. 8(1)-(3)(5)-(7)(9)(10) in operation at 5.4.2010 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/3/a)
 
-[^key-26e7c18e84a7e2e5bebf817e32b38f9f]: Commencement: [Reg. 8(4)(8)](https://www.legislation.gov.uk/nisr/2010/69/regulation/8/4/8) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-26e7c18e84a7e2e5bebf817e32b38f9f]: Commencement: [Reg. 8(4)(8)](https://www.legislation.gov.uk/nisr/2010/69/regulation/8/4/8) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
 [^f00066]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulations are [S.R. 2007 Nos. 306](https://www.legislation.gov.uk/nisr/2007/306) and [382](https://www.legislation.gov.uk/nisr/2007/382), [S.R. 2008 Nos. 101](https://www.legislation.gov.uk/nisr/2008/101) and [428](https://www.legislation.gov.uk/nisr/2008/428) and [S.R. 2009 No. 92](https://www.legislation.gov.uk/nisr/2009/92)
 
@@ -643,15 +643,15 @@ In so far as these Regulations are required, for the purposes of regulations 8 a
 
 [^f00075]: Footnote: Paragraph 35 was amended by Article 7(3) of [S.R. 2007 No. 382](https://www.legislation.gov.uk/nisr/2007/382) and regulation 6(7)(a) of [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428)
 
-[^key-86df06e93327b016e64502b4a324936a]: Textual amendment: [Reg. 8(7)](https://www.legislation.gov.uk/nisr/2010/69/regulation/8/7) revoked (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/121)](https://www.legislation.gov.uk/nisr/2012/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/121/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2012/121/regulation/20), [Sch.](https://www.legislation.gov.uk/nisr/2012/121/schedule)
+[^c-86df06e93327b016e64502b4a324936a]: Textual amendment: [Reg. 8(7)](https://www.legislation.gov.uk/nisr/2010/69/regulation/8/7) revoked (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/121)](https://www.legislation.gov.uk/nisr/2012/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/121/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2012/121/regulation/20), [Sch.](https://www.legislation.gov.uk/nisr/2012/121/schedule)
 
 [^f00077]: Footnote: Paragraph (5) was amended by regulation 5(6)(a) and (b) of [S.R. 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306)
 
-[^key-954a5728b5c43eab6715adbeb4375561]: Commencement: [Reg. 9(1)-(3)](https://www.legislation.gov.uk/nisr/2010/69/regulation/9/1)(5) in operation at 1.4.2010 in so far as not already in operation, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/3/b)
+[^c-954a5728b5c43eab6715adbeb4375561]: Commencement: [Reg. 9(1)-(3)](https://www.legislation.gov.uk/nisr/2010/69/regulation/9/1)(5) in operation at 1.4.2010 in so far as not already in operation, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/3/b)
 
-[^key-09ddee5851845b680f77555552ca993f]: Commencement: Reg. 9(1)-(3)(5) in operation at 5.4.2010 for specified purposes, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/3/b)
+[^c-09ddee5851845b680f77555552ca993f]: Commencement: Reg. 9(1)-(3)(5) in operation at 5.4.2010 for specified purposes, see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/3/b)
 
-[^key-9a986dffcc0ea623e43dadbf536e4e24]: Commencement: [Reg. 9(4)(6)](https://www.legislation.gov.uk/nisr/2010/69/regulation/9/4/6) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-9a986dffcc0ea623e43dadbf536e4e24]: Commencement: [Reg. 9(4)(6)](https://www.legislation.gov.uk/nisr/2010/69/regulation/9/4/6) in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
 [^f00078]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulations are [S.R. 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306) and [S.R. 2008 Nos. 102](https://www.legislation.gov.uk/nisr/2008/102) and [428](https://www.legislation.gov.uk/nisr/2008/428)
 
@@ -665,14 +665,14 @@ In so far as these Regulations are required, for the purposes of regulations 8 a
 
 [^f00083]: Footnote: Paragraph (5) was amended by regulation 6(5)(a) and (b) of [S.R. 2007 No. 306](https://www.legislation.gov.uk/nisr/2007/306)
 
-[^key-e7a09307ba469856fb4e7a7ab22a2b46]: Commencement: Reg. 10 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-e7a09307ba469856fb4e7a7ab22a2b46]: Commencement: Reg. 10 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
 [^f00084]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
-[^key-337f92f1f17490d5b14c72919c5546e5]: Commencement: Reg. 11 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-337f92f1f17490d5b14c72919c5546e5]: Commencement: Reg. 11 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
 [^f00085]: Footnote: [S.R. 2008 No. 355](https://www.legislation.gov.uk/nisr/2008/355)
 
-[^key-6a576e0af268a2a8c03a76ce33a3a04f]: Commencement: Reg. 12 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
+[^c-6a576e0af268a2a8c03a76ce33a3a04f]: Commencement: Reg. 12 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1)
 
 [^f00086]: Footnote: [S.R. 2002 No. 332](https://www.legislation.gov.uk/nisr/2002/332)

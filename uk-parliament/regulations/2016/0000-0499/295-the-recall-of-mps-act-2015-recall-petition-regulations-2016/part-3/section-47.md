@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Retention and disposal of documents: Scotland[^key-b6b682b4512163d49dcacd88f53c8a2b]
+## 47. Retention and disposal of documents: Scotland[^c-b6b682b4512163d49dcacd88f53c8a2b]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b682b4512163d49dcacd88f53c8a2b]: Commencement: Reg. 47 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-b6b682b4512163d49dcacd88f53c8a2b]: Commencement: Reg. 47 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

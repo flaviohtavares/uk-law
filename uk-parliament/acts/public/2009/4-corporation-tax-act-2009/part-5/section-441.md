@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 441. Loan relationships for unallowable purposes[^key-c77dee9d3c6812408964c2e3b1ca0ab3][^key-f48eca789f35509c73e6cf5c7844cf64]
+## 441. Loan relationships for unallowable purposes[^c-c77dee9d3c6812408964c2e3b1ca0ab3][^c-f48eca789f35509c73e6cf5c7844cf64]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The company may not bring into account for that period for the purposes of this Part so much of any debit in respect of that relationship as on a just and reasonable apportionment is attributable to the unallowable purpose.
 
-(3A)[^key-3c35f21cd4a31f83f4224cb844562863] If—
+(3A)[^c-3c35f21cd4a31f83f4224cb844562863] If—
 
 - (a) a credit brought into account for that period for the purposes of this Part by the company would (in the absence of this section) be reduced, and
 - (b) the reduction represents an amount which, if it did not reduce a credit, would be brought into account as a debit in respect of that relationship,
@@ -41,8 +41,8 @@ subsection (3) applies to the amount of the reduction as if it were an amount th
 
 ## Annotations
 
-[^key-c77dee9d3c6812408964c2e3b1ca0ab3]: Modification: S. 441 excluded by 2010 c. 4, s. 938N (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))
+[^c-c77dee9d3c6812408964c2e3b1ca0ab3]: Modification: S. 441 excluded by 2010 c. 4, s. 938N (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))
 
-[^key-f48eca789f35509c73e6cf5c7844cf64]: Modification: S. 441 excluded by 2010 c. 4, s. 938V(a) (as inserted (with effect in accordance with Sch. 20 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/20/paragraph/3))
+[^c-f48eca789f35509c73e6cf5c7844cf64]: Modification: S. 441 excluded by 2010 c. 4, s. 938V(a) (as inserted (with effect in accordance with Sch. 20 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/20/paragraph/3))
 
-[^key-3c35f21cd4a31f83f4224cb844562863]: Textual amendment: S. 441(3A) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/46)
+[^c-3c35f21cd4a31f83f4224cb844562863]: Textual amendment: S. 441(3A) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/46)

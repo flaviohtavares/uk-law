@@ -32,7 +32,7 @@ summary: ''
 
 Overseas Territories
 
-The Syria (Restrictive Measures) (Overseas Territories) (Amendment) Order 2012 (revoked)[^key-7fc3b5b7e085dc160d287564c12b4b25]
+The Syria (Restrictive Measures) (Overseas Territories) (Amendment) Order 2012 (revoked)[^c-7fc3b5b7e085dc160d287564c12b4b25]
 
 Made
 
@@ -52,50 +52,50 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-7fc3b5b7e085dc160d287564c12b4b25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fc3b5b7e085dc160d287564c12b4b25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-7fc3b5b7e085dc160d287564c12b4b25]
+## 1. Citation, commencement, interpretation and extent[^c-7fc3b5b7e085dc160d287564c12b4b25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Order[^key-7fc3b5b7e085dc160d287564c12b4b25]
+## 2. Amendments to the principal Order[^c-7fc3b5b7e085dc160d287564c12b4b25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7fc3b5b7e085dc160d287564c12b4b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fc3b5b7e085dc160d287564c12b4b25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fc3b5b7e085dc160d287564c12b4b25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7fc3b5b7e085dc160d287564c12b4b25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fc3b5b7e085dc160d287564c12b4b25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fc3b5b7e085dc160d287564c12b4b25]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3069) revoked (31.12.2020 immediately after S.I. 2020/590, S.I. 2020/591, S.I. 2020/950, S.I. 2020/951, S.I. 2020/1289 and S.I. 2020/1397 have come into force) by [The Sanctions (Overseas Territories) (Revocations) Order 2020 (S.I. 2020/1604)](https://www.legislation.gov.uk/uksi/2020/1604), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1604/article/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1604/schedule/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
+[^c-7fc3b5b7e085dc160d287564c12b4b25]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3069) revoked (31.12.2020 immediately after S.I. 2020/590, S.I. 2020/591, S.I. 2020/950, S.I. 2020/951, S.I. 2020/1289 and S.I. 2020/1397 have come into force) by [The Sanctions (Overseas Territories) (Revocations) Order 2020 (S.I. 2020/1604)](https://www.legislation.gov.uk/uksi/2020/1604), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1604/article/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1604/schedule/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)

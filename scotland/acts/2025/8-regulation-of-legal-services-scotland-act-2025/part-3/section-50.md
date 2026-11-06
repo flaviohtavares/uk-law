@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Receipt of complaints: preliminary steps[^key-94393adba55b30036bc03fac17a4843a]
+## 50. Receipt of complaints: preliminary steps[^c-94393adba55b30036bc03fac17a4843a]
 
 *Extent: S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94393adba55b30036bc03fac17a4843a]: Commencement: S. 50 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-94393adba55b30036bc03fac17a4843a]: Commencement: S. 50 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-3b4d7197cf8c9809504a2a45627d2f6d] This regulation applies in relation to a member of this scheme—
+(1)[^c-3b4d7197cf8c9809504a2a45627d2f6d] This regulation applies in relation to a member of this scheme—
 
 - (a) who dies as an active member; or
 - (b) who dies as a deferred member or a pension member of this scheme if the death results from an injury received in the execution of his duty; or
@@ -35,10 +35,10 @@ summary: ''
 - (c) if the member is also a pension credit member, the actuarial value of any pension credit; and
 - (d) any gratuity granted under regulation 164 (dependants) in respect of the member's death.
 
-(4) For the purpose of an appeal to the Department under regulation 206 (Appeals to the Department), a claim for payment[^key-a8e3119de5b72cd980c5306ac7c22352] of a gratuity under this regulation is taken to be made on the date of the member's death.
+(4) For the purpose of an appeal to the Department under regulation 206 (Appeals to the Department), a claim for payment[^c-a8e3119de5b72cd980c5306ac7c22352] of a gratuity under this regulation is taken to be made on the date of the member's death.
 
 ## Annotations
 
-[^key-3b4d7197cf8c9809504a2a45627d2f6d]: Textual amendment: [Reg. 165(1)](https://www.legislation.gov.uk/nisr/2015/113/regulation/165/1) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [34(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/34/2)
+[^c-3b4d7197cf8c9809504a2a45627d2f6d]: Textual amendment: [Reg. 165(1)](https://www.legislation.gov.uk/nisr/2015/113/regulation/165/1) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [34(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/34/2)
 
-[^key-a8e3119de5b72cd980c5306ac7c22352]: Textual amendment: Words in [reg. 165(4)](https://www.legislation.gov.uk/nisr/2015/113/regulation/165/4) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [34(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/34/3)
+[^c-a8e3119de5b72cd980c5306ac7c22352]: Textual amendment: Words in [reg. 165(4)](https://www.legislation.gov.uk/nisr/2015/113/regulation/165/4) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [34(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/34/3)

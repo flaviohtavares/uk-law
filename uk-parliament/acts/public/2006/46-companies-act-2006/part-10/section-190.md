@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Substantial property transactions: requirement of members' approval[^c19642641][^c20597291][^key-b0a1f0b9d92e29fb53adbbd7a757f23e][^key-4b1afa308b92568f4cbdb22905301f33][^c19878421][^c19878011][^c19877871]
+## 190. Substantial property transactions: requirement of members' approval[^c19642641][^c20597291][^c-b0a1f0b9d92e29fb53adbbd7a757f23e][^c-4b1afa308b92568f4cbdb22905301f33][^c19878421][^c19878011][^c19877871]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ shall be treated as if they involved a non-cash asset of a value equal to the ag
 (6) This section does not apply to a transaction so far as it relates—
 
 - (a) to anything to which a director of a company is entitled under his service contract, or
-- (b) to payment for loss of office as defined in section 215 (payments to which the requirements of Chapter 4 or 4A apply)[^key-9b01be8b17d1de0a648492fd912d2a4a].
+- (b) to payment for loss of office as defined in section 215 (payments to which the requirements of Chapter 4 or 4A apply)[^c-9b01be8b17d1de0a648492fd912d2a4a].
 
 ## Annotations
 
@@ -56,9 +56,9 @@ shall be treated as if they involved a non-cash asset of a value equal to the ag
 
 [^c20597291]: Modification: Ss. 190-196 modified (retrospective to 30.3.2009 at 8.00 a.m.) by The Amendments to [Law (Resolution of Dunfermline Building Society) Order 2009 (S.I. 2009/814)](https://www.legislation.gov.uk/uksi/2009/814), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2), [7](https://www.legislation.gov.uk/uksi/2009/814/article/7), [Sch. para. 2(h)](https://www.legislation.gov.uk/uksi/2009/814/schedule/paragraph/2/h)
 
-[^key-b0a1f0b9d92e29fb53adbbd7a757f23e]: Modification: Ss. 190-196 modified (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/114/article/7/1), [(3)](https://www.legislation.gov.uk/uksi/2016/114/article/7/3), [Sch. para. 1(h)](https://www.legislation.gov.uk/uksi/2016/114/schedule/paragraph/1/h)
+[^c-b0a1f0b9d92e29fb53adbbd7a757f23e]: Modification: Ss. 190-196 modified (1.3.2016) by [The NRAM plc (formerly Northern Rock plc) Consequential and Supplementary Provisions Order 2016 (S.I. 2016/114)](https://www.legislation.gov.uk/uksi/2016/114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/114/article/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/114/article/7/1), [(3)](https://www.legislation.gov.uk/uksi/2016/114/article/7/3), [Sch. para. 1(h)](https://www.legislation.gov.uk/uksi/2016/114/schedule/paragraph/1/h)
 
-[^key-4b1afa308b92568f4cbdb22905301f33]: Modification: [Ss. 190-196](https://www.legislation.gov.uk/ukpga/2006/46/section/190) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/1)
+[^c-4b1afa308b92568f4cbdb22905301f33]: Modification: [Ss. 190-196](https://www.legislation.gov.uk/ukpga/2006/46/section/190) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/1)
 
 [^c19878421]: Modification: Ss. 190-196 modified (22.2.2008) by The Northern Rock plc [Transfer Order 2008 (S.I. 2008/432)](https://www.legislation.gov.uk/uksi/2008/432), [art. 17(1)](https://www.legislation.gov.uk/uksi/2008/432/article/17/1), [Sch. para. 2(h)](https://www.legislation.gov.uk/uksi/2008/432/schedule/paragraph/2/h)
 
@@ -66,4 +66,4 @@ shall be treated as if they involved a non-cash asset of a value equal to the ag
 
 [^c19877871]: Modification: Ss. 190-196 modified (9.30 a.m. on 7.10.2008) by The Heritable Bank plc [Transfer of Certain Rights and Liabilities Order 2008 (S.I. 2008/2644)](https://www.legislation.gov.uk/uksi/2008/2644), [art. 26](https://www.legislation.gov.uk/uksi/2008/2644/article/26), [Sch. 2 para. 2(h)](https://www.legislation.gov.uk/uksi/2008/2644/schedule/2/paragraph/2/h)
 
-[^key-9b01be8b17d1de0a648492fd912d2a4a]: Textual amendment: Words in s. 190(6)(b) substituted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 81(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/81/3), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
+[^c-9b01be8b17d1de0a648492fd912d2a4a]: Textual amendment: Words in s. 190(6)(b) substituted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 81(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/81/3), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)

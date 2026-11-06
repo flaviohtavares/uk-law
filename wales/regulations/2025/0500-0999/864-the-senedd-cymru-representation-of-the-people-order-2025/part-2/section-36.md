@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Prohibition on publication of exit polls[^key-d121a64907be359d152f36544688c963]
+## 36. Prohibition on publication of exit polls[^c-d121a64907be359d152f36544688c963]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ any reference to the result of an election is a reference to the result of the e
 
 ## Annotations
 
-[^key-d121a64907be359d152f36544688c963]: Commencement: Art. 36 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d121a64907be359d152f36544688c963]: Commencement: Art. 36 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Approved schemes[^key-6e636ee08ff46f258910d3a2f6c75572]
+## 41. Approved schemes[^c-6e636ee08ff46f258910d3a2f6c75572]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A charity may, despite any provision of its constitution having contrary effect,
 
 ## Annotations
 
-[^key-6e636ee08ff46f258910d3a2f6c75572]: Commencement: S. 41 in force at 31.5.2007 by [S.S.I. 2007/117](https://www.legislation.gov.uk/ssi/2007/117), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/117/article/2/2)
+[^c-6e636ee08ff46f258910d3a2f6c75572]: Commencement: S. 41 in force at 31.5.2007 by [S.S.I. 2007/117](https://www.legislation.gov.uk/ssi/2007/117), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/117/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E30. Counting of certain reckonable service in calculating amount of benefits[^key-286e978b9dad06cdd1a68d5d3ae2045c]
+## E30. Counting of certain reckonable service in calculating amount of benefits[^c-286e978b9dad06cdd1a68d5d3ae2045c]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ For the purpose of calculating the amount of any benefit—
 
 ## Annotations
 
-[^key-286e978b9dad06cdd1a68d5d3ae2045c]: Commencement: [Reg. E30](https://www.legislation.gov.uk/uksi/1986/24/regulation/E30) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-286e978b9dad06cdd1a68d5d3ae2045c]: Commencement: [Reg. E30](https://www.legislation.gov.uk/uksi/1986/24/regulation/E30) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -46,7 +46,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-42a5c840b1665bea4c02220f2ee10ae5]
+### 1. Citation, commencement and extent[^c-42a5c840b1665bea4c02220f2ee10ae5]
 
 (1) These Regulations may be cited as the Train Driving Licences and Certificates (Amendment) (EU Exit) Regulations 2019.
 
@@ -58,7 +58,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 *Extent: E+W+S*
 
-### 2. Amendment of the Train Driving Licences and Certificates Regulations 2010[^key-f6389f86f0e5c59707d6ac91daedfee2]
+### 2. Amendment of the Train Driving Licences and Certificates Regulations 2010[^c-f6389f86f0e5c59707d6ac91daedfee2]
 
 (1) The Train Driving Licences and Certificates Regulations 2010 [^c23673131] are amended as follows.
 
@@ -72,12 +72,12 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
   ;
 - (c) for the definition of “the Directive” substitute—
 
-  > “**the Directive**” means Directive [2007/59/EC](https://www.legislation.gov.uk/eudr/2007/59) of the European Parliament and of the Council on the certification of train drivers operating locomotives and trains on the railway system in the Community [^c23673161] as amended from time to time, before and after IP completion day[^key-5592d5c0d714c71fd6346011ccb91ef2];
+  > “**the Directive**” means Directive [2007/59/EC](https://www.legislation.gov.uk/eudr/2007/59) of the European Parliament and of the Council on the certification of train drivers operating locomotives and trains on the railway system in the Community [^c23673161] as amended from time to time, before and after IP completion day[^c-5592d5c0d714c71fd6346011ccb91ef2];
 
   ;
 - (d) after the definition of “employed” insert—
 
-  > “**European train driving licence**” means a licence issued before the end of the transitional period[^key-f3525ac68fe4365da7f398dccddfd68c] by a safety authority in accordance with article 14 of the Directive indicating that the holder satisfies medical, educational and professional skills for train driving;
+  > “**European train driving licence**” means a licence issued before the end of the transitional period[^c-f3525ac68fe4365da7f398dccddfd68c] by a safety authority in accordance with article 14 of the Directive indicating that the holder satisfies medical, educational and professional skills for train driving;
 
   ;
 - (e) after the definition of “mainline railway” insert the following definitions—
@@ -270,7 +270,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 - (b) in paragraph 2(a), omit the words “in English”;
 - (c) in paragraph 2, omit sub-paragraphs (c), (e) and (f).
 
-(22)[^key-c21860c5058ac4ce50180a36dc309128] In sub-paragraph 8 of Schedule 4—
+(22)[^c-c21860c5058ac4ce50180a36dc309128] In sub-paragraph 8 of Schedule 4—
 
 - (a) in sub-paragraph (2), for the words from “Annex to Commission Decision” to “amending [Decision 2007/756/EC](https://www.legislation.gov.uk/eud/2007/0756)” substitute “NTSN relating to the ‘operation and traffic management’ subsystem of the rail system”;
 - (b) after sub-paragraph (3) insert—
@@ -281,7 +281,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 3 — Amendment of retained direct EU legislation
 
-### 3. Amendment of Commission Decision [2010/17/EC](https://www.legislation.gov.uk/eud/2010/17)[^key-a5adc897edda61030faad3217e4bd8d7]
+### 3. Amendment of Commission Decision [2010/17/EC](https://www.legislation.gov.uk/eud/2010/17)[^c-a5adc897edda61030faad3217e4bd8d7]
 
 (1) The Commission Decision of 29 October 2009 on the adoption of basic parameters for registers of train driving licences and complementary certificates provided for under Directive [2007/59/EC](https://www.legislation.gov.uk/eudr/2007/59) of the European Parliament and of the Council (Decision [2010/17/EC](https://www.legislation.gov.uk/eud/2010/17)) is amended as follows.
 
@@ -327,8 +327,8 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
   - (viii) in the table in Section 4 (information on the basic requirements for issuing a licence and results of periodic checks), at point 27.1, in the third column, for the words from “criteria” to the end, substitute “ in paragraph 2(2) of Schedule 1 to the Regulations or paragraph 2(2) of Schedule 1 to the NI Regulations, as the case may be ”,
   - (ix) in the table in Section 4 (information on the basic requirements for issuing a licence and results of periodic checks), at point 28.1, in the third column, for the words from “criteria” to the end substitute “ in Schedule 3 to the Regulations or Schedule 3 to the NI Regulations, as the case may be ”;
 - (d) in Chapter 4 (access rights)—
-  - (i)[^key-da9c9e1d59a9708b166358819de96ad7] omit the first indent (including its two sub-indents),
-  - (ii)[^key-1f2b95bcc96d05bed986f284b8f0527a] omit the second indent,
+  - (i)[^c-da9c9e1d59a9708b166358819de96ad7] omit the first indent (including its two sub-indents),
+  - (ii)[^c-1f2b95bcc96d05bed986f284b8f0527a] omit the second indent,
   - (iii) in the third and fourth indents, for “article 22(1)(b) of Directive [2007/59/EC](https://www.legislation.gov.uk/eudr/2007/59)”, substitute “ regulation 26 of the Regulations, or regulation 25 of the NI Regulations as the case may be ”,
   - (iv) for the words of the sixth indent, substitute “ to the Rail Accident Investigation Branch for investigating accidents in accordance with the Railways and Transport Safety Act 2003 [^c23673231] ”.
 - (e) for Chapter 5 (data exchange) substitute—
@@ -379,7 +379,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
   ;
 - (f) in Chapter 7 (procedure in case of bankruptcy), for “competent authority in the Member State where the railway undertaking or infrastructure manager is established”, substitute “ ORR or the Department, as the case may be, according to where the railway undertaking or infrastructure manager is established, ”.
 
-### 4. Amendments to Commission Regulation (EU) No 36/2010[^key-c49dcaf45caa8fbea6397eb512afb0dd]
+### 4. Amendments to Commission Regulation (EU) No 36/2010[^c-c49dcaf45caa8fbea6397eb512afb0dd]
 
 (1) Commission Regulation (EU) No 36/2010 on Community models for train driving licences, complementary certificates, certified copies of complementary certificates and application forms for train driving licences under Directive [2007/59/EC](https://www.legislation.gov.uk/eudr/2007/59) of the European Parliament and the Council is amended as follows.
 
@@ -618,7 +618,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
   ,
 - (bb) in paragraph 4.5, in the second sub-paragraph, for “competent authorities”, substitute “ ORR or the Department ”, and omit the final sentence.
 
-### 5. Amendments to Commission Decision 2011/765/EU[^key-c09f8d32ea2dee8c57c57ccf7f6c273f]
+### 5. Amendments to Commission Decision 2011/765/EU[^c-c09f8d32ea2dee8c57c57ccf7f6c273f]
 
 (1) Commission Decision of 22 November 2011 on criteria for the recognition of training centres involved in the training of train drivers, on criteria for the recognition of examiners of train drivers and on criteria for the organisation of examinations in accordance with Directive [2007/59/EC](https://www.legislation.gov.uk/eudr/2007/59) of the European Parliament and of the Council (2011/765/EU) is amended as follows.
 
@@ -717,9 +717,9 @@ An Explanatory Memorandum is published alongside the instrument onwww.legislatio
 
 [^c23673121]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-42a5c840b1665bea4c02220f2ee10ae5]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-42a5c840b1665bea4c02220f2ee10ae5]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-f6389f86f0e5c59707d6ac91daedfee2]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f6389f86f0e5c59707d6ac91daedfee2]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23673131]: Marginal citation: [S.I. 2010/724](https://www.legislation.gov.uk/uksi/2010/724), amended by [S.I. 2013/950](https://www.legislation.gov.uk/uksi/2013/950), 2015/1798.
 
@@ -729,9 +729,9 @@ An Explanatory Memorandum is published alongside the instrument onwww.legislatio
 
 [^c23673161]: Marginal citation: O.J. No. L315, 3.12.2007, p.51, as amended by Commission Directive 2014/82/EU (O.J. No. L184, 25.6.2014, p.11) and Commission Directive (EU) 2016/882 (O.J. No. L146, 3.6.2016, p.22).
 
-[^key-5592d5c0d714c71fd6346011ccb91ef2]: Textual amendment: Words in reg. 2(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/6/2/a)
+[^c-5592d5c0d714c71fd6346011ccb91ef2]: Textual amendment: Words in reg. 2(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/6/2/a)
 
-[^key-f3525ac68fe4365da7f398dccddfd68c]: Textual amendment: Words in reg. 2(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/6/2/b)
+[^c-f3525ac68fe4365da7f398dccddfd68c]: Textual amendment: Words in reg. 2(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/6/2/b)
 
 [^c23673171]: Marginal citation: S.R. [2010 No. 132](https://www.legislation.gov.uk/ukcm/2010/132), amended by S.R. [2013 No. 126](https://www.legislation.gov.uk/ukcm/2013/126), S.R. [2016 No. 73](https://www.legislation.gov.uk/ukcm/2016/73).
 
@@ -739,9 +739,9 @@ An Explanatory Memorandum is published alongside the instrument onwww.legislatio
 
 [^c23673191]: Marginal citation: O.J. No. L164, 30.4.2004, p 44 as amended by Directive 2008/57/EC of the European Parliament and of the Council on the interoperability of the rail system within the Community (Recast) (O.J. No. L191, 18.7.2008, p 1), Directive 2008/110/EC of the European Parliament and of the Council (O.J. No. L345, 23.12.2008, p 62), Commission Directive 2009/149/EC (O.J. No. L313, 28.11.2009, p 65), Directive 2012/34/EU of the European Parliament and of the Council establishing a single European railway area (recast) (O.J. No. L343, 14.12.2012, p 32) and Commission Directive 2014/88/EU (O.J. No. L201, 10.7.2014, p 44).
 
-[^key-c21860c5058ac4ce50180a36dc309128]: Textual amendment: Reg. 2(22) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/1)
+[^c-c21860c5058ac4ce50180a36dc309128]: Textual amendment: Reg. 2(22) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/1)
 
-[^key-a5adc897edda61030faad3217e4bd8d7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a5adc897edda61030faad3217e4bd8d7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23673201]: Marginal citation: O.J. No. L164, 30.4.2004, p 44 to which there are amendments not relevant to these Regulations.
 
@@ -749,13 +749,13 @@ An Explanatory Memorandum is published alongside the instrument onwww.legislatio
 
 [^c23673221]: Marginal citation: The Office of Rail and Road was established by section 15 of the [Railways and Transport Safety Act 2003 (c.20)](https://www.legislation.gov.uk/ukpga/2003/20). Section 15 was amended by [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682), [Sch](https://www.legislation.gov.uk/uksi/2015/1682/schedule)edule, Part 1, paragraph 2(b).
 
-[^key-da9c9e1d59a9708b166358819de96ad7]: Textual amendment: Reg. 3(5)(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/2/a)
+[^c-da9c9e1d59a9708b166358819de96ad7]: Textual amendment: Reg. 3(5)(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/2/a)
 
-[^key-1f2b95bcc96d05bed986f284b8f0527a]: Textual amendment: Reg. 3(5)(d)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/2/b)
+[^c-1f2b95bcc96d05bed986f284b8f0527a]: Textual amendment: Reg. 3(5)(d)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/4/2/b)
 
 [^c23673231]: Marginal citation: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20). In accordance with section 3(3) of the 2003 Act, the Rail Accident Investigation Branch means those inspectors appointed by the Secretary of State under section 3 of that Act.
 
-[^key-c49dcaf45caa8fbea6397eb512afb0dd]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c49dcaf45caa8fbea6397eb512afb0dd]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23673241]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
@@ -769,4 +769,4 @@ An Explanatory Memorandum is published alongside the instrument onwww.legislatio
 
 [^c23673291]: Marginal citation: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039) to which there are amendments not relevant to these Regulations.
 
-[^key-c09f8d32ea2dee8c57c57ccf7f6c273f]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c09f8d32ea2dee8c57c57ccf7f6c273f]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

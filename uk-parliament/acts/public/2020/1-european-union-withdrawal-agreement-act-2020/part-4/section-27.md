@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Dealing with deficiencies in retained EU law[^key-09ec6a9df25aee12c95a5c8df0c2feb6]
+## 27. Dealing with deficiencies in retained EU law[^c-09ec6a9df25aee12c95a5c8df0c2feb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09ec6a9df25aee12c95a5c8df0c2feb6]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2020/1/section/27) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)
+[^c-09ec6a9df25aee12c95a5c8df0c2feb6]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2020/1/section/27) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/k)

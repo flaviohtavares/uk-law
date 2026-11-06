@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Financial provision[^key-0f9d0fb8db63840b5bf2d776567830fb]
+## SCHEDULE 2 — Financial provision[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
 *Extent: E+W*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Section 15.
 
-### Introductory[^key-0f9d0fb8db63840b5bf2d776567830fb]
+### Introductory[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
-**1.**[^key-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The orders[^key-0f9d0fb8db63840b5bf2d776567830fb]
+### The orders[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
-**2.**[^key-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Financial provision: divorce and separation[^key-0f9d0fb8db63840b5bf2d776567830fb]
+### Financial provision: divorce and separation[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
-**3.**[^key-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Financial provision: nullity of marriage[^key-0f9d0fb8db63840b5bf2d776567830fb]
+### Financial provision: nullity of marriage[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
-**4.**[^key-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Property adjustment orders: divorce and separation[^key-0f9d0fb8db63840b5bf2d776567830fb]
+### Property adjustment orders: divorce and separation[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
-**5.**[^key-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Property adjustment orders: nullity[^key-0f9d0fb8db63840b5bf2d776567830fb]
+### Property adjustment orders: nullity[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
-**6.**[^key-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Pension sharing orders: divorce and nullity[^key-0f9d0fb8db63840b5bf2d776567830fb]
+### Pension sharing orders: divorce and nullity[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
-**6A.**[^key-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6A.**[^c-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Period of secured and unsecured payments orders[^key-0f9d0fb8db63840b5bf2d776567830fb]
+### Period of secured and unsecured payments orders[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
-**7.**[^key-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Variations et ceteralaetc. following reconciliations[^key-0f9d0fb8db63840b5bf2d776567830fb]
+### Variations et ceteralaetc. following reconciliations[^c-0f9d0fb8db63840b5bf2d776567830fb]
 
-**8.**[^key-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-0f9d0fb8db63840b5bf2d776567830fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f9d0fb8db63840b5bf2d776567830fb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/27/schedule/2) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/1), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-0f9d0fb8db63840b5bf2d776567830fb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/27/schedule/2) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/1), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)

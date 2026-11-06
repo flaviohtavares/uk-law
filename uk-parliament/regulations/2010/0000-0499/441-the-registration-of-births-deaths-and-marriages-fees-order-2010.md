@@ -32,7 +32,7 @@ summary: ''
 
 Registration Of Births, Deaths And Marriages, Etc., England And Wales
 
-The Registration of Births, Deaths and Marriages (Fees) Order 2010 (revoked)[^key-cecd2f452e0d10c8fe612bad3f4aa9ec]
+The Registration of Births, Deaths and Marriages (Fees) Order 2010 (revoked)[^c-cecd2f452e0d10c8fe612bad3f4aa9ec]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 6th April 2010
 
-[^key-cecd2f452e0d10c8fe612bad3f4aa9ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cecd2f452e0d10c8fe612bad3f4aa9ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-cecd2f452e0d10c8fe612bad3f4aa9ec]
+## 1. Citation, commencement and interpretation[^c-cecd2f452e0d10c8fe612bad3f4aa9ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable[^key-cecd2f452e0d10c8fe612bad3f4aa9ec]
+## 2. Fees payable[^c-cecd2f452e0d10c8fe612bad3f4aa9ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-cecd2f452e0d10c8fe612bad3f4aa9ec]
+## 3. Revocations[^c-cecd2f452e0d10c8fe612bad3f4aa9ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cecd2f452e0d10c8fe612bad3f4aa9ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cecd2f452e0d10c8fe612bad3f4aa9ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FEES PAYABLE FROM 6<sup>th</sup> APRIL 2010[^key-cecd2f452e0d10c8fe612bad3f4aa9ec]
+## SCHEDULE — FEES PAYABLE FROM 6<sup>th</sup> APRIL 2010[^c-cecd2f452e0d10c8fe612bad3f4aa9ec]
 
 Article 2
 
@@ -74,10 +74,10 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-cecd2f452e0d10c8fe612bad3f4aa9ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cecd2f452e0d10c8fe612bad3f4aa9ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cecd2f452e0d10c8fe612bad3f4aa9ec]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/441) revoked (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/1) Table
+[^c-cecd2f452e0d10c8fe612bad3f4aa9ec]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/441) revoked (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/1) Table
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Procedure for admitting creditors’ claims for voting[^key-a8df224082c5c525fb33966c8443a3fc]
+## 53. Procedure for admitting creditors’ claims for voting[^c-a8df224082c5c525fb33966c8443a3fc]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8df224082c5c525fb33966c8443a3fc]: Commencement: Rule 53 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a8df224082c5c525fb33966c8443a3fc]: Commencement: Rule 53 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. General exemptions[^key-e0921b7b435cc955f0aaa4b274f63296]
+## 10. General exemptions[^c-e0921b7b435cc955f0aaa4b274f63296]
 
 *Extent: S*
 
 (1) Subject to paragraphs (2) and (3), the Scottish Ministers may, by a general licence, exempt any person or class of persons, or persons generally, from compliance with any provision of these Regulations.
 
-(2)[^key-7e9859cdbf384a8eacc9179f2f37881d] The Scottish Ministers may exercise the power under paragraph (1)—
+(2)[^c-7e9859cdbf384a8eacc9179f2f37881d] The Scottish Ministers may exercise the power under paragraph (1)—
 
 - (a) for the purposes of a temporary experiment seeking improved alternatives to provisions of these Regulations and organised in accordance with regulations made under section 16(5) of the Act; or
 - (b) to the extent that the provisions of the general licence are—
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0921b7b435cc955f0aaa4b274f63296]: Commencement: Reg. 10 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-e0921b7b435cc955f0aaa4b274f63296]: Commencement: Reg. 10 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
-[^key-7e9859cdbf384a8eacc9179f2f37881d]: Textual amendment: [Reg. 10(2)-(2B)](https://www.legislation.gov.uk/ssi/2005/328/regulation/10/2) substituted for reg. 10(2) (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(10)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/10) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(9)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e9859cdbf384a8eacc9179f2f37881d]: Textual amendment: [Reg. 10(2)-(2B)](https://www.legislation.gov.uk/ssi/2005/328/regulation/10/2) substituted for reg. 10(2) (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [13(10)](https://www.legislation.gov.uk/ssi/2019/59/regulation/13/10) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(9)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

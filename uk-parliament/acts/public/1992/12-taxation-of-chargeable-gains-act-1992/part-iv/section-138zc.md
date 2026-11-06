@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138ZC. Election to disapply section 135 or 136[^key-83c4505550b505f10febfe2081f7866c]
+## 138ZC. Election to disapply section 135 or 136[^c-83c4505550b505f10febfe2081f7866c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83c4505550b505f10febfe2081f7866c]: Textual amendment: [Ss. 138ZA-138ZC](https://www.legislation.gov.uk/ukpga/1992/12/section/138ZA) inserted (with effect in accordance with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/36/4) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 36(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/36/2)
+[^c-83c4505550b505f10febfe2081f7866c]: Textual amendment: [Ss. 138ZA-138ZC](https://www.legislation.gov.uk/ukpga/1992/12/section/138ZA) inserted (with effect in accordance with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/36/4) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 36(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/36/2)

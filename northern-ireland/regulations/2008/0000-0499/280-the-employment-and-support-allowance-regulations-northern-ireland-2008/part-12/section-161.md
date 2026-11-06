@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 161. Suspension of payment of a contributory allowance during imprisonment[^key-49534e435519bd34f6e044bdd6f216c2]
+## 161. Suspension of payment of a contributory allowance during imprisonment[^c-49534e435519bd34f6e044bdd6f216c2]
 
 *Extent: N.I.*
 
 (1) Subject to the following provisions of this regulation, the payment of a contributory allowance to any claimant—
 
-- (a) which is excepted from the operation of section 18(4)(b) of the Act by virtue of regulation 160 (1)[^key-59c483f71c67cf0688b909f95b501d3a] , (3) or (6); or
+- (a) which is excepted from the operation of section 18(4)(b) of the Act by virtue of regulation 160 (1)[^c-59c483f71c67cf0688b909f95b501d3a] , (3) or (6); or
 - (b) which is payable otherwise than in respect of a period during which the claimant is undergoing imprisonment or detention in legal custody,
 
 is suspended while that claimant is undergoing imprisonment or detention in legal custody.
@@ -33,8 +33,8 @@ is suspended while that claimant is undergoing imprisonment or detention in lega
 
 ## Annotations
 
-[^key-49534e435519bd34f6e044bdd6f216c2]: Commencement: [Reg. 161](https://www.legislation.gov.uk/nisr/2008/280/regulation/161) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-49534e435519bd34f6e044bdd6f216c2]: Commencement: [Reg. 161](https://www.legislation.gov.uk/nisr/2008/280/regulation/161) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-59c483f71c67cf0688b909f95b501d3a]: Textual amendment: Word in [reg. 161(1)(a)](https://www.legislation.gov.uk/nisr/2008/280/regulation/161/1/a) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [21(13)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/13)
+[^c-59c483f71c67cf0688b909f95b501d3a]: Textual amendment: Word in [reg. 161(1)(a)](https://www.legislation.gov.uk/nisr/2008/280/regulation/161/1/a) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [21(13)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/13)
 
 [^f00160]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Rules are [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375), [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), S.R. [2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46) and [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168)

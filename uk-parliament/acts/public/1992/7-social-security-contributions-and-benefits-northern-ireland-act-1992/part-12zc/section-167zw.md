@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167ZW. Entitlement: adoption[^key-604f3133e2a60f1eb77d1cdae586af7e]
+## 167ZW. Entitlement: adoption[^c-604f3133e2a60f1eb77d1cdae586af7e]
 
 *Extent: N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-604f3133e2a60f1eb77d1cdae586af7e]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZC) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/d)
+[^c-604f3133e2a60f1eb77d1cdae586af7e]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/7/part/12ZC) inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 5(2)](https://www.legislation.gov.uk/nia/2015/1/section/5/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/d)

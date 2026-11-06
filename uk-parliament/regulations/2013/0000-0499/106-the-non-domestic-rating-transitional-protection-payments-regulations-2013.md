@@ -74,10 +74,10 @@ Where—
 (2) For the purposes of paragraph (1) it shall be assumed that in relation to all relevant hereditaments and all days in the relevant year and all previous years—
 
 - (a) the hereditament is wholly occupied;
-- (b)[^key-bb678ab7ca938013f8b2ddaabadbc205] the conditions prescribed for the purposes of paragraph 4(2) of Schedule 4ZA to the 1988 Act (small business rate relief) are fulfilled and the value of E in paragraph 4(1) of Schedule 4ZA to that Act is 1;
+- (b)[^c-bb678ab7ca938013f8b2ddaabadbc205] the conditions prescribed for the purposes of paragraph 4(2) of Schedule 4ZA to the 1988 Act (small business rate relief) are fulfilled and the value of E in paragraph 4(1) of Schedule 4ZA to that Act is 1;
 - (c) paragraphs 2(2) (charitable rate relief), 6 (heat networks rate relief), 7 (public lavatories relief) and 8(1) (rural rate relief) of Schedule 4ZA to the 1988 Act do not apply;
 - (d) a determination under section 47 (discretionary relief) or reduction or remission under section 49 of the 1988 Act (reduction or remission in the case of hardship) has not been made;
-- (e)[^key-6d944628214ffc5b699a6073f538bb78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-6d944628214ffc5b699a6073f538bb78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Rules for calculation of actual rating income
 
@@ -94,10 +94,10 @@ D is the total of amounts that would be charged to the billing authority's colle
 (2) For the purposes of paragraph (1) it shall be assumed that in relation to all relevant hereditaments and all days in the relevant year and all previous years—
 
 - (a) the hereditament is wholly occupied;
-- (b)[^key-23287cb508c1b1f073ea46373a1b8ee7] the conditions prescribed for the purposes of paragraph 4(2) of Schedule 4ZA to the 1988 Act (small business rate relief) are fulfilled and the value of E in paragraph 4(1) of Schedule 4ZA to that Act is 1;
+- (b)[^c-23287cb508c1b1f073ea46373a1b8ee7] the conditions prescribed for the purposes of paragraph 4(2) of Schedule 4ZA to the 1988 Act (small business rate relief) are fulfilled and the value of E in paragraph 4(1) of Schedule 4ZA to that Act is 1;
 - (c) paragraphs 2(2) (charitable rate relief), 6 (heat networks rate relief), 7 (public lavatories relief) and 8(1) (rural rate relief) of Schedule 4ZA to the 1988 Act do not apply;
 - (d) a determination under section 47 (discretionary relief) or reduction or remission under section 49 of the 1988 Act (reduction or remission in the case of hardship) has not been made;
-- (e)[^key-289c32a91b56a7f62999a4d574efd991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-289c32a91b56a7f62999a4d574efd991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Calculation of payments on account
 
@@ -123,20 +123,20 @@ D is the total of amounts that would be charged to the billing authority's colle
 
 (2) If the amount of an authority's actual rating income for a year estimated in accordance with regulation 4 exceeds its deemed rating income for the year estimated in accordance with that regulation, the authority must pay to the Secretary of State an amount equal to the excess.
 
-(3) Amounts payable under this regulation shall be paid during the course of the relevant year by means of 12[^key-a34e4b3f50e211c73c044981e29acfad] instalments such that—
+(3) Amounts payable under this regulation shall be paid during the course of the relevant year by means of 12[^c-a34e4b3f50e211c73c044981e29acfad] instalments such that—
 
 - (a) the first instalment is payable on the 30th April; and
-- (b) the subsequent instalments are payable on the 19th day of each of the following 11[^key-02ae85277a0e41c6d1e5d25db50cd832] months starting in May.
+- (b) the subsequent instalments are payable on the 19th day of each of the following 11[^c-02ae85277a0e41c6d1e5d25db50cd832] months starting in May.
 
 (4) Where an instalment falls to be paid on a Friday or a day that is not a working day, it shall instead be payable on the first working day that is not a Friday following that day.
 
-(4A)[^key-b386f85cb9413d0b4deeae957f4b442d] The first four instalments are each to be of 9% of the amount payable and each other instalment is to be 8% of the amount payable.
+(4A)[^c-b386f85cb9413d0b4deeae957f4b442d] The first four instalments are each to be of 9% of the amount payable and each other instalment is to be 8% of the amount payable.
 
 (5) For the purpose of this regulation “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England under the Banking and Financial Dealings Act 1971 [^c21537721].
 
 ## 6. End of year calculations
 
-(1) Subject to[^key-4af59e07b2fa6e81293daaa52a70ce0f] paragraphs (3) to (6)[^key-5e10c10bdab5cabf0e8d06f456d3bf93], on or before 30 September in the year following a relevant year a billing authority must—
+(1) Subject to[^c-4af59e07b2fa6e81293daaa52a70ce0f] paragraphs (3) to (6)[^c-5e10c10bdab5cabf0e8d06f456d3bf93], on or before 30 September in the year following a relevant year a billing authority must—
 
 - (a) calculate the amount of its deemed rating income for the relevant year;
 - (b) calculate the amount of its actual rating income for the relevant year; and
@@ -144,13 +144,13 @@ D is the total of amounts that would be charged to the billing authority's colle
 
 (2) The person certifying the calculations and amounts must send the certification to the Secretary of State and notify the billing authority of the amounts certified.
 
-(3)[^key-bd51ada7591b72b599a3cea045689539] Paragraph (1) applies in relation to calculations for a relevant year beginning on 1st April 2019 or 1st April 2021 as if for “30 September” there were substituted “30 November”.[^key-a5da2606d350f6731da3e3d1d018c217]
+(3)[^c-bd51ada7591b72b599a3cea045689539] Paragraph (1) applies in relation to calculations for a relevant year beginning on 1st April 2019 or 1st April 2021 as if for “30 September” there were substituted “30 November”.[^c-a5da2606d350f6731da3e3d1d018c217]
 
 *Extent: E*
 
-(4)[^key-6be140a27becc7e7242c81373d82f6da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6be140a27becc7e7242c81373d82f6da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-fdf162ca9ffe2cad6e95fd29a1eef017] Subject to paragraph (6), paragraph (1) applies in relation to calculations for the relevant years listed in the first column of the following table as if for “30 September in the year following a relevant year” there were substituted the words in the second column—
+(5)[^c-fdf162ca9ffe2cad6e95fd29a1eef017] Subject to paragraph (6), paragraph (1) applies in relation to calculations for the relevant years listed in the first column of the following table as if for “30 September in the year following a relevant year” there were substituted the words in the second column—
 
 | Relevant year beginning in— | Date |
 | --- | --- |
@@ -221,30 +221,30 @@ Regulation 4 and 5 provided that payments on account of the transitional protect
 
 [^c21537681]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Schedule 7B was inserted into the Local Government Finance Act 1988 by section 1 of and Schedule 1 to the [Local Government Finance Act 2012 (c.17)](https://www.legislation.gov.uk/ukpga/2012/17).
 
-[^key-bb678ab7ca938013f8b2ddaabadbc205]: Textual amendment: Reg. 2(2)(b)(c) substituted (1.4.2024) by The Non-[Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/a) (as amended by [S.I. 2024/246](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/4/3))
+[^c-bb678ab7ca938013f8b2ddaabadbc205]: Textual amendment: Reg. 2(2)(b)(c) substituted (1.4.2024) by The Non-[Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/a) (as amended by [S.I. 2024/246](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/4/3))
 
-[^key-6d944628214ffc5b699a6073f538bb78]: Textual amendment: Reg. 2(2)(e) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/b)
+[^c-6d944628214ffc5b699a6073f538bb78]: Textual amendment: Reg. 2(2)(e) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/b)
 
-[^key-23287cb508c1b1f073ea46373a1b8ee7]: Textual amendment: Reg. 3(2)(b)(c) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/a) (as amended by [S.I. 2024/246](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/4/3))
+[^c-23287cb508c1b1f073ea46373a1b8ee7]: Textual amendment: Reg. 3(2)(b)(c) substituted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/a) (as amended by [S.I. 2024/246](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/4/3))
 
-[^key-289c32a91b56a7f62999a4d574efd991]: Textual amendment: Reg. 3(2)(e) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/b)
+[^c-289c32a91b56a7f62999a4d574efd991]: Textual amendment: Reg. 3(2)(e) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/b)
 
-[^key-a34e4b3f50e211c73c044981e29acfad]: Textual amendment: Word in reg. 5(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/13/2)
+[^c-a34e4b3f50e211c73c044981e29acfad]: Textual amendment: Word in reg. 5(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/13/2)
 
-[^key-02ae85277a0e41c6d1e5d25db50cd832]: Textual amendment: Word in reg. 5(3)(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2015/628/regulation/13/3)
+[^c-02ae85277a0e41c6d1e5d25db50cd832]: Textual amendment: Word in reg. 5(3)(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2015/628/regulation/13/3)
 
-[^key-b386f85cb9413d0b4deeae957f4b442d]: Textual amendment: Reg. 5(4A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/13/4)
+[^c-b386f85cb9413d0b4deeae957f4b442d]: Textual amendment: Reg. 5(4A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/13/4)
 
 [^c21537721]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-4af59e07b2fa6e81293daaa52a70ce0f]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/1) substituted (3.8.2022) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2022/784/regulation/3/a)
+[^c-4af59e07b2fa6e81293daaa52a70ce0f]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/1) substituted (3.8.2022) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2022/784/regulation/3/a)
 
-[^key-5e10c10bdab5cabf0e8d06f456d3bf93]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/3/a)
+[^c-5e10c10bdab5cabf0e8d06f456d3bf93]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/3/a)
 
-[^key-bd51ada7591b72b599a3cea045689539]: Textual amendment: Reg. 6(3) inserted (15.5.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2020/449/regulation/2/b)
+[^c-bd51ada7591b72b599a3cea045689539]: Textual amendment: Reg. 6(3) inserted (15.5.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2020/449/regulation/2/b)
 
-[^key-a5da2606d350f6731da3e3d1d018c217]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/3) substituted (3.8.2022) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2022/784/regulation/3/b)
+[^c-a5da2606d350f6731da3e3d1d018c217]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/3) substituted (3.8.2022) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2022/784/regulation/3/b)
 
-[^key-6be140a27becc7e7242c81373d82f6da]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/4) omitted (3.8.2022) by virtue of [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2022/784/regulation/3/c)
+[^c-6be140a27becc7e7242c81373d82f6da]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/4) omitted (3.8.2022) by virtue of [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2022/784/regulation/3/c)
 
-[^key-fdf162ca9ffe2cad6e95fd29a1eef017]: Textual amendment: [Reg. 6(5)-(7)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/5) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2024/907/regulation/3/b)
+[^c-fdf162ca9ffe2cad6e95fd29a1eef017]: Textual amendment: [Reg. 6(5)-(7)](https://www.legislation.gov.uk/uksi/2013/106/regulation/6/5) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2024/907/regulation/3/b)

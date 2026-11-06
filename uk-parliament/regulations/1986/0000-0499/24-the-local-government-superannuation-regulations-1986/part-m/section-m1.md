@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## M1. Forfeiture of rights[^key-e3255517d38f1fa810f135c35073321b]
+## M1. Forfeiture of rights[^c-e3255517d38f1fa810f135c35073321b]
 
 *Extent: E+W+S*
 
@@ -54,6 +54,6 @@ the appropriate administering authority shall if so directed by that body make i
 
 ## Annotations
 
-[^key-e3255517d38f1fa810f135c35073321b]: Commencement: [Reg. M1](https://www.legislation.gov.uk/uksi/1986/24/regulation/M1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-e3255517d38f1fa810f135c35073321b]: Commencement: [Reg. M1](https://www.legislation.gov.uk/uksi/1986/24/regulation/M1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00072]: Footnote: [1911 c.28](https://www.legislation.gov.uk/ukpga/1911/28), [1920 c.75](https://www.legislation.gov.uk/ukpga/1920/75), [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121).

@@ -23,13 +23,13 @@ summary: ''
 (1) This section applies where—
 
 - (a) a requirement is imposed by the planning authority or the Secretary of State under a tree preservation order for securing the replanting of all or any part of a woodland area which is felled in the course of forestry operations permitted by or under the order, and
-- (b) the Scottish Ministers decide not to provide financial assistance under section 71 of the Forestry and Land Management (Scotland) Act 2018[^key-e809063ccd01c37f4f2867d9d401e80a] in respect of the replanting by reason that the requirement frustrates the use of the woodland area for the growing of timber or other forest products for commercial purposes and in accordance with the rules or practice of good forestry.
+- (b) the Scottish Ministers decide not to provide financial assistance under section 71 of the Forestry and Land Management (Scotland) Act 2018[^c-e809063ccd01c37f4f2867d9d401e80a] in respect of the replanting by reason that the requirement frustrates the use of the woodland area for the growing of timber or other forest products for commercial purposes and in accordance with the rules or practice of good forestry.
 
 (2) Where this section applies, the planning authority exercising functions under the tree preservation order shall be liable, on the making of a claim in accordance with this section, to pay compensation in respect of such loss or damage, if any, as is caused or incurred in consequence of compliance with the requirement.
 
-(3) The Scottish Ministers[^key-450bc935c41bd9b43a622e43aa14a01d] shall, at the request of the person under a duty to comply with such a requirement as is mentioned in subsection (1)(a), give a certificate stating—
+(3) The Scottish Ministers[^c-450bc935c41bd9b43a622e43aa14a01d] shall, at the request of the person under a duty to comply with such a requirement as is mentioned in subsection (1)(a), give a certificate stating—
 
-- (a) whether they have decided not to provide such financial assistance[^key-85701edffd986c061b62a2eee42348a6] as is mentioned in subsection (1)(b), and
+- (a) whether they have decided not to provide such financial assistance[^c-85701edffd986c061b62a2eee42348a6] as is mentioned in subsection (1)(b), and
 - (b) if so, the grounds for their decision.
 
 (4) A claim for compensation under this section must be served on the planning authority—
@@ -43,10 +43,10 @@ but subject in either case to such extension of that period as the planning auth
 
 ## Annotations
 
-[^key-e809063ccd01c37f4f2867d9d401e80a]: Textual amendment: Words in [s. 166(1)(b)](https://www.legislation.gov.uk/ukpga/1997/8/section/166/1/b) substituted (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019 (S.S.I. 2019/125)](https://www.legislation.gov.uk/ssi/2019/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/125/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/ssi/2019/125/regulation/9/3/a)
+[^c-e809063ccd01c37f4f2867d9d401e80a]: Textual amendment: Words in [s. 166(1)(b)](https://www.legislation.gov.uk/ukpga/1997/8/section/166/1/b) substituted (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019 (S.S.I. 2019/125)](https://www.legislation.gov.uk/ssi/2019/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/125/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/ssi/2019/125/regulation/9/3/a)
 
-[^key-450bc935c41bd9b43a622e43aa14a01d]: Textual amendment: Words in [s. 166(3)](https://www.legislation.gov.uk/ukpga/1997/8/section/166/3) substituted (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019 (S.S.I. 2019/125)](https://www.legislation.gov.uk/ssi/2019/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/125/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/ssi/2019/125/regulation/9/3/b)
+[^c-450bc935c41bd9b43a622e43aa14a01d]: Textual amendment: Words in [s. 166(3)](https://www.legislation.gov.uk/ukpga/1997/8/section/166/3) substituted (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019 (S.S.I. 2019/125)](https://www.legislation.gov.uk/ssi/2019/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/125/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/ssi/2019/125/regulation/9/3/b)
 
-[^key-85701edffd986c061b62a2eee42348a6]: Textual amendment: Words in [s. 166(3)(a)](https://www.legislation.gov.uk/ukpga/1997/8/section/166/3/a) substituted (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019 (S.S.I. 2019/125)](https://www.legislation.gov.uk/ssi/2019/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/125/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/ssi/2019/125/regulation/9/3/c)
+[^c-85701edffd986c061b62a2eee42348a6]: Textual amendment: Words in [s. 166(3)(a)](https://www.legislation.gov.uk/ukpga/1997/8/section/166/3/a) substituted (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019 (S.S.I. 2019/125)](https://www.legislation.gov.uk/ssi/2019/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/125/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/ssi/2019/125/regulation/9/3/c)
 
 [^c950175]: Marginal citation: [1967 c. 86](https://www.legislation.gov.uk/ukpga/1967/86).

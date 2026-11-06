@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 69A. Electronic claims for benefit[^key-6b238d8d7f61a671e6797c60f72fa520]
+## 69A. Electronic claims for benefit[^c-6b238d8d7f61a671e6797c60f72fa520]
 
 A claim for council tax benefit may be made by means of an electronic communication in accordance with Schedule 9.
 
 ## Annotations
 
-[^key-6b238d8d7f61a671e6797c60f72fa520]: Textual amendment: Reg. 69A and heading inserted (20.12.2006) by virtue of[Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1)[reg. 4(3)](https://www.legislation.gov.uk/uksi/2006/2968/regulation/4/3)
+[^c-6b238d8d7f61a671e6797c60f72fa520]: Textual amendment: Reg. 69A and heading inserted (20.12.2006) by virtue of[Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1)[reg. 4(3)](https://www.legislation.gov.uk/uksi/2006/2968/regulation/4/3)

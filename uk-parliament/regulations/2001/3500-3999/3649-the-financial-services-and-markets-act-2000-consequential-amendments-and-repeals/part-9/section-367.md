@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 367. Insurance against liability for employees: meaning of authorised insurer[^key-38dccaa5b12e01794bfdb1e3f3bf5249]
+## 367. Insurance against liability for employees: meaning of authorised insurer[^c-38dccaa5b12e01794bfdb1e3f3bf5249]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38dccaa5b12e01794bfdb1e3f3bf5249]: Commencement: Art. 367 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-38dccaa5b12e01794bfdb1e3f3bf5249]: Commencement: Art. 367 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00261]: Footnote: Paragraph 3(b) has been amended by the Insurance Companies Act [1981 (c. 31)](https://www.legislation.gov.uk/ukpga/1981/31) Schedule 4 Pt II paragraph 19; by the Insurance Companies Act [1982 (c. 50)](https://www.legislation.gov.uk/ukpga/1982/50) Schedule 5, paragraph 8; and by [S.I. 1992/2890](https://www.legislation.gov.uk/uksi/1992/2890) regulation 11(1).

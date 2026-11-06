@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Information, investigations, disclosure etc.[^key-5d7d8ea4b5ef1d9d1b34c806c861b59d][^key-f0c97bcf13bac423c532956e9372f4cb][^key-e07e33956560f3d4e3015f8df406ecc6]
+## 41. Information, investigations, disclosure etc.[^c-5d7d8ea4b5ef1d9d1b34c806c861b59d][^c-f0c97bcf13bac423c532956e9372f4cb][^c-e07e33956560f3d4e3015f8df406ecc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Schedule 12 contains miscellaneous amendments of FSMA 2000, including amendments
 
 ## Annotations
 
-[^key-5d7d8ea4b5ef1d9d1b34c806c861b59d]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2012/21/section/41) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-5d7d8ea4b5ef1d9d1b34c806c861b59d]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2012/21/section/41) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-f0c97bcf13bac423c532956e9372f4cb]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2012/21/section/41) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-f0c97bcf13bac423c532956e9372f4cb]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2012/21/section/41) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-e07e33956560f3d4e3015f8df406ecc6]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2012/21/section/41) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e07e33956560f3d4e3015f8df406ecc6]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2012/21/section/41) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

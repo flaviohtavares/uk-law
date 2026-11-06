@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Review and appeal of certain decisions: key terms[^key-53a17ad2e2ab427da9e357933c8f1cfe]
+## 63. Review and appeal of certain decisions: key terms[^c-53a17ad2e2ab427da9e357933c8f1cfe]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53a17ad2e2ab427da9e357933c8f1cfe]: Commencement: S. 63 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-53a17ad2e2ab427da9e357933c8f1cfe]: Commencement: S. 63 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

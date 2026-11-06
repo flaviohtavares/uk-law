@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.5. Draft indictment served by the prosecutor with a High Court judge’s permission[^key-3429e6f0c68b1b5c4800e39f8a0fd1a3]
+## 10.5. Draft indictment served by the prosecutor with a High Court judge’s permission[^c-3429e6f0c68b1b5c4800e39f8a0fd1a3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3429e6f0c68b1b5c4800e39f8a0fd1a3]: Commencement: [Rule 10.5](https://www.legislation.gov.uk/uksi/2025/909/rule/10.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3429e6f0c68b1b5c4800e39f8a0fd1a3]: Commencement: [Rule 10.5](https://www.legislation.gov.uk/uksi/2025/909/rule/10.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

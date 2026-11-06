@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. The cadastral map[^key-bb9621c5e6b3332542495748df428823]
+## 11. The cadastral map[^c-bb9621c5e6b3332542495748df428823]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb9621c5e6b3332542495748df428823]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2012/5/section/11) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-bb9621c5e6b3332542495748df428823]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2012/5/section/11) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

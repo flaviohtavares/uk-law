@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**159.**[^key-d35634357a1829a57eabc4acc84989a4] For section 84(7) of the School Standards and Framework Act 1998[^f00171] (code for school admissions) substitute—
+**159.**[^c-d35634357a1829a57eabc4acc84989a4] For section 84(7) of the School Standards and Framework Act 1998[^f00171] (code for school admissions) substitute—
 
 > (7) In this Chapter, references to a child who is looked after by a local authority are to be read—
 >
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d35634357a1829a57eabc4acc84989a4]: Commencement: Reg. 159 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d35634357a1829a57eabc4acc84989a4]: Commencement: Reg. 159 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00171]: Footnote: Section 84(7) was inserted by the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), section 50(2).

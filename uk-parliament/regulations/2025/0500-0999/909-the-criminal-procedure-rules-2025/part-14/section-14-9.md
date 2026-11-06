@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.9. Prosecutor’s appeal against grant of bail[^key-f4fb72215da19f6a1c75af4b1d250a57]
+## 14.9. Prosecutor’s appeal against grant of bail[^c-f4fb72215da19f6a1c75af4b1d250a57]
 
 *Extent: E+W*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4fb72215da19f6a1c75af4b1d250a57]: Commencement: [Rule 14.9](https://www.legislation.gov.uk/uksi/2025/909/rule/14.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f4fb72215da19f6a1c75af4b1d250a57]: Commencement: [Rule 14.9](https://www.legislation.gov.uk/uksi/2025/909/rule/14.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00367]: Footnote: [1993 c. 26](https://www.legislation.gov.uk/ukpga/1993/26); section 1 was amended by sections 200 and 220 of, and Schedule 4 to, the Extradition Act [2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), section 18 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 15 of, and paragraph 231 of Schedule 4 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 42 of, and paragraph 28 of Schedule 13 to, the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and paragraph 32 of Schedule 11 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).

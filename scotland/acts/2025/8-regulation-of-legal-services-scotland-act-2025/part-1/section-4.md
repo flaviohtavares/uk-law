@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Professional principles[^key-2ba8f2ed053d5e9646d8d9abe00d7547][^key-25fdfbb6b307e119b49966ae56076efc]
+## 4. Professional principles[^c-2ba8f2ed053d5e9646d8d9abe00d7547][^c-25fdfbb6b307e119b49966ae56076efc]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ba8f2ed053d5e9646d8d9abe00d7547]: Commencement: S. 4 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-2ba8f2ed053d5e9646d8d9abe00d7547]: Commencement: S. 4 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-25fdfbb6b307e119b49966ae56076efc]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/8/section/4) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-25fdfbb6b307e119b49966ae56076efc]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/8/section/4) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

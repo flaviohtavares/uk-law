@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Minsters make the following Regulations in exercise of the powers conferred by sections 30, 47(1) and (2), and 203(9) and (10) of the National Health Service (Wales) Act 2006[^f00001].
 
-## 1. Title, commencement and application[^key-ecc3f62fde618e389bd7e2a19630c078]
+## 1. Title, commencement and application[^c-ecc3f62fde618e389bd7e2a19630c078]
 
 (1) The title of these Regulations is the National Health Service (Clinical Negligence Scheme) (Wales) Regulations 2019.
 
@@ -53,7 +53,7 @@ The Welsh Minsters make the following Regulations in exercise of the powers conf
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-b8d5383d3bde7720f2aa91a97bc38d27]
+## 2. Interpretation[^c-b8d5383d3bde7720f2aa91a97bc38d27]
 
 In these Regulations—
 
@@ -78,7 +78,7 @@ In these Regulations—
 - “relevant health services” (“*gwasanaethau iechyd perthnasol*”) means primary medical services provided in Wales for the purposes of the health service;
 - “the Scheme” (“*y Cynllun*”) means the Clinical Negligence Scheme for NHS Trusts and Local Health Boards established by regulation 3.
 
-## 3. Clinical Negligence Scheme for NHS Trusts and Local Health Boards[^key-07739978c456b2dc69a138271d3f7d95]
+## 3. Clinical Negligence Scheme for NHS Trusts and Local Health Boards[^c-07739978c456b2dc69a138271d3f7d95]
 
 (1) There is hereby established a scheme, to be known as the Clinical Negligence Scheme for NHS Trusts and Local Health Boards.
 
@@ -88,14 +88,14 @@ In these Regulations—
 
 (4) The Scheme is to be administered by the Welsh Ministers.
 
-## 4. Eligible bodies[^key-4716c790a924e3168e623d7b1440802d]
+## 4. Eligible bodies[^c-4716c790a924e3168e623d7b1440802d]
 
 The bodies which are eligible to be a member of the Scheme are—
 
 - (a) a NHS Trust, or
 - (b) a Local Health Board.
 
-## 5. Membership of the Scheme[^key-acaf70ce137660ae3b60801673c4c1a0]
+## 5. Membership of the Scheme[^c-acaf70ce137660ae3b60801673c4c1a0]
 
 (1) An eligible body may apply to the Welsh Ministers to become a member of the Scheme.
 
@@ -130,7 +130,7 @@ The bodies which are eligible to be a member of the Scheme are—
 
 (8) For the purposes of paragraph (4)(b) and (c), reference to “contractors” is to be construed in accordance with regulation 9(2).
 
-## 6. Cancellation of membership by a member[^key-7004e0212e247bcc30f2b19c2a89380f]
+## 6. Cancellation of membership by a member[^c-7004e0212e247bcc30f2b19c2a89380f]
 
 (1) This regulation applies only in relation to any member which has been a member of the Scheme for at least 3 consecutive membership years.
 
@@ -141,7 +141,7 @@ The bodies which are eligible to be a member of the Scheme are—
 - (a) is given before 1 September in a membership year, the notice takes effect at the end of that membership year;
 - (b) is given on or after 1 September in a membership year, the notice takes effect at the end of the following membership year.
 
-## 7. Cancellation of membership by the Welsh Ministers[^key-57c4c4c08adbb96a9c974fc23bfc4963]
+## 7. Cancellation of membership by the Welsh Ministers[^c-57c4c4c08adbb96a9c974fc23bfc4963]
 
 (1) The Welsh Ministers may cancel a member’s membership of the Scheme in any of the circumstances specified in paragraphs (2) to (4).
 
@@ -160,7 +160,7 @@ The bodies which are eligible to be a member of the Scheme are—
   - (i) the date to be specified must not be less than 28 days after the date on which the notice is given, but
   - (ii) the Welsh Ministers may determine not to cancel the membership by giving the member a further notice in writing to that effect.
 
-## 8. Liabilities of members[^key-472a985c2eb7adc69b6d402ed6407088]
+## 8. Liabilities of members[^c-472a985c2eb7adc69b6d402ed6407088]
 
 (1) The Scheme applies to—
 
@@ -179,7 +179,7 @@ The bodies which are eligible to be a member of the Scheme are—
 - (a) a person employed or engaged by the member in connection with any relevant function provided by the member, or
 - (b) an employee or agent of a person engaged by the member in connection with the provision of any relevant function.
 
-## 9. Other liabilities for which members are treated as liable[^key-a24d40c93d769d37593bdc452889f780]
+## 9. Other liabilities for which members are treated as liable[^c-a24d40c93d769d37593bdc452889f780]
 
 (1) In this regulation, “health services provider” means an NHS Trust, Local Health Board or a primary medical services provider.
 
@@ -187,7 +187,7 @@ The bodies which are eligible to be a member of the Scheme are—
 
 (3) Qualifying liabilities to which the Scheme applies under paragraph (2) are to be treated for the purposes of the Scheme and these Regulations as if they were liabilities of the health services provider who is a member of the Scheme and which entered into the arrangement.
 
-(4)[^key-2aa71be0f763d78d04664562b306f82a] Qualifying liabilities of a contractor are any liability in tort under the law of England and Wales which—
+(4)[^c-2aa71be0f763d78d04664562b306f82a] Qualifying liabilities of a contractor are any liability in tort under the law of England and Wales which—
 
 - (a) the contractor owes to a third party in respect of or consequent upon personal injury or loss as specified in paragraph (5), and
 - (b) is in consequence of the arrangement referred to in paragraph (2).
@@ -203,7 +203,7 @@ The bodies which are eligible to be a member of the Scheme are—
 - (b) a person employed or engaged by the contractor, or
 - (c) an employee or agent of a person engaged by the contractor.
 
-## 10. Determination of amounts payable by members[^key-d2415fc0c40d6cc80905933f1a7b2ca6]
+## 10. Determination of amounts payable by members[^c-d2415fc0c40d6cc80905933f1a7b2ca6]
 
 (1) The Welsh Ministers must determine the amount which each member of the Scheme must pay to the Welsh Ministers in respect of each membership year.
 
@@ -234,7 +234,7 @@ The bodies which are eligible to be a member of the Scheme are—
 
 (7) For the purposes of paragraph (5), reference to the “the first membership year” of a body which is a member of the Scheme is to the whole or part of any membership year immediately following any period during which the body was not a member.
 
-## 11. Duty of members to make contributions to the Scheme[^key-82e62f6eef4d9d8c8b7322ebc6058b3d]
+## 11. Duty of members to make contributions to the Scheme[^c-82e62f6eef4d9d8c8b7322ebc6058b3d]
 
 (1) Each member of the Scheme must, in respect of each membership year, pay to the Welsh Ministers the amount determined in respect of the member under regulation 10(1) (determination of amounts payable by members).
 
@@ -250,7 +250,7 @@ The bodies which are eligible to be a member of the Scheme are—
 
 (4) For the purposes of paragraph (3), reference to “the first membership year” of a body which is a member of the Scheme is to be construed in accordance with regulation 10(7).
 
-## 12. Revision of determination of payable amount[^key-0377eba3dec84bfd7cfa7553568942c2]
+## 12. Revision of determination of payable amount[^c-0377eba3dec84bfd7cfa7553568942c2]
 
 (1) Paragraph (2) applies where the Welsh Ministers identify before the end of a membership year that the amount determined by them in accordance with regulation 10(1) as being payable by the member in respect of that year—
 
@@ -270,7 +270,7 @@ The bodies which are eligible to be a member of the Scheme are—
 
 (4) The reference in paragraph (1) to an amount determined by the Welsh Ministers in accordance with regulation 10(1) includes any revised amount determined in accordance with paragraph (2)(b).
 
-## 13. Payments out of the Scheme: liabilities of members[^key-fdfd8a13008b2c1661f3d79247eb3cfd]
+## 13. Payments out of the Scheme: liabilities of members[^c-fdfd8a13008b2c1661f3d79247eb3cfd]
 
 (1) Where a payment falls to be made by a member of the Scheme in connection with a claim in respect of a liability to which the Scheme applies, the Welsh Ministers may pay to the member, or on the member’s behalf, an amount determined in accordance with regulation 17.
 
@@ -297,7 +297,7 @@ The bodies which are eligible to be a member of the Scheme are—
 
 (6) In paragraphs (3)(b) and (5)(b), the “qualifying period” is the period of 14 days starting with the date on which the member became aware that a claim had been made or, if earlier, the date on which the Welsh Ministers consider that the member ought to have become aware that a claim had been made.
 
-## 14. Payments out of the Scheme: liabilities of former members[^key-b79f72c2e71f53c970d153af0ea78e19]
+## 14. Payments out of the Scheme: liabilities of former members[^c-b79f72c2e71f53c970d153af0ea78e19]
 
 (1) Where—
 
@@ -314,7 +314,7 @@ the Welsh Ministers may, if the conditions specified in paragraph (2) are met, p
 
 (3) No payment may be made under paragraph (1) in respect of any liability of, or payment by, B which is excluded from the Scheme by regulation 15 (exclusions).
 
-## 15. Exclusions[^key-4125ad132bd625752f82bbd7d5eb3f7c]
+## 15. Exclusions[^c-4125ad132bd625752f82bbd7d5eb3f7c]
 
 (1) Except to such extent as the Welsh Ministers may determine, the following are excluded from the Scheme—
 
@@ -334,7 +334,7 @@ the Welsh Ministers may, if the conditions specified in paragraph (2) are met, p
   - (ii) to which regulation 14 applies (liabilities of former members);
 - (b) in sub-paragraph (f), “notification” means a list of primary medical services providers whose qualifying liabilities are not to be covered by the Scheme for the membership year.
 
-## 16. Payments out of the Scheme: liabilities for which members are treated as liable[^key-f450f43eff03c5297ec562b966c77806]
+## 16. Payments out of the Scheme: liabilities for which members are treated as liable[^c-f450f43eff03c5297ec562b966c77806]
 
 (1) Paragraph (2) applies to any payment in connection with a claim in respect of a qualifying liability falling within regulation 9 (other liabilities for which members are treated as liable) where the payment falls to be made by a member of the Scheme which under regulation 9(3) is treated as being liable in respect of the claim.
 
@@ -342,7 +342,7 @@ the Welsh Ministers may, if the conditions specified in paragraph (2) are met, p
 
 (3) In the application of regulation 13, 14 or 15 for the purposes of paragraph (2), references to anything being done by, to or against a member in respect of a liability to which the Scheme applies includes references to it being done in respect of a qualifying liability for which the member is treated as being liable.
 
-## 17. Determining the amount of any payment to be made out of the Scheme[^key-46743d93d5839294d318ec3a73bfe209]
+## 17. Determining the amount of any payment to be made out of the Scheme[^c-46743d93d5839294d318ec3a73bfe209]
 
 (1) In respect of each liability to which the Scheme applies, the Welsh Ministers must determine the amount of any payment which is to be made under regulation 13 or 14 (payments out of the Scheme in respect of liabilities of members and former members).
 
@@ -383,7 +383,7 @@ the Welsh Ministers may, if the conditions specified in paragraph (2) are met, p
 
 (9) In this regulation, references to “member” are to be construed in accordance with regulation 15(2).
 
-## 18. Power to make payments on account[^key-1ea5bb422bcaad23c254d7750fe0de26]
+## 18. Power to make payments on account[^c-1ea5bb422bcaad23c254d7750fe0de26]
 
 (1) Where, in any membership year, a payment falls to be made by a member in connection with a claim in respect of which an amount may become payable by the Welsh Ministers under regulation 17 (determining the amount of any payment to be made out of the Scheme), the Welsh Ministers may make a payment on account of any amount which may become payable.
 
@@ -391,7 +391,7 @@ the Welsh Ministers may, if the conditions specified in paragraph (2) are met, p
 
 (3) Where the amount of any payment on account exceeds the amount subsequently determined under regulation 17 as being the amount of payment to be made in connection with the claim, the excess is recoverable from the member.
 
-## 19. Duty of members to provide information[^key-ec7694ae53da8e51fbfc265e31bf614c]
+## 19. Duty of members to provide information[^c-ec7694ae53da8e51fbfc265e31bf614c]
 
 (1) In this regulation, “specified” means specified by the Welsh Ministers in a notice under paragraph (2).
 
@@ -412,7 +412,7 @@ the Welsh Ministers may, if the conditions specified in paragraph (2) are met, p
 
 (5) For the purposes of paragraph (3)(b) and (c), reference to “contractors” is to be construed in accordance with regulation 9(2).
 
-## 20. Directions and guidance[^key-5e7c8f669f78c5e5866131ee078bbda6]
+## 20. Directions and guidance[^c-5e7c8f669f78c5e5866131ee078bbda6]
 
 (1) The Welsh Ministers must make the following information available to eligible bodies in such form and at such times as the Welsh Ministers consider appropriate[^f00005]—
 
@@ -421,7 +421,7 @@ the Welsh Ministers may, if the conditions specified in paragraph (2) are met, p
 
 (2) “Relevant body” means a body directed by the Welsh Ministers under section 30(5) of the Act to carry out functions in connection with the administration of the Scheme.
 
-## 21. Amendment of the National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^key-a4d76ebed820ced77c57b9e3ac930d5c]
+## 21. Amendment of the National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^c-a4d76ebed820ced77c57b9e3ac930d5c]
 
 (1) The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^f00006] are amended as follows.
 
@@ -448,7 +448,7 @@ the Welsh Ministers may, if the conditions specified in paragraph (2) are met, p
 
     > - (c) “the 2019 Regulations” means the National Health Service (Clinical Negligence Scheme) (Wales) Regulations 2019.
 
-## 22. Revocation[^key-fb39d2afb302e89b2d242999e7c65d38]
+## 22. Revocation[^c-fb39d2afb302e89b2d242999e7c65d38]
 
 The National Health Service (Clinical Negligence Scheme) Regulations 1996[^f00007] are revoked.
 
@@ -480,60 +480,60 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42). Section 30 was amended by section 166 of, and paragraph 1 of Schedule 15(1) to, the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14); and by section 306(4) of, and paragraph 22 of Schedule 7 to, the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-ecc3f62fde618e389bd7e2a19630c078]: Commencement: Reg. 1 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-ecc3f62fde618e389bd7e2a19630c078]: Commencement: Reg. 1 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-b8d5383d3bde7720f2aa91a97bc38d27]: Commencement: Reg. 2 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-b8d5383d3bde7720f2aa91a97bc38d27]: Commencement: Reg. 2 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
 [^f00002]: Footnote: “The health service” is defined in section 206(1) of the National Health Service (Wales) Act 2006.
 
 [^f00003]: Footnote: The functions of the Secretary of State were transferred to the National Assembly for Wales by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions are exercisable, in relation to Wales, by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-07739978c456b2dc69a138271d3f7d95]: Commencement: Reg. 3 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-07739978c456b2dc69a138271d3f7d95]: Commencement: Reg. 3 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-4716c790a924e3168e623d7b1440802d]: Commencement: Reg. 4 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-4716c790a924e3168e623d7b1440802d]: Commencement: Reg. 4 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-acaf70ce137660ae3b60801673c4c1a0]: Commencement: Reg. 5 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-acaf70ce137660ae3b60801673c4c1a0]: Commencement: Reg. 5 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-7004e0212e247bcc30f2b19c2a89380f]: Commencement: Reg. 6 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-7004e0212e247bcc30f2b19c2a89380f]: Commencement: Reg. 6 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-57c4c4c08adbb96a9c974fc23bfc4963]: Commencement: Reg. 7 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-57c4c4c08adbb96a9c974fc23bfc4963]: Commencement: Reg. 7 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-472a985c2eb7adc69b6d402ed6407088]: Commencement: Reg. 8 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-472a985c2eb7adc69b6d402ed6407088]: Commencement: Reg. 8 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-a24d40c93d769d37593bdc452889f780]: Commencement: Reg. 9 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-a24d40c93d769d37593bdc452889f780]: Commencement: Reg. 9 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-2aa71be0f763d78d04664562b306f82a]: Modification: [Reg. 9(4)](https://www.legislation.gov.uk/wsi/2019/422/regulation/9/4) applied (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 3 para. 130(3)](https://www.legislation.gov.uk/wsi/2023/953/schedule/3/paragraph/130/3)
+[^c-2aa71be0f763d78d04664562b306f82a]: Modification: [Reg. 9(4)](https://www.legislation.gov.uk/wsi/2019/422/regulation/9/4) applied (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 3 para. 130(3)](https://www.legislation.gov.uk/wsi/2023/953/schedule/3/paragraph/130/3)
 
-[^key-d2415fc0c40d6cc80905933f1a7b2ca6]: Commencement: Reg. 10 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-d2415fc0c40d6cc80905933f1a7b2ca6]: Commencement: Reg. 10 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-82e62f6eef4d9d8c8b7322ebc6058b3d]: Commencement: Reg. 11 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-82e62f6eef4d9d8c8b7322ebc6058b3d]: Commencement: Reg. 11 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-0377eba3dec84bfd7cfa7553568942c2]: Commencement: Reg. 12 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-0377eba3dec84bfd7cfa7553568942c2]: Commencement: Reg. 12 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-fdfd8a13008b2c1661f3d79247eb3cfd]: Commencement: Reg. 13 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-fdfd8a13008b2c1661f3d79247eb3cfd]: Commencement: Reg. 13 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-b79f72c2e71f53c970d153af0ea78e19]: Commencement: Reg. 14 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-b79f72c2e71f53c970d153af0ea78e19]: Commencement: Reg. 14 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-4125ad132bd625752f82bbd7d5eb3f7c]: Commencement: Reg. 15 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-4125ad132bd625752f82bbd7d5eb3f7c]: Commencement: Reg. 15 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-f450f43eff03c5297ec562b966c77806]: Commencement: Reg. 16 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-f450f43eff03c5297ec562b966c77806]: Commencement: Reg. 16 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-46743d93d5839294d318ec3a73bfe209]: Commencement: Reg. 17 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-46743d93d5839294d318ec3a73bfe209]: Commencement: Reg. 17 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
 [^f00004]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-1ea5bb422bcaad23c254d7750fe0de26]: Commencement: Reg. 18 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-1ea5bb422bcaad23c254d7750fe0de26]: Commencement: Reg. 18 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-ec7694ae53da8e51fbfc265e31bf614c]: Commencement: Reg. 19 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-ec7694ae53da8e51fbfc265e31bf614c]: Commencement: Reg. 19 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
-[^key-5e7c8f669f78c5e5866131ee078bbda6]: Commencement: Reg. 20 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-5e7c8f669f78c5e5866131ee078bbda6]: Commencement: Reg. 20 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
 [^f00005]: Footnote: The directions and guidance given by the Welsh Ministers are available on http://www.nwssp.wales.nhs.uk or by making a request in writing to the Directorate for Health Policy, Primary Care Team, Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
 
-[^key-a4d76ebed820ced77c57b9e3ac930d5c]: Commencement: Reg. 21 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-a4d76ebed820ced77c57b9e3ac930d5c]: Commencement: Reg. 21 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2004/478 (W. 48)](https://www.legislation.gov.uk/wsi/2004/478). Paragraph 120 of Schedule 6 was amended by regulation 11(33) of the National Health Service (Primary Medical Services) (Miscellaneous Amendments) (Wales) Regulations 2006 ([S.I. 2006/358 (W. 46)](https://www.legislation.gov.uk/wsi/2006/358)) and paragraph 5(a) to (e) of Schedule 2 to the Health Care and Associated Professions (Indemnity Arrangements) Order 2014 ([S.I. 2014/1887](https://www.legislation.gov.uk/uksi/2014/1887)). There are other amendments but none are relevant.
 
-[^key-fb39d2afb302e89b2d242999e7c65d38]: Commencement: Reg. 22 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
+[^c-fb39d2afb302e89b2d242999e7c65d38]: Commencement: Reg. 22 in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/422/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 1996/251](https://www.legislation.gov.uk/uksi/1996/251).

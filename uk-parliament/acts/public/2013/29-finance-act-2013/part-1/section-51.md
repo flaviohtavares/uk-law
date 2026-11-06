@@ -22,7 +22,7 @@ summary: ''
 
 (1) FA 2004 is amended as follows.
 
-(2)[^key-a0634fc9121776b9e22886e4559c1ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a0634fc9121776b9e22886e4559c1ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 1 of Schedule 29 (pension commencement lump sums), in sub-paragraph (4)(a), omit the words from “at a time” to “65”.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0634fc9121776b9e22886e4559c1ddc]: Textual amendment: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/51/2) omitted (6.4.2016) (with effect in accordance with s. 20(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 20(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/20/5/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/20/6); [S.I. 2016/1005](https://www.legislation.gov.uk/uksi/2016/1005), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1005/regulation/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1005/regulation/1/2) [3](https://www.legislation.gov.uk/uksi/2016/1005/regulation/3) [4](https://www.legislation.gov.uk/uksi/2016/1005/regulation/4))
+[^c-a0634fc9121776b9e22886e4559c1ddc]: Textual amendment: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/51/2) omitted (6.4.2016) (with effect in accordance with s. 20(6) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 20(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/20/5/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/20/6); [S.I. 2016/1005](https://www.legislation.gov.uk/uksi/2016/1005), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1005/regulation/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1005/regulation/1/2) [3](https://www.legislation.gov.uk/uksi/2016/1005/regulation/3) [4](https://www.legislation.gov.uk/uksi/2016/1005/regulation/4))

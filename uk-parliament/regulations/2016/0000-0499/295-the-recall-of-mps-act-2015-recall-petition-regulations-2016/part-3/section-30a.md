@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Refusal to deliver signing sheet: England and Wales and Scotland[^key-89dfe48f3b5d34f49cfa549765591f29]
+## 30A. Refusal to deliver signing sheet: England and Wales and Scotland[^c-89dfe48f3b5d34f49cfa549765591f29]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89dfe48f3b5d34f49cfa549765591f29]: Textual amendment: Reg. 30A inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [79](https://www.legislation.gov.uk/uksi/2022/1382/regulation/79) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-89dfe48f3b5d34f49cfa549765591f29]: Textual amendment: Reg. 30A inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [79](https://www.legislation.gov.uk/uksi/2022/1382/regulation/79) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

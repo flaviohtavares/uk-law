@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11A — REGULATIONS ABOUT DECISIONS UNDER SECTION 141B[^key-b4dbc3f85caa7439c012fbf22df1e3b1]
+## SCHEDULE 11A — REGULATIONS ABOUT DECISIONS UNDER SECTION 141B[^c-b4dbc3f85caa7439c012fbf22df1e3b1]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ Section 141B
 
 (3) The regulations may make provision for any functions of the Secretary of State under section 141B to be excluded or restricted in such circumstances as may be specified in or determined under the regulations.
 
-(4) The circumstances include, in particular, where the Secretary of State considers this to be appropriate taking into account the powers of the Disclosure and Barring Service[^key-4a4a44638343c7b2ffebde72acec89d7] under the Safeguarding Vulnerable Groups Act 2006.
+(4) The circumstances include, in particular, where the Secretary of State considers this to be appropriate taking into account the powers of the Disclosure and Barring Service[^c-4a4a44638343c7b2ffebde72acec89d7] under the Safeguarding Vulnerable Groups Act 2006.
 
 ### Interim prohibition orders
 
@@ -89,6 +89,6 @@ if the person to whom the order relates makes an application to the Secretary of
 
 ## Annotations
 
-[^key-b4dbc3f85caa7439c012fbf22df1e3b1]: Textual amendment: Sch. 11A inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/8/2), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-b4dbc3f85caa7439c012fbf22df1e3b1]: Textual amendment: Sch. 11A inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/8/2), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-4a4a44638343c7b2ffebde72acec89d7]: Textual amendment: Words in Sch. 11A para. 2(4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/2/e) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-4a4a44638343c7b2ffebde72acec89d7]: Textual amendment: Words in Sch. 11A para. 2(4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/2/e) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))

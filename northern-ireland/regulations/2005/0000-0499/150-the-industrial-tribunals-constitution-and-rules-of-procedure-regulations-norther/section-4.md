@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Panels of members of tribunals – general[^key-f22b2ade095f8ce1f8f37b32e6ce0d98]
+## 4. Panels of members of tribunals – general[^c-f22b2ade095f8ce1f8f37b32e6ce0d98]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f22b2ade095f8ce1f8f37b32e6ce0d98]: Commencement: Reg. 4 in operation at 3.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)
+[^c-f22b2ade095f8ce1f8f37b32e6ce0d98]: Commencement: Reg. 4 in operation at 3.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)
 
 [^M_F_3379f943-d714-4744-fa9a-1801d6a9af67]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2005/150/regulation/4/1/a) substituted (31.8.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/376)](https://www.legislation.gov.uk/nisr/2005/376), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/376/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2005/376/regulation/2/1)
 

@@ -34,7 +34,7 @@ This Statutory Instrument is made in consequence of defects in [S.I. 2016/1052](
 
 Immigration
 
-The Immigration (European Economic Area) (Amendment) Regulations 2017 (revoked)[^key-b9b2176acec812086971ca741e4a2074]
+The Immigration (European Economic Area) (Amendment) Regulations 2017 (revoked)[^c-b9b2176acec812086971ca741e4a2074]
 
 Made
 
@@ -48,49 +48,49 @@ Coming into force
 
 31st January 2017
 
-[^key-b9b2176acec812086971ca741e4a2074]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9b2176acec812086971ca741e4a2074]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b9b2176acec812086971ca741e4a2074]
+## 1. Citation and commencement[^c-b9b2176acec812086971ca741e4a2074]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Immigration (European Economic Area) Regulations 2016[^key-b9b2176acec812086971ca741e4a2074]
+## 2. Amendments to the Immigration (European Economic Area) Regulations 2016[^c-b9b2176acec812086971ca741e4a2074]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9b2176acec812086971ca741e4a2074]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9b2176acec812086971ca741e4a2074]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendments to the Immigration (European Economic Area) Regulations 2016[^key-b9b2176acec812086971ca741e4a2074]
+## SCHEDULE — Amendments to the Immigration (European Economic Area) Regulations 2016[^c-b9b2176acec812086971ca741e4a2074]
 
 Regulation 2
 
-### 1. Regulation 18 (issue of residence card)[^key-b9b2176acec812086971ca741e4a2074]
+### 1. Regulation 18 (issue of residence card)[^c-b9b2176acec812086971ca741e4a2074]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Regulation 21 (procedure for applications for documentation under this Part and regulation 12)[^key-b9b2176acec812086971ca741e4a2074]
+### 2. Regulation 21 (procedure for applications for documentation under this Part and regulation 12)[^c-b9b2176acec812086971ca741e4a2074]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Regulation 24 (refusal to issue or renew and revocation of residence documentation)[^key-b9b2176acec812086971ca741e4a2074]
+### 3. Regulation 24 (refusal to issue or renew and revocation of residence documentation)[^c-b9b2176acec812086971ca741e4a2074]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Schedule 4 (revocations and savings), new paragraph 3 (appeals)[^key-b9b2176acec812086971ca741e4a2074]
+### 4. Schedule 4 (revocations and savings), new paragraph 3 (appeals)[^c-b9b2176acec812086971ca741e4a2074]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Schedule 6 (transitional provisions), new paragraph 9 (preservation of transitional provisions in relation to family members of dual nationals)[^key-b9b2176acec812086971ca741e4a2074]
+### 5. Schedule 6 (transitional provisions), new paragraph 9 (preservation of transitional provisions in relation to family members of dual nationals)[^c-b9b2176acec812086971ca741e4a2074]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b9b2176acec812086971ca741e4a2074]EXPLANATORY NOTE
+[^c-b9b2176acec812086971ca741e4a2074]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -110,4 +110,4 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 ## Annotations
 
-[^key-b9b2176acec812086971ca741e4a2074]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/1) revoked (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2020/1309/regulation/51)
+[^c-b9b2176acec812086971ca741e4a2074]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/1) revoked (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2020/1309/regulation/51)

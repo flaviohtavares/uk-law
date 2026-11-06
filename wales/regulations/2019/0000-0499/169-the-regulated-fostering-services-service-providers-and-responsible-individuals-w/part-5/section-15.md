@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Information for children[^key-82ba2d53c82440959154c689dc04c988]
+## 15. Information for children[^c-82ba2d53c82440959154c689dc04c988]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82ba2d53c82440959154c689dc04c988]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2019/169/regulation/15) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-82ba2d53c82440959154c689dc04c988]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2019/169/regulation/15) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

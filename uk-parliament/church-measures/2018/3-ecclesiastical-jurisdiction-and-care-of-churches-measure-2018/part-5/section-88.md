@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 88. Burials in parish burial ground[^key-bdb286cb66ed7cc29995c8aea65faf19]
+## 88. Burials in parish burial ground[^c-bdb286cb66ed7cc29995c8aea65faf19]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdb286cb66ed7cc29995c8aea65faf19]: Commencement: [S. 88](https://www.legislation.gov.uk/ukcm/2018/3/section/88) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-bdb286cb66ed7cc29995c8aea65faf19]: Commencement: [S. 88](https://www.legislation.gov.uk/ukcm/2018/3/section/88) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

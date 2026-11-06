@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Occupational Pension Schemes (Contracting-out) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-7f281a685dee83eceae3dcda0e80e17b]
+The Occupational Pension Schemes (Contracting-out) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-7f281a685dee83eceae3dcda0e80e17b]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 14th June 2006
 
-[^key-7f281a685dee83eceae3dcda0e80e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f281a685dee83eceae3dcda0e80e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7f281a685dee83eceae3dcda0e80e17b]
+## 1. Citation and commencement[^c-7f281a685dee83eceae3dcda0e80e17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations 1996[^key-7f281a685dee83eceae3dcda0e80e17b]
+## 2. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations 1996[^c-7f281a685dee83eceae3dcda0e80e17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7f281a685dee83eceae3dcda0e80e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f281a685dee83eceae3dcda0e80e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7f281a685dee83eceae3dcda0e80e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f281a685dee83eceae3dcda0e80e17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7f281a685dee83eceae3dcda0e80e17b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/223) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-7f281a685dee83eceae3dcda0e80e17b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/223) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)

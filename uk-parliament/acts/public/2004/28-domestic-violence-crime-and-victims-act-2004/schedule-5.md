@@ -31,7 +31,7 @@ Section 29
 
 ### Detention and training orders
 
-**2.**[^key-3a9efa0dce81332007e83dad0d7ba2f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3a9efa0dce81332007e83dad0d7ba2f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Suspended sentence supervision orders
 
@@ -101,13 +101,13 @@ Section 29
 
 ### Community orders under the 2003 Act
 
-**7.**[^key-82080d52242e7a001f4389da0d6b7b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-82080d52242e7a001f4389da0d6b7b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Suspended sentence orders under the 2003 Act
 
-**8.**[^key-82080d52242e7a001f4389da0d6b7b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-82080d52242e7a001f4389da0d6b7b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-82080d52242e7a001f4389da0d6b7b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-82080d52242e7a001f4389da0d6b7b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local justice areas
 
@@ -115,7 +115,7 @@ Section 29
 
 ## Annotations
 
-[^key-3a9efa0dce81332007e83dad0d7ba2f6]: Textual amendment: Sch. 5 para. 2 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2) (see also [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2/3))
+[^c-3a9efa0dce81332007e83dad0d7ba2f6]: Textual amendment: Sch. 5 para. 2 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2) (see also [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2/3))
 
 [^c21074801]: Textual amendment: Words in Sch. 5 para. 3(2) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886)](https://www.legislation.gov.uk/uksi/2005/886), arts, 1, 2, {Sch. para. 113(b)(i)}
 
@@ -135,4 +135,4 @@ Section 29
 
 [^c21075001]: Textual amendment: Words in Sch. 5 para. 6(3) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886)](https://www.legislation.gov.uk/uksi/2005/886), arts, 1, 2, {Sch. para. 113(d)(ii)}
 
-[^key-82080d52242e7a001f4389da0d6b7b5f]: Textual amendment: Sch. 5 paras. 7-9 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2) (see also [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3))
+[^c-82080d52242e7a001f4389da0d6b7b5f]: Textual amendment: Sch. 5 paras. 7-9 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2) (see also [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3))

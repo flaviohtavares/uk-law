@@ -90,15 +90,15 @@ Regulation 2(1)
 
 Regulation 2(2)
 
-[^key-536577c784a506bde76016bd05f657e5]
+[^c-536577c784a506bde76016bd05f657e5]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2018/155/images/ssi_20180155_en_sld_005)
 
-[^key-536577c784a506bde76016bd05f657e5]
+[^c-536577c784a506bde76016bd05f657e5]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2018/155/images/ssi_20180155_en_sld_006)
 
-[^key-536577c784a506bde76016bd05f657e5]
+[^c-536577c784a506bde76016bd05f657e5]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2018/155/images/ssi_20180155_en_sld_007)
 
@@ -122,4 +122,4 @@ Regulation 3 revokes the Short Scottish Secure Tenancies (Proceedings for Posses
 
 [^c22969801]: Marginal citation: [S.S.I. 2002/319](https://www.legislation.gov.uk/ssi/2002/319).
 
-[^key-536577c784a506bde76016bd05f657e5]: Modification: [Sch. 2](https://www.legislation.gov.uk/ssi/2018/155/schedule/2) expiry of earlier affecting provision 2020 asp 7, sch. 1 para. 9 (30.3.2022) by [The Coronavirus (Scotland) Acts (Early Expiry of Provisions) Regulations 2022 (S.S.I. 2022/64)](https://www.legislation.gov.uk/ssi/2022/64), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/64/regulation/2/a) (with [regs. 4](https://www.legislation.gov.uk/ssi/2022/64/regulation/4), [5](https://www.legislation.gov.uk/ssi/2022/64/regulation/5))
+[^c-536577c784a506bde76016bd05f657e5]: Modification: [Sch. 2](https://www.legislation.gov.uk/ssi/2018/155/schedule/2) expiry of earlier affecting provision 2020 asp 7, sch. 1 para. 9 (30.3.2022) by [The Coronavirus (Scotland) Acts (Early Expiry of Provisions) Regulations 2022 (S.S.I. 2022/64)](https://www.legislation.gov.uk/ssi/2022/64), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/64/regulation/2/a) (with [regs. 4](https://www.legislation.gov.uk/ssi/2022/64/regulation/4), [5](https://www.legislation.gov.uk/ssi/2022/64/regulation/5))

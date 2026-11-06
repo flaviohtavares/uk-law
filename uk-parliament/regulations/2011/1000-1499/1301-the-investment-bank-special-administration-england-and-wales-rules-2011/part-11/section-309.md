@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 309. Notices otherwise advertised under the Regulations or Rules[^key-31171b28baae3f058e20d386ab59468d]
+## 309. Notices otherwise advertised under the Regulations or Rules[^c-31171b28baae3f058e20d386ab59468d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31171b28baae3f058e20d386ab59468d]: Commencement: [Rule 309](https://www.legislation.gov.uk/uksi/2011/1301/rule/309) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-31171b28baae3f058e20d386ab59468d]: Commencement: [Rule 309](https://www.legislation.gov.uk/uksi/2011/1301/rule/309) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -48,7 +48,7 @@ An Act to amend the law of England and Wales as to the liability of occupiers an
 - (a) the obligations of a person occupying or having control over any fixed or moveable structure, including any vessel, vehicle or aircraft; and
 - (b) the obligations of a person occupying or having control over any premises or structure in respect of damage to property, including the property of persons who are not themselves his visitors.
 
-(4)[^key-bb9c2e59f75409b9f80ce6fa429d9456] A person entering any premises in exercise of rights conferred by virtue of—
+(4)[^c-bb9c2e59f75409b9f80ce6fa429d9456] A person entering any premises in exercise of rights conferred by virtue of—
 
 - (a) section 2(1) of the Countryside and Rights of Way Act 2000, or
 - (b) an access agreement or order under the National Parks and Access to the Countryside Act 1949,
@@ -129,7 +129,7 @@ The limitation imposed by paragraph (1) of section four of the [^c647905]Governm
 
 [^c647899]: Modification: Act modified (with effect as stated in [s. 1(2)-(4)](https://www.legislation.gov.uk/ukla/2002/1/section/1/2) of the amending Act) by [2002 c. i](https://www.legislation.gov.uk/ukla/2002/1), [ss. 12(1)(4)](https://www.legislation.gov.uk/ukla/2002/1/section/12/1/4), [42](https://www.legislation.gov.uk/ukla/2002/1/section/42), (with ss. 38, 39)
 
-[^key-bb9c2e59f75409b9f80ce6fa429d9456]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/31/section/1/4) substituted (19.9.2004 for E., 28.5.2005 for W.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/13/1), [103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3) (with [s. 43](https://www.legislation.gov.uk/ukpga/2000/37/section/43)); [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/c); [S.I. 2005/423](https://www.legislation.gov.uk/wsi/2005/423), [art. 2(c)](https://www.legislation.gov.uk/wsi/2005/423/article/2/c)
+[^c-bb9c2e59f75409b9f80ce6fa429d9456]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/31/section/1/4) substituted (19.9.2004 for E., 28.5.2005 for W.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/13/1), [103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3) (with [s. 43](https://www.legislation.gov.uk/ukpga/2000/37/section/43)); [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/c); [S.I. 2005/423](https://www.legislation.gov.uk/wsi/2005/423), [art. 2(c)](https://www.legislation.gov.uk/wsi/2005/423/article/2/c)
 
 [^c647903]: Textual amendment: [s. 4](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/31/section/4) repealed by [Defective Premises Act 1972 (c. 35)](https://www.legislation.gov.uk/ukpga/1972/35),s. 6(4)
 

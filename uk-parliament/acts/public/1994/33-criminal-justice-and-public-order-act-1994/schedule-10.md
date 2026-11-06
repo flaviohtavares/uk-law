@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Consequential Amendments[^c13108371][^key-8246b0d25f6690507f4750cfa0d1c97f]
+## SCHEDULE 10 — Consequential Amendments[^c13108371][^c-8246b0d25f6690507f4750cfa0d1c97f]
 
 *Extent: E+W+S+N.I.*
 
@@ -223,11 +223,11 @@ Section 168(2).
 
 ### Rehabilitation of offenders subject to secure training orders
 
-**30.** In section 5(6) of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-f62ecfb6ca9e0307e823a3086616c0c7] [^c13108681]Rehabilitation of Offenders Act 1974 (rehabilitation periods for particular sentences), after paragraph (c), there shall be inserted the following paragraph, preceded by the word “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-f62ecfb6ca9e0307e823a3086616c0c7]**or *(Extent: E+W)* *(affected by repeal, see note)*[^key-f62ecfb6ca9e0307e823a3086616c0c7]**”— *(Extent: E+W)* *(affected by repeal, see note)*[^key-f62ecfb6ca9e0307e823a3086616c0c7]
+**30.** In section 5(6) of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-f62ecfb6ca9e0307e823a3086616c0c7] [^c13108681]Rehabilitation of Offenders Act 1974 (rehabilitation periods for particular sentences), after paragraph (c), there shall be inserted the following paragraph, preceded by the word “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-f62ecfb6ca9e0307e823a3086616c0c7]**or *(Extent: E+W)* *(affected by repeal, see note)*[^c-f62ecfb6ca9e0307e823a3086616c0c7]**”— *(Extent: E+W)* *(affected by repeal, see note)*[^c-f62ecfb6ca9e0307e823a3086616c0c7]
 
-> - (d (Extent: E+W) (affected by repeal, see note))[^key-f62ecfb6ca9e0307e823a3086616c0c7] a secure training order under section 1 of the Criminal Justice and Public Order Act 1994; *(Extent: E+W)* *(affected by repeal, see note)*[^key-f62ecfb6ca9e0307e823a3086616c0c7]
+> - (d (Extent: E+W) (affected by repeal, see note))[^c-f62ecfb6ca9e0307e823a3086616c0c7] a secure training order under section 1 of the Criminal Justice and Public Order Act 1994; *(Extent: E+W)* *(affected by repeal, see note)*[^c-f62ecfb6ca9e0307e823a3086616c0c7]
 
-. *(Extent: E+W)* *(affected by repeal, see note)*[^key-f62ecfb6ca9e0307e823a3086616c0c7]
+. *(Extent: E+W)* *(affected by repeal, see note)*[^c-f62ecfb6ca9e0307e823a3086616c0c7]
 
 ### Prisoner custody officers: ineligibility for jury service
 
@@ -296,7 +296,7 @@ Section 168(2).
 - (a) in subsection (1), after the word “photograph” there shall be inserted the words “ or pseudo-photograph ”; and
 - (b) in subsection (2), after the word “photographs” there shall be inserted the words “ or pseudo-photographs ”.
 
-(4)[^key-bc88a25510ba188cd4c9d8c3f8623140] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bc88a25510ba188cd4c9d8c3f8623140] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Indecent photographs etc. (Northern Ireland)
 
@@ -307,9 +307,9 @@ Section 168(2).
 - (a) after the word “photograph” there shall be inserted the words “ or pseudo-photograph ”; and
 - (b) after the word “photographs” there shall be inserted the words “ or pseudo-photographs ”.
 
-(3)[^key-4068c7748b253cac7369bead9969ef82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4068c7748b253cac7369bead9969ef82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-4068c7748b253cac7369bead9969ef82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4068c7748b253cac7369bead9969ef82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Article 7(1), after the word “Order” there shall be inserted the words “ relating to indecent photographs of children ”.
 
@@ -319,7 +319,7 @@ Section 168(2).
 
 ### Procedure for young offenders in cases of grave crimes
 
-**40.**[^key-7b2493cff72306d133d9ea1b443a4b44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-7b2493cff72306d133d9ea1b443a4b44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Bail: exclusion in homicide and rape cases
 
@@ -416,7 +416,7 @@ Section 168(2).
   > - (iv) section 76 of the Criminal Justice and Public Order Act 1994 (failure to comply with interim possession order);
 
   ;
-- (b)[^key-a717d4ce59db429b20963fb1727d3fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a717d4ce59db429b20963fb1727d3fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Bail: exclusion in homicide and rape cases
 
@@ -559,7 +559,7 @@ Section 168(2).
 
 ### Young offenders: powers to search and to test for drugs
 
-**64.**[^key-dfe85b3de5bd9daab21e4c05659146aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-dfe85b3de5bd9daab21e4c05659146aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Non-appearance of accused: plea of guilty
 
@@ -680,7 +680,7 @@ Section 168(2).
 
 ### Bail: exclusion in homicide and rape cases
 
-**71.**[^key-751325becd76cb5281d01e9be3f0457a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**71.**[^c-751325becd76cb5281d01e9be3f0457a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Probation officers for offenders subject to secure training orders
 
@@ -694,7 +694,7 @@ Section 168(2).
 
 [^c13108371]: Extent: The provisions of Sch. 10 are co-extensive with the enactments they affect, see s. 172(16)
 
-[^key-8246b0d25f6690507f4750cfa0d1c97f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-8246b0d25f6690507f4750cfa0d1c97f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c13108381]: Marginal citation: [1679 c. 2](https://www.legislation.gov.uk/aep/1679/2).
 
@@ -742,7 +742,7 @@ Section 168(2).
 
 [^c19819191]: Textual amendment: Sch. 10 para. 29 repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 332](https://www.legislation.gov.uk/ukpga/2003/44/section/332), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(2)(I)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/I/iv)
 
-[^key-f62ecfb6ca9e0307e823a3086616c0c7]: Textual amendment: Sch. 10 para. 30 repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-f62ecfb6ca9e0307e823a3086616c0c7]: Textual amendment: Sch. 10 para. 30 repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c13108681]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
@@ -766,15 +766,15 @@ Section 168(2).
 
 [^c13108811]: Marginal citation: [1978 c. 37](https://www.legislation.gov.uk/ukpga/1978/37).
 
-[^key-bc88a25510ba188cd4c9d8c3f8623140]: Textual amendment: Sch. 10 para. 37(4) repealed (1.4.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4); [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/790/article/2/e)
+[^c-bc88a25510ba188cd4c9d8c3f8623140]: Textual amendment: Sch. 10 para. 37(4) repealed (1.4.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4); [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/790/article/2/e)
 
 [^c13108821]: Marginal citation: [S.I. 1978/1047 (N.I.17)](https://www.legislation.gov.uk/nisi/1978/1047).
 
-[^key-4068c7748b253cac7369bead9969ef82]: Textual amendment: Sch. 10 para. 38(3) (4) repealed (1.4.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4); [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/790/article/2/e)
+[^c-4068c7748b253cac7369bead9969ef82]: Textual amendment: Sch. 10 para. 38(3) (4) repealed (1.4.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4); [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/790/article/2/e)
 
 [^c13108831]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-7b2493cff72306d133d9ea1b443a4b44]: Textual amendment: Sch. 10 para. 40 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3) [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3) [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
+[^c-7b2493cff72306d133d9ea1b443a4b44]: Textual amendment: Sch. 10 para. 40 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3) [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3) [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
 
 [^c13108841]: Textual amendment: Sch. 10 para. 42 repealed (1.4.2000) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 120(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/120/2), [Sch. 10](https://www.legislation.gov.uk/ukpga/1998/37/schedule/10) (with [Sch. 9](https://www.legislation.gov.uk/ukpga/1998/37/schedule/9)); [S.I. 1999/3426](https://www.legislation.gov.uk/uksi/1999/3426), [art. 3(c)](https://www.legislation.gov.uk/uksi/1999/3426/article/3/c)
 
@@ -796,7 +796,7 @@ Section 168(2).
 
 [^c13108961]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-a717d4ce59db429b20963fb1727d3fa9]: Textual amendment: Sch. 10 para. 53(b) omitted (1.9.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 144(9)](https://www.legislation.gov.uk/ukpga/2012/10/section/144/9), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/1956](https://www.legislation.gov.uk/uksi/2012/1956), [art. 2](https://www.legislation.gov.uk/uksi/2012/1956/article/2)
+[^c-a717d4ce59db429b20963fb1727d3fa9]: Textual amendment: Sch. 10 para. 53(b) omitted (1.9.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 144(9)](https://www.legislation.gov.uk/ukpga/2012/10/section/144/9), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/1956](https://www.legislation.gov.uk/uksi/2012/1956), [art. 2](https://www.legislation.gov.uk/uksi/2012/1956/article/2)
 
 [^c13108971]: Marginal citation: [1984 c.60](https://www.legislation.gov.uk/ukpga/1984/60).
 
@@ -814,7 +814,7 @@ Section 168(2).
 
 [^c13109111]: Textual amendment: Sch. 10 para. 63 repealed (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11) s. 125, Sch. 16, Pt. I: [S.I.2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
 
-[^key-dfe85b3de5bd9daab21e4c05659146aa]: Textual amendment: Sch. 10 para. 64 repealed (S.) (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 3(5)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/3/5)
+[^c-dfe85b3de5bd9daab21e4c05659146aa]: Textual amendment: Sch. 10 para. 64 repealed (S.) (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 3(5)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/3/5)
 
 [^c13109151]: Textual amendment: Sch. 10 para. 65 repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165](https://www.legislation.gov.uk/ukpga/2000/6/section/165), [168](https://www.legislation.gov.uk/ukpga/2000/6/section/168), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 
@@ -824,7 +824,7 @@ Section 168(2).
 
 [^c19857581]: Textual amendment: Sch. 10 para. 68 repealed (1.11.2007) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 39](https://www.legislation.gov.uk/ukpga/2007/21/section/39), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1), {Sch. 5 Pt. 2)}; [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(t)(iv)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/t/iv)
 
-[^key-751325becd76cb5281d01e9be3f0457a]: Textual amendment: Sch. 10 para. 71 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3) [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3) [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
+[^c-751325becd76cb5281d01e9be3f0457a]: Textual amendment: Sch. 10 para. 71 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3) [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3) [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
 
 [^c13109221]: Textual amendment: Sch. 10 para. 72 repealed (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [s. 75](https://www.legislation.gov.uk/ukpga/2000/43/section/75), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/43/schedule/8); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/919/article/2/g) Table
 

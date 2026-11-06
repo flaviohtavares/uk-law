@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4B. Notice requirements[^key-22b6990b15f9df7db8aafcce657dc017]
+## 4B. Notice requirements[^c-22b6990b15f9df7db8aafcce657dc017]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22b6990b15f9df7db8aafcce657dc017]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/wsi/2021/77/regulation/4A), [4B](https://www.legislation.gov.uk/wsi/2021/77/regulation/4B) inserted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [5](https://www.legislation.gov.uk/wsi/2023/1393/regulation/5)
+[^c-22b6990b15f9df7db8aafcce657dc017]: Textual amendment: [Regs. 4A](https://www.legislation.gov.uk/wsi/2021/77/regulation/4A), [4B](https://www.legislation.gov.uk/wsi/2021/77/regulation/4B) inserted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [5](https://www.legislation.gov.uk/wsi/2023/1393/regulation/5)

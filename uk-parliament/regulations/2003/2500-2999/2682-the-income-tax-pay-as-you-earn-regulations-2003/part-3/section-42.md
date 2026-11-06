@@ -48,7 +48,7 @@ the new employer must comply with regulation 45.
 
 (6) If Parts 2 and 3 of Form P45 show that the employment ended in any earlier tax year, the new employer must comply with regulation 45.
 
-(6A)[^key-d7b7711094941b341ed2507fba4d1ba6] Paragraphs (7) and (8) apply if the employer is either—
+(6A)[^c-d7b7711094941b341ed2507fba4d1ba6] Paragraphs (7) and (8) apply if the employer is either—
 
 - (a) a non-Real Time Information employer, or
 - (b) a Real Time Information employer to whom HMRC has given a notice requiring the employer to send to HMRC Form P45 or Form P46 on the commencement of a new employee’s employment.
@@ -62,7 +62,7 @@ the new employer must comply with regulation 45.
 - (e) any figure recorded in accordance with paragraph (5)(c) or (6)(c) of regulation 43 (Form P45 for current tax year), if different from the total tax to date shown on Parts 2 and 3 of Form P45,
 - (f) the employee’s address,
 - (g) the employee’s date of birth, ...
-- (ga)[^key-59b9e0984c0cf179d6dfb734d806b076] the employee’s sex,
+- (ga)[^c-59b9e0984c0cf179d6dfb734d806b076] the employee’s sex,
 - (h) the employee’s job title or description,
 - (i) the employer’s name, and
 - (j) the employer’s address.
@@ -71,6 +71,6 @@ the new employer must comply with regulation 45.
 
 ## Annotations
 
-[^key-d7b7711094941b341ed2507fba4d1ba6]: Textual amendment: [Reg. 42(6A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/42/6A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2012/822/regulation/11)
+[^c-d7b7711094941b341ed2507fba4d1ba6]: Textual amendment: [Reg. 42(6A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/42/6A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2012/822/regulation/11)
 
-[^key-59b9e0984c0cf179d6dfb734d806b076]: Textual amendment: [Reg. 42(7)(ga)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/42/7/ga) inserted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/4/b)
+[^c-59b9e0984c0cf179d6dfb734d806b076]: Textual amendment: [Reg. 42(7)(ga)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/42/7/ga) inserted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/4/b)

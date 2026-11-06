@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Application to Parliament[^key-5809e2ebe8cc74df1109eeeed7b205d1]
+## 165. Application to Parliament[^c-5809e2ebe8cc74df1109eeeed7b205d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5809e2ebe8cc74df1109eeeed7b205d1]: Commencement: S. 165 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)
+[^c-5809e2ebe8cc74df1109eeeed7b205d1]: Commencement: S. 165 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)

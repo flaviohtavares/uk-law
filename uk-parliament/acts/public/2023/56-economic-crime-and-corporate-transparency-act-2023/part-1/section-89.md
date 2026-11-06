@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Copies of material on the register[^key-11d0c250972a2cfcc43642c81aebc770][^key-7cc55d7cb2e488f1b4d17c372a08ff36]
+## 89. Copies of material on the register[^c-11d0c250972a2cfcc43642c81aebc770][^c-7cc55d7cb2e488f1b4d17c372a08ff36]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11d0c250972a2cfcc43642c81aebc770]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-11d0c250972a2cfcc43642c81aebc770]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-7cc55d7cb2e488f1b4d17c372a08ff36]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2023/56/section/89) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z31)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z31)
+[^c-7cc55d7cb2e488f1b4d17c372a08ff36]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2023/56/section/89) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z31)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z31)

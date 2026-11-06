@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Overpayments of fee support[^key-af4b3ee978292249df2d9c77d38e49e8]
+## 104. Overpayments of fee support[^c-af4b3ee978292249df2d9c77d38e49e8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any overpayment of fee support is recoverable by the Department from the academi
 
 ## Annotations
 
-[^key-af4b3ee978292249df2d9c77d38e49e8]: Commencement: [Reg. 104](https://www.legislation.gov.uk/nisr/2007/195/regulation/104) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-af4b3ee978292249df2d9c77d38e49e8]: Commencement: [Reg. 104](https://www.legislation.gov.uk/nisr/2007/195/regulation/104) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Overseas Territories
 
-The Iran (Restrictive Measures) (Overseas Territories) (Amendment) (No. 2) Order 2015 (revoked)[^key-46027df6b9e0ae9efdefa509791e9543]
+The Iran (Restrictive Measures) (Overseas Territories) (Amendment) (No. 2) Order 2015 (revoked)[^c-46027df6b9e0ae9efdefa509791e9543]
 
 Made
 
@@ -52,24 +52,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-46027df6b9e0ae9efdefa509791e9543]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46027df6b9e0ae9efdefa509791e9543]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-46027df6b9e0ae9efdefa509791e9543]
+## 1. Citation, commencement, interpretation and extent[^c-46027df6b9e0ae9efdefa509791e9543]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the principal Order[^key-46027df6b9e0ae9efdefa509791e9543]
+## 2. Amendment to the principal Order[^c-46027df6b9e0ae9efdefa509791e9543]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46027df6b9e0ae9efdefa509791e9543]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46027df6b9e0ae9efdefa509791e9543]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-46027df6b9e0ae9efdefa509791e9543]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46027df6b9e0ae9efdefa509791e9543]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46027df6b9e0ae9efdefa509791e9543]: Textual amendment: Order revoked (17.3.2016) by [The Iran (Sanctions) (Overseas Territories) Order 2016 (S.I. 2016/371)](https://www.legislation.gov.uk/uksi/2016/371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/371/article/1/1), [29(d)](https://www.legislation.gov.uk/uksi/2016/371/article/29/d) (with [arts. 2](https://www.legislation.gov.uk/uksi/2016/371/article/2), [30](https://www.legislation.gov.uk/uksi/2016/371/article/30))
+[^c-46027df6b9e0ae9efdefa509791e9543]: Textual amendment: Order revoked (17.3.2016) by [The Iran (Sanctions) (Overseas Territories) Order 2016 (S.I. 2016/371)](https://www.legislation.gov.uk/uksi/2016/371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/371/article/1/1), [29(d)](https://www.legislation.gov.uk/uksi/2016/371/article/29/d) (with [arts. 2](https://www.legislation.gov.uk/uksi/2016/371/article/2), [30](https://www.legislation.gov.uk/uksi/2016/371/article/30))

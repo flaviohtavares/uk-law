@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 23. Grants and appropriations[^key-9023ddf2fafc7569e77177d5f0a3b480]
+## 23. Grants and appropriations[^c-9023ddf2fafc7569e77177d5f0a3b480]
 
 *Extent: E*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9023ddf2fafc7569e77177d5f0a3b480]: Commencement: [S. 23](https://www.legislation.gov.uk/ukcm/2018/8/section/23) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-9023ddf2fafc7569e77177d5f0a3b480]: Commencement: [S. 23](https://www.legislation.gov.uk/ukcm/2018/8/section/23) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

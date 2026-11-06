@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Childcare Act 2006 (Provision of Information to Parents) (England) (Amendment) Regulations 2017 (revoked)[^key-abfac880f97075cce693ef13d09c4cfb]
+The Childcare Act 2006 (Provision of Information to Parents) (England) (Amendment) Regulations 2017 (revoked)[^c-abfac880f97075cce693ef13d09c4cfb]
 
 Made
 
@@ -44,24 +44,24 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-abfac880f97075cce693ef13d09c4cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abfac880f97075cce693ef13d09c4cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-abfac880f97075cce693ef13d09c4cfb]
+## 1. Citation and commencement[^c-abfac880f97075cce693ef13d09c4cfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Childcare Act 2006 (Provision of Information to Parents) (England) Regulations 2007[^key-abfac880f97075cce693ef13d09c4cfb]
+## 2. Amendment to the Childcare Act 2006 (Provision of Information to Parents) (England) Regulations 2007[^c-abfac880f97075cce693ef13d09c4cfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-abfac880f97075cce693ef13d09c4cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abfac880f97075cce693ef13d09c4cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-abfac880f97075cce693ef13d09c4cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abfac880f97075cce693ef13d09c4cfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-abfac880f97075cce693ef13d09c4cfb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/249) revoked (31.3.2017) by [The Childcare Act 2006 (Provision of Information to Parents) (England) (Amendment) (No. 2) Regulations 2017 (S.I. 2017/333)](https://www.legislation.gov.uk/uksi/2017/333), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/333/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2017/333/regulation/2)
+[^c-abfac880f97075cce693ef13d09c4cfb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/249) revoked (31.3.2017) by [The Childcare Act 2006 (Provision of Information to Parents) (England) (Amendment) (No. 2) Regulations 2017 (S.I. 2017/333)](https://www.legislation.gov.uk/uksi/2017/333), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/333/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2017/333/regulation/2)

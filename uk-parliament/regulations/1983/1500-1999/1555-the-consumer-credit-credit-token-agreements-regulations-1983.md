@@ -45,17 +45,17 @@ Coming into Operation
 
 The Secretary of State, in exercise of the powers conferred on him by sections 84(4), 182(2) and 189(1) of the Consumer Credit Act 1974 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-c066d3542acead1ef93a32075afce742]
+## 1. Citation, commencement and interpretation[^c-c066d3542acead1ef93a32075afce742]
 
 (1) These Regulations may be cited as the Consumer Credit (Credit-Token Agreements) Regulations 1983 and shall come into operation on 19th May 1985.
 
 (2) In these Regulations, “**the Act**” means the Consumer Credit Act 1974.
 
-## 2. Misuse of credit-tokens[^key-93d201dcd024c36beb73039b31f95804]
+## 2. Misuse of credit-tokens[^c-93d201dcd024c36beb73039b31f95804]
 
 For the purposes of section 84(4) of the Act, particulars of the name, address and telephone number of a person stated to be the person to whom notice is to be given under section 84(3) (of loss, theft or liability to misuse of a credit-token) shall be contained in the credit-token agreement prominently and so as to be easily legible.
 
-## 3. Old agreements[^key-15b024aee354bffc997b895059e21e84]
+## 3. Old agreements[^c-15b024aee354bffc997b895059e21e84]
 
 Regulation 2 above shall have effect in relation to agreements made before 19th May 1985 where the agreement would have been a credit-token agreement if made on that date, as if the words “prominently and” were omitted.
 
@@ -75,8 +75,8 @@ By virtue of paragraph 20(3) of Schedule 3 to the Act, section 84 applies to exi
 
 ## Annotations
 
-[^key-c066d3542acead1ef93a32075afce742]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1555/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1555/regulation/1/1)
+[^c-c066d3542acead1ef93a32075afce742]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1555/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1555/regulation/1/1)
 
-[^key-93d201dcd024c36beb73039b31f95804]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1555/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1555/regulation/1/1)
+[^c-93d201dcd024c36beb73039b31f95804]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1555/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1555/regulation/1/1)
 
-[^key-15b024aee354bffc997b895059e21e84]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1983/1555/regulation/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1555/regulation/1/1)
+[^c-15b024aee354bffc997b895059e21e84]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1983/1555/regulation/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1555/regulation/1/1)

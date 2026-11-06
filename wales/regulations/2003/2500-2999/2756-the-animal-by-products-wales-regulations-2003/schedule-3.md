@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Transitional Measures[^key-6923fb1104eb1436024dc01d1cbb8d89]
+## SCHEDULE 3 — Transitional Measures[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 *Extent: E+W*
 
@@ -24,116 +24,116 @@ summary: ''
 
 regulation 50
 
-### PART I — INTRA-SPECIES RECYCLING BAN FOR FISH[^key-6923fb1104eb1436024dc01d1cbb8d89]
+### PART I — INTRA-SPECIES RECYCLING BAN FOR FISH[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
-**1.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — COLLECTION, TRANSPORTATION AND DISPOSAL OF FORMER FOODSTUFFS[^key-6923fb1104eb1436024dc01d1cbb8d89]
+### PART II — COLLECTION, TRANSPORTATION AND DISPOSAL OF FORMER FOODSTUFFS[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
-**1.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — USKED COOKING OIL IN ANIMAL FEED[^key-6923fb1104eb1436024dc01d1cbb8d89]
+### PART III — USKED COOKING OIL IN ANIMAL FEED[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
-#### 1. Scope[^key-6923fb1104eb1436024dc01d1cbb8d89]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 3. Approvals[^key-6923fb1104eb1436024dc01d1cbb8d89]
+#### 1. Scope[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 6. General obligations[^key-6923fb1104eb1436024dc01d1cbb8d89]
+#### 3. Approvals[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Approved premises and the operation of blending premises[^key-6923fb1104eb1436024dc01d1cbb8d89]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 12. Operators'own-checks[^key-6923fb1104eb1436024dc01d1cbb8d89]
+#### 6. General obligations[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**19.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART IV — MAMMALIAN BLOOD[^key-6923fb1104eb1436024dc01d1cbb8d89]
-
-#### 1. General[^key-6923fb1104eb1436024dc01d1cbb8d89]
+#### 9. Approved premises and the operation of blending premises[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART V — OLEOCHEMICAL PLANTS USING RENDERED FATS FROM CATEGORY 2 AND CATEGORY 3 MATERIALS[^key-6923fb1104eb1436024dc01d1cbb8d89]
-
-#### 1. General obligations[^key-6923fb1104eb1436024dc01d1cbb8d89]
+#### 12. Operators'own-checks[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART VI — LOW CAPACITY INCINERATION OR CO-INCINERATION PLANTS WHICH DO NOT INCINERATE OR CO-INCINERATE SPECIFIED RISK MATERIALS OR CARCASES CONTAINING THEM[^key-6923fb1104eb1436024dc01d1cbb8d89]
+**16.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. General obligations[^key-6923fb1104eb1436024dc01d1cbb8d89]
+**17.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART IV — MAMMALIAN BLOOD[^c-6923fb1104eb1436024dc01d1cbb8d89]
+
+#### 1. General[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Specific requirements[^key-6923fb1104eb1436024dc01d1cbb8d89]
+**4.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART V — OLEOCHEMICAL PLANTS USING RENDERED FATS FROM CATEGORY 2 AND CATEGORY 3 MATERIALS[^c-6923fb1104eb1436024dc01d1cbb8d89]
+
+#### 1. General obligations[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART VI — LOW CAPACITY INCINERATION OR CO-INCINERATION PLANTS WHICH DO NOT INCINERATE OR CO-INCINERATE SPECIFIED RISK MATERIALS OR CARCASES CONTAINING THEM[^c-6923fb1104eb1436024dc01d1cbb8d89]
+
+#### 1. General obligations[^c-6923fb1104eb1436024dc01d1cbb8d89]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Specific requirements[^c-6923fb1104eb1436024dc01d1cbb8d89]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6923fb1104eb1436024dc01d1cbb8d89]: Textual amendment: Regulations revoked (12.5.2006) by [The Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(2)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53)
+[^c-6923fb1104eb1436024dc01d1cbb8d89]: Textual amendment: Regulations revoked (12.5.2006) by [The Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(2)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53)

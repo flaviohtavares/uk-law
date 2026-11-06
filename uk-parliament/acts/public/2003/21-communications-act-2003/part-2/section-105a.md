@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Duty to take security measures[^key-281834045958f0ae3d9e2c75d9d9c6eb][^key-c266856b9b0ba57d6a264dd96ca94769]
+## 105A. Duty to take security measures[^c-281834045958f0ae3d9e2c75d9d9c6eb][^c-c266856b9b0ba57d6a264dd96ca94769]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-281834045958f0ae3d9e2c75d9d9c6eb]: Textual amendment: [Ss. 105A](https://www.legislation.gov.uk/ukpga/2003/21/section/105A), [105B](https://www.legislation.gov.uk/ukpga/2003/21/section/105B) substituted for ss. 105A-105D and ss. 105C, 105D re-inserted (17.11.2021 for specified purposes, 1.10.2022 in so far as not already in force) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/1/2), [2](https://www.legislation.gov.uk/ukpga/2021/31/section/2), [28(1)(a)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/a)
+[^c-281834045958f0ae3d9e2c75d9d9c6eb]: Textual amendment: [Ss. 105A](https://www.legislation.gov.uk/ukpga/2003/21/section/105A), [105B](https://www.legislation.gov.uk/ukpga/2003/21/section/105B) substituted for ss. 105A-105D and ss. 105C, 105D re-inserted (17.11.2021 for specified purposes, 1.10.2022 in so far as not already in force) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/1/2), [2](https://www.legislation.gov.uk/ukpga/2021/31/section/2), [28(1)(a)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/a)
 
-[^key-c266856b9b0ba57d6a264dd96ca94769]: Textual amendment: Ss. 105A-105D and cross-heading inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/65) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-c266856b9b0ba57d6a264dd96ca94769]: Textual amendment: Ss. 105A-105D and cross-heading inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/65) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

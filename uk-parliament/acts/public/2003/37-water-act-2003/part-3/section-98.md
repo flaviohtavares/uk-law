@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Schemes for the adoption of sewers, lateral drains and sewage disposal works[^key-79689538f73acce08a7d3bf326ab7cc4]
+## 98. Schemes for the adoption of sewers, lateral drains and sewage disposal works[^c-79689538f73acce08a7d3bf326ab7cc4]
 
 *Extent: E+W*
 
@@ -128,4 +128,4 @@ After section 105 of the WIA there is inserted—
 
 ## Annotations
 
-[^key-79689538f73acce08a7d3bf326ab7cc4]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2003/37/section/98) in force at 1.4.2007 by [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/b)
+[^c-79689538f73acce08a7d3bf326ab7cc4]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2003/37/section/98) in force at 1.4.2007 by [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/b)

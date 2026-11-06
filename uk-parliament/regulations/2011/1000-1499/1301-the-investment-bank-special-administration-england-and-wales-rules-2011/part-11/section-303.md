@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 303. Electronic submission of information[^key-d998e8b98bc7d80790cf6c71d8f975b7]
+## 303. Electronic submission of information[^c-d998e8b98bc7d80790cf6c71d8f975b7]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d998e8b98bc7d80790cf6c71d8f975b7]: Commencement: [Rule 303](https://www.legislation.gov.uk/uksi/2011/1301/rule/303) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d998e8b98bc7d80790cf6c71d8f975b7]: Commencement: [Rule 303](https://www.legislation.gov.uk/uksi/2011/1301/rule/303) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

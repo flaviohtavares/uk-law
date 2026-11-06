@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Absent voting: interpretation[^key-0a24620fd8db2c8b3e420dd59c969616]
+## 31. Absent voting: interpretation[^c-0a24620fd8db2c8b3e420dd59c969616]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a24620fd8db2c8b3e420dd59c969616]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2006/2910/regulation/31) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-0a24620fd8db2c8b3e420dd59c969616]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2006/2910/regulation/31) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00050]: Footnote: Regulation 85A is inserted by regulation 39 of these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Forms of statutory statement[^key-fb581ebf85cd7c2290b406d3407b0e9d]
+## 5. Forms of statutory statement[^c-fb581ebf85cd7c2290b406d3407b0e9d]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb581ebf85cd7c2290b406d3407b0e9d]: Commencement: Reg. 5 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-fb581ebf85cd7c2290b406d3407b0e9d]: Commencement: Reg. 5 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

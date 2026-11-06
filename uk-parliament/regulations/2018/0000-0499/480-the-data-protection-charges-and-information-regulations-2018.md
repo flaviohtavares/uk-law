@@ -57,7 +57,7 @@ In accordance with section 110(2) of that Act, a draft of this instrument was la
 
 - “**business**” includes any trade or profession;
 - “**charge period**” has the meaning given in regulation 2(6);
-- “[^key-62fd27d54cdf083596f8df05e5d63e55]**data controller**” means a person who is a controller for the purposes of Parts 5 to 7 of the Data Protection Act 2018 (see section 3(6) and (14) of that Act);
+- “[^c-62fd27d54cdf083596f8df05e5d63e55]**data controller**” means a person who is a controller for the purposes of Parts 5 to 7 of the Data Protection Act 2018 (see section 3(6) and (14) of that Act);
 - “**data controller's financial year**” means—
   - (a) if the data controller [^c22938951] has been in existence for less than 12 months, the period of its existence, or
   - (b) in any other case, the most recent financial year of the data controller that ended prior to the first day of the charge period in respect of which information is being provided, or a charge is being paid, pursuant to regulation 2;
@@ -90,9 +90,9 @@ In accordance with section 110(2) of that Act, a draft of this instrument was la
 
 (1) A data controller must comply with the requirements of this regulation unless all of the processing of personal data they undertake is exempt processing.
 
-(2) Within the first 21 days of each charge period a data controller must pay a charge to the Information Commission[^key-ea00aa694412f9ea4b30b7fa06c80e86], determined in accordance with regulation 3.
+(2) Within the first 21 days of each charge period a data controller must pay a charge to the Information Commission[^c-ea00aa694412f9ea4b30b7fa06c80e86], determined in accordance with regulation 3.
 
-(3) Within the first 21 days of each charge period a data controller must provide to the Information Commission[^key-a3bcdc64d3bff7f9ceff03598f310122] the following information, as of the first day of each charge period—
+(3) Within the first 21 days of each charge period a data controller must provide to the Information Commission[^c-a3bcdc64d3bff7f9ceff03598f310122] the following information, as of the first day of each charge period—
 
 - (a) the name and address of the data controller;
 - (b) whether the number of members of staff of the data controller is—
@@ -130,9 +130,9 @@ In accordance with section 110(2) of that Act, a draft of this instrument was la
 
 (1) For the purposes of regulation 2(2), the charge payable by a data controller in—
 
-- (a) tier 1 (micro organisations), is £52[^key-e8534c566a601a734c7f13c5e583bda1];
-- (b) tier 2 (small and medium organisations), is £78[^key-181268aaf6beedbd434b64226036cf8a];
-- (c) tier 3 (large organisations), is £3,763[^key-8ebab014c4162c0f85676932bd9be6b5].
+- (a) tier 1 (micro organisations), is £52[^c-e8534c566a601a734c7f13c5e583bda1];
+- (b) tier 2 (small and medium organisations), is £78[^c-181268aaf6beedbd434b64226036cf8a];
+- (c) tier 3 (large organisations), is £3,763[^c-8ebab014c4162c0f85676932bd9be6b5].
 
 (2) For the purposes of this regulation, a data controller is, subject to paragraph (3)—
 
@@ -209,7 +209,7 @@ Regulation 2(1)
 
 In this Schedule—
 
-- “elected representative” has the meaning given in paragraph 23(3)(a) to (d) and (f) to (m) of Schedule 1 to the Data Protection Act 2018;[^key-d03839635a44a161a3893499cdbdce78]
+- “elected representative” has the meaning given in paragraph 23(3)(a) to (d) and (f) to (m) of Schedule 1 to the Data Protection Act 2018;[^c-d03839635a44a161a3893499cdbdce78]
 - “**judge**” includes—
   - (a) a justice of the peace (or, in Northern Ireland, a lay magistrate),
   - (b) a member of a tribunal, and
@@ -242,13 +242,13 @@ is open to public inspection or open to any inspection by any person having a le
   - (iii) making financial or financial management forecasts,
 
   in relation to any activity carried on by the data controller;
-- (g) carried out by a body or association which is not established or conducted for profit and which carries out the processing for the purposes of establishing or maintaining membership or support for the body or association, or providing or administering activities for individuals who are either a member of the body or association or who have regular contact with it; [^key-25a7c8235a8b481295a9ff48aaf1073b]...
+- (g) carried out by a body or association which is not established or conducted for profit and which carries out the processing for the purposes of establishing or maintaining membership or support for the body or association, or providing or administering activities for individuals who are either a member of the body or association or who have regular contact with it; [^c-25a7c8235a8b481295a9ff48aaf1073b]...
 - (h) carried out by—
   - (i) a judge, or
   - (ii) a person acting on the instructions, or on behalf, of a judge,
 
-  for the purposes of exercising judicial functions including the functions of appointment, discipline, administration or leadership of judges; or[^key-df7644f3483f14056e5b2a1e05930f57]
-- (i)[^key-5a41a98dfbf3c464233bb8dfb92e6b2e] carried out by—
+  for the purposes of exercising judicial functions including the functions of appointment, discipline, administration or leadership of judges; or[^c-df7644f3483f14056e5b2a1e05930f57]
+- (i)[^c-5a41a98dfbf3c464233bb8dfb92e6b2e] carried out by—
   - (i) a member of the House of Lords who is entitled to receive writs of summons to attend that House, or
   - (ii) a person acting on the instructions, or on behalf, of such a member,
 
@@ -302,7 +302,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22938941]: Marginal citation: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-62fd27d54cdf083596f8df05e5d63e55]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/480/regulation/1/2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 421](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/421) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 26](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/26)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-62fd27d54cdf083596f8df05e5d63e55]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/480/regulation/1/2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 421](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/421) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 26](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/26)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c22938951]: Marginal citation: “**Data controller**” for the purposes of these Regulations is defined by s.108(8) of the Digital Economy Act 2017.
 
@@ -316,17 +316,17 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22939001]: Marginal citation: [2002 asp 13](https://www.legislation.gov.uk/asp/2002/13).
 
-[^key-ea00aa694412f9ea4b30b7fa06c80e86]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/480/regulation/2/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/23); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-ea00aa694412f9ea4b30b7fa06c80e86]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/480/regulation/2/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/23); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-a3bcdc64d3bff7f9ceff03598f310122]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/480/regulation/2/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/23); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-a3bcdc64d3bff7f9ceff03598f310122]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/480/regulation/2/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/23); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^c22939011]: Marginal citation: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-e8534c566a601a734c7f13c5e583bda1]: Textual amendment: Sum in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2018/480/regulation/3/1/a) substituted (17.2.2025) by [The Data Protection (Charges and Information) (Amendment) Regulations 2025 (S.I. 2025/63)](https://www.legislation.gov.uk/uksi/2025/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/63/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/63/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/63/regulation/3))
+[^c-e8534c566a601a734c7f13c5e583bda1]: Textual amendment: Sum in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2018/480/regulation/3/1/a) substituted (17.2.2025) by [The Data Protection (Charges and Information) (Amendment) Regulations 2025 (S.I. 2025/63)](https://www.legislation.gov.uk/uksi/2025/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/63/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/63/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/63/regulation/3))
 
-[^key-181268aaf6beedbd434b64226036cf8a]: Textual amendment: Sum in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2018/480/regulation/3/1/b) substituted (17.2.2025) by [The Data Protection (Charges and Information) (Amendment) Regulations 2025 (S.I. 2025/63)](https://www.legislation.gov.uk/uksi/2025/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/63/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/63/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/63/regulation/3))
+[^c-181268aaf6beedbd434b64226036cf8a]: Textual amendment: Sum in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2018/480/regulation/3/1/b) substituted (17.2.2025) by [The Data Protection (Charges and Information) (Amendment) Regulations 2025 (S.I. 2025/63)](https://www.legislation.gov.uk/uksi/2025/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/63/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/63/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/63/regulation/3))
 
-[^key-8ebab014c4162c0f85676932bd9be6b5]: Textual amendment: Sum in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2018/480/regulation/3/1/c) substituted (17.2.2025) by [The Data Protection (Charges and Information) (Amendment) Regulations 2025 (S.I. 2025/63)](https://www.legislation.gov.uk/uksi/2025/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/63/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2025/63/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/63/regulation/3))
+[^c-8ebab014c4162c0f85676932bd9be6b5]: Textual amendment: Sum in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2018/480/regulation/3/1/c) substituted (17.2.2025) by [The Data Protection (Charges and Information) (Amendment) Regulations 2025 (S.I. 2025/63)](https://www.legislation.gov.uk/uksi/2025/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/63/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2025/63/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/63/regulation/3))
 
 [^c22939021]: Marginal citation: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
 
@@ -342,12 +342,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22939081]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594), as applied by [S.I. 1993/2810 (N.I. 12)](https://www.legislation.gov.uk/nisi/1993/2810) and [S.I. 2003/424 (N.I. 12)](https://www.legislation.gov.uk/nisi/2003/424).
 
-[^key-d03839635a44a161a3893499cdbdce78]: Textual amendment: Words in Sch. para. 1 inserted (1.4.2019) by [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/2)
+[^c-d03839635a44a161a3893499cdbdce78]: Textual amendment: Words in Sch. para. 1 inserted (1.4.2019) by [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/2)
 
-[^key-25a7c8235a8b481295a9ff48aaf1073b]: Textual amendment: Word in Sch. para. 2(2)(g) omitted (1.4.2019) by virtue of [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/3/a)
+[^c-25a7c8235a8b481295a9ff48aaf1073b]: Textual amendment: Word in Sch. para. 2(2)(g) omitted (1.4.2019) by virtue of [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/3/a)
 
-[^key-df7644f3483f14056e5b2a1e05930f57]: Textual amendment: Word in Sch. para. 2(2)(h) inserted (1.4.2019) by [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/3/b)
+[^c-df7644f3483f14056e5b2a1e05930f57]: Textual amendment: Word in Sch. para. 2(2)(h) inserted (1.4.2019) by [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/3/b)
 
-[^key-5a41a98dfbf3c464233bb8dfb92e6b2e]: Textual amendment: Sch. para. 2(2)(i)-(k) inserted (1.4.2019) by [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/3/c)
+[^c-5a41a98dfbf3c464233bb8dfb92e6b2e]: Textual amendment: Sch. para. 2(2)(i)-(k) inserted (1.4.2019) by [The Data Protection (Charges and Information) (Amendment) Regulations 2019 (S.I. 2019/478)](https://www.legislation.gov.uk/uksi/2019/478), [regs. 1](https://www.legislation.gov.uk/uksi/2019/478/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/478/regulation/2/3/c)
 
 [^c22939091]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39). Section 145(8) was substituted by S.I 2013/1881, art. 20(1) and (41)(g).

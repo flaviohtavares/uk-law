@@ -47,19 +47,19 @@ Whereas it appears to the Treasury expedient that the relief from value added ta
 
 Now, therefore, the Lords Commissioners of Her Majesty's Treasury, by virtue of the powers conferred on them by section 19(1) of the Value Added Tax Act 1983 and of all other powers enabling them in that behalf, hereby make the following Order—
 
-## 1. Citation and commencement[^key-10b2365dc0f676ed9f1fa75ddd2545e6]
+## 1. Citation and commencement[^c-10b2365dc0f676ed9f1fa75ddd2545e6]
 
 This Order may be cited as the Value Added Tax (Small Non-Commercial Consignments) Relief Order 1986 and shall come into operation on 1st July 1986.
 
-## 2. Revocation[^key-470496be2dd49be0f0e4f308aad916d3]
+## 2. Revocation[^c-470496be2dd49be0f0e4f308aad916d3]
 
 The Value Added Tax (Imported Goods) Relief Order 1980 and the Value Added Tax (Imported Goods) Relief (Amendment) Order 1985 are hereby revoked.
 
-## 3. Relief from value added tax[^key-841284d0a3a6252b1d55213ab6f122a4]
+## 3. Relief from value added tax[^c-841284d0a3a6252b1d55213ab6f122a4]
 
-(1) Subject to the provisions of this Order, no tax is payable on the importation [^key-16a71a48b7394beeb9ea9bb9e5dad15e]... of goods forming part of a small consignment of a non-commercial character.
+(1) Subject to the provisions of this Order, no tax is payable on the importation [^c-16a71a48b7394beeb9ea9bb9e5dad15e]... of goods forming part of a small consignment of a non-commercial character.
 
-(2) In this Order “**small consignment**” means a consignment (not forming part of a larger consignment) containing goods with a value for customs purposes not exceeding £39[^key-15f51dfedef4e221f4f0645946ce9e00].
+(2) In this Order “**small consignment**” means a consignment (not forming part of a larger consignment) containing goods with a value for customs purposes not exceeding £39[^c-15f51dfedef4e221f4f0645946ce9e00].
 
 (3) For the purposes of this Order a consignment is of a non-commercial character only if the following requirements are met, namely—
 
@@ -67,11 +67,11 @@ The Value Added Tax (Imported Goods) Relief Order 1980 and the Value Added Tax (
 - (b) it is not imported for any consideration in money or money's worth;
 - (c) it is intended solely for the personal use of the consignee or that of his family and not for any commercial purpose.
 
-## 4. Conditions of Relief[^key-dcbf72ea4b224141c6a2396cd5743c6f]
+## 4. Conditions of Relief[^c-dcbf72ea4b224141c6a2396cd5743c6f]
 
 No relief shall be given under this Order unless the consignment is of an occasional nature.
 
-## 5. Quantitative restriction on relief for certain goods[^key-9b006301ce3950f2cf661ff5f72b0fad]
+## 5. Quantitative restriction on relief for certain goods[^c-9b006301ce3950f2cf661ff5f72b0fad]
 
 Where a small consignment of a non-commercial character contains goods of any of the following descriptions, namely—
 
@@ -81,7 +81,7 @@ Where a small consignment of a non-commercial character contains goods of any of
 
 in excess of the quantity shown in relation to goods of that description in the Schedule to this Order, no relief under this Order shall be given in respect of any goods of that description contained in that consignment.
 
-## 6. Relief not applicable to travellers' baggage[^key-612fec1a622833d903258cbbb5de71b9]
+## 6. Relief not applicable to travellers' baggage[^c-612fec1a622833d903258cbbb5de71b9]
 
 This Order does not apply to goods contained in the baggage of a person entering the United Kingdom or carried with such a person.
 
@@ -91,9 +91,9 @@ Donald Thompson
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE[^key-24adb3a5675312bcd502ae7c28714432]
+## SCHEDULE[^c-24adb3a5675312bcd502ae7c28714432]
 
-[^key-24adb3a5675312bcd502ae7c28714432](Article 5)
+[^c-24adb3a5675312bcd502ae7c28714432](Article 5)
 
 |  |  |
 | --- | --- |
@@ -113,7 +113,7 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 | still wines | 2 litres |
 | (3) Perfumes | 50 grammes |
 | or |  |
-| toilet waters | 250 millilitres[^key-2f469ac2978fbf6331cee67c6a4ed5c8] |
+| toilet waters | 250 millilitres[^c-2f469ac2978fbf6331cee67c6a4ed5c8] |
 
 EXPLANATORY NOTE
 
@@ -125,22 +125,22 @@ The parallel relief from excise duty is to be found in the Excise Duties (Small 
 
 ## Annotations
 
-[^key-10b2365dc0f676ed9f1fa75ddd2545e6]: Commencement: Art. 1 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
+[^c-10b2365dc0f676ed9f1fa75ddd2545e6]: Commencement: Art. 1 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
 
-[^key-470496be2dd49be0f0e4f308aad916d3]: Commencement: Art. 2 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
+[^c-470496be2dd49be0f0e4f308aad916d3]: Commencement: Art. 2 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
 
-[^key-841284d0a3a6252b1d55213ab6f122a4]: Commencement: Art. 3 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
+[^c-841284d0a3a6252b1d55213ab6f122a4]: Commencement: Art. 3 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
 
-[^key-16a71a48b7394beeb9ea9bb9e5dad15e]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/1986/939/article/3/1) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/4/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-16a71a48b7394beeb9ea9bb9e5dad15e]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/1986/939/article/3/1) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/4/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-15f51dfedef4e221f4f0645946ce9e00]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/uksi/1986/939/article/3/2) substituted (1.1.2017) by [The Value Added Tax (Small Non-Commercial Consignments) Relief (Amendment) Order 2016 (S.I. 2016/1199)](https://www.legislation.gov.uk/uksi/2016/1199), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1199/article/1), [3](https://www.legislation.gov.uk/uksi/2016/1199/article/3)
+[^c-15f51dfedef4e221f4f0645946ce9e00]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/uksi/1986/939/article/3/2) substituted (1.1.2017) by [The Value Added Tax (Small Non-Commercial Consignments) Relief (Amendment) Order 2016 (S.I. 2016/1199)](https://www.legislation.gov.uk/uksi/2016/1199), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1199/article/1), [3](https://www.legislation.gov.uk/uksi/2016/1199/article/3)
 
-[^key-dcbf72ea4b224141c6a2396cd5743c6f]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/1986/939/article/4) substituted (1.1.1993) by [The Value Added Tax (Small Non-Commercial Consignments) Relief (Amendment) Order 1992 (S.I. 1992/3118)](https://www.legislation.gov.uk/uksi/1992/3118), [art. 1](https://www.legislation.gov.uk/uksi/1992/3118/article/1), [5](https://www.legislation.gov.uk/uksi/1992/3118/article/5)
+[^c-dcbf72ea4b224141c6a2396cd5743c6f]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/1986/939/article/4) substituted (1.1.1993) by [The Value Added Tax (Small Non-Commercial Consignments) Relief (Amendment) Order 1992 (S.I. 1992/3118)](https://www.legislation.gov.uk/uksi/1992/3118), [art. 1](https://www.legislation.gov.uk/uksi/1992/3118/article/1), [5](https://www.legislation.gov.uk/uksi/1992/3118/article/5)
 
-[^key-9b006301ce3950f2cf661ff5f72b0fad]: Commencement: Art. 5 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
+[^c-9b006301ce3950f2cf661ff5f72b0fad]: Commencement: Art. 5 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
 
-[^key-612fec1a622833d903258cbbb5de71b9]: Commencement: Art. 6 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
+[^c-612fec1a622833d903258cbbb5de71b9]: Commencement: Art. 6 in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
 
-[^key-24adb3a5675312bcd502ae7c28714432]: Commencement: Sch. in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
+[^c-24adb3a5675312bcd502ae7c28714432]: Commencement: Sch. in force at 1.7.1986, see [art. 1](https://www.legislation.gov.uk/uksi/1986/939/article/1)
 
-[^key-2f469ac2978fbf6331cee67c6a4ed5c8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1986/939/schedule) substituted (30.11.1991) by [The Value Added Tax (Small Non-Commercial Consignments) Relief (Amendment) Order 1991 (S.I. 1991/2535)](https://www.legislation.gov.uk/uksi/1991/2535), [arts. 1](https://www.legislation.gov.uk/uksi/1991/2535/article/1), [2](https://www.legislation.gov.uk/uksi/1991/2535/article/2)
+[^c-2f469ac2978fbf6331cee67c6a4ed5c8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1986/939/schedule) substituted (30.11.1991) by [The Value Added Tax (Small Non-Commercial Consignments) Relief (Amendment) Order 1991 (S.I. 1991/2535)](https://www.legislation.gov.uk/uksi/1991/2535), [arts. 1](https://www.legislation.gov.uk/uksi/1991/2535/article/1), [2](https://www.legislation.gov.uk/uksi/1991/2535/article/2)

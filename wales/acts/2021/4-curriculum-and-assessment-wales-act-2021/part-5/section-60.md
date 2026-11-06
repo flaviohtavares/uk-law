@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Curriculum requirement: Relationships and Sexuality Education[^key-12750fb1c8e74b98b17ad3fde7257178]
+## 60. Curriculum requirement: Relationships and Sexuality Education[^c-12750fb1c8e74b98b17ad3fde7257178]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12750fb1c8e74b98b17ad3fde7257178]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2021/4/section/60) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)
+[^c-12750fb1c8e74b98b17ad3fde7257178]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2021/4/section/60) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)

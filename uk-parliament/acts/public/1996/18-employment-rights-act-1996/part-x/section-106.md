@@ -24,7 +24,7 @@ summary: ''
 
 (2) This section applies to an employee where—
 
-- (a) on engaging him the employer informs him in writing that his employment will be terminated on the resumption of work by another employee who is, or will be, absent wholly or partly because of pregnancy or childbirth, or on adoption leave[^c20260971] or[^c20281111] shared parental leave[^key-3f94bc1eeb83b470fb7a0ab19073a5fc] and
+- (a) on engaging him the employer informs him in writing that his employment will be terminated on the resumption of work by another employee who is, or will be, absent wholly or partly because of pregnancy or childbirth, or on adoption leave[^c20260971] or[^c20281111] shared parental leave[^c-3f94bc1eeb83b470fb7a0ab19073a5fc] and
 - (b) the employer dismisses him in order to make it possible to give work to the other employee.
 
 (3) This section also applies to an employee where—
@@ -40,4 +40,4 @@ summary: ''
 
 [^c20281111]: Textual amendment: Words in s. 106(2)(a) inserted (6.4.2010) by [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [ss. 11](https://www.legislation.gov.uk/ukpga/2006/18/section/11), [19](https://www.legislation.gov.uk/ukpga/2006/18/section/19), [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/42); [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-3f94bc1eeb83b470fb7a0ab19073a5fc]: Textual amendment: Words in s. 106(2)(a) substituted (1.12.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 40](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/40); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(n)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/n) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/1640/article/12))
+[^c-3f94bc1eeb83b470fb7a0ab19073a5fc]: Textual amendment: Words in s. 106(2)(a) substituted (1.12.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 40](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/40); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(n)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/n) (with [art. 12](https://www.legislation.gov.uk/uksi/2014/1640/article/12))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Video-recorded evidence in chief: supplementary testimony[^key-3771a06a11074239c83dca0168ae1e9e]
+## 11. Video-recorded evidence in chief: supplementary testimony[^c-3771a06a11074239c83dca0168ae1e9e]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3771a06a11074239c83dca0168ae1e9e]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/24/section/11) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)
+[^c-3771a06a11074239c83dca0168ae1e9e]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/24/section/11) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)

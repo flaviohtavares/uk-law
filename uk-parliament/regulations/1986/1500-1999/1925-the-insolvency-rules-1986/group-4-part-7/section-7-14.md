@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.14. Procedure following order for transfer[^key-2a530bd49eacb87e1c71f2730106a2bf]
+## 7.14. Procedure following order for transfer[^c-2a530bd49eacb87e1c71f2730106a2bf]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a530bd49eacb87e1c71f2730106a2bf]: Commencement: [Rule 7.14](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.14) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2a530bd49eacb87e1c71f2730106a2bf]: Commencement: [Rule 7.14](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.14) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

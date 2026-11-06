@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Interpretation[^key-25c4c1efc422d53b20f74b751642ec0b]
+## 52. Interpretation[^c-25c4c1efc422d53b20f74b751642ec0b]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ In this Part, “the 1996 Act” means the Housing Grants, Construction and Rege
 
 ## Annotations
 
-[^key-25c4c1efc422d53b20f74b751642ec0b]: Commencement: Reg. 52 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-25c4c1efc422d53b20f74b751642ec0b]: Commencement: Reg. 52 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00044]: Footnote: [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53).

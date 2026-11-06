@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This paragraph applies where NHS England[^key-fedf3951d93bcf656ad03378f887d7d5]—
+(1) This paragraph applies where NHS England[^c-fedf3951d93bcf656ad03378f887d7d5]—
 
 - (a) is required to review a contingent removal or a suspension under section 157(1) of the 2006 Act (review of decisions); or
 - (b) decides to review a contingent removal or a suspension that it could be required to review under that section (if section 157(2) were satisfied).
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21647041]: Marginal citation: [Section 158](https://www.legislation.gov.uk/uksi/2013/349/section/158) has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [Schedule 4](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4), [paragraph 84](https://www.legislation.gov.uk/ukpga/2012/7/paragraph/84), and by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 

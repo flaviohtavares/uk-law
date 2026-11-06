@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Joint planning boards: power to make consequential and supplementary provision[^c22542981][^key-32941d1c712c74edf3196ae69d5649b9]
+## 42. Joint planning boards: power to make consequential and supplementary provision[^c22542981][^c-32941d1c712c74edf3196ae69d5649b9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c22542981]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2015/4/section/42) partly in force; [s. 42](https://www.legislation.gov.uk/anaw/2015/4/section/42) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-32941d1c712c74edf3196ae69d5649b9]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2015/4/section/42) in force at 16.3.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 4(d)](https://www.legislation.gov.uk/wsi/2015/1987/article/4/d)
+[^c-32941d1c712c74edf3196ae69d5649b9]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2015/4/section/42) in force at 16.3.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 4(d)](https://www.legislation.gov.uk/wsi/2015/1987/article/4/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Consular change procedure[^key-a3d5ab5ec01d78ee1368f2fad54a9ecb]
+## 20. Consular change procedure[^c-a3d5ab5ec01d78ee1368f2fad54a9ecb]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3d5ab5ec01d78ee1368f2fad54a9ecb]: Commencement: Art. 20 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-a3d5ab5ec01d78ee1368f2fad54a9ecb]: Commencement: Art. 20 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

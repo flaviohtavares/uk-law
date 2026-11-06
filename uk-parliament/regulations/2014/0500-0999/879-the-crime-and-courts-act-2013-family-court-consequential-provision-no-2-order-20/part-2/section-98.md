@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**98.**[^key-896dbd2e2ef77f2fdd504aa966086152] In rule 37—
+**98.**[^c-896dbd2e2ef77f2fdd504aa966086152] In rule 37—
 
 - (a) in paragraph (1), for “a family proceedings court or a youth court” substitute “a youth court or as a judge of the family court”;
 - (b) in paragraphs (2) and (3), for “member of a family proceedings court” substitute “judge of the family court”; and
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-896dbd2e2ef77f2fdd504aa966086152]: Commencement: Art. 98 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-896dbd2e2ef77f2fdd504aa966086152]: Commencement: Art. 98 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

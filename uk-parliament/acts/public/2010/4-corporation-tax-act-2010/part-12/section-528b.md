@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 528B. Relaxation of section 528A condition for accounting periods 1 to 3[^key-3ef5f85d868835287b475787b6d5979f]
+## 528B. Relaxation of section 528A condition for accounting periods 1 to 3[^c-3ef5f85d868835287b475787b6d5979f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ef5f85d868835287b475787b6d5979f]: Textual amendment: Ss. 528A 528B inserted (with effect in accordance with Sch. 4 para. 21 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/16)
+[^c-3ef5f85d868835287b475787b6d5979f]: Textual amendment: Ss. 528A 528B inserted (with effect in accordance with Sch. 4 para. 21 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/16)

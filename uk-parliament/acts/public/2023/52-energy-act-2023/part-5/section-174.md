@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Transfers[^key-645fd5faf5d0be5a309949ace19d2966]
+## 174. Transfers[^c-645fd5faf5d0be5a309949ace19d2966]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Schedule 9 contains—
 
 ## Annotations
 
-[^key-645fd5faf5d0be5a309949ace19d2966]: Commencement: S. 174 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-645fd5faf5d0be5a309949ace19d2966]: Commencement: S. 174 in force at Royal Assent, see [s. 334(2)(h)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)

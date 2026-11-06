@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Section 55: continuity of law[^key-46a8e774d2d655490d01a41aeca58db4]
+## 56. Section 55: continuity of law[^c-46a8e774d2d655490d01a41aeca58db4]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ an offence.
 
 ## Annotations
 
-[^key-46a8e774d2d655490d01a41aeca58db4]: Textual amendment: S. 56 heading heading substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 3 para. 5(4)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/5/4); [S.S.I. 2021/239](https://www.legislation.gov.uk/ssi/2021/239), [reg. 2](https://www.legislation.gov.uk/ssi/2021/239/regulation/2)
+[^c-46a8e774d2d655490d01a41aeca58db4]: Textual amendment: S. 56 heading heading substituted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 3 para. 5(4)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/5/4); [S.S.I. 2021/239](https://www.legislation.gov.uk/ssi/2021/239), [reg. 2](https://www.legislation.gov.uk/ssi/2021/239/regulation/2)

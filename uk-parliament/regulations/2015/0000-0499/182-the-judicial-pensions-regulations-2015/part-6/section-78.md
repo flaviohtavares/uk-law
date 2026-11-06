@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Allocation election[^key-d60a2cad0cfc5a834da5fe6c9093d8a4]
+## 78. Allocation election[^c-d60a2cad0cfc5a834da5fe6c9093d8a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d60a2cad0cfc5a834da5fe6c9093d8a4]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2015/182/regulation/78) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-d60a2cad0cfc5a834da5fe6c9093d8a4]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2015/182/regulation/78) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

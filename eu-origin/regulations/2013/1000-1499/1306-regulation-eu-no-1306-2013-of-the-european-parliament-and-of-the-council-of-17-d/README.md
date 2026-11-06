@@ -34,7 +34,7 @@ of 17 December 2013
 
 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008
 
-[^M_C_bf8c8169-b26a-4013-e6c5-9e75a7252a36][^key-7def1d08179fe985ff30adb4d5645c67][^key-6f78c6d730bda875db5507d5ca34b7a8][^key-3a9efd708d686f825ed6a93247dfde00][^key-b8a6bc77ec7c2130a950a09f8cffa7d5][^key-c95b9d5dce5064dcc184b959d1a65309]
+[^M_C_bf8c8169-b26a-4013-e6c5-9e75a7252a36][^c-7def1d08179fe985ff30adb4d5645c67][^c-6f78c6d730bda875db5507d5ca34b7a8][^c-3a9efd708d686f825ed6a93247dfde00][^c-b8a6bc77ec7c2130a950a09f8cffa7d5][^c-c95b9d5dce5064dcc184b959d1a65309]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -531,11 +531,11 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 14 — Access to the farm advisory system](section-article-14.md)
 - [Section Article 15 — Powers](section-article-15.md)
 
-### TITLE IV — FINANCIAL MANAGEMENT ...[^key-2037decab2b5c96bd4ad449d93fc2e1b]
+### TITLE IV — FINANCIAL MANAGEMENT ...[^c-2037decab2b5c96bd4ad449d93fc2e1b]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER I — Direct payment support CMO support[^key-2914903d213968ff860df3a3f361f41a][^key-347ada77c6df68b93accc7b7a069eea6]
+#### CHAPTER I — Direct payment support CMO support[^c-2914903d213968ff860df3a3f361f41a][^c-347ada77c6df68b93accc7b7a069eea6]
 
 *Extent: E+W+S+N.I.*
 
@@ -563,11 +563,11 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 28 — Early-warning and monitoring system](section-article-28.md)
 - [Section Article 29 — Reference exchange rates](section-article-29.md)
 
-#### CHAPTER II — Support for rural development[^key-72195770b98b100f2f228a3d7912b1f5]
+#### CHAPTER II — Support for rural development[^c-72195770b98b100f2f228a3d7912b1f5]
 
 *Extent: E+W+S+N.I.*
 
-##### Section 1 — General provisions relating to support for rural development[^key-416af211906abe4dd45426bc29929307]
+##### Section 1 — General provisions relating to support for rural development[^c-416af211906abe4dd45426bc29929307]
 
 *Extent: E+W+S+N.I.*
 
@@ -691,11 +691,11 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 89 — Other checks and penalties related to marketing rules](section-article-89.md)
 - [Section Article 90 — Checks related to designation of origin and geographical indications and protected traditional terms](section-article-90.md)
 
-### TITLE VI (Extent: E) (affected by repeal, see note) — CROSS-COMPLIANCE (Extent: E) (affected by repeal, see note)[^key-e4e47765b0f597304b0a42985cc27c26][^key-16008c6846e55803ae32449f90d0a84e][^key-16008c6846e55803ae32449f90d0a84e]
+### TITLE VI (Extent: E) (affected by repeal, see note) — CROSS-COMPLIANCE (Extent: E) (affected by repeal, see note)[^c-e4e47765b0f597304b0a42985cc27c26][^c-16008c6846e55803ae32449f90d0a84e][^c-16008c6846e55803ae32449f90d0a84e]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER I (Extent: E) (affected by repeal, see note) — Scope (Extent: E) (affected by repeal, see note)[^key-16008c6846e55803ae32449f90d0a84e][^key-16008c6846e55803ae32449f90d0a84e]
+#### CHAPTER I (Extent: E) (affected by repeal, see note) — Scope (Extent: E) (affected by repeal, see note)[^c-16008c6846e55803ae32449f90d0a84e][^c-16008c6846e55803ae32449f90d0a84e]
 
 *Extent: E+W+S+N.I.*
 
@@ -705,7 +705,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 94 — Obligations of Member States relating to good agricultural and environmental condition](section-article-94.md)
 - [Section Article 95 — Information to beneficiaries](section-article-95.md)
 
-#### CHAPTER II (Extent: E) (affected by repeal, see note) — Control system and administrative penalties in relation to cross-compliance (Extent: E) (affected by repeal, see note)[^key-16008c6846e55803ae32449f90d0a84e][^key-16008c6846e55803ae32449f90d0a84e]
+#### CHAPTER II (Extent: E) (affected by repeal, see note) — Control system and administrative penalties in relation to cross-compliance (Extent: E) (affected by repeal, see note)[^c-16008c6846e55803ae32449f90d0a84e][^c-16008c6846e55803ae32449f90d0a84e]
 
 *Extent: E+W+S+N.I.*
 
@@ -776,7 +776,7 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-e7ac0e1248c07a2d88fdbcd4c73008ce]....
+[^c-e7ac0e1248c07a2d88fdbcd4c73008ce]....
 
 *Extent: E+W+S+N.I.*
 
@@ -788,15 +788,15 @@ The Council and the European Parliament invite the Commission to monitor the tra
 
 [^M_C_bf8c8169-b26a-4013-e6c5-9e75a7252a36]: Modification: Regulation: power to modify conferred (S.) (temp.) (5.11.2020) by [Agriculture (Retained EU Law and Data) (Scotland) Act 2020 (asp 17)](https://www.legislation.gov.uk/asp/2020/17), [ss. 2-4](https://www.legislation.gov.uk/ukpga/2020/2/section/2), [26(2)](https://www.legislation.gov.uk/ukpga/2020/2/section/26/2) (with [ss. 5](https://www.legislation.gov.uk/ukpga/2020/2/section/5), [25](https://www.legislation.gov.uk/ukpga/2020/2/section/25)); [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/b)
 
-[^key-7def1d08179fe985ff30adb4d5645c67]: Modification: Regulation: power to modify conferred (W.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2020/21/schedule/5/paragraph/4) (with [s. 47](https://www.legislation.gov.uk/ukpga/2020/21/section/47))
+[^c-7def1d08179fe985ff30adb4d5645c67]: Modification: Regulation: power to modify conferred (W.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2020/21/schedule/5/paragraph/4) (with [s. 47](https://www.legislation.gov.uk/ukpga/2020/21/section/47))
 
-[^key-6f78c6d730bda875db5507d5ca34b7a8]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 14](https://www.legislation.gov.uk/ukpga/2020/21/section/14), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
+[^c-6f78c6d730bda875db5507d5ca34b7a8]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 14](https://www.legislation.gov.uk/ukpga/2020/21/section/14), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-3a9efd708d686f825ed6a93247dfde00]: Modification: Regulation: power to modify conferred (N.I.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2020/21/schedule/6/paragraph/5)
+[^c-3a9efd708d686f825ed6a93247dfde00]: Modification: Regulation: power to modify conferred (N.I.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2020/21/schedule/6/paragraph/5)
 
-[^key-b8a6bc77ec7c2130a950a09f8cffa7d5]: Modification: Regulation: power to modify conferred (W.) (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 17](https://www.legislation.gov.uk/asc/2023/4/section/17), [56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c) (with [s. 20](https://www.legislation.gov.uk/asc/2023/4/section/20))
+[^c-b8a6bc77ec7c2130a950a09f8cffa7d5]: Modification: Regulation: power to modify conferred (W.) (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 17](https://www.legislation.gov.uk/asc/2023/4/section/17), [56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c) (with [s. 20](https://www.legislation.gov.uk/asc/2023/4/section/20))
 
-[^key-c95b9d5dce5064dcc184b959d1a65309]: Modification: Regulation: power to modify conferred (S.) (temp.) (5.11.2020) by [Agriculture (Retained EU Law and Data) (Scotland) Act 2020 (asp 17)](https://www.legislation.gov.uk/asp/2020/17), [ss. 2-4](https://www.legislation.gov.uk/ukpga/2020/2/section/2), [26(2)](https://www.legislation.gov.uk/ukpga/2020/2/section/26/2) (with [ss. 5](https://www.legislation.gov.uk/ukpga/2020/2/section/5), [25](https://www.legislation.gov.uk/ukpga/2020/2/section/25)); [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/b) (as amended (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22-25](https://www.legislation.gov.uk/asp/2024/11/section/22), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-c95b9d5dce5064dcc184b959d1a65309]: Modification: Regulation: power to modify conferred (S.) (temp.) (5.11.2020) by [Agriculture (Retained EU Law and Data) (Scotland) Act 2020 (asp 17)](https://www.legislation.gov.uk/asp/2020/17), [ss. 2-4](https://www.legislation.gov.uk/ukpga/2020/2/section/2), [26(2)](https://www.legislation.gov.uk/ukpga/2020/2/section/26/2) (with [ss. 5](https://www.legislation.gov.uk/ukpga/2020/2/section/5), [25](https://www.legislation.gov.uk/ukpga/2020/2/section/25)); [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/b) (as amended (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22-25](https://www.legislation.gov.uk/asp/2024/11/section/22), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
 [^f00001]: Footnote: [OJ C 191, 29.6.2012, p. 116](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2012.191.01.0116.01.ENG).
 
@@ -856,18 +856,18 @@ The Council and the European Parliament invite the Commission to monitor the tra
 
 [^f00028]: Footnote: [OJ C 35, 9.2.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2012.035.01.0001.01.ENG).
 
-[^key-2037decab2b5c96bd4ad449d93fc2e1b]: Textual amendment: Words in Title 4 heading omitted (31.1.2020 in so far as it relates to the Common Agricultural Policy direct payment schemes) by virtue of [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/90/regulation/6/1); and words in Title 4 heading omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2037decab2b5c96bd4ad449d93fc2e1b]: Textual amendment: Words in Title 4 heading omitted (31.1.2020 in so far as it relates to the Common Agricultural Policy direct payment schemes) by virtue of [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2020/90/regulation/6/1); and words in Title 4 heading omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2914903d213968ff860df3a3f361f41a]: Textual amendment: Title 4 Ch. 1 heading substituted (31.1.2020 in so far as it relates to the Common Agricultural Policy direct payment schemes) by [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/6/2)
+[^c-2914903d213968ff860df3a3f361f41a]: Textual amendment: Title 4 Ch. 1 heading substituted (31.1.2020 in so far as it relates to the Common Agricultural Policy direct payment schemes) by [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/6/2)
 
-[^key-347ada77c6df68b93accc7b7a069eea6]: Textual amendment: Title 4 Ch. 1 heading substituted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/2) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [3(6)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/3/6/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-347ada77c6df68b93accc7b7a069eea6]: Textual amendment: Title 4 Ch. 1 heading substituted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/2) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [3(6)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/3/6/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-72195770b98b100f2f228a3d7912b1f5]: Textual amendment: Title 4 Ch. 2 heading substituted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72195770b98b100f2f228a3d7912b1f5]: Textual amendment: Title 4 Ch. 2 heading substituted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-416af211906abe4dd45426bc29929307]: Textual amendment: Title 4 Ch. 2 Section 1 heading substituted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(9)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-416af211906abe4dd45426bc29929307]: Textual amendment: Title 4 Ch. 2 Section 1 heading substituted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(9)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e4e47765b0f597304b0a42985cc27c26]: Modification: Title 6 excluded (N.I.) (19.6.2025) by [The Farming with Nature Scheme Regulations (Northern Ireland) 2025 (S.R. 2025/101)](https://www.legislation.gov.uk/nisr/2025/101), [regs. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1), [9](https://www.legislation.gov.uk/nisr/2025/101/regulation/9)
+[^c-e4e47765b0f597304b0a42985cc27c26]: Modification: Title 6 excluded (N.I.) (19.6.2025) by [The Farming with Nature Scheme Regulations (Northern Ireland) 2025 (S.R. 2025/101)](https://www.legislation.gov.uk/nisr/2025/101), [regs. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1), [9](https://www.legislation.gov.uk/nisr/2025/101/regulation/9)
 
-[^key-16008c6846e55803ae32449f90d0a84e]: Textual amendment: Title 6 revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1 Table 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-16008c6846e55803ae32449f90d0a84e]: Textual amendment: Title 6 revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1 Table 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-e7ac0e1248c07a2d88fdbcd4c73008ce]: Textual amendment: Words in Signature omitted (31.1.2020 in so far as it relates to the Common Agricultural Policy direct payment schemes) by virtue of [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2020/90/regulation/10/7); and words in Signature omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [10(6)](https://www.legislation.gov.uk/uksi/2019/763/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7ac0e1248c07a2d88fdbcd4c73008ce]: Textual amendment: Words in Signature omitted (31.1.2020 in so far as it relates to the Common Agricultural Policy direct payment schemes) by virtue of [The Financing, Management and Monitoring of Direct Payments to Farmers (Amendment) Regulations 2020 (S.I. 2020/90)](https://www.legislation.gov.uk/uksi/2020/90), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/90/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2020/90/regulation/10/7); and words in Signature omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [10(6)](https://www.legislation.gov.uk/uksi/2019/763/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

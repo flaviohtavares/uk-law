@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Repeals[^key-03e4af7fc451598a8796093ddc706a45]
+## 29. Repeals[^c-03e4af7fc451598a8796093ddc706a45]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The repeals of the enactments specified in column 1 of schedule 2 have effect to
 
 ## Annotations
 
-[^key-03e4af7fc451598a8796093ddc706a45]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2010/1/section/29) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-03e4af7fc451598a8796093ddc706a45]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2010/1/section/29) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

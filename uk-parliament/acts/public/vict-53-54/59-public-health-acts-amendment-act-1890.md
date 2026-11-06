@@ -77,7 +77,7 @@ may appeal . . . [^c596440] to the Crown Court[^c596441].
 
 ### 9. Byelaws.
 
-All the provisions with respect to byelaws contained in sections one hundred and eighty-two to one hundred and eighty-six of the [^c596444]Public Health Act 1875, and any enactment amending or extending those sections, shall apply to all byelaws from time to time made by a local authority under the powers of this Act.[^key-02d4f97d27137c1a52f27b0290a8d194]...
+All the provisions with respect to byelaws contained in sections one hundred and eighty-two to one hundred and eighty-six of the [^c596444]Public Health Act 1875, and any enactment amending or extending those sections, shall apply to all byelaws from time to time made by a local authority under the powers of this Act.[^c-02d4f97d27137c1a52f27b0290a8d194]...
 
 ### 10. Powers of Act cumulative.[^c596445]
 
@@ -105,7 +105,7 @@ All the provisions with respect to byelaws contained in sections one hundred and
 
 In the application of this Act to Ireland the following modifications shall have effect:—
 
-(1)[^key-fd75d00690a340003988e04f25220f52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fd75d00690a340003988e04f25220f52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) This Act shall be construed as one with the [^c596469]Public Health (Ireland) Act 1878.
 
@@ -145,7 +145,7 @@ In the application of this Act to Ireland the following modifications shall have
 
 ### 37. Safety of platforms, &c. erected or used on public occasions.
 
-(1)[^c596482][^c596483][^key-f9ac2961d9ba4f1fe19337e312e3337e] Whenever large numbers of persons are likely to assemble on the occasion of any show, entertainment, public procession, open-air meeting, or other like occasion, every roof of a building, and every platform, balcony, or other structure or part thereof let or used or intended to be let or used for the purpose of affording sitting or standing accommodation for a number of persons, shall be safely constructed or secured to the satisfaction of the proper officer of the authority[^c596484].
+(1)[^c596482][^c596483][^c-f9ac2961d9ba4f1fe19337e312e3337e] Whenever large numbers of persons are likely to assemble on the occasion of any show, entertainment, public procession, open-air meeting, or other like occasion, every roof of a building, and every platform, balcony, or other structure or part thereof let or used or intended to be let or used for the purpose of affording sitting or standing accommodation for a number of persons, shall be safely constructed or secured to the satisfaction of the proper officer of the authority[^c596484].
 
 (2) Any person who uses or allows to be used in contravention of this section, any roof of a building, platform, balcony, or structure not so safely constructed or secured, or who neglects to comply with the provisions of this section in respect thereof, shall be liable to a penalty not exceeding fifty pounds[^c596485] level 3 on the standard scale.
 
@@ -259,7 +259,7 @@ For the regulation of places ordinarily used for public dancing or music, or oth
 
 [^c596444]: Marginal citation: [1875 c. 55](https://www.legislation.gov.uk/ukpga/1875/55).
 
-[^key-02d4f97d27137c1a52f27b0290a8d194]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/Vict/53-54/59/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-02d4f97d27137c1a52f27b0290a8d194]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/Vict/53-54/59/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c596445]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Vict/53-54/59/section/10) repealed (E.W.) (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/X) Group1
 
@@ -271,7 +271,7 @@ For the regulation of places ordinarily used for public dancing or music, or oth
 
 [^c596462]: Textual amendment: Definitions in s. 11(3) repealed (E.W.) (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/X) Group1
 
-[^key-fd75d00690a340003988e04f25220f52]: Textual amendment: [S. 12(1)](https://www.legislation.gov.uk/ukpga/Vict/53-54/59/section/12/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-fd75d00690a340003988e04f25220f52]: Textual amendment: [S. 12(1)](https://www.legislation.gov.uk/ukpga/Vict/53-54/59/section/12/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c596469]: Marginal citation: [1878 c. 52](https://www.legislation.gov.uk/ukpga/1878/52).
 
@@ -303,7 +303,7 @@ For the regulation of places ordinarily used for public dancing or music, or oth
 
 [^c596483]: Modification: S. 37(1) excluded by [Safety of Sports Grounds Act 1975 (c. 52)](https://www.legislation.gov.uk/ukpga/1975/52), [s. 9(1)](https://www.legislation.gov.uk/ukpga/1975/52/section/9/1)
 
-[^key-f9ac2961d9ba4f1fe19337e312e3337e]: Modification: S. 37(1) excluded (N.I.) (31.12.2009) by [The Safety of Sports Grounds (Northern Ireland) Order 2006 (S.I. 2006/313)](https://www.legislation.gov.uk/nisi/2006/313), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/313/article/1/2), [art. 21(1)-(3)](https://www.legislation.gov.uk/nisi/2006/313/article/21/1) (with [art. 26](https://www.legislation.gov.uk/nisi/2006/313/article/26)); [S.R. 2009/287](https://www.legislation.gov.uk/nisr/2009/287), [art. 2(m)](https://www.legislation.gov.uk/nisr/2009/287/article/2/m)
+[^c-f9ac2961d9ba4f1fe19337e312e3337e]: Modification: S. 37(1) excluded (N.I.) (31.12.2009) by [The Safety of Sports Grounds (Northern Ireland) Order 2006 (S.I. 2006/313)](https://www.legislation.gov.uk/nisi/2006/313), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/313/article/1/2), [art. 21(1)-(3)](https://www.legislation.gov.uk/nisi/2006/313/article/21/1) (with [art. 26](https://www.legislation.gov.uk/nisi/2006/313/article/26)); [S.R. 2009/287](https://www.legislation.gov.uk/nisr/2009/287), [art. 2(m)](https://www.legislation.gov.uk/nisr/2009/287/article/2/m)
 
 [^c596484]: Textual amendment: Words substituted by virtue of [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 Pt. I para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/part/I/paragraph/4/1/a)
 

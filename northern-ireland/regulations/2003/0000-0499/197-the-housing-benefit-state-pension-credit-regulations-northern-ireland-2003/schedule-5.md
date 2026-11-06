@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## THE THIRD SCHEDULE[^key-4ffd9040ab2b8d03d8864f4a28afb74f]
+## THE THIRD SCHEDULE[^c-4ffd9040ab2b8d03d8864f4a28afb74f]
 
 *Extent: N.I.*
 
@@ -245,7 +245,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4ffd9040ab2b8d03d8864f4a28afb74f]: Commencement: Sch. 5 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-4ffd9040ab2b8d03d8864f4a28afb74f]: Commencement: Sch. 5 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00125]: Footnote: Definition was substituted by regulation 2(c) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by paragraph 1 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and regulation 2 and paragraph 1(a)(ii) of the Schedule to [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 

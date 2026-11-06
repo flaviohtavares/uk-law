@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Effect of person moving from living accommodation[^key-837cbc8c445a7bcc6eada41427a7be5a]
+## 152. Effect of person moving from living accommodation[^c-837cbc8c445a7bcc6eada41427a7be5a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ the tenancy or occupancy arrangement, if that person so chooses, is to be taken 
 
 ## Annotations
 
-[^key-837cbc8c445a7bcc6eada41427a7be5a]: Commencement: [S. 152](https://www.legislation.gov.uk/asp/2006/1/section/152) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-837cbc8c445a7bcc6eada41427a7be5a]: Commencement: [S. 152](https://www.legislation.gov.uk/asp/2006/1/section/152) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

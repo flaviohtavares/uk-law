@@ -24,8 +24,8 @@ summary: ''
 
 (2) In any enactment or instrument made under or by virtue of an enactment, a reference to a planning authority shall, unless otherwise provided, or unless the context otherwise requires, be construed as a reference to a local authority.
 
-(3)[^key-9fdfa38535e553ee1ca76bc177dac650] This section is subject to the provisions of this Act and of any other enactment.
+(3)[^c-9fdfa38535e553ee1ca76bc177dac650] This section is subject to the provisions of this Act and of any other enactment.
 
 ## Annotations
 
-[^key-9fdfa38535e553ee1ca76bc177dac650]: Textual amendment: S. 1(3) added (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(2)](https://www.legislation.gov.uk/asp/2006/17/section/54/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-9fdfa38535e553ee1ca76bc177dac650]: Textual amendment: S. 1(3) added (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(2)](https://www.legislation.gov.uk/asp/2006/17/section/54/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

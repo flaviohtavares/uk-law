@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Provisions of this Part to be cumulative.[^c15574801][^key-306ff922123b1cb06fdbe7f1cedb2e9e]
+## 229. Provisions of this Part to be cumulative.[^c15574801][^c-306ff922123b1cb06fdbe7f1cedb2e9e]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 
     ss. 225-229 applied (with modifications) (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 8(1)(2)(9)](https://www.legislation.gov.uk/uksi/1994/2421/article/8/1/2/9), [Sch. 4 Pt. I](https://www.legislation.gov.uk/uksi/1994/2421/schedule/4/part/I)
 
-[^key-306ff922123b1cb06fdbe7f1cedb2e9e]: Modification: S. 229 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-306ff922123b1cb06fdbe7f1cedb2e9e]: Modification: S. 229 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
 [^c20453291]: Textual amendment: Words in s. 229(1) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009, ([S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941)) arts. 2(1), 8, {Sch. 1 para. 76(6)(a)} (with art. 10, Sch. 1 para. 84)
 

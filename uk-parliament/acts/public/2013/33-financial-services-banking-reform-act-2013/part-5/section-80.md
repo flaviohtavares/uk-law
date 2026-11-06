@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Enforcement of requirement to dispose of interest in payment system[^key-23db7b02cf4b3f214e4e15c6a2ef33a9]
+## 80. Enforcement of requirement to dispose of interest in payment system[^c-23db7b02cf4b3f214e4e15c6a2ef33a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23db7b02cf4b3f214e4e15c6a2ef33a9]: Commencement: S. 80 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-23db7b02cf4b3f214e4e15c6a2ef33a9]: Commencement: S. 80 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

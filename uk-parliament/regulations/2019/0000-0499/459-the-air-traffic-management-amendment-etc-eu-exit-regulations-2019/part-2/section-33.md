@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Article 13 of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^key-57aaba6c61b8365102a7ee3e78117cba]
+## 33. Article 13 of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^c-57aaba6c61b8365102a7ee3e78117cba]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Article 13 (access to and protection of data), in paragraph 3—
 
 ## Annotations
 
-[^key-57aaba6c61b8365102a7ee3e78117cba]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-57aaba6c61b8365102a7ee3e78117cba]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

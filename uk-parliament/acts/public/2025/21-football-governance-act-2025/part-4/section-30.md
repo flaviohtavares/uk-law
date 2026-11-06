@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Becoming an owner or officer without a determination[^key-f9c61b54af9ec4f69a1646c425f9cba7][^key-4a03685483bcc586dd7826eb747ede7f]
+## 30. Becoming an owner or officer without a determination[^c-f9c61b54af9ec4f69a1646c425f9cba7][^c-4a03685483bcc586dd7826eb747ede7f]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9c61b54af9ec4f69a1646c425f9cba7]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-f9c61b54af9ec4f69a1646c425f9cba7]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-4a03685483bcc586dd7826eb747ede7f]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/21/section/30) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/iv)
+[^c-4a03685483bcc586dd7826eb747ede7f]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/21/section/30) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/iv)

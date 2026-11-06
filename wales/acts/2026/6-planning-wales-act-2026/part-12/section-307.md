@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 307. Meaning of “operational land”: supplementary provision[^key-f4e54d4178641de71f510a1a95e9bfa8]
+## 307. Meaning of “operational land”: supplementary provision[^c-f4e54d4178641de71f510a1a95e9bfa8]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ where the Act or instrument specifically identifies both the nature of the devel
 
 ## Annotations
 
-[^key-f4e54d4178641de71f510a1a95e9bfa8]: Commencement: S. 307 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f4e54d4178641de71f510a1a95e9bfa8]: Commencement: S. 307 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

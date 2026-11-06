@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Occupational pension scheme under a trust: power of investment and delegation[^key-804938434dc4f8896c72fb2ed5eda3c4]
+## 139. Occupational pension scheme under a trust: power of investment and delegation[^c-804938434dc4f8896c72fb2ed5eda3c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-804938434dc4f8896c72fb2ed5eda3c4]: Commencement: Art. 139 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-804938434dc4f8896c72fb2ed5eda3c4]: Commencement: Art. 139 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

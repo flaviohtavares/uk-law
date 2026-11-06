@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Liability for redress payments made in error[^key-ca7b58a33254d263a08947a8ac2a2857]
+## 74. Liability for redress payments made in error[^c-ca7b58a33254d263a08947a8ac2a2857]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca7b58a33254d263a08947a8ac2a2857]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2021/15/section/74) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-ca7b58a33254d263a08947a8ac2a2857]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2021/15/section/74) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

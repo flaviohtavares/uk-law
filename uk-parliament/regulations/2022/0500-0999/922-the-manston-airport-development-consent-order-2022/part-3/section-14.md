@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Access to works[^key-36b1386552b0f57abec570b96ae72af1]
+## 14. Access to works[^c-36b1386552b0f57abec570b96ae72af1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may, for the purposes of the authorised development, and with the
 
 ## Annotations
 
-[^key-36b1386552b0f57abec570b96ae72af1]: Commencement: Art. 14 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-36b1386552b0f57abec570b96ae72af1]: Commencement: Art. 14 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)

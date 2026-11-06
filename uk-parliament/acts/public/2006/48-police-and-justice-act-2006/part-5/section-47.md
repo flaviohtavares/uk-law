@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Evidence of vulnerable accused[^key-df01a0776f7c8d64e2174e2f41b7b9ed]
+## 47. Evidence of vulnerable accused[^c-df01a0776f7c8d64e2174e2f41b7b9ed]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ After section 33 of the Youth Justice and Criminal Evidence Act 1999 (c. 23) (in
 
 ## Annotations
 
-[^key-df01a0776f7c8d64e2174e2f41b7b9ed]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2006/48/section/47) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/h)
+[^c-df01a0776f7c8d64e2174e2f41b7b9ed]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2006/48/section/47) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/h)

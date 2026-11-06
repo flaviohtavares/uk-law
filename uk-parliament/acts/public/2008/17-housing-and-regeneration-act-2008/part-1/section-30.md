@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Community services[^key-6fb6bc61d972af6aa4237145c533b3d2]
+## 30. Community services[^c-6fb6bc61d972af6aa4237145c533b3d2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The HCA may provide such services for communities as it considers appropriate or
 
 ## Annotations
 
-[^key-6fb6bc61d972af6aa4237145c533b3d2]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2008/17/section/30) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/o) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-6fb6bc61d972af6aa4237145c533b3d2]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2008/17/section/30) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/o) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

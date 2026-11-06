@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Importation of authorised veterinary medicinal products[^key-5cb0ab9a96d847b6bfb8b1b05d2178a5]
+## 9. Importation of authorised veterinary medicinal products[^c-5cb0ab9a96d847b6bfb8b1b05d2178a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cb0ab9a96d847b6bfb8b1b05d2178a5]: Commencement: Reg. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-5cb0ab9a96d847b6bfb8b1b05d2178a5]: Commencement: Reg. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

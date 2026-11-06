@@ -46,23 +46,23 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 12(3), 17(2B), 33(2)(a) and (3) and 36(1), (2)(a), (c), (g) and (h) and (3)(e) of the Legal Aid (Scotland) Act 1986[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-fb526d3d1148acbdbed9dc90f4d2414a]
+## 1. Citation and commencement[^c-fb526d3d1148acbdbed9dc90f4d2414a]
 
 These Regulations may be cited as the Advice and Assistance and Civil Legal Aid (Transfer of Tribunal Functions) (No. 1) (Scotland) Regulations 2010 and come into force on 9th June 2010.
 
-## 2. Application[^key-af5b9cfc1721c0c7a812cad40539413d]
+## 2. Application[^c-af5b9cfc1721c0c7a812cad40539413d]
 
 The following regulations apply only in relation to proceedings in relation to which civil legal aid or assistance by way of representation was made available on or after 9th June 2010.
 
-## 3. Withholding payment in First-tier Tribunal and Upper Tribunal proceedings[^key-c329c1c6e9503766df8020d4e5ef55f1]
+## 3. Withholding payment in First-tier Tribunal and Upper Tribunal proceedings[^c-c329c1c6e9503766df8020d4e5ef55f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Civil Legal Aid (Scotland) (Fees) Regulations 1989[^key-a2f462c3411e0fe38e440e0fbebb45fc]
+## 4. Amendment of the Civil Legal Aid (Scotland) (Fees) Regulations 1989[^c-a2f462c3411e0fe38e440e0fbebb45fc]
 
 In regulations 5(3) and 10(2) of the Civil Legal Aid (Scotland) (Fees) Regulations 1989[^f00002], for “Child Support Commissioners” substitute “Upper Tribunal”.
 
-## 5. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-ad565025ebd44c13743cc6ddfd83a043]
+## 5. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^c-ad565025ebd44c13743cc6ddfd83a043]
 
 In regulation 16(2) of the Advice and Assistance (Scotland) Regulations 1996[^f00003]—
 
@@ -73,7 +73,7 @@ In regulation 16(2) of the Advice and Assistance (Scotland) Regulations 1996[^f0
 
   .
 
-## 6. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^key-9d19725d5f1444e8fbd2512bd268299e]
+## 6. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^c-9d19725d5f1444e8fbd2512bd268299e]
 
 (1) The Civil Legal Aid (Scotland) Regulations 2002[^f00005] are amended in accordance with paragraphs (2) to (6).
 
@@ -120,23 +120,23 @@ Regulation 6(4) replaces the reference to the Child Support Commissioners in reg
 
 [^f00001]: Footnote: [1986 c.47](https://www.legislation.gov.uk/ukpga/1986/47); section 12(3) was amended by the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48), Schedule 1 paragraph 12(4)(b) and by the Legal Profession and Legal Aid (Scotland) Act [2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), section 67(5); section 33(2) was amended by the Legal Profession and Legal Aid (Scotland) Act 2007, section 67(7)(b). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-fb526d3d1148acbdbed9dc90f4d2414a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
+[^c-fb526d3d1148acbdbed9dc90f4d2414a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
 
-[^key-af5b9cfc1721c0c7a812cad40539413d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/166/regulation/2) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
+[^c-af5b9cfc1721c0c7a812cad40539413d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/166/regulation/2) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
 
-[^key-c329c1c6e9503766df8020d4e5ef55f1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/166/regulation/3) revoked (31.1.2011) by [The Advice and Assistance (Scotland) Amendment Regulations 2010 (S.S.I. 2010/462)](https://www.legislation.gov.uk/ssi/2010/462), [regs. 1](https://www.legislation.gov.uk/ssi/2010/462/regulation/1), [6](https://www.legislation.gov.uk/ssi/2010/462/regulation/6) (with [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/462/regulation/2/1))
+[^c-c329c1c6e9503766df8020d4e5ef55f1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/166/regulation/3) revoked (31.1.2011) by [The Advice and Assistance (Scotland) Amendment Regulations 2010 (S.S.I. 2010/462)](https://www.legislation.gov.uk/ssi/2010/462), [regs. 1](https://www.legislation.gov.uk/ssi/2010/462/regulation/1), [6](https://www.legislation.gov.uk/ssi/2010/462/regulation/6) (with [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/462/regulation/2/1))
 
-[^key-a2f462c3411e0fe38e440e0fbebb45fc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/166/regulation/4) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
+[^c-a2f462c3411e0fe38e440e0fbebb45fc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/166/regulation/4) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1989/1490](https://www.legislation.gov.uk/uksi/1989/1490); amended by [S.I. 1990/473](https://www.legislation.gov.uk/uksi/1990/473), [1991/565](https://www.legislation.gov.uk/uksi/1991/565), [1994/1015](https://www.legislation.gov.uk/uksi/1994/1015) and [1233](https://www.legislation.gov.uk/uksi/1994/1233), [1995/1044](https://www.legislation.gov.uk/uksi/1995/1044), [1997/689](https://www.legislation.gov.uk/uksi/1997/689), [1999/1042](https://www.legislation.gov.uk/uksi/1999/1042) and [S.S.I. 2002/496](https://www.legislation.gov.uk/ssi/2002/496), [2003/178](https://www.legislation.gov.uk/ssi/2003/178), [2004/281](https://www.legislation.gov.uk/ssi/2004/281), [2005/449](https://www.legislation.gov.uk/ssi/2005/449), [2007/14](https://www.legislation.gov.uk/ssi/2007/14), [181](https://www.legislation.gov.uk/ssi/2007/181) and [438](https://www.legislation.gov.uk/ssi/2007/438) and [2009/203](https://www.legislation.gov.uk/ssi/2009/203) and [312](https://www.legislation.gov.uk/ssi/2009/312).
 
-[^key-ad565025ebd44c13743cc6ddfd83a043]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/166/regulation/5) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
+[^c-ad565025ebd44c13743cc6ddfd83a043]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/166/regulation/5) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447); amended by [S.I. 1997/726](https://www.legislation.gov.uk/uksi/1997/726), [1998/724](https://www.legislation.gov.uk/uksi/1998/724), [S.S.I. 2000/181](https://www.legislation.gov.uk/ssi/2000/181), [2002/495](https://www.legislation.gov.uk/ssi/2002/495), [2003/163](https://www.legislation.gov.uk/ssi/2003/163) and [421](https://www.legislation.gov.uk/ssi/2003/421), [2004/262](https://www.legislation.gov.uk/ssi/2004/262) and [492](https://www.legislation.gov.uk/ssi/2004/492), [2005/171](https://www.legislation.gov.uk/ssi/2005/171) and [339](https://www.legislation.gov.uk/ssi/2005/339), [2006/233](https://www.legislation.gov.uk/ssi/2006/233), [2007/60](https://www.legislation.gov.uk/ssi/2007/60), [2008/240](https://www.legislation.gov.uk/ssi/2008/240), [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879) and [S.S.I. 2009/49](https://www.legislation.gov.uk/ssi/2009/49) and [2010/57](https://www.legislation.gov.uk/ssi/2010/57).
 
 [^f00004]: Footnote: [S.S.I. 2003/179](https://www.legislation.gov.uk/ssi/2003/179); amended by [S.S.I. 2003/500](https://www.legislation.gov.uk/ssi/2003/500), [2004/307](https://www.legislation.gov.uk/ssi/2004/307), [2005/165](https://www.legislation.gov.uk/ssi/2005/165) and [482](https://www.legislation.gov.uk/ssi/2005/482), [2006/345](https://www.legislation.gov.uk/ssi/2006/345) and [615](https://www.legislation.gov.uk/ssi/2006/615) and [2008/251](https://www.legislation.gov.uk/ssi/2008/251).
 
-[^key-9d19725d5f1444e8fbd2512bd268299e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/166/regulation/6) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
+[^c-9d19725d5f1444e8fbd2512bd268299e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/166/regulation/6) in force at 9.6.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/166/regulation/1)
 
 [^f00005]: Footnote: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494); amended by the Debt Arrangement and Attachment (Scotland) Act [2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17) schedule 3, paragraph 38 and [S.S.I. 2003/49](https://www.legislation.gov.uk/ssi/2003/49) and [486](https://www.legislation.gov.uk/ssi/2003/486), [2004/491](https://www.legislation.gov.uk/ssi/2004/491), [2005/112](https://www.legislation.gov.uk/ssi/2005/112) and [448](https://www.legislation.gov.uk/ssi/2005/448), [2006/325](https://www.legislation.gov.uk/ssi/2006/325), [2007/59](https://www.legislation.gov.uk/ssi/2007/59) and [425](https://www.legislation.gov.uk/ssi/2007/425) and [2008/50](https://www.legislation.gov.uk/ssi/2008/50), [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879) and [S.S.I. 2009/49](https://www.legislation.gov.uk/ssi/2009/49), [312](https://www.legislation.gov.uk/ssi/2009/312) and [429](https://www.legislation.gov.uk/ssi/2009/429) and [2010/57](https://www.legislation.gov.uk/ssi/2010/57).
 

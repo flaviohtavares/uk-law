@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Procedure in relation to certain approvals, etc.[^key-cf4446ec7fd82ff9a4251c916aa5d5b2]
+## 27. Procedure in relation to certain approvals, etc.[^c-cf4446ec7fd82ff9a4251c916aa5d5b2]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf4446ec7fd82ff9a4251c916aa5d5b2]: Commencement: Art. 27 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-cf4446ec7fd82ff9a4251c916aa5d5b2]: Commencement: Art. 27 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

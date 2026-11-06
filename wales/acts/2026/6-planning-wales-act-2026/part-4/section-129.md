@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Service, taking effect etc. of enforcement notice[^key-83166d5038ab3ffe2549c551c27a58d1]
+## 129. Service, taking effect etc. of enforcement notice[^c-83166d5038ab3ffe2549c551c27a58d1]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83166d5038ab3ffe2549c551c27a58d1]: Commencement: S. 129 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-83166d5038ab3ffe2549c551c27a58d1]: Commencement: S. 129 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -26,8 +26,8 @@ summary: ''
 
 (3) For the purposes of the foreign residence condition, a person is taken to be not resident in the United Kingdom only if—
 
-- (a) a person makes a claim to the Commissioners for Her Majesty’s Revenue and Customs[^key-59f00b3f07e4580bd56377d1e1c262f6] that the person is not resident, and
-- (b) the Commissioners[^key-8dce5622ee2e79cb8345e5d6afacd4e3] are[^key-e08537b844ec2482297142d346131215] satisfied that the person is not resident.
+- (a) a person makes a claim to the Commissioners for Her Majesty’s Revenue and Customs[^c-59f00b3f07e4580bd56377d1e1c262f6] that the person is not resident, and
+- (b) the Commissioners[^c-8dce5622ee2e79cb8345e5d6afacd4e3] are[^c-e08537b844ec2482297142d346131215] satisfied that the person is not resident.
 
 (4) In this Chapter “**pension**” includes—
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-59f00b3f07e4580bd56377d1e1c262f6]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-59f00b3f07e4580bd56377d1e1c262f6]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-8dce5622ee2e79cb8345e5d6afacd4e3]: Textual amendment: Word in s. 647 substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(3)(h)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/3/h); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-8dce5622ee2e79cb8345e5d6afacd4e3]: Textual amendment: Word in s. 647 substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(3)(h)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/3/h); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-e08537b844ec2482297142d346131215]: Textual amendment: Word in s. 647(3)(b) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 116](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/116); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-e08537b844ec2482297142d346131215]: Textual amendment: Word in s. 647(3)(b) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 116](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/116); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Oversight and support of NHS trusts[^key-3d8086d3db26f19a6b4d3b30e0362f9e][^key-2a8f5a5e0040c20e957a8a56912c4c61]
+## 54. Oversight and support of NHS trusts[^c-3d8086d3db26f19a6b4d3b30e0362f9e][^c-2a8f5a5e0040c20e957a8a56912c4c61]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d8086d3db26f19a6b4d3b30e0362f9e]: Commencement: S. 54 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-3d8086d3db26f19a6b4d3b30e0362f9e]: Commencement: S. 54 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-2a8f5a5e0040c20e957a8a56912c4c61]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/31/section/54) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [16(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/16/a), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))
+[^c-2a8f5a5e0040c20e957a8a56912c4c61]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/31/section/54) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [16(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/16/a), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))

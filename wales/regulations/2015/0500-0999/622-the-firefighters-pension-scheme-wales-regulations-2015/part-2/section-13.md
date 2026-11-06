@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. The Firefighters’ Pension Scheme Advisory Board for Wales: guidance[^key-c1051a419570d6ad4d77af1ae1629809]
+## 13. The Firefighters’ Pension Scheme Advisory Board for Wales: guidance[^c-c1051a419570d6ad4d77af1ae1629809]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Firefighters’ Pension Scheme Advisory Board for Wales must have regard to 
 
 ## Annotations
 
-[^key-c1051a419570d6ad4d77af1ae1629809]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-c1051a419570d6ad4d77af1ae1629809]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

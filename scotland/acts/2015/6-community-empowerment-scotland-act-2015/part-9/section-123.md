@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Delegation of management of allotment sites[^key-af3977c5b7e14af913ad4ed2fa8e2c2f]
+## 123. Delegation of management of allotment sites[^c-af3977c5b7e14af913ad4ed2fa8e2c2f]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af3977c5b7e14af913ad4ed2fa8e2c2f]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2015/6/section/123) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-af3977c5b7e14af913ad4ed2fa8e2c2f]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2015/6/section/123) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

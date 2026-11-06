@@ -40,7 +40,7 @@ the candidate shall be deemed to have appointed himself as from the time of deat
 
 *Extent: W*
 
-(4A)[^key-6426119ed243ff22a2ab33875d9e6260] In relation to a candidate who is deemed by virtue of this section to be their own election agent at an election of councillors to a county or county borough in Wales, subsection (4) does not apply and the candidate’s office is instead deemed to be—
+(4A)[^c-6426119ed243ff22a2ab33875d9e6260] In relation to a candidate who is deemed by virtue of this section to be their own election agent at an election of councillors to a county or county borough in Wales, subsection (4) does not apply and the candidate’s office is instead deemed to be—
 
 - (a) in a case where the candidate’s home address given under rule 9(2)(b) of Schedule 1 or 2 to the Local Elections (Principal Areas) (Wales) Rules 2021 is in England or Wales, at that address, and
 - (b) otherwise, at the candidate’s qualifying address as stated under rule 9(2)(c) of Schedule 1 or 2 to those Rules or, where more than one qualifying address is stated, at the first of those addresses.
@@ -56,7 +56,7 @@ the candidate shall be deemed to have appointed himself as from the time of deat
 
 *Extent: W*
 
-(8)[^key-d7fe659e419e41f69f33a6aad7db65d7] In relation to a candidate who is deemed by virtue of this section to be their own election agent at an election of councillors to a county or county borough in Wales, subsection (6) does not apply and instead sections 67 and 69 apply with the following modifications.
+(8)[^c-d7fe659e419e41f69f33a6aad7db65d7] In relation to a candidate who is deemed by virtue of this section to be their own election agent at an election of councillors to a county or county borough in Wales, subsection (6) does not apply and instead sections 67 and 69 apply with the following modifications.
 
 (9 (Extent: W)) Section 67 applies as if the name and address of the candidate had been declared in writing to the appropriate officer under subsection (1) of that section. *(Extent: W)*
 
@@ -81,8 +81,8 @@ the candidate shall be deemed to have appointed himself as from the time of deat
 
 [^c20195981]: Textual amendment: Words in s. 70(4)(a) inserted (4.9.2009) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 39](https://www.legislation.gov.uk/ukpga/2009/12/section/39), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/5/2); [S.I. 2009/2395](https://www.legislation.gov.uk/uksi/2009/2395), [art. 2](https://www.legislation.gov.uk/uksi/2009/2395/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/2395/article/3))
 
-[^key-6426119ed243ff22a2ab33875d9e6260]: Textual amendment: S. 70(4A) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/uksi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/263/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2022/263/regulation/6/5) (with [reg. 12(c)](https://www.legislation.gov.uk/uksi/2022/263/regulation/12/c))
+[^c-6426119ed243ff22a2ab33875d9e6260]: Textual amendment: S. 70(4A) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/uksi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/263/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2022/263/regulation/6/5) (with [reg. 12(c)](https://www.legislation.gov.uk/uksi/2022/263/regulation/12/c))
 
 [^c20196001]: Textual amendment: S. 70(7) inserted (4.9.2009) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 39](https://www.legislation.gov.uk/ukpga/2009/12/section/39), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2009/12/schedule/6/paragraph/5/3); [S.I. 2009/2395](https://www.legislation.gov.uk/uksi/2009/2395), [art. 2](https://www.legislation.gov.uk/uksi/2009/2395/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/2395/article/3))
 
-[^key-d7fe659e419e41f69f33a6aad7db65d7]: Textual amendment: S. 70(8)-(10) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/uksi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/263/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2022/263/regulation/6/6) (with [reg. 12(c)](https://www.legislation.gov.uk/uksi/2022/263/regulation/12/c))
+[^c-d7fe659e419e41f69f33a6aad7db65d7]: Textual amendment: S. 70(8)-(10) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/uksi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/263/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2022/263/regulation/6/6) (with [reg. 12(c)](https://www.legislation.gov.uk/uksi/2022/263/regulation/12/c))

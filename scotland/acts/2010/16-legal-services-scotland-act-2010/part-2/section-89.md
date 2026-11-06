@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Effect of professional or other rules[^key-894d442e428b45b31a4004ce85a8e6b4]
+## 89. Effect of professional or other rules[^c-894d442e428b45b31a4004ce85a8e6b4]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-894d442e428b45b31a4004ce85a8e6b4]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2010/16/section/89) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-894d442e428b45b31a4004ce85a8e6b4]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2010/16/section/89) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

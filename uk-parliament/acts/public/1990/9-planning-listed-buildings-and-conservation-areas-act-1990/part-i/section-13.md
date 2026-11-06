@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Duty to notify Secretary of State of applications.[^key-9d2c3b6381eae3587ab3e28acde11738][^key-431ea34b552977fb856157fa9618c792][^c12915411]
+## 13. Duty to notify Secretary of State of applications.[^c-9d2c3b6381eae3587ab3e28acde11738][^c-431ea34b552977fb856157fa9618c792][^c12915411]
 
 *Extent: E+W*
 
@@ -34,9 +34,9 @@ summary: ''
 
 ## Annotations
 
-[^key-9d2c3b6381eae3587ab3e28acde11738]: Modification: S. 13 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
+[^c-9d2c3b6381eae3587ab3e28acde11738]: Modification: S. 13 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
 
-[^key-431ea34b552977fb856157fa9618c792]: Modification: Ss. 7-29 applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-431ea34b552977fb856157fa9618c792]: Modification: Ss. 7-29 applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
 [^c12915411]: Modification: S. 13 modified by [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), [reg. 13(1)](https://www.legislation.gov.uk/uksi/1990/1519/regulation/13/1); excluded by [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), [reg. 12](https://www.legislation.gov.uk/uksi/1990/1519/regulation/12), [Sch. 3](https://www.legislation.gov.uk/uksi/1990/1519/schedule/3)
 

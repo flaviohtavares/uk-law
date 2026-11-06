@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 539. Industrial buildings[^key-a06754f3ea7dbc07fb703253fdf44899]
+## 539. Industrial buildings[^c-a06754f3ea7dbc07fb703253fdf44899]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a06754f3ea7dbc07fb703253fdf44899]: Textual amendment: S. 539 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/9)
+[^c-a06754f3ea7dbc07fb703253fdf44899]: Textual amendment: S. 539 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/9)

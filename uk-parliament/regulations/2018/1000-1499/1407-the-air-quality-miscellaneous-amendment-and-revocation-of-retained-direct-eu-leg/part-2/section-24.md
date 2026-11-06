@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Decision 2018/1522 laying down a common format for national air pollution control programmes under Directive (EU) 2016/2284 of the European Parliament and of the Council on the reduction of national emissions of certain atmospheric pollutants[^key-16c3f3bb797b17a486b1191fa1827d54]
+## 24. Decision 2018/1522 laying down a common format for national air pollution control programmes under Directive (EU) 2016/2284 of the European Parliament and of the Council on the reduction of national emissions of certain atmospheric pollutants[^c-16c3f3bb797b17a486b1191fa1827d54]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ Decision 2018/1522 laying down a common format for national air pollution contro
 
 ## Annotations
 
-[^key-16c3f3bb797b17a486b1191fa1827d54]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-16c3f3bb797b17a486b1191fa1827d54]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23497611]: Marginal citation: [S.I. 2018/129](https://www.legislation.gov.uk/uksi/2018/129).

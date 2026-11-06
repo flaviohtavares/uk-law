@@ -51,13 +51,13 @@ Any person interested may take proceedings to interpel the creditor from enterin
 
 ## 5. Power to eject proprietor in personal occupation.[^c6434121]
 
-(1)[^key-e2dff283d3016d7545b38662348aee88] Where a creditor desires to enter into possession of the lands disponed in security, and the proprietor thereof is in personal occupation of the same, or any part thereof, such proprietor shall be deemed to be an occupant without a title, and the creditor may take proceedings to eject him in all respects in the same way as if he were such occupant: Provided that this section shall not apply in any case unless such proprietor has made default in the punctual payment of the interest due under the security, or in due payment of the principal after formal requisition.
+(1)[^c-e2dff283d3016d7545b38662348aee88] Where a creditor desires to enter into possession of the lands disponed in security, and the proprietor thereof is in personal occupation of the same, or any part thereof, such proprietor shall be deemed to be an occupant without a title, and the creditor may take proceedings to eject him in all respects in the same way as if he were such occupant: Provided that this section shall not apply in any case unless such proprietor has made default in the punctual payment of the interest due under the security, or in due payment of the principal after formal requisition.
 
-(2)[^key-6d2b99f44f0c0dfb9c95c7f062f49719] Proceedings under subsection (1) by a creditor in a security over land or a real right in land used to any extent for residential purposes are to be brought by summary application (regardless of whether they include a crave for any other remedy).
+(2)[^c-6d2b99f44f0c0dfb9c95c7f062f49719] Proceedings under subsection (1) by a creditor in a security over land or a real right in land used to any extent for residential purposes are to be brought by summary application (regardless of whether they include a crave for any other remedy).
 
 (3) Before making an application under subsection (1) in a case referred to in subsection (2), the creditor must comply with the pre-action requirements imposed by section 5B.
 
-## 5A. Court powers on section 5 proceedings relating to residential property[^key-58445ab2a37bea29ae5c8dbf0a43c007]
+## 5A. Court powers on section 5 proceedings relating to residential property[^c-58445ab2a37bea29ae5c8dbf0a43c007]
 
 (1) This section applies to an application under section 5(1) by a creditor in a security over land or a real right in land used to any extent for residential purposes.
 
@@ -96,9 +96,9 @@ Any person interested may take proceedings to interpel the creditor from enterin
 
 by virtue of any other enactment or rule of law.
 
-(9)[^key-cac933882dcd9130d1ba166d383a4d5f] For the avoidance of doubt, a decree granted on an application to which this section applies is not an order for possession of a house let on an assured tenancy (within the meaning of Part II of the Housing (Scotland) Act 1988 (c.43)).
+(9)[^c-cac933882dcd9130d1ba166d383a4d5f] For the avoidance of doubt, a decree granted on an application to which this section applies is not an order for possession of a house let on an assured tenancy (within the meaning of Part II of the Housing (Scotland) Act 1988 (c.43)).
 
-## 5B. Section 5 proceedings relating to residential property: pre-action requirements[^key-03a496036a7c644d5e205085f282fa97]
+## 5B. Section 5 proceedings relating to residential property: pre-action requirements[^c-03a496036a7c644d5e205085f282fa97]
 
 (1) The pre-action requirements referred to in section 5(3) are set out in subsections (2) to (6) below.
 
@@ -129,7 +129,7 @@ by virtue of any other enactment or rule of law.
 
 (9) A statutory instrument containing an order under subsection (8) above is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 5C. Application to court by entitled residents[^key-48883bcb55288c13d606b1828358887e]
+## 5C. Application to court by entitled residents[^c-48883bcb55288c13d606b1828358887e]
 
 (1) An entitled resident may, in proceedings on an application to which section 5A applies, apply to the court to continue the proceedings or make any other order that the court thinks fit, despite not being called as a defender in the application.
 
@@ -164,7 +164,7 @@ under any other enactment or rule of law.
 - “ **non-entitled civil partner** ” has the same meaning as “ **non-entitled partner** ” in section 101(1) of the Civil Partnership Act 2004,
 - “ **non-entitled spouse** ” has the meaning given by section 1 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.
 
-## 5E. Recall of decree[^key-0326b32b8d56fc4c3d929df2b0675b32]
+## 5E. Recall of decree[^c-0326b32b8d56fc4c3d929df2b0675b32]
 
 (1) A person mentioned in subsection (2) may apply to the court for recall of a decree granted on an application to which section 5A applies.
 
@@ -184,7 +184,7 @@ under any other enactment or rule of law.
 - (b) the debtor (unless the applicant is the debtor),
 - (c) every entitled resident (or, if the applicant is an entitled resident, every other entitled resident).
 
-## 5F. Lay representation in section 5 proceedings relating to residential property etc.[^key-479ebbf3414ab2f39603f901c2283059]
+## 5F. Lay representation in section 5 proceedings relating to residential property etc.[^c-479ebbf3414ab2f39603f901c2283059]
 
 (1) In proceedings on an application to which section 5A applies and proceedings under section 5E(1), the debtor and any entitled resident may be represented by an approved lay representative except in prescribed circumstances.
 
@@ -209,21 +209,21 @@ under any other enactment or rule of law.
 
 ## 6. Power to lease security subjects for seven years or under.[^c6434131]
 
-Any creditor in possession of lands by virtue of an adjudication[^key-f3b8b981e8e6b16b08c2f6a575bb430c] may let such lands held in security, or part thereof, on lease, for a period not exceeding seven years in duration.
+Any creditor in possession of lands by virtue of an adjudication[^c-f3b8b981e8e6b16b08c2f6a575bb430c] may let such lands held in security, or part thereof, on lease, for a period not exceeding seven years in duration.
 
 ## 7. Sheriff may grant power to lease security subjects for longer periods, not more than 21 years for heritable property in general, and 31 years for minerals.[^c6434161]
 
-Any creditor in possession of lands by virtue of an adjudication[^key-5008ba404813025f31ea984063600369] may apply to the sheriff for warrant to let the lands [^key-900d848850ad111ac0e35d92683be40b]... or part thereof, for a period exceeding seven years, setting forth the name of the proposed tenant or tenants, the duration and conditions of the proposed lease; and the sheriff may, after service on the proprietor and on the other heritable creditors, if any, and after such intimation and inquiry as he may think proper, and if satisfied that a lease for a longer period than seven years is expedient for the beneficial occupation of the lands, approve of the proposed lease on the terms and conditions proposed, or on such other terms and conditions as may appear to him expedient: Provided always, that such lease shall in no case exceed twenty-one years for heritable property in general and thirty-one years for minerals.
+Any creditor in possession of lands by virtue of an adjudication[^c-5008ba404813025f31ea984063600369] may apply to the sheriff for warrant to let the lands [^c-900d848850ad111ac0e35d92683be40b]... or part thereof, for a period exceeding seven years, setting forth the name of the proposed tenant or tenants, the duration and conditions of the proposed lease; and the sheriff may, after service on the proprietor and on the other heritable creditors, if any, and after such intimation and inquiry as he may think proper, and if satisfied that a lease for a longer period than seven years is expedient for the beneficial occupation of the lands, approve of the proposed lease on the terms and conditions proposed, or on such other terms and conditions as may appear to him expedient: Provided always, that such lease shall in no case exceed twenty-one years for heritable property in general and thirty-one years for minerals.
 
-## 8. Provisions for security holders becoming proprietors of security subjects.[^key-fbfcb27ce1a1db468cbb1f019872c898]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Completion of title of security holders. Personal obligation of debtor to remain so far as not extinguished by price.[^key-fbfcb27ce1a1db468cbb1f019872c898]
+## 8. Provisions for security holders becoming proprietors of security subjects.[^c-fbfcb27ce1a1db468cbb1f019872c898]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Purchaser’s title indefeasible.[^key-fbfcb27ce1a1db468cbb1f019872c898]
+## 9. Completion of title of security holders. Personal obligation of debtor to remain so far as not extinguished by price.[^c-fbfcb27ce1a1db468cbb1f019872c898]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Purchaser’s title indefeasible.[^c-fbfcb27ce1a1db468cbb1f019872c898]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -233,7 +233,7 @@ Any creditor holding a security ranking pari passu with another security who des
 
 ## 12. Provisions anent procedure.
 
-The following provisions shall have effect with regard to applications under sections seven [^key-a0b079606ced8a0e20b94873415f4982]... and eleven of this Act:—
+The following provisions shall have effect with regard to applications under sections seven [^c-a0b079606ced8a0e20b94873415f4982]... and eleven of this Act:—
 
 (1) The interlocutor of the sheriff who pronounces any order or decree shall be final, and not subject to review, except (1) as to questions of title and (2) where the principal sum due under the heritable security exceeds one thousand pounds.
 
@@ -241,7 +241,7 @@ The following provisions shall have effect with regard to applications under sec
 
 ## 13. Provisions of Act to have effect notwithstanding incapacity of debtor. Trustees and others to have powers conferred by Act.
 
-The rights and powers under a heritable security[^key-1372b8d9f47c43841787b6e3b447479e] may be exercised by any creditor, although the debtor or any other creditor holding a security over the same lands, or other person to whom intimation may require or be ordered to be given is subject to any legal disability by reason of nonage or otherwise[^c6434531], and any action or proceeding by a creditor in exercise of those rights and powers shall have the same force and effect as it would have had if the debtor, proprietor, other creditor, or other person had been of full age and not subject to any legal incapacity when such action or proceeding was taken; and—[^c6434541]
+The rights and powers under a heritable security[^c-1372b8d9f47c43841787b6e3b447479e] may be exercised by any creditor, although the debtor or any other creditor holding a security over the same lands, or other person to whom intimation may require or be ordered to be given is subject to any legal disability by reason of nonage or otherwise[^c6434531], and any action or proceeding by a creditor in exercise of those rights and powers shall have the same force and effect as it would have had if the debtor, proprietor, other creditor, or other person had been of full age and not subject to any legal incapacity when such action or proceeding was taken; and—[^c6434541]
 
 - (a) any person entitled, within the meaning of Part I of the Children (Scotland) Act 1995, to act as the legal representative of a child; and
 - (b) trustees
@@ -249,19 +249,19 @@ The rights and powers under a heritable security[^key-1372b8d9f47c43841787b6e3b4
 
 executors, [^c6434561]. . ., guardians[^c6434571] judicial factors, and other officers of court may exercise all or any of the powers conferred by this Act.
 
-## 14. Security holders under Registration of Leases Act to have same powers as security holders.[^key-d4d7d2a7166c4a6922cf98111258c879]
+## 14. Security holders under Registration of Leases Act to have same powers as security holders.[^c-d4d7d2a7166c4a6922cf98111258c879]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Sheriff to have jurisdiction whatever value of lands.[^key-d4d7d2a7166c4a6922cf98111258c879]
+## 15. Sheriff to have jurisdiction whatever value of lands.[^c-d4d7d2a7166c4a6922cf98111258c879]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Provisions as to notice where debtor has died and heir cannot be ascertained.[^key-d4d7d2a7166c4a6922cf98111258c879]
+## 16. Provisions as to notice where debtor has died and heir cannot be ascertained.[^c-d4d7d2a7166c4a6922cf98111258c879]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Rights under existing law reserved.[^key-d4d7d2a7166c4a6922cf98111258c879]
+## 17. Rights under existing law reserved.[^c-d4d7d2a7166c4a6922cf98111258c879]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -309,7 +309,7 @@ Decree having been obtained of this date \[*specify place and date*\] in the abo
 
 \[*To be signed by the pursuer or his law agent, or messenger at arms, or sheriff officer.*\]
 
-## SCHEDULE (D)[^key-2b4d2397d3da346c06aa11b2620c6c65]
+## SCHEDULE (D)[^c-2b4d2397d3da346c06aa11b2620c6c65]
 
 Section 8.
 
@@ -333,41 +333,41 @@ Section 8.
 
     S. 5 modified (3.12.2001) by [2001 asp 11](https://www.legislation.gov.uk/asp/2001/11), [s. 4(4)-(6)](https://www.legislation.gov.uk/asp/2001/11/section/4/4), [Sch.](https://www.legislation.gov.uk/asp/2001/11/schedule) (with [s. 5](https://www.legislation.gov.uk/asp/2001/11/section/5)); [S.S.I. 2001/418](https://www.legislation.gov.uk/ssi/2001/418), [art. 2](https://www.legislation.gov.uk/ssi/2001/418/article/2)
 
-[^key-e2dff283d3016d7545b38662348aee88]: Textual amendment: S. 5(1): s. 5 renumbered as s. 5(1) (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 3(1)(a)](https://www.legislation.gov.uk/asp/2010/6/section/3/1/a), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 6)
+[^c-e2dff283d3016d7545b38662348aee88]: Textual amendment: S. 5(1): s. 5 renumbered as s. 5(1) (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 3(1)(a)](https://www.legislation.gov.uk/asp/2010/6/section/3/1/a), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 6)
 
-[^key-6d2b99f44f0c0dfb9c95c7f062f49719]: Textual amendment: S. 5(2)(3) inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 3(1)(b)](https://www.legislation.gov.uk/asp/2010/6/section/3/1/b), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 6)
+[^c-6d2b99f44f0c0dfb9c95c7f062f49719]: Textual amendment: S. 5(2)(3) inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 3(1)(b)](https://www.legislation.gov.uk/asp/2010/6/section/3/1/b), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 6)
 
-[^key-58445ab2a37bea29ae5c8dbf0a43c007]: Textual amendment: S. 5A inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 3(2)](https://www.legislation.gov.uk/asp/2010/6/section/3/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 6)
+[^c-58445ab2a37bea29ae5c8dbf0a43c007]: Textual amendment: S. 5A inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 3(2)](https://www.legislation.gov.uk/asp/2010/6/section/3/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), arts. 4, 6)
 
-[^key-cac933882dcd9130d1ba166d383a4d5f]: Textual amendment: [S. 5A(9)](https://www.legislation.gov.uk/ukpga/Vict/57-58/44/section/5A/9) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 152(1)](https://www.legislation.gov.uk/asp/2010/17/section/152/1), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-cac933882dcd9130d1ba166d383a4d5f]: Textual amendment: [S. 5A(9)](https://www.legislation.gov.uk/ukpga/Vict/57-58/44/section/5A/9) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 152(1)](https://www.legislation.gov.uk/asp/2010/17/section/152/1), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-03a496036a7c644d5e205085f282fa97]: Textual amendment: S. 5B inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 4(2)](https://www.legislation.gov.uk/asp/2010/6/section/4/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), art. 4)
+[^c-03a496036a7c644d5e205085f282fa97]: Textual amendment: S. 5B inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 4(2)](https://www.legislation.gov.uk/asp/2010/6/section/4/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), art. 4)
 
 [^M_C_03242801-fc4d-40aa-b237-42bffebf2d22]: Modification: S. 5B(2)(b) modified (30.9.2010) by The Applications by Creditors (Pre-Action Requirements) (Scotland) Order 2010, [S.S.I. 2010/317](https://www.legislation.gov.uk/ssi/2010/317), [art. 2](https://www.legislation.gov.uk/ssi/2010/317/article/2)
 
-[^key-48883bcb55288c13d606b1828358887e]: Textual amendment: Ss. 5C, 5D inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 5(2)](https://www.legislation.gov.uk/asp/2010/6/section/5/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), art. 4)
+[^c-48883bcb55288c13d606b1828358887e]: Textual amendment: Ss. 5C, 5D inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 5(2)](https://www.legislation.gov.uk/asp/2010/6/section/5/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), art. 4)
 
-[^key-0326b32b8d56fc4c3d929df2b0675b32]: Textual amendment: S. 5E inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 6(2)](https://www.legislation.gov.uk/asp/2010/6/section/6/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), art. 4)
+[^c-0326b32b8d56fc4c3d929df2b0675b32]: Textual amendment: S. 5E inserted (30.9.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 6(2)](https://www.legislation.gov.uk/asp/2010/6/section/6/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), art. 4)
 
-[^key-479ebbf3414ab2f39603f901c2283059]: Textual amendment: [S. 5F](https://www.legislation.gov.uk/ukpga/Vict/57-58/44/section/5F) inserted (3.10.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 7(2)](https://www.legislation.gov.uk/asp/2010/6/section/7/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 4](https://www.legislation.gov.uk/ssi/2010/314/article/4) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), art. 4)
+[^c-479ebbf3414ab2f39603f901c2283059]: Textual amendment: [S. 5F](https://www.legislation.gov.uk/ukpga/Vict/57-58/44/section/5F) inserted (3.10.2010) by [Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6)](https://www.legislation.gov.uk/asp/2010/6), [ss. 7(2)](https://www.legislation.gov.uk/asp/2010/6/section/7/2), [17(3)](https://www.legislation.gov.uk/asp/2010/6/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2010/6/section/14)); [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 4](https://www.legislation.gov.uk/ssi/2010/314/article/4) (with transitional provisions and savings in [S.S.I. 2010/316](https://www.legislation.gov.uk/ssi/2010/316), art. 4)
 
 [^c6434131]: Modification: S. 6 excluded by [Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35)](https://www.legislation.gov.uk/ukpga/1970/35), [s. 32](https://www.legislation.gov.uk/ukpga/1970/35/section/32), [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/1970/35/schedule/8/paragraph/18)
 
-[^key-f3b8b981e8e6b16b08c2f6a575bb430c]: Textual amendment: Words in s. 6 substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-f3b8b981e8e6b16b08c2f6a575bb430c]: Textual amendment: Words in s. 6 substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c6434161]: Modification: S. 7 excluded by Conveyancing and Feudal Reform (Scotland) Act 1970 (C. 35), s. 32, Sch. 8 para. 19
 
-[^key-5008ba404813025f31ea984063600369]: Textual amendment: Words in s. 7 substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(3)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/3/a) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-5008ba404813025f31ea984063600369]: Textual amendment: Words in s. 7 substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(3)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/3/a) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-900d848850ad111ac0e35d92683be40b]: Textual amendment: Words in s. 7 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(3)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/3/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-900d848850ad111ac0e35d92683be40b]: Textual amendment: Words in s. 7 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(3)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/3/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-fbfcb27ce1a1db468cbb1f019872c898]: Textual amendment: Ss. 8-10 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(4)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/4), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-fbfcb27ce1a1db468cbb1f019872c898]: Textual amendment: Ss. 8-10 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(4)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/4), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c6434391]: Modification: S. 11 explained by [Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35)](https://www.legislation.gov.uk/ukpga/1970/35), [s. 29(1)](https://www.legislation.gov.uk/ukpga/1970/35/section/29/1)
 
-[^key-a0b079606ced8a0e20b94873415f4982]: Textual amendment: [Word in s. 12](https://www.legislation.gov.uk/ukpga/Vict/57-58/44/section/12) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(5)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/5), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-a0b079606ced8a0e20b94873415f4982]: Textual amendment: [Word in s. 12](https://www.legislation.gov.uk/ukpga/Vict/57-58/44/section/12) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(5)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/5), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-1372b8d9f47c43841787b6e3b447479e]: Textual amendment: Words in s. 13 substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(6)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/6) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-1372b8d9f47c43841787b6e3b447479e]: Textual amendment: Words in s. 13 substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(6)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/6) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c6434531]: Textual amendment: Words in s. 13 substituted (25.9.1991) by [Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1991/50), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/1991/50/section/10/1), [11(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/11/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/23) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3))
 
@@ -379,6 +379,6 @@ Section 8.
 
 [^c6434571]: Textual amendment: Word in s. 13 inserted (25.9.1991) by [Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8)](https://www.legislation.gov.uk/ukpga/1991/50), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/1991/50/section/10/1), [11(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/11/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/23) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3))
 
-[^key-d4d7d2a7166c4a6922cf98111258c879]: Textual amendment: Ss. 14-17 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(7)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/7), Sch. [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-d4d7d2a7166c4a6922cf98111258c879]: Textual amendment: Ss. 14-17 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(7)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/7), Sch. [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-2b4d2397d3da346c06aa11b2620c6c65]: Textual amendment: Sch. D repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(8)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/8), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-2b4d2397d3da346c06aa11b2620c6c65]: Textual amendment: Sch. D repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 13(8)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/13/8), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)

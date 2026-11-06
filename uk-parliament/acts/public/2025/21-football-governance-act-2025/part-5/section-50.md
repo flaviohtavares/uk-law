@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Duty to notify of changes in circumstances relevant to the IFR’s functions[^key-52099964c7f587ac3325cfdd025d8f2b][^key-6fd59fa171eabdd1eda9cc0febb0a481]
+## 50. Duty to notify of changes in circumstances relevant to the IFR’s functions[^c-52099964c7f587ac3325cfdd025d8f2b][^c-6fd59fa171eabdd1eda9cc0febb0a481]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52099964c7f587ac3325cfdd025d8f2b]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-52099964c7f587ac3325cfdd025d8f2b]: Commencement: S. 50 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-6fd59fa171eabdd1eda9cc0febb0a481]: Commencement: S. 50 in force at 1.7.2026 in so far as not already in force by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/a/iv)
+[^c-6fd59fa171eabdd1eda9cc0febb0a481]: Commencement: S. 50 in force at 1.7.2026 in so far as not already in force by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/a/iv)

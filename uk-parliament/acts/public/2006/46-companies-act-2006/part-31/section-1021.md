@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1021. Power of court to make vesting order[^c20591631][^c20591771][^c20603341][^key-b5787e1a8da51610d28315f62af12d80]
+## 1021. Power of court to make vesting order[^c20591631][^c20591771][^c20603341][^c-b5787e1a8da51610d28315f62af12d80]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ make an order for the vesting of the property in or its delivery to any persons 
 
 [^c20603341]: Modification: Ss. 1020-1022 applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [54](https://www.legislation.gov.uk/uksi/2009/1804/regulation/54) (with [Sch. 1 paras. 22](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/22), [34](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/34), [35](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/35))
 
-[^key-b5787e1a8da51610d28315f62af12d80]: Modification: [Ss. 1012-1023](https://www.legislation.gov.uk/ukpga/2006/46/section/1012) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [180(10)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/180/10) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-b5787e1a8da51610d28315f62af12d80]: Modification: [Ss. 1012-1023](https://www.legislation.gov.uk/ukpga/2006/46/section/1012) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [180(10)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/180/10) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))

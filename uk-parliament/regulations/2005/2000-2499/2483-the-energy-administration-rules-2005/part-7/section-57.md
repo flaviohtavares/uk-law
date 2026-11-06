@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Debt payable at future time[^key-672018330658b12713b5d6820eb8c88f]
+## 57. Debt payable at future time[^c-672018330658b12713b5d6820eb8c88f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A creditor may prove for a debt of which payment was not yet due on the date whe
 
 ## Annotations
 
-[^key-672018330658b12713b5d6820eb8c88f]: Commencement: Rule 57 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-672018330658b12713b5d6820eb8c88f]: Commencement: Rule 57 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

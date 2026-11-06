@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-Sections 12 and 12A[^key-546199afe0a845248f21a22688bb1f8a] .
+Sections 12 and 12A[^c-546199afe0a845248f21a22688bb1f8a] .
 
 **1.** A right for any person authorised by the person for whose benefit the compulsory rights order enures to pass over the land comprised in the order for the purpose of getting to or from the pipe-line on foot or with vehicles, and, where the right specified by the order is one of passing with vehicles, to transport materials, plant and apparatus therein.
 
@@ -34,4 +34,4 @@ Sections 12 and 12A[^key-546199afe0a845248f21a22688bb1f8a] .
 
 ## Annotations
 
-[^key-546199afe0a845248f21a22688bb1f8a]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/58/schedule/FOURTH) substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 108(6)](https://www.legislation.gov.uk/ukpga/2011/16/section/108/6), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/iii)
+[^c-546199afe0a845248f21a22688bb1f8a]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/58/schedule/FOURTH) substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 108(6)](https://www.legislation.gov.uk/ukpga/2011/16/section/108/6), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/iii)

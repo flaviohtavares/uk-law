@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Subject to subsections (3)(b) and (7) to (7C)[^key-176d7d376f06a52dc59148de614914e0] below, the rates chargeable for any year in respect of lands and heritages shall be payable by monthly instalments during the year in accordance with subsections (2) to (6) below.
+(1) Subject to subsections (3)(b) and (7) to (7C)[^c-176d7d376f06a52dc59148de614914e0] below, the rates chargeable for any year in respect of lands and heritages shall be payable by monthly instalments during the year in accordance with subsections (2) to (6) below.
 
 (2) Subject to subsection (3) below, in any case where the rates chargeable for a year are payable in accordance with subsection (1) above, those rates shall be payable by ten instalments beginning in the second month and ending in the penultimate month of the year.
 
@@ -46,9 +46,9 @@ summary: ''
 
 (7C) The Secretary of State may by order, made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament, amend subsection (7B) above by substituting for the amount for the time being specified in that subsection such other amount as appears to him to be justified.
 
-(8)[^key-b4d4d7fb4f115e0cf37ffd9982493586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-b4d4d7fb4f115e0cf37ffd9982493586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-f3ba104ef2b81ffeabf350f4d88e3d80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-f3ba104ef2b81ffeabf350f4d88e3d80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -58,7 +58,7 @@ summary: ''
 
 [^c10755541]: Modification: S. 8 modified by [S.I. 1975/930](https://www.legislation.gov.uk/uksi/1975/930), [regs. 2](https://www.legislation.gov.uk/uksi/1975/930/regulation/2), [3](https://www.legislation.gov.uk/uksi/1975/930/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/1975/930/schedule) and [Water (Scotland) Act 1980 (c. 45, SIF 130)](https://www.legislation.gov.uk/ukpga/1980/45), [s. 48(1)](https://www.legislation.gov.uk/ukpga/1980/45/section/48/1)
 
-[^key-176d7d376f06a52dc59148de614914e0]: Textual amendment: Word in [s. 8(1)](https://www.legislation.gov.uk/ukpga/1975/30/section/8/1) substituted (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 21(3)(a)](https://www.legislation.gov.uk/asp/2020/4/section/21/3/a), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))
+[^c-176d7d376f06a52dc59148de614914e0]: Textual amendment: Word in [s. 8(1)](https://www.legislation.gov.uk/ukpga/1975/30/section/8/1) substituted (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 21(3)(a)](https://www.legislation.gov.uk/asp/2020/4/section/21/3/a), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))
 
 [^c10755571]: Textual amendment: Word substituted by [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [Sch. 3 para. 33](https://www.legislation.gov.uk/ukpga/1981/23/schedule/3/paragraph/33)
 
@@ -70,6 +70,6 @@ summary: ''
 
 [^c10755611]: Textual amendment: S. 8(7A)—(7C) inserted by [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [ss. 7](https://www.legislation.gov.uk/ukpga/1981/23/section/7), [13](https://www.legislation.gov.uk/ukpga/1981/23/section/13)
 
-[^key-b4d4d7fb4f115e0cf37ffd9982493586]: Textual amendment: [S. 8(8)](https://www.legislation.gov.uk/ukpga/1975/30/section/8/8) repealed (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 21(3)(b)](https://www.legislation.gov.uk/asp/2020/4/section/21/3/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))
+[^c-b4d4d7fb4f115e0cf37ffd9982493586]: Textual amendment: [S. 8(8)](https://www.legislation.gov.uk/ukpga/1975/30/section/8/8) repealed (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 21(3)(b)](https://www.legislation.gov.uk/asp/2020/4/section/21/3/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))
 
-[^key-f3ba104ef2b81ffeabf350f4d88e3d80]: Textual amendment: [S. 8(9)](https://www.legislation.gov.uk/ukpga/1975/30/section/8/9) repealed (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 21(3)(b)](https://www.legislation.gov.uk/asp/2020/4/section/21/3/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))
+[^c-f3ba104ef2b81ffeabf350f4d88e3d80]: Textual amendment: [S. 8(9)](https://www.legislation.gov.uk/ukpga/1975/30/section/8/9) repealed (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 21(3)(b)](https://www.legislation.gov.uk/asp/2020/4/section/21/3/b), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))

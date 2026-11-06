@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Rights to abstract small quantities.[^key-ff5363a10733830aee1809c6accfd82d]
+## 27. Rights to abstract small quantities.[^c-ff5363a10733830aee1809c6accfd82d]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ if the well, borehole or other work is constructed or extended, or the machinery
 
 ## Annotations
 
-[^key-ff5363a10733830aee1809c6accfd82d]: Textual amendment: Ss 27, 27A substituted (1.4.2004 for the insertion of s. 27A, 1.4.2005 in so far as not already in force) for s. 27 by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/641/article/3/a) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1) [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); S.I. 2005/968, art. 2(a)
+[^c-ff5363a10733830aee1809c6accfd82d]: Textual amendment: Ss 27, 27A substituted (1.4.2004 for the insertion of s. 27A, 1.4.2005 in so far as not already in force) for s. 27 by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/641/article/3/a) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1) [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7)); S.I. 2005/968, art. 2(a)

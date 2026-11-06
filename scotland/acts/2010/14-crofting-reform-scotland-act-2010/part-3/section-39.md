@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Letting of owner-occupied crofts[^key-3e264e98fdd9b5131179bb856fdb8d2d][^key-d519c9da6dbfe51befcbceb76ff412e9][^key-1bc0aef706c68ff468405fa164eb2db9][^key-ffdb0b3cf455be216b7da0268fd08265]
+## 39. Letting of owner-occupied crofts[^c-3e264e98fdd9b5131179bb856fdb8d2d][^c-d519c9da6dbfe51befcbceb76ff412e9][^c-1bc0aef706c68ff468405fa164eb2db9][^c-ffdb0b3cf455be216b7da0268fd08265]
 
 *Extent: S*
 
@@ -78,10 +78,10 @@ After section 29 of the 1993 Act insert—
 
 ## Annotations
 
-[^key-3e264e98fdd9b5131179bb856fdb8d2d]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/14/section/39) in force at 22.12.2010 for specified purposes by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))
+[^c-3e264e98fdd9b5131179bb856fdb8d2d]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/14/section/39) in force at 22.12.2010 for specified purposes by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))
 
-[^key-d519c9da6dbfe51befcbceb76ff412e9]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/14/section/39) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
+[^c-d519c9da6dbfe51befcbceb76ff412e9]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/14/section/39) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
 
-[^key-1bc0aef706c68ff468405fa164eb2db9]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/14/section/39) in force at 30.11.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(v)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/v))
+[^c-1bc0aef706c68ff468405fa164eb2db9]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/14/section/39) in force at 30.11.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 1(v)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/1/v))
 
-[^key-ffdb0b3cf455be216b7da0268fd08265]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/14/section/39) in force at 30.11.2013 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/6))
+[^c-ffdb0b3cf455be216b7da0268fd08265]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/14/section/39) in force at 30.11.2013 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/6))

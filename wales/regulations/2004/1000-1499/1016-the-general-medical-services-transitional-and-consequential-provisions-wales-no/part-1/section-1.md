@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement, application and interpretation[^key-04045d67b9b3f772ab68d79a1caf6664]
+## 1. Citation, commencement, application and interpretation[^c-04045d67b9b3f772ab68d79a1caf6664]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - “the 1990 Act” means the National Health Service and Community Care Act 1990[^f00002];
 - “the 1992 Regulations” means the National Health Service (General Medical Services) Regulations 1992[^f00003];
 - “the 2003 Act” means the Health and Social Care (Community Health and Standards) Act 2003;
-- [^key-9ece8e8dfae737d9efd728f5a69c0a1a]...
+- [^c-9ece8e8dfae737d9efd728f5a69c0a1a]...
 - “the 2004 Regulations” means the National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^f00005];
 - “additional services” has the same meaning as in the 2004 Regulations;
 - “the Assembly” means the National Assembly for Wales;
@@ -59,13 +59,13 @@ summary: ''
 
 ## Annotations
 
-[^key-04045d67b9b3f772ab68d79a1caf6664]: Commencement: Art. 1 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-04045d67b9b3f772ab68d79a1caf6664]: Commencement: Art. 1 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00002]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
 
 [^f00003]: Footnote: [S.I. 1992/635](https://www.legislation.gov.uk/uksi/1992/635).
 
-[^key-9ece8e8dfae737d9efd728f5a69c0a1a]: Textual amendment: Words in art. 1(3) revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
+[^c-9ece8e8dfae737d9efd728f5a69c0a1a]: Textual amendment: Words in art. 1(3) revoked (1.4.2010) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/234/schedule/3/part/3); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/478/article/2/c)
 
 [^f00005]: Footnote: [S.I. 2004/478 (W.48)](https://www.legislation.gov.uk/wsi/2004/478).
 

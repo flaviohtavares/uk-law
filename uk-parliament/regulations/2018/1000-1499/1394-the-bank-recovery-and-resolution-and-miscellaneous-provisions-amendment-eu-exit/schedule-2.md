@@ -47,7 +47,7 @@ Schedule 6 to the Insolvency Act 1986 (preferential debts) is amended in accorda
     > - (c) “**UK branch**” means a branch, as so defined, which is established in the United Kingdom,
 
     ;
-  - (ii) at the end, insert “ , as it forms part of retained EU law[^key-c5a89d8d0fa4d97d3012064157090ebc]”.
+  - (ii) at the end, insert “ , as it forms part of retained EU law[^c-c5a89d8d0fa4d97d3012064157090ebc]”.
 
 ### 4. Amendments of the Financial Services (Banking Reform) Act 2013[^c23521481]
 
@@ -68,6 +68,6 @@ Paragraph 5 of Schedule 7 to the Financial Services (Banking Reform) Act 2013 (p
 
 [^c23491061]: Marginal citation: Inserted by the Financial Services (Banking Reform) Act 2013 and amended by [S.I. 2014/3486](https://www.legislation.gov.uk/uksi/2014/3486) and 2015/486.
 
-[^key-c5a89d8d0fa4d97d3012064157090ebc]: Textual amendment: Words in Sch. 2 para. 3(b)(ii) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(ii)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
+[^c-c5a89d8d0fa4d97d3012064157090ebc]: Textual amendment: Words in Sch. 2 para. 3(b)(ii) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(ii)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
 
 [^c23521481]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

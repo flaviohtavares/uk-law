@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Identification of the designated range[^key-8daf7db77a60f5a54095f90d9d541b94]
+## 46. Identification of the designated range[^c-8daf7db77a60f5a54095f90d9d541b94]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8daf7db77a60f5a54095f90d9d541b94]: Commencement: Reg. 46 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8daf7db77a60f5a54095f90d9d541b94]: Commencement: Reg. 46 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00040]: Footnote: “mission management facility” is defined in section 69(1) of the Space Industry Act 2018 as having the meaning given in section 19(4).

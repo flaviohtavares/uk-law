@@ -27,7 +27,7 @@ summary: ''
 
 (2) Any reference in Chapter 8 to giving effect to a land use plan, in relation to a marine plan, is to be taken to be a reference to the adoption and publication of a marine plan in accordance with Schedule 6 to the Marine Act or any amendment of a marine plan under section 52 of that Act.
 
-(3)[^key-8c30ad9b67e6a960ae6091a85353eeae] Where Chapter 8 applies by virtue of paragraph (1)—
+(3)[^c-8c30ad9b67e6a960ae6091a85353eeae] Where Chapter 8 applies by virtue of paragraph (1)—
 
 - (a) regulations 105(5), 107(3) to (6) and 108 do not apply;
 - (b) where by virtue of paragraph (1) regulation 109 applies in relation to a marine plan which includes a relevant offshore wind plan or project—
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c30ad9b67e6a960ae6091a85353eeae]: Textual amendment: [Reg. 113(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/113/3) substituted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2026/508/regulation/10)
+[^c-8c30ad9b67e6a960ae6091a85353eeae]: Textual amendment: [Reg. 113(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/113/3) substituted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2026/508/regulation/10)

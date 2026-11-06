@@ -25,7 +25,7 @@ summary: ''
 - (a) the water is to be used on land of which the applicant is the occupier; and
 - (b) the purposes for which water abstracted in pursuance of the licence is to be used consist of or include spray irrigation,
 
-the applicant may apply to the appropriate agency[^key-21423ce0d47eaa650fb851bfceea3f8e] to make an agreement with him under this section and, subject to the following provisions of this section and sections 128 and 129 below, the appropriate agency may make such an agreement accordingly.
+the applicant may apply to the appropriate agency[^c-21423ce0d47eaa650fb851bfceea3f8e] to make an agreement with him under this section and, subject to the following provisions of this section and sections 128 and 129 below, the appropriate agency may make such an agreement accordingly.
 
 (2) During any period for which an agreement under this section is in force, the following charges shall be payable by the applicant to the appropriate agency in respect of the applicant’s licence, in so far as it relates to water authorised to be abstracted and used on the relevant land, that is to say—
 
@@ -62,4 +62,4 @@ the appropriate agency shall have regard to the extent to which, in any year wit
 
 [^c18735521]: Modification: S. 127(1)(4) modified (18.5.1992) by [S.I. 1992/1096](https://www.legislation.gov.uk/uksi/1992/1096), [arts. 3](https://www.legislation.gov.uk/uksi/1992/1096/article/3), [4](https://www.legislation.gov.uk/uksi/1992/1096/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1992/1096/schedule)
 
-[^key-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

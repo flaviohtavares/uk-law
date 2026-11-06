@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Implementation strategy: content[^key-24ae68165328e50e93de0276b1ef8424]
+## 51. Implementation strategy: content[^c-24ae68165328e50e93de0276b1ef8424]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24ae68165328e50e93de0276b1ef8424]: Commencement: Reg. 51 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-24ae68165328e50e93de0276b1ef8424]: Commencement: Reg. 51 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

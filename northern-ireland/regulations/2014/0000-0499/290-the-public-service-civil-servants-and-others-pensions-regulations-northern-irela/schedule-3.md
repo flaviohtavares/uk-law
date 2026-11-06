@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — The Partnership Pension Account Ill-Health Benefits Arrangements[^key-393037739acf3133b1d29d5f3277ba3d][^key-19ce5b14b1a27c8c9e7ecb6b44aaed12]
+## SCHEDULE 3 — The Partnership Pension Account Ill-Health Benefits Arrangements[^c-393037739acf3133b1d29d5f3277ba3d][^c-19ce5b14b1a27c8c9e7ecb6b44aaed12]
 
 *Extent: N.I.*
 
@@ -35,13 +35,13 @@ In this Schedule—
 - “final pensionable earnings” has the meaning given in paragraph 3;
 - “ill-health benefits” in relation to a person means benefits payable in the event of the person’s ill-health;
 - “incapacity for employment” has the meaning given in paragraph 4;
-- “partnership ill-health benefits arrangements” means the arrangements for payment of ill-health benefits set out in this Schedule or in the scheme made under section 1 of the 1972 Order which provided for ill-health[^key-a5fd0ae2d71de4f1c59974f9c398ca64] benefits for persons who have a partnership pension account;
+- “partnership ill-health benefits arrangements” means the arrangements for payment of ill-health benefits set out in this Schedule or in the scheme made under section 1 of the 1972 Order which provided for ill-health[^c-a5fd0ae2d71de4f1c59974f9c398ca64] benefits for persons who have a partnership pension account;
 - “permanent breakdown in health” has the meaning given in paragraph 5; and
 - “qualifying partnership service” has the meaning given in paragraph 6.
 
 #### 2. Meaning of “eligible service”
 
-(1) In this Schedule, “eligible service” in relation to a person to whom this Schedule applies (P) means the aggregate of the periods of service (expressed in years) referred to in sub-paragraph (2)[^key-1d15e211ea29f3987f35aa697f6dce51] which fall within P’s current period of scheme employment to which sub-paragraph (3) applies.
+(1) In this Schedule, “eligible service” in relation to a person to whom this Schedule applies (P) means the aggregate of the periods of service (expressed in years) referred to in sub-paragraph (2)[^c-1d15e211ea29f3987f35aa697f6dce51] which fall within P’s current period of scheme employment to which sub-paragraph (3) applies.
 
 (2) The periods referred to in this sub-paragraph are—
 
@@ -54,7 +54,7 @@ In this Schedule—
 - (a) receives pensionable earnings; or
 - (b) is treated as receiving assumed pay.
 
-(4) If a person (P) to whom this Schedule applies is in part-time service at any time during the periods referred to in sub-paragraph (2)[^key-1be5379b595ad6208de3f23d49423d48] , the eligible service in respect of the period during which P is in part-time service is—
+(4) If a person (P) to whom this Schedule applies is in part-time service at any time during the periods referred to in sub-paragraph (2)[^c-1be5379b595ad6208de3f23d49423d48] , the eligible service in respect of the period during which P is in part-time service is—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2014/290)
 
@@ -151,8 +151,8 @@ This Schedule does not apply to a person (P) if—
 
 Where a person (P) becomes a person to whom this Schedule applies as a result of a transfer of employment, the scheme manager may apply the rules of this Schedule to P with any modifications the scheme manager considers necessary to reflect—
 
-- (a) any terms and conditions of P’s employment relating to ill-health[^key-fa947bbe9ae2d116958cfcbadf141db9] benefits which continue to have effect after the transfer; or
-- (b) any undertaking given by the Department about the ill-health[^key-4a9180dd148f78e45d0744b4adbf5866] benefits payable to P.
+- (a) any terms and conditions of P’s employment relating to ill-health[^c-fa947bbe9ae2d116958cfcbadf141db9] benefits which continue to have effect after the transfer; or
+- (b) any undertaking given by the Department about the ill-health[^c-4a9180dd148f78e45d0744b4adbf5866] benefits payable to P.
 
 ### PART 3 — Ill-health benefits
 
@@ -174,7 +174,7 @@ The amount of the lump sum is equal to the lesser of the following amounts—
 - (b) the person’s final pensionable earnings multiplied by 3; and
 - (c) for any person who is within 3 years of the person’s normal pension age, the person’s final pensionable earnings multiplied by 3 and reduced by 1/36 for each complete month of the person’s eligible service within that 3-year period.
 
-#### 13. False statements about ill-health[^key-440df8297431364063e271fdc53031da]
+#### 13. False statements about ill-health[^c-440df8297431364063e271fdc53031da]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -185,18 +185,18 @@ The amount of the lump sum is equal to the lesser of the following amounts—
 
 ## Annotations
 
-[^key-393037739acf3133b1d29d5f3277ba3d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2014/290/schedule/3) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [reg. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/181/schedule/1)
+[^c-393037739acf3133b1d29d5f3277ba3d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2014/290/schedule/3) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [reg. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/181/schedule/1)
 
-[^key-19ce5b14b1a27c8c9e7ecb6b44aaed12]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/nisr/2014/290/schedule/3) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/2)
+[^c-19ce5b14b1a27c8c9e7ecb6b44aaed12]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/nisr/2014/290/schedule/3) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/2)
 
-[^key-a5fd0ae2d71de4f1c59974f9c398ca64]: Textual amendment: Word in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/1) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(3)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/3)
+[^c-a5fd0ae2d71de4f1c59974f9c398ca64]: Textual amendment: Word in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/1) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(3)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/3)
 
-[^key-1d15e211ea29f3987f35aa697f6dce51]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/2/1) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(4)(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/4/a)
+[^c-1d15e211ea29f3987f35aa697f6dce51]: Textual amendment: Words in [Sch. 3 para. 2(1)](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/2/1) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(4)(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/4/a)
 
-[^key-1be5379b595ad6208de3f23d49423d48]: Textual amendment: Words in [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/2/4) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(4)(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/4/b)
+[^c-1be5379b595ad6208de3f23d49423d48]: Textual amendment: Words in [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/2/4) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(4)(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/4/b)
 
-[^key-fa947bbe9ae2d116958cfcbadf141db9]: Textual amendment: Word in [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/10/a) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(5)(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/5/a)
+[^c-fa947bbe9ae2d116958cfcbadf141db9]: Textual amendment: Word in [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/10/a) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(5)(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/5/a)
 
-[^key-4a9180dd148f78e45d0744b4adbf5866]: Textual amendment: Word in [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/10/b) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(5)(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/5/b)
+[^c-4a9180dd148f78e45d0744b4adbf5866]: Textual amendment: Word in [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/10/b) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(5)(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/5/b)
 
-[^key-440df8297431364063e271fdc53031da]: Textual amendment: Word in [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/13) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(6)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/6)
+[^c-440df8297431364063e271fdc53031da]: Textual amendment: Word in [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2014/290/schedule/3/paragraph/13) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [59(6)](https://www.legislation.gov.uk/nisr/2022/67/regulation/59/6)

@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (revoked)[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (revoked)[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 Made
 
@@ -46,51 +46,51 @@ Coming into force
 
 1st December 2009
 
-[^key-08eed8b3cfc08559304d2fd8cc668ed5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08eed8b3cfc08559304d2fd8cc668ed5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## 1. Title, application and commencement[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Regions[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## 2. Regions[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Minimum size of holding to establish entitlements[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## 3. Minimum size of holding to establish entitlements[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Minimum claim[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## 4. Minimum claim[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Date on which eligible land must be at the farmer's disposal[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## 5. Date on which eligible land must be at the farmer's disposal[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Progressive modifications of entitlements[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## 6. Progressive modifications of entitlements[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transfers[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## 7. Transfers[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Additional modulation[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## 8. Additional modulation[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## 9. Revocations[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08eed8b3cfc08559304d2fd8cc668ed5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08eed8b3cfc08559304d2fd8cc668ed5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Specified proportion of additional modulation[^key-08eed8b3cfc08559304d2fd8cc668ed5]
+## SCHEDULE — Specified proportion of additional modulation[^c-08eed8b3cfc08559304d2fd8cc668ed5]
 
 Regulation 8
 
@@ -98,8 +98,8 @@ Regulation 8
 
 **May not be in force at this date. Check the source.**
 
-[^key-08eed8b3cfc08559304d2fd8cc668ed5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08eed8b3cfc08559304d2fd8cc668ed5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08eed8b3cfc08559304d2fd8cc668ed5]: Textual amendment: Regulations revoked (4.4.2010) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2010 (S.I. 2010/540)](https://www.legislation.gov.uk/uksi/2010/540), regs. 1(3), [10](https://www.legislation.gov.uk/uksi/2010/540/regulation/10)
+[^c-08eed8b3cfc08559304d2fd8cc668ed5]: Textual amendment: Regulations revoked (4.4.2010) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2010 (S.I. 2010/540)](https://www.legislation.gov.uk/uksi/2010/540), regs. 1(3), [10](https://www.legislation.gov.uk/uksi/2010/540/regulation/10)

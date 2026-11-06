@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Scope of final hearing[^key-31b336793640d7b7b0f91fbb00f37bb3]
+## 55. Scope of final hearing[^c-31b336793640d7b7b0f91fbb00f37bb3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31b336793640d7b7b0f91fbb00f37bb3]: Commencement: [Rule 55](https://www.legislation.gov.uk/uksi/2024/1155/rule/55) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-31b336793640d7b7b0f91fbb00f37bb3]: Commencement: [Rule 55](https://www.legislation.gov.uk/uksi/2024/1155/rule/55) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

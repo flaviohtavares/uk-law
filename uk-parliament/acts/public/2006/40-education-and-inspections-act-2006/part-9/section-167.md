@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Consultation with young pupils[^key-12d998afb8442d2940bf2d7040566b23][^key-7cd6eb2e5bf6839dc486dab71c8036d6]
+## 167. Consultation with young pupils[^c-12d998afb8442d2940bf2d7040566b23][^c-7cd6eb2e5bf6839dc486dab71c8036d6]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In section 176 of EA 2002 (consultation with pupils), in subsection (3)—
 
 ## Annotations
 
-[^key-12d998afb8442d2940bf2d7040566b23]: Commencement: S. 167 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(f)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/f)
+[^c-12d998afb8442d2940bf2d7040566b23]: Commencement: S. 167 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(f)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/f)
 
-[^key-7cd6eb2e5bf6839dc486dab71c8036d6]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2006/40/section/167) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(k)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/k)
+[^c-7cd6eb2e5bf6839dc486dab71c8036d6]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2006/40/section/167) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(k)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/k)

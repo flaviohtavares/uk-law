@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53C. Advising on regulated home purchase plans[^key-f092e6040f1342fcef37a267bc85f41e]
+## 53C. Advising on regulated home purchase plans[^c-f092e6040f1342fcef37a267bc85f41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Advising a person is a specified kind of activity if the advice—
 
 ## Annotations
 
-[^key-f092e6040f1342fcef37a267bc85f41e]: Textual amendment: Arts. 53B, 53C inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [13](https://www.legislation.gov.uk/uksi/2006/2383/article/13)
+[^c-f092e6040f1342fcef37a267bc85f41e]: Textual amendment: Arts. 53B, 53C inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [13](https://www.legislation.gov.uk/uksi/2006/2383/article/13)

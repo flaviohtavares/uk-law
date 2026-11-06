@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Other duties of court to give reasons where certain orders not made[^key-89df20120eaee49bc777d52607d82b49]
+## 56. Other duties of court to give reasons where certain orders not made[^c-89df20120eaee49bc777d52607d82b49]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89df20120eaee49bc777d52607d82b49]: Commencement: S. 56 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-89df20120eaee49bc777d52607d82b49]: Commencement: S. 56 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

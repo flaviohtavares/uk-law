@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Education (Chief Inspector of Education and Training in Wales) (No. 2) Order 2010 (revoked)[^key-eeadc924ee045b0e26f79ba1f1d7b5f4]
+The Education (Chief Inspector of Education and Training in Wales) (No. 2) Order 2010 (revoked)[^c-eeadc924ee045b0e26f79ba1f1d7b5f4]
 
 Made
 
@@ -47,20 +47,20 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-eeadc924ee045b0e26f79ba1f1d7b5f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eeadc924ee045b0e26f79ba1f1d7b5f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-eeadc924ee045b0e26f79ba1f1d7b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eeadc924ee045b0e26f79ba1f1d7b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-eeadc924ee045b0e26f79ba1f1d7b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-eeadc924ee045b0e26f79ba1f1d7b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eeadc924ee045b0e26f79ba1f1d7b5f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eeadc924ee045b0e26f79ba1f1d7b5f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eeadc924ee045b0e26f79ba1f1d7b5f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eeadc924ee045b0e26f79ba1f1d7b5f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eeadc924ee045b0e26f79ba1f1d7b5f4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/1553) revoked (12.2.2015) by [The Education (Chief Inspector of Education and Training in Wales) Order 2015 (S.I. 2015/205)](https://www.legislation.gov.uk/uksi/2015/205), [arts. 1](https://www.legislation.gov.uk/uksi/2015/205/article/1), [3](https://www.legislation.gov.uk/uksi/2015/205/article/3)
+[^c-eeadc924ee045b0e26f79ba1f1d7b5f4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/1553) revoked (12.2.2015) by [The Education (Chief Inspector of Education and Training in Wales) Order 2015 (S.I. 2015/205)](https://www.legislation.gov.uk/uksi/2015/205), [arts. 1](https://www.legislation.gov.uk/uksi/2015/205/article/1), [3](https://www.legislation.gov.uk/uksi/2015/205/article/3)

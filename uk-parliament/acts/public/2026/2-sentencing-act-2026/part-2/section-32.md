@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Further release after recall: other offenders eligible for automatic release[^key-26be5663f59bcd286214a5e67b96b0b7]
+## 32. Further release after recall: other offenders eligible for automatic release[^c-26be5663f59bcd286214a5e67b96b0b7]
 
 *Extent: E+W*
 
-(1)[^key-3f5f500ddc0644b1d986b87b855ea052] The Criminal Justice Act 2003 is amended as follows.
+(1)[^c-3f5f500ddc0644b1d986b87b855ea052] The Criminal Justice Act 2003 is amended as follows.
 
-(2)[^key-3f5f500ddc0644b1d986b87b855ea052] After section 255B insert—
+(2)[^c-3f5f500ddc0644b1d986b87b855ea052] After section 255B insert—
 
 > **255BA. Automatic release: other offenders**
 >
@@ -67,20 +67,20 @@ summary: ''
 >
 > (11) For the purposes of subsection (2), a person returns to custody when the person, having been recalled, is detained (whether or not in prison) in pursuance of the sentence.
 
-(3)[^key-3f5f500ddc0644b1d986b87b855ea052] In section 330(5)(a) (orders subject to affirmative procedure), at the appropriate place insert—
+(3)[^c-3f5f500ddc0644b1d986b87b855ea052] In section 330(5)(a) (orders subject to affirmative procedure), at the appropriate place insert—
 
 > - section 255BA(10),
 
 .
 
-(4)[^key-3766578a9d8ce0228ff0208b59797c40] In section 255BA (automatic release: other offenders) (as inserted by subsection (2)), after subsection (4) insert—
+(4)[^c-3766578a9d8ce0228ff0208b59797c40] In section 255BA (automatic release: other offenders) (as inserted by subsection (2)), after subsection (4) insert—
 
 > (4A) The Secretary of State must not be satisfied as mentioned in subsection (4) unless the Secretary of State considers that there is no more than a minimal risk that, if P were released before the end of the period mentioned in subsection (1)(b), P would commit a further offence the commission of which would cause serious harm (and section 237A(4) applies for the purposes of that assessment).
 
 ## Annotations
 
-[^key-26be5663f59bcd286214a5e67b96b0b7]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-26be5663f59bcd286214a5e67b96b0b7]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
 
-[^key-3f5f500ddc0644b1d986b87b855ea052]: Commencement: S. 32(1)-(3) in force at 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iii), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-3f5f500ddc0644b1d986b87b855ea052]: Commencement: S. 32(1)-(3) in force at 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iii), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
 
-[^key-3766578a9d8ce0228ff0208b59797c40]: Commencement: S. 32(4) in force at 31.3.2026 in so far as not already in force by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-3766578a9d8ce0228ff0208b59797c40]: Commencement: S. 32(4) in force at 31.3.2026 in so far as not already in force by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

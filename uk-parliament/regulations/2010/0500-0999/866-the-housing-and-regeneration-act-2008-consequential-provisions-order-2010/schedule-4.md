@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Repeals[^key-06d2ecd31201e74d7cd44fff73a72978]
+## SCHEDULE 4 — Repeals[^c-06d2ecd31201e74d7cd44fff73a72978]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ Article 7
 
 ## Annotations
 
-[^key-06d2ecd31201e74d7cd44fff73a72978]: Commencement: Sch. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-06d2ecd31201e74d7cd44fff73a72978]: Commencement: Sch. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)

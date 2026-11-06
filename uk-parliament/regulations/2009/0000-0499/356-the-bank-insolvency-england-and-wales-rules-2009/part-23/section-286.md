@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 286. Notice, etc. to solicitors[^key-fa9540744f8db1ab57a5a2289ef5648d]
+## 286. Notice, etc. to solicitors[^c-fa9540744f8db1ab57a5a2289ef5648d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 13.4 of the 1986 Rules.
 
 ## Annotations
 
-[^key-fa9540744f8db1ab57a5a2289ef5648d]: Commencement: Rule 286 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-fa9540744f8db1ab57a5a2289ef5648d]: Commencement: Rule 286 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Allocation of expenses to be paid from client assets[^key-1a8aa6292d403b1767557db59a17d1bc]
+## 137. Allocation of expenses to be paid from client assets[^c-1a8aa6292d403b1767557db59a17d1bc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a8aa6292d403b1767557db59a17d1bc]: Commencement: [Rule 137](https://www.legislation.gov.uk/uksi/2011/1301/rule/137) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-1a8aa6292d403b1767557db59a17d1bc]: Commencement: [Rule 137](https://www.legislation.gov.uk/uksi/2011/1301/rule/137) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

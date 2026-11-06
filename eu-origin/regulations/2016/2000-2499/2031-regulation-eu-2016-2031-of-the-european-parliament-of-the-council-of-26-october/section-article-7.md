@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The appropriate authority may by regulations amend[^key-9a334489820e6c89a1ca1ec0a59315d4] Section 1 of Annex I in order to adapt it to the development of scientific and technical knowledge and of relevant international standards.
+The appropriate authority may by regulations amend[^c-9a334489820e6c89a1ca1ec0a59315d4] Section 1 of Annex I in order to adapt it to the development of scientific and technical knowledge and of relevant international standards.
 
 ## Annotations
 
-[^key-9a334489820e6c89a1ca1ec0a59315d4]: Textual amendment: Words in Art. 7 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(6)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/6) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-9a334489820e6c89a1ca1ec0a59315d4]: Textual amendment: Words in Art. 7 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [27(6)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/6) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

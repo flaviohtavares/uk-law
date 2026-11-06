@@ -22,7 +22,7 @@ summary: ''
 
 (1) The strict liability rule does not apply in relation to any publication—
 
-- (a) made in, for the purposes of, or for purposes incidental to, Senedd[^key-60edd79c70d763519861630d1afb7962] proceedings, or
+- (a) made in, for the purposes of, or for purposes incidental to, Senedd[^c-60edd79c70d763519861630d1afb7962] proceedings, or
 - (b) to the extent that it consists of a report of Senedd proceedings which either is made by or under the authority of the Senedd or is fair and accurate and made in good faith.
 
 (2) In subsection (1)—
@@ -36,4 +36,4 @@ have the same meaning as in the Contempt of Court Act 1981 (c. 49).
 
 [^c16526791]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

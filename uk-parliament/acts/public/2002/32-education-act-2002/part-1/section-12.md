@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Limits on powers conferred by section 11[^c396166][^key-dbdb4f2eae279d9813982e48cabed3dc]
+## 12. Limits on powers conferred by section 11[^c396166][^c-dbdb4f2eae279d9813982e48cabed3dc]
 
 *Extent: E+W*
 
 (1) The governing body of a maintained school may not exercise any power conferred by any of subsections (1) to (4) of section 11 except—
 
-- (a) with the consent of the local authority[^key-379c0a8ab791aad4cda0b42dbea5f020], and
+- (a) with the consent of the local authority[^c-379c0a8ab791aad4cda0b42dbea5f020], and
 - (b) at a time when the school has a delegated budget (within the meaning of Part 2 of the School Standards and Framework Act 1998 (c. 31)).
 
 (2) A governing body—
@@ -59,6 +59,6 @@ summary: ''
 
 [^c396166]: Commencement: S. 12 partly in force; s. 12 not in force at Royal Assent, see s. 216; s. 12 in force for E. at 20.1.2003 by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2) (with savings and transitional provisions in [Sch.](https://www.legislation.gov.uk/uksi/2002/2952/schedule))
 
-[^key-dbdb4f2eae279d9813982e48cabed3dc]: Commencement: S. 12 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
+[^c-dbdb4f2eae279d9813982e48cabed3dc]: Commencement: S. 12 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)

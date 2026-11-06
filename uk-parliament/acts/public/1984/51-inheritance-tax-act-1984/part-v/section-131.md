@@ -32,11 +32,11 @@ and in the following provisions of this section “**the relevant date**” mean
 - (a) the market value of the transferred property at the time of the chargeable transfer exceeds its market value on the relevant date, and
 - (b) a claim is made by a person liable to pay the whole or part of the tax or, as the case may be, additional tax[^c13611781],
 
-the tax or, as the case may be, additional tax shall be calculated as if the value transferred reflected the market value of the transferred property on the relevant date, rather than its market value at the time of the chargeable transfer[^key-43b7c3ee103055bf5b98bd61884796ae].
+the tax or, as the case may be, additional tax shall be calculated as if the value transferred reflected the market value of the transferred property on the relevant date, rather than its market value at the time of the chargeable transfer[^c-43b7c3ee103055bf5b98bd61884796ae].
 
 (2ZA)[^c21411661] A claim under subsection (2)(b) must be made not more than 4 years after the transferor's death.
 
-(2A)[^key-f3f5ec0722cee718da2cf1ed26f343ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-f3f5ec0722cee718da2cf1ed26f343ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A sale is a qualifying sale for the purposes of this section if—
 
@@ -56,8 +56,8 @@ the tax or, as the case may be, additional tax shall be calculated as if the val
 
     “the additional tax”.
 
-[^key-43b7c3ee103055bf5b98bd61884796ae]: Textual amendment: Words in [s. 131(2)](https://www.legislation.gov.uk/ukpga/1984/51/section/131/2) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/8/2), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-43b7c3ee103055bf5b98bd61884796ae]: Textual amendment: Words in [s. 131(2)](https://www.legislation.gov.uk/ukpga/1984/51/section/131/2) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/8/2), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
 [^c21411661]: Textual amendment: [S. 131(2ZA)](https://www.legislation.gov.uk/ukpga/1984/51/section/131/2ZA) inserted (1.4.2011) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99](https://www.legislation.gov.uk/ukpga/2009/10/section/99), [Sch. 51 para. 6](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/6); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)
 
-[^key-f3f5ec0722cee718da2cf1ed26f343ad]: Textual amendment: [S. 131(2A)](https://www.legislation.gov.uk/ukpga/1984/51/section/131/2A) omitted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/8/3), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-f3f5ec0722cee718da2cf1ed26f343ad]: Textual amendment: [S. 131(2A)](https://www.legislation.gov.uk/ukpga/1984/51/section/131/2A) omitted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/8/3), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)

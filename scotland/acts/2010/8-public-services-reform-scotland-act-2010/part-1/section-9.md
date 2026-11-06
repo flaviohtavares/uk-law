@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Delegation of Ministerial functions under section 7 of Industrial Development Act 1982[^key-487a959b3d8eea23279fff9b1f33767d]
+## 9. Delegation of Ministerial functions under section 7 of Industrial Development Act 1982[^c-487a959b3d8eea23279fff9b1f33767d]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In section 7 of the Industrial Development Act 1982 (c. 52) (selective financial
 
 ## Annotations
 
-[^key-487a959b3d8eea23279fff9b1f33767d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/8/section/9) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-487a959b3d8eea23279fff9b1f33767d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/8/section/9) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

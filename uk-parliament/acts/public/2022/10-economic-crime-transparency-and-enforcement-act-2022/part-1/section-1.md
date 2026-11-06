@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Overview[^key-9f27156065286b353d32bade7b2c064a][^key-34859fa3457e21dbbefd61b68305a077][^key-74d2b7d48418f258d395a6f34a62d98c]
+## 1. Overview[^c-9f27156065286b353d32bade7b2c064a][^c-34859fa3457e21dbbefd61b68305a077][^c-74d2b7d48418f258d395a6f34a62d98c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ This Part—
 
 ## Annotations
 
-[^key-9f27156065286b353d32bade7b2c064a]: Commencement: S. 1 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-9f27156065286b353d32bade7b2c064a]: Commencement: S. 1 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-34859fa3457e21dbbefd61b68305a077]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/10/section/1) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/a)
+[^c-34859fa3457e21dbbefd61b68305a077]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/10/section/1) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/a)
 
-[^key-74d2b7d48418f258d395a6f34a62d98c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/10/section/1) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-74d2b7d48418f258d395a6f34a62d98c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/10/section/1) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

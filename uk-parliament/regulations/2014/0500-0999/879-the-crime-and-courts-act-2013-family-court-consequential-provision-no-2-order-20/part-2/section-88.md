@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**88.**[^key-f26db713c1fe3851e4b26990f22ee9e9] In rule 2, for “Schedules 1 and 2” substitute “Schedule 1”.
+**88.**[^c-f26db713c1fe3851e4b26990f22ee9e9] In rule 2, for “Schedules 1 and 2” substitute “Schedule 1”.
 
 ## Annotations
 
-[^key-f26db713c1fe3851e4b26990f22ee9e9]: Commencement: Art. 88 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-f26db713c1fe3851e4b26990f22ee9e9]: Commencement: Art. 88 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

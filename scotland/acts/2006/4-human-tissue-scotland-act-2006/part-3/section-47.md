@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Use of tissue sample removed before day on which section 38 comes into force[^key-d5e517ed89689b3ef5e08493d4f5fa6b]
+## 47. Use of tissue sample removed before day on which section 38 comes into force[^c-d5e517ed89689b3ef5e08493d4f5fa6b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Tissue sample removed from the body of a deceased person (or from an organ which
 
 ## Annotations
 
-[^key-d5e517ed89689b3ef5e08493d4f5fa6b]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2006/4/section/47) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-d5e517ed89689b3ef5e08493d4f5fa6b]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2006/4/section/47) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

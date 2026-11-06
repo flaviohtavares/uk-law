@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Directions to modify connection agreements[^key-2afef525fa1b32aba874df865b2ae6cd]
+## 17. Directions to modify connection agreements[^c-2afef525fa1b32aba874df865b2ae6cd]
 
 *Extent: E+W+S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2afef525fa1b32aba874df865b2ae6cd]: Commencement: S. 17 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)
+[^c-2afef525fa1b32aba874df865b2ae6cd]: Commencement: S. 17 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)

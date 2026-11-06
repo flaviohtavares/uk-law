@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20C. Environmental Impact Assessment Report[^key-01824b2d26321a17af4b99db3cd68399][^key-69eca98abd5db250ac552fea222ab7ee]
+## 20C. Environmental Impact Assessment Report[^c-01824b2d26321a17af4b99db3cd68399][^c-69eca98abd5db250ac552fea222ab7ee]
 
 *Extent: S*
 
@@ -27,11 +27,11 @@ summary: ''
 - (a) falls within Annex I; or
 - (b) is a relevant project falling within Annex II, and that having regard to the selection criteria in Annex III it should be made subject to an environmental impact assessment in accordance with the Directive,
 
-they must[^key-bda021515c78aaec86de9cfde242989e], not later than the date when details of the project are published, prepare an EIA report and publish notice of it in accordance with subsections (5) to (10) and paragraph 7(1C), or 13(1C), as the case may be, of schedule 1 of this Act.
+they must[^c-bda021515c78aaec86de9cfde242989e], not later than the date when details of the project are published, prepare an EIA report and publish notice of it in accordance with subsections (5) to (10) and paragraph 7(1C), or 13(1C), as the case may be, of schedule 1 of this Act.
 
 (3) In making a determination as to whether a project is a relevant project falling within Annex II the Scottish Ministers must—
 
-- (a) in all cases[^key-7d275046b9256ba735eace7861528a79] take into account—
+- (a) in all cases[^c-7d275046b9256ba735eace7861528a79] take into account—
   - (i) such of the selection criteria set out in Annex III as are relevant to the project,
   - (ii) the available results of any relevant assessment of the effects of the project, and
 - (b) base their decision on the information set out in subsection (4).
@@ -61,7 +61,7 @@ they must[^key-bda021515c78aaec86de9cfde242989e], not later than the date when d
 - (e) a non-technical summary of the information referred to in paragraphs (a) to (d); and
 - (f) any other information specified in schedule 1A of this Act relevant to the specific characteristics of the project and to the environmental features likely to be affected.
 
-(7) With a view to avoiding duplication of assessments, account is to be taken of the available results of other relevant assessments under [^key-53b3eca22308ca1bf2f095d585d41804]... other legislation applicable in Scotland in preparing the EIA report.
+(7) With a view to avoiding duplication of assessments, account is to be taken of the available results of other relevant assessments under [^c-53b3eca22308ca1bf2f095d585d41804]... other legislation applicable in Scotland in preparing the EIA report.
 
 (8) In order to ensure the completeness and quality of the EIA report—
 
@@ -74,7 +74,7 @@ they must[^key-bda021515c78aaec86de9cfde242989e], not later than the date when d
 
 - (a) that the Scottish Ministers, as the relevant roads authority, are considering implementing the project;
 - (b) the proposed location and nature of the project;
-- (c) that the project is subject to environmental impact assessment and, where relevant, state that it is likely to have significant effects in an[^key-9d7be6e32dd24df365a54387f082b534] EEA State;
+- (c) that the project is subject to environmental impact assessment and, where relevant, state that it is likely to have significant effects in an[^c-9d7be6e32dd24df365a54387f082b534] EEA State;
 - (d) that a copy of the EIA report may be inspected at an address in the area in which the project is proposed to be situated during the period specified under paragraph (i);
 - (e) the times at which a copy of the EIA report can be so inspected;
 - (f) an address from which copies of the EIA report may be obtained and from which further information about the project may be requested during the period specified under paragraph (i);
@@ -108,20 +108,20 @@ they must[^key-bda021515c78aaec86de9cfde242989e], not later than the date when d
   - (a) exceed 1 hectare in area; or
   - (b) are situated in whole or in part in a sensitive area,
 - “sensitive area” has the meaning ascribed to that expression in regulation 2(1) of the Environmental Impact Assessment (Scotland) Regulations 1999; and
-- [^key-d94ed0caf2885e9a6473c0f6d06b4fd5]...
+- [^c-d94ed0caf2885e9a6473c0f6d06b4fd5]...
 
 ## Annotations
 
-[^key-01824b2d26321a17af4b99db3cd68399]: Modification: [Ss. 20A-20G](https://www.legislation.gov.uk/ukpga/1984/54/section/20A) power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-01824b2d26321a17af4b99db3cd68399]: Modification: [Ss. 20A-20G](https://www.legislation.gov.uk/ukpga/1984/54/section/20A) power to amend or repeal conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-69eca98abd5db250ac552fea222ab7ee]: Textual amendment: Ss. 20A-20G substituted for ss. 20A, 20B (16.5.2017) by [The Roads (Scotland) Act 1984 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/137)](https://www.legislation.gov.uk/ssi/2017/137), [regs. 1](https://www.legislation.gov.uk/ssi/2017/137/regulation/1), [5](https://www.legislation.gov.uk/ssi/2017/137/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/137/regulation/12))
+[^c-69eca98abd5db250ac552fea222ab7ee]: Textual amendment: Ss. 20A-20G substituted for ss. 20A, 20B (16.5.2017) by [The Roads (Scotland) Act 1984 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/137)](https://www.legislation.gov.uk/ssi/2017/137), [regs. 1](https://www.legislation.gov.uk/ssi/2017/137/regulation/1), [5](https://www.legislation.gov.uk/ssi/2017/137/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/137/regulation/12))
 
-[^key-bda021515c78aaec86de9cfde242989e]: Textual amendment: Word in s. 20C(2) substituted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/322/regulation/2/3/a)
+[^c-bda021515c78aaec86de9cfde242989e]: Textual amendment: Word in s. 20C(2) substituted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/322/regulation/2/3/a)
 
-[^key-7d275046b9256ba735eace7861528a79]: Textual amendment: Words in s. 20C(3)(a) inserted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/322/regulation/2/3/b)
+[^c-7d275046b9256ba735eace7861528a79]: Textual amendment: Words in s. 20C(3)(a) inserted (7.12.2019) by [The Environmental Impact Assessment (Transport) (Scotland) Regulations 2019 (S.S.I. 2019/322)](https://www.legislation.gov.uk/ssi/2019/322), [regs. 1](https://www.legislation.gov.uk/ssi/2019/322/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/322/regulation/2/3/b)
 
-[^key-53b3eca22308ca1bf2f095d585d41804]: Textual amendment: Words in s. 20C(7) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53b3eca22308ca1bf2f095d585d41804]: Textual amendment: Words in s. 20C(7) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/415/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d7be6e32dd24df365a54387f082b534]: Textual amendment: Word in s. 20C(10)(c) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d7be6e32dd24df365a54387f082b534]: Textual amendment: Word in s. 20C(10)(c) substituted (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/415/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d94ed0caf2885e9a6473c0f6d06b4fd5]: Textual amendment: Words in s. 20C(16) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2019/415/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d94ed0caf2885e9a6473c0f6d06b4fd5]: Textual amendment: Words in s. 20C(16) repealed (31.12.2020) by [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2019/415/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

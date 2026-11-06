@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Decisions taken without maladministration[^key-2f0f433e92412aa2a739e578b777af22]
+## 15. Decisions taken without maladministration[^c-2f0f433e92412aa2a739e578b777af22]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f0f433e92412aa2a739e578b777af22]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2019/3/section/15) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-2f0f433e92412aa2a739e578b777af22]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2019/3/section/15) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Mutual recognition of authorisations[^key-6fd7e15448f3a0d2d1808fd57826dbba]
+## 11. Mutual recognition of authorisations[^c-6fd7e15448f3a0d2d1808fd57826dbba]
 
 *Extent: N.I.*
 
@@ -78,4 +78,4 @@ it may propose conditions and restrictions relating to the matters referred to i
 
 ## Annotations
 
-[^key-6fd7e15448f3a0d2d1808fd57826dbba]: Commencement: Reg. 11 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-6fd7e15448f3a0d2d1808fd57826dbba]: Commencement: Reg. 11 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

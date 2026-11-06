@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Power to direct admission: extension to Academies[^key-91ec8d7ba8cc911012271fca5ba63729]
+## 62. Power to direct admission: extension to Academies[^c-91ec8d7ba8cc911012271fca5ba63729]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91ec8d7ba8cc911012271fca5ba63729]: Commencement: S. 62 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-91ec8d7ba8cc911012271fca5ba63729]: Commencement: S. 62 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

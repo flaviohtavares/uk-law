@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Unexplained wealth orders: Scotland[^key-5467a9330e7db48538cb9b5df6b6cb4f][^c22725091]
+## 4. Unexplained wealth orders: Scotland[^c-5467a9330e7db48538cb9b5df6b6cb4f][^c22725091]
 
 *Extent: S*
 
@@ -256,6 +256,6 @@ In Chapter 3 of Part 8 of the Proceeds of Crime Act 2002 (investigations: Scotla
 
 ## Annotations
 
-[^key-5467a9330e7db48538cb9b5df6b6cb4f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/22/section/4) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-5467a9330e7db48538cb9b5df6b6cb4f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/22/section/4) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
 
 [^c22725091]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/22/section/4) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

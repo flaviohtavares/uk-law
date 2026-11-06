@@ -32,7 +32,7 @@ summary: ''
 - (d) no person other than the relevant company has control of the subsidiary, and
 - (e) no arrangements are in existence by virtue of which any of the conditions in paragraphs (a) to (d) would cease to be met.
 
-(1A)[^key-2bf9b1c95d73f2608c4a30d633128938] For the purposes of this Chapter, a company (“company A”) which is a subsidiary of a company that is not the relevant company (“company B”) is a qualifying 90% subsidiary of the relevant company if—
+(1A)[^c-2bf9b1c95d73f2608c4a30d633128938] For the purposes of this Chapter, a company (“company A”) which is a subsidiary of a company that is not the relevant company (“company B”) is a qualifying 90% subsidiary of the relevant company if—
 
 - (a) company A would be a qualifying 90% subsidiary of company B (if company B were the relevant company), and company B is a qualifying 100% subsidiary of the relevant company, or
 - (b) company A is a qualifying 100% subsidiary of company B, and company B is a qualifying 90% subsidiary of the relevant company.
@@ -55,19 +55,19 @@ summary: ''
 - (a) the persons who are equity holders of the subsidiary, and
 - (b) the percentage of the assets of the subsidiary to which an equity holder would be entitled,
 
-are to be determined in accordance with Chapter 6 of Part 5 of CTA 2010[^key-c8204dc9ca4b563fd5ffaef0bb902d30].
+are to be determined in accordance with Chapter 6 of Part 5 of CTA 2010[^c-c8204dc9ca4b563fd5ffaef0bb902d30].
 
 (4) In making that determination—
 
-- (a) references in section 166 of that Act to company A[^key-fc304009f64079d734e66330cfdc949b] are to be read as references to an equity holder, and
-- (b) references in that section[^key-63aa60779f49c03b13cbe19712a51da9] to a winding up are to be read as including references to any other circumstances in which assets of the subsidiary are available for distribution to its equity holders.
+- (a) references in section 166 of that Act to company A[^c-fc304009f64079d734e66330cfdc949b] are to be read as references to an equity holder, and
+- (b) references in that section[^c-63aa60779f49c03b13cbe19712a51da9] to a winding up are to be read as including references to any other circumstances in which assets of the subsidiary are available for distribution to its equity holders.
 
 ## Annotations
 
-[^key-2bf9b1c95d73f2608c4a30d633128938]: Textual amendment: S. 301(1A)-(1C) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 17](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/17), [18](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/18)
+[^c-2bf9b1c95d73f2608c4a30d633128938]: Textual amendment: S. 301(1A)-(1C) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 17](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/17), [18](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/18)
 
-[^key-c8204dc9ca4b563fd5ffaef0bb902d30]: Textual amendment: Words in s. 301(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 504(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/504/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c8204dc9ca4b563fd5ffaef0bb902d30]: Textual amendment: Words in s. 301(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 504(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/504/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-fc304009f64079d734e66330cfdc949b]: Textual amendment: Words in s. 301(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 504(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/504/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-fc304009f64079d734e66330cfdc949b]: Textual amendment: Words in s. 301(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 504(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/504/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-63aa60779f49c03b13cbe19712a51da9]: Textual amendment: Word in s. 301(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 504(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/504/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-63aa60779f49c03b13cbe19712a51da9]: Textual amendment: Word in s. 301(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 504(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/504/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

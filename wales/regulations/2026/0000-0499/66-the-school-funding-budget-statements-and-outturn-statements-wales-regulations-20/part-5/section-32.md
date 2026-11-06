@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Prescribed form of budget statements[^key-42a2621a0c45c1f8a3cdf7314142fd52]
+## 32. Prescribed form of budget statements[^c-42a2621a0c45c1f8a3cdf7314142fd52]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42a2621a0c45c1f8a3cdf7314142fd52]: Commencement: Reg. 32 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-42a2621a0c45c1f8a3cdf7314142fd52]: Commencement: Reg. 32 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

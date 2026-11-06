@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Compliance with Community Directives and ECE Regulations[^key-ec76593b206454781015d64e0bd613e3]
+## 6. Compliance with Community Directives and ECE Regulations[^c-ec76593b206454781015d64e0bd613e3]
 
 *Extent: E+W+S*
 
@@ -28,8 +28,8 @@ summary: ''
 
 (2) The certificates mentioned in paragraph (1) are—
 
-- (b) a certificate of conformity issued by the manufacturer of the vehicle under regulation 6 of either of those Regulations; [^key-c772982eb00c8e403a9bb76e71476d00]...
-- (c) a certificate issued under a provision of the law of any member state of the European Economic Community which corresponds to the said regulations 5 or 6 ; or[^key-b754af0852ab6b66c02946f2500edd07]
+- (b) a certificate of conformity issued by the manufacturer of the vehicle under regulation 6 of either of those Regulations; [^c-c772982eb00c8e403a9bb76e71476d00]...
+- (c) a certificate issued under a provision of the law of any member state of the European Economic Community which corresponds to the said regulations 5 or 6 ; or[^c-b754af0852ab6b66c02946f2500edd07]
 - (d) a sound level measurement certificate issued by the Secretary of State under regulation 4 of the Motorcycles (Sound Level Measurement Certificates) Regulations 1980;
 
 being in each case a certificate issued by reason of the vehicle's conforming to the requirements of the Community Directive in question.
@@ -45,8 +45,8 @@ being in each case a certificate issued by reason of the vehicle's conforming to
 
 ## Annotations
 
-[^key-ec76593b206454781015d64e0bd613e3]: Commencement: Reg. 6 in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-ec76593b206454781015d64e0bd613e3]: Commencement: Reg. 6 in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-c772982eb00c8e403a9bb76e71476d00]: Textual amendment: Word in reg. 6(2)(b) omitted (8.11.1989) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1989 (S.I. 1989/1865)](https://www.legislation.gov.uk/uksi/1989/1865), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1865/regulation/1), [4](https://www.legislation.gov.uk/uksi/1989/1865/regulation/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/1989/1865/regulation/2/2))
+[^c-c772982eb00c8e403a9bb76e71476d00]: Textual amendment: Word in reg. 6(2)(b) omitted (8.11.1989) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1989 (S.I. 1989/1865)](https://www.legislation.gov.uk/uksi/1989/1865), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1865/regulation/1), [4](https://www.legislation.gov.uk/uksi/1989/1865/regulation/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/1989/1865/regulation/2/2))
 
-[^key-b754af0852ab6b66c02946f2500edd07]: Textual amendment: Reg. 6(2)(d) and word inserted (8.11.1989) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1989 (S.I. 1989/1865)](https://www.legislation.gov.uk/uksi/1989/1865), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1865/regulation/1), [4](https://www.legislation.gov.uk/uksi/1989/1865/regulation/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/1989/1865/regulation/2/2))
+[^c-b754af0852ab6b66c02946f2500edd07]: Textual amendment: Reg. 6(2)(d) and word inserted (8.11.1989) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1989 (S.I. 1989/1865)](https://www.legislation.gov.uk/uksi/1989/1865), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1865/regulation/1), [4](https://www.legislation.gov.uk/uksi/1989/1865/regulation/4) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/1989/1865/regulation/2/2))

@@ -395,7 +395,7 @@ contains provision to the effect that any property, right or liability is to be 
 
 - (a) an arbitrator appointed by the President of the Royal Institution of Chartered Surveyors (if the proceedings are to be held in England and Wales),
 - (b) an arbiter appointed by the Chairman of the Royal Institution of Chartered Surveyors in Scotland (if the proceedings are to be held in Scotland), or
-- (c) an arbitrator appointed by the Chairman of the Royal Institution of Chartered Surveyors in Northern Ireland[^key-64c496e3bcfa4dbc75bdefb7e2e15478] (if the proceedings are to be held in Northern Ireland).
+- (c) an arbitrator appointed by the Chairman of the Royal Institution of Chartered Surveyors in Northern Ireland[^c-64c496e3bcfa4dbc75bdefb7e2e15478] (if the proceedings are to be held in Northern Ireland).
 
 **21.**[^c14884871] (1) For the purposes of this paragraph—
 
@@ -518,7 +518,7 @@ references to a transferor or a transferee have effect as references to a transf
 
 [^c14884861]: Commencement: Sch. 6 paras. 1-25 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-64c496e3bcfa4dbc75bdefb7e2e15478]: Textual amendment: Words in Sch. 6 para. 20(6)(c) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 297(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/297/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)
+[^c-64c496e3bcfa4dbc75bdefb7e2e15478]: Textual amendment: Words in Sch. 6 para. 20(6)(c) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 297(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/297/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)
 
 [^c14884871]: Commencement: Sch. 6 paras. 1-25 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

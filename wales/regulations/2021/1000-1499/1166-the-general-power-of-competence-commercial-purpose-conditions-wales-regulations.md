@@ -45,18 +45,18 @@ In accordance with section 174(5)(b) of that Act, a draft of this instrument has
 
 In accordance with section 28(7) of that Act, the Welsh Ministers have consulted such persons as appear to the Welsh Ministers likely to be affected by these Regulations.
 
-## 1. Title, commencement and interpretation[^key-9a8770bee2f310010fb47692f4cabff3]
+## 1. Title, commencement and interpretation[^c-9a8770bee2f310010fb47692f4cabff3]
 
 (1) The title of these Regulations is the General Power of Competence (Commercial Purpose) (Conditions) (Wales) Regulations 2021 and they come into force on 1 November 2021.
 
 (2) In these Regulations—
 
 - “the 2021 Act” (“*Deddf 2021”)* means the Local Government and Elections (Wales) Act 2021;
-- “authority” (“*awdurdod”)* means a principal council within the meaning of section 171(1) of the 2021 Act or an eligible community council within the meaning of section 30(1) of the 2021 Act[^key-ffd3cd69283d72c11b9f744ab4f4d5cb] ;
+- “authority” (“*awdurdod”)* means a principal council within the meaning of section 171(1) of the 2021 Act or an eligible community council within the meaning of section 30(1) of the 2021 Act[^c-ffd3cd69283d72c11b9f744ab4f4d5cb] ;
 - “company” (“*cwmni*”) means a company within the meaning of section 27(4) of the 2021 Act;
 - “the general power” (“*y p**ŵ**er cyffredinol”)* means the general power of competence conferred on an authority by section 24 of the 2021 Act.
 
-## 2. Conditions to be met before exercising the general power to do things for a commercial purpose[^key-71be27980b88777f3db0239c60041a51]
+## 2. Conditions to be met before exercising the general power to do things for a commercial purpose[^c-71be27980b88777f3db0239c60041a51]
 
 (1) Before exercising the general power to do things for a commercial purpose, an authority must—
 
@@ -73,11 +73,11 @@ In accordance with section 28(7) of that Act, the Welsh Ministers have consulted
 - (f) the impact (including on the terms and conditions of employment) on any staff that it intends to supply to a company through which it is exercising the general power to do things for a commercial purpose; and
 - (g) the intended arrangements for the staffing of the company through which it is exercising the general power to do things for a commercial purpose, including the proposed terms and conditions of employment of any staff to be employed.
 
-## 3. Publication of business case[^key-07da411deedea67b46ab7b1d344bb45d]
+## 3. Publication of business case[^c-07da411deedea67b46ab7b1d344bb45d]
 
 An authority must publish any business case approved in accordance with regulation 2(1)(b) as soon as reasonably practicable.
 
-## 4. Requirement to recover costs etc[^key-38f64a0579039e66a51846d887421099]
+## 4. Requirement to recover costs etc[^c-38f64a0579039e66a51846d887421099]
 
 An authority must recover the costs of any accommodation, goods, services, staff or any other thing that it supplies to a company through which it is exercising the general power to do things for a commercial purpose, from that company.
 
@@ -107,12 +107,12 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-9a8770bee2f310010fb47692f4cabff3]: Commencement: Reg. 1 in force at 1.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/1)
+[^c-9a8770bee2f310010fb47692f4cabff3]: Commencement: Reg. 1 in force at 1.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/1)
 
-[^key-ffd3cd69283d72c11b9f744ab4f4d5cb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/2) inserted (5.5.2022) by [The General Power of Competence (Commercial Purpose) (Conditions) (Wales) (Amendment) Regulations 2022 (S.I. 2022/423)](https://www.legislation.gov.uk/wsi/2022/423), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/423/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2022/423/regulation/2)
+[^c-ffd3cd69283d72c11b9f744ab4f4d5cb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/2) inserted (5.5.2022) by [The General Power of Competence (Commercial Purpose) (Conditions) (Wales) (Amendment) Regulations 2022 (S.I. 2022/423)](https://www.legislation.gov.uk/wsi/2022/423), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/423/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2022/423/regulation/2)
 
-[^key-71be27980b88777f3db0239c60041a51]: Commencement: Reg. 2 in force at 1.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/1)
+[^c-71be27980b88777f3db0239c60041a51]: Commencement: Reg. 2 in force at 1.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/1)
 
-[^key-07da411deedea67b46ab7b1d344bb45d]: Commencement: Reg. 3 in force at 1.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/1)
+[^c-07da411deedea67b46ab7b1d344bb45d]: Commencement: Reg. 3 in force at 1.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/1)
 
-[^key-38f64a0579039e66a51846d887421099]: Commencement: Reg. 4 in force at 1.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/1)
+[^c-38f64a0579039e66a51846d887421099]: Commencement: Reg. 4 in force at 1.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2021/1166/regulation/1/1)

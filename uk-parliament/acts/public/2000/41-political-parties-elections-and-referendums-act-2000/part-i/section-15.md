@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Deputy Electoral Commissioners.[^key-923c9fa05d3e55902474d8e0175c7fa0]
+## 15. Deputy Electoral Commissioners.[^c-923c9fa05d3e55902474d8e0175c7fa0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-923c9fa05d3e55902474d8e0175c7fa0]: Textual amendment: S. 15 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 61(2)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/61/2/b), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(j)(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/j/hh)
+[^c-923c9fa05d3e55902474d8e0175c7fa0]: Textual amendment: S. 15 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 61(2)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/61/2/b), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(j)(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/j/hh)

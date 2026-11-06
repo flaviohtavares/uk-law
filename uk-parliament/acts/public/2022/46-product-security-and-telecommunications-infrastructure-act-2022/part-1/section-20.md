@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Duty to maintain records of investigations[^key-0b54c4d95853fe5a28ea42cf5b597a2b][^key-1335f469b777e184a2134f65cbdd070e]
+## 20. Duty to maintain records of investigations[^c-0b54c4d95853fe5a28ea42cf5b597a2b][^c-1335f469b777e184a2134f65cbdd070e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b54c4d95853fe5a28ea42cf5b597a2b]: Commencement: S. 20 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-0b54c4d95853fe5a28ea42cf5b597a2b]: Commencement: S. 20 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-1335f469b777e184a2134f65cbdd070e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/46/section/20) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-1335f469b777e184a2134f65cbdd070e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/46/section/20) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

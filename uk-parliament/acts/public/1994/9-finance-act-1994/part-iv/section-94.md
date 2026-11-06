@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Set-off of pre-entry losses.[^key-70acf2396a4a0dd0c1b08c51c14769e3]
+## 94. Set-off of pre-entry losses.[^c-70acf2396a4a0dd0c1b08c51c14769e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70acf2396a4a0dd0c1b08c51c14769e3]: Textual amendment: [S. 94](https://www.legislation.gov.uk/ukpga/1994/9/section/94) repealed (19.7.2011) (with effect in accordance with Sch. 11 para. 11 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/a)
+[^c-70acf2396a4a0dd0c1b08c51c14769e3]: Textual amendment: [S. 94](https://www.legislation.gov.uk/ukpga/1994/9/section/94) repealed (19.7.2011) (with effect in accordance with Sch. 11 para. 11 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/a)

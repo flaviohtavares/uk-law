@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 165(4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Articles 6(9), 16(2) to (4), 18(1) and (2), 20(1) to (5), 21, 23(3), 25(1), (2), (5) and (7) and 30 of, and paragraphs 4 and 8 of Schedule 1 to, the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997[^f00002] and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations made by virtue of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-bb240a4aaf0dbfe5f4243ac1089db3d9]
+## 1. Citation, commencement and interpretation[^c-bb240a4aaf0dbfe5f4243ac1089db3d9]
 
 (1) These Regulations may be cited as the Social Security (Recovery of Benefits) Regulations (Northern Ireland) 1997 and shall come into operation on 6th October 1997.
 
@@ -50,7 +50,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Exempted trusts and payments[^key-74eb58876f335bdc2562bd29635dd03e]
+## 2. Exempted trusts and payments[^c-74eb58876f335bdc2562bd29635dd03e]
 
 (1) The following trusts are prescribed for the purposes of paragraph 4 of Schedule 1—
 
@@ -73,7 +73,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (h) any payment made under the National Health Service (Scotland) (Injury Benefits) Regulations 1974[^f00010], the Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 1975[^f00011] or the National Health Service (Injury Benefits) Regulations 1995[^f00012];
 - (i) any payment made by or on behalf of the Secretary of State for the benefit of persons eligible for payment in accordance with the provisions of a scheme established by him on 24th April 1992 or, in Scotland, on 10th April 1992.
 
-## 3. Information to be provided by the compensator[^key-af1a5d92055619c9357be993c75fcc57]
+## 3. Information to be provided by the compensator[^c-af1a5d92055619c9357be993c75fcc57]
 
 The following information is prescribed for the purposes of Article 25(1)—
 
@@ -83,7 +83,7 @@ The following information is prescribed for the purposes of Article 25(1)—
 - (d) the nature of the accident, injury or disease; and
 - (e) where the relevant period[^f00013] may include a period prior to 6th April 1994, whether, at the time of the accident or injury or diagnosis of the disease, the person was employed under a contract of service, and, if so, the name and address of his employer at that time and, where applicable, that person’s payroll number.
 
-## 4. Information to be provided by the injured person[^key-db84923eda9e6824802d3f75f88185c1]
+## 4. Information to be provided by the injured person[^c-db84923eda9e6824802d3f75f88185c1]
 
 The following information is prescribed for the purposes of Article 25(2)—
 
@@ -94,7 +94,7 @@ The following information is prescribed for the purposes of Article 25(2)—
 - (e) in the case of a person who has received statutory sick pay during any part of the relevant period falling prior to 6th April 1994, the name and address of any employer who made such payments to him during that period and the dates on which his employment with that employer began and ended; and
 - (f) any changes in the medical diagnosis relating to any condition arising from the accident, injury or disease.
 
-## 5. Information to be provided by the employer[^key-16c27c4935d7bf898801a075b5e6399a]
+## 5. Information to be provided by the employer[^c-16c27c4935d7bf898801a075b5e6399a]
 
 The following information is prescribed for the purposes of Article 25(5)—
 
@@ -103,14 +103,14 @@ The following information is prescribed for the purposes of Article 25(5)—
 - (c) the date on which such liability terminated; and
 - (d) the cause of incapacity for work during any period of entitlement to statutory sick pay during any part of the relevant period falling prior to 6th April 1994.
 
-## 6. Provision of information[^key-c74a8c5d6b310183208be8ad88b4bc4f]
+## 6. Provision of information[^c-c74a8c5d6b310183208be8ad88b4bc4f]
 
 A person required to give information to the Department under regulations 3 to 5 shall do so by sending it to the Department not later than 14 days after—
 
 - (a) if he is a person to whom regulation 3 applies, the date on which he receives a claim for compensation from the injured person in respect of the accident, injury or disease; or
 - (b) if he is a person to whom regulation 4 or 5 applies, the date on which the Department requests the information from him.
 
-## 7. Application for a certificate of recoverable benefits[^key-92b4337b0c6d0b72859439a137ca6f8b]
+## 7. Application for a certificate of recoverable benefits[^c-92b4337b0c6d0b72859439a137ca6f8b]
 
 (1) The following particulars are prescribed for the purposes of Article 23(3)(*a*)—
 
@@ -122,7 +122,7 @@ A person required to give information to the Department under regulations 3 to 5
 
 (2) For the purposes of the Order an application for a certificate of recoverable benefits is to be treated as received on the date on which it is received by the Department.
 
-## 8. Payments into court[^key-5c32bf4376b66e81b344b28fcc5885a1]
+## 8. Payments into court[^c-5c32bf4376b66e81b344b28fcc5885a1]
 
 (1) Subject to the following provisions of this regulation, where a party to an action makes a payment into court which, had it been paid directly to another party to the action (“the relevant party”), would have constituted a compensation payment—
 
@@ -144,7 +144,7 @@ and in this paragraph “a current certificate of recoverable benefits” means 
 
 (7) Where a payment into court is paid out wholly to or for the party who made the payment (otherwise than to or for the relevant party) the making of the payment into court shall cease to be regarded as the making of a compensation payment.
 
-## 9. Reduction of compensation: complex cases[^key-540f455c485113535fce480050c14728]
+## 9. Reduction of compensation: complex cases[^c-540f455c485113535fce480050c14728]
 
 (1) This regulation applies where—
 
@@ -186,7 +186,7 @@ and accordingly the later payment may be nil.
 
 (7) Where the reduction of a compensation payment is recalculated by virtue of paragraph (4) or (5), the compensator shall give notice of the recalculation to the injured person.
 
-## 10. Structured settlements[^key-dddb74109cf2bb349a1c905d09c7c905]
+## 10. Structured settlements[^c-dddb74109cf2bb349a1c905d09c7c905]
 
 (1) This regulation applies where—
 
@@ -216,7 +216,7 @@ then for the purposes of the Order, the primary party shall be regarded as the c
 - (a) if the agreement referred to in paragraph (1)(*a*) is approved by a court, the date on which that approval is given; and
 - (b) in any other case, the date on which the agreement is entered into.
 
-## 11. Adjustments[^key-d111432d91113ab5b273b7a934e53774]
+## 11. Adjustments[^c-d111432d91113ab5b273b7a934e53774]
 
 (1) Where the conditions specified in Article 16(1) and (2) are satisfied, the Department shall pay to the compensator the difference between the amount that has been paid and the amount that ought to have been paid.
 
@@ -243,7 +243,7 @@ then for the purposes of the Order, the primary party shall be regarded as the c
 
 (7) Where paragraph (6) applies, the compensator may recalculate the compensation payment under Article 10 to take account of the fresh certificate of recoverable benefits and may require the repayment to him by the person to whom he made the compensation payment of the difference (if any) between the payment made and the payment as so recalculated.
 
-## 12. Transitional provisions[^key-69ff119763030edbcfa3d8ec95ac4306]
+## 12. Transitional provisions[^c-69ff119763030edbcfa3d8ec95ac4306]
 
 (1) In relation to a compensation payment to which, by virtue of Article 4, the Order applies and subject to paragraph (2), a certificate of total benefit issued under Part IV of the Administration Act shall be treated on or after 6th October 1997 (“the commencement date”) as a certificate of recoverable benefits issued under the Order and the amount of total benefit treated as that of recoverable benefits.
 
@@ -306,11 +306,11 @@ Articles 6(9), 16(2) to (4), 18(1) and (2), 20(1) to (5), 21, 23(3), 25(1), (2),
 
 [^f00002]: Footnote: S.I. [1997/1183 (N.I. 12)](https://www.legislation.gov.uk/nisi/1997/1183)
 
-[^key-bb240a4aaf0dbfe5f4243ac1089db3d9]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-bb240a4aaf0dbfe5f4243ac1089db3d9]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-74eb58876f335bdc2562bd29635dd03e]: Commencement: Reg. 2 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-74eb58876f335bdc2562bd29635dd03e]: Commencement: Reg. 2 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
 [^f00004]: Footnote: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)
 
@@ -330,24 +330,24 @@ Articles 6(9), 16(2) to (4), 18(1) and (2), 20(1) to (5), 21, 23(3), 25(1), (2),
 
 [^f00012]: Footnote: S.I. [1995/866](https://www.legislation.gov.uk/uksi/1995/866)
 
-[^key-af1a5d92055619c9357be993c75fcc57]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-af1a5d92055619c9357be993c75fcc57]: Commencement: Reg. 3 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
 [^f00013]: Footnote: *See* Article 5 of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997
 
-[^key-db84923eda9e6824802d3f75f88185c1]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-db84923eda9e6824802d3f75f88185c1]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
-[^key-16c27c4935d7bf898801a075b5e6399a]: Commencement: Reg. 5 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-16c27c4935d7bf898801a075b5e6399a]: Commencement: Reg. 5 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
-[^key-c74a8c5d6b310183208be8ad88b4bc4f]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-c74a8c5d6b310183208be8ad88b4bc4f]: Commencement: Reg. 6 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
-[^key-92b4337b0c6d0b72859439a137ca6f8b]: Commencement: Reg. 7 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-92b4337b0c6d0b72859439a137ca6f8b]: Commencement: Reg. 7 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
-[^key-5c32bf4376b66e81b344b28fcc5885a1]: Commencement: Reg. 8 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-5c32bf4376b66e81b344b28fcc5885a1]: Commencement: Reg. 8 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
-[^key-540f455c485113535fce480050c14728]: Commencement: Reg. 9 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-540f455c485113535fce480050c14728]: Commencement: Reg. 9 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
-[^key-dddb74109cf2bb349a1c905d09c7c905]: Commencement: Reg. 10 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-dddb74109cf2bb349a1c905d09c7c905]: Commencement: Reg. 10 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
-[^key-d111432d91113ab5b273b7a934e53774]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-d111432d91113ab5b273b7a934e53774]: Commencement: Reg. 11 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
 
-[^key-69ff119763030edbcfa3d8ec95ac4306]: Commencement: Reg. 12 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)
+[^c-69ff119763030edbcfa3d8ec95ac4306]: Commencement: Reg. 12 in operation at 6.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/429/regulation/1/1)

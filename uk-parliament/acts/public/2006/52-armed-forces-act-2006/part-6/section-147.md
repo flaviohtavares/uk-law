@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Powers of the SAC[^key-176d78a9b6445adfae4e3a1b509a7593][^key-993040172b277cd2fcbb1f4b3bea4d2d]
+## 147. Powers of the SAC[^c-176d78a9b6445adfae4e3a1b509a7593][^c-993040172b277cd2fcbb1f4b3bea4d2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ the court must take account of any period of the original term of detention that
 
 ## Annotations
 
-[^key-176d78a9b6445adfae4e3a1b509a7593]: Commencement: S. 147 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-176d78a9b6445adfae4e3a1b509a7593]: Commencement: S. 147 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-993040172b277cd2fcbb1f4b3bea4d2d]: Commencement: S. 147 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-993040172b277cd2fcbb1f4b3bea4d2d]: Commencement: S. 147 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

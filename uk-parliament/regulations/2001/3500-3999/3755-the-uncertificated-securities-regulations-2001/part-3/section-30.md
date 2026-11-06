@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Registration of linked transfers[^key-195616c9f95a770bc8aab1cec385bc92]
+## 30. Registration of linked transfers[^c-195616c9f95a770bc8aab1cec385bc92]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ unless one or more of those transfers may not be registered by virtue of the fac
 
 ## Annotations
 
-[^key-195616c9f95a770bc8aab1cec385bc92]: Commencement: Reg. 30 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-195616c9f95a770bc8aab1cec385bc92]: Commencement: Reg. 30 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

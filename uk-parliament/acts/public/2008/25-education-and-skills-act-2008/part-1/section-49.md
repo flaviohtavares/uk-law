@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) A local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in England must make arrangements for enabling a young person to whom an attendance notice is given by the authority to appeal against—
+(1) A local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in England must make arrangements for enabling a young person to whom an attendance notice is given by the authority to appeal against—
 
 - (a) the giving of the attendance notice;
 - (b) the description of education or training specified in the attendance notice;
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

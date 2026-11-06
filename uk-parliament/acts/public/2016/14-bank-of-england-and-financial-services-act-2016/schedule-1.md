@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Prudential Regulation Committee[^key-6aab1ad462dded89a5a7149e5c8cf249]
+## SCHEDULE 1 — Prudential Regulation Committee[^c-6aab1ad462dded89a5a7149e5c8cf249]
 
 *Extent: E+W+S+N.I.*
 
@@ -236,4 +236,4 @@ Section 13
 
 ## Annotations
 
-[^key-6aab1ad462dded89a5a7149e5c8cf249]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2016/14/schedule/1) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)
+[^c-6aab1ad462dded89a5a7149e5c8cf249]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2016/14/schedule/1) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)

@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Requirement for pavement café licence
 
-### 1. Meaning of “pavement café licence” and other key terms[^key-7e3ddfade52ab325258da3d104bd28b7]
+### 1. Meaning of “pavement café licence” and other key terms[^c-7e3ddfade52ab325258da3d104bd28b7]
 
 (1) In this Act a “**pavement café licence**” means a licence authorising the licence holder to place on a public area (identified by the licence) temporary furniture for use for the consumption of food or drink supplied, in the course of a business carried on by the licence holder, in or from premises specified in the licence.
 
@@ -61,7 +61,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (7) In this Act references to placing a thing are to placing it personally or by an employee or agent.
 
-### 2. Offence of placing furniture on public area without pavement café licence[^key-55f10bc64b6e2598ae70b8eb1fecbab5]
+### 2. Offence of placing furniture on public area without pavement café licence[^c-55f10bc64b6e2598ae70b8eb1fecbab5]
 
 (1) Subject to subsection (2), if at any time while a business involving the supply of food or drink in or from any premises to members of the public, or of a section of the public, is being carried on (“the time in question”)—
 
@@ -90,7 +90,7 @@ each responsible person commits an offence.
 
 ## Application for licence
 
-### 3. Application for licence[^key-933c1a39177a45575ea0268d1713c07a]
+### 3. Application for licence[^c-933c1a39177a45575ea0268d1713c07a]
 
 (1) A person who carries on, or proposes to carry on, a relevant business may apply to the relevant district council for a pavement café licence in respect of premises specified in the application.
 
@@ -112,7 +112,7 @@ each responsible person commits an offence.
 - “**a relevant business**” means a business involving the supply of food or drink to members of the public, or of a section of the public;
 - “**the relevant district council**” means the council in whose district the premises specified in the application are situated.
 
-### 4. Grant or refusal of licence[^key-c7ff3060fefdff0a825ff4622f626814]
+### 4. Grant or refusal of licence[^c-c7ff3060fefdff0a825ff4622f626814]
 
 (1) A council must grant an application for a pavement café licence which is made to it in accordance with this Act unless it considers that it ought to refuse the application on one or more of the grounds set out in subsection (2).
 
@@ -137,7 +137,7 @@ each responsible person commits an offence.
 
 (6) In deciding an application for a pavement café licence, the council must take into account any representations relating to the application which are made by any person to the council within the period allowed for representations (as defined by section 10(5)).
 
-### 5. Form, duration etc. of licence[^key-209044eedaff489ed0b6fb5c5c60118e]
+### 5. Form, duration etc. of licence[^c-209044eedaff489ed0b6fb5c5c60118e]
 
 (1) A pavement café licence must be in the prescribed form and must—
 
@@ -168,7 +168,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 (7) A licence holder may at any time surrender a pavement café licence to the council and the licence shall then cease to be valid.
 
-### 6. Conditions of licence[^key-6ef52c9b59d6dfa71026ec4045b17b22]
+### 6. Conditions of licence[^c-6ef52c9b59d6dfa71026ec4045b17b22]
 
 (1) A pavement café licence must include a condition requiring temporary furniture not to be placed for use as mentioned in the licence on any public area other than the area covered by the licence.
 
@@ -189,7 +189,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 ## Renewal
 
-### 7. Renewal of licence[^key-d40f83d7e1a9d1fd3fffbad3e7e1a21b]
+### 7. Renewal of licence[^c-d40f83d7e1a9d1fd3fffbad3e7e1a21b]
 
 (1) A person who holds a pavement café licence in respect of any premises may apply to the council in whose district the premises are situated for renewal of the licence.
 
@@ -219,7 +219,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 ## Variation on application of licence holder
 
-### 8. Variation of section 6(3) conditions or of area covered by licence[^key-745b1f72639869ce2d4735188caa9c86]
+### 8. Variation of section 6(3) conditions or of area covered by licence[^c-745b1f72639869ce2d4735188caa9c86]
 
 (1) A person who holds a pavement café licence in respect of any premises may apply to the council in whose district the premises are situated for—
 
@@ -248,7 +248,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 (10) In section 4(2)(a) as it applies for the purposes of subsection (5) above, the reference to the public area where the applicant wishes to place temporary furniture for use for the consumption of food or drink is to be read as a reference to the part of that area which is not already covered by the licence.
 
-### 9. Variation by removal of alcohol prohibition[^key-154b09226f800962d81a6bc378fe9a30]
+### 9. Variation by removal of alcohol prohibition[^c-154b09226f800962d81a6bc378fe9a30]
 
 (1) This section applies where—
 
@@ -274,7 +274,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 ## Applications: general provision
 
-### 10. Applications: general provision[^key-346a78af08a7ef5edc740b3077ebdac5]
+### 10. Applications: general provision[^c-346a78af08a7ef5edc740b3077ebdac5]
 
 (1) In this section “**an application**” means an application for the grant or renewal of a pavement café licence or for the variation of a pavement café licence under section 8 or 9.
 
@@ -306,7 +306,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 (9) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 11. Notice of application to be displayed[^key-c2ff8ce726f43f003682b2d06d2b6898]
+### 11. Notice of application to be displayed[^c-c2ff8ce726f43f003682b2d06d2b6898]
 
 (1) This section applies where an application is made for the grant or renewal of a pavement café licence or for the variation of a pavement café licence under section 8 or 9.
 
@@ -324,7 +324,7 @@ but this is subject to any power under the following provisions of this Act to v
 - (e) indicates that representations relating to the application may be made in writing to the council until the end of that period; and
 - (f) contains such other information as the council may specify.
 
-### 12. Fees[^key-da50be2a613c50c3c43da613b7b189a0]
+### 12. Fees[^c-da50be2a613c50c3c43da613b7b189a0]
 
 (1) A council may charge fees—
 
@@ -371,7 +371,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 ## Change in persons carrying on business
 
-### 13. Change in persons carrying on business[^key-fc9dbdb526da1645194ff5f1343ea208]
+### 13. Change in persons carrying on business[^c-fc9dbdb526da1645194ff5f1343ea208]
 
 (1) Subsection (2) applies where—
 
@@ -401,7 +401,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 ## Revocation, suspension and compulsory variation
 
-### 14. Revocation of licence[^key-276cf57d6b4b064c075ac85b727d42f8]
+### 14. Revocation of licence[^c-276cf57d6b4b064c075ac85b727d42f8]
 
 (1) A council may at any time revoke a pavement café licence if it is satisfied—
 
@@ -416,7 +416,7 @@ but this is subject to any power under the following provisions of this Act to v
 - (a) subsection (1)(a) applies as if the reference to the public area were to any of the public areas; and
 - (b) subsection (1)(b) applies as if the reference to that area were to those areas.
 
-### 15. Suspension of licence[^key-764f5abc271fd3d6cfe63e676e961d8e]
+### 15. Suspension of licence[^c-764f5abc271fd3d6cfe63e676e961d8e]
 
 (1) A council may at any time suspend a pavement café licence if it is satisfied—
 
@@ -435,7 +435,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 (5) Subsection (2) of section 14 applies for the purposes of subsection (1)(a) and (b) above as it applies for the purposes of subsection (1)(a) and (b) of that section.
 
-### 16. Compulsory variation of section 6(3) conditions[^key-e18d75090e3e4bc6d70a0f96ed4ccf41]
+### 16. Compulsory variation of section 6(3) conditions[^c-e18d75090e3e4bc6d70a0f96ed4ccf41]
 
 (1) A council may at any time vary a pavement café licence by—
 
@@ -444,7 +444,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 (2) But a council may make a variation under this section only if it considers that it ought to do so as a result of a material change in the circumstances on which the conditions specified in the licence under section 6(3) were based (or on the basis of which a particular condition was not so specified).
 
-### 17. Compulsory variation: prohibition of alcohol[^key-454375f679ab38665e215b016cc4f630]
+### 17. Compulsory variation: prohibition of alcohol[^c-454375f679ab38665e215b016cc4f630]
 
 (1) A council may at any time vary a pavement café licence which does not include an alcohol condition by inserting such a condition, but this is subject to subsection (3).
 
@@ -455,7 +455,7 @@ but this is subject to any power under the following provisions of this Act to v
 - (a) the premises specified in the licence are premises licensed under the Licensing Order of a kind mentioned in Article 5(1)(b) of that Order (off-licences); or
 - (b) the council is satisfied that permitting persons to consume intoxicating liquor when using furniture on the area covered by the licence would be likely to result in disorder.
 
-### 18. Compulsory variation of area covered by licence[^key-a80d562528199951232c9337ff00f7a8]
+### 18. Compulsory variation of area covered by licence[^c-a80d562528199951232c9337ff00f7a8]
 
 (1) This section applies if at any time a council is satisfied, as respects part of the public area where a pavement café licence permits the placing of temporary furniture for use for the consumption of food or drink—
 
@@ -469,7 +469,7 @@ but this is subject to any power under the following provisions of this Act to v
 - (a) the reference in subsection (1) to part of the public area includes any of those public areas, or any part of any of those areas (and the references in subsection (1)(a) and (b) to “that part” are to be read accordingly); and
 - (b) the power under subsection (2) to make a variation of the area covered by the licence includes power to vary the licence so that one or more of the areas covered by the licence (or any part or parts of them) cease to be covered by the licence.
 
-### 19. Notice of revocation, suspension or compulsory variation[^key-47eeb9f3744428db043ddc4405428c02]
+### 19. Notice of revocation, suspension or compulsory variation[^c-47eeb9f3744428db043ddc4405428c02]
 
 (1) Before deciding to revoke, suspend or make a compulsory variation of a pavement café licence, a council must (subject to subsection (5)) notify the licence holder in writing of its proposal to revoke, suspend or vary the licence.
 
@@ -510,7 +510,7 @@ but this is subject to any power under the following provisions of this Act to v
 
 ## Matters to be recorded in register
 
-### 20. Matters to be recorded in register under Licensing Order[^key-07dc80c6a89d6cbc6a2ec7e1d724593a]
+### 20. Matters to be recorded in register under Licensing Order[^c-07dc80c6a89d6cbc6a2ec7e1d724593a]
 
 (1) Regulations may make provision—
 
@@ -534,7 +534,7 @@ which applies or corresponds to any provision of the Licensing Order relating to
 
 ## Appeals
 
-### 21. Appeals[^key-4a6b4640b763e586c4d8ebdf1c0f82f8]
+### 21. Appeals[^c-4a6b4640b763e586c4d8ebdf1c0f82f8]
 
 (1) Where an application for—
 
@@ -570,7 +570,7 @@ that person may appeal against the variation, revocation or suspension.
 
 ## Powers of entry, removal, etc.
 
-### 22. Powers of entry and inspection[^key-882397d26bf36a3f07a7c586565a95eb]
+### 22. Powers of entry and inspection[^c-882397d26bf36a3f07a7c586565a95eb]
 
 (1) An authorised officer may at any reasonable time, in order to obtain information required by the council for a purpose mentioned in subsection (2)—
 
@@ -588,7 +588,7 @@ that person may appeal against the variation, revocation or suspension.
 
 (4) Any power under this section to enter and inspect premises does not apply to any part of the premises used as a dwelling.
 
-### 23. Power to remove unlicensed furniture[^key-41b3d7b3b2daadb3be5633e870f044df]
+### 23. Power to remove unlicensed furniture[^c-41b3d7b3b2daadb3be5633e870f044df]
 
 (1) A council may cause any temporary furniture which is unlicensed to be removed from a public area and stored.
 
@@ -611,7 +611,7 @@ that person may appeal against the variation, revocation or suspension.
 
 the council may take such steps as are reasonable to sell it or to dispose of it in such other way as the council thinks fit.
 
-### 24. Offence of obstruction[^key-41a8cac1de0df0438068d3d0e09c5aba]
+### 24. Offence of obstruction[^c-41a8cac1de0df0438068d3d0e09c5aba]
 
 (1) A person who intentionally obstructs an authorised officer acting in the exercise of powers under section 22 or 23 commits an offence.
 
@@ -619,7 +619,7 @@ the council may take such steps as are reasonable to sell it or to dispose of it
 
 ## Supplementary
 
-### 25. Service of notices and documents[^key-d817310ef3115eb6e522038cc809b635]
+### 25. Service of notices and documents[^c-d817310ef3115eb6e522038cc809b635]
 
 (1) Without prejudice to section 24(2) of the Interpretation Act (Northern Ireland) 1954, any notice or other document required or authorised to be served on or sent or given to any person under this Act may be served, sent or given, in a case where an address for service using electronic communications has been given by that person, by sending it using electronic communications, in accordance with the condition in subsection (2), to that person at that address.
 
@@ -635,23 +635,23 @@ and for this purpose “**legible in all material respects**” means that the i
 
 (4) In this section “**electronic communication**” has the same meaning as in the Electronic Communications Act (Northern Ireland) 2001.
 
-### 26. Power to make further provision[^key-c684ce7aa89de8e527161385e7cd8445]
+### 26. Power to make further provision[^c-c684ce7aa89de8e527161385e7cd8445]
 
 (1) The Department may by regulations make such supplementary, incidental, consequential or transitional provision as it considers necessary or expedient for the purposes of, or in consequence of, or for giving full effect to, any provision made by or under this Act.
 
 (2) The provision which may be made under subsection (1) includes provision which amends or modifies any statutory provision (including this Act) or any document.
 
-### 27. Regulations[^key-9ecd7187713ad1fa4ddcd87f881009be]
+### 27. Regulations[^c-9ecd7187713ad1fa4ddcd87f881009be]
 
 (1) Subject to subsection (2), regulations made under this Act are subject to negative resolution.
 
 (2) Regulations which include provision under section 26(1) that amends any statutory provision may not be made unless a draft of the regulations has been laid before and approved by a resolution of the Assembly.
 
-### 28. Consequential amendments[^key-3380ff0be6be36ac54ab9eab6b3a41b3]
+### 28. Consequential amendments[^c-3380ff0be6be36ac54ab9eab6b3a41b3]
 
 The statutory provisions set out in the Schedule have effect subject to the consequential amendments specified in that Schedule.
 
-### 29. Byelaws[^key-084bca9521973abea182c4d76eead896]
+### 29. Byelaws[^c-084bca9521973abea182c4d76eead896]
 
 (1) Where, by creating an offence, a byelaw prohibits the consumption of intoxicating liquor in a particular place, the byelaw does not apply to any relevant pavement café area within that place.
 
@@ -730,7 +730,7 @@ Section 28.
 
 ### The Roads (Northern Ireland) Order 1993 (NI 15)
 
-**1.**[^key-ce76893ef9655c29181926d919a65a9e] In Article 71(2) (offence of erecting structure on road), after paragraph (b) insert—
+**1.**[^c-ce76893ef9655c29181926d919a65a9e] In Article 71(2) (offence of erecting structure on road), after paragraph (b) insert—
 
 > - (ba) in pursuance of a pavement café licence under the Licensing of Pavement Cafés Act (Northern Ireland) 2014; or
 
@@ -738,7 +738,7 @@ Section 28.
 
 ### The Licensing (Northern Ireland) Order 1996 (NI 22)
 
-**2.**[^key-d6b38e9704b2bd0499ed5d1d60464f84] After Part 5 insert—
+**2.**[^c-d6b38e9704b2bd0499ed5d1d60464f84] After Part 5 insert—
 
 > **PART 5A — PAVEMENT CAFE AREAS**
 >
@@ -855,7 +855,7 @@ Section 28.
 
 ### The Street Trading Act (Northern Ireland) 2001 (c. 8)
 
-**3.**[^key-20daff39bb40359505bf33e576ff781f] (1) Section 2 (activities which are not street trading) is amended as follows.
+**3.**[^c-20daff39bb40359505bf33e576ff781f] (1) Section 2 (activities which are not street trading) is amended as follows.
 
 (2) In subsection (1), after paragraph (e) insert—
 
@@ -875,7 +875,7 @@ Section 28.
 
 ### The Criminal Justice (Northern Ireland) Order 2008 (NI 1)
 
-**4.**[^key-47f213318457dca774722455ac5bbd9c] (1) Article 70 (designated public places) is amended as follows.
+**4.**[^c-47f213318457dca774722455ac5bbd9c] (1) Article 70 (designated public places) is amended as follows.
 
 (2) In paragraph (2) (places that are not designated public places for the purposes of Articles 68 to 71 of that Order), after sub-paragraph (a) insert—
 
@@ -904,7 +904,7 @@ Section 28.
 
 .
 
-**5.**[^key-473ae819d2d7ea39adb3abf9b18a884a] (1) Article 72 (interpretation of Articles 68 to 71) is amended as follows.
+**5.**[^c-473ae819d2d7ea39adb3abf9b18a884a] (1) Article 72 (interpretation of Articles 68 to 71) is amended as follows.
 
 (2) In the definition of “intoxicating liquor”, “licensed premises” and “occasional licence”—
 
@@ -919,70 +919,70 @@ Section 28.
 
 ## Annotations
 
-[^key-7e3ddfade52ab325258da3d104bd28b7]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2014/9/section/1) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-7e3ddfade52ab325258da3d104bd28b7]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2014/9/section/1) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-55f10bc64b6e2598ae70b8eb1fecbab5]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2014/9/section/2) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-55f10bc64b6e2598ae70b8eb1fecbab5]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2014/9/section/2) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-933c1a39177a45575ea0268d1713c07a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/9/section/3) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-933c1a39177a45575ea0268d1713c07a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/9/section/3) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-c7ff3060fefdff0a825ff4622f626814]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/9/section/4) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-c7ff3060fefdff0a825ff4622f626814]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/9/section/4) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-209044eedaff489ed0b6fb5c5c60118e]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/9/section/5) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-209044eedaff489ed0b6fb5c5c60118e]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/9/section/5) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-6ef52c9b59d6dfa71026ec4045b17b22]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/9/section/6) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-6ef52c9b59d6dfa71026ec4045b17b22]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/9/section/6) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-d40f83d7e1a9d1fd3fffbad3e7e1a21b]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2014/9/section/7) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-d40f83d7e1a9d1fd3fffbad3e7e1a21b]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2014/9/section/7) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-745b1f72639869ce2d4735188caa9c86]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2014/9/section/8) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-745b1f72639869ce2d4735188caa9c86]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2014/9/section/8) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-154b09226f800962d81a6bc378fe9a30]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2014/9/section/9) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-154b09226f800962d81a6bc378fe9a30]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2014/9/section/9) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-346a78af08a7ef5edc740b3077ebdac5]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/9/section/10) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-346a78af08a7ef5edc740b3077ebdac5]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/9/section/10) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-c2ff8ce726f43f003682b2d06d2b6898]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/9/section/11) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-c2ff8ce726f43f003682b2d06d2b6898]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/9/section/11) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-da50be2a613c50c3c43da613b7b189a0]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2014/9/section/12) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-da50be2a613c50c3c43da613b7b189a0]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2014/9/section/12) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-fc9dbdb526da1645194ff5f1343ea208]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2014/9/section/13) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-fc9dbdb526da1645194ff5f1343ea208]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2014/9/section/13) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-276cf57d6b4b064c075ac85b727d42f8]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2014/9/section/14) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-276cf57d6b4b064c075ac85b727d42f8]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2014/9/section/14) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-764f5abc271fd3d6cfe63e676e961d8e]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2014/9/section/15) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-764f5abc271fd3d6cfe63e676e961d8e]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2014/9/section/15) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-e18d75090e3e4bc6d70a0f96ed4ccf41]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2014/9/section/16) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-e18d75090e3e4bc6d70a0f96ed4ccf41]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2014/9/section/16) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-454375f679ab38665e215b016cc4f630]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2014/9/section/17) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-454375f679ab38665e215b016cc4f630]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2014/9/section/17) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-a80d562528199951232c9337ff00f7a8]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2014/9/section/18) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-a80d562528199951232c9337ff00f7a8]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2014/9/section/18) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-47eeb9f3744428db043ddc4405428c02]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2014/9/section/19) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-47eeb9f3744428db043ddc4405428c02]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2014/9/section/19) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-07dc80c6a89d6cbc6a2ec7e1d724593a]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2014/9/section/20) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-07dc80c6a89d6cbc6a2ec7e1d724593a]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2014/9/section/20) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-4a6b4640b763e586c4d8ebdf1c0f82f8]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2014/9/section/21) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-4a6b4640b763e586c4d8ebdf1c0f82f8]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2014/9/section/21) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-882397d26bf36a3f07a7c586565a95eb]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2014/9/section/22) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-882397d26bf36a3f07a7c586565a95eb]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2014/9/section/22) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-41b3d7b3b2daadb3be5633e870f044df]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2014/9/section/23) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-41b3d7b3b2daadb3be5633e870f044df]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2014/9/section/23) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-41a8cac1de0df0438068d3d0e09c5aba]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2014/9/section/24) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-41a8cac1de0df0438068d3d0e09c5aba]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2014/9/section/24) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-d817310ef3115eb6e522038cc809b635]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2014/9/section/25) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-d817310ef3115eb6e522038cc809b635]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2014/9/section/25) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-c684ce7aa89de8e527161385e7cd8445]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2014/9/section/26) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-c684ce7aa89de8e527161385e7cd8445]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2014/9/section/26) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-9ecd7187713ad1fa4ddcd87f881009be]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2014/9/section/27) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-9ecd7187713ad1fa4ddcd87f881009be]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2014/9/section/27) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-3380ff0be6be36ac54ab9eab6b3a41b3]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2014/9/section/28) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-3380ff0be6be36ac54ab9eab6b3a41b3]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2014/9/section/28) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-084bca9521973abea182c4d76eead896]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2014/9/section/29) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-084bca9521973abea182c4d76eead896]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2014/9/section/29) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-ce76893ef9655c29181926d919a65a9e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/1) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-ce76893ef9655c29181926d919a65a9e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/1) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-d6b38e9704b2bd0499ed5d1d60464f84]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/2) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-d6b38e9704b2bd0499ed5d1d60464f84]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/2) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-20daff39bb40359505bf33e576ff781f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/3) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-20daff39bb40359505bf33e576ff781f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/3) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-47f213318457dca774722455ac5bbd9c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/4) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-47f213318457dca774722455ac5bbd9c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/4) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-473ae819d2d7ea39adb3abf9b18a884a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/5) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-473ae819d2d7ea39adb3abf9b18a884a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/5) in operation at 1.10.2016 by [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)

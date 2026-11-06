@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 143. Transfer of status[^key-085d5c738370fa4571c2a90d60e787cb]
+## 143. Transfer of status[^c-085d5c738370fa4571c2a90d60e787cb]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-085d5c738370fa4571c2a90d60e787cb]: Commencement: Reg. 143 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-085d5c738370fa4571c2a90d60e787cb]: Commencement: Reg. 143 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

@@ -24,9 +24,9 @@ summary: ''
 
 (2) The pension under this regulation shall be at a yearly rate of 1/80th of final year’s pensionable pay for each complete year of pensionable service, plus the relevant daily proportion of that rate for each additional day of such service.
 
-(3) A member who stays in pensionable employment until age 75[^key-60560abee5f371e5180135cd09519593] shall be entitled to receive a pension under this regulation at that age even if he does not retire from such employment.
+(3) A member who stays in pensionable employment until age 75[^c-60560abee5f371e5180135cd09519593] shall be entitled to receive a pension under this regulation at that age even if he does not retire from such employment.
 
-(4)[^key-75ad48427169607bc23bd761e360b379] Subject to paragraph (5), where a member who leaves pensionable employment on or after 1st April 2008 becomes entitled to a pension under this regulation, the Secretary of State may discharge the Secretary of State’s liability for that pension by the payment of a lump sum of an amount consistent with—[^key-f2ce035ee7af8b095c2de906a8b7202f]
+(4)[^c-75ad48427169607bc23bd761e360b379] Subject to paragraph (5), where a member who leaves pensionable employment on or after 1st April 2008 becomes entitled to a pension under this regulation, the Secretary of State may discharge the Secretary of State’s liability for that pension by the payment of a lump sum of an amount consistent with—[^c-f2ce035ee7af8b095c2de906a8b7202f]
 
 - (a) the contracting-out requirements; and
 - (b) the preservation requirements.
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-60560abee5f371e5180135cd09519593]: Textual amendment: Word in [reg. E1(3)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E1/3) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/9/2)
+[^c-60560abee5f371e5180135cd09519593]: Textual amendment: Word in [reg. E1(3)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E1/3) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/9/2)
 
-[^key-75ad48427169607bc23bd761e360b379]: Textual amendment: [Regs. E1(4)-(8)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E1/4) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2008/654/regulation/9/3)
+[^c-75ad48427169607bc23bd761e360b379]: Textual amendment: [Regs. E1(4)-(8)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E1/4) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2008/654/regulation/9/3)
 
-[^key-f2ce035ee7af8b095c2de906a8b7202f]: Textual amendment: Words in [reg. E1(4)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E1/4) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/418/regulation/7)
+[^c-f2ce035ee7af8b095c2de906a8b7202f]: Textual amendment: Words in [reg. E1(4)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E1/4) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/418/regulation/7)

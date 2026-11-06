@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Private rights[^key-d0a1cdcb7fc22a5c100eb68fd1e38138]
+## 21. Private rights[^c-d0a1cdcb7fc22a5c100eb68fd1e38138]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-d0a1cdcb7fc22a5c100eb68fd1e38138]: Commencement: Art. 21 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-d0a1cdcb7fc22a5c100eb68fd1e38138]: Commencement: Art. 21 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

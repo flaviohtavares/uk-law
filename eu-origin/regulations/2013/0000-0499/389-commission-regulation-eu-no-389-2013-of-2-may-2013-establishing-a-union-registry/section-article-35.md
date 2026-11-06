@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 35. Verified emissions data for an installation or aircraft operator[^key-268a711163bb5dd766b92048c15f71af]
+## Article 35. Verified emissions data for an installation or aircraft operator[^c-268a711163bb5dd766b92048c15f71af]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-268a711163bb5dd766b92048c15f71af]: Textual amendment: [Title 2 Ch. 1](https://www.legislation.gov.uk/eur/2013/389/title/II/chapter/1) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/3)
+[^c-268a711163bb5dd766b92048c15f71af]: Textual amendment: [Title 2 Ch. 1](https://www.legislation.gov.uk/eur/2013/389/title/II/chapter/1) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/3)

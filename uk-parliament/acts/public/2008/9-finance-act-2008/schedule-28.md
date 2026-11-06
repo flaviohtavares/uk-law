@@ -94,23 +94,23 @@ Section 91
 
 ### Amendments of IHTA 1984
 
-**6.**[^key-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-f4e22ef100c93e77078365b14bcd9048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commencement
 
@@ -122,4 +122,4 @@ Section 91
 
 ## Annotations
 
-[^key-f4e22ef100c93e77078365b14bcd9048]: Textual amendment: Sch. 28 paras. 6-14 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(d)(ii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/d/ii)
+[^c-f4e22ef100c93e77078365b14bcd9048]: Textual amendment: Sch. 28 paras. 6-14 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(d)(ii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/d/ii)

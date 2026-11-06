@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21J. Power to modify functions of CAA etc relating to aviation security[^key-63780cf77d131fbff785f65bbd74d8d6]
+## 21J. Power to modify functions of CAA etc relating to aviation security[^c-63780cf77d131fbff785f65bbd74d8d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63780cf77d131fbff785f65bbd74d8d6]: Textual amendment: S. 21J inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 81](https://www.legislation.gov.uk/ukpga/2012/19/section/81), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/262/article/3/d)
+[^c-63780cf77d131fbff785f65bbd74d8d6]: Textual amendment: S. 21J inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 81](https://www.legislation.gov.uk/ukpga/2012/19/section/81), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/262/article/3/d)

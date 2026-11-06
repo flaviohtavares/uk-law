@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — MATTERS TO BE MONITORED AT A CARE HOME WHERE CHILDREN ARE ACCOMMODATED[^key-bb7e39c4828d00db75bf1115a9686214]
+## SCHEDULE 6 — MATTERS TO BE MONITORED AT A CARE HOME WHERE CHILDREN ARE ACCOMMODATED[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -24,32 +24,32 @@ summary: ''
 
 Regulations 25 and 36(a)
 
-**1.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-bb7e39c4828d00db75bf1115a9686214] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb7e39c4828d00db75bf1115a9686214]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/324) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)
+[^c-bb7e39c4828d00db75bf1115a9686214]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/324) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)

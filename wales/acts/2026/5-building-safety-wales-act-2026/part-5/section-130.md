@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Criminal liability of senior officers of bodies[^key-4a83d95f6bfabb71a98538f4401c8be5]
+## 130. Criminal liability of senior officers of bodies[^c-4a83d95f6bfabb71a98538f4401c8be5]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ that senior officer or person (as well as the body corporate, partnership or ass
 
 ## Annotations
 
-[^key-4a83d95f6bfabb71a98538f4401c8be5]: Commencement: S. 130 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-4a83d95f6bfabb71a98538f4401c8be5]: Commencement: S. 130 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

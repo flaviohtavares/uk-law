@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Information to be contained in proposals for discontinuance of schools[^key-ab15242a2c534a6a8341cffc89907514]
+## 11. Information to be contained in proposals for discontinuance of schools[^c-ab15242a2c534a6a8341cffc89907514]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Discontinuance proposals must contain the information specified in Schedule 2.
 
 ## Annotations
 
-[^key-ab15242a2c534a6a8341cffc89907514]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/3109/regulation/11) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)
+[^c-ab15242a2c534a6a8341cffc89907514]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/3109/regulation/11) in force at 28.1.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/3109/regulation/1)

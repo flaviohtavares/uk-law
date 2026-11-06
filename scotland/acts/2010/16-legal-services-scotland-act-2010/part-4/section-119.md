@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Application by the profession[^key-7ff75541ad1fb81e729feb802e29eb1f]
+## 119. Application by the profession[^c-7ff75541ad1fb81e729feb802e29eb1f]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ff75541ad1fb81e729feb802e29eb1f]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2010/16/section/119) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-7ff75541ad1fb81e729feb802e29eb1f]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2010/16/section/119) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

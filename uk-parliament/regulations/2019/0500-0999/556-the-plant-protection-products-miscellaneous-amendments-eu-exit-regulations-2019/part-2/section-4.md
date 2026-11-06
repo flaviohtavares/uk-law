@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Chapter 2[^key-bcf068ea87f36286c5d8c1fc1db65a9d]
+## 4. Chapter 2[^c-bcf068ea87f36286c5d8c1fc1db65a9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
   > - (c) in relation to Scotland—
   >   - (i) by the Secretary of State with the consent of the Scottish Ministers, or
   >   - (ii) by the Scottish Ministers;
-  > - (d)[^key-8c3b3b9358ee86df051e811da0b0ceef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (d)[^c-8c3b3b9358ee86df051e811da0b0ceef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   .
 
@@ -291,7 +291,7 @@ summary: ''
 >
 > - (a) in relation to Wales, with the consent of the Welsh Ministers;
 > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-> - (c)[^key-e8d48d8275f7bc10b4434100fae4e8fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-e8d48d8275f7bc10b4434100fae4e8fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **5.**
 >
@@ -314,7 +314,7 @@ summary: ''
 > - (a) the Environment Agency;
 > - (b) the Natural Resources Body for Wales;
 > - (c) the Scottish Environment Protection Agency;
-> - (d)[^key-e8d48d8275f7bc10b4434100fae4e8fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-e8d48d8275f7bc10b4434100fae4e8fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
@@ -419,7 +419,7 @@ summary: ''
   >
   > - (a) in relation to Wales, with the consent of the Welsh Ministers;
   > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-  > - (c)[^key-a1e5207fb270429ce11bfbf2b7397beb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (c)[^c-a1e5207fb270429ce11bfbf2b7397beb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   >
   > **6.**
   >
@@ -454,7 +454,7 @@ summary: ''
   >
   > - (a) in relation to Wales, with the consent of the Welsh Ministers;
   > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-  > - (c)[^key-a6ed561bf8813d680dcf51619b44787b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (c)[^c-a6ed561bf8813d680dcf51619b44787b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   >
   > **6.**
   >
@@ -489,7 +489,7 @@ summary: ''
 >
 > In making a decision under paragraph 1, the competent authority must have regard to—
 >
-> - (a)[^key-5c7b20891e2c55541e4d4ed422eb0d15] the conclusion of the assessing competent authority and the opinion of the Agency, if any, referred to in Article 37(4) of Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272);
+> - (a)[^c-5c7b20891e2c55541e4d4ed422eb0d15] the conclusion of the assessing competent authority and the opinion of the Agency, if any, referred to in Article 37(4) of Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272);
 > - (b) any comments received by the assessing competent authority in relation to the application, including any environmental monitoring information submitted by an appropriate agency;
 > - (c) where the competent authority considers it appropriate to obtain it, any independent scientific advice obtained;
 > - (d) where the conditions laid down in Article 7(1) of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council are relevant, the precautionary principle;
@@ -522,7 +522,7 @@ summary: ''
 >
 > - (a) in relation to Wales, with the consent of the Welsh Ministers;
 > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-> - (c)[^key-7a3397dc23b56358efced05dbf7e356c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-7a3397dc23b56358efced05dbf7e356c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **7.**
 >
@@ -639,7 +639,7 @@ summary: ''
 >
 > - (a) in relation to Wales, with the consent of the Welsh Ministers;
 > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-> - (c)[^key-7a3397dc23b56358efced05dbf7e356c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-7a3397dc23b56358efced05dbf7e356c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **10.**
 >
@@ -726,7 +726,7 @@ summary: ''
   >
   > - (a) in relation to Wales, with the consent of the Welsh Ministers;
   > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-  > - (c)[^key-900d7b1c5543ea1df2b0aa0e2c4f4da1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (c)[^c-900d7b1c5543ea1df2b0aa0e2c4f4da1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   >
   > **5G.**
   >
@@ -778,7 +778,7 @@ summary: ''
 >
 > - (a) in relation to Wales, with the consent of the Welsh Ministers;
 > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-> - (c)[^key-3c7866313941197ea4d738f5fcafecb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-3c7866313941197ea4d738f5fcafecb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **8.**
 >
@@ -919,20 +919,20 @@ summary: ''
 
 ## Annotations
 
-[^key-bcf068ea87f36286c5d8c1fc1db65a9d]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-bcf068ea87f36286c5d8c1fc1db65a9d]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-8c3b3b9358ee86df051e811da0b0ceef]: Textual amendment: Words in reg. 4(2)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/a)
+[^c-8c3b3b9358ee86df051e811da0b0ceef]: Textual amendment: Words in reg. 4(2)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/a)
 
-[^key-e8d48d8275f7bc10b4434100fae4e8fa]: Textual amendment: Words in reg. 4(20) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/b)
+[^c-e8d48d8275f7bc10b4434100fae4e8fa]: Textual amendment: Words in reg. 4(20) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/b)
 
-[^key-a1e5207fb270429ce11bfbf2b7397beb]: Textual amendment: Words in reg. 4(25)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(c)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/c)
+[^c-a1e5207fb270429ce11bfbf2b7397beb]: Textual amendment: Words in reg. 4(25)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(c)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/c)
 
-[^key-a6ed561bf8813d680dcf51619b44787b]: Textual amendment: Words in reg. 4(26)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(c)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/c)
+[^c-a6ed561bf8813d680dcf51619b44787b]: Textual amendment: Words in reg. 4(26)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(c)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/c)
 
-[^key-5c7b20891e2c55541e4d4ed422eb0d15]: Textual amendment: Words in reg. 4(27) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/d/i/aa)
+[^c-5c7b20891e2c55541e4d4ed422eb0d15]: Textual amendment: Words in reg. 4(27) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/d/i/aa)
 
-[^key-7a3397dc23b56358efced05dbf7e356c]: Textual amendment: Words in reg. 4(27) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/d/ii)
+[^c-7a3397dc23b56358efced05dbf7e356c]: Textual amendment: Words in reg. 4(27) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/d/ii)
 
-[^key-900d7b1c5543ea1df2b0aa0e2c4f4da1]: Textual amendment: Words in reg. 4(29)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(e)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/e)
+[^c-900d7b1c5543ea1df2b0aa0e2c4f4da1]: Textual amendment: Words in reg. 4(29)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(e)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/e)
 
-[^key-3c7866313941197ea4d738f5fcafecb9]: Textual amendment: Words in reg. 4(30) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(f)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/f)
+[^c-3c7866313941197ea4d738f5fcafecb9]: Textual amendment: Words in reg. 4(30) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(4)(f)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/4/f)

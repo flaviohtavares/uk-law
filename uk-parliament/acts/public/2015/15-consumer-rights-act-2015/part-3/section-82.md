@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Appointment of judges to the Competition Appeal Tribunal[^key-c0f1972cc188cd1d0783d2c6d0268868]
+## 82. Appointment of judges to the Competition Appeal Tribunal[^c-c0f1972cc188cd1d0783d2c6d0268868]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0f1972cc188cd1d0783d2c6d0268868]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2015/15/section/82) in force at 27.5.2015 by [S.I. 2015/1333](https://www.legislation.gov.uk/uksi/2015/1333), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1333/article/2/b)
+[^c-c0f1972cc188cd1d0783d2c6d0268868]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2015/15/section/82) in force at 27.5.2015 by [S.I. 2015/1333](https://www.legislation.gov.uk/uksi/2015/1333), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1333/article/2/b)

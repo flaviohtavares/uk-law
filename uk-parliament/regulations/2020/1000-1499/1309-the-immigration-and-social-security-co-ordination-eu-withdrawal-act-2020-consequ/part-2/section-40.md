@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Amendment of the Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014[^key-b965d5a6f598a348f948b02f77a7da86]
+## 40. Amendment of the Marriage of Same Sex Couples (Conversion of Civil Partnership) Regulations 2014[^c-b965d5a6f598a348f948b02f77a7da86]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b965d5a6f598a348f948b02f77a7da86]: Commencement: Reg. 40 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-b965d5a6f598a348f948b02f77a7da86]: Commencement: Reg. 40 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398981]: Marginal citation: [S.I. 2014/3181](https://www.legislation.gov.uk/uksi/2014/3181).

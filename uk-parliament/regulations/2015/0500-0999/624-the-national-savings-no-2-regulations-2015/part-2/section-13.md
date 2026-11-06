@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Change in the publication of the serial numbers of winning bonds[^key-151eb4226ce71d22389f4d8955ac5a69]
+## 13. Change in the publication of the serial numbers of winning bonds[^c-151eb4226ce71d22389f4d8955ac5a69]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Despite any requirement in the terms and conditions applicable to bonds to publi
 
 ## Annotations
 
-[^key-151eb4226ce71d22389f4d8955ac5a69]: Commencement: Reg. 13 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-151eb4226ce71d22389f4d8955ac5a69]: Commencement: Reg. 13 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

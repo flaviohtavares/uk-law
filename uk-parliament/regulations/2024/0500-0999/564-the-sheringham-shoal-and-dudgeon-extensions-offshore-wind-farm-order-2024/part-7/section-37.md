@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Certification of plans and documents, etc.[^key-d3153d16da12c7fcd64104a1333c5256]
+## 37. Certification of plans and documents, etc.[^c-d3153d16da12c7fcd64104a1333c5256]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3153d16da12c7fcd64104a1333c5256]: Commencement: Art. 37 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-d3153d16da12c7fcd64104a1333c5256]: Commencement: Art. 37 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

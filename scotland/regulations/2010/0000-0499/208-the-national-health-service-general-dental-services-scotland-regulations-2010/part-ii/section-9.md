@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Local directory of dentists[^key-417f6398f13c1799b65b2f2104b41ab7]
+## 9. Local directory of dentists[^c-417f6398f13c1799b65b2f2104b41ab7]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-417f6398f13c1799b65b2f2104b41ab7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/208/regulation/9) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-417f6398f13c1799b65b2f2104b41ab7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/208/regulation/9) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

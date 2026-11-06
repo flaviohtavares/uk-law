@@ -45,11 +45,11 @@ The Department of Agriculture and Rural Development, being designated[^f00001] f
 
 As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], as last amended by Regulation [(EC) No 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council[^f00004], there has been open and transparent public consultation during the preparation of these Regulations.
 
-## 1. Citation and commencement[^key-c348582a5784b5bcbc3927c67606ff76]
+## 1. Citation and commencement[^c-c348582a5784b5bcbc3927c67606ff76]
 
 These Regulations may be cited as the Products of Animal Origin (Disease Control) Regulations (Northern Ireland) 2008 and come into operation on 21<sup>st</sup> November 2008.
 
-## 2. Interpretation[^key-d812b5486ec492be173201b9537053c3]
+## 2. Interpretation[^c-d812b5486ec492be173201b9537053c3]
 
 (1) In these Regulations—
 
@@ -85,7 +85,7 @@ These Regulations may be cited as the Products of Animal Origin (Disease Control
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Restricted animal, restricted poultry and restricted meat: definitions[^key-0920c4beaf70f4d2c4d83d90e3c6bd7a]
+## 3. Restricted animal, restricted poultry and restricted meat: definitions[^c-0920c4beaf70f4d2c4d83d90e3c6bd7a]
 
 (1) In these Regulations a “restricted animal” is an animal which is—
 
@@ -121,14 +121,14 @@ These Regulations may be cited as the Products of Animal Origin (Disease Control
 
 (8) “Restricted meat” is meat produced from the relevant date from a restricted animal or restricted poultry from an infected area, a protection zone or a surveillance zone that has not been treated in accordance with Schedule 2 at a designated treatment centre, and includes meat that has come into contact with such meat.
 
-## 4. Notices[^key-b4964dadbe44fec4ae06922190a538b6]
+## 4. Notices[^c-b4964dadbe44fec4ae06922190a538b6]
 
 A notice served under these Regulations—
 
 - (a) must be in writing; and
 - (b) may be amended, suspended or revoked, by a further notice, at any time.
 
-## 5. Designation of premises, slaughterhouses and game handling establishments[^key-453660df0af7016877a28a434841a7ba]
+## 5. Designation of premises, slaughterhouses and game handling establishments[^c-453660df0af7016877a28a434841a7ba]
 
 (1) The Department may designate any establishment or premises for the purposes of slaughtering animals or poultry, or cutting, preparing, processing, packing, wrapping, storage or treatment of meat.
 
@@ -142,14 +142,14 @@ A notice served under these Regulations—
 
 (4) In these Regulations, “designated” refers to premises and establishments which are designated under this regulation.
 
-## 6. Slaughter of restricted animals[^key-66de608f19de134685dea30c3a11760d]
+## 6. Slaughter of restricted animals[^c-66de608f19de134685dea30c3a11760d]
 
 A person shall not—
 
 - (a) move a restricted animal or restricted poultry to an undesignated slaughterhouse; or
 - (b) slaughter a restricted animal, or restricted poultry at an undesignated slaughterhouse, except under the authority of, and in accordance with the conditions of a licence granted by the Department.
 
-## 7. Movement of carcases to undesignated premises[^key-18a2a3bae451f9edfab109077448d591]
+## 7. Movement of carcases to undesignated premises[^c-18a2a3bae451f9edfab109077448d591]
 
 (1) Subject to paragraph (2) a person shall not move or cause to be moved the carcase of—
 
@@ -158,7 +158,7 @@ A person shall not—
 
 (2) The prohibition in paragraph (1) shall not apply in relation to any movement licensed by the Department.
 
-## 8. Separation of restricted animals and meat from such animals[^key-e8248c99b4ee050b8d9ed2e492728ea3]
+## 8. Separation of restricted animals and meat from such animals[^c-e8248c99b4ee050b8d9ed2e492728ea3]
 
 (1) A person moving a restricted animal must ensure that it is kept separate from other animals.
 
@@ -168,7 +168,7 @@ A person shall not—
 
 (4) A person who handles, stores or moves untreated meat from restricted poultry or meat which has come into contact with such meat must keep it separate from meat from other poultry.
 
-## 9. Slaughterhouses[^key-3a5d85bbba3e8e65e5399f812277ec0a]
+## 9. Slaughterhouses[^c-3a5d85bbba3e8e65e5399f812277ec0a]
 
 (1) The occupier of a slaughterhouse may only slaughter restricted animals or restricted poultry if the slaughterhouse is designated.
 
@@ -187,19 +187,19 @@ A person shall not—
 
 (5) The occupier of a slaughterhouse where disease is suspected or has been confirmed must detain all meat in the slaughterhouse until a veterinary inspector notifies that occupier that the inspector is satisfied that detention of all or some of that meat is no longer necessary to reduce the risk of transmission of disease.
 
-## 10. Game handling establishments[^key-8b7b8123a1243dec0d7d1ae223eadd13]
+## 10. Game handling establishments[^c-8b7b8123a1243dec0d7d1ae223eadd13]
 
 (1) The occupier of a game handling establishment may only receive restricted meat if that establishment is designated.
 
 (2) The occupier of a game handling establishment where disease is suspected or has been confirmed must detain all meat in the game handling establishment until a veterinary inspector notifies that occupier that the inspector is satisfied that detention of all or some of that meat is no longer necessary to reduce the risk of transmission of disease.
 
-## 11. Receipt and possession of restricted meat[^key-14e4c7a9c3744af004a607e3d7798048]
+## 11. Receipt and possession of restricted meat[^c-14e4c7a9c3744af004a607e3d7798048]
 
 (1) The occupier of any premises or establishment may only receive restricted meat if that premises or establishment is designated.
 
 (2) Any person in possession of restricted meat must keep it separate from other meat.
 
-## 12. Marking of meat from restricted animals[^key-0146c0335563fe4a68f5c529c0145162]
+## 12. Marking of meat from restricted animals[^c-0146c0335563fe4a68f5c529c0145162]
 
 (1) The occupier of an establishment must ensure that restricted meat is marked in accordance with Schedule 3.
 
@@ -209,13 +209,13 @@ A person shall not—
 
 (4) Any person who removes a mark applied under this regulation, other than a person treating meat at a treatment centre with a treatment listed in Schedule 2, must reapply the mark, with the appropriate plant approval number, after cutting, preparing, processing, packing or treatment of the meat.
 
-## 13. Movement of restricted meat[^key-4146f5ab7c0dde63c58c149f167788f6]
+## 13. Movement of restricted meat[^c-4146f5ab7c0dde63c58c149f167788f6]
 
 (1) Subject to paragraph (2), a person shall not move or cause or permit to be moved restricted meat to any premises or establishment unless that premises or establishment is designated.
 
 (2) The prohibition in paragraph (1) shall not apply in relation to any movement licensed by the Department.
 
-## 14. Prohibition on supply and export of meat[^key-18d250c607c63d46a317280e3645d36b]
+## 14. Prohibition on supply and export of meat[^c-18d250c607c63d46a317280e3645d36b]
 
 (1) A person shall not—
 
@@ -230,7 +230,7 @@ A person shall not—
 
 (3) The “domestic market” is the market for the sale of poultry meat in England, Scotland, Wales and Northern Ireland.
 
-## 15. Notification of the movement of restricted meat[^key-7b162d9a9c461179a8fda3e13d73787d]
+## 15. Notification of the movement of restricted meat[^c-7b162d9a9c461179a8fda3e13d73787d]
 
 (1) The occupier of premises from which restricted meat, is moved must notify the following information to the Department in writing within 24 hours of the movement—
 
@@ -254,7 +254,7 @@ A person shall not—
 - (g) the address of premises to which the meat was moved; and
 - (h) the name and address of the occupier of those premises.
 
-## 16. Record keeping[^key-256faa6f3a72fd5c94abce0e663f7e97]
+## 16. Record keeping[^c-256faa6f3a72fd5c94abce0e663f7e97]
 
 (1) The occupier of a slaughterhouse where a restricted animal or restricted poultry is slaughtered must make records of the following—
 
@@ -279,7 +279,7 @@ A person shall not—
 
 (4) Records made under this regulation must be retained for at least 3 years from the date of the slaughter, movement or treatment to which they refer.
 
-## 17. Requirements in relation to milk and milk products[^key-20b2a75f32129f1a6091f34db82e8c7c]
+## 17. Requirements in relation to milk and milk products[^c-20b2a75f32129f1a6091f34db82e8c7c]
 
 (1) The Department may declare that requirements in respect of milk and milk products apply if it considers those requirements necessary to minimise the risk of the spread of disease.
 
@@ -291,13 +291,13 @@ A person shall not—
 - (b) may be amended by further declaration at any time; and
 - (c) may only be revoked by further declaration.
 
-## 18. Restrictions relating to things moved from England, Scotland or Wales[^key-9a9ce28734f86595524627a7aa9998c8]
+## 18. Restrictions relating to things moved from England, Scotland or Wales[^c-9a9ce28734f86595524627a7aa9998c8]
 
 (1) Measures in these Regulations applying in respect of any thing moved from any of the premises, establishments, areas or zones referred to in regulation 3 also apply in respect of any such thing moved from equivalent premises, establishments, areas or zones in England, Scotland or Wales.
 
 (2) This regulation only applies if the person to whom the measure applies is aware or should reasonably have been aware that the thing moved is from such premises, establishments, areas or zones.
 
-## 19. Meat from suspect or infected premises[^key-d636b27bebb6af918fd9f323f8f20485]
+## 19. Meat from suspect or infected premises[^c-d636b27bebb6af918fd9f323f8f20485]
 
 (1) Any person who is in possession of meat from a restricted animal or restricted poultry originating from the relevant date from suspect premises, or meat that has come into contact with such meat, must detain that meat until those premises are no longer suspect premises.
 
@@ -305,28 +305,28 @@ A person shall not—
 
 (3) Any person in possession of meat produced from a restricted animal or restricted poultry originating from infected premises from the relevant date, or meat that has come into contact with such meat, must destroy that meat without delay.
 
-## 20. Tracing of meat from infected premises[^key-a84c260b6bed352bcc156c44d9efe0e8]
+## 20. Tracing of meat from infected premises[^c-a84c260b6bed352bcc156c44d9efe0e8]
 
 Any person who has owned or been in possession of meat referred to in regulation 19(3) must—
 
 - (a) use best endeavors to trace that meat; and
 - (b) inform the recipient of that meat, other than a consumer, that the meat is from infected premises.
 
-## 21. Provision of reasonable assistance, information and cooperation[^key-1ece79fcb18f4b95a83c113f6fa6397a]
+## 21. Provision of reasonable assistance, information and cooperation[^c-1ece79fcb18f4b95a83c113f6fa6397a]
 
 (1) Any person to whom any requirement under these Regulations applies or who is required to give reasonable assistance or information to a person executing these Regulations must, unless he has reasonable cause, do so without delay.
 
 (2) A person shall not deface, obliterate or remove any mark applied by an inspector under these Regulations, unless he is authorised to do so by an inspector.
 
-## 22. Costs of compliance[^key-4052fd010a215d5b1e1f971ae124ca52]
+## 22. Costs of compliance[^c-4052fd010a215d5b1e1f971ae124ca52]
 
 The costs incurred by any person in taking any action required under these Regulations, or of refraining from taking action prohibited under them, must be met by that person unless the Department directs otherwise in writing.
 
-## 23. Default powers of Department[^key-2c80e061515bad7f406706ab0fe79ed8]
+## 23. Default powers of Department[^c-2c80e061515bad7f406706ab0fe79ed8]
 
 If a person does not comply with a requirement of these Regulations, the Department may arrange for any such requirement to be complied with at the expense of that person.
 
-## 24. Powers and duties of inspectors[^key-0e8ce64f504397f56c39ce963e51c99b]
+## 24. Powers and duties of inspectors[^c-0e8ce64f504397f56c39ce963e51c99b]
 
 (1) On producing, if required, a duly authenticated document showing his authority, an inspector may, at all reasonable hours, enter any premises, establishments or vehicle for the purpose of ensuring that these Regulations are being complied with.
 
@@ -359,13 +359,13 @@ If a person does not comply with a requirement of these Regulations, the Departm
 
 (14) An inspector may require computer records to be produced in a form which may be taken away.
 
-(15)[^key-3793037cde1689eb027b8a5dfc670731] An inspector who enters any premises, establishment or vehicle may be accompanied by such other persons as the inspector considers necessary.
+(15)[^c-3793037cde1689eb027b8a5dfc670731] An inspector who enters any premises, establishment or vehicle may be accompanied by such other persons as the inspector considers necessary.
 
 (16) An inspector who enters unoccupied premises or an unoccupied establishment must leave them as effectively secured against unauthorised entry as he found them.
 
 (17) Any person required by these Regulations to disinfect must use a disinfectant approved by the Department under the Diseases of Animals (Approval of Disinfectants) Order (Northern Ireland) 2008[^f00010].
 
-## 25. Offences[^key-ad11bd64a801d57019b7509960886e04]
+## 25. Offences[^c-ad11bd64a801d57019b7509960886e04]
 
 A person is guilty of an offence if, without reasonable cause, he—
 
@@ -373,14 +373,14 @@ A person is guilty of an offence if, without reasonable cause, he—
 - (b) obstructs any person executing these Regulations; or
 - (c) provides information which he knows to be false or misleading to such a person.
 
-## 26. Penalties[^key-101dce62a6de0370d9754323d3b0fad1]
+## 26. Penalties[^c-101dce62a6de0370d9754323d3b0fad1]
 
 A person guilty of an offence under these Regulations is liable—
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum or to a term of imprisonment not exceeding 3 months, or both;
 - (b) on conviction on indictment to a fine or to imprisonment for a term not exceeding two years or both.
 
-## 27. Enforcement[^key-8c3b702706671ebabccf4513df405d1b]
+## 27. Enforcement[^c-8c3b702706671ebabccf4513df405d1b]
 
 (1) These Regulations shall be enforced by the Department in any slaughterhouse or game handling establishment.
 
@@ -394,7 +394,7 @@ R J Jordan
 
 A senior officer of the Department of Agriculture and Rural Development
 
-## SCHEDULE 1 — Disease legislation[^key-202a4111f3d74250cecb9077d191a10c]
+## SCHEDULE 1 — Disease legislation[^c-202a4111f3d74250cecb9077d191a10c]
 
 Regulation 2
 
@@ -407,7 +407,7 @@ Regulation 2
 | The Diseases of Poultry Order (Northern Ireland)1995 [^f00015] | 6 | 9 | 9 |
 | The Movement of Animals (Restrictions) Order (Northern Ireland) 2004[^f00016] | Article 6 (insofar as restrictions are imposed in relation to a specified disease) |  |  |
 
-## SCHEDULE 2 — TABLE[^key-c2cd3adec577e41397460224c949132e]
+## SCHEDULE 2 — TABLE[^c-c2cd3adec577e41397460224c949132e]
 
 Regulation 2
 
@@ -436,28 +436,28 @@ Regulation 12
 
 ### Special identification mark for untreated meat from restricted animals and Newcastle disease restricted poultry
 
-**1.**[^key-bd852491f4ce53d3bb2e67dcdfd1289c] The identification mark for untreated meat from restricted animals must be—
+**1.**[^c-bd852491f4ce53d3bb2e67dcdfd1289c] The identification mark for untreated meat from restricted animals must be—
 
 - (a) a diagonal cross, superimposed on the health mark or identification mark applied under article 5 of Regulation [(EC) 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin[^f00017] or article 4 of [Commission Regulation (EC) No. 2076/2005](https://www.legislation.gov.uk/european/regulation/2005/2076) laying down transitional arrangements for the implementation of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853), (EC) No.854/2004 and (EC) No.882/2004 of the European Parliament and of the Council and amending Regulations [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) and [(EC) No. 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854)[^f00018], consisting of two straight lines intersecting at the centre of the stamp and enabling the information on the existing mark to remain legible, or
 - (b) a single oval stamp, 6.5 cm wide and 4.5 cm high, upon which the following information is legible:
-  - (i)[^key-40c45cd35b119b26e2c8f2dfeacfb983] on its upper part the letters UK(NI);
+  - (i)[^c-40c45cd35b119b26e2c8f2dfeacfb983] on its upper part the letters UK(NI);
   - (ii) in the centre, the approval number of the slaughterhouse or game handling establishment;
   - (iii) on the lower part, the letters EC;
   - (iv) two straight lines crossing at the centre of the stamp in such a way that the information is not obscured;
   - (v) information which identifies the veterinarian who inspected the meat.
 
-**2.**[^key-bd2ae4ece2e3f0e14a6f6088edd79729] If the single oval stamp referred to in paragraph (1)(b) is used—
+**2.**[^c-bd2ae4ece2e3f0e14a6f6088edd79729] If the single oval stamp referred to in paragraph (1)(b) is used—
 
 - (a) the letters must be at least 0.8 cm high;
 - (b) the figures must be at least 1 cm high; and
 - (c) the application of the mark must be supervised by a veterinary inspector.
 
-**3.**[^key-7974809d17cc8ee3dd69ca24ef6e08e7] Restricted meat from poultry must be marked with an identification mark which is—
+**3.**[^c-7974809d17cc8ee3dd69ca24ef6e08e7] Restricted meat from poultry must be marked with an identification mark which is—
 
-- (a)[^key-50ca172c7dd1b9dab37c89b1304e7539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^key-11004887293797e515768d8f5df919ca]...
+- (a)[^c-50ca172c7dd1b9dab37c89b1304e7539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c-11004887293797e515768d8f5df919ca]...
 - (b) the mark described in the Annex to Commission Decision [2007/118/EC](https://www.legislation.gov.uk/european/decision/2007/0118) laying down detailed rules in relation to an alternative identification mark pursuant to Council Directive [2002/99/EC](https://www.legislation.gov.uk/european/directive/2002/0099)[^f00019]
 
-**4.**[^key-db961d06ce64cc7e40c1463f24ff87ce] The identification mark may be applied according to the methods in paragraphs 9, 10, 11 and 13 of section 1 (c) of Annex II to Regulation EC No. 853/2004 laying down specific hygiene rules for food of animal origin[^f00020]
+**4.**[^c-db961d06ce64cc7e40c1463f24ff87ce] The identification mark may be applied according to the methods in paragraphs 9, 10, 11 and 13 of section 1 (c) of Annex II to Regulation EC No. 853/2004 laying down specific hygiene rules for food of animal origin[^f00020]
 
 EXPLANATORY NOTE
 
@@ -508,9 +508,9 @@ Schedule 1 sets out the legislation under which zones and areas are declared in 
 
 [^f00004]: Footnote: OJ No L 245, 29.9.2003, p.4
 
-[^key-c348582a5784b5bcbc3927c67606ff76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-c348582a5784b5bcbc3927c67606ff76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-d812b5486ec492be173201b9537053c3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/431/regulation/2) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-d812b5486ec492be173201b9537053c3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/431/regulation/2) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1983 No.406](https://www.legislation.gov.uk/nisr/1983/406) as amended by [S.R.1995 No.465](https://www.legislation.gov.uk/nisr/1995/465)
 
@@ -518,65 +518,65 @@ Schedule 1 sets out the legislation under which zones and areas are declared in 
 
 [^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0920c4beaf70f4d2c4d83d90e3c6bd7a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/431/regulation/3) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-0920c4beaf70f4d2c4d83d90e3c6bd7a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/431/regulation/3) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
 [^f00008]: Footnote: [S.R.1995 No.465](https://www.legislation.gov.uk/nisr/1995/465), as amended by [S.R.2003 No.401](https://www.legislation.gov.uk/nisr/2003/401) and disapplied insofar as it relates to Avian Influenza by [S.R.2007 No.68](https://www.legislation.gov.uk/nisr/2007/68)
 
 [^f00009]: Footnote: [S.R.2004 No.249](https://www.legislation.gov.uk/nisr/2004/249)
 
-[^key-b4964dadbe44fec4ae06922190a538b6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/431/regulation/4) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-b4964dadbe44fec4ae06922190a538b6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/431/regulation/4) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-453660df0af7016877a28a434841a7ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/431/regulation/5) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-453660df0af7016877a28a434841a7ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/431/regulation/5) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-66de608f19de134685dea30c3a11760d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/431/regulation/6) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-66de608f19de134685dea30c3a11760d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/431/regulation/6) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-18a2a3bae451f9edfab109077448d591]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/431/regulation/7) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-18a2a3bae451f9edfab109077448d591]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/431/regulation/7) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-e8248c99b4ee050b8d9ed2e492728ea3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/431/regulation/8) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-e8248c99b4ee050b8d9ed2e492728ea3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/431/regulation/8) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-3a5d85bbba3e8e65e5399f812277ec0a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/431/regulation/9) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-3a5d85bbba3e8e65e5399f812277ec0a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/431/regulation/9) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-8b7b8123a1243dec0d7d1ae223eadd13]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/431/regulation/10) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-8b7b8123a1243dec0d7d1ae223eadd13]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/431/regulation/10) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-14e4c7a9c3744af004a607e3d7798048]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/431/regulation/11) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-14e4c7a9c3744af004a607e3d7798048]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/431/regulation/11) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-0146c0335563fe4a68f5c529c0145162]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/431/regulation/12) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-0146c0335563fe4a68f5c529c0145162]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/431/regulation/12) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-4146f5ab7c0dde63c58c149f167788f6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/431/regulation/13) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-4146f5ab7c0dde63c58c149f167788f6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/431/regulation/13) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-18d250c607c63d46a317280e3645d36b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/431/regulation/14) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-18d250c607c63d46a317280e3645d36b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/431/regulation/14) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-7b162d9a9c461179a8fda3e13d73787d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/431/regulation/15) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-7b162d9a9c461179a8fda3e13d73787d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/431/regulation/15) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-256faa6f3a72fd5c94abce0e663f7e97]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/431/regulation/16) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-256faa6f3a72fd5c94abce0e663f7e97]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/431/regulation/16) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-20b2a75f32129f1a6091f34db82e8c7c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/431/regulation/17) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-20b2a75f32129f1a6091f34db82e8c7c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/431/regulation/17) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-9a9ce28734f86595524627a7aa9998c8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2008/431/regulation/18) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-9a9ce28734f86595524627a7aa9998c8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2008/431/regulation/18) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-d636b27bebb6af918fd9f323f8f20485]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/431/regulation/19) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-d636b27bebb6af918fd9f323f8f20485]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/431/regulation/19) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-a84c260b6bed352bcc156c44d9efe0e8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2008/431/regulation/20) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-a84c260b6bed352bcc156c44d9efe0e8]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2008/431/regulation/20) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-1ece79fcb18f4b95a83c113f6fa6397a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2008/431/regulation/21) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-1ece79fcb18f4b95a83c113f6fa6397a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2008/431/regulation/21) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-4052fd010a215d5b1e1f971ae124ca52]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2008/431/regulation/22) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-4052fd010a215d5b1e1f971ae124ca52]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2008/431/regulation/22) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-2c80e061515bad7f406706ab0fe79ed8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2008/431/regulation/23) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-2c80e061515bad7f406706ab0fe79ed8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2008/431/regulation/23) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-0e8ce64f504397f56c39ce963e51c99b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2008/431/regulation/24) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-0e8ce64f504397f56c39ce963e51c99b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2008/431/regulation/24) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-3793037cde1689eb027b8a5dfc670731]: Textual amendment: [Reg. 24(15)](https://www.legislation.gov.uk/nisr/2008/431/regulation/24/15) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/111/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3793037cde1689eb027b8a5dfc670731]: Textual amendment: [Reg. 24(15)](https://www.legislation.gov.uk/nisr/2008/431/regulation/24/15) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/111/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00010]: Footnote: [S.R. 2008 No.272](https://www.legislation.gov.uk/nisr/2008/272)
 
-[^key-ad11bd64a801d57019b7509960886e04]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2008/431/regulation/25) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-ad11bd64a801d57019b7509960886e04]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2008/431/regulation/25) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-101dce62a6de0370d9754323d3b0fad1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2008/431/regulation/26) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-101dce62a6de0370d9754323d3b0fad1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2008/431/regulation/26) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-8c3b702706671ebabccf4513df405d1b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2008/431/regulation/27) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-8c3b702706671ebabccf4513df405d1b]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2008/431/regulation/27) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-202a4111f3d74250cecb9077d191a10c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2008/431/schedule/1) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-202a4111f3d74250cecb9077d191a10c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2008/431/schedule/1) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1973 No.52](https://www.legislation.gov.uk/nisr/1973/52)
 
@@ -590,26 +590,26 @@ Schedule 1 sets out the legislation under which zones and areas are declared in 
 
 [^f00016]: Footnote: [S.R. 2004 No.249](https://www.legislation.gov.uk/nisr/2004/249)
 
-[^key-c2cd3adec577e41397460224c949132e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2008/431/schedule/2) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-c2cd3adec577e41397460224c949132e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2008/431/schedule/2) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-bd852491f4ce53d3bb2e67dcdfd1289c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/1) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-bd852491f4ce53d3bb2e67dcdfd1289c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/1) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
 [^f00017]: Footnote: OJ No.L 226, 25.6.2004, p.22
 
 [^f00018]: Footnote: OJ No.L 338, 22.12.2005, p.83
 
-[^key-40c45cd35b119b26e2c8f2dfeacfb983]: Textual amendment: [Sch. 3 para. 1(b)(i)](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/1/b/i) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [13](https://www.legislation.gov.uk/nisr/2020/324/regulation/13)
+[^c-40c45cd35b119b26e2c8f2dfeacfb983]: Textual amendment: [Sch. 3 para. 1(b)(i)](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/1/b/i) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [13](https://www.legislation.gov.uk/nisr/2020/324/regulation/13)
 
-[^key-bd2ae4ece2e3f0e14a6f6088edd79729]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/2) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-bd2ae4ece2e3f0e14a6f6088edd79729]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/2) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-7974809d17cc8ee3dd69ca24ef6e08e7]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/3) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-7974809d17cc8ee3dd69ca24ef6e08e7]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/3) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
-[^key-50ca172c7dd1b9dab37c89b1304e7539]: Textual amendment: [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/3/a) omitted (11.4.2019) by virtue of [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 31(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/31)
+[^c-50ca172c7dd1b9dab37c89b1304e7539]: Textual amendment: [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/3/a) omitted (11.4.2019) by virtue of [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 31(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/31)
 
-[^key-11004887293797e515768d8f5df919ca]: Textual amendment: Word in [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/3) omitted (11.4.2019) by virtue of [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/31/b)
+[^c-11004887293797e515768d8f5df919ca]: Textual amendment: Word in [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/3) omitted (11.4.2019) by virtue of [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/31/b)
 
 [^f00019]: Footnote: OJ No.L 51, 20.02.2007, p.19
 
-[^key-db961d06ce64cc7e40c1463f24ff87ce]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/4) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
+[^c-db961d06ce64cc7e40c1463f24ff87ce]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2008/431/schedule/3/paragraph/4) in operation at 21.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/431/regulation/1)
 
 [^f00020]: Footnote: OJ No.L 226, 25.06.2004, p.22

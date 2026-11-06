@@ -32,7 +32,7 @@ summary: ''
 
 Energy
 
-The Renewable Heat Incentive Scheme (Amendment) Regulations 2013 (revoked)[^key-597d01d244750fcc94168c1db4b0cac6]
+The Renewable Heat Incentive Scheme (Amendment) Regulations 2013 (revoked)[^c-597d01d244750fcc94168c1db4b0cac6]
 
 Made
 
@@ -40,96 +40,96 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-597d01d244750fcc94168c1db4b0cac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-597d01d244750fcc94168c1db4b0cac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-597d01d244750fcc94168c1db4b0cac6]
+## 1. Citation and commencement[^c-597d01d244750fcc94168c1db4b0cac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^key-597d01d244750fcc94168c1db4b0cac6]
+## 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^c-597d01d244750fcc94168c1db4b0cac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 2[^key-597d01d244750fcc94168c1db4b0cac6]
+## 3. Amendments to regulation 2[^c-597d01d244750fcc94168c1db4b0cac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to regulation 37[^key-597d01d244750fcc94168c1db4b0cac6]
+## 4. Amendments to regulation 37[^c-597d01d244750fcc94168c1db4b0cac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Calculation of tariffs[^key-597d01d244750fcc94168c1db4b0cac6]
+## 5. Calculation of tariffs[^c-597d01d244750fcc94168c1db4b0cac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to regulation 43[^key-597d01d244750fcc94168c1db4b0cac6]
+## 6. Amendments to regulation 43[^c-597d01d244750fcc94168c1db4b0cac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consequential amendments[^key-597d01d244750fcc94168c1db4b0cac6]
+## 7. Consequential amendments[^c-597d01d244750fcc94168c1db4b0cac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Removal of certain restrictions on entry into the scheme[^key-597d01d244750fcc94168c1db4b0cac6]
+## 8. Removal of certain restrictions on entry into the scheme[^c-597d01d244750fcc94168c1db4b0cac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Expenditure Schedules[^key-597d01d244750fcc94168c1db4b0cac6]
+## 9. Expenditure Schedules[^c-597d01d244750fcc94168c1db4b0cac6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-597d01d244750fcc94168c1db4b0cac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-597d01d244750fcc94168c1db4b0cac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Expenditure Schedules[^key-597d01d244750fcc94168c1db4b0cac6]
+## SCHEDULE — Expenditure Schedules[^c-597d01d244750fcc94168c1db4b0cac6]
 
 Regulation 9
 
-> **SCHEDULE 4 — Total expenditure[^key-597d01d244750fcc94168c1db4b0cac6]**
+> **SCHEDULE 4 — Total expenditure[^c-597d01d244750fcc94168c1db4b0cac6]**
 >
 > Regulations 37C and 37D
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 5 — Expenditure in relation to individual technologies[^key-597d01d244750fcc94168c1db4b0cac6]**
+> **SCHEDULE 5 — Expenditure in relation to individual technologies[^c-597d01d244750fcc94168c1db4b0cac6]**
 >
 > Regulations 37C and 37D
 >
-> **PART 1 — Small commercial biomass[^key-597d01d244750fcc94168c1db4b0cac6]**
+> **PART 1 — Small commercial biomass[^c-597d01d244750fcc94168c1db4b0cac6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — Medium commercial biomass[^key-597d01d244750fcc94168c1db4b0cac6]**
+> **PART 2 — Medium commercial biomass[^c-597d01d244750fcc94168c1db4b0cac6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 3 — Large commercial biomass[^key-597d01d244750fcc94168c1db4b0cac6]**
+> **PART 3 — Large commercial biomass[^c-597d01d244750fcc94168c1db4b0cac6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 4 — Small commercial heat pumps[^key-597d01d244750fcc94168c1db4b0cac6]**
+> **PART 4 — Small commercial heat pumps[^c-597d01d244750fcc94168c1db4b0cac6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 5 — Large commercial heat pumps[^key-597d01d244750fcc94168c1db4b0cac6]**
+> **PART 5 — Large commercial heat pumps[^c-597d01d244750fcc94168c1db4b0cac6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 6 — All Solar collectors[^key-597d01d244750fcc94168c1db4b0cac6]**
+> **PART 6 — All Solar collectors[^c-597d01d244750fcc94168c1db4b0cac6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 7 — Biomethane and biogas combustion[^key-597d01d244750fcc94168c1db4b0cac6]**
+> **PART 7 — Biomethane and biogas combustion[^c-597d01d244750fcc94168c1db4b0cac6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-597d01d244750fcc94168c1db4b0cac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-597d01d244750fcc94168c1db4b0cac6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-597d01d244750fcc94168c1db4b0cac6]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(a)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/a) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-597d01d244750fcc94168c1db4b0cac6]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(a)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/a) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Planning[^key-ba687aa8893e1bb0e9811ad3260d0ad2]
+## 5. Planning[^c-ba687aa8893e1bb0e9811ad3260d0ad2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba687aa8893e1bb0e9811ad3260d0ad2]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2006/12/section/5) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/c)
+[^c-ba687aa8893e1bb0e9811ad3260d0ad2]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2006/12/section/5) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/c)

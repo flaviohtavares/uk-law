@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Annual returns[^key-35f1e84a4e7cc8e22f95a12a37e058a1]
+## 34. Annual returns[^c-35f1e84a4e7cc8e22f95a12a37e058a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ Before regulation 73 and below the cross heading “Annual returns of relevant p
 
 ## Annotations
 
-[^key-35f1e84a4e7cc8e22f95a12a37e058a1]: Commencement: Reg. 34 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-35f1e84a4e7cc8e22f95a12a37e058a1]: Commencement: Reg. 34 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

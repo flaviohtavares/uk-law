@@ -41,15 +41,15 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 22(1) and (2) of the Petroleum Act 1987[^f00001] (hereinafter referred to as “the Act”) and of all other powers enabling him in that behalf, and for the purpose of giving effect to proposals submitted to him by the Health and Safety Commission under section 24(2A) of the Act, hereby makes the following order:
 
-## 1. Citation and commencement[^key-3668c9e0b781c6e5cc21e6a695343846]
+## 1. Citation and commencement[^c-3668c9e0b781c6e5cc21e6a695343846]
 
 This order may be cited as the Offshore Installations (Safety Zones) (No. 3) Order 2004 and shall come into force on 21<sup>st</sup> July 2004.
 
-## 2. Establishment of safety zones[^key-850bc800256bdb9d094d7b28d604cc01]
+## 2. Establishment of safety zones[^c-850bc800256bdb9d094d7b28d604cc01]
 
 A safety zone is hereby established around each installation specified in column 1 of the Schedule hereto (being an installation stationed in waters to which subsection (7) of section 21 of the Act applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of the Schedule.
 
-## 3. Amendment of the Offshore Installations (Safety Zones) (No. 2) Order 2004[^key-f6c73bf07325a68e926a4df3817e79c5]
+## 3. Amendment of the Offshore Installations (Safety Zones) (No. 2) Order 2004[^c-f6c73bf07325a68e926a4df3817e79c5]
 
 In the Schedule to the Offshore Installations (Safety Zones) (No. 2) Order 2004[^f00002], for “57° 29.42'” in column 2 there shall be substituted “59° 29.42'”.
 
@@ -61,7 +61,7 @@ Department for Work and Pensions
 
 30th June 2004
 
-## SCHEDULE — SAFETY ZONES[^key-487dc1d98acf1e5875f84292fbc30f5e]
+## SCHEDULE — SAFETY ZONES[^c-487dc1d98acf1e5875f84292fbc30f5e]
 
 Article 2
 
@@ -77,7 +77,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-6fb31dff756c4729602e436377ae34c0][^key-6fb31dff756c4729602e436377ae34c0][^key-6fb31dff756c4729602e436377ae34c0]
+[^c-6fb31dff756c4729602e436377ae34c0][^c-6fb31dff756c4729602e436377ae34c0][^c-6fb31dff756c4729602e436377ae34c0]
 
 (This note is not part of the order)
 
@@ -91,14 +91,14 @@ The order corrects an error in respect of the co-ordinates for an installation i
 
 [^f00001]: Footnote: [1987 c. 12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by S.I. [1993/1823](https://www.legislation.gov.uk/uksi/1993/1823).
 
-[^key-3668c9e0b781c6e5cc21e6a695343846]: Commencement: Art. 1 in force at 21.7.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1)
+[^c-3668c9e0b781c6e5cc21e6a695343846]: Commencement: Art. 1 in force at 21.7.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1)
 
-[^key-850bc800256bdb9d094d7b28d604cc01]: Commencement: Art. 2 in force at 21.7.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1)
+[^c-850bc800256bdb9d094d7b28d604cc01]: Commencement: Art. 2 in force at 21.7.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1)
 
-[^key-f6c73bf07325a68e926a4df3817e79c5]: Commencement: Art. 3 in force at 21.7.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1)
+[^c-f6c73bf07325a68e926a4df3817e79c5]: Commencement: Art. 3 in force at 21.7.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1)
 
 [^f00002]: Footnote: S.I. [2004/1409](https://www.legislation.gov.uk/uksi/2004/1409).
 
-[^key-487dc1d98acf1e5875f84292fbc30f5e]: Commencement: Sch. in force at 21.7.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1)
+[^c-487dc1d98acf1e5875f84292fbc30f5e]: Commencement: Sch. in force at 21.7.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1)
 
-[^key-6fb31dff756c4729602e436377ae34c0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2004/1746/schedule) omitted (6.8.2013) by virtue of [The Offshore Installations (Safety Zones) Order 2013 (S.I. 2013/1758)](https://www.legislation.gov.uk/uksi/2013/1758), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2), [3](https://www.legislation.gov.uk/uksi/2013/1758/article/3)
+[^c-6fb31dff756c4729602e436377ae34c0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2004/1746/schedule) omitted (6.8.2013) by virtue of [The Offshore Installations (Safety Zones) Order 2013 (S.I. 2013/1758)](https://www.legislation.gov.uk/uksi/2013/1758), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1758/article/1/2), [3](https://www.legislation.gov.uk/uksi/2013/1758/article/3)

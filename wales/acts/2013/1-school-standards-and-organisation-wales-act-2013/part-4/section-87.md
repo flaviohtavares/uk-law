@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Regulations and guidance[^key-94aa702b55167c309260c416a2549f16]
+## 87. Regulations and guidance[^c-94aa702b55167c309260c416a2549f16]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94aa702b55167c309260c416a2549f16]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2013/1/section/87) in force at 3.12.2013 by [S.I. 2013/3024](https://www.legislation.gov.uk/wsi/2013/3024), [art. 2](https://www.legislation.gov.uk/wsi/2013/3024/article/2)
+[^c-94aa702b55167c309260c416a2549f16]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2013/1/section/87) in force at 3.12.2013 by [S.I. 2013/3024](https://www.legislation.gov.uk/wsi/2013/3024), [art. 2](https://www.legislation.gov.uk/wsi/2013/3024/article/2)

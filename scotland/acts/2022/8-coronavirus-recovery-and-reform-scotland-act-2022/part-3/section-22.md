@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Bank arrestments: protected minimum balance[^key-f3412f49e347edc124405dfd2829f896]
+## 22. Bank arrestments: protected minimum balance[^c-f3412f49e347edc124405dfd2829f896]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3412f49e347edc124405dfd2829f896]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2022/8/section/22) in force at 1.11.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-f3412f49e347edc124405dfd2829f896]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2022/8/section/22) in force at 1.11.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

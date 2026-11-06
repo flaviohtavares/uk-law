@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 17. Increase in rate of pension[^key-23706b7a4bcef6c332f6d5a569bb8bf2]
+## 17. Increase in rate of pension[^c-23706b7a4bcef6c332f6d5a569bb8bf2]
 
 *Extent: E*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23706b7a4bcef6c332f6d5a569bb8bf2]: Commencement: [S. 17](https://www.legislation.gov.uk/ukcm/2018/9/section/17) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-23706b7a4bcef6c332f6d5a569bb8bf2]: Commencement: [S. 17](https://www.legislation.gov.uk/ukcm/2018/9/section/17) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

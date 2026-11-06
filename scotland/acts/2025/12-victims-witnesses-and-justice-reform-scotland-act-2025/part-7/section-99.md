@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Sentencing power of the Sexual Offences Court[^key-3cd35186c480e7452eb95c9ed0b88400]
+## 99. Sentencing power of the Sexual Offences Court[^c-3cd35186c480e7452eb95c9ed0b88400]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ The Sexual Offences Court may impose on a person that it convicts of an offence 
 
 ## Annotations
 
-[^key-3cd35186c480e7452eb95c9ed0b88400]: Commencement: S. 99 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-3cd35186c480e7452eb95c9ed0b88400]: Commencement: S. 99 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

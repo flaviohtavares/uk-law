@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-b3e24ffde8430f7948dea5fe62feca11]
+## 1. Citation and commencement[^c-b3e24ffde8430f7948dea5fe62feca11]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Morecambe Offshore Windfarm Generation Assets Ord
 
 ## Annotations
 
-[^key-b3e24ffde8430f7948dea5fe62feca11]: Commencement: Art. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-b3e24ffde8430f7948dea5fe62feca11]: Commencement: Art. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

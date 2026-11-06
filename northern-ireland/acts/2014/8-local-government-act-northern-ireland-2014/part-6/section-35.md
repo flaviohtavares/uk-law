@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Meetings and access to information etc.: further provision and regulations[^key-a5b7ef005aa6eea99ecff46e67b61d61]
+## 35. Meetings and access to information etc.: further provision and regulations[^c-a5b7ef005aa6eea99ecff46e67b61d61]
 
 *Extent: N.I.*
 
@@ -68,4 +68,4 @@ which applies or reproduces (with or without modifications) any provisions of se
 
 ## Annotations
 
-[^key-a5b7ef005aa6eea99ecff46e67b61d61]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2014/8/section/35) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-a5b7ef005aa6eea99ecff46e67b61d61]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2014/8/section/35) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

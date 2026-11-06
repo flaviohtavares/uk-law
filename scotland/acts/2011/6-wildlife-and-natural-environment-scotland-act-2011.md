@@ -50,14 +50,14 @@ In this Act—
 
 ### Wild birds, their nests and eggs
 
-#### 2. Application of the 1981 Act to game birds[^key-57d953a883967ec5ae1de905307a2f79]
+#### 2. Application of the 1981 Act to game birds[^c-57d953a883967ec5ae1de905307a2f79]
 
 In section 27(1) of the 1981 Act (interpretation of Part I)—
 
 - (a) the definition of “game bird” is repealed,
 - (b) in the definition of “wild bird”, the words “or, except in sections 5 and 16, any game bird” are repealed.
 
-#### 3. Protection of game birds etc. and prevention of poaching[^key-108ce4df63e6e7aa819773120a86c787]
+#### 3. Protection of game birds etc. and prevention of poaching[^c-108ce4df63e6e7aa819773120a86c787]
 
 (1) The 1981 Act is amended as follows.
 
@@ -219,7 +219,7 @@ In section 27(1) of the 1981 Act (interpretation of Part I)—
 
 .
 
-#### 4. Areas of special protection for wild birds[^key-dc4563b62da296139167c9bfb8b46f15]
+#### 4. Areas of special protection for wild birds[^c-dc4563b62da296139167c9bfb8b46f15]
 
 (1) The 1981 Act is amended as follows.
 
@@ -241,7 +241,7 @@ In section 27(1) of the 1981 Act (interpretation of Part I)—
 - (a) in subsection (2) “3,” is repealed,
 - (b) in subsection (4)(a) the words from “, except” to “3,” are repealed.
 
-#### 5. Sale of live or dead wild birds, their eggs etc.[^key-47c602e0a0d6e3d9ca72c344e48089f9]
+#### 5. Sale of live or dead wild birds, their eggs etc.[^c-47c602e0a0d6e3d9ca72c344e48089f9]
 
 (1) The 1981 Act is amended as follows.
 
@@ -366,9 +366,9 @@ In section 27(1) of the 1981 Act (interpretation of Part I)—
 
 #### 6. Protection of wild hares etc.
 
-(1)[^key-fc96764578e3acac6b8779dff29795ca] The 1981 Act is amended as follows.
+(1)[^c-fc96764578e3acac6b8779dff29795ca] The 1981 Act is amended as follows.
 
-(2)[^key-ccf27a7311ae2341d45f9ed92921b628][^key-882eb57b149cd73edb0918f7e17f33bd] After section 10, insert—
+(2)[^c-ccf27a7311ae2341d45f9ed92921b628][^c-882eb57b149cd73edb0918f7e17f33bd] After section 10, insert—
 
 > **10A. Protection of wild hares etc.**
 >
@@ -422,11 +422,11 @@ In section 27(1) of the 1981 Act (interpretation of Part I)—
 
 .
 
-(3)[^key-fc96764578e3acac6b8779dff29795ca] In section 26(2) (regulations, orders, notices etc.), after “5” insert “ , 10A(4) ”.
+(3)[^c-fc96764578e3acac6b8779dff29795ca] In section 26(2) (regulations, orders, notices etc.), after “5” insert “ , 10A(4) ”.
 
-(4)[^key-fc96764578e3acac6b8779dff29795ca] In the title of Schedule 5 (animals which are protected), at the end add “ under section 9 ”.
+(4)[^c-fc96764578e3acac6b8779dff29795ca] In the title of Schedule 5 (animals which are protected), at the end add “ under section 9 ”.
 
-(5)[^key-a3ab126e982776445d550823caaac0f1] After that Schedule, insert—
+(5)[^c-a3ab126e982776445d550823caaac0f1] After that Schedule, insert—
 
 > **SCHEDULE 5A — Animals which are protected under section 10A in their close season**
 >
@@ -439,7 +439,7 @@ In section 27(1) of the 1981 Act (interpretation of Part I)—
 
 .
 
-#### 7. Prevention of poaching: wild hares, rabbits etc.[^key-994dd1ad1bfd578acb5dbc94f3ef0e8a]
+#### 7. Prevention of poaching: wild hares, rabbits etc.[^c-994dd1ad1bfd578acb5dbc94f3ef0e8a]
 
 (1) The 1981 Act is amended as follows.
 
@@ -483,7 +483,7 @@ In section 27(1) of the 1981 Act (interpretation of Part I)—
 
 .
 
-#### 8. Sale, possession etc. of wild hares, rabbits etc. killed or taken unlawfully[^key-a2183fd3e0e36dad22abc3d6ff573b5d][^key-e385de923f2516d255de25eaf932d242]
+#### 8. Sale, possession etc. of wild hares, rabbits etc. killed or taken unlawfully[^c-a2183fd3e0e36dad22abc3d6ff573b5d][^c-e385de923f2516d255de25eaf932d242]
 
 (1) The 1981 Act is amended as follows.
 
@@ -503,7 +503,7 @@ In section 27(1) of the 1981 Act (interpretation of Part I)—
 
 .
 
-#### 9. Wild hares, rabbits etc.: licences[^key-ec8d594bccca558318f315a216fec0de][^key-85351ad41b968da00e7ce8ed1a6f81d8]
+#### 9. Wild hares, rabbits etc.: licences[^c-ec8d594bccca558318f315a216fec0de][^c-85351ad41b968da00e7ce8ed1a6f81d8]
 
 In section 16 of the 1981 Act (certain offences not committed if activity done in accordance with licence)—
 
@@ -512,7 +512,7 @@ In section 16 of the 1981 Act (certain offences not committed if activity done i
   - (ii) after “11C” (inserted by section 13(4)) insert “ , 11G(1) ”,
 - (b) in subsection (4)(b) after “9(5)” insert “ , 11I(1) ”.
 
-#### 10. Wild hares, rabbits etc.: power to vary Schedules to the 1981 Act and prescribe close seasons[^key-574185c607d4da7335de760cc2a787ec]
+#### 10. Wild hares, rabbits etc.: power to vary Schedules to the 1981 Act and prescribe close seasons[^c-574185c607d4da7335de760cc2a787ec]
 
 In section 22 of the 1981 Act (power to vary schedules and prescribe close seasons)—
 
@@ -523,7 +523,7 @@ In section 22 of the 1981 Act (power to vary schedules and prescribe close seaso
 
   .
 
-#### 11. Wild hares and rabbits: miscellaneous[^key-528530ffa26da63907b8901971641c99]
+#### 11. Wild hares and rabbits: miscellaneous[^c-528530ffa26da63907b8901971641c99]
 
 (1) The 1981 Act is amended as follows.
 
@@ -544,7 +544,7 @@ In section 22 of the 1981 Act (power to vary schedules and prescribe close seaso
 
 ### Wild birds, hares, rabbits etc.: single witness evidence
 
-#### 12. Single witness evidence in certain proceedings under the 1981 Act[^key-c008d4a68c02c5daa1836ca5f57c1c30][^key-60f430cd863799c8564d1a4b8bd46fdc]
+#### 12. Single witness evidence in certain proceedings under the 1981 Act[^c-c008d4a68c02c5daa1836ca5f57c1c30][^c-60f430cd863799c8564d1a4b8bd46fdc]
 
 In section 19A of the 1981 Act (single witness evidence in Scotland as to taking or destruction of eggs)—
 
@@ -566,9 +566,9 @@ In section 19A of the 1981 Act (single witness evidence in Scotland as to taking
 
 #### 13. Snares
 
-(1)[^key-135eb8912fd2b4770e5267f69814b49a] The 1981 Act is amended as follows.
+(1)[^c-135eb8912fd2b4770e5267f69814b49a] The 1981 Act is amended as follows.
 
-(2)[^key-135eb8912fd2b4770e5267f69814b49a] In section 11 (prohibition of certain methods of killing or taking wild animals)—
+(2)[^c-135eb8912fd2b4770e5267f69814b49a] In section 11 (prohibition of certain methods of killing or taking wild animals)—
 
 - (a) after subsection (1), insert—
 
@@ -588,7 +588,7 @@ In section 19A of the 1981 Act (single witness evidence in Scotland as to taking
   ,
 - (b) subsections (3) to (3B) and (3D) are repealed.
 
-(3)[^key-edadebe3d33e741c4a796fca2c687f6c][^key-f81ac8550b75a7ad2c63f30768e30651][^key-6931a6aa12ad9d9052f80dca50a0e688] After that section, insert—
+(3)[^c-edadebe3d33e741c4a796fca2c687f6c][^c-f81ac8550b75a7ad2c63f30768e30651][^c-6931a6aa12ad9d9052f80dca50a0e688] After that section, insert—
 
 > **11A. Snares: training, identification numbers, tags etc.**
 >
@@ -733,9 +733,9 @@ In section 19A of the 1981 Act (single witness evidence in Scotland as to taking
 
 .
 
-(4)[^key-d8138a7d8027a155f508a2cec6c24fb9] In section 16(3) (certain offences not committed if activity done in accordance with licence), after “11(1), (2) and (3C)(a)” insert “ , 11C ”.
+(4)[^c-d8138a7d8027a155f508a2cec6c24fb9] In section 16(3) (certain offences not committed if activity done in accordance with licence), after “11(1), (2) and (3C)(a)” insert “ , 11C ”.
 
-(5)[^key-3eabc5cb24d597343a45bae268cf3e71] In section 17 (false statements made for obtaining registration or licence etc.)—
+(5)[^c-3eabc5cb24d597343a45bae268cf3e71] In section 17 (false statements made for obtaining registration or licence etc.)—
 
 - (a) in the title, after “registration” insert “ , identification number ”,
 - (b) after “7(1)” insert “ , an identification number under section 11A(4) ”.
@@ -744,11 +744,11 @@ In section 19A of the 1981 Act (single witness evidence in Scotland as to taking
 
 #### 14. Non-native species etc.
 
-(1)[^key-d1755a888bf84790024e94c33cd6275b] The 1981 Act is amended as follows.
+(1)[^c-d1755a888bf84790024e94c33cd6275b] The 1981 Act is amended as follows.
 
 (2) In section 14 (introduction of new species etc.)—
 
-- (a)[^key-4eb51fa12dc364f76017d43fbb83376e][^key-af8a90c9bf4942fa625d7404cd3905bc] for subsections (1) to (2) substitute—
+- (a)[^c-4eb51fa12dc364f76017d43fbb83376e][^c-af8a90c9bf4942fa625d7404cd3905bc] for subsections (1) to (2) substitute—
 
   > (1) Subject to the provisions of this Part, any person who—
   >
@@ -786,10 +786,10 @@ In section 19A of the 1981 Act (single witness evidence in Scotland as to taking
   > - (e) different areas or places.
 
   ,
-- (b)[^key-d1755a888bf84790024e94c33cd6275b] in subsection (3), for “prove” substitute “ show ”,
-- (c)[^key-d1755a888bf84790024e94c33cd6275b] subsections (5) and (6) are repealed.
+- (b)[^c-d1755a888bf84790024e94c33cd6275b] in subsection (3), for “prove” substitute “ show ”,
+- (c)[^c-d1755a888bf84790024e94c33cd6275b] subsections (5) and (6) are repealed.
 
-(3)[^key-58761151d3d8de11d703095cfd7a2c25][^key-af8a90c9bf4942fa625d7404cd3905bc] After section 14ZB (codes of practice in connection with invasive non-native species: England and Wales) insert—
+(3)[^c-58761151d3d8de11d703095cfd7a2c25][^c-af8a90c9bf4942fa625d7404cd3905bc] After section 14ZB (codes of practice in connection with invasive non-native species: England and Wales) insert—
 
 > **14ZC. Prohibition on keeping etc. of invasive animals or plants**
 >
@@ -816,7 +816,7 @@ In section 19A of the 1981 Act (single witness evidence in Scotland as to taking
 
 .
 
-(4)[^key-d1755a888bf84790024e94c33cd6275b] In section 14A (prohibition on sale etc. of certain animals or plants)—
+(4)[^c-d1755a888bf84790024e94c33cd6275b] In section 14A (prohibition on sale etc. of certain animals or plants)—
 
 - (a) in the title, for “certain” substitute “ invasive ”,
 - (b) for subsection (1) substitute—
@@ -841,7 +841,7 @@ In section 19A of the 1981 Act (single witness evidence in Scotland as to taking
 
   .
 
-(5)[^key-6ffc2cb53e2a685c5e69f98b542e3825][^key-af8a90c9bf4942fa625d7404cd3905bc] For section 14B (guidance: non-native species) substitute—
+(5)[^c-6ffc2cb53e2a685c5e69f98b542e3825][^c-af8a90c9bf4942fa625d7404cd3905bc] For section 14B (guidance: non-native species) substitute—
 
 > **14B. Notification of presence of invasive animals or plants etc.**
 >
@@ -875,7 +875,7 @@ In section 19A of the 1981 Act (single witness evidence in Scotland as to taking
 
 .
 
-#### 15. Non-native species etc.: code of practice[^key-732f3e0bee67df02803242a84fdcfda1]
+#### 15. Non-native species etc.: code of practice[^c-732f3e0bee67df02803242a84fdcfda1]
 
 After section 14B (notification of presence of invasive animals or plants etc.) of the 1981 Act insert—
 
@@ -953,7 +953,7 @@ After section 14B (notification of presence of invasive animals or plants etc.) 
 
 .
 
-#### 16. Species control orders etc.[^key-272554fd2c9c764470e60936d8c6e35b]
+#### 16. Species control orders etc.[^c-272554fd2c9c764470e60936d8c6e35b]
 
 After section 14C of the 1981 Act (non-native species etc.: code of practice) (inserted by section 15) insert—
 
@@ -1197,11 +1197,11 @@ After section 14C of the 1981 Act (non-native species etc.: code of practice) (i
 
 #### 17. Non-native species etc.: further provision
 
-(1)[^key-0fac4eac7a6e8351bf9ef227ec698492] The 1981 Act is amended as follows.
+(1)[^c-0fac4eac7a6e8351bf9ef227ec698492] The 1981 Act is amended as follows.
 
-(2)[^key-0fac4eac7a6e8351bf9ef227ec698492] In section 16 (power to grant licences), in subsection (4)(c), after “14” insert “ , 14ZC ”.
+(2)[^c-0fac4eac7a6e8351bf9ef227ec698492] In section 16 (power to grant licences), in subsection (4)(c), after “14” insert “ , 14ZC ”.
 
-(3)[^key-0fac4eac7a6e8351bf9ef227ec698492] In section 21 (penalties, forfeitures etc.)—
+(3)[^c-0fac4eac7a6e8351bf9ef227ec698492] In section 21 (penalties, forfeitures etc.)—
 
 - (a) in subsection (1) after “13” insert “ , 14B ”,
 - (b) in subsection (4)—
@@ -1217,12 +1217,12 @@ After section 14C of the 1981 Act (non-native species etc.: code of practice) (i
   ,
 - (d) in subsection (6)(b) for “or 14A” substitute “ , 14ZC, 14A, 14B or 14K ”.
 
-(4)[^key-0fac4eac7a6e8351bf9ef227ec698492] In section 22(1) (power to vary schedules)—
+(4)[^c-0fac4eac7a6e8351bf9ef227ec698492] In section 22(1) (power to vary schedules)—
 
 - (a) in paragraph (b) the words “or Part I of Schedule 9” are repealed,
 - (b) in paragraph (c) the words “or Part II of Schedule 9” are repealed.
 
-(5)[^key-0fac4eac7a6e8351bf9ef227ec698492] In section 24 (functions of GB conservation bodies), after subsection (4) insert—
+(5)[^c-0fac4eac7a6e8351bf9ef227ec698492] In section 24 (functions of GB conservation bodies), after subsection (4) insert—
 
 > (4A) The functions of Scottish Natural Heritage include the power to advise or assist—
 >
@@ -1233,12 +1233,12 @@ After section 14C of the 1981 Act (non-native species etc.: code of practice) (i
 
 (6) In section 26 (regulations, orders, notices etc.)—
 
-- (a)[^key-0fac4eac7a6e8351bf9ef227ec698492] in subsection (1), for “this Part” substitute “ a provision of this Part other than section 14D ”,
+- (a)[^c-0fac4eac7a6e8351bf9ef227ec698492] in subsection (1), for “this Part” substitute “ a provision of this Part other than section 14D ”,
 - (b) in subsection (4)—
-  - (i)[^key-0fac4eac7a6e8351bf9ef227ec698492] for “this Part” substitute “ a provision of this Part other than section 14D ”,
-  - (ii)[^key-5d0788503edd257ebb33a764b354fb84][^key-b77b5834ee2af3bd955a7074015fa694] in paragraph (a), after “2(6)” insert “ , 14, 14ZC, 14A or 14B ”,
-  - (iii)[^key-5d0788503edd257ebb33a764b354fb84][^key-b77b5834ee2af3bd955a7074015fa694] in paragraph (b), after “section” insert “ 14, 14ZC, 14A, 14B, ”,
-- (c)[^key-b4116ba69a7e09884c9b1daae4275e07][^key-b77b5834ee2af3bd955a7074015fa694] after that subsection, insert—
+  - (i)[^c-0fac4eac7a6e8351bf9ef227ec698492] for “this Part” substitute “ a provision of this Part other than section 14D ”,
+  - (ii)[^c-5d0788503edd257ebb33a764b354fb84][^c-b77b5834ee2af3bd955a7074015fa694] in paragraph (a), after “2(6)” insert “ , 14, 14ZC, 14A or 14B ”,
+  - (iii)[^c-5d0788503edd257ebb33a764b354fb84][^c-b77b5834ee2af3bd955a7074015fa694] in paragraph (b), after “section” insert “ 14, 14ZC, 14A, 14B, ”,
+- (c)[^c-b4116ba69a7e09884c9b1daae4275e07][^c-b77b5834ee2af3bd955a7074015fa694] after that subsection, insert—
 
   > (4A) The Scottish Ministers may make an order under section 14, 14ZC or 14A only where they have consulted—
   >
@@ -1249,7 +1249,7 @@ After section 14C of the 1981 Act (non-native species etc.: code of practice) (i
 
   .
 
-(7)[^key-0fac4eac7a6e8351bf9ef227ec698492] In section 70A (service of notices), after subsection (2) insert—
+(7)[^c-0fac4eac7a6e8351bf9ef227ec698492] In section 70A (service of notices), after subsection (2) insert—
 
 > (2A) Subsection (1)(cc) of the said section 271 shall not apply to a notice required to be served under section 14G.
 >
@@ -1257,11 +1257,11 @@ After section 14C of the 1981 Act (non-native species etc.: code of practice) (i
 
 .
 
-(8)[^key-0fac4eac7a6e8351bf9ef227ec698492] Schedule 9 (animals and plants to which section 14 applies) is repealed.
+(8)[^c-0fac4eac7a6e8351bf9ef227ec698492] Schedule 9 (animals and plants to which section 14 applies) is repealed.
 
 ### Species licences
 
-#### 18. Licences under the 1981 Act[^key-ac76686edd7dbb7d2e828faa214310ef]
+#### 18. Licences under the 1981 Act[^c-ac76686edd7dbb7d2e828faa214310ef]
 
 (1) The 1981 Act is amended as follows.
 
@@ -1347,7 +1347,7 @@ After section 14C of the 1981 Act (non-native species etc.: code of practice) (i
   - (iii) in paragraph (c) after “may,” insert “ except in the case of an order under section 16A(5)(b), ”,
 - (b) in subsection (5) after “Part” insert “ , other than an order under section 16A(5)(b), ”.
 
-#### 19. Amendment of Schedule 6 to the 1981 Act[^key-95647d57a32ded8d9964f6b79cb1d9e1]
+#### 19. Amendment of Schedule 6 to the 1981 Act[^c-95647d57a32ded8d9964f6b79cb1d9e1]
 
 In Schedule 6 to the 1981 Act (animals which may not be killed or taken by certain methods) the entries relating to the animals with the following common names are repealed—
 
@@ -1366,7 +1366,7 @@ In Schedule 6 to the 1981 Act (animals which may not be killed or taken by certa
 
 ### Annual report on wildlife crime
 
-#### 20. Annual report on wildlife crime[^key-f6f94bd0cd9f6ecfd452cfc40931a35f]
+#### 20. Annual report on wildlife crime[^c-f6f94bd0cd9f6ecfd452cfc40931a35f]
 
 After section 26A of the 1981 Act insert—
 
@@ -1390,7 +1390,7 @@ After section 26A of the 1981 Act insert—
 
 ### Offence of knowingly causing or permitting certain offences
 
-#### 21. Offence of knowingly causing or permitting certain offences under the 1981 Act[^key-e4e8e4d9f05ca0e79807f78c2d9c5df3]
+#### 21. Offence of knowingly causing or permitting certain offences under the 1981 Act[^c-e4e8e4d9f05ca0e79807f78c2d9c5df3]
 
 (1) The 1981 Act is amended as follows.
 
@@ -1414,7 +1414,7 @@ After section 26A of the 1981 Act insert—
 
 ### Enforcement
 
-#### 22. Wildlife inspectors etc.[^key-0791bb07f46c499febb46bb0431af75c]
+#### 22. Wildlife inspectors etc.[^c-0791bb07f46c499febb46bb0431af75c]
 
 (1) The 1981 Act is amended as follows.
 
@@ -1453,7 +1453,7 @@ After section 26A of the 1981 Act insert—
 - (b) the word “or” immediately after paragraph (b) is repealed,
 - (c) paragraph (c) is repealed.
 
-#### 23. Offences by Scottish partnerships etc.[^key-2d52487b5472ce6e326171b51f02f0a0]
+#### 23. Offences by Scottish partnerships etc.[^c-2d52487b5472ce6e326171b51f02f0a0]
 
 After section 69 of the 1981 Act (offences by bodies corporate etc.), insert—
 
@@ -1470,7 +1470,7 @@ After section 69 of the 1981 Act (offences by bodies corporate etc.), insert—
 
 ### Liability in relation to certain offences by others
 
-#### 24. Liability in relation to certain offences by others[^key-45cbe6366887a5271a0db45b0afe5550]
+#### 24. Liability in relation to certain offences by others[^c-45cbe6366887a5271a0db45b0afe5550]
 
 After section 18 of the 1981 Act insert—
 
@@ -1541,7 +1541,7 @@ After section 18 of the 1981 Act insert—
 
 ### Modifications and repeals relating to Part 2 and game licensing
 
-#### 25. Modifications and repeals relating to Part 2 and game licensing[^key-d497b5ab67fa3c4a8c8b3b0eaa3ee589][^key-e75ae4c629b6a5aa505b8df16eee3f50]
+#### 25. Modifications and repeals relating to Part 2 and game licensing[^c-d497b5ab67fa3c4a8c8b3b0eaa3ee589][^c-e75ae4c629b6a5aa505b8df16eee3f50]
 
 (1) The modifications in Part 1 of the schedule have effect.
 
@@ -1549,7 +1549,7 @@ After section 18 of the 1981 Act insert—
 
 ## Part 3 — Deer
 
-### 26. Deer management etc.[^key-d6a9ca368a7ed65d4386929408f182aa]
+### 26. Deer management etc.[^c-d6a9ca368a7ed65d4386929408f182aa]
 
 (1) The 1996 Act is amended as follows.
 
@@ -1592,7 +1592,7 @@ After section 18 of the 1981 Act insert—
 
 .
 
-### 27. Deer management code of practice[^key-498bf28caa19c2e5c9bb35fca5822c0a]
+### 27. Deer management code of practice[^c-498bf28caa19c2e5c9bb35fca5822c0a]
 
 (1) After section 5 of the 1996 Act insert—
 
@@ -1649,7 +1649,7 @@ After section 18 of the 1981 Act insert—
 
 .
 
-### 28. Control agreements and control schemes etc.[^key-2a86ca7babe157ce4b2053a8d24e705a]
+### 28. Control agreements and control schemes etc.[^c-2a86ca7babe157ce4b2053a8d24e705a]
 
 (1) The 1996 Act is amended as follows.
 
@@ -1782,7 +1782,7 @@ After section 18 of the 1981 Act insert—
 
     .
 
-### 29. Deer: close seasons etc.[^key-715c8d8b8a32965fe8da0bfa6ee18e5b]
+### 29. Deer: close seasons etc.[^c-715c8d8b8a32965fe8da0bfa6ee18e5b]
 
 (1) The 1996 Act is amended as follows.
 
@@ -1839,7 +1839,7 @@ After section 18 of the 1981 Act insert—
 
   .
 
-### 30. Register of persons competent to shoot deer etc.[^key-04721355be4f6f463838663fdc9da535]
+### 30. Register of persons competent to shoot deer etc.[^c-04721355be4f6f463838663fdc9da535]
 
 (1) The 1996 Act is amended as follows.
 
@@ -1949,7 +1949,7 @@ After section 18 of the 1981 Act insert—
 
 .
 
-### 31. Action intended to prevent suffering[^key-dc3437f443cff57cf1fff8bd19ee0343]
+### 31. Action intended to prevent suffering[^c-dc3437f443cff57cf1fff8bd19ee0343]
 
 (1) The 1996 Act is amended as follows.
 
@@ -1962,7 +1962,7 @@ After section 18 of the 1981 Act insert—
   ,
 - (b) in paragraph (b), the word “by” is repealed.
 
-### 32. Offences by bodies corporate, Scottish partnerships etc. under the 1996 Act[^key-a6d2fba3e351a55007916415062ef21a]
+### 32. Offences by bodies corporate, Scottish partnerships etc. under the 1996 Act[^c-a6d2fba3e351a55007916415062ef21a]
 
 (1) The 1996 Act is amended as follows.
 
@@ -1992,7 +1992,7 @@ After section 18 of the 1981 Act insert—
 
 ### Protection of badgers
 
-#### 33. Protection of badgers[^key-b3bf2825968837ea639d251d1bbe70b6]
+#### 33. Protection of badgers[^c-b3bf2825968837ea639d251d1bbe70b6]
 
 (1) The 1992 Act is amended as follows.
 
@@ -2131,7 +2131,7 @@ After section 18 of the 1981 Act insert—
 
 ### Muirburn
 
-#### 34. Muirburn[^key-d1f8f5af2181c822f8653bd4551105a0]
+#### 34. Muirburn[^c-d1f8f5af2181c822f8653bd4551105a0]
 
 (1) The 1946 Act is amended as follows.
 
@@ -2340,7 +2340,7 @@ After section 18 of the 1981 Act insert—
 - (a) in the title, for “Offences” substitute “ Penalties etc. for offences ”,
 - (b) for the words “twenty-three or section twenty-five” substitute “ 25 or 26(7) ”.
 
-#### 35. Offences by bodies corporate, Scottish partnerships etc. under the 1946 Act[^key-92437421f83ace071f605c9329852f26]
+#### 35. Offences by bodies corporate, Scottish partnerships etc. under the 1946 Act[^c-92437421f83ace071f605c9329852f26]
 
 After section 34 of the 1946 Act, insert—
 
@@ -2366,7 +2366,7 @@ After section 34 of the 1946 Act, insert—
 
 ## Part 5 — Biodiversity
 
-### 36. Reports on compliance with biodiversity duty[^key-44afd6bf43ea1a0ff644ba35da0a76ba]
+### 36. Reports on compliance with biodiversity duty[^c-44afd6bf43ea1a0ff644ba35da0a76ba]
 
 After section 2 of the 2004 Act insert—
 
@@ -2393,7 +2393,7 @@ After section 2 of the 2004 Act insert—
 
 ## Part 6 — Sites of special scientific interest
 
-### 37. Combining sites of special scientific interest[^key-09a21fb741eaf36df7c60e40056372e8]
+### 37. Combining sites of special scientific interest[^c-09a21fb741eaf36df7c60e40056372e8]
 
 (1) The 2004 Act is amended as follows.
 
@@ -2430,7 +2430,7 @@ After section 2 of the 2004 Act insert—
 - (a) in the definition of “site of special scientific interest”, after “3(6)” insert “ (read, where necessary, together with section 5A(3)(b)) ”,
 - (b) in the definition of “SSSI notification”, after “3(5)” insert “ (read, where necessary, together with section 5A(3)(a)) ”.
 
-### 38. Denotification of SSSIs: damage caused by authorised operations[^key-5849250d7c006e0ee5fa7c3228af2d2c]
+### 38. Denotification of SSSIs: damage caused by authorised operations[^c-5849250d7c006e0ee5fa7c3228af2d2c]
 
 In section 9 (denotification of SSSIs) of the 2004 Act, after subsection (4) insert—
 
@@ -2450,7 +2450,7 @@ In section 9 (denotification of SSSIs) of the 2004 Act, after subsection (4) ins
 
 .
 
-### 39. SSSIs: operations requiring consent[^key-03020e71b0cfcd1efb791b24d6bd40e4]
+### 39. SSSIs: operations requiring consent[^c-03020e71b0cfcd1efb791b24d6bd40e4]
 
 (1) The 2004 Act is amended as follows.
 
@@ -2497,7 +2497,7 @@ In section 9 (denotification of SSSIs) of the 2004 Act, after subsection (4) ins
     ,
 - (b) in subsection (4), for the words from “owner” to “functions” substitute “ operation in respect of which section 13 applies. ”.
 
-### 40. SSSI offences: civil enforcement[^key-aa2b33affeaa7b4155ec6697db75fdcd]
+### 40. SSSI offences: civil enforcement[^c-aa2b33affeaa7b4155ec6697db75fdcd]
 
 (1) The 2004 Act is amended as follows—
 
@@ -2622,7 +2622,7 @@ In section 9 (denotification of SSSIs) of the 2004 Act, after subsection (4) ins
 
 ## Part 7 — General
 
-### 41. Crown application[^key-bd3895ebe0478ebf41d0e8799c6a5def]
+### 41. Crown application[^c-bd3895ebe0478ebf41d0e8799c6a5def]
 
 (1) The modifications of enactments made by this Act bind the Crown to the extent the enactments bind the Crown.
 
@@ -2746,7 +2746,7 @@ In section 9 (denotification of SSSIs) of the 2004 Act, after subsection (4) ins
 
 (introduced by section 25)
 
-### Part 1 — Modifications[^key-a6d01d56d99d2853a3a9181882b5e34b]
+### Part 1 — Modifications[^c-a6d01d56d99d2853a3a9181882b5e34b]
 
 **1.** In section 39(2) of the Agriculture (Scotland) Act 1948 (c.45), in the proviso, for the words from “game” to the end substitute
 
@@ -2759,7 +2759,7 @@ In section 9 (denotification of SSSIs) of the 2004 Act, after subsection (4) ins
 
 .
 
-### Part 2 — Repeals[^key-286b41281554efa122b6e89d70039507][^key-fcf6c4fca1b130e275322e0d94f10b5f]
+### Part 2 — Repeals[^c-286b41281554efa122b6e89d70039507][^c-fcf6c4fca1b130e275322e0d94f10b5f]
 
 | *Enactment* | *Extent of repeal* |
 | --- | --- |
@@ -2788,126 +2788,126 @@ In section 9 (denotification of SSSIs) of the 2004 Act, after subsection (4) ins
 
 ## Annotations
 
-[^key-57d953a883967ec5ae1de905307a2f79]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/6/section/2) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/a)
+[^c-57d953a883967ec5ae1de905307a2f79]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/6/section/2) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/a)
 
-[^key-108ce4df63e6e7aa819773120a86c787]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/6/section/3) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/b)
+[^c-108ce4df63e6e7aa819773120a86c787]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/6/section/3) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/b)
 
-[^key-dc4563b62da296139167c9bfb8b46f15]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/6/section/4) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
+[^c-dc4563b62da296139167c9bfb8b46f15]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2011/6/section/4) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/a)
 
-[^key-47c602e0a0d6e3d9ca72c344e48089f9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/6/section/5) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
+[^c-47c602e0a0d6e3d9ca72c344e48089f9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/6/section/5) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
 
-[^key-fc96764578e3acac6b8779dff29795ca]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2011/6/section/6/1)[(3)](https://www.legislation.gov.uk/asp/2011/6/section/6/3)[(4)](https://www.legislation.gov.uk/asp/2011/6/section/6/4) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-fc96764578e3acac6b8779dff29795ca]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2011/6/section/6/1)[(3)](https://www.legislation.gov.uk/asp/2011/6/section/6/3)[(4)](https://www.legislation.gov.uk/asp/2011/6/section/6/4) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
 
-[^key-ccf27a7311ae2341d45f9ed92921b628]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2011/6/section/6/2) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/d)
+[^c-ccf27a7311ae2341d45f9ed92921b628]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2011/6/section/6/2) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/d)
 
-[^key-882eb57b149cd73edb0918f7e17f33bd]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2011/6/section/6/2) in force at 1.1.2012 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-882eb57b149cd73edb0918f7e17f33bd]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2011/6/section/6/2) in force at 1.1.2012 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
 
-[^key-a3ab126e982776445d550823caaac0f1]: Commencement: [S. 6(5)](https://www.legislation.gov.uk/asp/2011/6/section/6/5) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/d)
+[^c-a3ab126e982776445d550823caaac0f1]: Commencement: [S. 6(5)](https://www.legislation.gov.uk/asp/2011/6/section/6/5) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/d)
 
-[^key-994dd1ad1bfd578acb5dbc94f3ef0e8a]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/6/section/7) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/e)
+[^c-994dd1ad1bfd578acb5dbc94f3ef0e8a]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/6/section/7) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/e)
 
-[^key-a2183fd3e0e36dad22abc3d6ff573b5d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/6/section/8) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/f)
+[^c-a2183fd3e0e36dad22abc3d6ff573b5d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/6/section/8) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/f)
 
-[^key-e385de923f2516d255de25eaf932d242]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/6/section/8) in force at 1.1.2012 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-e385de923f2516d255de25eaf932d242]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/6/section/8) in force at 1.1.2012 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
 
-[^key-ec8d594bccca558318f315a216fec0de]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/6/section/9) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(g)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/g)
+[^c-ec8d594bccca558318f315a216fec0de]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/6/section/9) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(g)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/g)
 
-[^key-85351ad41b968da00e7ce8ed1a6f81d8]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/6/section/9) in force at 1.1.2012 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-85351ad41b968da00e7ce8ed1a6f81d8]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/6/section/9) in force at 1.1.2012 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
 
-[^key-574185c607d4da7335de760cc2a787ec]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/6/section/10) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(h)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/h)
+[^c-574185c607d4da7335de760cc2a787ec]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/6/section/10) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(h)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/h)
 
-[^key-528530ffa26da63907b8901971641c99]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/6/section/11) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-528530ffa26da63907b8901971641c99]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/6/section/11) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
 
-[^key-c008d4a68c02c5daa1836ca5f57c1c30]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/6/section/12) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(i)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/i)
+[^c-c008d4a68c02c5daa1836ca5f57c1c30]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/6/section/12) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(i)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/i)
 
-[^key-60f430cd863799c8564d1a4b8bd46fdc]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/6/section/12) in force at 1.1.2012 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-60f430cd863799c8564d1a4b8bd46fdc]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/6/section/12) in force at 1.1.2012 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
 
-[^key-135eb8912fd2b4770e5267f69814b49a]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/asp/2011/6/section/13/1)[(2)](https://www.legislation.gov.uk/asp/2011/6/section/13/2) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(c)(i)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/c/i)
+[^c-135eb8912fd2b4770e5267f69814b49a]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/asp/2011/6/section/13/1)[(2)](https://www.legislation.gov.uk/asp/2011/6/section/13/2) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(c)(i)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/c/i)
 
-[^key-edadebe3d33e741c4a796fca2c687f6c]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/asp/2011/6/section/13/3) in force at 1.1.2012 for specified purposes by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/c/ii)
+[^c-edadebe3d33e741c4a796fca2c687f6c]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/asp/2011/6/section/13/3) in force at 1.1.2012 for specified purposes by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/c/ii)
 
-[^key-f81ac8550b75a7ad2c63f30768e30651]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/asp/2011/6/section/13/3) in force at 22.11.2012 for specified purposes by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3A)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3A/a) (as inserted (22.11.2012) by S.S.I. 2012/281, art. 2(2))
+[^c-f81ac8550b75a7ad2c63f30768e30651]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/asp/2011/6/section/13/3) in force at 22.11.2012 for specified purposes by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3A)(a)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3A/a) (as inserted (22.11.2012) by S.S.I. 2012/281, art. 2(2))
 
-[^key-6931a6aa12ad9d9052f80dca50a0e688]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/asp/2011/6/section/13/3) in force at 1.4.2013 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(4)](https://www.legislation.gov.uk/ssi/2011/433/article/2/4) (as amended (26.12.2011) by S.S.I. 2011/437, art. 2(2) and (22.11.2012) by S.S.I. 2012/281, art. 2(3))
+[^c-6931a6aa12ad9d9052f80dca50a0e688]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/asp/2011/6/section/13/3) in force at 1.4.2013 in so far as not already in force by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(4)](https://www.legislation.gov.uk/ssi/2011/433/article/2/4) (as amended (26.12.2011) by S.S.I. 2011/437, art. 2(2) and (22.11.2012) by S.S.I. 2012/281, art. 2(3))
 
-[^key-d8138a7d8027a155f508a2cec6c24fb9]: Commencement: [S. 13(4)](https://www.legislation.gov.uk/asp/2011/6/section/13/4) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(c)(iii)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/c/iii)
+[^c-d8138a7d8027a155f508a2cec6c24fb9]: Commencement: [S. 13(4)](https://www.legislation.gov.uk/asp/2011/6/section/13/4) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(c)(iii)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/c/iii)
 
-[^key-3eabc5cb24d597343a45bae268cf3e71]: Commencement: [S. 13(5)](https://www.legislation.gov.uk/asp/2011/6/section/13/5) in force at 22.11.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3A)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3A/b) (as inserted (22.11.2012) by S.S.I. 2012/281, art. 2(2))
+[^c-3eabc5cb24d597343a45bae268cf3e71]: Commencement: [S. 13(5)](https://www.legislation.gov.uk/asp/2011/6/section/13/5) in force at 22.11.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3A)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3A/b) (as inserted (22.11.2012) by S.S.I. 2012/281, art. 2(2))
 
-[^key-d1755a888bf84790024e94c33cd6275b]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2011/6/section/14/1)[(2)(b)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/b)[(c)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/c)[(4)](https://www.legislation.gov.uk/asp/2011/6/section/14/4) in force at 2.7.2012 by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/a)
+[^c-d1755a888bf84790024e94c33cd6275b]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2011/6/section/14/1)[(2)(b)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/b)[(c)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/c)[(4)](https://www.legislation.gov.uk/asp/2011/6/section/14/4) in force at 2.7.2012 by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/a)
 
-[^key-4eb51fa12dc364f76017d43fbb83376e]: Commencement: [S. 14(2)(a)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/a) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/i)
+[^c-4eb51fa12dc364f76017d43fbb83376e]: Commencement: [S. 14(2)(a)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/a) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/i)
 
-[^key-af8a90c9bf4942fa625d7404cd3905bc]: Commencement: [S. 14(2)(a)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/a)[(3)](https://www.legislation.gov.uk/asp/2011/6/section/14/3)[(5)](https://www.legislation.gov.uk/asp/2011/6/section/14/5) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/a) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2012/175/article/3/3))
+[^c-af8a90c9bf4942fa625d7404cd3905bc]: Commencement: [S. 14(2)(a)](https://www.legislation.gov.uk/asp/2011/6/section/14/2/a)[(3)](https://www.legislation.gov.uk/asp/2011/6/section/14/3)[(5)](https://www.legislation.gov.uk/asp/2011/6/section/14/5) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/a) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2012/175/article/3/3))
 
-[^key-58761151d3d8de11d703095cfd7a2c25]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/asp/2011/6/section/14/3) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(ii)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/ii)
+[^c-58761151d3d8de11d703095cfd7a2c25]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/asp/2011/6/section/14/3) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(ii)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/ii)
 
-[^key-6ffc2cb53e2a685c5e69f98b542e3825]: Commencement: [S. 14(5)](https://www.legislation.gov.uk/asp/2011/6/section/14/5) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(iii)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/iii)
+[^c-6ffc2cb53e2a685c5e69f98b542e3825]: Commencement: [S. 14(5)](https://www.legislation.gov.uk/asp/2011/6/section/14/5) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(iii)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/iii)
 
-[^key-732f3e0bee67df02803242a84fdcfda1]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/6/section/15) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/d)
+[^c-732f3e0bee67df02803242a84fdcfda1]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/6/section/15) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/d)
 
-[^key-272554fd2c9c764470e60936d8c6e35b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/6/section/16) in force at 2.7.2012 by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/175/article/2/b)
+[^c-272554fd2c9c764470e60936d8c6e35b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/6/section/16) in force at 2.7.2012 by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(b)](https://www.legislation.gov.uk/ssi/2012/175/article/2/b)
 
-[^key-0fac4eac7a6e8351bf9ef227ec698492]: Commencement: S. 17(1)-(5)(6)(a)(b)(i)(7)(8) in force at 2.7.2012 by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(c)](https://www.legislation.gov.uk/ssi/2012/175/article/2/c)
+[^c-0fac4eac7a6e8351bf9ef227ec698492]: Commencement: S. 17(1)-(5)(6)(a)(b)(i)(7)(8) in force at 2.7.2012 by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(c)](https://www.legislation.gov.uk/ssi/2012/175/article/2/c)
 
-[^key-5d0788503edd257ebb33a764b354fb84]: Commencement: S. 17(6)(b)(ii)(iii) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2012/116/article/2/b/i)
+[^c-5d0788503edd257ebb33a764b354fb84]: Commencement: S. 17(6)(b)(ii)(iii) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2012/116/article/2/b/i)
 
-[^key-b77b5834ee2af3bd955a7074015fa694]: Commencement: S. 17(6)(b)(ii)(iii)(c) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(c)](https://www.legislation.gov.uk/ssi/2012/175/article/2/c)
+[^c-b77b5834ee2af3bd955a7074015fa694]: Commencement: S. 17(6)(b)(ii)(iii)(c) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(c)](https://www.legislation.gov.uk/ssi/2012/175/article/2/c)
 
-[^key-b4116ba69a7e09884c9b1daae4275e07]: Commencement: S. 17(6)(c) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(b)(ii)](https://www.legislation.gov.uk/ssi/2012/116/article/2/b/ii)
+[^c-b4116ba69a7e09884c9b1daae4275e07]: Commencement: S. 17(6)(c) in force at 1.5.2012 for specified purposes by [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(b)(ii)](https://www.legislation.gov.uk/ssi/2012/116/article/2/b/ii)
 
-[^key-ac76686edd7dbb7d2e828faa214310ef]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/6/section/18) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(j)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/j)
+[^c-ac76686edd7dbb7d2e828faa214310ef]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2011/6/section/18) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(j)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/j)
 
-[^key-95647d57a32ded8d9964f6b79cb1d9e1]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/6/section/19) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(k)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/k)
+[^c-95647d57a32ded8d9964f6b79cb1d9e1]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/6/section/19) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(k)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/k)
 
-[^key-f6f94bd0cd9f6ecfd452cfc40931a35f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/6/section/20) in force at 2.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/433/article/2/2)
+[^c-f6f94bd0cd9f6ecfd452cfc40931a35f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2011/6/section/20) in force at 2.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/433/article/2/2)
 
-[^key-e4e8e4d9f05ca0e79807f78c2d9c5df3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/6/section/21) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
+[^c-e4e8e4d9f05ca0e79807f78c2d9c5df3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2011/6/section/21) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
 
-[^key-0791bb07f46c499febb46bb0431af75c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2011/6/section/22) in force at 2.7.2012 by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/d)
+[^c-0791bb07f46c499febb46bb0431af75c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2011/6/section/22) in force at 2.7.2012 by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/d)
 
-[^key-2d52487b5472ce6e326171b51f02f0a0]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/6/section/23) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
+[^c-2d52487b5472ce6e326171b51f02f0a0]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2011/6/section/23) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
 
-[^key-45cbe6366887a5271a0db45b0afe5550]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2011/6/section/24) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
+[^c-45cbe6366887a5271a0db45b0afe5550]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2011/6/section/24) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
 
-[^key-d497b5ab67fa3c4a8c8b3b0eaa3ee589]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/6/section/25) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l)
+[^c-d497b5ab67fa3c4a8c8b3b0eaa3ee589]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/6/section/25) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l)
 
-[^key-e75ae4c629b6a5aa505b8df16eee3f50]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/6/section/25) in force at 2.7.2012 for specified purposes by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(e)](https://www.legislation.gov.uk/ssi/2012/175/article/2/e) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2012/175/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2012/175/article/3/2))
+[^c-e75ae4c629b6a5aa505b8df16eee3f50]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/6/section/25) in force at 2.7.2012 for specified purposes by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(e)](https://www.legislation.gov.uk/ssi/2012/175/article/2/e) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2012/175/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2012/175/article/3/2))
 
-[^key-d6a9ca368a7ed65d4386929408f182aa]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2011/6/section/26) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+[^c-d6a9ca368a7ed65d4386929408f182aa]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2011/6/section/26) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
-[^key-498bf28caa19c2e5c9bb35fca5822c0a]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2011/6/section/27) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+[^c-498bf28caa19c2e5c9bb35fca5822c0a]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2011/6/section/27) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
-[^key-2a86ca7babe157ce4b2053a8d24e705a]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2011/6/section/28) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+[^c-2a86ca7babe157ce4b2053a8d24e705a]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2011/6/section/28) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
-[^key-715c8d8b8a32965fe8da0bfa6ee18e5b]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2011/6/section/29) in force at 1.4.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3)
+[^c-715c8d8b8a32965fe8da0bfa6ee18e5b]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2011/6/section/29) in force at 1.4.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(3)](https://www.legislation.gov.uk/ssi/2011/433/article/2/3)
 
-[^key-04721355be4f6f463838663fdc9da535]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2011/6/section/30) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+[^c-04721355be4f6f463838663fdc9da535]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2011/6/section/30) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
-[^key-dc3437f443cff57cf1fff8bd19ee0343]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2011/6/section/31) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+[^c-dc3437f443cff57cf1fff8bd19ee0343]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2011/6/section/31) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
-[^key-a6d2fba3e351a55007916415062ef21a]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2011/6/section/32) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
+[^c-a6d2fba3e351a55007916415062ef21a]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2011/6/section/32) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(f)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/f)
 
-[^key-b3bf2825968837ea639d251d1bbe70b6]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2011/6/section/33) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(m)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/m)
+[^c-b3bf2825968837ea639d251d1bbe70b6]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2011/6/section/33) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(m)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/m)
 
-[^key-d1f8f5af2181c822f8653bd4551105a0]: Commencement: S. 34 in force at 1.8.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/279/article/2/2)
+[^c-d1f8f5af2181c822f8653bd4551105a0]: Commencement: S. 34 in force at 1.8.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/279/article/2/2)
 
-[^key-92437421f83ace071f605c9329852f26]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2011/6/section/35) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(g)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/g)
+[^c-92437421f83ace071f605c9329852f26]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2011/6/section/35) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(g)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/g)
 
-[^key-44afd6bf43ea1a0ff644ba35da0a76ba]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2011/6/section/36) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(h)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/h)
+[^c-44afd6bf43ea1a0ff644ba35da0a76ba]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2011/6/section/36) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(h)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/h)
 
-[^key-09a21fb741eaf36df7c60e40056372e8]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2011/6/section/37) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(n)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/n)
+[^c-09a21fb741eaf36df7c60e40056372e8]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2011/6/section/37) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(n)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/n)
 
-[^key-5849250d7c006e0ee5fa7c3228af2d2c]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2011/6/section/38) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(o)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/o)
+[^c-5849250d7c006e0ee5fa7c3228af2d2c]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2011/6/section/38) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(o)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/o)
 
-[^key-03020e71b0cfcd1efb791b24d6bd40e4]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2011/6/section/39) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(p)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/p)
+[^c-03020e71b0cfcd1efb791b24d6bd40e4]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2011/6/section/39) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(p)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/p)
 
-[^key-aa2b33affeaa7b4155ec6697db75fdcd]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2011/6/section/40) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)
+[^c-aa2b33affeaa7b4155ec6697db75fdcd]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2011/6/section/40) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)
 
-[^key-bd3895ebe0478ebf41d0e8799c6a5def]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2011/6/section/41) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(i)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/i)
+[^c-bd3895ebe0478ebf41d0e8799c6a5def]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2011/6/section/41) in force at 1.1.2012 by [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(i)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/i)
 
-[^key-a6d01d56d99d2853a3a9181882b5e34b]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/asp/2011/6/schedule/part/1) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(i)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/i)
+[^c-a6d01d56d99d2853a3a9181882b5e34b]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/asp/2011/6/schedule/part/1) in force at 29.6.2011 by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(i)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/i)
 
-[^key-286b41281554efa122b6e89d70039507]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as substituted (29.6.2011) by S.S.I. 2011/287, art. 2(2))
+[^c-286b41281554efa122b6e89d70039507]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) in force at 29.6.2011 for specified purposes by [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as substituted (29.6.2011) by S.S.I. 2011/287, art. 2(2))
 
-[^key-fcf6c4fca1b130e275322e0d94f10b5f]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) in force at 2.7.2012 for specified purposes by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(e)](https://www.legislation.gov.uk/ssi/2012/175/article/2/e) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2012/175/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2012/175/article/3/2))
+[^c-fcf6c4fca1b130e275322e0d94f10b5f]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) in force at 2.7.2012 for specified purposes by [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(e)](https://www.legislation.gov.uk/ssi/2012/175/article/2/e) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2012/175/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2012/175/article/3/2))

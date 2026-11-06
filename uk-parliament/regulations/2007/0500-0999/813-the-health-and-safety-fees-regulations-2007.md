@@ -291,7 +291,7 @@ insofar as such enforcement is for the purpose of protecting persons from risks 
 
 (7) Any reference in regulations 15 and 16 to a function conferred on an inspector by the 1974 Act which relates to enforcement against a person of any of the relevant statutory provisions includes a reference to any function conferred on an inspector by that Act which is exercised for the purpose of carrying into effect those provisions in relation to that person.
 
-## 17A. Fees payable in relation to nuclear design proposals[^key-a64cc92eaecf7d9aa60321a57606ffbe]
+## 17A. Fees payable in relation to nuclear design proposals[^c-a64cc92eaecf7d9aa60321a57606ffbe]
 
 (1) Where, by virtue of the provisions specified in entry (a) or (b) of column 1 of Schedule 13A, the Executive carries out any work for a purpose specified in column 2 of that Schedule, a fee shall be payable by the person referred to in column 3 of that Schedule.
 
@@ -829,7 +829,7 @@ Regulation 16
 | Providing advice with respect to the preparation of a safety case or revision to a safety case which is proposed to be sent to the Executive pursuant to any provision of the 1996 Regulations | The person conveying gas, the person intending to convey gas or the network co-ordinator who has requested that advice |
 | Assessing whether to grant an exemption pursuant to regulation 11 of the 1996 Regulations | The operator or owner who has requested the exemption |
 
-## SCHEDULE 13A — FEES PAYABLE IN RELATION TO NUCLEAR DESIGN PROPOSALS[^key-af144bfcf685dd9507e1a77909b47676]
+## SCHEDULE 13A — FEES PAYABLE IN RELATION TO NUCLEAR DESIGN PROPOSALS[^c-af144bfcf685dd9507e1a77909b47676]
 
 Regulation 17A
 
@@ -1164,7 +1164,7 @@ and in respect of—
 
 [^c18368381]: Marginal citation: [S.I. 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
 
-[^key-a64cc92eaecf7d9aa60321a57606ffbe]: Textual amendment: Reg. 17A inserted (2.7.2007) by [The Health and Safety (Fees) (Amendment) Regulations 2007 (S.I. 2007/1672)](https://www.legislation.gov.uk/uksi/2007/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1672/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1672/regulation/2/2)
+[^c-a64cc92eaecf7d9aa60321a57606ffbe]: Textual amendment: Reg. 17A inserted (2.7.2007) by [The Health and Safety (Fees) (Amendment) Regulations 2007 (S.I. 2007/1672)](https://www.legislation.gov.uk/uksi/2007/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1672/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1672/regulation/2/2)
 
 [^c18368501]: Marginal citation: [1965 (c. 57)](https://www.legislation.gov.uk/ukpga/1965/57).
 
@@ -1190,4 +1190,4 @@ and in respect of—
 
 [^c18368491]: Marginal citation: [S.I. 1991/1531](https://www.legislation.gov.uk/uksi/1991/1531), to which there are amendments not relevant to these Regulations.
 
-[^key-af144bfcf685dd9507e1a77909b47676]: Textual amendment: Sch. 13A added (2.7.2007) by [The Health and Safety (Fees) (Amendment) Regulations 2007 (S.I. 2007/1672)](https://www.legislation.gov.uk/uksi/2007/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1672/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/1672/regulation/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/1672/schedule)
+[^c-af144bfcf685dd9507e1a77909b47676]: Textual amendment: Sch. 13A added (2.7.2007) by [The Health and Safety (Fees) (Amendment) Regulations 2007 (S.I. 2007/1672)](https://www.legislation.gov.uk/uksi/2007/1672), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1672/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/1672/regulation/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/1672/schedule)

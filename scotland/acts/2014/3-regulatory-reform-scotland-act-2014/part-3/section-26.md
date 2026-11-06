@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Undertakings under section 24: non-compliance penalties[^key-749e2485e6c7fa29688f479284c341ef]
+## 26. Undertakings under section 24: non-compliance penalties[^c-749e2485e6c7fa29688f479284c341ef]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-749e2485e6c7fa29688f479284c341ef]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2014/3/section/26) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-749e2485e6c7fa29688f479284c341ef]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2014/3/section/26) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

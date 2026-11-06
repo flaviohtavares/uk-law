@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5B — Enterprise investment scheme: re-investment[^key-a107d16142a124fbbb6cf19c5c89fc02]
+## SCHEDULE 5B — Enterprise investment scheme: re-investment[^c-a107d16142a124fbbb6cf19c5c89fc02]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,23 +25,23 @@ summary: ''
 **1.** (1) This Schedule applies where—
 
 - (a) there would (apart from paragraph 2(2)(a) below) be a chargeable gain (“the original gain”) accruing to an individual (“the investor”) at any time (“the accrual time”) on or after 29th November 1994;
-- (b) the gain is one accruing either on the disposal by the investor of any asset or in accordance with section 164F or 164FA,[^key-47acf7650e77aaeac1a6bf36b8830c1f] section 169N,[^key-557a5a6c27046e9a781f345da430c62c] paragraphs 4 and 5 below or paragraphs 4 and 5 of Schedule 5C;
+- (b) the gain is one accruing either on the disposal by the investor of any asset or in accordance with section 164F or 164FA,[^c-47acf7650e77aaeac1a6bf36b8830c1f] section 169N,[^c-557a5a6c27046e9a781f345da430c62c] paragraphs 4 and 5 below or paragraphs 4 and 5 of Schedule 5C;
 - (c) the investor makes a qualifying investment; and
-- (d) the investor is resident [^key-edf647669166fb54e18a9f5e2c25d2c0]... in the United Kingdom at the accrual time and the time when he makes the qualifying investment and is not, in relation to the qualifying investment, a person to whom sub-paragraph (4) below applies.
+- (d) the investor is resident [^c-edf647669166fb54e18a9f5e2c25d2c0]... in the United Kingdom at the accrual time and the time when he makes the qualifying investment and is not, in relation to the qualifying investment, a person to whom sub-paragraph (4) below applies.
 
-(2)[^key-7208e46bbffb1760470495709d2a61f9] The investor makes a qualifying investment for the purposes of this Schedule if—
+(2)[^c-7208e46bbffb1760470495709d2a61f9] The investor makes a qualifying investment for the purposes of this Schedule if—
 
-- (a) eligible shares in a company for which he has subscribed [^key-1116730b8fcceed9949f839956907785]... are issued to him at a qualifying time and, where that time is before the accrual time, the shares are still held by the investor at the accrual time,
-- (aza)[^key-e4e087358830c93fa4b235d052998a2b] he subscribed for the shares (other than any of them which are bonus shares) wholly in cash,
+- (a) eligible shares in a company for which he has subscribed [^c-1116730b8fcceed9949f839956907785]... are issued to him at a qualifying time and, where that time is before the accrual time, the shares are still held by the investor at the accrual time,
+- (aza)[^c-e4e087358830c93fa4b235d052998a2b] he subscribed for the shares (other than any of them which are bonus shares) wholly in cash,
 - (b) the company is a qualifying company in relation to the shares,
-- (c) at the time when they are issued the shares (other than any of them which are bonus shares) are fully paid up[^key-391aa08a8fdab96b0a99458df8feaeaf],
+- (c) at the time when they are issued the shares (other than any of them which are bonus shares) are fully paid up[^c-391aa08a8fdab96b0a99458df8feaeaf],
 - (d) the shares are subscribed for, and issued, for bona fide commercial purposes and not as part of arrangements the main purpose or one of the main purposes of which is the avoidance of tax,
-- (da)[^key-4ba169046c13af129b109c239aac7cd9] the total amount of relevant investments made in the company in the year ending with the date the shares are issued does not exceed £5 million[^key-c79fd12a47027e40c8259317b7b8d195],
-- (e) the requirements of section 289(1A) of the Taxes Act (read with section 289(1B) to (1E) of that Act)[^key-75b76d82f5b3239cc136df18a2545abf], or the requirements of section 183 of ITA 2007,[^key-b7f7a45a0c9d1b33d332bb5724820d79] are satisfied in relation to the company,
-- (f) the shares (other than any of them which are bonus shares)[^key-6da6d5ae82b8e34fd6f3c0cb0c4a72e6] are issued in order to raise money for the purpose of a qualifying business activity, and[^key-63dc2513f864980d52309b26790e5b66]
+- (da)[^c-4ba169046c13af129b109c239aac7cd9] the total amount of relevant investments made in the company in the year ending with the date the shares are issued does not exceed £5 million[^c-c79fd12a47027e40c8259317b7b8d195],
+- (e) the requirements of section 289(1A) of the Taxes Act (read with section 289(1B) to (1E) of that Act)[^c-75b76d82f5b3239cc136df18a2545abf], or the requirements of section 183 of ITA 2007,[^c-b7f7a45a0c9d1b33d332bb5724820d79] are satisfied in relation to the company,
+- (f) the shares (other than any of them which are bonus shares)[^c-6da6d5ae82b8e34fd6f3c0cb0c4a72e6] are issued in order to raise money for the purpose of a qualifying business activity, and[^c-63dc2513f864980d52309b26790e5b66]
 - (g) all of the money raised by the issue of the shares (other than any of them which are bonus shares) is, no later than the time mentioned in section 175(3) of ITA 2007, employed wholly for the purpose of that activity,
 
-and for the purposes of this Schedule, the condition in paragraph (g) above does[^key-ea776f18efaae407ebbfbddafd3029df] not fail to be satisfied by reason only of the fact that an amount of money which is not significant is employed for another purpose.
+and for the purposes of this Schedule, the condition in paragraph (g) above does[^c-ea776f18efaae407ebbfbddafd3029df] not fail to be satisfied by reason only of the fact that an amount of money which is not significant is employed for another purpose.
 
 (3) In sub-paragraph (2) above “**a qualifying time**”, in relation to any shares subscribed for by the investor, means—
 
@@ -50,78 +50,78 @@ and for the purposes of this Schedule, the condition in paragraph (g) above does
 
 (4) This sub-paragraph applies to the investor in relation to a qualifying investment if—
 
-- (a) though resident [^key-265ffab8ebdf2d0d032b36e367572fbf]... in the United Kingdom at the time when he makes the investment, he is regarded for the purposes of any double taxation relief arrangements as resident in a territory outside the United Kingdom, and
+- (a) though resident [^c-265ffab8ebdf2d0d032b36e367572fbf]... in the United Kingdom at the time when he makes the investment, he is regarded for the purposes of any double taxation relief arrangements as resident in a territory outside the United Kingdom, and
 - (b) were section 150A to be disregarded, the arrangements would have the effect that he would not be liable in the United Kingdom to tax on a gain arising on a disposal, immediately after their acquisition, of the shares acquired in making that investment.
 
-(5)[^key-8c028c89d1875001130ba0feaa0ca418] Shares are not fully paid up for the purposes of sub-paragraph (2)(c) above if there is any undertaking to pay cash to any person at a future date in respect of the acquisition of the shares.
+(5)[^c-8c028c89d1875001130ba0feaa0ca418] Shares are not fully paid up for the purposes of sub-paragraph (2)(c) above if there is any undertaking to pay cash to any person at a future date in respect of the acquisition of the shares.
 
-(5A)[^key-8612bfe2191f24160a96041f269896fc] The reference in sub-paragraph (1)(b) to a gain accruing in accordance with section 169N does not include such a gain so far as it is chargeable to capital gains tax at the rate in section 169N(3).
+(5A)[^c-8612bfe2191f24160a96041f269896fc] The reference in sub-paragraph (1)(b) to a gain accruing in accordance with section 169N does not include such a gain so far as it is chargeable to capital gains tax at the rate in section 169N(3).
 
-(6)[^key-743ce9d3a87a87dcf92d497fe9f38ade] Section 173A(3) and (4) of ITA 2007 (meaning of “relevant investment”) apply for the purposes of sub-paragraph (2)(da).
+(6)[^c-743ce9d3a87a87dcf92d497fe9f38ade] Section 173A(3) and (4) of ITA 2007 (meaning of “relevant investment”) apply for the purposes of sub-paragraph (2)(da).
 
 (7) In sub-paragraph (2)(da), the reference to relevant investments made in the company includes relevant investments made in a company that is, or has at any time in the year mentioned there been, a subsidiary of the company (whether or not it was such a subsidiary when the investment was made).
 
-### Failure of conditions of application[^key-a488163a5cb10a891fcac471ac52ea97]
+### Failure of conditions of application[^c-a488163a5cb10a891fcac471ac52ea97]
 
-**1A.** (1) If the condition in sub-paragraph (2)(b) or (2)(da)[^key-de1e628036849cb1a858cf1e19303904] of paragraph 1 above is not satisfied in consequence of an event occurring after the issue of eligible shares, the shares mentioned in sub-paragraph (2)(a) of that paragraph[^key-53b5615e6aeb5e93fb49206a8887dcc3] shall be treated for the purposes of this Schedule as ceasing to be eligible shares on the date of the event.
+**1A.** (1) If the condition in sub-paragraph (2)(b) or (2)(da)[^c-de1e628036849cb1a858cf1e19303904] of paragraph 1 above is not satisfied in consequence of an event occurring after the issue of eligible shares, the shares mentioned in sub-paragraph (2)(a) of that paragraph[^c-53b5615e6aeb5e93fb49206a8887dcc3] shall be treated for the purposes of this Schedule as ceasing to be eligible shares on the date of the event.
 
-(2) If the condition in sub-paragraph (2)(e) of that paragraph is not satisfied in consequence of an event occurring after the issue of eligible shares, the shares mentioned in sub-paragraph (2)(a) of that paragraph[^key-b99611bbbc75a5b07275b10e3b058553] shall be treated for the purposes of this Schedule as ceasing to be eligible shares on the date of the event.
+(2) If the condition in sub-paragraph (2)(e) of that paragraph is not satisfied in consequence of an event occurring after the issue of eligible shares, the shares mentioned in sub-paragraph (2)(a) of that paragraph[^c-b99611bbbc75a5b07275b10e3b058553] shall be treated for the purposes of this Schedule as ceasing to be eligible shares on the date of the event.
 
-(3) If the condition in sub-paragraph (2)(f) of that paragraph is not satisfied in relation to the shares mentioned in sub-paragraph (2)(a) of that paragraph,[^key-ec8494027392bb4a88b4780ead5184ed] the shares shall be treated for the purposes of this Schedule as never having been eligible shares.
+(3) If the condition in sub-paragraph (2)(f) of that paragraph is not satisfied in relation to the shares mentioned in sub-paragraph (2)(a) of that paragraph,[^c-ec8494027392bb4a88b4780ead5184ed] the shares shall be treated for the purposes of this Schedule as never having been eligible shares.
 
-(4) If the condition in sub-paragraph (2)(g) [^key-e6bd32a22fd4fd6d98a9e459a19e17d3]... of that paragraph is not satisfied in relation to the issue of eligible shares, the shares mentioned in sub-paragraph (2)(a) of that paragraph[^key-4e2ede21967458b2acfef7694a6ca4e4] shall be treated for the purposes of this Schedule—
+(4) If the condition in sub-paragraph (2)(g) [^c-e6bd32a22fd4fd6d98a9e459a19e17d3]... of that paragraph is not satisfied in relation to the issue of eligible shares, the shares mentioned in sub-paragraph (2)(a) of that paragraph[^c-4e2ede21967458b2acfef7694a6ca4e4] shall be treated for the purposes of this Schedule—
 
-- (a) if the claim under this Schedule is made after the time mentioned in section 175(3) of ITA 2007[^key-79f0260654f30f0aaa7576a49d5e80fe], as never having been eligible shares; and
+- (a) if the claim under this Schedule is made after the time mentioned in section 175(3) of ITA 2007[^c-79f0260654f30f0aaa7576a49d5e80fe], as never having been eligible shares; and
 - (b) if that claim is made before that time, as ceasing to be eligible shares at that time.
 
-(4A)[^key-f8f9373d99b2eb7d8d631a7eac81ca51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-f8f9373d99b2eb7d8d631a7eac81ca51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) None of the preceding sub-paragraphs applies unless—
 
-- (a) the company has given notice under paragraph 16(2) or (4) below, section 310(2) of the Taxes Act or section 241(3) of ITA 2007[^key-2e3ac68aa863cdcbc318a0d1ed80112b]; or
-- (b) an inspector has given notice to the company stating that, by reason of the matter mentioned in that sub-paragraph, the shares mentioned in paragraph 1(2)(a) above[^key-387d0e1e35fdbb7fb492e9a78a4f6134] should, in his opinion, be treated for the purposes of this Schedule as never having been or, as the case may be, as ceasing to be eligible shares.
+- (a) the company has given notice under paragraph 16(2) or (4) below, section 310(2) of the Taxes Act or section 241(3) of ITA 2007[^c-2e3ac68aa863cdcbc318a0d1ed80112b]; or
+- (b) an inspector has given notice to the company stating that, by reason of the matter mentioned in that sub-paragraph, the shares mentioned in paragraph 1(2)(a) above[^c-387d0e1e35fdbb7fb492e9a78a4f6134] should, in his opinion, be treated for the purposes of this Schedule as never having been or, as the case may be, as ceasing to be eligible shares.
 
 (6) The giving of notice by an inspector under sub-paragraph (5) above shall be taken, for the purposes of the provisions of the Management Act relating to appeals against decisions on claims, to be a decision refusing a claim made by the company.
 
-(7) Where any issue has been determined on an appeal brought by virtue of section 307(1B) of the Taxes Act or section 236(1) of ITA 2007[^key-01e8f7906ce02e4ff5b36f53f98eac71] (appeal against notice that relief was not due), the determination shall be conclusive for the purposes of any appeal brought by virtue of sub-paragraph (6) above on which that issue arises.
+(7) Where any issue has been determined on an appeal brought by virtue of section 307(1B) of the Taxes Act or section 236(1) of ITA 2007[^c-01e8f7906ce02e4ff5b36f53f98eac71] (appeal against notice that relief was not due), the determination shall be conclusive for the purposes of any appeal brought by virtue of sub-paragraph (6) above on which that issue arises.
 
 ### Postponement of original gain
 
-**2.** (1) On the making of a claim by the investor for the purposes of this Schedule, so much of the investor’s unused qualifying expenditure on the relevant shares[^key-301240805bfd86bcb0901cbde2dd6285] as—
+**2.** (1) On the making of a claim by the investor for the purposes of this Schedule, so much of the investor’s unused qualifying expenditure on the relevant shares[^c-301240805bfd86bcb0901cbde2dd6285] as—
 
 - (a) is specified in the claim, and
 - (b) does not exceed so much of the original gain as is unmatched,
 
 shall be set against a corresponding amount of the original gain.
 
-(2) Where an amount of qualifying expenditure on the relevant shares[^key-af625b8adf62e15e5f20e932122f9b24] is set under this Schedule against the whole or part of the original gain—
+(2) Where an amount of qualifying expenditure on the relevant shares[^c-af625b8adf62e15e5f20e932122f9b24] is set under this Schedule against the whole or part of the original gain—
 
 - (a) so much of that gain as is equal to that amount shall be treated as not having accrued at the accrual time; but
-- (b) paragraphs 4 and 5 below shall apply for determining the gain that is to be treated as accruing on the occurrence of any chargeable event in relation to any of the relevant shares[^key-b8deab97154bb9e39c9ae4a90c66eda0].
+- (b) paragraphs 4 and 5 below shall apply for determining the gain that is to be treated as accruing on the occurrence of any chargeable event in relation to any of the relevant shares[^c-b8deab97154bb9e39c9ae4a90c66eda0].
 
 (3) For the purposes of this Schedule—
 
-- (a)[^key-794008056aefc2c0e29aa4bc60a32a14] the investor’s qualifying expenditure on the relevant shares is the amount subscribed by him for the shares; and
-- (b) that expenditure is unused to the extent that it has not already been set under this Schedule or paragraph 1(5) of Schedule 5BB[^key-d9ae91b0f8573d0b164eb9ef0b9c5ef5] against the whole or any part of a chargeable gain.
+- (a)[^c-794008056aefc2c0e29aa4bc60a32a14] the investor’s qualifying expenditure on the relevant shares is the amount subscribed by him for the shares; and
+- (b) that expenditure is unused to the extent that it has not already been set under this Schedule or paragraph 1(5) of Schedule 5BB[^c-d9ae91b0f8573d0b164eb9ef0b9c5ef5] against the whole or any part of a chargeable gain.
 
-(4) For the purposes of this paragraph the original gain is unmatched, in relation to any qualifying expenditure on the relevant shares[^key-fb754a0e87e9a020cfec6e64a163bd25], to the extent that it has not had any other expenditure set against it under this Schedule or paragraph 1(5) of Schedule 5BB[^key-7b7ea41fde8c163ac00a76fb87490560] [^key-dbe58a6d5792854b16ce4d41d50f7114]... .
+(4) For the purposes of this paragraph the original gain is unmatched, in relation to any qualifying expenditure on the relevant shares[^c-fb754a0e87e9a020cfec6e64a163bd25], to the extent that it has not had any other expenditure set against it under this Schedule or paragraph 1(5) of Schedule 5BB[^c-7b7ea41fde8c163ac00a76fb87490560] [^c-dbe58a6d5792854b16ce4d41d50f7114]... .
 
 ### Chargeable events
 
-**3.** (1) Subject to the following provisions of this paragraph, there is for the purposes of this Schedule a chargeable event in relation to any of the relevant shares[^key-e23e197c66b09aff7cbd2ee1a71d89f3] if, after the making of the qualifying investment—
+**3.** (1) Subject to the following provisions of this paragraph, there is for the purposes of this Schedule a chargeable event in relation to any of the relevant shares[^c-e23e197c66b09aff7cbd2ee1a71d89f3] if, after the making of the qualifying investment—
 
-- (a) the investor disposes of those shares otherwise than by way of a disposal within marriage or civil partnership[^key-f4fcada040ff863c2dc6446f8a6ff203];
+- (a) the investor disposes of those shares otherwise than by way of a disposal within marriage or civil partnership[^c-f4fcada040ff863c2dc6446f8a6ff203];
 - (b) those shares are disposed of, otherwise than by way of a disposal to the investor, by a person who acquired them on a disposal made by the investor within marriage or civil partnership;
-- (c) the investor becomes a non-resident while holding those shares and before the termination date relating to those shares[^key-73ba2515fa467a07cefb39aa458dabad];
-- (d) a person who acquired those shares on a disposal within marriage or civil partnership becomes a non-resident while holding those shares and before the termination date relating to those shares; or[^key-2421f2a28cb7bcceece81d566a59e390]
+- (c) the investor becomes a non-resident while holding those shares and before the termination date relating to those shares[^c-73ba2515fa467a07cefb39aa458dabad];
+- (d) a person who acquired those shares on a disposal within marriage or civil partnership becomes a non-resident while holding those shares and before the termination date relating to those shares; or[^c-2421f2a28cb7bcceece81d566a59e390]
 - (e) those shares cease (or are treated for the purposes of this Schedule as ceasing) to be eligible shares.
 
-(2)[^key-078505e4af771fb733feba6cffb6f530] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-078505e4af771fb733feba6cffb6f530] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of this Schedule there shall not be a chargeable event by virtue of sub-paragraph (1)(c) or (d) above in relation to any shares if—
 
 - (a) the reason why the person in question becomes a non-resident is that he works in an employment or office all the duties of which are performed outside the United Kingdom, and
-- (b) he again becomes resident [^key-b4389515e7cce536b0aef8662217dcde]... in the United Kingdom within the period of three years from the time when he became a non-resident, without having meanwhile disposed of any of those shares;
+- (b) he again becomes resident [^c-b4389515e7cce536b0aef8662217dcde]... in the United Kingdom within the period of three years from the time when he became a non-resident, without having meanwhile disposed of any of those shares;
 
 and accordingly no assessment shall be made by virtue of sub-paragraph (1)(c) or (d) above before the end of that period in a case where the condition in paragraph (a) above is satisfied and the condition in paragraph (b) above may be satisfied.
 
@@ -129,48 +129,48 @@ and accordingly no assessment shall be made by virtue of sub-paragraph (1)(c) or
 
 (5) Where in any case—
 
-- (a) the investor or a person who has acquired any of the relevant shares[^key-677d8a6a994627a9d3e2e80b426b6bb2] on a disposal within marriage or civil partnership dies, and
+- (a) the investor or a person who has acquired any of the relevant shares[^c-677d8a6a994627a9d3e2e80b426b6bb2] on a disposal within marriage or civil partnership dies, and
 - (b) an event occurs at or after the time of the death which (apart from this sub-paragraph) would be a chargeable event in relation to any of the relevant shares held by the deceased immediately before his death,
 
 that event shall not be a chargeable event in relation to the shares so held.
 
-(6)[^key-373b4fd5ee2577e1ad79b998df404ae3] Any reference in the following provisions of this Schedule to a chargeable event falling within a particular paragraph of sub-paragraph (1) above is a reference to a chargeable event arising for the purposes of this Schedule by virtue of that paragraph.
+(6)[^c-373b4fd5ee2577e1ad79b998df404ae3] Any reference in the following provisions of this Schedule to a chargeable event falling within a particular paragraph of sub-paragraph (1) above is a reference to a chargeable event arising for the purposes of this Schedule by virtue of that paragraph.
 
 ### Gain accruing on chargeable event
 
-**4.** (1) On the occurrence of a chargeable event in relation to any of the relevant shares[^key-5d669765fa68ca84631f448befe09c74] in relation to which there has not been a previous chargeable event—
+**4.** (1) On the occurrence of a chargeable event in relation to any of the relevant shares[^c-5d669765fa68ca84631f448befe09c74] in relation to which there has not been a previous chargeable event—
 
 - (a) a chargeable gain shall be treated as accruing at the time of the event; and
-- (b)[^key-937ebd8d4b6f2d2cd3183264500ea8c2] the amount of the gain shall be equal to so much of the deferred gain as is attributable to the shares in relation to which the chargeable event occurs.
+- (b)[^c-937ebd8d4b6f2d2cd3183264500ea8c2] the amount of the gain shall be equal to so much of the deferred gain as is attributable to the shares in relation to which the chargeable event occurs.
 
-(2)[^key-b67e06031bda8b6f2b29f11e55c98789] Any question for the purposes of capital gains tax as to whether any shares to which a disposal (including a disposal within marriage or civil partnership[^key-716a99c79f0d59390f657377a5928315]) relates are shares to which deferral relief is attributable shall be determined in accordance with sub-paragraphs (3) and (4) below.
+(2)[^c-b67e06031bda8b6f2b29f11e55c98789] Any question for the purposes of capital gains tax as to whether any shares to which a disposal (including a disposal within marriage or civil partnership[^c-716a99c79f0d59390f657377a5928315]) relates are shares to which deferral relief is attributable shall be determined in accordance with sub-paragraphs (3) and (4) below.
 
 (3) Where shares of any class in a company have been acquired by an individual on different days, any disposal by him of shares of that class shall be treated as relating to those acquired on an earlier day rather than to those acquired on a later day.
 
 (4) Where shares of any class in a company have been acquired by an individual on the same day, any of those shares disposed of by him shall be treated as disposed of in the following order, namely—
 
-- (a) first any to which neither deferral relief nor relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^key-a3bd7333096ed03905e9366edffa1ead] is attributable;
+- (a) first any to which neither deferral relief nor relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^c-a3bd7333096ed03905e9366edffa1ead] is attributable;
 - (b) next any to which deferral relief, but not relief under that Chapter or that Part, is attributable;
 - (c) next any to which relief under that Chapter or that Part, but not deferral relief, is attributable; and
 - (d) finally any to which both deferral relief and relief under that Chapter or that Part are attributable.
 
 (4A) The following, namely—
 
-- (a) any shares to which deferral relief, but not relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^key-901358e01860acb392f20baeeba123f1], is attributable and which were disposed of to an individual by a disposal within marriage or civil partnership, and
-- (b) any shares to which relief under that Chapter or that Part is attributable and which were transferred to an individual as mentioned in section 304 of the Taxes Act or section 245 of ITA 2007[^key-ff11f373cc2c396d5b23bb8d90ae2d70],
+- (a) any shares to which deferral relief, but not relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^c-901358e01860acb392f20baeeba123f1], is attributable and which were disposed of to an individual by a disposal within marriage or civil partnership, and
+- (b) any shares to which relief under that Chapter or that Part is attributable and which were transferred to an individual as mentioned in section 304 of the Taxes Act or section 245 of ITA 2007[^c-ff11f373cc2c396d5b23bb8d90ae2d70],
 
 shall be treated for the purposes of sub-paragraphs (3) and (4) above as acquired by him on the day on which they were issued.
 
 (4B) Chapter I of Part IV of this Act has effect subject to sub-paragraphs (2) to (4A) above.
 
-(4C) Sections 104, 105 and 106A shall not apply to shares to which deferral relief, but not relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^key-9204b1211ebcf0d8b15b5c5dcbaf26a1], is attributable.
+(4C) Sections 104, 105 and 106A shall not apply to shares to which deferral relief, but not relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^c-9204b1211ebcf0d8b15b5c5dcbaf26a1], is attributable.
 
-(5) Where at the time of a chargeable event any of the relevant shares[^key-b7f4867d4298e7a7a379ba8ad7cdbbc3] are treated for the purposes of this Act as represented by assets which consist of or include assets other than those shares—
+(5) Where at the time of a chargeable event any of the relevant shares[^c-b7f4867d4298e7a7a379ba8ad7cdbbc3] are treated for the purposes of this Act as represented by assets which consist of or include assets other than those shares—
 
-- (a)[^key-5c0b65b35647963f388566f3f8ec8557] so much of the deferred gain as is attributable to those shares shall be treated, in determining for the purposes of this paragraph the amount of the deferred gain to be treated as attributable to each of those assets, as apportioned in such manner as may be just and reasonable between those assets; and
-- (b) as between different assets treated as representing the same shares[^key-822f1f6ce26dfc9a28cc8af5ee77943b], sub-paragraphs (3) to (4A) above[^key-7dddd959cf60bf6257ab5f7959d7e66e] shall apply with the necessary modifications in relation to those assets as they would apply in relation to the shares.
+- (a)[^c-5c0b65b35647963f388566f3f8ec8557] so much of the deferred gain as is attributable to those shares shall be treated, in determining for the purposes of this paragraph the amount of the deferred gain to be treated as attributable to each of those assets, as apportioned in such manner as may be just and reasonable between those assets; and
+- (b) as between different assets treated as representing the same shares[^c-822f1f6ce26dfc9a28cc8af5ee77943b], sub-paragraphs (3) to (4A) above[^c-7dddd959cf60bf6257ab5f7959d7e66e] shall apply with the necessary modifications in relation to those assets as they would apply in relation to the shares.
 
-(6)[^key-38c7feae5820faa3ae12872dc4700e38] In order to determine, for the purposes of this paragraph, the amount of the deferred gain attributable to any shares, a proportionate part of the amount of the gain shall be attributed to each of the relevant shares held, immediately before the occurrence of the chargeable event in question, by the investor or a person who has acquired any of the relevant shares from the investor on a disposal within marriage or civil partnership.
+(6)[^c-38c7feae5820faa3ae12872dc4700e38] In order to determine, for the purposes of this paragraph, the amount of the deferred gain attributable to any shares, a proportionate part of the amount of the gain shall be attributed to each of the relevant shares held, immediately before the occurrence of the chargeable event in question, by the investor or a person who has acquired any of the relevant shares from the investor on a disposal within marriage or civil partnership.
 
 (7) In this paragraph “**the deferred gain**” means—
 
@@ -179,37 +179,37 @@ shall be treated for the purposes of sub-paragraphs (3) and (4) above as acquire
 
 ### Person to whom gain accrues
 
-**5.** (1) The chargeable gain which accrues, in accordance with paragraph 4 above, on the occurrence in relation to any of the relevant shares[^key-9dfe020f6cd27bffcc818b671979f56e] of a chargeable event shall be treated as accruing, as the case may be—
+**5.** (1) The chargeable gain which accrues, in accordance with paragraph 4 above, on the occurrence in relation to any of the relevant shares[^c-9dfe020f6cd27bffcc818b671979f56e] of a chargeable event shall be treated as accruing, as the case may be—
 
 - (a) to the person who makes the disposal,
-- (b) to the person who becomes a non-resident, or[^key-b65ba3f53ed521698a2b41a671503c1d]
+- (b) to the person who becomes a non-resident, or[^c-b65ba3f53ed521698a2b41a671503c1d]
 - (c) to the person who holds the shares in question when they cease (or are treated for the purposes of this Schedule as ceasing) to be eligible shares.
 
 (2) Where—
 
 - (a) sub-paragraph (1) above provides for the holding of shares at a particular time to be what identifies the person to whom any chargeable gain accrues, and
-- (b) at that time, some of those shares are held by the investor and others are held by a person to whom the investor has transferred them by a disposal within marriage or civil partnership[^key-e763e5ac648191f734263f52938631f2],
+- (b) at that time, some of those shares are held by the investor and others are held by a person to whom the investor has transferred them by a disposal within marriage or civil partnership[^c-e763e5ac648191f734263f52938631f2],
 
 the amount of the chargeable gain accruing by virtue of paragraph 4 above shall be computed separately in relation to the investor and that person without reference to the shares held by the other.
 
-### Claims[^key-913ee216537fff03b0122dd35323085c]
+### Claims[^c-913ee216537fff03b0122dd35323085c]
 
-**6.** (1) Subject to sub-paragraph (2) below, section 306 of the Taxes Act or sections 202(1), 203(1) and 204 to 207 of ITA 2007[^key-1d9e64325af643909b501230ac2469ef] shall apply in relation to a claim under this Schedule in respect of the relevant shares[^key-281f960c2693476929d9089b0f94dba9] as it applies in relation to a claim for relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007 in respect of eligible or relevant shares[^key-28a28aa1623ed5a867018c686d8ceda6].
+**6.** (1) Subject to sub-paragraph (2) below, section 306 of the Taxes Act or sections 202(1), 203(1) and 204 to 207 of ITA 2007[^c-1d9e64325af643909b501230ac2469ef] shall apply in relation to a claim under this Schedule in respect of the relevant shares[^c-281f960c2693476929d9089b0f94dba9] as it applies in relation to a claim for relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007 in respect of eligible or relevant shares[^c-28a28aa1623ed5a867018c686d8ceda6].
 
-(2) Section 306[^key-d7d9c1e94ce232e783c0bce2451ae15e], as it so applies, shall have effect as if—
+(2) Section 306[^c-d7d9c1e94ce232e783c0bce2451ae15e], as it so applies, shall have effect as if—
 
 - (a) any reference to the conditions for the relief were a reference to the conditions for the application of this Schedule;
 - (b) in subsection (1), the words “(or treated by section 289B(5) as so issued)" were omitted; and
 - (c) subsections (7) to (9) were omitted.
 
-(3)[^key-377b778d982cec23be97f00ec1484623] Sections 202(1), 203(1) and 204 to 207 of ITA 2007, as they so apply, shall have effect as if any reference to the requirements for the relief were a reference to the conditions for the application of this Schedule.
+(3)[^c-377b778d982cec23be97f00ec1484623] Sections 202(1), 203(1) and 204 to 207 of ITA 2007, as they so apply, shall have effect as if any reference to the requirements for the relief were a reference to the conditions for the application of this Schedule.
 
-### Reorganisations[^key-68935aa69693842eb72420fea4763c00]
+### Reorganisations[^c-68935aa69693842eb72420fea4763c00]
 
 **7.** (1) Where an individual holds shares which form part of the ordinary share capital of a company and include shares of more than one of the following kinds, namely—
 
-- (a) shares to which deferral relief and relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^key-400bc691b1198de2f81a358d5a6f2406] are attributable,
-- (b) shares to which deferral relief but not relief under that Chapter or that Part[^key-45af63bf13606e77d6bac08ef75c9d66] is attributable, and
+- (a) shares to which deferral relief and relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^c-400bc691b1198de2f81a358d5a6f2406] are attributable,
+- (b) shares to which deferral relief but not relief under that Chapter or that Part[^c-45af63bf13606e77d6bac08ef75c9d66] is attributable, and
 - (c) shares to which deferral relief is not attributable,
 
 then, if there is within the meaning of section 126 a reorganisation affecting those shares, section 127 shall apply (subject to the following provisions of this paragraph) separately to shares falling within paragraph (a), (b) or (c) above (so that shares of each kind are treated as a separate holding of original shares and identified with a separate new holding).
@@ -232,7 +232,7 @@ sections 127 to 130 shall not apply in relation to the existing holding.
 - (d) new shares of each description are issued to the holders of old shares of the corresponding description in respect of and in proportion to their holdings;
 - (e) at some time before the issue of the new shares—
   - (i) the old company issued eligible shares; and
-  - (ii) a certificate in relation to those eligible shares was issued by that company for the purposes of section 306(2) of the Taxes Act or section 203(1) of ITA 2007[^key-bd9de31b6a759b43f3cb0ebd86c3d0af] (as applied by paragraph 6 above) and in accordance with section 306 of the Taxes Act or sections 204 and 205 of ITA 2007 (as so applied); and
+  - (ii) a certificate in relation to those eligible shares was issued by that company for the purposes of section 306(2) of the Taxes Act or section 203(1) of ITA 2007[^c-bd9de31b6a759b43f3cb0ebd86c3d0af] (as applied by paragraph 6 above) and in accordance with section 306 of the Taxes Act or sections 204 and 205 of ITA 2007 (as so applied); and
 - (f) by virtue of section 127 as applied by section 135(3), the exchange of shares is not treated as involving a disposal of the old shares or an acquisition of the new shares.
 
 (2) For the purposes of this Schedule, deferral relief attributable to any old shares shall be attributable instead to the new shares for which they are exchanged.
@@ -243,7 +243,7 @@ sections 127 to 130 shall not apply in relation to the existing holding.
 - (b) the new shares had been issued to him by the new company at the time when the old shares were issued to him by the old company; and
 - (c) the claim under this Schedule made in respect of the old shares had been made in respect of the new shares.
 
-(4) Where, in the case of any new shares held by an individual to which deferral relief becomes so attributable, the old shares for which they are exchanged were acquired by the individual on a disposal within marriage or civil partnership[^key-a96bbe599640140bb713de2b42651d1f], this Schedule shall have effect as if—
+(4) Where, in the case of any new shares held by an individual to which deferral relief becomes so attributable, the old shares for which they are exchanged were acquired by the individual on a disposal within marriage or civil partnership[^c-a96bbe599640140bb713de2b42651d1f], this Schedule shall have effect as if—
 
 - (a) the new shares had been subscribed for at the time when, and for the amount for which, the old shares were subscribed for;
 - (b) the new shares had been issued by the new company at the time when the old shares were issued by the old company; and
@@ -251,37 +251,37 @@ sections 127 to 130 shall not apply in relation to the existing holding.
 
 (5) Where deferral relief becomes so attributable to any new shares—
 
-- (a) this Schedule shall have effect as if anything which, under paragraph 1A(5) above, paragraph 16 below or section 306(2) of the Taxes Act or section 203(1) of ITA 2007[^key-ee7d5256cdfa83cb9df66fbad97461aa] as applied by paragraph 6 above has been done, or is required to be done, by or in relation to the old company had been done, or were required to be done, by or in relation to the new company; and
+- (a) this Schedule shall have effect as if anything which, under paragraph 1A(5) above, paragraph 16 below or section 306(2) of the Taxes Act or section 203(1) of ITA 2007[^c-ee7d5256cdfa83cb9df66fbad97461aa] as applied by paragraph 6 above has been done, or is required to be done, by or in relation to the old company had been done, or were required to be done, by or in relation to the new company; and
 - (b) any appeal brought by the old company against a notice under paragraph 1A(5)(b) may be prosecuted by the new company as if it had been brought by that company.
 
 (6) For the purposes of this paragraph old shares and new shares are of a corresponding description if, on the assumption that they were shares in the same company, they would be of the same class and carry the same rights; and in sub-paragraph (1) above references to shares, except in the expressions “**eligible shares**” and “**subscriber shares**”, include references to securities.
 
-(7) Nothing in section 293(8) of the Taxes Act or section 185 of ITA 2007[^key-8eed742243f940e145bc4b3a2315cb76], as applied by the definition of “qualifying company" in paragraph 19(1) below, shall apply in relation to such an exchange of shares, or shares and securities, as is mentioned in sub-paragraph (1) above or arrangements with a view to such an exchange.
+(7) Nothing in section 293(8) of the Taxes Act or section 185 of ITA 2007[^c-8eed742243f940e145bc4b3a2315cb76], as applied by the definition of “qualifying company" in paragraph 19(1) below, shall apply in relation to such an exchange of shares, or shares and securities, as is mentioned in sub-paragraph (1) above or arrangements with a view to such an exchange.
 
 ### Other reconstructions and amalgamations
 
-**9.** (1)[^key-4b335a28d59a82c1f2b98a6805acaa73] This paragraph applies if section 135 or 136 (company reconstructions) applies in relation to shares to which deferral relief, but not relief under Part 5 of ITA 2007 (or Chapter 3 of Part 7 of the Taxes Act), is attributable.
+**9.** (1)[^c-4b335a28d59a82c1f2b98a6805acaa73] This paragraph applies if section 135 or 136 (company reconstructions) applies in relation to shares to which deferral relief, but not relief under Part 5 of ITA 2007 (or Chapter 3 of Part 7 of the Taxes Act), is attributable.
 
 (1A) Paragraphs 3 and 4 of this Schedule have effect as if section 135 or 136 did not apply in relation to the shares.
 
-(2) Sub-paragraph (1A) does not apply if[^key-cf97cc9610579647a70ac41a8f5dd58f]—
+(2) Sub-paragraph (1A) does not apply if[^c-cf97cc9610579647a70ac41a8f5dd58f]—
 
 - (a) the new holding consists of new ordinary shares (“the new shares") carrying no present or future preferential right to dividends or to a company’s assets on its winding up and no present or future right to be redeemed,
 - (b) the new shares are issued after the end of the relevant period, and
 - (c) the condition in sub-paragraph (4) below is satisfied.
 
-(3)[^key-2a8e67ec5354ecb9e71e6a9bf476acab] Sub-paragraph (1A) does not apply if paragraph 8 applies in relation to the shares.
+(3)[^c-2a8e67ec5354ecb9e71e6a9bf476acab] Sub-paragraph (1A) does not apply if paragraph 8 applies in relation to the shares.
 
 (4) The condition is that at some time before the issue of the new shares—
 
 - (a) the company issuing them issued eligible shares, and
-- (b) a certificate in relation to those eligible shares was issued by the company for the purposes of section 306(2) of the Taxes Act or section 203(1) of ITA 2007[^key-610f1b0727b60e73dd7e6815cfdb89ff] (as applied by paragraph 6 above) and in accordance with section 306 of the Taxes Act or sections 204 and 205 of ITA 2007 (as so applied).
+- (b) a certificate in relation to those eligible shares was issued by the company for the purposes of section 306(2) of the Taxes Act or section 203(1) of ITA 2007[^c-610f1b0727b60e73dd7e6815cfdb89ff] (as applied by paragraph 6 above) and in accordance with section 306 of the Taxes Act or sections 204 and 205 of ITA 2007 (as so applied).
 
 (5) In sub-paragraph (2) above “**new holding**” shall be construed in accordance with sections 126, 127, 135 and 136.
 
-### Re-investment in same company etc.[^key-38daf46965a8e0deaa7003d2ae4fc0f1]
+### Re-investment in same company etc.[^c-38daf46965a8e0deaa7003d2ae4fc0f1]
 
-**10.** (1) An individual to whom any eligible shares in a qualifying company are issued shall not be regarded for the purposes of this Schedule as making a qualifying investment if, where the asset disposed of consisted of shares in or securities[^key-f0b62a1dfc87aba0354437386649cc9d] of any company (“the initial holding"), the qualifying company—
+**10.** (1) An individual to whom any eligible shares in a qualifying company are issued shall not be regarded for the purposes of this Schedule as making a qualifying investment if, where the asset disposed of consisted of shares in or securities[^c-f0b62a1dfc87aba0354437386649cc9d] of any company (“the initial holding"), the qualifying company—
 
 - (a) is the company in which the initial holding subsisted; or
 - (b) is a company that was, at the time of the disposal of the initial holding, or is, at the time of the issue of the eligible shares, a member of the same group of companies as the company in which the initial holding subsisted.
@@ -300,7 +300,7 @@ he shall not be regarded in relation to the issue to him of the shares in the re
 - (b) it is a company in relation to the disposal of any shares in which there has been a claim under this Schedule such that, without that claim, there would have been no postponed gain in relation to the acquired holding; or
 - (c) it is a company which, at the time of the disposal or acquisition to which the claim relates, was a member of the same group of companies as a company falling within paragraph (b) above.
 
-(4)[^key-0cb67c9741fc809dabcb58d7d95ed341] In this paragraph “**group of companies**” means a company which has one or more 51 per cent. subsidiaries, together with those subsidiaries.
+(4)[^c-0cb67c9741fc809dabcb58d7d95ed341] In this paragraph “**group of companies**” means a company which has one or more 51 per cent. subsidiaries, together with those subsidiaries.
 
 ### Pre-arranged exits
 
@@ -327,7 +327,7 @@ of any such protection against the risks arising in the course of carrying on it
 
 (5) The reference in sub-paragraph (4) above to the parent company of a trading group
 
-- (a)[^key-22a7256b39ac3ebd13e39119f033da31] shall be construed in accordance with the provision contained for the purposes of section 293 of the Taxes Act in that section, or[^key-bb221b5997ec38515837ea8e54bfa834]
+- (a)[^c-22a7256b39ac3ebd13e39119f033da31] shall be construed in accordance with the provision contained for the purposes of section 293 of the Taxes Act in that section, or[^c-bb221b5997ec38515837ea8e54bfa834]
 - (b) is a reference to a company that meets the trading requirement in section 181(2)(b) of ITA 2007.
 
 (6) In this paragraph “**the relevant arrangements**” means—
@@ -335,7 +335,7 @@ of any such protection against the risks arising in the course of carrying on it
 - (a) the arrangements under which the shares are issued to the individual; and
 - (b) any arrangements made before the issue of the shares to him in relation to or in connection with that issue.
 
-### Disqualifying arrangements[^key-c343e4a996581faf168edc2c16c58790]
+### Disqualifying arrangements[^c-c343e4a996581faf168edc2c16c58790]
 
 **11A.** (1) Where an individual subscribes for eligible shares (“the shares”) in a company (“**the company**”), the shares are to be treated as not being eligible shares for the purposes of this Schedule if the shares are issued, nor any money raised by the issue employed, in consequence or anticipation of, or otherwise in connection with, disqualifying arrangements.
 
@@ -391,16 +391,16 @@ would be treated for the purposes of this Schedule as disposed of in pursuance o
 
 (4) Nothing in this paragraph shall prejudice the operation of paragraph 11 above.
 
-(5) An individual who acquires any eligible shares on a disposal within marriage or civil partnership[^key-374ec9a2b512b162feb3523df171fbb7] shall be treated for the purposes of this paragraph and paragraphs 13 to 15 below as if he subscribed for those shares.
+(5) An individual who acquires any eligible shares on a disposal within marriage or civil partnership[^c-374ec9a2b512b162feb3523df171fbb7] shall be treated for the purposes of this paragraph and paragraphs 13 to 15 below as if he subscribed for those shares.
 
 ### Value received by investor
 
-**13.** (1) Where an individual who subscribes for eligible shares (“the shares") in a company receives any value (other than insignificant value)[^key-feb7f1ec3beb6ac3acf6dd656418eca9] from the company at any time in the period of restriction[^key-562a908823f419b49767c95189e0458d], the shares shall be treated as follows for the purposes of this Schedule—
+**13.** (1) Where an individual who subscribes for eligible shares (“the shares") in a company receives any value (other than insignificant value)[^c-feb7f1ec3beb6ac3acf6dd656418eca9] from the company at any time in the period of restriction[^c-562a908823f419b49767c95189e0458d], the shares shall be treated as follows for the purposes of this Schedule—
 
 - (a) if the individual receives the value on or before the date of the issue of the shares, as never having been eligible shares; and
-- (b)[^key-d854a512d61deb9a77f92a1de548ea8a] if the individual receives the value after that date, as ceasing to be eligible shares on the date when the value is received.
+- (b)[^c-d854a512d61deb9a77f92a1de548ea8a] if the individual receives the value after that date, as ceasing to be eligible shares on the date when the value is received.
 
-(1A)[^key-e482aecab4338ebc00d4a5b6ba6c6fa7] This paragraph is subject to paragraph 13B below.
+(1A)[^c-e482aecab4338ebc00d4a5b6ba6c6fa7] This paragraph is subject to paragraph 13B below.
 
 (1B) Where—
 
@@ -418,7 +418,7 @@ For this purpose a receipt does not fall within paragraph (b) above if it has pr
 
 - (a) repays, redeems or repurchases any of its share capital or securities which belong to the individual or makes any payment to him for giving up his right to any of the company’s share capital or any security on its cancellation or extinguishment;
 - (b) repays, in pursuance of any arrangements for or in connection with the acquisition of the shares, any debt owed to the individual other than a debt which was incurred by the company—
-  - (i) on or after the date of issue of the shares[^key-c797e600669557c8c0e078e85863d5ec]; and
+  - (i) on or after the date of issue of the shares[^c-c797e600669557c8c0e078e85863d5ec]; and
   - (ii) otherwise than in consideration of the extinguishment of a debt incurred before that date;
 - (c) makes to the individual any payment for giving up his right to any debt on its extinguishment;
 - (d) releases or waives any liability of the individual to the company or discharges, or undertakes to discharge, any liability of his to a third person;
@@ -433,9 +433,9 @@ For this purpose a receipt does not fall within paragraph (b) above if it has pr
 - (a) the amount of any debt (other than an ordinary trade debt) incurred by the individual to the company; and
 - (b) the amount of any debt due from the individual to a third person which has been assigned to the company.
 
-(4)[^key-a54a60760fe3a3850587a6935ea211fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a54a60760fe3a3850587a6935ea211fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) For the purposes of this paragraph an individual also receives value from the company if any person who would, for the purposes of section 291 of the Taxes Act or Chapter 2 of Part 5 of ITA 2007[^key-da97109a38a1175ee21fe07b2aaceac5], be treated as connected with the company—
+(5) For the purposes of this paragraph an individual also receives value from the company if any person who would, for the purposes of section 291 of the Taxes Act or Chapter 2 of Part 5 of ITA 2007[^c-da97109a38a1175ee21fe07b2aaceac5], be treated as connected with the company—
 
 - (a) purchases any of its share capital or securities which belong to the individual; or
 - (b) makes any payment to him for giving up any right in relation to any of the company’s share capital or securities.
@@ -452,8 +452,8 @@ For this purpose a receipt does not fall within paragraph (b) above if it has pr
 - (f) any payment for the acquisition of an asset which does not exceed its market value;
 - (g) the payment by any company, as rent for any property occupied by the company, of an amount not exceeding a reasonable and commercial rent for the property;
 - (h) any reasonable and necessary remuneration which—
-  - (i) is paid by any company for services rendered to that company in the course of a trade or profession carried on wholly or partly in the United Kingdom[^key-d4dff946ca0cc967da8eece40731e02f]; and
-  - (ii) is taken into account in calculating for tax purposes the profits of that trade or profession[^key-fbd1316cacb3bd192eaa67221b830ebd];
+  - (i) is paid by any company for services rendered to that company in the course of a trade or profession carried on wholly or partly in the United Kingdom[^c-d4dff946ca0cc967da8eece40731e02f]; and
+  - (ii) is taken into account in calculating for tax purposes the profits of that trade or profession[^c-fbd1316cacb3bd192eaa67221b830ebd];
 - (i) a payment in discharge of an ordinary trade debt.
 
 (8) For the purposes of this paragraph a company shall be treated as having released or waived a liability if the liability is not discharged within 12 months of the time when it ought to have been discharged.
@@ -463,7 +463,7 @@ For this purpose a receipt does not fall within paragraph (b) above if it has pr
 - (a) references to a debt or liability do not, in relation to a company, include references to any debt or liability which would be discharged by the making by that company of a qualifying payment; and
 - (b) references to a benefit or facility do not include references to any benefit or facility provided in circumstances such that, if a payment had been made of an amount equal to its value, that payment would be a qualifying payment.
 
-(10) In this paragraph and paragraph 13A(1) below[^key-380d63f4c297301f8cb8fdabddde9399]—
+(10) In this paragraph and paragraph 13A(1) below[^c-380d63f4c297301f8cb8fdabddde9399]—
 
 - (a) any reference to a payment or disposal to an individual includes a reference to a payment or disposal made to him indirectly or to his order or for his benefit;
 - (b) any reference to an individual includes a reference to an associate of his; and
@@ -474,12 +474,12 @@ For this purpose a receipt does not fall within paragraph (b) above if it has pr
 - (a) does not exceed six months; and
 - (b) is not longer than that normally given to customers of the person carrying on the trade or business.
 
-(12)[^key-1e2cc60efd0f6fe692b32ad40b440512] In paragraphs 13A to 13C below (except paragraph 13C(4))—
+(12)[^c-1e2cc60efd0f6fe692b32ad40b440512] In paragraphs 13A to 13C below (except paragraph 13C(4))—
 
 - (a) references to “**the shares**” shall be construed in accordance with sub-paragraph (1) above, and
 - (b) references to “**the period of restriction**” shall be construed as references to the period of restriction relating to the shares.
 
-### Provision supplemental to paragraph 13[^key-cc5eb353c9524cca1c58920d4a4d232a]
+### Provision supplemental to paragraph 13[^c-cc5eb353c9524cca1c58920d4a4d232a]
 
 **13A.** (1) For the purposes of paragraph 13 above, the value received by the individual in question is—
 
@@ -581,7 +581,7 @@ and paragraph 13A(1) above applies for the purposes of determining the amount of
 
   But nothing in paragraph 13B above or this paragraph requires the replacement value to be received after the original value.
 
-(3) This sub-paragraph[^key-15d98d2bbd71fdaeb158f328f146d8f7] applies where—
+(3) This sub-paragraph[^c-15d98d2bbd71fdaeb158f328f146d8f7] applies where—
 
 - (a) the receipt of the replacement value by the original supplier is a qualifying receipt for the purposes of paragraph 13B(1) above, and
 - (b) the event which gives rise to the receipt is (or includes) a subscription for shares by—
@@ -591,7 +591,7 @@ and paragraph 13A(1) above applies for the purposes of determining the amount of
 - (a) be eligible for any relief under Chapter 3 of Part 7 of the Taxes Act (enterprise investment scheme: income tax relief) in relation to those shares or any other shares in the same issue, or
 - (b) by virtue of his subscription for those shares or any other shares in the same issue, be treated as making a qualifying investment for the purposes of this Schedule.
 
-(4)[^key-aac5b866fbf6b02b00e388f63a2c4119] Where either of the following applies—
+(4)[^c-aac5b866fbf6b02b00e388f63a2c4119] Where either of the following applies—
 
 - (a) sub-paragraph (3) above, and
 - (b) section 223(3) of ITA 2007 (which makes corresponding provision in relation to EIS relief under Part 5 of that Act),
@@ -602,25 +602,25 @@ the person who subscribes for the shares shall not by virtue of his subscription
 
 ### Value received by other persons
 
-**14.** (1) Sub-paragraph (2) below applies where an individual subscribes for eligible shares (“the shares") in a company and at any time in the period of restriction[^key-f7062c9c0bb811d7f259fd4f40739c4c] the company or any subsidiary—
+**14.** (1) Sub-paragraph (2) below applies where an individual subscribes for eligible shares (“the shares") in a company and at any time in the period of restriction[^c-f7062c9c0bb811d7f259fd4f40739c4c] the company or any subsidiary—
 
-- (a) repays, redeems or repurchases any of its share capital which belongs to any member other than the individual or a person[^key-8c68af40a1b35ece71f64cfe302a7a1c] falling within sub-paragraph (3) below, or
+- (a) repays, redeems or repurchases any of its share capital which belongs to any member other than the individual or a person[^c-8c68af40a1b35ece71f64cfe302a7a1c] falling within sub-paragraph (3) below, or
 - (b) makes any payment (directly or indirectly) to any such member, or to his order or for his benefit, for the giving up of his right to any of the share capital of the company or subsidiary on its cancellation or extinguishment.
 
-This is subject to[^key-ebac49be242cc25921f4cf6f4a8e7172] paragraphs 14AA and 14A[^key-4d042b80b7a5b82ece661a1bd47e5e0f] below.
+This is subject to[^c-ebac49be242cc25921f4cf6f4a8e7172] paragraphs 14AA and 14A[^c-4d042b80b7a5b82ece661a1bd47e5e0f] below.
 
 (2) The shares shall be treated for the purposes of this Schedule—
 
 - (a) if the repayment, redemption, repurchase or payment in question is made or effected on or before the date of the issue of the shares, as never having been eligible shares; and
 - (b) if it is made or effected after that date, as ceasing to be eligible shares on the date when it is made or effected.
 
-(3) A person[^key-944f5cbc542cdf7d828c1b4ac4ef26c7] falls within this sub-paragraph if the repayment, redemption, repurchase or payment in question—
+(3) A person[^c-944f5cbc542cdf7d828c1b4ac4ef26c7] falls within this sub-paragraph if the repayment, redemption, repurchase or payment in question—
 
 - (a) gives rise to a qualifying chargeable event in respect of him, or
-- (b) causes any relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^key-574dd4d9e59fab03be8776abfe72cfe5] attributable to his shares in the company to be withdrawn or reduced by virtue of section 299 or 300(2)(a) of the Taxes Act or section 209 or 216(2)(a) of ITA 2007[^key-8de562546b2893fa3f91f032917fb6f0], or[^key-51fcb0905794dc3375b470d5242d712d]
-- (c) causes any investment relief attributable to shares held by that person[^key-d97849d4d94af88257fa857cefdadbdd] (within the meaning of Schedule 15 to the Finance Act 2000) to be withdrawn or reduced by virtue of paragraph 46 (disposal of shares) or 49(1)(a) (repayment etc. of share capital or securities) of that Schedule
+- (b) causes any relief under Chapter III of Part VII of the Taxes Act or Part 5 of ITA 2007[^c-574dd4d9e59fab03be8776abfe72cfe5] attributable to his shares in the company to be withdrawn or reduced by virtue of section 299 or 300(2)(a) of the Taxes Act or section 209 or 216(2)(a) of ITA 2007[^c-8de562546b2893fa3f91f032917fb6f0], or[^c-51fcb0905794dc3375b470d5242d712d]
+- (c) causes any investment relief attributable to shares held by that person[^c-d97849d4d94af88257fa857cefdadbdd] (within the meaning of Schedule 15 to the Finance Act 2000) to be withdrawn or reduced by virtue of paragraph 46 (disposal of shares) or 49(1)(a) (repayment etc. of share capital or securities) of that Schedule
 
-or it would have the effect mentioned in paragraph (a), (b) or (c) above were it not a receipt of insignificant value for the purposes of paragraph 13 above, section 300 of the Taxes Act[^key-c10fc30b9b927005813420787c71ee30] or 214 of ITA 2007[^key-8fb9c7d11b1fa71472d01d34ba761784] or paragraph 47 of Schedule 15 to the Finance Act 2000, as the case may be.
+or it would have the effect mentioned in paragraph (a), (b) or (c) above were it not a receipt of insignificant value for the purposes of paragraph 13 above, section 300 of the Taxes Act[^c-c10fc30b9b927005813420787c71ee30] or 214 of ITA 2007[^c-8fb9c7d11b1fa71472d01d34ba761784] or paragraph 47 of Schedule 15 to the Finance Act 2000, as the case may be.
 
 (4) In sub-paragraph (3) above “**qualifying chargeable event**” means—
 
@@ -629,16 +629,16 @@ or it would have the effect mentioned in paragraph (a), (b) or (c) above were it
 
 (5) Where—
 
-- (a) a company issues share capital (“the original shares") of nominal value equal to the authorised minimum (within the meaning of the Companies Act 2006) for the purposes of complying with the requirements of section 761 of that Act (public company: requirement as to minimum share capital);[^key-d4da516005cabd70660ed4585d919d4b] and
-- (b) after the registrar of companies has issued the company with a certificate under section 761[^key-27e277657dba0a1402751edfd8280c77], it issues eligible shares,
+- (a) a company issues share capital (“the original shares") of nominal value equal to the authorised minimum (within the meaning of the Companies Act 2006) for the purposes of complying with the requirements of section 761 of that Act (public company: requirement as to minimum share capital);[^c-d4da516005cabd70660ed4585d919d4b] and
+- (b) after the registrar of companies has issued the company with a certificate under section 761[^c-27e277657dba0a1402751edfd8280c77], it issues eligible shares,
 
 the preceding provisions of this paragraph shall not apply in relation to any redemption of any of the original shares within 12 months of the date on which those shares were issued.
 
-(6)[^key-8d95e400a51d8afc185af0d7aba01e66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8d95e400a51d8afc185af0d7aba01e66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) References in this paragraph and[^key-001a9c1f418118a834dd68d4d0f7c25f] paragraphs 14AA and 14A[^key-6482112a003ece3d6e7fc4c7d9c5c4ec] below to a subsidiary of a company are references to a company which at any time in the relevant period is a 51 per cent. subsidiary of the first mentioned company, whether or not it is such a subsidiary at the time of the repayment, redemption, repurchase or payment in question.
+(7) References in this paragraph and[^c-001a9c1f418118a834dd68d4d0f7c25f] paragraphs 14AA and 14A[^c-6482112a003ece3d6e7fc4c7d9c5c4ec] below to a subsidiary of a company are references to a company which at any time in the relevant period is a 51 per cent. subsidiary of the first mentioned company, whether or not it is such a subsidiary at the time of the repayment, redemption, repurchase or payment in question.
 
-### Insignificant repayments disregarded for purposes of paragraph 14[^key-6b7cfd188662f14fc142f3efda16b175]
+### Insignificant repayments disregarded for purposes of paragraph 14[^c-6b7cfd188662f14fc142f3efda16b175]
 
 **14AA.** (1) Any repayment shall be disregarded for the purposes of paragraph 14 above if whichever is the greater of—
 
@@ -665,11 +665,11 @@ at any time in the period of restriction.
 - (a) beginning one year before the eligible shares were issued, and
 - (b) expiring at the end of the issue date.
 
-### Certain receipts to be disregarded for purposes of paragraph 14[^key-c0768b7a580dc85c9d5fc714979c0a97]
+### Certain receipts to be disregarded for purposes of paragraph 14[^c-c0768b7a580dc85c9d5fc714979c0a97]
 
 **14A.** (1) Sub-paragraph (4) below applies where, by reason of a repayment, any investment relief which is attributable under Schedule 15 to the Finance Act 2000 to any shares is withdrawn under paragraph 56(2) of that Schedule.
 
-(2)[^key-23f187ce8e3d8333222af20eb1a481cc] For the purposes of this paragraph “**repayment**” has the meaning given in paragraph 14AA(2) above.
+(2)[^c-23f187ce8e3d8333222af20eb1a481cc] For the purposes of this paragraph “**repayment**” has the meaning given in paragraph 14AA(2) above.
 
 (3) For the purposes of sub-paragraph (4) below “**the relevant amount**” is the amount determined by the formula—
 
@@ -695,14 +695,14 @@ at any time.
 
 (6) Sub-paragraph (5)(a) above applies in relation to a subsidiary of the issuing company whether or not it was such a subsidiary—
 
-- (a)[^key-202faf58b5bcbd3016002841d1ae557b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-202faf58b5bcbd3016002841d1ae557b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) when the arrangements were made.
 
-(7)[^key-b46b8cbe68cbb79e53c4fd489dfdd901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b46b8cbe68cbb79e53c4fd489dfdd901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In this paragraph—
 
-- (a) “**investment relief**” has the same meaning as in Schedule 15 to the Finance Act 2000 (corporate venturing scheme)[^key-c7f597880fb7f732075a1f9f5e351ded]; and
+- (a) “**investment relief**” has the same meaning as in Schedule 15 to the Finance Act 2000 (corporate venturing scheme)[^c-c7f597880fb7f732075a1f9f5e351ded]; and
 - (b) references to the withdrawal of investment relief include its reduction.
 
 ### Investment-linked loans
@@ -721,11 +721,11 @@ at any time.
 
 (4) In this paragraph any reference to an individual includes a reference to an associate of his.
 
-### Information[^key-7a8154554ea3e69a5962ed520c3df0a2]
+### Information[^c-7a8154554ea3e69a5962ed520c3df0a2]
 
-**16.** (1) Where, in relation to any of the relevant shares[^key-0441bf4266c82cac6bb5bdf148906e4c] held by an individual—
+**16.** (1) Where, in relation to any of the relevant shares[^c-0441bf4266c82cac6bb5bdf148906e4c] held by an individual—
 
-- (a) a chargeable event falling within paragraph 3(1)(a) or (b) above occurs at any time before the termination date relating to those shares[^key-579265a7c703132329923e43d409a5d3],
+- (a) a chargeable event falling within paragraph 3(1)(a) or (b) above occurs at any time before the termination date relating to those shares[^c-579265a7c703132329923e43d409a5d3],
 - (b) a chargeable event falling within paragraph 3(1)(c) or (d) above occurs, or
 - (c) a chargeable event falling within paragraph 3(1)(e) above occurs by virtue of paragraph 12(2)(b), 13(1)(b) or 15(1)(b) above,
 
@@ -738,11 +738,11 @@ the individual shall within 60 days of his coming to know of the event give a no
 
 shall within 60 days of the event or, in the case of a person within paragraph (b) above, of his coming to know of it, give a notice to the inspector containing particulars of the circumstances giving rise to the event.
 
-(2A)[^key-263072b55cead0a7dad1aca442974701] In determining, for the purposes of sub-paragraph (1) or (2) above, whether a chargeable event falling within paragraph 3(1)(e) above has occurred by virtue of paragraph 13(1)(b) above, the effect of paragraph 13B above shall be disregarded.
+(2A)[^c-263072b55cead0a7dad1aca442974701] In determining, for the purposes of sub-paragraph (1) or (2) above, whether a chargeable event falling within paragraph 3(1)(e) above has occurred by virtue of paragraph 13(1)(b) above, the effect of paragraph 13B above shall be disregarded.
 
 (3) A chargeable event falling within paragraph 3(1)(e) above which, but for paragraph 1A(5) above, would occur at any time by virtue of paragraph 1A(1) or (2) above shall be treated for the purposes of sub-paragraph (2) above as occurring at that time.
 
-(3A)[^key-1c1c73c3ccf5781e497887e6a4621a4e] Where—
+(3A)[^c-1c1c73c3ccf5781e497887e6a4621a4e] Where—
 
 - (a) a person is required to give a notice under sub-paragraph (1) or (2) above in respect of a chargeable event which occurs by virtue of paragraph 13(1)(b) above or would occur by virtue of that paragraph but for the operation of paragraph 13B above, and
 - (b) that person has knowledge of the replacement value received (or expected to be received) from the original recipient by the original supplier by reason of a qualifying receipt,
@@ -751,16 +751,16 @@ the notice shall include particulars of that receipt of the replacement value (o
 
 In this sub-paragraph “**the replacement value**”, “**the original recipient**”, “**the original supplier**” and “**qualifying receipt**” shall be construed in accordance with paragraph 13B above.
 
-(4) Where a company has issued a certificate under section 306(2) of the Taxes Act or section 203(1) of ITA 2007[^key-4e75cf0319726d7466780595d8b02aff] (as applied by paragraph 6 above) in respect of any eligible shares in the company, and the condition in paragraph 1(2)(g) above is not satisfied in relation to the shares—
+(4) Where a company has issued a certificate under section 306(2) of the Taxes Act or section 203(1) of ITA 2007[^c-4e75cf0319726d7466780595d8b02aff] (as applied by paragraph 6 above) in respect of any eligible shares in the company, and the condition in paragraph 1(2)(g) above is not satisfied in relation to the shares—
 
 - (a) the company, and
 - (b) any person connected with the company who has knowledge of that matter,
 
-shall within 60 days of the time mentioned in section 289(3) of the Taxes Act or section 175(3) of ITA 2007[^key-f6d8f1eb10890f01e6cebde2c84fcb99] or, in the case of a person within paragraph (b) above, of his coming to know that the condition is not satisfied, give notice to the inspector setting out the particulars of the case.
+shall within 60 days of the time mentioned in section 289(3) of the Taxes Act or section 175(3) of ITA 2007[^c-f6d8f1eb10890f01e6cebde2c84fcb99] or, in the case of a person within paragraph (b) above, of his coming to know that the condition is not satisfied, give notice to the inspector setting out the particulars of the case.
 
-(4A)[^key-b79cf7d3d3ee5641e2d390fd4f614223] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-b79cf7d3d3ee5641e2d390fd4f614223] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) If the inspector has reason to believe—[^key-7d2e5bbd652bf39422aac5a988cf7e73]
+(5) If the inspector has reason to believe—[^c-7d2e5bbd652bf39422aac5a988cf7e73]
 
 - (a) that a person has not given a notice which he is required to give—
   - (i) under sub-paragraph (1) or (2) above in respect of any chargeable event, or
@@ -770,22 +770,22 @@ shall within 60 days of the time mentioned in section 289(3) of the Taxes Act or
 
 the inspector may by notice require that person to furnish him within such time (not being less than 60 days) as may be specified in the notice with such information relating to the event or case as the inspector may reasonably require for the purposes of this Schedule.
 
-(6) Where a claim is made under this Schedule in respect of shares in a company and the inspector has reason to believe that it may not be well founded by reason of any such arrangements as are mentioned in paragraphs 1(2)(d), 11(1) or 11A[^key-7b325a5e80d762c420fef1b6dba593f0] above, or section 289(1D) or (9)(e), 289A(8)(b) or (8A), 293(4B), (6) or (8) or 308(2)(e), (3), (3A) or (4)[^key-a9770808a934f040075d98b7a329945d] of the Taxes Act or section 176(4)(b) or (5)(b), 182(2) or (4), 183(6), 185(1), 190(1)(e) or 191(2)(c), (3), (4) or (5) of ITA 2007[^key-f6f832ca411e0dcb6b723a7248640867], he may by notice require any person concerned to furnish him within such time (not being less than 60 days) as may be specified in the notice with—
+(6) Where a claim is made under this Schedule in respect of shares in a company and the inspector has reason to believe that it may not be well founded by reason of any such arrangements as are mentioned in paragraphs 1(2)(d), 11(1) or 11A[^c-7b325a5e80d762c420fef1b6dba593f0] above, or section 289(1D) or (9)(e), 289A(8)(b) or (8A), 293(4B), (6) or (8) or 308(2)(e), (3), (3A) or (4)[^c-a9770808a934f040075d98b7a329945d] of the Taxes Act or section 176(4)(b) or (5)(b), 182(2) or (4), 183(6), 185(1), 190(1)(e) or 191(2)(c), (3), (4) or (5) of ITA 2007[^c-f6f832ca411e0dcb6b723a7248640867], he may by notice require any person concerned to furnish him within such time (not being less than 60 days) as may be specified in the notice with—
 
 - (a) a declaration in writing stating whether or not, according to the information which that person has or can reasonably obtain, any such arrangements exist or have existed;
 - (b) such other information as the inspector may reasonably require for the purposes of the provision in question and as that person has or can reasonably obtain.
 
 (7) For the purposes of sub-paragraph (6) above, the persons who are persons concerned are—
 
-- (a) in relation to paragraph 1(2)(d) above or section 293(4B) or (6) of the Taxes Act[^key-54f071ba84dfc1fa83a5327547b6dcf9] or section 182(2) or (4) of ITA 2007[^key-370dfbf9ce61ee747ec29423b4ae5af6], the claimant, the company and any person controlling the company;
-- (aa)[^key-52dbfaba12200ceef7a229d32b7e144a] in relation to section 289(1D), 289A(8)(b) or (8A) or 308(3), (3A) or (4) of the Taxes Act or section 176(4)(b) or (5)(b), 183(6) or 191(3), (4) or (5) of ITA 2007[^key-c8d52de39d4c9fd9f8e8a29500d52c5d], the claimant, the company, any other company in question and any person controlling the company or any other company in question;
-- (b) in relation to paragraph 11(1) above, the claimant, the company and any person connected with the company; [^key-57b83efe70ce4908479def8c408445b2]...
-- (ba)[^key-d75dcad2e160024c49cecc52f636f6ba] in relation to paragraph 11A, the claimant, the company, any person controlling the company and any person whom an officer of Revenue and Customs has reason to believe may be a party to the arrangements in question; and
-- (c) in relation to section 289(9)(e),[^key-0cd3455a46a89ba906485c929546d183] 293(8) or 308(2)(e) of the Taxes Act or section 185(1), 190(1)(e) or 191(2)(c) of ITA 2007[^key-faaf8a880ec92bf0b7c0573e04f1609c], the company and any person controlling the company;
+- (a) in relation to paragraph 1(2)(d) above or section 293(4B) or (6) of the Taxes Act[^c-54f071ba84dfc1fa83a5327547b6dcf9] or section 182(2) or (4) of ITA 2007[^c-370dfbf9ce61ee747ec29423b4ae5af6], the claimant, the company and any person controlling the company;
+- (aa)[^c-52dbfaba12200ceef7a229d32b7e144a] in relation to section 289(1D), 289A(8)(b) or (8A) or 308(3), (3A) or (4) of the Taxes Act or section 176(4)(b) or (5)(b), 183(6) or 191(3), (4) or (5) of ITA 2007[^c-c8d52de39d4c9fd9f8e8a29500d52c5d], the claimant, the company, any other company in question and any person controlling the company or any other company in question;
+- (b) in relation to paragraph 11(1) above, the claimant, the company and any person connected with the company; [^c-57b83efe70ce4908479def8c408445b2]...
+- (ba)[^c-d75dcad2e160024c49cecc52f636f6ba] in relation to paragraph 11A, the claimant, the company, any person controlling the company and any person whom an officer of Revenue and Customs has reason to believe may be a party to the arrangements in question; and
+- (c) in relation to section 289(9)(e),[^c-0cd3455a46a89ba906485c929546d183] 293(8) or 308(2)(e) of the Taxes Act or section 185(1), 190(1)(e) or 191(2)(c) of ITA 2007[^c-faaf8a880ec92bf0b7c0573e04f1609c], the company and any person controlling the company;
 
-and for those purposes the references in paragraphs (a), (aa)[^key-42bb0e61a2df6859ee3c8205b26d3ff5], (b) and (ba)[^key-3e200fb6df618b1810d5a450b784914e] above to the claimant include references to any person to whom the claimant appears to have made a disposal within marriage or civil partnership[^key-772a3bac5b8e158c7d3c6a2dbbacb33b] of any of the shares in question.
+and for those purposes the references in paragraphs (a), (aa)[^c-42bb0e61a2df6859ee3c8205b26d3ff5], (b) and (ba)[^c-3e200fb6df618b1810d5a450b784914e] above to the claimant include references to any person to whom the claimant appears to have made a disposal within marriage or civil partnership[^c-772a3bac5b8e158c7d3c6a2dbbacb33b] of any of the shares in question.
 
-(7A)[^key-e6517fa95649d233550af96d8628da1d] The references in sub-paragraphs (6) and (7) above to subsections (3), (3A) and (4) of section 308 of the Taxes Act and subsections (3), (4) and (5) of section 191 of ITA 2007[^key-ec904ac70e8639f9e618d8ac346d2923] are to be read as including those provisions as applied by section 289(10) and (11) of the Taxes Act or section 190(2) of ITA 2007[^key-745c45a6ad08d4afe3beb74e4e4471bb].
+(7A)[^c-e6517fa95649d233550af96d8628da1d] The references in sub-paragraphs (6) and (7) above to subsections (3), (3A) and (4) of section 308 of the Taxes Act and subsections (3), (4) and (5) of section 191 of ITA 2007[^c-ec904ac70e8639f9e618d8ac346d2923] are to be read as including those provisions as applied by section 289(10) and (11) of the Taxes Act or section 190(2) of ITA 2007[^c-745c45a6ad08d4afe3beb74e4e4471bb].
 
 (8) Where deferral relief is attributable to shares in a company—
 
@@ -841,7 +841,7 @@ only the relevant proportion of the gain which would accrue to the trustees on t
 
 ### Trustees: anti-avoidance
 
-**18.** (1) Paragraphs 13 to 13C[^key-38258cffbbedf140ee90d6843b83be6e] and 15 above shall have effect in relation to the subscription for shares by the trustees of a settlement as if references to the individual subscribing for the shares were references to—
+**18.** (1) Paragraphs 13 to 13C[^c-38258cffbbedf140ee90d6843b83be6e] and 15 above shall have effect in relation to the subscription for shares by the trustees of a settlement as if references to the individual subscribing for the shares were references to—
 
 - (a) those trustees;
 - (b) any individual or charity by virtue of whose interest, at a relevant time, paragraph 17 above applies to the settled property; or
@@ -849,44 +849,44 @@ only the relevant proportion of the gain which would accrue to the trustees on t
 
 (2) The relevant times for the purposes of sub-paragraph (1)(b) above are the time when the shares are issued and—
 
-- (a) in a case where sub-paragraph (1) of paragraph 13 above applies, or that sub-paragraph would apply were it not for the fact that the amount of value is an amount of insignificant value for the purposes of that sub-paragraph[^key-55e1aa6c9f527eecfaaa2e17c0d35080], the time when the value is received;
-- (ab)[^key-8c7ee1660bc6b98e952638f9a67f415e] in a case where paragraph 13(1) above would apply were it not for the operation of paragraph 13B above, the time when the original value (within the meaning of paragraph 13B above) in question is received;
+- (a) in a case where sub-paragraph (1) of paragraph 13 above applies, or that sub-paragraph would apply were it not for the fact that the amount of value is an amount of insignificant value for the purposes of that sub-paragraph[^c-55e1aa6c9f527eecfaaa2e17c0d35080], the time when the value is received;
+- (ab)[^c-8c7ee1660bc6b98e952638f9a67f415e] in a case where paragraph 13(1) above would apply were it not for the operation of paragraph 13B above, the time when the original value (within the meaning of paragraph 13B above) in question is received;
 - (b) in a case where paragraph 15 above applies, the time when the loan is made.
 
 ### Interpretation
 
 **19.** (1) For the purposes of this Schedule—
 
-- “[^key-6382c054e8fc0ca4a42c34101cb872f6]**51 per cent. subsidiary**” has the meaning given by Chapter 3 of Part 24 of CTA 2010[^key-90466fc45498b2c7099867d52e44cf65];
-- “[^key-92f24ab596cdd22fa76ebf8ef41c0992]**arrangements**” includes any scheme, agreement, understanding, transaction or series of transactions (whether or not legally enforceable);
-- “**associate**” has the meaning that would be given by section 448 of CTA 2010 if in that section[^key-4ac89ee10e391230c7f273dbe0bdedda] “**relative**” did not include a brother or sister;
-- “[^key-30d6f60427f75604ec9eeb5174b386c2]**bonus shares**” means shares which are issued otherwise than for payment (whether in cash or otherwise);
-- [^key-7dd2850421d79e8ba50ee3f0898daf35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “**eligible shares**” has the meaning given by section 289(7) of the Taxes Act or means shares that meet the requirement in section 173 (2) of ITA 2007[^key-c3c181276bc2dfdad4625665652e45a2];
-- [^key-4198af63782345e2fe47cdd12872819c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “**non-resident**” means a person who is not resident[^key-6085f6f9e5b7b887bc34da53c01f5af7] in the United Kingdom;
-- “**ordinary share capital**” has the meaning given by section 989 of ITA 2007[^key-155b1112d1e7dc0f7b19e4fc41a3f87b];
+- “[^c-6382c054e8fc0ca4a42c34101cb872f6]**51 per cent. subsidiary**” has the meaning given by Chapter 3 of Part 24 of CTA 2010[^c-90466fc45498b2c7099867d52e44cf65];
+- “[^c-92f24ab596cdd22fa76ebf8ef41c0992]**arrangements**” includes any scheme, agreement, understanding, transaction or series of transactions (whether or not legally enforceable);
+- “**associate**” has the meaning that would be given by section 448 of CTA 2010 if in that section[^c-4ac89ee10e391230c7f273dbe0bdedda] “**relative**” did not include a brother or sister;
+- “[^c-30d6f60427f75604ec9eeb5174b386c2]**bonus shares**” means shares which are issued otherwise than for payment (whether in cash or otherwise);
+- [^c-7dd2850421d79e8ba50ee3f0898daf35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**eligible shares**” has the meaning given by section 289(7) of the Taxes Act or means shares that meet the requirement in section 173 (2) of ITA 2007[^c-c3c181276bc2dfdad4625665652e45a2];
+- [^c-4198af63782345e2fe47cdd12872819c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**non-resident**” means a person who is not resident[^c-6085f6f9e5b7b887bc34da53c01f5af7] in the United Kingdom;
+- “**ordinary share capital**” has the meaning given by section 989 of ITA 2007[^c-155b1112d1e7dc0f7b19e4fc41a3f87b];
 - “**ordinary shares**”, in relation to a company, means shares forming part of its ordinary share capital;
-- “[^key-3a9fef01c97dd076fae7b4e108fa306d]**the period of restriction**”, in relation to any shares, means the period—
+- “[^c-3a9fef01c97dd076fae7b4e108fa306d]**the period of restriction**”, in relation to any shares, means the period—
   - (a) beginning one year before the shares are issued, and
   - (b) ending immediately before the termination date relating to the shares;
-- “**qualifying business activity**” has the meaning given by section 289(2) of the Taxes Act or section 179 of ITA 2007[^key-dc717a520bbaf59b6474144edd513a8f];
-- “[^key-8c350b188b7268584c60307575c9a34d]**qualifying company**”, in relation to any eligible shares, means a company which, in relation to those shares, is—
+- “**qualifying business activity**” has the meaning given by section 289(2) of the Taxes Act or section 179 of ITA 2007[^c-dc717a520bbaf59b6474144edd513a8f];
+- “[^c-8c350b188b7268584c60307575c9a34d]**qualifying company**”, in relation to any eligible shares, means a company which, in relation to those shares, is—
   - (a) a qualifying company for the purposes of Chapter 3 of Part 7 of the Taxes Act (except that for the purposes of this Schedule the reference in section 293(1B)(b)(i) of that Act to section 304A of that Act shall be read as a reference to paragraph 8 above), or
   - (b) a qualifying company for the purposes of Part 5 of ITA 2007 (except that for the purposes of this Schedule the reference in section 184(1)(c)(i) of that Act to section 247 of that Act shall be read as a reference to paragraph 8 above).
-- “**the relevant period**”, in the case of any shares, means the period found by applying section 312(1A)(a) of the Taxes Act or section 159(2) of ITA 2007[^key-00d3109e72a27dbe054e847b61192f90] by reference to the company that issued the shares and by reference to the shares;
-- [^key-5c24d7ed743c629317ebd21adb5c1385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-4198af63782345e2fe47cdd12872819c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “[^key-e597a628e65a4e401d8f9236406fb213]**termination date**”, in relation to any shares, means the date found by applying the definition of “termination date” in section 312(1) of the Taxes Act or section 256 of ITA 2007[^key-4429b1a0ff65ae1a86819f21fff980b5] by reference to the company that issued the shares and by reference to the shares.
+- “**the relevant period**”, in the case of any shares, means the period found by applying section 312(1A)(a) of the Taxes Act or section 159(2) of ITA 2007[^c-00d3109e72a27dbe054e847b61192f90] by reference to the company that issued the shares and by reference to the shares;
+- [^c-5c24d7ed743c629317ebd21adb5c1385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-4198af63782345e2fe47cdd12872819c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “[^c-e597a628e65a4e401d8f9236406fb213]**termination date**”, in relation to any shares, means the date found by applying the definition of “termination date” in section 312(1) of the Taxes Act or section 256 of ITA 2007[^c-4429b1a0ff65ae1a86819f21fff980b5] by reference to the company that issued the shares and by reference to the shares.
 
-(1A)[^key-6aad2189750abbe226abd8cfa31e9b53] For the purposes of this Schedule, “**the relevant shares**”, in relation to a case to which this Schedule applies, means the shares which—
+(1A)[^c-6aad2189750abbe226abd8cfa31e9b53] For the purposes of this Schedule, “**the relevant shares**”, in relation to a case to which this Schedule applies, means the shares which—
 
 - (a) are acquired by the investor in making the qualifying investment, and
 - (b) where the qualifying investment is made before the time at which the original gain accrues, are still held by the investor at that time.
 
 This is subject to sub-paragraphs (1B) and (1D) below.
 
-(1B) If any corresponding bonus shares in the same company are issued to the investor or any person who has acquired any of the relevant shares from the investor on a disposal within marriage or civil partnership[^key-b7459336c4b3a6cd5b89e6b0e13467d8], this Schedule shall apply as if references to the relevant shares were to all the shares comprising the relevant shares and the bonus shares so issued.
+(1B) If any corresponding bonus shares in the same company are issued to the investor or any person who has acquired any of the relevant shares from the investor on a disposal within marriage or civil partnership[^c-b7459336c4b3a6cd5b89e6b0e13467d8], this Schedule shall apply as if references to the relevant shares were to all the shares comprising the relevant shares and the bonus shares so issued.
 
 (1C) In sub-paragraph (1B) above “**corresponding bonus shares**” means bonus shares which—
 
@@ -905,8 +905,8 @@ This is subject to sub-paragraphs (1B) and (1D) below.
 (3) In this Schedule—
 
 - (a) references (however expressed) to an issue of eligible shares in any company are to any eligible shares in the company that are of the same class and are issued on the same day;
-- (b) references to a disposal within marriage or civil partnership are references to any disposal to which section 58 applies; [^key-ce273f28f5eb006b09d9f55a05073ffe]...
-- (c) references to Chapter III of Part VII of the Taxes Act or any provision of that Chapter are to that Chapter or provision as it applies in relation to shares issued on or after 1st January 1994; and[^key-c338e2cd34ccf982613ca324c5e9f1b0]
+- (b) references to a disposal within marriage or civil partnership are references to any disposal to which section 58 applies; [^c-ce273f28f5eb006b09d9f55a05073ffe]...
+- (c) references to Chapter III of Part VII of the Taxes Act or any provision of that Chapter are to that Chapter or provision as it applies in relation to shares issued on or after 1st January 1994; and[^c-c338e2cd34ccf982613ca324c5e9f1b0]
 - (d) references to Part 5 of ITA 2007 or any provision of that Part are to a Part or provision that applies only in relation to shares issued on or after 6th April 2007.
 
 (4) For the purposes of this Schedule shares in a company shall not be treated as being of the same class unless they would be so treated if dealt with on the Stock Exchange.
@@ -915,348 +915,348 @@ This is subject to sub-paragraphs (1B) and (1D) below.
 
 ## Annotations
 
-[^key-a107d16142a124fbbb6cf19c5c89fc02]: Textual amendment: Sch. 5B inserted (with effect in accordance with Sch. 13 para. 4(4) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 13 para. 4(3)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/13/paragraph/4/3)
+[^c-a107d16142a124fbbb6cf19c5c89fc02]: Textual amendment: Sch. 5B inserted (with effect in accordance with Sch. 13 para. 4(4) of the amending Act) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [Sch. 13 para. 4(3)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/13/paragraph/4/3)
 
-[^key-47acf7650e77aaeac1a6bf36b8830c1f]: Textual amendment: Words in Sch. 5B para. 1(1)(b) inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 27(1)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/27/1)
+[^c-47acf7650e77aaeac1a6bf36b8830c1f]: Textual amendment: Words in Sch. 5B para. 1(1)(b) inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 27(1)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/27/1)
 
-[^key-557a5a6c27046e9a781f345da430c62c]: Textual amendment: Words in Sch. 5B para. 1(1)(b) inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/4)
+[^c-557a5a6c27046e9a781f345da430c62c]: Textual amendment: Words in Sch. 5B para. 1(1)(b) inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/4)
 
-[^key-edf647669166fb54e18a9f5e2c25d2c0]: Textual amendment: Words in Sch. 5B para. 1(1)(d) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 110(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/2/a) (with [Sch. 46 para. 110(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/5))
+[^c-edf647669166fb54e18a9f5e2c25d2c0]: Textual amendment: Words in Sch. 5B para. 1(1)(d) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 110(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/2/a) (with [Sch. 46 para. 110(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/5))
 
-[^key-7208e46bbffb1760470495709d2a61f9]: Textual amendment: Sch. 5B para. 1(2)(3) substituted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 27(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/27/2)
+[^c-7208e46bbffb1760470495709d2a61f9]: Textual amendment: Sch. 5B para. 1(2)(3) substituted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 27(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/27/2)
 
-[^key-1116730b8fcceed9949f839956907785]: Textual amendment: Words in Sch. 5B para. 1(2)(a) repealed (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/a), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
+[^c-1116730b8fcceed9949f839956907785]: Textual amendment: Words in Sch. 5B para. 1(2)(a) repealed (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/a), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
 
-[^key-e4e087358830c93fa4b235d052998a2b]: Textual amendment: Sch. 5B para. 1(2)(aza) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/b)
+[^c-e4e087358830c93fa4b235d052998a2b]: Textual amendment: Sch. 5B para. 1(2)(aza) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/b)
 
-[^key-391aa08a8fdab96b0a99458df8feaeaf]: Textual amendment: Words in Sch. 5B para. 1(2)(c) substituted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/c)
+[^c-391aa08a8fdab96b0a99458df8feaeaf]: Textual amendment: Words in Sch. 5B para. 1(2)(c) substituted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/c)
 
-[^key-4ba169046c13af129b109c239aac7cd9]: Textual amendment: Sch. 5B para. 1(2)(da) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/7/2/a)
+[^c-4ba169046c13af129b109c239aac7cd9]: Textual amendment: Sch. 5B para. 1(2)(da) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/7/2/a)
 
-[^key-c79fd12a47027e40c8259317b7b8d195]: Textual amendment: Sum in Sch. 5B para. 1(2)(da) substituted (with effect in accordance with Sch. 7 para. 33(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 paras. 29](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/29), [33(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/33/1); [S.I. 2012/1896](https://www.legislation.gov.uk/uksi/2012/1896), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1896/article/2/d)
+[^c-c79fd12a47027e40c8259317b7b8d195]: Textual amendment: Sum in Sch. 5B para. 1(2)(da) substituted (with effect in accordance with Sch. 7 para. 33(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 paras. 29](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/29), [33(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/33/1); [S.I. 2012/1896](https://www.legislation.gov.uk/uksi/2012/1896), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1896/article/2/d)
 
-[^key-75b76d82f5b3239cc136df18a2545abf]: Textual amendment: Words in Sch. 5B para. 1(2)(e) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(d)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/d)
+[^c-75b76d82f5b3239cc136df18a2545abf]: Textual amendment: Words in Sch. 5B para. 1(2)(e) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(d)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/d)
 
-[^key-b7f7a45a0c9d1b33d332bb5724820d79]: Textual amendment: Words in Sch. 5B para. 1(2)(e) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-b7f7a45a0c9d1b33d332bb5724820d79]: Textual amendment: Words in Sch. 5B para. 1(2)(e) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(2)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-6da6d5ae82b8e34fd6f3c0cb0c4a72e6]: Textual amendment: Words in Sch. 5B para. 1(2)(f) substituted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(e)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/e)
+[^c-6da6d5ae82b8e34fd6f3c0cb0c4a72e6]: Textual amendment: Words in Sch. 5B para. 1(2)(f) substituted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(1)(e)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/e)
 
-[^key-63dc2513f864980d52309b26790e5b66]: Textual amendment: Sch. 5B para. 1(2)(g) and preceding word substituted for Sch. 5B para. 1(2)(g)(h) (with effect in accordance with Sch. 8 para. 11 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/2/2)
+[^c-63dc2513f864980d52309b26790e5b66]: Textual amendment: Sch. 5B para. 1(2)(g) and preceding word substituted for Sch. 5B para. 1(2)(g)(h) (with effect in accordance with Sch. 8 para. 11 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/2/2)
 
-[^key-ea776f18efaae407ebbfbddafd3029df]: Textual amendment: Words in Sch. 5B para. 1(2) substituted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/2/3)
+[^c-ea776f18efaae407ebbfbddafd3029df]: Textual amendment: Words in Sch. 5B para. 1(2) substituted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/2/3)
 
-[^key-265ffab8ebdf2d0d032b36e367572fbf]: Textual amendment: Words in Sch. 5B para. 1(4)(a) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 110(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/2/b) (with [Sch. 46 para. 110(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/5))
+[^c-265ffab8ebdf2d0d032b36e367572fbf]: Textual amendment: Words in Sch. 5B para. 1(4)(a) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 110(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/2/b) (with [Sch. 46 para. 110(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/5))
 
-[^key-8c028c89d1875001130ba0feaa0ca418]: Textual amendment: Sch. 5B para. 1(5) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/2)
+[^c-8c028c89d1875001130ba0feaa0ca418]: Textual amendment: Sch. 5B para. 1(5) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 13(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/2)
 
-[^key-8612bfe2191f24160a96041f269896fc]: Textual amendment: Sch. 5B para. 1(5A) inserted (with effect in accordance with Sch. 1 para. 14 of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/9/2)
+[^c-8612bfe2191f24160a96041f269896fc]: Textual amendment: Sch. 5B para. 1(5A) inserted (with effect in accordance with Sch. 1 para. 14 of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/9/2)
 
-[^key-743ce9d3a87a87dcf92d497fe9f38ade]: Textual amendment: Sch. 5B para. 1(6)(7) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/7/2/b)
+[^c-743ce9d3a87a87dcf92d497fe9f38ade]: Textual amendment: Sch. 5B para. 1(6)(7) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/7/2/b)
 
-[^key-a488163a5cb10a891fcac471ac52ea97]: Textual amendment: Sch. 5B para. 1A and cross-heading inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 28](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/28)
+[^c-a488163a5cb10a891fcac471ac52ea97]: Textual amendment: Sch. 5B para. 1A and cross-heading inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 28](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/28)
 
-[^key-de1e628036849cb1a858cf1e19303904]: Textual amendment: Words in Sch. 5B para. 1A(1) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 7(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/7/3)
+[^c-de1e628036849cb1a858cf1e19303904]: Textual amendment: Words in Sch. 5B para. 1A(1) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 7(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/7/3)
 
-[^key-53b5615e6aeb5e93fb49206a8887dcc3]: Textual amendment: Words in Sch. 5B para. 1A(1) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/a)
+[^c-53b5615e6aeb5e93fb49206a8887dcc3]: Textual amendment: Words in Sch. 5B para. 1A(1) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/a)
 
-[^key-b99611bbbc75a5b07275b10e3b058553]: Textual amendment: Words in Sch. 5B para. 1A(2) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/b)
+[^c-b99611bbbc75a5b07275b10e3b058553]: Textual amendment: Words in Sch. 5B para. 1A(2) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/b)
 
-[^key-ec8494027392bb4a88b4780ead5184ed]: Textual amendment: Words in Sch. 5B para. 1A(3) substituted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/c)
+[^c-ec8494027392bb4a88b4780ead5184ed]: Textual amendment: Words in Sch. 5B para. 1A(3) substituted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/c)
 
-[^key-e6bd32a22fd4fd6d98a9e459a19e17d3]: Textual amendment: Words in Sch. 5B para. 1A(4) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/3/2/a)
+[^c-e6bd32a22fd4fd6d98a9e459a19e17d3]: Textual amendment: Words in Sch. 5B para. 1A(4) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/3/2/a)
 
-[^key-4e2ede21967458b2acfef7694a6ca4e4]: Textual amendment: Words in Sch. 5B para. 1A(4) substituted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(d)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/d)
+[^c-4e2ede21967458b2acfef7694a6ca4e4]: Textual amendment: Words in Sch. 5B para. 1A(4) substituted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(d)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/d)
 
-[^key-79f0260654f30f0aaa7576a49d5e80fe]: Textual amendment: Words in Sch. 5B para. 1A(4)(a) substituted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/3/2/b)
+[^c-79f0260654f30f0aaa7576a49d5e80fe]: Textual amendment: Words in Sch. 5B para. 1A(4)(a) substituted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/3/2/b)
 
-[^key-f8f9373d99b2eb7d8d631a7eac81ca51]: Textual amendment: Sch. 5B para. 1A(4A) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/3/3)
+[^c-f8f9373d99b2eb7d8d631a7eac81ca51]: Textual amendment: Sch. 5B para. 1A(4A) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/3/3)
 
-[^key-2e3ac68aa863cdcbc318a0d1ed80112b]: Textual amendment: Words in Sch. 5B para. 1A(5)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-2e3ac68aa863cdcbc318a0d1ed80112b]: Textual amendment: Words in Sch. 5B para. 1A(5)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/3/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-387d0e1e35fdbb7fb492e9a78a4f6134]: Textual amendment: Words in Sch. 5B para. 1A(5)(b) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(e)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/e)
+[^c-387d0e1e35fdbb7fb492e9a78a4f6134]: Textual amendment: Words in Sch. 5B para. 1A(5)(b) inserted (with effect in accordance with Sch. 18 para. 21 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 14(e)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/14/e)
 
-[^key-01e8f7906ce02e4ff5b36f53f98eac71]: Textual amendment: Words in Sch. 5B para. 1A(7) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(3)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/3/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-01e8f7906ce02e4ff5b36f53f98eac71]: Textual amendment: Words in Sch. 5B para. 1A(7) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(3)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/3/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-301240805bfd86bcb0901cbde2dd6285]: Textual amendment: Words in Sch. 5B para. 2(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(a)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/a)
+[^c-301240805bfd86bcb0901cbde2dd6285]: Textual amendment: Words in Sch. 5B para. 2(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(a)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/a)
 
-[^key-af625b8adf62e15e5f20e932122f9b24]: Textual amendment: Words in Sch. 5B para. 2(2)(3) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(b)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/b)
+[^c-af625b8adf62e15e5f20e932122f9b24]: Textual amendment: Words in Sch. 5B para. 2(2)(3) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(b)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/b)
 
-[^key-b8deab97154bb9e39c9ae4a90c66eda0]: Textual amendment: Words in Sch. 5B para. 2(2)(b) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(c)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/c)
+[^c-b8deab97154bb9e39c9ae4a90c66eda0]: Textual amendment: Words in Sch. 5B para. 2(2)(b) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(c)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/c)
 
-[^key-794008056aefc2c0e29aa4bc60a32a14]: Textual amendment: Sch. 5B para. 2(3)(a) substituted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 29](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/29)
+[^c-794008056aefc2c0e29aa4bc60a32a14]: Textual amendment: Sch. 5B para. 2(3)(a) substituted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 29](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/29)
 
-[^key-d9ae91b0f8573d0b164eb9ef0b9c5ef5]: Textual amendment: Words in Sch. 5B para. 2(3)(b) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 22(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/22/a)
+[^c-d9ae91b0f8573d0b164eb9ef0b9c5ef5]: Textual amendment: Words in Sch. 5B para. 2(3)(b) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 22(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/22/a)
 
-[^key-fb754a0e87e9a020cfec6e64a163bd25]: Textual amendment: Words in Sch. 5B para. 2(4) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(a)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/a)
+[^c-fb754a0e87e9a020cfec6e64a163bd25]: Textual amendment: Words in Sch. 5B para. 2(4) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(a)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/a)
 
-[^key-7b7ea41fde8c163ac00a76fb87490560]: Textual amendment: Words in Sch. 5B para. 2(4) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 22(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/22/b)
+[^c-7b7ea41fde8c163ac00a76fb87490560]: Textual amendment: Words in Sch. 5B para. 2(4) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 22(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/22/b)
 
-[^key-dbe58a6d5792854b16ce4d41d50f7114]: Textual amendment: Words in Sch. 5B para. 2(4) repealed (with effect in accordance with Sch. 19 para. 7 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 19 para. 6(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/19/paragraph/6/2), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
+[^c-dbe58a6d5792854b16ce4d41d50f7114]: Textual amendment: Words in Sch. 5B para. 2(4) repealed (with effect in accordance with Sch. 19 para. 7 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 19 para. 6(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/19/paragraph/6/2), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
 
-[^key-e23e197c66b09aff7cbd2ee1a71d89f3]: Textual amendment: Words in Sch. 5B para. 3(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(d)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/d)
+[^c-e23e197c66b09aff7cbd2ee1a71d89f3]: Textual amendment: Words in Sch. 5B para. 3(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(d)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/d)
 
-[^key-f4fcada040ff863c2dc6446f8a6ff203]: Textual amendment: Words in Sch. 5B para. 3 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
+[^c-f4fcada040ff863c2dc6446f8a6ff203]: Textual amendment: Words in Sch. 5B para. 3 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
 
-[^key-73ba2515fa467a07cefb39aa458dabad]: Textual amendment: Words in Sch. 5B para. 3(1)(c)(d) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 29](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/29) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-73ba2515fa467a07cefb39aa458dabad]: Textual amendment: Words in Sch. 5B para. 3(1)(c)(d) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 29](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/29) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-2421f2a28cb7bcceece81d566a59e390]: Textual amendment: Sch. 5B para. 3(1)(e) and preceding word substituted for Sch. 5B para. 3(1)(e)(f) (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 30(1)(b)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/30/1/b)
+[^c-2421f2a28cb7bcceece81d566a59e390]: Textual amendment: Sch. 5B para. 3(1)(e) and preceding word substituted for Sch. 5B para. 3(1)(e)(f) (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 30(1)(b)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/30/1/b)
 
-[^key-078505e4af771fb733feba6cffb6f530]: Textual amendment: Sch. 5B para. 3(2) repealed (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 30(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/30/2), [Sch. 27 Pt. III(14)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/14)
+[^c-078505e4af771fb733feba6cffb6f530]: Textual amendment: Sch. 5B para. 3(2) repealed (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 30(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/30/2), [Sch. 27 Pt. III(14)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/14)
 
-[^key-b4389515e7cce536b0aef8662217dcde]: Textual amendment: Words in Sch. 5B para. 3(3)(b) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 110(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/3) (with [Sch. 46 para. 110(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/5))
+[^c-b4389515e7cce536b0aef8662217dcde]: Textual amendment: Words in Sch. 5B para. 3(3)(b) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 110(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/3) (with [Sch. 46 para. 110(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/5))
 
-[^key-677d8a6a994627a9d3e2e80b426b6bb2]: Textual amendment: Words in Sch. 5B para. 3(5)(a)(b) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(d)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/d)
+[^c-677d8a6a994627a9d3e2e80b426b6bb2]: Textual amendment: Words in Sch. 5B para. 3(5)(a)(b) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(d)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/d)
 
-[^key-373b4fd5ee2577e1ad79b998df404ae3]: Textual amendment: Sch. 5B para. 3(6) inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 30(3)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/30/3)
+[^c-373b4fd5ee2577e1ad79b998df404ae3]: Textual amendment: Sch. 5B para. 3(6) inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 30(3)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/30/3)
 
-[^key-5d669765fa68ca84631f448befe09c74]: Textual amendment: Words in Sch. 5B para. 4(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(e)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/e)
+[^c-5d669765fa68ca84631f448befe09c74]: Textual amendment: Words in Sch. 5B para. 4(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(e)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/e)
 
-[^key-937ebd8d4b6f2d2cd3183264500ea8c2]: Textual amendment: Sch. 5B para. 4(1)(b) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 2(1)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/2/1)
+[^c-937ebd8d4b6f2d2cd3183264500ea8c2]: Textual amendment: Sch. 5B para. 4(1)(b) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 2(1)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/2/1)
 
-[^key-b67e06031bda8b6f2b29f11e55c98789]: Textual amendment: Sch. 5B para. 4(2)-(4C) substituted for Sch. 5B para. 4(2)-(4) (with effect in accordance with Sch. 13 para. 31(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 31(1)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/31/1)
+[^c-b67e06031bda8b6f2b29f11e55c98789]: Textual amendment: Sch. 5B para. 4(2)-(4C) substituted for Sch. 5B para. 4(2)-(4) (with effect in accordance with Sch. 13 para. 31(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 31(1)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/31/1)
 
-[^key-716a99c79f0d59390f657377a5928315]: Textual amendment: Words in Sch. 5B para. 4 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
+[^c-716a99c79f0d59390f657377a5928315]: Textual amendment: Words in Sch. 5B para. 4 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
 
-[^key-a3bd7333096ed03905e9366edffa1ead]: Textual amendment: Words in Sch. 5B para. 4(4) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(4)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/4/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-a3bd7333096ed03905e9366edffa1ead]: Textual amendment: Words in Sch. 5B para. 4(4) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(4)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/4/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-901358e01860acb392f20baeeba123f1]: Textual amendment: Words in Sch. 5B para. 4(4A) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/4/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-901358e01860acb392f20baeeba123f1]: Textual amendment: Words in Sch. 5B para. 4(4A) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/4/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-ff11f373cc2c396d5b23bb8d90ae2d70]: Textual amendment: Words in Sch. 5B para. 4(4A)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/4/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-ff11f373cc2c396d5b23bb8d90ae2d70]: Textual amendment: Words in Sch. 5B para. 4(4A)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/4/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-9204b1211ebcf0d8b15b5c5dcbaf26a1]: Textual amendment: Words in Sch. 5B para. 4(4C) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(4)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/4/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-9204b1211ebcf0d8b15b5c5dcbaf26a1]: Textual amendment: Words in Sch. 5B para. 4(4C) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(4)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/4/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-b7f4867d4298e7a7a379ba8ad7cdbbc3]: Textual amendment: Words in Sch. 5B para. 4(5) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(e)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/e)
+[^c-b7f4867d4298e7a7a379ba8ad7cdbbc3]: Textual amendment: Words in Sch. 5B para. 4(5) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(e)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/e)
 
-[^key-5c0b65b35647963f388566f3f8ec8557]: Textual amendment: Sch. 5B para. 4(5)(a) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/2/2)
+[^c-5c0b65b35647963f388566f3f8ec8557]: Textual amendment: Sch. 5B para. 4(5)(a) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/2/2)
 
-[^key-822f1f6ce26dfc9a28cc8af5ee77943b]: Textual amendment: Words in Sch. 5B para. 4(5)(b) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(f)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/f)
+[^c-822f1f6ce26dfc9a28cc8af5ee77943b]: Textual amendment: Words in Sch. 5B para. 4(5)(b) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(f)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/f)
 
-[^key-7dddd959cf60bf6257ab5f7959d7e66e]: Textual amendment: Words in Sch. 5B para. 4(5)(b) substituted (with effect in accordance with Sch. 13 para. 31(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 31(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/31/2)
+[^c-7dddd959cf60bf6257ab5f7959d7e66e]: Textual amendment: Words in Sch. 5B para. 4(5)(b) substituted (with effect in accordance with Sch. 13 para. 31(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 31(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/31/2)
 
-[^key-38c7feae5820faa3ae12872dc4700e38]: Textual amendment: Sch. 5B para. 4(6)(7) inserted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/2/3)
+[^c-38c7feae5820faa3ae12872dc4700e38]: Textual amendment: Sch. 5B para. 4(6)(7) inserted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/2/3)
 
-[^key-9dfe020f6cd27bffcc818b671979f56e]: Textual amendment: Words in Sch. 5B para. 5(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(g)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/g)
+[^c-9dfe020f6cd27bffcc818b671979f56e]: Textual amendment: Words in Sch. 5B para. 5(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(g)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/g)
 
-[^key-b65ba3f53ed521698a2b41a671503c1d]: Textual amendment: Sch. 5B para. 5(1)(c) and preceding word substituted for Sch. 5B para. 5(1)(c)(d) (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/32)
+[^c-b65ba3f53ed521698a2b41a671503c1d]: Textual amendment: Sch. 5B para. 5(1)(c) and preceding word substituted for Sch. 5B para. 5(1)(c)(d) (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/32)
 
-[^key-e763e5ac648191f734263f52938631f2]: Textual amendment: Words in Sch. 5B para. 5 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
+[^c-e763e5ac648191f734263f52938631f2]: Textual amendment: Words in Sch. 5B para. 5 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
 
-[^key-913ee216537fff03b0122dd35323085c]: Textual amendment: Sch. 5B para. 6 and cross-heading substituted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 33](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/33)
+[^c-913ee216537fff03b0122dd35323085c]: Textual amendment: Sch. 5B para. 6 and cross-heading substituted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 33](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/33)
 
-[^key-1d9e64325af643909b501230ac2469ef]: Textual amendment: Words in Sch. 5B para. 6(1) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(5)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-1d9e64325af643909b501230ac2469ef]: Textual amendment: Words in Sch. 5B para. 6(1) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(5)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-281f960c2693476929d9089b0f94dba9]: Textual amendment: Words in Sch. 5B para. 6(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(h)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/h)
+[^c-281f960c2693476929d9089b0f94dba9]: Textual amendment: Words in Sch. 5B para. 6(1) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(h)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/h)
 
-[^key-28a28aa1623ed5a867018c686d8ceda6]: Textual amendment: Words in Sch. 5B para. 6(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(5)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-28a28aa1623ed5a867018c686d8ceda6]: Textual amendment: Words in Sch. 5B para. 6(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(5)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-d7d9c1e94ce232e783c0bce2451ae15e]: Textual amendment: Words in Sch. 5B para. 6(2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(5)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-d7d9c1e94ce232e783c0bce2451ae15e]: Textual amendment: Words in Sch. 5B para. 6(2) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(5)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-377b778d982cec23be97f00ec1484623]: Textual amendment: Sch. 5B para. 6(3) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(5)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/5/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-377b778d982cec23be97f00ec1484623]: Textual amendment: Sch. 5B para. 6(3) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(5)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/5/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-68935aa69693842eb72420fea4763c00]: Textual amendment: Sch. 5B paras. 7-9 and cross-headings inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/34)
+[^c-68935aa69693842eb72420fea4763c00]: Textual amendment: Sch. 5B paras. 7-9 and cross-headings inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/34)
 
-[^key-400bc691b1198de2f81a358d5a6f2406]: Textual amendment: Words in Sch. 5B para. 7(1)(a) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(6)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/6/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-400bc691b1198de2f81a358d5a6f2406]: Textual amendment: Words in Sch. 5B para. 7(1)(a) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(6)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/6/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-45af63bf13606e77d6bac08ef75c9d66]: Textual amendment: Words in Sch. 5B para. 7(1)(b) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(6)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/6/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-45af63bf13606e77d6bac08ef75c9d66]: Textual amendment: Words in Sch. 5B para. 7(1)(b) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(6)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/6/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-bd9de31b6a759b43f3cb0ebd86c3d0af]: Textual amendment: Words in Sch. 5B para. 8(1)(e)(ii) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(7)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/7/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-bd9de31b6a759b43f3cb0ebd86c3d0af]: Textual amendment: Words in Sch. 5B para. 8(1)(e)(ii) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(7)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/7/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-a96bbe599640140bb713de2b42651d1f]: Textual amendment: Words in Sch. 5B para. 8 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
+[^c-a96bbe599640140bb713de2b42651d1f]: Textual amendment: Words in Sch. 5B para. 8 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
 
-[^key-ee7d5256cdfa83cb9df66fbad97461aa]: Textual amendment: Words in Sch. 5B para. 8(5)(a) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(7)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/7/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-ee7d5256cdfa83cb9df66fbad97461aa]: Textual amendment: Words in Sch. 5B para. 8(5)(a) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(7)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/7/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8eed742243f940e145bc4b3a2315cb76]: Textual amendment: Words in Sch. 5B para. 8(7) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(7)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/7/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8eed742243f940e145bc4b3a2315cb76]: Textual amendment: Words in Sch. 5B para. 8(7) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(7)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/7/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-4b335a28d59a82c1f2b98a6805acaa73]: Textual amendment: Sch. 5B para. 9(1)(1A) substituted for Sch. 5B para. 9(1) (with effect in accordance with Sch. 8 para. 12 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/4/2)
+[^c-4b335a28d59a82c1f2b98a6805acaa73]: Textual amendment: Sch. 5B para. 9(1)(1A) substituted for Sch. 5B para. 9(1) (with effect in accordance with Sch. 8 para. 12 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/4/2)
 
-[^key-cf97cc9610579647a70ac41a8f5dd58f]: Textual amendment: Words in Sch. 5B para. 9(2) substituted (with effect in accordance with Sch. 8 para. 12 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 4(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/4/3)
+[^c-cf97cc9610579647a70ac41a8f5dd58f]: Textual amendment: Words in Sch. 5B para. 9(2) substituted (with effect in accordance with Sch. 8 para. 12 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 4(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/4/3)
 
-[^key-2a8e67ec5354ecb9e71e6a9bf476acab]: Textual amendment: Sch. 5B para. 9(3) substituted (with effect in accordance with Sch. 8 para. 12 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/4/4)
+[^c-2a8e67ec5354ecb9e71e6a9bf476acab]: Textual amendment: Sch. 5B para. 9(3) substituted (with effect in accordance with Sch. 8 para. 12 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/4/4)
 
-[^key-610f1b0727b60e73dd7e6815cfdb89ff]: Textual amendment: Words in Sch. 5B para. 9(4)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(8)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/8/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-610f1b0727b60e73dd7e6815cfdb89ff]: Textual amendment: Words in Sch. 5B para. 9(4)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(8)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/8/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-38daf46965a8e0deaa7003d2ae4fc0f1]: Textual amendment: Sch. 5B paras. 10-15 and cross-headings inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/35)
+[^c-38daf46965a8e0deaa7003d2ae4fc0f1]: Textual amendment: Sch. 5B paras. 10-15 and cross-headings inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/35)
 
-[^key-f0b62a1dfc87aba0354437386649cc9d]: Textual amendment: Word in Sch. 5B para. 10(1) substituted (with effect in accordance with Sch. 18 para. 15(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 15(1)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/15/1/a)
+[^c-f0b62a1dfc87aba0354437386649cc9d]: Textual amendment: Word in Sch. 5B para. 10(1) substituted (with effect in accordance with Sch. 18 para. 15(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 15(1)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/15/1/a)
 
-[^key-0cb67c9741fc809dabcb58d7d95ed341]: Textual amendment: Sch. 5B para. 10(4) inserted (with effect in accordance with Sch. 18 para. 15(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 15(1)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/15/1/b)
+[^c-0cb67c9741fc809dabcb58d7d95ed341]: Textual amendment: Sch. 5B para. 10(4) inserted (with effect in accordance with Sch. 18 para. 15(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 15(1)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/15/1/b)
 
-[^key-22a7256b39ac3ebd13e39119f033da31]: Textual amendment: Word in Sch. 5B para. 11(5) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(9)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/9/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-22a7256b39ac3ebd13e39119f033da31]: Textual amendment: Word in Sch. 5B para. 11(5) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(9)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/9/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-bb221b5997ec38515837ea8e54bfa834]: Textual amendment: Sch. 5B para. 11(5)(b) and preceding word inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(9)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/9/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-bb221b5997ec38515837ea8e54bfa834]: Textual amendment: Sch. 5B para. 11(5)(b) and preceding word inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(9)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/9/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-c343e4a996581faf168edc2c16c58790]: Textual amendment: Sch. 5B para. 11A and cross-heading inserted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/30)
+[^c-c343e4a996581faf168edc2c16c58790]: Textual amendment: Sch. 5B para. 11A and cross-heading inserted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/30)
 
-[^key-374ec9a2b512b162feb3523df171fbb7]: Textual amendment: Words in Sch. 5B para. 12 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
+[^c-374ec9a2b512b162feb3523df171fbb7]: Textual amendment: Words in Sch. 5B para. 12 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
 
-[^key-feb7f1ec3beb6ac3acf6dd656418eca9]: Textual amendment: Words in Sch. 5B para. 13(1) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/1) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-feb7f1ec3beb6ac3acf6dd656418eca9]: Textual amendment: Words in Sch. 5B para. 13(1) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/1) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-562a908823f419b49767c95189e0458d]: Textual amendment: Words in Sch. 5B para. 13(1) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(2)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/2) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-562a908823f419b49767c95189e0458d]: Textual amendment: Words in Sch. 5B para. 13(1) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(2)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/2) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-d854a512d61deb9a77f92a1de548ea8a]: Modification: [Sch. 5B para. 13(1)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5B/paragraph/13/1/b) excluded (20.5.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/1)[(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/4)
+[^c-d854a512d61deb9a77f92a1de548ea8a]: Modification: [Sch. 5B para. 13(1)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5B/paragraph/13/1/b) excluded (20.5.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/1)[(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/4)
 
-[^key-e482aecab4338ebc00d4a5b6ba6c6fa7]: Textual amendment: Sch. 5B para. 13(1A)(1B) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-e482aecab4338ebc00d4a5b6ba6c6fa7]: Textual amendment: Sch. 5B para. 13(1A)(1B) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-c797e600669557c8c0e078e85863d5ec]: Textual amendment: Words in Sch. 5B para. 13(2)(b)(i) substituted (with effect in accordance with Sch. 18 para. 16(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 16(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/16/1)
+[^c-c797e600669557c8c0e078e85863d5ec]: Textual amendment: Words in Sch. 5B para. 13(2)(b)(i) substituted (with effect in accordance with Sch. 18 para. 16(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 16(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/16/1)
 
-[^key-a54a60760fe3a3850587a6935ea211fa]: Textual amendment: Sch. 5B para. 13(4) repealed (with effect in accordance with Sch. 33 Pt. 2(3) Note 6 of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/4), [Sch. 33 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-a54a60760fe3a3850587a6935ea211fa]: Textual amendment: Sch. 5B para. 13(4) repealed (with effect in accordance with Sch. 33 Pt. 2(3) Note 6 of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/4), [Sch. 33 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-da97109a38a1175ee21fe07b2aaceac5]: Textual amendment: Words in Sch. 5B para. 13(5) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(10)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/10) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-da97109a38a1175ee21fe07b2aaceac5]: Textual amendment: Words in Sch. 5B para. 13(5) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(10)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/10) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-d4dff946ca0cc967da8eece40731e02f]: Textual amendment: Words in Sch. 5B para. 13(7)(b)(i) inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 450(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/450/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-d4dff946ca0cc967da8eece40731e02f]: Textual amendment: Words in Sch. 5B para. 13(7)(b)(i) inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 450(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/450/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-fbd1316cacb3bd192eaa67221b830ebd]: Textual amendment: Words in Sch. 5B para. 13(7)(b)(ii) substituted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 450(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/450/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-fbd1316cacb3bd192eaa67221b830ebd]: Textual amendment: Words in Sch. 5B para. 13(7)(b)(ii) substituted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 450(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/450/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-380d63f4c297301f8cb8fdabddde9399]: Textual amendment: Words in Sch. 5B para. 13(10) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(5)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/5) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-380d63f4c297301f8cb8fdabddde9399]: Textual amendment: Words in Sch. 5B para. 13(10) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(5)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/5) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-1e2cc60efd0f6fe692b32ad40b440512]: Textual amendment: Sch. 5B para. 13(12) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(6)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/6) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-1e2cc60efd0f6fe692b32ad40b440512]: Textual amendment: Sch. 5B para. 13(12) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 30(6)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/30/6) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-cc5eb353c9524cca1c58920d4a4d232a]: Textual amendment: Sch. 5B paras. 13A-13C and cross-headings inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 31](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/31) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-cc5eb353c9524cca1c58920d4a4d232a]: Textual amendment: Sch. 5B paras. 13A-13C and cross-headings inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 31](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/31) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-15d98d2bbd71fdaeb158f328f146d8f7]: Textual amendment: Words in Sch. 5B para. 13C(3) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(11)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/11/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-15d98d2bbd71fdaeb158f328f146d8f7]: Textual amendment: Words in Sch. 5B para. 13C(3) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(11)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/11/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-aac5b866fbf6b02b00e388f63a2c4119]: Textual amendment: Sch. 5B para. 13C(4) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(11)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/11/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-aac5b866fbf6b02b00e388f63a2c4119]: Textual amendment: Sch. 5B para. 13C(4) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(11)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/11/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-f7062c9c0bb811d7f259fd4f40739c4c]: Textual amendment: Words in Sch. 5B para. 14(1) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/1/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-f7062c9c0bb811d7f259fd4f40739c4c]: Textual amendment: Words in Sch. 5B para. 14(1) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/1/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-8c68af40a1b35ece71f64cfe302a7a1c]: Textual amendment: Words in Sch. 5B para. 14(1)(a) substituted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/2/a)
+[^c-8c68af40a1b35ece71f64cfe302a7a1c]: Textual amendment: Words in Sch. 5B para. 14(1)(a) substituted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/2/a)
 
-[^key-ebac49be242cc25921f4cf6f4a8e7172]: Textual amendment: Words in Sch. 5B para. 14(1) inserted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/2/b)
+[^c-ebac49be242cc25921f4cf6f4a8e7172]: Textual amendment: Words in Sch. 5B para. 14(1) inserted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/2/b)
 
-[^key-4d042b80b7a5b82ece661a1bd47e5e0f]: Textual amendment: Words in Sch. 5B para. 14(1) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/1/b) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-4d042b80b7a5b82ece661a1bd47e5e0f]: Textual amendment: Words in Sch. 5B para. 14(1) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/1/b) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-944f5cbc542cdf7d828c1b4ac4ef26c7]: Textual amendment: Words in Sch. 5B para. 14(3) substituted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/2/c)
+[^c-944f5cbc542cdf7d828c1b4ac4ef26c7]: Textual amendment: Words in Sch. 5B para. 14(3) substituted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/2/c)
 
-[^key-574dd4d9e59fab03be8776abfe72cfe5]: Textual amendment: Words in Sch. 5B para. 14(3)(b) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(12)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/12/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-574dd4d9e59fab03be8776abfe72cfe5]: Textual amendment: Words in Sch. 5B para. 14(3)(b) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(12)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/12/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8de562546b2893fa3f91f032917fb6f0]: Textual amendment: Words in Sch. 5B para. 14(3)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(12)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/12/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8de562546b2893fa3f91f032917fb6f0]: Textual amendment: Words in Sch. 5B para. 14(3)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(12)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/12/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-51fcb0905794dc3375b470d5242d712d]: Textual amendment: Sch. 5B para. 14(3)(c) and preceding word inserted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(2)(d)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/2/d)
+[^c-51fcb0905794dc3375b470d5242d712d]: Textual amendment: Sch. 5B para. 14(3)(c) and preceding word inserted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(2)(d)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/2/d)
 
-[^key-d97849d4d94af88257fa857cefdadbdd]: Textual amendment: Words in Sch. 5B para. 14(3)(c) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(2)(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/2/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-d97849d4d94af88257fa857cefdadbdd]: Textual amendment: Words in Sch. 5B para. 14(3)(c) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(2)(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/2/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-c10fc30b9b927005813420787c71ee30]: Textual amendment: Words in Sch. 5B para. 14(3) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(2)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/2/b) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-c10fc30b9b927005813420787c71ee30]: Textual amendment: Words in Sch. 5B para. 14(3) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(2)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/2/b) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-8fb9c7d11b1fa71472d01d34ba761784]: Textual amendment: Words in Sch. 5B para. 14(3) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(12)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/12/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8fb9c7d11b1fa71472d01d34ba761784]: Textual amendment: Words in Sch. 5B para. 14(3) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(12)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/12/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-d4da516005cabd70660ed4585d919d4b]: Textual amendment: Words in Sch. 5B para. 14(5)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2008/954/article/18/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
+[^c-d4da516005cabd70660ed4585d919d4b]: Textual amendment: Words in Sch. 5B para. 14(5)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2008/954/article/18/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
 
-[^key-27e277657dba0a1402751edfd8280c77]: Textual amendment: Words in Sch. 5B para. 14(5)(b) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2008/954/article/18/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
+[^c-27e277657dba0a1402751edfd8280c77]: Textual amendment: Words in Sch. 5B para. 14(5)(b) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2008/954/article/18/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
 
-[^key-8d95e400a51d8afc185af0d7aba01e66]: Textual amendment: Sch. 5B para. 14(6) repealed (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2008/954/article/18/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/954/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
+[^c-8d95e400a51d8afc185af0d7aba01e66]: Textual amendment: Sch. 5B para. 14(6) repealed (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2008/954/article/18/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/954/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
 
-[^key-001a9c1f418118a834dd68d4d0f7c25f]: Textual amendment: Words in Sch. 5B para. 14(7) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-001a9c1f418118a834dd68d4d0f7c25f]: Textual amendment: Words in Sch. 5B para. 14(7) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 32(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/32/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-6482112a003ece3d6e7fc4c7d9c5c4ec]: Textual amendment: Words in Sch. 5B para. 14(7) substituted (with effect in accordance with Sch. 18 para. 17(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 17(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/17/1)
+[^c-6482112a003ece3d6e7fc4c7d9c5c4ec]: Textual amendment: Words in Sch. 5B para. 14(7) substituted (with effect in accordance with Sch. 18 para. 17(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 17(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/17/1)
 
-[^key-6b7cfd188662f14fc142f3efda16b175]: Textual amendment: Sch. 5B para. 14AA and cross-heading inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 33](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/33) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-6b7cfd188662f14fc142f3efda16b175]: Textual amendment: Sch. 5B para. 14AA and cross-heading inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 33](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/33) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-c0768b7a580dc85c9d5fc714979c0a97]: Textual amendment: Sch. 5B para. 14A and cross-heading inserted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(3)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/3)
+[^c-c0768b7a580dc85c9d5fc714979c0a97]: Textual amendment: Sch. 5B para. 14A and cross-heading inserted (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 16 para. 4(3)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/4/3)
 
-[^key-23f187ce8e3d8333222af20eb1a481cc]: Textual amendment: Sch. 5B para. 14A(2) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 34(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/34/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-23f187ce8e3d8333222af20eb1a481cc]: Textual amendment: Sch. 5B para. 14A(2) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 34(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/34/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-202faf58b5bcbd3016002841d1ae557b]: Textual amendment: Sch. 5B para. 14A(6)(a) repealed (with effect in accordance with Sch. 18 para. 18(2) to the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 18(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/18/1), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
+[^c-202faf58b5bcbd3016002841d1ae557b]: Textual amendment: Sch. 5B para. 14A(6)(a) repealed (with effect in accordance with Sch. 18 para. 18(2) to the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 18(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/18/1), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
 
-[^key-b46b8cbe68cbb79e53c4fd489dfdd901]: Textual amendment: Sch. 5B para. 14A(7) repealed (with effect in accordance with Sch. 33 Pt. 2(3) Note 6 to the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 34(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/34/b), [Sch. 33 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-b46b8cbe68cbb79e53c4fd489dfdd901]: Textual amendment: Sch. 5B para. 14A(7) repealed (with effect in accordance with Sch. 33 Pt. 2(3) Note 6 to the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 34(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/34/b), [Sch. 33 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-c7f597880fb7f732075a1f9f5e351ded]: Textual amendment: Words in Sch. 5B para. 14A(8)(a) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 34(c)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/34/c) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-c7f597880fb7f732075a1f9f5e351ded]: Textual amendment: Words in Sch. 5B para. 14A(8)(a) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 34(c)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/34/c) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-7a8154554ea3e69a5962ed520c3df0a2]: Textual amendment: Sch. 5B paras. 16-19 and cross-headings inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/36)
+[^c-7a8154554ea3e69a5962ed520c3df0a2]: Textual amendment: Sch. 5B paras. 16-19 and cross-headings inserted (with effect in accordance with s. 74(3) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/1998/36/schedule/13/paragraph/36)
 
-[^key-0441bf4266c82cac6bb5bdf148906e4c]: Textual amendment: Words in Sch. 5B para. 16(1)(2) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(i)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/i)
+[^c-0441bf4266c82cac6bb5bdf148906e4c]: Textual amendment: Words in Sch. 5B para. 16(1)(2) substituted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 4(i)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/4/i)
 
-[^key-579265a7c703132329923e43d409a5d3]: Textual amendment: Words in Sch. 5B para. 16(1)(a) substituted (with effect in accordance with Sch. 15 para. 35(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 35(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/35/1) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-579265a7c703132329923e43d409a5d3]: Textual amendment: Words in Sch. 5B para. 16(1)(a) substituted (with effect in accordance with Sch. 15 para. 35(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 35(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/35/1) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-263072b55cead0a7dad1aca442974701]: Textual amendment: Sch. 5B para. 16(2A) inserted (with effect in accordance with Sch. 15 para. 35(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 35(2)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/35/2) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-263072b55cead0a7dad1aca442974701]: Textual amendment: Sch. 5B para. 16(2A) inserted (with effect in accordance with Sch. 15 para. 35(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 35(2)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/35/2) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-1c1c73c3ccf5781e497887e6a4621a4e]: Textual amendment: Words in Sch. 5B para. 16(3A) substituted (with effect in accordance with Sch. 15 para. 35(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 35(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/35/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-1c1c73c3ccf5781e497887e6a4621a4e]: Textual amendment: Words in Sch. 5B para. 16(3A) substituted (with effect in accordance with Sch. 15 para. 35(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 35(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/35/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-4e75cf0319726d7466780595d8b02aff]: Textual amendment: Words in Sch. 5B para. 16(4) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(a)(i)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/a/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-4e75cf0319726d7466780595d8b02aff]: Textual amendment: Words in Sch. 5B para. 16(4) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(a)(i)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/a/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-f6d8f1eb10890f01e6cebde2c84fcb99]: Textual amendment: Words in Sch. 5B para. 16(4) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/a/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-f6d8f1eb10890f01e6cebde2c84fcb99]: Textual amendment: Words in Sch. 5B para. 16(4) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/a/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-b79cf7d3d3ee5641e2d390fd4f614223]: Textual amendment: Sch. 5B para. 16(4A) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/5)
+[^c-b79cf7d3d3ee5641e2d390fd4f614223]: Textual amendment: Sch. 5B para. 16(4A) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/5)
 
-[^key-7d2e5bbd652bf39422aac5a988cf7e73]: Textual amendment: Words in Sch. 5B para. 16(5) substituted (with effect in accordance with Sch. 15 para. 35(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 35(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/35/4) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-7d2e5bbd652bf39422aac5a988cf7e73]: Textual amendment: Words in Sch. 5B para. 16(5) substituted (with effect in accordance with Sch. 15 para. 35(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 35(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/35/4) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-7b325a5e80d762c420fef1b6dba593f0]: Textual amendment: Words in Sch. 5B para. 16(6) substituted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 31(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/31/a)
+[^c-7b325a5e80d762c420fef1b6dba593f0]: Textual amendment: Words in Sch. 5B para. 16(6) substituted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 31(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/31/a)
 
-[^key-a9770808a934f040075d98b7a329945d]: Textual amendment: Words in Sch. 5B para. 16(6) substituted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/a)
+[^c-a9770808a934f040075d98b7a329945d]: Textual amendment: Words in Sch. 5B para. 16(6) substituted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/a)
 
-[^key-f6f832ca411e0dcb6b723a7248640867]: Textual amendment: Words in Sch. 5B para. 16(6) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-f6f832ca411e0dcb6b723a7248640867]: Textual amendment: Words in Sch. 5B para. 16(6) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-54f071ba84dfc1fa83a5327547b6dcf9]: Textual amendment: Words in Sch. 5B para. 16(7)(a) inserted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/b/i)
+[^c-54f071ba84dfc1fa83a5327547b6dcf9]: Textual amendment: Words in Sch. 5B para. 16(7)(a) inserted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/b/i)
 
-[^key-370dfbf9ce61ee747ec29423b4ae5af6]: Textual amendment: Words in Sch. 5B para. 16(7)(a) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(d)(i)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/d/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-370dfbf9ce61ee747ec29423b4ae5af6]: Textual amendment: Words in Sch. 5B para. 16(7)(a) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(d)(i)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/d/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-52dbfaba12200ceef7a229d32b7e144a]: Textual amendment: Sch. 5B para. 16(7)(aa) inserted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/b/ii)
+[^c-52dbfaba12200ceef7a229d32b7e144a]: Textual amendment: Sch. 5B para. 16(7)(aa) inserted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/b/ii)
 
-[^key-c8d52de39d4c9fd9f8e8a29500d52c5d]: Textual amendment: Words in Sch. 5B para. 16(7)(aa) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(d)(ii)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/d/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-c8d52de39d4c9fd9f8e8a29500d52c5d]: Textual amendment: Words in Sch. 5B para. 16(7)(aa) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(d)(ii)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/d/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-57b83efe70ce4908479def8c408445b2]: Textual amendment: Word in Sch. 5B para. 16(7)(b) omitted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 31(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/31/b)
+[^c-57b83efe70ce4908479def8c408445b2]: Textual amendment: Word in Sch. 5B para. 16(7)(b) omitted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 31(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/31/b)
 
-[^key-d75dcad2e160024c49cecc52f636f6ba]: Textual amendment: Sch. 5B para. 16(7)(ba) inserted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 31(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/31/b)
+[^c-d75dcad2e160024c49cecc52f636f6ba]: Textual amendment: Sch. 5B para. 16(7)(ba) inserted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 31(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/31/b)
 
-[^key-0cd3455a46a89ba906485c929546d183]: Textual amendment: Word in Sch. 5B para. 16(7)(c) inserted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(b)(iii)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/b/iii)
+[^c-0cd3455a46a89ba906485c929546d183]: Textual amendment: Word in Sch. 5B para. 16(7)(c) inserted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(b)(iii)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/b/iii)
 
-[^key-faaf8a880ec92bf0b7c0573e04f1609c]: Textual amendment: Words in Sch. 5B para. 16(7)(c) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(d)(iii)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/d/iii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-faaf8a880ec92bf0b7c0573e04f1609c]: Textual amendment: Words in Sch. 5B para. 16(7)(c) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(d)(iii)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/d/iii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-42bb0e61a2df6859ee3c8205b26d3ff5]: Textual amendment: Words in Sch. 5B para. 16(7) substituted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(b)(iv)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/b/iv)
+[^c-42bb0e61a2df6859ee3c8205b26d3ff5]: Textual amendment: Words in Sch. 5B para. 16(7) substituted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(b)(iv)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/b/iv)
 
-[^key-3e200fb6df618b1810d5a450b784914e]: Textual amendment: Words in Sch. 5B para. 16(7) substituted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 31(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/31/c)
+[^c-3e200fb6df618b1810d5a450b784914e]: Textual amendment: Words in Sch. 5B para. 16(7) substituted (with effect in accordance with Sch. 7 para. 34 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 31(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/31/c)
 
-[^key-772a3bac5b8e158c7d3c6a2dbbacb33b]: Textual amendment: Words in Sch. 5B para. 16 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
+[^c-772a3bac5b8e158c7d3c6a2dbbacb33b]: Textual amendment: Words in Sch. 5B para. 16 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
 
-[^key-e6517fa95649d233550af96d8628da1d]: Textual amendment: Sch. 5B para. 16(7A) inserted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/c)
+[^c-e6517fa95649d233550af96d8628da1d]: Textual amendment: Sch. 5B para. 16(7A) inserted (with effect in accordance with Sch. 18 para. 19(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 19(1)(c)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/19/1/c)
 
-[^key-ec904ac70e8639f9e618d8ac346d2923]: Textual amendment: Words in Sch. 5B para. 16(7A) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(e)(i)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/e/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-ec904ac70e8639f9e618d8ac346d2923]: Textual amendment: Words in Sch. 5B para. 16(7A) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(e)(i)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/e/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-745c45a6ad08d4afe3beb74e4e4471bb]: Textual amendment: Words in Sch. 5B para. 16(7A) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(e)(ii)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/e/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-745c45a6ad08d4afe3beb74e4e4471bb]: Textual amendment: Words in Sch. 5B para. 16(7A) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(13)(e)(ii)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/13/e/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-38258cffbbedf140ee90d6843b83be6e]: Textual amendment: Words in Sch. 5B para. 18(1) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 36(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/36/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-38258cffbbedf140ee90d6843b83be6e]: Textual amendment: Words in Sch. 5B para. 18(1) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 36(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/36/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-55e1aa6c9f527eecfaaa2e17c0d35080]: Textual amendment: Words in Sch. 5B para. 18(2)(a) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 36(b)(i)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/36/b/i) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-55e1aa6c9f527eecfaaa2e17c0d35080]: Textual amendment: Words in Sch. 5B para. 18(2)(a) substituted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 36(b)(i)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/36/b/i) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-8c7ee1660bc6b98e952638f9a67f415e]: Textual amendment: Sch. 5B para. 18(2)(ab) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 36(b)(ii)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/36/b/ii) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-8c7ee1660bc6b98e952638f9a67f415e]: Textual amendment: Sch. 5B para. 18(2)(ab) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 36(b)(ii)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/36/b/ii) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-6382c054e8fc0ca4a42c34101cb872f6]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (with effect in accordance with Sch. 18 para. 20(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 20(1)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/20/1/a)
+[^c-6382c054e8fc0ca4a42c34101cb872f6]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (with effect in accordance with Sch. 18 para. 20(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 20(1)(a)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/20/1/a)
 
-[^key-90466fc45498b2c7099867d52e44cf65]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 268(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/268/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-90466fc45498b2c7099867d52e44cf65]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 268(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/268/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-92f24ab596cdd22fa76ebf8ef41c0992]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (retrospective to 6.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 paras. 32](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/32), [35](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/35)
+[^c-92f24ab596cdd22fa76ebf8ef41c0992]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (retrospective to 6.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 paras. 32](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/32), [35](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/35)
 
-[^key-4ac89ee10e391230c7f273dbe0bdedda]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 268(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/268/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4ac89ee10e391230c7f273dbe0bdedda]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 268(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/268/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-30d6f60427f75604ec9eeb5174b386c2]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (with effect in accordance with Sch. 18 para. 20(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 20(1)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/20/1/b)
+[^c-30d6f60427f75604ec9eeb5174b386c2]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (with effect in accordance with Sch. 18 para. 20(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 18 para. 20(1)(b)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/20/1/b)
 
-[^key-7dd2850421d79e8ba50ee3f0898daf35]: Textual amendment: Words in Sch. 5B para. 19(1) repealed (with effect in accordance with Sch. 33 Pt. 2(3) Note 6 of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 33 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-7dd2850421d79e8ba50ee3f0898daf35]: Textual amendment: Words in Sch. 5B para. 19(1) repealed (with effect in accordance with Sch. 33 Pt. 2(3) Note 6 of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 33 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-c3c181276bc2dfdad4625665652e45a2]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-c3c181276bc2dfdad4625665652e45a2]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(a)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-4198af63782345e2fe47cdd12872819c]: Textual amendment: Words in Sch. 5B para. 19(1) repealed (with effect in accordance with Sch. 40 Pt. II(5) Note 4 of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/5)
+[^c-4198af63782345e2fe47cdd12872819c]: Textual amendment: Words in Sch. 5B para. 19(1) repealed (with effect in accordance with Sch. 40 Pt. II(5) Note 4 of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 40 Pt. II(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/5)
 
-[^key-6085f6f9e5b7b887bc34da53c01f5af7]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 110(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/4) (with [Sch. 46 para. 110(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/5))
+[^c-6085f6f9e5b7b887bc34da53c01f5af7]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 110(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/4) (with [Sch. 46 para. 110(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/110/5))
 
-[^key-155b1112d1e7dc0f7b19e4fc41a3f87b]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-155b1112d1e7dc0f7b19e4fc41a3f87b]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-3a9fef01c97dd076fae7b4e108fa306d]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 37(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/37/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-3a9fef01c97dd076fae7b4e108fa306d]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 37(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/37/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-dc717a520bbaf59b6474144edd513a8f]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-dc717a520bbaf59b6474144edd513a8f]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(c)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8c350b188b7268584c60307575c9a34d]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(d)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/d) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8c350b188b7268584c60307575c9a34d]: Textual amendment: Words in Sch. 5B para. 19(1) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(d)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/d) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-00d3109e72a27dbe054e847b61192f90]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(e)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/e) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-00d3109e72a27dbe054e847b61192f90]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(e)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/e) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-5c24d7ed743c629317ebd21adb5c1385]: Textual amendment: Words in Sch. 5B para. 19 repealed (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 3(1)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/3/1), [Sch. 20 Pt. III(18)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/18)
+[^c-5c24d7ed743c629317ebd21adb5c1385]: Textual amendment: Words in Sch. 5B para. 19 repealed (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 3(1)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/3/1), [Sch. 20 Pt. III(18)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/18)
 
-[^key-e597a628e65a4e401d8f9236406fb213]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 37(c)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/37/c) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-e597a628e65a4e401d8f9236406fb213]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (11.5.2001) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [Sch. 15 para. 37(c)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/37/c) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
 
-[^key-4429b1a0ff65ae1a86819f21fff980b5]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(f)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/f) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-4429b1a0ff65ae1a86819f21fff980b5]: Textual amendment: Words in Sch. 5B para. 19(1) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(14)(f)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/14/f) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-6aad2189750abbe226abd8cfa31e9b53]: Textual amendment: Sch. 5B para. 19(1A)-(1E) inserted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 3(2)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/3/2)
+[^c-6aad2189750abbe226abd8cfa31e9b53]: Textual amendment: Sch. 5B para. 19(1A)-(1E) inserted (with effect in accordance with s. 73(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [Sch. 8 para. 3(2)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/8/paragraph/3/2)
 
-[^key-b7459336c4b3a6cd5b89e6b0e13467d8]: Textual amendment: Words in Sch. 5B para. 19 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
+[^c-b7459336c4b3a6cd5b89e6b0e13467d8]: Textual amendment: Words in Sch. 5B para. 19 inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2005/3229/regulation/127)
 
-[^key-ce273f28f5eb006b09d9f55a05073ffe]: Textual amendment: Word in Sch. 5B para. 19(3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(15)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/15), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-ce273f28f5eb006b09d9f55a05073ffe]: Textual amendment: Word in Sch. 5B para. 19(3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(15)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/15), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-c338e2cd34ccf982613ca324c5e9f1b0]: Textual amendment: Sch. 5B para. 19(3)(d) and preceding word inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(15)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/15) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-c338e2cd34ccf982613ca324c5e9f1b0]: Textual amendment: Sch. 5B para. 19(3)(d) and preceding word inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 345(15)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/345/15) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

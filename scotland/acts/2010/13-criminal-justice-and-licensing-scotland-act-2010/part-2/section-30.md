@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Directing serious organised crime[^key-98f5b0f7e70ee8f74402e47b71c009ef]
+## 30. Directing serious organised crime[^c-98f5b0f7e70ee8f74402e47b71c009ef]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98f5b0f7e70ee8f74402e47b71c009ef]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2010/13/section/30) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-98f5b0f7e70ee8f74402e47b71c009ef]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2010/13/section/30) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

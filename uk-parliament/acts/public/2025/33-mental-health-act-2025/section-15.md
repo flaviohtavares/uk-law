@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Electro-convulsive therapy etc[^key-c710c14edffe0ef46fe716e7deff73b5]
+## 15. Electro-convulsive therapy etc[^c-c710c14edffe0ef46fe716e7deff73b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In section 58A of the Mental Health Act 1983 (electro-convulsive therapy etc), f
 
 ## Annotations
 
-[^key-c710c14edffe0ef46fe716e7deff73b5]: Commencement: S. 15 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-c710c14edffe0ef46fe716e7deff73b5]: Commencement: S. 15 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

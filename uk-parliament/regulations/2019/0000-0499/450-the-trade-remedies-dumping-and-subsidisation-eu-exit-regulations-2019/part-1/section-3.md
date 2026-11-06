@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Meaning of “exporting country or territory”[^key-8462e2791bb8f86b4517ee2844564052]
+## 3. Meaning of “exporting country or territory”[^c-8462e2791bb8f86b4517ee2844564052]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8462e2791bb8f86b4517ee2844564052]: Commencement: Reg. 3 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-8462e2791bb8f86b4517ee2844564052]: Commencement: Reg. 3 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

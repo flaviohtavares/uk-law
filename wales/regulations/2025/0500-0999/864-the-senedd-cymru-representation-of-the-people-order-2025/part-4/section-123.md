@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Conviction of illegal practice on charge of corrupt practice[^key-7486a949eb512080695e36d7dfdeb312]
+## 123. Conviction of illegal practice on charge of corrupt practice[^c-7486a949eb512080695e36d7dfdeb312]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7486a949eb512080695e36d7dfdeb312]: Commencement: Art. 123 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-7486a949eb512080695e36d7dfdeb312]: Commencement: Art. 123 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

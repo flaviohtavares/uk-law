@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Standards investigations[^key-bf7137a16a949dc88021b05263986610]
+## 61. Standards investigations[^c-bf7137a16a949dc88021b05263986610]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf7137a16a949dc88021b05263986610]: Commencement: [S. 61](https://www.legislation.gov.uk/mwa/2011/1/section/61) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)
+[^c-bf7137a16a949dc88021b05263986610]: Commencement: [S. 61](https://www.legislation.gov.uk/mwa/2011/1/section/61) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)

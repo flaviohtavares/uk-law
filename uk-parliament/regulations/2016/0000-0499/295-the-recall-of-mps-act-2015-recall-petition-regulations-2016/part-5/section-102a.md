@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102A. Postal petition documents handed in to the petition officer[^key-92471cd58d0b6bc7d9b32441c7c33a94]
+## 102A. Postal petition documents handed in to the petition officer[^c-92471cd58d0b6bc7d9b32441c7c33a94]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92471cd58d0b6bc7d9b32441c7c33a94]: Textual amendment: Regs. 102A-102E inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(10)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/10)
+[^c-92471cd58d0b6bc7d9b32441c7c33a94]: Textual amendment: Regs. 102A-102E inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(10)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/10)

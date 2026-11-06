@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Reports under section 1 of Sustainable Energy Act 2003[^key-8080ec64b0ca03c1d21f89d5fb1e3d98]
+## 81. Reports under section 1 of Sustainable Energy Act 2003[^c-8080ec64b0ca03c1d21f89d5fb1e3d98]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,10 +46,10 @@ summary: ''
 >
 > (1C) The references in subsection (1A) to things done during the reporting period include references to proposals of the Secretary of State published during that period.
 
-(3)[^key-b7b64f6115ded9f138ddf6e136afb242] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b7b64f6115ded9f138ddf6e136afb242] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8080ec64b0ca03c1d21f89d5fb1e3d98]: Commencement: S. 81 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-8080ec64b0ca03c1d21f89d5fb1e3d98]: Commencement: S. 81 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-b7b64f6115ded9f138ddf6e136afb242]: Textual amendment: S. 81(3) repealed (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(vi)(gg)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/gg)
+[^c-b7b64f6115ded9f138ddf6e136afb242]: Textual amendment: S. 81(3) repealed (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(vi)(gg)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/gg)

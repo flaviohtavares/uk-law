@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8.55. Enforcement of judgments registered under rule 8.51[^key-01b7174459c6aa56f66a4c72a02166bc]
+## 8.55. Enforcement of judgments registered under rule 8.51[^c-01b7174459c6aa56f66a4c72a02166bc]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01b7174459c6aa56f66a4c72a02166bc]: Textual amendment: [Rules 8.33-8.63](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) substituted for [rules 8.33-8.48](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/64/article/2/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/64/schedule/2)
+[^c-01b7174459c6aa56f66a4c72a02166bc]: Textual amendment: [Rules 8.33-8.63](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) substituted for [rules 8.33-8.48](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/64/article/2/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/64/schedule/2)

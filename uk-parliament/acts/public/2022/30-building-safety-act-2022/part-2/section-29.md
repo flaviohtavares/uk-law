@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Service of documents[^key-78a25e6ca1545013480a66c90def5430][^key-a98de3f32ce6723886a1382c110a2b48][^key-c81feb37656eaf3bc78298b4b2aec581]
+## 29. Service of documents[^c-78a25e6ca1545013480a66c90def5430][^c-a98de3f32ce6723886a1382c110a2b48][^c-c81feb37656eaf3bc78298b4b2aec581]
 
 *Extent: E+W*
 
@@ -74,8 +74,8 @@ the document may be given by addressing it to the owner or resident of the premi
 
 ## Annotations
 
-[^key-78a25e6ca1545013480a66c90def5430]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-78a25e6ca1545013480a66c90def5430]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-a98de3f32ce6723886a1382c110a2b48]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/30/section/29) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(l)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/l)
+[^c-a98de3f32ce6723886a1382c110a2b48]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/30/section/29) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(l)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/l)
 
-[^key-c81feb37656eaf3bc78298b4b2aec581]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2022/30/section/29) applied (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2023/907/regulation/8/6); S.I. 2024/40, [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)
+[^c-c81feb37656eaf3bc78298b4b2aec581]: Modification: [S. 29](https://www.legislation.gov.uk/ukpga/2022/30/section/29) applied (16.1.2024) by [The Higher-Risk Buildings (Management of Safety Risks etc) (England) Regulations 2023 (S.I. 2023/907)](https://www.legislation.gov.uk/uksi/2023/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/907/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2023/907/regulation/8/6); S.I. 2024/40, [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Competitiveness and growth objective: reporting requirements[^key-9af709350c0e7c6bda6cae32164a5d39][^key-a368328192606a6a04b97489ce12c35f]
+## 26. Competitiveness and growth objective: reporting requirements[^c-9af709350c0e7c6bda6cae32164a5d39][^c-a368328192606a6a04b97489ce12c35f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9af709350c0e7c6bda6cae32164a5d39]: Commencement: S. 26 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-9af709350c0e7c6bda6cae32164a5d39]: Commencement: S. 26 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a368328192606a6a04b97489ce12c35f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/29/section/26) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(q)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/q)
+[^c-a368328192606a6a04b97489ce12c35f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/29/section/26) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(q)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/q)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Tort, delict and fatal accident actions[^key-d65f79b3d90c313ae6f12c57da99dbe6]
+## 43. Tort, delict and fatal accident actions[^c-d65f79b3d90c313ae6f12c57da99dbe6]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d65f79b3d90c313ae6f12c57da99dbe6]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/41/section/43) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
+[^c-d65f79b3d90c313ae6f12c57da99dbe6]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/41/section/43) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)

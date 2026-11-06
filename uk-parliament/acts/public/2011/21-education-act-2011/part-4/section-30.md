@@ -58,8 +58,8 @@ summary: ''
 
   > (4) Section 17C (the core entitlement) applies for the purposes of subsection (2)(e).
 
-(8)[^key-9d87619a8e34cdeaa5f8c8e20fe50bc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9d87619a8e34cdeaa5f8c8e20fe50bc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d87619a8e34cdeaa5f8c8e20fe50bc2]: Textual amendment: [S. 30(8)](https://www.legislation.gov.uk/ukpga/2011/21/section/30/8) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 65(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/65/a)
+[^c-9d87619a8e34cdeaa5f8c8e20fe50bc2]: Textual amendment: [S. 30(8)](https://www.legislation.gov.uk/ukpga/2011/21/section/30/8) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 65(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/65/a)

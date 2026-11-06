@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Joint proposals for pilots[^key-faa386bf4786fb809813a359aabf531d]
+## 12. Joint proposals for pilots[^c-faa386bf4786fb809813a359aabf531d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faa386bf4786fb809813a359aabf531d]: Commencement: S. 12 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-faa386bf4786fb809813a359aabf531d]: Commencement: S. 12 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

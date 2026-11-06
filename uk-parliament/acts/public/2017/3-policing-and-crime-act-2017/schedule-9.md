@@ -28,11 +28,11 @@ Section 33
 
 #### Introductory
 
-**1.**[^c22727221][^key-518f88208b7b7fb1fff1382286b6057c][^key-b3f19c3e86702428a231fdeead9669aa] Schedule 2 to the Police Reform Act 2002 is amended in accordance with this Part of this Schedule (see also paragraph 55 below for further minor and consequential amendments).
+**1.**[^c22727221][^c-518f88208b7b7fb1fff1382286b6057c][^c-b3f19c3e86702428a231fdeead9669aa] Schedule 2 to the Police Reform Act 2002 is amended in accordance with this Part of this Schedule (see also paragraph 55 below for further minor and consequential amendments).
 
 #### Director General
 
-**2.**[^c22727231][^key-d2c9048509968df3776bf21bd4795fdb] (1) Paragraph 1 (chairman) is amended as follows.
+**2.**[^c22727231][^c-d2c9048509968df3776bf21bd4795fdb] (1) Paragraph 1 (chairman) is amended as follows.
 
 (2) For sub-paragraph (1) substitute—
 
@@ -56,7 +56,7 @@ Section 33
 
 #### Appointment etc of members
 
-**3.**[^c22727241][^key-f906509cbb710baea038df105f340beb] After paragraph 1 insert—
+**3.**[^c22727241][^c-f906509cbb710baea038df105f340beb] After paragraph 1 insert—
 
 > **Appointment of members**
 >
@@ -77,7 +77,7 @@ Section 33
 >
 > (5) If the non-executive members reject a recommendation they may require the Director General to recommend another person for appointment (in which case this sub-paragraph applies again and so on until somebody is appointed).
 
-**4.**[^c22727251][^key-278939d368bda73b6ccca26b30fb5d7a] (1) Paragraph 2 (ordinary members of the Commission) is amended as follows.
+**4.**[^c22727251][^c-278939d368bda73b6ccca26b30fb5d7a] (1) Paragraph 2 (ordinary members of the Commission) is amended as follows.
 
 (2) In sub-paragraph (1) for “an ordinary” substitute “ a non-executive ”.
 
@@ -102,7 +102,7 @@ Section 33
 
 (8) Omit sub-paragraph (8).
 
-**5.**[^c22727261][^key-83931aaa84dea653600f9e8bc27e3abf] After paragraph 2 insert—
+**5.**[^c22727261][^c-83931aaa84dea653600f9e8bc27e3abf] After paragraph 2 insert—
 
 > **Terms of appointment etc: employee members**
 >
@@ -121,13 +121,13 @@ Section 33
 >
 > (6) The non-executive members may terminate the appointment of an employee member by giving the member written notice if they are satisfied that any of the grounds mentioned in paragraph 2(6)(a) to (g) apply in relation to the employee member.
 
-**6.**[^c22727271][^key-c817660ef94e370e9be95e221045259c] Omit paragraph 3 (deputy chairmen) (including the italic heading before that paragraph).
+**6.**[^c22727271][^c-c817660ef94e370e9be95e221045259c] Omit paragraph 3 (deputy chairmen) (including the italic heading before that paragraph).
 
-**7.**[^c22727281][^key-ad5110470873f319a85e0348ef987dd8] Omit paragraph 5 (chief executive) (including the italic heading before that paragraph).
+**7.**[^c22727281][^c-ad5110470873f319a85e0348ef987dd8] Omit paragraph 5 (chief executive) (including the italic heading before that paragraph).
 
 #### Vacancy or incapacity in office of Director General
 
-**8.**[^c22727291][^key-b661a3cfecd10a3c186e29c7f4b87ba7] After paragraph 3 insert—
+**8.**[^c22727291][^c-b661a3cfecd10a3c186e29c7f4b87ba7] After paragraph 3 insert—
 
 > **Director General: vacancy or incapacity**
 >
@@ -152,7 +152,7 @@ Section 33
 
 #### Remuneration arrangements
 
-**9.**[^c22727301][^key-1ffdbfa9f9522f0f4c38280ecbfb21fa][^key-99cfb1574ef82f7ed8081d95284ea005] (1) Paragraph 4 (remuneration, pensions etc of members) is amended as follows.
+**9.**[^c22727301][^c-1ffdbfa9f9522f0f4c38280ecbfb21fa][^c-99cfb1574ef82f7ed8081d95284ea005] (1) Paragraph 4 (remuneration, pensions etc of members) is amended as follows.
 
 (2) In sub-paragraph (1), for the words from “the chairman” to the end substitute “ the Director General as the Secretary of State may determine ”.
 
@@ -174,7 +174,7 @@ Section 33
 
 #### Staff
 
-**10.**[^c22727311][^key-95932489082979338b8fb50ce346b58b] (1) Paragraph 6 (staff) is amended as follows.
+**10.**[^c22727311][^c-95932489082979338b8fb50ce346b58b] (1) Paragraph 6 (staff) is amended as follows.
 
 (2) For sub-paragraph (1) substitute—
 
@@ -201,7 +201,7 @@ Section 33
 
 #### Delegation of functions
 
-**11.**[^c22727321][^key-756e925da0c7a471b9ded804efcd6f9c] After paragraph 6 insert—
+**11.**[^c22727321][^c-756e925da0c7a471b9ded804efcd6f9c] After paragraph 6 insert—
 
 > **Delegation of functions**
 >
@@ -246,7 +246,7 @@ Section 33
 
 #### Protection from personal liability
 
-**12.**[^c22727331][^key-922aaab7d194bc2e220137071fae6f71] After paragraph 7 insert—
+**12.**[^c22727331][^c-922aaab7d194bc2e220137071fae6f71] After paragraph 7 insert—
 
 > **Liability for acts of the Director General**
 >
@@ -258,7 +258,7 @@ Section 33
 
 #### Regional offices
 
-**13.**[^c22727341][^key-d791aa9b66aef398bfd3bf8279435c3b] For paragraph 9 (power of Commission to set up regional offices) substitute—
+**13.**[^c22727341][^c-d791aa9b66aef398bfd3bf8279435c3b] For paragraph 9 (power of Commission to set up regional offices) substitute—
 
 > **9.** (1) The Office may set up regional offices in places in England and Wales.
 >
@@ -271,7 +271,7 @@ Section 33
 
 #### Proceedings
 
-**14.**[^c22727351][^key-b6438b79fe605660aacd9d5505af2af6] In paragraph 10 (proceedings), after sub-paragraph (1) insert—
+**14.**[^c22727351][^c-b6438b79fe605660aacd9d5505af2af6] In paragraph 10 (proceedings), after sub-paragraph (1) insert—
 
 > (1A) But the arrangements must include provision for—
 >
@@ -284,15 +284,15 @@ Section 33
 
 *Extent: E+W*
 
-**15.**[^c22727361][^key-353389382c99e4f86e02d551fd3d9f53] The Police Reform Act 2002 is amended in accordance with this Part of this Schedule.
+**15.**[^c22727361][^c-353389382c99e4f86e02d551fd3d9f53] The Police Reform Act 2002 is amended in accordance with this Part of this Schedule.
 
 *Extent: E+W*
 
-**16.**[^c22727371][^key-31d3397d52ecf68d55a5f28e6b86400a] For the italic heading before section 9, substitute “ The Independent Office for Police Conduct ”.
+**16.**[^c22727371][^c-31d3397d52ecf68d55a5f28e6b86400a] For the italic heading before section 9, substitute “ The Independent Office for Police Conduct ”.
 
 *Extent: E+W*
 
-**17.**[^c22727381][^key-dc9356ae4f30276d3fed552769573ff1] (1) Section 10 (general functions of the Commission) is amended as follows.
+**17.**[^c22727381][^c-dc9356ae4f30276d3fed552769573ff1] (1) Section 10 (general functions of the Commission) is amended as follows.
 
 (2) In subsection (1)(a) omit “itself”.
 
@@ -323,7 +323,7 @@ Section 33
 
 *Extent: E+W*
 
-**18.**[^c22727391][^key-6779cf02a26255303c893b34fe3f26d4] (1) Section 11 (reports to the Secretary of State) is amended as follows.
+**18.**[^c22727391][^c-6779cf02a26255303c893b34fe3f26d4] (1) Section 11 (reports to the Secretary of State) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -403,11 +403,11 @@ Section 33
 
 *Extent: E+W*
 
-**19.**[^c22727401][^key-bba54ea7460f0ae9efcd374869bd48af] In section 12 (complaints, matters and persons to which Part 2 applies), in subsection (6)(a) for “Commission” substitute “ Director General ”.
+**19.**[^c22727401][^c-bba54ea7460f0ae9efcd374869bd48af] In section 12 (complaints, matters and persons to which Part 2 applies), in subsection (6)(a) for “Commission” substitute “ Director General ”.
 
 *Extent: E+W*
 
-**20.**[^c22727411][^key-06c1493368b1ae4f50ef26a4ee92c800] (1) Section 13B (power of the Commission to require re-investigation) (as inserted by this Act) is amended as follows.
+**20.**[^c22727411][^c-06c1493368b1ae4f50ef26a4ee92c800] (1) Section 13B (power of the Commission to require re-investigation) (as inserted by this Act) is amended as follows.
 
 (2) For “Commission”, in each place (including the heading), substitute “ Director General ”.
 
@@ -432,7 +432,7 @@ Section 33
 
 *Extent: E+W*
 
-**21.**[^c22727421][^key-ee7282e62967cd20c0e2d6f0620e1793] (1) Section 15 (general duties of local policing bodies, chief officers and inspectors) is amended as follows.
+**21.**[^c22727421][^c-ee7282e62967cd20c0e2d6f0620e1793] (1) Section 15 (general duties of local policing bodies, chief officers and inspectors) is amended as follows.
 
 (2) In subsection (3), in the words after paragraph (c) after “Director General” insert “ of the Agency ”.
 
@@ -443,7 +443,7 @@ Section 33
 
 *Extent: E+W*
 
-**22.**[^c22727431][^key-cac6e240270c9e194c3af8a3b7f91f97] (1) Section 16 (payment for assistance with investigations) is amended as follows.
+**22.**[^c22727431][^c-cac6e240270c9e194c3af8a3b7f91f97] (1) Section 16 (payment for assistance with investigations) is amended as follows.
 
 (2) For “Commission”, in each place except as mentioned in sub-paragraph (3), substitute “ Director General ”.
 
@@ -453,7 +453,7 @@ Section 33
 
 *Extent: E+W*
 
-**23.**[^c22727441][^key-e042fbae54382602cde75ae7cfd73e8f] (1) Section 17 (provision of information to the Commission) is amended as follows.
+**23.**[^c22727441][^c-e042fbae54382602cde75ae7cfd73e8f] (1) Section 17 (provision of information to the Commission) is amended as follows.
 
 (2) For “Commission”, in each place (including the heading), substitute “ Director General ”.
 
@@ -464,7 +464,7 @@ Section 33
 
 *Extent: E+W*
 
-**24.**[^c22727451][^key-48798f97683e2440db9fac2408cea544] (1) Section 18 (inspections of police premises on behalf of the Commission) is amended as follows.
+**24.**[^c22727451][^c-48798f97683e2440db9fac2408cea544] (1) Section 18 (inspections of police premises on behalf of the Commission) is amended as follows.
 
 (2) For “Commission”, in each place (including the heading and provisions inserted by amendments made by this Act), substitute “ Director General ”.
 
@@ -472,7 +472,7 @@ Section 33
 
 *Extent: E+W*
 
-**25.**[^c22727461][^key-0b56ca3321bc3265b30ac75598c1b06c] (1) Section 19 (use of investigatory powers by or on behalf of the Commission) is amended as follows.
+**25.**[^c22727461][^c-0b56ca3321bc3265b30ac75598c1b06c] (1) Section 19 (use of investigatory powers by or on behalf of the Commission) is amended as follows.
 
 (2) In the heading, for “Commission” substitute “ Director General ”.
 
@@ -480,7 +480,7 @@ Section 33
 
 *Extent: E+W*
 
-**26.**[^c22727471][^key-a0cf780b9618898f0714077e9c7f48a7] (1) Section 20 (duty to keep complainant informed) is amended as follows.
+**26.**[^c22727471][^c-a0cf780b9618898f0714077e9c7f48a7] (1) Section 20 (duty to keep complainant informed) is amended as follows.
 
 (2) For “Commission”, in each place (including provisions inserted by amendments made by this Act), substitute “ Director General ”.
 
@@ -498,7 +498,7 @@ Section 33
 
 *Extent: E+W*
 
-**27.**[^c22727481][^key-9f273a26c17923719807ede92c63e82a] (1) Section 21 (duty to provide information for other persons) is amended as follows.
+**27.**[^c22727481][^c-9f273a26c17923719807ede92c63e82a] (1) Section 21 (duty to provide information for other persons) is amended as follows.
 
 (2) For “Commission”, in each place (including provisions inserted by amendments made by this Act), substitute “ Director General ”.
 
@@ -514,15 +514,15 @@ Section 33
 
 *Extent: E+W*
 
-**28.**[^c22727491][^key-55a041cc93f6963100695ee16d8efc11] In section 21A (restriction on disclosure of sensitive information) (as inserted by this Act), for “Commission”, in each place, substitute “ Director General ”.
+**28.**[^c22727491][^c-55a041cc93f6963100695ee16d8efc11] In section 21A (restriction on disclosure of sensitive information) (as inserted by this Act), for “Commission”, in each place, substitute “ Director General ”.
 
 *Extent: E+W*
 
-**29.**[^c22727501][^key-f60d12a089610ee489ccd78954bd3232] In section 21B (provision of sensitive information to the Commission and certain investigators) (as inserted by this Act), for “Commission”, in each place (including the heading), substitute “ Director General ”.
+**29.**[^c22727501][^c-f60d12a089610ee489ccd78954bd3232] In section 21B (provision of sensitive information to the Commission and certain investigators) (as inserted by this Act), for “Commission”, in each place (including the heading), substitute “ Director General ”.
 
 *Extent: E+W*
 
-**30.**[^c22727511][^key-430e1d0c41fa7456da4b6d83130e55f3] (1) Section 22 (power of the Commission to issue guidance) is amended as follows.
+**30.**[^c22727511][^c-430e1d0c41fa7456da4b6d83130e55f3] (1) Section 22 (power of the Commission to issue guidance) is amended as follows.
 
 (2) For “Commission”, in each place (including the heading), substitute “ Director General ”.
 
@@ -530,7 +530,7 @@ Section 33
 
 *Extent: E+W*
 
-**31.**[^c22727521][^key-4cf2d73f772d9df33b0d684516e15c7b] (1) Section 23 (regulations) is amended as follows.
+**31.**[^c22727521][^c-4cf2d73f772d9df33b0d684516e15c7b] (1) Section 23 (regulations) is amended as follows.
 
 (2) For “Commission”, in each place, substitute “ Director General ”.
 
@@ -540,7 +540,7 @@ Section 33
 
 *Extent: E+W*
 
-**32.**[^c22727531][^key-c46768ef687c0af6314873d5c3c239a8] In section 24 (consultation on regulations), for paragraph (a) substitute—
+**32.**[^c22727531][^c-c46768ef687c0af6314873d5c3c239a8] In section 24 (consultation on regulations), for paragraph (a) substitute—
 
 > - (a) the Office;
 > - (aa) the Director General;
@@ -549,15 +549,15 @@ Section 33
 
 *Extent: E+W*
 
-**33.**[^c22727541][^key-6bba501ca953fb8da6169c60cadeea75] In section 26 (forces maintained otherwise than by local policing bodies), for “Commission”, in each place, substitute “ Director General ”.
+**33.**[^c22727541][^c-6bba501ca953fb8da6169c60cadeea75] In section 26 (forces maintained otherwise than by local policing bodies), for “Commission”, in each place, substitute “ Director General ”.
 
 *Extent: E+W*
 
-**34.**[^c22727551][^key-dd7e9a8d4395893105ae831265923afe] In section 26BA (College of Policing), for “Commission”, in both places, substitute “ Director General ”.
+**34.**[^c22727551][^c-dd7e9a8d4395893105ae831265923afe] In section 26BA (College of Policing), for “Commission”, in both places, substitute “ Director General ”.
 
 *Extent: E+W*
 
-**35.**[^c22727561][^key-4240358f4494922d93d1b196e2721adf] (1) Section 26C (the National Crime Agency) is amended as follows.
+**35.**[^c22727561][^c-4240358f4494922d93d1b196e2721adf] (1) Section 26C (the National Crime Agency) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -580,11 +580,11 @@ Section 33
 
 *Extent: E+W*
 
-**36.**[^key-6d4c80f46084cb62ba334b1b2bd4c2cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-6d4c80f46084cb62ba334b1b2bd4c2cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**37.**[^c22727581][^key-c2e7281fdda741149d70f2aa7a72f242] (1) Section 27 (conduct of the Commission's staff) is amended as follows.
+**37.**[^c22727581][^c-c2e7281fdda741149d70f2aa7a72f242] (1) Section 27 (conduct of the Commission's staff) is amended as follows.
 
 (2) For “Commission's”, in each place (including the heading), substitute “Office's”.
 
@@ -592,13 +592,13 @@ Section 33
 
 *Extent: E+W*
 
-**38.**[^c22727591][^key-19251e1bf98ecd423524eaa6ccdd4dd3] (1) Omit section 28 (transitional arrangements in connection with establishing Commission etc).
+**38.**[^c22727591][^c-19251e1bf98ecd423524eaa6ccdd4dd3] (1) Omit section 28 (transitional arrangements in connection with establishing Commission etc).
 
 (2) The repeal of section 28 does not affect an order made under that section before its repeal or the power under that section to revoke or amend any such order.
 
 *Extent: E+W*
 
-**39.**[^c22727601][^key-ce70f2f2274dda7c9cafd3975e15ebb7] (1) Section 28A (application of Part 2 to old cases) is amended as follows.
+**39.**[^c22727601][^c-ce70f2f2274dda7c9cafd3975e15ebb7] (1) Section 28A (application of Part 2 to old cases) is amended as follows.
 
 (2) For “Commission”, in each place other than in subsection (3) of that section, substitute “ Director General ”.
 
@@ -608,7 +608,7 @@ Section 33
 
 *Extent: E+W*
 
-**40.**[^c22727611][^key-744880a7bec67b7d3aa9479d2780ad2e] (1) Section 29 (interpretation of Part 2) is amended as follows.
+**40.**[^c22727611][^c-744880a7bec67b7d3aa9479d2780ad2e] (1) Section 29 (interpretation of Part 2) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -631,11 +631,11 @@ Section 33
 
 *Extent: E+W*
 
-**41.**[^c22727621][^key-933602b6e78aea89a40714bf6bf53413] In section 29C (regulations about super-complaints) (as inserted by this Act), in subsection (3) for “Independent Police Complaints Commission”, in both places, substitute “ Director General of the Independent Office for Police Conduct ”.
+**41.**[^c22727621][^c-933602b6e78aea89a40714bf6bf53413] In section 29C (regulations about super-complaints) (as inserted by this Act), in subsection (3) for “Independent Police Complaints Commission”, in both places, substitute “ Director General of the Independent Office for Police Conduct ”.
 
 *Extent: E+W*
 
-**42.**[^c22727631][^key-8968a754cea7d691208ef694de41645a] (1) Section 29D (power to investigate concerns raised by whistle-blowers) (as inserted by this Act) is amended as follows.
+**42.**[^c22727631][^c-8968a754cea7d691208ef694de41645a] (1) Section 29D (power to investigate concerns raised by whistle-blowers) (as inserted by this Act) is amended as follows.
 
 (2) For “Commission”, in each place, substitute “ Director General ”.
 
@@ -643,7 +643,7 @@ Section 33
 
 *Extent: E+W*
 
-**43.**[^c22727641][^key-949ee7f74e8a920992c2a02687e62542] (1) Section 29E (Commission's powers and duties where it decides not to investigate) (as inserted by this Act) is amended as follows.
+**43.**[^c22727641][^c-949ee7f74e8a920992c2a02687e62542] (1) Section 29E (Commission's powers and duties where it decides not to investigate) (as inserted by this Act) is amended as follows.
 
 (2) For “Commission”, in each place, substitute “ Director General ”.
 
@@ -654,7 +654,7 @@ Section 33
 
 *Extent: E+W*
 
-**44.**[^c22727651][^key-9dd7b92db1762b0f4c557a8944b2ccd5] (1) Section 29F (special provision for “conduct matters”) (as inserted by this Act) is amended as follows.
+**44.**[^c22727651][^c-9dd7b92db1762b0f4c557a8944b2ccd5] (1) Section 29F (special provision for “conduct matters”) (as inserted by this Act) is amended as follows.
 
 (2) For “Commission”, in each place, substitute “ Director General ”.
 
@@ -665,7 +665,7 @@ Section 33
 
 *Extent: E+W*
 
-**45.**[^c22727661][^key-093aa2e814796c8765aab6a9b9baa455] (1) Section 29G (special provision for “DSI matters”) (as inserted by this Act) is amended as follows.
+**45.**[^c22727661][^c-093aa2e814796c8765aab6a9b9baa455] (1) Section 29G (special provision for “DSI matters”) (as inserted by this Act) is amended as follows.
 
 (2) For “Commission”, in each place, substitute “ Director General ”.
 
@@ -673,7 +673,7 @@ Section 33
 
 *Extent: E+W*
 
-**46.**[^c22727671][^key-b01eb9fa938531519f8bd8ea2f7324ae] (1) Section 29H (Commission's powers and duties where whistle-blower is deceased) (as inserted by this Act) is amended as follows.
+**46.**[^c22727671][^c-b01eb9fa938531519f8bd8ea2f7324ae] (1) Section 29H (Commission's powers and duties where whistle-blower is deceased) (as inserted by this Act) is amended as follows.
 
 (2) For “Commission”, in each place, substitute “ Director General ”.
 
@@ -683,30 +683,30 @@ Section 33
 
 *Extent: E+W*
 
-**47.**[^c22727681][^key-cd07f60825843e21458c260a9fb2808e] In section 29I (duty to keep whistle-blowers informed) (as inserted by this Act), in subsection (1)—
+**47.**[^c22727681][^c-cd07f60825843e21458c260a9fb2808e] In section 29I (duty to keep whistle-blowers informed) (as inserted by this Act), in subsection (1)—
 
 - (a) for “Commission” substitute “ Director General ”;
 - (b) for “it” substitute “ the Director General ”.
 
 *Extent: E+W*
 
-**48.**[^c22727691][^key-95bbfed4af52892b9f042af4e93ba563] In section 29J (protection of anonymity of whistle-blowers) (as inserted by this Act) for “Commission”, in both places, substitute “ Director General ”.
+**48.**[^c22727691][^c-95bbfed4af52892b9f042af4e93ba563] In section 29J (protection of anonymity of whistle-blowers) (as inserted by this Act) for “Commission”, in both places, substitute “ Director General ”.
 
 *Extent: E+W*
 
-**49.**[^c22727701][^key-3d899df5fd9b752a02f01e3a3b983041] In section 29K (other restrictions on disclosure of information) (as inserted by this Act), for “Commission”, in both places, substitute “ Director General ”.
+**49.**[^c22727701][^c-3d899df5fd9b752a02f01e3a3b983041] In section 29K (other restrictions on disclosure of information) (as inserted by this Act), for “Commission”, in both places, substitute “ Director General ”.
 
 *Extent: E+W*
 
-**50.**[^c22727711][^key-ff83db3781c827409220f127bcacc82f] In section 29L (application of provisions of Part 2) (as inserted by this Act), for “Commission”, in each place, substitute “ Director General ”.
+**50.**[^c22727711][^c-ff83db3781c827409220f127bcacc82f] In section 29L (application of provisions of Part 2) (as inserted by this Act), for “Commission”, in each place, substitute “ Director General ”.
 
 *Extent: E+W*
 
-**51.**[^c22727721][^key-2c8e5d1594fc2a6be37404841e66fbdf] In section 29M (regulation-making powers: consultation) (as inserted by this Act), for “Commission” substitute “ Director General ”.
+**51.**[^c22727721][^c-2c8e5d1594fc2a6be37404841e66fbdf] In section 29M (regulation-making powers: consultation) (as inserted by this Act), for “Commission” substitute “ Director General ”.
 
 *Extent: E+W*
 
-**52.**[^c22727731][^key-66c49cdf7087a3137e55b564598e6671] In section 29N (interpretation) (as inserted by this Act), in subsection (1)—
+**52.**[^c22727731][^c-66c49cdf7087a3137e55b564598e6671] In section 29N (interpretation) (as inserted by this Act), in subsection (1)—
 
 - (a) omit the definition of “the Commission”;
 - (b) after the definition of “conduct” insert—
@@ -717,15 +717,15 @@ Section 33
 
 *Extent: E+W*
 
-**53.**[^c22727741][^key-c15a47c284346356d4b95d29c4c58d15] In section 36 (conduct of disciplinary proceedings), in subsection (1)(a) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
+**53.**[^c22727741][^c-c15a47c284346356d4b95d29c4c58d15] In section 36 (conduct of disciplinary proceedings), in subsection (1)(a) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
 
 *Extent: E+W*
 
-**54.**[^c22727751][^key-76f585cd173663ae3e39364175f7c6ab] In section 105 (powers of Secretary of State to make orders and regulations), in subsection (5) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
+**54.**[^c22727751][^c-76f585cd173663ae3e39364175f7c6ab] In section 105 (powers of Secretary of State to make orders and regulations), in subsection (5) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
 
 *Extent: E+W*
 
-**55.**[^c22727761][^key-2b350d925faa09a043061b64e3beb1f7] (1) Schedule 2 (the Independent Police Complaints Commission) is amended as follows.
+**55.**[^c22727761][^c-2b350d925faa09a043061b64e3beb1f7] (1) Schedule 2 (the Independent Police Complaints Commission) is amended as follows.
 
 (2) For the title to the Schedule substitute “ The Independent Office for Police Conduct ”.
 
@@ -788,7 +788,7 @@ Section 33
 
 (19) In paragraph 18 for “Commission”, in both places, substitute “ Office ”.
 
-**56.**[^c22727771][^key-3c9724e3e36a66f76638bd07bcdb4582] (1) Schedule 3 is amended as follows.
+**56.**[^c22727771][^c-3c9724e3e36a66f76638bd07bcdb4582] (1) Schedule 3 is amended as follows.
 
 (2) For “Commission”, in each place where it occurs, substitute “ Director General ”.
 
@@ -925,7 +925,7 @@ Section 33
 
 *Extent: E+W*
 
-**57.**[^c22727781][^key-221f85c9097f4fc7039d3e120de2192b] (1) Schedule 3 is further amended as follows (but an amendment made by sub-paragraph (2), (3), (4) or (5) applies only if this Schedule comes into force before the coming into force of paragraph 21, 23, 24 or 26 (as the case may be) of Schedule 5 to this Act).
+**57.**[^c22727781][^c-221f85c9097f4fc7039d3e120de2192b] (1) Schedule 3 is further amended as follows (but an amendment made by sub-paragraph (2), (3), (4) or (5) applies only if this Schedule comes into force before the coming into force of paragraph 21, 23, 24 or 26 (as the case may be) of Schedule 5 to this Act).
 
 (2) In paragraph 19B (assessment of seriousness of conduct under investigation), in sub-paragraph (1) after “investigating” insert “ or, in the case of an investigation by a designated person under paragraph 19, the Director General, ”.
 
@@ -943,7 +943,7 @@ Section 33
 
 *Extent: E+W*
 
-**58.**[^c22727791][^key-46cb927cc8b4d93bc6bf9e437a69c8cb] (1) Schedule 3A (whistle-blowing investigations: procedure) (as inserted by this Act) is amended as follows.
+**58.**[^c22727791][^c-46cb927cc8b4d93bc6bf9e437a69c8cb] (1) Schedule 3A (whistle-blowing investigations: procedure) (as inserted by this Act) is amended as follows.
 
 (2) For “Commission”, in each place, substitute “ Director General ”.
 
@@ -990,7 +990,7 @@ Section 33
 
 #### Superannuation Act 1972 (c. 11)
 
-**59.**[^c22727801][^key-e495f9f727af662d7c41aea6df22dfa3] In Schedule 1 to the Superannuation Act 1972—
+**59.**[^c22727801][^c-e495f9f727af662d7c41aea6df22dfa3] In Schedule 1 to the Superannuation Act 1972—
 
 - (a) in the list of entries under the heading “Royal Commissions and other Commissions”, omit the entry relating to the Independent Police Complaints Commission;
 - (b) in the list of entries under the heading “Other Bodies”, insert at the appropriate place— “ The Independent Office for Police Conduct. ”;
@@ -1001,21 +1001,21 @@ Section 33
 
 #### House of Commons Disqualification Act 1975 (c. 24)
 
-**60.**[^c22727811][^key-7d37657bee24cfa49890867e7d0744be] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), omit the entry relating to the Independent Police Complaints Commission and insert at the appropriate place— “ The Independent Office for Police Conduct. ”
+**60.**[^c22727811][^c-7d37657bee24cfa49890867e7d0744be] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), omit the entry relating to the Independent Police Complaints Commission and insert at the appropriate place— “ The Independent Office for Police Conduct. ”
 
 #### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
-**61.**[^c22727821][^key-5122dc044c4e34cdb2afa821f4261a10] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), omit the entry relating to the Independent Police Complaints Commission and insert at the appropriate place— “ The Independent Office for Police Conduct. ”
+**61.**[^c22727821][^c-5122dc044c4e34cdb2afa821f4261a10] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), omit the entry relating to the Independent Police Complaints Commission and insert at the appropriate place— “ The Independent Office for Police Conduct. ”
 
 #### Police Pensions Act 1976 (c. 35)
 
 *Extent: E+W+S*
 
-**62.**[^c22727831][^key-60b2761d28d4acf3fcd4ae80ea430486] In section 11 of the Police Pensions Act 1976 (interpretation), in subsection (2A)(ba) for “Independent Police Complaints Commission” substitute “ Independent Office for Police Conduct ”.
+**62.**[^c22727831][^c-60b2761d28d4acf3fcd4ae80ea430486] In section 11 of the Police Pensions Act 1976 (interpretation), in subsection (2A)(ba) for “Independent Police Complaints Commission” substitute “ Independent Office for Police Conduct ”.
 
 #### Ministry of Defence Police Act 1987 (c. 4)
 
-**63.**[^c22727841][^key-36c5f50cbfcd27330d42a972d5ed882f] (1) The Ministry of Defence Police Act 1987 is amended as follows.
+**63.**[^c22727841][^c-36c5f50cbfcd27330d42a972d5ed882f] (1) The Ministry of Defence Police Act 1987 is amended as follows.
 
 (2) In section 3A (regulations relating to disciplinary matters), in subsections (1B)(a), (1F) and (1G) (as inserted by this Act) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
 
@@ -1023,13 +1023,13 @@ Section 33
 
 #### Aviation and Maritime Security Act 1990 (c. 31)
 
-**64.**[^c22727851][^key-3cede207ee3b691d6f746a700f23e598] In section 22 of the Aviation and Maritime Security Act 1990 (power to require harbour authorities to promote searches in harbour areas), in subsection (4)(b)(i) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
+**64.**[^c22727851][^c-3cede207ee3b691d6f746a700f23e598] In section 22 of the Aviation and Maritime Security Act 1990 (power to require harbour authorities to promote searches in harbour areas), in subsection (4)(b)(i) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
 
 #### Police Act 1996 (c. 16)
 
 *Extent: E+W*
 
-**65.**[^c22727861][^key-98ac0cc6ed8697bb2aa1d8dcd59ab2f4] (1) The Police Act 1996 is amended as follows.
+**65.**[^c22727861][^c-98ac0cc6ed8697bb2aa1d8dcd59ab2f4] (1) The Police Act 1996 is amended as follows.
 
 (2) In the following provisions, for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”
 
@@ -1054,17 +1054,17 @@ Section 33
 
 #### Freedom of Information Act 2000 (c. 36)
 
-**66.**[^c22727871][^key-0fb7122bd816fc1931ae806e401af8a3] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices: general) omit the entry relating to the Independent Police Complaints Commission and insert at the appropriate place— “ The Director General of the Independent Office for Police Conduct. ” “ The Independent Office for Police Conduct. ”
+**66.**[^c22727871][^c-0fb7122bd816fc1931ae806e401af8a3] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices: general) omit the entry relating to the Independent Police Complaints Commission and insert at the appropriate place— “ The Director General of the Independent Office for Police Conduct. ” “ The Independent Office for Police Conduct. ”
 
 #### Fire and Rescue Services Act 2004 (c. 21)
 
 *Extent: E+W*
 
-**67.**[^c22727881][^key-5f59a62c992a3635276845d902fc342d] In section 4K of the Fire and Rescue Services Act 2004 (as inserted by this Act), in subsection (5)(b) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
+**67.**[^c22727881][^c-5f59a62c992a3635276845d902fc342d] In section 4K of the Fire and Rescue Services Act 2004 (as inserted by this Act), in subsection (5)(b) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
 
 #### Commissioners for Revenue and Customs Act 2005 (c. 11)
 
-**68.**[^c22727891][^key-2d49238aa4ebc2b101c5ccfd5a647cef] (1) The Commissions for Revenue and Customs Act 2005 is amended as follows.
+**68.**[^c22727891][^c-2d49238aa4ebc2b101c5ccfd5a647cef] (1) The Commissions for Revenue and Customs Act 2005 is amended as follows.
 
 (2) In section 18 (confidentiality), in subsection (2)(g)—
 
@@ -1089,7 +1089,7 @@ Section 33
 
 #### Police and Justice Act 2006 (c. 48)
 
-**69.**[^c22727901][^key-6ec395f078806c9c29a8f248cde1c3fc] (1) In section 41 of the Police and Justice Act 2006 (immigration and asylum enforcement functions and customs functions: complaints and misconduct)—
+**69.**[^c22727901][^c-6ec395f078806c9c29a8f248cde1c3fc] (1) In section 41 of the Police and Justice Act 2006 (immigration and asylum enforcement functions and customs functions: complaints and misconduct)—
 
 - (a) in subsection (1) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct (“the Director General”) ”;
 - (b) in subsection (2A) for “Independent Police Complaints Commission” substitute “ Director General ”;
@@ -1104,13 +1104,13 @@ Section 33
 
 *Extent: E+W*
 
-**70.**[^c22727911][^key-7a336c98c886db1d8415af572ddcab46] In section 107EE of the Local Democracy, Economic Development and Construction Act 2009 (section 107EA orders: complaints and conduct matters etc) (as inserted by this Act), in subsection (5)(b) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
+**70.**[^c22727911][^c-7a336c98c886db1d8415af572ddcab46] In section 107EE of the Local Democracy, Economic Development and Construction Act 2009 (section 107EA orders: complaints and conduct matters etc) (as inserted by this Act), in subsection (5)(b) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
 
 #### Coroners and Justice Act 2009 (c. 25)
 
 *Extent: E+W*
 
-**71.**[^c22727921][^key-c1ba9de52e9f25703765bd958d0d370f] In section 47 of the Coroners and Justice Act 2009 (meaning of “interested person”)—
+**71.**[^c22727921][^c-c1ba9de52e9f25703765bd958d0d370f] In section 47 of the Coroners and Justice Act 2009 (meaning of “interested person”)—
 
 - (a) in subsection (2)(k) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”;
 - (b) in subsection (5) for “Independent Police Complaints Commission” substitute “ Director General of the Independent Office for Police Conduct ”.
@@ -1119,13 +1119,13 @@ Section 33
 
 *Extent: E+W+S*
 
-**72.**[^c22727931][^key-4dc5071c94b0df8e02c9e6317808f1e4] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities: general), under the heading “Police” omit the entry relating to the Independent Police Complaints Commission and insert at the appropriate place— “ The Director General of the Independent Office for Police Conduct. ” “ The Independent Office for Police Conduct. ”
+**72.**[^c22727931][^c-4dc5071c94b0df8e02c9e6317808f1e4] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities: general), under the heading “Police” omit the entry relating to the Independent Police Complaints Commission and insert at the appropriate place— “ The Director General of the Independent Office for Police Conduct. ” “ The Independent Office for Police Conduct. ”
 
 #### Police Reform and Social Responsibility Act 2011 (c. 13)
 
 *Extent: E+W*
 
-**73.**[^c22727941][^key-bee5829b8b4efb3aafaff16f2a33e10a] (1) The Police Reform and Social Responsibility Act 2011 is amended as follows.
+**73.**[^c22727941][^c-bee5829b8b4efb3aafaff16f2a33e10a] (1) The Police Reform and Social Responsibility Act 2011 is amended as follows.
 
 (2) In section 65 (disqualification from election or holding office as police and crime commissioner: police grounds), for “Independent Police Complaints Commission” substitute “ Independent Office for Police Conduct ”.
 
@@ -1133,7 +1133,7 @@ Section 33
 
 #### Investigatory Powers Act 2016
 
-**74.**[^c22727951][^key-3ac9b341237277fd87383a1b7cfbbf8c] (1) The Investigatory Powers Act 2016 is amended as follows.
+**74.**[^c22727951][^c-3ac9b341237277fd87383a1b7cfbbf8c] (1) The Investigatory Powers Act 2016 is amended as follows.
 
 (2) In section 58 (section 57: meaning of “excepted disclosure”), in subsection (4)(c)—
 
@@ -1175,298 +1175,298 @@ Section 33
 
 [^c22727221]: Commencement: Sch. 9 para. 1 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-518f88208b7b7fb1fff1382286b6057c]: Commencement: Sch. 9 para. 1 in force at 17.7.2017 for specified purposes by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(e)(i)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/e/i)
+[^c-518f88208b7b7fb1fff1382286b6057c]: Commencement: Sch. 9 para. 1 in force at 17.7.2017 for specified purposes by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(e)(i)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/e/i)
 
-[^key-b3f19c3e86702428a231fdeead9669aa]: Commencement: Sch. 9 para. 1 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-b3f19c3e86702428a231fdeead9669aa]: Commencement: Sch. 9 para. 1 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727231]: Commencement: Sch. 9 para. 2 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-d2c9048509968df3776bf21bd4795fdb]: Commencement: Sch. 9 para. 2 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-d2c9048509968df3776bf21bd4795fdb]: Commencement: Sch. 9 para. 2 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727241]: Commencement: Sch. 9 para. 3 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-f906509cbb710baea038df105f340beb]: Commencement: Sch. 9 para. 3 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-f906509cbb710baea038df105f340beb]: Commencement: Sch. 9 para. 3 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727251]: Commencement: Sch. 9 para. 4 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-278939d368bda73b6ccca26b30fb5d7a]: Commencement: Sch. 9 para. 4 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-278939d368bda73b6ccca26b30fb5d7a]: Commencement: Sch. 9 para. 4 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727261]: Commencement: Sch. 9 para. 5 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-83931aaa84dea653600f9e8bc27e3abf]: Commencement: Sch. 9 para. 5 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-83931aaa84dea653600f9e8bc27e3abf]: Commencement: Sch. 9 para. 5 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727271]: Commencement: Sch. 9 para. 6 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-c817660ef94e370e9be95e221045259c]: Commencement: Sch. 9 para. 6 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-c817660ef94e370e9be95e221045259c]: Commencement: Sch. 9 para. 6 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727281]: Commencement: Sch. 9 para. 6 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-ad5110470873f319a85e0348ef987dd8]: Commencement: Sch. 9 para. 7 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-ad5110470873f319a85e0348ef987dd8]: Commencement: Sch. 9 para. 7 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727291]: Commencement: Sch. 9 para. 8 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-b661a3cfecd10a3c186e29c7f4b87ba7]: Commencement: Sch. 9 para. 8 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-b661a3cfecd10a3c186e29c7f4b87ba7]: Commencement: Sch. 9 para. 8 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727301]: Commencement: Sch. 9 para. 9 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-1ffdbfa9f9522f0f4c38280ecbfb21fa]: Commencement: Sch. 9 para. 9 in force at 17.7.2017 for specified purposes by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/726/regulation/3))
+[^c-1ffdbfa9f9522f0f4c38280ecbfb21fa]: Commencement: Sch. 9 para. 9 in force at 17.7.2017 for specified purposes by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/726/regulation/3))
 
-[^key-99cfb1574ef82f7ed8081d95284ea005]: Commencement: Sch. 9 para. 9 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-99cfb1574ef82f7ed8081d95284ea005]: Commencement: Sch. 9 para. 9 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727311]: Commencement: Sch. 9 para. 10 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-95932489082979338b8fb50ce346b58b]: Commencement: Sch. 9 para. 10 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-95932489082979338b8fb50ce346b58b]: Commencement: Sch. 9 para. 10 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727321]: Commencement: Sch. 9 para. 11 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-756e925da0c7a471b9ded804efcd6f9c]: Commencement: Sch. 9 para. 11 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-756e925da0c7a471b9ded804efcd6f9c]: Commencement: Sch. 9 para. 11 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727331]: Commencement: Sch. 9 para. 12 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-922aaab7d194bc2e220137071fae6f71]: Commencement: Sch. 9 para. 12 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-922aaab7d194bc2e220137071fae6f71]: Commencement: Sch. 9 para. 12 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727341]: Commencement: Sch. 9 para. 13 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-d791aa9b66aef398bfd3bf8279435c3b]: Commencement: Sch. 9 para. 13 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-d791aa9b66aef398bfd3bf8279435c3b]: Commencement: Sch. 9 para. 13 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727351]: Commencement: Sch. 9 para. 14 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-b6438b79fe605660aacd9d5505af2af6]: Commencement: Sch. 9 para. 14 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-b6438b79fe605660aacd9d5505af2af6]: Commencement: Sch. 9 para. 14 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727361]: Commencement: Sch. 9 para. 15 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-353389382c99e4f86e02d551fd3d9f53]: Commencement: Sch. 9 para. 15 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-353389382c99e4f86e02d551fd3d9f53]: Commencement: Sch. 9 para. 15 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727371]: Commencement: Sch. 9 para. 16 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-31d3397d52ecf68d55a5f28e6b86400a]: Commencement: Sch. 9 para. 16 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-31d3397d52ecf68d55a5f28e6b86400a]: Commencement: Sch. 9 para. 16 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727381]: Commencement: Sch. 9 para. 17 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-dc9356ae4f30276d3fed552769573ff1]: Commencement: Sch. 9 para. 17 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-dc9356ae4f30276d3fed552769573ff1]: Commencement: Sch. 9 para. 17 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727391]: Commencement: Sch. 9 para. 18 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-6779cf02a26255303c893b34fe3f26d4]: Commencement: Sch. 9 para. 18 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-6779cf02a26255303c893b34fe3f26d4]: Commencement: Sch. 9 para. 18 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727401]: Commencement: Sch. 9 para. 19 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-bba54ea7460f0ae9efcd374869bd48af]: Commencement: Sch. 9 para. 19 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-bba54ea7460f0ae9efcd374869bd48af]: Commencement: Sch. 9 para. 19 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727411]: Commencement: Sch. 9 para. 20 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-06c1493368b1ae4f50ef26a4ee92c800]: Commencement: Sch. 9 para. 20 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-06c1493368b1ae4f50ef26a4ee92c800]: Commencement: Sch. 9 para. 20 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727421]: Commencement: Sch. 9 para. 21 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-ee7282e62967cd20c0e2d6f0620e1793]: Commencement: Sch. 9 para. 21 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-ee7282e62967cd20c0e2d6f0620e1793]: Commencement: Sch. 9 para. 21 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727431]: Commencement: Sch. 9 para. 22 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-cac6e240270c9e194c3af8a3b7f91f97]: Commencement: Sch. 9 para. 22 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-cac6e240270c9e194c3af8a3b7f91f97]: Commencement: Sch. 9 para. 22 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727441]: Commencement: Sch. 9 para. 23 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-e042fbae54382602cde75ae7cfd73e8f]: Commencement: Sch. 9 para. 23 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-e042fbae54382602cde75ae7cfd73e8f]: Commencement: Sch. 9 para. 23 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727451]: Commencement: Sch. 9 para. 24 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-48798f97683e2440db9fac2408cea544]: Commencement: Sch. 9 para. 24 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-48798f97683e2440db9fac2408cea544]: Commencement: Sch. 9 para. 24 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727461]: Commencement: Sch. 9 para. 25 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-0b56ca3321bc3265b30ac75598c1b06c]: Commencement: Sch. 9 para. 25 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-0b56ca3321bc3265b30ac75598c1b06c]: Commencement: Sch. 9 para. 25 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727471]: Commencement: Sch. 9 para. 26 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-a0cf780b9618898f0714077e9c7f48a7]: Commencement: Sch. 9 para. 26 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-a0cf780b9618898f0714077e9c7f48a7]: Commencement: Sch. 9 para. 26 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727481]: Commencement: Sch. 9 para. 27 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-9f273a26c17923719807ede92c63e82a]: Commencement: Sch. 9 para. 27 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-9f273a26c17923719807ede92c63e82a]: Commencement: Sch. 9 para. 27 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727491]: Commencement: Sch. 9 para. 28 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-55a041cc93f6963100695ee16d8efc11]: Commencement: Sch. 9 para. 28 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-55a041cc93f6963100695ee16d8efc11]: Commencement: Sch. 9 para. 28 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727501]: Commencement: Sch. 9 para. 29 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-f60d12a089610ee489ccd78954bd3232]: Commencement: Sch. 9 para. 29 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-f60d12a089610ee489ccd78954bd3232]: Commencement: Sch. 9 para. 29 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727511]: Commencement: Sch. 9 para. 30 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-430e1d0c41fa7456da4b6d83130e55f3]: Commencement: Sch. 9 para. 30 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-430e1d0c41fa7456da4b6d83130e55f3]: Commencement: Sch. 9 para. 30 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727521]: Commencement: Sch. 9 para. 31 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-4cf2d73f772d9df33b0d684516e15c7b]: Commencement: Sch. 9 para. 31 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-4cf2d73f772d9df33b0d684516e15c7b]: Commencement: Sch. 9 para. 31 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727531]: Commencement: Sch. 9 para. 32 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-c46768ef687c0af6314873d5c3c239a8]: Commencement: Sch. 9 para. 32 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-c46768ef687c0af6314873d5c3c239a8]: Commencement: Sch. 9 para. 32 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727541]: Commencement: Sch. 9 para. 33 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-6bba501ca953fb8da6169c60cadeea75]: Commencement: Sch. 9 para. 33 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-6bba501ca953fb8da6169c60cadeea75]: Commencement: Sch. 9 para. 33 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727551]: Commencement: Sch. 9 para. 34 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-dd7e9a8d4395893105ae831265923afe]: Commencement: Sch. 9 para. 34 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-dd7e9a8d4395893105ae831265923afe]: Commencement: Sch. 9 para. 34 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727561]: Commencement: Sch. 9 para. 35 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-4240358f4494922d93d1b196e2721adf]: Commencement: Sch. 9 para. 35 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-4240358f4494922d93d1b196e2721adf]: Commencement: Sch. 9 para. 35 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
-[^key-6d4c80f46084cb62ba334b1b2bd4c2cb]: Textual amendment: [Sch. 9 para. 36](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/36) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 89](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/89) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-6d4c80f46084cb62ba334b1b2bd4c2cb]: Textual amendment: [Sch. 9 para. 36](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/36) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 89](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/89) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
 
 [^c22727581]: Commencement: Sch. 9 para. 37 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-c2e7281fdda741149d70f2aa7a72f242]: Commencement: Sch. 9 para. 37 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-c2e7281fdda741149d70f2aa7a72f242]: Commencement: Sch. 9 para. 37 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727591]: Commencement: Sch. 9 para. 38 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-19251e1bf98ecd423524eaa6ccdd4dd3]: Commencement: Sch. 9 para. 38 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-19251e1bf98ecd423524eaa6ccdd4dd3]: Commencement: Sch. 9 para. 38 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727601]: Commencement: Sch. 9 para. 39 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-ce70f2f2274dda7c9cafd3975e15ebb7]: Commencement: Sch. 9 para. 39 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-ce70f2f2274dda7c9cafd3975e15ebb7]: Commencement: Sch. 9 para. 39 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727611]: Commencement: Sch. 9 para. 40 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-744880a7bec67b7d3aa9479d2780ad2e]: Commencement: Sch. 9 para. 40 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-744880a7bec67b7d3aa9479d2780ad2e]: Commencement: Sch. 9 para. 40 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727621]: Commencement: Sch. 9 para. 41 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-933602b6e78aea89a40714bf6bf53413]: Commencement: Sch. 9 para. 41 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-933602b6e78aea89a40714bf6bf53413]: Commencement: Sch. 9 para. 41 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727631]: Commencement: Sch. 9 para. 42 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-8968a754cea7d691208ef694de41645a]: Commencement: Sch. 9 para. 42 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-8968a754cea7d691208ef694de41645a]: Commencement: Sch. 9 para. 42 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727641]: Commencement: Sch. 9 para. 43 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-949ee7f74e8a920992c2a02687e62542]: Commencement: Sch. 9 para. 43 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-949ee7f74e8a920992c2a02687e62542]: Commencement: Sch. 9 para. 43 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727651]: Commencement: Sch. 9 para. 44 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-9dd7b92db1762b0f4c557a8944b2ccd5]: Commencement: Sch. 9 para. 44 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-9dd7b92db1762b0f4c557a8944b2ccd5]: Commencement: Sch. 9 para. 44 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727661]: Commencement: Sch. 9 para. 45 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-093aa2e814796c8765aab6a9b9baa455]: Commencement: Sch. 9 para. 45 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-093aa2e814796c8765aab6a9b9baa455]: Commencement: Sch. 9 para. 45 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727671]: Commencement: Sch. 9 para. 46 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-b01eb9fa938531519f8bd8ea2f7324ae]: Commencement: Sch. 9 para. 46 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-b01eb9fa938531519f8bd8ea2f7324ae]: Commencement: Sch. 9 para. 46 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727681]: Commencement: Sch. 9 para. 47 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-cd07f60825843e21458c260a9fb2808e]: Commencement: Sch. 9 para. 47 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-cd07f60825843e21458c260a9fb2808e]: Commencement: Sch. 9 para. 47 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727691]: Commencement: Sch. 9 para. 48 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-95bbfed4af52892b9f042af4e93ba563]: Commencement: Sch. 9 para. 48 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-95bbfed4af52892b9f042af4e93ba563]: Commencement: Sch. 9 para. 48 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727701]: Commencement: Sch. 9 para. 49 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-3d899df5fd9b752a02f01e3a3b983041]: Commencement: Sch. 9 para. 49 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-3d899df5fd9b752a02f01e3a3b983041]: Commencement: Sch. 9 para. 49 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727711]: Commencement: Sch. 9 para. 50 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-ff83db3781c827409220f127bcacc82f]: Commencement: Sch. 9 para. 50 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-ff83db3781c827409220f127bcacc82f]: Commencement: Sch. 9 para. 50 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727721]: Commencement: Sch. 9 para. 51 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-2c8e5d1594fc2a6be37404841e66fbdf]: Commencement: Sch. 9 para. 51 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-2c8e5d1594fc2a6be37404841e66fbdf]: Commencement: Sch. 9 para. 51 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727731]: Commencement: Sch. 9 para. 52 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-66c49cdf7087a3137e55b564598e6671]: Commencement: Sch. 9 para. 52 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-66c49cdf7087a3137e55b564598e6671]: Commencement: Sch. 9 para. 52 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727741]: Commencement: Sch. 9 para. 53 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-c15a47c284346356d4b95d29c4c58d15]: Commencement: Sch. 9 para. 53 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-c15a47c284346356d4b95d29c4c58d15]: Commencement: Sch. 9 para. 53 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727751]: Commencement: Sch. 9 para. 54 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-76f585cd173663ae3e39364175f7c6ab]: Commencement: Sch. 9 para. 54 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-76f585cd173663ae3e39364175f7c6ab]: Commencement: Sch. 9 para. 54 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727761]: Commencement: Sch. 9 para. 55 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-2b350d925faa09a043061b64e3beb1f7]: Commencement: Sch. 9 para. 55 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-2b350d925faa09a043061b64e3beb1f7]: Commencement: Sch. 9 para. 55 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727771]: Commencement: Sch. 9 para. 56 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-3c9724e3e36a66f76638bd07bcdb4582]: Commencement: Sch. 9 para. 56 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-3c9724e3e36a66f76638bd07bcdb4582]: Commencement: Sch. 9 para. 56 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727781]: Commencement: Sch. 9 para. 57 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-221f85c9097f4fc7039d3e120de2192b]: Commencement: Sch. 9 para. 57 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-221f85c9097f4fc7039d3e120de2192b]: Commencement: Sch. 9 para. 57 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727791]: Commencement: Sch. 9 para. 58 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-46cb927cc8b4d93bc6bf9e437a69c8cb]: Commencement: Sch. 9 para. 58 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-46cb927cc8b4d93bc6bf9e437a69c8cb]: Commencement: Sch. 9 para. 58 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727801]: Commencement: Sch. 9 para. 59 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-e495f9f727af662d7c41aea6df22dfa3]: Commencement: Sch. 9 para. 59 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-e495f9f727af662d7c41aea6df22dfa3]: Commencement: Sch. 9 para. 59 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727811]: Commencement: Sch. 9 para. 60 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-7d37657bee24cfa49890867e7d0744be]: Commencement: Sch. 9 para. 60 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-7d37657bee24cfa49890867e7d0744be]: Commencement: Sch. 9 para. 60 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727821]: Commencement: Sch. 9 para. 61 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-5122dc044c4e34cdb2afa821f4261a10]: Commencement: Sch. 9 para. 61 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-5122dc044c4e34cdb2afa821f4261a10]: Commencement: Sch. 9 para. 61 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727831]: Commencement: Sch. 9 para. 62 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-60b2761d28d4acf3fcd4ae80ea430486]: Commencement: Sch. 9 para. 62 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-60b2761d28d4acf3fcd4ae80ea430486]: Commencement: Sch. 9 para. 62 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727841]: Commencement: Sch. 9 para. 63 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-36c5f50cbfcd27330d42a972d5ed882f]: Commencement: Sch. 9 para. 63 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-36c5f50cbfcd27330d42a972d5ed882f]: Commencement: Sch. 9 para. 63 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727851]: Commencement: Sch. 9 para. 64 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-3cede207ee3b691d6f746a700f23e598]: Commencement: Sch. 9 para. 64 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-3cede207ee3b691d6f746a700f23e598]: Commencement: Sch. 9 para. 64 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727861]: Commencement: Sch. 9 para. 65 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-98ac0cc6ed8697bb2aa1d8dcd59ab2f4]: Commencement: Sch. 9 para. 65 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-98ac0cc6ed8697bb2aa1d8dcd59ab2f4]: Commencement: Sch. 9 para. 65 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727871]: Commencement: Sch. 9 para. 66 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-0fb7122bd816fc1931ae806e401af8a3]: Commencement: Sch. 9 para. 66 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-0fb7122bd816fc1931ae806e401af8a3]: Commencement: Sch. 9 para. 66 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727881]: Commencement: Sch. 9 para. 67 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-5f59a62c992a3635276845d902fc342d]: Commencement: Sch. 9 para. 67 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-5f59a62c992a3635276845d902fc342d]: Commencement: Sch. 9 para. 67 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727891]: Commencement: Sch. 9 para. 68 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-2d49238aa4ebc2b101c5ccfd5a647cef]: Commencement: Sch. 9 para. 68 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-2d49238aa4ebc2b101c5ccfd5a647cef]: Commencement: Sch. 9 para. 68 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727901]: Commencement: Sch. 9 para. 69 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-6ec395f078806c9c29a8f248cde1c3fc]: Commencement: Sch. 9 para. 69 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-6ec395f078806c9c29a8f248cde1c3fc]: Commencement: Sch. 9 para. 69 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727911]: Commencement: Sch. 9 para. 70 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-7a336c98c886db1d8415af572ddcab46]: Commencement: Sch. 9 para. 70 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-7a336c98c886db1d8415af572ddcab46]: Commencement: Sch. 9 para. 70 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727921]: Commencement: Sch. 9 para. 71 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-c1ba9de52e9f25703765bd958d0d370f]: Commencement: Sch. 9 para. 71 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-c1ba9de52e9f25703765bd958d0d370f]: Commencement: Sch. 9 para. 71 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727931]: Commencement: Sch. 9 para. 72 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-4dc5071c94b0df8e02c9e6317808f1e4]: Commencement: Sch. 9 para. 72 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-4dc5071c94b0df8e02c9e6317808f1e4]: Commencement: Sch. 9 para. 72 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727941]: Commencement: Sch. 9 para. 73 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-bee5829b8b4efb3aafaff16f2a33e10a]: Commencement: Sch. 9 para. 73 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-bee5829b8b4efb3aafaff16f2a33e10a]: Commencement: Sch. 9 para. 73 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
 [^c22727951]: Commencement: Sch. 9 para. 74 in force for certain purposes at Royal Assent, see s. 183
 
-[^key-3ac9b341237277fd87383a1b7cfbbf8c]: Commencement: Sch. 9 para. 74 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-3ac9b341237277fd87383a1b7cfbbf8c]: Commencement: Sch. 9 para. 74 in force at 8.1.2018 in so far as not already in force by [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))

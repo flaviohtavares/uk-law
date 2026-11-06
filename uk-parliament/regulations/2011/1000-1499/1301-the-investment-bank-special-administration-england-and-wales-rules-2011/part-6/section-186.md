@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. Debt payable at a future time[^key-533bf5919b22152a7564b32d444e08a2]
+## 186. Debt payable at a future time[^c-533bf5919b22152a7564b32d444e08a2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ where—
 
 ## Annotations
 
-[^key-533bf5919b22152a7564b32d444e08a2]: Commencement: [Rule 186](https://www.legislation.gov.uk/uksi/2011/1301/rule/186) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-533bf5919b22152a7564b32d444e08a2]: Commencement: [Rule 186](https://www.legislation.gov.uk/uksi/2011/1301/rule/186) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

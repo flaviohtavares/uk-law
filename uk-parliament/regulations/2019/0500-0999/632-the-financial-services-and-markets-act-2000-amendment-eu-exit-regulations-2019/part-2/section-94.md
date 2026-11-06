@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Schedule 1ZB (the Prudential Regulation Authority)[^key-f37276f376c097e9b10b38154612d91a]
+## 94. Schedule 1ZB (the Prudential Regulation Authority)[^c-f37276f376c097e9b10b38154612d91a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In Schedule 1ZB to the Act [^c23658701] (the Prudential Regulation Authority), i
 
 ## Annotations
 
-[^key-f37276f376c097e9b10b38154612d91a]: Commencement: Reg. 94 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-f37276f376c097e9b10b38154612d91a]: Commencement: Reg. 94 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658701]: Marginal citation: Schedule 1ZB was inserted by section 6(2) of, and Schedule 3 to, the Financial Services Act 2012.
 

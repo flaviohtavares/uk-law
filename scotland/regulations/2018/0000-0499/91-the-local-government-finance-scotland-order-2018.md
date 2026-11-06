@@ -49,7 +49,7 @@ In accordance with paragraph 2(3) of that schedule [^c22969521], a draft of this
 
 This Order may be cited as the Local Government Finance (Scotland) Order 2018 and comes into force on the day after the day on which it is made.
 
-## 2. Revenue support grant for 2018-2019[^key-57c97eb6282b6b6545e1a7d8ed711e5a]
+## 2. Revenue support grant for 2018-2019[^c-57c97eb6282b6b6545e1a7d8ed711e5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -83,43 +83,43 @@ Edinburgh
 
 Articles 2 and 3
 
-| *Column 1* | *[^key-9e8e73f7ed15d40e343db15d431fb9ef]...* | *Column 3* |
+| *Column 1* | *[^c-9e8e73f7ed15d40e343db15d431fb9ef]...* | *Column 3* |
 | --- | --- | --- |
-| *Local Authority* | *[^key-9e8e73f7ed15d40e343db15d431fb9ef]...* | *Amount of non‑domestic rate income* |
-|  | *[^key-9e8e73f7ed15d40e343db15d431fb9ef]...* | *£m* |
-| Aberdeen City | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 227.801 |
-| Aberdeenshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 110.710 |
-| Angus | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 25.101 |
-| Argyll & Bute | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 33.035 |
-| Clackmannanshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 15.326 |
-| Dumfries & Galloway | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 44.229 |
-| Dundee City | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 55.553 |
-| East Ayrshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 26.073 |
-| East Dunbartonshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 21.791 |
-| East Lothian | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 23.744 |
-| East Renfrewshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 14.318 |
-| Edinburgh (City of) | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 340.474 |
-| Eilean Siar | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 7.702 |
-| Falkirk | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 65.958 |
-| Fife | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 154.138 |
-| Glasgow City | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 340.778 |
-| Highland | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 126.537 |
-| Inverclyde | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 18.363 |
-| Midlothian | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 28.115 |
-| Moray | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 40.151 |
-| North Ayrshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 39.471 |
-| North Lanarkshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 104.339 |
-| Orkney Islands | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 9.376 |
-| Perth & Kinross | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 51.953 |
-| Renfrewshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 120.105 |
-| Scottish Borders | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 32.790 |
-| Shetland Islands | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 23.852 |
-| South Ayrshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 38.299 |
-| South Lanarkshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 295.500 |
-| Stirling | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 42.273 |
-| West Dunbartonshire | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 78.812 |
-| West Lothian | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 79.333 |
-| *Scotland Total* | [^key-9e8e73f7ed15d40e343db15d431fb9ef]. . . | *2,636.000* |
+| *Local Authority* | *[^c-9e8e73f7ed15d40e343db15d431fb9ef]...* | *Amount of non‑domestic rate income* |
+|  | *[^c-9e8e73f7ed15d40e343db15d431fb9ef]...* | *£m* |
+| Aberdeen City | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 227.801 |
+| Aberdeenshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 110.710 |
+| Angus | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 25.101 |
+| Argyll & Bute | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 33.035 |
+| Clackmannanshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 15.326 |
+| Dumfries & Galloway | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 44.229 |
+| Dundee City | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 55.553 |
+| East Ayrshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 26.073 |
+| East Dunbartonshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 21.791 |
+| East Lothian | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 23.744 |
+| East Renfrewshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 14.318 |
+| Edinburgh (City of) | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 340.474 |
+| Eilean Siar | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 7.702 |
+| Falkirk | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 65.958 |
+| Fife | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 154.138 |
+| Glasgow City | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 340.778 |
+| Highland | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 126.537 |
+| Inverclyde | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 18.363 |
+| Midlothian | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 28.115 |
+| Moray | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 40.151 |
+| North Ayrshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 39.471 |
+| North Lanarkshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 104.339 |
+| Orkney Islands | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 9.376 |
+| Perth & Kinross | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 51.953 |
+| Renfrewshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 120.105 |
+| Scottish Borders | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 32.790 |
+| Shetland Islands | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 23.852 |
+| South Ayrshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 38.299 |
+| South Lanarkshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 295.500 |
+| Stirling | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 42.273 |
+| West Dunbartonshire | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 78.812 |
+| West Lothian | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | 79.333 |
+| *Scotland Total* | [^c-9e8e73f7ed15d40e343db15d431fb9ef]. . . | *2,636.000* |
 
 ## SCHEDULE 2 — REVENUE SUPPORT GRANT 2017-2018
 
@@ -178,8 +178,8 @@ This Order—
 
 [^c22969521]: Marginal citation: [Paragraph 2(3)](https://www.legislation.gov.uk/ssi/2018/91/paragraph/2/3) has been modified by paragraph 6 of schedule 3 of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-57c97eb6282b6b6545e1a7d8ed711e5a]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2018/91/article/2) revoked (13.3.2019) by [The Local Government Finance (Scotland) Order 2019 (S.S.I. 2019/90)](https://www.legislation.gov.uk/ssi/2019/90), [arts. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1), [5](https://www.legislation.gov.uk/ssi/2019/90/article/5)
+[^c-57c97eb6282b6b6545e1a7d8ed711e5a]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2018/91/article/2) revoked (13.3.2019) by [The Local Government Finance (Scotland) Order 2019 (S.S.I. 2019/90)](https://www.legislation.gov.uk/ssi/2019/90), [arts. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1), [5](https://www.legislation.gov.uk/ssi/2019/90/article/5)
 
 [^c22969531]: Marginal citation: [S.S.I. 2017/87](https://www.legislation.gov.uk/ssi/2017/87).
 
-[^key-9e8e73f7ed15d40e343db15d431fb9ef]: Textual amendment: Sch. 1 column 2 revoked (13.3.2019) by [The Local Government Finance (Scotland) Order 2019 (S.S.I. 2019/90)](https://www.legislation.gov.uk/ssi/2019/90), [arts. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1), [5](https://www.legislation.gov.uk/ssi/2019/90/article/5)
+[^c-9e8e73f7ed15d40e343db15d431fb9ef]: Textual amendment: Sch. 1 column 2 revoked (13.3.2019) by [The Local Government Finance (Scotland) Order 2019 (S.S.I. 2019/90)](https://www.legislation.gov.uk/ssi/2019/90), [arts. 1](https://www.legislation.gov.uk/ssi/2019/90/article/1), [5](https://www.legislation.gov.uk/ssi/2019/90/article/5)

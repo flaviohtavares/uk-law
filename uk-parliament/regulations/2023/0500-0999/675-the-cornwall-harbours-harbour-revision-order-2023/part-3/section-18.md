@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Borrowing[^key-571b5170639f0b86d9e34ccc9f396249]
+## 18. Borrowing[^c-571b5170639f0b86d9e34ccc9f396249]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-571b5170639f0b86d9e34ccc9f396249]: Commencement: Art. 18 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-571b5170639f0b86d9e34ccc9f396249]: Commencement: Art. 18 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

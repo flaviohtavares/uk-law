@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Schedule 3[^key-20f3b7775f4e1b1e6c3cc488ceec9c28]
+## 23. Schedule 3[^c-20f3b7775f4e1b1e6c3cc488ceec9c28]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20f3b7775f4e1b1e6c3cc488ceec9c28]: Commencement: Reg. 23(1)(2)(3)(a)(b)(i)-(ix)(xi)-(xvi)(xviii)-(xxi)(xxiii)-(xxviii)(4)(5) in force and reg. 23(3)(b)(x)(xvii)(xxii) in force for specified purposes at 31.12.2020 on IP completion day
+[^c-20f3b7775f4e1b1e6c3cc488ceec9c28]: Commencement: Reg. 23(1)(2)(3)(a)(b)(i)-(ix)(xi)-(xvi)(xviii)-(xxi)(xxiii)-(xxviii)(4)(5) in force and reg. 23(3)(b)(x)(xvii)(xxii) in force for specified purposes at 31.12.2020 on IP completion day
 
     Reg. 23(3)(b)(x)(xvii)(xxii) in force in so far as not already in force at 1.1.2021, see reg. 1(2)(b)(c)(i)

@@ -148,11 +148,11 @@ It also appears to the Secretary of State not to be appropriate to consult bodie
 
 - [Section 38 — Prohibitions in relation to unmarked plastic explosive](part-12/section-38.md)
 
-### PART 13 — SUB-PART A: MAKING AVAILABLE ON THE MARKET – OBLIGATIONS OF ECONOMIC OPERATORS, SUB-PART B: CONFORMITY ASSESSMENT BODIES, SUB-PART C: NOTIFICATION OF CONFORMITY ASSESSMENT BODIES[^key-858488a89cb65a91a8398020468dfb06]
+### PART 13 — SUB-PART A: MAKING AVAILABLE ON THE MARKET – OBLIGATIONS OF ECONOMIC OPERATORS, SUB-PART B: CONFORMITY ASSESSMENT BODIES, SUB-PART C: NOTIFICATION OF CONFORMITY ASSESSMENT BODIES[^c-858488a89cb65a91a8398020468dfb06]
 
 *Extent: E+W+S+N.I.*
 
-#### SUB-PART A: MAKING AVAILABLE ON THE MARKET – OBLIGATIONS OF ECONOMIC OPERATORS — MANUFACTURERS[^key-858488a89cb65a91a8398020468dfb06]
+#### SUB-PART A: MAKING AVAILABLE ON THE MARKET – OBLIGATIONS OF ECONOMIC OPERATORS — MANUFACTURERS[^c-858488a89cb65a91a8398020468dfb06]
 
 - [Section 39 — Design and manufacture in accordance with essential safety requirements](part-13/section-39.md)
 - [Section 40 — Technical documentation and conformity assessment](part-13/section-40.md)
@@ -162,11 +162,11 @@ It also appears to the Secretary of State not to be appropriate to consult bodie
 - [Section 44 — Traceability of certain civil explosives excluded from the scope of regulations 33, 34 and 36](part-13/section-44.md)
 - [Section 45 — Instructions and safety information](part-13/section-45.md)
 
-#### AUTHORISED REPRESENTATIVES[^key-858488a89cb65a91a8398020468dfb06]
+#### AUTHORISED REPRESENTATIVES[^c-858488a89cb65a91a8398020468dfb06]
 
 - [Section 46 — Appointment of authorised representative by written mandate](part-13/section-46.md)
 
-#### IMPORTERS[^key-858488a89cb65a91a8398020468dfb06]
+#### IMPORTERS[^c-858488a89cb65a91a8398020468dfb06]
 
 - [Section 47 — Prohibition on placing on the market civil explosives which are not in conformity](part-13/section-47.md)
 - [Section 48 — Requirements which must be satisfied before an importer places a civil explosive on the market](part-13/section-48.md)
@@ -175,12 +175,12 @@ It also appears to the Secretary of State not to be appropriate to consult bodie
 - [Section 51 — Instructions and safety information](part-13/section-51.md)
 - [Section 52 — Retention of technical documentation and ... declaration of conformity](part-13/section-52.md)
 
-#### MANUFACTURERS AND IMPORTERS[^key-858488a89cb65a91a8398020468dfb06]
+#### MANUFACTURERS AND IMPORTERS[^c-858488a89cb65a91a8398020468dfb06]
 
 - [Section 53 — Duty to take action in respect of civil explosives placed on the market which are considered not to be in conformity](part-13/section-53.md)
 - [Section 54 — Provision of information and cooperation](part-13/section-54.md)
 
-#### DISTRIBUTORS[^key-858488a89cb65a91a8398020468dfb06]
+#### DISTRIBUTORS[^c-858488a89cb65a91a8398020468dfb06]
 
 - [Section 55 — Duty to act with due care](part-13/section-55.md)
 - [Section 56 — Requirements which must be satisfied before a distributor makes a civil explosive available on the market](part-13/section-56.md)
@@ -188,12 +188,12 @@ It also appears to the Secretary of State not to be appropriate to consult bodie
 - [Section 58 — Duty to take action in respect of civil explosives made available on the market which are not in conformity](part-13/section-58.md)
 - [Section 59 — Provision of information and cooperation](part-13/section-59.md)
 
-#### IMPORTERS AND DISTRIBUTORS[^key-858488a89cb65a91a8398020468dfb06]
+#### IMPORTERS AND DISTRIBUTORS[^c-858488a89cb65a91a8398020468dfb06]
 
 - [Section 60 — Storage and transport](part-13/section-60.md)
 - [Section 61 — Cases in which obligations of manufacturers apply to importers and distributors](part-13/section-61.md)
 
-#### ALL ECONOMIC OPERATORS[^key-858488a89cb65a91a8398020468dfb06]
+#### ALL ECONOMIC OPERATORS[^c-858488a89cb65a91a8398020468dfb06]
 
 - [Section 62 — Translation of declaration of conformity](part-13/section-62.md)
 - [Section 63 — Identification of economic operators](part-13/section-63.md)
@@ -203,14 +203,14 @@ It also appears to the Secretary of State not to be appropriate to consult bodie
 - [Section 64C — Further use of the UK marking](part-13/section-64c.md)
 - [Section 64D — Qualifying Northern Ireland Goods](part-13/section-64d.md)
 
-#### SUB-PART B: CONFORMITY ASSESSMENT[^key-858488a89cb65a91a8398020468dfb06]
+#### SUB-PART B: CONFORMITY ASSESSMENT[^c-858488a89cb65a91a8398020468dfb06]
 
 - [Section 65 — Presumption of conformity](part-13/section-65.md)
 - [Section 66 — Conformity assessment procedures](part-13/section-66.md)
 - [Section 67 — Declaration of conformity](part-13/section-67.md)
 - [Section 68 — UK marking](part-13/section-68.md)
 
-#### SUB-PART C: Approval of Conformity Assessment Bodies[^M_F_61a8fc30-f1f9-4865-a3f5-6455e705baf6][^key-858488a89cb65a91a8398020468dfb06]
+#### SUB-PART C: Approval of Conformity Assessment Bodies[^M_F_61a8fc30-f1f9-4865-a3f5-6455e705baf6][^c-858488a89cb65a91a8398020468dfb06]
 
 - [Section 69 — Approved bodies](part-13/section-69.md)
 - [Section 70 — Approval of conformity assessment bodies](part-13/section-70.md)
@@ -303,6 +303,6 @@ Department for Work and Pensions
 
 [^c22150181]: Marginal citation: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-858488a89cb65a91a8398020468dfb06]: Textual amendment: Pt. 13 (regs. 39-77) substituted for Pt. 13 (regs. 39-42) (and therefore original regs. 43, 44 renumbered as new regs. 78, 79, new reg. 80 substituted for original reg. 45 and original regs. 46-49 renumbered as new regs. 81-84) (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/315/regulation/7), [8](https://www.legislation.gov.uk/uksi/2016/315/regulation/8), [9](https://www.legislation.gov.uk/uksi/2016/315/regulation/9) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-858488a89cb65a91a8398020468dfb06]: Textual amendment: Pt. 13 (regs. 39-77) substituted for Pt. 13 (regs. 39-42) (and therefore original regs. 43, 44 renumbered as new regs. 78, 79, new reg. 80 substituted for original reg. 45 and original regs. 46-49 renumbered as new regs. 81-84) (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/315/regulation/7), [8](https://www.legislation.gov.uk/uksi/2016/315/regulation/8), [9](https://www.legislation.gov.uk/uksi/2016/315/regulation/9) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
 
 [^M_F_61a8fc30-f1f9-4865-a3f5-6455e705baf6]: Textual amendment: Pt. 13 Sub-Pt. C substituted (31.12.2020) by The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696), reg. 1, Sch. 16 para. 28 (with Sch. 16 para. 29) (as amended by S.I. 2020/676, regs. 1(1), 2, [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(f)(iii)(iv)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/f/iii)); 2020 c. 1, Sch. 5 para. 1(1)

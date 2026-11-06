@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Restitution order where goods stolen or obtained by blackmail or fraud[^key-a5c05b5eb01fb6f20098cd9d7a7622eb]
+## 147. Restitution order where goods stolen or obtained by blackmail or fraud[^c-a5c05b5eb01fb6f20098cd9d7a7622eb]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5c05b5eb01fb6f20098cd9d7a7622eb]: Commencement: S. 147 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a5c05b5eb01fb6f20098cd9d7a7622eb]: Commencement: S. 147 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

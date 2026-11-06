@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Territorial jurisdiction[^key-3a19f8bfd843bcc511323682d802cb0f]
+## 40. Territorial jurisdiction[^c-3a19f8bfd843bcc511323682d802cb0f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a19f8bfd843bcc511323682d802cb0f]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2014/18/section/40) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-3a19f8bfd843bcc511323682d802cb0f]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2014/18/section/40) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

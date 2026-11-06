@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Mobile home sites subject to Act[^key-dd0f17c00cd11e0a6cb7a60dfdae78fe]
+## 2. Mobile home sites subject to Act[^c-dd0f17c00cd11e0a6cb7a60dfdae78fe]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd0f17c00cd11e0a6cb7a60dfdae78fe]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2013/6/section/2) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-dd0f17c00cd11e0a6cb7a60dfdae78fe]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2013/6/section/2) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

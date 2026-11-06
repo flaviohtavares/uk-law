@@ -56,7 +56,7 @@ section 174(2) and Schedule 17 come into force on such day as the Scottish Minis
 - (a) sections 95, 98(2), 99(2) and (3), 100, 101 and 107, and
 - (b) paragraphs 1 and 6 of Schedule 6, and section 109 so far as relating to those paragraphs.
 
-(7A)[^key-a8dde84796286443af02fe2878e3ad09] The following provisions, so far as they extend to Northern Ireland, come into force on such day as the Department of Justice in Northern Ireland may by order appoint—
+(7A)[^c-a8dde84796286443af02fe2878e3ad09] The following provisions, so far as they extend to Northern Ireland, come into force on such day as the Department of Justice in Northern Ireland may by order appoint—
 
 - (a) section 144 so far as it relates to Part 2 of Schedule 10,
 - (b) section 163(1),
@@ -72,10 +72,10 @@ section 174(2) and Schedule 17 come into force on such day as the Scottish Minis
 
 (11) The power conferred by subsection (10) is exercisable by the Scottish Ministers (rather than the Secretary of State) in connection with any provision of this Act which comes into force by order made by the Scottish Ministers.
 
-(12)[^key-06f642ea68b4623574e6ad22fff698c1] The power conferred by subsection (10) is exercisable by the Department of Justice in Northern Ireland (rather than the Secretary of State) in connection with any provision of this Act which comes into force by order made by the Department of Justice.
+(12)[^c-06f642ea68b4623574e6ad22fff698c1] The power conferred by subsection (10) is exercisable by the Department of Justice in Northern Ireland (rather than the Secretary of State) in connection with any provision of this Act which comes into force by order made by the Department of Justice.
 
 ## Annotations
 
-[^key-a8dde84796286443af02fe2878e3ad09]: Textual amendment: [S. 178(7A)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/7A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 15 para. 26(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/15/paragraph/26/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-a8dde84796286443af02fe2878e3ad09]: Textual amendment: [S. 178(7A)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/7A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 15 para. 26(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/15/paragraph/26/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-06f642ea68b4623574e6ad22fff698c1]: Textual amendment: [S. 178(12)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/12) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 15 para. 26(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/15/paragraph/26/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-06f642ea68b4623574e6ad22fff698c1]: Textual amendment: [S. 178(12)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/12) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 15 para. 26(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/15/paragraph/26/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

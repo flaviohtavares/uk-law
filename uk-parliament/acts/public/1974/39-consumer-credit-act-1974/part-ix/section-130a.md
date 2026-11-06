@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130A. Interest payable on judgment debts etc.[^key-34510d6efe48d752c65d1ba233b45468][^c18853311]
+## 130A. Interest payable on judgment debts etc.[^c-34510d6efe48d752c65d1ba233b45468][^c18853311]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34510d6efe48d752c65d1ba233b45468]: Modification: [S. 130A](https://www.legislation.gov.uk/ukpga/1974/39/section/130A) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/8) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-34510d6efe48d752c65d1ba233b45468]: Modification: [S. 130A](https://www.legislation.gov.uk/ukpga/1974/39/section/130A) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/8) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c18853311]: Textual amendment: S. 130A and preceding cross-heading inserted (16.6.2006 for certain purposes and otherwise 1.10.2008) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {17}, 71(2) (with Sch. 3 para. 13); [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1); [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

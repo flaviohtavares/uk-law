@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Period for which offer valid following a review[^key-784167036786f3c07ca06ac91d4eacd4]
+## 58. Period for which offer valid following a review[^c-784167036786f3c07ca06ac91d4eacd4]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-784167036786f3c07ca06ac91d4eacd4]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2021/15/section/58) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-784167036786f3c07ca06ac91d4eacd4]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2021/15/section/58) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

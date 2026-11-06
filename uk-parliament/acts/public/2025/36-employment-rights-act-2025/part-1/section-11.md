@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Statutory sick pay in Great Britain: lower earnings limit etc[^key-368a7523d7281d5853f10afc66beacfa][^key-e259e1e8c5590001d85c9a500866f199]
+## 11. Statutory sick pay in Great Britain: lower earnings limit etc[^c-368a7523d7281d5853f10afc66beacfa][^c-e259e1e8c5590001d85c9a500866f199]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-368a7523d7281d5853f10afc66beacfa]: Commencement: S. 11 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-368a7523d7281d5853f10afc66beacfa]: Commencement: S. 11 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-e259e1e8c5590001d85c9a500866f199]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/11) in force at 6.4.2026 by [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4), [5](https://www.legislation.gov.uk/uksi/2026/373/regulation/5))
+[^c-e259e1e8c5590001d85c9a500866f199]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/11) in force at 6.4.2026 by [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4), [5](https://www.legislation.gov.uk/uksi/2026/373/regulation/5))

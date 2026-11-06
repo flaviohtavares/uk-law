@@ -40,7 +40,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ### Low or no reasonable expectation of privacy
 
-#### 1. Requirement for authorisation[^key-8c48c42b37abf870b87c238b1955a49d][^key-e46034b941c6e6786039d22d052a0e18]
+#### 1. Requirement for authorisation[^c-8c48c42b37abf870b87c238b1955a49d][^c-e46034b941c6e6786039d22d052a0e18]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -122,7 +122,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
     >
     > - (b) decide to grant an individual authorisation under Part 7A.
 
-#### 2. Low or no reasonable expectation of privacy[^key-4791ed68c10fdf48b7fb8339c8a9dae9][^key-da6aba9c0901cc95e3a45677e6ee0e3e]
+#### 2. Low or no reasonable expectation of privacy[^c-4791ed68c10fdf48b7fb8339c8a9dae9][^c-da6aba9c0901cc95e3a45677e6ee0e3e]
 
 After Part 7 of the Investigatory Powers Act 2016 insert—
 
@@ -393,7 +393,7 @@ After Part 7 of the Investigatory Powers Act 2016 insert—
 
 ### Bulk personal dataset warrants
 
-#### 3. Duration of bulk personal dataset warrants[^key-51c2de3e27cc6340c221e84e1099d45f][^key-57d23f27348af624c01778e6a2ba6ced]
+#### 3. Duration of bulk personal dataset warrants[^c-51c2de3e27cc6340c221e84e1099d45f][^c-57d23f27348af624c01778e6a2ba6ced]
 
 (1) In section 213 of the Investigatory Powers Act 2016 (duration of warrants), in subsection (2)(b), for “6 months” substitute “12 months”.
 
@@ -401,7 +401,7 @@ After Part 7 of the Investigatory Powers Act 2016 insert—
 
 (3) In subsection (2) “**warrant**” has the same meaning as in section 213(2)(b) of that Act.
 
-#### 4. Agency head functions[^key-60365e875b389f5cca80bb1423eb26ef][^key-b3d503f072b068c19e8110f1f0ba08a2]
+#### 4. Agency head functions[^c-60365e875b389f5cca80bb1423eb26ef][^c-b3d503f072b068c19e8110f1f0ba08a2]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -454,7 +454,7 @@ After Part 7 of the Investigatory Powers Act 2016 insert—
 
 ### Third party bulk personal datasets
 
-#### 5. Third party bulk personal datasets[^key-ffb1e0190376afe13ae9ed8a412704ce][^key-175d5f410af3411c05323312e373355f][^key-893a68ed7e4f55108759cedbce8d3b10]
+#### 5. Third party bulk personal datasets[^c-ffb1e0190376afe13ae9ed8a412704ce][^c-175d5f410af3411c05323312e373355f][^c-893a68ed7e4f55108759cedbce8d3b10]
 
 After Part 7A of the Investigatory Powers Act 2016 (as inserted by section 2) insert—
 
@@ -827,7 +827,7 @@ After Part 7A of the Investigatory Powers Act 2016 (as inserted by section 2) in
 
 ### Minor and consequential amendments
 
-#### 6. Minor and consequential amendments[^key-d6229bf9b16ca33283f4bdc9c9e7ef84][^key-c0dd9ee32b92f2664850641eb7a8cc7c]
+#### 6. Minor and consequential amendments[^c-d6229bf9b16ca33283f4bdc9c9e7ef84][^c-c0dd9ee32b92f2664850641eb7a8cc7c]
 
 (1) The Investigatory Powers Act 2016 is amended in accordance with subsections (2) to (4).
 
@@ -879,7 +879,7 @@ After Part 7A of the Investigatory Powers Act 2016 (as inserted by section 2) in
 
 ## Part 2 — Oversight arrangements
 
-### 7. Deputy Investigatory Powers Commissioners[^key-2d8ba81e08640880510fb4fc13089e01][^key-a3f7dd394ed2b48f42c31816796afd64]
+### 7. Deputy Investigatory Powers Commissioners[^c-2d8ba81e08640880510fb4fc13089e01][^c-a3f7dd394ed2b48f42c31816796afd64]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -911,7 +911,7 @@ After Part 7A of the Investigatory Powers Act 2016 (as inserted by section 2) in
 
 .
 
-### 8. Delegation of functions[^key-fe2823d0ed2e2208eee2522e098beaf8][^key-0eca5a8a556f0c4c518c65b03bb146cd]
+### 8. Delegation of functions[^c-fe2823d0ed2e2208eee2522e098beaf8][^c-0eca5a8a556f0c4c518c65b03bb146cd]
 
 (1) Section 227 of the Investigatory Powers Act 2016 (Investigatory Powers Commissioner and other Judicial Commissioners) is amended in accordance with subsections (2) to (6).
 
@@ -967,7 +967,7 @@ After Part 7A of the Investigatory Powers Act 2016 (as inserted by section 2) in
 
 (7) In section 238(6)(a) of the Investigatory Powers Act 2016 (funding, staff and facilities etc), after “section”, in the second place it occurs, insert “227(6A), 228A(2) or”.
 
-### 9. Temporary Judicial Commissioners[^key-4e84522be1bed9f8b5026e91d1e38516][^key-6747d5ac3abddbc015f127c916e4fe43]
+### 9. Temporary Judicial Commissioners[^c-4e84522be1bed9f8b5026e91d1e38516][^c-6747d5ac3abddbc015f127c916e4fe43]
 
 After section 228 of the Investigatory Powers Act 2016 (but before the italic heading before section 229) insert—
 
@@ -1000,7 +1000,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 >
 > (8) In this section “**Judicial Commissioner functions**” means the functions conferred on Judicial Commissioners by any enactment (including this Act).
 
-### 10. Main functions of the Investigatory Powers Commissioner[^key-4afc8b1241703a552a120673e48ac763][^key-895dd2d3508a7f86ce316b8151ddf378]
+### 10. Main functions of the Investigatory Powers Commissioner[^c-4afc8b1241703a552a120673e48ac763][^c-895dd2d3508a7f86ce316b8151ddf378]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -1037,7 +1037,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
   > - (c) the Regulation of Investigatory Powers Act 2000, or
   > - (d) the Regulation of Investigatory Powers (Scotland) Act 2000.
 
-### 11. Personal data breaches[^key-3379aa5d5f53908a626cad62a834e856][^key-7bfdbd330a7dfe5d39313535f752fec3]
+### 11. Personal data breaches[^c-3379aa5d5f53908a626cad62a834e856][^c-7bfdbd330a7dfe5d39313535f752fec3]
 
 (1) In the Investigatory Powers Act 2016, after section 235 insert—
 
@@ -1135,7 +1135,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 
 ### Communications data
 
-#### 12. Offence of unlawfully obtaining communications data[^key-9dc30074d09f2ea7f02065baac08f581][^key-eccac573c8fb8d83d336cf26ce9878fe]
+#### 12. Offence of unlawfully obtaining communications data[^c-9dc30074d09f2ea7f02065baac08f581][^c-eccac573c8fb8d83d336cf26ce9878fe]
 
 (1) Section 11 of the Investigatory Powers Act 2016 (offence of unlawfully obtaining communications data) is amended in accordance with subsections (2) and (3).
 
@@ -1170,7 +1170,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 
 (5) The amendments made by subsections (1) to (3) have effect only in relation to the obtaining of communications data after this section comes into force.
 
-#### 13. Meaning of “communications data”: subscriber details[^key-eb3a878012fe4b1474204207fcec5c77][^key-23a0653268c0415e4536ae299059e781]
+#### 13. Meaning of “communications data”: subscriber details[^c-eb3a878012fe4b1474204207fcec5c77][^c-23a0653268c0415e4536ae299059e781]
 
 (1) Section 261 of the Investigatory Powers Act 2016 (telecommunications definitions) is amended as follows.
 
@@ -1185,7 +1185,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 > - (a) constitutes any or all of the content of a communication made for the purpose of initiating or maintaining an entity’s access to a telecommunications service, and
 > - (b) is about an entity to which that telecommunications service is (or is to be) provided.
 
-#### 14. Powers to obtain communications data[^key-f1713112ce66ecbccac9b2d013c8ebc7][^key-0db0e1cbb5352ca9bd53dddef269837c]
+#### 14. Powers to obtain communications data[^c-f1713112ce66ecbccac9b2d013c8ebc7][^c-0db0e1cbb5352ca9bd53dddef269837c]
 
 (1) Section 12 of the Investigatory Powers Act 2016 (abolition or restriction of certain powers to obtain communications data) is amended in accordance with subsections (2) to (6).
 
@@ -1261,7 +1261,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 
 ### Internet connection records
 
-#### 15. Internet connection records[^key-6420159049ebfdef617d68d08a76e7fb][^key-3a542ffead11f59b67d7dfb06cf0aadf]
+#### 15. Internet connection records[^c-6420159049ebfdef617d68d08a76e7fb][^c-3a542ffead11f59b67d7dfb06cf0aadf]
 
 (1) Section 62 of the Investigatory Powers Act 2016 (restrictions in relation to internet connection records) is amended as follows.
 
@@ -1300,7 +1300,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 
 ### Retention notices
 
-#### 16. Powers to require retention of certain data[^key-5be19319b2b71c778e30d058827a2c33][^key-7b4c806b61614dfa5b672310ebf71a0b]
+#### 16. Powers to require retention of certain data[^c-5be19319b2b71c778e30d058827a2c33][^c-7b4c806b61614dfa5b672310ebf71a0b]
 
 (1) Section 87 of the Investigatory Powers Act 2016 (powers to require retention of certain data) is amended as follows.
 
@@ -1323,7 +1323,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 - (a) for “and” substitute “(and”;
 - (b) for “records” substitute “records)”.
 
-#### 17. Extra-territorial enforcement of retention notices etc[^key-8f30797b0868f7c9f4b5420054ca3871][^key-7971804ddc7a4a6fe57e25aa0d68b2cd]
+#### 17. Extra-territorial enforcement of retention notices etc[^c-8f30797b0868f7c9f4b5420054ca3871][^c-7971804ddc7a4a6fe57e25aa0d68b2cd]
 
 (1) Part 4 of the Investigatory Powers Act 2016 is amended as follows.
 
@@ -1333,7 +1333,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 
 ### Retention, national security and technical capability notices
 
-#### 18. Review of notices by the Secretary of State[^key-3e6bf03ec2a066d22bd65e31ff7c4874][^key-0d441ffab77fec3a1b7686674e1ade82]
+#### 18. Review of notices by the Secretary of State[^c-3e6bf03ec2a066d22bd65e31ff7c4874][^c-0d441ffab77fec3a1b7686674e1ade82]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -1458,7 +1458,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 - (a) in paragraph (e), after “90(1)” insert “, (5A)(a) or (11A)(a)”;
 - (b) in paragraph (j), after “257(1)” insert “, (4A)(a) or (10A)(a)”.
 
-#### 19. Meaning of “telecommunications operator” etc[^key-9bf6a9ef391c566c04407b64c1bf6a44][^key-7cca993ef16f4dc0d45fbff59534ca61]
+#### 19. Meaning of “telecommunications operator” etc[^c-9bf6a9ef391c566c04407b64c1bf6a44][^c-7cca993ef16f4dc0d45fbff59534ca61]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -1480,7 +1480,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
   - (ii) for “the operator”, in the second place it occurs, substitute “such operator”;
 - (b) in subsection (2)(a), after “operator” insert “(to whom the notice is given)”.
 
-#### 20. Renewal of notices[^key-8340718e13e1f4bd50e1b4156b934870][^key-785c18dd4286967174f634a9339f87b5]
+#### 20. Renewal of notices[^c-8340718e13e1f4bd50e1b4156b934870][^c-785c18dd4286967174f634a9339f87b5]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -1567,7 +1567,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 
 ### Notification of proposed changes to telecommunications services etc
 
-#### 21. Notification of proposed changes to telecommunications services etc[^key-1d0d196936f5a8db5e2be5b74b2236d9][^key-47ac2989bdf5ef128c0e4c5a97d7595d]
+#### 21. Notification of proposed changes to telecommunications services etc[^c-1d0d196936f5a8db5e2be5b74b2236d9][^c-47ac2989bdf5ef128c0e4c5a97d7595d]
 
 (1) The Investigatory Powers Act 2016 is amended in accordance with subsections (2) and (3).
 
@@ -1676,7 +1676,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 
 ### Members of Parliament etc
 
-#### 22. Interception and examination of communications: Members of Parliament etc[^key-326493802948ae2a4d58b2d247bb331c][^key-5ac8d6a0fedadc8e727c37b07bd15456]
+#### 22. Interception and examination of communications: Members of Parliament etc[^c-326493802948ae2a4d58b2d247bb331c][^c-5ac8d6a0fedadc8e727c37b07bd15456]
 
 (1) Section 26 of the Investigatory Powers Act 2016 (interception and examination of communications: Members of Parliament etc) is amended as follows.
 
@@ -1709,7 +1709,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 >
 > (2F) In this section “**senior official**” means a member of the Senior Civil Service or a member of the Senior Management Structure of His Majesty’s Diplomatic Service.
 
-#### 23. Equipment interference: Members of Parliament etc[^key-06167a2ceba46707456fa24c9cd76ec2][^key-b6b19b066dd509f3dfcb8c779945b2e6]
+#### 23. Equipment interference: Members of Parliament etc[^c-06167a2ceba46707456fa24c9cd76ec2][^c-b6b19b066dd509f3dfcb8c779945b2e6]
 
 (1) Section 111 of the Investigatory Powers Act 2016 (equipment interference: Members of Parliament etc) is amended as follows.
 
@@ -1751,7 +1751,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 
 ### Equipment interference
 
-#### 24. Issue of equipment interference warrants[^key-1466617fda12f4d11c906a1d23c8d495][^key-3b96459d13826d06c64b257c6df4a7cc]
+#### 24. Issue of equipment interference warrants[^c-1466617fda12f4d11c906a1d23c8d495][^c-3b96459d13826d06c64b257c6df4a7cc]
 
 (1) Part 1 of the table in Schedule 6 to the Investigatory Powers Act 2016 (issue of warrants under section 106 etc) is amended in accordance with subsections (2) and (3).
 
@@ -1770,7 +1770,7 @@ After section 228 of the Investigatory Powers Act 2016 (but before the italic he
 - (a) after “General”, in the first place it occurs, insert “or a Deputy Director General”;
 - (b) after “General”, in the second place it occurs, insert “or the Deputy Director General (as the case may be)”.
 
-#### 25. Modification of equipment interference warrants[^key-c8da6cda9bf42f62ea6577c83c33b73c][^key-dd3adb899bf7af7438f55468aa40302f]
+#### 25. Modification of equipment interference warrants[^c-c8da6cda9bf42f62ea6577c83c33b73c][^c-dd3adb899bf7af7438f55468aa40302f]
 
 In section 121 of the Investigatory Powers Act 2016 (notification of modifications), after subsection (3) insert—
 
@@ -1779,7 +1779,7 @@ In section 121 of the Investigatory Powers Act 2016 (notification of modificatio
 > - (a) is made in accordance with section 119(1), and
 > - (b) is to remove any matter, name or description included in the warrant in accordance with section 115(3) to (5).
 
-#### 26. Issue of targeted examination warrants to intelligence services[^key-55aa316c2c26995b0ed80f371702250f][^key-6b57eadbf302340c741c6ebbeea03d7d]
+#### 26. Issue of targeted examination warrants to intelligence services[^c-55aa316c2c26995b0ed80f371702250f][^c-6b57eadbf302340c741c6ebbeea03d7d]
 
 In section 102 of the Investigatory Powers Act 2016 (power to issue warrants to intelligence services: the Secretary of State), for subsection (4) substitute—
 
@@ -1790,7 +1790,7 @@ In section 102 of the Investigatory Powers Act 2016 (power to issue warrants to 
 >
 > For the power of the Scottish Ministers to issue a targeted examination warrant, see section 103.
 
-#### 27. Bulk equipment interference: safeguards for confidential journalistic material etc[^key-3a6c09c9045db078cb1f6bed81f3cb5e][^key-b9617bb180e5ab71d3cbf52cad43a243]
+#### 27. Bulk equipment interference: safeguards for confidential journalistic material etc[^c-3a6c09c9045db078cb1f6bed81f3cb5e][^c-b9617bb180e5ab71d3cbf52cad43a243]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -1874,7 +1874,7 @@ In section 102 of the Investigatory Powers Act 2016 (power to issue warrants to 
 
 ### Exclusion of matters from legal proceedings etc: exceptions
 
-#### 28. Exclusion of matters from legal proceedings etc: exceptions[^key-2212c95a42ed60fb8fc6d18a2d729773][^key-7ee938e46126c0abbb2ac1843daa308c]
+#### 28. Exclusion of matters from legal proceedings etc: exceptions[^c-2212c95a42ed60fb8fc6d18a2d729773][^c-7ee938e46126c0abbb2ac1843daa308c]
 
 (1) Schedule 3 to the Investigatory Powers Act 2016 (exceptions to section 56) is amended as follows.
 
@@ -1958,7 +1958,7 @@ In section 102 of the Investigatory Powers Act 2016 (power to issue warrants to 
 
 ### Freedom of information
 
-#### 29. Freedom of information: bodies dealing with security matters[^key-6db8228dcd79b9a44a51d793f8b79d7e][^key-fd0a0ed2c11290e60c0f481550f20d6d]
+#### 29. Freedom of information: bodies dealing with security matters[^c-6db8228dcd79b9a44a51d793f8b79d7e][^c-fd0a0ed2c11290e60c0f481550f20d6d]
 
 In section 23(3) of the Freedom of Information Act 2000 (information supplied by, or relating to, bodies dealing with security matters), after paragraph (o) insert—
 
@@ -1966,7 +1966,7 @@ In section 23(3) of the Freedom of Information Act 2000 (information supplied by
 
 ## Part 6 — General
 
-### 30. Power to make consequential provision[^key-a99742345cfaa2369fb743a2d00cb266]
+### 30. Power to make consequential provision[^c-a99742345cfaa2369fb743a2d00cb266]
 
 (1) The Secretary of State may by regulations made by statutory instrument make provision that is consequential on this Act.
 
@@ -1976,7 +1976,7 @@ In section 23(3) of the Freedom of Information Act 2000 (information supplied by
 
 (4) Any other statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 31. Extent[^key-97720f978622d8ca2418e3dd9e9cc1a0]
+### 31. Extent[^c-97720f978622d8ca2418e3dd9e9cc1a0]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland, subject as follows.
 
@@ -1984,7 +1984,7 @@ In section 23(3) of the Freedom of Information Act 2000 (information supplied by
 
 (3) The power under section 272(6) of the Investigatory Powers Act 2016 may be exercised so as to extend to the Isle of Man or any of the British overseas territories any amendment or repeal made by or under this Act of any part of that Act (with or without modifications).
 
-### 32. Commencement.[^key-c8431595e46c7d7fdda6da45baab929f]
+### 32. Commencement.[^c-c8431595e46c7d7fdda6da45baab929f]
 
 (1) This Part comes into force on the day on which this Act is passed.
 
@@ -1996,7 +1996,7 @@ In section 23(3) of the Freedom of Information Act 2000 (information supplied by
 
 (5) The power to make regulations under subsection (4) includes power to make different provision for different purposes.
 
-### 33. Short title[^key-0f098daea60ea47905020d488202e23f]
+### 33. Short title[^c-0f098daea60ea47905020d488202e23f]
 
 This Act may be cited as the Investigatory Powers (Amendment) Act 2024.
 
@@ -2006,178 +2006,178 @@ Section 14
 
 ### Part 1 — Restoration of disclosure powers
 
-#### 1. Health and Safety at Work etc Act 1974[^key-17ef5fc7066675204d18f836fd7ae8b2][^key-627cc8faae1ab57991321f19bd55a08b]
+#### 1. Health and Safety at Work etc Act 1974[^c-17ef5fc7066675204d18f836fd7ae8b2][^c-627cc8faae1ab57991321f19bd55a08b]
 
 In section 20 of the Health and Safety at Work etc Act 1974 (powers of inspectors), omit subsections (9) and (10).
 
-#### 2. Criminal Justice Act 1987[^key-54714aa814c69c4de88b76000b414318][^key-08f1cb82075e0106c8777dbb1763bf77]
+#### 2. Criminal Justice Act 1987[^c-54714aa814c69c4de88b76000b414318][^c-08f1cb82075e0106c8777dbb1763bf77]
 
 In section 2 of the Criminal Justice Act 1987 (investigation of powers of the Director of Serious Fraud Office), omit subsections (10A) and (10B).
 
-#### 3. Consumer Protection Act 1987[^key-de160b04acf6f2a6d2473452d25888c8][^key-b069966f0ff32ad244e47688340d26d8]
+#### 3. Consumer Protection Act 1987[^c-de160b04acf6f2a6d2473452d25888c8][^c-b069966f0ff32ad244e47688340d26d8]
 
 In section 29 of the Consumer Protection Act 1987 (powers of search etc), omit subsections (8) and (9).
 
-#### 4. Environmental Protection Act 1990[^key-1bb4a2a83f66e4a1eaa4c705694c5023][^key-58d4f6bcac5433635cc042f2242d56df]
+#### 4. Environmental Protection Act 1990[^c-1bb4a2a83f66e4a1eaa4c705694c5023][^c-58d4f6bcac5433635cc042f2242d56df]
 
 In section 71 of the Environmental Protection Act 1990 (obtaining of information from persons and authorities), omit subsections (5) and (6).
 
-#### 5. Financial Services and Markets Act 2000[^key-6f2c6927b0c485ba26b4a1bc6e739a4e][^key-93957a724bfd35346d65df4b753d81e7]
+#### 5. Financial Services and Markets Act 2000[^c-6f2c6927b0c485ba26b4a1bc6e739a4e][^c-93957a724bfd35346d65df4b753d81e7]
 
 In section 175 of the Financial Services and Markets Act 2000 (information gathering and investigations: supplemental provision), omit subsections (5A) and (5B).
 
 ### Part 2 — Consequential amendments
 
-**6.**[^key-f4079f3ebaeeb47f04eb69a59e2a15d6][^key-a8f6b130de957cbe9ec4d93a2673166d] In consequence of paragraphs 1 to 5 omit paragraphs 1 to 4 and 9 of Schedule 2 to the Investigatory Powers Act 2016 (abolition of disclosure powers).
+**6.**[^c-f4079f3ebaeeb47f04eb69a59e2a15d6][^c-a8f6b130de957cbe9ec4d93a2673166d] In consequence of paragraphs 1 to 5 omit paragraphs 1 to 4 and 9 of Schedule 2 to the Investigatory Powers Act 2016 (abolition of disclosure powers).
 
 ## Annotations
 
-[^key-8c48c42b37abf870b87c238b1955a49d]: Commencement: S. 1 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-8c48c42b37abf870b87c238b1955a49d]: Commencement: S. 1 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-e46034b941c6e6786039d22d052a0e18]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/9/section/1) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/a)
+[^c-e46034b941c6e6786039d22d052a0e18]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/9/section/1) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/a)
 
-[^key-4791ed68c10fdf48b7fb8339c8a9dae9]: Commencement: S. 2 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-4791ed68c10fdf48b7fb8339c8a9dae9]: Commencement: S. 2 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-da6aba9c0901cc95e3a45677e6ee0e3e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/9/section/2) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/b)
+[^c-da6aba9c0901cc95e3a45677e6ee0e3e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/9/section/2) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/b)
 
-[^key-51c2de3e27cc6340c221e84e1099d45f]: Commencement: S. 3 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-51c2de3e27cc6340c221e84e1099d45f]: Commencement: S. 3 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-57d23f27348af624c01778e6a2ba6ced]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/9/section/3) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/c)
+[^c-57d23f27348af624c01778e6a2ba6ced]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2024/9/section/3) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/c)
 
-[^key-60365e875b389f5cca80bb1423eb26ef]: Commencement: S. 4 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-60365e875b389f5cca80bb1423eb26ef]: Commencement: S. 4 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-b3d503f072b068c19e8110f1f0ba08a2]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/9/section/4) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/d)
+[^c-b3d503f072b068c19e8110f1f0ba08a2]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/9/section/4) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/d)
 
-[^key-ffb1e0190376afe13ae9ed8a412704ce]: Commencement: S. 5 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-ffb1e0190376afe13ae9ed8a412704ce]: Commencement: S. 5 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-175d5f410af3411c05323312e373355f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/9/section/5) in force at 14.10.2024 for specified purposes by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/e)
+[^c-175d5f410af3411c05323312e373355f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/9/section/5) in force at 14.10.2024 for specified purposes by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/e)
 
-[^key-893a68ed7e4f55108759cedbce8d3b10]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/9/section/5) in force at 25.4.2025 in so far as not already in force by [S.I. 2025/501](https://www.legislation.gov.uk/uksi/2025/501), [reg. 2](https://www.legislation.gov.uk/uksi/2025/501/regulation/2)
+[^c-893a68ed7e4f55108759cedbce8d3b10]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2024/9/section/5) in force at 25.4.2025 in so far as not already in force by [S.I. 2025/501](https://www.legislation.gov.uk/uksi/2025/501), [reg. 2](https://www.legislation.gov.uk/uksi/2025/501/regulation/2)
 
-[^key-d6229bf9b16ca33283f4bdc9c9e7ef84]: Commencement: S. 6 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-d6229bf9b16ca33283f4bdc9c9e7ef84]: Commencement: S. 6 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-c0dd9ee32b92f2664850641eb7a8cc7c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2024/9/section/6) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/f)
+[^c-c0dd9ee32b92f2664850641eb7a8cc7c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2024/9/section/6) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/f)
 
-[^key-2d8ba81e08640880510fb4fc13089e01]: Commencement: S. 7 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-2d8ba81e08640880510fb4fc13089e01]: Commencement: S. 7 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-a3f7dd394ed2b48f42c31816796afd64]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2024/9/section/7) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)
+[^c-a3f7dd394ed2b48f42c31816796afd64]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2024/9/section/7) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)
 
-[^key-fe2823d0ed2e2208eee2522e098beaf8]: Commencement: S. 8 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-fe2823d0ed2e2208eee2522e098beaf8]: Commencement: S. 8 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-0eca5a8a556f0c4c518c65b03bb146cd]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2024/9/section/8) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
+[^c-0eca5a8a556f0c4c518c65b03bb146cd]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2024/9/section/8) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
 
-[^key-4e84522be1bed9f8b5026e91d1e38516]: Commencement: S. 9 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-4e84522be1bed9f8b5026e91d1e38516]: Commencement: S. 9 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-6747d5ac3abddbc015f127c916e4fe43]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2024/9/section/9) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/i)
+[^c-6747d5ac3abddbc015f127c916e4fe43]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2024/9/section/9) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/i)
 
-[^key-4afc8b1241703a552a120673e48ac763]: Commencement: S. 10 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-4afc8b1241703a552a120673e48ac763]: Commencement: S. 10 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-895dd2d3508a7f86ce316b8151ddf378]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2024/9/section/10) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/j)
+[^c-895dd2d3508a7f86ce316b8151ddf378]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2024/9/section/10) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/j)
 
-[^key-3379aa5d5f53908a626cad62a834e856]: Commencement: S. 11 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-3379aa5d5f53908a626cad62a834e856]: Commencement: S. 11 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-7bfdbd330a7dfe5d39313535f752fec3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/9/section/11) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/k)
+[^c-7bfdbd330a7dfe5d39313535f752fec3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2024/9/section/11) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/k)
 
-[^key-9dc30074d09f2ea7f02065baac08f581]: Commencement: S. 12 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-9dc30074d09f2ea7f02065baac08f581]: Commencement: S. 12 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-eccac573c8fb8d83d336cf26ce9878fe]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2024/9/section/12) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/l)
+[^c-eccac573c8fb8d83d336cf26ce9878fe]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2024/9/section/12) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/l)
 
-[^key-eb3a878012fe4b1474204207fcec5c77]: Commencement: S. 13 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-eb3a878012fe4b1474204207fcec5c77]: Commencement: S. 13 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-23a0653268c0415e4536ae299059e781]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2024/9/section/13) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/m)
+[^c-23a0653268c0415e4536ae299059e781]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2024/9/section/13) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/m)
 
-[^key-f1713112ce66ecbccac9b2d013c8ebc7]: Commencement: S. 14 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-f1713112ce66ecbccac9b2d013c8ebc7]: Commencement: S. 14 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-0db0e1cbb5352ca9bd53dddef269837c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2024/9/section/14) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/n)
+[^c-0db0e1cbb5352ca9bd53dddef269837c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2024/9/section/14) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/n)
 
-[^key-6420159049ebfdef617d68d08a76e7fb]: Commencement: S. 15 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-6420159049ebfdef617d68d08a76e7fb]: Commencement: S. 15 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-3a542ffead11f59b67d7dfb06cf0aadf]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2024/9/section/15) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/o)
+[^c-3a542ffead11f59b67d7dfb06cf0aadf]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2024/9/section/15) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/o)
 
-[^key-5be19319b2b71c778e30d058827a2c33]: Commencement: S. 16 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-5be19319b2b71c778e30d058827a2c33]: Commencement: S. 16 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-7b4c806b61614dfa5b672310ebf71a0b]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2024/9/section/16) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
+[^c-7b4c806b61614dfa5b672310ebf71a0b]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2024/9/section/16) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
 
-[^key-8f30797b0868f7c9f4b5420054ca3871]: Commencement: S. 17 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-8f30797b0868f7c9f4b5420054ca3871]: Commencement: S. 17 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-7971804ddc7a4a6fe57e25aa0d68b2cd]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2024/9/section/17) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/q)
+[^c-7971804ddc7a4a6fe57e25aa0d68b2cd]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2024/9/section/17) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/q)
 
-[^key-3e6bf03ec2a066d22bd65e31ff7c4874]: Commencement: S. 18 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-3e6bf03ec2a066d22bd65e31ff7c4874]: Commencement: S. 18 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-0d441ffab77fec3a1b7686674e1ade82]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2024/9/section/18) in force at 20.6.2025 by [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/a)
+[^c-0d441ffab77fec3a1b7686674e1ade82]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2024/9/section/18) in force at 20.6.2025 by [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/a)
 
-[^key-9bf6a9ef391c566c04407b64c1bf6a44]: Commencement: S. 19 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-9bf6a9ef391c566c04407b64c1bf6a44]: Commencement: S. 19 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-7cca993ef16f4dc0d45fbff59534ca61]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/9/section/19) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/r)
+[^c-7cca993ef16f4dc0d45fbff59534ca61]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/9/section/19) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/r)
 
-[^key-8340718e13e1f4bd50e1b4156b934870]: Commencement: S. 20 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-8340718e13e1f4bd50e1b4156b934870]: Commencement: S. 20 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-785c18dd4286967174f634a9339f87b5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2024/9/section/20) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))
+[^c-785c18dd4286967174f634a9339f87b5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2024/9/section/20) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))
 
-[^key-1d0d196936f5a8db5e2be5b74b2236d9]: Commencement: S. 21 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-1d0d196936f5a8db5e2be5b74b2236d9]: Commencement: S. 21 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-47ac2989bdf5ef128c0e4c5a97d7595d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2024/9/section/21) in force at 20.6.2025 by [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/b)
+[^c-47ac2989bdf5ef128c0e4c5a97d7595d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2024/9/section/21) in force at 20.6.2025 by [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/b)
 
-[^key-326493802948ae2a4d58b2d247bb331c]: Commencement: S. 22 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-326493802948ae2a4d58b2d247bb331c]: Commencement: S. 22 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-5ac8d6a0fedadc8e727c37b07bd15456]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2024/9/section/22) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/t)
+[^c-5ac8d6a0fedadc8e727c37b07bd15456]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2024/9/section/22) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/t)
 
-[^key-06167a2ceba46707456fa24c9cd76ec2]: Commencement: S. 23 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-06167a2ceba46707456fa24c9cd76ec2]: Commencement: S. 23 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-b6b19b066dd509f3dfcb8c779945b2e6]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2024/9/section/23) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/u)
+[^c-b6b19b066dd509f3dfcb8c779945b2e6]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2024/9/section/23) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/u)
 
-[^key-1466617fda12f4d11c906a1d23c8d495]: Commencement: S. 24 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-1466617fda12f4d11c906a1d23c8d495]: Commencement: S. 24 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-3b96459d13826d06c64b257c6df4a7cc]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2024/9/section/24) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/v)
+[^c-3b96459d13826d06c64b257c6df4a7cc]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2024/9/section/24) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/v)
 
-[^key-c8da6cda9bf42f62ea6577c83c33b73c]: Commencement: S. 25 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-c8da6cda9bf42f62ea6577c83c33b73c]: Commencement: S. 25 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-dd3adb899bf7af7438f55468aa40302f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2024/9/section/25) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/w)
+[^c-dd3adb899bf7af7438f55468aa40302f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2024/9/section/25) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/w)
 
-[^key-55aa316c2c26995b0ed80f371702250f]: Commencement: S. 26 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-55aa316c2c26995b0ed80f371702250f]: Commencement: S. 26 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-6b57eadbf302340c741c6ebbeea03d7d]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2024/9/section/26) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/x)
+[^c-6b57eadbf302340c741c6ebbeea03d7d]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2024/9/section/26) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/x)
 
-[^key-3a6c09c9045db078cb1f6bed81f3cb5e]: Commencement: S. 27 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-3a6c09c9045db078cb1f6bed81f3cb5e]: Commencement: S. 27 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-b9617bb180e5ab71d3cbf52cad43a243]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2024/9/section/27) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/y)
+[^c-b9617bb180e5ab71d3cbf52cad43a243]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2024/9/section/27) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/y)
 
-[^key-2212c95a42ed60fb8fc6d18a2d729773]: Commencement: S. 28 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-2212c95a42ed60fb8fc6d18a2d729773]: Commencement: S. 28 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-7ee938e46126c0abbb2ac1843daa308c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2024/9/section/28) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/z)
+[^c-7ee938e46126c0abbb2ac1843daa308c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2024/9/section/28) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/z)
 
-[^key-6db8228dcd79b9a44a51d793f8b79d7e]: Commencement: S. 29 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-6db8228dcd79b9a44a51d793f8b79d7e]: Commencement: S. 29 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-fd0a0ed2c11290e60c0f481550f20d6d]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2024/9/section/29) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/aa)
+[^c-fd0a0ed2c11290e60c0f481550f20d6d]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2024/9/section/29) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/aa)
 
-[^key-a99742345cfaa2369fb743a2d00cb266]: Commencement: S. 30 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/1)
+[^c-a99742345cfaa2369fb743a2d00cb266]: Commencement: S. 30 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/1)
 
-[^key-97720f978622d8ca2418e3dd9e9cc1a0]: Commencement: S. 31 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/1)
+[^c-97720f978622d8ca2418e3dd9e9cc1a0]: Commencement: S. 31 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/1)
 
-[^key-c8431595e46c7d7fdda6da45baab929f]: Commencement: S. 32 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/1)
+[^c-c8431595e46c7d7fdda6da45baab929f]: Commencement: S. 32 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/1)
 
-[^key-0f098daea60ea47905020d488202e23f]: Commencement: S. 33 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/1)
+[^c-0f098daea60ea47905020d488202e23f]: Commencement: S. 33 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/1)
 
-[^key-17ef5fc7066675204d18f836fd7ae8b2]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-17ef5fc7066675204d18f836fd7ae8b2]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-627cc8faae1ab57991321f19bd55a08b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/1) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
+[^c-627cc8faae1ab57991321f19bd55a08b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/1) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
 
-[^key-54714aa814c69c4de88b76000b414318]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-54714aa814c69c4de88b76000b414318]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-08f1cb82075e0106c8777dbb1763bf77]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/2) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
+[^c-08f1cb82075e0106c8777dbb1763bf77]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/2) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
 
-[^key-de160b04acf6f2a6d2473452d25888c8]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-de160b04acf6f2a6d2473452d25888c8]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-b069966f0ff32ad244e47688340d26d8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/3) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
+[^c-b069966f0ff32ad244e47688340d26d8]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/3) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
 
-[^key-1bb4a2a83f66e4a1eaa4c705694c5023]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-1bb4a2a83f66e4a1eaa4c705694c5023]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-58d4f6bcac5433635cc042f2242d56df]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/4) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
+[^c-58d4f6bcac5433635cc042f2242d56df]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/4) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
 
-[^key-6f2c6927b0c485ba26b4a1bc6e739a4e]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-6f2c6927b0c485ba26b4a1bc6e739a4e]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-93957a724bfd35346d65df4b753d81e7]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/5) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
+[^c-93957a724bfd35346d65df4b753d81e7]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/5) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
 
-[^key-f4079f3ebaeeb47f04eb69a59e2a15d6]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
+[^c-f4079f3ebaeeb47f04eb69a59e2a15d6]: Commencement: Sch. para. 6 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2)
 
-[^key-a8f6b130de957cbe9ec4d93a2673166d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/6) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)
+[^c-a8f6b130de957cbe9ec4d93a2673166d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2024/9/schedule/paragraph/6) in force at 14.10.2024 by [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/bb)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Application of Part 4 to postal operators and postal services[^key-d613f06b4434cdbeaf6e31e0fd26b7ce]
+## 96. Application of Part 4 to postal operators and postal services[^c-d613f06b4434cdbeaf6e31e0fd26b7ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,15 +43,15 @@ summary: ''
   >
   > and which it is reasonably practicable to separate from other data which is subject to the notice.
 
-  , [^key-54062ff47e6bd7dbd06fcc7ff22e552f]...
-- (ea)[^key-df6ebc0a92dfb70287546cee9a8c0ff9] the reference in section 87(10A)(a) to events data were a reference to anything within paragraph (a) or (b) of the definition of “communications data” in section 262(3),
+  , [^c-54062ff47e6bd7dbd06fcc7ff22e552f]...
+- (ea)[^c-df6ebc0a92dfb70287546cee9a8c0ff9] the reference in section 87(10A)(a) to events data were a reference to anything within paragraph (a) or (b) of the definition of “communications data” in section 262(3),
 - (eb) the reference in section 87(10A)(b) to entity data were a reference to anything within paragraph (c) of the definition of “communications data” in section 262(3), and
 - (f) in section 87(11), the words from “and this expression” to the end were omitted.
 
 ## Annotations
 
-[^key-d613f06b4434cdbeaf6e31e0fd26b7ce]: Commencement: S. 96 in force at 1.11.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/a)
+[^c-d613f06b4434cdbeaf6e31e0fd26b7ce]: Commencement: S. 96 in force at 1.11.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/a)
 
-[^key-54062ff47e6bd7dbd06fcc7ff22e552f]: Textual amendment: Word in [s. 96(2)(e)](https://www.legislation.gov.uk/ukpga/2016/25/section/96/2/e) omitted (1.11.2018) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/f), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/23/a)
+[^c-54062ff47e6bd7dbd06fcc7ff22e552f]: Textual amendment: Word in [s. 96(2)(e)](https://www.legislation.gov.uk/ukpga/2016/25/section/96/2/e) omitted (1.11.2018) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/f), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/23/a)
 
-[^key-df6ebc0a92dfb70287546cee9a8c0ff9]: Textual amendment: [S. 96(2)(ea)](https://www.legislation.gov.uk/ukpga/2016/25/section/96/2/ea)[(eb)](https://www.legislation.gov.uk/ukpga/2016/25/section/96/2/eb) inserted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/f), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/23/b)
+[^c-df6ebc0a92dfb70287546cee9a8c0ff9]: Textual amendment: [S. 96(2)(ea)](https://www.legislation.gov.uk/ukpga/2016/25/section/96/2/ea)[(eb)](https://www.legislation.gov.uk/ukpga/2016/25/section/96/2/eb) inserted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/f), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/23/b)

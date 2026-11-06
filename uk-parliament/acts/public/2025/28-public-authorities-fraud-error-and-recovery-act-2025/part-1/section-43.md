@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. The employer’s administrative costs[^key-dddf3f322d850b97587534fed4b1ecb5][^key-090cead234183a31abbf6a1d61dc7617]
+## 43. The employer’s administrative costs[^c-dddf3f322d850b97587534fed4b1ecb5][^c-090cead234183a31abbf6a1d61dc7617]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dddf3f322d850b97587534fed4b1ecb5]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-dddf3f322d850b97587534fed4b1ecb5]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-090cead234183a31abbf6a1d61dc7617]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/28/section/43) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-090cead234183a31abbf6a1d61dc7617]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2025/28/section/43) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

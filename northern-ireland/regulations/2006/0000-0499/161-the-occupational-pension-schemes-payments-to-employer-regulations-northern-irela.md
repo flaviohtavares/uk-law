@@ -43,11 +43,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 1 — Citation, commencement and interpretation
 
-### 1. Citation and commencement[^key-8581f0b62d2beeb1463f7bf629fac07e]
+### 1. Citation and commencement[^c-8581f0b62d2beeb1463f7bf629fac07e]
 
 These Regulations may be cited as the Occupational Pension Schemes (Payments to Employer) Regulations (Northern Ireland) 2006 and shall come into operation on 6<sup>th</sup> April 2006.
 
-### 2. Interpretation[^key-e02ea01377f9b6126dcd0463a2b814a3]
+### 2. Interpretation[^c-e02ea01377f9b6126dcd0463a2b814a3]
 
 (1) In these Regulations—
 
@@ -58,7 +58,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Payments to 
 - “insurance policy” means—
   - (a) in relation to an earmarked scheme a contract on human life or a contract of annuity on human life, and
   - (b) in any other case, a contract on human life or a contract of annuity on human life, but excluding a contract which is linked to investment funds;
-- “[^key-876594228d4fa51d60b8aa658f8bf07a]**money purchase benefits**” has the meaning given by section 176(1) of the Pension Schemes Act (general interpretation);
+- “[^c-876594228d4fa51d60b8aa658f8bf07a]**money purchase benefits**” has the meaning given by section 176(1) of the Pension Schemes Act (general interpretation);
 - “money purchase scheme” means a pension scheme under which all the benefits that may be provided, other than death benefits, are money purchase benefits;
 - “regulatory own funds scheme” means a scheme in which the scheme, and not any employer in relation to that scheme—
   - (a) underwrites any liability to cover against biometric risk;
@@ -83,7 +83,7 @@ to a scheme which has no active members, references to the employer have effect 
 
 ## PART 2 — Schemes not in wind up
 
-### 3. Schemes not in wind up[^key-d0f4738b0faceeadd9ebd0d84200bbe7]
+### 3. Schemes not in wind up[^c-d0f4738b0faceeadd9ebd0d84200bbe7]
 
 (1) Subject to paragraph (2) and regulations 12 to 14, the prescribed requirements for the purposes of Article 37(3)(b) (payment of surplus to employer) are that the scheme is not in wind up, and—
 
@@ -97,7 +97,7 @@ to a scheme which has no active members, references to the employer have effect 
 - (a) paragraph (1)(a) applies must also comply with regulations 4 to 7 and 9 to 11, or
 - (b) paragraph (1)(b) applies must also comply with regulation 8.
 
-### 4. Schemes that are subject to Part IV of the 2005 Order - determination of assets and liabilities[^key-a280caf7a22faf8b1e49a89985740ece]
+### 4. Schemes that are subject to Part IV of the 2005 Order - determination of assets and liabilities[^c-a280caf7a22faf8b1e49a89985740ece]
 
 (1) In the case of a scheme to which regulation 3(1)(a) applies, where the trustees propose to make a payment to the employer, either—
 
@@ -144,7 +144,7 @@ to a scheme which has no active members, references to the employer have effect 
 - (a) that those rights have not been transferred, and
 - (b) that any assets transferred in respect of the transfer of those rights are assets of the scheme making the transfer, and not the receiving scheme.
 
-### 5. Schemes that are subject to Part IV of the 2005 Order - valuation of assets and liabilities[^key-fe3c6d98b2754e8e536565d906881681]
+### 5. Schemes that are subject to Part IV of the 2005 Order - valuation of assets and liabilities[^c-fe3c6d98b2754e8e536565d906881681]
 
 (1) In the case of a valuation specified in regulation 4(1)(a), and subject to paragraph (2), the value to be given to the assets of a scheme for the purposes of Article 37(3)(a) (payment of surplus to employer) is the value given to those assets in the relevant accounts, less the amount of the external liabilities.
 
@@ -165,14 +165,14 @@ to a scheme which has no active members, references to the employer have effect 
 
 (8) The assets of the scheme shall be valued, and the amount of the liabilities determined, by reference to the effective date.
 
-### 6. Prescribed persons for the purposes of Article 37(3)(a)[^key-590cbe499aa743fb6771d1e8f2e26f04]
+### 6. Prescribed persons for the purposes of Article 37(3)(a)[^c-590cbe499aa743fb6771d1e8f2e26f04]
 
 The prescribed persons for the purposes of Article 37(3)(a) (payment of surplus to employer) are in the case of a scheme that is subject to Part IV of the 2005 Order (scheme funding)—
 
 - (a) where it is a scheme for which an actuary is required to be appointed under Article 47(1)(b) (professional advisers), the actuary appointed under that Article, or
-- (b) where it is a scheme which is exempt from the application of Article 47(1)(b) by virtue of regulations made under paragraph (5) of that Article, a Fellow of the Institute and Faculty of Actuaries.[^key-08a986dbdd30cebf3533f6b3ee497529]
+- (b) where it is a scheme which is exempt from the application of Article 47(1)(b) by virtue of regulations made under paragraph (5) of that Article, a Fellow of the Institute and Faculty of Actuaries.[^c-08a986dbdd30cebf3533f6b3ee497529]
 
-### 7. Schemes that are subject to Part IV of the 2005 Order – valuation certificate and amount of payment to employer[^key-81ccaf4ff9da3e270d81d268b9f056b4]
+### 7. Schemes that are subject to Part IV of the 2005 Order – valuation certificate and amount of payment to employer[^c-81ccaf4ff9da3e270d81d268b9f056b4]
 
 (1) Where a written valuation prepared in accordance with regulation 4(1) shows that the value of the assets of the scheme is greater than the value of the scheme’s liabilities, the prescribed person shall prepare a valuation certificate in the form prescribed in Schedule 1.
 
@@ -181,7 +181,7 @@ The prescribed persons for the purposes of Article 37(3)(a) (payment of surplus 
 - (a) regulation 4(1)(a), the amount by which the value of the scheme’s assets exceeds the value of the scheme’s liabilities at the effective date of the valuation, or
 - (b) regulation 4(1)(b), the amount of the excess of the scheme’s assets over its liabilities specified in the actuary’s estimate of the solvency of the scheme prepared in accordance with regulation 7(4)(b) of the Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005 (actuarial valuations and reports).
 
-### 8. Earmarked schemes[^key-6d31202810bc3ba837ff1335dfacd54e]
+### 8. Earmarked schemes[^c-6d31202810bc3ba837ff1335dfacd54e]
 
 (1) In the case of a scheme to which regulation 3(1)(b) applies, a payment may only be made to the employer where all liabilities accruing in respect of a member, beneficiary or his estate have been—
 
@@ -190,7 +190,7 @@ The prescribed persons for the purposes of Article 37(3)(a) (payment of surplus 
 
 (2) Where paragraph (1) applies, the maximum payment that may be made to the employer is a payment no greater than the excess of the scheme assets in relation to that member after all the liabilities accruing in respect of that member have been secured or paid in full.
 
-### 9. Period for which a valuation certificate is to remain in force[^key-166507704eb2fdcf347adb7d6b27d39c]
+### 9. Period for which a valuation certificate is to remain in force[^c-166507704eb2fdcf347adb7d6b27d39c]
 
 A valuation certificate shall remain in force—
 
@@ -199,7 +199,7 @@ A valuation certificate shall remain in force—
 
 from the effective date of the valuation.
 
-### 10. Notification to members[^key-cca3931a52a6bb0ab7f2e8c8d8cf1add]
+### 10. Notification to members[^c-cca3931a52a6bb0ab7f2e8c8d8cf1add]
 
 (1) Where the trustees of a scheme to which regulation 3(1)(a) applies propose to make a payment under Article 37(1)(a) (payment of surplus to employer), the prescribed requirements in accordance with which the notice referred to in Article 37(3)(g) shall be given are that—
 
@@ -216,15 +216,15 @@ from the effective date of the valuation.
 
 (3) A notice under Article 37(3)(g) does not have to be given to any excluded person.
 
-(4)[^key-2a21387c25313996844833c783fdead6] The trustees of the scheme may give the notice mentioned in paragraph (1) and provide a copy of the relevant valuation certificate mentioned in paragraph (2) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
+(4)[^c-2a21387c25313996844833c783fdead6] The trustees of the scheme may give the notice mentioned in paragraph (1) and provide a copy of the relevant valuation certificate mentioned in paragraph (2) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
-### 11. Notification to the Regulator[^key-6b8017646158aba33af93b3ec718d319]
+### 11. Notification to the Regulator[^c-6b8017646158aba33af93b3ec718d319]
 
 Where the trustees of a scheme to which regulation 3(1)(a) applies have made a payment in accordance with Article 37(1)(a) (payment of surplus to employer), they shall notify the Regulator that the payment has been made by no later than one week after the day on which the payment was made.
 
 ## PART 3 — Exemptions, transitional provisions and modifications
 
-### 12. Exemptions[^key-dc205ab52ee0fab00b249c053cccdd5f]
+### 12. Exemptions[^c-dc205ab52ee0fab00b249c053cccdd5f]
 
 (1) Articles 37 (payment of surplus to employer) and 76 (excess assets on winding up)[^f00014] shall not apply to a scheme where—
 
@@ -234,7 +234,7 @@ Where the trustees of a scheme to which regulation 3(1)(a) applies have made a p
 
 (2) Where such a guarantee has been given as is mentioned in paragraph (1)(a) or (b) in respect of only part of a scheme, Articles 37 and 76 shall apply as if that part and the other part of the scheme were separate schemes.
 
-### 13. Transitional[^key-76708f7b3e84d377cfff13e544d6fe42]
+### 13. Transitional[^c-76708f7b3e84d377cfff13e544d6fe42]
 
 The prescribed requirements for the notice specified in Article 228(6)(a) of the 2005 Order (payment of surplus to employer: transitional power to amend scheme) are that the notice shall—
 
@@ -243,13 +243,13 @@ The prescribed requirements for the notice specified in Article 228(6)(a) of the
   - (i) that the trustees have decided to exercise their power under Article 228(3) or (4) of that Order, as the case may be, and
   - (ii) the date, being a date which is at least three months after the date that the information is sent to the employer and members, from which the trustees' proposed exercise of the power is to take effect.
 
-### 14. Modifications in relation to earmarked schemes[^key-750c8c15c4303c3ff03cde9781ddcf72]
+### 14. Modifications in relation to earmarked schemes[^c-750c8c15c4303c3ff03cde9781ddcf72]
 
 In relation to a scheme to which regulation 3(1)(b) applies, Article 37 (payment of surplus to employer) shall be modified as if in paragraph (3) sub-paragraphs (a) to (c), (f) and (g) were omitted.
 
 ## PART 4 — Schemes in wind up
 
-### 15. Notice of proposal to distribute excess assets to the employer[^key-459d66fd062bffc41f70fa643e73d256]
+### 15. Notice of proposal to distribute excess assets to the employer[^c-459d66fd062bffc41f70fa643e73d256]
 
 (1) The prescribed requirements for the notice specified in Article 76(3)(d) (excess assets on winding up) are set out in paragraphs (2) to (5).
 
@@ -275,9 +275,9 @@ In relation to a scheme to which regulation 3(1)(b) applies, Article 37 (payment
 - (a) the address at which he was last known to be living, or
 - (b) in the case of a person who was an active member, immediately before the commencement of the winding up of the scheme, an address at which he is currently known to be employed.
 
-(6)[^key-7a497ada644d55db9ce0d6716aed21e9] A notice under this regulation may be sent in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
+(6)[^c-7a497ada644d55db9ce0d6716aed21e9] A notice under this regulation may be sent in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
-### 16. Circumstances in which the Regulator must be satisfied that the requirements of Article 76 are met[^key-da8baec762efd64990d88bb62355d464]
+### 16. Circumstances in which the Regulator must be satisfied that the requirements of Article 76 are met[^c-da8baec762efd64990d88bb62355d464]
 
 (1) For the purposes of Article 76(2) (excess assets on winding up), the prescribed circumstances are that—
 
@@ -288,7 +288,7 @@ In relation to a scheme to which regulation 3(1)(b) applies, Article 37 (payment
 
 (2) Where notice has been given to a member in accordance with regulation 15(3), paragraph (1)(a)(i) shall only apply in the case of representations received by the Regulator from the member before the date specified in accordance with regulation 15(4)(b) (expiry date of the second part of the notice).
 
-### 17. Additional requirement for purposes of Article 76[^key-bdb8c725f74c01be2a5a8d03b70265cb]
+### 17. Additional requirement for purposes of Article 76[^c-bdb8c725f74c01be2a5a8d03b70265cb]
 
 Where—
 
@@ -299,7 +299,7 @@ the trustees or, as the case may be, the employer shall obtain written confirmat
 
 ## PART 5 — Multi-employer Schemes
 
-### 18. Schemes with more than one employer[^key-c71693aafa3947005fceae823d564811]
+### 18. Schemes with more than one employer[^c-c71693aafa3947005fceae823d564811]
 
 (1) Where—
 
@@ -331,7 +331,7 @@ Articles 37 (payment of surplus to employer) and 76 (excess assets on winding up
 
 ## PART 6 — Revocations
 
-### 19. Revocations[^key-87ecb5743d12c4ce963cb29a23cfa9d8]
+### 19. Revocations[^c-87ecb5743d12c4ce963cb29a23cfa9d8]
 
 The Regulations specified in column 1 of Schedule 2 are revoked to the extent specified in column 3.
 
@@ -343,13 +343,13 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE 1[^key-fe4f0e5de7981a3e0fe2deae594904cc]
+## SCHEDULE 1[^c-fe4f0e5de7981a3e0fe2deae594904cc]
 
 Regulation 7
 
 [image: see source](https://www.legislation.gov.uk/nisr/2006/161/images/nisr_20060161_en_001)
 
-## SCHEDULE 2 — Revocations[^key-c591a6e8c23a5c6659431625bf3c6224]
+## SCHEDULE 2 — Revocations[^c-c591a6e8c23a5c6659431625bf3c6224]
 
 Regulation 19
 
@@ -420,11 +420,11 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-8581f0b62d2beeb1463f7bf629fac07e]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-8581f0b62d2beeb1463f7bf629fac07e]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-e02ea01377f9b6126dcd0463a2b814a3]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-e02ea01377f9b6126dcd0463a2b814a3]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-876594228d4fa51d60b8aa658f8bf07a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/161/regulation/2) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [38](https://www.legislation.gov.uk/nisr/2014/204/regulation/38)
+[^c-876594228d4fa51d60b8aa658f8bf07a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/161/regulation/2) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [38](https://www.legislation.gov.uk/nisr/2014/204/regulation/38)
 
 [^f00004]: Footnote: *See* section 1 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35)
 
@@ -432,11 +432,11 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d0f4738b0faceeadd9ebd0d84200bbe7]: Commencement: Reg. 3 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-d0f4738b0faceeadd9ebd0d84200bbe7]: Commencement: Reg. 3 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
 [^f00007]: Footnote: Part IV was modified by Schedule 2 to [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568) and regulation 5(1) of [S.R. 2005 No. 570](https://www.legislation.gov.uk/nisr/2005/570)
 
-[^key-a280caf7a22faf8b1e49a89985740ece]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-a280caf7a22faf8b1e49a89985740ece]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
 [^f00008]: Footnote: *See* Article 203(2)(a) of the Pensions (Northern Ireland) Order 2005
 
@@ -444,46 +444,46 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00010]: Footnote: Article 40 was amended by Article 152 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), Article 26 of [S.I. 2004/355](https://www.legislation.gov.uk/uksi/2004/355) and paragraph 45 of Schedule 10 to the Pensions (Northern Ireland) Order 2005
 
-[^key-fe3c6d98b2754e8e536565d906881681]: Commencement: Reg. 5 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-fe3c6d98b2754e8e536565d906881681]: Commencement: Reg. 5 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
 [^f00011]: Footnote: Article 74(3)(c) was amended by Article 60 of [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
 
-[^key-590cbe499aa743fb6771d1e8f2e26f04]: Commencement: Reg. 6 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-590cbe499aa743fb6771d1e8f2e26f04]: Commencement: Reg. 6 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-08a986dbdd30cebf3533f6b3ee497529]: Textual amendment: Words in [reg. 6(b)](https://www.legislation.gov.uk/nisr/2006/161/regulation/6/b) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [13](https://www.legislation.gov.uk/nisr/2012/113/regulation/13)
+[^c-08a986dbdd30cebf3533f6b3ee497529]: Textual amendment: Words in [reg. 6(b)](https://www.legislation.gov.uk/nisr/2006/161/regulation/6/b) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [13](https://www.legislation.gov.uk/nisr/2012/113/regulation/13)
 
-[^key-81ccaf4ff9da3e270d81d268b9f056b4]: Commencement: Reg. 7 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-81ccaf4ff9da3e270d81d268b9f056b4]: Commencement: Reg. 7 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-6d31202810bc3ba837ff1335dfacd54e]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-6d31202810bc3ba837ff1335dfacd54e]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-166507704eb2fdcf347adb7d6b27d39c]: Commencement: Reg. 9 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-166507704eb2fdcf347adb7d6b27d39c]: Commencement: Reg. 9 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-cca3931a52a6bb0ab7f2e8c8d8cf1add]: Commencement: Reg. 10 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-cca3931a52a6bb0ab7f2e8c8d8cf1add]: Commencement: Reg. 10 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-2a21387c25313996844833c783fdead6]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2006/161/regulation/10/4) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 15(a)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/15/a)
+[^c-2a21387c25313996844833c783fdead6]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/nisr/2006/161/regulation/10/4) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 15(a)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/15/a)
 
-[^key-6b8017646158aba33af93b3ec718d319]: Commencement: Reg. 11 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-6b8017646158aba33af93b3ec718d319]: Commencement: Reg. 11 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-dc205ab52ee0fab00b249c053cccdd5f]: Commencement: Reg. 12 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-dc205ab52ee0fab00b249c053cccdd5f]: Commencement: Reg. 12 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
 [^f00014]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 37 is substituted by Article 227 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)); Article 76 is amended by paragraph 56 of Schedule 10 to that Order
 
-[^key-76708f7b3e84d377cfff13e544d6fe42]: Commencement: Reg. 13 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-76708f7b3e84d377cfff13e544d6fe42]: Commencement: Reg. 13 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-750c8c15c4303c3ff03cde9781ddcf72]: Commencement: Reg. 14 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-750c8c15c4303c3ff03cde9781ddcf72]: Commencement: Reg. 14 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-459d66fd062bffc41f70fa643e73d256]: Commencement: Reg. 15 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-459d66fd062bffc41f70fa643e73d256]: Commencement: Reg. 15 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-7a497ada644d55db9ce0d6716aed21e9]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/nisr/2006/161/regulation/15/6) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/15/b)
+[^c-7a497ada644d55db9ce0d6716aed21e9]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/nisr/2006/161/regulation/15/6) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/15/b)
 
-[^key-da8baec762efd64990d88bb62355d464]: Commencement: Reg. 16 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-da8baec762efd64990d88bb62355d464]: Commencement: Reg. 16 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-bdb8c725f74c01be2a5a8d03b70265cb]: Commencement: Reg. 17 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-bdb8c725f74c01be2a5a8d03b70265cb]: Commencement: Reg. 17 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-c71693aafa3947005fceae823d564811]: Commencement: Reg. 18 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-c71693aafa3947005fceae823d564811]: Commencement: Reg. 18 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-87ecb5743d12c4ce963cb29a23cfa9d8]: Commencement: Reg. 19 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-87ecb5743d12c4ce963cb29a23cfa9d8]: Commencement: Reg. 19 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-fe4f0e5de7981a3e0fe2deae594904cc]: Commencement: Sch. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-fe4f0e5de7981a3e0fe2deae594904cc]: Commencement: Sch. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
 
-[^key-c591a6e8c23a5c6659431625bf3c6224]: Commencement: Sch. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)
+[^c-c591a6e8c23a5c6659431625bf3c6224]: Commencement: Sch. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/161/regulation/1)

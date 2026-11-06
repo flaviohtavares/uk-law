@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## APPENDIX 2[^key-359779cb091a04c21689be9d800d7528]
+## APPENDIX 2[^c-359779cb091a04c21689be9d800d7528]
 
 *Extent: N.I.*
 
@@ -957,4 +957,4 @@ Where a solicitor or counsel has conducted more than one case on the same day at
 
 ## Annotations
 
-[^key-359779cb091a04c21689be9d800d7528]: Textual amendment: Appendix 2 substituted (26.11.2025) by [The County Court (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/171)](https://www.legislation.gov.uk/nisr/2025/171), [rules 1](https://www.legislation.gov.uk/nisr/2025/171/rule/1), [3(5)](https://www.legislation.gov.uk/nisr/2025/171/rule/3/5), [Sch. 1](https://www.legislation.gov.uk/nisr/2025/171/schedule/1)
+[^c-359779cb091a04c21689be9d800d7528]: Textual amendment: Appendix 2 substituted (26.11.2025) by [The County Court (Amendment) Rules (Northern Ireland) 2025 (S.R. 2025/171)](https://www.legislation.gov.uk/nisr/2025/171), [rules 1](https://www.legislation.gov.uk/nisr/2025/171/rule/1), [3(5)](https://www.legislation.gov.uk/nisr/2025/171/rule/3/5), [Sch. 1](https://www.legislation.gov.uk/nisr/2025/171/schedule/1)

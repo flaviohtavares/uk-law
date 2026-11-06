@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Section 83: definitions[^key-f47e2fa2c26896dbe8a09534712e2454][^key-9d867c135e03a404c3400c3f3936ccef]
+## 84. Section 83: definitions[^c-f47e2fa2c26896dbe8a09534712e2454][^c-9d867c135e03a404c3400c3f3936ccef]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) a service offence specified for the purposes of this subsection in an order made by the Secretary of State;
 - (c) a service offence whose commission has led to, or is intended or is likely to lead to, any of the consequences mentioned in subsection (5).
 
-(2A)[^key-660814d25840253b91862f358e8fbaff] In subsection (2)(a), the reference to an “indictable offence” has effect as if it included a reference to low-value shoplifting (as defined in section 22A(3) of the Magistrates' Courts Act 1980).
+(2A)[^c-660814d25840253b91862f358e8fbaff] In subsection (2)(a), the reference to an “indictable offence” has effect as if it included a reference to low-value shoplifting (as defined in section 22A(3) of the Magistrates' Courts Act 1980).
 
 (3) “**Relevant residential premises**” means—
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f47e2fa2c26896dbe8a09534712e2454]: Commencement: S. 84 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f47e2fa2c26896dbe8a09534712e2454]: Commencement: S. 84 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-9d867c135e03a404c3400c3f3936ccef]: Commencement: S. 84 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9d867c135e03a404c3400c3f3936ccef]: Commencement: S. 84 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-660814d25840253b91862f358e8fbaff]: Textual amendment: S. 84(2A) inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 176(7)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/7), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 8](https://www.legislation.gov.uk/ukpga/2014/12/section/8), [21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [176(8)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/8)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/17)
+[^c-660814d25840253b91862f358e8fbaff]: Textual amendment: S. 84(2A) inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 176(7)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/7), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 8](https://www.legislation.gov.uk/ukpga/2014/12/section/8), [21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [176(8)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/8)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/17)

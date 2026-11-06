@@ -22,11 +22,11 @@ summary: ''
 
 (1) This Article applies to gaming, other than gaming by means of a gaming machine, which takes place on bingo club premises which is gaming for prizes in respect of which the following conditions are fulfilled, that is to say—
 
-- (a) the amount paid by any 1 person for any 1 chance to win a prize does not exceed £1[^key-c524f0260f239863cc38727e73606597];
-- (b) the aggregate amount taken by way of the sale of chances in any 1 determination of winners (if any) of prizes does not exceed £500[^key-15b38e24de4910410e3e87374a86f60d], and the sale of those chances and the declaration of the result take place on the same day and on the premises on which and at the time when, the game is played;
-- (c) no money prize exceeding £100[^key-1ffa2e646f23630ab6ad305c432a5ea4] is distributed or offered;
+- (a) the amount paid by any 1 person for any 1 chance to win a prize does not exceed £1[^c-c524f0260f239863cc38727e73606597];
+- (b) the aggregate amount taken by way of the sale of chances in any 1 determination of winners (if any) of prizes does not exceed £500[^c-15b38e24de4910410e3e87374a86f60d], and the sale of those chances and the declaration of the result take place on the same day and on the premises on which and at the time when, the game is played;
+- (c) no money prize exceeding £100[^c-1ffa2e646f23630ab6ad305c432a5ea4] is distributed or offered;
 - (d) the winning of, or the purchase of a chance to win, a prize does not entitle any person (whether subject to a further payment by him or not) to any further opportunity to win money or money's worth by taking part in any other gaming or in any lottery;
-- (e) the aggregate amount or value of the prizes on any 1 determination of winners does not exceed £500[^key-ecc9fe39819ebade245bb4d1f017a37c]; and
+- (e) the aggregate amount or value of the prizes on any 1 determination of winners does not exceed £500[^c-ecc9fe39819ebade245bb4d1f017a37c]; and
 - (f) in relation to a game of bingo played for prizes, the amount of money staked in the game is prominently displayed in the bingo club premises before the game has ended.
 
 (2) Article 75, other than paragraphs (2) and (5), and Article 76, other than paragraph (1) in so far as it relates to Article 55(1) and paragraph (4), shall have effect in relation to gaming to which this Article applies as they have effect in relation to bingo, and, in relation to such gaming—
@@ -41,10 +41,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c524f0260f239863cc38727e73606597]: Textual amendment: Sum in [art. 77(1)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/77/1/a) substituted (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2025/2/article/3/a)
+[^c-c524f0260f239863cc38727e73606597]: Textual amendment: Sum in [art. 77(1)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/77/1/a) substituted (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [3(a)](https://www.legislation.gov.uk/nisr/2025/2/article/3/a)
 
-[^key-15b38e24de4910410e3e87374a86f60d]: Textual amendment: Sum in [art. 77(1)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/77/1/b) substituted (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2025/2/article/3/b)
+[^c-15b38e24de4910410e3e87374a86f60d]: Textual amendment: Sum in [art. 77(1)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/77/1/b) substituted (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2025/2/article/3/b)
 
-[^key-1ffa2e646f23630ab6ad305c432a5ea4]: Textual amendment: Sum in [art. 77(1)(c)](https://www.legislation.gov.uk/nisi/1985/1204/article/77/1/c) substituted (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [3(c)](https://www.legislation.gov.uk/nisr/2025/2/article/3/c)
+[^c-1ffa2e646f23630ab6ad305c432a5ea4]: Textual amendment: Sum in [art. 77(1)(c)](https://www.legislation.gov.uk/nisi/1985/1204/article/77/1/c) substituted (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [3(c)](https://www.legislation.gov.uk/nisr/2025/2/article/3/c)
 
-[^key-ecc9fe39819ebade245bb4d1f017a37c]: Textual amendment: Sum in [art. 77(1)(e)](https://www.legislation.gov.uk/nisi/1985/1204/article/77/1/e) substituted (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [3(d)](https://www.legislation.gov.uk/nisr/2025/2/article/3/d)
+[^c-ecc9fe39819ebade245bb4d1f017a37c]: Textual amendment: Sum in [art. 77(1)(e)](https://www.legislation.gov.uk/nisi/1985/1204/article/77/1/e) substituted (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [3(d)](https://www.legislation.gov.uk/nisr/2025/2/article/3/d)

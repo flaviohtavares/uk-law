@@ -48,7 +48,7 @@ This instrument contains only regulations made by virtue of, or consequential up
 
 ## Part 1 — GENERAL
 
-### 1. Citation, commencement and extent[^key-34ca0aec6dc9af9a965731cf647684a2]
+### 1. Citation, commencement and extent[^c-34ca0aec6dc9af9a965731cf647684a2]
 
 (1) These Regulations may be cited as the Statutory Neonatal Care Pay (General) Regulations 2025.
 
@@ -56,11 +56,11 @@ This instrument contains only regulations made by virtue of, or consequential up
 
 (3) These Regulations extend to England and Wales, and Scotland.
 
-### 2. Application[^key-c289f617d9d98908e1d2c9342a3befae]
+### 2. Application[^c-c289f617d9d98908e1d2c9342a3befae]
 
 These Regulations apply in respect of children who are born on or after 6th April 2025.
 
-### 3. Interpretation[^key-5f37e0be594b2cf4d89289ecd952ae28]
+### 3. Interpretation[^c-5f37e0be594b2cf4d89289ecd952ae28]
 
 In these Regulations—
 
@@ -76,7 +76,7 @@ In these Regulations—
 - “**Tier 2 period**” means any period of time in the qualifying period specified in regulation 10 (qualifying period) which is not a tier 1 period;
 - “**week**”, except in Part 3, means a period of seven days[^f00007].
 
-### 4. Definition of neonatal care[^key-fb91c0366e6e357c68911f2be220af03]
+### 4. Definition of neonatal care[^c-fb91c0366e6e357c68911f2be220af03]
 
 (1) The prescribed kinds of care within the meaning of “**neonatal care**” for the purposes of Part 12ZE of the 1992 Act are—
 
@@ -108,7 +108,7 @@ In these Regulations—
 
 ## Part 2 — ENTITLEMENT
 
-### 5. Conditions of entitlement relating to parental or other personal relationship[^key-58e8b060825630e7df863ebaca9cbc5c]
+### 5. Conditions of entitlement relating to parental or other personal relationship[^c-58e8b060825630e7df863ebaca9cbc5c]
 
 (1) The conditions prescribed for the purposes of section 171ZZ16(2)(a)(i) of the 1992 Act (as to parental or personal relationship with a child receiving neonatal care) are the conditions in paragraph (2) or (3).
 
@@ -162,7 +162,7 @@ In these Regulations—
 - (b) in the case of an adopted person, include such of those relationships as would exist but for the adoption, and
 - (c) include the relationship of a child with their adoptive, or former adoptive, parents but do not include any other adoptive relationships.
 
-### 6. Entitlement to statutory neonatal care pay in special circumstances[^key-c4fee268054cba9e34d6211dfe78f375]
+### 6. Entitlement to statutory neonatal care pay in special circumstances[^c-c4fee268054cba9e34d6211dfe78f375]
 
 (1) Paragraph 1 of the Schedule applies to an employee who is C’s parent or the partner of C’s mother where C dies before the end of the qualifying period.
 
@@ -186,7 +186,7 @@ In these Regulations—
 - (a) the intended parent does not apply for a parental order for C within the time limit in section 54(3) or section 54A(2) of the Human Fertilisation and Embryology Act 2008[^f00023] for making such an application; or
 - (b) the application is refused, withdrawn or otherwise terminated without the order being granted and any time limit for an appeal or new application has expired.
 
-### 7. Number of weeks pay[^key-5aa993426c44ec69c586d0b4914f1313]
+### 7. Number of weeks pay[^c-5aa993426c44ec69c586d0b4914f1313]
 
 (1) Subject to paragraph (3), the period in respect of which a person is entitled to statutory neonatal care pay is one week for every period of 7 days that C is in receipt of neonatal care without interruption.
 
@@ -198,7 +198,7 @@ In these Regulations—
 
 (5) For the purposes of this regulation and in relation to each separate occasion that C receives neonatal care, the first period of 7 days begins with the day after the day on which the neonatal care starts.
 
-### 8. More than one child in receipt of neonatal care[^key-e8624992485e135eeb771c4a4479b449]
+### 8. More than one child in receipt of neonatal care[^c-e8624992485e135eeb771c4a4479b449]
 
 In a case where a person meets the conditions in regulation 5 in respect of more than one child born as a result of the same pregnancy—
 
@@ -213,7 +213,7 @@ In a case where a person meets the conditions in regulation 5 in respect of more
 - (d) for any period where more than one child is in receipt of neonatal care at the same time, entitlement can only be accrued in that period in respect of one child;
 - (e) the maximum number of weeks in respect of which the person is entitled to payments of statutory neonatal care pay remains unchanged where more than one child is receiving neonatal care.
 
-### 9. Options in respect of payment of statutory neonatal care pay[^key-a37cf3546db4acfbfccb7ec989f3c420]
+### 9. Options in respect of payment of statutory neonatal care pay[^c-a37cf3546db4acfbfccb7ec989f3c420]
 
 (1) A person may choose for statutory neonatal care pay to be paid for a week only if that person cared for or intends to care for C during that week.
 
@@ -222,13 +222,13 @@ In a case where a person meets the conditions in regulation 5 in respect of more
 - (a) in a tier 1 period for a single week or for a number of weeks, whether or not consecutively, or
 - (b) in a tier 2 period for a single week or for a consecutive period of weeks.
 
-### 10. Qualifying period[^key-e1c75aaa0aea7984d0051972acb4a51d]
+### 10. Qualifying period[^c-e1c75aaa0aea7984d0051972acb4a51d]
 
 (1) Subject to paragraph (2), the qualifying period for the purposes of section 171ZZ19(2) of the 1992 Act (period within which statutory neonatal care pay is payable) is a period of 68 weeks beginning with the date of C’s birth.
 
 (2) Where a person meets the conditions in regulation 5 in respect of more than one child born as a result of the same pregnancy, the qualifying period for the purposes of section 171ZZ19(2) of the 1992 Act is a period of 68 weeks beginning with the date of birth of the first child born as a result of the pregnancy.
 
-### 11. Notice and evidence requirements for statutory neonatal care pay[^key-edb3a05ee05ee70a0295d6307dd92961]
+### 11. Notice and evidence requirements for statutory neonatal care pay[^c-edb3a05ee05ee70a0295d6307dd92961]
 
 (1) The notice provided for in section 171ZZ17(1) of the 1992 Act (notice to be given stating the week or weeks in respect of which payments are to be made) must be given to whoever will be liable to pay statutory neonatal care pay—
 
@@ -266,7 +266,7 @@ In a case where a person meets the conditions in regulation 5 in respect of more
 
 (11) The employee and employer can mutually agree to waive the requirement to give notice and the employee will be treated as having given notice in accordance with this regulation.
 
-### 12. Cases where there is no liability to pay statutory neonatal care pay[^key-e3ed6d3795a7d46dc7fdaf824934a124]
+### 12. Cases where there is no liability to pay statutory neonatal care pay[^c-e3ed6d3795a7d46dc7fdaf824934a124]
 
 (1) There is no liability to pay statutory neonatal care pay to a person in respect of any week—
 
@@ -282,7 +282,7 @@ In a case where a person meets the conditions in regulation 5 in respect of more
 - (b) subsequently found not guilty of any offence and is released, or
 - (c) convicted of an offence but does not receive a custodial sentence.
 
-### 13. Work during period of payment of statutory neonatal care pay[^key-b946d8682765404fc9b43d5d3ede6e71]
+### 13. Work during period of payment of statutory neonatal care pay[^c-b946d8682765404fc9b43d5d3ede6e71]
 
 (1) Despite section 171ZZ19(8) of the 1992 Act (statutory neonatal care pay not payable to a person in respect of a week during any part of which the person works for any employer who is not liable to pay the person statutory neonatal care pay), statutory neonatal care pay is payable to a person in respect of a statutory pay week during any part of which the person works only for an employer—
 
@@ -295,7 +295,7 @@ In a case where a person meets the conditions in regulation 5 in respect of more
 
 ## Part 3 — CONDITIONS OF ENTITLEMENT RELATING TO EMPLOYMENT AND EARNINGS
 
-### 14. Treatment of persons as employees[^key-242bc4540adb64854f6170c1af229a80]
+### 14. Treatment of persons as employees[^c-242bc4540adb64854f6170c1af229a80]
 
 (1) A person is treated as an employee for the purposes of Part 12ZE of the 1992 Act (despite not falling within the definition of “employee” in section 171ZZ24(2) of that Act) where, and in so far as, that person is treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations 1978[^f00024](“**the 1978 Regulations**”).
 
@@ -317,7 +317,7 @@ as they have effect in relation to a person who is, or as the case may be, is no
   - (i) is exempt from the provisions of the 1992 Act, or
   - (ii) is a person against whom the provisions of the 1992 Act are not enforceable.
 
-### 15. Continuous employment from the end of the relevant week[^key-8f17188b241a2f7841c09265997317a4]
+### 15. Continuous employment from the end of the relevant week[^c-8f17188b241a2f7841c09265997317a4]
 
 (1) Except in a case falling within regulation 27(1) (avoidance of liability by a former employer), a person is not entitled to statutory neonatal care pay in respect of a particular week or period of consecutive weeks unless the week before that week or that period—
 
@@ -326,7 +326,7 @@ as they have effect in relation to a person who is, or as the case may be, is no
 
 (2) In a case where C is born before the relevant week, sub-paragraph (1)(b) has effect as if for “end of the relevant week” there were substituted “date of C’s birth”.
 
-### 16. Continuous employment even though no contract of service exists[^key-9842e91986f0adb1307f591119ddad1e]
+### 16. Continuous employment even though no contract of service exists[^c-9842e91986f0adb1307f591119ddad1e]
 
 (1) A week is to be treated for the purposes of section 171ZZ16 of the 1992 Act as part of a period of continuous employment with the employer even though no contract of service exists with that employer in respect of that week in the circumstances mentioned in paragraph (2).
 
@@ -350,7 +350,7 @@ and returns to work for their employer after the incapacity for or absence from 
 
 then in that case paragraph (2) applies as if the words “and returns to work for their employer after the incapacity for or absence from work” were omitted.
 
-### 17. Continuous employment and unfair dismissal[^key-170c778ac64412828a2ca9f52aeee8a0]
+### 17. Continuous employment and unfair dismissal[^c-170c778ac64412828a2ca9f52aeee8a0]
 
 (1) Where in consequence of specified action in relation to a person’s dismissal, the person is reinstated or re-engaged by their employer or by a successor or associated employer of that employer then—
 
@@ -366,7 +366,7 @@ then in that case paragraph (2) applies as if the words “and returns to work f
   - (c) any action taken by a conciliation officer under sections 18A to 18C (conciliation) of the Employment Tribunals Act 1996[^f00029];
 - “**successor**”has the same meaning as in section 235 of the 1996 Act.
 
-### 18. Continuous employment and stoppages of work[^key-e899eab7ceb180019ffcc79cd85f1df0]
+### 18. Continuous employment and stoppages of work[^c-e899eab7ceb180019ffcc79cd85f1df0]
 
 (1) Where a person does not work for any week or part of a week because there is a stoppage of work at that person’s place of employment due to a trade dispute within the meaning of section 35(1) of the Jobseekers Act 1995[^f00030] then—
 
@@ -377,7 +377,7 @@ then in that case paragraph (2) applies as if the words “and returns to work f
 
 (3) Paragraph (1)(b) and paragraph (2) do not apply to a person who proves that at no time did they have a direct interest in the trade dispute in question.
 
-### 19. Modification for periods of employment between 25 and 26 weeks[^key-645f4a4665a7bf2167078d1136d852e4]
+### 19. Modification for periods of employment between 25 and 26 weeks[^c-645f4a4665a7bf2167078d1136d852e4]
 
 (1) This regulation applies where a person—
 
@@ -389,7 +389,7 @@ then in that case paragraph (2) applies as if the words “and returns to work f
 - (a) the first Saturday after the start date, or
 - (b) where the start date is a Saturday, that day.
 
-### 20. Change of employer[^key-7ef92183adcd786256d22970f0477625]
+### 20. Change of employer[^c-7ef92183adcd786256d22970f0477625]
 
 Where a person’s employer changes, a person’s employment is to be treated for the purposes of section 171ZZ16 of the 1992 Act as continuous employment with the second employer in the following circumstances—
 
@@ -402,7 +402,7 @@ Where a person’s employer changes, a person’s employment is to be treated fo
   - (i) governors of a school maintained by a local authority, within the meaning of section 579(1) of the Education Act 1996[^f00031],
   - (ii) that local authority.
 
-### 21. Reinstatement after service with the armed forces[^key-8f0767226dc0a3073716311e58e22e2b]
+### 21. Reinstatement after service with the armed forces[^c-8f0767226dc0a3073716311e58e22e2b]
 
 Where a person—
 
@@ -411,7 +411,7 @@ Where a person—
 
 that person’s previous period of employment with that employer, or if there was more than one such period, the last of those periods, and the period of employment beginning in that six month period, is to be treated as continuous for the purposes of section 171ZZ16 of the 1992 Act.
 
-### 22. Treatment of two or more employers or two or more contracts of service as one[^key-7602d8aedd941602dd348c0a9b710de9]
+### 22. Treatment of two or more employers or two or more contracts of service as one[^c-7602d8aedd941602dd348c0a9b710de9]
 
 (1) In a case where the earnings paid to a person in respect of two or more employments are aggregated and treated as a single payment of earnings under regulation 15(1) (aggregation of earnings paid in respect of different employed earner’s employments by different persons) of the Social Security (Contributions) Regulations 2001, the employers of that person in respect of those employments must be treated as one for the purposes of Part 12ZE of the 1992 Act and these Regulations.
 
@@ -419,7 +419,7 @@ that person’s previous period of employment with that employer, or if there wa
 
 (3) Where two or more contracts of service exist concurrently between one employer and one employee, they must be treated as one for the purposes of Part 12ZE of the 1992 Act and these Regulations except where, by virtue of regulation 14 (aggregation of earnings paid in respect of separate employed earner’s employments under the same employer) of the Social Security (Contributions) Regulations 2001, the earnings from those contracts of service are not aggregated for the purpose of earnings-related contributions.
 
-### 23. Normal weekly earnings[^key-fd03cea217301e81506fb99e35d98273]
+### 23. Normal weekly earnings[^c-fd03cea217301e81506fb99e35d98273]
 
 (1) For the purposes of section 171ZZ24(6) (which defines normal weekly earnings for the purposes of Part 12ZE of the 1992 Act) “earnings” and “relevant period” have the meanings given in this regulation.
 
@@ -471,7 +471,7 @@ that person’s previous period of employment with that employer, or if there wa
 
   if any payment is due to them.
 
-### 24. Modification of entitlement conditions: early birth[^key-db95b2becb2e2b17af557869cac9d88b]
+### 24. Modification of entitlement conditions: early birth[^c-db95b2becb2e2b17af557869cac9d88b]
 
 (1) This regulation applies in any case where the relevant week is determined by reference to C’s expected week of birth and C’s birth occurs earlier than the relevant week.
 
@@ -481,11 +481,11 @@ that person’s previous period of employment with that employer, or if there wa
 
 ## Part 4 — PAYMENT OF STATUTORY NEONATAL CARE PAY
 
-### 25. Weekly rate of payment[^key-596fc54d43b0265e60abb5bba0964d0c]
+### 25. Weekly rate of payment[^c-596fc54d43b0265e60abb5bba0964d0c]
 
 (1) The weekly rate of payment of statutory neonatal care pay is the smaller of the following two amounts—
 
-- (a) £194.32[^key-132dcf932b4fddcc6bc9f646ce2d75af];
+- (a) £194.32[^c-132dcf932b4fddcc6bc9f646ce2d75af];
 - (b) 90% of the normal weekly earnings of the person claiming statutory neonatal care pay determined in accordance with section 171ZZ24(6) of the Act and regulation 23.
 
 (2) Where the amount of any payment of statutory neonatal care pay is calculated by reference to—
@@ -495,7 +495,7 @@ that person’s previous period of employment with that employer, or if there wa
 
 and that amount includes a fraction of a penny, the payment must be rounded up to the nearest whole number of pence.
 
-### 26. Statutory neonatal care pay and contractual remuneration[^key-df58fce3bf7eb604e6fb32fab3ad2900]
+### 26. Statutory neonatal care pay and contractual remuneration[^c-df58fce3bf7eb604e6fb32fab3ad2900]
 
 For the purposes of section 171ZZ21(1) and (2) of the 1992 Act (relationship with contractual remuneration), the payments which are to be treated as contractual remuneration are sums payable under a contract of service—
 
@@ -503,7 +503,7 @@ For the purposes of section 171ZZ21(1) and (2) of the 1992 Act (relationship wit
 - (b) for incapacity for work due to sickness or injury, or
 - (c) by reason of the birth, adoption, care or death of a child.
 
-### 27. Avoidance of liability for statutory neonatal care pay[^key-83a9b847f9dbd93e1ed2e61e508bed16]
+### 27. Avoidance of liability for statutory neonatal care pay[^c-83a9b847f9dbd93e1ed2e61e508bed16]
 
 (1) A former employer is liable to make payments of statutory neonatal care pay to a former employee in any case where the employee had been employed for a continuous period of at least 8 weeks and the employee’s contract of service was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory neonatal care pay.
 
@@ -519,11 +519,11 @@ For the purposes of section 171ZZ21(1) and (2) of the 1992 Act (relationship wit
 
   .
 
-### 28. Payment of statutory neonatal care pay[^key-182217089f3ec69bef730f066b470e94]
+### 28. Payment of statutory neonatal care pay[^c-182217089f3ec69bef730f066b470e94]
 
 Payments of statutory neonatal care pay may be made in a like manner to payments of remuneration but must not include payment in kind or by way of provision of board or lodgings.
 
-### 29. Payment following a decision by an officer of Revenue and Customs[^key-68dac05042e906fabc907e2a869a0bb9]
+### 29. Payment following a decision by an officer of Revenue and Customs[^c-68dac05042e906fabc907e2a869a0bb9]
 
 (1) In any case where—
 
@@ -550,7 +550,7 @@ that amount of statutory neonatal care pay must be paid by the employer within t
 - “**appellate authority**” means the First-Tier Tribunal, the Upper Tribunal, the Court of Appeal, the Court of Session, or the Supreme Court.
 - “**pay day**” means a day on which it has been agreed, or it is normal practice between an employer and their employee, that payments of remuneration are to be made, or, where there is no such agreement or normal practice, the last day of a calendar month.
 
-### 30. Liability of the Commissioners to pay statutory neonatal care pay[^key-63cb0357cd5aae794fecabe70569d364]
+### 30. Liability of the Commissioners to pay statutory neonatal care pay[^c-63cb0357cd5aae794fecabe70569d364]
 
 (1) Despite section 171ZZ18(1) of the 1992 Act (liability to make payments of statutory neonatal care pay is liability of the employer), liability to make payment of statutory neonatal care pay to a person is a liability of the Commissioners and not the employer in the circumstances specified in this regulation.
 
@@ -589,11 +589,11 @@ that amount of statutory neonatal care pay must be paid by the employer within t
   - (iii) a receiver of its undertaking is duly appointed, or
   - (iv) a voluntary arrangement proposed for the purposes of Part 1 of the Insolvency Act 1986 is approved under that Part.
 
-### 31. Payments by the Commissioners[^key-4a4eb8685b0991c958323306c681594e]
+### 31. Payments by the Commissioners[^c-4a4eb8685b0991c958323306c681594e]
 
 Where the Commissioners become liable in accordance with regulation 30 (liability of the Commissioners to pay statutory neonatal care pay) then payment is to be made as soon as reasonably practicable after they become so liable, by means of an instrument of payment or by such other means as appears to the Commissioners to be appropriate in the circumstances of any particular case.
 
-### 32. Persons unable to act[^key-08fd10fc60bf5fdeff4e2247c8b9bda5]
+### 32. Persons unable to act[^c-08fd10fc60bf5fdeff4e2247c8b9bda5]
 
 (1) This regulation applies where—
 
@@ -615,7 +615,7 @@ Where the Commissioners become liable in accordance with regulation 30 (liabilit
 
 (4) Anything required by Part 12ZE of the 1992 Act to be done by or to the person who is unable to act may be done by or to the person appointed under this regulation to act on behalf of the person unable to act and the receipt of the person so appointed of any sum paid under that Part is a good discharge to the employer of the person unable to act for any such sum paid.
 
-### 33. Service of notices[^key-d9ee36644d860d57ae51aba3407938d5]
+### 33. Service of notices[^c-d9ee36644d860d57ae51aba3407938d5]
 
 (1) Where a notice is to be given under these Regulations, it may be given by—
 
@@ -651,23 +651,23 @@ Two of the Commissioners for His Majesty's Revenue and Customs
 
 Regulation 6
 
-**1.**[^key-7deeda59b768d30372fd2458901e0035] Where, after the employee has accrued entitlement to statutory neonatal care pay, C dies, paragraph 5 applies in relation to the employee’s entitlement to statutory neonatal care pay beginning with the day after the day on which C dies.
+**1.**[^c-7deeda59b768d30372fd2458901e0035] Where, after the employee has accrued entitlement to statutory neonatal care pay, C dies, paragraph 5 applies in relation to the employee’s entitlement to statutory neonatal care pay beginning with the day after the day on which C dies.
 
-**2.**[^key-348e77537ec43a3d65a0bc0e16627656] Where, after C has been placed with the adopter or prospective adopter and the employee has accrued entitlement to statutory neonatal care pay, the placement is disrupted or C dies, paragraph 5 applies in relation to the employee’s entitlement to statutory neonatal care pay beginning with the day after the day on which the placement is disrupted or C dies.
+**2.**[^c-348e77537ec43a3d65a0bc0e16627656] Where, after C has been placed with the adopter or prospective adopter and the employee has accrued entitlement to statutory neonatal care pay, the placement is disrupted or C dies, paragraph 5 applies in relation to the employee’s entitlement to statutory neonatal care pay beginning with the day after the day on which the placement is disrupted or C dies.
 
-**3.**[^key-7042dab9e71cc1446574fc321b3ed9c4] Where, after C has entered Great Britain and the employee has accrued entitlement to neonatal care pay, C dies or ceases to live with the overseas adopter, paragraph 5 applies in relation to the employee’s entitlement to statutory neonatal care pay beginning with the day after the day on which C dies or ceases to live with the overseas adopter.
+**3.**[^c-7042dab9e71cc1446574fc321b3ed9c4] Where, after C has entered Great Britain and the employee has accrued entitlement to neonatal care pay, C dies or ceases to live with the overseas adopter, paragraph 5 applies in relation to the employee’s entitlement to statutory neonatal care pay beginning with the day after the day on which C dies or ceases to live with the overseas adopter.
 
-**4.**[^key-4f634504308e195703f89afb1571770c] Where, after the employee has accrued entitlement to neonatal care pay, C dies or the parental order does not proceed, paragraph 5 applies in relation to the employee’s entitlement to statutory neonatal care pay beginning with the day after the day on which C dies or the parental order does not proceed.
+**4.**[^c-4f634504308e195703f89afb1571770c] Where, after the employee has accrued entitlement to neonatal care pay, C dies or the parental order does not proceed, paragraph 5 applies in relation to the employee’s entitlement to statutory neonatal care pay beginning with the day after the day on which C dies or the parental order does not proceed.
 
-**5.**[^key-53a7fdc110fa9c833c291e11fbcc8898] Where this paragraph applies, these regulations apply as if the condition that the employee intends to care for C in regulation 9(1) and 11(5)(f) were omitted.
+**5.**[^c-53a7fdc110fa9c833c291e11fbcc8898] Where this paragraph applies, these regulations apply as if the condition that the employee intends to care for C in regulation 9(1) and 11(5)(f) were omitted.
 
-**6.**[^key-22a8abc1ebe3326267f39d758870e598] (1) Where the parental order does not proceed the modifications set out at sub-paragraphs (2) and (3) below apply to the employee in relation to satisfying the conditions of entitlement in regulation 5 in respect of any period of 7 days that C is in receipt of neonatal care without interruption beginning with the day after the day on which the parental order does not proceed.
+**6.**[^c-22a8abc1ebe3326267f39d758870e598] (1) Where the parental order does not proceed the modifications set out at sub-paragraphs (2) and (3) below apply to the employee in relation to satisfying the conditions of entitlement in regulation 5 in respect of any period of 7 days that C is in receipt of neonatal care without interruption beginning with the day after the day on which the parental order does not proceed.
 
 (2) The employee is to be regarded as falling within the definition of “partner” in regulation 5(4) if that person fell within the definition on the day before the day the parental order does not proceed.
 
 (3) In regulation 5(2)(b) substitute “on the day before the day the parental order does not proceed” for “at the time of C’s birth”.
 
-**7.**[^key-b777d7d3a76872e135c9304ac9e2ccea] In paragraphs 4 and 6, the day on which the parental order does not proceed is a reference to the day on which the time limit for—
+**7.**[^c-b777d7d3a76872e135c9304ac9e2ccea] In paragraphs 4 and 6, the day on which the parental order does not proceed is a reference to the day on which the time limit for—
 
 - (a) making an application under section 54 or 54A of the Human Fertilisation and Embryology Act 2008 expires, or
 - (b) appealing or making a new application following the refusal, withdrawal or other termination of the order expires.
@@ -710,11 +710,11 @@ These Regulations are part of a package of legislative measures to implement the
 
 [^f00004]: Footnote: See sections 172(1) and 173(5) of the Social Security Administration Act 1992.
 
-[^key-34ca0aec6dc9af9a965731cf647684a2]: Commencement: Reg. 1 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-34ca0aec6dc9af9a965731cf647684a2]: Commencement: Reg. 1 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-c289f617d9d98908e1d2c9342a3befae]: Commencement: Reg. 2 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-c289f617d9d98908e1d2c9342a3befae]: Commencement: Reg. 2 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-5f37e0be594b2cf4d89289ecd952ae28]: Commencement: Reg. 3 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-5f37e0be594b2cf4d89289ecd952ae28]: Commencement: Reg. 3 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00005]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -722,7 +722,7 @@ These Regulations are part of a package of legislative measures to implement the
 
 [^f00007]: Footnote: For the meaning of “week” in Part 3 of these Regulations, see section 171ZZ24(5) of the 1992 Act.
 
-[^key-fb91c0366e6e357c68911f2be220af03]: Commencement: Reg. 4 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-fb91c0366e6e357c68911f2be220af03]: Commencement: Reg. 4 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00008]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Section 55 was amended by [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234) and [2010/478](https://www.legislation.gov.uk/uksi/2010/478). The section defines NHS consultant to mean a consultant other than a locum consultant but including an honorary consultant.
 
@@ -734,7 +734,7 @@ These Regulations are part of a package of legislative measures to implement the
 
 [^f00012]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Amended by [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-58e8b060825630e7df863ebaca9cbc5c]: Commencement: Reg. 5 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-58e8b060825630e7df863ebaca9cbc5c]: Commencement: Reg. 5 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00013]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 
@@ -756,35 +756,35 @@ These Regulations are part of a package of legislative measures to implement the
 
 [^f00022]: Footnote: [S.S.I. 2009/182](https://www.legislation.gov.uk/ssi/2009/182), to which there are amendments not relevant to these Regulations.
 
-[^key-c4fee268054cba9e34d6211dfe78f375]: Commencement: Reg. 6 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-c4fee268054cba9e34d6211dfe78f375]: Commencement: Reg. 6 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00023]: Footnote: [2008 c. 22](https://www.legislation.gov.uk/ukpga/2008/22). Section 54A was amended by paragraph 206 of Schedule 11 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), paragraph 1 of Schedule 9 to the Justice Act (Northern Ireland) [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), and [S.I. 2018/1413](https://www.legislation.gov.uk/uksi/2018/1413). Section 54A was inserted 6B. by [S.I. 2018/1413](https://www.legislation.gov.uk/uksi/2018/1413).
 
-[^key-5aa993426c44ec69c586d0b4914f1313]: Commencement: Reg. 7 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-5aa993426c44ec69c586d0b4914f1313]: Commencement: Reg. 7 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-e8624992485e135eeb771c4a4479b449]: Commencement: Reg. 8 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-e8624992485e135eeb771c4a4479b449]: Commencement: Reg. 8 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-a37cf3546db4acfbfccb7ec989f3c420]: Commencement: Reg. 9 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-a37cf3546db4acfbfccb7ec989f3c420]: Commencement: Reg. 9 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-e1c75aaa0aea7984d0051972acb4a51d]: Commencement: Reg. 10 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-e1c75aaa0aea7984d0051972acb4a51d]: Commencement: Reg. 10 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-edb3a05ee05ee70a0295d6307dd92961]: Commencement: Reg. 11 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-edb3a05ee05ee70a0295d6307dd92961]: Commencement: Reg. 11 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-e3ed6d3795a7d46dc7fdaf824934a124]: Commencement: Reg. 12 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-e3ed6d3795a7d46dc7fdaf824934a124]: Commencement: Reg. 12 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-b946d8682765404fc9b43d5d3ede6e71]: Commencement: Reg. 13 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-b946d8682765404fc9b43d5d3ede6e71]: Commencement: Reg. 13 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-242bc4540adb64854f6170c1af229a80]: Commencement: Reg. 14 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-242bc4540adb64854f6170c1af229a80]: Commencement: Reg. 14 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 1978/1689](https://www.legislation.gov.uk/uksi/1978/1689); amended by section 6 of the National Insurance Contributions Act [2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5) and by [S.I. 1980/1713](https://www.legislation.gov.uk/uksi/1980/1713), [1984/350](https://www.legislation.gov.uk/uksi/1984/350), [1990/1894](https://www.legislation.gov.uk/uksi/1990/1894), [1994/726](https://www.legislation.gov.uk/uksi/1994/726), [1998/1728](https://www.legislation.gov.uk/uksi/1998/1728), [2003/736](https://www.legislation.gov.uk/uksi/2003/736), [2003/2420](https://www.legislation.gov.uk/uksi/2003/2420), [2004/770](https://www.legislation.gov.uk/uksi/2004/770), [2005/3133](https://www.legislation.gov.uk/uksi/2005/3133), [2006/1530](https://www.legislation.gov.uk/uksi/2006/1530), [2012/816](https://www.legislation.gov.uk/uksi/2012/816), [2014/635](https://www.legislation.gov.uk/uksi/2014/635), [2015/478](https://www.legislation.gov.uk/uksi/2015/478) and [2017/307](https://www.legislation.gov.uk/uksi/2017/307).
 
 [^f00025]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004); regulation 145 was amended by [S.I. 2012/817](https://www.legislation.gov.uk/uksi/2012/817) and [S.I. 2024/377](https://www.legislation.gov.uk/uksi/2024/377).
 
-[^key-8f17188b241a2f7841c09265997317a4]: Commencement: Reg. 15 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-8f17188b241a2f7841c09265997317a4]: Commencement: Reg. 15 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-9842e91986f0adb1307f591119ddad1e]: Commencement: Reg. 16 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-9842e91986f0adb1307f591119ddad1e]: Commencement: Reg. 16 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-170c778ac64412828a2ca9f52aeee8a0]: Commencement: Reg. 17 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-170c778ac64412828a2ca9f52aeee8a0]: Commencement: Reg. 17 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00026]: Footnote: There are amendments to section 235 not relevant to these Regulations.
 
@@ -794,23 +794,23 @@ These Regulations are part of a package of legislative measures to implement the
 
 [^f00029]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17). Sections 18A to 18C were inserted by section 7 of, and paragraph 6 of Schedule 1 to, the Enterprise and Regulatory Reform Act 2013.
 
-[^key-e899eab7ceb180019ffcc79cd85f1df0]: Commencement: Reg. 18 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-e899eab7ceb180019ffcc79cd85f1df0]: Commencement: Reg. 18 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00030]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18). There are amendments to section 35(1) not relevant to these Regulations.
 
-[^key-645f4a4665a7bf2167078d1136d852e4]: Commencement: Reg. 19 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-645f4a4665a7bf2167078d1136d852e4]: Commencement: Reg. 19 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-7ef92183adcd786256d22970f0477625]: Commencement: Reg. 20 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-7ef92183adcd786256d22970f0477625]: Commencement: Reg. 20 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00031]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). The definition of “local authority” in section 579(1) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). There are other amending instruments but none is relevant.
 
-[^key-8f0767226dc0a3073716311e58e22e2b]: Commencement: Reg. 21 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-8f0767226dc0a3073716311e58e22e2b]: Commencement: Reg. 21 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00032]: Footnote: [1985 c. 17](https://www.legislation.gov.uk/ukpga/1985/17).
 
-[^key-7602d8aedd941602dd348c0a9b710de9]: Commencement: Reg. 22 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-7602d8aedd941602dd348c0a9b710de9]: Commencement: Reg. 22 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-fd03cea217301e81506fb99e35d98273]: Commencement: Reg. 23 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-fd03cea217301e81506fb99e35d98273]: Commencement: Reg. 23 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00033]: Footnote: Schedule 3 was amended by [S.I. 2001/2412](https://www.legislation.gov.uk/uksi/2001/2412), [2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [2002/307](https://www.legislation.gov.uk/uksi/2002/307), [2002/2924](https://www.legislation.gov.uk/uksi/2002/2924), [2003/1059](https://www.legislation.gov.uk/uksi/2003/1059), [2003/2085](https://www.legislation.gov.uk/uksi/2003/2085), [2003/2340](https://www.legislation.gov.uk/uksi/2003/2340), [2003/2958](https://www.legislation.gov.uk/uksi/2003/2958), [2004/173](https://www.legislation.gov.uk/uksi/2004/173), [2004/770](https://www.legislation.gov.uk/uksi/2004/770), [2004/2096](https://www.legislation.gov.uk/uksi/2004/2096), [2005/728](https://www.legislation.gov.uk/uksi/2005/728), [2005/778](https://www.legislation.gov.uk/uksi/2005/778), [2005/2422](https://www.legislation.gov.uk/uksi/2005/2422), [2005/3130](https://www.legislation.gov.uk/uksi/2005/3130), [2006/576](https://www.legislation.gov.uk/uksi/2006/576), [2006/883](https://www.legislation.gov.uk/uksi/2006/883), [2006/2003](https://www.legislation.gov.uk/uksi/2006/2003), [2006/2829](https://www.legislation.gov.uk/uksi/2006/2829), [2007/2091](https://www.legislation.gov.uk/uksi/2007/2091), [2007/2401](https://www.legislation.gov.uk/uksi/2007/2401), [2007/2905](https://www.legislation.gov.uk/uksi/2007/2905), [2008/607](https://www.legislation.gov.uk/uksi/2008/607), [2008/1431](https://www.legislation.gov.uk/uksi/2008/1431), [2008/2624](https://www.legislation.gov.uk/uksi/2008/2624), [2009/600](https://www.legislation.gov.uk/uksi/2009/600), [2010/188](https://www.legislation.gov.uk/uksi/2010/188), [2011/225](https://www.legislation.gov.uk/uksi/2011/225), [2011/797](https://www.legislation.gov.uk/uksi/2011/797), [2011/1000](https://www.legislation.gov.uk/uksi/2011/1000), [2011/2700](https://www.legislation.gov.uk/uksi/2011/2700), [2012/817](https://www.legislation.gov.uk/uksi/2012/817), [2013/622](https://www.legislation.gov.uk/uksi/2013/622), [2013/1142](https://www.legislation.gov.uk/uksi/2013/1142), [2013/1907](https://www.legislation.gov.uk/uksi/2013/1907), [2014/608](https://www.legislation.gov.uk/uksi/2014/608), [2014/3159](https://www.legislation.gov.uk/uksi/2014/3159), [2014/3228](https://www.legislation.gov.uk/uksi/2014/3228), [2015/478](https://www.legislation.gov.uk/uksi/2015/478), [2015/543](https://www.legislation.gov.uk/uksi/2015/543), [2016/352](https://www.legislation.gov.uk/uksi/2016/352), [2016/647](https://www.legislation.gov.uk/uksi/2016/647), [2016/1067](https://www.legislation.gov.uk/uksi/2016/1067), [2017/307](https://www.legislation.gov.uk/uksi/2017/307), [2017/373](https://www.legislation.gov.uk/uksi/2017/373), [2018/120](https://www.legislation.gov.uk/uksi/2018/120), [2019/1009](https://www.legislation.gov.uk/uksi/2019/1009), [2020/320](https://www.legislation.gov.uk/uksi/2020/320), [2020/923](https://www.legislation.gov.uk/uksi/2020/923), [2023/186](https://www.legislation.gov.uk/uksi/2023/186), [2023/773](https://www.legislation.gov.uk/uksi/2023/773), [2023/823](https://www.legislation.gov.uk/uksi/2023/823), [2023/1172](https://www.legislation.gov.uk/uksi/2023/1172), [2024/187](https://www.legislation.gov.uk/uksi/2024/187), [2024/289](https://www.legislation.gov.uk/uksi/2024/289).
 
@@ -830,46 +830,46 @@ These Regulations are part of a package of legislative measures to implement the
 
 [^f00041]: Footnote: [S.I. 2002/2822](https://www.legislation.gov.uk/uksi/2002/2822). The definition of “appropriate date” in regulation 40(2) is modified as it applies to section 54 parental order parents and section 54A parental order parents by [S.I. 2014/2934](https://www.legislation.gov.uk/uksi/2014/2934); and modified as it applies to adoptions from overseas by [S.I. 2003/1194](https://www.legislation.gov.uk/uksi/2003/1194); there are other amendments to regulation 40 but none is relevant.
 
-[^key-db95b2becb2e2b17af557869cac9d88b]: Commencement: Reg. 24 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-db95b2becb2e2b17af557869cac9d88b]: Commencement: Reg. 24 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-596fc54d43b0265e60abb5bba0964d0c]: Commencement: Reg. 25 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-596fc54d43b0265e60abb5bba0964d0c]: Commencement: Reg. 25 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-132dcf932b4fddcc6bc9f646ce2d75af]: Textual amendment: Sum in [Reg. 25(1)(a)](https://www.legislation.gov.uk/uksi/2025/376/regulation/25/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(4)](https://www.legislation.gov.uk/uksi/2026/148/article/10/4)
+[^c-132dcf932b4fddcc6bc9f646ce2d75af]: Textual amendment: Sum in [Reg. 25(1)(a)](https://www.legislation.gov.uk/uksi/2025/376/regulation/25/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(4)](https://www.legislation.gov.uk/uksi/2026/148/article/10/4)
 
-[^key-df58fce3bf7eb604e6fb32fab3ad2900]: Commencement: Reg. 26 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-df58fce3bf7eb604e6fb32fab3ad2900]: Commencement: Reg. 26 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-83a9b847f9dbd93e1ed2e61e508bed16]: Commencement: Reg. 27 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-83a9b847f9dbd93e1ed2e61e508bed16]: Commencement: Reg. 27 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-182217089f3ec69bef730f066b470e94]: Commencement: Reg. 28 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-182217089f3ec69bef730f066b470e94]: Commencement: Reg. 28 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-68dac05042e906fabc907e2a869a0bb9]: Commencement: Reg. 29 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-68dac05042e906fabc907e2a869a0bb9]: Commencement: Reg. 29 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00042]: Footnote: [1999 c. 2](https://www.legislation.gov.uk/ukpga/1999/2). Section 8 was amended by section 9 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22); paragraph 45 of Schedule 7 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), paragraph 30 of Schedule 1 to the Parental Bereavement Act (Leave and Pay) Act [2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24) and paragraph 31 of Schedule 1 to the Neonatal Care (Leave and Pay) Act [2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20). There are other amendments not relevant to these Regulations.
 
-[^key-63cb0357cd5aae794fecabe70569d364]: Commencement: Reg. 30 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-63cb0357cd5aae794fecabe70569d364]: Commencement: Reg. 30 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00043]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 421 was amended by section 12(2) of the Insolvency Act [2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39), paragraph 192 of Schedule 4 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), and [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037), [2017/702](https://www.legislation.gov.uk/uksi/2017/702) and [2019/146](https://www.legislation.gov.uk/uksi/2019/146).
 
 [^f00044]: Footnote: [1889 c. 39](https://www.legislation.gov.uk/ukpga/1889/39) (52 & 53 Vict). Section 11A was inserted by paragraph 4 of Schedule 7 to the Bankruptcy (Scotland) Act [1985 (c. 66)](https://www.legislation.gov.uk/ukpga/1985/66) and amended by paragraph 5 of Schedule 5 and Part 1 of Schedule 6 to the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) and paragraph 1 of Schedule 8 to the Bankruptcy (Scotland) Act [2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21).
 
-[^key-4a4eb8685b0991c958323306c681594e]: Commencement: Reg. 31 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-4a4eb8685b0991c958323306c681594e]: Commencement: Reg. 31 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-08fd10fc60bf5fdeff4e2247c8b9bda5]: Commencement: Reg. 32 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-08fd10fc60bf5fdeff4e2247c8b9bda5]: Commencement: Reg. 32 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
 [^f00045]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
-[^key-d9ee36644d860d57ae51aba3407938d5]: Commencement: Reg. 33 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-d9ee36644d860d57ae51aba3407938d5]: Commencement: Reg. 33 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-7deeda59b768d30372fd2458901e0035]: Commencement: Sch. para. 1 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-7deeda59b768d30372fd2458901e0035]: Commencement: Sch. para. 1 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-348e77537ec43a3d65a0bc0e16627656]: Commencement: Sch. para. 2 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-348e77537ec43a3d65a0bc0e16627656]: Commencement: Sch. para. 2 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-7042dab9e71cc1446574fc321b3ed9c4]: Commencement: Sch. para. 3 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-7042dab9e71cc1446574fc321b3ed9c4]: Commencement: Sch. para. 3 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-4f634504308e195703f89afb1571770c]: Commencement: Sch. para. 4 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-4f634504308e195703f89afb1571770c]: Commencement: Sch. para. 4 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-53a7fdc110fa9c833c291e11fbcc8898]: Commencement: Sch. para. 5 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-53a7fdc110fa9c833c291e11fbcc8898]: Commencement: Sch. para. 5 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-22a8abc1ebe3326267f39d758870e598]: Commencement: Sch. para. 6 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-22a8abc1ebe3326267f39d758870e598]: Commencement: Sch. para. 6 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
 
-[^key-b777d7d3a76872e135c9304ac9e2ccea]: Commencement: Sch. para. 7 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)
+[^c-b777d7d3a76872e135c9304ac9e2ccea]: Commencement: Sch. para. 7 in force at 6.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/376/regulation/1/2)

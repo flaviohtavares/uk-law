@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.39. Use of website by housing administrator to deliver a particular document[^key-efa2ba689769df27ae3300aec8dc76ad]
+## 7.39. Use of website by housing administrator to deliver a particular document[^c-efa2ba689769df27ae3300aec8dc76ad]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efa2ba689769df27ae3300aec8dc76ad]: Commencement: Rule 7.39 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-efa2ba689769df27ae3300aec8dc76ad]: Commencement: Rule 7.39 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

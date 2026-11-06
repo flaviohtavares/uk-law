@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Migration to universal credit[^key-62999e2fd743fc3c005763a52c420a59]
+## 42. Migration to universal credit[^c-62999e2fd743fc3c005763a52c420a59]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 contains provision about the replacement of benefits by universal cre
 
 ## Annotations
 
-[^key-62999e2fd743fc3c005763a52c420a59]: Commencement: [Art. 42](https://www.legislation.gov.uk/nisi/2015/2006/article/42) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/i)
+[^c-62999e2fd743fc3c005763a52c420a59]: Commencement: [Art. 42](https://www.legislation.gov.uk/nisi/2015/2006/article/42) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Persons who are untraceable[^key-7588b2f96e8a6c262da40c3b49de9ad3]
+## 84. Persons who are untraceable[^c-7588b2f96e8a6c262da40c3b49de9ad3]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ For the purposes of sections 1(1)(b), 2(1), 5(5)(a)(i), 7(1)(e), 14(2)(c), 44(1)
 
 ## Annotations
 
-[^key-7588b2f96e8a6c262da40c3b49de9ad3]: Commencement: S. 84 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-7588b2f96e8a6c262da40c3b49de9ad3]: Commencement: S. 84 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

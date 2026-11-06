@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 196. Fixing of remuneration[^key-fbcdb1bdfc449db4759417aad4f6173e]
+## 196. Fixing of remuneration[^c-fbcdb1bdfc449db4759417aad4f6173e]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbcdb1bdfc449db4759417aad4f6173e]: Commencement: [Rule 196](https://www.legislation.gov.uk/uksi/2011/1301/rule/196) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-fbcdb1bdfc449db4759417aad4f6173e]: Commencement: [Rule 196](https://www.legislation.gov.uk/uksi/2011/1301/rule/196) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

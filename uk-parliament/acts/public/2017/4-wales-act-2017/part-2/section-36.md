@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Exercise of functions in relation to two or more harbours[^key-00174afa048816bcaa8b59eeb6372797]
+## 36. Exercise of functions in relation to two or more harbours[^c-00174afa048816bcaa8b59eeb6372797]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the Minister of the Crown must first consult the Welsh Ministers (except where s
 
 ## Annotations
 
-[^key-00174afa048816bcaa8b59eeb6372797]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/4/section/36) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)
+[^c-00174afa048816bcaa8b59eeb6372797]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/4/section/36) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g)

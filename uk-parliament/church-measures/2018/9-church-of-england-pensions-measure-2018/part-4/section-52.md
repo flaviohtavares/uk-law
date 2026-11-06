@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 52. Miscellaneous administrative payments by Church Commissioners[^key-ee455fd22c5e240e1f77531944137f7e]
+## 52. Miscellaneous administrative payments by Church Commissioners[^c-ee455fd22c5e240e1f77531944137f7e]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The Church Commissioners may make payments to the Board out of their general fun
 
 ## Annotations
 
-[^key-ee455fd22c5e240e1f77531944137f7e]: Commencement: [S. 52](https://www.legislation.gov.uk/ukcm/2018/9/section/52) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-ee455fd22c5e240e1f77531944137f7e]: Commencement: [S. 52](https://www.legislation.gov.uk/ukcm/2018/9/section/52) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

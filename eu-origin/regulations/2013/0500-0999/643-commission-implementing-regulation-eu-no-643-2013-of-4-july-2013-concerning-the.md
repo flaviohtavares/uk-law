@@ -35,22 +35,22 @@ concerning the authorisation of Patent Blue V as a feed additive for non-food pr
 
 (Text with EEA relevance) (revoked)
 
-[^key-ba697d3b2ce60f5f0e297d64e90dad76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba697d3b2ce60f5f0e297d64e90dad76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ba697d3b2ce60f5f0e297d64e90dad76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ba697d3b2ce60f5f0e297d64e90dad76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ba697d3b2ce60f5f0e297d64e90dad76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ba697d3b2ce60f5f0e297d64e90dad76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ba697d3b2ce60f5f0e297d64e90dad76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ba697d3b2ce60f5f0e297d64e90dad76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-ba697d3b2ce60f5f0e297d64e90dad76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-ba697d3b2ce60f5f0e297d64e90dad76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba697d3b2ce60f5f0e297d64e90dad76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba697d3b2ce60f5f0e297d64e90dad76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ba697d3b2ce60f5f0e297d64e90dad76]
+## ANNEX[^c-ba697d3b2ce60f5f0e297d64e90dad76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba697d3b2ce60f5f0e297d64e90dad76]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 111](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/111) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-ba697d3b2ce60f5f0e297d64e90dad76]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 111](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/111) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

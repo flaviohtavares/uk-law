@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Power to make consequential etc provision[^key-36656c9f413657e6bbca1e4eb81f77b9][^key-66113246f7d9272ca9be8cd4f49ad651]
+## 209. Power to make consequential etc provision[^c-36656c9f413657e6bbca1e4eb81f77b9][^c-66113246f7d9272ca9be8cd4f49ad651]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36656c9f413657e6bbca1e4eb81f77b9]: Commencement: S. 209 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-36656c9f413657e6bbca1e4eb81f77b9]: Commencement: S. 209 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-66113246f7d9272ca9be8cd4f49ad651]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2023/52/section/209) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/c)
+[^c-66113246f7d9272ca9be8cd4f49ad651]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2023/52/section/209) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/c)

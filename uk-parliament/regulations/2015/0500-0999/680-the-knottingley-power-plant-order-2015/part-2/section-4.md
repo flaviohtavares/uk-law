@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Power to maintain authorised development[^key-55ffd5a0d0b75505024cb160276497e9]
+## 4. Power to maintain authorised development[^c-55ffd5a0d0b75505024cb160276497e9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may at any time maintain the authorised development, except to th
 
 ## Annotations
 
-[^key-55ffd5a0d0b75505024cb160276497e9]: Commencement: Art. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-55ffd5a0d0b75505024cb160276497e9]: Commencement: Art. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

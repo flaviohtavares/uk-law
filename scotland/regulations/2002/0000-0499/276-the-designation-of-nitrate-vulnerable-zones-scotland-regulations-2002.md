@@ -55,21 +55,21 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (1) In these Regulations–
 
-- “code of good agricultural practice” means those parts of the Code of Good Practice for the Prevention of Environmental Pollution from Agricultural Activity which are aimed at reducing pollution by nitrates and which was issued by the Scottish Ministers on 11th March 2005, having been approved by virtue of the Water (Prevention of Pollution) (Code of Practice) (Scotland) Order 2005[^key-a27c4b39291a04f315d94d0b7122f72b];
-- [^key-8c1252575b6818a78b32de6dd9f09237]...
+- “code of good agricultural practice” means those parts of the Code of Good Practice for the Prevention of Environmental Pollution from Agricultural Activity which are aimed at reducing pollution by nitrates and which was issued by the Scottish Ministers on 11th March 2005, having been approved by virtue of the Water (Prevention of Pollution) (Code of Practice) (Scotland) Order 2005[^c-a27c4b39291a04f315d94d0b7122f72b];
+- [^c-8c1252575b6818a78b32de6dd9f09237]...
 - “the 1991 Directive” means Council Directive [91/676/EEC](https://www.legislation.gov.uk/european/directive/1991/0676) concerning the protection of waters against pollution caused by nitrates from agricultural sources [^c9803401];
 - “ the 1996 Regulations” means the Protection of Water against Agricultural Nitrate Pollution (Scotland ) Regulations 1996 [^c9803411];
-- [^key-8c1252575b6818a78b32de6dd9f09237]...
+- [^c-8c1252575b6818a78b32de6dd9f09237]...
 
 and any expressions used in the 1991 Directive have the same meaning as in that Directive.
 
 (2) Any reference in these Regulations to a numbered regulation is a reference to the regulation so numbered in these Regulations, and any reference in these Regulations to a numbered Article is to the Article so numbered in the 1991 Directive.
 
-## 3. Nitrate vulnerable zones[^key-99b6fbc180c49a7cafcce3ed0084c94b]
+## 3. Nitrate vulnerable zones[^c-99b6fbc180c49a7cafcce3ed0084c94b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Publication of maps[^key-346a9d253701b330b50daf17f5d7d53f]
+## 4. Publication of maps[^c-346a9d253701b330b50daf17f5d7d53f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -89,7 +89,7 @@ The code of good agricultural practice shall have effect as the code of good agr
 
   ;
 - (b) the definition of “first nitrate vulnerable zone [^c9803431]” is omitted; and
-- (c)[^key-b42c7d7666b70160de4adc3d02cf9e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b42c7d7666b70160de4adc3d02cf9e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 6 (action programmes)–
 
@@ -125,23 +125,23 @@ Copies of the Code of Good Agricultural Practice referred to in regulation 4 may
 
 [^c9803381]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-a27c4b39291a04f315d94d0b7122f72b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2002/276/regulation/2/1) substituted (25.6.2005) by [The Nitrate (Public Participation etc.) (Scotland) Regulations 2005 (S.S.I. 2005/305)](https://www.legislation.gov.uk/ssi/2005/305), [regs. 1](https://www.legislation.gov.uk/ssi/2005/305/regulation/1), [3](https://www.legislation.gov.uk/ssi/2005/305/regulation/3)
+[^c-a27c4b39291a04f315d94d0b7122f72b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2002/276/regulation/2/1) substituted (25.6.2005) by [The Nitrate (Public Participation etc.) (Scotland) Regulations 2005 (S.S.I. 2005/305)](https://www.legislation.gov.uk/ssi/2005/305), [regs. 1](https://www.legislation.gov.uk/ssi/2005/305/regulation/1), [3](https://www.legislation.gov.uk/ssi/2005/305/regulation/3)
 
-[^key-8c1252575b6818a78b32de6dd9f09237]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2002/276/regulation/2/1) omitted (2.2.2015) by virtue of [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5/3/a)
+[^c-8c1252575b6818a78b32de6dd9f09237]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2002/276/regulation/2/1) omitted (2.2.2015) by virtue of [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5/3/a)
 
 [^c9803401]: Marginal citation: O.J. No. L 375, 31.12.91, p.1.
 
 [^c9803411]: Marginal citation: [S.I. 1996/1564](https://www.legislation.gov.uk/uksi/1996/1564); amended by [S.I. 1998/2927](https://www.legislation.gov.uk/uksi/1998/2927) and [S.S.I. 2000/96](https://www.legislation.gov.uk/ssi/2000/96).
 
-[^key-99b6fbc180c49a7cafcce3ed0084c94b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2002/276/regulation/3) revoked (2.2.2015) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5/3/b)
+[^c-99b6fbc180c49a7cafcce3ed0084c94b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2002/276/regulation/3) revoked (2.2.2015) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5/3/b)
 
-[^key-346a9d253701b330b50daf17f5d7d53f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2002/276/regulation/4) revoked (2.2.2015) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5/3/b)
+[^c-346a9d253701b330b50daf17f5d7d53f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2002/276/regulation/4) revoked (2.2.2015) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5/3/b)
 
 [^c9803421]: Marginal citation: The existing definition was inserted by [S.S.I. 2002/96](https://www.legislation.gov.uk/ssi/2002/96).
 
 [^c9803431]: Marginal citation: The existing definition was inserted by [S.S.I. 2000/96](https://www.legislation.gov.uk/ssi/2000/96).
 
-[^key-b42c7d7666b70160de4adc3d02cf9e8c]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/ssi/2002/276/regulation/6/2/c) revoked (2.2.2015) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5/3/b)
+[^c-b42c7d7666b70160de4adc3d02cf9e8c]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/ssi/2002/276/regulation/6/2/c) revoked (2.2.2015) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (S.S.I. 2014/373)](https://www.legislation.gov.uk/ssi/2014/373), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/373/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2014/373/regulation/5/3/b)
 
 [^c9803451]: Marginal citation: [Regulation 6(3)](https://www.legislation.gov.uk/ssi/2002/276/regulation/6/3) was substituted by [S.S.I. 2000/96](https://www.legislation.gov.uk/ssi/2000/96).
 

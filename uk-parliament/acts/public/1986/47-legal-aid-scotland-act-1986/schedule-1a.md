@@ -34,7 +34,7 @@ summary: ''
 
 - (a) a firm of solicitors;
 - (b) an incorporated practice within the meaning of section 34(1A)(c) of the Solicitors (Scotland) Act 1980 (c. 46).
-- (c)[^key-273a7fd786cd60ed98ae0c7763cb15c2] a licensed legal services provider.
+- (c)[^c-273a7fd786cd60ed98ae0c7763cb15c2] a licensed legal services provider.
 
 ### Applications
 
@@ -121,4 +121,4 @@ summary: ''
 
 [^c20854731]: Textual amendment: Sch. 1A inserted (30.7.2007) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 67(9)](https://www.legislation.gov.uk/asp/2007/5/section/67/9), [82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2007/335](https://www.legislation.gov.uk/ssi/2007/335), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/335/article/2/a)
 
-[^key-273a7fd786cd60ed98ae0c7763cb15c2]: Textual amendment: Sch. 1A para. 1(4)(c) inserted (2.7.2012) by [The Legal Services (Scotland) Act 2010 (Ancillary Provision) Regulations 2012 (S.S.I. 2012/212)](https://www.legislation.gov.uk/ssi/2012/212), [regs. 1](https://www.legislation.gov.uk/ssi/2012/212/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2012/212/regulation/3/4)
+[^c-273a7fd786cd60ed98ae0c7763cb15c2]: Textual amendment: Sch. 1A para. 1(4)(c) inserted (2.7.2012) by [The Legal Services (Scotland) Act 2010 (Ancillary Provision) Regulations 2012 (S.S.I. 2012/212)](https://www.legislation.gov.uk/ssi/2012/212), [regs. 1](https://www.legislation.gov.uk/ssi/2012/212/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2012/212/regulation/3/4)

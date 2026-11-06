@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Amendment of regulation 10[^key-5bf5f1bca858ed04b29381aaae6230ae]
+## 130. Amendment of regulation 10[^c-5bf5f1bca858ed04b29381aaae6230ae]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In regulation 10 (adjustments of compensation)—
 
 ## Annotations
 
-[^key-5bf5f1bca858ed04b29381aaae6230ae]: Commencement: [Reg. 130](https://www.legislation.gov.uk/ssi/2011/364/regulation/130) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-5bf5f1bca858ed04b29381aaae6230ae]: Commencement: [Reg. 130](https://www.legislation.gov.uk/ssi/2011/364/regulation/130) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

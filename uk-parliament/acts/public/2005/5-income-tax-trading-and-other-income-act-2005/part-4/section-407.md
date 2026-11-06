@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if dividend shares cease to be subject to a Schedule 2[^key-80553577bd14d09e30806a6d69a68b18] incentive plan before the end of the period of 3 years beginning with the date on which the shares were acquired on the participant's behalf.
+(1) This section applies if dividend shares cease to be subject to a Schedule 2[^c-80553577bd14d09e30806a6d69a68b18] incentive plan before the end of the period of 3 years beginning with the date on which the shares were acquired on the participant's behalf.
 
 (2) For income tax purposes a dividend is treated as paid to the participant in the tax year in which the shares cease to be subject to the plan.
 
 (3) The amount of the dividend treated as paid is the amount of the cash dividend applied to acquire the shares on the participant's behalf, so far as it represents a cash dividend paid in respect of plan shares in a non-UK resident company.
 
-(3A)[^key-59769c25e19009b81a0e880d2d872e65] But if the shares cease to be subject to the plan by virtue of a provision of the kind mentioned in paragraph 65(2) of Schedule 2 to ITEPA 2003 (provision requiring dividend shares to be offered for sale), the amount of the dividend treated as paid is the amount equal to the relevant fraction of the market value of the shares at the time they are offered for sale if that amount is less than the amount given by subsection (3).
+(3A)[^c-59769c25e19009b81a0e880d2d872e65] But if the shares cease to be subject to the plan by virtue of a provision of the kind mentioned in paragraph 65(2) of Schedule 2 to ITEPA 2003 (provision requiring dividend shares to be offered for sale), the amount of the dividend treated as paid is the amount equal to the relevant fraction of the market value of the shares at the time they are offered for sale if that amount is less than the amount given by subsection (3).
 
 (3B) For the purposes of subsection (3A) “the relevant fraction” is—
 
@@ -42,16 +42,16 @@ B is the amount of the cash dividend applied to acquire the shares on the partic
 
 (4) The person liable for any tax charged as a result of this section is the participant.
 
-(4A)[^key-7cec78191889afe9fe2f786830697dbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-7cec78191889afe9fe2f786830697dbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) For rules identifying shares ceasing to be subject to Schedule 2[^key-be522258e65ed0001e003a965991bec7] share incentive plans, see section 508 of ITEPA 2003.
+(5) For rules identifying shares ceasing to be subject to Schedule 2[^c-be522258e65ed0001e003a965991bec7] share incentive plans, see section 508 of ITEPA 2003.
 
 ## Annotations
 
-[^key-80553577bd14d09e30806a6d69a68b18]: Textual amendment: Words in s. 407(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 63(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/63/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-80553577bd14d09e30806a6d69a68b18]: Textual amendment: Words in s. 407(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 63(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/63/2), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-59769c25e19009b81a0e880d2d872e65]: Textual amendment: S. 407(3A)-(3C) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 63(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/63/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-59769c25e19009b81a0e880d2d872e65]: Textual amendment: S. 407(3A)-(3C) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 63(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/63/3), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-7cec78191889afe9fe2f786830697dbf]: Textual amendment: S. 407(4A) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/15)
+[^c-7cec78191889afe9fe2f786830697dbf]: Textual amendment: S. 407(4A) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/15)
 
-[^key-be522258e65ed0001e003a965991bec7]: Textual amendment: Words in s. 407(5) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 63(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/63/4), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-be522258e65ed0001e003a965991bec7]: Textual amendment: Words in s. 407(5) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 63(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/63/4), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

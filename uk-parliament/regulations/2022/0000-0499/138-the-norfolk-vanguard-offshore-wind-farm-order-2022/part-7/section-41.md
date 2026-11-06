@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Saving provisions for Trinity House[^key-eedc4051b24d970249c7b074af9d48a1]
+## 41. Saving provisions for Trinity House[^c-eedc4051b24d970249c7b074af9d48a1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-eedc4051b24d970249c7b074af9d48a1]: Commencement: Art. 41 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-eedc4051b24d970249c7b074af9d48a1]: Commencement: Art. 41 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)

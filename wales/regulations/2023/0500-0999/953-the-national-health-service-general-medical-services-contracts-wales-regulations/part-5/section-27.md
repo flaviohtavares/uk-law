@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Variation of contracts[^key-8a98120a47cb265decba0bb3b59e168d]
+## 27. Variation of contracts[^c-8a98120a47cb265decba0bb3b59e168d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a98120a47cb265decba0bb3b59e168d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2023/953/regulation/27) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-8a98120a47cb265decba0bb3b59e168d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2023/953/regulation/27) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

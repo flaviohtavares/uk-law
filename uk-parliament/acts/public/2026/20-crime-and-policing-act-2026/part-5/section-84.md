@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Power to scan for child sexual abuse images at the border[^key-77ea417ab22a4d8400c821d942d63454]
+## 84. Power to scan for child sexual abuse images at the border[^c-77ea417ab22a4d8400c821d942d63454]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ After section 164A of the Customs and Excise Management Act 1979 (powers to sear
 
 ## Annotations
 
-[^key-77ea417ab22a4d8400c821d942d63454]: Commencement: S. 84 in force at Royal Assent, see [s. 255(2)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/d)
+[^c-77ea417ab22a4d8400c821d942d63454]: Commencement: S. 84 in force at Royal Assent, see [s. 255(2)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/d)

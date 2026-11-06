@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 438. Interpretation of the 1993 Regulations[^key-f6f3ace2f84766500f37c00fe7bfe082]
+## 438. Interpretation of the 1993 Regulations[^c-f6f3ace2f84766500f37c00fe7bfe082]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6f3ace2f84766500f37c00fe7bfe082]: Commencement: Art. 438 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f6f3ace2f84766500f37c00fe7bfe082]: Commencement: Art. 438 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -24,12 +24,12 @@ summary: ''
 
 (2) Those provisions shall not apply in relation to income tax borne by deduction from payments received after 30th September 2001.
 
-(3)[^key-21422fb6c03617fa9b7d178e41cd0c44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-21422fb6c03617fa9b7d178e41cd0c44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-21422fb6c03617fa9b7d178e41cd0c44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-21422fb6c03617fa9b7d178e41cd0c44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The provisions of section 438A of, and Schedule 19AB to, the Taxes Act 1988 shall not apply in relation to tax credits in respect of distributions made on or after 6th April 2004.
 
 ## Annotations
 
-[^key-21422fb6c03617fa9b7d178e41cd0c44]: Textual amendment: [S. 87(3)](https://www.legislation.gov.uk/ukpga/2001/9/section/87/3)[(4)](https://www.legislation.gov.uk/ukpga/2001/9/section/87/4) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 16(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/16/9), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-21422fb6c03617fa9b7d178e41cd0c44]: Textual amendment: [S. 87(3)](https://www.legislation.gov.uk/ukpga/2001/9/section/87/3)[(4)](https://www.legislation.gov.uk/ukpga/2001/9/section/87/4) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 16(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/16/9), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)

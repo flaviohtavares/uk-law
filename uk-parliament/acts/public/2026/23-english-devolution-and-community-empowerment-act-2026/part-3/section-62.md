@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Local authorities: effective neighbourhood governance[^key-0ed7779ced5a2e7e76bd471667ad9fd9][^key-ac5d8b449358e947855f056b279a5a2c]
+## 62. Local authorities: effective neighbourhood governance[^c-0ed7779ced5a2e7e76bd471667ad9fd9][^c-ac5d8b449358e947855f056b279a5a2c]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ed7779ced5a2e7e76bd471667ad9fd9]: Commencement: S. 62 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-0ed7779ced5a2e7e76bd471667ad9fd9]: Commencement: S. 62 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-ac5d8b449358e947855f056b279a5a2c]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2026/23/section/62) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-ac5d8b449358e947855f056b279a5a2c]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2026/23/section/62) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

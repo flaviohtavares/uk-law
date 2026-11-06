@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Failure to give or keep up security[^key-be5428aafe3debe335bc2cefeba1f59d]
+## 24. Failure to give or keep up security[^c-be5428aafe3debe335bc2cefeba1f59d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.29 of the 1986 Rules.
 
 ## Annotations
 
-[^key-be5428aafe3debe335bc2cefeba1f59d]: Commencement: Rule 24 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-be5428aafe3debe335bc2cefeba1f59d]: Commencement: Rule 24 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

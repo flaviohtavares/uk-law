@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 477. Interpretation of the 1994 Regulations[^key-3db0a9739077b3b1f00a2cefeb69e1b9]
+## 477. Interpretation of the 1994 Regulations[^c-3db0a9739077b3b1f00a2cefeb69e1b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3db0a9739077b3b1f00a2cefeb69e1b9]: Commencement: Art. 477 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3db0a9739077b3b1f00a2cefeb69e1b9]: Commencement: Art. 477 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

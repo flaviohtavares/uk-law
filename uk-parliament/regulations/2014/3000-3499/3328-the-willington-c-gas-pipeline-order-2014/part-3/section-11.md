@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Public rights of way[^key-fb8d7b4d748e285ec9fb8dabe99cda20]
+## 11. Public rights of way[^c-fb8d7b4d748e285ec9fb8dabe99cda20]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb8d7b4d748e285ec9fb8dabe99cda20]: Commencement: Art. 11 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-fb8d7b4d748e285ec9fb8dabe99cda20]: Commencement: Art. 11 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

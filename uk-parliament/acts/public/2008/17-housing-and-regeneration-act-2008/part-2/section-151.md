@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Interim manager[^key-c2dc9f16f7480bbe067ba9de709935b0]
+## 151. Interim manager[^c-c2dc9f16f7480bbe067ba9de709935b0]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 (4) An appointment under this section shall come to an end with the earliest of the following—
 
 - (a) the end of the moratorium,
-- (b)[^key-512b06672b5f6e88a395a7997e17918f] when the regulator notifies the interim manager that there are proposals under section 152 which are agreed proposals, or
+- (b)[^c-512b06672b5f6e88a395a7997e17918f] when the regulator notifies the interim manager that there are proposals under section 152 which are agreed proposals, or
 - (c) a date specified in the appointment.
 
 (5) An interim manager shall have—
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2dc9f16f7480bbe067ba9de709935b0]: Commencement: S. 151 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-c2dc9f16f7480bbe067ba9de709935b0]: Commencement: S. 151 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-512b06672b5f6e88a395a7997e17918f]: Textual amendment: [S. 151(4)(b)](https://www.legislation.gov.uk/ukpga/2008/17/section/151/4/b) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 12(5)](https://www.legislation.gov.uk/ukpga/2023/36/section/12/5), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/e)
+[^c-512b06672b5f6e88a395a7997e17918f]: Textual amendment: [S. 151(4)(b)](https://www.legislation.gov.uk/ukpga/2008/17/section/151/4/b) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 12(5)](https://www.legislation.gov.uk/ukpga/2023/36/section/12/5), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/e)

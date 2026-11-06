@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357US. Northern Ireland additional deduction[^key-5ea962a42fb14c240b7252905daa0c25][^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357US. Northern Ireland additional deduction[^c-5ea962a42fb14c240b7252905daa0c25][^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ea962a42fb14c240b7252905daa0c25]: Textual amendment: [Pt. 8B Ch. 14B](https://www.legislation.gov.uk/ukpga/2010/4/part/8B/chapter/14B) inserted (with effect in accordance with Sch. 6 para. 20 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/17)
+[^c-5ea962a42fb14c240b7252905daa0c25]: Textual amendment: [Pt. 8B Ch. 14B](https://www.legislation.gov.uk/ukpga/2010/4/part/8B/chapter/14B) inserted (with effect in accordance with Sch. 6 para. 20 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/17)
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)

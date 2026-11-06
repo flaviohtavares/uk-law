@@ -60,18 +60,18 @@ The title of these Regulations is the Drinking Milk (Wales) Regulations 2010. Th
 (1) In these Regulations—
 
 - “**the 1990 Act**” (“***Deddf 1990***”) means the Food Safety Act 1990;
-- [^key-e09edd104b145276925b5ce01cd0d29b]...
+- [^c-e09edd104b145276925b5ce01cd0d29b]...
 - “**Article 114(2)**” (“***Erthygl 114(2)***”) means Article 114(2) of the Council Regulation;
 - “**the Council Regulation**” (“***Rheoliad y Cyngor***”) means Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation);
-- “**drinking milk**” (“***llaeth yfed***”) has the meaning given in point I(b) of Part IV[^key-7f35a58ba2a072aff67b47ab1dffdc9e];
+- “**drinking milk**” (“***llaeth yfed***”) has the meaning given in point I(b) of Part IV[^c-7f35a58ba2a072aff67b47ab1dffdc9e];
 - “**food authority**” (“***awdurdod bwyd***”) means a county council or a county borough council.
 - “**milk**” (“***llaeth***”) has the meaning given in point I(a) of Part IV;
-- “Part IV” (“[^key-f746ea3c201a2a31ee375874c11f3432]*Rhan IV*”) means Part 4 of Annex 7 to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products[^key-173b8e0391650f813269c7a51544b438], as amended from time to time; and
+- “Part IV” (“[^c-f746ea3c201a2a31ee375874c11f3432]*Rhan IV*”) means Part 4 of Annex 7 to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products[^c-173b8e0391650f813269c7a51544b438], as amended from time to time; and
 - “**sell**” (“***gwerthu***”) includes possess for sale and offer, expose or advertise for sale.
 
-(2) Other expressions used in these Regulations and in the Council Regulation or Part IV[^key-2cee95c31dcc6f15d6ef91b0876a7483] which are not defined in these Regulations have the same meaning in these Regulations as they have in the Council Regulation or Part IV.
+(2) Other expressions used in these Regulations and in the Council Regulation or Part IV[^c-2cee95c31dcc6f15d6ef91b0876a7483] which are not defined in these Regulations have the same meaning in these Regulations as they have in the Council Regulation or Part IV.
 
-(3)[^key-748324af0bf300d2d3938ad560159a71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-748324af0bf300d2d3938ad560159a71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Sale or delivery of milk and use of sales description
 
@@ -80,9 +80,9 @@ No person may—
 - (a) sell or deliver milk; or
 - (b) use or omit to use a sales description for any product,
 
-in contravention of Article 114(2) or point II(1) and (2) of Part IV as read with point[^key-ff42c410c917fe69aebdcad57c5ba361] III of Part IV.
+in contravention of Article 114(2) or point II(1) and (2) of Part IV as read with point[^c-ff42c410c917fe69aebdcad57c5ba361] III of Part IV.
 
-## 4. Importation of products from outside the European Union for sale as drinking milk[^key-cf3ea7ad921551f9632cb82a8f177f0b]
+## 4. Importation of products from outside the European Union for sale as drinking milk[^c-cf3ea7ad921551f9632cb82a8f177f0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,11 +92,11 @@ in contravention of Article 114(2) or point II(1) and (2) of Part IV as read wit
 
 (2) Each food authority must give such assistance and information to any other food authority in Great Britain as that other food authority may reasonably require for the purpose of carrying out its duties under these Regulations or an equivalent provision.
 
-(3) In this regulation, “**equivalent provision**” (“***darpariaeth gyfatebol***”) means a provision in Regulations made in England or Scotland for the purpose of implementing Article 114(2) or Part IV[^key-577f1ee286c3c07ae16467015f5b6e59].
+(3) In this regulation, “**equivalent provision**” (“***darpariaeth gyfatebol***”) means a provision in Regulations made in England or Scotland for the purpose of implementing Article 114(2) or Part IV[^c-577f1ee286c3c07ae16467015f5b6e59].
 
 ## 6. Offences and penalties
 
-Any person who fails to comply with regulation 3 [^key-30b4e78c689cd34171d785652e6a4bc8]... is—
+Any person who fails to comply with regulation 3 [^c-30b4e78c689cd34171d785652e6a4bc8]... is—
 
 - (a) guilty of an offence; and
 - (b) liable on summary conviction to a fine not exceeding level 5 on the standard scale.
@@ -123,7 +123,7 @@ Any person who fails to comply with regulation 3 [^key-30b4e78c689cd34171d785652
 
 The Drinking Milk Regulations 1998 [^c20333791] are revoked in relation to Wales.
 
-## 9. Amendments[^key-9507e7948ebecdcea2739264956d4d05]
+## 9. Amendments[^c-9507e7948ebecdcea2739264956d4d05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -163,25 +163,25 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c20333751]: Marginal citation: In relation to Wales functions formerly exercisable by “the Ministers” were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act and thereafter transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-e09edd104b145276925b5ce01cd0d29b]: Textual amendment: Words in reg. 2(1) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(2)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/2/a)
+[^c-e09edd104b145276925b5ce01cd0d29b]: Textual amendment: Words in reg. 2(1) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(2)(a)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/2/a)
 
-[^key-7f35a58ba2a072aff67b47ab1dffdc9e]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(2)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/2/b)
+[^c-7f35a58ba2a072aff67b47ab1dffdc9e]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(2)(b)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/2/b)
 
-[^key-f746ea3c201a2a31ee375874c11f3432]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(2)(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/2/c)
+[^c-f746ea3c201a2a31ee375874c11f3432]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(2)(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/2/c)
 
-[^key-173b8e0391650f813269c7a51544b438]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2010/1492/regulation/2/1) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [23](https://www.legislation.gov.uk/wsi/2019/463/regulation/23)
+[^c-173b8e0391650f813269c7a51544b438]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2010/1492/regulation/2/1) substituted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [23](https://www.legislation.gov.uk/wsi/2019/463/regulation/23)
 
-[^key-2cee95c31dcc6f15d6ef91b0876a7483]: Textual amendment: Words in reg. 2(2) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(3)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/3)
+[^c-2cee95c31dcc6f15d6ef91b0876a7483]: Textual amendment: Words in reg. 2(2) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(3)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/3)
 
-[^key-748324af0bf300d2d3938ad560159a71]: Textual amendment: Reg. 2(3) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(4)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/4)
+[^c-748324af0bf300d2d3938ad560159a71]: Textual amendment: Reg. 2(3) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(4)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/4)
 
-[^key-ff42c410c917fe69aebdcad57c5ba361]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2010/1492/regulation/3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(5)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/5)
+[^c-ff42c410c917fe69aebdcad57c5ba361]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2010/1492/regulation/3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(5)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/5)
 
-[^key-cf3ea7ad921551f9632cb82a8f177f0b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2010/1492/regulation/4) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(6)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/6)
+[^c-cf3ea7ad921551f9632cb82a8f177f0b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2010/1492/regulation/4) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(6)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/6)
 
-[^key-577f1ee286c3c07ae16467015f5b6e59]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2010/1492/regulation/5/3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(7)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/7)
+[^c-577f1ee286c3c07ae16467015f5b6e59]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2010/1492/regulation/5/3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(7)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/7)
 
-[^key-30b4e78c689cd34171d785652e6a4bc8]: Textual amendment: Words in reg. 6 omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(8)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/8)
+[^c-30b4e78c689cd34171d785652e6a4bc8]: Textual amendment: Words in reg. 6 omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) (Wales) Regulations 2013 (S.I. 2013/3270)](https://www.legislation.gov.uk/wsi/2013/3270), [regs. 1(c)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/1/c), [4(8)](https://www.legislation.gov.uk/wsi/2013/3270/regulation/4/8)
 
 [^c20333761]: Marginal citation: [Section 2](https://www.legislation.gov.uk/wsi/2010/1492/section/2) is amended by section 40(1) of, and Schedule 5, paragraphs 7 and 8, to, the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
@@ -191,4 +191,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c20333791]: Marginal citation: [S.I. 1998/2424](https://www.legislation.gov.uk/uksi/1998/2424).
 
-[^key-9507e7948ebecdcea2739264956d4d05]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2010/1492/regulation/9) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+[^c-9507e7948ebecdcea2739264956d4d05]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2010/1492/regulation/9) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)

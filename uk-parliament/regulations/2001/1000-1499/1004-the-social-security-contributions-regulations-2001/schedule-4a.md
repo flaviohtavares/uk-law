@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — Real time returns[^key-8b5d82ccbe8541eab136a65461ff020a]
+## SCHEDULE 4A — Real time returns[^c-8b5d82ccbe8541eab136a65461ff020a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,15 +26,15 @@ Regulation 67(3)
 
 ### 2. Information about the employer and the employee
 
-The information specified in paragraphs 2 to 6, 8 to 15 and 18 to 20[^key-63dd736d02a2733d04cfad26149e39bf] of Schedule A1 (real time returns) to the PAYE Regulations.
+The information specified in paragraphs 2 to 6, 8 to 15 and 18 to 20[^c-63dd736d02a2733d04cfad26149e39bf] of Schedule A1 (real time returns) to the PAYE Regulations.
 
-**2A.**[^key-362782f3d5b6ee49bce21215ee57e00d] For the purposes of paragraph 2, the references in paragraphs 5 and 6 of Schedule A1 to the PAYE Regulations to regulation 67F of those Regulations shall be taken as references to paragraph 21F of Schedule 4 to these Regulations.
+**2A.**[^c-362782f3d5b6ee49bce21215ee57e00d] For the purposes of paragraph 2, the references in paragraphs 5 and 6 of Schedule A1 to the PAYE Regulations to regulation 67F of those Regulations shall be taken as references to paragraph 21F of Schedule 4 to these Regulations.
 
 ### 3. Information about payments to the employee, etc
 
 The amount of the payment made that is included in the amount of the employee’s earnings from the employment for the purposes of determining the amount of earnings-related contributions payable.
 
-**3A.**[^key-1066287fb30cbc8745f0cb2020046a24] The total of the amounts referred to in paragraph 3 in the year to date.
+**3A.**[^c-1066287fb30cbc8745f0cb2020046a24] The total of the amounts referred to in paragraph 3 in the year to date.
 
 **4.** For the purposes of assessing earnings-related contributions based on the payment, the number of earnings periods the payment relates to.
 
@@ -47,11 +47,11 @@ an indication of whether the return relates to earnings which have been or will 
 
 **6.** The appropriate category letter or, as the case may be, letters in relation to the employee (being the appropriate letter or letters indicated by HMRC).
 
-**7.** For the category letter or, as the case may be, each category letter in relation to the employee (being the appropriate letter or letters indicated by HMRC), the total of the amounts required to be recorded by paragraph 7(13)(b)(i) to (iii)[^key-3bd1657dcb85dc5639dd5e22e1b47c11] of Schedule 4 (calculation of deduction) for the year to date.
+**7.** For the category letter or, as the case may be, each category letter in relation to the employee (being the appropriate letter or letters indicated by HMRC), the total of the amounts required to be recorded by paragraph 7(13)(b)(i) to (iii)[^c-3bd1657dcb85dc5639dd5e22e1b47c11] of Schedule 4 (calculation of deduction) for the year to date.
 
 *Extent: E+W+S*
 
-**7A.**[^key-6e5abdec3e128eb960b2c8ab7be0fe43] (1) Where the category letter or, as the case may be, one of the category letters in relation to the employee (being the appropriate letter or letters indicated by HMRC) is for an employee working within a freeport or investment zone, the postcode for the address in a special tax site where the employee works or, where no postcode is assigned, the alternative code provided by HMRC.
+**7A.**[^c-6e5abdec3e128eb960b2c8ab7be0fe43] (1) Where the category letter or, as the case may be, one of the category letters in relation to the employee (being the appropriate letter or letters indicated by HMRC) is for an employee working within a freeport or investment zone, the postcode for the address in a special tax site where the employee works or, where no postcode is assigned, the alternative code provided by HMRC.
 
 (2) For the purposes of this paragraph “freeport” and “investment zone” have the meanings given in section 113(5) of the Finance Act 2021 and “**special tax site**” has the meaning given by section 113(3) of the Finance Act 2021 (designation of special tax sites).
 
@@ -69,11 +69,11 @@ an indication of whether the return relates to earnings which have been or will 
 - (c) the total amount of primary Class 1 contributions payable on the employee’s earnings in the earnings period in which the return is made, and
 - (d) the total amount of primary Class 1 contributions payable on the employee’s earnings in the year to date.
 
-**11.** In a case where the earnings the return relates to will fall to be aggregated with other earnings in the same earnings period, the information required by paragraphs 6, 7 , 7A *(Extent: E+W+S)*[^key-615dde3f3588ad2f40e8123309d57022] and 10 need only be provided when the final payment of [^key-6b60701cd065726e71e1ee71680ee630]... earnings in the earnings period is made.
+**11.** In a case where the earnings the return relates to will fall to be aggregated with other earnings in the same earnings period, the information required by paragraphs 6, 7 , 7A *(Extent: E+W+S)*[^c-615dde3f3588ad2f40e8123309d57022] and 10 need only be provided when the final payment of [^c-6b60701cd065726e71e1ee71680ee630]... earnings in the earnings period is made.
 
-**12.**[^key-3f04c2a40b62946fd31e70f202ee26a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-3f04c2a40b62946fd31e70f202ee26a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12A.**[^key-f7a4074610d5c97765301610bbce19eb] Whether, during the period since the employer last made a return under paragraph 21A or 21D of Schedule 4 containing information about the employee—
+**12A.**[^c-f7a4074610d5c97765301610bbce19eb] Whether, during the period since the employer last made a return under paragraph 21A or 21D of Schedule 4 containing information about the employee—
 
 - (a) the employee has been absent from the employment because of a trade dispute at the employer’s place of work, or
 - (b) the employee has been absent from the employment without pay for any other reason.
@@ -89,11 +89,11 @@ the amount of the payment after statutory deductions, being the amount of the pa
 
 **12D.** The value of any deductions made from the payment which do not otherwise fall to be reported under Schedule 4.
 
-**12E.**[^key-ca7bd22be8d068927725aa4b97c032b3] The amount of Class 1A contributions payable in respect of any sporting testimonial payments.
+**12E.**[^c-ca7bd22be8d068927725aa4b97c032b3] The amount of Class 1A contributions payable in respect of any sporting testimonial payments.
 
 **12F.** The amount of Class 1A contributions payable in respect of any termination awards.
 
-### 13. Information about statutory sick pay[^key-b45964be1ca07aa1ba58bebb9df9f7c0]
+### 13. Information about statutory sick pay[^c-b45964be1ca07aa1ba58bebb9df9f7c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -103,15 +103,15 @@ If any, the total amount of statutory maternity pay paid during the year to date
 
 ### 15. Information about ordinary statutory paternity pay
 
-If any, the total amount of [^key-97f7ea88f2167cf9586cdf79b8e17222]... statutory paternity pay paid during the year to date in this employment.
+If any, the total amount of [^c-97f7ea88f2167cf9586cdf79b8e17222]... statutory paternity pay paid during the year to date in this employment.
 
-### 16. Information about additional statutory paternity pay[^key-add0d7b1585dcf5ef11cf9e549b65b58]
+### 16. Information about additional statutory paternity pay[^c-add0d7b1585dcf5ef11cf9e549b65b58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-5379df580ffa969b0f74cb85d8fd9aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-5379df580ffa969b0f74cb85d8fd9aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17A. Information about statutory shared parental pay[^key-12ef2cef1698dc9af21854d4aee8e45f]
+### 17A. Information about statutory shared parental pay[^c-12ef2cef1698dc9af21854d4aee8e45f]
 
 If any, the total amount of statutory shared parental pay paid during the year to date in this employment.
 
@@ -130,7 +130,7 @@ If any, the total amount of statutory adoption pay paid in the year to date in t
 
 If any, the total amount of statutory parental bereavement pay paid during the year to date in this employment. *(Extent: E+W+S)*
 
-### 20. Information about statutory neonatal care pay[^key-3cbb390c4ef57cc8e9358ec30c5b2e2b]
+### 20. Information about statutory neonatal care pay[^c-3cbb390c4ef57cc8e9358ec30c5b2e2b]
 
 *Extent: E+W+S*
 
@@ -138,38 +138,38 @@ If any, the total amount of statutory neonatal care pay paid during the year to 
 
 ## Annotations
 
-[^key-8b5d82ccbe8541eab136a65461ff020a]: Textual amendment: Sch. 4A, Sch. 4B inserted (6.4.2012) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2012 (S.I. 2012/821)](https://www.legislation.gov.uk/uksi/2012/821), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/821/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/821/regulation/14), [Sch.](https://www.legislation.gov.uk/uksi/2012/821/schedule)
+[^c-8b5d82ccbe8541eab136a65461ff020a]: Textual amendment: Sch. 4A, Sch. 4B inserted (6.4.2012) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2012 (S.I. 2012/821)](https://www.legislation.gov.uk/uksi/2012/821), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/821/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/821/regulation/14), [Sch.](https://www.legislation.gov.uk/uksi/2012/821/schedule)
 
-[^key-63dd736d02a2733d04cfad26149e39bf]: Textual amendment: Words in Sch. 4A para. 2 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [24](https://www.legislation.gov.uk/uksi/2013/622/regulation/24)
+[^c-63dd736d02a2733d04cfad26149e39bf]: Textual amendment: Words in Sch. 4A para. 2 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [24](https://www.legislation.gov.uk/uksi/2013/622/regulation/24)
 
-[^key-362782f3d5b6ee49bce21215ee57e00d]: Textual amendment: Sch. 4A para. 2A inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [25](https://www.legislation.gov.uk/uksi/2013/622/regulation/25)
+[^c-362782f3d5b6ee49bce21215ee57e00d]: Textual amendment: Sch. 4A para. 2A inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [25](https://www.legislation.gov.uk/uksi/2013/622/regulation/25)
 
-[^key-1066287fb30cbc8745f0cb2020046a24]: Textual amendment: Sch. 4A para. 3A inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [26](https://www.legislation.gov.uk/uksi/2013/622/regulation/26)
+[^c-1066287fb30cbc8745f0cb2020046a24]: Textual amendment: Sch. 4A para. 3A inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [26](https://www.legislation.gov.uk/uksi/2013/622/regulation/26)
 
-[^key-3bd1657dcb85dc5639dd5e22e1b47c11]: Textual amendment: Words in Sch. 4A para. 7 substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [19(i)](https://www.legislation.gov.uk/uksi/2016/352/regulation/19/i) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-3bd1657dcb85dc5639dd5e22e1b47c11]: Textual amendment: Words in Sch. 4A para. 7 substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [19(i)](https://www.legislation.gov.uk/uksi/2016/352/regulation/19/i) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
 
-[^key-6e5abdec3e128eb960b2c8ab7be0fe43]: Textual amendment: [Sch. 4A para. 7A](https://www.legislation.gov.uk/uksi/2001/1004/schedule/4A/paragraph/7A) inserted (E.W.S.) (6.4.2025) by [The Social Security (Contributions) (Amendment) Regulations 2025 (S.I. 2025/144)](https://www.legislation.gov.uk/uksi/2025/144), [regs. 1](https://www.legislation.gov.uk/uksi/2025/144/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/144/regulation/2/2/a)
+[^c-6e5abdec3e128eb960b2c8ab7be0fe43]: Textual amendment: [Sch. 4A para. 7A](https://www.legislation.gov.uk/uksi/2001/1004/schedule/4A/paragraph/7A) inserted (E.W.S.) (6.4.2025) by [The Social Security (Contributions) (Amendment) Regulations 2025 (S.I. 2025/144)](https://www.legislation.gov.uk/uksi/2025/144), [regs. 1](https://www.legislation.gov.uk/uksi/2025/144/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/144/regulation/2/2/a)
 
-[^key-615dde3f3588ad2f40e8123309d57022]: Textual amendment: Word in [Sch. 4A para. 11](https://www.legislation.gov.uk/uksi/2001/1004/schedule/4A/paragraph/11) inserted (E.W.S.) (6.4.2025) by [The Social Security (Contributions) (Amendment) Regulations 2025 (S.I. 2025/144)](https://www.legislation.gov.uk/uksi/2025/144), [regs. 1](https://www.legislation.gov.uk/uksi/2025/144/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/144/regulation/2/2/b)
+[^c-615dde3f3588ad2f40e8123309d57022]: Textual amendment: Word in [Sch. 4A para. 11](https://www.legislation.gov.uk/uksi/2001/1004/schedule/4A/paragraph/11) inserted (E.W.S.) (6.4.2025) by [The Social Security (Contributions) (Amendment) Regulations 2025 (S.I. 2025/144)](https://www.legislation.gov.uk/uksi/2025/144), [regs. 1](https://www.legislation.gov.uk/uksi/2025/144/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/144/regulation/2/2/b)
 
-[^key-6b60701cd065726e71e1ee71680ee630]: Textual amendment: Word in Sch. 4A para. 11 omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [23](https://www.legislation.gov.uk/uksi/2015/478/regulation/23)
+[^c-6b60701cd065726e71e1ee71680ee630]: Textual amendment: Word in Sch. 4A para. 11 omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [23](https://www.legislation.gov.uk/uksi/2015/478/regulation/23)
 
-[^key-3f04c2a40b62946fd31e70f202ee26a0]: Textual amendment: Sch. 4A para. 12 omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [19(ii)](https://www.legislation.gov.uk/uksi/2016/352/regulation/19/ii) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-3f04c2a40b62946fd31e70f202ee26a0]: Textual amendment: Sch. 4A para. 12 omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [19(ii)](https://www.legislation.gov.uk/uksi/2016/352/regulation/19/ii) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
 
-[^key-f7a4074610d5c97765301610bbce19eb]: Textual amendment: Sch. 4A paras. 12A-12D inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [28](https://www.legislation.gov.uk/uksi/2013/622/regulation/28)
+[^c-f7a4074610d5c97765301610bbce19eb]: Textual amendment: Sch. 4A paras. 12A-12D inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [28](https://www.legislation.gov.uk/uksi/2013/622/regulation/28)
 
-[^key-ca7bd22be8d068927725aa4b97c032b3]: Textual amendment: Sch. 4A paras. 12E, 12F inserted (6.4.2020) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2020 (S.I. 2020/300)](https://www.legislation.gov.uk/uksi/2020/300), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/300/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/300/regulation/8)
+[^c-ca7bd22be8d068927725aa4b97c032b3]: Textual amendment: Sch. 4A paras. 12E, 12F inserted (6.4.2020) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2020 (S.I. 2020/300)](https://www.legislation.gov.uk/uksi/2020/300), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/300/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/300/regulation/8)
 
-[^key-b45964be1ca07aa1ba58bebb9df9f7c0]: Textual amendment: Sch. 4A para. 13 omitted (6.10.2014) by virtue of [The Social Security (Contributions) (Amendment No. 4) Regulations 2014 (S.I. 2014/2397)](https://www.legislation.gov.uk/uksi/2014/2397), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/3/8)
+[^c-b45964be1ca07aa1ba58bebb9df9f7c0]: Textual amendment: Sch. 4A para. 13 omitted (6.10.2014) by virtue of [The Social Security (Contributions) (Amendment No. 4) Regulations 2014 (S.I. 2014/2397)](https://www.legislation.gov.uk/uksi/2014/2397), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/3/8)
 
-[^key-97f7ea88f2167cf9586cdf79b8e17222]: Textual amendment: Word in Sch. 4A para. 15 omitted (5.4.2015) by virtue of [The Social Security and Tax Credits (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/175)](https://www.legislation.gov.uk/uksi/2015/175), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/3), [5(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/5/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2015/175/regulation/9))
+[^c-97f7ea88f2167cf9586cdf79b8e17222]: Textual amendment: Word in Sch. 4A para. 15 omitted (5.4.2015) by virtue of [The Social Security and Tax Credits (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/175)](https://www.legislation.gov.uk/uksi/2015/175), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/3), [5(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/5/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2015/175/regulation/9))
 
-[^key-add0d7b1585dcf5ef11cf9e549b65b58]: Textual amendment: Sch. 4A para. 16 omitted (5.4.2015) by virtue of [The Social Security and Tax Credits (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/175)](https://www.legislation.gov.uk/uksi/2015/175), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/3), [5(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/5/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2015/175/regulation/9))
+[^c-add0d7b1585dcf5ef11cf9e549b65b58]: Textual amendment: Sch. 4A para. 16 omitted (5.4.2015) by virtue of [The Social Security and Tax Credits (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/175)](https://www.legislation.gov.uk/uksi/2015/175), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/3), [5(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/5/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2015/175/regulation/9))
 
-[^key-5379df580ffa969b0f74cb85d8fd9aac]: Textual amendment: Sch. 4A para. 17 omitted (5.4.2015) by virtue of [The Social Security and Tax Credits (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/175)](https://www.legislation.gov.uk/uksi/2015/175), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/3), [5(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/5/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2015/175/regulation/9))
+[^c-5379df580ffa969b0f74cb85d8fd9aac]: Textual amendment: Sch. 4A para. 17 omitted (5.4.2015) by virtue of [The Social Security and Tax Credits (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/175)](https://www.legislation.gov.uk/uksi/2015/175), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/3), [5(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/5/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2015/175/regulation/9))
 
-[^key-12ef2cef1698dc9af21854d4aee8e45f]: Textual amendment: Sch. 4A paras. 17A, 17B inserted (5.3.2015) by [The Social Security and Tax Credits (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/175)](https://www.legislation.gov.uk/uksi/2015/175), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/3), [5(4)](https://www.legislation.gov.uk/uksi/2015/175/regulation/5/4)
+[^c-12ef2cef1698dc9af21854d4aee8e45f]: Textual amendment: Sch. 4A paras. 17A, 17B inserted (5.3.2015) by [The Social Security and Tax Credits (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/175)](https://www.legislation.gov.uk/uksi/2015/175), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2015/175/regulation/2/3), [5(4)](https://www.legislation.gov.uk/uksi/2015/175/regulation/5/4)
 
 [^M_F_94eba8da-1bca-4535-e8dd-2291b7eb71dd]: Textual amendment: Sch. 4A para. 19 inserted (6.4.2020) by [The Social Security (Contributions) (Amendment) Regulations 2020 (S.I. 2020/239)](https://www.legislation.gov.uk/uksi/2020/239), [regs. 1](https://www.legislation.gov.uk/uksi/2020/239/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/239/regulation/2/4) (which amendment was extended to N.I. (6.4.2022) by S.I. 2022/384, reg. 3)
 
-[^key-3cbb390c4ef57cc8e9358ec30c5b2e2b]: Textual amendment: [Sch. 4A para. 20](https://www.legislation.gov.uk/uksi/2001/1004/schedule/4A/paragraph/20) inserted (E.W.S.) (6.4.2025) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2025 (S.I. 2025/328)](https://www.legislation.gov.uk/uksi/2025/328), [regs. 1](https://www.legislation.gov.uk/uksi/2025/328/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/328/regulation/2/4)
+[^c-3cbb390c4ef57cc8e9358ec30c5b2e2b]: Textual amendment: [Sch. 4A para. 20](https://www.legislation.gov.uk/uksi/2001/1004/schedule/4A/paragraph/20) inserted (E.W.S.) (6.4.2025) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2025 (S.I. 2025/328)](https://www.legislation.gov.uk/uksi/2025/328), [regs. 1](https://www.legislation.gov.uk/uksi/2025/328/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/328/regulation/2/4)

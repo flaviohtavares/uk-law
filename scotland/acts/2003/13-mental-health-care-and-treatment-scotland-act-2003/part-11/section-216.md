@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 216. Effect of revocation of direction[^key-9ac9220b862712dbdaace1b575144de0]
+## 216. Effect of revocation of direction[^c-9ac9220b862712dbdaace1b575144de0]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ac9220b862712dbdaace1b575144de0]: Commencement: [S. 216](https://www.legislation.gov.uk/asp/2003/13/section/216) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-9ac9220b862712dbdaace1b575144de0]: Commencement: [S. 216](https://www.legislation.gov.uk/asp/2003/13/section/216) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

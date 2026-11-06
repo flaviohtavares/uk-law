@@ -51,9 +51,9 @@ These Regulations may be cited as the Personal and Occupational Pension Schemes 
 
 ## 2. Schemes providing salary-related death benefits
 
-(1)[^key-486dadfff1eaa9a4b189f176fcdcf943] Part I of the Pensions Act 1995 applies to any occupational pension scheme under which all the benefits that may be provided other than death benefits are money purchase benefits as if every reference in that Part to a money purchase scheme included such a scheme.
+(1)[^c-486dadfff1eaa9a4b189f176fcdcf943] Part I of the Pensions Act 1995 applies to any occupational pension scheme under which all the benefits that may be provided other than death benefits are money purchase benefits as if every reference in that Part to a money purchase scheme included such a scheme.
 
-(2)[^key-4d4b12a4849462c3808fee5cb74b3a43] But paragraph (1) does not apply in relation to the provision by an occupational pension scheme of a pension to which regulation 2 of the Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 applies (removal of indexation: money purchase benefits provided under a hybrid occupational pension scheme).
+(2)[^c-4d4b12a4849462c3808fee5cb74b3a43] But paragraph (1) does not apply in relation to the provision by an occupational pension scheme of a pension to which regulation 2 of the Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 applies (removal of indexation: money purchase benefits provided under a hybrid occupational pension scheme).
 
 ## 3. Miscellaneous amendments
 
@@ -248,7 +248,7 @@ Regulation 3
 
 .
 
-### 5. The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996[^key-2bea8139d0583649a2dfc14fe016ef4c]
+### 5. The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996[^c-2bea8139d0583649a2dfc14fe016ef4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -340,7 +340,7 @@ Regulation 3
   : and
 - (d) omit paragraph 9.
 
-### 8. The Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations 1996[^key-4ccf4a24f2e6ac1a495a69daea9c11eb]
+### 8. The Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations 1996[^c-4ccf4a24f2e6ac1a495a69daea9c11eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -584,7 +584,7 @@ Regulation 3
 
 (5) In paragraph 6 of the Schedule after the word “trustees" insert the words “ or managers ”.
 
-### 14. The Occupational Pension Schemes (Payments to Employers) Regulations 1996[^key-3adeba72141e1caac09b9e09b2d0d0a9]
+### 14. The Occupational Pension Schemes (Payments to Employers) Regulations 1996[^c-3adeba72141e1caac09b9e09b2d0d0a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -605,7 +605,7 @@ Regulation 3
 
 (3) In regulation 7(2) for the word “Miscellaneous" substitute the word “ Consequential ”.
 
-### 16. The Occupational Pension Schemes (Modification of Schemes) Regulations 1996[^key-22ff73e43470a8ed9693de8fab57fa90]
+### 16. The Occupational Pension Schemes (Modification of Schemes) Regulations 1996[^c-22ff73e43470a8ed9693de8fab57fa90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -620,7 +620,7 @@ In regulation 12 of the Occupational Pension Schemes (Winding Up) Regulations 19
 
 .
 
-### 18. The Occupational Pension Schemes (Investment) Regulations 1996[^key-54e754ba445935f6fa936af7ce2d6cbd]
+### 18. The Occupational Pension Schemes (Investment) Regulations 1996[^c-54e754ba445935f6fa936af7ce2d6cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -652,12 +652,12 @@ Regulation 4
 | --- | --- | --- |
 | 1987/1111 | The Personal Pension Schemes (Personal Pension Protected Rights Premiums) Regulations 1987. | All the Regulations. |
 | 1996/1172 | The Occupational Pension Schemes (Contracting-out) Regulations 1996. | Regulation 6(2)(f)(i) and in regulation 72, in paragraph (3), the words “Subject to paragraphs (4) and (5)" and paragraphs (4) and (5). |
-| [^key-0d13d3c98a6142ce7a6fc2a362677a4c]... |  |  |
+| [^c-0d13d3c98a6142ce7a6fc2a362677a4c]... |  |  |
 | 1996/1462 | The Contracting-out (Transfer and Transfer Payment) Regulations 1996. | In regulation 7(1)(a), the words “or from an appropriate policy" and in Schedule 2, paragraph 9. |
-| [^key-099ebb0d090f405888f11aec282cc927]... |  |  |
+| [^c-099ebb0d090f405888f11aec282cc927]... |  |  |
 | 1996/1655 | The Occupational Pension Schemes (Disclosure of Information) Regulations 1996. | In regulation 1(2), the definition of “multi-employer scheme" and regulation 5(11). |
 | 1996/1847 | The Occupational Pension Schemes (Transfer Values) Regulations 1996. | In regulation 7(3)(b), the words “as being". |
-| [^key-0d13d3c98a6142ce7a6fc2a362677a4c]... |  |  |
+| [^c-0d13d3c98a6142ce7a6fc2a362677a4c]... |  |  |
 | 1996/3128 | The Occupational Pension Schemes (Deficiency on Winding Up etc.) Regulations 1996. | In Schedule 2, paragraph 4. |
 
 (This note is not part of the Regulations)
@@ -742,9 +742,9 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c1722174]: Marginal citation: See section 185(1) of the Pension Schemes Act 1993 and section 120(1) of the Pensions Act 1995. Section 185(1) of the Pension Schemes Act 1993 was amended by paragraph 80 of Schedule 5 to the Pensions Act 1995.
 
-[^key-486dadfff1eaa9a4b189f176fcdcf943]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/786/regulation/2/1): reg. 2 renumbered as reg. 2(1) (6.4.2005) by [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/14/2)
+[^c-486dadfff1eaa9a4b189f176fcdcf943]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/786/regulation/2/1): reg. 2 renumbered as reg. 2(1) (6.4.2005) by [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/14/2)
 
-[^key-4d4b12a4849462c3808fee5cb74b3a43]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/786/regulation/2/2) added (6.4.2005) by [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2005/704/regulation/14/3)
+[^c-4d4b12a4849462c3808fee5cb74b3a43]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/1997/786/regulation/2/2) added (6.4.2005) by [Personal and Occupational Pension Schemes (Indexation and Disclosure of Information) (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/704)](https://www.legislation.gov.uk/uksi/2005/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/704/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2005/704/regulation/14/3)
 
 [^c1722175]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -760,13 +760,13 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c1722181]: Marginal citation: [S.I. 1996/3126](https://www.legislation.gov.uk/uksi/1996/3126).
 
-[^key-2bea8139d0583649a2dfc14fe016ef4c]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/5) revoked (6.4.2006) by [Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table
+[^c-2bea8139d0583649a2dfc14fe016ef4c]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/5) revoked (6.4.2006) by [Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table
 
 [^c1722184]: Marginal citation: [S.I. 1996/1461](https://www.legislation.gov.uk/uksi/1996/1461).
 
 [^c1722185]: Marginal citation: [S.I. 1996/1462](https://www.legislation.gov.uk/uksi/1996/1462).
 
-[^key-4ccf4a24f2e6ac1a495a69daea9c11eb]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/8) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [21](https://www.legislation.gov.uk/uksi/2005/3377/regulation/21), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3377/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4))
+[^c-4ccf4a24f2e6ac1a495a69daea9c11eb]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/8) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [21](https://www.legislation.gov.uk/uksi/2005/3377/regulation/21), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3377/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4))
 
 [^c1722187]: Marginal citation: [S.I. 1996/1537](https://www.legislation.gov.uk/uksi/1996/1537).
 
@@ -778,18 +778,18 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c1722191]: Marginal citation: [S.I. 1996/1975](https://www.legislation.gov.uk/uksi/1996/1975).
 
-[^key-3adeba72141e1caac09b9e09b2d0d0a9]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/14) revoked (6.4.2006) by [Occupational Pension Schemes (Payments to Employer) Regulations 2006 (S.I. 2006/802)](https://www.legislation.gov.uk/uksi/2006/802), [regs. 1](https://www.legislation.gov.uk/uksi/2006/802/regulation/1), [19](https://www.legislation.gov.uk/uksi/2006/802/regulation/19), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/802/schedule/2)
+[^c-3adeba72141e1caac09b9e09b2d0d0a9]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/14) revoked (6.4.2006) by [Occupational Pension Schemes (Payments to Employer) Regulations 2006 (S.I. 2006/802)](https://www.legislation.gov.uk/uksi/2006/802), [regs. 1](https://www.legislation.gov.uk/uksi/2006/802/regulation/1), [19](https://www.legislation.gov.uk/uksi/2006/802/regulation/19), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/802/schedule/2)
 
 [^c1722193]: Marginal citation: [S.I. 1996/2475](https://www.legislation.gov.uk/uksi/1996/2475).
 
-[^key-22ff73e43470a8ed9693de8fab57fa90]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/16) revoked (6.4.2006) by [Occupational Pension Schemes (Modification of Schemes) Regulations 2006 (S.I. 2006/759)](https://www.legislation.gov.uk/uksi/2006/759), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/759/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2006/759/schedule)
+[^c-22ff73e43470a8ed9693de8fab57fa90]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/16) revoked (6.4.2006) by [Occupational Pension Schemes (Modification of Schemes) Regulations 2006 (S.I. 2006/759)](https://www.legislation.gov.uk/uksi/2006/759), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/759/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2006/759/schedule)
 
 [^c1722195]: Marginal citation: [S.I. 1996/3126](https://www.legislation.gov.uk/uksi/1996/3126).
 
-[^key-54e754ba445935f6fa936af7ce2d6cbd]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/18) revoked (30.12.2005) by [Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378)](https://www.legislation.gov.uk/uksi/2005/3378), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3378/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3378/schedule)
+[^c-54e754ba445935f6fa936af7ce2d6cbd]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/18) revoked (30.12.2005) by [Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378)](https://www.legislation.gov.uk/uksi/2005/3378), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3378/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3378/schedule)
 
 [^c1722197]: Marginal citation: [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128).
 
-[^key-0d13d3c98a6142ce7a6fc2a362677a4c]: Textual amendment: Sch. 2 entry revoked (6.4.2006) by [Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table
+[^c-0d13d3c98a6142ce7a6fc2a362677a4c]: Textual amendment: Sch. 2 entry revoked (6.4.2006) by [Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table
 
-[^key-099ebb0d090f405888f11aec282cc927]: Textual amendment: Sch. 2 entry revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [21](https://www.legislation.gov.uk/uksi/2005/3377/regulation/21), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3377/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4))
+[^c-099ebb0d090f405888f11aec282cc927]: Textual amendment: Sch. 2 entry revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [21](https://www.legislation.gov.uk/uksi/2005/3377/regulation/21), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3377/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4))

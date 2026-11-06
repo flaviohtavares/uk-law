@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Return as to election expenses: constituency and individual regional candidates[^key-adfc97fd8f0ee275e09c2ef0cdacc6ba]
+## 47. Return as to election expenses: constituency and individual regional candidates[^c-adfc97fd8f0ee275e09c2ef0cdacc6ba]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-adfc97fd8f0ee275e09c2ef0cdacc6ba]: Commencement: Art. 47 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-adfc97fd8f0ee275e09c2ef0cdacc6ba]: Commencement: Art. 47 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00039]: Footnote: Schedule 2A was inserted by the 2000 Political Parties Act, section 130 and Schedule 16. Paragraph 10 was amended by the 2006 Act, Schedule 1, paragraph 16.

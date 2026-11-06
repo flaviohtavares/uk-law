@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Additional power to direct UK clearing houses[^key-3e9f5e247bf2f5c61c3eee8a097ec715]
+## 31. Additional power to direct UK clearing houses[^c-3e9f5e247bf2f5c61c3eee8a097ec715]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ After section 296 of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-3e9f5e247bf2f5c61c3eee8a097ec715]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2012/21/section/31) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3e9f5e247bf2f5c61c3eee8a097ec715]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2012/21/section/31) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

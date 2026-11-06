@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Requisite majorities at contributories’ meetings[^key-ed8abe37a24a5085fb89ba0f212dc641]
+## 58. Requisite majorities at contributories’ meetings[^c-ed8abe37a24a5085fb89ba0f212dc641]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ At a meeting of contributories, voting rights are as at a general meeting of the
 
 ## Annotations
 
-[^key-ed8abe37a24a5085fb89ba0f212dc641]: Commencement: Rule 58 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-ed8abe37a24a5085fb89ba0f212dc641]: Commencement: Rule 58 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

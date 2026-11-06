@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47A. Searches in specified areas or places[^key-5c503db76fe1554461af23edba4f208c]
+## 47A. Searches in specified areas or places[^c-5c503db76fe1554461af23edba4f208c]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c503db76fe1554461af23edba4f208c]: Textual amendment: S. 47A and cross-heading inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/61/1), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(e)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/e)
+[^c-5c503db76fe1554461af23edba4f208c]: Textual amendment: S. 47A and cross-heading inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/61/1), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(e)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/e)

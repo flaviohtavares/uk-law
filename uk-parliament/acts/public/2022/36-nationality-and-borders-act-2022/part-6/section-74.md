@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Visa penalties under section 72: review and revocation[^key-50291f3aae7d15997ce1520e25b7ef41]
+## 74. Visa penalties under section 72: review and revocation[^c-50291f3aae7d15997ce1520e25b7ef41]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50291f3aae7d15997ce1520e25b7ef41]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2022/36/section/74) in force at 28.6.2022, see [s. 87(5)(h)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/h)
+[^c-50291f3aae7d15997ce1520e25b7ef41]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2022/36/section/74) in force at 28.6.2022, see [s. 87(5)(h)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/h)

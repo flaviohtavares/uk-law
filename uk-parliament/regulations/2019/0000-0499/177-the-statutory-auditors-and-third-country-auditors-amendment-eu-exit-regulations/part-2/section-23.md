@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23.[^key-cbc606d7169d3576e94801c762346af2]
+## 23.[^c-cbc606d7169d3576e94801c762346af2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ In section 1253E (working arrangements for transfer of papers) [^c23586481]—
 
 ## Annotations
 
-[^key-cbc606d7169d3576e94801c762346af2]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-cbc606d7169d3576e94801c762346af2]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586481]: Marginal citation: Section 1253E was inserted by regulation 15(1) of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494), and substituted by regulation 3 of [S.I. 2010/2537](https://www.legislation.gov.uk/uksi/2010/2537).
 

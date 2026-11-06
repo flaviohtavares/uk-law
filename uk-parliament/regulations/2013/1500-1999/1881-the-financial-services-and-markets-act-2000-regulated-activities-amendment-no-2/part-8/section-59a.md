@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59A. Application of article 72B of the Regulated Activities Order to persons with an interim permission[^key-4ac83d537bde0fa5a086462098a7cc10]
+## 59A. Application of article 72B of the Regulated Activities Order to persons with an interim permission[^c-4ac83d537bde0fa5a086462098a7cc10]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ac83d537bde0fa5a086462098a7cc10]: Textual amendment: [Art. 59A](https://www.legislation.gov.uk/uksi/2013/1881/article/59A) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [7(6)](https://www.legislation.gov.uk/uksi/2014/208/article/7/6)
+[^c-4ac83d537bde0fa5a086462098a7cc10]: Textual amendment: [Art. 59A](https://www.legislation.gov.uk/uksi/2013/1881/article/59A) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [7(6)](https://www.legislation.gov.uk/uksi/2014/208/article/7/6)

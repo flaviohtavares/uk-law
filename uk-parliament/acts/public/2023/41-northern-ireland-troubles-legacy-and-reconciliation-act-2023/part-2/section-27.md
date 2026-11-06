@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. False statements: offence[^key-30831b1ed1eff83a649d8084192f15fd]
+## 27. False statements: offence[^c-30831b1ed1eff83a649d8084192f15fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30831b1ed1eff83a649d8084192f15fd]: Commencement: S. 27 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-30831b1ed1eff83a649d8084192f15fd]: Commencement: S. 27 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)

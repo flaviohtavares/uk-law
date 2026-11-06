@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Parliamentary procedure for judicial schemes: transitory provision[^key-2db7b6439a46830f8ab7cee1293351e2][^key-1f2c0a5aca6b7d5272c980da3a01f709]
+## 107. Parliamentary procedure for judicial schemes: transitory provision[^c-2db7b6439a46830f8ab7cee1293351e2][^c-1f2c0a5aca6b7d5272c980da3a01f709]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2db7b6439a46830f8ab7cee1293351e2]: Commencement: S. 107 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-2db7b6439a46830f8ab7cee1293351e2]: Commencement: S. 107 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-1f2c0a5aca6b7d5272c980da3a01f709]: Commencement: S. 107 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-1f2c0a5aca6b7d5272c980da3a01f709]: Commencement: S. 107 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

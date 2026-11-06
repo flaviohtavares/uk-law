@@ -32,7 +32,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 
 \[8th November 1995\]
 
-[^c14467581][^c14467591][^c14467601][^c14467611][^c14467621][^c14467631][^c14467641][^c14467651][^c19033801][^c19779661]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-0f53831441d1ac06868f039b3b880604][^key-554c387c40c4c4c9a68f8139bd1b3f65][^key-ef63a06f55ee400565233eaa74d60063][^key-330fb5cb717e329811664f80127dcee4]
+[^c14467581][^c14467591][^c14467601][^c14467611][^c14467621][^c14467631][^c14467641][^c14467651][^c19033801][^c19779661]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-0f53831441d1ac06868f039b3b880604][^c-554c387c40c4c4c9a68f8139bd1b3f65][^c-ef63a06f55ee400565233eaa74d60063][^c-330fb5cb717e329811664f80127dcee4]
 
 ## Contents
 
@@ -148,7 +148,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 
 - [Section 21 — Schedule 1 offences: power of constable to take offender into custody.](part-ii/section-21.md)
 
-#### ...[^key-1ab25a8bfb3cc7827bcb966ff897c88d]
+#### ...[^c-1ab25a8bfb3cc7827bcb966ff897c88d]
 
 *Extent: S*
 
@@ -234,11 +234,11 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 
 *Extent: S*
 
-#### Criminal responsibility of mentally disordered persons[^key-0d03765b13e298127b1aca4b7697a277]
+#### Criminal responsibility of mentally disordered persons[^c-0d03765b13e298127b1aca4b7697a277]
 
 - [Section 51A — Criminal responsibility of persons with mental disorder](part-vi/section-51a.md)
 
-#### Diminished responsibility[^key-0d03765b13e298127b1aca4b7697a277]
+#### Diminished responsibility[^c-0d03765b13e298127b1aca4b7697a277]
 
 - [Section 51B — Diminished responsibility](part-vi/section-51b.md)
 
@@ -290,19 +290,19 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 53C — Early termination of interim compulsion order](part-vi/section-53c.md)
 - [Section 53D — Power of court on interim compulsion order ceasing to have effect](part-vi/section-53d.md)
 
-#### Acquittal involving mental disorder[^key-e21a10084ea0f1d2c1ec311326f78c45]
+#### Acquittal involving mental disorder[^c-e21a10084ea0f1d2c1ec311326f78c45]
 
 *Extent: S*
 
 - [Section 53E — Acquittal involving mental disorder](part-vi/section-53e.md)
 
-#### Unfitness for trial[^key-9e90984d0cc4806752927c91f365b2be]
+#### Unfitness for trial[^c-9e90984d0cc4806752927c91f365b2be]
 
 *Extent: S*
 
 - [Section 53F — Unfitness for trial](part-vi/section-53f.md)
 
-#### ...[^key-a3f6bd8d73d559bfa7a0b57ca7fe1bca]
+#### ...[^c-a3f6bd8d73d559bfa7a0b57ca7fe1bca]
 
 *Extent: S*
 
@@ -313,7 +313,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 55 — Examination of facts.](part-vi/section-55.md)
 - [Section 56 — Examination of facts: supplementary provisions.](part-vi/section-56.md)
 
-#### Disposal where accused found not criminally responsible[^key-005fccf12d70af6908f59214e0b9e01f]
+#### Disposal where accused found not criminally responsible[^c-005fccf12d70af6908f59214e0b9e01f]
 
 *Extent: S*
 
@@ -345,7 +345,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 60C — Acquitted persons: detention for medical examination](part-vi/section-60c.md)
 - [Section 60D — Notification of detention under section 60C](part-vi/section-60d.md)
 
-#### Miscellaneous provision[^key-858c136a389150f890194795a2b2c225]
+#### Miscellaneous provision[^c-858c136a389150f890194795a2b2c225]
 
 *Extent: S*
 
@@ -376,7 +376,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 70 — Proceedings against organisations.](part-vii/section-70.md)
 - [Section 70A — Defence statements](part-vii/section-70a.md)
 
-#### Children[^key-12c32c731fabfbf6f6d6f9a2029059e7]
+#### Children[^c-12c32c731fabfbf6f6d6f9a2029059e7]
 
 - [Section 70B — Solemn proceedings against children](part-vii/section-70b.md)
 
@@ -431,7 +431,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 83 — Transfer of sheriff court solemn proceedings.](part-vii/section-83.md)
 - [Section 83ZA — Transfer of sheriff court solemn proceedings within sheriffdom: power of sheriff principal](part-vii/section-83za.md)
 
-#### Continuation of trial diet[^key-de65d6123ebc41a9f4f9c84105a1f2e8][^c19009931]
+#### Continuation of trial diet[^c-de65d6123ebc41a9f4f9c84105a1f2e8][^c19009931]
 
 *Extent: S*
 
@@ -667,7 +667,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 171 — Recovery of penalties.](part-ix/section-171.md)
 - [Section 172 — Forms of procedure.](part-ix/section-172.md)
 
-### PART X — Appeals from Summary Proceedings[^c14471031][^c18996081][^key-8cd9e7773876c727e36ef94485a2af6b][^key-5d3f2290ef10410c360e099674fcce3e][^key-0a2eb5661e195c3f8c2651834767e315]
+### PART X — Appeals from Summary Proceedings[^c14471031][^c18996081][^c-8cd9e7773876c727e36ef94485a2af6b][^c-5d3f2290ef10410c360e099674fcce3e][^c-0a2eb5661e195c3f8c2651834767e315]
 
 *Extent: S*
 
@@ -722,7 +722,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 193A — Suspension of certain sentences pending determination of appeal.](part-x/section-193a.md)
 - [Section 194 — Computation of time.](part-x/section-194.md)
 
-### PART 10ZA — APPEALS FROM SHERIFF APPEAL COURT[^key-c5712dd875983e112542fa61c1c56bbb]
+### PART 10ZA — APPEALS FROM SHERIFF APPEAL COURT[^c-c5712dd875983e112542fa61c1c56bbb]
 
 - [Section 194ZB — Appeal from the Sheriff Appeal Court](part-10za/section-194zb.md)
 - [Section 194ZC — Appeals: applications and procedure](part-10za/section-194zc.md)
@@ -770,7 +770,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 194K — Exceptions from obligations of non-disclosure.](part-xa/section-194k.md)
 - [Section 194L — Consent to disclosure.](part-xa/section-194l.md)
 
-#### Special circumstances for disclosure[^key-272b1aedbd2020c6bad98d9bb0e9ef9d]
+#### Special circumstances for disclosure[^c-272b1aedbd2020c6bad98d9bb0e9ef9d]
 
 - [Section 194M — Further exception to section 194J](part-xa/section-194m.md)
 - [Section 194N — Effect of the exception](part-xa/section-194n.md)
@@ -829,7 +829,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 210A — Extended sentences for sex, violent and terrorist offenders.](part-xi/section-210a.md)
 - [Section 210AA — Extended sentences for certain other offenders](part-xi/section-210aa.md)
 
-#### Approach in domestic abuse cases[^key-945160c1075ab32e2215a6fdc2b7797e]
+#### Approach in domestic abuse cases[^c-945160c1075ab32e2215a6fdc2b7797e]
 
 - [Section 210AB — Particular factor as to victim safety](part-xi/section-210ab.md)
 
@@ -1160,7 +1160,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 252 — Enforcement of compensation orders: application of provisions relating to fines.](part-xi/section-252.md)
 - [Section 253 — Effect of compensation order on subsequent award of damages in civil proceedings.](part-xi/section-253.md)
 
-#### Restitution order[^key-26aa2f20b8bd58b5579dd6a2e941dcef]
+#### Restitution order[^c-26aa2f20b8bd58b5579dd6a2e941dcef]
 
 *Extent: E+W+S+N.I.*
 
@@ -1170,7 +1170,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 253D — Application of receipts](part-xi/section-253d.md)
 - [Section 253E — Enforcement: application of certain provisions relating to fines](part-xi/section-253e.md)
 
-#### Victim surcharge[^key-690b4e9decb238c1aa52f1a4ef110736]
+#### Victim surcharge[^c-690b4e9decb238c1aa52f1a4ef110736]
 
 *Extent: E+W+S+N.I.*
 
@@ -1185,7 +1185,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 
 - [Section 254 — Search warrant for forfeited articles.](part-xi/section-254.md)
 
-#### European Protection Orders[^key-da12d494f2d67b6f26dcbfcb1477a0bd]
+#### European Protection Orders[^c-da12d494f2d67b6f26dcbfcb1477a0bd]
 
 *Extent: S*
 
@@ -1222,13 +1222,13 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 261 — Statements by co-accused](part-xii/section-261.md)
 - [Section 261ZA — Statements by accused](part-xii/section-261za.md)
 
-#### Statements made after charge[^key-8e3ba54f61280a77cf76ba6126cedc0b]
+#### Statements made after charge[^c-8e3ba54f61280a77cf76ba6126cedc0b]
 
 *Extent: S*
 
 - [Section 261ZB — Exception to rule on inadmissiblity](part-xii/section-261zb.md)
 
-#### Witness statements[^key-2c203b027578807f875730adb33f4423]
+#### Witness statements[^c-2c203b027578807f875730adb33f4423]
 
 - [Section 261A — Witness statements: use during trial](part-xii/section-261a.md)
 - [Section 262 — Construction of sections 259 to 261A.](part-xii/section-262.md)
@@ -1280,7 +1280,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 271L — Supporters](part-xii/section-271l.md)
 - [Section 271M — Giving evidence in chief in the form of a prior statement](part-xii/section-271m.md)
 
-#### Witness anonymity orders[^key-f19ec92dcab2752e44bde5d5e8fcf2e4][^key-ad57f6d736639648bab48cdff7b984da]
+#### Witness anonymity orders[^c-f19ec92dcab2752e44bde5d5e8fcf2e4][^c-ad57f6d736639648bab48cdff7b984da]
 
 *Extent: S*
 
@@ -1302,7 +1302,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 272 — Evidence by letter of request or on commission.](part-xii/section-272.md)
 - [Section 273 — Television link evidence from abroad.](part-xii/section-273.md)
 
-#### Evidence from other parts of the United Kingdom[^key-7f3d0412e3bf706fbaef301ecd56cd40]
+#### Evidence from other parts of the United Kingdom[^c-7f3d0412e3bf706fbaef301ecd56cd40]
 
 *Extent: S*
 
@@ -1371,7 +1371,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 287 — Demission from office of Lord Advocate and Solicitor General for Scotland.](part-xiii/section-287.md)
 - [Section 288 — Intimation of proceedings in High Court to Lord Advocate.](part-xiii/section-288.md)
 
-#### Convention rights ... compatibility issues , devolution issues and UNCRC compatibility issues[^key-ce3f7a4dc0e76fd752190d40ffa4a23b][^key-4f5adff61b3740001fdd3aeeb86f6bdf][^key-a129be82520939a432ff0cb06cd451f8]
+#### Convention rights ... compatibility issues , devolution issues and UNCRC compatibility issues[^c-ce3f7a4dc0e76fd752190d40ffa4a23b][^c-4f5adff61b3740001fdd3aeeb86f6bdf][^c-a129be82520939a432ff0cb06cd451f8]
 
 *Extent: S*
 
@@ -1399,7 +1399,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 288C — Prohibition of personal conduct of defence in cases of certain sexual offences](part-xiii/section-288c.md)
 - [Section 288D — Appointment of solicitor by court in such cases](part-xiii/section-288d.md)
 
-#### Jury directions relating to sexual offences[^key-dfe47783e8861319d97b97d23baedaa4]
+#### Jury directions relating to sexual offences[^c-dfe47783e8861319d97b97d23baedaa4]
 
 *Extent: S*
 
@@ -1414,13 +1414,13 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 288E — Prohibition of personal conduct of defence in certain cases involving child witnesses under the age of 12](part-xiii/section-288e.md)
 - [Section 288F — Power to prohibit personal conduct of defence in other cases involving vulnerable witnesses](part-xiii/section-288f.md)
 
-#### Application of vulnerable witnesses provisions to proceedings in the district court[^key-e333823013b1e3030a9bb85f51768f79]
+#### Application of vulnerable witnesses provisions to proceedings in the district court[^c-e333823013b1e3030a9bb85f51768f79]
 
 *Extent: S*
 
 - [Section 288G — Application of vulnerable witnesses provisions to proceedings in the district court](part-xiii/section-288g.md)
 
-#### Use of live television link[^key-847f09caa2b314654a04766a22dc0e7f]
+#### Use of live television link[^c-847f09caa2b314654a04766a22dc0e7f]
 
 *Extent: S*
 
@@ -1527,14 +1527,14 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 
 - [Section 303B — Electronic summary proceedings](part-xiii/section-303b.md)
 
-#### Electronic signatures and alternative methods of sending documents[^key-e72eee702d0d60fbe9ffba67cb92221b]
+#### Electronic signatures and alternative methods of sending documents[^c-e72eee702d0d60fbe9ffba67cb92221b]
 
 - [Section 303C — Electronic signatures](part-xiii/section-303c.md)
 - [Section 303D — Sending documents electronically and to a solicitor](part-xiii/section-303d.md)
 - [Section 303E — Documents to which sections 303C and 303D apply](part-xiii/section-303e.md)
 - [Section 303F — Interpretation of sections 303C to 303E](part-xiii/section-303f.md)
 
-#### Virtual attendance at court[^key-b81ae65c02fc438a2b0095d20954010b]
+#### Virtual attendance at court[^c-b81ae65c02fc438a2b0095d20954010b]
 
 - [Section 303G — Suspension of requirement for physical attendance in criminal trials](part-xiii/section-303g.md)
 - [Section 303H — Suspension of requirement for physical attendance in criminal proceedings where only party is a public official](part-xiii/section-303h.md)
@@ -1544,7 +1544,7 @@ An Act to consolidate certain enactments relating to criminal procedure in Scotl
 - [Section 303L — General directions under section 303K](part-xiii/section-303l.md)
 - [Section 303M — Publication of guidance](part-xiii/section-303m.md)
 
-#### Sections 303C to 303M: transitional provisions and interpretation[^key-1b2e613c8f2706b7529eaa16aebed49b]
+#### Sections 303C to 303M: transitional provisions and interpretation[^c-1b2e613c8f2706b7529eaa16aebed49b]
 
 - [Section 303N — Transitional provisions](part-xiii/section-303n.md)
 - [Section 303O — Interpretation of sections 303C to 303N](part-xiii/section-303o.md)
@@ -1618,13 +1618,13 @@ SCHEDULES
 
     Act: power to modify conferred (S.) (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 64(6)(7)](https://www.legislation.gov.uk/asp/2007/6/section/64/6/7), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-0f53831441d1ac06868f039b3b880604]: Modification: various regulations applied by 1997 c. 43, Sch. 1 para. 19B (as inserted (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/7) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(u)](https://www.legislation.gov.uk/uksi/2015/40/article/2/u))
+[^c-0f53831441d1ac06868f039b3b880604]: Modification: various regulations applied by 1997 c. 43, Sch. 1 para. 19B (as inserted (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2014/11/schedule/3/paragraph/7) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(u)](https://www.legislation.gov.uk/uksi/2015/40/article/2/u))
 
-[^key-554c387c40c4c4c9a68f8139bd1b3f65]: Modification: Act power to apply (with or without modifications) conferred by 2002 c. 29, s. 118(2B)(c) (as inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 19(1)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/19/1/b), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a); [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/11/regulation/3)))
+[^c-554c387c40c4c4c9a68f8139bd1b3f65]: Modification: Act power to apply (with or without modifications) conferred by 2002 c. 29, s. 118(2B)(c) (as inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 19(1)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/19/1/b), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a); [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/11/regulation/3)))
 
-[^key-ef63a06f55ee400565233eaa74d60063]: Modification: 136(3) applied (31.12.2020) by [The Guinea (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1145)](https://www.legislation.gov.uk/uksi/2019/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/1/2), [34(4)(a)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/34/4/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/3/2)
+[^c-ef63a06f55ee400565233eaa74d60063]: Modification: 136(3) applied (31.12.2020) by [The Guinea (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1145)](https://www.legislation.gov.uk/uksi/2019/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/1/2), [34(4)(a)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/34/4/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/3/2)
 
-[^key-330fb5cb717e329811664f80127dcee4]: Modification: Act modified (5.11.2021) by [1953 c. 28](https://www.legislation.gov.uk/ukpga/1953/28), [s. 2(1A)](https://www.legislation.gov.uk/ukpga/1953/28/section/2/1A) (as inserted by [Dogs (Protection of Livestock) (Amendment) (Scotland) Act 2021 (asp 18)](https://www.legislation.gov.uk/asp/2021/18), [ss. 2(1)](https://www.legislation.gov.uk/asp/2021/18/section/2/1), [7(2)](https://www.legislation.gov.uk/asp/2021/18/section/7/2) (with [s. 2(2)](https://www.legislation.gov.uk/asp/2021/18/section/2/2)))
+[^c-330fb5cb717e329811664f80127dcee4]: Modification: Act modified (5.11.2021) by [1953 c. 28](https://www.legislation.gov.uk/ukpga/1953/28), [s. 2(1A)](https://www.legislation.gov.uk/ukpga/1953/28/section/2/1A) (as inserted by [Dogs (Protection of Livestock) (Amendment) (Scotland) Act 2021 (asp 18)](https://www.legislation.gov.uk/asp/2021/18), [ss. 2(1)](https://www.legislation.gov.uk/asp/2021/18/section/2/1), [7(2)](https://www.legislation.gov.uk/asp/2021/18/section/7/2) (with [s. 2(2)](https://www.legislation.gov.uk/asp/2021/18/section/2/2)))
 
 [^c19780591]: Textual amendment: S. 6 cross-heading substituted (10.3.2008, 2.6.2008, 8.12.2008, 23.2.2009 and 14.12.2009 for certain purposes, otherwise 22.2.2010) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 80](https://www.legislation.gov.uk/asp/2007/6/section/80), [84(1)](https://www.legislation.gov.uk/asp/2007/6/section/84/1), [Sch. para. 9(5)(a)](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/9/5/a); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule); [S.S.I. 2008/192](https://www.legislation.gov.uk/ssi/2008/192), [art. 3](https://www.legislation.gov.uk/ssi/2008/192/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/192/schedule); [S.S.I. 2008/329](https://www.legislation.gov.uk/ssi/2008/329), [art. 3](https://www.legislation.gov.uk/ssi/2008/329/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/329/schedule); [S.S.I. 2008/362](https://www.legislation.gov.uk/ssi/2008/362), [art. 3](https://www.legislation.gov.uk/ssi/2008/362/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/362/schedule); [S.S.I. 2009/432](https://www.legislation.gov.uk/ssi/2009/432), [art. 3](https://www.legislation.gov.uk/ssi/2009/432/article/3), [Schs. 1](https://www.legislation.gov.uk/ssi/2009/432/schedule/1), [2](https://www.legislation.gov.uk/ssi/2009/432/schedule/2)
 
@@ -1632,35 +1632,35 @@ SCHEDULES
 
 [^c19033411]: Textual amendment: Ss. 20A, 20B and preceding cross-heading inserted (1.1.2007 for certain purposes, 25.2.2007 in regard to the inserted s. 20B(3), and otherwise in force at 12.6.2007) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 84](https://www.legislation.gov.uk/asp/2006/10/section/84), [104](https://www.legislation.gov.uk/asp/2006/10/section/104); [S.S.I. 2006/607](https://www.legislation.gov.uk/ssi/2006/607), [art. 3](https://www.legislation.gov.uk/ssi/2006/607/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2006/607/schedule); [S.S.I. 2007/84](https://www.legislation.gov.uk/ssi/2007/84), {art. 3(1)(a)(4))(a)}
 
-[^key-1ab25a8bfb3cc7827bcb966ff897c88d]: Textual amendment: S. 22 cross-heading repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 27(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/27/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4), [5](https://www.legislation.gov.uk/ssi/2017/345/article/5))
+[^c-1ab25a8bfb3cc7827bcb966ff897c88d]: Textual amendment: S. 22 cross-heading repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 27(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/27/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4), [5](https://www.legislation.gov.uk/ssi/2017/345/article/5))
 
 [^c19920561]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/ukpga/1995/46/section/34A) and preceding cross-heading inserted (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 31](https://www.legislation.gov.uk/asp/2007/6/section/31), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule)
 
-[^key-0d03765b13e298127b1aca4b7697a277]: Textual amendment: Ss. 51A, 51B and cross-headings inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 168](https://www.legislation.gov.uk/asp/2010/13/section/168), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))
+[^c-0d03765b13e298127b1aca4b7697a277]: Textual amendment: Ss. 51A, 51B and cross-headings inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 168](https://www.legislation.gov.uk/asp/2010/13/section/168), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))
 
 [^c18911291]: Textual amendment: [Ss. 52A-52U](https://www.legislation.gov.uk/ukpga/1995/46/section/52A) inserted (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 130](https://www.legislation.gov.uk/asp/2003/13/section/130), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as amended (27.9.2005) by [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [sch. 1 para. 32(13)(a)(i)(ii)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/i/ii), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2))
 
 [^c18911481]: Textual amendment: Ss. 53-53D and cross-heading substituted (5.10.2005) for s. 53 and cross-heading by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 131](https://www.legislation.gov.uk/asp/2003/13/section/131), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (with savings for [s. 53](https://www.legislation.gov.uk/ssi/2005/161/section/53) by virtue of [S.S.I. 2005/452](https://www.legislation.gov.uk/ssi/2005/452), [art. 33(14)](https://www.legislation.gov.uk/ssi/2005/452/article/33/14))
 
-[^key-e21a10084ea0f1d2c1ec311326f78c45]: Textual amendment: S. 53E and cross-heading inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 169](https://www.legislation.gov.uk/asp/2010/13/section/169), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-e21a10084ea0f1d2c1ec311326f78c45]: Textual amendment: S. 53E and cross-heading inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 169](https://www.legislation.gov.uk/asp/2010/13/section/169), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-9e90984d0cc4806752927c91f365b2be]: Textual amendment: S. 53F and cross-heading inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 170(1)](https://www.legislation.gov.uk/asp/2010/13/section/170/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-9e90984d0cc4806752927c91f365b2be]: Textual amendment: S. 53F and cross-heading inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 170(1)](https://www.legislation.gov.uk/asp/2010/13/section/170/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-a3f6bd8d73d559bfa7a0b57ca7fe1bca]: Textual amendment: S. 54 cross-heading omitted (with application in accordance with art. 3 of the commencing S.S.I.) by virtue of [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 170(2)](https://www.legislation.gov.uk/asp/2010/13/section/170/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-a3f6bd8d73d559bfa7a0b57ca7fe1bca]: Textual amendment: S. 54 cross-heading omitted (with application in accordance with art. 3 of the commencing S.S.I.) by virtue of [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 170(2)](https://www.legislation.gov.uk/asp/2010/13/section/170/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-005fccf12d70af6908f59214e0b9e01f]: Textual amendment: Words in s. 57 cross-heading substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 38](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/38); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-005fccf12d70af6908f59214e0b9e01f]: Textual amendment: Words in s. 57 cross-heading substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 38](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/38); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
 [^c18913432]: Textual amendment: Ss. 57A-57D and cross-heading inserted (21.3.2005 for certain purposes and otherwise 5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 133](https://www.legislation.gov.uk/asp/2003/13/section/133), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [arts. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [3](https://www.legislation.gov.uk/ssi/2005/161/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1) (as amended (27.9.2005) by [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [Sch. 1 para. 32(14)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/14))
 
 [^c18932001]: Textual amendment: Ss. 59A-59C and preceding cross-heading substituted for s. 59A (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 331(1)](https://www.legislation.gov.uk/asp/2003/13/section/331/1), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1), [Sch. 4 para. 8(6)](https://www.legislation.gov.uk/asp/2003/13/schedule/4/paragraph/8/6); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3)
 
-[^key-858c136a389150f890194795a2b2c225]: Textual amendment: [S. 61 crossheading](https://www.legislation.gov.uk/ukpga/1995/46/part/VI/crossheading/medical-evidence) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 46(2)](https://www.legislation.gov.uk/asp/2015/9/section/46/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-858c136a389150f890194795a2b2c225]: Textual amendment: [S. 61 crossheading](https://www.legislation.gov.uk/ukpga/1995/46/part/VI/crossheading/medical-evidence) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 46(2)](https://www.legislation.gov.uk/asp/2015/9/section/46/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-12c32c731fabfbf6f6d6f9a2029059e7]: Textual amendment: [S. 70B](https://www.legislation.gov.uk/ukpga/1995/46/section/70B) and cross-heading inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(3)](https://www.legislation.gov.uk/asp/2024/5/section/16/3), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)
+[^c-12c32c731fabfbf6f6d6f9a2029059e7]: Textual amendment: [S. 70B](https://www.legislation.gov.uk/ukpga/1995/46/section/70B) and cross-heading inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(3)](https://www.legislation.gov.uk/asp/2024/5/section/16/3), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)
 
 [^c19009801]: Textual amendment: S. 75A and crossheading inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 15](https://www.legislation.gov.uk/asp/2004/5/section/15), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (subject to [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-de65d6123ebc41a9f4f9c84105a1f2e8]: Textual amendment: S. 83A crossheading substituted (28.8.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 81(7)](https://www.legislation.gov.uk/asp/2016/1/section/81/7), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 5](https://www.legislation.gov.uk/ssi/2017/99/article/5)
+[^c-de65d6123ebc41a9f4f9c84105a1f2e8]: Textual amendment: S. 83A crossheading substituted (28.8.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 81(7)](https://www.legislation.gov.uk/asp/2016/1/section/81/7), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 5](https://www.legislation.gov.uk/ssi/2017/99/article/5)
 
 [^c19009931]: Textual amendment: S. 83A and crossheading inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 5](https://www.legislation.gov.uk/asp/2004/5/section/5), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (subject to [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
@@ -1674,21 +1674,21 @@ SCHEDULES
 
 [^c18996081]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1995/46/part/10) extended (11.3.2005) by [Prevention of Terrorism Act 2005 (c. 2)](https://www.legislation.gov.uk/ukpga/2005/2), [s. 12(6)(e)](https://www.legislation.gov.uk/ukpga/2005/2/section/12/6/e)
 
-[^key-8cd9e7773876c727e36ef94485a2af6b]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1995/46/part/10) extended (15.12.2011) by [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 3 para. 4(4)(e)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/3/paragraph/4/4/e) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-8cd9e7773876c727e36ef94485a2af6b]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1995/46/part/10) extended (15.12.2011) by [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 3 para. 4(4)(e)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/3/paragraph/4/4/e) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
 
-[^key-5d3f2290ef10410c360e099674fcce3e]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1995/46/part/10) extended (12.2.2015) by [Counter Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 4 para. 4(4)(e)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/4/e)
+[^c-5d3f2290ef10410c360e099674fcce3e]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1995/46/part/10) extended (12.2.2015) by [Counter Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 4 para. 4(4)(e)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/4/e)
 
-[^key-0a2eb5661e195c3f8c2651834767e315]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1995/46/part/10) extended (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 9 para. 4(5)(e)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4/5/e) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-0a2eb5661e195c3f8c2651834767e315]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1995/46/part/10) extended (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 9 para. 4(5)(e)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4/5/e) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-c5712dd875983e112542fa61c1c56bbb]: Textual amendment: [Pt. 10ZA](https://www.legislation.gov.uk/ukpga/1995/46/part/10ZA) inserted (1.4.2015 for specified purposes, 22.9.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 119](https://www.legislation.gov.uk/asp/2014/18/section/119), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-c5712dd875983e112542fa61c1c56bbb]: Textual amendment: [Pt. 10ZA](https://www.legislation.gov.uk/ukpga/1995/46/part/10ZA) inserted (1.4.2015 for specified purposes, 22.9.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 119](https://www.legislation.gov.uk/asp/2014/18/section/119), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c14471351]: Modification: Pt. XA (ss. 194A-194L) extended (1.4.1999) by [S.I. 1999/1181](https://www.legislation.gov.uk/uksi/1999/1181), [art. 2](https://www.legislation.gov.uk/uksi/1999/1181/article/2)
 
 [^c14471341]: Textual amendment: Pt. XA (ss. 194A-194L) inserted (1.1.1998 for the purpose of inserting ss. 194A, 194E and 194G, otherwise 1.4.1999) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1997/48/section/25/1); [S.I. 1997/3004](https://www.legislation.gov.uk/uksi/1997/3004), [art. 2](https://www.legislation.gov.uk/uksi/1997/3004/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/3004/schedule); [S.I. 1999/652](https://www.legislation.gov.uk/uksi/1999/652), [art. 2](https://www.legislation.gov.uk/uksi/1999/652/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/652/schedule) (subject to [art. 3](https://www.legislation.gov.uk/uksi/1999/652/article/3))
 
-[^key-272b1aedbd2020c6bad98d9bb0e9ef9d]: Textual amendment: [Ss. 194M-194T](https://www.legislation.gov.uk/ukpga/1995/46/section/194M) and cross-heading inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 3(3)](https://www.legislation.gov.uk/asp/2012/7/section/3/3), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
+[^c-272b1aedbd2020c6bad98d9bb0e9ef9d]: Textual amendment: [Ss. 194M-194T](https://www.legislation.gov.uk/ukpga/1995/46/section/194M) and cross-heading inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 3(3)](https://www.legislation.gov.uk/asp/2012/7/section/3/3), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 2](https://www.legislation.gov.uk/ssi/2012/249/article/2)
 
-[^key-945160c1075ab32e2215a6fdc2b7797e]: Textual amendment: S. 210AB and cross-heading inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 8(2)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/8/2); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-945160c1075ab32e2215a6fdc2b7797e]: Textual amendment: S. 210AB and cross-heading inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 8(2)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/8/2); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
 [^c19026811]: Textual amendment: Ss. 210B-210H and cross-headings inserted (19.6.2006 for specified purposes) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 1](https://www.legislation.gov.uk/asp/2003/7/section/1), [89](https://www.legislation.gov.uk/asp/2003/7/section/89) (as amended with regards to ss. 210B, 210D and 210G (27.9.2005) by [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [Sch. 1 para. 34(2)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/34/2)); [S.S.I. 2006/332](https://www.legislation.gov.uk/ssi/2006/332), [art. 2](https://www.legislation.gov.uk/ssi/2006/332/article/2)
 
@@ -1708,47 +1708,47 @@ SCHEDULES
 
 [^c19298371]: Textual amendment: Ss. 245K-245Q and preceding cross-heading inserted (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), [ss. 120](https://www.legislation.gov.uk/asp/2004/8/section/120), [145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1)
 
-[^key-26aa2f20b8bd58b5579dd6a2e941dcef]: Textual amendment: Ss. 253A-253E and cross-heading inserted (25.8.2020 for the insertion of s. 253B for specified purposes, 10.2.2021 in so far as not already in force) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 25](https://www.legislation.gov.uk/asp/2014/1/section/25), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2020/237](https://www.legislation.gov.uk/ssi/2020/237), [art. 2](https://www.legislation.gov.uk/ssi/2020/237/article/2); [S.S.I. 2020/405](https://www.legislation.gov.uk/ssi/2020/405), [art. 2(b)](https://www.legislation.gov.uk/ssi/2020/405/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/405/article/3))
+[^c-26aa2f20b8bd58b5579dd6a2e941dcef]: Textual amendment: Ss. 253A-253E and cross-heading inserted (25.8.2020 for the insertion of s. 253B for specified purposes, 10.2.2021 in so far as not already in force) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 25](https://www.legislation.gov.uk/asp/2014/1/section/25), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2020/237](https://www.legislation.gov.uk/ssi/2020/237), [art. 2](https://www.legislation.gov.uk/ssi/2020/237/article/2); [S.S.I. 2020/405](https://www.legislation.gov.uk/ssi/2020/405), [art. 2(b)](https://www.legislation.gov.uk/ssi/2020/405/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/405/article/3))
 
-[^key-690b4e9decb238c1aa52f1a4ef110736]: Textual amendment: Ss. 253F-253J and cross-heading inserted (13.8.2014 for the insertion of ss. 253F, 253G for specified purposes, 25.11.2019 in so far as not already in force except for the insertion of s. 253G(4)(a)(b)) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 26](https://www.legislation.gov.uk/asp/2014/1/section/26), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule); [S.S.I. 2019/283](https://www.legislation.gov.uk/ssi/2019/283), [art. 2](https://www.legislation.gov.uk/ssi/2019/283/article/2)
+[^c-690b4e9decb238c1aa52f1a4ef110736]: Textual amendment: Ss. 253F-253J and cross-heading inserted (13.8.2014 for the insertion of ss. 253F, 253G for specified purposes, 25.11.2019 in so far as not already in force except for the insertion of s. 253G(4)(a)(b)) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 26](https://www.legislation.gov.uk/asp/2014/1/section/26), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule); [S.S.I. 2019/283](https://www.legislation.gov.uk/ssi/2019/283), [art. 2](https://www.legislation.gov.uk/ssi/2019/283/article/2)
 
-[^key-da12d494f2d67b6f26dcbfcb1477a0bd]: Textual amendment: Ss. 254A-254E and cross-heading inserted (11.3.2015) by [The European Protection Order (Scotland) Regulations 2015 (S.S.I. 2015/107)](https://www.legislation.gov.uk/ssi/2015/107), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/107/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2015/107/regulation/2/2)
+[^c-da12d494f2d67b6f26dcbfcb1477a0bd]: Textual amendment: Ss. 254A-254E and cross-heading inserted (11.3.2015) by [The European Protection Order (Scotland) Regulations 2015 (S.S.I. 2015/107)](https://www.legislation.gov.uk/ssi/2015/107), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/107/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2015/107/regulation/2/2)
 
 [^c14474641]: Textual amendment: S. 255A and preceding cross-heading inserted (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 27](https://www.legislation.gov.uk/ukpga/1997/48/section/27); [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/1712/schedule/1) (subject to [arts. 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4), [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5))
 
-[^key-8e3ba54f61280a77cf76ba6126cedc0b]: Textual amendment: S. 261ZB and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 34](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/34); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-8e3ba54f61280a77cf76ba6126cedc0b]: Textual amendment: S. 261ZB and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 34](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/34); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-2c203b027578807f875730adb33f4423]: Textual amendment: S. 261A and cross-heading inserted (6.6.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 85(2)](https://www.legislation.gov.uk/asp/2010/13/section/85/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-2c203b027578807f875730adb33f4423]: Textual amendment: S. 261A and cross-heading inserted (6.6.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 85(2)](https://www.legislation.gov.uk/asp/2010/13/section/85/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c19840961]: Textual amendment: S. 267B and preceding cross-heading inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 34](https://www.legislation.gov.uk/asp/2007/6/section/34), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
 [^c19018821]: Textual amendment: Ss. 271-271M and preceding cross-heading substituted for s. 271 (1.4.2005, 30.11.2005, 1.4.2006. 1.4.2007 and 2.7.2007 for certain purposes and otherwise 1.4.2008) by [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), [ss. 1](https://www.legislation.gov.uk/asp/2004/3/section/1), [25](https://www.legislation.gov.uk/asp/2004/3/section/25); [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with savings in [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4)); [S.S.I. 2005/590](https://www.legislation.gov.uk/ssi/2005/590), [art. 2](https://www.legislation.gov.uk/ssi/2005/590/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/590/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2005/590/article/4)); [S.S.I. 2006/59](https://www.legislation.gov.uk/ssi/2006/59), [art. 2](https://www.legislation.gov.uk/ssi/2006/59/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/59/schedule) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2006/59/article/4/1)); [S.S.I. 2007/101](https://www.legislation.gov.uk/ssi/2007/101), [art. 2](https://www.legislation.gov.uk/ssi/2007/101/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/101/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/101/article/4)); [S.S.I. 2007/329](https://www.legislation.gov.uk/ssi/2007/329), [art. 2](https://www.legislation.gov.uk/ssi/2007/329/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/329/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/329/article/4)); [S.S.I. 2008/57](https://www.legislation.gov.uk/ssi/2008/57), [art. 2](https://www.legislation.gov.uk/ssi/2008/57/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2008/57/article/3))
 
-[^key-f19ec92dcab2752e44bde5d5e8fcf2e4]: Modification: Ss. 271N-271Z applied (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(3)](https://www.legislation.gov.uk/asp/2010/13/section/90/3)[(4)](https://www.legislation.gov.uk/asp/2010/13/section/90/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-f19ec92dcab2752e44bde5d5e8fcf2e4]: Modification: Ss. 271N-271Z applied (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(3)](https://www.legislation.gov.uk/asp/2010/13/section/90/3)[(4)](https://www.legislation.gov.uk/asp/2010/13/section/90/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-ad57f6d736639648bab48cdff7b984da]: Textual amendment: Ss. 271N-271Z inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(1)](https://www.legislation.gov.uk/asp/2010/13/section/90/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-ad57f6d736639648bab48cdff7b984da]: Textual amendment: Ss. 271N-271Z inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(1)](https://www.legislation.gov.uk/asp/2010/13/section/90/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-7f3d0412e3bf706fbaef301ecd56cd40]: Textual amendment: S. 273A inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 91(3)](https://www.legislation.gov.uk/asp/2010/13/section/91/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-7f3d0412e3bf706fbaef301ecd56cd40]: Textual amendment: S. 273A inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 91(3)](https://www.legislation.gov.uk/asp/2010/13/section/91/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c19000611]: Textual amendment: S. 275C and preceding cross-heading inserted (1.4.2005) by [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), [ss. 5](https://www.legislation.gov.uk/asp/2004/3/section/5), [25](https://www.legislation.gov.uk/asp/2004/3/section/25); [S.S.I. 2005/168](https://www.legislation.gov.uk/ssi/2005/168), [art. 2](https://www.legislation.gov.uk/ssi/2005/168/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/168/schedule) (with savings in [art. 4](https://www.legislation.gov.uk/ssi/2005/168/article/4))
 
 [^c14474801]: Textual amendment: S. 279A and preceding cross-heading inserted (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 28(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/28/2); [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule) (subject to [arts. 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4), [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5))
 
-[^key-ce3f7a4dc0e76fd752190d40ffa4a23b]: Textual amendment: Cross-heading substituted (22.4.2013) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/34/2), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/6/article/2/a)
+[^c-ce3f7a4dc0e76fd752190d40ffa4a23b]: Textual amendment: Cross-heading substituted (22.4.2013) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/34/2), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/6/article/2/a)
 
-[^key-4f5adff61b3740001fdd3aeeb86f6bdf]: Textual amendment: Words in s. 288ZA cross-heading omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/5/2)
+[^c-4f5adff61b3740001fdd3aeeb86f6bdf]: Textual amendment: Words in s. 288ZA cross-heading omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/357/regulation/5/2)
 
-[^key-a129be82520939a432ff0cb06cd451f8]: Textual amendment: Words in s. 288ZA cross-heading substituted (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 32(2)](https://www.legislation.gov.uk/asp/2024/1/section/32/2), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a) (with [s. 43](https://www.legislation.gov.uk/asp/2024/1/section/43))
+[^c-a129be82520939a432ff0cb06cd451f8]: Textual amendment: Words in s. 288ZA cross-heading substituted (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 32(2)](https://www.legislation.gov.uk/asp/2024/1/section/32/2), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a) (with [s. 43](https://www.legislation.gov.uk/asp/2024/1/section/43))
 
 [^c20916891]: Textual amendment: Ss. 288BA-288BC inserted (1.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 63](https://www.legislation.gov.uk/asp/2010/13/section/63), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/357/article/2/b)
 
 [^c16045391]: Textual amendment: S. 288C and cross-heading inserted (1.11.2002) by [Sexual Offences (Procedure and Evidence) (Scotland) Act 2002 (asp 9)](https://www.legislation.gov.uk/asp/2002/9), [s. 1](https://www.legislation.gov.uk/asp/2002/9/section/1); [S.S.I. 2002/443](https://www.legislation.gov.uk/ssi/2002/443), [art. 3](https://www.legislation.gov.uk/ssi/2002/443/article/3) (with [art. 4(1)(2)](https://www.legislation.gov.uk/ssi/2002/443/article/4/1/2))
 
-[^key-dfe47783e8861319d97b97d23baedaa4]: Textual amendment: Ss. 288DA, 288DB and cross-heading inserted (24.4.2017) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 6](https://www.legislation.gov.uk/asp/2016/22/section/6), [45(2)(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/2) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/93/regulation/5))
+[^c-dfe47783e8861319d97b97d23baedaa4]: Textual amendment: Ss. 288DA, 288DB and cross-heading inserted (24.4.2017) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 6](https://www.legislation.gov.uk/asp/2016/22/section/6), [45(2)(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/2) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/93/regulation/5))
 
-[^key-e333823013b1e3030a9bb85f51768f79]: Textual amendment: S. 288G and crossheading inserted (1.7.2015) by [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), [ss. 10](https://www.legislation.gov.uk/asp/2004/3/section/10), [25(1)](https://www.legislation.gov.uk/asp/2004/3/section/25/1); [S.S.I. 2015/244](https://www.legislation.gov.uk/ssi/2015/244), [art. 2](https://www.legislation.gov.uk/ssi/2015/244/article/2)
+[^c-e333823013b1e3030a9bb85f51768f79]: Textual amendment: S. 288G and crossheading inserted (1.7.2015) by [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), [ss. 10](https://www.legislation.gov.uk/asp/2004/3/section/10), [25(1)](https://www.legislation.gov.uk/asp/2004/3/section/25/1); [S.S.I. 2015/244](https://www.legislation.gov.uk/ssi/2015/244), [art. 2](https://www.legislation.gov.uk/ssi/2015/244/article/2)
 
-[^key-847f09caa2b314654a04766a22dc0e7f]: Textual amendment: Ss. 288H-288L and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(1)](https://www.legislation.gov.uk/asp/2016/1/section/110/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-847f09caa2b314654a04766a22dc0e7f]: Textual amendment: Ss. 288H-288L and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(1)](https://www.legislation.gov.uk/asp/2016/1/section/110/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c19854351]: Textual amendment: S. 298A and cross-heading inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 38](https://www.legislation.gov.uk/asp/2007/6/section/38), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
@@ -1760,8 +1760,8 @@ SCHEDULES
 
 [^c19858311]: Textual amendment: S. 303B and cross-heading inserted (10.12.2007 for certain purposes and 1.11.2012 in so far as not already in force) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 41(1)](https://www.legislation.gov.uk/asp/2007/6/section/41/1), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527)); S.S.I 2012/274, art. 2, sch.
 
-[^key-e72eee702d0d60fbe9ffba67cb92221b]: Textual amendment: Ss. 303C-303F and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 1(2)](https://www.legislation.gov.uk/asp/2025/14/section/1/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(a)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/a)
+[^c-e72eee702d0d60fbe9ffba67cb92221b]: Textual amendment: Ss. 303C-303F and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 1(2)](https://www.legislation.gov.uk/asp/2025/14/section/1/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(a)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/a)
 
-[^key-b81ae65c02fc438a2b0095d20954010b]: Textual amendment: Ss. 303G-303M and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/14/section/2/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(b)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/b)
+[^c-b81ae65c02fc438a2b0095d20954010b]: Textual amendment: Ss. 303G-303M and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/14/section/2/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(b)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/b)
 
-[^key-1b2e613c8f2706b7529eaa16aebed49b]: Textual amendment: Ss. 303N, 303O and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/14/section/4/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(c)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/c)
+[^c-1b2e613c8f2706b7529eaa16aebed49b]: Textual amendment: Ss. 303N, 303O and cross-heading inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/14/section/4/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(c)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/c)

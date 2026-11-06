@@ -31,7 +31,7 @@ summary: ''
 
 agriculture
 
-The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-cb0ed746872d3de994160dcb0a036301]
+The Feeding Stuffs (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-cb0ed746872d3de994160dcb0a036301]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 17th November 2006
 
-[^key-cb0ed746872d3de994160dcb0a036301]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb0ed746872d3de994160dcb0a036301]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-cb0ed746872d3de994160dcb0a036301]
+## 1. Citation, commencement and interpretation[^c-cb0ed746872d3de994160dcb0a036301]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Feeding Stuffs Regulations (Northern Ireland) 2005[^key-cb0ed746872d3de994160dcb0a036301]
+## 2. Amendments to the Feeding Stuffs Regulations (Northern Ireland) 2005[^c-cb0ed746872d3de994160dcb0a036301]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-cb0ed746872d3de994160dcb0a036301]
+## 3. Revocations[^c-cb0ed746872d3de994160dcb0a036301]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb0ed746872d3de994160dcb0a036301]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb0ed746872d3de994160dcb0a036301]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb0ed746872d3de994160dcb0a036301]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb0ed746872d3de994160dcb0a036301]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb0ed746872d3de994160dcb0a036301]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/427) revoked (23.11.2010) by [The Animal Feed Regulations (Northern Ireland) 2010 (S.R. 2010/355)](https://www.legislation.gov.uk/nisr/2010/355), [reg. 1](https://www.legislation.gov.uk/nisr/2010/355/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/355/schedule/2)
+[^c-cb0ed746872d3de994160dcb0a036301]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/427) revoked (23.11.2010) by [The Animal Feed Regulations (Northern Ireland) 2010 (S.R. 2010/355)](https://www.legislation.gov.uk/nisr/2010/355), [reg. 1](https://www.legislation.gov.uk/nisr/2010/355/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/355/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Expenses of valuation of land[^key-774a2bd3e9e0af0e5156d525f8413c1d]
+## 57. Expenses of valuation of land[^c-774a2bd3e9e0af0e5156d525f8413c1d]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ After section 60 of the 2003 Act, insert—
 
 ## Annotations
 
-[^key-774a2bd3e9e0af0e5156d525f8413c1d]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2015/6/section/57) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-774a2bd3e9e0af0e5156d525f8413c1d]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2015/6/section/57) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

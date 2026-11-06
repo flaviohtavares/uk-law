@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Amendments relating to this Part[^key-3399fd439d4d3d16454e4754f6085af6][^key-a4b8a8b0dd1589ee63807e39a48e9c84]
+## 96. Amendments relating to this Part[^c-3399fd439d4d3d16454e4754f6085af6][^c-a4b8a8b0dd1589ee63807e39a48e9c84]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3399fd439d4d3d16454e4754f6085af6]: Commencement: S. 96 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-3399fd439d4d3d16454e4754f6085af6]: Commencement: S. 96 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-a4b8a8b0dd1589ee63807e39a48e9c84]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/34/section/96) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-a4b8a8b0dd1589ee63807e39a48e9c84]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/34/section/96) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)

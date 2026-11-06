@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Enforcement of 2016 Regulations[^key-428215ddbc24f58e7c150cc4762412dd]
+## 113. Enforcement of 2016 Regulations[^c-428215ddbc24f58e7c150cc4762412dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In Schedule 15 to the Digital Markets, Competition and Consumers Act 2024 (consu
 
 ## Annotations
 
-[^key-428215ddbc24f58e7c150cc4762412dd]: Commencement: S. 113 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-428215ddbc24f58e7c150cc4762412dd]: Commencement: S. 113 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

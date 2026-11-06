@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Instruments of dissolution: advertisement, dissolution etc[^key-54dcf5f28ce30ee22a77c5faa952fa71]
+## 122. Instruments of dissolution: advertisement, dissolution etc[^c-54dcf5f28ce30ee22a77c5faa952fa71]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ and the requisite consents to, or approval of, the instrument of dissolution are
 
 ## Annotations
 
-[^key-54dcf5f28ce30ee22a77c5faa952fa71]: Modification: S. 122 restricted by 2010 asp 17, s. 99(3) (as substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(6)](https://www.legislation.gov.uk/asp/2018/13/section/6/6), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2))
+[^c-54dcf5f28ce30ee22a77c5faa952fa71]: Modification: S. 122 restricted by 2010 asp 17, s. 99(3) (as substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(6)](https://www.legislation.gov.uk/asp/2018/13/section/6/6), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Qualifying conditions for the loan for living costs – old system students[^key-1801f2ab687514b465089f831cb2b3df]
+## 70. Qualifying conditions for the loan for living costs – old system students[^c-1801f2ab687514b465089f831cb2b3df]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1801f2ab687514b465089f831cb2b3df]: Textual amendment: [Reg. 70](https://www.legislation.gov.uk/uksi/2011/1986/regulation/70) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/7/b)
+[^c-1801f2ab687514b465089f831cb2b3df]: Textual amendment: [Reg. 70](https://www.legislation.gov.uk/uksi/2011/1986/regulation/70) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/7/b)

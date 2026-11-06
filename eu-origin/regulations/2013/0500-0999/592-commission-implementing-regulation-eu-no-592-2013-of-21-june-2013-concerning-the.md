@@ -35,24 +35,24 @@ concerning the technical format for the transmission of European statistics on p
 
 (Text with EEA relevance) (revoked)
 
-[^key-c3db6f9c92730c7bc6c5874c42d0b46d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3db6f9c92730c7bc6c5874c42d0b46d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-c3db6f9c92730c7bc6c5874c42d0b46d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3db6f9c92730c7bc6c5874c42d0b46d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3db6f9c92730c7bc6c5874c42d0b46d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Data structure for the transmission of statistical data on fruit and olive plantations[^key-c3db6f9c92730c7bc6c5874c42d0b46d]
+## ANNEX — Data structure for the transmission of statistical data on fruit and olive plantations[^c-c3db6f9c92730c7bc6c5874c42d0b46d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3db6f9c92730c7bc6c5874c42d0b46d]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 219](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/219); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3db6f9c92730c7bc6c5874c42d0b46d]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 219](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/219); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

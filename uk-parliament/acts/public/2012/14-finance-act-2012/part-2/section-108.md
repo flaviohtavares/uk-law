@@ -30,7 +30,7 @@ summary: ''
 (3) A “**BLAGAB matter**” means—
 
 - (a) an amount of excess BLAGAB expenses,
-- (b)[^key-b1bc02fa30b4a1f73ce6e7d358d29fad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b1bc02fa30b4a1f73ce6e7d358d29fad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an amount of expenses otherwise falling to be taken into account in the future under the I - E rules,
 - (d) an amount of BLAGAB allowable loss (within the meaning of section 210A of TCGA 1992) carried forward for future use,
 - (e) an amount to which section 213 of TCGA 1992 applies (spreading of gains and losses under section 212), or
@@ -54,4 +54,4 @@ there is to be a reversal in the subsequent period of account in respect of the 
 
 ## Annotations
 
-[^key-b1bc02fa30b4a1f73ce6e7d358d29fad]: Textual amendment: [S. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/108/3/b) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(g)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/g), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
+[^c-b1bc02fa30b4a1f73ce6e7d358d29fad]: Textual amendment: [S. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/108/3/b) omitted (with effect in relation to accounting periods of companies beginning on or after 1.1.2023 of the commencing S.I.) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 5 paras. 3(2)(g)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3/2/g), [4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4); [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))

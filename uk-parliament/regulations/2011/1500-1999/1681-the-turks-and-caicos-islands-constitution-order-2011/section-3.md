@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Revocations[^key-745c6ca8f56b85884827f07c93e86e7e]
+## 3. Revocations[^c-745c6ca8f56b85884827f07c93e86e7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The instruments specified in Schedule 1 are revoked with effect from the appoint
 
 ## Annotations
 
-[^key-745c6ca8f56b85884827f07c93e86e7e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/1681/article/3) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-745c6ca8f56b85884827f07c93e86e7e]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/1681/article/3) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)

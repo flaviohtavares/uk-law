@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.3. The application by the court of the overriding objective[^key-b6853aa11e96382b66f3b83a5276211c]
+## 1.3. The application by the court of the overriding objective[^c-b6853aa11e96382b66f3b83a5276211c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The court must further the overriding objective in particular when―
 
 ## Annotations
 
-[^key-b6853aa11e96382b66f3b83a5276211c]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/uksi/2025/909/rule/1.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b6853aa11e96382b66f3b83a5276211c]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/uksi/2025/909/rule/1.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

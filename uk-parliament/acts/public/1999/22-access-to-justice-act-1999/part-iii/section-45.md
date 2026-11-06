@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Fees on application for appointment as Queen’s Counsel.[^key-96341517ef3d87a6ba1fc7cdff32e783]
+## 45. Fees on application for appointment as Queen’s Counsel.[^c-96341517ef3d87a6ba1fc7cdff32e783]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96341517ef3d87a6ba1fc7cdff32e783]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/1999/22/section/45) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/5)
+[^c-96341517ef3d87a6ba1fc7cdff32e783]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/1999/22/section/45) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/5)

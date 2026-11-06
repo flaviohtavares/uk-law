@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Restrictions[^key-07e99dec8def9294638b423cfa54c6b2]
+## 36. Restrictions[^c-07e99dec8def9294638b423cfa54c6b2]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ at a time when the person is required or expected (as the case may be) to attend
 
 ## Annotations
 
-[^key-07e99dec8def9294638b423cfa54c6b2]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/12/section/36) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)
+[^c-07e99dec8def9294638b423cfa54c6b2]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2014/12/section/36) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)

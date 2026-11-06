@@ -44,10 +44,10 @@ the authority shall as soon as reasonably practicable notify the Mayor.
 - (b) the terms upon which the authority is proposing to enter into a new contract, or
 - (c) the amendments or proposed amendments to the contract,
 
-would be detrimental to the implementation of the provisions of the London Environment Strategy dealing with municipal waste management[^key-573300618127ef5664e966c4ffbaa7b5].
+would be detrimental to the implementation of the provisions of the London Environment Strategy dealing with municipal waste management[^c-573300618127ef5664e966c4ffbaa7b5].
 
 (6) Where the Mayor gives an authority a direction under subsection (5) above, the authority to whom the direction is given shall comply with the direction.
 
 ## Annotations
 
-[^key-573300618127ef5664e966c4ffbaa7b5]: Textual amendment: Words in s. 357(5) substituted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 23 para. 6(d)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/23/paragraph/6/d); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/e) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-573300618127ef5664e966c4ffbaa7b5]: Textual amendment: Words in s. 357(5) substituted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 23 para. 6(d)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/23/paragraph/6/d); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/e) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

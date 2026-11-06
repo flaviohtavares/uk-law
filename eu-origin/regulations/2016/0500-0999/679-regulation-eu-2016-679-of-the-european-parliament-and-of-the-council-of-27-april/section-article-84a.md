@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 84A. Research, archives and statistics[^key-ab500d25bf654fd19df376919db057c4]
+## Article 84A. Research, archives and statistics[^c-ab500d25bf654fd19df376919db057c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab500d25bf654fd19df376919db057c4]: Textual amendment: [Ch. 8A](https://www.legislation.gov.uk/eur/2016/679/chapter/8A) inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-ab500d25bf654fd19df376919db057c4]: Textual amendment: [Ch. 8A](https://www.legislation.gov.uk/eur/2016/679/chapter/8A) inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Children's Rights Director[^key-6f5abfad6cbe2fff545fe24ec3d559dd]
+## 120. Children's Rights Director[^c-6f5abfad6cbe2fff545fe24ec3d559dd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f5abfad6cbe2fff545fe24ec3d559dd]: Textual amendment: S. 120 repealed (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/116/1), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-6f5abfad6cbe2fff545fe24ec3d559dd]: Textual amendment: S. 120 repealed (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/116/1), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

@@ -27,7 +27,7 @@ summary: ''
 - (a) the year of assessment in which the first benefit payment day falls, or
 - (b) if P dies before the beginning of that year of assessment, the year of assessment in which P dies.
 
-(3) For the purposes of subsection (2) “**the first benefit payment day**” is, subject to subsections (4)[^key-8abe29192966012df380e1b90549937f] , (4A) and (4B)[^key-db077ce0480a8cdb39a90ddb4f13271d] , the day as from which P's—
+(3) For the purposes of subsection (2) “**the first benefit payment day**” is, subject to subsections (4)[^c-8abe29192966012df380e1b90549937f] , (4A) and (4B)[^c-db077ce0480a8cdb39a90ddb4f13271d] , the day as from which P's—
 
 - (a) Category A or Category B retirement pension,
 - (b) shared additional pension, or
@@ -42,9 +42,9 @@ becomes payable following the period of deferment by virtue of which P's entitle
 
 the first benefit payment day is the day on which S died; and for this purpose “S” is the person by virtue of whose period of deferment P's entitlement to the lump sum arises.
 
-(4A)[^key-7e0b3c4c50c1ab803f7d0b38cd32893c] In a case where the social security pension lump sum is a lump sum under section 8 of the Pensions Act 2014 or under any corresponding provision under the law of Northern Ireland, “**the first benefit payment day**” for the purposes of subsection (2) is the day as from which the lump sum becomes payable.
+(4A)[^c-7e0b3c4c50c1ab803f7d0b38cd32893c] In a case where the social security pension lump sum is a lump sum under section 8 of the Pensions Act 2014 or under any corresponding provision under the law of Northern Ireland, “**the first benefit payment day**” for the purposes of subsection (2) is the day as from which the lump sum becomes payable.
 
-(4B)[^key-c806bf35f7eb5fefb9f8342840661a67] In a case where the social security pension lump sum is a lump sum under regulations under section 10 of the Pensions Act 2014 which make provision corresponding or similar to section 8 of that Act or under any corresponding provision under the law of Northern Ireland, “the first benefit payment day” for the purposes of subsection (2) is the day as from which the lump sum becomes payable.
+(4B)[^c-c806bf35f7eb5fefb9f8342840661a67] In a case where the social security pension lump sum is a lump sum under regulations under section 10 of the Pensions Act 2014 which make provision corresponding or similar to section 8 of that Act or under any corresponding provision under the law of Northern Ireland, “the first benefit payment day” for the purposes of subsection (2) is the day as from which the lump sum becomes payable.
 
 (5) Subsections (6) and (7) apply where social security regulations make provision enabling the making of an election for a social security pension lump sum to be paid in the year of assessment (“**the later year of assessment**”) next following that given by subsection (2).
 
@@ -77,10 +77,10 @@ the applicable year of assessment is the later year of assessment.
 
 ## Annotations
 
-[^key-8abe29192966012df380e1b90549937f]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/8/3) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 50(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/50/2)
+[^c-8abe29192966012df380e1b90549937f]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/8/3) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 50(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/50/2)
 
-[^key-db077ce0480a8cdb39a90ddb4f13271d]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/8/3) substituted (6.4.2016) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 6(2)(a)](https://www.legislation.gov.uk/uksi/2016/224/article/6/2/a)
+[^c-db077ce0480a8cdb39a90ddb4f13271d]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/8/3) substituted (6.4.2016) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 6(2)(a)](https://www.legislation.gov.uk/uksi/2016/224/article/6/2/a)
 
-[^key-7e0b3c4c50c1ab803f7d0b38cd32893c]: Textual amendment: [S. 8(4A)](https://www.legislation.gov.uk/ukpga/2005/22/section/8/4A) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 50(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/50/3)
+[^c-7e0b3c4c50c1ab803f7d0b38cd32893c]: Textual amendment: [S. 8(4A)](https://www.legislation.gov.uk/ukpga/2005/22/section/8/4A) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 50(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/50/3)
 
-[^key-c806bf35f7eb5fefb9f8342840661a67]: Textual amendment: [S. 8(4B)](https://www.legislation.gov.uk/ukpga/2005/22/section/8/4B) inserted (6.4.2016) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 6(2)(b)](https://www.legislation.gov.uk/uksi/2016/224/article/6/2/b)
+[^c-c806bf35f7eb5fefb9f8342840661a67]: Textual amendment: [S. 8(4B)](https://www.legislation.gov.uk/ukpga/2005/22/section/8/4B) inserted (6.4.2016) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 6(2)(b)](https://www.legislation.gov.uk/uksi/2016/224/article/6/2/b)

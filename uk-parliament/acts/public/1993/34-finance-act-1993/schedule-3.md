@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Car and car fuel benefits: 1994-95 onwards[^key-37f08113ba516d760c7e0f6b9209791d]
+## SCHEDULE 3 — Car and car fuel benefits: 1994-95 onwards[^c-37f08113ba516d760c7e0f6b9209791d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Section 72.
 
-### Introductory[^key-37f08113ba516d760c7e0f6b9209791d]
+### Introductory[^c-37f08113ba516d760c7e0f6b9209791d]
 
-**1.**[^key-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Car benefits[^key-37f08113ba516d760c7e0f6b9209791d]
+### Car benefits[^c-37f08113ba516d760c7e0f6b9209791d]
 
-**2.**[^key-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Car fuel benefits[^key-37f08113ba516d760c7e0f6b9209791d]
+### Car fuel benefits[^c-37f08113ba516d760c7e0f6b9209791d]
 
-**6.**[^key-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### General[^key-37f08113ba516d760c7e0f6b9209791d]
+### General[^c-37f08113ba516d760c7e0f6b9209791d]
 
-**7.**[^key-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-37f08113ba516d760c7e0f6b9209791d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37f08113ba516d760c7e0f6b9209791d]: Textual amendment: Sch. 3 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-37f08113ba516d760c7e0f6b9209791d]: Textual amendment: Sch. 3 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

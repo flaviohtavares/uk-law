@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Completion of development after withdrawal of permission granted by order[^key-ff1bc083a802d6b0f2e2c75b370a5654]
+## 46. Completion of development after withdrawal of permission granted by order[^c-ff1bc083a802d6b0f2e2c75b370a5654]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff1bc083a802d6b0f2e2c75b370a5654]: Commencement: S. 46 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ff1bc083a802d6b0f2e2c75b370a5654]: Commencement: S. 46 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

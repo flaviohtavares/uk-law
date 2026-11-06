@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Requirement to register political influence activities of foreign powers[^key-77d5340bf0a920b5856ca4bd3e091c80][^key-b1f9a56fe3e374c72d25f90e9307f60f]
+## 72. Requirement to register political influence activities of foreign powers[^c-77d5340bf0a920b5856ca4bd3e091c80][^c-b1f9a56fe3e374c72d25f90e9307f60f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77d5340bf0a920b5856ca4bd3e091c80]: Commencement: S. 72 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-77d5340bf0a920b5856ca4bd3e091c80]: Commencement: S. 72 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-b1f9a56fe3e374c72d25f90e9307f60f]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/32/section/72) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-b1f9a56fe3e374c72d25f90e9307f60f]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/32/section/72) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

@@ -41,9 +41,9 @@ is to promote the following of good practice by those authorities.
 
 (4) The Commissioner may from time to time make proposals to the Scottish Ministers for the exercise by them of their functions under sections 4 and 5 of this Act.
 
-(5)[^c20303491] The Commissioner may determine and charge “ reasonable sums for anything done or provided by the Commissioner in the performance of, or in connection with, the Commissioner's functions[^key-984c5d4eff9d36565cbf785fda5e4da7].
+(5)[^c20303491] The Commissioner may determine and charge “ reasonable sums for anything done or provided by the Commissioner in the performance of, or in connection with, the Commissioner's functions[^c-984c5d4eff9d36565cbf785fda5e4da7].
 
-(6)[^c20303491] Any sum received by the Commissioner by virtue of subsection (5) is to be retained by that officer and applied to meet expenditure incurred in doing or providing whatever is charged for[^key-d61087bdb7411dd77a19f6caa9786a2e].
+(6)[^c20303491] Any sum received by the Commissioner by virtue of subsection (5) is to be retained by that officer and applied to meet expenditure incurred in doing or providing whatever is charged for[^c-d61087bdb7411dd77a19f6caa9786a2e].
 
 (7)[^c20303491] The Commissioner must from time to time consult the Keeper of the Records of Scotland about the promotion under subsection (1) of the observance by Scottish public authorities of the provisions of the code of practice issued under section 61.
 
@@ -53,6 +53,6 @@ is to promote the following of good practice by those authorities.
 
 [^c20303491]: Modification: S. 43(1)-(3)(5)-(8) applied (with modifications) (1.1.2005) by [The Environmental Information (Scotland) Regulations 2004 (S.S.I. 2004/520)](https://www.legislation.gov.uk/ssi/2004/520), [reg. 18(5)(6)](https://www.legislation.gov.uk/ssi/2004/520/regulation/18/5/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2004/520/regulation/3))
 
-[^key-984c5d4eff9d36565cbf785fda5e4da7]: Textual amendment: Words in s. 43(5) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 5(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/5/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-984c5d4eff9d36565cbf785fda5e4da7]: Textual amendment: Words in s. 43(5) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 5(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/5/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-d61087bdb7411dd77a19f6caa9786a2e]: Textual amendment: Words in s. 43(6) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 5(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/5/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-d61087bdb7411dd77a19f6caa9786a2e]: Textual amendment: Words in s. 43(6) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 5(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/5/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

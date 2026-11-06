@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Notification of name change[^key-ac6ebc88fd3bea3bf06d469d663ab60c]
+## 118. Notification of name change[^c-ac6ebc88fd3bea3bf06d469d663ab60c]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ After section 83 of the [Sexual Offences Act 2003](https://www.legislation.gov.u
 
 ## Annotations
 
-[^key-ac6ebc88fd3bea3bf06d469d663ab60c]: Commencement: S. 118 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-ac6ebc88fd3bea3bf06d469d663ab60c]: Commencement: S. 118 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

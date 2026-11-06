@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Information about time spent on a case[^key-30dc3e8e6f4dde7930157b5086ecbd32]
+## 106. Information about time spent on a case[^c-30dc3e8e6f4dde7930157b5086ecbd32]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30dc3e8e6f4dde7930157b5086ecbd32]: Commencement: Rule 106 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-30dc3e8e6f4dde7930157b5086ecbd32]: Commencement: Rule 106 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

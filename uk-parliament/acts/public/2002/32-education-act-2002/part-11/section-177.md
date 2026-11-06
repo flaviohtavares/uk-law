@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 177. Meaning of “secondary education”[^c385203][^key-a3fb0f5db2317c225c0dcb15c036f63d]
+## 177. Meaning of “secondary education”[^c385203][^c-a3fb0f5db2317c225c0dcb15c036f63d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c385203]: Commencement: S. 177 not in force at Royal Assent, see s. 216; s. 177 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-a3fb0f5db2317c225c0dcb15c036f63d]: Commencement: S. 177 in force at 1.8.2004 for W. by [S.I. 2004/912](https://www.legislation.gov.uk/uksi/2004/912), [art. 5](https://www.legislation.gov.uk/uksi/2004/912/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/912/schedule/part/2)
+[^c-a3fb0f5db2317c225c0dcb15c036f63d]: Commencement: S. 177 in force at 1.8.2004 for W. by [S.I. 2004/912](https://www.legislation.gov.uk/uksi/2004/912), [art. 5](https://www.legislation.gov.uk/uksi/2004/912/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/912/schedule/part/2)

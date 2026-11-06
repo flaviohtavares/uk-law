@@ -22,13 +22,13 @@ summary: ''
 
 In relation to any application or notice under this Part, regulations may prescribe—
 
-- (a) its form or content[^key-902c01c578487e3680d7828fa432e399];
+- (a) its form or content[^c-902c01c578487e3680d7828fa432e399];
 - (b) the manner in which it is to be made or given;
-- (ba)[^key-f86326580271f86139b5a0c06e4aed0e] the period within which it is to be made or given;
+- (ba)[^c-f86326580271f86139b5a0c06e4aed0e] the period within which it is to be made or given;
 - (c) information and documents that must accompany it.
 
 ## Annotations
 
-[^key-902c01c578487e3680d7828fa432e399]: Textual amendment: Words in [s. 54(a)](https://www.legislation.gov.uk/ukpga/2003/17/section/54/a) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 16(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/16/a) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-902c01c578487e3680d7828fa432e399]: Textual amendment: Words in [s. 54(a)](https://www.legislation.gov.uk/ukpga/2003/17/section/54/a) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 16(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/16/a) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
 
-[^key-f86326580271f86139b5a0c06e4aed0e]: Textual amendment: [S. 54(ba)](https://www.legislation.gov.uk/ukpga/2003/17/section/54/ba) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 16(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/16/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-f86326580271f86139b5a0c06e4aed0e]: Textual amendment: [S. 54(ba)](https://www.legislation.gov.uk/ukpga/2003/17/section/54/ba) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 16(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/16/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

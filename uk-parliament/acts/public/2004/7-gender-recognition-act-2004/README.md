@@ -53,7 +53,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 3F — Evidence for granting applications on alternative grounds: Scotland (English and Welsh and Northern Ireland residents)](section-3f.md)
 - [Section 4 — Successful applications](section-4.md)
 
-### Issue of full certificate after interim certificate: applicant married or a civil partner[^key-7a28821de3271482c54e3ff387c3c74d][^key-8f6883d71e33246b6c57d099abe13ac2]
+### Issue of full certificate after interim certificate: applicant married or a civil partner[^c-7a28821de3271482c54e3ff387c3c74d][^c-8f6883d71e33246b6c57d099abe13ac2]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 5 — Issue of full certificates where applicant has been married](section-5.md)
 - [Section 5A — Issue of full certificates where applicant has been a civil partner](section-5a.md)
 
-### Other provision about applications and certificates[^key-c9c9d8d858a209dcea5bba98df2d372c]
+### Other provision about applications and certificates[^c-c9c9d8d858a209dcea5bba98df2d372c]
 
 *Extent: E+W+S+N.I.*
 
@@ -121,8 +121,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-7a28821de3271482c54e3ff387c3c74d]: Textual amendment: Ss. 4A, 4B and cross-heading inserted (10.12.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/4); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-7a28821de3271482c54e3ff387c3c74d]: Textual amendment: Ss. 4A, 4B and cross-heading inserted (10.12.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/4); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-8f6883d71e33246b6c57d099abe13ac2]: Textual amendment: Words in s. 4A cross-heading inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2019/1458/regulation/27) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
+[^c-8f6883d71e33246b6c57d099abe13ac2]: Textual amendment: Words in s. 4A cross-heading inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2019/1458/regulation/27) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
 
-[^key-c9c9d8d858a209dcea5bba98df2d372c]: Textual amendment: S. 5B and cross-heading inserted (10.12.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/5); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-c9c9d8d858a209dcea5bba98df2d372c]: Textual amendment: S. 5B and cross-heading inserted (10.12.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/5); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)

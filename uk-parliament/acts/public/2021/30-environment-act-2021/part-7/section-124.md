@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Breach of obligation[^key-4fffa5d5f256914ee7b340f695fecfd5][^key-bdf9e746f31f499169bb65e3ead19ddf]
+## 124. Breach of obligation[^c-4fffa5d5f256914ee7b340f695fecfd5][^c-bdf9e746f31f499169bb65e3ead19ddf]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4fffa5d5f256914ee7b340f695fecfd5]: Commencement: S. 124 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-4fffa5d5f256914ee7b340f695fecfd5]: Commencement: S. 124 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-bdf9e746f31f499169bb65e3ead19ddf]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2021/30/section/124) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-bdf9e746f31f499169bb65e3ead19ddf]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2021/30/section/124) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

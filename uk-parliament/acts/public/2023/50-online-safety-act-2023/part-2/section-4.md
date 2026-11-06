@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. “Regulated service”, “Part 3 service” etc[^key-7bde984df39b51859335cf8a68f1ea42]
+## 4. “Regulated service”, “Part 3 service” etc[^c-7bde984df39b51859335cf8a68f1ea42]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bde984df39b51859335cf8a68f1ea42]: Commencement: S. 4 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/a)
+[^c-7bde984df39b51859335cf8a68f1ea42]: Commencement: S. 4 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/a)

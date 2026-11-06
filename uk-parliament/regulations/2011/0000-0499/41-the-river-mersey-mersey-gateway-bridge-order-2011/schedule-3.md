@@ -22,13 +22,13 @@ summary: ''
 
 Article 8
 
-### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-9a2a9fd532063ff8484c808e91e950a1]
+### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-9a2a9fd532063ff8484c808e91e950a1]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street or part of street to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New street to be substituted for it* |
 | --- | --- | --- | --- |
 | Borough of Halton | Surfaced paths to the south of A557 Widnes Eastern Bypass | Between point PS7 and points PS11 and PS13 | Between point PD1 and points PD2 and PD3 |
 
-### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-f77ca7cd29aaa2a2f8d47e867ef6c64b]
+### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-f77ca7cd29aaa2a2f8d47e867ef6c64b]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street or part of street to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -59,6 +59,6 @@ Article 8
 
 ## Annotations
 
-[^key-9a2a9fd532063ff8484c808e91e950a1]: Commencement: Sch. 3 Pt. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-9a2a9fd532063ff8484c808e91e950a1]: Commencement: Sch. 3 Pt. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-f77ca7cd29aaa2a2f8d47e867ef6c64b]: Commencement: Sch. 3 Pt. 2 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-f77ca7cd29aaa2a2f8d47e867ef6c64b]: Commencement: Sch. 3 Pt. 2 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

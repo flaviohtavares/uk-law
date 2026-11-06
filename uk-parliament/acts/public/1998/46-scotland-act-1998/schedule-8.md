@@ -175,9 +175,9 @@ Section 125.
 
 **14.** In section 1(6) of the Superannuation Act 1972 (superannuation as respects civil servants etc.), for “or the Consolidated Fund” there is substituted “ the Consolidated Fund or the Scottish Consolidated Fund ”.
 
-### ...[^key-3998a11e8266d2a2ce3a87afffee1bd9]
+### ...[^c-3998a11e8266d2a2ce3a87afffee1bd9]
 
-**15.**[^key-3998a11e8266d2a2ce3a87afffee1bd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-3998a11e8266d2a2ce3a87afffee1bd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation Act 1978 (c.30)
 
@@ -223,9 +223,9 @@ Section 125.
 
 (3) In subsection (7), after “Kingdom” there is inserted “ , the Scottish Administration ”.
 
-### ...[^key-e70e857ce7a86872323fdf08cc790648]
+### ...[^c-e70e857ce7a86872323fdf08cc790648]
 
-**19.**[^key-e70e857ce7a86872323fdf08cc790648] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-e70e857ce7a86872323fdf08cc790648] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Audit Act 1983 (c.44)
 
@@ -240,7 +240,7 @@ Section 125.
 
 ### Bankruptcy (Scotland) Act 1985 (c.66)
 
-**22.**[^key-6942bcc9418ac4985a55b98d9acefb19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-6942bcc9418ac4985a55b98d9acefb19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insolvency Act 1986 (c.45)
 
@@ -248,13 +248,13 @@ Section 125.
 
 (2)[^c12396301] Anything directed to be done, or which may be done, to or by the registrar of companies in Scotland by virtue of any of the provisions mentioned in sub-paragraph (3), shall, or (as the case may be) may, also be done to or by the Accountant in Bankruptcy.
 
-(2A) In the case of a building society, friendly society or industrial and provident society which has its registered office in Scotland, anything directed to be done, or which may be done, to or by the Financial Conduct Authority[^key-315a9ad9909b020d32c01d4f7650e675] by virtue of any of the provisions mentioned in sub-paragraph (3) as applied (with or without modifications) in relation to the society shall, or (as the case may be) may, also be done to or by the Accountant in Bankruptcy.
+(2A) In the case of a building society, friendly society or industrial and provident society which has its registered office in Scotland, anything directed to be done, or which may be done, to or by the Financial Conduct Authority[^c-315a9ad9909b020d32c01d4f7650e675] by virtue of any of the provisions mentioned in sub-paragraph (3) as applied (with or without modifications) in relation to the society shall, or (as the case may be) may, also be done to or by the Accountant in Bankruptcy.
 
 (3) Those provisions are: sections 53(1), 54(3), 61(6), 62(5) (so far as relating to the giving of notice), 67(1), 69(2), 84(3), 94(3), 106(3) and (5), 112(3), 130(1), 147(3), 170(2) and 172(8).
 
 (4)[^c12396311] Anything directed to be done, or which may be done, to or by the registrar of companies in Scotland by virtue of any of the provisions mentioned in sub-paragraph (5), shall, or (as the case may be) shall instead be done to or by the Accountant in Bankruptcy.
 
-(4A) In the case of a building society, friendly society or industrial and provident society which has its registered office in Scotland, anything directed to be done, or which may be done, to or by the Financial Conduct Authority[^key-2d63ff1c5f7eea8c97ea701eb54a43d8] by virtue of any of those provisions as applied (with or without modifications) in relation to the society shall, or (as the case may be) shall instead be done to or by the Accountant in Bankruptcy.
+(4A) In the case of a building society, friendly society or industrial and provident society which has its registered office in Scotland, anything directed to be done, or which may be done, to or by the Financial Conduct Authority[^c-2d63ff1c5f7eea8c97ea701eb54a43d8] by virtue of any of those provisions as applied (with or without modifications) in relation to the society shall, or (as the case may be) shall instead be done to or by the Accountant in Bankruptcy.
 
 (5) Those provisions are: sections 89(3), 109(1), 171(5) and (6), 173(2)(a) and 192(1).
 
@@ -338,7 +338,7 @@ Section 125.
 
 ### European Communities (Amendment) Act 1993 (c.32)
 
-**28.**[^key-b3ef63fdb9fdc8259648286a2e383512] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-b3ef63fdb9fdc8259648286a2e383512] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Scottish Land Court Act 1993 (c.45)
 
@@ -430,20 +430,20 @@ Section 125.
 
 [^c20335541]: Textual amendment: Sch. 8 para. 9(a) repealed (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 5(5)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/5), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1307/schedule/4)
 
-[^key-3998a11e8266d2a2ce3a87afffee1bd9]: Textual amendment: Sch. 8 para. 15 and cross-heading omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/26) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-3998a11e8266d2a2ce3a87afffee1bd9]: Textual amendment: Sch. 8 para. 15 and cross-heading omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/26) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
 
-[^key-e70e857ce7a86872323fdf08cc790648]: Textual amendment: Sch. 8 para. 19 and crossheading omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/2/2)
+[^c-e70e857ce7a86872323fdf08cc790648]: Textual amendment: Sch. 8 para. 19 and crossheading omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/2/2)
 
-[^key-6942bcc9418ac4985a55b98d9acefb19]: Textual amendment: Sch. 8 para. 22 repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-6942bcc9418ac4985a55b98d9acefb19]: Textual amendment: Sch. 8 para. 22 repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
 [^c12396291]: Commencement: Sch. 8 para. 23 wholly in force at 1.7.1999: Sch. 8 para. 23(1)(6) in force at Royal Assent see s. 130(1); Sch. 8 para. 23(2)-(5) in force at 1.7.1999 by [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3).
 
 [^c12396301]: Textual amendment: Sch. 8 para. 23(2)(2A) substituted (1.12.2001) for Sch. 8 para. 23(2) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [360(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/360/2)
 
-[^key-315a9ad9909b020d32c01d4f7650e675]: Textual amendment: Words in Sch. 8 para. 23(2A) substituted (28.6.2016) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1), [6](https://www.legislation.gov.uk/uksi/2016/679/article/6)
+[^c-315a9ad9909b020d32c01d4f7650e675]: Textual amendment: Words in Sch. 8 para. 23(2A) substituted (28.6.2016) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1), [6](https://www.legislation.gov.uk/uksi/2016/679/article/6)
 
 [^c12396311]: Textual amendment: Sch. 8 para. 23(4)(4A) substituted (1.12.2001) for Sch. 8 para. 23(4) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [360(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/360/3)
 
-[^key-2d63ff1c5f7eea8c97ea701eb54a43d8]: Textual amendment: Words in Sch. 8 para. 23(4A) substituted (28.6.2016) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1), [6](https://www.legislation.gov.uk/uksi/2016/679/article/6)
+[^c-2d63ff1c5f7eea8c97ea701eb54a43d8]: Textual amendment: Words in Sch. 8 para. 23(4A) substituted (28.6.2016) by [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1), [6](https://www.legislation.gov.uk/uksi/2016/679/article/6)
 
-[^key-b3ef63fdb9fdc8259648286a2e383512]: Textual amendment: Sch. 8 para. 28 repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3ef63fdb9fdc8259648286a2e383512]: Textual amendment: Sch. 8 para. 28 repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

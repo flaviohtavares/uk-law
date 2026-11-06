@@ -32,7 +32,7 @@ summary: ''
 
 Rehabilitation Of Offenders
 
-The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Amendment Order 2010 (revoked)[^key-2c58e67f096e79b1c48b52bec0368fe1]
+The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Amendment Order 2010 (revoked)[^c-2c58e67f096e79b1c48b52bec0368fe1]
 
 Made
 
@@ -40,38 +40,38 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-2c58e67f096e79b1c48b52bec0368fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c58e67f096e79b1c48b52bec0368fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-2c58e67f096e79b1c48b52bec0368fe1]
+## 1. Citation, commencement and extent[^c-2c58e67f096e79b1c48b52bec0368fe1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^key-2c58e67f096e79b1c48b52bec0368fe1]
+## Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^c-2c58e67f096e79b1c48b52bec0368fe1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2c58e67f096e79b1c48b52bec0368fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-2c58e67f096e79b1c48b52bec0368fe1]
+## 7. Revocations[^c-2c58e67f096e79b1c48b52bec0368fe1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c58e67f096e79b1c48b52bec0368fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c58e67f096e79b1c48b52bec0368fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2c58e67f096e79b1c48b52bec0368fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c58e67f096e79b1c48b52bec0368fe1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c58e67f096e79b1c48b52bec0368fe1]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/243) revoked (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)
+[^c-2c58e67f096e79b1c48b52bec0368fe1]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/243) revoked (14.2.2013) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013 (S.S.I. 2013/50)](https://www.legislation.gov.uk/ssi/2013/50), [art. 1(1)](https://www.legislation.gov.uk/ssi/2013/50/article/1/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/50/schedule/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Tampering with nomination papers, ballot papers etc.[^key-59756f728bd6432ea57a4720d0c37fc1]
+## 29. Tampering with nomination papers, ballot papers etc.[^c-59756f728bd6432ea57a4720d0c37fc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59756f728bd6432ea57a4720d0c37fc1]: Commencement: Art. 29 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-59756f728bd6432ea57a4720d0c37fc1]: Commencement: Art. 29 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

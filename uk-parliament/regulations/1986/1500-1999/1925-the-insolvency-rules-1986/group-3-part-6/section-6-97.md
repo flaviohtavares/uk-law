@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.97. Supply of forms[^key-f478e3185cd41dec8c10b8a1ea3a6463]
+## 6.97. Supply of forms[^c-f478e3185cd41dec8c10b8a1ea3a6463]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A form of proof shall be sent to any creditor of the bankrupt by the official re
 
 ## Annotations
 
-[^key-f478e3185cd41dec8c10b8a1ea3a6463]: Textual amendment: Rule 6.97 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [27](https://www.legislation.gov.uk/uksi/2004/584/article/27)
+[^c-f478e3185cd41dec8c10b8a1ea3a6463]: Textual amendment: Rule 6.97 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [27](https://www.legislation.gov.uk/uksi/2004/584/article/27)

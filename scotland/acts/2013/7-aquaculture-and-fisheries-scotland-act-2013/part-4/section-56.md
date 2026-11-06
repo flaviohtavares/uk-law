@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Contravention of regulated fishery orders[^key-90f70614a8976e4d8fe2effe9a62ddca]
+## 56. Contravention of regulated fishery orders[^c-90f70614a8976e4d8fe2effe9a62ddca]
 
 *Extent: S*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90f70614a8976e4d8fe2effe9a62ddca]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2013/7/section/56) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-90f70614a8976e4d8fe2effe9a62ddca]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2013/7/section/56) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

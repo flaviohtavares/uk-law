@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Removal of vessels[^key-ce4d19fc9550ba66bf1733dcefee25da]
+## 24. Removal of vessels[^c-ce4d19fc9550ba66bf1733dcefee25da]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ to another place within Great Yarmouth Port where it may without injury to the v
 
 ## Annotations
 
-[^key-ce4d19fc9550ba66bf1733dcefee25da]: Commencement: Art. 24 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-ce4d19fc9550ba66bf1733dcefee25da]: Commencement: Art. 24 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

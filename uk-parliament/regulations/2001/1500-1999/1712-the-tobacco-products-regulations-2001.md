@@ -43,9 +43,9 @@ Coming into force
 
 1st June 2001
 
-The Commissioners of Customs and Excise, in exercise of the powers conferred upon them by sections 93(1), (2)(a), (c) and (d), and (3), 100G and 100H, 118A(1) and (2) and 127A of the Customs and Excise Management Act 1979[^c15563231], sections 2(2), 7(1) and (1A), 8B, 8C and 8G of the Tobacco Products Duty Act 1979[^c15563241], sections 1 and 2 of the Finance (No. 2) Act 1992[^c15563251] and of all other powers enabling them in that behalf, hereby make the following regulations:[^key-d38c35a3552f6bc06e72867d4e04f026][^key-c40777f3d9b5ca7f5aa12ee0dcf81b4a]
+The Commissioners of Customs and Excise, in exercise of the powers conferred upon them by sections 93(1), (2)(a), (c) and (d), and (3), 100G and 100H, 118A(1) and (2) and 127A of the Customs and Excise Management Act 1979[^c15563231], sections 2(2), 7(1) and (1A), 8B, 8C and 8G of the Tobacco Products Duty Act 1979[^c15563241], sections 1 and 2 of the Finance (No. 2) Act 1992[^c15563251] and of all other powers enabling them in that behalf, hereby make the following regulations:[^c-d38c35a3552f6bc06e72867d4e04f026][^c-c40777f3d9b5ca7f5aa12ee0dcf81b4a]
 
-## PART I — PRELIMINARY[^key-a4f23ab9b04da8c51bdd4b39a5941103][^key-01e34dfae4fbce828c18c49302ea8aa0]
+## PART I — PRELIMINARY[^c-a4f23ab9b04da8c51bdd4b39a5941103][^c-01e34dfae4fbce828c18c49302ea8aa0]
 
 ### 1. Citation and commencement
 
@@ -68,16 +68,16 @@ The following Regulations are revoked—
 
 - “the Act” means the Tobacco Products Duty Act 1979;
 - “business day” has the meaning given in section 92 of the Bills of Exchange Act 1882 [^c15563321];
-- “duty” [^key-0652380911fad8c92f2e202993e0e1d9]... means the duty of excise charged on tobacco products by section 2(1) of the Act [^c15563331];
+- “duty” [^c-0652380911fad8c92f2e202993e0e1d9]... means the duty of excise charged on tobacco products by section 2(1) of the Act [^c15563331];
 - “duty suspension arrangements” means any arrangements, including arrangements made by these Regulations, that enable tobacco products to be held or moved without payment of duty;
 - “electronic removal” has the meaning given in regulation 10 below;
-- “[^key-80321d678df5bc889e76a03fb05b03e0]**excise duty point**” means the time when the duty is payable by a person, whether or not payment may be deferred, and is prescribed by Part 2 of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010;
-- “manufacturer”, subject to paragraphs (2) and (3)[^key-a8735673d3911f0c659435cd22deb9f8] below, means any person who manufactures tobacco products in premises that may be registered as a registered factory;
+- “[^c-80321d678df5bc889e76a03fb05b03e0]**excise duty point**” means the time when the duty is payable by a person, whether or not payment may be deferred, and is prescribed by Part 2 of the Excise Goods (Holding, Movement and Duty Point) Regulations 2010;
+- “manufacturer”, subject to paragraphs (2) and (3)[^c-a8735673d3911f0c659435cd22deb9f8] below, means any person who manufactures tobacco products in premises that may be registered as a registered factory;
 - “the occupier” means the manufacturer who occupies a registered factory or, as the case may be, a registered store;
 - “packet” means any box, package, container or other receptacle that contains the tobacco product in which that product is, or is intended to be, presented for retail supply but does not include any additional outer wrapping that may be discarded at the time the packet is opened;
 - “payment day” means the day specified as payment day in regulation 17 below;
 - “recycling” means reworking the tobacco or tobacco substitute constituents of the tobacco product, and “recycled” should be construed accordingly;
-- [^key-8f9e1743c4e20fd326f3581025917f1b]...
+- [^c-8f9e1743c4e20fd326f3581025917f1b]...
 - “registered factory” has the meaning given in regulation 4 below;
 - “registered premises” means any registered factory or any registered store;
 - “registered store” has the meaning given in regulation 5 below;
@@ -85,7 +85,7 @@ The following Regulations are revoked—
 - “repackaging” means the replacement of any packaging or wrapping material that is customary, necessary or both customary and necessary to enclose and present tobacco products for retail sale purposes and “repackaged” should be construed accordingly;
 - “specified tobacco products” has the meaning given in regulation 21 below.
 
-(1A)[^key-1a6e3053049205acd9216fd6b99e2fbc] In these Regulations, references to “cigarettes”, “hand-rolling tobacco”, and “chewing tobacco” are references to the products described in the Tobacco Products (Descriptions of Products) Order 2003.
+(1A)[^c-1a6e3053049205acd9216fd6b99e2fbc] In these Regulations, references to “cigarettes”, “hand-rolling tobacco”, and “chewing tobacco” are references to the products described in the Tobacco Products (Descriptions of Products) Order 2003.
 
 (2) For the purposes of these Regulations two bodies corporate may be treated jointly as a manufacturer if—
 
@@ -93,7 +93,7 @@ The following Regulations are revoked—
 - (b) one of the other body corporate’s principal activities is the storage of tobacco products manufactured by the first mentioned body corporate, and
 - (c) one of them controls the other or, although neither controls the other, they are both controlled by the same body corporate.
 
-(3)[^key-c93c09b008365ae62652219b25b351c5] In Part VII of these regulations “manufacturer” has the meaning given by sections 7D(3) and (4) of the Act.
+(3)[^c-c93c09b008365ae62652219b25b351c5] In Part VII of these regulations “manufacturer” has the meaning given by sections 7D(3) and (4) of the Act.
 
 ## PART II — REGISTERED PREMISES
 
@@ -101,7 +101,7 @@ The following Regulations are revoked—
 
 (1) The Commissioners may, subject to such conditions as appear necessary for the protection of the revenue, register that part of any premises where tobacco products are manufactured and premises that have been so registered will be known as a registered factory.
 
-(1A)[^key-8b8500468700ea0759a678b098f4a658] Premises registered by the Commissioners under this regulation must not be occupied by more than one manufacturer of tobacco products.
+(1A)[^c-8b8500468700ea0759a678b098f4a658] Premises registered by the Commissioners under this regulation must not be occupied by more than one manufacturer of tobacco products.
 
 (2) Tobacco products may only be manufactured in a registered factory.
 
@@ -111,7 +111,7 @@ The following Regulations are revoked—
 
 (1) The Commissioners may, subject to such conditions as appear necessary for the protection of the revenue, register premises occupied by a manufacturer who also occupies a registered factory for the safe storage of tobacco products without payment of duty.
 
-(1A)[^key-e2c14f86dcca3fc055f4b5a292774ac2] Premises registered by the Commissioners under this regulation must not be occupied by more than one manufacturer of tobacco products.
+(1A)[^c-e2c14f86dcca3fc055f4b5a292774ac2] Premises registered by the Commissioners under this regulation must not be occupied by more than one manufacturer of tobacco products.
 
 (2) Premises that have been registered in accordance with paragraph (1) above will be known as a registered store.
 
@@ -124,7 +124,7 @@ The following Regulations are revoked—
   - (ii) regulation 7(5) below; or
 - (b) for any other reasonsable cause.
 
-(1A)[^key-1c9b410673e6a93b78ed0f3474075db5] Where the condition imposed by regulation 4(1A) or 5(1A) above is not complied with the Commissioners must revoke the registration of the registered premises.
+(1A)[^c-1c9b410673e6a93b78ed0f3474075db5] Where the condition imposed by regulation 4(1A) or 5(1A) above is not complied with the Commissioners must revoke the registration of the registered premises.
 
 (2) Without prejudice to paragraph (1) above the Commissioners may give the occupier an opportunity to remedy the situation that provides the grounds to revoke the registration of the registered premises.
 
@@ -156,9 +156,9 @@ as may be reasonably necessary to protect the revenue.
 
 ### 8. Registered stores
 
-(1)[^key-3426ceef61e6886fac7daa5ab3ef4e0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3426ceef61e6886fac7daa5ab3ef4e0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3426ceef61e6886fac7daa5ab3ef4e0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3426ceef61e6886fac7daa5ab3ef4e0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The occupier of a registered store must in relation to all tobacco products stored there—
 
@@ -183,7 +183,7 @@ as may be reasonably necessary to protect the revenue.
 - (d) destruction or other disposal to the satisfaction of the Commissioners; or
 - (e) such other purpose (except home use) as the Commissioners may permit.
 
-(5)[^key-7f6406aaa6b3f1c6f8cbfc7fcf91b008] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7f6406aaa6b3f1c6f8cbfc7fcf91b008] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where the removal to home use of any tobacco product takes place on a day upon which an increase in the rate of duty chargeable on that product takes effect then if that removal takes place after 11.59 am on that day the time of removal is deemed to be the time at which that increase takes effect.
 
@@ -209,19 +209,19 @@ as may be reasonably necessary to protect the revenue.
 - (b) removal to other registered premises, or
 - (c) disposal or destruction to their satisfaction.
 
-## PART III — EXCISE DUTY POINTS, SECURITY AND PAYMENT OF DUTY[^key-5fd3da2dc3a04c38c10e1e772b3516cd][^key-460983f8a3b3a4b67f70d34da17a6015]
+## PART III — EXCISE DUTY POINTS, SECURITY AND PAYMENT OF DUTY[^c-5fd3da2dc3a04c38c10e1e772b3516cd][^c-460983f8a3b3a4b67f70d34da17a6015]
 
-### 12. Excise duty points[^key-b666f98dbea56de7fbe2b5889ef41576]
+### 12. Excise duty points[^c-b666f98dbea56de7fbe2b5889ef41576]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Person liable to pay the duty[^key-8a0b5351d854a62e8e217e12b269857e]
+### 13. Person liable to pay the duty[^c-8a0b5351d854a62e8e217e12b269857e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. Payment and calculation of the duty
 
-[^key-5fd3da2dc3a04c38c10e1e772b3516cd]
+[^c-5fd3da2dc3a04c38c10e1e772b3516cd]
 
 (1) Except where regulations 17 to 19 below (deferred payment) apply, the duty must be paid at or before the excise duty point.
 
@@ -244,7 +244,7 @@ as may be reasonably necessary to protect the revenue.
 
 ### 15. Recommended retail prices, weights and deficiencies
 
-[^key-5fd3da2dc3a04c38c10e1e772b3516cd]
+[^c-5fd3da2dc3a04c38c10e1e772b3516cd]
 
 (1) The manufacturer or importer of tobacco products intended for retail sale in the United Kingdom must, before the excise duty point for those products, notify the Commissioners of the information specified in paragraph (2) below.
 
@@ -263,7 +263,7 @@ as may be reasonably necessary to protect the revenue.
 
 ### 16. Security
 
-[^key-5fd3da2dc3a04c38c10e1e772b3516cd]
+[^c-5fd3da2dc3a04c38c10e1e772b3516cd]
 
 If the Commissioners so require the occupier of registered premises must give security for the payment of any duty that may become payable—
 
@@ -272,14 +272,14 @@ If the Commissioners so require the occupier of registered premises must give se
 
 ### 17. Deferred payment—payment day
 
-[^key-5fd3da2dc3a04c38c10e1e772b3516cd]
+[^c-5fd3da2dc3a04c38c10e1e772b3516cd]
 
 (1) Any person liable to pay the duty due on tobacco products to which this regulation is applicable may, subject to regulations 18 and 19 below, elect to defer payment of that duty until payment day.
 
 (2) This regulation is applicable to—
 
 - (a) imported tobacco products for which the excise duty point is the time of their importation;
-- (b)[^key-85889953fdc5f93ad997598f051ffcef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-85889953fdc5f93ad997598f051ffcef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) tobacco products that are entered for removal from an excise warehouse for home use; and
 - (d) tobacco products entered for removal from registered premises for home use.
 
@@ -288,18 +288,18 @@ If the Commissioners so require the occupier of registered premises must give se
 - (a) where but for the deferment granted by this regulation the duty would be payable during a period beginning on the 15th day of one month and ending on the 14th day of the next month, the 29th day of that next month (or the 28th day in the case of a month that has only 28 days), or
 - (b) if that day is not a business day, the last business day before that day.
 
-(4)[^key-35fd002418d324d742a20bc1d48d975b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-35fd002418d324d742a20bc1d48d975b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In any other case payment day is—
 
 - (a) the 15th day of the month following the month in which the duty would, but for the deferment granted by this regulation, be payable, or
 - (b) if that day is not a business day, the next business day following that day.
 
-(6)[^key-a6f4a6199c9a93ff4b33c88bc3061a60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a6f4a6199c9a93ff4b33c88bc3061a60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 18. Deferred payment—approval of arrangements
 
-[^key-5fd3da2dc3a04c38c10e1e772b3516cd]
+[^c-5fd3da2dc3a04c38c10e1e772b3516cd]
 
 (1) Before electing to make deferred payment of duty the person liable to pay the duty must—
 
@@ -316,7 +316,7 @@ If the Commissioners so require the occupier of registered premises must give se
 
 ### 19. Deferred payment—payment of duty
 
-[^key-5fd3da2dc3a04c38c10e1e772b3516cd]
+[^c-5fd3da2dc3a04c38c10e1e772b3516cd]
 
 On each payment day the person whose arrangements have been approved under regulation 18 must—
 
@@ -325,7 +325,7 @@ On each payment day the person whose arrangements have been approved under regul
 
 ### 20. Returns
 
-[^key-5fd3da2dc3a04c38c10e1e772b3516cd]
+[^c-5fd3da2dc3a04c38c10e1e772b3516cd]
 
 The occupier of registered premises must make such returns at such time, in such form and manner and containing such particulars as the Commissioners may require.
 
@@ -353,19 +353,19 @@ are required to carry a fiscal mark.
 
 (3) Imported specified tobacco products that are required to carry a fiscal mark must carry a fiscal mark at the time they are imported.
 
-### 23. Exceptions to the requirement to carry a fiscal mark[^key-1ef4f0e334e125f425d5abf214a95420]
+### 23. Exceptions to the requirement to carry a fiscal mark[^c-1ef4f0e334e125f425d5abf214a95420]
 
 (1) Specified tobacco products are not required to carry a fiscal mark if—
 
 - (a) they are not intended for home use and are not delivered to home use or otherwise made available for home use;
-- (aa)[^key-a1a290356a115f237232617c70b709f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-a1a290356a115f237232617c70b709f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in accordance with an Order made under section 13(1) or section 13A(1) of the Customs and Excise Duties (General Reliefs) Act 1979 [^c15563371] relief from duty is afforded and the conditions (if any) subject to which that relief was afforded are complied with; or
 - (c) they are intended for supply to, or have been supplied to, entitled passengers in an export shop.
 
-(1A)[^key-6a88cc3fca1c42b479d7e7b271da674f] Specified tobacco products acquired by private individuals for their own use and transported by them to the United Kingdom are not required to carry a fiscal mark if—
+(1A)[^c-6a88cc3fca1c42b479d7e7b271da674f] Specified tobacco products acquired by private individuals for their own use and transported by them to the United Kingdom are not required to carry a fiscal mark if—
 
 - (a) relief from duty would have been afforded by an Order made under section 13(1) of the Customs and Excise Duties (General Reliefs) Act 1979, but for the fact that the quantity of those products exceeds any limit on quantity specified in the Order, and
-- (b) those products are declared as required by section 78(1) of the Customs and Excise Management Act 1979 or under section 3 of the Taxation (Cross-border Trade) Act 2018[^key-db517cc4b683d7f932c8295cc787d94e], and
+- (b) those products are declared as required by section 78(1) of the Customs and Excise Management Act 1979 or under section 3 of the Taxation (Cross-border Trade) Act 2018[^c-db517cc4b683d7f932c8295cc787d94e], and
 - (c) the duty on those products is paid.
 
 (2) Specified tobacco products are not required to carry a fiscal mark if, having been removed to home use upon payment of excise duty in the Isle of Man—
@@ -373,14 +373,14 @@ are required to carry a fiscal mark.
 - (a) they carry a mark prescribed for fiscal purposes in conformity with the requirements of the law of the Isle of Man, and
 - (b) the excise duty paid in the Isle of Man has not been and will not be repaid, remitted or drawn back.
 
-(2A)[^key-e1d1e3870a1c8e95b5b2b7e03fcee6f0] Specified tobacco products are not required to carry a fiscal mark if those products are not sold or offered for sale and are, upon being removed to home use, supplied by the occupier of the registered premises from which they were removed to a person who will use them solely for one or both of the following purposes—
+(2A)[^c-e1d1e3870a1c8e95b5b2b7e03fcee6f0] Specified tobacco products are not required to carry a fiscal mark if those products are not sold or offered for sale and are, upon being removed to home use, supplied by the occupier of the registered premises from which they were removed to a person who will use them solely for one or both of the following purposes—
 
 - (a) testing quality, or
 - (b) testing products that are being developed.
 
 Paragraph (3) does not apply to specified tobacco products to which this paragraph applies.
 
-(2B)[^key-f71418c7682cdedcc598e8bb03a11d0b] Specified tobacco products that do not contain any tobacco are not required to carry a fiscal mark.
+(2B)[^c-f71418c7682cdedcc598e8bb03a11d0b] Specified tobacco products that do not contain any tobacco are not required to carry a fiscal mark.
 
 (3) Specified tobacco products that are not required to carry a fiscal mark must not carry a fiscal mark.
 
@@ -422,9 +422,9 @@ Paragraph (3) does not apply to specified tobacco products to which this paragra
 
 (1) A person is not guilty of an offence contrary to section 8G(4) of the Act in relation to any conduct that took place before 1st July 2001.
 
-(2) A person afforded relief from duty in accordance with an Order made under section 13(1) or section 13A(1) of the Customs and Excise Duties (General Reliefs) Act 1979 (or a person who would have been afforded relief by an Order made under section 13(1) but for the fact that the quantity of the specified tobacco products exceeded any limit on quantity specified in the Order and who declared those products as required by section 78(1) of the Customs and Excise Management Act 1979 and paid the duty on them)[^key-191481d2ef4bff197fe3c985deb2bd6b] is not guilty of an offence contrary to section 8G(4) of the Act unless his conduct occasioned the excise duty point prescribed by regulation 12(4) above.
+(2) A person afforded relief from duty in accordance with an Order made under section 13(1) or section 13A(1) of the Customs and Excise Duties (General Reliefs) Act 1979 (or a person who would have been afforded relief by an Order made under section 13(1) but for the fact that the quantity of the specified tobacco products exceeded any limit on quantity specified in the Order and who declared those products as required by section 78(1) of the Customs and Excise Management Act 1979 and paid the duty on them)[^c-191481d2ef4bff197fe3c985deb2bd6b] is not guilty of an offence contrary to section 8G(4) of the Act unless his conduct occasioned the excise duty point prescribed by regulation 12(4) above.
 
-(2A)[^key-9724caedfbeb705f48ae29c18b4c1431] A person afforded relief from duty under section 3 of the Taxation (Cross-border Trade) Act 2018 is not guilty of an offence contrary to section 8G(4) of the Act unless his conduct occasioned the excise duty point prescribed by regulation 12(4) above.
+(2A)[^c-9724caedfbeb705f48ae29c18b4c1431] A person afforded relief from duty under section 3 of the Taxation (Cross-border Trade) Act 2018 is not guilty of an offence contrary to section 8G(4) of the Act unless his conduct occasioned the excise duty point prescribed by regulation 12(4) above.
 
 (3) Where any person is, in accordance with section 13 of the Finance Act 1994 [^c15563411], the subject of an assessment to a penalty for conduct falling within paragraph (a) of section 170A(1) of the Customs and Excise Management Act 1979 [^c15563421] he is not, in relation to that conduct, guilty of an offence contrary to section 8G(4) of the Act.
 
@@ -442,12 +442,12 @@ the Commissioners may, subject to such conditions as they may impose under secti
 
 (2) For the purposes of any claim for drawback to which the Excise Goods (Drawback) Regulations 1995 [^c15563431] apply specified tobacco products are not eligible goods unless the Commissioners are satisfied that any fiscal marks carried by the products have been obliterated or destroyed.
 
-**26A.**[^key-8cb339de4714d5356980fdd253b7dcfc] Subject to compliance with any conditions imposed by the Commissioners under section 2(2) of the Act, duty payable on tobacco products is remitted if those products are not smoked by human beings and are used solely for one or both of the following purposes—
+**26A.**[^c-8cb339de4714d5356980fdd253b7dcfc] Subject to compliance with any conditions imposed by the Commissioners under section 2(2) of the Act, duty payable on tobacco products is remitted if those products are not smoked by human beings and are used solely for one or both of the following purposes—
 
 - (a) testing quality, or
 - (b) testing products that are being developed.
 
-## PART VI — APPLICATION AND AMENDMENT OF OTHER REGULATIONS[^key-09c9ed0f2b7081284b35f1287c1f5bf9][^key-64cbc513ecbfb20faf009bcd45d090bb]
+## PART VI — APPLICATION AND AMENDMENT OF OTHER REGULATIONS[^c-09c9ed0f2b7081284b35f1287c1f5bf9][^c-64cbc513ecbfb20faf009bcd45d090bb]
 
 ### 27. The Excise Warehousing (Etc.) Regulations 1988
 
@@ -458,11 +458,11 @@ Amend regulation 26 of the Excise Warehousing (Etc.) Regulations 1988 (duty char
 
   > (2) Where the removal for home use of any tobacco product takes place on a day upon which an increase in the rate of duty chargeable on that product takes effect then if that removal takes place after 11.59 am on that day the time of removal is deemed to be the time at which that increase takes effect.
 
-### 28. The Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^key-5fc839dba89da878635ec8b575ec412a]
+### 28. The Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^c-5fc839dba89da878635ec8b575ec412a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VII — DUTY NOT TO FACILITATE SMUGGLING[^key-76f854b6656b09337d0c53cec4290b53]
+## PART VII — DUTY NOT TO FACILITATE SMUGGLING[^c-76f854b6656b09337d0c53cec4290b53]
 
 **29.** (1) The Commissioners shall provide written notification of a seizure of cigarettes or hand-rolling tobacco under section 139 of the Customs and Excise Management Act 1979 (“the seized products”) to a manufacturer in the circumstances specified in paragraph (2).
 
@@ -500,7 +500,7 @@ SE1 9PJ
 
 8th May 2001
 
-## SCHEDULE[^key-65204cce74d91e1de775857c88e3bfd7]
+## SCHEDULE[^c-65204cce74d91e1de775857c88e3bfd7]
 
 Regulation 31
 
@@ -536,7 +536,7 @@ The name of the undertaking who manufactured the seized products and, if that un
 
 **10.** The date of the invoice issued to the first customer and the total invoiced quantity of cigarettes or hand-rolling tobacco.
 
-### 11. Interpretation[^key-425de0e982f5cb5e16434d79a4648caf]
+### 11. Interpretation[^c-425de0e982f5cb5e16434d79a4648caf]
 
 For the purposes of this Schedule—
 
@@ -647,13 +647,13 @@ Regulation 28 amends the Excise Goods (Holding, Movement, Warehousing and REDS) 
 
 [^c15563251]: Marginal citation: [1992 c. 48](https://www.legislation.gov.uk/ukpga/1992/48); [section 2](https://www.legislation.gov.uk/uksi/2001/1712/section/2) was amended by the [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Schedule 2](https://www.legislation.gov.uk/ukpga/1998/36/schedule/2), [paragraph 6](https://www.legislation.gov.uk/ukpga/1998/36/paragraph/6) and by the [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [section 11](https://www.legislation.gov.uk/ukpga/1999/16/section/11).
 
-[^key-d38c35a3552f6bc06e72867d4e04f026]: Modification: Regulations continued (with modifications as indicated at provision level) (N.I.) (31.12.2020) with respect to excise goods in Northern Ireland by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1), [98](https://www.legislation.gov.uk/uksi/2020/1559/regulation/98)
+[^c-d38c35a3552f6bc06e72867d4e04f026]: Modification: Regulations continued (with modifications as indicated at provision level) (N.I.) (31.12.2020) with respect to excise goods in Northern Ireland by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1), [98](https://www.legislation.gov.uk/uksi/2020/1559/regulation/98)
 
-[^key-c40777f3d9b5ca7f5aa12ee0dcf81b4a]: Modification: Regulations applied (with modifications) (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 4) Regulations 2019 (S.I. 2019/1216)](https://www.legislation.gov.uk/uksi/2019/1216), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1216/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/1216/regulation/7); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule) (as amended by [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/6/3))
+[^c-c40777f3d9b5ca7f5aa12ee0dcf81b4a]: Modification: Regulations applied (with modifications) (31.12.2020) by [The Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 4) Regulations 2019 (S.I. 2019/1216)](https://www.legislation.gov.uk/uksi/2019/1216), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1216/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/1216/regulation/7); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule) (as amended by [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/6/3))
 
-[^key-a4f23ab9b04da8c51bdd4b39a5941103]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2001/1712/part/1) modified (1.12.2002) by [S.I. 2000/426](https://www.legislation.gov.uk/uksi/2000/426), [art. 3](https://www.legislation.gov.uk/uksi/2000/426/article/3) (as substituted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2002 (S.I. 2002/2693)](https://www.legislation.gov.uk/uksi/2002/2693), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2693/article/1), [4](https://www.legislation.gov.uk/uksi/2002/2693/article/4))
+[^c-a4f23ab9b04da8c51bdd4b39a5941103]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2001/1712/part/1) modified (1.12.2002) by [S.I. 2000/426](https://www.legislation.gov.uk/uksi/2000/426), [art. 3](https://www.legislation.gov.uk/uksi/2000/426/article/3) (as substituted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2002 (S.I. 2002/2693)](https://www.legislation.gov.uk/uksi/2002/2693), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2693/article/1), [4](https://www.legislation.gov.uk/uksi/2002/2693/article/4))
 
-[^key-01e34dfae4fbce828c18c49302ea8aa0]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2001/1712/part/1) applied (with modifications) (24.11.2003) by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2003/2758/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2003/2758/schedule)
+[^c-01e34dfae4fbce828c18c49302ea8aa0]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2001/1712/part/1) applied (with modifications) (24.11.2003) by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2003/2758/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2003/2758/schedule)
 
 [^c15563261]: Marginal citation: [S.I. 1979/904](https://www.legislation.gov.uk/uksi/1979/904); amended by [S.I. 1980/992](https://www.legislation.gov.uk/uksi/1980/992), 1982/964, 1990/544, 1992/3154, 1993/2167.
 
@@ -669,57 +669,57 @@ Regulation 28 amends the Excise Goods (Holding, Movement, Warehousing and REDS) 
 
 [^c15563321]: Marginal citation: [1882 c. 61 (45 & 46 Vict)](https://www.legislation.gov.uk/ukpga/Vict/45-46/61); [section 92](https://www.legislation.gov.uk/uksi/2001/1712/section/92) was amended by the [Banking and Financial Dealings Act 1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80), [sections 3](https://www.legislation.gov.uk/ukpga/1971/80/section/3) and 4.
 
-[^key-0652380911fad8c92f2e202993e0e1d9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/1) omitted (1.4.2010) by virtue of [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 15(1)(a)](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/15/1/a)
+[^c-0652380911fad8c92f2e202993e0e1d9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/1) omitted (1.4.2010) by virtue of [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 15(1)(a)](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/15/1/a)
 
 [^c15563331]: Marginal citation: [Section 2(1)](https://www.legislation.gov.uk/uksi/2001/1712/section/2/1) was amended by the [Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), [Schedule 19](https://www.legislation.gov.uk/ukpga/1981/35/schedule/19), Part III.
 
-[^key-80321d678df5bc889e76a03fb05b03e0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/1) inserted (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 15(1)(b)](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/15/1/b)
+[^c-80321d678df5bc889e76a03fb05b03e0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/1) inserted (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 15(1)(b)](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/15/1/b)
 
-[^key-a8735673d3911f0c659435cd22deb9f8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/1) substituted (1.10.2006) by [The Tobacco Products (Amendment) Regulations 2006 (S.I. 2006/2368)](https://www.legislation.gov.uk/uksi/2006/2368), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2368/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/2368/regulation/3/a)
+[^c-a8735673d3911f0c659435cd22deb9f8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/1) substituted (1.10.2006) by [The Tobacco Products (Amendment) Regulations 2006 (S.I. 2006/2368)](https://www.legislation.gov.uk/uksi/2006/2368), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2368/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/2368/regulation/3/a)
 
-[^key-8f9e1743c4e20fd326f3581025917f1b]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3) omitted (31.12.2020) by virtue of [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [41(2)](https://www.legislation.gov.uk/uksi/2019/13/regulation/41/2) (with [reg. 42](https://www.legislation.gov.uk/uksi/2019/13/regulation/42)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-8f9e1743c4e20fd326f3581025917f1b]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3) omitted (31.12.2020) by virtue of [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [41(2)](https://www.legislation.gov.uk/uksi/2019/13/regulation/41/2) (with [reg. 42](https://www.legislation.gov.uk/uksi/2019/13/regulation/42)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-1a6e3053049205acd9216fd6b99e2fbc]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/1A) inserted (1.8.2003) by [The Tobacco Products (Amendment) Regulations 2003 (S.I. 2003/1523)](https://www.legislation.gov.uk/uksi/2003/1523), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1523/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/1523/regulation/2/2)
+[^c-1a6e3053049205acd9216fd6b99e2fbc]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/1A) inserted (1.8.2003) by [The Tobacco Products (Amendment) Regulations 2003 (S.I. 2003/1523)](https://www.legislation.gov.uk/uksi/2003/1523), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1523/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/1523/regulation/2/2)
 
-[^key-c93c09b008365ae62652219b25b351c5]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/3) inserted (1.10.2006) by [The Tobacco Products (Amendment) Regulations 2006 (S.I. 2006/2368)](https://www.legislation.gov.uk/uksi/2006/2368), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2368/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/2368/regulation/3/b)
+[^c-c93c09b008365ae62652219b25b351c5]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/3/3) inserted (1.10.2006) by [The Tobacco Products (Amendment) Regulations 2006 (S.I. 2006/2368)](https://www.legislation.gov.uk/uksi/2006/2368), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2368/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/2368/regulation/3/b)
 
-[^key-8b8500468700ea0759a678b098f4a658]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/4/1A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/2)
+[^c-8b8500468700ea0759a678b098f4a658]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/4/1A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/2)
 
-[^key-e2c14f86dcca3fc055f4b5a292774ac2]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/5/1A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/3)
+[^c-e2c14f86dcca3fc055f4b5a292774ac2]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/5/1A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/3)
 
-[^key-1c9b410673e6a93b78ed0f3474075db5]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/6/1A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/4)
+[^c-1c9b410673e6a93b78ed0f3474075db5]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/6/1A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/4)
 
-[^key-3426ceef61e6886fac7daa5ab3ef4e0c]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/8/1)[(2)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/8/2) omitted (1.4.2010) by virtue of [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/15/2)
+[^c-3426ceef61e6886fac7daa5ab3ef4e0c]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/8/1)[(2)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/8/2) omitted (1.4.2010) by virtue of [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/15/2)
 
-[^key-7f6406aaa6b3f1c6f8cbfc7fcf91b008]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/9/5) omitted (1.8.2006) by virtue of [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/5)
+[^c-7f6406aaa6b3f1c6f8cbfc7fcf91b008]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/9/5) omitted (1.8.2006) by virtue of [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/5)
 
-[^key-5fd3da2dc3a04c38c10e1e772b3516cd]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2001/1712/part/3) modified (1.12.2002) by [S.I. 2000/426](https://www.legislation.gov.uk/uksi/2000/426), [art. 3](https://www.legislation.gov.uk/uksi/2000/426/article/3) (as substituted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2002 (S.I. 2002/2693)](https://www.legislation.gov.uk/uksi/2002/2693), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2693/article/1), [4](https://www.legislation.gov.uk/uksi/2002/2693/article/4))
+[^c-5fd3da2dc3a04c38c10e1e772b3516cd]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2001/1712/part/3) modified (1.12.2002) by [S.I. 2000/426](https://www.legislation.gov.uk/uksi/2000/426), [art. 3](https://www.legislation.gov.uk/uksi/2000/426/article/3) (as substituted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2002 (S.I. 2002/2693)](https://www.legislation.gov.uk/uksi/2002/2693), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2693/article/1), [4](https://www.legislation.gov.uk/uksi/2002/2693/article/4))
 
-[^key-460983f8a3b3a4b67f70d34da17a6015]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2001/1712/part/3) applied (with modifications) (24.11.2003) by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2003/2758/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2003/2758/schedule)
+[^c-460983f8a3b3a4b67f70d34da17a6015]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2001/1712/part/3) applied (with modifications) (24.11.2003) by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2003/2758/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2003/2758/schedule)
 
-[^key-b666f98dbea56de7fbe2b5889ef41576]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2001/1712/regulation/12) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
+[^c-b666f98dbea56de7fbe2b5889ef41576]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2001/1712/regulation/12) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
 
-[^key-8a0b5351d854a62e8e217e12b269857e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2001/1712/regulation/13) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
+[^c-8a0b5351d854a62e8e217e12b269857e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2001/1712/regulation/13) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
 
-[^key-85889953fdc5f93ad997598f051ffcef]: Textual amendment: [Reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/17/2/b) omitted (31.12.2020) by virtue of [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [41(3)](https://www.legislation.gov.uk/uksi/2019/13/regulation/41/3) (with [reg. 42](https://www.legislation.gov.uk/uksi/2019/13/regulation/42)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-85889953fdc5f93ad997598f051ffcef]: Textual amendment: [Reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/17/2/b) omitted (31.12.2020) by virtue of [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [41(3)](https://www.legislation.gov.uk/uksi/2019/13/regulation/41/3) (with [reg. 42](https://www.legislation.gov.uk/uksi/2019/13/regulation/42)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-35fd002418d324d742a20bc1d48d975b]: Textual amendment: [Reg. 17(4)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/17/4) omitted (31.12.2020) by virtue of [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [41(3)](https://www.legislation.gov.uk/uksi/2019/13/regulation/41/3) (with [reg. 42](https://www.legislation.gov.uk/uksi/2019/13/regulation/42)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-35fd002418d324d742a20bc1d48d975b]: Textual amendment: [Reg. 17(4)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/17/4) omitted (31.12.2020) by virtue of [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [41(3)](https://www.legislation.gov.uk/uksi/2019/13/regulation/41/3) (with [reg. 42](https://www.legislation.gov.uk/uksi/2019/13/regulation/42)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-a6f4a6199c9a93ff4b33c88bc3061a60]: Textual amendment: [Reg. 17(6)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/17/6) omitted (31.12.2020) by virtue of [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [41(3)](https://www.legislation.gov.uk/uksi/2019/13/regulation/41/3) (with [reg. 42](https://www.legislation.gov.uk/uksi/2019/13/regulation/42)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-a6f4a6199c9a93ff4b33c88bc3061a60]: Textual amendment: [Reg. 17(6)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/17/6) omitted (31.12.2020) by virtue of [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [41(3)](https://www.legislation.gov.uk/uksi/2019/13/regulation/41/3) (with [reg. 42](https://www.legislation.gov.uk/uksi/2019/13/regulation/42)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-1ef4f0e334e125f425d5abf214a95420]: Modification: [Reg. 23](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23) continued (with modifications) (N.I.) (31.12.2020) with respect to excise goods in Northern Ireland by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1), [98(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/98/2)
+[^c-1ef4f0e334e125f425d5abf214a95420]: Modification: [Reg. 23](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23) continued (with modifications) (N.I.) (31.12.2020) with respect to excise goods in Northern Ireland by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1), [98(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/98/2)
 
-[^key-a1a290356a115f237232617c70b709f1]: Textual amendment: [Reg. 23(1)(aa)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/1/aa) omitted (31.12.2020) by virtue of [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/12/2/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2020/1412/regulation/25))
+[^c-a1a290356a115f237232617c70b709f1]: Textual amendment: [Reg. 23(1)(aa)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/1/aa) omitted (31.12.2020) by virtue of [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/12/2/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2020/1412/regulation/25))
 
 [^c15563371]: Marginal citation: [1979 c. 3](https://www.legislation.gov.uk/ukpga/1979/3); [section 13A(1)](https://www.legislation.gov.uk/uksi/2001/1712/section/13A/1) was inserted by the [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), [section 28](https://www.legislation.gov.uk/ukpga/1989/26/section/28).
 
-[^key-6a88cc3fca1c42b479d7e7b271da674f]: Textual amendment: [Reg. 23(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/1A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/7)
+[^c-6a88cc3fca1c42b479d7e7b271da674f]: Textual amendment: [Reg. 23(1A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/1A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/7)
 
-[^key-db517cc4b683d7f932c8295cc787d94e]: Textual amendment: Words in [reg. 23(1A)(b)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/1A/b) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/12/2/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2020/1412/regulation/25))
+[^c-db517cc4b683d7f932c8295cc787d94e]: Textual amendment: Words in [reg. 23(1A)(b)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/1A/b) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/12/2/b) (with [reg. 25](https://www.legislation.gov.uk/uksi/2020/1412/regulation/25))
 
-[^key-e1d1e3870a1c8e95b5b2b7e03fcee6f0]: Textual amendment: [Reg. 23(2A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/2A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/8)
+[^c-e1d1e3870a1c8e95b5b2b7e03fcee6f0]: Textual amendment: [Reg. 23(2A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/2A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/8)
 
-[^key-f71418c7682cdedcc598e8bb03a11d0b]: Textual amendment: [Reg. 23(2B)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/2B) inserted (1.1.2014) by [The Tobacco Products (Amendment) Regulations 2013 (S.I. 2013/2720)](https://www.legislation.gov.uk/uksi/2013/2720), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2720/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2720/regulation/3)
+[^c-f71418c7682cdedcc598e8bb03a11d0b]: Textual amendment: [Reg. 23(2B)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/23/2B) inserted (1.1.2014) by [The Tobacco Products (Amendment) Regulations 2013 (S.I. 2013/2720)](https://www.legislation.gov.uk/uksi/2013/2720), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2720/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2720/regulation/3)
 
 [^c15563381]: Marginal citation: [S.I. 2000/645](https://www.legislation.gov.uk/uksi/2000/645).
 
@@ -727,9 +727,9 @@ Regulation 28 amends the Excise Goods (Holding, Movement, Warehousing and REDS) 
 
 [^c15563401]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); [section 128](https://www.legislation.gov.uk/uksi/2001/1712/section/128) was amended by the [Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), [Schedule 6](https://www.legislation.gov.uk/ukpga/1981/35/schedule/6), [paragraph 9](https://www.legislation.gov.uk/ukpga/1981/35/paragraph/9).
 
-[^key-191481d2ef4bff197fe3c985deb2bd6b]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/25/2) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/9)
+[^c-191481d2ef4bff197fe3c985deb2bd6b]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/25/2) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/9)
 
-[^key-9724caedfbeb705f48ae29c18b4c1431]: Textual amendment: [Reg. 25(2A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/25/2A) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/12/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2020/1412/regulation/25))
+[^c-9724caedfbeb705f48ae29c18b4c1431]: Textual amendment: [Reg. 25(2A)](https://www.legislation.gov.uk/uksi/2001/1712/regulation/25/2A) inserted (31.12.2020) by [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2020/1412/regulation/12/3) (with [reg. 25](https://www.legislation.gov.uk/uksi/2020/1412/regulation/25))
 
 [^c15563411]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9); [section 13](https://www.legislation.gov.uk/uksi/2001/1712/section/13) was amended by the [Finance Act 1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), [section 53(3)](https://www.legislation.gov.uk/ukpga/1997/16/section/53/3) and Schedule 6, paragraph 1(3).
 
@@ -737,16 +737,16 @@ Regulation 28 amends the Excise Goods (Holding, Movement, Warehousing and REDS) 
 
 [^c15563431]: Marginal citation: [S.I. 1995/1046](https://www.legislation.gov.uk/uksi/1995/1046); [regulation 4](https://www.legislation.gov.uk/uksi/2001/1712/regulation/4) defines “eligible goods”.
 
-[^key-8cb339de4714d5356980fdd253b7dcfc]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2001/1712/regulation/26A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/10)
+[^c-8cb339de4714d5356980fdd253b7dcfc]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/2001/1712/regulation/26A) inserted (1.8.2006) by [The Tobacco Products and Excise Goods (Amendment) Regulations 2006 (S.I. 2006/1787)](https://www.legislation.gov.uk/uksi/2006/1787), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1787/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2006/1787/regulation/3/10)
 
-[^key-09c9ed0f2b7081284b35f1287c1f5bf9]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/1712/part/6) modified (1.12.2002) by [S.I. 2000/426](https://www.legislation.gov.uk/uksi/2000/426), [art. 3](https://www.legislation.gov.uk/uksi/2000/426/article/3) (as substituted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2002 (S.I. 2002/2693)](https://www.legislation.gov.uk/uksi/2002/2693), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2693/article/1), [4](https://www.legislation.gov.uk/uksi/2002/2693/article/4))
+[^c-09c9ed0f2b7081284b35f1287c1f5bf9]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/1712/part/6) modified (1.12.2002) by [S.I. 2000/426](https://www.legislation.gov.uk/uksi/2000/426), [art. 3](https://www.legislation.gov.uk/uksi/2000/426/article/3) (as substituted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2002 (S.I. 2002/2693)](https://www.legislation.gov.uk/uksi/2002/2693), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2693/article/1), [4](https://www.legislation.gov.uk/uksi/2002/2693/article/4))
 
-[^key-64cbc513ecbfb20faf009bcd45d090bb]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/1712/part/6) applied (with modifications) (24.11.2003) by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2003/2758/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2003/2758/schedule)
+[^c-64cbc513ecbfb20faf009bcd45d090bb]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/1712/part/6) applied (with modifications) (24.11.2003) by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2003/2758/article/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2003/2758/schedule)
 
-[^key-5fc839dba89da878635ec8b575ec412a]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2001/1712/regulation/28) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
+[^c-5fc839dba89da878635ec8b575ec412a]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2001/1712/regulation/28) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
 
-[^key-76f854b6656b09337d0c53cec4290b53]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2001/1712/part/7) inserted (1.10.2006) by [The Tobacco Products (Amendment) Regulations 2006 (S.I. 2006/2368)](https://www.legislation.gov.uk/uksi/2006/2368), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2368/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/2368/regulation/4)
+[^c-76f854b6656b09337d0c53cec4290b53]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2001/1712/part/7) inserted (1.10.2006) by [The Tobacco Products (Amendment) Regulations 2006 (S.I. 2006/2368)](https://www.legislation.gov.uk/uksi/2006/2368), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2368/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/2368/regulation/4)
 
-[^key-65204cce74d91e1de775857c88e3bfd7]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2001/1712/schedule) inserted (1.10.2006) by [The Tobacco Products (Amendment) Regulations 2006 (S.I. 2006/2368)](https://www.legislation.gov.uk/uksi/2006/2368), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2368/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/2368/regulation/4)
+[^c-65204cce74d91e1de775857c88e3bfd7]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2001/1712/schedule) inserted (1.10.2006) by [The Tobacco Products (Amendment) Regulations 2006 (S.I. 2006/2368)](https://www.legislation.gov.uk/uksi/2006/2368), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2368/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/2368/regulation/4)
 
-[^key-425de0e982f5cb5e16434d79a4648caf]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2001/1712/schedule/paragraph/11) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [51](https://www.legislation.gov.uk/uksi/2008/954/article/51)
+[^c-425de0e982f5cb5e16434d79a4648caf]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2001/1712/schedule/paragraph/11) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [51](https://www.legislation.gov.uk/uksi/2008/954/article/51)

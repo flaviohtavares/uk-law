@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36C. Further Use of UK marking[^key-e89b365cebfd3ca340e4707e92ffc93a]
+## 36C. Further Use of UK marking[^c-e89b365cebfd3ca340e4707e92ffc93a]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e89b365cebfd3ca340e4707e92ffc93a]: Textual amendment: [Reg. 36C](https://www.legislation.gov.uk/uksi/2016/1107/regulation/36C) substituted (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2024/696/regulation/16/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-e89b365cebfd3ca340e4707e92ffc93a]: Textual amendment: [Reg. 36C](https://www.legislation.gov.uk/uksi/2016/1107/regulation/36C) substituted (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2024/696/regulation/16/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

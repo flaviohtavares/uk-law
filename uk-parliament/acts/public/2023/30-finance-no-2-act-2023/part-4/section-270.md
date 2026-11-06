@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-66ea56fd9c3f144aca716b207d05e252] Where a person is chargeable to domestic top-up tax for an accounting period as, or in respect of, a qualifying entity which is a member of a group, the amount (if any) the person must pay is determined as follows—
+(A1)[^c-66ea56fd9c3f144aca716b207d05e252] Where a person is chargeable to domestic top-up tax for an accounting period as, or in respect of, a qualifying entity which is a member of a group, the amount (if any) the person must pay is determined as follows—
 
 - *Step 1*
 
@@ -32,11 +32,11 @@ summary: ''
 
   If the result of Step 1 is not expressed in sterling, convert the result of that Step to sterling.
 
-(1) Where a person is chargeable to domestic top-up tax for an accounting period as or in respect of a qualifying entity which is not a member of a group[^key-edb3368bbc20f7248fc055d0ad79db4d], the amount (if any) the person must pay is determined as follows—
+(1) Where a person is chargeable to domestic top-up tax for an accounting period as or in respect of a qualifying entity which is not a member of a group[^c-edb3368bbc20f7248fc055d0ad79db4d], the amount (if any) the person must pay is determined as follows—
 
 - *Step 1*
 
-  Determine (in accordance with section 273)[^key-45a13cbb56d65e945de492318e8de210] whether the entity has any top-up amounts or additional top-up amounts for that period and the extent of those amounts.
+  Determine (in accordance with section 273)[^c-45a13cbb56d65e945de492318e8de210] whether the entity has any top-up amounts or additional top-up amounts for that period and the extent of those amounts.
 - *Step 2*
 
   Determine the sum of those amounts.
@@ -56,7 +56,7 @@ summary: ''
 - (d) top-up amounts, and
 - (e) additional top-up amounts.
 
-(4)[^key-3e501e89bd39af46554d59a04c58f78f] The exchange rate to be used for a conversion to sterling required by Step 2 in subsection (A1) or Step 3 in subsection (1) is—
+(4)[^c-3e501e89bd39af46554d59a04c58f78f] The exchange rate to be used for a conversion to sterling required by Step 2 in subsection (A1) or Step 3 in subsection (1) is—
 
 - (a) the average exchange rate published by the European Central Bank for the accounting period in question;
 - (b) where no such rate is published by the European Central Bank, the average exchange rate published by the Bank of England for the accounting period in question;
@@ -64,10 +64,10 @@ summary: ''
 
 ## Annotations
 
-[^key-66ea56fd9c3f144aca716b207d05e252]: Textual amendment: S. 270(A1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 42(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/42/2), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-66ea56fd9c3f144aca716b207d05e252]: Textual amendment: S. 270(A1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 42(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/42/2), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-edb3368bbc20f7248fc055d0ad79db4d]: Textual amendment: Words in s. 270(1) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 42(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/42/3/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-edb3368bbc20f7248fc055d0ad79db4d]: Textual amendment: Words in s. 270(1) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 42(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/42/3/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-45a13cbb56d65e945de492318e8de210]: Textual amendment: Words in s. 270(1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 42(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/42/3/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-45a13cbb56d65e945de492318e8de210]: Textual amendment: Words in s. 270(1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 42(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/42/3/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-3e501e89bd39af46554d59a04c58f78f]: Textual amendment: [S. 270(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/270/4) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 35](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/35), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-3e501e89bd39af46554d59a04c58f78f]: Textual amendment: [S. 270(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/270/4) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 35](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/35), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

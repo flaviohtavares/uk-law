@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 55. Ex ante evaluation[^key-b442c29f319bc5c1a2911e991ede6bfa]
+## Article 55. Ex ante evaluation[^c-b442c29f319bc5c1a2911e991ede6bfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b442c29f319bc5c1a2911e991ede6bfa]: Textual amendment: [Art. 55](https://www.legislation.gov.uk/eur/2013/1303/article/55) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2019/785/regulation/9/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b442c29f319bc5c1a2911e991ede6bfa]: Textual amendment: [Art. 55](https://www.legislation.gov.uk/eur/2013/1303/article/55) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2019/785/regulation/9/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

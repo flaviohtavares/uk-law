@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Mode of construction and operation of authorised tramway[^key-2d58d7b8a25b2e0d1aa86d685be351a9]
+## 26. Mode of construction and operation of authorised tramway[^c-2d58d7b8a25b2e0d1aa86d685be351a9]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d58d7b8a25b2e0d1aa86d685be351a9]: Commencement: Art. 26 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-2d58d7b8a25b2e0d1aa86d685be351a9]: Commencement: Art. 26 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

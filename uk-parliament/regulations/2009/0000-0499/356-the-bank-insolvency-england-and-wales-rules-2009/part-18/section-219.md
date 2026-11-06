@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 219. Final costs certificate[^key-9f0c8ab6614a56902cc3a8371274313f]
+## 219. Final costs certificate[^c-9f0c8ab6614a56902cc3a8371274313f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.42 of the 1986 Rules.
 
 ## Annotations
 
-[^key-9f0c8ab6614a56902cc3a8371274313f]: Commencement: Rule 219 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-9f0c8ab6614a56902cc3a8371274313f]: Commencement: Rule 219 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

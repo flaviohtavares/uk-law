@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 134. Club transfer value statement[^key-4abaa12bb7dbf01c5ff114f68c3cafe7]
+## 134. Club transfer value statement[^c-4abaa12bb7dbf01c5ff114f68c3cafe7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4abaa12bb7dbf01c5ff114f68c3cafe7]: Commencement: [Reg. 134](https://www.legislation.gov.uk/ssi/2015/19/regulation/134) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-4abaa12bb7dbf01c5ff114f68c3cafe7]: Commencement: [Reg. 134](https://www.legislation.gov.uk/ssi/2015/19/regulation/134) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

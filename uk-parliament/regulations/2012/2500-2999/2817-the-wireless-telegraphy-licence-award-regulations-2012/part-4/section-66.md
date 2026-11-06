@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Further deposit for supplementary bids round[^key-99678a1d9de074304a8bb8dbca33ab87]
+## 66. Further deposit for supplementary bids round[^c-99678a1d9de074304a8bb8dbca33ab87]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99678a1d9de074304a8bb8dbca33ab87]: Commencement: Reg. 66 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-99678a1d9de074304a8bb8dbca33ab87]: Commencement: Reg. 66 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

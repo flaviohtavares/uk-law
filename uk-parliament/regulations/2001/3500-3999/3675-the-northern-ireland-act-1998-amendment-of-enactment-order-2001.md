@@ -31,7 +31,7 @@ summary: ''
 
 NORTHERN IRELAND
 
-The Northern Ireland Act 1998 (Amendment of Enactment) Order 2001 (revoked)[^key-b7c23ef11298266664e0d32f748719b4]
+The Northern Ireland Act 1998 (Amendment of Enactment) Order 2001 (revoked)[^c-b7c23ef11298266664e0d32f748719b4]
 
 Made
 
@@ -45,22 +45,22 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-b7c23ef11298266664e0d32f748719b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7c23ef11298266664e0d32f748719b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b7c23ef11298266664e0d32f748719b4]
+## 1. Citation and commencement[^c-b7c23ef11298266664e0d32f748719b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the European Communities (Amendment) Act 1993[^key-b7c23ef11298266664e0d32f748719b4]
+## 2. Amendment of the European Communities (Amendment) Act 1993[^c-b7c23ef11298266664e0d32f748719b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7c23ef11298266664e0d32f748719b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7c23ef11298266664e0d32f748719b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7c23ef11298266664e0d32f748719b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7c23ef11298266664e0d32f748719b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7c23ef11298266664e0d32f748719b4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3675) revoked (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b7c23ef11298266664e0d32f748719b4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3675) revoked (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

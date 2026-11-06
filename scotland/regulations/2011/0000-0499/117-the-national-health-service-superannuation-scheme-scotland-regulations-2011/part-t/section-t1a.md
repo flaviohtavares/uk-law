@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## T1A. Provision of information: continuing entitlement to benefit[^key-5660b2d5847d0f65d0dd1a5c109e99bf]
+## T1A. Provision of information: continuing entitlement to benefit[^c-5660b2d5847d0f65d0dd1a5c109e99bf]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5660b2d5847d0f65d0dd1a5c109e99bf]: Textual amendment: Reg. T1A inserted (20.5.2013) by [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/109)](https://www.legislation.gov.uk/ssi/2013/109), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/109/regulation/1/2), [22](https://www.legislation.gov.uk/ssi/2013/109/regulation/22) (with [reg. 71](https://www.legislation.gov.uk/ssi/2013/109/regulation/71))
+[^c-5660b2d5847d0f65d0dd1a5c109e99bf]: Textual amendment: Reg. T1A inserted (20.5.2013) by [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/109)](https://www.legislation.gov.uk/ssi/2013/109), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/109/regulation/1/2), [22](https://www.legislation.gov.uk/ssi/2013/109/regulation/22) (with [reg. 71](https://www.legislation.gov.uk/ssi/2013/109/regulation/71))

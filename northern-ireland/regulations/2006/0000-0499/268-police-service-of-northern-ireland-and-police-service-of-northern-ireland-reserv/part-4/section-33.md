@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Appeals[^key-f283590bcf1f248d1aa6adad21cc2ae3]
+## 33. Appeals[^c-f283590bcf1f248d1aa6adad21cc2ae3]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f283590bcf1f248d1aa6adad21cc2ae3]: Commencement: Reg. 33 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-f283590bcf1f248d1aa6adad21cc2ae3]: Commencement: Reg. 33 in operation at 25.7.2006 with effect in accordance with reg. 1
 
 [^f00014]: Footnote: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397)

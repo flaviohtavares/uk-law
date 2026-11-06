@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Duty to establish and maintain a website or other electronic facility[^key-6df56a4ca9d3238374518b3b2b625bce]
+## 71. Duty to establish and maintain a website or other electronic facility[^c-6df56a4ca9d3238374518b3b2b625bce]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The Authority must establish and maintain a website, or other electronic facilit
 
 ## Annotations
 
-[^key-6df56a4ca9d3238374518b3b2b625bce]: Commencement: S. 71 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-6df56a4ca9d3238374518b3b2b625bce]: Commencement: S. 71 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

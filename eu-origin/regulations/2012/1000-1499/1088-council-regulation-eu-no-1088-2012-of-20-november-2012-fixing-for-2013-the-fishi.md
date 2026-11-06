@@ -33,76 +33,76 @@ of 20 November 2012
 
 fixing for 2013 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea (revoked)
 
-[^key-055862f536b57ec68538379856f60429]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-055862f536b57ec68538379856f60429]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — GENERAL PROVISIONS[^key-055862f536b57ec68538379856f60429]
+## CHAPTER I — GENERAL PROVISIONS[^c-055862f536b57ec68538379856f60429]
 
-### Article 1. Subject matter[^key-055862f536b57ec68538379856f60429]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Scope[^key-055862f536b57ec68538379856f60429]
+### Article 1. Subject matter[^c-055862f536b57ec68538379856f60429]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Definitions[^key-055862f536b57ec68538379856f60429]
+### Article 2. Scope[^c-055862f536b57ec68538379856f60429]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — FISHING OPPORTUNITIES[^key-055862f536b57ec68538379856f60429]
-
-### Article 4. TACs and allocations[^key-055862f536b57ec68538379856f60429]
+### Article 3. Definitions[^c-055862f536b57ec68538379856f60429]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Special provisions on allocations[^key-055862f536b57ec68538379856f60429]
+## CHAPTER II — FISHING OPPORTUNITIES[^c-055862f536b57ec68538379856f60429]
+
+### Article 4. TACs and allocations[^c-055862f536b57ec68538379856f60429]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Conditions for landing catches and by-catches[^key-055862f536b57ec68538379856f60429]
+### Article 5. Special provisions on allocations[^c-055862f536b57ec68538379856f60429]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Fishing effort limits[^key-055862f536b57ec68538379856f60429]
+### Article 6. Conditions for landing catches and by-catches[^c-055862f536b57ec68538379856f60429]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — FINAL PROVISIONS[^key-055862f536b57ec68538379856f60429]
-
-### Article 8. Data transmission[^key-055862f536b57ec68538379856f60429]
+### Article 7. Fishing effort limits[^c-055862f536b57ec68538379856f60429]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Entry into force[^key-055862f536b57ec68538379856f60429]
+## CHAPTER III — FINAL PROVISIONS[^c-055862f536b57ec68538379856f60429]
+
+### Article 8. Data transmission[^c-055862f536b57ec68538379856f60429]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-055862f536b57ec68538379856f60429]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 9. Entry into force[^c-055862f536b57ec68538379856f60429]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-055862f536b57ec68538379856f60429]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — TACs APPLICABLE TO UNION VESSELS IN AREAS WHERE TACs EXIST BY SPECIES AND BY AREA[^key-055862f536b57ec68538379856f60429]
+## ANNEX I — TACs APPLICABLE TO UNION VESSELS IN AREAS WHERE TACs EXIST BY SPECIES AND BY AREA[^c-055862f536b57ec68538379856f60429]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — FISHING EFFORT LIMITS[^key-055862f536b57ec68538379856f60429]
+## ANNEX II — FISHING EFFORT LIMITS[^c-055862f536b57ec68538379856f60429]
 
-[^key-055862f536b57ec68538379856f60429]1.
+[^c-055862f536b57ec68538379856f60429]1.
 
 Member States shall allocate the right to vessels flying their flag and fishing with trawls, Danish seines or similar gear of a mesh size equal to or larger than 90 mm, with gillnets, entangling nets or trammel nets of a mesh size equal to or larger than 90 mm, with bottom set lines, longlines except drifting lines, handlines and jigging equipment, to be up to:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-055862f536b57ec68538379856f60429]2.
+[^c-055862f536b57ec68538379856f60429]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-055862f536b57ec68538379856f60429]3.
+[^c-055862f536b57ec68538379856f60429]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-055862f536b57ec68538379856f60429]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-055862f536b57ec68538379856f60429]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 276. “The court”; “the registrar”[^key-473227f415b4ce355dfd0300e3727f5e]
+## 276. “The court”; “the registrar”[^c-473227f415b4ce355dfd0300e3727f5e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-473227f415b4ce355dfd0300e3727f5e]: Commencement: Rule 276 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-473227f415b4ce355dfd0300e3727f5e]: Commencement: Rule 276 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -31,7 +31,7 @@ Ministerial and other Salaries Act 1975
 
 An Act to consolidate the enactments relating to the salaries of Ministers and Opposition Leaders and Chief Whips and to other matters connected therewith.
 
-\[8th May 1975\] [^c7834661][^key-b105979eccb2e9fd385d69bc6cb3813a]
+\[8th May 1975\] [^c7834661][^c-b105979eccb2e9fd385d69bc6cb3813a]
 
 ## 1. Salaries.[^c7835141]
 
@@ -40,26 +40,26 @@ An Act to consolidate the enactments relating to the salaries of Ministers and O
 - (a) there shall be paid to the holder of any Ministerial office specified in Schedule 1 to this Act such salary as is provided for by that Schedule; and
 - (b) there shall be paid to the Leaders and Whips of the Opposition such salaries as are provided for by Schedule 2 to this Act.
 
-(2) There shall be paid to the Lord Chancellor a salary (which shall be charged on and paid out of the Consolidated Fund of the United Kingdom) of—[^key-cb19f35232ae09ce76acbe9223cc22c6]
+(2) There shall be paid to the Lord Chancellor a salary (which shall be charged on and paid out of the Consolidated Fund of the United Kingdom) of—[^c-cb19f35232ae09ce76acbe9223cc22c6]
 
-- (a) £75,170[^key-5a62de0c1a6e8386987be675cc471d86], where the Lord Chancellor is a member of the House of Commons;
-- (b) otherwise, £110,351[^key-fb4ea7808c9a26ab3c962a0067950878].
+- (a) £75,170[^c-5a62de0c1a6e8386987be675cc471d86], where the Lord Chancellor is a member of the House of Commons;
+- (b) otherwise, £110,351[^c-fb4ea7808c9a26ab3c962a0067950878].
 
-(3)[^c20114681] There shall be paid to the Speaker of the House of Commons a salary (which shall be charged on and paid out of the Consolidated Fund of the United Kingdom) of £82,750[^key-564853f7439b1dc77fde089b80024ab4] a year; and on a dissolution of Parliament the Speaker of the House of Commons at the time of the dissolution shall for this purpose be deemed to remain Speaker until a Speaker is chosen by the new Parliament.
+(3)[^c20114681] There shall be paid to the Speaker of the House of Commons a salary (which shall be charged on and paid out of the Consolidated Fund of the United Kingdom) of £82,750[^c-564853f7439b1dc77fde089b80024ab4] a year; and on a dissolution of Parliament the Speaker of the House of Commons at the time of the dissolution shall for this purpose be deemed to remain Speaker until a Speaker is chosen by the new Parliament.
 
-(3A)[^c20114681][^c20113571] There shall be paid to the Speaker of the House of Lords a salary (which shall be paid out of money provided by Parliament) of £110,351[^key-2458ca0b4b991d6bd2465a4239a1c32d] a year.
+(3A)[^c20114681][^c20113571] There shall be paid to the Speaker of the House of Lords a salary (which shall be paid out of money provided by Parliament) of £110,351[^c-2458ca0b4b991d6bd2465a4239a1c32d] a year.
 
 (4)[^c7835191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A person to whom any salary is payable under subsection (1) above shall be entitled to receive only one such salary, but if he is the holder of two or more offices in respect of which a salary is so payable and there is a difference between the salaries payable in respect of those offices, the office in respect of which a salary is payable to him shall be that in respect of which the highest salary is payable.
 
-(6)[^key-1937c31914d72776b2514cdcf1dba68d] Where a person who holds office as Lord Chancellor (and to whom a salary is accordingly payable under subsection (2)) is also the holder of one or more other offices in respect of which a salary is payable under this section, he shall only be entitled to one of those salaries.
+(6)[^c-1937c31914d72776b2514cdcf1dba68d] Where a person who holds office as Lord Chancellor (and to whom a salary is accordingly payable under subsection (2)) is also the holder of one or more other offices in respect of which a salary is payable under this section, he shall only be entitled to one of those salaries.
 
 (7) If, in the case of a person mentioned in subsection (6), there is a difference between the salaries payable in respect of the offices held by him, the office in respect of which a salary is payable to him shall be that in respect of which the highest salary is payable.
 
 ## 1A. Alteration of salaries.[^c20114701][^c7835201]
 
-(1)[^key-5d5ad8030e983b5ff836979954299762] For each period of 12 months beginning with 1st April, the annual amount of any salary payable under section 1 is to be increased by the relevant percentage.
+(1)[^c-5d5ad8030e983b5ff836979954299762] For each period of 12 months beginning with 1st April, the annual amount of any salary payable under section 1 is to be increased by the relevant percentage.
 
 (2) The relevant percentage is the average percentage by which the mid-points of the Senior Civil Service pay bands below that of permanent secretary, having effect from 1st April of the period concerned, have increased compared with the previous 1st April.
 
@@ -133,7 +133,7 @@ SCHEDULES
 
 Section 1.
 
-### Part 1[^key-3557e6c98e4e8da4c324a39542ce34c9]
+### Part 1[^c-3557e6c98e4e8da4c324a39542ce34c9]
 
 | Office | Salary (£) |
 | --- | --- |
@@ -171,31 +171,31 @@ Section 1.
 
 ### Part V
 
-**1.** (1) The salary to be paid to the holder of any office mentioned above in this Schedule shall be of the annual amount provided for[^c7838861] [^key-7f9bae092224031edd7e79fb4fe8312a]...
+**1.** (1) The salary to be paid to the holder of any office mentioned above in this Schedule shall be of the annual amount provided for[^c7838861] [^c-7f9bae092224031edd7e79fb4fe8312a]...
 
 (2) The date on which the holder of any office listed at (*a*) to (*g*) in Part I above becomes or ceases to be a member of the Cabinet shall be notified in the London Gazette, and any such notification (whether before or after the passing of this Act) shall be conclusive evidence for the purposes of this Schedule.
 
-(3)[^key-b1b90aa50e6129a59c0b9e2eb274a813] For the purposes of this Schedule a person is a member of the House of Commons for the period beginning with the day after the day of the poll for the parliamentary election at which the person is elected, and ending with—
+(3)[^c-b1b90aa50e6129a59c0b9e2eb274a813] For the purposes of this Schedule a person is a member of the House of Commons for the period beginning with the day after the day of the poll for the parliamentary election at which the person is elected, and ending with—
 
 - (a) if the person is a member immediately before Parliament is dissolved, the day of the poll for the parliamentary general election which follows the dissolution;
 - (b) otherwise, the day on which the person ceases to be a member.
 
 **2.** In the case of the following offices a salary may be paid to more than one holder of the office at the same time, subject to the limitations expressed below, that is to say—
 
-- (a) Secretary of State, so long as not more than 22[^key-469034f1b3a344fa3ce124391d93f6c0] salaries are paid at the same time in accordance with Part I above;
-- (b) Minister of State, so long as not more than 54[^key-83c06acd6bb0cd1c204a55658115720e] salaries are paid at the same time in accordance with Parts I and II above;
-- (c) Parliamentary Secretary other than Parliamentary Secretary to the Treasury, so long as not more than 94[^key-176424a67f0ac897a60f981445a22fbd] salaries are paid at the same time in accordance with Parts I and II above taken together with salaries to any Parliamentary Secretary in accordance with Part IV above;
+- (a) Secretary of State, so long as not more than 22[^c-469034f1b3a344fa3ce124391d93f6c0] salaries are paid at the same time in accordance with Part I above;
+- (b) Minister of State, so long as not more than 54[^c-83c06acd6bb0cd1c204a55658115720e] salaries are paid at the same time in accordance with Parts I and II above;
+- (c) Parliamentary Secretary other than Parliamentary Secretary to the Treasury, so long as not more than 94[^c-176424a67f0ac897a60f981445a22fbd] salaries are paid at the same time in accordance with Parts I and II above taken together with salaries to any Parliamentary Secretary in accordance with Part IV above;
 - (d) Junior Lord of the Treasury, so long as not more than 5 salaries are paid at the same time;
 - (e) Assistant Whip, House of Commons, so long as not more than 7 salaries are paid at the same time;
 - (f) Lord in Waiting, so long as not more than 5 salaries are paid at the same time.
 
 ## SCHEDULE 2 — Opposition Leaders and Whips
 
-### PART I[^key-a7d2dbeb2fc29dcfd5f6586967635786]
+### PART I[^c-a7d2dbeb2fc29dcfd5f6586967635786]
 
 | Position | Salary (£) |
 | --- | --- |
-| In the House of Commons—[^key-bc11bf898bead3ef9ef5ff4040b22404]<br>Leader of the Opposition<br>Chief Opposition Whip<br>Assistant Opposition Whips | <br>68,911<br>36,045<br>21,021 |
+| In the House of Commons—[^c-bc11bf898bead3ef9ef5ff4040b22404]<br>Leader of the Opposition<br>Chief Opposition Whip<br>Assistant Opposition Whips | <br>68,911<br>36,045<br>21,021 |
 | In the House of Lords—<br>Leader of the Opposition<br>Chief Opposition Whip | <br>75,043<br>69,392 |
 
 ### Part II
@@ -219,33 +219,33 @@ Section 5(3)
 
 [^c7834661]: Commencement: Act wholly in force at Royal Assent
 
-[^key-b105979eccb2e9fd385d69bc6cb3813a]: Modification: Act excluded (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2021/5/section/3/3), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
+[^c-b105979eccb2e9fd385d69bc6cb3813a]: Modification: Act excluded (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2021/5/section/3/3), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
 
 [^c7835141]: Subordinate legislation: S. 1: power exercised by [S.I. 1989/681](https://www.legislation.gov.uk/uksi/1989/681)
 
 [^c20114681]: Modification: S. 1(1)(3)(3A) amended (10.7.2008) by [The Ministerial and other Salaries Order 2008 (S.I. 2008/1781)](https://www.legislation.gov.uk/uksi/2008/1781), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1781/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2008/1781/article/2/1)
 
-[^key-cb19f35232ae09ce76acbe9223cc22c6]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/2) substituted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/3/2) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-cb19f35232ae09ce76acbe9223cc22c6]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/2) substituted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/3/2) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
-[^key-5a62de0c1a6e8386987be675cc471d86]: Textual amendment: Sum in [S. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/2/a) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2026/592/article/3/1/a)
+[^c-5a62de0c1a6e8386987be675cc471d86]: Textual amendment: Sum in [S. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/2/a) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2026/592/article/3/1/a)
 
-[^key-fb4ea7808c9a26ab3c962a0067950878]: Textual amendment: Sum in [S. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/2/b) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2026/592/article/3/1/b)
+[^c-fb4ea7808c9a26ab3c962a0067950878]: Textual amendment: Sum in [S. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/2/b) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2026/592/article/3/1/b)
 
-[^key-564853f7439b1dc77fde089b80024ab4]: Textual amendment: Sum in [S. 1(3)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/3) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/592/article/5/a)
+[^c-564853f7439b1dc77fde089b80024ab4]: Textual amendment: Sum in [S. 1(3)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/3) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/592/article/5/a)
 
 [^c20113571]: Textual amendment: S. 1(3A) inserted by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No. 3) Order 2006 (S.I. 2006/1640)](https://www.legislation.gov.uk/uksi/2006/1640), [art. 4](https://www.legislation.gov.uk/uksi/2006/1640/article/4), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2006/1640/schedule/2/paragraph/3/3) (with saving in [art. 2](https://www.legislation.gov.uk/uksi/2006/1640/article/2)) (the amendment coming into force on the day after the day on which the Lord Chancellor ceased to hold the office of Speaker of the House of Lords in accordance with art. 1 of the amending S.I.)
 
-[^key-2458ca0b4b991d6bd2465a4239a1c32d]: Textual amendment: Sum in [S. 1(3A)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/3A) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/592/article/5/b)
+[^c-2458ca0b4b991d6bd2465a4239a1c32d]: Textual amendment: Sum in [S. 1(3A)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/3A) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [5(b)](https://www.legislation.gov.uk/uksi/2026/592/article/5/b)
 
 [^c7835191]: Textual amendment: S. 1(4) repealed (6.11.1997) by [1997 c. 62](https://www.legislation.gov.uk/ukpga/1997/62), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1997/62/section/1/1)
 
-[^key-1937c31914d72776b2514cdcf1dba68d]: Textual amendment: [S. 1(6)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/6)[(7)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/7) inserted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/3/3) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-1937c31914d72776b2514cdcf1dba68d]: Textual amendment: [S. 1(6)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/6)[(7)](https://www.legislation.gov.uk/ukpga/1975/27/section/1/7) inserted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/3/3) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
 [^c20114701]: Modification: S. 1A modified (10.7.2008) by The Ministerial and other [Salaries Order 2008 (S.I. 2008/1781)](https://www.legislation.gov.uk/uksi/2008/1781), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1781/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2008/1781/article/2/2)
 
 [^c7835201]: Textual amendment: Ss. 1A, 1B inserted (6.11.1997) by [1997 c. 62](https://www.legislation.gov.uk/ukpga/1997/62), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1997/62/section/1/2)
 
-[^key-5d5ad8030e983b5ff836979954299762]: Textual amendment: [S. 1A(1)-(2A)](https://www.legislation.gov.uk/ukpga/1975/27/section/1A/1) substituted (with effect for the period of 12 months beginning with 1.4.2026 and each successive period of 12 months) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/592/article/2/3), [6](https://www.legislation.gov.uk/uksi/2026/592/article/6)
+[^c-5d5ad8030e983b5ff836979954299762]: Textual amendment: [S. 1A(1)-(2A)](https://www.legislation.gov.uk/ukpga/1975/27/section/1A/1) substituted (with effect for the period of 12 months beginning with 1.4.2026 and each successive period of 12 months) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/592/article/2/3), [6](https://www.legislation.gov.uk/uksi/2026/592/article/6)
 
 [^c7835211]: Textual amendment: [Ss. 1A](https://www.legislation.gov.uk/ukpga/1975/27/section/1A), [1B](https://www.legislation.gov.uk/ukpga/1975/27/section/1B) inserted (6.11.1997) by [1997 c. 62](https://www.legislation.gov.uk/ukpga/1997/62), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1997/62/section/1/2)
 
@@ -257,23 +257,23 @@ Section 5(3)
 
 [^c7835251]: Editorial: The text of s. 5(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-3557e6c98e4e8da4c324a39542ce34c9]: Textual amendment: [Sch. 1 Pts. 1-4](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/part/I) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/592/schedule)
+[^c-3557e6c98e4e8da4c324a39542ce34c9]: Textual amendment: [Sch. 1 Pts. 1-4](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/part/I) substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/592/schedule)
 
 [^c7838861]: Textual amendment: Words in Sch. 1 Pt. V para. 1(1) substituted (6.11.1997) by [1997 c. 62](https://www.legislation.gov.uk/ukpga/1997/62), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1997/62/section/2/2)
 
-[^key-7f9bae092224031edd7e79fb4fe8312a]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/paragraph/1/1) omitted (14.7.2011) by virtue of [The Ministerial and other Salaries Act 1975 (Amendment) Order 2011 (S.I. 2011/1689)](https://www.legislation.gov.uk/uksi/2011/1689), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1689/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2011/1689/article/6/a)
+[^c-7f9bae092224031edd7e79fb4fe8312a]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/paragraph/1/1) omitted (14.7.2011) by virtue of [The Ministerial and other Salaries Act 1975 (Amendment) Order 2011 (S.I. 2011/1689)](https://www.legislation.gov.uk/uksi/2011/1689), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1689/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2011/1689/article/6/a)
 
-[^key-b1b90aa50e6129a59c0b9e2eb274a813]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/paragraph/1/3) inserted (14.7.2011) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2011 (S.I. 2011/1689)](https://www.legislation.gov.uk/uksi/2011/1689), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1689/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2011/1689/article/6/b)
+[^c-b1b90aa50e6129a59c0b9e2eb274a813]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/paragraph/1/3) inserted (14.7.2011) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2011 (S.I. 2011/1689)](https://www.legislation.gov.uk/uksi/2011/1689), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1689/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2011/1689/article/6/b)
 
-[^key-469034f1b3a344fa3ce124391d93f6c0]: Textual amendment: Word in [Sch. 1 Pt. 5 para. 2(a)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/part/V/paragraph/2/a) substituted (29.4.2026) by [Ministerial Salaries (Amendment) Act 2026 (c. 17)](https://www.legislation.gov.uk/ukpga/2026/17), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/2026/17/section/1/a), [2(2)](https://www.legislation.gov.uk/ukpga/2026/17/section/2/2)
+[^c-469034f1b3a344fa3ce124391d93f6c0]: Textual amendment: Word in [Sch. 1 Pt. 5 para. 2(a)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/part/V/paragraph/2/a) substituted (29.4.2026) by [Ministerial Salaries (Amendment) Act 2026 (c. 17)](https://www.legislation.gov.uk/ukpga/2026/17), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/2026/17/section/1/a), [2(2)](https://www.legislation.gov.uk/ukpga/2026/17/section/2/2)
 
-[^key-83c06acd6bb0cd1c204a55658115720e]: Textual amendment: Word in [Sch. 1 Pt. 5 para. 2(b)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/part/V/paragraph/2/b) substituted (29.4.2026) by [Ministerial Salaries (Amendment) Act 2026 (c. 17)](https://www.legislation.gov.uk/ukpga/2026/17), [ss. 1(b)](https://www.legislation.gov.uk/ukpga/2026/17/section/1/b), [2(2)](https://www.legislation.gov.uk/ukpga/2026/17/section/2/2)
+[^c-83c06acd6bb0cd1c204a55658115720e]: Textual amendment: Word in [Sch. 1 Pt. 5 para. 2(b)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/part/V/paragraph/2/b) substituted (29.4.2026) by [Ministerial Salaries (Amendment) Act 2026 (c. 17)](https://www.legislation.gov.uk/ukpga/2026/17), [ss. 1(b)](https://www.legislation.gov.uk/ukpga/2026/17/section/1/b), [2(2)](https://www.legislation.gov.uk/ukpga/2026/17/section/2/2)
 
-[^key-176424a67f0ac897a60f981445a22fbd]: Textual amendment: Word in [Sch. 1 Pt. 5 para. 2(c)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/part/V/paragraph/2/c) substituted (29.4.2026) by [Ministerial Salaries (Amendment) Act 2026 (c. 17)](https://www.legislation.gov.uk/ukpga/2026/17), [ss. 1(c)](https://www.legislation.gov.uk/ukpga/2026/17/section/1/c), [2(2)](https://www.legislation.gov.uk/ukpga/2026/17/section/2/2)
+[^c-176424a67f0ac897a60f981445a22fbd]: Textual amendment: Word in [Sch. 1 Pt. 5 para. 2(c)](https://www.legislation.gov.uk/ukpga/1975/27/schedule/1/part/V/paragraph/2/c) substituted (29.4.2026) by [Ministerial Salaries (Amendment) Act 2026 (c. 17)](https://www.legislation.gov.uk/ukpga/2026/17), [ss. 1(c)](https://www.legislation.gov.uk/ukpga/2026/17/section/1/c), [2(2)](https://www.legislation.gov.uk/ukpga/2026/17/section/2/2)
 
-[^key-a7d2dbeb2fc29dcfd5f6586967635786]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1975/27/schedule/2/part/I) substituted (14.7.2011) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2011 (S.I. 2011/1689)](https://www.legislation.gov.uk/uksi/2011/1689), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1689/article/1), [7](https://www.legislation.gov.uk/uksi/2011/1689/article/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1689/schedule/2)
+[^c-a7d2dbeb2fc29dcfd5f6586967635786]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1975/27/schedule/2/part/I) substituted (14.7.2011) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2011 (S.I. 2011/1689)](https://www.legislation.gov.uk/uksi/2011/1689), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1689/article/1), [7](https://www.legislation.gov.uk/uksi/2011/1689/article/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/1689/schedule/2)
 
-[^key-bc11bf898bead3ef9ef5ff4040b22404]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1975/27/schedule/2/part/I) table substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [4](https://www.legislation.gov.uk/uksi/2026/592/article/4)
+[^c-bc11bf898bead3ef9ef5ff4040b22404]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1975/27/schedule/2/part/I) table substituted (with effect from 1.4.2026) by [The Ministerial and other Salaries Act 1975 (Amendment) Order 2026 (S.I. 2026/592)](https://www.legislation.gov.uk/uksi/2026/592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/592/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/592/article/2/2), [4](https://www.legislation.gov.uk/uksi/2026/592/article/4)
 
 [^c7839381]: Textual amendment: Words in Sch. 2 Pt. II, para. 1 substituted (6.11.1997) by [1997 c. 62](https://www.legislation.gov.uk/ukpga/1997/62), [s. 2(3)](https://www.legislation.gov.uk/ukpga/1997/62/section/2/3)
 

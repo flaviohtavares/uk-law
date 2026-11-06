@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Powers to modify information to be given and right to make representations[^key-25f0212542c85ef3a02987fcd7199b2f]
+## 42. Powers to modify information to be given and right to make representations[^c-25f0212542c85ef3a02987fcd7199b2f]
 
 *Extent: S*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25f0212542c85ef3a02987fcd7199b2f]: Commencement: S. 42 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-25f0212542c85ef3a02987fcd7199b2f]: Commencement: S. 42 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

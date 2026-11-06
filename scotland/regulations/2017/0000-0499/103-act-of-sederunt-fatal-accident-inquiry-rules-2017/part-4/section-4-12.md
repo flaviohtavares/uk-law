@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.12. Notices to admit information[^key-caa37bb33206c1fb0caa213292ed9df8]
+## 4.12. Notices to admit information[^c-caa37bb33206c1fb0caa213292ed9df8]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caa37bb33206c1fb0caa213292ed9df8]: Commencement: [Rule 4.12](https://www.legislation.gov.uk/ssi/2017/103/rule/4.12) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-caa37bb33206c1fb0caa213292ed9df8]: Commencement: [Rule 4.12](https://www.legislation.gov.uk/ssi/2017/103/rule/4.12) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Removal of human remains[^key-f3a24df96c375bdf7c235d782a7edc8c]
+## 22. Removal of human remains[^c-f3a24df96c375bdf7c235d782a7edc8c]
 
 *Extent: E+W+S*
 
@@ -75,7 +75,7 @@ subject to paragraph (9) the undertaker must remove the remains and cause them t
 
 ## Annotations
 
-[^key-f3a24df96c375bdf7c235d782a7edc8c]: Commencement: Art. 22 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-f3a24df96c375bdf7c235d782a7edc8c]: Commencement: Art. 22 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
 [^f00029]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Substituted by Church of England (Miscellaneous Provisions) Measure 2014, section 2 (January 1, 2015; substitution has effect subject to transitional and saving provisions specified in [S.I. 2014/2077](https://www.legislation.gov.uk/uksi/2014/2077), paragraphs 1 and 2).
 

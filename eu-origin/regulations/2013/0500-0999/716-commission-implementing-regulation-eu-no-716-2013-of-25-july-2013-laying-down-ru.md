@@ -85,14 +85,14 @@ HAS ADOPTED THIS REGULATION:
 This Regulation lays down detailed rules for the implementation of Regulation (EC) No 110/2008 as regards in particular:
 
 - ((a)) the use of compound terms and allusions as referred to in Article 10 of Regulation (EC) No 110/2008 in the description, presentation and labelling of a foodstuff;
-- ((b)) [^key-138102e84be66399e77bb6b2c4f4760d]...
+- ((b)) [^c-138102e84be66399e77bb6b2c4f4760d]...
 
 ### Article 2. Definitions
 
 For the purpose of this Regulation:
 
 - ((a)) ‘spirit drink category’ means one of the categories 1 to 46 of Annex II to Regulation (EC) No 110/2008;
-- ((b)) [^key-45dbb7d0ec02ce17254444e317da74c9]...
+- ((b)) [^c-45dbb7d0ec02ce17254444e317da74c9]...
 - ((c)) ‘compound term’ means the combination of a term listed in categories 1 to 46 of Annex II to Regulation (EC) No 110/2008 or a geographical indication of a spirit drink, from which all the alcohol of the final product originates, with:
   - ((i)) the name of one or more foodstuffs other than those used for the production of that spirit drink in accordance with Annex II to Regulation (EC) No 110/2008, or adjectives deriving from those names; and/or
   - ((ii)) the term ‘liqueur’;
@@ -120,75 +120,75 @@ For the purpose of Article 10(2) of Regulation (EC) No 110/2008, the reduction o
 
 ## CHAPTER III — GEOGRAPHICAL INDICATIONS
 
-### Article 6. Application for the registration of a geographical indication[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 6. Application for the registration of a geographical indication[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Trans-border applications[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 7. Trans-border applications[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Receipt of the application[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 8. Receipt of the application[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8a. Submission and receipt of technical files for established geographical indications[^key-77c939e39a2a1bcb8419e132beb2fc64][^c000001]
+### Article 8a. Submission and receipt of technical files for established geographical indications[^c-77c939e39a2a1bcb8419e132beb2fc64][^c000001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Established geographical indications[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 9. Established geographical indications[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Packaging in the geographical area concerned[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 10. Packaging in the geographical area concerned[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Admissibility of the application[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 11. Admissibility of the application[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Scrutiny of the conditions of validity[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 12. Scrutiny of the conditions of validity[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Objection to the registration[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 13. Objection to the registration[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Admissibility of an objection[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 14. Admissibility of an objection[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Scrutiny of an objection[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 15. Scrutiny of an objection[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Decisions of the Commission[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 16. Decisions of the Commission[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Use of languages[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 17. Use of languages[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Submission of a request for cancellation[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 18. Submission of a request for cancellation[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Admissibility of a request for cancellation[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 19. Admissibility of a request for cancellation[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Scrutiny of a cancellation[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 20. Scrutiny of a cancellation[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Amendment of the technical file[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 21. Amendment of the technical file[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Use of a Union symbol for registered geographical indications[^key-77c939e39a2a1bcb8419e132beb2fc64]
+### Article 22. Use of a Union symbol for registered geographical indications[^c-77c939e39a2a1bcb8419e132beb2fc64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -200,7 +200,7 @@ This Regulation shall enter into force on the seventh day following that of its 
 
 It shall apply from 1 September 2013. Articles 3 and 4 shall apply from 1 March 2015.
 
-[^key-37b83805478ec6b22d8ae51792880f94]...
+[^c-37b83805478ec6b22d8ae51792880f94]...
 
 ## ANNEX I — APPLICATION FOR REGISTRATION OF A GEOGRAPHICAL INDICATION
 
@@ -484,12 +484,12 @@ Functional mailbox: AGRI-EXT-HELPDESK@ec.europa.eu
 
 [^f00001]: Footnote: [OJ L 39, 13.2.2008, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.039.01.0016.01.ENG).
 
-[^key-138102e84be66399e77bb6b2c4f4760d]: Textual amendment: [Art. 1(b)](https://www.legislation.gov.uk/eur/2013/716/article/1/b) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/5/2)
+[^c-138102e84be66399e77bb6b2c4f4760d]: Textual amendment: [Art. 1(b)](https://www.legislation.gov.uk/eur/2013/716/article/1/b) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/5/2)
 
-[^key-45dbb7d0ec02ce17254444e317da74c9]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/eur/2013/716/article/2/b) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/5/3)
+[^c-45dbb7d0ec02ce17254444e317da74c9]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/eur/2013/716/article/2/b) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/5/3)
 
-[^key-77c939e39a2a1bcb8419e132beb2fc64]: Textual amendment: [Arts. 6-22](https://www.legislation.gov.uk/eur/2013/716/article/6) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/5/4)
+[^c-77c939e39a2a1bcb8419e132beb2fc64]: Textual amendment: [Arts. 6-22](https://www.legislation.gov.uk/eur/2013/716/article/6) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/5/4)
 
 [^c000001]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) No 1239/2014 of 19 November 2014 amending Regulation (EU) No 716/2013 laying down rules for the application of Regulation (EC) No 110/2008 of the European Parliament and of the Council on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks](https://www.legislation.gov.uk/eur/2014/1239).
 
-[^key-37b83805478ec6b22d8ae51792880f94]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/716/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [19](https://www.legislation.gov.uk/uksi/2020/1637/regulation/19)
+[^c-37b83805478ec6b22d8ae51792880f94]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/716/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [19](https://www.legislation.gov.uk/uksi/2020/1637/regulation/19)

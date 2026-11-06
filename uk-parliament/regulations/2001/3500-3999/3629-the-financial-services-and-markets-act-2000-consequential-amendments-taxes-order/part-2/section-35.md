@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Taxation in respect of other business: incorporated friendly societies etc.[^key-578147a76e3a1208842008028dce1081]
+## 35. Taxation in respect of other business: incorporated friendly societies etc.[^c-578147a76e3a1208842008028dce1081]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 461B(4)(b) (taxation in respect of other business: incorporated frien
 
 ## Annotations
 
-[^key-578147a76e3a1208842008028dce1081]: Commencement: Art. 35 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-578147a76e3a1208842008028dce1081]: Commencement: Art. 35 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

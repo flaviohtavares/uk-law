@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Initial cost and cost at any time of arrangements for heating or lighting improvements[^key-b127c267f63993357c88293e4adcc9fd]
+## 45. Initial cost and cost at any time of arrangements for heating or lighting improvements[^c-b127c267f63993357c88293e4adcc9fd]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ where—
 
 ## Annotations
 
-[^key-b127c267f63993357c88293e4adcc9fd]: Commencement: Reg. 45 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-b127c267f63993357c88293e4adcc9fd]: Commencement: Reg. 45 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

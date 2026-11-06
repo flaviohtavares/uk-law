@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Schemes for simplified operation of Chapter[^key-cbc7b6e6c084a53162a8d24d65ab018d]
+## 39. Schemes for simplified operation of Chapter[^c-cbc7b6e6c084a53162a8d24d65ab018d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ by giving notice to the registered operator.
 
 ## Annotations
 
-[^key-cbc7b6e6c084a53162a8d24d65ab018d]: Textual amendment: S. 39 substituted (21.7.2009) (with effect in accordance with Sch. 5 para. 8(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/5/paragraph/3) (with [Sch. 5 para. 8(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/5/paragraph/8/1))
+[^c-cbc7b6e6c084a53162a8d24d65ab018d]: Textual amendment: S. 39 substituted (21.7.2009) (with effect in accordance with Sch. 5 para. 8(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/5/paragraph/3) (with [Sch. 5 para. 8(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/5/paragraph/8/1))

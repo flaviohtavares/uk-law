@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) An administering authority must publish and send copies of any valuation, report, certificate or revised certificate obtained under regulations 62 (actuarial valuation of pension funds) or 64 (special circumstances where revised actuarial valuations and certificates must be obtained)[^key-8d195a6294676938ce424177d5abb2de] to—
+(1) An administering authority must publish and send copies of any valuation, report, certificate or revised certificate obtained under regulations 62 (actuarial valuation of pension funds) or 64 (special circumstances where revised actuarial valuations and certificates must be obtained)[^c-8d195a6294676938ce424177d5abb2de] to—
 
 - (a) the Secretary of State;
 - (b) each body with employees who contribute to the fund in question; and
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d195a6294676938ce424177d5abb2de]: Textual amendment: Words in [reg. 66](https://www.legislation.gov.uk/uksi/2013/2356/regulation/66) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2015 (S.I. 2015/57)](https://www.legislation.gov.uk/uksi/2015/57), [regs. 1(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/57/regulation/1/3/b/ii), [7](https://www.legislation.gov.uk/uksi/2015/57/regulation/7)
+[^c-8d195a6294676938ce424177d5abb2de]: Textual amendment: Words in [reg. 66](https://www.legislation.gov.uk/uksi/2013/2356/regulation/66) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2015 (S.I. 2015/57)](https://www.legislation.gov.uk/uksi/2015/57), [regs. 1(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/57/regulation/1/3/b/ii), [7](https://www.legislation.gov.uk/uksi/2015/57/regulation/7)

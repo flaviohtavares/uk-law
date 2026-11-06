@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Employment and Learning, in exercise of the powers conferred on it by sections 167ZI and 167ZR of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and with the concurrence of the Treasury[^f00002], and of every other power enabling it in that behalf, hereby, by this Statutory Rule, which contains only regulations made by virtue of Articles 5 and 6 of the Employment (Northern Ireland) Order 2002[^f00003] and is made before the end of the period of 6 months beginning with the coming into operation of that statutory provision[^f00004], makes the following Regulations–
 
-## 1. Citation, commencement and interpretation[^key-60e40d09715cc0257b1fb80d4ada3e1a]
+## 1. Citation, commencement and interpretation[^c-60e40d09715cc0257b1fb80d4ada3e1a]
 
 (1) These Regulations may be cited as the Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2002 and shall come into operation on 8th December 2002.
 
@@ -59,11 +59,11 @@ The Department for Employment and Learning, in exercise of the powers conferred 
 
 (3) For the purposes of these Regulations, a person is notified of having been matched with a child for the purposes of adoption on the date on which he receives notification, under regulation 11(2) of the Adoption Agencies Regulations (Northern Ireland) 1989[^f00009] or regulation 11(2) of the Adoption Agencies Regulations 1983[^f00010] or regulation 12(3) of the Adoption Agencies (Scotland) Regulations 1996[^f00011], that an adoption agency has decided that the person would be a suitable adoptive parent for the child, either individually or jointly with another person.
 
-## 2. Restriction on scope[^key-cfad5cdf982a4151de48f52cc691ce08]
+## 2. Restriction on scope[^c-cfad5cdf982a4151de48f52cc691ce08]
 
 A person who would not be treated under regulation 32 of the General Regulations as an employee for the purposes of Parts XIIZA (statutory paternity pay) and XIIZB (statutory adoption pay) of the Act if his employment were in Northern Ireland shall not be treated as an employee under these Regulations.
 
-## 3. Treatment of persons in other EEA States as employees[^key-3fc6474caed4e8ffb22ad90e07fa8c63]
+## 3. Treatment of persons in other EEA States as employees[^c-3fc6474caed4e8ffb22ad90e07fa8c63]
 
 A person who is–
 
@@ -72,11 +72,11 @@ A person who is–
 
 notwithstanding that he is not employed in Northern Ireland, shall be treated as an employee for the purposes of Parts XIIZA and XIIZB of the Act.
 
-## 4. Treatment of certain persons absent from Northern Ireland as employees[^key-80e43af56f857abf465e887f691b94ba]
+## 4. Treatment of certain persons absent from Northern Ireland as employees[^c-80e43af56f857abf465e887f691b94ba]
 
 Subject to regulation 8(3), where a person, while absent from Northern Ireland for any purpose, is gainfully employed by an employer who is liable to pay secondary Class 1 contributions in respect of his employment under section 6 of the Act or regulation 146 of the Contributions Regulations, he shall be treated as an employee for the purposes of Parts XIIZA and XIIZB of the Act.
 
-## 5. Entitlement to statutory paternity pay where person has worked in an EEA State[^key-89b6b85d25e76180a26c0e144fc6044d]
+## 5. Entitlement to statutory paternity pay where person has worked in an EEA State[^c-89b6b85d25e76180a26c0e144fc6044d]
 
 (1) A person who is an employee or treated as an employee under regulation 3 and who–
 
@@ -92,7 +92,7 @@ shall be treated for the purposes of section 167ZA of the Act (entitlement to st
 
 shall be treated for the purposes of section 167ZB of the Act (entitlement to statutory paternity pay (adoption)) as having been employed in employed earner’s employment in those weeks in which he was so employed in the other EEA State.
 
-## 6. Entitlement to statutory adoption pay where person has worked in an EEA State[^key-67d65ecd7e29631692ece3ce89ec36af]
+## 6. Entitlement to statutory adoption pay where person has worked in an EEA State[^c-67d65ecd7e29631692ece3ce89ec36af]
 
 A person who is an employee or treated as an employee under regulation 3 and who–
 
@@ -101,7 +101,7 @@ A person who is an employee or treated as an employee under regulation 3 and who
 
 shall be treated for the purposes of section 167ZL of the Act (entitlement to statutory adoption pay) as having been employed in employed earner’s employment in those weeks in which he was so employed in the other EEA State.
 
-## 7. Time for compliance with Parts XIIZA and XIIZB of the Act or regulations made under them[^key-c4202d5753d901a5d8d68f3b53913249]
+## 7. Time for compliance with Parts XIIZA and XIIZB of the Act or regulations made under them[^c-c4202d5753d901a5d8d68f3b53913249]
 
 Where–
 
@@ -111,7 +111,7 @@ Where–
 
 the person or the employer, as the case may be, shall be deemed to have complied with it if the act is performed as soon as reasonably practicable.
 
-## 8. Mariners[^key-f57e2bd0b62fff016d07c4cc987c7de7]
+## 8. Mariners[^c-f57e2bd0b62fff016d07c4cc987c7de7]
 
 (1) In this regulation, “foreign-going ship”, “home-trade ship” and “mariner” have the same meanings as in Case C of Part 9 of the Contributions Regulations (mariners) and the expressions “ship” and “ship or vessel”, except in paragraph (3), include hovercraft.
 
@@ -124,7 +124,7 @@ the person or the employer, as the case may be, shall be deemed to have complied
 
 shall not be treated as an employee for the purposes of Parts XIIZA and XIIZB of the Act, notwithstanding that he may have been employed in Northern Ireland.
 
-## 9. Continental shelf[^key-5f14740e21ada8450a72227ed3e6bc13]
+## 9. Continental shelf[^c-5f14740e21ada8450a72227ed3e6bc13]
 
 (1) In this regulation–
 
@@ -179,7 +179,7 @@ Regulation 8 treats certain classes of mariners as employees for the purposes of
 
 [^f00004]: Footnote: *See* section 150(5)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-60e40d09715cc0257b1fb80d4ada3e1a]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
+[^c-60e40d09715cc0257b1fb80d4ada3e1a]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [2001/1004](https://www.legislation.gov.uk/uksi/2001/1004)
 
@@ -195,22 +195,22 @@ Regulation 8 treats certain classes of mariners as employees for the purposes of
 
 [^f00011]: Footnote: S.I. [1996/3266](https://www.legislation.gov.uk/uksi/1996/3266)
 
-[^key-cfad5cdf982a4151de48f52cc691ce08]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
+[^c-cfad5cdf982a4151de48f52cc691ce08]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
 
-[^key-3fc6474caed4e8ffb22ad90e07fa8c63]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
+[^c-3fc6474caed4e8ffb22ad90e07fa8c63]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
 
 [^f00012]: Footnote: *See* O.J. No. L28, 30.1.1997, p. 1
 
-[^key-80e43af56f857abf465e887f691b94ba]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
+[^c-80e43af56f857abf465e887f691b94ba]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
 
-[^key-89b6b85d25e76180a26c0e144fc6044d]: Commencement: Reg. 5 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
+[^c-89b6b85d25e76180a26c0e144fc6044d]: Commencement: Reg. 5 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
 
-[^key-67d65ecd7e29631692ece3ce89ec36af]: Commencement: Reg. 6 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
+[^c-67d65ecd7e29631692ece3ce89ec36af]: Commencement: Reg. 6 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
 
-[^key-c4202d5753d901a5d8d68f3b53913249]: Commencement: Reg. 7 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
+[^c-c4202d5753d901a5d8d68f3b53913249]: Commencement: Reg. 7 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
 
-[^key-f57e2bd0b62fff016d07c4cc987c7de7]: Commencement: Reg. 8 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
+[^c-f57e2bd0b62fff016d07c4cc987c7de7]: Commencement: Reg. 8 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
 
-[^key-5f14740e21ada8450a72227ed3e6bc13]: Commencement: Reg. 9 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
+[^c-5f14740e21ada8450a72227ed3e6bc13]: Commencement: Reg. 9 in operation at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/382/regulation/1/1)
 
 [^f00013]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29)

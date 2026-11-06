@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Directions under section 128: appeals[^key-6fd337787e9f945e591f4546ca7a026b][^key-fae445bc40e20734fa4b14fefdf404b4]
+## 129. Directions under section 128: appeals[^c-6fd337787e9f945e591f4546ca7a026b][^c-fae445bc40e20734fa4b14fefdf404b4]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fd337787e9f945e591f4546ca7a026b]: Commencement: S. 129 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
+[^c-6fd337787e9f945e591f4546ca7a026b]: Commencement: S. 129 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
 
-[^key-fae445bc40e20734fa4b14fefdf404b4]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/25/section/129) in force at 8.9.2014 in so far as not already in force by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/d)
+[^c-fae445bc40e20734fa4b14fefdf404b4]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2008/25/section/129) in force at 8.9.2014 in so far as not already in force by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/d)

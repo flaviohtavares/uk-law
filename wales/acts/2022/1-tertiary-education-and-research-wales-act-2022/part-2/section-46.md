@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Requirements of a fee limit statement[^key-11e05afe5136e0a0abe6cc2b13f9b466][^key-96fc98cc0bf5f6a1a9fc1d9cb27d03eb]
+## 46. Requirements of a fee limit statement[^c-11e05afe5136e0a0abe6cc2b13f9b466][^c-96fc98cc0bf5f6a1a9fc1d9cb27d03eb]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ in relation to each qualifying course and in respect of each relevant academic y
 
 ## Annotations
 
-[^key-11e05afe5136e0a0abe6cc2b13f9b466]: Commencement: S. 46 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-11e05afe5136e0a0abe6cc2b13f9b466]: Commencement: S. 46 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-96fc98cc0bf5f6a1a9fc1d9cb27d03eb]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2022/1/section/46) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(m)](https://www.legislation.gov.uk/wsi/2023/919/article/2/m)
+[^c-96fc98cc0bf5f6a1a9fc1d9cb27d03eb]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2022/1/section/46) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(m)](https://www.legislation.gov.uk/wsi/2023/919/article/2/m)

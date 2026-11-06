@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Size limits for sea fish[^c2008189][^key-d566f2af34b00dd36c28d3d7ed089844]
+## 194. Size limits for sea fish[^c2008189][^c-d566f2af34b00dd36c28d3d7ed089844]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c2008189]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2009/23/section/194) partly in force; [s. 194](https://www.legislation.gov.uk/ukpga/2009/23/section/194) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-d566f2af34b00dd36c28d3d7ed089844]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2009/23/section/194) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
+[^c-d566f2af34b00dd36c28d3d7ed089844]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2009/23/section/194) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)

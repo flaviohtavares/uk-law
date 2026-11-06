@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Financial institution becoming subsidiary of building society[^key-291cf9e67d4d8ec9853204f0787de6a2]
+## 197. Financial institution becoming subsidiary of building society[^c-291cf9e67d4d8ec9853204f0787de6a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-291cf9e67d4d8ec9853204f0787de6a2]: Commencement: Art. 197 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-291cf9e67d4d8ec9853204f0787de6a2]: Commencement: Art. 197 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00139]: Footnote: Section 101 was substituted by the Building Societies Act [1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32) section 41.

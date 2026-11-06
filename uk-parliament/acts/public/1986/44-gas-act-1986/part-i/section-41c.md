@@ -35,12 +35,12 @@ summary: ''
 (4) An order under this section may only provide for activities to become licensable activities if they are activities connected with—
 
 - (a) the conveyance of gas through pipes to premises or to pipe-line systems operated by gas transporters;
-- (aa)[^key-ebcf909e3e3171d4a176b00bbeb6e791] participation in the operation of a gas interconnector;
-- (b) the supply to premises of gas conveyed through pipes; [^key-cde2d7cd7e9e2c01be79bf2fb0c85b9e]...
-- (c) arranging with gas transporters for gas to be introduced into, conveyed by means of or taken out of pipe-line systems operated by the gas transporters; or[^key-14fc3dcbf0b690335121e6f2e8e35791]
+- (aa)[^c-ebcf909e3e3171d4a176b00bbeb6e791] participation in the operation of a gas interconnector;
+- (b) the supply to premises of gas conveyed through pipes; [^c-cde2d7cd7e9e2c01be79bf2fb0c85b9e]...
+- (c) arranging with gas transporters for gas to be introduced into, conveyed by means of or taken out of pipe-line systems operated by the gas transporters; or[^c-14fc3dcbf0b690335121e6f2e8e35791]
 - (d) the provision of a smart meter communication service.
 
-(4A)[^key-5cfbbf31ca20c51bbf1cde55682264a0] For the purposes of subsection (4), activities connected with the supply of gas include the following activities, whether or not carried on by a person supplying gas—
+(4A)[^c-5cfbbf31ca20c51bbf1cde55682264a0] For the purposes of subsection (4), activities connected with the supply of gas include the following activities, whether or not carried on by a person supplying gas—
 
 - (a) giving advice, information or assistance in relation to contracts for the supply of gas to persons who are or may become customers under such contracts, and
 - (b) the provision of any other services to such persons in connection with such contracts.
@@ -60,10 +60,10 @@ summary: ''
 
 [^c14427161]: Textual amendment: Ss. 41C-41H and cross-heading inserted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 88](https://www.legislation.gov.uk/ukpga/2000/27/section/88) (with [s. 104(1)(2)(6)](https://www.legislation.gov.uk/ukpga/2000/27/section/104/1/2/6)); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3266/article/1/2), [2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-ebcf909e3e3171d4a176b00bbeb6e791]: Textual amendment: S. 41C(4)(aa) inserted (14.8.2006) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 149(10)](https://www.legislation.gov.uk/ukpga/2004/20/section/149/10), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)
+[^c-ebcf909e3e3171d4a176b00bbeb6e791]: Textual amendment: S. 41C(4)(aa) inserted (14.8.2006) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 149(10)](https://www.legislation.gov.uk/ukpga/2004/20/section/149/10), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2006/1964](https://www.legislation.gov.uk/uksi/2006/1964), [art. 2](https://www.legislation.gov.uk/uksi/2006/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1964/schedule)
 
-[^key-cde2d7cd7e9e2c01be79bf2fb0c85b9e]: Textual amendment: Word in s. 41C(4) omitted (19.9.2012) by virtue of [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [26(a)](https://www.legislation.gov.uk/uksi/2012/2400/article/26/a)
+[^c-cde2d7cd7e9e2c01be79bf2fb0c85b9e]: Textual amendment: Word in s. 41C(4) omitted (19.9.2012) by virtue of [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [26(a)](https://www.legislation.gov.uk/uksi/2012/2400/article/26/a)
 
-[^key-14fc3dcbf0b690335121e6f2e8e35791]: Textual amendment: S. 41C(4)(d) and word inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [26(b)](https://www.legislation.gov.uk/uksi/2012/2400/article/26/b)
+[^c-14fc3dcbf0b690335121e6f2e8e35791]: Textual amendment: S. 41C(4)(d) and word inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [26(b)](https://www.legislation.gov.uk/uksi/2012/2400/article/26/b)
 
-[^key-5cfbbf31ca20c51bbf1cde55682264a0]: Textual amendment: S. 41C(4A) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 143(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/143/1), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-5cfbbf31ca20c51bbf1cde55682264a0]: Textual amendment: S. 41C(4A) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 143(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/143/1), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)

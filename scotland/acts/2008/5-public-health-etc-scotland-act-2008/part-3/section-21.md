@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Public health investigations[^key-92d3030d99dca9ea222110470f4b2319]
+## 21. Public health investigations[^c-92d3030d99dca9ea222110470f4b2319]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) the Scottish Ministers;
 - (b) a health board competent person;
 - (c) the common services agency;
-- (ca)[^key-679e4f3ba81d7a413f683f85ad0d2d2a] Public Health Scotland;
+- (ca)[^c-679e4f3ba81d7a413f683f85ad0d2d2a] Public Health Scotland;
 - (d) a local authority competent person;
 - (e) two or more of the persons mentioned in paragraphs (a) to (d) acting together,
 
@@ -43,6 +43,6 @@ and, in this Part, that person is known as an “investigator”.
 
 ## Annotations
 
-[^key-92d3030d99dca9ea222110470f4b2319]: Commencement: S. 21 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-92d3030d99dca9ea222110470f4b2319]: Commencement: S. 21 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-679e4f3ba81d7a413f683f85ad0d2d2a]: Textual amendment: [S. 21(2)(ca)](https://www.legislation.gov.uk/asp/2008/5/section/21/2/ca) inserted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 6(4)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/6/4) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-679e4f3ba81d7a413f683f85ad0d2d2a]: Textual amendment: [S. 21(2)(ca)](https://www.legislation.gov.uk/asp/2008/5/section/21/2/ca) inserted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 6(4)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/6/4) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Preparation of tenancy strategy[^key-882deed9ba303a51c6765159fee6ffdd]
+## 151. Preparation of tenancy strategy[^c-882deed9ba303a51c6765159fee6ffdd]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-882deed9ba303a51c6765159fee6ffdd]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2011/20/section/151) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(n)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-882deed9ba303a51c6765159fee6ffdd]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2011/20/section/151) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(n)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

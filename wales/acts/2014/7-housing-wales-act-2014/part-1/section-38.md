@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Enforcement of powers to obtain information[^key-222197bd993944f95605f50970c3cf4c]
+## 38. Enforcement of powers to obtain information[^c-222197bd993944f95605f50970c3cf4c]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-222197bd993944f95605f50970c3cf4c]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2014/7/section/38) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(t)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/t)
+[^c-222197bd993944f95605f50970c3cf4c]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2014/7/section/38) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(t)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/t)

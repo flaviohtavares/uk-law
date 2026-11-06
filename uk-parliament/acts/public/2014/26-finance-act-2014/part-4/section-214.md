@@ -44,7 +44,7 @@ summary: ''
 
 (8) On an appeal under subsection (1), the tribunal may affirm or cancel HMRC's decision.
 
-(8A)[^key-636d2d84d0181d5ede9bd5bf7188ffac] If the tribunal cancels a decision of HMRC that a penalty is payable by P under section 208, any penalty additional to that penalty to which P is liable under section 208A is also cancelled.
+(8A)[^c-636d2d84d0181d5ede9bd5bf7188ffac] If the tribunal cancels a decision of HMRC that a penalty is payable by P under section 208, any penalty additional to that penalty to which P is liable under section 208A is also cancelled.
 
 (9) On an appeal under subsection (2), the tribunal may—
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-636d2d84d0181d5ede9bd5bf7188ffac]: Textual amendment: [S. 214(8A)](https://www.legislation.gov.uk/ukpga/2014/26/section/214/8A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/7)
+[^c-636d2d84d0181d5ede9bd5bf7188ffac]: Textual amendment: [S. 214(8A)](https://www.legislation.gov.uk/ukpga/2014/26/section/214/8A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/7)

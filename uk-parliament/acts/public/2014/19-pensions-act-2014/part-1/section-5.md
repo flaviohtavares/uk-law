@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transitional rate of state pension[^key-ae48591940a5e1542c706e532ae6e134]
+## 5. Transitional rate of state pension[^c-ae48591940a5e1542c706e532ae6e134]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae48591940a5e1542c706e532ae6e134]: Commencement: S. 5 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-ae48591940a5e1542c706e532ae6e134]: Commencement: S. 5 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)

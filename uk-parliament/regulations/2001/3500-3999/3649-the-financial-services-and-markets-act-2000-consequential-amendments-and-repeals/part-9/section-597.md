@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 597. Meaning of “proper advice”[^key-c8b6a0f11ff661a56c29d58db1f3cf68]
+## 597. Meaning of “proper advice”[^c-c8b6a0f11ff661a56c29d58db1f3cf68]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8b6a0f11ff661a56c29d58db1f3cf68]: Commencement: Art. 597 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c8b6a0f11ff661a56c29d58db1f3cf68]: Commencement: Art. 597 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

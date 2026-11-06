@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Indemnity for certain acts[^key-a34a61a879e92c7a0cc1d5a534b3d83a]
+## 87. Indemnity for certain acts[^c-a34a61a879e92c7a0cc1d5a534b3d83a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 184(5) of the Companies Act 1989 (indemnity for certain acts), for th
 
 ## Annotations
 
-[^key-a34a61a879e92c7a0cc1d5a534b3d83a]: Commencement: Art. 87 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a34a61a879e92c7a0cc1d5a534b3d83a]: Commencement: Art. 87 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

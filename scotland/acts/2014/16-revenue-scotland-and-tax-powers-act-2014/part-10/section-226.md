@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 226. Recovery of penalties and interest[^key-ee64f91aa18f95afa30e164d54e327d1]
+## 226. Recovery of penalties and interest[^c-ee64f91aa18f95afa30e164d54e327d1]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ as though that amount were an amount of unpaid tax.
 
 ## Annotations
 
-[^key-ee64f91aa18f95afa30e164d54e327d1]: Commencement: [S. 226](https://www.legislation.gov.uk/asp/2014/16/section/226) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-ee64f91aa18f95afa30e164d54e327d1]: Commencement: [S. 226](https://www.legislation.gov.uk/asp/2014/16/section/226) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

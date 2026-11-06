@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Packaging supplied by corporate groups[^key-e1713515d4929582d18281d14ed88916]
+## 101. Packaging supplied by corporate groups[^c-e1713515d4929582d18281d14ed88916]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 9 apply to corporate groups.
 
 ## Annotations
 
-[^key-e1713515d4929582d18281d14ed88916]: Commencement: Reg. 101 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e1713515d4929582d18281d14ed88916]: Commencement: Reg. 101 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

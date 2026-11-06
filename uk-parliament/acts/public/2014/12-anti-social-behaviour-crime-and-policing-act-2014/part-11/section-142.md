@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Grants to local policing bodies[^key-0f76e0dfdbc0c64433f50cece7cef6c9]
+## 142. Grants to local policing bodies[^c-0f76e0dfdbc0c64433f50cece7cef6c9]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f76e0dfdbc0c64433f50cece7cef6c9]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2014/12/section/142) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/12)
+[^c-0f76e0dfdbc0c64433f50cece7cef6c9]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2014/12/section/142) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/12)

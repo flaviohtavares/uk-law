@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.3. Preparation of case stated[^key-d5ddfeb8a30f9b1890c3ad23904e4078]
+## 35.3. Preparation of case stated[^c-d5ddfeb8a30f9b1890c3ad23904e4078]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d5ddfeb8a30f9b1890c3ad23904e4078]: Commencement: [Rule 35.3](https://www.legislation.gov.uk/uksi/2025/909/rule/35.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d5ddfeb8a30f9b1890c3ad23904e4078]: Commencement: [Rule 35.3](https://www.legislation.gov.uk/uksi/2025/909/rule/35.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00903]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 114 was amended by section 90 of, and paragraphs 95 and 113 of Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22) and section 109 of, and paragraph 235 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

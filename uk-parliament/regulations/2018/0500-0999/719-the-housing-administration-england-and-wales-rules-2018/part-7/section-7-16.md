@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.16. Standard contents of notices relating to documents[^key-b97758317d3b02f15f8c6a23e0cd2eed]
+## 7.16. Standard contents of notices relating to documents[^c-b97758317d3b02f15f8c6a23e0cd2eed]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A notice relating to a document must also state—
 
 ## Annotations
 
-[^key-b97758317d3b02f15f8c6a23e0cd2eed]: Commencement: Rule 7.16 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-b97758317d3b02f15f8c6a23e0cd2eed]: Commencement: Rule 7.16 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

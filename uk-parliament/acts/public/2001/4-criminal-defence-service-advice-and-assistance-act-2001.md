@@ -29,18 +29,18 @@ Criminal Defence Service (Advice and Assistance) Act 2001 (repealed)
 
 2001 c. 4
 
-[^key-8deec6d867b418f555bdb882e6d0b780]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8deec6d867b418f555bdb882e6d0b780]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Extent of duty to fund advice and assistance[^key-8deec6d867b418f555bdb882e6d0b780][^key-8deec6d867b418f555bdb882e6d0b780]
+## 1. Extent of duty to fund advice and assistance[^c-8deec6d867b418f555bdb882e6d0b780][^c-8deec6d867b418f555bdb882e6d0b780]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title[^key-8deec6d867b418f555bdb882e6d0b780][^key-8deec6d867b418f555bdb882e6d0b780]
+## 2. Short title[^c-8deec6d867b418f555bdb882e6d0b780][^c-8deec6d867b418f555bdb882e6d0b780]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8deec6d867b418f555bdb882e6d0b780]: Textual amendment: Act repealed (E.W.) (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-8deec6d867b418f555bdb882e6d0b780]: Textual amendment: Act repealed (E.W.) (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

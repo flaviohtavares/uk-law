@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Students residing with parents[^key-72a9def531a4f90573728e255e2b0559]
+## 74. Students residing with parents[^c-72a9def531a4f90573728e255e2b0559]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72a9def531a4f90573728e255e2b0559]: Commencement: Reg. 74 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-72a9def531a4f90573728e255e2b0559]: Commencement: Reg. 74 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

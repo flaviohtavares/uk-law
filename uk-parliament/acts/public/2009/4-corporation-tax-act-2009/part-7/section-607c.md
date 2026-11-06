@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 607C. Avoidance of double charge[^key-5a40dbc44bfcebe0f5ef2ffdc3921c8b]
+## 607C. Avoidance of double charge[^c-5a40dbc44bfcebe0f5ef2ffdc3921c8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a40dbc44bfcebe0f5ef2ffdc3921c8b]: Textual amendment: Ss. 607A-607C inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/71)
+[^c-5a40dbc44bfcebe0f5ef2ffdc3921c8b]: Textual amendment: Ss. 607A-607C inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/71)

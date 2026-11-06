@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41B. Climate change risk: publication of information[^key-9c97f90497bccc812bd50118a4f581a5]
+## 41B. Climate change risk: publication of information[^c-9c97f90497bccc812bd50118a4f581a5]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c97f90497bccc812bd50118a4f581a5]: Textual amendment: [Arts. 41A-41C](https://www.legislation.gov.uk/nisi/1995/3213/article/41A) inserted (1.9.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 12(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/12/2); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/e)
+[^c-9c97f90497bccc812bd50118a4f581a5]: Textual amendment: [Arts. 41A-41C](https://www.legislation.gov.uk/nisi/1995/3213/article/41A) inserted (1.9.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 12(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/12/2); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/2/e)

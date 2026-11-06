@@ -48,22 +48,22 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by section 45H(3) to (5) of the Capital Allowances Act 2001 [^c23626191].
 
-## 1. Citation and commencement[^key-8cd4403bde7994e3394de96579d330d0]
+## 1. Citation and commencement[^c-8cd4403bde7994e3394de96579d330d0]
 
 This Order may be cited as the Capital Allowances (Environmentally Beneficial Plant and Machinery) (Amendment) Order 2019 and comes into force on 29th March 2019.
 
-## 2. Amendment of the Capital Allowances (Environmentally Beneficial Plant and Machinery) Order 2003[^key-8d25163adb065a067c78216dc4c38154]
+## 2. Amendment of the Capital Allowances (Environmentally Beneficial Plant and Machinery) Order 2003[^c-8d25163adb065a067c78216dc4c38154]
 
 The Capital Allowances (Environmentally Beneficial Plant and Machinery) Order 2003 [^c23626201] is amended as follows.
 
-## 3.[^key-7873b7abe548ba33d7c24e0918c79cce]
+## 3.[^c-7873b7abe548ba33d7c24e0918c79cce]
 
 In article 2 (interpretation), in the definitions of “Water Technology Criteria List” and “Water Technology Product List”—
 
 - (a) for “June 2016” substitute “ February 2019 ” in both places, and
 - (b) for “6 July 2016” substitute “ 19th February 2019 ” in both places.
 
-## 4.[^key-b5cbfeb2349492f88c34a0ecdb524b42]
+## 4.[^c-b5cbfeb2349492f88c34a0ecdb524b42]
 
 In article 3(2) (description of environmentally beneficial plant and machinery), omit sub-paragraphs (k) and (l).
 
@@ -91,12 +91,12 @@ A Tax Information and Impact Note covering this instrument was published on 29 O
 
 [^c23626191]: Marginal citation: [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2); [section 45H](https://www.legislation.gov.uk/uksi/2019/499/section/45H) was inserted by paragraph 3 of Schedule 30 to the [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14).
 
-[^key-8cd4403bde7994e3394de96579d330d0]: Commencement: Art. 1 in force at 29.3.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/499/article/1)
+[^c-8cd4403bde7994e3394de96579d330d0]: Commencement: Art. 1 in force at 29.3.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/499/article/1)
 
-[^key-8d25163adb065a067c78216dc4c38154]: Commencement: Art. 2 in force at 29.3.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/499/article/1)
+[^c-8d25163adb065a067c78216dc4c38154]: Commencement: Art. 2 in force at 29.3.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/499/article/1)
 
 [^c23626201]: Marginal citation: [S.I. 2003/2076](https://www.legislation.gov.uk/uksi/2003/2076) as amended by [S.I. 2004/2094](https://www.legislation.gov.uk/uksi/2004/2094), 2005/2423, 2006/2235, 2007/2166, 2008/1917, 2009/1864, 2010/2483, 2011/2220, 2012/1838, 2013/1762, 2014/1869, 2015/1509 and 2016/952.
 
-[^key-7873b7abe548ba33d7c24e0918c79cce]: Commencement: Art. 3 in force at 29.3.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/499/article/1)
+[^c-7873b7abe548ba33d7c24e0918c79cce]: Commencement: Art. 3 in force at 29.3.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/499/article/1)
 
-[^key-b5cbfeb2349492f88c34a0ecdb524b42]: Commencement: Art. 4 in force at 29.3.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/499/article/1)
+[^c-b5cbfeb2349492f88c34a0ecdb524b42]: Commencement: Art. 4 in force at 29.3.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/499/article/1)

@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by sections 122(1)(*a*) and (*d*), 132(3) and (4)(*b*) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], Articles 4 and 19(1) of the Child Support (Northern Ireland) Order 1995[^f00002], Articles 14(1) and (4)(*b*) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00003], and now vested in it[^f00004], and section 87(5) of the Northern Ireland Act 1998[^f00005] and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00006] in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00007], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-4a000877dda303e2fb239cb8d6be12f0]
+## 1. Citation, commencement and interpretation[^c-4a000877dda303e2fb239cb8d6be12f0]
 
 (1) These Regulations may be cited as the Social Security (Child Maintenance Premium and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 and shall come into operation—
 
@@ -70,23 +70,23 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954 shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Child maintenance: income support and jobseeker’s allowance[^key-3e1ec6d679b59097c29602d40ab0cf34]
+## 2. Child maintenance: income support and jobseeker’s allowance[^c-3e1ec6d679b59097c29602d40ab0cf34]
 
 (1) In the Income Support (General) Regulations (Northern Ireland) 1987[^f00010]—
 
-- (a)[^key-07ba7f6209bafa2ea80d842690142172] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-b0a5f9354ea1427daefdddf9e80a8ce9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-07ba7f6209bafa2ea80d842690142172] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b0a5f9354ea1427daefdddf9e80a8ce9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00014]—
 
-- (a)[^key-9a2765ce244668ac88abc983bf6130da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-59463d38a4fa5f206b4a2684edb1cb52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9a2765ce244668ac88abc983bf6130da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-59463d38a4fa5f206b4a2684edb1cb52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Housing benefit[^key-8b5fb92896e8e6c97ab39fc0a168a66a]
+## 3. Housing benefit[^c-8b5fb92896e8e6c97ab39fc0a168a66a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations and transitional provisions[^key-dd026bc0e474eb62d371717df69eb00f]
+## 4. Revocations and transitional provisions[^c-dd026bc0e474eb62d371717df69eb00f]
 
 (1) Subject to paragraphs (2) to (8) –
 
@@ -207,22 +207,22 @@ These Regulations do not impose a charge on business.
 
 [^f00007]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-4a000877dda303e2fb239cb8d6be12f0]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/25/regulation/1) substituted (16.2.2004) by [The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/16)](https://www.legislation.gov.uk/nisr/2004/16), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/4/2)
+[^c-4a000877dda303e2fb239cb8d6be12f0]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/25/regulation/1) substituted (16.2.2004) by [The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/16)](https://www.legislation.gov.uk/nisr/2004/16), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/4/2)
 
-[^key-3e1ec6d679b59097c29602d40ab0cf34]: Commencement: Reg. 2 comes into operation in accordance with reg. 1(1)
+[^c-3e1ec6d679b59097c29602d40ab0cf34]: Commencement: Reg. 2 comes into operation in accordance with reg. 1(1)
 
 [^f00010]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1993 No. 167](https://www.legislation.gov.uk/nisr/1993/167) and [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381)
 
-[^key-07ba7f6209bafa2ea80d842690142172]: Textual amendment: [Reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/1/a) revoked (coming into operation in accordance with reg. 1(1)(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
+[^c-07ba7f6209bafa2ea80d842690142172]: Textual amendment: [Reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/1/a) revoked (coming into operation in accordance with reg. 1(1)(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
 
-[^key-b0a5f9354ea1427daefdddf9e80a8ce9]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/1/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/16)](https://www.legislation.gov.uk/nisr/2004/16), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2004/16/regulation/4/3)
+[^c-b0a5f9354ea1427daefdddf9e80a8ce9]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/1/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/16)](https://www.legislation.gov.uk/nisr/2004/16), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2004/16/regulation/4/3)
 
 [^f00014]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending regulations are [S.R. 1999 No. 342](https://www.legislation.gov.uk/nisr/1999/342)
 
-[^key-9a2765ce244668ac88abc983bf6130da]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/2/a) revoked (coming into operation in accordance with reg. 1(1)(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
+[^c-9a2765ce244668ac88abc983bf6130da]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/2/a) revoked (coming into operation in accordance with reg. 1(1)(2) of the amending Rule) by [The Social Security (Child Maintenance Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/406)](https://www.legislation.gov.uk/nisr/2008/406), [Sch.](https://www.legislation.gov.uk/nisr/2008/406/schedule)
 
-[^key-59463d38a4fa5f206b4a2684edb1cb52]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/2/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/16)](https://www.legislation.gov.uk/nisr/2004/16), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2004/16/regulation/4/3)
+[^c-59463d38a4fa5f206b4a2684edb1cb52]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/2001/25/regulation/2/2/b) omitted (16.2.2004) by virtue of [The Social Security (Child Maintenance Premium) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/16)](https://www.legislation.gov.uk/nisr/2004/16), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/16/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2004/16/regulation/4/3)
 
-[^key-8b5fb92896e8e6c97ab39fc0a168a66a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/25/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-8b5fb92896e8e6c97ab39fc0a168a66a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/25/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-dd026bc0e474eb62d371717df69eb00f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/25/regulation/4) substituted (coming into operation in accordance with reg. 1 of the amending Rule) by [The Social Security (Child Maintenance Premium and Miscellaneous Amendments) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/57)](https://www.legislation.gov.uk/nisr/2003/57), [regs. 1](https://www.legislation.gov.uk/nisr/2003/57/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/57/regulation/2); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 6](https://www.legislation.gov.uk/nisr/2003/53/article/6) (as substituted (24.2.2003) by [S.R. 2003/92](https://www.legislation.gov.uk/nisr/2003/92), [art. 2](https://www.legislation.gov.uk/nisr/2003/92/article/2))
+[^c-dd026bc0e474eb62d371717df69eb00f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/25/regulation/4) substituted (coming into operation in accordance with reg. 1 of the amending Rule) by [The Social Security (Child Maintenance Premium and Miscellaneous Amendments) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/57)](https://www.legislation.gov.uk/nisr/2003/57), [regs. 1](https://www.legislation.gov.uk/nisr/2003/57/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/57/regulation/2); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 6](https://www.legislation.gov.uk/nisr/2003/53/article/6) (as substituted (24.2.2003) by [S.R. 2003/92](https://www.legislation.gov.uk/nisr/2003/92), [art. 2](https://www.legislation.gov.uk/nisr/2003/92/article/2))

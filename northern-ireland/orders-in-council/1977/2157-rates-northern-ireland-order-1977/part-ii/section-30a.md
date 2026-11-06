@@ -26,7 +26,7 @@ summary: ''
 
 (3) Regulations may include—
 
-- (a)[^key-26a42be5de7a92d0ee6521bfcd2d8a46] provision for purposes corresponding to those of any statutory provision—
+- (a)[^c-26a42be5de7a92d0ee6521bfcd2d8a46] provision for purposes corresponding to those of any statutory provision—
   - (i) which has any application in relation to housing benefit or universal credit; or
   - (ii) which, at any time specified in the regulations (being a time before the coming into operation of the regulations), had any application in relation to housing benefit;
 - (b) provision applying any such statutory provision with modifications;
@@ -44,6 +44,6 @@ summary: ''
 
 [^c19573621]: Textual amendment: Art. 30A inserted (1.12.2006) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [14](https://www.legislation.gov.uk/nisi/2006/2954/article/14); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/464/schedule/2)
 
-[^key-26a42be5de7a92d0ee6521bfcd2d8a46]: Textual amendment: Art. 30A(3)(a) substituted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [134](https://www.legislation.gov.uk/nisi/2015/2006/article/134); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(f)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/f)
+[^c-26a42be5de7a92d0ee6521bfcd2d8a46]: Textual amendment: Art. 30A(3)(a) substituted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [134](https://www.legislation.gov.uk/nisi/2015/2006/article/134); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(f)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/f)
 
 [^c20670481]: Modification: Art. 30A(5) modified (1.4.2007) by [Rates (Maximum Capital Value) Regulations (Northern Ireland) 2007 (S.R. 2007/184)](https://www.legislation.gov.uk/nisr/2007/184), [reg. 4(a)](https://www.legislation.gov.uk/nisr/2007/184/regulation/4/a)

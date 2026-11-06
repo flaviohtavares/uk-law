@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Definition of “energy bill” for the purpose of section 4(4) and Part 5[^key-860163356bf79070808d5506a5d3fb2c]
+## 5. Definition of “energy bill” for the purpose of section 4(4) and Part 5[^c-860163356bf79070808d5506a5d3fb2c]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ For the purpose of section 4(4) and Part 5, “energy bill” means a charge for
 
 ## Annotations
 
-[^key-860163356bf79070808d5506a5d3fb2c]: Commencement: Reg. 5 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-860163356bf79070808d5506a5d3fb2c]: Commencement: Reg. 5 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

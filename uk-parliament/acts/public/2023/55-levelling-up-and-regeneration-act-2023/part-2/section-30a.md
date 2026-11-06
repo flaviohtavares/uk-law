@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Limitation on delegation of mayoral functions[^key-6c052b2b51bddcf06f96b267f8c5e936]
+## 30A. Limitation on delegation of mayoral functions[^c-6c052b2b51bddcf06f96b267f8c5e936]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c052b2b51bddcf06f96b267f8c5e936]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/2023/55/section/30A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 25 para. 10(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/10/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-6c052b2b51bddcf06f96b267f8c5e936]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/2023/55/section/30A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 25 para. 10(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/10/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

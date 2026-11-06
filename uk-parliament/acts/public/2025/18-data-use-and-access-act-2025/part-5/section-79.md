@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Data subjects’ rights to information: legal professional privilege exemption[^key-bd615d460916e7e1f89b9f79b3acc66b][^key-351a270a57ffa9b28da1cbf03d42d268]
+## 79. Data subjects’ rights to information: legal professional privilege exemption[^c-bd615d460916e7e1f89b9f79b3acc66b][^c-351a270a57ffa9b28da1cbf03d42d268]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd615d460916e7e1f89b9f79b3acc66b]: Commencement: S. 79 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-bd615d460916e7e1f89b9f79b3acc66b]: Commencement: S. 79 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-351a270a57ffa9b28da1cbf03d42d268]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/18/section/79) in force at 5.9.2025 by [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))
+[^c-351a270a57ffa9b28da1cbf03d42d268]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/18/section/79) in force at 5.9.2025 by [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))

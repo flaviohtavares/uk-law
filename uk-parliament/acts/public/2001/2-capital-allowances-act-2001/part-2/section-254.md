@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Sections 255 and 256 apply if a company which is carrying on any long-term business[^key-58f085548f84cb186919fdaafa3f6ce4] is entitled or liable to any allowances or charges for a chargeable period in respect of plant or machinery consisting of a management asset.
+(1) Sections 255 and 256 apply if a company which is carrying on any long-term business[^c-58f085548f84cb186919fdaafa3f6ce4] is entitled or liable to any allowances or charges for a chargeable period in respect of plant or machinery consisting of a management asset.
 
 (2) In this Chapter “**management asset**” has the same meaning as in Chapter 1 of Part 12 (life assurance business).
 
 ## Annotations
 
-[^key-58f085548f84cb186919fdaafa3f6ce4]: Textual amendment: Words in s. 254(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 97](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/97)
+[^c-58f085548f84cb186919fdaafa3f6ce4]: Textual amendment: Words in s. 254(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 97](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/97)

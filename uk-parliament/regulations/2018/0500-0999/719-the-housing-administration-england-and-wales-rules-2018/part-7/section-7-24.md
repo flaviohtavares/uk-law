@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.24. Postal delivery of documents[^key-7676b9d201d76e15eb6ea65808251f6f]
+## 7.24. Postal delivery of documents[^c-7676b9d201d76e15eb6ea65808251f6f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7676b9d201d76e15eb6ea65808251f6f]: Commencement: Rule 7.24 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-7676b9d201d76e15eb6ea65808251f6f]: Commencement: Rule 7.24 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

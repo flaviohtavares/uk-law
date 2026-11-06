@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Zimbabwe (Financial Sanctions) (Amendment) Regulations 2014 (revoked)[^key-2d9ffa69ae2c1941e6be57ddf20b0882]
+The Zimbabwe (Financial Sanctions) (Amendment) Regulations 2014 (revoked)[^c-2d9ffa69ae2c1941e6be57ddf20b0882]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 25th February 2014
 
-[^key-2d9ffa69ae2c1941e6be57ddf20b0882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d9ffa69ae2c1941e6be57ddf20b0882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2d9ffa69ae2c1941e6be57ddf20b0882]
+## 1. Citation and commencement[^c-2d9ffa69ae2c1941e6be57ddf20b0882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Zimbabwe (Financial Sanctions) Regulations 2009[^key-2d9ffa69ae2c1941e6be57ddf20b0882]
+## 2. Amendments to the Zimbabwe (Financial Sanctions) Regulations 2009[^c-2d9ffa69ae2c1941e6be57ddf20b0882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2d9ffa69ae2c1941e6be57ddf20b0882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2d9ffa69ae2c1941e6be57ddf20b0882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2d9ffa69ae2c1941e6be57ddf20b0882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2d9ffa69ae2c1941e6be57ddf20b0882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2d9ffa69ae2c1941e6be57ddf20b0882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2d9ffa69ae2c1941e6be57ddf20b0882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-2d9ffa69ae2c1941e6be57ddf20b0882]
+## 6. Revocations[^c-2d9ffa69ae2c1941e6be57ddf20b0882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2d9ffa69ae2c1941e6be57ddf20b0882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2d9ffa69ae2c1941e6be57ddf20b0882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d9ffa69ae2c1941e6be57ddf20b0882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d9ffa69ae2c1941e6be57ddf20b0882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2d9ffa69ae2c1941e6be57ddf20b0882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d9ffa69ae2c1941e6be57ddf20b0882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d9ffa69ae2c1941e6be57ddf20b0882]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/383) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-2d9ffa69ae2c1941e6be57ddf20b0882]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/383) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

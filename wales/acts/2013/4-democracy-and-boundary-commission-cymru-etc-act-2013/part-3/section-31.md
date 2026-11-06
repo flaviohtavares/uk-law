@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(A1)[^key-a33cc8c917fe5cec7921ee8415577aba] A principal council must conduct a review of the electoral arrangements for each community in its area at least once in every review period.
+(A1)[^c-a33cc8c917fe5cec7921ee8415577aba] A principal council must conduct a review of the electoral arrangements for each community in its area at least once in every review period.
 
 (A2) In subsection (A1), “**review period**” means—
 
@@ -29,7 +29,7 @@ summary: ''
 
 (A3) The Welsh Ministers may by regulations amend subsection (A2).
 
-(1) A principal council may also[^key-8aeb5f803b0480e84064a9384c03a07e] conduct a review of the electoral arrangements for a community in its area—
+(1) A principal council may also[^c-8aeb5f803b0480e84064a9384c03a07e] conduct a review of the electoral arrangements for a community in its area—
 
 - (a) of its own initiative, or
 - (b) at the request of—
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a33cc8c917fe5cec7921ee8415577aba]: Textual amendment: Ss. 31(A1)-(A3) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(3)(a)](https://www.legislation.gov.uk/asc/2024/5/section/51/3/a), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-a33cc8c917fe5cec7921ee8415577aba]: Textual amendment: Ss. 31(A1)-(A3) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(3)(a)](https://www.legislation.gov.uk/asc/2024/5/section/51/3/a), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
 
-[^key-8aeb5f803b0480e84064a9384c03a07e]: Textual amendment: Word in s. 31(1) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(3)(b)](https://www.legislation.gov.uk/asc/2024/5/section/51/3/b), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-8aeb5f803b0480e84064a9384c03a07e]: Textual amendment: Word in s. 31(1) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(3)(b)](https://www.legislation.gov.uk/asc/2024/5/section/51/3/b), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

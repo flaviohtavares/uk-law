@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 5(1)(*j*) and (4) and 77(1) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-8e08ca954524abe026334b0b59a67b79]
+## 1. Citation, commencement and interpretation[^c-8e08ca954524abe026334b0b59a67b79]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments Etc.) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 4th April 1996.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-bcf4fc34903cd5b556299869c1af4e16]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-bcf4fc34903cd5b556299869c1af4e16]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00003] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -108,18 +108,18 @@ shall be omitted.
 
 (6) In Schedule 7 (manner and time of payment, effective date of change of circumstances and commencement of entitlement in income support cases), in paragraph 1 after “instrument of payment” there shall be inserted “or an instrument for benefit payment”.
 
-## 3. Amendment of the Statutory Sick Pay (General) Regulations[^key-48b9ad6c8ce90b941cd73c1c7d65bfff]
+## 3. Amendment of the Statutory Sick Pay (General) Regulations[^c-48b9ad6c8ce90b941cd73c1c7d65bfff]
 
 In regulation 9C of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00005] (payments by the Department) after “instrument of payment” there shall be inserted “, instrument for benefit payment”.
 
-## 4. Amendment of the Social Security (Recoupment) Regulations[^key-82fcc45cea6d13404bb00e9169b87023]
+## 4. Amendment of the Social Security (Recoupment) Regulations[^c-82fcc45cea6d13404bb00e9169b87023]
 
 In regulation 2 of the Social Security (Recoupment) Regulations (Northern Ireland) 1990[^f00006] (relevant benefits)—
 
 - (a) in paragraph (2) after “instrument of payment” there shall be inserted “or paid concurrently with it by means of an instrument for benefit payment”; and
 - (b) in paragraph (3) for “instrument of payment” there shall be substituted “instrument for benefit payment”.
 
-## 5. Revocations[^key-3fcc13a84123c09a83a268fd3b17149b]
+## 5. Revocations[^c-3fcc13a84123c09a83a268fd3b17149b]
 
 Regulation 3(5) of the Social Security (Claims and Payments) (Amendment No. 3) Regulations (Northern Ireland) 1993[^f00007] and regulation 2(9) of the Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 1994[^f00008] are hereby revoked.
 
@@ -143,25 +143,25 @@ These Regulations correspond to provision contained in regulations made by the S
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-8e08ca954524abe026334b0b59a67b79]: Commencement: Reg. 1 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
+[^c-8e08ca954524abe026334b0b59a67b79]: Commencement: Reg. 1 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-bcf4fc34903cd5b556299869c1af4e16]: Commencement: Reg. 2 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
+[^c-bcf4fc34903cd5b556299869c1af4e16]: Commencement: Reg. 2 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375) and [S.R. 1994 Nos. 345](https://www.legislation.gov.uk/nisr/1994/345), [456](https://www.legislation.gov.uk/nisr/1994/456) and [484](https://www.legislation.gov.uk/nisr/1994/484)
 
 [^f00004]: Footnote: Regulation 20A was inserted by regulation 2(4) of [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484)
 
-[^key-48b9ad6c8ce90b941cd73c1c7d65bfff]: Commencement: Reg. 3 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
+[^c-48b9ad6c8ce90b941cd73c1c7d65bfff]: Commencement: Reg. 3 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263); relevant amending regulations are [S.R. 1987 No. 131](https://www.legislation.gov.uk/nisr/1987/131)
 
-[^key-82fcc45cea6d13404bb00e9169b87023]: Commencement: Reg. 4 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
+[^c-82fcc45cea6d13404bb00e9169b87023]: Commencement: Reg. 4 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1990 No. 85](https://www.legislation.gov.uk/nisr/1990/85)
 
-[^key-3fcc13a84123c09a83a268fd3b17149b]: Commencement: Reg. 5 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
+[^c-3fcc13a84123c09a83a268fd3b17149b]: Commencement: Reg. 5 in operation at 4.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/85/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375)
 

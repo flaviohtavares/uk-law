@@ -57,7 +57,7 @@ An Act to grant certain duties of Customs and Inland Revenue, to alter other dut
 
 (3)[^c577773] Where any addition to, or deduction from, the contract price may be made under this section on account of any new or repealed duty, such sum as may be agreed upon or in default of agreement determined by the Commissioners of Customs . . . [^c577774], as representing in the case of a new duty any new expenses incurred, and in the case of a repealed duty any expenses saved, may be included in the addition to or deduction from the contract price, and may be recovered or deducted accordingly.
 
-(3A)[^key-55256fdcdb6a53a6377fe1419dbddb75] This section applies whether or not the goods have undergone a process of manufacture or preparation, or have become a part or ingredient of other goods.
+(3A)[^c-55256fdcdb6a53a6377fe1419dbddb75] This section applies whether or not the goods have undergone a process of manufacture or preparation, or have become a part or ingredient of other goods.
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c577775]
 
@@ -119,7 +119,7 @@ An Act to grant certain duties of Customs and Inland Revenue, to alter other dut
 
 [^c577774]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/II) Group 2
 
-[^key-55256fdcdb6a53a6377fe1419dbddb75]: Textual amendment: [S. 10(3A)](https://www.legislation.gov.uk/ukpga/Edw7/1/7/section/10/3A) inserted (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/3)
+[^c-55256fdcdb6a53a6377fe1419dbddb75]: Textual amendment: [S. 10(3A)](https://www.legislation.gov.uk/ukpga/Edw7/1/7/section/10/3A) inserted (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/3)
 
 [^c577775]: Textual amendment: S. 10(4) repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/II) Group 2
 

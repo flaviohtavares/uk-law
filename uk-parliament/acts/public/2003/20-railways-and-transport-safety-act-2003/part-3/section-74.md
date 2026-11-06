@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Regulations and orders[^key-ae6fef65ef8494c0b84d951fcab8676e]
+## 74. Regulations and orders[^c-ae6fef65ef8494c0b84d951fcab8676e]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae6fef65ef8494c0b84d951fcab8676e]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2003/20/section/74) in force at 19.6.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/1572/article/2/b)
+[^c-ae6fef65ef8494c0b84d951fcab8676e]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2003/20/section/74) in force at 19.6.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/1572/article/2/b)

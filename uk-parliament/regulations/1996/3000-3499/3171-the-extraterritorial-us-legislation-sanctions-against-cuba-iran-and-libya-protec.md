@@ -50,37 +50,37 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred on Her by section 2(2) of the European Communities Act 1972[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
 
-**1.**[^key-d4bdc1d2fd987d10af722da7941f5408] (1) This Order may be cited as the Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) Order 1996 and shall come into force on 28th January 1997.
+**1.**[^c-d4bdc1d2fd987d10af722da7941f5408] (1) This Order may be cited as the Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) Order 1996 and shall come into force on 28th January 1997.
 
-(2)[^key-c130b7a25aa404c93d4b621b036e9a88] In this Order—
+(2)[^c-c130b7a25aa404c93d4b621b036e9a88] In this Order—
 
-- (a) references to the “EC Counter-measures Regulation” are references to Council Regulation [(EC) No. 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271) protecting against the effects of the extraterritorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom, as last amended by Commission Delegated Regulation (EU) 2018/1100 and the Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020[^key-91608686c1d415dc3592417c81bfcfeb];
+- (a) references to the “EC Counter-measures Regulation” are references to Council Regulation [(EC) No. 2271/96](https://www.legislation.gov.uk/european/regulation/1996/2271) protecting against the effects of the extraterritorial application of legislation adopted by a third country, and actions based thereon or resulting therefrom, as last amended by Commission Delegated Regulation (EU) 2018/1100 and the Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020[^c-91608686c1d415dc3592417c81bfcfeb];
 - (b) unless the context otherwise requires, expressions used shall have the same meaning as in that Regulation.
 
-**2.**[^key-b1b0e304b1c103f7ccaa9cd954d24c1e] (1) [^key-34bc0dab56b9ab77cac84e81b3875ed6]... Any person referred to in Article 11 of the EC Counter-measures Regulation [^key-a6e5aadc0c8536c2ed908f0ff17da4c7]... —
+**2.**[^c-b1b0e304b1c103f7ccaa9cd954d24c1e] (1) [^c-34bc0dab56b9ab77cac84e81b3875ed6]... Any person referred to in Article 11 of the EC Counter-measures Regulation [^c-a6e5aadc0c8536c2ed908f0ff17da4c7]... —
 
-- (i)[^key-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (iii)[^key-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (iv)[^key-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (v)[^key-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (iii)[^c-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (iv)[^c-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (v)[^c-b3522a1f889e7ddb213733e08498024e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 who commits a breach of Article 2 or the first paragraph of Article 5 of that Regulation, and any director, manager or other person with management responsibilities to whom the obligation in the first paragraph of Article 2 of that Regulation applies who commits a breach of that paragraph, shall be guilty of an offence and liable —
 
 - (a) on conviction on indictment, to a fine;
 - (b) on summary conviction, to a fine not exceeding the statutory maximum.
 
-(2)[^key-8ab98b59052b63c0fecfbbc603c1a3b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8ab98b59052b63c0fecfbbc603c1a3b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) No proceedings for an offence under paragraph (1) above shall be instituted in England, Wales or Northern Ireland except by the Secretary of State or with the consent of the Attorney General or, as the case may be, the Attorney General for Northern Ireland.
 
 (4) Proceedings against any person for an offence under this section may be taken before the appropriate court in the United Kingdom having jurisdiction in the place where that person is for the time being.
 
-**3.**[^key-a61af0f0b11eb3c40ab61f83c3718091] (1) Sections 1(1) and (3) and 2 of the Protection of Trading Interests Act 1980[^f00004] and orders made and directions given thereunder shall not apply in respect of any matter to the extent that Article 5 of the EC Counter-measures Regulation applies in respect of it.
+**3.**[^c-a61af0f0b11eb3c40ab61f83c3718091] (1) Sections 1(1) and (3) and 2 of the Protection of Trading Interests Act 1980[^f00004] and orders made and directions given thereunder shall not apply in respect of any matter to the extent that Article 5 of the EC Counter-measures Regulation applies in respect of it.
 
 (2) Section 6 of that Act shall not apply in respect of a judgment to the extent that Article 6 of that Regulation provides for recovery of damages as a result thereof.
 
-**4.**[^key-ea42250429ae592f31f13d33b3658848] (1) The Secretary of State must from time to time—
+**4.**[^c-ea42250429ae592f31f13d33b3658848] (1) The Secretary of State must from time to time—
 
 - (a) carry out a review of the regulatory provisions contained in this Order;
 - (b) set out the conclusions of the review in a report; and
@@ -90,7 +90,7 @@ who commits a breach of Article 2 or the first paragraph of Article 5 of that Re
 
 (3) Subsequent reports must be published at intervals not exceeding five years.
 
-(4)[^key-8b4feb1287965e4e29aeb44a2ee1e656] Section 30(3) of the Small Business, Enterprise and Employment Act 2015 requires that a review carried out under this article of any regulatory provision which implements an international obligation of the United Kingdom must, so far as is reasonable, have regard to how the obligation is implemented in other countries which are subject to the obligation.
+(4)[^c-8b4feb1287965e4e29aeb44a2ee1e656] Section 30(3) of the Small Business, Enterprise and Employment Act 2015 requires that a review carried out under this article of any regulatory provision which implements an international obligation of the United Kingdom must, so far as is reasonable, have regard to how the obligation is implemented in other countries which are subject to the obligation.
 
 (5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this article must in particular—
 
@@ -116,26 +116,26 @@ The offence in (a) is punishable by an unlimited fine on indictment or a fine no
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-d4bdc1d2fd987d10af722da7941f5408]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1996/3171/article/1) in force at 28.1.1997, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/1)
+[^c-d4bdc1d2fd987d10af722da7941f5408]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1996/3171/article/1) in force at 28.1.1997, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/1)
 
-[^key-c130b7a25aa404c93d4b621b036e9a88]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/2) substituted (1.2.2019) by [The Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) (Amendment) Order 2018 (S.I. 2018/1357)](https://www.legislation.gov.uk/uksi/2018/1357), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1357/article/1/1), [2](https://www.legislation.gov.uk/uksi/2018/1357/article/2)
+[^c-c130b7a25aa404c93d4b621b036e9a88]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/2) substituted (1.2.2019) by [The Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) (Amendment) Order 2018 (S.I. 2018/1357)](https://www.legislation.gov.uk/uksi/2018/1357), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1357/article/1/1), [2](https://www.legislation.gov.uk/uksi/2018/1357/article/2)
 
-[^key-91608686c1d415dc3592417c81bfcfeb]: Textual amendment: Words in [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/2/a) inserted (1.1.2021) by [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/2)
+[^c-91608686c1d415dc3592417c81bfcfeb]: Textual amendment: Words in [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/2/a) inserted (1.1.2021) by [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/2)
 
-[^key-b1b0e304b1c103f7ccaa9cd954d24c1e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1996/3171/article/2) in force at 28.1.1997, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/1)
+[^c-b1b0e304b1c103f7ccaa9cd954d24c1e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1996/3171/article/2) in force at 28.1.1997, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/1)
 
-[^key-34bc0dab56b9ab77cac84e81b3875ed6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/2/1) omitted (1.1.2021) by virtue of [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/3/a/i)
+[^c-34bc0dab56b9ab77cac84e81b3875ed6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/2/1) omitted (1.1.2021) by virtue of [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/3/a/i)
 
-[^key-a6e5aadc0c8536c2ed908f0ff17da4c7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/2/1) omitted (1.1.2021) by virtue of [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/3/a/ii)
+[^c-a6e5aadc0c8536c2ed908f0ff17da4c7]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/2/1) omitted (1.1.2021) by virtue of [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/3/a/ii)
 
-[^key-b3522a1f889e7ddb213733e08498024e]: Textual amendment: [Art. 2(1)(i)-(v)](https://www.legislation.gov.uk/uksi/1996/3171/article/2/1/i/v) omitted (1.1.2021) by virtue of [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/3/a/iii)
+[^c-b3522a1f889e7ddb213733e08498024e]: Textual amendment: [Art. 2(1)(i)-(v)](https://www.legislation.gov.uk/uksi/1996/3171/article/2/1/i/v) omitted (1.1.2021) by virtue of [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/3/a/iii)
 
-[^key-8ab98b59052b63c0fecfbbc603c1a3b4]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/1996/3171/article/2/2) omitted (1.1.2021) by virtue of [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/3/b)
+[^c-8ab98b59052b63c0fecfbbc603c1a3b4]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/1996/3171/article/2/2) omitted (1.1.2021) by virtue of [The Protecting against the Effects of the Extraterritorial Application of Third Country Legislation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1660)](https://www.legislation.gov.uk/uksi/2020/1660), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1660/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1660/regulation/2/3/b)
 
-[^key-a61af0f0b11eb3c40ab61f83c3718091]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1996/3171/article/3) in force at 28.1.1997, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/1)
+[^c-a61af0f0b11eb3c40ab61f83c3718091]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1996/3171/article/3) in force at 28.1.1997, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1996/3171/article/1/1)
 
 [^f00004]: Footnote: [1980 c. 11](https://www.legislation.gov.uk/ukpga/1980/11).
 
-[^key-ea42250429ae592f31f13d33b3658848]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/1996/3171/article/4) inserted (1.2.2019) by [The Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) (Amendment) Order 2018 (S.I. 2018/1357)](https://www.legislation.gov.uk/uksi/2018/1357), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1357/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/1357/article/3)
+[^c-ea42250429ae592f31f13d33b3658848]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/1996/3171/article/4) inserted (1.2.2019) by [The Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) (Amendment) Order 2018 (S.I. 2018/1357)](https://www.legislation.gov.uk/uksi/2018/1357), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1357/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/1357/article/3)
 
-[^key-8b4feb1287965e4e29aeb44a2ee1e656]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/1996/3171/article/4/4) substituted (15.12.2022) by [The Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1332)](https://www.legislation.gov.uk/uksi/2022/1332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1332/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/1332/regulation/2)
+[^c-8b4feb1287965e4e29aeb44a2ee1e656]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/1996/3171/article/4/4) substituted (15.12.2022) by [The Extraterritorial US Legislation (Sanctions against Cuba, Iran and Libya) (Protection of Trading Interests) (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1332)](https://www.legislation.gov.uk/uksi/2022/1332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1332/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/1332/regulation/2)

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9cd7bc3d12576b7fd5fd84e4012bcca6] Schedule 12 (minor and consequential amendments) has effect.
+(1)[^c-9cd7bc3d12576b7fd5fd84e4012bcca6] Schedule 12 (minor and consequential amendments) has effect.
 
-(2)[^key-bd934621c355604677a335df9029d127] The Secretary of State may by regulations make provision that is consequential on any provision made by this Act.
+(2)[^c-bd934621c355604677a335df9029d127] The Secretary of State may by regulations make provision that is consequential on any provision made by this Act.
 
-(3)[^key-bd934621c355604677a335df9029d127] Regulations under this section may not amend or repeal primary legislation.
+(3)[^c-bd934621c355604677a335df9029d127] Regulations under this section may not amend or repeal primary legislation.
 
-(4)[^key-bd934621c355604677a335df9029d127] In this section “**primary legislation**” means—
+(4)[^c-bd934621c355604677a335df9029d127] In this section “**primary legislation**” means—
 
 - (a) an Act of Parliament;
 - (b) an Act of the Scottish Parliament;
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9cd7bc3d12576b7fd5fd84e4012bcca6]: Commencement: [S. 67(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/67/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 107](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/107) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3)) (as amended by S.I. 2021/874, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/874/regulation/2/3))
+[^c-9cd7bc3d12576b7fd5fd84e4012bcca6]: Commencement: [S. 67(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/67/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 107](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/107) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3)) (as amended by S.I. 2021/874, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/874/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/874/regulation/2/3))
 
-[^key-bd934621c355604677a335df9029d127]: Commencement: [S. 67(2)-(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/67/2) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(aaa)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/aaa)
+[^c-bd934621c355604677a335df9029d127]: Commencement: [S. 67(2)-(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/67/2) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(aaa)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/aaa)

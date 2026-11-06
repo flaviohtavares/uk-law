@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Right to a review[^key-7587c8c9a2726a480b9072db174e9019]
+## 54. Right to a review[^c-7587c8c9a2726a480b9072db174e9019]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7587c8c9a2726a480b9072db174e9019]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2021/15/section/54) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-7587c8c9a2726a480b9072db174e9019]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2021/15/section/54) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -44,7 +44,7 @@ The Department of the Environment makes these Regulations in exercise of the pow
 
 In accordance with Article 9 of that Order the Department has consulted with the Northern Ireland Local Government Association, the Northern Ireland Local Government Officers’ Superannuation Committee and such representatives of other persons likely to be affected by the Regulations as appeared to be appropriate.
 
-## 1. Citation, commencement and interpretation[^key-45faee06d9a26603ad6cd93194ded7c5]
+## 1. Citation, commencement and interpretation[^c-45faee06d9a26603ad6cd93194ded7c5]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2010 and shall come into operation on 31st May 2010.
 
@@ -53,18 +53,18 @@ In accordance with Article 9 of that Order the Department has consulted with the
 - “the 2002 Regulations” means the Local Government Pension Scheme Regulations (Northern Ireland) 2002[^f00003]; and
 - “the 2009 Regulations” means the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations (Northern Ireland) 2009[^f00004].
 
-## 2. Retrospection[^key-a9d22d5b0872efb1e4a8fa0ffad26d8e]
+## 2. Retrospection[^c-a9d22d5b0872efb1e4a8fa0ffad26d8e]
 
 The amendments in—
 
 - (a) regulations 4 to 6 shall have effect from 30th November 2007; and
 - (b) regulation 7 shall have effect from 1st April 2009.
 
-## 3. Amendment of the 2002 Regulations[^key-626d2b1a208a38e4c59215f792744fdb]
+## 3. Amendment of the 2002 Regulations[^c-626d2b1a208a38e4c59215f792744fdb]
 
-Regulations 4 to 6 have effect in relation to the 2002 Regulations to the extent that the 2002 Regulations continue in force by virtue of the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014[^key-8e8aecd564eee4766d99f8cb0f434e2b] .
+Regulations 4 to 6 have effect in relation to the 2002 Regulations to the extent that the 2002 Regulations continue in force by virtue of the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014[^c-8e8aecd564eee4766d99f8cb0f434e2b] .
 
-## 4. Amendment of regulation 10 of the 2002 Regulations[^key-6561891d89a4e64531e7b5ef36824c26]
+## 4. Amendment of regulation 10 of the 2002 Regulations[^c-6561891d89a4e64531e7b5ef36824c26]
 
 In regulation 10 (length of period of membership: calculation of benefit)—
 
@@ -90,7 +90,7 @@ In regulation 10 (length of period of membership: calculation of benefit)—
 
   .
 
-## 5. Amendment of regulation 19 of the 2002 Regulations[^key-596e192b766201515d6edca65f55be8a]
+## 5. Amendment of regulation 19 of the 2002 Regulations[^c-596e192b766201515d6edca65f55be8a]
 
 In regulation 19 (calculations)—
 
@@ -109,11 +109,11 @@ In regulation 19 (calculations)—
 
   .
 
-## 6. Amendment of regulation 22 of the 2002 Regulations[^key-57b14b05c4d356729d6a83376987b853]
+## 6. Amendment of regulation 22 of the 2002 Regulations[^c-57b14b05c4d356729d6a83376987b853]
 
 In regulation 22(3) (final pay) at the beginning insert “Subject to regulation 19(10) to (13)”.
 
-## 7. Amendment of regulation 8 of the 2009 Regulations[^key-749a025551385cefdcc9794320d0e026]
+## 7. Amendment of regulation 8 of the 2009 Regulations[^c-749a025551385cefdcc9794320d0e026]
 
 In regulation 8(3) (final pay: general) of the 2009 Regulations at the beginning insert “Subject to regulation 19(13) of the 2002 Regulations”.
 
@@ -141,22 +141,22 @@ In the case of classroom assistants employed by voluntary grammar and grant main
 
 [^f00002]: Footnote: S.R. & O [(N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Article 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424).
 
-[^key-45faee06d9a26603ad6cd93194ded7c5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/164/regulation/1) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
+[^c-45faee06d9a26603ad6cd93194ded7c5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/164/regulation/1) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2002 No. 352](https://www.legislation.gov.uk/nisr/2002/352); relevant amending Regulations are [S.R. 2004 No. 139](https://www.legislation.gov.uk/nisr/2004/139), [S.R. 2005 No. 274](https://www.legislation.gov.uk/nisr/2005/274), [S.R. 2006 No. 6](https://www.legislation.gov.uk/nisr/2006/6), [S.R. 2007 No. 152](https://www.legislation.gov.uk/nisr/2007/152), [S.R. 2007 No. 448](https://www.legislation.gov.uk/nisr/2007/448) and [S.R. 2009 No. 34](https://www.legislation.gov.uk/nisr/2009/34).
 
 [^f00004]: Footnote: [S.R. 2009 No. 32](https://www.legislation.gov.uk/nisr/2009/32).
 
-[^key-a9d22d5b0872efb1e4a8fa0ffad26d8e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/164/regulation/2) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
+[^c-a9d22d5b0872efb1e4a8fa0ffad26d8e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/164/regulation/2) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
 
-[^key-626d2b1a208a38e4c59215f792744fdb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/164/regulation/3) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
+[^c-626d2b1a208a38e4c59215f792744fdb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/164/regulation/3) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
 
-[^key-8e8aecd564eee4766d99f8cb0f434e2b]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2010/164/regulation/3) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [Sch. 4 para. 18](https://www.legislation.gov.uk/nisr/2014/189/schedule/4/paragraph/18)
+[^c-8e8aecd564eee4766d99f8cb0f434e2b]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2010/164/regulation/3) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [Sch. 4 para. 18](https://www.legislation.gov.uk/nisr/2014/189/schedule/4/paragraph/18)
 
-[^key-6561891d89a4e64531e7b5ef36824c26]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/164/regulation/4) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
+[^c-6561891d89a4e64531e7b5ef36824c26]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/164/regulation/4) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
 
-[^key-596e192b766201515d6edca65f55be8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/164/regulation/5) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
+[^c-596e192b766201515d6edca65f55be8a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/164/regulation/5) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
 
-[^key-57b14b05c4d356729d6a83376987b853]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/164/regulation/6) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
+[^c-57b14b05c4d356729d6a83376987b853]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/164/regulation/6) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
 
-[^key-749a025551385cefdcc9794320d0e026]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/164/regulation/7) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)
+[^c-749a025551385cefdcc9794320d0e026]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/164/regulation/7) in operation at 31.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/164/regulation/1/1)

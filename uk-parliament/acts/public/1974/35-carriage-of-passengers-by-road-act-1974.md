@@ -29,87 +29,87 @@ Carriage of Passengers by Road Act 1974 (repealed)
 
 1974 c.35
 
-[^key-55e3ae29e5e44f3784e81172adc51d07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55e3ae29e5e44f3784e81172adc51d07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Convention to have force of law.[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Designation of Contracting States.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 1. Convention to have force of law.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Liability of carrier for death or personal injury.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 2. Designation of Contracting States.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Power of court to take account of other proceedings.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 3. Liability of carrier for death or personal injury.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Registration of foreign judgments.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 4. Power of court to take account of other proceedings.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Actions against Contracting States.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 5. Registration of foreign judgments.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Resolution of conflicts between conventions on carriage of passengers.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 6. Actions against Contracting States.[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Resolution of conflicts between conventions on carriage of passengers.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments consequential on revision of Convention.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 8. Amendments consequential on revision of Convention.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application to British possessions, etc.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 9. Application to British possessions, etc.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application to Scotland.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 10. Application to Scotland.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Application to Northern Ireland.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 11. Application to Northern Ireland.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Orders in Council.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 12. Orders in Council.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Application to Crown.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 13. Application to Crown.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Short title, interpretation and commencement.[^key-55e3ae29e5e44f3784e81172adc51d07]
+## 14. Short title, interpretation and commencement.[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 **No longer in force.**
 
@@ -117,218 +117,218 @@ Carriage of Passengers by Road Act 1974 (repealed)
 
 **Not yet in force.**
 
-## SCHEDULE — CONVENTION ON THE CONTRACT FOR THE INTERNATIONAL CARRIAGE OF PASSENGERS AND LUGGAGE BY ROAD[^key-55e3ae29e5e44f3784e81172adc51d07]
+## SCHEDULE — CONVENTION ON THE CONTRACT FOR THE INTERNATIONAL CARRIAGE OF PASSENGERS AND LUGGAGE BY ROAD[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 Section 1.
 
-### Chapter I — SCOPE OF APPLICATION[^key-55e3ae29e5e44f3784e81172adc51d07]
+### Chapter I — SCOPE OF APPLICATION[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-#### Article 1[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 1[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 2[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 3[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 2[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chapter II — PERSONS FOR WHOM THE CARRIER IS RESPONSIBLE[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-#### Article 4[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 3[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chapter III — TRANSPORT DOCUMENTS[^key-55e3ae29e5e44f3784e81172adc51d07]
+### Chapter II — PERSONS FOR WHOM THE CARRIER IS RESPONSIBLE[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-#### Section 1. Passengers[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 5[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 6[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 4[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 7[^key-55e3ae29e5e44f3784e81172adc51d07]
+### Chapter III — TRANSPORT DOCUMENTS[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+#### Section 1. Passengers[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section 2. Luggage[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 5[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Article 6[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 8[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 9[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 7[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 10[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Chapter IV — LIABILITY OF THE CARRIER[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-#### Section 1. Personal Injuries[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Section 2. Luggage[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 11[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 8[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 12[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 13[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Section 2. Damage to Luggage[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 9[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 14[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 10[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15[^key-55e3ae29e5e44f3784e81172adc51d07]
+### Chapter IV — LIABILITY OF THE CARRIER[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 16[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Section 3. General Provisions[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Section 1. Personal Injuries[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 17[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 11[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 18[^key-55e3ae29e5e44f3784e81172adc51d07]
-
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 19[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 12[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 19[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 13[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Section 2. Damage to Luggage[^c-55e3ae29e5e44f3784e81172adc51d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chapter V — CLAIMS AND ACTIONS[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 14[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-#### Article 20[^key-55e3ae29e5e44f3784e81172adc51d07]
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 21[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 15[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Article 16[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**4.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 22[^key-55e3ae29e5e44f3784e81172adc51d07]
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Section 3. General Provisions[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Article 17[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**4.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chapter VI — NULLITY OF STIPULATIONS TO THE CONVENTION[^key-55e3ae29e5e44f3784e81172adc51d07]
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 23[^key-55e3ae29e5e44f3784e81172adc51d07]
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Article 18[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chapter VII — FINAL PROVISIONS[^key-55e3ae29e5e44f3784e81172adc51d07]
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 31[^key-55e3ae29e5e44f3784e81172adc51d07]
+#### Article 19[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Article 19[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-#### Article 32[^key-55e3ae29e5e44f3784e81172adc51d07]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Chapter V — CLAIMS AND ACTIONS[^c-55e3ae29e5e44f3784e81172adc51d07]
 
-**2.**[^key-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Article 20[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Article 21[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Article 22[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter VI — NULLITY OF STIPULATIONS TO THE CONVENTION[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+#### Article 23[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chapter VII — FINAL PROVISIONS[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+#### Article 31[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Article 32[^c-55e3ae29e5e44f3784e81172adc51d07]
+
+**1.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-55e3ae29e5e44f3784e81172adc51d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55e3ae29e5e44f3784e81172adc51d07]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1974/35) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-55e3ae29e5e44f3784e81172adc51d07]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1974/35) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

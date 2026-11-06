@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Limitations on appeals[^key-7aed1911ac60ad7745d9c2bc2ddca6e3]
+## 34. Limitations on appeals[^c-7aed1911ac60ad7745d9c2bc2ddca6e3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7aed1911ac60ad7745d9c2bc2ddca6e3]: Commencement: Reg. 34 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-7aed1911ac60ad7745d9c2bc2ddca6e3]: Commencement: Reg. 34 in operation at 25.7.2006 with effect in accordance with reg. 1

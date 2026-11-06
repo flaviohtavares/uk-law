@@ -44,7 +44,7 @@ summary: ''
 - (a) it is regulated or authorised to carry on insurance business, and
 - (b) it is wholly owned by persons with which it has entered into insurance contracts.
 
-(6A)[^key-867b40b2ecd9a989f49c122e973bcfa4] Where, ignoring the election, profits and amounts of qualifying tax expense would be allocated to M in accordance with sections 168 and 178 to 181, those profits and amounts are to be allocated—
+(6A)[^c-867b40b2ecd9a989f49c122e973bcfa4] Where, ignoring the election, profits and amounts of qualifying tax expense would be allocated to M in accordance with sections 168 and 178 to 181, those profits and amounts are to be allocated—
 
 - (a) first to M, and then
 - (b) to O in proportion to the direct ownership interests O is treated as having in M.
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-867b40b2ecd9a989f49c122e973bcfa4]: Textual amendment: [S. 213(6A)](https://www.legislation.gov.uk/ukpga/2023/30/section/213/6A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 28](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/28)
+[^c-867b40b2ecd9a989f49c122e973bcfa4]: Textual amendment: [S. 213(6A)](https://www.legislation.gov.uk/ukpga/2023/30/section/213/6A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 28](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/28)

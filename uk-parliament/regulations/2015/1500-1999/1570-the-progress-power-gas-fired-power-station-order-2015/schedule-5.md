@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^key-6071fbfe8e81e6506f8f878a1e746cfb]
+## SCHEDULE 5 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^c-6071fbfe8e81e6506f8f878a1e746cfb]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ Article 12
 
 ## Annotations
 
-[^key-6071fbfe8e81e6506f8f878a1e746cfb]: Commencement: Sch. 5 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-6071fbfe8e81e6506f8f878a1e746cfb]: Commencement: Sch. 5 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

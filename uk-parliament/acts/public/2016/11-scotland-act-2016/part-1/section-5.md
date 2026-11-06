@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Timing of elections[^key-814d1a2976ff8eac716e26585b008d85]
+## 5. Timing of elections[^c-814d1a2976ff8eac716e26585b008d85]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-814d1a2976ff8eac716e26585b008d85]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/11/section/5) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/c)
+[^c-814d1a2976ff8eac716e26585b008d85]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/11/section/5) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Additional criteria and disadvantaged two year olds requirement: early years[^key-fe9ab82c08b06879b7c9666456f5a498]
+## 39. Additional criteria and disadvantaged two year olds requirement: early years[^c-fe9ab82c08b06879b7c9666456f5a498]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ in respect of disadvantaged two year olds or working parent two year olds, as th
 
 ## Annotations
 
-[^key-fe9ab82c08b06879b7c9666456f5a498]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/42/regulation/39) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-fe9ab82c08b06879b7c9666456f5a498]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2025/42/regulation/39) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

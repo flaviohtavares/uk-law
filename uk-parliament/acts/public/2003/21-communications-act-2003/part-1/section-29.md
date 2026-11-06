@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Secretary of State guarantees for OFCOM borrowing[^key-835097924c6153045a5040a5c0026271]
+## 29. Secretary of State guarantees for OFCOM borrowing[^c-835097924c6153045a5040a5c0026271]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ exceeds £5 million.
 
 ## Annotations
 
-[^key-835097924c6153045a5040a5c0026271]: Commencement: S. 29 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-835097924c6153045a5040a5c0026271]: Commencement: S. 29 in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)

@@ -78,19 +78,19 @@ For the purposes of its application to feeding stuffs, the Act is to be read as 
 
 ## PART 2 — Miscellaneous requirements relating to sampling and analysis
 
-### 4. Methods of sending a final sample[^key-ae6d5ae4310a2a1796ec976e2a9b661c]
+### 4. Methods of sending a final sample[^c-ae6d5ae4310a2a1796ec976e2a9b661c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Qualifications of analysts[^key-e493b578f08ae7f5ee49e7c8fd67ac3b]
+### 5. Qualifications of analysts[^c-e493b578f08ae7f5ee49e7c8fd67ac3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Analysis other than in the course of official controls[^key-bedfccbf749ff38f1fdf55c7aae00ee7]
+### 6. Analysis other than in the course of official controls[^c-bedfccbf749ff38f1fdf55c7aae00ee7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Form of certificate of analysis[^key-6e94dff23635bae59ae7a3617baa1446]
+### 7. Form of certificate of analysis[^c-6e94dff23635bae59ae7a3617baa1446]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -117,7 +117,7 @@ Section 68 (duty of seller to give statutory statement) in so far as it applies 
   - (i) “final sample” were substituted for “ sample taken from the portion in question ”, and
   - (ii) “in accordance with Regulation 152/2009” were substituted for “ in the prescribed manner ”.
 
-### 11.[^key-8561acdf120a26243d4dd4d2e0c8f97f]
+### 11.[^c-8561acdf120a26243d4dd4d2e0c8f97f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,11 +139,11 @@ Section 71 (particulars to be given of certain attributes if claimed to be prese
   - (i) “final sample” were substituted for “ sampled portion ”, and
   - (ii) “that sample” were substituted for “ the sample taken from that portion ”.
 
-### 14.[^key-285534fa8cb00afb78b3295b2f8d7a40]
+### 14.[^c-285534fa8cb00afb78b3295b2f8d7a40]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15.[^key-512ab5cb64cb12c0c2044332e5f98b12]
+### 15.[^c-512ab5cb64cb12c0c2044332e5f98b12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -227,15 +227,15 @@ Section 79 (supplementary provisions relating to samples and analysis) in so far
 - (a) “ is specified by Regulation 152/2009 or ” were inserted after “quality of any material”; and
 - (b) “the method so specified or prescribed” were substituted for “ the method prescribed ”.
 
-### 21. Amendment of the Feed Hygiene Regulations[^key-269904e48887075c5f52e7f0dfb01dac]
+### 21. Amendment of the Feed Hygiene Regulations[^c-269904e48887075c5f52e7f0dfb01dac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Amendment of the Genetically Modified Animal Feed (Wales) Regulations 2004[^key-aeb5766276a0696baec5a8a325665672]
+### 22. Amendment of the Genetically Modified Animal Feed (Wales) Regulations 2004[^c-aeb5766276a0696baec5a8a325665672]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Amendment of the Official Feed and Food Controls (Wales) Regulations 2009[^key-5d679fe4025fbb6b8426d5d4abcc443e]
+### 23. Amendment of the Official Feed and Food Controls (Wales) Regulations 2009[^c-5d679fe4025fbb6b8426d5d4abcc443e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -245,7 +245,7 @@ The Feeding Stuffs (Sampling and Analysis) Regulations 1999 [^c20477461] are rev
 
 ## PART 4 — Undesirable substances
 
-### 25. Amendment of the Feeding Stuffs (Wales) Regulations 2006[^key-382bb793621041b9bd916cc3a16cd453]
+### 25. Amendment of the Feeding Stuffs (Wales) Regulations 2006[^c-382bb793621041b9bd916cc3a16cd453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -255,33 +255,33 @@ Deputy Minister for Social Services, under authority of The Minister for Health 
 
 15 September 2010
 
-## SCHEDULE 1 — Form of Certificate of Analysis[^key-6641f9456d86c03b4ae18e3f917c8e93]
+## SCHEDULE 1 — Form of Certificate of Analysis[^c-6641f9456d86c03b4ae18e3f917c8e93]
 
 **No longer in force.**
 
 Regulation 7
 
-[^key-6641f9456d86c03b4ae18e3f917c8e93]
+[^c-6641f9456d86c03b4ae18e3f917c8e93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6641f9456d86c03b4ae18e3f917c8e93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Entries to be substituted in Chapter A of Schedule 5 to the Feeding Stuffs (Wales) Regulations 2006[^key-9078a17d2c07498501014fe97d2e0669]
+## SCHEDULE 2 — Entries to be substituted in Chapter A of Schedule 5 to the Feeding Stuffs (Wales) Regulations 2006[^c-9078a17d2c07498501014fe97d2e0669]
 
 **No longer in force.**
 
@@ -289,7 +289,7 @@ Regulation 25(3)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Entries to be substituted in Chapter B of Schedule 5 to the Feeding Stuffs (Wales) Regulations 2006[^key-853eb87a76dc4c4c27b7693096d9a7ae]
+## SCHEDULE 3 — Entries to be substituted in Chapter B of Schedule 5 to the Feeding Stuffs (Wales) Regulations 2006[^c-853eb87a76dc4c4c27b7693096d9a7ae]
 
 **No longer in force.**
 
@@ -297,7 +297,7 @@ Regulation 25(3)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Entries to be substituted in Chapter C of Schedule 5 to the Feeding Stuffs (Wales) Regulations 2006[^key-c63e87f0ce77b582c01c73aa3a56af37]
+## SCHEDULE 4 — Entries to be substituted in Chapter C of Schedule 5 to the Feeding Stuffs (Wales) Regulations 2006[^c-c63e87f0ce77b582c01c73aa3a56af37]
 
 **No longer in force.**
 
@@ -345,34 +345,34 @@ Regulation 25(3)(c)(i)
 
 [^c20477421]: Marginal citation: [S.I. 2004/3221](https://www.legislation.gov.uk/uksi/2004/3221) (W.277) amended by [S.I. 2007/3173](https://www.legislation.gov.uk/uksi/2007/3173) (W.278).
 
-[^key-ae6d5ae4310a2a1796ec976e2a9b661c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2010/2287/regulation/4) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
+[^c-ae6d5ae4310a2a1796ec976e2a9b661c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2010/2287/regulation/4) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
 
-[^key-e493b578f08ae7f5ee49e7c8fd67ac3b]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2010/2287/regulation/5) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
+[^c-e493b578f08ae7f5ee49e7c8fd67ac3b]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2010/2287/regulation/5) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
 
-[^key-bedfccbf749ff38f1fdf55c7aae00ee7]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2010/2287/regulation/6) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
+[^c-bedfccbf749ff38f1fdf55c7aae00ee7]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2010/2287/regulation/6) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
 
-[^key-6e94dff23635bae59ae7a3617baa1446]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2010/2287/regulation/7) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
+[^c-6e94dff23635bae59ae7a3617baa1446]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2010/2287/regulation/7) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
 
-[^key-8561acdf120a26243d4dd4d2e0c8f97f]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2010/2287/regulation/11) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-8561acdf120a26243d4dd4d2e0c8f97f]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2010/2287/regulation/11) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
 
-[^key-285534fa8cb00afb78b3295b2f8d7a40]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/wsi/2010/2287/regulation/14) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-285534fa8cb00afb78b3295b2f8d7a40]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/wsi/2010/2287/regulation/14) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
 
-[^key-512ab5cb64cb12c0c2044332e5f98b12]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/wsi/2010/2287/regulation/15) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-512ab5cb64cb12c0c2044332e5f98b12]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/wsi/2010/2287/regulation/15) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
 
-[^key-269904e48887075c5f52e7f0dfb01dac]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/wsi/2010/2287/regulation/21) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
+[^c-269904e48887075c5f52e7f0dfb01dac]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/wsi/2010/2287/regulation/21) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
 
-[^key-aeb5766276a0696baec5a8a325665672]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/wsi/2010/2287/regulation/22) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
+[^c-aeb5766276a0696baec5a8a325665672]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/wsi/2010/2287/regulation/22) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
 
-[^key-5d679fe4025fbb6b8426d5d4abcc443e]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/wsi/2010/2287/regulation/23) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
+[^c-5d679fe4025fbb6b8426d5d4abcc443e]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/wsi/2010/2287/regulation/23) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
 
 [^c20477461]: Marginal citation: [S.I. 1999/1663](https://www.legislation.gov.uk/uksi/1999/1663) amended by [S.I. 2001/2253](https://www.legislation.gov.uk/uksi/2001/2253) (W.163), [S.I. 2002/1797](https://www.legislation.gov.uk/uksi/2002/1797) (W.172), [S.I. 2003/1677](https://www.legislation.gov.uk/uksi/2003/1677) (W.180), [S.I. 2003/1850](https://www.legislation.gov.uk/uksi/2003/1850) (W.200), [S.I. 2004/2734](https://www.legislation.gov.uk/uksi/2004/2734) (W.241), [S.I. 2006/116](https://www.legislation.gov.uk/uksi/2006/116) (W.14) and [S.I. 2006/617](https://www.legislation.gov.uk/uksi/2006/617) (W.69).
 
-[^key-382bb793621041b9bd916cc3a16cd453]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/wsi/2010/2287/regulation/25) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-382bb793621041b9bd916cc3a16cd453]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/wsi/2010/2287/regulation/25) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
 
-[^key-6641f9456d86c03b4ae18e3f917c8e93]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2287/schedule/1) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
+[^c-6641f9456d86c03b4ae18e3f917c8e93]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2287/schedule/1) revoked (12.5.2016) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387)](https://www.legislation.gov.uk/wsi/2016/387), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/387/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/wsi/2016/387/schedule/5)
 
-[^key-9078a17d2c07498501014fe97d2e0669]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2287/schedule/2) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-9078a17d2c07498501014fe97d2e0669]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2287/schedule/2) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
 
-[^key-853eb87a76dc4c4c27b7693096d9a7ae]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2010/2287/schedule/3) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-853eb87a76dc4c4c27b7693096d9a7ae]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2010/2287/schedule/3) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
 
-[^key-c63e87f0ce77b582c01c73aa3a56af37]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2010/2287/schedule/4) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)
+[^c-c63e87f0ce77b582c01c73aa3a56af37]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2010/2287/schedule/4) revoked (23.11.2010) by [The Animal Feed (Wales) Regulations 2010 (S.I. 2010/2652)](https://www.legislation.gov.uk/wsi/2010/2652), [reg. 1](https://www.legislation.gov.uk/wsi/2010/2652/regulation/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2652/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Certification of plans, etc.[^key-8dd9c1f859feb687dd537524e2fa640f]
+## 48. Certification of plans, etc.[^c-8dd9c1f859feb687dd537524e2fa640f]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 - (h) the construction traffic management plan (Document 5.3.3F);
 - (i) the public rights of way management plan (Document 5.3.3G);
 - (j) the noise and vibration management plan (Document 5.3.3H);
-- (k) the outline landscape mitigation strategy (Figure 3.10 – 3.12 [^key-875a26e3409289ce22862da2de7ce241]... in[^key-344b34fa4ae814c0c6c99e679a5770aa] Document 5.4.3);
+- (k) the outline landscape mitigation strategy (Figure 3.10 – 3.12 [^c-875a26e3409289ce22862da2de7ce241]... in[^c-344b34fa4ae814c0c6c99e679a5770aa] Document 5.4.3);
 - (l) the outline soil management plan (Document 5.3.3E);
 - (m) the design drawings (Document 2.15);
 - (n) the land plan (Document 2.5.1–2.5.6);
@@ -47,8 +47,8 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-8dd9c1f859feb687dd537524e2fa640f]: Commencement: Art. 48 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-8dd9c1f859feb687dd537524e2fa640f]: Commencement: Art. 48 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-875a26e3409289ce22862da2de7ce241]: Textual amendment: Art. 48(k): comma omitted (12.6.2024) by virtue of [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-875a26e3409289ce22862da2de7ce241]: Textual amendment: Art. 48(k): comma omitted (12.6.2024) by virtue of [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
 
-[^key-344b34fa4ae814c0c6c99e679a5770aa]: Textual amendment: Word in art. 48(k) inserted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-344b34fa4ae814c0c6c99e679a5770aa]: Textual amendment: Word in art. 48(k) inserted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)

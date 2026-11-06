@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Fishing for salmon during annual close time[^key-dc24fb0f777c6d55567d10b6c1321a43]
+## 14. Fishing for salmon during annual close time[^c-dc24fb0f777c6d55567d10b6c1321a43]
 
 *Extent: S*
 
 (1) Subject to subsection (2) below, any person who fishes for or takes salmon during the annual close time within the meaning of section 37 of this Act shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-(2) It shall not be an offence to fish for or take salmon by means of rod and line at any period within the annual close time when such fishing is permitted in the district in which the fishing occurs—[^key-cb64fad6f6078c3a461eabf443e54c0c]
+(2) It shall not be an offence to fish for or take salmon by means of rod and line at any period within the annual close time when such fishing is permitted in the district in which the fishing occurs—[^c-cb64fad6f6078c3a461eabf443e54c0c]
 
 - (a) by the regulations or byelaws in force in that district;
 - (b) by a designation order made in respect of that district;
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc24fb0f777c6d55567d10b6c1321a43]: Commencement: S. 14 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-dc24fb0f777c6d55567d10b6c1321a43]: Commencement: S. 14 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-cb64fad6f6078c3a461eabf443e54c0c]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/asp/2003/15/section/14/2) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 31](https://www.legislation.gov.uk/asp/2013/7/section/31), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-cb64fad6f6078c3a461eabf443e54c0c]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/asp/2003/15/section/14/2) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 31](https://www.legislation.gov.uk/asp/2013/7/section/31), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Functions under the Justice (Northern Ireland) Act 2002[^key-5230331c935d21bc6ad4710a53b43b01]
+## 11. Functions under the Justice (Northern Ireland) Act 2002[^c-5230331c935d21bc6ad4710a53b43b01]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 13 (which amends the Justice (Northern Ireland) Act 2002[^f00010]) has 
 
 ## Annotations
 
-[^key-5230331c935d21bc6ad4710a53b43b01]: Commencement: Art. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-5230331c935d21bc6ad4710a53b43b01]: Commencement: Art. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00010]: Footnote: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26).

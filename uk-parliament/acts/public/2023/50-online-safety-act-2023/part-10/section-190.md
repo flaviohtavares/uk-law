@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Repeals in connection with offences under section 188[^key-e2a1ee10c2f3b33aad5969170f7ea6b9][^key-874e598bb703b159a46d03bd52c34a52]
+## 190. Repeals in connection with offences under section 188[^c-e2a1ee10c2f3b33aad5969170f7ea6b9][^c-874e598bb703b159a46d03bd52c34a52]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Sections 33 to 35 of the Criminal Justice and Courts Act 2015 (disclosing or thr
 
 ## Annotations
 
-[^key-e2a1ee10c2f3b33aad5969170f7ea6b9]: Commencement: S. 190 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-e2a1ee10c2f3b33aad5969170f7ea6b9]: Commencement: S. 190 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-874e598bb703b159a46d03bd52c34a52]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2023/50/section/190) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-874e598bb703b159a46d03bd52c34a52]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2023/50/section/190) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

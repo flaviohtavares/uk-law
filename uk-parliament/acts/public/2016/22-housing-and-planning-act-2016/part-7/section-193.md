@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Compensation after withdrawal of notice to treat[^key-7cff47d7454b0bb2ab1505060a53a7e9]
+## 193. Compensation after withdrawal of notice to treat[^c-7cff47d7454b0bb2ab1505060a53a7e9]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cff47d7454b0bb2ab1505060a53a7e9]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2016/22/section/193) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/d) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-7cff47d7454b0bb2ab1505060a53a7e9]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2016/22/section/193) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/d) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))

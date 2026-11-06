@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Trade enforcement: application of CEMA[^key-148f1c1fbef8b68a28bca415bdb356f6][^key-4759e7b696c2ce42dd9fb6a66897d314]
+## 54. Trade enforcement: application of CEMA[^c-148f1c1fbef8b68a28bca415bdb356f6][^c-4759e7b696c2ce42dd9fb6a66897d314]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ the matter is to be treated as an assigned matter.
 - (c) regulation 45(6) (general trade licences: records), or
 - (d) regulation 46(5) (general trade licences: inspection of records).
 
-(3A)[^key-ab287cf05f04138ef704846a4ab01dd7] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
+(3A)[^c-ab287cf05f04138ef704846a4ab01dd7] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
 
 - (a) a referral to the Commissioners by the Secretary of State, or
 - (b) a decision by the Commissioners to treat the suspected offence as if it had been referred to them under sub-paragraph (a).
@@ -68,13 +68,13 @@ the matter is to be treated as an assigned matter.
 
 ## Annotations
 
-[^key-148f1c1fbef8b68a28bca415bdb356f6]: Commencement: Reg. 54 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-148f1c1fbef8b68a28bca415bdb356f6]: Commencement: Reg. 54 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-4759e7b696c2ce42dd9fb6a66897d314]: Commencement: Reg. 54 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4759e7b696c2ce42dd9fb6a66897d314]: Commencement: Reg. 54 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23947741]: Marginal citation: The definition of “assigned matter” in section 1(1) of CEMA was amended by the [Commissioners for Revenue and Customs Act 2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraph 22(a)](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/22/a); the [Scotland Act 2012 (c.11)](https://www.legislation.gov.uk/ukpga/2012/11), [section 24(7)](https://www.legislation.gov.uk/ukpga/2012/11/section/24/7); and the [Wales Act 2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29), [section 7(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/1).
 
-[^key-ab287cf05f04138ef704846a4ab01dd7]: Textual amendment: Reg. 54(3A)-(3D) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2024/643/regulation/5/10)
+[^c-ab287cf05f04138ef704846a4ab01dd7]: Textual amendment: Reg. 54(3A)-(3D) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2024/643/regulation/5/10)
 
 [^c23947751]: Marginal citation: [Section 138](https://www.legislation.gov.uk/uksi/2019/604/section/138) of CEMA was amended by the [Police and Criminal Evidence Act 1984 (c.60)](https://www.legislation.gov.uk/ukpga/1984/60), [section 114(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/114/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/1984/60/schedule/6), [paragraph 37](https://www.legislation.gov.uk/ukpga/1984/60/paragraph/37) and Schedule 7, Part 1; the [Finance Act 1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39), [section 11](https://www.legislation.gov.uk/ukpga/1988/39/section/11); the [Serious and Organised Crime and Police Act 2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), [Schedule 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7), [paragraph 54](https://www.legislation.gov.uk/ukpga/2005/15/paragraph/54); [S.I](https://www.legislation.gov.uk/uksi/2019/604/section/I) 1989/1341; and [S.I. 2007/288](https://www.legislation.gov.uk/uksi/2007/288).
 

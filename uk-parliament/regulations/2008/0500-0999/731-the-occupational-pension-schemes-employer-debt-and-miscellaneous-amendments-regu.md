@@ -71,15 +71,15 @@ In accordance with section 120(1) of the Pensions Act 1995 and section 317(1) of
 (3) Paragraph (4) shall apply where before the commencement date—
 
 - (a) a person ceased to employ at least one active member in relation to a scheme at a time when at least one other person continued to employ persons in the description of employment to which the scheme related, and
-- (b) that event was not an employment-cessation event, under regulation 6(4) of the old Regulations, in relation to the scheme, and[^key-90745a20f566524cbc0c70126d7ca14f]
+- (b) that event was not an employment-cessation event, under regulation 6(4) of the old Regulations, in relation to the scheme, and[^c-90745a20f566524cbc0c70126d7ca14f]
 - (c) the scheme had not ceased to have active members.
 
-(4) The definition of “employment-cessation event”referred to in paragraph (4A)[^key-5e0ce7474d7099d8201ad7b90726152b] shall continue to apply after the commencement date, in the case of a person to whom paragraph (3) applies, until—
+(4) The definition of “employment-cessation event”referred to in paragraph (4A)[^c-5e0ce7474d7099d8201ad7b90726152b] shall continue to apply after the commencement date, in the case of a person to whom paragraph (3) applies, until—
 
 - (a) immediately after such time as that person has ceased to employ persons in the description of employment to which the scheme relates at a time when at least one other person continues to employ such persons, or
 - (b) such time as that person employs an active member.
 
-(4A)[^key-fb37be30aee5388565474954aca584e0] The definition referred to in this paragraph is the definition of “employment-cessation event” as it appeared in regulation 6(4) of the old Regulations but with “who is not a defined contribution employer” inserted after “when at least one other person”.
+(4A)[^c-fb37be30aee5388565474954aca584e0] The definition referred to in this paragraph is the definition of “employment-cessation event” as it appeared in regulation 6(4) of the old Regulations but with “who is not a defined contribution employer” inserted after “when at least one other person”.
 
 (5) The old Regulations shall continue to apply on and after the commencement date in relation to a debt arising under section 75(2) or (4) of the 1995 Act where—
 
@@ -936,11 +936,11 @@ These Regulations reduce costs on business, charities and the voluntary sector; 
 
 [^c2011131]: Marginal citation: [S.I. 2005/3377](https://www.legislation.gov.uk/uksi/2005/3377), amended by [S.I. 2005/3380](https://www.legislation.gov.uk/uksi/2005/3380), 2006/1733 and 2007/60 and 814.
 
-[^key-90745a20f566524cbc0c70126d7ca14f]: Textual amendment: Reg. 2(3)(c) and word inserted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/22/2)
+[^c-90745a20f566524cbc0c70126d7ca14f]: Textual amendment: Reg. 2(3)(c) and word inserted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/22/2)
 
-[^key-5e0ce7474d7099d8201ad7b90726152b]: Textual amendment: Words in reg. 2(4) substituted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2010/725/regulation/22/3)
+[^c-5e0ce7474d7099d8201ad7b90726152b]: Textual amendment: Words in reg. 2(4) substituted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2010/725/regulation/22/3)
 
-[^key-fb37be30aee5388565474954aca584e0]: Textual amendment: Reg. 2(4A) inserted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2010/725/regulation/22/4)
+[^c-fb37be30aee5388565474954aca584e0]: Textual amendment: Reg. 2(4A) inserted (6.4.2010) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2010/725/regulation/22/4)
 
 [^c2011132]: Marginal citation: [S.I. 2005/672](https://www.legislation.gov.uk/uksi/2005/672), amended by [S.I. 2005/993](https://www.legislation.gov.uk/uksi/2005/993) and 2113, 2006/580 and 2007/782.
 

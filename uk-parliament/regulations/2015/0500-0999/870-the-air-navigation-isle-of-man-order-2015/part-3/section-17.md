@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Certificate of airworthiness ceasing to be in force and issue of airworthiness directives[^key-62fd4118341743abe027ff35190b5c44]
+## 17. Certificate of airworthiness ceasing to be in force and issue of airworthiness directives[^c-62fd4118341743abe027ff35190b5c44]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62fd4118341743abe027ff35190b5c44]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2015/870/article/17) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-62fd4118341743abe027ff35190b5c44]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2015/870/article/17) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

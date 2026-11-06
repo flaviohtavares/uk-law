@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Obligations of pilot in command or remote pilot to carry out flight safely[^key-9ab18ff89349a5c0b850e0d26b884cc5]
+## 115. Obligations of pilot in command or remote pilot to carry out flight safely[^c-9ab18ff89349a5c0b850e0d26b884cc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ab18ff89349a5c0b850e0d26b884cc5]: Commencement: Reg. 115 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9ab18ff89349a5c0b850e0d26b884cc5]: Commencement: Reg. 115 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

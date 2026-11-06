@@ -18,9 +18,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**40.**[^key-df4380006c8f04bcd4ab0fecd32fd7c4] In regulation 44—
+**40.**[^c-df4380006c8f04bcd4ab0fecd32fd7c4] In regulation 44—
 
-- (a)[^key-c7620896cbb5cc17dae45908f3a8ef99] for paragraph (1) substitute—
+- (a)[^c-c7620896cbb5cc17dae45908f3a8ef99] for paragraph (1) substitute—
 
   > (1) This regulation applies to the export from Northern Ireland of energy products by sea, other than in cases where those products are moved in accordance with regulation 35(a)(iii) or (v).
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df4380006c8f04bcd4ab0fecd32fd7c4]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-df4380006c8f04bcd4ab0fecd32fd7c4]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
 
-[^key-c7620896cbb5cc17dae45908f3a8ef99]: Textual amendment: Reg. 40(a) substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/23)
+[^c-c7620896cbb5cc17dae45908f3a8ef99]: Textual amendment: Reg. 40(a) substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/23)

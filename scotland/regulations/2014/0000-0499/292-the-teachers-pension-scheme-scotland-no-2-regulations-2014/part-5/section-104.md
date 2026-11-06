@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Incapacity definitions[^key-38db96988c85f98d3918bff6d69814f0]
+## 104. Incapacity definitions[^c-38db96988c85f98d3918bff6d69814f0]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In this Chapter, a person (P)—
 
 ## Annotations
 
-[^key-38db96988c85f98d3918bff6d69814f0]: Commencement: [Reg. 104](https://www.legislation.gov.uk/ssi/2014/292/regulation/104) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-38db96988c85f98d3918bff6d69814f0]: Commencement: [Reg. 104](https://www.legislation.gov.uk/ssi/2014/292/regulation/104) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

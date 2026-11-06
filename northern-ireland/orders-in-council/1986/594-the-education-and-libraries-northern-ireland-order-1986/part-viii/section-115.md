@@ -31,7 +31,7 @@ summary: ''
 
 (3) The Department shall not pay grants under this Article to—
 
-- (a) the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] ; or
+- (a) the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] ; or
 - (b) the trustees or managers of—
   - (i) a voluntary school; or
   - (ii) a grant‐maintained integrated school.
@@ -62,6 +62,6 @@ summary: ''
 
 [^c21086021]: Textual amendment: Words in art. 115(1)(a)(i) repealed (1.4.2009) by [Libraries Act (Northern Ireland) 2008 (c. 8)](https://www.legislation.gov.uk/nia/2008/8), [ss. 10(2)](https://www.legislation.gov.uk/nia/2008/8/section/10/2), [12(2)](https://www.legislation.gov.uk/nia/2008/8/section/12/2), [Sch. 4](https://www.legislation.gov.uk/nia/2008/8/schedule/4); [S.R. 2009/123](https://www.legislation.gov.uk/nisr/2009/123), [art. 2(g)](https://www.legislation.gov.uk/nisr/2009/123/article/2/g)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17009961]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)

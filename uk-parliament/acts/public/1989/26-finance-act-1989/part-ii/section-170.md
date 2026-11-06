@@ -24,12 +24,12 @@ summary: ''
 
 (2)[^c13116541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-58398fa413a5558ba282ec7f41f88845] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-58398fa413a5558ba282ec7f41f88845] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In—
 
-- (a)[^key-96bab0781e1492afe60490c3ffaa3592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-96bab0781e1492afe60490c3ffaa3592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-96bab0781e1492afe60490c3ffaa3592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-96bab0781e1492afe60490c3ffaa3592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 658(5) of that Act (maximum penalty for false statements or representations relating to purchased life annuities),
 
 for “£500” there shall be substituted “£3,000”.
@@ -44,8 +44,8 @@ for “£500” there shall be substituted “£3,000”.
 
 [^c13116541]: Textual amendment: S. 170(2) repealed (16.7.1992 with effect in accordance with s. 32 of the repealing Act) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [ss. 32](https://www.legislation.gov.uk/ukpga/1992/48/section/32), [82](https://www.legislation.gov.uk/ukpga/1992/48/section/82), [Sch. 18 Pt. VII(4)](https://www.legislation.gov.uk/ukpga/1992/48/schedule/18/part/VII/4)
 
-[^key-58398fa413a5558ba282ec7f41f88845]: Textual amendment: [S. 170(3)](https://www.legislation.gov.uk/ukpga/1989/26/section/170/3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-58398fa413a5558ba282ec7f41f88845]: Textual amendment: [S. 170(3)](https://www.legislation.gov.uk/ukpga/1989/26/section/170/3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-96bab0781e1492afe60490c3ffaa3592]: Textual amendment: S. 170(4)(a)(b) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-96bab0781e1492afe60490c3ffaa3592]: Textual amendment: S. 170(4)(a)(b) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
 [^c13116551]: Marginal citation: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).

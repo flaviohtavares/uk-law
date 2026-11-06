@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) On receipt of the application, the scheme manager must[^key-bd1a175ee815d11b0546d4c81529ed0b] pay a club transfer value in respect of P.
+(1) On receipt of the application, the scheme manager must[^c-bd1a175ee815d11b0546d4c81529ed0b] pay a club transfer value in respect of P.
 
 (2) A transfer value payment in respect of any pension credit rights or pension credit benefits must not be made under this regulation.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd1a175ee815d11b0546d4c81529ed0b]: Textual amendment: Word in [reg. 211(1)](https://www.legislation.gov.uk/uksi/2014/512/regulation/211/1) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [24](https://www.legislation.gov.uk/uksi/2014/2652/regulation/24)
+[^c-bd1a175ee815d11b0546d4c81529ed0b]: Textual amendment: Word in [reg. 211(1)](https://www.legislation.gov.uk/uksi/2014/512/regulation/211/1) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [24](https://www.legislation.gov.uk/uksi/2014/2652/regulation/24)

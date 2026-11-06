@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment to regulation B17[^key-f00b2f3e26165a90cd01399e96cce562]
+## 8. Amendment to regulation B17[^c-f00b2f3e26165a90cd01399e96cce562]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation B17(2)(b) (regulations on good manufacturing practice)[^f00015], o
 
 ## Annotations
 
-[^key-f00b2f3e26165a90cd01399e96cce562]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/832/regulation/8) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-f00b2f3e26165a90cd01399e96cce562]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/832/regulation/8) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00015]: Footnote: Regulation B17 was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

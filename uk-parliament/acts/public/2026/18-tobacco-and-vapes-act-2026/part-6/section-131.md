@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Sponsorship: vaping and nicotine and other products[^key-262e429c5a98fe84335a030a9cdbb6fe]
+## 131. Sponsorship: vaping and nicotine and other products[^c-262e429c5a98fe84335a030a9cdbb6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-262e429c5a98fe84335a030a9cdbb6fe]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2026/18/section/131) in force at 29.6.2026, see [s. 176(2)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/b)
+[^c-262e429c5a98fe84335a030a9cdbb6fe]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2026/18/section/131) in force at 29.6.2026, see [s. 176(2)(b)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/b)

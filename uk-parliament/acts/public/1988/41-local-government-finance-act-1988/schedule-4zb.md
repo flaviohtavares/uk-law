@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4ZB — Unoccupied hereditaments: chargeable amount[^key-9ed1e53f5b601f2f88e6e914f11cacce][^key-dcac590857ed13c469aa32d1a16e022d]
+## SCHEDULE 4ZB — Unoccupied hereditaments: chargeable amount[^c-9ed1e53f5b601f2f88e6e914f11cacce][^c-dcac590857ed13c469aa32d1a16e022d]
 
 *Extent: E+W*
 
@@ -24,16 +24,16 @@ Section 45
 
 ### PART 1 — Chargeable amount before any reliefs
 
-**1.** (1) Subject to the following provisions of this Schedule, the chargeable amount for a chargeable day is to be calculated in accordance with the formula—[^key-2f25b6fc71045e1e0e6d40f7c71d99b7]
+**1.** (1) Subject to the following provisions of this Schedule, the chargeable amount for a chargeable day is to be calculated in accordance with the formula—[^c-2f25b6fc71045e1e0e6d40f7c71d99b7]
 
 [formula: A multiplied by M over C](https://www.legislation.gov.uk/ukpga/1988/41)
 
 (2) But—
 
-- (a) the appropriate national authority may by regulations provide that sub-paragraph (1)[^key-a1720a1c012b86201e69d8a339de9c1c] has effect as if the following formula were substituted—
+- (a) the appropriate national authority may by regulations provide that sub-paragraph (1)[^c-a1720a1c012b86201e69d8a339de9c1c] has effect as if the following formula were substituted—
 
   [formula: A multiplied by M over C multiplied by N](https://www.legislation.gov.uk/ukpga/1988/41)
-- (b)[^key-26b34b3ebcd2b8e762c516710c9c1083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-26b34b3ebcd2b8e762c516710c9c1083] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — Full relief
 
@@ -41,18 +41,18 @@ Section 45
 
 (1) Where this paragraph applies, the chargeable amount for a chargeable day is zero.
 
-(2) This paragraph applies in relation to England[^key-7f16dc9ec3bd7dd4bb1c1fdc3c2f9538] where, on the day concerned—
+(2) This paragraph applies in relation to England[^c-7f16dc9ec3bd7dd4bb1c1fdc3c2f9538] where, on the day concerned—
 
 - (a) the ratepayer is a charity or trustees for a charity and it appears that when next in use the hereditament will be wholly or mainly used for charitable purposes (whether of that charity or of that and other charities), or
 - (b) the ratepayer is a registered club for the purposes of Chapter 9 of Part 13 of the Corporation Tax Act 2010 (community amateur sports clubs) and it appears that when next in use—
   - (i) the hereditament will be wholly or mainly used for the purposes of that club and that club will be such a registered club, or
   - (ii) the hereditament will be wholly or mainly used for the purposes of two or more clubs including that club, and each of those clubs will be such a registered club.
 
-(2A)[^key-6eabd304d1dd8d2c8a63f175b5503afd] But sub-paragraph (2) does not apply if it appears that when next in use the hereditament will be wholly or mainly used for the purposes of carrying on a private school.
+(2A)[^c-6eabd304d1dd8d2c8a63f175b5503afd] But sub-paragraph (2) does not apply if it appears that when next in use the hereditament will be wholly or mainly used for the purposes of carrying on a private school.
 
 (2B) A “**private school**” means the same as in paragraph 2 of Schedule 4ZA.
 
-(3)[^key-3536b23d886fd047f2d687fab8c05019] This paragraph applies in relation to Wales where—
+(3)[^c-3536b23d886fd047f2d687fab8c05019] This paragraph applies in relation to Wales where—
 
 - (a) on the day concerned, the ratepayer is a charity or trustees for a charity,
 - (b) the billing authority is satisfied that—
@@ -81,7 +81,7 @@ Section 45
 - “**exempt charity**” has the meaning given by section 22(1) of the Charities Act 2011;
 - “**group accounts**” has the meaning given by section 142 of the Charities Act 2011.
 
-(7A)[^key-607b3206c3a32a37dc32c4250fb70419] Sub-paragraph (3) does not apply where, on the day concerned, it appears that when next in use the hereditament will be wholly or mainly used for the purposes of carrying on business as an independent school that is not an independent school within sub-paragraph (7B).
+(7A)[^c-607b3206c3a32a37dc32c4250fb70419] Sub-paragraph (3) does not apply where, on the day concerned, it appears that when next in use the hereditament will be wholly or mainly used for the purposes of carrying on business as an independent school that is not an independent school within sub-paragraph (7B).
 
 (7B) An independent school is within this sub-paragraph if it is wholly or mainly concerned with providing full-time education to persons for whom an individual development plan is maintained.
 
@@ -97,7 +97,7 @@ Section 45
   - (i) for the purposes of that club and that club will be such a registered club, or
   - (ii) for the purposes of two or more clubs including that club, and each of those clubs will be such a registered club.
 
-### PART 2A — POWERS TO CONFER, VARY AND WITHDRAW RELIEFS: WALES[^key-16c13a420d825ac75efd4338825ae55c]
+### PART 2A — POWERS TO CONFER, VARY AND WITHDRAW RELIEFS: WALES[^c-16c13a420d825ac75efd4338825ae55c]
 
 #### 2A. Power to confer partial reliefs: Wales
 
@@ -148,7 +148,7 @@ The Welsh Ministers may by regulations amend or repeal any provision in Part 2 o
 (3) “B” is—
 
 - (a) in a case where the billing authority is a special authority, the authority’s non-domestic rating multiplier for the financial year;
-- (b) in any other case, the non-domestic rating multiplier in relation to England[^key-b71c6b8deadeec34aebf4c7c3c9d2b63] for the financial year.
+- (b) in any other case, the non-domestic rating multiplier in relation to England[^c-b71c6b8deadeec34aebf4c7c3c9d2b63] for the financial year.
 
 (4) “C” is the number of days in the financial year.
 
@@ -157,18 +157,18 @@ The Welsh Ministers may by regulations amend or repeal any provision in Part 2 o
 - (a) in a case where the billing authority is a special authority, the authority’s small business non-domestic rating multiplier for the financial year;
 - (b) in any other case, the small business non-domestic rating multiplier for the financial year.
 
-(5A)[^key-20c8285aabd16681bf9b9dcabb47d897] “F” is an amount prescribed, or calculated in accordance with provision prescribed, by the Welsh Ministers in regulations.
+(5A)[^c-20c8285aabd16681bf9b9dcabb47d897] “F” is an amount prescribed, or calculated in accordance with provision prescribed, by the Welsh Ministers in regulations.
 
 (5B) Regulations under sub-paragraph (5A) may prescribe different amounts, or make different provision for calculating an amount, in relation to different conditions or sets of conditions prescribed by the Welsh Ministers in regulations under paragraph 2A(2)(b)(i).
 
 (6) “M” is—
 
-- (a)[^key-ea5bd12cb1e00f565f317b3b6ca8a9c4] in relation to England—
-  - (i) the multiplier[^key-bebd819aaef6c16c751117815a2accd9] prescribed for the purposes of the provision in question by the Treasury in regulations, or
+- (a)[^c-ea5bd12cb1e00f565f317b3b6ca8a9c4] in relation to England—
+  - (i) the multiplier[^c-bebd819aaef6c16c751117815a2accd9] prescribed for the purposes of the provision in question by the Treasury in regulations, or
   - (ii) for the purposes of a provision where there is no such prescription, B;
 - (b) in relation to Wales, the non-domestic rating multiplier calculated under Schedule 7 as regards the hereditament for the financial year.
 
-(6A)[^key-149db35b61c967a80664ec4cd45719f6] Regulations under sub-paragraph (6) may prescribe—
+(6A)[^c-149db35b61c967a80664ec4cd45719f6] Regulations under sub-paragraph (6) may prescribe—
 
 - (a) B or D,
 - (b) in relation to a hereditament for a chargeable day for which the value of A is £500,000 or more, a higher multiplier for the financial year calculated in accordance with regulations under paragraph A6A(1)(a) or 9B(1)(a)(i) of Schedule 7, or
@@ -183,47 +183,47 @@ The Welsh Ministers may by regulations amend or repeal any provision in Part 2 o
 - (c) the local non-domestic rating list in which hereditaments are shown;
 - (d) the use of hereditaments;
 - (e) the physical characteristics of hereditaments;
-- (ea)[^key-38289af5e11fb9aca17e1d2c31ceacfc] the description of hereditaments in the local non-domestic rating list in which they are shown;
+- (ea)[^c-38289af5e11fb9aca17e1d2c31ceacfc] the description of hereditaments in the local non-domestic rating list in which they are shown;
 - (f) ratepayers in respect of hereditaments falling within prescribed descriptions.
 
 (8) Sub-paragraph (7) does not restrict what may otherwise be done under section 143(1).
 
 (9) “N” is a number (greater than one but not greater than two) prescribed by the appropriate national authority in regulations.
 
-**4.**[^key-e5a72fd5d88e197c80d3369ab3dc72c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e5a72fd5d88e197c80d3369ab3dc72c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9ed1e53f5b601f2f88e6e914f11cacce]: Modification: Sch. 4ZB applied (with modifications) (E.) (30.1.2026) by [The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2026 (S.I. 2026/81)](https://www.legislation.gov.uk/uksi/2026/81), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2026/81/regulation/2/2), [16(3)](https://www.legislation.gov.uk/uksi/2026/81/regulation/16/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/81/regulation/4))
+[^c-9ed1e53f5b601f2f88e6e914f11cacce]: Modification: Sch. 4ZB applied (with modifications) (E.) (30.1.2026) by [The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2026 (S.I. 2026/81)](https://www.legislation.gov.uk/uksi/2026/81), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2026/81/regulation/2/2), [16(3)](https://www.legislation.gov.uk/uksi/2026/81/regulation/16/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/81/regulation/4))
 
-[^key-dcac590857ed13c469aa32d1a16e022d]: Textual amendment: Sch. 4ZB inserted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2023/53/section/2/4), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)
+[^c-dcac590857ed13c469aa32d1a16e022d]: Textual amendment: Sch. 4ZB inserted (1.4.2024 with effect in relation to financial years beginning on or after that date) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2023/53/section/2/4), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)
 
-[^key-2f25b6fc71045e1e0e6d40f7c71d99b7]: Textual amendment: Words in Sch. 4ZB para. 1(1) substituted for Sch. 4ZB para. 1(1)(a)(b) (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 11(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/11/3/a), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-2f25b6fc71045e1e0e6d40f7c71d99b7]: Textual amendment: Words in Sch. 4ZB para. 1(1) substituted for Sch. 4ZB para. 1(1)(a)(b) (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 11(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/11/3/a), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-a1720a1c012b86201e69d8a339de9c1c]: Textual amendment: Words in Sch. 4ZB para. 1(2)(a) substituted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 11(3)(b)(i)](https://www.legislation.gov.uk/asc/2024/6/section/11/3/b/i), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-a1720a1c012b86201e69d8a339de9c1c]: Textual amendment: Words in Sch. 4ZB para. 1(2)(a) substituted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 11(3)(b)(i)](https://www.legislation.gov.uk/asc/2024/6/section/11/3/b/i), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-26b34b3ebcd2b8e762c516710c9c1083]: Textual amendment: Sch. 4ZB para. 1(2)(b) omitted (1.4.2025) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 11(3)(b)(ii)](https://www.legislation.gov.uk/asc/2024/6/section/11/3/b/ii), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-26b34b3ebcd2b8e762c516710c9c1083]: Textual amendment: Sch. 4ZB para. 1(2)(b) omitted (1.4.2025) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 11(3)(b)(ii)](https://www.legislation.gov.uk/asc/2024/6/section/11/3/b/ii), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-7f16dc9ec3bd7dd4bb1c1fdc3c2f9538]: Textual amendment: Words in Sch. 4ZB para. 2(2) inserted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 6(2)](https://www.legislation.gov.uk/asc/2024/6/section/6/2), [23(3)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/b) (with [s. 23(4)](https://www.legislation.gov.uk/asc/2024/6/section/23/4))
+[^c-7f16dc9ec3bd7dd4bb1c1fdc3c2f9538]: Textual amendment: Words in Sch. 4ZB para. 2(2) inserted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 6(2)](https://www.legislation.gov.uk/asc/2024/6/section/6/2), [23(3)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/b) (with [s. 23(4)](https://www.legislation.gov.uk/asc/2024/6/section/23/4))
 
-[^key-6eabd304d1dd8d2c8a63f175b5503afd]: Textual amendment: Sch. 4ZB para. 2(2A)(2B) inserted (in respect of financial years beginning on or after 1.4.2025) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2025/12/section/5/3), [6(2)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/2)
+[^c-6eabd304d1dd8d2c8a63f175b5503afd]: Textual amendment: Sch. 4ZB para. 2(2A)(2B) inserted (in respect of financial years beginning on or after 1.4.2025) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2025/12/section/5/3), [6(2)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/2)
 
-[^key-3536b23d886fd047f2d687fab8c05019]: Textual amendment: Sch. 4ZB para. 2(3)-(8) inserted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 6(3)](https://www.legislation.gov.uk/asc/2024/6/section/6/3), [23(3)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/b) (with [s. 23(4)](https://www.legislation.gov.uk/asc/2024/6/section/23/4))
+[^c-3536b23d886fd047f2d687fab8c05019]: Textual amendment: Sch. 4ZB para. 2(3)-(8) inserted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 6(3)](https://www.legislation.gov.uk/asc/2024/6/section/6/3), [23(3)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/b) (with [s. 23(4)](https://www.legislation.gov.uk/asc/2024/6/section/23/4))
 
-[^key-607b3206c3a32a37dc32c4250fb70419]: Textual amendment: Sch. 4ZB para. 2(7A)-(7C) inserted (1.4.2025) by [The Non-Domestic Rating (Withdrawal of Charitable Relief for Independent Schools) (Wales) Regulations 2025 (S.I. 2025/273)](https://www.legislation.gov.uk/wsi/2025/273), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/273/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2025/273/regulation/4)
+[^c-607b3206c3a32a37dc32c4250fb70419]: Textual amendment: Sch. 4ZB para. 2(7A)-(7C) inserted (1.4.2025) by [The Non-Domestic Rating (Withdrawal of Charitable Relief for Independent Schools) (Wales) Regulations 2025 (S.I. 2025/273)](https://www.legislation.gov.uk/wsi/2025/273), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/273/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2025/273/regulation/4)
 
-[^key-16c13a420d825ac75efd4338825ae55c]: Textual amendment: Sch. 4ZB Pts. 2A, 2B inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 5(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/5/3/a), [23(2)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/b)
+[^c-16c13a420d825ac75efd4338825ae55c]: Textual amendment: Sch. 4ZB Pts. 2A, 2B inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 5(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/5/3/a), [23(2)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/b)
 
-[^key-b71c6b8deadeec34aebf4c7c3c9d2b63]: Textual amendment: Words in Sch. 4ZB para. 3(3)(b) inserted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a), [Sch. para. 9(3)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/9/3)
+[^c-b71c6b8deadeec34aebf4c7c3c9d2b63]: Textual amendment: Words in Sch. 4ZB para. 3(3)(b) inserted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a), [Sch. para. 9(3)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/9/3)
 
-[^key-20c8285aabd16681bf9b9dcabb47d897]: Textual amendment: Sch. 4ZB para. 3(5A)(5B) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 5(3)(b)](https://www.legislation.gov.uk/asc/2024/6/section/5/3/b), [23(2)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/b)
+[^c-20c8285aabd16681bf9b9dcabb47d897]: Textual amendment: Sch. 4ZB para. 3(5A)(5B) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 5(3)(b)](https://www.legislation.gov.uk/asc/2024/6/section/5/3/b), [23(2)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/b)
 
-[^key-ea5bd12cb1e00f565f317b3b6ca8a9c4]: Textual amendment: Sch. 4ZB para. 3(6)(a)(b) substituted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 11(3)(c)](https://www.legislation.gov.uk/asc/2024/6/section/11/3/c), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-ea5bd12cb1e00f565f317b3b6ca8a9c4]: Textual amendment: Sch. 4ZB para. 3(6)(a)(b) substituted (1.4.2025) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 11(3)(c)](https://www.legislation.gov.uk/asc/2024/6/section/11/3/c), [23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-bebd819aaef6c16c751117815a2accd9]: Textual amendment: Words in Sch. 4ZB para. 3(6)(a) substituted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2025/12/section/3/3/a), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-bebd819aaef6c16c751117815a2accd9]: Textual amendment: Words in Sch. 4ZB para. 3(6)(a) substituted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2025/12/section/3/3/a), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-149db35b61c967a80664ec4cd45719f6]: Textual amendment: Sch. 4ZB para. 3(6A)(6B) inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2025/12/section/3/3/b), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-149db35b61c967a80664ec4cd45719f6]: Textual amendment: Sch. 4ZB para. 3(6A)(6B) inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2025/12/section/3/3/b), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-38289af5e11fb9aca17e1d2c31ceacfc]: Textual amendment: Sch. 4ZB para. 3(7)(ea) inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2025/12/section/3/3/c), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
+[^c-38289af5e11fb9aca17e1d2c31ceacfc]: Textual amendment: Sch. 4ZB para. 3(7)(ea) inserted (in respect of financial years beginning on or after 1.4.2026) by [Non-Domestic Rating (Multipliers and Private Schools) Act 2025 (c. 12)](https://www.legislation.gov.uk/ukpga/2025/12), [ss. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2025/12/section/3/3/c), [6(1)](https://www.legislation.gov.uk/ukpga/2025/12/section/6/1)
 
-[^key-e5a72fd5d88e197c80d3369ab3dc72c0]: Textual amendment: Sch. 4ZB para. 4 omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(18)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/18)
+[^c-e5a72fd5d88e197c80d3369ab3dc72c0]: Textual amendment: Sch. 4ZB para. 4 omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(18)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/18)

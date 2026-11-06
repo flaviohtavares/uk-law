@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Form of list[^key-bd80e5a9ad8302d353a6fbf2332be33a]
+## 157. Form of list[^c-bd80e5a9ad8302d353a6fbf2332be33a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.197 of the 1986 Rules.
 
 ## Annotations
 
-[^key-bd80e5a9ad8302d353a6fbf2332be33a]: Commencement: Rule 157 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-bd80e5a9ad8302d353a6fbf2332be33a]: Commencement: Rule 157 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

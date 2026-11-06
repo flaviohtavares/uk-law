@@ -57,7 +57,7 @@ Regulation 55
 - (c) paragraph 8 (fuel costs);
 - (d) paragraph 9 (rates);
 - (e) paragraph 10 (water charges);
-- (f)[^key-b0f376ead7f4ca14dcbd17fe9f0917e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-b0f376ead7f4ca14dcbd17fe9f0917e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) paragraph 12 (integration loans).
 - (h)[^M_F_ee9fcba2-4e73-45dd-ae78-294a54d97a15] regulation 3 (deductions from debtor’s universal credit) of the Fines Regulations
 
@@ -91,18 +91,18 @@ Regulation 55
 - (a) a deduction could otherwise be made from C's award under more than one of the provisions mentioned in sub-paragraph (2); and
 - (b) the amount of universal credit payable to C in relation to that assessment period is insufficient to enable the Department to meet all of the liabilities for which in C's case deductions may be made under those provisions or the deduction, were it to be made, would mean that the maximum amount referred to in paragraph 4(1) would be exceeded.
 
-(2)[^key-2e7e5475631795adce50c4c966c29cd3] The provisions are—
+(2)[^c-2e7e5475631795adce50c4c966c29cd3] The provisions are—
 
-- (za)[^key-409d2229dcca927bfd5333acba40bee8] Schedule 6 (deductions from benefit in respect of child support maintenance and payment to persons with care) to these Regulations;
+- (za)[^c-409d2229dcca927bfd5333acba40bee8] Schedule 6 (deductions from benefit in respect of child support maintenance and payment to persons with care) to these Regulations;
 - (a) paragraph 6 (housing costs);
 - (b) paragraph 7 (rent and service charges included in rent);
 - (c) paragraph 8 (fuel costs);
 - (d) paragraph 9 (rates);
-- (dd)[^key-6ec32ca934d6c04e9de5c2b695929ad2] regulation (3) (deductions from debtor’s universal credit) of the Fines Regulations;
+- (dd)[^c-6ec32ca934d6c04e9de5c2b695929ad2] regulation (3) (deductions from debtor’s universal credit) of the Fines Regulations;
 - (e) paragraph 10 (water charges);
-- (ee)[^key-20cbf0226d5ae4dfc9783f1a99caabf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-34dae5ff0dc954508afdc00adcd233fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-34dae5ff0dc954508afdc00adcd233fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ee)[^c-20cbf0226d5ae4dfc9783f1a99caabf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-34dae5ff0dc954508afdc00adcd233fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-34dae5ff0dc954508afdc00adcd233fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) section 74(2) of the Administration Act (recovery of social fund awards);
 - (i) section 69ZH(1)(a) or (b) of the Administration Act [^c24174851] (recovery of hardship payments etc.);
 - (j) section 109A of the Administration Act [^c24174861] (penalty as alternative to prosecution) where an overpayment is recoverable from a person by, or due from a person to, the Department or the Housing Executive under or by virtue of section 69, 69ZB or 73 of that Act [^c24174871];
@@ -112,7 +112,7 @@ Regulation 55
 
 (3) Where this paragraph applies to a claimant, the Department must make a deduction under any of the provisions mentioned in sub-paragraph (2) in accordance with sub-paragraphs (4) and (5).
 
-(4)[^key-d37893cd6b731af84b029f5503a6b490] The Department must give priority to any such deductions in the order in which they are listed in sub-paragraph (2), with deductions under Schedule 6 (deductions from benefit in respect of child support maintenance and payment to persons with care) to these regulations[^key-4d26281c71f622e15b7f4d45b7ca8803] having the priority.
+(4)[^c-d37893cd6b731af84b029f5503a6b490] The Department must give priority to any such deductions in the order in which they are listed in sub-paragraph (2), with deductions under Schedule 6 (deductions from benefit in respect of child support maintenance and payment to persons with care) to these regulations[^c-4d26281c71f622e15b7f4d45b7ca8803] having the priority.
 
 (5) Where two or more provisions mentioned in any single head of sub-paragraph (2) apply to the claimant, unless the Department directs otherwise, those deductions have equal priority with each other and the amount of such deductions are to be apportioned accordingly.
 
@@ -132,9 +132,9 @@ Regulation 55
 
 (4) Before the Department may commence (or re-commence) making deductions in respect of any such debt, the claimant's earned income (or in the case of joint claimants their combined earned income) in relation to the previous assessment period must not exceed the work allowance.
 
-(5)[^key-ee61c864f8df398fa23e6f0ca7c4cb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ee61c864f8df398fa23e6f0ca7c4cb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ee61c864f8df398fa23e6f0ca7c4cb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ee61c864f8df398fa23e6f0ca7c4cb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Rent and service charges included in rent
 
@@ -170,14 +170,14 @@ Regulation 55
 
 (2) The condition is that in any assessment period the claimant is in debt for any fuel item.
 
-(3) Where this paragraph applies, but subject to sub-paragraphs (4A), (5) and (6)[^key-ec91045fbe7e2051eef263be3b5ac208], the Department may, in such cases and circumstances as the Department may determine, deduct in relation to that assessment period the following amounts from the claimant's award and pay them to the person to whom the payment is due.
+(3) Where this paragraph applies, but subject to sub-paragraphs (4A), (5) and (6)[^c-ec91045fbe7e2051eef263be3b5ac208], the Department may, in such cases and circumstances as the Department may determine, deduct in relation to that assessment period the following amounts from the claimant's award and pay them to the person to whom the payment is due.
 
 (4) The amount which may be deducted in respect of any fuel item is—
 
 - (a) an amount equal to 5 per cent. of the standard allowance; and
-- (b) an additional amount which the Department estimates is not more than[^key-17bae82ae4fb6ce936f8b272879c5420] the average monthly cost necessary to meet the claimant's continuing need for the fuel in respect of which the debt arose, except where current consumption is paid for by other means such as a pre-payment meter.
+- (b) an additional amount which the Department estimates is not more than[^c-17bae82ae4fb6ce936f8b272879c5420] the average monthly cost necessary to meet the claimant's continuing need for the fuel in respect of which the debt arose, except where current consumption is paid for by other means such as a pre-payment meter.
 
-(4A)[^key-4a739a5aec968380560e5556e1c27fbb] The Department may only make deductions under sub-paragraph (4)(b) if—
+(4A)[^c-4a739a5aec968380560e5556e1c27fbb] The Department may only make deductions under sub-paragraph (4)(b) if—
 
 - (a) an application for deductions is made by the person to whom the payment is due; and
 - (b) except where the application is for a reduction in the amount of a deduction, the claimant consents to the application.
@@ -235,7 +235,7 @@ Regulation 55
 
 (9) In this paragraph “**water undertaker**” means a company appointed as a water undertaker or a sewerage undertaker under Article 13(1) of the Water and Sewerage Services (Northern Ireland) Order 2006.
 
-### 11. Payments in place of payments of child support maintenance[^key-d073038b6d831dcfdb76c8cf041cd30a]
+### 11. Payments in place of payments of child support maintenance[^c-d073038b6d831dcfdb76c8cf041cd30a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -255,7 +255,7 @@ Regulation 55
 
 [^c24174801]: Marginal citation: [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336).
 
-[^key-b0f376ead7f4ca14dcbd17fe9f0917e0]: Textual amendment: [Sch. 5 para. 3(2)(f)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/3/2/f) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/65)](https://www.legislation.gov.uk/nisr/2026/65), [regs. 1](https://www.legislation.gov.uk/nisr/2026/65/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2026/65/regulation/2/2/a)
+[^c-b0f376ead7f4ca14dcbd17fe9f0917e0]: Textual amendment: [Sch. 5 para. 3(2)(f)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/3/2/f) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/65)](https://www.legislation.gov.uk/nisr/2026/65), [regs. 1](https://www.legislation.gov.uk/nisr/2026/65/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2026/65/regulation/2/2/a)
 
 [^M_F_ee9fcba2-4e73-45dd-ae78-294a54d97a15]: Textual amendment: Words in Sch. 5 para. 3(2) inserted by [The Social Security (Fines) (Deduction from Benefits) Regulations (Northern Ireland) 2021 (S.R. 2021/215)](https://www.legislation.gov.uk/nisr/2021/215/contents/2021-08-11) , [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/215/regulation/1/2021-08-11), [5(b)](https://www.legislation.gov.uk/nisr/2021/215/regulation/5/2021-08-11)
 
@@ -267,15 +267,15 @@ Regulation 55
 
 [^c24174841]: Marginal citation: [Section 8](https://www.legislation.gov.uk/nisr/2016/220/section/8) was amended by paragraph 34 of Schedule 2 to the State Pension Credit Act (Northern Ireland) 2002, paragraph 14(4) and (5) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007, paragraph 3 of Schedule 3 to the Welfare Reform Act 2010 and paragraph 50 of Schedule 2 and Part 1 of Schedule 12 to the Welfare Reform (Northern Ireland) Order 2015.
 
-[^key-2e7e5475631795adce50c4c966c29cd3]: Modification: [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2) modified (temp.) (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/73/regulation/3/2)
+[^c-2e7e5475631795adce50c4c966c29cd3]: Modification: [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2) modified (temp.) (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/73/regulation/3/2)
 
-[^key-409d2229dcca927bfd5333acba40bee8]: Textual amendment: [Sch. 5 para. 5(2)(za)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/za) inserted (30.4.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/65)](https://www.legislation.gov.uk/nisr/2026/65), [regs. 1](https://www.legislation.gov.uk/nisr/2026/65/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/nisr/2026/65/regulation/2/2/b/i)
+[^c-409d2229dcca927bfd5333acba40bee8]: Textual amendment: [Sch. 5 para. 5(2)(za)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/za) inserted (30.4.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/65)](https://www.legislation.gov.uk/nisr/2026/65), [regs. 1](https://www.legislation.gov.uk/nisr/2026/65/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/nisr/2026/65/regulation/2/2/b/i)
 
-[^key-6ec32ca934d6c04e9de5c2b695929ad2]: Textual amendment: [Sch. 5 para. 5(2)(dd)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/dd) inserted (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/73/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/3))
+[^c-6ec32ca934d6c04e9de5c2b695929ad2]: Textual amendment: [Sch. 5 para. 5(2)(dd)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/dd) inserted (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/73/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/3))
 
-[^key-20cbf0226d5ae4dfc9783f1a99caabf9]: Textual amendment: [Sch. 5 para. 5(2)(ee)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/ee) omitted (30.4.2025) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/73/regulation/2/2)
+[^c-20cbf0226d5ae4dfc9783f1a99caabf9]: Textual amendment: [Sch. 5 para. 5(2)(ee)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/ee) omitted (30.4.2025) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/73/regulation/2/2)
 
-[^key-34dae5ff0dc954508afdc00adcd233fd]: Textual amendment: [Sch. 5 para. 5(2)(f)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/f)[(g)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/g) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/65)](https://www.legislation.gov.uk/nisr/2026/65), [regs. 1](https://www.legislation.gov.uk/nisr/2026/65/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2026/65/regulation/2/2/b/ii)
+[^c-34dae5ff0dc954508afdc00adcd233fd]: Textual amendment: [Sch. 5 para. 5(2)(f)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/f)[(g)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/2/g) omitted (30.4.2026) by virtue of [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/65)](https://www.legislation.gov.uk/nisr/2026/65), [regs. 1](https://www.legislation.gov.uk/nisr/2026/65/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2026/65/regulation/2/2/b/ii)
 
 [^c24174851]: Marginal citation: [Section 69ZH](https://www.legislation.gov.uk/nisr/2016/220/section/69ZH) is inserted by Article 109(1) of the Welfare Reform (Northern Ireland) Order 2015.
 
@@ -285,26 +285,26 @@ Regulation 55
 
 [^c24174881]: Marginal citation: [Section 69ZC](https://www.legislation.gov.uk/nisr/2016/220/section/69ZC) is inserted by Article 109(1) of the Welfare Reform (Northern Ireland) Order 2015.
 
-[^key-d37893cd6b731af84b029f5503a6b490]: Modification: [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/4) modified (temp.) (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2025/73/regulation/3/3)
+[^c-d37893cd6b731af84b029f5503a6b490]: Modification: [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/4) modified (temp.) (30.4.2025) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment and Modification) Regulations (Northern Ireland) 2025 (S.R. 2025/73)](https://www.legislation.gov.uk/nisr/2025/73), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/73/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2025/73/regulation/3/3)
 
-[^key-4d26281c71f622e15b7f4d45b7ca8803]: Textual amendment: Words in [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/4) substituted (30.4.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/65)](https://www.legislation.gov.uk/nisr/2026/65), [regs. 1](https://www.legislation.gov.uk/nisr/2026/65/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2026/65/regulation/2/2/c)
+[^c-4d26281c71f622e15b7f4d45b7ca8803]: Textual amendment: Words in [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/5/4) substituted (30.4.2026) by [The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/65)](https://www.legislation.gov.uk/nisr/2026/65), [regs. 1](https://www.legislation.gov.uk/nisr/2026/65/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2026/65/regulation/2/2/c)
 
 [^c24174891]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-ee61c864f8df398fa23e6f0ca7c4cb1e]: Textual amendment: Sch. 5 para. 6(5)(6) omitted by S.R. 2017/176, Sch 5 para. 8(d) (as inserted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+[^c-ee61c864f8df398fa23e6f0ca7c4cb1e]: Textual amendment: Sch. 5 para. 6(5)(6) omitted by S.R. 2017/176, Sch 5 para. 8(d) (as inserted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
 
 [^c24174901]: Marginal citation: [Section 129](https://www.legislation.gov.uk/nisr/2016/220/section/129) was amended by Article 8(2) of the [Housing Support Services (Northern Ireland) Order 2002 (S.I. 2002/3154 (N.I. 8))](https://www.legislation.gov.uk/nisi/2002/3154) and Schedule 8 to the Welfare Reform Act (Northern Ireland) 2007.
 
 [^c24174911]: Marginal citation: S.R. [2006 No. 405](https://www.legislation.gov.uk/ukcm/2006/405).
 
-[^key-ec91045fbe7e2051eef263be3b5ac208]: Textual amendment: Words in [Sch. 5 para. 8(3)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/8/3) substituted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/67)](https://www.legislation.gov.uk/nisr/2023/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2023/67/regulation/3/3)
+[^c-ec91045fbe7e2051eef263be3b5ac208]: Textual amendment: Words in [Sch. 5 para. 8(3)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/8/3) substituted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/67)](https://www.legislation.gov.uk/nisr/2023/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2023/67/regulation/3/3)
 
-[^key-17bae82ae4fb6ce936f8b272879c5420]: Textual amendment: Words in [Sch. 5 para. 8(4)(b)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/8/4/b) substituted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/67)](https://www.legislation.gov.uk/nisr/2023/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2023/67/regulation/3/4)
+[^c-17bae82ae4fb6ce936f8b272879c5420]: Textual amendment: Words in [Sch. 5 para. 8(4)(b)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/8/4/b) substituted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/67)](https://www.legislation.gov.uk/nisr/2023/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2023/67/regulation/3/4)
 
-[^key-4a739a5aec968380560e5556e1c27fbb]: Textual amendment: [Sch. 5 para. 8(4A)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/8/4A) inserted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/67)](https://www.legislation.gov.uk/nisr/2023/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2023/67/regulation/3/5)
+[^c-4a739a5aec968380560e5556e1c27fbb]: Textual amendment: [Sch. 5 para. 8(4A)](https://www.legislation.gov.uk/nisr/2016/220/schedule/5/paragraph/8/4A) inserted (with application in accordance with reg. 1(2) of the amending S.R.) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/67)](https://www.legislation.gov.uk/nisr/2023/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/67/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2023/67/regulation/3/5)
 
 [^c24174921]: Marginal citation: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157).
 
-[^key-d073038b6d831dcfdb76c8cf041cd30a]: Textual amendment: Sch. 5 para. 11 omitted (10.12.2019) by virtue of [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2019/222/regulation/3/2)
+[^c-d073038b6d831dcfdb76c8cf041cd30a]: Textual amendment: Sch. 5 para. 11 omitted (10.12.2019) by virtue of [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2019/222/regulation/3/2)
 
 [^c24174961]: Marginal citation: [S.I. 2007/1598](https://www.legislation.gov.uk/uksi/2007/1598); [regulation 9](https://www.legislation.gov.uk/nisr/2016/220/regulation/9) was amended by paragraph 4 of Schedule 3 to [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380) and is amended by paragraph 3 of Schedule 2 to these Regulations.

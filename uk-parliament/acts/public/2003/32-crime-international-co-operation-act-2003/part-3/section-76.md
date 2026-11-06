@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Recognition in Great Britain of disqualifications in Northern Ireland etc.[^key-72e49e7c8ca4d247e1dfe670dd1194ef]
+## 76. Recognition in Great Britain of disqualifications in Northern Ireland etc.[^c-72e49e7c8ca4d247e1dfe670dd1194ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ After section 102 of the Road Traffic Act 1988 there is inserted—
 
 ## Annotations
 
-[^key-72e49e7c8ca4d247e1dfe670dd1194ef]: Commencement: S. 76 in force at 11.10.2004 by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/a)
+[^c-72e49e7c8ca4d247e1dfe670dd1194ef]: Commencement: S. 76 in force at 11.10.2004 by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/a)

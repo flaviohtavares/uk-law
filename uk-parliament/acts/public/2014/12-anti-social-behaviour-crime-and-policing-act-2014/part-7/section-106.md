@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Keeping dogs under proper control[^key-123b6a287137b95faa5aabfe28b3d9dd]
+## 106. Keeping dogs under proper control[^c-123b6a287137b95faa5aabfe28b3d9dd]
 
 *Extent: E+W+S*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-123b6a287137b95faa5aabfe28b3d9dd]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2014/12/section/106) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2014/949/article/9))
+[^c-123b6a287137b95faa5aabfe28b3d9dd]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2014/12/section/106) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2014/949/article/9))

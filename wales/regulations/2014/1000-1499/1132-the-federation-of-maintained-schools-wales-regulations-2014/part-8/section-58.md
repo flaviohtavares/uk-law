@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Quorum and proceedings of the governing body[^key-eab5a1e5e7c719ff88e25d343223c932]
+## 58. Quorum and proceedings of the governing body[^c-eab5a1e5e7c719ff88e25d343223c932]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eab5a1e5e7c719ff88e25d343223c932]: Commencement: Reg. 58 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-eab5a1e5e7c719ff88e25d343223c932]: Commencement: Reg. 58 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00024]: Footnote: *See* section 20(1) of the 2002 Act and regulation 34.

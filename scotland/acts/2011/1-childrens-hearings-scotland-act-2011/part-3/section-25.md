@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Welfare of the child[^key-d0c8e32cbf79b2e741ee3e3843b8b0bb]
+## 25. Welfare of the child[^c-d0c8e32cbf79b2e741ee3e3843b8b0bb]
 
 *Extent: S*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) The children's hearing, pre-hearing panel or court is to regard the need to safeguard and promote the welfare of the child throughout the child's childhood as the paramount consideration.
 
-(3)[^key-0f717088b8cbe76c3ddd2243cbf1c358] The children's hearing, pre-hearing panel or court is to have regard to any risk of prejudice to the child's welfare that delay in proceedings would pose.
+(3)[^c-0f717088b8cbe76c3ddd2243cbf1c358] The children's hearing, pre-hearing panel or court is to have regard to any risk of prejudice to the child's welfare that delay in proceedings would pose.
 
 ## Annotations
 
-[^key-d0c8e32cbf79b2e741ee3e3843b8b0bb]: Commencement: S. 25 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-d0c8e32cbf79b2e741ee3e3843b8b0bb]: Commencement: S. 25 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-0f717088b8cbe76c3ddd2243cbf1c358]: Textual amendment: S. 25(3) inserted (22.6.2025) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 30(7)](https://www.legislation.gov.uk/asp/2020/16/section/30/7), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 2](https://www.legislation.gov.uk/ssi/2025/157/regulation/2)
+[^c-0f717088b8cbe76c3ddd2243cbf1c358]: Textual amendment: S. 25(3) inserted (22.6.2025) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 30(7)](https://www.legislation.gov.uk/asp/2020/16/section/30/7), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 2](https://www.legislation.gov.uk/ssi/2025/157/regulation/2)

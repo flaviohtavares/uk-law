@@ -22,7 +22,7 @@ summary: ''
 
 Article 5(3)
 
-### PART 1 — Coming into force on 18th January 2010[^key-56bbef66be5d5adde1906f446708daab]
+### PART 1 — Coming into force on 18th January 2010[^c-56bbef66be5d5adde1906f446708daab]
 
 | Enactment repealed/revoked | Reference | Extent of repeal/ revocation |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ Article 5(3)
 | Primary Ophthalmic Services Amendment, Transitional and Consequential Provisions Regulations 2008 | [S.I. 2008/1700](https://www.legislation.gov.uk/uksi/2008/1700) | Paragraph 8 of Schedule 1 |
 | Employment and Support Allowance (Consequential Provisions) (No 3) Regulations 2008 | [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879) | Regulation 19 |
 
-### PART 2 — Coming into force on 6th April 2010[^key-83a6ab16907bd2a3c0c450fc13ac422b]
+### PART 2 — Coming into force on 6th April 2010[^c-83a6ab16907bd2a3c0c450fc13ac422b]
 
 | Enactment repealed/revoked | Reference | Extent of repeal/ revocation |
 | --- | --- | --- |
@@ -76,6 +76,6 @@ Article 5(3)
 
 ## Annotations
 
-[^key-56bbef66be5d5adde1906f446708daab]: Commencement: Sch. 4 Pt. 1 in force at 18.1.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1)
+[^c-56bbef66be5d5adde1906f446708daab]: Commencement: Sch. 4 Pt. 1 in force at 18.1.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1)
 
-[^key-83a6ab16907bd2a3c0c450fc13ac422b]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2)
+[^c-83a6ab16907bd2a3c0c450fc13ac422b]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2)

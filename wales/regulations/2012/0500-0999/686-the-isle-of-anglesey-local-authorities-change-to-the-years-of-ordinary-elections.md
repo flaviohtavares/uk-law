@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT, WALES
 
-The Isle of Anglesey Local Authorities (Change to the Years of Ordinary Elections) Order 2012 (revoked)[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]
+The Isle of Anglesey Local Authorities (Change to the Years of Ordinary Elections) Order 2012 (revoked)[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 27 March 2012
 
-[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]
+## 1. Title, commencement and application[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Change of year of ordinary elections of councillors to the Isle of Anglesey County Council[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]
+## 2. Change of year of ordinary elections of councillors to the Isle of Anglesey County Council[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Term of office of existing councillors[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]
+## 3. Term of office of existing councillors[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Change of year of ordinary elections of community councillors to community councils in the Isle of Anglesey county[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]
+## 4. Change of year of ordinary elections of community councillors to community councils in the Isle of Anglesey county[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Term of office of existing community councillors[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]
+## 5. Term of office of existing community councillors[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b18f120b0ba0ee3a649e2ee7d3ca097]: Textual amendment: Order revoked (9.12.2014) by [The Local Authority Elections (Wales) Order 2014 (S.I. 2014/3033)](https://www.legislation.gov.uk/uksi/2014/3033), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3033/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/3033/article/4)
+[^c-0b18f120b0ba0ee3a649e2ee7d3ca097]: Textual amendment: Order revoked (9.12.2014) by [The Local Authority Elections (Wales) Order 2014 (S.I. 2014/3033)](https://www.legislation.gov.uk/uksi/2014/3033), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3033/article/1/1), [4](https://www.legislation.gov.uk/uksi/2014/3033/article/4)

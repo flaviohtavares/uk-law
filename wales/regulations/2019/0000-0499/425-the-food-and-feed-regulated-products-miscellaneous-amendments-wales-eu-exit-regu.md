@@ -55,7 +55,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c24512031] there has been open and transparent public consultation during the preparation of these Regulations.
 
-## 1. Title, application and commencement[^key-6161da62eec22080945e6601e5089f74]
+## 1. Title, application and commencement[^c-6161da62eec22080945e6601e5089f74]
 
 (1) The title of these Regulations is the Food and Feed Regulated Products (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019.
 
@@ -63,19 +63,19 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 
 (3) These Regulations come into force on exit day.
 
-## 2. The Genetically Modified Food (Wales) Regulations 2004[^key-ba686802d0937d0dd8a61eee0c0ea79c]
+## 2. The Genetically Modified Food (Wales) Regulations 2004[^c-ba686802d0937d0dd8a61eee0c0ea79c]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Materials and Articles in Contact with Food (Wales) Regulations 2012[^key-d33f4679978dac0f7e2aa715c41d2375]
+## 3. The Materials and Articles in Contact with Food (Wales) Regulations 2012[^c-d33f4679978dac0f7e2aa715c41d2375]
 
 (1) The Materials and Articles in Contact with Food (Wales) Regulations 2012 [^c24512051] are amended as follows.
 
 (2) In regulation 2(1), omit the definition of “Directive [84/500/EEC](https://www.legislation.gov.uk/eudr/1984/500)”.
 
-(2A)[^key-e59626e0f53f6701c57304a133220f5e] In regulation 4(3) omit “Community”.
+(2A)[^c-e59626e0f53f6701c57304a133220f5e] In regulation 4(3) omit “Community”.
 
 (2B) In regulation 6(1)—
 
@@ -110,11 +110,11 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 
 > **10A.**
 >
-> (1) A person who places on the market a ceramic article which is not yet in contact with foodstuffs must provide a written declaration complying with paragraph (2)[^key-5ea8f0ff9361a4d249781a04ab8a48f4] to accompany the article at the marketing stages up to and including the retail stage.
+> (1) A person who places on the market a ceramic article which is not yet in contact with foodstuffs must provide a written declaration complying with paragraph (2)[^c-5ea8f0ff9361a4d249781a04ab8a48f4] to accompany the article at the marketing stages up to and including the retail stage.
 >
-> (2) The declaration must be issued by the manufacturer or by a seller in Great Britain[^key-16c1a21b128ed2220400bd5c45225fde] and must contain the information laid down in Schedule 5.
+> (2) The declaration must be issued by the manufacturer or by a seller in Great Britain[^c-16c1a21b128ed2220400bd5c45225fde] and must contain the information laid down in Schedule 5.
 >
-> (3) A person who manufactures or, in the course of a business, imports into Great Britain[^key-0b8b27cf3ff4d20ed2afce7c34e9d162] a ceramic article must on request make available to an authorised officer appropriate documentation to demonstrate that the ceramic article complies with the migration limits for lead and cadmium set out in regulation 10 including—
+> (3) A person who manufactures or, in the course of a business, imports into Great Britain[^c-0b8b27cf3ff4d20ed2afce7c34e9d162] a ceramic article must on request make available to an authorised officer appropriate documentation to demonstrate that the ceramic article complies with the migration limits for lead and cadmium set out in regulation 10 including—
 >
 > - (a) the results of the analysis carried out;
 > - (b) the test conditions;
@@ -134,13 +134,13 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 >
 > (6) Vinyl chloride released by materials and articles to foodstuffs is in principle determined in the foodstuffs. When the determination in certain foodstuffs is shown to be impossible for technical reasons, a food authority may permit determination by simulants for these particular foodstuffs.
 
-(6A)[^key-9ef4e5ee841f727209c791bf3463e36d] In regulation 27(1)(a)(i), for “10(4), 10(6)” substitute “10A(1), 10A(3).
+(6A)[^c-9ef4e5ee841f727209c791bf3463e36d] In regulation 27(1)(a)(i), for “10(4), 10(6)” substitute “10A(1), 10A(3).
 
 (6B) In Schedule 2, in paragraph 1, in the substituted section 10(1A), for “10(4), 10(6)” substitute “10A(1), 10A(3).
 
 (7) After Schedule 2, insert the new Schedules 3 to 5 set out in the Schedule to these Regulations.
 
-## 4. The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013[^key-6924c25fbae8aaabffc4a5d46aa983cd]
+## 4. The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013[^c-6924c25fbae8aaabffc4a5d46aa983cd]
 
 **Not yet in force.**
 
@@ -150,7 +150,7 @@ Vaughan Gething
 
 Minister for Health and Social Services, one of the Welsh Ministers
 
-## SCHEDULE[^key-c53f3cac7de1780eeb9d8ba0aba9b23e]
+## SCHEDULE[^c-c53f3cac7de1780eeb9d8ba0aba9b23e]
 
 Regulation 3(7)
 
@@ -235,7 +235,7 @@ Regulation 3(7)
 >
 > **1.** The written declaration referred to in regulation 10A must contain the following information—
 >
-> - (a) the identity and address of the company which manufactures the finished ceramic article and of the importer who imports it into Great Britain[^key-937db799342272f02cb0c448afe6aa47];
+> - (a) the identity and address of the company which manufactures the finished ceramic article and of the importer who imports it into Great Britain[^c-937db799342272f02cb0c448afe6aa47];
 > - (b) the identity of the ceramic article;
 > - (c) the date of the declaration;
 > - (d) the confirmation that the ceramic article meets relevant requirements in these Regulations and Regulation 1935/2004.
@@ -260,26 +260,26 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24512031]: Marginal citation: OJ No. L 31, 1.2.2002, p. 1, to which there are amendments not relevant to these Regulations.
 
-[^key-6161da62eec22080945e6601e5089f74]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6161da62eec22080945e6601e5089f74]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-ba686802d0937d0dd8a61eee0c0ea79c]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2019/425/regulation/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/2)
+[^c-ba686802d0937d0dd8a61eee0c0ea79c]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2019/425/regulation/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/2)
 
-[^key-d33f4679978dac0f7e2aa715c41d2375]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d33f4679978dac0f7e2aa715c41d2375]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c24512051]: Marginal citation: [S.I. 2012/2705](https://www.legislation.gov.uk/uksi/2012/2705) (W. 291), to which there are amendments not relevant to these Regulations.
 
-[^key-e59626e0f53f6701c57304a133220f5e]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/2B) inserted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/a)
+[^c-e59626e0f53f6701c57304a133220f5e]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/2B) inserted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/a)
 
-[^key-5ea8f0ff9361a4d249781a04ab8a48f4]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/5) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/b/i)
+[^c-5ea8f0ff9361a4d249781a04ab8a48f4]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/5) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/b/i)
 
-[^key-16c1a21b128ed2220400bd5c45225fde]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/5) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/b/ii)
+[^c-16c1a21b128ed2220400bd5c45225fde]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/5) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/b/ii)
 
-[^key-0b8b27cf3ff4d20ed2afce7c34e9d162]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/5) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(b)(iii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/b/iii)
+[^c-0b8b27cf3ff4d20ed2afce7c34e9d162]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/5) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(b)(iii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/b/iii)
 
-[^key-9ef4e5ee841f727209c791bf3463e36d]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/6A)[(6B)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/6B) inserted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/c)
+[^c-9ef4e5ee841f727209c791bf3463e36d]: Textual amendment: [Reg. 3(6A)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/6A)[(6B)](https://www.legislation.gov.uk/wsi/2019/425/regulation/3/6B) inserted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/3/c)
 
-[^key-6924c25fbae8aaabffc4a5d46aa983cd]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/425/regulation/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/4)
+[^c-6924c25fbae8aaabffc4a5d46aa983cd]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/425/regulation/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/4)
 
-[^key-c53f3cac7de1780eeb9d8ba0aba9b23e]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c53f3cac7de1780eeb9d8ba0aba9b23e]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-937db799342272f02cb0c448afe6aa47]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/5)
+[^c-937db799342272f02cb0c448afe6aa47]: Textual amendment: Words in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/2/5)

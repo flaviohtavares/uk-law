@@ -28,21 +28,21 @@ summary: ''
 
 TOWN AND COUNTRY PLANNING, ENGLAND AND WALES
 
-The Town and Country Planning (General Permitted Development) Order 1995 *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+The Town and Country Planning (General Permitted Development) Order 1995 *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-Made *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+Made *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-22nd February 1995 *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+22nd February 1995 *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-Laid before Parliament *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+Laid before Parliament *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-6th March 1995 *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+6th March 1995 *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-Coming into force *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+Coming into force *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-3rd June 1995 *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+3rd June 1995 *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by sections 59, 60, 61, 74 and 333(7) of the Town and Country Planning Act 1990 *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c][^c17825241], section 54 of the Coal Industry Act 1994 *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c][^c17825251] and of all other powers enabling them in that behalf, hereby make the following Order— *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c][^key-394ea059a43461a63c5b0ae304a47e42][^key-259951a225fecf331a9599e2f5bad3da][^key-ef7bce76100dd68c2c7af9b4ef4e1fda][^key-d2c396051788f40d8530b8539299d59a]
+The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by sections 59, 60, 61, 74 and 333(7) of the Town and Country Planning Act 1990 *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c][^c17825241], section 54 of the Coal Industry Act 1994 *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c][^c17825251] and of all other powers enabling them in that behalf, hereby make the following Order— *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c][^c-394ea059a43461a63c5b0ae304a47e42][^c-259951a225fecf331a9599e2f5bad3da][^c-ef7bce76100dd68c2c7af9b4ef4e1fda][^c-d2c396051788f40d8530b8539299d59a]
 
 ## Contents
 
@@ -67,17 +67,17 @@ The Secretary of State for the Environment, as respects England, and the Secreta
 
 *Extent: E+W*
 
-John Selwyn Gummer *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+John Selwyn Gummer *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-Secretary of State for the Environment *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+Secretary of State for the Environment *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-21st February 1995 *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+21st February 1995 *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-John Redwood *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+John Redwood *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-Secretary of State for Wales *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+Secretary of State for Wales *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
-22nd February 1995 *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+22nd February 1995 *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
 *Extent: E+W*
 
@@ -101,16 +101,16 @@ A Compliance Cost Assessment has been prepared in connection with article 3(10) 
 
 ## Annotations
 
-[^key-0b7983d6c3350cb737b2504f32c7393c]: Textual amendment: Order revoked (E.) (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/596/article/1/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/1) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))
+[^c-0b7983d6c3350cb737b2504f32c7393c]: Textual amendment: Order revoked (E.) (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/596/article/1/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/1) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))
 
 [^c17825241]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8); [section 74(1A)](https://www.legislation.gov.uk/uksi/1995/418/section/74/1A) was inserted, and section 74(2) was amended, by section 19(1) of, and paragraph 17 of Schedule 7 to, the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
 [^c17825251]: Marginal citation: [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21).
 
-[^key-394ea059a43461a63c5b0ae304a47e42]: Modification: [Order](https://www.legislation.gov.uk/uksi/1995/418) excluded (18.12.1996) by [Channel Tunnel Rail Link Act 1996 (c. 61)](https://www.legislation.gov.uk/ukpga/1996/61), [s. 9(8)](https://www.legislation.gov.uk/ukpga/1996/61/section/9/8)
+[^c-394ea059a43461a63c5b0ae304a47e42]: Modification: [Order](https://www.legislation.gov.uk/uksi/1995/418) excluded (18.12.1996) by [Channel Tunnel Rail Link Act 1996 (c. 61)](https://www.legislation.gov.uk/ukpga/1996/61), [s. 9(8)](https://www.legislation.gov.uk/ukpga/1996/61/section/9/8)
 
-[^key-259951a225fecf331a9599e2f5bad3da]: Modification: [Order](https://www.legislation.gov.uk/uksi/1995/418) applied (Crown) (with modifications) (7.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) Order 2006 (S.I. 2006/1282)](https://www.legislation.gov.uk/uksi/2006/1282), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1282/article/1), [16](https://www.legislation.gov.uk/uksi/2006/1282/article/16), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1282/schedule/1)
+[^c-259951a225fecf331a9599e2f5bad3da]: Modification: [Order](https://www.legislation.gov.uk/uksi/1995/418) applied (Crown) (with modifications) (7.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) Order 2006 (S.I. 2006/1282)](https://www.legislation.gov.uk/uksi/2006/1282), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1282/article/1), [16](https://www.legislation.gov.uk/uksi/2006/1282/article/16), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1282/schedule/1)
 
-[^key-ef7bce76100dd68c2c7af9b4ef4e1fda]: Modification: [Order](https://www.legislation.gov.uk/uksi/1995/418) applied (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2008/18/section/13/2)
+[^c-ef7bce76100dd68c2c7af9b4ef4e1fda]: Modification: [Order](https://www.legislation.gov.uk/uksi/1995/418) applied (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2008/18/section/13/2)
 
-[^key-d2c396051788f40d8530b8539299d59a]: Modification: Order applied (W.) (28.3.2023) by [The Town and Country Planning (North Wales Border Control Post) (EU Exit) Special Development Order 2023 (S.I. 2023/256)](https://www.legislation.gov.uk/uksi/2023/256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/256/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/256/article/3/2)
+[^c-d2c396051788f40d8530b8539299d59a]: Modification: Order applied (W.) (28.3.2023) by [The Town and Country Planning (North Wales Border Control Post) (EU Exit) Special Development Order 2023 (S.I. 2023/256)](https://www.legislation.gov.uk/uksi/2023/256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/256/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/256/article/3/2)

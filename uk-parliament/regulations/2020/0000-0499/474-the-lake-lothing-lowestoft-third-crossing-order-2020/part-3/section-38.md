@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Disregard of certain interests and improvements[^key-b61a52172530b87089dcdee8bcab6f48]
+## 38. Disregard of certain interests and improvements[^c-b61a52172530b87089dcdee8bcab6f48]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-b61a52172530b87089dcdee8bcab6f48]: Commencement: Art. 38 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-b61a52172530b87089dcdee8bcab6f48]: Commencement: Art. 38 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

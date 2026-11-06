@@ -41,7 +41,7 @@ Coming into force
 
 The National Assembly for Wales makes the following Regulations in exercise of the powers conferred on the Secretary of State by sections 32(9)[^f00001], 33(4)[^f00002], 43(7) and 113 of the Local Government Finance Act 1992 which are now vested in it so far as exercisable in Wales[^f00003].
 
-## 1. Citation, commencement, application and interpretation[^key-b7ea70d6a4aee01f0c9efeaf6286cfc3]
+## 1. Citation, commencement, application and interpretation[^c-b7ea70d6a4aee01f0c9efeaf6286cfc3]
 
 (1) These Regulations may be cited as the Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2000 and shall come into force on 29th February 2000.
 
@@ -49,11 +49,11 @@ The National Assembly for Wales makes the following Regulations in exercise of t
 
 (3) In these Regulations a reference to a numbered section is a reference to a section of the Local Government Finance Act 1992.
 
-## 2. Calculation of basic amount of tax (billing authorities)[^key-8020ec69e6c48b8909dbfa9c82411c44]
+## 2. Calculation of basic amount of tax (billing authorities)[^c-8020ec69e6c48b8909dbfa9c82411c44]
 
 In section 33, omit subsections (3C) and (3D)[^f00004].
 
-## 3. Calculation of budget requirement (major precepting authorities)[^key-528d40da5f9a733ce44adf8cf46b928d]
+## 3. Calculation of budget requirement (major precepting authorities)[^c-528d40da5f9a733ce44adf8cf46b928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -83,12 +83,12 @@ The Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations
 
 [^f00003]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-b7ea70d6a4aee01f0c9efeaf6286cfc3]: Commencement: Reg. 1 in force at 29.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/717/regulation/1/1)
+[^c-b7ea70d6a4aee01f0c9efeaf6286cfc3]: Commencement: Reg. 1 in force at 29.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/717/regulation/1/1)
 
-[^key-8020ec69e6c48b8909dbfa9c82411c44]: Commencement: Reg. 2 in force at 29.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/717/regulation/1/1)
+[^c-8020ec69e6c48b8909dbfa9c82411c44]: Commencement: Reg. 2 in force at 29.2.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/717/regulation/1/1)
 
 [^f00004]: Footnote: Sections 33 (3C) and 33 (3D) were inserted by the Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 1999 ([S.I. 1999/296](https://www.legislation.gov.uk/uksi/1999/296)).
 
-[^key-528d40da5f9a733ce44adf8cf46b928d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2000/717/regulation/3) revoked (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-528d40da5f9a733ce44adf8cf46b928d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2000/717/regulation/3) revoked (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
 [^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

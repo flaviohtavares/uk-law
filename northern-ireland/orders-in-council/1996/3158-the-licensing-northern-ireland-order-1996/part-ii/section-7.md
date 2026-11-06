@@ -29,7 +29,7 @@ summary: ''
 (4) A court shall refuse an application for the grant of a licence unless it is satisfied—
 
 - (a) subject to paragraph (5)(a), that the procedure relating to the application set out in Part I of Schedule 1 has been complied with; and
-- (b) that the applicant is a fit person to hold a licence; and[^key-b7bcf06dd890607906d5cb17efcd2063]
+- (b) that the applicant is a fit person to hold a licence; and[^c-b7bcf06dd890607906d5cb17efcd2063]
 - (ba) that the applicant is aware of the responsibilities under any code of practice which the Department has approved under Article 76F (and from which it has not withdrawn its approval); and
 - (c) that the premises are of the kind specified in the application; and
 - (d) subject to paragraph (5)(b), that the premises are suitable to be licensed for the sale of intoxicating liquor by retail; and
@@ -66,7 +66,7 @@ summary: ''
 
 (11) Where a court grants a licence in respect of a guest house, the court shall attach to the licence a condition that there shall be afforded in the guest house adequate sitting accommodation in a room not used or to be used for sleeping accommodation, for the service of substantial refreshment or for the supply or consumption of intoxicating liquor.
 
-(12) A court which grants a licence in respect of a place of public entertainment or an indoor arena[^c17145711] or an outdoor stadium[^key-a7b0820f35444ca1e7b37c0b04359c18] may attach to the licence such conditions as it thinks fit.
+(12) A court which grants a licence in respect of a place of public entertainment or an indoor arena[^c17145711] or an outdoor stadium[^c-a7b0820f35444ca1e7b37c0b04359c18] may attach to the licence such conditions as it thinks fit.
 
 (13) Where by virtue of the grant of a licence in respect of any premises, those premises are licensed premises to which regulations under Article 108(1)(b) of the [^m00028] Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 apply the court may, on an application by the sub-divisional commander of the police sub-division in which those premises are situated, give a direction specifying the number of gaming machines which may be made available for gaming on the licensed premises in accordance with the provisions of Article 108 of that Order.
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b7bcf06dd890607906d5cb17efcd2063]: Textual amendment: [Art. 7(4)(ba)](https://www.legislation.gov.uk/nisi/1996/3158/article/7/4/ba) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 25(2)](https://www.legislation.gov.uk/nia/2021/7/section/25/2), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-b7bcf06dd890607906d5cb17efcd2063]: Textual amendment: [Art. 7(4)(ba)](https://www.legislation.gov.uk/nisi/1996/3158/article/7/4/ba) and word inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 25(2)](https://www.legislation.gov.uk/nia/2021/7/section/25/2), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
 
 [^m00024]: Marginal citation: 1965 c. 13 (N.I.).
 
@@ -88,6 +88,6 @@ summary: ''
 
 [^c17145711]: Textual amendment: [2004 NI 17](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-a7b0820f35444ca1e7b37c0b04359c18]: Textual amendment: Words in art. 7(12) inserted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 4(1)](https://www.legislation.gov.uk/nia/2016/24/section/4/1), 8(1)
+[^c-a7b0820f35444ca1e7b37c0b04359c18]: Textual amendment: Words in art. 7(12) inserted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 4(1)](https://www.legislation.gov.uk/nia/2016/24/section/4/1), 8(1)
 
 [^m00028]: Marginal citation: 1985 NI 11.

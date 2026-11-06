@@ -50,13 +50,13 @@ In accordance with section 63(3)(a) of the Police Act 1996[^f00002], the Secreta
 
 ## Part 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-41abbec92b8e022898bc1f717699c832]
+### 1. Citation, commencement and extent[^c-41abbec92b8e022898bc1f717699c832]
 
 (1) These Regulations may be cited as the Police (Vetting) Regulations 2025 and come into force on 14th May 2025.
 
 (2) These Regulations extend to England and Wales.
 
-### 2. Interpretation[^key-effa48aefdbe3611bdbf031e40ba4847]
+### 2. Interpretation[^c-effa48aefdbe3611bdbf031e40ba4847]
 
 (1) In these Regulations—
 
@@ -71,7 +71,7 @@ In accordance with section 63(3)(a) of the Police Act 1996[^f00002], the Secreta
 - “**appeal meeting**” means a meeting held in accordance with regulation 29;
 - “**assessor**” means a person appointed under regulation 16;
 - “**the Conduct Regulations**” means the Police (Conduct) Regulations 2020[^f00006];
-- “[^key-f24d8184330031ee759f800da20ce92a]**criminal history check**” means a check to ascertain, so far as reasonably practicable, whether a person has, or may have, committed a criminal offence, and includes a check of—
+- “[^c-f24d8184330031ee759f800da20ce92a]**criminal history check**” means a check to ascertain, so far as reasonably practicable, whether a person has, or may have, committed a criminal offence, and includes a check of—
   - (a) central records, within the meaning of section 112(3) of the Police Act 1997, and
   - (b) the Police National Database;
 - “**criminal proceedings**” means—
@@ -84,38 +84,38 @@ In accordance with section 63(3)(a) of the Police Act 1996[^f00002], the Secreta
 - “**informant**” means a person who provides information to a withdrawal assessment on the basis that the person's identity is not disclosed;
 - “**interested party**” means a person whose appointment could reasonably give rise to a concern as to whether the person could act impartially under these Regulations;
 - “**line manager**” means the police officer or the police staff member who has immediate supervisory responsibility for the officer concerned;
-- “[^key-962c25c0efef79aea09b273e695ae30c]**listed offence**” means an offence listed in the Schedule;
+- “[^c-962c25c0efef79aea09b273e695ae30c]**listed offence**” means an offence listed in the Schedule;
 - “**misconduct**” has the meaning given to it in regulation 2(1) of the Conduct Regulations;
 - “**misconduct proceedings**” has the meaning given to it in regulation 2(1) of the Conduct Regulations;
 - “**officer concerned**” means the police officer in relation to whom Parts 3 and 4 of these Regulations apply;
 - “**panel**” means a panel constituted in accordance with regulation 27, subject to any change to the membership of that panel in accordance with regulation 28;
 - “**the Performance Regulations**” means the Police (Performance) Regulations 2020[^f00008];
-- “[^key-31bbddbd76774ea03f327f9a22280d71]**police candidate**” means a person seeking appointment to a police force, but does not include a police officer who is seeking to transfer from one police force to another;
-- “[^key-3ceb0430f50932c5b36f2c557af7a993]**police force concerned**”, in relation to a police officer, means—
+- “[^c-31bbddbd76774ea03f327f9a22280d71]**police candidate**” means a person seeking appointment to a police force, but does not include a police officer who is seeking to transfer from one police force to another;
+- “[^c-3ceb0430f50932c5b36f2c557af7a993]**police force concerned**”, in relation to a police officer, means—
   - (a) the police force of which the officer is a member, or
   - (b) where the officer is a special constable, the police force maintained for the police area for which the officer is appointed;
 - “**police friend**” means a person chosen by the officer concerned in accordance with regulation 9;
-- “[^key-f161d9754145d41fcb25cb5f8306f714]**Police National Database**” means the national information management system known by that name and used to share information between police forces and other persons operating in England, Wales, Scotland or Northern Ireland charged with the duty of preventing, detecting, investigating or prosecuting offences;
+- “[^c-f161d9754145d41fcb25cb5f8306f714]**Police National Database**” means the national information management system known by that name and used to share information between police forces and other persons operating in England, Wales, Scotland or Northern Ireland charged with the duty of preventing, detecting, investigating or prosecuting offences;
 - “**police officer**” means a member of a police force or special constable;
 - “**police staff member**” means—
   - (a) a member of the civilian staff of a police force, within the meaning of section 102(4) and (6) of the 2011 Act (interpretation of Part 1), or
   - (b) an employee of the Common Council of the City of London who is under the direction and control of a chief officer of police;
 - “**relevant lawyer**” has the meaning given to it in section 84(4) of the 1996 Act (representation etc. at disciplinary and other proceedings);
-- “[^key-24f7f05b4591a58c55ee5aceee6f94b0]**renew**” is to be construed in accordance with regulation 5(2)(a); and cognate expressions are to be construed accordingly;
+- “[^c-24f7f05b4591a58c55ee5aceee6f94b0]**renew**” is to be construed in accordance with regulation 5(2)(a); and cognate expressions are to be construed accordingly;
 - “**renewal date**”, in relation to a grant of vetting clearance, is the date on or before which the vetting authority which granted the vetting clearance must initiate the renewal process by sending to its holder an application for further vetting clearance;
 - “**senior officer**” means a member of a police force holding a rank above that of chief superintendent;
 - “**staff association**” means—
   - (a) in relation to a police officer of the rank of chief inspector or below or a special constable, the Police Federation of England and Wales,
   - (b) in relation to a police officer of the rank of superintendent or chief superintendent, the Police Superintendents' Association, and
   - (c) in relation to a senior officer or a chief officer, the Chief Police Officers' Staff Association;
-- “[^key-0f0e125c7af35a2621f23c85ce6be81a]**vetting application assessment**” means a comprehensive and in-depth assessment by a vetting authority of a person’s (“P’s”) suitability to hold vetting clearance, following an application by P for vetting clearance, and includes—
+- “[^c-0f0e125c7af35a2621f23c85ce6be81a]**vetting application assessment**” means a comprehensive and in-depth assessment by a vetting authority of a person’s (“P’s”) suitability to hold vetting clearance, following an application by P for vetting clearance, and includes—
   - (a) a criminal history check in respect of P,
   - (b) a check of the police barred list and the police advisory list in respect of P, and
   - (c) such additional checks as will, so far as reasonably practicable—
     - (i) provide a full picture of P’s financial history and conduct, as well as information about any close associations of P, and
     - (ii) enable the vetting authority to consider any other matter which may reasonably affect P’s suitability to hold vetting clearance;
-- [^key-62fa0b41e9ee7036fc43b377c00496a1]...
-- “[^key-2ec23e400c683ff5c9d5e92b9d755c4b]**vetting clearance**” means—
+- [^c-62fa0b41e9ee7036fc43b377c00496a1]...
+- “[^c-2ec23e400c683ff5c9d5e92b9d755c4b]**vetting clearance**” means—
   - (a) in relation to a police candidate or a police officer seeking to transfer from one police force to another, the level of police vetting clearance that the candidate or officer requires to perform the duties of the role for which they are seeking appointment;
   - (b) in all other cases, the level of police vetting clearance that the police officer requires to perform the duties of their role;
 - “**vetting severity assessment**” has the meaning given to it in regulation 15;
@@ -125,16 +125,16 @@ In accordance with section 63(3)(a) of the Police Act 1996[^f00002], the Secreta
   - (b) Christmas Day or Good Friday, or
   - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00009] in England and Wales.
 
-(2)[^key-2020c2591de87ae183da84fcdb5d18f4] In these Regulations—
+(2)[^c-2020c2591de87ae183da84fcdb5d18f4] In these Regulations—
 
 - (a) in Parts 3 and 4, references to “**the vetting authority**” are references to the vetting authority of the police force concerned;
 - (b) the “vetting authority” of a police force is—
   - (i) in relation to a police candidate or a police officer, other than a chief officer of police or acting chief officer, the chief officer of police of that police force;
   - (ii) in relation to a chief officer of police or acting chief officer, the local policing body for that police force’s area.
 
-### 3. Delegation[^key-b696c1abc2c4e832db65c5481c1f0f93]
+### 3. Delegation[^c-b696c1abc2c4e832db65c5481c1f0f93]
 
-(A1)[^key-36c72df27719afb17977246191960800] This regulation applies where a vetting authority is a chief officer of police.
+(A1)[^c-36c72df27719afb17977246191960800] This regulation applies where a vetting authority is a chief officer of police.
 
 (B1) The chief officer of police may delegate any function under Part 1A, Part 2 and regulation 15(A1), as well as the function of delegation under this paragraph, to—
 
@@ -143,14 +143,14 @@ In accordance with section 63(3)(a) of the Police Act 1996[^f00002], the Secreta
 
 who has the appropriate level of knowledge, skills and experience to perform that function.
 
-(1)[^key-82c9e31bc9e4236e3e1d43222c990e11] The chief officer of police may, subject to paragraphs (2) and (3), delegate any function under Parts 3 and 4, other than regulation 15(A1), as well as the function of delegation under this paragraph, to—
+(1)[^c-82c9e31bc9e4236e3e1d43222c990e11] The chief officer of police may, subject to paragraphs (2) and (3), delegate any function under Parts 3 and 4, other than regulation 15(A1), as well as the function of delegation under this paragraph, to—
 
 - (a) a member of a police force of at least the rank of inspector, or
 - (b) a police staff member who, in the opinion of the chief officer, is at least a similar level of seniority to an inspector.
 
-(2) Where the vetting authority delegates its functions under regulation 13, 13A[^key-5078afebffa63fb76a5cef0a6c345303] or 24, the following decisions must be authorised by a senior officer—
+(2) Where the vetting authority delegates its functions under regulation 13, 13A[^c-5078afebffa63fb76a5cef0a6c345303] or 24, the following decisions must be authorised by a senior officer—
 
-- (a)[^key-70163071c29fcaca48e99d2cf96efc48] a decision under regulation 13 or 13A as to whether the suspension condition is met, or
+- (a)[^c-70163071c29fcaca48e99d2cf96efc48] a decision under regulation 13 or 13A as to whether the suspension condition is met, or
 - (b) a decision under regulation 24(2) as to the outcome of a withdrawal assessment.
 
 (3) Where a chief officer of police is required to chair a panel under regulation 27(2)(a), the chief officer of police may delegate responsibility for chairing the panel to—
@@ -164,15 +164,15 @@ who has the appropriate level of knowledge, skills and experience to perform tha
 - (a) “**senior officer**” includes a member of a police force who is required to perform the duties normally performed by a member of a police force holding a rank above that of chief superintendent;
 - (b) “**former senior officer**” includes a person who, at the time they ceased to be a member of a police force, was required to perform the duties normally performed by a member of a police force holding a rank above that of chief superintendent.
 
-### 4. Application[^key-de97959206b8dfdb7100b47caae5e583]
+### 4. Application[^c-de97959206b8dfdb7100b47caae5e583]
 
-(1) Parts 3 and 4 of these Regulations apply where information which indicates that a police officer may no longer be suitable to hold vetting clearance (“a matter”) comes to the attention of the vetting authority of the police force concerned[^key-a8ffdcba398ec4254d6932f3fa07fc5b].
+(1) Parts 3 and 4 of these Regulations apply where information which indicates that a police officer may no longer be suitable to hold vetting clearance (“a matter”) comes to the attention of the vetting authority of the police force concerned[^c-a8ffdcba398ec4254d6932f3fa07fc5b].
 
 (2) A vetting authority is not prevented from considering a matter under Part 3 or 4 of these Regulations by virtue of the fact that the matter has been considered or determined under the Conduct Regulations, the Performance Regulations or Part 2 of the 2002 Act.
 
 (3) Where a vetting authority is considering more than one matter in relation to the same police officer, the matters may be taken together and treated as a single matter for the purposes of any provision of Part 3 or 4 of these Regulations that requires a person to make an assessment, finding, determination or decision in connection with a matter.
 
-### 4A. Deviation from guidance on vetting[^key-d560408db3316b0d580359d37358bfb5]
+### 4A. Deviation from guidance on vetting[^c-d560408db3316b0d580359d37358bfb5]
 
 If a vetting authority considers it necessary to deviate on a repeated or prolonged basis from any aspect of—
 
@@ -181,7 +181,7 @@ If a vetting authority considers it necessary to deviate on a repeated or prolon
 
 the vetting authority must notify the College of Policing and the National Police Chiefs’ Council.
 
-## Part 1A — Vetting Clearance: Police Candidates[^key-d4e537039b72b36fee83ab01f62cda0f]
+## Part 1A — Vetting Clearance: Police Candidates[^c-d4e537039b72b36fee83ab01f62cda0f]
 
 ### 4B. Appointment to a police force: requirement to hold vetting clearance etc.
 
@@ -272,20 +272,20 @@ it must, subject to paragraph (2), provide the police candidate with detailed re
 
 ## Part 2 — Vetting clearance
 
-### 5. Duty to hold and maintain vetting clearance[^key-7dd89e36c2b51893d11b9c83536d830c]
+### 5. Duty to hold and maintain vetting clearance[^c-7dd89e36c2b51893d11b9c83536d830c]
 
-(1)[^key-07c992be248a4d5be96709fcd8afc614] A police officer must—
+(1)[^c-07c992be248a4d5be96709fcd8afc614] A police officer must—
 
 - (a) hold and maintain vetting clearance, and
-- (b) promptly notify the vetting authority of the police force concerned[^key-dfffe9b818590779d05c2db61ed37f63] of any change in their personal circumstance or any other matter which may reasonably affect their suitability to hold vetting clearance.
+- (b) promptly notify the vetting authority of the police force concerned[^c-dfffe9b818590779d05c2db61ed37f63] of any change in their personal circumstance or any other matter which may reasonably affect their suitability to hold vetting clearance.
 
-(2)[^key-84a493ac651e42fae4ec1d18c7bee2ff] Vetting clearance granted to a police officer by the vetting authority of the police force concerned is valid until whichever of the following events occurs first—
+(2)[^c-84a493ac651e42fae4ec1d18c7bee2ff] Vetting clearance granted to a police officer by the vetting authority of the police force concerned is valid until whichever of the following events occurs first—
 
 - (a) the vetting authority makes a further grant of vetting clearance to the officer (“renews” the officer’s vetting clearance);
 - (b) the vetting clearance is terminated (see further regulation 6);
 - (c) the vetting clearance is withdrawn (see further Parts 3 and 4).
 
-### 5A. Review of vetting clearance[^key-6f26517b7d9676e96f52f30de41b5921]
+### 5A. Review of vetting clearance[^c-6f26517b7d9676e96f52f30de41b5921]
 
 (1) A vetting authority may from time to time carry out such checks as are necessary to assess whether, in respect of a police officer to whom it has granted vetting clearance—
 
@@ -423,11 +423,11 @@ it must, subject to paragraph (2), provide the officer with detailed reasons in 
 
 (7) The vetting authority must uphold the decision of the vetting appeal decision maker.
 
-### 6. Termination of vetting clearance[^key-9f023b98731ff65c5dd2caab89fbb987]
+### 6. Termination of vetting clearance[^c-9f023b98731ff65c5dd2caab89fbb987]
 
 A police officer’s vetting clearance must be terminated if they cease to be a police officer.
 
-### 7. Record of vetting clearance: police officers[^key-d84e7c83ffddc8b4bd0ec75899cd20fe][^key-9dec6bcad5149902ad938b05335da7e7]
+### 7. Record of vetting clearance: police officers[^c-d84e7c83ffddc8b4bd0ec75899cd20fe][^c-9dec6bcad5149902ad938b05335da7e7]
 
 (1) A vetting authority must keep a record of——
 
@@ -439,7 +439,7 @@ A police officer’s vetting clearance must be terminated if they cease to be a 
 
 ## Part 3 — Withdrawal assessments: general
 
-### 8. The harm test[^key-66a341d4c3d51889143d05e0e5c50011]
+### 8. The harm test[^c-66a341d4c3d51889143d05e0e5c50011]
 
 (1) This regulation applies to information in documents which are stated to be subject to the harm test under these Regulations.
 
@@ -456,7 +456,7 @@ A police officer’s vetting clearance must be terminated if they cease to be a 
 - (f) necessary and proportionate for the protection of the welfare and safety of any informant or witness, or
 - (g) otherwise in the public interest.
 
-### 9. Police friend[^key-0a899c949bf7e84d5f2380b1dd9202ce]
+### 9. Police friend[^c-0a899c949bf7e84d5f2380b1dd9202ce]
 
 (1) The officer concerned may choose—
 
@@ -472,7 +472,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 - (b) make representations to the vetting authority concerning any aspect of the withdrawal assessment, and
 - (c) accompany the officer to any interview or appeal meeting which forms part of the withdrawal assessment.
 
-### 10. Legal and other representation[^key-78687e8692bd1d47a4b808c83c80d616]
+### 10. Legal and other representation[^c-78687e8692bd1d47a4b808c83c80d616]
 
 (1) Subject to paragraph (2), the officer concerned has the right to be represented by a relevant lawyer of the officer's choice (“a preferred lawyer”) at an interview or an appeal meeting.
 
@@ -489,7 +489,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (6) A person appointed under paragraph (5) must not be an interested party.
 
-### 11. Provision of notices or documents[^key-d1043f19d4cd8f537c83004ecd6bd799]
+### 11. Provision of notices or documents[^c-d1043f19d4cd8f537c83004ecd6bd799]
 
 (1) Subject to paragraph (2), where any written notice or document is to be given or supplied to the officer concerned under these Regulations, it must be—
 
@@ -511,9 +511,9 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 (4) Where a written notice or document is sent by post, it is to be taken to have been given or supplied to the officer concerned—
 
 - (a) on the second day after it was posted, left with, delivered to or collected by the relevant service provider, provided that day is a working day, or
-- (b)[^key-a6eebbdfcb9525e2b00ed36b7c51fbfc] in any other case, on the next working day after the day referred to in sub-paragraph (a).
+- (b)[^c-a6eebbdfcb9525e2b00ed36b7c51fbfc] in any other case, on the next working day after the day referred to in sub-paragraph (a).
 
-### 12. Criminal and other proceedings[^key-9f66291eb399a361ccd16a60a9157d76]
+### 12. Criminal and other proceedings[^c-9f66291eb399a361ccd16a60a9157d76]
 
 (1) Subject to the provisions of this regulation, a withdrawal assessment must proceed without delay.
 
@@ -540,7 +540,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (7) For the purposes of this regulation, “**relevant prosecutor**” means the Director of Public Prosecutions or any other person who has or is likely to have responsibility for the criminal proceedings.
 
-### 13. Duty to suspend where suspension condition met[^key-3749caa639aa3494cf0211853f3d00e5][^key-c4473413e6cade32d72a1af849bfb5ef]
+### 13. Duty to suspend where suspension condition met[^c-3749caa639aa3494cf0211853f3d00e5][^c-c4473413e6cade32d72a1af849bfb5ef]
 
 (1) The vetting authority must suspend the officer concerned from the office of constable and, in the case of a member of the police force, from membership of the force, if—
 
@@ -589,7 +589,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (4) In this regulation, “**suspension condition**” has the same meaning as in regulation 13(1)(a).
 
-### 14. Record of withdrawal assessment[^key-53609e881854f601644b140f52b324d1]
+### 14. Record of withdrawal assessment[^c-53609e881854f601644b140f52b324d1]
 
 (1) The vetting authority must keep a record of each withdrawal assessment, including the decision on the outcome and the finding in any appeal by the officer concerned.
 
@@ -599,9 +599,9 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 ## Part 4 — Withdrawal assessments: procedure
 
-### 15. Vetting severity assessment[^key-7a49b7c145c18d4c7b319b1fe0174387]
+### 15. Vetting severity assessment[^c-7a49b7c145c18d4c7b319b1fe0174387]
 
-(A1)[^key-9d490a1e95123fed40ee1e97c012c6a9] Before proceeding in accordance with paragraph (1), the vetting authority must carry out a criminal history check in respect of the officer concerned, unless it has already done so in connection with the matter.
+(A1)[^c-9d490a1e95123fed40ee1e97c012c6a9] Before proceeding in accordance with paragraph (1), the vetting authority must carry out a criminal history check in respect of the officer concerned, unless it has already done so in connection with the matter.
 
 (1) The vetting authority must assess whether the matter could reasonably lead to vetting clearance being withdrawn (“the vetting severity assessment”).
 
@@ -624,7 +624,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (6) Where the vetting authority decides under this regulation to take no further action or to refer the matter to be dealt with under the Conduct Regulations, the Performance Regulations or Part 2 of the 2002 Act, it must so notify the officer concerned in writing as soon as practicable.
 
-### 16. Appointment of assessor[^key-52bf8066a330cbc5d6e1c639bace6faa]
+### 16. Appointment of assessor[^c-52bf8066a330cbc5d6e1c639bace6faa]
 
 (1) This regulation applies where there must be a withdrawal assessment in accordance with regulation 15.
 
@@ -642,7 +642,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (4) The reference in paragraph (3)(d)(ii) to a member of the same police force includes a reference to a special constable appointed for the area of that force and a police staff member serving in that force.
 
-### 17. Withdrawal assessment[^key-4be06e317a0d2a48656ab3ade29d8ab6]
+### 17. Withdrawal assessment[^c-4be06e317a0d2a48656ab3ade29d8ab6]
 
 (1) The purpose of the withdrawal assessment is to—
 
@@ -651,7 +651,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (2) Subject to regulation 20, the assessor may interview witnesses as part of the withdrawal assessment.
 
-### 18. Notice of withdrawal assessment[^key-4f2f6c41f24d716ed2b61f1ad18dd430]
+### 18. Notice of withdrawal assessment[^c-4f2f6c41f24d716ed2b61f1ad18dd430]
 
 (1) Subject to paragraph (3), the assessor must, as soon as reasonably practicable after being appointed, give the officer concerned a written notice stating—
 
@@ -670,7 +670,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (4) Any written notice given under paragraph (1) or (2) is subject to the harm test.
 
-### 19. Representations to the assessor[^key-4dd388f21c33998110ff0e5b33807d6f]
+### 19. Representations to the assessor[^c-4dd388f21c33998110ff0e5b33807d6f]
 
 (1) Before the end of the period of 10 working days beginning with the first working day after a written notice is given under regulation 18(1) or (2)—
 
@@ -681,7 +681,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (3) The period referred to in paragraph (1) may be extended by the assessor.
 
-### 20. Interview with the officer concerned during withdrawal assessment[^key-fefb0461b8a623d2564900bc15e9b52d]
+### 20. Interview with the officer concerned during withdrawal assessment[^c-fefb0461b8a623d2564900bc15e9b52d]
 
 (1) This regulation applies where, as part of the withdrawal assessment—
 
@@ -710,7 +710,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (10) A police friend or a relevant lawyer must not answer any question asked of the officer concerned during the interview.
 
-### 21. Timeliness of withdrawal assessment[^key-91e3be7edc65c014f5a36beb7c62064c]
+### 21. Timeliness of withdrawal assessment[^c-91e3be7edc65c014f5a36beb7c62064c]
 
 (1) Subject to paragraph (3), where a withdrawal assessment is not completed within a relevant period, the assessor must provide as soon as practicable the following information in writing to the officer concerned—
 
@@ -730,7 +730,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (4) Any information provided under paragraph (1) is subject to the harm test.
 
-### 22. Discontinuation of withdrawal assessment[^key-9fc8d41f87d11b7a0588b1653831052e]
+### 22. Discontinuation of withdrawal assessment[^c-9fc8d41f87d11b7a0588b1653831052e]
 
 (1) This regulation applies if at any time during the withdrawal assessment—
 
@@ -755,7 +755,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
   - (i) the notice given to the officer under regulation 18(1) has been withdrawn and no further action will be taken pursuant to that notice, and
   - (ii) the withdrawal assessment has been discontinued.
 
-### 23. Report of withdrawal assessment[^key-52451dfde474f40b76f3ed53d5ac3348]
+### 23. Report of withdrawal assessment[^c-52451dfde474f40b76f3ed53d5ac3348]
 
 (1) On completion of the withdrawal assessment, the assessor must as soon as practicable submit a written report on the withdrawal assessment to the vetting authority.
 
@@ -766,7 +766,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 - (c) indicate the assessor’s judgment as to whether the vetting clearance of the officer concerned should be withdrawn or whether it should not be withdrawn, and
 - (d) where the assessor’s judgment under sub-paragraph (c) is that vetting clearance should not be withdrawn, indicate the assessor’s judgment as to how the matter should be dealt with in accordance with regulation 15(2).
 
-### 24. Outcome of withdrawal assessment[^key-2e97486dc189e55ce619526797b495c9]
+### 24. Outcome of withdrawal assessment[^c-2e97486dc189e55ce619526797b495c9]
 
 (1) The vetting authority must, after receiving a written report under regulation 23(1)—
 
@@ -783,7 +783,7 @@ who is not otherwise involved in the withdrawal assessment, to act as a police f
 
 (4) An action referred to in paragraph (2), and any dismissal under paragraph (3), has effect from the date on which it is notified to the officer concerned.
 
-### 25. Notification of outcome[^key-d0fea2c63522f8eb463e83f0aa263547]
+### 25. Notification of outcome[^c-d0fea2c63522f8eb463e83f0aa263547]
 
 The vetting authority must, as soon as practicable after making a decision under regulation 24(1)—
 
@@ -793,7 +793,7 @@ The vetting authority must, as soon as practicable after making a decision under
   - (ii) any other document which might reasonably be considered to support or undermine the outcome of the withdrawal assessment, and
 - (c) where the officer concerned has had their vetting clearance withdrawn, send the officer a written notice of their dismissal and the right of appeal under regulation 26, including the name of the person to whom an appeal should be sent.
 
-### 26. Appeal from withdrawal of vetting clearance[^key-a1907cd4b40be480ea5f0be0841d4627]
+### 26. Appeal from withdrawal of vetting clearance[^c-a1907cd4b40be480ea5f0be0841d4627]
 
 (1) Subject to the provisions of this regulation, the officer concerned may appeal against any decision to withdraw their vetting clearance under regulation 24.
 
@@ -821,7 +821,7 @@ The vetting authority must, as soon as practicable after making a decision under
 
 (7) The panel must determine whether the notice of appeal sets out arguable grounds of appeal and, if they decide that it does not, they must dismiss the appeal.
 
-### 27. Persons conducting appeal[^key-abf549927c555d0e7472697738d2e007]
+### 27. Persons conducting appeal[^c-abf549927c555d0e7472697738d2e007]
 
 (1) A panel must comprise a chair and two other members.
 
@@ -849,7 +849,7 @@ The vetting authority must, as soon as practicable after making a decision under
 
 (8) Any decision of the panel must be based on a majority but must not indicate whether it was taken unanimously or by a majority.
 
-### 28. Objections to persons conducting appeal[^key-919f84ae58cb5ce6277c457689ea0e85]
+### 28. Objections to persons conducting appeal[^c-919f84ae58cb5ce6277c457689ea0e85]
 
 (1) Where a panel is constituted in accordance with regulation 27, the vetting authority must as soon as practicable give the officer concerned written notice of the names of the panel members and the effect of paragraphs (4) to (7) of this regulation.
 
@@ -884,7 +884,7 @@ The vetting authority must, as soon as practicable after making a decision under
 - (b) the objection must be made before the end of the period of 3 working days beginning with the first working day after the officer concerned is given the notice referred to in paragraph (9), and
 - (c) paragraphs (6) to (9) apply, with the exception of the requirement in paragraph (9) for the vetting authority to give written notice of the effects of paragraphs (10) and (11).
 
-### 29. Appeal meeting[^key-5502a2b165410fd6e0b8f443dafc5955]
+### 29. Appeal meeting[^c-5502a2b165410fd6e0b8f443dafc5955]
 
 (1) This regulation applies where the officer concerned requests an appeal meeting in the written notice of appeal under regulation 26(3).
 
@@ -915,7 +915,7 @@ The vetting authority must, as soon as practicable after making a decision under
 
 (11) The appeal meeting must be held in private.
 
-### 30. Finding of the appeal[^key-b770380aa1a8626e011a501f4d4d45c8]
+### 30. Finding of the appeal[^c-b770380aa1a8626e011a501f4d4d45c8]
 
 (1) The panel may—
 
@@ -936,7 +936,7 @@ The vetting authority must, as soon as practicable after making a decision under
 
 ## Part 5 — Police appeals tribunals
 
-### 31. Amendment of the Police Appeals Tribunal Rules 2020[^key-036363aa3a57df5a8fa549dd3504c1d2]
+### 31. Amendment of the Police Appeals Tribunal Rules 2020[^c-036363aa3a57df5a8fa549dd3504c1d2]
 
 (1) The Police Appeals Tribunals Rules 2020[^f00011] are amended as follows.
 
@@ -1011,7 +1011,7 @@ Minister of State
 
 Home Office
 
-## Schedule — Listed offences[^key-3d7226b7239d57e2ade68b9c4d292c15]
+## Schedule — Listed offences[^c-3d7226b7239d57e2ade68b9c4d292c15]
 
 Regulation 2(1)
 
@@ -1074,9 +1074,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: Section 63(3)(a) was substituted by paragraph 78(3) of Schedule 4 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15). There are other amendments to section 63, but none are relevant.
 
-[^key-41abbec92b8e022898bc1f717699c832]: Commencement: Reg. 1 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-41abbec92b8e022898bc1f717699c832]: Commencement: Reg. 1 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-effa48aefdbe3611bdbf031e40ba4847]: Commencement: Reg. 2 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-effa48aefdbe3611bdbf031e40ba4847]: Commencement: Reg. 2 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
 [^f00003]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).
 
@@ -1086,122 +1086,122 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00006]: Footnote: [S.I. 2020/4](https://www.legislation.gov.uk/uksi/2020/4).
 
-[^key-f24d8184330031ee759f800da20ce92a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(a)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-f24d8184330031ee759f800da20ce92a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(a)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
 [^f00007]: Footnote: Subsection (1A) was inserted by section 38(2) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-962c25c0efef79aea09b273e695ae30c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-962c25c0efef79aea09b273e695ae30c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
 [^f00008]: Footnote: [S.I. 2020/3](https://www.legislation.gov.uk/uksi/2020/3).
 
-[^key-31bbddbd76774ea03f327f9a22280d71]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(c)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/c) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-31bbddbd76774ea03f327f9a22280d71]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(c)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/c) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-3ceb0430f50932c5b36f2c557af7a993]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(d)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/d) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-3ceb0430f50932c5b36f2c557af7a993]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(d)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/d) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-f161d9754145d41fcb25cb5f8306f714]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(e)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/e) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-f161d9754145d41fcb25cb5f8306f714]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(e)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/e) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-24f7f05b4591a58c55ee5aceee6f94b0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(f)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/f) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-24f7f05b4591a58c55ee5aceee6f94b0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(f)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/f) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-0f0e125c7af35a2621f23c85ce6be81a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(g)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/g) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-0f0e125c7af35a2621f23c85ce6be81a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(g)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/g) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-62fa0b41e9ee7036fc43b377c00496a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) omitted (13.7.2026) by virtue of [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(h)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/h) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-62fa0b41e9ee7036fc43b377c00496a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) omitted (13.7.2026) by virtue of [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(h)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/h) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-2ec23e400c683ff5c9d5e92b9d755c4b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(i)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/i) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-2ec23e400c683ff5c9d5e92b9d755c4b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(1)(i)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/1/i) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
 [^f00009]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-2020c2591de87ae183da84fcdb5d18f4]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/2) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-2020c2591de87ae183da84fcdb5d18f4]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/502/regulation/2/2) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/11/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-b696c1abc2c4e832db65c5481c1f0f93]: Commencement: Reg. 3 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-b696c1abc2c4e832db65c5481c1f0f93]: Commencement: Reg. 3 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-36c72df27719afb17977246191960800]: Textual amendment: [Reg. 3(A1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/A1)[(B1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/B1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/1) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-36c72df27719afb17977246191960800]: Textual amendment: [Reg. 3(A1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/A1)[(B1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/B1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/1) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-82c9e31bc9e4236e3e1d43222c990e11]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-82c9e31bc9e4236e3e1d43222c990e11]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-5078afebffa63fb76a5cef0a6c345303]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/2) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/3/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-5078afebffa63fb76a5cef0a6c345303]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/2) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/3/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-70163071c29fcaca48e99d2cf96efc48]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/2/a) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/3/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-70163071c29fcaca48e99d2cf96efc48]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2025/502/regulation/3/2/a) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2026/653/regulation/12/3/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-de97959206b8dfdb7100b47caae5e583]: Commencement: Reg. 4 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-de97959206b8dfdb7100b47caae5e583]: Commencement: Reg. 4 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-a8ffdcba398ec4254d6932f3fa07fc5b]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/4/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2026/653/regulation/13) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-a8ffdcba398ec4254d6932f3fa07fc5b]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/4/1) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2026/653/regulation/13) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-d560408db3316b0d580359d37358bfb5]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2025/502/regulation/4A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2026/653/regulation/14) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-d560408db3316b0d580359d37358bfb5]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2025/502/regulation/4A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2026/653/regulation/14) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-d4e537039b72b36fee83ab01f62cda0f]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2025/502/part/1A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2026/653/regulation/15) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-d4e537039b72b36fee83ab01f62cda0f]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2025/502/part/1A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2026/653/regulation/15) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-7dd89e36c2b51893d11b9c83536d830c]: Commencement: Reg. 5 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-7dd89e36c2b51893d11b9c83536d830c]: Commencement: Reg. 5 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-07c992be248a4d5be96709fcd8afc614]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/502/regulation/5) renumbered as reg. 5(1) (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/16/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-07c992be248a4d5be96709fcd8afc614]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/502/regulation/5) renumbered as reg. 5(1) (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2026/653/regulation/16/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-dfffe9b818590779d05c2db61ed37f63]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/5/1/b) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2026/653/regulation/16/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-dfffe9b818590779d05c2db61ed37f63]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/5/1/b) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2026/653/regulation/16/3) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-84a493ac651e42fae4ec1d18c7bee2ff]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2025/502/regulation/5/2) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2026/653/regulation/16/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-84a493ac651e42fae4ec1d18c7bee2ff]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2025/502/regulation/5/2) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2026/653/regulation/16/4) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-6f26517b7d9676e96f52f30de41b5921]: Textual amendment: [Regs. 5A-5F](https://www.legislation.gov.uk/uksi/2025/502/regulation/5A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2026/653/regulation/17) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-6f26517b7d9676e96f52f30de41b5921]: Textual amendment: [Regs. 5A-5F](https://www.legislation.gov.uk/uksi/2025/502/regulation/5A) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2026/653/regulation/17) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-9f023b98731ff65c5dd2caab89fbb987]: Commencement: Reg. 6 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-9f023b98731ff65c5dd2caab89fbb987]: Commencement: Reg. 6 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-d84e7c83ffddc8b4bd0ec75899cd20fe]: Commencement: Reg. 7 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-d84e7c83ffddc8b4bd0ec75899cd20fe]: Commencement: Reg. 7 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-9dec6bcad5149902ad938b05335da7e7]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/502/regulation/7) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/653/regulation/18) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-9dec6bcad5149902ad938b05335da7e7]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/502/regulation/7) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/653/regulation/18) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-66a341d4c3d51889143d05e0e5c50011]: Commencement: Reg. 8 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-66a341d4c3d51889143d05e0e5c50011]: Commencement: Reg. 8 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-0a899c949bf7e84d5f2380b1dd9202ce]: Commencement: Reg. 9 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-0a899c949bf7e84d5f2380b1dd9202ce]: Commencement: Reg. 9 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-78687e8692bd1d47a4b808c83c80d616]: Commencement: Reg. 10 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-78687e8692bd1d47a4b808c83c80d616]: Commencement: Reg. 10 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-d1043f19d4cd8f537c83004ecd6bd799]: Commencement: Reg. 11 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-d1043f19d4cd8f537c83004ecd6bd799]: Commencement: Reg. 11 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-a6eebbdfcb9525e2b00ed36b7c51fbfc]: Textual amendment: [Reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/11/4/b) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2026/653/regulation/19) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-a6eebbdfcb9525e2b00ed36b7c51fbfc]: Textual amendment: [Reg. 11(4)(b)](https://www.legislation.gov.uk/uksi/2025/502/regulation/11/4/b) substituted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2026/653/regulation/19) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-9f66291eb399a361ccd16a60a9157d76]: Commencement: Reg. 12 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-9f66291eb399a361ccd16a60a9157d76]: Commencement: Reg. 12 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-3749caa639aa3494cf0211853f3d00e5]: Commencement: Reg. 13 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-3749caa639aa3494cf0211853f3d00e5]: Commencement: Reg. 13 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-c4473413e6cade32d72a1af849bfb5ef]: Textual amendment: Regs. 13, 13A substituted for reg. 13 (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2026/653/regulation/20) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-c4473413e6cade32d72a1af849bfb5ef]: Textual amendment: Regs. 13, 13A substituted for reg. 13 (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2026/653/regulation/20) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-53609e881854f601644b140f52b324d1]: Commencement: Reg. 14 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-53609e881854f601644b140f52b324d1]: Commencement: Reg. 14 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-7a49b7c145c18d4c7b319b1fe0174387]: Commencement: Reg. 15 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-7a49b7c145c18d4c7b319b1fe0174387]: Commencement: Reg. 15 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-9d490a1e95123fed40ee1e97c012c6a9]: Textual amendment: [Reg. 15(A1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/15/A1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2026/653/regulation/21) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-9d490a1e95123fed40ee1e97c012c6a9]: Textual amendment: [Reg. 15(A1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/15/A1) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2026/653/regulation/21) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
 
-[^key-52bf8066a330cbc5d6e1c639bace6faa]: Commencement: Reg. 16 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-52bf8066a330cbc5d6e1c639bace6faa]: Commencement: Reg. 16 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-4be06e317a0d2a48656ab3ade29d8ab6]: Commencement: Reg. 17 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-4be06e317a0d2a48656ab3ade29d8ab6]: Commencement: Reg. 17 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-4f2f6c41f24d716ed2b61f1ad18dd430]: Commencement: Reg. 18 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-4f2f6c41f24d716ed2b61f1ad18dd430]: Commencement: Reg. 18 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-4dd388f21c33998110ff0e5b33807d6f]: Commencement: Reg. 19 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-4dd388f21c33998110ff0e5b33807d6f]: Commencement: Reg. 19 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-fefb0461b8a623d2564900bc15e9b52d]: Commencement: Reg. 20 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-fefb0461b8a623d2564900bc15e9b52d]: Commencement: Reg. 20 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-91e3be7edc65c014f5a36beb7c62064c]: Commencement: Reg. 21 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-91e3be7edc65c014f5a36beb7c62064c]: Commencement: Reg. 21 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-9fc8d41f87d11b7a0588b1653831052e]: Commencement: Reg. 22 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-9fc8d41f87d11b7a0588b1653831052e]: Commencement: Reg. 22 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-52451dfde474f40b76f3ed53d5ac3348]: Commencement: Reg. 23 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-52451dfde474f40b76f3ed53d5ac3348]: Commencement: Reg. 23 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-2e97486dc189e55ce619526797b495c9]: Commencement: Reg. 24 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-2e97486dc189e55ce619526797b495c9]: Commencement: Reg. 24 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-d0fea2c63522f8eb463e83f0aa263547]: Commencement: Reg. 25 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-d0fea2c63522f8eb463e83f0aa263547]: Commencement: Reg. 25 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-a1907cd4b40be480ea5f0be0841d4627]: Commencement: Reg. 26 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-a1907cd4b40be480ea5f0be0841d4627]: Commencement: Reg. 26 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-abf549927c555d0e7472697738d2e007]: Commencement: Reg. 27 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-abf549927c555d0e7472697738d2e007]: Commencement: Reg. 27 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
 [^f00010]: Footnote: Paragraph 10(aa) was inserted by section 31(5)(a) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-919f84ae58cb5ce6277c457689ea0e85]: Commencement: Reg. 28 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-919f84ae58cb5ce6277c457689ea0e85]: Commencement: Reg. 28 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-5502a2b165410fd6e0b8f443dafc5955]: Commencement: Reg. 29 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-5502a2b165410fd6e0b8f443dafc5955]: Commencement: Reg. 29 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-b770380aa1a8626e011a501f4d4d45c8]: Commencement: Reg. 30 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-b770380aa1a8626e011a501f4d4d45c8]: Commencement: Reg. 30 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
-[^key-036363aa3a57df5a8fa549dd3504c1d2]: Commencement: Reg. 31 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
+[^c-036363aa3a57df5a8fa549dd3504c1d2]: Commencement: Reg. 31 in force at 14.5.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/502/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2020/1](https://www.legislation.gov.uk/uksi/2020/1), to which there are amendments not relevant to these Regulations.
 
-[^key-3d7226b7239d57e2ade68b9c4d292c15]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2025/502/schedule) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/653/schedule/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))
+[^c-3d7226b7239d57e2ade68b9c4d292c15]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2025/502/schedule) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/653/schedule/2) (with [reg. 28](https://www.legislation.gov.uk/uksi/2026/653/regulation/28))

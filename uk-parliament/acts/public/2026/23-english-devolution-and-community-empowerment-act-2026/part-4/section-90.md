@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Local audit providers: registration and public provision[^key-c36904b5f9ca99410418c07ef0520787]
+## 90. Local audit providers: registration and public provision[^c-c36904b5f9ca99410418c07ef0520787]
 
 *Extent: E+W*
 
@@ -113,4 +113,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c36904b5f9ca99410418c07ef0520787]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-c36904b5f9ca99410418c07ef0520787]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

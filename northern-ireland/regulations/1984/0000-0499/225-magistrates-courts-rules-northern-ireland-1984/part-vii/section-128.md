@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Proceedings under Article 107 \[committal for default\] of the Judgments Enforcement (Northern Ireland) Order 1981 where no instalment order has been made by the Enforcement of Judgments Office under Article 30 of that Order shall be commenced by a process (in these Rules referred to as an “**enforcement process**”) requiring the debtor to appear personally on the date therein specified before a court of summary jurisdiction [^key-70c572b3a5f2e3b5266ed3e650028b5f]....
+(1) Proceedings under Article 107 \[committal for default\] of the Judgments Enforcement (Northern Ireland) Order 1981 where no instalment order has been made by the Enforcement of Judgments Office under Article 30 of that Order shall be commenced by a process (in these Rules referred to as an “**enforcement process**”) requiring the debtor to appear personally on the date therein specified before a court of summary jurisdiction [^c-70c572b3a5f2e3b5266ed3e650028b5f]....
 
 (2) On the hearing of an enforcement process the court may make—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70c572b3a5f2e3b5266ed3e650028b5f]: Textual amendment: Words in [rule 128(1)](https://www.legislation.gov.uk/nisr/1984/225/rule/128/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(29)](https://www.legislation.gov.uk/nisr/2016/304/article/3/29); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-70c572b3a5f2e3b5266ed3e650028b5f]: Textual amendment: Words in [rule 128(1)](https://www.legislation.gov.uk/nisr/1984/225/rule/128/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(29)](https://www.legislation.gov.uk/nisr/2016/304/article/3/29); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

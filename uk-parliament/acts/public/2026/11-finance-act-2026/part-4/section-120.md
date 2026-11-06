@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^M_I_91e59cf0-3c10-4799-e4bc-98a63342bbf5][^key-b4669bdb4078214a9afee1393accca7f] A vaping product must be stamped in accordance with regulations made under this Part and section 45 of TCTA 2018.
+(1)[^M_I_91e59cf0-3c10-4799-e4bc-98a63342bbf5][^c-b4669bdb4078214a9afee1393accca7f] A vaping product must be stamped in accordance with regulations made under this Part and section 45 of TCTA 2018.
 
 (2) For the purposes of this Part, a vaping product is stamped if a duty stamp is affixed to—
 
@@ -44,4 +44,4 @@ and a reference to a stamp being affixed to a vaping product includes a referenc
 
 [^M_I_91e59cf0-3c10-4799-e4bc-98a63342bbf5]: Commencement: S. 120(1) not in force at Royal Assent, see [s. 141(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/141/3)
 
-[^key-b4669bdb4078214a9afee1393accca7f]: Commencement: [S. 120(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/120/1) in force at 1.4.2026 by [S.I. 2026/331](https://www.legislation.gov.uk/uksi/2026/331), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/331/regulation/2/b)
+[^c-b4669bdb4078214a9afee1393accca7f]: Commencement: [S. 120(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/120/1) in force at 1.4.2026 by [S.I. 2026/331](https://www.legislation.gov.uk/uksi/2026/331), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/331/regulation/2/b)

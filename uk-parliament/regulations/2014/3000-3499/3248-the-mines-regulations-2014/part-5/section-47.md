@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Personal lamps[^key-a0b74ad4fbf45f2b1fc5a8284db1bd14]
+## 47. Personal lamps[^c-a0b74ad4fbf45f2b1fc5a8284db1bd14]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The mine operator must—
 
 ## Annotations
 
-[^key-a0b74ad4fbf45f2b1fc5a8284db1bd14]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/3248/regulation/47) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-a0b74ad4fbf45f2b1fc5a8284db1bd14]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/3248/regulation/47) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

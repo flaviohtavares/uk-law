@@ -82,7 +82,7 @@ Proposals in respect of these Regulations were not referred to the Social Securi
 (4) In the Schedule (broad rental market area determinations and local housing allowance determinations)—
 
 - (a) in paragraph 1(1) [^c21232381] (categories of dwelling) for “regulation 3(2)(a)” substitute “ regulation 3(2) ”; and
-- (b)[^key-626dc8992d984dbd460d138d456edbc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-626dc8992d984dbd460d138d456edbc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Social Development on 30th March 2012
 
@@ -118,4 +118,4 @@ Regulation 2(4) amends the Schedule. Regulation 2(4)(a) makes an amendment conse
 
 [^c21232381]: Marginal citation: To which there is an amendment not relevant to these Regulations
 
-[^key-626dc8992d984dbd460d138d456edbc9]: Textual amendment: [Reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2012/157/regulation/2/4/b) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)
+[^c-626dc8992d984dbd460d138d456edbc9]: Textual amendment: [Reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2012/157/regulation/2/4/b) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)

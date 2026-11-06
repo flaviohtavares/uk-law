@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Provision that may be made by byelaw[^key-88658f3fca2f7d5d02f6ca12035b65ea]
+## 156. Provision that may be made by byelaw[^c-88658f3fca2f7d5d02f6ca12035b65ea]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88658f3fca2f7d5d02f6ca12035b65ea]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2009/23/section/156) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
+[^c-88658f3fca2f7d5d02f6ca12035b65ea]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2009/23/section/156) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)

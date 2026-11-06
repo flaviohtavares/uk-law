@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90B. The Crown Estate[^key-314835923e358777c3fab0117beb94cf]
+## 90B. The Crown Estate[^c-314835923e358777c3fab0117beb94cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-314835923e358777c3fab0117beb94cf]: Textual amendment: S. 90B and cross-heading inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/1), [72(1)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/b)
+[^c-314835923e358777c3fab0117beb94cf]: Textual amendment: S. 90B and cross-heading inserted (23.3.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/36/1), [72(1)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/1/b)

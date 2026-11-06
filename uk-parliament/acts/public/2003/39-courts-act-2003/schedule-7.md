@@ -75,7 +75,7 @@ Section 99
 
 **4.** (1) This paragraph applies in relation to writs directed to one or more enforcement officers under paragraph 3 and warrants issued to one or more enforcement officers under an enactment mentioned in paragraph 3A(1)(a) or (b)[^c19550031] .
 
-(1A)[^key-1a7e38393f14f6b1af2487076622e601] But it is subject to Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 in the case of a writ conferring power to use the procedure in that Schedule.
+(1A)[^c-1a7e38393f14f6b1af2487076622e601] But it is subject to Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 in the case of a writ conferring power to use the procedure in that Schedule.
 
 (2) The relevant officer has, in relation to the writ, the duties, powers, rights, privileges and liabilities that a sheriff of a county would have had at common law if—
 
@@ -102,7 +102,7 @@ Section 99
 
 #### Constable’s duty to assist enforcement officers
 
-**5.**[^key-d42689a51bfb299d1bfe54bfb18d3598] It is the duty of every constable, at the request of—
+**5.**[^c-d42689a51bfb299d1bfe54bfb18d3598] It is the duty of every constable, at the request of—
 
 - (a) an enforcement officer, or
 - (b) a person acting under the officer’s authority,
@@ -113,7 +113,7 @@ to assist the officer or that person in the execution of a writ or warrant[^c195
 
 #### Application of paragraphs 7 to 11
 
-**6.**[^key-af4190f8d99531f90f1b2596b508f4ba] (1) Paragraph 7 applies to any writ of execution against goods which is issued from the High Court.
+**6.**[^c-af4190f8d99531f90f1b2596b508f4ba] (1) Paragraph 7 applies to any writ of execution against goods which is issued from the High Court.
 
 (2) Paragraphs 8 to 11—
 
@@ -147,10 +147,10 @@ had been received by the person who was under a duty to endorse it but had not b
 
 (4) Sub-paragraph (2) does not apply if the person acquiring goods of the execution debtor had notice, at the time of the acquisition, that—
 
-- (a) an application for the issue of a warrant of execution against the goods of the execution debtor had been made to the [^key-909e8f506a703b78fedd46a1deded4dd]... county court, and
-- (b) the warrant issued on the application remained unexecuted in the hands of a person charged with its execution.[^key-164de4c1dbbbe82d950745b918c8a39b]
+- (a) an application for the issue of a warrant of execution against the goods of the execution debtor had been made to the [^c-909e8f506a703b78fedd46a1deded4dd]... county court, and
+- (b) the warrant issued on the application remained unexecuted in the hands of a person charged with its execution.[^c-164de4c1dbbbe82d950745b918c8a39b]
 
-(5)[^key-4d41f4e5dbb40d575eb986ff41c54279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4d41f4e5dbb40d575eb986ff41c54279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For the purposes of sub-paragraph (2) a thing shall be treated as done in good faith if it is in fact done honestly (whether it is done negligently or not).
 
@@ -236,7 +236,7 @@ had been received by the person who was under a duty to endorse it but had not b
 - (b) the Master of the Rolls,
 - (ba)[^c19173911] the President of the Queen's Bench Division,
 - (c) the President of the Family Division,
-- (d) the President of the Business and Property Division[^key-32f9564a354cb069e056016ac48ebb24], and
+- (d) the President of the Business and Property Division[^c-32f9564a354cb069e056016ac48ebb24], and
 - (e) the Head of Civil Justice.
 
 ## Annotations
@@ -249,7 +249,7 @@ had been received by the person who was under a duty to endorse it but had not b
 
 [^c19550031]: Textual amendment: Words in Sch. 7 para. 4(1) inserted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 140(4)](https://www.legislation.gov.uk/ukpga/2007/15/section/140/4), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/a)
 
-[^key-1a7e38393f14f6b1af2487076622e601]: Textual amendment: [Sch. 7 para. 4(1A)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/4/1A) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 151(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/151/2) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-1a7e38393f14f6b1af2487076622e601]: Textual amendment: [Sch. 7 para. 4(1A)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/4/1A) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 151(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/151/2) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c19550051]: Textual amendment: Sch. 7 para. 4(2A) inserted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 140(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/140/5), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/a)
 
@@ -257,20 +257,20 @@ had been received by the person who was under a duty to endorse it but had not b
 
 [^c19550421]: Textual amendment: Sch. 7 para. 4(4) substituted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 140(7)](https://www.legislation.gov.uk/ukpga/2007/15/section/140/7), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/a)
 
-[^key-d42689a51bfb299d1bfe54bfb18d3598]: Modification: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/5) applied (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [arts. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [10(7)](https://www.legislation.gov.uk/uksi/2022/853/article/10/7) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
+[^c-d42689a51bfb299d1bfe54bfb18d3598]: Modification: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/5) applied (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [arts. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [10(7)](https://www.legislation.gov.uk/uksi/2022/853/article/10/7) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
 
 [^c19550541]: Textual amendment: Words in [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/5) inserted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 140(8)](https://www.legislation.gov.uk/ukpga/2007/15/section/140/8), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/a)
 
-[^key-af4190f8d99531f90f1b2596b508f4ba]: Textual amendment: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/6) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 151(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/151/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-af4190f8d99531f90f1b2596b508f4ba]: Textual amendment: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/6) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 151(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/151/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-909e8f506a703b78fedd46a1deded4dd]: Textual amendment: Words in [Sch. 7 para. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/8/4/a) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 40(d)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/40/d/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-909e8f506a703b78fedd46a1deded4dd]: Textual amendment: Words in [Sch. 7 para. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/8/4/a) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 40(d)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/40/d/i); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-164de4c1dbbbe82d950745b918c8a39b]: Textual amendment: Words in [Sch. 7 para. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/8/4/b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 40(d)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/40/d/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-164de4c1dbbbe82d950745b918c8a39b]: Textual amendment: Words in [Sch. 7 para. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/8/4/b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 40(d)(ii)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/40/d/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-4d41f4e5dbb40d575eb986ff41c54279]: Textual amendment: Sch. 7 para. 8(5) repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 151(4)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/151/4), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-4d41f4e5dbb40d575eb986ff41c54279]: Textual amendment: Sch. 7 para. 8(5) repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 151(4)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/151/4), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c19550591]: Textual amendment: Words in [Sch. 7 para. 12(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/12/2/d/ii) inserted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), ss. {140(9)}, 148(5); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/a)
 
 [^c19173911]: Textual amendment: [Sch. 7 para. 12(4)(ba)-(d)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/12/4/ba) substituted (1.10.2005) for Sch. 7 para. 12(4)(c)(d) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 351](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/351); [S.I. 2005/2505](https://www.legislation.gov.uk/uksi/2005/2505), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2505/article/2/c)
 
-[^key-32f9564a354cb069e056016ac48ebb24]: Textual amendment: Words in [Sch. 7 para. 12(4)(d)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/12/4/d) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 22(2)(e)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/22/2/e)
+[^c-32f9564a354cb069e056016ac48ebb24]: Textual amendment: Words in [Sch. 7 para. 12(4)(d)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/7/paragraph/12/4/d) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 22(2)(e)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/22/2/e)

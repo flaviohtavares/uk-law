@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Fitness of licensees[^key-f18623c4d56ede3f8784137d89d77142]
+## 167. Fitness of licensees[^c-f18623c4d56ede3f8784137d89d77142]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f18623c4d56ede3f8784137d89d77142]: Commencement: Art. 167 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f18623c4d56ede3f8784137d89d77142]: Commencement: Art. 167 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

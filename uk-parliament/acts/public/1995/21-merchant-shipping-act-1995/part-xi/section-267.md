@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Investigation of marine accidents.[^c14528431][^key-0a80c20a0e4b870a16358c0cddcd9c3b][^key-d70b9e759822e99461d3a2b36e3747a4][^key-87dd718509818fa6f861bea4ccfcb51f]
+## 267. Investigation of marine accidents.[^c14528431][^c-0a80c20a0e4b870a16358c0cddcd9c3b][^c-d70b9e759822e99461d3a2b36e3747a4][^c-87dd718509818fa6f861bea4ccfcb51f]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,8 +70,8 @@ whether actually occurring or not, and (subject to such modifications as may be 
 
 [^c14528431]: Modification: S. 267 applied (with modifications) (1.9.2002) by [S.I. 2002/1587](https://www.legislation.gov.uk/uksi/2002/1587), [reg. 17(2)](https://www.legislation.gov.uk/uksi/2002/1587/regulation/17/2), (with reg. 3)
 
-[^key-0a80c20a0e4b870a16358c0cddcd9c3b]: Modification: [Ss. 267-270](https://www.legislation.gov.uk/ukpga/1995/21/section/267) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 2](https://www.legislation.gov.uk/uksi/1989/1350/article/2) (as substituted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/2))
+[^c-0a80c20a0e4b870a16358c0cddcd9c3b]: Modification: [Ss. 267-270](https://www.legislation.gov.uk/ukpga/1995/21/section/267) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 2](https://www.legislation.gov.uk/uksi/1989/1350/article/2) (as substituted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/2))
 
-[^key-d70b9e759822e99461d3a2b36e3747a4]: Modification: [S. 267](https://www.legislation.gov.uk/ukpga/1995/21/section/267) applied (with modifications) (17.4.2026) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [art. 10A](https://www.legislation.gov.uk/uksi/2023/35/article/10A) (as inserted by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [4](https://www.legislation.gov.uk/uksi/2026/348/article/4))
+[^c-d70b9e759822e99461d3a2b36e3747a4]: Modification: [S. 267](https://www.legislation.gov.uk/ukpga/1995/21/section/267) applied (with modifications) (17.4.2026) by [S.I. 2023/35](https://www.legislation.gov.uk/uksi/2023/35), [art. 10A](https://www.legislation.gov.uk/uksi/2023/35/article/10A) (as inserted by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [4](https://www.legislation.gov.uk/uksi/2026/348/article/4))
 
-[^key-87dd718509818fa6f861bea4ccfcb51f]: Modification: [S. 267](https://www.legislation.gov.uk/ukpga/1995/21/section/267) modified (15.5.2026) by [The Merchant Shipping (Accident Reporting and Investigation) Regulations 2026 (S.I. 2026/430)](https://www.legislation.gov.uk/uksi/2026/430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/430/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/430/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/430/regulation/4))
+[^c-87dd718509818fa6f861bea4ccfcb51f]: Modification: [S. 267](https://www.legislation.gov.uk/ukpga/1995/21/section/267) modified (15.5.2026) by [The Merchant Shipping (Accident Reporting and Investigation) Regulations 2026 (S.I. 2026/430)](https://www.legislation.gov.uk/uksi/2026/430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/430/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/430/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/430/regulation/4))

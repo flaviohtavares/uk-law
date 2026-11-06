@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Regulation (EU) 2019/787 of the European Parliament and of the Council[^key-0ecaf2f55781a67f3fce1f9c2cc22bb1]
+## 28. Regulation (EU) 2019/787 of the European Parliament and of the Council[^c-0ecaf2f55781a67f3fce1f9c2cc22bb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -495,7 +495,7 @@ summary: ''
 
 > **Article 46 — Regulations**
 >
-> **1.[^key-d7d5106a9e06979d80f943790a1f133e]**
+> **1.[^c-d7d5106a9e06979d80f943790a1f133e]**
 >
 > Regulations made under this Regulation are to be made by statutory instrument.
 >
@@ -547,7 +547,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0ecaf2f55781a67f3fce1f9c2cc22bb1]: Commencement: Reg. 28 in force at 31.12.2020, see reg. 1(7)
+[^c-0ecaf2f55781a67f3fce1f9c2cc22bb1]: Commencement: Reg. 28 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414571]: Marginal citation: Points (8) to (12) of Article 3 of Regulation (EU) 2019/787 of the European Parliament and of the Council (OJ No. L 130, 17.5.2019, p. 1), as that Article stands immediately before IP completion day, do not form part of domestic law because those points were not operative immediately before IP completion day so are not provisions of EU law to which section 3 of the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) applies.
 
@@ -559,4 +559,4 @@ summary: ''
 
 [^c24414611]: Marginal citation: The Commissioners for Her Majesty's Revenue and Customs are designated as the authority responsible for the purpose of verifying compliance with product specifications pursuant to Article 38 of Regulation (EU) 2019/787 of the European Parliament and of the Council (OJ No. L 130, 17.5.2019, p. 1) in relation to products produced in Northern Ireland by regulation 5 of the Spirit Drinks Regulations 2008 as that regulation extends to Northern Ireland ([S.I. 2018/3206](https://www.legislation.gov.uk/uksi/2018/3206) as amended by [S.I. 2019/1289](https://www.legislation.gov.uk/uksi/2019/1289) and regulation 13 of this instrument).
 
-[^key-d7d5106a9e06979d80f943790a1f133e]: Textual amendment: Words in [reg. 28(40)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/28/40) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(6)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/6)
+[^c-d7d5106a9e06979d80f943790a1f133e]: Textual amendment: Words in [reg. 28(40)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/28/40) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(6)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/6)

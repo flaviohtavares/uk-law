@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Notional income – deprivation and income on application[^key-8cf89f23dc8c864c0a91c1a0feb9621d]
+## 106. Notional income – deprivation and income on application[^c-8cf89f23dc8c864c0a91c1a0feb9621d]
 
 *Extent: N.I.*
 
@@ -30,14 +30,14 @@ summary: ''
 - (d) a jobseeker’s allowance;
 - (e) working tax credit;
 - (f) child tax credit;
-- (g) a personal pension scheme, occupational pension scheme or a payment made by the Board of the Pension Protection Fund where the claimant has not attained the qualifying age for state pension credit[^key-fd80d03e597f04a5274f572afe43f28c] ; or
-- (ga)[^key-4fb07b9837ad2d9fa221406857fe3824] any sum to which paragraph (9) applies;
-- (gb)[^key-bf865229564f0c8a80f77c248c232761] any sum to which regulation 137(4A) (treatment of student loans) applies;
+- (g) a personal pension scheme, occupational pension scheme or a payment made by the Board of the Pension Protection Fund where the claimant has not attained the qualifying age for state pension credit[^c-fd80d03e597f04a5274f572afe43f28c] ; or
+- (ga)[^c-4fb07b9837ad2d9fa221406857fe3824] any sum to which paragraph (9) applies;
+- (gb)[^c-bf865229564f0c8a80f77c248c232761] any sum to which regulation 137(4A) (treatment of student loans) applies;
 - (h) any sum to which paragraph 42(2)(a) of Schedule 9 (capital to be disregarded) applies which is administered in the way referred to in paragraph 42(1)(a) of that Schedule,
 
 income which would become available to the claimant upon application being made but which has not been acquired by the claimant is to be treated as possessed by the claimant but only from the date on which it could be expected to be acquired were an application made.
 
-(3) A claimant who has attained the qualifying age for state pension credit[^key-860434cee486df91c69a2c8ceefe37e0] is to be treated as possessing—
+(3) A claimant who has attained the qualifying age for state pension credit[^c-860434cee486df91c69a2c8ceefe37e0] is to be treated as possessing—
 
 - (a) the amount of any income from an occupational pension scheme, a personal pension scheme or the Board of the Pension Protection Fund—
   - (i) for which no claim has been made, and
@@ -46,7 +46,7 @@ income which would become available to the claimant upon application being made 
 
 but only from the date on which it could be expected to be acquired were an application for it to be made.
 
-(4) This paragraph applies where a claimant who has attained the qualifying age for state pension credit[^key-fedfc7db1df6b3fbd53a69fbdcf6d3fc] —
+(4) This paragraph applies where a claimant who has attained the qualifying age for state pension credit[^c-fedfc7db1df6b3fbd53a69fbdcf6d3fc] —
 
 - (a) is entitled to money purchase benefits under an occupational pension scheme or a personal pension scheme;
 - (b) fails to purchase an annuity with the funds available in that scheme; and
@@ -57,34 +57,34 @@ but only from the date on which it could be expected to be acquired were an appl
 
 (5) Where paragraph (4) applies, the amount of any income foregone is to be treated as possessed by that claimant, but only from the date on which it could be expected to be acquired were an application for it to be made.
 
-(6) The amount of any income foregone in a case where paragraph (4)(c)(i) or (ii) applies is to be the rate of the annuity which may have been purchased with the fund[^key-9e597fde2e0032c26ad8734f6d20b5a1] and is to be determined by the Department which shall take account of information provided by the pension fund holder in accordance with regulation 7(5) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00103].
+(6) The amount of any income foregone in a case where paragraph (4)(c)(i) or (ii) applies is to be the rate of the annuity which may have been purchased with the fund[^c-9e597fde2e0032c26ad8734f6d20b5a1] and is to be determined by the Department which shall take account of information provided by the pension fund holder in accordance with regulation 7(5) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00103].
 
 (7) The amount of any income foregone in a case where paragraph (4)(c)(iii) applies is to be the income that the claimant could have received without purchasing an annuity had the funds held under the relevant occupational or personal pension scheme been held under a scheme where income withdrawal was available and is to be determined in the manner specified in paragraph (6).
 
 (8) In paragraph (4), “money purchase benefits” has the meaning given by section 176(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00104].
 
-(9)[^key-65280b30fac488df0322b0c4924dfe98] Paragraphs (1) and (2) do not apply in respect of any amount of income other than earnings, or earnings derived from employment as an employed earner, arising out of the claimant participating as a service user[^key-04b45e464127d8fcb407f94a7d250172] .
+(9)[^c-65280b30fac488df0322b0c4924dfe98] Paragraphs (1) and (2) do not apply in respect of any amount of income other than earnings, or earnings derived from employment as an employed earner, arising out of the claimant participating as a service user[^c-04b45e464127d8fcb407f94a7d250172] .
 
 ## Annotations
 
-[^key-8cf89f23dc8c864c0a91c1a0feb9621d]: Commencement: [Reg. 106](https://www.legislation.gov.uk/nisr/2008/280/regulation/106) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-8cf89f23dc8c864c0a91c1a0feb9621d]: Commencement: [Reg. 106](https://www.legislation.gov.uk/nisr/2008/280/regulation/106) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-fd80d03e597f04a5274f572afe43f28c]: Textual amendment: Words in [reg. 106(2)(g)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/2/g) substituted (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [10(4)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/10/4/a)
+[^c-fd80d03e597f04a5274f572afe43f28c]: Textual amendment: Words in [reg. 106(2)(g)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/2/g) substituted (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [10(4)(a)](https://www.legislation.gov.uk/nisr/2010/69/regulation/10/4/a)
 
-[^key-4fb07b9837ad2d9fa221406857fe3824]: Textual amendment: [Reg. 106(2)(ga)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/2/ga) inserted (coming into force in accordance with reg. 1(2)(d) of the amending Rule) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [reg. 8(8)(a)](https://www.legislation.gov.uk/nisr/2009/338/regulation/8/8/a)
+[^c-4fb07b9837ad2d9fa221406857fe3824]: Textual amendment: [Reg. 106(2)(ga)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/2/ga) inserted (coming into force in accordance with reg. 1(2)(d) of the amending Rule) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [reg. 8(8)(a)](https://www.legislation.gov.uk/nisr/2009/338/regulation/8/8/a)
 
-[^key-bf865229564f0c8a80f77c248c232761]: Textual amendment: [Reg. 106(2)(gb)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/2/gb) inserted (1.11.2010) by [The Social Security (Miscellaneous Amendments No. 6) Regulations (Northern Ireland) 2010 (S.R. 2010/345)](https://www.legislation.gov.uk/nisr/2010/345), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/345/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2010/345/regulation/6/2)
+[^c-bf865229564f0c8a80f77c248c232761]: Textual amendment: [Reg. 106(2)(gb)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/2/gb) inserted (1.11.2010) by [The Social Security (Miscellaneous Amendments No. 6) Regulations (Northern Ireland) 2010 (S.R. 2010/345)](https://www.legislation.gov.uk/nisr/2010/345), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/345/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2010/345/regulation/6/2)
 
-[^key-860434cee486df91c69a2c8ceefe37e0]: Textual amendment: Words in [reg. 106(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/3) substituted (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [10(4)(b)](https://www.legislation.gov.uk/nisr/2010/69/regulation/10/4/b)
+[^c-860434cee486df91c69a2c8ceefe37e0]: Textual amendment: Words in [reg. 106(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/3) substituted (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [10(4)(b)](https://www.legislation.gov.uk/nisr/2010/69/regulation/10/4/b)
 
-[^key-fedfc7db1df6b3fbd53a69fbdcf6d3fc]: Textual amendment: Words in [reg. 106(4)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/4) substituted (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [10(4)(c)](https://www.legislation.gov.uk/nisr/2010/69/regulation/10/4/c)
+[^c-fedfc7db1df6b3fbd53a69fbdcf6d3fc]: Textual amendment: Words in [reg. 106(4)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/4) substituted (6.4.2010) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2010 (S.R. 2010/69)](https://www.legislation.gov.uk/nisr/2010/69), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/69/regulation/1/1), [10(4)(c)](https://www.legislation.gov.uk/nisr/2010/69/regulation/10/4/c)
 
-[^key-9e597fde2e0032c26ad8734f6d20b5a1]: Textual amendment: Words in [reg. 106(6)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/6) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2017/218/regulation/13)
+[^c-9e597fde2e0032c26ad8734f6d20b5a1]: Textual amendment: Words in [reg. 106(6)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/6) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2017/218/regulation/13)
 
 [^f00103]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 7(5) was added by regulation 5(3) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
 
 [^f00104]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); the definition of “money purchase benefits” was amended by paragraph 19 of the Schedule to [S.R. 2005 No. 434](https://www.legislation.gov.uk/nisr/2005/434)
 
-[^key-65280b30fac488df0322b0c4924dfe98]: Textual amendment: [Reg. 106(9)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/9) added (coming into force in accordance with reg. 1(2)(d) of the amending Rule) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [reg. 8(8)(b)](https://www.legislation.gov.uk/nisr/2009/338/regulation/8/8/b)
+[^c-65280b30fac488df0322b0c4924dfe98]: Textual amendment: [Reg. 106(9)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/9) added (coming into force in accordance with reg. 1(2)(d) of the amending Rule) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [reg. 8(8)(b)](https://www.legislation.gov.uk/nisr/2009/338/regulation/8/8/b)
 
-[^key-04b45e464127d8fcb407f94a7d250172]: Textual amendment: Words in [reg. 106(9)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/9) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(25)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/25)
+[^c-04b45e464127d8fcb407f94a7d250172]: Textual amendment: Words in [reg. 106(9)](https://www.legislation.gov.uk/nisr/2008/280/regulation/106/9) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(25)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/25)

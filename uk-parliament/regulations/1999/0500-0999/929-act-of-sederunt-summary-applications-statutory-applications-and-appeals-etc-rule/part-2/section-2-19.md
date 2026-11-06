@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.19. Arrestment on dependence before service[^key-644f810176cb3e8a96264b184bdc8113]
+## 2.19. Arrestment on dependence before service[^c-644f810176cb3e8a96264b184bdc8113]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-644f810176cb3e8a96264b184bdc8113]: Commencement: Rule 2.19 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-644f810176cb3e8a96264b184bdc8113]: Commencement: Rule 2.19 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

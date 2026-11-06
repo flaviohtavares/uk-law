@@ -44,7 +44,7 @@ Coming into operation in accordance with Article 1(2) and (3)
 
 The Department for Social Development, in exercise of the powers conferred by section 255 of the Civil Partnership Act 2004[^f00001], and of all other powers enabling it in that behalf, having consulted such persons as it considers appropriate[^f00002], hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-f72619f46af99dca611e623aecb0a73a]
+## 1. Citation, commencement and interpretation[^c-f72619f46af99dca611e623aecb0a73a]
 
 (1) This Order may be cited as the Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order (Northern Ireland) 2005.
 
@@ -60,7 +60,7 @@ on 10th November 2005.
 
 (4) In this Order “the Pension Schemes Act” means the Pension Schemes (Northern Ireland) Act 1993[^f00006].
 
-## 2. Amendment of legislation[^key-712dd5902a130f230e3dd74fd9e298b4]
+## 2. Amendment of legislation[^c-712dd5902a130f230e3dd74fd9e298b4]
 
 (1) Schedule 1, which contains amendments of provisions of the Pension Schemes Act which relate to contracted-out occupational and appropriate personal pension schemes, extending those provisions to surviving civil partners, shall have effect.
 
@@ -78,15 +78,15 @@ Department for Social Development
 
 **Article 2(1)**
 
-**1.**[^key-7b160ee95b546371eb7d3b6990266de9] The Pension Schemes Act is amended in accordance with paragraphs 2 to 24.
+**1.**[^c-7b160ee95b546371eb7d3b6990266de9] The Pension Schemes Act is amended in accordance with paragraphs 2 to 24.
 
-**2.**[^key-839dd31e9d4eea7fa9ea288c9e2aedd8] In section 4(2) (meaning of “contracted-out employment”, “guaranteed minimum pension” and “minimum payment”), in the definition of “guaranteed minimum pension”, for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
+**2.**[^c-839dd31e9d4eea7fa9ea288c9e2aedd8] In section 4(2) (meaning of “contracted-out employment”, “guaranteed minimum pension” and “minimum payment”), in the definition of “guaranteed minimum pension”, for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
 
-**3.**[^key-9e4b8521a488ec1763085510ef8bed03] In section 8A(1) and (2)(b)[^f00007] (the statutory standard) for “widows or widowers” there shall be substituted “widows, widowers or surviving civil partners”.
+**3.**[^c-9e4b8521a488ec1763085510ef8bed03] In section 8A(1) and (2)(b)[^f00007] (the statutory standard) for “widows or widowers” there shall be substituted “widows, widowers or surviving civil partners”.
 
-**4.**[^key-02acc93f11874f67d02bb8b5163232be] In section 8B(4)[^f00008] (reference scheme) for “widows or widowers”, in each place where it occurs, there shall be substituted “widows, widowers or surviving civil partners”.
+**4.**[^c-02acc93f11874f67d02bb8b5163232be] In section 8B(4)[^f00008] (reference scheme) for “widows or widowers”, in each place where it occurs, there shall be substituted “widows, widowers or surviving civil partners”.
 
-**5.**[^key-7158a6e52c54cf41860bce9c3a2d09d6][^M_I_b2fa0116-5e9d-47ea-eb64-0b5f0d651fe9] In section 13 (minimum pensions for widows and widowers)—
+**5.**[^c-7158a6e52c54cf41860bce9c3a2d09d6][^M_I_b2fa0116-5e9d-47ea-eb64-0b5f0d651fe9] In section 13 (minimum pensions for widows and widowers)—
 
 - (a) in subsection (1) for “widow or widower”, in each place where it occurs, there shall be substituted “widow, widower or surviving civil partner”;
 - (b) in subsection (2), after paragraph (b) there shall be added the following paragraph—
@@ -124,23 +124,23 @@ Department for Social Development
 
   .
 
-**6.**[^key-f59f3735fd5c689b85c8459c2ab4d1d8] In section 15(5)(a)(i) and (ii) (discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
+**6.**[^c-f59f3735fd5c689b85c8459c2ab4d1d8] In section 15(5)(a)(i) and (ii) (discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-**7.**[^key-c52ec995811f90dca0c5b4f15e6b9f17] In section 16(6) (transfer of accrued rights) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
+**7.**[^c-c52ec995811f90dca0c5b4f15e6b9f17] In section 16(6) (transfer of accrued rights) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-**8.**[^key-4c593d1b97b196fadfbf0ba4231b9b19][^M_I_0a6e445d-15dd-4b97-e009-e5153ea0d065] In section 17(2) (commutation, surrender and forfeiture) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
+**8.**[^c-4c593d1b97b196fadfbf0ba4231b9b19][^M_I_0a6e445d-15dd-4b97-e009-e5153ea0d065] In section 17(2) (commutation, surrender and forfeiture) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
 
-**9.**[^key-d0a1fea5446cef204fe64da6f4ba740f] In section 19(3)(b) (securing of benefits)[^f00013] for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
+**9.**[^c-d0a1fea5446cef204fe64da6f4ba740f] In section 19(3)(b) (securing of benefits)[^f00013] for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-**10.**[^key-3eaf19208fb2abc0e060c3c7725569b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-3eaf19208fb2abc0e060c3c7725569b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-3eaf19208fb2abc0e060c3c7725569b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-3eaf19208fb2abc0e060c3c7725569b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-3eaf19208fb2abc0e060c3c7725569b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-3eaf19208fb2abc0e060c3c7725569b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a652ae6de156773198e150762f1632bf] In section 33(4)[^f00019] (alteration of rules of contracted-out schemes) after “widower” there shall be inserted “or surviving civil partner”.
+**13.**[^c-a652ae6de156773198e150762f1632bf] In section 33(4)[^f00019] (alteration of rules of contracted-out schemes) after “widower” there shall be inserted “or surviving civil partner”.
 
-**14.**[^key-a27c936132f518299937172ded4894cf] In section 34(2) (alteration of rules of appropriate schemes)—
+**14.**[^c-a27c936132f518299937172ded4894cf] In section 34(2) (alteration of rules of appropriate schemes)—
 
 - (a) after “apply” there shall be inserted “(a)”, and
 - (b) after “prescribed description” there shall be inserted—
@@ -151,34 +151,34 @@ Department for Social Development
 
   .
 
-**15.**[^key-e22f644c053f0eabee023736dab31500] In section 43[^f00020] (further provisions concerning entitlement to guaranteed minimum pensions for the purposes of section 42)—
+**15.**[^c-e22f644c053f0eabee023736dab31500] In section 43[^f00020] (further provisions concerning entitlement to guaranteed minimum pensions for the purposes of section 42)—
 
 - (a) in subsection (1) after “widower” there shall be inserted “or surviving civil partner”;
 - (b) in subsection (3)—
   - (i) for “widow or widower”, in each place where it occurs, there shall be substituted “widow, widower or surviving civil partner”, and
   - (ii) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
 
-**16.**[^key-e31964b9bd05d30bd30b9dc246f537ff] In section 44(2)(c)[^f00021] (reduced benefits where minimum payments or minimum contributions paid) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
+**16.**[^c-e31964b9bd05d30bd30b9dc246f537ff] In section 44(2)(c)[^f00021] (reduced benefits where minimum payments or minimum contributions paid) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-**17.**[^key-09551e18da48241d5960870790bee97a] In section 56(5)[^f00022] (effect of payment of premium on rights) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
+**17.**[^c-09551e18da48241d5960870790bee97a] In section 56(5)[^f00022] (effect of payment of premium on rights) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-**18.**[^key-792ce0f1ab14ca4b041007379ef7e2b6] In section 83 (general protection principle)—
+**18.**[^c-792ce0f1ab14ca4b041007379ef7e2b6] In section 83 (general protection principle)—
 
 - (a) in subsection (2)(c) for “widow or widower, the widow’s or, as the case may be, the widower's” there shall be substituted “widow, widower or surviving civil partner, the widow's, widower’s or surviving civil partner’s (as the case may be)”;
 - (b) in subsection (3) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”;
 - (c) in subsections (3)(a) and (4)(d) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
 
-**19.**[^key-9a37c36d30deb6b8da0c7ce6e78d8891] In section 84(1)(b) (the relevant sum) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
+**19.**[^c-9a37c36d30deb6b8da0c7ce6e78d8891] In section 84(1)(b) (the relevant sum) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-**20.**[^key-8212213b847e072322c2f077e4b2edd8] In section 85(1)(a) and (b) and (2)(b) (the appropriate addition) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
+**20.**[^c-8212213b847e072322c2f077e4b2edd8] In section 85(1)(a) and (b) and (2)(b) (the appropriate addition) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
 
-**21.**[^key-3e92123dc6696cb019e5c8bc3b007db2] In section 86(2)(a) and (b) (the later earnings addition) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
+**21.**[^c-3e92123dc6696cb019e5c8bc3b007db2] In section 86(2)(a) and (b) (the later earnings addition) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
 
-**22.**[^key-094f0d6ce9fad7a8284afce048ba6b0c] In section 105(1)(b) (annual increase of guaranteed minimum pensions) for “widows and widowers” there shall be substituted “widows, widowers and surviving civil partners”.
+**22.**[^c-094f0d6ce9fad7a8284afce048ba6b0c] In section 105(1)(b) (annual increase of guaranteed minimum pensions) for “widows and widowers” there shall be substituted “widows, widowers and surviving civil partners”.
 
-**23.**[^key-edd116de06328f84726041bc4c126ccc] In section 106(1)(b)[^f00023] (requirement as to resources for annual increase of guaranteed minimum pensions) for “widow or widower”, in each place where it occurs, there shall be substituted “widow, widower or surviving civil partner”.
+**23.**[^c-edd116de06328f84726041bc4c126ccc] In section 106(1)(b)[^f00023] (requirement as to resources for annual increase of guaranteed minimum pensions) for “widow or widower”, in each place where it occurs, there shall be substituted “widow, widower or surviving civil partner”.
 
-**24.**[^key-ecb2cbd0cda1364201a27794d7972555] (1) In section 165(1)(c)[^f00024] (determination of questions by Department) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
+**24.**[^c-ecb2cbd0cda1364201a27794d7972555] (1) In section 165(1)(c)[^f00024] (determination of questions by Department) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
 (2) The reference in sub-paragraph (1) to section 165 is a reference to that section as it has effect without the substitution made by paragraph 99 of Schedule 6 to the Social Security (Northern Ireland) Order 1998[^f00025].
 
@@ -188,11 +188,11 @@ Department for Social Development
 
 ### PART 1
 
-#### 1. Amendment of the Personal and Occupational Pension Schemes (Abatement of Benefit) Regulations[^key-e8ac352222b95c5176111c15eec69300]
+#### 1. Amendment of the Personal and Occupational Pension Schemes (Abatement of Benefit) Regulations[^c-e8ac352222b95c5176111c15eec69300]
 
 The Personal and Occupational Pension Schemes (Abatement of Benefit) Regulations (Northern Ireland) 1987[^f00026] are amended in accordance with paragraphs 2 and 3.
 
-#### 2.[^key-f430477120cb6b663417187775c0e7e6]
+#### 2.[^c-f430477120cb6b663417187775c0e7e6]
 
 In regulation 3[^f00027] (guaranteed minimum pension to which earner’s widow or widower is treated as entitled after minimum contributions have been paid)—
 
@@ -200,7 +200,7 @@ In regulation 3[^f00027] (guaranteed minimum pension to which earner’s widow o
 - (b) for “widow or widower”, in each place where it occurs, there shall be substituted “widow, widower or surviving civil partner”, and
 - (c) in paragraph (2) after “widower” there shall be inserted “or surviving civil partner”.
 
-#### 3.[^key-b0e2245c1c95d1fbbe3c54aa8beb8577]
+#### 3.[^c-b0e2245c1c95d1fbbe3c54aa8beb8577]
 
 In regulation 5[^f00028] (guaranteed minimum pension to which earner’s widow or widower is treated as entitled after minimum payments have been made)—
 
@@ -210,22 +210,22 @@ In regulation 5[^f00028] (guaranteed minimum pension to which earner’s widow o
 
 ### PART 2
 
-#### 4. Amendment of the Contracting-out (Protection of Pensions) Regulations[^key-47caf2ce884ac0a44388d87f75b5cdd8]
+#### 4. Amendment of the Contracting-out (Protection of Pensions) Regulations[^c-47caf2ce884ac0a44388d87f75b5cdd8]
 
 The Contracting-out (Protection of Pensions) Regulations (Northern Ireland) 1991[^f00029] are amended in accordance with paragraphs 5 to 8.
 
-#### 5.[^key-06ea459183aeacafc07300128785893c]
+#### 5.[^c-06ea459183aeacafc07300128785893c]
 
 In regulation 2(1) (hybrid benefits) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-#### 6.[^key-0aabe092c943953975201c9f35e3f473]
+#### 6.[^c-0aabe092c943953975201c9f35e3f473]
 
 In regulation 4[^f00030] (pensions for widows and widowers varied after commencement)—
 
 - (a) in the heading for “widows and widowers” there shall be substituted “widows, widowers and surviving civil partners”, and
 - (b) for “widow or widower”, in each place where it occurs, there shall be substituted “widow, widower or surviving civil partner”.
 
-#### 7.[^key-51905383aa6c9f296c745aa33501ec74]
+#### 7.[^c-51905383aa6c9f296c745aa33501ec74]
 
 In regulation 5[^f00031] (the relevant sum for widows and widowers)—
 
@@ -234,23 +234,23 @@ In regulation 5[^f00031] (the relevant sum for widows and widowers)—
   - (i) for “widow or widower” (in the first place where it occurs) there shall be substituted “widow, widower or surviving civil partner”, and
   - (ii) in sub-paragraph (a) after “widow or widower” there shall be inserted “or being then a civil partner of the surviving civil partner”.
 
-#### 8.[^key-fb5a67f15f81dbb56bfe032b94409d91]
+#### 8.[^c-fb5a67f15f81dbb56bfe032b94409d91]
 
 In regulation 8(1) (the later earnings addition) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
 ### PART 3
 
-#### 9. Amendment of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations[^key-8afdc2c838bc0e3088c6f74f5afa6169]
+#### 9. Amendment of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations[^c-8afdc2c838bc0e3088c6f74f5afa6169]
 
 In regulation 5(a) of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations (Northern Ireland) 1996[^f00032] (conditions on which appropriate policies of insurance may be commuted) for “his widow or her widower” there shall be substituted “the beneficiary’s widow, widower or surviving civil partner”.
 
 ### PART 4
 
-#### 10. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-8495ee83b30fb4e100520c4e2c049bbf]
+#### 10. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^c-8495ee83b30fb4e100520c4e2c049bbf]
 
 The Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 [^f00033] are amended in accordance with paragraphs 11 to 23.
 
-#### 11.[^key-88ea56dd021690f88535c6a4abada8e3]
+#### 11.[^c-88ea56dd021690f88535c6a4abada8e3]
 
 In regulation 1 (citation, commencement and interpretation) after paragraph (1) there shall be inserted the following paragraph—
 
@@ -258,15 +258,15 @@ In regulation 1 (citation, commencement and interpretation) after paragraph (1) 
 
 .
 
-#### 12.[^key-b20c3d43100b03e3e4ec28bc76fda558]
+#### 12.[^c-b20c3d43100b03e3e4ec28bc76fda558]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13.[^key-9d826c1b8bb036a3f2b7270440693c43]
+#### 13.[^c-9d826c1b8bb036a3f2b7270440693c43]
 
 In regulation 23(b) (requirements for meeting the statutory standard) for “widows or widowers”, in each place where it occurs, there shall be substituted “widows, widowers or surviving civil partners”.
 
-#### 14.[^key-1572036cb6531dedab5affbdf70bda17]
+#### 14.[^c-1572036cb6531dedab5affbdf70bda17]
 
 For regulation 26 (reference scheme: circumstances in which widows' or widowers' pensions need not be payable) there shall be substituted the following regulation—
 
@@ -290,61 +290,61 @@ For regulation 26 (reference scheme: circumstances in which widows' or widowers'
 
 .
 
-#### 15.[^key-226f12c0d87ed9cf5bf5fbf06e330e6b]
+#### 15.[^c-226f12c0d87ed9cf5bf5fbf06e330e6b]
 
 In regulation 45(3A)[^f00036] (approval of arrangements for schemes ceasing to be contracted-out) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-#### 16.[^key-0bc4004281db743a8d4e3f897bf3e9ca]
+#### 16.[^c-0bc4004281db743a8d4e3f897bf3e9ca]
 
 In regulation 50A[^f00037] (persons to be regarded as members) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
 
-#### 17.[^key-686d79bd12bb9d492db7c24cab258501]
+#### 17.[^c-686d79bd12bb9d492db7c24cab258501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18.[^key-686d79bd12bb9d492db7c24cab258501]
+#### 18.[^c-686d79bd12bb9d492db7c24cab258501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19.[^key-686d79bd12bb9d492db7c24cab258501]
+#### 19.[^c-686d79bd12bb9d492db7c24cab258501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20.[^key-686d79bd12bb9d492db7c24cab258501]
+#### 20.[^c-686d79bd12bb9d492db7c24cab258501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21.[^key-686d79bd12bb9d492db7c24cab258501]
+#### 21.[^c-686d79bd12bb9d492db7c24cab258501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22.[^key-686d79bd12bb9d492db7c24cab258501]
+#### 22.[^c-686d79bd12bb9d492db7c24cab258501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23.[^key-686d79bd12bb9d492db7c24cab258501]
+#### 23.[^c-686d79bd12bb9d492db7c24cab258501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 5
 
-#### 24. Amendment of the Protected Rights (Transfer Payment) Regulations[^key-1ddf507c2e37a2139f90409d4e91e271]
+#### 24. Amendment of the Protected Rights (Transfer Payment) Regulations[^c-1ddf507c2e37a2139f90409d4e91e271]
 
 In regulation 4(d) of the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^f00040] (transfer payments to salary related contracted-out schemes) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
 ### PART 6
 
-#### 25. Amendment of the Contracting-out (Transfer and Transfer Payment) Regulations[^key-35a4b5a2715bb8cf85624ec37b65f880]
+#### 25. Amendment of the Contracting-out (Transfer and Transfer Payment) Regulations[^c-35a4b5a2715bb8cf85624ec37b65f880]
 
 In paragraph 6(b) of Part III of Schedule 1 to the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996[^f00041] (further conditions for transfer of liability for the payment of a guaranteed minimum pension to, or in respect of, a person who has become entitled to it) for “his widow or her widower” there shall be substituted “the widow, widower or surviving civil partner of that person”.
 
 ### PART 7
 
-#### 26. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^key-8fb409537f469ccf0a47a8d4e4ba5f01]
+#### 26. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^c-8fb409537f469ccf0a47a8d4e4ba5f01]
 
 The Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1997[^f00042] are amended in accordance with paragraphs 27 to 35.
 
-#### 27.[^key-33a72d7ae02cc4ed11be603e7c110e2b]
+#### 27.[^c-33a72d7ae02cc4ed11be603e7c110e2b]
 
 In regulation 1(2) (citation, commencement and interpretation) after the definition of “child benefit” there shall be inserted the following definition—
 
@@ -352,7 +352,7 @@ In regulation 1(2) (citation, commencement and interpretation) after the definit
 
 .
 
-#### 28.[^key-ffd80b0581948c71f7c5fda8136c5fea]
+#### 28.[^c-ffd80b0581948c71f7c5fda8136c5fea]
 
 In regulation 4 (conditions applying to pensions and annuities which give effect to protected rights)—
 
@@ -361,7 +361,7 @@ In regulation 4 (conditions applying to pensions and annuities which give effect
   - (ii) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”, and
 - (b) in paragraph (9)(a) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-#### 29.[^key-a77254df2dfb80c723f4f0848a84a0d2]
+#### 29.[^c-a77254df2dfb80c723f4f0848a84a0d2]
 
 In regulation 5[^f00044] (circumstances in which and periods for which pension or annuity is to be paid to widow or widower after being paid to member)—
 
@@ -378,18 +378,18 @@ In regulation 5[^f00044] (circumstances in which and periods for which pension o
 
   .
 
-#### 30.[^key-bfec551e797932cd93d4b7a6f63577d1]
+#### 30.[^c-bfec551e797932cd93d4b7a6f63577d1]
 
 In regulation 6(c) (interim arrangements)—
 
 - (a) for “an unmarried member” there shall be substituted “a member who is neither married nor a civil partner”, and
 - (b) for “widow or widower”, in each place where it occurs, there shall be substituted “widow, widower or surviving civil partner”.
 
-#### 31.[^key-e26792f4f6cc2a4a3c30b3ae35fe393a]
+#### 31.[^c-e26792f4f6cc2a4a3c30b3ae35fe393a]
 
 In regulation 11(1)(b)[^f00045] (insurers that may provide protected rights by way of annuities) after “marital” there shall be inserted “or civil partnership”.
 
-#### 32.[^key-a4cc41831c0c7c112398a9d476b22c28]
+#### 32.[^c-a4cc41831c0c7c112398a9d476b22c28]
 
 In regulation 12[^f00046] (death of member before effect given to his protected rights)—
 
@@ -412,7 +412,7 @@ In regulation 12[^f00046] (death of member before effect given to his protected 
 
   .
 
-#### 33.[^key-11a878e1f1282fa80ceb2e80418b7757]
+#### 33.[^c-11a878e1f1282fa80ceb2e80418b7757]
 
 In regulation 13[^f00047] (death before effect given to protected rights: interim arrangements for widow or widower)—
 
@@ -420,33 +420,33 @@ In regulation 13[^f00047] (death before effect given to protected rights: interi
 - (b) in paragraph (1) for “widow or widower”, in each place where it occurs, there shall be substituted “widow, widower or surviving civil partner”, and
 - (c) in paragraph (2)(a)(ii) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-#### 34.[^key-eb3a177a7e247dbc749af746f92ac3cf]
+#### 34.[^c-eb3a177a7e247dbc749af746f92ac3cf]
 
 In regulation 14 (enforceable entitlement after death of member) after “widower” there shall be inserted “, surviving civil partner”.
 
-#### 35.[^key-4ac48c7db51bbbad7391b3e8b608f864]
+#### 35.[^c-4ac48c7db51bbbad7391b3e8b608f864]
 
 In regulation 15 (further requirements in respect of giving effect to protected rights) after “marital” there shall be inserted “or civil partnership”.
 
 ### PART 8
 
-#### 36. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations[^key-c6d0b27ec94e58ec54ad694cd1d9d521]
+#### 36. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations[^c-c6d0b27ec94e58ec54ad694cd1d9d521]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 9
 
-#### 37. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^key-bf418ed2ddd2e8efa1ba7e00a91d33f2]
+#### 37. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^c-bf418ed2ddd2e8efa1ba7e00a91d33f2]
 
 In regulation 6A of the Personal Pension Schemes (Appropriate Schemes) Regulations (Northern Ireland) 1997[^f00049] (provision of information for purposes of contracting-out) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
 ### PART 10
 
-#### 38. Amendment of the Occupational Pension Schemes (Discharge of Liability) Regulations[^key-ac6d31b729b8662dc6c81d03423224fd]
+#### 38. Amendment of the Occupational Pension Schemes (Discharge of Liability) Regulations[^c-ac6d31b729b8662dc6c81d03423224fd]
 
 The Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1997[^f00050] are amended in accordance with paragraphs 39 to 45.
 
-#### 39.[^key-6f9f364e8083ed179918af851ee04bbe]
+#### 39.[^c-6f9f364e8083ed179918af851ee04bbe]
 
 In regulation 1 (citation, commencement and interpretation), after paragraph (1) there shall be inserted the following paragraph—
 
@@ -454,29 +454,29 @@ In regulation 1 (citation, commencement and interpretation), after paragraph (1)
 
 .
 
-#### 40.[^key-c698cd447a2331e09b01900722b2fda1]
+#### 40.[^c-c698cd447a2331e09b01900722b2fda1]
 
 In regulation 3(a) (conditions on which policies of insurance and annuity contracts may be assigned or surrendered) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-#### 41.[^key-37170f65713ce64d59bd0fbc3131bdad]
+#### 41.[^c-37170f65713ce64d59bd0fbc3131bdad]
 
 In regulation 4 (conditions on which policies of insurance and annuity contracts may be commuted)—
 
 - (a) in paragraph (1)(a)(i) for “or widower” there shall be substituted “, widower or surviving civil partner”, and
 - (b) in paragraph (2) for “widow’s or widower's” there shall be substituted “widow's, widower’s or surviving civil partner's”.
 
-#### 42.[^key-70e65bc0077c4809839bfeb2b45938b8]
+#### 42.[^c-70e65bc0077c4809839bfeb2b45938b8]
 
 In regulation 6 (further conditions on which liability may be discharged)—
 
 - (a) in paragraph (2)(a) for “or widower” there shall be substituted “, widower or surviving civil partner”, and
 - (b) in paragraph (5) for “widow or widower”, in each place where it occurs, there shall be substituted “widow, widower or surviving civil partner”.
 
-#### 43.[^key-72af5dcdacc1af83795d9f164e064a78]
+#### 43.[^c-72af5dcdacc1af83795d9f164e064a78]
 
 In regulation 9(2) (circumstances in which liability to provide pensions under a relevant scheme may be discharged) for “widow or widower, or if there is no such widow or widower” there shall be substituted “widow, widower or surviving civil partner or, if there is no such person”.
 
-#### 44.[^key-0e298b8a612e139ddb9680f4027fcb86]
+#### 44.[^c-0e298b8a612e139ddb9680f4027fcb86]
 
 In regulation 11 (conditions on which liability to provide pensions under a relevant scheme may be discharged)—
 
@@ -504,7 +504,7 @@ In regulation 11 (conditions on which liability to provide pensions under a rele
 
   .
 
-#### 45.[^key-29817a9d062b0aaae2754b4f05537da4]
+#### 45.[^c-29817a9d062b0aaae2754b4f05537da4]
 
 In Schedule 1 (form of consent to arrangement for securing benefit) after “widower”, in each place where it occurs, there shall be inserted “/surviving civil partner”.
 
@@ -544,7 +544,7 @@ An assessment of the impact on business, charities or the voluntary sector of th
 
 [^f00002]: Footnote: *See* section 255(6) of the Civil Partnership Act 2004 for the requirement to consult
 
-[^key-f72619f46af99dca611e623aecb0a73a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/433/article/1) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-f72619f46af99dca611e623aecb0a73a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/433/article/1) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00003]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 17(1) was substituted by Article 261(1) of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
 
@@ -554,21 +554,21 @@ An assessment of the impact on business, charities or the voluntary sector of th
 
 [^f00006]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-712dd5902a130f230e3dd74fd9e298b4]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/433/article/2) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-712dd5902a130f230e3dd74fd9e298b4]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/433/article/2) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-7b160ee95b546371eb7d3b6990266de9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/1) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-7b160ee95b546371eb7d3b6990266de9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/1) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-839dd31e9d4eea7fa9ea288c9e2aedd8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/2) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-839dd31e9d4eea7fa9ea288c9e2aedd8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/2) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-9e4b8521a488ec1763085510ef8bed03]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/3) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-9e4b8521a488ec1763085510ef8bed03]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/3) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00007]: Footnote: Section 8A was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995
 
-[^key-02acc93f11874f67d02bb8b5163232be]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/4) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-02acc93f11874f67d02bb8b5163232be]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/4) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00008]: Footnote: Section 8B was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995 and amended by regulation 2 of [S.R. 1997 No. 162](https://www.legislation.gov.uk/nisr/1997/162)
 
-[^key-7158a6e52c54cf41860bce9c3a2d09d6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/5) in operation at 10.11.2005 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/433/article/1/2/a)
+[^c-7158a6e52c54cf41860bce9c3a2d09d6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/5) in operation at 10.11.2005 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/433/article/1/2/a)
 
 [^M_I_b2fa0116-5e9d-47ea-eb64-0b5f0d651fe9]: Commencement: Sch. 1 para. 5 in operation in so far as not already in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
@@ -580,176 +580,176 @@ An assessment of the impact on business, charities or the voluntary sector of th
 
 [^f00012]: Footnote: Subsection (8) is added by Article 261(2) of the Pensions (Northern Ireland) Order 2005
 
-[^key-f59f3735fd5c689b85c8459c2ab4d1d8]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/6) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-f59f3735fd5c689b85c8459c2ab4d1d8]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/6) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-c52ec995811f90dca0c5b4f15e6b9f17]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/7) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-c52ec995811f90dca0c5b4f15e6b9f17]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/7) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-4c593d1b97b196fadfbf0ba4231b9b19]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/8) in operation at 10.11.2005 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/433/article/1/2/a)
+[^c-4c593d1b97b196fadfbf0ba4231b9b19]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/8) in operation at 10.11.2005 for specified purposes, see [art. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/433/article/1/2/a)
 
 [^M_I_0a6e445d-15dd-4b97-e009-e5153ea0d065]: Commencement: Sch. 1 para. 8 in operation in so far as not already in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-d0a1fea5446cef204fe64da6f4ba740f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/9) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-d0a1fea5446cef204fe64da6f4ba740f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/9) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00013]: Footnote: *See* paragraph 24 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-3eaf19208fb2abc0e060c3c7725569b4]: Textual amendment: [Sch. 1 paras. 10-12](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/10) revoked (with effect in accordance with s. 19(5) of the amending Act) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6) (as amended by [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5), [Sch. 13 para. 77](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/77))
+[^c-3eaf19208fb2abc0e060c3c7725569b4]: Textual amendment: [Sch. 1 paras. 10-12](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/10) revoked (with effect in accordance with s. 19(5) of the amending Act) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6) (as amended by [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5), [Sch. 13 para. 77](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/77))
 
-[^key-a652ae6de156773198e150762f1632bf]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/13) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-a652ae6de156773198e150762f1632bf]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/13) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00019]: Footnote: Section 33 was substituted by paragraph 32 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-a27c936132f518299937172ded4894cf]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/14) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-a27c936132f518299937172ded4894cf]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/14) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-e22f644c053f0eabee023736dab31500]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/15) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-e22f644c053f0eabee023736dab31500]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/15) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00020]: Footnote: Subsection (1) was amended by section 18 of the State Pension Credit Act (Northern Ireland) [2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14) and by paragraph 55 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)); subsection (3) was amended by article 20 of the Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002 ([S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555))
 
-[^key-e31964b9bd05d30bd30b9dc246f537ff]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/16) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-e31964b9bd05d30bd30b9dc246f537ff]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/16) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00021]: Footnote: Section 44 ceased to have effect for minimum payments or minimum contributions paid from 6th April 1997 in consequence of Article 137(3) of the Pensions (Northern Ireland) Order 1995; subsection (2)(c) was amended by Article 137(2) of the Pensions (Northern Ireland) Order 1995
 
-[^key-09551e18da48241d5960870790bee97a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/17) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-09551e18da48241d5960870790bee97a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/17) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00022]: Footnote: Subsection (5) was amended by paragraph 46(c) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-792ce0f1ab14ca4b041007379ef7e2b6]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/18) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-792ce0f1ab14ca4b041007379ef7e2b6]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/18) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-9a37c36d30deb6b8da0c7ce6e78d8891]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/19) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-9a37c36d30deb6b8da0c7ce6e78d8891]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/19) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-8212213b847e072322c2f077e4b2edd8]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/20) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-8212213b847e072322c2f077e4b2edd8]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/20) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-3e92123dc6696cb019e5c8bc3b007db2]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/21) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-3e92123dc6696cb019e5c8bc3b007db2]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/21) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-094f0d6ce9fad7a8284afce048ba6b0c]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/22) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-094f0d6ce9fad7a8284afce048ba6b0c]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/22) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-edd116de06328f84726041bc4c126ccc]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/23) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-edd116de06328f84726041bc4c126ccc]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/23) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00023]: Footnote: Subsection (1) was amended by Article 53(4) of the Pensions (Northern Ireland) Order 1995
 
-[^key-ecb2cbd0cda1364201a27794d7972555]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/24) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-ecb2cbd0cda1364201a27794d7972555]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/24) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00024]: Footnote: Subsection (1)(c) was amended by article 21 of the Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002. *See* Article 15(1) of the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 
 [^f00025]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-e8ac352222b95c5176111c15eec69300]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/1) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-e8ac352222b95c5176111c15eec69300]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/1) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00026]: Footnote: [S.R. 1987 No. 291](https://www.legislation.gov.uk/nisr/1987/291), amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300) and [S.R. 1996 No. 95](https://www.legislation.gov.uk/nisr/1996/95)
 
-[^key-f430477120cb6b663417187775c0e7e6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/2) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-f430477120cb6b663417187775c0e7e6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/2) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00027]: Footnote: Regulation 3 was amended by paragraph 16 of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300) and regulation 4(2) of [S.R. 1996 No. 95](https://www.legislation.gov.uk/nisr/1996/95)
 
-[^key-b0e2245c1c95d1fbbe3c54aa8beb8577]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/3) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-b0e2245c1c95d1fbbe3c54aa8beb8577]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/3) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00028]: Footnote: Regulation 5 was amended by paragraph 16 of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300) and regulation 4(3) of [S.R. 1996 No. 95](https://www.legislation.gov.uk/nisr/1996/95)
 
-[^key-47caf2ce884ac0a44388d87f75b5cdd8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/4) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-47caf2ce884ac0a44388d87f75b5cdd8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/4) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00029]: Footnote: [S.R. 1991 No. 39](https://www.legislation.gov.uk/nisr/1991/39), amended by [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-06ea459183aeacafc07300128785893c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/5) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-06ea459183aeacafc07300128785893c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/5) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-0aabe092c943953975201c9f35e3f473]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/6) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-0aabe092c943953975201c9f35e3f473]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/6) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00030]: Footnote: Regulation 4(2) was amended by paragraph 28(5) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-51905383aa6c9f296c745aa33501ec74]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/7) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-51905383aa6c9f296c745aa33501ec74]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/7) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00031]: Footnote: Regulation 5(2) was amended by paragraph 28(6) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-fb5a67f15f81dbb56bfe032b94409d91]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/8) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-fb5a67f15f81dbb56bfe032b94409d91]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/8) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-8afdc2c838bc0e3088c6f74f5afa6169]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/9) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-8afdc2c838bc0e3088c6f74f5afa6169]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/9) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00032]: Footnote: [S.R. 1996 No. 94](https://www.legislation.gov.uk/nisr/1996/94), to which there are amendments not relevant to these Regulations
 
-[^key-8495ee83b30fb4e100520c4e2c049bbf]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/10) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-8495ee83b30fb4e100520c4e2c049bbf]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/10) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00033]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160), [S.R. 1997 No. 162](https://www.legislation.gov.uk/nisr/1997/162), [S.R. 1998 No. 208](https://www.legislation.gov.uk/nisr/1998/208), [S.R. 2000 No. 336](https://www.legislation.gov.uk/nisr/2000/336), [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109) and [S.I. 2002/681](https://www.legislation.gov.uk/uksi/2002/681). *See also* Schedule 2 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 
-[^key-88ea56dd021690f88535c6a4abada8e3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/11) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-88ea56dd021690f88535c6a4abada8e3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/11) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-b20c3d43100b03e3e4ec28bc76fda558]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/12) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-b20c3d43100b03e3e4ec28bc76fda558]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/12) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
 
-[^key-9d826c1b8bb036a3f2b7270440693c43]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/13) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-9d826c1b8bb036a3f2b7270440693c43]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/13) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-1572036cb6531dedab5affbdf70bda17]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/14) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-1572036cb6531dedab5affbdf70bda17]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/14) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00035]: Footnote: Section 8B was inserted by Article 133(5) of the Pensions (Northern Ireland) Order 1995 and amended by regulation 2 of [S.R. 1997 No. 162](https://www.legislation.gov.uk/nisr/1997/162)
 
-[^key-226f12c0d87ed9cf5bf5fbf06e330e6b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/15) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-226f12c0d87ed9cf5bf5fbf06e330e6b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/15) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00036]: Footnote: Paragraph (3A) was inserted by regulation 3(3) of [S.R. 1997 No. 162](https://www.legislation.gov.uk/nisr/1997/162)
 
-[^key-0bc4004281db743a8d4e3f897bf3e9ca]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/16) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-0bc4004281db743a8d4e3f897bf3e9ca]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/16) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00037]: Footnote: Regulation 50A was inserted by regulation 5 of [S.R. 1998 No. 208](https://www.legislation.gov.uk/nisr/1998/208)
 
-[^key-686d79bd12bb9d492db7c24cab258501]: Textual amendment: [Sch. 2 paras. 17-23](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/17) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-686d79bd12bb9d492db7c24cab258501]: Textual amendment: [Sch. 2 paras. 17-23](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/17) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
 
-[^key-1ddf507c2e37a2139f90409d4e91e271]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/24) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-1ddf507c2e37a2139f90409d4e91e271]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/24) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00040]: Footnote: [S.R. 1996 No. 509](https://www.legislation.gov.uk/nisr/1996/509), to which there are amendments not relevant to these Regulations
 
-[^key-35a4b5a2715bb8cf85624ec37b65f880]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/25) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-35a4b5a2715bb8cf85624ec37b65f880]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/25) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00041]: Footnote: [S.R. 1996 No. 618](https://www.legislation.gov.uk/nisr/1996/618), to which there are amendments not relevant to these Regulations
 
-[^key-8fb409537f469ccf0a47a8d4e4ba5f01]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/26) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-8fb409537f469ccf0a47a8d4e4ba5f01]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/26) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00042]: Footnote: [S.R. 1997 No. 56](https://www.legislation.gov.uk/nisr/1997/56); relevant amending regulations are [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109), [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256) and [S.R. 2005 No. 170](https://www.legislation.gov.uk/nisr/2005/170)
 
-[^key-33a72d7ae02cc4ed11be603e7c110e2b]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/27) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-33a72d7ae02cc4ed11be603e7c110e2b]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/27) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-ffd80b0581948c71f7c5fda8136c5fea]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/28) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-ffd80b0581948c71f7c5fda8136c5fea]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/28) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00043]: Footnote: Paragraph (2)(b) was substituted by regulation 5(2) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
-[^key-a77254df2dfb80c723f4f0848a84a0d2]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/29) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-a77254df2dfb80c723f4f0848a84a0d2]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/29) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00044]: Footnote: Regulation 5 was substituted by regulation 5(3) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
-[^key-bfec551e797932cd93d4b7a6f63577d1]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/30) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-bfec551e797932cd93d4b7a6f63577d1]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/30) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-e26792f4f6cc2a4a3c30b3ae35fe393a]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/31) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-e26792f4f6cc2a4a3c30b3ae35fe393a]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/31) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00045]: Footnote: The heading to regulation 11 was amended and paragraph (1) numbered as such and amended by regulation 10 of [S.R. 2003 No. 256](https://www.legislation.gov.uk/nisr/2003/256)
 
-[^key-a4cc41831c0c7c112398a9d476b22c28]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/32) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-a4cc41831c0c7c112398a9d476b22c28]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/32) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00046]: Footnote: Regulation 12 was amended by regulation 5(6) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109) and regulation 11 of [S.R. 2005 No. 170](https://www.legislation.gov.uk/nisr/2005/170)
 
-[^key-11a878e1f1282fa80ceb2e80418b7757]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/33) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-11a878e1f1282fa80ceb2e80418b7757]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/33) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00047]: Footnote: Regulation 13 was amended by regulation 5(7) of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
-[^key-eb3a177a7e247dbc749af746f92ac3cf]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/34) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-eb3a177a7e247dbc749af746f92ac3cf]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/34) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-4ac48c7db51bbbad7391b3e8b608f864]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/35) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-4ac48c7db51bbbad7391b3e8b608f864]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/35) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-c6d0b27ec94e58ec54ad694cd1d9d521]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/36) revoked (6.4.2006) by [The Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006 (S.R. 2006/149)](https://www.legislation.gov.uk/nisr/2006/149), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/149/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/149/schedule)
+[^c-c6d0b27ec94e58ec54ad694cd1d9d521]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/36) revoked (6.4.2006) by [The Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006 (S.R. 2006/149)](https://www.legislation.gov.uk/nisr/2006/149), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/149/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/149/schedule)
 
-[^key-bf418ed2ddd2e8efa1ba7e00a91d33f2]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/37) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-bf418ed2ddd2e8efa1ba7e00a91d33f2]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/37) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00049]: Footnote: [S.R. 1997 No. 139](https://www.legislation.gov.uk/nisr/1997/139); regulation 6A was inserted by regulation 7 of [S.R. 2002 No. 109](https://www.legislation.gov.uk/nisr/2002/109)
 
-[^key-ac6d31b729b8662dc6c81d03423224fd]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/38) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-ac6d31b729b8662dc6c81d03423224fd]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/38) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00050]: Footnote: [S.R. 1997 No. 159](https://www.legislation.gov.uk/nisr/1997/159); relevant amending regulations are [S.R. 2005 No. 170](https://www.legislation.gov.uk/nisr/2005/170)
 
-[^key-6f9f364e8083ed179918af851ee04bbe]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/39) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-6f9f364e8083ed179918af851ee04bbe]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/39) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-c698cd447a2331e09b01900722b2fda1]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/40) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-c698cd447a2331e09b01900722b2fda1]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/40) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-37170f65713ce64d59bd0fbc3131bdad]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/41) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-37170f65713ce64d59bd0fbc3131bdad]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/41) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-70e65bc0077c4809839bfeb2b45938b8]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/42) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-70e65bc0077c4809839bfeb2b45938b8]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/42) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-72af5dcdacc1af83795d9f164e064a78]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/43) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-72af5dcdacc1af83795d9f164e064a78]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/43) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
-[^key-0e298b8a612e139ddb9680f4027fcb86]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/44) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-0e298b8a612e139ddb9680f4027fcb86]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/44) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
 
 [^f00051]: Footnote: Paragraph (3) was amended by regulation 13(a) of [S.R. 2005 No. 170](https://www.legislation.gov.uk/nisr/2005/170)
 
-[^key-29817a9d062b0aaae2754b4f05537da4]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/45) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)
+[^c-29817a9d062b0aaae2754b4f05537da4]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/nisr/2005/433/schedule/2/paragraph/45) in operation at 5.12.2005, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3)

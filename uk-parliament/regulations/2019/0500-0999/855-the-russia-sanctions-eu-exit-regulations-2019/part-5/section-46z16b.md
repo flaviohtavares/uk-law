@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z16B. Prohibition on the import of gold jewellery from Russia[^key-727d4ada275a4c3e79a5f5eab888077d][^key-876278a10227d7e24a62920f4473f2c1]
+## 46Z16B. Prohibition on the import of gold jewellery from Russia[^c-727d4ada275a4c3e79a5f5eab888077d][^c-876278a10227d7e24a62920f4473f2c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-727d4ada275a4c3e79a5f5eab888077d]: Textual amendment: [Pt. 5 Ch. 4JA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4JA) inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2022/1110/regulation/5)
+[^c-727d4ada275a4c3e79a5f5eab888077d]: Textual amendment: [Pt. 5 Ch. 4JA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4JA) inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2022/1110/regulation/5)
 
-[^key-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)
+[^c-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Conduct endangering ships, structures or individuals.[^key-3ef320051593c2dcc81be241bea87d3e]
+## 58. Conduct endangering ships, structures or individuals.[^c-3ef320051593c2dcc81be241bea87d3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ he shall (subject to subsections (6) and (7) below) be guilty of an offence.
 
 ## Annotations
 
-[^key-3ef320051593c2dcc81be241bea87d3e]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/1995/21/section/58) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [6](https://www.legislation.gov.uk/uksi/2023/35/article/6) (as amended (17.4.2026) by [S.I. 2026/348](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/348/article/3))
+[^c-3ef320051593c2dcc81be241bea87d3e]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/1995/21/section/58) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [6](https://www.legislation.gov.uk/uksi/2023/35/article/6) (as amended (17.4.2026) by [S.I. 2026/348](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/348/article/3))

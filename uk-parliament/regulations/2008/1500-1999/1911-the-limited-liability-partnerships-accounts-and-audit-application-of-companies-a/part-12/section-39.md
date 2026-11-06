@@ -40,9 +40,9 @@ Section 495 applies to LLPs, modified so that it reads as follows—
 > - (b) have been properly prepared in accordance with the relevant financial reporting framework; and
 > - (c) have been prepared in accordance with the requirements of this Act.
 >
-> Expressions used in this subsection or subsection (3A)[^key-0ef5b0ddf3a4cba9ab136ae110d50f6e] that are defined for the purposes of Part 15 (see sections 464, 471 and 474[^key-2b95a96ada8b7fc475ca820569c6564c]) have the same meaning as in that Part.
+> Expressions used in this subsection or subsection (3A)[^c-0ef5b0ddf3a4cba9ab136ae110d50f6e] that are defined for the purposes of Part 15 (see sections 464, 471 and 474[^c-2b95a96ada8b7fc475ca820569c6564c]) have the same meaning as in that Part.
 >
-> (3A)[^key-dd9ee494a7fda5aacb76339255978b92] Subsection (3B) applies to the auditors of an LLP which qualifies as a micro-entity in relation to a financial year (see sections 384A and 384B) in their consideration of whether the non-IAS individual accounts of the LLP for that year give a true and fair view as mentioned in subsection (3)(a).
+> (3A)[^c-dd9ee494a7fda5aacb76339255978b92] Subsection (3B) applies to the auditors of an LLP which qualifies as a micro-entity in relation to a financial year (see sections 384A and 384B) in their consideration of whether the non-IAS individual accounts of the LLP for that year give a true and fair view as mentioned in subsection (3)(a).
 >
 > (3B) Where the accounts contain an item of information additional to the micro-entity minimum accounting items, the auditors must have regard to any provision of an accounting standard which relates to that item.
 >
@@ -53,8 +53,8 @@ Section 495 applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-0ef5b0ddf3a4cba9ab136ae110d50f6e]: Textual amendment: Words in reg. 39 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [24(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/575/regulation/24/2/a/i)
+[^c-0ef5b0ddf3a4cba9ab136ae110d50f6e]: Textual amendment: Words in reg. 39 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [24(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/575/regulation/24/2/a/i)
 
-[^key-2b95a96ada8b7fc475ca820569c6564c]: Textual amendment: Words in reg. 39 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [24(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/575/regulation/24/2/a/ii)
+[^c-2b95a96ada8b7fc475ca820569c6564c]: Textual amendment: Words in reg. 39 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [24(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/575/regulation/24/2/a/ii)
 
-[^key-dd9ee494a7fda5aacb76339255978b92]: Textual amendment: Words in reg. 39 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2016/575/regulation/24/2/b)
+[^c-dd9ee494a7fda5aacb76339255978b92]: Textual amendment: Words in reg. 39 inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2016/575/regulation/24/2/b)

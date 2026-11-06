@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Dates on which sums specified for rates or amounts of benefit under the Contributions and Benefits Act or the Pension Schemes Act are increased by this Order[^key-f023219c6b2bbe8f45e950f096fda08d]
+## 6. Dates on which sums specified for rates or amounts of benefit under the Contributions and Benefits Act or the Pension Schemes Act are increased by this Order[^c-f023219c6b2bbe8f45e950f096fda08d]
 
 *Extent: N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f023219c6b2bbe8f45e950f096fda08d]: Commencement: Art. 6 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
+[^c-f023219c6b2bbe8f45e950f096fda08d]: Commencement: Art. 6 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
 
 [^f00012]: Footnote: Section 30B was inserted by Article 4(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
 

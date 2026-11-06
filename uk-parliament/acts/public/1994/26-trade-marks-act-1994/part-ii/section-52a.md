@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Certain trade marks registered as European Union trade marks to be treated as registered trade marks[^key-b9e81fba292ff7adb3d61c3c98e67960]
+## 52A. Certain trade marks registered as European Union trade marks to be treated as registered trade marks[^c-b9e81fba292ff7adb3d61c3c98e67960]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2A makes provision for European Union trade marks (including certain ex
 
 ## Annotations
 
-[^key-b9e81fba292ff7adb3d61c3c98e67960]: Textual amendment: S. 52A inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/2) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9e81fba292ff7adb3d61c3c98e67960]: Textual amendment: S. 52A inserted (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2019/269/schedule/1/paragraph/2) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/9/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

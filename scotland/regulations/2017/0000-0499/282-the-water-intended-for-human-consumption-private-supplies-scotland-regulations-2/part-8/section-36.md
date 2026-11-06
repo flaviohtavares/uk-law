@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Directions and guidance[^key-32fe688c3dd696a5114165082eb704f6]
+## 36. Directions and guidance[^c-32fe688c3dd696a5114165082eb704f6]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32fe688c3dd696a5114165082eb704f6]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2017/282/regulation/36) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-32fe688c3dd696a5114165082eb704f6]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2017/282/regulation/36) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

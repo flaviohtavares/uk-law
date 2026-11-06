@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Penalties for offences under the 1989 Order[^key-afb067770df7b2a3632773ecd5146b7e]
+## 58. Penalties for offences under the 1989 Order[^c-afb067770df7b2a3632773ecd5146b7e]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afb067770df7b2a3632773ecd5146b7e]: Commencement: S. 58 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-afb067770df7b2a3632773ecd5146b7e]: Commencement: S. 58 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

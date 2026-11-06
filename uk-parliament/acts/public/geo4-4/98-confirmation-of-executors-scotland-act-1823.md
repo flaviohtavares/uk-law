@@ -39,17 +39,17 @@ An Act for the better granting of Confirmations in Scotland.
 
 In all cases of intestate succession, where any person or persons who, at the period of the death of the intestate, being next of kin, shall die before confirmation be expede, the right of such next of kin shall transmit to his or her representatives, so that confirmation may and shall be granted to such representatives, in the same manner as confirmations might have been granted to such next of kin immediately upon the death of such intestate.
 
-## 2. Court to regulate caution to be found.[^key-b5df9aa020f73169f22f2de357ce0199]
+## 2. Court to regulate caution to be found.[^c-b5df9aa020f73169f22f2de357ce0199]
 
 Caution shall not be required to be found by
 
 (a)[^c554667] an executor–nominate; or
 
-(b) an intestate’s spouse or civil partner[^key-186fc4b7d1cf9a00dfbecae4c034cf22] who shall be executor–dative and has right, by virtue of sections 8 and 9(2) of the Succession (Scotland) Act 1964, to the whole estate.
+(b) an intestate’s spouse or civil partner[^c-186fc4b7d1cf9a00dfbecae4c034cf22] who shall be executor–dative and has right, by virtue of sections 8 and 9(2) of the Succession (Scotland) Act 1964, to the whole estate.
 
-See also section 3 of the Intestates Widows and Children (Scotland) Act 1875.[^key-aaeded6273e5d02f0e5f774085428e1b]
+See also section 3 of the Intestates Widows and Children (Scotland) Act 1875.[^c-aaeded6273e5d02f0e5f774085428e1b]
 
-In cases where caution is required to be found[^key-bd3f835cc6adc9df02a34e68e0b2e15c] the court granting confirmation shall fix the amount of the sum for which caution shall be found by the person or persons to whom confirmation shall be granted, not exceeding the amount confirmed.
+In cases where caution is required to be found[^c-bd3f835cc6adc9df02a34e68e0b2e15c] the court granting confirmation shall fix the amount of the sum for which caution shall be found by the person or persons to whom confirmation shall be granted, not exceeding the amount confirmed.
 
 ## 3. Partial confirmations to cease.
 
@@ -71,15 +71,15 @@ Provided further, that in the case of confirmation by executor’s creditor, suc
 
 [^c554666]: Modification: The Confirmation Act 1690 cited or referred to by its short title under authority of [Statute Law Revision Act 1893 (c. 14)](https://www.legislation.gov.uk/ukpga/1893/14), [s. 3](https://www.legislation.gov.uk/ukpga/1893/14/section/3)
 
-[^key-b5df9aa020f73169f22f2de357ce0199]: Modification: S. 2 power to modify conferred (4.3.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 19(2)](https://www.legislation.gov.uk/asp/2016/7/section/19/2), [31(1)](https://www.legislation.gov.uk/asp/2016/7/section/31/1)
+[^c-b5df9aa020f73169f22f2de357ce0199]: Modification: S. 2 power to modify conferred (4.3.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 19(2)](https://www.legislation.gov.uk/asp/2016/7/section/19/2), [31(1)](https://www.legislation.gov.uk/asp/2016/7/section/31/1)
 
 [^c554667]: Textual amendment: Words substituted by Law Reform (Miscellaneous Provisions)(Scotland) Act 1980 (c. 55, SIF 36:3), s. 5
 
-[^key-186fc4b7d1cf9a00dfbecae4c034cf22]: Textual amendment: Words in s. 2(b) inserted (4.3.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 19(1)](https://www.legislation.gov.uk/asp/2016/7/section/19/1), [31(1)](https://www.legislation.gov.uk/asp/2016/7/section/31/1)
+[^c-186fc4b7d1cf9a00dfbecae4c034cf22]: Textual amendment: Words in s. 2(b) inserted (4.3.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 19(1)](https://www.legislation.gov.uk/asp/2016/7/section/19/1), [31(1)](https://www.legislation.gov.uk/asp/2016/7/section/31/1)
 
-[^key-aaeded6273e5d02f0e5f774085428e1b]: Textual amendment: Words in s. 2 inserted (4.3.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 18(4)(a)](https://www.legislation.gov.uk/asp/2016/7/section/18/4/a), [31(1)](https://www.legislation.gov.uk/asp/2016/7/section/31/1)
+[^c-aaeded6273e5d02f0e5f774085428e1b]: Textual amendment: Words in s. 2 inserted (4.3.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 18(4)(a)](https://www.legislation.gov.uk/asp/2016/7/section/18/4/a), [31(1)](https://www.legislation.gov.uk/asp/2016/7/section/31/1)
 
-[^key-bd3f835cc6adc9df02a34e68e0b2e15c]: Textual amendment: Words in s. 2 substituted (4.3.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 18(4)(b)](https://www.legislation.gov.uk/asp/2016/7/section/18/4/b), [31(1)](https://www.legislation.gov.uk/asp/2016/7/section/31/1)
+[^c-bd3f835cc6adc9df02a34e68e0b2e15c]: Textual amendment: Words in s. 2 substituted (4.3.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 18(4)(b)](https://www.legislation.gov.uk/asp/2016/7/section/18/4/b), [31(1)](https://www.legislation.gov.uk/asp/2016/7/section/31/1)
 
 [^c554673]: Textual amendment: Word substituted (1.3.1997) by Law Reform (Miscellaneous Provisions)(Scotland) Act 1990 (c. 40, SIF 76:2), s. 74(1), Sch. 8 para. 20(1); [S.I. 1996/2894](https://www.legislation.gov.uk/uksi/1996/2894), [art.3](https://www.legislation.gov.uk/uksi/1996/2894/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2894/schedule) (as amended by [S.I. 1996/2966](https://www.legislation.gov.uk/uksi/1996/2966), [art. 2](https://www.legislation.gov.uk/uksi/1996/2966/article/2))
 

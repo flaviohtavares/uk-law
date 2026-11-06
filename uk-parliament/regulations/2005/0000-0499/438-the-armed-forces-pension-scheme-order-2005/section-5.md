@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Closure of Scheme and transitional provision[^key-33531f36cdb68f05c83cf7465b3221c5]
+## 5. Closure of Scheme and transitional provision[^c-33531f36cdb68f05c83cf7465b3221c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33531f36cdb68f05c83cf7465b3221c5]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2005/438/article/5) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2015/568/regulation/10)
+[^c-33531f36cdb68f05c83cf7465b3221c5]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2005/438/article/5) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2015/568/regulation/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Interpretation: expressions appropriate to companies[^key-e6325b4dace431ef5dc29a74939b8dfc]
+## 3. Interpretation: expressions appropriate to companies[^c-e6325b4dace431ef5dc29a74939b8dfc]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6325b4dace431ef5dc29a74939b8dfc]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1994/2421/article/3) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-e6325b4dace431ef5dc29a74939b8dfc]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1994/2421/article/3) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)

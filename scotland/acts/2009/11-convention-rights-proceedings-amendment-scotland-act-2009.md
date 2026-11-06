@@ -32,18 +32,18 @@ Convention Rights Proceedings (Amendment) (Scotland) Act 2009 (repealed)
 
 2009 asp 11
 
-[^key-890a2a3debdd620ac68db74c32b77a1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-890a2a3debdd620ac68db74c32b77a1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Limitation period for certain Convention rights proceedings[^key-890a2a3debdd620ac68db74c32b77a1f][^key-890a2a3debdd620ac68db74c32b77a1f]
+## 1. Limitation period for certain Convention rights proceedings[^c-890a2a3debdd620ac68db74c32b77a1f][^c-890a2a3debdd620ac68db74c32b77a1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement and short title[^key-890a2a3debdd620ac68db74c32b77a1f][^key-890a2a3debdd620ac68db74c32b77a1f]
+## 2. Commencement and short title[^c-890a2a3debdd620ac68db74c32b77a1f][^c-890a2a3debdd620ac68db74c32b77a1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-890a2a3debdd620ac68db74c32b77a1f]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2009/11) repealed (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/14/2), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 14(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/14/5)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/g)
+[^c-890a2a3debdd620ac68db74c32b77a1f]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2009/11) repealed (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/14/2), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 14(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/14/5)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/g)

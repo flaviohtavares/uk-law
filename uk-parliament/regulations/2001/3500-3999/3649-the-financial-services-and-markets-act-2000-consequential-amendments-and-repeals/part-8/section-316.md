@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 316. Restriction on disclosure of information[^key-ab087c3cf9c5d0ef2e71c27c11d4fa5d]
+## 316. Restriction on disclosure of information[^c-ab087c3cf9c5d0ef2e71c27c11d4fa5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For paragraph (e) of section 174(2) of the Water Act 1989 (restrictions on discl
 
 ## Annotations
 
-[^key-ab087c3cf9c5d0ef2e71c27c11d4fa5d]: Commencement: Art. 316 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ab087c3cf9c5d0ef2e71c27c11d4fa5d]: Commencement: Art. 316 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

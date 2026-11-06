@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Duty to have regard to post-examination neighbourhood development plan[^key-6f9a9abbeed2d77d474e4e0a84781135][^key-83f8da2474b6b7e0eaf5dcc0f78530fa]
+## 1. Duty to have regard to post-examination neighbourhood development plan[^c-6f9a9abbeed2d77d474e4e0a84781135][^c-83f8da2474b6b7e0eaf5dcc0f78530fa]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f9a9abbeed2d77d474e4e0a84781135]: Commencement: S. 1 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/a)
+[^c-6f9a9abbeed2d77d474e4e0a84781135]: Commencement: S. 1 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/a)
 
-[^key-83f8da2474b6b7e0eaf5dcc0f78530fa]: Modification: Act excluded in part (22.7.2020) by [The Norfolk Vanguard Offshore Wind Farm Order 2020 (S.I. 2020/706)](https://www.legislation.gov.uk/uksi/2020/706), [arts. 1](https://www.legislation.gov.uk/uksi/2020/706/article/7/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/706/article/7/2) (with [arts. 41](https://www.legislation.gov.uk/uksi/2020/706/article/41), [42](https://www.legislation.gov.uk/uksi/2020/706/article/42), [Sch. 16 para. 66](https://www.legislation.gov.uk/uksi/2020/706/schedule/16/paragraph/66))
+[^c-83f8da2474b6b7e0eaf5dcc0f78530fa]: Modification: Act excluded in part (22.7.2020) by [The Norfolk Vanguard Offshore Wind Farm Order 2020 (S.I. 2020/706)](https://www.legislation.gov.uk/uksi/2020/706), [arts. 1](https://www.legislation.gov.uk/uksi/2020/706/article/7/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/706/article/7/2) (with [arts. 41](https://www.legislation.gov.uk/uksi/2020/706/article/41), [42](https://www.legislation.gov.uk/uksi/2020/706/article/42), [Sch. 16 para. 66](https://www.legislation.gov.uk/uksi/2020/706/schedule/16/paragraph/66))

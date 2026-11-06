@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Protection for applicants for employment etc in the health service[^key-e74e78d7b1d1c48d2cae6bfbccff5461]
+## 149. Protection for applicants for employment etc in the health service[^c-e74e78d7b1d1c48d2cae6bfbccff5461]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,4 +93,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e74e78d7b1d1c48d2cae6bfbccff5461]: Commencement: S. 149 in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/e)
+[^c-e74e78d7b1d1c48d2cae6bfbccff5461]: Commencement: S. 149 in force at 26.5.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/e)

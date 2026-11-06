@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Fees for provision of information by the chief constable[^key-66a5f3cff7b82a1d962bc20fc278682f]
+## 62. Fees for provision of information by the chief constable[^c-66a5f3cff7b82a1d962bc20fc278682f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers must pay to the Scottish Police Authority such fee as the
 
 ## Annotations
 
-[^key-66a5f3cff7b82a1d962bc20fc278682f]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2020/13/section/62) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-66a5f3cff7b82a1d962bc20fc278682f]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2020/13/section/62) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

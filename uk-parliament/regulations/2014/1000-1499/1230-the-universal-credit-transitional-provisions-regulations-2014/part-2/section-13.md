@@ -29,7 +29,7 @@ summary: ''
 
 (2) Where the claimant is a new claimant partner and, as a result of determination of the appeal or, as the case may be, revision or supersession of the decision the claimant would (were it not for the effect of these Regulations) be entitled to income support or housing benefit during the relevant period mentioned in regulation 7(3), awards of those benefits are to terminate in accordance with regulation 7.
 
-(3) Where the claimant is not a new claimant partner and, as a result of determination of the appeal or, as the case may be, revision, supersession, variation or cancellation of the decision, the claimant would (were it not for the effect of these Regulations) be entitled to a relevant benefit on the date on which the claim for universal credit was made, awards of relevant benefits are to terminate in accordance with regulation 8 or 46[^key-e3685a80fd0378044bec2aaac7a2cdb4].
+(3) Where the claimant is not a new claimant partner and, as a result of determination of the appeal or, as the case may be, revision, supersession, variation or cancellation of the decision, the claimant would (were it not for the effect of these Regulations) be entitled to a relevant benefit on the date on which the claim for universal credit was made, awards of relevant benefits are to terminate in accordance with regulation 8 or 46[^c-e3685a80fd0378044bec2aaac7a2cdb4].
 
 (4) The Secretary of State is to consider whether it is appropriate to revise under section 9 of the 1998 Act the decision in relation to entitlement to universal credit or, if that decision has been superseded under section 10 of that Act, the decision as so superseded (in either case, “the UC decision”).
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c2210289]: Marginal citation: Section 21A was inserted by [S.I. 2014/886](https://www.legislation.gov.uk/uksi/2014/886).
 
-[^key-e3685a80fd0378044bec2aaac7a2cdb4]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/13/3) substituted (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 1(6)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/1/6)
+[^c-e3685a80fd0378044bec2aaac7a2cdb4]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/13/3) substituted (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [Sch. para. 1(6)](https://www.legislation.gov.uk/uksi/2022/752/schedule/paragraph/1/6)

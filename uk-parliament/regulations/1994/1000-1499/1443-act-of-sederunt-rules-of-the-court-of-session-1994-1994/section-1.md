@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-5a6c1e4acb434d2266d8ff9cc19d6241]
+## 1. Citation and commencement[^c-5a6c1e4acb434d2266d8ff9cc19d6241]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a6c1e4acb434d2266d8ff9cc19d6241]: Commencement: [Para. 1](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)
+[^c-5a6c1e4acb434d2266d8ff9cc19d6241]: Commencement: [Para. 1](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)

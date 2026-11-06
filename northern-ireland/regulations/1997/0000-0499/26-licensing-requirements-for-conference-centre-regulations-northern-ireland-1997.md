@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 2(2) of the Licensing (Northern Ireland) Order 1996[^f00001] and of all other powers enabling it in that behalf, with the concurrence of the Department of Economic Development, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-7152f944d5ee3b20b3c944ea257632be]
+## 1. Citation and commencement[^c-7152f944d5ee3b20b3c944ea257632be]
 
 These Regulations may be cited as the Licensing (Requirements for Conference Centre) Regulations (Northern Ireland) 1997 and shall come into operation on 20th February 1997.
 
-## 2. Requirements to which a conference centre must conform[^key-d30a31bdcdc26e358df3bae33b551bff]
+## 2. Requirements to which a conference centre must conform[^c-d30a31bdcdc26e358df3bae33b551bff]
 
 The requirements to which a conference centre as defined in Article 2(2) of the Licensing (Northern Ireland) Order 1996 must conform are that—
 
@@ -60,7 +60,7 @@ The requirements to which a conference centre as defined in Article 2(2) of the 
   - (ii) a letter from an inspector appointed by that district council, stating that the premises comply with the provisions of the Health and Safety at Work (Northern Ireland) Order 1978[^f00005]; and
   - (iii) either, where applicable, a fire certificate issued by the Fire Authority for Northern Ireland under the provisions of the Fire Services (Northern Ireland) Order 1984[^f00006] or a letter from an authorised member of the fire brigade, stating that the premises afford an adequate means of escape in case of fire and that appropriate means for fighting fire have been provided and maintained on those premises, together with, where necessary, appropriate means for giving warning in case of fire.
 
-**3.**[^key-cd9d6c1b29756e41fc53ef3f79609bd4] In regulation 2—
+**3.**[^c-cd9d6c1b29756e41fc53ef3f79609bd4] In regulation 2—
 
 - “inspector” has the meaning assigned to it by Article 2 of the Health and Safety at Work (Northern Ireland) Order 1978; and
 - “authorised member of the fire brigade” has the meaning assigned to it by Article 21 of the Fire Services (Northern Ireland) Order 1984.
@@ -93,9 +93,9 @@ A Cost Compliance Assessment is available in respect of these regulations and a 
 
 [^f00001]: Footnote: S.I. [1996/3158 (N.I. 22)](https://www.legislation.gov.uk/nisi/1996/3158)
 
-[^key-7152f944d5ee3b20b3c944ea257632be]: Commencement: Reg. 1 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/26/regulation/1)
+[^c-7152f944d5ee3b20b3c944ea257632be]: Commencement: Reg. 1 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/26/regulation/1)
 
-[^key-d30a31bdcdc26e358df3bae33b551bff]: Commencement: Reg. 2 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/26/regulation/1)
+[^c-d30a31bdcdc26e358df3bae33b551bff]: Commencement: Reg. 2 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/26/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1991 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633)
 
@@ -107,4 +107,4 @@ A Cost Compliance Assessment is available in respect of these regulations and a 
 
 [^f00006]: Footnote: S.I. [1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821)
 
-[^key-cd9d6c1b29756e41fc53ef3f79609bd4]: Commencement: Reg. 3 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/26/regulation/1)
+[^c-cd9d6c1b29756e41fc53ef3f79609bd4]: Commencement: Reg. 3 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/26/regulation/1)

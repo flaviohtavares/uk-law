@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Disclosure of information[^key-422b7014bb2968b32db4c70950f72c8c]
+## 47. Disclosure of information[^c-422b7014bb2968b32db4c70950f72c8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any information obtained under or by virtue of Part 6 (Exceptions and licences), this Part or Part 9 (Maritime enforcement), or
 - (b) any information held in connection with—
-  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions),[^key-a21427b9fe72afcfe6c5b8ae4ee7c48d] Part 5 (Trade), or
+  - (i) anything done under or by virtue of Part 2 (Designation of persons), Part 3 (Finance), Part 3A (Director disqualification sanctions),[^c-a21427b9fe72afcfe6c5b8ae4ee7c48d] Part 5 (Trade), or
   - (ii) any exception or licence under Part 6 or anything done in accordance with such an exception or under the authority of such a licence.
 
 (2) Information referred to in paragraph (1) may be disclosed for, or in connection with, any of the following purposes—
@@ -73,9 +73,9 @@ summary: ''
 
 ## Annotations
 
-[^key-422b7014bb2968b32db4c70950f72c8c]: Commencement: Reg. 47 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-422b7014bb2968b32db4c70950f72c8c]: Commencement: Reg. 47 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-a21427b9fe72afcfe6c5b8ae4ee7c48d]: Textual amendment: Words in [reg. 47(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/616/regulation/47/1/b/i) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2024/644/regulation/9/8)
+[^c-a21427b9fe72afcfe6c5b8ae4ee7c48d]: Textual amendment: Words in [reg. 47(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/616/regulation/47/1/b/i) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2024/644/regulation/9/8)
 
 [^c24163051]: Marginal citation: [2017 c.3](https://www.legislation.gov.uk/ukpga/2017/3).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Appeal to sheriff against decision to implement secure accommodation authorisation[^key-9a0e3ed32bac21be61efd0fc312d728c]
+## 162. Appeal to sheriff against decision to implement secure accommodation authorisation[^c-9a0e3ed32bac21be61efd0fc312d728c]
 
 *Extent: S*
 
@@ -51,12 +51,12 @@ summary: ''
 - (a) specify the period within which an appeal may be made,
 - (b) make provision about the hearing of evidence during an appeal,
 - (c) make provision about the powers of the sheriff on determining an appeal,
-- (d) provide for appeals to the Sheriff Appeal Court[^key-87bbebff0b37e8658ee10141c195860d] and Court of Session against the determination of an appeal.
+- (d) provide for appeals to the Sheriff Appeal Court[^c-87bbebff0b37e8658ee10141c195860d] and Court of Session against the determination of an appeal.
 
 (9) Regulations under subsection (7) are subject to the affirmative procedure.
 
 ## Annotations
 
-[^key-9a0e3ed32bac21be61efd0fc312d728c]: Commencement: S. 162 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-9a0e3ed32bac21be61efd0fc312d728c]: Commencement: S. 162 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-87bbebff0b37e8658ee10141c195860d]: Textual amendment: Words in s. 162(8)(d) substituted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/7/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/402/article/5))
+[^c-87bbebff0b37e8658ee10141c195860d]: Textual amendment: Words in s. 162(8)(d) substituted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/7/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/402/article/5))

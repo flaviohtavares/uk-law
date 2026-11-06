@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Rental rebates[^key-e3ac1dc5f85210b6b6843f0169ee9d92]
+## 60A. Rental rebates[^c-e3ac1dc5f85210b6b6843f0169ee9d92]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ That allowable loss is deductible only from chargeable gains accruing to the les
 
 ## Annotations
 
-[^key-e3ac1dc5f85210b6b6843f0169ee9d92]: Textual amendment: S. 60A inserted (with effect in accordance with Sch. 5 para. 2(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/5/paragraph/2/2)
+[^c-e3ac1dc5f85210b6b6843f0169ee9d92]: Textual amendment: S. 60A inserted (with effect in accordance with Sch. 5 para. 2(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/5/paragraph/2/2)

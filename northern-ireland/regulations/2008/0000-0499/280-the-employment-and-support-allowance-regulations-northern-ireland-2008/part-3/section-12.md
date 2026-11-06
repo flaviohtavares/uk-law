@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Condition relating to youth – full-time education[^key-6a6938fb57a99967f052d75cf1dab70c]
+## 12. Condition relating to youth – full-time education[^c-6a6938fb57a99967f052d75cf1dab70c]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a6938fb57a99967f052d75cf1dab70c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/280/regulation/12) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-6a6938fb57a99967f052d75cf1dab70c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/280/regulation/12) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

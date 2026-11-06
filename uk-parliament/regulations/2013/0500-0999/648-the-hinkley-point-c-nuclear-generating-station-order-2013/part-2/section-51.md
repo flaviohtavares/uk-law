@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Duration of temporary jetty powers[^key-f9de07f9017f87ef1fbaec54f21089b2]
+## 51. Duration of temporary jetty powers[^c-f9de07f9017f87ef1fbaec54f21089b2]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9de07f9017f87ef1fbaec54f21089b2]: Commencement: Art. 51 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-f9de07f9017f87ef1fbaec54f21089b2]: Commencement: Art. 51 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

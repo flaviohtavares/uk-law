@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. House of Lords staff[^key-fa5457fd1223d21ceea6fff98b2ee1e3]
+## 22. House of Lords staff[^c-fa5457fd1223d21ceea6fff98b2ee1e3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa5457fd1223d21ceea6fff98b2ee1e3]: Modification: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/93/regulation/22) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/6/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-fa5457fd1223d21ceea6fff98b2ee1e3]: Modification: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/93/regulation/22) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/6/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Commissioners' arrangements[^key-88b7e778f8af83a35a6b5c1135028e88]
+## 12. Commissioners' arrangements[^c-88b7e778f8af83a35a6b5c1135028e88]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88b7e778f8af83a35a6b5c1135028e88]: Commencement: S. 12 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-88b7e778f8af83a35a6b5c1135028e88]: Commencement: S. 12 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

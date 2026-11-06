@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 149. Meaning of “final pay”[^key-d4d0e4571e27850ffd276997ee5f7efb]
+## 149. Meaning of “final pay”[^c-d4d0e4571e27850ffd276997ee5f7efb]
 
 *Extent: S*
 
@@ -37,12 +37,12 @@ summary: ''
 
 (4) For the purpose of this regulation—
 
-- (a) “annualised final pay” has the meaning given by regulation 150[^key-192a6b563264754a97ab51feef2e0183];
+- (a) “annualised final pay” has the meaning given by regulation 150[^c-192a6b563264754a97ab51feef2e0183];
 - (b) in respect of a period of assumed pay under this scheme, “pensionable earnings” means the member’s assumed pay; and
 - (c) if the member is a transition member with continuity of service, “pensionable earnings” in respect of any period includes the member’s pensionable earnings under the existing police pension scheme before the transition date for that member.
 
 ## Annotations
 
-[^key-d4d0e4571e27850ffd276997ee5f7efb]: Commencement: Reg. 149 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d4d0e4571e27850ffd276997ee5f7efb]: Commencement: Reg. 149 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-192a6b563264754a97ab51feef2e0183]: Textual amendment: Words in [reg. 149(4)(a)](https://www.legislation.gov.uk/ssi/2015/142/regulation/149/4/a) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2015/325/regulation/7)
+[^c-192a6b563264754a97ab51feef2e0183]: Textual amendment: Words in [reg. 149(4)(a)](https://www.legislation.gov.uk/ssi/2015/142/regulation/149/4/a) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2015/325/regulation/7)

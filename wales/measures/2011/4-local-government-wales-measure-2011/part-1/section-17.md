@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Termination of membership on ceasing to be member of authority[^key-f5f074b200bb52163cd7112f186ed689]
+## 17. Termination of membership on ceasing to be member of authority[^c-f5f074b200bb52163cd7112f186ed689]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5f074b200bb52163cd7112f186ed689]: Commencement: S. 17 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-f5f074b200bb52163cd7112f186ed689]: Commencement: S. 17 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 938P. Meaning of “tax mismatch scheme”[^key-c4d280f057cb36399bbc963345936e18]
+## 938P. Meaning of “tax mismatch scheme”[^c-c4d280f057cb36399bbc963345936e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4d280f057cb36399bbc963345936e18]: Textual amendment: Pt. 21BA inserted (with effect in accordance with Sch. 20 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/20/paragraph/3)
+[^c-c4d280f057cb36399bbc963345936e18]: Textual amendment: Pt. 21BA inserted (with effect in accordance with Sch. 20 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/20/paragraph/3)

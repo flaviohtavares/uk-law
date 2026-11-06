@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. NAO's expenditure[^key-3c48630135356d575b62320bdf6311e1][^key-0c4454b7db2165197cc4e8ff008b6b17]
+## 23. NAO's expenditure[^c-3c48630135356d575b62320bdf6311e1][^c-0c4454b7db2165197cc4e8ff008b6b17]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c48630135356d575b62320bdf6311e1]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/4/section/23) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-3c48630135356d575b62320bdf6311e1]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/4/section/23) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-0c4454b7db2165197cc4e8ff008b6b17]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/4/section/23) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(h)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-0c4454b7db2165197cc4e8ff008b6b17]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/4/section/23) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(h)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))

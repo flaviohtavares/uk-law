@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9A. Services complaint: further provision[^key-e932b8cd371bf4c9a6783ed3331b9434]
+## 9A. Services complaint: further provision[^c-e932b8cd371bf4c9a6783ed3331b9434]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ a complaint under this section it must give notice in writing to the complainer 
 
 ## Annotations
 
-[^key-e932b8cd371bf4c9a6783ed3331b9434]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/asp/2007/5/section/9A) inserted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(10)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/10) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-e932b8cd371bf4c9a6783ed3331b9434]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/asp/2007/5/section/9A) inserted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(10)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/10) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))

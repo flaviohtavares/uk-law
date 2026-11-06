@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Cancellation of postal signing sheets[^key-1fd7102779b3339eb59894df908f2590]
+## 98. Cancellation of postal signing sheets[^c-1fd7102779b3339eb59894df908f2590]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fd7102779b3339eb59894df908f2590]: Commencement: Reg. 98 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-1fd7102779b3339eb59894df908f2590]: Commencement: Reg. 98 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

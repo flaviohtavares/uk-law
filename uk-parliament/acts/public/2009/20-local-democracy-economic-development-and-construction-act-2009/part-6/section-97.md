@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Review by authorities: new EPB[^key-94ef6d417503f6a9e1a909151d859ea1]
+## 97. Review by authorities: new EPB[^c-94ef6d417503f6a9e1a909151d859ea1]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94ef6d417503f6a9e1a909151d859ea1]: Commencement: S. 97 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-94ef6d417503f6a9e1a909151d859ea1]: Commencement: S. 97 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 384. Exclusion of offences under section 397 of the Financial Services and Markets Act 2000[^key-81ef5a10885431587e3a267982466a73]
+## 384. Exclusion of offences under section 397 of the Financial Services and Markets Act 2000[^c-81ef5a10885431587e3a267982466a73]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ After paragraph (5) of Article 13 of the Consumer Protection (Northern Ireland) 
 
 ## Annotations
 
-[^key-81ef5a10885431587e3a267982466a73]: Commencement: Art. 384 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-81ef5a10885431587e3a267982466a73]: Commencement: Art. 384 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

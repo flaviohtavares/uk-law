@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Interim injunctions: adjournment of without notice hearing[^key-30e30adb053c0f956cd8b36807732860]
+## 41. Interim injunctions: adjournment of without notice hearing[^c-30e30adb053c0f956cd8b36807732860]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30e30adb053c0f956cd8b36807732860]: Commencement: S. 41 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-30e30adb053c0f956cd8b36807732860]: Commencement: S. 41 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

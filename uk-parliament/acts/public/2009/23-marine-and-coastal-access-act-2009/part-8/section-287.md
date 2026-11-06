@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 287. Interpretation of this Chapter[^key-bbed4bda4c4dba014efc15bf980e88f4]
+## 287. Interpretation of this Chapter[^c-bbed4bda4c4dba014efc15bf980e88f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-bbed4bda4c4dba014efc15bf980e88f4]: Commencement: S. 287 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-bbed4bda4c4dba014efc15bf980e88f4]: Commencement: S. 287 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

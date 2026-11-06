@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Additional payment where no or insufficient interim amendments payments made[^key-fb31be08717288061fcdb87eda8b1846]
+## 69. Additional payment where no or insufficient interim amendments payments made[^c-fb31be08717288061fcdb87eda8b1846]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb31be08717288061fcdb87eda8b1846]: Commencement: Reg. 69 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-fb31be08717288061fcdb87eda8b1846]: Commencement: Reg. 69 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

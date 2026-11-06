@@ -37,46 +37,46 @@ on establishing the European High Level Group on Nuclear Safety and Waste Manage
 
 (2007/530/Euratom) (revoked)
 
-[^key-4b51e5768321c28bdd88a795d958dd2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b51e5768321c28bdd88a795d958dd2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4b51e5768321c28bdd88a795d958dd2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4b51e5768321c28bdd88a795d958dd2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Tasks[^key-4b51e5768321c28bdd88a795d958dd2f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 3. Composition[^key-4b51e5768321c28bdd88a795d958dd2f]
+## Article 2. Tasks[^c-4b51e5768321c28bdd88a795d958dd2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Organisation[^key-4b51e5768321c28bdd88a795d958dd2f]
+## Article 3. Composition[^c-4b51e5768321c28bdd88a795d958dd2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Meeting expenses[^key-4b51e5768321c28bdd88a795d958dd2f]
+## Article 4. Organisation[^c-4b51e5768321c28bdd88a795d958dd2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Reporting[^key-4b51e5768321c28bdd88a795d958dd2f]
+## Article 5. Meeting expenses[^c-4b51e5768321c28bdd88a795d958dd2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transparency[^key-4b51e5768321c28bdd88a795d958dd2f]
+## Article 6. Reporting[^c-4b51e5768321c28bdd88a795d958dd2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Confidentiality[^key-4b51e5768321c28bdd88a795d958dd2f]
+## Article 7. Transparency[^c-4b51e5768321c28bdd88a795d958dd2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-4b51e5768321c28bdd88a795d958dd2f]
+## Article 8. Confidentiality[^c-4b51e5768321c28bdd88a795d958dd2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b51e5768321c28bdd88a795d958dd2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force[^c-4b51e5768321c28bdd88a795d958dd2f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4b51e5768321c28bdd88a795d958dd2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b51e5768321c28bdd88a795d958dd2f]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-4b51e5768321c28bdd88a795d958dd2f]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

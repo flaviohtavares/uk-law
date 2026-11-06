@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Report on costs orders for proceedings for civil recovery[^key-ad71be96eca72e8cf197ecc1cda01929][^key-917873fa77dbc0c3b91afdd635b73d00]
+## 215. Report on costs orders for proceedings for civil recovery[^c-ad71be96eca72e8cf197ecc1cda01929][^c-917873fa77dbc0c3b91afdd635b73d00]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad71be96eca72e8cf197ecc1cda01929]: Commencement: S. 215 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-ad71be96eca72e8cf197ecc1cda01929]: Commencement: S. 215 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-917873fa77dbc0c3b91afdd635b73d00]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2023/56/section/215) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z66)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z66)
+[^c-917873fa77dbc0c3b91afdd635b73d00]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2023/56/section/215) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z66)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z66)

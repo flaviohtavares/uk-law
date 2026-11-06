@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c14495721] A candidate at a parliamentary election is, subject to such reasonable terms and conditions as the[^c14495731] universal postal service provider[^key-eb43ed8b0eee62c75825b67094c8d0e3] concerned may specify, entitled to send free of any[^c14495741] charge for postage which would otherwise be made by a[^c14495751] universal postal service provider either—
+(1)[^c14495721] A candidate at a parliamentary election is, subject to such reasonable terms and conditions as the[^c14495731] universal postal service provider[^c-eb43ed8b0eee62c75825b67094c8d0e3] concerned may specify, entitled to send free of any[^c14495741] charge for postage which would otherwise be made by a[^c14495751] universal postal service provider either—
 
 - (a) one unaddressed postal communication, containing matter relating to the election only and not exceeding 60 grammes in weight, to each place in the constituency which, in accordance with those terms and conditions[^c14495761], constitutes a delivery point for the purposes of this subsection; or
 - (b) one such postal communication addressed to each elector.
@@ -38,7 +38,7 @@ summary: ''
 - (a) means a person who is registered in the register of parliamentary electors for the constituency on the last day for publication of notice of the election; and
 - (b) includes a person then shown in that register (or, in the case of a person who has an anonymous entry in the register, in the record of anonymous entries)[^c19430071] as below voting age if (but only if) it appears from the register (or from the record)[^c19655601] that he will be of voting age on the day fixed for the poll.
 
-(5)[^key-fd07ef468f199c435d30c63a45fa9961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fd07ef468f199c435d30c63a45fa9961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -58,7 +58,7 @@ summary: ''
 
 [^c14495731]: Textual amendment: Words in s. 91(1) substituted (26.3.2001) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 127(4)](https://www.legislation.gov.uk/ukpga/2000/26/section/127/4), [Sch. 8 Pt. II para. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2000/26/schedule/8/part/II/paragraph/17/2/a); [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (with [art. 34](https://www.legislation.gov.uk/uksi/2001/1148/article/34))
 
-[^key-eb43ed8b0eee62c75825b67094c8d0e3]: Textual amendment: Words in s. 91(1)-(3) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 117(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/117/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-eb43ed8b0eee62c75825b67094c8d0e3]: Textual amendment: Words in s. 91(1)-(3) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 117(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/117/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c14495741]: Textual amendment: Word in s. 91(1) inserted (26.3.2001) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 127(4)](https://www.legislation.gov.uk/ukpga/2000/26/section/127/4), [Sch. 8 Pt. II para. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2000/26/schedule/8/part/II/paragraph/17/2/b); [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (with [art. 34](https://www.legislation.gov.uk/uksi/2001/1148/article/34))
 
@@ -80,4 +80,4 @@ summary: ''
 
 [^c19655601]: Textual amendment: Words in s. 91(4)(b) inserted (E.W.S.) (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 47](https://www.legislation.gov.uk/ukpga/2006/22/section/47), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77), [Sch. 1 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/10/3/b); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/1), [12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to transitional provisions in [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)) (amendment extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2))
 
-[^key-fd07ef468f199c435d30c63a45fa9961]: Textual amendment: S. 91(5) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 117(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/117/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-fd07ef468f199c435d30c63a45fa9961]: Textual amendment: S. 91(5) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 117(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/117/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

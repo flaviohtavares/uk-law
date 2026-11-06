@@ -30,8 +30,8 @@ summary: ''
   - (i) in respect of which, apart from section 20, a person or body to which that section applies conducts any kind of assessment, or secures that any kind of assessment is conducted; and
   - (ii) which is specified in, or is of a description prescribed by, regulations made by the Secretary of State;
 - (b) any function under sections 10 and 12B[^c20903881] to 19; [^c20896221]. . .
-- (c) any function conferred on a local authority[^c20907931] under section 12;[^c20896231] [^key-09c40038397a3e6aa32178e66be24bf4]...
-- (d) any function conferred on a local authority under Part 1 of the Childcare Act 2006, and[^key-e1955f18c1810b1b8018ed4eca7d3688]
+- (c) any function conferred on a local authority[^c20907931] under section 12;[^c20896231] [^c-09c40038397a3e6aa32178e66be24bf4]...
+- (d) any function conferred on a local authority under Part 1 of the Childcare Act 2006, and[^c-e1955f18c1810b1b8018ed4eca7d3688]
 - (e) any function conferred on a local authority under section 2 of the Childcare Act 2016.
 
 (4) “**Relevant young persons**” means persons, other than children, in relation to whom arrangements under section 10 may be made.
@@ -50,8 +50,8 @@ summary: ''
 
 [^c20896231]: Textual amendment: S. 23(3)(d) and preceding word inserted (1.4.2007) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [ss. 16(3)(b)](https://www.legislation.gov.uk/ukpga/2006/21/section/16/3/b), [109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2); [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 3](https://www.legislation.gov.uk/uksi/2007/1019/article/3)
 
-[^key-09c40038397a3e6aa32178e66be24bf4]: Textual amendment: Word in s. 23(3)(c) omitted (10.1.2017) by virtue of [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [42(3)(a)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/42/3/a)
+[^c-09c40038397a3e6aa32178e66be24bf4]: Textual amendment: Word in s. 23(3)(c) omitted (10.1.2017) by virtue of [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [42(3)(a)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/42/3/a)
 
-[^key-e1955f18c1810b1b8018ed4eca7d3688]: Textual amendment: S. 23(3)(e) and preceding word inserted (10.1.2017) by [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [42(3)(b)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/42/3/b)
+[^c-e1955f18c1810b1b8018ed4eca7d3688]: Textual amendment: S. 23(3)(e) and preceding word inserted (10.1.2017) by [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [42(3)(b)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/42/3/b)
 
 [^c20896251]: Textual amendment: S. 23(5) substituted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 157](https://www.legislation.gov.uk/ukpga/2006/40/section/157), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 14 para. 97](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/97); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5](https://www.legislation.gov.uk/uksi/2007/935/article/5)

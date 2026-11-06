@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Further powers to make provision about special cases[^key-d39b9179df69a3fe432602fc06abb086][^key-4b1ab9b531c9d3c474db4c297bd9f676][^key-0b1c3dc4b741d0dd132ca0fd041d0515]
+## 58. Further powers to make provision about special cases[^c-d39b9179df69a3fe432602fc06abb086][^c-4b1ab9b531c9d3c474db4c297bd9f676][^c-0b1c3dc4b741d0dd132ca0fd041d0515]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d39b9179df69a3fe432602fc06abb086]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-d39b9179df69a3fe432602fc06abb086]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-4b1ab9b531c9d3c474db4c297bd9f676]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/7/section/58) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-4b1ab9b531c9d3c474db4c297bd9f676]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2022/7/section/58) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
 
-[^key-0b1c3dc4b741d0dd132ca0fd041d0515]: Modification: [Ss. 40-66](https://www.legislation.gov.uk/ukpga/2022/7/section/40) excluded (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/766/regulation/9/2)
+[^c-0b1c3dc4b741d0dd132ca0fd041d0515]: Modification: [Ss. 40-66](https://www.legislation.gov.uk/ukpga/2022/7/section/40) excluded (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/766/regulation/9/2)

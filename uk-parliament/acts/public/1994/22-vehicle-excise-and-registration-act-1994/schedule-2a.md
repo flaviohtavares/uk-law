@@ -22,17 +22,17 @@ summary: ''
 
 ### Immobilisation
 
-**1.** (1) The Secretary of State may make regulations under this Schedule with respect to any case where an authorised person has reason to believe that, on or after such date as may be prescribed, an offence under section 29(1) is being committed as regards a vehicle which is stationary in any place other than a place to which this Schedule does not apply[^key-59eecc7df8ec284adc25fa63ea1fc121].
+**1.** (1) The Secretary of State may make regulations under this Schedule with respect to any case where an authorised person has reason to believe that, on or after such date as may be prescribed, an offence under section 29(1) is being committed as regards a vehicle which is stationary in any place other than a place to which this Schedule does not apply[^c-59eecc7df8ec284adc25fa63ea1fc121].
 
-(1A)[^key-76328e23bcb421ab7e4d9a21fcd8e810] This Schedule does not apply to—
+(1A)[^c-76328e23bcb421ab7e4d9a21fcd8e810] This Schedule does not apply to—
 
 - (a) any place which is within the curtilage of, or in the vicinity of, a dwelling-house, mobile home or houseboat and which is normally enjoyed with it, or
 - (b) any place which is within the curtilage of, or in the vicinity of, a building consisting entirely (apart from common parts) of two or more dwellings and which is normally enjoyed only by the occupiers of one or more of those dwellings.
 
-(2) The regulations may provide that the authorised person or a person acting under his direction may enter the place and[^key-c0d9d27ba716d8cb0082a28a3d2cf904]—
+(2) The regulations may provide that the authorised person or a person acting under his direction may enter the place and[^c-c0d9d27ba716d8cb0082a28a3d2cf904]—
 
 - (a) fix an immobilisation device to the vehicle while it remains in the place where it is stationary, or
-- (b) move it from that place to another place [^key-dec7026630abcae80298f9509253fecc]... and fix an immobilisation device to it in that other place.
+- (b) move it from that place to another place [^c-dec7026630abcae80298f9509253fecc]... and fix an immobilisation device to it in that other place.
 
 (3) The regulations may provide that on any occasion when an immobilisation device is fixed to a vehicle in accordance with the regulations the person fixing the device shall also fix to the vehicle a notice—
 
@@ -47,7 +47,7 @@ summary: ''
 
 (5) The first requirement is that such charge in respect of the release as may be prescribed is paid in any manner specified in the immobilisation notice.
 
-(6)[^key-9e51e4cbe39daa2596b337e5f59d8806] The second requirement is that—
+(6)[^c-9e51e4cbe39daa2596b337e5f59d8806] The second requirement is that—
 
 - (a) evidence that no offence under section 29(1) was being committed when the immobilisation device was fixed or the vehicle moved is produced in accordance with instructions specified in the immobilisation notice,
 - (b) such sum as may be prescribed is paid in any manner specified in the immobilisation notice, or
@@ -68,7 +68,7 @@ and “**disabled person’s badge**” here means a badge issued, or having eff
 
 (8) The regulations may provide that an immobilisation notice shall not be removed or interfered with except by or on the authority of a person falling within a prescribed description.
 
-(9)[^key-78473074813f13e7894d7b905e769c9b] In sub-paragraph (6A)(a) “**appropriate licence**”, in relation to a vehicle, means—
+(9)[^c-78473074813f13e7894d7b905e769c9b] In sub-paragraph (6A)(a) “**appropriate licence**”, in relation to a vehicle, means—
 
 - (a) a vehicle licence,
 - (b) a trade licence which entitled the holder to keep the vehicle where it was stationary, or
@@ -77,7 +77,7 @@ and “**disabled person’s badge**” here means a badge issued, or having eff
 (10) For the purposes of sub-paragraph (6A)(b)—
 
 - (a) “**relevant declaration**” means the declaration required to be made by regulations under section 22(1D), and
-- (b) a relevant declaration is in force for a vehicle if the vehicle is neither used nor kept on a public road (except under a trade licence) and the declaration has been made, and the particulars required to be furnished by regulations under section 22(1D) have been furnished, in relation to the vehicle in accordance within the regulations [^key-8bd26182944f50d1de08f932e6a87eab]... .
+- (b) a relevant declaration is in force for a vehicle if the vehicle is neither used nor kept on a public road (except under a trade licence) and the declaration has been made, and the particulars required to be furnished by regulations under section 22(1D) have been furnished, in relation to the vehicle in accordance within the regulations [^c-8bd26182944f50d1de08f932e6a87eab]... .
 
 ### Offences connected with immobilisation
 
@@ -94,7 +94,7 @@ the person in charge of the vehicle at that time is guilty of an offence and lia
 
 (4) The regulations may provide that where—
 
-- (a)[^key-e44b70bd846d8474b67dbaddd568f1e4] a person makes a declaration described in paragraph 1(6A)(a), (b) or (c) with a view to securing the release of a vehicle from an immobilisation device purported to have been fixed in accordance with the regulations, and
+- (a)[^c-e44b70bd846d8474b67dbaddd568f1e4] a person makes a declaration described in paragraph 1(6A)(a), (b) or (c) with a view to securing the release of a vehicle from an immobilisation device purported to have been fixed in accordance with the regulations, and
 - (b) the declaration is that the vehicle is or was an exempt vehicle, and
 - (c) the declaration is to the person’s knowledge either false or in any material respect misleading,
 
@@ -110,13 +110,13 @@ he is guilty of an offence.
 **3.** (1)[^c12518741] The regulations may make provision with respect to any case where—
 
 - (a) an authorised person has reason to believe that an offence under section 29(1)—
-  - (i) is being committed as regards a vehicle which is stationary in any place other than a place to which this Schedule does not apply[^key-00b874e43b5cfbed1e97a16465e022df]; or
+  - (i) is being committed as regards a vehicle which is stationary in any place other than a place to which this Schedule does not apply[^c-00b874e43b5cfbed1e97a16465e022df]; or
   - (ii) was being committed as regards a vehicle at a time when an immobilisation device which is fixed to the vehicle was fixed to it in accordance with the regulations;
 
   and
 - (b) such conditions as may be prescribed are fulfilled.
 
-(2) The regulations may provide that the authorised person, or a person acting under his direction[^c12518751], may enter the place and[^key-61e00a552f0c724a515e731751043b52] remove the vehicle and deliver it into the custody of a person—
+(2) The regulations may provide that the authorised person, or a person acting under his direction[^c12518751], may enter the place and[^c-61e00a552f0c724a515e731751043b52] remove the vehicle and deliver it into the custody of a person—
 
 - (a) who is identified in accordance with prescribed rules, and
 - (b) who agrees to accept delivery in accordance with arrangements agreed between that person and the Secretary of State;
@@ -150,7 +150,7 @@ may recover from the vehicle’s owner (whether or not a claim is made under pro
 
 - (a) satisfying the person with custody that the claimant is the vehicle’s owner;
 - (b) the payment of prescribed charges in respect of the vehicle’s release, removal and custody;
-- (c)[^key-0f7e07c1b62611978280e895620f59d7] the production of evidence that no offence under section 29(1) was committed;
+- (c)[^c-0f7e07c1b62611978280e895620f59d7] the production of evidence that no offence under section 29(1) was committed;
 - (d) payment of a prescribed sum where such evidence is not produced;
 - (e) the making of a declaration described in paragraph 1(6A)(a), (b) or (c).
 
@@ -160,7 +160,7 @@ may recover from the vehicle’s owner (whether or not a claim is made under pro
 
 **4.** (1) The regulations may provide that where—
 
-- (a)[^key-242685e3a8d60420dd990c9438b0a38b] a person makes a declaration described in paragraph 1(6A)(a), (b) or (c) with a view to securing possession of a vehicle purported to have been delivered into the custody of a person in accordance with provision made under paragraph 3, and
+- (a)[^c-242685e3a8d60420dd990c9438b0a38b] a person makes a declaration described in paragraph 1(6A)(a), (b) or (c) with a view to securing possession of a vehicle purported to have been delivered into the custody of a person in accordance with provision made under paragraph 3, and
 - (b) the declaration is that the vehicle is or was an exempt vehicle, and
 - (c) the declaration is to the person’s knowledge either false or in any material respect misleading,
 
@@ -286,23 +286,23 @@ makes a declaration which to his knowledge is either false or in any material re
 
 [^c12518591]: Textual amendment: Sch. 2A inserted (1.5.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 19](https://www.legislation.gov.uk/ukpga/1995/4/section/19), [Sch. 4 para. 36(2)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/paragraph/36/2)
 
-[^key-59eecc7df8ec284adc25fa63ea1fc121]: Textual amendment: Word in Sch. 2A para. 1(1) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/2)
+[^c-59eecc7df8ec284adc25fa63ea1fc121]: Textual amendment: Word in Sch. 2A para. 1(1) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/2)
 
-[^key-76328e23bcb421ab7e4d9a21fcd8e810]: Textual amendment: Sch. 2A para. 1(1A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/3)
+[^c-76328e23bcb421ab7e4d9a21fcd8e810]: Textual amendment: Sch. 2A para. 1(1A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/3)
 
-[^key-c0d9d27ba716d8cb0082a28a3d2cf904]: Textual amendment: Words in Sch. 2A para. 1(2) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/4/a)
+[^c-c0d9d27ba716d8cb0082a28a3d2cf904]: Textual amendment: Words in Sch. 2A para. 1(2) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/4/a)
 
-[^key-dec7026630abcae80298f9509253fecc]: Textual amendment: Words in Sch. 2A para. 1(2) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/4/b)
+[^c-dec7026630abcae80298f9509253fecc]: Textual amendment: Words in Sch. 2A para. 1(2) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/4/b)
 
-[^key-9e51e4cbe39daa2596b337e5f59d8806]: Textual amendment: Sch. 2A para. 1(6) (6A) substituted for Sch. 2A para. 1(6) (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(5)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/5)
+[^c-9e51e4cbe39daa2596b337e5f59d8806]: Textual amendment: Sch. 2A para. 1(6) (6A) substituted for Sch. 2A para. 1(6) (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(5)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/5)
 
 [^c12518621]: Marginal citation: [1970 c. 44](https://www.legislation.gov.uk/ukpga/1970/44).
 
 [^c12518631]: Marginal citation: [1978 c. 53](https://www.legislation.gov.uk/ukpga/1978/53).
 
-[^key-78473074813f13e7894d7b905e769c9b]: Textual amendment: Sch. 2A para. 1(9), (10) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(6)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/6)
+[^c-78473074813f13e7894d7b905e769c9b]: Textual amendment: Sch. 2A para. 1(9), (10) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 5(6)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/5/6)
 
-[^key-8bd26182944f50d1de08f932e6a87eab]: Textual amendment: Words in [Sch. 2A para. 1(10)(b)](https://www.legislation.gov.uk/ukpga/1994/22/schedule/2A/paragraph/1/10/b) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 189(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/189/3)
+[^c-8bd26182944f50d1de08f932e6a87eab]: Textual amendment: Words in [Sch. 2A para. 1(10)(b)](https://www.legislation.gov.uk/ukpga/1994/22/schedule/2A/paragraph/1/10/b) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 189(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/189/3)
 
 [^c12518661]: Marginal citation: [1970 c. 44](https://www.legislation.gov.uk/ukpga/1970/44).
 
@@ -312,22 +312,22 @@ makes a declaration which to his knowledge is either false or in any material re
 
 [^c12518691]: Marginal citation: [S.I. 1981/154 (N.I.1)](https://www.legislation.gov.uk/nisi/1981/154).
 
-[^key-e44b70bd846d8474b67dbaddd568f1e4]: Textual amendment: Sch. 2A para. 2(4)(a) substituted for Sch. 2A para. 2(4)(a) (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/6)
+[^c-e44b70bd846d8474b67dbaddd568f1e4]: Textual amendment: Sch. 2A para. 2(4)(a) substituted for Sch. 2A para. 2(4)(a) (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 6](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/6)
 
 [^c12518741]: Textual amendment: Sch. 2A para. 3(1) substituted (8.10.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 20(1)](https://www.legislation.gov.uk/ukpga/1997/16/section/20/1); [S.I. 1997/2392](https://www.legislation.gov.uk/uksi/1997/2392), [art. 2](https://www.legislation.gov.uk/uksi/1997/2392/article/2)
 
-[^key-00b874e43b5cfbed1e97a16465e022df]: Textual amendment: Words in Sch. 2A para. 3(1)(a)(i) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 7(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/7/2)
+[^c-00b874e43b5cfbed1e97a16465e022df]: Textual amendment: Words in Sch. 2A para. 3(1)(a)(i) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 7(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/7/2)
 
 [^c12518751]: Textual amendment: Words in Sch. 2A para. 3(2) substituted (8.10.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 20(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/20/2); [S.I. 1997/2392](https://www.legislation.gov.uk/uksi/1997/2392), [art. 2](https://www.legislation.gov.uk/uksi/1997/2392/article/2)
 
-[^key-61e00a552f0c724a515e731751043b52]: Textual amendment: Words in Sch. 2A para. 3(2) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 7(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/7/3)
+[^c-61e00a552f0c724a515e731751043b52]: Textual amendment: Words in Sch. 2A para. 3(2) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 7(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/7/3)
 
 [^c12518761]: Textual amendment: Words on Sch. 2A para. 3(3) substituted (8.10.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1997/16/section/20/3); [S.I. 1997/2392](https://www.legislation.gov.uk/uksi/1997/2392), [art. 2](https://www.legislation.gov.uk/uksi/1997/2392/article/2)
 
-[^key-0f7e07c1b62611978280e895620f59d7]: Textual amendment: Sch. 2A para. 3(7)(c)-(e) substituted for Sch. 2A para. 3(7)(c) (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 7(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/7/4)
+[^c-0f7e07c1b62611978280e895620f59d7]: Textual amendment: Sch. 2A para. 3(7)(c)-(e) substituted for Sch. 2A para. 3(7)(c) (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 7(4)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/7/4)
 
 [^c12518771]: Marginal citation: 984 c. 27.
 
-[^key-242685e3a8d60420dd990c9438b0a38b]: Textual amendment: Sch. 2A para. 4(1)(a) substituted for Sch. 2A para. 4(1)(a) (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/8)
+[^c-242685e3a8d60420dd990c9438b0a38b]: Textual amendment: Sch. 2A para. 4(1)(a) substituted for Sch. 2A para. 4(1)(a) (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/8)
 
 [^c12518961]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).

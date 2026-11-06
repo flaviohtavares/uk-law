@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-b2848ec7cebd3e9d5e384dabca81aab6]
+### 1. Citation and commencement[^c-b2848ec7cebd3e9d5e384dabca81aab6]
 
 (1) These Regulations may be cited as the Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019.
 
@@ -59,7 +59,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — Amendments to Out of Date References in Subordinate Legislation
 
-### 2. The Salmon (Definition of Methods of Net Fishing and Construction of Nets) (Scotland) Regulations 1992[^key-9c34a99d500c7f10d23d91cccc402b6e]
+### 2. The Salmon (Definition of Methods of Net Fishing and Construction of Nets) (Scotland) Regulations 1992[^c-9c34a99d500c7f10d23d91cccc402b6e]
 
 (1) The Salmon (Definition of Methods of Net Fishing and Construction of Nets) (Scotland) Regulations 1992 [^c23550831] are amended as follows.
 
@@ -71,13 +71,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) In regulation 7, omit paragraph (2).
 
-### 3. The Tweed Regulation Order 2007[^key-72e25b323a76c29b8b4c3629720904cf]
+### 3. The Tweed Regulation Order 2007[^c-72e25b323a76c29b8b4c3629720904cf]
 
 (1) The Tweed Regulation Order 2007 [^c23550851] is amended as follows.
 
 (2) In article 9(3), for “articles 3 and 4 of Commission Regulation [(EC) No. 129/2003](https://www.legislation.gov.uk/eur/2003/129) laying down detailed rules for determining the mesh size and thickness of twine of fishing nets” substitute “ Commission Regulation [(EC) No 517/2008](https://www.legislation.gov.uk/eur/2008/517) laying down detailed rules for the implementation of Council Regulation [(EC) No 850/98](https://www.legislation.gov.uk/eur/1998/850) as regards the determination of the mesh size and assessing the thickness of twine of fishing nets [^c23550861] ”.
 
-### 4. The Sea Fishing (EU Recording and Reporting Requirements) (Scotland) Order 2010[^key-4702934ed00e16236c197784a279be19]
+### 4. The Sea Fishing (EU Recording and Reporting Requirements) (Scotland) Order 2010[^c-4702934ed00e16236c197784a279be19]
 
 (1) The Sea Fishing (EU Recording and Reporting Requirements) (Scotland) Order 2010 [^c23550871] is amended as follows.
 
@@ -139,7 +139,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
   .
 
-### 5. The Sharks, Skates and Rays (Prohibition of Fishing, Trans-shipment and Landing) (Scotland) Order 2012[^key-1b07483488a6299c413725b2b657c65d]
+### 5. The Sharks, Skates and Rays (Prohibition of Fishing, Trans-shipment and Landing) (Scotland) Order 2012[^c-1b07483488a6299c413725b2b657c65d]
 
 (1) The Sharks, Skates and Rays (Prohibition of Fishing, Trans-shipment and Landing) (Scotland) Order 2012 [^c23550901] is amended as follows.
 
@@ -157,7 +157,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
   .
 
-### 6. The Sea Fishing (EU Control Measures) (Scotland) Order 2015[^key-9aea62a98e0975f2cf6c247e7c3a1be3]
+### 6. The Sea Fishing (EU Control Measures) (Scotland) Order 2015[^c-9aea62a98e0975f2cf6c247e7c3a1be3]
 
 (1) The Sea Fishing (EU Control Measures) (Scotland) Order 2015 [^c23550911] is amended as follows.
 
@@ -192,7 +192,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 3 — Amendments to primary legislation
 
-### 7. The Aquaculture and Fisheries (Scotland) Act 2013[^key-ff261678cfd43290de1dba3213c51182]
+### 7. The Aquaculture and Fisheries (Scotland) Act 2013[^c-ff261678cfd43290de1dba3213c51182]
 
 (1) The Aquaculture and Fisheries (Scotland) Act 2013 [^c23550921] is amended as follows.
 
@@ -224,7 +224,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 4 — Other amendments to subordinate legislation
 
-### 8. The Sea Fishing (EU Recording and Reporting Requirements) (Scotland) Order 2010[^key-3994eb6b27f6a02f619806dba233a954]
+### 8. The Sea Fishing (EU Recording and Reporting Requirements) (Scotland) Order 2010[^c-3994eb6b27f6a02f619806dba233a954]
 
 (1) The Sea Fishing (EU Recording and Reporting Requirements) (Scotland) Order 2010 [^c23550941] is amended as follows.
 
@@ -316,13 +316,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (b) in the table in schedule 2—
   - (i) omit column 3.
 
-### 9. The Sea Fishing (Licences and Notices) (Scotland) Regulations 2011[^key-b0e87b07fae1a5c2811e2df0c711da0d]
+### 9. The Sea Fishing (Licences and Notices) (Scotland) Regulations 2011[^c-b0e87b07fae1a5c2811e2df0c711da0d]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. The Sharks, Skates and Rays (Prohibition of Fishing, Trans-shipment and Landing) (Scotland) Order 2012[^key-578964a7b56d102cb237df01e8486e38]
+### 10. The Sharks, Skates and Rays (Prohibition of Fishing, Trans-shipment and Landing) (Scotland) Order 2012[^c-578964a7b56d102cb237df01e8486e38]
 
 (1) The Sharks, Skates and Rays (Prohibition of Fishing, Trans-shipment and Landing) (Scotland) Order 2012 [^c23550971] is amended as follows.
 
@@ -330,7 +330,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 - (a) omit the definition of “Common Fisheries Policy Regulation”,
 - (b) omit the definition of “EU fishing boat”,
-- (c)[^key-ba753c765bd1a0a94c52aa17a30e4184] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ba753c765bd1a0a94c52aa17a30e4184] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In article 3—
 
@@ -338,7 +338,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
   - (i) for “an EU fishing boat or” substitute “ a ”,
   - (ii) omit “within the meaning of Article 19(1)(a) of the Common Fisheries Policy Regulation”.
 
-### 11. The Sea Fishing (Illegal, Unreported and Unregulated Fishing) (Scotland) Order 2013[^key-0ec696a29a676f92f8645cde9c53bb54]
+### 11. The Sea Fishing (Illegal, Unreported and Unregulated Fishing) (Scotland) Order 2013[^c-0ec696a29a676f92f8645cde9c53bb54]
 
 (1) The Sea Fishing (Illegal, Unreported and Unregulated Fishing) (Scotland) Order 2013 [^c23550991] is amended as follows.
 
@@ -366,7 +366,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (f) in paragraph (10A), for “fishing boat flying the flag of a member State” substitute “ United Kingdom fishing boat ”,
 - (g) in paragraph (11), for “an EU” substitute “ a United Kingdom ”.
 
-### 12. The Sea Fishing (Points for Masters of Fishing Boats) (Scotland) Regulations 2014[^key-7b34000a8be3867ea8974ebacfb7c52d]
+### 12. The Sea Fishing (Points for Masters of Fishing Boats) (Scotland) Regulations 2014[^c-7b34000a8be3867ea8974ebacfb7c52d]
 
 (1) The Sea Fishing (Points for Masters of Fishing Boats) (Scotland) Regulations 2014 [^c23551011] are amended as follows.
 
@@ -391,7 +391,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (a) for “Article 74 of the Control Regulation” substitute “ carrying out inspections ”,
 - (b) omit sub-paragraph (ii).
 
-### 13. The Sea Fishing (EU Control Measures) (Scotland) Order 2015[^key-0e9de1979fae28b2aad66ed27a7e4e6e]
+### 13. The Sea Fishing (EU Control Measures) (Scotland) Order 2015[^c-0e9de1979fae28b2aad66ed27a7e4e6e]
 
 (1) The Sea Fishing (EU Control Measures) (Scotland) Order 2015 [^c23551021] is amended as follows.
 
@@ -428,7 +428,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) In article 3(a), omit “for Union and”.
 
-### 14. The European Maritime and Fisheries Fund (Grants) (Scotland) Regulations 2015[^key-071ea8f4d38b0a6f621137739930aabc][^key-10a1662fbd1e8a181252d123c98bfe56]
+### 14. The European Maritime and Fisheries Fund (Grants) (Scotland) Regulations 2015[^c-071ea8f4d38b0a6f621137739930aabc][^c-10a1662fbd1e8a181252d123c98bfe56]
 
 In regulation 2(2) of the European Maritime and Fisheries Fund (Grants) (Scotland) Regulations 2015 [^c23551041] for “as amended from time to time” substitute “as they or it had effect in EU law immediately before IP completion day”.
 
@@ -458,21 +458,21 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^c23550821]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-b2848ec7cebd3e9d5e384dabca81aab6]: Commencement: Reg. 1 in force at 28.3.2019, see reg. 1(2)(a)
+[^c-b2848ec7cebd3e9d5e384dabca81aab6]: Commencement: Reg. 1 in force at 28.3.2019, see reg. 1(2)(a)
 
-[^key-9c34a99d500c7f10d23d91cccc402b6e]: Commencement: Reg. 2 in force at 28.3.2019, see reg. 1(2)(a)
+[^c-9c34a99d500c7f10d23d91cccc402b6e]: Commencement: Reg. 2 in force at 28.3.2019, see reg. 1(2)(a)
 
 [^c23550831]: Marginal citation: [S.S.I. 1992/1974](https://www.legislation.gov.uk/ssi/1992/1974).
 
 [^c23550841]: Marginal citation: OJ L 151, 11.6.2008, p.5.
 
-[^key-72e25b323a76c29b8b4c3629720904cf]: Commencement: Reg. 3 in force at 28.3.2019, see reg. 1(2)(a)
+[^c-72e25b323a76c29b8b4c3629720904cf]: Commencement: Reg. 3 in force at 28.3.2019, see reg. 1(2)(a)
 
 [^c23550851]: Marginal citation: [S.S.I. 2007/19](https://www.legislation.gov.uk/ssi/2007/19).
 
 [^c23550861]: Marginal citation: OJ L 151, 11.6.2008, p.5.
 
-[^key-4702934ed00e16236c197784a279be19]: Commencement: Reg. 4 in force at 28.3.2019, see reg. 1(2)(a)
+[^c-4702934ed00e16236c197784a279be19]: Commencement: Reg. 4 in force at 28.3.2019, see reg. 1(2)(a)
 
 [^c23550871]: Marginal citation: [S.S.I. 2010/334](https://www.legislation.gov.uk/ssi/2010/334), as amended by [S.S.I. 2011/59](https://www.legislation.gov.uk/ssi/2011/59) and [S.S.I. 2015/320](https://www.legislation.gov.uk/ssi/2015/320).
 
@@ -480,52 +480,52 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^c23550891]: Marginal citation: OJ L 347, 28.12.2017, p.81.
 
-[^key-1b07483488a6299c413725b2b657c65d]: Commencement: Reg. 5 in force at 28.3.2019, see reg. 1(2)(a)
+[^c-1b07483488a6299c413725b2b657c65d]: Commencement: Reg. 5 in force at 28.3.2019, see reg. 1(2)(a)
 
 [^c23550901]: Marginal citation: [S.S.I. 2012/63](https://www.legislation.gov.uk/ssi/2012/63), as amended by [S.S.I. 2015/320](https://www.legislation.gov.uk/ssi/2015/320).
 
-[^key-9aea62a98e0975f2cf6c247e7c3a1be3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/24/regulation/6) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/a)
+[^c-9aea62a98e0975f2cf6c247e7c3a1be3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/24/regulation/6) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/a)
 
 [^c23550911]: Marginal citation: [S.S.I. 2015/320](https://www.legislation.gov.uk/ssi/2015/320).
 
-[^key-ff261678cfd43290de1dba3213c51182]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-ff261678cfd43290de1dba3213c51182]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23550921]: Marginal citation: [2013 asp 7](https://www.legislation.gov.uk/asp/2013/7).
 
 [^c23550931]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30). Schedule 1 was relevantly amended by paragraph 22 of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-3994eb6b27f6a02f619806dba233a954]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-3994eb6b27f6a02f619806dba233a954]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23550941]: Marginal citation: [S.S.I. 2010/334](https://www.legislation.gov.uk/ssi/2010/334), as amended by [S.S.I. 2011/59](https://www.legislation.gov.uk/ssi/2011/59) and [S.S.I. 2015/320](https://www.legislation.gov.uk/ssi/2015/320).
 
 [^c23550951]: Marginal citation: That definition will be inserted by regulation 4(2)(a)(vi) of [S.S.I. 2019/24](https://www.legislation.gov.uk/ssi/2019/24).
 
-[^key-b0e87b07fae1a5c2811e2df0c711da0d]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/5/2)
+[^c-b0e87b07fae1a5c2811e2df0c711da0d]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/5/2)
 
-[^key-578964a7b56d102cb237df01e8486e38]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-578964a7b56d102cb237df01e8486e38]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23550971]: Marginal citation: S.S.I 2012/63, as amended by [S.S.I. 2015/320](https://www.legislation.gov.uk/ssi/2015/320).
 
-[^key-ba753c765bd1a0a94c52aa17a30e4184]: Textual amendment: Reg. 10(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/5/3)
+[^c-ba753c765bd1a0a94c52aa17a30e4184]: Textual amendment: Reg. 10(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/5/3)
 
-[^key-0ec696a29a676f92f8645cde9c53bb54]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-0ec696a29a676f92f8645cde9c53bb54]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23550991]: Marginal citation: [S.S.I. 2013/189](https://www.legislation.gov.uk/ssi/2013/189), as amended by [S.S.I. 2015/320](https://www.legislation.gov.uk/ssi/2015/320).
 
 [^c23551001]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-7b34000a8be3867ea8974ebacfb7c52d]: Commencement: Reg. 12 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)(b)
+[^c-7b34000a8be3867ea8974ebacfb7c52d]: Commencement: Reg. 12 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)(b)
 
 [^c23551011]: Marginal citation: [S.S.I. 2014/379](https://www.legislation.gov.uk/ssi/2014/379).
 
-[^key-0e9de1979fae28b2aad66ed27a7e4e6e]: Commencement: Reg. 13 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)(b)
+[^c-0e9de1979fae28b2aad66ed27a7e4e6e]: Commencement: Reg. 13 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)(b)
 
 [^c23551021]: Marginal citation: [S.S.I. 2015/320](https://www.legislation.gov.uk/ssi/2015/320).
 
 [^c23551031]: Marginal citation: That definition will be inserted by regulation 6(2)(d) of [S.S.I. 2019/24](https://www.legislation.gov.uk/ssi/2019/24).
 
-[^key-071ea8f4d38b0a6f621137739930aabc]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-071ea8f4d38b0a6f621137739930aabc]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-10a1662fbd1e8a181252d123c98bfe56]: Textual amendment: Reg. 14 substituted (31.12.2020 immediately before IP completion day) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2020/393/regulation/5/4)
+[^c-10a1662fbd1e8a181252d123c98bfe56]: Textual amendment: Reg. 14 substituted (31.12.2020 immediately before IP completion day) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/2), [5(4)](https://www.legislation.gov.uk/ssi/2020/393/regulation/5/4)
 
 [^c23551041]: Marginal citation: [S.S.I. 2015/359](https://www.legislation.gov.uk/ssi/2015/359).

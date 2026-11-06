@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Judicial appointments[^c2187532][^key-8ff9f80bb8822b7435cf0c7934a2d9d4][^key-fd50a6253ef6b55c418546077c287b82][^key-607de8968adf3ca11a36cd77bd89e00f]
+## 20. Judicial appointments[^c2187532][^c-8ff9f80bb8822b7435cf0c7934a2d9d4][^c-fd50a6253ef6b55c418546077c287b82][^c-607de8968adf3ca11a36cd77bd89e00f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ Schedule 13 has effect. In that Schedule—
 
 [^c2187532]: Commencement: S. 20 in force for certain purposes at Royal Assent, see. s. 61(2)(11)(a)
 
-[^key-8ff9f80bb8822b7435cf0c7934a2d9d4]: Commencement: S. 20 in force at 15.7.2013 for specified purposes by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/a)
+[^c-8ff9f80bb8822b7435cf0c7934a2d9d4]: Commencement: S. 20 in force at 15.7.2013 for specified purposes by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/a)
 
-[^key-fd50a6253ef6b55c418546077c287b82]: Commencement: S. 20 in force at 4.9.2013 for specified purposes by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/b)
+[^c-fd50a6253ef6b55c418546077c287b82]: Commencement: S. 20 in force at 4.9.2013 for specified purposes by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/b)
 
-[^key-607de8968adf3ca11a36cd77bd89e00f]: Commencement: S. 20 in force at 1.10.2013 for specified purposes by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/a)
+[^c-607de8968adf3ca11a36cd77bd89e00f]: Commencement: S. 20 in force at 1.10.2013 for specified purposes by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/a)

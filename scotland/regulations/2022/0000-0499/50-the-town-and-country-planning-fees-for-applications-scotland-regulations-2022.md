@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and application[^key-833730397d6bbf3a7c08acea53a63197]
+### 1. Citation, commencement and application[^c-833730397d6bbf3a7c08acea53a63197]
 
 (1) These Regulations may be cited as the Town and Country Planning (Fees for Applications) (Scotland) Regulations 2022 and come into force on 1 April 2022.
 
@@ -65,11 +65,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
   - (i) carrying out pre-application discussions on or after 1 April 2022,
   - (ii) considering a request made on or after 1 April 2022 to vary a planning permission under section 64 (power to vary planning permission) of the 1997 Act, and
   - (iii) considering a request made on or after 1 April 2022 for written confirmation of compliance with a condition imposed on the grant of planning permission,
-  - (iv)[^key-c281e336af3766eba6a4109709c66b44] the preparation of a processing agreement on or after 12 December 2024,
+  - (iv)[^c-c281e336af3766eba6a4109709c66b44] the preparation of a processing agreement on or after 12 December 2024,
   - (v) the making or alteration of a masterplan consent area scheme,
   - (vi) applications for approval, consent or agreement required by a condition specified in a masterplan consent area scheme.
 
-### 2. Interpretation[^key-215eed1b54a577f4c0eba1a061dbb0d8]
+### 2. Interpretation[^c-215eed1b54a577f4c0eba1a061dbb0d8]
 
 In these Regulations—
 
@@ -81,12 +81,12 @@ In these Regulations—
 - “**the General Permitted Development Order**” means the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00005],
 - “**marine waters**” means the waters described in paragraphs (b) and (c) of subsection (6) of section 26 of the 1997 Act[^f00006],
 - “**planning permission in principle**” has the meaning in section 59 of the 1997 Act[^f00007],
-- “[^key-4ebb51ceba36ffd9e02c20ca90711268]**processing agreement**” means an agreement between the planning authority and person making or proposing to make an application for planning permission or an application for approval, consent or agreement required by a condition imposed on the grant of planning permission or specified in a masterplan consent area scheme in respect of processing that application (and where a document setting out the terms of such an agreement is prepared but no agreement is entered into by the parties to it, includes that document),
+- “[^c-4ebb51ceba36ffd9e02c20ca90711268]**processing agreement**” means an agreement between the planning authority and person making or proposing to make an application for planning permission or an application for approval, consent or agreement required by a condition imposed on the grant of planning permission or specified in a masterplan consent area scheme in respect of processing that application (and where a document setting out the terms of such an agreement is prepared but no agreement is entered into by the parties to it, includes that document),
 - “**use of land**” includes use of land for the winning and working of minerals.
 
 ## PART 2 — Payment of fees
 
-### 3. Payment of fees[^key-c79eaf63b8efb883211d0a9975f1d307]
+### 3. Payment of fees[^c-c79eaf63b8efb883211d0a9975f1d307]
 
 (1) Subject to Part 3 (applications where no fee is payable) and regulation 5 (waiving or reducing of fees), where an application to which these Regulations apply is made to a planning authority a fee is payable to that planning authority in accordance with the provisions of this regulation.
 
@@ -100,9 +100,9 @@ In these Regulations—
   - (v) a determination as to whether the planning authority’s prior approval is required in relation to development under schedule 1 of the General Permitted Development Order,
 
   is the fee calculated in accordance with schedule 1,
-- (b) an application for a consent for the display of advertisements under regulation 15 of the 1984 Regulations is £371[^key-076766da42de76cb38118eba5333e0e8] in respect of each site on which one or more than one advertisement is to be displayed.
+- (b) an application for a consent for the display of advertisements under regulation 15 of the 1984 Regulations is £371[^c-076766da42de76cb38118eba5333e0e8] in respect of each site on which one or more than one advertisement is to be displayed.
 
-(3) The fee payable for an application for planning permission made under section 42 (applications to develop land without complying with previous conditions) of the 1997 Act, is £371[^key-21afe797c331f388e8005f6cd07da39e].
+(3) The fee payable for an application for planning permission made under section 42 (applications to develop land without complying with previous conditions) of the 1997 Act, is £371[^c-21afe797c331f388e8005f6cd07da39e].
 
 (4) Any fee payable under this regulation must—
 
@@ -114,20 +114,20 @@ In these Regulations—
 - (a) “**site**” has the meaning given in regulation 2 of the 1984 Regulations, but
 - (b) where an application for a consent for the display of advertisements under regulation 15 of the 1984 Regulations relates to the display of advertisements on parking meters, litter bins, public seating benches or bus shelters within a specified area, the whole of the area to which the application relates is to be treated as one site.
 
-### 4. Discretion to charge fees[^key-a2ba6cf03afcce6215695787a42d0a87]
+### 4. Discretion to charge fees[^c-a2ba6cf03afcce6215695787a42d0a87]
 
 (1) Subject to paragraphs (3) to (6), a planning authority may charge a fee for a service specified in paragraph (2) related to the carrying out of their functions.
 
 (2) The services are—
 
 - (a) carrying out pre-application discussions,
-- (aa)[^key-75863e9d06b7acda5b8eb700cc12a018] the preparation of a processing agreement,
+- (aa)[^c-75863e9d06b7acda5b8eb700cc12a018] the preparation of a processing agreement,
 - (b) considering a request to vary a planning permission under section 64 of the 1997 Act, and
 - (c) considering a request for written confirmation of compliance with a condition imposed on the grant of planning permission.
 
-(3) Where a request is made to a planning authority to vary a planning permission under section 64 of the 1997 Act the fee payable to that planning authority is £247[^key-d8242ee3dde2af0ff53c53ec18a39c09] for each request.
+(3) Where a request is made to a planning authority to vary a planning permission under section 64 of the 1997 Act the fee payable to that planning authority is £247[^c-d8242ee3dde2af0ff53c53ec18a39c09] for each request.
 
-(4) Where a request is made to a planning authority for written confirmation of compliance with a condition imposed on the grant of planning permission the fee payable to that planning authority is £124[^key-91741954468165ef65d04ca69d39d565] for each request.
+(4) Where a request is made to a planning authority for written confirmation of compliance with a condition imposed on the grant of planning permission the fee payable to that planning authority is £124[^c-91741954468165ef65d04ca69d39d565] for each request.
 
 (5) A planning authority may only charge fees for pre-application discussions after the publication of information setting out—
 
@@ -135,7 +135,7 @@ In these Regulations—
 - (b) how fees are to be calculated for those services, and
 - (c) under what circumstances the planning authority may waive or reduce that fee.
 
-(5A)[^key-48d00fb6373e62c286f2417f808f0249] A planning authority may only charge a fee for the preparation of a processing agreement after the publication of information setting out—
+(5A)[^c-48d00fb6373e62c286f2417f808f0249] A planning authority may only charge a fee for the preparation of a processing agreement after the publication of information setting out—
 
 - (a) how the fee is to be calculated,
 - (b) under what circumstances the planning authority may waive or reduce the fee, and
@@ -146,9 +146,9 @@ In these Regulations—
 - (a) is to be payable by the person entering into, or seeking to enter into, the processing agreement with the planning authority, and
 - (b) may not exceed the cost to the planning authority of preparing the processing agreement.
 
-(6) The information published by a planning authority under paragraph (5) or (5A)[^key-fc462b58a66bd925ba04790a665850bc] must be published on the planning authority’s website.
+(6) The information published by a planning authority under paragraph (5) or (5A)[^c-fc462b58a66bd925ba04790a665850bc] must be published on the planning authority’s website.
 
-### 4A. Discretion to charge fees – masterplan consent area schemes[^key-634b51b7586150f49cc0afe74b2c7227]
+### 4A. Discretion to charge fees – masterplan consent area schemes[^c-634b51b7586150f49cc0afe74b2c7227]
 
 (1) This regulation applies in respect of charges or fees related to—
 
@@ -172,7 +172,7 @@ In these Regulations—
 
 (6) Where a planning authority requires payment of a charge under paragraph (2)(a) in respect of the costs related to the preparation, making or alteration of a masterplan consent area scheme, the planning authority must as soon as practicable after all the charges payable in respect, as the case may be, of the preparation, making or alteration of the scheme have been paid, publish a statement to that effect on the internet.
 
-### 5. Waiving or reducing of fees[^key-5a8b38b41673bc7129d41edbe8818aa0]
+### 5. Waiving or reducing of fees[^c-5a8b38b41673bc7129d41edbe8818aa0]
 
 (1) A planning authority may waive or reduce any planning fee payable under regulation 3 in accordance with the provisions of this regulation.
 
@@ -189,7 +189,7 @@ In these Regulations—
 
 (6) For the purposes of paragraph (3) “not for profit enterprise” and “social enterprise” have the meanings in section 252(1F) of the 1997 Act.
 
-### 6. Applications where a surcharge is payable - retrospective applications[^key-f38874940e3c57384a6524be8d3a8309]
+### 6. Applications where a surcharge is payable - retrospective applications[^c-f38874940e3c57384a6524be8d3a8309]
 
 (1) Where, on or after 1 October 2022, an application for planning permission is made after the carrying out of the development to which it relates, a surcharge may be imposed in relation to that application by the planning authority in accordance with this regulation.
 
@@ -204,7 +204,7 @@ In these Regulations—
 
 ## PART 3 — Applications where no fee is payable
 
-### 7. Means of access etc. for disabled persons[^key-17cab78f19ad33e14a87d8465d46ca36]
+### 7. Means of access etc. for disabled persons[^c-17cab78f19ad33e14a87d8465d46ca36]
 
 (1) No fee is payable under regulation 3 where the planning authority to which an application is made is satisfied as to the matters specified in paragraphs (2)(a) or (b).
 
@@ -217,7 +217,7 @@ In these Regulations—
 
 (3) In this regulation, “**disabled person**” has the meaning given by section 6 of the Equality Act 2010[^f00008].
 
-### 8. Restrictions on permitted development rights[^key-fdb5a29a550cb91a8a8d5cc32f011b0c]
+### 8. Restrictions on permitted development rights[^c-fdb5a29a550cb91a8a8d5cc32f011b0c]
 
 (1) No fee is payable under regulation 3 where the planning authority to which an application is made is satisfied as to the matters specified in paragraph (2).
 
@@ -230,11 +230,11 @@ In these Regulations—
 
 (3) The reference in paragraph (2)(a) to an application which relates to development which is within one or more of the classes specified in schedule 1 of the General Permitted Development Order includes an application for planning permission for the continuance of a use of land, or the retention of buildings or works, without compliance with a condition subject to which a previous planning permission has been granted, and which prohibits or limits the carrying out of any development which is within one or more of those classes.
 
-### 9. Advertisements - disapplication of deemed consent[^key-25db1daba885e81f2630652ab6d7b967]
+### 9. Advertisements - disapplication of deemed consent[^c-25db1daba885e81f2630652ab6d7b967]
 
 No fee is payable under regulation 3 for an application for a consent for the display of advertisements under regulation 15 of the 1984 Regulations if the application is occasioned by a direction under regulation 11 (power to exclude the application of regulation 10) of the 1984 Regulations disapplying regulation 10 (advertisements which may be displayed without express consent) in relation to that advertisement.
 
-### 10. Use specified in the Town and Country Planning (Use Classes) (Scotland) Order 1997[^key-b53224523156aae7030f735336611be8]
+### 10. Use specified in the Town and Country Planning (Use Classes) (Scotland) Order 1997[^c-b53224523156aae7030f735336611be8]
 
 No fee is payable under regulation 3 for an application for planning permission where the planning authority to which an application is made is satisfied that—
 
@@ -242,7 +242,7 @@ No fee is payable under regulation 3 for an application for planning permission 
 - (b) the existing use of that building or other land is for another purpose of the same class, and
 - (c) the making of an application for planning permission for the use to which the application relates is necessary because of a condition imposed on a permission granted under Part III of the 1997 Act.
 
-### 11. Repeat applications for planning permission[^key-29533330212d08deabf62d8441c4c656]
+### 11. Repeat applications for planning permission[^c-29533330212d08deabf62d8441c4c656]
 
 (1) This regulation applies to an application for planning permission made—
 
@@ -269,7 +269,7 @@ No fee is payable under regulation 3 for an application for planning permission 
 - (d) no application made by the same applicant in relation to the whole or any part of the site has already been exempted from payment of a fee by virtue of this regulation or regulations 7 and 8 of the 2004 Regulations, and
 - (e) the fee payable in respect of the earlier application was paid.
 
-### 12. Repeat applications for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle[^key-fef619dcd86e8a628eb3e732dae29c43]
+### 12. Repeat applications for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle[^c-fef619dcd86e8a628eb3e732dae29c43]
 
 (1) This regulation applies to an application for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle made—
 
@@ -295,7 +295,7 @@ No fee is payable under regulation 3 for an application for planning permission 
 - (c) no application made by the same applicant in relation to the whole or any part of the site has already been exempted from payment of a fee by virtue of this regulation or regulations 7 and 8 of the 2004 Regulations, and
 - (d) the fee payable in respect of the earlier application was paid.
 
-### 13. Repeat applications for certificates of lawful use or development or certificates of proposed use or development[^key-4a989faa230c491dc7ce105ca4452d29]
+### 13. Repeat applications for certificates of lawful use or development or certificates of proposed use or development[^c-4a989faa230c491dc7ce105ca4452d29]
 
 (1) This regulation applies to an application for a certificate of lawful use or development under section 150 or a certificate of proposed use or development under section 151 of the 1997 Act made following—
 
@@ -314,7 +314,7 @@ No fee is payable under regulation 3 for an application for planning permission 
 - (d) the fee payable in respect of the earlier application was paid, and
 - (e) no application made by or on behalf of the same applicant in relation to the whole or any part of the site has already been exempted from payment of a fee by virtue of this regulation or regulation 12 of the 2004 Regulations.
 
-### 14. Winning and working of minerals[^key-29a84a52a291ea5a0cc4928beb1cbc4f]
+### 14. Winning and working of minerals[^c-29a84a52a291ea5a0cc4928beb1cbc4f]
 
 No fee is payable under regulation 3 in relation to an application for permission to carry out development consisting of the winning and working of minerals where the application—
 
@@ -323,7 +323,7 @@ No fee is payable under regulation 3 in relation to an application for permissio
 
 ## PART 4 — General provisions
 
-### 15. Amendment of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 and saving provision[^key-d89701afb7ac11008e9ae69e8dbca0cd]
+### 15. Amendment of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 and saving provision[^c-d89701afb7ac11008e9ae69e8dbca0cd]
 
 (1) Subject to paragraph (3), the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015[^f00012] (“**the 2015 Regulations**”) are amended in accordance with paragraph (2).
 
@@ -334,7 +334,7 @@ No fee is payable under regulation 3 in relation to an application for permissio
 
 (3) The amendments made by this regulation apply only to applications made under regulations 6, 7 and 8 of the 2015 Regulations on or after 1 April 2022 and the 2015 Regulations continue to apply in respect of any application made before 1 April 2022 as they did immediately before that date.
 
-### 16. Revocations and saving provision[^key-5214a59cc429a80bc816441d01b501fa]
+### 16. Revocations and saving provision[^c-5214a59cc429a80bc816441d01b501fa]
 
 (1) Subject to paragraph (2), the 2004 Regulations and the regulations listed in schedule 2 are revoked.
 
@@ -354,7 +354,7 @@ Regulation 3(2)(a)
 
 ### PART 1 — General provisions
 
-#### 1. Tables of fees[^key-f167f1dbf9dc1da5a0f41d6141a61afe]
+#### 1. Tables of fees[^c-f167f1dbf9dc1da5a0f41d6141a61afe]
 
 (1) The fee payable under regulation 3 for an application relating to a category of development in column 1 of the relevant table contained in Part 3 of this schedule is the fee calculated in accordance with the appropriate entry in column 2 of that table and paragraphs 1 to 11.
 
@@ -367,14 +367,14 @@ Regulation 3(2)(a)
 - (c) table 3 in relation to an application for a certificate of lawful use or development under section 150 or for a certificate of proposed use or development under section 151 of the 1997 Act,
 - (d) table 4 in relation to an application for a determination as to whether the planning authority’s prior approval is required in relation to development under schedule 1 of the General Permitted Development Order.
 
-#### 2. Categories of development[^key-15c066da5989f5319581babe49dc4d74]
+#### 2. Categories of development[^c-15c066da5989f5319581babe49dc4d74]
 
 In this schedule—
 
 - (a) any reference to a category of development is a reference to one of the categories of development specified in column 1 of the relevant table, and
 - (b) in the case of an application for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle, references to the category of development to which an application relates are to be construed as references to the category of development authorised by the relevant planning permission in principle.
 
-#### 3. Calculation of area or floor space[^key-1b607c4049329588aafbfef3aabdb640]
+#### 3. Calculation of area or floor space[^c-1b607c4049329588aafbfef3aabdb640]
 
 Where, in respect of any category of development the fee must be calculated by reference to—
 
@@ -385,14 +385,14 @@ Where, in respect of any category of development the fee must be calculated by r
   - (i) the area of gross floor space is to be ascertained by external measurement of the floor space, whether or not it is to be bounded wholly or partly by external walls of a building, and
   - (ii) where the floor is to be measured by units of 100 square metres any floor space remaining after division of the gross floor space by 100 square metres is to be treated as 100 square metres.
 
-#### 4. Alternative applications[^key-69727d99559d98218383ee49f8d20e2f]
+#### 4. Alternative applications[^c-69727d99559d98218383ee49f8d20e2f]
 
 Where an application relates to development which is within more than one of the categories of development—
 
 - (a) an amount is to be calculated in respect of each category of development, and
 - (b) the highest amount so calculated is the fee payable in respect of the application.
 
-#### 4A. Mixed-use development[^key-6ef71e6c188030567561ecb28898272b]
+#### 4A. Mixed-use development[^c-6ef71e6c188030567561ecb28898272b]
 
 (1) Where this paragraph applies the fee payable to the planning authority for an application is calculated and payable in accordance with sub-paragraphs (3) to (6).
 
@@ -412,7 +412,7 @@ Where an application relates to development which is within more than one of the
 
 (6) Where an application to which this paragraph applies relates to development which is also within one or more of any other category of table 1, an amount is to be calculated in accordance with each such category and if any of the amounts so calculated exceeds the amount calculated in accordance with sub-paragraph (3) that higher amount is the fee payable in respect of all of the development to which the application relates.
 
-#### 5. Glasshouses and polytunnels[^key-6386dffe8ecffe1482ba4dcff5626bea]
+#### 5. Glasshouses and polytunnels[^c-6386dffe8ecffe1482ba4dcff5626bea]
 
 In table 1 “**glasshouse and polytunnel**” means a building which—
 
@@ -420,34 +420,34 @@ In table 1 “**glasshouse and polytunnel**” means a building which—
 - (b) is designed for the production of flowers, fruit, vegetables, herb or other horticultural produce, and
 - (c) is used, or is to be used, solely for the purposes of agriculture.
 
-#### 6. Planning permission in principle granted before 1 April 2022[^key-98c83448bddc7e567038ac8393d8813e]
+#### 6. Planning permission in principle granted before 1 April 2022[^c-98c83448bddc7e567038ac8393d8813e]
 
-Where the application is for the approval, consent, or agreement required by a condition imposed on a grant of planning permission[^key-919a7d118c376b27bcaff066bf8f6556] in principle and—
+Where the application is for the approval, consent, or agreement required by a condition imposed on a grant of planning permission[^c-919a7d118c376b27bcaff066bf8f6556] in principle and—
 
 - (a) the planning permission in principle was granted before 1 April 2022, and
-- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^key-3dcff294b9a0c06b53b1261b2d1cb5fd] of table 1,
+- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^c-3dcff294b9a0c06b53b1261b2d1cb5fd] of table 1,
 
 the fee payable under regulation 3 is subject to a maximum of £125,000.
 
-#### 6A. Planning permission granted in principle on or after 1 April 2022 and before 12 December 2024[^key-14db5c65297fc322fee4a07adede2760]
+#### 6A. Planning permission granted in principle on or after 1 April 2022 and before 12 December 2024[^c-14db5c65297fc322fee4a07adede2760]
 
 Where the application is for the approval, consent or agreement required by a condition imposed on a grant of planning permission in principle and—
 
 - (a) the planning permission in principle was granted on or after 1 April 2022 and before 12 December 2024, and
-- (b) the application relates to a development within categories 1, 4, 7, 13 or 17[^key-b6a55cd661c94e64f9d0d18137cee3e3] of table 1,
+- (b) the application relates to a development within categories 1, 4, 7, 13 or 17[^c-b6a55cd661c94e64f9d0d18137cee3e3] of table 1,
 
 the fee payable under regulation 3 is subject to a maximum of £150,000.
 
-#### 6B. Planning permission granted in principle on or after 12 December 2024 and before 9 June 2025[^key-d7fe6bb9a59bcccd06d3021e96beb928]
+#### 6B. Planning permission granted in principle on or after 12 December 2024 and before 9 June 2025[^c-d7fe6bb9a59bcccd06d3021e96beb928]
 
 Where the application is for the approval, consent or agreement required by a condition imposed on a grant of planning permission in principle and—
 
 - (a) the planning permission in principle was granted on or after 12 December 2024 and before 9 June 2025, and
-- (b) the application relates to a development within categories 1, 4, 7, 13 or 17[^key-87ac5cdf390b4f8e1a9d4b854af0f402] of table 1,
+- (b) the application relates to a development within categories 1, 4, 7, 13 or 17[^c-87ac5cdf390b4f8e1a9d4b854af0f402] of table 1,
 
 the fee payable under regulation 3 is subject to a maximum of £172,856.
 
-#### 6C. Planning permission in principle granted on or after 9 June 2025 and before 1 April 2026[^key-22250bc9dab2c2c419e27a1c7233a001]
+#### 6C. Planning permission in principle granted on or after 9 June 2025 and before 1 April 2026[^c-22250bc9dab2c2c419e27a1c7233a001]
 
 Where the application is for the approval, consent or agreement required by a condition imposed on a grant of planning permission in principle and—
 
@@ -458,11 +458,11 @@ the fee payable under regulation 3 is subject to a maximum of £178,560.
 
 ### PART 2 — Modified fees
 
-#### 7. Applications by community councils[^key-55e18b5012d443b445232d3aa524f562]
+#### 7. Applications by community councils[^c-55e18b5012d443b445232d3aa524f562]
 
 Where the application is made by a community council established under section 51 of the Local Government (Scotland) Act 1973[^f00013], the amount of the fee payable in respect of the application is reduced by one half.
 
-#### 8. Applications in conservation areas[^key-c3a393c2c1c1b3b56ec20d3e0fe70669]
+#### 8. Applications in conservation areas[^c-c3a393c2c1c1b3b56ec20d3e0fe70669]
 
 (1) Where all the conditions in sub-paragraph (2) are satisfied, the amount of fee payable in respect of an application is reduced by one quarter.
 
@@ -475,9 +475,9 @@ Where the application is made by a community council established under section 5
 - (c) the application relates solely to development within one or more of the classes specified in schedule 1 of the General Permitted Development Order, and
 - (d) the only reason planning permission is not granted by article 3(1) of the General Permitted Development Order is that the development would be in a conservation area.
 
-#### 9. Applications for the provision of facilities for sport or recreation[^key-fa0cead7617baf4c045dea3626804331]
+#### 9. Applications for the provision of facilities for sport or recreation[^c-fa0cead7617baf4c045dea3626804331]
 
-(1) Where an application is made by or for a club, society, trust or other organisation which is not established or conducted for profit and whose objects or purposes, as the case may be, are the provision of facilities for sport or recreation, and the conditions specified in sub-paragraph (2) are satisfied, the fee payable is £742[^key-9e095254f208fb23f7e88c33003f7e85].
+(1) Where an application is made by or for a club, society, trust or other organisation which is not established or conducted for profit and whose objects or purposes, as the case may be, are the provision of facilities for sport or recreation, and the conditions specified in sub-paragraph (2) are satisfied, the fee payable is £742[^c-9e095254f208fb23f7e88c33003f7e85].
 
 (2) The conditions are—
 
@@ -488,23 +488,23 @@ Where the application is made by a community council established under section 5
   and to no other development, and
 - (b) that the planning authority is satisfied that the development is to be carried out on land which is, or is intended to be used wholly or mainly for the carrying out of the objects or purposes, as the case may be, of the club, society, trust or organisation.
 
-#### 10. Applications for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle[^key-d6e18a17454f68b167c342e02a86295e]
+#### 10. Applications for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle[^c-d6e18a17454f68b167c342e02a86295e]
 
 (1) This paragraph applies where—
 
 - (a) an application is made for approval, consent or agreement in respect of one or more matters requiring such approval, consent or agreement in terms of a condition imposed on a grant of planning permission in principle (“**the current application**”), and
 - (b) the applicant has previously made one or more applications for approval, consent or agreement required by a condition imposed on the grant of that same planning permission in principle and paid the fee in relation to such application or applications.
 
-(2) Where the amount paid as mentioned in sub-paragraph (1)(b) is not less than the amount which would be payable if the applicant were by the current application seeking approval, consent or agreement in respect of all the matters requiring such approval, consent or agreement in terms of conditions imposed on a grant of a planning permission in principle and in relation to the whole of the development authorised by the permission, the fee payable in respect of the current application is £618[^key-0c5e7fea0b5b5052341ef1b08eae38c1].
+(2) Where the amount paid as mentioned in sub-paragraph (1)(b) is not less than the amount which would be payable if the applicant were by the current application seeking approval, consent or agreement in respect of all the matters requiring such approval, consent or agreement in terms of conditions imposed on a grant of a planning permission in principle and in relation to the whole of the development authorised by the permission, the fee payable in respect of the current application is £618[^c-0c5e7fea0b5b5052341ef1b08eae38c1].
 
 (3) Where—
 
 - (a) a fee has been paid as mentioned in sub-paragraph (1)(b) at a rate lower than that prevailing at the date of the current application, and
 - (b) sub-paragraph (2) would apply if that fee had been paid at the rate applying at that date,
 
-the fee in respect of the current application is £618[^key-9402152fe71fdaf6234f4086e6c428a1].
+the fee in respect of the current application is £618[^c-9402152fe71fdaf6234f4086e6c428a1].
 
-#### 11. Cross boundary applications – allocation of fee[^key-a2589e106fae61fbe77aec003b1035af]
+#### 11. Cross boundary applications – allocation of fee[^c-a2589e106fae61fbe77aec003b1035af]
 
 (1) Where this paragraph applies the fee payable to the planning authority for an application is calculated and payable in accordance with sub-paragraphs (2) to (4).
 
@@ -522,7 +522,7 @@ in respect of development of land lying in the areas of 2 or more planning autho
 
 (4) The fee payable to a planning authority in respect of an application is the proportion of the total fee payable equal to the proportion of the total site area of the development which falls within the area of that planning authority.
 
-#### 12. Alternative proposals[^key-27eb348578af9f51a2a95c98c6f0640b]
+#### 12. Alternative proposals[^c-27eb348578af9f51a2a95c98c6f0640b]
 
 (1) Where two or more applications for planning permission are made on the same date and by the same applicant and in respect of two or more proposals for the development of the same land, a single fee calculated in accordance with sub-paragraph (3) is payable in respect of the applications.
 
@@ -533,7 +533,7 @@ in respect of development of land lying in the areas of 2 or more planning autho
 - (a) an amount equal to the highest fee calculated in respect of each of the applications, and
 - (b) an amount calculated by adding together the fees appropriate to all of the applications, other than the amount referred to in head (a) and dividing that total by 2.
 
-### Part 3 — Tables of Fees[^key-f7ad301799f44b557af3f201533aaa12]
+### Part 3 — Tables of Fees[^c-f7ad301799f44b557af3f201533aaa12]
 
 Table 1
 
@@ -639,7 +639,7 @@ Table 4
 </tbody>
 </table>
 
-## SCHEDULE 2 — REVOKED INSTRUMENTS[^key-1846e12eb831b7a404167e072861e4f2]
+## SCHEDULE 2 — REVOKED INSTRUMENTS[^c-1846e12eb831b7a404167e072861e4f2]
 
 Regulation 16
 
@@ -674,11 +674,11 @@ Under regulation 16, the Town and Country Planning (Fees for Applications and De
 
 [^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 252 was amended by the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), section 31 the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), section 55, and the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), section 41. The functions of the Secretary of State in so far as they are within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-833730397d6bbf3a7c08acea53a63197]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/50/regulation/1) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-833730397d6bbf3a7c08acea53a63197]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/50/regulation/1) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-c281e336af3766eba6a4109709c66b44]: Textual amendment: [Reg. 1(2)(b)(iv)-(vi)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/2/b/iv) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [3](https://www.legislation.gov.uk/ssi/2024/292/regulation/3)
+[^c-c281e336af3766eba6a4109709c66b44]: Textual amendment: [Reg. 1(2)(b)(iv)-(vi)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/2/b/iv) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [3](https://www.legislation.gov.uk/ssi/2024/292/regulation/3)
 
-[^key-215eed1b54a577f4c0eba1a061dbb0d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/50/regulation/2) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-215eed1b54a577f4c0eba1a061dbb0d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/50/regulation/2) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1984/467](https://www.legislation.gov.uk/uksi/1984/467) as amended by [S.I. 1992/1763](https://www.legislation.gov.uk/uksi/1992/1763), [S.I. 1996/252](https://www.legislation.gov.uk/uksi/1996/252), [S.S.I. 2003/503](https://www.legislation.gov.uk/ssi/2003/503), [S.S.I. 2004/332](https://www.legislation.gov.uk/ssi/2004/332), [S.S.I. 2006/95](https://www.legislation.gov.uk/ssi/2006/95), S.S.I 2013/154 and [S.S.I. 2014/139](https://www.legislation.gov.uk/ssi/2014/139).
 
@@ -692,110 +692,110 @@ Under regulation 16, the Town and Country Planning (Fees for Applications and De
 
 [^f00007]: Footnote: Section 59 was amended by the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), section 21, and [S.S.I. 2013/26](https://www.legislation.gov.uk/ssi/2013/26).
 
-[^key-4ebb51ceba36ffd9e02c20ca90711268]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2022/50/regulation/2) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [4](https://www.legislation.gov.uk/ssi/2024/292/regulation/4)
+[^c-4ebb51ceba36ffd9e02c20ca90711268]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2022/50/regulation/2) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [4](https://www.legislation.gov.uk/ssi/2024/292/regulation/4)
 
-[^key-c79eaf63b8efb883211d0a9975f1d307]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/50/regulation/3) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-c79eaf63b8efb883211d0a9975f1d307]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/50/regulation/3) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-076766da42de76cb38118eba5333e0e8]: Textual amendment: Sum in [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2022/50/regulation/3/2/b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [3](https://www.legislation.gov.uk/ssi/2026/49/regulation/3)
+[^c-076766da42de76cb38118eba5333e0e8]: Textual amendment: Sum in [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2022/50/regulation/3/2/b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [3](https://www.legislation.gov.uk/ssi/2026/49/regulation/3)
 
-[^key-21afe797c331f388e8005f6cd07da39e]: Textual amendment: Sum in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2022/50/regulation/3/3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [3](https://www.legislation.gov.uk/ssi/2026/49/regulation/3)
+[^c-21afe797c331f388e8005f6cd07da39e]: Textual amendment: Sum in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2022/50/regulation/3/3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [3](https://www.legislation.gov.uk/ssi/2026/49/regulation/3)
 
-[^key-a2ba6cf03afcce6215695787a42d0a87]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/50/regulation/4) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-a2ba6cf03afcce6215695787a42d0a87]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/50/regulation/4) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-75863e9d06b7acda5b8eb700cc12a018]: Textual amendment: [Reg. 4(2)(aa)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/2/aa) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2024/292/regulation/6/a)
+[^c-75863e9d06b7acda5b8eb700cc12a018]: Textual amendment: [Reg. 4(2)(aa)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/2/aa) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2024/292/regulation/6/a)
 
-[^key-d8242ee3dde2af0ff53c53ec18a39c09]: Textual amendment: Sum in [reg. 4(3)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2026/49/regulation/4/a)
+[^c-d8242ee3dde2af0ff53c53ec18a39c09]: Textual amendment: Sum in [reg. 4(3)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2026/49/regulation/4/a)
 
-[^key-91741954468165ef65d04ca69d39d565]: Textual amendment: Sum in reg. 4(4) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2026/49/regulation/4/b)
+[^c-91741954468165ef65d04ca69d39d565]: Textual amendment: Sum in reg. 4(4) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2026/49/regulation/4/b)
 
-[^key-48d00fb6373e62c286f2417f808f0249]: Textual amendment: [Reg. 4(5A)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/5A)[(5B)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/5B) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [6(d)](https://www.legislation.gov.uk/ssi/2024/292/regulation/6/d)
+[^c-48d00fb6373e62c286f2417f808f0249]: Textual amendment: [Reg. 4(5A)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/5A)[(5B)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/5B) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [6(d)](https://www.legislation.gov.uk/ssi/2024/292/regulation/6/d)
 
-[^key-fc462b58a66bd925ba04790a665850bc]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/6) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [6(e)](https://www.legislation.gov.uk/ssi/2024/292/regulation/6/e)
+[^c-fc462b58a66bd925ba04790a665850bc]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2022/50/regulation/4/6) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [6(e)](https://www.legislation.gov.uk/ssi/2024/292/regulation/6/e)
 
-[^key-634b51b7586150f49cc0afe74b2c7227]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2022/50/regulation/4A) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [7](https://www.legislation.gov.uk/ssi/2024/292/regulation/7)
+[^c-634b51b7586150f49cc0afe74b2c7227]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2022/50/regulation/4A) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [7](https://www.legislation.gov.uk/ssi/2024/292/regulation/7)
 
-[^key-5a8b38b41673bc7129d41edbe8818aa0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/50/regulation/5) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-5a8b38b41673bc7129d41edbe8818aa0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/50/regulation/5) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-f38874940e3c57384a6524be8d3a8309]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/50/regulation/6) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-f38874940e3c57384a6524be8d3a8309]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/50/regulation/6) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-17cab78f19ad33e14a87d8465d46ca36]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/50/regulation/7) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-17cab78f19ad33e14a87d8465d46ca36]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/50/regulation/7) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
 [^f00008]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-fdb5a29a550cb91a8a8d5cc32f011b0c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/50/regulation/8) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-fdb5a29a550cb91a8a8d5cc32f011b0c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/50/regulation/8) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-25db1daba885e81f2630652ab6d7b967]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/50/regulation/9) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-25db1daba885e81f2630652ab6d7b967]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/50/regulation/9) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-b53224523156aae7030f735336611be8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/50/regulation/10) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-b53224523156aae7030f735336611be8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/50/regulation/10) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1997/3061](https://www.legislation.gov.uk/uksi/1997/3061) to which there are amendments not relevant to these Regulations.
 
-[^key-29533330212d08deabf62d8441c4c656]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/50/regulation/11) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-29533330212d08deabf62d8441c4c656]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/50/regulation/11) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
 [^f00010]: Footnote: Section 47 was amended by the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), section 19(1).
 
 [^f00011]: Footnote: Section 43A(8)(c) was amended by [S.S.I. 2013/24](https://www.legislation.gov.uk/ssi/2013/24).
 
-[^key-fef619dcd86e8a628eb3e732dae29c43]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2022/50/regulation/12) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-fef619dcd86e8a628eb3e732dae29c43]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2022/50/regulation/12) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-4a989faa230c491dc7ce105ca4452d29]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2022/50/regulation/13) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-4a989faa230c491dc7ce105ca4452d29]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2022/50/regulation/13) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-29a84a52a291ea5a0cc4928beb1cbc4f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2022/50/regulation/14) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-29a84a52a291ea5a0cc4928beb1cbc4f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2022/50/regulation/14) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-d89701afb7ac11008e9ae69e8dbca0cd]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2022/50/regulation/15) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-d89701afb7ac11008e9ae69e8dbca0cd]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2022/50/regulation/15) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
 [^f00012]: Footnote: [S.S.I. 2015/181](https://www.legislation.gov.uk/ssi/2015/181) to which there are amendments not relevant to these Regulations.
 
-[^key-5214a59cc429a80bc816441d01b501fa]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2022/50/regulation/16) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-5214a59cc429a80bc816441d01b501fa]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2022/50/regulation/16) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-f167f1dbf9dc1da5a0f41d6141a61afe]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/1) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-f167f1dbf9dc1da5a0f41d6141a61afe]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/1) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-15c066da5989f5319581babe49dc4d74]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/2) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-15c066da5989f5319581babe49dc4d74]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/2) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-1b607c4049329588aafbfef3aabdb640]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/3) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-1b607c4049329588aafbfef3aabdb640]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/3) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-69727d99559d98218383ee49f8d20e2f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/4) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-69727d99559d98218383ee49f8d20e2f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/4) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-6ef71e6c188030567561ecb28898272b]: Textual amendment: [Sch. 1 para. 4A](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/4A) inserted (30.6.2022) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/190)](https://www.legislation.gov.uk/ssi/2022/190), [regs. 1](https://www.legislation.gov.uk/ssi/2022/190/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2022/190/regulation/3/a)
+[^c-6ef71e6c188030567561ecb28898272b]: Textual amendment: [Sch. 1 para. 4A](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/4A) inserted (30.6.2022) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/190)](https://www.legislation.gov.uk/ssi/2022/190), [regs. 1](https://www.legislation.gov.uk/ssi/2022/190/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2022/190/regulation/3/a)
 
-[^key-6386dffe8ecffe1482ba4dcff5626bea]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/5) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-6386dffe8ecffe1482ba4dcff5626bea]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/5) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-98c83448bddc7e567038ac8393d8813e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-98c83448bddc7e567038ac8393d8813e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-919a7d118c376b27bcaff066bf8f6556]: Textual amendment: Words in [sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/i)
+[^c-919a7d118c376b27bcaff066bf8f6556]: Textual amendment: Words in [sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/i)
 
-[^key-3dcff294b9a0c06b53b1261b2d1cb5fd]: Textual amendment: Words in [sch. 1 para. 6(b)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6/b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/i)
+[^c-3dcff294b9a0c06b53b1261b2d1cb5fd]: Textual amendment: Words in [sch. 1 para. 6(b)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6/b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/i)
 
-[^key-14db5c65297fc322fee4a07adede2760]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6A) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2024/292/regulation/8/a)
+[^c-14db5c65297fc322fee4a07adede2760]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6A) inserted (12.12.2024) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/292)](https://www.legislation.gov.uk/ssi/2024/292), [regs. 1](https://www.legislation.gov.uk/ssi/2024/292/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2024/292/regulation/8/a)
 
-[^key-b6a55cd661c94e64f9d0d18137cee3e3]: Textual amendment: Words in [sch. 1 para. 6A(b)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6A/b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/ii)
+[^c-b6a55cd661c94e64f9d0d18137cee3e3]: Textual amendment: Words in [sch. 1 para. 6A(b)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6A/b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/ii)
 
-[^key-d7fe6bb9a59bcccd06d3021e96beb928]: Textual amendment: [Sch. 1 para. 6B](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6B) inserted (9.6.2025) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/125)](https://www.legislation.gov.uk/ssi/2025/125), [regs. 1](https://www.legislation.gov.uk/ssi/2025/125/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2025/125/regulation/5/a)
+[^c-d7fe6bb9a59bcccd06d3021e96beb928]: Textual amendment: [Sch. 1 para. 6B](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6B) inserted (9.6.2025) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/125)](https://www.legislation.gov.uk/ssi/2025/125), [regs. 1](https://www.legislation.gov.uk/ssi/2025/125/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2025/125/regulation/5/a)
 
-[^key-87ac5cdf390b4f8e1a9d4b854af0f402]: Textual amendment: Words in [sch. 1 para. 6B(b)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6B/b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(iii)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/iii)
+[^c-87ac5cdf390b4f8e1a9d4b854af0f402]: Textual amendment: Words in [sch. 1 para. 6B(b)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6B/b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(iii)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/iii)
 
-[^key-22250bc9dab2c2c419e27a1c7233a001]: Textual amendment: [Sch. 1 para. 6C](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6C) inserted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(iv)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/iv)
+[^c-22250bc9dab2c2c419e27a1c7233a001]: Textual amendment: [Sch. 1 para. 6C](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/6C) inserted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(a)(iv)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/a/iv)
 
-[^key-55e18b5012d443b445232d3aa524f562]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/7) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-55e18b5012d443b445232d3aa524f562]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/7) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
 [^f00013]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65). Section 51 was amended by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), section 180 and schedule 14.
 
-[^key-c3a393c2c1c1b3b56ec20d3e0fe70669]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/8) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-c3a393c2c1c1b3b56ec20d3e0fe70669]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/8) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-fa0cead7617baf4c045dea3626804331]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/9) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-fa0cead7617baf4c045dea3626804331]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/9) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-9e095254f208fb23f7e88c33003f7e85]: Textual amendment: Sum in [sch. 1 para. 9(1)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/9/1) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/b/i)
+[^c-9e095254f208fb23f7e88c33003f7e85]: Textual amendment: Sum in [sch. 1 para. 9(1)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/9/1) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/b/i)
 
-[^key-d6e18a17454f68b167c342e02a86295e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/10) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-d6e18a17454f68b167c342e02a86295e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/10) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-0c5e7fea0b5b5052341ef1b08eae38c1]: Textual amendment: Sum in [sch. 1 para. 10(2)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/10/2) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/b/ii)
+[^c-0c5e7fea0b5b5052341ef1b08eae38c1]: Textual amendment: Sum in [sch. 1 para. 10(2)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/10/2) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/b/ii)
 
-[^key-9402152fe71fdaf6234f4086e6c428a1]: Textual amendment: Sum in [sch. 1 para. 10(3)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/10/3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/b/ii)
+[^c-9402152fe71fdaf6234f4086e6c428a1]: Textual amendment: Sum in [sch. 1 para. 10(3)](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/10/3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/b/ii)
 
-[^key-a2589e106fae61fbe77aec003b1035af]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/11) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-a2589e106fae61fbe77aec003b1035af]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/11) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
 
-[^key-27eb348578af9f51a2a95c98c6f0640b]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/12) inserted (30.6.2022) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/190)](https://www.legislation.gov.uk/ssi/2022/190), [regs. 1](https://www.legislation.gov.uk/ssi/2022/190/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2022/190/regulation/3/b)
+[^c-27eb348578af9f51a2a95c98c6f0640b]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/paragraph/12) inserted (30.6.2022) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/190)](https://www.legislation.gov.uk/ssi/2022/190), [regs. 1](https://www.legislation.gov.uk/ssi/2022/190/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2022/190/regulation/3/b)
 
-[^key-f7ad301799f44b557af3f201533aaa12]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/part/3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/c)
+[^c-f7ad301799f44b557af3f201533aaa12]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2022/50/schedule/1/part/3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Applications) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/49)](https://www.legislation.gov.uk/ssi/2026/49), [regs. 1](https://www.legislation.gov.uk/ssi/2026/49/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2026/49/regulation/5/c)
 
-[^key-1846e12eb831b7a404167e072861e4f2]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2022/50/schedule/2) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)
+[^c-1846e12eb831b7a404167e072861e4f2]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2022/50/schedule/2) in force at 1.4.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1)

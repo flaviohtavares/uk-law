@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Rulings as to application of customs tariff , valuation method or place of origin[^c23439251][^key-05abdd06e8ac6df99c4852cd7ecd7a59][^key-d9e2f8f2c2e301076f0fc3d0fa11bfd5][^key-41209d9dcc78b032f09b26c82d9842d1]
+## 24. Rulings as to application of customs tariff , valuation method or place of origin[^c23439251][^c-05abdd06e8ac6df99c4852cd7ecd7a59][^c-d9e2f8f2c2e301076f0fc3d0fa11bfd5][^c-41209d9dcc78b032f09b26c82d9842d1]
 
 *Extent: E+W+S+N.I.*
 
 (1) HMRC Commissioners must by public notice make provision establishing a system under which persons apply for rulings given by HMRC officers for the purpose of—
 
 - (a) determining any issue as to the code in the customs tariff applicable to any goods,
-- (aa)[^key-9c807552b0381d4e1fc6f07b91e2d892] determining the value of any goods for the purposes of this Part, or
+- (aa)[^c-9c807552b0381d4e1fc6f07b91e2d892] determining the value of any goods for the purposes of this Part, or
 - (b) determining the place of origin of any goods for the purposes of this Part.
 
 (2) Each of the following is an example of the kind of provision that may be made by the notice—
@@ -43,10 +43,10 @@ summary: ''
 
 [^c23439251]: Commencement: S. 24 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-05abdd06e8ac6df99c4852cd7ecd7a59]: Commencement: S. 24 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-05abdd06e8ac6df99c4852cd7ecd7a59]: Commencement: S. 24 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-d9e2f8f2c2e301076f0fc3d0fa11bfd5]: Modification: S. 24 applied (with modifications) (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/1); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d9e2f8f2c2e301076f0fc3d0fa11bfd5]: Modification: S. 24 applied (with modifications) (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/1); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-41209d9dcc78b032f09b26c82d9842d1]: Textual amendment: Words in [s. 24](https://www.legislation.gov.uk/ukpga/2018/22/section/24) heading inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 317(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/317/2)
+[^c-41209d9dcc78b032f09b26c82d9842d1]: Textual amendment: Words in [s. 24](https://www.legislation.gov.uk/ukpga/2018/22/section/24) heading inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 317(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/317/2)
 
-[^key-9c807552b0381d4e1fc6f07b91e2d892]: Textual amendment: [S. 24(1)(aa)](https://www.legislation.gov.uk/ukpga/2018/22/section/24/1/aa) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 317(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/317/3)
+[^c-9c807552b0381d4e1fc6f07b91e2d892]: Textual amendment: [S. 24(1)(aa)](https://www.legislation.gov.uk/ukpga/2018/22/section/24/1/aa) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 317(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/317/3)

@@ -415,7 +415,7 @@ In regulation 14 of the Education (Student Loans) (Scotland) Regulations 2007 (i
 
 (15) In regulation 49(1) (obligations on public authorities), omit sub-paragraph (h).
 
-#### 32. Transitional provision in relation to the Money Laundering Regulations 2007[^key-7b0415944742f8279ae0eed0fad179fd]
+#### 32. Transitional provision in relation to the Money Laundering Regulations 2007[^c-7b0415944742f8279ae0eed0fad179fd]
 
 (1) This paragraph makes transitional provisions in connection with the amendments made to the Money Laundering Regulations 2007 (“**the Regulations**”).
 
@@ -519,7 +519,7 @@ In regulation 16 of the Education (Student Loans) (Repayment) Regulations (North
 [^c23375111]In the Payment Services Regulations 2009 —
 
 - (a) omit regulation 26 (carrying on of Consumer Credit Act business by EEA authorised payment institutions);
-- (b)[^key-e28350cfb68d2405754680cc0c52b73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e28350cfb68d2405754680cc0c52b73f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 41. The Education (Student Loans) (Repayment) Regulations 2009
 
@@ -703,7 +703,7 @@ In section 75(5) of the Housing (Scotland) Act 2006 (determination of applicatio
 
 [^c23375001]: Marginal citation: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157). Amended by [S.I. 2012/2298](https://www.legislation.gov.uk/uksi/2012/2298). There are other amending instruments but none is relevant to this Order.
 
-[^key-7b0415944742f8279ae0eed0fad179fd]: Modification: Sch. para. 32 excluded (31.3.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5), [Sch. 3 paras. 3-7](https://www.legislation.gov.uk/uksi/2014/631/schedule/3/paragraph/3) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-7b0415944742f8279ae0eed0fad179fd]: Modification: Sch. para. 32 excluded (31.3.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(5)](https://www.legislation.gov.uk/uksi/2014/631/article/1/5), [Sch. 3 paras. 3-7](https://www.legislation.gov.uk/uksi/2014/631/schedule/3/paragraph/3) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
 [^c23375011]: Marginal citation: Amended by [S.I. 2012/2298](https://www.legislation.gov.uk/uksi/2012/2298).
 
@@ -727,7 +727,7 @@ In section 75(5) of the Housing (Scotland) Act 2006 (determination of applicatio
 
 [^c23375111]: Marginal citation: [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209).
 
-[^key-e28350cfb68d2405754680cc0c52b73f]: Textual amendment: Sch. para. 40(b) omitted (14.2.2014 for specified purposes, 31.3.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3A)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3A), [19(4)](https://www.legislation.gov.uk/uksi/2014/366/article/19/4)
+[^c-e28350cfb68d2405754680cc0c52b73f]: Textual amendment: Sch. para. 40(b) omitted (14.2.2014 for specified purposes, 31.3.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3A)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3A), [19(4)](https://www.legislation.gov.uk/uksi/2014/366/article/19/4)
 
 [^c23375121]: Marginal citation: [S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Supplementary provision about licence condition powers[^key-2726f6d4a1f86ee297febceec23eeedc][^key-f05574f04d46940a655202418f20fe8d][^key-e3fbf9874d0e06ac672993772902d700]
+## 191. Supplementary provision about licence condition powers[^c-2726f6d4a1f86ee297febceec23eeedc][^c-f05574f04d46940a655202418f20fe8d][^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,8 +40,8 @@ and this section is to be disregarded in determining the generality of those or 
 
 ## Annotations
 
-[^key-2726f6d4a1f86ee297febceec23eeedc]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2004/20/section/191) in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-2726f6d4a1f86ee297febceec23eeedc]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2004/20/section/191) in force at 24.8.2004 for specified purposes by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
 
-[^key-f05574f04d46940a655202418f20fe8d]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2004/20/section/191) in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-f05574f04d46940a655202418f20fe8d]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2004/20/section/191) in force at 5.10.2004 in so far as not already in force by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)

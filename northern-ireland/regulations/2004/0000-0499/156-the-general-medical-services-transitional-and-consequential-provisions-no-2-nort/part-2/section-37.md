@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Outstanding appeals against refusal of an application under regulations 9, 10, or 11 of the 1997 Regulations[^key-f1dccbfca6671dc03fb4400810e5ae8d]
+## 37. Outstanding appeals against refusal of an application under regulations 9, 10, or 11 of the 1997 Regulations[^c-f1dccbfca6671dc03fb4400810e5ae8d]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ the Board shall add that person’s name to its primary medical services perform
 
 ## Annotations
 
-[^key-f1dccbfca6671dc03fb4400810e5ae8d]: Commencement: Art. 37 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-f1dccbfca6671dc03fb4400810e5ae8d]: Commencement: Art. 37 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

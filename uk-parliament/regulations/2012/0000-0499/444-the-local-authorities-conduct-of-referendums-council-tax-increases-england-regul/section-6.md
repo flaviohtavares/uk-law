@@ -67,9 +67,9 @@ summary: ''
 
 (5) The notice published under paragraph (4) must include an explanation of the areas to which the different amounts stated in sub-paragraphs (h) to (p) of paragraph (4) relate.
 
-(6)[^key-0cc9943b15b7aaa77bfd40114b8a6d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0cc9943b15b7aaa77bfd40114b8a6d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-0cc9943b15b7aaa77bfd40114b8a6d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-0cc9943b15b7aaa77bfd40114b8a6d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The notice published under paragraph (2) or (4), may also include—
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cc9943b15b7aaa77bfd40114b8a6d01]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2012/444/regulation/6/6)[(7)](https://www.legislation.gov.uk/uksi/2012/444/regulation/6/7) omitted (10.3.2014) by virtue of [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment) Regulations 2014 (S.I. 2014/231)](https://www.legislation.gov.uk/uksi/2014/231), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/231/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2014/231/regulation/2/c)
+[^c-0cc9943b15b7aaa77bfd40114b8a6d01]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2012/444/regulation/6/6)[(7)](https://www.legislation.gov.uk/uksi/2012/444/regulation/6/7) omitted (10.3.2014) by virtue of [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment) Regulations 2014 (S.I. 2014/231)](https://www.legislation.gov.uk/uksi/2014/231), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/231/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2014/231/regulation/2/c)

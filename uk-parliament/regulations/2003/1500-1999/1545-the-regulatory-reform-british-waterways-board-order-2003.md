@@ -35,7 +35,7 @@ TRANSPORT, ENGLAND AND WALES
 
 TRANSPORT, NORTHERN IRELAND
 
-The Regulatory Reform (British Waterways Board) Order 2003 (revoked)[^key-1b49a96cfaf15846743e1b0c118f9830]
+The Regulatory Reform (British Waterways Board) Order 2003 (revoked)[^c-1b49a96cfaf15846743e1b0c118f9830]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 13th June 2003
 
-[^key-1b49a96cfaf15846743e1b0c118f9830]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b49a96cfaf15846743e1b0c118f9830]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-1b49a96cfaf15846743e1b0c118f9830]
+## 1. Citation, commencement and extent[^c-1b49a96cfaf15846743e1b0c118f9830]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Transport Act 1962[^key-1b49a96cfaf15846743e1b0c118f9830]
+## 2. Amendment of the Transport Act 1962[^c-1b49a96cfaf15846743e1b0c118f9830]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Transport Act 1968[^key-1b49a96cfaf15846743e1b0c118f9830]
+## 3. Amendment of the Transport Act 1968[^c-1b49a96cfaf15846743e1b0c118f9830]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b49a96cfaf15846743e1b0c118f9830]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b49a96cfaf15846743e1b0c118f9830]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1b49a96cfaf15846743e1b0c118f9830]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b49a96cfaf15846743e1b0c118f9830]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b49a96cfaf15846743e1b0c118f9830]: Textual amendment: Order revoked (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [7](https://www.legislation.gov.uk/uksi/2012/1659/article/7) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-1b49a96cfaf15846743e1b0c118f9830]: Textual amendment: Order revoked (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [7](https://www.legislation.gov.uk/uksi/2012/1659/article/7) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

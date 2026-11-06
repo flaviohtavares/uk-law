@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Penalty notices for parents in cases of truancy[^key-18df443ab169dbebe8839b5d5ec1cb4f]
+## 23. Penalty notices for parents in cases of truancy[^c-18df443ab169dbebe8839b5d5ec1cb4f]
 
 *Extent: E+W*
 
@@ -88,11 +88,11 @@ summary: ''
 
 (2) In section 572 of that Act (service of notices and other documents) for “served on any person may be served” substitute “ served on, or given to, any person may be served or given ”.
 
-(3)[^key-191f57e5bf0fc9bfa0cd489e910837e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-191f57e5bf0fc9bfa0cd489e910837e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-191f57e5bf0fc9bfa0cd489e910837e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-191f57e5bf0fc9bfa0cd489e910837e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7930205ea4b2d6a6b74198b6bf897798] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7930205ea4b2d6a6b74198b6bf897798] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In paragraph 1(2) of Schedule 5 to that Act (powers of accredited persons to issue fixed penalty notices) before paragraph (b) insert—
 
@@ -108,16 +108,16 @@ summary: ''
 
 > (4) In its application to an offence which is an offence by reference to which a notice may be given to a person in exercise of the power mentioned in paragraph 1(2)(ab), sub-paragraph (1) of this paragraph shall have effect as if for the words “has committed a relevant offence in the relevant police area” there were substituted “in the relevant police area has committed a relevant offence”.
 
-(9)[^key-59ef4ff1fb1d0987b82205559a32ef96] The National Assembly for Wales may by order amend sections 444A and 444B of the Education Act 1996 (c. 56) by removing the words “in England” in each place where they occur.
+(9)[^c-59ef4ff1fb1d0987b82205559a32ef96] The National Assembly for Wales may by order amend sections 444A and 444B of the Education Act 1996 (c. 56) by removing the words “in England” in each place where they occur.
 
-(10)[^key-59ef4ff1fb1d0987b82205559a32ef96] Where an order is made under subsection (9), any functions of the Secretary of State under sections 444A and 444B of the Education Act 1996 which by virtue of the order become exercisable in relation to Wales are to be treated as if they had been transferred to the National Assembly for Wales by an Order in Council under section 22 of the Government of Wales Act 1998 (c. 38).
+(10)[^c-59ef4ff1fb1d0987b82205559a32ef96] Where an order is made under subsection (9), any functions of the Secretary of State under sections 444A and 444B of the Education Act 1996 which by virtue of the order become exercisable in relation to Wales are to be treated as if they had been transferred to the National Assembly for Wales by an Order in Council under section 22 of the Government of Wales Act 1998 (c. 38).
 
 ## Annotations
 
-[^key-18df443ab169dbebe8839b5d5ec1cb4f]: Commencement: S. 23 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/ii)
+[^c-18df443ab169dbebe8839b5d5ec1cb4f]: Commencement: S. 23 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/ii)
 
-[^key-191f57e5bf0fc9bfa0cd489e910837e1]: Textual amendment: S. 23(3)(4) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 15(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/15/a); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-191f57e5bf0fc9bfa0cd489e910837e1]: Textual amendment: S. 23(3)(4) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 15(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/15/a); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
 
-[^key-7930205ea4b2d6a6b74198b6bf897798]: Textual amendment: S. 23(5) repealed (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(ee)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/ee)
+[^c-7930205ea4b2d6a6b74198b6bf897798]: Textual amendment: S. 23(5) repealed (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(ee)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/ee)
 
-[^key-59ef4ff1fb1d0987b82205559a32ef96]: Modification: S. 23(9)(10) modified (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/18/paragraph/4) (with [s. 119](https://www.legislation.gov.uk/ukpga/2005/18/section/119)); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 5](https://www.legislation.gov.uk/uksi/2005/2034/article/5)
+[^c-59ef4ff1fb1d0987b82205559a32ef96]: Modification: S. 23(9)(10) modified (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2005/18/schedule/18/paragraph/4) (with [s. 119](https://www.legislation.gov.uk/ukpga/2005/18/section/119)); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 5](https://www.legislation.gov.uk/uksi/2005/2034/article/5)

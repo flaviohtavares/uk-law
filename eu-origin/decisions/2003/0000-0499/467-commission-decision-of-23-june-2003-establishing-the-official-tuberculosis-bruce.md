@@ -149,7 +149,7 @@ HAS ADOPTED THIS DECISION:
 
 Decisions 1999/465/EC, 1999/466/EC and 1999/467/EC are repealed.
 
-## Article 5. Addressees[^key-04b49968408c6a3d7873c0a7c7625af0]
+## Article 5. Addressees[^c-04b49968408c6a3d7873c0a7c7625af0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -201,7 +201,7 @@ Decisions 1999/465/EC, 1999/466/EC and 1999/467/EC are repealed.
 - In Spain:[^c000005]
   - Autonomous Community of the Canary Islands,
   - Autonomous Community of Galicia: Province of Pontevedra.
-- [^key-fb9ddf2792de1ddd86cffae60361f7ce]...
+- [^c-fb9ddf2792de1ddd86cffae60361f7ce]...
 
 ## ANNEX II
 
@@ -270,7 +270,7 @@ Decisions 1999/465/EC, 1999/466/EC and 1999/467/EC are repealed.
   - Autonomous Community of Navarra,
   - Autonomous Community of Pais Vasco,
   - Autonomous Community of Valencia.
-- [^key-fb9ddf2792de1ddd86cffae60361f7ce]...
+- [^c-fb9ddf2792de1ddd86cffae60361f7ce]...
 
 ## ANNEX III
 
@@ -297,7 +297,7 @@ Decisions 1999/465/EC, 1999/466/EC and 1999/467/EC are repealed.
 | SK | Slovakia |
 | FI | Finland |
 | SE | Sweden |
-| [^key-fb9ddf2792de1ddd86cffae60361f7ce]. . . | [^key-fb9ddf2792de1ddd86cffae60361f7ce]. . . |
+| [^c-fb9ddf2792de1ddd86cffae60361f7ce]. . . | [^c-fb9ddf2792de1ddd86cffae60361f7ce]. . . |
 
 ### CHAPTER 2 — Officially enzootic-bovine-leukosis-free regions of Member States
 
@@ -328,7 +328,7 @@ Decisions 1999/465/EC, 1999/466/EC and 1999/467/EC are repealed.
   - Região Lisboa e Vale do Tejo: all distritos,
   - Região Norte: districtos: Braga, Bragança, Viana do Castelo, Vila Real,
   - Região Autónoma dos Açores.
-- [^key-fb9ddf2792de1ddd86cffae60361f7ce]...
+- [^c-fb9ddf2792de1ddd86cffae60361f7ce]...
 
 ## Annotations
 
@@ -348,7 +348,7 @@ Decisions 1999/465/EC, 1999/466/EC and 1999/467/EC are repealed.
 
 [^f00008]: Footnote: [OJ L 70, 14.3.2003, p. 50](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.070.01.0050.01.ENG).
 
-[^key-04b49968408c6a3d7873c0a7c7625af0]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [42(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/42/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-04b49968408c6a3d7873c0a7c7625af0]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [42(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/42/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
 [^c000001]: Textual amendment: Substituted by [Commission Decision of 23 April 2009 amending Decision 2003/467/EC as regards the declaration that certain administrative regions of Italy are officially free of bovine tuberculosis, bovine brucellosis and enzootic-bovine-leukosis, that certain administrative regions of Poland are officially free of enzootic-bovine-leukosis and that Poland and Slovenia are officially free of bovine tuberculosis (notified under document number C(2009) 2972) (Text with EEA relevance) (2009/342/EC)](https://www.legislation.gov.uk/eudn/2009/342).
 
@@ -360,7 +360,7 @@ Decisions 1999/465/EC, 1999/466/EC and 1999/467/EC are repealed.
 
 [^c000005]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2019/65 of 14 January 2019 amending Annexes I and II to Decision 2003/467/EC in relation to the officially tuberculosis-free and the officially brucellosis-free status and Annex II to Decision 93/52/EEC in relation to the officially brucellosis (B. melitensis)-free status of certain regions of Spain (notified under document C(2019) 39) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2019/65).
 
-[^key-fb9ddf2792de1ddd86cffae60361f7ce]: Textual amendment: Words in [Annexes 1-3](https://www.legislation.gov.uk/eudn/2003/467/annex/I) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [42(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/42/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-fb9ddf2792de1ddd86cffae60361f7ce]: Textual amendment: Words in [Annexes 1-3](https://www.legislation.gov.uk/eudn/2003/467/annex/I) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [42(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/42/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
 [^c000007]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2017/1910 of 17 October 2017 amending Decision 93/52/EEC as regards the brucellosis (B. melitensis)-free status of certain regions of Spain, Decision 2003/467/EC as regards the official bovine brucellosis-free status of Cyprus and of certain regions of Spain, and as regards the official enzootic-bovine-leucosis-free status of Italy, and Decision 2005/779/EC as regards the swine vesicular disease-free status of the region of Campania of Italy (notified under document C(2017) 6891) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2017/1910).
 

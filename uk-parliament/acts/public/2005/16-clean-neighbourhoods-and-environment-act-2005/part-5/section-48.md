@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Offences relating to waste receptacles: fixed penalty notices[^key-e125da037c38ef555434e788751be817][^key-967e1d30a8b521d87a00d5bf5c33c15b][^key-32be5a41cd534934c57f3b3a499f94e0]
+## 48. Offences relating to waste receptacles: fixed penalty notices[^c-e125da037c38ef555434e788751be817][^c-967e1d30a8b521d87a00d5bf5c33c15b][^c-32be5a41cd534934c57f3b3a499f94e0]
 
 *Extent: E+W*
 
@@ -84,8 +84,8 @@ In the Environmental Protection Act 1990, after section 47 (receptacles for comm
 
 ## Annotations
 
-[^key-e125da037c38ef555434e788751be817]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2005/16/section/48) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-e125da037c38ef555434e788751be817]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2005/16/section/48) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-967e1d30a8b521d87a00d5bf5c33c15b]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2005/16/section/48) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-967e1d30a8b521d87a00d5bf5c33c15b]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2005/16/section/48) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-32be5a41cd534934c57f3b3a499f94e0]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2005/16/section/48) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(s)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/s)
+[^c-32be5a41cd534934c57f3b3a499f94e0]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2005/16/section/48) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(s)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/s)

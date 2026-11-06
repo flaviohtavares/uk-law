@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97B. Cash basis: value of work in progress on cessation of profession or vocation[^key-21f42a46d765d4b6ce27419c441da351]
+## 97B. Cash basis: value of work in progress on cessation of profession or vocation[^c-21f42a46d765d4b6ce27419c441da351]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if—
 
 - (a) a person permanently ceases to carry on a profession or vocation in a tax year, and
-- (b) the cash basis applies[^key-0f0149a2b455122d3ed5b176f23c806c] in relation to the profession or vocation for the tax year.
+- (b) the cash basis applies[^c-0f0149a2b455122d3ed5b176f23c806c] in relation to the profession or vocation for the tax year.
 
 (2) The value of any work in progress at the time of the cessation is brought into account as a receipt in calculating the profits of the profession or vocation for the tax year.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21f42a46d765d4b6ce27419c441da351]: Textual amendment: Ss. 97A, 97B and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/21)
+[^c-21f42a46d765d4b6ce27419c441da351]: Textual amendment: Ss. 97A, 97B and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/21)
 
-[^key-0f0149a2b455122d3ed5b176f23c806c]: Textual amendment: Words in [s. 97B(1)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/97B/1/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 24](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/24), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-0f0149a2b455122d3ed5b176f23c806c]: Textual amendment: Words in [s. 97B(1)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/97B/1/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 24](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/24), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

@@ -34,7 +34,7 @@ summary: ''
 
 (5) The liabilities which may be transferred by virtue of this section, section 203(10) and section 204(1) to an NHS body on the abolition of a Special Health Authority include criminal liabilities.
 
-(6)[^key-705990dce4453c648c6f8c5932392162] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-705990dce4453c648c6f8c5932392162] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The Welsh Ministers must, before they make an order under this section, consult with respect to the order such bodies as they may recognise as representing officers who in the opinion of the Welsh Ministers are likely to be transferred or affected by transfers in pursuance of the order.
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-705990dce4453c648c6f8c5932392162]: Textual amendment: [S. 22(6)](https://www.legislation.gov.uk/ukpga/2006/42/section/22/6) omitted (1.2.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 18](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/18); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-705990dce4453c648c6f8c5932392162]: Textual amendment: [S. 22(6)](https://www.legislation.gov.uk/ukpga/2006/42/section/22/6) omitted (1.2.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 18](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/18); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)

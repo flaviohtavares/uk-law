@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Review of duty of candour in relation to major incidents[^key-8bd9475b8941b3cb7f7181139e0bb1ab]
+## 46. Review of duty of candour in relation to major incidents[^c-8bd9475b8941b3cb7f7181139e0bb1ab]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd9475b8941b3cb7f7181139e0bb1ab]: Commencement: S. 46 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-8bd9475b8941b3cb7f7181139e0bb1ab]: Commencement: S. 46 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

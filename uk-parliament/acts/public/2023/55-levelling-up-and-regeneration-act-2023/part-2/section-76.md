@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Combined authorities: alternative mayoral titles[^key-d043a1bc05f6b8be7f598fd7a055b9d7]
+## 76. Combined authorities: alternative mayoral titles[^c-d043a1bc05f6b8be7f598fd7a055b9d7]
 
 *Extent: E+W*
 
@@ -182,4 +182,4 @@ After section 107G of the Local Democracy, Economic Development and Construction
 
 ## Annotations
 
-[^key-d043a1bc05f6b8be7f598fd7a055b9d7]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/55/section/76) in force at 26.12.2023, see [s. 255(2)(n)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/n)
+[^c-d043a1bc05f6b8be7f598fd7a055b9d7]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/55/section/76) in force at 26.12.2023, see [s. 255(2)(n)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/n)

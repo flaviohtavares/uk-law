@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Application of landlord and tenant law[^key-ed84da590df9f1c8fc68c3bcf91f24f9]
+## 45. Application of landlord and tenant law[^c-ed84da590df9f1c8fc68c3bcf91f24f9]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed84da590df9f1c8fc68c3bcf91f24f9]: Commencement: Art. 45 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-ed84da590df9f1c8fc68c3bcf91f24f9]: Commencement: Art. 45 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

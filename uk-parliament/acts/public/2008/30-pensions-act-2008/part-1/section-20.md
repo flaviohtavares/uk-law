@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c21682281] A money purchase scheme that is not a relevant Master Trust and[^key-ca93766ab0d82f42f57c11db87e18dbc] that has its main administration in the United Kingdom satisfies the quality requirement in relation to a jobholder if under the scheme—
+(1)[^c21682281] A money purchase scheme that is not a relevant Master Trust and[^c-ca93766ab0d82f42f57c11db87e18dbc] that has its main administration in the United Kingdom satisfies the quality requirement in relation to a jobholder if under the scheme—
 
 - (a) the jobholder's employer must pay contributions in respect of the jobholder;
 - (b) the employer's contribution, however calculated, must be equal to or more than 3% of the amount of the jobholder's qualifying earnings in the relevant pay reference period;
 - (c) the total amount of contributions paid by the jobholder and the employer, however calculated, must be equal to or more than 8% of the amount of the jobholder's qualifying earnings in the relevant pay reference period.
 
-(1A)[^key-a764a44686df7c8c7527015482755cb4] A money purchase scheme that is a relevant Master Trust satisfies the quality requirement in relation to a jobholder if the conditions in subsection (1)(a) to (c) and Condition 1 and Condition 2 of this subsection are met.
+(1A)[^c-a764a44686df7c8c7527015482755cb4] A money purchase scheme that is a relevant Master Trust satisfies the quality requirement in relation to a jobholder if the conditions in subsection (1)(a) to (c) and Condition 1 and Condition 2 of this subsection are met.
 
 - *Condition 1*
 
@@ -61,7 +61,7 @@ summary: ''
 
 (3) A scheme does not fail to satisfy the quality requirement under this section merely because the trustees or managers of the scheme may on any occasion refuse to accept a contribution below an amount prescribed for the purposes of this section on the grounds that it is below that amount.
 
-(4)[^key-12abf90f34e7addeed023730a12c0de1] In this section—
+(4)[^c-12abf90f34e7addeed023730a12c0de1] In this section—
 
 - “**main scale default arrangement**” is to be interpreted in accordance with section 28A(13);
 - “**Master Trust scheme**” has the same meaning as in the [Pension Schemes Act 2017](https://www.legislation.gov.uk/ukpga/2017/17/contents) (see section 1(1) of that Act);
@@ -73,10 +73,10 @@ summary: ''
 
 [^c21682281]: Modification: S. 20(1) modified (1.7.2012) by The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations ([S.I. 2010/772](https://www.legislation.gov.uk/uksi/2010/772)), regs. 1(1) (as amended by [S.I. 2012/1257](https://www.legislation.gov.uk/uksi/2012/1257), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/3/b)) and 45(2)
 
-[^key-ca93766ab0d82f42f57c11db87e18dbc]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/20/1) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/3), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
+[^c-ca93766ab0d82f42f57c11db87e18dbc]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/20/1) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/3), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
 
-[^key-a764a44686df7c8c7527015482755cb4]: Textual amendment: [S. 20(1A)-(1C)](https://www.legislation.gov.uk/ukpga/2008/30/section/20/1A) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/4), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
+[^c-a764a44686df7c8c7527015482755cb4]: Textual amendment: [S. 20(1A)-(1C)](https://www.legislation.gov.uk/ukpga/2008/30/section/20/1A) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/4), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
 
 [^c21677501]: Textual amendment: S. 20(2) omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) (No. 2) Regulations 2011 (S.I. 2011/1724)](https://www.legislation.gov.uk/uksi/2011/1724), [art. 3](https://www.legislation.gov.uk/uksi/2011/1724/article/3)
 
-[^key-12abf90f34e7addeed023730a12c0de1]: Textual amendment: [S. 20(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/20/4) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(5)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/5), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
+[^c-12abf90f34e7addeed023730a12c0de1]: Textual amendment: [S. 20(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/20/4) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(5)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/5), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)

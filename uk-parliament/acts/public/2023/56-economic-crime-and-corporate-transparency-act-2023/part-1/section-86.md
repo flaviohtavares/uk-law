@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Rectification of the register under court order[^key-244abdcad7387dd53d8a3ba5675a10cb][^key-0b8b243cbda7c9cd0878663c9df8becf]
+## 86. Rectification of the register under court order[^c-244abdcad7387dd53d8a3ba5675a10cb][^c-0b8b243cbda7c9cd0878663c9df8becf]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-244abdcad7387dd53d8a3ba5675a10cb]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-244abdcad7387dd53d8a3ba5675a10cb]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-0b8b243cbda7c9cd0878663c9df8becf]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2023/56/section/86) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z28)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z28)
+[^c-0b8b243cbda7c9cd0878663c9df8becf]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2023/56/section/86) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z28)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z28)

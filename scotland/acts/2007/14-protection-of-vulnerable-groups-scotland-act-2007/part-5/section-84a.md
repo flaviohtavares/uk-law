@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84A. Guidance for chief constable[^key-2f37074673fe2798529f5d12d16ef300]
+## 84A. Guidance for chief constable[^c-2f37074673fe2798529f5d12d16ef300]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f37074673fe2798529f5d12d16ef300]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/asp/2007/14/section/84A) inserted (10.12.2021 for specified purposes, 1.4.2023 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 89](https://www.legislation.gov.uk/asp/2020/13/section/89), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule); [S.S.I. 2023/79](https://www.legislation.gov.uk/ssi/2023/79), [reg. 2](https://www.legislation.gov.uk/ssi/2023/79/regulation/2)
+[^c-2f37074673fe2798529f5d12d16ef300]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/asp/2007/14/section/84A) inserted (10.12.2021 for specified purposes, 1.4.2023 in so far as not already in force) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 89](https://www.legislation.gov.uk/asp/2020/13/section/89), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule); [S.S.I. 2023/79](https://www.legislation.gov.uk/ssi/2023/79), [reg. 2](https://www.legislation.gov.uk/ssi/2023/79/regulation/2)

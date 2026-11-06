@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29D. Dispute resolution: powers[^key-92f24398423552148a5302f4d3218aac]
+## 29D. Dispute resolution: powers[^c-92f24398423552148a5302f4d3218aac]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 (4) Where the dispute is within section 29A(2)(b), the Secretary of State may—
 
 - (a) make a declaration varying the police services agreement;
-- (b) determine that the manager of the aerodrome is obliged to pay to the local policing body or police authority[^key-635c531dd05fa451b9726c0d28d39578] for the relevant police area a specified sum or a sum to be assessed in a specified manner;
+- (b) determine that the manager of the aerodrome is obliged to pay to the local policing body or police authority[^c-635c531dd05fa451b9726c0d28d39578] for the relevant police area a specified sum or a sum to be assessed in a specified manner;
 - (c) determine that the local policing body or police authority for the relevant police area is obliged to pay to the manager of the aerodrome a specified sum or a sum to be assessed in a specified manner;
 - (d) determine that the manager of the aerodrome is obliged to provide specified accommodation and facilities for use in connection with the policing provided for the aerodrome;
 - (e) make an order as to costs.
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92f24398423552148a5302f4d3218aac]: Textual amendment: Ss. 29A-29E substituted for ss. 29A-29D (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/10) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-92f24398423552148a5302f4d3218aac]: Textual amendment: Ss. 29A-29E substituted for ss. 29A-29D (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/10) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-635c531dd05fa451b9726c0d28d39578]: Textual amendment: Words in s. 29D substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 153](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/153); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-635c531dd05fa451b9726c0d28d39578]: Textual amendment: Words in s. 29D substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 153](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/153); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

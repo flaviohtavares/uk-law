@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Functions of rent tribunals.[^key-8f94386867e65d6f615c6edca604ddfd]
+## 72. Functions of rent tribunals.[^c-8f94386867e65d6f615c6edca604ddfd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f94386867e65d6f615c6edca604ddfd]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1980/51/section/72) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/37) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-8f94386867e65d6f615c6edca604ddfd]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1980/51/section/72) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/37) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

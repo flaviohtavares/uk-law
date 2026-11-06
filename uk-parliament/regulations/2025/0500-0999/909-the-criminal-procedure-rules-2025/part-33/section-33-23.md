@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.23. Application to realise seized property or to realise or destroy cryptoassets[^key-bd1707525020f364ba5e774ee9c28bbb]
+## 33.23. Application to realise seized property or to realise or destroy cryptoassets[^c-bd1707525020f364ba5e774ee9c28bbb]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bd1707525020f364ba5e774ee9c28bbb]: Commencement: [Rule 33.23](https://www.legislation.gov.uk/uksi/2025/909/rule/33.23) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-bd1707525020f364ba5e774ee9c28bbb]: Commencement: [Rule 33.23](https://www.legislation.gov.uk/uksi/2025/909/rule/33.23) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00814]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 67A was inserted by section 58 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) and amended by section 14 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 

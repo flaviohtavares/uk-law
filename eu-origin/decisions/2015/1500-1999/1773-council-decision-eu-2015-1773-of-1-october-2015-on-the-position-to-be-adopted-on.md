@@ -33,15 +33,15 @@ of 1 October 2015
 
 on the position to be adopted, on behalf of the European Union, within the EEA Joint Committee concerning an amendment to Annex XXI (Statistics) to the EEA Agreement (Energy Statistics) (revoked)
 
-[^key-cbadef96bc25ffe677764406951f43a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbadef96bc25ffe677764406951f43a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-cbadef96bc25ffe677764406951f43a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cbadef96bc25ffe677764406951f43a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cbadef96bc25ffe677764406951f43a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cbadef96bc25ffe677764406951f43a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cbadef96bc25ffe677764406951f43a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbadef96bc25ffe677764406951f43a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 DRAFT
 
@@ -97,7 +97,7 @@ Done at Brussels,
 
 ## Annotations
 
-[^key-cbadef96bc25ffe677764406951f43a3]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 86](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/86)
+[^c-cbadef96bc25ffe677764406951f43a3]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 86](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/86)
 
 [^f00005]: Footnote: [OJ L 131, 1.5.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.131.01.0001.01.ENG).
 

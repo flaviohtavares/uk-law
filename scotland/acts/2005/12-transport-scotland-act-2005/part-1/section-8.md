@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Duty of constituent councils and other public bodies as respects regional transport strategies[^key-3761a1a23f9914ce814c685b68e57e07]
+## 8. Duty of constituent councils and other public bodies as respects regional transport strategies[^c-3761a1a23f9914ce814c685b68e57e07]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ shall, so far as possible, perform those of its functions and activities which r
 
 ## Annotations
 
-[^key-3761a1a23f9914ce814c685b68e57e07]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2005/12/section/8) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-3761a1a23f9914ce814c685b68e57e07]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2005/12/section/8) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

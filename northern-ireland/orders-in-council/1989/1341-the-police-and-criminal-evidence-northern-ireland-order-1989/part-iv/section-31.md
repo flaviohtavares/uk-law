@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Voluntary attendance at police station etc.[^c20413431][^c21390451][^key-337d1bb448ca031f1940ae6b96a4e081][^key-a074d7c811d0a964a14b740b85e5abc6]
+## 31. Voluntary attendance at police station etc.[^c20413431][^c21390451][^c-337d1bb448ca031f1940ae6b96a4e081][^c-a074d7c811d0a964a14b740b85e5abc6]
 
 *Extent: N.I.*
 
@@ -38,9 +38,9 @@ he shall be arrested for that offence.
 
 [^c21390451]: Modification: [Art. 31](https://www.legislation.gov.uk/nisi/1989/1341/article/31) applied (with modifications) (18.5.2009) by [Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009 (S.R. 2009/142)](https://www.legislation.gov.uk/nisr/2009/142), [art. 3](https://www.legislation.gov.uk/nisr/2009/142/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/142/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2)
 
-[^key-337d1bb448ca031f1940ae6b96a4e081]: Modification: [Art. 31](https://www.legislation.gov.uk/nisi/1989/1341/article/31) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
+[^c-337d1bb448ca031f1940ae6b96a4e081]: Modification: [Art. 31](https://www.legislation.gov.uk/nisi/1989/1341/article/31) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2026/117/regulation/3), [9(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/9/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/117/schedule/1)
 
-[^key-a074d7c811d0a964a14b740b85e5abc6]: Modification: [Art. 31](https://www.legislation.gov.uk/nisi/1989/1341/article/31) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-a074d7c811d0a964a14b740b85e5abc6]: Modification: [Art. 31](https://www.legislation.gov.uk/nisi/1989/1341/article/31) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c20413411]: Textual amendment: [1995 NI 17](https://www.legislation.gov.uk/1995/ni17)
 

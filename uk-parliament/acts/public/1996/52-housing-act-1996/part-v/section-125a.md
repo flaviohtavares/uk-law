@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125A. Extension of trial period by 6 months[^key-35a04927841b4c5f69359b983f449623]
+## 125A. Extension of trial period by 6 months[^c-35a04927841b4c5f69359b983f449623]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35a04927841b4c5f69359b983f449623]: Textual amendment: Ss. 125A, 125B inserted (18.11.2004 for specified purposes) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 179(3)](https://www.legislation.gov.uk/ukpga/2004/34/section/179/3), [270(2)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/2/b) (with [s. 179(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/179/4))
+[^c-35a04927841b4c5f69359b983f449623]: Textual amendment: Ss. 125A, 125B inserted (18.11.2004 for specified purposes) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 179(3)](https://www.legislation.gov.uk/ukpga/2004/34/section/179/3), [270(2)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/2/b) (with [s. 179(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/179/4))

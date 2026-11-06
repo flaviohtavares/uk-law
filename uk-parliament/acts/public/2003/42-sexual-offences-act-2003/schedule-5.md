@@ -144,9 +144,9 @@ Section 104
 
 **56.** An offence under section 13 of that Act (offences involving threats).
 
-**56A.**[^c19629141] An offence under section 2 or 2A[^key-6a7cf6062cc6b2e94d0f96cb40b8fd19] of the Protection from Harassment Act 1997 (c. 40) (offences of harassment and stalking[^key-fa343a6483ee4bc45da003d3df84246f]).
+**56A.**[^c19629141] An offence under section 2 or 2A[^c-6a7cf6062cc6b2e94d0f96cb40b8fd19] of the Protection from Harassment Act 1997 (c. 40) (offences of harassment and stalking[^c-fa343a6483ee4bc45da003d3df84246f]).
 
-**57.** An offence under section 4 or 4A[^key-565db67db1b3f0260d38dae3672a12e6] of that Act[^c19629161] (putting people in fear of violence and stalking involving fear of violence or serious alarm or distress[^key-dbe89e7d4b2ae77169ce9d5e54af923c]).
+**57.** An offence under section 4 or 4A[^c-565db67db1b3f0260d38dae3672a12e6] of that Act[^c19629161] (putting people in fear of violence and stalking involving fear of violence or serious alarm or distress[^c-dbe89e7d4b2ae77169ce9d5e54af923c]).
 
 **58.** An offence under section 29 of the Crime and Disorder Act 1998 (c. 37) (racially or religiously aggravated assaults).
 
@@ -164,15 +164,15 @@ Section 104
 
 **62.** An offence under section 47 of this Act, where the victim or (as the case may be) other party was 16 or over.
 
-**63.**[^c19629241] An offence under any of sections 51 to 53 or 57 to 59 *(Extent: E+W)* *(affected by repeal, see note)*[^key-1fddf0b375ccb65277593ad1344319cc] 59A *(Extent: E+W)* of this Act.
+**63.**[^c19629241] An offence under any of sections 51 to 53 or 57 to 59 *(Extent: E+W)* *(affected by repeal, see note)*[^c-1fddf0b375ccb65277593ad1344319cc] 59A *(Extent: E+W)* of this Act.
 
-**63A.**[^c18945531] An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult *(Extent: E+W)* *(affected by repeal, see note)*[^key-24cb27e503a291d339ab733470f4b723] a child or vulnerable adult to die or suffer serious physical harm *(Extent: E+W)*).
+**63A.**[^c18945531] An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing the death of a child or vulnerable adult *(Extent: E+W)* *(affected by repeal, see note)*[^c-24cb27e503a291d339ab733470f4b723] a child or vulnerable adult to die or suffer serious physical harm *(Extent: E+W)*).
 
-**63B.**[^key-fef5a8b57d6123ca7ba7d6edf381ee07] An offence under section 2 of the Modern Slavery Act 2015 (human trafficking).
+**63B.**[^c-fef5a8b57d6123ca7ba7d6edf381ee07] An offence under section 2 of the Modern Slavery Act 2015 (human trafficking).
 
-**63C.**[^key-f0ead770c4f51d6242848f71ca1badd4] An offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).
+**63C.**[^c-f0ead770c4f51d6242848f71ca1badd4] An offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation).
 
-**63D.**[^key-ba73376d873ed8f34754fa786e40afe3] An offence under section 179 of the Online Safety Act 2023 (false communications).
+**63D.**[^c-ba73376d873ed8f34754fa786e40afe3] An offence under section 179 of the Online Safety Act 2023 (false communications).
 
 **63E.** An offence under section 181 of that Act (threatening communications).
 
@@ -394,7 +394,7 @@ Section 104
 
 *Extent: N.I.*
 
-**163A.**[^key-df6495d8916e56a4b688bb17a8fdbbe3] An offence under Article 68 of the Children (Northern Ireland) Order 1995 (abduction of children in care, etc.).
+**163A.**[^c-df6495d8916e56a4b688bb17a8fdbbe3] An offence under Article 68 of the Children (Northern Ireland) Order 1995 (abduction of children in care, etc.).
 
 **164.** An offence under Article 9 of the Road Traffic (Northern Ireland) Order 1995 (S.I. 1995/2994 (N.I. 18)) (causing death or grievous bodily injury by dangerous driving).
 
@@ -420,15 +420,15 @@ Section 104
 
 **171.**[^M_F_a0f63f40-4b2c-4f24-fd81-cca584dc0130] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**171A.**[^c18944691] An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing a child or vulnerable adult to die or suffer serious physical harm[^key-6bfa6733a81a1422e153f1dff7853221]).
+**171A.**[^c18944691] An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004 (causing or allowing a child or vulnerable adult to die or suffer serious physical harm[^c-6bfa6733a81a1422e153f1dff7853221]).
 
 **171B.**[^c20919021] An offence under Article 62 (causing or inciting prostitution for gain) or 63 (controlling prostitution for gain) of the Sexual Offences (Northern Ireland) Order 2008.
 
 *Extent: N.I.*
 
-**171C.**[^key-3ec91372fb231b80d7098c08cf4260e1] An offence under section 2 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015.
+**171C.**[^c-3ec91372fb231b80d7098c08cf4260e1] An offence under section 2 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015.
 
-**171C.**[^key-e8a73c96e8ada155fc234eb10ffc3fe5] An offence under paragraph 1 of Schedule 4 to the Space Industry Act 2018 (hijacking of spacecraft).
+**171C.**[^c-e8a73c96e8ada155fc234eb10ffc3fe5] An offence under paragraph 1 of Schedule 4 to the Space Industry Act 2018 (hijacking of spacecraft).
 
 **171D.** An offence under paragraph 2 of that Schedule (destroying, damaging or endangering the safety of spacecraft).
 
@@ -438,9 +438,9 @@ Section 104
 
 **171G.** An offence under paragraph 5 of that Schedule (offences in relation to certain dangerous articles).
 
-**171H.**[^key-6de7cc65afe2b27f4fc1eead663247aa] An offence under section 28 of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (non-fatal strangulation or asphyxiation).
+**171H.**[^c-6de7cc65afe2b27f4fc1eead663247aa] An offence under section 28 of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (non-fatal strangulation or asphyxiation).
 
-**171I.**[^key-0e11c4f17e145881e524cfd89e64dc72] An offence under section 179 of the Online Safety Act 2023 (false communications).
+**171I.**[^c-0e11c4f17e145881e524cfd89e64dc72] An offence under section 179 of the Online Safety Act 2023 (false communications).
 
 **171J.** An offence under section 181 of that Act (threatening communications).
 
@@ -483,15 +483,15 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c19629141]: Textual amendment: Sch. 5 para. 56A inserted (19.2.2007) by [The Sexual Offences Act 2003 (Amendment of Schedules 3 and 5) Order 2007 (S.I. 2007/296)](https://www.legislation.gov.uk/uksi/2007/296), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/296/article/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2007/296/article/3/7)
 
-[^key-6a7cf6062cc6b2e94d0f96cb40b8fd19]: Textual amendment: Words in Sch. 5 para. 56A inserted (25.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 146(a)(i)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/146/a/i) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/d)
+[^c-6a7cf6062cc6b2e94d0f96cb40b8fd19]: Textual amendment: Words in Sch. 5 para. 56A inserted (25.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 146(a)(i)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/146/a/i) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/d)
 
-[^key-fa343a6483ee4bc45da003d3df84246f]: Textual amendment: Words in Sch. 5 para. 56A substituted (25.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 146(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/146/a/ii) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/d)
+[^c-fa343a6483ee4bc45da003d3df84246f]: Textual amendment: Words in Sch. 5 para. 56A substituted (25.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 146(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/146/a/ii) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/d)
 
-[^key-565db67db1b3f0260d38dae3672a12e6]: Textual amendment: Words in Sch. 5 para. 57 inserted (25.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 146(b)(i)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/146/b/i) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/d)
+[^c-565db67db1b3f0260d38dae3672a12e6]: Textual amendment: Words in Sch. 5 para. 57 inserted (25.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 146(b)(i)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/146/b/i) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/d)
 
 [^c19629161]: Textual amendment: Words in Sch. 5 para. 57 substituted (19.2.2007) by [The Sexual Offences Act 2003 (Amendment of Schedules 3 and 5) Order 2007 (S.I. 2007/296)](https://www.legislation.gov.uk/uksi/2007/296), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/296/article/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2007/296/article/3/8)
 
-[^key-dbe89e7d4b2ae77169ce9d5e54af923c]: Textual amendment: Words in Sch. 5 para. 57 inserted (25.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 146(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/146/b/ii) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/d)
+[^c-dbe89e7d4b2ae77169ce9d5e54af923c]: Textual amendment: Words in Sch. 5 para. 57 inserted (25.11.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 146(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/146/b/ii) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/d)
 
 [^c20926321]: Textual amendment: Sch. 5 para. 60ZA inserted "after paragraph 60" (25.1.2010) by virtue of Policing and Crime Act 2009, ss. 112(1), 116(1), {Sch. 7 para. 25(2)}; [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(x)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/x)
 
@@ -501,17 +501,17 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c19629241]: Textual amendment: Words in Sch. 5 para. 63 substituted (19.2.2007) by virtue of [The Sexual Offences Act 2003 (Amendment of Schedules 3 and 5) Order 2007 (S.I. 2007/296)](https://www.legislation.gov.uk/uksi/2007/296), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/296/article/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2007/296/article/3/11)
 
-[^key-1fddf0b375ccb65277593ad1344319cc]: Textual amendment: Word in Sch. 5 para. 63 substituted (E.W.) (6.4.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 140(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/140/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/470](https://www.legislation.gov.uk/uksi/2013/470), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/470/article/2/d) (with [arts. 3(b)](https://www.legislation.gov.uk/uksi/2013/470/article/3/b), [5-8](https://www.legislation.gov.uk/uksi/2013/470/article/5))
+[^c-1fddf0b375ccb65277593ad1344319cc]: Textual amendment: Word in Sch. 5 para. 63 substituted (E.W.) (6.4.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 140(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/140/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/470](https://www.legislation.gov.uk/uksi/2013/470), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/470/article/2/d) (with [arts. 3(b)](https://www.legislation.gov.uk/uksi/2013/470/article/3/b), [5-8](https://www.legislation.gov.uk/uksi/2013/470/article/5))
 
 [^c18945531]: Textual amendment: Sch. 5 para. 63A inserted (21.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/58/1), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 10 para. 59(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10/paragraph/59/2); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2005/579/article/2/b/c)
 
-[^key-24cb27e503a291d339ab733470f4b723]: Textual amendment: Words in Sch. 5 para. 63A substituted (E.W.) (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/5); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
+[^c-24cb27e503a291d339ab733470f4b723]: Textual amendment: Words in Sch. 5 para. 63A substituted (E.W.) (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/5); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
 
-[^key-fef5a8b57d6123ca7ba7d6edf381ee07]: Textual amendment: [Sch. 5 para. 63B](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/63B) inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/5/3); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-fef5a8b57d6123ca7ba7d6edf381ee07]: Textual amendment: [Sch. 5 para. 63B](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/63B) inserted (31.7.2015) by [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/5/3); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
-[^key-f0ead770c4f51d6242848f71ca1badd4]: Textual amendment: [Sch. 5 para. 63C](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/63C) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/6); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+[^c-f0ead770c4f51d6242848f71ca1badd4]: Textual amendment: [Sch. 5 para. 63C](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/63C) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/6); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
 
-[^key-ba73376d873ed8f34754fa786e40afe3]: Textual amendment: [Sch. 5 paras. 63D](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/63D), [63E](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/63E) inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/2); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-ba73376d873ed8f34754fa786e40afe3]: Textual amendment: [Sch. 5 paras. 63D](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/63D), [63E](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/63E) inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/2); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
 [^c20926341]: Textual amendment: Sch. 5 para. 106A inserted (25.1.2010) by Policing and Crime Act 2009, ss. 112(1), 116(1), {Sch. 7 para. 25(3)}; [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(x)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/x)
 
@@ -541,7 +541,7 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c19629341]: Textual amendment: Sch. 5 paras. 154A, 154B inserted (19.2.2007) by [The Sexual Offences Act 2003 (Amendment of Schedules 3 and 5) Order 2007 (S.I. 2007/296)](https://www.legislation.gov.uk/uksi/2007/296), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/296/article/1/1), [3(17)](https://www.legislation.gov.uk/uksi/2007/296/article/3/17)
 
-[^key-df6495d8916e56a4b688bb17a8fdbbe3]: Textual amendment: Sch. 5 para. 163A inserted (N.I.) (28.4.2022) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 25(1)](https://www.legislation.gov.uk/nia/2022/19/section/25/1), [30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a) (with [s. 25(2)](https://www.legislation.gov.uk/nia/2022/19/section/25/2))
+[^c-df6495d8916e56a4b688bb17a8fdbbe3]: Textual amendment: Sch. 5 para. 163A inserted (N.I.) (28.4.2022) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 25(1)](https://www.legislation.gov.uk/nia/2022/19/section/25/1), [30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a) (with [s. 25(2)](https://www.legislation.gov.uk/nia/2022/19/section/25/2))
 
 [^c19629361]: Textual amendment: Sch. 5 para. 165A inserted (19.2.2007) by [The Sexual Offences Act 2003 (Amendment of Schedules 3 and 5) Order 2007 (S.I. 2007/296)](https://www.legislation.gov.uk/uksi/2007/296), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/296/article/1/1), [3(18)](https://www.legislation.gov.uk/uksi/2007/296/article/3/18)
 
@@ -557,17 +557,17 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c18944691]: Textual amendment: Sch. 5 para. 171A inserted (21.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/58/1), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 10 para. 59(3)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10/paragraph/59/3); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2005/579/article/2/b/c)
 
-[^key-6bfa6733a81a1422e153f1dff7853221]: Textual amendment: Words in Sch. 5 para. 171A substituted (N.I.) (14.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 6 para. 2](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/2) (with [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/11)); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
+[^c-6bfa6733a81a1422e153f1dff7853221]: Textual amendment: Words in Sch. 5 para. 171A substituted (N.I.) (14.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 6 para. 2](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/2) (with [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/11)); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
 
 [^c20919021]: Textual amendment: Sch. 5 para. 171B inserted (2.2.2009) by [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/3), [14(b)](https://www.legislation.gov.uk/uksi/2008/1779/article/14/b); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-3ec91372fb231b80d7098c08cf4260e1]: Textual amendment: Sch. 5 para. 171C inserted (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/5)
+[^c-3ec91372fb231b80d7098c08cf4260e1]: Textual amendment: Sch. 5 para. 171C inserted (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/5)
 
-[^key-e8a73c96e8ada155fc234eb10ffc3fe5]: Textual amendment: Sch. 5 paras. 171C-171G inserted (29.7.2021) by virtue of [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/23); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-e8a73c96e8ada155fc234eb10ffc3fe5]: Textual amendment: Sch. 5 paras. 171C-171G inserted (29.7.2021) by virtue of [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/23); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-6de7cc65afe2b27f4fc1eead663247aa]: Textual amendment: [Sch. 5 para. 171H](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/171H) inserted (N.I.) (26.6.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/2); [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
+[^c-6de7cc65afe2b27f4fc1eead663247aa]: Textual amendment: [Sch. 5 para. 171H](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/171H) inserted (N.I.) (26.6.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/2); [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
 
-[^key-0e11c4f17e145881e524cfd89e64dc72]: Textual amendment: [Sch. 5 paras. 171I](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/171I), [171J](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/171J) inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/3); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-0e11c4f17e145881e524cfd89e64dc72]: Textual amendment: [Sch. 5 paras. 171I](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/171I), [171J](https://www.legislation.gov.uk/ukpga/2003/42/schedule/5/paragraph/171J) inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/3); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
 [^c18944741]: Textual amendment: Word in Sch. 5 para. 172 substituted (21.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/58/1), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 10 para. 59(4)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10/paragraph/59/4); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2005/579/article/2/b/c)
 

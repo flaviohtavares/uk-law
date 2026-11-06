@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.4. General duties of court officer[^key-8beb4431bf29e06fc9aa8f4f1845c7d4]
+## 14.4. General duties of court officer[^c-8beb4431bf29e06fc9aa8f4f1845c7d4]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8beb4431bf29e06fc9aa8f4f1845c7d4]: Commencement: [Rule 14.4](https://www.legislation.gov.uk/uksi/2025/909/rule/14.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8beb4431bf29e06fc9aa8f4f1845c7d4]: Commencement: [Rule 14.4](https://www.legislation.gov.uk/uksi/2025/909/rule/14.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00350]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63); section 5(6A) was inserted by section 60 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and amended by section 165 of, and paragraph 53 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) and by paragraph 48 of Schedule 3, paragraphs 1 and 2 of Schedule 36, and Part 4 of Schedule 37 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

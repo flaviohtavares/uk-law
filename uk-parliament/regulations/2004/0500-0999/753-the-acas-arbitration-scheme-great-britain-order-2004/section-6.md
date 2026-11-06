@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Enforcement of re-employment orders[^key-b3019eebe230802bcfda41e72d18bbb8]
+## 6. Enforcement of re-employment orders[^c-b3019eebe230802bcfda41e72d18bbb8]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3019eebe230802bcfda41e72d18bbb8]: Commencement: Art. 6 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b3019eebe230802bcfda41e72d18bbb8]: Commencement: Art. 6 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00005]: Footnote: Section 117 was amended by the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), section 1(2)(a) and 14(1), Schedule 1, paragraph 20 and Schedule 2; by the Public Interest Disclosure Act [1998 (c. 23)](https://www.legislation.gov.uk/ukpga/1998/23), section 8(2); and by the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), section 33 and Schedule 9. Section 117 is prospectively amended by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), sections 34(1) and (4) and 53, and Schedule 7, paragraphs 24 and 37.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Representation at certain disciplinary proceedings[^key-21e76f8576769777e336e445a003f286]
+## 66. Representation at certain disciplinary proceedings[^c-21e76f8576769777e336e445a003f286]
 
 *Extent: E+W+S*
 
@@ -37,12 +37,12 @@ summary: ''
 
 - (a) a member of the Constabulary;
 - (b) a member of a police force maintained under the Police Act 1996 (c. 16);
-- (c) a constable of the Police Service of Scotland[^key-f5a0de58e3fd0f59713af5f6b9b87495];
+- (c) a constable of the Police Service of Scotland[^c-f5a0de58e3fd0f59713af5f6b9b87495];
 - (d) a constable of the British Transport Police Force; or
 - (e) a member of the Ministry of Defence Police.
 
 ## Annotations
 
-[^key-21e76f8576769777e336e445a003f286]: Commencement: S. 66 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-21e76f8576769777e336e445a003f286]: Commencement: S. 66 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-f5a0de58e3fd0f59713af5f6b9b87495]: Textual amendment: Words in [s. 66(4)(c)](https://www.legislation.gov.uk/ukpga/2004/20/section/66/4/c) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/5)
+[^c-f5a0de58e3fd0f59713af5f6b9b87495]: Textual amendment: Words in [s. 66(4)(c)](https://www.legislation.gov.uk/ukpga/2004/20/section/66/4/c) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/5)

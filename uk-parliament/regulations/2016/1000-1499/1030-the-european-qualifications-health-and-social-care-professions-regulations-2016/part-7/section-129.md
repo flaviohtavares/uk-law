@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Amendment of section 84 (Welsh text)[^key-8f4e031fee4eaec6894bc5965365d22a]
+## 129. Amendment of section 84 (Welsh text)[^c-8f4e031fee4eaec6894bc5965365d22a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f4e031fee4eaec6894bc5965365d22a]: Commencement: Reg. 129 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-8f4e031fee4eaec6894bc5965365d22a]: Commencement: Reg. 129 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

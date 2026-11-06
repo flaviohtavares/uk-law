@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Statutory undertakers etc.[^key-bb622a16ec8125afcb43a62e07797a83]
+## 49. Statutory undertakers etc.[^c-bb622a16ec8125afcb43a62e07797a83]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 13 (provisions relating to statutory undertakers etc.
 
 ## Annotations
 
-[^key-bb622a16ec8125afcb43a62e07797a83]: Commencement: Art. 49 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-bb622a16ec8125afcb43a62e07797a83]: Commencement: Art. 49 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

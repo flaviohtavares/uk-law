@@ -75,7 +75,7 @@ Section 56
 
 **5.** The County Courts Act 1984 is amended as set out in paragraphs 6 to 9.
 
-**6.**[^key-f5e1655195b2de90563704cb08cbf808] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f5e1655195b2de90563704cb08cbf808] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** (1) Section 8 (deputy district judges) is amended as follows.
 
@@ -156,4 +156,4 @@ Section 56
 
 ## Annotations
 
-[^key-f5e1655195b2de90563704cb08cbf808]: Textual amendment: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2007/15/schedule/11/paragraph/6) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f5e1655195b2de90563704cb08cbf808]: Textual amendment: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2007/15/schedule/11/paragraph/6) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

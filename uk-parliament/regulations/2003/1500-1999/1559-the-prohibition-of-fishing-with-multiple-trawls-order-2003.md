@@ -47,7 +47,7 @@ Coming into force
 
 The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with the sea fishing industry in Northern Ireland, in exercise of the powers conferred by sections 5(1), 15(3) and 20(1) of the Sea Fish (Conservation) Act 1967[^f00001], and now vested in them[^f00002], make the following Order:
 
-## 1. Title, commencement and extent[^key-5237e2f0ee4fa0419a1cffefd6d71469]
+## 1. Title, commencement and extent[^c-5237e2f0ee4fa0419a1cffefd6d71469]
 
 (1) This order may be cited as the Prohibition of Fishing with Multiple Trawls Order 2003 and shall come into force on 7th July 2003.
 
@@ -55,7 +55,7 @@ The Secretary of State for Environment, Food and Rural Affairs and the Secretary
 
 (3) Nothing in paragraph (2) shall be treated as prejudicing the effect in Scotland or Northern Ireland of section 14 of the Act[^f00003] in relation to, or for purposes incidental to, any provision of this Order which creates an offence.
 
-## 2. Interpretation[^key-c37305ff6e00014decdc3e84b78e73a6]
+## 2. Interpretation[^c-c37305ff6e00014decdc3e84b78e73a6]
 
 (1) In this Order—
 
@@ -64,7 +64,7 @@ The Secretary of State for Environment, Food and Rural Affairs and the Secretary
 - “beam trawler” means a fishing boat which, in so far as it carries or uses nets, carries or uses only nets which are designed to be towed along the sea-bed and which have their mouth extended by a beam, bar or other rigid device;
 - “equivalent Order” means any order made under section 5 of the Act creating a prohibition similar to the one in article 3 of this Order and extending or applying to any part of the United Kingdom;
 - “ICES” followed by a roman numeral and a description shall be construed as a reference to the statistical sub-area of the International Council for the Exploration of the Sea with the same numeral and description identified in the Schedule to this Order;
-- “net” means a trawl, Danish Seine or similar towed net, all of which have the same meaning as in Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms[^f00004] , as last amended by Regulation (EU) 2015/812 of the European Parliament and of the Council[^key-2b605528d74b0b1c69f4dbb1a3922694];
+- “net” means a trawl, Danish Seine or similar towed net, all of which have the same meaning as in Council Regulation [(EC) No. 850/98](https://www.legislation.gov.uk/european/regulation/1998/0850) for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms[^f00004] , as last amended by Regulation (EU) 2015/812 of the European Parliament and of the Council[^c-2b605528d74b0b1c69f4dbb1a3922694];
 - “Northern Ireland fishing boat” means a vessel which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995[^f00006] and whose entry in the register specifies a port in Northern Ireland as the port to which the vessel is to be treated as belonging;
 - “Northern Ireland zone” means the sea within British fishery limits which is adjacent to Northern Ireland;
 - “relevant British fishing boat” does not include a Northern Ireland fishing boat; and
@@ -80,12 +80,12 @@ The Secretary of State for Environment, Food and Rural Affairs and the Secretary
   - (v) seas within British fishery limits adjacent to Guernsey, as defined by section 8 of the Fishery Limits Act 1976[^f00007] as extended to Guernsey;
 - (b) any reference to any relevant British fishing boat “wherever it may be” does not include such a fishing boat while in the territorial sea adjacent to Wales.
 
-## 3. Prohibition of method of fishing[^key-403606c915b939ad3ce1d13403f630df]
+## 3. Prohibition of method of fishing[^c-403606c915b939ad3ce1d13403f630df]
 
 (1) Subject to paragraph (2), fishing for sea fish—
 
 - (a) by any relevant British fishing boat wherever it may be; or
-- (b) by any other fishing boat[^key-8a67938a0ffe4a93965d4b2e1ff2e5ea] within relevant British fishery limits,
+- (b) by any other fishing boat[^c-8a67938a0ffe4a93965d4b2e1ff2e5ea] within relevant British fishery limits,
 
 with any net other than a single trawl is prohibited.
 
@@ -99,11 +99,11 @@ with any net other than a single trawl is prohibited.
   - (iv) in ICES IV (North Sea) south of a line drawn eastwards from the east coast of England at 53° north latitude; or
 - (c) to fishing with any net having a mesh size of 95 millimetres or more.
 
-## 4. Powers of British sea-fishery officers in relation to fishing boats[^key-36df43d4b95155f5dc88cea4c7ede0b1]
+## 4. Powers of British sea-fishery officers in relation to fishing boats[^c-36df43d4b95155f5dc88cea4c7ede0b1]
 
 (1) For the purpose of the enforcement of this Order or any equivalent Order, a British sea-fishery officer may exercise the powers conferred by paragraphs (2) to (4) of this article in relation to—
 
-- (a)[^key-7ce2229116180fc8895780b0872bbf29] a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and
+- (a)[^c-7ce2229116180fc8895780b0872bbf29] a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and
 - (b) any other fishing boat, in any waters adjacent to the United Kingdom and within relevant British fishery limits.
 
 (2) He may go on board the boat, with or without persons assigned to assist him in his duties, and may require the boat to stop and do anything else which will facilitate either the boarding of, or the disembarkation from, the boat.
@@ -124,7 +124,7 @@ but nothing in sub-paragraph (d) shall permit any document required by law to be
 
 and where such an officer detains or requires the detention of a boat he shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
 
-## 5. Revocation[^key-ea180557c8e9da95d7f4905b783dcb33]
+## 5. Revocation[^c-ea180557c8e9da95d7f4905b783dcb33]
 
 The Prohibition of Fishing with Multiple Trawls Order 2001[^f00008] is revoked, except insofar as it forms part of the law of Northern Ireland.
 
@@ -138,19 +138,19 @@ Paul Murphy
 
 Secretary of State for Northern Ireland
 
-## SCHEDULE — STATISTICAL SUB-AREAS AND DIVISIONS OF THE INTERNATIONAL COUNCIL FOR THE EXPLORATION OF THE SEA[^key-8809ac40057fda941451ed078cc0dc27]
+## SCHEDULE — STATISTICAL SUB-AREAS AND DIVISIONS OF THE INTERNATIONAL COUNCIL FOR THE EXPLORATION OF THE SEA[^c-8809ac40057fda941451ed078cc0dc27]
 
 Article 2(1)
 
-### ICES Statistical Sub-Area IV (North Sea)[^key-8809ac40057fda941451ed078cc0dc27]
+### ICES Statistical Sub-Area IV (North Sea)[^c-8809ac40057fda941451ed078cc0dc27]
 
 The waters bounded by a line beginning at a point on the coast of Norway in 62° 00− north latitude; thence due west to 4° 00− west longitude; thence due south to the coast of Scotland; thence in an easterly and southerly direction along the coasts of Scotland and England to a point in 51° 00− north latitude; thence due east to the coast of France; thence in a north easterly direction along the coasts of France, Belgium, the Netherlands and the Federal Republic of Germany to the western terminus of its boundary with Denmark; thence along the west coast of Jutland to Thyboron; thence in a southerly and easterly direction along the south coast of the Limfjord to Egensekloster Point; thence across the eastern entrance of the Limfjord to Hals; thence in a westerly direction along the north coast of Limfjord to the southernmost point of Agger Tange; thence in a northerly direction along the west coast of Jutland to a point in 57° 00− north latitude; thence due west to 8° 00− east longitude; thence due north to 57° 30− north latitude; thence due west to 7° 00− east longitude; thence due north to the coast of Norway; thence in a north-westerly direction along the coast of Norway to the point of beginning.
 
-### ICES Statistical Sub-Area VI (Rockall and West of Scotland)[^key-8809ac40057fda941451ed078cc0dc27]
+### ICES Statistical Sub-Area VI (Rockall and West of Scotland)[^c-8809ac40057fda941451ed078cc0dc27]
 
 The waters bounded by a line beginning at a point on the north coast of Scotland in 4° 00− west longitude; thence due north to 60° 30− north latitude; thence due west to 5° 00− west longitude; thence due south to 60° 00− north latitude; thence due west to 18° 00− west longitude; thence due south to 54° 30− north latitude; thence due east to the coast of the Republic of Ireland; thence in a northerly and easterly direction along the coasts of the Republic of Ireland and of Northern Ireland to a point on the east coast of Northern Ireland in 55° 00− north latitude; thence due east to the coast of Scotland; thence in a northerly direction along the west coast of Scotland to the point of beginning.
 
-### ICES Statistical Sub-Area VII (Irish Sea, West of Ireland and Porcupine Bank, South Coast of lreland, Bristol Channel and English Channel)[^key-8809ac40057fda941451ed078cc0dc27]
+### ICES Statistical Sub-Area VII (Irish Sea, West of Ireland and Porcupine Bank, South Coast of lreland, Bristol Channel and English Channel)[^c-8809ac40057fda941451ed078cc0dc27]
 
 The waters bounded by a line beginning at a point on the west coast of the Republic of Ireland in 54° 30− north latitude; thence due west to 18° 00− west longitude; thence due south to 48° 00− north latitude; thence due east to the coast of France; thence in a northerly and north-easterly direction along the coast of France to a point in 51° 00− north latitude; thence due west to the south-east coast of England; thence in a westerly and northerly direction along the coasts of England, Wales and Scotland to a point on the west coast of Scotland in 55° 00− north latitude; thence due west to the coast of Northern Ireland; thence in a northerly and westerly direction along the coasts of Northern Ireland and the Republic of Ireland to the point of beginning.
 
@@ -174,30 +174,30 @@ The Order does not form part of the law of Scotland or Northern Ireland. It does
 
 [^f00002]: Footnote: By virtue of article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) the functions exercisable under section 5 of the 1967 Act were transferred to the National Assembly in so far as exercisable in relation to Wales (defined in section 155(1) of the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) as including “the sea adjacent to Wales out as far as the seaward boundary of the territorial sea”); in respect of waters beyond Wales these functions remain exercisable by the Ministers. Section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) as read with article 3(1) and Schedule 1 of the Scotland Act 1998 (Concurrent Functions) Order 1999 (S.I. [1999/1592](https://www.legislation.gov.uk/uksi/1999/1592)) provide for the functions exercisable under sections 5 and 15(3) of the 1967 Act to be exercised by the Ministers, concurrently with Scottish Ministers, in relation to relevant British fishing boats within the Scottish zone, and Scottish fishing boats within British fishery limits but outside the Scottish zone. By virtue of article 2(1) of, and the Schedule to, the Transfer of Functions (Agriculture and Fisheries) Order 2000 (S.I. [2000/1812](https://www.legislation.gov.uk/uksi/2000/1812)) any remaining functions of the Secretaries of State for Scotland and Wales under sections 5 and 15(3) of the 1967 Act were transferred to the Minister of Agriculture, Fisheries and Food, By virtue of paragraph 3(1)(h) of Schedule 1 to the Sea Fisheries (Northern Ireland) Order 2002 (S.I. [2002/790](https://www.legislation.gov.uk/uksi/2002/790)), the function of the Ministers under section 5 of the 1967 Act of making an order prohibiting fishing within the Northern Ireland zone (or outside that zone by Northern Ireland fishing boats) was transferred to the Department of Agriculture and Rural Development but, by virtue of paragraph 3(2), the Ministers retain a concurrent function to make an order in relation to British fishing boats, other than Northern Ireland fishing boats, within the Northern Ireland zone and in relation to Northern Ireland fishing boats within British fishery limits but outside the Northern Ireland zone. The functions of the Minister of Agriculture, Fisheries and Food and one or more named Secretaries of State (however described) acting jointly were transferred to the Secretary of State for Environment, Food and Rural Affairs and the one or more Secretaries of State acting jointly by virtue of article 2(5) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-5237e2f0ee4fa0419a1cffefd6d71469]: Commencement: Art. 1 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
+[^c-5237e2f0ee4fa0419a1cffefd6d71469]: Commencement: Art. 1 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
 
 [^f00003]: Footnote: Section 14 was substituted by Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), s. 29.
 
-[^key-c37305ff6e00014decdc3e84b78e73a6]: Commencement: Art. 2 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
+[^c-c37305ff6e00014decdc3e84b78e73a6]: Commencement: Art. 2 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
 
 [^f00004]: Footnote: OJ No. L125, 27.4.1998, p. 1.
 
-[^key-2b605528d74b0b1c69f4dbb1a3922694]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/2/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2018/942/regulation/51)
+[^c-2b605528d74b0b1c69f4dbb1a3922694]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/2/1) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2018/942/regulation/51)
 
 [^f00006]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
 [^f00007]: Footnote: [1976 c. 86](https://www.legislation.gov.uk/ukpga/1976/86); *see* also paragraph 3(c) of the Schedule to the Fishery Limits Act (Guernsey) Order 1989 (S.I. [1989/2407](https://www.legislation.gov.uk/uksi/1989/2407)).
 
-[^key-403606c915b939ad3ce1d13403f630df]: Commencement: Art. 3 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
+[^c-403606c915b939ad3ce1d13403f630df]: Commencement: Art. 3 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
 
-[^key-8a67938a0ffe4a93965d4b2e1ff2e5ea]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2003/1559/article/3/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/10/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-8a67938a0ffe4a93965d4b2e1ff2e5ea]: Textual amendment: Words in [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2003/1559/article/3/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/10/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-36df43d4b95155f5dc88cea4c7ede0b1]: Commencement: Art. 4 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
+[^c-36df43d4b95155f5dc88cea4c7ede0b1]: Commencement: Art. 4 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
 
-[^key-7ce2229116180fc8895780b0872bbf29]: Textual amendment: [Art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2003/1559/article/4/1/a)[(b)](https://www.legislation.gov.uk/uksi/2003/1559/article/4/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/10/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-7ce2229116180fc8895780b0872bbf29]: Textual amendment: [Art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2003/1559/article/4/1/a)[(b)](https://www.legislation.gov.uk/uksi/2003/1559/article/4/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/10/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-ea180557c8e9da95d7f4905b783dcb33]: Commencement: Art. 5 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
+[^c-ea180557c8e9da95d7f4905b783dcb33]: Commencement: Art. 5 in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
 
 [^f00008]: Footnote: S.I. [2001/650](https://www.legislation.gov.uk/uksi/2001/650).
 
-[^key-8809ac40057fda941451ed078cc0dc27]: Commencement: Sch. in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)
+[^c-8809ac40057fda941451ed078cc0dc27]: Commencement: Sch. in force at 7.7.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1559/article/1/1)

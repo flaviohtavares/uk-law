@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Dealings by committee-members and others[^key-17904d623d0b8c9bedd555f7712c63dd]
+## 76. Dealings by committee-members and others[^c-17904d623d0b8c9bedd555f7712c63dd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.58 of the 1986 Rules.
 
 ## Annotations
 
-[^key-17904d623d0b8c9bedd555f7712c63dd]: Commencement: Rule 76 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-17904d623d0b8c9bedd555f7712c63dd]: Commencement: Rule 76 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

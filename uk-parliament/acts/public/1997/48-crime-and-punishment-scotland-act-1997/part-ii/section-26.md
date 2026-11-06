@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Evidence concerning certain orders.[^key-ae2b5ae30229ee0b98eebb922214577d]
+## 26. Evidence concerning certain orders.[^c-ae2b5ae30229ee0b98eebb922214577d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae2b5ae30229ee0b98eebb922214577d]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1997/48/section/26) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 2 para. 41(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/41/a); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-ae2b5ae30229ee0b98eebb922214577d]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1997/48/section/26) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 2 para. 41(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/41/a); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))

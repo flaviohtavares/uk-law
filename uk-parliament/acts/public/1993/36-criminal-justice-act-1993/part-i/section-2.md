@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) For the purposes of this Part, “**relevant event**”, in relation to any Group A offence, means (subject to subsection (1A))[^key-1ad70ca6e1d0ed9937879de6a413ff7a] any act or omission or other event (including any result of one or more acts or omissions) proof of which is required for conviction of the offence.
+(1) For the purposes of this Part, “**relevant event**”, in relation to any Group A offence, means (subject to subsection (1A))[^c-1ad70ca6e1d0ed9937879de6a413ff7a] any act or omission or other event (including any result of one or more acts or omissions) proof of which is required for conviction of the offence.
 
-(1A)[^key-e03a1c95a1fd1e683a6d538fcc494a90] In relation to an offence under section 1 of the Fraud Act 2006 (fraud), “**relevant event**” includes—
+(1A)[^c-e03a1c95a1fd1e683a6d538fcc494a90] In relation to an offence under section 1 of the Fraud Act 2006 (fraud), “**relevant event**” includes—
 
 - (a) if the fraud involved an intention to make a gain and the gain occurred, that occurrence;
 - (b) if the fraud involved an intention to cause a loss or to expose another to a risk of loss and the loss occurred, that occurrence.
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ad70ca6e1d0ed9937879de6a413ff7a]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1993/36/section/2/1) inserted (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 25(2)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/25/2); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-1ad70ca6e1d0ed9937879de6a413ff7a]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1993/36/section/2/1) inserted (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 25(2)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/25/2); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
-[^key-e03a1c95a1fd1e683a6d538fcc494a90]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/1993/36/section/2/1A) inserted (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 25(3)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/25/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-e03a1c95a1fd1e683a6d538fcc494a90]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/1993/36/section/2/1A) inserted (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 25(3)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/25/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)

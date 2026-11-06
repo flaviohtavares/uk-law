@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Track-laying vehicles belonging to Royal National Lifeboat Institution[^key-c9074fe098e77d6ff22d50d31fb1759d]
+## 54. Track-laying vehicles belonging to Royal National Lifeboat Institution[^c-c9074fe098e77d6ff22d50d31fb1759d]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9074fe098e77d6ff22d50d31fb1759d]: Commencement: Art. 54 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-c9074fe098e77d6ff22d50d31fb1759d]: Commencement: Art. 54 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

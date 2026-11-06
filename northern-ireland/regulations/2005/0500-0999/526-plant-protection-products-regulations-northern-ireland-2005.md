@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2) and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-a70dd76a399c95162d5498bd41dcea30]
+## 1. Citation and commencement[^c-a70dd76a399c95162d5498bd41dcea30]
 
 These Regulations may be cited as the Plant Protection Products Regulations (Northern Ireland) 2005 and shall come into operation on 26th January 2006.
 
-## 2. Interpretation[^key-8d83a31e7b9975102cd6a03ae56c0be0]
+## 2. Interpretation[^c-8d83a31e7b9975102cd6a03ae56c0be0]
 
 (1) In these Regulations—
 
@@ -55,7 +55,7 @@ These Regulations may be cited as the Plant Protection Products Regulations (Nor
 - “approval” in relation to a plant protection product means an administrative act under these Regulations by which the Department, following an application submitted by an applicant, approves the placing on the market or use of that plant protection product in the whole or any part of Northern Ireland;
 - “the Commission” means the Commission of the European Communities;
 - “the Department” means the Department of Agriculture and Rural Development;
-- “the Directive” means Council Directive[^key-d88dd18bfe0327deee95e0ef63f7dec3] [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market, as amended from time to time;
+- “the Directive” means Council Directive[^c-d88dd18bfe0327deee95e0ef63f7dec3] [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414) concerning the placing of plant protection products on the market, as amended from time to time;
 - “EEA State” means a member State, Norway, Iceland or Liechtenstein;
 - “the environment” means water, air, land, wild species of fauna and flora, and any interrelationship between them, as well as any relationship with living organisms;
 - “equivalent provision” in relation to any particular provision in these Regulations means any provision in any other Regulations made for the purposes of implementing the Directive, extending to any other part of the United Kingdom which has equivalent effect to that particular provision;
@@ -91,7 +91,7 @@ These Regulations may be cited as the Plant Protection Products Regulations (Nor
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Prohibitions[^key-7bd670d42eac9c309542f6c16b7e7c45]
+## 3. Prohibitions[^c-7bd670d42eac9c309542f6c16b7e7c45]
 
 (1) A person shall not place on the market any plant protection product unless—
 
@@ -123,7 +123,7 @@ These Regulations may be cited as the Plant Protection Products Regulations (Nor
 
 (6) Any person who contravenes or causes or permits any person to contravene paragraph (1), (2)(a) or (b) or (3) shall be guilty of an offence.
 
-## 4. Applications concerning active substances[^key-b9fcdb258eb57319ecbe44ab2d701879]
+## 4. Applications concerning active substances[^c-b9fcdb258eb57319ecbe44ab2d701879]
 
 (1) Any person who applies for the inclusion of a new active substance in Annex I shall submit to the Department, the relevant competent authorities and the Commission a dossier which satisfies the requirements of Annex II, a declaration that the active substances is intended for use in a plant protection product, and a dossier complying with Annex III on at least one preparation containing that active substance.
 
@@ -133,7 +133,7 @@ These Regulations may be cited as the Plant Protection Products Regulations (Nor
 
 (4) This regulation shall apply to any person whose principal place of business in the United Kingdom is situated in Northern Ireland.
 
-## 5. Standard approvals[^key-dc1daada3b8b67e55acb81e20baa1dc3]
+## 5. Standard approvals[^c-dc1daada3b8b67e55acb81e20baa1dc3]
 
 (1) Subject to the following provisions of this regulation and to regulation 6, the Department may approve, for a period not exceeding ten years, the placing on the market and use of any plant protection product.
 
@@ -155,7 +155,7 @@ These Regulations may be cited as the Plant Protection Products Regulations (Nor
 
 (7) Any person who contravenes or causes or permits any person to contravene any requirement or condition of an approval granted under this regulation shall be guilty of an offence.
 
-## 6. General requirements for granting standard approvals[^key-8e018fc3add1ee140f37e2d84d1ccd4d]
+## 6. General requirements for granting standard approvals[^c-8e018fc3add1ee140f37e2d84d1ccd4d]
 
 (1) The Department shall not approve a plant protection product under regulation 5 unless the requirements set out in paragraphs (2) to (7) are satisfied.
 
@@ -182,7 +182,7 @@ These Regulations may be cited as the Plant Protection Products Regulations (Nor
 
 (8) The Department shall ensure that compliance with the requirements set out in paragraphs (2) to (7) is achieved by official or officially recognised tests and analyses carried out under agricultural, plant health and environmental conditions relevant to the use of the plant protection product and representative of those prevailing where the product is intended to be used.
 
-## 7. Provisional approvals[^key-09d10c8ab75d30809562affe13f42bba]
+## 7. Provisional approvals[^c-09d10c8ab75d30809562affe13f42bba]
 
 (1) The Department may, to enable a gradual assessment to be made of the properties of new active substances and to make it easier for new preparations to be made available for use in agriculture, approve, for a provisional period not exceeding three years, the placing on the market and use of any plant protection product containing a new active substance which is not included in Annex I, provided that the conditions specified in paragraph (2) are satisfied.
 
@@ -203,7 +203,7 @@ These Regulations may be cited as the Plant Protection Products Regulations (Nor
 
 (8) Any person who contravenes or causes or permits any person to contravene any requirement or condition of an approval granted under this regulation shall be guilty of an offence.
 
-## 8. Emergency approvals[^key-bfb849bc722449daa695ec20a4f664a3]
+## 8. Emergency approvals[^c-bfb849bc722449daa695ec20a4f664a3]
 
 (1) For the purpose of addressing a danger falling within Article 8(4), the Department may approve, for a period not exceeding 120 days, the placing on the market and use of any plant protection product not complying with regulation 6 for a limited and controlled use.
 
@@ -211,7 +211,7 @@ These Regulations may be cited as the Plant Protection Products Regulations (Nor
 
 (3) Any person who contravenes or causes or permits any person to contravene any requirement or condition of an approval granted under this regulation shall be guilty of an offence.
 
-## 9. Approvals for research and development[^key-4437263265366f04cce810dab8df5aba]
+## 9. Approvals for research and development[^c-4437263265366f04cce810dab8df5aba]
 
 (1) A person shall not carry out any experiment or test for research or development purposes involving the release into the environment of a plant protection product which has not been approved under regulations 5, 7, 8 or 11 unless an approval for trial purposes has been granted by the Department under this regulation in respect of that product.
 
@@ -232,7 +232,7 @@ These Regulations may be cited as the Plant Protection Products Regulations (Nor
 
 shall be guilty of an offence.
 
-## 10. Extensions of approved use[^key-12f7d732a6ce354da17cae3d86ef071a]
+## 10. Extensions of approved use[^c-12f7d732a6ce354da17cae3d86ef071a]
 
 (1) Official or scientific bodies involved in agricultural activities or professional agricultural organisations and professional users may apply to the Department for the approved use of a plant protection product in Northern Ireland to be extended to purposes other than those for which the approval of that product was granted.
 
@@ -247,7 +247,7 @@ shall be guilty of an offence.
 
 (4) Any person who contravenes or causes or permits any person to contravene any requirement or condition of an extension granted under paragraph (1) shall be guilty of an offence.
 
-## 11. Mutual recognition of approvals[^key-0f79f21f3ebe37cbb57e65000c726104]
+## 11. Mutual recognition of approvals[^c-0f79f21f3ebe37cbb57e65000c726104]
 
 (1) Where—
 
@@ -269,13 +269,13 @@ any person may apply to the Department for approval of that plant protection pro
 
 (7) Any person who contravenes or causes or permits any person to contravene any requirement or condition of an approval granted under this regulation shall be guilty of an offence.
 
-## 12. Provisional restrictions and prohibitions[^key-1cdc369e5985cd0c24695d3708885337]
+## 12. Provisional restrictions and prohibitions[^c-1cdc369e5985cd0c24695d3708885337]
 
 (1) Where the Department reasonably considers that a product which it has approved, or is required to approve, under regulation 11 constitutes a risk to human or animal health or the environment, it may provisionally restrict or prohibit its sale or use in Northern Ireland and shall immediately notify the holder of the approval or the applicant (as the case may be), the relevant competent authorities and the Commission of such action, giving reasons for the decision.
 
 (2) A provisional restriction or prohibition under paragraph (1) shall survive so long as its survival is consistent with Article 11(2).
 
-## 13. Applications, reviews, revocations and modifications[^key-f2d07170ac0d31fc16d082a8b0305a43]
+## 13. Applications, reviews, revocations and modifications[^c-f2d07170ac0d31fc16d082a8b0305a43]
 
 (1) An application for approval of a plant protection product under regulations 5, 7, 8 or 11 shall be made to the Department by or on behalf of the person responsible for first placing it on the market in Northern Ireland.
 
@@ -321,13 +321,13 @@ any person may apply to the Department for approval of that plant protection pro
 - (b) in the case of an approval granted under regulation 7, the requirements of regulation 6(3) to (7);
 - (c) in the case of an extension of use granted under regulation 10, the requirements of regulation 6(3)(c), (d) and (e).
 
-## 14. Notification of information on potentially dangerous effects[^key-78af899dc6055d4bde29b2775f671cfe]
+## 14. Notification of information on potentially dangerous effects[^c-78af899dc6055d4bde29b2775f671cfe]
 
 (1) The holder of any approval of a plant protection product granted under these Regulations or the holder of any extension of use of a plant protection product granted under regulation 10 shall immediately notify the Department, the relevant competent authorities and the Commission of all new information on the potentially dangerous effects of that plant protection product, or of residues of an active substance contained in that plant protection product, on human or animal health, ground water or the environment.
 
 (2) Any person who contravenes or causes or permits any person to contravene paragraph (1) shall be guilty of an offence.
 
-## 15. Data protection[^key-461b6d6d85c43fae4d4934a306b1a56e]
+## 15. Data protection[^c-461b6d6d85c43fae4d4934a306b1a56e]
 
 (1) Subject to paragraph (2), the Department shall not make use of any information provided in accordance with Annex II by an applicant for approval of a plant protection product under regulation 5 or 7 for the benefit of any other applicant for approval of a plant protection product under regulation 5 or 7.
 
@@ -339,7 +339,7 @@ any person may apply to the Department for approval of that plant protection pro
 
 (5) The Department, following examination of an application for approval of a plant protection product under regulation 5 or 7, shall inform the Commission of instances where it considers that an active substance as included in Annex I has been produced by a person or manufacturing process other than those specified in the dossier on the basis of which that active substance was first included in Annex I and shall transmit to the Commission all relevant information regarding the identity and impurities of that active substance.
 
-## 16. Duplication of experiments[^key-fb007497e5f484101a27a52be2f2a210]
+## 16. Duplication of experiments[^c-fb007497e5f484101a27a52be2f2a210]
 
 (1) Without prejudice to regulations 5(4) or 11, where an active substance has been included in Annex I—
 
@@ -370,7 +370,7 @@ shall be guilty of an offence.
 
 shall be guilty of an offence.
 
-## 17. Confidentiality[^key-a4ec68185fa559c150ec1047a4713146]
+## 17. Confidentiality[^c-a4ec68185fa559c150ec1047a4713146]
 
 (1) Subject to paragraph (2) and (4), where an applicant for the inclusion of an active substance in Annex I or an applicant for approval of a plant protection product so requests, the Department shall treat any information submitted by that applicant as confidential to the extent that in the opinion of the Department that information contains industrial or commercial secrets.
 
@@ -383,7 +383,7 @@ shall be guilty of an offence.
 - (a) is without prejudice to the provisions of the Environmental Information Regulations 2004[^f00009], and
 - (b) does not prohibit the provision, to any authority responsible for exercising any function under any equivalent provision, of information which the Department considers will assist the authority in exercising it.
 
-## 18. Packaging[^key-ed4948f66d089124b23417313d4885ae]
+## 18. Packaging[^c-ed4948f66d089124b23417313d4885ae]
 
 (1) A person shall not place on the market a plant protection product unless the packaging of that product satisfies the following requirements—
 
@@ -394,7 +394,7 @@ shall be guilty of an offence.
 
 (2) Any person who contravenes or causes or permits any person to contravene paragraph (1) shall be guilty of an offence.
 
-## 19. Labelling[^key-493e73998dfe9c349d68ae95617c20bb]
+## 19. Labelling[^c-493e73998dfe9c349d68ae95617c20bb]
 
 (1) A person shall not place on the market a plant protection product unless—
 
@@ -403,7 +403,7 @@ shall be guilty of an offence.
 
 (2) Any person who contravenes or causes or permits any person to contravene paragraph (1) shall be guilty of an offence.
 
-## 20. Seizure and disposal of plant protection products[^key-2dda3feca2f2c25332d64b251689740c]
+## 20. Seizure and disposal of plant protection products[^c-2dda3feca2f2c25332d64b251689740c]
 
 (1) Where there has been a contravention, in relation to any plant protection product, of any prohibition, requirement or condition imposed by or under these Regulations or an equivalent provision, in relation to that plant protection product, any Northern Ireland Department shall have the power—
 
@@ -415,7 +415,7 @@ shall be guilty of an offence.
 
 (3) Any person who contravenes or causes or permits any person to contravene any requirement imposed under this regulation shall be guilty of an offence.
 
-## 21. General offences[^key-236145b072f1baddfd2ed69e3e83a694]
+## 21. General offences[^c-236145b072f1baddfd2ed69e3e83a694]
 
 (1) Where in relation to an application for an approval under these Regulations, an application for an extension of use under regulation 10 or a requirement or condition specified in such an approval or extension of use, any person—
 
@@ -445,7 +445,7 @@ shall be guilty of an offence.
 
 (4) In this regulation “officer” shall have the same meaning as provided for in paragraph 1(c) of Schedule 2 to the 1985 Act, as read with regulation 24.
 
-## 22. Penalties[^key-8969d6a271647f12da8bbdadd31b3fff]
+## 22. Penalties[^c-8969d6a271647f12da8bbdadd31b3fff]
 
 (1) A person guilty of an offence under regulation 3(6), 5(7), 7(8), 8(3), 9(7), 10(4), 11(7), 18(2), 19(2), 20(3) or 21(1) or (2) shall be liable—
 
@@ -458,7 +458,7 @@ shall be guilty of an offence.
 
 (4) It shall be a defence in proceedings for an offence under section 22(2)(b) of the Welfare of Animals Act (Northern Ireland) 1972[^f00010] (which restricts the placing on land of poison and poisonous substances) for the person charged to show that he acted in accordance with an approval granted under these Regulations and, where appropriate, an extension of use granted under regulation 10.
 
-## 23. General defence of due diligence[^key-53dd96eb12e206cc99733029aeaf7739]
+## 23. General defence of due diligence[^c-53dd96eb12e206cc99733029aeaf7739]
 
 (1) In any proceedings for an offence under these Regulations it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -471,7 +471,7 @@ and in either case that he took all such steps as were reasonably open to him to
 
 (3) If in any case the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to an act or omission by another person, other than the giving of instructions to the person charged with the offence by his employer, or to reliance on information supplied by another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless within a period ending seven clear days before the hearing, he has served on the prosecutor a notice giving such information identifying or assisting in the identification of that other person as was then in his possession.
 
-## 24. Enforcement[^key-99d73183d9787a5765d8efb293ad21a4]
+## 24. Enforcement[^c-99d73183d9787a5765d8efb293ad21a4]
 
 (1) Section 19 of, and paragraphs 1(c), 2 and 4 to 9 of Schedule 2 to, the 1985 Act (enforcement powers) shall have effect for the purposes of these Regulations as they have effect for the purpose of that Act and as if—
 
@@ -481,17 +481,17 @@ and in either case that he took all such steps as were reasonably open to him to
 
 (2) This regulation applies to any offence under regulation 3(6), 5(7), 7(8), 8(3), 9(7), 10(4), 11(7), 14(2), 16(5) or (6), 18(2), 19(2) or 20(3).
 
-## 25. Service of documents[^key-bded465d7fe8c7d65bdff0bb47dcd5c0]
+## 25. Service of documents[^c-bded465d7fe8c7d65bdff0bb47dcd5c0]
 
 (1) For the purpose of these Regulations the address of the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is the address of its principal office within the United Kingdom.
 
 (2) Without prejudice to section 24 of the Interpretation Act (Northern Ireland) 1954, if a person to be served under these Regulations with any document has specified to the Department an address within the United Kingdom (other than an address determined under paragraph (1)) as the one at which he or someone on his behalf will accept documents of the same description as that document, the address so specified shall also be treated as his usual address for the purposes of these Regulations.
 
-## 26. Transitional provisions[^key-3b664b0a62ddc58cdd64ca1ce6e0631c]
+## 26. Transitional provisions[^c-3b664b0a62ddc58cdd64ca1ce6e0631c]
 
 Schedule 4 shall have effect.
 
-## 27. Disapplication[^key-e4d715a7d55e9ec3bc34381bdd9bf851]
+## 27. Disapplication[^c-e4d715a7d55e9ec3bc34381bdd9bf851]
 
 (1) The 1987 Regulations shall not apply to any plant protection product the placing on the market and use of which are, or under Schedule 4 have become, subject to the prohibitions specified in regulation 3(1) and (2).
 
@@ -499,7 +499,7 @@ Schedule 4 shall have effect.
 
 (3) The Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002[^f00011] shall not apply to any plant protection product to the extent that regulation 19 applies to it.
 
-## 28. Revocation[^key-a3a7871daba18a41e6dbb1948bd2b9c0]
+## 28. Revocation[^c-a3a7871daba18a41e6dbb1948bd2b9c0]
 
 The Plant Protection Products Regulations (Northern Ireland) 2004[^f00012] and the Plant Protection Products (Amendment) Regulations (Northern Ireland) 2004[^f00013] are hereby revoked.
 
@@ -517,86 +517,86 @@ Regulation 2
 
 ### Part I — Instruments in force
 
-| [^key-e8a92993791f9b685407d1d8d9133fda]... |  |
+| [^c-e8a92993791f9b685407d1d8d9133fda]... |  |
 | --- | --- |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
-| [^key-e8a92993791f9b685407d1d8d9133fda]. . . | [^key-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
+| [^c-e8a92993791f9b685407d1d8d9133fda]. . . | [^c-e8a92993791f9b685407d1d8d9133fda]. . . |
 |  |  |
 
 <table>
@@ -609,40 +609,40 @@ Regulation 2
 </tbody>
 </table>
 
-[^key-e8a92993791f9b685407d1d8d9133fda][^key-e8a92993791f9b685407d1d8d9133fda][^key-e8a92993791f9b685407d1d8d9133fda]
+[^c-e8a92993791f9b685407d1d8d9133fda][^c-e8a92993791f9b685407d1d8d9133fda][^c-e8a92993791f9b685407d1d8d9133fda]
 
 ## SCHEDULE 2 — NON-CONFIDENTIAL INFORMATION
 
 Regulation 17
 
-**1.**[^key-1502ff9a54aecffaf9794465397d0d09] The name and content of the active substance and the name of the plant protection product.
+**1.**[^c-1502ff9a54aecffaf9794465397d0d09] The name and content of the active substance and the name of the plant protection product.
 
-**2.**[^key-53fe462614409c64e38d02182d5ab260] The name of other substances which are regarded as dangerous under—
+**2.**[^c-53fe462614409c64e38d02182d5ab260] The name of other substances which are regarded as dangerous under—
 
 - (a) Council Directive [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances[^f00067]; and
 - (b) Council Directive [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations[^f00068].
 
-**3.**[^key-272be39e273ac11099ef99288387121e] Physico-chemical data concerning the active substance and plant protection product.
+**3.**[^c-272be39e273ac11099ef99288387121e] Physico-chemical data concerning the active substance and plant protection product.
 
-**4.**[^key-7f8dfec1840b14438aab9534820ff367] Any ways of rendering the active substance or plant protection product harmless.
+**4.**[^c-7f8dfec1840b14438aab9534820ff367] Any ways of rendering the active substance or plant protection product harmless.
 
-**5.**[^key-3c4f8dab98bd5a6a2839dd97f23a9a5c] A summary of the results of the tests to establish the efficacy and harmlessness to humans, animals, plants and the environment of the active substance or the plant protection product.
+**5.**[^c-3c4f8dab98bd5a6a2839dd97f23a9a5c] A summary of the results of the tests to establish the efficacy and harmlessness to humans, animals, plants and the environment of the active substance or the plant protection product.
 
-**6.**[^key-824a1297afbdc504645ba503498df062] Recommended methods and precautions to reduce handling, storage, transport, fire or other hazards.
+**6.**[^c-824a1297afbdc504645ba503498df062] Recommended methods and precautions to reduce handling, storage, transport, fire or other hazards.
 
-**7.**[^key-e8014ab771ec2e6e9f8a027e70fa3a83] The methods of analysis referred to in regulation 6(4) and (5) and Article 5.1.
+**7.**[^c-e8014ab771ec2e6e9f8a027e70fa3a83] The methods of analysis referred to in regulation 6(4) and (5) and Article 5.1.
 
-**8.**[^key-50dfa9d6ed3f76976dce2d09405b862c] Methods of disposal of the product and of its packaging.
+**8.**[^c-50dfa9d6ed3f76976dce2d09405b862c] Methods of disposal of the product and of its packaging.
 
-**9.**[^key-a268488440eea0b59f93f54870e2fca4] Decontamination procedures to be followed in the case of accidental spillage or leakage.
+**9.**[^c-a268488440eea0b59f93f54870e2fca4] Decontamination procedures to be followed in the case of accidental spillage or leakage.
 
-**10.**[^key-c0ac618fa4b5b193d8c988543ab08d38] First aid and medical treatment to be given in the case of injury to persons.
+**10.**[^c-c0ac618fa4b5b193d8c988543ab08d38] First aid and medical treatment to be given in the case of injury to persons.
 
 ## SCHEDULE 3 — LABELLING REQUIREMENTS
 
 Regulation 19
 
-**1.**[^key-507fb8815a1244800029bf6548f4ee5b] The packaging containing the plant protection product shall be marked clearly and indelibly with the following information—
+**1.**[^c-507fb8815a1244800029bf6548f4ee5b] The packaging containing the plant protection product shall be marked clearly and indelibly with the following information—
 
 - (a) the trade name or designation of the plant protection product;
 - (b) the name and address of the holder of the relevant approval and the approval number of the plant protection product and, if different, the name and address of the person responsible for the final packaging and labelling or for the final labelling of the plant protection product on the market;
@@ -673,23 +673,23 @@ Regulation 19
 - (q) the expiry date relevant to normal conditions of storage where the shelf life of the product is limited to less than two years;
 - (r) whether the product is restricted to a certain category of user and, if so, which.
 
-**2.**[^key-9b8e28b4f060e29111b62d6f036b18d0] The requirements specified in paragraphs (l), (m) and (n) of paragraph 1 may be indicated on a separate leaflet accompanying the package if the space available on the package is too small and in such a case the leaflet shall be regarded as part of the label for the purposes of these Regulations.
+**2.**[^c-9b8e28b4f060e29111b62d6f036b18d0] The requirements specified in paragraphs (l), (m) and (n) of paragraph 1 may be indicated on a separate leaflet accompanying the package if the space available on the package is too small and in such a case the leaflet shall be regarded as part of the label for the purposes of these Regulations.
 
-**3.**[^key-1fd702d25aab8d3ad0613eb18a5459a0] The label of the packaging of the plant protection product must not bear the indications “non-toxic”, “harmless” or similar indications.
+**3.**[^c-1fd702d25aab8d3ad0613eb18a5459a0] The label of the packaging of the plant protection product must not bear the indications “non-toxic”, “harmless” or similar indications.
 
-**4.**[^key-63e42c20b5fff5be2aae195d4204c7a2] Information to the effect that the plant protection product may be used when bees or other non-target species are active, or when crops or weeds are in flower, or other such phrases to protect bees or other non-target species, may be given on the label if and only if the approval relates explicitly to use during the season for bees or other specified organisms and presents minimal risk to them.
+**4.**[^c-63e42c20b5fff5be2aae195d4204c7a2] Information to the effect that the plant protection product may be used when bees or other non-target species are active, or when crops or weeds are in flower, or other such phrases to protect bees or other non-target species, may be given on the label if and only if the approval relates explicitly to use during the season for bees or other specified organisms and presents minimal risk to them.
 
-**5.**[^key-9bc0856724c202fa400489f844a1b6da] Labels shall be in English.
+**5.**[^c-9bc0856724c202fa400489f844a1b6da] Labels shall be in English.
 
-**6.**[^key-c182d4919a5bdd641ca000364cda90c1] At any time the Department may require additional phrases to be clearly and indelibly marked on packaging where this is deemed by it to be necessary for the protection of human beings, animals or the environment and where it makes such a requirement it shall do so in writing by notice served on persons holding approvals for the plant protection products concerned.
+**6.**[^c-c182d4919a5bdd641ca000364cda90c1] At any time the Department may require additional phrases to be clearly and indelibly marked on packaging where this is deemed by it to be necessary for the protection of human beings, animals or the environment and where it makes such a requirement it shall do so in writing by notice served on persons holding approvals for the plant protection products concerned.
 
-**7.**[^key-f36dfc267270dfb1761862a22b79af51] The Department may require any of the persons referred to in paragraph 1(b) at any time to provide it with samples, models or drafts of the packaging, labelling and leaflets referred to in this Schedule.
+**7.**[^c-f36dfc267270dfb1761862a22b79af51] The Department may require any of the persons referred to in paragraph 1(b) at any time to provide it with samples, models or drafts of the packaging, labelling and leaflets referred to in this Schedule.
 
 ## SCHEDULE 4 — TRANSITIONAL PROVISIONS
 
 Regulation 26
 
-### 1. Application of these Regulations and of the 1987 Regulations to relevant plant protection products[^key-ad7ed9415da8fb06422561b26cd3c16d]
+### 1. Application of these Regulations and of the 1987 Regulations to relevant plant protection products[^c-ad7ed9415da8fb06422561b26cd3c16d]
 
 Notwithstanding regulation 3(1) and (2) and subject to the remaining provisions of this Schedule—
 
@@ -698,13 +698,13 @@ Notwithstanding regulation 3(1) and (2) and subject to the remaining provisions 
 
 to a relevant plant protection product.
 
-**2.**[^key-851327e384b4ebe7d21f455c22469492] Notwithstanding paragraph 1, and subject to paragraphs 3 and 4, regulations 1, 2 and 9 and (insofar as they relate to approvals granted under regulation 9) regulations 13(2) and (5) to 13(10), 14, 17 and 20 to 27 shall apply to a relevant plant protection product.
+**2.**[^c-851327e384b4ebe7d21f455c22469492] Notwithstanding paragraph 1, and subject to paragraphs 3 and 4, regulations 1, 2 and 9 and (insofar as they relate to approvals granted under regulation 9) regulations 13(2) and (5) to 13(10), 14, 17 and 20 to 27 shall apply to a relevant plant protection product.
 
-**3.**[^key-2e0eaf14b85c0a4385d8e8beb7f70b25] Regulation 9 shall not apply to a relevant plant protection product to which any of the exemptions provided in regulation 3(2)(a) to (c) and (e) to (j) of the 1987 Regulations applies.
+**3.**[^c-2e0eaf14b85c0a4385d8e8beb7f70b25] Regulation 9 shall not apply to a relevant plant protection product to which any of the exemptions provided in regulation 3(2)(a) to (c) and (e) to (j) of the 1987 Regulations applies.
 
-**4.**[^key-c2844d7f436ab77f692b87316b86be27] Notwithstanding regulation 27(2), a pesticide approval in respect of a relevant plant protection product given in the form of an experimental permit under regulation 5(2)(a) of the 1987 Regulations which was in force on 23rd December 1997 shall continue to be subject to the 1987 Regulations and shall continue in force until the date of expiry of such approval or earlier revocation under those Regulations.
+**4.**[^c-c2844d7f436ab77f692b87316b86be27] Notwithstanding regulation 27(2), a pesticide approval in respect of a relevant plant protection product given in the form of an experimental permit under regulation 5(2)(a) of the 1987 Regulations which was in force on 23rd December 1997 shall continue to be subject to the 1987 Regulations and shall continue in force until the date of expiry of such approval or earlier revocation under those Regulations.
 
-### 5. Effect of Annex I decisions on the placing on the market and use of relevant plant protection products which are not approved pesticides[^key-4f5c1947654f169a49d745964abda392]
+### 5. Effect of Annex I decisions on the placing on the market and use of relevant plant protection products which are not approved pesticides[^c-4f5c1947654f169a49d745964abda392]
 
 Where in relation to a relevant plant protection product which is not an approved pesticide it is decided under Article 6—
 
@@ -713,11 +713,11 @@ Where in relation to a relevant plant protection product which is not an approve
 
 the placing on the market and use of that product shall become subject to the prohibitions specified in regulation 3(1) and (2).
 
-### 6. Effect of a refusal to include an active substance in Annex I on relevant plant protection products which are approved pesticides[^key-f8a7d45a78afa5e496f06fb865acc51d]
+### 6. Effect of a refusal to include an active substance in Annex I on relevant plant protection products which are approved pesticides[^c-f8a7d45a78afa5e496f06fb865acc51d]
 
 Where, in relation to a relevant plant protection product which is an approved pesticide, it has been decided under Article 6 that any of its relevant active substances should not be included in Annex I, the Department shall notify the pesticide approval holder of that decision and shall take the action described in paragraph 9(1).
 
-### 7. Effect of a decision to include active substances in Annex I on relevant plant protection products which are approved pesticides[^key-ab5adcedf4c986a9ab1e24c95c4dad77]
+### 7. Effect of a decision to include active substances in Annex I on relevant plant protection products which are approved pesticides[^c-ab5adcedf4c986a9ab1e24c95c4dad77]
 
 (1) Where, in relation to any relevant plant protection product which is an approved pesticide, it has been decided under Article 6 that its relevant active substances should be included in Annex I, the Department shall notify the pesticide approval holder of that fact and the pesticide approval holder shall, within such period as the Department shall notify to the pesticide approval holder, provide information to the Department to show:
 
@@ -730,13 +730,13 @@ Where, in relation to a relevant plant protection product which is an approved p
 
 (4) Where the Department decides that the information provided under paragraph (1) fails to show that the relevant active substances comply with the conditions of Annex I inclusion and that the approval holder has access to a dossier satisfying the requirements of Annex II it shall take the action described in paragraph 9(1).
 
-**8.**[^key-e88752e99d06f643db282cb6e122a108] (1) Where the Department has determined that the information provided by the approval holder under paragraph 7 shows that the relevant active substances comply with the conditions of Annex I inclusion and that the approval holder has access to a dossier satisfying the requirements of Annex II it shall notify the pesticide approval holder of that fact and the pesticide approval holder shall, within such period as the Department shall notify to the pesticide approval holder, make an application for an approval of the relevant plant protection product under regulation 5.
+**8.**[^c-e88752e99d06f643db282cb6e122a108] (1) Where the Department has determined that the information provided by the approval holder under paragraph 7 shows that the relevant active substances comply with the conditions of Annex I inclusion and that the approval holder has access to a dossier satisfying the requirements of Annex II it shall notify the pesticide approval holder of that fact and the pesticide approval holder shall, within such period as the Department shall notify to the pesticide approval holder, make an application for an approval of the relevant plant protection product under regulation 5.
 
 (2) The pesticide approval shall continue to have effect until such time as the Department notifies the approval holder of its decision to grant or refuse an approval under regulation 5.
 
 (3) Where the pesticide approval holder fails to provide adequate information to enable the Department to consider the application, the Department shall notify him of that failure and the pesticide approval holder shall, within such reasonable period as may be specified in the notification, submit further information to the Department to enable it to consider the application.
 
-### 9. Revocation of pesticide approval[^key-90a5ff3f7066fae2be26670e5b5d8e79]
+### 9. Revocation of pesticide approval[^c-90a5ff3f7066fae2be26670e5b5d8e79]
 
 (1) The Department shall, at the same time as it notifies a pesticide approval holder of a decision mentioned in paragraph 6, 7(4) or 8(2), revoke the pesticide approval.
 
@@ -763,7 +763,7 @@ Where, in relation to a relevant plant protection product which is an approved p
   - (i) the storage of that product by any person; and
   - (ii) the advertisement, sale, supply and use of that product by any person other than the pesticide approval holder or the pesticide approval holder’s employees or agents.
 
-### 10. Effect of revocation on the placing on the market and use of the product[^key-83392ca389a0f0644a4e1697abfcd3e6]
+### 10. Effect of revocation on the placing on the market and use of the product[^c-83392ca389a0f0644a4e1697abfcd3e6]
 
 (1) Where the Department has revoked a pesticide approval in relation to any relevant plant protection product under paragraph 9(1) or (2) completely, the placing on the market and use of that product shall become subject to the prohibitions specified in regulation 3(1) and (2) forthwith.
 
@@ -771,11 +771,11 @@ Where, in relation to a relevant plant protection product which is an approved p
 
 (3) Where the Department has revoked a pesticide approval in relation to any relevant plant protection product in the manner specified in paragraph 9(5), the placing on the market and use of that product shall become subject to the prohibitions specified in regulation 3(1) and (2) on the expiry of the period of the provisional approval granted under paragraph 9(5)(c).
 
-### 11. Notifications[^key-ee1be31ff42c1604c5ec8fffb36f4b0b]
+### 11. Notifications[^c-ee1be31ff42c1604c5ec8fffb36f4b0b]
 
 Any notification given by the Department under this Schedule shall be in writing.
 
-### 12. Interpretation[^key-d095f77ab3d9d41c2099a3a438bff67b]
+### 12. Interpretation[^c-d095f77ab3d9d41c2099a3a438bff67b]
 
 For the purposes of this Schedule—
 
@@ -824,148 +824,148 @@ A list of competent authorities of the member States of the European Community, 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2 is subject to Schedule 2 to that Act and is to be read with [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703) and [S.R. 1984 No. 253](https://www.legislation.gov.uk/nisr/1984/253)
 
-[^key-a70dd76a399c95162d5498bd41dcea30]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-a70dd76a399c95162d5498bd41dcea30]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-8d83a31e7b9975102cd6a03ae56c0be0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/526/regulation/2) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-8d83a31e7b9975102cd6a03ae56c0be0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/526/regulation/2) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
 [^f00003]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48); section 19 was amended by the Pesticides (Fees and Enforcement) Act [1989 (c. 27)](https://www.legislation.gov.uk/ukpga/1989/27); section 2, and by the Pesticides Act [1998 (c. 26)](https://www.legislation.gov.uk/ukpga/1998/26), section 2
 
-[^key-d88dd18bfe0327deee95e0ef63f7dec3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/526/regulation/2/1) substituted (12.1.2009) by [Plant Protection Products (Amendment No 2) Regulations (Northern Ireland) 2008 (S.R. 2008/499)](https://www.legislation.gov.uk/nisr/2008/499), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/499/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2008/499/regulation/2/2)
+[^c-d88dd18bfe0327deee95e0ef63f7dec3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/526/regulation/2/1) substituted (12.1.2009) by [Plant Protection Products (Amendment No 2) Regulations (Northern Ireland) 2008 (S.R. 2008/499)](https://www.legislation.gov.uk/nisr/2008/499), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/499/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2008/499/regulation/2/2)
 
 [^f00005]: Footnote: [S.R. 1987 No. 414](https://www.legislation.gov.uk/nisr/1987/414) as amended by article 21(3) of the Food Safety (Northern Ireland) Order 1991 (Consequential Modifications) Order (Northern Ireland) 1991 ([S.R. 1991 No. 203](https://www.legislation.gov.uk/nisr/1991/203)), [S.R. 1997 No. 469](https://www.legislation.gov.uk/nisr/1997/469) and regulation 42 of the Biocidal Products Regulations (Northern Ireland) 2001 ([S.R. 2001 No. 422](https://www.legislation.gov.uk/nisr/2001/422))
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7bd670d42eac9c309542f6c16b7e7c45]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/526/regulation/3) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-7bd670d42eac9c309542f6c16b7e7c45]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/526/regulation/3) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-b9fcdb258eb57319ecbe44ab2d701879]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/526/regulation/4) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-b9fcdb258eb57319ecbe44ab2d701879]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/526/regulation/4) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-dc1daada3b8b67e55acb81e20baa1dc3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/526/regulation/5) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-dc1daada3b8b67e55acb81e20baa1dc3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/526/regulation/5) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-8e018fc3add1ee140f37e2d84d1ccd4d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/526/regulation/6) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-8e018fc3add1ee140f37e2d84d1ccd4d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/526/regulation/6) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-09d10c8ab75d30809562affe13f42bba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/526/regulation/7) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-09d10c8ab75d30809562affe13f42bba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/526/regulation/7) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-bfb849bc722449daa695ec20a4f664a3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/526/regulation/8) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-bfb849bc722449daa695ec20a4f664a3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/526/regulation/8) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-4437263265366f04cce810dab8df5aba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/526/regulation/9) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-4437263265366f04cce810dab8df5aba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/526/regulation/9) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
 [^f00007]: Footnote: O.J. No. L106, 17.4.2001, p. 1 as last amended by Regulation [(EC) No. 1830/2003](https://www.legislation.gov.uk/european/regulation/2003/1830) of the European Parliament and Council (O.J. No. L268, 18.10.2003, p. 24)
 
-[^key-12f7d732a6ce354da17cae3d86ef071a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/526/regulation/10) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-12f7d732a6ce354da17cae3d86ef071a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/526/regulation/10) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-0f79f21f3ebe37cbb57e65000c726104]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/526/regulation/11) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-0f79f21f3ebe37cbb57e65000c726104]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/526/regulation/11) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-1cdc369e5985cd0c24695d3708885337]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/526/regulation/12) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-1cdc369e5985cd0c24695d3708885337]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/526/regulation/12) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-f2d07170ac0d31fc16d082a8b0305a43]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/526/regulation/13) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-f2d07170ac0d31fc16d082a8b0305a43]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/526/regulation/13) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
 [^f00008]: Footnote: O.J. No. L33, 8.2.79, p. 36 as last amended by Regulation [(EC) No. 850/2004](https://www.legislation.gov.uk/european/regulation/2004/0850) of the European Parliament and the Council (O.J. No. L158, 30.4.2004, p. 7)
 
-[^key-78af899dc6055d4bde29b2775f671cfe]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/526/regulation/14) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-78af899dc6055d4bde29b2775f671cfe]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/526/regulation/14) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-461b6d6d85c43fae4d4934a306b1a56e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/526/regulation/15) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-461b6d6d85c43fae4d4934a306b1a56e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/526/regulation/15) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-fb007497e5f484101a27a52be2f2a210]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/526/regulation/16) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-fb007497e5f484101a27a52be2f2a210]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/526/regulation/16) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-a4ec68185fa559c150ec1047a4713146]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/526/regulation/17) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-a4ec68185fa559c150ec1047a4713146]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/526/regulation/17) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391)
 
-[^key-ed4948f66d089124b23417313d4885ae]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/526/regulation/18) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-ed4948f66d089124b23417313d4885ae]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/526/regulation/18) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-493e73998dfe9c349d68ae95617c20bb]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/526/regulation/19) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-493e73998dfe9c349d68ae95617c20bb]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/526/regulation/19) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-2dda3feca2f2c25332d64b251689740c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/526/regulation/20) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-2dda3feca2f2c25332d64b251689740c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/526/regulation/20) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-236145b072f1baddfd2ed69e3e83a694]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/526/regulation/21) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-236145b072f1baddfd2ed69e3e83a694]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/526/regulation/21) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-8969d6a271647f12da8bbdadd31b3fff]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/526/regulation/22) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-8969d6a271647f12da8bbdadd31b3fff]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/526/regulation/22) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
 [^f00010]: Footnote: [1972 c. 7](https://www.legislation.gov.uk/apni/1972/7)
 
-[^key-53dd96eb12e206cc99733029aeaf7739]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/526/regulation/23) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-53dd96eb12e206cc99733029aeaf7739]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/526/regulation/23) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-99d73183d9787a5765d8efb293ad21a4]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/526/regulation/24) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-99d73183d9787a5765d8efb293ad21a4]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/526/regulation/24) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-bded465d7fe8c7d65bdff0bb47dcd5c0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/526/regulation/25) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-bded465d7fe8c7d65bdff0bb47dcd5c0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/526/regulation/25) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-3b664b0a62ddc58cdd64ca1ce6e0631c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/526/regulation/26) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-3b664b0a62ddc58cdd64ca1ce6e0631c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/526/regulation/26) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-e4d715a7d55e9ec3bc34381bdd9bf851]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/526/regulation/27) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-e4d715a7d55e9ec3bc34381bdd9bf851]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/526/regulation/27) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
 [^f00011]: Footnote: [S.R. 2002 No. 301](https://www.legislation.gov.uk/nisr/2002/301)
 
-[^key-a3a7871daba18a41e6dbb1948bd2b9c0]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/526/regulation/28) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-a3a7871daba18a41e6dbb1948bd2b9c0]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/526/regulation/28) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
 [^f00012]: Footnote: [S.R. 2004 No. 126](https://www.legislation.gov.uk/nisr/2004/126)
 
 [^f00013]: Footnote: [S.R. 2004 No. 411](https://www.legislation.gov.uk/nisr/2004/411)
 
-[^key-e8a92993791f9b685407d1d8d9133fda]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/526/schedule/1) revoked (12.1.2009) by [Plant Protection Products (Amendment No 2) Regulations (Northern Ireland) 2008 (S.R. 2008/499)](https://www.legislation.gov.uk/nisr/2008/499), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/499/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/499/regulation/2/3)
+[^c-e8a92993791f9b685407d1d8d9133fda]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/526/schedule/1) revoked (12.1.2009) by [Plant Protection Products (Amendment No 2) Regulations (Northern Ireland) 2008 (S.R. 2008/499)](https://www.legislation.gov.uk/nisr/2008/499), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/499/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/499/regulation/2/3)
 
-[^key-1502ff9a54aecffaf9794465397d0d09]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/1) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-1502ff9a54aecffaf9794465397d0d09]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/1) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-53fe462614409c64e38d02182d5ab260]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/2) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-53fe462614409c64e38d02182d5ab260]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/2) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
 [^f00067]: Footnote: O.J. No. L196, 16.8.67, p. 1 (O.J./S.E. 1967 p. 234) as last amended by Commission Directive [2004/73/EC](https://www.legislation.gov.uk/european/directive/2004/0073) (O.J. No. L152, 30.4.2004, p. 1)
 
 [^f00068]: Footnote: O.J. No. L200, 30.7.1999, p. 1 as last amended by Council Directive [2004/66/EC](https://www.legislation.gov.uk/european/directive/2004/0066) (O.J. No. L168, 1.5.2004, p. 35)
 
-[^key-272be39e273ac11099ef99288387121e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/3) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-272be39e273ac11099ef99288387121e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/3) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-7f8dfec1840b14438aab9534820ff367]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/4) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-7f8dfec1840b14438aab9534820ff367]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/4) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-3c4f8dab98bd5a6a2839dd97f23a9a5c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/5) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-3c4f8dab98bd5a6a2839dd97f23a9a5c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/5) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-824a1297afbdc504645ba503498df062]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/6) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-824a1297afbdc504645ba503498df062]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/6) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-e8014ab771ec2e6e9f8a027e70fa3a83]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/7) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-e8014ab771ec2e6e9f8a027e70fa3a83]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/7) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-50dfa9d6ed3f76976dce2d09405b862c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/8) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-50dfa9d6ed3f76976dce2d09405b862c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/8) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-a268488440eea0b59f93f54870e2fca4]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/9) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-a268488440eea0b59f93f54870e2fca4]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/9) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-c0ac618fa4b5b193d8c988543ab08d38]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/10) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-c0ac618fa4b5b193d8c988543ab08d38]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2005/526/schedule/2/paragraph/10) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-507fb8815a1244800029bf6548f4ee5b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/1) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-507fb8815a1244800029bf6548f4ee5b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/1) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
 [^f00069]: Footnote: By J Rigaudy and S P Klesney, published by Pergamon (ISBN 0-08022-3699)
 
 [^f00070]: Footnote: By R Panico, W H Powell and J-C Richer, published by Blackwell Science (ISBN 0-63203-4882). Corrections published in Pure Appl.Chem., vol. 71, No. 7, pp. 1327-1330, 1999
 
-[^key-9b8e28b4f060e29111b62d6f036b18d0]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/2) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-9b8e28b4f060e29111b62d6f036b18d0]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/2) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-1fd702d25aab8d3ad0613eb18a5459a0]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/3) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-1fd702d25aab8d3ad0613eb18a5459a0]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/3) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-63e42c20b5fff5be2aae195d4204c7a2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/4) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-63e42c20b5fff5be2aae195d4204c7a2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/4) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-9bc0856724c202fa400489f844a1b6da]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/5) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-9bc0856724c202fa400489f844a1b6da]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/5) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-c182d4919a5bdd641ca000364cda90c1]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/6) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-c182d4919a5bdd641ca000364cda90c1]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/6) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-f36dfc267270dfb1761862a22b79af51]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/7) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-f36dfc267270dfb1761862a22b79af51]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2005/526/schedule/3/paragraph/7) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-ad7ed9415da8fb06422561b26cd3c16d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/1) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-ad7ed9415da8fb06422561b26cd3c16d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/1) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-851327e384b4ebe7d21f455c22469492]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/2) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-851327e384b4ebe7d21f455c22469492]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/2) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-2e0eaf14b85c0a4385d8e8beb7f70b25]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/3) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-2e0eaf14b85c0a4385d8e8beb7f70b25]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/3) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-c2844d7f436ab77f692b87316b86be27]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/4) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-c2844d7f436ab77f692b87316b86be27]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/4) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-4f5c1947654f169a49d745964abda392]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/5) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-4f5c1947654f169a49d745964abda392]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/5) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-f8a7d45a78afa5e496f06fb865acc51d]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/6) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-f8a7d45a78afa5e496f06fb865acc51d]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/6) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-ab5adcedf4c986a9ab1e24c95c4dad77]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/7) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-ab5adcedf4c986a9ab1e24c95c4dad77]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/7) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-e88752e99d06f643db282cb6e122a108]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/8) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-e88752e99d06f643db282cb6e122a108]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/8) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-90a5ff3f7066fae2be26670e5b5d8e79]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/9) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-90a5ff3f7066fae2be26670e5b5d8e79]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/9) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-83392ca389a0f0644a4e1697abfcd3e6]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/10) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-83392ca389a0f0644a4e1697abfcd3e6]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/10) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-ee1be31ff42c1604c5ec8fffb36f4b0b]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/11) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-ee1be31ff42c1604c5ec8fffb36f4b0b]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/11) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
 
-[^key-d095f77ab3d9d41c2099a3a438bff67b]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/12) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)
+[^c-d095f77ab3d9d41c2099a3a438bff67b]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nisr/2005/526/schedule/4/paragraph/12) in operation at 26.1.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/526/regulation/1)

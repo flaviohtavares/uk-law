@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Disposal of property[^key-b69ad2da6aceb279ff8668b6b36a4a3e]
+## 123. Disposal of property[^c-b69ad2da6aceb279ff8668b6b36a4a3e]
 
 *Extent: E+W*
 
-Chapter 5 makes provision about disposal of property by private registered providers[^key-aafa64e9ebe887bf51e97dc44fe752d5].
+Chapter 5 makes provision about disposal of property by private registered providers[^c-aafa64e9ebe887bf51e97dc44fe752d5].
 
 ## Annotations
 
-[^key-b69ad2da6aceb279ff8668b6b36a4a3e]: Commencement: S. 123 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-b69ad2da6aceb279ff8668b6b36a4a3e]: Commencement: S. 123 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-aafa64e9ebe887bf51e97dc44fe752d5]: Textual amendment: Words in s. 123 inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/20)
+[^c-aafa64e9ebe887bf51e97dc44fe752d5]: Textual amendment: Words in s. 123 inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/20)

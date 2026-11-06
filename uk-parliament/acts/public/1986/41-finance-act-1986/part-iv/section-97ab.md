@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97AB. Exempt capital-raising transfers[^key-75904253ec7c33069c9bfad3bdc3b777]
+## 97AB. Exempt capital-raising transfers[^c-75904253ec7c33069c9bfad3bdc3b777]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75904253ec7c33069c9bfad3bdc3b777]: Textual amendment: Ss. 97AB-97AD and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/15)
+[^c-75904253ec7c33069c9bfad3bdc3b777]: Textual amendment: Ss. 97AB-97AD and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Non-harassment orders: domestic abuse cases[^key-725bc6f63c970ee10a8d1c59d7bbfedd][^key-2135cd7b853487dd91c57f6608c14dd9]
+## 108. Non-harassment orders: domestic abuse cases[^c-725bc6f63c970ee10a8d1c59d7bbfedd][^c-2135cd7b853487dd91c57f6608c14dd9]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-725bc6f63c970ee10a8d1c59d7bbfedd]: Commencement: S. 108 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-725bc6f63c970ee10a8d1c59d7bbfedd]: Commencement: S. 108 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-2135cd7b853487dd91c57f6608c14dd9]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2025/12/section/108) in force at 1.9.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/120/regulation/4))
+[^c-2135cd7b853487dd91c57f6608c14dd9]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2025/12/section/108) in force at 1.9.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2026/120/regulation/4))

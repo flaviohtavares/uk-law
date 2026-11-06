@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12B. Eligible rent[^key-5f0fe6118893e66ca6bd6a4b03141f76]
+## 12B. Eligible rent[^c-5f0fe6118893e66ca6bd6a4b03141f76]
 
 *Extent: E+W+S*
 
-(1)[^key-ab4ac9c7e4a97af806b56d0e7a427ea8] The amount of a person’s eligible rent shall be determined in accordance with the provisions of this regulation except where any of the following provisions applies—
+(1)[^c-ab4ac9c7e4a97af806b56d0e7a427ea8] The amount of a person’s eligible rent shall be determined in accordance with the provisions of this regulation except where any of the following provisions applies—
 
 - (a) regulation 12BA (eligible rent and maximum rent (social sector));
 - (b) regulation 12C (eligible rent and maximum rent);
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f0fe6118893e66ca6bd6a4b03141f76]: Textual amendment: Regs. 12B-12D inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2868/regulation/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-5f0fe6118893e66ca6bd6a4b03141f76]: Textual amendment: Regs. 12B-12D inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2868/regulation/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
 
-[^key-ab4ac9c7e4a97af806b56d0e7a427ea8]: Textual amendment: Reg. 12B(1) substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/4)
+[^c-ab4ac9c7e4a97af806b56d0e7a427ea8]: Textual amendment: Reg. 12B(1) substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/4)

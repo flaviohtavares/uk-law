@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-10ffa02844582574980c54528bf2bbbb]
+## 2. Interpretation[^c-10ffa02844582574980c54528bf2bbbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In this Order—
 
 ## Annotations
 
-[^key-10ffa02844582574980c54528bf2bbbb]: Commencement: Art. 2 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-10ffa02844582574980c54528bf2bbbb]: Commencement: Art. 2 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00002]: Footnote: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41). Section 99(3) to (12) was relevantly amended by section 144(2), (4) and (5) of the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 113(2) and (3) of the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29), section 196(5) of the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), section 151(5) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), and section 118(2) and (4) of, and paragraph 12 of Schedule 19 to, the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16).
 

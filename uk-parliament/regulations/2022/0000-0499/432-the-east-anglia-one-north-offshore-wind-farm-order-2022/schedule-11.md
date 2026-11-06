@@ -22,7 +22,7 @@ summary: ''
 
 Article 34
 
-### PART 1 — Removal of important hedgerows[^key-45af79b4d130c6ae8a506b406e1283dc]
+### PART 1 — Removal of important hedgerows[^c-45af79b4d130c6ae8a506b406e1283dc]
 
 <table>
 <thead>
@@ -75,7 +75,7 @@ Article 34
 </tbody>
 </table>
 
-### PART 2 — Important hedgerows that will be crossed using a reduced working width[^key-dbbab6318a8f9d205f2b24477bfa91dd]
+### PART 2 — Important hedgerows that will be crossed using a reduced working width[^c-dbbab6318a8f9d205f2b24477bfa91dd]
 
 <table>
 <thead>
@@ -104,6 +104,6 @@ Article 34
 
 ## Annotations
 
-[^key-45af79b4d130c6ae8a506b406e1283dc]: Commencement: Sch. 11 Pt. 1 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-45af79b4d130c6ae8a506b406e1283dc]: Commencement: Sch. 11 Pt. 1 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
-[^key-dbbab6318a8f9d205f2b24477bfa91dd]: Commencement: Sch. 11 Pt. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-dbbab6318a8f9d205f2b24477bfa91dd]: Commencement: Sch. 11 Pt. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

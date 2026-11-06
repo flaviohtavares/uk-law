@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Application of Part 4 to existing leases[^key-968358e56738e92fd05470aa2de78c60]
+## 71. Application of Part 4 to existing leases[^c-968358e56738e92fd05470aa2de78c60]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Each section of this Part has effect in relation to a lease (within the meaning 
 
 ## Annotations
 
-[^key-968358e56738e92fd05470aa2de78c60]: Commencement: S. 71 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-968358e56738e92fd05470aa2de78c60]: Commencement: S. 71 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

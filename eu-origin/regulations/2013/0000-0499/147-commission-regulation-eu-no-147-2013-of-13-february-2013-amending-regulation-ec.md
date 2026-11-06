@@ -33,20 +33,20 @@ of 13 February 2013
 
 amending Regulation (EC) No 1099/2008 of the European Parliament and of the Council on energy statistics, as regards the implementation of updates for the monthly and annual energy statistics (revoked)
 
-[^key-ce2fb43df028d2c962ea33eab23b62f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce2fb43df028d2c962ea33eab23b62f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ce2fb43df028d2c962ea33eab23b62f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ce2fb43df028d2c962ea33eab23b62f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ce2fb43df028d2c962ea33eab23b62f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ce2fb43df028d2c962ea33eab23b62f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ce2fb43df028d2c962ea33eab23b62f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ce2fb43df028d2c962ea33eab23b62f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce2fb43df028d2c962ea33eab23b62f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce2fb43df028d2c962ea33eab23b62f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ce2fb43df028d2c962ea33eab23b62f3]
+## ANNEX[^c-ce2fb43df028d2c962ea33eab23b62f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce2fb43df028d2c962ea33eab23b62f3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 214](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/214); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce2fb43df028d2c962ea33eab23b62f3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 214](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/214); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

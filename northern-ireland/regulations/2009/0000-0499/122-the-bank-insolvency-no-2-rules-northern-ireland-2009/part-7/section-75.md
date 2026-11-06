@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Payments of a periodical nature[^key-93a9bbc2abc2ae25138b78644c4002e8]
+## 75. Payments of a periodical nature[^c-93a9bbc2abc2ae25138b78644c4002e8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93a9bbc2abc2ae25138b78644c4002e8]: Commencement: Rule 75 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-93a9bbc2abc2ae25138b78644c4002e8]: Commencement: Rule 75 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

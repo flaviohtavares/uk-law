@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Amendments[^key-043af8e1148702d955d0e1a52810cb00]
+## 24. Amendments[^c-043af8e1148702d955d0e1a52810cb00]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-043af8e1148702d955d0e1a52810cb00]: Commencement: Reg. 24 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-043af8e1148702d955d0e1a52810cb00]: Commencement: Reg. 24 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
 [^f00027]: Footnote: [S.R. 1995 No. 377](https://www.legislation.gov.uk/nisr/1995/377); the relevant amending Regulations are [S.R. 1997 No. 493](https://www.legislation.gov.uk/nisr/1997/493), [S.R. 1997 No. 495](https://www.legislation.gov.uk/nisr/1997/495) and [S.R. 1997 No. 496](https://www.legislation.gov.uk/nisr/1997/496)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Territorial application[^key-af72061fa95ef360812d517b4b5aa6e9]
+## 102. Territorial application[^c-af72061fa95ef360812d517b4b5aa6e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af72061fa95ef360812d517b4b5aa6e9]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2003/20/section/102) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/827/article/3/y)
+[^c-af72061fa95ef360812d517b4b5aa6e9]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2003/20/section/102) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/827/article/3/y)

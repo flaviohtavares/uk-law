@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**2.**[^key-47fd57c790b746059de6ccacb9e1eb51] The GDS Contracts Regulations are amended in accordance with this Part.
+**2.**[^c-47fd57c790b746059de6ccacb9e1eb51] The GDS Contracts Regulations are amended in accordance with this Part.
 
 ## Annotations
 
-[^key-47fd57c790b746059de6ccacb9e1eb51]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/364/regulation/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-47fd57c790b746059de6ccacb9e1eb51]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/364/regulation/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

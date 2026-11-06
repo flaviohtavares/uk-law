@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Appointment and qualification of officers.[^key-6707ac3cc41b736057e44cdd2e316e69][^key-ddcab12b356c6c52ead74de29512692c]
+## 41. Appointment and qualification of officers.[^c-6707ac3cc41b736057e44cdd2e316e69][^c-ddcab12b356c6c52ead74de29512692c]
 
 *Extent: N.I.*
 
@@ -81,9 +81,9 @@ the Ministry, after consulting the council and considering any representations m
 
 ## Annotations
 
-[^key-6707ac3cc41b736057e44cdd2e316e69]: Modification: [S. 41](https://www.legislation.gov.uk/apni/1972/9/section/41) applied (with modifications) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)
+[^c-6707ac3cc41b736057e44cdd2e316e69]: Modification: [S. 41](https://www.legislation.gov.uk/apni/1972/9/section/41) applied (with modifications) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)
 
-[^key-ddcab12b356c6c52ead74de29512692c]: Modification: Ss. 40 41 applied (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [18(4)](https://www.legislation.gov.uk/nisr/2013/179/regulation/18/4)
+[^c-ddcab12b356c6c52ead74de29512692c]: Modification: Ss. 40 41 applied (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [18(4)](https://www.legislation.gov.uk/nisr/2013/179/regulation/18/4)
 
 [^c16962951]: Textual amendment: [1995 NI 5](https://www.legislation.gov.uk/1995/ni5)
 

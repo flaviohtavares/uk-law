@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. Agreements as to execution of works.[^key-dc6e7153e39380ba1c6ccdd78d017d59][^c19867731][^c21460991][^c13431301]
+## 278. Agreements as to execution of works.[^c-dc6e7153e39380ba1c6ccdd78d017d59][^c19867731][^c21460991][^c13431301]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ This does not affect the right of any of those persons to recover from the perso
 
 ## Annotations
 
-[^key-dc6e7153e39380ba1c6ccdd78d017d59]: Modification: [S. 278](https://www.legislation.gov.uk/ukpga/1980/66/section/278) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [18(3)(a)](https://www.legislation.gov.uk/uksi/2023/1432/article/18/3/a)
+[^c-dc6e7153e39380ba1c6ccdd78d017d59]: Modification: [S. 278](https://www.legislation.gov.uk/ukpga/1980/66/section/278) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [18(3)(a)](https://www.legislation.gov.uk/uksi/2023/1432/article/18/3/a)
 
 [^c19867731]: Modification: [S. 278](https://www.legislation.gov.uk/ukpga/1980/66/section/278) modified (16.5.2008) by [The London Gateway Port Harbour Empowerment Order 2008 (S.I. 2008/1261)](https://www.legislation.gov.uk/uksi/2008/1261), [art. 58(5)(a)](https://www.legislation.gov.uk/uksi/2008/1261/article/58/5/a) (with [arts. 41(1)](https://www.legislation.gov.uk/uksi/2008/1261/article/41/1), [45](https://www.legislation.gov.uk/uksi/2008/1261/article/45), [54(2)](https://www.legislation.gov.uk/uksi/2008/1261/article/54/2), [55](https://www.legislation.gov.uk/uksi/2008/1261/article/55), [56](https://www.legislation.gov.uk/uksi/2008/1261/article/56), [57(6)](https://www.legislation.gov.uk/uksi/2008/1261/article/57/6))
 

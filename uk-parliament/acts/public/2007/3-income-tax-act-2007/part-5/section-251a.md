@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251A. Powers to amend Chapters 2 to 4 by Treasury regulations[^key-f64585eec40d540827b3a3f73ef09d60]
+## 251A. Powers to amend Chapters 2 to 4 by Treasury regulations[^c-f64585eec40d540827b3a3f73ef09d60]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f64585eec40d540827b3a3f73ef09d60]: Textual amendment: S. 251A and cross-heading inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/18)
+[^c-f64585eec40d540827b3a3f73ef09d60]: Textual amendment: S. 251A and cross-heading inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/18)

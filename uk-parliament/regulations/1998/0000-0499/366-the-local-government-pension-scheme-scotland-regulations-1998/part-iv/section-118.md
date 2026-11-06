@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 118. Contracting-out requirements affecting transfers out[^key-258484bd7eaba876f36d895f39eb0456]
+## 118. Contracting-out requirements affecting transfers out[^c-258484bd7eaba876f36d895f39eb0456]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-258484bd7eaba876f36d895f39eb0456]: Commencement: Reg. 118 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-258484bd7eaba876f36d895f39eb0456]: Commencement: Reg. 118 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00047]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 

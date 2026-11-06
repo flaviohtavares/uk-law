@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243A. Infrastructure planning: enforcement in the Welsh inshore region[^key-c8172b18a2b16cbb899b0e0daa8f94d4]
+## 243A. Infrastructure planning: enforcement in the Welsh inshore region[^c-c8172b18a2b16cbb899b0e0daa8f94d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8172b18a2b16cbb899b0e0daa8f94d4]: Textual amendment: S. 243A inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 110](https://www.legislation.gov.uk/asc/2024/3/section/110), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 83(5)](https://www.legislation.gov.uk/asc/2024/3/section/83/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-c8172b18a2b16cbb899b0e0daa8f94d4]: Textual amendment: S. 243A inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 110](https://www.legislation.gov.uk/asc/2024/3/section/110), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 83(5)](https://www.legislation.gov.uk/asc/2024/3/section/83/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

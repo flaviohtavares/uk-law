@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Minimum criteria which must be taken into account by the Secretary of State when approving bodies[^key-10415ec5aa1541b8b2a83de0c9075dbc]
+## SCHEDULE 8 — Minimum criteria which must be taken into account by the Secretary of State when approving bodies[^c-10415ec5aa1541b8b2a83de0c9075dbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ In particular, the body and staff responsible for the checks must be functionall
 
 ## Annotations
 
-[^key-10415ec5aa1541b8b2a83de0c9075dbc]: Textual amendment: Sch. 8 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2019/345/schedule/7) (as amended by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(15)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10415ec5aa1541b8b2a83de0c9075dbc]: Textual amendment: Sch. 8 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2019/345/schedule/7) (as amended by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(15)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

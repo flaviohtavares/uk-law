@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-The Department of Justice shall, in respect of each such period as the Department may specify, arrange for a statement to be sent to the Department[^key-46c82276f54c49067bf4178a0588267f] showing—
+The Department of Justice shall, in respect of each such period as the Department may specify, arrange for a statement to be sent to the Department[^c-46c82276f54c49067bf4178a0588267f] showing—
 
 - (a) the number of—
   - (i) bookmakers' licences;
@@ -30,8 +30,8 @@ The Department of Justice shall, in respect of each such period as the Departmen
   - (v) gaming machine permits; and
   - (vi) lottery certificates;
 
-  granted by a county court or court of summary jurisdiction[^key-8860ca670cd011c05bfef9325d7b1ba1] ;
-- (b) the number of clubs [^key-bcf08674cb8062eb5b4dda1c49563ce7]... registered under this Order;
+  granted by a county court or court of summary jurisdiction[^c-8860ca670cd011c05bfef9325d7b1ba1] ;
+- (b) the number of clubs [^c-bcf08674cb8062eb5b4dda1c49563ce7]... registered under this Order;
 - (c) the number of licences or certificates so granted which have been renewed;
 - (d) the number of bookmaking office licences which have been transferred;
 - (e) the number of clubs so registered for which registration has been renewed;
@@ -45,8 +45,8 @@ and containing such other information as the Department may require.
 
 ## Annotations
 
-[^key-46c82276f54c49067bf4178a0588267f]: Textual amendment: Words in [art. 177](https://www.legislation.gov.uk/nisi/1985/1204/article/177) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(9)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/9/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-46c82276f54c49067bf4178a0588267f]: Textual amendment: Words in [art. 177](https://www.legislation.gov.uk/nisi/1985/1204/article/177) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(9)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/9/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-8860ca670cd011c05bfef9325d7b1ba1]: Textual amendment: Words in [art. 177(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/177/a) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(9)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/9/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-8860ca670cd011c05bfef9325d7b1ba1]: Textual amendment: Words in [art. 177(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/177/a) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(9)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/9/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-bcf08674cb8062eb5b4dda1c49563ce7]: Textual amendment: Words in [art. 177(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/177/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(9)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/9/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-bcf08674cb8062eb5b4dda1c49563ce7]: Textual amendment: Words in [art. 177(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/177/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(9)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/9/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

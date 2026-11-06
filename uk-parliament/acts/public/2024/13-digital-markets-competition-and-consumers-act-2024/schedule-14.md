@@ -22,7 +22,7 @@ summary: ''
 
 Section 145
 
-### 1. Orders and regulations under CA 1998[^key-cfd44310482791ec7428c80e37aab0f1][^key-570c332966e6fe74159fbd54ae39d9d9]
+### 1. Orders and regulations under CA 1998[^c-cfd44310482791ec7428c80e37aab0f1][^c-570c332966e6fe74159fbd54ae39d9d9]
 
 (1) In Part 4 of CA 1998 (supplemental and transitional), section 71 (regulations, orders and rules) is amended as follows.
 
@@ -48,7 +48,7 @@ Section 145
 >
 > (8) Where orders or regulations under this Act are subject to “the negative procedure”, the statutory instrument containing them is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 2. Orders and regulations under Part 3 of EA 2002[^key-13660449d2c0f0ff3ca16a02384ddc99][^key-cc4ee19c3f12370441513580ae25d9f9]
+### 2. Orders and regulations under Part 3 of EA 2002[^c-13660449d2c0f0ff3ca16a02384ddc99][^c-cc4ee19c3f12370441513580ae25d9f9]
 
 (1) In Part 3 of EA 2002 (mergers), section 124 (orders and regulations under Part 3) is amended as follows.
 
@@ -83,7 +83,7 @@ Section 145
 >
 > (12) Where orders or regulations under this Act are subject to “the negative procedure”, the statutory instrument containing them is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 3. Orders and regulations under Part 4 of EA 2002[^key-6f488c555f260cfc4f4278299bf485de][^key-f9f816283f0a7b679348136f211d4b32]
+### 3. Orders and regulations under Part 4 of EA 2002[^c-6f488c555f260cfc4f4278299bf485de][^c-f9f816283f0a7b679348136f211d4b32]
 
 (1) In Part 4 of EA 2002 (market studies and market investigations), section 181 (orders under Part 4) is amended as follows.
 
@@ -124,14 +124,14 @@ Section 145
 
 ## Annotations
 
-[^key-cfd44310482791ec7428c80e37aab0f1]: Commencement: Sch. 14 para. 1 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-cfd44310482791ec7428c80e37aab0f1]: Commencement: Sch. 14 para. 1 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-570c332966e6fe74159fbd54ae39d9d9]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/14/paragraph/1) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(18)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/18)
+[^c-570c332966e6fe74159fbd54ae39d9d9]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2024/13/schedule/14/paragraph/1) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(18)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/18)
 
-[^key-13660449d2c0f0ff3ca16a02384ddc99]: Commencement: Sch. 14 para. 2 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-13660449d2c0f0ff3ca16a02384ddc99]: Commencement: Sch. 14 para. 2 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-cc4ee19c3f12370441513580ae25d9f9]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/14/paragraph/2) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(18)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/18)
+[^c-cc4ee19c3f12370441513580ae25d9f9]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/14/paragraph/2) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(18)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/18)
 
-[^key-6f488c555f260cfc4f4278299bf485de]: Commencement: Sch. 14 para. 3 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-6f488c555f260cfc4f4278299bf485de]: Commencement: Sch. 14 para. 3 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-f9f816283f0a7b679348136f211d4b32]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/14/paragraph/3) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(18)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/18)
+[^c-f9f816283f0a7b679348136f211d4b32]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/14/paragraph/3) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(18)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/18)

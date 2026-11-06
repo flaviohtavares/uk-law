@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 99. Calculation of net earnings of employed earners[^key-63cd98d41ecc0d582d1d9b907c1b794c]
+## 99. Calculation of net earnings of employed earners[^c-63cd98d41ecc0d582d1d9b907c1b794c]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63cd98d41ecc0d582d1d9b907c1b794c]: Commencement: Reg. 99 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-63cd98d41ecc0d582d1d9b907c1b794c]: Commencement: Reg. 99 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

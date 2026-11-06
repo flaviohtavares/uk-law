@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Recovery or retention where former member has misconduct obligation[^key-8132c5f14c3d12006da939bfce089b19]
+## 74. Recovery or retention where former member has misconduct obligation[^c-8132c5f14c3d12006da939bfce089b19]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ whichever is less.
 
 ## Annotations
 
-[^key-8132c5f14c3d12006da939bfce089b19]: Commencement: Reg. 74 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-8132c5f14c3d12006da939bfce089b19]: Commencement: Reg. 74 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

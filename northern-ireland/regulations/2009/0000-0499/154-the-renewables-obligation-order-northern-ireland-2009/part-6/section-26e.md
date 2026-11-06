@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26E. Low-range co-firing of relevant energy crops with CHP[^key-41206aa6957601c1776198accc44e605]
+## 26E. Low-range co-firing of relevant energy crops with CHP[^c-41206aa6957601c1776198accc44e605]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41206aa6957601c1776198accc44e605]: Textual amendment: [Arts. 26A-26E](https://www.legislation.gov.uk/nisr/2009/154/article/26A) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [15](https://www.legislation.gov.uk/nisr/2013/116/article/15) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-41206aa6957601c1776198accc44e605]: Textual amendment: [Arts. 26A-26E](https://www.legislation.gov.uk/nisr/2009/154/article/26A) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [15](https://www.legislation.gov.uk/nisr/2013/116/article/15) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

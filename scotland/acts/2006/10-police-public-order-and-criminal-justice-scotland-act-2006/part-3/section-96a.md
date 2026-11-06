@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Appeals etc. in the Sheriff Appeal Court: undisclosed information[^key-dfc9c5a8bf367b856d7766e41d86021f]
+## 96A. Appeals etc. in the Sheriff Appeal Court: undisclosed information[^c-dfc9c5a8bf367b856d7766e41d86021f]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfc9c5a8bf367b856d7766e41d86021f]: Textual amendment: [S. 96A](https://www.legislation.gov.uk/asp/2006/10/section/96A) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 9(6)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/9/6) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-dfc9c5a8bf367b856d7766e41d86021f]: Textual amendment: [S. 96A](https://www.legislation.gov.uk/asp/2006/10/section/96A) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 9(6)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/9/6) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

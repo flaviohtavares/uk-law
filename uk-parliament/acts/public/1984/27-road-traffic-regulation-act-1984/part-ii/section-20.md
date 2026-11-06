@@ -28,7 +28,7 @@ summary: ''
 
 (4) A statutory instrument by which an order under this section is made, revoked or varied shall not have effect unless and until it has been approved by a resolution of each House of Parliament.
 
-(5)[^key-8c41249359c0832074e9ddd896d1cec6][^key-4e9e2cc6cf18733575a1b75d7bf6764d] A person who drives a vehicle, or causes or permits a vehicle to be driven, in contravention of an order under this section shall be guilty of an offence.
+(5)[^c-8c41249359c0832074e9ddd896d1cec6][^c-4e9e2cc6cf18733575a1b75d7bf6764d] A person who drives a vehicle, or causes or permits a vehicle to be driven, in contravention of an order under this section shall be guilty of an offence.
 
 ## Annotations
 
@@ -36,6 +36,6 @@ summary: ''
 
 [^c13547711]: Textual amendment: S. 20(3) substituted (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/1), [Sch. 8 para.32](https://www.legislation.gov.uk/ukpga/1991/22/schedule/8/paragraph/32); which substitution is in force for Scotland only by [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2). and for England and Wales only by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3),Sch.
 
-[^key-8c41249359c0832074e9ddd896d1cec6]: Modification: S. 20(5) excluded by 1988 c. 52, s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
+[^c-8c41249359c0832074e9ddd896d1cec6]: Modification: S. 20(5) excluded by 1988 c. 52, s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
 
-[^key-4e9e2cc6cf18733575a1b75d7bf6764d]: Modification: S. 20(5) excluded (S.) (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-4e9e2cc6cf18733575a1b75d7bf6764d]: Modification: S. 20(5) excluded (S.) (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)

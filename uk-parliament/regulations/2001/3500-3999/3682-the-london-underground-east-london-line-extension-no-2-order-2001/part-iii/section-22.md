@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Rights under streets[^key-9224c70e0ab379052873f69f287d0249]
+## 22. Rights under streets[^c-9224c70e0ab379052873f69f287d0249]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9224c70e0ab379052873f69f287d0249]: Commencement: Art. 22 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-9224c70e0ab379052873f69f287d0249]: Commencement: Art. 22 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

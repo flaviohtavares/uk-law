@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Consultation with the sewerage undertaker[^key-d491575ae9b837528886ee1da5547d2b]
+## 9. Consultation with the sewerage undertaker[^c-d491575ae9b837528886ee1da5547d2b]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d491575ae9b837528886ee1da5547d2b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/1268/regulation/9) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-d491575ae9b837528886ee1da5547d2b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/1268/regulation/9) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

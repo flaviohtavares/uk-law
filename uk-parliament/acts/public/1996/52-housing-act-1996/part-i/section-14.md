@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Treatment of options.[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13147781][^key-0b7342c8337df0f8ba9c7378c6dd7817]
+## 14. Treatment of options.[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13147781][^c-0b7342c8337df0f8ba9c7378c6dd7817]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c13147781]: Modification: S. 14 extended (16.9.1996) by [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule)paras. 1, 11
 
-[^key-0b7342c8337df0f8ba9c7378c6dd7817]: Modification: S. 14 applied (with modifications) (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 179](https://www.legislation.gov.uk/ukpga/2008/17/section/179), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1) (with [s. 189](https://www.legislation.gov.uk/ukpga/2008/17/section/189)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-0b7342c8337df0f8ba9c7378c6dd7817]: Modification: S. 14 applied (with modifications) (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 179](https://www.legislation.gov.uk/ukpga/2008/17/section/179), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1) (with [s. 189](https://www.legislation.gov.uk/ukpga/2008/17/section/189)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

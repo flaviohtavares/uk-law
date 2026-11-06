@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Quarters in respect of which the loan for living costs is payable[^key-dd95075b6147ddfc07421836e0c5931e]
+## 70. Quarters in respect of which the loan for living costs is payable[^c-dd95075b6147ddfc07421836e0c5931e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd95075b6147ddfc07421836e0c5931e]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2007/195/regulation/70) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-dd95075b6147ddfc07421836e0c5931e]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2007/195/regulation/70) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

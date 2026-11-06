@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Assessment of debtor's contribution[^key-f82ce03b6b6d2bdacf59e14b168592be]
+## 89. Assessment of debtor's contribution[^c-f82ce03b6b6d2bdacf59e14b168592be]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f82ce03b6b6d2bdacf59e14b168592be]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2016/21/section/89) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-f82ce03b6b6d2bdacf59e14b168592be]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2016/21/section/89) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

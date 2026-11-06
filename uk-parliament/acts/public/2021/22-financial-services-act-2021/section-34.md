@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Application of money laundering regulations to overseas trustees[^key-54c58bb1cbc7217200cfdccf05f91849]
+## 34. Application of money laundering regulations to overseas trustees[^c-54c58bb1cbc7217200cfdccf05f91849]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54c58bb1cbc7217200cfdccf05f91849]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2021/22/section/34) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/r)
+[^c-54c58bb1cbc7217200cfdccf05f91849]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2021/22/section/34) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/r)

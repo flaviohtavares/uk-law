@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Power of societies to disapply obligation to appoint auditors[^key-339676ab43395617a032368656d3e4f5]
+## 184. Power of societies to disapply obligation to appoint auditors[^c-339676ab43395617a032368656d3e4f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-339676ab43395617a032368656d3e4f5]: Commencement: Art. 184 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-339676ab43395617a032368656d3e4f5]: Commencement: Art. 184 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00128]: Footnote: Section 4A was inserted by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738) article 8(1).

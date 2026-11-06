@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.227. Delivery up to later trustee[^key-d0f34f0b06c176aca6a7aa2e09db96be]
+## 6.227. Delivery up to later trustee[^c-d0f34f0b06c176aca6a7aa2e09db96be]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The existing trustee shall, as and when requested by the trustee for the purpose
 
 ## Annotations
 
-[^key-d0f34f0b06c176aca6a7aa2e09db96be]: Commencement: [Rule 6.227](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.227) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d0f34f0b06c176aca6a7aa2e09db96be]: Commencement: [Rule 6.227](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.227) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Joint planning boards to be hazardous substances authorities[^c22542961][^key-e34d59d8512047c3daf15b1b9f765f5d]
+## 40. Joint planning boards to be hazardous substances authorities[^c22542961][^c-e34d59d8512047c3daf15b1b9f765f5d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 3 of the Planning (Hazardous Substances) Act 1990 (c. 10) (hazardous 
 
 [^c22542961]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2015/4/section/40) partly in force; [s. 40](https://www.legislation.gov.uk/anaw/2015/4/section/40) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-e34d59d8512047c3daf15b1b9f765f5d]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2015/4/section/40) in force at 16.3.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 4(b)](https://www.legislation.gov.uk/wsi/2015/1987/article/4/b)
+[^c-e34d59d8512047c3daf15b1b9f765f5d]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2015/4/section/40) in force at 16.3.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 4(b)](https://www.legislation.gov.uk/wsi/2015/1987/article/4/b)

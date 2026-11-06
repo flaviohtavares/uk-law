@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Time of payment: general provision[^key-2fabd280d3722a6b4d0f04f735c32a84]
+## 20. Time of payment: general provision[^c-2fabd280d3722a6b4d0f04f735c32a84]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to regulations 21 to 26B, benefit shall be paid in accordance with an aw
 
 ## Annotations
 
-[^key-2fabd280d3722a6b4d0f04f735c32a84]: Textual amendment: Reg. 20 substituted (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2006/832/regulation/2/6)
+[^c-2fabd280d3722a6b4d0f04f735c32a84]: Textual amendment: Reg. 20 substituted (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2006/832/regulation/2/6)

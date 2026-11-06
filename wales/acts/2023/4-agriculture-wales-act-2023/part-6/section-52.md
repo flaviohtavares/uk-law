@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Meaning of “ancillary activity”[^key-0885ea5fecb3b53e931ba6e5dfa7fe1d]
+## 52. Meaning of “ancillary activity”[^c-0885ea5fecb3b53e931ba6e5dfa7fe1d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In this Act, “**ancillary activity**” means—
 
 ## Annotations
 
-[^key-0885ea5fecb3b53e931ba6e5dfa7fe1d]: Commencement: S. 52 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)
+[^c-0885ea5fecb3b53e931ba6e5dfa7fe1d]: Commencement: S. 52 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)

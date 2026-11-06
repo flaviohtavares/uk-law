@@ -127,7 +127,7 @@ Licences granted in Scotland or Wales for activities that could be licensed in E
 - (a) a veterinary risk assessment has been carried out; and
 - (b) he is satisfied that such a gathering and the transit of birds to and from such a gathering would not significantly increase the risk of the transmission of avian influenza virus.
 
-## 7. Notification of premises where poultry or other captive birds are kept[^key-f4d454d0d4afc2f675e08568e956dc20]
+## 7. Notification of premises where poultry or other captive birds are kept[^c-f4d454d0d4afc2f675e08568e956dc20]
 
 (1) A person who keeps poultry or other captive birds at any premises must notify the Secretary of State in writing of the following information in relation to the premises—
 
@@ -175,7 +175,7 @@ Licences granted in Scotland or Wales for activities that could be licensed in E
 - (a) permanent or temporary housing of poultry or other captive birds in a fully or partially meshed, netted or caged outdoor structure, whether fixed or mobile, which is not fully enclosed within a building; or
 - (b) temporary removal of poultry or other captive birds from their housing in order to be flown freely outdoors;
 
-## 7A. Notification of premises where birds are kept: exceptions[^key-6dc080279b48cb881bd9b067865684b5]
+## 7A. Notification of premises where birds are kept: exceptions[^c-6dc080279b48cb881bd9b067865684b5]
 
 The requirement to notify the Secretary of State under regulation 7 does not apply to keepers of captive birds at any premises where the only captive birds kept—
 
@@ -213,7 +213,7 @@ The requirement to notify the Secretary of State under regulation 7 does not app
 - (b) biosecurity conditions to be met at the zoo or any part of the zoo;
 - (c) conditions relating to the storage and administration of vaccine.
 
-(5) The Secretary of State must ensure that vaccination is carried out in accordance with the preventive vaccination plan [^key-6903ed4c69c1b026afc760ae5a71e0fd]...
+(5) The Secretary of State must ensure that vaccination is carried out in accordance with the preventive vaccination plan [^c-6903ed4c69c1b026afc760ae5a71e0fd]...
 
 ## 10. Extension of the power to cause vaccination
 
@@ -229,10 +229,10 @@ The following provisions of the Act apply as if vaccination under these Regulati
 
 (2) A veterinary inspector or inspector acting under his direction may only license the movement of vaccinated zoo birds—
 
-- (a) to a zoo in the United Kingdom or in a[^key-df03d22bd24dc1badedc4d74edd25694] member State; or
+- (a) to a zoo in the United Kingdom or in a[^c-df03d22bd24dc1badedc4d74edd25694] member State; or
 - (b) directly to a third country.
 
-(3) A veterinary inspector or inspector acting under his direction must not license a movement to a[^key-f70a4ce166e92fc1b3b62fec48ff44f3] member State or to a third country unless its competent authority has authorised the movement.
+(3) A veterinary inspector or inspector acting under his direction must not license a movement to a[^c-f70a4ce166e92fc1b3b62fec48ff44f3] member State or to a third country unless its competent authority has authorised the movement.
 
 (4) An inspector must supervise any movement licensed under paragraph (2) while the bird is in England.
 
@@ -251,7 +251,7 @@ The Secretary of State must ensure that such surveillance for avian influenza as
 
 ## 13. Failure to vaccinate birds
 
-Any person who knows or suspects that any bird has not been vaccinated as required by the Secretary of State must immediately notify the Secretary of State[^key-63ff23c3f96a9a03f56a8779d8114503] .
+Any person who knows or suspects that any bird has not been vaccinated as required by the Secretary of State must immediately notify the Secretary of State[^c-63ff23c3f96a9a03f56a8779d8114503] .
 
 ## 14. General duties relating to execution of these Regulations
 
@@ -361,7 +361,7 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or to a particular case, that he will enforce these Regulations instead.
 
-(3)[^key-08e94207d18fecc9a2c97b166c17e5ca] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Act relating to these Regulations.
+(3)[^c-08e94207d18fecc9a2c97b166c17e5ca] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Act relating to these Regulations.
 
 ## 23. Revocations and savings
 
@@ -414,15 +414,15 @@ EXPLANATORY NOTE
 
 [^f00007]: Footnote: OJ No L 268, 14.9.1992, p. 54, as last amended by Council Directive [2004/68/EC](https://www.legislation.gov.uk/european/directive/2004/0068) (OJ No L 139, 30.4.2004, p. 321).
 
-[^key-f4d454d0d4afc2f675e08568e956dc20]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2701/regulation/7) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/558/article/4/2)
+[^c-f4d454d0d4afc2f675e08568e956dc20]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2701/regulation/7) substituted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/558/article/4/2)
 
-[^key-6dc080279b48cb881bd9b067865684b5]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2006/2701/regulation/7A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/558/article/4/3)
+[^c-6dc080279b48cb881bd9b067865684b5]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2006/2701/regulation/7A) inserted (25.4.2024) by [The Exotic Disease (Amendment) (England) Order 2024 (S.I. 2024/558)](https://www.legislation.gov.uk/uksi/2024/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/558/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/558/article/4/3)
 
 [^f00011]: Footnote: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463), to which there is an amendment not relevant to these Regulations.
 
 [^f00012]: Footnote: [S.I. 2005/2745](https://www.legislation.gov.uk/uksi/2005/2745).
 
-[^key-6903ed4c69c1b026afc760ae5a71e0fd]: Textual amendment: Words in reg. 9(5) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6903ed4c69c1b026afc760ae5a71e0fd]: Textual amendment: Words in reg. 9(5) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00014]: Footnote: Section 16 was amended by section 7 of the Animal Health Act [2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42).
 
@@ -430,13 +430,13 @@ EXPLANATORY NOTE
 
 [^f00016]: Footnote: Section 62A was inserted by section 8 of the Animal Health Act 2002.
 
-[^key-df03d22bd24dc1badedc4d74edd25694]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/11/2/a) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df03d22bd24dc1badedc4d74edd25694]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/11/2/a) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f70a4ce166e92fc1b3b62fec48ff44f3]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/11/3) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f70a4ce166e92fc1b3b62fec48ff44f3]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/11/3) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00017]: Footnote: OJ No. L10, 14.1.2006, p. 16.
 
-[^key-63ff23c3f96a9a03f56a8779d8114503]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2006/2701/regulation/13) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2712/regulation/4)
+[^c-63ff23c3f96a9a03f56a8779d8114503]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2006/2701/regulation/13) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2712/regulation/4)
 
 [^f00018]: Footnote: Section 64A was inserted by the Animal Health Act 1981 (Amendment) Regulations 1992 ([S.I. 1992/3293](https://www.legislation.gov.uk/uksi/1992/3293)), regulation 2.
 
@@ -448,6 +448,6 @@ EXPLANATORY NOTE
 
 [^f00021]: Footnote: Section 75 was amended by the Animal Health Act [2002 (c.42)](https://www.legislation.gov.uk/ukpga/2002/42), section13.
 
-[^key-08e94207d18fecc9a2c97b166c17e5ca]: Textual amendment: Reg. 22(3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [10](https://www.legislation.gov.uk/uksi/2012/2897/article/10)
+[^c-08e94207d18fecc9a2c97b166c17e5ca]: Textual amendment: Reg. 22(3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [10](https://www.legislation.gov.uk/uksi/2012/2897/article/10)
 
 [^f00022]: Footnote: [S.I. 2005/3394](https://www.legislation.gov.uk/uksi/2005/3394).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 894A. Consideration for taking over payment obligations as lessee treated as income[^key-8c0b6549b877156725b29dd854c7efc8]
+## 894A. Consideration for taking over payment obligations as lessee treated as income[^c-8c0b6549b877156725b29dd854c7efc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c0b6549b877156725b29dd854c7efc8]: Textual amendment: Pt. 20 Ch. 3 inserted (with application in accordance with s. 68(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/68/1)
+[^c-8c0b6549b877156725b29dd854c7efc8]: Textual amendment: Pt. 20 Ch. 3 inserted (with application in accordance with s. 68(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/68/1)

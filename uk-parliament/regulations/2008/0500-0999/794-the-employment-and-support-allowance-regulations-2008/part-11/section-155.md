@@ -22,11 +22,11 @@ summary: ''
 
 (1) A claimant is to continue to be entitled to an employment and support allowance during any period of temporary absence from Great Britain if—
 
-- (a) the claimant is a member of the family of a member of Her Majesty's forces and temporarily absent from Great Britain by reason only of the fact that the claimant is living with that member; [^key-32dd5fc4b50e173cde80702ba461416d]...
-- (b)[^key-32dd5fc4b50e173cde80702ba461416d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the claimant is a member of the family of a member of Her Majesty's forces and temporarily absent from Great Britain by reason only of the fact that the claimant is living with that member; [^c-32dd5fc4b50e173cde80702ba461416d]...
+- (b)[^c-32dd5fc4b50e173cde80702ba461416d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In this regulation “**member of the family of a member of Her Majesty's forces**” means the spouse, civil partner, son, daughter, step-son, step-daughter, father, father-in-law, step-father, mother, mother-in-law or step-mother of such a member.
 
 ## Annotations
 
-[^key-32dd5fc4b50e173cde80702ba461416d]: Textual amendment: Reg. 155(1)(b) omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(17)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/17)
+[^c-32dd5fc4b50e173cde80702ba461416d]: Textual amendment: Reg. 155(1)(b) omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(17)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/17)

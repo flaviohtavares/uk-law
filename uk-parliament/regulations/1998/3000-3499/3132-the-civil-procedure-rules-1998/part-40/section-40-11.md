@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.11. Time for complying with a judgment or order[^key-45b72fccedebf09c714fbb942970845c]
+## 40.11. Time for complying with a judgment or order[^c-45b72fccedebf09c714fbb942970845c]
 
 *Extent: E+W*
 
@@ -26,10 +26,10 @@ A party must comply with a judgment or order for the payment of an amount of mon
 - (b) any of these Rules specifies a different date for compliance; or
 - (c) the court has stayed the proceedings or judgment.
 
-[^key-89405279d643aa577d73589a0a4c37ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89405279d643aa577d73589a0a4c37ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45b72fccedebf09c714fbb942970845c]: Commencement: Rule 40.11 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-45b72fccedebf09c714fbb942970845c]: Commencement: Rule 40.11 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-89405279d643aa577d73589a0a4c37ef]: Textual amendment: Words in rule 40.11 omitted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/22/2)
+[^c-89405279d643aa577d73589a0a4c37ef]: Textual amendment: Words in rule 40.11 omitted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/22/2)

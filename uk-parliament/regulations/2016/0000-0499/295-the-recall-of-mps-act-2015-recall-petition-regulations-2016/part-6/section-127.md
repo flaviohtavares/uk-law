@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Disturbances at petition meetings: England and Wales and Scotland[^key-b4b9eb35a45063da390f793f76167d1e]
+## 127. Disturbances at petition meetings: England and Wales and Scotland[^c-b4b9eb35a45063da390f793f76167d1e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4b9eb35a45063da390f793f76167d1e]: Commencement: Reg. 127 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-b4b9eb35a45063da390f793f76167d1e]: Commencement: Reg. 127 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

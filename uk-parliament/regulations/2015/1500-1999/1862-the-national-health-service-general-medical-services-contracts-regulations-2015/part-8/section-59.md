@@ -23,7 +23,7 @@ summary: ''
 (1) The contractor may only provide repeatable prescribing services to a person on its list of patients if the contractor—
 
 - (a) satisfies the conditions specified in paragraph (2); and
-- (b) has given notice in writing to NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] of its intention to provide repeatable prescribing services in accordance with paragraphs (3) and (4).
+- (b) has given notice in writing to NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] of its intention to provide repeatable prescribing services in accordance with paragraphs (3) and (4).
 
 (2) The conditions specified in this paragraph are that—
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c22714861]: Marginal citation: Section 126 was amended by sections 213(7)(k) and 220(7) of, and paragraph 63 of Schedule 4 to, the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 

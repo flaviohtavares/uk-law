@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 776A. Payments under Jobs Growth Wales Plus[^key-31be6c94c55aa3b922a3e470819da6d2]
+## 776A. Payments under Jobs Growth Wales Plus[^c-31be6c94c55aa3b922a3e470819da6d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31be6c94c55aa3b922a3e470819da6d2]: Textual amendment: [S. 776A](https://www.legislation.gov.uk/ukpga/2005/5/section/776A) inserted (with effect in accordance with [s. 26(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/26/2) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/26/1)
+[^c-31be6c94c55aa3b922a3e470819da6d2]: Textual amendment: [S. 776A](https://www.legislation.gov.uk/ukpga/2005/5/section/776A) inserted (with effect in accordance with [s. 26(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/26/2) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/26/1)

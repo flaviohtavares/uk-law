@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Extension of maximum length of subsidised services agreements[^key-6fd67dc172ce0cc801366470f971948e][^key-6d3ca6607fe5caad7f437c67a24cfad7]
+## 70. Extension of maximum length of subsidised services agreements[^c-6fd67dc172ce0cc801366470f971948e][^c-6d3ca6607fe5caad7f437c67a24cfad7]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 90(1) of the TA 1985 (maximum period to be specified in invitation to
 
 ## Annotations
 
-[^key-6fd67dc172ce0cc801366470f971948e]: Commencement: S. 70 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-6fd67dc172ce0cc801366470f971948e]: Commencement: S. 70 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-6d3ca6607fe5caad7f437c67a24cfad7]: Commencement: S. 70 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/579/article/2/h)
+[^c-6d3ca6607fe5caad7f437c67a24cfad7]: Commencement: S. 70 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/579/article/2/h)

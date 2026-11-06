@@ -332,7 +332,7 @@ The market surveillance authority may at any time in writing—
 
 (1) Any appeal under this Schedule must be made to the First-tier Tribunal.
 
-(2) An appeal must be brought within 28 days[^key-4db20d42ed139430df84b50f252e8000] of the date on which the notice or decision is received.
+(2) An appeal must be brought within 28 days[^c-4db20d42ed139430df84b50f252e8000] of the date on which the notice or decision is received.
 
 (3) In any appeal (except in relation to a stop notice) where the commission of an offence is an issue requiring determination, the market surveillance authority must prove that offence according to the same burden and standard of proof as in a criminal prosecution.
 
@@ -391,4 +391,4 @@ The market surveillance authority must consult such persons as it considers appr
 
 ## Annotations
 
-[^key-4db20d42ed139430df84b50f252e8000]: Textual amendment: Words in [Sch. 5 para. 27(2)](https://www.legislation.gov.uk/uksi/2010/2617/schedule/5/paragraph/27/2) substituted (1.12.2011) by [The Ecodesign for Energy-Related Products (Amendment) Regulations 2011 (S.I. 2011/2677)](https://www.legislation.gov.uk/uksi/2011/2677), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2677/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/2677/regulation/2/4)
+[^c-4db20d42ed139430df84b50f252e8000]: Textual amendment: Words in [Sch. 5 para. 27(2)](https://www.legislation.gov.uk/uksi/2010/2617/schedule/5/paragraph/27/2) substituted (1.12.2011) by [The Ecodesign for Energy-Related Products (Amendment) Regulations 2011 (S.I. 2011/2677)](https://www.legislation.gov.uk/uksi/2011/2677), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2677/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/2677/regulation/2/4)

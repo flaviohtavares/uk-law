@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-ab558477446734d564039dbc844700de][^key-a9b1f5de41844a5972cea845501489c1]
+## 2. Interpretation[^c-ab558477446734d564039dbc844700de][^c-a9b1f5de41844a5972cea845501489c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,9 +35,9 @@ In this Order—
 
 ## Annotations
 
-[^key-ab558477446734d564039dbc844700de]: Commencement: Art. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-ab558477446734d564039dbc844700de]: Commencement: Art. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-a9b1f5de41844a5972cea845501489c1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/687/article/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-a9b1f5de41844a5972cea845501489c1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/687/article/2) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00002]: Footnote: [S.I. 2012/688](https://www.legislation.gov.uk/uksi/2012/688).
 

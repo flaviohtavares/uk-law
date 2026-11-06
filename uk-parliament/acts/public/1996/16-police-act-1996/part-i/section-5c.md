@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5C. Membership etc of the Metropolitan Police Authority.[^key-e1ef1e65d0aa932d4e069e0653d7aa7e]
+## 5C. Membership etc of the Metropolitan Police Authority.[^c-e1ef1e65d0aa932d4e069e0653d7aa7e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1ef1e65d0aa932d4e069e0653d7aa7e]: Textual amendment: Ss. 5B-6 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/7); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 10(1)](https://www.legislation.gov.uk/uksi/2011/3019/article/10/1)[(4)](https://www.legislation.gov.uk/uksi/2011/3019/article/10/4))
+[^c-e1ef1e65d0aa932d4e069e0653d7aa7e]: Textual amendment: Ss. 5B-6 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/7); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 10(1)](https://www.legislation.gov.uk/uksi/2011/3019/article/10/1)[(4)](https://www.legislation.gov.uk/uksi/2011/3019/article/10/4))

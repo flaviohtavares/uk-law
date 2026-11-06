@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Change of circumstances where state pension credit payable[^key-b3990b48c85d6412b578c40911853748]
+## 58. Change of circumstances where state pension credit payable[^c-b3990b48c85d6412b578c40911853748]
 
 *Extent: N.I.*
 
@@ -84,4 +84,4 @@ each of which results in a change in the rate of housing benefit payable to the 
 
 ## Annotations
 
-[^key-b3990b48c85d6412b578c40911853748]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2006/406/regulation/58) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-b3990b48c85d6412b578c40911853748]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2006/406/regulation/58) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

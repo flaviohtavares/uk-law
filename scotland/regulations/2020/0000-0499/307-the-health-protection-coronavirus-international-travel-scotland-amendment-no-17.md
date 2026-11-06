@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 17) Regulations 2020 (revoked)[^key-7b9d09f48219ff43ef285b13235bd38a]
+The Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 17) Regulations 2020 (revoked)[^c-7b9d09f48219ff43ef285b13235bd38a]
 
 Approved by the Scottish Parliament
 
@@ -48,28 +48,28 @@ Coming into force
 
 at 4.00 a.m. on 3rd October 2020
 
-[^key-7b9d09f48219ff43ef285b13235bd38a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b9d09f48219ff43ef285b13235bd38a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7b9d09f48219ff43ef285b13235bd38a]
+## 1. Citation and commencement[^c-7b9d09f48219ff43ef285b13235bd38a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020[^key-7b9d09f48219ff43ef285b13235bd38a]
+## 2. Amendment of the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020[^c-7b9d09f48219ff43ef285b13235bd38a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving[^key-7b9d09f48219ff43ef285b13235bd38a]
+## 3. Saving[^c-7b9d09f48219ff43ef285b13235bd38a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b9d09f48219ff43ef285b13235bd38a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b9d09f48219ff43ef285b13235bd38a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b9d09f48219ff43ef285b13235bd38a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b9d09f48219ff43ef285b13235bd38a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b9d09f48219ff43ef285b13235bd38a]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/52/2))
+[^c-7b9d09f48219ff43ef285b13235bd38a]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/52/2))

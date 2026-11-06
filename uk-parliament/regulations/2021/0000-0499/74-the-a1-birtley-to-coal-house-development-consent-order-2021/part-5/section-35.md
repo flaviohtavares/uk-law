@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Apparatus and rights of statutory undertakers in stopped up streets[^key-af17f641bdc4e81cc5f889eacf225799]
+## 35. Apparatus and rights of statutory undertakers in stopped up streets[^c-af17f641bdc4e81cc5f889eacf225799]
 
 *Extent: E+W+S*
 
@@ -59,6 +59,6 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-af17f641bdc4e81cc5f889eacf225799]: Commencement: Art. 35 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-af17f641bdc4e81cc5f889eacf225799]: Commencement: Art. 35 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
 
 [^c24427681]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). There are amendments to section 151 which are not relevant to this Order.

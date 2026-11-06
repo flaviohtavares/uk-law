@@ -52,9 +52,9 @@ In this Act—
 “air services” means air transport services, other than international air services, operating–[^c915258]
 
 - (a) in accordance with a licence granted under section 22 of the Civil Aviation Act 1971 or section 65 of the Civil Aviation Act 1982 or under the authority of an instrument made under section 21(2) of the said Act of 1971 or section 64(2) of the said Act of 1982, or
-- (b)[^key-b63c71832ca90ca4141433be99f3d42a] in exercise of traffic rights permitted by virtue of Chapter   III of Regulation ( EC ) No.   1008/2008 of the European Parliament and of the Council of 24th   September 2008 on common rules for the operation of air services in the Community;
+- (b)[^c-b63c71832ca90ca4141433be99f3d42a] in exercise of traffic rights permitted by virtue of Chapter   III of Regulation ( EC ) No.   1008/2008 of the European Parliament and of the Council of 24th   September 2008 on common rules for the operation of air services in the Community;
 
-- [^key-653f986b6173be31ac6dcf5a2c07fd0c] ...
+- [^c-653f986b6173be31ac6dcf5a2c07fd0c] ...
 - “[^c915262] **the Highlands and Islands** ” means that area within or in relation to which the functions of the Highlands and Islands Development Board may be exercised by virtue of subsection (2) of section 1 of the [^c915263] Highlands and Islands Development (Scotland) Act 1965.
 - “ **the Highlands and Islands** ” shall be construed in accordance with section 21(1) of the Enterprise and New Towns (Scotland) Act 1990.
 
@@ -74,9 +74,9 @@ In this Act—
 
 [^c915258]: Textual amendment: S. 3 : definition of 'air services' substituted (1.1.1994) by [S.I. 1993/3040](https://www.legislation.gov.uk/uksi/1993/3040) , [art. 4](https://www.legislation.gov.uk/uksi/1993/3040/article/4)
 
-[^key-b63c71832ca90ca4141433be99f3d42a]: Textual amendment: Words in s. 3 substituted (1.12.2011) by [The Highlands and Islands Air Services (Scotland) Act 1980 Amendment Regulations 2011 (S.S.I. 2011/367)](https://www.legislation.gov.uk/ssi/2011/367), [regs. 1](https://www.legislation.gov.uk/ssi/2011/367/regulation/1) , [2(2)](https://www.legislation.gov.uk/ssi/2011/367/regulation/2/2)
+[^c-b63c71832ca90ca4141433be99f3d42a]: Textual amendment: Words in s. 3 substituted (1.12.2011) by [The Highlands and Islands Air Services (Scotland) Act 1980 Amendment Regulations 2011 (S.S.I. 2011/367)](https://www.legislation.gov.uk/ssi/2011/367), [regs. 1](https://www.legislation.gov.uk/ssi/2011/367/regulation/1) , [2(2)](https://www.legislation.gov.uk/ssi/2011/367/regulation/2/2)
 
-[^key-653f986b6173be31ac6dcf5a2c07fd0c]: Textual amendment: Words in s. 3 omitted (1.12.2011) by virtue of [The Highlands and Islands Air Services (Scotland) Act 1980 Amendment Regulations 2011 (S.S.I. 2011/367)](https://www.legislation.gov.uk/ssi/2011/367), [regs. 1](https://www.legislation.gov.uk/ssi/2011/367/regulation/1) , [2(3)](https://www.legislation.gov.uk/ssi/2011/367/regulation/2/3)
+[^c-653f986b6173be31ac6dcf5a2c07fd0c]: Textual amendment: Words in s. 3 omitted (1.12.2011) by virtue of [The Highlands and Islands Air Services (Scotland) Act 1980 Amendment Regulations 2011 (S.S.I. 2011/367)](https://www.legislation.gov.uk/ssi/2011/367), [regs. 1](https://www.legislation.gov.uk/ssi/2011/367/regulation/1) , [2(3)](https://www.legislation.gov.uk/ssi/2011/367/regulation/2/3)
 
 [^c915262]: Textual amendment: Definition commencing “the Highlands and Islands shall be construed” substituted (1.4.1991) for definition commencing “the Highlands and Islands means that area” by [Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64)](https://www.legislation.gov.uk/ukpga/1990/35) , [s. 38(1)](https://www.legislation.gov.uk/ukpga/1990/35/section/38/1) , [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/1990/35/schedule/4/paragraph/9)
 

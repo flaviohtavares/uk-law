@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Limitation of administration charges[^key-1366b0ed3a79cb8f43d2d9adff44a6f8]
+## 86. Limitation of administration charges[^c-1366b0ed3a79cb8f43d2d9adff44a6f8]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1366b0ed3a79cb8f43d2d9adff44a6f8]: Commencement: S. 86 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-1366b0ed3a79cb8f43d2d9adff44a6f8]: Commencement: S. 86 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

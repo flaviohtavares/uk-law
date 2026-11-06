@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Part-time employees[^key-460b65123d21cc1b65b49780cd6f39af]
+## 55. Part-time employees[^c-460b65123d21cc1b65b49780cd6f39af]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ his additional contributions continue to be payable at the same percentage of hi
 
 ## Annotations
 
-[^key-460b65123d21cc1b65b49780cd6f39af]: Commencement: Reg. 55 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-460b65123d21cc1b65b49780cd6f39af]: Commencement: Reg. 55 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Financial responsibilities of NDA[^key-461ce2f62c30c3e2e77a0c7a00a44af6]
+## 21. Financial responsibilities of NDA[^c-461ce2f62c30c3e2e77a0c7a00a44af6]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ is to be construed as restricting the extent to which the person with control of
 
 ## Annotations
 
-[^key-461ce2f62c30c3e2e77a0c7a00a44af6]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2004/20/section/21) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-461ce2f62c30c3e2e77a0c7a00a44af6]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2004/20/section/21) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

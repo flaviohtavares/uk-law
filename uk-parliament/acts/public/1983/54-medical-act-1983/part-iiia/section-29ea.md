@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29EA. Disclosure by a licensing authority of information relating to revalidation[^key-025d07348ef64227bf4bd61c82265f80]
+## 29EA. Disclosure by a licensing authority of information relating to revalidation[^c-025d07348ef64227bf4bd61c82265f80]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-025d07348ef64227bf4bd61c82265f80]: Textual amendment: S. 29EA inserted (30.4.2010 for specified purposes, 3.12.2012 for specified purposes immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65)) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/13); [S.I. 2010/1182](https://www.legislation.gov.uk/uksi/2010/1182), [art. 2](https://www.legislation.gov.uk/uksi/2010/1182/article/2); [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(iv)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/iv)
+[^c-025d07348ef64227bf4bd61c82265f80]: Textual amendment: S. 29EA inserted (30.4.2010 for specified purposes, 3.12.2012 for specified purposes immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65)) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/13); [S.I. 2010/1182](https://www.legislation.gov.uk/uksi/2010/1182), [art. 2](https://www.legislation.gov.uk/uksi/2010/1182/article/2); [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(iv)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/iv)

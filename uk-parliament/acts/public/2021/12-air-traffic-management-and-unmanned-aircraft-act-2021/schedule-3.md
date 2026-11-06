@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Modification of licence conditions under section 11 of the Transport Act 2000: appeals[^key-4a0074311cf181e28b48be801138939a]
+## SCHEDULE 3 — Modification of licence conditions under section 11 of the Transport Act 2000: appeals[^c-4a0074311cf181e28b48be801138939a]
 
 *Extent: E+W+S+N.I.*
 
 Section 9
 
-[^key-4a0074311cf181e28b48be801138939a]
+[^c-4a0074311cf181e28b48be801138939a]
 
 After section 19 of the Transport Act 2000 insert—
 
@@ -178,4 +178,4 @@ After section 19 of the Transport Act 2000 insert—
 
 ## Annotations
 
-[^key-4a0074311cf181e28b48be801138939a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2021/12/schedule/3) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/f)
+[^c-4a0074311cf181e28b48be801138939a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2021/12/schedule/3) in force at 29.6.2021 by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/f)

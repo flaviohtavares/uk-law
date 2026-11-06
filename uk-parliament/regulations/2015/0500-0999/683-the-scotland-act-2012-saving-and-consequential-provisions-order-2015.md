@@ -46,29 +46,29 @@ Coming into force in accordance with article 1
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 42(1), (2) and (4) of the Scotland Act 2012[^f00001]:
 
-## 1. Citation and commencement[^key-fafc2f4d2ec3baeaa9ccac760abfdbb9]
+## 1. Citation and commencement[^c-fafc2f4d2ec3baeaa9ccac760abfdbb9]
 
 This Order may be cited as the Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 and comes into force immediately after sections 1 and 3 of the Scotland Act 2012[^f00002] (administration of, and supplementary and transitional provision about, Scottish Parliament elections) come into force.
 
-## 2. Saving provision[^key-8b1d3166f36772bcc76f244b6428ef0a]
+## 2. Saving provision[^c-8b1d3166f36772bcc76f244b6428ef0a]
 
 Articles 3 to 9 of this Order and sections 1 and 3 of the Scotland Act 2012 have no effect for the purposes of any election for which the date of poll is on or before 4th April 2016.
 
-## 3. Consequential provision[^key-fc7ca90abdf2d7ecf68486c655f2526c]
+## 3. Consequential provision[^c-fc7ca90abdf2d7ecf68486c655f2526c]
 
 In Schedule 1 to the Scotland Act 1998 (Agency Arrangements) (Specification) Order 1999[^f00003] (functions of a Minister of the Crown which may be exercised on behalf of that Minister under agency arrangements with the Scottish Ministers), omit paragraphs 4 and 13 to 19.
 
-**4.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3a68de7f43eff33a083655bbe024ceff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 David Mundell
 
@@ -102,14 +102,14 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2012 c.11](https://www.legislation.gov.uk/ukpga/2012/11).
 
-[^key-fafc2f4d2ec3baeaa9ccac760abfdbb9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1) in force at 1.7.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1)
+[^c-fafc2f4d2ec3baeaa9ccac760abfdbb9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1) in force at 1.7.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1)
 
 [^f00002]: Footnote: Sections 1 and 3 are to come into force on 1st July 2015 in accordance with [S.I. 2015/682](https://www.legislation.gov.uk/uksi/2015/682).
 
-[^key-8b1d3166f36772bcc76f244b6428ef0a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/683/article/2) in force at 1.7.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1)
+[^c-8b1d3166f36772bcc76f244b6428ef0a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/683/article/2) in force at 1.7.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1)
 
-[^key-fc7ca90abdf2d7ecf68486c655f2526c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/683/article/3) in force at 1.7.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1)
+[^c-fc7ca90abdf2d7ecf68486c655f2526c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/683/article/3) in force at 1.7.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1)
 
 [^f00003]: Footnote: [S.I. 1999/1512](https://www.legislation.gov.uk/uksi/1999/1512), to which there are amendments not relevant to this Order.
 
-[^key-3a68de7f43eff33a083655bbe024ceff]: Textual amendment: [Arts. 4-9](https://www.legislation.gov.uk/uksi/2015/683/article/4) revoked (16.12.2015) by [The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425)](https://www.legislation.gov.uk/ssi/2015/425), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/425/article/1/1), [sch. 9 para. 6](https://www.legislation.gov.uk/ssi/2015/425/schedule/9/paragraph/6) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/425/article/1/2), [93(2)](https://www.legislation.gov.uk/ssi/2015/425/article/93/2))
+[^c-3a68de7f43eff33a083655bbe024ceff]: Textual amendment: [Arts. 4-9](https://www.legislation.gov.uk/uksi/2015/683/article/4) revoked (16.12.2015) by [The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425)](https://www.legislation.gov.uk/ssi/2015/425), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/425/article/1/1), [sch. 9 para. 6](https://www.legislation.gov.uk/ssi/2015/425/schedule/9/paragraph/6) (with [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/425/article/1/2), [93(2)](https://www.legislation.gov.uk/ssi/2015/425/article/93/2))

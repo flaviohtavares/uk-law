@@ -48,7 +48,7 @@ And whereas the Secretary of State has considered the representations made to he
 
 Now, therefore, the Secretary of State, being the appropriate Minister within the meaning of section 56 of the said Act, in exercise of the powers conferred on her by sections 56(2) and 90(2), (3), (4) and (7) of, and paragraphs 1, 4, 6, 7 and 11 of Schedule 8 to, the said Act, and for the purpose of remedying or preventing adverse effects specified in reports of the Monopolies and Mergers Commission entitled “Domestic Electrical Goods: I—A report on the supply in the UK of televisions, video cassette recorders, hi-fi systems and camcorders” and “Domestic Electrical Goods: II—A report on the supply in the UK of washing machines, tumble dryers, dishwashers and cold food storage equipment”, and all other powers enabling her in that behalf, hereby makes the following Order:—
 
-## 1. Citation, commencement and interpretation[^key-1fcb408a460d468bbe400aa7e8f8ff50]
+## 1. Citation, commencement and interpretation[^c-1fcb408a460d468bbe400aa7e8f8ff50]
 
 (1) This Order may be cited as the Restriction on Agreements and Conduct (Specified Domestic Electrical Goods) Order 1998 and shall come into force on 1st September 1998.
 
@@ -106,21 +106,21 @@ Now, therefore, the Secretary of State, being the appropriate Minister within th
 
   but does not include a machine which is designed to be connected to a gas supply.
 
-## 2. Prohibition of recommended resale prices for specified goods[^key-060ca36f3d72bc6e5fbd2295613597eb]
+## 2. Prohibition of recommended resale prices for specified goods[^c-060ca36f3d72bc6e5fbd2295613597eb]
 
 It shall be unlawful for a supplier, by publication or otherwise, to notify to dealers prices recommended or suggested as appropriate to be charged by those dealers for specified goods.
 
-## 3. Agreements concerning a dealer’s ability to set prices[^key-3067a9bc0125c8f60f0b539feed81b1b]
+## 3. Agreements concerning a dealer’s ability to set prices[^c-3067a9bc0125c8f60f0b539feed81b1b]
 
 It shall be unlawful for a supplier to make an agreement, or carry out an agreement (whenever made), to the extent that it restricts, directly or indirectly, a dealer’s determination of the prices at which he advertises or sells specified goods.
 
-## 4. Prohibition on withholding supply of specified goods from dealers[^key-df8e45404d4a67952879bb64716bb00a]
+## 4. Prohibition on withholding supply of specified goods from dealers[^c-df8e45404d4a67952879bb64716bb00a]
 
 (1) It shall be unlawful for a supplier on grounds other than permitted grounds (as to which see articles 5 and 6) to withhold, or to agree or to threaten to withhold, supplies of any specified goods from any dealer who requests supply of those goods (“the requesting dealer”).
 
 (2) For the purposes of this article, and notwithstanding articles 5 and 6, a ground shall not be regarded as a permitted ground unless that ground is referred to in a written statement of reasons that the supplier gives to the requesting dealer at the time of withholding (or of the threat to withhold) explaining why the supplier has withheld (or threatened to withhold) the specified goods requested from him.
 
-## 5. Permitted grounds[^key-7d988b3fb5dcaaf87819a37f8354d624]
+## 5. Permitted grounds[^c-7d988b3fb5dcaaf87819a37f8354d624]
 
 For the purposes of article 4, permitted grounds are—
 
@@ -139,7 +139,7 @@ For the purposes of article 4, permitted grounds are—
   - (i) has reasonable cause to believe that the price for the supply of the specified goods requested may not be duly paid; or
   - (ii) has not had sufficient opportunity to conduct reasonable checks on the requesting dealer’s ability to pay for that supply.
 
-**6.**[^key-acc07de0eb7ca4c0ff7ce43f54f3aa18] (1) For the purposes of article 4, and provided that all the conditions in paragraph (3) are satisfied, it is also a permitted ground that the requesting dealer does not satisfy one or more of the supplier’s criteria.
+**6.**[^c-acc07de0eb7ca4c0ff7ce43f54f3aa18] (1) For the purposes of article 4, and provided that all the conditions in paragraph (3) are satisfied, it is also a permitted ground that the requesting dealer does not satisfy one or more of the supplier’s criteria.
 
 (2) “The supplier’s criteria” means the criteria used by the supplier to determine to which dealers in the United Kingdom he will supply the specified goods requested.
 
@@ -161,11 +161,11 @@ For the purposes of article 4, permitted grounds are—
 
 (4) Supplier’s criteria to the effect that dealers should supply the specified goods requested either wholly or mainly by way of wholesale or wholly or mainly by way of retail shall not be regarded as criteria relating to the matters set out in paragraph (3)(c).
 
-## 7. Unlawful discrimination[^key-d4f3ea82f992abdbcdc1d688d568dedd]
+## 7. Unlawful discrimination[^c-d4f3ea82f992abdbcdc1d688d568dedd]
 
 It shall be unlawful for a supplier to discriminate between one dealer and another in the prices he charges them for any goods on the ground that one dealer has advertised or sold, or is likely to advertise or sell, any specified goods at lower prices than the other.
 
-## 8. Unlawful preference[^key-07147af2b3de6f897b9298d4c9ac08ce]
+## 8. Unlawful preference[^c-07147af2b3de6f897b9298d4c9ac08ce]
 
 (1) It shall be unlawful for a supplier to give any preference to any dealer on the ground of the prices at which the dealer has advertised or sold, or is likely to advertise or sell, any specified goods.
 
@@ -175,41 +175,41 @@ It shall be unlawful for a supplier to discriminate between one dealer and anoth
 - (b) times or methods of delivery or other matters arising in the execution of the contract between the supplier and that dealer; or
 - (c) other matters relating to the supply of goods by him to that dealer.
 
-## 9. Procuring breaches of articles 4, 7 or 8[^key-3146dc4689ffe89c5742531ec09fc936]
+## 9. Procuring breaches of articles 4, 7 or 8[^c-3146dc4689ffe89c5742531ec09fc936]
 
 It shall be unlawful for a dealer to procure a supplier to contravene the provisions of article 4, 7 or 8.
 
-## 10. Directions by the Secretary of State as to compliance measures[^key-a74c39c4495aba772fbe391873cdf8da]
+## 10. Directions by the Secretary of State as to compliance measures[^c-a74c39c4495aba772fbe391873cdf8da]
 
-(1) The Office of Fair Trading[^key-ecd38d87bd747825f1afb101d5b64cfb] may give directions to any supplier of, or dealer in, specified goods to take such compliance measures within his competence as may be specified or described in those directions for the purpose of securing his compliance with this Order.
+(1) The Office of Fair Trading[^c-ecd38d87bd747825f1afb101d5b64cfb] may give directions to any supplier of, or dealer in, specified goods to take such compliance measures within his competence as may be specified or described in those directions for the purpose of securing his compliance with this Order.
 
 (2) “Compliance measures” means steps—
 
 - (a) to introduce, maintain, or develop arrangements to ensure that any directors, employees, or agents of the supplier or dealer do not act in such a way that he contravenes any provision of article 2, 3, 4, 7, 8 or 9; or
 - (b) (in the case of a supplier) to draw dealers' attention to their freedom to determine the prices at which they advertise or sell specified goods that he supplies to them.
 
-(3) The Office of Fair Trading[^key-ecaf7e96ccaaf2e1dd564f627a4ade6d] may vary or revoke any directions given under paragraph (1).
+(3) The Office of Fair Trading[^c-ecaf7e96ccaaf2e1dd564f627a4ade6d] may vary or revoke any directions given under paragraph (1).
 
-## 11. Registrable agreements[^key-dbe70b5d0f62bace45f6027020c064aa]
+## 11. Registrable agreements[^c-dbe70b5d0f62bace45f6027020c064aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Part 1 of the Competition Act 1998[^key-c2a0656edac4b478ab137c39dca4bb30][^key-9de0e83d01e8b43833557843ecdb8bda]
+## 12. Part 1 of the Competition Act 1998[^c-c2a0656edac4b478ab137c39dca4bb30][^c-9de0e83d01e8b43833557843ecdb8bda]
 
 (1) Nothing in articles 4 to 9 of this Order shall have the effect that it is unlawful to make or carry out a provision of an agreement insofar as the making or carrying out of that provision is exempted (as to which see paragraph (2)).
 
-(2) The making or carrying out of a provision of an agreement is exempted if the agreement is exempt from the Chapter 1 prohibition as a result of—[^key-0a2a70aac77a3a81acd3202aab8d9a3c]
+(2) The making or carrying out of a provision of an agreement is exempted if the agreement is exempt from the Chapter 1 prohibition as a result of—[^c-0a2a70aac77a3a81acd3202aab8d9a3c]
 
 - (a) section 9 of the Competition Act 1998; or
 - (b) a block exemption or a retained exemption.
 
-(3)[^key-25c5e745a8659f08d00edbec85db67b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-25c5e745a8659f08d00edbec85db67b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this article—
 
-- “agreement” means an agreement between undertakings, a decision of an association of undertakings or a concerted practice, and those expressions have the same meaning as they do for the purposes of the Competition Act 1998[^key-e62e0146950e55e2ee203a081ce06cd1]; and
-- [^key-df7d87267d78c0f51e81982bb4d9e9cb]...
-- “[^key-4fd53dc20636383e3e278bccd5a55de9]**block exemption**” has the meaning given by section 6(4) of the Competition Act 1998;
+- “agreement” means an agreement between undertakings, a decision of an association of undertakings or a concerted practice, and those expressions have the same meaning as they do for the purposes of the Competition Act 1998[^c-e62e0146950e55e2ee203a081ce06cd1]; and
+- [^c-df7d87267d78c0f51e81982bb4d9e9cb]...
+- “[^c-4fd53dc20636383e3e278bccd5a55de9]**block exemption**” has the meaning given by section 6(4) of the Competition Act 1998;
 - “**the Chapter 1 prohibition**” has the meaning given by section 2(8) of the Competition Act 1998;
 - “**retained exemption**” has the meaning given by section 10(3) of the Competition Act 1998.
 
@@ -245,44 +245,44 @@ A Regulatory Appraisal has been drawn up by the Department of Trade and Industry
 
 [^f00001]: Footnote: [1973 c. 41](https://www.legislation.gov.uk/ukpga/1973/41).
 
-[^key-1fcb408a460d468bbe400aa7e8f8ff50]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1998/1271/article/1) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-1fcb408a460d468bbe400aa7e8f8ff50]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1998/1271/article/1) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
 [^f00002]: Footnote: [1949 c. 54](https://www.legislation.gov.uk/ukpga/1949/54); section 1(7) was added by the Broadcasting Act [1990 (c. 42)](https://www.legislation.gov.uk/ukpga/1990/42), Schedule 18, paragraph 1(6).
 
-[^key-060ca36f3d72bc6e5fbd2295613597eb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1998/1271/article/2) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-060ca36f3d72bc6e5fbd2295613597eb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1998/1271/article/2) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-3067a9bc0125c8f60f0b539feed81b1b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1998/1271/article/3) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-3067a9bc0125c8f60f0b539feed81b1b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1998/1271/article/3) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-df8e45404d4a67952879bb64716bb00a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1998/1271/article/4) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-df8e45404d4a67952879bb64716bb00a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1998/1271/article/4) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-7d988b3fb5dcaaf87819a37f8354d624]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1998/1271/article/5) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-7d988b3fb5dcaaf87819a37f8354d624]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1998/1271/article/5) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-acc07de0eb7ca4c0ff7ce43f54f3aa18]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1998/1271/article/6) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-acc07de0eb7ca4c0ff7ce43f54f3aa18]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1998/1271/article/6) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-d4f3ea82f992abdbcdc1d688d568dedd]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1998/1271/article/7) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-d4f3ea82f992abdbcdc1d688d568dedd]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1998/1271/article/7) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-07147af2b3de6f897b9298d4c9ac08ce]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1998/1271/article/8) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-07147af2b3de6f897b9298d4c9ac08ce]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1998/1271/article/8) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-3146dc4689ffe89c5742531ec09fc936]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1998/1271/article/9) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-3146dc4689ffe89c5742531ec09fc936]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/1998/1271/article/9) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-a74c39c4495aba772fbe391873cdf8da]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/1998/1271/article/10) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-a74c39c4495aba772fbe391873cdf8da]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/1998/1271/article/10) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-ecd38d87bd747825f1afb101d5b64cfb]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/10/1) substituted (10.3.2006) by [The Enterprise Act 2002 (Enforcement Undertakings and Orders) Order 2006 (S.I. 2006/355)](https://www.legislation.gov.uk/uksi/2006/355), [arts. 1](https://www.legislation.gov.uk/uksi/2006/355/article/1), [4(8)](https://www.legislation.gov.uk/uksi/2006/355/article/4/8)
+[^c-ecd38d87bd747825f1afb101d5b64cfb]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/10/1) substituted (10.3.2006) by [The Enterprise Act 2002 (Enforcement Undertakings and Orders) Order 2006 (S.I. 2006/355)](https://www.legislation.gov.uk/uksi/2006/355), [arts. 1](https://www.legislation.gov.uk/uksi/2006/355/article/1), [4(8)](https://www.legislation.gov.uk/uksi/2006/355/article/4/8)
 
-[^key-ecaf7e96ccaaf2e1dd564f627a4ade6d]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/1998/1271/article/10/3) substituted (10.3.2006) by [The Enterprise Act 2002 (Enforcement Undertakings and Orders) Order 2006 (S.I. 2006/355)](https://www.legislation.gov.uk/uksi/2006/355), [arts. 1](https://www.legislation.gov.uk/uksi/2006/355/article/1), [4(8)](https://www.legislation.gov.uk/uksi/2006/355/article/4/8)
+[^c-ecaf7e96ccaaf2e1dd564f627a4ade6d]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/1998/1271/article/10/3) substituted (10.3.2006) by [The Enterprise Act 2002 (Enforcement Undertakings and Orders) Order 2006 (S.I. 2006/355)](https://www.legislation.gov.uk/uksi/2006/355), [arts. 1](https://www.legislation.gov.uk/uksi/2006/355/article/1), [4(8)](https://www.legislation.gov.uk/uksi/2006/355/article/4/8)
 
-[^key-dbe70b5d0f62bace45f6027020c064aa]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/1998/1271/article/11) revoked (1.3.2001) by [The Competition Act 1998 (Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/2031)](https://www.legislation.gov.uk/uksi/2000/2031), [arts. 1](https://www.legislation.gov.uk/uksi/2000/2031/article/1), [17(2)](https://www.legislation.gov.uk/uksi/2000/2031/article/17/2)
+[^c-dbe70b5d0f62bace45f6027020c064aa]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/1998/1271/article/11) revoked (1.3.2001) by [The Competition Act 1998 (Consequential and Supplemental Provisions) Order 2000 (S.I. 2000/2031)](https://www.legislation.gov.uk/uksi/2000/2031), [arts. 1](https://www.legislation.gov.uk/uksi/2000/2031/article/1), [17(2)](https://www.legislation.gov.uk/uksi/2000/2031/article/17/2)
 
-[^key-c2a0656edac4b478ab137c39dca4bb30]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/1998/1271/article/12) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
+[^c-c2a0656edac4b478ab137c39dca4bb30]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/1998/1271/article/12) in force at 1.9.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/1271/article/1/1)
 
-[^key-9de0e83d01e8b43833557843ecdb8bda]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/1998/1271/article/12) heading substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(5)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9de0e83d01e8b43833557843ecdb8bda]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/1998/1271/article/12) heading substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(5)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0a2a70aac77a3a81acd3202aab8d9a3c]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/2) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a2a70aac77a3a81acd3202aab8d9a3c]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/2) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-25c5e745a8659f08d00edbec85db67b5]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/3) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25c5e745a8659f08d00edbec85db67b5]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/3) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e62e0146950e55e2ee203a081ce06cd1]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/4) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e62e0146950e55e2ee203a081ce06cd1]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/4) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df7d87267d78c0f51e81982bb4d9e9cb]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/4) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(4)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df7d87267d78c0f51e81982bb4d9e9cb]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/4) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(4)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4fd53dc20636383e3e278bccd5a55de9]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/4) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(4)(c)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4fd53dc20636383e3e278bccd5a55de9]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/uksi/1998/1271/article/12/4) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 10(4)(c)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/10/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

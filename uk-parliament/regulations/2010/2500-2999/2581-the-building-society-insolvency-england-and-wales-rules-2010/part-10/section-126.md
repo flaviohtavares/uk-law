@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Removal[^key-2267d16b746f66357b0113f1d422e6e0]
+## 126. Removal[^c-2267d16b746f66357b0113f1d422e6e0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.162 of the 1986 Rules.
 
 ## Annotations
 
-[^key-2267d16b746f66357b0113f1d422e6e0]: Commencement: Rule 126 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-2267d16b746f66357b0113f1d422e6e0]: Commencement: Rule 126 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.40. General use of website to deliver documents[^key-405a7ddb1f4dded715d9870f3a9949ff]
+## 7.40. General use of website to deliver documents[^c-405a7ddb1f4dded715d9870f3a9949ff]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-405a7ddb1f4dded715d9870f3a9949ff]: Commencement: Rule 7.40 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-405a7ddb1f4dded715d9870f3a9949ff]: Commencement: Rule 7.40 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

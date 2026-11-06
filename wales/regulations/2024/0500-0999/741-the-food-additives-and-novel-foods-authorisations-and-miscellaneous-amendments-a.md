@@ -31,7 +31,7 @@ summary: ''
 
 Food, Wales
 
-[^key-ff708343def612acc897f1ec67e42ea9]The Food Additives and Novel Foods (Authorisations and Miscellaneous Amendments) and Food Flavourings (Removal of Authorisations) (Wales) Regulations 2024
+[^c-ff708343def612acc897f1ec67e42ea9]The Food Additives and Novel Foods (Authorisations and Miscellaneous Amendments) and Food Flavourings (Removal of Authorisations) (Wales) Regulations 2024
 
 Made
 
@@ -56,7 +56,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## PART 1 — Introduction
 
-### 1. Title, extent, application and coming into force[^key-18c6ddcd9098ecad0aa3f8bdedb0e715]
+### 1. Title, extent, application and coming into force[^c-18c6ddcd9098ecad0aa3f8bdedb0e715]
 
 (1) The title of these Regulations is the Food Additives and Novel Foods (Authorisations and Miscellaneous Amendments) and Food Flavourings (Removal of Authorisations) (Wales) Regulations 2024.
 
@@ -66,23 +66,23 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (b) apply in relation to Wales;
 - (c) come into force on 28 June 2024.
 
-## PART 2 — Food Additives[^key-ff708343def612acc897f1ec67e42ea9]
+## PART 2 — Food Additives[^c-ff708343def612acc897f1ec67e42ea9]
 
 **No longer in force.**
 
-### 2. Amendment of Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333)[^key-ff708343def612acc897f1ec67e42ea9]
+### 2. Amendment of Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333)[^c-ff708343def612acc897f1ec67e42ea9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of [Commission Regulation (EU) No 231/2012](https://www.legislation.gov.uk/european/regulation/2012/0231)[^key-ff708343def612acc897f1ec67e42ea9]
+### 3. Amendment of [Commission Regulation (EU) No 231/2012](https://www.legislation.gov.uk/european/regulation/2012/0231)[^c-ff708343def612acc897f1ec67e42ea9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Food Flavourings
 
-### 4. Amendment of Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334)[^key-65b43dd730fdf8aba50b87f6ac7c2370]
+### 4. Amendment of Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334)[^c-65b43dd730fdf8aba50b87f6ac7c2370]
 
-(1)[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Part A (domestic list of flavouring substances), in Section 2, in Table 1, omit the entries for the following flavouring substances—
 
@@ -109,7 +109,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (u) FL No. “13.137” chemical name “3-(2-Furyl)-2-phenylprop-2-enal”;
 - (v) FL No. “13.150” chemical name “3-(5-Methyl-2-furyl)prop-2-enal”.
 
-### 5. Transitional provision[^key-a9874a23223bca8bcf7163c3d0bf520f]
+### 5. Transitional provision[^c-a9874a23223bca8bcf7163c3d0bf520f]
 
 (1) This paragraph applies to flavouring substances referred to in regulation 4(2)(a) to (v) and food containing them that were—
 
@@ -127,11 +127,11 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (5) Other expressions used in this regulation and in Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) of the European Parliament and of the Council on flavourings and certain food ingredients with flavouring properties for use in and on foods have the same meaning as in that Regulation.
 
-## PART 4 — Novel Foods[^key-ff708343def612acc897f1ec67e42ea9]
+## PART 4 — Novel Foods[^c-ff708343def612acc897f1ec67e42ea9]
 
 **No longer in force.**
 
-### 6. Amendment of Commission Implementing [Regulation (EU) 2017/2470](https://www.legislation.gov.uk/european/regulation/2017/2470)[^key-ff708343def612acc897f1ec67e42ea9]
+### 6. Amendment of Commission Implementing [Regulation (EU) 2017/2470](https://www.legislation.gov.uk/european/regulation/2017/2470)[^c-ff708343def612acc897f1ec67e42ea9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -141,91 +141,91 @@ Minister for Mental Health and Early Years, under the authority of the Cabinet S
 
 5 June 2024
 
-## SCHEDULE 1[^key-ff708343def612acc897f1ec67e42ea9]
+## SCHEDULE 1[^c-ff708343def612acc897f1ec67e42ea9]
 
 **No longer in force.**
 
 Regulation 2
 
-**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-ff708343def612acc897f1ec67e42ea9]
+## SCHEDULE 2[^c-ff708343def612acc897f1ec67e42ea9]
 
 Regulation 3(4)
 
-**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-ff708343def612acc897f1ec67e42ea9]
+## SCHEDULE 3[^c-ff708343def612acc897f1ec67e42ea9]
 
 Regulation 3(5)
 
-**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4[^key-ff708343def612acc897f1ec67e42ea9]
-
-Regulation 6
-
-**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 5[^key-ff708343def612acc897f1ec67e42ea9]
+## SCHEDULE 4[^c-ff708343def612acc897f1ec67e42ea9]
 
 Regulation 6
 
-**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6[^key-ff708343def612acc897f1ec67e42ea9]
-
-Regulation 6
-
-**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 7[^key-ff708343def612acc897f1ec67e42ea9]
+## SCHEDULE 5[^c-ff708343def612acc897f1ec67e42ea9]
 
 Regulation 6
 
-**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8[^key-ff708343def612acc897f1ec67e42ea9]
+## SCHEDULE 6[^c-ff708343def612acc897f1ec67e42ea9]
 
 Regulation 6
 
-**1.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7[^c-ff708343def612acc897f1ec67e42ea9]
+
+Regulation 6
+
+**1.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 8[^c-ff708343def612acc897f1ec67e42ea9]
+
+Regulation 6
+
+**1.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-ff708343def612acc897f1ec67e42ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -259,15 +259,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-ff708343def612acc897f1ec67e42ea9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2024/741) revoked (except for reg. 5 and regs. 1, 4(2)(a)-(v) so far as they relate to reg. 5) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/2) (h) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-ff708343def612acc897f1ec67e42ea9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2024/741) revoked (except for reg. 5 and regs. 1, 4(2)(a)-(v) so far as they relate to reg. 5) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/2) (h) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-18c6ddcd9098ecad0aa3f8bdedb0e715]: Commencement: Reg. 1 in force at 28.6.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/741/regulation/1/2/c)
+[^c-18c6ddcd9098ecad0aa3f8bdedb0e715]: Commencement: Reg. 1 in force at 28.6.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/741/regulation/1/2/c)
 
-[^key-65b43dd730fdf8aba50b87f6ac7c2370]: Commencement: Reg. 4 in force at 28.6.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/741/regulation/1/2/c)
+[^c-65b43dd730fdf8aba50b87f6ac7c2370]: Commencement: Reg. 4 in force at 28.6.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/741/regulation/1/2/c)
 
 [^f00008]: Footnote: Unique identification number allocated by the European Food Safety Authority under the EU flavouring information system “FLAVIS”.
 
-[^key-a9874a23223bca8bcf7163c3d0bf520f]: Commencement: Reg. 5 in force at 28.6.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/741/regulation/1/2/c)
+[^c-a9874a23223bca8bcf7163c3d0bf520f]: Commencement: Reg. 5 in force at 28.6.2024, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/741/regulation/1/2/c)
 
 [^f00009]: Footnote: EUR 2011/1169; relevant amending instruments are [S.I. 2019/529](https://www.legislation.gov.uk/uksi/2019/529), [778](https://www.legislation.gov.uk/uksi/2019/778), [2020/1627](https://www.legislation.gov.uk/uksi/2020/1627). [S.I. 2019/529](https://www.legislation.gov.uk/uksi/2019/529) was amended by [S.I. 2020/1501](https://www.legislation.gov.uk/uksi/2020/1501).
 

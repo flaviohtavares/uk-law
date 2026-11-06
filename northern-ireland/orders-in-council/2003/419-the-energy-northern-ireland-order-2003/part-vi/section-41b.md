@@ -39,9 +39,9 @@ in respect of that person.
 - (f) Articles 10C(8) and (9) of the Electricity Order (Certification procedure);
 - (g) Articles 10I(11) and (12) of the Electricity Order (Monitoring and review of certification);
 - (h) articles 8C(4) and (5) of the Gas Order (Certification procedure); [^c22553111]. . .
-- (i) Articles 8I(11) and (12) of the Gas Order (Monitoring and review of certification) ;[^c22553131] [^key-21373662288c6a88685980b916d98163]...
+- (i) Articles 8I(11) and (12) of the Gas Order (Monitoring and review of certification) ;[^c22553131] [^c-21373662288c6a88685980b916d98163]...
 - (j)[^c22553151] Article 21A of the Gas Order (individual meters).
-- (k)[^key-f9b1e0753c5b960c16740a9be504b78b] section 7(2) of the Energy Prices Act 2022, except section 7(2)(c) insofar as non-compliance with the terms of the designated scheme involves the amounts payable by or to the Secretary of State under the scheme; and
+- (k)[^c-f9b1e0753c5b960c16740a9be504b78b] section 7(2) of the Energy Prices Act 2022, except section 7(2)(c) insofar as non-compliance with the terms of the designated scheme involves the amounts payable by or to the Secretary of State under the scheme; and
 - (l) section 22 of the Energy Prices Act 2022,
 
 are specified for the purposes of paragraph (1).
@@ -70,8 +70,8 @@ are specified for the purposes of paragraph (1).
 
 [^c22553131]: Textual amendment: Word in [art. 41B(3)(i)](https://www.legislation.gov.uk/nisi/2003/419/article/41B/3/i) substituted (25.7.2014) by [Energy Efficiency Regulations (Northern Ireland) 2014 (S.R. 2014/198)](https://www.legislation.gov.uk/nisr/2014/198), [reg. 7(b)](https://www.legislation.gov.uk/nisr/2014/198/regulation/7/b)
 
-[^key-21373662288c6a88685980b916d98163]: Textual amendment: Word in [art. 41B(3)(i)](https://www.legislation.gov.uk/nisi/2003/419/article/41B/3/i) omitted (25.10.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 11(a)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/11/a) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-21373662288c6a88685980b916d98163]: Textual amendment: Word in [art. 41B(3)(i)](https://www.legislation.gov.uk/nisi/2003/419/article/41B/3/i) omitted (25.10.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 11(a)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/11/a) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
 [^c22553151]: Textual amendment: [Art. 41B(3)(j)](https://www.legislation.gov.uk/nisi/2003/419/article/41B/3/j) inserted (25.7.2014) by [Energy Efficiency Regulations (Northern Ireland) 2014 (S.R. 2014/198)](https://www.legislation.gov.uk/nisr/2014/198), [reg. 7(c)](https://www.legislation.gov.uk/nisr/2014/198/regulation/7/c)
 
-[^key-f9b1e0753c5b960c16740a9be504b78b]: Textual amendment: [Art. 41B(3)(k)](https://www.legislation.gov.uk/nisi/2003/419/article/41B/3/k)[(l)](https://www.legislation.gov.uk/nisi/2003/419/article/41B/3/l) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 11(b)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/11/b) (with [ss. 7](https://www.legislation.gov.uk/ukpga/2022/44/section/7), [29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-f9b1e0753c5b960c16740a9be504b78b]: Textual amendment: [Art. 41B(3)(k)](https://www.legislation.gov.uk/nisi/2003/419/article/41B/3/k)[(l)](https://www.legislation.gov.uk/nisi/2003/419/article/41B/3/l) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 11(b)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/11/b) (with [ss. 7](https://www.legislation.gov.uk/ukpga/2022/44/section/7), [29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))

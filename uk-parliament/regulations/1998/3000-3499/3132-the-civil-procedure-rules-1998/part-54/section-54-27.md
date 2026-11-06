@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54.27. When this Section must be used[^key-e179eeac3b27308049ac6a3b16f7f6b0][^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
+## 54.27. When this Section must be used[^c-e179eeac3b27308049ac6a3b16f7f6b0][^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e179eeac3b27308049ac6a3b16f7f6b0]: Textual amendment: [Pt. 54](https://www.legislation.gov.uk/uksi/1998/3132/part/54) Section 3 inserted (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/21/2)
+[^c-e179eeac3b27308049ac6a3b16f7f6b0]: Textual amendment: [Pt. 54](https://www.legislation.gov.uk/uksi/1998/3132/part/54) Section 3 inserted (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/21/2)
 
-[^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))
+[^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-For the provision identifying which person is liable for any tax charged under this Part on a pension, annuity or other item of pension income, see Chapters 3 to 15A[^key-11e1b64795ce6eeb9a94316eaba2a7b9].
+For the provision identifying which person is liable for any tax charged under this Part on a pension, annuity or other item of pension income, see Chapters 3 to 15A[^c-11e1b64795ce6eeb9a94316eaba2a7b9].
 
 ## Annotations
 
-[^key-11e1b64795ce6eeb9a94316eaba2a7b9]: Textual amendment: Word in s. 568 substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/5) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-11e1b64795ce6eeb9a94316eaba2a7b9]: Textual amendment: Word in s. 568 substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 31 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/31/paragraph/5) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

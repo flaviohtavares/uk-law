@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Transfer of shares etc.[^key-8301b359806ebcb80da2c73f1e08dbc0]
+## 49. Transfer of shares etc.[^c-8301b359806ebcb80da2c73f1e08dbc0]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 (4) An order under this section in relation to a company—
 
 - (a) may only transfer shares to, and appoint as new members, persons who have consented to the transfer or appointment, and
-- (b) may be made irrespective of any provision made by the articles[^key-a632921395dd4eb670ff91e208a31aca] of the company or a resolution of the company in general meeting.
+- (b) may be made irrespective of any provision made by the articles[^c-a632921395dd4eb670ff91e208a31aca] of the company or a resolution of the company in general meeting.
 
 (5) The company and any person from whom shares are transferred by the order may appeal to the Appeal Officer against an order under subsection (1).
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8301b359806ebcb80da2c73f1e08dbc0]: Commencement: S. 49 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-8301b359806ebcb80da2c73f1e08dbc0]: Commencement: S. 49 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-a632921395dd4eb670ff91e208a31aca]: Textual amendment: Word in s. 49(4)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 233](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/233) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-a632921395dd4eb670ff91e208a31aca]: Textual amendment: Word in s. 49(4)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 233](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/233) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. The sustainable development principle[^key-c4a38fb3400992dbb8e081bd11994a2c]
+## 5. The sustainable development principle[^c-c4a38fb3400992dbb8e081bd11994a2c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4a38fb3400992dbb8e081bd11994a2c]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2015/2/section/5) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-c4a38fb3400992dbb8e081bd11994a2c]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2015/2/section/5) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

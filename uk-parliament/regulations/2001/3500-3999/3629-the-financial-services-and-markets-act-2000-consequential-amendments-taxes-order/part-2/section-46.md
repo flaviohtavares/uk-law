@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Interpretation: meaning of “bank”[^key-19d1ce239d54c9c74da3aad22b05f937]
+## 46. Interpretation: meaning of “bank”[^c-19d1ce239d54c9c74da3aad22b05f937]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-19d1ce239d54c9c74da3aad22b05f937]: Commencement: Art. 46 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-19d1ce239d54c9c74da3aad22b05f937]: Commencement: Art. 46 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00050]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 

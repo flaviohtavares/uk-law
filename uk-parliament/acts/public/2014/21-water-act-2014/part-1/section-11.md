@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-528b0538687b5cc8850b773c7bebb257][^key-3177658bbaeb07ffa2660d4860382193][^key-e23e536b4313ef9b8ebc0a9b5b3a15a0] The Water Industry Act 1991 is amended as follows.
+(1)[^c-528b0538687b5cc8850b773c7bebb257][^c-3177658bbaeb07ffa2660d4860382193][^c-e23e536b4313ef9b8ebc0a9b5b3a15a0] The Water Industry Act 1991 is amended as follows.
 
-(2)[^key-88a2ed8c45d7ddba59d31e7f422b0688] In section 104 (agreements to adopt a sewer, drain or sewage disposal works at a future date)—
+(2)[^c-88a2ed8c45d7ddba59d31e7f422b0688] In section 104 (agreements to adopt a sewer, drain or sewage disposal works at a future date)—
 
 - (a) in subsection (2) (application to make an agreement under section 104), for the words from “make an application” to the end there is substituted “ request a sewerage undertaker to make an agreement under this section. ”;
 - (b) subsections (3), (4) and (6A) are repealed;
@@ -33,7 +33,7 @@ summary: ''
   > - (a) an order under section 105ZA which is deemed to be an agreement by virtue of section 105ZA(5), and
   > - (b) any agreement which has been varied by order under section 105ZB(1).
 
-(3)[^key-0bd66a43d5149e3121705bf37d56c7b2][^key-c2bb11e9613013c567b5277a150f9fc4][^key-e23e536b4313ef9b8ebc0a9b5b3a15a0] After section 105 there is inserted—
+(3)[^c-0bd66a43d5149e3121705bf37d56c7b2][^c-c2bb11e9613013c567b5277a150f9fc4][^c-e23e536b4313ef9b8ebc0a9b5b3a15a0] After section 105 there is inserted—
 
 > **105ZA. Adoption at a future date: orders by Authority**
 >
@@ -339,7 +339,7 @@ summary: ''
 > - (a) the Secretary of State, so far as the guidance is as to the content of rules relating to section 104 agreements for the vesting of sewers, drains or sewage disposal works in sewerage undertakers whose areas are wholly or mainly in England;
 > - (b) the Welsh Ministers, so far as the guidance is as to the content of rules relating to section 104 agreements for the vesting of sewers, drains or sewage disposal works in sewerage undertakers whose areas are wholly or mainly in Wales.
 
-(4)[^key-88a2ed8c45d7ddba59d31e7f422b0688] In section 107 (right of sewerage undertaker to undertake the making of communications with public sewers), after subsection (1) there is inserted—
+(4)[^c-88a2ed8c45d7ddba59d31e7f422b0688] In section 107 (right of sewerage undertaker to undertake the making of communications with public sewers), after subsection (1) there is inserted—
 
 > (1A) A sewerage undertaker may not give notice to a person under subsection (1) if—
 >
@@ -350,14 +350,14 @@ summary: ''
 
 ## Annotations
 
-[^key-528b0538687b5cc8850b773c7bebb257]: Commencement: S. 11(1) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/c/i)
+[^c-528b0538687b5cc8850b773c7bebb257]: Commencement: S. 11(1) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/c/i)
 
-[^key-3177658bbaeb07ffa2660d4860382193]: Commencement: S. 11(1) in force at 1.4.2017 for E. for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(e)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/e/i)
+[^c-3177658bbaeb07ffa2660d4860382193]: Commencement: S. 11(1) in force at 1.4.2017 for E. for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(e)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/e/i)
 
-[^key-e23e536b4313ef9b8ebc0a9b5b3a15a0]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/3) in force at 1.10.2017 for E. in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2017/462/article/4/b)
+[^c-e23e536b4313ef9b8ebc0a9b5b3a15a0]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/3) in force at 1.10.2017 for E. in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2017/462/article/4/b)
 
-[^key-88a2ed8c45d7ddba59d31e7f422b0688]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/4) in force at 1.10.2017 for E. by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2017/462/article/4/b)
+[^c-88a2ed8c45d7ddba59d31e7f422b0688]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/11/4) in force at 1.10.2017 for E. by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 4(b)](https://www.legislation.gov.uk/uksi/2017/462/article/4/b)
 
-[^key-0bd66a43d5149e3121705bf37d56c7b2]: Commencement: S. 11(3) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/c/ii)
+[^c-0bd66a43d5149e3121705bf37d56c7b2]: Commencement: S. 11(3) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/c/ii)
 
-[^key-c2bb11e9613013c567b5277a150f9fc4]: Commencement: S. 11(3) in force at 1.4.2017 for E. for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/e/ii)
+[^c-c2bb11e9613013c567b5277a150f9fc4]: Commencement: S. 11(3) in force at 1.4.2017 for E. for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(e)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/e/ii)

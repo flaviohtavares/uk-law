@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Violent offences prevention order made on application of Chief Constable[^key-733a1812055980733bcf5a9cf46f51e1]
+## 57. Violent offences prevention order made on application of Chief Constable[^c-733a1812055980733bcf5a9cf46f51e1]
 
 *Extent: N.I.*
 
@@ -39,10 +39,10 @@ summary: ''
 - (a) afford D an opportunity of making representations; and
 - (b) in deciding whether it is necessary to make a violent offences prevention order for the purpose of protecting the public from the risk of serious violent harm caused by D, have regard to whether D would, at any time when such an order would be in force, be subject under any other statutory provision to any measures that would operate to protect the public from the risk of such harm.
 
-(6)[^key-5fb3882eb32e2a206e35e1b3ebde8461] Article 78(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 does not apply to a complaint under this section.
+(6)[^c-5fb3882eb32e2a206e35e1b3ebde8461] Article 78(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 does not apply to a complaint under this section.
 
 ## Annotations
 
-[^key-733a1812055980733bcf5a9cf46f51e1]: Commencement: [S. 57](https://www.legislation.gov.uk/nia/2015/9/section/57) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/417/article/2/c)
+[^c-733a1812055980733bcf5a9cf46f51e1]: Commencement: [S. 57](https://www.legislation.gov.uk/nia/2015/9/section/57) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/417/article/2/c)
 
-[^key-5fb3882eb32e2a206e35e1b3ebde8461]: Textual amendment: [S. 57(6)](https://www.legislation.gov.uk/nia/2015/9/section/57/6) inserted (28.4.2022) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 26(1)](https://www.legislation.gov.uk/nia/2022/19/section/26/1), [30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)
+[^c-5fb3882eb32e2a206e35e1b3ebde8461]: Textual amendment: [S. 57(6)](https://www.legislation.gov.uk/nia/2015/9/section/57/6) inserted (28.4.2022) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 26(1)](https://www.legislation.gov.uk/nia/2022/19/section/26/1), [30(1)(a)](https://www.legislation.gov.uk/nia/2022/19/section/30/1/a)

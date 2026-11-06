@@ -68,8 +68,8 @@ to the effect that the proposed development is Schedule 2 development likely to 
   - (ii) in paragraph (1)(c)—
     - (aa) for “application” substitute “ order proposal ”; and
     - (bb) for “applicant” substitute “ qualifying body ”;
-  - (iii) in paragraph [^key-c6bf0b30ed423892f1537a8aac8fa446]...(1) for “or lodging of the proposal” substitute “ of the order proposal ”; and
-  - (iv) in paragraph [^key-7a20f76fb1230a6ef33ce17c515f93ab]...(2) for “developer” substitute “ qualifying body ”;
+  - (iii) in paragraph [^c-c6bf0b30ed423892f1537a8aac8fa446]...(1) for “or lodging of the proposal” substitute “ of the order proposal ”; and
+  - (iv) in paragraph [^c-7a20f76fb1230a6ef33ce17c515f93ab]...(2) for “developer” substitute “ qualifying body ”;
 - (f) omit regulations 9 and 10;
 - (g) in regulation 11—
   - (i) for paragraph (1) substitute—
@@ -97,7 +97,7 @@ to the effect that the proposed development is Schedule 2 development likely to 
     > (7) For the purpose of paragraph (6) the condition is that the Secretary of State has made a screening direction to the effect that the development is not EIA development.
 
     ;
-  - (v) in paragraph (8) for “determine the relevant application only by refusing planning permission or subsequent consent if the applicant” substitute “ decline to consider the order proposal of the qualifying body if the qualifying body[^key-bf5b5e2ca9e1f451ebfe9db51327162e]”; and
+  - (v) in paragraph (8) for “determine the relevant application only by refusing planning permission or subsequent consent if the applicant” substitute “ decline to consider the order proposal of the qualifying body if the qualifying body[^c-bf5b5e2ca9e1f451ebfe9db51327162e]”; and
   - (vi) in paragraph (9)—
     - (aa) for each reference to “person” substitute “ qualifying body ”;
     - (bb) in sub-paragraphs (c) and (d) for each reference to “application” substitute “ order proposal ”;
@@ -187,7 +187,7 @@ to the effect that the proposed development is Schedule 2 development likely to 
 - (q) in regulation 25—
   - (i) for paragraph (1) substitute—
 
-    > (1) Where a relevant planning authority or independent examiner dealing with an order proposal in relation to which a qualifying body has submitted an environmental statement is of the opinion that, in order to satisfy the requirements of regulation 18(3) and (4)[^key-cbba29e380e6fd5e845cd757714ac3aa], it is necessary for the statement to be supplemented with additional information which is directly relevant to reaching a reasoned conclusion on the likely significant effects of the development proposed in order to be an environmental statement, the authority or the examiner, as the case may be, must notify the qualifying body in writing accordingly, and the qualifying body must provide that additional information; and such information provided by the qualifying body is referred to in these Regulations as “**further information**”.
+    > (1) Where a relevant planning authority or independent examiner dealing with an order proposal in relation to which a qualifying body has submitted an environmental statement is of the opinion that, in order to satisfy the requirements of regulation 18(3) and (4)[^c-cbba29e380e6fd5e845cd757714ac3aa], it is necessary for the statement to be supplemented with additional information which is directly relevant to reaching a reasoned conclusion on the likely significant effects of the development proposed in order to be an environmental statement, the authority or the examiner, as the case may be, must notify the qualifying body in writing accordingly, and the qualifying body must provide that additional information; and such information provided by the qualifying body is referred to in these Regulations as “**further information**”.
 
     ;
   - (ii) for paragraph (3)(a) substitute—
@@ -201,7 +201,7 @@ to the effect that the proposed development is Schedule 2 development likely to 
 
     ;
   - (iv) omit paragraph (3)(c);
-  - (v) in paragraph (3)(f) for “application for[^key-5b6509810c4cb5f3c9c100ef7c3487d4] planning permission or subsequent application” substitute “ order proposal ”;
+  - (v) in paragraph (3)(f) for “application for[^c-5b6509810c4cb5f3c9c100ef7c3487d4] planning permission or subsequent application” substitute “ order proposal ”;
   - (vi) in paragraph (3)(l) for “, the Secretary of State or the inspector (as the case may be)” substitute “ or independent examiner ”;
   - (vii) in paragraph (6) for “applicant or appellant” substitute “ qualifying body ”;
   - (viii) for paragraph (7), substitute—
@@ -224,8 +224,8 @@ to the effect that the proposed development is Schedule 2 development likely to 
     - (bb) omit “the Secretary of State or an inspector, as the case may be,” and
     - (cc) in sub-paragraphs (c) and (d) for “planning permission or subsequent consent is to be granted” substitute “ a referendum is to be held ”; and
   - (ii) in paragraph (2)—
-    - (aa) for “grant planning permission or subsequent consent for EIA development[^key-65106dcab8b2d09271b7cd8c955f9864]” substitute “ make an EIA order proposal subject to a referendum ”; and
-    - (bb) omit “[^key-dc99789f5cdce7516183a9adbbb17bd8]...the Secretary of State or inspector, as the case may be,” in both places;
+    - (aa) for “grant planning permission or subsequent consent for EIA development[^c-65106dcab8b2d09271b7cd8c955f9864]” substitute “ make an EIA order proposal subject to a referendum ”; and
+    - (bb) omit “[^c-dc99789f5cdce7516183a9adbbb17bd8]...the Secretary of State or inspector, as the case may be,” in both places;
 - (s) in regulation 28—
   - (i) for the opening words in paragraph (1) substitute—
 
@@ -257,18 +257,18 @@ to the effect that the proposed development is Schedule 2 development likely to 
 
 [^c23016701]: Marginal citation: [S.I. 2012/637](https://www.legislation.gov.uk/uksi/2012/637) which was amended by [S.I. 2015/20](https://www.legislation.gov.uk/uksi/2015/20) and [2016/873](https://www.legislation.gov.uk/uksi/2016/873).
 
-[^key-c6bf0b30ed423892f1537a8aac8fa446]: Textual amendment: Word in reg. 33(5)(e)(iii) omitted (1.10.2018) by virtue of [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/a)
+[^c-c6bf0b30ed423892f1537a8aac8fa446]: Textual amendment: Word in reg. 33(5)(e)(iii) omitted (1.10.2018) by virtue of [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/a)
 
-[^key-7a20f76fb1230a6ef33ce17c515f93ab]: Textual amendment: Word in reg. 33(5)(e)(iv) omitted (1.10.2018) by virtue of [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/b)
+[^c-7a20f76fb1230a6ef33ce17c515f93ab]: Textual amendment: Word in reg. 33(5)(e)(iv) omitted (1.10.2018) by virtue of [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/b)
 
-[^key-bf5b5e2ca9e1f451ebfe9db51327162e]: Textual amendment: Words in reg. 33(5)(g)(v) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/c)
+[^c-bf5b5e2ca9e1f451ebfe9db51327162e]: Textual amendment: Words in reg. 33(5)(g)(v) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/c)
 
 [^c23016711]: Marginal citation: [S.I. 2012/637](https://www.legislation.gov.uk/uksi/2012/637) which was amended by [S.I. 2015/20](https://www.legislation.gov.uk/uksi/2015/20) and [2016/873](https://www.legislation.gov.uk/uksi/2016/873).
 
-[^key-cbba29e380e6fd5e845cd757714ac3aa]: Textual amendment: Words in reg. 33(5)(q)(i) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/d)
+[^c-cbba29e380e6fd5e845cd757714ac3aa]: Textual amendment: Words in reg. 33(5)(q)(i) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/d)
 
-[^key-5b6509810c4cb5f3c9c100ef7c3487d4]: Textual amendment: Words in reg. 33(5)(q)(v) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/e)
+[^c-5b6509810c4cb5f3c9c100ef7c3487d4]: Textual amendment: Words in reg. 33(5)(q)(v) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/e)
 
-[^key-65106dcab8b2d09271b7cd8c955f9864]: Textual amendment: Word in reg. 33(5)(r)(ii)(aa) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(f)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/f)
+[^c-65106dcab8b2d09271b7cd8c955f9864]: Textual amendment: Word in reg. 33(5)(r)(ii)(aa) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(f)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/f)
 
-[^key-dc99789f5cdce7516183a9adbbb17bd8]: Textual amendment: Word in reg. 33(5)(r)(ii)(bb) omitted (1.10.2018) by virtue of [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(g)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/g)
+[^c-dc99789f5cdce7516183a9adbbb17bd8]: Textual amendment: Word in reg. 33(5)(r)(ii)(bb) omitted (1.10.2018) by virtue of [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(5)(g)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/5/g)

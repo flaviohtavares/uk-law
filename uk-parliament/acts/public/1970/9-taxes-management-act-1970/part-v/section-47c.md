@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47C. Meaning of tribunal[^key-62652607de1c1edef330fa9d8ac3ee24][^key-67ae2fdcc3342f6658446d4bb14891b0]
+## 47C. Meaning of tribunal[^c-62652607de1c1edef330fa9d8ac3ee24][^c-67ae2fdcc3342f6658446d4bb14891b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In this Act “tribunal” means the First-tier Tribunal or, where determined by
 
 ## Annotations
 
-[^key-62652607de1c1edef330fa9d8ac3ee24]: Modification: Ss. 47C-57 applied (temp. until 30.4.2024) (with modifications in respect of s. 55) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 10 para. 21(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/21/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/21/4) (with [Sch. 10 para. 43](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/43) (as amended by [S.I. 2022/1321](https://www.legislation.gov.uk/uksi/2022/1321), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1321/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1321/regulation/2/2)))
+[^c-62652607de1c1edef330fa9d8ac3ee24]: Modification: Ss. 47C-57 applied (temp. until 30.4.2024) (with modifications in respect of s. 55) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 10 para. 21(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/21/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/21/4) (with [Sch. 10 para. 43](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/43) (as amended by [S.I. 2022/1321](https://www.legislation.gov.uk/uksi/2022/1321), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1321/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1321/regulation/2/2)))
 
-[^key-67ae2fdcc3342f6658446d4bb14891b0]: Textual amendment: S. 47C inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/27)
+[^c-67ae2fdcc3342f6658446d4bb14891b0]: Textual amendment: S. 47C inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/27)

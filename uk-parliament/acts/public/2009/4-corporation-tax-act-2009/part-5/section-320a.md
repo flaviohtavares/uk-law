@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 320A. Amounts recognised in other comprehensive income and not transferred to profit or loss[^key-1d78d0432f48891968a7e95a150c80b5]
+## 320A. Amounts recognised in other comprehensive income and not transferred to profit or loss[^c-1d78d0432f48891968a7e95a150c80b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d78d0432f48891968a7e95a150c80b5]: Textual amendment: S. 320A inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/14)
+[^c-1d78d0432f48891968a7e95a150c80b5]: Textual amendment: S. 320A inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/14)

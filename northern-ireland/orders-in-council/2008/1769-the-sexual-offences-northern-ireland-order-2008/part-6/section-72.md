@@ -26,10 +26,10 @@ summary: ''
 - (b) the person is using a lavatory, or
 - (c) the person is doing a sexual act that is not of a kind ordinarily done in public.
 
-(1A)[^key-15973194dc9acb14b1a7f3581e58ff12] For the purposes of Articles 71, 71A and 71B operating equipment includes (in the case of equipment that is capable of activation) enabling or securing its activation by another person without that person’s knowledge.
+(1A)[^c-15973194dc9acb14b1a7f3581e58ff12] For the purposes of Articles 71, 71A and 71B operating equipment includes (in the case of equipment that is capable of activation) enabling or securing its activation by another person without that person’s knowledge.
 
 (2) In Article 71, “**structure**” includes a tent, vehicle or vessel or other temporary or movable structure.
 
 ## Annotations
 
-[^key-15973194dc9acb14b1a7f3581e58ff12]: Textual amendment: [Art. 72(1A)](https://www.legislation.gov.uk/nisi/2008/1769/article/72/1A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 1(3)](https://www.legislation.gov.uk/nia/2022/19/section/1/3), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-15973194dc9acb14b1a7f3581e58ff12]: Textual amendment: [Art. 72(1A)](https://www.legislation.gov.uk/nisi/2008/1769/article/72/1A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 1(3)](https://www.legislation.gov.uk/nia/2022/19/section/1/3), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)

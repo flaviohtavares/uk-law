@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Civilians subject to service discipline[^key-2e92a07d2c804e4e91d1958124bc8842]
+## 22. Civilians subject to service discipline[^c-2e92a07d2c804e4e91d1958124bc8842]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e92a07d2c804e4e91d1958124bc8842]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/18/section/22) in force at 14.12.2012 by [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/a)
+[^c-2e92a07d2c804e4e91d1958124bc8842]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/18/section/22) in force at 14.12.2012 by [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Application of local railway enactments[^key-7a0da53770e5263a9e8a7131cd2c57e2]
+## 5. Application of local railway enactments[^c-7a0da53770e5263a9e8a7131cd2c57e2]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ The following enactments cease to have effect on the transfer under the powers c
 
 ## Annotations
 
-[^key-7a0da53770e5263a9e8a7131cd2c57e2]: Commencement: Art. 5 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-7a0da53770e5263a9e8a7131cd2c57e2]: Commencement: Art. 5 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
 
 [^f00018]: Footnote: 1829 (10 Geo. IV.) c. xxxv.
 

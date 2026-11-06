@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Child’s attendance at children’s hearings and hearings before sheriff[^key-a3b048fd718de84ed6cefd5941aa0377]
+## 43. Child’s attendance at children’s hearings and hearings before sheriff[^c-a3b048fd718de84ed6cefd5941aa0377]
 
 *Extent: S*
 
@@ -163,4 +163,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3b048fd718de84ed6cefd5941aa0377]: Commencement: S. 43 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-a3b048fd718de84ed6cefd5941aa0377]: Commencement: S. 43 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

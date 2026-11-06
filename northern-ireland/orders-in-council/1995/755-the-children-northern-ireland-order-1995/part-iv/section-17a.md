@@ -36,7 +36,7 @@ the authority—
 - (a) by virtue of a contract of employment or other contract with any person; or
 - (b) as a volunteer for a voluntary organisation.
 
-(3)[^key-a9f4c62ea01ccedcc85e4f8ea47709b4] An assessment under this Article is to be carried out in such manner, and is to take such form, as the authority considers appropriate; but this is subject to any directions given to the authority under paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991.
+(3)[^c-a9f4c62ea01ccedcc85e4f8ea47709b4] An assessment under this Article is to be carried out in such manner, and is to take such form, as the authority considers appropriate; but this is subject to any directions given to the authority under paragraph 6 of Schedule 3 to the Health and Personal Social Services (Northern Ireland) Order 1991.
 
 ## Annotations
 
@@ -44,4 +44,4 @@ the authority—
 
 [^c21416581]: Textual amendment: Words in [art. 17A(1)(c)](https://www.legislation.gov.uk/nisi/1995/755/article/17A/1/c) substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-a9f4c62ea01ccedcc85e4f8ea47709b4]: Textual amendment: [Art. 17A(3)](https://www.legislation.gov.uk/nisi/1995/755/article/17A/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 157](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/157); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-a9f4c62ea01ccedcc85e4f8ea47709b4]: Textual amendment: [Art. 17A(3)](https://www.legislation.gov.uk/nisi/1995/755/article/17A/3) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 157](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/157); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

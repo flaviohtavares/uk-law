@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4adfa5e6b8641297c6e8a4b0c5ab9241] At the beginning of Part 6 of the Alcoholic Liquor Duties Act 1979 (c. 4) (general control provisions) under the heading “*Sale of dutiable alcoholic liquors*” insert—
+(1)[^c-4adfa5e6b8641297c6e8a4b0c5ab9241] At the beginning of Part 6 of the Alcoholic Liquor Duties Act 1979 (c. 4) (general control provisions) under the heading “*Sale of dutiable alcoholic liquors*” insert—
 
 > **64A. Retail containers of certain alcoholic liquors to be stamped**
 >
@@ -30,13 +30,13 @@ summary: ''
 
 (2) Before Schedule 3 to that Act insert the Schedule 2A set out in Schedule 1 to this Act.
 
-(3)[^key-4adfa5e6b8641297c6e8a4b0c5ab9241] In section 12(2) of the Finance Act 1994 (c. 9) (defaults engaging Commissioners' power to assess excise duty to the best of their judgement) after paragraph (c) insert—
+(3)[^c-4adfa5e6b8641297c6e8a4b0c5ab9241] In section 12(2) of the Finance Act 1994 (c. 9) (defaults engaging Commissioners' power to assess excise duty to the best of their judgement) after paragraph (c) insert—
 
 > - (ca) any failure by any person to comply with a requirement to which he is made subject by or under Schedule 2A to the Alcoholic Liquor Duties Act 1979 (duty stamps);
 
 .
 
-(4)[^key-4adfa5e6b8641297c6e8a4b0c5ab9241] In section 14(1) of that Act (reviewable decisions) after paragraph (bc) insert—
+(4)[^c-4adfa5e6b8641297c6e8a4b0c5ab9241] In section 14(1) of that Act (reviewable decisions) after paragraph (bc) insert—
 
 > - (bd) any decision by the Commissioners as to whether or not any person is entitled to any repayment or credit by virtue of regulations under paragraph 4(2)(h) of Schedule 2A to the Alcoholic Liquor Duties Act 1979 (duty stamps), or the amount of the repayment or credit to which any person is so entitled;
 > - (be) any decision by the Commissioners made by virtue of regulations under paragraph 4(2)(i) of that Schedule that some or all of a payment made, or security provided, is forfeit, or the amount which is so forfeit;
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4adfa5e6b8641297c6e8a4b0c5ab9241]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/4/1)[(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/4/4) has effect as specified by [The Finance Act 2004 (Duty Stamps) (Appointed Day) Order 2006 (S.I. 2006/201)](https://www.legislation.gov.uk/uksi/2006/201), [art. 2](https://www.legislation.gov.uk/uksi/2006/201/article/2)
+[^c-4adfa5e6b8641297c6e8a4b0c5ab9241]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/4/1)[(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/4/4) has effect as specified by [The Finance Act 2004 (Duty Stamps) (Appointed Day) Order 2006 (S.I. 2006/201)](https://www.legislation.gov.uk/uksi/2006/201), [art. 2](https://www.legislation.gov.uk/uksi/2006/201/article/2)

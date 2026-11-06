@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56G. Intervention policy: sixth form colleges[^key-baf540e4006a83d6f55ca36ec3609e12]
+## 56G. Intervention policy: sixth form colleges[^c-baf540e4006a83d6f55ca36ec3609e12]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baf540e4006a83d6f55ca36ec3609e12]: Textual amendment: S. 56G repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-baf540e4006a83d6f55ca36ec3609e12]: Textual amendment: S. 56G repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 32](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/32); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -26,7 +26,7 @@ summary: ''
 - (b) the payment is made in the course of relevant other business, and
 - (c) the payment exceeds the total amount of any sums paid by the member to the society by way of contributions or deposits after deducting from that total any relevant previous payment and any relevant earlier repayment.
 
-(2) The excess is treated for the purposes of corporation tax and income tax as a [^key-5b7adc8c5198100abf6c8f39c27464ff]... distribution.
+(2) The excess is treated for the purposes of corporation tax and income tax as a [^c-5b7adc8c5198100abf6c8f39c27464ff]... distribution.
 
 (3) In this section—
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b7adc8c5198100abf6c8f39c27464ff]: Textual amendment: Word in [s. 169(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/169/2) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 70](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/70)
+[^c-5b7adc8c5198100abf6c8f39c27464ff]: Textual amendment: Word in [s. 169(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/169/2) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 70](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/70)

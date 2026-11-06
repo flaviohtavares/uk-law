@@ -38,7 +38,7 @@ Section 7.
 
 (2) The office of director is vacated if the director—
 
-- (a) becomes there is substituted “is the subject of a bankruptcy restrictions order[^key-65544998be38edf101dcecd7ef6b513d] , an interim bankruptcy restrictions order, a debt relief restrictions order or an interim debt relief restrictions order (under Schedule 4ZB of the Insolvency Act 1986)[^key-b3c8ff2c3d33cdcfce9fec8cddc6e370], or in Scotland has his estate sequestrated [^key-fc2c2b6df7acb8e6c5151e88d1de3590]...; or
+- (a) becomes there is substituted “is the subject of a bankruptcy restrictions order[^c-65544998be38edf101dcecd7ef6b513d] , an interim bankruptcy restrictions order, a debt relief restrictions order or an interim debt relief restrictions order (under Schedule 4ZB of the Insolvency Act 1986)[^c-b3c8ff2c3d33cdcfce9fec8cddc6e370], or in Scotland has his estate sequestrated [^c-fc2c2b6df7acb8e6c5151e88d1de3590]...; or
 - (b) becomes of unsound mind; or
 - (c) is absent from meetings of the directors for a period of more than six months without the permission of the directors.
 
@@ -95,8 +95,8 @@ Section 7.
 
 ## Annotations
 
-[^key-65544998be38edf101dcecd7ef6b513d]: Textual amendment: Words in Sch. 2 para. 3(2)(a) substituted (29.6.2006) by [Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722)](https://www.legislation.gov.uk/uksi/2006/1722), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1722/article/1/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2006/1722/schedule/2/paragraph/3/a)
+[^c-65544998be38edf101dcecd7ef6b513d]: Textual amendment: Words in Sch. 2 para. 3(2)(a) substituted (29.6.2006) by [Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722)](https://www.legislation.gov.uk/uksi/2006/1722), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1722/article/1/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2006/1722/schedule/2/paragraph/3/a)
 
-[^key-b3c8ff2c3d33cdcfce9fec8cddc6e370]: Textual amendment: Words in [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/2/paragraph/3/2/a) substituted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/15) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2404/article/6))
+[^c-b3c8ff2c3d33cdcfce9fec8cddc6e370]: Textual amendment: Words in [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/2/paragraph/3/2/a) substituted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/15) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2404/article/6))
 
-[^key-fc2c2b6df7acb8e6c5151e88d1de3590]: Textual amendment: Words in Sch. 2 para. 3(2)(a) omitted (29.6.2006) by virtue of [Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722)](https://www.legislation.gov.uk/uksi/2006/1722), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1722/article/1/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2006/1722/schedule/2/paragraph/3/b)
+[^c-fc2c2b6df7acb8e6c5151e88d1de3590]: Textual amendment: Words in Sch. 2 para. 3(2)(a) omitted (29.6.2006) by virtue of [Enterprise Act 2002 (Disqualification from Office: General) Order 2006 (S.I. 2006/1722)](https://www.legislation.gov.uk/uksi/2006/1722), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1722/article/1/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2006/1722/schedule/2/paragraph/3/b)

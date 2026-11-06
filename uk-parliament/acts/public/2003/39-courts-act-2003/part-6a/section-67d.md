@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67D. Directions and independence: authorised persons[^key-f919ddeeb08ac78ee4ca1a128d92b030]
+## 67D. Directions and independence: authorised persons[^c-f919ddeeb08ac78ee4ca1a128d92b030]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ when exercising the functions.
 
 ## Annotations
 
-[^key-f919ddeeb08ac78ee4ca1a128d92b030]: Textual amendment: Pt. 6A inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-f919ddeeb08ac78ee4ca1a128d92b030]: Textual amendment: Pt. 6A inserted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

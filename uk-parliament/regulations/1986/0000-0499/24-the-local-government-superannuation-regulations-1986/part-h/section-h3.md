@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## H3. Discretionary powers[^key-615bf91d477a0bc9119f550896cfc67a]
+## H3. Discretionary powers[^c-615bf91d477a0bc9119f550896cfc67a]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ the new employing body shall exercise the power in a way which is not less benef
 
 ## Annotations
 
-[^key-615bf91d477a0bc9119f550896cfc67a]: Commencement: [Reg. H3](https://www.legislation.gov.uk/uksi/1986/24/regulation/H3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-615bf91d477a0bc9119f550896cfc67a]: Commencement: [Reg. H3](https://www.legislation.gov.uk/uksi/1986/24/regulation/H3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

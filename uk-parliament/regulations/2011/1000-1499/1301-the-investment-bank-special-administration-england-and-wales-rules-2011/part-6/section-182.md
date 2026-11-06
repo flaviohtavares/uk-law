@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 182. Proof altered after payment of dividend[^key-40a95005f7d7caf59bb4d4828399650e]
+## 182. Proof altered after payment of dividend[^c-40a95005f7d7caf59bb4d4828399650e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40a95005f7d7caf59bb4d4828399650e]: Commencement: [Rule 182](https://www.legislation.gov.uk/uksi/2011/1301/rule/182) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-40a95005f7d7caf59bb4d4828399650e]: Commencement: [Rule 182](https://www.legislation.gov.uk/uksi/2011/1301/rule/182) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

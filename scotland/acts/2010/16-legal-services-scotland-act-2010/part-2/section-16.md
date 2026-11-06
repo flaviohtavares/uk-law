@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Other licensing rules[^key-d11db1ab531accd47e9c708a011ad88e]
+## 16. Other licensing rules[^c-d11db1ab531accd47e9c708a011ad88e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d11db1ab531accd47e9c708a011ad88e]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/16/section/16) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-d11db1ab531accd47e9c708a011ad88e]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/16/section/16) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

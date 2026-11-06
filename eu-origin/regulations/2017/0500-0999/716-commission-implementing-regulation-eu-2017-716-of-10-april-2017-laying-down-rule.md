@@ -117,7 +117,7 @@ Purebred breeding animals of the bovine species
 </tbody>
 </table>
 
-[^key-d2b6fc51320c338b7cf351aee1060c7b][^f00002][^f00003][^f00004][^f00005][^f00005][^f00005][^f00003]
+[^c-d2b6fc51320c338b7cf351aee1060c7b][^f00002][^f00003][^f00004][^f00005][^f00005][^f00005][^f00003]
 
 (b)
 
@@ -238,7 +238,7 @@ II.
 
 [^M_F_ec120d01-9b52-4725-80b9-48dfb413c580]: Textual amendment: Words in Signature omitted (31.12.2020) by [The Animal Breeding (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/117)](https://www.legislation.gov.uk/uksi/2019/117), [regs. 1](https://www.legislation.gov.uk/uksi/2019/117/regulation/1), [22](https://www.legislation.gov.uk/uksi/2019/117/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d2b6fc51320c338b7cf351aee1060c7b]: Textual amendment: Words in Annex Table inserted (31.12.2020) by [The Animal Breeding (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/117)](https://www.legislation.gov.uk/uksi/2019/117), [regs. 1](https://www.legislation.gov.uk/uksi/2019/117/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/117/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2b6fc51320c338b7cf351aee1060c7b]: Textual amendment: Words in Annex Table inserted (31.12.2020) by [The Animal Breeding (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/117)](https://www.legislation.gov.uk/uksi/2019/117), [regs. 1](https://www.legislation.gov.uk/uksi/2019/117/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/117/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00002]: Footnote: Each single line of the table should be filled in for each breeding programme carried out by a breed society.
 

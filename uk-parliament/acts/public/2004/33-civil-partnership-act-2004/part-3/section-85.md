@@ -24,7 +24,7 @@ summary: ''
 
 - (a) each other,
 - (b) two witnesses both of whom have attained the age of 16, and
-- (c)[^key-fb79bb3a50428930823980c391f0cc51] the approved celebrant or, as the case may be, the authorised registrar.
+- (c)[^c-fb79bb3a50428930823980c391f0cc51] the approved celebrant or, as the case may be, the authorised registrar.
 
 (2) But the two people must be eligible to be so registered.
 
@@ -33,10 +33,10 @@ summary: ''
 (4) After the civil partnership schedule has been signed under subsection (1), it must also be signed, in the presence of the civil partners and each other by—
 
 - (a) each of the two witnesses, and
-- (b) the approved celebrant or, as the case may be,[^key-27b35cc023a0d49e3b6e9b03bd57a7d4] the authorised registrar.
+- (b) the approved celebrant or, as the case may be,[^c-27b35cc023a0d49e3b6e9b03bd57a7d4] the authorised registrar.
 
 ## Annotations
 
-[^key-fb79bb3a50428930823980c391f0cc51]: Textual amendment: S. 85(1)(c) substituted for s. 85(1)(c) and words (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/24/2/a), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-fb79bb3a50428930823980c391f0cc51]: Textual amendment: S. 85(1)(c) substituted for s. 85(1)(c) and words (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/24/2/a), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-27b35cc023a0d49e3b6e9b03bd57a7d4]: Textual amendment: Words in s. 85(4)(b) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/24/2/b), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-27b35cc023a0d49e3b6e9b03bd57a7d4]: Textual amendment: Words in s. 85(4)(b) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/24/2/b), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)

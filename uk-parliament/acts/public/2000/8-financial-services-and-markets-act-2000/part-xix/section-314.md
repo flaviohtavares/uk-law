@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 314. Regulators' general duty.[^key-08abada8d2b7b9aac46cca8fca6a5bc5]
+## 314. Regulators' general duty.[^c-08abada8d2b7b9aac46cca8fca6a5bc5]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5f345eac62e1033763cf88f4f1f549c5] So far as it is appropriate to do so for the purpose of advancing one or more of its operational objectives, the FCA must keep itself informed about—
+(1)[^c-5f345eac62e1033763cf88f4f1f549c5] So far as it is appropriate to do so for the purpose of advancing one or more of its operational objectives, the FCA must keep itself informed about—
 
 - (a) the way in which the Council supervises and regulates the market at Lloyd's, and
 - (b) the way in which regulated activities are being carried on in that market.
@@ -30,17 +30,17 @@ summary: ''
 - (a) the way in which the Council supervises and regulates the market at Lloyd's, and
 - (b) the way in which any PRA-regulated activities are being carried on in that market.
 
-(2) Each regulator[^key-227479b964337a840ed3bb09cb0a22e6] must keep under review the desirability of exercising—
+(2) Each regulator[^c-227479b964337a840ed3bb09cb0a22e6] must keep under review the desirability of exercising—
 
 - (a) any of its powers under this Part;
-- (b) any powers which it has in relation to the Society as a result of provision made by or under this Act[^key-54d34e67be33d254ff86038e198f92db].
+- (b) any powers which it has in relation to the Society as a result of provision made by or under this Act[^c-54d34e67be33d254ff86038e198f92db].
 
 ## Annotations
 
-[^key-08abada8d2b7b9aac46cca8fca6a5bc5]: Textual amendment: Word in s. 314 heading substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(2)(c)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/2/c), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-08abada8d2b7b9aac46cca8fca6a5bc5]: Textual amendment: Word in s. 314 heading substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(2)(c)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/2/c), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-5f345eac62e1033763cf88f4f1f549c5]: Textual amendment: S. 314(1)(1A) substituted for s. 314(1) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(2)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/2/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-5f345eac62e1033763cf88f4f1f549c5]: Textual amendment: S. 314(1)(1A) substituted for s. 314(1) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(2)(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/2/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-227479b964337a840ed3bb09cb0a22e6]: Textual amendment: Words in s. 314(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/2/b/i), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-227479b964337a840ed3bb09cb0a22e6]: Textual amendment: Words in s. 314(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/2/b/i), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-54d34e67be33d254ff86038e198f92db]: Textual amendment: Words in s. 314(2)(b) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/2/b/ii), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-54d34e67be33d254ff86038e198f92db]: Textual amendment: Words in s. 314(2)(b) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 40(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/21/section/40/2/b/ii), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

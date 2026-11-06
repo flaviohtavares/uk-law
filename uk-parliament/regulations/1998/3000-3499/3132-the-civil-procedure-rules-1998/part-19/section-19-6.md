@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19.6. Special provisions about adding or substituting parties after the end of a relevant limitation period[^M_F_97e563c0-4fa0-4266-e979-26fe5b01335d][^key-f81645039664bf70184edcf2dc4f1093]
+## 19.6. Special provisions about adding or substituting parties after the end of a relevant limitation period[^M_F_97e563c0-4fa0-4266-e979-26fe5b01335d][^c-f81645039664bf70184edcf2dc4f1093]
 
 *Extent: E+W*
 
 (1) This rule applies to a change of parties after the end of a period of limitation under—
 
 - (a) the Limitation Act 1980;
-- (b) the Foreign Limitation Periods Act 1984; or[^key-c145eaf47a8ae5e3dddd7858e09b6ce2]
-- (c)[^key-de3434f8ef232a3ead8820eb19e2e782] any other enactment which allows such a change, or under which such a change is allowed.
+- (b) the Foreign Limitation Periods Act 1984; or[^c-c145eaf47a8ae5e3dddd7858e09b6ce2]
+- (c)[^c-de3434f8ef232a3ead8820eb19e2e782] any other enactment which allows such a change, or under which such a change is allowed.
 
 (2) The court may add or substitute a party only if—
 
@@ -35,7 +35,7 @@ summary: ''
 
 - (a) the new party is to be substituted for a party who was named in the claim form in mistake for the new party;
 - (b) the claim cannot properly be carried on by or against the original party unless the new party is added or substituted as claimant or defendant; or
-- (c) the original party has died or had a bankruptcy order made against them and their[^key-14745b04781e4f029ce34d61672dc4bb] interest or liability has passed to the new party.
+- (c) the original party has died or had a bankruptcy order made against them and their[^c-14745b04781e4f029ce34d61672dc4bb] interest or liability has passed to the new party.
 
 (4) In addition, in a claim for personal injuries the court may add or substitute a party where it directs that—
 
@@ -46,18 +46,18 @@ summary: ''
   of the Limitation Act 1980 shall not apply to the claim by or against the new party; or
 - (b) the issue of whether those sections apply shall be determined at trial.
 
-[^key-771f406c4837649fd88e729c8c587fcf]...<sup></sup>
+[^c-771f406c4837649fd88e729c8c587fcf]...<sup></sup>
 
 ## Annotations
 
 [^M_F_97e563c0-4fa0-4266-e979-26fe5b01335d]: Textual amendment: Rule 19.5 renumbered as rule 19.6 (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [12(7)](https://www.legislation.gov.uk/uksi/2023/105/rule/12/7)
 
-[^key-f81645039664bf70184edcf2dc4f1093]: Textual amendment: Pt. 19 substituted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rule 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/221/schedule/2)
+[^c-f81645039664bf70184edcf2dc4f1093]: Textual amendment: Pt. 19 substituted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rule 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/221/schedule/2)
 
-[^key-c145eaf47a8ae5e3dddd7858e09b6ce2]: Textual amendment: Word in rule 19.5(1)(b) inserted (26.3.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/a), [8(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/8/a)
+[^c-c145eaf47a8ae5e3dddd7858e09b6ce2]: Textual amendment: Word in rule 19.5(1)(b) inserted (26.3.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/a), [8(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/8/a)
 
-[^key-de3434f8ef232a3ead8820eb19e2e782]: Textual amendment: Rule 19.5(1)(c) substituted for rule 19.5(1)(c)(d) (26.3.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/a), [8(b)](https://www.legislation.gov.uk/uksi/2001/256/rule/8/b)
+[^c-de3434f8ef232a3ead8820eb19e2e782]: Textual amendment: Rule 19.5(1)(c) substituted for rule 19.5(1)(c)(d) (26.3.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/a), [8(b)](https://www.legislation.gov.uk/uksi/2001/256/rule/8/b)
 
-[^key-14745b04781e4f029ce34d61672dc4bb]: Textual amendment: Words in rule 19.6(3)(c) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [12(7)(a)](https://www.legislation.gov.uk/uksi/2023/105/rule/12/7/a)
+[^c-14745b04781e4f029ce34d61672dc4bb]: Textual amendment: Words in rule 19.6(3)(c) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [12(7)(a)](https://www.legislation.gov.uk/uksi/2023/105/rule/12/7/a)
 
-[^key-771f406c4837649fd88e729c8c587fcf]: Textual amendment: Words in rule 19.6 omitted (6.4.2023) by virtue of [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [12(7)(b)](https://www.legislation.gov.uk/uksi/2023/105/rule/12/7/b)
+[^c-771f406c4837649fd88e729c8c587fcf]: Textual amendment: Words in rule 19.6 omitted (6.4.2023) by virtue of [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [12(7)(b)](https://www.legislation.gov.uk/uksi/2023/105/rule/12/7/b)

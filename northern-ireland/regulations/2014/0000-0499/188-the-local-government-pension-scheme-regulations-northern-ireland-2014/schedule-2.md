@@ -39,7 +39,7 @@ Regulations 3 and 5
   - (iv) employing authorities;
 - (d) a statutory undertaker;
 - (e) a non-statutory undertaker;
-- (f) the managers of a voluntary school or grant maintained integrated school[^key-dc4def802b0b44f4eb01e879e3f0989b] within the meaning of Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 [^c22152721];
+- (f) the managers of a voluntary school or grant maintained integrated school[^c-dc4def802b0b44f4eb01e879e3f0989b] within the meaning of Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 [^c22152721];
 - (g) the governing body of an institution of further education within the meaning of the Further Education (Northern Ireland) Order 1997 [^c22152731]; and
 - (h) a body that is providing or will provide—
   - (i) a service or assets in connection with the exercise of a function of an employing authority as a result of the transfer of the service or assets by means of a contract or other arrangement; or
@@ -69,7 +69,7 @@ Regulations 3 and 5
 
 **8.** Where paragraph 7 of this Part of this Schedule applies—
 
-- (a) the Committee may[^key-043a79ca7e7e79a09ab0626cc90997df] admit to the Scheme the eligible employees of the admission body specified by the body; and
+- (a) the Committee may[^c-043a79ca7e7e79a09ab0626cc90997df] admit to the Scheme the eligible employees of the admission body specified by the body; and
 - (b) where it does so, the terms on which it does so are the admission agreement for the purposes of the Scheme.
 
 **9.** Only those employees of the admission body who are employed in connection with the provision of a service or assets mentioned in paragraph 2(1)(h) of this Part of this Schedule are eligible to be designated, under regulation 3(1)(b) (active membership, employed by an admission body), members of the Scheme.
@@ -147,17 +147,17 @@ shall carry out an assessment, taking account of actuarial advice, of the level 
 
 **15.** In this Schedule “**indemnity or bond in an approved form**” means an indemnity or bond, payable to the pension fund, to meet a level of risk exposure arising on insolvency, winding up or liquidation of the admission body, actuarially assessed to the satisfaction of the Committee and employing authority in the case of an admission body under paragraph 2(1)(h) of Part 1 of this Schedule.
 
-**16.**[^key-e0fdf06f74ed03ef39d441906b8eec83] An admission agreement may take effect on a date before it is executed.
+**16.**[^c-e0fdf06f74ed03ef39d441906b8eec83] An admission agreement may take effect on a date before it is executed.
 
 ## Annotations
 
-[^key-dc4def802b0b44f4eb01e879e3f0989b]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 2(1)(f)](https://www.legislation.gov.uk/nisr/2014/188/schedule/2/part/1/paragraph/2/1/f) inserted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [82(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/82/a)
+[^c-dc4def802b0b44f4eb01e879e3f0989b]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 2(1)(f)](https://www.legislation.gov.uk/nisr/2014/188/schedule/2/part/1/paragraph/2/1/f) inserted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [82(a)](https://www.legislation.gov.uk/nisr/2019/206/regulation/82/a)
 
 [^c22152721]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594) as amended by [S.I.1993/2810 (N.I. 12)](https://www.legislation.gov.uk/nisi/1993/2810) and [S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772).
 
 [^c22152731]: Marginal citation: [S.I. 1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772).
 
-[^key-043a79ca7e7e79a09ab0626cc90997df]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 8(a)](https://www.legislation.gov.uk/nisr/2014/188/schedule/2/part/1/paragraph/8/a) substituted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2022/163/regulation/14)
+[^c-043a79ca7e7e79a09ab0626cc90997df]: Textual amendment: Word in [Sch. 2 Pt. 1 para. 8(a)](https://www.legislation.gov.uk/nisr/2014/188/schedule/2/part/1/paragraph/8/a) substituted (with effect in accordance with reg. 1(1) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/163)](https://www.legislation.gov.uk/nisr/2022/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/163/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2022/163/regulation/14)
 
 [^c22152741]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -167,4 +167,4 @@ shall carry out an assessment, taking account of actuarial advice, of the level 
 
 [^c22152771]: Marginal citation: [1950 c. 10 (N.I.)](https://www.legislation.gov.uk/apni/1950/10)
 
-[^key-e0fdf06f74ed03ef39d441906b8eec83]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2014/188/schedule/2/paragraph/16) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [82(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/82/b)
+[^c-e0fdf06f74ed03ef39d441906b8eec83]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2014/188/schedule/2/paragraph/16) inserted (18.11.2019) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [82(b)](https://www.legislation.gov.uk/nisr/2019/206/regulation/82/b)

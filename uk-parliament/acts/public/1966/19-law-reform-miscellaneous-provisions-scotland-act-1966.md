@@ -93,12 +93,12 @@ and a direction to accumulate income during a period specified in paragraph (a) 
 - “**order**” includes a provision in a final decree, but does not include an interim order,
 - “**party**” means any person having a right to make application for the variation or recall of the order in question, and
 - “**sheriff**” means
-- (a)[^c667321] in relation to an order under subsection (1)(*a*), (*b*) , (c) or (cc)[^c667322]above or an order varying any such order the sheriff having jurisdiction over any party on whom the application has to be served, on any of the grounds mentioned in paragraphs (a), (b), (c) or (k) of section 43(2) of the Courts Reform (Scotland) Act 2014[^key-353c49c3c252742cd59df46d24afe919].
+- (a)[^c667321] in relation to an order under subsection (1)(*a*), (*b*) , (c) or (cc)[^c667322]above or an order varying any such order the sheriff having jurisdiction over any party on whom the application has to be served, on any of the grounds mentioned in paragraphs (a), (b), (c) or (k) of section 43(2) of the Courts Reform (Scotland) Act 2014[^c-353c49c3c252742cd59df46d24afe919].
 - (b)[^c667324] in relation to an order mentioned in subsection (1)( *d* ) above or an order varying any such order, the sheriff having jurisdiction under section 9, 10 or 12 of the Family Law Act 1986.
 
 ## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c667325]
 
-## 10. Acts of adjournal and acts of sederunt to be statutory instruments.[^key-f8ca0fca792ee328e6f53a11162039bc]
+## 10. Acts of adjournal and acts of sederunt to be statutory instruments.[^c-f8ca0fca792ee328e6f53a11162039bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -164,13 +164,13 @@ and a direction to accumulate income during a period specified in paragraph (a) 
 
 [^c667322]: Textual amendment: Words in s. 8(6)(a) substituted (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 14(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/14/b); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
 
-[^key-353c49c3c252742cd59df46d24afe919]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/ukpga/1966/19/section/8/6) substituted (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150)](https://www.legislation.gov.uk/ssi/2015/150), [art. 1](https://www.legislation.gov.uk/ssi/2015/150/article/1), [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/150/schedule/paragraph/1)
+[^c-353c49c3c252742cd59df46d24afe919]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/ukpga/1966/19/section/8/6) substituted (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2015 (S.S.I. 2015/150)](https://www.legislation.gov.uk/ssi/2015/150), [art. 1](https://www.legislation.gov.uk/ssi/2015/150/article/1), [Sch. para. 1](https://www.legislation.gov.uk/ssi/2015/150/schedule/paragraph/1)
 
 [^c667324]: Textual amendment: Words added by [Family Law Act 1986 (c. 55, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1986/55), [ss. 68(1)](https://www.legislation.gov.uk/ukpga/1986/55/section/68/1), [69(6)](https://www.legislation.gov.uk/ukpga/1986/55/section/69/6), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1986/55/schedule/1/paragraph/8)(*b*)
 
 [^c667325]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1966/19/section/9) repealed by [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 461(2)](https://www.legislation.gov.uk/ukpga/1975/21/section/461/2), [Sch. 10 Pt. I](https://www.legislation.gov.uk/ukpga/1975/21/schedule/10/part/I)
 
-[^key-f8ca0fca792ee328e6f53a11162039bc]: Textual amendment: S. 10 repealed (6.4.2011) by [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10), [ss. 27(5)](https://www.legislation.gov.uk/asp/2010/10/section/27/5), [58(3)](https://www.legislation.gov.uk/asp/2010/10/section/58/3) (with [s. 27(1)-(4)](https://www.legislation.gov.uk/asp/2010/10/section/27/1)); [S.S.I. 2011/17](https://www.legislation.gov.uk/ssi/2011/17), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/17/article/3/a)
+[^c-f8ca0fca792ee328e6f53a11162039bc]: Textual amendment: S. 10 repealed (6.4.2011) by [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10), [ss. 27(5)](https://www.legislation.gov.uk/asp/2010/10/section/27/5), [58(3)](https://www.legislation.gov.uk/asp/2010/10/section/58/3) (with [s. 27(1)-(4)](https://www.legislation.gov.uk/asp/2010/10/section/27/1)); [S.S.I. 2011/17](https://www.legislation.gov.uk/ssi/2011/17), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/17/article/3/a)
 
 [^c667326]: Modification: A dagger appended to a marginal note means that it is no longer accurate
 

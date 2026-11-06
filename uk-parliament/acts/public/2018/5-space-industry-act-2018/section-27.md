@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power to give directions: breach of licence condition etc[^key-857ea48fb365a3e647c9f627ee2d312a]
+## 27. Power to give directions: breach of licence condition etc[^c-857ea48fb365a3e647c9f627ee2d312a]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-857ea48fb365a3e647c9f627ee2d312a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2018/5/section/27) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/46) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-857ea48fb365a3e647c9f627ee2d312a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2018/5/section/27) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/46) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

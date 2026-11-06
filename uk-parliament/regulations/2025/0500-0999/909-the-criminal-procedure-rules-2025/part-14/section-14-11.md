@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.11. Condition of residence[^key-07ec85fb17703fb2d0c91066e153d7a9]
+## 14.11. Condition of residence[^c-07ec85fb17703fb2d0c91066e153d7a9]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ec85fb17703fb2d0c91066e153d7a9]: Commencement: [Rule 14.11](https://www.legislation.gov.uk/uksi/2025/909/rule/14.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-07ec85fb17703fb2d0c91066e153d7a9]: Commencement: [Rule 14.11](https://www.legislation.gov.uk/uksi/2025/909/rule/14.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

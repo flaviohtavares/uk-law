@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No.2) Order 1988 (revoked)[^key-a0624851d0b0134c5e2d0bc33fea042f]
+The European Communities (Designation) (No.2) Order 1988 (revoked)[^c-a0624851d0b0134c5e2d0bc33fea042f]
 
 Made
 
@@ -51,28 +51,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-a0624851d0b0134c5e2d0bc33fea042f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0624851d0b0134c5e2d0bc33fea042f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a0624851d0b0134c5e2d0bc33fea042f]
+## 1. Citation and commencement[^c-a0624851d0b0134c5e2d0bc33fea042f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Ministers or departments[^key-a0624851d0b0134c5e2d0bc33fea042f]
+## 2. Designation of Ministers or departments[^c-a0624851d0b0134c5e2d0bc33fea042f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0624851d0b0134c5e2d0bc33fea042f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0624851d0b0134c5e2d0bc33fea042f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-a0624851d0b0134c5e2d0bc33fea042f]
+## SCHEDULE[^c-a0624851d0b0134c5e2d0bc33fea042f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0624851d0b0134c5e2d0bc33fea042f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0624851d0b0134c5e2d0bc33fea042f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0624851d0b0134c5e2d0bc33fea042f]: Textual amendment: Order revoked (15.3.2008) by [The European Communities (Designation) Order 2008 (revoked) 2008 (S.I. 2008/301)](https://www.legislation.gov.uk/uksi/2008/301), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/301/article/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2008/301/article/6/2/c)
+[^c-a0624851d0b0134c5e2d0bc33fea042f]: Textual amendment: Order revoked (15.3.2008) by [The European Communities (Designation) Order 2008 (revoked) 2008 (S.I. 2008/301)](https://www.legislation.gov.uk/uksi/2008/301), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/301/article/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2008/301/article/6/2/c)

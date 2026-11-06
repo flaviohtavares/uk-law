@@ -25,7 +25,7 @@ summary: ''
 - (a) a member of the House of Commons, or
 - (b) a member of the House of Lords.
 
-(2)[^key-8e504d936cc35d074839fc0b33eeab22] The person is to be treated—
+(2)[^c-8e504d936cc35d074839fc0b33eeab22] The person is to be treated—
 
 - (a) as resident in the United Kingdom for the whole of that tax year for the purposes of income tax, capital gains tax and inheritance tax, and
 - (b) as a long-term UK resident at all times in that tax year for the purposes of inheritance tax.
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e504d936cc35d074839fc0b33eeab22]: Textual amendment: S. 41(2) substituted for s. 41(2)(3) (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 36](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/36), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-8e504d936cc35d074839fc0b33eeab22]: Textual amendment: S. 41(2) substituted for s. 41(2)(3) (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 36](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/36), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)

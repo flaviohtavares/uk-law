@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231A. Additional Powers of First-tier Tribunal and Upper Tribunal[^key-4b040e62f71f722e916c710f9f5a66f7]
+## 231A. Additional Powers of First-tier Tribunal and Upper Tribunal[^c-4b040e62f71f722e916c710f9f5a66f7]
 
 *Extent: E+W+S+N.I.*
 
-(1) The First-tier Tribunal and Upper Tribunal exercising any jurisdiction conferred by or under the Caravan Sites and Control of Development Act 1960,[^key-dd87a7b97718c302c14912a64d016332] the Mobile Homes Act 1983, the Housing Act 1985 or this Act has, in addition to any specific powers exercisable by them in exercising that jurisdiction, the general power mentioned in subsection (2).
+(1) The First-tier Tribunal and Upper Tribunal exercising any jurisdiction conferred by or under the Caravan Sites and Control of Development Act 1960,[^c-dd87a7b97718c302c14912a64d016332] the Mobile Homes Act 1983, the Housing Act 1985 or this Act has, in addition to any specific powers exercisable by them in exercising that jurisdiction, the general power mentioned in subsection (2).
 
 (2) The tribunal’s general power is a power to give such directions as the tribunal considers necessary or desirable for securing the just, expeditious and economical disposal of the proceedings or any issue in or in connection with them.
 
@@ -32,7 +32,7 @@ summary: ''
 - (d) directions that any building or part of a building so specified is to be treated as if an HMO declaration had been served in respect of it on such date as is so specified (and such a direction is to be an excluded decision for the purposes of section 11(1) and 13(1) of the Tribunals, Courts and Enforcement Act 2007);
 - (e) directions requiring the payment of money by one party to the proceedings to another by way of compensation, damages or otherwise.
 
-(3A)[^key-964887aaf8246de5f707bb3292ed495a] When exercising jurisdiction under the Caravan Sites and Control of Development Act 1960, the directions which may be given by a tribunal under its general power include (where appropriate) directions requiring the payment of money by one party to the proceedings to another by way of compensation, damages or otherwise.
+(3A)[^c-964887aaf8246de5f707bb3292ed495a] When exercising jurisdiction under the Caravan Sites and Control of Development Act 1960, the directions which may be given by a tribunal under its general power include (where appropriate) directions requiring the payment of money by one party to the proceedings to another by way of compensation, damages or otherwise.
 
 (4) When exercising jurisdiction under the Mobile Homes Act 1983, the directions which may be given by the tribunal under its general power include (where appropriate)—
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4b040e62f71f722e916c710f9f5a66f7]: Textual amendment: Ss. 231A-231D inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 176](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/176) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-4b040e62f71f722e916c710f9f5a66f7]: Textual amendment: Ss. 231A-231D inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 176](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/176) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-dd87a7b97718c302c14912a64d016332]: Textual amendment: Words in s. 231A(1) inserted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/13/a)
+[^c-dd87a7b97718c302c14912a64d016332]: Textual amendment: Words in s. 231A(1) inserted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/13/a)
 
-[^key-964887aaf8246de5f707bb3292ed495a]: Textual amendment: S. 231A(3A) inserted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/13/b)
+[^c-964887aaf8246de5f707bb3292ed495a]: Textual amendment: S. 231A(3A) inserted (18.7.2014) by [The Transfer of Tribunal Functions (Mobile Homes Act 2013 and Miscellaneous Amendments) Order 2014 (S.I. 2014/1900)](https://www.legislation.gov.uk/uksi/2014/1900), [art. 1](https://www.legislation.gov.uk/uksi/2014/1900/article/1), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/uksi/2014/1900/schedule/1/paragraph/13/b)

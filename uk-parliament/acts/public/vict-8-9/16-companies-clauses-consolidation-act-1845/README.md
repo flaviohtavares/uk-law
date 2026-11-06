@@ -31,7 +31,7 @@ Companies Clauses Consolidation Act 1845
 
 An Act for consolidating in One Act certain Provisions usually inserted in Acts with respect to the Constitution of Companies incorporated for carrying on Undertakings of a public Nature.
 
-\[8th May 1845\][^c5581611][^c5581621][^c5581631][^c5581641][^c5581651][^c5581661][^key-ce148caf33144c6186369ff70276820c][^key-c6a96d1f5b4e7080b97dd7ea0d04bf45][^key-501f0be2f76353f03ea1ab3b67c91520]
+\[8th May 1845\][^c5581611][^c5581621][^c5581631][^c5581641][^c5581651][^c5581661][^c-ce148caf33144c6186369ff70276820c][^c-c6a96d1f5b4e7080b97dd7ea0d04bf45][^c-501f0be2f76353f03ea1ab3b67c91520]
 
 ## Contents
 
@@ -385,8 +385,8 @@ And with respect to the provision to be made for affording access to the special
 
 [^c5581661]: Modification: Act incorporated in part (with modifications) (5.7.1994) by [1994 c. viii](https://www.legislation.gov.uk/ukla/1994/8), [s. 4(1)(a)(i)(ii)(iv)](https://www.legislation.gov.uk/ukla/1994/8/section/4/1/a/i/ii/iv)
 
-[^key-ce148caf33144c6186369ff70276820c]: Modification: Act excluded (E.W.S.) (30.9.2009) by [Mersey Docks and Harbour Revision Order 2009 (S.I. 2009/2604)](https://www.legislation.gov.uk/uksi/2009/2604), [art. 5](https://www.legislation.gov.uk/uksi/2009/2604/article/5)
+[^c-ce148caf33144c6186369ff70276820c]: Modification: Act excluded (E.W.S.) (30.9.2009) by [Mersey Docks and Harbour Revision Order 2009 (S.I. 2009/2604)](https://www.legislation.gov.uk/uksi/2009/2604), [art. 5](https://www.legislation.gov.uk/uksi/2009/2604/article/5)
 
-[^key-c6a96d1f5b4e7080b97dd7ea0d04bf45]: Modification: Act excluded (E.W.S.) (30.9.2009) by [Manchester Ship Canal Harbour Revision Order 2009 (S.I. 2009/2579)](https://www.legislation.gov.uk/uksi/2009/2579), [art. 5](https://www.legislation.gov.uk/uksi/2009/2579/article/5)
+[^c-c6a96d1f5b4e7080b97dd7ea0d04bf45]: Modification: Act excluded (E.W.S.) (30.9.2009) by [Manchester Ship Canal Harbour Revision Order 2009 (S.I. 2009/2579)](https://www.legislation.gov.uk/uksi/2009/2579), [art. 5](https://www.legislation.gov.uk/uksi/2009/2579/article/5)
 
-[^key-501f0be2f76353f03ea1ab3b67c91520]: Modification: Act excluded (27.4.2017) by [Faversham Oyster Fishery Company Act 2017 (c. i)](https://www.legislation.gov.uk/ukla/2017/1), [s. 5](https://www.legislation.gov.uk/ukla/2017/1/section/5) (with [ss. 17](https://www.legislation.gov.uk/ukla/2017/1/section/17), [18](https://www.legislation.gov.uk/ukla/2017/1/section/18), [20(8)](https://www.legislation.gov.uk/ukla/2017/1/section/20/8))
+[^c-501f0be2f76353f03ea1ab3b67c91520]: Modification: Act excluded (27.4.2017) by [Faversham Oyster Fishery Company Act 2017 (c. i)](https://www.legislation.gov.uk/ukla/2017/1), [s. 5](https://www.legislation.gov.uk/ukla/2017/1/section/5) (with [ss. 17](https://www.legislation.gov.uk/ukla/2017/1/section/17), [18](https://www.legislation.gov.uk/ukla/2017/1/section/18), [20(8)](https://www.legislation.gov.uk/ukla/2017/1/section/20/8))

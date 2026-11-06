@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Consequences of counteraction notices[^key-e48570e1d1480642b11ed37c60a8cffe]
+## 90. Consequences of counteraction notices[^c-e48570e1d1480642b11ed37c60a8cffe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e48570e1d1480642b11ed37c60a8cffe]: Textual amendment: [Ss. 89-95](https://www.legislation.gov.uk/ukpga/2010/8/section/89) omitted (with effect in accordance with s. 31(6) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 31(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/31/4)
+[^c-e48570e1d1480642b11ed37c60a8cffe]: Textual amendment: [Ss. 89-95](https://www.legislation.gov.uk/ukpga/2010/8/section/89) omitted (with effect in accordance with s. 31(6) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 31(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/31/4)

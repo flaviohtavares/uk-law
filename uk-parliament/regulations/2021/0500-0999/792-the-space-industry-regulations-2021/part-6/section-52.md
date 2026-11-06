@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Safety and quality management systems requirement[^key-6c2fb0f9f66f3f30a7cae75f2bce59b5]
+## 52. Safety and quality management systems requirement[^c-6c2fb0f9f66f3f30a7cae75f2bce59b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c2fb0f9f66f3f30a7cae75f2bce59b5]: Commencement: Reg. 52 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6c2fb0f9f66f3f30a7cae75f2bce59b5]: Commencement: Reg. 52 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -43,11 +43,11 @@ Whereas a draft of this Order has been laid before Parliament in accordance with
 
 Whereas the Treasury is a department designated[^f00003] in relation to measures regulating the business of building societies;
 
-Now therefore, the Treasury, in exercise of the powers conferred upon them by section 104 of the Building Societies Act 1986 and by section 2(2) of the European Communities Act 1972, hereby make the following Order:[^key-ff476f358fc08ed2e8c9a71ae8d3cc4c]
+Now therefore, the Treasury, in exercise of the powers conferred upon them by section 104 of the Building Societies Act 1986 and by section 2(2) of the European Communities Act 1972, hereby make the following Order:[^c-ff476f358fc08ed2e8c9a71ae8d3cc4c]
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-eb3184fcf884e779631ac4732eaca475]
+### 1. Citation, commencement and interpretation[^c-eb3184fcf884e779631ac4732eaca475]
 
 (1) This Order may be cited as the Building Societies Act 1986 (International Accounting Standards and Other Accounting Amendments) Order 2004.
 
@@ -57,7 +57,7 @@ Now therefore, the Treasury, in exercise of the powers conferred upon them by se
 
 ## PART 2 — Accounts prepared in accordance with international accounting standards
 
-### 2. Preparation of individual and group accounts in accordance with international accounting standards[^key-4a64e3d2b883f495f8b4e886c3bb0ac9]
+### 2. Preparation of individual and group accounts in accordance with international accounting standards[^c-4a64e3d2b883f495f8b4e886c3bb0ac9]
 
 For sections 72 and 73 of the 1986 Act[^f00004] substitute—
 
@@ -219,7 +219,7 @@ For sections 72 and 73 of the 1986 Act[^f00004] substitute—
 
 ## PART 3 — Other modifications of provisions relating to accounts, directors' reports and auditors' reports
 
-### 3. Duty to prepare directors' report[^key-ac28790ee41af038b546f6151fbfc2bb]
+### 3. Duty to prepare directors' report[^c-ac28790ee41af038b546f6151fbfc2bb]
 
 (1) Section 75 of the 1986 Act (directors' report) is amended as follows.
 
@@ -236,7 +236,7 @@ For sections 72 and 73 of the 1986 Act[^f00004] substitute—
 
 (4) Omit subsection (2).
 
-### 4. Business review[^key-44a5263ec7d3d1b50a34074eea05b7ea]
+### 4. Business review[^c-44a5263ec7d3d1b50a34074eea05b7ea]
 
 After section 75 of the 1986 Act insert—
 
@@ -260,7 +260,7 @@ After section 75 of the 1986 Act insert—
 
 .
 
-### 5. Content of auditors' report[^key-9be916eb1d7421c94a41046f352926a6]
+### 5. Content of auditors' report[^c-9be916eb1d7421c94a41046f352926a6]
 
 (1) Section 78 of the 1986 Act (auditors' report) is amended as follows.
 
@@ -286,7 +286,7 @@ After section 75 of the 1986 Act insert—
 
 .
 
-### 6. Auditors' report to be signed and dated[^key-7d74e79995f86694ff4621a929c2c171]
+### 6. Auditors' report to be signed and dated[^c-7d74e79995f86694ff4621a929c2c171]
 
 After section 78 of the 1986 Act insert—
 
@@ -302,7 +302,7 @@ After section 78 of the 1986 Act insert—
 
 .
 
-### 7. Auditors' report and publication of accounts[^key-b5638eba7e3f409aec59078fa0aa252c]
+### 7. Auditors' report and publication of accounts[^c-b5638eba7e3f409aec59078fa0aa252c]
 
 After section 81 of the 1986 Act insert—
 
@@ -336,13 +336,13 @@ After section 81 of the 1986 Act insert—
 
 .
 
-### 8. Consequential amendments[^key-8716a5a17a0c60092d18bd941f4b5809]
+### 8. Consequential amendments[^c-8716a5a17a0c60092d18bd941f4b5809]
 
 The Schedule to this Order (consequential amendments to the 1986 Act) has effect.
 
 ## PART 4 — Transitional provisions
 
-### 9. Regulations made under sections 72 and 73[^key-13ff453042f7b2257bf75e3d69ffba6c]
+### 9. Regulations made under sections 72 and 73[^c-13ff453042f7b2257bf75e3d69ffba6c]
 
 (1) Regulations made under section 72 of the 1986 Act (documents comprised in annual accounts) and in force immediately before the commencement date have effect as if made under sections 72B and 72F of that Act (inserted by this Order).
 
@@ -360,9 +360,9 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Article 8
 
-**1.**[^key-ff03600d7558f3e537d92e0d94781d4e] The 1986 Act is amended as follows.
+**1.**[^c-ff03600d7558f3e537d92e0d94781d4e] The 1986 Act is amended as follows.
 
-**2.**[^key-7ebd3a2755ccd5da54dac24053d763b0] (1) Section 6 (the lending limit) is amended as follows.
+**2.**[^c-7ebd3a2755ccd5da54dac24053d763b0] (1) Section 6 (the lending limit) is amended as follows.
 
 (2) In subsection (2), in the definition of “X”, in paragraph (a) omit “in pursuance of regulations under section 73(7)”.
 
@@ -389,14 +389,14 @@ Article 8
 
 .
 
-**3.**[^key-ca5a512c81411852d6e6761ef9703a48] (1) Section 61(3A)[^f00007] (supplementary provisions regarding election of directors) is amended as follows–
+**3.**[^c-ca5a512c81411852d6e6761ef9703a48] (1) Section 61(3A)[^f00007] (supplementary provisions regarding election of directors) is amended as follows–
 
 - (a) in paragraph (a), for “under section 73(7)” substitute “under section 72C or 72G, or in accordance with international accounting standards, as appropriate”;
 - (b) for “section 72” substitute “section 72A or 72E and “liquid assets” and “fixed assets”, in the case of societies which produce IAS individual accounts or IAS group accounts, have the same meaning as given in section 6(16).”.
 
-**4.**[^key-f8e8b31b4d284f3341cbce3c6bc3798d] In section 71(2) (accounting records), in each of paragraphs (c) and (d), after “under this Act” insert “(and, where applicable Article 4 of the IAS Regulation)”.
+**4.**[^c-f8e8b31b4d284f3341cbce3c6bc3798d] In section 71(2) (accounting records), in each of paragraphs (c) and (d), after “under this Act” insert “(and, where applicable Article 4 of the IAS Regulation)”.
 
-**5.**[^key-3ce0802a19bb1eb6915f0521afbf63a7] After section 72I (consistency of accounts) (inserted by this Order) insert—
+**5.**[^c-3ce0802a19bb1eb6915f0521afbf63a7] After section 72I (consistency of accounts) (inserted by this Order) insert—
 
 > **72J. Disclosures relating to directors, other officers and employees of society required in notes to accounts**
 >
@@ -445,7 +445,7 @@ Article 8
 
 .
 
-**6.**[^key-f3e34e8bc81a3e6d67b1bba99a5d7cba] After section 81A (requirements in connection with publication of accounts) (inserted by this Order) insert—
+**6.**[^c-f3e34e8bc81a3e6d67b1bba99a5d7cba] After section 81A (requirements in connection with publication of accounts) (inserted by this Order) insert—
 
 > **81B. Interpretation of Part 8**
 >
@@ -467,7 +467,7 @@ Article 8
 
 .
 
-**7.**[^key-b53611ef3a806c4269ebb352e6f982be] (1) Section 119 (interpretation) is amended as follows.
+**7.**[^c-b53611ef3a806c4269ebb352e6f982be] (1) Section 119 (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -496,7 +496,7 @@ Article 8
 
   .
 
-**8.**[^key-770d142827ca86b522335deea4cd3c7b] In paragraph 31 of Schedule 2 (members' right to propose and circulate resolutions)—
+**8.**[^c-770d142827ca86b522335deea4cd3c7b] In paragraph 31 of Schedule 2 (members' right to propose and circulate resolutions)—
 
 - (a) in sub-paragraph (2)(a)(i), for “section 72” substitute “section 72A or 72E”;
 - (b) in paragraph (2)(a)(i)(aa), for “under section 73(7)” substitute” “under section 72C or 72G or in accordance with international accounting standards, as appropriate”; and
@@ -506,7 +506,7 @@ Article 8
 
   .
 
-**9.**[^key-2da6272b157a4779a339cb3d9e08660a] After Schedule 10 insert the following—
+**9.**[^c-2da6272b157a4779a339cb3d9e08660a] After Schedule 10 insert the following—
 
 > **SCHEDULE 10A — Disclosures about directors, other officers and employees in notes to accounts**
 >
@@ -1170,55 +1170,55 @@ A regulatory impact assessment has been prepared in relation to this Order. A co
 
 [^f00003]: Footnote: The European Communities (Designation) (No.3) Order 2001 (S.I. [2001/3495](https://www.legislation.gov.uk/uksi/2001/3495)).
 
-[^key-ff476f358fc08ed2e8c9a71ae8d3cc4c]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-ff476f358fc08ed2e8c9a71ae8d3cc4c]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-eb3184fcf884e779631ac4732eaca475]: Commencement: Art. 1 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-eb3184fcf884e779631ac4732eaca475]: Commencement: Art. 1 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-4a64e3d2b883f495f8b4e886c3bb0ac9]: Commencement: Art. 2 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-4a64e3d2b883f495f8b4e886c3bb0ac9]: Commencement: Art. 2 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
 [^f00004]: Footnote: Sections 72 and 73 were amended by S.I. [1991/1729](https://www.legislation.gov.uk/uksi/1991/1729), S.I. [1999/248](https://www.legislation.gov.uk/uksi/1999/248) and S.I. [2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). Section 73 was also amended by section 43 of the Building Societies Act 1997.
 
 [^f00005]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6), Part 7 is amended by the Companies Act 1989 ([1989 c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), S.I. [1991/2705](https://www.legislation.gov.uk/uksi/1991/2705), [S.I. 1993/ 3246](https://www.legislation.gov.uk/uksi/1993/3246), S.I. [1994/1935](https://www.legislation.gov.uk/uksi/1994/1935), S.I. [1997/220](https://www.legislation.gov.uk/uksi/1997/220) and S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).
 
-[^key-ac28790ee41af038b546f6151fbfc2bb]: Commencement: Art. 3 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-ac28790ee41af038b546f6151fbfc2bb]: Commencement: Art. 3 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
 [^f00006]: Footnote: Inserted by the Building Societies Act 1997, section 43, Schedule 7, paragraph 32(2).
 
-[^key-44a5263ec7d3d1b50a34074eea05b7ea]: Commencement: Art. 4 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-44a5263ec7d3d1b50a34074eea05b7ea]: Commencement: Art. 4 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-9be916eb1d7421c94a41046f352926a6]: Commencement: Art. 5 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-9be916eb1d7421c94a41046f352926a6]: Commencement: Art. 5 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-7d74e79995f86694ff4621a929c2c171]: Commencement: Art. 6 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-7d74e79995f86694ff4621a929c2c171]: Commencement: Art. 6 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-b5638eba7e3f409aec59078fa0aa252c]: Commencement: Art. 7 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-b5638eba7e3f409aec59078fa0aa252c]: Commencement: Art. 7 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-8716a5a17a0c60092d18bd941f4b5809]: Commencement: Art. 8 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-8716a5a17a0c60092d18bd941f4b5809]: Commencement: Art. 8 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-13ff453042f7b2257bf75e3d69ffba6c]: Commencement: Art. 9 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-13ff453042f7b2257bf75e3d69ffba6c]: Commencement: Art. 9 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-ff03600d7558f3e537d92e0d94781d4e]: Commencement: Sch. para. 1 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-ff03600d7558f3e537d92e0d94781d4e]: Commencement: Sch. para. 1 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-7ebd3a2755ccd5da54dac24053d763b0]: Commencement: Sch. para. 2 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-7ebd3a2755ccd5da54dac24053d763b0]: Commencement: Sch. para. 2 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-ca5a512c81411852d6e6761ef9703a48]: Commencement: Sch. para. 3 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-ca5a512c81411852d6e6761ef9703a48]: Commencement: Sch. para. 3 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
 [^f00007]: Footnote: Substituted by the Building Societies Act 1997, section 28(2).
 
-[^key-f8e8b31b4d284f3341cbce3c6bc3798d]: Commencement: Sch. para. 4 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-f8e8b31b4d284f3341cbce3c6bc3798d]: Commencement: Sch. para. 4 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-3ce0802a19bb1eb6915f0521afbf63a7]: Commencement: Sch. para. 5 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-3ce0802a19bb1eb6915f0521afbf63a7]: Commencement: Sch. para. 5 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-f3e34e8bc81a3e6d67b1bba99a5d7cba]: Commencement: Sch. para. 6 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-f3e34e8bc81a3e6d67b1bba99a5d7cba]: Commencement: Sch. para. 6 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
 [^f00008]: Footnote: Official Journal L 243, 11/09/2002 P. 0001 – 0004.
 
 [^f00009]: Footnote: O.J. L141 of 11.06.93 page 27, as last amended by Directive [2000/64/EEC](https://www.legislation.gov.uk/european/directive/2000/0064) of the European Parliament and of the Council (O.J. L290 of 17.11.2000, page 27).
 
-[^key-b53611ef3a806c4269ebb352e6f982be]: Commencement: Sch. para. 7 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-b53611ef3a806c4269ebb352e6f982be]: Commencement: Sch. para. 7 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-770d142827ca86b522335deea4cd3c7b]: Commencement: Sch. para. 8 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-770d142827ca86b522335deea4cd3c7b]: Commencement: Sch. para. 8 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
-[^key-2da6272b157a4779a339cb3d9e08660a]: Commencement: Sch. para. 9 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
+[^c-2da6272b157a4779a339cb3d9e08660a]: Commencement: Sch. para. 9 in force at 22.12.2004, with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3380/article/1/2)
 
 [^f00010]: Footnote: This section was substituted by the Companies Act 1989 section 130(7), Schedule 17, paragraph 6.
 

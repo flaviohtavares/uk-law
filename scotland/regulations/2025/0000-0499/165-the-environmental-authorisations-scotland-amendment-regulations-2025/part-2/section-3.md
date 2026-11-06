@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Amendment of the 2018 Regulations[^key-5fd65730b49abcbceb18e0ae8e0fdce3]
+## 3. Amendment of the 2018 Regulations[^c-5fd65730b49abcbceb18e0ae8e0fdce3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The 2018 Regulations are amended in accordance with regulations 4 to 40.
 
 ## Annotations
 
-[^key-5fd65730b49abcbceb18e0ae8e0fdce3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/165/regulation/3) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-5fd65730b49abcbceb18e0ae8e0fdce3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/165/regulation/3) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

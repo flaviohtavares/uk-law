@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 517. Information to be provided in the case of a common deposit fund[^key-1594beac3b05bc40c830bfb889a0d93c]
+## 517. Information to be provided in the case of a common deposit fund[^c-1594beac3b05bc40c830bfb889a0d93c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1594beac3b05bc40c830bfb889a0d93c]: Commencement: Art. 517 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1594beac3b05bc40c830bfb889a0d93c]: Commencement: Art. 517 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

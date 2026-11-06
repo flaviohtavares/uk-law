@@ -41,7 +41,7 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], section 14(7) of the Scottish Commission for Human Rights Act 2006[^f00002], section 5 of the Judicial Factors (Scotland) Act 1880[^f00003], and, these rules making provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appearing to the Lords of Council and Session that it is expedient for the reference to Council Regulation (E.C.) No. 1346/2000 of 29th May 2000 on insolvency proceedings to be construed as a reference to that instrument as amended from time to time, under and by virtue of the powers conferred by paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00004], and under and by virtue of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
 
-## 1. Citation, commencement and interpretation[^key-00d2ab121544315888e1f99570f9a8d3]
+## 1. Citation, commencement and interpretation[^c-00d2ab121544315888e1f99570f9a8d3]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2008 and shall come into force on 1st July 2008.
 
@@ -56,7 +56,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 - “the Judicial Factor Rules” means the Act of Sederunt (Judicial Factors Rules) 1992[^f00009];
 - “the Company Insolvency Rules” means the Act of Sederunt (Sheriff Court Company Insolvency Rules) 1986[^f00010].
 
-## 2. Late appearance in family actions and civil partnership actions[^key-bc8ff5f9b71ec37e100d5ebdd9a49178]
+## 2. Late appearance in family actions and civil partnership actions[^c-bc8ff5f9b71ec37e100d5ebdd9a49178]
 
 (1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
 
@@ -106,7 +106,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 .
 
-## 3. Pension Protection Fund notification in family actions and civil partnership actions[^key-95b2c8cc45b49340ba7c414a14c67c01]
+## 3. Pension Protection Fund notification in family actions and civil partnership actions[^c-95b2c8cc45b49340ba7c414a14c67c01]
 
 (1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
 
@@ -184,11 +184,11 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 .
 
-## 4. Interventions in proceedings[^key-c4454442d3f7d6f5034c17007b503ef4]
+## 4. Interventions in proceedings[^c-c4454442d3f7d6f5034c17007b503ef4]
 
 (1) The Ordinary Cause Rules are amended in accordance with the following subparagraphs.
 
-(2)[^key-010fa23359d919f3f7ee49ef1339d2d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-010fa23359d919f3f7ee49ef1339d2d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Chapter 44[^f00016]–
 
@@ -206,13 +206,13 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
   .
 - (c) rule 44.4 (taxation of Commission expenses) is omitted.
 
-(4)[^key-757f899525505d904b90e587282e6f7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-757f899525505d904b90e587282e6f7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-26ee65a6f9260cb5456fa314df39fb8f]
+## 5.[^c-26ee65a6f9260cb5456fa314df39fb8f]
 
 (1) The Summary Application Rules are amended in accordance with the following subparagraphs.
 
-(2)[^key-ccf1748149998e018d06d061eaa3c824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ccf1748149998e018d06d061eaa3c824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Part XXXIII (equality enactments)[^f00017]–
 
@@ -230,13 +230,13 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
   ;
 - (c) rule 3.33.4 (taxation of Commission expenses) is omitted.
 
-(4)[^key-66a2723ecabd5c4d9cda0926529c6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-66a2723ecabd5c4d9cda0926529c6655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-c5485005faabba69ecf4f6bea02ea2fb]
+## 6.[^c-c5485005faabba69ecf4f6bea02ea2fb]
 
 (1) The Summary Cause Rules are amended in accordance with the following subparagraphs.
 
-(2)[^key-1ea49a37ec91ee968815420176bed355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1ea49a37ec91ee968815420176bed355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Chapter 36 (equality enactments)[^f00018]–
 
@@ -254,13 +254,13 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
   ;
 - (c) rule 36.4 (taxation of Commission expenses) is omitted.
 
-(4)[^key-9665e7284f7093e780ecad27672b6931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9665e7284f7093e780ecad27672b6931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-2f98e99c2e75964663dcfccd592b417f]
+## 7.[^c-2f98e99c2e75964663dcfccd592b417f]
 
 (1) The Small Claim Rules are amended in accordance with the following subparagraphs.
 
-(2)[^key-d2199ec761875b968c31255e22a9c909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d2199ec761875b968c31255e22a9c909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Chapter 26 (equality enactments)[^f00020]–
 
@@ -278,9 +278,9 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
   ;
 - (c) rule 26.4 (taxation of Commission expenses) is omitted.
 
-(4)[^key-7d2f1ce66e2cfa47253515729592790f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7d2f1ce66e2cfa47253515729592790f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Heritable summonses[^key-2ac701fe88ddb65c0bc0c79d83ae863b]
+## 8. Heritable summonses[^c-2ac701fe88ddb65c0bc0c79d83ae863b]
 
 After rule 30.8 of the Summary Cause Rules insert–
 
@@ -288,7 +288,7 @@ After rule 30.8 of the Summary Cause Rules insert–
 
 .
 
-## 9. Council Regulation on insolvency proceedings[^key-7d9078e4ed574515e9f2da0fa4095f31]
+## 9. Council Regulation on insolvency proceedings[^c-7d9078e4ed574515e9f2da0fa4095f31]
 
 (1) The Judicial Factors Rules are amended in accordance with the following subparagraphs.
 
@@ -324,7 +324,7 @@ After rule 30.8 of the Summary Cause Rules insert–
 
 .
 
-## 10.[^key-005efa62fcf89587d1fdbb1d0fc4c812]
+## 10.[^c-005efa62fcf89587d1fdbb1d0fc4c812]
 
 (1) The Company Insolvency Rules are amended in accordance with the following subparagraphs.
 
@@ -350,7 +350,7 @@ After rule 30.8 of the Summary Cause Rules insert–
 
 .
 
-## 11. Commissions for examination of witnesses[^key-a5e76073984ecc60202df6e62b82569d]
+## 11. Commissions for examination of witnesses[^c-a5e76073984ecc60202df6e62b82569d]
 
 In rule 28.10 of the Ordinary Cause Rules (commissions for examinations of witnesses)[^f00025] after paragraph (2) insert–
 
@@ -358,7 +358,7 @@ In rule 28.10 of the Ordinary Cause Rules (commissions for examinations of witne
 
 .
 
-## 12. Representation in certain sheriff court proceedings[^key-8096e3283bb8a62e01572f6e05b0166c]
+## 12. Representation in certain sheriff court proceedings[^c-8096e3283bb8a62e01572f6e05b0166c]
 
 After rule 3 of the Company Insolvency Rules insert–
 
@@ -381,7 +381,7 @@ After rule 3 of the Company Insolvency Rules insert–
 
 .
 
-## 13.[^key-4dc57ba2a24505d23b94fae84018a320]
+## 13.[^c-4dc57ba2a24505d23b94fae84018a320]
 
 After rule 2 of the Judicial Factors Rules insert–
 
@@ -404,7 +404,7 @@ After rule 2 of the Judicial Factors Rules insert–
 
 .
 
-## 14. Other minor amendments[^key-52114e64000346c616038d08f7d9ccef]
+## 14. Other minor amendments[^c-52114e64000346c616038d08f7d9ccef]
 
 (1) The Summary Application Rules are amended in accordance with the following subparagraphs.
 
@@ -414,7 +414,7 @@ After rule 2 of the Judicial Factors Rules insert–
 
 (4) In Part XIX (Proceeds of Crime Act 2002)[^f00028], the heading “Civil recovery investigations”[^f00029] immediately following rule 3.19.20 (appeals against determination of outlays and remuneration)[^f00030] becomes “Civil recovery and detained cash investigations”.
 
-## 15.[^key-2c077f899a96f4ff89cda333520b5624]
+## 15.[^c-2c077f899a96f4ff89cda333520b5624]
 
 (1) The Act of Sederunt (Consumer Credit Act 1974) 1985[^f00031] is amended in accordance with the following subparagraphs.
 
@@ -429,7 +429,7 @@ After rule 2 of the Judicial Factors Rules insert–
 
 (5) In rule 6(1) (claims against third parties in summary causes) for “rule 93 of the Act of Sederunt (Summary Cause Rules, Sheriff Court) 1976 (incidental applications)” substitute “rule 11 of the Act of Sederunt (Summary Cause Rules) 2002 (third party procedure)”.
 
-## 16.[^key-bba73bdf406f674a528f126e88cadfa8]
+## 16.[^c-bba73bdf406f674a528f126e88cadfa8]
 
 In the Schedule to the Act of Sederunt (Child Support Rules) 1993[^f00036], in Form 7 (form of citation for summary application for commitment to prison or disqualification from driving)[^f00037] omit “**(INCLUDING ANY COUNTERPART TO THAT LICENCE)**”.
 
@@ -441,97 +441,97 @@ Edinburgh
 
 3rd June 2008
 
-## SCHEDULE 1[^key-f8011c1efd94b574540880507f631d73]
+## SCHEDULE 1[^c-f8011c1efd94b574540880507f631d73]
 
 **No longer in force.**
 
 Paragraph 4(4)
 
-### FORM O7A — Form of minute of intervention by the Commission for Equality and Human Rights[^key-f8011c1efd94b574540880507f631d73]
+### FORM O7A — Form of minute of intervention by the Commission for Equality and Human Rights[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 13A.3(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_001)
 
-### FORM O7B — Form of minute of intervention by the Scottish Commission for Human Rights[^key-f8011c1efd94b574540880507f631d73]
+### FORM O7B — Form of minute of intervention by the Scottish Commission for Human Rights[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 13B.2(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_002)
 
-### FORM O7C — Invitation to the Scottish Commission for Human Rights to intervene[^key-f8011c1efd94b574540880507f631d73]
+### FORM O7C — Invitation to the Scottish Commission for Human Rights to intervene[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 13B.3(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_003)
 
-## SCHEDULE 2[^key-f8011c1efd94b574540880507f631d73]
+## SCHEDULE 2[^c-f8011c1efd94b574540880507f631d73]
 
 **No longer in force.**
 
 Paragraph 5(4)
 
-### FORM 11AA — Form of minute of intervention by the Commission for Equality and Human Rights[^key-f8011c1efd94b574540880507f631d73]
+### FORM 11AA — Form of minute of intervention by the Commission for Equality and Human Rights[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 2.37(3)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_004)
 
-### FORM 11AB — Form of minute of intervention by the Scottish Commission for Human Rights[^key-f8011c1efd94b574540880507f631d73]
+### FORM 11AB — Form of minute of intervention by the Scottish Commission for Human Rights[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 2.39(2)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_005)
 
-### FORM 11AC — Invitation to the Scottish Commission for Human Rights to intervene[^key-f8011c1efd94b574540880507f631d73]
+### FORM 11AC — Invitation to the Scottish Commission for Human Rights to intervene[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 2.40(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_006)
 
-## SCHEDULE 3[^key-f8011c1efd94b574540880507f631d73]
+## SCHEDULE 3[^c-f8011c1efd94b574540880507f631d73]
 
 **No longer in force.**
 
 Paragraph 6(4)
 
-### FORM 23A — Form of minute of intervention by the Commission for Equality and Human Rights[^key-f8011c1efd94b574540880507f631d73]
+### FORM 23A — Form of minute of intervention by the Commission for Equality and Human Rights[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 14A.3(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_007)
 
-### FORM 23B — Form of minute of intervention by the Scottish Commission for Human Rights[^key-f8011c1efd94b574540880507f631d73]
+### FORM 23B — Form of minute of intervention by the Scottish Commission for Human Rights[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 14B.2(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_008)
 
-### FORM 23C — Invitation to the Scottish Commission for Human Rights to intervene[^key-f8011c1efd94b574540880507f631d73]
+### FORM 23C — Invitation to the Scottish Commission for Human Rights to intervene[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 14B.3(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_009)
 
-## SCHEDULE 4[^key-f8011c1efd94b574540880507f631d73]
+## SCHEDULE 4[^c-f8011c1efd94b574540880507f631d73]
 
 **No longer in force.**
 
 Paragraph 7(4)
 
-### FORM 14A — Form of minute of intervention by the Commission for Equality and Human Rights[^key-f8011c1efd94b574540880507f631d73]
+### FORM 14A — Form of minute of intervention by the Commission for Equality and Human Rights[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 13A.3(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_010)
 
-### FORM 14B — Form of minute of intervention by the Scottish Commission for Human Rights[^key-f8011c1efd94b574540880507f631d73]
+### FORM 14B — Form of minute of intervention by the Scottish Commission for Human Rights[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 13B.2(1)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/223/images/ssi_20080223_en_011)
 
-### FORM 14C — Invitation to the Scottish Commission for Human Rights to intervene[^key-f8011c1efd94b574540880507f631d73]
+### FORM 14C — Invitation to the Scottish Commission for Human Rights to intervene[^c-f8011c1efd94b574540880507f631d73]
 
 Rule 13B.3(1)
 
@@ -569,7 +569,7 @@ Paragraph 16 amends the Child Support Rules 1993 removing the requirement on an 
 
 [^f00004]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-00d2ab121544315888e1f99570f9a8d3]: Commencement: Para. 1 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-00d2ab121544315888e1f99570f9a8d3]: Commencement: Para. 1 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00005]: Footnote: [1907 c. 51](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by S.I. [1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and amended by S.I. [1996/2167](https://www.legislation.gov.uk/uksi/1996/2167) and [2445](https://www.legislation.gov.uk/uksi/1996/2445), [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239) and [408](https://www.legislation.gov.uk/ssi/2000/408), [2001/8](https://www.legislation.gov.uk/ssi/2001/8) and [144](https://www.legislation.gov.uk/ssi/2001/144), [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [128](https://www.legislation.gov.uk/ssi/2002/128) and [560](https://www.legislation.gov.uk/ssi/2002/560), [2003/25](https://www.legislation.gov.uk/ssi/2003/25) and [26](https://www.legislation.gov.uk/ssi/2003/26), [2004/197](https://www.legislation.gov.uk/ssi/2004/197) and [350](https://www.legislation.gov.uk/ssi/2004/350), [2005/20](https://www.legislation.gov.uk/ssi/2005/20), [189](https://www.legislation.gov.uk/ssi/2005/189), [638](https://www.legislation.gov.uk/ssi/2005/638) and [648](https://www.legislation.gov.uk/ssi/2005/648) and [2006/207](https://www.legislation.gov.uk/ssi/2006/207), [293](https://www.legislation.gov.uk/ssi/2006/293), [410](https://www.legislation.gov.uk/ssi/2006/410) and [509](https://www.legislation.gov.uk/ssi/2006/509) and [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463).
 
@@ -583,11 +583,11 @@ Paragraph 16 amends the Child Support Rules 1993 removing the requirement on an 
 
 [^f00010]: Footnote: S.I. [1986/2297](https://www.legislation.gov.uk/uksi/1986/2297) amended by [S.S.I. 2003/388](https://www.legislation.gov.uk/ssi/2003/388), [2006/198](https://www.legislation.gov.uk/ssi/2006/198) and [200](https://www.legislation.gov.uk/ssi/2006/200) and [2007/464](https://www.legislation.gov.uk/ssi/2007/464).
 
-[^key-bc8ff5f9b71ec37e100d5ebdd9a49178]: Commencement: Para. 2 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-bc8ff5f9b71ec37e100d5ebdd9a49178]: Commencement: Para. 2 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00011]: Footnote: Rule 33A.37 was inserted by [S.S.I. 2005/638](https://www.legislation.gov.uk/ssi/2005/638) and amended by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
-[^key-95b2c8cc45b49340ba7c414a14c67c01]: Commencement: Para. 3 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-95b2c8cc45b49340ba7c414a14c67c01]: Commencement: Para. 3 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00012]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
 
@@ -595,63 +595,63 @@ Paragraph 16 amends the Child Support Rules 1993 removing the requirement on an 
 
 [^f00014]: Footnote: Rule 33A.48 was inserted by [S.S.I. 2006/207](https://www.legislation.gov.uk/ssi/2006/207).
 
-[^key-c4454442d3f7d6f5034c17007b503ef4]: Commencement: Para. 4 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-c4454442d3f7d6f5034c17007b503ef4]: Commencement: Para. 4 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
-[^key-010fa23359d919f3f7ee49ef1339d2d7]: Textual amendment: Para. 4(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+[^c-010fa23359d919f3f7ee49ef1339d2d7]: Textual amendment: Para. 4(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
 
 [^f00016]: Footnote: Chapter 44 was inserted by [S.S.I. 2006/509](https://www.legislation.gov.uk/ssi/2006/509) and was amended by [S.S.I. 2007/339](https://www.legislation.gov.uk/ssi/2007/339).
 
-[^key-757f899525505d904b90e587282e6f7b]: Textual amendment: Para. 4(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+[^c-757f899525505d904b90e587282e6f7b]: Textual amendment: Para. 4(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
 
-[^key-26ee65a6f9260cb5456fa314df39fb8f]: Commencement: Para. 5 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-26ee65a6f9260cb5456fa314df39fb8f]: Commencement: Para. 5 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
-[^key-ccf1748149998e018d06d061eaa3c824]: Textual amendment: Para. 5(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+[^c-ccf1748149998e018d06d061eaa3c824]: Textual amendment: Para. 5(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
 
 [^f00017]: Footnote: Part XXXIII was inserted by [S.S.I. 2006/509](https://www.legislation.gov.uk/ssi/2006/509) and was amended by [S.S.I. 2007/339](https://www.legislation.gov.uk/ssi/2007/339).
 
-[^key-66a2723ecabd5c4d9cda0926529c6655]: Textual amendment: Para. 5(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+[^c-66a2723ecabd5c4d9cda0926529c6655]: Textual amendment: Para. 5(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
 
-[^key-c5485005faabba69ecf4f6bea02ea2fb]: Commencement: Para. 6 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-c5485005faabba69ecf4f6bea02ea2fb]: Commencement: Para. 6 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
-[^key-1ea49a37ec91ee968815420176bed355]: Textual amendment: Para. 6(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+[^c-1ea49a37ec91ee968815420176bed355]: Textual amendment: Para. 6(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
 
 [^f00018]: Footnote: Chapter 36 was inserted by [S.S.I. 2006/509](https://www.legislation.gov.uk/ssi/2006/509) and was amended by [S.S.I. 2007/339](https://www.legislation.gov.uk/ssi/2007/339).
 
-[^key-9665e7284f7093e780ecad27672b6931]: Textual amendment: Para. 6(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+[^c-9665e7284f7093e780ecad27672b6931]: Textual amendment: Para. 6(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
 
-[^key-2f98e99c2e75964663dcfccd592b417f]: Commencement: Para. 7 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-2f98e99c2e75964663dcfccd592b417f]: Commencement: Para. 7 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
-[^key-d2199ec761875b968c31255e22a9c909]: Textual amendment: Para. 7(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+[^c-d2199ec761875b968c31255e22a9c909]: Textual amendment: Para. 7(2) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
 
 [^f00020]: Footnote: Chapter 26 was inserted by [S.S.I. 2006/509](https://www.legislation.gov.uk/ssi/2006/509) and was amended by [S.S.I. 2007/339](https://www.legislation.gov.uk/ssi/2007/339).
 
-[^key-7d2f1ce66e2cfa47253515729592790f]: Textual amendment: Para. 7(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+[^c-7d2f1ce66e2cfa47253515729592790f]: Textual amendment: Para. 7(4) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
 
-[^key-2ac701fe88ddb65c0bc0c79d83ae863b]: Commencement: Para. 8 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-2ac701fe88ddb65c0bc0c79d83ae863b]: Commencement: Para. 8 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
-[^key-7d9078e4ed574515e9f2da0fa4095f31]: Commencement: Para. 9 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-7d9078e4ed574515e9f2da0fa4095f31]: Commencement: Para. 9 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00021]: Footnote: Rule 2 was amended by S.I. [1997/206](https://www.legislation.gov.uk/uksi/1997/206).
 
 [^f00022]: Footnote: O.J. L 160, 30/06/2000 P. 0001-0018.
 
-[^key-005efa62fcf89587d1fdbb1d0fc4c812]: Commencement: Para. 10 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-005efa62fcf89587d1fdbb1d0fc4c812]: Commencement: Para. 10 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00023]: Footnote: Rule 3(1) was amended by [S.S.I. 2006/200](https://www.legislation.gov.uk/ssi/2006/200).
 
 [^f00024]: Footnote: Rule 10 was amended by [S.S.I. 2003/388](https://www.legislation.gov.uk/ssi/2003/388).
 
-[^key-a5e76073984ecc60202df6e62b82569d]: Commencement: Para. 11 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-a5e76073984ecc60202df6e62b82569d]: Commencement: Para. 11 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00025]: Footnote: Rule 28.10 was amended by [SI 1996/2445](https://www.legislation.gov.uk/uksi/1996/2445).
 
-[^key-8096e3283bb8a62e01572f6e05b0166c]: Commencement: Para. 12 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-8096e3283bb8a62e01572f6e05b0166c]: Commencement: Para. 12 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00026]: Footnote: [1975 c. 47](https://www.legislation.gov.uk/ukpga/1975/47).
 
-[^key-4dc57ba2a24505d23b94fae84018a320]: Commencement: Para. 13 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-4dc57ba2a24505d23b94fae84018a320]: Commencement: Para. 13 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
-[^key-52114e64000346c616038d08f7d9ccef]: Commencement: Para. 14 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-52114e64000346c616038d08f7d9ccef]: Commencement: Para. 14 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00027]: Footnote: [S.S.I. 2007/6](https://www.legislation.gov.uk/ssi/2007/6).
 
@@ -661,7 +661,7 @@ Paragraph 16 amends the Child Support Rules 1993 removing the requirement on an 
 
 [^f00030]: Footnote: Rule 3.19.20 was inserted by [S.S.I. 2003/27](https://www.legislation.gov.uk/ssi/2003/27).
 
-[^key-2c077f899a96f4ff89cda333520b5624]: Commencement: Para. 15 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-2c077f899a96f4ff89cda333520b5624]: Commencement: Para. 15 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00031]: Footnote: S.I. [1985/705](https://www.legislation.gov.uk/uksi/1985/705), amended by S.I. [1995/1877](https://www.legislation.gov.uk/uksi/1995/1877).
 
@@ -673,10 +673,10 @@ Paragraph 16 amends the Child Support Rules 1993 removing the requirement on an 
 
 [^f00035]: Footnote: [2006 c. 14](https://www.legislation.gov.uk/ukpga/2006/14).
 
-[^key-bba73bdf406f674a528f126e88cadfa8]: Commencement: Para. 16 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
+[^c-bba73bdf406f674a528f126e88cadfa8]: Commencement: Para. 16 in force at 1.7.2008, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2008/223/paragraph/1/1)
 
 [^f00036]: Footnote: S.I. [1993/920](https://www.legislation.gov.uk/uksi/1993/920), amended by [S.S.I. 2001/143](https://www.legislation.gov.uk/ssi/2001/143).
 
 [^f00037]: Footnote: Form 7 was inserted by [S.S.I. 2001/143](https://www.legislation.gov.uk/ssi/2001/143).
 
-[^key-f8011c1efd94b574540880507f631d73]: Textual amendment: [Schs. 1-4](https://www.legislation.gov.uk/ssi/2008/223/schedule/1) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)
+[^c-f8011c1efd94b574540880507f631d73]: Textual amendment: [Schs. 1-4](https://www.legislation.gov.uk/ssi/2008/223/schedule/1) revoked (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [8(c)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/8/c)

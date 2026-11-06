@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Part of body removed before day on which section 3 comes into force[^key-7158af6cb033468f31ffb8f336664427]
+## 14. Part of body removed before day on which section 3 comes into force[^c-7158af6cb033468f31ffb8f336664427]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ may be retained and used for any such purpose.
 
 ## Annotations
 
-[^key-7158af6cb033468f31ffb8f336664427]: Commencement: S. 14 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-7158af6cb033468f31ffb8f336664427]: Commencement: S. 14 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

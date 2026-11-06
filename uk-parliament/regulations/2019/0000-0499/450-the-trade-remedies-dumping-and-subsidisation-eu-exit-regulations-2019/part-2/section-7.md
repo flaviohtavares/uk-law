@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Normal value[^key-3c47226f97ab67ecade228a6c0795b00]
+## 7. Normal value[^c-3c47226f97ab67ecade228a6c0795b00]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c47226f97ab67ecade228a6c0795b00]: Commencement: Reg. 7 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-3c47226f97ab67ecade228a6c0795b00]: Commencement: Reg. 7 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

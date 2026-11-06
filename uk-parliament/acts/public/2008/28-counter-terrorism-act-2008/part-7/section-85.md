@@ -28,7 +28,7 @@ summary: ''
 (2) In this section “**extra police services**” means—
 
 - (a) the services of the Ministry of Defence Police provided under an agreement with the Secretary of State for Defence under section 2(2)(e) of the Ministry of Defence Police Act 1987 (c. 4),
-- (aa)[^key-c64e98d39fdb8259e43b8ae061c50bd1] the services of the Civil Nuclear Constabulary provided under section 55A of the Energy Act 2004, or
+- (aa)[^c-c64e98d39fdb8259e43b8ae061c50bd1] the services of the Civil Nuclear Constabulary provided under section 55A of the Energy Act 2004, or
 - (b) special police services provided under section 25(1) of the Police Act 1996 (c. 16) at the Secretary of State's request.
 
 (3) The Secretary of State may require a designated gas transporter who has an interest in the gas facility to pay all or part of the costs incurred by the Secretary of State in respect of the provision of extra police services in or around the facility.
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c64e98d39fdb8259e43b8ae061c50bd1]: Textual amendment: [S. 85(2)(aa)](https://www.legislation.gov.uk/ukpga/2008/28/section/85/2/aa) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(4)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/4/a), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-c64e98d39fdb8259e43b8ae061c50bd1]: Textual amendment: [S. 85(2)(aa)](https://www.legislation.gov.uk/ukpga/2008/28/section/85/2/aa) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(4)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/4/a), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)

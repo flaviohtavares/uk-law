@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102F. Requirements in connection with regulations under section 102E[^key-6e2ee48c09053746a72efbd34e02c3e6]
+## 102F. Requirements in connection with regulations under section 102E[^c-6e2ee48c09053746a72efbd34e02c3e6]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 (7) For the purposes of subsection (5), each of the following is an “appropriate authority” if any part of the authority's area adjoins the area of the proposed STB—
 
 - (a) a combined authority;
-- (aa)[^key-f4dde8e3c352c968191177f8ffc60bbb] a combined county authority;
+- (aa)[^c-f4dde8e3c352c968191177f8ffc60bbb] a combined county authority;
 - (b) an ITA;
 - (c) Transport for London;
 - (d) a county council;
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-6e2ee48c09053746a72efbd34e02c3e6]: Textual amendment: Pt. 5A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-f4dde8e3c352c968191177f8ffc60bbb]: Textual amendment: [S. 102F(7)(aa)](https://www.legislation.gov.uk/ukpga/2008/26/section/102F/7/aa) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 181](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/181) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-f4dde8e3c352c968191177f8ffc60bbb]: Textual amendment: [S. 102F(7)(aa)](https://www.legislation.gov.uk/ukpga/2008/26/section/102F/7/aa) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 181](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/181) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (England) Regulations 2002 (revoked)[^key-61ccaca4bd58bc911b081187e808f03e]
+The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (England) Regulations 2002 (revoked)[^c-61ccaca4bd58bc911b081187e808f03e]
 
 Made
 
@@ -43,90 +43,90 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-[^key-61ccaca4bd58bc911b081187e808f03e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ccaca4bd58bc911b081187e808f03e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-61ccaca4bd58bc911b081187e808f03e]
+## 1. Title, extent and commencement[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-61ccaca4bd58bc911b081187e808f03e]
+## 2. Interpretation[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restrictions on sale[^key-61ccaca4bd58bc911b081187e808f03e]
+## 3. Restrictions on sale[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Verification of regulation 3(4)[^key-61ccaca4bd58bc911b081187e808f03e]
+## 4. Verification of regulation 3(4)[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Notification requirement[^key-61ccaca4bd58bc911b081187e808f03e]
+## 5. Notification requirement[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Enforcement[^key-61ccaca4bd58bc911b081187e808f03e]
+## 6. Enforcement[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences and penalties[^key-61ccaca4bd58bc911b081187e808f03e]
+## 7. Offences and penalties[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Defence in relation to exports[^key-61ccaca4bd58bc911b081187e808f03e]
+## 8. Defence in relation to exports[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application of various provisions of the Act[^key-61ccaca4bd58bc911b081187e808f03e]
+## 9. Application of various provisions of the Act[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Tryptophan in Food Regulations 1990[^key-61ccaca4bd58bc911b081187e808f03e]
+## 10. Amendment of the Tryptophan in Food Regulations 1990[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61ccaca4bd58bc911b081187e808f03e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ccaca4bd58bc911b081187e808f03e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SUBSTANCES WHICH MAY BE ADDED FOR SPECIFIC NUTRITIONAL PURPOSES IN DESIGNATED PNU FOODS[^key-61ccaca4bd58bc911b081187e808f03e]
+## SCHEDULE 1 — SUBSTANCES WHICH MAY BE ADDED FOR SPECIFIC NUTRITIONAL PURPOSES IN DESIGNATED PNU FOODS[^c-61ccaca4bd58bc911b081187e808f03e]
 
 **Regulation 3(1)(a)**
 
-[^key-61ccaca4bd58bc911b081187e808f03e]
+[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61ccaca4bd58bc911b081187e808f03e]
+[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ADDITIONAL SUBSTANCES WHICH MAY BE ADDED FOR SPECIFIC NUTRITIONAL PURPOSES IN FOODS FOR SPECIAL MEDICAL PURPOSES[^key-61ccaca4bd58bc911b081187e808f03e]
+## SCHEDULE 2 — ADDITIONAL SUBSTANCES WHICH MAY BE ADDED FOR SPECIFIC NUTRITIONAL PURPOSES IN FOODS FOR SPECIAL MEDICAL PURPOSES[^c-61ccaca4bd58bc911b081187e808f03e]
 
 Regulation 3(1)(a)
 
-### Category 2. Minerals[^key-61ccaca4bd58bc911b081187e808f03e]
+### Category 2. Minerals[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — SUBSTANCES WHICH MAY BE ADDED FOR SPECIFIC NUTRITIONAL PURPOSES IN DESIGNATED PNU FOODS IN ACCORDANCE WITH THE DEROGATION IN REGULATION 3(5)[^key-61ccaca4bd58bc911b081187e808f03e]
+## SCHEDULE 3 — SUBSTANCES WHICH MAY BE ADDED FOR SPECIFIC NUTRITIONAL PURPOSES IN DESIGNATED PNU FOODS IN ACCORDANCE WITH THE DEROGATION IN REGULATION 3(5)[^c-61ccaca4bd58bc911b081187e808f03e]
 
 Regulation 3(5)
 
-### Category 1. Vitamins[^key-61ccaca4bd58bc911b081187e808f03e]
+### Category 1. Vitamins[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Category 2. Minerals[^key-61ccaca4bd58bc911b081187e808f03e]
+### Category 2. Minerals[^c-61ccaca4bd58bc911b081187e808f03e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61ccaca4bd58bc911b081187e808f03e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ccaca4bd58bc911b081187e808f03e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61ccaca4bd58bc911b081187e808f03e]: Textual amendment: Regulations revoked (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (England) Regulations 2009 (S.I. 2009/3051)](https://www.legislation.gov.uk/uksi/2009/3051), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3051/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3051/regulation/6)
+[^c-61ccaca4bd58bc911b081187e808f03e]: Textual amendment: Regulations revoked (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (England) Regulations 2009 (S.I. 2009/3051)](https://www.legislation.gov.uk/uksi/2009/3051), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3051/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/3051/regulation/6)

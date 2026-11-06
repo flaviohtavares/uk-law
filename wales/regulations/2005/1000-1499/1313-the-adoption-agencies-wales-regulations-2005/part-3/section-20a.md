@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20A. Persons authorised to witness consent to placement for adoption[^key-bbf4ad0870ffbb4f8bd843ef4442e88f]
+## 20A. Persons authorised to witness consent to placement for adoption[^c-bbf4ad0870ffbb4f8bd843ef4442e88f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbf4ad0870ffbb4f8bd843ef4442e88f]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/wsi/2005/1313/regulation/20A) inserted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2020/163/regulation/9)
+[^c-bbf4ad0870ffbb4f8bd843ef4442e88f]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/wsi/2005/1313/regulation/20A) inserted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2020/163/regulation/9)

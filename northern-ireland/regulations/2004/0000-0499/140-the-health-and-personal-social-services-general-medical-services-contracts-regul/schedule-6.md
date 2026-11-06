@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 32
 
-### 1. Temporary arrangements for transfer of obligations and liabilities in relation to certain out of hours services[^key-a1b5ffa7e09439d256880a9b857dded8]
+### 1. Temporary arrangements for transfer of obligations and liabilities in relation to certain out of hours services[^c-a1b5ffa7e09439d256880a9b857dded8]
 
 (1) In this Schedule –
 
@@ -43,7 +43,7 @@ whichever is the earlier.
 - (a) his obligations to provide out of hours services pursuant to regulation 30 or 31; and
 - (b) all liabilities under the contract in respect of those services.
 
-(5)[^key-ff320adf045b19274be1f0971c36463e] The person referred to in sub-paragraph (1) is any person who holds a contract with the Board which includes the provision of out of hours services.
+(5)[^c-ff320adf045b19274be1f0971c36463e] The person referred to in sub-paragraph (1) is any person who holds a contract with the Board which includes the provision of out of hours services.
 
 (6) A contractor may make more than one out of hours arrangement and may do so (for example) with different contractors or providers of primary medical services and in respect of different patients, different times and different parts of his practice area.
 
@@ -51,7 +51,7 @@ whichever is the earlier.
 
 (8) Nothing in this paragraph prevents a contractor from retaining or resuming his obligations in relation to named patients.
 
-### 2. Application for approval of an out of hours arrangement[^key-68de8894c37a48a3d6738877896a1edb]
+### 2. Application for approval of an out of hours arrangement[^c-68de8894c37a48a3d6738877896a1edb]
 
 (1) An application to the Board for approval of an out of hours arrangement shall be made in writing and shall state –
 
@@ -79,11 +79,11 @@ and shall not refuse to grant approval without first consulting the Local Medica
 
 (5) A contractor which wishes to refer the matter in accordance with the dispute resolution procedure must do so before the end of the period of 30 days beginning with and including the day on which the Board’s notification under sub-paragraph (4) was sent.
 
-### 3. Effect of approval of an arrangement with a transferee out of hours services provider[^key-855f08ec14fbdf4f8ed3173281fce82e]
+### 3. Effect of approval of an arrangement with a transferee out of hours services provider[^c-855f08ec14fbdf4f8ed3173281fce82e]
 
 Where the Board has approved an out of hours arrangement with a transferee out of hours services provider, the Board and the transferee out of hours services provider shall be deemed to have agreed a variation of their contract which has the effect of including in it, from the date on which the out of hours arrangement commences, and for so long as that arrangement continues, the services covered by that arrangement and paragraph 96(1) of Schedule 5 shall not apply.
 
-### 4. Review of approval[^key-db48bc26c09a7ba0b6cdff87f9d3bfa9]
+### 4. Review of approval[^c-db48bc26c09a7ba0b6cdff87f9d3bfa9]
 
 (1) Where it appears to the Board that it may no longer be satisfied of any of the matters referred to in paragraph 2(3), it may give notice to the contractor that it proposes to review its approval of the out of hours arrangement.
 
@@ -112,11 +112,11 @@ Where the Board has approved an out of hours arrangement with a transferee out o
 
 (10) Where the Board determines to withdraw its approval immediately, the withdrawal shall take effect on the day on which the notice referred to in sub-paragraph (6) is received by the contractor.
 
-### 5. Immediate withdrawal of approval other than following review[^key-b232a8ac8cfab8185557365b69f0c6d4]
+### 5. Immediate withdrawal of approval other than following review[^c-b232a8ac8cfab8185557365b69f0c6d4]
 
 (1) The Board shall withdraw its approval of an out of hours arrangement immediately –
 
-- (a)[^key-dd4bffeeda470aeb3e9c21c8e7b062a4] in the case of an arrangement with a person specified in paragraph 1(5), if the person with whom it is made ceases to hold a contract with the Board which includes the provision of out of hours services; or
+- (a)[^c-dd4bffeeda470aeb3e9c21c8e7b062a4] in the case of an arrangement with a person specified in paragraph 1(5), if the person with whom it is made ceases to hold a contract with the Board which includes the provision of out of hours services; or
 - (b) where, without any review having taken place under paragraph 4, it appears to the Board that it is necessary in the interests of the contractor’s patients to withdraw its approval immediately.
 
 (2) The Board shall give notice to the contractor of a withdrawal of approval under sub-paragraph (1)(a) or (b) and shall include with the notice a statement in writing of the reasons for its determination.
@@ -127,24 +127,24 @@ Where the Board has approved an out of hours arrangement with a transferee out o
 
 (5) A contractor which wishes to refer a withdrawal of approval under sub-paragraph (1)(b) in accordance with the dispute resolution procedure must do so before the end of the period of 30 days beginning with and including the day on which the Board’s notification under sub-paragraph (2) was sent.
 
-### 6. Termination of an out of hours arrangement[^key-6813999578a41ad4a0eeb89a56677111]
+### 6. Termination of an out of hours arrangement[^c-6813999578a41ad4a0eeb89a56677111]
 
 The contractor shall terminate an out of hours arrangement made under paragraph 1(2) with effect from the date of the taking effect of the withdrawal of the Board’s approval of that arrangement under paragraph 4 or 5.
 
 ## Annotations
 
-[^key-a1b5ffa7e09439d256880a9b857dded8]: Commencement: Sch. 6 para. 1 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-a1b5ffa7e09439d256880a9b857dded8]: Commencement: Sch. 6 para. 1 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-ff320adf045b19274be1f0971c36463e]: Modification: [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2004/140/schedule/6/paragraph/1/5) modified (29.3.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004 (S.R. 2004/141)](https://www.legislation.gov.uk/nisr/2004/141), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1), [21(b)](https://www.legislation.gov.uk/nisr/2004/141/article/21/b)
+[^c-ff320adf045b19274be1f0971c36463e]: Modification: [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2004/140/schedule/6/paragraph/1/5) modified (29.3.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004 (S.R. 2004/141)](https://www.legislation.gov.uk/nisr/2004/141), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1), [21(b)](https://www.legislation.gov.uk/nisr/2004/141/article/21/b)
 
-[^key-68de8894c37a48a3d6738877896a1edb]: Commencement: Sch. 6 para. 2 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-68de8894c37a48a3d6738877896a1edb]: Commencement: Sch. 6 para. 2 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-855f08ec14fbdf4f8ed3173281fce82e]: Commencement: Sch. 6 para. 3 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-855f08ec14fbdf4f8ed3173281fce82e]: Commencement: Sch. 6 para. 3 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-db48bc26c09a7ba0b6cdff87f9d3bfa9]: Commencement: Sch. 6 para. 4 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-db48bc26c09a7ba0b6cdff87f9d3bfa9]: Commencement: Sch. 6 para. 4 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-b232a8ac8cfab8185557365b69f0c6d4]: Commencement: Sch. 6 para. 5 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b232a8ac8cfab8185557365b69f0c6d4]: Commencement: Sch. 6 para. 5 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-dd4bffeeda470aeb3e9c21c8e7b062a4]: Modification: [Sch. 6 para. 5(1)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/6/paragraph/5/1/a) modified (29.3.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004 (S.R. 2004/141)](https://www.legislation.gov.uk/nisr/2004/141), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1), [21(b)](https://www.legislation.gov.uk/nisr/2004/141/article/21/b)
+[^c-dd4bffeeda470aeb3e9c21c8e7b062a4]: Modification: [Sch. 6 para. 5(1)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/6/paragraph/5/1/a) modified (29.3.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004 (S.R. 2004/141)](https://www.legislation.gov.uk/nisr/2004/141), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1), [21(b)](https://www.legislation.gov.uk/nisr/2004/141/article/21/b)
 
-[^key-6813999578a41ad4a0eeb89a56677111]: Commencement: Sch. 6 para. 6 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-6813999578a41ad4a0eeb89a56677111]: Commencement: Sch. 6 para. 6 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

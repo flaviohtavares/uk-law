@@ -698,7 +698,7 @@ In section 6(1) of the Licensing Act 1902, for the words from the beginning to �
 
 #### The Civil Defence Act 1939[^c720894][^M_F_bd48139b-1525-47a2-e3f0-72df7eb2d274]
 
-[^key-0ac6f91575eb70003efefc255672b5af]...
+[^c-0ac6f91575eb70003efefc255672b5af]...
 
 #### The Enemy Property Act 1953[^c720895]
 
@@ -742,7 +742,7 @@ In section 4(1) of the Enemy Property Act 1953 after “custodian” in the firs
 
 [^M_F_bd48139b-1525-47a2-e3f0-72df7eb2d274]: Textual amendment: Sch. 2 Pt. II entry repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
 
-[^key-0ac6f91575eb70003efefc255672b5af]: Textual amendment: Sch. 2 Pt. II entry repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
+[^c-0ac6f91575eb70003efefc255672b5af]: Textual amendment: Sch. 2 Pt. II entry repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
 
 [^c720895]: Marginal citation: [1953 c. 52](https://www.legislation.gov.uk/ukpga/1953/52).
 

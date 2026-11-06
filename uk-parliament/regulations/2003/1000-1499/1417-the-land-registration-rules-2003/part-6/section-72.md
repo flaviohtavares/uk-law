@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Register entries arising from transfers and charges of part[^key-e4757cc94096f0f4c7f5a09ccfb5918a]
+## 72. Register entries arising from transfers and charges of part[^c-e4757cc94096f0f4c7f5a09ccfb5918a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4757cc94096f0f4c7f5a09ccfb5918a]: Textual amendment: Rule 72 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/22) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-e4757cc94096f0f4c7f5a09ccfb5918a]: Textual amendment: Rule 72 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/22) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

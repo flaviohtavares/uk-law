@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Power to designate rent control area[^key-2b5cfe294fe1bca6175c26914aba082e][^key-93249042f44ac7e5f47fa6c7e0af0f38]
+## 9. Power to designate rent control area[^c-2b5cfe294fe1bca6175c26914aba082e][^c-93249042f44ac7e5f47fa6c7e0af0f38]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b5cfe294fe1bca6175c26914aba082e]: Commencement: S. 9 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-2b5cfe294fe1bca6175c26914aba082e]: Commencement: S. 9 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-93249042f44ac7e5f47fa6c7e0af0f38]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/13/section/9) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-93249042f44ac7e5f47fa6c7e0af0f38]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/13/section/9) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

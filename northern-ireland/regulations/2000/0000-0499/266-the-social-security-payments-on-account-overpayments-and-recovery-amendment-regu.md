@@ -39,15 +39,15 @@ Coming into operation
 
 2nd October 2000
 
-The Department for Social Development, in exercise of the powers conferred by sections 69(8) and 165(1), (3) and (4)(*b*) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^key-0c39eb7b23bfa8370f9d184aaf6502a2]
+The Department for Social Development, in exercise of the powers conferred by sections 69(8) and 165(1), (3) and (4)(*b*) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:[^c-0c39eb7b23bfa8370f9d184aaf6502a2]
 
-## 1. Citation, commencement and interpretation[^key-942b7fde2ff95f435e26527e569a5d9d]
+## 1. Citation, commencement and interpretation[^c-942b7fde2ff95f435e26527e569a5d9d]
 
 (1) These Regulations may be cited as the Social Security (Payments on account, Overpayments and Recovery) (Amendment) Regulations (Northern Ireland) 2000 and shall come into operation on 2nd October 2000.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-30154c6870d50fda7de22fcd6a638e05]
+## 2. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-30154c6870d50fda7de22fcd6a638e05]
 
 In regulation 16 of the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00004] (limitations on deductions from prescribed benefits)—
 
@@ -70,11 +70,11 @@ In regulation 16 of the Social Security (Payments on account, Overpayments and R
     , and
   - (ii) the definition of “written statement after caution”[^f00007] shall be omitted.
 
-## 3. Transitional provision[^key-0c20783034b1e3d1a0493f4bfb2cd0c7]
+## 3. Transitional provision[^c-0c20783034b1e3d1a0493f4bfb2cd0c7]
 
 These Regulations shall not apply to a misrepresentation of or failure to disclose a material fact which occurred before 2nd October 2000.
 
-## 4. Revocation[^key-24f7c08bd73e080a5d1dd5b36e53d388]
+## 4. Revocation[^c-24f7c08bd73e080a5d1dd5b36e53d388]
 
 The Social Security (Payments on account, Overpayments and Recovery) (Amendment) Regulations (Northern Ireland) 1989[^f00008] are hereby revoked.
 
@@ -102,13 +102,13 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-0c39eb7b23bfa8370f9d184aaf6502a2]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2000/266) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-0c39eb7b23bfa8370f9d184aaf6502a2]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2000/266) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
-[^key-942b7fde2ff95f435e26527e569a5d9d]: Commencement: Reg. 1 in operation at 2.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/266/regulation/1/1)
+[^c-942b7fde2ff95f435e26527e569a5d9d]: Commencement: Reg. 1 in operation at 2.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/266/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-30154c6870d50fda7de22fcd6a638e05]: Commencement: Reg. 2 in operation at 2.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/266/regulation/1/1)
+[^c-30154c6870d50fda7de22fcd6a638e05]: Commencement: Reg. 2 in operation at 2.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/266/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending regulations are [S.R. 1989 No. 495](https://www.legislation.gov.uk/nisr/1989/495)
 
@@ -118,8 +118,8 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00007]: Footnote: The definition of “written statement after caution” was substituted by regulation 2 of [S.R. 1989 No. 495](https://www.legislation.gov.uk/nisr/1989/495)
 
-[^key-0c20783034b1e3d1a0493f4bfb2cd0c7]: Commencement: Reg. 3 in operation at 2.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/266/regulation/1/1)
+[^c-0c20783034b1e3d1a0493f4bfb2cd0c7]: Commencement: Reg. 3 in operation at 2.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/266/regulation/1/1)
 
-[^key-24f7c08bd73e080a5d1dd5b36e53d388]: Commencement: Reg. 4 in operation at 2.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/266/regulation/1/1)
+[^c-24f7c08bd73e080a5d1dd5b36e53d388]: Commencement: Reg. 4 in operation at 2.10.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/266/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1989 No. 495](https://www.legislation.gov.uk/nisr/1989/495)

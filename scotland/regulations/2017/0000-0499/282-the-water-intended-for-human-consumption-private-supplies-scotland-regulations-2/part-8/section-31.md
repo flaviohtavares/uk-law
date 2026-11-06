@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Enforcement notices[^key-647e67b21559018c013228491fd56995]
+## 31. Enforcement notices[^c-647e67b21559018c013228491fd56995]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 7 makes provision about enforcement notices.
 
 ## Annotations
 
-[^key-647e67b21559018c013228491fd56995]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2017/282/regulation/31) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-647e67b21559018c013228491fd56995]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2017/282/regulation/31) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

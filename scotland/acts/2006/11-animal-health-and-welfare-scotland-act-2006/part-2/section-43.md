@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Appeals against orders[^key-dfc60418c48baf66198a3c2b9b5ff6cb][^key-312d91e6535f34e2a35a5cd0fbc03e93]
+## 43. Appeals against orders[^c-dfc60418c48baf66198a3c2b9b5ff6cb][^c-312d91e6535f34e2a35a5cd0fbc03e93]
 
 *Extent: S*
 
 (1) Any deprivation order or disqualification order is, for the purposes of any appeal under the Criminal Procedure (Scotland) Act 1995 (c. 46), to be treated as a sentence.
 
-(2) Where a deprivation order is made, any person (apart from a person who may appeal against the order by virtue of subsection (1)) who has an interest in any animal to which the order applies may appeal to the Sheriff Appeal Court[^key-94f8498dddcfec6c71c90402b112a4be] against the order by the same procedure as applies under subsection (1) in relation to a deprivation order.
+(2) Where a deprivation order is made, any person (apart from a person who may appeal against the order by virtue of subsection (1)) who has an interest in any animal to which the order applies may appeal to the Sheriff Appeal Court[^c-94f8498dddcfec6c71c90402b112a4be] against the order by the same procedure as applies under subsection (1) in relation to a deprivation order.
 
 (3) The disqualified person by reference to whom a seizure order is made, or any person (apart from that disqualified person) who entered the process prior to the making of the order, may appeal to the Sheriff Principal against the order.
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dfc60418c48baf66198a3c2b9b5ff6cb]: Commencement: S. 43 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-dfc60418c48baf66198a3c2b9b5ff6cb]: Commencement: S. 43 in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-312d91e6535f34e2a35a5cd0fbc03e93]: Modification: [S. 43](https://www.legislation.gov.uk/asp/2006/11/section/43) applied (1.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 (S.S.I. 2021/84)](https://www.legislation.gov.uk/ssi/2021/84), [regs. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1), [25(2)](https://www.legislation.gov.uk/ssi/2021/84/regulation/25/2)
+[^c-312d91e6535f34e2a35a5cd0fbc03e93]: Modification: [S. 43](https://www.legislation.gov.uk/asp/2006/11/section/43) applied (1.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 (S.S.I. 2021/84)](https://www.legislation.gov.uk/ssi/2021/84), [regs. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1), [25(2)](https://www.legislation.gov.uk/ssi/2021/84/regulation/25/2)
 
-[^key-94f8498dddcfec6c71c90402b112a4be]: Textual amendment: Words in [s. 43(2)](https://www.legislation.gov.uk/asp/2006/11/section/43/2) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/10) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-94f8498dddcfec6c71c90402b112a4be]: Textual amendment: Words in [s. 43(2)](https://www.legislation.gov.uk/asp/2006/11/section/43/2) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/10) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

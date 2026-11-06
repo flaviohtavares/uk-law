@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 32(2)
 
-**1.**[^key-b597f7234bfe72daf9b55f4bb2757ab3] Where two or more of paragraphs 2 to 5 apply in any particular case the overall maximum sum which falls to be disregarded in that case under those paragraphs is restricted to—
+**1.**[^c-b597f7234bfe72daf9b55f4bb2757ab3] Where two or more of paragraphs 2 to 5 apply in any particular case the overall maximum sum which falls to be disregarded in that case under those paragraphs is restricted to—
 
 - (a) £25 in the case of a lone parent;
 - (b) £20 in any other case.
 
-**2.**[^key-3cbea0e20f9b148f41e993be1bb5a291] In a case where an applicant is a lone parent, £25 of earnings.
+**2.**[^c-3cbea0e20f9b148f41e993be1bb5a291] In a case where an applicant is a lone parent, £25 of earnings.
 
-**3.**[^key-00b63fcc4d44c904964f940b35d5a198] (1) In a case of earnings from any employment or employments to which sub-paragraph (2) applies, £20.
+**3.**[^c-00b63fcc4d44c904964f940b35d5a198] (1) In a case of earnings from any employment or employments to which sub-paragraph (2) applies, £20.
 
 (2) This paragraph applies to employment—
 
@@ -46,13 +46,13 @@ Regulation 32(2)
 
 so much of those other earnings as would not, in the aggregate with the earnings disregarded under that sub-paragraph, exceed £20.
 
-**4.**[^key-ae14237fc5c97e65163e37102bb1d2f8] (1) If the applicant or, if the applicant has a partner, the applicant’s partner is a carer, or both are carers, £20 of any earnings received from the applicant’s or their employment.
+**4.**[^c-ae14237fc5c97e65163e37102bb1d2f8] (1) If the applicant or, if the applicant has a partner, the applicant’s partner is a carer, or both are carers, £20 of any earnings received from the applicant’s or their employment.
 
 (2) Where the carer premium is awarded in respect of the applicant and of any partner of the applicant, their earnings are for the purposes of this paragraph to be aggregated, but the amount to be disregarded in accordance with sub-paragraph (1) is not to exceed £20 of the aggregated amount.
 
 (3) In this paragraph the applicant or the applicant’s partner is a carer if paragraph 9 of Part 3 of Schedule 2 (carer premium) is satisfied in respect of the applicant.
 
-**5.**[^key-9c0c5988bc4f9de42cdedb29e435e19d] (1) £20 is disregarded if the applicant or, if the applicant has a partner, the applicant’s partner—
+**5.**[^c-9c0c5988bc4f9de42cdedb29e435e19d] (1) £20 is disregarded if the applicant or, if the applicant has a partner, the applicant’s partner—
 
 - (a) is in receipt of—
   - (i) long-term incapacity benefit under section 30A of the SSCBA;
@@ -64,13 +64,13 @@ so much of those other earnings as would not, in the aggregate with the earnings
   - (vii) any mobility supplement under article 20 of the Naval, Military and Air Forces Etc (Disablement and Death) Service Pensions Order 2006[^f00177] (including such a supplement by virtue of any other scheme or order) or under article 25A of the Personal Injuries (Civilians) Scheme 1983[^f00178];
   - (viii) the disability element or the severe disability element of working tax credit under Schedule 2 to the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f00179]; or
   - (ix) main phase employment and support allowance; or
-- (b)[^key-9fd236e941e2e94a423cba245c85168c] is or are registered as blind in a register compiled under section 29 of the National Assistance Act 1948 (welfare services), or registered as severely sight-impaired in a register established and maintained by a local authority under section 18(1) of the Social Services and Well-being (Wales) Act 2014 or section 77(1) of the Care Act 2014, or in Scotland, has or have been certified as blind and in consequence are registered in a register maintained by or on behalf of a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994; or
+- (b)[^c-9fd236e941e2e94a423cba245c85168c] is or are registered as blind in a register compiled under section 29 of the National Assistance Act 1948 (welfare services), or registered as severely sight-impaired in a register established and maintained by a local authority under section 18(1) of the Social Services and Well-being (Wales) Act 2014 or section 77(1) of the Care Act 2014, or in Scotland, has or have been certified as blind and in consequence are registered in a register maintained by or on behalf of a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994; or
 - (c) is, or is treated as, incapable of work in accordance with the provisions of, and regulations made under, Part 12A of the SSCBA (incapacity for work), and has been incapable, or has been treated as incapable, of work for a continuous period of not less than—
   - (i) in the case of an applicant who is terminally ill within the meaning of section 30B(4) of the SSCBA, 196 days;
   - (ii) in any other case, 364 days; or
 - (d) has, or is treated as having, limited capacity for work within the meaning of section 1(4) of the Welfare Reform Act 2007 or limited capability for work-related activity within the meaning of section 2(5) of that Act and either—
   - (i) the assessment phase as defined in section 24(2) of the Welfare Reform Act 2007 has ended; or
-  - (ii) regulation 7 of the Employment and Support Allowance Regulations 2008[^f00182] or regulation 7 of the Employment and Support Allowance Regulations 2013[^key-00b73f63fc9ea5d270c0784e9691268c] (circumstances where the condition that the assessment phase has ended before entitlement to the support component arises[^key-e11faef4ab6b651b2b15a0a1c79c8273] does not apply) applies.
+  - (ii) regulation 7 of the Employment and Support Allowance Regulations 2008[^f00182] or regulation 7 of the Employment and Support Allowance Regulations 2013[^c-00b73f63fc9ea5d270c0784e9691268c] (circumstances where the condition that the assessment phase has ended before entitlement to the support component arises[^c-e11faef4ab6b651b2b15a0a1c79c8273] does not apply) applies.
 
 (2) Subject to sub-paragraph (3), £20 is disregarded if the applicant or, if the applicant has a partner, the applicant’s partner has, within a period of 8 weeks ending on the day on which the applicant or the applicant’s partner attains the qualifying age for state pension credit, had an award of housing benefit or been in receipt of a reduction under an authority’s scheme and—
 
@@ -87,7 +87,7 @@ following the first day in respect of which that benefit or reduction is awarded
 
 (4) £20 is the maximum amount which may be disregarded under this paragraph, notwithstanding that, where the applicant has a partner, both the applicant and the applicant’s partner satisfy the requirements of this paragraph.
 
-**6.**[^key-a607a67fc4f74236564a63aa15bffc07] (1) Where—
+**6.**[^c-a607a67fc4f74236564a63aa15bffc07] (1) Where—
 
 - (a) the applicant (or if the applicant is a member of a couple, at least one member of that couple) is a person to whom sub-paragraph (5) applies;
 - (b) the Secretary of State is satisfied that that person is undertaking exempt work as defined in sub-paragraph (6); and
@@ -110,23 +110,23 @@ the amount specified in sub-paragraph (7) (“the specified amount”).
 
 (6) “Exempt work” (“*gwaith esempt*”) means work of the kind described in—
 
-- (a) regulation 45(2), (3) or (4) of the Employment and Support Allowance Regulations 2008 or regulation 39(1)(a), (b) or (c) of the Employment and Support Allowance Regulations 2013[^key-32933a62c81124e388582ed8dd221541]; or (as the case may be)
+- (a) regulation 45(2), (3) or (4) of the Employment and Support Allowance Regulations 2008 or regulation 39(1)(a), (b) or (c) of the Employment and Support Allowance Regulations 2013[^c-32933a62c81124e388582ed8dd221541]; or (as the case may be)
 - (b) regulation 17(2), (3) or (4) of the Social Security (Incapacity for Work) (General) Regulations 1995[^f00184],
 
 and, in determining for the purposes of this paragraph whether an applicant or a member of a couple is undertaking any type of exempt work, it is immaterial whether that person or that person’s partner is also undertaking other work.
 
 (7) The specified amount is the amount of money from time to time mentioned in any provision referred to in sub-paragraph (6) by virtue of which the work referred to in sub-paragraph (1) is exempt (or, where more than one such provision is relevant and those provisions mention different amounts of money, the highest of those amounts).
 
-**7.**[^key-5a5e603b174de002482b0471c713eb4d] Any amount or the balance of any amount which would fall to be disregarded under paragraph 18 or 19 of Schedule 4 had the applicant’s income which does not consist of earnings been sufficient to entitle the applicant to the full amount disregarded thereunder.
+**7.**[^c-5a5e603b174de002482b0471c713eb4d] Any amount or the balance of any amount which would fall to be disregarded under paragraph 18 or 19 of Schedule 4 had the applicant’s income which does not consist of earnings been sufficient to entitle the applicant to the full amount disregarded thereunder.
 
-**8.**[^key-ef698d68c4c4388f226c65c8c3f08597] Except where the applicant or the applicant’s partner qualifies for a £20 disregard under the preceding provisions of this Schedule—
+**8.**[^c-ef698d68c4c4388f226c65c8c3f08597] Except where the applicant or the applicant’s partner qualifies for a £20 disregard under the preceding provisions of this Schedule—
 
 - (a) £5 is to be disregarded if an applicant who has no partner has earnings;
 - (b) £10 is to be disregarded if an applicant who has a partner has earnings.
 
-**9.**[^key-a0f859127c512af4d34e087b6bf9f38c] Any earnings, other than earnings referred to in paragraph 11(9)(b) of Schedule 1 (calculation of weekly income: pensioners), derived from employment which ended before the day on which the applicant first satisfies the conditions for entitlement to a reduction under an authority’s scheme.
+**9.**[^c-a0f859127c512af4d34e087b6bf9f38c] Any earnings, other than earnings referred to in paragraph 11(9)(b) of Schedule 1 (calculation of weekly income: pensioners), derived from employment which ended before the day on which the applicant first satisfies the conditions for entitlement to a reduction under an authority’s scheme.
 
-**10.**[^key-be033e4e4300d7d0b9374d40ebe5e416] (1) In a case where the applicant is a person who satisfies at least one of the conditions set out in sub-paragraph (2), and the applicant’s net earnings equal or exceed the total of the amounts set out in sub-paragraph (3), the amount of the applicant’s earnings that falls to be disregarded under this Schedule is to be increased by £17.10.
+**10.**[^c-be033e4e4300d7d0b9374d40ebe5e416] (1) In a case where the applicant is a person who satisfies at least one of the conditions set out in sub-paragraph (2), and the applicant’s net earnings equal or exceed the total of the amounts set out in sub-paragraph (3), the amount of the applicant’s earnings that falls to be disregarded under this Schedule is to be increased by £17.10.
 
 (2) The conditions of this sub-paragraph are that—
 
@@ -147,15 +147,15 @@ and, in determining for the purposes of this paragraph whether an applicant or a
 
 (4) The provisions of regulation 10 (remunerative work) are to apply in determining whether or not a person works for on average not less than 30 hours per week, but as if the reference to 16 hours in sub-paragraph (1) of that regulation was a reference to 30 hours.
 
-**11.**[^key-ed464dacb6e5898a02b9cbdf473082bd] Where a payment of earnings is made in a currency other than sterling, any banking charge or commission payable in converting that payment into sterling.
+**11.**[^c-ed464dacb6e5898a02b9cbdf473082bd] Where a payment of earnings is made in a currency other than sterling, any banking charge or commission payable in converting that payment into sterling.
 
 ## Annotations
 
-[^key-b597f7234bfe72daf9b55f4bb2757ab3]: Commencement: Sch. 3 para. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-b597f7234bfe72daf9b55f4bb2757ab3]: Commencement: Sch. 3 para. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-3cbea0e20f9b148f41e993be1bb5a291]: Commencement: Sch. 3 para. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-3cbea0e20f9b148f41e993be1bb5a291]: Commencement: Sch. 3 para. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-00b63fcc4d44c904964f940b35d5a198]: Commencement: Sch. 3 para. 3 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-00b63fcc4d44c904964f940b35d5a198]: Commencement: Sch. 3 para. 3 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00174]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
@@ -163,9 +163,9 @@ and, in determining for the purposes of this paragraph whether an applicant or a
 
 [^f00176]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 
-[^key-ae14237fc5c97e65163e37102bb1d2f8]: Commencement: Sch. 3 para. 4 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-ae14237fc5c97e65163e37102bb1d2f8]: Commencement: Sch. 3 para. 4 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-9c0c5988bc4f9de42cdedb29e435e19d]: Commencement: Sch. 3 para. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-9c0c5988bc4f9de42cdedb29e435e19d]: Commencement: Sch. 3 para. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00177]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606).
 
@@ -173,30 +173,30 @@ and, in determining for the purposes of this paragraph whether an applicant or a
 
 [^f00179]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
 
-[^key-9fd236e941e2e94a423cba245c85168c]: Textual amendment: Sch. 3 para. 5(1)(b) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2016/50/regulation/7)
+[^c-9fd236e941e2e94a423cba245c85168c]: Textual amendment: Sch. 3 para. 5(1)(b) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2016/50/regulation/7)
 
 [^f00182]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-00b73f63fc9ea5d270c0784e9691268c]: Textual amendment: Words in Sch. 3 para. 5(1)(d)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2015/44/regulation/9/a)
+[^c-00b73f63fc9ea5d270c0784e9691268c]: Textual amendment: Words in Sch. 3 para. 5(1)(d)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2015/44/regulation/9/a)
 
-[^key-e11faef4ab6b651b2b15a0a1c79c8273]: Textual amendment: Word in Sch. 3 para. 5(1)(d)(ii) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2018/14/regulation/6)
+[^c-e11faef4ab6b651b2b15a0a1c79c8273]: Textual amendment: Word in Sch. 3 para. 5(1)(d)(ii) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2018/14/regulation/6)
 
-[^key-a607a67fc4f74236564a63aa15bffc07]: Commencement: Sch. 3 para. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-a607a67fc4f74236564a63aa15bffc07]: Commencement: Sch. 3 para. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00183]: Footnote: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556).
 
-[^key-32933a62c81124e388582ed8dd221541]: Textual amendment: Words in [Sch. 3 para. 6(6)(a)](https://www.legislation.gov.uk/wsi/2013/3029/schedule/3/paragraph/6/6/a) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2015/44/regulation/9/b)
+[^c-32933a62c81124e388582ed8dd221541]: Textual amendment: Words in [Sch. 3 para. 6(6)(a)](https://www.legislation.gov.uk/wsi/2013/3029/schedule/3/paragraph/6/6/a) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2015/44/regulation/9/b)
 
 [^f00184]: Footnote: [S.I. 1995/311](https://www.legislation.gov.uk/uksi/1995/311).
 
-[^key-5a5e603b174de002482b0471c713eb4d]: Commencement: Sch. 3 para. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-5a5e603b174de002482b0471c713eb4d]: Commencement: Sch. 3 para. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-ef698d68c4c4388f226c65c8c3f08597]: Commencement: Sch. 3 para. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-ef698d68c4c4388f226c65c8c3f08597]: Commencement: Sch. 3 para. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-a0f859127c512af4d34e087b6bf9f38c]: Commencement: Sch. 3 para. 9 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-a0f859127c512af4d34e087b6bf9f38c]: Commencement: Sch. 3 para. 9 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-be033e4e4300d7d0b9374d40ebe5e416]: Commencement: Sch. 3 para. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-be033e4e4300d7d0b9374d40ebe5e416]: Commencement: Sch. 3 para. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00185]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
 
-[^key-ed464dacb6e5898a02b9cbdf473082bd]: Commencement: Sch. 3 para. 11 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-ed464dacb6e5898a02b9cbdf473082bd]: Commencement: Sch. 3 para. 11 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

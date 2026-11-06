@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 6.5. Return of public notice to registrar[^key-94e2f6e6890ed5c11101d42d7fe09d6e]
+## 6.5. Return of public notice to registrar[^c-94e2f6e6890ed5c11101d42d7fe09d6e]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Once the period of 28 days required by rule 6.3(2)(a) or (3)(a), or such longer 
 
 ## Annotations
 
-[^key-94e2f6e6890ed5c11101d42d7fe09d6e]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/uksi/2015/1568/article/6.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-94e2f6e6890ed5c11101d42d7fe09d6e]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/uksi/2015/1568/article/6.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

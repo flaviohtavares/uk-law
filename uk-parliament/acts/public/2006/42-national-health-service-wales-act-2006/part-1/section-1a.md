@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1A. Welsh Ministers' duty to secure quality in health services[^key-a8067b6cff3e512bc563c41ddca07e6d]
+## 1A. Welsh Ministers' duty to secure quality in health services[^c-a8067b6cff3e512bc563c41ddca07e6d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8067b6cff3e512bc563c41ddca07e6d]: Textual amendment: S. 1A inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 2(2)](https://www.legislation.gov.uk/asc/2020/1/section/2/2), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/b)
+[^c-a8067b6cff3e512bc563c41ddca07e6d]: Textual amendment: S. 1A inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 2(2)](https://www.legislation.gov.uk/asc/2020/1/section/2/2), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/b)

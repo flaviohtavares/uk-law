@@ -32,7 +32,7 @@ summary: ''
 
 Electricity
 
-The Onshore Wind Generating Stations (Exemption) (England and Wales) (Amendment) Order 2016 (revoked)[^key-6abc393c357c5b47ba43e4809945fe1b]
+The Onshore Wind Generating Stations (Exemption) (England and Wales) (Amendment) Order 2016 (revoked)[^c-6abc393c357c5b47ba43e4809945fe1b]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 20th April 2016
 
-[^key-6abc393c357c5b47ba43e4809945fe1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6abc393c357c5b47ba43e4809945fe1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6abc393c357c5b47ba43e4809945fe1b]
+## 1. Citation, commencement and extent[^c-6abc393c357c5b47ba43e4809945fe1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Onshore Wind Generating Stations (Exemption) (England and Wales) Order 2016[^key-6abc393c357c5b47ba43e4809945fe1b]
+## 2. Amendment to the Onshore Wind Generating Stations (Exemption) (England and Wales) Order 2016[^c-6abc393c357c5b47ba43e4809945fe1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6abc393c357c5b47ba43e4809945fe1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6abc393c357c5b47ba43e4809945fe1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6abc393c357c5b47ba43e4809945fe1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6abc393c357c5b47ba43e4809945fe1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6abc393c357c5b47ba43e4809945fe1b]: Textual amendment: Order revoked (12.7.2016) by [The Onshore Wind Generating Stations (Exemption) (England and Wales) (Revocation) Order 2016 (S.I. 2016/605)](https://www.legislation.gov.uk/uksi/2016/605), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/605/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/605/article/3)
+[^c-6abc393c357c5b47ba43e4809945fe1b]: Textual amendment: Order revoked (12.7.2016) by [The Onshore Wind Generating Stations (Exemption) (England and Wales) (Revocation) Order 2016 (S.I. 2016/605)](https://www.legislation.gov.uk/uksi/2016/605), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/605/article/1/1), [3](https://www.legislation.gov.uk/uksi/2016/605/article/3)

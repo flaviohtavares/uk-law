@@ -33,8 +33,8 @@ and within the period specified in subsection (2) proceedings for possession of 
 
 (2) The period referred to in subsection (1) is the period beginning with the making of the compulsory purchase order and ending with—
 
-- (a) the final day of the period of three years beginning with[^key-8f6657c14cfbbb54a9c199216e302bf3] the date on which the order became operative, or
-- (b)[^key-ce0fefdbd03bba70655215ac06753f1d] any earlier date on which—
+- (a) the final day of the period of three years beginning with[^c-8f6657c14cfbbb54a9c199216e302bf3] the date on which the order became operative, or
+- (b)[^c-ce0fefdbd03bba70655215ac06753f1d] any earlier date on which—
   - (i) the Secretary of State notifies the authority that the Secretary of State declines to confirm the order,
   - (ii) the order (having been confirmed conditionally) expires by virtue of section 13BA(2)(b) of the Acquisition of Land Act 1981, or
   - (iii) the order is quashed by a court.
@@ -47,14 +47,14 @@ and within the period specified in subsection (2) proceedings for possession of 
 
 (6) If at any time—
 
-- (aa)[^key-4eca4418376dd7a877dc37346e6d61c6] the Secretary of State notifies the authority that the Secretary of State declines to confirm the compulsory purchase order,
+- (aa)[^c-4eca4418376dd7a877dc37346e6d61c6] the Secretary of State notifies the authority that the Secretary of State declines to confirm the compulsory purchase order,
 - (ab) the order (having been confirmed conditionally) expires by virtue of section 13BA(2)(b) of the Acquisition of Land Act 1981,
 - (ac) the order is quashed by a court, or
 - (b) the authority decide, whether before or after the order has been submitted to the Secretary of State for confirmation, not to proceed with it,
 
 the authority shall notify the person entitled to the benefit of the order for possession and that person shall be entitled, on applying to the court, to obtain an order terminating the period of suspension, but subject to the exercise of the same discretion in fixing the date on which possession is to be given as the court might exercise if it were then making an order for possession for the first time.
 
-(6A)[^key-c16805a0d8d0c015d726f6b0ff96c953] If the compulsory purchase order specifies a period longer than three years under section 13D of the Acquisition of Land Act 1981, the references in this section to the period of three years are to be read as references to the period specified in the order.
+(6A)[^c-c16805a0d8d0c015d726f6b0ff96c953] If the compulsory purchase order specifies a period longer than three years under section 13D of the Acquisition of Land Act 1981, the references in this section to the period of three years are to be read as references to the period specified in the order.
 
 (7) This section does not apply—
 
@@ -69,13 +69,13 @@ the authority shall notify the person entitled to the benefit of the order for p
 
 [^c15082251]: Textual amendment: Words substituted by [Local Government and Housing Act 1989 (c. 42, SIF 61)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/1), [Sch. 11 para. 85](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/85)
 
-[^key-8f6657c14cfbbb54a9c199216e302bf3]: Textual amendment: Words in s. 582(2)(a) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/4/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
+[^c-8f6657c14cfbbb54a9c199216e302bf3]: Textual amendment: Words in s. 582(2)(a) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/4/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
 
-[^key-ce0fefdbd03bba70655215ac06753f1d]: Textual amendment: S. 582(2)(b) substituted (18.2.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 18 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/18/paragraph/4/2/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
+[^c-ce0fefdbd03bba70655215ac06753f1d]: Textual amendment: S. 582(2)(b) substituted (18.2.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 18 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/18/paragraph/4/2/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
 
-[^key-4eca4418376dd7a877dc37346e6d61c6]: Textual amendment: S. 582(6)(aa)-(ac) substituted for s. 582(6)(a) (18.2.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 18 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/18/paragraph/4/2/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
+[^c-4eca4418376dd7a877dc37346e6d61c6]: Textual amendment: S. 582(6)(aa)-(ac) substituted for s. 582(6)(a) (18.2.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 18 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/18/paragraph/4/2/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
 
-[^key-c16805a0d8d0c015d726f6b0ff96c953]: Textual amendment: S. 582(6A) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/4/b), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
+[^c-c16805a0d8d0c015d726f6b0ff96c953]: Textual amendment: S. 582(6A) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 185(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/185/4/b), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/l) (with [reg. 6(1)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/1))
 
 [^c15082261]: Textual amendment: S. 582(7)(b) omitted (1.7.1991) by virtue of [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Sch](https://www.legislation.gov.uk/uksi/1991/724/schedule)edule PartI (with art. 12)
 

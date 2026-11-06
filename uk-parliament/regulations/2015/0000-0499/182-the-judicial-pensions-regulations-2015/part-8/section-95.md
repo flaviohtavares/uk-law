@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Meaning of dependant’s ill-health pension[^key-0dfc1fcb34199f0d43616576c2d18a2f]
+## 95. Meaning of dependant’s ill-health pension[^c-0dfc1fcb34199f0d43616576c2d18a2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A dependant’s ill-health pension is a pension payable on the death of a member
 
 ## Annotations
 
-[^key-0dfc1fcb34199f0d43616576c2d18a2f]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/2015/182/regulation/95) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-0dfc1fcb34199f0d43616576c2d18a2f]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/2015/182/regulation/95) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

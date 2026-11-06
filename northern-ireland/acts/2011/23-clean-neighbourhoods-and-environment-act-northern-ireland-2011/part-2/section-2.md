@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Exposing vehicles for sale on a road[^key-bb95e6a1c01cbbd96cb22870b5fe7654]
+## 2. Exposing vehicles for sale on a road[^c-bb95e6a1c01cbbd96cb22870b5fe7654]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb95e6a1c01cbbd96cb22870b5fe7654]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/23/section/2) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-bb95e6a1c01cbbd96cb22870b5fe7654]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/23/section/2) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

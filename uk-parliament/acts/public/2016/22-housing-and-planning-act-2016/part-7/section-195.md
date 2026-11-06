@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Power to make and timing of advance payment[^key-50e8185ac06f797d6048a7ec1609eb20]
+## 195. Power to make and timing of advance payment[^c-50e8185ac06f797d6048a7ec1609eb20]
 
 *Extent: E+W*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50e8185ac06f797d6048a7ec1609eb20]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2016/22/section/195) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/f) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-50e8185ac06f797d6048a7ec1609eb20]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2016/22/section/195) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/f) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))

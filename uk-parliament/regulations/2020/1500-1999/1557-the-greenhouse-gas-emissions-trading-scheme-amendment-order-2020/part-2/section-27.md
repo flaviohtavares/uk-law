@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Article 70 amended (right of appeal)[^key-ccd92dd58bc5b4983563f7c627d6e5b2]
+## 27. Article 70 amended (right of appeal)[^c-ccd92dd58bc5b4983563f7c627d6e5b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccd92dd58bc5b4983563f7c627d6e5b2]: Commencement: Art. 27 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-ccd92dd58bc5b4983563f7c627d6e5b2]: Commencement: Art. 27 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

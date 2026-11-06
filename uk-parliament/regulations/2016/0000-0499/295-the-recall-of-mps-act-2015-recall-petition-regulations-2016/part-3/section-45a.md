@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Court orders for production of date of birth lists: Northern Ireland[^key-fb21ab6b63acd740828d3dd4326266af]
+## 45A. Court orders for production of date of birth lists: Northern Ireland[^c-fb21ab6b63acd740828d3dd4326266af]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ as they apply to the third party to whom the list was first supplied.
 
 ## Annotations
 
-[^key-fb21ab6b63acd740828d3dd4326266af]: Textual amendment: Reg. 45A inserted (N.I.) (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/14/3)
+[^c-fb21ab6b63acd740828d3dd4326266af]: Textual amendment: Reg. 45A inserted (N.I.) (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/14/3)

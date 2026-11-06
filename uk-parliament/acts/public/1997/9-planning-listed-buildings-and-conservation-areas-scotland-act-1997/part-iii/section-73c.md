@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73C. Expressions relating to the Crown[^key-ab8e3284a309cf1f231fd1fe78e099aa]
+## 73C. Expressions relating to the Crown[^c-ab8e3284a309cf1f231fd1fe78e099aa]
 
 *Extent: S*
 
@@ -35,11 +35,11 @@ summary: ''
 (5) The appropriate authority in relation to any land is—
 
 - (a) in the case of land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, the Crown Estate Commissioners,
-- (b) in relation to any other land belonging to Her Majesty in right of the Crown, the government department having the management of the land or the relevant person[^key-345876b4215348d35bd05cb10ee6031d] ,
+- (b) in relation to any other land belonging to Her Majesty in right of the Crown, the government department having the management of the land or the relevant person[^c-345876b4215348d35bd05cb10ee6031d] ,
 - (c) in relation to land belonging to Her Majesty in right of Her private estates, a person appointed by Her Majesty in writing under the Royal Sign Manual or, if no such appointment is made, the Scottish Ministers,
 - (d) in the case of land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, the department.
 
-(5A)[^key-80126f8ba014d9cad72ad040c73c38c1] In subsection (5), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(5A)[^c-80126f8ba014d9cad72ad040c73c38c1] In subsection (5), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 (6) If any question arises as to what authority is the appropriate authority in relation to any land it must be referred to the Scottish Ministers, whose decision is final.
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ab8e3284a309cf1f231fd1fe78e099aa]: Textual amendment: S. 73C inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/7) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-ab8e3284a309cf1f231fd1fe78e099aa]: Textual amendment: S. 73C inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/7) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
-[^key-345876b4215348d35bd05cb10ee6031d]: Textual amendment: Words in [s. 73C(5)(b)](https://www.legislation.gov.uk/ukpga/1997/9/section/73C/5/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/28/3/a)
+[^c-345876b4215348d35bd05cb10ee6031d]: Textual amendment: Words in [s. 73C(5)(b)](https://www.legislation.gov.uk/ukpga/1997/9/section/73C/5/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/28/3/a)
 
-[^key-80126f8ba014d9cad72ad040c73c38c1]: Textual amendment: [S. 73C(5A)](https://www.legislation.gov.uk/ukpga/1997/9/section/73C/5A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/28/3/b)
+[^c-80126f8ba014d9cad72ad040c73c38c1]: Textual amendment: [S. 73C(5A)](https://www.legislation.gov.uk/ukpga/1997/9/section/73C/5A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/28/3/b)

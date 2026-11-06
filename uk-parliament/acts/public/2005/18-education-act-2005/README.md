@@ -38,7 +38,7 @@ An Act to make provision about the inspection of schools, child minding, day car
 
 ## Contents
 
-### Part 1 — School inspections and other inspections by school inspectors[^key-b6b10e5dbe394bfc8aee8082473263a5][^key-c64106a51230b826f6d8830716639377][^c19841511][^c19806881][^c19213961]
+### Part 1 — School inspections and other inspections by school inspectors[^c-b6b10e5dbe394bfc8aee8082473263a5][^c-c64106a51230b826f6d8830716639377][^c19841511][^c19806881][^c19213961]
 
 *Extent: E+W*
 
@@ -77,19 +77,19 @@ An Act to make provision about the inspection of schools, child minding, day car
 
 - [Section 12 — Interpretation of Chapter 1](part-1/section-12.md)
 
-#### Chapter 2 — Procedure for inspections under Chapter 1[^key-c64106a51230b826f6d8830716639377]
+#### Chapter 2 — Procedure for inspections under Chapter 1[^c-c64106a51230b826f6d8830716639377]
 
 ##### Inspections and reports: all schools
 
 - [Section 13 — Duties of Chief Inspector where school causes or has caused concern](part-1/section-13.md)
 
-##### Destination of reports and interim statements and measures required: maintained schools[^key-095844eb9612caf372c11f7189348503]
+##### Destination of reports and interim statements and measures required: maintained schools[^c-095844eb9612caf372c11f7189348503]
 
 - [Section 14 — Destination of reports: maintained schools](part-1/section-14.md)
 - [Section 14A — Destination of interim statements: maintained schools](part-1/section-14a.md)
 - [Section 15 — Measures to be taken by local authority](part-1/section-15.md)
 
-##### Destination of reports and interim statements and measures required: non-maintained schools[^key-8bab2d5469ad0eb61d0e1e7504715a87]
+##### Destination of reports and interim statements and measures required: non-maintained schools[^c-8bab2d5469ad0eb61d0e1e7504715a87]
 
 - [Section 16 — Destination of reports: non-maintained schools](part-1/section-16.md)
 - [Section 16A — Destination of interim statements: non-maintained schools](part-1/section-16a.md)
@@ -167,7 +167,7 @@ An Act to make provision about the inspection of schools, child minding, day car
 
 - [Section 44 — Categories of schools causing concern](part-1/section-44.md)
 
-##### Sixth forms requiring significant improvement in Wales[^key-50057023474852ace1a59148f3fef9ab]
+##### Sixth forms requiring significant improvement in Wales[^c-50057023474852ace1a59148f3fef9ab]
 
 - [Section 44A — Schools with sixth forms](part-1/section-44a.md)
 - [Section 44B — Inspection reports on schools with sixth forms requiring significant improvement](part-1/section-44b.md)
@@ -191,7 +191,7 @@ An Act to make provision about the inspection of schools, child minding, day car
 - [Section 49 — Procedure for inspections under section 48](part-1/section-49.md)
 - [Section 50 — Inspection of denominational education: Wales](part-1/section-50.md)
 
-##### local authority inspections[^key-94ed0295e29907765ea29be5dd3e5cb4]
+##### local authority inspections[^c-94ed0295e29907765ea29be5dd3e5cb4]
 
 - [Section 51 — Power of local authority to inspect maintained school for specific purpose](part-1/section-51.md)
 - [Section 52 — Provision of inspection services by local authorities in Wales](part-1/section-52.md)
@@ -254,7 +254,7 @@ An Act to make provision about the inspection of schools, child minding, day car
 - [Section 83 — Non-funding functions of Agency](part-3/section-83.md)
 - [Section 84 — Directions by Secretary of State and Assembly](part-3/section-84.md)
 
-#### Functions of Welsh Ministers with respect to the school workforce[^key-c450c03020d351b8a81e859b205754dc]
+#### Functions of Welsh Ministers with respect to the school workforce[^c-c450c03020d351b8a81e859b205754dc]
 
 - [Section 84A — General duty of Welsh Ministers with respect to teacher training](part-3/section-84a.md)
 - [Section 84B — Power to promote careers in school workforce in Wales](part-3/section-84b.md)
@@ -368,9 +368,9 @@ SCHEDULES
 
 [^c19256551]: Modification: Act modified (temp.) (1.4.2007.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 70](https://www.legislation.gov.uk/ukpga/2006/40/section/70), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(j)(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/j/bb)
 
-[^key-b6b10e5dbe394bfc8aee8082473263a5]: Modification: Pt. 1 applied in part (with modifications) (1.2.2008) by [Education (Pupil Referral Units) (Application of Enactments)(England) Regulations 2007 (S.I. 2007/2979)](https://www.legislation.gov.uk/uksi/2007/2979), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2979/regulation/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/21)
+[^c-b6b10e5dbe394bfc8aee8082473263a5]: Modification: Pt. 1 applied in part (with modifications) (1.2.2008) by [Education (Pupil Referral Units) (Application of Enactments)(England) Regulations 2007 (S.I. 2007/2979)](https://www.legislation.gov.uk/uksi/2007/2979), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2979/regulation/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/21)
 
-[^key-c64106a51230b826f6d8830716639377]: Modification: Pt. 1 applied (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 137(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/137/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1) (with [arts. 5-20](https://www.legislation.gov.uk/uksi/2010/1151/article/5))
+[^c-c64106a51230b826f6d8830716639377]: Modification: Pt. 1 applied (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 137(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/137/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1) (with [arts. 5-20](https://www.legislation.gov.uk/uksi/2010/1151/article/5))
 
 [^c19841511]: Modification: Pt. 1 applied in part (with modifications) (E.) (1.2.2008) by [The Education (Pupil Referral Units) (Application of Enactments) (England) Regulations 2007 (S.I. 2007/2979)](https://www.legislation.gov.uk/uksi/2007/2979), reg. 1(1), [reg. 3](https://www.legislation.gov.uk/uksi/2007/2979/regulation/3), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2007/2979/schedule/1/paragraph/21)
 
@@ -380,12 +380,12 @@ SCHEDULES
 
 [^c19248091]: Textual amendment: Ss. 11A-11C and preceding cross-heading inserted (28.3.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 160](https://www.legislation.gov.uk/ukpga/2006/40/section/160), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 3](https://www.legislation.gov.uk/uksi/2007/935/article/3)
 
-[^key-095844eb9612caf372c11f7189348503]: Textual amendment: Words in Pt. 1 Ch. 2 Crossheading inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-095844eb9612caf372c11f7189348503]: Textual amendment: Words in Pt. 1 Ch. 2 Crossheading inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-8bab2d5469ad0eb61d0e1e7504715a87]: Textual amendment: Words in Pt. 1 Ch. 2 Crossheading inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(5)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/5), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-8bab2d5469ad0eb61d0e1e7504715a87]: Textual amendment: Words in Pt. 1 Ch. 2 Crossheading inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(5)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/5), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-50057023474852ace1a59148f3fef9ab]: Textual amendment: Ss. 44A-44F and cross-heading inserted (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [ss. 77](https://www.legislation.gov.uk/anaw/2013/1/section/77), [100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(d)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/d)
+[^c-50057023474852ace1a59148f3fef9ab]: Textual amendment: Ss. 44A-44F and cross-heading inserted (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [ss. 77](https://www.legislation.gov.uk/anaw/2013/1/section/77), [100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(d)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/d)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
-[^key-c450c03020d351b8a81e859b205754dc]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/2005/18/section/84A) - [S. 84B](https://www.legislation.gov.uk/ukpga/2005/18/section/84B) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2011/21/section/15/5), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-c450c03020d351b8a81e859b205754dc]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/2005/18/section/84A) - [S. 84B](https://www.legislation.gov.uk/ukpga/2005/18/section/84B) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2011/21/section/15/5), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

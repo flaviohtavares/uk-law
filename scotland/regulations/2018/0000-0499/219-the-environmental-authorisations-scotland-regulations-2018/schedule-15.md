@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 15 — MANAGEMENT OF WASTE VEHICLES[^key-b66facb6cb21c95a2fe5c9179bf0c046]
+## SCHEDULE 15 — MANAGEMENT OF WASTE VEHICLES[^c-b66facb6cb21c95a2fe5c9179bf0c046]
 
 *Extent: S*
 
@@ -121,4 +121,4 @@ SEPA must ensure that an authorisation for the treatment of waste vehicles incl
 
 ## Annotations
 
-[^key-b66facb6cb21c95a2fe5c9179bf0c046]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/ssi/2018/219/schedule/15) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 6](https://www.legislation.gov.uk/ssi/2025/165/schedule/6) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b66facb6cb21c95a2fe5c9179bf0c046]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/ssi/2018/219/schedule/15) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 6](https://www.legislation.gov.uk/ssi/2025/165/schedule/6) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

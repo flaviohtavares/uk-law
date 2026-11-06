@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Compensation for damage by game etc.[^key-8e46843b5c339ecc557ffa4952a1e0b2]
+## 32. Compensation for damage by game etc.[^c-8e46843b5c339ecc557ffa4952a1e0b2]
 
 *Extent: S*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e46843b5c339ecc557ffa4952a1e0b2]: Commencement: S. 32 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-8e46843b5c339ecc557ffa4952a1e0b2]: Commencement: S. 32 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

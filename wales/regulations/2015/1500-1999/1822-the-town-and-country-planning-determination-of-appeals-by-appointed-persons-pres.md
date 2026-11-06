@@ -45,26 +45,26 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by section 333 of and paragraph 1 of Schedule 6 to the Town and Country Planning Act 1990[^f00001], section 93 of and paragraph 1 of Schedule 3 to the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00002] and section 40 of and paragraph 1 of the Schedule to the Planning (Hazardous Substances) Act 1990[^f00003], now exercisable by them[^f00004], make the following Regulations:
 
-## 1. Title, commencement and application[^key-f0bce2d3ebbce46a3b9d26d596e27acc]
+## 1. Title, commencement and application[^c-f0bce2d3ebbce46a3b9d26d596e27acc]
 
 (1) The title of these Regulations is the Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) (Wales) Regulations 2015 and they come into force on 16 December 2015.
 
 (2) These Regulations apply in relation to Wales.
 
-(3)[^key-c335369022b323a3e483a5d96f669b60] These Regulations form part of a code of law relating to the historic environment of Wales.
+(3)[^c-c335369022b323a3e483a5d96f669b60] These Regulations form part of a code of law relating to the historic environment of Wales.
 
-## 2. Interpretation[^key-e6da62a4bd224b525ab358dca681ec60]
+## 2. Interpretation[^c-e6da62a4bd224b525ab358dca681ec60]
 
 In these Regulations—
 
 - “the principal Act” (“*y brif Ddeddf*”) means the Town and Country Planning Act 1990;
 - “the Hazardous Substances Act” (“*y Ddeddf Sylweddau Peryglus*”) means the Planning (Hazardous Substances) Act 1990;
-- [^key-1598e33db52effe88cc1ddddaf91fc86]...
+- [^c-1598e33db52effe88cc1ddddaf91fc86]...
 - “the 1997 Regulations” (“*Rheoliadau 1997*”) means the Town and Country Planning (Determination of Appeals by Appointed Persons) (Prescribed Classes) Regulations 1997[^f00005];
 - “the 2009 Regulations” (“*Rheoliadau 2009*”) means the Town and Country Planning (Environmental Impact Assessment) (Undetermined Reviews of Old Mineral Permissions) (Wales) Regulations 2009[^f00006]; and
 - “statutory undertakers” (“*ymgymerwyr statudol*”) means statutory undertakers within the meaning of section 262 of the principal Act and other persons who, by virtue of subsection (3) or (6) of that section[^f00007], are deemed to be statutory undertakers for the purposes of section 266 of that Act.
 
-## 3. Classes of appeal for determination by appointed persons[^key-0fac1ae4c6add1e5e5f613f4345b2caa]
+## 3. Classes of appeal for determination by appointed persons[^c-0fac1ae4c6add1e5e5f613f4345b2caa]
 
 (1) Subject to regulation 4, the following classes of appeal are prescribed for the purposes of paragraph 1(1) of Schedule 6 to the principal Act as appeals to be determined by a person appointed by the Welsh Ministers—
 
@@ -75,11 +75,11 @@ In these Regulations—
 - (e) appeals under paragraph 11(1) of Schedule 13 and paragraph 9(1) of Schedule 14 to the Environment Act 1995[^f00009] (appeals against the determination of conditions to be attached to mineral permissions), including appeals under those provisions as applied by regulation 45 of the 2009 Regulations (appeals against non-determination); and
 - (f) appeals under paragraph 5 of Schedule 2 to the Planning and Compensation Act 1991[^f00010] (appeals relating to old mining permissions), including appeals under that provision as applied by regulation 45 of the 2009 Regulations.
 
-(2)[^key-e12b40f42a30a9bf8437d1da64ac06c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e12b40f42a30a9bf8437d1da64ac06c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Appeals under section 21 of the Hazardous Substances Act (appeals against decisions or failure to take decisions relating to hazardous substances) are prescribed for the purposes of paragraph 1(1) of the Schedule to the Hazardous Substances Act as appeals to be determined by a person appointed by the Welsh Ministers.
 
-## 4. Classes of appeal reserved for determination by the Welsh Ministers[^key-8bc1bd1bf5dcf49d1f1681af8d5cceb5]
+## 4. Classes of appeal reserved for determination by the Welsh Ministers[^c-8bc1bd1bf5dcf49d1f1681af8d5cceb5]
 
 (1) Regulation 3 does not apply to the following classes of appeal—
 
@@ -87,12 +87,12 @@ In these Regulations—
 - (b) appeals under section 174 of the principal Act by statutory undertakers where the breach of planning control alleged in the enforcement notice consists of the carrying out of development on land to which section 266 of that Act applies, or failure to comply with a condition or limitation on a grant of planning permission for development of any such land; or
 - (c) appeals in relation to which the Welsh Ministers or the appropriate Minister have given a direction for section 266 of the principal Act to have effect (and the direction has not been revoked).
 
-## 5. Publicity for directions[^key-6ebb66a86d1d6f3275d5ef35264445ed]
+## 5. Publicity for directions[^c-6ebb66a86d1d6f3275d5ef35264445ed]
 
 (1) If a direction is made under—
 
 - (a) paragraph 1(2) of Schedule 6 to the principal Act;
-- (b)[^key-438d58c3abceb7242156f1bc9ebe9208] section 173(3)(b) of the Historic Environment (Wales) Act 2023; or
+- (b)[^c-438d58c3abceb7242156f1bc9ebe9208] section 173(3)(b) of the Historic Environment (Wales) Act 2023; or
 - (c) paragraph 1(2) of the Schedule to the Hazardous Substances Act,
 
 the Welsh Ministers may require the local planning authority for every area in respect of which the direction has effect to publish notice of the direction in at least one newspaper circulating in the area.
@@ -102,7 +102,7 @@ the Welsh Ministers may require the local planning authority for every area in r
 - (a) a concise statement of the effect of the direction; and
 - (b) details of where a copy of the direction may be inspected.
 
-## 6. Revocation and saving[^key-e843de3675baaad66bbcf360dd4dd11f]
+## 6. Revocation and saving[^c-e843de3675baaad66bbcf360dd4dd11f]
 
 (1) The 1997 Regulations are revoked except in relation to appeals in respect of which notice was given before these Regulations come into force.
 
@@ -140,13 +140,13 @@ The Regulatory Impact Assessment applicable to these Regulations is obtainable f
 
 [^f00004]: Footnote: The relevant functions of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); see the entry in Schedule 1 for the Town and Country Planning Act 1990 and see section 118(3) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) . The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of, and paragraphs 30 and 32 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-f0bce2d3ebbce46a3b9d26d596e27acc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
+[^c-f0bce2d3ebbce46a3b9d26d596e27acc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
 
-[^key-c335369022b323a3e483a5d96f669b60]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/3) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [71](https://www.legislation.gov.uk/wsi/2024/924/regulation/71)
+[^c-c335369022b323a3e483a5d96f669b60]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/3) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [71](https://www.legislation.gov.uk/wsi/2024/924/regulation/71)
 
-[^key-e6da62a4bd224b525ab358dca681ec60]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1822/regulation/2) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
+[^c-e6da62a4bd224b525ab358dca681ec60]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1822/regulation/2) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
 
-[^key-1598e33db52effe88cc1ddddaf91fc86]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2015/1822/regulation/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [72](https://www.legislation.gov.uk/wsi/2024/924/regulation/72)
+[^c-1598e33db52effe88cc1ddddaf91fc86]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2015/1822/regulation/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [72](https://www.legislation.gov.uk/wsi/2024/924/regulation/72)
 
 [^f00005]: Footnote: [S.I. 1997/420](https://www.legislation.gov.uk/uksi/1997/420).
 
@@ -154,7 +154,7 @@ The Regulatory Impact Assessment applicable to these Regulations is obtainable f
 
 [^f00007]: Footnote: Section 262 was amended by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), section 76(7) of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) and section 37 of and paragraph 6(1), (2), (3) and (4) of Schedule 5 to the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), sections 31 and 84, paragraph 22 of Schedule 6 and Part II of Schedule 19 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-0fac1ae4c6add1e5e5f613f4345b2caa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1822/regulation/3) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
+[^c-0fac1ae4c6add1e5e5f613f4345b2caa]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1822/regulation/3) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1992/666](https://www.legislation.gov.uk/uksi/1992/666).
 
@@ -162,14 +162,14 @@ The Regulatory Impact Assessment applicable to these Regulations is obtainable f
 
 [^f00010]: Footnote: [1991 c. 34](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-e12b40f42a30a9bf8437d1da64ac06c4]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/3/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [73](https://www.legislation.gov.uk/wsi/2024/924/regulation/73)
+[^c-e12b40f42a30a9bf8437d1da64ac06c4]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/3/2) omitted (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [73](https://www.legislation.gov.uk/wsi/2024/924/regulation/73)
 
-[^key-8bc1bd1bf5dcf49d1f1681af8d5cceb5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1822/regulation/4) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
+[^c-8bc1bd1bf5dcf49d1f1681af8d5cceb5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1822/regulation/4) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
 
 [^f00011]: Footnote: Section 266 of the principal Act was amended by S.I. \[*insert Section 203 Order number when made*\] and sections 32 and 84 of and paragraph 40 of Schedule 7 and Part I of Schedule 19 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-6ebb66a86d1d6f3275d5ef35264445ed]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1822/regulation/5) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
+[^c-6ebb66a86d1d6f3275d5ef35264445ed]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1822/regulation/5) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
 
-[^key-438d58c3abceb7242156f1bc9ebe9208]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/5/1/b) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [74](https://www.legislation.gov.uk/wsi/2024/924/regulation/74)
+[^c-438d58c3abceb7242156f1bc9ebe9208]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/5/1/b) substituted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [74](https://www.legislation.gov.uk/wsi/2024/924/regulation/74)
 
-[^key-e843de3675baaad66bbcf360dd4dd11f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1822/regulation/6) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)
+[^c-e843de3675baaad66bbcf360dd4dd11f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1822/regulation/6) in force at 16.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1822/regulation/1/1)

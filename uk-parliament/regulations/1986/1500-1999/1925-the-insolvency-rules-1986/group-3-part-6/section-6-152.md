@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.152. Obligations of trustee to committee[^key-d50d1934afc2efeba2d1c8992fcd3cd1]
+## 6.152. Obligations of trustee to committee[^c-d50d1934afc2efeba2d1c8992fcd3cd1]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d50d1934afc2efeba2d1c8992fcd3cd1]: Commencement: [Rule 6.152](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.152) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d50d1934afc2efeba2d1c8992fcd3cd1]: Commencement: [Rule 6.152](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.152) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

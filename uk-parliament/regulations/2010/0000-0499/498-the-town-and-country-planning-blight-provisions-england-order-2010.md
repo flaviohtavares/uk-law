@@ -34,7 +34,7 @@ Acquisition Of Land, England
 
 Town And Country Planning, England
 
-The Town and Country Planning (Blight Provisions) (England) Order 2010 (revoked)[^key-4775ba6380596fc2300625e7af760f9c]
+The Town and Country Planning (Blight Provisions) (England) Order 2010 (revoked)[^c-4775ba6380596fc2300625e7af760f9c]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st April 2010
 
-[^key-4775ba6380596fc2300625e7af760f9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4775ba6380596fc2300625e7af760f9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-4775ba6380596fc2300625e7af760f9c]
+## 1. Citation, commencement and application[^c-4775ba6380596fc2300625e7af760f9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Limit of annual value[^key-4775ba6380596fc2300625e7af760f9c]
+## 2. Limit of annual value[^c-4775ba6380596fc2300625e7af760f9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-4775ba6380596fc2300625e7af760f9c]
+## 3. Revocation[^c-4775ba6380596fc2300625e7af760f9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4775ba6380596fc2300625e7af760f9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4775ba6380596fc2300625e7af760f9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4775ba6380596fc2300625e7af760f9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4775ba6380596fc2300625e7af760f9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4775ba6380596fc2300625e7af760f9c]: Textual amendment: Order revoked (21.4.2017) by [The Town and Country Planning (Blight Provisions) (England) Order 2017 (S.I. 2017/472)](https://www.legislation.gov.uk/uksi/2017/472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/472/article/1/1), [3](https://www.legislation.gov.uk/uksi/2017/472/article/3)
+[^c-4775ba6380596fc2300625e7af760f9c]: Textual amendment: Order revoked (21.4.2017) by [The Town and Country Planning (Blight Provisions) (England) Order 2017 (S.I. 2017/472)](https://www.legislation.gov.uk/uksi/2017/472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/472/article/1/1), [3](https://www.legislation.gov.uk/uksi/2017/472/article/3)

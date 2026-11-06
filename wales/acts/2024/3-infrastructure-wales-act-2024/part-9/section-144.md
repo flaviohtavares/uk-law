@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Power to make consequential and transitional provision etc.[^key-f555a99a4392ead4c132f10e83b25cbd]
+## 144. Power to make consequential and transitional provision etc.[^c-f555a99a4392ead4c132f10e83b25cbd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f555a99a4392ead4c132f10e83b25cbd]: Commencement: S. 144 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-f555a99a4392ead4c132f10e83b25cbd]: Commencement: S. 144 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

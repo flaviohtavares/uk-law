@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Requirement to provide dispensing services[^key-4df1a8263850f699ce2dafe40fbebc7c]
+## 46. Requirement to provide dispensing services[^c-4df1a8263850f699ce2dafe40fbebc7c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ the Local Health Board may give notice to the general medical services contracto
 
 ## Annotations
 
-[^key-4df1a8263850f699ce2dafe40fbebc7c]: Commencement: Art. 46 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-4df1a8263850f699ce2dafe40fbebc7c]: Commencement: Art. 46 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

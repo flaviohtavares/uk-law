@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76P. Taking steps[^key-c680eaaf4c9f283a1b8dddd058ba528d]
+## 76P. Taking steps[^c-c680eaaf4c9f283a1b8dddd058ba528d]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c680eaaf4c9f283a1b8dddd058ba528d]: Textual amendment: Pt. 6B inserted (10.6.2013 for specified purposes, 21.12.2013 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 30(2)](https://www.legislation.gov.uk/asp/2013/5/section/30/2), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule), S.S.I. 2013/342, art. 2(b)
+[^c-c680eaaf4c9f283a1b8dddd058ba528d]: Textual amendment: Pt. 6B inserted (10.6.2013 for specified purposes, 21.12.2013 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 30(2)](https://www.legislation.gov.uk/asp/2013/5/section/30/2), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule), S.S.I. 2013/342, art. 2(b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Notification requirements: travel outside United Kingdom[^key-f04dff346ddb45fcb9bafb0a41c2a83b]
+## 111. Notification requirements: travel outside United Kingdom[^c-f04dff346ddb45fcb9bafb0a41c2a83b]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f04dff346ddb45fcb9bafb0a41c2a83b]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2008/4/section/111) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/n)
+[^c-f04dff346ddb45fcb9bafb0a41c2a83b]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2008/4/section/111) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/n)

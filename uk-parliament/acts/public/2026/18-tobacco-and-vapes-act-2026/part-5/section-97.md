@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Substances released into human body and emissions[^key-19c6601cd34bbaf0cb9de68a06cc7835]
+## 97. Substances released into human body and emissions[^c-19c6601cd34bbaf0cb9de68a06cc7835]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19c6601cd34bbaf0cb9de68a06cc7835]: Commencement: S. 97 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-19c6601cd34bbaf0cb9de68a06cc7835]: Commencement: S. 97 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

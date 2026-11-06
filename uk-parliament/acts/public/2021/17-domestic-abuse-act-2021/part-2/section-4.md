@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Appointment of Commissioner[^key-e9cb672820f03be0953788112b860966]
+## 4. Appointment of Commissioner[^c-e9cb672820f03be0953788112b860966]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9cb672820f03be0953788112b860966]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/17/section/4) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-e9cb672820f03be0953788112b860966]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/17/section/4) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2.29A. Stay under the Council Regulation[^key-61618fe09ea20fcd2c358c832f5298e9]
+## 2.29A. Stay under the Council Regulation[^c-61618fe09ea20fcd2c358c832f5298e9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61618fe09ea20fcd2c358c832f5298e9]: Textual amendment: [Rule 2.29A](https://www.legislation.gov.uk/nisr/1996/322/rule/2.29A) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2019/235/article/2/3) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61618fe09ea20fcd2c358c832f5298e9]: Textual amendment: [Rule 2.29A](https://www.legislation.gov.uk/nisr/1996/322/rule/2.29A) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2019/235/article/2/3) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -26,7 +26,7 @@ Section 47.
 
 **Not yet in force.**
 
-**1.**[^key-d5711da37693ae7e32158bb2815e485e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d5711da37693ae7e32158bb2815e485e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -143,7 +143,7 @@ Section 47.
 
 **Not yet in force.**
 
-**19.**[^key-d5711da37693ae7e32158bb2815e485e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-d5711da37693ae7e32158bb2815e485e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Pensions (Northern Ireland) Order 2005 (NI 1)
 
@@ -172,7 +172,7 @@ Section 47.
 
 **Not yet in force.**
 
-**23.**[^key-1fd8ba6ef53e8973dd0c40cc2a3f8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-1fd8ba6ef53e8973dd0c40cc2a3f8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -208,7 +208,7 @@ Section 47.
 
 **Not yet in force.**
 
-**27.**[^key-1fd8ba6ef53e8973dd0c40cc2a3f8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-1fd8ba6ef53e8973dd0c40cc2a3f8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.** (1) Article 85 (codes of practice) is amended as follows.
 
@@ -283,7 +283,7 @@ Section 47.
 
 **Not yet in force.**
 
-**34.**[^key-0f44c1dd3f9d36a2e1f25bcbb1e78d81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-0f44c1dd3f9d36a2e1f25bcbb1e78d81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)
 
@@ -367,12 +367,12 @@ Section 47.
 
 **Not yet in force.**
 
-**47.**[^key-0f44c1dd3f9d36a2e1f25bcbb1e78d81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-0f44c1dd3f9d36a2e1f25bcbb1e78d81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d5711da37693ae7e32158bb2815e485e]: Textual amendment: [Sch. 2 paras. 1-19](https://www.legislation.gov.uk/nia/2016/1/schedule/2/paragraph/1) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(e)(i)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/e/i); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)
+[^c-d5711da37693ae7e32158bb2815e485e]: Textual amendment: [Sch. 2 paras. 1-19](https://www.legislation.gov.uk/nia/2016/1/schedule/2/paragraph/1) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(e)(i)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/e/i); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)
 
-[^key-1fd8ba6ef53e8973dd0c40cc2a3f8bcd]: Textual amendment: [Sch. 2 paras. 23-27](https://www.legislation.gov.uk/nia/2016/1/schedule/2/paragraph/23) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(e)(iii)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/e/iii); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)
+[^c-1fd8ba6ef53e8973dd0c40cc2a3f8bcd]: Textual amendment: [Sch. 2 paras. 23-27](https://www.legislation.gov.uk/nia/2016/1/schedule/2/paragraph/23) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(e)(iii)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/e/iii); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)
 
-[^key-0f44c1dd3f9d36a2e1f25bcbb1e78d81]: Textual amendment: [Sch. 2 paras. 34-47](https://www.legislation.gov.uk/nia/2016/1/schedule/2/paragraph/34) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(e)(vi)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/e/vi); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)
+[^c-0f44c1dd3f9d36a2e1f25bcbb1e78d81]: Textual amendment: [Sch. 2 paras. 34-47](https://www.legislation.gov.uk/nia/2016/1/schedule/2/paragraph/34) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(e)(vi)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/e/vi); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Further powers of Executives[^key-fbdbc2d3a0731b1b5763a12d14ff5a23]
+## 10A. Further powers of Executives[^c-fbdbc2d3a0731b1b5763a12d14ff5a23]
 
 *Extent: E+W*
 
-(1) The Executive of an integrated transport area , combined authority area or combined county authority area[^key-c4670fe3db5b9ff6ec4a5f93569944b2] in England may do—
+(1) The Executive of an integrated transport area , combined authority area or combined county authority area[^c-c4670fe3db5b9ff6ec4a5f93569944b2] in England may do—
 
 - (a) anything the Executive considers appropriate for the purposes of the carrying-out of any of the Executive's functions (the Executive's “functional purposes”),
 - (b) anything the Executive considers appropriate for purposes incidental to the Executive's functional purposes,
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fbdbc2d3a0731b1b5763a12d14ff5a23]: Textual amendment: [Ss. 10A-10C](https://www.legislation.gov.uk/ukpga/1968/73/section/10A) inserted (E.W.) (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/12/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-fbdbc2d3a0731b1b5763a12d14ff5a23]: Textual amendment: [Ss. 10A-10C](https://www.legislation.gov.uk/ukpga/1968/73/section/10A) inserted (E.W.) (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/12/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
 
-[^key-c4670fe3db5b9ff6ec4a5f93569944b2]: Textual amendment: Words in [s. 10A(1)](https://www.legislation.gov.uk/ukpga/1968/73/section/10A/1) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/11) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-c4670fe3db5b9ff6ec4a5f93569944b2]: Textual amendment: Words in [s. 10A(1)](https://www.legislation.gov.uk/ukpga/1968/73/section/10A/1) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/11) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

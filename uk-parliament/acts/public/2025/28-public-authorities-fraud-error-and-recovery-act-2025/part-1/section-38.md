@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Regulations[^key-089f8c8a4efb37bc692f79d98182698e][^key-170a95132f54664f1d4ca728e3becf2b]
+## 38. Regulations[^c-089f8c8a4efb37bc692f79d98182698e][^c-170a95132f54664f1d4ca728e3becf2b]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-089f8c8a4efb37bc692f79d98182698e]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-089f8c8a4efb37bc692f79d98182698e]: Commencement: S. 38 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-170a95132f54664f1d4ca728e3becf2b]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/28/section/38) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-170a95132f54664f1d4ca728e3becf2b]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/28/section/38) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

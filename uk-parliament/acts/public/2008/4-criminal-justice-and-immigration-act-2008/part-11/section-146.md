@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Convention against human trafficking[^key-683c94a58188c514e3ac0b1de9d3df01]
+## 146. Convention against human trafficking[^c-683c94a58188c514e3ac0b1de9d3df01]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ After section 33(6) of the UK Borders Act 2007 (automatic deportation: exception
 
 ## Annotations
 
-[^key-683c94a58188c514e3ac0b1de9d3df01]: Commencement: S. 146 in force at 1.4.2009 by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/d)
+[^c-683c94a58188c514e3ac0b1de9d3df01]: Commencement: S. 146 in force at 1.4.2009 by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/d)

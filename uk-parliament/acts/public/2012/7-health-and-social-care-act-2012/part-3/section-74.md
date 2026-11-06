@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a5ede1c499746ae08515f661bca28368] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-9cd8fd2830e6ba45af1767cf01756d93] In section 168 of that Act (regulated markets)—
+(7)[^c-9cd8fd2830e6ba45af1767cf01756d93] In section 168 of that Act (regulated markets)—
 
 - (a) in subsection (3) (meaning of “relevant action”), after paragraph (o) insert—
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5ede1c499746ae08515f661bca28368]: Textual amendment: [S. 74(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/74/1) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/12/paragraph/5); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-a5ede1c499746ae08515f661bca28368]: Textual amendment: [S. 74(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/74/1) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2022/31/schedule/12/paragraph/5); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-9cd8fd2830e6ba45af1767cf01756d93]: Commencement: S. 74(7) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-9cd8fd2830e6ba45af1767cf01756d93]: Commencement: S. 74(7) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

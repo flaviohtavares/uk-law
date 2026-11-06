@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Rounding of fractions[^key-d84e3135d92474feb2cedf6cb4e0c610][^key-96011ba74bcfc03f14c5683dbccdcdf2]
+## 27. Rounding of fractions[^c-d84e3135d92474feb2cedf6cb4e0c610][^c-96011ba74bcfc03f14c5683dbccdcdf2]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Where any calculation under this Part results in a fraction of a penny that frac
 
 ## Annotations
 
-[^key-d84e3135d92474feb2cedf6cb4e0c610]: Commencement: Reg. 27 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-d84e3135d92474feb2cedf6cb4e0c610]: Commencement: Reg. 27 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
 
-[^key-96011ba74bcfc03f14c5683dbccdcdf2]: Textual amendment: Reg. 27 substituted (11.4.1988) by [The Income Support (General) Amendment Regulations 1988 (S.I. 1988/663)](https://www.legislation.gov.uk/uksi/1988/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/1988/663/regulation/13)
+[^c-96011ba74bcfc03f14c5683dbccdcdf2]: Textual amendment: Reg. 27 substituted (11.4.1988) by [The Income Support (General) Amendment Regulations 1988 (S.I. 1988/663)](https://www.legislation.gov.uk/uksi/1988/663), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/663/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/1988/663/regulation/13)

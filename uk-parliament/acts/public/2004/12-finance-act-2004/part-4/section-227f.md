@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227F. Pension input periods in which rights are first flexibly accessed[^key-537d03a67bd5d346f54e3df8660b9aeb]
+## 227F. Pension input periods in which rights are first flexibly accessed[^c-537d03a67bd5d346f54e3df8660b9aeb]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) Subject to subsection (7), subsections (2) to (6) apply if, for an arrangement mentioned in section 227C(1), the pension input period ending in the tax year contains the day on which the individual first flexibly accesses pension rights (whether or not that day is in the tax year).
 
@@ -67,7 +67,7 @@ is required to be included in the defined-benefit input sub-total calculated und
   - (b) ending at the end of the pension input period mentioned in subsection (1), and
 
   PIP is the number of days in that pension input period, and
-- (b) input amount AA or[^key-4710961a8bfc6a8650b4853a3e0b8d19] B mentioned in section 237 is for the purposes of sections 227C(1)(b) and 227D(2) treated as being the amount for the arrangement that would be arrived at under section 233 for a pension input period—
+- (b) input amount AA or[^c-4710961a8bfc6a8650b4853a3e0b8d19] B mentioned in section 237 is for the purposes of sections 227C(1)(b) and 227D(2) treated as being the amount for the arrangement that would be arrived at under section 233 for a pension input period—
   - (i) beginning on the day after that on which the individual first flexibly accesses pension rights, and
   - (ii) ending at the end of the pension input period mentioned in subsection (1).
 
@@ -82,8 +82,8 @@ is required to be included in the defined-benefit input sub-total calculated und
 
 ## Annotations
 
-[^key-537d03a67bd5d346f54e3df8660b9aeb]: Textual amendment: Ss. 227B-227G inserted (17.12.2014) (with effect in accordance with Sch. 1 para. 65(2) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 65(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/65/1)
+[^c-537d03a67bd5d346f54e3df8660b9aeb]: Textual amendment: Ss. 227B-227G inserted (17.12.2014) (with effect in accordance with Sch. 1 para. 65(2) of the amending Act) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 65(1)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/65/1)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
 
-[^key-4710961a8bfc6a8650b4853a3e0b8d19]: Textual amendment: Words in [s. 227F(5)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/227F/5/b) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 16(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/16/2), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-4710961a8bfc6a8650b4853a3e0b8d19]: Textual amendment: Words in [s. 227F(5)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/227F/5/b) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 16(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/16/2), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)

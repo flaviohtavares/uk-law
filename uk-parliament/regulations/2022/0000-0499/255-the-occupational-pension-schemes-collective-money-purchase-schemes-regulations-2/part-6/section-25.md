@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Triggering events: notification requirements[^key-0e9a4ceaa3729c51bf388dc73390223c]
+## 25. Triggering events: notification requirements[^c-0e9a4ceaa3729c51bf388dc73390223c]
 
 *Extent: E+W+S*
 
 (1) For the purposes of section 33(4)(b) of the Act (notification of triggering events), a trustee who is required to give a required notification under section 33(3) of the Act must notify each employer and any relevant former employer of the following matters—
 
-- (a)[^key-01b6f977e4bd965c5c0cb5f675000717] that, unless not required to submit an implementation strategy by virtue of section 39(2)(a) or (3)(a), the trustees—
+- (a)[^c-01b6f977e4bd965c5c0cb5f675000717] that, unless not required to submit an implementation strategy by virtue of section 39(2)(a) or (3)(a), the trustees—
   - (i) have submitted an implementation strategy to the Regulator and the date on which they did so, or (as the case may be) will submit an implementation strategy to the Regulator before the end of the period specified in regulation 26; and
   - (ii) will make the implementation strategy available to each employer and any relevant former employer after it has been approved by the Regulator;
 - (b) the timetable for future communications with each employer and any relevant former employer.
@@ -49,6 +49,6 @@ beginning with the date specified in paragraph (3).
 
 ## Annotations
 
-[^key-0e9a4ceaa3729c51bf388dc73390223c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2022/255/regulation/25) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-0e9a4ceaa3729c51bf388dc73390223c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2022/255/regulation/25) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-01b6f977e4bd965c5c0cb5f675000717]: Textual amendment: [Reg. 25(1)(a)](https://www.legislation.gov.uk/uksi/2022/255/regulation/25/1/a) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [72](https://www.legislation.gov.uk/uksi/2025/1313/regulation/72)
+[^c-01b6f977e4bd965c5c0cb5f675000717]: Textual amendment: [Reg. 25(1)(a)](https://www.legislation.gov.uk/uksi/2022/255/regulation/25/1/a) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [72](https://www.legislation.gov.uk/uksi/2025/1313/regulation/72)

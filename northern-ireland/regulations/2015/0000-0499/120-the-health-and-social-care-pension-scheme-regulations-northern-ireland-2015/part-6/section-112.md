@@ -26,10 +26,10 @@ summary: ''
 
 - (a) the surviving spouse,
 - (b) the surviving civil partner, or
-- (c)[^key-41227828e36235ef7027902732fe1da9] a surviving scheme partner.
+- (c)[^c-41227828e36235ef7027902732fe1da9] a surviving scheme partner.
 
 (3) For the rate at which the pension is payable, see regulations 114 to 118.
 
 ## Annotations
 
-[^key-41227828e36235ef7027902732fe1da9]: Textual amendment: [Reg. 112(2)(c)](https://www.legislation.gov.uk/nisr/2015/120/regulation/112/2/c) substituted (with effect in accordance with reg. 1(8) of the amending Rule) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [60](https://www.legislation.gov.uk/nisr/2022/196/regulation/60)
+[^c-41227828e36235ef7027902732fe1da9]: Textual amendment: [Reg. 112(2)(c)](https://www.legislation.gov.uk/nisr/2015/120/regulation/112/2/c) substituted (with effect in accordance with reg. 1(8) of the amending Rule) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [60](https://www.legislation.gov.uk/nisr/2022/196/regulation/60)

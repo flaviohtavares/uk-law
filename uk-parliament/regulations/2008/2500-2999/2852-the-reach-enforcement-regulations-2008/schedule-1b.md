@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1B — Table of REACH provisions relating to protected NI imports[^key-8febe55d260fff47ffd0c0af04ff6852]
+## SCHEDULE 1B — Table of REACH provisions relating to protected NI imports[^c-8febe55d260fff47ffd0c0af04ff6852]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-8febe55d260fff47ffd0c0af04ff6852]: Textual amendment: Sch. 1B inserted (E.W.S.) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 1(6)](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/1/6) (as inserted by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(5)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8febe55d260fff47ffd0c0af04ff6852]: Textual amendment: Sch. 1B inserted (E.W.S.) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 1(6)](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/1/6) (as inserted by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [10(5)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52ZA. Central rating lists for Wales[^key-14ffd01c0092107af17699646cc281c2]
+## 52ZA. Central rating lists for Wales[^c-14ffd01c0092107af17699646cc281c2]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14ffd01c0092107af17699646cc281c2]: Textual amendment: [S. 52ZA](https://www.legislation.gov.uk/ukpga/1988/41/section/52ZA) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 3(3)](https://www.legislation.gov.uk/asc/2024/6/section/3/3), [23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-14ffd01c0092107af17699646cc281c2]: Textual amendment: [S. 52ZA](https://www.legislation.gov.uk/ukpga/1988/41/section/52ZA) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 3(3)](https://www.legislation.gov.uk/asc/2024/6/section/3/3), [23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)

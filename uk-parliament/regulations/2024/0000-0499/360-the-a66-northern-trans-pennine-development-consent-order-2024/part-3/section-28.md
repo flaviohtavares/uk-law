@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Rights over or under streets[^key-fc22d0651e0b5e655ca42616b381ceee]
+## 28. Rights over or under streets[^c-fc22d0651e0b5e655ca42616b381ceee]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc22d0651e0b5e655ca42616b381ceee]: Commencement: Art. 28 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-fc22d0651e0b5e655ca42616b381ceee]: Commencement: Art. 28 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

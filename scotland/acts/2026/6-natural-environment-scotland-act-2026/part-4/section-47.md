@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Licensing: protection of mountain hares[^key-f19c234425ef274023444ba898c95db2][^key-ba0fbd456048ab0f1077d6205b8c051b]
+## 47. Licensing: protection of mountain hares[^c-f19c234425ef274023444ba898c95db2][^c-ba0fbd456048ab0f1077d6205b8c051b]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f19c234425ef274023444ba898c95db2]: Commencement: S. 47 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-f19c234425ef274023444ba898c95db2]: Commencement: S. 47 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-ba0fbd456048ab0f1077d6205b8c051b]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2026/6/section/47) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z2)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z2)
+[^c-ba0fbd456048ab0f1077d6205b8c051b]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2026/6/section/47) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z2)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z2)

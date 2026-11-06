@@ -29,7 +29,7 @@ summary: ''
 - “**authorised**” means authorised by the special Act;
 - “**consumer**” means a person supplied, or about to be supplied, with water by the undertakers;
 - “**factory**” means factory within the meaning of the [^c13468691]Factories Act 1961;
-- “[^key-6fe27250f33ca410de08bd11222dc2fc]**prescribed**” means prescribed by the special Act;
+- “[^c-6fe27250f33ca410de08bd11222dc2fc]**prescribed**” means prescribed by the special Act;
 - “**special Act**” means the Act or Part of an Act, or order with which any provisions of this Schedule are incorporated, with or without modification, and includes those provisions as so incorporated;
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13468711]
 - “**trunk main**” means a main constructed for the purpose of conveying water from a source of supply to a filter or reservoir, or from one filter or reservoir to another filter or reservoir, or for the purpose of conveying water in bulk from one part of the limits of supply to another part of those limits, or for the purpose of giving or taking a supply of water in bulk;
@@ -41,7 +41,7 @@ summary: ''
 
 ### Part II — Works and Lands
 
-#### 2. Permissible limits of deviation.[^c13468721][^key-598570b2909963337500f230d12ad396]
+#### 2. Permissible limits of deviation.[^c13468721][^c-598570b2909963337500f230d12ad396]
 
 In the construction of any authorised works the undertakers may deviate laterally to any extent not exceeding the limits of deviation shown on the plans submitted to the Secretary of State and, where on any road[^c13468771] no such limits are shown, the boundaries of the road (including for this purpose any verge or roadside waste adjoining it) shall be deemed to be such limits, and they may also deviate vertically from the levels shown on the deposited sections to any extent:
 
@@ -94,7 +94,7 @@ Provided that before taking any water from the stream they shall, on an approved
 
 (2) After the completion of the reservoir the undertakers shall, at an approved point within such limits as may be prescribed, discharge into the stream from, or from streams feeding, the reservoir during every day of 24 hours reckoned from midnight in a uniform and continuous flow a quantity of water not less than the prescribed quantity, and, for the purpose of gauging such discharge, they shall construct and maintain in good order approved gauges on approved sites.
 
-(3)[^c13468831][^c13468841][^c13468871][^c13468881][^c19690511][^key-f687507850fc4563fdb09747fe381d43] If the undertakers—
+(3)[^c13468831][^c13468841][^c13468871][^c13468881][^c19690511][^c-f687507850fc4563fdb09747fe381d43] If the undertakers—
 
 - (a) fail to construct or maintain in good order any such gauge as aforesaid, or refuse to allow any person interested to inspect and examine any such gauge or any records made thereby or kept by them in connection therewith or to take copies of any such records; or
 - (b) take any water from the stream contrary to the provisions of subsection (1) of this section, or fail to comply with the requirements of subsection (2) of this section with respect to the discharge of water into the stream,
@@ -156,22 +156,22 @@ Nothing in the special Act shall exempt the undertakers from liability to any ac
 
 #### 19. Undertakers to fix and maintain fire hydrants on pipes.[^c18383881]
 
-The undertakers shall, at the request of the Scottish Fire and Rescue Service[^key-2659a5a0bf9f353863c43b646c16b3c3] concerned, fix fire hydrants on their mains (other than trunk mains) at such places as may be most convenient for affording a supply of water for extinguishing any fire which may break out within the limits of supply, and shall keep in good order and from time to time renew every such hydrant.
+The undertakers shall, at the request of the Scottish Fire and Rescue Service[^c-2659a5a0bf9f353863c43b646c16b3c3] concerned, fix fire hydrants on their mains (other than trunk mains) at such places as may be most convenient for affording a supply of water for extinguishing any fire which may break out within the limits of supply, and shall keep in good order and from time to time renew every such hydrant.
 
 #### 20. Undertakers to deposit keys of hydrants at certain places.[^c18383901]
 
-As soon as any such hydrant is complete, the undertakers shall, if required by the Scottish Fire and Rescue Service[^key-d2b1c96fa7b9a3f5ad61beb56740699b], deposit a key thereof at each place within the limits of supply where any public fire engine is kept, and in such other places as may be appointed by the Scottish Fire and Rescue Service.
+As soon as any such hydrant is complete, the undertakers shall, if required by the Scottish Fire and Rescue Service[^c-d2b1c96fa7b9a3f5ad61beb56740699b], deposit a key thereof at each place within the limits of supply where any public fire engine is kept, and in such other places as may be appointed by the Scottish Fire and Rescue Service.
 
 #### 21. Cost of hydrants.[^c18383911]
 
-The cost of such hydrants as aforesaid and of fixing, maintaining and renewing them, and of providing such keys as aforesaid shall be defrayed by the Scottish Fire and Rescue Service[^key-83848aea345fa98899f7fea6700f6879].
+The cost of such hydrants as aforesaid and of fixing, maintaining and renewing them, and of providing such keys as aforesaid shall be defrayed by the Scottish Fire and Rescue Service[^c-83848aea345fa98899f7fea6700f6879].
 
 **21A.**[^c18409901] The Scottish Ministers may by regulations make provision as to—
 
 - (a) the persons (other than Scottish Water) from whom; or
 - (b) the circumstances in which,
 
-the Scottish Fire and Rescue Service[^key-332f700aafe0152f753bf29565c080c7] may recover costs defrayed under section 21 of this Schedule.
+the Scottish Fire and Rescue Service[^c-332f700aafe0152f753bf29565c080c7] may recover costs defrayed under section 21 of this Schedule.
 
 #### 22. Hydrants to be placed near factories, etc., at request of owners or occupiers.[^c18383921]
 
@@ -396,7 +396,7 @@ The undertakers shall, at all times after the expiration of six months from the 
 
 [^c13468691]: Marginal citation: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34).
 
-[^key-6fe27250f33ca410de08bd11222dc2fc]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/1/1) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-6fe27250f33ca410de08bd11222dc2fc]: Textual amendment: Words in [Sch. 4 para. 1(1)](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/1/1) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c13468711]: Textual amendment: Definition repealed by [Telecommunications Act 1984 (c. 12, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/12), [ss. 2](https://www.legislation.gov.uk/ukpga/1984/12/section/2), [109](https://www.legislation.gov.uk/ukpga/1984/12/section/109), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1984/12/schedule/7/part/I)
 
@@ -440,7 +440,7 @@ The undertakers shall, at all times after the expiration of six months from the 
 
     Sch. 4 para. 2 applied (with modifications) (21.6.2006) by [S.S.I. 2006/361](https://www.legislation.gov.uk/ssi/2006/361), [art. 3](https://www.legislation.gov.uk/ssi/2006/361/article/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/361/schedule/2)
 
-[^key-598570b2909963337500f230d12ad396]: Modification: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/2) applied (with modifications) (18.12.2008) by [The Scottish Water (Loch of Boardhouse) Water Order 2008 (S.S.I. 2008/429)](https://www.legislation.gov.uk/ssi/2008/429), [arts. 1](https://www.legislation.gov.uk/ssi/2008/429/article/1), [3](https://www.legislation.gov.uk/ssi/2008/429/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/429/schedule/2)
+[^c-598570b2909963337500f230d12ad396]: Modification: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/2) applied (with modifications) (18.12.2008) by [The Scottish Water (Loch of Boardhouse) Water Order 2008 (S.S.I. 2008/429)](https://www.legislation.gov.uk/ssi/2008/429), [arts. 1](https://www.legislation.gov.uk/ssi/2008/429/article/1), [3](https://www.legislation.gov.uk/ssi/2008/429/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/429/schedule/2)
 
 [^c13468771]: Textual amendment: Word substituted by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 156(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1), [Sch. 9 para. 81(15)(a)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/81/15/a)
 
@@ -502,7 +502,7 @@ The undertakers shall, at all times after the expiration of six months from the 
 
 [^c19690511]: Modification: Sch. 4 para. 10(3)(4) applied (with modifications) (10.12.2007) by [The Scottish Water (Loch Horn and Loch Lunndaidh) Water Order 2007 (S.S.I. 2007/554)](https://www.legislation.gov.uk/ssi/2007/554), [art. 3](https://www.legislation.gov.uk/ssi/2007/554/article/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/554/schedule/2)
 
-[^key-f687507850fc4563fdb09747fe381d43]: Modification: [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/10/3) applied (with modifications) (18.12.2008) by [The Scottish Water (Loch of Boardhouse) Water Order 2008 (S.S.I. 2008/429)](https://www.legislation.gov.uk/ssi/2008/429), [arts. 1](https://www.legislation.gov.uk/ssi/2008/429/article/1), [3](https://www.legislation.gov.uk/ssi/2008/429/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/429/schedule/2)
+[^c-f687507850fc4563fdb09747fe381d43]: Modification: [Sch. 4 para. 10(3)](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/10/3) applied (with modifications) (18.12.2008) by [The Scottish Water (Loch of Boardhouse) Water Order 2008 (S.S.I. 2008/429)](https://www.legislation.gov.uk/ssi/2008/429), [arts. 1](https://www.legislation.gov.uk/ssi/2008/429/article/1), [3](https://www.legislation.gov.uk/ssi/2008/429/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/429/schedule/2)
 
 [^c13468941]: Textual amendment: Words in Sch. 4 para. 10(3) substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G), [289H](https://www.legislation.gov.uk/ukpga/1975/21/section/289H), [Sch. 7D](https://www.legislation.gov.uk/ukpga/1975/21/schedule/7D) (as inserted by [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 54](https://www.legislation.gov.uk/ukpga/1982/48/section/54), [Sch. 6](https://www.legislation.gov.uk/ukpga/1982/48/schedule/6), which Sch. 6 was repealed (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 6](https://www.legislation.gov.uk/ukpga/1995/40/section/6), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/40/schedule/5)) and those same words substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1995/40/schedule/1/paragraph/10), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1995/40/schedule/2/part/III)
 
@@ -514,19 +514,19 @@ The undertakers shall, at all times after the expiration of six months from the 
 
 [^c18383881]: Modification: Sch. 4 paras. 19-22 applied (2.8.2005) by virtue of [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 21(1)](https://www.legislation.gov.uk/asp/2005/5/section/21/1) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
 
-[^key-2659a5a0bf9f353863c43b646c16b3c3]: Textual amendment: Words in [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/19) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-2659a5a0bf9f353863c43b646c16b3c3]: Textual amendment: Words in [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/19) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c18383901]: Modification: Sch. 4 paras. 19-22 applied (2.8.2005) by virtue of [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 21(1)](https://www.legislation.gov.uk/asp/2005/5/section/21/1) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
 
-[^key-d2b1c96fa7b9a3f5ad61beb56740699b]: Textual amendment: Words in [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/20) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(4)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/4); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-d2b1c96fa7b9a3f5ad61beb56740699b]: Textual amendment: Words in [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/20) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(4)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/4); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c18383911]: Modification: Sch. 4 paras. 19-22 applied (2.8.2005) by virtue of [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 21(1)](https://www.legislation.gov.uk/asp/2005/5/section/21/1) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
 
-[^key-83848aea345fa98899f7fea6700f6879]: Textual amendment: Words in [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/21) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(5)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/5); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-83848aea345fa98899f7fea6700f6879]: Textual amendment: Words in [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/21) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(5)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/5); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c18409901]: Textual amendment: Sch. 4 para. 21A inserted (2.8.2005) by virtue of [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 22(2)](https://www.legislation.gov.uk/asp/2005/5/section/22/2) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
 
-[^key-332f700aafe0152f753bf29565c080c7]: Textual amendment: Words in [Sch. 4 para. 21A](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/21A) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(6)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/6); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-332f700aafe0152f753bf29565c080c7]: Textual amendment: Words in [Sch. 4 para. 21A](https://www.legislation.gov.uk/ukpga/1980/45/schedule/4/section/21A) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 51(6)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/51/6); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c18383921]: Modification: Sch. 4 paras. 19-22 applied (2.8.2005) by virtue of [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 21(1)](https://www.legislation.gov.uk/asp/2005/5/section/21/1) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
 

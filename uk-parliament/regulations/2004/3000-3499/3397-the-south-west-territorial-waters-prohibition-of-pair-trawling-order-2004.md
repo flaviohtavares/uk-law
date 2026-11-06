@@ -75,18 +75,18 @@ The Secretary of State for Environment, Food and Rural Affairs and the Secretary
 
 ## 3. Prohibition on pair trawling
 
-(1) Subject to paragraph 2, no [^key-9f2a41b34efa27589dab5c9545502843]... fishing boat shall participate in pair trawling for sea fish in the south-west territorial waters.
+(1) Subject to paragraph 2, no [^c-9f2a41b34efa27589dab5c9545502843]... fishing boat shall participate in pair trawling for sea fish in the south-west territorial waters.
 
 (2) Paragraph 1 shall not apply to—
 
 - (a) fishing boats using nets with mesh in the cod end, in the mesh size ranges 16mm to 79mm inclusive; or
 - (b) fishing boats using nets—
   - (i) with mesh sizes in the cod end greater than 79mm; and
-  - (ii)[^key-798bc2df51f3a357983930535a6969f3] incorporating no individual mesh, irrespective of its position within the net, greater than 300mm.
+  - (ii)[^c-798bc2df51f3a357983930535a6969f3] incorporating no individual mesh, irrespective of its position within the net, greater than 300mm.
 
 ## 4. Prohibition on carrying towed gear
 
-(1) No [^key-3e8632305138eeb3fff8e5720c7a0147]... fishing boat shall carry pair trawling gear, other than that specified in article 3(2), in any part of the south-west territorial waters unless every part of that gear is lashed and stowed.
+(1) No [^c-3e8632305138eeb3fff8e5720c7a0147]... fishing boat shall carry pair trawling gear, other than that specified in article 3(2), in any part of the south-west territorial waters unless every part of that gear is lashed and stowed.
 
 (2) For the purposes of paragraph 1 above, “lashed and stowed”, in relation to pair trawling gear, means—
 
@@ -97,7 +97,7 @@ The Secretary of State for Environment, Food and Rural Affairs and the Secretary
 
 (1) For the purposes of enforcing this Order a British sea fishery officer may exercise the powers conferred by this article in relation to—
 
-- (a)[^key-a765e6808cb866f0b2ba2a847aca7776] a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and
+- (a)[^c-a765e6808cb866f0b2ba2a847aca7776] a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and
 - (b) any other fishing boat, in any waters adjacent to the United Kingdom and within relevant British fishery limits.
 
 (2) He may go on board the boat, with or without persons assigned to assist him in his duties, and for that purpose may require the boat to stop and do anything else which will facilitate the boarding of the boat.
@@ -150,10 +150,10 @@ The Order confers powers of enforcement on British sea fishery officers for the 
 
 [^f00004]: Footnote: [1976 c. 86](https://www.legislation.gov.uk/ukpga/1976/86); see also paragraph 3(c) of the Schedule to the Fishery Limits Act (Guernsey) Order 1989 (S.I. [1989/2407](https://www.legislation.gov.uk/uksi/1989/2407))
 
-[^key-9f2a41b34efa27589dab5c9545502843]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/3397/article/3/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/12/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-9f2a41b34efa27589dab5c9545502843]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/3397/article/3/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/12/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-798bc2df51f3a357983930535a6969f3]: Textual amendment: [Art. 3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/3397/article/3/2/b/ii) substituted (15.1.2005) by [South-west Territorial Waters (Prohibition of Pair Trawling) (Amendment) Order 2005 (S.I. 2005/49)](https://www.legislation.gov.uk/uksi/2005/49), [arts. 1](https://www.legislation.gov.uk/uksi/2005/49/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/49/article/2/2)
+[^c-798bc2df51f3a357983930535a6969f3]: Textual amendment: [Art. 3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/3397/article/3/2/b/ii) substituted (15.1.2005) by [South-west Territorial Waters (Prohibition of Pair Trawling) (Amendment) Order 2005 (S.I. 2005/49)](https://www.legislation.gov.uk/uksi/2005/49), [arts. 1](https://www.legislation.gov.uk/uksi/2005/49/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/49/article/2/2)
 
-[^key-3e8632305138eeb3fff8e5720c7a0147]: Textual amendment: Word in [art. 4(1)](https://www.legislation.gov.uk/uksi/2004/3397/article/4/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/12/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-3e8632305138eeb3fff8e5720c7a0147]: Textual amendment: Word in [art. 4(1)](https://www.legislation.gov.uk/uksi/2004/3397/article/4/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/12/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-a765e6808cb866f0b2ba2a847aca7776]: Textual amendment: [Art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2004/3397/article/5/1/a)[(b)](https://www.legislation.gov.uk/uksi/2004/3397/article/5/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 12(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/12/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a765e6808cb866f0b2ba2a847aca7776]: Textual amendment: [Art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2004/3397/article/5/1/a)[(b)](https://www.legislation.gov.uk/uksi/2004/3397/article/5/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 12(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/12/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

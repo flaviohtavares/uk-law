@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Effect of listed building consent on listed building enforcement notice.[^key-15351a74a63959c1108b672e97851dd9][^key-b717f0e4d68c249f15048c0eb92cb76c][^c12916721]
+## 44. Effect of listed building consent on listed building enforcement notice.[^c-15351a74a63959c1108b672e97851dd9][^c-b717f0e4d68c249f15048c0eb92cb76c][^c12916721]
 
 *Extent: E+W*
 
@@ -31,8 +31,8 @@ the notice shall cease to have effect in so far as it requires steps to be taken
 
 ## Annotations
 
-[^key-15351a74a63959c1108b672e97851dd9]: Modification: Ss. 42-44 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
+[^c-15351a74a63959c1108b672e97851dd9]: Modification: Ss. 42-44 modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
 
-[^key-b717f0e4d68c249f15048c0eb92cb76c]: Modification: Ss. 32-50 applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-b717f0e4d68c249f15048c0eb92cb76c]: Modification: Ss. 32-50 applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
 [^c12916721]: Modification: Ss. 43–46 modified by [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), [reg. 13(1)](https://www.legislation.gov.uk/uksi/1990/1519/regulation/13/1); applied (with modifications) by [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519), [reg. 12](https://www.legislation.gov.uk/uksi/1990/1519/regulation/12), [Sch. 3](https://www.legislation.gov.uk/uksi/1990/1519/schedule/3)

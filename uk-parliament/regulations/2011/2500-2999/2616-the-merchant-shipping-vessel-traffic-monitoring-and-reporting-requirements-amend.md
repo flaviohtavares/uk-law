@@ -50,15 +50,15 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary of State has consulted the persons referred to in that section.
 
-## 1. Citation and commencement[^key-f8ea64dbc8a9705ae5b98157f1d94f0d]
+## 1. Citation and commencement[^c-f8ea64dbc8a9705ae5b98157f1d94f0d]
 
 These Regulations may be cited as the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 and come into force on 25th November 2011.
 
-## 2. Amendments to the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^key-55db62dbb8d584fdffdcdd0e031da816]
+## 2. Amendments to the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^c-55db62dbb8d584fdffdcdd0e031da816]
 
 The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^f00004] are amended in accordance with the provisions in Schedule 1.
 
-## 3. Amendments to the Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997[^key-fcae65c24f6773cb0b2d25f275e28deb]
+## 3. Amendments to the Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997[^c-fcae65c24f6773cb0b2d25f275e28deb]
 
 The Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997[^f00005] are amended in accordance with the provisions in Schedule 2.
 
@@ -76,9 +76,9 @@ Department for Transport
 
 Regulation 2
 
-**1.**[^key-9e14c320298a026198041cb5900c4393] The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004 are amended as follows.
+**1.**[^c-9e14c320298a026198041cb5900c4393] The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004 are amended as follows.
 
-**2.**[^key-0a6408d426de3680f242dd1e19f7a52d] In regulation 2 (interpretation), in paragraph (1)—
+**2.**[^c-0a6408d426de3680f242dd1e19f7a52d] In regulation 2 (interpretation), in paragraph (1)—
 
 - (a) delete the definition of “the BC Code”;
 - (b) at the end of the definition of “the Directive” add—
@@ -101,9 +101,9 @@ Regulation 2
     ;
   - (b) in the definition of “the SOLAS Convention” for “these Regulations” substitute “the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2011”.
 
-**3.**[^key-03470818003e1f20e151a3655e13b723] In regulation 2 (interpretation) in sub-paragraph (3)(d) for “BC Code” substitute “IMSBC Code”.
+**3.**[^c-03470818003e1f20e151a3655e13b723] In regulation 2 (interpretation) in sub-paragraph (3)(d) for “BC Code” substitute “IMSBC Code”.
 
-**4.**[^key-1ef06e246d06ae9f40db32f4bc465834] In regulation 2 (interpretation) in paragraph (8)—
+**4.**[^c-1ef06e246d06ae9f40db32f4bc465834] In regulation 2 (interpretation) in paragraph (8)—
 
 - (a) delete sub-paragraph (a);
 - (b) after sub-paragraph (c) insert—
@@ -112,7 +112,7 @@ Regulation 2
 
   .
 
-**5.**[^key-de5a0d1ee21cd831e2b2ea9dbd33c803] In regulation 4 (application)—
+**5.**[^c-de5a0d1ee21cd831e2b2ea9dbd33c803] In regulation 4 (application)—
 
 - (a) in paragraph (2) at the end of sub-paragraph (c) add “unless otherwise stated”;
 - (b) in paragraph (3) for sub-paragraphs (a) and (b) substitute—
@@ -120,7 +120,7 @@ Regulation 2
   > - (a) bunkers on ships of less than 1000 gross tonnage;
   > - (b) ships’ stores and equipment for use on board any ship.
 
-**6.**[^key-fa6b487b59feee49d8661e4153b051ce] After regulation 4 insert—
+**6.**[^c-fa6b487b59feee49d8661e4153b051ce] After regulation 4 insert—
 
 > **4A. Exemptions from the requirements of regulations 5 or 10**
 >
@@ -142,9 +142,9 @@ Regulation 2
 
 .
 
-**7.**[^key-7835f7a7cfd8b867e2e249bd83e21a74] In regulation 8 (installation of automatic identification systems) delete paragraph (5)(c) (and the word “and” which follows paragraph (5)(b)).
+**7.**[^c-7835f7a7cfd8b867e2e249bd83e21a74] In regulation 8 (installation of automatic identification systems) delete paragraph (5)(c) (and the word “and” which follows paragraph (5)(b)).
 
-**8.**[^key-546a6f0d575c1f68d4c3095b458cc611] After regulation 8 insert—
+**8.**[^c-546a6f0d575c1f68d4c3095b458cc611] After regulation 8 insert—
 
 > **8A. Installation of automatic identification systems on fishing vessels**
 >
@@ -158,7 +158,7 @@ Regulation 2
 
 .
 
-**9.**[^key-3e66ab156697c523c484a43963b12f12] For regulation 9 (operation of automatic identification systems) substitute—
+**9.**[^c-3e66ab156697c523c484a43963b12f12] For regulation 9 (operation of automatic identification systems) substitute—
 
 > **9.** (1) Where a ship is fitted with an automatic identification system pursuant to regulation 8 or 8A, the master shall comply with—
 >
@@ -171,18 +171,18 @@ Regulation 2
 
 .
 
-**10.**[^key-495d85e605fe660b1bd38b1515ee659d] In regulation 10 (notification by ships carrying dangerous or polluting goods)—
+**10.**[^c-495d85e605fe660b1bd38b1515ee659d] In regulation 10 (notification by ships carrying dangerous or polluting goods)—
 
 - (a) for references to—
   - (i) “the Annex to Merchant Shipping Notice 1784 (M)” substitute “Annex B of Merchant Shipping Notice 1831 (M+F)”; and
   - (ii) regulation “11(1)” and “11(5)” substitute “4A”;
 - (b) in paragraph (7) for “Merchant Shipping Notice 1784 (M)” substitute “Merchant Shipping Notice 1831 (M+F)”.
 
-**11.**[^key-9463343d5c9273c81e4bb3cb5fd845de] Delete regulation 11 (exemptions from the requirements of regulation 10).
+**11.**[^c-9463343d5c9273c81e4bb3cb5fd845de] Delete regulation 11 (exemptions from the requirements of regulation 10).
 
-**12.**[^key-499ed06d2f068a0f43e49ff99a17c10a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-499ed06d2f068a0f43e49ff99a17c10a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-84a6be0ea5a6d1a059f40905fe205397] After regulation 13 (measures to be taken in the event of exceptionally bad weather or sea conditions) insert—
+**13.**[^c-84a6be0ea5a6d1a059f40905fe205397] After regulation 13 (measures to be taken in the event of exceptionally bad weather or sea conditions) insert—
 
 > **13A. Measures to be taken in the event of risks posed by the presence of ice**
 >
@@ -201,14 +201,14 @@ Regulation 2
 
 .
 
-**14.**[^key-1f60eb7cd596fc3d913973613dda9c33] Delete regulation 14 (measures to be taken in the event of incidents or accidents at sea).
+**14.**[^c-1f60eb7cd596fc3d913973613dda9c33] Delete regulation 14 (measures to be taken in the event of incidents or accidents at sea).
 
-**15.**[^key-c739ac8ec48abac986a6b6d6dfef8fdd] In regulation 15 (obligations of shipowners in relation to accidents and incidents) in paragraph (1)—
+**15.**[^c-c739ac8ec48abac986a6b6d6dfef8fdd] In regulation 15 (obligations of shipowners in relation to accidents and incidents) in paragraph (1)—
 
 - (a) after “sea” delete “either”;
 - (b) after “Code” delete “or in accordance with regulation 14”.
 
-**16.**[^key-7da6ebc71112523d846669460d56ee1a] In regulation 16 (confidentiality of information)—
+**16.**[^c-7da6ebc71112523d846669460d56ee1a] In regulation 16 (confidentiality of information)—
 
 - (a) for paragraph (1) substitute—
 
@@ -222,12 +222,12 @@ Regulation 2
   ;
 - (b) in paragraph (2), (2)(a), (b), (c) and (d) after “disclosure” insert “or use”.
 
-**17.**[^key-11c34caacd82629da11d9408fa1d3db5] In regulation 17 (offences)—
+**17.**[^c-11c34caacd82629da11d9408fa1d3db5] In regulation 17 (offences)—
 
 - (a) in paragraph (3) for “, 13(9) or 14(2)” substitute “or 13(9)”;
 - (b) in paragraph (4) for “or 8(4)” substitute “, 8(4) or 8A”.
 
-**18.**[^key-729f527c70292a81b6efc040fd220511] After regulation 22 insert—
+**18.**[^c-729f527c70292a81b6efc040fd220511] After regulation 22 insert—
 
 > **23. Review**
 >
@@ -255,9 +255,9 @@ Regulation 2
 
 Regulation 3
 
-**1.**[^key-75317778dcc47a09a9215a04912fb50d] The Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997 are amended as follows.
+**1.**[^c-75317778dcc47a09a9215a04912fb50d] The Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997 are amended as follows.
 
-**2.**[^key-b0d9e01eec951070565d773fa2c43114] In regulation 2 (interpretation), in paragraph (1)—
+**2.**[^c-b0d9e01eec951070565d773fa2c43114] In regulation 2 (interpretation), in paragraph (1)—
 
 - (a) delete the definition of “Bulk Cargoes Code”;
 - (b) in the definition of “IBC Code” for “1998” substitute “2007”[^f00013];
@@ -274,27 +274,27 @@ Regulation 3
 
     .
 
-**3.**[^key-f8e2d9125ef28bc9b2d395e6e1a27d2c] In regulation 2 (interpretation), in paragraph (2)—
+**3.**[^c-f8e2d9125ef28bc9b2d395e6e1a27d2c] In regulation 2 (interpretation), in paragraph (2)—
 
 - (a) delete “the Bulk Cargoes Code”; and
 - (b) for “or IMO Recommendations” substitute “IMO Recommendations or IMSBC Code”.
 
-**4.**[^key-d480c247d5d8dddb8ed2cea4fbf0926c] In regulation 10 (declaration) in paragraphs (1) and (3) after “taken on board any ship unless” insert “before the goods are taken on board”.
+**4.**[^c-d480c247d5d8dddb8ed2cea4fbf0926c] In regulation 10 (declaration) in paragraphs (1) and (3) after “taken on board any ship unless” insert “before the goods are taken on board”.
 
-**5.**[^key-ed6110c36a5e332ef860be6a2843ce38] In regulation 10 after paragraph (3)(i) insert—
+**5.**[^c-ed6110c36a5e332ef860be6a2843ce38] In regulation 10 after paragraph (3)(i) insert—
 
 > - (j) the emergency numbers of the person in possession of information on the physico-chemical characteristics of the products and on the action to be taken in an emergency, and
 > - (k) the other data contained in the data safety sheet as specified in Annex B of Merchant Shipping Notice 1831 (M+F)
 
 .
 
-**6.**[^key-9710098549ca9fc45e786d8f50e26dd8] In regulation 20(2)(a) (carriage of dangerous goods or marine pollutants in bulk) for the words “Appendix B of the Solid Bulk Cargoes Code” substitute “Appendix 1 of the IMSBC Code”.
+**6.**[^c-9710098549ca9fc45e786d8f50e26dd8] In regulation 20(2)(a) (carriage of dangerous goods or marine pollutants in bulk) for the words “Appendix B of the Solid Bulk Cargoes Code” substitute “Appendix 1 of the IMSBC Code”.
 
-**7.**[^key-83c485340762478d31fe15df4888f6a1] In regulation 21 (documentation), in paragraphs (1), (3)(a) and (4) for “Appendix B of the Bulk Cargoes Code” substitute “Appendix 1 of the IMSBC Code”.
+**7.**[^c-83c485340762478d31fe15df4888f6a1] In regulation 21 (documentation), in paragraphs (1), (3)(a) and (4) for “Appendix B of the Bulk Cargoes Code” substitute “Appendix 1 of the IMSBC Code”.
 
-**8.**[^key-879e104a50dc7d2add90790c2fd961b0] In regulation 24 (penalties), in paragraph (2)(e) for “Bulk Cargoes Code” substitute “the IMSBC Code”.
+**8.**[^c-879e104a50dc7d2add90790c2fd961b0] In regulation 24 (penalties), in paragraph (2)(e) for “Bulk Cargoes Code” substitute “the IMSBC Code”.
 
-**9.**[^key-1b3eb3f840b6702b2329ed7a490f364a] After regulation 25 insert—
+**9.**[^c-1b3eb3f840b6702b2329ed7a490f364a] After regulation 25 insert—
 
 > **26. Review**
 >
@@ -344,19 +344,19 @@ IMO publications can be purchased from the IMO Publishing webshop (www.imo.org) 
 
 [^f00003]: Footnote: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-f8ea64dbc8a9705ae5b98157f1d94f0d]: Commencement: Reg. 1 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-f8ea64dbc8a9705ae5b98157f1d94f0d]: Commencement: Reg. 1 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-55db62dbb8d584fdffdcdd0e031da816]: Commencement: Reg. 2 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-55db62dbb8d584fdffdcdd0e031da816]: Commencement: Reg. 2 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
 [^f00004]: Footnote: [S.I.2004/2110](https://www.legislation.gov.uk/uksi/2004/2110), amended by [S.I. 2005/1092](https://www.legislation.gov.uk/uksi/2005/1092) and [S.I. 2008/3145](https://www.legislation.gov.uk/uksi/2008/3145).
 
-[^key-fcae65c24f6773cb0b2d25f275e28deb]: Commencement: Reg. 3 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-fcae65c24f6773cb0b2d25f275e28deb]: Commencement: Reg. 3 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1997/2637](https://www.legislation.gov.uk/uksi/1997/2637), amended by [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110).
 
-[^key-9e14c320298a026198041cb5900c4393]: Commencement: Sch. 1 para. 1 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-9e14c320298a026198041cb5900c4393]: Commencement: Sch. 1 para. 1 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-0a6408d426de3680f242dd1e19f7a52d]: Commencement: Sch. 1 para. 2 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-0a6408d426de3680f242dd1e19f7a52d]: Commencement: Sch. 1 para. 2 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
 [^f00006]: Footnote: O.J. No. L.131, 28.5.2009, p.101.
 
@@ -370,43 +370,43 @@ IMO publications can be purchased from the IMO Publishing webshop (www.imo.org) 
 
 [^f00011]: Footnote: ISBN: 9789280142396.
 
-[^key-03470818003e1f20e151a3655e13b723]: Commencement: Sch. 1 para. 3 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-03470818003e1f20e151a3655e13b723]: Commencement: Sch. 1 para. 3 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-1ef06e246d06ae9f40db32f4bc465834]: Commencement: Sch. 1 para. 4 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-1ef06e246d06ae9f40db32f4bc465834]: Commencement: Sch. 1 para. 4 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-de5a0d1ee21cd831e2b2ea9dbd33c803]: Commencement: Sch. 1 para. 5 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-de5a0d1ee21cd831e2b2ea9dbd33c803]: Commencement: Sch. 1 para. 5 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-fa6b487b59feee49d8661e4153b051ce]: Commencement: Sch. 1 para. 6 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-fa6b487b59feee49d8661e4153b051ce]: Commencement: Sch. 1 para. 6 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
 [^f00012]: Footnote: Article 15.2 was substituted by Directive [2009/17/EC](https://www.legislation.gov.uk/european/directive/2009/0017).
 
-[^key-7835f7a7cfd8b867e2e249bd83e21a74]: Commencement: Sch. 1 para. 7 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-7835f7a7cfd8b867e2e249bd83e21a74]: Commencement: Sch. 1 para. 7 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-546a6f0d575c1f68d4c3095b458cc611]: Commencement: Sch. 1 para. 8 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-546a6f0d575c1f68d4c3095b458cc611]: Commencement: Sch. 1 para. 8 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-3e66ab156697c523c484a43963b12f12]: Commencement: Sch. 1 para. 9 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-3e66ab156697c523c484a43963b12f12]: Commencement: Sch. 1 para. 9 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-495d85e605fe660b1bd38b1515ee659d]: Commencement: Sch. 1 para. 10 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-495d85e605fe660b1bd38b1515ee659d]: Commencement: Sch. 1 para. 10 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-9463343d5c9273c81e4bb3cb5fd845de]: Commencement: Sch. 1 para. 11 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-9463343d5c9273c81e4bb3cb5fd845de]: Commencement: Sch. 1 para. 11 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-499ed06d2f068a0f43e49ff99a17c10a]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/12) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+[^c-499ed06d2f068a0f43e49ff99a17c10a]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/12) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
 
-[^key-84a6be0ea5a6d1a059f40905fe205397]: Commencement: Sch. 1 para. 13 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-84a6be0ea5a6d1a059f40905fe205397]: Commencement: Sch. 1 para. 13 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-1f60eb7cd596fc3d913973613dda9c33]: Commencement: Sch. 1 para. 14 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-1f60eb7cd596fc3d913973613dda9c33]: Commencement: Sch. 1 para. 14 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-c739ac8ec48abac986a6b6d6dfef8fdd]: Commencement: Sch. 1 para. 15 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-c739ac8ec48abac986a6b6d6dfef8fdd]: Commencement: Sch. 1 para. 15 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-7da6ebc71112523d846669460d56ee1a]: Commencement: Sch. 1 para. 16 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-7da6ebc71112523d846669460d56ee1a]: Commencement: Sch. 1 para. 16 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-11c34caacd82629da11d9408fa1d3db5]: Commencement: Sch. 1 para. 17 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-11c34caacd82629da11d9408fa1d3db5]: Commencement: Sch. 1 para. 17 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-729f527c70292a81b6efc040fd220511]: Commencement: Sch. 1 para. 18 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-729f527c70292a81b6efc040fd220511]: Commencement: Sch. 1 para. 18 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-75317778dcc47a09a9215a04912fb50d]: Commencement: Sch. 2 para. 1 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-75317778dcc47a09a9215a04912fb50d]: Commencement: Sch. 2 para. 1 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-b0d9e01eec951070565d773fa2c43114]: Commencement: Sch. 2 para. 2 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-b0d9e01eec951070565d773fa2c43114]: Commencement: Sch. 2 para. 2 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
 [^f00013]: Footnote: ISBN: 9789280142266.
 
@@ -414,16 +414,16 @@ IMO publications can be purchased from the IMO Publishing webshop (www.imo.org) 
 
 [^f00015]: Footnote: ISBN: 9789280142396.
 
-[^key-f8e2d9125ef28bc9b2d395e6e1a27d2c]: Commencement: Sch. 2 para. 3 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-f8e2d9125ef28bc9b2d395e6e1a27d2c]: Commencement: Sch. 2 para. 3 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-d480c247d5d8dddb8ed2cea4fbf0926c]: Commencement: Sch. 2 para. 4 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-d480c247d5d8dddb8ed2cea4fbf0926c]: Commencement: Sch. 2 para. 4 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-ed6110c36a5e332ef860be6a2843ce38]: Commencement: Sch. 2 para. 5 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-ed6110c36a5e332ef860be6a2843ce38]: Commencement: Sch. 2 para. 5 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-9710098549ca9fc45e786d8f50e26dd8]: Commencement: Sch. 2 para. 6 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-9710098549ca9fc45e786d8f50e26dd8]: Commencement: Sch. 2 para. 6 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-83c485340762478d31fe15df4888f6a1]: Commencement: Sch. 2 para. 7 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-83c485340762478d31fe15df4888f6a1]: Commencement: Sch. 2 para. 7 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-879e104a50dc7d2add90790c2fd961b0]: Commencement: Sch. 2 para. 8 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-879e104a50dc7d2add90790c2fd961b0]: Commencement: Sch. 2 para. 8 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
 
-[^key-1b3eb3f840b6702b2329ed7a490f364a]: Commencement: Sch. 2 para. 9 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)
+[^c-1b3eb3f840b6702b2329ed7a490f364a]: Commencement: Sch. 2 para. 9 in force at 25.11.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Brokering services: non-UK activity relating to restricted goods and restricted technology[^key-d6433c893dafe4e02a01fdce03b566aa]
+## 28. Brokering services: non-UK activity relating to restricted goods and restricted technology[^c-d6433c893dafe4e02a01fdce03b566aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6433c893dafe4e02a01fdce03b566aa]: Commencement: Reg. 28 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-d6433c893dafe4e02a01fdce03b566aa]: Commencement: Reg. 28 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### PART 1 — Scenario 1[^key-2904f16a5fdaedc2da82ab8199c5d5ec]
+### PART 1 — Scenario 1[^c-2904f16a5fdaedc2da82ab8199c5d5ec]
 
 | (1) Area | (2) Street subject to street works |
 | --- | --- |
@@ -154,7 +154,7 @@ Article 9
 | District of Breckland | Private track between reference points 41o and 41q on the works plan |
 | District of Breckland | Private track between reference points 41r and 41s on the works plan |
 
-### PART 2 — Scenario 2[^key-595bb59e17288ea75d1147a947fdbcd4]
+### PART 2 — Scenario 2[^c-595bb59e17288ea75d1147a947fdbcd4]
 
 | (1) Area | (2) Street subject to street works |
 | --- | --- |
@@ -294,6 +294,6 @@ Article 9
 
 ## Annotations
 
-[^key-2904f16a5fdaedc2da82ab8199c5d5ec]: Commencement: Sch. 2 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-2904f16a5fdaedc2da82ab8199c5d5ec]: Commencement: Sch. 2 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-595bb59e17288ea75d1147a947fdbcd4]: Commencement: Sch. 2 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-595bb59e17288ea75d1147a947fdbcd4]: Commencement: Sch. 2 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

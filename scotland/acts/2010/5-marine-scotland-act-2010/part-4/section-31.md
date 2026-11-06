@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Pre-variation, suspension or revocation procedure[^key-06668d69e048bc33f952b66c8e35f4f3]
+## 31. Pre-variation, suspension or revocation procedure[^c-06668d69e048bc33f952b66c8e35f4f3]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06668d69e048bc33f952b66c8e35f4f3]: Commencement: S. 31 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-06668d69e048bc33f952b66c8e35f4f3]: Commencement: S. 31 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

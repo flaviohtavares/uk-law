@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-02-05. See https://www.legislation.gov.uk/changes/affected/uksi/2009/1801
 
-## 17C. Identity verification: exemption on national security grounds etc[^key-6ccbf8f43d431c5ea1a9c855b25ea048]
+## 17C. Identity verification: exemption on national security grounds etc[^c-6ccbf8f43d431c5ea1a9c855b25ea048]
 
 Section 1110C of the Companies Act 2006 (identity verification: exemption on national security grounds etc) applies to an overseas company that opens a UK establishment, so that it reads as follows—
 
@@ -46,4 +46,4 @@ Section 1110C of the Companies Act 2006 (identity verification: exemption on nat
 
 ## Annotations
 
-[^key-6ccbf8f43d431c5ea1a9c855b25ea048]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/1801/part/3A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/4/4) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))
+[^c-6ccbf8f43d431c5ea1a9c855b25ea048]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/1801/part/3A) inserted (18.11.2025) by [The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025 (S.I. 2025/761)](https://www.legislation.gov.uk/uksi/2025/761), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/761/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2025/761/regulation/4/4) (with [regs. 5](https://www.legislation.gov.uk/uksi/2025/761/regulation/5), [6](https://www.legislation.gov.uk/uksi/2025/761/regulation/6))

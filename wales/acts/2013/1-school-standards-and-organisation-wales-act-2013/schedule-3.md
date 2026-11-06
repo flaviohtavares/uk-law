@@ -26,20 +26,20 @@ summary: ''
 
 #### Interpretation
 
-**1.**[^key-1544cf4485bb2ffaff3e0c9bf4302619] In this Part of this Schedule—
+**1.**[^c-1544cf4485bb2ffaff3e0c9bf4302619] In this Part of this Schedule—
 
 - (a) “**proposals**” means proposals falling to be implemented under section 55;
 - (b) a reference to a local authority in relation to a school or proposed school is a reference to the local authority that maintains, or that will maintain, that school.
 
 #### Proposals relating to community or maintained nursery schools
 
-**2.**[^key-f7067a5daf9e97827a4822e31022da0f] (1) This paragraph applies to proposals relating to a community or maintained nursery school or a proposed community or maintained nursery school.
+**2.**[^c-f7067a5daf9e97827a4822e31022da0f] (1) This paragraph applies to proposals relating to a community or maintained nursery school or a proposed community or maintained nursery school.
 
 (2) Proposals made by a local authority under section 41, 42 or 43 must be implemented by the local authority.
 
 #### Proposals relating to foundation or voluntary controlled schools
 
-**3.**[^key-c87b81837cbcdcd364e229c65170fcec] (1) This paragraph applies to proposals relating to a foundation or voluntary controlled school or a proposed voluntary controlled school.
+**3.**[^c-c87b81837cbcdcd364e229c65170fcec] (1) This paragraph applies to proposals relating to a foundation or voluntary controlled school or a proposed voluntary controlled school.
 
 (2) Proposals made by a local authority under section 41(2) or 43(1)(a) must be implemented by the authority.
 
@@ -53,7 +53,7 @@ summary: ''
 
 #### Proposals relating to voluntary aided schools
 
-**4.**[^key-6e78832b1c7c0e6fdb203789814bc5be] (1) This paragraph applies to proposals relating to a voluntary aided school or a proposed voluntary aided school.
+**4.**[^c-6e78832b1c7c0e6fdb203789814bc5be] (1) This paragraph applies to proposals relating to a voluntary aided school or a proposed voluntary aided school.
 
 (2) Proposals made by a local authority under section 42(1)(b) or (c) must be implemented—
 
@@ -88,19 +88,19 @@ summary: ''
 
 #### Proposals relating to community special schools
 
-**5.**[^key-3d9ecb4664e8eb3de7104fd07edc2eb1] (1) This paragraph applies to proposals relating to a community special school or a proposed community special school.
+**5.**[^c-3d9ecb4664e8eb3de7104fd07edc2eb1] (1) This paragraph applies to proposals relating to a community special school or a proposed community special school.
 
 (2) Proposals made by a local authority under section 44 must be implemented by the authority.
 
 #### Change of category
 
-**6.**[^key-0265a2671b21bfdd0ae3f95444a45d17] If a school changes category from a community school after proposals have been published under section 48 but before they have been implemented, the proposals (to the extent that they have not been implemented) must be implemented by the local authority (despite paragraphs 3 and 4).
+**6.**[^c-0265a2671b21bfdd0ae3f95444a45d17] If a school changes category from a community school after proposals have been published under section 48 but before they have been implemented, the proposals (to the extent that they have not been implemented) must be implemented by the local authority (despite paragraphs 3 and 4).
 
 ### PART 2 — PROVISION OF PREMISES AND OTHER ASSISTANCE
 
 #### Provision of site and buildings for foundation or voluntary controlled school
 
-**7.**[^key-50bc4174a7c4df6202c772e11c94ab12] (1) This paragraph applies where a local authority is required by virtue of paragraph 3(2), (3), (4) or (5) to provide a site for a foundation or voluntary controlled school or a proposed voluntary controlled school.
+**7.**[^c-50bc4174a7c4df6202c772e11c94ab12] (1) This paragraph applies where a local authority is required by virtue of paragraph 3(2), (3), (4) or (5) to provide a site for a foundation or voluntary controlled school or a proposed voluntary controlled school.
 
 (2) The authority must transfer its interest in the site and in any buildings on the site which are to form part of the school premises—
 
@@ -141,7 +141,7 @@ summary: ''
 
 #### Grants in respect of certain expenditure relating to existing or proposed voluntary aided school
 
-**8.**[^key-15f2b617255845e267ff5fec8f634bde] (1) This paragraph applies where—
+**8.**[^c-15f2b617255845e267ff5fec8f634bde] (1) This paragraph applies where—
 
 - (a) the governing body of a voluntary aided school is required by virtue of paragraph 4(5) to implement proposals to make a regulated alteration to the school, or
 - (b) a person is required by virtue of paragraph 4(3)(b) to implement proposals to establish a new voluntary aided school.
@@ -158,15 +158,15 @@ summary: ''
 
 #### Assistance in respect of maintenance and other obligations relating to voluntary aided school
 
-**9.**[^key-ab98fc2f5ecc25b861098b73f78d8e00] A local authority may give to the governing body of a voluntary aided school such assistance as the authority thinks fit in relation to the carrying out by the governing body of any obligation arising by virtue of paragraph 4(5) in relation to proposals made by it under section 42(2).
+**9.**[^c-ab98fc2f5ecc25b861098b73f78d8e00] A local authority may give to the governing body of a voluntary aided school such assistance as the authority thinks fit in relation to the carrying out by the governing body of any obligation arising by virtue of paragraph 4(5) in relation to proposals made by it under section 42(2).
 
 #### Assistance in respect of new voluntary aided school
 
-**10.**[^key-d08ba691d938790015975ad53a698e23] A local authority may give to persons required by virtue of paragraph 4(3)(b) to implement proposals to establish a voluntary aided school such assistance as it thinks fit in relation to the carrying out by those persons of any obligation arising by virtue of that paragraph.
+**10.**[^c-d08ba691d938790015975ad53a698e23] A local authority may give to persons required by virtue of paragraph 4(3)(b) to implement proposals to establish a voluntary aided school such assistance as it thinks fit in relation to the carrying out by those persons of any obligation arising by virtue of that paragraph.
 
 #### Duty to transfer interest in premises provided under paragraph 9 or 10
 
-**11.**[^key-2ef4b22f232baf5952e07e53b1478f1a] (1) Where assistance under paragraph 9 or 10 consists of the provision of any premises for use for the purposes of a school, the local authority must transfer its interest in the premises—
+**11.**[^c-2ef4b22f232baf5952e07e53b1478f1a] (1) Where assistance under paragraph 9 or 10 consists of the provision of any premises for use for the purposes of a school, the local authority must transfer its interest in the premises—
 
 - (a) to the trustees of the school to be held on trust for the purposes of the school, or
 - (b) if the school has no trustees, to the school's foundation body, to be held by that body for the purposes of the schools comprising the group for which that body acts.
@@ -179,7 +179,7 @@ summary: ''
 
 #### Single-sex schools
 
-**12.**[^key-4c961d22e1d1a4d5bd4b3b8f53ce2e62] (1) This paragraph applies to proposals to make a regulated alteration described in paragraph 3(1)(a) of Schedule 2 (school to cease to be one which admits pupils of one sex only).
+**12.**[^c-4c961d22e1d1a4d5bd4b3b8f53ce2e62] (1) This paragraph applies to proposals to make a regulated alteration described in paragraph 3(1)(a) of Schedule 2 (school to cease to be one which admits pupils of one sex only).
 
 (2) Sub-paragraph (3) applies where such proposals are made under section 42 or 44 and, in accordance with section 48(4), the proposer sends a copy of the published proposals to the Welsh Ministers.
 
@@ -192,26 +192,26 @@ summary: ''
 
 ## Annotations
 
-[^key-1544cf4485bb2ffaff3e0c9bf4302619]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/1) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-1544cf4485bb2ffaff3e0c9bf4302619]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/1) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-f7067a5daf9e97827a4822e31022da0f]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/2) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-f7067a5daf9e97827a4822e31022da0f]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/2) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-c87b81837cbcdcd364e229c65170fcec]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/3) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-c87b81837cbcdcd364e229c65170fcec]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/3) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-6e78832b1c7c0e6fdb203789814bc5be]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/4) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-6e78832b1c7c0e6fdb203789814bc5be]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/4) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-3d9ecb4664e8eb3de7104fd07edc2eb1]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/5) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-3d9ecb4664e8eb3de7104fd07edc2eb1]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/5) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-0265a2671b21bfdd0ae3f95444a45d17]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/6) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-0265a2671b21bfdd0ae3f95444a45d17]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/6) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-50bc4174a7c4df6202c772e11c94ab12]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/7) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-50bc4174a7c4df6202c772e11c94ab12]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/7) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-15f2b617255845e267ff5fec8f634bde]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/8) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-15f2b617255845e267ff5fec8f634bde]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/8) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-ab98fc2f5ecc25b861098b73f78d8e00]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/9) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-ab98fc2f5ecc25b861098b73f78d8e00]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/9) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-d08ba691d938790015975ad53a698e23]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/10) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-d08ba691d938790015975ad53a698e23]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/10) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-2ef4b22f232baf5952e07e53b1478f1a]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/11) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-2ef4b22f232baf5952e07e53b1478f1a]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/11) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
 
-[^key-4c961d22e1d1a4d5bd4b3b8f53ce2e62]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/12) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)
+[^c-4c961d22e1d1a4d5bd4b3b8f53ce2e62]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2013/1/schedule/3/paragraph/12) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(g)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/g)

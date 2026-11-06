@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Electoral Commission: changes to facilitate efficient administration[^key-847baf316d99f6050c9310bc31028137]
+## 94. Electoral Commission: changes to facilitate efficient administration[^c-847baf316d99f6050c9310bc31028137]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-847baf316d99f6050c9310bc31028137]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2015/20/section/94) in force at 1.1.2016 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1732/article/3/b)
+[^c-847baf316d99f6050c9310bc31028137]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2015/20/section/94) in force at 1.1.2016 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1732/article/3/b)

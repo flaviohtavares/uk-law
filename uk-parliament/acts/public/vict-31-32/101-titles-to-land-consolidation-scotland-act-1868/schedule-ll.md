@@ -22,8 +22,8 @@ summary: ''
 
 ### Form of Instrument in favour of a Trustee on a sequestrated Estate, or of Liquidators of a Joint Stock Company in right of an Heritable Security
 
-[^key-ad9e2798ce7419c90ee17c9a6af5b5ab]...
+[^c-ad9e2798ce7419c90ee17c9a6af5b5ab]...
 
 ## Annotations
 
-[^key-ad9e2798ce7419c90ee17c9a6af5b5ab]: Textual amendment: [Sch. (LL.)](https://www.legislation.gov.uk/ukpga/Vict/31-32/101/schedule) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 8(23)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/8/23), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-ad9e2798ce7419c90ee17c9a6af5b5ab]: Textual amendment: [Sch. (LL.)](https://www.legislation.gov.uk/ukpga/Vict/31-32/101/schedule) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 8(23)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/8/23), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)

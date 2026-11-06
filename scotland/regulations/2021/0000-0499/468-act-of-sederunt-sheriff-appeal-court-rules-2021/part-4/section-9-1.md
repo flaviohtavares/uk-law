@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9.1. Application to refuse appeal due to delay[^key-c4446cfa6b2e32fd88bbd0d1e34223b1]
+## 9.1. Application to refuse appeal due to delay[^c-c4446cfa6b2e32fd88bbd0d1e34223b1]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4446cfa6b2e32fd88bbd0d1e34223b1]: Commencement: Para. 9.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c4446cfa6b2e32fd88bbd0d1e34223b1]: Commencement: Para. 9.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

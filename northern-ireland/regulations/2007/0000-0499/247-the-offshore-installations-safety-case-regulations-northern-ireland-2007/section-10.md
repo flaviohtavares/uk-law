@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Notification of combined operations[^key-4a21f1b0f3a334e0e4bc4d8a5ad1c301]
+## 10. Notification of combined operations[^c-4a21f1b0f3a334e0e4bc4d8a5ad1c301]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a21f1b0f3a334e0e4bc4d8a5ad1c301]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/247/regulation/10) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-4a21f1b0f3a334e0e4bc4d8a5ad1c301]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/247/regulation/10) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

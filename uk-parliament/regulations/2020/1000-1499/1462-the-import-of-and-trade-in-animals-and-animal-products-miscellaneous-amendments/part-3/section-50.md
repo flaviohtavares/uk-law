@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Commission Decision [2007/777/EC](https://www.legislation.gov.uk/european/decision/2007/0777) laying down the animal and public health conditions and model certificates for imports of certain meat products and treated stomachs, bladders and intestines for human consumption from third countries[^key-65d5c84aefd37e11d0ca67b5971eefc7]
+## 50. Commission Decision [2007/777/EC](https://www.legislation.gov.uk/european/decision/2007/0777) laying down the animal and public health conditions and model certificates for imports of certain meat products and treated stomachs, bladders and intestines for human consumption from third countries[^c-65d5c84aefd37e11d0ca67b5971eefc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65d5c84aefd37e11d0ca67b5971eefc7]: Commencement: Reg. 50 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-65d5c84aefd37e11d0ca67b5971eefc7]: Commencement: Reg. 50 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

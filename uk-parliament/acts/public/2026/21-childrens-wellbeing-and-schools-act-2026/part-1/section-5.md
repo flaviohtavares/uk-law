@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Information: children in kinship care and their carers[^key-c540ad3d860ecf7e7c02f0a2a5bd50d2]
+## 5. Information: children in kinship care and their carers[^c-c540ad3d860ecf7e7c02f0a2a5bd50d2]
 
 *Extent: E+W*
 
@@ -99,4 +99,4 @@ After [section 22G](https://www.legislation.gov.uk/ukpga/1989/41/section/22G) of
 
 ## Annotations
 
-[^key-c540ad3d860ecf7e7c02f0a2a5bd50d2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/21/section/5) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-c540ad3d860ecf7e7c02f0a2a5bd50d2]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/21/section/5) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

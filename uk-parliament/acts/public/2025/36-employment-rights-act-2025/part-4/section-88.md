@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Regulations subject to affirmative resolution procedure[^key-6757d207433023f883b5d900f31800bd][^key-1ef7d731ef5741d0801e8cfb6761327c]
+## 88. Regulations subject to affirmative resolution procedure[^c-6757d207433023f883b5d900f31800bd][^c-1ef7d731ef5741d0801e8cfb6761327c]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ In section 293 of the Trade Union and Labour Relations (Consolidation) Act 1992 
 
 ## Annotations
 
-[^key-6757d207433023f883b5d900f31800bd]: Commencement: S. 88 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-6757d207433023f883b5d900f31800bd]: Commencement: S. 88 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-1ef7d731ef5741d0801e8cfb6761327c]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2025/36/section/88) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(24)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/24)
+[^c-1ef7d731ef5741d0801e8cfb6761327c]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2025/36/section/88) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(24)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/24)

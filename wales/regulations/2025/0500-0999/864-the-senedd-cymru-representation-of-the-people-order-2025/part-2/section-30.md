@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Personation[^key-58c2fe3b1e5a08d3391a7a73711a330c]
+## 30. Personation[^c-58c2fe3b1e5a08d3391a7a73711a330c]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-58c2fe3b1e5a08d3391a7a73711a330c]: Commencement: Art. 30 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-58c2fe3b1e5a08d3391a7a73711a330c]: Commencement: Art. 30 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00046]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60). Section 24A was amended by section 110(1) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and section 2 of the Racial and Religious Hatred Act [2006 (c. 1)](https://www.legislation.gov.uk/ukpga/2006/1).

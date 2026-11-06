@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217RKA. No claim if company in administration or liquidation[^key-bceb65e9954ba87a2810170f240ad9d9][^key-ae72997d7de0e438453f66dfd6fd5589]
+## 1217RKA. No claim if company in administration or liquidation[^c-bceb65e9954ba87a2810170f240ad9d9][^c-ae72997d7de0e438453f66dfd6fd5589]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bceb65e9954ba87a2810170f240ad9d9]: Textual amendment: [S. 1217RKA](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RKA) and cross-heading inserted (with effect in accordance with Sch. 4 para. 10(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 10(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/10/1)
+[^c-bceb65e9954ba87a2810170f240ad9d9]: Textual amendment: [S. 1217RKA](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RKA) and cross-heading inserted (with effect in accordance with Sch. 4 para. 10(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 10(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/10/1)
 
-[^key-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
+[^c-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)

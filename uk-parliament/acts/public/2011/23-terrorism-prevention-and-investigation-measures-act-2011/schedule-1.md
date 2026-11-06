@@ -24,7 +24,7 @@ Section 2
 
 ### Part 1 — Measures
 
-#### ... Residence measure[^key-cfcc4188ae8d287b15a5ad7a8584ea16]
+#### ... Residence measure[^c-cfcc4188ae8d287b15a5ad7a8584ea16]
 
 **1.** (1) The Secretary of State may impose restrictions on the individual in relation to the residence in which the individual resides.
 
@@ -32,20 +32,20 @@ Section 2
 
 - (a) a requirement to reside at a specified residence;
 - (b) a requirement to give notice to the Secretary of State of the identity of any other individuals who reside (or will reside) at the specified residence;
-- (c) a requirement, applicable [^key-191810227bb9b8ec996cab0704175c71]... between such hours as are specified, to remain at, or within, the specified residence.
+- (c) a requirement, applicable [^c-191810227bb9b8ec996cab0704175c71]... between such hours as are specified, to remain at, or within, the specified residence.
 
 (3) The specified residence must be—
 
 - (a) premises that are the individual's own residence, or
-- (b)[^key-5469259d50eb265adaf6e49490807961] other premises situated in an agreed locality or in some other locality in the United Kingdom that the Secretary of State considers to be appropriate.
+- (b)[^c-5469259d50eb265adaf6e49490807961] other premises situated in an agreed locality or in some other locality in the United Kingdom that the Secretary of State considers to be appropriate.
 
-(3A)[^key-95694753548ab8db712dd6be536cc8c2] If there are premises that are the individual's own residence at the time when the notice imposing restrictions under this paragraph is served on the individual, premises more than 200 miles from those premises may be specified under sub-paragraph (3)(b) only if they are in an agreed locality.
+(3A)[^c-95694753548ab8db712dd6be536cc8c2] If there are premises that are the individual's own residence at the time when the notice imposing restrictions under this paragraph is served on the individual, premises more than 200 miles from those premises may be specified under sub-paragraph (3)(b) only if they are in an agreed locality.
 
-(4)[^key-aa6d92dd3e7be35b3d30cea743f767ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-aa6d92dd3e7be35b3d30cea743f767ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) An “agreed locality” is a locality in the United Kingdom which is agreed by the Secretary of State and the individual.
 
-(5A)[^key-f2c54d73f79907e2542e76aa7f958e9b] The specified residence (if it is not the individual's own residence) may be a residence provided by or on behalf of the Secretary of State.
+(5A)[^c-f2c54d73f79907e2542e76aa7f958e9b] The specified residence (if it is not the individual's own residence) may be a residence provided by or on behalf of the Secretary of State.
 
 (6) If the specified residence is provided to the individual by or on behalf of the Secretary of State, the Secretary of State may require the individual to comply with any specified terms of occupancy of that residence (which may be specified by reference to a lease or other document).
 
@@ -53,7 +53,7 @@ Section 2
 
 (8) The Secretary of State may grant such permission subject to either or both of the following conditions—
 
-- (a) the condition that the individual remains [^key-3daaefff46c384a8df5952f9a38738dc]... at other agreed premises between such hours as the Secretary of State may require;
+- (a) the condition that the individual remains [^c-3daaefff46c384a8df5952f9a38738dc]... at other agreed premises between such hours as the Secretary of State may require;
 - (b) the condition that the individual complies with such other restrictions in relation to the individual's movements whilst away from the specified residence as are so required.
 
 (9) “Agreed premises” are premises in the United Kingdom which are agreed by the Secretary of State and the individual.
@@ -69,7 +69,7 @@ Section 2
 
 **2.** (1) The Secretary of State may impose restrictions on the individual leaving a specified area or travelling outside that area.
 
-(2)[^key-5673a1e11bcb4bcb59111a8960157ab2] The specified area must be—
+(2)[^c-5673a1e11bcb4bcb59111a8960157ab2] The specified area must be—
 
 - (a) the United Kingdom, or
 - (b) any area within the United Kingdom that includes the place where the individual will be living.
@@ -134,7 +134,7 @@ Section 2
 - (a) the individual gives notice to the Secretary of State of the holding of the nominated account, and
 - (b) the account is held with a bank.
 
-(4) In sub-paragraph (3) “**bank**” means an institution which is incorporated in, or formed under the law of, any part of the United Kingdom and which has permission under Part 4A[^key-372b97b1bb7c00b7a636c312747ee5ba] of the Financial Services and Markets Act 2000 to carry on the regulated activity of accepting deposits (within the meaning of section 22 of that Act, taken with Schedule 2 to that Act and any order under section 22 of that Act).
+(4) In sub-paragraph (3) “**bank**” means an institution which is incorporated in, or formed under the law of, any part of the United Kingdom and which has permission under Part 4A[^c-372b97b1bb7c00b7a636c312747ee5ba] of the Financial Services and Markets Act 2000 to carry on the regulated activity of accepting deposits (within the meaning of section 22 of that Act, taken with Schedule 2 to that Act and any order under section 22 of that Act).
 
 (5) The reference in sub-paragraph (2)(d) to possessing or otherwise controlling cash does not include any cash that is held in an account with a person providing financial services (in accordance with any requirements imposed under this paragraph).
 
@@ -181,16 +181,16 @@ Section 2
 
 (5) In this paragraph “**property**” includes rights over, or in relation to, property (including rights of use and rights to grant access); and a reference to the transfer of property includes a reference to the acquisition or disposal of such rights.
 
-#### Weapons and explosives measure[^key-f64aabdbe3c23db19977752cabaf4904]
+#### Weapons and explosives measure[^c-f64aabdbe3c23db19977752cabaf4904]
 
 **6A.** (1) The Secretary of State may impose on the individual—
 
-- (za)[^key-8120b8c9cdbe9143c964dfa62a8d455f] a prohibition on possessing things of a specified description;
+- (za)[^c-8120b8c9cdbe9143c964dfa62a8d455f] a prohibition on possessing things of a specified description;
 - (zb) a prohibition on possessing things of a specified description without the permission of the Secretary of State;
-- (a) a prohibition on possessing [^key-02578ad8fa52f9ca88f987501e8fdd64]... imitation firearms or explosives;
+- (a) a prohibition on possessing [^c-02578ad8fa52f9ca88f987501e8fdd64]... imitation firearms or explosives;
 - (b) a prohibition on making an application for a firearm certificate or a shot gun certificate.
 
-(1A)[^key-2c0a9e18b40aa64b587111724ab9a8e9] The descriptions of things which may be specified under sub-paragraph (1)(za) or (zb) are—
+(1A)[^c-2c0a9e18b40aa64b587111724ab9a8e9] The descriptions of things which may be specified under sub-paragraph (1)(za) or (zb) are—
 
 - (a) any description of corrosive substances (as defined by section 6 of the Offensive Weapons Act 2019);
 - (b) any description of motor vehicles;
@@ -199,7 +199,7 @@ Section 2
 
 (2) In sub-paragraph (1)(a)—
 
-- [^key-cd919129212e0f490505b63dc8d68666]...
+- [^c-cd919129212e0f490505b63dc8d68666]...
 - “ **imitation firearm** ” has the same meaning as in the Firearms Act 1968 or (in relation to Northern Ireland) the Firearms (Northern Ireland) Order 2004 ( S.I. 2004/702 (N.I. 3));
 - “ **explosive** ” means anything that is—
   - (a) an explosive within the meaning of the Explosives Act 1875, or
@@ -235,7 +235,7 @@ Section 2
 - (c) the monitoring of such use;
 - (d) the granting to a specified description of person of access to the individual's premises for the purpose of the inspection or modification of a device;
 - (e) the surrendering to a specified description of person of a device on a temporary basis for the purpose of its inspection or modification at another place.
-- (f)[^key-b63ae60c6bcffa751ccb2e9dd7979cef] the disclosure to the Secretary of State of such details as may be specified of any electronic communication device possessed or used by the individual or any other person in the individual's residence.
+- (f)[^c-b63ae60c6bcffa751ccb2e9dd7979cef] the disclosure to the Secretary of State of such details as may be specified of any electronic communication device possessed or used by the individual or any other person in the individual's residence.
 
 (5) An “ **electronic communication device** ” means any of the following—
 
@@ -247,8 +247,8 @@ Section 2
 
 - (a) computers,
 - (b) telephones (whether mobile telephones or telephones operated by connection to a fixed line),
-- (c) equipment (not within paragraph (a) or (b)) designed or adapted, or capable of being adapted,[^key-78f78fbfb5d69d4a73eaa91ef4e8c47c] for the purpose of connecting to the internet, and
-- (d) equipment designed or adapted, or capable of being adapted,[^key-e4148c4f9226cc244627819149495ed2] for the purposes of sending or receiving facsimile transmissions.
+- (c) equipment (not within paragraph (a) or (b)) designed or adapted, or capable of being adapted,[^c-78f78fbfb5d69d4a73eaa91ef4e8c47c] for the purpose of connecting to the internet, and
+- (d) equipment designed or adapted, or capable of being adapted,[^c-e4148c4f9226cc244627819149495ed2] for the purposes of sending or receiving facsimile transmissions.
 
 #### Association measure
 
@@ -288,7 +288,7 @@ Section 2
 
 (2) Such a notice may, in particular, provide that a requirement to report to a police station is not to apply if conditions specified in the notice are met.
 
-#### Polygraph measure[^key-c4af2151dd04455d431e2df441b7f51a]
+#### Polygraph measure[^c-c4af2151dd04455d431e2df441b7f51a]
 
 **10ZA.** (1) The Secretary of State may impose a requirement for the individual—
 
@@ -329,7 +329,7 @@ Section 2
   - (a) conducts one or more polygraph examinations of the individual, and
   - (b) interviews the individual in preparation for, or otherwise in connection with, any such examination.
 
-#### Drug testing measure[^key-2e8da8d5e8216575cab85fc2ae6b20fc]
+#### Drug testing measure[^c-2e8da8d5e8216575cab85fc2ae6b20fc]
 
 **10ZB.** (1) The Secretary of State may impose a requirement for the individual—
 
@@ -366,7 +366,7 @@ Section 2
 
 (5) A statutory instrument containing regulations under sub-paragraph (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-#### Appointments measure[^key-522595a6d9d5581cebaf3f8fa71b1532]
+#### Appointments measure[^c-522595a6d9d5581cebaf3f8fa71b1532]
 
 **10A.** (1) The Secretary of State may impose a requirement for the individual—
 
@@ -395,7 +395,7 @@ Section 2
 
 (3) Directions under sub-paragraph (2)(d) may include directions requiring the individual to grant access to the individual's residence for the purpose of the inspection or modification of any apparatus used or maintained under the arrangements.
 
-#### Provision of residence information measure[^key-ac3bcbb68ed6c144917831f510ec8ae3]
+#### Provision of residence information measure[^c-ac3bcbb68ed6c144917831f510ec8ae3]
 
 **12A.** (1) The Secretary of State may impose a requirement for the individual to disclose to the Secretary of State—
 
@@ -454,44 +454,44 @@ Section 2
 
 ## Annotations
 
-[^key-cfcc4188ae8d287b15a5ad7a8584ea16]: Textual amendment: Word in Sch. 1 para. 1 cross-heading omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 37(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/37/a), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-cfcc4188ae8d287b15a5ad7a8584ea16]: Textual amendment: Word in Sch. 1 para. 1 cross-heading omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 37(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/37/a), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-191810227bb9b8ec996cab0704175c71]: Textual amendment: Word in Sch. 1 para. 1(2)(c) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 37(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/37/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-191810227bb9b8ec996cab0704175c71]: Textual amendment: Word in Sch. 1 para. 1(2)(c) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 37(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/37/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-5469259d50eb265adaf6e49490807961]: Textual amendment: Sch. 1 para. 1(3)(b) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2015/6/section/16/2), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-5469259d50eb265adaf6e49490807961]: Textual amendment: Sch. 1 para. 1(3)(b) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2015/6/section/16/2), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
-[^key-95694753548ab8db712dd6be536cc8c2]: Textual amendment: Sch. 1 para. 1(3A) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2015/6/section/16/3), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-95694753548ab8db712dd6be536cc8c2]: Textual amendment: Sch. 1 para. 1(3A) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2015/6/section/16/3), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
-[^key-aa6d92dd3e7be35b3d30cea743f767ec]: Textual amendment: Sch. 1 para. 1(4) omitted (12.2.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2015/6/section/16/4), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-aa6d92dd3e7be35b3d30cea743f767ec]: Textual amendment: Sch. 1 para. 1(4) omitted (12.2.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2015/6/section/16/4), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
-[^key-f2c54d73f79907e2542e76aa7f958e9b]: Textual amendment: Sch. 1 para. 1(5A) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 16(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/16/5), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-f2c54d73f79907e2542e76aa7f958e9b]: Textual amendment: Sch. 1 para. 1(5A) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 16(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/16/5), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
-[^key-3daaefff46c384a8df5952f9a38738dc]: Textual amendment: Word in Sch. 1 para. 1(8)(a) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 37(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/37/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-3daaefff46c384a8df5952f9a38738dc]: Textual amendment: Word in Sch. 1 para. 1(8)(a) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 37(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/37/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-5673a1e11bcb4bcb59111a8960157ab2]: Textual amendment: Sch. 1 para. 2(2) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/17/5), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-5673a1e11bcb4bcb59111a8960157ab2]: Textual amendment: Sch. 1 para. 2(2) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/17/5), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
-[^key-372b97b1bb7c00b7a636c312747ee5ba]: Textual amendment: Words in Sch. 1 para. 5(4) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 135](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/135) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-372b97b1bb7c00b7a636c312747ee5ba]: Textual amendment: Words in Sch. 1 para. 5(4) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 135](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/135) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-f64aabdbe3c23db19977752cabaf4904]: Textual amendment: Sch. 1 para. 6A and preceding cross-heading inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6) , [ss. 18](https://www.legislation.gov.uk/ukpga/2015/6/section/18) , [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-f64aabdbe3c23db19977752cabaf4904]: Textual amendment: Sch. 1 para. 6A and preceding cross-heading inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6) , [ss. 18](https://www.legislation.gov.uk/ukpga/2015/6/section/18) , [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
-[^key-8120b8c9cdbe9143c964dfa62a8d455f]: Textual amendment: [Sch. 1 para. 6A(1)(za)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/1/za)[(zb)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/1/zb) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/1/a/i), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
+[^c-8120b8c9cdbe9143c964dfa62a8d455f]: Textual amendment: [Sch. 1 para. 6A(1)(za)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/1/za)[(zb)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/1/zb) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/1/a/i), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
 
-[^key-02578ad8fa52f9ca88f987501e8fdd64]: Textual amendment: Words in [Sch. 1 para. 6A(1)(a)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/1/a) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/1/a/ii), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
+[^c-02578ad8fa52f9ca88f987501e8fdd64]: Textual amendment: Words in [Sch. 1 para. 6A(1)(a)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/1/a) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/1/a/ii), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
 
-[^key-2c0a9e18b40aa64b587111724ab9a8e9]: Textual amendment: [Sch. 1 para. 6A(1A)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/1A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(1)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/1/b), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
+[^c-2c0a9e18b40aa64b587111724ab9a8e9]: Textual amendment: [Sch. 1 para. 6A(1A)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/1A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(1)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/1/b), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
 
-[^key-cd919129212e0f490505b63dc8d68666]: Textual amendment: Words in [Sch. 1 para. 6A(2)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/2) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(1)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/1/c), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
+[^c-cd919129212e0f490505b63dc8d68666]: Textual amendment: Words in [Sch. 1 para. 6A(2)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/6A/2) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 232(1)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/1/c), [255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i) (with [s. 232(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/232/3))
 
-[^key-b63ae60c6bcffa751ccb2e9dd7979cef]: Textual amendment: [Sch. 1 para. 7(4)(f)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/7/4/f) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 40(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/40/2/a), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-b63ae60c6bcffa751ccb2e9dd7979cef]: Textual amendment: [Sch. 1 para. 7(4)(f)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/7/4/f) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 40(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/40/2/a), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-78f78fbfb5d69d4a73eaa91ef4e8c47c]: Textual amendment: Words in [Sch. 1 para. 7(6)(c)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/7/6/c) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 40(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/40/2/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-78f78fbfb5d69d4a73eaa91ef4e8c47c]: Textual amendment: Words in [Sch. 1 para. 7(6)(c)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/7/6/c) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 40(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/40/2/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-e4148c4f9226cc244627819149495ed2]: Textual amendment: Words in [Sch. 1 para. 7(6)(d)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/7/6/d) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 40(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/40/2/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-e4148c4f9226cc244627819149495ed2]: Textual amendment: Words in [Sch. 1 para. 7(6)(d)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/1/paragraph/7/6/d) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 40(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/40/2/b), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-c4af2151dd04455d431e2df441b7f51a]: Textual amendment: Sch. 1 para. 10ZA and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2021/11/section/38/1), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-c4af2151dd04455d431e2df441b7f51a]: Textual amendment: Sch. 1 para. 10ZA and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2021/11/section/38/1), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-2e8da8d5e8216575cab85fc2ae6b20fc]: Textual amendment: Sch. 1 para. 10ZB and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 39(1)](https://www.legislation.gov.uk/ukpga/2021/11/section/39/1), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-2e8da8d5e8216575cab85fc2ae6b20fc]: Textual amendment: Sch. 1 para. 10ZB and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 39(1)](https://www.legislation.gov.uk/ukpga/2021/11/section/39/1), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-522595a6d9d5581cebaf3f8fa71b1532]: Textual amendment: Sch. 1 para. 10A and preceding cross-heading inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6) , [ss. 19](https://www.legislation.gov.uk/ukpga/2015/6/section/19) , [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-522595a6d9d5581cebaf3f8fa71b1532]: Textual amendment: Sch. 1 para. 10A and preceding cross-heading inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6) , [ss. 19](https://www.legislation.gov.uk/ukpga/2015/6/section/19) , [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
-[^key-ac3bcbb68ed6c144917831f510ec8ae3]: Textual amendment: Sch. 1 para. 12A and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/40/3), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-ac3bcbb68ed6c144917831f510ec8ae3]: Textual amendment: Sch. 1 para. 12A and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/40/3), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)

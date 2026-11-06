@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Meaning of “social care worker” etc.[^key-750bc2b443475a8799baa9c8ccaef2d8]
+## 79. Meaning of “social care worker” etc.[^c-750bc2b443475a8799baa9c8ccaef2d8]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-750bc2b443475a8799baa9c8ccaef2d8]: Commencement: S. 79 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-750bc2b443475a8799baa9c8ccaef2d8]: Commencement: S. 79 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
 [^M_F_9aa2a62a-2e62-4145-a349-8064a7d9d067]: Textual amendment: Words in s. 79(1)(b) inserted (18.11.2016) by [The European Qualifications (Health and Social Care Professions) Regulations 2016 (S.I. 2016/1030)](https://www.legislation.gov.uk/uksi/2016/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1), [124(2)](https://www.legislation.gov.uk/uksi/2016/1030/regulation/124/2) (with [reg. 155](https://www.legislation.gov.uk/uksi/2016/1030/regulation/155))

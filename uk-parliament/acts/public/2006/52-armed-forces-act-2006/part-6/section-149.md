@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Making of, and appeals from, decisions of the SAC[^key-b63bed82f9239a978ba41694c2285dbc][^key-49c405588f0cc14cf47b6ec76e0330d1]
+## 149. Making of, and appeals from, decisions of the SAC[^c-b63bed82f9239a978ba41694c2285dbc][^c-49c405588f0cc14cf47b6ec76e0330d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b63bed82f9239a978ba41694c2285dbc]: Commencement: S. 149 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b63bed82f9239a978ba41694c2285dbc]: Commencement: S. 149 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-49c405588f0cc14cf47b6ec76e0330d1]: Commencement: S. 149 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-49c405588f0cc14cf47b6ec76e0330d1]: Commencement: S. 149 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

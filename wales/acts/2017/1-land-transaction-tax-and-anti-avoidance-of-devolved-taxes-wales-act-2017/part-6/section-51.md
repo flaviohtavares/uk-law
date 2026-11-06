@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Return as a result of later linked transaction[^key-67420d634693c9cce8ccd19f5601baaa]
+## 51. Return as a result of later linked transaction[^c-67420d634693c9cce8ccd19f5601baaa]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67420d634693c9cce8ccd19f5601baaa]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2017/1/section/51) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-67420d634693c9cce8ccd19f5601baaa]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2017/1/section/51) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

@@ -35,26 +35,26 @@ amending Regulation (EC) No 1292/2008 and Implementing Regulation (EU) No 887/20
 
 (Text with EEA relevance) (revoked)
 
-[^key-ca72aaabf908f62ed675da13389b084d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca72aaabf908f62ed675da13389b084d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment to Regulation (EC) No 1292/2008[^key-ca72aaabf908f62ed675da13389b084d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Implementing Regulation (EU) No 887/2011[^key-ca72aaabf908f62ed675da13389b084d]
+## Article 1. Amendment to Regulation (EC) No 1292/2008[^c-ca72aaabf908f62ed675da13389b084d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-ca72aaabf908f62ed675da13389b084d]
+## Article 2. Amendment to Implementing Regulation (EU) No 887/2011[^c-ca72aaabf908f62ed675da13389b084d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-ca72aaabf908f62ed675da13389b084d]
+## Article 3. Transitional measures[^c-ca72aaabf908f62ed675da13389b084d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ca72aaabf908f62ed675da13389b084d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Entry into force[^c-ca72aaabf908f62ed675da13389b084d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ca72aaabf908f62ed675da13389b084d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca72aaabf908f62ed675da13389b084d]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 31](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/31)
+[^c-ca72aaabf908f62ed675da13389b084d]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 31](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/31)

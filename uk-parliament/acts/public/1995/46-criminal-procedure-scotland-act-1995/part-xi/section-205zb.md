@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205ZB. Minimum punishment part where life sentence imposed for serious terrorism offence[^key-d41556bc47e8cb322aec786c078a4c05]
+## 205ZB. Minimum punishment part where life sentence imposed for serious terrorism offence[^c-d41556bc47e8cb322aec786c078a4c05]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d41556bc47e8cb322aec786c078a4c05]: Textual amendment: [S. 205ZB](https://www.legislation.gov.uk/ukpga/1995/46/section/205ZB) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 12](https://www.legislation.gov.uk/ukpga/2021/11/section/12), [50(2)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/g)
+[^c-d41556bc47e8cb322aec786c078a4c05]: Textual amendment: [S. 205ZB](https://www.legislation.gov.uk/ukpga/1995/46/section/205ZB) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 12](https://www.legislation.gov.uk/ukpga/2021/11/section/12), [50(2)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/g)

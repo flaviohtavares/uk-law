@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Company analogous to a partnership or one person business[^key-942cb1f2e714445c2546e8fdade2d610]
+## 76. Company analogous to a partnership or one person business[^c-942cb1f2e714445c2546e8fdade2d610]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-942cb1f2e714445c2546e8fdade2d610]: Commencement: [Reg. 76](https://www.legislation.gov.uk/ssi/2021/249/regulation/76) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-942cb1f2e714445c2546e8fdade2d610]: Commencement: [Reg. 76](https://www.legislation.gov.uk/ssi/2021/249/regulation/76) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00185]: Footnote: [2009 c.4](https://www.legislation.gov.uk/ukpga/2009/4).

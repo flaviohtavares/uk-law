@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Miscellaneous Food Additives Amendment (Scotland) (No. 2) Regulations 2003 (revoked)[^key-343276989964e9b84061bc6d872c8b0c]
+The Miscellaneous Food Additives Amendment (Scotland) (No. 2) Regulations 2003 (revoked)[^c-343276989964e9b84061bc6d872c8b0c]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 17th January 2004
 
-[^key-343276989964e9b84061bc6d872c8b0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-343276989964e9b84061bc6d872c8b0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-343276989964e9b84061bc6d872c8b0c]
+## 1. Citation, commencement and extent[^c-343276989964e9b84061bc6d872c8b0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^key-343276989964e9b84061bc6d872c8b0c]
+## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^c-343276989964e9b84061bc6d872c8b0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-343276989964e9b84061bc6d872c8b0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-343276989964e9b84061bc6d872c8b0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-343276989964e9b84061bc6d872c8b0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-343276989964e9b84061bc6d872c8b0c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-343276989964e9b84061bc6d872c8b0c]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)
+[^c-343276989964e9b84061bc6d872c8b0c]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)

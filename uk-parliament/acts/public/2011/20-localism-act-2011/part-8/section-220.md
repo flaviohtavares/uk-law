@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Directions by the Mayor[^key-7c19bb0d530960d2e6316bee71cbbf9e][^key-3375e98e1835a6eefd480721b74ed6ec][^key-980e2238474bf0779c9013561de64b53][^key-eada4f88f4769f792731d2fc31c590a2][^key-250b381cc6b3a829195738e959b9cac8][^key-3375e98e1835a6eefd480721b74ed6ec]
+## 220. Directions by the Mayor[^c-7c19bb0d530960d2e6316bee71cbbf9e][^c-3375e98e1835a6eefd480721b74ed6ec][^c-980e2238474bf0779c9013561de64b53][^c-eada4f88f4769f792731d2fc31c590a2][^c-250b381cc6b3a829195738e959b9cac8][^c-3375e98e1835a6eefd480721b74ed6ec]
 
 *Extent: E+W*
 
-[^key-eada4f88f4769f792731d2fc31c590a2][^key-250b381cc6b3a829195738e959b9cac8]
+[^c-eada4f88f4769f792731d2fc31c590a2][^c-250b381cc6b3a829195738e959b9cac8]
 
 (1) The Mayor may give an MDC general or specific directions as to the exercise of any of the MDC's functions.
 
@@ -39,12 +39,12 @@ summary: ''
 
 ## Annotations
 
-[^key-7c19bb0d530960d2e6316bee71cbbf9e]: Modification: [S. 220](https://www.legislation.gov.uk/ukpga/2011/20/section/220): functions made exercisable (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1432/article/10)
+[^c-7c19bb0d530960d2e6316bee71cbbf9e]: Modification: [S. 220](https://www.legislation.gov.uk/ukpga/2011/20/section/220): functions made exercisable (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1432/article/10)
 
-[^key-3375e98e1835a6eefd480721b74ed6ec]: Modification: Pt. 8 Ch. 2 applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1432/schedule/3)
+[^c-3375e98e1835a6eefd480721b74ed6ec]: Modification: Pt. 8 Ch. 2 applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1432/schedule/3)
 
-[^key-980e2238474bf0779c9013561de64b53]: Modification: [Ss. 219-221](https://www.legislation.gov.uk/ukpga/2011/20/section/219): functions made exercisable (7.5.2024) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3), [27(1)-(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/1)
+[^c-980e2238474bf0779c9013561de64b53]: Modification: [Ss. 219-221](https://www.legislation.gov.uk/ukpga/2011/20/section/219): functions made exercisable (7.5.2024) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3), [27(1)-(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/1)
 
-[^key-eada4f88f4769f792731d2fc31c590a2]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2024/402/article/40/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-eada4f88f4769f792731d2fc31c590a2]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2024/402/article/40/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-250b381cc6b3a829195738e959b9cac8]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(2)](https://www.legislation.gov.uk/uksi/2024/402/article/40/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-250b381cc6b3a829195738e959b9cac8]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(2)](https://www.legislation.gov.uk/uksi/2024/402/article/40/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))

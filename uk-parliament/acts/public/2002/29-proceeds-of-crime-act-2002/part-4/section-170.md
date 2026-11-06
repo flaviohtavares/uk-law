@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. No order made: reconsideration of benefit[^key-c68e60b15b9a418aa72e6f75c2349be2][^key-e3634034bab4be7cd4cb838ceea63874][^key-e3634034bab4be7cd4cb838ceea63874]
+## 170. No order made: reconsideration of benefit[^c-c68e60b15b9a418aa72e6f75c2349be2][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874]
 
 *Extent: N.I.*
 
@@ -27,12 +27,12 @@ summary: ''
 - (a) the defendant has a criminal lifestyle but has not benefited from his general criminal conduct, or
 - (b) the defendant does not have a criminal lifestyle and has not benefited from his particular criminal conduct.
 
-(3)[^key-d689e35fcc3e13c1b7b1dea71ca44633] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d689e35fcc3e13c1b7b1dea71ca44633] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) [^key-c097af15666d96f51401cc6849012b04]... the second condition is that—
+(4) [^c-c097af15666d96f51401cc6849012b04]... the second condition is that—
 
 - (a) there is evidence which was not available to the prosecutor when the court decided that the defendant had not benefited from his general or particular criminal conduct,
-- (b) before the end of the period of six years starting with the date of conviction the prosecutor [^key-19a3a917ba5cbdd25ca602e0b84d1618]... applies to the Crown Court to consider the evidence, and
+- (b) before the end of the period of six years starting with the date of conviction the prosecutor [^c-19a3a917ba5cbdd25ca602e0b84d1618]... applies to the Crown Court to consider the evidence, and
 - (c) after considering the evidence the court concludes that it would have decided that the defendant had benefited from his general or particular criminal conduct (as the case may be) if the evidence had been available to it.
 
 (5) If this section applies the court—
@@ -74,12 +74,12 @@ summary: ''
 
 ## Annotations
 
-[^key-c68e60b15b9a418aa72e6f75c2349be2]: Commencement: S. 170 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-c68e60b15b9a418aa72e6f75c2349be2]: Commencement: S. 170 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
+[^c-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
 
-[^key-d689e35fcc3e13c1b7b1dea71ca44633]: Textual amendment: S. 170(3) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 43(2)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/43/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-d689e35fcc3e13c1b7b1dea71ca44633]: Textual amendment: S. 170(3) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 43(2)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/43/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-c097af15666d96f51401cc6849012b04]: Textual amendment: Words in s. 170(4) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 43(3)(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/43/3/a), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-c097af15666d96f51401cc6849012b04]: Textual amendment: Words in s. 170(4) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 43(3)(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/43/3/a), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-19a3a917ba5cbdd25ca602e0b84d1618]: Textual amendment: Words in s. 170(4)(b) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 43(3)(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/43/3/b), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-19a3a917ba5cbdd25ca602e0b84d1618]: Textual amendment: Words in s. 170(4)(b) repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 43(3)(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/43/3/b), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))

@@ -34,10 +34,10 @@ summary: ''
 
 7. After repair of a system failure related to the receiver, missing messages shall be accessible on request. A manual follow-up procedure may be applied.
 
-8. All senders and receivers of messages [^key-19f95b2b50d73192d20bb8b7f61434f6]... shall establish failover procedures for business continuity.
+8. All senders and receivers of messages [^c-19f95b2b50d73192d20bb8b7f61434f6]... shall establish failover procedures for business continuity.
 
 ## Annotations
 
 [^c000002]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2015/1962 of 28 October 2015 amending Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy](https://www.legislation.gov.uk/eur/2015/1962).
 
-[^key-19f95b2b50d73192d20bb8b7f61434f6]: Textual amendment: Words in [Art. 146d(8)](https://www.legislation.gov.uk/eur/2011/404/article/146d/8) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(99)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/99); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19f95b2b50d73192d20bb8b7f61434f6]: Textual amendment: Words in [Art. 146d(8)](https://www.legislation.gov.uk/eur/2011/404/article/146d/8) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(99)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/99); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

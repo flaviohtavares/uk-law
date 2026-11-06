@@ -56,7 +56,7 @@ Section 49(1).
 
 ### Extension of employment protection provisions and related legislation to House of Lords Staff
 
-**8.**[^key-ae02e8e65527ce1748e888c9b66c8d12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ae02e8e65527ce1748e888c9b66c8d12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** After section 85A of the [^c1092650]Sex Discrimination Act 1975 (application to House of Commons staff) there shall be inserted—
 
@@ -120,7 +120,7 @@ Section 49(1).
 
 ### Codes of practice on employment : use in proceedings
 
-**15.**[^key-860bf540e1d3fa593da2fe9b89c0f7d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-860bf540e1d3fa593da2fe9b89c0f7d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Parliamentary procedure: orders modifying application of redundancy provisions
 
@@ -188,7 +188,7 @@ of paragraph (b) and there shall be inserted as paragraph (c) the following, pre
 
 [^c1092647]: Textual amendment: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/1993/19/schedule/7/paragraph/7) repealed (22.8.1996) by [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17), [ss. 45](https://www.legislation.gov.uk/ukpga/1996/17/section/45), [46](https://www.legislation.gov.uk/ukpga/1996/17/section/46), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/17/schedule/3/part/I) (with [s. 38](https://www.legislation.gov.uk/ukpga/1996/17/section/38))
 
-[^key-ae02e8e65527ce1748e888c9b66c8d12]: Textual amendment: Sch. 7 para. 8 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-ae02e8e65527ce1748e888c9b66c8d12]: Textual amendment: Sch. 7 para. 8 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
 
 [^c1092650]: Marginal citation: [1975 c. 65](https://www.legislation.gov.uk/ukpga/1975/65).
 
@@ -202,7 +202,7 @@ of paragraph (b) and there shall be inserted as paragraph (c) the following, pre
 
 [^c1092657]: Textual amendment: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/1993/19/schedule/7/paragraph/14) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-860bf540e1d3fa593da2fe9b89c0f7d4]: Textual amendment: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/1993/19/schedule/7/paragraph/15) repealed (1.10.2007) by [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3), [s. 93(1)](https://www.legislation.gov.uk/ukpga/2006/3/section/93/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/3/schedule/4) (with [s. 92](https://www.legislation.gov.uk/ukpga/2006/3/section/92)); [S.I. 2007/2603](https://www.legislation.gov.uk/uksi/2007/2603), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2603/article/2/d)
+[^c-860bf540e1d3fa593da2fe9b89c0f7d4]: Textual amendment: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/1993/19/schedule/7/paragraph/15) repealed (1.10.2007) by [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3), [s. 93(1)](https://www.legislation.gov.uk/ukpga/2006/3/section/93/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/3/schedule/4) (with [s. 92](https://www.legislation.gov.uk/ukpga/2006/3/section/92)); [S.I. 2007/2603](https://www.legislation.gov.uk/uksi/2007/2603), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2603/article/2/d)
 
 [^c1092661]: Textual amendment: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/1993/19/schedule/7/paragraph/16) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 

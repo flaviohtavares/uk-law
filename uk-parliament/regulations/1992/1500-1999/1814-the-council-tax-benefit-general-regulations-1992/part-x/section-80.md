@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Withholding of benefit[^key-2a08ba9569ac095f95002de37c42a807]
+## 80. Withholding of benefit[^c-2a08ba9569ac095f95002de37c42a807]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a08ba9569ac095f95002de37c42a807]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/1992/1814/regulation/80) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-2a08ba9569ac095f95002de37c42a807]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/1992/1814/regulation/80) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00074]: Footnote: Section 76 was amended to apply to council tax benefit by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) Schedule 9 paragraph 15.

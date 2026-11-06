@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20A. Maintaining or lowering a supervision level on review – coronavirus[^key-82e5f4314f40cd242d75dfcbb533ad6a]
+## 20A. Maintaining or lowering a supervision level on review – coronavirus[^c-82e5f4314f40cd242d75dfcbb533ad6a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82e5f4314f40cd242d75dfcbb533ad6a]: Textual amendment: Rule 20A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(b)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/b)
+[^c-82e5f4314f40cd242d75dfcbb533ad6a]: Textual amendment: Rule 20A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(b)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/b)

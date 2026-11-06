@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Exclusion of certain expenditure: structures and buildings allowances[^key-6b26c9ae09bdd1396ab083fce4f4166c]
+## 39A. Exclusion of certain expenditure: structures and buildings allowances[^c-6b26c9ae09bdd1396ab083fce4f4166c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b26c9ae09bdd1396ab083fce4f4166c]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1992/12/section/39A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/4/6)
+[^c-6b26c9ae09bdd1396ab083fce4f4166c]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1992/12/section/39A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/4/6)

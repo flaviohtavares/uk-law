@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164. Ancillary provision[^key-18bc6a26ac092d538f0752566ba70256]
+## 164. Ancillary provision[^c-18bc6a26ac092d538f0752566ba70256]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18bc6a26ac092d538f0752566ba70256]: Commencement: [S. 164](https://www.legislation.gov.uk/asp/2010/5/section/164) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(g)](https://www.legislation.gov.uk/ssi/2010/230/article/2/g)
+[^c-18bc6a26ac092d538f0752566ba70256]: Commencement: [S. 164](https://www.legislation.gov.uk/asp/2010/5/section/164) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(g)](https://www.legislation.gov.uk/ssi/2010/230/article/2/g)

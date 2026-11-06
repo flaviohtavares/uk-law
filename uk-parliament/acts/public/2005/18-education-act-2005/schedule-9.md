@@ -61,9 +61,9 @@ Section 61
 
 **7.** In section 26 of the Judicial Pensions and Retirement Act 1993 (retirement date for holders of certain judicial offices etc.) in subsection (8)(h), for “Schedule 2 to the School Inspections Act 1996” substitute “ Schedule 3 to the Education Act 2005 ”.
 
-### ...[^key-89638edaee3c818d19a1aa479957b6d6]
+### ...[^c-89638edaee3c818d19a1aa479957b6d6]
 
-**8.**[^key-7e4753e9ac98a8417361c33ca329ad45][^c19146091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7e4753e9ac98a8417361c33ca329ad45][^c19146091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Act 1996 (c. 56)
 
@@ -73,9 +73,9 @@ Section 61
 
 ### Education Act 1997 (c. 44)
 
-**11.**[^c19146361] In section 38 of the Education Act 1997 (inspection of local authorities[^key-a2173b6f678e4942b640e80d5cd628b4]) in subsection (5)(b) for “paragraph 2 of Schedule 1 to the School Inspections Act 1996” substitute “ paragraph 2 of Schedule 1 to the Education Act 2005 or (as the case requires) paragraph 2 of Schedule 2 to that Act ”.
+**11.**[^c19146361] In section 38 of the Education Act 1997 (inspection of local authorities[^c-a2173b6f678e4942b640e80d5cd628b4]) in subsection (5)(b) for “paragraph 2 of Schedule 1 to the School Inspections Act 1996” substitute “ paragraph 2 of Schedule 1 to the Education Act 2005 or (as the case requires) paragraph 2 of Schedule 2 to that Act ”.
 
-**12.**[^c19150011] In section 39 of the Education Act 1997 (reports of inspections under section 38 and action plan by local authority[^key-94ed0295e29907765ea29be5dd3e5cb4]), in subsection (4)—
+**12.**[^c19150011] In section 39 of the Education Act 1997 (reports of inspections under section 38 and action plan by local authority[^c-94ed0295e29907765ea29be5dd3e5cb4]), in subsection (4)—
 
 - (a) for “section 42A(2) to (4) of the School Inspections Act 1996” substitute “ section 11(2) to (4) of the Education Act 2005 or, in relation to Wales, section 29(2) to (4) of that Act ”, and
 - (b) for “section 42A(2)” substitute “ section 11(2) or, as the case may be, section 29(2) ”.
@@ -84,19 +84,19 @@ Section 61
 
 ### School Standards and Framework Act 1998 (c. 31)
 
-**14.**[^key-b12c4de7a50d94312b390e6a1dcec5d8][^c19150051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b12c4de7a50d94312b390e6a1dcec5d8][^c19150051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-b12c4de7a50d94312b390e6a1dcec5d8][^c19150061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b12c4de7a50d94312b390e6a1dcec5d8][^c19150061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-b12c4de7a50d94312b390e6a1dcec5d8][^c19270641] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-b12c4de7a50d94312b390e6a1dcec5d8][^c19270641] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-b12c4de7a50d94312b390e6a1dcec5d8][^c19270651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-b12c4de7a50d94312b390e6a1dcec5d8][^c19270651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-b12c4de7a50d94312b390e6a1dcec5d8][^c19270681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-b12c4de7a50d94312b390e6a1dcec5d8][^c19270681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-b12c4de7a50d94312b390e6a1dcec5d8][^c19270981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-b12c4de7a50d94312b390e6a1dcec5d8][^c19270981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-b12c4de7a50d94312b390e6a1dcec5d8][^c19271001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-b12c4de7a50d94312b390e6a1dcec5d8][^c19271001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **21.**[^c19271011] [^c19275191]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -110,9 +110,9 @@ Section 61
 
 ### Learning and Skills Act 2000 (c. 21)
 
-**24.**[^key-077fe528c3a0cad86c672f7b25939f5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-077fe528c3a0cad86c672f7b25939f5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-4ff8bcade7886ab64eb042fe0c0d0e0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-4ff8bcade7886ab64eb042fe0c0d0e0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **26.** (1) Section 118 of the Learning and Skills Act 2000 (inspection) is amended as follows.
 
@@ -150,9 +150,9 @@ Section 61
 
 [^c19275151]: Textual amendment: Sch. 9 para. 5 repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 184](https://www.legislation.gov.uk/ukpga/2006/40/section/184), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(z)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/z/ii)
 
-[^key-89638edaee3c818d19a1aa479957b6d6]: Textual amendment: Sch. 9 para. 8 Crossheading repealed (1.10.2010) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)
+[^c-89638edaee3c818d19a1aa479957b6d6]: Textual amendment: Sch. 9 para. 8 Crossheading repealed (1.10.2010) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)
 
-[^key-7e4753e9ac98a8417361c33ca329ad45]: Textual amendment: Sch. 9 para. 8 repealed (1.10.2010) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2))
+[^c-7e4753e9ac98a8417361c33ca329ad45]: Textual amendment: Sch. 9 para. 8 repealed (1.10.2010) by [The Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27), [Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/part/1) (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2](https://www.legislation.gov.uk/uksi/2010/2317/article/2))
 
 [^c19146091]: Commencement: Sch. 9 para. 8 wholly in force at 1.9.2006; Sch. 9 para. 8 not in force at Royal Assent see s. 125; Sch. 9 para. 8 in force for E. at 1. 9. 2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 9 para. 8 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
@@ -162,15 +162,15 @@ Section 61
 
 [^c19146361]: Commencement: Sch. 9 para. 11 wholly in force at 1.9.2006; Sch. 9 para. 11 not in force at Royal Assent see s. 125; Sch. 9 para. 11 in force for E. at 1. 9. 2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 9 para. 11 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
+[^c-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
 
 [^c19150011]: Commencement: Sch. 9 para. 12 wholly in force at 1.9.2006; Sch. 9 para. 12 not in force at Royal Assent see s. 125; Sch. 9 para. 12 in force for E. at 1. 9. 2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 9 para. 12 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
 [^c19150021]: Commencement: Sch. 9 para. 13 wholly in force at 1.9.2006; Sch. 9 para. 13 not in force at Royal Assent see s. 125; Sch. 9 para. 13 in force for E. at 1. 9. 2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 9 para. 13 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-b12c4de7a50d94312b390e6a1dcec5d8]: Textual amendment: [Sch. 9 paras. 14-20](https://www.legislation.gov.uk/ukpga/2005/18/schedule/9/paragraph/14) omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 8(4)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8/4); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-b12c4de7a50d94312b390e6a1dcec5d8]: Textual amendment: [Sch. 9 paras. 14-20](https://www.legislation.gov.uk/ukpga/2005/18/schedule/9/paragraph/14) omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 8(4)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8/4); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
 [^c19150051]: Commencement: Sch. 9 para. 14 wholly in force at 1.9.2006; Sch. 9 para. 14 not in force at Royal Assent see s. 125; Sch. 9 para. 14 in force for E. at 1. 9. 2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 9 para. 14 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
@@ -190,9 +190,9 @@ Section 61
 
 [^c19275191]: Textual amendment: Sch. 9 para. 21 repealed (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 184](https://www.legislation.gov.uk/ukpga/2006/40/section/184), [188(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/2), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/2)
 
-[^key-077fe528c3a0cad86c672f7b25939f5f]: Textual amendment: Sch. 9 para. 24 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(14)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/14) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxvii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxvii)
+[^c-077fe528c3a0cad86c672f7b25939f5f]: Textual amendment: Sch. 9 para. 24 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(14)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/14) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxvii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxvii)
 
-[^key-4ff8bcade7886ab64eb042fe0c0d0e0a]: Textual amendment: Sch. 9 para. 25 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(14)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/14) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxvii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxvii)
+[^c-4ff8bcade7886ab64eb042fe0c0d0e0a]: Textual amendment: Sch. 9 para. 25 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(14)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/14) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxvii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxvii)
 
 [^c19271021]: Commencement: Sch. 9 para. 28 wholly in force at 1.9.2006; Sch. 9 para. 28 not in force at Royal Assent see s. 125; Sch. 9 para. 28 in force for E. at 1. 9. 2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 9 para. 28 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 

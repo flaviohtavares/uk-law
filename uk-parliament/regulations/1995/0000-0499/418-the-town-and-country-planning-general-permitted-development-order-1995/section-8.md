@@ -16,12 +16,12 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8 (Extent: E) (affected by repeal, see note). Directions (Extent: E) (affected by repeal, see note)[^key-0b7983d6c3350cb737b2504f32c7393c][^key-0b7983d6c3350cb737b2504f32c7393c]
+## 8 (Extent: E) (affected by repeal, see note). Directions (Extent: E) (affected by repeal, see note)[^c-0b7983d6c3350cb737b2504f32c7393c][^c-0b7983d6c3350cb737b2504f32c7393c]
 
 *Extent: E+W*
 
-Any power conferred by this Order to give a direction includes power to cancel or vary the direction by a subsequent direction. *(Extent: E)* *(affected by repeal, see note)*[^key-0b7983d6c3350cb737b2504f32c7393c]
+Any power conferred by this Order to give a direction includes power to cancel or vary the direction by a subsequent direction. *(Extent: E)* *(affected by repeal, see note)*[^c-0b7983d6c3350cb737b2504f32c7393c]
 
 ## Annotations
 
-[^key-0b7983d6c3350cb737b2504f32c7393c]: Textual amendment: Order revoked (E.) (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/596/article/1/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/1) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))
+[^c-0b7983d6c3350cb737b2504f32c7393c]: Textual amendment: Order revoked (E.) (15.4.2015) by [The Town and Country Planning (General Permitted Development) (England) Order 2015 (S.I. 2015/596)](https://www.legislation.gov.uk/uksi/2015/596), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/596/article/1/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/596/schedule/4/paragraph/1) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/596/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2015/596/article/8/2)[(3)](https://www.legislation.gov.uk/uksi/2015/596/article/8/3))

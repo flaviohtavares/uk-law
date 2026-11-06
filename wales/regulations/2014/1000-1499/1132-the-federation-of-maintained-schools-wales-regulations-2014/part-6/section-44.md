@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Procedure for making an instrument[^key-bef25049d9ca905e81ecef73fbb89e26]
+## 44. Procedure for making an instrument[^c-bef25049d9ca905e81ecef73fbb89e26]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ and the instrument of government must be made by the local authority either in t
 
 ## Annotations
 
-[^key-bef25049d9ca905e81ecef73fbb89e26]: Commencement: Reg. 44 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-bef25049d9ca905e81ecef73fbb89e26]: Commencement: Reg. 44 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

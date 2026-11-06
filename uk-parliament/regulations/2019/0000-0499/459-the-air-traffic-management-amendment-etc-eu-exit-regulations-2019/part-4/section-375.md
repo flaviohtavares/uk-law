@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 375. Commission Implementing Decision of 19.12.2012[^key-0383b48e9eb3546386cecef465444a3d]
+## 375. Commission Implementing Decision of 19.12.2012[^c-0383b48e9eb3546386cecef465444a3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision of 19.12.2012 on the approval of the Network St
 
 ## Annotations
 
-[^key-0383b48e9eb3546386cecef465444a3d]: Commencement: Reg. 375 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0383b48e9eb3546386cecef465444a3d]: Commencement: Reg. 375 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

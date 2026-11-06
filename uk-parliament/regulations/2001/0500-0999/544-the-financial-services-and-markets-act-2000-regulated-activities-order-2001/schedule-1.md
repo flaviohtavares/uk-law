@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — CONTRACTS OF INSURANCE[^key-89b0c76be166e0d2d310ea7de7d605e2][^key-0f36806a76ddb7c735d61bb42cef96e1]
+## SCHEDULE 1 — CONTRACTS OF INSURANCE[^c-89b0c76be166e0d2d310ea7de7d605e2][^c-0f36806a76ddb7c735d61bb42cef96e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -123,7 +123,7 @@ Contracts of insurance on human life or contracts to pay annuities on human life
 
 #### II. Marriage and birth
 
-Contract of insurance to provide a sum on marriage or the formation of a civil partnership[^key-6f3b091e97bdef70a34d193480a9480f] or on the birth of a child, being contracts expressed to be in effect for a period of more than one year.
+Contract of insurance to provide a sum on marriage or the formation of a civil partnership[^c-6f3b091e97bdef70a34d193480a9480f] or on the birth of a child, being contracts expressed to be in effect for a period of more than one year.
 
 #### III. Linked long term
 
@@ -155,24 +155,24 @@ where effected or carried out by a person who does not carry on a banking busine
 
 #### VIII. Collective insurance etc.
 
-Contracts of a kind referred to in Article 2(3)(b)(v) of the Solvency 2 Directive[^key-558b2a57cd62358d471be5105dae2083].
+Contracts of a kind referred to in Article 2(3)(b)(v) of the Solvency 2 Directive[^c-558b2a57cd62358d471be5105dae2083].
 
 #### IX. Social insurance
 
-Contracts of a kind referred to in Article 2(3)(c) of the Solvency 2 Directive[^key-29b5a143b363f02b900961fda105d53d].
+Contracts of a kind referred to in Article 2(3)(c) of the Solvency 2 Directive[^c-29b5a143b363f02b900961fda105d53d].
 
 ## Annotations
 
-[^key-89b0c76be166e0d2d310ea7de7d605e2]: Modification: Sch. 1 applied in part (1.12.2001) by [The Financial Services and Markets Act 2000 (Financial Promotion) Order 2001 (S.I. 2001/1335)](https://www.legislation.gov.uk/uksi/2001/1335), [art. 25(2)](https://www.legislation.gov.uk/uksi/2001/1335/article/25/2), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1335/regulation/1/2); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
+[^c-89b0c76be166e0d2d310ea7de7d605e2]: Modification: Sch. 1 applied in part (1.12.2001) by [The Financial Services and Markets Act 2000 (Financial Promotion) Order 2001 (S.I. 2001/1335)](https://www.legislation.gov.uk/uksi/2001/1335), [art. 25(2)](https://www.legislation.gov.uk/uksi/2001/1335/article/25/2), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1335/regulation/1/2); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-0f36806a76ddb7c735d61bb42cef96e1]: Modification: Sch. 1 applied in part (1.12.2001) by [The Financial Services and Markets Act 2000 (Financial Promotion) Order 2001 (S.I. 2001/1335)](https://www.legislation.gov.uk/uksi/2001/1335), [art. 10(2)](https://www.legislation.gov.uk/uksi/2001/1335/article/10/2), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1335/regulation/1/2); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
+[^c-0f36806a76ddb7c735d61bb42cef96e1]: Modification: Sch. 1 applied in part (1.12.2001) by [The Financial Services and Markets Act 2000 (Financial Promotion) Order 2001 (S.I. 2001/1335)](https://www.legislation.gov.uk/uksi/2001/1335), [art. 10(2)](https://www.legislation.gov.uk/uksi/2001/1335/article/10/2), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/1335/regulation/1/2); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
 [^c16225001]: Marginal citation: [S.I. 1999/2725](https://www.legislation.gov.uk/uksi/1999/2725), amended by [S.I. 2000/1797](https://www.legislation.gov.uk/uksi/2000/1797).
 
 [^c16225011]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 140 was amended by the [Local Government (Miscellaneous Provisions) Act 1982 (c. 30)](https://www.legislation.gov.uk/ukpga/1982/30), s. 39(1) and Sch. 7, Part XVI; by the [Insurance Companies Act 1982 (c. 50)](https://www.legislation.gov.uk/ukpga/1982/50), Sch. 5, para. 13; and by the [London Regional Transport Act 1984 (c. 32)](https://www.legislation.gov.uk/ukpga/1984/32), Sch. 7. Section 140A was inserted by s. 39(2) of the [Local Government (Miscellaneous Provisions) Act 1982 (c. 30)](https://www.legislation.gov.uk/ukpga/1982/30), and amended by the [Planning (Consequential Provisions) Act 1990 (c. 10)](https://www.legislation.gov.uk/ukpga/1990/10), Sch. 2, para. 28, and by the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Sch. 24. Section 140B was inserted by s. 39(2) of the Local Government (Miscellaneous Provisions) Act 1982, and amended by the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Sch. 17, and by the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Sch. 15, para. 31.
 
-[^key-6f3b091e97bdef70a34d193480a9480f]: Textual amendment: Words in Sch. 1 Pt. II para. 2 inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 16 para. 1(5)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/16/paragraph/1/5)
+[^c-6f3b091e97bdef70a34d193480a9480f]: Textual amendment: Words in Sch. 1 Pt. II para. 2 inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 16 para. 1(5)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/16/paragraph/1/5)
 
-[^key-558b2a57cd62358d471be5105dae2083]: Textual amendment: Words in Sch. 1 Pt. II para. 8 substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 11(5)(a)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/11/5/a)
+[^c-558b2a57cd62358d471be5105dae2083]: Textual amendment: Words in Sch. 1 Pt. II para. 8 substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 11(5)(a)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/11/5/a)
 
-[^key-29b5a143b363f02b900961fda105d53d]: Textual amendment: Words in Sch. 1 Pt. II para. 9 substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 11(5)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/11/5/b)
+[^c-29b5a143b363f02b900961fda105d53d]: Textual amendment: Words in Sch. 1 Pt. II para. 9 substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 11(5)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/11/5/b)

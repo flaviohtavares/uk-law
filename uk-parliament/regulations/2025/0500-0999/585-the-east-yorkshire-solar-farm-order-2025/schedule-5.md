@@ -22,7 +22,7 @@ summary: ''
 
 Articles 9 and 10
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-43fc587f1a6ddec4270d30a898c80a8f]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-43fc587f1a6ddec4270d30a898c80a8f]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of the Alteration* |
 | --- | --- | --- |
@@ -93,7 +93,7 @@ Articles 9 and 10
 | North Yorkshire Council | Proposed Access off New Road | Proposed access to be constructed at the point marked 22/04 on Sheet 22 of the streets, rights of way and access plans. |
 | North Yorkshire Council | Field Access off Carr Lane | Existing field access at the point marked 22/10 on Sheet 22 of the streets, rights of way and access plans to be retained and improved. |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-58cc2a8aecddab51ae358d2e8a2b0e95]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-58cc2a8aecddab51ae358d2e8a2b0e95]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of the Alteration* |
 | --- | --- | --- |
@@ -111,6 +111,6 @@ Articles 9 and 10
 
 ## Annotations
 
-[^key-43fc587f1a6ddec4270d30a898c80a8f]: Commencement: Sch. 5 Pt. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-43fc587f1a6ddec4270d30a898c80a8f]: Commencement: Sch. 5 Pt. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-58cc2a8aecddab51ae358d2e8a2b0e95]: Commencement: Sch. 5 Pt. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-58cc2a8aecddab51ae358d2e8a2b0e95]: Commencement: Sch. 5 Pt. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

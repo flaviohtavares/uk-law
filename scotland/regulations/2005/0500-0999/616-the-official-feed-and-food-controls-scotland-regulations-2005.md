@@ -46,7 +46,7 @@ Coming into force
 
 1st January 2006
 
-The Scottish Ministers, in exercise (with regard to regulation 41 of the following Regulations) of the powers conferred by sections 16(1), 17(2) and 48(1) of the Food Safety Act 1990 [^c12534301], having had regard in accordance with section 48(4A) [^c12534311] of that Act to relevant advice given by the Food Standards Agency and, in exercise (with regard to the following Regulations except regulation 41) of the powers conferred by section 2(2) of the European Communities Act 1972 [^c12534321] and of all other powers enabling them in that behalf, and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c12534331], hereby make the following Regulations:[^key-db5d2283febd369ee77ba21e76d1f7a5]
+The Scottish Ministers, in exercise (with regard to regulation 41 of the following Regulations) of the powers conferred by sections 16(1), 17(2) and 48(1) of the Food Safety Act 1990 [^c12534301], having had regard in accordance with section 48(4A) [^c12534311] of that Act to relevant advice given by the Food Standards Agency and, in exercise (with regard to the following Regulations except regulation 41) of the powers conferred by section 2(2) of the European Communities Act 1972 [^c12534321] and of all other powers enabling them in that behalf, and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c12534331], hereby make the following Regulations:[^c-db5d2283febd369ee77ba21e76d1f7a5]
 
 ## PART 1 — PRELIMINARY
 
@@ -68,7 +68,7 @@ These Regulations–
   - (a) in relation to a competent authority, means any person appointed under regulation 3(1); and
   - (b) in relation to a relevant enforcement authority, means any person appointed under regulation 3(2);
 - “**competent authority**” means the authority which, by virtue of regulation 4, is so designated for the purposes of the provisions of Regulation 882/2004 specified in that regulation;
-- “**Directive 2004/41**”, “Regulation 999/2001[^key-7109c9528ad8a2c7f0db482d6adb74f4]” “**Regulation 178/2002**”, “**Regulation 1831/2003**”, “**Regulation 852/2004**”, “**Regulation 853/2004**”, “**Regulation 882/2004**” “Regulation 1688/2004”, “Regulation 2073/2005”, “Regulation 2074/2005” and “Regulation 2076/2005”[^key-99c188fe760b34daf760f0522982d7fe] have the meanings respectively given to them in Schedule 1;
+- “**Directive 2004/41**”, “Regulation 999/2001[^c-7109c9528ad8a2c7f0db482d6adb74f4]” “**Regulation 178/2002**”, “**Regulation 1831/2003**”, “**Regulation 852/2004**”, “**Regulation 853/2004**”, “**Regulation 882/2004**” “Regulation 1688/2004”, “Regulation 2073/2005”, “Regulation 2074/2005” and “Regulation 2076/2005”[^c-99c188fe760b34daf760f0522982d7fe] have the meanings respectively given to them in Schedule 1;
 - “**feed authority**” and “**food authority**” respectively mean a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c12534341];
 - “**the Official Control Regulations**” means these Regulations and Regulation 882/2004;
 - “**premises**” includes any establishment, any place, vehicle, stall or moveable structure and any ship or aircraft;
@@ -102,7 +102,7 @@ These Regulations–
 
 (4) Where the food authority is designated as a competent authority pursuant to paragraph (3) the designation shall extend to its area only.
 
-(5) Where the Agency is designated as a competent authority pursuant to paragraph (1) or (3) for the purposes of Article 31(1) of Regulation 882/2004, the designation shall extend only to the operations in respect of which the Agency executes and enforces the Food Hygiene (Scotland) Regulations 2006[^key-72b1a4e8c4e25f6eb84a099717c2a338] by virtue of regulation (5)(1)(a) of those Regulations.
+(5) Where the Agency is designated as a competent authority pursuant to paragraph (1) or (3) for the purposes of Article 31(1) of Regulation 882/2004, the designation shall extend only to the operations in respect of which the Agency executes and enforces the Food Hygiene (Scotland) Regulations 2006[^c-72b1a4e8c4e25f6eb84a099717c2a338] by virtue of regulation (5)(1)(a) of those Regulations.
 
 (6) Where the Agency is designated as a competent authority pursuant to paragraph (3) for the purposes of Article 31(2) of Regulation 882/2004, the designation shall extend, as regards Article 31(2)(a) to (e), only to those operations in respect of which the Agency executes and enforces the Food Hygiene (Scotland) Regulations 2006 by virtue of regulation 5(2) of those Regulations.
 
@@ -178,7 +178,7 @@ and any such code shall be laid before the Scottish Parliament after being issue
 
 (6) Section 19 of the Food Standards Act 1999 shall apply in relation to information obtained through monitoring under this regulation as if it were information obtained through monitoring under section 12 of that Act.
 
-### 9. Power to request information relating to enforcement action[^key-b0043add7a689cc852163791cc752e94]
+### 9. Power to request information relating to enforcement action[^c-b0043add7a689cc852163791cc752e94]
 
 (1) For the purpose of carrying out its function under regulation 8 in relation to any enforcement authority the Agency may require a person mentioned in paragraph (2)–
 
@@ -194,37 +194,37 @@ and any such code shall be laid before the Scottish Parliament after being issue
 
 ### 10. Power of entry for persons monitoring enforcement action
 
-(1)[^key-efd18cec053d497c27d2cba1e9d9fc08] The Agency may authorise any individual (whether a member of its staff or otherwise) to exercise the powers specified in paragraph (4) for the purpose of carrying out its function under regulation 8 in relation to any enforcement authority.
+(1)[^c-efd18cec053d497c27d2cba1e9d9fc08] The Agency may authorise any individual (whether a member of its staff or otherwise) to exercise the powers specified in paragraph (4) for the purpose of carrying out its function under regulation 8 in relation to any enforcement authority.
 
-(2)[^key-efd18cec053d497c27d2cba1e9d9fc08] No authorisation under this regulation shall be issued except in pursuance of a decision taken by the Agency itself or by a committee, sub committee or member of the Agency acting on behalf of the Agency.
+(2)[^c-efd18cec053d497c27d2cba1e9d9fc08] No authorisation under this regulation shall be issued except in pursuance of a decision taken by the Agency itself or by a committee, sub committee or member of the Agency acting on behalf of the Agency.
 
-(3)[^key-efd18cec053d497c27d2cba1e9d9fc08] An authorisation under this regulation shall be in writing and may be given subject to any limitations or conditions specified in the authorisation (including conditions relating to hygienic precautions to be taken while exercising powers in pursuance of the authorisation).
+(3)[^c-efd18cec053d497c27d2cba1e9d9fc08] An authorisation under this regulation shall be in writing and may be given subject to any limitations or conditions specified in the authorisation (including conditions relating to hygienic precautions to be taken while exercising powers in pursuance of the authorisation).
 
-(4)[^key-efd18cec053d497c27d2cba1e9d9fc08] An authorised person may–
+(4)[^c-efd18cec053d497c27d2cba1e9d9fc08] An authorised person may–
 
 - (a) enter any premises mentioned in paragraph (5) at any reasonable hour in order to inspect the premises or anything which may be found on them;
 - (b) take samples of any articles or substances found on such premises;
 - (c) inspect and copy any records found on such premises (and, if they are kept in computerised form, require them to be made available in a legible form);
 - (d) require any person present on such premises to provide the authorised person with such facilities, such records or information and such other assistance as the authorised person may reasonably request.
 
-(5)[^key-efd18cec053d497c27d2cba1e9d9fc08] The premises which may be entered by an authorised person are–
+(5)[^c-efd18cec053d497c27d2cba1e9d9fc08] The premises which may be entered by an authorised person are–
 
 - (a) any premises occupied by the enforcement authority;
 - (b) any laboratory or similar premises at which work related to the enforcement of any relevant legislation has been carried out for the enforcement authority; and
 - (c) any other premises (not being a private dwelling house) which the authorised person has reasonable cause to believe are premises in respect of which the enforcement powers of the enforcement authority are (or have been) exercisable.
 
-(6)[^key-efd18cec053d497c27d2cba1e9d9fc08] An authorised person entering premises by virtue of the power of entry conferred by this regulation may be accompanied by any other person the authorised person may consider appropriate.
+(6)[^c-efd18cec053d497c27d2cba1e9d9fc08] An authorised person entering premises by virtue of the power of entry conferred by this regulation may be accompanied by any other person the authorised person may consider appropriate.
 
-(7)[^key-efd18cec053d497c27d2cba1e9d9fc08] An authorised person shall on request–
+(7)[^c-efd18cec053d497c27d2cba1e9d9fc08] An authorised person shall on request–
 
 - (a) produce that person's authorisation before exercising any powers under paragraph (4); and
 - (b) provide a document identifying any sample taken, or documents copied, under those powers.
 
-(8)[^key-efd18cec053d497c27d2cba1e9d9fc08] If a person who enters any premises by virtue of this regulation discloses to any person any information obtained on the premises with regard to any trade secret the person making the disclosure is, unless the disclosure is made in the performance of that person's duty, guilty of an offence.
+(8)[^c-efd18cec053d497c27d2cba1e9d9fc08] If a person who enters any premises by virtue of this regulation discloses to any person any information obtained on the premises with regard to any trade secret the person making the disclosure is, unless the disclosure is made in the performance of that person's duty, guilty of an offence.
 
 (9) Where the Agency is the enforcement authority in relation to relevant audit legislation this regulation applies in relation to the Agency in respect of its performance in enforcing those provisions, with the omission of paragraph (5)(a).
 
-(10)[^key-09caec720dd18bec19f33c38591d1f7d] In this regulation “**authorised person**” means a person authorised under this regulation.
+(10)[^c-09caec720dd18bec19f33c38591d1f7d] In this regulation “**authorised person**” means a person authorised under this regulation.
 
 ### 11. Meaning of “enforcement authority” and related expressions
 
@@ -234,7 +234,7 @@ and any such code shall be laid before the Scottish Parliament after being issue
 
 (3) Any reference in regulations 8 to 10 (however expressed) to the performance of an enforcement authority in enforcing any relevant audit legislation includes a reference to the capacity of that authority to enforce it.
 
-### 12. Offences relating to regulations 9 and 10[^key-8e76576fe7bd5341e1c72881be0fe685]
+### 12. Offences relating to regulations 9 and 10[^c-8e76576fe7bd5341e1c72881be0fe685]
 
 A person who–
 
@@ -274,7 +274,7 @@ may appeal to the sheriff.
 - (c) the approval of the establishment has been suspended pursuant to Article 31(2)(e) of Regulation 882/2004; or
 - (d) the establishment is prevented from being used following the service of a remedial action notice.
 
-(7) In this Regulation each of the terms “**hygiene prohibition order**”, “**hygiene emergency prohibition notice**”, “**hygiene emergency prohibition order**” and “**remedial action notice**” has the same meaning as it has in the Food Hygiene (Scotland) Regulations 2006[^key-3e9feff393b2e473555118aa1ede1d42].
+(7) In this Regulation each of the terms “**hygiene prohibition order**”, “**hygiene emergency prohibition notice**”, “**hygiene emergency prohibition order**” and “**remedial action notice**” has the same meaning as it has in the Food Hygiene (Scotland) Regulations 2006[^c-3e9feff393b2e473555118aa1ede1d42].
 
 ### 14. Appeal to Court of Session against dismissal of appeal under regulation 13(1)
 
@@ -282,7 +282,7 @@ A person who is aggrieved by the sheriff's dismissal of an appeal under regulati
 
 ### 15. Staff of competent authority of another member State
 
-An authorised officer of a competent authority may be accompanied by a member of staff[^key-26c6f6f4e9441387bda253bf1febb0ce] of the competent authority of another member State for the purpose of conducting an administrative enquiry under Article 36 of Regulation 882/2004.
+An authorised officer of a competent authority may be accompanied by a member of staff[^c-26c6f6f4e9441387bda253bf1febb0ce] of the competent authority of another member State for the purpose of conducting an administrative enquiry under Article 36 of Regulation 882/2004.
 
 ### 16. Commission experts
 
@@ -298,13 +298,13 @@ If a person enters any premises by virtue of regulation 15 or 16 and discloses t
 
 (1) The authority responsible for executing and enforcing regulation 6(3) shall be the competent authority that imposed the requirement on the control body concerned under regulation 6(1).
 
-(2)[^key-7265dd5d3aa1c5218db6569ea9446f3f] The authority responsible for executing and enforcing regulations 10(8) and 12 shall be the Agency.
+(2)[^c-7265dd5d3aa1c5218db6569ea9446f3f] The authority responsible for executing and enforcing regulations 10(8) and 12 shall be the Agency.
 
 (3) The authority responsible for executing and enforcing regulation 17 shall be the authority whose officer took the person who made the disclosure on to the premises concerned.
 
-(4)[^key-8968cbced392a8a14fb70fda2ec88c25] The authority responsible for executing and enforcing regulation 19(8) shall be the authority exercising powers of entry under or in accordance with that regulation.
+(4)[^c-8968cbced392a8a14fb70fda2ec88c25] The authority responsible for executing and enforcing regulation 19(8) shall be the authority exercising powers of entry under or in accordance with that regulation.
 
-(5)[^key-f0fc883b6b8b2849ec65e50ecba5f0ab] The authority responsible for executing and enforcing regulation 20 shall be the authority who appointed the officer acting under regulation 15, 16 or 19 respectively.
+(5)[^c-f0fc883b6b8b2849ec65e50ecba5f0ab] The authority responsible for executing and enforcing regulation 20 shall be the authority who appointed the officer acting under regulation 15, 16 or 19 respectively.
 
 ### 19. Powers of entry
 
@@ -315,42 +315,42 @@ If a person enters any premises by virtue of regulation 15 or 16 and discloses t
 
 but admission to any premises used only as a private dwelling–house shall not be demanded as of right unless 24 hours' notice of the intended entry has been given to the occupier.
 
-(2)[^key-ced3bc3547a607ef362ccd5736c1ca2a] An authorised officer of the Agency shall, on producing if so required some duly authenticated document showing that officer's authority, have a right at all reasonable hours to enter any premises for the purpose of–
+(2)[^c-ced3bc3547a607ef362ccd5736c1ca2a] An authorised officer of the Agency shall, on producing if so required some duly authenticated document showing that officer's authority, have a right at all reasonable hours to enter any premises for the purpose of–
 
 - (a) ascertaining whether there is or has been on the premises any contravention of regulations 10(8) or 12, or any contravention of regulations 6(3) or 17 for which the Agency has enforcement responsibility pursuant to regulation 18(1) or (3) as the case may be; and
 - (b) ascertaining whether there is on the premises any evidence of any such contravention,
 
 but admission to any premises used only as a private dwelling–house shall not be demanded as of right unless 24 hours' notice of the intended entry has been given to the occupier.
 
-(3)[^key-ced3bc3547a607ef362ccd5736c1ca2a] If a sheriff, a magistrate or a justice of the peace, on sworn information in writing, is satisfied that there is reasonable ground for entry onto any premises for any such purpose as is mentioned in paragraph (1) or (2) and either–
+(3)[^c-ced3bc3547a607ef362ccd5736c1ca2a] If a sheriff, a magistrate or a justice of the peace, on sworn information in writing, is satisfied that there is reasonable ground for entry onto any premises for any such purpose as is mentioned in paragraph (1) or (2) and either–
 
 - (a) that admission to the premises has been refused, or a refusal is apprehended, and that notice of the intention to apply for a warrant has been given to the occupier; or
 - (b) that an application for admission, or the giving of such a notice, would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier is temporarily absent,
 
 the sheriff, magistrate or justice may by signed warrant authorise the authorised officer to enter the premises, if need be by reasonable force.
 
-(4)[^key-ced3bc3547a607ef362ccd5736c1ca2a] Every warrant granted under this regulation shall continue in force for a period of 1 month.
+(4)[^c-ced3bc3547a607ef362ccd5736c1ca2a] Every warrant granted under this regulation shall continue in force for a period of 1 month.
 
-(5)[^key-ced3bc3547a607ef362ccd5736c1ca2a] An authorised officer entering any premises by virtue of this regulation, or of a warrant issued under it, may be accompanied by such other persons as the officer considers necessary, and on leaving any unoccupied premises which that officer has entered by virtue of such a warrant shall leave them as effectively secured against unauthorised entry as they were found.
+(5)[^c-ced3bc3547a607ef362ccd5736c1ca2a] An authorised officer entering any premises by virtue of this regulation, or of a warrant issued under it, may be accompanied by such other persons as the officer considers necessary, and on leaving any unoccupied premises which that officer has entered by virtue of such a warrant shall leave them as effectively secured against unauthorised entry as they were found.
 
-(6)[^key-ced3bc3547a607ef362ccd5736c1ca2a] An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, may inspect any records (in whatever form they are held) and, where any such records are stored in any electronic form–
+(6)[^c-ced3bc3547a607ef362ccd5736c1ca2a] An authorised officer entering premises by virtue of this regulation, or of a warrant issued under it, may inspect any records (in whatever form they are held) and, where any such records are stored in any electronic form–
 
 - (a) may have access to, and inspect and check the operation of, any computer and any associated apparatus or material which is or has been in use in connection with the records; and
 - (b) may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford such assistance as the officer may reasonably require.
 
-(7)[^key-ced3bc3547a607ef362ccd5736c1ca2a] Any officer exercising any power conferred by paragraph (6) may–
+(7)[^c-ced3bc3547a607ef362ccd5736c1ca2a] Any officer exercising any power conferred by paragraph (6) may–
 
 - (a) seize and detain any records which the officer has reason to believe may be required as evidence in proceedings under any of the provisions of this Part of the Regulations; and
 - (b) where the records are stored in any electronic form, require the records to be produced in a form in which they may be taken away.
 
-(8)[^key-ced3bc3547a607ef362ccd5736c1ca2a] If any person who enters any premises by virtue of this regulation, or of a warrant issued under it, discloses to any person any information obtained on the premises with regard to any trade secret, that person is, unless the disclosure is made in the performance of that person's duty, guilty of an offence.
+(8)[^c-ced3bc3547a607ef362ccd5736c1ca2a] If any person who enters any premises by virtue of this regulation, or of a warrant issued under it, discloses to any person any information obtained on the premises with regard to any trade secret, that person is, unless the disclosure is made in the performance of that person's duty, guilty of an offence.
 
-(9)[^key-ced3bc3547a607ef362ccd5736c1ca2a] Nothing in this regulation authorises any person, except with the permission of the local authority under the Animal Health Act 1981 [^c12534381], to enter any premises–
+(9)[^c-ced3bc3547a607ef362ccd5736c1ca2a] Nothing in this regulation authorises any person, except with the permission of the local authority under the Animal Health Act 1981 [^c12534381], to enter any premises–
 
 - (a) on which an animal or bird affected with any disease to which that Act applies is kept; and
 - (b) which is situated in a place declared under that Act to be infected with such a disease.
 
-### 20. Obstruction etc. of officers[^key-bb0fa496e0e44c26b6c417f9a5f15aa5]
+### 20. Obstruction etc. of officers[^c-bb0fa496e0e44c26b6c417f9a5f15aa5]
 
 (1) Any person who–
 
@@ -368,7 +368,7 @@ is guilty of an offence.
 
 (3) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question or give any information if to do so might incriminate that person.
 
-### 21. Penalties[^key-bb0fa496e0e44c26b6c417f9a5f15aa5]
+### 21. Penalties[^c-bb0fa496e0e44c26b6c417f9a5f15aa5]
 
 (1) A person guilty of an offence under regulation 19(8) is liable–
 
@@ -379,7 +379,7 @@ is guilty of an offence.
 
 (3) A person guilty of an offence under regulation 20 is liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding 3 months or to both.
 
-### 22. Time limit for commencement of prosecutions[^key-bb0fa496e0e44c26b6c417f9a5f15aa5]
+### 22. Time limit for commencement of prosecutions[^c-bb0fa496e0e44c26b6c417f9a5f15aa5]
 
 (1) No prosecution for an offence under this Part of these Regulations which is punishable under regulation 21(1) shall be begun after the expiry of–
 
@@ -723,22 +723,22 @@ whichever is the earlier.
 
 ## PART 5 — ENFORCEMENT AND SUPPLEMENTARY PROVISIONS
 
-### 42. Offences due to fault of another person[^key-d7558ad4c39cd55ce7d1c614e8532ef3]
+### 42. Offences due to fault of another person[^c-d7558ad4c39cd55ce7d1c614e8532ef3]
 
 Where the commission by any person of an offence under these Regulations is due to the act or default of some other person, that other person is guilty of the offence; and a person may be convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first–mentioned person.
 
-### 43. Defence of due diligence[^key-d7558ad4c39cd55ce7d1c614e8532ef3]
+### 43. Defence of due diligence[^c-d7558ad4c39cd55ce7d1c614e8532ef3]
 
 (1) In any proceedings for an offence under these Regulations, it shall, subject to paragraph (2), be a defence to prove that the accused took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by the accused or by a person under the accused's control.
 
 (2) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to an act or default of another person, or to reliance on information supplied by another person, the accused shall not, without leave of the court, be entitled to rely on that defence unless at the earlier of–
 
-- (a) a date 7 days[^key-024802120476655b231370d5ce29eaba] before the trial diet (not being a notional trial diet); or
+- (a) a date 7 days[^c-024802120476655b231370d5ce29eaba] before the trial diet (not being a notional trial diet); or
 - (b) a date 28 days after the first appearance of the accused, before a court in connection with the alleged offence,
 
 the accused has served on the prosecutor a notice in writing giving such information identifying or assisting in the identification of that other person as was in the accused's possession.
 
-### 44. Offences by bodies corporate[^key-d7558ad4c39cd55ce7d1c614e8532ef3]
+### 44. Offences by bodies corporate[^c-d7558ad4c39cd55ce7d1c614e8532ef3]
 
 (1) Where an offence under these Regulations which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of–
 
@@ -749,11 +749,11 @@ that person as well as the body corporate is to be deemed to be guilty of that o
 
 (2) In paragraph (1)(a) “**director**”, in relation to any body corporate established by or under any enactment for the purpose of carrying on under national ownership any industry or part of an industry or undertaking, being a body corporate whose affairs are managed by its members, means a member of that body corporate.
 
-### 45. Offences by Scottish partnerships[^key-d7558ad4c39cd55ce7d1c614e8532ef3]
+### 45. Offences by Scottish partnerships[^c-d7558ad4c39cd55ce7d1c614e8532ef3]
 
 Where an offence under these Regulations which has been committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership is to be deemed to be guilty of that offence and liable to be proceeded against and punished accordingly.
 
-### 46. Protection of officers acting in good faith[^key-d7558ad4c39cd55ce7d1c614e8532ef3]
+### 46. Protection of officers acting in good faith[^c-d7558ad4c39cd55ce7d1c614e8532ef3]
 
 (1) An officer of a competent authority, a relevant enforcement authority or an enforcement authority within the meaning of regulation 23, is not personally liable in respect of any act done by that officer–
 
@@ -768,7 +768,7 @@ if the officer did that act in the honest belief that the officer's duties under
 
 (4) A public analyst appointed by a food authority shall be treated for the purposes of this regulation as being an officer of that authority, whether or not that analyst's appointment is a whole–time one.
 
-### 47. Service of documents[^key-d7558ad4c39cd55ce7d1c614e8532ef3]
+### 47. Service of documents[^c-d7558ad4c39cd55ce7d1c614e8532ef3]
 
 (1) Any document which is required or authorised under these Regulations to be served on a person may be served–
 
@@ -803,9 +803,9 @@ SCHEDULES
 
 Regulation 2(1)
 
-“[^key-98b569bd69c77881e37c58883ac2ca97]**Directive 2004/41**” means Directive [2004/41/EC](https://www.legislation.gov.uk/eudr/2004/41) of the European Parliament and of the Council repealing certain directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662) and [92/118/EEC](https://www.legislation.gov.uk/eudr/1992/118) and Council Decision [95/408/EC](https://www.legislation.gov.uk/eud/1995/408);
+“[^c-98b569bd69c77881e37c58883ac2ca97]**Directive 2004/41**” means Directive [2004/41/EC](https://www.legislation.gov.uk/eudr/2004/41) of the European Parliament and of the Council repealing certain directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662) and [92/118/EEC](https://www.legislation.gov.uk/eudr/1992/118) and Council Decision [95/408/EC](https://www.legislation.gov.uk/eud/1995/408);
 
-“Regulation 999/2001” means Regulation[^key-711249e58c9255648a045db3cabb0da1] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies as amended by, and as read with, the instruments set out in Schedule 1 to the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006.
+“Regulation 999/2001” means Regulation[^c-711249e58c9255648a045db3cabb0da1] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies as amended by, and as read with, the instruments set out in Schedule 1 to the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006.
 
 “**Regulation 178/2002**” means Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety as last amended by Regulation 1642/2003;
 
@@ -835,8 +835,8 @@ Regulation 2(1)
 - (b) the Feeding Stuffs (Sampling and Analysis) Regulations 1999 [^c12534531];
 - (c) the Feeding Stuffs (Scotland) Regulations 2000 [^c12534541];
 - (d) the Genetically Modified Animal Feed (Scotland) Regulations 2004 [^c12534551]
-- (e) the Food Hygiene (Scotland) Regulations 2006[^key-da6a746830e5990348aeaac55ed6f141] in so far as they apply in relation to feed;
-- (f)[^key-d2beb53f130b96418efa51d2a16d16ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the Food Hygiene (Scotland) Regulations 2006[^c-da6a746830e5990348aeaac55ed6f141] in so far as they apply in relation to feed;
+- (f)[^c-d2beb53f130b96418efa51d2a16d16ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the Feeding Stuffs (Scotland) Regulations 2005 [^c12534581]; and
 - (h) the Feed (Hygiene and Enforcement) (Scotland) Regulations 2005 [^c12534591],
 
@@ -860,13 +860,13 @@ Regulation 2(1)
   - (iii) the application of the rules laid down for the protection of designations of origin and geographical indications of agricultural products and foodstuffs in Council Regulation [(EEC) No. 2081/92](https://www.legislation.gov.uk/eur/1992/2081) on the protection of geographical indications and designations of origin for agricultural products and foodstuffs [^c12534621] as last amended by the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded [^c12534631],
   - (iv) the application of the rules laid down for Community certificates of specific character which may be obtained for certain agricultural products and foodstuffs in Council Regulation [(EEC) No. 2082/92](https://www.legislation.gov.uk/eur/1992/2082) on certificates of specific character for agricultural products and foodstuffs [^c12534641] as last amended by the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded,
   - (v) the regulation of organic products under the Organic Products (Imports from Third Countries) Regulations 2003 [^c12534651] and the Organic Products Regulations 2004 [^c12534661],
-  - (vi) the regulation of beef labelling under the Beef Labelling (Enforcement) (Scotland) Regulations 2001 [^c12534671], [^key-2eb3ad7952678643487df08d08470742]...
+  - (vi) the regulation of beef labelling under the Beef Labelling (Enforcement) (Scotland) Regulations 2001 [^c12534671], [^c-2eb3ad7952678643487df08d08470742]...
   - (vii) the regulation of the import of and trade in products of animal origin–
     - (aa) under the Products of Animal Origin (Import and Export) Regulations 1996 [^c12534681], with the exception of the execution and enforcement of regulation 3 thereof by the Agency, and
     - (bb) under the Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2002 [^c12534691], with the exception of the execution and enforcement of regulation 4 thereof by the Agency;
-  - (vii)[^key-4a7037ccf16873777befd68864b858db] Schedule 2 to the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 in so far as that Schedule applies in relation to animals slaughtered for human consumption, together with point 2 of Part II of Chapter A of Annex III to Regulation 999/2001 in so far as that point applies in relation to animals slaughtered for human consumption.
-- (b) food law in so far as it applies in relation to materials and articles in contact with food [^key-9ac9b89eb7a887b15f902c3d9268d493]...; and
-- (c) food law in so far as it involves the regulation of primary production and those associated operations listed in paragraph 1 of Part AI of Annex I to Regulation 852/2004 under the Food Hygiene (Scotland) Regulations 2006[^key-88e5f0932aa89f0ee838fe5f62c031b1].
+  - (vii)[^c-4a7037ccf16873777befd68864b858db] Schedule 2 to the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 in so far as that Schedule applies in relation to animals slaughtered for human consumption, together with point 2 of Part II of Chapter A of Annex III to Regulation 999/2001 in so far as that point applies in relation to animals slaughtered for human consumption.
+- (b) food law in so far as it applies in relation to materials and articles in contact with food [^c-9ac9b89eb7a887b15f902c3d9268d493]...; and
+- (c) food law in so far as it involves the regulation of primary production and those associated operations listed in paragraph 1 of Part AI of Annex I to Regulation 852/2004 under the Food Hygiene (Scotland) Regulations 2006[^c-88e5f0932aa89f0ee838fe5f62c031b1].
 
 ## SCHEDULE 4 — COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 882/2004 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FEED LAW
 
@@ -1020,43 +1020,43 @@ A full regulatory impact assessment, which includes a compliance cost assessment
 
 [^c12534331]: Marginal citation: O.J. No. L 31, 1.2.02, p.1 as last amended by Regulation (EC) No. 1642/2003 of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4).
 
-[^key-db5d2283febd369ee77ba21e76d1f7a5]: Modification: Regulations applied (with modifications) (3.1.2006) by [The Feeding Stuffs (Application to Zootechnical Additives etc.) (Scotland) Regulations 2005 (S.I. 2005/3362)](https://www.legislation.gov.uk/uksi/2005/3362), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2005/3362/regulation/1/c), [7](https://www.legislation.gov.uk/uksi/2005/3362/regulation/7)
+[^c-db5d2283febd369ee77ba21e76d1f7a5]: Modification: Regulations applied (with modifications) (3.1.2006) by [The Feeding Stuffs (Application to Zootechnical Additives etc.) (Scotland) Regulations 2005 (S.I. 2005/3362)](https://www.legislation.gov.uk/uksi/2005/3362), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2005/3362/regulation/1/c), [7](https://www.legislation.gov.uk/uksi/2005/3362/regulation/7)
 
-[^key-7109c9528ad8a2c7f0db482d6adb74f4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/616/regulation/2/1) inserted (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 8 para. 4](https://www.legislation.gov.uk/ssi/2006/530/schedule/8/paragraph/4)
+[^c-7109c9528ad8a2c7f0db482d6adb74f4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/616/regulation/2/1) inserted (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 8 para. 4](https://www.legislation.gov.uk/ssi/2006/530/schedule/8/paragraph/4)
 
-[^key-99c188fe760b34daf760f0522982d7fe]: Textual amendment: Words in reg. 2(1) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 47](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/47) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
+[^c-99c188fe760b34daf760f0522982d7fe]: Textual amendment: Words in reg. 2(1) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 47](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/47) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
 
 [^c12534341]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39); section 2 was amended by the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [Schedule 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [paragraph 232](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/232).
 
-[^key-72b1a4e8c4e25f6eb84a099717c2a338]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/ssi/2005/616/regulation/4/5)[(6)](https://www.legislation.gov.uk/ssi/2005/616/regulation/4/6) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 50](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/50) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
+[^c-72b1a4e8c4e25f6eb84a099717c2a338]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/ssi/2005/616/regulation/4/5)[(6)](https://www.legislation.gov.uk/ssi/2005/616/regulation/4/6) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 50](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/50) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
 
 [^c12534361]: Marginal citation: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
 [^c12534371]: Marginal citation: [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-b0043add7a689cc852163791cc752e94]: Modification: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/616/regulation/9) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(2)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/2)
+[^c-b0043add7a689cc852163791cc752e94]: Modification: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/616/regulation/9) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(2)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/2)
 
-[^key-efd18cec053d497c27d2cba1e9d9fc08]: Modification: [Reg. 10(1)-(8)](https://www.legislation.gov.uk/ssi/2005/616/regulation/10/1) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(2)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/2)
+[^c-efd18cec053d497c27d2cba1e9d9fc08]: Modification: [Reg. 10(1)-(8)](https://www.legislation.gov.uk/ssi/2005/616/regulation/10/1) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(2)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/2)
 
-[^key-09caec720dd18bec19f33c38591d1f7d]: Modification: [Reg. 10(10)](https://www.legislation.gov.uk/ssi/2005/616/regulation/10/10) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(2)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/2)
+[^c-09caec720dd18bec19f33c38591d1f7d]: Modification: [Reg. 10(10)](https://www.legislation.gov.uk/ssi/2005/616/regulation/10/10) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(2)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/2)
 
-[^key-8e76576fe7bd5341e1c72881be0fe685]: Modification: [Reg. 12](https://www.legislation.gov.uk/ssi/2005/616/regulation/12) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(2)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/2)
+[^c-8e76576fe7bd5341e1c72881be0fe685]: Modification: [Reg. 12](https://www.legislation.gov.uk/ssi/2005/616/regulation/12) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(2)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/2)
 
-[^key-3e9feff393b2e473555118aa1ede1d42]: Textual amendment: Words in [reg. 13(7)](https://www.legislation.gov.uk/ssi/2005/616/regulation/13/7) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 50](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/50) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
+[^c-3e9feff393b2e473555118aa1ede1d42]: Textual amendment: Words in [reg. 13(7)](https://www.legislation.gov.uk/ssi/2005/616/regulation/13/7) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 50](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/50) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
 
-[^key-26c6f6f4e9441387bda253bf1febb0ce]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/ssi/2005/616/regulation/15) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 48](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/48) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
+[^c-26c6f6f4e9441387bda253bf1febb0ce]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/ssi/2005/616/regulation/15) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 48](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/48) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
 
-[^key-7265dd5d3aa1c5218db6569ea9446f3f]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/ssi/2005/616/regulation/18/2) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
+[^c-7265dd5d3aa1c5218db6569ea9446f3f]: Modification: [Reg. 18(2)](https://www.legislation.gov.uk/ssi/2005/616/regulation/18/2) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
 
-[^key-8968cbced392a8a14fb70fda2ec88c25]: Modification: [Reg. 18(4)](https://www.legislation.gov.uk/ssi/2005/616/regulation/18/4) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
+[^c-8968cbced392a8a14fb70fda2ec88c25]: Modification: [Reg. 18(4)](https://www.legislation.gov.uk/ssi/2005/616/regulation/18/4) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
 
-[^key-f0fc883b6b8b2849ec65e50ecba5f0ab]: Modification: [Reg. 18(5)](https://www.legislation.gov.uk/ssi/2005/616/regulation/18/5) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(4)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/4)
+[^c-f0fc883b6b8b2849ec65e50ecba5f0ab]: Modification: [Reg. 18(5)](https://www.legislation.gov.uk/ssi/2005/616/regulation/18/5) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(4)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/4)
 
-[^key-ced3bc3547a607ef362ccd5736c1ca2a]: Modification: [Reg. 19(2)-(9)](https://www.legislation.gov.uk/ssi/2005/616/regulation/19/2) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
+[^c-ced3bc3547a607ef362ccd5736c1ca2a]: Modification: [Reg. 19(2)-(9)](https://www.legislation.gov.uk/ssi/2005/616/regulation/19/2) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
 
 [^c12534381]: Marginal citation: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-bb0fa496e0e44c26b6c417f9a5f15aa5]: Modification: [Regs. 20-22](https://www.legislation.gov.uk/ssi/2005/616/regulation/20) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
+[^c-bb0fa496e0e44c26b6c417f9a5f15aa5]: Modification: [Regs. 20-22](https://www.legislation.gov.uk/ssi/2005/616/regulation/20) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
 
 [^c12534391]: Marginal citation: O.J. No. L 121, 8.5.02, p.6.
 
@@ -1066,17 +1066,17 @@ A full regulatory impact assessment, which includes a compliance cost assessment
 
 [^c12534421]: Marginal citation: [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
-[^key-d7558ad4c39cd55ce7d1c614e8532ef3]: Modification: [Regs. 42-47](https://www.legislation.gov.uk/ssi/2005/616/regulation/42) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
+[^c-d7558ad4c39cd55ce7d1c614e8532ef3]: Modification: [Regs. 42-47](https://www.legislation.gov.uk/ssi/2005/616/regulation/42) applied (with modifications) (15.3.2007) by [The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 (S.S.I. 2007/91)](https://www.legislation.gov.uk/ssi/2007/91), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/1)[(3)](https://www.legislation.gov.uk/ssi/2007/91/regulation/9/3)
 
-[^key-024802120476655b231370d5ce29eaba]: Textual amendment: Words in [reg. 43(2)(a)](https://www.legislation.gov.uk/ssi/2005/616/regulation/43/2/a) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 49](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/49) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
+[^c-024802120476655b231370d5ce29eaba]: Textual amendment: Words in [reg. 43(2)(a)](https://www.legislation.gov.uk/ssi/2005/616/regulation/43/2/a) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 49](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/49) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
 
 [^c12534431]: Marginal citation: [S.S.I. 2005/608](https://www.legislation.gov.uk/ssi/2005/608).
 
 [^c12534441]: Marginal citation: [S.S.I. 2005/616](https://www.legislation.gov.uk/ssi/2005/616).
 
-[^key-98b569bd69c77881e37c58883ac2ca97]: Textual amendment: Words in sch. 1 substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 51](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/51) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
+[^c-98b569bd69c77881e37c58883ac2ca97]: Textual amendment: Words in sch. 1 substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 51](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/51) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
 
-[^key-711249e58c9255648a045db3cabb0da1]: Textual amendment: Words in sch. 1 inserted (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 8 para. 5](https://www.legislation.gov.uk/ssi/2006/530/schedule/8/paragraph/5)
+[^c-711249e58c9255648a045db3cabb0da1]: Textual amendment: Words in sch. 1 inserted (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 8 para. 5](https://www.legislation.gov.uk/ssi/2006/530/schedule/8/paragraph/5)
 
 [^c12534521]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
 
@@ -1086,9 +1086,9 @@ A full regulatory impact assessment, which includes a compliance cost assessment
 
 [^c12534551]: Marginal citation: [S.S.I. 2004/433](https://www.legislation.gov.uk/ssi/2004/433).
 
-[^key-da6a746830e5990348aeaac55ed6f141]: Textual amendment: Words in sch. 2 para. (e) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 50](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/50) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
+[^c-da6a746830e5990348aeaac55ed6f141]: Textual amendment: Words in sch. 2 para. (e) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 50](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/50) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
 
-[^key-d2beb53f130b96418efa51d2a16d16ec]: Textual amendment: Sch. 2 para. (f) omitted (30.11.2007) by virtue of [The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Scotland) Revocation Regulations 2007 (S.S.I. 2007/493)](https://www.legislation.gov.uk/ssi/2007/493), [regs. 1](https://www.legislation.gov.uk/ssi/2007/493/regulation/1), [4](https://www.legislation.gov.uk/ssi/2007/493/regulation/4)
+[^c-d2beb53f130b96418efa51d2a16d16ec]: Textual amendment: Sch. 2 para. (f) omitted (30.11.2007) by virtue of [The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (Scotland) Revocation Regulations 2007 (S.S.I. 2007/493)](https://www.legislation.gov.uk/ssi/2007/493), [regs. 1](https://www.legislation.gov.uk/ssi/2007/493/regulation/1), [4](https://www.legislation.gov.uk/ssi/2007/493/regulation/4)
 
 [^c12534581]: Marginal citation: [S.S.I. 2005/605](https://www.legislation.gov.uk/ssi/2005/605).
 
@@ -1110,16 +1110,16 @@ A full regulatory impact assessment, which includes a compliance cost assessment
 
 [^c12534671]: Marginal citation: [S.S.I. 2001/252](https://www.legislation.gov.uk/ssi/2001/252).
 
-[^key-2eb3ad7952678643487df08d08470742]: Textual amendment: Word in sch. 3 para. (a)(vi) omitted (24.11.2006) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 8 para. 6(a)](https://www.legislation.gov.uk/ssi/2006/530/schedule/8/paragraph/6/a)
+[^c-2eb3ad7952678643487df08d08470742]: Textual amendment: Word in sch. 3 para. (a)(vi) omitted (24.11.2006) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 8 para. 6(a)](https://www.legislation.gov.uk/ssi/2006/530/schedule/8/paragraph/6/a)
 
 [^c12534681]: Marginal citation: [S.I. 1996/3124](https://www.legislation.gov.uk/uksi/1996/3124), amended by [S.I. 1996/3125](https://www.legislation.gov.uk/uksi/1996/3125), 1997/1181 and 3023, 1998/994, 1999/221 and 683, [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62), 171 and 288, 2001/169 and 257, 2002/87, 234 and 445, 2003/299, 405, 466 and 568.
 
 [^c12534691]: Marginal citation: [S.S.I. 2002/445](https://www.legislation.gov.uk/ssi/2002/445) as amended by [S.S.I. 2002/565](https://www.legislation.gov.uk/ssi/2002/565), 2003/165, 225, 333 and 411 and 2005/323.
 
-[^key-4a7037ccf16873777befd68864b858db]: Textual amendment: Sch. 3 para. (a)(vii) inserted (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 8 para. 6(b)](https://www.legislation.gov.uk/ssi/2006/530/schedule/8/paragraph/6/b)
+[^c-4a7037ccf16873777befd68864b858db]: Textual amendment: Sch. 3 para. (a)(vii) inserted (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 8 para. 6(b)](https://www.legislation.gov.uk/ssi/2006/530/schedule/8/paragraph/6/b)
 
-[^key-9ac9b89eb7a887b15f902c3d9268d493]: Textual amendment: Words in sch. 3 para. (b) omitted (20.5.2006) by virtue of [The Ceramic Articles in Contact with Food (Scotland) Regulations 2006 (S.S.I. 2006/230)](https://www.legislation.gov.uk/ssi/2006/230), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2006/230/regulation/1/2), [8(2)](https://www.legislation.gov.uk/ssi/2006/230/regulation/8/2)
+[^c-9ac9b89eb7a887b15f902c3d9268d493]: Textual amendment: Words in sch. 3 para. (b) omitted (20.5.2006) by virtue of [The Ceramic Articles in Contact with Food (Scotland) Regulations 2006 (S.S.I. 2006/230)](https://www.legislation.gov.uk/ssi/2006/230), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2006/230/regulation/1/2), [8(2)](https://www.legislation.gov.uk/ssi/2006/230/regulation/8/2)
 
-[^key-88e5f0932aa89f0ee838fe5f62c031b1]: Textual amendment: Words in sch. 3 para. (c) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 50](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/50) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
+[^c-88e5f0932aa89f0ee838fe5f62c031b1]: Textual amendment: Words in sch. 3 para. (c) substituted (11.1.2006) by [The Food Hygiene (Scotland) Regulations 2006 (S.S.I. 2006/3)](https://www.legislation.gov.uk/ssi/2006/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/3/regulation/1/1), [sch. 7 para. 50](https://www.legislation.gov.uk/ssi/2006/3/schedule/7/paragraph/50) (with [reg. 35](https://www.legislation.gov.uk/ssi/2006/3/regulation/35))
 
 [^c12534711]: Marginal citation: [Regulation 10](https://www.legislation.gov.uk/ssi/2005/616/regulation/10) was inserted by the [Food Safety (Exports) Regulations 1991 (S.I. 1991/1476)](https://www.legislation.gov.uk/uksi/1991/1476), [regulation 2(1)](https://www.legislation.gov.uk/uksi/1991/1476/regulation/2/1).

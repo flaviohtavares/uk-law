@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5A. Delegation of Governor functions[^key-d6249b3bd5ce6c7f3445f4cc782dd996]
+## 5A. Delegation of Governor functions[^c-d6249b3bd5ce6c7f3445f4cc782dd996]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Governor may authorise the Deputy Governor to exercise, on their behalf, the
 
 ## Annotations
 
-[^key-d6249b3bd5ce6c7f3445f4cc782dd996]: Textual amendment: [Rule 5A](https://www.legislation.gov.uk/ssi/2011/331/rule/5A) inserted (10.11.2025) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2025 (S.S.I. 2025/277)](https://www.legislation.gov.uk/ssi/2025/277), [rules 1](https://www.legislation.gov.uk/ssi/2025/277/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/277/rule/2/3)
+[^c-d6249b3bd5ce6c7f3445f4cc782dd996]: Textual amendment: [Rule 5A](https://www.legislation.gov.uk/ssi/2011/331/rule/5A) inserted (10.11.2025) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2025 (S.S.I. 2025/277)](https://www.legislation.gov.uk/ssi/2025/277), [rules 1](https://www.legislation.gov.uk/ssi/2025/277/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/277/rule/2/3)

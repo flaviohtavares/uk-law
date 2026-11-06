@@ -30,7 +30,7 @@ summary: ''
 
 (5) Section 18(1) has effect as if for “The Secretary of State or an authorised person, and the primary contractor” there were substituted “ The contracting authority and the sub-contractor ”.
 
-(5A)[^key-0832abc5f655752634e99e4562dbd6d8] Section 21(1) has effect as if for “the Secretary of State” there were substituted “the contracting authority”
+(5A)[^c-0832abc5f655752634e99e4562dbd6d8] Section 21(1) has effect as if for “the Secretary of State” there were substituted “the contracting authority”
 
 (6) Section 21(5) (direction excluding final price adjustment) does not apply.
 
@@ -57,4 +57,4 @@ were persons mentioned in section 35(2).
 
 ## Annotations
 
-[^key-0832abc5f655752634e99e4562dbd6d8]: Textual amendment: [Reg. 64(5A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/64/5A) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/1106/regulation/20)
+[^c-0832abc5f655752634e99e4562dbd6d8]: Textual amendment: [Reg. 64(5A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/64/5A) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [20](https://www.legislation.gov.uk/uksi/2019/1106/regulation/20)

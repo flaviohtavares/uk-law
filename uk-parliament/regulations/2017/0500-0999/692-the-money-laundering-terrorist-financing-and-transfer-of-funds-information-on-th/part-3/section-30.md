@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraph (1A), this[^key-77625e489281117f4724723f4af10e2a] regulation applies when a relevant person is required to take any measures under regulation 27, 28 or 29.
+(1) Subject to paragraph (1A), this[^c-77625e489281117f4724723f4af10e2a] regulation applies when a relevant person is required to take any measures under regulation 27, 28 or 29.
 
-(1A)[^key-46bd5f8b6d9d7b47b905a8ab97dcc168] This regulation does not apply to a credit institution in relation to an insolvent bank customer where regulation 30ZA applies.
+(1A)[^c-46bd5f8b6d9d7b47b905a8ab97dcc168] This regulation does not apply to a credit institution in relation to an insolvent bank customer where regulation 30ZA applies.
 
 (2) Subject to paragraph (3) or (4), a relevant person must comply with the requirement to verify the identity of the customer, any person purporting to act on behalf of the customer and any beneficial owner of the customer before the establishment of a business relationship or the carrying out of the transaction.
 
@@ -45,12 +45,12 @@ summary: ''
 - (a) any payment is made to the beneficiary; or
 - (b) the beneficiary exercises its vested rights in the trust, legal entity or legal arrangement.
 
-(8)[^key-1c9cb2f1f550db31921bcb6ed909f488] In this regulation, “**insolvent bank customer**” has the meaning given in regulation 30ZA(5).
+(8)[^c-1c9cb2f1f550db31921bcb6ed909f488] In this regulation, “**insolvent bank customer**” has the meaning given in regulation 30ZA(5).
 
 ## Annotations
 
-[^key-77625e489281117f4724723f4af10e2a]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/30/1) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2026/621/regulation/16/a)
+[^c-77625e489281117f4724723f4af10e2a]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/30/1) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2026/621/regulation/16/a)
 
-[^key-46bd5f8b6d9d7b47b905a8ab97dcc168]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/30/1A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2026/621/regulation/16/b)
+[^c-46bd5f8b6d9d7b47b905a8ab97dcc168]: Textual amendment: [Reg. 30(1A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/30/1A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2026/621/regulation/16/b)
 
-[^key-1c9cb2f1f550db31921bcb6ed909f488]: Textual amendment: [Reg. 30(8)](https://www.legislation.gov.uk/uksi/2017/692/regulation/30/8) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2026/621/regulation/16/c)
+[^c-1c9cb2f1f550db31921bcb6ed909f488]: Textual amendment: [Reg. 30(8)](https://www.legislation.gov.uk/uksi/2017/692/regulation/30/8) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2026/621/regulation/16/c)

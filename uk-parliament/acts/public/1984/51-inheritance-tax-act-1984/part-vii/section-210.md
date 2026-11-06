@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Pension rights[^key-61cc33d755a6fd40ce08fe0563b5e2ef]
+## 210. Pension rights[^c-61cc33d755a6fd40ce08fe0563b5e2ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61cc33d755a6fd40ce08fe0563b5e2ef]: Textual amendment: [S. 210](https://www.legislation.gov.uk/ukpga/1984/51/section/210) substituted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/67/2), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-61cc33d755a6fd40ce08fe0563b5e2ef]: Textual amendment: [S. 210](https://www.legislation.gov.uk/ukpga/1984/51/section/210) substituted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/67/2), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

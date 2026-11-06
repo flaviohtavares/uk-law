@@ -24,7 +24,7 @@ Regulation 101
 
 ### PART 1 — General
 
-#### 1. Application and interpretation[^key-02d4a91e58d040bf1e9be105c08df6ec]
+#### 1. Application and interpretation[^c-02d4a91e58d040bf1e9be105c08df6ec]
 
 (1) This Schedule applies where, in relation to a relevant year, two or more bodies corporate in the same corporate group are each producers.
 
@@ -35,7 +35,7 @@ Regulation 101
   - (b) a member of a corporate group, two or more members of which are producers;
 - “**the threshold criteria**” means the criteria in paragraph (1) or (2) of regulation 24 read together with paragraphs (3) to (7) of that regulation.
 
-#### 2. Large and small producers: application of thresholds to relevant group companies[^key-b8e343f25291218452f5a3f662aa62fa]
+#### 2. Large and small producers: application of thresholds to relevant group companies[^c-b8e343f25291218452f5a3f662aa62fa]
 
 (1) If, in relation to a relevant year—
 
@@ -52,14 +52,14 @@ every relevant group member in the corporate group is a large producer in relati
 
 each relevant group member is a small producer in relation to the relevant year, whether or not it would satisfy the tests referred to in sub-paragraphs (a) and (b) if it were not a member of the group.
 
-#### 3. Individual and group registrations[^key-18e64da8ba7c0fa0b5ccc25bc7d9ff4c]
+#### 3. Individual and group registrations[^c-18e64da8ba7c0fa0b5ccc25bc7d9ff4c]
 
 Subject to regulation 42, a relevant group member must comply with its obligation under regulation 25(1)(a) to be registered with the appropriate agency for a relevant year by—
 
 - (a) being registered separately for that year with the appropriate agency as required by regulation 25(1)(a), in which case the relevant group member has its own obligations under these Regulations; or
 - (b) being registered for that year with the appropriate agency as part of a group registration on an application under paragraph 4, in which case paragraphs 5 and 6 apply.
 
-#### 4. Application for group registration[^key-0b969d6834f907f06ed6ff392a682464]
+#### 4. Application for group registration[^c-0b969d6834f907f06ed6ff392a682464]
 
 (1) An application to the appropriate agency for a group registration must be made by the holding company of a corporate group, whether or not the holding company is a producer.
 
@@ -104,7 +104,7 @@ Subject to regulation 42, a relevant group member must comply with its obligatio
 
 (7) If any of the circumstances in regulation 27(1) applies to a relevant group member in the group registration, the holding company must apply to the appropriate authority to amend the group registration by removing that relevant group member from the registration.
 
-#### 5. Effect of group registration: producer responsibility obligations[^key-23180b75116d8d08e1fb8a731d1d3656]
+#### 5. Effect of group registration: producer responsibility obligations[^c-23180b75116d8d08e1fb8a731d1d3656]
 
 (1) Where there is a group registration—
 
@@ -126,7 +126,7 @@ Subject to regulation 42, a relevant group member must comply with its obligatio
 
 (4) For the purposes of sub-paragraph (2)(a), regulation 40 applies with the modifications that references to a large producer are to be treated as references to the holding company.
 
-#### 6. Effect of group registration: liability for disposal fees and administration fees[^key-05750af1c585bc590baa3dfa9278c806]
+#### 6. Effect of group registration: liability for disposal fees and administration fees[^c-05750af1c585bc590baa3dfa9278c806]
 
 (1) Where one or more relevant group members in a group registration, other than the holding company, is a liable producer under regulation 60 in relation to an assessment year—
 
@@ -151,92 +151,92 @@ Subject to regulation 42, a relevant group member must comply with its obligatio
 
 ### PART 2 — Mid-year changes
 
-#### 7. Producer joining a corporate group[^key-4489aefb8dd60748624ca13198fe47a2]
+#### 7. Producer joining a corporate group[^c-4489aefb8dd60748624ca13198fe47a2]
 
 Paragraphs 8 to 11 apply where a corporate body which is a producer (“**NC**”) joins a corporate group and becomes a relevant group member.
 
-**8.**[^key-021832a100b06ebb392595eb68e5f3ba] NC must be registered with the appropriate agency either—
+**8.**[^c-021832a100b06ebb392595eb68e5f3ba] NC must be registered with the appropriate agency either—
 
 - (a) separately as referred to in paragraph 3(a); or
 - (b) by being added to a group registration under Part 1 of this Schedule, and for the purposes of this paragraph—
   - (i) such registration is effected upon notice being given by the holding company to the appropriate agency of the change in the group registration; and
   - (ii) where prior to joining the group of companies the company was registered with the appropriate agency, the appropriate agency must cancel that registration, and regulation 32(3) applies to that cancellation as it applies to a cancellation under regulation 32(2).
 
-**9.**[^key-4258365138da49d98366a6d5f05f719e] (1) Where, in relation to the year in which NC joins the corporate group, NC is added to a group registration—
+**9.**[^c-4258365138da49d98366a6d5f05f719e] (1) Where, in relation to the year in which NC joins the corporate group, NC is added to a group registration—
 
 - (a) if NC satisfies the threshold criteria as an individual producer, paragraph 5 applies as if NC had been part of the group registration for the whole year;
 - (b) if NC does not itself satisfy the threshold criteria, paragraph 5 applies with the modification in sub-paragraph (2).
 
 (2) The obligation of the holding company is to be calculated as a proportion of the company’s recycling obligations, disposal fee obligations and administration fee obligations for the year in which it joins the group, such proportion being calculated as provided in paragraph 11.
 
-**10.**[^key-74aee9e8b41bbf347867c5e46b812391] (1) Where in relation to the year in which NC joins the corporate group, NC is registered separately with the appropriate agency—
+**10.**[^c-74aee9e8b41bbf347867c5e46b812391] (1) Where in relation to the year in which NC joins the corporate group, NC is registered separately with the appropriate agency—
 
 - (a) if NC satisfies the threshold criteria as an individual producer, NC must comply with its obligations under these Regulations for that year;
 - (b) if NC does not itself satisfy the threshold criteria, NC must comply with its obligations under these Regulations for that year as varied by sub-paragraph (2).
 
 (2) The obligation of NC is to be calculated as a proportion of its recycling obligations, disposal fee obligations and administration fee obligations for the year in which it joins the group, such proportion being calculated as provided in paragraph 11.
 
-**11.**[^key-120c3fc162295448c2e410b1dc867533] The proportion referred to in paragraphs 9(2) and 10(2) is to be calculated as [formula: see source](https://www.legislation.gov.uk/uksi/2024/1332)where—
+**11.**[^c-120c3fc162295448c2e410b1dc867533] The proportion referred to in paragraphs 9(2) and 10(2) is to be calculated as [formula: see source](https://www.legislation.gov.uk/uksi/2024/1332)where—
 
 - “G” is the number of days in the relevant year during which the company is a member of the corporate group; and
 - “H” is the number of days in the relevant year.
 
-#### 12. Producer ceasing to be a member of a corporate group[^key-1506bd1bce058a5a160c1c0fbe39e3d6]
+#### 12. Producer ceasing to be a member of a corporate group[^c-1506bd1bce058a5a160c1c0fbe39e3d6]
 
 Paragraphs 13 and 14 apply where a relevant group member (“**XC**”) ceases to be a member of a corporate group.
 
-**13.**[^key-772cf086ea0301f4ffdd106efc714dd2] Where, in relation to the year during which XC leaves the corporate group, XC is registered with the appropriate agency as part of a group registration—
+**13.**[^c-772cf086ea0301f4ffdd106efc714dd2] Where, in relation to the year during which XC leaves the corporate group, XC is registered with the appropriate agency as part of a group registration—
 
 - (a) if XC satisfies the threshold criteria as an individual producer—
   - (i) XC must register with the appropriate agency as required by regulation 25(1)(a) within a period of 28 days starting with the day on which XC ceases to be a member of the group, and regulations 29 to 32 apply as if this were an occurrence specified in regulation 28(3)(a); but
   - (ii) the holding company must comply with XC’s obligations under these Regulations for that year;
 - (b) if XC does not satisfy the threshold criteria as an individual producer, the holding company must continue to comply with the obligations under these Regulations which XC had for that year as a relevant group member.
 
-**14.**[^key-a18e22031f5f3c95e6d685657ebb0c15] Where, in relation to the year during which XC leaves the corporate group, XC is registered separately with the appropriate agency—
+**14.**[^c-a18e22031f5f3c95e6d685657ebb0c15] Where, in relation to the year during which XC leaves the corporate group, XC is registered separately with the appropriate agency—
 
 - (a) if XC itself satisfies the threshold criteria, XC must comply with its obligations under these Regulations for that year as an individual producer;
 - (b) if XC does not itself satisfy the threshold criteria, the holding company must comply with the obligations under these Regulations which XC had for that year as a relevant group member.
 
-#### 15. Producer changing corporate groups[^key-07e9815763377f6ae5144a74167e3f58]
+#### 15. Producer changing corporate groups[^c-07e9815763377f6ae5144a74167e3f58]
 
 Paragraphs 16 and 17 apply where a relevant group member (“**CC**”) of one corporate group (“the first group”) ceases to be a member of that group and, in the same calendar year, becomes a member of another corporate group (“the second group”).
 
-**16.**[^key-e99c6e6942b5575dce75f3d60eccca57] Where, immediately before leaving the first group, CC is registered with the appropriate agency as part of a group registration, the holding company of the first group must continue to comply with CC’s obligations under these Regulations for the whole of the year in which CC changes groups.
+**16.**[^c-e99c6e6942b5575dce75f3d60eccca57] Where, immediately before leaving the first group, CC is registered with the appropriate agency as part of a group registration, the holding company of the first group must continue to comply with CC’s obligations under these Regulations for the whole of the year in which CC changes groups.
 
-**17.**[^key-56b2b2f4c567231fdf440a8e6d3fd129] Where, immediately before leaving the first group, CC is registered separately with the appropriate agency, CC must comply with its obligations under the Regulations for the whole of the relevant year.
+**17.**[^c-56b2b2f4c567231fdf440a8e6d3fd129] Where, immediately before leaving the first group, CC is registered separately with the appropriate agency, CC must comply with its obligations under the Regulations for the whole of the relevant year.
 
 ## Annotations
 
-[^key-02d4a91e58d040bf1e9be105c08df6ec]: Commencement: Sch. 9 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-02d4a91e58d040bf1e9be105c08df6ec]: Commencement: Sch. 9 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-b8e343f25291218452f5a3f662aa62fa]: Commencement: Sch. 9 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-b8e343f25291218452f5a3f662aa62fa]: Commencement: Sch. 9 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-18e64da8ba7c0fa0b5ccc25bc7d9ff4c]: Commencement: Sch. 9 para. 3 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-18e64da8ba7c0fa0b5ccc25bc7d9ff4c]: Commencement: Sch. 9 para. 3 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-0b969d6834f907f06ed6ff392a682464]: Commencement: Sch. 9 para. 4 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-0b969d6834f907f06ed6ff392a682464]: Commencement: Sch. 9 para. 4 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-23180b75116d8d08e1fb8a731d1d3656]: Commencement: Sch. 9 para. 5 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-23180b75116d8d08e1fb8a731d1d3656]: Commencement: Sch. 9 para. 5 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-05750af1c585bc590baa3dfa9278c806]: Commencement: Sch. 9 para. 6 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-05750af1c585bc590baa3dfa9278c806]: Commencement: Sch. 9 para. 6 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-4489aefb8dd60748624ca13198fe47a2]: Commencement: Sch. 9 para. 7 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-4489aefb8dd60748624ca13198fe47a2]: Commencement: Sch. 9 para. 7 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-021832a100b06ebb392595eb68e5f3ba]: Commencement: Sch. 9 para. 8 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-021832a100b06ebb392595eb68e5f3ba]: Commencement: Sch. 9 para. 8 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-4258365138da49d98366a6d5f05f719e]: Commencement: Sch. 9 para. 9 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-4258365138da49d98366a6d5f05f719e]: Commencement: Sch. 9 para. 9 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-74aee9e8b41bbf347867c5e46b812391]: Commencement: Sch. 9 para. 10 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-74aee9e8b41bbf347867c5e46b812391]: Commencement: Sch. 9 para. 10 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-120c3fc162295448c2e410b1dc867533]: Commencement: Sch. 9 para. 11 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-120c3fc162295448c2e410b1dc867533]: Commencement: Sch. 9 para. 11 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-1506bd1bce058a5a160c1c0fbe39e3d6]: Commencement: Sch. 9 para. 12 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-1506bd1bce058a5a160c1c0fbe39e3d6]: Commencement: Sch. 9 para. 12 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-772cf086ea0301f4ffdd106efc714dd2]: Commencement: Sch. 9 para. 13 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-772cf086ea0301f4ffdd106efc714dd2]: Commencement: Sch. 9 para. 13 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-a18e22031f5f3c95e6d685657ebb0c15]: Commencement: Sch. 9 para. 14 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-a18e22031f5f3c95e6d685657ebb0c15]: Commencement: Sch. 9 para. 14 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-07e9815763377f6ae5144a74167e3f58]: Commencement: Sch. 9 para. 15 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-07e9815763377f6ae5144a74167e3f58]: Commencement: Sch. 9 para. 15 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-e99c6e6942b5575dce75f3d60eccca57]: Commencement: Sch. 9 para. 16 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e99c6e6942b5575dce75f3d60eccca57]: Commencement: Sch. 9 para. 16 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-56b2b2f4c567231fdf440a8e6d3fd129]: Commencement: Sch. 9 para. 17 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-56b2b2f4c567231fdf440a8e6d3fd129]: Commencement: Sch. 9 para. 17 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

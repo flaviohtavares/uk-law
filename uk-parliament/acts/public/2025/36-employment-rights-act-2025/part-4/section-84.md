@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Removal of power to impose financial penalties[^key-cecc70a42af4260dbd4c36e4f1a3dd36]
+## 84. Removal of power to impose financial penalties[^c-cecc70a42af4260dbd4c36e4f1a3dd36]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cecc70a42af4260dbd4c36e4f1a3dd36]: Commencement: S. 84 in force at 18.2.2026, see [s. 159(2)(p)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/p) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/17))
+[^c-cecc70a42af4260dbd4c36e4f1a3dd36]: Commencement: S. 84 in force at 18.2.2026, see [s. 159(2)(p)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/p) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/17))

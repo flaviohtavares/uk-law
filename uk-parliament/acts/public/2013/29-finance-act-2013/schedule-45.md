@@ -74,7 +74,7 @@ Section 218
 
 **7.** The first automatic UK test is that P spends at least 183 days in the UK in year X.
 
-**8.**[^key-0828408f9e7713dfb1fbb9c9b5f7a497] (1) The second automatic UK test is that—
+**8.**[^c-0828408f9e7713dfb1fbb9c9b5f7a497] (1) The second automatic UK test is that—
 
 - (a) P has a home in the UK during all or part of year X,
 - (b) that home is one where P spends a sufficient amount of time in year X, and
@@ -289,7 +289,7 @@ where “A” is the number of whole months in year X after the month in which P
 
 #### Days spent
 
-**22.**[^key-ecd254c1b91c334ce31e567f867ed03a] (1) If P is present in the UK at the end of a day, that day counts as a day spent by P in the UK.
+**22.**[^c-ecd254c1b91c334ce31e567f867ed03a] (1) If P is present in the UK at the end of a day, that day counts as a day spent by P in the UK.
 
 (2) But it does not do so in the following two cases.
 
@@ -314,7 +314,7 @@ where “A” is the number of whole months in year X after the month in which P
 - (a) the maximum number of days to which sub-paragraph (2) may apply in reliance on sub-paragraph (4) is limited to 60, and
 - (b) accordingly, once the number of days within sub-paragraph (4) reaches 60 (counting forward from the start of the tax year), any subsequent days within that sub-paragraph, whether involving the same or different exceptional circumstances, will count as days spent by P in the UK.
 
-**23.**[^key-ec21129d8439101ffda5a128f0781b83] (1) If P is not present in the UK at the end of a day, that day does not count as a day spent by P in the UK.
+**23.**[^c-ec21129d8439101ffda5a128f0781b83] (1) If P is not present in the UK at the end of a day, that day does not count as a day spent by P in the UK.
 
 (2) This is subject to the deeming rule.
 
@@ -388,7 +388,7 @@ where “A” is the number of whole months in year X after the month in which P
 
 **28.** (1) This paragraph applies in calculating the “reference period” (which is a step taken in determining whether P works “sufficient hours in the UK” or “sufficient hours overseas” as assessed over a given period of days).
 
-(2)[^key-46f0da9de9db6252de970f1d1c34bce8] The number of days in the given period may be reduced to take account of—
+(2)[^c-46f0da9de9db6252de970f1d1c34bce8] The number of days in the given period may be reduced to take account of—
 
 - (a) reasonable amounts of annual leave or parenting leave taken by P during the period (for all employments held and trades carried on by P during the period, whether in the UK or overseas),
 - (b) absences from work at times during the period when P is on sick leave and cannot reasonably be expected to work as a result of the illness or injury in question, and
@@ -431,7 +431,7 @@ the number of days in the given period may be reduced by the number of days in t
 
 #### Significant breaks from UK or overseas work
 
-**29.**[^key-cefe6966a1cf5be9a311f74d08821391] (1) There is a “significant break from UK work” if at least 31 days go by and not one of those days is—
+**29.**[^c-cefe6966a1cf5be9a311f74d08821391] (1) There is a “significant break from UK work” if at least 31 days go by and not one of those days is—
 
 - (a) a day on which P does more than 3 hours' work in the UK, or
 - (b) a day on which P would have done more than 3 hours' work in the UK but for being on annual leave, sick leave or parenting leave.
@@ -479,7 +479,7 @@ the number of days in the given period may be reduced by the number of days in t
 
 #### Family tie
 
-**32.**[^key-70475cd4334deb447806c51f6f975351] (1) P has a family tie for year X if—
+**32.**[^c-70475cd4334deb447806c51f6f975351] (1) P has a family tie for year X if—
 
 - (a) in year X, a relevant relationship exists at any time between P and another person, and
 - (b) that other person is someone who is resident in the UK for year X.
@@ -487,7 +487,7 @@ the number of days in the given period may be reduced by the number of days in t
 (2) A relevant relationship exists at any time between P and another person if at the time—
 
 - (a) P and the other person are husband and wife or civil partners and, in either case, are not separated,
-- (b) P and the other person are living together as if they were a married couple or[^key-c3eb9f984a1b38b96ea3fbe031feea83] civil partners, or
+- (b) P and the other person are living together as if they were a married couple or[^c-c3eb9f984a1b38b96ea3fbe031feea83] civil partners, or
 - (c) the other person is a child of P's and is under the age of 18.
 
 (3) P does not have a family tie for year X by virtue of sub-paragraph (2)(c) if P sees the child in the UK on fewer than 61 days (in total) in—
@@ -524,7 +524,7 @@ the number of days in the given period may be reduced by the number of days in t
 
 #### Accommodation tie
 
-**34.**[^key-772344aa61d07a7289d291423378b014] (1) P has an accommodation tie for year X if—
+**34.**[^c-772344aa61d07a7289d291423378b014] (1) P has an accommodation tie for year X if—
 
 - (a) P has a place to live in the UK,
 - (b) that place is available to P during year X for a continuous period of at least 91 days, and
@@ -553,7 +553,7 @@ in each case, including by half-blood or by marriage or civil partnership.
 
 #### Work tie
 
-**35.**[^key-7b827c0377784e93f51a1e6edd680af1] (1) P has a work tie for year X if P works in the UK for at least 40 days (whether continuously or intermittently) in year X.
+**35.**[^c-7b827c0377784e93f51a1e6edd680af1] (1) P has a work tie for year X if P works in the UK for at least 40 days (whether continuously or intermittently) in year X.
 
 (2) For these purposes, P works in the UK for a day if P does more than 3 hours' work in the UK on that day.
 
@@ -579,7 +579,7 @@ in each case, including by half-blood or by marriage or civil partnership.
 
 #### 90-day tie
 
-**37.**[^key-785a619e9d4cfdb76b5a30710b71a3ba] P has a 90-day tie for year X if P has spent more than 90 days in the UK in—
+**37.**[^c-785a619e9d4cfdb76b5a30710b71a3ba] P has a 90-day tie for year X if P has spent more than 90 days in the UK in—
 
 - (a) the tax year preceding year X,
 - (b) the tax year preceding that tax year, or
@@ -587,7 +587,7 @@ in each case, including by half-blood or by marriage or civil partnership.
 
 #### Country tie
 
-**38.**[^key-985992e45b97f4a479a2cf1e3b080034] (1) P has a country tie for year X if the country in which P meets the midnight test for the greatest number of days in year X is the UK.
+**38.**[^c-985992e45b97f4a479a2cf1e3b080034] (1) P has a country tie for year X if the country in which P meets the midnight test for the greatest number of days in year X is the UK.
 
 (2) If—
 
@@ -943,9 +943,9 @@ where “A” is the number of whole months in the part of the relevant year beg
 
 (4) “**Partner**”, in relation to the taxpayer, means—
 
-- (a) a husband or wife or civil partner, or[^key-4742e18dbdc6719235cc5d829adb2cd3]
-- (b) if the taxpayer and another person are living together as if they were a married couple or civil partners[^key-4fdd52338d286d68a40787c8b23fcb54], that other person, [^key-ec6243b8213e2d8632250b5abd80afd8]...
-- (c)[^key-ec6243b8213e2d8632250b5abd80afd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a husband or wife or civil partner, or[^c-4742e18dbdc6719235cc5d829adb2cd3]
+- (b) if the taxpayer and another person are living together as if they were a married couple or civil partners[^c-4fdd52338d286d68a40787c8b23fcb54], that other person, [^c-ec6243b8213e2d8632250b5abd80afd8]...
+- (c)[^c-ec6243b8213e2d8632250b5abd80afd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) If calculation of the appropriate number results in a number of days that is not a whole number, the appropriate number is to be rounded up or down as follows—
 
@@ -1254,7 +1254,7 @@ where “A” is the number of whole months in the part of the relevant year beg
 
 > (1A) If the person liable for the tax under this Part is an individual and the tax year is a split year as respects that individual, the taxable pension income for the tax year is the full amount of the pension income arising in the UK part of the year, subject to subsections (2) and (3) and section 576A.
 
-(4)[^key-c0cf8ec628815bfd4fdd9e5fe6a663e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c0cf8ec628815bfd4fdd9e5fe6a663e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### PAYE income
 
@@ -1530,7 +1530,7 @@ where “A” is the number of whole months in the part of the relevant year beg
 
 **100.** In section 86 (attribution of gains to settlors with interest in non-resident or dual resident settlements), in subsection (4)(a), after “the year” insert “ or if, as respects the settlor, the year is a split year, in the UK part of that year ”.
 
-**101.**[^key-155a96b815c92644beccf89063f3bb3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**101.**[^c-155a96b815c92644beccf89063f3bb3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Trustees of a settlement
 
@@ -2446,7 +2446,7 @@ where “A” is the number of whole months in the part of the relevant year beg
 
 #### Interpretation
 
-**145.**[^key-163b574b9b3a5599810544d62c273640] In this Schedule—
+**145.**[^c-163b574b9b3a5599810544d62c273640] In this Schedule—
 
 - “**corporation tax**” includes any amount assessable or chargeable as if it were corporation tax;
 - “**country**” includes a state or territory;
@@ -2463,7 +2463,7 @@ where “A” is the number of whole months in the part of the relevant year beg
 - “**home**” is to be construed in accordance with paragraph 25;
 - “**individual**” means an individual acting in any capacity (including as trustee or personal representative);
 - “**overseas**” means anywhere outside the UK;
-- “**parenting leave**” means maternity leave, paternity leave, adoption leave, parental leave[^key-f1648780a1369a681823f80891755ade] , parental bereavement leave or neonatal care leave[^key-17eec8816fb1db20fffaf6a77d7a76e6] (whether statutory or otherwise);
+- “**parenting leave**” means maternity leave, paternity leave, adoption leave, parental leave[^c-f1648780a1369a681823f80891755ade] , parental bereavement leave or neonatal care leave[^c-17eec8816fb1db20fffaf6a77d7a76e6] (whether statutory or otherwise);
 - “relevant job on board a vehicle, aircraft or ship” is defined in paragraph 30;
 - “**ship**” includes any kind of vessel (including a hovercraft);
 - “significant break from overseas work” is defined in paragraph 29;
@@ -2635,40 +2635,40 @@ where “A” is the number of whole months in the part of the relevant year beg
 
 ## Annotations
 
-[^key-0828408f9e7713dfb1fbb9c9b5f7a497]: Modification: Sch. 45 para. 8 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/3)
+[^c-0828408f9e7713dfb1fbb9c9b5f7a497]: Modification: Sch. 45 para. 8 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/3)
 
-[^key-ecd254c1b91c334ce31e567f867ed03a]: Modification: Sch. 45 para. 22 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/4)
+[^c-ecd254c1b91c334ce31e567f867ed03a]: Modification: Sch. 45 para. 22 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/4)
 
-[^key-ec21129d8439101ffda5a128f0781b83]: Modification: Sch. 45 para. 23 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(5)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/5)
+[^c-ec21129d8439101ffda5a128f0781b83]: Modification: Sch. 45 para. 23 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(5)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/5)
 
-[^key-46f0da9de9db6252de970f1d1c34bce8]: Modification: Sch. 45 para. 28(2) modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/6)
+[^c-46f0da9de9db6252de970f1d1c34bce8]: Modification: Sch. 45 para. 28(2) modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/6)
 
-[^key-cefe6966a1cf5be9a311f74d08821391]: Modification: Sch. 45 para. 29 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(7)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/7)
+[^c-cefe6966a1cf5be9a311f74d08821391]: Modification: Sch. 45 para. 29 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(7)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/7)
 
-[^key-70475cd4334deb447806c51f6f975351]: Modification: Sch. 45 para. 32 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(8)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/8)
+[^c-70475cd4334deb447806c51f6f975351]: Modification: Sch. 45 para. 32 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(8)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/8)
 
-[^key-c3eb9f984a1b38b96ea3fbe031feea83]: Textual amendment: Words in Sch. 45 para. 32(2)(b) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 36(2)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/36/2)
+[^c-c3eb9f984a1b38b96ea3fbe031feea83]: Textual amendment: Words in Sch. 45 para. 32(2)(b) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 36(2)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/36/2)
 
-[^key-772344aa61d07a7289d291423378b014]: Modification: Sch. 45 para. 34 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(9)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/9)
+[^c-772344aa61d07a7289d291423378b014]: Modification: Sch. 45 para. 34 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(9)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/9)
 
-[^key-7b827c0377784e93f51a1e6edd680af1]: Modification: Sch. 45 para. 35 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(10)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/10)
+[^c-7b827c0377784e93f51a1e6edd680af1]: Modification: Sch. 45 para. 35 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(10)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/10)
 
-[^key-785a619e9d4cfdb76b5a30710b71a3ba]: Modification: Sch. 45 para. 37 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(11)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/11)
+[^c-785a619e9d4cfdb76b5a30710b71a3ba]: Modification: Sch. 45 para. 37 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(11)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/11)
 
-[^key-985992e45b97f4a479a2cf1e3b080034]: Modification: Sch. 45 para. 38 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(12)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/12)
+[^c-985992e45b97f4a479a2cf1e3b080034]: Modification: Sch. 45 para. 38 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(12)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/12)
 
-[^key-4742e18dbdc6719235cc5d829adb2cd3]: Textual amendment: Word in Sch. 45 para. 52(4)(a) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 36(3)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/36/3/a)
+[^c-4742e18dbdc6719235cc5d829adb2cd3]: Textual amendment: Word in Sch. 45 para. 52(4)(a) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 36(3)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/36/3/a)
 
-[^key-4fdd52338d286d68a40787c8b23fcb54]: Textual amendment: Words in Sch. 45 para. 52(4)(b) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 36(3)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/36/3/b)
+[^c-4fdd52338d286d68a40787c8b23fcb54]: Textual amendment: Words in Sch. 45 para. 52(4)(b) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 36(3)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/36/3/b)
 
-[^key-ec6243b8213e2d8632250b5abd80afd8]: Textual amendment: Sch. 45 para. 52(4)(c) and word omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 36(3)(c)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/36/3/c)
+[^c-ec6243b8213e2d8632250b5abd80afd8]: Textual amendment: Sch. 45 para. 52(4)(c) and word omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 36(3)(c)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/36/3/c)
 
-[^key-c0cf8ec628815bfd4fdd9e5fe6a663e6]: Textual amendment: Sch. 45 para. 72(4) omitted (with effect in accordance with Sch. 3 para. 2(6) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 3 para. 2(4)(d)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/3/paragraph/2/4/d)
+[^c-c0cf8ec628815bfd4fdd9e5fe6a663e6]: Textual amendment: Sch. 45 para. 72(4) omitted (with effect in accordance with Sch. 3 para. 2(6) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 3 para. 2(4)(d)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/3/paragraph/2/4/d)
 
-[^key-155a96b815c92644beccf89063f3bb3a]: Textual amendment: Sch. 45 para. 101 omitted (with effect in accordance with Sch. 10 para. 1(13) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 1(11)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/1/11)
+[^c-155a96b815c92644beccf89063f3bb3a]: Textual amendment: Sch. 45 para. 101 omitted (with effect in accordance with Sch. 10 para. 1(13) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 1(11)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/1/11)
 
-[^key-163b574b9b3a5599810544d62c273640]: Modification: Sch. 45 para. 145 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(13)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/13)
+[^c-163b574b9b3a5599810544d62c273640]: Modification: Sch. 45 para. 145 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 109(13)](https://www.legislation.gov.uk/ukpga/2020/14/section/109/13)
 
-[^key-f1648780a1369a681823f80891755ade]: Textual amendment: Words in Sch. 45 para. 145 substituted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 56](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/56); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-f1648780a1369a681823f80891755ade]: Textual amendment: Words in Sch. 45 para. 145 substituted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 56](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/56); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-17eec8816fb1db20fffaf6a77d7a76e6]: Textual amendment: Words in Sch. 45 para. 145 substituted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 58](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/58); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-17eec8816fb1db20fffaf6a77d7a76e6]: Textual amendment: Words in Sch. 45 para. 145 substituted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 58](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/58); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)

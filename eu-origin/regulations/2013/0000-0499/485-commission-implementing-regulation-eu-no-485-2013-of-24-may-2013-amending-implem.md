@@ -36,54 +36,54 @@ amending Implementing Regulation (EU) No 540/2011, as regards the conditions of 
 
 (Text with EEA relevance) (revoked)
 
-[^key-085a8e4b812f3e16ff8136cc901d33d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-085a8e4b812f3e16ff8136cc901d33d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment to Implementing Regulation (EU) No 540/2011[^key-085a8e4b812f3e16ff8136cc901d33d3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Prohibition of placing on the market of treated seeds[^key-085a8e4b812f3e16ff8136cc901d33d3]
+## Article 1. Amendment to Implementing Regulation (EU) No 540/2011[^c-085a8e4b812f3e16ff8136cc901d33d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-085a8e4b812f3e16ff8136cc901d33d3]
+## Article 2. Prohibition of placing on the market of treated seeds[^c-085a8e4b812f3e16ff8136cc901d33d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Period of grace[^key-085a8e4b812f3e16ff8136cc901d33d3]
+## Article 3. Transitional measures[^c-085a8e4b812f3e16ff8136cc901d33d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-085a8e4b812f3e16ff8136cc901d33d3]
+## Article 4. Period of grace[^c-085a8e4b812f3e16ff8136cc901d33d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-085a8e4b812f3e16ff8136cc901d33d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-085a8e4b812f3e16ff8136cc901d33d3]
 
-## ANNEX I — Amendments to the Annex to Implementing Regulation (EU) No 540/2011[^key-085a8e4b812f3e16ff8136cc901d33d3]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-085a8e4b812f3e16ff8136cc901d33d3]1.
+[^c-085a8e4b812f3e16ff8136cc901d33d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Amendments to the Annex to Implementing Regulation (EU) No 540/2011[^c-085a8e4b812f3e16ff8136cc901d33d3]
+
+[^c-085a8e4b812f3e16ff8136cc901d33d3]1.
 
 The column ‘Specific provisions’ of row 121, Clothianidin, of Part A of the Annex to Implementing Regulation (EU) No 540/2011 is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-085a8e4b812f3e16ff8136cc901d33d3]2.
+[^c-085a8e4b812f3e16ff8136cc901d33d3]2.
 
 The column ‘Specific provisions’ of row 140, Thiamethoxam of Part A of the Annex to Implementing Regulation (EU) No 540/2011 is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-085a8e4b812f3e16ff8136cc901d33d3]3.
+[^c-085a8e4b812f3e16ff8136cc901d33d3]3.
 
 The column ‘Specific provisions’ of row 216, Imidacloprid, of Part A of the Annex to Implementing Regulation (EU) No 540/2011 is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — List of seeds, as referred to in Article 2[^key-085a8e4b812f3e16ff8136cc901d33d3]
+## ANNEX II — List of seeds, as referred to in Article 2[^c-085a8e4b812f3e16ff8136cc901d33d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-085a8e4b812f3e16ff8136cc901d33d3]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-085a8e4b812f3e16ff8136cc901d33d3]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

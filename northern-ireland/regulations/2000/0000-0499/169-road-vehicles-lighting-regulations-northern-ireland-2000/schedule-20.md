@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 21 and 23
 
-### Part I — Requirements Relating to Obligatory Pedal Retro Reflectors and Optional Pedal Retro Reflectors to the Extent Specified in Part II[^key-cb23224aff98a093936f2f2a1fca8296]
+### Part I — Requirements Relating to Obligatory Pedal Retro Reflectors and Optional Pedal Retro Reflectors to the Extent Specified in Part II[^c-cb23224aff98a093936f2f2a1fca8296]
 
 <table>
 <tfoot>
@@ -42,12 +42,12 @@ Regulation 21 and 23
 </tbody>
 </table>
 
-### Part II — Requirements Relating to Optional Pedal Retro Reflectors[^key-f266d89b42c60e858b39233faf6fb128]
+### Part II — Requirements Relating to Optional Pedal Retro Reflectors[^c-f266d89b42c60e858b39233faf6fb128]
 
 Any number may be fitted and the only requirement prescribed by these Regulations in respect of any which are fitted is that specified in paragraph 6 of Part I.
 
 ## Annotations
 
-[^key-cb23224aff98a093936f2f2a1fca8296]: Commencement: [Sch. 20 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/20/part/I) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-cb23224aff98a093936f2f2a1fca8296]: Commencement: [Sch. 20 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/20/part/I) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-f266d89b42c60e858b39233faf6fb128]: Commencement: [Sch. 20 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/20/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-f266d89b42c60e858b39233faf6fb128]: Commencement: [Sch. 20 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/20/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

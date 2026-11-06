@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Retention of proxies[^key-fce70c53c9f2cf09bcbdff7d6248c918]
+## 75. Retention of proxies[^c-fce70c53c9f2cf09bcbdff7d6248c918]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fce70c53c9f2cf09bcbdff7d6248c918]: Commencement: Rule 75 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-fce70c53c9f2cf09bcbdff7d6248c918]: Commencement: Rule 75 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

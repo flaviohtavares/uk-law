@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 59, 61W, 62, and 76C of the Town and Country Planning Act 1990[^f00001], makes the following Order:
 
-## 1. Citation, commencement, expiry and application[^key-228a6e9afafc15890a58e7e0a4264ee7]
+## 1. Citation, commencement, expiry and application[^c-228a6e9afafc15890a58e7e0a4264ee7]
 
 (1) This Order may be cited as the Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2013 and shall come into force on 17th December 2013.
 
@@ -54,11 +54,11 @@ The Secretary of State, in exercise of the powers conferred by sections 59, 61W,
 
 (3) This Order applies in relation to England only.
 
-## 2. Amendment of the Town and Country Planning (Development Management Procedure) (England) Order 2010[^key-1aba7d8fe4ecb09f3da9d70ac1d2c90f]
+## 2. Amendment of the Town and Country Planning (Development Management Procedure) (England) Order 2010[^c-1aba7d8fe4ecb09f3da9d70ac1d2c90f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^key-9c0001f473864380db0aa1a0f51e481b]
+## 3. Amendment of the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^c-9c0001f473864380db0aa1a0f51e481b]
 
 (1) The Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^f00004] is amended as follows.
 
@@ -121,12 +121,12 @@ An impact assessment is being prepared in relation to this Order. It will be pla
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 61W and subsection (8) of section 62 were inserted by section 122 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) (“the Localism Act”), section 62 was substituted by section 42(1) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), and section 76C was inserted by section 1(2) of, and paragraphs 1 and 5 of Schedule 1 to, the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
 
-[^key-228a6e9afafc15890a58e7e0a4264ee7]: Commencement: Art. 1 in force at 17.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2932/article/1/1)
+[^c-228a6e9afafc15890a58e7e0a4264ee7]: Commencement: Art. 1 in force at 17.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2932/article/1/1)
 
 [^f00002]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20). The amendments made by section 122(1) and (2) of the Localism Act cease to have effect at the end of seven years beginning with the date on which the inserted section 61W(1) of the Town and Country Planning Act 1990 comes fully into force.
 
-[^key-1aba7d8fe4ecb09f3da9d70ac1d2c90f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2932/article/2) revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
+[^c-1aba7d8fe4ecb09f3da9d70ac1d2c90f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2932/article/2) revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
 
-[^key-9c0001f473864380db0aa1a0f51e481b]: Commencement: Art. 3 in force at 17.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2932/article/1/1)
+[^c-9c0001f473864380db0aa1a0f51e481b]: Commencement: Art. 3 in force at 17.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2932/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140).

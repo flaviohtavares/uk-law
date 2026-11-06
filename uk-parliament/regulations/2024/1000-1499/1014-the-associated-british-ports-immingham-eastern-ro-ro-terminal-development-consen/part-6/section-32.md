@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Application of landlord and tenant law[^key-5ee97b0572c36da0545702a669f36c76]
+## 32. Application of landlord and tenant law[^c-5ee97b0572c36da0545702a669f36c76]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ee97b0572c36da0545702a669f36c76]: Commencement: Art. 32 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-5ee97b0572c36da0545702a669f36c76]: Commencement: Art. 32 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

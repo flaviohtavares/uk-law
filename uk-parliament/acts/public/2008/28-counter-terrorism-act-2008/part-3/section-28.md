@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Jurisdiction to try offences committed in the UK[^key-1b4df6b4f55a8b1cf40ad3954d8a57e5]
+## 28. Jurisdiction to try offences committed in the UK[^c-1b4df6b4f55a8b1cf40ad3954d8a57e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
   - sections 1 and 2 (encouragement of terrorism),
   - sections 5, 6 and 8 (preparation and training for terrorism),
   - sections 9, 10 and 11 (offences relating to radioactive devices etc).
-- (d)[^key-76c3e0eda92ecc1a55684f81b6292721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-76c3e0eda92ecc1a55684f81b6292721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Secretary of State may by order amend subsection (2).
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b4df6b4f55a8b1cf40ad3954d8a57e5]: Commencement: S. 28 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/a)
+[^c-1b4df6b4f55a8b1cf40ad3954d8a57e5]: Commencement: S. 28 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/a)
 
-[^key-76c3e0eda92ecc1a55684f81b6292721]: Textual amendment: [S. 28(2)(d)](https://www.legislation.gov.uk/ukpga/2008/28/section/28/2/d) repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/9) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/e)
+[^c-76c3e0eda92ecc1a55684f81b6292721]: Textual amendment: [S. 28(2)(d)](https://www.legislation.gov.uk/ukpga/2008/28/section/28/2/d) repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/9) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/e)

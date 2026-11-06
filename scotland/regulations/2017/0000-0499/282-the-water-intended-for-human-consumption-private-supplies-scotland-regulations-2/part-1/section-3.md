@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Interpretation[^key-a167f2c962795e9ca3e4dec06240b24e]
+## 3. Interpretation[^c-a167f2c962795e9ca3e4dec06240b24e]
 
 *Extent: S*
 
@@ -120,7 +120,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a167f2c962795e9ca3e4dec06240b24e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/282/regulation/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-a167f2c962795e9ca3e4dec06240b24e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/282/regulation/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00007]: Footnote: [S.S.I. 2007/483](https://www.legislation.gov.uk/ssi/2007/483), amended by [S.S.I. 2009/273](https://www.legislation.gov.uk/ssi/2009/273), [S.S.I. 2010/89](https://www.legislation.gov.uk/ssi/2010/89), [S.S.I. 2011/94](https://www.legislation.gov.uk/ssi/2011/94), [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312), [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100) and [S.S.I. 2015/363](https://www.legislation.gov.uk/ssi/2015/363).
 

@@ -24,7 +24,7 @@ summary: ''
 
 (2) The contract of employment between a designated employee and the abolished body concerned shall not be terminated by the abolition of the body but shall have effect from 1st April 1996 as if originally made between him and such new employer as may be specified by the relevant designation order under this section.
 
-(3) Such an order may specify as the new employer a new principal council [^key-745265e04917c4942b2a3e1f4e855971]....
+(3) Such an order may specify as the new employer a new principal council [^c-745265e04917c4942b2a3e1f4e855971]....
 
 (4) Without prejudice to subsection (2)—
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c10519721]: Modification: [Ss. 40-45](https://www.legislation.gov.uk/ukpga/1994/19/section/40) applied (with modifications) (23.11.1995) by [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), [art. 16](https://www.legislation.gov.uk/uksi/1995/2803/article/16) (with transitional provisions in [Schs. 6-8](https://www.legislation.gov.uk/uksi/1995/2803/schedule/6))
 
-[^key-745265e04917c4942b2a3e1f4e855971]: Textual amendment: Words in [s. 42(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/42/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/b)
+[^c-745265e04917c4942b2a3e1f4e855971]: Textual amendment: Words in [s. 42(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/42/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/b)

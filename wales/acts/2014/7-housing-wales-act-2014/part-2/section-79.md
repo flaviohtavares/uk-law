@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Further circumstances in which the duties to help applicants end[^key-954f93df4745c401c5f98806795c15a5]
+## 79. Further circumstances in which the duties to help applicants end[^c-954f93df4745c401c5f98806795c15a5]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-954f93df4745c401c5f98806795c15a5]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2014/7/section/79) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 30](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/30)
+[^c-954f93df4745c401c5f98806795c15a5]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2014/7/section/79) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 30](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/30)

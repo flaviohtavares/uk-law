@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 347. Supplies exempt from Value Added Tax[^key-68267adbf36b0495915de9ebc6e46a85]
+## 347. Supplies exempt from Value Added Tax[^c-68267adbf36b0495915de9ebc6e46a85]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68267adbf36b0495915de9ebc6e46a85]: Commencement: Art. 347 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-68267adbf36b0495915de9ebc6e46a85]: Commencement: Art. 347 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00254]: Footnote: Relevant amendments made by the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), section 38.

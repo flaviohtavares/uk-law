@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Code of practice in relation to non-devolved powers of entry[^key-d5d762f7dd99ca8a7e81a6ffe52d58ec]
+## 47. Code of practice in relation to non-devolved powers of entry[^c-d5d762f7dd99ca8a7e81a6ffe52d58ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5d762f7dd99ca8a7e81a6ffe52d58ec]: Commencement: S. 47 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(q)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/q)
+[^c-d5d762f7dd99ca8a7e81a6ffe52d58ec]: Commencement: S. 47 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(q)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/q)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Temporary stopping up of streets and public rights of way[^key-ab4136a4bc47e6fd173670345f4afdc2]
+## 13. Temporary stopping up of streets and public rights of way[^c-ab4136a4bc47e6fd173670345f4afdc2]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab4136a4bc47e6fd173670345f4afdc2]: Commencement: Art. 13 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-ab4136a4bc47e6fd173670345f4afdc2]: Commencement: Art. 13 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

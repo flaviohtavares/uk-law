@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Ground rules hearings[^key-14b85421f7bc23c63c59d1b356fc64c7]
+## 93. Ground rules hearings[^c-14b85421f7bc23c63c59d1b356fc64c7]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14b85421f7bc23c63c59d1b356fc64c7]: Commencement: S. 93 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-14b85421f7bc23c63c59d1b356fc64c7]: Commencement: S. 93 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. Power to make discontinuance order[^key-4c14b667fc3c9c571fdf253494ea41ba]
+## 206. Power to make discontinuance order[^c-4c14b667fc3c9c571fdf253494ea41ba]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ the planning authority in whose area the premises are situated must secure the p
 
 ## Annotations
 
-[^key-4c14b667fc3c9c571fdf253494ea41ba]: Commencement: S. 206 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4c14b667fc3c9c571fdf253494ea41ba]: Commencement: S. 206 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

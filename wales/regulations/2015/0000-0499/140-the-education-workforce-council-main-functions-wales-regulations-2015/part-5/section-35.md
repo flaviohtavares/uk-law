@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Disciplinary orders[^key-d00fa47af9e514538a976007797729cb]
+## 35. Disciplinary orders[^c-d00fa47af9e514538a976007797729cb]
 
 *Extent: E+W*
 
-(1) A disciplinary order must record the decision of the Fitness to Practise[^key-a14784f8595f70c24685506dea86ea92] Committee, the date on which the order is made, and the date on which the order takes effect.
+(1) A disciplinary order must record the decision of the Fitness to Practise[^c-a14784f8595f70c24685506dea86ea92] Committee, the date on which the order is made, and the date on which the order takes effect.
 
 (2) A disciplinary order takes effect on the date on which notice of it is served on the person in relation to whom it is made except where a Fitness to Practise Committee otherwise decide.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d00fa47af9e514538a976007797729cb]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2015/140/regulation/35) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-d00fa47af9e514538a976007797729cb]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2015/140/regulation/35) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
+[^c-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)

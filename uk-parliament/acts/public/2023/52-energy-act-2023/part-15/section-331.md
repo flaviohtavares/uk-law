@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 331. Regulations[^key-68dbe8671656e8ad15d489706a6a45d1]
+## 331. Regulations[^c-68dbe8671656e8ad15d489706a6a45d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68dbe8671656e8ad15d489706a6a45d1]: Commencement: S. 331 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)
+[^c-68dbe8671656e8ad15d489706a6a45d1]: Commencement: S. 331 in force at Royal Assent, see [s. 334(2)(p)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/p)

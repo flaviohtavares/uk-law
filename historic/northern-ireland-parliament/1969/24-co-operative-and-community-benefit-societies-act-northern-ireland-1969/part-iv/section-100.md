@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Annual reports by registrar.[^key-1ce9efe0f42e8ef721eebdbadef21421]
+## 100. Annual reports by registrar.[^c-1ce9efe0f42e8ef721eebdbadef21421]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ce9efe0f42e8ef721eebdbadef21421]: Textual amendment: S. 100 omitted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2018/323/schedule/2/paragraph/24) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-1ce9efe0f42e8ef721eebdbadef21421]: Textual amendment: S. 100 omitted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2018/323/schedule/2/paragraph/24) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

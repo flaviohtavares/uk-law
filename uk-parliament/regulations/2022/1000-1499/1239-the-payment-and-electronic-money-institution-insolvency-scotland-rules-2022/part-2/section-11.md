@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. The hearing[^key-7107d41883a54c338bccfe7250d8a3e5]
+## 11. The hearing[^c-7107d41883a54c338bccfe7250d8a3e5]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ At the hearing of the application, any of the following may appear or be represe
 
 ## Annotations
 
-[^key-7107d41883a54c338bccfe7250d8a3e5]: Commencement: Rule 11 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-7107d41883a54c338bccfe7250d8a3e5]: Commencement: Rule 11 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

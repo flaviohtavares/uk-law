@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29D. Criminal conduct authorisations: safeguards for vulnerable adults[^key-8f6ee503216c6806dd7d03409c1286d9]
+## 29D. Criminal conduct authorisations: safeguards for vulnerable adults[^c-8f6ee503216c6806dd7d03409c1286d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f6ee503216c6806dd7d03409c1286d9]: Textual amendment: S. 29D inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 3](https://www.legislation.gov.uk/ukpga/2021/4/section/3), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-8f6ee503216c6806dd7d03409c1286d9]: Textual amendment: S. 29D inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 3](https://www.legislation.gov.uk/ukpga/2021/4/section/3), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Amendment of section 80 (Welsh text)[^key-fab2c4ece304a87a4f57f030f17e35ec]
+## 127. Amendment of section 80 (Welsh text)[^c-fab2c4ece304a87a4f57f030f17e35ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fab2c4ece304a87a4f57f030f17e35ec]: Commencement: Reg. 127 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-fab2c4ece304a87a4f57f030f17e35ec]: Commencement: Reg. 127 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

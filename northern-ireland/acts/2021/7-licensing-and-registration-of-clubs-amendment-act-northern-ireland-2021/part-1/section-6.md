@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Extension of “drinking-up time”[^key-506eccbebb7f6aa08e5eea11cb53dcd4][^key-f40fe29e4c95e370c412c6b5ab8f2517]
+## 6. Extension of “drinking-up time”[^c-506eccbebb7f6aa08e5eea11cb53dcd4][^c-f40fe29e4c95e370c412c6b5ab8f2517]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-506eccbebb7f6aa08e5eea11cb53dcd4]: Commencement: S. 6 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-506eccbebb7f6aa08e5eea11cb53dcd4]: Commencement: S. 6 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-f40fe29e4c95e370c412c6b5ab8f2517]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2021/7/section/6) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-f40fe29e4c95e370c412c6b5ab8f2517]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2021/7/section/6) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

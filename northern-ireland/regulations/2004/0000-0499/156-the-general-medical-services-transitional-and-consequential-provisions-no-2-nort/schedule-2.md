@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — REVOCATIONS[^key-4b65cc7cf1c0b8c81bb1ea604582cbce]
+## SCHEDULE 2 — REVOCATIONS[^c-4b65cc7cf1c0b8c81bb1ea604582cbce]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ Article 90
 
 ## Annotations
 
-[^key-4b65cc7cf1c0b8c81bb1ea604582cbce]: Commencement: Sch. 2 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-4b65cc7cf1c0b8c81bb1ea604582cbce]: Commencement: Sch. 2 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

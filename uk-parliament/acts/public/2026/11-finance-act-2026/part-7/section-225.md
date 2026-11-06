@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Application for registration[^M_I_387f8f03-efcc-40e5-ce73-d3145a58fa5d][^key-0185cabbbab7abdb4deeb0c977a3817e][^key-6feadc375f26491892d29c47775e1089]
+## 225. Application for registration[^M_I_387f8f03-efcc-40e5-ce73-d3145a58fa5d][^c-0185cabbbab7abdb4deeb0c977a3817e][^c-6feadc375f26491892d29c47775e1089]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^M_I_387f8f03-efcc-40e5-ce73-d3145a58fa5d]: Commencement: S. 225 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-0185cabbbab7abdb4deeb0c977a3817e]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2026/11/section/225) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-0185cabbbab7abdb4deeb0c977a3817e]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2026/11/section/225) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-6feadc375f26491892d29c47775e1089]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2026/11/section/225) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-6feadc375f26491892d29c47775e1089]: Commencement: [S. 225](https://www.legislation.gov.uk/ukpga/2026/11/section/225) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18B. Investments in relation to Russia[^key-315fb4c2fceeb7c34ac663d4b7748060]
+## 18B. Investments in relation to Russia[^c-315fb4c2fceeb7c34ac663d4b7748060]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,10 +59,10 @@ summary: ''
 
 - “**branch**” means, in relation to a person other than an individual, a place of business which forms a legally dependent part of that person and which carries out all or some of the transactions inherent in the business of that person;
 - “**investment services**” has the same meaning as it has in regulation 16 (dealing with transferable securities or money-market instruments);
-- “**relevant entity**” means a person, other than an individual, which [^key-190ab91e1ba5c8fbfd7128748318480a]... is not a person connected with Russia.
+- “**relevant entity**” means a person, other than an individual, which [^c-190ab91e1ba5c8fbfd7128748318480a]... is not a person connected with Russia.
 
 ## Annotations
 
-[^key-315fb4c2fceeb7c34ac663d4b7748060]: Textual amendment: [Reg. 18B](https://www.legislation.gov.uk/uksi/2019/855/regulation/18B) inserted (19.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 12) Regulations 2022 (S.I. 2022/801)](https://www.legislation.gov.uk/uksi/2022/801), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/801/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/801/regulation/4)
+[^c-315fb4c2fceeb7c34ac663d4b7748060]: Textual amendment: [Reg. 18B](https://www.legislation.gov.uk/uksi/2019/855/regulation/18B) inserted (19.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 12) Regulations 2022 (S.I. 2022/801)](https://www.legislation.gov.uk/uksi/2022/801), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/801/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/801/regulation/4)
 
-[^key-190ab91e1ba5c8fbfd7128748318480a]: Textual amendment: Words in [reg. 18B(8)](https://www.legislation.gov.uk/uksi/2019/855/regulation/18B/8) omitted (16.12.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [6](https://www.legislation.gov.uk/uksi/2022/1331/regulation/6)
+[^c-190ab91e1ba5c8fbfd7128748318480a]: Textual amendment: Words in [reg. 18B(8)](https://www.legislation.gov.uk/uksi/2019/855/regulation/18B/8) omitted (16.12.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [6](https://www.legislation.gov.uk/uksi/2022/1331/regulation/6)

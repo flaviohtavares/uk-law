@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1B — INTERNATIONAL DESIGNS[^key-712b8b3fa9c188757a4480b09e4034e7]
+## SCHEDULE 1B — INTERNATIONAL DESIGNS[^c-712b8b3fa9c188757a4480b09e4034e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 12B
 
 #### 1. International designs in respect of which the European Union is designated to be treated as registered under the Act
 
-(1) A design which, immediately before IP completion day[^key-a431621bbc5983a24bbda95e920c0248], meets the requirements of sub-paragraph (2) (a “protected international registered design (EU))” is to be treated on and after IP completion day as if an application for its registration had been made, and it had been registered, under this Act.
+(1) A design which, immediately before IP completion day[^c-a431621bbc5983a24bbda95e920c0248], meets the requirements of sub-paragraph (2) (a “protected international registered design (EU))” is to be treated on and after IP completion day as if an application for its registration had been made, and it had been registered, under this Act.
 
 (2) The requirements referred to in sub-paragraph (1) are—
 
@@ -130,7 +130,7 @@ Section 12B
 
 (5) Section 19(5) does not apply to the licence until after the expiry of the period of 12 months beginning with the day after that on which IP completion day falls.
 
-#### 7. Security interests in protected ... international registered designs (EU)[^key-3529458ea7d43613f41eedc85576e772]
+#### 7. Security interests in protected ... international registered designs (EU)[^c-3529458ea7d43613f41eedc85576e772]
 
 (1) This paragraph applies where immediately before IP completion day a protected international registered design (EU) is the subject of an interest which has been granted as security and does not expire on IP completion day (a “relevant security interest”).
 
@@ -253,8 +253,8 @@ Section 12B
 
 ## Annotations
 
-[^key-712b8b3fa9c188757a4480b09e4034e7]: Textual amendment: Schs. 1A, 1B inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/3/paragraph/3) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/part/1)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2020/1050/regulation/23)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-712b8b3fa9c188757a4480b09e4034e7]: Textual amendment: Schs. 1A, 1B inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/3/paragraph/3) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/part/1)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2020/1050/regulation/23)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a431621bbc5983a24bbda95e920c0248]: Textual amendment: Words in [Sch. 1B](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1B) substituted in earlier amending provision S.I. 2019/638, Sch. 3 para. 3 (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [21(d)(i)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/21/d/i)
+[^c-a431621bbc5983a24bbda95e920c0248]: Textual amendment: Words in [Sch. 1B](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1B) substituted in earlier amending provision S.I. 2019/638, Sch. 3 para. 3 (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [21(d)(i)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/21/d/i)
 
-[^key-3529458ea7d43613f41eedc85576e772]: Textual amendment: Word in [Sch. 1B para. 7](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1B/paragraph/7) heading omitted in earlier amending provision S.I. 2019/638, Sch. 3 para. 3 (31.12.2020) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [21(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/21/d/ii)
+[^c-3529458ea7d43613f41eedc85576e772]: Textual amendment: Word in [Sch. 1B para. 7](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1B/paragraph/7) heading omitted in earlier amending provision S.I. 2019/638, Sch. 3 para. 3 (31.12.2020) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [21(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/21/d/ii)

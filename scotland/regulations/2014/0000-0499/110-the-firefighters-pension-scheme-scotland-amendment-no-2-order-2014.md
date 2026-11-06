@@ -50,11 +50,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 34(5) of that Act, they have consulted with such persons as they considered appropriate.
 
-## 1. Citation and commencement[^key-af434bd5e3ec04b01e84aa1ebc3aad42]
+## 1. Citation and commencement[^c-af434bd5e3ec04b01e84aa1ebc3aad42]
 
 This Order may be cited as the Firefighters’ Pension Scheme (Scotland) Amendment (No. 2) Order 2014 and comes into force on 23rd May 2014.
 
-## 2. Amendment of the Firefighters’ Pension Scheme (Scotland) Order 2007[^key-9dc6561264487baa6611145a6924dd35]
+## 2. Amendment of the Firefighters’ Pension Scheme (Scotland) Order 2007[^c-9dc6561264487baa6611145a6924dd35]
 
 Schedule 1 to the Firefighters’ Pension Scheme (Scotland) Order 2007[^f00002] is amended in accordance with the Schedule to this Order.
 
@@ -72,7 +72,7 @@ Edinburgh
 
 Article 2
 
-### 1. Amendment of Part 1 (citation and interpretation)[^key-b0627c628397112034d39996cb5743b6]
+### 1. Amendment of Part 1 (citation and interpretation)[^c-b0627c628397112034d39996cb5743b6]
 
 In Part 1—
 
@@ -87,7 +87,7 @@ In Part 1—
   - (iii) after the definition of “child”, insert—
 
     > - “child’s pension” means a pension under rule 6 (child’s pension) of Part 4 (survivors’ pensions);
-  - (iv)[^key-4fe66dc89e98398b323be80ca4fe7fdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-4fe66dc89e98398b323be80ca4fe7fdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) after that definition of “injury”, insert—
 
     > - “IQMP means an independent qualified medical practitioner;
@@ -105,8 +105,8 @@ In Part 1—
     > - “mandatory special period pension contributions” means the special pension contribution payable in respect of a special member’s service during the mandatory special period under rule 6A of Part 11 together with any interest payable in respect of that contribution in accordance with rule 6A(13);
 
     ;
-  - (vii)[^key-0420dcd3a156d7ff37db884f9d5fdd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (viii) after the definition of “normal retirement age[^key-4117fabbf52cfdd337e299cfab78e4a8]”, insert—
+  - (vii)[^c-0420dcd3a156d7ff37db884f9d5fdd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (viii) after the definition of “normal retirement age[^c-4117fabbf52cfdd337e299cfab78e4a8]”, insert—
 
     > - “ordinary pension”, in relation to a standard member, means a pension referred to in rule 1 of Part 3 (personal awards);
 
@@ -152,7 +152,7 @@ In Part 1—
 
   .
 
-### 2. Amendment of Part 2 (scheme membership, cessation and retirement)[^key-8f9187ad82b6e71c47f974d12bc6b0a9]
+### 2. Amendment of Part 2 (scheme membership, cessation and retirement)[^c-8f9187ad82b6e71c47f974d12bc6b0a9]
 
 In Part 2—
 
@@ -249,7 +249,7 @@ In Part 2—
   >
   > (4) The normal benefit age of special firefighter members, or of special deferred members, is 60
 
-### 3. Amendment of Part 3 (personal awards)[^key-1ed61ee54f28d73f3ebb7f356f42c8ff]
+### 3. Amendment of Part 3 (personal awards)[^c-1ed61ee54f28d73f3ebb7f356f42c8ff]
 
 In Part 3—
 
@@ -407,7 +407,7 @@ In Part 3—
 
     .
 
-### 4. Amendment of Part 4 (survivor’s pension)[^key-d53cbec7ed69eb0e836c24ef3908f061]
+### 4. Amendment of Part 4 (survivor’s pension)[^c-d53cbec7ed69eb0e836c24ef3908f061]
 
 In Part 4—
 
@@ -429,7 +429,7 @@ In Part 4—
   - (ii) in paragraph (3), after “condition” insert “or, in the case of a special member, satisfies special eligibility conditions”;
 - (d) in rule 6 (child’s pension), in paragraph (a) after “eligibility conditions” insert “or, in the case of a special member, satisfies special eligibility conditions”.
 
-### 5. Amendment of Part 5 (awards on death)[^key-81fa5386a69c6b4805b02745389ec834]
+### 5. Amendment of Part 5 (awards on death)[^c-81fa5386a69c6b4805b02745389ec834]
 
 In Part 5—
 
@@ -491,7 +491,7 @@ In Part 5—
   ;
 - (c) in paragraph (2) of rule 2 (post-retirement death grant), for “Paragraphs (9) to (11)” substitute “Paragraphs (10) to (12)”.
 
-### 6. Amendment of Part 6 (pension sharing on divorce)[^key-6eee188a89d8a3b0862318d138a6ba47]
+### 6. Amendment of Part 6 (pension sharing on divorce)[^c-6eee188a89d8a3b0862318d138a6ba47]
 
 In Part 6—
 
@@ -508,15 +508,15 @@ In Part 6—
 
     .
 
-### 7. Amendment of Part 8 (determination of questions and appeals)[^key-54160fd73f527e9de7a86522cdc62f0a]
+### 7. Amendment of Part 8 (determination of questions and appeals)[^c-54160fd73f527e9de7a86522cdc62f0a]
 
 In Part 8, in rule 1 (interpretation) omit ““IQMP” means independent qualified medical practitioner; and”.
 
-### 8. Amendment of Part 9 (review, withdrawal and forfeiture of awards)[^key-c438ce52f0048758177980d7d1665594]
+### 8. Amendment of Part 9 (review, withdrawal and forfeiture of awards)[^c-c438ce52f0048758177980d7d1665594]
 
 In Part 9, in rule 4 (withdrawal of early payment of deferred pension) after “65” insert “or the age of 60 in the case of a special member”.
 
-### 9. Amendment of Part 10 (qualifying service and pensionable service)[^key-f4cc04de3b18756cd16e2fe40f9c4d12]
+### 9. Amendment of Part 10 (qualifying service and pensionable service)[^c-f4cc04de3b18756cd16e2fe40f9c4d12]
 
 In Part 10—
 
@@ -585,7 +585,7 @@ In Part 10—
 
   .
 
-### 10. Amendment of Part 11 (pensionable pay, pension contributions and purchase of additional service)[^key-e317d89fb24e807f8d195ef8d90f59c3]
+### 10. Amendment of Part 11 (pensionable pay, pension contributions and purchase of additional service)[^c-e317d89fb24e807f8d195ef8d90f59c3]
 
 In Part 11—
 
@@ -790,7 +790,7 @@ In Part 11—
 - (j) in rule 9(1) (periodical contributions in respect of periods of unpaid service or absence), after “pensionable service” insert “or special pensionable service”;
 - (k) in rule 10 (effect of purchasing additional service by lump sum payment), in paragraphs (1) and (2) after “pensionable service” insert “or special pensionable service.
 
-### 11. Amendment of Part 12 (transfers into and out of the Scheme)[^key-14e26f4d7273e63becf67d51ea238ea9]
+### 11. Amendment of Part 12 (transfers into and out of the Scheme)[^c-14e26f4d7273e63becf67d51ea238ea9]
 
 In Part 12—
 
@@ -1024,9 +1024,9 @@ In Part 12—
 
   .
 
-### 12. Amendment of Part 13 (payment of awards)[^key-ad389a77405447a2fe0ece71216f4e7f][^key-2c0398d982cbbe4e368855700308f14e]
+### 12. Amendment of Part 13 (payment of awards)[^c-ad389a77405447a2fe0ece71216f4e7f][^c-2c0398d982cbbe4e368855700308f14e]
 
-In Part 13[^key-fc81d1558498ba4d34548171b046c0e3]—
+In Part 13[^c-fc81d1558498ba4d34548171b046c0e3]—
 
 - (a) in rule 1 (authorities responsible for payment of awards)—
   - (i) in paragraph (1), for “An award” substitute “Subject to paragraph (3), an award”;
@@ -1045,7 +1045,7 @@ In Part 13[^key-fc81d1558498ba4d34548171b046c0e3]—
 
     .
 
-### 13. Annex ZA – commuted portion: special members[^key-028c5695f2a685458a3c1f4aeeada681]
+### 13. Annex ZA – commuted portion: special members[^c-028c5695f2a685458a3c1f4aeeada681]
 
 Before Annex A1, insert—
 
@@ -1079,7 +1079,7 @@ Before Annex A1, insert—
 > </tbody>
 > </table>
 
-### 14. Amendment of Annex A1 (pension contributions)[^key-9e0a001dfe1ebfb6fbab7e497af2e170]
+### 14. Amendment of Annex A1 (pension contributions)[^c-9e0a001dfe1ebfb6fbab7e497af2e170]
 
 For paragraph 5 of Annex A1, substitute—
 
@@ -1087,7 +1087,7 @@ For paragraph 5 of Annex A1, substitute—
 
 .
 
-### 15. Annex AB1 – pension contributions for special members[^key-fca0298bbf888db60dbc591245c3704a]
+### 15. Annex AB1 – pension contributions for special members[^c-fca0298bbf888db60dbc591245c3704a]
 
 After Annex A1, insert—
 
@@ -1119,7 +1119,7 @@ After Annex A1, insert—
 > | More than £100,000 and up to and including £120,000 | 12.5% | 14.5% | 16.5% |
 > | More than £120,000 | 13.0% | 15.0% | 17.0% |
 
-### 16. Amendment of Annex 1 (ill health pensions)[^key-e0838a2c854bd161a31973c0018081ad]
+### 16. Amendment of Annex 1 (ill health pensions)[^c-e0838a2c854bd161a31973c0018081ad]
 
 In Annex 1, after paragraph 3 insert—
 
@@ -1133,7 +1133,7 @@ In Annex 1, after paragraph 3 insert—
 
 .
 
-### 17. Annex 3 - converting membership from special membership to standard membership[^key-a8506871d31d77fbd68adc3bc5bbaceb]
+### 17. Annex 3 - converting membership from special membership to standard membership[^c-a8506871d31d77fbd68adc3bc5bbaceb]
 
 After Annex 2, insert—
 
@@ -1200,56 +1200,56 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21); section 34 was relevantly amended by [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602), Schedule 1, paragraph 7(2); the functions of the Secretary of State as regards Scotland were transferred to the Scottish Ministers by virtue of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 ([S.I. 2005/849](https://www.legislation.gov.uk/uksi/2005/849)).
 
-[^key-af434bd5e3ec04b01e84aa1ebc3aad42]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-af434bd5e3ec04b01e84aa1ebc3aad42]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-9dc6561264487baa6611145a6924dd35]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/110/article/2) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-9dc6561264487baa6611145a6924dd35]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/110/article/2) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
 [^f00002]: Footnote: [S.S.I. 2007/199](https://www.legislation.gov.uk/ssi/2007/199), amended by [S.S.I. 2008/160](https://www.legislation.gov.uk/ssi/2008/160), [S.S.I. 2010/65](https://www.legislation.gov.uk/ssi/2010/65), [S.S.I. 2010/333](https://www.legislation.gov.uk/ssi/2010/333), [S.S.I. 2012/107](https://www.legislation.gov.uk/ssi/2012/107), [S.S.I. 2013/129](https://www.legislation.gov.uk/ssi/2013/129) and [S.S.I. 2014/60](https://www.legislation.gov.uk/ssi/2014/60).
 
-[^key-b0627c628397112034d39996cb5743b6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/1) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-b0627c628397112034d39996cb5743b6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/1) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
 [^f00003]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-4fe66dc89e98398b323be80ca4fe7fdc]: Textual amendment: [Sch. para. 1(a)(iv)](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/1/a/iv) omitted (with effect from 22.5.2014) by virtue of [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/a), [7(a)](https://www.legislation.gov.uk/ssi/2014/149/article/7/a)
+[^c-4fe66dc89e98398b323be80ca4fe7fdc]: Textual amendment: [Sch. para. 1(a)(iv)](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/1/a/iv) omitted (with effect from 22.5.2014) by virtue of [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/a), [7(a)](https://www.legislation.gov.uk/ssi/2014/149/article/7/a)
 
-[^key-0420dcd3a156d7ff37db884f9d5fdd74]: Textual amendment: [Sch. para. 1(a)(vii)](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/1/a/vii) omitted (with effect from 22.5.2014) by virtue of [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/a), [7(a)](https://www.legislation.gov.uk/ssi/2014/149/article/7/a)
+[^c-0420dcd3a156d7ff37db884f9d5fdd74]: Textual amendment: [Sch. para. 1(a)(vii)](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/1/a/vii) omitted (with effect from 22.5.2014) by virtue of [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/a), [7(a)](https://www.legislation.gov.uk/ssi/2014/149/article/7/a)
 
-[^key-4117fabbf52cfdd337e299cfab78e4a8]: Textual amendment: Words in [sch. para. 1(a)(viii)](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/1/a/viii) substituted (with effect from 22.5.2014) by [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/b), [7(b)](https://www.legislation.gov.uk/ssi/2014/149/article/7/b)
+[^c-4117fabbf52cfdd337e299cfab78e4a8]: Textual amendment: Words in [sch. para. 1(a)(viii)](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/1/a/viii) substituted (with effect from 22.5.2014) by [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/b), [7(b)](https://www.legislation.gov.uk/ssi/2014/149/article/7/b)
 
-[^key-8f9187ad82b6e71c47f974d12bc6b0a9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/2) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-8f9187ad82b6e71c47f974d12bc6b0a9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/2) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
 [^f00004]: Footnote: See rule 6B(10) of Part 11 for the date when an election takes place.
 
-[^key-1ed61ee54f28d73f3ebb7f356f42c8ff]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/3) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-1ed61ee54f28d73f3ebb7f356f42c8ff]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/3) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-d53cbec7ed69eb0e836c24ef3908f061]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/4) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-d53cbec7ed69eb0e836c24ef3908f061]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/4) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-81fa5386a69c6b4805b02745389ec834]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/5) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-81fa5386a69c6b4805b02745389ec834]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/5) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-6eee188a89d8a3b0862318d138a6ba47]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/6) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-6eee188a89d8a3b0862318d138a6ba47]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/6) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-54160fd73f527e9de7a86522cdc62f0a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/7) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-54160fd73f527e9de7a86522cdc62f0a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/7) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-c438ce52f0048758177980d7d1665594]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/8) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-c438ce52f0048758177980d7d1665594]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/8) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-f4cc04de3b18756cd16e2fe40f9c4d12]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/9) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-f4cc04de3b18756cd16e2fe40f9c4d12]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/9) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-e317d89fb24e807f8d195ef8d90f59c3]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/10) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-e317d89fb24e807f8d195ef8d90f59c3]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/10) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-14e26f4d7273e63becf67d51ea238ea9]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/11) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-14e26f4d7273e63becf67d51ea238ea9]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/11) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-ad389a77405447a2fe0ece71216f4e7f]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/12) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-ad389a77405447a2fe0ece71216f4e7f]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/12) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-2c0398d982cbbe4e368855700308f14e]: Textual amendment: Words in sch. para. 12 heading substituted (with effect from 23.5.2014) by [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/b), [8(a)](https://www.legislation.gov.uk/ssi/2014/149/article/8/a)
+[^c-2c0398d982cbbe4e368855700308f14e]: Textual amendment: Words in sch. para. 12 heading substituted (with effect from 23.5.2014) by [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/b), [8(a)](https://www.legislation.gov.uk/ssi/2014/149/article/8/a)
 
-[^key-fc81d1558498ba4d34548171b046c0e3]: Textual amendment: Words in sch. para. 12 substituted (with effect from 23.5.2014) by [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/b), [8(b)](https://www.legislation.gov.uk/ssi/2014/149/article/8/b)
+[^c-fc81d1558498ba4d34548171b046c0e3]: Textual amendment: Words in sch. para. 12 substituted (with effect from 23.5.2014) by [The Firefighters’ Pension Scheme (Scotland) Amendment (No. 3) Order 2014 (S.S.I. 2014/149)](https://www.legislation.gov.uk/ssi/2014/149), [arts. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/149/article/1/2/b), [8(b)](https://www.legislation.gov.uk/ssi/2014/149/article/8/b)
 
-[^key-028c5695f2a685458a3c1f4aeeada681]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/13) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-028c5695f2a685458a3c1f4aeeada681]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/13) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-9e0a001dfe1ebfb6fbab7e497af2e170]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/14) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-9e0a001dfe1ebfb6fbab7e497af2e170]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/14) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-fca0298bbf888db60dbc591245c3704a]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/15) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-fca0298bbf888db60dbc591245c3704a]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/15) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-e0838a2c854bd161a31973c0018081ad]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/16) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-e0838a2c854bd161a31973c0018081ad]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/16) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
 
-[^key-a8506871d31d77fbd68adc3bc5bbaceb]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/17) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)
+[^c-a8506871d31d77fbd68adc3bc5bbaceb]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2014/110/schedule/paragraph/17) in force at 23.5.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/110/article/1)

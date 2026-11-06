@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Assistance to participants[^key-2210d20b63800bc2165f610ddf424124]
+## 38. Assistance to participants[^c-2210d20b63800bc2165f610ddf424124]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2210d20b63800bc2165f610ddf424124]: Commencement: Reg. 38 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-2210d20b63800bc2165f610ddf424124]: Commencement: Reg. 38 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

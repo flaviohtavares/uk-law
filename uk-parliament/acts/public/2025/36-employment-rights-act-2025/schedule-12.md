@@ -22,7 +22,7 @@ summary: ''
 
 Section 152
 
-### 1. Safety Representatives and Safety Committees Regulations 1977[^key-28a9629ea6cea42bcfb8b12bab5d65ed][^key-8ad28fe8560a84958f09af4662c9a0c2]
+### 1. Safety Representatives and Safety Committees Regulations 1977[^c-28a9629ea6cea42bcfb8b12bab5d65ed][^c-8ad28fe8560a84958f09af4662c9a0c2]
 
 (1) In regulation 11 of the Safety Representatives and Safety Committees Regulations 1977 ([S.I. 1977/500](https://www.legislation.gov.uk/uksi/1977/500)) (time off for safety representatives), in paragraph (2), for “three”, in both places it occurs, substitute “six”.
 
@@ -32,7 +32,7 @@ Section 152
 - (b) in paragraph (3), for “three” substitute “six”;
 - (c) in paragraph (4), for “three” substitute “six”.
 
-### 2. Trade Union and Labour Relations (Consolidation) Act 1992[^key-9fa36883b43b8d8dd7b1b7d23630ec1c][^key-62689a80da6f07d6b0e0aa2c9cefee97]
+### 2. Trade Union and Labour Relations (Consolidation) Act 1992[^c-9fa36883b43b8d8dd7b1b7d23630ec1c][^c-62689a80da6f07d6b0e0aa2c9cefee97]
 
 (1) The Trade Union and Labour Relations (Consolidation) Act 1992 is amended as follows.
 
@@ -67,11 +67,11 @@ Section 152
 
 (12) In paragraph 157 of Schedule A1 (detriment in relation to trade union recognition), in sub-paragraph (1)(a), for “3” substitute “6”.
 
-### 3. Pension Schemes Act 1993[^key-7f724e87386c0c92e267880f88528a8a][^key-30884b810b2e19fae2ef7cfa2107e161]
+### 3. Pension Schemes Act 1993[^c-7f724e87386c0c92e267880f88528a8a][^c-30884b810b2e19fae2ef7cfa2107e161]
 
 In section 126 of the Pension Schemes Act 1993 (unpaid pension contributions), in subsection (2), for “three” substitute “six”.
 
-### 4. Employment Rights Act 1996[^key-2d3a4f69a9bd551e1aa7b241d65bcedd][^key-4f6d5f728b899db1f738bb7aa1c6cb16]
+### 4. Employment Rights Act 1996[^c-2d3a4f69a9bd551e1aa7b241d65bcedd][^c-4f6d5f728b899db1f738bb7aa1c6cb16]
 
 (1) The Employment Rights Act 1996 is amended as follows.
 
@@ -208,7 +208,7 @@ In section 126 of the Pension Schemes Act 1993 (unpaid pension contributions), i
 - (a) in paragraph (a), for “three” substitute “six”;
 - (b) in paragraph (b), for “three” substitute “six”.
 
-### 5. Health and Safety (Consultation with Employees) Regulations 1996[^key-3bc3fad338fd2483cc9bb48d5416f22d][^key-4979a5b65f01e07ea6c55401e529585c]
+### 5. Health and Safety (Consultation with Employees) Regulations 1996[^c-3bc3fad338fd2483cc9bb48d5416f22d][^c-4979a5b65f01e07ea6c55401e529585c]
 
 (1) In paragraph 3 of Schedule 2 to the Health and Safety (Consultation with Employees) Regulations 1996 ([S.I. 1996/1513](https://www.legislation.gov.uk/uksi/1996/1513)) (time off for representatives of employee safety etc), for “three”, in both places it occurs, substitute “six”.
 
@@ -218,28 +218,28 @@ In section 126 of the Pension Schemes Act 1993 (unpaid pension contributions), i
 - (b) in sub-paragraph (3), for “three” substitute “six”;
 - (c) in sub-paragraph (4), for “three” substitute “six”.
 
-### 6. Working Time Regulations 1998[^key-2148b6883c124da680ad1604d3636da6][^key-5df6f60b1d14a9998247f5806676dd20]
+### 6. Working Time Regulations 1998[^c-2148b6883c124da680ad1604d3636da6][^c-5df6f60b1d14a9998247f5806676dd20]
 
 In regulation 30 of the Working Time Regulations 1998 ([S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833)) (rights as to working time), in paragraph (2)—
 
 - (a) in sub-paragraph (a), for the words from “three months” to “six months)” substitute “six months”;
 - (b) in sub-paragraph (b), omit “three or, as the case may be,”.
 
-### 7. National Minimum Wage Act 1998[^key-95e38ccf0cf93e0db6b4f0ba19a3825b][^key-530a18175366abb2a74a0b2b3597d7a2]
+### 7. National Minimum Wage Act 1998[^c-95e38ccf0cf93e0db6b4f0ba19a3825b][^c-530a18175366abb2a74a0b2b3597d7a2]
 
 In section 11 of the National Minimum Wage Act 1998 (access to records)—
 
 - (a) in subsection (3), for “three” substitute “six”;
 - (b) in subsection (4), for “three” substitute “six”.
 
-### 8. Employment Relations Act 1999[^key-a3414b391282dd8492458a6870ed0ae1][^key-168fc530046517fe78f82c5b671b2068]
+### 8. Employment Relations Act 1999[^c-a3414b391282dd8492458a6870ed0ae1][^c-168fc530046517fe78f82c5b671b2068]
 
 In section 11 of the Employment Relations Act 1999 (right to be accompanied), in subsection (2)—
 
 - (a) in paragraph (a), for “three” substitute “six”;
 - (b) in paragraph (b), for “three” substitute “six”.
 
-### 9. Transnational Information and Consultation of Employees Regulations 1999[^key-6c1655734c26307dd48ef140005285ba][^key-7eb4cb95318f686dab16f377f1a0e03a]
+### 9. Transnational Information and Consultation of Employees Regulations 1999[^c-6c1655734c26307dd48ef140005285ba][^c-7eb4cb95318f686dab16f377f1a0e03a]
 
 (1) In regulation 27 of the Transnational Information and Consultation of Employees Regulations 1999 ([S.I. 1999/3323](https://www.legislation.gov.uk/uksi/1999/3323)) (time off for members of a European Works Council etc)—
 
@@ -280,7 +280,7 @@ In section 11 of the Employment Relations Act 1999 (right to be accompanied), in
 - (b) in paragraph (3), for “27(2)(a)” substitute “27AA(2)(a)”;
 - (c) in paragraph (4), for “27(2)(b)” substitute “27AA(2)(b)”.
 
-### 10. Merchant Shipping (Working Time: Inland Waterways) Regulations 2003[^key-a224cf3321fb5927326443f056667fa7][^key-e8430ee8530138d184481fb8f01a20b3]
+### 10. Merchant Shipping (Working Time: Inland Waterways) Regulations 2003[^c-a224cf3321fb5927326443f056667fa7][^c-e8430ee8530138d184481fb8f01a20b3]
 
 *Extent: E+W+S*
 
@@ -289,14 +289,14 @@ In regulation 18 of the Merchant Shipping (Working Time: Inland Waterways) Regul
 - (a) in sub-paragraph (a), for “three” substitute “six”;
 - (b) in sub-paragraph (b), for “three” substitute “six”.
 
-### 11. Civil Aviation (Working Time) Regulations 2004[^key-44837ef35612b81b7a5c61c72d571d3b][^key-60a352775e285024359c84aa8c3efc3b]
+### 11. Civil Aviation (Working Time) Regulations 2004[^c-44837ef35612b81b7a5c61c72d571d3b][^c-60a352775e285024359c84aa8c3efc3b]
 
 In regulation 18 of the Civil Aviation (Working Time) Regulations 2004 ([S.I. 2004/756](https://www.legislation.gov.uk/uksi/2004/756)) (civil aviation: rights as to working time), in paragraph (2)—
 
 - (a) in sub-paragraph (a), for “three” substitute “six”;
 - (b) in sub-paragraph (b), for “three” substitute “six”.
 
-### 12. Fishing Vessels (Working Time: Sea-fishermen) Regulations 2004[^key-3f732c99e86de00f3e2647f8cd3a5d7a][^key-4eef957ff8b9e4fd6aad1d70f5858400]
+### 12. Fishing Vessels (Working Time: Sea-fishermen) Regulations 2004[^c-3f732c99e86de00f3e2647f8cd3a5d7a][^c-4eef957ff8b9e4fd6aad1d70f5858400]
 
 *Extent: E+W+S*
 
@@ -305,7 +305,7 @@ In regulation 19 of the Fishing Vessels (Working Time: Sea-fishermen) Regulation
 - (a) in sub-paragraph (a), for “three” substitute “six”;
 - (b) in sub-paragraph (b), for “three” substitute “six”.
 
-### 13. Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-77bb873727735c81dbed925446fde0f9][^key-60834c5acd43c4b95dd17bc4ee2749fd]
+### 13. Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-77bb873727735c81dbed925446fde0f9][^c-60834c5acd43c4b95dd17bc4ee2749fd]
 
 *Extent: E+W+S*
 
@@ -321,113 +321,113 @@ In regulation 19 of the Fishing Vessels (Working Time: Sea-fishermen) Regulation
 - (a) in the words before sub-paragraph (a), for “three” substitute “six”;
 - (b) in the words after sub-paragraph (b), for “three” substitute “six”.
 
-### 14. Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006[^key-3a71b27e2692ba7c5523dfc53c0326b2][^key-3698b42e2b6ee18859547a22cfdfcebe]
+### 14. Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006[^c-3a71b27e2692ba7c5523dfc53c0326b2][^c-3698b42e2b6ee18859547a22cfdfcebe]
 
 In the Schedule to the Occupational and Personal Pension Schemes (Consultation by Employers and Miscellaneous Amendment) Regulations 2006 ([S.I. 2006/349](https://www.legislation.gov.uk/uksi/2006/349)) (employment rights and protections in connection with consultation), in paragraph 4(2)—
 
 - (a) in paragraph (a), for “three” substitute “six”;
 - (b) in paragraph (b), for “three” substitute “six”.
 
-### 15. Cross-border Railway Services (Working Time) Regulations 2008[^key-7c85ea1274cc340170bd57d7bfcca6f8][^key-5fdd13e0f4a5e8c9e2f678520c7e65bb]
+### 15. Cross-border Railway Services (Working Time) Regulations 2008[^c-7c85ea1274cc340170bd57d7bfcca6f8][^c-5fdd13e0f4a5e8c9e2f678520c7e65bb]
 
 In regulation 17 of the Cross-border Railway Services (Working Time) Regulations 2008 ([S.I. 2008/1660](https://www.legislation.gov.uk/uksi/2008/1660)) (cross-border railway services: rights as to working time), in paragraph (2)—
 
 - (a) in sub-paragraph (a), for “three” substitute “six”;
 - (b) in sub-paragraph (b), for “three” substitute “six”.
 
-### 16. European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009[^key-d5f9e40b44c930687c1419ca2d91d862][^key-4a7ac582ce4faa0c7e988972e287ab63]
+### 16. European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009[^c-d5f9e40b44c930687c1419ca2d91d862][^c-4a7ac582ce4faa0c7e988972e287ab63]
 
 In regulation 28 of the European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009 ([S.I. 2009/2401](https://www.legislation.gov.uk/uksi/2009/2401)) (time off for members of special negotiating body etc), in paragraph (2)—
 
 - (a) in sub-paragraph (a), for “three” substitute “six”;
 - (b) in sub-paragraph (b), for “three” substitute “six”.
 
-### 17. Agency Workers Regulations 2010[^key-06c32e9e8db8156246b9851a573fdb4b][^key-6baeba4909908a8990f20f383781de69]
+### 17. Agency Workers Regulations 2010[^c-06c32e9e8db8156246b9851a573fdb4b][^c-6baeba4909908a8990f20f383781de69]
 
 In regulation 18 of the Agency Workers Regulations 2010 ([S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93)) (rights of agency workers), in paragraph (4), for “three” substitute “six”.
 
-### 18. Equality Act 2010[^key-e0703c567616b84c67ded932d3729d99][^key-6601ea960f01f4f96cc2c45021919c2c]
+### 18. Equality Act 2010[^c-e0703c567616b84c67ded932d3729d99][^c-6601ea960f01f4f96cc2c45021919c2c]
 
 In section 123 of the Equality Act 2010 (discrimination etc at work), in subsection (1)(a), for “3” substitute “6”.
 
-### 19. Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^key-adbcf0c7e52da102633e436b4504012d][^key-11cc914f66a3c8d5180c779f830b77cb]
+### 19. Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^c-adbcf0c7e52da102633e436b4504012d][^c-11cc914f66a3c8d5180c779f830b77cb]
 
 In regulation 26 of the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 ([S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58)) (rights of seafarers to leave), in paragraph (6), for “three” substitute “six”.
 
 ## Annotations
 
-[^key-28a9629ea6cea42bcfb8b12bab5d65ed]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-28a9629ea6cea42bcfb8b12bab5d65ed]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-8ad28fe8560a84958f09af4662c9a0c2]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/1) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-8ad28fe8560a84958f09af4662c9a0c2]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/1) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-9fa36883b43b8d8dd7b1b7d23630ec1c]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-9fa36883b43b8d8dd7b1b7d23630ec1c]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-62689a80da6f07d6b0e0aa2c9cefee97]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-62689a80da6f07d6b0e0aa2c9cefee97]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-7f724e87386c0c92e267880f88528a8a]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-7f724e87386c0c92e267880f88528a8a]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-30884b810b2e19fae2ef7cfa2107e161]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/3) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-30884b810b2e19fae2ef7cfa2107e161]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/3) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-2d3a4f69a9bd551e1aa7b241d65bcedd]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-2d3a4f69a9bd551e1aa7b241d65bcedd]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4f6d5f728b899db1f738bb7aa1c6cb16]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/4) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-4f6d5f728b899db1f738bb7aa1c6cb16]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/4) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-3bc3fad338fd2483cc9bb48d5416f22d]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-3bc3fad338fd2483cc9bb48d5416f22d]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4979a5b65f01e07ea6c55401e529585c]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/5) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-4979a5b65f01e07ea6c55401e529585c]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/5) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-2148b6883c124da680ad1604d3636da6]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-2148b6883c124da680ad1604d3636da6]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5df6f60b1d14a9998247f5806676dd20]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/6) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-5df6f60b1d14a9998247f5806676dd20]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/6) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-95e38ccf0cf93e0db6b4f0ba19a3825b]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-95e38ccf0cf93e0db6b4f0ba19a3825b]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-530a18175366abb2a74a0b2b3597d7a2]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/7) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-530a18175366abb2a74a0b2b3597d7a2]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/7) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-a3414b391282dd8492458a6870ed0ae1]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-a3414b391282dd8492458a6870ed0ae1]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-168fc530046517fe78f82c5b671b2068]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/8) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-168fc530046517fe78f82c5b671b2068]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/8) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-6c1655734c26307dd48ef140005285ba]: Commencement: Sch. 12 para. 9 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-6c1655734c26307dd48ef140005285ba]: Commencement: Sch. 12 para. 9 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-7eb4cb95318f686dab16f377f1a0e03a]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-7eb4cb95318f686dab16f377f1a0e03a]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-a224cf3321fb5927326443f056667fa7]: Commencement: Sch. 12 para. 10 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-a224cf3321fb5927326443f056667fa7]: Commencement: Sch. 12 para. 10 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-e8430ee8530138d184481fb8f01a20b3]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/10) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-e8430ee8530138d184481fb8f01a20b3]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/10) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-44837ef35612b81b7a5c61c72d571d3b]: Commencement: Sch. 12 para. 11 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-44837ef35612b81b7a5c61c72d571d3b]: Commencement: Sch. 12 para. 11 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-60a352775e285024359c84aa8c3efc3b]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/11) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-60a352775e285024359c84aa8c3efc3b]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/11) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-3f732c99e86de00f3e2647f8cd3a5d7a]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-3f732c99e86de00f3e2647f8cd3a5d7a]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4eef957ff8b9e4fd6aad1d70f5858400]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/12) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-4eef957ff8b9e4fd6aad1d70f5858400]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/12) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-77bb873727735c81dbed925446fde0f9]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-77bb873727735c81dbed925446fde0f9]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-60834c5acd43c4b95dd17bc4ee2749fd]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/13) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-60834c5acd43c4b95dd17bc4ee2749fd]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/13) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-3a71b27e2692ba7c5523dfc53c0326b2]: Commencement: Sch. 12 para. 14 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-3a71b27e2692ba7c5523dfc53c0326b2]: Commencement: Sch. 12 para. 14 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-3698b42e2b6ee18859547a22cfdfcebe]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/14) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-3698b42e2b6ee18859547a22cfdfcebe]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/14) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-7c85ea1274cc340170bd57d7bfcca6f8]: Commencement: Sch. 12 para. 15 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-7c85ea1274cc340170bd57d7bfcca6f8]: Commencement: Sch. 12 para. 15 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5fdd13e0f4a5e8c9e2f678520c7e65bb]: Commencement: [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/15) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-5fdd13e0f4a5e8c9e2f678520c7e65bb]: Commencement: [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/15) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-d5f9e40b44c930687c1419ca2d91d862]: Commencement: Sch. 12 para. 16 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d5f9e40b44c930687c1419ca2d91d862]: Commencement: Sch. 12 para. 16 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4a7ac582ce4faa0c7e988972e287ab63]: Commencement: [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/16) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-4a7ac582ce4faa0c7e988972e287ab63]: Commencement: [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/16) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-06c32e9e8db8156246b9851a573fdb4b]: Commencement: Sch. 12 para. 17 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-06c32e9e8db8156246b9851a573fdb4b]: Commencement: Sch. 12 para. 17 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-6baeba4909908a8990f20f383781de69]: Commencement: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/17) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-6baeba4909908a8990f20f383781de69]: Commencement: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/17) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-e0703c567616b84c67ded932d3729d99]: Commencement: Sch. 12 para. 18 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-e0703c567616b84c67ded932d3729d99]: Commencement: Sch. 12 para. 18 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-6601ea960f01f4f96cc2c45021919c2c]: Commencement: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/18) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-6601ea960f01f4f96cc2c45021919c2c]: Commencement: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/18) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-adbcf0c7e52da102633e436b4504012d]: Commencement: Sch. 12 para. 19 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-adbcf0c7e52da102633e436b4504012d]: Commencement: Sch. 12 para. 19 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-11cc914f66a3c8d5180c779f830b77cb]: Commencement: [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/19) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-11cc914f66a3c8d5180c779f830b77cb]: Commencement: [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/19) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))

@@ -39,7 +39,7 @@ Section 156(3)
 | 55 & 56 Vict.c. 43. | The Military Lands Act 1892. | Section 25(7). |
 | 56 & 57 Vict.c. 32 | The Barbed Wire Act 1893. | The whole Act. |
 | 57 & 58 Vict.c. 58. | The Local Government (Scotland) Act 1894. | Section 29. |
-| [^key-83ed1adc2bff911b731562455327d43d]. . . | [^key-83ed1adc2bff911b731562455327d43d]. . . | [^key-83ed1adc2bff911b731562455327d43d]. . . |
+| [^c-83ed1adc2bff911b731562455327d43d]. . . | [^c-83ed1adc2bff911b731562455327d43d]. . . | [^c-83ed1adc2bff911b731562455327d43d]. . . |
 |  |  | In section 16(5), the word “public”. |
 |  |  | Section 39. |
 | 9 Edw. 7.c. 34. | The Electric Lighting Act 1909. | In section 25, the definition of “road”. |
@@ -154,6 +154,6 @@ Section 156(3)
 
 ## Annotations
 
-[^key-83ed1adc2bff911b731562455327d43d]: Textual amendment: Words in Sch. 11 repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-83ed1adc2bff911b731562455327d43d]: Textual amendment: Words in Sch. 11 repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c1611404]: Textual amendment: Entry relating to Gas Act 1965 repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. X](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/X)

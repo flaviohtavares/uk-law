@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Temporary prohibition, restriction or regulation of use or alteration or diversion of streets[^key-9145a38ea3477c78a45bb1825e98526f]
+## 11. Temporary prohibition, restriction or regulation of use or alteration or diversion of streets[^c-9145a38ea3477c78a45bb1825e98526f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9145a38ea3477c78a45bb1825e98526f]: Commencement: Art. 11 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-9145a38ea3477c78a45bb1825e98526f]: Commencement: Art. 11 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

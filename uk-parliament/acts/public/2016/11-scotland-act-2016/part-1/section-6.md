@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Electoral registration: the digital service[^key-0499afef57d4f122e6f59c60b070903e]
+## 6. Electoral registration: the digital service[^c-0499afef57d4f122e6f59c60b070903e]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0499afef57d4f122e6f59c60b070903e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/11/section/6) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/d)
+[^c-0499afef57d4f122e6f59c60b070903e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/11/section/6) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/d)

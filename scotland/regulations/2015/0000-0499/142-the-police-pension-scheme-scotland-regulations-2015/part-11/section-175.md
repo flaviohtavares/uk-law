@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 175. Request for transfer out after member repays to scheme manager a refund received under regulation 166[^key-f89ccea2d3639850b9138a73e96211cf]
+## 175. Request for transfer out after member repays to scheme manager a refund received under regulation 166[^c-f89ccea2d3639850b9138a73e96211cf]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f89ccea2d3639850b9138a73e96211cf]: Commencement: Reg. 175 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f89ccea2d3639850b9138a73e96211cf]: Commencement: Reg. 175 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

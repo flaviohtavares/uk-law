@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 250. Personal delivery[^key-0dda19e859c11342a942c46f7655c8e0]
+## 250. Personal delivery[^c-0dda19e859c11342a942c46f7655c8e0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dda19e859c11342a942c46f7655c8e0]: Commencement: Rule 250 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-0dda19e859c11342a942c46f7655c8e0]: Commencement: Rule 250 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

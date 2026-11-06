@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Limitations on exemptions for dormant companies[^key-b4457ac97d874556d0259460056db596]
+## 13. Limitations on exemptions for dormant companies[^c-b4457ac97d874556d0259460056db596]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In subsection (3) of section 249AA of the Act (dormant companies)[^f00019], for 
 
 ## Annotations
 
-[^key-b4457ac97d874556d0259460056db596]: Commencement: Art. 13 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b4457ac97d874556d0259460056db596]: Commencement: Art. 13 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00019]: Footnote: Section 249AA was inserted by [S.I. 2000/1430](https://www.legislation.gov.uk/uksi/2000/1430), regulation 3.

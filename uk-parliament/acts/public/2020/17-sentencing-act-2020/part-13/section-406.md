@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 406. Offender reaching 18 during proceedings[^key-f93cd500309a20a7fccfb1273eecddcd]
+## 406. Offender reaching 18 during proceedings[^c-f93cd500309a20a7fccfb1273eecddcd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Code affects section 29 of the Children and Young Persons Act 19
 
 ## Annotations
 
-[^key-f93cd500309a20a7fccfb1273eecddcd]: Commencement: S. 406 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f93cd500309a20a7fccfb1273eecddcd]: Commencement: S. 406 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

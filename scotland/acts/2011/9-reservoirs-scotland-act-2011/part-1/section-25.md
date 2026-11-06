@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Guidance by SEPA: risk designation[^key-1b526d4431e05648a064f5379292fb39]
+## 25. Guidance by SEPA: risk designation[^c-1b526d4431e05648a064f5379292fb39]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b526d4431e05648a064f5379292fb39]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/9/section/25) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-1b526d4431e05648a064f5379292fb39]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2011/9/section/25) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

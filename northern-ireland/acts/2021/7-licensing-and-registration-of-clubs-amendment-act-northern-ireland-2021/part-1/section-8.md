@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Licensed race tracks: Sunday sales[^key-dcaa813ea3b3f439cb62bd73c22ee49f][^key-6b0774c2b997cd15a4695aed57dd71b2]
+## 8. Licensed race tracks: Sunday sales[^c-dcaa813ea3b3f439cb62bd73c22ee49f][^c-6b0774c2b997cd15a4695aed57dd71b2]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcaa813ea3b3f439cb62bd73c22ee49f]: Commencement: S. 8 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-dcaa813ea3b3f439cb62bd73c22ee49f]: Commencement: S. 8 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-6b0774c2b997cd15a4695aed57dd71b2]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2021/7/section/8) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-6b0774c2b997cd15a4695aed57dd71b2]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2021/7/section/8) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

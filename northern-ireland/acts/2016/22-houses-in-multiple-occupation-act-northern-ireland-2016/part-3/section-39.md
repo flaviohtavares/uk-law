@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Revocations and disqualifications: appeals[^key-9941527f9b76b747364138b50f722b9f]
+## 39. Revocations and disqualifications: appeals[^c-9941527f9b76b747364138b50f722b9f]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9941527f9b76b747364138b50f722b9f]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2016/22/section/39) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-9941527f9b76b747364138b50f722b9f]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2016/22/section/39) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -24,9 +24,9 @@ summary: ''
 
 Section 158
 
-**1.**[^key-6a382697b41841a86e3db54747b9e884] The Public Health (Wales) Act 2017 is amended as follows.
+**1.**[^c-6a382697b41841a86e3db54747b9e884] The Public Health (Wales) Act 2017 is amended as follows.
 
-**2.**[^key-890b0b06a1a511720a0afdc2957ee496] In the Welsh language text, after section 17 insert—
+**2.**[^c-890b0b06a1a511720a0afdc2957ee496] In the Welsh language text, after section 17 insert—
 
 > **Dehongli**
 >
@@ -74,7 +74,7 @@ Section 158
 >
 > (7) Caiff rheoliadau bennu at ddiben y Bennod hon ystyr “caeedig”, “sylweddol gaeedig” ac “nad yw’n gaeedig nac yn sylweddol gaeedig.
 
-**3.**[^key-abb71b31e514206441aea4cfdbc7cd29] In the English language text, after section 17 insert—
+**3.**[^c-abb71b31e514206441aea4cfdbc7cd29] In the English language text, after section 17 insert—
 
 > **Interpretation**
 >
@@ -122,40 +122,40 @@ Section 158
 >
 > (7) Regulations may specify for the purpose of this Chapter what “enclosed”, “substantially enclosed” and “not enclosed or substantially enclosed” mean.
 
-**4.**[^key-1d2405a07f24969ea0e3691bd887946b] Sections 18 to 29 (and the italic heading before section 18) become a new Chapter 1C of Part 3—
+**4.**[^c-1d2405a07f24969ea0e3691bd887946b] Sections 18 to 29 (and the italic heading before section 18) become a new Chapter 1C of Part 3—
 
 - (a) with the heading “Gorfodi a chyffredinol” in the Welsh language text, and
 - (b) with the heading “Enforcement and general”, in the English language text.
 
-**5.**[^key-f60ce6e870d4c4f3972b92618a5af40f] In the Welsh language text of section 18, in subsection (3), for “darpariaethau’r Bennod hon a rheoliadau a wneir odani” substitute “darpariaethau Penodau 1, 1A ac 1B a’r Bennod hon a rheoliadau a wneir o dan unrhyw un o’r Penodau hynny”.
+**5.**[^c-f60ce6e870d4c4f3972b92618a5af40f] In the Welsh language text of section 18, in subsection (3), for “darpariaethau’r Bennod hon a rheoliadau a wneir odani” substitute “darpariaethau Penodau 1, 1A ac 1B a’r Bennod hon a rheoliadau a wneir o dan unrhyw un o’r Penodau hynny”.
 
-**6.**[^key-400e20fb2a9f360353687181c2744e11] In the English language text of section 18, in subsection (3), for “this Chapter and regulations made under it” substitute “Chapters 1, 1A and 1B and this Chapter and regulations made under any of those Chapters”.
+**6.**[^c-400e20fb2a9f360353687181c2744e11] In the English language text of section 18, in subsection (3), for “this Chapter and regulations made under it” substitute “Chapters 1, 1A and 1B and this Chapter and regulations made under any of those Chapters”.
 
-**7.**[^key-075b2974b60748d002cdede977655101] In the Welsh language text of section 19, in subsection (1)(a), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
+**7.**[^c-075b2974b60748d002cdede977655101] In the Welsh language text of section 19, in subsection (1)(a), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
 
-**8.**[^key-392dec8c4fe9db0104c8be31a9eff072] In the English language text of section 19, in subsection (1)(a), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
+**8.**[^c-392dec8c4fe9db0104c8be31a9eff072] In the English language text of section 19, in subsection (1)(a), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
 
-**9.**[^key-32ab63c02bdd6ec06744f0f06d9849c3] In the Welsh language text of section 20, in subsection (1)(a), for “neu 6” substitute “, 6, 17C, 17D, 17H neu 17I”.
+**9.**[^c-32ab63c02bdd6ec06744f0f06d9849c3] In the Welsh language text of section 20, in subsection (1)(a), for “neu 6” substitute “, 6, 17C, 17D, 17H neu 17I”.
 
-**10.**[^key-b52ff5b1f77fa07d77b474fa0f44e500] In the English language text of section 20, in subsection (1)(a), for “or 6” substitute “, 6, 17C, 17D, 17H or 17I”.
+**10.**[^c-b52ff5b1f77fa07d77b474fa0f44e500] In the English language text of section 20, in subsection (1)(a), for “or 6” substitute “, 6, 17C, 17D, 17H or 17I”.
 
-**11.**[^key-9a75ade1db056d20b2aba4ae9a2eee9b] In the Welsh language text of section 21, in suibsection (1)(a), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
+**11.**[^c-9a75ade1db056d20b2aba4ae9a2eee9b] In the Welsh language text of section 21, in suibsection (1)(a), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
 
-**12.**[^key-443e8099736bc4a796f3546272b9ddb1] In the English language text of section 21, in subsection (1)(a), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
+**12.**[^c-443e8099736bc4a796f3546272b9ddb1] In the English language text of section 21, in subsection (1)(a), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
 
-**13.**[^key-a40154a9bfcd2e356012c8332b79fc7e] In the Welsh language text of section 23, in subsections (1) and (2), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
+**13.**[^c-a40154a9bfcd2e356012c8332b79fc7e] In the Welsh language text of section 23, in subsections (1) and (2), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
 
-**14.**[^key-e358f8a0c0f8aed6ab9b1ab05a5ae8ef] In the English language text of section 23, in subsections (1) and (2), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
+**14.**[^c-e358f8a0c0f8aed6ab9b1ab05a5ae8ef] In the English language text of section 23, in subsections (1) and (2), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
 
-**15.**[^key-c08039d27af284fe2f66c87dfed1a68f] In the Welsh language text of section 25, in subsection (2), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
+**15.**[^c-c08039d27af284fe2f66c87dfed1a68f] In the Welsh language text of section 25, in subsection (2), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
 
-**16.**[^key-146a3869a332425a8239247504c0f398] In the English language text of section 25, in subsection (2), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
+**16.**[^c-146a3869a332425a8239247504c0f398] In the English language text of section 25, in subsection (2), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
 
-**17.**[^key-4988555af50b2ff91ddd705bc31ba796] In the Welsh language text of section 26, in subsection (2)(a), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
+**17.**[^c-4988555af50b2ff91ddd705bc31ba796] In the Welsh language text of section 26, in subsection (2)(a), for “adran 5, 6 neu 17” substitute “Bennod 1, 1A neu 1B”.
 
-**18.**[^key-c7215ea68c78f929ee1d6d26ae0de9ac] In the English language text of section 26, in subsection (2)(a), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
+**18.**[^c-c7215ea68c78f929ee1d6d26ae0de9ac] In the English language text of section 26, in subsection (2)(a), for “section 5, 6 or 17” substitute “Chapter 1, 1A or 1B”.
 
-**19.**[^key-a66b7fd6c7c0cfeda1bf47fe63467e00] (1) The Welsh language text of section 27 is amended as follows.
+**19.**[^c-a66b7fd6c7c0cfeda1bf47fe63467e00] (1) The Welsh language text of section 27 is amended as follows.
 
 (2) In subsection (1), after paragraph (b) insert—
 
@@ -168,7 +168,7 @@ Section 158
 
 (3) In subsection (2), after “6(6)” insert “, 17D(3) neu 17I(3)”.
 
-**20.**[^key-efa78715dd353d5e0d767875eb1d3dd0] (1) The English language text of section 27 is amended as follows.
+**20.**[^c-efa78715dd353d5e0d767875eb1d3dd0] (1) The English language text of section 27 is amended as follows.
 
 (2) In subsection (1), after paragraph (b) insert—
 
@@ -181,7 +181,7 @@ Section 158
 
 (3) In subsection (2), after “6(6)” insert “, 17D(3) or 17I(3)”.
 
-**21.**[^key-ef29fb9d984a97426449263fda3ae414] In the Welsh language text, for section 28 substitute—
+**21.**[^c-ef29fb9d984a97426449263fda3ae414] In the Welsh language text, for section 28 substitute—
 
 > **28. Dehongli’r Bennod hon**
 >
@@ -200,7 +200,7 @@ Section 158
 >
 > (2) Mae cyfeiriadau yn y Bennod hon at “annedd” yn cynnwys tir a fwynheir gyda mangre pan fo’r fangre ei hun yn annedd, oni bai bod y tir yn dir amaethyddol (o fewn yr ystyr a roddir gan adran 246 o Ddeddf Rhentu Cartrefi (Cymru) [2016 (dccc 1)](https://www.legislation.gov.uk/anaw/2016/1)) sy’n fwy na 0.809 hectar.
 
-**22.**[^key-263b3bf74e1474191f5755be9feac6d5] In the English language text, for section 28 substitute—
+**22.**[^c-263b3bf74e1474191f5755be9feac6d5] In the English language text, for section 28 substitute—
 
 > **28. Interpretation of this Chapter**
 >
@@ -219,56 +219,56 @@ Section 158
 >
 > (2) References in this Chapter to a “dwelling” include land enjoyed with premises where the premises themselves constitute a dwelling, unless the land is agricultural land (within the meaning given by section 246 of the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1)) exceeding 0.809 hectares.
 
-**23.**[^key-b222d2ea4493878e9b203e29deeceb8c] In the Welsh language text of section 123, in subsection (2)(a), for “, 28(7)” substitute “17A(7)”.
+**23.**[^c-b222d2ea4493878e9b203e29deeceb8c] In the Welsh language text of section 123, in subsection (2)(a), for “, 28(7)” substitute “17A(7)”.
 
-**24.**[^key-43c85be53b4f5d71944848501c50c3df] In the English language text of section 123, in subsection (2)(a), for “, 28(7)” substitute “17A(7)“.
+**24.**[^c-43c85be53b4f5d71944848501c50c3df] In the English language text of section 123, in subsection (2)(a), for “, 28(7)” substitute “17A(7)“.
 
 ## Annotations
 
-[^key-6a382697b41841a86e3db54747b9e884]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-6a382697b41841a86e3db54747b9e884]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-890b0b06a1a511720a0afdc2957ee496]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-890b0b06a1a511720a0afdc2957ee496]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-abb71b31e514206441aea4cfdbc7cd29]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-abb71b31e514206441aea4cfdbc7cd29]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-1d2405a07f24969ea0e3691bd887946b]: Commencement: Sch. 19 para. 4 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-1d2405a07f24969ea0e3691bd887946b]: Commencement: Sch. 19 para. 4 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-f60ce6e870d4c4f3972b92618a5af40f]: Commencement: Sch. 19 para. 5 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-f60ce6e870d4c4f3972b92618a5af40f]: Commencement: Sch. 19 para. 5 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-400e20fb2a9f360353687181c2744e11]: Commencement: Sch. 19 para. 6 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-400e20fb2a9f360353687181c2744e11]: Commencement: Sch. 19 para. 6 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-075b2974b60748d002cdede977655101]: Commencement: Sch. 19 para. 7 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-075b2974b60748d002cdede977655101]: Commencement: Sch. 19 para. 7 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-392dec8c4fe9db0104c8be31a9eff072]: Commencement: Sch. 19 para. 8 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-392dec8c4fe9db0104c8be31a9eff072]: Commencement: Sch. 19 para. 8 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-32ab63c02bdd6ec06744f0f06d9849c3]: Commencement: Sch. 19 para. 9 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-32ab63c02bdd6ec06744f0f06d9849c3]: Commencement: Sch. 19 para. 9 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-b52ff5b1f77fa07d77b474fa0f44e500]: Commencement: Sch. 19 para. 10 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-b52ff5b1f77fa07d77b474fa0f44e500]: Commencement: Sch. 19 para. 10 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-9a75ade1db056d20b2aba4ae9a2eee9b]: Commencement: Sch. 19 para. 11 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-9a75ade1db056d20b2aba4ae9a2eee9b]: Commencement: Sch. 19 para. 11 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-443e8099736bc4a796f3546272b9ddb1]: Commencement: Sch. 19 para. 12 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-443e8099736bc4a796f3546272b9ddb1]: Commencement: Sch. 19 para. 12 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-a40154a9bfcd2e356012c8332b79fc7e]: Commencement: Sch. 19 para. 13 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-a40154a9bfcd2e356012c8332b79fc7e]: Commencement: Sch. 19 para. 13 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-e358f8a0c0f8aed6ab9b1ab05a5ae8ef]: Commencement: Sch. 19 para. 14 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-e358f8a0c0f8aed6ab9b1ab05a5ae8ef]: Commencement: Sch. 19 para. 14 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-c08039d27af284fe2f66c87dfed1a68f]: Commencement: Sch. 19 para. 15 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-c08039d27af284fe2f66c87dfed1a68f]: Commencement: Sch. 19 para. 15 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-146a3869a332425a8239247504c0f398]: Commencement: Sch. 19 para. 16 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-146a3869a332425a8239247504c0f398]: Commencement: Sch. 19 para. 16 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-4988555af50b2ff91ddd705bc31ba796]: Commencement: Sch. 19 para. 17 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-4988555af50b2ff91ddd705bc31ba796]: Commencement: Sch. 19 para. 17 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-c7215ea68c78f929ee1d6d26ae0de9ac]: Commencement: Sch. 19 para. 18 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-c7215ea68c78f929ee1d6d26ae0de9ac]: Commencement: Sch. 19 para. 18 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-a66b7fd6c7c0cfeda1bf47fe63467e00]: Commencement: Sch. 19 para. 19 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-a66b7fd6c7c0cfeda1bf47fe63467e00]: Commencement: Sch. 19 para. 19 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-efa78715dd353d5e0d767875eb1d3dd0]: Commencement: Sch. 19 para. 20 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-efa78715dd353d5e0d767875eb1d3dd0]: Commencement: Sch. 19 para. 20 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-ef29fb9d984a97426449263fda3ae414]: Commencement: Sch. 19 para. 21 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-ef29fb9d984a97426449263fda3ae414]: Commencement: Sch. 19 para. 21 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-263b3bf74e1474191f5755be9feac6d5]: Commencement: Sch. 19 para. 22 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-263b3bf74e1474191f5755be9feac6d5]: Commencement: Sch. 19 para. 22 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-b222d2ea4493878e9b203e29deeceb8c]: Commencement: Sch. 19 para. 23 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-b222d2ea4493878e9b203e29deeceb8c]: Commencement: Sch. 19 para. 23 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
 
-[^key-43c85be53b4f5d71944848501c50c3df]: Commencement: Sch. 19 para. 24 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-43c85be53b4f5d71944848501c50c3df]: Commencement: Sch. 19 para. 24 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)

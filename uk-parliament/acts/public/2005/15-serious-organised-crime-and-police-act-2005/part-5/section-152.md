@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Power to seize etc. vehicles driven without licence or insurance[^key-56b2784c45fbd543b0f00d3047131e5d]
+## 152. Power to seize etc. vehicles driven without licence or insurance[^c-56b2784c45fbd543b0f00d3047131e5d]
 
 *Extent: E+W+S*
 
@@ -108,4 +108,4 @@ After section 165 of the Road Traffic Act 1988 (c. 52) insert—
 
 ## Annotations
 
-[^key-56b2784c45fbd543b0f00d3047131e5d]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2005/15/section/152) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(u)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/u)
+[^c-56b2784c45fbd543b0f00d3047131e5d]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2005/15/section/152) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(u)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/u)

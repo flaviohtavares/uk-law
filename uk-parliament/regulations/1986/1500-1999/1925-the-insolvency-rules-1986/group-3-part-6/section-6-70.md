@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.70. Submission and filing of accounts[^key-98993647618dbb86a41d58c2e63ad0a9]
+## 6.70. Submission and filing of accounts[^c-98993647618dbb86a41d58c2e63ad0a9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98993647618dbb86a41d58c2e63ad0a9]: Commencement: [Rule 6.70](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.70) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-98993647618dbb86a41d58c2e63ad0a9]: Commencement: [Rule 6.70](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.70) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

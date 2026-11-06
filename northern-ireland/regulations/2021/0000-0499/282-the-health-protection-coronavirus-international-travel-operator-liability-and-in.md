@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 8) Regulations (Northern Ireland) 2021 (revoked)[^key-b74417ed6f8a3b45bc576f4484ebc71d]
+The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 8) Regulations (Northern Ireland) 2021 (revoked)[^c-b74417ed6f8a3b45bc576f4484ebc71d]
 
 Made
 
@@ -42,43 +42,43 @@ Coming into operation
 
 at 4.00 a.m. on 11th October 2021
 
-[^key-b74417ed6f8a3b45bc576f4484ebc71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b74417ed6f8a3b45bc576f4484ebc71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b74417ed6f8a3b45bc576f4484ebc71d]
+## 1. Citation, commencement and interpretation[^c-b74417ed6f8a3b45bc576f4484ebc71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of principal Regulations[^key-b74417ed6f8a3b45bc576f4484ebc71d]
+## 2. Amendment of principal Regulations[^c-b74417ed6f8a3b45bc576f4484ebc71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirement to possess notification of negative test result[^key-b74417ed6f8a3b45bc576f4484ebc71d]
+## 3. Requirement to possess notification of negative test result[^c-b74417ed6f8a3b45bc576f4484ebc71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Red list countries[^key-b74417ed6f8a3b45bc576f4484ebc71d]
+## 4. Red list countries[^c-b74417ed6f8a3b45bc576f4484ebc71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Criteria to be an eligible arrival[^key-b74417ed6f8a3b45bc576f4484ebc71d]
+## 5. Criteria to be an eligible arrival[^c-b74417ed6f8a3b45bc576f4484ebc71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to Schedule 4[^key-b74417ed6f8a3b45bc576f4484ebc71d]
+## 6. Amendments to Schedule 4[^c-b74417ed6f8a3b45bc576f4484ebc71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Operator Liability Regulations[^key-b74417ed6f8a3b45bc576f4484ebc71d]
+## 7. Amendment of the Operator Liability Regulations[^c-b74417ed6f8a3b45bc576f4484ebc71d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b74417ed6f8a3b45bc576f4484ebc71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b74417ed6f8a3b45bc576f4484ebc71d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b74417ed6f8a3b45bc576f4484ebc71d]EXPLANATORY NOTE
+[^c-b74417ed6f8a3b45bc576f4484ebc71d]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -98,4 +98,4 @@ An impact assessment has not been produced for these Regulations.
 
 ## Annotations
 
-[^key-b74417ed6f8a3b45bc576f4484ebc71d]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/282) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-b74417ed6f8a3b45bc576f4484ebc71d]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/282) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Nuclear safeguards regulations[^key-1fbdc598e5e28c601c8bafe9ef7a6ce1]
+## 76A. Nuclear safeguards regulations[^c-1fbdc598e5e28c601c8bafe9ef7a6ce1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 (4) Nothing in nuclear safeguards regulations applies in relation to anything done for defence purposes (within the meaning of section 70).
 
-(5) The provision that may be made by nuclear safeguards regulations by virtue of section 113(7) includes provision modifying assimilated[^key-b578aeb54dedc5388dcaa64db0ccff0a] law (within the meaning of the European Union (Withdrawal) Act 2018).
+(5) The provision that may be made by nuclear safeguards regulations by virtue of section 113(7) includes provision modifying assimilated[^c-b578aeb54dedc5388dcaa64db0ccff0a] law (within the meaning of the European Union (Withdrawal) Act 2018).
 
 (6) In this section—
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fbdc598e5e28c601c8bafe9ef7a6ce1]: Textual amendment: [Pt. 3 Ch. 2A](https://www.legislation.gov.uk/ukpga/2013/32/part/3/chapter/2A) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/2), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)
+[^c-1fbdc598e5e28c601c8bafe9ef7a6ce1]: Textual amendment: [Pt. 3 Ch. 2A](https://www.legislation.gov.uk/ukpga/2013/32/part/3/chapter/2A) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/2), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)
 
-[^key-b578aeb54dedc5388dcaa64db0ccff0a]: Textual amendment: Word in [s. 76A(5)](https://www.legislation.gov.uk/ukpga/2013/32/section/76A/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 79](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/79)
+[^c-b578aeb54dedc5388dcaa64db0ccff0a]: Textual amendment: Word in [s. 76A(5)](https://www.legislation.gov.uk/ukpga/2013/32/section/76A/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 79](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/79)

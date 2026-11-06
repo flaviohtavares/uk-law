@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. BID levy[^key-489350696c7ba66d9d422ba0f85eee3e][^key-f53b1c5fb0eb0dffbe4463a1721696a5][^key-3e2b937793637045d4b193e54290d011]
+## 45. BID levy[^c-489350696c7ba66d9d422ba0f85eee3e][^c-f53b1c5fb0eb0dffbe4463a1721696a5][^c-3e2b937793637045d4b193e54290d011]
 
 *Extent: E+W*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-489350696c7ba66d9d422ba0f85eee3e]: Commencement: S. 45 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-489350696c7ba66d9d422ba0f85eee3e]: Commencement: S. 45 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-f53b1c5fb0eb0dffbe4463a1721696a5]: Commencement: S. 45 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-f53b1c5fb0eb0dffbe4463a1721696a5]: Commencement: S. 45 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-3e2b937793637045d4b193e54290d011]: Modification: Ss. 44-47 modified (W.) (13.5.2005) by [Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/uksi/2005/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1/1), [16(5)(b)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/16/5/b), [17(3)(b)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/17/3/b)
+[^c-3e2b937793637045d4b193e54290d011]: Modification: Ss. 44-47 modified (W.) (13.5.2005) by [Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)](https://www.legislation.gov.uk/uksi/2005/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1/1), [16(5)(b)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/16/5/b), [17(3)(b)](https://www.legislation.gov.uk/uksi/2005/1312/regulation/17/3/b)

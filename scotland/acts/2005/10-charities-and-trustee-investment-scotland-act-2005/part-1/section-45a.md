@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45A. Failure to provide statement of account: removal from Register[^key-eeba5da2434ddc10834c2f03d17bade7]
+## 45A. Failure to provide statement of account: removal from Register[^c-eeba5da2434ddc10834c2f03d17bade7]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eeba5da2434ddc10834c2f03d17bade7]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/asp/2005/10/section/45A) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 12(4)](https://www.legislation.gov.uk/asp/2023/5/section/12/4), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-eeba5da2434ddc10834c2f03d17bade7]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/asp/2005/10/section/45A) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 12(4)](https://www.legislation.gov.uk/asp/2023/5/section/12/4), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)

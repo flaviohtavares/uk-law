@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Commission Regulation [(EEC) No 3703/85](https://www.legislation.gov.uk/european/regulation/1985/3703) laying down detailed rules for applying the common marketing standards for certain fresh or chilled fish[^key-8b2229431bd9a9d698d0bdf0d70e96a2]
+## 21. Commission Regulation [(EEC) No 3703/85](https://www.legislation.gov.uk/european/regulation/1985/3703) laying down detailed rules for applying the common marketing standards for certain fresh or chilled fish[^c-8b2229431bd9a9d698d0bdf0d70e96a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b2229431bd9a9d698d0bdf0d70e96a2]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-8b2229431bd9a9d698d0bdf0d70e96a2]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

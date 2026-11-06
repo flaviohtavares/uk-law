@@ -25,7 +25,7 @@ summary: ''
 (2) The regulations may, in particular, make provision as to the consequences of a failure to hold approved indemnity cover, including provision—
 
 - (a) for securing that a person must not be added to a pharmaceutical list unless he holds approved indemnity cover,
-- (b) for the removal from a pharmaceutical list prepared by NHS England[^key-c26379f595629655ada8a57e0d3d2bfd] of a person who does not within a prescribed period after the making of a request by NHS England in the prescribed manner satisfy NHS England that he holds approved indemnity cover.
+- (b) for the removal from a pharmaceutical list prepared by NHS England[^c-c26379f595629655ada8a57e0d3d2bfd] of a person who does not within a prescribed period after the making of a request by NHS England in the prescribed manner satisfy NHS England that he holds approved indemnity cover.
 
 (3) For the purposes of this section—
 
@@ -49,4 +49,4 @@ must be treated as holding approved indemnity cover for the purposes of the regu
 
 ## Annotations
 
-[^key-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

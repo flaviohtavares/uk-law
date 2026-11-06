@@ -41,7 +41,7 @@ Coming into force
 
 An application under section 37 of the Planning Act 2008[^f00001] (the “2008 Act”) has been made to the Secretary of State for an order granting development consent.
 
-The application has been examined by a single appointed person, who has made a report to the Secretary of State under section 83(1) of the 2008 Act.[^key-eb85b6080fede95be69f962e07805365]
+The application has been examined by a single appointed person, who has made a report to the Secretary of State under section 83(1) of the 2008 Act.[^c-eb85b6080fede95be69f962e07805365]
 
 The Secretary of State has considered the report and recommendation of the single appointed person, has taken into account the environmental information in accordance with regulation 3 of the Infrastructure Planning (Environmental Impact Assessment) Regulations 2009[^f00002] and has had regard to the documents and matters referred to in section 104(2) of the 2008 Act.
 
@@ -157,6 +157,6 @@ A copy of the Order plans and the book of reference mentioned in this Order and 
 
 [^f00001]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-eb85b6080fede95be69f962e07805365]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/uksi/2016/779) substituted (22.11.2016) by [The Meaford Gas Fired Generating Station (Correction) Order 2016 (S.I. 2016/1046)](https://www.legislation.gov.uk/uksi/2016/1046), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1046/article/1), [2](https://www.legislation.gov.uk/uksi/2016/1046/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1046/schedule)
+[^c-eb85b6080fede95be69f962e07805365]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/uksi/2016/779) substituted (22.11.2016) by [The Meaford Gas Fired Generating Station (Correction) Order 2016 (S.I. 2016/1046)](https://www.legislation.gov.uk/uksi/2016/1046), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1046/article/1), [2](https://www.legislation.gov.uk/uksi/2016/1046/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1046/schedule)
 
 [^f00002]: Footnote: [S.I. 2009/2263](https://www.legislation.gov.uk/uksi/2009/2263), amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635) and [2012/787](https://www.legislation.gov.uk/uksi/2012/787).

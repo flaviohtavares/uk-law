@@ -25,7 +25,7 @@ summary: ''
 (2) For the purposes of subsection (1) above the value transferred by the company’s transfer of value shall be apportioned among the participators according to their respective rights and interests in the company immediately before the transfer, and any amount so apportioned to a close company shall be further apportioned among its participators, and so on; but—
 
 - (a) so much of that value as is attributable to any payment or transfer of assets to any person which falls to be taken into account in computing that person’s profits or gains or losses for the purposes of income tax or corporation tax (or would fall to be so taken into account but for section 1285 of the Corporation Tax Act 2009 (exemption for[^c21428521] UK company distributions)) shall not be apportioned, and
-- (b) if any amount which would otherwise be apportioned to an individual who is not a long-term UK resident[^key-77d1a24a1c8b367dd8a8aa97a56216ae] is attributable to the value of any property outside the United Kingdom, that amount shall not be apportioned.
+- (b) if any amount which would otherwise be apportioned to an individual who is not a long-term UK resident[^c-77d1a24a1c8b367dd8a8aa97a56216ae] is attributable to the value of any property outside the United Kingdom, that amount shall not be apportioned.
 
 (3) In determining for the purposes of this section whether a disposition made by a close company is a transfer of value or what value is transferred by such a transfer no account shall be taken of the surrender by the company, in pursuance of section 240 or 402 of the[^c13610001] [^c13610011]Taxes Act 1988, of any relief or of the benefit of any amount of advance corporation tax paid by it.
 
@@ -37,7 +37,7 @@ summary: ''
 
 [^c21428521]: Textual amendment: Words in [s. 94(2)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/94/2/a) substituted (1.4.2009 with effect as mentioned in [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1322](https://www.legislation.gov.uk/ukpga/2009/4/section/1322), [Sch. 1 para. 317](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/317)
 
-[^key-77d1a24a1c8b367dd8a8aa97a56216ae]: Textual amendment: Words in [s. 94(2)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/94/2/b) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 18](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/18), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-77d1a24a1c8b367dd8a8aa97a56216ae]: Textual amendment: Words in [s. 94(2)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/94/2/b) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 18](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/18), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
 [^c13610001]: Textual amendment: *Substituted by* [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/1988/1/schedule/29), [para. 32](https://www.legislation.gov.uk/ukpga/1988/1/paragraph/32).*Originally*
 

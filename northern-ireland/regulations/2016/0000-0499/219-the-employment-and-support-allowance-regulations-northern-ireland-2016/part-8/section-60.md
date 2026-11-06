@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Lower daily reduction rate[^key-4eede85d01674727b00f0bb18fbc69bf]
+## 60. Lower daily reduction rate[^c-4eede85d01674727b00f0bb18fbc69bf]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eede85d01674727b00f0bb18fbc69bf]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2016/219/regulation/60) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-4eede85d01674727b00f0bb18fbc69bf]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2016/219/regulation/60) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Deemed consent[^key-af4a0e893cf3ef5b33f858c2f9885356]
+## 53. Deemed consent[^c-af4a0e893cf3ef5b33f858c2f9885356]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af4a0e893cf3ef5b33f858c2f9885356]: Commencement: Art. 53 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-af4a0e893cf3ef5b33f858c2f9885356]: Commencement: Art. 53 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

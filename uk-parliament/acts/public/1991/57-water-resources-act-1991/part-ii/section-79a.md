@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) If the appropriate agency[^key-0a5739494ab81c410ad28250fe7ad8e3] is satisfied that, by reason of an exceptional shortage of rain, a serious deficiency of supplies of water in any area exists or is threatened then, subject to the following provisions of this section, it may, upon the application of a water undertaker which supplies water to premises in that area, issue to that undertaker a drought permit making such provision authorised by this section as appears to the appropriate agency to be expedient with a view to meeting the deficiency.
+(1) If the appropriate agency[^c-0a5739494ab81c410ad28250fe7ad8e3] is satisfied that, by reason of an exceptional shortage of rain, a serious deficiency of supplies of water in any area exists or is threatened then, subject to the following provisions of this section, it may, upon the application of a water undertaker which supplies water to premises in that area, issue to that undertaker a drought permit making such provision authorised by this section as appears to the appropriate agency to be expedient with a view to meeting the deficiency.
 
 (2) A drought permit may contain any of the following provisions, that is to say—
 
@@ -54,15 +54,15 @@ shall not be issued without the consent of every navigation authority exercising
 
 - (a) with the substitution for any reference to a drought order of a reference to a drought permit;
 - (b) with the substitution for any reference to the Secretary of State of a reference to the appropriate agency;
-- (c)[^key-b232d624cdcc71abe21e5adb70f91b86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b232d624cdcc71abe21e5adb70f91b86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) with the insertion, in paragraph 1(3)(c), of a requirement that the notice in question shall specify the address at which any objections are to be made to the appropriate agency; and
 - (e) with the omission—
   - (i) of paragraph 2(1)(a) and the word “either" immediately preceding it, and
   - (ii) of paragraph 2(6).
 
-(8)[^key-417a7a66f114226b58ef394391776c52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-417a7a66f114226b58ef394391776c52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8A)[^key-77a0deb197ab235492c2d6aaa495b39c] Where a water undertaker makes an application for a drought permit, the appropriate agency may recover from the water undertaker any expenses it incurs (whether of a revenue or capital nature) in the exercise of its functions so far as their exercise is attributable to—
+(8A)[^c-77a0deb197ab235492c2d6aaa495b39c] Where a water undertaker makes an application for a drought permit, the appropriate agency may recover from the water undertaker any expenses it incurs (whether of a revenue or capital nature) in the exercise of its functions so far as their exercise is attributable to—
 
 - (a) the application;
 - (b) (if the permit is issued) the permit,
@@ -88,10 +88,10 @@ in so far as those expenses have not been recovered (whether from the water unde
 
 [^c18732181]: Textual amendment: S. 79A inserted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 140](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/140) (with 7(6), 115, 117); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-0a5739494ab81c410ad28250fe7ad8e3]: Textual amendment: Words in s. 79A substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 271(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/271/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0a5739494ab81c410ad28250fe7ad8e3]: Textual amendment: Words in s. 79A substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 271(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/271/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b232d624cdcc71abe21e5adb70f91b86]: Textual amendment: [S. 79A(7)(c)](https://www.legislation.gov.uk/ukpga/1991/57/section/79A/7/c) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 271(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/271/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b232d624cdcc71abe21e5adb70f91b86]: Textual amendment: [S. 79A(7)(c)](https://www.legislation.gov.uk/ukpga/1991/57/section/79A/7/c) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 271(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/271/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-417a7a66f114226b58ef394391776c52]: Textual amendment: S. 79A(8) repealed (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2003/37/section/64/3/a), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(o)(z)](https://www.legislation.gov.uk/uksi/2004/641/article/3/o/z)
+[^c-417a7a66f114226b58ef394391776c52]: Textual amendment: S. 79A(8) repealed (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2003/37/section/64/3/a), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(o)(z)](https://www.legislation.gov.uk/uksi/2004/641/article/3/o/z)
 
-[^key-77a0deb197ab235492c2d6aaa495b39c]: Textual amendment: S. 79A(8A)(8B) inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2003/37/section/64/3/b), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(o)](https://www.legislation.gov.uk/uksi/2004/641/article/3/o) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-77a0deb197ab235492c2d6aaa495b39c]: Textual amendment: S. 79A(8A)(8B) inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2003/37/section/64/3/b), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(o)](https://www.legislation.gov.uk/uksi/2004/641/article/3/o) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

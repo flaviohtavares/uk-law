@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Subject to sections 143 and 143A[^key-961c8adc7ac5534c1d66b1ea5892ece6] of, and Schedules 1 and 2 to, this Act, the Secretary of State may make regulations prescribing the procedure to be followed in connection with the making and confirmation of schemes under section 7 and orders under sections 5, 9 and 12 of this Act.
+(1) Subject to sections 143 and 143A[^c-961c8adc7ac5534c1d66b1ea5892ece6] of, and Schedules 1 and 2 to, this Act, the Secretary of State may make regulations prescribing the procedure to be followed in connection with the making and confirmation of schemes under section 7 and orders under sections 5, 9 and 12 of this Act.
 
 (2) Without prejudice to the generality of subsection (1) above, regulations under this section may provide for securing that the centre-line of—
 
@@ -34,4 +34,4 @@ shall be indicated on a map on such scale as may be prescribed by the regulation
 
 ## Annotations
 
-[^key-961c8adc7ac5534c1d66b1ea5892ece6]: Textual amendment: Words in [s. 144(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/144/1) substituted (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [ss. 24(3)](https://www.legislation.gov.uk/asp/2007/8/section/24/3), [30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-961c8adc7ac5534c1d66b1ea5892ece6]: Textual amendment: Words in [s. 144(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/144/1) substituted (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [ss. 24(3)](https://www.legislation.gov.uk/asp/2007/8/section/24/3), [30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)

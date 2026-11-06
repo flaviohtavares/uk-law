@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Remuneration and expenses of Judges of the Sexual Offences Court[^key-3c95ae21a88a7e471ec4916877e10869]
+## 75. Remuneration and expenses of Judges of the Sexual Offences Court[^c-3c95ae21a88a7e471ec4916877e10869]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c95ae21a88a7e471ec4916877e10869]: Commencement: S. 75 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-3c95ae21a88a7e471ec4916877e10869]: Commencement: S. 75 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

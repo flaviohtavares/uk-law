@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Appeals against demands for costs[^key-0ab02e3d69442c9dc12605618b909bf0]
+## 14. Appeals against demands for costs[^c-0ab02e3d69442c9dc12605618b909bf0]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ In Part 9 of Schedule A1 to the 1992 Act, before paragraph 166 (and before the c
 
 ## Annotations
 
-[^key-0ab02e3d69442c9dc12605618b909bf0]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2004/24/section/14) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 10](https://www.legislation.gov.uk/uksi/2005/872/article/10))
+[^c-0ab02e3d69442c9dc12605618b909bf0]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2004/24/section/14) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 10](https://www.legislation.gov.uk/uksi/2005/872/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to obtain information[^key-295eda65112b8c00db3977875a5d7c62]
+## 50. Power to obtain information[^c-295eda65112b8c00db3977875a5d7c62]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-295eda65112b8c00db3977875a5d7c62]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2012/19/section/50) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-295eda65112b8c00db3977875a5d7c62]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2012/19/section/50) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 266. Interpretation of Part 11[^key-d5da6edd43753fd71d1a1688d618bc7b]
+## 266. Interpretation of Part 11[^c-d5da6edd43753fd71d1a1688d618bc7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5da6edd43753fd71d1a1688d618bc7b]: Commencement: S. 266 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-d5da6edd43753fd71d1a1688d618bc7b]: Commencement: S. 266 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

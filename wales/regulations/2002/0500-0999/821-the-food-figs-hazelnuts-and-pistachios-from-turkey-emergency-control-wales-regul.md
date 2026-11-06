@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Wales) Regulations 2002 (revoked)[^key-92a78f342fa82ecd1e9c35b0a33c9dad]
+The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Wales) Regulations 2002 (revoked)[^c-92a78f342fa82ecd1e9c35b0a33c9dad]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into force
 
 26th March 2002
 
-[^key-92a78f342fa82ecd1e9c35b0a33c9dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92a78f342fa82ecd1e9c35b0a33c9dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-92a78f342fa82ecd1e9c35b0a33c9dad]
+## 1. Title, commencement and extent[^c-92a78f342fa82ecd1e9c35b0a33c9dad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-92a78f342fa82ecd1e9c35b0a33c9dad]
+## 2. Interpretation[^c-92a78f342fa82ecd1e9c35b0a33c9dad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of import[^key-92a78f342fa82ecd1e9c35b0a33c9dad]
+## 3. Prohibition of import[^c-92a78f342fa82ecd1e9c35b0a33c9dad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-92a78f342fa82ecd1e9c35b0a33c9dad]
+## 4. Enforcement[^c-92a78f342fa82ecd1e9c35b0a33c9dad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application etc. of various provisions of the Act[^key-92a78f342fa82ecd1e9c35b0a33c9dad]
+## 5. Application etc. of various provisions of the Act[^c-92a78f342fa82ecd1e9c35b0a33c9dad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92a78f342fa82ecd1e9c35b0a33c9dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92a78f342fa82ecd1e9c35b0a33c9dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-92a78f342fa82ecd1e9c35b0a33c9dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92a78f342fa82ecd1e9c35b0a33c9dad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-92a78f342fa82ecd1e9c35b0a33c9dad]: Textual amendment: Regulations revoked (9.9.2002) by [The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Wales) (No. 2) Regulations 2002 (S.I. 2002/2296)](https://www.legislation.gov.uk/uksi/2002/2296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2296/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2002/2296/regulation/7)
+[^c-92a78f342fa82ecd1e9c35b0a33c9dad]: Textual amendment: Regulations revoked (9.9.2002) by [The Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) (Wales) (No. 2) Regulations 2002 (S.I. 2002/2296)](https://www.legislation.gov.uk/uksi/2002/2296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2296/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2002/2296/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Representation of corporations[^key-679c9d1ff46632534092a48bf265213e]
+## 78. Representation of corporations[^c-679c9d1ff46632534092a48bf265213e]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-679c9d1ff46632534092a48bf265213e]: Commencement: Rule 78 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-679c9d1ff46632534092a48bf265213e]: Commencement: Rule 78 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^f00021]: Footnote: Section 323 was amended by [S.I. 2009/1632](https://www.legislation.gov.uk/uksi/2009/1632) Regulation 6.
 

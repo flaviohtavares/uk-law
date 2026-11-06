@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Expenses to be paid out of the investment bank’s assets[^key-463262541f27b3991b2e2b8db0eaa0be]
+## 134. Expenses to be paid out of the investment bank’s assets[^c-463262541f27b3991b2e2b8db0eaa0be]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-463262541f27b3991b2e2b8db0eaa0be]: Commencement: [Rule 134](https://www.legislation.gov.uk/uksi/2011/1301/rule/134) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-463262541f27b3991b2e2b8db0eaa0be]: Commencement: [Rule 134](https://www.legislation.gov.uk/uksi/2011/1301/rule/134) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

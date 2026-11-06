@@ -32,64 +32,64 @@ Telecommunications Infrastructure (Relief from Non-Domestic Rates) Act 2018 (rep
 
 2018 c. 1
 
-[^key-4a9d288cf77296b5bbc3861f32ad2ced]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a9d288cf77296b5bbc3861f32ad2ced]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Relief for telecommunications infrastructure[^key-4a9d288cf77296b5bbc3861f32ad2ced]
+## Relief for telecommunications infrastructure[^c-4a9d288cf77296b5bbc3861f32ad2ced]
 
-### 1. Relief from local non-domestic rates: occupied hereditaments[^key-4a9d288cf77296b5bbc3861f32ad2ced]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Relief from local non-domestic rates: unoccupied hereditaments[^key-4a9d288cf77296b5bbc3861f32ad2ced]
+### 1. Relief from local non-domestic rates: occupied hereditaments[^c-4a9d288cf77296b5bbc3861f32ad2ced]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Relief from central non-domestic rates[^key-4a9d288cf77296b5bbc3861f32ad2ced]
+### 2. Relief from local non-domestic rates: unoccupied hereditaments[^c-4a9d288cf77296b5bbc3861f32ad2ced]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Supplementary and final provisions[^key-4a9d288cf77296b5bbc3861f32ad2ced]
-
-### 4. Consequential provision[^key-4a9d288cf77296b5bbc3861f32ad2ced]
+### 3. Relief from central non-domestic rates[^c-4a9d288cf77296b5bbc3861f32ad2ced]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Financial provision[^key-4a9d288cf77296b5bbc3861f32ad2ced]
+## Supplementary and final provisions[^c-4a9d288cf77296b5bbc3861f32ad2ced]
+
+### 4. Consequential provision[^c-4a9d288cf77296b5bbc3861f32ad2ced]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Extent, application and short title[^key-4a9d288cf77296b5bbc3861f32ad2ced]
+### 5. Financial provision[^c-4a9d288cf77296b5bbc3861f32ad2ced]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Extent, application and short title[^c-4a9d288cf77296b5bbc3861f32ad2ced]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — CONSEQUENTIAL AMENDMENTS[^key-4a9d288cf77296b5bbc3861f32ad2ced]
+## SCHEDULE — CONSEQUENTIAL AMENDMENTS[^c-4a9d288cf77296b5bbc3861f32ad2ced]
 
 Section 4
 
-### Government Finance Act 1988[^key-4a9d288cf77296b5bbc3861f32ad2ced]
+### Government Finance Act 1988[^c-4a9d288cf77296b5bbc3861f32ad2ced]
 
-**1.**[^key-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Business Rate Supplements Act 2009[^key-4a9d288cf77296b5bbc3861f32ad2ced]
+### Business Rate Supplements Act 2009[^c-4a9d288cf77296b5bbc3861f32ad2ced]
 
-**8.**[^key-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4a9d288cf77296b5bbc3861f32ad2ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4a9d288cf77296b5bbc3861f32ad2ced]: Textual amendment: Act repealed (with effect in relation to financial years beginning on or after 1.4.2024) by [Non Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 18(1)(b)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/18/1/b)
+[^c-4a9d288cf77296b5bbc3861f32ad2ced]: Textual amendment: Act repealed (with effect in relation to financial years beginning on or after 1.4.2024) by [Non Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 18(1)(b)](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/18/1/b)

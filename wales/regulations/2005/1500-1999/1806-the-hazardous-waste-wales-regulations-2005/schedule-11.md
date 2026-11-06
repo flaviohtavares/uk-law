@@ -47,15 +47,15 @@ Regulation 73
 
 #### The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991
 
-**5.**[^key-3441d77fd07cc6e84c8c56e52a4082eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3441d77fd07cc6e84c8c56e52a4082eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3441d77fd07cc6e84c8c56e52a4082eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3441d77fd07cc6e84c8c56e52a4082eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Environmental Protection (Duty of Care) Regulations 1991
 
-**7.**[^key-3441d77fd07cc6e84c8c56e52a4082eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3441d77fd07cc6e84c8c56e52a4082eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3441d77fd07cc6e84c8c56e52a4082eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3441d77fd07cc6e84c8c56e52a4082eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Environmental Protection (Prescribed Processes and Substances) Regulations 1991
 
@@ -72,41 +72,41 @@ Regulation 73
 
 #### Waste Management Licensing Regulations 1994
 
-**11.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Town and Country Planning (Environmental Impact Assessment)(England and Wales) Regulations 1999
 
-**26.**[^key-e39e2d9fbec3fe32575a24f6f3b0f40c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-e39e2d9fbec3fe32575a24f6f3b0f40c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-e39e2d9fbec3fe32575a24f6f3b0f40c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-e39e2d9fbec3fe32575a24f6f3b0f40c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Environmental Protection (Disposal of Polychlorinated Biphenyls and Dangerous Substances)(England and Wales) Regulations 2000
 
@@ -165,7 +165,7 @@ Regulation 73
 
 **40.** The Packaging (Essential Requirements) Regulations 2003 [^c15551191] are amended as follows.
 
-**41.**[^key-124492adcbc1525c0b1e971efb119f26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-124492adcbc1525c0b1e971efb119f26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -173,13 +173,13 @@ Regulation 73
 
 [^c15551101]: Marginal citation: OJ No L 259, 15. 10. 1979, p. 10.
 
-[^key-3441d77fd07cc6e84c8c56e52a4082eb]: Textual amendment: [Sch. 11 paras. 5-8](https://www.legislation.gov.uk/wsi/2005/1806/schedule/11/paragraph/5) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/34)
+[^c-3441d77fd07cc6e84c8c56e52a4082eb]: Textual amendment: [Sch. 11 paras. 5-8](https://www.legislation.gov.uk/wsi/2005/1806/schedule/11/paragraph/5) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/34)
 
 [^c15551131]: Marginal citation: OJ No. L310, 03.12.1994 p.70.
 
-[^key-90ef7ef22bc483ba24fe3c6ddbcc2bbe]: Textual amendment: [Sch. 11 paras. 11-25](https://www.legislation.gov.uk/wsi/2005/1806/schedule/11/paragraph/11) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/34)
+[^c-90ef7ef22bc483ba24fe3c6ddbcc2bbe]: Textual amendment: [Sch. 11 paras. 11-25](https://www.legislation.gov.uk/wsi/2005/1806/schedule/11/paragraph/11) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/34)
 
-[^key-e39e2d9fbec3fe32575a24f6f3b0f40c]: Textual amendment: [Sch. 11 para. 27](https://www.legislation.gov.uk/wsi/2005/1806/schedule/11/paragraph/27) revoked (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 8](https://www.legislation.gov.uk/wsi/2016/58/schedule/8) (with [regs. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59), [60(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/60/2))
+[^c-e39e2d9fbec3fe32575a24f6f3b0f40c]: Textual amendment: [Sch. 11 para. 27](https://www.legislation.gov.uk/wsi/2005/1806/schedule/11/paragraph/27) revoked (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 8](https://www.legislation.gov.uk/wsi/2016/58/schedule/8) (with [regs. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59), [60(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/60/2))
 
 [^c15551151]: Marginal citation: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33).
 
@@ -191,4 +191,4 @@ Regulation 73
 
 [^c15551191]: Marginal citation: [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293), to which there are amendments not relevant to these Regulations.
 
-[^key-124492adcbc1525c0b1e971efb119f26]: Textual amendment: [Sch. 11 para. 41](https://www.legislation.gov.uk/wsi/2005/1806/schedule/11/paragraph/41) revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-124492adcbc1525c0b1e971efb119f26]: Textual amendment: [Sch. 11 para. 41](https://www.legislation.gov.uk/wsi/2005/1806/schedule/11/paragraph/41) revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))

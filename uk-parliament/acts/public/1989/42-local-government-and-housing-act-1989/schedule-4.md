@@ -44,7 +44,7 @@ If the Secretary of State so directs, this item shall include, or not include, s
 
 #### Item 3: Housing Revenue Account subsidy
 
-[^key-1d027a4d3bffb36744ca07dd6979af74]...
+[^c-1d027a4d3bffb36744ca07dd6979af74]...
 
 #### Item 4: contributions towards expenditure
 
@@ -52,7 +52,7 @@ Contributions of any description payable to the authority for the year towards e
 
 If the Secretary of State so directs, this item shall not include so much of any such contributions as may be determined by or under the direction.
 
-#### Item 5: housing benefit transfers[^key-926d696d8421458aafbea3c36cd713ae]
+#### Item 5: housing benefit transfers[^c-926d696d8421458aafbea3c36cd713ae]
 
 ...
 
@@ -76,7 +76,7 @@ Sums calculated for the year in accordance with such formulae as the Secretary o
 
 In determining any formula for the purposes of this item, the Secretary of State may include variables framed (in whatever way he considers appropriate) by reference to such matters relating to the authority, or to (or to tenants of) houses and other property which are or have been within the account, as he thinks fit.
 
-#### Item 9: sums directed by Secretary of State or National Assembly for Wales[^key-e713bb221b0095e457d12d6bd85bcc41]
+#### Item 9: sums directed by Secretary of State or National Assembly for Wales[^c-e713bb221b0095e457d12d6bd85bcc41]
 
 **No longer in force (ended 2003-11-27).**
 
@@ -100,7 +100,7 @@ The expenditure of the authority for the year in respect of the repair, maintena
 
 If the Secretary of State so directs, this item shall include, or not include, such expenditure as may be determined by or under the direction.
 
-#### Item 2: capital expenditure[^key-1392d92cfc855df6f269e08107e47a8d]
+#### Item 2: capital expenditure[^c-1392d92cfc855df6f269e08107e47a8d]
 
 Any expenditure of the authority in respect of houses and other property within the account—
 
@@ -114,19 +114,19 @@ In this item “capital expenditure” means expenditure which is capital expend
 
 The rents, rates, taxes and other charges which the authority are liable to pay for the year in respect of houses and other property within the account.
 
-#### Item 4: rent rebates[^key-4faa414bed1c118405786c96691e4859]
+#### Item 4: rent rebates[^c-4faa414bed1c118405786c96691e4859]
 
 ...
 
 #### Item 5: sums payable under section 80ZA
 
-[^key-225e5636c2a57c1209d3fa547fd9f82d]...
+[^c-225e5636c2a57c1209d3fa547fd9f82d]...
 
-#### Item 5A: sums payable under section 170 of the Localism Act 2011[^key-39b3f0276e01919d479dbc282aa51b80]
+#### Item 5A: sums payable under section 170 of the Localism Act 2011[^c-39b3f0276e01919d479dbc282aa51b80]
 
 Sums payable for the year to the Secretary of State under section 170(4) or (5) of the Localism Act 2011 (interest etc charged as a result of late payment of settlement payments etc).
 
-#### Item 5B: sums payable under section 134 of the Housing (Wales) Act 2014[^key-a372c4f892b27e7cab09bafff304c4ca]
+#### Item 5B: sums payable under section 134 of the Housing (Wales) Act 2014[^c-a372c4f892b27e7cab09bafff304c4ca]
 
 Sums payable for the year to the Welsh Ministers under section 134(3) or (4) of the Housing (Wales) Act 2014 (interest etc charged as a result of late payment of settlement payments etc).
 
@@ -156,7 +156,7 @@ Any debit balance shown in the account for the previous year.
 
 This item does not include any such balance so shown which is carried to the debit of some other revenue account of the authority in accordance with paragraph 1 of Part III of this Schedule.
 
-#### Item 10: sums directed by Secretary of State or National Assembly for Wales[^key-80ab3ae95831e0e66799784d5ce589e2]
+#### Item 10: sums directed by Secretary of State or National Assembly for Wales[^c-80ab3ae95831e0e66799784d5ce589e2]
 
 Any sums which for the year the authority is required, by reason of a direction given by the appropriate person, to carry from the account to the credit of some other revenue account of theirs.
 
@@ -176,7 +176,7 @@ In this item the reference to the authority’s “relevant fund” is—
 
 (b) in relation to Wales, to the authority’s council fund within the meaning of section 38(1) of the Local Government (Wales) Act 1994.
 
-#### Item 11: payments under section 86 of the Housing and Planning Act 2016[^key-d6a6cf91fa1fa15efbf6ea1346721975]
+#### Item 11: payments under section 86 of the Housing and Planning Act 2016[^c-d6a6cf91fa1fa15efbf6ea1346721975]
 
 Any sums payable for the year to the Secretary of State under regulations made in reliance on section 86 of the Housing and Planning Act 2016 (rents for high income social tenants: payment by local authority of increased income to Secretary of State).
 
@@ -193,9 +193,9 @@ shall be carried forward and debited or credited, as the case may require, not t
 
 (2) The limit referred to in sub-paragraph (1) above is £150 multiplied by the number of dwellings in the authority’s Housing Revenue Account on 31st March 1990 or £5 million, whichever is the lesser amount.
 
-#### ...[^key-7865a385c84a3295ce751fb802c24696]
+#### ...[^c-7865a385c84a3295ce751fb802c24696]
 
-**2.**[^key-7865a385c84a3295ce751fb802c24696] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7865a385c84a3295ce751fb802c24696] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Amenities shared by the whole community
 
@@ -281,7 +281,7 @@ has been paid towards expenditure incurred by a local housing authority in relat
 
 #### Orders amending statutory provisions
 
-**3.**[^key-9de0ccf0cfcbdbfeff013d5b889294b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9de0ccf0cfcbdbfeff013d5b889294b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -289,27 +289,27 @@ has been paid towards expenditure incurred by a local housing authority in relat
 
 [^c15281241]: Textual amendment: Sch. 4 Pt. 1 shall have effect, and be deemed always to have had effect as if words in item 2 para. (b) were inserted, by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [ss.127(a)](https://www.legislation.gov.uk/ukpga/1993/28/section/127/a), [128](https://www.legislation.gov.uk/ukpga/1993/28/section/128)
 
-[^key-1d027a4d3bffb36744ca07dd6979af74]: Textual amendment: Sch. 4 Pt. 1 Item 3 omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(4)(a)](https://www.legislation.gov.uk/anaw/2014/7/section/131/4/a), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/uksi/2019/553), [art. 2](https://www.legislation.gov.uk/uksi/2019/553/article/2)
+[^c-1d027a4d3bffb36744ca07dd6979af74]: Textual amendment: Sch. 4 Pt. 1 Item 3 omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(4)(a)](https://www.legislation.gov.uk/anaw/2014/7/section/131/4/a), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/uksi/2019/553), [art. 2](https://www.legislation.gov.uk/uksi/2019/553/article/2)
 
-[^key-926d696d8421458aafbea3c36cd713ae]: Textual amendment: Sch. 4 Pt. 1 Item 5 repealed (1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e/f), [Sch. 7 para. 33(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/33/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 6(d)(e)(i)(i)](https://www.legislation.gov.uk/uksi/2003/2938/article/6/d/e/i/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-926d696d8421458aafbea3c36cd713ae]: Textual amendment: Sch. 4 Pt. 1 Item 5 repealed (1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e/f), [Sch. 7 para. 33(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/33/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 6(d)(e)(i)(i)](https://www.legislation.gov.uk/uksi/2003/2938/article/6/d/e/i/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-e713bb221b0095e457d12d6bd85bcc41]: Textual amendment: Sch. 4 Pt. 1 Item 9 substituted (18.11.2003 for E. and 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 7 para. 33(3)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/33/3); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/5))
+[^c-e713bb221b0095e457d12d6bd85bcc41]: Textual amendment: Sch. 4 Pt. 1 Item 9 substituted (18.11.2003 for E. and 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 7 para. 33(3)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/33/3); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/5))
 
-[^key-1392d92cfc855df6f269e08107e47a8d]: Textual amendment: Sch. 4 Pt. 2 Item 2 substituted (1.4.2004) by [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [4](https://www.legislation.gov.uk/uksi/2004/533/article/4)
+[^c-1392d92cfc855df6f269e08107e47a8d]: Textual amendment: Sch. 4 Pt. 2 Item 2 substituted (1.4.2004) by [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [4](https://www.legislation.gov.uk/uksi/2004/533/article/4)
 
-[^key-4faa414bed1c118405786c96691e4859]: Textual amendment: Sch. 4 Pt. 2 Item 4 repealed (1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e/f), [Sch. 7 para. 33(4)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/33/4), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 6(d)(e)(i)(i)](https://www.legislation.gov.uk/uksi/2003/2938/article/6/d/e/i/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-4faa414bed1c118405786c96691e4859]: Textual amendment: Sch. 4 Pt. 2 Item 4 repealed (1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e/f), [Sch. 7 para. 33(4)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/33/4), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 6(d)(e)(i)(i)](https://www.legislation.gov.uk/uksi/2003/2938/article/6/d/e/i/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-225e5636c2a57c1209d3fa547fd9f82d]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/1989/42/schedule/4/part/II) Item 5 omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(4)(b)](https://www.legislation.gov.uk/anaw/2014/7/section/131/4/b), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/wsi/2019/553), [art. 2](https://www.legislation.gov.uk/wsi/2019/553/article/2)
+[^c-225e5636c2a57c1209d3fa547fd9f82d]: Textual amendment: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/1989/42/schedule/4/part/II) Item 5 omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(4)(b)](https://www.legislation.gov.uk/anaw/2014/7/section/131/4/b), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/wsi/2019/553), [art. 2](https://www.legislation.gov.uk/wsi/2019/553/article/2)
 
-[^key-39b3f0276e01919d479dbc282aa51b80]: Textual amendment: Sch. 4 Pt. 2 Item 5A inserted (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 170(9)](https://www.legislation.gov.uk/ukpga/2011/20/section/170/9), [240(5)(n)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/n)
+[^c-39b3f0276e01919d479dbc282aa51b80]: Textual amendment: Sch. 4 Pt. 2 Item 5A inserted (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 170(9)](https://www.legislation.gov.uk/ukpga/2011/20/section/170/9), [240(5)(n)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/n)
 
-[^key-a372c4f892b27e7cab09bafff304c4ca]: Textual amendment: Sch. 4 Pt. 2 Item 5B inserted (18.11.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 134(8)](https://www.legislation.gov.uk/anaw/2014/7/section/134/8), [145(2)](https://www.legislation.gov.uk/anaw/2014/7/section/145/2)
+[^c-a372c4f892b27e7cab09bafff304c4ca]: Textual amendment: Sch. 4 Pt. 2 Item 5B inserted (18.11.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 134(8)](https://www.legislation.gov.uk/anaw/2014/7/section/134/8), [145(2)](https://www.legislation.gov.uk/anaw/2014/7/section/145/2)
 
-[^key-80ab3ae95831e0e66799784d5ce589e2]: Textual amendment: Sch. 4 Pt. 2 Item 10 inserted (18.11.2003 for E. and 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 7 para. 33(5)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/33/5); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-80ab3ae95831e0e66799784d5ce589e2]: Textual amendment: Sch. 4 Pt. 2 Item 10 inserted (18.11.2003 for E. and 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 7 para. 33(5)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/33/5); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-d6a6cf91fa1fa15efbf6ea1346721975]: Textual amendment: Sch. 4 Pt. 2 Item 11 inserted (1.10.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 88(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/88/3), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-d6a6cf91fa1fa15efbf6ea1346721975]: Textual amendment: Sch. 4 Pt. 2 Item 11 inserted (1.10.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 88(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/88/3), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
 
-[^key-7865a385c84a3295ce751fb802c24696]: Textual amendment: Sch. 4 Pt. 3 para. 2 and cross-heading omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(4)(c)](https://www.legislation.gov.uk/anaw/2014/7/section/131/4/c), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/uksi/2019/553), [art. 2](https://www.legislation.gov.uk/uksi/2019/553/article/2)
+[^c-7865a385c84a3295ce751fb802c24696]: Textual amendment: Sch. 4 Pt. 3 para. 2 and cross-heading omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(4)(c)](https://www.legislation.gov.uk/anaw/2014/7/section/131/4/c), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/uksi/2019/553), [art. 2](https://www.legislation.gov.uk/uksi/2019/553/article/2)
 
 [^c15281261]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -327,4 +327,4 @@ has been paid towards expenditure incurred by a local housing authority in relat
 
 [^c15281331]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
 
-[^key-9de0ccf0cfcbdbfeff013d5b889294b6]: Textual amendment: Sch. 4 Pt. 4 para. 3 repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 91(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/91/2), [128(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)
+[^c-9de0ccf0cfcbdbfeff013d5b889294b6]: Textual amendment: Sch. 4 Pt. 4 para. 3 repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 91(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/91/2), [128(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)

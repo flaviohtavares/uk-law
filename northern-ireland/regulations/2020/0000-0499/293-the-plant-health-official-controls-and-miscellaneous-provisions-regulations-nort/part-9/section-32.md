@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Removal of ISPM 15 mark from wood packaging material[^key-1cac62e86da727eb063e17dd9415d32f]
+## 32. Removal of ISPM 15 mark from wood packaging material[^c-1cac62e86da727eb063e17dd9415d32f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a plant health inspector knows, or has reasonable grounds for suspecting, 
 
 ## Annotations
 
-[^key-1cac62e86da727eb063e17dd9415d32f]: Commencement: Reg. 32 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-1cac62e86da727eb063e17dd9415d32f]: Commencement: Reg. 32 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

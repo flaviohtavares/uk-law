@@ -37,61 +37,61 @@ of 10 July 2014
 
 concerning restrictive measures in view of the situation in Sudan and repealing Regulations (EC) No 131/2004 and (EC) No 1184/2005 (revoked)
 
-[^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 17.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 19.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 19.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 20.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 20.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 21.** [^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 21.** [^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef51a7a8e5872dcee6c735425934633b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
 ## ANNEX I — LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 5
 
-[^key-ef51a7a8e5872dcee6c735425934633b]...
+[^c-ef51a7a8e5872dcee6c735425934633b]...
 
-## ANNEX II — WEBSITES FOR INFORMATION ON THE COMPETENT AUTHORITIES AND ADDRESS FOR NOTIFICATION TO THE EUROPEAN COMMISSION[^key-ef51a7a8e5872dcee6c735425934633b]
+## ANNEX II — WEBSITES FOR INFORMATION ON THE COMPETENT AUTHORITIES AND ADDRESS FOR NOTIFICATION TO THE EUROPEAN COMMISSION[^c-ef51a7a8e5872dcee6c735425934633b]
 
 BELGIUM
 
@@ -219,4 +219,4 @@ E-mail: relex-sanctions@ec.europa.eu
 
 ## Annotations
 
-[^key-ef51a7a8e5872dcee6c735425934633b]: Textual amendment: Regulation revoked (31.12.2020) by [The Sudan (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/753)](https://www.legislation.gov.uk/uksi/2020/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/753/regulation/1/2), [68(1)](https://www.legislation.gov.uk/uksi/2020/753/regulation/68/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-ef51a7a8e5872dcee6c735425934633b]: Textual amendment: Regulation revoked (31.12.2020) by [The Sudan (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/753)](https://www.legislation.gov.uk/uksi/2020/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/753/regulation/1/2), [68(1)](https://www.legislation.gov.uk/uksi/2020/753/regulation/68/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

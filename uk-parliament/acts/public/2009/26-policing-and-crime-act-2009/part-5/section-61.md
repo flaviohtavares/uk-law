@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Payment of compensation[^key-9953b6b5aaf43047b462c93b6d3a8fca]
+## 61. Payment of compensation[^c-9953b6b5aaf43047b462c93b6d3a8fca]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9953b6b5aaf43047b462c93b6d3a8fca]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2009/26/section/61) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(g)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/g)
+[^c-9953b6b5aaf43047b462c93b6d3a8fca]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2009/26/section/61) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(g)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/g)

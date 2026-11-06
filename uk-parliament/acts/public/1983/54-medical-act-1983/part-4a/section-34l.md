@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34L. Award and withdrawal of a Certificate of Completion of Training[^key-9a57fee46fdfa0d193ec4e7f087225b8]
+## 34L. Award and withdrawal of a Certificate of Completion of Training[^c-9a57fee46fdfa0d193ec4e7f087225b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (2) The Registrar may only award a CCT in general practice or in a recognised specialty.
 
-(3)[^key-82a3a3c0f25fbb82b52c7d01974ac6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-82a3a3c0f25fbb82b52c7d01974ac6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A CCT shall state—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a57fee46fdfa0d193ec4e7f087225b8]: Textual amendment: Pt. 4A inserted (11.2.2010 for specified purposes, 1.4.2010 in so far as not already in force) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/234/schedule/1/paragraph/10); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-9a57fee46fdfa0d193ec4e7f087225b8]: Textual amendment: Pt. 4A inserted (11.2.2010 for specified purposes, 1.4.2010 in so far as not already in force) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/234/schedule/1/paragraph/10); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
 
-[^key-82a3a3c0f25fbb82b52c7d01974ac6d8]: Textual amendment: [S. 34L(3)](https://www.legislation.gov.uk/ukpga/1983/54/section/34L/3) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/23) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82a3a3c0f25fbb82b52c7d01974ac6d8]: Textual amendment: [S. 34L(3)](https://www.legislation.gov.uk/ukpga/1983/54/section/34L/3) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/23) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

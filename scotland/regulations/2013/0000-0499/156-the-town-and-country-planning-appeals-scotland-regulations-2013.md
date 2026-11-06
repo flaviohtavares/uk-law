@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-bdf829758ad19e8d14a74c983dc2dc3e]
+### 1. Citation, commencement and application[^c-bdf829758ad19e8d14a74c983dc2dc3e]
 
 (1) These Regulations may be cited as the Town and Country Planning (Appeals) (Scotland) Regulations 2013 and come into force on 30th June 2013.
 
@@ -104,27 +104,27 @@ where notice of appeal is given to the Scottish Ministers on or after 30th June 
 
 (9) These Regulations apply in accordance with regulation 25 to applications made to the Scottish Ministers under section 242A of the Act (urgent crown development: application) on or after 30th June 2013.
 
-(9A)[^key-0f4c80be8ddcb96a52fd39d60f03d6e0] These Regulations apply in accordance with regulation 18A(7) to an appeal under section 5B (appeal against listing of buildings) of the Listed Buildings Act.
+(9A)[^c-0f4c80be8ddcb96a52fd39d60f03d6e0] These Regulations apply in accordance with regulation 18A(7) to an appeal under section 5B (appeal against listing of buildings) of the Listed Buildings Act.
 
 (10) These Regulations apply as specified in Schedule 4 where—
 
 - (a) a security direction has been given in relation to an application or appeal; or
 - (b) a request for a security direction has been made to the Scottish Ministers or the Secretary of State but no determination as to whether or not to give a direction has been made.
 
-### 2. Interpretation[^key-0af59a42cbc3a19978961335bd3b5349]
+### 2. Interpretation[^c-0af59a42cbc3a19978961335bd3b5349]
 
 In these Regulations—
 
 - “the 1984 Regulations” means the Town and Country Planning (Control of Advertisements) (Scotland) Regulations 1984[^f00003];
 - “the Act” means the Town and Country Planning (Scotland) Act 1997;
-- “appellant” means a person who gives notice of appeal under section 47, 75B, 75F, 130, 154, 169 or 180 of the Act or section 5B, 19[^key-a6d47e6338335e287fe8993fff3a1b20] or 35 of the Listed Buildings Act;
+- “appellant” means a person who gives notice of appeal under section 47, 75B, 75F, 130, 154, 169 or 180 of the Act or section 5B, 19[^c-a6d47e6338335e287fe8993fff3a1b20] or 35 of the Listed Buildings Act;
 - “application” means, in the case of an appeal, the application to which the appeal relates;
-- “[^key-a54064b43b50313731843683e594d4a7]**application for multi-stage consent**” has the same meaning as in regulation 2(1) of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017[^key-558fc4fa12674254bd63722306bde2c2];
+- “[^c-a54064b43b50313731843683e594d4a7]**application for multi-stage consent**” has the same meaning as in regulation 2(1) of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017[^c-558fc4fa12674254bd63722306bde2c2];
 - “appointed person” subject to regulations 24 to 26, means a person appointed under paragraph 1 of Schedule 4 to the Act or paragraph 1 of Schedule 3 to the Listed Buildings Act to determine an appeal instead of the Scottish Ministers;
 - “assessor” has the meaning given in regulation 30(1);
 - “community body” means the community body (within the meaning of section 75D(2) of the Act) which entered into the good neighbour agreement to which the application relates;
 - “decision notice” means the notice given by the planning authority of their decision on the application to which the appeal relates;
-- “[^key-20ccbdeab7cd8c5d8e32954d5b8e2927]**EIA development**” and “**EIA report**” have the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017;
+- “[^c-20ccbdeab7cd8c5d8e32954d5b8e2927]**EIA development**” and “**EIA report**” have the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017;
 - “**environmental statement**” has the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 as those Regulations had effect on 15th May 2017;
 - “hearing session” means a hearing held or to be held into matters specified in a procedure notice given under rule 1(1) of the Hearing Session Rules;
 - “Hearing Session Rules” means the rules set out in Schedule 1;
@@ -150,7 +150,7 @@ In these Regulations—
     - (i) the community body;
     - (ii) the owner of the land to which the obligation in respect of which the appeal is made relates; and
     - (iii) any other person against whom the obligation is enforceable;
-  - (da) in the case of an appeal under section 5B of the Listed Buildings Act any person from whom Historic Environment Scotland received representations (which were not subsequently withdrawn) in connection with the decision to which the appeal relates;[^key-8c5687a87886fa8876b63e92be4deb53]
+  - (da) in the case of an appeal under section 5B of the Listed Buildings Act any person from whom Historic Environment Scotland received representations (which were not subsequently withdrawn) in connection with the decision to which the appeal relates;[^c-8c5687a87886fa8876b63e92be4deb53]
   - (f) in the case of an appeal under section 130, 169 or 180 of the Act or section 35 of the Listed Buildings Act, any person given notice of the appeal in accordance with regulation 16(1) and from whom representations were received (and not subsequently withdrawn); and
   - (f) in the case of an appeal under section 18 of the Listed Buildings Act—
     - (i) any person from whom the planning authority received representations (which were not subsequently withdrawn) in connection with the application; and
@@ -178,10 +178,10 @@ In these Regulations—
   - (a) section 265A(3) of the Act; or
   - (b) paragraph 6(7) of Schedule 3 to the Listed Buildings Act;
 - “specified matters” are in relation to a request for further written representations or information under regulation 11 or to a particular hearing session or inquiry session, those matters which are set out in the procedure notice;
-- “validation date”—[^key-148b8c1b122e17909b5e01048975f92c]
+- “validation date”—[^c-148b8c1b122e17909b5e01048975f92c]
   - (a) in the case of an application for planning permission for EIA development or an application for multi-stage consent for EIA development, means the latest of—
     - (i) the date on which the application is taken to have been made in terms of regulation 14 of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013;
-    - (ii) the date on which an EIA report or environmental statement, as the case may be,[^key-9120dc3f9f57b01c4635879c2f9924a8] is submitted in respect of the application; or
+    - (ii) the date on which an EIA report or environmental statement, as the case may be,[^c-9120dc3f9f57b01c4635879c2f9924a8] is submitted in respect of the application; or
     - (iii) where the Cairngorms National Park Authority has issued a direction in exercise of its powers under article 7(3) of the Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 , the date on which that direction was issued; and
   - (b) in any other case, means the later of—
     - (i) the date on which the application is taken to have been made in terms of regulation 14 of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013; or
@@ -189,7 +189,7 @@ In these Regulations—
 
 ## PART 2 — Appeals under section 47 of the Act
 
-### 3. Notice of appeal[^key-8772f72c501de11bb62bb20296aeec8e]
+### 3. Notice of appeal[^c-8772f72c501de11bb62bb20296aeec8e]
 
 (1) An appeal to the Scottish Ministers under section 47 of the Act is to be made by giving notice in writing in accordance with this regulation.
 
@@ -199,8 +199,8 @@ In these Regulations—
   - (i) EIA Development; or
   - (ii) development within the category of national developments or major developments,
 
-  the period of four months after the validation date; [^key-d95c151e9c1292721c2fdf685dec632c]...
-- (aa)[^key-314e5ea2ccf3cfa014f31aec0c94801b] in the case of an application for multi-stage consent for EIA development, the period of four months after the validation date; and
+  the period of four months after the validation date; [^c-d95c151e9c1292721c2fdf685dec632c]...
+- (aa)[^c-314e5ea2ccf3cfa014f31aec0c94801b] in the case of an application for multi-stage consent for EIA development, the period of four months after the validation date; and
 - (b) in any other case, the period of two months after the validation date.
 
 (3) The notice of appeal must be served on the Scottish Ministers within the period of three months beginning with, in the case of an appeal under—
@@ -223,7 +223,7 @@ In these Regulations—
 
 (6) In addition to matters set out in the notice of appeal and documents which accompany the notice of appeal, the appellant may raise matters and submit further documents, materials or evidence only in accordance with and to the extent permitted by regulations 4, 5 and 11, the Hearing Session Rules and the Inquiry Session Rules.
 
-### 4. Intimation to planning authority and planning authority’s response[^key-fc6ebf2aa734a05b5f28f60397b623a9]
+### 4. Intimation to planning authority and planning authority’s response[^c-fc6ebf2aa734a05b5f28f60397b623a9]
 
 (1) The appellant must at the same time as giving the notice of appeal to the Scottish Ministers send to the planning authority—
 
@@ -243,7 +243,7 @@ In these Regulations—
 - (a) comments on any matters raised in the planning authority’s response which had not been raised in the decision notice; and
 - (b) any documents, materials or evidence on which the appellant intends to rely in relation to such comments.
 
-### 5. Notification to interested parties[^key-c453882e4c5d796dda4bce8a17616f33]
+### 5. Notification to interested parties[^c-c453882e4c5d796dda4bce8a17616f33]
 
 (1) The planning authority must not later than 14 days following notification of the appeal under regulation 4(1) give notice of the appeal to each interested party.
 
@@ -267,7 +267,7 @@ In these Regulations—
 
 (6) The appellant and the planning authority may, on or before that date, make comments on such representations to the Scottish Ministers.
 
-### 6. Publication of appeal documents[^key-bae2b97ea52c9b625fdef0b7b2515dcb]
+### 6. Publication of appeal documents[^c-bae2b97ea52c9b625fdef0b7b2515dcb]
 
 (1) The planning authority must, in relation to an appeal, make copies of—
 
@@ -285,11 +285,11 @@ available for inspection at an office of the planning authority until such time 
 
 ## PART 3 — Procedure for determination
 
-### 7. Determination without further procedure[^key-490e862808926ff5a7626c080ecb18ed]
+### 7. Determination without further procedure[^c-490e862808926ff5a7626c080ecb18ed]
 
 Where the appointed person considers that no further representations are or information is required to enable the appeal to be determined, the appointed person may determine the appeal without further procedure.
 
-### 8. Opt-in notice to interested parties[^key-57c9fd170dde76a781b3658bb36fc808]
+### 8. Opt-in notice to interested parties[^c-57c9fd170dde76a781b3658bb36fc808]
 
 (1) Where the appointed person does not determine the appeal without further procedure, the appointed person may (but is not required to) invite, by notice given in accordance with this regulation, any or all interested parties to confirm if they wish to participate in any further procedure.
 
@@ -303,7 +303,7 @@ Where the appointed person considers that no further representations are or info
 
 (4) In this regulation “opt-in notice” has the meaning given in paragraph (2)(a).
 
-### 9. Decision as to further procedure[^key-1c03b496927df4c646d7502f1edfb6b6]
+### 9. Decision as to further procedure[^c-1c03b496927df4c646d7502f1edfb6b6]
 
 (1) Where the appointed person does not determine the appeal without further procedure, the appointed person may determine the manner in which the appeal is to be conducted.
 
@@ -327,7 +327,7 @@ Where the appointed person considers that no further representations are or info
 
 (6) Notices given under regulation 11(1), rule 1(1) of the Hearing Session Rules or rule 1(1) of the Inquiry Session Rules may be given separately or combined into a single notice.
 
-### 10. Pre-examination meetings[^key-7aa65a14c0651944486da7d288d3a5ad]
+### 10. Pre-examination meetings[^c-7aa65a14c0651944486da7d288d3a5ad]
 
 (1) The appointed person may hold a meeting (“a pre-examination meeting”) to consider the manner in which the appeal or any stage of the appeal is to be conducted with a view to securing that the appeal or any stage of the appeal is conducted efficiently and expeditiously.
 
@@ -340,7 +340,7 @@ Where the appointed person considers that no further representations are or info
 
 (4) The appointed person is to determine the matters to be discussed and the procedure to be followed at the pre-examination meeting.
 
-### 11. Written submissions[^key-4b9c474e75e3cafd15c175d930cda795]
+### 11. Written submissions[^c-4b9c474e75e3cafd15c175d930cda795]
 
 (1) Where the appointed person has determined that further representations should be made or further information should be provided by means of written submissions, the appointed person may request such further representations or information and is to do so by giving written notice to that effect to—
 
@@ -364,7 +364,7 @@ Where the appointed person considers that no further representations are or info
 
 (6) In this regulation “procedure notice response” has the meaning given in paragraph (3).
 
-### 12. Site inspections[^key-2d7ab8d3d8a057f38952fad23e533751]
+### 12. Site inspections[^c-2d7ab8d3d8a057f38952fad23e533751]
 
 (1) The appointed person may at any time make—
 
@@ -381,7 +381,7 @@ Where the appointed person considers that no further representations are or info
 
 (4) The appointed person is not bound to defer an inspection if any person to whom notice was given under paragraph (3) is not present at the time appointed.
 
-### 13. New evidence[^key-b8c617aa9e9343272059435633e5a11c]
+### 13. New evidence[^c-b8c617aa9e9343272059435633e5a11c]
 
 (1) If, after the conclusion of any further procedure conducted by virtue of regulation 9, the appointed person proposes to take into consideration any new evidence which is material to the determination of the appeal, the appointed person must not reach a decision on the appeal without affording the appellant, the planning authority and any other relevant party an opportunity of making representations on such new evidence.
 
@@ -393,7 +393,7 @@ Where the appointed person considers that no further representations are or info
 
 ## PART 4 — Appeals under sections 130(2), 169(1) and 180(2) of the Act and section 35(2) of the Listed Buildings Act
 
-### 14. Statement of appeal[^key-614f21ca907ca6936add876c58e47f2e]
+### 14. Statement of appeal[^c-614f21ca907ca6936add876c58e47f2e]
 
 (1) The appellant must at the same time as giving notice of appeal to the Scottish Ministers under section 130(2), 169(2) or 180(2) of the Act or section 35(2) of the Listed Buildings Act, as the case may be, submit a statement (“statement of appeal”) on a form obtained from the Scottish Ministers.
 
@@ -418,7 +418,7 @@ Where the appointed person considers that no further representations are or info
 
 (7) These Regulations apply to an appeal under section 130 as applied by regulation 25 of the 1984 Regulations as they apply to an appeal under section 130 of the Act as if references to an enforcement notice were references to an enforcement notice served under regulation 24 of the 1984 Regulations.
 
-### 15. Intimation of appeal to planning authority and planning authority’s response[^key-0974fee0c8c54976cce4f6e7cc348255]
+### 15. Intimation of appeal to planning authority and planning authority’s response[^c-0974fee0c8c54976cce4f6e7cc348255]
 
 (1) The appellant must at the same time as giving the notice of appeal to the Scottish Ministers send to the planning authority a copy of—
 
@@ -442,7 +442,7 @@ Where the appointed person considers that no further representations are or info
 
 available for inspection at an office of the planning authority and to afford any interested party who so requests an opportunity to inspect and, where practicable, to take copies of any such documents (or any part thereof).
 
-### 16. Notification to other parties[^key-2cc56d2b50c355526ebe518c0a109f05]
+### 16. Notification to other parties[^c-2cc56d2b50c355526ebe518c0a109f05]
 
 (1) The planning authority must not later than 14 days following notification of the appeal under regulation 14 give notice of the appeal to each person (other than the appellant) on whom the enforcement notice, listed building enforcement notice or the notice under section 168 or 179 of the Act, as the case may be, was served.
 
@@ -457,7 +457,7 @@ available for inspection at an office of the planning authority and to afford an
 
 ## PART 5 — Appeals under section 18 of the Listed Buildings Act
 
-### 17. Notice of appeal[^key-08aeaae8c35cdb01a4552b658fa73824]
+### 17. Notice of appeal[^c-08aeaae8c35cdb01a4552b658fa73824]
 
 (1) An appeal to the Scottish Ministers under—
 
@@ -492,7 +492,7 @@ is to be made by giving notice in writing in accordance with this regulation.
 
 (6) An appeal under section 18 of the Listed Buildings Act is not to be entertained by the Scottish Ministers unless it is accompanied by a certificate required under regulation 18.
 
-### 18. Notice to owners[^key-0f7bd488968b12528071961cee181ef7]
+### 18. Notice to owners[^c-0f7bd488968b12528071961cee181ef7]
 
 (1) The appellant is to give notice in the form set out in Part 1 of Schedule 3 to any person (other than the appellant) who at the beginning of the prescribed period is the owner of the building to which the appeal relates.
 
@@ -518,7 +518,7 @@ is to be made by giving notice in writing in accordance with this regulation.
 
 (6) In this regulation “prescribed period” means the period of 21 days ending with the date on which notice of appeal is given to the Scottish Ministers under section 19(1) of the Listed Buildings Act.
 
-## PART 5A — Appeals under section 5B of the Listed Buildings Act[^key-6a6c16907cade0dae523c34eb05a73e6]
+## PART 5A — Appeals under section 5B of the Listed Buildings Act[^c-6a6c16907cade0dae523c34eb05a73e6]
 
 ### 18A. Appeals under section 5B of the Listed Buildings Act
 
@@ -598,7 +598,7 @@ available for inspection at an office of Historic Environment Scotland until suc
 
 ## PART 6 — Appeals in relation to the display of advertisements
 
-### 19. Appeals in relation to consent for the display of advertisements[^key-cb3edec4d236142629deafe5f4d463c6]
+### 19. Appeals in relation to consent for the display of advertisements[^c-cb3edec4d236142629deafe5f4d463c6]
 
 (1) Subject to regulation 20, this regulation and the provisions of these Regulations specified in paragraph (2) apply to an appeal under section 47 of the Act (as applied by regulation 21 of the 1984 Regulations) in relation to—
 
@@ -625,7 +625,7 @@ subject to the modifications specified in paragraph (3).
   - (i) the references to the development in paragraphs (2)(b) and (3)(b) are references to the advertisement; and
   - (ii) the reference in paragraph (3)(c) to land to which the development relates is a reference to the site where the advertisement is to be displayed.
 
-### 20. Appeals in relation to discontinuance notices[^key-b88e7a152836aaff7eac099c39aefff4]
+### 20. Appeals in relation to discontinuance notices[^c-b88e7a152836aaff7eac099c39aefff4]
 
 (1) This regulation and the provisions of these Regulations specified in paragraph (8) apply to an appeal under section 47 of the Act (as applied by regulation 21 of the 1984 Regulations) in relation to a discontinuance notice subject to the modifications specified in paragraph (9).
 
@@ -671,7 +671,7 @@ subject to the modifications specified in paragraph (3).
 
 ## PART 7 — Appeals under sections 75B, 75F and 154 of the Act
 
-### 21. Appeals under section 75B of the Act[^key-2e9d7526f33ba43720990f17fbe83a52]
+### 21. Appeals under section 75B of the Act[^c-2e9d7526f33ba43720990f17fbe83a52]
 
 (1) An appeal to the Scottish Ministers under section 75B(1) of the Act (appeals against refusal or failure to agree to modify or discharge planning obligations) is to be made by giving notice in writing in accordance with this regulation.
 
@@ -694,7 +694,7 @@ subject to the modifications specified in paragraph (3).
 - (a) regulation 3(4)(e) applies as if the reference to section 47(1) of the Act is a reference to section 75B(1)(b) of the Act; and
 - (b) regulation 5(3)(b) applies as if the reference to development is a reference to the planning obligation and the relevant instrument within which it is contained.
 
-### 22. Appeals under section 75F of the Act[^key-3107141603db4baf0d00fa57b11d2ad7]
+### 22. Appeals under section 75F of the Act[^c-3107141603db4baf0d00fa57b11d2ad7]
 
 (1) An appeal to the Scottish Ministers under section 75F(1) of the Act (appeals against refusal or failure to agree to modify or discharge good neighbour agreements) is to be made by giving notice in writing in accordance with this regulation.
 
@@ -717,7 +717,7 @@ subject to the modifications specified in paragraph (3).
 - (a) regulation 3(4)(e) applies as if the reference to section 47(1) of the Act is a reference to section 75F(1)(b) of the Act; and
 - (b) regulation 5(3)(b) applies as if the reference to development is a reference to the obligation and the good neighbour agreement within which it is contained.
 
-### 23. Appeals under section 154 of the Act[^key-4bec3e07370b4619401fe6c283428d71]
+### 23. Appeals under section 154 of the Act[^c-4bec3e07370b4619401fe6c283428d71]
 
 (1) An appeal to the Scottish Ministers under section 154(1) of the Act (appeals against refusal or failure to give decision on application for certificate of lawfulness of use or development) is to be made by giving notice in writing in accordance with this regulation.
 
@@ -743,7 +743,7 @@ subject to the modifications specified in paragraph (3).
 
 ## PART 8 — Called-in applications and applications for urgent Crown development
 
-### 24. Called-in applications[^key-155ff599352a6ee3d6055b22c6730c44]
+### 24. Called-in applications[^c-155ff599352a6ee3d6055b22c6730c44]
 
 (1) Parts 1, 3, 9 and 10, the Hearing Session Rules and the Inquiry Session Rules apply to an application referred to the Scottish Ministers following a direction under section 46(1) of the Act (call-in of applications by Scottish Ministers) or section 11(1) of the Listed Buildings Act (reference of certain applications to Scottish Ministers) with the modifications specified in paragraph (2).
 
@@ -759,13 +759,13 @@ subject to the modifications specified in paragraph (3).
   - (ii) under section 46(1) of the Act in relation to an application made under section 75A(2) of the Act, regulation 29 applies as in the case of an appeal under section 75B of the Act; or
   - (iii) under section 11 of the Listed Buildings Act, regulation 29 applies as in the case of an appeal under section 18 of the Listed Buildings Act.
 
-### 25. Applications for urgent Crown development[^key-2cd1be81ac171b4c40cbaeea637f1ee4]
+### 25. Applications for urgent Crown development[^c-2cd1be81ac171b4c40cbaeea637f1ee4]
 
 Parts 1, 3 and 9 (other than regulation 29), the Hearing Session Rules and the Inquiry Session Rules apply to an application for planning permission made to the Scottish Ministers by virtue of section 242A of the Act (urgent Crown development) with the modifications specified in regulation 24(2)(a) to (c).
 
 ## PART 9 — General
 
-### 26. Non-delegated appeals[^key-6f15175f708dfc00e27fdd7a9cbbd919]
+### 26. Non-delegated appeals[^c-6f15175f708dfc00e27fdd7a9cbbd919]
 
 (1) Parts 1, 3, 9 and 10, the Hearing Session Rules and the Inquiry Session Rules apply to a non-delegated appeal as they apply to a delegated appeal with the modifications specified in regulation 24(2)(b) and (c).
 
@@ -780,7 +780,7 @@ Parts 1, 3 and 9 (other than regulation 29), the Hearing Session Rules and the I
 
     under paragraph 1(2) of Schedule 4 to the Act or paragraph 1(2) of Schedule 3 to the Listed Buildings Act.
 
-### 27. National security[^key-6d0038d23a5df8ed19f831e9e0f27d4c]
+### 27. National security[^c-6d0038d23a5df8ed19f831e9e0f27d4c]
 
 The validity of an appeal is not affected by failure to disclose information as to—
 
@@ -789,7 +789,7 @@ The validity of an appeal is not affected by failure to disclose information as 
 
 where the notice of appeal is accompanied by a written statement from the appellant that, in the opinion of the appellant, the information relates to the matters mentioned in paragraph (a) or (b) above, and that public disclosure of that information would be contrary to the national interest.
 
-### 28. Further copies of documents etc.[^key-42f766370d27288674601db34bd6dfa4]
+### 28. Further copies of documents etc.[^c-42f766370d27288674601db34bd6dfa4]
 
 (1) The appointed person may require any person who has submitted documents, materials or evidence under these Regulations in connection with the appeal to—
 
@@ -798,7 +798,7 @@ where the notice of appeal is accompanied by a written statement from the appell
 
 (2) The appointed person may require the planning authority to make copies of such documents, materials or evidence as the appointed person may specify available for inspection at an office of that planning authority until such time as the appeal is determined and to afford to any person who so requests a reasonable opportunity to inspect and, where practicable, take copies of any such documents, materials or evidence (or any part thereof) which, or a copy of which, has been sent to the planning authority in accordance with this regulation.
 
-### 29. Compliance with notification and consultation procedures[^key-8b30e345977640cd605c5ad8868787d1]
+### 29. Compliance with notification and consultation procedures[^c-8b30e345977640cd605c5ad8868787d1]
 
 (1) The appointed person must, to the extent not already done so by the planning authority—
 
@@ -809,27 +809,27 @@ where the notice of appeal is accompanied by a written statement from the appell
   - (iv) regulation 25 (consultation by the planning authority),
 
   of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013[^f00012] before determining the appeal or the application, as the case may be;
-- (b) in the case of an appeal under section 18 of the Listed Buildings Act, comply with regulation 8[^key-34b3055835bdd68279bbd94342022aea] (advertisement of applications) of the Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015[^key-bc54018b308431d508d00edae1268244] before determining the appeal;
+- (b) in the case of an appeal under section 18 of the Listed Buildings Act, comply with regulation 8[^c-34b3055835bdd68279bbd94342022aea] (advertisement of applications) of the Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015[^c-bc54018b308431d508d00edae1268244] before determining the appeal;
 - (c) in the case of an appeal under section 75B of the Act, comply with regulation 5 (notification of application) of the Town and Country Planning (Modification and Discharge of Planning Obligations) (Scotland) Regulations 2010[^f00014] before determining the appeal;
 - (d) in the case of an appeal under section 75F of the Act, comply with regulation 5 (notification of application) of the Town and Country Planning (Modification and Discharge of Good Neighbour Agreement) (Scotland) Regulations 2010[^f00015] before determining the appeal; and
 - (e) in the case of an appeal under section 47 of the Act as applied by regulation 21 of the 1984 Regulations, comply with regulation 16 (duty to consult with respect to an application) of the 1984 Regulations before determining the appeal.
 
 (2) Subject to regulation 8(3), where the appointed person notifies or consults with any person in accordance with paragraph (1) references in these Regulations (other than regulation 5) to an interested party includes any such person from whom the appointed person received representations (which are not subsequently withdrawn) in connection with the appeal.
 
-### 30. Appointment of assessor[^key-793248efb2dce4b024a7ad55622cead8]
+### 30. Appointment of assessor[^c-793248efb2dce4b024a7ad55622cead8]
 
 (1) The Scottish Ministers may appoint a person to sit with the appointed person at a hearing session or inquiry session to advise the appointed person on such matters arising as the Scottish Ministers may specify (“an assessor”) and where they do so they are to notify every person entitled to appear at the inquiry session or hearing session, as the case may be, of the name of the assessor and of the matters on which the assessor is to advise the appointed person.
 
 (2) Where an assessor has been appointed, the assessor may (and if so required by the appointed person, must), after the close of the hearing session or inquiry session, make a report in writing to the appointed person in respect of the matters on which the assessor was appointed to advise.
 
-### 31. Decision notice[^key-7cf1103e4914f3fca2bd8a89d1bcbf1a]
+### 31. Decision notice[^c-7cf1103e4914f3fca2bd8a89d1bcbf1a]
 
 The appointed person must—
 
 - (a) give notice of the decision to the appellant and to the planning authority; and
 - (b) notify every person who has made (and did not subsequently withdraw) representations in respect of the appeal that a decision on the appeal has been made and where a copy of the notice of the decision is available for inspection.
 
-### 32. Electronic communications[^key-518649ed8c5d6b1bcfc64c1fb11a7487]
+### 32. Electronic communications[^c-518649ed8c5d6b1bcfc64c1fb11a7487]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
@@ -860,7 +860,7 @@ The appointed person must—
 
 ## PART 10 — Saving and transitional provisions and revocations
 
-### 33. Time within which appeal must be made[^key-864f355b42080702cf4c82f1d5960a53]
+### 33. Time within which appeal must be made[^c-864f355b42080702cf4c82f1d5960a53]
 
 (1) In the case of an appeal under section 47(1) or (2) of the Act as applied by regulation 21 of the 1984 Regulations, where the relevant date is before 30th June 2013 the notice of appeal must be served on the Scottish Ministers within a period of six months from the relevant date.
 
@@ -869,7 +869,7 @@ The appointed person must—
 - (a) section 47(1) of the Act as applied by regulation 21 of the 1984 Regulations, the date of the decision notice; and
 - (b) section 47(2) of the Act as applied by regulation 21 of the 1984 Regulations, the date on which the applicant first becomes entitled to appeal under that subsection.
 
-### 34. Revocations, saving and transitional provisions[^key-2bd71b20f427af4baf7c05fe0c8fa1ed]
+### 34. Revocations, saving and transitional provisions[^c-2bd71b20f427af4baf7c05fe0c8fa1ed]
 
 (1) Subject to paragraph (2), the provisions specified in column 1 of the Table in Schedule 5 are revoked to the extent specified in Column 3 of that Table.
 
@@ -892,7 +892,7 @@ Edinburgh
 
 Regulation 2
 
-### 1. Notice of hearing session and specified matters[^key-d7cf18083bbef724d05fa0af5e841018]
+### 1. Notice of hearing session and specified matters[^c-d7cf18083bbef724d05fa0af5e841018]
 
 (1) Where the appointed person has determined that a hearing session should be held the appointed person is to give written notice to that effect to—
 
@@ -907,7 +907,7 @@ Regulation 2
 
 (4) A person given notice under paragraph (1) and who intends to appear at the hearing session must within 14 days of the date of such notice inform the appointed person in writing of that intention.
 
-### 2. Appearances at hearing session[^key-e6838d7407aff478cbd394a98ca5c8cf]
+### 2. Appearances at hearing session[^c-e6838d7407aff478cbd394a98ca5c8cf]
 
 The persons entitled to appear at a hearing session are—
 
@@ -915,13 +915,13 @@ The persons entitled to appear at a hearing session are—
 - (b) the planning authority; and
 - (c) any other person who, in response to a procedure notice, has informed the appointed person of their intention to appear at the hearing session in accordance with rule 1(4).
 
-### 3. Date and notification of hearing session[^key-0218552e54d9be6363bd1309896282d2]
+### 3. Date and notification of hearing session[^c-0218552e54d9be6363bd1309896282d2]
 
 (1) The date, time and place at which the hearing session is to be held is to be determined (and may subsequently be varied) by the appointed person.
 
 (2) The appointed person is to give to those persons entitled to appear at the hearing session such notice of the date, time and place fixed for the holding of a hearing session (and any subsequent variation thereof) as may appear to the appointed person to be reasonable in the circumstances.
 
-### 4. Service of hearing statements and documents[^key-bc7bf9b745734bf670a811725bb5ee9a]
+### 4. Service of hearing statements and documents[^c-bc7bf9b745734bf670a811725bb5ee9a]
 
 (1) Where required to do so by notice given by the appointed person, a person entitled to appear at the hearing session must, by such date as is specified in the notice, send to—
 
@@ -930,7 +930,7 @@ The persons entitled to appear at a hearing session are—
   - (ii) where that person intends to refer to or rely on any documents when presenting their case a copy of every document (or the relevant part of a document) on the list of such documents comprised in that hearing statement; and
 - (b) the appellant and the planning authority and to such other persons entitled to appear at the hearing session as the appointed person may specify in such notice—
   - (i) a hearing statement; and
-  - (ii) where that person intends to refer to or rely on any documents when presenting their case a copy of every document (or the relevant part of a document) on the list comprised in that hearing statement which is not already available for inspection under regulation 6, 15(4) , 18D[^key-6ba6e3a9e491240e1bdbc28909d79c4b] or 28(2) or paragraph (2) of this rule.
+  - (ii) where that person intends to refer to or rely on any documents when presenting their case a copy of every document (or the relevant part of a document) on the list comprised in that hearing statement which is not already available for inspection under regulation 6, 15(4) , 18D[^c-6ba6e3a9e491240e1bdbc28909d79c4b] or 28(2) or paragraph (2) of this rule.
 
 (2) The planning authority are, until such time as the appeal is determined, to afford to any person who so requests a reasonable opportunity to inspect and, where practicable, take copies of any hearing statement or other document (or any part thereof) which, or a copy of which, has been sent to them in accordance with this rule.
 
@@ -947,7 +947,7 @@ The persons entitled to appear at a hearing session are—
 - (b) a list of documents (if any) which the person putting forward such case intends to refer to or rely on; and
 - (c) a list of any other persons who are to speak at the hearing session in respect of such case, any matters which such persons are particularly to address and any relevant qualifications of such persons to do so.
 
-### 5. Procedure at hearing[^key-50994dc24d19466eb68257ab87d0853a]
+### 5. Procedure at hearing[^c-50994dc24d19466eb68257ab87d0853a]
 
 (1) Except as otherwise provided in these Hearing Session Rules, the procedure at a hearing session shall be as the appointed person determines.
 
@@ -967,7 +967,7 @@ The persons entitled to appear at a hearing session are—
 
 Regulation 2
 
-### 1. Notice of inquiry session and specified matters[^key-453d0b365ac6a3b80b6fe26fe342c4a6]
+### 1. Notice of inquiry session and specified matters[^c-453d0b365ac6a3b80b6fe26fe342c4a6]
 
 (1) Where the appointed person has determined that an inquiry session is to be held the appointed person is to give written notice to that effect to—
 
@@ -982,7 +982,7 @@ Regulation 2
 
 (4) A person given notice under paragraph (1) and who intends to appear at the inquiry session must within 14 days of date of such notice inform the appointed person in writing of that intention.
 
-### 2. Appearances at inquiry session[^key-4297dbda29dba74a3d7bca260d7fac6d]
+### 2. Appearances at inquiry session[^c-4297dbda29dba74a3d7bca260d7fac6d]
 
 The persons entitled to appear at the inquiry session are—
 
@@ -990,7 +990,7 @@ The persons entitled to appear at the inquiry session are—
 - (b) the planning authority; and
 - (c) any other person who, in a response to a procedure notice, has informed the appointed person of their intention to appear at the inquiry session in accordance with rule 1(4).
 
-### 3. Date and notification of inquiry[^key-4099618c0dcd449346abd5e28b347c6b]
+### 3. Date and notification of inquiry[^c-4099618c0dcd449346abd5e28b347c6b]
 
 (1) The date, time and place for the holding of the inquiry session is to be fixed (and may subsequently be varied) by the appointed person.
 
@@ -1005,7 +1005,7 @@ The persons entitled to appear at the inquiry session are—
   such notices of the inquiry session as the appointed person may direct; or
 - (b) to serve notice of the inquiry session in such form and on such persons or classes of persons as the appointed person may specify.
 
-### 4. Service of inquiry statements, documents and precognitions[^key-3424430f5c6afb7d92b3d5d5a0623799]
+### 4. Service of inquiry statements, documents and precognitions[^c-3424430f5c6afb7d92b3d5d5a0623799]
 
 (1) Where required to do so by notice given by the appointed person, a person entitled to appear at the inquiry session must, by such date as is specified in the notice, send to—
 
@@ -1013,9 +1013,9 @@ The persons entitled to appear at the inquiry session are—
   - (i) an inquiry statement;
   - (ii) a copy of every document (or the relevant part of a document) on the list of such documents comprised in that inquiry statement; and
   - (iii) a precognition in respect of any evidence to be given to the inquiry session by a person included on the list of witnesses comprised in that inquiry statement; and
-- (b) the appellant and the planning authority and to such other persons entitled to appear at the inquiry[^key-1ee923f02080fe722bf2e3c2745eff26] session as the appointed person may specify in such notice—
+- (b) the appellant and the planning authority and to such other persons entitled to appear at the inquiry[^c-1ee923f02080fe722bf2e3c2745eff26] session as the appointed person may specify in such notice—
   - (i) an inquiry statement; and
-  - (ii) a copy of every document (or the relevant part of a document) and precognition sent to the appointed person under sub-paragraph (a)(ii) or (iii) and which is not already available for inspection under regulation 6, 15(4) , 18D[^key-e7b1fa93a72cc24a2ddf3bcacb2d753d] or 28(2) or paragraph (2) of this rule.
+  - (ii) a copy of every document (or the relevant part of a document) and precognition sent to the appointed person under sub-paragraph (a)(ii) or (iii) and which is not already available for inspection under regulation 6, 15(4) , 18D[^c-e7b1fa93a72cc24a2ddf3bcacb2d753d] or 28(2) or paragraph (2) of this rule.
 
 (2) The planning authority are, until such time as the appeal is determined, to afford to any person who so requests a reasonable opportunity to inspect and, where practicable, take copies of any inquiry statement, precognition or other document (or any part hereof) which, or a copy of which, has been sent to them in accordance with this rule.
 
@@ -1031,7 +1031,7 @@ The persons entitled to appear at the inquiry session are—
   - (c) a list of witnesses specifying the persons who are to give, or be called to give, evidence at the inquiry session, the matters in respect of which such persons are to give evidence and the relevant qualifications of such persons to do so; and
 - “precognition” means a written statement of the evidence which it is proposed that a witness will give to the inquiry session.
 
-### 5. Procedure at inquiry session[^key-63f0e741d17b422ace8e43adcfb69c76]
+### 5. Procedure at inquiry session[^c-63f0e741d17b422ace8e43adcfb69c76]
 
 (1) Except as otherwise provided in these Inquiry Session Rules, the procedure at the inquiry session shall be as the appointed person determines.
 
@@ -1062,65 +1062,65 @@ which the appointed person considers to be irrelevant or repetitious.
 
 Regulation 18(1) and (3)
 
-### PART 1 — Notice for service on owner of the building[^key-8701f4bfb145fbdb1b668687bfa7f333]
+### PART 1 — Notice for service on owner of the building[^c-8701f4bfb145fbdb1b668687bfa7f333]
 
-### PART 2 — Notice for publication in local newspaper[^key-e5a32622330f6aada27528e575fbb5de]
+### PART 2 — Notice for publication in local newspaper[^c-e5a32622330f6aada27528e575fbb5de]
 
 ## SCHEDULE 4 — Closed Evidence
 
 Regulation 1(10)
 
-### 1. Modification of provisions where security direction given[^key-5dcd43f3f300959cf8094f399985fdd1]
+### 1. Modification of provisions where security direction given[^c-5dcd43f3f300959cf8094f399985fdd1]
 
 Where a security direction has been given or a request for a security direction has been made in relation to an inquiry session these Regulations apply in accordance with paragraphs 2 to 12.
 
-**2.**[^key-99e8fbd57f4c7fcb3dbb2bd18bc41824] Where closed evidence is to be discussed at a pre-examination meeting—
+**2.**[^c-99e8fbd57f4c7fcb3dbb2bd18bc41824] Where closed evidence is to be discussed at a pre-examination meeting—
 
 - (a) only specified persons and any appointed representative may attend the pre-examination meeting while closed evidence is being discussed; and
 - (b) the notice to be given under regulation 10(3) must state that while closed evidence is being discussed at the pre-examination meeting attendance at the meeting is restricted to specified persons and any appointed representative.
 
-**3.**[^key-966a1f36427c2543078d137b09cae937] Where a site inspection will involve inspection of closed evidence—
+**3.**[^c-966a1f36427c2543078d137b09cae937] Where a site inspection will involve inspection of closed evidence—
 
 - (a) regulation 12 does not apply; and
 - (b) the appointed person may inspect the land in the company of specified persons and any appointed representative.
 
-**4.**[^key-43eada6df6b5fe2f6c42398d37c523e9] Where the appointed person is notified that a security direction has been given—
+**4.**[^c-43eada6df6b5fe2f6c42398d37c523e9] Where the appointed person is notified that a security direction has been given—
 
 - (a) before the appointed person gives notice that an inquiry session is to be held under rule 1(1) of the Inquiry Session Rules, the appointed person must include in that notice a statement that a security direction has been given; and
 - (b) after giving that notice, the appointed person must as soon as practicable after being notified of the making of the direction, give notice of the making of the security direction to any person known at that date to be entitled to appear at the inquiry session.
 
-**5.**[^key-d453078d89aa18460db9f3c7991f513f] While closed evidence is being considered at an inquiry session the persons entitled to appear at the inquiry session are restricted[^key-cc1f5adb5584c5fee19ed2d579341198] to—
+**5.**[^c-d453078d89aa18460db9f3c7991f513f] While closed evidence is being considered at an inquiry session the persons entitled to appear at the inquiry session are restricted[^c-cc1f5adb5584c5fee19ed2d579341198] to—
 
 - (a) specified persons; and
 - (b) any appointed representative.
 
-**6.**[^key-5f1d76cab2829b9fa0fd09c55aaf904f] Where any provision of these Regulations requires or permits a document (or other materials or evidence) to be sent to any person that provision is to be read as requiring, or permitting—
+**6.**[^c-5f1d76cab2829b9fa0fd09c55aaf904f] Where any provision of these Regulations requires or permits a document (or other materials or evidence) to be sent to any person that provision is to be read as requiring, or permitting—
 
 - (a) the sending of such documents (or other materials or evidence) which contain or make reference to any closed evidence to specified persons or any appointed representative; and
 - (b) the sending of such documents (or other materials or evidence) to any other person only to the extent that they do not contain or make reference to any closed evidence.
 
-**7.**[^key-5f7154b381e216fc9236145554588cc0] Where any rule of the Inquiry Session Rules requires or permits an inquiry statement (including any amended or additional inquiry statement) to be sent to any person that rule is to be read as requiring, or permitting—
+**7.**[^c-5f7154b381e216fc9236145554588cc0] Where any rule of the Inquiry Session Rules requires or permits an inquiry statement (including any amended or additional inquiry statement) to be sent to any person that rule is to be read as requiring, or permitting—
 
 - (a) a closed inquiry statement to be sent to specified persons and any appointed representative; and
 - (b) an open inquiry statement to be sent to any other person.
 
-**8.**[^key-03f6604bf2af850cb53b91d7d9cd81e6] Where any rule of the Inquiry Session Rules requires or permits a precognition (including any amended or additional precognition) to be sent to any person that rule is to be read as requiring, or permitting—
+**8.**[^c-03f6604bf2af850cb53b91d7d9cd81e6] Where any rule of the Inquiry Session Rules requires or permits a precognition (including any amended or additional precognition) to be sent to any person that rule is to be read as requiring, or permitting—
 
 - (a) a closed precognition to be sent to specified persons and any appointed representative; and
 - (b) an open precognition to any other person.
 
-**9.**[^key-a090a29bdc064b6cdfc70505fc482fa7] Where closed evidence was considered at an inquiry session the assessor, where one has been appointed, if making a report in accordance with regulation 30 is to set out in a separate part (“the closed part”) of the report any matters which relate to that evidence.
+**9.**[^c-a090a29bdc064b6cdfc70505fc482fa7] Where closed evidence was considered at an inquiry session the assessor, where one has been appointed, if making a report in accordance with regulation 30 is to set out in a separate part (“the closed part”) of the report any matters which relate to that evidence.
 
-**10.**[^key-9368a6807b3ce241667e3cac81eb48a0] Where the appointed person’s reasons for a decision relate to matters in respect of which closed evidence has been given, nothing in these Regulations requires notification of those reasons to any person other than a specified person and any appointed representative.
+**10.**[^c-9368a6807b3ce241667e3cac81eb48a0] Where the appointed person’s reasons for a decision relate to matters in respect of which closed evidence has been given, nothing in these Regulations requires notification of those reasons to any person other than a specified person and any appointed representative.
 
-**11.**[^key-2287b85ad19d02dd813f97ad9c65b153] Closed evidence must not be published and nothing in these Regulations is to be taken to require or permit closed evidence to be disclosed to a person other than—
+**11.**[^c-2287b85ad19d02dd813f97ad9c65b153] Closed evidence must not be published and nothing in these Regulations is to be taken to require or permit closed evidence to be disclosed to a person other than—
 
 - (a) a specified person; and
 - (b) any appointed representative.
 
-**12.**[^key-7488108bebe10cf5cade49144ef5207a] (1) In this Schedule—
+**12.**[^c-7488108bebe10cf5cade49144ef5207a] (1) In this Schedule—
 
-- “appointed representative” means a person (who is also a specified person) appointed[^key-ef4223287a55269937e0673e595b9eb5] to represent the interests of any party to the inquiry, under or by virtue of—
+- “appointed representative” means a person (who is also a specified person) appointed[^c-ef4223287a55269937e0673e595b9eb5] to represent the interests of any party to the inquiry, under or by virtue of—
   - (a) section 265A(5) of the Act (planning inquiries to be held in public subject to certain exceptions); or
   - (b) paragraph 6(7) of Schedule 3 to the Listed Buildings Act (determination of certain appeals by person appointed by the Scottish Ministers);
 - “closed evidence” means evidence which is subject to a security direction;
@@ -1133,7 +1133,7 @@ Where a security direction has been given or a request for a security direction 
 
 (2) Where a request for a security direction has been made to the Scottish Ministers or the Secretary of State but no determination as to whether or not to give a direction has been made, references in paragraphs 2 to 12(1) to closed evidence are to be treated as references to potentially closed evidence and references to specified persons are to be treated as references to persons who, in terms of the request for a direction, would be permitted to hear or, as the case may be, inspect closed evidence if a security direction is given.
 
-## SCHEDULE 5 — Revocations[^key-aa91010add6920884c02b34f9af691cc]
+## SCHEDULE 5 — Revocations[^c-aa91010add6920884c02b34f9af691cc]
 
 Regulation 34
 
@@ -1180,23 +1180,23 @@ Part 10 of the Regulations and Schedule 5 revoke the Town and Country Planning (
 
 [^f00002]: Footnote: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998. Section 81(1) defines “prescribed”. Section 79 applies various provisions of the Town and Country Planning (Scotland) Act 1997, including sections 267 and 275A, for the purposes of the Act. Section 82 is amended by section 30 of the Historic Environment (Amendment) (Scotland) Act [2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3).
 
-[^key-bdf829758ad19e8d14a74c983dc2dc3e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/156/regulation/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-bdf829758ad19e8d14a74c983dc2dc3e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/156/regulation/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-0f4c80be8ddcb96a52fd39d60f03d6e0]: Textual amendment: [Reg. 1(9A)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/9A) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/2)
+[^c-0f4c80be8ddcb96a52fd39d60f03d6e0]: Textual amendment: [Reg. 1(9A)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/9A) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/2)
 
-[^key-0af59a42cbc3a19978961335bd3b5349]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-0af59a42cbc3a19978961335bd3b5349]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1984/467](https://www.legislation.gov.uk/uksi/1984/467) as amended by [S.S.I. 2013/154](https://www.legislation.gov.uk/ssi/2013/154) and to which there are other amendments which are not relevant to those Regulations.
 
-[^key-a6d47e6338335e287fe8993fff3a1b20]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/3/a)
+[^c-a6d47e6338335e287fe8993fff3a1b20]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/3/a)
 
-[^key-a54064b43b50313731843683e594d4a7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/2/a)
+[^c-a54064b43b50313731843683e594d4a7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/2/a)
 
-[^key-558fc4fa12674254bd63722306bde2c2]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [58(2)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/58/2/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-558fc4fa12674254bd63722306bde2c2]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [58(2)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/58/2/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-20ccbdeab7cd8c5d8e32954d5b8e2927]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [58(2)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/58/2/b) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-20ccbdeab7cd8c5d8e32954d5b8e2927]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [58(2)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/58/2/b) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-8c5687a87886fa8876b63e92be4deb53]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/3/b)
+[^c-8c5687a87886fa8876b63e92be4deb53]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/3/b)
 
 [^f00005]: Footnote: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9).
 
@@ -1204,154 +1204,154 @@ Part 10 of the Regulations and Schedule 5 revoke the Town and Country Planning (
 
 [^f00007]: Footnote: Schedule 2 to the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 requires the register to contain a report.
 
-[^key-148b8c1b122e17909b5e01048975f92c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/2/c) (with [reg. 7(7)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/7))
+[^c-148b8c1b122e17909b5e01048975f92c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/2/c) (with [reg. 7(7)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/7))
 
-[^key-9120dc3f9f57b01c4635879c2f9924a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [58(2)(c)](https://www.legislation.gov.uk/ssi/2017/102/regulation/58/2/c) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-9120dc3f9f57b01c4635879c2f9924a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2013/156/regulation/2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [58(2)(c)](https://www.legislation.gov.uk/ssi/2017/102/regulation/58/2/c) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-8772f72c501de11bb62bb20296aeec8e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/156/regulation/3) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-8772f72c501de11bb62bb20296aeec8e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/156/regulation/3) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-d95c151e9c1292721c2fdf685dec632c]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2013/156/regulation/3/2) omitted (14.9.2015) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/3/a) (with [reg. 7(6)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/6))
+[^c-d95c151e9c1292721c2fdf685dec632c]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2013/156/regulation/3/2) omitted (14.9.2015) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/3/a) (with [reg. 7(6)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/6))
 
-[^key-314e5ea2ccf3cfa014f31aec0c94801b]: Textual amendment: [Reg. 3(2)(aa)](https://www.legislation.gov.uk/ssi/2013/156/regulation/3/2/aa) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/3/b) (with [reg. 7(6)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/6))
+[^c-314e5ea2ccf3cfa014f31aec0c94801b]: Textual amendment: [Reg. 3(2)(aa)](https://www.legislation.gov.uk/ssi/2013/156/regulation/3/2/aa) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/3/b) (with [reg. 7(6)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/6))
 
-[^key-fc6ebf2aa734a05b5f28f60397b623a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/156/regulation/4) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-fc6ebf2aa734a05b5f28f60397b623a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/156/regulation/4) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-c453882e4c5d796dda4bce8a17616f33]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/156/regulation/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-c453882e4c5d796dda4bce8a17616f33]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/156/regulation/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-bae2b97ea52c9b625fdef0b7b2515dcb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/156/regulation/6) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-bae2b97ea52c9b625fdef0b7b2515dcb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/156/regulation/6) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-490e862808926ff5a7626c080ecb18ed]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/156/regulation/7) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-490e862808926ff5a7626c080ecb18ed]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/156/regulation/7) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-57c9fd170dde76a781b3658bb36fc808]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/156/regulation/8) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-57c9fd170dde76a781b3658bb36fc808]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/156/regulation/8) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-1c03b496927df4c646d7502f1edfb6b6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/156/regulation/9) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-1c03b496927df4c646d7502f1edfb6b6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/156/regulation/9) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-7aa65a14c0651944486da7d288d3a5ad]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/156/regulation/10) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-7aa65a14c0651944486da7d288d3a5ad]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/156/regulation/10) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-4b9c474e75e3cafd15c175d930cda795]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/156/regulation/11) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-4b9c474e75e3cafd15c175d930cda795]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/156/regulation/11) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-2d7ab8d3d8a057f38952fad23e533751]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/156/regulation/12) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-2d7ab8d3d8a057f38952fad23e533751]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/156/regulation/12) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-b8c617aa9e9343272059435633e5a11c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2013/156/regulation/13) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-b8c617aa9e9343272059435633e5a11c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2013/156/regulation/13) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-614f21ca907ca6936add876c58e47f2e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2013/156/regulation/14) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-614f21ca907ca6936add876c58e47f2e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2013/156/regulation/14) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-0974fee0c8c54976cce4f6e7cc348255]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/156/regulation/15) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-0974fee0c8c54976cce4f6e7cc348255]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/156/regulation/15) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-2cc56d2b50c355526ebe518c0a109f05]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2013/156/regulation/16) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-2cc56d2b50c355526ebe518c0a109f05]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2013/156/regulation/16) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-08aeaae8c35cdb01a4552b658fa73824]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2013/156/regulation/17) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-08aeaae8c35cdb01a4552b658fa73824]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2013/156/regulation/17) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-0f7bd488968b12528071961cee181ef7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2013/156/regulation/18) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-0f7bd488968b12528071961cee181ef7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2013/156/regulation/18) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-6a6c16907cade0dae523c34eb05a73e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ssi/2013/156/part/5A) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/4)
+[^c-6a6c16907cade0dae523c34eb05a73e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ssi/2013/156/part/5A) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/4)
 
-[^key-cb3edec4d236142629deafe5f4d463c6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2013/156/regulation/19) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-cb3edec4d236142629deafe5f4d463c6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2013/156/regulation/19) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-b88e7a152836aaff7eac099c39aefff4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2013/156/regulation/20) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-b88e7a152836aaff7eac099c39aefff4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2013/156/regulation/20) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-2e9d7526f33ba43720990f17fbe83a52]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2013/156/regulation/21) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-2e9d7526f33ba43720990f17fbe83a52]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2013/156/regulation/21) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
 [^f00010]: Footnote: [S.S.I. 2010/432](https://www.legislation.gov.uk/ssi/2010/432).
 
-[^key-3107141603db4baf0d00fa57b11d2ad7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2013/156/regulation/22) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-3107141603db4baf0d00fa57b11d2ad7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2013/156/regulation/22) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
 [^f00011]: Footnote: [S.S.I. 2010/433](https://www.legislation.gov.uk/ssi/2010/433).
 
-[^key-4bec3e07370b4619401fe6c283428d71]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2013/156/regulation/23) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-4bec3e07370b4619401fe6c283428d71]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2013/156/regulation/23) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-155ff599352a6ee3d6055b22c6730c44]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2013/156/regulation/24) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-155ff599352a6ee3d6055b22c6730c44]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2013/156/regulation/24) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-2cd1be81ac171b4c40cbaeea637f1ee4]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2013/156/regulation/25) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-2cd1be81ac171b4c40cbaeea637f1ee4]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2013/156/regulation/25) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-6f15175f708dfc00e27fdd7a9cbbd919]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2013/156/regulation/26) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-6f15175f708dfc00e27fdd7a9cbbd919]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2013/156/regulation/26) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-6d0038d23a5df8ed19f831e9e0f27d4c]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2013/156/regulation/27) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-6d0038d23a5df8ed19f831e9e0f27d4c]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2013/156/regulation/27) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-42f766370d27288674601db34bd6dfa4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2013/156/regulation/28) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-42f766370d27288674601db34bd6dfa4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2013/156/regulation/28) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-8b30e345977640cd605c5ad8868787d1]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2013/156/regulation/29) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-8b30e345977640cd605c5ad8868787d1]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2013/156/regulation/29) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
 [^f00012]: Footnote: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155).
 
-[^key-34b3055835bdd68279bbd94342022aea]: Textual amendment: Words in [reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2013/156/regulation/29/1/b) substituted (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/ssi/2015/243/regulation/20/2/a) (with [regs. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2), [20(3)](https://www.legislation.gov.uk/ssi/2015/243/regulation/20/3))
+[^c-34b3055835bdd68279bbd94342022aea]: Textual amendment: Words in [reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2013/156/regulation/29/1/b) substituted (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/ssi/2015/243/regulation/20/2/a) (with [regs. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2), [20(3)](https://www.legislation.gov.uk/ssi/2015/243/regulation/20/3))
 
-[^key-bc54018b308431d508d00edae1268244]: Textual amendment: Words in [reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2013/156/regulation/29/1/b) substituted (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/ssi/2015/243/regulation/20/2/b) (with [regs. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2), [20(3)](https://www.legislation.gov.uk/ssi/2015/243/regulation/20/3))
+[^c-bc54018b308431d508d00edae1268244]: Textual amendment: Words in [reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2013/156/regulation/29/1/b) substituted (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/ssi/2015/243/regulation/20/2/b) (with [regs. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2), [20(3)](https://www.legislation.gov.uk/ssi/2015/243/regulation/20/3))
 
 [^f00014]: Footnote: [S.S.I. 2010/432](https://www.legislation.gov.uk/ssi/2010/432).
 
 [^f00015]: Footnote: [S.S.I. 2010/433](https://www.legislation.gov.uk/ssi/2010/433).
 
-[^key-793248efb2dce4b024a7ad55622cead8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2013/156/regulation/30) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-793248efb2dce4b024a7ad55622cead8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2013/156/regulation/30) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-7cf1103e4914f3fca2bd8a89d1bcbf1a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2013/156/regulation/31) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-7cf1103e4914f3fca2bd8a89d1bcbf1a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2013/156/regulation/31) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-518649ed8c5d6b1bcfc64c1fb11a7487]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2013/156/regulation/32) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-518649ed8c5d6b1bcfc64c1fb11a7487]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2013/156/regulation/32) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
 [^f00016]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
 
-[^key-864f355b42080702cf4c82f1d5960a53]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2013/156/regulation/33) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-864f355b42080702cf4c82f1d5960a53]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2013/156/regulation/33) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-2bd71b20f427af4baf7c05fe0c8fa1ed]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2013/156/regulation/34) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-2bd71b20f427af4baf7c05fe0c8fa1ed]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2013/156/regulation/34) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
 [^f00017]: Footnote: [S.S.I. 2008/434](https://www.legislation.gov.uk/ssi/2008/434) as amended by [S.S.I. 2009/220](https://www.legislation.gov.uk/ssi/2009/220), [2011/138](https://www.legislation.gov.uk/ssi/2011/138), [2011/378](https://www.legislation.gov.uk/ssi/2011/378), [2010/432](https://www.legislation.gov.uk/ssi/2010/432) and [2010/433](https://www.legislation.gov.uk/ssi/2010/433).
 
-[^key-d7cf18083bbef724d05fa0af5e841018]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-d7cf18083bbef724d05fa0af5e841018]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-e6838d7407aff478cbd394a98ca5c8cf]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-e6838d7407aff478cbd394a98ca5c8cf]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-0218552e54d9be6363bd1309896282d2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/3) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-0218552e54d9be6363bd1309896282d2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/3) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-bc7bf9b745734bf670a811725bb5ee9a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/4) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-bc7bf9b745734bf670a811725bb5ee9a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/4) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-6ba6e3a9e491240e1bdbc28909d79c4b]: Textual amendment: Word in [sch. 1 rule 4(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/rule/4/1/b/ii) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/5)
+[^c-6ba6e3a9e491240e1bdbc28909d79c4b]: Textual amendment: Word in [sch. 1 rule 4(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/rule/4/1/b/ii) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/5)
 
-[^key-50994dc24d19466eb68257ab87d0853a]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-50994dc24d19466eb68257ab87d0853a]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/1/paragraph/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-453d0b365ac6a3b80b6fe26fe342c4a6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-453d0b365ac6a3b80b6fe26fe342c4a6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-4297dbda29dba74a3d7bca260d7fac6d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-4297dbda29dba74a3d7bca260d7fac6d]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-4099618c0dcd449346abd5e28b347c6b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/3) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-4099618c0dcd449346abd5e28b347c6b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/3) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-3424430f5c6afb7d92b3d5d5a0623799]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/4) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-3424430f5c6afb7d92b3d5d5a0623799]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/4) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-1ee923f02080fe722bf2e3c2745eff26]: Textual amendment: Word in [sch. 2 rule 4(1)(b)](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/rule/4/1/b) substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/4)
+[^c-1ee923f02080fe722bf2e3c2745eff26]: Textual amendment: Word in [sch. 2 rule 4(1)(b)](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/rule/4/1/b) substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/4)
 
-[^key-e7b1fa93a72cc24a2ddf3bcacb2d753d]: Textual amendment: Word in [sch. 2 rule 4(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/rule/4/1/b/ii) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/6)
+[^c-e7b1fa93a72cc24a2ddf3bcacb2d753d]: Textual amendment: Word in [sch. 2 rule 4(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/rule/4/1/b/ii) inserted (1.10.2015) by [The Town and Country Planning (Appeals) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/233)](https://www.legislation.gov.uk/ssi/2015/233), [regs. 1](https://www.legislation.gov.uk/ssi/2015/233/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2015/233/regulation/2/6)
 
-[^key-63f0e741d17b422ace8e43adcfb69c76]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-63f0e741d17b422ace8e43adcfb69c76]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/2/paragraph/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-8701f4bfb145fbdb1b668687bfa7f333]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2013/156/schedule/3/part/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-8701f4bfb145fbdb1b668687bfa7f333]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2013/156/schedule/3/part/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-e5a32622330f6aada27528e575fbb5de]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ssi/2013/156/schedule/3/part/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-e5a32622330f6aada27528e575fbb5de]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ssi/2013/156/schedule/3/part/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-5dcd43f3f300959cf8094f399985fdd1]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-5dcd43f3f300959cf8094f399985fdd1]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/1) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-99e8fbd57f4c7fcb3dbb2bd18bc41824]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-99e8fbd57f4c7fcb3dbb2bd18bc41824]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/2) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-966a1f36427c2543078d137b09cae937]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/3) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-966a1f36427c2543078d137b09cae937]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/3) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-43eada6df6b5fe2f6c42398d37c523e9]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/4) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-43eada6df6b5fe2f6c42398d37c523e9]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/4) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-d453078d89aa18460db9f3c7991f513f]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-d453078d89aa18460db9f3c7991f513f]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-cc1f5adb5584c5fee19ed2d579341198]: Textual amendment: Words in [sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/5) substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/5/a)
+[^c-cc1f5adb5584c5fee19ed2d579341198]: Textual amendment: Words in [sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/5) substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/5/a)
 
-[^key-5f1d76cab2829b9fa0fd09c55aaf904f]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/6) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-5f1d76cab2829b9fa0fd09c55aaf904f]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/6) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-5f7154b381e216fc9236145554588cc0]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/7) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-5f7154b381e216fc9236145554588cc0]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/7) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-03f6604bf2af850cb53b91d7d9cd81e6]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/8) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-03f6604bf2af850cb53b91d7d9cd81e6]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/8) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-a090a29bdc064b6cdfc70505fc482fa7]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/9) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-a090a29bdc064b6cdfc70505fc482fa7]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/9) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-9368a6807b3ce241667e3cac81eb48a0]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/10) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-9368a6807b3ce241667e3cac81eb48a0]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/10) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-2287b85ad19d02dd813f97ad9c65b153]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/11) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-2287b85ad19d02dd813f97ad9c65b153]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/11) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-7488108bebe10cf5cade49144ef5207a]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/12) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-7488108bebe10cf5cade49144ef5207a]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/12) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
 
-[^key-ef4223287a55269937e0673e595b9eb5]: Textual amendment: Word in [sch. 4 para. 12(1)](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/12/1) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/5/b)
+[^c-ef4223287a55269937e0673e595b9eb5]: Textual amendment: Word in [sch. 4 para. 12(1)](https://www.legislation.gov.uk/ssi/2013/156/schedule/4/paragraph/12/1) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2015/249/regulation/7/5/b)
 
-[^key-aa91010add6920884c02b34f9af691cc]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)
+[^c-aa91010add6920884c02b34f9af691cc]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2013/156/schedule/5) in force at 30.6.2013, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/156/regulation/1/1)

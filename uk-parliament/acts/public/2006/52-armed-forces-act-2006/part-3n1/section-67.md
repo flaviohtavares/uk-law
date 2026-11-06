@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Power of arrest for service offence[^key-9d1e426c968c3e01c203c8577b6d4a15][^key-282e8083aeacaf7b96091c77578d3acb][^key-a152fbcf4b7134ab65a1135014f937ea]
+## 67. Power of arrest for service offence[^c-9d1e426c968c3e01c203c8577b6d4a15][^c-282e8083aeacaf7b96091c77578d3acb][^c-a152fbcf4b7134ab65a1135014f937ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) by an officer of superior rank or, if engaged in a mutiny, quarrel or disorder, by an officer of any rank;
 - (b) by a service policeman; or
-- (c)[^key-595c8c688290eeb67cf3ec8cdadc4f0a] by a person who is lawfully exercising authority on behalf of a provost officer, and who—
+- (c)[^c-595c8c688290eeb67cf3ec8cdadc4f0a] by a person who is lawfully exercising authority on behalf of a provost officer, and who—
   - (i) is an officer; or
   - (ii) is acting on the order of an officer.
 
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9d1e426c968c3e01c203c8577b6d4a15]: Commencement: S. 67 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-9d1e426c968c3e01c203c8577b6d4a15]: Commencement: S. 67 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-282e8083aeacaf7b96091c77578d3acb]: Commencement: S. 67 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-282e8083aeacaf7b96091c77578d3acb]: Commencement: S. 67 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-a152fbcf4b7134ab65a1135014f937ea]: Modification: S. 67 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2009/826/regulation/4/3) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
+[^c-a152fbcf4b7134ab65a1135014f937ea]: Modification: S. 67 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2009/826/regulation/4/3) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
 
-[^key-595c8c688290eeb67cf3ec8cdadc4f0a]: Textual amendment: S. 67(2)(c) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/2); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-595c8c688290eeb67cf3ec8cdadc4f0a]: Textual amendment: S. 67(2)(c) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/2); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)

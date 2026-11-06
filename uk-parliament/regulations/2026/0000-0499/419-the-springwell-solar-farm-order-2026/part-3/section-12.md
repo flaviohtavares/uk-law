@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Construction and maintenance of new and altered streets[^key-93d571ccdf0998306849a1869b2b140a]
+## 12. Construction and maintenance of new and altered streets[^c-93d571ccdf0998306849a1869b2b140a]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ but for the purposes of such a defence it is not relevant that the undertaker ha
 
 ## Annotations
 
-[^key-93d571ccdf0998306849a1869b2b140a]: Commencement: Art. 12 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-93d571ccdf0998306849a1869b2b140a]: Commencement: Art. 12 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

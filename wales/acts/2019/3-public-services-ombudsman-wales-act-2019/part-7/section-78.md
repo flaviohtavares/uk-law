@@ -32,7 +32,7 @@ summary: ''
   - (b) is a member of, and represents the authority on, a joint committee on which the authority is represented or a sub-committee of such a committee,
 
   and who is entitled to vote on any question which falls to be decided at a meeting of the committee or sub-committee;
-- “[^key-c5f84e0dbb65be3f74b2b9fa3e2eee37]**direct payment service**” (“***gwasanaeth taliadau uniongyrchol***”) has the meaning given by section 64A(2);
+- “[^c-c5f84e0dbb65be3f74b2b9fa3e2eee37]**direct payment service**” (“***gwasanaeth taliadau uniongyrchol***”) has the meaning given by section 64A(2);
 - “**direct payment service provider**” (“***darparwr gwasanaeth taliadau uniongyrchol***”) has the meaning given by section 64A(3);
 - “**domiciliary care**” (“***gofal cartref***”) has the meaning given by section 63(2);
 - “**domiciliary care provider**” (“***darparwr gofal cartref***”) has the meaning given by section 63(3);
@@ -45,7 +45,7 @@ summary: ''
 - “**extraordinary report**” (“***adroddiad eithriadol***”) has the meaning given in paragraph 15 of Schedule 1;
 - “**family health service provider in Wales**” (“***darparwr gwasanaeth iechyd teulu yng Nghymru***”) means—
   - (a) a person who, at the time of action which is the subject of investigation under Part 3 of this Act, provided services under a contract entered into by that person with a Local Health Board under section 42 or section 57 of the National Health Service (Wales) Act 2006 (c.42);
-  - (b) a person who, at that time, had undertaken to provide in Wales general ophthalmic services , or both general ophthalmic services and other ophthalmic services in accordance with arrangements made with a Local Health Board,[^key-dc9cc262f03d9521781efdcff6d6d812] or pharmaceutical services under that Act;
+  - (b) a person who, at that time, had undertaken to provide in Wales general ophthalmic services , or both general ophthalmic services and other ophthalmic services in accordance with arrangements made with a Local Health Board,[^c-dc9cc262f03d9521781efdcff6d6d812] or pharmaceutical services under that Act;
   - (c) an individual who, at that time, provided in Wales primary medical services or primary dental services in accordance with arrangements made under section 50 or 64 of that Act (except as an employee of, or otherwise on behalf of, a Welsh health service body or an independent provider in Wales);
 - “**family health services**” (“***gwasanaethau iechyd teulu***”) means services mentioned in any of paragraphs (a) to (c) of the definition of “family health service provider in Wales”;
 - “**financial year**” (“***blwyddyn ariannol***”) means the 12 months ending on 31 March;
@@ -99,6 +99,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5f84e0dbb65be3f74b2b9fa3e2eee37]: Textual amendment: Words in [s. 78(1)](https://www.legislation.gov.uk/anaw/2019/3/section/78/1) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(8)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/8); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-c5f84e0dbb65be3f74b2b9fa3e2eee37]: Textual amendment: Words in [s. 78(1)](https://www.legislation.gov.uk/anaw/2019/3/section/78/1) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(8)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/8); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
 
-[^key-dc9cc262f03d9521781efdcff6d6d812]: Textual amendment: Words in [s. 78(1)](https://www.legislation.gov.uk/anaw/2019/3/section/78/1) inserted (20.10.2023) by [The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053)](https://www.legislation.gov.uk/wsi/2023/1053), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/wsi/2023/1053/schedule/5/paragraph/3)
+[^c-dc9cc262f03d9521781efdcff6d6d812]: Textual amendment: Words in [s. 78(1)](https://www.legislation.gov.uk/anaw/2019/3/section/78/1) inserted (20.10.2023) by [The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053)](https://www.legislation.gov.uk/wsi/2023/1053), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/wsi/2023/1053/schedule/5/paragraph/3)

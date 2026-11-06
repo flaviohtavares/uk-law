@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014 (revoked)[^key-e750b93f837b18770c49f7137742931e]
+The Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014 (revoked)[^c-e750b93f837b18770c49f7137742931e]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1st January 2015
 
-[^key-e750b93f837b18770c49f7137742931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e750b93f837b18770c49f7137742931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e750b93f837b18770c49f7137742931e]
+## 1. Citation, commencement and interpretation[^c-e750b93f837b18770c49f7137742931e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Competent authority[^key-e750b93f837b18770c49f7137742931e]
+## 2. Competent authority[^c-e750b93f837b18770c49f7137742931e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Coordinating body[^key-e750b93f837b18770c49f7137742931e]
+## 3. Coordinating body[^c-e750b93f837b18770c49f7137742931e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Review[^key-e750b93f837b18770c49f7137742931e]
+## 4. Review[^c-e750b93f837b18770c49f7137742931e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-e750b93f837b18770c49f7137742931e]
+## 5. Revocation[^c-e750b93f837b18770c49f7137742931e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e750b93f837b18770c49f7137742931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e750b93f837b18770c49f7137742931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -91,4 +91,4 @@ No impact assessment has been produced for this instrument as no impact on the p
 
 ## Annotations
 
-[^key-e750b93f837b18770c49f7137742931e]: Textual amendment: Regulations revoked (31.12.2020) by [The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/733)](https://www.legislation.gov.uk/uksi/2019/733), [regs. 1](https://www.legislation.gov.uk/uksi/2019/733/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/733/regulation/6) (with savings in [reg. 9](https://www.legislation.gov.uk/uksi/2019/733/regulation/9) (as inserted by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/4))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e750b93f837b18770c49f7137742931e]: Textual amendment: Regulations revoked (31.12.2020) by [The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/733)](https://www.legislation.gov.uk/uksi/2019/733), [regs. 1](https://www.legislation.gov.uk/uksi/2019/733/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/733/regulation/6) (with savings in [reg. 9](https://www.legislation.gov.uk/uksi/2019/733/regulation/9) (as inserted by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [11(4)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/11/4))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

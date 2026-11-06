@@ -69,7 +69,7 @@ in a street, whether or not in or from a stationary position.
   - (i) authorised by regulations made under section 5 of the Police, Factories, &c (Miscellaneous Provisions) Act 1916 (c. 31), or
   - (ii) authorised by a licence granted under the House to House Charitable Collections Act (Northern Ireland) 1952 (c. 6) or exempted by an order made under section 3 of that Act;
 - (e) trading by a person acting as a pedlar under the authority of a pedlar's certificate granted under the Pedlars Act 1871 (c. 96), if the trading is carried out only by means of visits from house to house.
-- (f)[^key-a5fddd98f59f6bae77e39ac674daf36b] where a pavement café licence is in force, trading carried out in the area covered by the licence, if the trading—
+- (f)[^c-a5fddd98f59f6bae77e39ac674daf36b] where a pavement café licence is in force, trading carried out in the area covered by the licence, if the trading—
   - (i) takes place at a time when that area has temporary furniture on it that under the terms of the licence is permitted to be there at that time;
   - (ii) is done in the course of a business which is carried on by the licence holder at the premises specified in the licence;
   - (iii) relates to the supply of food or drink in or from those premises for consumption on that area; and
@@ -95,7 +95,7 @@ is not street trading for the purposes of this Act if—
 - (a) vary (whether by addition, omission or alteration) the activities which are not street trading for the purposes of this Act, and
 - (b) amend subsections (1) to (3), as they have effect for the time being, in such manner as appears necessary or expedient in consequence of such variation.
 
-(5)[^key-f76f3831bcaaad3f32e071417535c1b6] Expressions used in paragraph (f) of subsection (1) and in the Licensing of Pavement Cafés Act (Northern Ireland) 2014 have the same meaning in that paragraph as in that Act.
+(5)[^c-f76f3831bcaaad3f32e071417535c1b6] Expressions used in paragraph (f) of subsection (1) and in the Licensing of Pavement Cafés Act (Northern Ireland) 2014 have the same meaning in that paragraph as in that Act.
 
 ## Designation of streets
 
@@ -711,8 +711,8 @@ Schedules
 
 [^c21432141]: Modification: Act modified (28.12.2009) by [Provision of Services Regulations 2009 (S.I. 2009/2999)](https://www.legislation.gov.uk/uksi/2009/2999), [reg. 45(2)(4)](https://www.legislation.gov.uk/uksi/2009/2999/regulation/45/2/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2009/2999/regulation/2), [5](https://www.legislation.gov.uk/uksi/2009/2999/regulation/5))
 
-[^key-a5fddd98f59f6bae77e39ac674daf36b]: Textual amendment: [S. 2(1)(f)](https://www.legislation.gov.uk/nia/2001/8/section/2/1/f) inserted (1.10.2016) by [Licensing of Pavement Cafs Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/3/2); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-a5fddd98f59f6bae77e39ac674daf36b]: Textual amendment: [S. 2(1)(f)](https://www.legislation.gov.uk/nia/2001/8/section/2/1/f) inserted (1.10.2016) by [Licensing of Pavement Cafs Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/3/2); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-f76f3831bcaaad3f32e071417535c1b6]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/nia/2001/8/section/2/5) inserted (1.10.2016) by [Licensing of Pavement Cafs Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/3/3); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-f76f3831bcaaad3f32e071417535c1b6]: Textual amendment: [S. 2(5)](https://www.legislation.gov.uk/nia/2001/8/section/2/5) inserted (1.10.2016) by [Licensing of Pavement Cafs Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/3/3); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
 [^c11646851]: Textual amendment: fully exercised by SR 2001/164

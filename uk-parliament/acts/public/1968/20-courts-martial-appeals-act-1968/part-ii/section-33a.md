@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5061a1a9c42a60768fd3258c1d581ff0] Without prejudice to section 31 above, where an appellant who is not in custody appears before the Appeal Court either on the hearing of his appeal or in any preliminary or incidental proceedings, the Appeal Court may direct the Secretary of State to pay him the expenses of his appearance.
+(1)[^c-5061a1a9c42a60768fd3258c1d581ff0] Without prejudice to section 31 above, where an appellant who is not in custody appears before the Appeal Court either on the hearing of his appeal or in any preliminary or incidental proceedings, the Appeal Court may direct the Secretary of State to pay him the expenses of his appearance.
 
-(2)[^key-cc502f2b60fe295a1c5fb06663c7112d] The expenses which the Appeal Court may direct the Secretary of State to pay under this section do not include legal costs (as defined in section 31A), except where regulations made by the Lord Chancellor provide otherwise.
+(2)[^c-cc502f2b60fe295a1c5fb06663c7112d] The expenses which the Appeal Court may direct the Secretary of State to pay under this section do not include legal costs (as defined in section 31A), except where regulations made by the Lord Chancellor provide otherwise.
 
 (3) Regulations under this section may, in particular, include—
 
@@ -34,6 +34,6 @@ summary: ''
 
 [^c7715151]: Textual amendment: S. 33A added by [Administration of Justice Act 1977 (c. 38, SIF 37)](https://www.legislation.gov.uk/ukpga/1977/38), [s. 5(1)](https://www.legislation.gov.uk/ukpga/1977/38/section/5/1)
 
-[^key-5061a1a9c42a60768fd3258c1d581ff0]: Textual amendment: S. 33A renumbered as s. 33A(1) (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/5/2) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)
+[^c-5061a1a9c42a60768fd3258c1d581ff0]: Textual amendment: S. 33A renumbered as s. 33A(1) (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 5(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/5/2) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)
 
-[^key-cc502f2b60fe295a1c5fb06663c7112d]: Textual amendment: S. 33A(2)(3) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 5(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/5/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)
+[^c-cc502f2b60fe295a1c5fb06663c7112d]: Textual amendment: S. 33A(2)(3) inserted (1.10.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 8 para. 5(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/paragraph/5/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/8/part/3)); [S.I. 2012/2412](https://www.legislation.gov.uk/uksi/2012/2412), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2412/article/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Reduction of certain Class 1A contributions in the case of a car provided or made available by reason of two or more employments or to two or more employed earners[^key-b0ba723c26ba2dc52422ad7a76ca9f18]
+## 35. Reduction of certain Class 1A contributions in the case of a car provided or made available by reason of two or more employments or to two or more employed earners[^c-b0ba723c26ba2dc52422ad7a76ca9f18]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0ba723c26ba2dc52422ad7a76ca9f18]: Textual amendment: Regs. 32-35 revoked (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2004/770/regulation/36), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/770/schedule/1)
+[^c-b0ba723c26ba2dc52422ad7a76ca9f18]: Textual amendment: Regs. 32-35 revoked (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2004/770/regulation/36), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/770/schedule/1)

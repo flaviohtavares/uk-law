@@ -48,13 +48,13 @@ In accordance with paragraph 1(7) of schedule 7 of that Act, a draft of this ins
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-a4f4017e958d0eae244ec696120e73a9]
+### 1. Citation, commencement and extent[^c-a4f4017e958d0eae244ec696120e73a9]
 
 (1) These Regulations may be cited as the Services of Lawyers and Lawyer's Practice (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 and come into force on exit day.
 
 (2) These Regulations extend to Scotland and insofar as they extend beyond Scotland they do so only as a matter of Scots law.
 
-### 2. Interpretation[^key-a2fee46a01009791e4b1c7645f8687a9]
+### 2. Interpretation[^c-a2fee46a01009791e4b1c7645f8687a9]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
 
 ## PART 2 — Revocation of secondary legislation
 
-### 3. Revocation[^key-0b849710c55e02922e9545c614b0f062]
+### 3. Revocation[^c-0b849710c55e02922e9545c614b0f062]
 
 The following are revoked—
 
@@ -73,11 +73,11 @@ The following are revoked—
 
 ## PART 3 — Transitional and saving provision and consequential amendments
 
-### 4. Transitional provision: the European Communities (Services of Lawyers) Order 1978[^key-a534d58bb7b5c23fb16c634324782106]
+### 4. Transitional provision: the European Communities (Services of Lawyers) Order 1978[^c-a534d58bb7b5c23fb16c634324782106]
 
 (1) This regulation applies where—
 
-- (a) a complaint was made under article 15(1) of the 1978 Order (professional misconduct) before IP completion day[^key-1dc4766d9fa2aa927b824c6bc69ed2e0] against a European lawyer (within the meaning of article 2 of the 1978 Order as it had effect immediately before IP completion day) who is not an individual to whom regulation 5 applies, and
+- (a) a complaint was made under article 15(1) of the 1978 Order (professional misconduct) before IP completion day[^c-1dc4766d9fa2aa927b824c6bc69ed2e0] against a European lawyer (within the meaning of article 2 of the 1978 Order as it had effect immediately before IP completion day) who is not an individual to whom regulation 5 applies, and
 - (b) one of the following applies—
   - (i) the disciplinary authority had not adjudicated upon the complaint before IP completion day,
   - (ii) the disciplinary authority had adjudicated upon the complaint and an appeal had been made against that adjudication before IP completion day, but the appeal had not been finally determined or withdrawn before IP completion day, or
@@ -87,7 +87,7 @@ The following are revoked—
 
 (3) In this regulation “**disciplinary authority**” has the same meaning as in article 15 of the 1978 Order as it had effect immediately before IP completion day.
 
-### 5. Transitional provision: the European Communities (Services of Lawyers) Order 1978 and Switzerland[^key-4c6290ae19539a953d1cc92807b87b87]
+### 5. Transitional provision: the European Communities (Services of Lawyers) Order 1978 and Switzerland[^c-4c6290ae19539a953d1cc92807b87b87]
 
 (1) This regulation applies to—
 
@@ -96,12 +96,12 @@ The following are revoked—
   - (ii) established in Switzerland, or
 - (b) a European lawyer who is integrated into the regular labour market of Switzerland and who is posted for the provision of carrying on professional activities in Scotland by their employer who is established in Switzerland.
 
-(2) For the purposes of this regulation, “**European lawyer**” has the same meaning as in article 2 of the 1978 Order as it had effect immediately before IP completion day[^key-e4980cc6de14601f95b62b81684dc251] .
+(2) For the purposes of this regulation, “**European lawyer**” has the same meaning as in article 2 of the 1978 Order as it had effect immediately before IP completion day[^c-e4980cc6de14601f95b62b81684dc251] .
 
 (3) Subject to paragraph (4), the 1978 Order continues to have effect in relation to a European lawyer referred to in paragraph (1) as if the Order were not revoked by regulation 3 but were subject to the modifications specified in paragraph (5) until whichever is the later of—
 
 - (a) the end of the period of five years beginning with IP completion day, or
-- (b)[^key-3cd4673f9baaa4e67ccce17b49eb0fb3] if the period referred to in sub-paragraph (a) is extended in accordance with Article 23(2) of the Swiss citizens’ rights agreement (as that agreement is defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020), the end of that period as extended.
+- (b)[^c-3cd4673f9baaa4e67ccce17b49eb0fb3] if the period referred to in sub-paragraph (a) is extended in accordance with Article 23(2) of the Swiss citizens’ rights agreement (as that agreement is defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020), the end of that period as extended.
 
 (4) A European lawyer may only carry on professional activities in accordance with the 1978 Order—
 
@@ -119,7 +119,7 @@ The following are revoked—
   - (i) after “means an authority” there were inserted “ in Switzerland ”, and
   - (ii) “in his member State of origin” were omitted.
 
-### 6. Transitional provision: the European Communities (Lawyer’s Practice) (Scotland) Regulations 2000[^key-8861f96507d89d45231143153a6ffd7d][^key-7bcfe0b1157a2dafe98e3feead5520d1]
+### 6. Transitional provision: the European Communities (Lawyer’s Practice) (Scotland) Regulations 2000[^c-8861f96507d89d45231143153a6ffd7d][^c-7bcfe0b1157a2dafe98e3feead5520d1]
 
 (1) This regulation applies to a professional body in relation to a solicitor or advocate in the situations described in paragraphs (2) or (3).
 
@@ -144,13 +144,13 @@ The following are revoked—
 
 (6) In this regulation the terms “advocate”, “Directive”, “professional body” and “solicitor” have the same meaning as in regulation 2(1) of the 2000 Regulations as it had effect immediately before IP completion day.
 
-### 7. Transitional provision: the European Communities (Lawyer's Practice) (Scotland) Regulations 2000 and Swiss lawyers[^key-e6c304c31d65204f29565fe354d9a539]
+### 7. Transitional provision: the European Communities (Lawyer's Practice) (Scotland) Regulations 2000 and Swiss lawyers[^c-e6c304c31d65204f29565fe354d9a539]
 
 (1) This regulation applies to a Swiss lawyer.
 
 (2) For the purposes of this regulation, “**Swiss lawyer**” means a national of the United Kingdom or a Swiss national who—
 
-- (a) immediately before IP completion day[^key-8327f5fdc1501349b3cbf59b8ed92505] was authorised in Switzerland to pursue professional activities under the professional title of Avocat, Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech or Avvocato, or
+- (a) immediately before IP completion day[^c-8327f5fdc1501349b3cbf59b8ed92505] was authorised in Switzerland to pursue professional activities under the professional title of Avocat, Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech or Avvocato, or
 - (b) had started but not yet completed their professional qualifications before IP completion day in order to be authorised in Switzerland to pursue professional activities under one of those professional titles but who completed their qualifications and was so authorised before the end of the period of four years beginning with IP completion day.
 
 (3) The provisions of the 2000 Regulations mentioned in paragraph (6) continue, subject to paragraphs (4) and (5), to have effect in relation to a Swiss lawyer as if not revoked by regulation 3 with the modifications specified in paragraph (6).
@@ -172,7 +172,7 @@ The following are revoked—
   - (i) an appeal against that withdrawal or revocation has not been finally determined or withdrawn before the end of that period, or
   - (ii) an appeal against that withdrawal or revocation is not made until at or after the end of that period.
 
-(5)[^key-b2e82f6bd28e54f4c2ed84ad08e0284c] The provisions of the 2000 Regulations referred to in paragraph (3) cease to continue to have effect in relation to an individual where that individual ceases to be registered with one of the relevant professional bodies under regulation 17 of the 2000 Regulations (as it has effect by virtue of this regulation) at or after the end of the period of 4 years beginning with IP completion day and that individual—
+(5)[^c-b2e82f6bd28e54f4c2ed84ad08e0284c] The provisions of the 2000 Regulations referred to in paragraph (3) cease to continue to have effect in relation to an individual where that individual ceases to be registered with one of the relevant professional bodies under regulation 17 of the 2000 Regulations (as it has effect by virtue of this regulation) at or after the end of the period of 4 years beginning with IP completion day and that individual—
 
 - (a) was a registered European lawyer before the end of the period of 4 years beginning with IP completion day,
 - (b) is a Swiss lawyer of the description in paragraph (4)(b) who became a registered European lawyer at or after the end of the period of 4 years beginning with IP completion day,
@@ -206,7 +206,7 @@ The following are revoked—
   - (i) paragraph (1) were omitted, and
   - (ii) in paragraph (3), after “1978” there were inserted “ as that Order has effect by virtue of regulation 5 of the Services of Lawyers and Lawyer's Practice (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 ”,
 - (c) regulation 4 (competent authorities),
-- (d)[^key-84681a489e5e35e38a7548f7ed9f2627] except where regulation 11(4)(a) (transitional provision: applications by Swiss lawyers for entry into profession of solicitor or advocate) of these Regulations applies, regulation 5 (exchange of information), modified so that it has effect as if—
+- (d)[^c-84681a489e5e35e38a7548f7ed9f2627] except where regulation 11(4)(a) (transitional provision: applications by Swiss lawyers for entry into profession of solicitor or advocate) of these Regulations applies, regulation 5 (exchange of information), modified so that it has effect as if—
   - (i) for paragraph (1) there were substituted—
 
     > (1) In order to facilitate the application of the Directive and to prevent its provisions from being misapplied, and to facilitate compliance with Article 33 of the Swiss citizens’ rights agreement (as that agreement is defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020), a professional body must cooperate with any authority which has been designated by Switzerland under the Directive as a competent authority in Switzerland and supply or receive any information relating to a European lawyer, or to any person with whom that European lawyer jointly practices, with other professional bodies, the Faculty of Advocates or Law Society of Scotland or an authority which has been designated by Switzerland under the Directive as a competent authority in Switzerland.
@@ -217,7 +217,7 @@ The following are revoked—
 - (f) regulation 7 (title and description to be used by a registered European lawyer), modified so that paragraph (2) has effect as if—
   - (i) in sub-paragraph (a), for “home professional title” there were substituted “ Swiss professional title ” and for “his home State” there were substituted “ Switzerland ”, and
   - (ii) in sub-paragraph (b), for “that State” there were substituted “ Switzerland ”,
-- (g)[^key-5fcfdad27e1ba41f1d65ce6a133acf95] regulation 8 (joint practice), modified so that it has effect as if for it there were substituted—
+- (g)[^c-5fcfdad27e1ba41f1d65ce6a133acf95] regulation 8 (joint practice), modified so that it has effect as if for it there were substituted—
 
 > **8. Joint Practice**
 >
@@ -267,44 +267,44 @@ The following are revoked—
 
 (7) In this regulation “**registered European lawyer**” has the same meaning as in regulation 2(1) of the 2000 Regulations as it has effect by virtue of this regulation.
 
-### 8. Saving provision: offence of pretending to be a registered European lawyer[^key-06373d0a8f1db61487d8c3fa286006ee]
+### 8. Saving provision: offence of pretending to be a registered European lawyer[^c-06373d0a8f1db61487d8c3fa286006ee]
 
 (1) Regulation 21 of the 2000 Regulations (offence of pretending to be a registered European lawyer) (and regulations 2 and 17 of those Regulations as they apply to regulation 21) continues to have effect as if not revoked by regulation 3, subject to the modifications set out in paragraph (2).
 
 (2) Regulation 21 has effect as if paragraphs (1)(b) and (2) were omitted.
 
-### 9. Transitional provision: disciplinary proceedings[^key-9e384d504706c108cca7dcc2684dbdec]
+### 9. Transitional provision: disciplinary proceedings[^c-9e384d504706c108cca7dcc2684dbdec]
 
 (1) This regulation applies in the situations described in paragraphs (2) to (4).
 
 (2) The first situation is where an appropriate authority has commenced disciplinary proceedings [^c23680551]—
 
-- (a) before IP completion day[^key-69f14cb80edae24f8c5605f242a83fc4], in relation to an individual who—
+- (a) before IP completion day[^c-69f14cb80edae24f8c5605f242a83fc4], in relation to an individual who—
   - (i) was a registered European lawyer (within the meaning of regulation 2(1) of the 2000 Regulations as it had effect immediately before IP completion day) at a time before IP completion day, but
-  - (ii) is not an individual in relation to whom regulation 7[^key-f52508b3fa997d25edff03623fdc540f] of these Regulations applies,
+  - (ii) is not an individual in relation to whom regulation 7[^c-f52508b3fa997d25edff03623fdc540f] of these Regulations applies,
 
   and those proceedings have not been determined before IP completion day,
-- (b)[^key-ce04364d36a97d5e84ebc6a4deffdd67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ce04364d36a97d5e84ebc6a4deffdd67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The second situation is where any appeal against the determination of disciplinary proceedings commenced by an appropriate authority has not been finally determined or withdrawn—
 
 - (a) before IP completion day, in relation to an individual who—
   - (i) was a registered European lawyer (within the meaning of regulation 2(1) of the 2000 Regulations as it had effect immediately before IP completion day) at a time before IP completion day, but
-  - (ii) is not an individual to whom regulation 7[^key-e4e62484953e8ffbc363519b86e0d900] of these Regulations applies,
-- (b)[^key-8a06a665d920e70cc9809d152149b814] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) is not an individual to whom regulation 7[^c-e4e62484953e8ffbc363519b86e0d900] of these Regulations applies,
+- (b)[^c-8a06a665d920e70cc9809d152149b814] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The third situation is where the time limit for bringing an appeal against the determination of disciplinary proceedings commenced by an appropriate authority has not yet expired—
 
 - (a) before IP completion day, in relation to an individual who—
   - (i) was a registered European lawyer (within the meaning of regulation 2(1) of the 2000 Regulations as it had effect immediately before IP completion day), at a time before IP completion day, but
-  - (ii) is not an individual to whom regulation 7[^key-80d24b04c2de7e104d5957b02cccc71d] of these Regulations applies,
-- (b)[^key-50d91150250465cb44b0fc6bd3fb1662] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) is not an individual to whom regulation 7[^c-80d24b04c2de7e104d5957b02cccc71d] of these Regulations applies,
+- (b)[^c-50d91150250465cb44b0fc6bd3fb1662] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The provisions of the 2000 Regulations mentioned in paragraph (6) continue to have effect as if not revoked by regulation 3, subject to the modifications specified in paragraphs (6) and (7), until the disciplinary proceedings or any appeal have been finally determined or withdrawn.
 
 (6) The provisions and modifications referred to in paragraph (5) are—
 
-- (aa)[^key-5348619823e7dffe05b3c23d948172a7] regulation 2 (interpretation),
+- (aa)[^c-5348619823e7dffe05b3c23d948172a7] regulation 2 (interpretation),
 - (a) regulation 26 (disciplinary proceedings applicable), modified so it has effect as if—
   - (i) in paragraph (1), “he is subject” were “he was subject” and “is registered” were “was registered”,
   - (ii) paragraph (2) were omitted, and
@@ -318,9 +318,9 @@ The following are revoked—
 
 (8) In this regulation “**appropriate authority**” has the same meaning as in regulation 26 of the 2000 Regulations as it had effect immediately before IP completion day.
 
-### 10. Transitional provision: applications for entry into profession of solicitor or advocate[^key-cae8989b9be9058026b39547395db4af]
+### 10. Transitional provision: applications for entry into profession of solicitor or advocate[^c-cae8989b9be9058026b39547395db4af]
 
-(1)[^key-1c281d3ebddad40191e3adc74606cbaf] This regulation applies where an application under regulation 29 of the 2000 Regulations (as that regulation had effect immediately before IP completion day) for an exemption from a requirement to pass an aptitude test is made before IP completion day and—
+(1)[^c-1c281d3ebddad40191e3adc74606cbaf] This regulation applies where an application under regulation 29 of the 2000 Regulations (as that regulation had effect immediately before IP completion day) for an exemption from a requirement to pass an aptitude test is made before IP completion day and—
 
 - (a) that application has not been determined before IP completion day,
 - (b) any appeal against the determination of that application has not been finally determined or withdrawn before IP completion day, or
@@ -332,7 +332,7 @@ The following are revoked—
 
 (4) The provisions referred to in paragraph (3) are—
 
-- (aa)[^key-e941c3a53a439077a1d2f04ea844eb25] regulation 2 (interpretation),
+- (aa)[^c-e941c3a53a439077a1d2f04ea844eb25] regulation 2 (interpretation),
 - (bb) regulation 4(1)(b) and (d) and (2)(b) and (d) (competent authorities),
 - (cc) regulation 5 (exchange of information), modified so that it has effect as if for paragraph (1) there were substituted—
 
@@ -350,15 +350,15 @@ The following are revoked—
 
 (5) Any reference to “registered European lawyer” in the provisions referred to in paragraph (4) has effect as if it were a reference to an individual who was formerly a registered European lawyer.
 
-### 11. Transitional provision: applications by Swiss lawyers for entry into profession of solicitor or advocate[^key-2e72d70af732623fc722d30713733e95]
+### 11. Transitional provision: applications by Swiss lawyers for entry into profession of solicitor or advocate[^c-2e72d70af732623fc722d30713733e95]
 
 (1) This regulation applies to a Swiss lawyer to whom regulation 7 applies.
 
-(2)[^key-924ac230ca5085d40f807cf86039a5c7] Where this regulation applies, regulation 5 (exchange of information) and Part 5 (entry into the profession of solicitor or advocate) of the 2000 Regulations continue to have effect in relation to a Swiss lawyer referred to in paragraph (1) as if not revoked by regulation 3, subject to paragraph (3) and the modifications specified in paragraph (4).
+(2)[^c-924ac230ca5085d40f807cf86039a5c7] Where this regulation applies, regulation 5 (exchange of information) and Part 5 (entry into the profession of solicitor or advocate) of the 2000 Regulations continue to have effect in relation to a Swiss lawyer referred to in paragraph (1) as if not revoked by regulation 3, subject to paragraph (3) and the modifications specified in paragraph (4).
 
-(3) Any application made under regulation 29 of the 2000 Regulations (as it has effect by virtue of this regulation) for an exemption from a requirement to pass an aptitude test must be made before the end of the period of four years beginning with IP completion day[^key-00222163607d224cb4233cd573b5e241] .
+(3) Any application made under regulation 29 of the 2000 Regulations (as it has effect by virtue of this regulation) for an exemption from a requirement to pass an aptitude test must be made before the end of the period of four years beginning with IP completion day[^c-00222163607d224cb4233cd573b5e241] .
 
-(4)[^key-e1ea0dc811304d150c62f307ff0a576e] The modifications to the 2000 Regulations referred to in paragraph (2) are—
+(4)[^c-e1ea0dc811304d150c62f307ff0a576e] The modifications to the 2000 Regulations referred to in paragraph (2) are—
 
 - (a) regulation 5 is modified so that it has effect as if for paragraph (1) there were substituted—
 
@@ -374,7 +374,7 @@ The following are revoked—
     - (bb) for “his home State”, in both places where it occurs, there were substituted “Switzerland”, and
   - (ii) in paragraph (3) for “home professional title”, in both places where it occurs, there were substituted “Swiss professional title”.
 
-### 12. Consequential amendments and further transitional provision[^key-b798f5e5617ddd71408a3374b8d55335]
+### 12. Consequential amendments and further transitional provision[^c-b798f5e5617ddd71408a3374b8d55335]
 
 The schedule, which makes consequential amendments and further transitional provision, has effect.
 
@@ -390,7 +390,7 @@ Edinburgh
 
 Regulation 12
 
-### 1. Solicitors (Scotland) Act 1980[^key-2a39eb8ac5987ad0f79269560db5cf89]
+### 1. Solicitors (Scotland) Act 1980[^c-2a39eb8ac5987ad0f79269560db5cf89]
 
 (1) The Solicitors (Scotland) Act 1980 [^c23680561] is amended as follows.
 
@@ -418,7 +418,7 @@ Regulation 12
 - (a) in sub-paragraph (2)(a), after “home State” insert “ or Switzerland, in the case of a Swiss lawyer within the meaning of regulation 7(2) of the Services of Lawyers and Lawyer's Practice (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 ”,
 - (b) in sub-paragraph (5), after “2000” insert “ as that regulation has effect by virtue of regulation 6 or 7 of the Services of Lawyers and Lawyer's Practice (EU Exit) (Amendment etc.) (Scotland) Regulations 2019 ”.
 
-**2.**[^key-bc2f868f1c39f929f7022fa59573ba3d] (1)[^key-2800e2dd8a576f8ec53d2dc80a1ecc93] The provisions of the Solicitors (Scotland) Act 1980 mentioned in paragraph (2) continue to have effect on and after IP completion day, as applied by regulation 37(2) and schedule 2 of the 2000 Regulations as if the 2000 Regulations had not been revoked by regulation 3, in relation to an individual who—
+**2.**[^c-bc2f868f1c39f929f7022fa59573ba3d] (1)[^c-2800e2dd8a576f8ec53d2dc80a1ecc93] The provisions of the Solicitors (Scotland) Act 1980 mentioned in paragraph (2) continue to have effect on and after IP completion day, as applied by regulation 37(2) and schedule 2 of the 2000 Regulations as if the 2000 Regulations had not been revoked by regulation 3, in relation to an individual who—
 
 - (a) was a registered European lawyer (within the meaning of regulation 2(1) of the 2000 Regulations as it had effect immediately before IP completion day), registered with the Law Society of Scotland, at a time before IP completion day, but
 - (b) is not a Swiss lawyer to whom regulation 7 applies,
@@ -456,79 +456,79 @@ The Scottish Government has prepared for these Regulations and is publishing on 
 
 [^c23680511]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-a4f4017e958d0eae244ec696120e73a9]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a4f4017e958d0eae244ec696120e73a9]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a2fee46a01009791e4b1c7645f8687a9]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a2fee46a01009791e4b1c7645f8687a9]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23680521]: Marginal citation: [S.I. 1978/1910](https://www.legislation.gov.uk/uksi/1978/1910), amended by [S.I. 1980/1964](https://www.legislation.gov.uk/uksi/1980/1964), [S.S.I. 2000/121](https://www.legislation.gov.uk/ssi/2000/121), [S.S.I. 2004/186](https://www.legislation.gov.uk/ssi/2004/186), [S.I](https://www.legislation.gov.uk/ssi/2004/186/section/I). 2004/1117, [S.S.I. 2007/359](https://www.legislation.gov.uk/ssi/2007/359) and [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177).
 
 [^c23680531]: Marginal citation: [S.S.I. 2000/121](https://www.legislation.gov.uk/ssi/2000/121), amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [S.S.I. 2004/302](https://www.legislation.gov.uk/ssi/2004/302), [S.S.I. 2007/358](https://www.legislation.gov.uk/ssi/2007/358), [S.I](https://www.legislation.gov.uk/ssi/2007/358/section/I). 2011/1043 and [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177).
 
-[^key-0b849710c55e02922e9545c614b0f062]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0b849710c55e02922e9545c614b0f062]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a534d58bb7b5c23fb16c634324782106]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a534d58bb7b5c23fb16c634324782106]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-1dc4766d9fa2aa927b824c6bc69ed2e0]: Textual amendment: Words in reg. 4 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/a)
+[^c-1dc4766d9fa2aa927b824c6bc69ed2e0]: Textual amendment: Words in reg. 4 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/a)
 
-[^key-4c6290ae19539a953d1cc92807b87b87]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-4c6290ae19539a953d1cc92807b87b87]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-e4980cc6de14601f95b62b81684dc251]: Textual amendment: Words in reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/b)
+[^c-e4980cc6de14601f95b62b81684dc251]: Textual amendment: Words in reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/b)
 
-[^key-3cd4673f9baaa4e67ccce17b49eb0fb3]: Textual amendment: Reg. 5(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(3)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/3)
+[^c-3cd4673f9baaa4e67ccce17b49eb0fb3]: Textual amendment: Reg. 5(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(3)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/3)
 
-[^key-8861f96507d89d45231143153a6ffd7d]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-8861f96507d89d45231143153a6ffd7d]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-7bcfe0b1157a2dafe98e3feead5520d1]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(4)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/4)
+[^c-7bcfe0b1157a2dafe98e3feead5520d1]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(4)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/4)
 
-[^key-e6c304c31d65204f29565fe354d9a539]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e6c304c31d65204f29565fe354d9a539]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-8327f5fdc1501349b3cbf59b8ed92505]: Textual amendment: Words in reg. 7 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(d)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/d)
+[^c-8327f5fdc1501349b3cbf59b8ed92505]: Textual amendment: Words in reg. 7 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(d)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/d)
 
-[^key-b2e82f6bd28e54f4c2ed84ad08e0284c]: Textual amendment: Reg. 7(5) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(5)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/5)
+[^c-b2e82f6bd28e54f4c2ed84ad08e0284c]: Textual amendment: Reg. 7(5) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(5)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/5)
 
-[^key-84681a489e5e35e38a7548f7ed9f2627]: Textual amendment: Reg. 7(6)(d) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(6)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/6)
+[^c-84681a489e5e35e38a7548f7ed9f2627]: Textual amendment: Reg. 7(6)(d) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(6)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/6)
 
-[^key-5fcfdad27e1ba41f1d65ce6a133acf95]: Textual amendment: Reg. 7(6)(g) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(7)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/7)
+[^c-5fcfdad27e1ba41f1d65ce6a133acf95]: Textual amendment: Reg. 7(6)(g) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(7)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/7)
 
-[^key-06373d0a8f1db61487d8c3fa286006ee]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-06373d0a8f1db61487d8c3fa286006ee]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-9e384d504706c108cca7dcc2684dbdec]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9e384d504706c108cca7dcc2684dbdec]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23680551]: Marginal citation: Part IV of the 2000 Regulations makes provision concerning regulation and discipline.
 
-[^key-69f14cb80edae24f8c5605f242a83fc4]: Textual amendment: Words in reg. 9 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(e)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/e)
+[^c-69f14cb80edae24f8c5605f242a83fc4]: Textual amendment: Words in reg. 9 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(e)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/e)
 
-[^key-f52508b3fa997d25edff03623fdc540f]: Textual amendment: Words in reg. 9(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/a)
+[^c-f52508b3fa997d25edff03623fdc540f]: Textual amendment: Words in reg. 9(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/a)
 
-[^key-ce04364d36a97d5e84ebc6a4deffdd67]: Textual amendment: Reg. 9(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/b)
+[^c-ce04364d36a97d5e84ebc6a4deffdd67]: Textual amendment: Reg. 9(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/b)
 
-[^key-e4e62484953e8ffbc363519b86e0d900]: Textual amendment: Words in reg. 9(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/a)
+[^c-e4e62484953e8ffbc363519b86e0d900]: Textual amendment: Words in reg. 9(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/a)
 
-[^key-8a06a665d920e70cc9809d152149b814]: Textual amendment: Reg. 9(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/b)
+[^c-8a06a665d920e70cc9809d152149b814]: Textual amendment: Reg. 9(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/b)
 
-[^key-80d24b04c2de7e104d5957b02cccc71d]: Textual amendment: Words in reg. 9(4)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/a)
+[^c-80d24b04c2de7e104d5957b02cccc71d]: Textual amendment: Words in reg. 9(4)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/a)
 
-[^key-50d91150250465cb44b0fc6bd3fb1662]: Textual amendment: Reg. 9(4)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/b)
+[^c-50d91150250465cb44b0fc6bd3fb1662]: Textual amendment: Reg. 9(4)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/b)
 
-[^key-5348619823e7dffe05b3c23d948172a7]: Textual amendment: Reg. 9(6)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(c)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/c)
+[^c-5348619823e7dffe05b3c23d948172a7]: Textual amendment: Reg. 9(6)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(8)(c)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/8/c)
 
-[^key-cae8989b9be9058026b39547395db4af]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cae8989b9be9058026b39547395db4af]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-1c281d3ebddad40191e3adc74606cbaf]: Textual amendment: Reg. 10(1) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(9)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/9/a)
+[^c-1c281d3ebddad40191e3adc74606cbaf]: Textual amendment: Reg. 10(1) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(9)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/9/a)
 
-[^key-e941c3a53a439077a1d2f04ea844eb25]: Textual amendment: Reg. 10(4)(aa)-(cc) inserted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(9)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/9/b)
+[^c-e941c3a53a439077a1d2f04ea844eb25]: Textual amendment: Reg. 10(4)(aa)-(cc) inserted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(9)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/9/b)
 
-[^key-2e72d70af732623fc722d30713733e95]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2e72d70af732623fc722d30713733e95]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-924ac230ca5085d40f807cf86039a5c7]: Textual amendment: Reg. 11(2) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(10)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/10/a)
+[^c-924ac230ca5085d40f807cf86039a5c7]: Textual amendment: Reg. 11(2) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(10)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/10/a)
 
-[^key-00222163607d224cb4233cd573b5e241]: Textual amendment: Words in reg. 11 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(f)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/f)
+[^c-00222163607d224cb4233cd573b5e241]: Textual amendment: Words in reg. 11 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(2)(f)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/2/f)
 
-[^key-e1ea0dc811304d150c62f307ff0a576e]: Textual amendment: Reg. 11(4) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(10)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/10/b)
+[^c-e1ea0dc811304d150c62f307ff0a576e]: Textual amendment: Reg. 11(4) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(10)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/10/b)
 
-[^key-b798f5e5617ddd71408a3374b8d55335]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b798f5e5617ddd71408a3374b8d55335]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-2a39eb8ac5987ad0f79269560db5cf89]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2019/127/schedule/paragraph/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/127/regulation/1/1)
+[^c-2a39eb8ac5987ad0f79269560db5cf89]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2019/127/schedule/paragraph/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/127/regulation/1/1)
 
 [^c23680561]: Marginal citation: [1980 c.46](https://www.legislation.gov.uk/ukpga/1980/46), as relevantly amended by schedule 8, paragraph 29(5)(c) of, the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c.40)](https://www.legislation.gov.uk/ukpga/1990/40), [schedule 4](https://www.legislation.gov.uk/ukpga/1990/40/schedule/4), [paragraph 31](https://www.legislation.gov.uk/ukpga/1990/40/paragraph/31) of, the [Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40), [S.S.I. 2000/121](https://www.legislation.gov.uk/ssi/2000/121), [S.S.I. 2004/383](https://www.legislation.gov.uk/ssi/2004/383), [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), [schedule 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2), [paragraph 1](https://www.legislation.gov.uk/ssi/2005/465/paragraph/1) of, the [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [sections 123(1)](https://www.legislation.gov.uk/asp/2007/10/section/123/1), [123(5)](https://www.legislation.gov.uk/asp/2007/10/section/123/5) 125(1), 128(1)(a)(i), 133(2), 134(2), 135(2), 137(3) and (4) and 138(1) of, the [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), and [S.I. 2017/1301](https://www.legislation.gov.uk/uksi/2017/1301).
 
@@ -538,6 +538,6 @@ The Scottish Government has prepared for these Regulations and is publishing on 
 
 [^c23680591]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/ssi/2019/127/paragraph/1A) was inserted by schedule 1, paragraph 1(13) of, the European Communities (Lawyer's Practice) (Scotland) Regulations 2000/121.
 
-[^key-bc2f868f1c39f929f7022fa59573ba3d]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-bc2f868f1c39f929f7022fa59573ba3d]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
-[^key-2800e2dd8a576f8ec53d2dc80a1ecc93]: Textual amendment: Sch. para. 2(1) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(11)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/11)
+[^c-2800e2dd8a576f8ec53d2dc80a1ecc93]: Textual amendment: Sch. para. 2(1) substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [15(11)](https://www.legislation.gov.uk/ssi/2020/441/regulation/15/11)

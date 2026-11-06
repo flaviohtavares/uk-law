@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Military activities or otherwise enabling or facilitating the conduct of armed hostilities[^key-6261f23086f7d1bdd511957119c4f3fd]
+## 38. Military activities or otherwise enabling or facilitating the conduct of armed hostilities[^c-6261f23086f7d1bdd511957119c4f3fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6261f23086f7d1bdd511957119c4f3fd]: Commencement: Reg. 38 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-6261f23086f7d1bdd511957119c4f3fd]: Commencement: Reg. 38 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

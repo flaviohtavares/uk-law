@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Prudential Regulation Committee[^key-f3da190dc0f437f0cf78a8dfd03369e8]
+## 30A. Prudential Regulation Committee[^c-f3da190dc0f437f0cf78a8dfd03369e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3da190dc0f437f0cf78a8dfd03369e8]: Textual amendment: Pt. 3A inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/13/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)
+[^c-f3da190dc0f437f0cf78a8dfd03369e8]: Textual amendment: Pt. 3A inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/13/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)

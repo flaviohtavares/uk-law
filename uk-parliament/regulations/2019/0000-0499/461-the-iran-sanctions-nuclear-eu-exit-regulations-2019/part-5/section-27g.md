@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27G. Interpretation[^key-29bf5c8659ab2e2f015214b7c9ad1095]
+## 27G. Interpretation[^c-29bf5c8659ab2e2f015214b7c9ad1095]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Chapter “**Iran**” includes Iran's exclusive econom
 
 ## Annotations
 
-[^key-29bf5c8659ab2e2f015214b7c9ad1095]: Textual amendment: [Pt. 5 Chs. 1A-1C](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/1A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/e)
+[^c-29bf5c8659ab2e2f015214b7c9ad1095]: Textual amendment: [Pt. 5 Chs. 1A-1C](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/1A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/e)

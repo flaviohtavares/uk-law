@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Track-laying vehicles: authorisation requirements[^key-a667c308d5e2ddca20d6da03f23fce88]
+## 42. Track-laying vehicles: authorisation requirements[^c-a667c308d5e2ddca20d6da03f23fce88]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ The authorisation requirements applicable to vehicles falling within the recogni
 
 ## Annotations
 
-[^key-a667c308d5e2ddca20d6da03f23fce88]: Commencement: Art. 42 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-a667c308d5e2ddca20d6da03f23fce88]: Commencement: Art. 42 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

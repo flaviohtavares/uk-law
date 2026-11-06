@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 1. Church Representation Rules[^key-435745c788d25d407bfd03006a5e6ec3]
+## 1. Church Representation Rules[^c-435745c788d25d407bfd03006a5e6ec3]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-435745c788d25d407bfd03006a5e6ec3]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2019/1/section/1) in force at 1.1.2020 by [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-435745c788d25d407bfd03006a5e6ec3]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2019/1/section/1) in force at 1.1.2020 by [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)

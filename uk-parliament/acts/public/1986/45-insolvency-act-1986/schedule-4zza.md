@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4ZZA — Protection of supplies under section 233B: exclusions[^key-985c4f97044b5fe42b0bff74116ea7ad][^key-73eb622dc47ad82f6ddf604ef0373327]
+## SCHEDULE 4ZZA — Protection of supplies under section 233B: exclusions[^c-985c4f97044b5fe42b0bff74116ea7ad][^c-73eb622dc47ad82f6ddf604ef0373327]
 
 *Extent: E+W+S+N.I.*
 
@@ -206,6 +206,6 @@ Nothing in section 233B affects the International Interests in Aircraft Equipmen
 
 ## Annotations
 
-[^key-985c4f97044b5fe42b0bff74116ea7ad]: Modification: Sch. 4ZZA applied by S.I. 1994/2421, art. 4(3)(a) (as amended (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2020/12/schedule/12/paragraph/5) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4)))
+[^c-985c4f97044b5fe42b0bff74116ea7ad]: Modification: Sch. 4ZZA applied by S.I. 1994/2421, art. 4(3)(a) (as amended (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2020/12/schedule/12/paragraph/5) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4)))
 
-[^key-73eb622dc47ad82f6ddf604ef0373327]: Textual amendment: Sch. 4ZZA inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/12/paragraph/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4))
+[^c-73eb622dc47ad82f6ddf604ef0373327]: Textual amendment: Sch. 4ZZA inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/12/paragraph/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4))

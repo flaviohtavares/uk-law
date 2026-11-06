@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 294. Regulations under section 293: consultation and procedure[^key-b89c830d829d1ca86da017ed50255731]
+## 294. Regulations under section 293: consultation and procedure[^c-b89c830d829d1ca86da017ed50255731]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b89c830d829d1ca86da017ed50255731]: Commencement: [S. 294](https://www.legislation.gov.uk/ukpga/2023/52/section/294) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)
+[^c-b89c830d829d1ca86da017ed50255731]: Commencement: [S. 294](https://www.legislation.gov.uk/ukpga/2023/52/section/294) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)

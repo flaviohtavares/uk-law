@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143B. Power to obtain information about local services: enhanced partnership schemes[^key-d236b2a239992040336cae0951f6908e][^key-c05adb8597f2acc398b3fefbd54794ff][^key-a2947cf61d5ebc8a6b3a23c165860913]
+## 143B. Power to obtain information about local services: enhanced partnership schemes[^c-d236b2a239992040336cae0951f6908e][^c-c05adb8597f2acc398b3fefbd54794ff][^c-a2947cf61d5ebc8a6b3a23c165860913]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a) to provide the information in any form in which, having regard to the manner in which the information is kept, it is reasonable to expect him to provide it, and
 - (b) to provide the information before the end of such reasonable period as may be specified by the local transport authority.
 
-(4A)[^key-9cc81e04401bfc695cfc24bbfd7e71ea] A local transport authority or authorities may not require an operator to supply information under this section unless, at least 14 days before imposing the requirement, they have given notice to the operator—
+(4A)[^c-9cc81e04401bfc695cfc24bbfd7e71ea] A local transport authority or authorities may not require an operator to supply information under this section unless, at least 14 days before imposing the requirement, they have given notice to the operator—
 
 - (a) of their intention to impose the requirement, and
 - (b) of the date on which they intend to do so and the period that they intend to allow for the provision of the information.
@@ -75,10 +75,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d236b2a239992040336cae0951f6908e]: Modification: Ss. 138A-143B: functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/2)
+[^c-d236b2a239992040336cae0951f6908e]: Modification: Ss. 138A-143B: functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/2)
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-a2947cf61d5ebc8a6b3a23c165860913]: Textual amendment: [S. 143B](https://www.legislation.gov.uk/ukpga/2000/38/section/143B) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 10](https://www.legislation.gov.uk/ukpga/2017/21/section/10), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-a2947cf61d5ebc8a6b3a23c165860913]: Textual amendment: [S. 143B](https://www.legislation.gov.uk/ukpga/2000/38/section/143B) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 10](https://www.legislation.gov.uk/ukpga/2017/21/section/10), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
 
-[^key-9cc81e04401bfc695cfc24bbfd7e71ea]: Textual amendment: [S. 143B(4A)](https://www.legislation.gov.uk/ukpga/2000/38/section/143B/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2000/38/section/143B/4B) inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 20](https://www.legislation.gov.uk/ukpga/2025/24/section/20), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/g)
+[^c-9cc81e04401bfc695cfc24bbfd7e71ea]: Textual amendment: [S. 143B(4A)](https://www.legislation.gov.uk/ukpga/2000/38/section/143B/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2000/38/section/143B/4B) inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 20](https://www.legislation.gov.uk/ukpga/2025/24/section/20), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/g)

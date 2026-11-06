@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Amendments to the Energy Order[^key-5438c9468834d139561de4b65b0f9bfa]
+## 34. Amendments to the Energy Order[^c-5438c9468834d139561de4b65b0f9bfa]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ The Energy Order shall be amended as follows—
 
 ## Annotations
 
-[^key-5438c9468834d139561de4b65b0f9bfa]: Commencement: Reg. 34 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-5438c9468834d139561de4b65b0f9bfa]: Commencement: Reg. 34 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

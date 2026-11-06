@@ -53,7 +53,7 @@ These Regulations may be cited as the Social Security (Scotland) Act 2018 (Comme
 
 The day appointed for the coming into force of sections 21 and 22 and schedule 1 (Scottish Commission on Social Security) of the Social Security (Scotland) Act 2018 is 21 January 2019.
 
-## 3. Saving provision[^key-82b33d9afc61f7c82be4d51581e8cb2a]
+## 3. Saving provision[^c-82b33d9afc61f7c82be4d51581e8cb2a]
 
 Nothing in regulation 2 brings a provision into force for any purpose within exception 1(a) insofar as it relates to industrial injuries benefits or 1(c) in section F1 (benefits for disability and industrial injury) in Part 2 of schedule 5 of the Scotland Act 1998 [^c23490761].
 
@@ -97,6 +97,6 @@ The following provisions of the Social Security (Scotland) Act 2018 have been br
 
 [^c23490751]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
 
-[^key-82b33d9afc61f7c82be4d51581e8cb2a]: Textual amendment: Reg. 3 substituted (10.12.2019) by [The Social Security (Scotland) Act 2018 (Commencement No. 2, Transitory and Saving Provision and Commencement No. 4 and Saving Provision) Amendment Regulations 2019 (S.S.I. 2019/406)](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/3/2)
+[^c-82b33d9afc61f7c82be4d51581e8cb2a]: Textual amendment: Reg. 3 substituted (10.12.2019) by [The Social Security (Scotland) Act 2018 (Commencement No. 2, Transitory and Saving Provision and Commencement No. 4 and Saving Provision) Amendment Regulations 2019 (S.S.I. 2019/406)](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/3/2)
 
 [^c23490761]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). Section F1 was amended by sections 22 to 28 of the [Scotland Act 2016 (c.11)](https://www.legislation.gov.uk/ukpga/2016/11). Section 22(2) of that Act inserted exception 1.

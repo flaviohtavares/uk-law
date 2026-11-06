@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Payments to employers etc of members of reserve forces[^key-7a8e1be79607d277a6325db06d604f8f]
+## 46. Payments to employers etc of members of reserve forces[^c-7a8e1be79607d277a6325db06d604f8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a8e1be79607d277a6325db06d604f8f]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/20/section/46) in force at 5.9.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 3](https://www.legislation.gov.uk/uksi/2014/2370/article/3)
+[^c-7a8e1be79607d277a6325db06d604f8f]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2014/20/section/46) in force at 5.9.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 3](https://www.legislation.gov.uk/uksi/2014/2370/article/3)

@@ -54,11 +54,11 @@ In accordance with section 129(6) of that Act, they have consulted such organisa
 
 (2) In article 3 —
 
-- “**approved country for import[^key-979cbeab5f8c9c75fb4a1f413c7c3b24]**” has the meaning given in regulation 8(1) of the Human Medicines Regulations 2012;
+- “**approved country for import[^c-979cbeab5f8c9c75fb4a1f413c7c3b24]**” has the meaning given in regulation 8(1) of the Human Medicines Regulations 2012;
 - “**the Act**” means the Medicines Act 1968;
 - “**external use**” means application to the skin, hair, teeth, mucosa of the mouth, throat, nose, ear, eye, vagina or anal canal when a local action only is intended and extensive systemic absorption is unlikely to occur;
-- [^key-1b052a9ff215e1e8017ea4df1a919293]...
-- [^key-1b052a9ff215e1e8017ea4df1a919293]...
+- [^c-1b052a9ff215e1e8017ea4df1a919293]...
+- [^c-1b052a9ff215e1e8017ea4df1a919293]...
 
 ## 2. Prohibition of sale, supply and importation of any medicinal product consisting of or containing Senecio
 
@@ -81,8 +81,8 @@ The prohibition imposed by article 2 shall not apply where the medicinal product
   - (ii) a food analyst or food examiner within the meaning of section 30 of the Food Safety Act 1990 [^c19136321] or Article 30 or 31 of the Food Safety (Northern Ireland) Order 1991 [^c19136331],
   - (iii) a person duly authorised by an enforcement authority under sections 111 [^c19136341] and 112 of the Act, or
   - (iv) a sampling officer within the meaning of paragraph 1(1) of Schedule 3 to the Act [^c19136351];
-- (c)[^key-ffb4bad0ea8f0c47eb155c763ed6df32] is imported from an approved country for import, and is being, or is to be, exported to a country other than the United Kingdom; or
-- (d) the subject of a[^key-593f5f31c2535515a08f6fadf29eec3e] UK marketing authorisation, certificate of registration or traditional herbal registration[^key-ede0171c2ce5fb51cc369caac78c3b0b] within the meaning of the Human Medicines Regulations 2012.
+- (c)[^c-ffb4bad0ea8f0c47eb155c763ed6df32] is imported from an approved country for import, and is being, or is to be, exported to a country other than the United Kingdom; or
+- (d) the subject of a[^c-593f5f31c2535515a08f6fadf29eec3e] UK marketing authorisation, certificate of registration or traditional herbal registration[^c-ede0171c2ce5fb51cc369caac78c3b0b] within the meaning of the Human Medicines Regulations 2012.
 
 ## 4. Amendment of the Medicines (Bal Jivan Chamcho Prohibition) (No.2) Order 1977
 
@@ -193,9 +193,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c19136281]: Marginal citation: See section 4(6) of the Medicines Act 1968, as substituted by regulation 5(5) of [S.I. 2005/1094](https://www.legislation.gov.uk/uksi/2005/1094), for the definition of “appropriate committee” in section 62(3) and (5).
 
-[^key-979cbeab5f8c9c75fb4a1f413c7c3b24]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2008/548/article/1) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-979cbeab5f8c9c75fb4a1f413c7c3b24]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2008/548/article/1) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 10(2)(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b052a9ff215e1e8017ea4df1a919293]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2008/548/article/1) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b052a9ff215e1e8017ea4df1a919293]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2008/548/article/1) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19136291]: Marginal citation: “**Plant**” includes part of a plant; see the definition of “plant” in section 132(1) of the Act.
 
@@ -211,11 +211,11 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c19136351]: Marginal citation: Schedule 3 was amended by paragraph 12 of Schedule 3 to the Food Safety Act 1990.
 
-[^key-ffb4bad0ea8f0c47eb155c763ed6df32]: Textual amendment: [Art. 3(c)](https://www.legislation.gov.uk/uksi/2008/548/article/3/c) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffb4bad0ea8f0c47eb155c763ed6df32]: Textual amendment: [Art. 3(c)](https://www.legislation.gov.uk/uksi/2008/548/article/3/c) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-593f5f31c2535515a08f6fadf29eec3e]: Textual amendment: Words in [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/548/article/3/d) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 94](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/94) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-593f5f31c2535515a08f6fadf29eec3e]: Textual amendment: Words in [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/548/article/3/d) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 94](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/94) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-ede0171c2ce5fb51cc369caac78c3b0b]: Textual amendment: Words in [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/548/article/3/d) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 10(3)(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ede0171c2ce5fb51cc369caac78c3b0b]: Textual amendment: Words in [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/548/article/3/d) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 10(3)(b)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19136401]: Marginal citation: [S.I. 1977/670](https://www.legislation.gov.uk/uksi/1977/670), as amended by [S.I. 1997/856](https://www.legislation.gov.uk/uksi/1997/856).
 

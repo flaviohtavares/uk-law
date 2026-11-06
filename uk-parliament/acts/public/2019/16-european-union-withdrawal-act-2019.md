@@ -31,22 +31,22 @@ European Union (Withdrawal) Act 2019 (repealed)
 
 2019 c. 16
 
-[^key-22d7fa8fe89792d63f4d1a9069106a75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22d7fa8fe89792d63f4d1a9069106a75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Duties in connection with Article 50 extension[^key-22d7fa8fe89792d63f4d1a9069106a75]
+## 1. Duties in connection with Article 50 extension[^c-22d7fa8fe89792d63f4d1a9069106a75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Procedure for ensuring domestic legislation matches Article 50 extension[^key-22d7fa8fe89792d63f4d1a9069106a75]
+## 2. Procedure for ensuring domestic legislation matches Article 50 extension[^c-22d7fa8fe89792d63f4d1a9069106a75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation, commencement, extent and short title[^key-22d7fa8fe89792d63f4d1a9069106a75]
+## 3. Interpretation, commencement, extent and short title[^c-22d7fa8fe89792d63f4d1a9069106a75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-22d7fa8fe89792d63f4d1a9069106a75]: Textual amendment: Act repealed (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 36(e)](https://www.legislation.gov.uk/ukpga/2020/1/section/36/e), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 65](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/65))
+[^c-22d7fa8fe89792d63f4d1a9069106a75]: Textual amendment: Act repealed (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 36(e)](https://www.legislation.gov.uk/ukpga/2020/1/section/36/e), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 65](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/65))

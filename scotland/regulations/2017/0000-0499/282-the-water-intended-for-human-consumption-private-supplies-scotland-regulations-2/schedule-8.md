@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 34
 
-### 1. Notice of entry[^key-80fd4f87eb3ccbe7afaeac1df9ab319b]
+### 1. Notice of entry[^c-80fd4f87eb3ccbe7afaeac1df9ab319b]
 
 (1) Sub-paragraphs (2) to (4) apply to the powers conferred on an enforcing authority by virtue of—
 
@@ -39,7 +39,7 @@ Regulation 34
 
 (4) The powers are exercisable on behalf of an enforcing authority by any person designated in writing by the enforcing authority as a person who may exercise the powers on its behalf.
 
-### 2. Warrant to exercise right or power[^key-7ff08c3fb783329c31772d8f34fdcf15]
+### 2. Warrant to exercise right or power[^c-7ff08c3fb783329c31772d8f34fdcf15]
 
 (1) If a sheriff or a justice of the peace is satisfied, by evidence on oath, that—
 
@@ -64,19 +64,19 @@ the sheriff or justice may by warrant authorise the enforcing authority to exerc
 
 (4) A warrant under this schedule continues in force until the purposes for which the warrant was issued have been fulfilled.
 
-### 3. Evidence of authority[^key-a24b035ab6256876e47f385a2ab4ae76]
+### 3. Evidence of authority[^c-a24b035ab6256876e47f385a2ab4ae76]
 
 A person entitled to exercise any power conferred by the relevant provisions must, if required to do so, produce written evidence of that entitlement.
 
-### 4. Supplementary powers[^key-49139666658028f38be9c27bd5f65bc6]
+### 4. Supplementary powers[^c-49139666658028f38be9c27bd5f65bc6]
 
 A person entitled to enter any premises by virtue of any power conferred by the relevant provisions is entitled, subject in the case of a power exercisable under a warrant to the terms of the warrant, to take on to the premises such other persons and such equipment as may be necessary.
 
-### 5. Duty to secure premises[^key-51ae9800083478bc263f4fbb8d7de6c0]
+### 5. Duty to secure premises[^c-51ae9800083478bc263f4fbb8d7de6c0]
 
 A person who enters any premises in the exercise of any power conferred by the relevant provisions must leave the premises as effectually secured against trespassers as that person found them.
 
-### 6. Compensation[^key-e260ad36e7dfcf36e6bbeea8e9c2178a]
+### 6. Compensation[^c-e260ad36e7dfcf36e6bbeea8e9c2178a]
 
 (1) Where any person (“the person”) exercises, on behalf of an enforcing authority, any power conferred by the relevant provisions, the enforcing authority must make full compensation to any other person who has sustained loss or damage by reason of—
 
@@ -90,16 +90,16 @@ A person who enters any premises in the exercise of any power conferred by the r
 
 (3) Any dispute as to a person’s entitlement to compensation under this paragraph, or as to the amount of any such compensation, is to be referred to the arbitration of a single arbiter appointed by agreement between the Scottish Ministers and the person who claims to have sustained the loss or damage or, in default of agreement, by the President of the Lands Tribunal for Scotland.
 
-### 7. Commercially confidential information[^key-12f6b7b0c1263630179722436dacb302]
+### 7. Commercially confidential information[^c-12f6b7b0c1263630179722436dacb302]
 
-(1) A person who enters any premises in the exercise of a power conferred by these Regulations commits an offence[^key-326265815f917da03bdb5aaa35d820c4] if the person makes use of or discloses any information obtained by the person on those premises with regard to any manufacturing process or trade secret.
+(1) A person who enters any premises in the exercise of a power conferred by these Regulations commits an offence[^c-326265815f917da03bdb5aaa35d820c4] if the person makes use of or discloses any information obtained by the person on those premises with regard to any manufacturing process or trade secret.
 
 (2) A person who commits an offence under sub-paragraph (1) is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-### 8. Interpretation[^key-dfe19001d01162683f12196df93338b7]
+### 8. Interpretation[^c-dfe19001d01162683f12196df93338b7]
 
 For the purposes of paragraphs 5 and 6 a person enters any premises in the exercise of a power conferred by the relevant provisions despite a failure (whether by virtue of the waiver of the requirement by the occupier of the premises or otherwise) to comply with—
 
@@ -108,20 +108,20 @@ For the purposes of paragraphs 5 and 6 a person enters any premises in the exerc
 
 ## Annotations
 
-[^key-80fd4f87eb3ccbe7afaeac1df9ab319b]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-80fd4f87eb3ccbe7afaeac1df9ab319b]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-7ff08c3fb783329c31772d8f34fdcf15]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-7ff08c3fb783329c31772d8f34fdcf15]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-a24b035ab6256876e47f385a2ab4ae76]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-a24b035ab6256876e47f385a2ab4ae76]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-49139666658028f38be9c27bd5f65bc6]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-49139666658028f38be9c27bd5f65bc6]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-51ae9800083478bc263f4fbb8d7de6c0]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/5) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-51ae9800083478bc263f4fbb8d7de6c0]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/5) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-e260ad36e7dfcf36e6bbeea8e9c2178a]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/6) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-e260ad36e7dfcf36e6bbeea8e9c2178a]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/6) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-12f6b7b0c1263630179722436dacb302]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/7) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-12f6b7b0c1263630179722436dacb302]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/7) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-326265815f917da03bdb5aaa35d820c4]: Textual amendment: Word in sch. 8 para. 7(1) substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(8)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/8)
+[^c-326265815f917da03bdb5aaa35d820c4]: Textual amendment: Word in sch. 8 para. 7(1) substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(8)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/8)
 
-[^key-dfe19001d01162683f12196df93338b7]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/8) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-dfe19001d01162683f12196df93338b7]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ssi/2017/282/schedule/8/paragraph/8) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

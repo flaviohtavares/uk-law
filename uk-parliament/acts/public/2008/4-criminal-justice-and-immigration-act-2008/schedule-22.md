@@ -24,15 +24,15 @@ Section 126
 
 ### Part 1 — Amendments of Police Act 1996
 
-**1.**[^key-543f7e0f29186edc723a59fc027b3410] The Police Act 1996 (c. 16) has effect subject to the following amendments.
+**1.**[^c-543f7e0f29186edc723a59fc027b3410] The Police Act 1996 (c. 16) has effect subject to the following amendments.
 
 #### General duty of Secretary of State
 
-**2.**[^key-e9ef4bb17f67bae75bba6f4b59489aa2] In section 36(2)(d) (general duty of Secretary of State) for “section 85” substitute “ sections 84 and 85 ”.
+**2.**[^c-e9ef4bb17f67bae75bba6f4b59489aa2] In section 36(2)(d) (general duty of Secretary of State) for “section 85” substitute “ sections 84 and 85 ”.
 
 #### Regulations for police forces
 
-**3.**[^key-53ba21565641d08ea9e0e0534ffa2e4d][^key-92040ac00d027d6b7ad47bf595fe236a] (1) Section 50 (regulations for police forces) is amended as follows.
+**3.**[^c-53ba21565641d08ea9e0e0534ffa2e4d][^c-92040ac00d027d6b7ad47bf595fe236a] (1) Section 50 (regulations for police forces) is amended as follows.
 
 (2) For subsection (3) substitute—
 
@@ -47,7 +47,7 @@ Section 126
 
 #### Regulations for special constables
 
-**4.**[^key-caf71411073347871d0babb951dae532][^key-2c4e95c6c240534ade19d59e2047cc1f] (1) Section 51 (regulations for special constables) is amended as follows.
+**4.**[^c-caf71411073347871d0babb951dae532][^c-2c4e95c6c240534ade19d59e2047cc1f] (1) Section 51 (regulations for special constables) is amended as follows.
 
 (2) In subsection (2)(ba) (conduct of special constables) after “conduct” insert “ , efficiency and effectiveness ”.
 
@@ -62,11 +62,11 @@ Section 126
 
 #### Police Federations
 
-**5.**[^key-c5cb06a41d00ef3626f13898488f8292] In section 59(3) (representation only by another member of a police force except in certain circumstances) for “provided by” substitute “ provided in regulations made in accordance with ”.
+**5.**[^c-c5cb06a41d00ef3626f13898488f8292] In section 59(3) (representation only by another member of a police force except in certain circumstances) for “provided by” substitute “ provided in regulations made in accordance with ”.
 
 #### Police Advisory Board
 
-**6.**[^key-07d5fb4563ee4e5ba13db8bf80d6def3] (1) Section 63(3) (supply of draft regulations to the Police Advisory Board) is amended as follows.
+**6.**[^c-07d5fb4563ee4e5ba13db8bf80d6def3] (1) Section 63(3) (supply of draft regulations to the Police Advisory Board) is amended as follows.
 
 (2) In paragraph (a), for “regulations under section 50 or 52” substitute “ regulations or rules under section 50, 52, 84 or 85 ”.
 
@@ -74,7 +74,7 @@ Section 126
 
 #### Representation at disciplinary and other proceedings
 
-**7.**[^key-0285f51162f72fbda12a3df8df1b2c7c][^key-3698dcb8630be2c3378e4f7f552b7f6e] For section 84 substitute—
+**7.**[^c-0285f51162f72fbda12a3df8df1b2c7c][^c-3698dcb8630be2c3378e4f7f552b7f6e] For section 84 substitute—
 
 > **84. Representation etc. at disciplinary and other proceedings**
 >
@@ -122,7 +122,7 @@ Section 126
 
 #### Appeals against dismissal etc.
 
-**8.**[^key-34d6f13a827b9816a8c1474ae88c38d8][^key-ebe1eabfcee9bde3f878e3e4d746bd9c] (1) Section 85 (appeals against dismissal etc.) is amended as follows.
+**8.**[^c-34d6f13a827b9816a8c1474ae88c38d8][^c-ebe1eabfcee9bde3f878e3e4d746bd9c] (1) Section 85 (appeals against dismissal etc.) is amended as follows.
 
 (2) For subsections (1) and (2) substitute—
 
@@ -152,7 +152,7 @@ Section 126
 
 #### Guidance concerning disciplinary proceedings etc.
 
-**9.**[^key-369dfeb690ea6b8776ab9a38c4133709] (1) Section 87 (guidance concerning disciplinary proceedings etc.) is amended as follows.
+**9.**[^c-369dfeb690ea6b8776ab9a38c4133709] (1) Section 87 (guidance concerning disciplinary proceedings etc.) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -185,7 +185,7 @@ Section 126
 
 #### Police Appeals Tribunals
 
-**11.**[^key-24e3f4fc202194145c1a3a86e6c4fa75] (1) Schedule 6 (appeals to police appeals tribunals) is amended as follows.
+**11.**[^c-24e3f4fc202194145c1a3a86e6c4fa75] (1) Schedule 6 (appeals to police appeals tribunals) is amended as follows.
 
 (2) In paragraph 1(1) (appeals by senior officers) for paragraphs (b) and (c) substitute—
 
@@ -219,19 +219,19 @@ Section 126
   >   - (ii) the police force for the area for which the appellant is appointed as a special constable,
   >
   >   as the case may be.
-- (b)[^key-fc1ff8ac5b38f6aab4af79000dc5177a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-fc1ff8ac5b38f6aab4af79000dc5177a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Amendments of Ministry of Defence Police Act 1987
 
-**12.**[^key-cb7a621f5c80f737658b762027c2ff5f] The Ministry of Defence Police Act 1987 (c. 4) has effect subject to the following amendments.
+**12.**[^c-cb7a621f5c80f737658b762027c2ff5f] The Ministry of Defence Police Act 1987 (c. 4) has effect subject to the following amendments.
 
 #### Defence Police Federation
 
-**13.**[^key-6e1b8c9045e0ec7c61369e96e064b603] In section 3(4) (representation of a member of the Ministry of Defence Police by the Federation) for “on an appeal to the Secretary of State or as provided by” substitute “ as provided in regulations made under ”.
+**13.**[^c-6e1b8c9045e0ec7c61369e96e064b603] In section 3(4) (representation of a member of the Ministry of Defence Police by the Federation) for “on an appeal to the Secretary of State or as provided by” substitute “ as provided in regulations made under ”.
 
 #### Regulations relating to disciplinary matters
 
-**14.**[^key-6bd1154030a7982c9004a37952b63851] (1) Section 3A (regulations relating to disciplinary matters) is amended as follows.
+**14.**[^c-6bd1154030a7982c9004a37952b63851] (1) Section 3A (regulations relating to disciplinary matters) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -256,7 +256,7 @@ Section 126
 
 #### Representation etc. at disciplinary proceedings
 
-**15.**[^key-e4f7b8eb0e1055c3300264c3f95886a8] For section 4 substitute—
+**15.**[^c-e4f7b8eb0e1055c3300264c3f95886a8] For section 4 substitute—
 
 > **4. Representation etc. at disciplinary proceedings**
 >
@@ -308,7 +308,7 @@ Section 126
 
 #### Appeals against dismissal etc.
 
-**16.**[^key-2e4058680da731464210cc4d27f36ca7] For section 4A substitute—
+**16.**[^c-2e4058680da731464210cc4d27f36ca7] For section 4A substitute—
 
 > **4A. Appeals against dismissal etc.**
 >
@@ -342,11 +342,11 @@ Section 126
 
 ### Part 3 — Amendments of Railways and Transport Safety Act 2003
 
-**17.**[^key-ea711582cbfe7aaeaa9d587fc4c32923] The Railways and Transport Safety Act 2003 (c. 20) has effect subject to the following amendments.
+**17.**[^c-ea711582cbfe7aaeaa9d587fc4c32923] The Railways and Transport Safety Act 2003 (c. 20) has effect subject to the following amendments.
 
 #### Police regulations: general
 
-**18.**[^key-47278b2a6f10e855fc1d59d2ea335342] (1) Section 36 (police regulations: general) is amended as follows.
+**18.**[^c-47278b2a6f10e855fc1d59d2ea335342] (1) Section 36 (police regulations: general) is amended as follows.
 
 (2) In subsection (1) (power to make regulations about constables) after “conditions” insert “ of service ”.
 
@@ -359,7 +359,7 @@ Section 126
 
 #### Police regulations: special constables
 
-**19.**[^key-e30250d7fc3b8b0050a22fc92a01e33b] After section 37(1) (power to make regulations about special constables) insert—
+**19.**[^c-e30250d7fc3b8b0050a22fc92a01e33b] After section 37(1) (power to make regulations about special constables) insert—
 
 > (1A) The Authority shall also make regulations similar to the provision made by and under—
 >
@@ -368,7 +368,7 @@ Section 126
 
 #### Police regulations by Secretary of State
 
-**20.**[^key-d633b7d12ad90aa841bc08d5b23eadcf] For section 42(3) substitute—
+**20.**[^c-d633b7d12ad90aa841bc08d5b23eadcf] For section 42(3) substitute—
 
 > (3) If regulations under this section make provision for a matter specified in section 50(3) or section 51(2A) of the Police Act 1996 (disciplinary proceedings), they must also make provision similar to that made by and under—
 >
@@ -377,56 +377,56 @@ Section 126
 
 #### Regulations: further appeal
 
-**21.**[^key-4a2c415e32dcb21e9a0567f7ceedf826] Omit section 43 (regulations: further appeal).
+**21.**[^c-4a2c415e32dcb21e9a0567f7ceedf826] Omit section 43 (regulations: further appeal).
 
 ## Annotations
 
-[^key-543f7e0f29186edc723a59fc027b3410]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/1) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/a)
+[^c-543f7e0f29186edc723a59fc027b3410]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/1) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/a)
 
-[^key-e9ef4bb17f67bae75bba6f4b59489aa2]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/2) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/a)
+[^c-e9ef4bb17f67bae75bba6f4b59489aa2]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/2) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/a)
 
-[^key-53ba21565641d08ea9e0e0534ffa2e4d]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/3) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
+[^c-53ba21565641d08ea9e0e0534ffa2e4d]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/3) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
 
-[^key-92040ac00d027d6b7ad47bf595fe236a]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/3) in force at 1.12.2008 in so far as not already in force by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
+[^c-92040ac00d027d6b7ad47bf595fe236a]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/3) in force at 1.12.2008 in so far as not already in force by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
 
-[^key-caf71411073347871d0babb951dae532]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/4) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
+[^c-caf71411073347871d0babb951dae532]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/4) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
 
-[^key-2c4e95c6c240534ade19d59e2047cc1f]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/4) in force at 1.12.2008 in so far as not already in force by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
+[^c-2c4e95c6c240534ade19d59e2047cc1f]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/4) in force at 1.12.2008 in so far as not already in force by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
 
-[^key-c5cb06a41d00ef3626f13898488f8292]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/5) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
+[^c-c5cb06a41d00ef3626f13898488f8292]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/5) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
 
-[^key-07d5fb4563ee4e5ba13db8bf80d6def3]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/6) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/47)
+[^c-07d5fb4563ee4e5ba13db8bf80d6def3]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/6) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/47)
 
-[^key-0285f51162f72fbda12a3df8df1b2c7c]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/7) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
+[^c-0285f51162f72fbda12a3df8df1b2c7c]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/7) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
 
-[^key-3698dcb8630be2c3378e4f7f552b7f6e]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/7) in force at 1.12.2008 in so far as not already in force by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
+[^c-3698dcb8630be2c3378e4f7f552b7f6e]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/7) in force at 1.12.2008 in so far as not already in force by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
 
-[^key-34d6f13a827b9816a8c1474ae88c38d8]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/8) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(c)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
+[^c-34d6f13a827b9816a8c1474ae88c38d8]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/8) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 16(c)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/16/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/2712/article/4))
 
-[^key-ebe1eabfcee9bde3f878e3e4d746bd9c]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/8) in force at 1.12.2008 in so far as not already in force by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
+[^c-ebe1eabfcee9bde3f878e3e4d746bd9c]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/8) in force at 1.12.2008 in so far as not already in force by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(i)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
 
-[^key-369dfeb690ea6b8776ab9a38c4133709]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/9) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
+[^c-369dfeb690ea6b8776ab9a38c4133709]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/9) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
 
-[^key-24e3f4fc202194145c1a3a86e6c4fa75]: Commencement: Sch. 22 para. 11 in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
+[^c-24e3f4fc202194145c1a3a86e6c4fa75]: Commencement: Sch. 22 para. 11 in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2993/article/3))
 
-[^key-fc1ff8ac5b38f6aab4af79000dc5177a]: Textual amendment: Sch. 22 para. 11(6)(b) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 31(6)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/31/6/a), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/l) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2020/5/article/3/3))
+[^c-fc1ff8ac5b38f6aab4af79000dc5177a]: Textual amendment: Sch. 22 para. 11(6)(b) omitted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 31(6)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/31/6/a), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/l) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2020/5/article/3/3))
 
-[^key-cb7a621f5c80f737658b762027c2ff5f]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/12) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+[^c-cb7a621f5c80f737658b762027c2ff5f]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/12) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
 
-[^key-6e1b8c9045e0ec7c61369e96e064b603]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/13) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+[^c-6e1b8c9045e0ec7c61369e96e064b603]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/13) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
 
-[^key-6bd1154030a7982c9004a37952b63851]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/14) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+[^c-6bd1154030a7982c9004a37952b63851]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/14) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
 
-[^key-e4f7b8eb0e1055c3300264c3f95886a8]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/15) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+[^c-e4f7b8eb0e1055c3300264c3f95886a8]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/15) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
 
-[^key-2e4058680da731464210cc4d27f36ca7]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/16) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
+[^c-2e4058680da731464210cc4d27f36ca7]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/16) in force at 30.11.2009 by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/r)
 
-[^key-ea711582cbfe7aaeaa9d587fc4c32923]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/17) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)
+[^c-ea711582cbfe7aaeaa9d587fc4c32923]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/17) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)
 
-[^key-47278b2a6f10e855fc1d59d2ea335342]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/18) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)
+[^c-47278b2a6f10e855fc1d59d2ea335342]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/18) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)
 
-[^key-e30250d7fc3b8b0050a22fc92a01e33b]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/19) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)
+[^c-e30250d7fc3b8b0050a22fc92a01e33b]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/19) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)
 
-[^key-d633b7d12ad90aa841bc08d5b23eadcf]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/20) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)
+[^c-d633b7d12ad90aa841bc08d5b23eadcf]: Commencement: [Sch. 22 para. 20](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/20) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)
 
-[^key-4a2c415e32dcb21e9a0567f7ceedf826]: Commencement: [Sch. 22 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/21) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)
+[^c-4a2c415e32dcb21e9a0567f7ceedf826]: Commencement: [Sch. 22 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/22/paragraph/21) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/h/ii)

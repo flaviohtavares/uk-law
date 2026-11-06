@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.16. Procedure if the court convicts[^key-12bf5f8cc465578082288668e93a0af8]
+## 25.16. Procedure if the court convicts[^c-12bf5f8cc465578082288668e93a0af8]
 
 *Extent: E+W*
 
@@ -71,16 +71,16 @@ summary: ''
 (7) When the court has taken into account all the evidence, information and any report available, the court must—
 
 - (a) as a general rule, pass sentence at the earliest opportunity;
-- (b)[^key-7a020496c0df82c293784d2a1a718cc9] if of the view that an offence for which it is sentencing the defendant involved domestic abuse, within the meaning of sections 1 and 2 of the Domestic Abuse Act 2021, announce that view;
-- (d)[^key-921296ea1127a4be5591f8318c0fcf42] when passing sentence—
+- (b)[^c-7a020496c0df82c293784d2a1a718cc9] if of the view that an offence for which it is sentencing the defendant involved domestic abuse, within the meaning of sections 1 and 2 of the Domestic Abuse Act 2021, announce that view;
+- (d)[^c-921296ea1127a4be5591f8318c0fcf42] when passing sentence—
   - (i) explain the reasons,
   - (ii) explain to the defendant its effect, the consequences of failing to comply with any order or pay any fine, and any power that the court has to vary or review the sentence, unless the defendant is absent or the defendant’s ill-health or disorderly conduct makes such an explanation impracticable, and
   - (iii) give any such explanation in terms the defendant, if present, can understand (with help, if necessary); and
 - (e) deal with confiscation, costs and any behaviour order.
 
-(8)[^key-d5fc6e9e411ff40c4c925d2a87137cd4] The general rule under paragraph (7)(a) is subject to the court’s power to defer sentence.
+(8)[^c-d5fc6e9e411ff40c4c925d2a87137cd4] The general rule under paragraph (7)(a) is subject to the court’s power to defer sentence.
 
-*\[Note. See Sections 31, 52, 56A,[^key-9ac853ff1496f2e1471f0e7019acc05f] 59, 63, 124, 125 and 126 of the Sentencing Act 2020*[^f00617]*.*
+*\[Note. See Sections 31, 52, 56A,[^c-9ac853ff1496f2e1471f0e7019acc05f] 59, 63, 124, 125 and 126 of the Sentencing Act 2020*[^f00617]*.*
 
 *Under section 30 of the Sentencing Act 2020, the general rule (subject to exceptions) is that the court must obtain and consider a pre-sentence report—*
 
@@ -105,22 +105,22 @@ summary: ''
 
 *Part 28 contains rules about sentencing procedure in special cases. Part 31 contains rules about behaviour orders. Part 33 contains rules about confiscation and related orders. Part 45 contains rules about costs.*
 
-*Under section 3 of the Sentencing Act 2020, if (among other things) the defendant consents, the court may defer sentence for the purpose of allowing it to take account of the defendant’s conduct after conviction, or any change in the defendant’s circumstances. A deferment order may impose requirements as to the defendant’s conduct during the period of deferment. Under section 5 of the 2020 Act the period of deferment may not be for more than—[^key-80cfc659a656fb3f2cdf56c147186bb0]*
+*Under section 3 of the Sentencing Act 2020, if (among other things) the defendant consents, the court may defer sentence for the purpose of allowing it to take account of the defendant’s conduct after conviction, or any change in the defendant’s circumstances. A deferment order may impose requirements as to the defendant’s conduct during the period of deferment. Under section 5 of the 2020 Act the period of deferment may not be for more than—[^c-80cfc659a656fb3f2cdf56c147186bb0]*
 
 - (a) *6 months after the date on which the order is made, if the defendant was convicted of the offence, or any of the offences, before 22nd March 2026; and*
 - (b) *12 months after the date on which the order is made, if the defendant was convicted of the offence, or all of the offences, on or after 22nd March 2026.\]*
 
 ## Annotations
 
-[^key-12bf5f8cc465578082288668e93a0af8]: Commencement: [Rule 25.16](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-12bf5f8cc465578082288668e93a0af8]: Commencement: [Rule 25.16](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-7a020496c0df82c293784d2a1a718cc9]: Textual amendment: [Rule 25.16(7)(b)](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16/7/b) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/iii), [12(e)(ii)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/e/ii); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
+[^c-7a020496c0df82c293784d2a1a718cc9]: Textual amendment: [Rule 25.16(7)(b)](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16/7/b) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/iii), [12(e)(ii)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/e/ii); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
 
-[^key-921296ea1127a4be5591f8318c0fcf42]: Textual amendment: Rule 25.16(7)(b)(c) renumbered as rule 25.16(7)(d)(e) (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/iii), [12(e)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/e/i); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
+[^c-921296ea1127a4be5591f8318c0fcf42]: Textual amendment: Rule 25.16(7)(b)(c) renumbered as rule 25.16(7)(d)(e) (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/iii), [12(e)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/e/i); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
 
-[^key-d5fc6e9e411ff40c4c925d2a87137cd4]: Textual amendment: [Rule 25.16(8)](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16/8) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [12(f)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/f)
+[^c-d5fc6e9e411ff40c4c925d2a87137cd4]: Textual amendment: [Rule 25.16(8)](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16/8) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [12(f)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/f)
 
-[^key-9ac853ff1496f2e1471f0e7019acc05f]: Textual amendment: Word in [rule 25.16](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/iii), [12(g)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/g/i); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
+[^c-9ac853ff1496f2e1471f0e7019acc05f]: Textual amendment: Word in [rule 25.16](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/2/b/iii), [12(g)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/g/i); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4](https://www.legislation.gov.uk/uksi/2026/772/regulation/4)
 
 [^f00617]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
 
@@ -130,4 +130,4 @@ summary: ''
 
 [^f00620]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); section 34 was amended by section 29 of the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), section 3 of the Aggravated Vehicle-Taking Act [1992 (c. 11)](https://www.legislation.gov.uk/ukpga/1992/11), section 165 of, and paragraph 121 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), sections 56 and 107 of, and Schedule 8 to, the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), section 25 of the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), article 2 of [S.I. 2007/3480](https://www.legislation.gov.uk/uksi/2007/3480), paragraphs 2 and 5 of Schedule 27 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), section 56 of, and paragraphs 9 and 12 of Schedule 22 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and section 177 of, and paragraph 90 of Schedule 21 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25). Section 35 was amended by section 48 of, and paragraph 95 of Schedule 4 to, the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), section 165 of, and paragraph 122 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) and section 177 of, and 90 of Schedule 21 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25). Section 44 was amended by regulations 2 and 3 of, and paragraph 10 of Schedule 2 to, [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144) and sections 9, 10 and 59 of, and Schedule 7 to, the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49).
 
-[^key-80cfc659a656fb3f2cdf56c147186bb0]: Textual amendment: Words in [rule 25.16](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16) Note substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [12(g)(iv)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/g/iv)
+[^c-80cfc659a656fb3f2cdf56c147186bb0]: Textual amendment: Words in [rule 25.16](https://www.legislation.gov.uk/uksi/2025/909/rule/25.16) Note substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [12(g)(iv)](https://www.legislation.gov.uk/uksi/2026/721/rule/12/g/iv)

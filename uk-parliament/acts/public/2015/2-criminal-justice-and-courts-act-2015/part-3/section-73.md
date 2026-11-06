@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Jurors engaging in other prohibited conduct[^key-9fa37c34dbc8dd547233c227aae4bf20]
+## 73. Jurors engaging in other prohibited conduct[^c-9fa37c34dbc8dd547233c227aae4bf20]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ In the Juries Act 1974, after section 20B insert—
 
 ## Annotations
 
-[^key-9fa37c34dbc8dd547233c227aae4bf20]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2015/2/section/73) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/58) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))
+[^c-9fa37c34dbc8dd547233c227aae4bf20]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2015/2/section/73) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/58) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))

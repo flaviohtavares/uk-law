@@ -34,7 +34,7 @@ Stamp Duty
 
 Stamp Duty Reserve Tax
 
-The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 7) 2009 (revoked)[^key-d2ec2abbc1bd0f65f4e821757b918290]
+The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 7) 2009 (revoked)[^c-d2ec2abbc1bd0f65f4e821757b918290]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 3rd August 2009
 
-[^key-d2ec2abbc1bd0f65f4e821757b918290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2ec2abbc1bd0f65f4e821757b918290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d2ec2abbc1bd0f65f4e821757b918290]
+## 1. Citation and commencement[^c-d2ec2abbc1bd0f65f4e821757b918290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d2ec2abbc1bd0f65f4e821757b918290]
+## 2. Interpretation[^c-d2ec2abbc1bd0f65f4e821757b918290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescription of recognised investment exchanges and recognised clearing houses[^key-d2ec2abbc1bd0f65f4e821757b918290]
+## 3. Prescription of recognised investment exchanges and recognised clearing houses[^c-d2ec2abbc1bd0f65f4e821757b918290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed circumstances for the purposes of sections 116 and 117[^key-d2ec2abbc1bd0f65f4e821757b918290]
+## 4. Prescribed circumstances for the purposes of sections 116 and 117[^c-d2ec2abbc1bd0f65f4e821757b918290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential provision[^key-d2ec2abbc1bd0f65f4e821757b918290]
+## 5. Consequential provision[^c-d2ec2abbc1bd0f65f4e821757b918290]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2ec2abbc1bd0f65f4e821757b918290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2ec2abbc1bd0f65f4e821757b918290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d2ec2abbc1bd0f65f4e821757b918290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2ec2abbc1bd0f65f4e821757b918290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d2ec2abbc1bd0f65f4e821757b918290]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1601) revoked (10.8.2010) by [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 2) 2010 (S.I. 2010/1819)](https://www.legislation.gov.uk/uksi/2010/1819), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1819/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/1819/regulation/5)
+[^c-d2ec2abbc1bd0f65f4e821757b918290]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1601) revoked (10.8.2010) by [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) Regulations (No. 2) 2010 (S.I. 2010/1819)](https://www.legislation.gov.uk/uksi/2010/1819), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1819/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2010/1819/regulation/5)

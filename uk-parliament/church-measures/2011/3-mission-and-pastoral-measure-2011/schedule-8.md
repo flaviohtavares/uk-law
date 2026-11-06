@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 8 — Transitional Provisions[^key-a832fe32b35d85bf6df10efda7091af6]
+## SCHEDULE 8 — Transitional Provisions[^c-a832fe32b35d85bf6df10efda7091af6]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ Where any action, proposals, draft pastoral schemes or orders or pastoral (churc
 
 ## Annotations
 
-[^key-a832fe32b35d85bf6df10efda7091af6]: Commencement: Sch. 8 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-a832fe32b35d85bf6df10efda7091af6]: Commencement: Sch. 8 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

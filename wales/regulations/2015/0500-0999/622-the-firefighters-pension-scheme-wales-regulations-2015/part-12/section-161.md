@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. Determinations by the scheme manager[^key-04e0ff8ad68fb632ac5b8dd66e94f47f]
+## 161. Determinations by the scheme manager[^c-04e0ff8ad68fb632ac5b8dd66e94f47f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The scheme manager must determine whether a person is entitled to an award or to
 
 ## Annotations
 
-[^key-04e0ff8ad68fb632ac5b8dd66e94f47f]: Commencement: Reg. 161 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-04e0ff8ad68fb632ac5b8dd66e94f47f]: Commencement: Reg. 161 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

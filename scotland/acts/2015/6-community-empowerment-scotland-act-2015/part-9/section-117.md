@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Disposal etc. of allotment sites owned by local authority[^key-0b7f469c1b14bdd55edf13e0b42e4eaf]
+## 117. Disposal etc. of allotment sites owned by local authority[^c-0b7f469c1b14bdd55edf13e0b42e4eaf]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b7f469c1b14bdd55edf13e0b42e4eaf]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2015/6/section/117) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 16](https://www.legislation.gov.uk/ssi/2017/458/article/16))
+[^c-0b7f469c1b14bdd55edf13e0b42e4eaf]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2015/6/section/117) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 16](https://www.legislation.gov.uk/ssi/2017/458/article/16))

@@ -260,7 +260,7 @@ The Secretary of State, in exercise of the powers conferred by section 380 of th
 - [Section 105 — Limit on combined term: supplementary](part-14/section-105.md)
 - [Section 106 — Crediting of time in service custody](part-14/section-106.md)
 
-### Part 14A — Review of sentence proceedings[^key-4f392c0684cb8937eefab1973bff5a95]
+### Part 14A — Review of sentence proceedings[^c-4f392c0684cb8937eefab1973bff5a95]
 
 - [Section 106A — Review of sentence proceedings](part-14a/section-106a.md)
 
@@ -293,7 +293,7 @@ The Secretary of State, in exercise of the powers conferred by section 380 of th
 - [Section 129 — Review of unduly lenient sentence for SDA offence](part-15/section-129.md)
 - [Section 130 — Compensation for miscarriages of justice](part-15/section-130.md)
 
-### Part 15A — Appeals against review of sentence[^key-1ac924aceb26ae944b3a057aa10a95b0]
+### Part 15A — Appeals against review of sentence[^c-1ac924aceb26ae944b3a057aa10a95b0]
 
 - [Section 130A — Appeals against review of sentence](part-15a/section-130a.md)
 
@@ -437,6 +437,6 @@ This Order makes transitional provision in connection with the coming into force
 
 [^c19669201]: Marginal citation: [2008 c. 28](https://www.legislation.gov.uk/ukpga/2008/28).
 
-[^key-4f392c0684cb8937eefab1973bff5a95]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/uksi/2009/1059/part/14A) inserted (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/44/2); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
+[^c-4f392c0684cb8937eefab1973bff5a95]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/uksi/2009/1059/part/14A) inserted (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/44/2); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
 
-[^key-1ac924aceb26ae944b3a057aa10a95b0]: Textual amendment: [Pt. 15A](https://www.legislation.gov.uk/uksi/2009/1059/part/15A) inserted (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2024/619/regulation/44/3); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
+[^c-1ac924aceb26ae944b3a057aa10a95b0]: Textual amendment: [Pt. 15A](https://www.legislation.gov.uk/uksi/2009/1059/part/15A) inserted (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2024/619/regulation/44/3); [S.I. 2024/562](https://www.legislation.gov.uk/uksi/2024/562), [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 8 — Other applicable amounts specified in the Income Support Regulations[^key-2cdb2950efc3b9ad4f36df1fe285a080]
+## SCHEDULE 8 — Other applicable amounts specified in the Income Support Regulations[^c-2cdb2950efc3b9ad4f36df1fe285a080]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ Article 18(12)
 
 ## Annotations
 
-[^key-2cdb2950efc3b9ad4f36df1fe285a080]: Commencement: Sch. 8 comes into force in accordance with art. 1(1)(h)
+[^c-2cdb2950efc3b9ad4f36df1fe285a080]: Commencement: Sch. 8 comes into force in accordance with art. 1(1)(h)
 
 [^f00061]: Footnote: Schedule 3 was substituted by Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and amended by regulation 2(3) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434)

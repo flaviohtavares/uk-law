@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Inquiries about social landlords[^key-1443f02baa0dd9e6930132fa663ecdcd]
+## 42. Inquiries about social landlords[^c-1443f02baa0dd9e6930132fa663ecdcd]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ and, where carried out by an inquirer, references to the Regulator in sections 4
 
 ## Annotations
 
-[^key-1443f02baa0dd9e6930132fa663ecdcd]: Commencement: S. 42 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-1443f02baa0dd9e6930132fa663ecdcd]: Commencement: S. 42 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

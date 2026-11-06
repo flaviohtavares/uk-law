@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and Commencement[^key-ab74a29605f42ccc9b17405b65288db9]
+## 1. Citation and Commencement[^c-ab74a29605f42ccc9b17405b65288db9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Network Rail (Ordsall Chord) Order 2015 and comes
 
 ## Annotations
 
-[^key-ab74a29605f42ccc9b17405b65288db9]: Commencement: Art. 1 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-ab74a29605f42ccc9b17405b65288db9]: Commencement: Art. 1 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

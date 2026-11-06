@@ -67,20 +67,20 @@ These Regulations may be cited as the Carcase Classification and Price Reporting
 - “**the 2010 Regulations**” means the Beef and Pig Carcase Classification (England) Regulations 2010 [^c23430631];
 - “**adult bovine animal**” means a bovine animal aged eight months or more;
 - “**approved slaughterhouse**” means an establishment used for slaughtering pigs or adult bovine animals, the meat of which is intended for human consumption and which is approved or conditionally approved under Article 4 of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c23430641];
-- “[^key-28228107034ff3d33c55f4010c915596]**assimilated beef provision**” means a provision which is specified in column 2 of Schedule 1, the subject matter of which is described in column 3 of that Schedule;
-- “[^key-0042e841a0659a72bac5ce367b536068]**assimilated pig provision**” means a provision which is specified in column 2 of Schedule 2, the subject matter of which is described in column 3 of that Schedule;
+- “[^c-28228107034ff3d33c55f4010c915596]**assimilated beef provision**” means a provision which is specified in column 2 of Schedule 1, the subject matter of which is described in column 3 of that Schedule;
+- “[^c-0042e841a0659a72bac5ce367b536068]**assimilated pig provision**” means a provision which is specified in column 2 of Schedule 2, the subject matter of which is described in column 3 of that Schedule;
 - “**authorised officer**” means a person authorised by the Secretary of State for the purposes of these Regulations, but does not include a person appointed for the purpose of considering an appeal under regulation 11;
-- “**bovine carcase**” means a carcase or half-carcase of a slaughtered adult bovine animal bearing a health mark as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-4480d513591004d3d7740b94fe025a72];
+- “**bovine carcase**” means a carcase or half-carcase of a slaughtered adult bovine animal bearing a health mark as defined in Article 3(51) of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^c-4480d513591004d3d7740b94fe025a72];
 - “**classification**” means—
-  - (a) the classification of bovine carcases in accordance with the assimilated[^key-0dc895aeb85339e74edc53d99216a379][^key-2f4db341a73b5e4e73877cb8fe0139c8] beef provisions, or
-  - (b) the classification of pig carcases in accordance with the assimilated[^key-500ecedbbc57605f3d63e643cd99fb73] pig provisions and with regulation 15,
+  - (a) the classification of bovine carcases in accordance with the assimilated[^c-0dc895aeb85339e74edc53d99216a379][^c-2f4db341a73b5e4e73877cb8fe0139c8] beef provisions, or
+  - (b) the classification of pig carcases in accordance with the assimilated[^c-500ecedbbc57605f3d63e643cd99fb73] pig provisions and with regulation 15,
 
   as the case may be and cognate terms are to be construed accordingly;
 - “**clean pig**” means a pig which has not been used for breeding;
 - “**Commission Delegated Regulation**” means Commission Delegated Regulation (EU) 2017/1182 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases and live animals;
 - “**Commission Implementing Regulation**” means Commission Implementing Regulation (EU) 2017/1184 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the Union scales for the classification of beef, pig and sheep carcases and as regards the reporting of market prices of certain categories of carcases and live animals;
-- [^key-c1f0e1ffd2b08b8b2c3b7d641abebbc3]...
-- [^key-c1f0e1ffd2b08b8b2c3b7d641abebbc3]...
+- [^c-c1f0e1ffd2b08b8b2c3b7d641abebbc3]...
+- [^c-c1f0e1ffd2b08b8b2c3b7d641abebbc3]...
 - “**operator**” means a person carrying on the business of an approved slaughterhouse;
 - “**pig carcase**” means the body of a slaughtered clean pig, bled and eviscerated, whole or divided down the mid-line;
 - “**prescribed communication**” means a communication of the results of the classification as required by Article 1 of the Commission Implementing Regulation; and
@@ -179,7 +179,7 @@ is deemed to have given notice under paragraph (1).
 (2) The Secretary of State is responsible for—
 
 - (a) authorisation of automated grading methods for beef carcases as described in Article 10 of the Commission Delegated Regulation;
-- (b)[^key-8a174dbb522fb3b06c72f99623ec22ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8a174dbb522fb3b06c72f99623ec22ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) on-the-spot checks as described in Articles 2 and 3 of the Commission Implementing Regulation.
 
 ### 9. Licence to carry out classification
@@ -259,7 +259,7 @@ is deemed to have given notice under paragraph (1).
 (2) The Secretary of State is responsible for—
 
 - (a) authorisation of automated grading methods for pig carcases as described in Article 11 of the Commission Delegated Regulation;
-- (b)[^key-557371bc7a4369b7841a9def2a477e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-557371bc7a4369b7841a9def2a477e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) on-the-spot checks as described in Articles 2 and 3 of the Commission Implementing Regulation.
 
 ### 15. Authorised grading methods
@@ -273,7 +273,7 @@ is deemed to have given notice under paragraph (1).
 
 ### 16. Records instead of marking
 
-An operator or the person responsible for the classification of pigs may, instead of marking a carcase in accordance with the assimilated[^key-972c2652673b00086b6771546047de65] pig provisions set out in Part 2 of Schedule 2, draw up a record for that carcase which comprises at least —
+An operator or the person responsible for the classification of pigs may, instead of marking a carcase in accordance with the assimilated[^c-972c2652673b00086b6771546047de65] pig provisions set out in Part 2 of Schedule 2, draw up a record for that carcase which comprises at least —
 
 - (a) the individual identification of the carcase by any unalterable means;
 - (b) the warm weight of the carcase; and
@@ -399,7 +399,7 @@ An authorised officer entering premises under these Regulations may—
 
 (3) Where a penalty notice is withdrawn, the Secretary of State must repay any penalty paid under the penalty notice to the person named in the penalty notice within 28 days, beginning with the date on which notice of the withdrawal of the penalty notice was sent.
 
-### 27. Offences: assimilated beef provisions[^key-3f6c339973b098219e7718cab8d62810]
+### 27. Offences: assimilated beef provisions[^c-3f6c339973b098219e7718cab8d62810]
 
 Any person who—
 
@@ -408,7 +408,7 @@ Any person who—
 
 is guilty of an offence.
 
-### 28. Offences: assimilated pig provision[^key-4c036a79fa19a36dc0f12779438f8cc2]
+### 28. Offences: assimilated pig provision[^c-4c036a79fa19a36dc0f12779438f8cc2]
 
 (1) Any person who—
 
@@ -504,7 +504,7 @@ It is a defence for a person charged with an offence under these Regulations (P)
 (1) A person guilty of an offence under—
 
 - (a) regulation 21(3) (enforcement notices),
-- (b) regulation 27 (assimilated[^key-4441ad16cf48315becb3517b3fd5b13e] beef provisions),
+- (b) regulation 27 (assimilated[^c-4441ad16cf48315becb3517b3fd5b13e] beef provisions),
 - (c) regulation 28 (assimilated pig provisions),
 - (d) regulation 29 (notifications by operators),
 - (e) regulation 30 (licences (bovine carcases)),
@@ -525,16 +525,16 @@ Minister of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE 1 — Assimilated provisions: bovine carcases[^key-c3a260d2d67b72bd9e8b92ee20a328b1]
+## SCHEDULE 1 — Assimilated provisions: bovine carcases[^c-c3a260d2d67b72bd9e8b92ee20a328b1]
 
 Regulation 2
 
-| *(1) Regulation containing assimilated[^key-43dc6ca4df47614bcd58a2f5f30ca384] provision* | *(2) Provision* | *(3)Subject matter* |
+| *(1) Regulation containing assimilated[^c-43dc6ca4df47614bcd58a2f5f30ca384] provision* | *(2) Provision* | *(3)Subject matter* |
 | --- | --- | --- |
 | Regulation (EU) 2013 | Article 10 and Annex IV, point A(II), together with Article 1 of the Commission Delegated Regulation (read with the Cattle Identification Regulations 2007 [^c23430701]) | Requirement to indicate the category of carcase as specified in these provisions |
 |  | Article 10 and Annex IV, point A(III), together with Article 3(1) of, and Annex 1 to, the Commission Delegated Regulation | Requirement to indicate, in relation to a carcase, the class of conformation and fat cover, as specified in these provisions |
 |  | Article 10 and Annex IV, point A(IV) | Requirement to present carcases in the specified manner |
-|  | Article 10 and Annex IV, point A(V), first sub-paragraph | Requirement for approved slaughterhouses to classify and identify carcases in accordance with the United Kingdom[^key-1c26a1aad5ef4301fee33e3f52e83dcb] scale |
+|  | Article 10 and Annex IV, point A(V), first sub-paragraph | Requirement for approved slaughterhouses to classify and identify carcases in accordance with the United Kingdom[^c-1c26a1aad5ef4301fee33e3f52e83dcb] scale |
 | Commission Delegated Regulation | Article 6(1) | Prohibition on removing fat, muscle or other tissue before weighing, grading and marking |
 |  | Article 6(3) | Requirement to present carcases in the specified manner, for the purpose of establishing market prices |
 |  | Article 7(1) | Requirement as to the time and place of classification |
@@ -552,17 +552,17 @@ Regulation 2
 |  | Article 7 | Requirement as to classes for recording of market prices for beef carcasses |
 |  | Article 8(1), (3) and (4) | Requirements as to the recording of prices |
 
-## SCHEDULE 2 — Assimilated provisions: pig carcases[^key-036413c96be6149417ca1eb22af38bb1]
+## SCHEDULE 2 — Assimilated provisions: pig carcases[^c-036413c96be6149417ca1eb22af38bb1]
 
 Regulation 2
 
 ### PART 1
 
-| *(1) Regulation containing assimilated[^key-3645ac2c3284360f69a1e6c04ae72ee5] provision* | *(2) Provision* | *(3) Subject matter* |
+| *(1) Regulation containing assimilated[^c-3645ac2c3284360f69a1e6c04ae72ee5] provision* | *(2) Provision* | *(3) Subject matter* |
 | --- | --- | --- |
 | Regulation (EU) 2013 | Article 10 and Annex IV, point B(II) | Requirement to classify carcases into one of the specified classes |
 |  | Article 10 and Annex IV, point B(III), as modified by Articles 3 and 4 of Commission Decision [2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom [^c23430711] | Requirement to present carcases in a manner specified in these provisions |
-|  | Article 10 and Annex IV, point B(IV), sub-paragraph 1, together with Article 1 of, and Annex I to, Commission Decision [2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom | Requirement to grade carcases by authorised methods[^key-e4c16f1db19923f92b5dcc8f7cd4f329] |
+|  | Article 10 and Annex IV, point B(IV), sub-paragraph 1, together with Article 1 of, and Annex I to, Commission Decision [2004/370/EC](https://www.legislation.gov.uk/european/decision/2004/0370) authorising methods for grading pig carcases in the United Kingdom | Requirement to grade carcases by authorised methods[^c-e4c16f1db19923f92b5dcc8f7cd4f329] |
 | Commission Delegated Regulation | Article 6(1) | Prohibition on removing fat, muscle or other tissue before weighing, grading and marking |
 |  | Article 7(1) | Requirement as to the time and place of classification |
 |  | Article 7(3)(b) and 7(4)(a) | Requirements as to weighing of carcase and weight adjustments |
@@ -578,7 +578,7 @@ Regulation 2
 
 ### PART 2
 
-| *(1) Regulation containing assimilated[^key-a2a6564bc1f62335a5ea8e71dca9d0d1] provision* | *(2) Provision* | *(3) Subject matter* |
+| *(1) Regulation containing assimilated[^c-a2a6564bc1f62335a5ea8e71dca9d0d1] provision* | *(2) Provision* | *(3) Subject matter* |
 | --- | --- | --- |
 | Commission Delegated Regulation | Article 8(1), 8(2)(b), Article 8(3)(c) read with the second paragraph of that Article and Article 8(4) | Requirements as to marking or labelling of carcases |
 |  | Article 8(5) | Requirements in relation to labelling of a carcase |
@@ -670,19 +670,19 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23430641]: Marginal citation: OJ No L139, 30.4.2004, p 55, as last amended by Commission Regulation (EU) 2017/1981 (OJ No L285, 1.11.2017, p 10).
 
-[^key-28228107034ff3d33c55f4010c915596]: Textual amendment: Words in reg. 2(1) inserted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/iii)
+[^c-28228107034ff3d33c55f4010c915596]: Textual amendment: Words in reg. 2(1) inserted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/iii)
 
-[^key-0042e841a0659a72bac5ce367b536068]: Textual amendment: Words in reg. 2(1) inserted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(iv)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/iv)
+[^c-0042e841a0659a72bac5ce367b536068]: Textual amendment: Words in reg. 2(1) inserted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(iv)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/iv)
 
-[^key-4480d513591004d3d7740b94fe025a72]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2019/1488/regulation/31)
+[^c-4480d513591004d3d7740b94fe025a72]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2019/1488/regulation/31)
 
-[^key-0dc895aeb85339e74edc53d99216a379]: Textual amendment: Word in reg. 2(1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/i)
+[^c-0dc895aeb85339e74edc53d99216a379]: Textual amendment: Word in reg. 2(1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/i)
 
-[^key-2f4db341a73b5e4e73877cb8fe0139c8]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f4db341a73b5e4e73877cb8fe0139c8]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-500ecedbbc57605f3d63e643cd99fb73]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-500ecedbbc57605f3d63e643cd99fb73]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1f0e1ffd2b08b8b2c3b7d641abebbc3]: Textual amendment: Words in reg. 2(1) omitted (27.2.2025) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/ii)
+[^c-c1f0e1ffd2b08b8b2c3b7d641abebbc3]: Textual amendment: Words in reg. 2(1) omitted (27.2.2025) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(a)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/a/ii)
 
 [^c23430661]: Marginal citation: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), to which there are amendments not relevant to these Regulations.
 
@@ -690,34 +690,34 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23430681]: Marginal citation: [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575).
 
-[^key-8a174dbb522fb3b06c72f99623ec22ad]: Textual amendment: [Reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/8/2/b) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a174dbb522fb3b06c72f99623ec22ad]: Textual amendment: [Reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/8/2/b) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-557371bc7a4369b7841a9def2a477e84]: Textual amendment: [Reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/14/2/b) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-557371bc7a4369b7841a9def2a477e84]: Textual amendment: [Reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/14/2/b) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-972c2652673b00086b6771546047de65]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2018/1164/regulation/16) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/b)
+[^c-972c2652673b00086b6771546047de65]: Textual amendment: Word in [reg. 16](https://www.legislation.gov.uk/uksi/2018/1164/regulation/16) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/b)
 
 [^c23430691]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); [sections 51](https://www.legislation.gov.uk/uksi/2018/1164/section/51) and 52 have been substituted by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [section 47](https://www.legislation.gov.uk/ukpga/2003/39/section/47).
 
-[^key-3f6c339973b098219e7718cab8d62810]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/uksi/2018/1164/regulation/27) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/c)
+[^c-3f6c339973b098219e7718cab8d62810]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/uksi/2018/1164/regulation/27) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/c)
 
-[^key-4c036a79fa19a36dc0f12779438f8cc2]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2018/1164/regulation/28) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/d)
+[^c-4c036a79fa19a36dc0f12779438f8cc2]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2018/1164/regulation/28) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/d)
 
-[^key-4441ad16cf48315becb3517b3fd5b13e]: Textual amendment: Word in [reg. 37](https://www.legislation.gov.uk/uksi/2018/1164/regulation/37) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/e)
+[^c-4441ad16cf48315becb3517b3fd5b13e]: Textual amendment: Word in [reg. 37](https://www.legislation.gov.uk/uksi/2018/1164/regulation/37) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/e)
 
-[^key-c3a260d2d67b72bd9e8b92ee20a328b1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/1) heading substituted (27.2.2025) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(f)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/f/i)
+[^c-c3a260d2d67b72bd9e8b92ee20a328b1]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/1) heading substituted (27.2.2025) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(f)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/f/i)
 
 [^c23430701]: Marginal citation: SI. 2007/529. The Cattle Identification Regulations 2007 establish a bovine animal identification and registration system in England, as specified in Article 1 of Regulation (EU) 2013.
 
-[^key-1c26a1aad5ef4301fee33e3f52e83dcb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(9)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c26a1aad5ef4301fee33e3f52e83dcb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(9)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43dc6ca4df47614bcd58a2f5f30ca384]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(f)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/f/ii)
+[^c-43dc6ca4df47614bcd58a2f5f30ca384]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(f)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/f/ii)
 
-[^key-036413c96be6149417ca1eb22af38bb1]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(g)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/g/i)
+[^c-036413c96be6149417ca1eb22af38bb1]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2) heading substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(g)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/g/i)
 
 [^c23430711]: Marginal citation: OJ No L116, 22.4.2004, p 32, as last amended by Commission Decision 2006/374/EC (OJ No L142, 30.5.2006, p 34).
 
-[^key-e4c16f1db19923f92b5dcc8f7cd4f329]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2/part/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(10)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4c16f1db19923f92b5dcc8f7cd4f329]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2/part/1) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [10(10)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/10/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3645ac2c3284360f69a1e6c04ae72ee5]: Textual amendment: Word in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2/part/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(g)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/g/ii)
+[^c-3645ac2c3284360f69a1e6c04ae72ee5]: Textual amendment: Word in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2/part/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(g)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/g/ii)
 
-[^key-a2a6564bc1f62335a5ea8e71dca9d0d1]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2/part/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(g)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/g/iii)
+[^c-a2a6564bc1f62335a5ea8e71dca9d0d1]: Textual amendment: Word in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1164/schedule/2/part/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 41(g)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/41/g/iii)

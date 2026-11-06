@@ -45,11 +45,11 @@ Articles 13 and 15(2)
 
 Whereas a draft of this Order has been laid before Parliament and approved by a resolution of each House in accordance with sections 3A(13) and 3B(6) of the Immigration Act 1971[^f00001];
 
-Now, therefore, the Secretary of State, in exercise of the powers conferred upon him by sections 3A(1), (2), (3), (4), (6) and (10) and 3B(2)(a) and (c) and (3)(a) of the Immigration Act 1971, hereby makes the following Order:[^key-b116c82f8d36efabc1dcfa078dd64b68]
+Now, therefore, the Secretary of State, in exercise of the powers conferred upon him by sections 3A(1), (2), (3), (4), (6) and (10) and 3B(2)(a) and (c) and (3)(a) of the Immigration Act 1971, hereby makes the following Order:[^c-b116c82f8d36efabc1dcfa078dd64b68]
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-d55d88cb96f89a8a2db4fb020dd2f8a9]
+### 1. Citation, commencement and interpretation[^c-d55d88cb96f89a8a2db4fb020dd2f8a9]
 
 (1) This Order may be cited as the Immigration (Leave to Enter and Remain) Order 2000.
 
@@ -58,18 +58,18 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred upon
 (3) In this Order—
 
 - “the Act” means the Immigration Act 1971;
-- “ADS Agreement with China” means the Memorandum of Understanding on visa and related issues concerning tourist groups from the People’s Republic of China to the United Kingdom as an approved destination, signed on 21st January 2005;[^key-2a81f1c73eaac3d6b0d8cc3ee8491d64]
-- “biometric immigration document” means a document recording biometric information;[^key-c8ad4fbe2bdf350008f12145370a9ea4]
+- “ADS Agreement with China” means the Memorandum of Understanding on visa and related issues concerning tourist groups from the People’s Republic of China to the United Kingdom as an approved destination, signed on 21st January 2005;[^c-2a81f1c73eaac3d6b0d8cc3ee8491d64]
+- “biometric immigration document” means a document recording biometric information;[^c-c8ad4fbe2bdf350008f12145370a9ea4]
 - “control port” means a port in which a control area is designated under paragraph 26(3) of Schedule 2 to the Act;
-- “convention travel document” means a travel document issued pursuant to Article 28 of the Refugee Convention, except where that travel document was issued by the United Kingdom Government;[^key-11e72b9be8ef8cf96833fd4b3a14308c]
-- “[^key-d0ea245a0b2d55dd410a3246861fb940]**Crown service**” means service of the Crown, whether within Her Majesty's dominions or elsewhere, under Her Majesty's government in the United Kingdom or in a Northern Ireland department or under the Scottish Administration or under the Welsh Government;
-- “decision-maker” means—[^key-f4d44e74dbdf7128ad64ca9b27b1c394]
+- “convention travel document” means a travel document issued pursuant to Article 28 of the Refugee Convention, except where that travel document was issued by the United Kingdom Government;[^c-11e72b9be8ef8cf96833fd4b3a14308c]
+- “[^c-d0ea245a0b2d55dd410a3246861fb940]**Crown service**” means service of the Crown, whether within Her Majesty's dominions or elsewhere, under Her Majesty's government in the United Kingdom or in a Northern Ireland department or under the Scottish Administration or under the Welsh Government;
+- “decision-maker” means—[^c-f4d44e74dbdf7128ad64ca9b27b1c394]
   - (a) the Secretary of State;
   - (b) an immigration officer;
 - "Her Majesty's Forces” has the same meaning as in the Armed Forces Act 2006[^M_F_7cdf9ee5-abf2-4c40-d484-0da2fd3e6e65];
-- [^key-c41225b47bed277db82e61f7c49318fc]...
-- “Refugee Convention” means the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and its Protocol;[^key-5b9b8b63b75639078d29baca5072c204]
-- “representative” means a person who appears to the decision-maker—[^key-77343117b81e2372a0a0b90d2a46014d]
+- [^c-c41225b47bed277db82e61f7c49318fc]...
+- “Refugee Convention” means the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and its Protocol;[^c-5b9b8b63b75639078d29baca5072c204]
+- “representative” means a person who appears to the decision-maker—[^c-77343117b81e2372a0a0b90d2a46014d]
   - (a) to be the representative of the person referred to in article 8ZA(1); and
   - (b) not to be prohibited from acting as a representative by section 84 of the Immigration and Asylum Act 1999;
 - “responsible third party” means a person appearing to an immigration officer to be:
@@ -78,19 +78,19 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred upon
   - (c) the owner or agent of a ship, aircraft, train, hydrofoil or hovercraft;
   - (d) the person responsible for the management of a control port or his agent; or
   - (e) an official at a British Diplomatic Mission or at a British Consular Post or at the office of any person outside the United Kingdom and Islands who has been authorised by the Secretary of State to accept applications for entry clearance;
-- “[^key-36b5354d6ef3039da20b6551c5678ae1]**Service Provider from Switzerland visa**” means an entry clearance granted for the purpose of entry to the United Kingdom under the appendix to the immigration rules entitled “Appendix Service Providers from Switzerland”
+- “[^c-36b5354d6ef3039da20b6551c5678ae1]**Service Provider from Switzerland visa**” means an entry clearance granted for the purpose of entry to the United Kingdom under the appendix to the immigration rules entitled “Appendix Service Providers from Switzerland”
 - “tour operator” means a person who, otherwise than occasionally, organises and provides holidays to the public or a section of it; and
 - “visit visa” means an entry clearance granted for the purpose of entry to the United Kingdom as a visitor under the immigration rules.
 
 ## PART II — ENTRY CLEARANCE AS LEAVE TO ENTER
 
-### 2. Entry clearance as Leave to Enter[^key-e1ad331ca5d301a2ee37b299b6720a74]
+### 2. Entry clearance as Leave to Enter[^c-e1ad331ca5d301a2ee37b299b6720a74]
 
 Subject to article 6(3), an entry clearance which complies with the requirements of article 3 shall have effect as leave to enter the United Kingdom to the extent specified in article 4, but subject to the conditions referred to in article 5.
 
-### 3. Requirements[^key-8696ff0d647aea3a978ce0ea3ee65970]
+### 3. Requirements[^c-8696ff0d647aea3a978ce0ea3ee65970]
 
-(1)[^key-0a3fea5cf5de3878cf4b4744de67d997] Subject to paragraph (4), an entry clearance shall only have effect as leave to enter if it complies with the requirements of this article.
+(1)[^c-0a3fea5cf5de3878cf4b4744de67d997] Subject to paragraph (4), an entry clearance shall only have effect as leave to enter if it complies with the requirements of this article.
 
 (2) The entry clearance must specify the purpose for which the holder wishes to enter the United Kingdom.
 
@@ -99,24 +99,24 @@ Subject to article 6(3), an entry clearance which complies with the requirements
 - (a) the conditions to which it is subject; or
 - (b) a statement that it is to have effect as indefinite leave to enter the United Kingdom.
 
-(4)[^key-940205c24a12270cc4dbcf4dc96eeb70] Subject to paragraph (5), an entry clearance shall not have effect as leave to enter if it is endorsed on a convention travel document.
+(4)[^c-940205c24a12270cc4dbcf4dc96eeb70] Subject to paragraph (5), an entry clearance shall not have effect as leave to enter if it is endorsed on a convention travel document.
 
 (5) An entry clearance endorsed on a convention travel document before 27th February 2004 shall have effect as leave to enter.
 
-### 4. Extent to which Entry Clearance is to be Leave to Enter[^key-bc38935913f7b8b5ed0da9771beda460][^key-3ae2744849bd29ac3fb5b848f63d3ef7][^key-fc845dd5edb78b1d9454ad0510df3883][^key-8379c5aadda46d5278e6ddff27040c69][^key-a8fbc7c67af0f543ca142760eb55692f]
+### 4. Extent to which Entry Clearance is to be Leave to Enter[^c-bc38935913f7b8b5ed0da9771beda460][^c-3ae2744849bd29ac3fb5b848f63d3ef7][^c-fc845dd5edb78b1d9454ad0510df3883][^c-8379c5aadda46d5278e6ddff27040c69][^c-a8fbc7c67af0f543ca142760eb55692f]
 
-(1) A visit visa (other than a visit visa granted pursuant to the ADS Agreement with China[^key-5f8f48a9cf1786b06c7764d3e57d9284] , or a visit visa for private medical treatment or for entry as an academic visitor[^key-64b7efe38616ee39f9e2e0b730e6c6ca]) unless endorsed with a statement that it is to have effect as a single-entry visa[^key-494cae2953cf7f11a77cdf2692bd8442]... shall have effect as leave to enter the United Kingdom on an unlimited number of occasions during its period of validity[^key-7f9cac9587b096f8d67e92693722e9c3], in accordance with paragraph (2).
+(1) A visit visa (other than a visit visa granted pursuant to the ADS Agreement with China[^c-5f8f48a9cf1786b06c7764d3e57d9284] , or a visit visa for private medical treatment or for entry as an academic visitor[^c-64b7efe38616ee39f9e2e0b730e6c6ca]) unless endorsed with a statement that it is to have effect as a single-entry visa[^c-494cae2953cf7f11a77cdf2692bd8442]... shall have effect as leave to enter the United Kingdom on an unlimited number of occasions during its period of validity[^c-7f9cac9587b096f8d67e92693722e9c3], in accordance with paragraph (2).
 
 (2) On each occasion the holder arrives in the United Kingdom, he shall be treated for the purposes of the Immigration Acts as having been granted, before arrival, leave to enter the United Kingdom for a limited period beginning on the date of arrival, being:
 
 - (a) six months if six months or more remain of the visa’s period of validity; or
 - (b) the visa’s remaining period of validity, if less than six months.
 
-(2A)[^key-1c6075af45a7a0572a2c72b6e297dbcd] A visit visa granted pursuant to the ADS Agreement with China endorsed with a statement that it is to have effect as a dual-entry visa, shall have effect as leave to enter the United Kingdom on two occasions during its period of validity, in accordance with paragraph (2B).
+(2A)[^c-1c6075af45a7a0572a2c72b6e297dbcd] A visit visa granted pursuant to the ADS Agreement with China endorsed with a statement that it is to have effect as a dual-entry visa, shall have effect as leave to enter the United Kingdom on two occasions during its period of validity, in accordance with paragraph (2B).
 
-(2B) On arrival in the United Kingdom or entry into a Control Zone or entry into a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system[^key-2ce7c27e9acc47af8e2b99d482a6d1cc] on each occasion, the holder shall be treated for the purposes of the Immigration Acts as having been granted, before arrival or entry into a Control Zone or entry into the control zone or supplementary control zone, leave to enter the United Kingdom for a limited period, being the period beginning on the date on which the holder arrives in the United Kingdom or enters a Control Zone or enters a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system and ending on the date of expiry of the entry clearance.
+(2B) On arrival in the United Kingdom or entry into a Control Zone or entry into a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system[^c-2ce7c27e9acc47af8e2b99d482a6d1cc] on each occasion, the holder shall be treated for the purposes of the Immigration Acts as having been granted, before arrival or entry into a Control Zone or entry into the control zone or supplementary control zone, leave to enter the United Kingdom for a limited period, being the period beginning on the date on which the holder arrives in the United Kingdom or enters a Control Zone or enters a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system and ending on the date of expiry of the entry clearance.
 
-(2C)[^key-67cee62e24dcb68e88c84cc64ddb49d5] A visit visa granted for private medical treatment or for entry as an academic visitor, unless endorsed with a statement that it is to have effect as a single-entry visa, shall have effect as leave to enter the United Kingdom on an unlimited number of occasions during its period of validity in accordance with paragraph (2D).
+(2C)[^c-67cee62e24dcb68e88c84cc64ddb49d5] A visit visa granted for private medical treatment or for entry as an academic visitor, unless endorsed with a statement that it is to have effect as a single-entry visa, shall have effect as leave to enter the United Kingdom on an unlimited number of occasions during its period of validity in accordance with paragraph (2D).
 
 (2D) On arrival in the United Kingdom or entry into a Control Zone or entry into a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system on each occasion, the holder shall be treated for the purposes of the Immigration Acts as having been granted, before arrival or entry into a Control Zone or entry into the control zone or supplementary control zone, leave to enter the United Kingdom for a limited period beginning on the date of arrival or entry into the Control Zone or entry into the control zone or supplementary control zone, being—
 
@@ -127,32 +127,32 @@ Subject to article 6(3), an entry clearance which complies with the requirements
   - (i) 12 months if 12 months remain of the visa’s period of validity, or
   - (ii) the visa’s remaining period of validity, if less than 12 months.
 
-(2E)[^key-22585a92b8821f585fd24abd5bec8d27] A Service Provider from Switzerland visa shall have effect as leave to enter the United Kingdom on an unlimited number of occasions during its period of validity, in accordance with paragraph (2F).
+(2E)[^c-22585a92b8821f585fd24abd5bec8d27] A Service Provider from Switzerland visa shall have effect as leave to enter the United Kingdom on an unlimited number of occasions during its period of validity, in accordance with paragraph (2F).
 
 (2F) On arrival in the United Kingdom on each occasion, the holder shall be treated for the purposes of the Immigration Acts as having been granted, before arrival, leave to enter the United Kingdom for a limited period beginning on the date of arrival, being:
 
 - (a) 90 days if 90 days or more remain of the entry clearance’s period of validity; or
 - (b) the entry clearance’s remaining period of validity, if less than 90 days.
 
-(3) In the case of any form of entry clearance to which this paragraph applies[^key-b740612326177e0481d6ae76cb806958], it shall have effect as leave to enter the United Kingdom on one occasion during its period of validity; and, on arrival in the United Kingdom, the holder shall be treated for the purposes of the Immigration Acts as having been granted, before arrival, leave to enter the United Kingdom:
+(3) In the case of any form of entry clearance to which this paragraph applies[^c-b740612326177e0481d6ae76cb806958], it shall have effect as leave to enter the United Kingdom on one occasion during its period of validity; and, on arrival in the United Kingdom, the holder shall be treated for the purposes of the Immigration Acts as having been granted, before arrival, leave to enter the United Kingdom:
 
 - (a) in the case of an entry clearance which is endorsed with a statement that it is to have effect as indefinite leave to enter the United Kingdom, for an indefinite period; or
 - (b) in the case of an entry clearance which is endorsed with conditions, for a limited period, being the period beginning on the date on which the holder arrives in the United Kingdom and ending on the date of expiry of the entry clearance.
 
-(3A)[^key-5d0e842f896fc94e99a3aed8df722d40] Paragraph (3) applies to –
+(3A)[^c-5d0e842f896fc94e99a3aed8df722d40] Paragraph (3) applies to –
 
 - (a) a visit visa (other than a visit visa granted pursuant to the ADS Agreement with China) endorsed with a statement that it is to have effect as a single entry visa;
 - (b) a visit visa granted pursuant to the ADS Agreement with China unless endorsed with a statement to the effect that it is to have effect as a dual entry visa; and
-- (c) any other form of entry clearance except those to which paragraph (3B) applies[^key-6ef15a89ed0f7c1d79fcba56732b0ef9].
+- (c) any other form of entry clearance except those to which paragraph (3B) applies[^c-6ef15a89ed0f7c1d79fcba56732b0ef9].
 
-(3B)[^key-62dd94ce33cc4205e3149d5a901d60fd] A short term biometric entry clearance shall have effect as leave to enter the United Kingdom on one occasion during its period of validity; and, on arrival in the United Kingdom, the holder shall be treated for the purposes of the Immigration Acts as having been granted, before arrival, leave to enter the United Kingdom—
+(3B)[^c-62dd94ce33cc4205e3149d5a901d60fd] A short term biometric entry clearance shall have effect as leave to enter the United Kingdom on one occasion during its period of validity; and, on arrival in the United Kingdom, the holder shall be treated for the purposes of the Immigration Acts as having been granted, before arrival, leave to enter the United Kingdom—
 
 - (a) in the case of an entry clearance which is endorsed with an indefinite period of leave, for an indefinite period; or
 - (b) in the case of an entry clearance which is endorsed with conditions, for a limited period, being the period beginning on the date on which the holder arrives in the United Kingdom and ending on the date of the expiry of the holder’s period of leave.
 
 (4) In this article “period of validity” means the period beginning on the day on which the entry clearance becomes effective and ending on the day on which it expires.
 
-(5)[^key-cd8fc71993dd49eb12b17a2e265dd3b7] In this article—
+(5)[^c-cd8fc71993dd49eb12b17a2e265dd3b7] In this article—
 
 - (a) “period of leave” means the intended period of leave which—
   - (i) in the case of an indefinite intended period of leave, is endorsed on the person’s short term biometric entry clearance; or
@@ -164,11 +164,11 @@ and such a period of leave will only have effect on the person’s arrival in th
   - (i) is issued to a person who has made a successful application for a biometric immigration document from outside the United Kingdom, in order that the person may travel to the United Kingdom to obtain that biometric immigration document; and
   - (ii) has a period of validity ending before the expiry of the period of leave that the holder’s biometric immigration document will evidence.
 
-### 5. Conditions[^key-70194768da90e3d969277afefdf1801c]
+### 5. Conditions[^c-70194768da90e3d969277afefdf1801c]
 
 An entry clearance shall have effect as leave to enter subject to any conditions, being conditions of a kind that may be imposed on leave to enter given under section 3 of the Act, to which the entry clearance is subject and which are endorsed on it.
 
-### 6. Incidental, supplementary and consequential provisions[^key-542951e0754f42b95ec7b9b43db04708][^key-66b7015c77e79929513136813ac6446b][^key-5a7b377ee0b1c2e23b47b8847f0bdeb8][^key-cfae966aa25fdedf0bdd0e36085565a5][^key-fa3b2e32f762b24d718413a59924eb5d]
+### 6. Incidental, supplementary and consequential provisions[^c-542951e0754f42b95ec7b9b43db04708][^c-66b7015c77e79929513136813ac6446b][^c-5a7b377ee0b1c2e23b47b8847f0bdeb8][^c-cfae966aa25fdedf0bdd0e36085565a5][^c-fa3b2e32f762b24d718413a59924eb5d]
 
 (1) Where an immigration officer exercises his power to cancel leave to enter under paragraph 2A(8) of Schedule 2 to the Act[^f00005] or article 13(7) below in respect of an entry clearance which has effect as leave to enter, the entry clearance shall cease to have effect.
 
@@ -183,7 +183,7 @@ an immigration officer may cancel the entry clearance.
 
 ## PART III — FORM AND MANNER OF GIVING AND REFUSING LEAVE TO ENTER
 
-### 7. Grant and refusal of leave to enter before arrival in the United Kingdom[^key-8cbc33e60cc7fa69d930b4ee38ec2101]
+### 7. Grant and refusal of leave to enter before arrival in the United Kingdom[^c-8cbc33e60cc7fa69d930b4ee38ec2101]
 
 (1) An immigration officer, whether or not in the United Kingdom, may give or refuse a person leave to enter the United Kingdom at any time before his departure for, or in the course of his journey to, the United Kingdom.
 
@@ -193,20 +193,20 @@ an immigration officer may cancel the entry clearance.
 
 (4) Failure by a person seeking leave to supply any information, documents, copy documents or medical report requested by an immigration officer under this article shall be a ground, in itself, for refusal of leave.
 
-### 8. Oral grant or refusal of leave[^key-cf82db2648a1be19530aac295a7acb60]
+### 8. Oral grant or refusal of leave[^c-cf82db2648a1be19530aac295a7acb60]
 
 (1) A notice giving or refusing leave to enter the United Kingdom to a person to whom this article applies may, instead of being given in writing as required by section 4(1) of the Act, be given orally, including by means of a telephone.
 
 (2) This article applies to a person seeking leave to enter the United Kingdom as—
 
 - (a) a visitor for a period not exceeding six months,
-- (b) a short-term student for a period not exceeding six months, [^key-75dca944b4b85a96ca8661197fc3a723]...
-- (c) a parent of a Tier 4 (child) student for a period not exceeding six months , or[^key-ae953a2a6804084718f89a68bd713102]
+- (b) a short-term student for a period not exceeding six months, [^c-75dca944b4b85a96ca8661197fc3a723]...
+- (c) a parent of a Tier 4 (child) student for a period not exceeding six months , or[^c-ae953a2a6804084718f89a68bd713102]
 - (d) an S2 Healthcare Visitor for a period not exceeding six months,
 
 under the immigration rules and subject to conditions prohibiting employment and recourse to public funds (within the meaning of the immigration rules as they apply to persons to whom this article applies).
 
-### 8ZA. Grant, refusal or variation of leave by notice in writing[^key-928c1b9078cfc69c20da9cd45cbba0f4]
+### 8ZA. Grant, refusal or variation of leave by notice in writing[^c-928c1b9078cfc69c20da9cd45cbba0f4]
 
 (1) A notice in writing—
 
@@ -258,9 +258,9 @@ may be given to the person affected as required by section 4(1) of the Act as fo
 
 ### 8ZC. Notice not given
 
-No notice under article 8(1) or 8ZA(1)(a) shall be given where a person is given leave to enter the United Kingdom by passing through an automated gate in accordance with article 8A or 8B[^key-5113c366fcedaf8d6f0aee4d566d4ea0].
+No notice under article 8(1) or 8ZA(1)(a) shall be given where a person is given leave to enter the United Kingdom by passing through an automated gate in accordance with article 8A or 8B[^c-5113c366fcedaf8d6f0aee4d566d4ea0].
 
-### 8A. Automatic grant of leave[^key-0e22c24dd22850a5afc7d3d7d37cfc30]
+### 8A. Automatic grant of leave[^c-0e22c24dd22850a5afc7d3d7d37cfc30]
 
 (1) An immigration officer may authorise a person to be a person who may obtain leave to enter the United Kingdom by passing through an automated gate.
 
@@ -272,42 +272,42 @@ No notice under article 8(1) or 8ZA(1)(a) shall be given where a person is given
 - (d) remain in force for up to 24 months; and
 - (e) be varied or withdrawn at any time, with or without notice being given to the person.
 
-(3) This paragraph applies to a person who[^key-af9108ccb24d2e65fd74ac97435913f3] passes through an automated gate—
+(3) This paragraph applies to a person who[^c-af9108ccb24d2e65fd74ac97435913f3] passes through an automated gate—
 
 - (a) having been authorised under paragraph (1) as a person who may obtain leave to enter the United Kingdom by passing through an automated gate;
 - (b) in accordance with the conditions of use for an automated gate;
 - (c) which is an automated gate for which the authorisation is valid; and
 - (d) while the authorisation remains in force.
 
-[^key-07f6caf146a0d900ef589277304056ec]...
+[^c-07f6caf146a0d900ef589277304056ec]...
 
-(3A)[^key-8d5c73b027061bbd651bbc8769132a9b] A person to whom paragraph (3) applies shall be given leave to enter the United Kingdom for—
+(3A)[^c-8d5c73b027061bbd651bbc8769132a9b] A person to whom paragraph (3) applies shall be given leave to enter the United Kingdom for—
 
 - (a) six months in the case of a person falling within a category mentioned in paragraph (5)(a) or (c), or
 - (b) 48 hours in the case of a person falling within the category mentioned in paragraph (5)(b).
 
-(4) Such leave shall be subject to conditions prohibiting employment and recourse to public funds (within the meaning of the immigration rules as they apply to the category of person under the immigration rules for which the person has been authorised under paragraph (1)[^key-f01c2e41be224d8731c61f7d99b0115c]).
+(4) Such leave shall be subject to conditions prohibiting employment and recourse to public funds (within the meaning of the immigration rules as they apply to the category of person under the immigration rules for which the person has been authorised under paragraph (1)[^c-f01c2e41be224d8731c61f7d99b0115c]).
 
-(5)[^key-89b547ad13d1883dd516938e3ff0b9f1] The categories of person under the immigration rules mentioned in this paragraph are—
+(5)[^c-89b547ad13d1883dd516938e3ff0b9f1] The categories of person under the immigration rules mentioned in this paragraph are—
 
 - (a) a visitor (standard);
 - (b) a transit visitor;
 - (c) a parent of a Tier 4 (child) student.
 
-### 8B. Further provision as to automatic grant of leave[^key-5382bd1cdca7df6fc8893d0a57c08e03]
+### 8B. Further provision as to automatic grant of leave[^c-5382bd1cdca7df6fc8893d0a57c08e03]
 
 (1) A person to whom this article applies may obtain leave to enter the United Kingdom by passing through an automated gate.
 
-(1A)[^key-2d9027a49a60c3bd9be77af8e3572a2f] The Schedule to this Order has effect.
+(1A)[^c-2d9027a49a60c3bd9be77af8e3572a2f] The Schedule to this Order has effect.
 
 (2) This article applies to a person who–
 
-- (a) is a national of a country listed in the Schedule[^key-eb65bd43ae7e9ce0bf5fe713531350fd];
-- (b) is travelling on a passport issued by one of the countries listed in the Schedule[^key-d7af10ac0ed3831c6df0cf61368769e9];
-- (c) is aged 8[^key-b6bfdbf051fabae5bfbfdbc87f19be85] or above; and
-- (d) is seeking to enter the United Kingdom as a visitor (standard) under Appendix V to the immigration rules or as an S2 Healthcare Visitor under Appendix S2 Healthcare Visitor of the immigration rules.[^key-dfcbb2b083e95711d1c5272a961bd4c0]
+- (a) is a national of a country listed in the Schedule[^c-eb65bd43ae7e9ce0bf5fe713531350fd];
+- (b) is travelling on a passport issued by one of the countries listed in the Schedule[^c-d7af10ac0ed3831c6df0cf61368769e9];
+- (c) is aged 8[^c-b6bfdbf051fabae5bfbfdbc87f19be85] or above; and
+- (d) is seeking to enter the United Kingdom as a visitor (standard) under Appendix V to the immigration rules or as an S2 Healthcare Visitor under Appendix S2 Healthcare Visitor of the immigration rules.[^c-dfcbb2b083e95711d1c5272a961bd4c0]
 
-(2A)[^key-7ab19752ce87fe039780ee320ab8c697] This article also applies to a person who—
+(2A)[^c-7ab19752ce87fe039780ee320ab8c697] This article also applies to a person who—
 
 - (a) is a national of Ireland;
 - (b) is travelling on a passport issued by Ireland;
@@ -318,29 +318,29 @@ No notice under article 8(1) or 8ZA(1)(a) shall be given where a person is given
 
 (4) Such leave is subject to conditions prohibiting employment and recourse to public funds (within the meaning of the immigration rules).
 
-### 8C. Leave to be regarded as having been given before arrival[^key-7fa2a4dd8e2bec3dd10e230f76b5a453]
+### 8C. Leave to be regarded as having been given before arrival[^c-7fa2a4dd8e2bec3dd10e230f76b5a453]
 
 Leave to enter that is obtained by a person passing through an automated gate in accordance with article 8A or 8B shall be regarded, for the purposes of the Act, as having been given before that person’s arrival in the UK.
 
-### 9. Grant or refusal of leave by notice to a responsible third party[^key-b9d37406284da52dcb8c4a0f00f4425b]
+### 9. Grant or refusal of leave by notice to a responsible third party[^c-b9d37406284da52dcb8c4a0f00f4425b]
 
 (1) Leave to enter may be given or refused to a person by means of a notice given (in such form and manner as permitted by the Act or this Order for a notice giving or refusing leave to enter) to a responsible third party acting on his behalf.
 
 (2) A notice under paragraph (1) may refer to a person to whom leave is being granted or refused either by name or by reference to a description or category of persons which includes him.
 
-### 10. Notice of refusal of leave[^key-52e4073ed5b8cf5411adaee5071d713f]
+### 10. Notice of refusal of leave[^c-52e4073ed5b8cf5411adaee5071d713f]
 
-(1) Where a notice refusing leave to enter to a person is given under article 8(1)[^key-8b0e9a6d66063be10d429618d61265b1] or 9, an immigration officer shall as soon as practicable give to him a notice in writing stating that he has been refused leave to enter the United Kingdom and stating the reasons for the refusal.
+(1) Where a notice refusing leave to enter to a person is given under article 8(1)[^c-8b0e9a6d66063be10d429618d61265b1] or 9, an immigration officer shall as soon as practicable give to him a notice in writing stating that he has been refused leave to enter the United Kingdom and stating the reasons for the refusal.
 
 (2) Where an immigration officer serves a notice under the Immigration (Appeals) Notices Regulations 1984[^f00006] or under regulations made under paragraph 1 of Schedule 4 to the Immigration and Asylum Act 1999 in respect of the refusal, he shall not be required to serve a notice under paragraph (1).
 
-(3) Any notice required by paragraph (1) to be given to any person may be given in accordance with article 8ZA[^key-fbeecacd91843836510af9480c9c744b].
+(3) Any notice required by paragraph (1) to be given to any person may be given in accordance with article 8ZA[^c-fbeecacd91843836510af9480c9c744b].
 
-### 11. Burden of proof[^key-6af12a35085cde7cd889b00d53659fdf]
+### 11. Burden of proof[^c-6af12a35085cde7cd889b00d53659fdf]
 
-Where any question arises under the Immigration Acts as to whether a person has leave to enter the United Kingdom and he alleges that he has such leave by virtue of a notice given under article 8(1)[^key-9d17e111cc993bda36ecdee83b5109cd] or 9, or by virtue of article 8A,[^key-810a38419798a6b401034dd0c52d7e60] the onus shall lie upon him to show the manner and date of his entry into the United Kingdom.
+Where any question arises under the Immigration Acts as to whether a person has leave to enter the United Kingdom and he alleges that he has such leave by virtue of a notice given under article 8(1)[^c-9d17e111cc993bda36ecdee83b5109cd] or 9, or by virtue of article 8A,[^c-810a38419798a6b401034dd0c52d7e60] the onus shall lie upon him to show the manner and date of his entry into the United Kingdom.
 
-**12.**[^key-c0945ae2183b717e0a8b22bd5701ff7c] (1) This article applies where—
+**12.**[^c-c0945ae2183b717e0a8b22bd5701ff7c] (1) This article applies where—
 
 - (a) an immigration officer has commenced examination of a person (\`the applicant') under paragraph 2(1)(c) of Schedule 2 to the Act (examination to determine whether or not leave to enter should be given);
 - (b) that examination has been adjourned, or the applicant has been required (under paragraph 2(3) of Schedule 2 to the Act) to submit to a further examination, whilst further inquiries are made (including, where the applicant has made an asylum claim, as to the Secretary of State’s decision on that claim); and
@@ -350,14 +350,14 @@ Where any question arises under the Immigration Acts as to whether a person has 
 
 ## PART IV — LEAVE WHICH DOES NOT LAPSE ON TRAVEL OUTSIDE COMMON TRAVEL AREA
 
-**13.**[^key-c11fb906ccf9f1eba4d7f6706d0d4787] (1) In this Part[^key-43f46b4240d6946f40515b45015edcf8] “leave” means—
+**13.**[^c-c11fb906ccf9f1eba4d7f6706d0d4787] (1) In this Part[^c-43f46b4240d6946f40515b45015edcf8] “leave” means—
 
 - (a) leave to enter the United Kingdom (including leave to enter conferred by means of an entry clearance under article 2); and
 - (b) leave to remain in the United Kingdom.
 
 (2) Subject to paragraph (3), where a person has leave which is in force and which was:
 
-- (a) conferred by means of an entry clearance (other than a visit visa or Service Provider from Switzerland visa[^key-be202b14d678d14a4cf63a78a3e2e040]) under article 2; or
+- (a) conferred by means of an entry clearance (other than a visit visa or Service Provider from Switzerland visa[^c-be202b14d678d14a4cf63a78a3e2e040]) under article 2; or
 - (b) given by an immigration officer or the Secretary of State for a period exceeding six months,
 
 such leave shall not lapse on his going to a country or territory outside the common travel area.
@@ -369,10 +369,10 @@ such leave shall not lapse on his going to a country or territory outside the co
 
 (4) Leave which does not lapse under paragraph (2) shall remain in force either indefinitely (if it is unlimited) or until the date on which it would otherwise have expired (if limited), but—
 
-- (za)[^key-71c75838dd976394b721d8e7658822c5] where the holder has [^key-57878ff6ad59955de1af4c7b6d1cd6e3]... leave granted by virtue of Appendix EU to the immigration rules (including [^key-1fa256475f8090010aebeb94523a4ca6]... leave granted by virtue of Appendix EU before this paragraph comes into force), subject to article 13C, the [^key-fafbc966c8ad3a053e74edaa95c7f347]... leave lapses if the holder stays outside the United Kingdom and Islands for a continuous period of more than—
-  - (i) four years, in the case of [^key-2d0e239e01820e3ad97598ae00ba9dde]... leave granted by virtue of Appendix EU to the immigration rules as a Swiss national or a family member of a Swiss national;
+- (za)[^c-71c75838dd976394b721d8e7658822c5] where the holder has [^c-57878ff6ad59955de1af4c7b6d1cd6e3]... leave granted by virtue of Appendix EU to the immigration rules (including [^c-1fa256475f8090010aebeb94523a4ca6]... leave granted by virtue of Appendix EU before this paragraph comes into force), subject to article 13C, the [^c-fafbc966c8ad3a053e74edaa95c7f347]... leave lapses if the holder stays outside the United Kingdom and Islands for a continuous period of more than—
+  - (i) four years, in the case of [^c-2d0e239e01820e3ad97598ae00ba9dde]... leave granted by virtue of Appendix EU to the immigration rules as a Swiss national or a family member of a Swiss national;
   - (ii) five years, in all other cases;
-- (a) in any other case and subject to articles 13A, 13B and 13C[^key-0c8ce341fb19b9da6eecd3d7d9bd41ae][^key-2e3d7f074e72860323b4e0cc6f5979f4] , where the holder has stayed outside the United Kingdom and Islands[^key-7894bc2ae9710e02ef1095d539605739] for a continuous period of more than two years, the leave (where the leave is unlimited) or any leave then remaining (where the leave is limited) shall thereupon lapse; and
+- (a) in any other case and subject to articles 13A, 13B and 13C[^c-0c8ce341fb19b9da6eecd3d7d9bd41ae][^c-2e3d7f074e72860323b4e0cc6f5979f4] , where the holder has stayed outside the United Kingdom and Islands[^c-7894bc2ae9710e02ef1095d539605739] for a continuous period of more than two years, the leave (where the leave is unlimited) or any leave then remaining (where the leave is limited) shall thereupon lapse; and
 - (b) any conditions to which the leave is subject shall be suspended for such time as the holder is outside the United Kingdom and Islands.
 
 (5) For the purposes of paragraphs 2 and 2A of Schedule 2 to the Act (examination by immigration officers, and medical examination), leave to remain which remains in force under this article shall be treated, upon the holder’s arrival in the United Kingdom, as leave to enter which has been granted to the holder before his arrival.
@@ -390,9 +390,9 @@ such leave shall not lapse on his going to a country or territory outside the co
 
 (10) Section 3(4) of the Act (lapsing of leave upon travelling outside the common travel area) shall have effect subject to this article.
 
-### 13A. Partners and children of members of HM Forces[^key-a59f8832e4524fa966e5dd173a6487de]
+### 13A. Partners and children of members of HM Forces[^c-a59f8832e4524fa966e5dd173a6487de]
 
-(1) Any period of time spent by a person to whom this article applies accompanying their partner, or, as the case may be, parent, who is posted outside the United Kingdom and Islands[^key-a111eda38a0c763343bb58727d1705b5] as a member of Her Majesty’s Forces does not count towards the period mentioned in article 13(4)(a).
+(1) Any period of time spent by a person to whom this article applies accompanying their partner, or, as the case may be, parent, who is posted outside the United Kingdom and Islands[^c-a111eda38a0c763343bb58727d1705b5] as a member of Her Majesty’s Forces does not count towards the period mentioned in article 13(4)(a).
 
 (2) This article applies to a person who has leave—
 
@@ -407,29 +407,29 @@ such leave shall not lapse on his going to a country or territory outside the co
   - (ii) in relation to a person falling within paragraph (2)(b) or (2)(c), the spouse, civil partner, unmarried or same sex partner in respect of whom they have leave under Part 7 or, as the case may be, Part 8, of the immigration rules; and
 - (b) the reference to a person’s “parent” means the parent in respect of whom they have leave under Appendix Armed Forces, or, as the case may be, Part 7 or Part 8 of the immigration rules.
 
-(4)[^key-9b9e1bc257e5255f4e00398b1ffa7658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9b9e1bc257e5255f4e00398b1ffa7658] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13B. Partners and children of ... Crown servants etc[^key-78dee6b9ebc21f633620361bb864d4ff][^key-56003691f14e8e9d895187f659fb1fa6]
+### 13B. Partners and children of ... Crown servants etc[^c-78dee6b9ebc21f633620361bb864d4ff][^c-56003691f14e8e9d895187f659fb1fa6]
 
 (1) This article applies to a person who has—
 
 - (a) limited leave—
   - (i) as the partner or child of a British citizen or person who is settled in the United Kingdom under Appendix FM to the immigration rules (“Appendix FM”), or
   - (ii) outside the provision of the immigration rules on the basis of family life under article 8 of the European Convention on Human Rights (“article 8”), or
-- (b) indefinite leave , other than unlimited leave granted by virtue of Appendix EU to the immigration rules[^key-94ebef2a3cf72a885ebad0a6cbd18cb9].
+- (b) indefinite leave , other than unlimited leave granted by virtue of Appendix EU to the immigration rules[^c-94ebef2a3cf72a885ebad0a6cbd18cb9].
 
 (2) The period mentioned in article 13(4)(a) does not include any period during which the person is accompanying their partner or parent if—
 
-- (a) the partner or parent is posted outside the United Kingdom and Islands[^key-22896167c2a4dc2c9200709d693f073d] in employment falling within paragraph (3); and
+- (a) the partner or parent is posted outside the United Kingdom and Islands[^c-22896167c2a4dc2c9200709d693f073d] in employment falling within paragraph (3); and
 - (b) the partner or parent—
-  - (i) is a British citizen, or[^key-d85ec8a6509ef99e5fc6a6f1ae40c8ac]
-  - (ii) has indefinite leave. [^key-e1ca9b7510ebc24751a656429edf5afb]...
-  - (iii)[^key-e1ca9b7510ebc24751a656429edf5afb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) is a British citizen, or[^c-d85ec8a6509ef99e5fc6a6f1ae40c8ac]
+  - (ii) has indefinite leave. [^c-e1ca9b7510ebc24751a656429edf5afb]...
+  - (iii)[^c-e1ca9b7510ebc24751a656429edf5afb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Employment falls within this paragraph if it is—
 
 - (a) employment in the British Council as a permanent member of that Council; or
-- (b)[^key-dbf09e89fa26d08b873cdcaec140c71f] employment on Crown service.
+- (b)[^c-dbf09e89fa26d08b873cdcaec140c71f] employment on Crown service.
 
 (4) In this article—
 
@@ -443,7 +443,7 @@ such leave shall not lapse on his going to a country or territory outside the co
   - (i) in relation to a person to whom paragraph (1)(a) applies, means the parent in respect of whom they have limited leave under Appendix FM or outside the provisions of the immigration rules on the basis of family life under article 8;
   - (ii) in relation to a person to whom paragraph (1)(b) applies, is to be construed in accordance with paragraph 6 (interpretation) of the immigration rules.
 
-### 13C. Crown servants etc with leave granted by virtue of Appendix EU to the immigration rules[^key-83b89c99847f63c0ec2bab101b727e2e]
+### 13C. Crown servants etc with leave granted by virtue of Appendix EU to the immigration rules[^c-83b89c99847f63c0ec2bab101b727e2e]
 
 (1) Any period of time spent outside the United Kingdom and Islands by a person to whom this article applies does not count towards the period mentioned in article 13(4)(za) or 13(4)(a).
 
@@ -460,11 +460,11 @@ such leave shall not lapse on his going to a country or territory outside the co
 
 ## PART V — CONSEQUENTIAL ANDTRANSITIONAL PROVISIONS
 
-**14.**[^key-34c4e1469682ae7527fb571828eeda83] Section 9(2)[^f00008] of the Act (further provisions as to common travel area: conditions applicable to certain arrivals on a local journey) shall have effect as if, after the words “British Citizens”, there were inserted “and do not hold leave to enter or remain granted to them before their arrival”.
+**14.**[^c-34c4e1469682ae7527fb571828eeda83] Section 9(2)[^f00008] of the Act (further provisions as to common travel area: conditions applicable to certain arrivals on a local journey) shall have effect as if, after the words “British Citizens”, there were inserted “and do not hold leave to enter or remain granted to them before their arrival”.
 
-**15.**[^key-6efbbb09891640d29a246e71f1a6b9c3][^key-4d3f0dd3356fef840798eed4d4620070] (1)[^key-6efbbb09891640d29a246e71f1a6b9c3] Article 12 shall apply where an applicant’s examination has begin before the date that article comes into force, as well as where it begins on or after that date.
+**15.**[^c-6efbbb09891640d29a246e71f1a6b9c3][^c-4d3f0dd3356fef840798eed4d4620070] (1)[^c-6efbbb09891640d29a246e71f1a6b9c3] Article 12 shall apply where an applicant’s examination has begin before the date that article comes into force, as well as where it begins on or after that date.
 
-(2)[^key-4d3f0dd3356fef840798eed4d4620070] Article 13 shall apply with respect to leave to enter or remain in the United Kingdom which is in force on the date that article comes into force, as well as to such leave given after that date.
+(2)[^c-4d3f0dd3356fef840798eed4d4620070] Article 13 shall apply with respect to leave to enter or remain in the United Kingdom which is in force on the date that article comes into force, as well as to such leave given after that date.
 
 Jack Straw
 
@@ -474,7 +474,7 @@ Home Office
 
 19th April 2000
 
-## SCHEDULE — Countries the nationals of which may obtain leave by passing through an automated gate[^key-3903ae3a7987fa542e9c59443e8067bb]
+## SCHEDULE — Countries the nationals of which may obtain leave by passing through an automated gate[^c-3903ae3a7987fa542e9c59443e8067bb]
 
 Article 8B(1A)
 
@@ -536,198 +536,198 @@ Part V makes transitional and consequential provision.
 
 [^f00001]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77), sections 3A and 3B are inserted by sections 1 and 2 of the Immigration and Asylum Act 1999 ([1999 c. 33)](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-b116c82f8d36efabc1dcfa078dd64b68]: Modification: Order extended (with modifications) (1.2.2004 as notified in the Gazettes) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003 (S.I. 2003/2818)](https://www.legislation.gov.uk/uksi/2003/2818), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/2818/article/1/2), [11(1)(d)](https://www.legislation.gov.uk/uksi/2003/2818/article/11/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2818/schedule/2) (as amended (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(d)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/d))
+[^c-b116c82f8d36efabc1dcfa078dd64b68]: Modification: Order extended (with modifications) (1.2.2004 as notified in the Gazettes) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003 (S.I. 2003/2818)](https://www.legislation.gov.uk/uksi/2003/2818), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/2818/article/1/2), [11(1)(d)](https://www.legislation.gov.uk/uksi/2003/2818/article/11/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2818/schedule/2) (as amended (31.3.2021) by [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021 (S.I. 2021/311)](https://www.legislation.gov.uk/uksi/2021/311), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2), [2(7)(d)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/d))
 
-[^key-d55d88cb96f89a8a2db4fb020dd2f8a9]: Commencement: Art. 1 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-d55d88cb96f89a8a2db4fb020dd2f8a9]: Commencement: Art. 1 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-2a81f1c73eaac3d6b0d8cc3ee8491d64]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [3](https://www.legislation.gov.uk/uksi/2005/1159/article/3)
+[^c-2a81f1c73eaac3d6b0d8cc3ee8491d64]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [3](https://www.legislation.gov.uk/uksi/2005/1159/article/3)
 
-[^key-c8ad4fbe2bdf350008f12145370a9ea4]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/434/article/2/2/b)
+[^c-c8ad4fbe2bdf350008f12145370a9ea4]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/434/article/2/2/b)
 
-[^key-11e72b9be8ef8cf96833fd4b3a14308c]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (27.2.2004) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2004 (S.I. 2004/475)](https://www.legislation.gov.uk/uksi/2004/475), [arts. 1](https://www.legislation.gov.uk/uksi/2004/475/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2004/475/article/3/a)
+[^c-11e72b9be8ef8cf96833fd4b3a14308c]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (27.2.2004) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2004 (S.I. 2004/475)](https://www.legislation.gov.uk/uksi/2004/475), [arts. 1](https://www.legislation.gov.uk/uksi/2004/475/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2004/475/article/3/a)
 
-[^key-d0ea245a0b2d55dd410a3246861fb940]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/686/article/8/2)
+[^c-d0ea245a0b2d55dd410a3246861fb940]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/686/article/8/2)
 
-[^key-f4d44e74dbdf7128ad64ca9b27b1c394]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/1749/article/3/a)
+[^c-f4d44e74dbdf7128ad64ca9b27b1c394]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/1749/article/3/a)
 
 [^M_F_7cdf9ee5-abf2-4c40-d484-0da2fd3e6e65]: Textual amendment: Words in art. 1(3) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/686/article/8/2)
 
-[^key-c41225b47bed277db82e61f7c49318fc]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) omitted (18.3.2015) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/434/article/2/2/a)
+[^c-c41225b47bed277db82e61f7c49318fc]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) omitted (18.3.2015) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/434/article/2/2/a)
 
-[^key-5b9b8b63b75639078d29baca5072c204]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (27.2.2004) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2004 (S.I. 2004/475)](https://www.legislation.gov.uk/uksi/2004/475), [arts. 1](https://www.legislation.gov.uk/uksi/2004/475/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2004/475/article/3/b)
+[^c-5b9b8b63b75639078d29baca5072c204]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (27.2.2004) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2004 (S.I. 2004/475)](https://www.legislation.gov.uk/uksi/2004/475), [arts. 1](https://www.legislation.gov.uk/uksi/2004/475/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2004/475/article/3/b)
 
-[^key-77343117b81e2372a0a0b90d2a46014d]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/1749/article/3/b)
+[^c-77343117b81e2372a0a0b90d2a46014d]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/1749/article/3/b)
 
-[^key-36b5354d6ef3039da20b6551c5678ae1]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(2)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/2)
+[^c-36b5354d6ef3039da20b6551c5678ae1]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/3) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(2)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/2)
 
-[^key-e1ad331ca5d301a2ee37b299b6720a74]: Commencement: Art. 2 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-e1ad331ca5d301a2ee37b299b6720a74]: Commencement: Art. 2 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-8696ff0d647aea3a978ce0ea3ee65970]: Commencement: Art. 3 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-8696ff0d647aea3a978ce0ea3ee65970]: Commencement: Art. 3 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-0a3fea5cf5de3878cf4b4744de67d997]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/3/1) substituted (27.2.2004) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2004 (S.I. 2004/475)](https://www.legislation.gov.uk/uksi/2004/475), [arts. 1](https://www.legislation.gov.uk/uksi/2004/475/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/475/article/4/a)
+[^c-0a3fea5cf5de3878cf4b4744de67d997]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/3/1) substituted (27.2.2004) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2004 (S.I. 2004/475)](https://www.legislation.gov.uk/uksi/2004/475), [arts. 1](https://www.legislation.gov.uk/uksi/2004/475/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/475/article/4/a)
 
-[^key-940205c24a12270cc4dbcf4dc96eeb70]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/uksi/2000/1161/article/3/4)[(5)](https://www.legislation.gov.uk/uksi/2000/1161/article/3/5) inserted (27.2.2004) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2004 (S.I. 2004/475)](https://www.legislation.gov.uk/uksi/2004/475), [arts. 1](https://www.legislation.gov.uk/uksi/2004/475/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/475/article/4/b)
+[^c-940205c24a12270cc4dbcf4dc96eeb70]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/uksi/2000/1161/article/3/4)[(5)](https://www.legislation.gov.uk/uksi/2000/1161/article/3/5) inserted (27.2.2004) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2004 (S.I. 2004/475)](https://www.legislation.gov.uk/uksi/2004/475), [arts. 1](https://www.legislation.gov.uk/uksi/2004/475/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/475/article/4/b)
 
-[^key-bc38935913f7b8b5ed0da9771beda460]: Commencement: Art. 4 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-bc38935913f7b8b5ed0da9771beda460]: Commencement: Art. 4 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-3ae2744849bd29ac3fb5b848f63d3ef7]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified (30.7.2000) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [art. 7](https://www.legislation.gov.uk/uksi/1993/1813/article/7), [Sch. 4 para. 3(a)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3/a/b) (as inserted by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2000 (S.I. 2000/1775)](https://www.legislation.gov.uk/uksi/2000/1775), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1775/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/1775/article/2/3))
+[^c-3ae2744849bd29ac3fb5b848f63d3ef7]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified (30.7.2000) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [art. 7](https://www.legislation.gov.uk/uksi/1993/1813/article/7), [Sch. 4 para. 3(a)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3/a/b) (as inserted by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2000 (S.I. 2000/1775)](https://www.legislation.gov.uk/uksi/2000/1775), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1775/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/1775/article/2/3))
 
-[^key-fc845dd5edb78b1d9454ad0510df3883]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified (25.5.2001) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [Sch. 4 para. 4(a)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/a/b) (as substituted by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [7](https://www.legislation.gov.uk/uksi/2001/1544/article/7))
+[^c-fc845dd5edb78b1d9454ad0510df3883]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified (25.5.2001) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [Sch. 4 para. 4(a)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/a/b) (as substituted by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [7](https://www.legislation.gov.uk/uksi/2001/1544/article/7))
 
-[^key-8379c5aadda46d5278e6ddff27040c69]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) (as amended (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [art. 11](https://www.legislation.gov.uk/uksi/2020/915/article/11))
+[^c-8379c5aadda46d5278e6ddff27040c69]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) (as amended (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [art. 11](https://www.legislation.gov.uk/uksi/2020/915/article/11))
 
-[^key-a8fbc7c67af0f543ca142760eb55692f]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified (30.9.2020 immediately after the entry into force of [S.I. 2020/915](https://www.legislation.gov.uk/uksi/2020/915), [art. 5](https://www.legislation.gov.uk/uksi/2020/915/article/5)) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/article/1/3), [6](https://www.legislation.gov.uk/uksi/2020/916/article/6)
+[^c-a8fbc7c67af0f543ca142760eb55692f]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified (30.9.2020 immediately after the entry into force of [S.I. 2020/915](https://www.legislation.gov.uk/uksi/2020/915), [art. 5](https://www.legislation.gov.uk/uksi/2020/915/article/5)) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/article/1/3), [6](https://www.legislation.gov.uk/uksi/2020/916/article/6)
 
-[^key-5f8f48a9cf1786b06c7764d3e57d9284]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/1) inserted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/1159/article/4/2)
+[^c-5f8f48a9cf1786b06c7764d3e57d9284]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/1) inserted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/1159/article/4/2)
 
-[^key-64b7efe38616ee39f9e2e0b730e6c6ca]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/1) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/2/a/i)
+[^c-64b7efe38616ee39f9e2e0b730e6c6ca]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/1) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/2/a/i)
 
-[^key-494cae2953cf7f11a77cdf2692bd8442]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/1) omitted (23.11.2016) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/2/a/ii)
+[^c-494cae2953cf7f11a77cdf2692bd8442]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/1) omitted (23.11.2016) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/2/a/ii)
 
-[^key-7f9cac9587b096f8d67e92693722e9c3]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/1) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/2/a/iii)
+[^c-7f9cac9587b096f8d67e92693722e9c3]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/1) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/2/a/iii)
 
-[^key-1c6075af45a7a0572a2c72b6e297dbcd]: Textual amendment: [Art. 4(2A)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2A)[(2B)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2B) inserted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/1159/article/4/3)
+[^c-1c6075af45a7a0572a2c72b6e297dbcd]: Textual amendment: [Art. 4(2A)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2A)[(2B)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2B) inserted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/1159/article/4/3)
 
-[^key-2ce7c27e9acc47af8e2b99d482a6d1cc]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified (25.5.2001) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [Sch. 4 para. 4(a)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/a/b) (as substituted by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [7](https://www.legislation.gov.uk/uksi/2001/1544/article/7)) (as amended (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2020/915/article/5/8))
+[^c-2ce7c27e9acc47af8e2b99d482a6d1cc]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2000/1161/article/4) modified (25.5.2001) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [Sch. 4 para. 4(a)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/a/b) (as substituted by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [7](https://www.legislation.gov.uk/uksi/2001/1544/article/7)) (as amended (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2020/915/article/5/8))
 
-[^key-67cee62e24dcb68e88c84cc64ddb49d5]: Textual amendment: [Art. 4(2C)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2C)[(2D)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2D) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/2/b)
+[^c-67cee62e24dcb68e88c84cc64ddb49d5]: Textual amendment: [Art. 4(2C)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2C)[(2D)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2D) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/2/b)
 
-[^key-22585a92b8821f585fd24abd5bec8d27]: Textual amendment: [Art. 4(2E)(2F)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2E/2F) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/3)
+[^c-22585a92b8821f585fd24abd5bec8d27]: Textual amendment: [Art. 4(2E)(2F)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/2E/2F) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/3)
 
-[^key-b740612326177e0481d6ae76cb806958]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/3) substituted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2005/1159/article/4/4)
+[^c-b740612326177e0481d6ae76cb806958]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/3) substituted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2005/1159/article/4/4)
 
-[^key-5d0e842f896fc94e99a3aed8df722d40]: Textual amendment: [Art. 4(3A)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/3A) inserted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [4(5)](https://www.legislation.gov.uk/uksi/2005/1159/article/4/5)
+[^c-5d0e842f896fc94e99a3aed8df722d40]: Textual amendment: [Art. 4(3A)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/3A) inserted (1.4.2005) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2005 (S.I. 2005/1159)](https://www.legislation.gov.uk/uksi/2005/1159), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1159/article/1), [4(5)](https://www.legislation.gov.uk/uksi/2005/1159/article/4/5)
 
-[^key-6ef15a89ed0f7c1d79fcba56732b0ef9]: Textual amendment: Words in [art. 4(3A)(c)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/3A/c) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/434/article/2/3/a)
+[^c-6ef15a89ed0f7c1d79fcba56732b0ef9]: Textual amendment: Words in [art. 4(3A)(c)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/3A/c) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/434/article/2/3/a)
 
-[^key-62dd94ce33cc4205e3149d5a901d60fd]: Textual amendment: [Art. 4(3B)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/3B) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/434/article/2/3/b)
+[^c-62dd94ce33cc4205e3149d5a901d60fd]: Textual amendment: [Art. 4(3B)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/3B) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/434/article/2/3/b)
 
-[^key-cd8fc71993dd49eb12b17a2e265dd3b7]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/5) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2015/434/article/2/3/c)
+[^c-cd8fc71993dd49eb12b17a2e265dd3b7]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2000/1161/article/4/5) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2015/434/article/2/3/c)
 
-[^key-70194768da90e3d969277afefdf1801c]: Commencement: Art. 5 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-70194768da90e3d969277afefdf1801c]: Commencement: Art. 5 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-542951e0754f42b95ec7b9b43db04708]: Commencement: Art. 6 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-542951e0754f42b95ec7b9b43db04708]: Commencement: Art. 6 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-66b7015c77e79929513136813ac6446b]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2000/1161/article/6) modified (30.7.2000) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [art. 7](https://www.legislation.gov.uk/uksi/1993/1813/article/7), [Sch. 4 para. 3(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3/c) (as inserted by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2000 (S.I. 2000/1775)](https://www.legislation.gov.uk/uksi/2000/1775), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1775/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/1775/article/2/3))
+[^c-66b7015c77e79929513136813ac6446b]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2000/1161/article/6) modified (30.7.2000) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [art. 7](https://www.legislation.gov.uk/uksi/1993/1813/article/7), [Sch. 4 para. 3(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3/c) (as inserted by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2000 (S.I. 2000/1775)](https://www.legislation.gov.uk/uksi/2000/1775), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1775/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/1775/article/2/3))
 
-[^key-5a7b377ee0b1c2e23b47b8847f0bdeb8]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2000/1161/article/6) modified (25.5.2001) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [Sch. 4 para. 4(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/c) (as substituted by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [7](https://www.legislation.gov.uk/uksi/2001/1544/article/7))
+[^c-5a7b377ee0b1c2e23b47b8847f0bdeb8]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2000/1161/article/6) modified (25.5.2001) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [Sch. 4 para. 4(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/c) (as substituted by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [7](https://www.legislation.gov.uk/uksi/2001/1544/article/7))
 
-[^key-cfae966aa25fdedf0bdd0e36085565a5]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2000/1161/article/6) modified by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) (as amended (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [art. 11](https://www.legislation.gov.uk/uksi/2020/915/article/11))
+[^c-cfae966aa25fdedf0bdd0e36085565a5]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2000/1161/article/6) modified by [S.I. 1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [art. 7](https://www.legislation.gov.uk/uksi/1994/1405/article/7) (as amended (coming into force in accordance with reg. 1(3) of the amending S.I.) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [art. 11](https://www.legislation.gov.uk/uksi/2020/915/article/11))
 
-[^key-fa3b2e32f762b24d718413a59924eb5d]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2000/1161/article/6) modified (30.9.2020 immediately after the entry into force of [S.I. 2020/915](https://www.legislation.gov.uk/uksi/2020/915), [art. 5](https://www.legislation.gov.uk/uksi/2020/915/article/5)) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/article/1/3), [6](https://www.legislation.gov.uk/uksi/2020/916/article/6)
+[^c-fa3b2e32f762b24d718413a59924eb5d]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2000/1161/article/6) modified (30.9.2020 immediately after the entry into force of [S.I. 2020/915](https://www.legislation.gov.uk/uksi/2020/915), [art. 5](https://www.legislation.gov.uk/uksi/2020/915/article/5)) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/article/1/3), [6](https://www.legislation.gov.uk/uksi/2020/916/article/6)
 
 [^f00005]: Footnote: Paragraph 2A is inserted into Schedule 2 to the Act by paragraph 57 of Schedule 14 to the Immigration and Asylum Act 1999.
 
-[^key-8cbc33e60cc7fa69d930b4ee38ec2101]: Commencement: Art. 7 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-8cbc33e60cc7fa69d930b4ee38ec2101]: Commencement: Art. 7 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-cf82db2648a1be19530aac295a7acb60]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2000/1161/article/8) substituted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/3)
+[^c-cf82db2648a1be19530aac295a7acb60]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2000/1161/article/8) substituted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/3)
 
-[^key-75dca944b4b85a96ca8661197fc3a723]: Textual amendment: Word in [art. 8(2)(b)](https://www.legislation.gov.uk/uksi/2000/1161/article/8/2/b) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/4/a)
+[^c-75dca944b4b85a96ca8661197fc3a723]: Textual amendment: Word in [art. 8(2)(b)](https://www.legislation.gov.uk/uksi/2000/1161/article/8/2/b) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/4/a)
 
-[^key-ae953a2a6804084718f89a68bd713102]: Textual amendment: [Art. 8(2)(d)](https://www.legislation.gov.uk/uksi/2000/1161/article/8/2/d) and word inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/4/b)
+[^c-ae953a2a6804084718f89a68bd713102]: Textual amendment: [Art. 8(2)(d)](https://www.legislation.gov.uk/uksi/2000/1161/article/8/2/d) and word inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/4/b)
 
-[^key-928c1b9078cfc69c20da9cd45cbba0f4]: Textual amendment: [Arts. 8-8ZC](https://www.legislation.gov.uk/uksi/2000/1161/article/8) substituted for [art. 8](https://www.legislation.gov.uk/uksi/2000/1161/article/8) (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1749/article/4)
+[^c-928c1b9078cfc69c20da9cd45cbba0f4]: Textual amendment: [Arts. 8-8ZC](https://www.legislation.gov.uk/uksi/2000/1161/article/8) substituted for [art. 8](https://www.legislation.gov.uk/uksi/2000/1161/article/8) (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1749/article/4)
 
 [^f00006]: Footnote: S.I. [1984/2040](https://www.legislation.gov.uk/uksi/1984/2040).
 
-[^key-5113c366fcedaf8d6f0aee4d566d4ea0]: Textual amendment: Words in [art. 8ZC](https://www.legislation.gov.uk/uksi/2000/1161/article/8ZC) inserted (11.3.2019) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2019 (S.I. 2019/298)](https://www.legislation.gov.uk/uksi/2019/298), [arts. 1](https://www.legislation.gov.uk/uksi/2019/298/article/1), [3](https://www.legislation.gov.uk/uksi/2019/298/article/3)
+[^c-5113c366fcedaf8d6f0aee4d566d4ea0]: Textual amendment: Words in [art. 8ZC](https://www.legislation.gov.uk/uksi/2000/1161/article/8ZC) inserted (11.3.2019) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2019 (S.I. 2019/298)](https://www.legislation.gov.uk/uksi/2019/298), [arts. 1](https://www.legislation.gov.uk/uksi/2019/298/article/1), [3](https://www.legislation.gov.uk/uksi/2019/298/article/3)
 
-[^key-0e22c24dd22850a5afc7d3d7d37cfc30]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/uksi/2000/1161/article/8A) inserted (25.3.2010) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2010 (S.I. 2010/957)](https://www.legislation.gov.uk/uksi/2010/957), [arts. 1](https://www.legislation.gov.uk/uksi/2010/957/article/1), [4](https://www.legislation.gov.uk/uksi/2010/957/article/4)
+[^c-0e22c24dd22850a5afc7d3d7d37cfc30]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/uksi/2000/1161/article/8A) inserted (25.3.2010) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2010 (S.I. 2010/957)](https://www.legislation.gov.uk/uksi/2010/957), [arts. 1](https://www.legislation.gov.uk/uksi/2010/957/article/1), [4](https://www.legislation.gov.uk/uksi/2010/957/article/4)
 
-[^key-af9108ccb24d2e65fd74ac97435913f3]: Textual amendment: Words in [art. 8A(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/3) substituted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/a/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
+[^c-af9108ccb24d2e65fd74ac97435913f3]: Textual amendment: Words in [art. 8A(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/3) substituted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/a/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
 
-[^key-07f6caf146a0d900ef589277304056ec]: Textual amendment: Words in [art. 8A(3)(d)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/3/d) omitted (23.11.2016) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/a/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
+[^c-07f6caf146a0d900ef589277304056ec]: Textual amendment: Words in [art. 8A(3)(d)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/3/d) omitted (23.11.2016) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/a/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
 
-[^key-8d5c73b027061bbd651bbc8769132a9b]: Textual amendment: [Art. 8A(3A)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/3A) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
+[^c-8d5c73b027061bbd651bbc8769132a9b]: Textual amendment: [Art. 8A(3A)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/3A) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
 
-[^key-f01c2e41be224d8731c61f7d99b0115c]: Textual amendment: Words in [art. 8A(4)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/4) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
+[^c-f01c2e41be224d8731c61f7d99b0115c]: Textual amendment: Words in [art. 8A(4)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/4) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
 
-[^key-89b547ad13d1883dd516938e3ff0b9f1]: Textual amendment: [Art. 8A(5)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/5) substituted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
+[^c-89b547ad13d1883dd516938e3ff0b9f1]: Textual amendment: [Art. 8A(5)](https://www.legislation.gov.uk/uksi/2000/1161/article/8A/5) substituted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/4/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1132/article/3))
 
-[^key-5382bd1cdca7df6fc8893d0a57c08e03]: Textual amendment: [Art. 8B](https://www.legislation.gov.uk/uksi/2000/1161/article/8B) inserted (11.3.2019) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2019 (S.I. 2019/298)](https://www.legislation.gov.uk/uksi/2019/298), [arts. 1](https://www.legislation.gov.uk/uksi/2019/298/article/1), [4](https://www.legislation.gov.uk/uksi/2019/298/article/4)
+[^c-5382bd1cdca7df6fc8893d0a57c08e03]: Textual amendment: [Art. 8B](https://www.legislation.gov.uk/uksi/2000/1161/article/8B) inserted (11.3.2019) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2019 (S.I. 2019/298)](https://www.legislation.gov.uk/uksi/2019/298), [arts. 1](https://www.legislation.gov.uk/uksi/2019/298/article/1), [4](https://www.legislation.gov.uk/uksi/2019/298/article/4)
 
-[^key-2d9027a49a60c3bd9be77af8e3572a2f]: Textual amendment: [Art. 8B(1A)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/1A) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/a)
+[^c-2d9027a49a60c3bd9be77af8e3572a2f]: Textual amendment: [Art. 8B(1A)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/1A) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/a)
 
-[^key-eb65bd43ae7e9ce0bf5fe713531350fd]: Textual amendment: Words in [art. 8B(2)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2/a) substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/b/i)
+[^c-eb65bd43ae7e9ce0bf5fe713531350fd]: Textual amendment: Words in [art. 8B(2)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2/a) substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/b/i)
 
-[^key-d7af10ac0ed3831c6df0cf61368769e9]: Textual amendment: Words in [art. 8B(2)(b)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2/b) substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/b/ii)
+[^c-d7af10ac0ed3831c6df0cf61368769e9]: Textual amendment: Words in [art. 8B(2)(b)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2/b) substituted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/b/ii)
 
-[^key-b6bfdbf051fabae5bfbfdbc87f19be85]: Textual amendment: Word in [art. 8B(2)(c)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2/c) substituted (6.7.2026) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2026 (S.I. 2026/677)](https://www.legislation.gov.uk/uksi/2026/677), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/677/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/677/article/2)
+[^c-b6bfdbf051fabae5bfbfdbc87f19be85]: Textual amendment: Word in [art. 8B(2)(c)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2/c) substituted (6.7.2026) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2026 (S.I. 2026/677)](https://www.legislation.gov.uk/uksi/2026/677), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/677/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/677/article/2)
 
-[^key-dfcbb2b083e95711d1c5272a961bd4c0]: Textual amendment: Words in [art. 8B(2)(d)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2/d) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/b/iii)
+[^c-dfcbb2b083e95711d1c5272a961bd4c0]: Textual amendment: Words in [art. 8B(2)(d)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2/d) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/b/iii)
 
-[^key-7ab19752ce87fe039780ee320ab8c697]: Textual amendment: [Art. 8B(2A)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2A) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/c)
+[^c-7ab19752ce87fe039780ee320ab8c697]: Textual amendment: [Art. 8B(2A)](https://www.legislation.gov.uk/uksi/2000/1161/article/8B/2A) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/5/c)
 
-[^key-7fa2a4dd8e2bec3dd10e230f76b5a453]: Textual amendment: [Art. 8C](https://www.legislation.gov.uk/uksi/2000/1161/article/8C) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(6)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/6)
+[^c-7fa2a4dd8e2bec3dd10e230f76b5a453]: Textual amendment: [Art. 8C](https://www.legislation.gov.uk/uksi/2000/1161/article/8C) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(6)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/6)
 
-[^key-b9d37406284da52dcb8c4a0f00f4425b]: Commencement: Art. 9 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-b9d37406284da52dcb8c4a0f00f4425b]: Commencement: Art. 9 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-52e4073ed5b8cf5411adaee5071d713f]: Commencement: Art. 10 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-52e4073ed5b8cf5411adaee5071d713f]: Commencement: Art. 10 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-8b0e9a6d66063be10d429618d61265b1]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/10/1) substituted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2013/1749/article/5/a)
+[^c-8b0e9a6d66063be10d429618d61265b1]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/10/1) substituted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2013/1749/article/5/a)
 
-[^key-fbeecacd91843836510af9480c9c744b]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/10/3) substituted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2013/1749/article/5/b)
+[^c-fbeecacd91843836510af9480c9c744b]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2000/1161/article/10/3) substituted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2013/1749/article/5/b)
 
-[^key-6af12a35085cde7cd889b00d53659fdf]: Commencement: Art. 11 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-6af12a35085cde7cd889b00d53659fdf]: Commencement: Art. 11 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-9d17e111cc993bda36ecdee83b5109cd]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2000/1161/article/11) substituted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [6](https://www.legislation.gov.uk/uksi/2013/1749/article/6)
+[^c-9d17e111cc993bda36ecdee83b5109cd]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2000/1161/article/11) substituted (12.7.2013) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2013 (S.I. 2013/1749)](https://www.legislation.gov.uk/uksi/2013/1749), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1749/article/1), [6](https://www.legislation.gov.uk/uksi/2013/1749/article/6)
 
-[^key-810a38419798a6b401034dd0c52d7e60]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2000/1161/article/11) inserted (25.3.2010) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2010 (S.I. 2010/957)](https://www.legislation.gov.uk/uksi/2010/957), [arts. 1](https://www.legislation.gov.uk/uksi/2010/957/article/1), [5](https://www.legislation.gov.uk/uksi/2010/957/article/5)
+[^c-810a38419798a6b401034dd0c52d7e60]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2000/1161/article/11) inserted (25.3.2010) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2010 (S.I. 2010/957)](https://www.legislation.gov.uk/uksi/2010/957), [arts. 1](https://www.legislation.gov.uk/uksi/2010/957/article/1), [5](https://www.legislation.gov.uk/uksi/2010/957/article/5)
 
-[^key-c0945ae2183b717e0a8b22bd5701ff7c]: Commencement: Art. 12 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-c0945ae2183b717e0a8b22bd5701ff7c]: Commencement: Art. 12 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
 [^f00007]: Footnote: Paragraph 6 is amended in relevant respects by section 39(6) of and paragraph 2 of Schedule 4 to, the British Nationality Act 1981 ([1981 c. 61)](https://www.legislation.gov.uk/ukpga/1981/61) and section 10 of the Immigration Act 1988.
 
-[^key-c11fb906ccf9f1eba4d7f6706d0d4787]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2000/1161/article/13) in force at 30.7.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-c11fb906ccf9f1eba4d7f6706d0d4787]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2000/1161/article/13) in force at 30.7.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-43f46b4240d6946f40515b45015edcf8]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/1) substituted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/5/a)
+[^c-43f46b4240d6946f40515b45015edcf8]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/1) substituted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/5/a)
 
-[^key-be202b14d678d14a4cf63a78a3e2e040]: Textual amendment: Words in [art. 13(2)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/2/a) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(7)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/7)
+[^c-be202b14d678d14a4cf63a78a3e2e040]: Textual amendment: Words in [art. 13(2)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/2/a) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(7)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/7)
 
-[^key-71c75838dd976394b721d8e7658822c5]: Textual amendment: [Art. 13(4)(za)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2019/686/article/8/3/a)
+[^c-71c75838dd976394b721d8e7658822c5]: Textual amendment: [Art. 13(4)(za)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2019/686/article/8/3/a)
 
-[^key-57878ff6ad59955de1af4c7b6d1cd6e3]: Textual amendment: Word in [art. 13(4)(za)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za) omitted (21.5.2024) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2024 (S.I. 2024/663)](https://www.legislation.gov.uk/uksi/2024/663), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/663/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2024/663/article/2/a)
+[^c-57878ff6ad59955de1af4c7b6d1cd6e3]: Textual amendment: Word in [art. 13(4)(za)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za) omitted (21.5.2024) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2024 (S.I. 2024/663)](https://www.legislation.gov.uk/uksi/2024/663), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/663/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2024/663/article/2/a)
 
-[^key-1fa256475f8090010aebeb94523a4ca6]: Textual amendment: Word in [art. 13(4)(za)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za) omitted (21.5.2024) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2024 (S.I. 2024/663)](https://www.legislation.gov.uk/uksi/2024/663), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/663/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2024/663/article/2/b)
+[^c-1fa256475f8090010aebeb94523a4ca6]: Textual amendment: Word in [art. 13(4)(za)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za) omitted (21.5.2024) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2024 (S.I. 2024/663)](https://www.legislation.gov.uk/uksi/2024/663), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/663/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2024/663/article/2/b)
 
-[^key-fafbc966c8ad3a053e74edaa95c7f347]: Textual amendment: Word in [art. 13(4)(za)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za) omitted (21.5.2024) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2024 (S.I. 2024/663)](https://www.legislation.gov.uk/uksi/2024/663), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/663/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2024/663/article/2/c)
+[^c-fafbc966c8ad3a053e74edaa95c7f347]: Textual amendment: Word in [art. 13(4)(za)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za) omitted (21.5.2024) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2024 (S.I. 2024/663)](https://www.legislation.gov.uk/uksi/2024/663), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/663/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2024/663/article/2/c)
 
-[^key-2d0e239e01820e3ad97598ae00ba9dde]: Textual amendment: Word in [art. 13(4)(za)(i)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za/i) omitted (21.5.2024) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2024 (S.I. 2024/663)](https://www.legislation.gov.uk/uksi/2024/663), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/663/article/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2024/663/article/2/d)
+[^c-2d0e239e01820e3ad97598ae00ba9dde]: Textual amendment: Word in [art. 13(4)(za)(i)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/za/i) omitted (21.5.2024) by virtue of [The Immigration (Leave to Enter and Remain) (Amendment) Order 2024 (S.I. 2024/663)](https://www.legislation.gov.uk/uksi/2024/663), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/663/article/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2024/663/article/2/d)
 
-[^key-0c8ce341fb19b9da6eecd3d7d9bd41ae]: Textual amendment: Words in [art. 13(4)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/a) substituted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/686/article/8/3/b)
+[^c-0c8ce341fb19b9da6eecd3d7d9bd41ae]: Textual amendment: Words in [art. 13(4)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/a) substituted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/686/article/8/3/b)
 
-[^key-2e3d7f074e72860323b4e0cc6f5979f4]: Textual amendment: Words in [art. 13(4)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/a) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/434/article/2/4/b)
+[^c-2e3d7f074e72860323b4e0cc6f5979f4]: Textual amendment: Words in [art. 13(4)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/a) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/434/article/2/4/b)
 
-[^key-7894bc2ae9710e02ef1095d539605739]: Textual amendment: Words in [art. 13(4)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/a) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(3)(c)](https://www.legislation.gov.uk/uksi/2019/686/article/8/3/c)
+[^c-7894bc2ae9710e02ef1095d539605739]: Textual amendment: Words in [art. 13(4)](https://www.legislation.gov.uk/uksi/2000/1161/article/13/4/a) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(3)(c)](https://www.legislation.gov.uk/uksi/2019/686/article/8/3/c)
 
-[^key-a59f8832e4524fa966e5dd173a6487de]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2000/1161/article/13A) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/434/article/2/5)
+[^c-a59f8832e4524fa966e5dd173a6487de]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2000/1161/article/13A) inserted (18.3.2015) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2015 (S.I. 2015/434)](https://www.legislation.gov.uk/uksi/2015/434), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/434/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/434/article/2/5)
 
-[^key-a111eda38a0c763343bb58727d1705b5]: Textual amendment: Words in [art. 13A(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/13A/1) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/686/article/8/4/a)
+[^c-a111eda38a0c763343bb58727d1705b5]: Textual amendment: Words in [art. 13A(1)](https://www.legislation.gov.uk/uksi/2000/1161/article/13A/1) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/686/article/8/4/a)
 
-[^key-9b9e1bc257e5255f4e00398b1ffa7658]: Textual amendment: [Art. 13A(4)](https://www.legislation.gov.uk/uksi/2000/1161/article/13A/4) omitted (30.3.2019) by virtue of [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(4)(b)](https://www.legislation.gov.uk/uksi/2019/686/article/8/4/b)
+[^c-9b9e1bc257e5255f4e00398b1ffa7658]: Textual amendment: [Art. 13A(4)](https://www.legislation.gov.uk/uksi/2000/1161/article/13A/4) omitted (30.3.2019) by virtue of [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(4)(b)](https://www.legislation.gov.uk/uksi/2019/686/article/8/4/b)
 
-[^key-78dee6b9ebc21f633620361bb864d4ff]: Textual amendment: [Art. 13B](https://www.legislation.gov.uk/uksi/2000/1161/article/13B) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/6)
+[^c-78dee6b9ebc21f633620361bb864d4ff]: Textual amendment: [Art. 13B](https://www.legislation.gov.uk/uksi/2000/1161/article/13B) inserted (23.11.2016) by [The Immigration (Leave to Enter and Remain) (Amendment) Order 2016 (S.I. 2016/1132)](https://www.legislation.gov.uk/uksi/2016/1132), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1132/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2016/1132/article/2/6)
 
-[^key-56003691f14e8e9d895187f659fb1fa6]: Textual amendment: Word in [art. 13B](https://www.legislation.gov.uk/uksi/2000/1161/article/13B) heading omitted (30.3.2019) by virtue of [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(5)(a)](https://www.legislation.gov.uk/uksi/2019/686/article/8/5/a)
+[^c-56003691f14e8e9d895187f659fb1fa6]: Textual amendment: Word in [art. 13B](https://www.legislation.gov.uk/uksi/2000/1161/article/13B) heading omitted (30.3.2019) by virtue of [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(5)(a)](https://www.legislation.gov.uk/uksi/2019/686/article/8/5/a)
 
-[^key-94ebef2a3cf72a885ebad0a6cbd18cb9]: Textual amendment: Words in [art. 13B(1)(b)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/1/b) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(5)(b)](https://www.legislation.gov.uk/uksi/2019/686/article/8/5/b)
+[^c-94ebef2a3cf72a885ebad0a6cbd18cb9]: Textual amendment: Words in [art. 13B(1)(b)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/1/b) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(5)(b)](https://www.legislation.gov.uk/uksi/2019/686/article/8/5/b)
 
-[^key-22896167c2a4dc2c9200709d693f073d]: Textual amendment: Words in [art. 13B(2)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/2/a) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(5)(c)](https://www.legislation.gov.uk/uksi/2019/686/article/8/5/c)
+[^c-22896167c2a4dc2c9200709d693f073d]: Textual amendment: Words in [art. 13B(2)(a)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/2/a) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(5)(c)](https://www.legislation.gov.uk/uksi/2019/686/article/8/5/c)
 
-[^key-d85ec8a6509ef99e5fc6a6f1ae40c8ac]: Textual amendment: Word in [art. 13B(2)(b)(i)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/2/b/i) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/27/2/a) (with [reg. 27(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/27/3))
+[^c-d85ec8a6509ef99e5fc6a6f1ae40c8ac]: Textual amendment: Word in [art. 13B(2)(b)(i)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/2/b/i) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/27/2/a) (with [reg. 27(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/27/3))
 
-[^key-e1ca9b7510ebc24751a656429edf5afb]: Textual amendment: [Art. 13B(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/2/b/iii) and word omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/27/2/b) (with [reg. 27(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/27/3))
+[^c-e1ca9b7510ebc24751a656429edf5afb]: Textual amendment: [Art. 13B(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/2/b/iii) and word omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/27/2/b) (with [reg. 27(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/27/3))
 
-[^key-dbf09e89fa26d08b873cdcaec140c71f]: Textual amendment: [Art. 13B(3)(b)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/3/b) substituted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(5)(d)](https://www.legislation.gov.uk/uksi/2019/686/article/8/5/d)
+[^c-dbf09e89fa26d08b873cdcaec140c71f]: Textual amendment: [Art. 13B(3)(b)](https://www.legislation.gov.uk/uksi/2000/1161/article/13B/3/b) substituted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(5)(d)](https://www.legislation.gov.uk/uksi/2019/686/article/8/5/d)
 
-[^key-83b89c99847f63c0ec2bab101b727e2e]: Textual amendment: [Art. 13C](https://www.legislation.gov.uk/uksi/2000/1161/article/13C) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(6)](https://www.legislation.gov.uk/uksi/2019/686/article/8/6)
+[^c-83b89c99847f63c0ec2bab101b727e2e]: Textual amendment: [Art. 13C](https://www.legislation.gov.uk/uksi/2000/1161/article/13C) inserted (30.3.2019) by [The Immigration (European Economic Area Nationals) (EU Exit) Order 2019 (S.I. 2019/686)](https://www.legislation.gov.uk/uksi/2019/686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3), [8(6)](https://www.legislation.gov.uk/uksi/2019/686/article/8/6)
 
-[^key-34c4e1469682ae7527fb571828eeda83]: Commencement: Art. 14 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-34c4e1469682ae7527fb571828eeda83]: Commencement: Art. 14 in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
 [^f00008]: Footnote: Section 9(2) is amended in relevant respects by section 39(6) of the British Nationality Act 1981 ([1981 c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-6efbbb09891640d29a246e71f1a6b9c3]: Commencement: Art. 15(1) in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-6efbbb09891640d29a246e71f1a6b9c3]: Commencement: Art. 15(1) in force at 28.4.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-4d3f0dd3356fef840798eed4d4620070]: Commencement: [Art. 15(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/15/2) in force at 30.7.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
+[^c-4d3f0dd3356fef840798eed4d4620070]: Commencement: [Art. 15(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/15/2) in force at 30.7.2000, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2000/1161/article/1/2)
 
-[^key-3903ae3a7987fa542e9c59443e8067bb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2000/1161/schedule) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(8)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/8)
+[^c-3903ae3a7987fa542e9c59443e8067bb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2000/1161/schedule) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Immigration (Leave to Enter and Remain) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1353)](https://www.legislation.gov.uk/uksi/2020/1353), [art. 2(8)](https://www.legislation.gov.uk/uksi/2020/1353/article/2/8)

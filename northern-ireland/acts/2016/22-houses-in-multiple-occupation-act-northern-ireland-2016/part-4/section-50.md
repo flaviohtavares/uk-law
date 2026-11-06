@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Suitability notice[^key-cba12047949a89bd711d5e0657e1ccf4]
+## 50. Suitability notice[^c-cba12047949a89bd711d5e0657e1ccf4]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cba12047949a89bd711d5e0657e1ccf4]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2016/22/section/50) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-cba12047949a89bd711d5e0657e1ccf4]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2016/22/section/50) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Grounds for refusal relating to only some of the goods or services[^key-3fabedac12927f7eca477c5f21871e1d]
+## 5A. Grounds for refusal relating to only some of the goods or services[^c-3fabedac12927f7eca477c5f21871e1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where grounds for refusal of an application for registration of a trade mark exi
 
 ## Annotations
 
-[^key-3fabedac12927f7eca477c5f21871e1d]: Textual amendment: S. 5A inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2018/825/regulation/6) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-3fabedac12927f7eca477c5f21871e1d]: Textual amendment: S. 5A inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2018/825/regulation/6) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Lost postal signing sheets: Northern Ireland[^key-b40bd773811e4fec94ba789cfaff3caf]
+## 97. Lost postal signing sheets: Northern Ireland[^c-b40bd773811e4fec94ba789cfaff3caf]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ by the fourth day before the last day of the signing period, the postal signer m
 
 ## Annotations
 
-[^key-b40bd773811e4fec94ba789cfaff3caf]: Commencement: Reg. 97 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-b40bd773811e4fec94ba789cfaff3caf]: Commencement: Reg. 97 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

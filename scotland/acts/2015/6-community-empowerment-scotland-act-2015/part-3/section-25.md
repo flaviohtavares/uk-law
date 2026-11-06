@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Decision notice: information about outcome improvement process[^key-6ce58fc5c73f360743ad3c4e869e92be]
+## 25. Decision notice: information about outcome improvement process[^c-6ce58fc5c73f360743ad3c4e869e92be]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ce58fc5c73f360743ad3c4e869e92be]: Commencement: S. 25 in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)
+[^c-6ce58fc5c73f360743ad3c4e869e92be]: Commencement: S. 25 in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)

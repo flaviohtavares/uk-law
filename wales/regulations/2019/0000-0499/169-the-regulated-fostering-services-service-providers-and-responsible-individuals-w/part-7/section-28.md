@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Education, employment and leisure activities[^key-98d69857d544dc1c859966c79a7139da]
+## 28. Education, employment and leisure activities[^c-98d69857d544dc1c859966c79a7139da]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-98d69857d544dc1c859966c79a7139da]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2019/169/regulation/28) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-98d69857d544dc1c859966c79a7139da]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2019/169/regulation/28) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
 
 [^c23552791]: Marginal citation: [Section 1](https://www.legislation.gov.uk/wsi/2019/169/section/1) of the Rights of Children and Young Persons (Wales) Measure 2011 (nawm 2) requires the Welsh Ministers, when exercising any of their functions, to have due regard to the requirements of Part 1 of the United Nations Convention on the Rights of the Child adopted and opened for signature, ratification and accession by General Assembly resolution 44/25 of 20 November 1989 (“**the Convention**”). Article 31 of Part 1 of the Convention recognises a child's right to play.

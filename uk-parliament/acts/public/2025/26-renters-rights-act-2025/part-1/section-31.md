@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Long tenancies and financial services products[^key-5694c5c3430c0f5d6b7d2cb9f66a7dad]
+## 31. Long tenancies and financial services products[^c-5694c5c3430c0f5d6b7d2cb9f66a7dad]
 
 *Extent: E+W*
 
@@ -103,4 +103,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5694c5c3430c0f5d6b7d2cb9f66a7dad]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/26/section/31) in force at 27.12.2025, see [s. 145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a)
+[^c-5694c5c3430c0f5d6b7d2cb9f66a7dad]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/26/section/31) in force at 27.12.2025, see [s. 145(5)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/a)

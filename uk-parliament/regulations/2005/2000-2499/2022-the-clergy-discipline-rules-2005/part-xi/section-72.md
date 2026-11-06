@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 72. Archbishop reviews imposition of penalty[^key-dd16977985d51191c2ee28869b30dd64]
+## 72. Archbishop reviews imposition of penalty[^c-dd16977985d51191c2ee28869b30dd64]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd16977985d51191c2ee28869b30dd64]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2005/2022/rule/72) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-dd16977985d51191c2ee28869b30dd64]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2005/2022/rule/72) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

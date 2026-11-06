@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 570. Charge to tax under Chapter 13[^key-f8670c21ae47778e846f2cda432049de]
+## 570. Charge to tax under Chapter 13[^c-f8670c21ae47778e846f2cda432049de]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8670c21ae47778e846f2cda432049de]: Textual amendment: Pt. 4 Ch. 13 omitted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/9/2/b)
+[^c-f8670c21ae47778e846f2cda432049de]: Textual amendment: Pt. 4 Ch. 13 omitted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/9/2/b)

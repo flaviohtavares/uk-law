@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Interpretation of Chapter[^key-9dd5ebf5aa8e3a7483b3611daa1a6476]
+## 91. Interpretation of Chapter[^c-9dd5ebf5aa8e3a7483b3611daa1a6476]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-9dd5ebf5aa8e3a7483b3611daa1a6476]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2016/22/section/91) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-9dd5ebf5aa8e3a7483b3611daa1a6476]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2016/22/section/91) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)

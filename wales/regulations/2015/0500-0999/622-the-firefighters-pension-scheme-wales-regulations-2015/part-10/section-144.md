@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Statement of entitlement[^key-b102ba95f19df56af84d9446a7a8b1e3]
+## 144. Statement of entitlement[^c-b102ba95f19df56af84d9446a7a8b1e3]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b102ba95f19df56af84d9446a7a8b1e3]: Commencement: Reg. 144 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-b102ba95f19df56af84d9446a7a8b1e3]: Commencement: Reg. 144 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

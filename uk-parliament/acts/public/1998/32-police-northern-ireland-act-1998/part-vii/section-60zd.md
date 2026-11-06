@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60ZD. The Independent Commission for Reconciliation and Information Recovery[^key-2b412792f1ba0d1baf5ac0d109893852]
+## 60ZD. The Independent Commission for Reconciliation and Information Recovery[^c-2b412792f1ba0d1baf5ac0d109893852]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b412792f1ba0d1baf5ac0d109893852]: Textual amendment: [S. 60ZD](https://www.legislation.gov.uk/ukpga/1998/32/section/60ZD) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-2b412792f1ba0d1baf5ac0d109893852]: Textual amendment: [S. 60ZD](https://www.legislation.gov.uk/ukpga/1998/32/section/60ZD) inserted (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/3) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))

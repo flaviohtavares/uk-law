@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61O. Conditions where intermediary is a company[^key-c5ed4a8550671f87f70e726d21948b20]
+## 61O. Conditions where intermediary is a company[^c-c5ed4a8550671f87f70e726d21948b20]
 
 *Extent: E+W+S+N.I.*
 
 (1) The conditions mentioned in section 61N(9)(b) are that—
 
 - (a) the intermediary is not an associated company of the client that falls within subsection (2), and
-- (b)[^key-eba6eb46cf5927f3a12c7cff18ce2936] subsection (1A) or (1B) is satisfied.
+- (b)[^c-eba6eb46cf5927f3a12c7cff18ce2936] subsection (1A) or (1B) is satisfied.
 
-(1A)[^key-e2aaa0a280e22eb36598687113cb9242] This subsection is satisfied where the worker has a material interest in the intermediary.
+(1A)[^c-e2aaa0a280e22eb36598687113cb9242] This subsection is satisfied where the worker has a material interest in the intermediary.
 
 (1B) This subsection is satisfied where—
 
@@ -52,7 +52,7 @@ has a material interest in the intermediary.
 
 (4) For this purpose “**material interest**” has the meaning given by section 51(4) and (5).
 
-(4A)[^key-7b30dbbbfa043bc0e6e5a43fed0a0413] The worker is treated as having a non-material interest in the intermediary if—
+(4A)[^c-7b30dbbbfa043bc0e6e5a43fed0a0413] The worker is treated as having a non-material interest in the intermediary if—
 
 - (a) the worker, alone or with one or more associates of the worker, or
 - (b) an associate of the worker, with or without other associates of the worker,
@@ -71,10 +71,10 @@ has a non-material interest in the intermediary.
 
 ## Annotations
 
-[^key-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
+[^c-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
 
-[^key-eba6eb46cf5927f3a12c7cff18ce2936]: Textual amendment: [S. 61O(1)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/61O/1/b) substituted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/3/a)
+[^c-eba6eb46cf5927f3a12c7cff18ce2936]: Textual amendment: [S. 61O(1)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/61O/1/b) substituted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/3/a)
 
-[^key-e2aaa0a280e22eb36598687113cb9242]: Textual amendment: [S. 61O(1A)](https://www.legislation.gov.uk/ukpga/2003/1/section/61O/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2003/1/section/61O/1B) inserted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/3/b)
+[^c-e2aaa0a280e22eb36598687113cb9242]: Textual amendment: [S. 61O(1A)](https://www.legislation.gov.uk/ukpga/2003/1/section/61O/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2003/1/section/61O/1B) inserted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/3/b)
 
-[^key-7b30dbbbfa043bc0e6e5a43fed0a0413]: Textual amendment: [S. 61O(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2003/1/section/61O/4A) inserted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/3/c)
+[^c-7b30dbbbfa043bc0e6e5a43fed0a0413]: Textual amendment: [S. 61O(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2003/1/section/61O/4A) inserted (with effect in accordance with s. 21(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 21(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/21/3/c)

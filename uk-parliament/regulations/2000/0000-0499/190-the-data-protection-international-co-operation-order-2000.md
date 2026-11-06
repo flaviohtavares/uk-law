@@ -31,7 +31,7 @@ summary: ''
 
 DATA PROTECTION
 
-The Data Protection (International Co-operation) Order 2000 (revoked)[^key-1f07f4747032b106f43cf9cfb93bdcc6]
+The Data Protection (International Co-operation) Order 2000 (revoked)[^c-1f07f4747032b106f43cf9cfb93bdcc6]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 1st March 2000
 
-[^key-1f07f4747032b106f43cf9cfb93bdcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f07f4747032b106f43cf9cfb93bdcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1f07f4747032b106f43cf9cfb93bdcc6]
+## 1. Citation and commencement[^c-1f07f4747032b106f43cf9cfb93bdcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1f07f4747032b106f43cf9cfb93bdcc6]
+## 2. Interpretation[^c-1f07f4747032b106f43cf9cfb93bdcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Information relating to adequacy[^key-1f07f4747032b106f43cf9cfb93bdcc6]
+## 3. Information relating to adequacy[^c-1f07f4747032b106f43cf9cfb93bdcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Objections to authorisations[^key-1f07f4747032b106f43cf9cfb93bdcc6]
+## 4. Objections to authorisations[^c-1f07f4747032b106f43cf9cfb93bdcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Requests from supervisory authorities in relation to certain data controllers[^key-1f07f4747032b106f43cf9cfb93bdcc6]
+## 5. Requests from supervisory authorities in relation to certain data controllers[^c-1f07f4747032b106f43cf9cfb93bdcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Requests by Commissioner in relation to certain data controllers[^key-1f07f4747032b106f43cf9cfb93bdcc6]
+## 6. Requests by Commissioner in relation to certain data controllers[^c-1f07f4747032b106f43cf9cfb93bdcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. General exchange of information[^key-1f07f4747032b106f43cf9cfb93bdcc6]
+## 7. General exchange of information[^c-1f07f4747032b106f43cf9cfb93bdcc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f07f4747032b106f43cf9cfb93bdcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f07f4747032b106f43cf9cfb93bdcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1f07f4747032b106f43cf9cfb93bdcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f07f4747032b106f43cf9cfb93bdcc6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f07f4747032b106f43cf9cfb93bdcc6]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 242](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/242) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and savings in [Sch. 20 paras. 25](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/25), [58(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-1f07f4747032b106f43cf9cfb93bdcc6]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 242](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/242) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and savings in [Sch. 20 paras. 25](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/25), [58(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

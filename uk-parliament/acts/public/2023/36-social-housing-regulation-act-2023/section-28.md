@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Surveys[^key-5ddb5c3562287ac34b3370b00a78c5e6][^key-c4371c2d25f5b24a72b7ea1e2429b22b]
+## 28. Surveys[^c-5ddb5c3562287ac34b3370b00a78c5e6][^c-c4371c2d25f5b24a72b7ea1e2429b22b]
 
 *Extent: E+W*
 
@@ -128,6 +128,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ddb5c3562287ac34b3370b00a78c5e6]: Commencement: S. 28 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-5ddb5c3562287ac34b3370b00a78c5e6]: Commencement: S. 28 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-c4371c2d25f5b24a72b7ea1e2429b22b]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/36/section/28) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/o)
+[^c-c4371c2d25f5b24a72b7ea1e2429b22b]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/36/section/28) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/o)

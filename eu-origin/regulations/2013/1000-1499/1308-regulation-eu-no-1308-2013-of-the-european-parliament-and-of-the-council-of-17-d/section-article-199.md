@@ -29,9 +29,9 @@ summary: ''
 
 3. The refund shall be paid upon submission of proof that:
 
-- (a)[^key-b84f92e9ce8ccfed2a08402b0ec99895] the products have been exported from the United Kingdom in accordance with the applicable export provisions, as construed in accordance with section 35(2) of the Taxation (Cross-border) Trade Act 2018;
+- (a)[^c-b84f92e9ce8ccfed2a08402b0ec99895] the products have been exported from the United Kingdom in accordance with the applicable export provisions, as construed in accordance with section 35(2) of the Taxation (Cross-border) Trade Act 2018;
 - (b) in the case of a differentiated refund, the products have been imported into the destination indicated on the licence or another destination for which a refund was fixed, without prejudice to point (b) of paragraph 2.
 
 ## Annotations
 
-[^key-b84f92e9ce8ccfed2a08402b0ec99895]: Textual amendment: [Art. 199(3)(a)](https://www.legislation.gov.uk/eur/2013/1308/article/199/3/a) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [62](https://www.legislation.gov.uk/uksi/2019/821/regulation/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b84f92e9ce8ccfed2a08402b0ec99895]: Textual amendment: [Art. 199(3)(a)](https://www.legislation.gov.uk/eur/2013/1308/article/199/3/a) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [62](https://www.legislation.gov.uk/uksi/2019/821/regulation/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

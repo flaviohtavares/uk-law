@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Inter-bank payment systems[^key-e143562a120e9a818da310ede586e6d5]
+## 104. Inter-bank payment systems[^c-e143562a120e9a818da310ede586e6d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -201,4 +201,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e143562a120e9a818da310ede586e6d5]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2012/21/section/104) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e143562a120e9a818da310ede586e6d5]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2012/21/section/104) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

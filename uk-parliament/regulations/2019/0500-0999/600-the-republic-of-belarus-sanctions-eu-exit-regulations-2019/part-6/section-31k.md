@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31K. Trade: exceptions in relation to machinery-related goods and machinery-related technology[^key-da74eb266c58dafdc48c2ec2b27ed8cf]
+## 31K. Trade: exceptions in relation to machinery-related goods and machinery-related technology[^c-da74eb266c58dafdc48c2ec2b27ed8cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da74eb266c58dafdc48c2ec2b27ed8cf]: Textual amendment: [Regs. 31J](https://www.legislation.gov.uk/uksi/2019/600/regulation/31J), [31K](https://www.legislation.gov.uk/uksi/2019/600/regulation/31K) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/616/regulation/14)
+[^c-da74eb266c58dafdc48c2ec2b27ed8cf]: Textual amendment: [Regs. 31J](https://www.legislation.gov.uk/uksi/2019/600/regulation/31J), [31K](https://www.legislation.gov.uk/uksi/2019/600/regulation/31K) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/616/regulation/14)

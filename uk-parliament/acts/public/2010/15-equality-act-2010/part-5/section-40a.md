@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Employer duty to prevent sexual harassment of employees[^key-296ec5fb817e5312c51cfb5fae7d59a0]
+## 40A. Employer duty to prevent sexual harassment of employees[^c-296ec5fb817e5312c51cfb5fae7d59a0]
 
 *Extent: E+W+S*
 
-(1) An employer (A) must take all[^key-5b29f9bb1553eecb4fc2b1cab4c9358a] reasonable steps to prevent sexual harassment of employees of A in the course of their employment.
+(1) An employer (A) must take all[^c-5b29f9bb1553eecb4fc2b1cab4c9358a] reasonable steps to prevent sexual harassment of employees of A in the course of their employment.
 
 (2) “Sexual harassment” in subsection (1) means harassment of the kind described in section 26(2) (unwanted conduct of a sexual nature).
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-296ec5fb817e5312c51cfb5fae7d59a0]: Textual amendment: S. 40A inserted (26.10.2024) by [Worker Protection (Amendment of Equality Act 2010) Act 2023 (c. 51)](https://www.legislation.gov.uk/ukpga/2023/51), [ss. 1](https://www.legislation.gov.uk/ukpga/2023/51/section/1), [5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
+[^c-296ec5fb817e5312c51cfb5fae7d59a0]: Textual amendment: S. 40A inserted (26.10.2024) by [Worker Protection (Amendment of Equality Act 2010) Act 2023 (c. 51)](https://www.legislation.gov.uk/ukpga/2023/51), [ss. 1](https://www.legislation.gov.uk/ukpga/2023/51/section/1), [5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
 
-[^key-5b29f9bb1553eecb4fc2b1cab4c9358a]: Textual amendment: Word in s. 40A(1) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 20](https://www.legislation.gov.uk/ukpga/2025/36/section/20), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/a)
+[^c-5b29f9bb1553eecb4fc2b1cab4c9358a]: Textual amendment: Word in s. 40A(1) inserted (30.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 20](https://www.legislation.gov.uk/ukpga/2025/36/section/20), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Use of audio or video links at inquests[^key-0ecc0933ca46a6875b78b2aa612a4107]
+## 41. Use of audio or video links at inquests[^c-0ecc0933ca46a6875b78b2aa612a4107]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ecc0933ca46a6875b78b2aa612a4107]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/35/section/41) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)
+[^c-0ecc0933ca46a6875b78b2aa612a4107]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/35/section/41) in force at 28.6.2022, see [s. 51(3)(c)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3/c)

@@ -28,7 +28,7 @@ summary: ''
 
 For the purposes of this paragraph, references to a person being subject to a legal incapacity to vote do not, in relation to things done before polling day at the election or first election at or for which they are done, include the person being below voting age if the person will be of voting age on that day.
 
-(1A)[^key-d4b6cf452f490763a6f5b1a03f67cfa8] A person (“**P**”) is guilty of an offence if P applies for the appointment of a proxy to vote for P—
+(1A)[^c-d4b6cf452f490763a6f5b1a03f67cfa8] A person (“**P**”) is guilty of an offence if P applies for the appointment of a proxy to vote for P—
 
 - (a) at a PCC election, where P knows that the person to be appointed as a proxy to vote at that election, or at PCC elections, for four or more other electors;
 - (b) at a PCC election, where—
@@ -49,7 +49,7 @@ For the purposes of this paragraph, references to a person being subject to a le
 - (b) P votes in person as proxy for an elector at a PCC election at which P is entitled to vote by post as proxy for that elector, or
 - (c) P votes in person as proxy for an elector at a PCC election knowing that the elector has already voted in person at the election.
 
-(4)[^key-4f7e0ab9a16d00cae8cf90cb629a3a09] A person (“**P**”) is also guilty of an offence if P votes as a proxy—
+(4)[^c-4f7e0ab9a16d00cae8cf90cb629a3a09] A person (“**P**”) is also guilty of an offence if P votes as a proxy—
 
 - (a) for more than four electors—
   - (i) at a PCC election;
@@ -64,7 +64,7 @@ For the purposes of this paragraph, references to a person being subject to a le
 
 (6) For the purposes of this article, a person who has applied for a ballot paper for the purpose of voting in person, or who has marked, whether validly or not, and returned a ballot paper issued for the purpose of voting by post, is deemed to have voted, but for the purpose of determining whether an application for a ballot paper constitutes an offence under paragraph (4), a previous application made in circumstances which entitle the applicant only to mark a tendered ballot paper is to be disregarded, if the person does not exercise that right.
 
-(6A)[^key-c46fe324e9913e69765faaf8efba75b3] For the purpose of determining whether an application for a ballot paper constitutes an offence under paragraph (2)(a) or (3)(a), a previous application is to be disregarded if the applicant’s failure to vote on that occasion resulted only from a failure to produce satisfactory proof of identity.
+(6A)[^c-c46fe324e9913e69765faaf8efba75b3] For the purpose of determining whether an application for a ballot paper constitutes an offence under paragraph (2)(a) or (3)(a), a previous application is to be disregarded if the applicant’s failure to vote on that occasion resulted only from a failure to produce satisfactory proof of identity.
 
 (7) A person is not guilty of an offence under paragraph (2)(b) or (3)(b) only by reason of the person having marked a tendered ballot paper in pursuance of case 3, 4, 5 or 6 of rule 42 of the PCC elections rules.
 
@@ -75,8 +75,8 @@ For the purposes of this paragraph, references to a person being subject to a le
 
 ## Annotations
 
-[^key-d4b6cf452f490763a6f5b1a03f67cfa8]: Textual amendment: [Art. 18(1A)](https://www.legislation.gov.uk/uksi/2012/1917/article/18/1A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/3/a)
+[^c-d4b6cf452f490763a6f5b1a03f67cfa8]: Textual amendment: [Art. 18(1A)](https://www.legislation.gov.uk/uksi/2012/1917/article/18/1A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/3/a)
 
-[^key-4f7e0ab9a16d00cae8cf90cb629a3a09]: Textual amendment: [Art. 18(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/18/4) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/d), [17(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/3/b) (with [Sch. 2 paras. 18](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/18), [19(2)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/19/2))
+[^c-4f7e0ab9a16d00cae8cf90cb629a3a09]: Textual amendment: [Art. 18(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/18/4) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/d), [17(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/3/b) (with [Sch. 2 paras. 18](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/18), [19(2)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/19/2))
 
-[^key-c46fe324e9913e69765faaf8efba75b3]: Textual amendment: [Art. 18(6A)](https://www.legislation.gov.uk/uksi/2012/1917/article/18/6A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2022/1382/regulation/58) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-c46fe324e9913e69765faaf8efba75b3]: Textual amendment: [Art. 18(6A)](https://www.legislation.gov.uk/uksi/2012/1917/article/18/6A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2022/1382/regulation/58) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24ZA. Duty to provide membership audit certificate[^key-a8e49115af2797a32fd0551b8514d96e]
+## 24ZA. Duty to provide membership audit certificate[^c-a8e49115af2797a32fd0551b8514d96e]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e49115af2797a32fd0551b8514d96e]: Textual amendment: S. 24ZA inserted (6.4.2015 with application in accordance with art. 3 of the commencing S.I.) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/40/2), [45(1)(c)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/c); [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/a)
+[^c-a8e49115af2797a32fd0551b8514d96e]: Textual amendment: S. 24ZA inserted (6.4.2015 with application in accordance with art. 3 of the commencing S.I.) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/40/2), [45(1)(c)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/c); [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/a)

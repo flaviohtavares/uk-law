@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Powers of direction, etc.[^key-0552b4a120ede3ba83ef38e6f32dc7ef]
+## 100. Powers of direction, etc.[^c-0552b4a120ede3ba83ef38e6f32dc7ef]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ of the direction and of the reason why it was given without complying with subse
 
 ## Annotations
 
-[^key-0552b4a120ede3ba83ef38e6f32dc7ef]: Commencement: S. 100 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-0552b4a120ede3ba83ef38e6f32dc7ef]: Commencement: S. 100 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

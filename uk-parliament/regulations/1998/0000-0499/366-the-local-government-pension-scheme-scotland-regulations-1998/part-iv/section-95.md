@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 95. Non-assignability[^key-84950d383aae5adb357a224c871e5829]
+## 95. Non-assignability[^c-84950d383aae5adb357a224c871e5829]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84950d383aae5adb357a224c871e5829]: Commencement: Reg. 95 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-84950d383aae5adb357a224c871e5829]: Commencement: Reg. 95 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00039]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66).

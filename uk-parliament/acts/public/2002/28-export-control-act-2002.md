@@ -35,7 +35,7 @@ An Act to make provision enabling controls to be imposed on the exportation of g
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Export controls[^key-9a3455e7c16a750da9961ff325e80eb8]
+## 1. Export controls[^c-9a3455e7c16a750da9961ff325e80eb8]
 
 (1) The Secretary of State may by order make provision for or in connection with the imposition of export controls in relation to goods of any description.
 
@@ -45,11 +45,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) The power to impose export controls is subject to section 5.
 
-(5) The Secretary of State may by order make provision in connection with any controls that may be imposed by a directly applicable EU[^key-ec885f8897b4d4bd51110a465f292b14] provision on the exportation of goods.
+(5) The Secretary of State may by order make provision in connection with any controls that may be imposed by a directly applicable EU[^c-ec885f8897b4d4bd51110a465f292b14] provision on the exportation of goods.
 
 (6) For the avoidance of doubt, export controls may be imposed in relation to the removal from the United Kingdom of vehicles, vessels and aircraft (as an exportation of goods), whether or not they are moving under their own power or carrying goods or passengers.
 
-## 2. Transfer Controls[^key-f0f30acb012139097b87404a8987f49c]
+## 2. Transfer Controls[^c-f0f30acb012139097b87404a8987f49c]
 
 (1) The Secretary of State may by order make provision for or in connection with the imposition of transfer controls in relation to technology of any description.
 
@@ -73,7 +73,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
   - (a) the development, production or use of any goods or software;
   - (b) the development of, or the carrying out of, an industrial or commercial activity or an activity of any other kind whatsoever.
 
-## 3. Technical assistance controls[^key-e4de201885016cd5dc71d16bd4b66fc2]
+## 3. Technical assistance controls[^c-e4de201885016cd5dc71d16bd4b66fc2]
 
 (1) The Secretary of State may by order make provision for or in connection with the imposition of technical assistance controls in relation to technical assistance of any description.
 
@@ -100,7 +100,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) Technical assistance controls may be imposed on acts done outside the United Kingdom, but only if they are done by a person who is, or is acting under the control of, a United Kingdom person.
 
-## 4. Trade controls[^key-aa986914af2f9cde1937e95ac8b1a1d7]
+## 4. Trade controls[^c-aa986914af2f9cde1937e95ac8b1a1d7]
 
 (1) The Secretary of State may by order make provision for or in connection with the imposition of trade controls in relation to goods of any description.
 
@@ -137,13 +137,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (8) Trade controls may be imposed on acts done outside the United Kingdom and the Isle of Man, but only if they are done by a person who is, or is acting under the control of, a United Kingdom person.
 
-## 5. General restriction on control powers[^key-7954501cc3914bc4f7af959ac3e93fe6]
+## 5. General restriction on control powers[^c-7954501cc3914bc4f7af959ac3e93fe6]
 
 (1) Subject to section 6, the power to impose export controls, transfer controls, technical assistance controls or trade controls may only be exercised where authorised by this section.
 
 (2) Controls of any kind may be imposed for the purpose of giving effect to any EU provision or other international obligation of the United Kingdom.
 
-(3)[^key-231882bf927630514b746ca5bdde3347] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-231882bf927630514b746ca5bdde3347] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Export controls may be imposed in relation to any description of goods within one or more of the categories specified in the Schedule for such controls.
 
@@ -153,7 +153,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) Trade controls may be imposed in relation to any description of goods within one or more of the categories specified in the Schedule for such controls.
 
-## 6. Exceptions from the general restriction[^key-64e92a8365f17d6a57b476add0873f20]
+## 6. Exceptions from the general restriction[^c-64e92a8365f17d6a57b476add0873f20]
 
 (1) Section 5 does not apply to the power to impose any controls if the control order which imposes them provides for its expiry no later than the end of the period of 12 months beginning with the day on which it is made.
 
@@ -166,7 +166,7 @@ unless they impose new controls or strengthen the controls previously imposed.
 
 (3) In subsection (2) “**an earlier control order**” does not include an order made by virtue of subsection (1).
 
-## 7. Control powers: supplementary[^key-4eac275e28d7642c59d675e502addb1b]
+## 7. Control powers: supplementary[^c-4eac275e28d7642c59d675e502addb1b]
 
 (1) An order under any of the preceding provisions of this Act may (without prejudice to the generality of the power under which it is made) make provision—
 
@@ -187,7 +187,7 @@ unless they impose new controls or strengthen the controls previously imposed.
 - (d) make incidental, supplementary and transitional provision; and
 - (e) make different provision for different cases and different circumstances.
 
-## 8. Protection of certain freedoms[^key-2d47dbd2010214850fc61778b48151e9]
+## 8. Protection of certain freedoms[^c-2d47dbd2010214850fc61778b48151e9]
 
 (1) The Secretary of State may not make a control order which has the effect of prohibiting or regulating any of the following activities—
 
@@ -199,7 +199,7 @@ unless the interference by the order in the freedom to carry on the activity in 
 
 (2) The question whether any such interference is necessary shall be determined by the Secretary of State by reference to the circumstances prevailing at the time the order is made and having considered the reasons for seeking to control the activity in question and the need to respect the freedom to carry on that activity.
 
-## 9. Guidance about the exercise of functions under control orders[^key-f929d8f37486dd1eb503658e368821ed][^key-9abdff10ba3cde531249939624fab7ba][^key-d1ceadcf8d905f84a32c666a5249c266][^key-0cccc531f86d98d385d05bc485ccd5c5]
+## 9. Guidance about the exercise of functions under control orders[^c-f929d8f37486dd1eb503658e368821ed][^c-9abdff10ba3cde531249939624fab7ba][^c-d1ceadcf8d905f84a32c666a5249c266][^c-0cccc531f86d98d385d05bc485ccd5c5]
 
 (1) This section applies to licensing powers and other functions conferred by a control order on any person in connection with controls imposed under this Act.
 
@@ -225,7 +225,7 @@ but this subsection does not restrict the matters which may be addressed in guid
 - (a) is given and published under this section; and
 - (b) fulfils the duty imposed by subsection (3) in respect of any export controls and transfer controls which may be imposed in relation to goods or technology of a description falling within paragraph 1 or 2 of the Schedule.
 
-## 10. Annual reports[^key-c8814aa2bdf37b6e72ec0bcddaa0959d]
+## 10. Annual reports[^c-c8814aa2bdf37b6e72ec0bcddaa0959d]
 
 (1) The Secretary of State shall lay before Parliament in respect of each year—
 
@@ -234,11 +234,11 @@ but this subsection does not restrict the matters which may be addressed in guid
 
 (2) A report required by subsection (1) shall be laid as soon as practicable after the end of the year to which it relates.
 
-## 11. Interpretation[^key-7414a0407d0d13011ead180ce989fad9]
+## 11. Interpretation[^c-7414a0407d0d13011ead180ce989fad9]
 
 (1) In this Act—
 
-- “[^key-ede04b60893ee56904f405c8b0906fb6]**EU provision**” means a provision of an EU instrument as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
+- “[^c-ede04b60893ee56904f405c8b0906fb6]**EU provision**” means a provision of an EU instrument as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
 - “**control order**” means an order under section 1(1), 2(1), 3(1) or 4(1);
 - “**export controls**” has the meaning given in section 1(2);
 - “**objects of cultural interest**” includes objects of historical or scientific interest;
@@ -260,7 +260,7 @@ but this subsection does not restrict the matters which may be addressed in guid
 
 (4) This Act, so far as it relates to the imposition of export controls, is an Act relating to customs for the purposes of the definition of “the customs and excise Acts” in section 1 of the Customs and Excise Management Act 1979 (c. 2).
 
-## 12. Power to modify the Schedule[^key-9733c9dd7e4930bddf812591d354c91b]
+## 12. Power to modify the Schedule[^c-9733c9dd7e4930bddf812591d354c91b]
 
 (1) The Secretary of State may by order modify the provisions of the Schedule.
 
@@ -268,29 +268,29 @@ but this subsection does not restrict the matters which may be addressed in guid
 
 ## 13. Orders[^c8874691]
 
-(1)[^key-5cab6b783e013874810e2b426d5565e2] The power to make an order under this Act is exercisable by statutory instrument.
+(1)[^c-5cab6b783e013874810e2b426d5565e2] The power to make an order under this Act is exercisable by statutory instrument.
 
-(2)[^key-3d0ed17a24cccaa9d9104b320c8d6e26] A statutory instrument containing a control order made by virtue of section 6(1) shall be laid before Parliament after being made but, unless it is approved by a resolution of each House before the end of the period of 40 days beginning with the day on which it is made, shall cease to have effect at the end of that period.
+(2)[^c-3d0ed17a24cccaa9d9104b320c8d6e26] A statutory instrument containing a control order made by virtue of section 6(1) shall be laid before Parliament after being made but, unless it is approved by a resolution of each House before the end of the period of 40 days beginning with the day on which it is made, shall cease to have effect at the end of that period.
 
-(3)[^key-3d0ed17a24cccaa9d9104b320c8d6e26] In reckoning that period no account shall be taken of any time during which Parliament is dissolved or prorogued or during which either House is adjourned for more than 4 days.
+(3)[^c-3d0ed17a24cccaa9d9104b320c8d6e26] In reckoning that period no account shall be taken of any time during which Parliament is dissolved or prorogued or during which either House is adjourned for more than 4 days.
 
-(4)[^key-3d0ed17a24cccaa9d9104b320c8d6e26] A statutory instrument containing an order under section 12 shall not be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+(4)[^c-3d0ed17a24cccaa9d9104b320c8d6e26] A statutory instrument containing an order under section 12 shall not be made unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
 
 (5) A statutory instrument containing—
 
-- (a)[^key-3d0ed17a24cccaa9d9104b320c8d6e26] an order under section 1, 2, 3 or 4 which is not made by virtue of section 6(1); or
-- (b)[^key-5cab6b783e013874810e2b426d5565e2] an order under section 16(3),
+- (a)[^c-3d0ed17a24cccaa9d9104b320c8d6e26] an order under section 1, 2, 3 or 4 which is not made by virtue of section 6(1); or
+- (b)[^c-5cab6b783e013874810e2b426d5565e2] an order under section 16(3),
 
 shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 14. Financial provision[^key-7592bdd37aff3b1d5d638f7cc2b6a281]
+## 14. Financial provision[^c-7592bdd37aff3b1d5d638f7cc2b6a281]
 
 There shall be paid out of money provided by Parliament—
 
 - (a) any expenses of a government department incurred in consequence of this Act; and
 - (b) any increase attributable to this Act in the sums payable out of such money under any other Act.
 
-## 15. Consequential repeals[^key-3abcadd40a0c732b883bc415ea8fe4c1]
+## 15. Consequential repeals[^c-3abcadd40a0c732b883bc415ea8fe4c1]
 
 (1) The following provisions of the Import, Export and Customs Powers (Defence) Act 1939 (c. 69) (which are concerned with the exportation of goods and related matters) are repealed.
 
@@ -330,7 +330,7 @@ There shall be paid out of money provided by Parliament—
 
 Section 5
 
-**1.**[^key-9d55881da486b6642cec82160cef094e] (1) Export controls and trade controls may be imposed in relation to—
+**1.**[^c-9d55881da486b6642cec82160cef094e] (1) Export controls and trade controls may be imposed in relation to—
 
 - (a) military equipment;
 - (b) goods on which military technology is recorded or from which it can be derived; or
@@ -361,7 +361,7 @@ Section 5
 - (b) accessories for use with firearms or other weapons; and
 - (c) ammunition, missiles or projectiles of any kind which are intended, designed or adapted for use with firearms or other weapons.
 
-**2.**[^key-0e9b22dc7c40ca6314745d3de9723927] (1) Export controls may be imposed in relation to any goods the exportation or use of which is capable of having a relevant consequence.
+**2.**[^c-0e9b22dc7c40ca6314745d3de9723927] (1) Export controls may be imposed in relation to any goods the exportation or use of which is capable of having a relevant consequence.
 
 (2) Transfer controls may be imposed in relation to any technology the transfer or use of which is capable of having such a consequence.
 
@@ -369,7 +369,7 @@ Section 5
 
 (4) Trade controls may be imposed in relation to any goods the acquisition, disposal, movement or use of which is capable of having such a consequence.
 
-**3.**[^key-356477b3eadeeb5566239d39dcebbccc] (1) For the purposes of paragraph 2 a relevant consequence, in relation to any activity, is a consequence (direct or indirect) of a kind mentioned in the following Table.
+**3.**[^c-356477b3eadeeb5566239d39dcebbccc] (1) For the purposes of paragraph 2 a relevant consequence, in relation to any activity, is a consequence (direct or indirect) of a kind mentioned in the following Table.
 
 (2) The Table referred to above is as follows—
 
@@ -404,57 +404,57 @@ RELEVANT CONSEQUENCES
 
 ## Annotations
 
-[^key-9a3455e7c16a750da9961ff325e80eb8]: Commencement: S. 1 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-9a3455e7c16a750da9961ff325e80eb8]: Commencement: S. 1 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-ec885f8897b4d4bd51110a465f292b14]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-ec885f8897b4d4bd51110a465f292b14]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-f0f30acb012139097b87404a8987f49c]: Commencement: S. 2 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-f0f30acb012139097b87404a8987f49c]: Commencement: S. 2 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-e4de201885016cd5dc71d16bd4b66fc2]: Commencement: S. 3 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-e4de201885016cd5dc71d16bd4b66fc2]: Commencement: S. 3 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-aa986914af2f9cde1937e95ac8b1a1d7]: Commencement: S. 4 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-aa986914af2f9cde1937e95ac8b1a1d7]: Commencement: S. 4 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-7954501cc3914bc4f7af959ac3e93fe6]: Commencement: S. 5 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-7954501cc3914bc4f7af959ac3e93fe6]: Commencement: S. 5 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-231882bf927630514b746ca5bdde3347]: Textual amendment: S. 5(3) omitted (31.12.2020) by virtue of [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/771)](https://www.legislation.gov.uk/uksi/2019/771), [regs. 1](https://www.legislation.gov.uk/uksi/2019/771/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/771/regulation/2/2) (as substituted by [S.I. 2020/1502](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-231882bf927630514b746ca5bdde3347]: Textual amendment: S. 5(3) omitted (31.12.2020) by virtue of [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/771)](https://www.legislation.gov.uk/uksi/2019/771), [regs. 1](https://www.legislation.gov.uk/uksi/2019/771/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/771/regulation/2/2) (as substituted by [S.I. 2020/1502](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64e92a8365f17d6a57b476add0873f20]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2002/28/section/6) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-64e92a8365f17d6a57b476add0873f20]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2002/28/section/6) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-4eac275e28d7642c59d675e502addb1b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2002/28/section/7) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-4eac275e28d7642c59d675e502addb1b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2002/28/section/7) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-2d47dbd2010214850fc61778b48151e9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2002/28/section/8) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-2d47dbd2010214850fc61778b48151e9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2002/28/section/8) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-f929d8f37486dd1eb503658e368821ed]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2002/28/section/9) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-f929d8f37486dd1eb503658e368821ed]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2002/28/section/9) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-9abdff10ba3cde531249939624fab7ba]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2002/28/section/9) extended (with modifications) (16.12.2004) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Overseas Territories) Order 2004 (S.I. 2004/3101)](https://www.legislation.gov.uk/uksi/2004/3101), [art. 4](https://www.legislation.gov.uk/uksi/2004/3101/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3101/schedule/3)
+[^c-9abdff10ba3cde531249939624fab7ba]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2002/28/section/9) extended (with modifications) (16.12.2004) by [The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Overseas Territories) Order 2004 (S.I. 2004/3101)](https://www.legislation.gov.uk/uksi/2004/3101), [art. 4](https://www.legislation.gov.uk/uksi/2004/3101/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3101/schedule/3)
 
-[^key-d1ceadcf8d905f84a32c666a5249c266]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2002/28/section/9) extended (with modifications) (16.12.2004) by [Trade in Goods (Embargoed Destinations) (Overseas Territories) Order 2004 (S.I. 2004/3103)](https://www.legislation.gov.uk/uksi/2004/3103), [art. 4](https://www.legislation.gov.uk/uksi/2004/3103/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3103/schedule/3)
+[^c-d1ceadcf8d905f84a32c666a5249c266]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2002/28/section/9) extended (with modifications) (16.12.2004) by [Trade in Goods (Embargoed Destinations) (Overseas Territories) Order 2004 (S.I. 2004/3103)](https://www.legislation.gov.uk/uksi/2004/3103), [art. 4](https://www.legislation.gov.uk/uksi/2004/3103/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3103/schedule/3)
 
-[^key-0cccc531f86d98d385d05bc485ccd5c5]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2002/28/section/9) extended (with modifications) (16.12.2004) by [Trade in Goods (Control) (Overseas Territories) Order 2004 (S.I. 2004/3102)](https://www.legislation.gov.uk/uksi/2004/3102), [art. 4](https://www.legislation.gov.uk/uksi/2004/3102/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3102/schedule/3)
+[^c-0cccc531f86d98d385d05bc485ccd5c5]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2002/28/section/9) extended (with modifications) (16.12.2004) by [Trade in Goods (Control) (Overseas Territories) Order 2004 (S.I. 2004/3102)](https://www.legislation.gov.uk/uksi/2004/3102), [art. 4](https://www.legislation.gov.uk/uksi/2004/3102/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3102/schedule/3)
 
-[^key-c8814aa2bdf37b6e72ec0bcddaa0959d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2002/28/section/10) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-c8814aa2bdf37b6e72ec0bcddaa0959d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2002/28/section/10) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-7414a0407d0d13011ead180ce989fad9]: Commencement: S. 11 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-7414a0407d0d13011ead180ce989fad9]: Commencement: S. 11 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-ede04b60893ee56904f405c8b0906fb6]: Textual amendment: Words in s. 11(1) substituted (31.12.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/771)](https://www.legislation.gov.uk/uksi/2019/771), [regs. 1](https://www.legislation.gov.uk/uksi/2019/771/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/771/regulation/2/3) (as substituted by [S.I. 2020/1502](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(b)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ede04b60893ee56904f405c8b0906fb6]: Textual amendment: Words in s. 11(1) substituted (31.12.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/771)](https://www.legislation.gov.uk/uksi/2019/771), [regs. 1](https://www.legislation.gov.uk/uksi/2019/771/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/771/regulation/2/3) (as substituted by [S.I. 2020/1502](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(b)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9733c9dd7e4930bddf812591d354c91b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2002/28/section/12) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-9733c9dd7e4930bddf812591d354c91b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2002/28/section/12) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
 [^c8874691]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2002/28/section/13) partly in force; [s. 13(1)(5)(b)](https://www.legislation.gov.uk/ukpga/2002/28/section/13/1/5/b) in force at Royal Assent for specified purposes, see [s. 16(2)](https://www.legislation.gov.uk/ukpga/2002/28/section/16/2)
 
-[^key-5cab6b783e013874810e2b426d5565e2]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2002/28/section/13/1)[(5)(b)](https://www.legislation.gov.uk/ukpga/2002/28/section/13/5/b) in force at 30.10.2003 in so far as not already in force by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-5cab6b783e013874810e2b426d5565e2]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2002/28/section/13/1)[(5)(b)](https://www.legislation.gov.uk/ukpga/2002/28/section/13/5/b) in force at 30.10.2003 in so far as not already in force by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-3d0ed17a24cccaa9d9104b320c8d6e26]: Commencement: [S. 13(2)-(4)](https://www.legislation.gov.uk/ukpga/2002/28/section/13/2) [(5)(a)](https://www.legislation.gov.uk/ukpga/2002/28/section/13/5/a) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-3d0ed17a24cccaa9d9104b320c8d6e26]: Commencement: [S. 13(2)-(4)](https://www.legislation.gov.uk/ukpga/2002/28/section/13/2) [(5)(a)](https://www.legislation.gov.uk/ukpga/2002/28/section/13/5/a) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-7592bdd37aff3b1d5d638f7cc2b6a281]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2002/28/section/14) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-7592bdd37aff3b1d5d638f7cc2b6a281]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2002/28/section/14) in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-3abcadd40a0c732b883bc415ea8fe4c1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2002/28/section/15) in force at 1.5.2004 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/2629/article/3))
+[^c-3abcadd40a0c732b883bc415ea8fe4c1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2002/28/section/15) in force at 1.5.2004 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/2629/article/3))
 
-[^key-9d55881da486b6642cec82160cef094e]: Commencement: Sch. para. 1 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-9d55881da486b6642cec82160cef094e]: Commencement: Sch. para. 1 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-0e9b22dc7c40ca6314745d3de9723927]: Commencement: Sch. para. 2 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-0e9b22dc7c40ca6314745d3de9723927]: Commencement: Sch. para. 2 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
-[^key-356477b3eadeeb5566239d39dcebbccc]: Commencement: Sch. para. 3 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
+[^c-356477b3eadeeb5566239d39dcebbccc]: Commencement: Sch. para. 3 in force at 30.10.2003 by [S.I. 2003/2629](https://www.legislation.gov.uk/uksi/2003/2629), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2629/article/2/1)
 
 [^M_F_24662739-9930-44d5-a2a0-b64e6a7b7547]: Textual amendment: Words in Sch. para. 3(2) omitted (31.12.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/771)](https://www.legislation.gov.uk/uksi/2019/771), [regs. 1](https://www.legislation.gov.uk/uksi/2019/771/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/771/regulation/2/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.10. Defendant unfit to plead[^key-7a10fe0bcff96b6e1c89451560cb839b]
+## 25.10. Defendant unfit to plead[^c-7a10fe0bcff96b6e1c89451560cb839b]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a10fe0bcff96b6e1c89451560cb839b]: Commencement: [Rule 25.10](https://www.legislation.gov.uk/uksi/2025/909/rule/25.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7a10fe0bcff96b6e1c89451560cb839b]: Commencement: [Rule 25.10](https://www.legislation.gov.uk/uksi/2025/909/rule/25.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00600]: Footnote: [1964 c. 84](https://www.legislation.gov.uk/ukpga/1964/84); sections 4 and 4A were substituted for section 4 as originally enacted by section 2 of the Criminal Procedure (Insanity and Unfitness to Plead) Act [1991 (c. 25)](https://www.legislation.gov.uk/ukpga/1991/25), and amended by section 22 of the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28).
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 4 — Lawfulness of processing: recognised legitimate interests[^key-78c1a789ad74a42b53a2ca650471a9ed][^key-c42da37fa1a4a212cdacb11970492506]
+## Schedule 4 — Lawfulness of processing: recognised legitimate interests[^c-78c1a789ad74a42b53a2ca650471a9ed][^c-c42da37fa1a4a212cdacb11970492506]
 
 *Extent: E+W+S+N.I.*
 
 Section 70
 
-[^key-c42da37fa1a4a212cdacb11970492506]
+[^c-c42da37fa1a4a212cdacb11970492506]
 
 In the UK GDPR, at the end insert—
 
@@ -79,6 +79,6 @@ In the UK GDPR, at the end insert—
 
 ## Annotations
 
-[^key-78c1a789ad74a42b53a2ca650471a9ed]: Commencement: Sch. 4 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-78c1a789ad74a42b53a2ca650471a9ed]: Commencement: Sch. 4 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-c42da37fa1a4a212cdacb11970492506]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/4) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z6)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z6)
+[^c-c42da37fa1a4a212cdacb11970492506]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/4) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z6)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z6)

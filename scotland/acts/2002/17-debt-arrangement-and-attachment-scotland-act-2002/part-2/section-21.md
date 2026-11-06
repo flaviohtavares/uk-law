@@ -35,7 +35,7 @@ summary: ''
 
 (6) Any person who wilfully damages or destroys any article which that person knows has been attached is acting in breach of the attachment.
 
-(7) Where an attached article is stolen, the debtor shall give notice to the creditor and the officer—[^key-874f0dc275efdabc566d9b47f966b119]
+(7) Where an attached article is stolen, the debtor shall give notice to the creditor and the officer—[^c-874f0dc275efdabc566d9b47f966b119]
 
 - (i) who attached articles; or
 - (ii) who is authorised to arrange the auction,
@@ -73,4 +73,4 @@ the sheriff may order the debtor or, as the case may be, the third party to cons
 
 ## Annotations
 
-[^key-874f0dc275efdabc566d9b47f966b119]: Textual amendment: Words in s. 21(7) inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(11)](https://www.legislation.gov.uk/asp/2007/3/section/212/11), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
+[^c-874f0dc275efdabc566d9b47f966b119]: Textual amendment: Words in s. 21(7) inserted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(11)](https://www.legislation.gov.uk/asp/2007/3/section/212/11), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)

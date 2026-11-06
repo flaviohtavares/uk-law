@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Articles 75A to 75C inserted[^key-3907685a7d4e0d3da8590e939d5759e3]
+## 32. Articles 75A to 75C inserted[^c-3907685a7d4e0d3da8590e939d5759e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,7 +91,7 @@ After article 75 insert—
 
 ## Annotations
 
-[^key-3907685a7d4e0d3da8590e939d5759e3]: Commencement: Art. 32 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-3907685a7d4e0d3da8590e939d5759e3]: Commencement: Art. 32 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
 
 [^c24385221]: Marginal citation: Cm 2833. The Convention entered into force on 21st March 1994.
 

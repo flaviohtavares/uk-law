@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49ZB. Publication of up-to-date lists of communities and community councils[^key-9f6199f91f2b4be20f50d9ec1657e818]
+## 49ZB. Publication of up-to-date lists of communities and community councils[^c-9f6199f91f2b4be20f50d9ec1657e818]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f6199f91f2b4be20f50d9ec1657e818]: Textual amendment: S. 49ZB inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 54(2)](https://www.legislation.gov.uk/asc/2024/5/section/54/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-9f6199f91f2b4be20f50d9ec1657e818]: Textual amendment: S. 49ZB inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 54(2)](https://www.legislation.gov.uk/asc/2024/5/section/54/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

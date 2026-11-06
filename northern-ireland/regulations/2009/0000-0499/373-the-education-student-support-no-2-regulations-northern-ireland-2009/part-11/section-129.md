@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 129. Assistance with fees in respect of attendance on a course in England, Wales or Scotland[^key-5913534be8bca5ea5ee7b89675a62d98]
+## 129. Assistance with fees in respect of attendance on a course in England, Wales or Scotland[^c-5913534be8bca5ea5ee7b89675a62d98]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5913534be8bca5ea5ee7b89675a62d98]: Textual amendment: [Reg. 129](https://www.legislation.gov.uk/nisr/2009/373/regulation/129) omitted (with application in accordance with reg. 1(2) of the amending Rule) by virtue of [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [30](https://www.legislation.gov.uk/nisr/2017/7/regulation/30)
+[^c-5913534be8bca5ea5ee7b89675a62d98]: Textual amendment: [Reg. 129](https://www.legislation.gov.uk/nisr/2009/373/regulation/129) omitted (with application in accordance with reg. 1(2) of the amending Rule) by virtue of [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [30](https://www.legislation.gov.uk/nisr/2017/7/regulation/30)

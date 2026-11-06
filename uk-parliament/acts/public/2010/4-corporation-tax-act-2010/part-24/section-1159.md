@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1159. Approval[^key-302957b87648493e59454c7736b587d7]
+## 1159. Approval[^c-302957b87648493e59454c7736b587d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-302957b87648493e59454c7736b587d7]: Textual amendment: S. 1159 substituted (with effect in accordance with s. 49(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/49/3); [S.I. 2011/2977](https://www.legislation.gov.uk/uksi/2011/2977), [art. 2](https://www.legislation.gov.uk/uksi/2011/2977/article/2)
+[^c-302957b87648493e59454c7736b587d7]: Textual amendment: S. 1159 substituted (with effect in accordance with s. 49(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/49/3); [S.I. 2011/2977](https://www.legislation.gov.uk/uksi/2011/2977), [art. 2](https://www.legislation.gov.uk/uksi/2011/2977/article/2)

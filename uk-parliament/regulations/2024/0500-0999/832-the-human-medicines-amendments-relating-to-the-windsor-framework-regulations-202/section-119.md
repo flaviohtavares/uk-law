@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Amendment to regulation 269A[^key-64c839ae05bc38ef6e582f379ff6dcca]
+## 119. Amendment to regulation 269A[^c-64c839ae05bc38ef6e582f379ff6dcca]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 269A (offences relating to packaging and package leaflets in North
 
 ## Annotations
 
-[^key-64c839ae05bc38ef6e582f379ff6dcca]: Commencement: [Reg. 119](https://www.legislation.gov.uk/uksi/2024/832/regulation/119) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-64c839ae05bc38ef6e582f379ff6dcca]: Commencement: [Reg. 119](https://www.legislation.gov.uk/uksi/2024/832/regulation/119) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00126]: Footnote: Regulation 269A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

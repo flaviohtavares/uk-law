@@ -43,7 +43,7 @@ Section 19
 - (a) stating the reasons for their proposal; and
 - (b) specifying a period within which representations may be made about the proposal.
 
-(2) The period must be a period ending not less than 30 days[^key-034f43beb60c168cebae4ac250a9a577] month after the day of the giving of the notice.
+(2) The period must be a period ending not less than 30 days[^c-034f43beb60c168cebae4ac250a9a577] month after the day of the giving of the notice.
 
 ### Duration of grant
 
@@ -65,7 +65,7 @@ Section 19
 - (a) making representations about the proposal; and
 - (b) if the proposal is the result of a contravention of a restriction or condition of the grant, complying with it.
 
-(3) Subject to sub-paragraphs (4) to (6), the period for doing those things must be the period of 30 days[^key-1d6d119e8f649cba74e8cd1f6a9816d0] beginning with the day after the one on which the notification was given.
+(3) Subject to sub-paragraphs (4) to (6), the period for doing those things must be the period of 30 days[^c-1d6d119e8f649cba74e8cd1f6a9816d0] beginning with the day after the one on which the notification was given.
 
 (4) OFCOM may, if they think fit, allow a longer period for doing those things—
 
@@ -132,6 +132,6 @@ Section 19
 
 ## Annotations
 
-[^key-034f43beb60c168cebae4ac250a9a577]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/2/paragraph/3/2) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/91)
+[^c-034f43beb60c168cebae4ac250a9a577]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/2/paragraph/3/2) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/91)
 
-[^key-1d6d119e8f649cba74e8cd1f6a9816d0]: Textual amendment: Words in [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/2/paragraph/6/3) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/91)
+[^c-1d6d119e8f649cba74e8cd1f6a9816d0]: Textual amendment: Words in [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/2/paragraph/6/3) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/91)

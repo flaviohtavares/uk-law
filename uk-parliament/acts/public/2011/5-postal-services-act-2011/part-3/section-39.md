@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. USP accounting conditions[^key-75432ef681fbbb360687a0236d268948]
+## 39. USP accounting conditions[^c-75432ef681fbbb360687a0236d268948]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75432ef681fbbb360687a0236d268948]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2011/5/section/39) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-75432ef681fbbb360687a0236d268948]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2011/5/section/39) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

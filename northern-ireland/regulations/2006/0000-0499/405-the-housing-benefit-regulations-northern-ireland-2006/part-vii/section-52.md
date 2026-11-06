@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Occupying a dwelling as a person’s home[^key-e291ae7074985085b16076b0bb076f18]
+## 52. Occupying a dwelling as a person’s home[^c-e291ae7074985085b16076b0bb076f18]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e291ae7074985085b16076b0bb076f18]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2006/405/regulation/52) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-e291ae7074985085b16076b0bb076f18]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2006/405/regulation/52) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

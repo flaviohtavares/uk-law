@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3D — CONDITIONS APPLICABLE TO ALL SYSTEMS[^key-53c49d356375178704b785497e89623a]
+## SCHEDULE 3D — CONDITIONS APPLICABLE TO ALL SYSTEMS[^c-53c49d356375178704b785497e89623a]
 
 *Extent: E+W*
 
@@ -36,12 +36,12 @@ After the first days of conditioning, the lighting regime shall be such as to pr
 
 **7.** The design and dimensions of the cage door must be such that an adult hen can be removed without undergoing unnecessary suffering or sustaining injury.
 
-**8.**[^key-d7b68f71327a5830aeef1aab01b71ecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d7b68f71327a5830aeef1aab01b71ecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d7b68f71327a5830aeef1aab01b71ecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d7b68f71327a5830aeef1aab01b71ecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53c49d356375178704b785497e89623a]: Textual amendment: Sch. 3D inserted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/8), [Sch.](https://www.legislation.gov.uk/uksi/2002/1898/schedule)
+[^c-53c49d356375178704b785497e89623a]: Textual amendment: Sch. 3D inserted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/8), [Sch.](https://www.legislation.gov.uk/uksi/2002/1898/schedule)
 
-[^key-d7b68f71327a5830aeef1aab01b71ecb]: Textual amendment: Sch. 3D para. 9 revoked (28.3.2007) by [The Welfare of Animals (Miscellaneous Revocations) (Wales) Regulations 2007 (S.I. 2007/1027)](https://www.legislation.gov.uk/uksi/2007/1027), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1027/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/1027/schedule)
+[^c-d7b68f71327a5830aeef1aab01b71ecb]: Textual amendment: Sch. 3D para. 9 revoked (28.3.2007) by [The Welfare of Animals (Miscellaneous Revocations) (Wales) Regulations 2007 (S.I. 2007/1027)](https://www.legislation.gov.uk/uksi/2007/1027), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1027/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/1027/schedule)

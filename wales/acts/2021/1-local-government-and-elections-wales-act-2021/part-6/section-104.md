@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Powers of the Welsh Ministers to intervene[^key-a4a3538de82c527a46fd2496f219d5eb]
+## 104. Powers of the Welsh Ministers to intervene[^c-a4a3538de82c527a46fd2496f219d5eb]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4a3538de82c527a46fd2496f219d5eb]: Commencement: S. 104 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-a4a3538de82c527a46fd2496f219d5eb]: Commencement: S. 104 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Credit ceilings of authorities for National Parks[^key-56aa635503dd874bb56bcb72cccc1bc2]
+## 121. Credit ceilings of authorities for National Parks[^c-56aa635503dd874bb56bcb72cccc1bc2]
 
 *Extent: E+W*
 
@@ -71,7 +71,7 @@ summary: ''
 
 ## Annotations
 
-[^key-56aa635503dd874bb56bcb72cccc1bc2]: Commencement: Reg. 121 in force at 30.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/a)
+[^c-56aa635503dd874bb56bcb72cccc1bc2]: Commencement: Reg. 121 in force at 30.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/a)
 
 [^f00104]: Footnote: [S.I. 1996/1243](https://www.legislation.gov.uk/uksi/1996/1243); amended by [S.I. 1996/2546](https://www.legislation.gov.uk/uksi/1996/2546).
 

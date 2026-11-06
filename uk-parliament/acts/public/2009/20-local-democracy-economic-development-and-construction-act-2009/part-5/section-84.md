@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Guidance and directions[^key-263d206c6b57001cfc907ce05df3fd88]
+## 84. Guidance and directions[^c-263d206c6b57001cfc907ce05df3fd88]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-263d206c6b57001cfc907ce05df3fd88]: Textual amendment: S. 84 repealed (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 109(1)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/109/1/b), [240(5)(h)(q)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/h) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)), Sch. 25 Pt. 15
+[^c-263d206c6b57001cfc907ce05df3fd88]: Textual amendment: S. 84 repealed (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 109(1)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/109/1/b), [240(5)(h)(q)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/h) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)), Sch. 25 Pt. 15

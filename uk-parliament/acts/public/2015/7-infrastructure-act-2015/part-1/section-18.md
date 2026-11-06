@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Transfer of additional functions[^c22469061][^key-5eb62fd55e673b86bd72510bac41229d]
+## 18. Transfer of additional functions[^c22469061][^c-5eb62fd55e673b86bd72510bac41229d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c22469061]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2015/7/section/18) partly in force; [s. 18](https://www.legislation.gov.uk/ukpga/2015/7/section/18) in force for specified purposes at Royal Assent, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1/a)
 
-[^key-5eb62fd55e673b86bd72510bac41229d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2015/7/section/18) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-5eb62fd55e673b86bd72510bac41229d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2015/7/section/18) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

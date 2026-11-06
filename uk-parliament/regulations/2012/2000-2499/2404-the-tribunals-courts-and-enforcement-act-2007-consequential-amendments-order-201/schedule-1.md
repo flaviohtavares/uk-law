@@ -22,7 +22,7 @@ summary: ''
 
 Article 3(1)
 
-**1.**[^key-942afe59aa485daeb5aa5431f9e81b92] In section 11 of the Company Directors Disqualification Act 1986, for subsection (2) substitute—
+**1.**[^c-942afe59aa485daeb5aa5431f9e81b92] In section 11 of the Company Directors Disqualification Act 1986, for subsection (2) substitute—
 
 > (2) For this purpose, the court is—
 >
@@ -34,4 +34,4 @@ Article 3(1)
 
 ## Annotations
 
-[^key-942afe59aa485daeb5aa5431f9e81b92]: Commencement: Sch. 1 para. 1 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1)
+[^c-942afe59aa485daeb5aa5431f9e81b92]: Commencement: Sch. 1 para. 1 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1)

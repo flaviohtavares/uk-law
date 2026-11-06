@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Special items for purposes of section 34.[^c12076581][^c12076591][^key-1304ad51e0298e9c29d2496b54843766]
+## 35. Special items for purposes of section 34.[^c12076581][^c12076591][^c-1304ad51e0298e9c29d2496b54843766]
 
 *Extent: E+W*
 
 (1) The items referred to in section 34(1) above are—
 
-- (a) any precept issued to or anticipated by the authority which is or is believed to be applicable to a part of its area and was taken into account by it in making the calculation (or last calculation) in relation to the year under section 31A(2) above or[^key-aecb3a9dfb444ac4607b228c35ca1cf8] section 32(2) above; and
+- (a) any precept issued to or anticipated by the authority which is or is believed to be applicable to a part of its area and was taken into account by it in making the calculation (or last calculation) in relation to the year under section 31A(2) above or[^c-aecb3a9dfb444ac4607b228c35ca1cf8] section 32(2) above; and
 - (b) any expenses of the authority which are its special expenses and were taken into account by it in making that calculation.
 
 (2) For the purposes of subsection (1) above—
@@ -61,9 +61,9 @@ summary: ''
 
 [^c12076591]: Modification: Pt. 1 Chs. 3, 4 (ss. 30-52) modified (E.) (1.2.1993) by [S.I. 1993/22](https://www.legislation.gov.uk/uksi/1993/22), [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/22/article/4/2)
 
-[^key-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)
+[^c-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)
 
-[^key-aecb3a9dfb444ac4607b228c35ca1cf8]: Textual amendment: Words in s. 35(1)(a) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/13); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-aecb3a9dfb444ac4607b228c35ca1cf8]: Textual amendment: Words in s. 35(1)(a) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/13); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
 [^c12076601]: Modification: S. 35(2)(a) applied (30.12.1992) by [S.I. 1992/3079](https://www.legislation.gov.uk/uksi/1992/3079), [reg. 11(7)](https://www.legislation.gov.uk/uksi/1992/3079/regulation/11/7).
 

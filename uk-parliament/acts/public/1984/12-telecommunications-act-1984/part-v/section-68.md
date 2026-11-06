@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Liability of Secretary of State in respect of liabilities vesting in successor company.[^key-83e346be7d7d722e70637806dbf3768d]
+## 68. Liability of Secretary of State in respect of liabilities vesting in successor company.[^c-83e346be7d7d722e70637806dbf3768d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-83e346be7d7d722e70637806dbf3768d]: Modification: [S. 68](https://www.legislation.gov.uk/ukpga/1984/12/section/68): power to amend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 115](https://www.legislation.gov.uk/ukpga/2017/30/section/115), [118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1)
+[^c-83e346be7d7d722e70637806dbf3768d]: Modification: [S. 68](https://www.legislation.gov.uk/ukpga/1984/12/section/68): power to amend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 115](https://www.legislation.gov.uk/ukpga/2017/30/section/115), [118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1)
 
 [^c13620581]: Textual amendment: Words substituted by virtue of [Companies Consolidation (Consequential Provisions) Act 1985 (c. 9, SIF 27)](https://www.legislation.gov.uk/ukpga/1985/9), [s. 30](https://www.legislation.gov.uk/ukpga/1985/9/section/30), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/9/schedule/2) and [Insolvency Act 1986 (c. 45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 439(2)](https://www.legislation.gov.uk/ukpga/1986/45/section/439/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1986/45/schedule/14)
 

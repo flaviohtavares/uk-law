@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-f3466019842874d474155e7b26dbe8d1] A person is an eligible student in connection with a designated course that the person is undertaking if—
+(1)[^c-f3466019842874d474155e7b26dbe8d1] A person is an eligible student in connection with a designated course that the person is undertaking if—
 
 - (a) the person falls within one of the categories set out—
-  - (i) in paragraph 1, 2, 2ZA, 2ZB, 2ZC,[^key-1fc38034612133907b2d0fb22a553754] 3, 4A, 5A, 6A, 6B, 6BA,[^key-6d5e1a9ceda1083552b1dd18caca0231] 6BB,[^key-a6adfd1e6675fc408e9dee1d67f15a25] 6C, 6D, 7A or 8A of Schedule 2, or
+  - (i) in paragraph 1, 2, 2ZA, 2ZB, 2ZC,[^c-1fc38034612133907b2d0fb22a553754] 3, 4A, 5A, 6A, 6B, 6BA,[^c-6d5e1a9ceda1083552b1dd18caca0231] 6BB,[^c-a6adfd1e6675fc408e9dee1d67f15a25] 6C, 6D, 7A or 8A of Schedule 2, or
   - (ii) in paragraph 4, 5, 6, 7 or 8 of Schedule 2 where paragraph (1A) applies,
 
   and none of the exceptions in regulation 10 apply to the person, or
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f3466019842874d474155e7b26dbe8d1]: Textual amendment: [Reg. 9(1)(1A)](https://www.legislation.gov.uk/wsi/2018/191/regulation/9/1/1A) substituted for reg. 9(1) (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/uksi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/481/regulation/1/2), [115](https://www.legislation.gov.uk/uksi/2021/481/regulation/115)
+[^c-f3466019842874d474155e7b26dbe8d1]: Textual amendment: [Reg. 9(1)(1A)](https://www.legislation.gov.uk/wsi/2018/191/regulation/9/1/1A) substituted for reg. 9(1) (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/uksi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/481/regulation/1/2), [115](https://www.legislation.gov.uk/uksi/2021/481/regulation/115)
 
-[^key-1fc38034612133907b2d0fb22a553754]: Textual amendment: Word in [reg. 9(1)(a)(i)](https://www.legislation.gov.uk/wsi/2018/191/regulation/9/1/a/i) inserted (with application in accordance with reg. 3 of the amending S.I.) by [The Education (Student Finance) (Ukrainian Nationals and Family Members) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/764)](https://www.legislation.gov.uk/wsi/2022/764), [regs. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2), [37](https://www.legislation.gov.uk/wsi/2022/764/regulation/37)
+[^c-1fc38034612133907b2d0fb22a553754]: Textual amendment: Word in [reg. 9(1)(a)(i)](https://www.legislation.gov.uk/wsi/2018/191/regulation/9/1/a/i) inserted (with application in accordance with reg. 3 of the amending S.I.) by [The Education (Student Finance) (Ukrainian Nationals and Family Members) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/764)](https://www.legislation.gov.uk/wsi/2022/764), [regs. 2](https://www.legislation.gov.uk/wsi/2022/764/regulation/2), [37](https://www.legislation.gov.uk/wsi/2022/764/regulation/37)
 
-[^key-6d5e1a9ceda1083552b1dd18caca0231]: Textual amendment: Word in [reg. 9(1)(a)(i)](https://www.legislation.gov.uk/wsi/2018/191/regulation/9/1/a/i) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [39](https://www.legislation.gov.uk/wsi/2021/1365/regulation/39)
+[^c-6d5e1a9ceda1083552b1dd18caca0231]: Textual amendment: Word in [reg. 9(1)(a)(i)](https://www.legislation.gov.uk/wsi/2018/191/regulation/9/1/a/i) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [39](https://www.legislation.gov.uk/wsi/2021/1365/regulation/39)
 
-[^key-a6adfd1e6675fc408e9dee1d67f15a25]: Textual amendment: Word in [reg. 9(1)(a)(i)](https://www.legislation.gov.uk/wsi/2018/191/regulation/9/1/a/i) inserted (22.2.2023) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/87)](https://www.legislation.gov.uk/wsi/2023/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/87/regulation/1/2), [38](https://www.legislation.gov.uk/wsi/2023/87/regulation/38) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/87/regulation/2))
+[^c-a6adfd1e6675fc408e9dee1d67f15a25]: Textual amendment: Word in [reg. 9(1)(a)(i)](https://www.legislation.gov.uk/wsi/2018/191/regulation/9/1/a/i) inserted (22.2.2023) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/87)](https://www.legislation.gov.uk/wsi/2023/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/87/regulation/1/2), [38](https://www.legislation.gov.uk/wsi/2023/87/regulation/38) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/87/regulation/2))

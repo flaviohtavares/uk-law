@@ -36,51 +36,51 @@ laying down detailed provisions for the application for a derogation from the sp
 
 (Text with EEA relevance) (revoked)
 
-[^key-c79c857c8d54b0bb16b023272abd5608]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c79c857c8d54b0bb16b023272abd5608]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-c79c857c8d54b0bb16b023272abd5608]
+## Article 1. Subject matter[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-c79c857c8d54b0bb16b023272abd5608]
+## Article 2. Definitions[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Application for a derogation pursuant to Article 11(1) and (4) of Regulation (EC) No 443/2009[^key-c79c857c8d54b0bb16b023272abd5608]
+## Article 3. Application for a derogation pursuant to Article 11(1) and (4) of Regulation (EC) No 443/2009[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Information on eligibility criteria[^key-c79c857c8d54b0bb16b023272abd5608]
+## Article 4. Information on eligibility criteria[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Specific emissions target and reduction potential pursuant to Article 11(2) of Regulation (EC) No 443/2009[^key-c79c857c8d54b0bb16b023272abd5608]
+## Article 5. Specific emissions target and reduction potential pursuant to Article 11(2) of Regulation (EC) No 443/2009[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Reduction target for a derogation pursuant to Article 11(4) of Regulation (EC) No 443/2009[^key-c79c857c8d54b0bb16b023272abd5608]
+## Article 6. Reduction target for a derogation pursuant to Article 11(4) of Regulation (EC) No 443/2009[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Assessment by the Secretary of State[^key-c79c857c8d54b0bb16b023272abd5608]
+## Article 7. Assessment by the Secretary of State[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Public access to information[^key-c79c857c8d54b0bb16b023272abd5608]
+## Article 8. Public access to information[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-c79c857c8d54b0bb16b023272abd5608]
+## Article 9. Entry into force[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c79c857c8d54b0bb16b023272abd5608]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Standard format of the application for a derogation to be submitted by manufacturers meeting the criteria of Article 11(1) of Regulation (EC) No 443/2009[^key-c79c857c8d54b0bb16b023272abd5608]
+## ANNEX I — Standard format of the application for a derogation to be submitted by manufacturers meeting the criteria of Article 11(1) of Regulation (EC) No 443/2009[^c-c79c857c8d54b0bb16b023272abd5608]
 
 1\.
 
@@ -180,144 +180,144 @@ laying down detailed provisions for the application for a derogation from the sp
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]CONFIDENTIAL SECTION OF THE APPLICATION
+[^c-c79c857c8d54b0bb16b023272abd5608]CONFIDENTIAL SECTION OF THE APPLICATION
 
-[^key-c79c857c8d54b0bb16b023272abd5608]6.
+[^c-c79c857c8d54b0bb16b023272abd5608]6.
 
 **Details of the NI passenger cars to be launched on the Northern Ireland market for which the applicant will be responsible**
 
-[^key-c79c857c8d54b0bb16b023272abd5608]6.1.
+[^c-c79c857c8d54b0bb16b023272abd5608]6.1.
 
 Characteristics of the market
 
-[^key-c79c857c8d54b0bb16b023272abd5608]6.1.1.
+[^c-c79c857c8d54b0bb16b023272abd5608]6.1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]6.1.2.
+[^c-c79c857c8d54b0bb16b023272abd5608]6.1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]6.1.3.
+[^c-c79c857c8d54b0bb16b023272abd5608]6.1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]7.
+[^c-c79c857c8d54b0bb16b023272abd5608]7.
 
 **Applicant’s technological potential**
 
-[^key-c79c857c8d54b0bb16b023272abd5608]7.1.
+[^c-c79c857c8d54b0bb16b023272abd5608]7.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]7.2.
+[^c-c79c857c8d54b0bb16b023272abd5608]7.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]7.3.
+[^c-c79c857c8d54b0bb16b023272abd5608]7.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]8.
+[^c-c79c857c8d54b0bb16b023272abd5608]8.
 
 **Applicant’s reduction programme**
 
-[^key-c79c857c8d54b0bb16b023272abd5608]8.1.
+[^c-c79c857c8d54b0bb16b023272abd5608]8.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]8.2.
+[^c-c79c857c8d54b0bb16b023272abd5608]8.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]8.3.
+[^c-c79c857c8d54b0bb16b023272abd5608]8.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]8.4.
+[^c-c79c857c8d54b0bb16b023272abd5608]8.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]8.5.
+[^c-c79c857c8d54b0bb16b023272abd5608]8.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Standard format of the application for derogation to be submitted by manufacturers meeting the criteria of Article 11(4) of Regulation (EC) No 443/2009[^key-c79c857c8d54b0bb16b023272abd5608]
+## ANNEX II — Standard format of the application for derogation to be submitted by manufacturers meeting the criteria of Article 11(4) of Regulation (EC) No 443/2009[^c-c79c857c8d54b0bb16b023272abd5608]
 
-[^key-c79c857c8d54b0bb16b023272abd5608]PUBLIC SECTION OF THE APPLICATION
+[^c-c79c857c8d54b0bb16b023272abd5608]PUBLIC SECTION OF THE APPLICATION
 
-[^key-c79c857c8d54b0bb16b023272abd5608]1.
+[^c-c79c857c8d54b0bb16b023272abd5608]1.
 
 **Name, address and contact person for the manufacturer or group of connected manufacturers**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]2.
+[^c-c79c857c8d54b0bb16b023272abd5608]2.
 
 **Eligibility criteria**
 
-[^key-c79c857c8d54b0bb16b023272abd5608]2.1.
+[^c-c79c857c8d54b0bb16b023272abd5608]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]2.2.
+[^c-c79c857c8d54b0bb16b023272abd5608]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]2.3.
+[^c-c79c857c8d54b0bb16b023272abd5608]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]3.
+[^c-c79c857c8d54b0bb16b023272abd5608]3.
 
 **Details of the passenger cars for which the applicant is responsible**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]4.
+[^c-c79c857c8d54b0bb16b023272abd5608]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]CONFIDENTIAL SECTION OF THE APPLICATION
+[^c-c79c857c8d54b0bb16b023272abd5608]CONFIDENTIAL SECTION OF THE APPLICATION
 
-[^key-c79c857c8d54b0bb16b023272abd5608]5.
+[^c-c79c857c8d54b0bb16b023272abd5608]5.
 
 **Details of the passenger cars to be launched on the Northern Ireland market by the applicant ...**
 
-[^key-c79c857c8d54b0bb16b023272abd5608]5.1.
+[^c-c79c857c8d54b0bb16b023272abd5608]5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]5.2.
+[^c-c79c857c8d54b0bb16b023272abd5608]5.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]5.3.
+[^c-c79c857c8d54b0bb16b023272abd5608]5.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Standard format of the declaration stating the structure of ownership[^key-c79c857c8d54b0bb16b023272abd5608]
+## ANNEX III — Standard format of the declaration stating the structure of ownership[^c-c79c857c8d54b0bb16b023272abd5608]
 
-[^key-c79c857c8d54b0bb16b023272abd5608]*Article 11(1)(a) of Regulation (EC) No 443/2009*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-c79c857c8d54b0bb16b023272abd5608]*Article 11(1)(b) or 11(4)(a) of Regulation (EC) No 443/2009*
+[^c-c79c857c8d54b0bb16b023272abd5608]*Article 11(1)(a) of Regulation (EC) No 443/2009*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79c857c8d54b0bb16b023272abd5608]*Article 11(1)(c) of Regulation (EC) No 443/2009*
+[^c-c79c857c8d54b0bb16b023272abd5608]*Article 11(1)(b) or 11(4)(a) of Regulation (EC) No 443/2009*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-c79c857c8d54b0bb16b023272abd5608]
+[^c-c79c857c8d54b0bb16b023272abd5608]*Article 11(1)(c) of Regulation (EC) No 443/2009*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — Baseline emissions based on the 2007 best available technology and 45% reduction target of specific emissions of CO<sub>2</sub> for each vehicle class[^key-c79c857c8d54b0bb16b023272abd5608]
+## ANNEX IV[^c-c79c857c8d54b0bb16b023272abd5608]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX V — Baseline emissions based on the 2007 best available technology and 45% reduction target of specific emissions of CO<sub>2</sub> for each vehicle class[^c-c79c857c8d54b0bb16b023272abd5608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c79c857c8d54b0bb16b023272abd5608]: Textual amendment: Regulation revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [114(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/114/1) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)) and (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [21](https://www.legislation.gov.uk/uksi/2024/1130/article/21)
+[^c-c79c857c8d54b0bb16b023272abd5608]: Textual amendment: Regulation revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [114(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/114/1) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)) and (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [21](https://www.legislation.gov.uk/uksi/2024/1130/article/21)

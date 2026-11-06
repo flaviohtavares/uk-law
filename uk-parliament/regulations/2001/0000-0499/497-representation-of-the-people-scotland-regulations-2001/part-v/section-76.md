@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Delivery of postal ballot papers[^key-45c3caa500d90895fec65868933f7e03][^key-c0700dfab3c9b00b70acb02f4596b223]
+## 76. Delivery of postal ballot papers[^c-45c3caa500d90895fec65868933f7e03][^c-c0700dfab3c9b00b70acb02f4596b223]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45c3caa500d90895fec65868933f7e03]: Commencement: Reg. 76 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-45c3caa500d90895fec65868933f7e03]: Commencement: Reg. 76 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-c0700dfab3c9b00b70acb02f4596b223]: Modification: [Reg. 76](https://www.legislation.gov.uk/uksi/2001/497/regulation/76) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/30)
+[^c-c0700dfab3c9b00b70acb02f4596b223]: Modification: [Reg. 76](https://www.legislation.gov.uk/uksi/2001/497/regulation/76) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/30)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 161. Payment of benefits to or in respect of a dual capacity member[^key-5747ccb85a5fe192459108cd7cfb567c]
+## 161. Payment of benefits to or in respect of a dual capacity member[^c-5747ccb85a5fe192459108cd7cfb567c]
 
 *Extent: N.I.*
 
 (1) If a person is a dual capacity member of this scheme—
 
-- (a) the benefits that are payable to or in respect of the member in each of the member’s capacities are treated separately for the purposes of these Regulations[^key-b059a15de809c957dfe2eb4b31d888aa] ; and
+- (a) the benefits that are payable to or in respect of the member in each of the member’s capacities are treated separately for the purposes of these Regulations[^c-b059a15de809c957dfe2eb4b31d888aa] ; and
 - (b) the amounts payable to or in respect of the member in each of the member’s capacities are determined accordingly.
 
 (2) In relation to payment of retirement benefits, paragraph (1) does not affect the interpretation of regulation 64 (exercise of partial retirement option) if a member is both an active member and a pensioner member by virtue of that regulation.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5747ccb85a5fe192459108cd7cfb567c]: Commencement: [Reg. 161](https://www.legislation.gov.uk/nisr/2014/290/regulation/161) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-5747ccb85a5fe192459108cd7cfb567c]: Commencement: [Reg. 161](https://www.legislation.gov.uk/nisr/2014/290/regulation/161) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-b059a15de809c957dfe2eb4b31d888aa]: Textual amendment: Word in [reg. 161(1)(a)](https://www.legislation.gov.uk/nisr/2014/290/regulation/161/1/a) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [50](https://www.legislation.gov.uk/nisr/2022/67/regulation/50)
+[^c-b059a15de809c957dfe2eb4b31d888aa]: Textual amendment: Word in [reg. 161(1)(a)](https://www.legislation.gov.uk/nisr/2014/290/regulation/161/1/a) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [50](https://www.legislation.gov.uk/nisr/2022/67/regulation/50)

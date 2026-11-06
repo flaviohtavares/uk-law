@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Lands Valuation Appeal Court) 2013 (revoked)[^key-32cc5d807d9e82e7bf798686345e6564]
+Act of Sederunt (Lands Valuation Appeal Court) 2013 (revoked)[^c-32cc5d807d9e82e7bf798686345e6564]
 
 Made
 
@@ -45,20 +45,20 @@ Coming into force
 
 1st July 2013
 
-[^key-32cc5d807d9e82e7bf798686345e6564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32cc5d807d9e82e7bf798686345e6564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**1.**[^key-32cc5d807d9e82e7bf798686345e6564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-32cc5d807d9e82e7bf798686345e6564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Lands Valuation Appeal Court[^key-32cc5d807d9e82e7bf798686345e6564]
+## 2. Lands Valuation Appeal Court[^c-32cc5d807d9e82e7bf798686345e6564]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32cc5d807d9e82e7bf798686345e6564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32cc5d807d9e82e7bf798686345e6564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32cc5d807d9e82e7bf798686345e6564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32cc5d807d9e82e7bf798686345e6564]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32cc5d807d9e82e7bf798686345e6564]: Textual amendment: Act of Sederunt revoked (30.4.2023) by [Act of Sederunt (Lands Valuation Appeal Court) 2023 (S.S.I. 2023/75)](https://www.legislation.gov.uk/ssi/2023/75), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/75/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2023/75/paragraph/3)
+[^c-32cc5d807d9e82e7bf798686345e6564]: Textual amendment: Act of Sederunt revoked (30.4.2023) by [Act of Sederunt (Lands Valuation Appeal Court) 2023 (S.S.I. 2023/75)](https://www.legislation.gov.uk/ssi/2023/75), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/75/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2023/75/paragraph/3)

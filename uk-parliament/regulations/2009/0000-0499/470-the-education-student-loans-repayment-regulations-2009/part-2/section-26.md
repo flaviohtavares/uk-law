@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Alteration of relevant time limits[^key-66e0b03d690c02c7e45286bb024df49b]
+## 26. Alteration of relevant time limits[^c-66e0b03d690c02c7e45286bb024df49b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the Authority considers that, having regard to all the circumstances of a 
 
 ## Annotations
 
-[^key-66e0b03d690c02c7e45286bb024df49b]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/470/regulation/26) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-66e0b03d690c02c7e45286bb024df49b]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2009/470/regulation/26) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

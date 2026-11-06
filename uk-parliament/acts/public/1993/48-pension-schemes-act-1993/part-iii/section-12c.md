@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12C. Transfer, commutation, etc[^key-954e1b6c84b48603881c9acbf7e745ca]
+## 12C. Transfer, commutation, etc[^c-954e1b6c84b48603881c9acbf7e745ca]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-954e1b6c84b48603881c9acbf7e745ca]: Textual amendment: Ss. 12A-12D repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/11) (with savings in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(1)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/2/d)[(2A)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/2A) (as amended by [S.I. 2015/2058](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(c)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/c)))
+[^c-954e1b6c84b48603881c9acbf7e745ca]: Textual amendment: Ss. 12A-12D repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/11) (with savings in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(1)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/2/d)[(2A)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/2A) (as amended by [S.I. 2015/2058](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(c)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/c)))

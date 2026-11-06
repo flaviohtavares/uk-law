@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Orders by Crown Court on acquittal or when allowing an appeal[^key-df83db7b84c1499ee083e17d8227b6f9]
+## 59. Orders by Crown Court on acquittal or when allowing an appeal[^c-df83db7b84c1499ee083e17d8227b6f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df83db7b84c1499ee083e17d8227b6f9]: Commencement: S. 59 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-df83db7b84c1499ee083e17d8227b6f9]: Commencement: S. 59 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)

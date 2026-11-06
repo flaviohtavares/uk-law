@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A social security authority may require a postal operator (within the meaning of[^c14906211] Part 3 of the Postal Services Act 2011[^key-0afdf9ca198ea66edfed85b5431cad2d] ) to return to the sender social security post sent by or on behalf of the authority which would otherwise be redirected.
+(1) A social security authority may require a postal operator (within the meaning of[^c14906211] Part 3 of the Postal Services Act 2011[^c-0afdf9ca198ea66edfed85b5431cad2d] ) to return to the sender social security post sent by or on behalf of the authority which would otherwise be redirected.
 
 (2) A social security authority shall make payments of such amount as the Department considers reasonable in respect of the return of social security post in compliance with a requirement imposed by the authority under subsection (1) above.
 
@@ -39,7 +39,7 @@ summary: ''
 (5) In this section—
 
 - (a) “**redirected**”, in relation to any postal packet, means delivered to an address other than that indicated by the sender on the packet; and
-- (b) “**postal packet**” has the same meaning as in Part 3 of the Postal Services Act 2011[^key-e7f093e9725c4913d47acf07c88bae64] .
+- (b) “**postal packet**” has the same meaning as in Part 3 of the Postal Services Act 2011[^c-e7f093e9725c4913d47acf07c88bae64] .
 
 (6) Any requirement imposed under subsection (1) above has effect subject to any order under—
 
@@ -53,11 +53,11 @@ summary: ''
 
 [^c14906211]: Textual amendment: Words in s. 158A(1) substituted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. para. 94(2)(a)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/paragraph/94/2/a)
 
-[^key-0afdf9ca198ea66edfed85b5431cad2d]: Textual amendment: Words in [s. 158A(1)](https://www.legislation.gov.uk/ukpga/1992/8/section/158A/1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 143](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/143); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-0afdf9ca198ea66edfed85b5431cad2d]: Textual amendment: Words in [s. 158A(1)](https://www.legislation.gov.uk/ukpga/1992/8/section/158A/1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 143](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/143); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c14906221]: Textual amendment: Words in s. 158A(4)(b) substituted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. para. 94(2)(b)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/paragraph/94/2/b)
 
-[^key-e7f093e9725c4913d47acf07c88bae64]: Textual amendment: Words in [s. 158A(5)(b)](https://www.legislation.gov.uk/ukpga/1992/8/section/158A/5/b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 143](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/143); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-e7f093e9725c4913d47acf07c88bae64]: Textual amendment: Words in [s. 158A(5)(b)](https://www.legislation.gov.uk/ukpga/1992/8/section/158A/5/b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 143](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/143); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c14906241]: Marginal citation: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405).
 

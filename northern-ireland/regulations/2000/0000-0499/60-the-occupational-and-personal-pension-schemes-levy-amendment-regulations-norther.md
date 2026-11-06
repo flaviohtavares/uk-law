@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Occupational and Personal Pension Schemes (Levy) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-c750346fb73c44d5133c8cb01fda13ec]
+The Occupational and Personal Pension Schemes (Levy) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-c750346fb73c44d5133c8cb01fda13ec]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 1st April 2000
 
-[^key-c750346fb73c44d5133c8cb01fda13ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c750346fb73c44d5133c8cb01fda13ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c750346fb73c44d5133c8cb01fda13ec]
+## 1. Citation, commencement and interpretation[^c-c750346fb73c44d5133c8cb01fda13ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-c750346fb73c44d5133c8cb01fda13ec]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-c750346fb73c44d5133c8cb01fda13ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Schedule to the principal Regulations[^key-c750346fb73c44d5133c8cb01fda13ec]
+## 3. Amendment of the Schedule to the principal Regulations[^c-c750346fb73c44d5133c8cb01fda13ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c750346fb73c44d5133c8cb01fda13ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c750346fb73c44d5133c8cb01fda13ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c750346fb73c44d5133c8cb01fda13ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c750346fb73c44d5133c8cb01fda13ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c750346fb73c44d5133c8cb01fda13ec]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/60) revoked (1.4.2005) by [The Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005 (S.R. 2005/92)](https://www.legislation.gov.uk/nisr/2005/92), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1), [12(1)(d)](https://www.legislation.gov.uk/nisr/2005/92/regulation/12/1/d)
+[^c-c750346fb73c44d5133c8cb01fda13ec]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/60) revoked (1.4.2005) by [The Occupational and Personal Pension Schemes (General Levy) Regulations (Northern Ireland) 2005 (S.R. 2005/92)](https://www.legislation.gov.uk/nisr/2005/92), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/92/regulation/1/1), [12(1)(d)](https://www.legislation.gov.uk/nisr/2005/92/regulation/12/1/d)

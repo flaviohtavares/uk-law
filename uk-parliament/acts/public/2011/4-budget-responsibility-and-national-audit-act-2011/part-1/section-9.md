@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Right to information[^key-be02d9c1526b3590db61f0ca9e12bcab]
+## 9. Right to information[^c-be02d9c1526b3590db61f0ca9e12bcab]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be02d9c1526b3590db61f0ca9e12bcab]: Commencement: S. 9 in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-be02d9c1526b3590db61f0ca9e12bcab]: Commencement: S. 9 in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)

@@ -33,13 +33,13 @@ and may at any time by such an order approve a modification of such a code or wi
 
 (4) The Secretary of State shall not make an order under this section unless he has first consulted—
 
-- (a) the Environment Agency[^c13216531] and the[^key-5c9a7445eec221bbae920c163ca8f98b] NRBW;
-- (b) Natural England[^c20148851] [^key-cf3f5b7340c649083c9c7e5b91ef83af]...;
+- (a) the Environment Agency[^c13216531] and the[^c-5c9a7445eec221bbae920c163ca8f98b] NRBW;
+- (b) Natural England[^c20148851] [^c-cf3f5b7340c649083c9c7e5b91ef83af]...;
 - (c) the Historic Buildings and Monuments Commission for England;
 - (d) the Sports Council and the Sports Council for Wales; and
 - (e) such relevant undertakers and other persons as he considers it appropriate to consult.
 
-(5) In this section “**the other consolidation Acts**” means the [^c13216561]Water Resources Act 1991, [^key-2b6e2d2f454dcd410ccf9ef2c6bf79b7]... the [^c13216581]Land Drainage Act 1991 and the [^c13216591]Water Consolidation (Consequential Provisions) Act 1991.
+(5) In this section “**the other consolidation Acts**” means the [^c13216561]Water Resources Act 1991, [^c-2b6e2d2f454dcd410ccf9ef2c6bf79b7]... the [^c13216581]Land Drainage Act 1991 and the [^c13216591]Water Consolidation (Consequential Provisions) Act 1991.
 
 ## Annotations
 
@@ -51,15 +51,15 @@ and may at any time by such an order approve a modification of such a code or wi
 
 [^c13216531]: Textual amendment: Words in s. 5(4)(a) substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 98](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/98) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-5c9a7445eec221bbae920c163ca8f98b]: Textual amendment: Words in s. 5(4)(a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 226(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/226/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5c9a7445eec221bbae920c163ca8f98b]: Textual amendment: Words in s. 5(4)(a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 226(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/226/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c20148851]: Textual amendment: Words in s. 5(4)(b) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 130](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/130); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-cf3f5b7340c649083c9c7e5b91ef83af]: Textual amendment: Words in s. 5(4)(b) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 226(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/226/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-cf3f5b7340c649083c9c7e5b91ef83af]: Textual amendment: Words in s. 5(4)(b) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 226(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/226/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13216561]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-2b6e2d2f454dcd410ccf9ef2c6bf79b7]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1991/56/section/5/5) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/a)
+[^c-2b6e2d2f454dcd410ccf9ef2c6bf79b7]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1991/56/section/5/5) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/a)
 
 [^c13216581]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 

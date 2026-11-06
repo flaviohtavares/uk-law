@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Enforcement[^key-c1f0c8d033b1d7a894d31c8610c9e5f0][^key-186dbbaa987f064800d99510ddc2bf9d]
+## 241. Enforcement[^c-c1f0c8d033b1d7a894d31c8610c9e5f0][^c-186dbbaa987f064800d99510ddc2bf9d]
 
 *Extent: E+W+S*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1f0c8d033b1d7a894d31c8610c9e5f0]: Commencement: S. 241 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-c1f0c8d033b1d7a894d31c8610c9e5f0]: Commencement: S. 241 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-186dbbaa987f064800d99510ddc2bf9d]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2023/52/section/241) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)
+[^c-186dbbaa987f064800d99510ddc2bf9d]: Commencement: [S. 241](https://www.legislation.gov.uk/ukpga/2023/52/section/241) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)

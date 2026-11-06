@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20B. Fees and charges for registration in connection with exempt activities[^key-f12036c953b45a0d901e5c62f21861a4]
+## 20B. Fees and charges for registration in connection with exempt activities[^c-f12036c953b45a0d901e5c62f21861a4]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ such fees and charges as may be provided for by a scheme under paragraph (2) (bu
 
 ## Annotations
 
-[^key-f12036c953b45a0d901e5c62f21861a4]: Textual amendment: [Reg. 20B](https://www.legislation.gov.uk/nisr/2003/493/regulation/20B) inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 65(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/65/6), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/k)
+[^c-f12036c953b45a0d901e5c62f21861a4]: Textual amendment: [Reg. 20B](https://www.legislation.gov.uk/nisr/2003/493/regulation/20B) inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 65(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/65/6), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/k)

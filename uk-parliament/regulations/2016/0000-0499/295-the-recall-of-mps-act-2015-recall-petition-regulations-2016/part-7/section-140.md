@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Questioning the outcome of a petition[^key-c55002fbe7f196c3fe06af27b254af18]
+## 140. Questioning the outcome of a petition[^c-c55002fbe7f196c3fe06af27b254af18]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 (legal proceedings: application to recall petitions of existing provi
 
 ## Annotations
 
-[^key-c55002fbe7f196c3fe06af27b254af18]: Commencement: Reg. 140 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-c55002fbe7f196c3fe06af27b254af18]: Commencement: Reg. 140 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

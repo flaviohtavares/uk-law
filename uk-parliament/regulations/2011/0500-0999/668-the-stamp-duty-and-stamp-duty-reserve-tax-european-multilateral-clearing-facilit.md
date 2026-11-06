@@ -34,7 +34,7 @@ Stamp Duty
 
 Stamp Duty Reserve Tax
 
-The Stamp Duty and Stamp Duty Reserve Tax (European Multilateral Clearing Facility N.V.) Regulations 2011 (revoked)[^key-956dbcc6a74db43cbaae0744276ee333]
+The Stamp Duty and Stamp Duty Reserve Tax (European Multilateral Clearing Facility N.V.) Regulations 2011 (revoked)[^c-956dbcc6a74db43cbaae0744276ee333]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 1st April 2011
 
-[^key-956dbcc6a74db43cbaae0744276ee333]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-956dbcc6a74db43cbaae0744276ee333]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-956dbcc6a74db43cbaae0744276ee333]
+## 1. Citation, commencement and effect[^c-956dbcc6a74db43cbaae0744276ee333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-956dbcc6a74db43cbaae0744276ee333]
+## 2. Interpretation[^c-956dbcc6a74db43cbaae0744276ee333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescription of EMCF[^key-956dbcc6a74db43cbaae0744276ee333]
+## 3. Prescription of EMCF[^c-956dbcc6a74db43cbaae0744276ee333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed circumstances for the purposes of sections 116 and 117[^key-956dbcc6a74db43cbaae0744276ee333]
+## 4. Prescribed circumstances for the purposes of sections 116 and 117[^c-956dbcc6a74db43cbaae0744276ee333]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-956dbcc6a74db43cbaae0744276ee333]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-956dbcc6a74db43cbaae0744276ee333]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-956dbcc6a74db43cbaae0744276ee333]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-956dbcc6a74db43cbaae0744276ee333]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-956dbcc6a74db43cbaae0744276ee333]: Textual amendment: Regulations revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty and Stamp Duty Reserve Tax (European Central Counterparty N.V.) Regulations 2014 (S.I. 2014/9)](https://www.legislation.gov.uk/uksi/2014/9), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/9/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2014/9/regulation/5)
+[^c-956dbcc6a74db43cbaae0744276ee333]: Textual amendment: Regulations revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty and Stamp Duty Reserve Tax (European Central Counterparty N.V.) Regulations 2014 (S.I. 2014/9)](https://www.legislation.gov.uk/uksi/2014/9), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/9/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2014/9/regulation/5)

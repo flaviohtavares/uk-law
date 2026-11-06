@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Reimbursement by defaulter in respect of certain abandonment expenditure.[^key-86c4cef42e86d8db56d08d6e86a1693d]
+## 108. Reimbursement by defaulter in respect of certain abandonment expenditure.[^c-86c4cef42e86d8db56d08d6e86a1693d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86c4cef42e86d8db56d08d6e86a1693d]: Textual amendment: [S. 108](https://www.legislation.gov.uk/ukpga/1991/31/section/108) omitted (with effect in relation to expenditure incurred on or after 17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/8) (with [Sch. 31 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/23))
+[^c-86c4cef42e86d8db56d08d6e86a1693d]: Textual amendment: [S. 108](https://www.legislation.gov.uk/ukpga/1991/31/section/108) omitted (with effect in relation to expenditure incurred on or after 17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/8) (with [Sch. 31 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/23))

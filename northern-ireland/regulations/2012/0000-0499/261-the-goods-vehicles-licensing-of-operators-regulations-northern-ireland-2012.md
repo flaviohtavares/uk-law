@@ -46,11 +46,11 @@ In accordance with section 57(11) of that Act the Department has consulted with 
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-6921651dffe8cc6e8e90d582cc87bbd4]
+### 1. Citation and commencement[^c-6921651dffe8cc6e8e90d582cc87bbd4]
 
 These Regulations may be cited as the Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 and shall come into operation on 1<sup>st</sup> July 2012.
 
-### 2. Interpretation[^key-f3d987cca70899dabafa443e5eaaab98]
+### 2. Interpretation[^c-f3d987cca70899dabafa443e5eaaab98]
 
 (1) In these Regulations—
 
@@ -63,7 +63,7 @@ These Regulations may be cited as the Goods Vehicles (Licensing of Operators) Re
 - “company” shall be construed as provided in section 1 of the Companies Act 2006[^f00002];
 - “disc” means a disc issued in accordance with regulation 21(1) and (2) or 25(2);
 - “firm” has the same meaning as in section 4 of the Partnership Act 1890[^f00003];
-- “[^key-672ea086cc2412fcb66955d94c4d2b00]**heavy goods vehicle**” has the meaning given in section 58(1);
+- “[^c-672ea086cc2412fcb66955d94c4d2b00]**heavy goods vehicle**” has the meaning given in section 58(1);
 - “keeper”, in relation to a goods vehicle, is the person in whose name the vehicle is registered under the Vehicle Excise and Registration Act 1994[^f00004];
 - “interim licence” means a licence issued under section 21(3);
 - “interim direction” means a direction given by the Department pursuant to section 22;
@@ -71,13 +71,13 @@ These Regulations may be cited as the Goods Vehicles (Licensing of Operators) Re
 - “licence-holder”, and “holder” in relation to a licence, means the person to whom the licence was issued;
 - “maintenance” in relation to a goods vehicle includes inspection, repair and fuelling;
 - “the Qualification of Operators Regulations” means the Goods Vehicles (Qualification of Operators) Regulations (Northern Ireland) 2012[^f00005].
-- “[^key-d33873a02034570a6fa68e9b62f40252]**transport manager**” has the meaning given in section 12A(5);
+- “[^c-d33873a02034570a6fa68e9b62f40252]**transport manager**” has the meaning given in section 12A(5);
 
 (2) In these Regulations unless the context otherwise requires, any reference to a numbered section is a reference to the section of the 2010 Act bearing that number.
 
 ## PART 2 — APPLICATIONS FOR OPERATORS’ LICENCES
 
-### 3. Manner of making applications[^key-410e9cdd59467c99ab74205fa3863369]
+### 3. Manner of making applications[^c-410e9cdd59467c99ab74205fa3863369]
 
 (1) Every application shall—
 
@@ -93,7 +93,7 @@ These Regulations may be cited as the Goods Vehicles (Licensing of Operators) Re
 (2) A person applying for an operator’s licence shall give to the Department a statement—
 
 - (a) containing details of the motor vehicles required to be used under the licence and stating the number, type and registration mark of any vehicles and trailers proposed to be used under the licence; and
-- (b) In the case of a heavy goods vehicle licence,[^key-3cd9e7e61a87528bd614e9ed0ac51019] containing the name and address of the operating centre of the applicant if the licence is issued.
+- (b) In the case of a heavy goods vehicle licence,[^c-3cd9e7e61a87528bd614e9ed0ac51019] containing the name and address of the operating centre of the applicant if the licence is issued.
 
 (3) A person applying for an operator’s licence shall, if required by the Department to do so, give any of the information specified in paragraph 1 of Schedule 1.
 
@@ -101,27 +101,27 @@ These Regulations may be cited as the Goods Vehicles (Licensing of Operators) Re
 
 (5) Without prejudice to paragraph (3), a person applying for an operator’s licence shall also, if required by the Department to do so, give such particulars as may be required with respect to the use which the applicant proposes to make, for vehicles used under the licence, of any referred to in the statement under paragraph (2)(a).
 
-### 4. Time of applications[^key-a03117531291fff5313b152d386bca29]
+### 4. Time of applications[^c-a03117531291fff5313b152d386bca29]
 
 Every application shall be sent to the Department so as to reach it not less than 9 weeks before the time at which the applicant desires the licence or variation applied for to take effect.
 
-### 5. Dispensations as to applications[^key-10c8d52ae6a14fd291f406db85b08025]
+### 5. Dispensations as to applications[^c-10c8d52ae6a14fd291f406db85b08025]
 
 The Department may consider an application notwithstanding that the requirement specified in regulation 4 has not been complied with.
 
-### 6. Notice of applications[^key-186dcea7368511d2a4521b115d8875f9]
+### 6. Notice of applications[^c-186dcea7368511d2a4521b115d8875f9]
 
 (1) The manner in which a notice of any application for a licence as mentioned in section 9 or for a variation as mentioned in section 16 is published by the Department is that a summary of the application which adequately specifies the subject matter of the application shall be published in Applications and Decisions as mentioned in regulation 19.
 
 (2) The notice of an application to be published in accordance with section 10 or 17 shall give the information specified in Schedule 2.
 
-### 7. Restrictions on applications[^key-d2a39c23dc2af47f0b863528dcfda100]
+### 7. Restrictions on applications[^c-d2a39c23dc2af47f0b863528dcfda100]
 
 (1) The Department may decline to proceed with an application for a licence if it appears to it that the grant of that application would lead to a contravention of section 7(2).
 
 (2) The Department may decline to proceed with an application if and so long as it appears to it that the application relates to any motor vehicle which is specified in an existing licence, and the grant of that application would lead to a contravention of section 4(7).
 
-### 8. Inspection of applications[^key-db867c98bb7a6de1bdecf5b60b705947]
+### 8. Inspection of applications[^c-db867c98bb7a6de1bdecf5b60b705947]
 
 (1) The Department shall, until an application has been determined, make available for inspection—
 
@@ -142,7 +142,7 @@ The Department may consider an application notwithstanding that the requirement 
 
 ## PART 3 — OBJECTIONS AND REPRESENTATIONS
 
-### 9. Prescribed trade unions and associations[^key-8f3fd87bf6c87d78c4151c057d5e7e1e]
+### 9. Prescribed trade unions and associations[^c-8f3fd87bf6c87d78c4151c057d5e7e1e]
 
 (1) The trade unions and associations specified in paragraph (2), being trade unions or associations whose members consist of or include persons holding licences or employees of any such persons, are prescribed as persons who may object as provided in section 11(2)(a), either as applied by section 18(2) or not.
 
@@ -157,7 +157,7 @@ The Department may consider an application notwithstanding that the requirement 
 - (g) The Union of Shop, Distributive and Allied Workers; and
 - (h) The United Road Transport Union.
 
-### 10. Manner of making objections and representations[^key-d67a695d2780f7957939431df6114bd2]
+### 10. Manner of making objections and representations[^c-d67a695d2780f7957939431df6114bd2]
 
 (1) For the purposes of sections 11(6)(b) and (7)(b) and 18(10), the manner of making an objection to, or representation against, an application is by delivering a document to the Department—
 
@@ -169,7 +169,7 @@ The Department may consider an application notwithstanding that the requirement 
 
 (2) A copy of the document delivered under paragraph (1) shall be sent by the objector, or the person making the representation, to the applicant on the same day as, or the next working day after, the delivery to the Department.
 
-### 11. Time of making objections and representations[^key-40ea3f98a095ec212ef8c1f6ec2cbca5]
+### 11. Time of making objections and representations[^c-40ea3f98a095ec212ef8c1f6ec2cbca5]
 
 (1) The time within which an objection under section 11(1)(a) or (b) to an application for a licence must be made is the period commencing immediately after notice of the application is published under section 10(2) and ending 21 days after the date on which notice of the application is published in Applications and Decisions.
 
@@ -179,40 +179,40 @@ The Department may consider an application notwithstanding that the requirement 
 
 (4) The time within which a representation under section 18(2) in respect of an application for a variation of a licence must be made is the period of 21 days beginning with and including the date on which the notice of the application is published under section 17(3).
 
-### 12. Consideration of objections and representations[^key-aeb32b781d78f7bfdcfc1d95d7e1f43c]
+### 12. Consideration of objections and representations[^c-aeb32b781d78f7bfdcfc1d95d7e1f43c]
 
 The Department shall consider every objection and representation duly made in considering whether or not to hold an inquiry as provided in section 32.
 
 ## PART 4 — OPERATING CENTRES
 
-### 13. Conditions which may be attached to a licence[^key-0df337681d91190a2b8cedbb561a259f]
+### 13. Conditions which may be attached to a licence[^c-0df337681d91190a2b8cedbb561a259f]
 
 The conditions which may be attached under section 20 to a licence are conditions regulating—
 
-- (a) the number, type and size of authorised heavy goods vehicles[^key-1d1da96577ebf9132181362c76e4e9c9] which may at any one time be at any operating centre of the licence-holder for the purposes of maintenance and parking;
-- (b) the parking arrangements to be provided for authorised heavy goods vehicles[^key-e45cfa9937c081462660846cc2f7aed7] at or in the vicinity of every such operating centre;
-- (c) the times between which there may be carried out at every such operating centre any maintenance or movement of any authorised heavy goods vehicle[^key-7c366f566ad5aee5e6229ff832423b3a] and the times at which any equipment may be used for any such maintenance or movement; and
-- (d) the means of ingress to and egress from every such operating centre for any authorised heavy goods vehicle[^key-7da139ce6a95694110fac7c7081e5a47] .
+- (a) the number, type and size of authorised heavy goods vehicles[^c-1d1da96577ebf9132181362c76e4e9c9] which may at any one time be at any operating centre of the licence-holder for the purposes of maintenance and parking;
+- (b) the parking arrangements to be provided for authorised heavy goods vehicles[^c-e45cfa9937c081462660846cc2f7aed7] at or in the vicinity of every such operating centre;
+- (c) the times between which there may be carried out at every such operating centre any maintenance or movement of any authorised heavy goods vehicle[^c-7c366f566ad5aee5e6229ff832423b3a] and the times at which any equipment may be used for any such maintenance or movement; and
+- (d) the means of ingress to and egress from every such operating centre for any authorised heavy goods vehicle[^c-7da139ce6a95694110fac7c7081e5a47] .
 
-### 14. Considerations relevant to determinations as to environmental matters[^key-80c44df9723264884840c50ae30a25d8][^key-9b036e75114ec128828794d1d2e70c9e]
+### 14. Considerations relevant to determinations as to environmental matters[^c-80c44df9723264884840c50ae30a25d8][^c-9b036e75114ec128828794d1d2e70c9e]
 
 (1) The considerations prescribed as relevant to any determination of a kind specified in section 31(2) are—
 
 - (a) the nature and the use of any other land in the vicinity of the land used or proposed to be used as an operating centre, and any effect which the use of the land as an operating centre has, or would be likely to have, on the environment of that vicinity;
 - (b) in a case where the land proposed to be used as an operating centre is, or has previously been used as an operating centre, the extent to which the grant of the application would result in any material change as regards that operating centre, or its use, which would adversely affect the environment of the vicinity of that land;
 - (c) in the case of an application which, if granted, would result in land which has not previously been used as an operating centre being used as one, any information known to the Department about any planning permission or application for planning permission relating to the land or any other land in the vicinity of that land;
-- (d) the number, type and size of heavy goods vehicles[^key-5c72b0413bef58199b1ce265c9eaad9f] ;
-- (e) the arrangements for the parking of heavy goods vehicles[^key-799cb2d11ab8a28298385fc7f031c2f7] or the proposed or likely arrangements for such parking;
+- (d) the number, type and size of heavy goods vehicles[^c-5c72b0413bef58199b1ce265c9eaad9f] ;
+- (e) the arrangements for the parking of heavy goods vehicles[^c-799cb2d11ab8a28298385fc7f031c2f7] or the proposed or likely arrangements for such parking;
 - (f) the nature and the times of the use of the land for the purpose of an operating centre or the proposed nature and times of the use of the land proposed to be used for that purpose;
 - (g) the nature and the times of the use of any equipment installed on the land used as an operating centre for the purpose of the use of that land as an operating centre or of any equipment proposed or likely to be installed on the land proposed to be used as an operating centre for that purpose; and
-- (h) the means and frequency of heavy goods vehicle[^key-db5487b91417f0608a9436b7ebdc7944] ingress to, and egress from, the land used as an operating centre or the proposed means and frequency of such ingress to, and egress from, the land proposed to be used as an operating centre.
+- (h) the means and frequency of heavy goods vehicle[^c-db5487b91417f0608a9436b7ebdc7944] ingress to, and egress from, the land used as an operating centre or the proposed means and frequency of such ingress to, and egress from, the land proposed to be used as an operating centre.
 
 (2) In this regulation—
 
 - “operating centre” includes part of an operating centre and the place which would be the operating centre if the application were granted and has the same meaning as in section 6(3); and
 - “planning permission” has the same meaning as in Part IV of the Planning (Northern Ireland) Order 1991[^f00006].
 
-### 15. Conditions to be satisfied in relation to specified operating centres[^key-cb60e656f3d142d6598ff7abf1e3faf0]
+### 15. Conditions to be satisfied in relation to specified operating centres[^c-cb60e656f3d142d6598ff7abf1e3faf0]
 
 The conditions under sections 13(5)(c), 18(9)(c) and paragraphs 1(7)(b) and 3(7)(b) of Schedule 1 to the 2010 Act are that either—
 
@@ -221,11 +221,11 @@ The conditions under sections 13(5)(c), 18(9)(c) and paragraphs 1(7)(b) and 3(7)
 
 and if any appeal or notice of intention is withdrawn or abandoned the date of such withdrawal or abandonment shall be taken to be the time of expiry.
 
-### 16. Period for service of notice on review of an operating centre[^key-e1adaab0a49400dc78d8075ea2cb5e83]
+### 16. Period for service of notice on review of an operating centre[^c-e1adaab0a49400dc78d8075ea2cb5e83]
 
 The period prescribed for the purpose of section 27(1) is 2 months.
 
-### 17. Manner of making representations in relation to a review[^key-b14b7dfcbde0a542bb6419948e08bdc8]
+### 17. Manner of making representations in relation to a review[^c-b14b7dfcbde0a542bb6419948e08bdc8]
 
 Without prejudice to section 28(5), the manner of making representations in relation to a review is by delivering a document to an office specified by the Department—
 
@@ -243,13 +243,13 @@ in any of the above cases, by a solicitor acting on behalf of (as the case may b
 
 ## PART 5 — INQUIRIES
 
-### 18. Provisions about inquiries[^key-f93008d1cc494266e9aef230f6738c95]
+### 18. Provisions about inquiries[^c-f93008d1cc494266e9aef230f6738c95]
 
 Schedule 3 shall have effect in relation to any inquiry held by the Department.
 
 ## PART 6 — APPLICATIONS AND DECISIONS
 
-### 19. Statement to be issued by the Department[^key-9eac224c4597fc8d0d2a9e56c00583b1]
+### 19. Statement to be issued by the Department[^c-9eac224c4597fc8d0d2a9e56c00583b1]
 
 (1) The Department shall publish as occasion may require a statement known as “Applications and Decisions” which shall contain (unless previously notified)—
 
@@ -265,7 +265,7 @@ Schedule 3 shall have effect in relation to any inquiry held by the Department.
 
 (3) Copies of Applications and Decisions may be inspected at an office specified by the Department and copies of the whole or the relevant parts thereof shall be supplied to any person requiring them on payment of such sum as the Department may require to cover the cost of supplying the copy.
 
-### 20. Notification of decisions[^key-a3af4bd38d77cba1ed949956c1c7911d]
+### 20. Notification of decisions[^c-a3af4bd38d77cba1ed949956c1c7911d]
 
 (1) Subject to paragraph (2), where the Department grants or refuses an application, it shall send a written statement of its reason to —
 
@@ -282,7 +282,7 @@ Schedule 3 shall have effect in relation to any inquiry held by the Department.
 
 ## PART 7 — OTHER MATTERS
 
-### 21. Identification of motor vehicles[^key-82f13f04e9e5255027c8741bf4d2cb7f]
+### 21. Identification of motor vehicles[^c-82f13f04e9e5255027c8741bf4d2cb7f]
 
 (1) The Department shall, when any motor vehicle to be used under a licence is specified in the licence, issue to the licence-holder a disc in respect of the vehicle.
 
@@ -309,7 +309,7 @@ Schedule 3 shall have effect in relation to any inquiry held by the Department.
 - (a) “continuation fee” means the fee numbered 3 as specified in the Table in regulation 2 of Goods Vehicles (Licensing of Operators) (Fees) Regulations (Northern Ireland)[^f00007]; and
 - (b) the time within which such a fee falls due is determined in accordance with regulation 4 of those Regulations.
 
-### 22. Temporary addition of a motor vehicle[^key-87252d41f9971b18f675cf9396b36770]
+### 22. Temporary addition of a motor vehicle[^c-87252d41f9971b18f675cf9396b36770]
 
 Where—
 
@@ -318,17 +318,17 @@ Where—
 
 the provisions of regulations 3 and 4 shall not apply.
 
-### 23. Notification of change of address[^key-d286c3892866083f531e40af79840221]
+### 23. Notification of change of address[^c-d286c3892866083f531e40af79840221]
 
 If during the currency of a licence the address for correspondence as notified in the licence-holder’s application or as subsequently notified under this regulation ceases to be an effective address for correspondence, the licence-holder shall within 28 days from and including the date of such event notify the Department of an effective address for correspondence.
 
-### 24. Production of licence for examination[^key-fcc7712644829c5bf9a449420d7e1fa7]
+### 24. Production of licence for examination[^c-fcc7712644829c5bf9a449420d7e1fa7]
 
 (1) The licence-holder shall produce the licence for inspection by an officer or a police constable on being required by such a person to do so, and the licence-holder may do so at any operating centre covered by the licence or, if the requirement is made by a police constable, at a police station chosen by the licence-holder.
 
 (2) The licence-holder shall comply with any requirements mentioned in paragraph (1) within 14 days of the day on which the requirement is made.
 
-### 25. Issue of copies of licences and discs[^key-2c6f7bdc57ef11172fde77a81e4c7551]
+### 25. Issue of copies of licences and discs[^c-2c6f7bdc57ef11172fde77a81e4c7551]
 
 (1) If a licence or disc has been lost, destroyed or defaced, the person to whom it was issued shall forthwith notify the Department in writing.
 
@@ -341,7 +341,7 @@ the Department shall issue a copy (so marked) which shall have effect as the ori
 
 (3) Where a licence or disc has been lost and after a copy has been issued the lost licence or disc is found by or comes into the possession of the licence-holder the original licence or disc shall be returned to the Department.
 
-### 26. Return of licences and discs[^key-435b54ea91f6a83723b8cf2b5f2adf90]
+### 26. Return of licences and discs[^c-435b54ea91f6a83723b8cf2b5f2adf90]
 
 (1) If the licence-holder ceases to use under the licence any motor vehicle specified in the licence the licence-holder shall within 21 days beginning with the date of ceasing to use the vehicle or vehicles notify the Department, and return to the Department the licence for variation and the disc relating to the vehicle.
 
@@ -359,7 +359,7 @@ for cancellation, retention during the time of suspension, or alteration as the 
 
 (4) The notice referred to in paragraph (3) shall be delivered personally to the licence-holder or sent to that person by recorded delivery service at the address shown in that person’s application or last notified in accordance with regulation 23.
 
-### 27. Partnerships[^key-bd7247fa1de61a8564055280cb1cf403]
+### 27. Partnerships[^c-bd7247fa1de61a8564055280cb1cf403]
 
 (1) The provision in section 7(2) that a person shall not at the same time hold more than one operator’s licence, shall apply so that a firm shall be treated as a person separate from any partner of that firm or an individual in any other partnership.
 
@@ -368,10 +368,10 @@ for cancellation, retention during the time of suspension, or alteration as the 
 (3) The provisions of section 12A shall apply in any case where an applicant for a standard licence is a firm so that the Department is required to be satisfied that—
 
 - (a) every one of the partners of that firm is of good repute;
-- (b)[^key-337432174a6712b8e504a844bd6d31a7] the firm has—
+- (b)[^c-337432174a6712b8e504a844bd6d31a7] the firm has—
   - (i) an effective and stable establishment in Northern Ireland; and
   - (ii) appropriate financial standing; and
-- (c)[^key-2f1d85dbd8120c8273479a5b1f14beb1] the firm has designated—
+- (c)[^c-2f1d85dbd8120c8273479a5b1f14beb1] the firm has designated—
   - (i) a suitable number of individuals, including one or more of the firm’s partners, who satisfy the requirements set out in regulation 13A(1) and (2) of the Qualification of Operators Regulations; or
   - (ii) if none of the firm’s partners satisfy the requirements referred to in paragraph (i), a suitable number of individuals who satisfy the requirements set out in regulation 13A(1) and (3) of the Qualification of Operators Regulations.
 
@@ -384,10 +384,10 @@ for cancellation, retention during the time of suspension, or alteration as the 
 (7) The provisions of section 24(1) shall apply in any case where the licence-holder is a firm if—
 
 - (a) any one or more of the partners of that firm cease to satisfy the requirement to be of good repute;
-- (b)[^key-38d970ea1ef687f39411faef934a4a06] the firm ceases to satisfy the Department it has—
+- (b)[^c-38d970ea1ef687f39411faef934a4a06] the firm ceases to satisfy the Department it has—
   - (i) an effective and stable establishment in Northern Ireland; or
   - (ii) appropriate financial standing; or
-- (c)[^key-1ba0face53b9c765a48857e43b539cda] a transport manager for the firm ceases to satisfy the requirements set out in regulation 13A(1) and (2), or (1) and (3), of the Qualification of Operators Regulations.
+- (c)[^c-1ba0face53b9c765a48857e43b539cda] a transport manager for the firm ceases to satisfy the requirements set out in regulation 13A(1) and (2), or (1) and (3), of the Qualification of Operators Regulations.
 
 (8) The provisions of section 25 shall apply to the revocation of an operator’s licence held by a firm and in such a case the powers conferred by subsections (1) and (3) of that section shall be exercisable in respect of each and every partner of that firm.
 
@@ -402,10 +402,10 @@ for cancellation, retention during the time of suspension, or alteration as the 
 
 (12) In the Qualification of Operators Regulations—
 
-- (a) the provisions in regulation 5 of those Regulations as regards determining whether an individual is of good repute apply, in a case of a firm in respect of each of the partners of that firm as they apply to an individual [^key-5db6921a58348c963bd4ff5f3ed18200]... ;
-- (b) [^key-5db6921a58348c963bd4ff5f3ed18200]...
+- (a) the provisions in regulation 5 of those Regulations as regards determining whether an individual is of good repute apply, in a case of a firm in respect of each of the partners of that firm as they apply to an individual [^c-5db6921a58348c963bd4ff5f3ed18200]... ;
+- (b) [^c-5db6921a58348c963bd4ff5f3ed18200]...
 
-### 28. Holding companies and subsidiaries[^key-90255a352ca98bbf15d75d5ad78c3db0]
+### 28. Holding companies and subsidiaries[^c-90255a352ca98bbf15d75d5ad78c3db0]
 
 (1) A holding company may apply to the Department for the issue of a licence or if it already holds a licence, for a variation of its licence by a direction under section 16(1)(a).
 
@@ -441,12 +441,12 @@ be accompanied by an application by the subsidiary for the variation of the lice
 - (b) for the purposes of, or relating to, the reputation and financial standing of the holding company, the activities, any relevant conviction and the financial resources of the subsidiary were activities, a relevant conviction and the financial resources of the holding company; and
 - (c) in relation to a transport manager, that person’s employment by the subsidiary were employment by the holding company.
 
-(8)[^key-30334a7c3b453195cdc0fd8eea1c3822] In this regulation—
+(8)[^c-30334a7c3b453195cdc0fd8eea1c3822] In this regulation—
 
 - “**relevant conviction**” means a notifiable conviction within the meaning given in paragraph 4 of Schedule 1;
 - “**road transport undertaking**” means an undertaking that involves the use of a goods vehicle authorised to be used under an operator’s licence.
 
-### 29. Continuance of licence on death, bankruptcy etc[^key-9b1d3eae3f1802b442c16f688bd1e5a9]
+### 29. Continuance of licence on death, bankruptcy etc[^c-9b1d3eae3f1802b442c16f688bd1e5a9]
 
 (1) In this regulation, “actual holder” in relation to a licence means the person to whom the licence was issued.
 
@@ -474,15 +474,15 @@ from the date of the coming into force of that direction.
 - (a) any goods vehicle which has been in the lawful possession of the actual holder of the licence shall for the purposes of the 2010 Act be treated as if it was in the lawful possession of that person; and
 - (b) if the licence is a standard licence, nothing in section 24 shall oblige the Department to revoke the licence by reason only of that person not satisfying the requirement of professional competence.
 
-### 30. Offences[^key-053700bb635dac43e261493aa7dc0ebf]
+### 30. Offences[^c-053700bb635dac43e261493aa7dc0ebf]
 
 Any contravention of, or failure to comply with, a provision in regulations 21(3) and (4), 23, 24, 25(1) and (3), 26(1), (2) and (3) or 28(6) is an offence for the purposes of section 57(8).
 
-### 31. Period for service of notice of review on ground of procedural irregularity[^key-bee7a07bd96965e72ae4be5ea4fe967e]
+### 31. Period for service of notice of review on ground of procedural irregularity[^c-bee7a07bd96965e72ae4be5ea4fe967e]
 
 The period prescribed for the purposes of section 34(2)(a) is 2 months.
 
-### 32. Meaning of relevant weight[^key-b544c36843f78513a53bdd8a93ea9127]
+### 32. Meaning of relevant weight[^c-b544c36843f78513a53bdd8a93ea9127]
 
 (1) A motor vehicle or trailer of any prescribed class referred to in section 4(3) means any vehicle described in section 1(1) as needing an operator’s licence, and the relevant weight of such a vehicle is its revenue weight.
 
@@ -505,7 +505,7 @@ Department of the Environment
 
 Regulation 3(3)
 
-### 1. Information to be given under regulation 3[^key-4a8514dd99269fec47587128104afc43]
+### 1. Information to be given under regulation 3[^c-4a8514dd99269fec47587128104afc43]
 
 The information referred to in regulation 3(3) is—
 
@@ -523,7 +523,7 @@ The information referred to in regulation 3(3) is—
   - (ii) any company of which that company is a subsidiary; and
 - (i) where the vehicles referred to in the statement under regulation 3(2) are proposed to be operated by the applicant in partnership with other persons, the names of those other persons.
 
-### 2. Relevant person[^key-8a9499efc0fd7fecefbb409408a3067e]
+### 2. Relevant person[^c-8a9499efc0fd7fecefbb409408a3067e]
 
 In this Schedule “relevant person” means any of the following persons—
 
@@ -534,7 +534,7 @@ In this Schedule “relevant person” means any of the following persons—
 - (e) any company of which any such person as is mentioned in sub-paragraph (c) or (d) is or has been a director; or
 - (f) where the applicant is a company, any company of which the applicant is a subsidiary.
 
-### 3. Relevant activities[^key-750fb201ec75b32b15803d151df50332]
+### 3. Relevant activities[^c-750fb201ec75b32b15803d151df50332]
 
 In paragraph 1(e) “relevant activities” means any of the following—
 
@@ -542,7 +542,7 @@ In paragraph 1(e) “relevant activities” means any of the following—
 - (b) activities as a person employed for the purposes of any such trade or business; or
 - (c) activities as a director of a company carrying on any such trade or business.
 
-### 4. Notifiable conviction[^key-812835dbff1d6571841957a9afc15fd7]
+### 4. Notifiable conviction[^c-812835dbff1d6571841957a9afc15fd7]
 
 (1) For the purposes of regulation 3(4) and paragraph 1(f) a “notifiable conviction” means any conviction or penalty incurred by a relevant person pursuant to an offence committed under the law of any part of the United Kingdom or any corresponding offence under the law of any country or territory outside the United Kingdom;
 
@@ -551,22 +551,22 @@ In paragraph 1(e) “relevant activities” means any of the following—
 - (a) any conviction or penalty incurred by a relevant person includes any conviction or penalty incurred by a partner, transport manager, employee or agent of that person; and
 - (b) any conviction which is spent for the purposes of the Rehabilitation of Offenders (Northern Ireland) Order 1978[^f00011] shall be disregarded.
 
-## SCHEDULE 2 — NOTICE OF APPLICATION FOR HEAVY GOODS VEHICLE LICENCE OR VARIATION OF HEAVY GOODS VEHICLE LICENCE[^key-8846536fdec83ad24988fa64e8db33a0]
+## SCHEDULE 2 — NOTICE OF APPLICATION FOR HEAVY GOODS VEHICLE LICENCE OR VARIATION OF HEAVY GOODS VEHICLE LICENCE[^c-8846536fdec83ad24988fa64e8db33a0]
 
 Regulation 6(2)
 
-**1.**[^key-9bb2627744665134697d7020b37cb63e] The information to be given in the notice of application is—
+**1.**[^c-9bb2627744665134697d7020b37cb63e] The information to be given in the notice of application is—
 
 - (a) name of applicant;
 - (b) trading name, if any;
 - (c) address for receipt of correspondence;
 - (d) whether the application is in respect of a new licence, or the variation of a licence;
 - (e) the place or places proposed to be used as an operating centre or centres (including, if available, the postal address or addresses);
-- (f) the number of heavy goods vehicles[^key-4c6f817f6815c5a695f7deea93420e88] proposed to be kept at each operating centre or centres;
-- (g) the number of heavy goods vehicles[^key-4b599b5d0385e3d3958f426a13b6b552] now kept, if different; and
+- (f) the number of heavy goods vehicles[^c-4c6f817f6815c5a695f7deea93420e88] proposed to be kept at each operating centre or centres;
+- (g) the number of heavy goods vehicles[^c-4b599b5d0385e3d3958f426a13b6b552] now kept, if different; and
 - (h) in respect of an existing licence, details of any proposed changes to or removal of existing conditions or undertakings affecting an operating centre.
 
-**2.**[^key-04a43bfd494a15d51cd37eddeff47e86] Every notice shall contain the following wording—
+**2.**[^c-04a43bfd494a15d51cd37eddeff47e86] Every notice shall contain the following wording—
 
 > Owners or occupiers of land (including buildings) near the operating centre(s) who believe that their use or enjoyment of that land would be affected, should make written representations to the Department stating their reasons, within 21 days of this notice. Representors must at the same time send a copy of their representations to the applicant at the address given at the top of this notice. A Guide to making representations is available from the Department
 
@@ -576,7 +576,7 @@ Regulation 6(2)
 
 Regulation 18
 
-### 1. Notification of an inquiry[^key-ef2a9cda2f24991e1db24387b840998a]
+### 1. Notification of an inquiry[^c-ef2a9cda2f24991e1db24387b840998a]
 
 (1) The Department shall send to every person entitled to appear in accordance with paragraph 3 at an inquiry written notice of the date, time and place fixed for the holding of the inquiry. Such notice shall be sent at least 21 days before the date so fixed.
 
@@ -593,7 +593,7 @@ Regulation 18
 - (a) if the date, time and place of the adjourned inquiry are announced at the inquiry before the adjournment, no further notice of that date, time and place shall be required; and
 - (b) sub-paragraphs (1) and (2) shall have effect in relation to an adjourned inquiry as if for “21 days” there were substituted “7 days”.
 
-### 2. Admission to an inquiry[^key-39aa02a5043f27a39d5a1ed77ea06686]
+### 2. Admission to an inquiry[^c-39aa02a5043f27a39d5a1ed77ea06686]
 
 (1) Subject to sub-paragraphs (2) to (4), an inquiry shall be held in public.
 
@@ -609,7 +609,7 @@ that it is just and reasonable for to do.
 
 (4) Without prejudice to sub-paragraph (2), where any question relating to the appropriate financial resources of any person is to be or is being considered during an inquiry, the Department may exclude such persons as it thinks fit from the part of the inquiry during which that question is considered.
 
-### 3. Appearances at an inquiry[^key-a25c74b11a109df63e1498066822a24c]
+### 3. Appearances at an inquiry[^c-a25c74b11a109df63e1498066822a24c]
 
 (1) The following persons shall be entitled to appear at an inquiry relating to an application namely—
 
@@ -623,7 +623,7 @@ that it is just and reasonable for to do.
 
 (4) If, in relation to any proceedings,
 
-- (a) a transport manager has been given notice under regulation 14[^key-88d8a5606669720bf6328ac54501e62b] of the Qualification of Operators Regulations that an issue in the proceedings is whether that person is of good repute or professionally competent;
+- (a) a transport manager has been given notice under regulation 14[^c-88d8a5606669720bf6328ac54501e62b] of the Qualification of Operators Regulations that an issue in the proceedings is whether that person is of good repute or professionally competent;
 - (b) the transport manager has duly made a representation under that regulation; and
 - (c) the issue is to be considered at an inquiry,
 
@@ -633,7 +633,7 @@ the transport manager shall be entitled to appear at the inquiry.
 
 (6) Any person entitled or permitted to appear at an inquiry may do so on his own behalf or be represented by counsel, solicitor or, at the discretion of the Department, by any other person.
 
-### 4. Procedure at inquiry[^key-b7f07e489cc2f62675135baeb1557086]
+### 4. Procedure at inquiry[^c-b7f07e489cc2f62675135baeb1557086]
 
 (1) Except as otherwise provided in this Schedule, the Department shall determine the procedure at an inquiry.
 
@@ -662,7 +662,7 @@ which it considers to be irrelevant, repetitious, frivolous or vexatious.
 
 (9) The Department may from time to time adjourn an inquiry.
 
-### 5. Giving of notice[^key-3858e85e4b51b2a0406abae5674483c7]
+### 5. Giving of notice[^c-3858e85e4b51b2a0406abae5674483c7]
 
 (1) A notice required or authorised to be sent to a person under this Schedule may be effected by—
 
@@ -683,11 +683,11 @@ which it considers to be irrelevant, repetitious, frivolous or vexatious.
 
 (4) Where a person has in the licence-holder’s application notified the Department of an address, or, subsequently notified a new address under regulation 23, at which documents may be given for the purposes of correspondence that address shall also be the person’s proper address for service for the purposes mentioned in sub-paragraph (3) or, as the case may be, the person’s proper address for those purposes in substitution for that previously notified.
 
-### 6. Irregularities in the giving of notices[^key-0df144cab186d840204b091212d5f05e]
+### 6. Irregularities in the giving of notices[^c-0df144cab186d840204b091212d5f05e]
 
 Where a notice of the date, time and place for the holding of an inquiry is not given in accordance with this Schedule, the Department may nevertheless proceed with the inquiry as if notice had been duly given provided it is satisfied that no injustice or in convenience would be caused.
 
-### 7. Interpretation[^key-ff29ea3282cb545232dedf1b69f74dca]
+### 7. Interpretation[^c-ff29ea3282cb545232dedf1b69f74dca]
 
 In this Schedule “inquiry” means an inquiry held for the purposes of the 2010 Act.
 
@@ -695,9 +695,9 @@ In this Schedule “inquiry” means an inquiry held for the purposes of the 201
 
 Regulation 28(3)
 
-**1.**[^key-46f5dc25e41b3ed4acf034e3d58a9ce6] The 2010 Act and these Regulations have effect as if any reference (except in this Schedule) to a provision which is modified by this Schedule were a reference to that provision as so modified.
+**1.**[^c-46f5dc25e41b3ed4acf034e3d58a9ce6] The 2010 Act and these Regulations have effect as if any reference (except in this Schedule) to a provision which is modified by this Schedule were a reference to that provision as so modified.
 
-**2.**[^key-61e45b80e8aefd8eaf1228945b107a8c] The 2010 Act has effect as if—
+**2.**[^c-61e45b80e8aefd8eaf1228945b107a8c] The 2010 Act has effect as if—
 
 - (a) goods vehicles in the lawful possession of the subsidiary were in the lawful possession of the holding company;
 - (b) where a goods vehicle is used in circumstances in which, but for the provisions of regulation 28 the subsidiary would be deemed to be the user, the holding company were the user;
@@ -727,7 +727,7 @@ Regulation 28(3)
 
     .
 
-**3.**[^key-75fc4395d63970bbb4da881aef5a7d85] These Regulations shall have effect as if in regulation 24 the reference to the licence-holder included a reference to the subsidiary.
+**3.**[^c-75fc4395d63970bbb4da881aef5a7d85] These Regulations shall have effect as if in regulation 24 the reference to the licence-holder included a reference to the subsidiary.
 
 EXPLANATORY NOTE
 
@@ -757,162 +757,162 @@ A Regulatory Impact Assessment has been prepared and copies are available from T
 
 [^f00001]: Footnote: [2010 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2)
 
-[^key-6921651dffe8cc6e8e90d582cc87bbd4]: Commencement: Reg. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-6921651dffe8cc6e8e90d582cc87bbd4]: Commencement: Reg. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-f3d987cca70899dabafa443e5eaaab98]: Commencement: Reg. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-f3d987cca70899dabafa443e5eaaab98]: Commencement: Reg. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
 [^f00002]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46)
 
 [^f00003]: Footnote: [1890 c.39](https://www.legislation.gov.uk/ukpga/1890/39)
 
-[^key-672ea086cc2412fcb66955d94c4d2b00]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/261/regulation/2/1) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [125(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/125/a)
+[^c-672ea086cc2412fcb66955d94c4d2b00]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/261/regulation/2/1) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [125(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/125/a)
 
 [^f00004]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22)
 
 [^f00005]: Footnote: [S.R. 2012 No. 257](https://www.legislation.gov.uk/nisr/2012/257)
 
-[^key-d33873a02034570a6fa68e9b62f40252]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/261/regulation/2/1) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [125(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/125/b)
+[^c-d33873a02034570a6fa68e9b62f40252]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/261/regulation/2/1) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [125(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/125/b)
 
-[^key-410e9cdd59467c99ab74205fa3863369]: Commencement: Reg. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-410e9cdd59467c99ab74205fa3863369]: Commencement: Reg. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-3cd9e7e61a87528bd614e9ed0ac51019]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/3/2/b) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [126](https://www.legislation.gov.uk/uksi/2022/293/regulation/126)
+[^c-3cd9e7e61a87528bd614e9ed0ac51019]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/3/2/b) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [126](https://www.legislation.gov.uk/uksi/2022/293/regulation/126)
 
-[^key-a03117531291fff5313b152d386bca29]: Commencement: Reg. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-a03117531291fff5313b152d386bca29]: Commencement: Reg. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-10c8d52ae6a14fd291f406db85b08025]: Commencement: Reg. 5 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-10c8d52ae6a14fd291f406db85b08025]: Commencement: Reg. 5 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-186dcea7368511d2a4521b115d8875f9]: Commencement: Reg. 6 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-186dcea7368511d2a4521b115d8875f9]: Commencement: Reg. 6 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-d2a39c23dc2af47f0b863528dcfda100]: Commencement: Reg. 7 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-d2a39c23dc2af47f0b863528dcfda100]: Commencement: Reg. 7 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-db867c98bb7a6de1bdecf5b60b705947]: Commencement: Reg. 8 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-db867c98bb7a6de1bdecf5b60b705947]: Commencement: Reg. 8 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-8f3fd87bf6c87d78c4151c057d5e7e1e]: Commencement: Reg. 9 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-8f3fd87bf6c87d78c4151c057d5e7e1e]: Commencement: Reg. 9 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-d67a695d2780f7957939431df6114bd2]: Commencement: Reg. 10 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-d67a695d2780f7957939431df6114bd2]: Commencement: Reg. 10 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-40ea3f98a095ec212ef8c1f6ec2cbca5]: Commencement: Reg. 11 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-40ea3f98a095ec212ef8c1f6ec2cbca5]: Commencement: Reg. 11 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-aeb32b781d78f7bfdcfc1d95d7e1f43c]: Commencement: Reg. 12 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-aeb32b781d78f7bfdcfc1d95d7e1f43c]: Commencement: Reg. 12 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-0df337681d91190a2b8cedbb561a259f]: Commencement: Reg. 13 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-0df337681d91190a2b8cedbb561a259f]: Commencement: Reg. 13 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-1d1da96577ebf9132181362c76e4e9c9]: Textual amendment: Words in [reg. 13(a)](https://www.legislation.gov.uk/nisr/2012/261/regulation/13/a) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [127(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/127/a)
+[^c-1d1da96577ebf9132181362c76e4e9c9]: Textual amendment: Words in [reg. 13(a)](https://www.legislation.gov.uk/nisr/2012/261/regulation/13/a) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [127(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/127/a)
 
-[^key-e45cfa9937c081462660846cc2f7aed7]: Textual amendment: Words in [reg. 13(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/13/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [127(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/127/a)
+[^c-e45cfa9937c081462660846cc2f7aed7]: Textual amendment: Words in [reg. 13(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/13/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [127(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/127/a)
 
-[^key-7c366f566ad5aee5e6229ff832423b3a]: Textual amendment: Words in [reg. 13(c)](https://www.legislation.gov.uk/nisr/2012/261/regulation/13/c) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [127(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/127/b)
+[^c-7c366f566ad5aee5e6229ff832423b3a]: Textual amendment: Words in [reg. 13(c)](https://www.legislation.gov.uk/nisr/2012/261/regulation/13/c) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [127(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/127/b)
 
-[^key-7da139ce6a95694110fac7c7081e5a47]: Textual amendment: Words in [reg. 13(d)](https://www.legislation.gov.uk/nisr/2012/261/regulation/13/d) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [127(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/127/b)
+[^c-7da139ce6a95694110fac7c7081e5a47]: Textual amendment: Words in [reg. 13(d)](https://www.legislation.gov.uk/nisr/2012/261/regulation/13/d) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [127(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/127/b)
 
-[^key-80c44df9723264884840c50ae30a25d8]: Commencement: Reg. 14 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-80c44df9723264884840c50ae30a25d8]: Commencement: Reg. 14 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-9b036e75114ec128828794d1d2e70c9e]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/nisr/2012/261/regulation/14) heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [128(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/128/1)
+[^c-9b036e75114ec128828794d1d2e70c9e]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/nisr/2012/261/regulation/14) heading inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [128(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/128/1)
 
-[^key-5c72b0413bef58199b1ce265c9eaad9f]: Textual amendment: Words in [reg. 14(1)(d)](https://www.legislation.gov.uk/nisr/2012/261/regulation/14/1/d) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [128(2)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/128/2/a)
+[^c-5c72b0413bef58199b1ce265c9eaad9f]: Textual amendment: Words in [reg. 14(1)(d)](https://www.legislation.gov.uk/nisr/2012/261/regulation/14/1/d) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [128(2)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/128/2/a)
 
-[^key-799cb2d11ab8a28298385fc7f031c2f7]: Textual amendment: Words in [reg. 14(1)(e)](https://www.legislation.gov.uk/nisr/2012/261/regulation/14/1/e) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [128(2)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/128/2/a)
+[^c-799cb2d11ab8a28298385fc7f031c2f7]: Textual amendment: Words in [reg. 14(1)(e)](https://www.legislation.gov.uk/nisr/2012/261/regulation/14/1/e) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [128(2)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/128/2/a)
 
-[^key-db5487b91417f0608a9436b7ebdc7944]: Textual amendment: Words in [reg. 14(1)(h)](https://www.legislation.gov.uk/nisr/2012/261/regulation/14/1/h) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [128(2)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/128/2/b)
+[^c-db5487b91417f0608a9436b7ebdc7944]: Textual amendment: Words in [reg. 14(1)(h)](https://www.legislation.gov.uk/nisr/2012/261/regulation/14/1/h) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [128(2)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/128/2/b)
 
 [^f00006]: Footnote: [S.I. 1991 No.1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)
 
-[^key-cb60e656f3d142d6598ff7abf1e3faf0]: Commencement: Reg. 15 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-cb60e656f3d142d6598ff7abf1e3faf0]: Commencement: Reg. 15 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-e1adaab0a49400dc78d8075ea2cb5e83]: Commencement: Reg. 16 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-e1adaab0a49400dc78d8075ea2cb5e83]: Commencement: Reg. 16 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-b14b7dfcbde0a542bb6419948e08bdc8]: Commencement: Reg. 17 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-b14b7dfcbde0a542bb6419948e08bdc8]: Commencement: Reg. 17 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-f93008d1cc494266e9aef230f6738c95]: Commencement: Reg. 18 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-f93008d1cc494266e9aef230f6738c95]: Commencement: Reg. 18 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-9eac224c4597fc8d0d2a9e56c00583b1]: Commencement: Reg. 19 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-9eac224c4597fc8d0d2a9e56c00583b1]: Commencement: Reg. 19 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-a3af4bd38d77cba1ed949956c1c7911d]: Commencement: Reg. 20 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-a3af4bd38d77cba1ed949956c1c7911d]: Commencement: Reg. 20 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-82f13f04e9e5255027c8741bf4d2cb7f]: Commencement: Reg. 21 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-82f13f04e9e5255027c8741bf4d2cb7f]: Commencement: Reg. 21 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2012 No. 260](https://www.legislation.gov.uk/nisr/2012/260)
 
-[^key-87252d41f9971b18f675cf9396b36770]: Commencement: Reg. 22 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-87252d41f9971b18f675cf9396b36770]: Commencement: Reg. 22 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-d286c3892866083f531e40af79840221]: Commencement: Reg. 23 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-d286c3892866083f531e40af79840221]: Commencement: Reg. 23 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-fcc7712644829c5bf9a449420d7e1fa7]: Commencement: Reg. 24 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-fcc7712644829c5bf9a449420d7e1fa7]: Commencement: Reg. 24 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-2c6f7bdc57ef11172fde77a81e4c7551]: Commencement: Reg. 25 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-2c6f7bdc57ef11172fde77a81e4c7551]: Commencement: Reg. 25 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-435b54ea91f6a83723b8cf2b5f2adf90]: Commencement: Reg. 26 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-435b54ea91f6a83723b8cf2b5f2adf90]: Commencement: Reg. 26 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-bd7247fa1de61a8564055280cb1cf403]: Commencement: Reg. 27 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-bd7247fa1de61a8564055280cb1cf403]: Commencement: Reg. 27 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-337432174a6712b8e504a844bd6d31a7]: Textual amendment: [Reg. 27(3)(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/3/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(1)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/1/a)
+[^c-337432174a6712b8e504a844bd6d31a7]: Textual amendment: [Reg. 27(3)(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/3/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(1)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/1/a)
 
-[^key-2f1d85dbd8120c8273479a5b1f14beb1]: Textual amendment: [Reg. 27(3)(c)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/3/c) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(1)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/1/b)
+[^c-2f1d85dbd8120c8273479a5b1f14beb1]: Textual amendment: [Reg. 27(3)(c)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/3/c) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(1)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/1/b)
 
-[^key-38d970ea1ef687f39411faef934a4a06]: Textual amendment: [Reg. 27(7)(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/7/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(2)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/2/a)
+[^c-38d970ea1ef687f39411faef934a4a06]: Textual amendment: [Reg. 27(7)(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/7/b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(2)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/2/a)
 
-[^key-1ba0face53b9c765a48857e43b539cda]: Textual amendment: [Reg. 27(7)(c)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/7/c) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(2)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/2/b)
+[^c-1ba0face53b9c765a48857e43b539cda]: Textual amendment: [Reg. 27(7)(c)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/7/c) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(2)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/2/b)
 
 [^f00008]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
 
-[^key-5db6921a58348c963bd4ff5f3ed18200]: Textual amendment: [Reg. 27(12)(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/12/b) and word omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/3)
+[^c-5db6921a58348c963bd4ff5f3ed18200]: Textual amendment: [Reg. 27(12)(b)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/12/b) and word omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [129(3)](https://www.legislation.gov.uk/uksi/2022/293/regulation/129/3)
 
-[^key-90255a352ca98bbf15d75d5ad78c3db0]: Commencement: Reg. 28 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-90255a352ca98bbf15d75d5ad78c3db0]: Commencement: Reg. 28 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-30334a7c3b453195cdc0fd8eea1c3822]: Textual amendment: [Reg. 28(8)](https://www.legislation.gov.uk/nisr/2012/261/regulation/28/8) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [130](https://www.legislation.gov.uk/uksi/2022/293/regulation/130)
+[^c-30334a7c3b453195cdc0fd8eea1c3822]: Textual amendment: [Reg. 28(8)](https://www.legislation.gov.uk/nisr/2012/261/regulation/28/8) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [130](https://www.legislation.gov.uk/uksi/2022/293/regulation/130)
 
-[^key-9b1d3eae3f1802b442c16f688bd1e5a9]: Commencement: Reg. 29 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-9b1d3eae3f1802b442c16f688bd1e5a9]: Commencement: Reg. 29 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-053700bb635dac43e261493aa7dc0ebf]: Commencement: Reg. 30 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-053700bb635dac43e261493aa7dc0ebf]: Commencement: Reg. 30 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-bee7a07bd96965e72ae4be5ea4fe967e]: Commencement: Reg. 31 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-bee7a07bd96965e72ae4be5ea4fe967e]: Commencement: Reg. 31 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-b544c36843f78513a53bdd8a93ea9127]: Commencement: Reg. 32 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-b544c36843f78513a53bdd8a93ea9127]: Commencement: Reg. 32 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
 [^f00009]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22); section 60A was inserted by paragraph 26 of Schedule 4 to the Finance Act [1995 (c.4)](https://www.legislation.gov.uk/ukpga/1995/4) and section 61A was inserted by paragraph 28 of Schedule 4 to the Finance Act [1995 (c.4)](https://www.legislation.gov.uk/ukpga/1995/4)
 
-[^key-4a8514dd99269fec47587128104afc43]: Commencement: Sch. 1 para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-4a8514dd99269fec47587128104afc43]: Commencement: Sch. 1 para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
 [^f00010]: Footnote: [S.R. 1996 No. 145](https://www.legislation.gov.uk/nisr/1996/145)
 
-[^key-8a9499efc0fd7fecefbb409408a3067e]: Commencement: Sch. 1 para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-8a9499efc0fd7fecefbb409408a3067e]: Commencement: Sch. 1 para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-750fb201ec75b32b15803d151df50332]: Commencement: Sch. 1 para. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-750fb201ec75b32b15803d151df50332]: Commencement: Sch. 1 para. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-812835dbff1d6571841957a9afc15fd7]: Commencement: Sch. 1 para. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-812835dbff1d6571841957a9afc15fd7]: Commencement: Sch. 1 para. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908)
 
-[^key-8846536fdec83ad24988fa64e8db33a0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2012/261/schedule/2) heading substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [131(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/131/1)
+[^c-8846536fdec83ad24988fa64e8db33a0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2012/261/schedule/2) heading substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [131(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/131/1)
 
-[^key-9bb2627744665134697d7020b37cb63e]: Commencement: Sch. 2 para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-9bb2627744665134697d7020b37cb63e]: Commencement: Sch. 2 para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-4c6f817f6815c5a695f7deea93420e88]: Textual amendment: Words in [Sch. 2 para. 1(f)](https://www.legislation.gov.uk/nisr/2012/261/schedule/2/paragraph/1/f) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [131(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/131/2)
+[^c-4c6f817f6815c5a695f7deea93420e88]: Textual amendment: Words in [Sch. 2 para. 1(f)](https://www.legislation.gov.uk/nisr/2012/261/schedule/2/paragraph/1/f) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [131(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/131/2)
 
-[^key-4b599b5d0385e3d3958f426a13b6b552]: Textual amendment: Words in [Sch. 2 para. 1(g)](https://www.legislation.gov.uk/nisr/2012/261/schedule/2/paragraph/1/g) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [131(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/131/2)
+[^c-4b599b5d0385e3d3958f426a13b6b552]: Textual amendment: Words in [Sch. 2 para. 1(g)](https://www.legislation.gov.uk/nisr/2012/261/schedule/2/paragraph/1/g) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [131(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/131/2)
 
-[^key-04a43bfd494a15d51cd37eddeff47e86]: Commencement: Sch. 2 para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-04a43bfd494a15d51cd37eddeff47e86]: Commencement: Sch. 2 para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-ef2a9cda2f24991e1db24387b840998a]: Commencement: Sch. 3 para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-ef2a9cda2f24991e1db24387b840998a]: Commencement: Sch. 3 para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-39aa02a5043f27a39d5a1ed77ea06686]: Commencement: Sch. 3 para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-39aa02a5043f27a39d5a1ed77ea06686]: Commencement: Sch. 3 para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-a25c74b11a109df63e1498066822a24c]: Commencement: Sch. 3 para. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-a25c74b11a109df63e1498066822a24c]: Commencement: Sch. 3 para. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-88d8a5606669720bf6328ac54501e62b]: Textual amendment: Word in [Sch. 3 para. 3(4)(a)](https://www.legislation.gov.uk/nisr/2012/261/schedule/3/paragraph/3/4/a) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [132](https://www.legislation.gov.uk/uksi/2022/293/regulation/132)
+[^c-88d8a5606669720bf6328ac54501e62b]: Textual amendment: Word in [Sch. 3 para. 3(4)(a)](https://www.legislation.gov.uk/nisr/2012/261/schedule/3/paragraph/3/4/a) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [132](https://www.legislation.gov.uk/uksi/2022/293/regulation/132)
 
-[^key-b7f07e489cc2f62675135baeb1557086]: Commencement: Sch. 3 para. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-b7f07e489cc2f62675135baeb1557086]: Commencement: Sch. 3 para. 4 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-3858e85e4b51b2a0406abae5674483c7]: Commencement: Sch. 3 para. 5 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-3858e85e4b51b2a0406abae5674483c7]: Commencement: Sch. 3 para. 5 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
 [^f00012]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0df144cab186d840204b091212d5f05e]: Commencement: Sch. 3 para. 6 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-0df144cab186d840204b091212d5f05e]: Commencement: Sch. 3 para. 6 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-ff29ea3282cb545232dedf1b69f74dca]: Commencement: Sch. 3 para. 7 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-ff29ea3282cb545232dedf1b69f74dca]: Commencement: Sch. 3 para. 7 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-46f5dc25e41b3ed4acf034e3d58a9ce6]: Commencement: Sch. 4 para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-46f5dc25e41b3ed4acf034e3d58a9ce6]: Commencement: Sch. 4 para. 1 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-61e45b80e8aefd8eaf1228945b107a8c]: Commencement: Sch. 4 para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-61e45b80e8aefd8eaf1228945b107a8c]: Commencement: Sch. 4 para. 2 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
 
-[^key-75fc4395d63970bbb4da881aef5a7d85]: Commencement: Sch. 4 para. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)
+[^c-75fc4395d63970bbb4da881aef5a7d85]: Commencement: Sch. 4 para. 3 in operation at 1.7.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1)

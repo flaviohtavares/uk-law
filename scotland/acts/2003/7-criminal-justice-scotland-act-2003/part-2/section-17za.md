@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17ZA. Release on licence: provision of information to person supporting victim[^key-96daf3e79a88160dd7f1f4327d74ba78]
+## 17ZA. Release on licence: provision of information to person supporting victim[^c-96daf3e79a88160dd7f1f4327d74ba78]
 
 *Extent: S*
 
@@ -37,10 +37,10 @@ summary: ''
 (5) This section does not apply—
 
 - (a) as respects release under section 3 of the 1993 Act (release on compassionate grounds),
-- (b)[^key-3a0a11ba9c8b5740b994dfec4d65c8f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3a0a11ba9c8b5740b994dfec4d65c8f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96daf3e79a88160dd7f1f4327d74ba78]: Textual amendment: [S. 17ZA](https://www.legislation.gov.uk/asp/2003/7/section/17ZA) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 14(4)](https://www.legislation.gov.uk/asp/2023/4/section/14/4), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
+[^c-96daf3e79a88160dd7f1f4327d74ba78]: Textual amendment: [S. 17ZA](https://www.legislation.gov.uk/asp/2003/7/section/17ZA) inserted (26.5.2024) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 14(4)](https://www.legislation.gov.uk/asp/2023/4/section/14/4), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
 
-[^key-3a0a11ba9c8b5740b994dfec4d65c8f3]: Textual amendment: [S. 17ZA(5)(b)](https://www.legislation.gov.uk/asp/2003/7/section/17ZA/5/b) repealed (19.3.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 35(4)](https://www.legislation.gov.uk/asp/2025/12/section/35/4), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-3a0a11ba9c8b5740b994dfec4d65c8f3]: Textual amendment: [S. 17ZA(5)(b)](https://www.legislation.gov.uk/asp/2003/7/section/17ZA/5/b) repealed (19.3.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 35(4)](https://www.legislation.gov.uk/asp/2025/12/section/35/4), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

@@ -35,22 +35,22 @@ laying down implementing technical standards with regard to currencies with cons
 
 (Text with EEA relevance) (revoked)
 
-[^key-8c8ab6b671eedc721eb3c972dfb29675]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c8ab6b671eedc721eb3c972dfb29675]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-8c8ab6b671eedc721eb3c972dfb29675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8c8ab6b671eedc721eb3c972dfb29675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8c8ab6b671eedc721eb3c972dfb29675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8c8ab6b671eedc721eb3c972dfb29675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c8ab6b671eedc721eb3c972dfb29675]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c8ab6b671eedc721eb3c972dfb29675]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — List of currencies with constraints on the availability of liquid assets[^key-8c8ab6b671eedc721eb3c972dfb29675]
+## ANNEX — List of currencies with constraints on the availability of liquid assets[^c-8c8ab6b671eedc721eb3c972dfb29675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8c8ab6b671eedc721eb3c972dfb29675]: Textual amendment: Regulation revoked (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(1)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/1/c)
+[^c-8c8ab6b671eedc721eb3c972dfb29675]: Textual amendment: Regulation revoked (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [13(1)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/13/1/c)

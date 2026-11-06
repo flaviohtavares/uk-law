@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Sheep Annual Premium (Amendment) Regulations 2001 (revoked)[^key-7fda64cc7fcf3aa470975fabad9c37b0]
+The Sheep Annual Premium (Amendment) Regulations 2001 (revoked)[^c-7fda64cc7fcf3aa470975fabad9c37b0]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 1st March 2001
 
-[^key-7fda64cc7fcf3aa470975fabad9c37b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fda64cc7fcf3aa470975fabad9c37b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-7fda64cc7fcf3aa470975fabad9c37b0]
+## 1. Title and commencement[^c-7fda64cc7fcf3aa470975fabad9c37b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7fda64cc7fcf3aa470975fabad9c37b0]
+## 2. Interpretation[^c-7fda64cc7fcf3aa470975fabad9c37b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-7fda64cc7fcf3aa470975fabad9c37b0]
+## 3. Amendment of the principal Regulations[^c-7fda64cc7fcf3aa470975fabad9c37b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Sheep and Goats Identification (England) Order 2000[^key-7fda64cc7fcf3aa470975fabad9c37b0]
+## 4. Amendment of the Sheep and Goats Identification (England) Order 2000[^c-7fda64cc7fcf3aa470975fabad9c37b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fda64cc7fcf3aa470975fabad9c37b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fda64cc7fcf3aa470975fabad9c37b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7fda64cc7fcf3aa470975fabad9c37b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fda64cc7fcf3aa470975fabad9c37b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fda64cc7fcf3aa470975fabad9c37b0]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/1), [15(6)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/219/schedule/3) (with [reg. 15(8)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15))
+[^c-7fda64cc7fcf3aa470975fabad9c37b0]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/1), [15(6)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/219/schedule/3) (with [reg. 15(8)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15))

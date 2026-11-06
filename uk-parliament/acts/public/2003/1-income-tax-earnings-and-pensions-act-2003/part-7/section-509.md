@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where—
 
-- (a) as a result of shares ceasing to be subject to a Schedule 2[^key-fd41cfffd2dfe8a5a116a68951e1955c] SIP, there is an amount that counts as employment income of a participant by virtue of the SIP code, and
+- (a) as a result of shares ceasing to be subject to a Schedule 2[^c-fd41cfffd2dfe8a5a116a68951e1955c] SIP, there is an amount that counts as employment income of a participant by virtue of the SIP code, and
 - (b) the shares are readily convertible assets,
 
 section 696 (readily convertible assets) applies as follows.
@@ -34,7 +34,7 @@ section 696 (readily convertible assets) applies as follows.
 
 (3) In addition, subsection (2) of section 696 applies as if the reference in that subsection to the amount of income likely to be PAYE income in respect of the provision of the asset were a reference to the amount which is likely to count as employment income by virtue of the SIP code as a result of the shares ceasing to be subject to the plan.
 
-(4) In this section “**readily convertible asset**” has the same meaning as in section 696 (see sections 701 and 702), but this is subject to subsections (5) and (6)[^key-d8ebcce163bed8b7a2fc214f273f7c1b].
+(4) In this section “**readily convertible asset**” has the same meaning as in section 696 (see sections 701 and 702), but this is subject to subsections (5) and (6)[^c-d8ebcce163bed8b7a2fc214f273f7c1b].
 
 (5) In determining for the purposes of this section (and of section 696 in its application in accordance with this section) whether the shares are readily convertible assets, any market for the shares which—
 
@@ -43,12 +43,12 @@ section 696 (readily convertible assets) applies as follows.
 
 is to be disregarded.
 
-(6)[^key-e242fed5d73df60c04ecc38a1e1431d2] In determining for the purposes of this section (and of section 696 in its application in accordance with this section) whether the shares are readily convertible assets, section 702 has effect with the omission of subsections (5A) to (5D).
+(6)[^c-e242fed5d73df60c04ecc38a1e1431d2] In determining for the purposes of this section (and of section 696 in its application in accordance with this section) whether the shares are readily convertible assets, section 702 has effect with the omission of subsections (5A) to (5D).
 
 ## Annotations
 
-[^key-fd41cfffd2dfe8a5a116a68951e1955c]: Textual amendment: Words in [s. 509(1)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/509/1/a) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 9](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/9), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-fd41cfffd2dfe8a5a116a68951e1955c]: Textual amendment: Words in [s. 509(1)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/509/1/a) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 9](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/9), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-d8ebcce163bed8b7a2fc214f273f7c1b]: Textual amendment: Words in s. 509(4) substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 11(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/11/2)
+[^c-d8ebcce163bed8b7a2fc214f273f7c1b]: Textual amendment: Words in s. 509(4) substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 11(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/11/2)
 
-[^key-e242fed5d73df60c04ecc38a1e1431d2]: Textual amendment: S. 509(6) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 11(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/11/3)
+[^c-e242fed5d73df60c04ecc38a1e1431d2]: Textual amendment: S. 509(6) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 11(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/11/3)

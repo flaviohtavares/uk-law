@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. The Approved Explosives Vehicle Requirements[^key-09b4fc41d31cc1fe96b87fa1f56bbbd1]
+## 11. The Approved Explosives Vehicle Requirements[^c-09b4fc41d31cc1fe96b87fa1f56bbbd1]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09b4fc41d31cc1fe96b87fa1f56bbbd1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1997/474/regulation/11) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-09b4fc41d31cc1fe96b87fa1f56bbbd1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1997/474/regulation/11) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

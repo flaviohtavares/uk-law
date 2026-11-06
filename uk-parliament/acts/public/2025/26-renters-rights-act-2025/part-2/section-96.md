@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Interpretation of Chapter 3[^key-e135b8da685898c3936a5bc846ebb10c]
+## 96. Interpretation of Chapter 3[^c-e135b8da685898c3936a5bc846ebb10c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e135b8da685898c3936a5bc846ebb10c]: Commencement: S. 96 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-e135b8da685898c3936a5bc846ebb10c]: Commencement: S. 96 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

@@ -45,7 +45,7 @@ was exercised on the employer to dismiss the employee; and that question shall b
 
 (6) Where the tribunal finds that the dismissal was to any extent caused or contributed to by any action of the complainant, it shall reduce the amount of the compensatory award by such proportion as it considers just and equitable having regard to that finding.
 
-(6A)[^key-cba41d45c5ea05de0282506beb372674] Where—
+(6A)[^c-cba41d45c5ea05de0282506beb372674] Where—
 
 - (a) the reason (or principal reason) for the dismissal is that the complainant made a protected disclosure; and
 - (b) it appears to the tribunal that the disclosure was not made in good faith,
@@ -62,6 +62,6 @@ the tribunal may, if it considers it just and equitable in all the circumstances
 
 [^c17626661]: Textual amendment: [2003 NI 15](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-cba41d45c5ea05de0282506beb372674]: Textual amendment: [Art. 157(6A)](https://www.legislation.gov.uk/nisi/1996/1919/article/157/6A) inserted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(5)](https://www.legislation.gov.uk/nia/2016/15/section/14/5), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
+[^c-cba41d45c5ea05de0282506beb372674]: Textual amendment: [Art. 157(6A)](https://www.legislation.gov.uk/nisi/1996/1919/article/157/6A) inserted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 14(5)](https://www.legislation.gov.uk/nia/2016/15/section/14/5), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
 
 [^c17626681]: Textual amendment: [2003 NI 15](https://www.legislation.gov.uk/nisi/2003)

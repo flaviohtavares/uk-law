@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Ancillary provision[^key-f355a14d217b4c5900173efc76232267]
+## 72. Ancillary provision[^c-f355a14d217b4c5900173efc76232267]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f355a14d217b4c5900173efc76232267]: Commencement: S. 72 in force at 30.1.2025, see [s. 73(1)](https://www.legislation.gov.uk/asp/2025/4/section/73/1)
+[^c-f355a14d217b4c5900173efc76232267]: Commencement: S. 72 in force at 30.1.2025, see [s. 73(1)](https://www.legislation.gov.uk/asp/2025/4/section/73/1)

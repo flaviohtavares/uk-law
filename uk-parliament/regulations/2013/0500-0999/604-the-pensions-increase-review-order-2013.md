@@ -48,11 +48,11 @@ In accordance with section 151(1) of the Social Security Administration Act 1992
 
 The Treasury now make the following Order in exercise of the powers conferred by section 59(1), (2), (5) and (5ZA) of the Social Security Pensions Act 1975[^f00004] and now vested in them[^f00005]:
 
-## 1. Citation and commencement[^key-3795eb15dcf9481c663187100af02b47]
+## 1. Citation and commencement[^c-3795eb15dcf9481c663187100af02b47]
 
 This Order may be cited as the Pensions Increase (Review) Order 2013 and comes into force on 8th April 2013.
 
-## 2. Interpretation[^key-7647249a7b0c3f230406adcdb0a1ed05]
+## 2. Interpretation[^c-7647249a7b0c3f230406adcdb0a1ed05]
 
 (1) In this Order—
 
@@ -69,7 +69,7 @@ This Order may be cited as the Pensions Increase (Review) Order 2013 and comes i
 
 (3) Where, for the purposes of this Order, it is necessary to calculate the number of complete months in any period an incomplete month shall be treated as a complete month if it consists of at least 16 days.
 
-## 3. Pension increases[^key-e733740fb6549e6e4ea544c24fa8dd88]
+## 3. Pension increases[^c-e733740fb6549e6e4ea544c24fa8dd88]
 
 (1) The pension authority may, if any of the conditions in paragraph (2) are fulfilled, increase the annual rate of an official pension in respect of any period on or after 8th April 2013 as follows—
 
@@ -90,7 +90,7 @@ This Order may be cited as the Pensions Increase (Review) Order 2013 and comes i
   - (ii) a substituted pension; or
   - (iii) a relevant injury pension.
 
-## 4. Increases in certain lump sums[^key-1d0c1185139f230325a76617049c9e54]
+## 4. Increases in certain lump sums[^c-1d0c1185139f230325a76617049c9e54]
 
 (1) This article applies to any lump sum or instalment of a lump sum which became payable on or after 9th April 2012 but before 8th April 2013.
 
@@ -102,7 +102,7 @@ where
 
 - A is the number of complete months in the period between the beginning date for the lump sum or, if later, 9th April 2012 and the date on which it became payable.
 
-## 5. Reductions in respect of guaranteed minimum pensions[^key-cdec40bc7c5b7547c372a14215fe0470]
+## 5. Reductions in respect of guaranteed minimum pensions[^c-cdec40bc7c5b7547c372a14215fe0470]
 
 The amount by reference to which any increase in the rate of an official pension provided for by this Order is to be calculated shall, in the case of a person—
 
@@ -123,11 +123,11 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 13th March 2013
 
-## SCHEDULE — Existing Orders[^key-6a65adf97b75ec7093b57cb3d1ede6fe]
+## SCHEDULE — Existing Orders[^c-6a65adf97b75ec7093b57cb3d1ede6fe]
 
 Article 2
 
-[^key-6a65adf97b75ec7093b57cb3d1ede6fe]
+[^c-6a65adf97b75ec7093b57cb3d1ede6fe]
 
 The Pensions Increase (Annual Review) Order 1972[^f00013], the Pensions Increase (Annual Review) Order 1973[^f00014], the Pensions Increase (Annual Review) Order 1974[^f00015], the Pensions Increase (Annual Review) Order 1975[^f00016], the Pensions Increase (Annual Review) Order 1976[^f00017], the Pensions Increase (Annual Review) Order 1977[^f00018], the Pensions Increase (Annual Review) Order 1978[^f00019], the Pensions Increase (Review) Order 1979[^f00020], the Pensions Increase (Review) Order 1980[^f00021], the Pensions Increase (Review) Order 1981[^f00022], the Pensions Increase (Review) Order 1982[^f00023], the Pensions Increase (Review) Order 1983[^f00024], the Pensions Increase (Review) Order 1984[^f00025], the Pensions Increase (Review) Order 1985[^f00026], the Pensions Increase (Review) Order 1986[^f00027], the Pensions Increase (Review) Order 1987[^f00028], the Pensions Increase (Review) Order 1988[^f00029], the Pensions Increase (Review) Order 1989[^f00030], the Pensions Increase (Review) Order 1990[^f00031], the Pensions Increase (Review) Order 1991[^f00032], the Pensions Increase (Review) Order 1992[^f00033], the Pensions Increase (Review) Order 1993[^f00034], the Pensions Increase (Review) Order 1994[^f00035], the Pensions Increase (Review) Order 1995[^f00036], the Pensions Increase (Review) Order 1996[^f00037], the Pensions Increase (Review) Order 1997[^f00038], the Pensions Increase (Review) Order 1998[^f00039], the Pensions Increase (Review) Order 1999[^f00040], the Pensions Increase (Review) Order 2000[^f00041], the Pensions Increase (Review) Order 2001[^f00042], the Pensions Increase (Review) Order 2002[^f00043], the Pensions Increase (Review) Order 2003[^f00044], the Pensions Increase (Review) Order 2004[^f00045], the Pensions Increase (Review) Order 2005[^f00046], the Pensions Increase (Review) Order 2006[^f00047], the Pensions Increase (Review) Order 2007[^f00048], the Pensions Increase (Review) Order 2008[^f00049], the Pensions Increase (Review) Order 2009[^f00050], Pensions Increase (Review) Order 2011[^f00051], and the Pensions Increase (Review) Order 2012[^f00052].
 
@@ -172,9 +172,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00005]: Footnote: By virtue of article 2(1)(c) and (d) of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)).
 
-[^key-3795eb15dcf9481c663187100af02b47]: Commencement: Art. 1 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+[^c-3795eb15dcf9481c663187100af02b47]: Commencement: Art. 1 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
 
-[^key-7647249a7b0c3f230406adcdb0a1ed05]: Commencement: Art. 2 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+[^c-7647249a7b0c3f230406adcdb0a1ed05]: Commencement: Art. 2 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
 
 [^f00006]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
@@ -188,11 +188,11 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00011]: Footnote: Section 8(2) was amended by section 1(5) of the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) and by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), section 39(1) and (4).
 
-[^key-e733740fb6549e6e4ea544c24fa8dd88]: Commencement: Art. 3 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+[^c-e733740fb6549e6e4ea544c24fa8dd88]: Commencement: Art. 3 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
 
-[^key-1d0c1185139f230325a76617049c9e54]: Commencement: Art. 4 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+[^c-1d0c1185139f230325a76617049c9e54]: Commencement: Art. 4 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
 
-[^key-cdec40bc7c5b7547c372a14215fe0470]: Commencement: Art. 5 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+[^c-cdec40bc7c5b7547c372a14215fe0470]: Commencement: Art. 5 in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
 
 [^f00012]: Footnote: The power of direction is vested in the Treasury by [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
@@ -200,7 +200,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^M_F_4984c242-a305-4408-beab-f75a876f5dbc]: Textual amendment: Art. 6 substituted (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 56(v)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/56/v); and Art. 6 substituted (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 35](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/35)
 
-[^key-6a65adf97b75ec7093b57cb3d1ede6fe]: Commencement: Sch. in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
+[^c-6a65adf97b75ec7093b57cb3d1ede6fe]: Commencement: Sch. in force at 8.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/604/article/1)
 
 [^f00013]: Footnote: [S.I. 1972/1298](https://www.legislation.gov.uk/uksi/1972/1298).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Temporary closure of and permitting vehicular use on public rights of way[^key-b6fc6f29b1f5ed3d6d7e324f503eeb90]
+## 11. Temporary closure of and permitting vehicular use on public rights of way[^c-b6fc6f29b1f5ed3d6d7e324f503eeb90]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) Without prejudice to the generality of paragraph (1), the undertaker may temporarily close, prohibit the use of, authorise the use of, restrict the use of, alter or divert—
 
-- (a) the public rights of way specified in column 2 of the table in Part 1 (public rights of way to be temporarily closed[^key-bd8dace9b65f46100f44f099ec15a6c2]) of Schedule 6 (public rights of way) to the extent specified in column 3 of that table; and
+- (a) the public rights of way specified in column 2 of the table in Part 1 (public rights of way to be temporarily closed[^c-bd8dace9b65f46100f44f099ec15a6c2]) of Schedule 6 (public rights of way) to the extent specified in column 3 of that table; and
 - (b) the public rights of way specified in column 2 of the table in Part 2 (temporary use of motor vehicles on public right of way) of Schedule 6 (public rights of way) to the extent specified in column 3 of that table.
 
 (4) The undertaker must not temporarily close, prohibit the use of, authorise the use of, restrict the use of, alter or divert—
@@ -44,14 +44,14 @@ summary: ''
 
 (5) Any person who suffers loss by the suspension of any private right of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
 
-(6) Without prejudice to the scope of paragraph (1), the undertaker may use any public right of way which has been temporarily closed[^key-6b2938b17e1467ab58ac4ea13191ba7d] under the powers conferred by this article and within the Order limits as a temporary working site.
+(6) Without prejudice to the scope of paragraph (1), the undertaker may use any public right of way which has been temporarily closed[^c-6b2938b17e1467ab58ac4ea13191ba7d] under the powers conferred by this article and within the Order limits as a temporary working site.
 
 (7) In this article expressions used in this article and in the 1984 Act have the same meaning.
 
 ## Annotations
 
-[^key-b6fc6f29b1f5ed3d6d7e324f503eeb90]: Commencement: Art. 11 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-b6fc6f29b1f5ed3d6d7e324f503eeb90]: Commencement: Art. 11 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-bd8dace9b65f46100f44f099ec15a6c2]: Textual amendment: Word in [art. 11(3)(a)](https://www.legislation.gov.uk/uksi/2024/796/article/11/3/a) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-bd8dace9b65f46100f44f099ec15a6c2]: Textual amendment: Word in [art. 11(3)(a)](https://www.legislation.gov.uk/uksi/2024/796/article/11/3/a) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
-[^key-6b2938b17e1467ab58ac4ea13191ba7d]: Textual amendment: Word in [art. 11(6)](https://www.legislation.gov.uk/uksi/2024/796/article/11/6) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-6b2938b17e1467ab58ac4ea13191ba7d]: Textual amendment: Word in [art. 11(6)](https://www.legislation.gov.uk/uksi/2024/796/article/11/6) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

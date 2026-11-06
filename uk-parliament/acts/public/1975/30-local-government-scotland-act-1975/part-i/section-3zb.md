@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3ZB. Appeal to the First-tier Tribunal[^key-93871727e77ad12c93639102184fb26d][^key-7ff6488584644d35b7bff98e07c222b0]
+## 3ZB. Appeal to the First-tier Tribunal[^c-93871727e77ad12c93639102184fb26d][^c-7ff6488584644d35b7bff98e07c222b0]
 
 *Extent: S*
 
-(1) A person who is the proprietor, tenant or occupier of lands and heritages may appeal to the First-tier Tribunal for Scotland[^key-39c2ac7309064e3397ae310d773b5510]—
+(1) A person who is the proprietor, tenant or occupier of lands and heritages may appeal to the First-tier Tribunal for Scotland[^c-39c2ac7309064e3397ae310d773b5510]—
 
 - (a) against a decision of the assessor, in relation to a proposal made by the person, under section 3ZA(6)(b) or (c),
 - (b) if—
@@ -80,8 +80,8 @@ summary: ''
 
 ## Annotations
 
-[^key-93871727e77ad12c93639102184fb26d]: Textual amendment: Ss. 3ZA, 3ZB inserted (5.11.2020 for specified purposes, 1.4.2023 in so far as not already in force) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 10(4)](https://www.legislation.gov.uk/asp/2020/4/section/10/4), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(3)(a)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/a)[(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/b)
+[^c-93871727e77ad12c93639102184fb26d]: Textual amendment: Ss. 3ZA, 3ZB inserted (5.11.2020 for specified purposes, 1.4.2023 in so far as not already in force) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 10(4)](https://www.legislation.gov.uk/asp/2020/4/section/10/4), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [reg. 2(3)(a)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/a)[(b)](https://www.legislation.gov.uk/ssi/2020/327/regulation/2/3/b)
 
-[^key-7ff6488584644d35b7bff98e07c222b0]: Textual amendment: [S. 3ZB heading](https://www.legislation.gov.uk/ukpga/1975/30/part/I/crossheading/valuation) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 6(4)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/6/4/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-7ff6488584644d35b7bff98e07c222b0]: Textual amendment: [S. 3ZB heading](https://www.legislation.gov.uk/ukpga/1975/30/part/I/crossheading/valuation) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 6(4)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/6/4/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-39c2ac7309064e3397ae310d773b5510]: Textual amendment: Words in [s. 3ZB](https://www.legislation.gov.uk/ukpga/1975/30/section/3ZB) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 6(4)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/6/4/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-39c2ac7309064e3397ae310d773b5510]: Textual amendment: Words in [s. 3ZB](https://www.legislation.gov.uk/ukpga/1975/30/section/3ZB) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 6(4)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/6/4/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))

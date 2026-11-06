@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Register of restored lairs[^key-87a977842504826caa76c2a08ce864ed]
+## 42. Register of restored lairs[^c-87a977842504826caa76c2a08ce864ed]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87a977842504826caa76c2a08ce864ed]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/20/section/42) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-87a977842504826caa76c2a08ce864ed]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/20/section/42) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

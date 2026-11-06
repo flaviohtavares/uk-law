@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 13.6. Notice to parties[^key-a5af218597d5bf55f9f37f34f865b718]
+## 13.6. Notice to parties[^c-a5af218597d5bf55f9f37f34f865b718]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ Where an application to give evidence is made under rules 13.1 to 13.3, or where
 
 ## Annotations
 
-[^key-a5af218597d5bf55f9f37f34f865b718]: Commencement: [Rule 13.6](https://www.legislation.gov.uk/uksi/2015/1568/article/13.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-a5af218597d5bf55f9f37f34f865b718]: Commencement: [Rule 13.6](https://www.legislation.gov.uk/uksi/2015/1568/article/13.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

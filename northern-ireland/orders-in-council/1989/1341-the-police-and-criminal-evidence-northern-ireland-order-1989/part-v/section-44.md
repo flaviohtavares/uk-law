@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Warrants of further detention[^c20417351][^c21390571][^key-488f342d892a8f474976741e9040588c]
+## 44. Warrants of further detention[^c20417351][^c21390571][^c-488f342d892a8f474976741e9040588c]
 
 *Extent: N.I.*
 
@@ -105,7 +105,7 @@ the court shall dismiss the complaint.
 
 [^c21390571]: Modification: [Art. 44](https://www.legislation.gov.uk/nisi/1989/1341/article/44) applied (with modifications) (18.5.2009) by [Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009 (S.R. 2009/142)](https://www.legislation.gov.uk/nisr/2009/142), [art. 3](https://www.legislation.gov.uk/nisr/2009/142/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/142/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2)
 
-[^key-488f342d892a8f474976741e9040588c]: Modification: [Art. 44](https://www.legislation.gov.uk/nisi/1989/1341/article/44) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [25](https://www.legislation.gov.uk/uksi/2026/117/regulation/25), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-488f342d892a8f474976741e9040588c]: Modification: [Art. 44](https://www.legislation.gov.uk/nisi/1989/1341/article/44) applied (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [25](https://www.legislation.gov.uk/uksi/2026/117/regulation/25), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c20417291]: Textual amendment: Words in [art. 44(4)(b)](https://www.legislation.gov.uk/nisi/1989/1341/article/44/4/b) substituted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [22(2)](https://www.legislation.gov.uk/nisi/2007/288/article/22/2)
 

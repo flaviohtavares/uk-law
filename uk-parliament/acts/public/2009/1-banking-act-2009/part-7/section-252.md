@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Registration of charges[^key-d41e753b95b85ee21c54e1d7118abee9]
+## 252. Registration of charges[^c-d41e753b95b85ee21c54e1d7118abee9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d41e753b95b85ee21c54e1d7118abee9]: Commencement: S. 252 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/11)
+[^c-d41e753b95b85ee21c54e1d7118abee9]: Commencement: S. 252 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/11)

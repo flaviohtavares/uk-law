@@ -25,9 +25,9 @@ summary: ''
 (2) Before making any rules for the purposes of section 10, 17, 18 or 19 the Lord Chief Justice[^c19138011] must consult—
 
 - (za)[^c19138051] the Lord Chancellor,
-- (a) the Criminal Procedure Rule Committee,and[^key-58eb87347d57fd5abc9b846ffd8441d9]
-- (b) the Family Procedure Rule Committee, [^key-c94341a1565de68367553e9cad049b73]...
-- (c)[^key-c94341a1565de68367553e9cad049b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Criminal Procedure Rule Committee,and[^c-58eb87347d57fd5abc9b846ffd8441d9]
+- (b) the Family Procedure Rule Committee, [^c-c94341a1565de68367553e9cad049b73]...
+- (c)[^c-c94341a1565de68367553e9cad049b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c19138071] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions of making the rules referred to in this section.
 
@@ -39,8 +39,8 @@ summary: ''
 
 [^c19138051]: Textual amendment: S. 20(2)(za) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 321(3)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/321/3/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)
 
-[^key-58eb87347d57fd5abc9b846ffd8441d9]: Textual amendment: Word in s. 20(2)(a) inserted (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/5/a)
+[^c-58eb87347d57fd5abc9b846ffd8441d9]: Textual amendment: Word in s. 20(2)(a) inserted (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/5/a)
 
-[^key-c94341a1565de68367553e9cad049b73]: Textual amendment: S. 20(2)(c) and word repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/5/b)
+[^c-c94341a1565de68367553e9cad049b73]: Textual amendment: S. 20(2)(c) and word repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/5/b)
 
 [^c19138071]: Textual amendment: S. 20(3) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 321(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/321/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)

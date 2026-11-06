@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Pre-approval consideration[^key-10bfa8fec98da14f52d31f369f1184d4]
+## 8. Pre-approval consideration[^c-10bfa8fec98da14f52d31f369f1184d4]
 
 *Extent: S*
 
 (1) Before deciding whether or not to approve the applicant as an approved regulator under section 7, the Scottish Ministers must consult—
 
 - (a) the Lord President,
-- (b) the CMA[^key-a3b349cc60d8dfa96fa58eee62c85958], and such other organisation (appearing to them to represent the interests of consumers in Scotland) as they consider appropriate,
+- (b) the CMA[^c-a3b349cc60d8dfa96fa58eee62c85958], and such other organisation (appearing to them to represent the interests of consumers in Scotland) as they consider appropriate,
 - (c) such other person or body as they consider appropriate.
 
 (2) In consulting under subsection (1), the Scottish Ministers—
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10bfa8fec98da14f52d31f369f1184d4]: Commencement: S. 8 in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-10bfa8fec98da14f52d31f369f1184d4]: Commencement: S. 8 in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-a3b349cc60d8dfa96fa58eee62c85958]: Textual amendment: Word in s. 8(1)(b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 193](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/193); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a3b349cc60d8dfa96fa58eee62c85958]: Textual amendment: Word in s. 8(1)(b) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 193](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/193); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

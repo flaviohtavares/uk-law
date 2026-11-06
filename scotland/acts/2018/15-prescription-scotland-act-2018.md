@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## 5-year negative prescription
 
-### 1. Obligations to pay damages and delictual obligations[^key-02b3c86443df5093d0eb78c2ee83930b]
+### 1. Obligations to pay damages and delictual obligations[^c-02b3c86443df5093d0eb78c2ee83930b]
 
 (1) The Prescription and Limitation (Scotland) Act 1973 (“**the 1973 Act**”) is amended as follows.
 
@@ -52,7 +52,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) in subsection (1), for the words from “(whether” to “reparation” substitute “ to pay damages (whatever the source of the obligation) ”,
 - (b) the section title becomes “ Obligations to pay damages ”.
 
-### 2. Obligations related to contract[^key-9918beb4754f47f2c7cca75f0ec89310]
+### 2. Obligations related to contract[^c-9918beb4754f47f2c7cca75f0ec89310]
 
 (1) Schedule 1 (obligations affected by prescriptive periods of five years under section 6) of the 1973 Act is amended as follows.
 
@@ -63,7 +63,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 3. Statutory obligations[^key-ced0d97419fe78d48aa22d34fe65acec]
+### 3. Statutory obligations[^c-ced0d97419fe78d48aa22d34fe65acec]
 
 (1) Schedule 1 (obligations affected by prescriptive periods of five years under section 6) of the 1973 Act is amended as follows.
 
@@ -102,7 +102,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-### 4. Effect of fraud or error on computation of prescriptive period[^key-4a1759d61ecc78cab6651df9c3069db2]
+### 4. Effect of fraud or error on computation of prescriptive period[^c-4a1759d61ecc78cab6651df9c3069db2]
 
 (1) Section 6 (extinction of obligations by prescriptive periods of five years) of the 1973 Act is amended as follows.
 
@@ -114,7 +114,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 5. Start point of prescriptive period for obligations to pay damages[^key-caa6f586a0654739768a4435624d0dfe]
+### 5. Start point of prescriptive period for obligations to pay damages[^c-caa6f586a0654739768a4435624d0dfe]
 
 (1) Section 11 (obligations to make reparation) of the 1973 Act is amended as follows.
 
@@ -138,7 +138,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## 20-year negative prescription
 
-### 6. Obligations: 20-year prescriptive period and extension[^key-49180e281d98b1da60dca05575be5435]
+### 6. Obligations: 20-year prescriptive period and extension[^c-49180e281d98b1da60dca05575be5435]
 
 (1) The 1973 Act is amended as follows.
 
@@ -173,7 +173,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) in each of subsections (1), (2)(a) and (3), for “sections 6 7 and 8A” substitute “ sections 6 and 8A ”,
 - (b) in the section title, for “7” substitute “ 8A ”.
 
-### 7. Property rights: 20-year prescriptive period and extension[^key-d85b5767fa11e7cfa0982b7cdab93703]
+### 7. Property rights: 20-year prescriptive period and extension[^c-d85b5767fa11e7cfa0982b7cdab93703]
 
 (1) Section 8 (extinction of other rights relating to property by prescriptive periods of twenty years) of the 1973 Act is amended as follows.
 
@@ -198,7 +198,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 8. Start point of prescriptive period for obligations to pay damages[^key-63072bc6973ac6eff345df40509d8a9f]
+### 8. Start point of prescriptive period for obligations to pay damages[^c-63072bc6973ac6eff345df40509d8a9f]
 
 In section 11 (obligations to make reparation) of the 1973 Act, for subsection (4) substitute—
 
@@ -211,7 +211,7 @@ In section 11 (obligations to make reparation) of the 1973 Act, for subsection (
 
 ## Miscellaneous
 
-### 9. Saving for other statutory provisions about prescription or limitation[^key-90dd3468e475ea985ccdd7cd0e09ace2]
+### 9. Saving for other statutory provisions about prescription or limitation[^c-90dd3468e475ea985ccdd7cd0e09ace2]
 
 (1) The 1973 Act is amended as follows.
 
@@ -236,7 +236,7 @@ In section 11 (obligations to make reparation) of the 1973 Act, for subsection (
 
 (3) In section 15(1) (interpretation of Part 1), in the definition of “enactment”, after “Act” insert “ and includes an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament ”.
 
-### 10. Definition of “relevant claim”[^key-5af54d425f9460929e7fbc91eee0c83a]
+### 10. Definition of “relevant claim”[^c-5af54d425f9460929e7fbc91eee0c83a]
 
 (1) The 1973 Act is amended as follows.
 
@@ -264,7 +264,7 @@ In section 11 (obligations to make reparation) of the 1973 Act, for subsection (
 
   .
 
-### 11. Prescriptive periods under sections 6 and 8A: interruption by relevant claim[^key-c416ea71345b69f6f9ca3c58b36d0abe]
+### 11. Prescriptive periods under sections 6 and 8A: interruption by relevant claim[^c-c416ea71345b69f6f9ca3c58b36d0abe]
 
 (1) Section 9 (definition of “**relevant claim**” for the purposes of sections 6, 7 and 8) of the 1973 Act is amended as follows.
 
@@ -276,7 +276,7 @@ In section 11 (obligations to make reparation) of the 1973 Act, for subsection (
 
 (3) In the section title, for “and 8” substitute “ , 8 and 8A ”.
 
-### 12. Definition of “final disposal” of relevant claim[^key-f1cec4028293c06d76f2fedda0384aca]
+### 12. Definition of “final disposal” of relevant claim[^c-f1cec4028293c06d76f2fedda0384aca]
 
 After section 9 of the 1973 Act insert—
 
@@ -295,7 +295,7 @@ After section 9 of the 1973 Act insert—
 
 .
 
-### 13. Restrictions on contracting out[^key-31b2fbe07fa55b5bba831b8b6c891239]
+### 13. Restrictions on contracting out[^c-31b2fbe07fa55b5bba831b8b6c891239]
 
 For section 13 (prohibition of contracting out) of the 1973 Act substitute—
 
@@ -321,7 +321,7 @@ For section 13 (prohibition of contracting out) of the 1973 Act substitute—
 
 .
 
-### 14. Burden of proof[^key-d14074c1944e07844b122a98c048e5d2]
+### 14. Burden of proof[^c-d14074c1944e07844b122a98c048e5d2]
 
 (1) The 1973 Act is amended as follows.
 
@@ -359,7 +359,7 @@ For section 13 (prohibition of contracting out) of the 1973 Act substitute—
 
 (4) Otherwise, regulations under this section are subject to the negative procedure.
 
-### 16. Consequential modifications[^key-732de01e97b2c7e985146ba96991fd36]
+### 16. Consequential modifications[^c-732de01e97b2c7e985146ba96991fd36]
 
 (1) In the 1973 Act, in schedule 1 (obligations affected by prescriptive periods of five years), paragraph 1(ba) is repealed.
 
@@ -382,32 +382,32 @@ The short title of this Act is the Prescription (Scotland) Act 2018.
 
 ## Annotations
 
-[^key-02b3c86443df5093d0eb78c2ee83930b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/15/section/1) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-02b3c86443df5093d0eb78c2ee83930b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/15/section/1) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-9918beb4754f47f2c7cca75f0ec89310]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/15/section/2) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-9918beb4754f47f2c7cca75f0ec89310]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/15/section/2) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-ced0d97419fe78d48aa22d34fe65acec]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/15/section/3) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-ced0d97419fe78d48aa22d34fe65acec]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/15/section/3) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-4a1759d61ecc78cab6651df9c3069db2]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/15/section/4) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-4a1759d61ecc78cab6651df9c3069db2]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/15/section/4) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-caa6f586a0654739768a4435624d0dfe]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/15/section/5) in force at 1.6.2022 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/2))
+[^c-caa6f586a0654739768a4435624d0dfe]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/15/section/5) in force at 1.6.2022 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/2) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/2))
 
-[^key-49180e281d98b1da60dca05575be5435]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/15/section/6) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-49180e281d98b1da60dca05575be5435]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/15/section/6) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-d85b5767fa11e7cfa0982b7cdab93703]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/15/section/7) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-d85b5767fa11e7cfa0982b7cdab93703]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/15/section/7) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-63072bc6973ac6eff345df40509d8a9f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/15/section/8) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-63072bc6973ac6eff345df40509d8a9f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/15/section/8) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-90dd3468e475ea985ccdd7cd0e09ace2]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/15/section/9) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-90dd3468e475ea985ccdd7cd0e09ace2]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/15/section/9) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-5af54d425f9460929e7fbc91eee0c83a]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/15/section/10) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-5af54d425f9460929e7fbc91eee0c83a]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/15/section/10) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-c416ea71345b69f6f9ca3c58b36d0abe]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/15/section/11) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-c416ea71345b69f6f9ca3c58b36d0abe]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/15/section/11) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-f1cec4028293c06d76f2fedda0384aca]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/15/section/12) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-f1cec4028293c06d76f2fedda0384aca]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/15/section/12) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-31b2fbe07fa55b5bba831b8b6c891239]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/15/section/13) in force at 1.6.2022 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2))
+[^c-31b2fbe07fa55b5bba831b8b6c891239]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/15/section/13) in force at 1.6.2022 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2))
 
-[^key-d14074c1944e07844b122a98c048e5d2]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/15/section/14) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-d14074c1944e07844b122a98c048e5d2]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/15/section/14) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
 
-[^key-732de01e97b2c7e985146ba96991fd36]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2018/15/section/16) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))
+[^c-732de01e97b2c7e985146ba96991fd36]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2018/15/section/16) in force at 28.2.2025 by [S.S.I. 2022/78](https://www.legislation.gov.uk/ssi/2022/78), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/2/1) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/78/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/3/1), [4(1)](https://www.legislation.gov.uk/ssi/2022/78/regulation/4/1))

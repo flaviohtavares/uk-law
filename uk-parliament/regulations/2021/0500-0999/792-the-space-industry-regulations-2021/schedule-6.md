@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Information to be included in a health record[^key-26c3aceb2ec1fd5078a7a96686320f78]
+## SCHEDULE 6 — Information to be included in a health record[^c-26c3aceb2ec1fd5078a7a96686320f78]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 145
 
-[^key-26c3aceb2ec1fd5078a7a96686320f78]The information that must be included in a health record is—
+[^c-26c3aceb2ec1fd5078a7a96686320f78]The information that must be included in a health record is—
 
 - (a) the crew member’s—
   - (i) full name;
@@ -40,4 +40,4 @@ Regulation 145
 
 ## Annotations
 
-[^key-26c3aceb2ec1fd5078a7a96686320f78]: Commencement: Sch. 6 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-26c3aceb2ec1fd5078a7a96686320f78]: Commencement: Sch. 6 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1244. Contributions to local enterprise organisations or urban regeneration companies[^key-d6430f9f6597e3ae503c592691a44c29]
+## 1244. Contributions to local enterprise organisations or urban regeneration companies[^c-d6430f9f6597e3ae503c592691a44c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ the amount of the deduction allowed for the expenses under section 1219 by virtu
 
 ## Annotations
 
-[^key-d6430f9f6597e3ae503c592691a44c29]: Modification: S. 1244 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-d6430f9f6597e3ae503c592691a44c29]: Modification: S. 1244 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

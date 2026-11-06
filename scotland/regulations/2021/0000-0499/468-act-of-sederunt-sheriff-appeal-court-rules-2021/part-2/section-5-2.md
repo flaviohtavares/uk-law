@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.2. Intimation[^key-962c203645d1bd1884b1c2aaec7151fb]
+## 5.2. Intimation[^c-962c203645d1bd1884b1c2aaec7151fb]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ intimation must be given to every other party.
 
 ## Annotations
 
-[^key-962c203645d1bd1884b1c2aaec7151fb]: Commencement: Para. 5.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-962c203645d1bd1884b1c2aaec7151fb]: Commencement: Para. 5.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

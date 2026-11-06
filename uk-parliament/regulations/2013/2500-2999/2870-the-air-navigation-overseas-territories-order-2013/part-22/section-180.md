@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Authority of pilot-in-command and members of the crew of an aircraft[^key-4ada03c8f65fc9d52f5a6a93867272d1]
+## 180. Authority of pilot-in-command and members of the crew of an aircraft[^c-4ada03c8f65fc9d52f5a6a93867272d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ or any other portable electronic device if the operator or pilot-in-command of t
 
 ## Annotations
 
-[^key-4ada03c8f65fc9d52f5a6a93867272d1]: Commencement: [Art. 180](https://www.legislation.gov.uk/uksi/2013/2870/article/180) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-4ada03c8f65fc9d52f5a6a93867272d1]: Commencement: [Art. 180](https://www.legislation.gov.uk/uksi/2013/2870/article/180) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

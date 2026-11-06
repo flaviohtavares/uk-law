@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235A. Exemption for supply or administration of certain medicines used for vaccination[^key-074d32acb82cfb85a10a327e2a16752e]
+## 235A. Exemption for supply or administration of certain medicines used for vaccination[^c-074d32acb82cfb85a10a327e2a16752e]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-074d32acb82cfb85a10a327e2a16752e]: Textual amendment: Reg. 235A inserted (31.3.2026) by [The Human Medicines (Amendment) Regulations 2026 (S.I. 2026/381)](https://www.legislation.gov.uk/uksi/2026/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/381/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/381/regulation/9)
+[^c-074d32acb82cfb85a10a327e2a16752e]: Textual amendment: Reg. 235A inserted (31.3.2026) by [The Human Medicines (Amendment) Regulations 2026 (S.I. 2026/381)](https://www.legislation.gov.uk/uksi/2026/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/381/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2026/381/regulation/9)

@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Import and Export Restrictions (Foot-And-Mouth Disease) (No. 6) (Wales) (Amendment) Regulations 2001 (revoked)[^key-c3c1e045819e51a5690dfe2ed325da98]
+The Import and Export Restrictions (Foot-And-Mouth Disease) (No. 6) (Wales) (Amendment) Regulations 2001 (revoked)[^c-c3c1e045819e51a5690dfe2ed325da98]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 6 p.m. on 11th May 2001
 
-[^key-c3c1e045819e51a5690dfe2ed325da98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3c1e045819e51a5690dfe2ed325da98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-c3c1e045819e51a5690dfe2ed325da98]
+## 1. Title, commencement and application[^c-c3c1e045819e51a5690dfe2ed325da98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Import and Export Restrictions (Foot-and-Mouth Disease) (No. 6) (Wales) Regulations 2001[^key-c3c1e045819e51a5690dfe2ed325da98]
+## 2. Amendments to the Import and Export Restrictions (Foot-and-Mouth Disease) (No. 6) (Wales) Regulations 2001[^c-c3c1e045819e51a5690dfe2ed325da98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3c1e045819e51a5690dfe2ed325da98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3c1e045819e51a5690dfe2ed325da98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c3c1e045819e51a5690dfe2ed325da98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3c1e045819e51a5690dfe2ed325da98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3c1e045819e51a5690dfe2ed325da98]: Textual amendment: Regulations revoked (19.5.2001) by [The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 7) Regulations 2001 (S.I. 2001/1986)](https://www.legislation.gov.uk/uksi/2001/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1986/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2001/1986/regulation/23)
+[^c-c3c1e045819e51a5690dfe2ed325da98]: Textual amendment: Regulations revoked (19.5.2001) by [The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 7) Regulations 2001 (S.I. 2001/1986)](https://www.legislation.gov.uk/uksi/2001/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1986/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2001/1986/regulation/23)

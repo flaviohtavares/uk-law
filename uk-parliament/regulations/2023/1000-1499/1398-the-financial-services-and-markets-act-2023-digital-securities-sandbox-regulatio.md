@@ -48,7 +48,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 In accordance with sections 16(1) and (2) of that Act, the Treasury has consulted the Bank of England and the Financial Conduct Authority, being the appropriate regulators[^f00002], and such other persons as the Treasury consider appropriate.
 
-## 1. Citation, commencement and extent[^key-88ee93a40630ffc37acbd70e560d3dbc]
+## 1. Citation, commencement and extent[^c-88ee93a40630ffc37acbd70e560d3dbc]
 
 (1) These Regulations may be cited as the Financial Services and Markets Act 2023 (Digital Securities Sandbox) Regulations 2023.
 
@@ -56,7 +56,7 @@ In accordance with sections 16(1) and (2) of that Act, the Treasury has consulte
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-2c9306c1ea565314b184d3842b1d6f00]
+## 2. Interpretation[^c-2c9306c1ea565314b184d3842b1d6f00]
 
 In these Regulations—
 
@@ -73,7 +73,7 @@ In these Regulations—
 - “**sandbox entrant**” means a person that makes an application to participate in the FMI sandbox arrangements and has its application approved under regulation 5(2)(a) or (b); and
 - “**users**” means the persons referred to in regulation 3(4)(a).
 
-## 3. Creation and operation of an FMI sandbox[^key-483615edb1d450fe0b5d40024cf68126]
+## 3. Creation and operation of an FMI sandbox[^c-483615edb1d450fe0b5d40024cf68126]
 
 (1) These Regulations have effect as an FMI sandbox (the “digital securities sandbox” or “DSS”) for the purposes described in section 13(1)(a) and (b) of the Act, insofar as those purposes relate to the use of developing technology, such as distributed ledger technology, in the carrying on of FMI activities.
 
@@ -116,11 +116,11 @@ and “**Part 4A permission**” has the meaning given in section 55A(5) of FSMA
 (8) In these Regulations “**the appropriate regulator**” means—
 
 - (a) in relation to activities falling within paragraph (5)(a), the FCA;
-- (b) in relation to activities falling within paragraph 5(b), the Bank of England; [^key-3595a8bda09a996bec5fb99bb747f525]...
-- (c) where a sandbox entrant is carrying on activities falling within paragraph (5)(a) and (b), the FCA and the Bank of England ; and[^key-58c6f8f8ba023261055cfb7e06424218]
+- (b) in relation to activities falling within paragraph 5(b), the Bank of England; [^c-3595a8bda09a996bec5fb99bb747f525]...
+- (c) where a sandbox entrant is carrying on activities falling within paragraph (5)(a) and (b), the FCA and the Bank of England ; and[^c-58c6f8f8ba023261055cfb7e06424218]
 - (d) in relation to ancillary FMI activities, the FCA and the Bank of England.
 
-## 4. FMI sandbox application procedure and requirements[^key-36728500a8c23f1101b3543579f111bc]
+## 4. FMI sandbox application procedure and requirements[^c-36728500a8c23f1101b3543579f111bc]
 
 (1) A person who is eligible to apply to participate in the FMI sandbox arrangements as a sandbox entrant under regulation 3(2) or who is permitted to apply under regulation 3(3) may apply to the appropriate regulator for approval to participate.
 
@@ -132,7 +132,7 @@ and “**Part 4A permission**” has the meaning given in section 55A(5) of FSMA
 - (d) the extent to which the proposed activities described in regulation 3(5) are to be carried on by the sandbox entrant at any time; and
 - (e) such further information that the appropriate regulator may require to determine the eligibility of an applicant.
 
-## 5. Determination of application for approval of participation in the FMI sandbox[^key-ba91ba03765d793841045fc8946dac0c]
+## 5. Determination of application for approval of participation in the FMI sandbox[^c-ba91ba03765d793841045fc8946dac0c]
 
 (1) An application made under regulation 4 for approval of participation in the DSS must be determined by the appropriate regulator.
 
@@ -160,7 +160,7 @@ and “**Part 4A permission**” has the meaning given in section 55A(5) of FSMA
 
 (7) A sandbox entrant may apply to the appropriate regulator for modification, suspension or cancellation of its SAN and in which case paragraphs (1) to (6) apply with the necessary modifications to that application as they apply to an application for approval of participation in the FMI sandbox.
 
-## 6. Sandbox arrangements – requirements related to relevant enactments and overall limitation[^key-25661d1983ef4cda841183407b5ad856]
+## 6. Sandbox arrangements – requirements related to relevant enactments and overall limitation[^c-25661d1983ef4cda841183407b5ad856]
 
 (1) The relevant enactments as specified in the Schedule have effect subject to the modifications in the Schedule in their application to—
 
@@ -174,7 +174,7 @@ and “**Part 4A permission**” has the meaning given in section 55A(5) of FSMA
 
 (4) The Treasury may direct the appropriate regulator, having first consulted with them, to impose restrictions on the overall FMI activities or ancillary FMI activities in the FMI sandbox arrangements, whether by reference to a number, value or another metric.
 
-## 7. Making of regulator rules[^key-c7bf27bc576b150424537ae47012b3ed]
+## 7. Making of regulator rules[^c-c7bf27bc576b150424537ae47012b3ed]
 
 (1) The appropriate regulator may make rules applying to a sandbox entrant that appear necessary or expedient for the purpose of implementing and operating the FMI sandbox arrangements.
 
@@ -203,7 +203,7 @@ and “**Part 4A permission**” has the meaning given in section 55A(5) of FSMA
 
 (7) The reference to a rule being made under paragraph (1) or to a rule being applied or disapplied to a sandbox entrant or a description of a sandbox entrant in paragraphs (5) and (6) includes a reference to a person described in regulation 3(4).
 
-## 8. Modification of technical standards[^key-e9f07917193f95a854990039fd42a049]
+## 8. Modification of technical standards[^c-e9f07917193f95a854990039fd42a049]
 
 (1) The appropriate regulator may make such modifications of any technical standards having effect for the purposes of a relevant enactment if it considers it to be necessary or expedient for the purpose of implementing and operating the FMI sandbox arrangements.
 
@@ -215,7 +215,7 @@ and “**Part 4A permission**” has the meaning given in section 55A(5) of FSMA
 
 (3) This regulation ceases to have effect when the revocation of section 138P of FSMA 2000[^f00008] by Part 4 of Schedule 1 to the Act is commenced.
 
-## 9. Supervision of the FMI sandbox[^key-ee8eb5c7bad2fad0d6674226977f96ab]
+## 9. Supervision of the FMI sandbox[^c-ee8eb5c7bad2fad0d6674226977f96ab]
 
 (1) The appropriate regulator must maintain arrangements to supervise the operation of the DSS.
 
@@ -235,7 +235,7 @@ and “**Part 4A permission**” has the meaning given in section 55A(5) of FSMA
 - (b) the instrument by which rules and technical standards are made by an appropriate regulator;
 - (c) the waivers made under regulations 7(5) and (6) that are issued in conjunction with a SAN.
 
-## 10. Cooperation between appropriate regulators[^key-45ada75104c482235016c42ec90256a2]
+## 10. Cooperation between appropriate regulators[^c-45ada75104c482235016c42ec90256a2]
 
 (1) The Bank and the FCA must take such steps they consider appropriate to co-operate with each other in connection with the operation and supervision of the DSS.
 
@@ -252,11 +252,11 @@ and “**Part 4A permission**” has the meaning given in section 55A(5) of FSMA
 
 (5) The Bank and the FCA must ensure the memorandum that is in force is published in a way that is best calculated to bring it to the attention of interested persons.
 
-## 11. Date of the report on the FMI sandbox arrangements[^key-e95f0e33526ebdf0f7677ed145c588ca]
+## 11. Date of the report on the FMI sandbox arrangements[^c-e95f0e33526ebdf0f7677ed145c588ca]
 
 The date specified for the purposes of section 14(3) of the Act is 10th January 2028.
 
-## 12. Modification, suspension and cancellation of the SAN[^key-1f79cf3e296af74ed82f640e67a93b5e]
+## 12. Modification, suspension and cancellation of the SAN[^c-1f79cf3e296af74ed82f640e67a93b5e]
 
 (1) Where a sandbox entrant breaches a requirement imposed on it by or under these Regulations or if it appears necessary or expedient for the purpose of implementing and operating the FMI sandbox arrangements, the appropriate regulator may—
 
@@ -273,7 +273,7 @@ of that sandbox entrant.
 - (a) it must provide reasons for exercising the power and specify if the modification, suspension or cancellation of the SAN takes effect immediately or on a specified date; and
 - (b) may make reference to required periods for the sandbox entrant to either winddown its DSS activities or transition these activities outside of the FMI sandbox arrangements.
 
-## 13. Termination of FMI sandbox[^key-ef0dfcb17ae3c86722b5e84528e2e409]
+## 13. Termination of FMI sandbox[^c-ef0dfcb17ae3c86722b5e84528e2e409]
 
 These Regulations are to cease to have effect on 8th January 2029.
 
@@ -289,13 +289,13 @@ Two Lords Commissioners of His Majesty’s Treasury
 
 Regulation 6
 
-### PART 1[^key-90bd40c0b96a4a697965843d09de86f8]
+### PART 1[^c-90bd40c0b96a4a697965843d09de86f8]
 
 - (a) Part 2 contains modifications of [Regulation (EU) No 909/2014](https://www.legislation.gov.uk/european/regulation/2014/0909) of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories[^f00009] (“UK CSDR”).
 - (b) Part 3 contains modifications of FSMA 2000[^f00010].
 - (c) Part 4 contains modifications of the Companies Act 2006[^f00011] (CA 2006).
 - (d) Part 5 contains modifications of the Uncertificated Securities Regulations 2001[^f00012].
-- (e) Part 6 contains modifications of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017.[^key-b9d76533b0ce6aadab1f52ba9ac7d3d5]
+- (e) Part 6 contains modifications of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017.[^c-b9d76533b0ce6aadab1f52ba9ac7d3d5]
 
 ### PART 2[^M_I_b45c11eb-4966-4a51-fef9-cd920084e0f7]
 
@@ -320,10 +320,10 @@ This Part sets out modifications made to Regulation No. 909/2014 (“UK CSDR”)
 | Articles 28 to 30 | Treat these articles as disapplied. |
 | Articles 32 to 60 | Treat these articles as disapplied. |
 | Article 62 | Treat this article as disapplied. |
-| Article 64[^key-d0bec3ca85ddacf67a1aedebf204cb46] | Treat this article as disapplied. |
+| Article 64[^c-d0bec3ca85ddacf67a1aedebf204cb46] | Treat this article as disapplied. |
 | Article 65 | In paragraph (1), treat the reference to “competent authority” as a reference to a digital securities depository. Treat the reference to “infringements of this Regulation” as a reference to infringements of requirements (which may include a requirement imposed by a SAN) imposed by or under these Regulations. Treat the reference to “competent authorities” as a reference to the Bank of England. In paragraph (3), treat the first sub-paragraph as imposing a direct requirement on a digital securities depository to have in place the reporting procedures mentioned in that paragraph. |
 | Article 66 | Treat this article as disapplied. |
-| Article 73[^key-e2a4608eee95231470d856307d48be98] | Treat this article as disapplied. |
+| Article 73[^c-e2a4608eee95231470d856307d48be98] | Treat this article as disapplied. |
 
 ### PART 3[^M_I_385af0ce-54d2-49dc-c638-a18eecd4689e]
 
@@ -430,7 +430,7 @@ This Part sets out modifications made to the Financial Services and Markets Act 
 </tbody>
 </table>
 
-[^key-ec6c6b445dc13f50fb56bdedec820444][^key-4c77f887fb07d690171fcd8cc10985fc]
+[^c-ec6c6b445dc13f50fb56bdedec820444][^c-4c77f887fb07d690171fcd8cc10985fc]
 
 ### PART 4[^M_I_bb2849fc-dda3-4602-a5de-8fbb818572ff]
 
@@ -504,7 +504,7 @@ Treat any reference to a provision in this Part which is disapplied as a referen
 </tbody>
 </table>
 
-### PART 6[^key-422f66d5b73fc05fcc2d6a2dbfc70353]
+### PART 6[^c-422f66d5b73fc05fcc2d6a2dbfc70353]
 
 This Part sets out modifications made to the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017. The provisions specified in the first column are modified as provided for in the corresponding entry in the second column.
 
@@ -601,11 +601,11 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00002]: Footnote: The appropriate regulators for the purpose of Section 17(2) of the Financial Services and Markets Act 2023.
 
-[^key-88ee93a40630ffc37acbd70e560d3dbc]: Commencement: Reg. 1 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-88ee93a40630ffc37acbd70e560d3dbc]: Commencement: Reg. 1 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-2c9306c1ea565314b184d3842b1d6f00]: Commencement: Reg. 2 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-2c9306c1ea565314b184d3842b1d6f00]: Commencement: Reg. 2 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-483615edb1d450fe0b5d40024cf68126]: Commencement: Reg. 3 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-483615edb1d450fe0b5d40024cf68126]: Commencement: Reg. 3 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). Article 25D was inserted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
@@ -617,33 +617,33 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00007]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); paragraphs 1 to 3 were substituted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and paragraph 11 was inserted by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488) and amended by [S.I. 2021/494](https://www.legislation.gov.uk/uksi/2021/494).
 
-[^key-3595a8bda09a996bec5fb99bb747f525]: Textual amendment: Word in reg. 3(8) omitted (3.3.2025) by virtue of [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/93/regulation/3)
+[^c-3595a8bda09a996bec5fb99bb747f525]: Textual amendment: Word in reg. 3(8) omitted (3.3.2025) by virtue of [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/93/regulation/3)
 
-[^key-58c6f8f8ba023261055cfb7e06424218]: Textual amendment: Reg. 3(8)(d) and word inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/93/regulation/3)
+[^c-58c6f8f8ba023261055cfb7e06424218]: Textual amendment: Reg. 3(8)(d) and word inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/93/regulation/3)
 
-[^key-36728500a8c23f1101b3543579f111bc]: Commencement: Reg. 4 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-36728500a8c23f1101b3543579f111bc]: Commencement: Reg. 4 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-ba91ba03765d793841045fc8946dac0c]: Commencement: Reg. 5 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-ba91ba03765d793841045fc8946dac0c]: Commencement: Reg. 5 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-25661d1983ef4cda841183407b5ad856]: Commencement: Reg. 6 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-25661d1983ef4cda841183407b5ad856]: Commencement: Reg. 6 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-c7bf27bc576b150424537ae47012b3ed]: Commencement: Reg. 7 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-c7bf27bc576b150424537ae47012b3ed]: Commencement: Reg. 7 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-e9f07917193f95a854990039fd42a049]: Commencement: Reg. 8 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-e9f07917193f95a854990039fd42a049]: Commencement: Reg. 8 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
 [^f00008]: Footnote: Section 138P was inserted by [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115).
 
-[^key-ee8eb5c7bad2fad0d6674226977f96ab]: Commencement: Reg. 9 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-ee8eb5c7bad2fad0d6674226977f96ab]: Commencement: Reg. 9 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-45ada75104c482235016c42ec90256a2]: Commencement: Reg. 10 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-45ada75104c482235016c42ec90256a2]: Commencement: Reg. 10 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-e95f0e33526ebdf0f7677ed145c588ca]: Commencement: Reg. 11 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-e95f0e33526ebdf0f7677ed145c588ca]: Commencement: Reg. 11 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-1f79cf3e296af74ed82f640e67a93b5e]: Commencement: Reg. 12 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-1f79cf3e296af74ed82f640e67a93b5e]: Commencement: Reg. 12 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-ef0dfcb17ae3c86722b5e84528e2e409]: Commencement: Reg. 13 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-ef0dfcb17ae3c86722b5e84528e2e409]: Commencement: Reg. 13 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-90bd40c0b96a4a697965843d09de86f8]: Commencement: Sch. Pt. 1 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
+[^c-90bd40c0b96a4a697965843d09de86f8]: Commencement: Sch. Pt. 1 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
 [^f00009]: Footnote: EUR 2014/909; amended by [S.I. 2018/1320](https://www.legislation.gov.uk/uksi/2018/1320).
 
@@ -653,7 +653,7 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00012]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755); amended by [S.I. 2003/1633](https://www.legislation.gov.uk/uksi/2003/1633), [2004/1662](https://www.legislation.gov.uk/uksi/2004/1662), [2004/2044](https://www.legislation.gov.uk/uksi/2004/2044), [2007/124](https://www.legislation.gov.uk/uksi/2007/124), [2009/1889](https://www.legislation.gov.uk/uksi/2009/1889), [2013/472](https://www.legislation.gov.uk/uksi/2013/472), [2013/632](https://www.legislation.gov.uk/uksi/2013/632) and [2019/679](https://www.legislation.gov.uk/uksi/2019/679).
 
-[^key-b9d76533b0ce6aadab1f52ba9ac7d3d5]: Textual amendment: Sch. Pt. 1 para. (e) inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/93/regulation/4)
+[^c-b9d76533b0ce6aadab1f52ba9ac7d3d5]: Textual amendment: Sch. Pt. 1 para. (e) inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/93/regulation/4)
 
 [^M_I_b45c11eb-4966-4a51-fef9-cd920084e0f7]: Commencement: Sch. Pt. 2 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
@@ -661,18 +661,18 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00014]: Footnote: Regulations 5F to 5J were inserted by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064), regulation 5(1) and (9).
 
-[^key-d0bec3ca85ddacf67a1aedebf204cb46]: Textual amendment: Words in Sch. Pt. 2 substituted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [5(1)(a)](https://www.legislation.gov.uk/uksi/2025/93/regulation/5/1/a)
+[^c-d0bec3ca85ddacf67a1aedebf204cb46]: Textual amendment: Words in Sch. Pt. 2 substituted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [5(1)(a)](https://www.legislation.gov.uk/uksi/2025/93/regulation/5/1/a)
 
-[^key-e2a4608eee95231470d856307d48be98]: Textual amendment: Words in Sch. Pt. 2 substituted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2025/93/regulation/5/1/b)
+[^c-e2a4608eee95231470d856307d48be98]: Textual amendment: Words in Sch. Pt. 2 substituted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/uksi/2025/93/regulation/5/1/b)
 
 [^M_I_385af0ce-54d2-49dc-c638-a18eecd4689e]: Commencement: Sch. Pt. 3 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-ec6c6b445dc13f50fb56bdedec820444]: Textual amendment: Words in Sch. Pt. 3 Table inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2025/93/regulation/6/1/a)
+[^c-ec6c6b445dc13f50fb56bdedec820444]: Textual amendment: Words in Sch. Pt. 3 Table inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2025/93/regulation/6/1/a)
 
-[^key-4c77f887fb07d690171fcd8cc10985fc]: Textual amendment: Words in Sch. Pt. 3 Table inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2025/93/regulation/6/1/b)
+[^c-4c77f887fb07d690171fcd8cc10985fc]: Textual amendment: Words in Sch. Pt. 3 Table inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2025/93/regulation/6/1/b)
 
 [^M_I_bb2849fc-dda3-4602-a5de-8fbb818572ff]: Commencement: Sch. Pt. 4 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
 [^M_I_da4a260f-b006-4b7f-b1c3-9b649ee5339c]: Commencement: Sch. Pt. 5 in force at 8.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2)
 
-[^key-422f66d5b73fc05fcc2d6a2dbfc70353]: Textual amendment: Sch. Pt. 6 inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2025/93/regulation/7/1)
+[^c-422f66d5b73fc05fcc2d6a2dbfc70353]: Textual amendment: Sch. Pt. 6 inserted (3.3.2025) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2025/93/regulation/7/1)

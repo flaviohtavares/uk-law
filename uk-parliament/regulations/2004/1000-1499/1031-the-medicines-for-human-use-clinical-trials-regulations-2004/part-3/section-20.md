@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Modifications to clinical trial approval[^key-33aca170aa74ebae9a80eea7b0736056]
+## 20. Modifications to clinical trial approval[^c-33aca170aa74ebae9a80eea7b0736056]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A modification to a clinical trial approval may be made—
 
 ## Annotations
 
-[^key-33aca170aa74ebae9a80eea7b0736056]: Textual amendment: Regs. 14-26 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/538/regulation/14)
+[^c-33aca170aa74ebae9a80eea7b0736056]: Textual amendment: Regs. 14-26 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/538/regulation/14)

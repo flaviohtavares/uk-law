@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Interpretation of Chapter 4[^key-fea538585ec24eb4cace432244235d3c]
+## 49. Interpretation of Chapter 4[^c-fea538585ec24eb4cace432244235d3c]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fea538585ec24eb4cace432244235d3c]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/52/section/49) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-fea538585ec24eb4cace432244235d3c]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/52/section/49) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

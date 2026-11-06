@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendment of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009 (English language text)[^key-27600fcfd063bac30db45f393331367f]
+## 37. Amendment of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009 (English language text)[^c-27600fcfd063bac30db45f393331367f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27600fcfd063bac30db45f393331367f]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2023/1071/regulation/37) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-27600fcfd063bac30db45f393331367f]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2023/1071/regulation/37) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 2009/1385 (W. 141)](https://www.legislation.gov.uk/wsi/2009/1385), amended by [S.I. 2012/1641](https://www.legislation.gov.uk/uksi/2012/1641); there are other amending instruments but none is relevant.

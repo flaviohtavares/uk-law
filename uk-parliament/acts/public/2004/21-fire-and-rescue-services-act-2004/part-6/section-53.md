@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Amendments[^key-242135e20bc47b80c71f5bb24027f075][^key-a20da599db3ba875ccf08a2175f4101a]
+## 53. Amendments[^c-242135e20bc47b80c71f5bb24027f075][^c-a20da599db3ba875ccf08a2175f4101a]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ which he considers necessary or expedient for the purposes of, in consequence of
 
 ## Annotations
 
-[^key-242135e20bc47b80c71f5bb24027f075]: Commencement: S. 53 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-242135e20bc47b80c71f5bb24027f075]: Commencement: S. 53 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-a20da599db3ba875ccf08a2175f4101a]: Commencement: S. 53 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-a20da599db3ba875ccf08a2175f4101a]: Commencement: S. 53 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

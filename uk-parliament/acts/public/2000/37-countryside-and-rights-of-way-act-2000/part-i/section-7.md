@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Appeal procedure.[^key-afe838acfc9365cb4a705711fbc8bb19]
+## 7. Appeal procedure.[^c-afe838acfc9365cb4a705711fbc8bb19]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ the power to make such an order may be exercised, in relation to costs incurred 
 
 ## Annotations
 
-[^key-afe838acfc9365cb4a705711fbc8bb19]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2000/37/section/7) applied (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d)[(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/4/4) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-afe838acfc9365cb4a705711fbc8bb19]: Modification: [S. 7](https://www.legislation.gov.uk/ukpga/2000/37/section/7) applied (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d)[(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/4/4) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
 
 [^c1057012]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

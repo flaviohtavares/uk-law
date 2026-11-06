@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86A. Public health protection regulations[^key-1fbe3b64e74b1d617988b2f4af4d44cc]
+## 86A. Public health protection regulations[^c-1fbe3b64e74b1d617988b2f4af4d44cc]
 
 *Extent: S*
 
@@ -38,11 +38,11 @@ summary: ''
 
 - (a) a requirement that a pupil (within the meaning given by section 135(1) of the Education (Scotland) Act 1980) is to be kept away from school,
 - (b) a prohibition or restriction relating to the holding of an event or gathering,
-- (c) a restriction or requirement relating to the handling, transport, burial , cremation or hydrolysis[^key-c68b82b7a32a66cb442ac4eb6f188941] of dead bodies or the handling, transport or disposal of human remains, and
+- (c) a restriction or requirement relating to the handling, transport, burial , cremation or hydrolysis[^c-c68b82b7a32a66cb442ac4eb6f188941] of dead bodies or the handling, transport or disposal of human remains, and
 - (d) a special restriction or requirement (see section 86G).
 
 ## Annotations
 
-[^key-1fbe3b64e74b1d617988b2f4af4d44cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2008/5/part/5A) inserted (1.9.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/8/section/1/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-1fbe3b64e74b1d617988b2f4af4d44cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2008/5/part/5A) inserted (1.9.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/8/section/1/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-c68b82b7a32a66cb442ac4eb6f188941]: Textual amendment: Words in [s. 86A(5)(c)](https://www.legislation.gov.uk/asp/2008/5/section/86A/5/c) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/a)
+[^c-c68b82b7a32a66cb442ac4eb6f188941]: Textual amendment: Words in [s. 86A(5)(c)](https://www.legislation.gov.uk/asp/2008/5/section/86A/5/c) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/a)

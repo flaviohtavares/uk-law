@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Reports[^key-33670668fb3b2a4f812ef7305d5b8b2d]
+## 21. Reports[^c-33670668fb3b2a4f812ef7305d5b8b2d]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33670668fb3b2a4f812ef7305d5b8b2d]: Commencement: S. 21 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-33670668fb3b2a4f812ef7305d5b8b2d]: Commencement: S. 21 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

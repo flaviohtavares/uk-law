@@ -30,7 +30,7 @@ summary: ''
 
 (5) In so far as a direction requires anything to be done or not done at a place outside the United Kingdom—
 
-- (a)[^key-df6232396af559f6c4fb14636e468f21] it shall have effect only in relation to—
+- (a)[^c-df6232396af559f6c4fb14636e468f21] it shall have effect only in relation to—
   - (i) aircraft registered in the United Kingdom, or
   - (ii) a requirement not to cause or permit an aircraft to fly in or into the United Kingdom unless certain things have, or have not, been done, and
 - (b) it shall not have effect so as to require anything to be done or not done in contravention of any provision of the law (whether civil or criminal) in force at that place, other than any such provision relating to breach of contract.
@@ -59,7 +59,7 @@ and accordingly, the direction shall not be construed as requiring the person to
 
 [^c794596]: Textual amendment: Words substituted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [Sch. 1 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/8/2/b)
 
-[^key-df6232396af559f6c4fb14636e468f21]: Textual amendment: S. 16(5)(a) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 9(4)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/9/4)
+[^c-df6232396af559f6c4fb14636e468f21]: Textual amendment: S. 16(5)(a) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 9(4)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/9/4)
 
 [^c794597]: Textual amendment: S. 16(6) substituted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/8/3)
 

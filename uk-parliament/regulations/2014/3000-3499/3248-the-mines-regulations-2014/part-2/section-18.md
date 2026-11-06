@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Power of safety representatives to report imminent risk[^key-5d5f2b525188462bc0a567c13943e18c]
+## 18. Power of safety representatives to report imminent risk[^c-5d5f2b525188462bc0a567c13943e18c]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ Where two or more safety representatives (within the meaning of regulation 2(1) 
 
 ## Annotations
 
-[^key-5d5f2b525188462bc0a567c13943e18c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/3248/regulation/18) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-5d5f2b525188462bc0a567c13943e18c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/3248/regulation/18) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 1977/500](https://www.legislation.gov.uk/uksi/1977/500).

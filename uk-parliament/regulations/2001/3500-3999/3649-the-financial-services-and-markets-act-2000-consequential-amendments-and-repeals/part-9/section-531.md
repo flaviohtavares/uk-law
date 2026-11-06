@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 531. Meaning of “deposit-taker”[^key-a5f9954008925a4ad582dbe8f611e027]
+## 531. Meaning of “deposit-taker”[^c-a5f9954008925a4ad582dbe8f611e027]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5f9954008925a4ad582dbe8f611e027]: Commencement: Art. 531 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a5f9954008925a4ad582dbe8f611e027]: Commencement: Art. 531 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

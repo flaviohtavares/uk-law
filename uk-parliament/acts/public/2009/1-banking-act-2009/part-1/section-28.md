@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Onward transfer[^M_I_dfceb4ea-ef03-4cfd-d2c8-997f71665633][^key-045d8cbbfb360b943b45a56173733765]
+## 28. Onward transfer[^M_I_dfceb4ea-ef03-4cfd-d2c8-997f71665633][^c-045d8cbbfb360b943b45a56173733765]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (6) Before making an onward share transfer order the Treasury must consult—
 
-- (a)[^key-224abadf833133876e924c2a1129aef7] the PRA,
+- (a)[^c-224abadf833133876e924c2a1129aef7] the PRA,
 - (aa) the FCA, and
 - (b) the Bank of England.
 
@@ -47,6 +47,6 @@ summary: ''
 
 [^M_I_dfceb4ea-ef03-4cfd-d2c8-997f71665633]: Commencement: S. 28 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-045d8cbbfb360b943b45a56173733765]: Commencement: S. 28 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-045d8cbbfb360b943b45a56173733765]: Commencement: S. 28 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-224abadf833133876e924c2a1129aef7]: Textual amendment: S. 28(6)(a)(aa) substituted for s. 28(6)(a) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 16](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/16) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-224abadf833133876e924c2a1129aef7]: Textual amendment: S. 28(6)(a)(aa) substituted for s. 28(6)(a) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 16](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/16) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

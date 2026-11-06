@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.31. Right to inspect the file[^key-3224890b91490ebc6e21fd0601ae5c90]
+## 7.31. Right to inspect the file[^c-3224890b91490ebc6e21fd0601ae5c90]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ An application for a direction of the court under this paragraph may be made by 
 
 ## Annotations
 
-[^key-3224890b91490ebc6e21fd0601ae5c90]: Commencement: [Rule 7.31](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.31) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3224890b91490ebc6e21fd0601ae5c90]: Commencement: [Rule 7.31](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.31) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

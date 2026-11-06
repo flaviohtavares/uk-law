@@ -31,7 +31,7 @@ summary: ''
 
 Local government
 
-Local Government Pension Scheme (Amendment No. 4) Regulations (Northern Ireland) 2007 (revoked)[^key-341ccca7d6b7546db23aca154be43e1b]
+Local Government Pension Scheme (Amendment No. 4) Regulations (Northern Ireland) 2007 (revoked)[^c-341ccca7d6b7546db23aca154be43e1b]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 1st January 2008
 
-[^key-341ccca7d6b7546db23aca154be43e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-341ccca7d6b7546db23aca154be43e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and retrospection[^key-341ccca7d6b7546db23aca154be43e1b]
+## 1. Citation, commencement and retrospection[^c-341ccca7d6b7546db23aca154be43e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-341ccca7d6b7546db23aca154be43e1b]
+## 2. Amendment of Regulations[^c-341ccca7d6b7546db23aca154be43e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-341ccca7d6b7546db23aca154be43e1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-341ccca7d6b7546db23aca154be43e1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-341ccca7d6b7546db23aca154be43e1b]
+## 4. Revocation[^c-341ccca7d6b7546db23aca154be43e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-341ccca7d6b7546db23aca154be43e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-341ccca7d6b7546db23aca154be43e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-341ccca7d6b7546db23aca154be43e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-341ccca7d6b7546db23aca154be43e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-341ccca7d6b7546db23aca154be43e1b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/479) revoked (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/34/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2009/34/regulation/3))
+[^c-341ccca7d6b7546db23aca154be43e1b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/479) revoked (1.4.2009) by [Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/34)](https://www.legislation.gov.uk/nisr/2009/34), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/34/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/34/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2009/34/regulation/3))

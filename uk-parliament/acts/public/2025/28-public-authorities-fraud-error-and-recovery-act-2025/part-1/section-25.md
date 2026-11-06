@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Insufficient funds[^key-e2ef72d84afa03e909beef22e3497e2b][^key-5830e2cd6e335a69902efdb68e63ad03]
+## 25. Insufficient funds[^c-e2ef72d84afa03e909beef22e3497e2b][^c-5830e2cd6e335a69902efdb68e63ad03]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2ef72d84afa03e909beef22e3497e2b]: Commencement: S. 25 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-e2ef72d84afa03e909beef22e3497e2b]: Commencement: S. 25 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-5830e2cd6e335a69902efdb68e63ad03]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2025/28/section/25) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-5830e2cd6e335a69902efdb68e63ad03]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2025/28/section/25) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156A. Liability under section 153, 153A or 154: supplementary provisions[^key-4e95eafd4d4b4568454fbee1c5e13e60]
+## 156A. Liability under section 153, 153A or 154: supplementary provisions[^c-4e95eafd4d4b4568454fbee1c5e13e60]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4e95eafd4d4b4568454fbee1c5e13e60]: Textual amendment: [S. 156A](https://www.legislation.gov.uk/ukpga/1995/21/section/156A) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/1244/regulation/9) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-4e95eafd4d4b4568454fbee1c5e13e60]: Textual amendment: [S. 156A](https://www.legislation.gov.uk/ukpga/1995/21/section/156A) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/1244/regulation/9) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
 [^M_F_4415c1fb-5677-46e0-fbd5-9d005f2ebc6b]: Textual amendment: [1945 c. 48](https://www.legislation.gov.uk/ukpga/1945/48).
 

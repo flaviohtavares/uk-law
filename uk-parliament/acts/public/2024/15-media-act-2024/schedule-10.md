@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 10 — Schedule to be inserted as Schedule 16A to the 2003 Act[^key-dc70b9221edb76acc88bd7c4aaf882fe][^key-78d568774fa398fa86902c8e8c4c67b4]
+## Schedule 10 — Schedule to be inserted as Schedule 16A to the 2003 Act[^c-dc70b9221edb76acc88bd7c4aaf882fe][^c-78d568774fa398fa86902c8e8c4c67b4]
 
 *Extent: E+W+S+N.I.*
 
 Section 49(3)
 
-[^key-78d568774fa398fa86902c8e8c4c67b4]
+[^c-78d568774fa398fa86902c8e8c4c67b4]
 
 After Schedule 16 to the Communications Act 2003 insert—
 
@@ -189,6 +189,6 @@ After Schedule 16 to the Communications Act 2003 insert—
 
 ## Annotations
 
-[^key-dc70b9221edb76acc88bd7c4aaf882fe]: Commencement: Sch. 10 not in force at Royal Assent, see [s. 55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g)
+[^c-dc70b9221edb76acc88bd7c4aaf882fe]: Commencement: Sch. 10 not in force at Royal Assent, see [s. 55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g)
 
-[^key-78d568774fa398fa86902c8e8c4c67b4]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ukpga/2024/15/schedule/10) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z4)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z4)
+[^c-78d568774fa398fa86902c8e8c4c67b4]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ukpga/2024/15/schedule/10) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z4)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z4)

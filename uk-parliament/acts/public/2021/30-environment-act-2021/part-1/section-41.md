@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Public statements[^key-1314ba5a712afb939db82dd78f829e32][^key-16efc39734d28245ef0e3e2ad6b624c7]
+## 41. Public statements[^c-1314ba5a712afb939db82dd78f829e32][^c-16efc39734d28245ef0e3e2ad6b624c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1314ba5a712afb939db82dd78f829e32]: Commencement: S. 41 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-1314ba5a712afb939db82dd78f829e32]: Commencement: S. 41 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-16efc39734d28245ef0e3e2ad6b624c7]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2021/30/section/41) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-16efc39734d28245ef0e3e2ad6b624c7]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2021/30/section/41) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

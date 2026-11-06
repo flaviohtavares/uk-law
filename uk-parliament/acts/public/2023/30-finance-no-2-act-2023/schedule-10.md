@@ -22,11 +22,11 @@ summary: ''
 
 Section 105
 
-### 1. Liability to penalty[^M_I_3433c6bc-d443-40b6-8ccf-32e78618473c][^key-bd390fac9f7547086b12143c8f3d8e0e]
+### 1. Liability to penalty[^M_I_3433c6bc-d443-40b6-8ccf-32e78618473c][^c-bd390fac9f7547086b12143c8f3d8e0e]
 
 A penalty is payable by a person (“**P**”) who contravenes section 100(1) or 103(1).
 
-### 2. Amount of penalty[^M_I_903be08a-ac26-4f2e-9a76-49472f147e5e][^key-76f7e18cb2d2800de927e13af0be689d]
+### 2. Amount of penalty[^M_I_903be08a-ac26-4f2e-9a76-49472f147e5e][^c-76f7e18cb2d2800de927e13af0be689d]
 
 (1) If the contravention is deliberate and concealed, the amount of the penalty is the maximum amount (see paragraph 10).
 
@@ -39,7 +39,7 @@ A penalty is payable by a person (“**P**”) who contravenes section 100(1) or
 - (a) “deliberate and concealed” if the contravention is deliberate and P makes arrangements to conceal the contravention, and
 - (b) “deliberate but not concealed” if the contravention is deliberate but P does not make arrangements to conceal the contravention.
 
-### 3. Reductions for disclosure[^M_I_e2d02566-098f-48c9-bdfa-22411cebb6c7][^key-63b9d1cabf7464572a4c8a4ab6cb75c0]
+### 3. Reductions for disclosure[^M_I_e2d02566-098f-48c9-bdfa-22411cebb6c7][^c-63b9d1cabf7464572a4c8a4ab6cb75c0]
 
 (1) Paragraph 4 provides for reductions in penalties under this Schedule where P discloses a contravention.
 
@@ -56,7 +56,7 @@ A penalty is payable by a person (“**P**”) who contravenes section 100(1) or
 
 (4) In relation to disclosure “**quality**” includes timing, nature and extent.
 
-**4.**[^M_I_a1834d43-772d-49a6-b161-b0c2bc8dd42f][^key-9fcdb281e098a33b7ae978ffaf33896c] (1) Where P discloses a contravention, the Commissioners must reduce the penalty to one that reflects the quality of the disclosure.
+**4.**[^M_I_a1834d43-772d-49a6-b161-b0c2bc8dd42f][^c-9fcdb281e098a33b7ae978ffaf33896c] (1) Where P discloses a contravention, the Commissioners must reduce the penalty to one that reflects the quality of the disclosure.
 
 (2) If the disclosure is prompted, the penalty may not be reduced below—
 
@@ -70,7 +70,7 @@ A penalty is payable by a person (“**P**”) who contravenes section 100(1) or
 - (b) in the case of a contravention that is deliberate but not concealed, 20% of the maximum amount, and
 - (c) in any other case, 10% of the maximum amount.
 
-### 5. Special reduction[^M_I_abab553f-1cda-4aea-a36a-bbd80f99552e][^key-e15ad0ee5ef579a42f41113696568c9b]
+### 5. Special reduction[^M_I_abab553f-1cda-4aea-a36a-bbd80f99552e][^c-e15ad0ee5ef579a42f41113696568c9b]
 
 (1) If the Commissioners think it right because of special circumstances, they may reduce a penalty under this Schedule.
 
@@ -81,7 +81,7 @@ A penalty is payable by a person (“**P**”) who contravenes section 100(1) or
 - (a) staying a penalty, and
 - (b) agreeing a compromise in relation to proceedings for a penalty.
 
-### 6. Assessment[^M_I_be6dff8d-43eb-48f9-bb1e-f2ee81cceba5][^key-9785ce1ae380ab8221a519c53b17a98f]
+### 6. Assessment[^M_I_be6dff8d-43eb-48f9-bb1e-f2ee81cceba5][^c-9785ce1ae380ab8221a519c53b17a98f]
 
 (1) Where P becomes liable for a penalty under this Schedule, the Commissioners must—
 
@@ -97,13 +97,13 @@ A penalty is payable by a person (“**P**”) who contravenes section 100(1) or
 
 (5) Two or more contraventions may be treated by the Commissioners as a single contravention for the purposes of assessing a penalty under this Schedule.
 
-### 7. Reasonable excuse[^M_I_159bb57e-99d1-47d0-e2f8-a55e3b8713c8][^key-aa2eddece194ee5216b0a4ac08b54bdc]
+### 7. Reasonable excuse[^M_I_159bb57e-99d1-47d0-e2f8-a55e3b8713c8][^c-aa2eddece194ee5216b0a4ac08b54bdc]
 
 (1) Liability to a penalty does not arise under this Schedule in respect of a contravention which is not deliberate if P satisfies the Commissioners or (on an appeal made to the appeal tribunal) the tribunal that there is a reasonable excuse for the contravention.
 
 (2) For the purposes of sub-paragraph (1), where P relies on any other person to do anything, that is not a reasonable excuse unless P took reasonable care to avoid the contravention.
 
-### 8. Companies: officer’s liability[^M_I_32b875d9-ba38-4d24-e3f4-0704d6ef22e8][^key-6e1ac4fdaa6854a644790daa6117a688]
+### 8. Companies: officer’s liability[^M_I_32b875d9-ba38-4d24-e3f4-0704d6ef22e8][^c-6e1ac4fdaa6854a644790daa6117a688]
 
 (1) Where a penalty under this Schedule is payable by a company in respect of a contravention which was attributable to an officer of the company, the officer is liable to pay such portion of the penalty (which may be 100%) as the Commissioners may specify by written notice to the officer.
 
@@ -133,11 +133,11 @@ A penalty is payable by a person (“**P**”) who contravenes section 100(1) or
 
 (7) In this paragraph “**company**” means any body corporate or unincorporated association, but does not include a partnership.
 
-### 9. Double jeopardy[^M_I_774a97a0-a30b-494e-898a-d687e378a454][^key-f33cb5fc602a84ab72fc2bc7f33c1330]
+### 9. Double jeopardy[^M_I_774a97a0-a30b-494e-898a-d687e378a454][^c-f33cb5fc602a84ab72fc2bc7f33c1330]
 
 P is not liable to a penalty under this Schedule in respect of a contravention in respect of which P has been convicted of an offence.
 
-### 10. The maximum amount[^M_I_177e0dbc-add3-48a2-b47e-59177e85fa7a][^key-70c20a85b7ff87b6483f45b116cbc319]
+### 10. The maximum amount[^M_I_177e0dbc-add3-48a2-b47e-59177e85fa7a][^c-70c20a85b7ff87b6483f45b116cbc319]
 
 (1) In this Schedule, “**the maximum amount**” means £10,000.
 
@@ -150,7 +150,7 @@ P is not liable to a penalty under this Schedule in respect of a contravention i
 
 (4) Regulations under this paragraph do not apply to any contravention which occurred before the date on which they come into force.
 
-### 11. Appeal tribunal[^M_I_e72307c5-a0cd-44ef-b2c5-67a979060d7a][^key-183a9e52684be92bee615cbe29f8b099]
+### 11. Appeal tribunal[^M_I_e72307c5-a0cd-44ef-b2c5-67a979060d7a][^c-183a9e52684be92bee615cbe29f8b099]
 
 In this Schedule “**appeal tribunal**” has the same meaning as in Chapter 2 of Part 1 of the FA 1994.
 
@@ -158,44 +158,44 @@ In this Schedule “**appeal tribunal**” has the same meaning as in Chapter 2 
 
 [^M_I_3433c6bc-d443-40b6-8ccf-32e78618473c]: Commencement: Sch. 10 para. 1 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-bd390fac9f7547086b12143c8f3d8e0e]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/1) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-bd390fac9f7547086b12143c8f3d8e0e]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/1) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_903be08a-ac26-4f2e-9a76-49472f147e5e]: Commencement: Sch. 10 para. 2 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-76f7e18cb2d2800de927e13af0be689d]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/2) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-76f7e18cb2d2800de927e13af0be689d]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/2) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_e2d02566-098f-48c9-bdfa-22411cebb6c7]: Commencement: Sch. 10 para. 3 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-63b9d1cabf7464572a4c8a4ab6cb75c0]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/3) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-63b9d1cabf7464572a4c8a4ab6cb75c0]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/3) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_a1834d43-772d-49a6-b161-b0c2bc8dd42f]: Commencement: Sch. 10 para. 4 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-9fcdb281e098a33b7ae978ffaf33896c]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/4) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-9fcdb281e098a33b7ae978ffaf33896c]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/4) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_abab553f-1cda-4aea-a36a-bbd80f99552e]: Commencement: Sch. 10 para. 5 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-e15ad0ee5ef579a42f41113696568c9b]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/5) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-e15ad0ee5ef579a42f41113696568c9b]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/5) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_be6dff8d-43eb-48f9-bb1e-f2ee81cceba5]: Commencement: Sch. 10 para. 6 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-9785ce1ae380ab8221a519c53b17a98f]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/6) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-9785ce1ae380ab8221a519c53b17a98f]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/6) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_159bb57e-99d1-47d0-e2f8-a55e3b8713c8]: Commencement: Sch. 10 para. 7 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-aa2eddece194ee5216b0a4ac08b54bdc]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/7) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-aa2eddece194ee5216b0a4ac08b54bdc]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/7) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_32b875d9-ba38-4d24-e3f4-0704d6ef22e8]: Commencement: Sch. 10 para. 8 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-6e1ac4fdaa6854a644790daa6117a688]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/8) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-6e1ac4fdaa6854a644790daa6117a688]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/8) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_774a97a0-a30b-494e-898a-d687e378a454]: Commencement: Sch. 10 para. 9 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-f33cb5fc602a84ab72fc2bc7f33c1330]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/9) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-f33cb5fc602a84ab72fc2bc7f33c1330]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/9) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_177e0dbc-add3-48a2-b47e-59177e85fa7a]: Commencement: Sch. 10 para. 10 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-70c20a85b7ff87b6483f45b116cbc319]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/10) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-70c20a85b7ff87b6483f45b116cbc319]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/10) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
 [^M_I_e72307c5-a0cd-44ef-b2c5-67a979060d7a]: Commencement: Sch. 10 para. 11 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-183a9e52684be92bee615cbe29f8b099]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/11) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-183a9e52684be92bee615cbe29f8b099]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2023/30/schedule/10/paragraph/11) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

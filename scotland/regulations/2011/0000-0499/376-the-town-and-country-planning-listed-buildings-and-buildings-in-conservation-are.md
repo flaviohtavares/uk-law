@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 18, 19, 41D(5) and 82 of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-7f10d6476f17d746deaf87deaa694528]
+## 1. Citation, commencement and interpretation[^c-7f10d6476f17d746deaf87deaa694528]
 
 (1) These Regulations may be cited as the Town and Country Planning (Listed Buildings and Buildings in Conservation Areas) (Scotland) Amendment Regulations 2011 and come into force on 1st December 2011.
 
@@ -55,11 +55,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “the 1987 Regulations” means the Town and Country Planning (Listed Buildings and Buildings in Conservation Areas) (Scotland) Regulations 1987[^f00002]; and
 - “the Act” means the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997.
 
-## 2. Amendment of the Town and Country Planning (Listed Buildings and Buildings in Conservation Areas) (Scotland) Regulations 1987[^key-8d6555589860705ec3a02f8192ed5e3d]
+## 2. Amendment of the Town and Country Planning (Listed Buildings and Buildings in Conservation Areas) (Scotland) Regulations 1987[^c-8d6555589860705ec3a02f8192ed5e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving provisions[^key-2ed1b5671eda5bde6c63e79ddc47c3ba]
+## 3. Saving provisions[^c-2ed1b5671eda5bde6c63e79ddc47c3ba]
 
 (1) Regulations 6 and 8 of, and Schedule 2 to, the 1987 Regulations continue to have effect as they had effect immediately before 1st December 2011 in relation to an appeal made under—
 
@@ -95,10 +95,10 @@ In particular, they remove provision on applications for appeal against decision
 
 [^f00001]: Footnote: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Sections 41D and 41I are inserted by section 23(1) of the Historic Environment (Amendment) (Scotland) Act [2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3). Section 41I applies section 41D(5).
 
-[^key-7f10d6476f17d746deaf87deaa694528]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/376/regulation/1) in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/376/regulation/1/1)
+[^c-7f10d6476f17d746deaf87deaa694528]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/376/regulation/1) in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/376/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1987/1529](https://www.legislation.gov.uk/uksi/1987/1529) as amended by [S.S.I. 2004/332](https://www.legislation.gov.uk/ssi/2004/332).
 
-[^key-8d6555589860705ec3a02f8192ed5e3d]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/376/regulation/2) revoked (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [19(2)(c)](https://www.legislation.gov.uk/ssi/2015/243/regulation/19/2/c) (with [regs. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2), [19(3)](https://www.legislation.gov.uk/ssi/2015/243/regulation/19/3))
+[^c-8d6555589860705ec3a02f8192ed5e3d]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/376/regulation/2) revoked (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [19(2)(c)](https://www.legislation.gov.uk/ssi/2015/243/regulation/19/2/c) (with [regs. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2), [19(3)](https://www.legislation.gov.uk/ssi/2015/243/regulation/19/3))
 
-[^key-2ed1b5671eda5bde6c63e79ddc47c3ba]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/376/regulation/3) in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/376/regulation/1/1)
+[^c-2ed1b5671eda5bde6c63e79ddc47c3ba]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/376/regulation/3) in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/376/regulation/1/1)

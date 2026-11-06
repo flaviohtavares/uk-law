@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Enabling Powers[^key-dc823526bb37be5280dc70d35a71a51d]
+## SCHEDULE 1 — Enabling Powers[^c-dc823526bb37be5280dc70d35a71a51d]
 
 *Extent: E+W*
 
-[^key-dc823526bb37be5280dc70d35a71a51d]
+[^c-dc823526bb37be5280dc70d35a71a51d]
 
 These Regulations are made under the following powers—
 
@@ -34,7 +34,7 @@ These Regulations are made under the following powers—
 
 ## Annotations
 
-[^key-dc823526bb37be5280dc70d35a71a51d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2910/schedule/1) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-dc823526bb37be5280dc70d35a71a51d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2910/schedule/1) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00090]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Paragraph (aa) of sections 7(3), 7A(3), 7C(2) and 15(2) were inserted by section 12 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22) (“the 2006 Act”), section 13B was inserted by paragraph 6 of Schedule 1 to the Representation of the People Act [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), and amended by section 11 of the 2006 Act, subsection (3C) of section 36 was inserted by section 17 of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), subsection (4) of section 53 was inserted by paragraph 109 of Schedule 1 to the 2006 Act, paragraphs (3) to (9) of rule 57 were inserted by section 41 of the 2006 Act, paragraph 2A of Schedule 2 was inserted by section 5 of the Representation of the People Act [1989 (c. 28)](https://www.legislation.gov.uk/ukpga/1989/28) and amended by paragraph 24 of Schedule 1 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2) (“the 2000 Act”), paragraph 2B of Schedule 2 was inserted by paragraph 15(3) of Schedule 1 to the 2006 Act, paragraph 3A of Schedule 2 was inserted by paragraph 24 of Schedule 1 to the 2000 Act, paragraph 5A was inserted by section 11 of the Representation of the People Act 1985 and amended by paragraph 11 of Schedule 6 to the 2000 Act, paragraph 8A was inserted by paragraph 15(6) of Schedule 1 to the 2006 Act, paragraph 10 was amended by section 9 of the 2000 Act and paragraph 15(7) of Schedule 1 to the 2006 Act, sub-paragraph (aa) of paragraph 12 of Schedule 2 was inserted by paragraph 94 of Schedule 1 to the 2006 Act and sub-paragraph (1A) of paragraph 13 of Schedule 2 was inserted by section 9 of the 2000 Act.
 

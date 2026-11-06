@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 196. Transitional provisions[^key-a0c830cb6605d6f412857f3bebd14b48]
+## 196. Transitional provisions[^c-a0c830cb6605d6f412857f3bebd14b48]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 has effect.
 
 ## Annotations
 
-[^key-a0c830cb6605d6f412857f3bebd14b48]: Commencement: Reg. 196 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-a0c830cb6605d6f412857f3bebd14b48]: Commencement: Reg. 196 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

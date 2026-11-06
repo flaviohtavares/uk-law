@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Custody of the seal[^key-9a6d76ff518f86bc07242153fec45d1a]
+## 2. Custody of the seal[^c-9a6d76ff518f86bc07242153fec45d1a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a6d76ff518f86bc07242153fec45d1a]: Textual amendment: Order 56 rule 2 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(23)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/23/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-9a6d76ff518f86bc07242153fec45d1a]: Textual amendment: Order 56 rule 2 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(23)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/23/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

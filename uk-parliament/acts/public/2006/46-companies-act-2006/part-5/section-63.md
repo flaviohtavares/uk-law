@@ -34,7 +34,7 @@ must not amend its articles so that it ceases to comply with the conditions for 
 
 For this purpose a shadow director is treated as an officer of the company.
 
-(3) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-6c1c4c0db45f16b0b52b4ad5aea1a55a]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
+(3) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-6c1c4c0db45f16b0b52b4ad5aea1a55a]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)*.
 
 (4) Where immediately before the commencement of this section—
 
@@ -51,4 +51,4 @@ This does not apply if, or to the extent that, the provision is required by or u
 
 ## Annotations
 
-[^key-6c1c4c0db45f16b0b52b4ad5aea1a55a]: Textual amendment: Words in s. 63(3) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-6c1c4c0db45f16b0b52b4ad5aea1a55a]: Textual amendment: Words in s. 63(3) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

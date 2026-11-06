@@ -22,7 +22,7 @@ summary: ''
 
 Article 36
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-7a0548dac7867261c56b12379d05a537]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-7a0548dac7867261c56b12379d05a537]
 
 | *(1)*<br>*Area* | *(2)*<br>*Location of hedgerow* |
 | --- | --- |
@@ -152,7 +152,7 @@ Article 36
 | East Riding of Yorkshire District | The hedgerow shown between points 127a and 127b on sheets 26, 27 and 28 of the tree preservation order and hedgerow plan |
 | East Riding of Yorkshire District | The hedgerow shown between points 128a and 128b on sheet 27 of the tree preservation order and hedgerow plan |
 
-### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^key-09892f31ac98c7b341f0c8c9e87213e6]
+### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^c-09892f31ac98c7b341f0c8c9e87213e6]
 
 | *(1)*<br>*Area* | *(2)*<br>*Location of hedgerow* |
 | --- | --- |
@@ -166,6 +166,6 @@ Article 36
 
 ## Annotations
 
-[^key-7a0548dac7867261c56b12379d05a537]: Commencement: Sch. 10 Pt. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-7a0548dac7867261c56b12379d05a537]: Commencement: Sch. 10 Pt. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-09892f31ac98c7b341f0c8c9e87213e6]: Commencement: Sch. 10 Pt. 2 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-09892f31ac98c7b341f0c8c9e87213e6]: Commencement: Sch. 10 Pt. 2 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

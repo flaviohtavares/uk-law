@@ -28,7 +28,7 @@ summary: ''
 
 (2) Where the power designated by the order made under subsection (1) is a power conferred in relation to Scotland, the Secretary of State shall consult the Scottish Ministers before making the order.
 
-(2A)[^key-95c745560d3db633448d8a05b463cd63] Where the power designated by the order made under subsection (1) is a power conferred in relation to Northern Ireland, the Secretary of State shall consult the Department of Justice in Northern Ireland before making the order.
+(2A)[^c-95c745560d3db633448d8a05b463cd63] Where the power designated by the order made under subsection (1) is a power conferred in relation to Northern Ireland, the Secretary of State shall consult the Department of Justice in Northern Ireland before making the order.
 
 (3) The power to make an order under subsection (1) shall be exercisable by statutory instrument; and no such order shall be made unless a draft of it has been laid before Parliament and approved by a resolution of each House.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95c745560d3db633448d8a05b463cd63]: Textual amendment: S. 69(2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 46(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/46/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-95c745560d3db633448d8a05b463cd63]: Textual amendment: S. 69(2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 46(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/46/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

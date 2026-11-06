@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Article 24 amended (monitoring and reporting of emissions)[^key-519eb3df0f46ed5d94dffb521044497a]
+## 13. Article 24 amended (monitoring and reporting of emissions)[^c-519eb3df0f46ed5d94dffb521044497a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-519eb3df0f46ed5d94dffb521044497a]: Commencement: Art. 13 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-519eb3df0f46ed5d94dffb521044497a]: Commencement: Art. 13 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

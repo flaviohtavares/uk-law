@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Refund of all member contributions and payments for added pension made by member[^key-9b4ac92f1840e104d2929c9fe2264f03]
+## 125. Refund of all member contributions and payments for added pension made by member[^c-9b4ac92f1840e104d2929c9fe2264f03]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b4ac92f1840e104d2929c9fe2264f03]: Commencement: Reg. 125 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-9b4ac92f1840e104d2929c9fe2264f03]: Commencement: Reg. 125 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00061]: Footnote: Section 205 was amended by the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) Schedule 46, paragraph 121 and [S.I. 2010/536](https://www.legislation.gov.uk/uksi/2010/536).

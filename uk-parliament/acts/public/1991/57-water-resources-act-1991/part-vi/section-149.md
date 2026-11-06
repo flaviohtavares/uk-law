@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 149. Other grants in respect of exercise of powers under Part VII for drainage purposes.[^key-63ec43bc0c059b1ca1aa84671419e925]
+## 149. Other grants in respect of exercise of powers under Part VII for drainage purposes.[^c-63ec43bc0c059b1ca1aa84671419e925]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63ec43bc0c059b1ca1aa84671419e925]: Textual amendment: Ss. 147-149 repealed (17.3.2004 for E., 1.4.2004 for W.) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 69(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/69/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2004/641/article/2/a/d); [S.I. 2004/910](https://www.legislation.gov.uk/uksi/2004/910), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2004/910/article/2/1/b)
+[^c-63ec43bc0c059b1ca1aa84671419e925]: Textual amendment: Ss. 147-149 repealed (17.3.2004 for E., 1.4.2004 for W.) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 69(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/69/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2004/641/article/2/a/d); [S.I. 2004/910](https://www.legislation.gov.uk/uksi/2004/910), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2004/910/article/2/1/b)

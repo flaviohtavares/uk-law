@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Production of the historical record[^key-047a2321fe7b31cd27ce294a70ca243e][^key-892a3a258f6364931a7530c52a284f47]
+## 28. Production of the historical record[^c-047a2321fe7b31cd27ce294a70ca243e][^c-892a3a258f6364931a7530c52a284f47]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-047a2321fe7b31cd27ce294a70ca243e]: Commencement: S. 28 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-047a2321fe7b31cd27ce294a70ca243e]: Commencement: S. 28 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-892a3a258f6364931a7530c52a284f47]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/41/section/28) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-892a3a258f6364931a7530c52a284f47]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/41/section/28) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

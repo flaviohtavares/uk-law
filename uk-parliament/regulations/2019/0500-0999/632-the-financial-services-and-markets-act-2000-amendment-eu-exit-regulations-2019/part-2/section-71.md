@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Section 382 (restitution orders)[^key-25cfbebe54613d6425be6d064e33b7ae]
+## 71. Section 382 (restitution orders)[^c-25cfbebe54613d6425be6d064e33b7ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-25cfbebe54613d6425be6d064e33b7ae]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-25cfbebe54613d6425be6d064e33b7ae]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658091]: Marginal citation: Section 382 was amended by section 37(1) of, and paragraph 1 of Part 1 and paragraphs 21(1), (2), (3), (4), (5)(a), (5)(b), (5)(c), (6), (7) of Part 5 of Schedule 9 to, the Financial Services Act 2012, section 141 of, and paragraphs 3(1), (3) of Schedule 10 to, the Financial Services (Banking Reform) Act 2013 and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 

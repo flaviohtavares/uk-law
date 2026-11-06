@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Guidance[^key-600f944676c52132d05e139358dfa61b][^key-a9bf7eb69092063a59474018fc349955]
+## 79. Guidance[^c-600f944676c52132d05e139358dfa61b][^c-a9bf7eb69092063a59474018fc349955]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-600f944676c52132d05e139358dfa61b]: Commencement: S. 79 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-600f944676c52132d05e139358dfa61b]: Commencement: S. 79 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-a9bf7eb69092063a59474018fc349955]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/23/section/79) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-a9bf7eb69092063a59474018fc349955]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/23/section/79) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

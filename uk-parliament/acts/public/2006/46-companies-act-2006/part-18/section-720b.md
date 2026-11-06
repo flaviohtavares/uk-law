@@ -30,12 +30,12 @@ summary: ''
 
 - (a) the total number of shares of the company,
 - (b) the aggregate nominal value of those shares,
-- (ba)[^key-f65b909e3e89f16d9bfa21b392bb7fac] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
+- (ba)[^c-f65b909e3e89f16d9bfa21b392bb7fac] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
 - (c) for each class of shares—
   - (i) prescribed particulars of the rights attached to the shares,
   - (ii) the total number of shares of that class, and
-  - (iii) the aggregate nominal value of shares of that class, [^key-0d1a87d32b8ae83013d817447feda815]...
-- (d)[^key-0d1a87d32b8ae83013d817447feda815] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the aggregate nominal value of shares of that class, [^c-0d1a87d32b8ae83013d817447feda815]...
+- (d)[^c-0d1a87d32b8ae83013d817447feda815] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The registrar must register the documents delivered to him under subsection (1) on receipt.
 
@@ -67,6 +67,6 @@ summary: ''
 
 [^c21805691]: Textual amendment: Ss. 720A, 720B and cross-heading inserted (30.4.2013) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2013 (S.I. 2013/999)](https://www.legislation.gov.uk/uksi/2013/999), [reg. 12](https://www.legislation.gov.uk/uksi/2013/999/regulation/12)
 
-[^key-f65b909e3e89f16d9bfa21b392bb7fac]: Textual amendment: [S. 720B(2)(ba)](https://www.legislation.gov.uk/ukpga/2006/46/section/720B/2/ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 15(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/15/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-f65b909e3e89f16d9bfa21b392bb7fac]: Textual amendment: [S. 720B(2)(ba)](https://www.legislation.gov.uk/ukpga/2006/46/section/720B/2/ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 15(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/15/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
 
-[^key-0d1a87d32b8ae83013d817447feda815]: Textual amendment: [S. 720B(2)(d)](https://www.legislation.gov.uk/ukpga/2006/46/section/720B/2/d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 15(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/15/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-0d1a87d32b8ae83013d817447feda815]: Textual amendment: [S. 720B(2)(d)](https://www.legislation.gov.uk/ukpga/2006/46/section/720B/2/d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 15(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/15/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)

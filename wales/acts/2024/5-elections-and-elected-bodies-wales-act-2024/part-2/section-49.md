@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Deadline for completion of implementation[^key-235f5547b1bd596cb1e3e68800b31d0e]
+## 49. Deadline for completion of implementation[^c-235f5547b1bd596cb1e3e68800b31d0e]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-235f5547b1bd596cb1e3e68800b31d0e]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2024/5/section/49) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-235f5547b1bd596cb1e3e68800b31d0e]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2024/5/section/49) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

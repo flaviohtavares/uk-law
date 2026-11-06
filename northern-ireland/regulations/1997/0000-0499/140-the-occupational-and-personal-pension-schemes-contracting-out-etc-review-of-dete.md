@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 165(8), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-54ccc293fcd14838468ccf36b5bd7725]
+## 1. Citation, commencement and interpretation[^c-54ccc293fcd14838468ccf36b5bd7725]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Contracting-out etc: Review of Determinations) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -53,11 +53,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) For the purposes of these Regulations, and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954, where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Application of regulations[^key-ea84dd37fc503b1d5a1b7a3f71838a14]
+## 2. Application of regulations[^c-ea84dd37fc503b1d5a1b7a3f71838a14]
 
-These Regulations apply to any review under section 17 of the Social Security Administration (Northern Ireland) Act 1992[^f00003] of any question falling to be determined by the Department by virtue of section 165(7) of the 1993 Act[^f00004] (questions arising in connection with the issue, cancellation or variation of contracting-out certificates [^key-f3f846d4d93a590edd060e7c24e0d076]... and other questions falling to be determined by the Department under the 1993 Act, not being questions under section 165(1)(*e*) of the 1993 Act[^f00005]).
+These Regulations apply to any review under section 17 of the Social Security Administration (Northern Ireland) Act 1992[^f00003] of any question falling to be determined by the Department by virtue of section 165(7) of the 1993 Act[^f00004] (questions arising in connection with the issue, cancellation or variation of contracting-out certificates [^c-f3f846d4d93a590edd060e7c24e0d076]... and other questions falling to be determined by the Department under the 1993 Act, not being questions under section 165(1)(*e*) of the 1993 Act[^f00005]).
 
-## 3. Applications to the Department for a review of a determination[^key-71b3ed3338deb4650a9490754028c486]
+## 3. Applications to the Department for a review of a determination[^c-71b3ed3338deb4650a9490754028c486]
 
 (1) An application to the Department for a review of a determination shall be made in writing and shall state—
 
@@ -83,7 +83,7 @@ These Regulations apply to any review under section 17 of the Social Security Ad
 
 and the notice shall state that any person to whom it is given may request a formal hearing of the review and may make representations in connection with the review to the Department within 21 days of receipt of the notice.
 
-## 4. Formal hearings in connection with reviews[^key-932557c30193de36c18ff2f0f7e0a3fa]
+## 4. Formal hearings in connection with reviews[^c-932557c30193de36c18ff2f0f7e0a3fa]
 
 (1) If the applicant for a review of a determination or any person to whom notice of the application has been given under regulation 3(4) requests a formal hearing of the application, the Department shall grant the request unless, after considering the grounds of the application and any reasons given for the request, it is satisfied that the review of the determination can properly be made without such a hearing.
 
@@ -99,7 +99,7 @@ and the notice shall state that any person to whom it is given may request a for
 
 (7) If any person to whom notice of the hearing has been given under paragraph (3) fails to appear or be represented at the hearing, the Department may proceed with the hearing notwithstanding the absence of the person or his representative.
 
-## 5. Procedure for review decision[^key-4d636bf9a38ddbf149cf535ca7cceb20]
+## 5. Procedure for review decision[^c-4d636bf9a38ddbf149cf535ca7cceb20]
 
 (1) Subject to paragraph (2), the Department shall allow a period of at least 21 days to elapse after the sending of the notices required by regulation 3(4) and it shall then proceed to review the determination as soon as practicable with a view to confirming, varying or revoking that determination having regard to any representations that it has received.
 
@@ -115,11 +115,11 @@ and the notice shall state that any person to whom it is given may request a for
 
 to every person to whom notice was sent under regulation 3(4).
 
-## 6. Review by the Department without an application being made[^key-8399807183c99fe4bec708e64de67cea]
+## 6. Review by the Department without an application being made[^c-8399807183c99fe4bec708e64de67cea]
 
 In any case where the Department enters upon a review of a determination without an application for review being made, the provisions of regulations 3(4), 4 and 5 shall apply as if the review were being entered upon consequent upon an application being made, save that the notice referred to under regulation 3(4) shall not refer to any application and any reference to the applicant shall be disregarded.
 
-## 7. Revocations[^key-7f1cbe45d3157bab9e0127ede504c4ad]
+## 7. Revocations[^c-7f1cbe45d3157bab9e0127ede504c4ad]
 
 The Regulations listed in column 2 of the Schedule are revoked to the extent specified in column 3 of that Schedule.
 
@@ -131,7 +131,7 @@ Assistant Secretary
 
 10th March 1997.
 
-## SCHEDULE — Revocations[^key-905151d831a1596c72060a7e16b8a5b6]
+## SCHEDULE — Revocations[^c-905151d831a1596c72060a7e16b8a5b6]
 
 Regulation 7
 
@@ -171,28 +171,28 @@ Section 165(8) of the Act, one of the enabling provisions under which these Regu
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 165(8) was added by paragraph 60(*c*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-54ccc293fcd14838468ccf36b5bd7725]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
+[^c-54ccc293fcd14838468ccf36b5bd7725]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ea84dd37fc503b1d5a1b7a3f71838a14]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
+[^c-ea84dd37fc503b1d5a1b7a3f71838a14]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
 
 [^f00003]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
 [^f00004]: Footnote: Section 165(7) was added by paragraph 60(*c*) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-f3f846d4d93a590edd060e7c24e0d076]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1997/140/regulation/2) omitted (6.4.2012) by virtue of [The Pensions (2008 Act) (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/120)](https://www.legislation.gov.uk/nisr/2012/120), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2012/120/regulation/1/a), [10](https://www.legislation.gov.uk/nisr/2012/120/regulation/10)
+[^c-f3f846d4d93a590edd060e7c24e0d076]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1997/140/regulation/2) omitted (6.4.2012) by virtue of [The Pensions (2008 Act) (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/120)](https://www.legislation.gov.uk/nisr/2012/120), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2012/120/regulation/1/a), [10](https://www.legislation.gov.uk/nisr/2012/120/regulation/10)
 
 [^f00005]: Footnote: Section 165(1)(*e*) is substituted by paragraph 60(*a*)(iii) of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-71b3ed3338deb4650a9490754028c486]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
+[^c-71b3ed3338deb4650a9490754028c486]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
 
-[^key-932557c30193de36c18ff2f0f7e0a3fa]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
+[^c-932557c30193de36c18ff2f0f7e0a3fa]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
 
-[^key-4d636bf9a38ddbf149cf535ca7cceb20]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
+[^c-4d636bf9a38ddbf149cf535ca7cceb20]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
 
-[^key-8399807183c99fe4bec708e64de67cea]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
+[^c-8399807183c99fe4bec708e64de67cea]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
 
-[^key-7f1cbe45d3157bab9e0127ede504c4ad]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
+[^c-7f1cbe45d3157bab9e0127ede504c4ad]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
 
-[^key-905151d831a1596c72060a7e16b8a5b6]: Commencement: Sch. in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)
+[^c-905151d831a1596c72060a7e16b8a5b6]: Commencement: Sch. in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/140/regulation/1/1)

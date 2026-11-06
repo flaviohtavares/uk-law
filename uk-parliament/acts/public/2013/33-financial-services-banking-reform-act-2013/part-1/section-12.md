@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Right to obtain documents and information[^key-263cecd2434b540fc15ae08a2e7bfe63]
+## 12. Right to obtain documents and information[^c-263cecd2434b540fc15ae08a2e7bfe63]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-263cecd2434b540fc15ae08a2e7bfe63]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/33/section/12) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(k)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/k)
+[^c-263cecd2434b540fc15ae08a2e7bfe63]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/33/section/12) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(k)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/k)

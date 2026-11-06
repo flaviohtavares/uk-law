@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Period during which regulation 28 is to apply[^key-3ff4ba9ac0852b2fb6228e4e184ad198]
+## 31. Period during which regulation 28 is to apply[^c-3ff4ba9ac0852b2fb6228e4e184ad198]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of regulation 29(b), the period is one that begins with IP completion day[^key-0063598a142e35db3dfe20837ce43ef0] and ends with a day determined in accordance with paragraph (2).
+(1) For the purposes of regulation 29(b), the period is one that begins with IP completion day[^c-0063598a142e35db3dfe20837ce43ef0] and ends with a day determined in accordance with paragraph (2).
 
 (2) The period ends—
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ff4ba9ac0852b2fb6228e4e184ad198]: Commencement: Reg. 31 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-3ff4ba9ac0852b2fb6228e4e184ad198]: Commencement: Reg. 31 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
 
-[^key-0063598a142e35db3dfe20837ce43ef0]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2019/266/regulation/31) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/11/c)
+[^c-0063598a142e35db3dfe20837ce43ef0]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/2019/266/regulation/31) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/11/c)

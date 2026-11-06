@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-a6f246b4156ad6bf502353c7194ebb4f] In section 10A of the Title Conditions (Scotland) Act 2003 (asp 9) (notice of potential liability for costs: further provision), after subsection (3) insert—
+(1)[^c-a6f246b4156ad6bf502353c7194ebb4f] In section 10A of the Title Conditions (Scotland) Act 2003 (asp 9) (notice of potential liability for costs: further provision), after subsection (3) insert—
 
 > (3A) The owner of a burdened property may apply to register a notice (a “notice of discharge”) if—
 >
@@ -35,7 +35,7 @@ summary: ''
 
 .
 
-(2)[^key-eeb6056d737a4899cad0cef5bde60f2b] In the Tenements (Scotland) Act 2004—
+(2)[^c-eeb6056d737a4899cad0cef5bde60f2b] In the Tenements (Scotland) Act 2004—
 
 - (a) in section 13 (notice of potential liability for costs: further provision), after subsection (3) insert—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6f246b4156ad6bf502353c7194ebb4f]: Commencement: S. 86(1) in force at 13.11.2014 for specified purposes, 16.12.2014 in so far as not already in force by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-a6f246b4156ad6bf502353c7194ebb4f]: Commencement: S. 86(1) in force at 13.11.2014 for specified purposes, 16.12.2014 in so far as not already in force by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-eeb6056d737a4899cad0cef5bde60f2b]: Commencement: S. 86(2) in force at 13.11.2014 for specified purposes, 16.12.2014 in so far as not already in force by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-eeb6056d737a4899cad0cef5bde60f2b]: Commencement: S. 86(2) in force at 13.11.2014 for specified purposes, 16.12.2014 in so far as not already in force by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

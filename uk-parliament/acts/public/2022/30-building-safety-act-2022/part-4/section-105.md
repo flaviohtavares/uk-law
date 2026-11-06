@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Appeals against decisions of the regulator made under regulations[^key-fa85ae6d782d6ea4ddace93551c93711][^key-b0fbaf26a0dd503a59ab4e113555749e]
+## 105. Appeals against decisions of the regulator made under regulations[^c-fa85ae6d782d6ea4ddace93551c93711][^c-b0fbaf26a0dd503a59ab4e113555749e]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa85ae6d782d6ea4ddace93551c93711]: Commencement: S. 105 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-fa85ae6d782d6ea4ddace93551c93711]: Commencement: S. 105 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-b0fbaf26a0dd503a59ab4e113555749e]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2022/30/section/105) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/w)
+[^c-b0fbaf26a0dd503a59ab4e113555749e]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2022/30/section/105) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/w)

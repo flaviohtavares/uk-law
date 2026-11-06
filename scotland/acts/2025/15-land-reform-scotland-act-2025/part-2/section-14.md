@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Extension of Tenant Farming Commissioner’s functions[^key-ae1dc1addb58d8b9ed644e12281e9814]
+## 14. Extension of Tenant Farming Commissioner’s functions[^c-ae1dc1addb58d8b9ed644e12281e9814]
 
 *Extent: S*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae1dc1addb58d8b9ed644e12281e9814]: Commencement: S. 14 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-ae1dc1addb58d8b9ed644e12281e9814]: Commencement: S. 14 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

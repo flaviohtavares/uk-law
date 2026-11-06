@@ -33,16 +33,16 @@ of 11 August 2012
 
 amending the Protocol on the Statute of the Court of Justice of the European Union and Annex I thereto (revoked)
 
-[^key-5a1c3c51951a76d1f9ff7f09c062f183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a1c3c51951a76d1f9ff7f09c062f183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5a1c3c51951a76d1f9ff7f09c062f183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5a1c3c51951a76d1f9ff7f09c062f183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5a1c3c51951a76d1f9ff7f09c062f183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5a1c3c51951a76d1f9ff7f09c062f183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5a1c3c51951a76d1f9ff7f09c062f183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5a1c3c51951a76d1f9ff7f09c062f183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a1c3c51951a76d1f9ff7f09c062f183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a1c3c51951a76d1f9ff7f09c062f183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a1c3c51951a76d1f9ff7f09c062f183]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a1c3c51951a76d1f9ff7f09c062f183]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

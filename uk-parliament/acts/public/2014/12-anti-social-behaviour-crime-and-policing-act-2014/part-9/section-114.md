@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Saving and transitional provision[^key-88dbe5d1fe337378e8b831ed48bc9684]
+## 114. Saving and transitional provision[^c-88dbe5d1fe337378e8b831ed48bc9684]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88dbe5d1fe337378e8b831ed48bc9684]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2014/12/section/114) in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/373/article/2/b)
+[^c-88dbe5d1fe337378e8b831ed48bc9684]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2014/12/section/114) in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/373/article/2/b)

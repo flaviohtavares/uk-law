@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Deposits[^key-e5cbe182461bc14ab4f912220e5bd35b]
+## 121. Deposits[^c-e5cbe182461bc14ab4f912220e5bd35b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In determining under these Regulations the amount that an applicant or bidder ha
 
 ## Annotations
 
-[^key-e5cbe182461bc14ab4f912220e5bd35b]: Commencement: Reg. 121 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-e5cbe182461bc14ab4f912220e5bd35b]: Commencement: Reg. 121 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

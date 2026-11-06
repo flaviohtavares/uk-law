@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. General duty of Secretary of State[^key-2d217681396a34a7db91879afffc9ee6]
+## 78. General duty of Secretary of State[^c-2d217681396a34a7db91879afffc9ee6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Secretary of State must exercise the powers conferred by this Part in such m
 
 ## Annotations
 
-[^key-2d217681396a34a7db91879afffc9ee6]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2011/13/section/78) in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(a)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/a)
+[^c-2d217681396a34a7db91879afffc9ee6]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2011/13/section/78) in force at 15.11.2011 by [S.I. 2011/2515](https://www.legislation.gov.uk/uksi/2011/2515), [art. 3(a)](https://www.legislation.gov.uk/uksi/2011/2515/article/3/a)

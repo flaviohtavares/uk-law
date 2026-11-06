@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2(1)
 
-**1.** A conformity assessment body shall be established in the United Kingdom[^key-94318c6e997c12acbce9eb99ff4ce375] and have legal personality.
+**1.** A conformity assessment body shall be established in the United Kingdom[^c-94318c6e997c12acbce9eb99ff4ce375] and have legal personality.
 
 **2.** A conformity assessment body shall be a third party body independent of the organisation or the product it assesses.
 
@@ -64,18 +64,18 @@ Regulation 2(1)
 
 **14.** The remuneration of the top level management and the personnel responsible for carrying out the conformity assessment activities shall not depend on the number of assessments carried out or on the results of those assessments.
 
-**15.** A conformity assessment body shall have, and shall satisfy the Secretary of State[^key-3ec09107253723a4b5d7f122cb38835d] that it has, adequate civil liability insurance in respect of its activities.
+**15.** A conformity assessment body shall have, and shall satisfy the Secretary of State[^c-3ec09107253723a4b5d7f122cb38835d] that it has, adequate civil liability insurance in respect of its activities.
 
 **16.** A conformity assessment body shall ensure that its personnel observe professional secrecy with regard to all information obtained in carrying out their tasks in accordance with these Regulations and that proprietary rights are protected.
 
-**17.** Paragraph 16 does not prevent the personnel from providing information to the Secretary of State[^key-9fc4fc3a28bac43c7de4b95d7bea1388] pursuant to these Regulations or under any enactment.
+**17.** Paragraph 16 does not prevent the personnel from providing information to the Secretary of State[^c-9fc4fc3a28bac43c7de4b95d7bea1388] pursuant to these Regulations or under any enactment.
 
 **18.** A conformity assessment body shall participate in, or ensure that its personnel who are responsible for carrying out the conformity assessment activities are informed of, the relevant standardisation activities and the activities of any notified body coordination group established under the ATEX Directive and shall apply as general guidance the administrative decisions and documents produced as a result of the work of that group.
 
 ## Annotations
 
-[^key-94318c6e997c12acbce9eb99ff4ce375]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2017/90/schedule/2/paragraph/1) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [9(a)](https://www.legislation.gov.uk/uksi/2023/861/regulation/9/a)
+[^c-94318c6e997c12acbce9eb99ff4ce375]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2017/90/schedule/2/paragraph/1) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [9(a)](https://www.legislation.gov.uk/uksi/2023/861/regulation/9/a)
 
-[^key-3ec09107253723a4b5d7f122cb38835d]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2017/90/schedule/2/paragraph/15) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [9(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/9/b)
+[^c-3ec09107253723a4b5d7f122cb38835d]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2017/90/schedule/2/paragraph/15) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [9(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/9/b)
 
-[^key-9fc4fc3a28bac43c7de4b95d7bea1388]: Textual amendment: Words in [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2017/90/schedule/2/paragraph/17) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [9(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/9/b)
+[^c-9fc4fc3a28bac43c7de4b95d7bea1388]: Textual amendment: Words in [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2017/90/schedule/2/paragraph/17) substituted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [9(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/9/b)

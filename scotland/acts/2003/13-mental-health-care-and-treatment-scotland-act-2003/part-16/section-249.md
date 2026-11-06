@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 249. Interpretation of Part[^key-017ca02677c3acfe5647f8ba20ba983b]
+## 249. Interpretation of Part[^c-017ca02677c3acfe5647f8ba20ba983b]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-017ca02677c3acfe5647f8ba20ba983b]: Commencement: [S. 249](https://www.legislation.gov.uk/asp/2003/13/section/249) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-017ca02677c3acfe5647f8ba20ba983b]: Commencement: [S. 249](https://www.legislation.gov.uk/asp/2003/13/section/249) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

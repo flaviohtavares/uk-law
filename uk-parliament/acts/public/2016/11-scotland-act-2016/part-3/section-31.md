@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Employment support[^key-3498bd43eefd7b44e162c3ebea2aa89c]
+## 31. Employment support[^c-3498bd43eefd7b44e162c3ebea2aa89c]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3498bd43eefd7b44e162c3ebea2aa89c]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2016/11/section/31) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/h)
+[^c-3498bd43eefd7b44e162c3ebea2aa89c]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2016/11/section/31) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/h)

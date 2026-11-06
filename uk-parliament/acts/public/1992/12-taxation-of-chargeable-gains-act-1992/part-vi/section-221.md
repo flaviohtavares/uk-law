@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Harbour authorities.[^key-c76dbc6a5cd7d5b94828b2cc46c96c95]
+## 221. Harbour authorities.[^c-c76dbc6a5cd7d5b94828b2cc46c96c95]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c76dbc6a5cd7d5b94828b2cc46c96c95]: Textual amendment: S. 221 repealed (with effect in accordance with Sch. 39 para. 18(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/15)
+[^c-c76dbc6a5cd7d5b94828b2cc46c96c95]: Textual amendment: S. 221 repealed (with effect in accordance with Sch. 39 para. 18(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/15)

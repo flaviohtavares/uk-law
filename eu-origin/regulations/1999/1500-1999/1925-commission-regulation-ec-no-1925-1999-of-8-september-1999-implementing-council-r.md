@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1925/1999
 
 of 8 September 1999 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community concerning the specification of the 2000 ad hoc module on transition from school to working life (revoked)
 
-[^key-dc2a804afb13dd14e1ec63bc820a86a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc2a804afb13dd14e1ec63bc820a86a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-dc2a804afb13dd14e1ec63bc820a86a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-dc2a804afb13dd14e1ec63bc820a86a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc2a804afb13dd14e1ec63bc820a86a1]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc2a804afb13dd14e1ec63bc820a86a1]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

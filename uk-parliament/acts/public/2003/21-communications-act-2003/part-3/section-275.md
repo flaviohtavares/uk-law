@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 275. Must-provide services for the purposes of s. 274[^key-39b64407bc87f552d08013ddebb3b3fb]
+## 275. Must-provide services for the purposes of s. 274[^c-39b64407bc87f552d08013ddebb3b3fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) Channel 4 so far as provided in digital form;
 - (d) Channel 5 so far as provided in digital form;
 - (e) S4C Digital;
-- (f)[^key-20527161a42169426c7adb4cf389c5ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-20527161a42169426c7adb4cf389c5ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Secretary of State may by order modify the list of must-provide services in subsection (1).
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39b64407bc87f552d08013ddebb3b3fb]: Commencement: S. 275 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-39b64407bc87f552d08013ddebb3b3fb]: Commencement: S. 275 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-20527161a42169426c7adb4cf389c5ac]: Textual amendment: [S. 275(1)(f)](https://www.legislation.gov.uk/ukpga/2003/21/section/275/1/f) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/46); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-20527161a42169426c7adb4cf389c5ac]: Textual amendment: [S. 275(1)(f)](https://www.legislation.gov.uk/ukpga/2003/21/section/275/1/f) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/46); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

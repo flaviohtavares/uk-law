@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Detention of ships[^key-5b95a74eb6e4aa3b5001ed19644f69f2][^key-df9fbe010e6b70e337c4042190fea878]
+## 75. Detention of ships[^c-5b95a74eb6e4aa3b5001ed19644f69f2][^c-df9fbe010e6b70e337c4042190fea878]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5b95a74eb6e4aa3b5001ed19644f69f2]: Commencement: Reg. 75 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-5b95a74eb6e4aa3b5001ed19644f69f2]: Commencement: Reg. 75 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-df9fbe010e6b70e337c4042190fea878]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2019/411/regulation/75) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df9fbe010e6b70e337c4042190fea878]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2019/411/regulation/75) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636551]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).

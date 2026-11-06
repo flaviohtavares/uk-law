@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Whether it is reasonable to continue to occupy accommodation[^key-c03790b157a29fffa0da9a2f5ac87d25][^key-59fb294ff2c06aa1a5d61c9016107284]
+## 57. Whether it is reasonable to continue to occupy accommodation[^c-c03790b157a29fffa0da9a2f5ac87d25][^c-59fb294ff2c06aa1a5d61c9016107284]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c03790b157a29fffa0da9a2f5ac87d25]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2014/7/section/57) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-c03790b157a29fffa0da9a2f5ac87d25]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2014/7/section/57) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-59fb294ff2c06aa1a5d61c9016107284]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2014/7/section/57) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 8](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/8)
+[^c-59fb294ff2c06aa1a5d61c9016107284]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2014/7/section/57) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 8](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/8)

@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-One-Way Traffic (Ballymena) (Amendment No. 2) Order (Northern Ireland) 1996 (revoked)[^key-f8149a6cb567d668f1628c1dc6cbaa8c]
+One-Way Traffic (Ballymena) (Amendment No. 2) Order (Northern Ireland) 1996 (revoked)[^c-f8149a6cb567d668f1628c1dc6cbaa8c]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 15th April 1996
 
-[^key-f8149a6cb567d668f1628c1dc6cbaa8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8149a6cb567d668f1628c1dc6cbaa8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f8149a6cb567d668f1628c1dc6cbaa8c]
+## 1. Citation and commencement[^c-f8149a6cb567d668f1628c1dc6cbaa8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-f8149a6cb567d668f1628c1dc6cbaa8c]
+## 2. Amendment[^c-f8149a6cb567d668f1628c1dc6cbaa8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f8149a6cb567d668f1628c1dc6cbaa8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8149a6cb567d668f1628c1dc6cbaa8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f8149a6cb567d668f1628c1dc6cbaa8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8149a6cb567d668f1628c1dc6cbaa8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8149a6cb567d668f1628c1dc6cbaa8c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1996/63) revoked (5.12.2008) by [Legislation missing title 2008 (S.R. 2008/438)](https://www.legislation.gov.uk/nisr/2008/438), [art. 1(1)](https://www.legislation.gov.uk/nisr/2008/438/article/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/438/schedule/2)
+[^c-f8149a6cb567d668f1628c1dc6cbaa8c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1996/63) revoked (5.12.2008) by [Legislation missing title 2008 (S.R. 2008/438)](https://www.legislation.gov.uk/nisr/2008/438), [art. 1(1)](https://www.legislation.gov.uk/nisr/2008/438/article/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/438/schedule/2)

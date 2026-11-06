@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Regulations under section 25 may make such amendments or other modifications of any enactment as the Secretary of State[^key-9977f4b7b3f84492cb6a442d8c8e55f8] considers appropriate for the purpose of facilitating, or otherwise in connection with, the discharge by a principal regulator of the duty under section 26(2).
+(1) Regulations under section 25 may make such amendments or other modifications of any enactment as the Secretary of State[^c-9977f4b7b3f84492cb6a442d8c8e55f8] considers appropriate for the purpose of facilitating, or otherwise in connection with, the discharge by a principal regulator of the duty under section 26(2).
 
 (2) In subsection (1), “**enactment**” includes—
 
@@ -31,4 +31,4 @@ and references to enactments include enactments whenever passed or made.
 
 ## Annotations
 
-[^key-9977f4b7b3f84492cb6a442d8c8e55f8]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/27/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-9977f4b7b3f84492cb6a442d8c8e55f8]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/27/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

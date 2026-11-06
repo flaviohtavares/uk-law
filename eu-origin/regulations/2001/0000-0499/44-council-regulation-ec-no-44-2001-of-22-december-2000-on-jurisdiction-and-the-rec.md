@@ -46,7 +46,7 @@ of 22 December 2000
 
 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (repealed)
 
-[^c000006][^key-efad9d5c5d269c13ae4f77ec36096ba7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c000006][^c-efad9d5c5d269c13ae4f77ec36096ba7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -282,4 +282,4 @@ on jurisdiction and the recognition and enforcement of judgments in civil and co
 
 [^c000006]: Textual amendment: Repealed by [Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast)](https://www.legislation.gov.uk/eur/2012/1215).
 
-[^key-efad9d5c5d269c13ae4f77ec36096ba7]: Textual amendment: Regulation expressed to be revoked (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [84](https://www.legislation.gov.uk/uksi/2019/479/regulation/84) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efad9d5c5d269c13ae4f77ec36096ba7]: Textual amendment: Regulation expressed to be revoked (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [84](https://www.legislation.gov.uk/uksi/2019/479/regulation/84) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

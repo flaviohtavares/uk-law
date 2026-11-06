@@ -35,17 +35,15 @@ specifying the technical characteristics of the 2018 ad hoc module on reconcilia
 
 (Text with EEA relevance) (revoked)
 
-[^key-c1766627d1f8a8d8f658bcd69fd97979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1766627d1f8a8d8f658bcd69fd97979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c1766627d1f8a8d8f658bcd69fd97979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c1766627d1f8a8d8f658bcd69fd97979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c1766627d1f8a8d8f658bcd69fd97979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c1766627d1f8a8d8f658bcd69fd97979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1766627d1f8a8d8f658bcd69fd97979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1766627d1f8a8d8f658bcd69fd97979]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c1766627d1f8a8d8f658bcd69fd97979]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX[^c-c1766627d1f8a8d8f658bcd69fd97979]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,19 +51,21 @@ specifying the technical characteristics of the 2018 ad hoc module on reconcilia
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1766627d1f8a8d8f658bcd69fd97979](1)
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c1766627d1f8a8d8f658bcd69fd97979](1)
 
 **Sub-module 1: Care responsibilities**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1766627d1f8a8d8f658bcd69fd97979](2)
+[^c-c1766627d1f8a8d8f658bcd69fd97979](2)
 
 **Sub-module 2: Flexibility of work arrangements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1766627d1f8a8d8f658bcd69fd97979](3)
+[^c-c1766627d1f8a8d8f658bcd69fd97979](3)
 
 **Sub-module 3: Career breaks and parental leave**
 
@@ -73,4 +73,4 @@ specifying the technical characteristics of the 2018 ad hoc module on reconcilia
 
 ## Annotations
 
-[^key-c1766627d1f8a8d8f658bcd69fd97979]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 272](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/272); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1766627d1f8a8d8f658bcd69fd97979]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 272](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/272); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Payment into court[^key-f9dbff1490048c618000999642ae9e65]
+## 134. Payment into court[^c-f9dbff1490048c618000999642ae9e65]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ CPR Part 37 (miscellaneous provisions about payment into court) applies to money
 
 ## Annotations
 
-[^key-f9dbff1490048c618000999642ae9e65]: Commencement: [Rule 134](https://www.legislation.gov.uk/uksi/2013/3208/rule/134) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f9dbff1490048c618000999642ae9e65]: Commencement: [Rule 134](https://www.legislation.gov.uk/uksi/2013/3208/rule/134) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SERVICES, WALES
 
-The Community Care (Direct Payments) Amendment (Wales) Regulations 2000 (revoked)[^key-98d308237c489637d324e7d0e74dc05a]
+The Community Care (Direct Payments) Amendment (Wales) Regulations 2000 (revoked)[^c-98d308237c489637d324e7d0e74dc05a]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 14th July 2000
 
-[^key-98d308237c489637d324e7d0e74dc05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98d308237c489637d324e7d0e74dc05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-98d308237c489637d324e7d0e74dc05a]
+## 1. Citation, commencement and application[^c-98d308237c489637d324e7d0e74dc05a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Community Care (Direct Payments) Regulations 1997[^key-98d308237c489637d324e7d0e74dc05a]
+## 2. Amendment of the Community Care (Direct Payments) Regulations 1997[^c-98d308237c489637d324e7d0e74dc05a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-98d308237c489637d324e7d0e74dc05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98d308237c489637d324e7d0e74dc05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-98d308237c489637d324e7d0e74dc05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98d308237c489637d324e7d0e74dc05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98d308237c489637d324e7d0e74dc05a]: Textual amendment: Regulations revoked (1.11.2004) by The Community Care, Services for Carers and Children’s [Services (Direct Payments) (Wales) Regulations 2004 (S.I. 2004/1748)](https://www.legislation.gov.uk/uksi/2004/1748), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2004/1748/regulation/1/b), [13(1)](https://www.legislation.gov.uk/uksi/2004/1748/regulation/13/1)
+[^c-98d308237c489637d324e7d0e74dc05a]: Textual amendment: Regulations revoked (1.11.2004) by The Community Care, Services for Carers and Children’s [Services (Direct Payments) (Wales) Regulations 2004 (S.I. 2004/1748)](https://www.legislation.gov.uk/uksi/2004/1748), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2004/1748/regulation/1/b), [13(1)](https://www.legislation.gov.uk/uksi/2004/1748/regulation/13/1)

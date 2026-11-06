@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Other procedure[^key-148e7acfd3c0482ca0255abd037de510]
+## 24. Other procedure[^c-148e7acfd3c0482ca0255abd037de510]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-148e7acfd3c0482ca0255abd037de510]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2014/2/section/24) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/o)
+[^c-148e7acfd3c0482ca0255abd037de510]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2014/2/section/24) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/o)

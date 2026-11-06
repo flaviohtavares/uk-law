@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Eligibility for appointment as charity trustee[^key-3c20907b0edca3edfd317c32af963641]
+## 31. Eligibility for appointment as charity trustee[^c-3c20907b0edca3edfd317c32af963641]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c20907b0edca3edfd317c32af963641]: Commencement: Reg. 31 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-3c20907b0edca3edfd317c32af963641]: Commencement: Reg. 31 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

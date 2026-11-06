@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT, WALES
 
-The Local Government (Performance Indicators and Standards) (Wales) Order 2010 (revoked)[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+The Local Government (Performance Indicators and Standards) (Wales) Order 2010 (revoked)[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Made
 
@@ -43,75 +43,75 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with article 1(2) and (3)
 
-[^key-7ce42645a9a83ccbb96dcc1ec1007a47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ce42645a9a83ccbb96dcc1ec1007a47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## 1. Title, commencement and application[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Performance indicators and standards[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## 2. Performance indicators and standards[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## 3. Revocation[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ce42645a9a83ccbb96dcc1ec1007a47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ce42645a9a83ccbb96dcc1ec1007a47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SOCIAL SERVICES INDICATORS[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## SCHEDULE 1 — SOCIAL SERVICES INDICATORS[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — HOUSING INDICATORS[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## SCHEDULE 2 — HOUSING INDICATORS[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — EDUCATION INDICATORS[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## SCHEDULE 3 — EDUCATION INDICATORS[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — WASTE MANAGEMENT INDICATORS[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## SCHEDULE 4 — WASTE MANAGEMENT INDICATORS[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — WASTE MANAGEMENT STANDARDS[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## SCHEDULE 5 — WASTE MANAGEMENT STANDARDS[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — TRANSPORT/HIGHWAYS INDICATORS[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## SCHEDULE 6 — TRANSPORT/HIGHWAYS INDICATORS[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — CULTURE AND SPORT INDICATORS[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## SCHEDULE 7 — CULTURE AND SPORT INDICATORS[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — ENERGY EFFICIENCY INDICATORS[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## SCHEDULE 8 — ENERGY EFFICIENCY INDICATORS[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 9 — HOUSING BENEFIT AND COUNCIL TAX BENEFIT INDICATORS[^key-7ce42645a9a83ccbb96dcc1ec1007a47]
+## SCHEDULE 9 — HOUSING BENEFIT AND COUNCIL TAX BENEFIT INDICATORS[^c-7ce42645a9a83ccbb96dcc1ec1007a47]
 
 Article 2
 
@@ -119,8 +119,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ce42645a9a83ccbb96dcc1ec1007a47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ce42645a9a83ccbb96dcc1ec1007a47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ce42645a9a83ccbb96dcc1ec1007a47]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2010/482) revoked (with effect in accordance with of the amending S.I.) by [The Local Government (Performance Indicators) (Wales) Order 2012 (S.I. 2012/2539)](https://www.legislation.gov.uk/wsi/2012/2539), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2012/2539/article/1/3), [3](https://www.legislation.gov.uk/wsi/2012/2539/article/3)
+[^c-7ce42645a9a83ccbb96dcc1ec1007a47]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2010/482) revoked (with effect in accordance with of the amending S.I.) by [The Local Government (Performance Indicators) (Wales) Order 2012 (S.I. 2012/2539)](https://www.legislation.gov.uk/wsi/2012/2539), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2012/2539/article/1/3), [3](https://www.legislation.gov.uk/wsi/2012/2539/article/3)

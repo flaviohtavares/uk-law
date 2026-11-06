@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Fees for services provided for energy resilience purposes[^key-a3c9b1f4488ce177aba9e0d24d7bbe34]
+## 148. Fees for services provided for energy resilience purposes[^c-a3c9b1f4488ce177aba9e0d24d7bbe34]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3c9b1f4488ce177aba9e0d24d7bbe34]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2013/32/section/148) in force at 18.2.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/251/article/2/b)
+[^c-a3c9b1f4488ce177aba9e0d24d7bbe34]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2013/32/section/148) in force at 18.2.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/251/article/2/b)

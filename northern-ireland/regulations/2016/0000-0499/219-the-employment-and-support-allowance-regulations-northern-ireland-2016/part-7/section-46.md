@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Purposes of a work-focused interview[^key-1b74b0af518d6a2548ef69f8847a53bd]
+## 46. Purposes of a work-focused interview[^c-1b74b0af518d6a2548ef69f8847a53bd]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ The purposes of a work-focused interview are any or all of the following—
 
 ## Annotations
 
-[^key-1b74b0af518d6a2548ef69f8847a53bd]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2016/219/regulation/46) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-1b74b0af518d6a2548ef69f8847a53bd]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2016/219/regulation/46) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

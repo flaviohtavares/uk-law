@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 11
 
-**1.**[^key-8f88291e73ed47e924668c66e3785a24] After Schedule 8A to the Human Medicines Regulations 2012, insert—
+**1.**[^c-8f88291e73ed47e924668c66e3785a24] After Schedule 8A to the Human Medicines Regulations 2012, insert—
 
 > **SCHEDULE 8B — Modifications of Annex I to the 2001 Directive**
 >
@@ -56,14 +56,14 @@ Regulation 11
 > | Part I, paragraph 3.2.2.1, fifth paragraph | The reference to “any Member State” is to be read as a reference to the United Kingdom and the reference to “the Member States” is to be read as a reference to the United Kingdom. |
 > | Part I, paragraph 3.2.2.3(a) | The reference to “Article 8(3)(d)” is to be read as a reference to paragraph 5 of Schedule 8 to the Human Medicines Regulations 2012. |
 > | Part I, paragraph 4.2.2, fifth paragraph | The reference to “this Directive” is to be read as a reference to the Human Medicines Regulations 2012. |
-> | Part I, paragraph 5.2(a) | The reference to “the clinical particulars provided pursuant to Articles 8(3)(i) and 10(1)” is to be read as a reference to those particulars provided pursuant to paragraph 10 of Schedule 8 to, and regulations 51A, 52A, 53A and 54 to 56[^key-787d0716438a38013c89f55ffb1b8900] of, the Human Medicines Regulations 2012. |
+> | Part I, paragraph 5.2(a) | The reference to “the clinical particulars provided pursuant to Articles 8(3)(i) and 10(1)” is to be read as a reference to those particulars provided pursuant to paragraph 10 of Schedule 8 to, and regulations 51A, 52A, 53A and 54 to 56[^c-787d0716438a38013c89f55ffb1b8900] of, the Human Medicines Regulations 2012. |
 > | Part I, paragraph 5.2(c) | The references to “the European Community” are to be read as references to the United Kingdom. |
 > | Part I, paragraph 5.2(c), fifth paragraph | The reference to “Directive [2001/20/EC](https://www.legislation.gov.uk/eudr/2001/20) and implementing detail guidelines” is to be read as a reference to the Medicinal Products for Human Use (Clinical Trials) Regulations 2004 [^c23885521]. |
-> | Part I, paragraph 5.2.1, second paragraph | The reference to “Article 10(1)(a)” is to be read as a reference to regulation 51A[^key-13c7b6c6015416083960ca39135cbbb3] of the Human Medicines Regulations 2012. |
+> | Part I, paragraph 5.2.1, second paragraph | The reference to “Article 10(1)(a)” is to be read as a reference to regulation 51A[^c-13c7b6c6015416083960ca39135cbbb3] of the Human Medicines Regulations 2012. |
 > | Part II, paragraph 1, first paragraph | The reference to “Article 10(1)(a)(ii)” is to be read as a reference to regulation 54 of the Human Medicines Regulations 2012. |
 > | Part II, paragraph 2(a) | The reference to “Article 10(1)(a)(i)” is to be read as a reference to regulation 56 of the Human Medicines Regulations 2012. |
-> | Part II, paragraph 2(b) | The reference to “Article 10(1)(a)(ii)” is to be read as a reference to regulation 51A[^key-e22a2ee2fadf9470d81fe09029bab524] of the Human Medicines Regulations 2012. |
-> | Part II, paragraph 4, first paragraph | The first sentence is to be read as omitted and the words “in accordance with regulation 53A[^key-aed0a406ce4019c74aefc51f3f0ed6d1] of the Human Medicines Regulations 2012” are to be read as added at the end of the second sentence. |
+> | Part II, paragraph 2(b) | The reference to “Article 10(1)(a)(ii)” is to be read as a reference to regulation 51A[^c-e22a2ee2fadf9470d81fe09029bab524] of the Human Medicines Regulations 2012. |
+> | Part II, paragraph 4, first paragraph | The first sentence is to be read as omitted and the words “in accordance with regulation 53A[^c-aed0a406ce4019c74aefc51f3f0ed6d1] of the Human Medicines Regulations 2012” are to be read as added at the end of the second sentence. |
 > | Part II, paragraph 5, first paragraph | The reference to “Article 10(1)(b)” is to be read as a reference to regulation 55 of the Human Medicines Regulations 2012. |
 > | Part II, paragraph 6, first paragraph | The reference to “Article 22” is to be read as a reference to regulation 60 of the Human Medicines Regulations 2012. |
 > | Part III, paragraph 1.1(a), first indent | The reference to “Directive [2000/70/EC](https://www.legislation.gov.uk/eudr/2000/70) of the European Parliament and of the Council of 16 November 2000 amending Council Directive [93/42/EC](https://www.legislation.gov.uk/eudr/1993/42) as regards medical devices incorporating stable derivatives of human blood or blood plasma” is to be read as a reference to the Medical Devices Regulations 2002 [^c23885531]. |
@@ -101,7 +101,7 @@ Regulation 11
 
 ## Annotations
 
-[^key-8f88291e73ed47e924668c66e3785a24]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8f88291e73ed47e924668c66e3785a24]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885491]: Marginal citation: [S.I. 2004/1157](https://www.legislation.gov.uk/uksi/2004/1157).
 
@@ -109,15 +109,15 @@ Regulation 11
 
 [^c23885511]: Marginal citation: [1986 c. 14](https://www.legislation.gov.uk/ukpga/1986/14), as amended by [S.I. 2012/3039](https://www.legislation.gov.uk/uksi/2012/3039).
 
-[^key-787d0716438a38013c89f55ffb1b8900]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189/a)
+[^c-787d0716438a38013c89f55ffb1b8900]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189/a)
 
 [^c23885521]: Marginal citation: [S.I. 2004/1157](https://www.legislation.gov.uk/uksi/2004/1157).
 
-[^key-13c7b6c6015416083960ca39135cbbb3]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189/b)
+[^c-13c7b6c6015416083960ca39135cbbb3]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189/b)
 
-[^key-e22a2ee2fadf9470d81fe09029bab524]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189/c)
+[^c-e22a2ee2fadf9470d81fe09029bab524]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189/c)
 
-[^key-aed0a406ce4019c74aefc51f3f0ed6d1]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189/d)
+[^c-aed0a406ce4019c74aefc51f3f0ed6d1]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 189(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/189/d)
 
 [^c23885531]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618).
 

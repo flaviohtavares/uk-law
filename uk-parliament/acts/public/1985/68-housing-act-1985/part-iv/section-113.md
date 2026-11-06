@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person is a member of another’s family within the meaning of this Part if—
 
-- (a) he is the spouse or civil partner[^c19070401] of that person, or he and that person live together as if they were a married couple or[^key-d770a9274da7b957b22621aceecb2eb0] civil partners[^M_F_d346b5c4-02d8-47fe-a2f5-a0a1b4c233b5], or
+- (a) he is the spouse or civil partner[^c19070401] of that person, or he and that person live together as if they were a married couple or[^c-d770a9274da7b957b22621aceecb2eb0] civil partners[^M_F_d346b5c4-02d8-47fe-a2f5-a0a1b4c233b5], or
 - (b) he is that person’s parent, grandparent, child, grand-child, brother, sister, uncle, aunt, nephew or niece.
 
 (2) For the purpose of subsection (1)(b)—
@@ -46,7 +46,7 @@ summary: ''
 
 [^c19070401]: Textual amendment: Words in s. 113(1)(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 81](https://www.legislation.gov.uk/ukpga/2004/33/section/81), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/27/2/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-d770a9274da7b957b22621aceecb2eb0]: Textual amendment: Words in s. 113(1)(a) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/10/3)
+[^c-d770a9274da7b957b22621aceecb2eb0]: Textual amendment: Words in s. 113(1)(a) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/10/3)
 
 [^M_F_d346b5c4-02d8-47fe-a2f5-a0a1b4c233b5]: Textual amendment: Words in s. 113(1)(a) inserted (5.12 2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 81](https://www.legislation.gov.uk/ukpga/2002/7/section/81), [263(2)](https://www.legislation.gov.uk/ukpga/2002/7/section/263/2), [Sch. 8 para. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2002/7/schedule/8/paragraph/27/2/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 

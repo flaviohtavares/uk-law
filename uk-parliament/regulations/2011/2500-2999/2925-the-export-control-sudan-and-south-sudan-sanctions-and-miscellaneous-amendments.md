@@ -48,43 +48,43 @@ The Secretary of State is a Minister designated [^c21122251] for the purposes of
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, makes the following Regulations.
 
-## 1. Citation, Commencement and application[^key-f3415bd130dc5f6100a41adc750e1ec7]
+## 1. Citation, Commencement and application[^c-f3415bd130dc5f6100a41adc750e1ec7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-f3415bd130dc5f6100a41adc750e1ec7]
+## 2. Revocation[^c-f3415bd130dc5f6100a41adc750e1ec7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-f3415bd130dc5f6100a41adc750e1ec7]
+## 3. Interpretation[^c-f3415bd130dc5f6100a41adc750e1ec7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences supplementing the Sudan and South Sudan Regulation[^key-f3415bd130dc5f6100a41adc750e1ec7]
+## 4. Offences supplementing the Sudan and South Sudan Regulation[^c-f3415bd130dc5f6100a41adc750e1ec7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences related to EU authorisations[^key-f3415bd130dc5f6100a41adc750e1ec7]
+## 5. Offences related to EU authorisations[^c-f3415bd130dc5f6100a41adc750e1ec7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Penalties[^key-f3415bd130dc5f6100a41adc750e1ec7]
+## 6. Penalties[^c-f3415bd130dc5f6100a41adc750e1ec7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of the 1979 Act[^key-f3415bd130dc5f6100a41adc750e1ec7]
+## 7. Application of the 1979 Act[^c-f3415bd130dc5f6100a41adc750e1ec7]
 
 **No longer in force.**
 
@@ -94,7 +94,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 In Part 2 of Schedule 4 to the 2008 Order, at the appropriate place insert “ South Sudan ”.
 
-## 9. Review[^key-f3415bd130dc5f6100a41adc750e1ec7]
+## 9. Review[^c-f3415bd130dc5f6100a41adc750e1ec7]
 
 **No longer in force.**
 
@@ -146,7 +146,7 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c21122261]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2011/2925/section/2/2) was amended by section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-f3415bd130dc5f6100a41adc750e1ec7]: Textual amendment: Regulations revoked in part (31.12.2014) by [The Export Control (Sudan, South Sudan and Central African Republic Sanctions) Regulations 2014 (S.I. 2014/3258)](https://www.legislation.gov.uk/uksi/2014/3258), regs. 1(1), [2](https://www.legislation.gov.uk/uksi/2014/3258/regulation/2)
+[^c-f3415bd130dc5f6100a41adc750e1ec7]: Textual amendment: Regulations revoked in part (31.12.2014) by [The Export Control (Sudan, South Sudan and Central African Republic Sanctions) Regulations 2014 (S.I. 2014/3258)](https://www.legislation.gov.uk/uksi/2014/3258), regs. 1(1), [2](https://www.legislation.gov.uk/uksi/2014/3258/regulation/2)
 
 [^c21122421]: Marginal citation: [S.I. 2011/2649](https://www.legislation.gov.uk/uksi/2011/2649).
 

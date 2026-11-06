@@ -35,8 +35,8 @@ summary: ''
 
 (6) The Mayor of London must make a determination under subsection (3) personally.
 
-(7)[^key-62bce203f46c106854c661109028775b] For exceptions to subsections (1) and (2) of this section see section 211(11).
+(7)[^c-62bce203f46c106854c661109028775b] For exceptions to subsections (1) and (2) of this section see section 211(11).
 
 ## Annotations
 
-[^key-62bce203f46c106854c661109028775b]: Textual amendment: [S. 214(7)](https://www.legislation.gov.uk/ukpga/2008/29/section/214/7) inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 107(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/107/7), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)
+[^c-62bce203f46c106854c661109028775b]: Textual amendment: [S. 214(7)](https://www.legislation.gov.uk/ukpga/2008/29/section/214/7) inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 107(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/107/7), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)

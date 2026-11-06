@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31.[^key-71aa174d79598545ded1fefb6fc7d84d]
+## 31.[^c-71aa174d79598545ded1fefb6fc7d84d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The arrangements in regulations 9 and 10 are the arrangements for the purposes o
 
 ## Annotations
 
-[^key-71aa174d79598545ded1fefb6fc7d84d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2010/122/regulation/31) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-71aa174d79598545ded1fefb6fc7d84d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2010/122/regulation/31) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Power to require name and address[^key-497947e8212b625d329e4066de12b000]
+## 256. Power to require name and address[^c-497947e8212b625d329e4066de12b000]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where an enforcement officer reasonably believes that a person has committed a r
 
 ## Annotations
 
-[^key-497947e8212b625d329e4066de12b000]: Commencement: S. 256 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-497947e8212b625d329e4066de12b000]: Commencement: S. 256 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

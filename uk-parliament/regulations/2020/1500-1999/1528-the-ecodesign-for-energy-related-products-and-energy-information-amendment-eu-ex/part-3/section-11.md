@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: N.I.*
 
-**11.**[^key-8322aa34f83be8abf2787766007cdf35] The Ecodesign for Energy-Related Products Regulations 2010[^f00010] are amended as follows.
+**11.**[^c-8322aa34f83be8abf2787766007cdf35] The Ecodesign for Energy-Related Products Regulations 2010[^f00010] are amended as follows.
 
 ## Annotations
 
-[^key-8322aa34f83be8abf2787766007cdf35]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-8322aa34f83be8abf2787766007cdf35]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
 [^f00010]: Footnote: [S.I. 2010/2617](https://www.legislation.gov.uk/uksi/2010/2617), to which there are no relevant amendments.

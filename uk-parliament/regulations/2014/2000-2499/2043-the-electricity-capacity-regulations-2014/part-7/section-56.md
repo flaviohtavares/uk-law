@@ -31,7 +31,7 @@ summary: ''
   - (ii) the remaining duration of the credit obligation period, if less; or
 - (b) replacement credit cover.
 
-(3A)[^key-8ad0f4a7a72558e2392fa7262d1a0128] If A does not comply with paragraph (3)—
+(3A)[^c-8ad0f4a7a72558e2392fa7262d1a0128] If A does not comply with paragraph (3)—
 
 - (a) the Settlement Body may immediately draw down on the letter of credit to the full amount stated in the letter of credit and on receipt of funds from the paying bank place the funds in a bank account which satisfies the conditions in regulation 54(4); and
 - (b) funds placed in a bank account under sub-paragraph (a) shall be treated as credit cover provided by A.
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad0f4a7a72558e2392fa7262d1a0128]: Textual amendment: [Reg. 56(3A)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/56/3A) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/15) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/3))
+[^c-8ad0f4a7a72558e2392fa7262d1a0128]: Textual amendment: [Reg. 56(3A)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/56/3A) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/15) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/3))

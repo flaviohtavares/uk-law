@@ -32,7 +32,7 @@ summary: ''
 
 Savings Banks
 
-The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2009 (revoked)[^key-413a117530a91c2a45ca00072033ec68]
+The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2009 (revoked)[^c-413a117530a91c2a45ca00072033ec68]
 
 Made
 
@@ -44,32 +44,32 @@ Laid before Parliament
 
 Coming into force in accordance with articles 2 and 3
 
-[^key-413a117530a91c2a45ca00072033ec68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-413a117530a91c2a45ca00072033ec68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-413a117530a91c2a45ca00072033ec68]
+## 1. Citation and commencement[^c-413a117530a91c2a45ca00072033ec68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-413a117530a91c2a45ca00072033ec68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-413a117530a91c2a45ca00072033ec68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-413a117530a91c2a45ca00072033ec68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-413a117530a91c2a45ca00072033ec68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the National Savings Bank (Investment Deposits) (Limits) Order 1977[^key-413a117530a91c2a45ca00072033ec68]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 5. Variation of the 1977 Order for persons over 50 years of age[^key-413a117530a91c2a45ca00072033ec68]
+## 4. Amendments to the National Savings Bank (Investment Deposits) (Limits) Order 1977[^c-413a117530a91c2a45ca00072033ec68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-413a117530a91c2a45ca00072033ec68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 5. Variation of the 1977 Order for persons over 50 years of age[^c-413a117530a91c2a45ca00072033ec68]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-413a117530a91c2a45ca00072033ec68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-413a117530a91c2a45ca00072033ec68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-413a117530a91c2a45ca00072033ec68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-413a117530a91c2a45ca00072033ec68]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2460) revoked (6.4.2014) by [The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2014 (S.I. 2014/484)](https://www.legislation.gov.uk/uksi/2014/484), [arts. 1](https://www.legislation.gov.uk/uksi/2014/484/article/1), [3](https://www.legislation.gov.uk/uksi/2014/484/article/3)
+[^c-413a117530a91c2a45ca00072033ec68]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2460) revoked (6.4.2014) by [The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2014 (S.I. 2014/484)](https://www.legislation.gov.uk/uksi/2014/484), [arts. 1](https://www.legislation.gov.uk/uksi/2014/484/article/1), [3](https://www.legislation.gov.uk/uksi/2014/484/article/3)

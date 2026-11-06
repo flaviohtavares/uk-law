@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 9, 36 and 37
 
-### PART 1 — Standard Table[^key-2948f3f89ef86763b358f74d8966e1bb]
+### PART 1 — Standard Table[^c-2948f3f89ef86763b358f74d8966e1bb]
 
 Total amount of nitrogen in livestock manure
 
@@ -36,7 +36,7 @@ Total amount of nitrogen in livestock manure
 | horses: | 7 |
 | goats: | 6 |
 | Manure from laying hens: | 19 |
-| Manure from turkeys or broiler chickens: | 30[^key-2735708d44c1ba70dcf3a37f72a05cf9] |
+| Manure from turkeys or broiler chickens: | 30[^c-2735708d44c1ba70dcf3a37f72a05cf9] |
 
 | Slurry | Total nitrogen in each cubic metre (kg) |
 | --- | --- |
@@ -53,7 +53,7 @@ Total amount of nitrogen in livestock manure
 
 ### PART 2 — Sampling and analysis of organic manure
 
-#### 1. Slurry and other liquid and semi-liquid organic manure[^key-b39fe4b3150a8ba2ca2f19bbcc4b244c]
+#### 1. Slurry and other liquid and semi-liquid organic manure[^c-b39fe4b3150a8ba2ca2f19bbcc4b244c]
 
 (1) In relation to slurry and other liquid and semi-liquid organic manure, at least five samples, each of 2 litres, must be taken.
 
@@ -68,7 +68,7 @@ Total amount of nitrogen in livestock manure
 
 (5) The 2 litre sample produced in accordance with sub-paragraph (4) must then be sent for analysis.
 
-#### 2. Solid manures[^key-b8b0e15d5e33532a22e648b90685652c]
+#### 2. Solid manures[^c-b8b0e15d5e33532a22e648b90685652c]
 
 (1) In relation to solid manures, the samples must be taken from a manure heap.
 
@@ -86,10 +86,10 @@ Total amount of nitrogen in livestock manure
 
 ## Annotations
 
-[^key-2948f3f89ef86763b358f74d8966e1bb]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/3/part/1) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-2948f3f89ef86763b358f74d8966e1bb]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/3/part/1) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
-[^key-2735708d44c1ba70dcf3a37f72a05cf9]: Textual amendment: Word in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/3/part/1) Table substituted (31.12.2022) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1305)](https://www.legislation.gov.uk/wsi/2022/1305), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/2/7)
+[^c-2735708d44c1ba70dcf3a37f72a05cf9]: Textual amendment: Word in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/3/part/1) Table substituted (31.12.2022) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1305)](https://www.legislation.gov.uk/wsi/2022/1305), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2022/1305/regulation/2/7)
 
-[^key-b39fe4b3150a8ba2ca2f19bbcc4b244c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/3/paragraph/1) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-b39fe4b3150a8ba2ca2f19bbcc4b244c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2021/77/schedule/3/paragraph/1) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
-[^key-b8b0e15d5e33532a22e648b90685652c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2021/77/schedule/3/paragraph/2) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-b8b0e15d5e33532a22e648b90685652c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2021/77/schedule/3/paragraph/2) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

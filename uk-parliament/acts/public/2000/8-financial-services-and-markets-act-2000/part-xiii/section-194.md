@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. General grounds on which power of intervention is exercisable.[^key-f719c88b3a7c5859524c11df07227cf6]
+## 194. General grounds on which power of intervention is exercisable.[^c-f719c88b3a7c5859524c11df07227cf6]
 
 *Extent: E+W+S+N.I.*
 
-[^key-9f63f5697dff3df23c0e83ac69fd37b4]
+[^c-9f63f5697dff3df23c0e83ac69fd37b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f719c88b3a7c5859524c11df07227cf6]: Textual amendment: Pt. 13 omitted (except s. 195(3)(4)) (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/12) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f719c88b3a7c5859524c11df07227cf6]: Textual amendment: Pt. 13 omitted (except s. 195(3)(4)) (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/12) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f63f5697dff3df23c0e83ac69fd37b4]: Modification: Pt. 13 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/6)
+[^c-9f63f5697dff3df23c0e83ac69fd37b4]: Modification: Pt. 13 applied (with modifications) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2013/1882/article/3/6)

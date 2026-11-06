@@ -32,23 +32,23 @@ summary: ''
 
 - (a) regulation 19 (income treated as arising under regulation 17: remittance basis);
 - (b) regulation 20(1) (offshore income gain arising to non-resident trustees not treated as income of settlor);
-- (c)[^key-57f386fa47827cfefae2daaa95619836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-57f386fa47827cfefae2daaa95619836] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) regulation 24(6) (application of section 13 of TCGA 1992).
 
-(6)[^key-f63ea2803f454cb0db0c4c74abc39143] Nothing in regulation 17 of these Regulations applies to—
+(6)[^c-f63ea2803f454cb0db0c4c74abc39143] Nothing in regulation 17 of these Regulations applies to—
 
-- (a) an authorised investment fund to which regulation 14ZB, 14ZD(1) or Part 6A of the Authorised Investment Fund (Tax) Regulations 2006 applies, [^key-0fecd0bd8fd684fb1b0186e331d3195d]...
-- (b) an investment trust company to which regulation 43 or 45 of the Investment Trust (Approved Company) (Tax) Regulations 2011 apply , or[^key-759cd436ef9d7e571792d67a544d5d54]
+- (a) an authorised investment fund to which regulation 14ZB, 14ZD(1) or Part 6A of the Authorised Investment Fund (Tax) Regulations 2006 applies, [^c-0fecd0bd8fd684fb1b0186e331d3195d]...
+- (b) an investment trust company to which regulation 43 or 45 of the Investment Trust (Approved Company) (Tax) Regulations 2011 apply , or[^c-759cd436ef9d7e571792d67a544d5d54]
 - (c) the trustees of an exempt unauthorised unit trust to which regulations 22 or 23 of the Unauthorised Unit Trusts (Tax) Regulations 2013 applies.
 
 ## Annotations
 
 [^c19952011]: Marginal citation: Section 688(1) was amended by paragraph 22 of Schedule 12 to the Finance Act 2008.
 
-[^key-57f386fa47827cfefae2daaa95619836]: Textual amendment: Reg. 18(5)(c) omitted (retrospective and with effect for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/c/i)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
+[^c-57f386fa47827cfefae2daaa95619836]: Textual amendment: Reg. 18(5)(c) omitted (retrospective and with effect for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/c/i)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
 
-[^key-f63ea2803f454cb0db0c4c74abc39143]: Textual amendment: Reg. 18(6) substituted (1.1.2012) by [The Investment Trust (Approved Company) (Tax) Regulations 2011 (S.I. 2011/2999)](https://www.legislation.gov.uk/uksi/2011/2999), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2011/2999/regulation/46) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/1/3))
+[^c-f63ea2803f454cb0db0c4c74abc39143]: Textual amendment: Reg. 18(6) substituted (1.1.2012) by [The Investment Trust (Approved Company) (Tax) Regulations 2011 (S.I. 2011/2999)](https://www.legislation.gov.uk/uksi/2011/2999), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2011/2999/regulation/46) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/1/3))
 
-[^key-0fecd0bd8fd684fb1b0186e331d3195d]: Textual amendment: Word in reg. 18(6)(a) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [43(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/43/a) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-0fecd0bd8fd684fb1b0186e331d3195d]: Textual amendment: Word in reg. 18(6)(a) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [43(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/43/a) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
 
-[^key-759cd436ef9d7e571792d67a544d5d54]: Textual amendment: Reg. 18(6)(c) and preceding word inserted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [43(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/43/b) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-759cd436ef9d7e571792d67a544d5d54]: Textual amendment: Reg. 18(6)(c) and preceding word inserted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [43(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/43/b) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))

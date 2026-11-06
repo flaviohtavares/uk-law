@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Further provision about applications for non-material changes[^key-57a799d2792090228bedc7fe94a9c49a]
+## 101. Further provision about applications for non-material changes[^c-57a799d2792090228bedc7fe94a9c49a]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57a799d2792090228bedc7fe94a9c49a]: Commencement: S. 101 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-57a799d2792090228bedc7fe94a9c49a]: Commencement: S. 101 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

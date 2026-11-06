@@ -47,7 +47,7 @@ In accordance with section 4 of the Scottish Civil Justice Council and Criminal 
 
 The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 40 of the Sanctions and Anti-Money Laundering Act 2018 [^c23603951], section 103(1) of the Courts Reform (Scotland) Act 2014 [^c23603961] and all other powers enabling it to do so.
 
-## 1. Citation and commencement, etc.[^key-74fc7ac030a084de734e4319d8c12bb1]
+## 1. Citation and commencement, etc.[^c-74fc7ac030a084de734e4319d8c12bb1]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Sanctions and Anti-Money Laundering) 2019.
 
@@ -55,7 +55,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session 1994[^key-588e9559cabc2e7da91deccd896d9009]
+## 2. Amendment of the Rules of the Court of Session 1994[^c-588e9559cabc2e7da91deccd896d9009]
 
 (1) The Rules of the Court of Session 1994 [^c23603971] are amended in accordance with this paragraph.
 
@@ -111,7 +111,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 - (a) in the cross-heading after “**financial restrictions****proceedings**” insert “ **or sanctions decision proceedings** ”; and
 - (b) in paragraph (1) after “financial restrictions proceedings” insert “ or sanctions decision proceedings ”.
 
-## 3. Revocation[^key-735f4d2985b75b9109d462553e08d32c]
+## 3. Revocation[^c-735f4d2985b75b9109d462553e08d32c]
 
 (A1)[^M_F_f770a73c-ba89-4539-d643-dd40a7f5887b] Chapter 101 of the Rules of the Court of Session 1994 (terrorist asset-freezing)(4) is revoked.
 
@@ -119,7 +119,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (2) Paragraph 6(6) of the Act of Sederunt (Rules of the Court of Session Amendment No. 6) (Miscellaneous) 2011 [^c23604001] is revoked.
 
-## 4. Saving[^key-003293cd27116db3cad63f216d583eb9]
+## 4. Saving[^c-003293cd27116db3cad63f216d583eb9]
 
 (1) Paragraph 3 does not apply to asset-freezing proceedings under the Terrorist Asset-Freezing etc. Act 2010 [^c23604011] which were commenced and not concluded before 29th March 2019.
 
@@ -154,15 +154,15 @@ Paragraph 4 saves the 2010 instrument and paragraph 6(6) of the 2011 instrument 
 
 [^c23603961]: Marginal citation: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-74fc7ac030a084de734e4319d8c12bb1]: Commencement: Para. 1 in force at 29.3.2019, see para. 1(2)
+[^c-74fc7ac030a084de734e4319d8c12bb1]: Commencement: Para. 1 in force at 29.3.2019, see para. 1(2)
 
-[^key-588e9559cabc2e7da91deccd896d9009]: Commencement: Para. 2 in force at 29.3.2019, see para. 1(2)
+[^c-588e9559cabc2e7da91deccd896d9009]: Commencement: Para. 2 in force at 29.3.2019, see para. 1(2)
 
 [^c23603971]: Marginal citation: The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2018/348](https://www.legislation.gov.uk/ssi/2018/348)).
 
 [^c23603981]: Marginal citation: Chapter 96 was inserted by [S.S.I. 2008/401](https://www.legislation.gov.uk/ssi/2008/401) and amended by [S.S.I. 2009/63](https://www.legislation.gov.uk/ssi/2009/63) and [S.S.I. 2009/450](https://www.legislation.gov.uk/ssi/2009/450).
 
-[^key-735f4d2985b75b9109d462553e08d32c]: Commencement: Para. 3 in force at 29.3.2019, see para. 1(2)
+[^c-735f4d2985b75b9109d462553e08d32c]: Commencement: Para. 3 in force at 29.3.2019, see para. 1(2)
 
 [^M_F_f770a73c-ba89-4539-d643-dd40a7f5887b]: Textual amendment: Para. 3(A1) inserted (29.3.2019) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Sanctions and Anti-Money Laundering) (No.2) 2019 (S.S.I. 2019/97)](https://www.legislation.gov.uk/ssi/2019/97), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/97/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2019/97/paragraph/2/2)
 
@@ -170,6 +170,6 @@ Paragraph 4 saves the 2010 instrument and paragraph 6(6) of the 2011 instrument 
 
 [^c23604001]: Marginal citation: [S.S.I. 2011/385](https://www.legislation.gov.uk/ssi/2011/385).
 
-[^key-003293cd27116db3cad63f216d583eb9]: Commencement: Para. 4 in force at 29.3.2019, see para. 1(2)
+[^c-003293cd27116db3cad63f216d583eb9]: Commencement: Para. 4 in force at 29.3.2019, see para. 1(2)
 
 [^c23604011]: Marginal citation: 2010 c 38.

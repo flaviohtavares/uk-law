@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6B. “Northern Ireland firm” etc[^key-8affe371a4c0f1618fd4056236544418]
+## 6B. “Northern Ireland firm” etc[^c-8affe371a4c0f1618fd4056236544418]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8affe371a4c0f1618fd4056236544418]: Textual amendment: Pt. 1 Ch. 1A inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/2)
+[^c-8affe371a4c0f1618fd4056236544418]: Textual amendment: Pt. 1 Ch. 1A inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/2)

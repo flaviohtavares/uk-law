@@ -24,7 +24,7 @@ Article 2
 
 ### PART 1 — AUTHORISED DEVELOPMENT
 
-**1.**[^key-34e6da51332a0fbf5e2f4cca3f3982e7] A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act which is located in the North Sea approximately 121 kilometres to the northeast of the north Norfolk coast and approximately 10 kilometres west of the median line between UK and Netherlands waters, comprising—
+**1.**[^c-34e6da51332a0fbf5e2f4cca3f3982e7] A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act which is located in the North Sea approximately 121 kilometres to the northeast of the north Norfolk coast and approximately 10 kilometres west of the median line between UK and Netherlands waters, comprising—
 
 *Work No. 1—*
 
@@ -59,7 +59,7 @@ and associated development within the meaning of section 115(2) (development for
 
 *Work No.7*— onshore connection works consisting of—
 
-- (a) up to six cable circuits and associated electrical circuit ducts between Work No. 6 and[^key-83db0ec62733fc0be8b855ecde04c84c] Work No. 8;
+- (a) up to six cable circuits and associated electrical circuit ducts between Work No. 6 and[^c-83db0ec62733fc0be8b855ecde04c84c] Work No. 8;
 - (b) onshore construction works;
 - (c) up to six transition joint bays; and
 - (d) horizontal directional drilling launch pits;
@@ -93,7 +93,7 @@ and in connection with such Work Nos. 6 to 15 and to the extent that they do not
 - (i) works for the benefit or protection of land affected by the authorised project;
 - (j) working sites in connection with the construction of the authorised project, construction lay down areas and compounds, storage compounds and their restoration.
 
-**2.**[^key-435918631ffd6ef43df250f2a7d874e7] The grid coordinates for that part of the authorised project which is seaward of MHWS are specified below—
+**2.**[^c-435918631ffd6ef43df250f2a7d874e7] The grid coordinates for that part of the authorised project which is seaward of MHWS are specified below—
 
 | *Point ID* | *Latitude (DMS)* | *Longitude (DMS)* | *Point ID* | *Latitude (DMS)* | *Longitude (DMS)* |
 | --- | --- | --- | --- | --- | --- |
@@ -163,7 +163,7 @@ and in connection with such Work Nos. 6 to 15 and to the extent that they do not
 
 ### PART 2 — ANCILLARY WORKS
 
-**1.**[^key-15283304c74971b08857eb94d85cf9a4] Works within the Order limits which have been subject to an environmental impact assessment recorded in the environmental statement comprising—
+**1.**[^c-15283304c74971b08857eb94d85cf9a4] Works within the Order limits which have been subject to an environmental impact assessment recorded in the environmental statement comprising—
 
 - (a) temporary landing places, moorings or other means of accommodating vessels in the construction and/or maintenance of the authorised development;
 - (b) marking buoys, beacons, fenders and other navigational warning or ship impact protection works; and
@@ -171,11 +171,11 @@ and in connection with such Work Nos. 6 to 15 and to the extent that they do not
 
 ### PART 3 — REQUIREMENTS
 
-#### 1. Time limits[^key-7446f8d30293afb6ef16f8592441f19d]
+#### 1. Time limits[^c-7446f8d30293afb6ef16f8592441f19d]
 
 The authorised project must commence no later than the expiration of seven years beginning with the date this Order comes into force.
 
-#### 2. Detailed offshore design parameters[^key-9f95e45b634eed0e10cea63526a77f58]
+#### 2. Detailed offshore design parameters[^c-9f95e45b634eed0e10cea63526a77f58]
 
 (1) The total number of wind turbine generators comprised in the authorised project must not exceed 231 and a total rotor swept area of 8.8 square kilometres.
 
@@ -200,7 +200,7 @@ The authorised project must commence no later than the expiration of seven years
 - (a) 435,660 square metres excluding scour protection; and
 - (b) 1,623,182 square metres including scour protection.
 
-**3.**[^key-a31ed8e820bb38dfff120669f47e722b] (1) The total number of offshore electrical installations and offshore accommodation platforms shall not exceed 21, and shall consist of no more than—
+**3.**[^c-a31ed8e820bb38dfff120669f47e722b] (1) The total number of offshore electrical installations and offshore accommodation platforms shall not exceed 21, and shall consist of no more than—
 
 - (a) 12 offshore type 1 substations;
 - (b) four offshore type 2 substations;
@@ -262,9 +262,9 @@ The authorised project must commence no later than the expiration of seven years
 - (a) 138,900 square metres excluding scour protection; and
 - (b) 267,900 square metres including scour protection.
 
-**4.**[^key-a51780c0c30038e998cb62c4008a3760] The total volume of scour protection for wind turbine generators, offshore accommodation platforms and offshore electrical installations shall not exceed 2,709,673 cubic metres.
+**4.**[^c-a51780c0c30038e998cb62c4008a3760] The total volume of scour protection for wind turbine generators, offshore accommodation platforms and offshore electrical installations shall not exceed 2,709,673 cubic metres.
 
-**5.**[^key-21b3e9541aeb7662297a61ff14ac1e33] (1) The number of cable circuits shall not exceed six.
+**5.**[^c-21b3e9541aeb7662297a61ff14ac1e33] (1) The number of cable circuits shall not exceed six.
 
 (2) The total length of the cables comprising Work No. 1(c) shall not exceed 830 kilometres.
 
@@ -276,7 +276,7 @@ The authorised project must commence no later than the expiration of seven years
 
 (6) The total number of the cable crossings must not exceed 44 unless otherwise agreed with the MMO.
 
-#### 6. Phases of authorised development[^key-091becca7096037b9bc062d7df039689]
+#### 6. Phases of authorised development[^c-091becca7096037b9bc062d7df039689]
 
 (1) The authorised development may not be commenced until a written scheme setting out the phases of construction of the authorised project has been submitted to and approved by the relevant planning authority, in relation to the connection works, or the MMO, in relation to works seaward of MHWS.
 
@@ -284,7 +284,7 @@ The authorised project must commence no later than the expiration of seven years
 
 (3) The scheme must be implemented as approved.
 
-#### 7. Detailed design approval onshore[^key-51f5cff3da958e7e7da85d8883b28419]
+#### 7. Detailed design approval onshore[^c-51f5cff3da958e7e7da85d8883b28419]
 
 (1) Construction of the connection works in either Work No.9 or Work No. 10 shall not commence until details of—
 
@@ -295,7 +295,7 @@ The authorised project must commence no later than the expiration of seven years
 - (e) hard surfacing materials;
 - (f) vehicular and pedestrian access, parking and circulation areas;
 - (g) minor structures, such as furniture, refuse or other storage units, signs and lighting; and
-- (h) proposed and existing functional services above and below, ground, including drainage, power and communications cables and pipelines, manholes and supports ,[^key-f586648dfe90208bd703c157885cd481]
+- (h) proposed and existing functional services above and below, ground, including drainage, power and communications cables and pipelines, manholes and supports ,[^c-f586648dfe90208bd703c157885cd481]
 
 relating to that work of the authorised project have been submitted to and approved in writing by the relevant planning authority.
 
@@ -303,9 +303,9 @@ relating to that work of the authorised project have been submitted to and appro
 
 (3) The connection works in Works No.9 and 10 must be carried out in accordance with the approved details.
 
-(4) The connection works in either Work No.9 or Work No. 10 shall not commence until explanation of the choice of HVDC or HVAC for that phase has been provided in writing to the relevant planning authority, either before, or at the same time as, the details referred to in sub-paragraph[^key-cba8913779a24391a453a864dfd04226] (1).
+(4) The connection works in either Work No.9 or Work No. 10 shall not commence until explanation of the choice of HVDC or HVAC for that phase has been provided in writing to the relevant planning authority, either before, or at the same time as, the details referred to in sub-paragraph[^c-cba8913779a24391a453a864dfd04226] (1).
 
-#### 8. Provision of landscaping[^key-2d92586958fb2d6d541dec0a2d37e614]
+#### 8. Provision of landscaping[^c-2d92586958fb2d6d541dec0a2d37e614]
 
 (1) No phase of the connection works may commence until for that phase a written landscape plan and associated work programme (which accords with the outline landscape plan and outline ecological management plan) has been submitted to and approved by the relevant planning authority in consultation with the relevant SNCBs and the Historic Buildings and Monuments Commission for England.
 
@@ -313,7 +313,7 @@ relating to that work of the authorised project have been submitted to and appro
 
 (3) The landscape plan must include details of—
 
-- (a) surveys, assessments and method statements as guided by BS 5837 and the Hedgerows Regulations 1997; [^key-36553ed90b554eb3838eec0554cfaede]...
+- (a) surveys, assessments and method statements as guided by BS 5837 and the Hedgerows Regulations 1997; [^c-36553ed90b554eb3838eec0554cfaede]...
 - (b) location, number, species, size and planting density of any proposed planting;
 - (c) cultivation, importing of materials and other operations to ensure plant establishment;
 - (d) existing trees and hedges to be retained with measures for their protection during the construction period; and
@@ -321,13 +321,13 @@ relating to that work of the authorised project have been submitted to and appro
 
 (4) The landscape plan must be carried out as approved.
 
-#### 9. Implementation and maintenance of landscaping[^key-d00514d5f4db29e2f1af1874eaede085]
+#### 9. Implementation and maintenance of landscaping[^c-d00514d5f4db29e2f1af1874eaede085]
 
 (1) All landscape works must be carried out in accordance with the landscape plans approved under requirement 8 (provision of landscaping), and in accordance with the relevant recommendations of appropriate British Standards.
 
 (2) Any tree or shrub planted as part of an approved landscape plan that, within a period of ten years after planting, is removed by the undertaker, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased must be replaced in the first available planting season with a specimen of the same species and size as that originally planted unless otherwise approved in writing by the relevant planning authority.
 
-#### 10. Ecological management plan[^key-b4862721d5633715fdba3982c7117b55]
+#### 10. Ecological management plan[^c-b4862721d5633715fdba3982c7117b55]
 
 (1) No phase of the connection works may commence until for that phase a written ecological management plan (which accords with the outline ecological management plan and the relevant recommendations of appropriate British Standards) reflecting the survey results and ecological mitigation and enhancement measures included in the environmental statement has been submitted to and approved by the relevant planning authority in consultation with the relevant SNCBs and (where works have potential to impact wetland habitats) the Environment Agency.
 
@@ -335,7 +335,7 @@ relating to that work of the authorised project have been submitted to and appro
 
 (3) The ecological management plan must include an implementation timetable and must be carried out as approved.
 
-#### 11. Highway accesses[^key-0dc52e0673d4111dc50c5f55ef365026]
+#### 11. Highway accesses[^c-0dc52e0673d4111dc50c5f55ef365026]
 
 (1) Construction of any new permanent or temporary means of access to a highway, or alteration, or use of an existing means of access to a highway, shall not commence until an access plan for that access has been submitted to and approved by Norfolk County Council as the local highway authority.
 
@@ -345,7 +345,7 @@ relating to that work of the authorised project have been submitted to and appro
 
 (4) The highway accesses (including visibility splays) must be constructed and maintained in accordance with the approved details.
 
-#### 12. Fencing and other means of enclosure[^key-4a7e3dcc5f3c77cbcf753c4d33644622]
+#### 12. Fencing and other means of enclosure[^c-4a7e3dcc5f3c77cbcf753c4d33644622]
 
 (1) No phase of the connection works may commence until for that phase written details of all proposed permanent fences, walls or other means of enclosure of the connection works have been submitted to and approved by the relevant planning authority.
 
@@ -357,13 +357,13 @@ relating to that work of the authorised project have been submitted to and appro
 
 (5) Any approved permanent fencing in relation to an onshore HVDC/HVAC substation or onshore HVAC booster station must be completed before that onshore HVDC/HVAC substation or onshore HVAC booster station is brought into use and maintained for the operational lifetime of the onshore HVDC/HVAC substation or onshore HVAC booster station.
 
-#### 13. Surface and foul water drainage[^key-047802d02556204960a275f8b1c736ff]
+#### 13. Surface and foul water drainage[^c-047802d02556204960a275f8b1c736ff]
 
 (1) No phase of the connection works shall commence until for that phase written details of the surface and (if any) foul water drainage system (including means of pollution control) have, after consultation with the relevant sewerage and drainage authorities and the Environment Agency, been submitted to and approved by the lead local flood authority.
 
 (2) The surface and foul water drainage system for each phase must be constructed and maintained in accordance with the approved details.
 
-#### 14. Contaminated land and groundwater scheme[^key-cd9bde07cf9f73e81af935f2069a6919]
+#### 14. Contaminated land and groundwater scheme[^c-cd9bde07cf9f73e81af935f2069a6919]
 
 (1) No phase of the authorised development within the area of a relevant planning authority may be commenced until a scheme to deal with the contamination of any land (including groundwater) within the Order limits that is likely to cause significant harm to persons or pollution of controlled waters or the environment has been submitted to, and approved by, the relevant planning authority in consultation with the Environment Agency and, to the extent that the plan relates to the intertidal area, the MMO.
 
@@ -371,7 +371,7 @@ relating to that work of the authorised project have been submitted to and appro
 
 (3) Such remediation as may be identified in the approved scheme must be carried out in accordance with the approved scheme.
 
-#### 15. Surface water[^key-a4f0c376891bc31b51ecb863f025f84c]
+#### 15. Surface water[^c-a4f0c376891bc31b51ecb863f025f84c]
 
 (1) No part of the onshore HVDC/HVAC substation or onshore HVAC booster station shall commence until, in respect of that installation, a detailed surface water scheme has been prepared in consultation with the Environment Agency and Norfolk County Council and submitted to and approved in writing by Norfolk County Council.
 
@@ -383,7 +383,7 @@ relating to that work of the authorised project have been submitted to and appro
 
 (3) Construction of the onshore HVDC/HVAC substation or HVAC booster station as applicable must be carried out in accordance with the approved scheme.
 
-#### 16. Onshore Archaeology[^key-79263a33dd677c7c57140123501d3f12]
+#### 16. Onshore Archaeology[^c-79263a33dd677c7c57140123501d3f12]
 
 (1) No phase of the connection works may commence until for that phase a written scheme of archaeological investigation (which must accord with the outline onshore written scheme of investigation) for Work Nos. 6 to 15 has been submitted to and approved by the relevant planning authority in consultation with Norfolk County Council and the Historic Buildings and Monuments Commission for England.
 
@@ -393,7 +393,7 @@ relating to that work of the authorised project have been submitted to and appro
 
 (4) The archaeological site investigations and post investigation assessment must be completed for that phase in accordance with the programme set out in the written scheme of archaeological investigation and provision made for analysis, publication and dissemination of results and archive deposition secured for that phase.
 
-#### 17. Code of construction practice[^key-83fcde6911a2a18ef56c7ba13ba392a8]
+#### 17. Code of construction practice[^c-83fcde6911a2a18ef56c7ba13ba392a8]
 
 (1) No phase of any works landward of MLWS may commence until for that phase a code of construction practice (which must accord with the outline code of construction practice) has been submitted to and approved by the relevant planning authority, in consultation with the Environment Agency, the relevant SNCBs, the relevant highway authority and, if applicable, the MMO.
 
@@ -401,7 +401,7 @@ relating to that work of the authorised project have been submitted to and appro
 
 (3) All construction works for each phase must be undertaken in accordance with the relevant approved code of construction practice.
 
-#### 18. Construction traffic management plan[^key-bbc94057997dc3c73e845edcdd20ca29]
+#### 18. Construction traffic management plan[^c-bbc94057997dc3c73e845edcdd20ca29]
 
 (1) No phase of the connection works may commence until written details of a construction traffic management plan (which accords with the outline construction traffic management plan) for that phase has been submitted to and approved by the relevant planning authority in consultation with the relevant highway authority. The construction traffic management plan shall include, in respect of Link 89, as referred to in the Environmental Statement, a Cawston Highway Intervention Scheme agreed between the undertaker and the relevant highway authority.
 
@@ -409,7 +409,7 @@ relating to that work of the authorised project have been submitted to and appro
 
 (3) The construction traffic management plan for each phase must be implemented as approved for that phase.
 
-#### 19. European protected species onshore[^key-f4a54ffd59a7c88fcc1ea0c3de4c712f]
+#### 19. European protected species onshore[^c-f4a54ffd59a7c88fcc1ea0c3de4c712f]
 
 (1) No phase of the connection works may commence until final pre-construction survey work has been carried out to establish whether a European protected species is present on any of the land affected, or likely to be affected, by that phase of the connection works or in any of the trees to be lopped or felled as part of that phase of the connection works.
 
@@ -419,11 +419,11 @@ relating to that work of the authorised project have been submitted to and appro
 
 (4) In this Requirement, “**European protected species**” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017 [^c24412901].
 
-#### 20. Restoration of land used temporarily for construction[^key-3a3144a8e48d6447b241b6bef033b12f]
+#### 20. Restoration of land used temporarily for construction[^c-3a3144a8e48d6447b241b6bef033b12f]
 
 Any land landward of MLWS within the Order limits which is used temporarily for construction of the connection works and not ultimately incorporated in permanent works or approved landscaping, must be reinstated in accordance with such details as the relevant planning authority in consultation with, where appropriate, the MMO, and the relevant highway authority, may approve, as soon as reasonably practicable and in any event within twelve months of completion of the relevant phase of the connection works.
 
-#### 21. Control of noise during operational phase[^key-971a2c655c893bdc0b574c44e49fa59b]
+#### 21. Control of noise during operational phase[^c-971a2c655c893bdc0b574c44e49fa59b]
 
 (1) Prior to commencement of any phase of works landward of MHWS, a noise management plan (NMP) for Work Nos. 9 and 10 shall be submitted to and approved by the relevant planning authority.
 
@@ -438,7 +438,7 @@ Any land landward of MLWS within the Order limits which is used temporarily for 
 
 (3) The NMP must be implemented as approved.
 
-#### 22. Local skills and employment[^key-2686bb3ac11fff10c5a29054f5ca6eb5]
+#### 22. Local skills and employment[^c-2686bb3ac11fff10c5a29054f5ca6eb5]
 
 (1) No phase of the connection works may commence until for that phase a skills and employment plan (which accords with the outline skills and employment plan) in relation to the authorised development—
 
@@ -453,7 +453,7 @@ Any land landward of MLWS within the Order limits which is used temporarily for 
 
 (5) The skills and employment plans shall be implemented as approved.
 
-#### 23. Onshore decommissioning[^key-6c7b3f9b157bddd4583994fa02e32700]
+#### 23. Onshore decommissioning[^c-6c7b3f9b157bddd4583994fa02e32700]
 
 (1) Within three months of the cessation of commercial operation of the connection works an onshore decommissioning plan must be submitted to the relevant planning authority for approval unless otherwise agreed in writing by the relevant planning authority.
 
@@ -461,15 +461,15 @@ Any land landward of MLWS within the Order limits which is used temporarily for 
 
 (3) The decommissioning plan must be implemented as approved unless otherwise agreed in writing by the relevant planning authority.
 
-#### 24. Notification of generation of power[^key-eaef6a7e4493860feb0726a6c6705bda]
+#### 24. Notification of generation of power[^c-eaef6a7e4493860feb0726a6c6705bda]
 
 The undertaker shall notify the relevant planning authority and the MMO upon first generation of power from each phase of the authorised project not less than seven days after the occurrence of this event.
 
-#### 25. Requirement for written approval[^key-bc8f329c896e94f57567837b10341c81]
+#### 25. Requirement for written approval[^c-bc8f329c896e94f57567837b10341c81]
 
 Where the approval, agreement or confirmation of the Secretary of State, relevant planning authority or another person is required under a requirement, that approval, agreement or confirmation must be given in writing.
 
-#### 26. Amendments to approved details[^key-ff9b637804452fed913868249d4448f0]
+#### 26. Amendments to approved details[^c-ff9b637804452fed913868249d4448f0]
 
 (1) With respect to any requirement which requires the authorised project to be carried out in accordance with the details approved by the relevant planning authority or another person, the approved details must be carried out as approved unless an amendment or variation is previously agreed in writing by the relevant planning authority or that other person in accordance with sub-paragraph (2).
 
@@ -479,70 +479,70 @@ Where the approval, agreement or confirmation of the Secretary of State, relevan
 
 ## Annotations
 
-[^key-34e6da51332a0fbf5e2f4cca3f3982e7]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-34e6da51332a0fbf5e2f4cca3f3982e7]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-83db0ec62733fc0be8b855ecde04c84c]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1656/schedule/1/part/1) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-83db0ec62733fc0be8b855ecde04c84c]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2020/1656/schedule/1/part/1) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
-[^key-435918631ffd6ef43df250f2a7d874e7]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-435918631ffd6ef43df250f2a7d874e7]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-15283304c74971b08857eb94d85cf9a4]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-15283304c74971b08857eb94d85cf9a4]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-7446f8d30293afb6ef16f8592441f19d]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-7446f8d30293afb6ef16f8592441f19d]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-9f95e45b634eed0e10cea63526a77f58]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-9f95e45b634eed0e10cea63526a77f58]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-a31ed8e820bb38dfff120669f47e722b]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-a31ed8e820bb38dfff120669f47e722b]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-a51780c0c30038e998cb62c4008a3760]: Commencement: Sch. 1 Pt. 3 para. 4 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-a51780c0c30038e998cb62c4008a3760]: Commencement: Sch. 1 Pt. 3 para. 4 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-21b3e9541aeb7662297a61ff14ac1e33]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-21b3e9541aeb7662297a61ff14ac1e33]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-091becca7096037b9bc062d7df039689]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-091becca7096037b9bc062d7df039689]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-51f5cff3da958e7e7da85d8883b28419]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-51f5cff3da958e7e7da85d8883b28419]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-f586648dfe90208bd703c157885cd481]: Textual amendment: [Comma in Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1656/schedule/1/part/3) substituted for semi-colon (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-f586648dfe90208bd703c157885cd481]: Textual amendment: [Comma in Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1656/schedule/1/part/3) substituted for semi-colon (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
-[^key-cba8913779a24391a453a864dfd04226]: Textual amendment: Word in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1656/schedule/1/part/3) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-cba8913779a24391a453a864dfd04226]: Textual amendment: Word in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1656/schedule/1/part/3) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
-[^key-2d92586958fb2d6d541dec0a2d37e614]: Commencement: Sch. 1 Pt. 3 para. 8 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-2d92586958fb2d6d541dec0a2d37e614]: Commencement: Sch. 1 Pt. 3 para. 8 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-36553ed90b554eb3838eec0554cfaede]: Textual amendment: Word in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1656/schedule/1/part/3) omitted (21.5.2021) by virtue of [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-36553ed90b554eb3838eec0554cfaede]: Textual amendment: Word in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2020/1656/schedule/1/part/3) omitted (21.5.2021) by virtue of [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
-[^key-d00514d5f4db29e2f1af1874eaede085]: Commencement: Sch. 1 Pt. 3 para. 9 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-d00514d5f4db29e2f1af1874eaede085]: Commencement: Sch. 1 Pt. 3 para. 9 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-b4862721d5633715fdba3982c7117b55]: Commencement: Sch. 1 Pt. 3 para. 10 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-b4862721d5633715fdba3982c7117b55]: Commencement: Sch. 1 Pt. 3 para. 10 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-0dc52e0673d4111dc50c5f55ef365026]: Commencement: Sch. 1 Pt. 3 para. 11 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-0dc52e0673d4111dc50c5f55ef365026]: Commencement: Sch. 1 Pt. 3 para. 11 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-4a7e3dcc5f3c77cbcf753c4d33644622]: Commencement: Sch. 1 Pt. 3 para. 12 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-4a7e3dcc5f3c77cbcf753c4d33644622]: Commencement: Sch. 1 Pt. 3 para. 12 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-047802d02556204960a275f8b1c736ff]: Commencement: Sch. 1 Pt. 3 para. 13 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-047802d02556204960a275f8b1c736ff]: Commencement: Sch. 1 Pt. 3 para. 13 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-cd9bde07cf9f73e81af935f2069a6919]: Commencement: Sch. 1 Pt. 3 para. 14 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-cd9bde07cf9f73e81af935f2069a6919]: Commencement: Sch. 1 Pt. 3 para. 14 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-a4f0c376891bc31b51ecb863f025f84c]: Commencement: Sch. 1 Pt. 3 para. 15 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-a4f0c376891bc31b51ecb863f025f84c]: Commencement: Sch. 1 Pt. 3 para. 15 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-79263a33dd677c7c57140123501d3f12]: Commencement: Sch. 1 Pt. 3 para. 16 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-79263a33dd677c7c57140123501d3f12]: Commencement: Sch. 1 Pt. 3 para. 16 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-83fcde6911a2a18ef56c7ba13ba392a8]: Commencement: Sch. 1 Pt. 3 para. 17 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-83fcde6911a2a18ef56c7ba13ba392a8]: Commencement: Sch. 1 Pt. 3 para. 17 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-bbc94057997dc3c73e845edcdd20ca29]: Commencement: Sch. 1 Pt. 3 para. 18 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-bbc94057997dc3c73e845edcdd20ca29]: Commencement: Sch. 1 Pt. 3 para. 18 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-f4a54ffd59a7c88fcc1ea0c3de4c712f]: Commencement: Sch. 1 Pt. 3 para. 19 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-f4a54ffd59a7c88fcc1ea0c3de4c712f]: Commencement: Sch. 1 Pt. 3 para. 19 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
 [^c24412901]: Marginal citation: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
-[^key-3a3144a8e48d6447b241b6bef033b12f]: Commencement: Sch. 1 Pt. 3 para. 20 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-3a3144a8e48d6447b241b6bef033b12f]: Commencement: Sch. 1 Pt. 3 para. 20 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-971a2c655c893bdc0b574c44e49fa59b]: Commencement: Sch. 1 Pt. 3 para. 21 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-971a2c655c893bdc0b574c44e49fa59b]: Commencement: Sch. 1 Pt. 3 para. 21 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-2686bb3ac11fff10c5a29054f5ca6eb5]: Commencement: Sch. 1 Pt. 3 para. 22 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-2686bb3ac11fff10c5a29054f5ca6eb5]: Commencement: Sch. 1 Pt. 3 para. 22 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-6c7b3f9b157bddd4583994fa02e32700]: Commencement: Sch. 1 Pt. 3 para. 23 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-6c7b3f9b157bddd4583994fa02e32700]: Commencement: Sch. 1 Pt. 3 para. 23 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-eaef6a7e4493860feb0726a6c6705bda]: Commencement: Sch. 1 Pt. 3 para. 24 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-eaef6a7e4493860feb0726a6c6705bda]: Commencement: Sch. 1 Pt. 3 para. 24 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-bc8f329c896e94f57567837b10341c81]: Commencement: Sch. 1 Pt. 3 para. 25 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-bc8f329c896e94f57567837b10341c81]: Commencement: Sch. 1 Pt. 3 para. 25 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-ff9b637804452fed913868249d4448f0]: Commencement: Sch. 1 Pt. 3 para. 26 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-ff9b637804452fed913868249d4448f0]: Commencement: Sch. 1 Pt. 3 para. 26 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

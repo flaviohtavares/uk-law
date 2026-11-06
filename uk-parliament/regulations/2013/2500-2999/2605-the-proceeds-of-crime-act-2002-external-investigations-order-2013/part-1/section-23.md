@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Meaning of customer information[^key-80cb5ffe9feb0650286fff09c2fb80cb]
+## 23. Meaning of customer information[^c-80cb5ffe9feb0650286fff09c2fb80cb]
 
 *Extent: E+W+N.I.*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-80cb5ffe9feb0650286fff09c2fb80cb]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/2605/article/23) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-80cb5ffe9feb0650286fff09c2fb80cb]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/2605/article/23) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
 [^f00011]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 

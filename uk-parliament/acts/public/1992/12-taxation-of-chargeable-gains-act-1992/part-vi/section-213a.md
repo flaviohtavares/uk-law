@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213A. Power to modify ss. 212 and 213 etc in case of CFCs that are offshore funds[^key-d50d9167634555f566b20253b0f5e4f7]
+## 213A. Power to modify ss. 212 and 213 etc in case of CFCs that are offshore funds[^c-d50d9167634555f566b20253b0f5e4f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ in relation to any accounting period of the insurance company so as to reduce th
 
 ## Annotations
 
-[^key-d50d9167634555f566b20253b0f5e4f7]: Textual amendment: S. 213A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 87](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/87)
+[^c-d50d9167634555f566b20253b0f5e4f7]: Textual amendment: S. 213A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 87](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/87)

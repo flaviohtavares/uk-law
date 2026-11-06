@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-daff666bc785d735fff33a65eb366591] If an eligible Scottish partnership fails to deliver a confirmation statement before the end of the period of 14 days beginning the day after the end of a review period an offence is committed by—
+(1)[^c-daff666bc785d735fff33a65eb366591] If an eligible Scottish partnership fails to deliver a confirmation statement before the end of the period of 14 days beginning the day after the end of a review period an offence is committed by—
 
 - (a) the eligible Scottish partnership, and
 - (b) every officer of the eligible Scottish partnership who is in default.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daff666bc785d735fff33a65eb366591]: Modification: [Reg. 38(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/38/1) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [36](https://www.legislation.gov.uk/uksi/2020/645/regulation/36)
+[^c-daff666bc785d735fff33a65eb366591]: Modification: [Reg. 38(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/38/1) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [36](https://www.legislation.gov.uk/uksi/2020/645/regulation/36)

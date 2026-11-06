@@ -24,9 +24,9 @@ Section 22(4).
 
 **1.** (1) Section 1 (establishment of industrial training boards) shall be amended as follows.
 
-(2)[^key-ca88a58514f4ad8e6f4bb20c0a4aa1f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ca88a58514f4ad8e6f4bb20c0a4aa1f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b1dd84976e6430630b988a735b093284] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b1dd84976e6430630b988a735b093284] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (7), for “section 3(2)” substitute “ section 3(1)(b) ”.
 
@@ -52,7 +52,7 @@ Section 22(4).
 - (a) for “Commission for its”, in both places where those words occur, substitute “ Secretary of State for his ”; and
 - (b) for “Commission and approved by it” substitute “ Secretary of State and approved by him ”.
 
-**5.**[^key-d38cdb0ba44df4e0c49f45afe3a9c926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d38cdb0ba44df4e0c49f45afe3a9c926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) Section 7 (exercise of power of industrial training board to obtain information) shall be amended as follows.
 
@@ -63,7 +63,7 @@ Section 22(4).
 
 (3) In subsection (2), for the words from “Commission and” to “as the Commission” substitute “ Secretary of State and contain such information as he ”.
 
-(4)[^key-74cc6bfa4fabf15037ab9a61918d90cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-74cc6bfa4fabf15037ab9a61918d90cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** (1) Section 8 (reports and accounts) shall be amended as follows.
 
@@ -73,16 +73,16 @@ Section 22(4).
 
 (4) In subsection (4), for the words from “Commission” to “and he” substitute “ Secretary of State ”.
 
-**8.**[^key-c4e72b775959f1f4755a18338d4d6e3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c4e72b775959f1f4755a18338d4d6e3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-fc87e3a5fe0e164eff1e36b4ad52dd4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-fc87e3a5fe0e164eff1e36b4ad52dd4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** (1) Section 11 (levies) shall be amended as follows.
 
 (2) In subsection (1)—
 
 - (a) for “Commission for the Commission’s approval” substitute “ Secretary of State ”; and
-- (b)[^key-092b9308788f8188c3b5c9adbb3a9ad1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-092b9308788f8188c3b5c9adbb3a9ad1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (2), for “approved by the Commission” substitute “ submitted to him ”.
 
@@ -97,7 +97,7 @@ Section 22(4).
 
 (2) In subsection (1), for “Commission for its” substitute “ Secretary of State for his ”.
 
-(3)[^key-8059f00ed85aa21e96bcf742e67a656c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8059f00ed85aa21e96bcf742e67a656c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For subsection (5) substitute—
 
@@ -114,13 +114,13 @@ Section 22(4).
 
 > (2) Where proposals submitted to the Secretary of State under section 5(5), 11(1) or 13(1) above appear unsatisfactory to him, he may direct the board to submit fresh proposals within a specified time, stating in the direction in what respect the proposals already submitted appear to him unsatisfactory; and where the fresh proposals also appear unsatisfactory to the Secretary of State, he may make an order (in this section referred to as “**a default order**”) declaring the board to be in default.
 
-(4)[^key-a20652e4c937a5e89f6c12b5317113ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a20652e4c937a5e89f6c12b5317113ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For subsection (5) substitute—
 
 > (5) Where a board has failed to comply with a direction of the Secretary of State under subsection (1) or (2) above within the time specified in the direction, he may make a default order.
 
-**14.**[^key-03151bb2419ecec770ede050bcb60799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-03151bb2419ecec770ede050bcb60799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** (1) Section 17 (financial provisions) shall be amended as follows.
 
@@ -140,30 +140,30 @@ Section 22(4).
 
 **16.** (1) Paragraph 7 of Schedule 1 (persons entitled to attend meetings of industrial training board or committees of board) shall be amended as follows.
 
-(2)[^key-703632d30d67db3dadab010afe2a63be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-703632d30d67db3dadab010afe2a63be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In sub-paragraph (2), for “Commission” substitute “ Secretary of State ”.
 
 ## Annotations
 
-[^key-ca88a58514f4ad8e6f4bb20c0a4aa1f1]: Textual amendment: [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-ca88a58514f4ad8e6f4bb20c0a4aa1f1]: Textual amendment: [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-b1dd84976e6430630b988a735b093284]: Textual amendment: [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/1/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-b1dd84976e6430630b988a735b093284]: Textual amendment: [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/1/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-d38cdb0ba44df4e0c49f45afe3a9c926]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-d38cdb0ba44df4e0c49f45afe3a9c926]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-74cc6bfa4fabf15037ab9a61918d90cb]: Textual amendment: [Sch. 4 para. 6(4)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/6/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-74cc6bfa4fabf15037ab9a61918d90cb]: Textual amendment: [Sch. 4 para. 6(4)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/6/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-c4e72b775959f1f4755a18338d4d6e3b]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-c4e72b775959f1f4755a18338d4d6e3b]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-fc87e3a5fe0e164eff1e36b4ad52dd4a]: Textual amendment: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-fc87e3a5fe0e164eff1e36b4ad52dd4a]: Textual amendment: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-092b9308788f8188c3b5c9adbb3a9ad1]: Textual amendment: [Sch. 4 para. 10(2)(b)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/10/2/b) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-092b9308788f8188c3b5c9adbb3a9ad1]: Textual amendment: [Sch. 4 para. 10(2)(b)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/10/2/b) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-8059f00ed85aa21e96bcf742e67a656c]: Textual amendment: [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/12/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-8059f00ed85aa21e96bcf742e67a656c]: Textual amendment: [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/12/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-a20652e4c937a5e89f6c12b5317113ea]: Textual amendment: [Sch. 4 para. 13(4)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/13/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-a20652e4c937a5e89f6c12b5317113ea]: Textual amendment: [Sch. 4 para. 13(4)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/13/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-03151bb2419ecec770ede050bcb60799]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-03151bb2419ecec770ede050bcb60799]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-703632d30d67db3dadab010afe2a63be]: Textual amendment: [Sch. 4 para. 16(2)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/16/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-703632d30d67db3dadab010afe2a63be]: Textual amendment: [Sch. 4 para. 16(2)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/4/paragraph/16/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

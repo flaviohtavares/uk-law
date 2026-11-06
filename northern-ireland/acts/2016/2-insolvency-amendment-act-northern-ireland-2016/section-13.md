@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. After-acquired property of bankrupt[^key-91a154471b4ec4452f5be7295fe4a133]
+## 13. After-acquired property of bankrupt[^c-91a154471b4ec4452f5be7295fe4a133]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91a154471b4ec4452f5be7295fe4a133]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/2/section/13) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-91a154471b4ec4452f5be7295fe4a133]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2016/2/section/13) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

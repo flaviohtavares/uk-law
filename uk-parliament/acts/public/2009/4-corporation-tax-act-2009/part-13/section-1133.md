@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1133. Contracted out research and development[^key-08831bf4cb21b9bdd7ac373421d8124c]
+## 1133. Contracted out research and development[^c-08831bf4cb21b9bdd7ac373421d8124c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08831bf4cb21b9bdd7ac373421d8124c]: Textual amendment: [S. 1133 and cross-heading](https://www.legislation.gov.uk/ukpga/2009/4/part/13/chapter/9/crossheading/subcontractor-payments) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/7), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-08831bf4cb21b9bdd7ac373421d8124c]: Textual amendment: [S. 1133 and cross-heading](https://www.legislation.gov.uk/ukpga/2009/4/part/13/chapter/9/crossheading/subcontractor-payments) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/7), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)

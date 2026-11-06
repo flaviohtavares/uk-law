@@ -22,7 +22,7 @@ summary: ''
 
 Rule 1(3)(a)
 
-### 1. Application and interpretation of Schedule 1[^key-c52023d676dea34d02c112fa360d3fe4]
+### 1. Application and interpretation of Schedule 1[^c-c52023d676dea34d02c112fa360d3fe4]
 
 (1) This Schedule applies to national security proceedings.
 
@@ -30,11 +30,11 @@ Rule 1(3)(a)
 
 (3) Any reference in this Schedule to a rule is a reference to a rule in Parts 1 to 15 of these Rules.
 
-### 2. Sending of documents[^key-22648cf2b0736685cd4863bbb9fc583f]
+### 2. Sending of documents[^c-22648cf2b0736685cd4863bbb9fc583f]
 
 The Tribunal must not send a copy of the response to any excluded person.
 
-### 3. Witness orders and disclosure of documents[^key-15ba452bf931a9cce51ef6c16a369da2]
+### 3. Witness orders and disclosure of documents[^c-15ba452bf931a9cce51ef6c16a369da2]
 
 (1) Where a person or their representative has been excluded under rule 93 (national security proceedings) from all or part of the proceedings and the Tribunal is considering whether to make an order under rule 33 (disclosure of documents and information) or 34 (requirement to attend to give evidence), a Minister (whether or not the Minister is a party to the proceedings) may make an application to the Tribunal objecting to that order.
 
@@ -42,7 +42,7 @@ The Tribunal must not send a copy of the response to any excluded person.
 
 (3) The Tribunal must hear and determine the Minister’s application in private and the Minister is entitled to address the Tribunal.
 
-### 4. Special advocate[^key-fc12e5556d3524b27cfba48f299eb2d5]
+### 4. Special advocate[^c-fc12e5556d3524b27cfba48f299eb2d5]
 
 (1) The Tribunal must inform the relevant Law Officer if a party becomes an excluded person.
 
@@ -78,11 +78,11 @@ The Tribunal must not send a copy of the response to any excluded person.
 
 (11) Reference in Parts 1 to 15 of these Rules and this Schedule to a party or parties includes any special advocate appointed in particular proceedings, except for references in rules 4, 6(2)(c), 35, and 37(2) and (3), the first reference in rule 38, and references in rules 39, 40, 47, 62, 64, 72 to 82, 92 and 95.
 
-### 5. Hearings[^key-f12841935b44b42c817ff9998b8d2588]
+### 5. Hearings[^c-f12841935b44b42c817ff9998b8d2588]
 
 Subject to any order under rule 49 (privacy and restrictions on disclosure) or any direction or order under rule 93 (national security proceedings), any hearing must take place in public, and any party may attend and participate in the hearing.
 
-### 6. Reasons in national security proceedings[^key-127f349c1aa21b50895940c458fe8028]
+### 6. Reasons in national security proceedings[^c-127f349c1aa21b50895940c458fe8028]
 
 (1) The Tribunal must send a copy of the written reasons given under rule 60 (reasons) to the Minister.
 
@@ -116,14 +116,14 @@ Subject to any order under rule 49 (privacy and restrictions on disclosure) or a
 
 ## Annotations
 
-[^key-c52023d676dea34d02c112fa360d3fe4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/1) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-c52023d676dea34d02c112fa360d3fe4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/1) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-22648cf2b0736685cd4863bbb9fc583f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/2) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-22648cf2b0736685cd4863bbb9fc583f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/2) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-15ba452bf931a9cce51ef6c16a369da2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/3) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-15ba452bf931a9cce51ef6c16a369da2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/3) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-fc12e5556d3524b27cfba48f299eb2d5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/4) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-fc12e5556d3524b27cfba48f299eb2d5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/4) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-f12841935b44b42c817ff9998b8d2588]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/5) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-f12841935b44b42c817ff9998b8d2588]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/5) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-127f349c1aa21b50895940c458fe8028]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/6) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-127f349c1aa21b50895940c458fe8028]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/1155/schedule/1/paragraph/6) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

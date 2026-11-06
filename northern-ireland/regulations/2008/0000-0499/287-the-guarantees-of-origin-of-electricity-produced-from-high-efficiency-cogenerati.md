@@ -41,13 +41,13 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment, being a Department designated [^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to regulation of the electricity sector, makes the following Regulations in exercise of the powers conferred upon it by that section:
 
-## 1. Citation, commencement and extent[^key-b8d4bc81e9de15fd0c9c1b83e3d84955]
+## 1. Citation, commencement and extent[^c-b8d4bc81e9de15fd0c9c1b83e3d84955]
 
 These Regulations may be cited as the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 and shall come into operation on 22 September 2008.
 
-## 2. Interpretation[^key-20e51e9d277ea65acb90a8a8461f33c7]
+## 2. Interpretation[^c-20e51e9d277ea65acb90a8a8461f33c7]
 
-(1)[^key-962a56854b469d81a2bba40b498502d8] For the purposes of these Regulations—
+(1)[^c-962a56854b469d81a2bba40b498502d8] For the purposes of these Regulations—
 
 - “**CHPGO**” means a guarantee of origin of electricity produced from high-efficiency cogeneration;
 - “**the CHPGO holder**” means the person to whom the CHPGO is issued or transferred;
@@ -71,17 +71,17 @@ These Regulations may be cited as the Guarantees of Origin of Electricity Produc
 - “**small-scale cogeneration unit**” means a cogeneration unit with installed capacity below 1 megawatt electrical (MW<sub>e</sub>);
 - “**useful heat**” means heat produced in a cogeneration process to satisfy economically justifiable demand for heating or cooling.
 
-(2)[^key-5f2e6cd543d1124b89099549c1ad88d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5f2e6cd543d1124b89099549c1ad88d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Issue of CHPGOs and the competent authority[^key-a38e2b8db1ef795504d9dbc96ac2f1d3]
+## 3. Issue of CHPGOs and the competent authority[^c-a38e2b8db1ef795504d9dbc96ac2f1d3]
 
 (1) CHPGOs shall be issued by the competent authority in accordance with these Regulations.
 
-(2)[^key-5ac5d88eb7850d3e45f2162f02c013b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5ac5d88eb7850d3e45f2162f02c013b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Request to issue CHPGOs[^key-34686bcfc5810ee12d3e541c2509db31]
+## 4. Request to issue CHPGOs[^c-34686bcfc5810ee12d3e541c2509db31]
 
 (1) A producer of electricity may request a CHPGO from the competent authority.
 
@@ -92,10 +92,10 @@ These Regulations may be cited as the Guarantees of Origin of Electricity Produc
 (4) The person making a request under paragraph (1) shall provide with the request a statement that in respect of the electricity which is the subject of the request—
 
 - (a) he is entitled to the issue of a CHPGO under these Regulation;
-- (b) he has not made and does not intend to make a request for a CHPGO in respect of the same electricity to any person outside Northern Ireland[^key-a75c204468c748d431cb6ec55f141097] ; and
+- (b) he has not made and does not intend to make a request for a CHPGO in respect of the same electricity to any person outside Northern Ireland[^c-a75c204468c748d431cb6ec55f141097] ; and
 - (c) he has not made and does not intend to make another request under paragraph (1) in respect of the same electricity.
 
-## 5. Issue and content of CHPGOs[^key-ee0b31d6314d64c7ea04c3b1229ca53f]
+## 5. Issue and content of CHPGOs[^c-ee0b31d6314d64c7ea04c3b1229ca53f]
 
 (1) Where the competent authority—
 
@@ -107,19 +107,19 @@ The authority shall issue a CHPGO in respect of that electricity.
 
 (2) A CHPGO shall be issued to the person making the request for it under Regulation 4(1) or such other person as that person may specify in the request.
 
-(2A)[^key-82876afd7ed2222f697973a7fcd8410b] A CHPGO—
+(2A)[^c-82876afd7ed2222f697973a7fcd8410b] A CHPGO—
 
 - (a) shall be issued by reference to a standard size of 1MWh; and
 - (b) shall relate to the net electricity output measured at the station boundary and exported to the grid.
 
 (3) A CHPGO—
 
-- (a) shall contain the matters set out in Schedule 2[^key-3eb5c6d6fafd4165ce1868fedd692510] ; and
+- (a) shall contain the matters set out in Schedule 2[^c-3eb5c6d6fafd4165ce1868fedd692510] ; and
 - (b) may contain such other matters as the competent authority considers appropriate.
 
 (4) Where a CHPGO has been issued in respect of any electricity and not revoked, a further CHPGO in respect of the same electricity shall not be issued by the competent authority.
 
-## 6. Replacement CHPGOs[^key-a8cb09f67505952b70f182e33c821272]
+## 6. Replacement CHPGOs[^c-a8cb09f67505952b70f182e33c821272]
 
 (1) The CHPGO holder may request the competent authority to review the issue of the CHPGO and to issue a replacement CHPGO if—
 
@@ -143,7 +143,7 @@ The authority shall issue a CHPGO in respect of that electricity.
 - (b) not to revoke the CHPGO, it shall as soon as possible given written notice to the CHPGO holder, with reasons for that decision; and
 - (c) to issue a replacement CHPGO, it shall do so as soon as possible.
 
-## 7. Transfer of CHPGOs[^key-0b71c9f5cccca8bba7b1916f41209355]
+## 7. Transfer of CHPGOs[^c-0b71c9f5cccca8bba7b1916f41209355]
 
 (1) If the CHPGO holder no longer operates the plant to which the CHPGO relates, he may request the competent authority to transfer the CHPGO to the person who does operate that plant.
 
@@ -155,7 +155,7 @@ The authority shall issue a CHPGO in respect of that electricity.
 
 it shall effect the transfer of the CHPGO.
 
-## 8. Revocation of CHPGOs[^key-3144febfc0ce5f48b96d6898d1a6ee67]
+## 8. Revocation of CHPGOs[^c-3144febfc0ce5f48b96d6898d1a6ee67]
 
 (1) The competent authority shall revoke a CHPGO where—
 
@@ -170,7 +170,7 @@ it shall effect the transfer of the CHPGO.
 - (a) under sub-paragraph (1)(a), shall be treated as if it had not been issued;
 - (b) under sub-paragraphs (1)(b) or (c), shall cease to have effect from the date that notice is given under paragraph (2).
 
-## 9. Charging[^key-adbf94b770409abbb88db85427f53d02]
+## 9. Charging[^c-adbf94b770409abbb88db85427f53d02]
 
 (1) The competent authority may require the payment of a charge from—
 
@@ -181,13 +181,13 @@ it shall effect the transfer of the CHPGO.
 
 (3) The competent authority shall not be required to issue or transfer a CHPGO until the charge is paid.
 
-## 10. Recognition of CHPGOs[^key-6626212bf39276c6aa30e2bdec992d89]
+## 10. Recognition of CHPGOs[^c-6626212bf39276c6aa30e2bdec992d89]
 
-(1) A public authority shall recognise a CHPGO issued by the[^key-44ebd480b0ea2a71d2bb42520e50ed8e] competent authority as proof of the matters referred to in Schedule 2[^key-3ab1d6a71c33109951f603ffab420c9e] .
+(1) A public authority shall recognise a CHPGO issued by the[^c-44ebd480b0ea2a71d2bb42520e50ed8e] competent authority as proof of the matters referred to in Schedule 2[^c-3ab1d6a71c33109951f603ffab420c9e] .
 
 (2) For the purposes of the regulation a public authority means any Northern Ireland Minister, government department, public body of any description or any person holding public office.
 
-(3)[^key-3c0f82bc50ba463e029085ced9ffa6ed] Subject to paragraph (4), a public authority must recognise, as proof of the matters referred to in Schedule 2, a CHPGO which has been issued—
+(3)[^c-3c0f82bc50ba463e029085ced9ffa6ed] Subject to paragraph (4), a public authority must recognise, as proof of the matters referred to in Schedule 2, a CHPGO which has been issued—
 
 - (a) in a member State in accordance with article 14(10) of the Energy Efficiency Directive; or
 - (b) in Great Britain in accordance with the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 .
@@ -197,9 +197,9 @@ it shall effect the transfer of the CHPGO.
 - (a) it has been requested to refuse or withdraw such recognition by the authority which issued or supervised the issue of the CHPGO; or
 - (b) on the basis of objective, transparent and non-discriminatory criteria, it is satisfied that the CHPGO should not have been issued or that refusal of recognition is necessary for the prevention of fraud.
 
-(5) Where a public authority has refused to recognise a CHPGO issued in a[^key-bb759c309a5d1f9c439a16d327c01a7f] Member State, it shall recognise that CHPGO where the Commission of the European Communities required before[^key-b14ed72610e6c1277dd3049cb6ebd881] IP completion day[^key-20203033fd31a4b2070e8fb2de259f9a] such recognition under Article 14(10) of the Energy Efficiency Directive[^key-13a6c14d597618ebd2e67984350012ee] .
+(5) Where a public authority has refused to recognise a CHPGO issued in a[^c-bb759c309a5d1f9c439a16d327c01a7f] Member State, it shall recognise that CHPGO where the Commission of the European Communities required before[^c-b14ed72610e6c1277dd3049cb6ebd881] IP completion day[^c-20203033fd31a4b2070e8fb2de259f9a] such recognition under Article 14(10) of the Energy Efficiency Directive[^c-13a6c14d597618ebd2e67984350012ee] .
 
-(6) Nothing in this regulation shall require a public authority to satisfy itself that a CHPGO issued in a[^key-d5539b397a511d85796c7f47b39b8abe] Member State or Great Britain has been properly issued.
+(6) Nothing in this regulation shall require a public authority to satisfy itself that a CHPGO issued in a[^c-d5539b397a511d85796c7f47b39b8abe] Member State or Great Britain has been properly issued.
 
 Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 30 June 2008
 
@@ -213,68 +213,68 @@ Department of Enterprise, Trade and Investment
 
 Regulation 4(3)
 
-**1.**[^key-543298837b8368f54e4c573e75642aae] The name and address and, if a company, the registered number, of the person requesting the issue of the CHPGO.
+**1.**[^c-543298837b8368f54e4c573e75642aae] The name and address and, if a company, the registered number, of the person requesting the issue of the CHPGO.
 
-**2.**[^key-ab7b25a0b517f29d239ae85d0b7da134] Where the person signing the statement required under regulation 4(4) is not the person making the request, the name and address of the person signing the statement.
+**2.**[^c-ab7b25a0b517f29d239ae85d0b7da134] Where the person signing the statement required under regulation 4(4) is not the person making the request, the name and address of the person signing the statement.
 
-**3.**[^key-abad406aae5ee3de9537040d4a7fdcba] Whether the person requesting the issue of the CHPGO is the producer of the electricity in respect of which the CHPGO is requested and, if not, the name and address and, if a company the registered number, of the producer.
+**3.**[^c-abad406aae5ee3de9537040d4a7fdcba] Whether the person requesting the issue of the CHPGO is the producer of the electricity in respect of which the CHPGO is requested and, if not, the name and address and, if a company the registered number, of the producer.
 
-**4.**[^key-21e035c5d941f86d7fbd1bcfeec8396a] The beginning and end of the period covered by the request.
+**4.**[^c-21e035c5d941f86d7fbd1bcfeec8396a] The beginning and end of the period covered by the request.
 
-**5.**[^key-6cc60080dd922c1846a32564f3d0acbb] The place where the electricity in respect of which the CHPGO is requested was produced, and the name, if any, of the plant.
+**5.**[^c-6cc60080dd922c1846a32564f3d0acbb] The place where the electricity in respect of which the CHPGO is requested was produced, and the name, if any, of the plant.
 
-**6.**[^key-c41a3590f80902875b22146ff200dc57] The quantity of electricity in respect of which the CHPGO is requested, together with the total quantity of electricity produced by the plant during the period covered by the request.
+**6.**[^c-c41a3590f80902875b22146ff200dc57] The quantity of electricity in respect of which the CHPGO is requested, together with the total quantity of electricity produced by the plant during the period covered by the request.
 
-**7.**[^key-716f7e697a9aae52b0431759d3960909] The information relating to the plant which a person would be required to provide if they requested a certificate under CHPQA in relation to that plant.
+**7.**[^c-716f7e697a9aae52b0431759d3960909] The information relating to the plant which a person would be required to provide if they requested a certificate under CHPQA in relation to that plant.
 
-**8.**[^key-52ca2414a3c70d76ee538db74abc3491] The primary fuel source from which the electricity was produced.
+**8.**[^c-52ca2414a3c70d76ee538db74abc3491] The primary fuel source from which the electricity was produced.
 
-**9.**[^key-a8ab0e016f1bd22e8923efc58f10caa8] The heat to power ratio of the plant producing it.
+**9.**[^c-a8ab0e016f1bd22e8923efc58f10caa8] The heat to power ratio of the plant producing it.
 
-**10.**[^key-bd1d6565abee8549120a345a296bfd42] The amount of useful heat utilised during the period covered by the request.
+**10.**[^c-bd1d6565abee8549120a345a296bfd42] The amount of useful heat utilised during the period covered by the request.
 
-**11.**[^key-2c4d4cf93c9566cdb000c9f2b6ac6130] Such further information as the competent authority may, in the particular circumstances of the case, reasonably require
+**11.**[^c-2c4d4cf93c9566cdb000c9f2b6ac6130] Such further information as the competent authority may, in the particular circumstances of the case, reasonably require
 
 - (a) for the purposes of ascertaining the accuracy of the information required to be provided under paragraphs 1 to 10; or
 - (b) to enable the competent authority to be satisfied that any electricity produced is from high-efficiency cogeneration.
 
-## SCHEDULE 2 — Information to be contained in a CHPGO[^key-1232022c22f36d24b0f7ac0f59140b1c]
+## SCHEDULE 2 — Information to be contained in a CHPGO[^c-1232022c22f36d24b0f7ac0f59140b1c]
 
 **No longer in force.**
 
 Regulation 5(3)
 
-**1.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-1232022c22f36d24b0f7ac0f59140b1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Information to be contained in a CHPGO[^key-d5f294f0e87086e9bda8956969faa5bc]
+## SCHEDULE 2 — Information to be contained in a CHPGO[^c-d5f294f0e87086e9bda8956969faa5bc]
 
 Regulation 5(3) and 10(1) and (3)
 
@@ -446,78 +446,78 @@ Regulation 10 provides for the recognition of guarantees, including those issued
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68) (c.46)
 
-[^key-b8d4bc81e9de15fd0c9c1b83e3d84955]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-b8d4bc81e9de15fd0c9c1b83e3d84955]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-20e51e9d277ea65acb90a8a8461f33c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/287/regulation/2) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-20e51e9d277ea65acb90a8a8461f33c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/287/regulation/2) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-962a56854b469d81a2bba40b498502d8]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/287/regulation/2/1) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-962a56854b469d81a2bba40b498502d8]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/287/regulation/2/1) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f2e6cd543d1124b89099549c1ad88d9]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2008/287/regulation/2/2) omitted (31.12.2020) by virtue of [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f2e6cd543d1124b89099549c1ad88d9]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2008/287/regulation/2/2) omitted (31.12.2020) by virtue of [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a38e2b8db1ef795504d9dbc96ac2f1d3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/287/regulation/3) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-a38e2b8db1ef795504d9dbc96ac2f1d3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/287/regulation/3) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-5ac5d88eb7850d3e45f2162f02c013b4]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2008/287/regulation/3/2) omitted (31.12.2020) by virtue of [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ac5d88eb7850d3e45f2162f02c013b4]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2008/287/regulation/3/2) omitted (31.12.2020) by virtue of [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34686bcfc5810ee12d3e541c2509db31]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/287/regulation/4) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-34686bcfc5810ee12d3e541c2509db31]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/287/regulation/4) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-a75c204468c748d431cb6ec55f141097]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/nisr/2008/287/regulation/4/4/b) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a75c204468c748d431cb6ec55f141097]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/nisr/2008/287/regulation/4/4/b) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee0b31d6314d64c7ea04c3b1229ca53f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/287/regulation/5) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-ee0b31d6314d64c7ea04c3b1229ca53f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/287/regulation/5) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-82876afd7ed2222f697973a7fcd8410b]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/nisr/2008/287/regulation/5/2A) inserted (10.12.2014) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/284)](https://www.legislation.gov.uk/nisr/2014/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/284/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2014/284/regulation/2/4/a)
+[^c-82876afd7ed2222f697973a7fcd8410b]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/nisr/2008/287/regulation/5/2A) inserted (10.12.2014) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/284)](https://www.legislation.gov.uk/nisr/2014/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/284/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2014/284/regulation/2/4/a)
 
-[^key-3eb5c6d6fafd4165ce1868fedd692510]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/nisr/2008/287/regulation/5/3/a) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3eb5c6d6fafd4165ce1868fedd692510]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/nisr/2008/287/regulation/5/3/a) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a8cb09f67505952b70f182e33c821272]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/287/regulation/6) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-a8cb09f67505952b70f182e33c821272]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/287/regulation/6) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-0b71c9f5cccca8bba7b1916f41209355]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/287/regulation/7) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-0b71c9f5cccca8bba7b1916f41209355]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/287/regulation/7) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-3144febfc0ce5f48b96d6898d1a6ee67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/287/regulation/8) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-3144febfc0ce5f48b96d6898d1a6ee67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/287/regulation/8) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-adbf94b770409abbb88db85427f53d02]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/287/regulation/9) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-adbf94b770409abbb88db85427f53d02]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/287/regulation/9) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-6626212bf39276c6aa30e2bdec992d89]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/287/regulation/10) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-6626212bf39276c6aa30e2bdec992d89]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/287/regulation/10) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-44ebd480b0ea2a71d2bb42520e50ed8e]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/1) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44ebd480b0ea2a71d2bb42520e50ed8e]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/1) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ab1d6a71c33109951f603ffab420c9e]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/1) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ab1d6a71c33109951f603ffab420c9e]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/1) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c0f82bc50ba463e029085ced9ffa6ed]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/3) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(b)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c0f82bc50ba463e029085ced9ffa6ed]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/3) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(b)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb759c309a5d1f9c439a16d327c01a7f]: Textual amendment: Word in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/5) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb759c309a5d1f9c439a16d327c01a7f]: Textual amendment: Word in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/5) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b14ed72610e6c1277dd3049cb6ebd881]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/5) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/849](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/849/regulation/2/3))
+[^c-b14ed72610e6c1277dd3049cb6ebd881]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/5) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/849](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/849/regulation/2/3))
 
-[^key-20203033fd31a4b2070e8fb2de259f9a]: Annotation text not found in the source document.
+[^c-20203033fd31a4b2070e8fb2de259f9a]: Annotation text not found in the source document.
 
-[^key-13a6c14d597618ebd2e67984350012ee]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/5) substituted (10.12.2014) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/284)](https://www.legislation.gov.uk/nisr/2014/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/284/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2014/284/regulation/2/5/c)
+[^c-13a6c14d597618ebd2e67984350012ee]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/5) substituted (10.12.2014) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/284)](https://www.legislation.gov.uk/nisr/2014/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/284/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/nisr/2014/284/regulation/2/5/c)
 
-[^key-d5539b397a511d85796c7f47b39b8abe]: Textual amendment: Word in [reg. 10(6)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/6) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(d)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5539b397a511d85796c7f47b39b8abe]: Textual amendment: Word in [reg. 10(6)](https://www.legislation.gov.uk/nisr/2008/287/regulation/10/6) substituted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(6)(d)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-543298837b8368f54e4c573e75642aae]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/1) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-543298837b8368f54e4c573e75642aae]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/1) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-ab7b25a0b517f29d239ae85d0b7da134]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/2) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-ab7b25a0b517f29d239ae85d0b7da134]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/2) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-abad406aae5ee3de9537040d4a7fdcba]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/3) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-abad406aae5ee3de9537040d4a7fdcba]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/3) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-21e035c5d941f86d7fbd1bcfeec8396a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/4) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-21e035c5d941f86d7fbd1bcfeec8396a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/4) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-6cc60080dd922c1846a32564f3d0acbb]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/5) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-6cc60080dd922c1846a32564f3d0acbb]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/5) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-c41a3590f80902875b22146ff200dc57]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/6) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-c41a3590f80902875b22146ff200dc57]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/6) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-716f7e697a9aae52b0431759d3960909]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/7) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-716f7e697a9aae52b0431759d3960909]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/7) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-52ca2414a3c70d76ee538db74abc3491]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/8) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-52ca2414a3c70d76ee538db74abc3491]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/8) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-a8ab0e016f1bd22e8923efc58f10caa8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/9) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-a8ab0e016f1bd22e8923efc58f10caa8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/9) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-bd1d6565abee8549120a345a296bfd42]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/10) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-bd1d6565abee8549120a345a296bfd42]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/10) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-2c4d4cf93c9566cdb000c9f2b6ac6130]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/11) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
+[^c-2c4d4cf93c9566cdb000c9f2b6ac6130]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2008/287/schedule/1/paragraph/11) in operation at 22.9.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/287/regulation/1)
 
-[^key-1232022c22f36d24b0f7ac0f59140b1c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2008/287/schedule/2) omitted (10.12.2014) by virtue of [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/284)](https://www.legislation.gov.uk/nisr/2014/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/284/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2014/284/regulation/2/6)
+[^c-1232022c22f36d24b0f7ac0f59140b1c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2008/287/schedule/2) omitted (10.12.2014) by virtue of [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/284)](https://www.legislation.gov.uk/nisr/2014/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/284/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2014/284/regulation/2/6)
 
-[^key-d5f294f0e87086e9bda8956969faa5bc]: Textual amendment: [Schs. 2-4](https://www.legislation.gov.uk/nisr/2008/287/schedule/2) inserted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5f294f0e87086e9bda8956969faa5bc]: Textual amendment: [Schs. 2-4](https://www.legislation.gov.uk/nisr/2008/287/schedule/2) inserted (31.12.2020) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1206)](https://www.legislation.gov.uk/uksi/2018/1206), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

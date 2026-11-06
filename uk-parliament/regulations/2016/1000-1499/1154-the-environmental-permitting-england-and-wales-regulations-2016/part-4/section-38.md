@@ -27,7 +27,7 @@ summary: ''
 
 (2) It is an offence for a person to fail to comply with or to contravene an environmental permit condition.
 
-(2A)[^key-bddd630e02e4d686ef702cbcbc51c114] But it is not an offence for a person to fail to comply with the environmental permit conditions in Part 3 of Schedule 9 (waste operations: management and technical competence conditions).
+(2A)[^c-bddd630e02e4d686ef702cbcbc51c114] But it is not an offence for a person to fail to comply with the environmental permit conditions in Part 3 of Schedule 9 (waste operations: management and technical competence conditions).
 
 (3) It is an offence for a person to fail to comply with the requirements of an enforcement notice or of a prohibition notice, suspension notice, landfill closure notice, mining waste facility closure notice, flood risk activity emergency works notice or flood risk activity remediation notice.
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bddd630e02e4d686ef702cbcbc51c114]: Textual amendment: [Reg. 38(2A)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/38/2A) inserted (7.4.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/2)
+[^c-bddd630e02e4d686ef702cbcbc51c114]: Textual amendment: [Reg. 38(2A)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/38/2A) inserted (7.4.2019) by [The Environmental Protection (Miscellaneous Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1227)](https://www.legislation.gov.uk/uksi/2018/1227), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2018/1227/regulation/4/2)

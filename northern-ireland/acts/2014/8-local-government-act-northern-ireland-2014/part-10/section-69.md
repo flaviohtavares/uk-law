@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Duty to review community plan[^key-210786e809b069006672b1a41db4c1b4]
+## 69. Duty to review community plan[^c-210786e809b069006672b1a41db4c1b4]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-210786e809b069006672b1a41db4c1b4]: Commencement: [S. 69](https://www.legislation.gov.uk/nia/2014/8/section/69) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-210786e809b069006672b1a41db4c1b4]: Commencement: [S. 69](https://www.legislation.gov.uk/nia/2014/8/section/69) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

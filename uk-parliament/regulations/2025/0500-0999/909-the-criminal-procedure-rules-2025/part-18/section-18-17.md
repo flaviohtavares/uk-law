@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.17. Application to vary or discharge a witness anonymity order[^key-8aac6ba3e586b8ff6934f8663f364199]
+## 18.17. Application to vary or discharge a witness anonymity order[^c-8aac6ba3e586b8ff6934f8663f364199]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aac6ba3e586b8ff6934f8663f364199]: Commencement: [Rule 18.17](https://www.legislation.gov.uk/uksi/2025/909/rule/18.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8aac6ba3e586b8ff6934f8663f364199]: Commencement: [Rule 18.17](https://www.legislation.gov.uk/uksi/2025/909/rule/18.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

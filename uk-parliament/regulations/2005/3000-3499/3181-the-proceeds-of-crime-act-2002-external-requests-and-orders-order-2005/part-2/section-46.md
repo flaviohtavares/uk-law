@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Powers of court and receiver[^key-cc1b6209f2891812a22632ff22137e3d]
+## 46. Powers of court and receiver[^c-cc1b6209f2891812a22632ff22137e3d]
 
 *Extent: E+W+S+N.I.*
 
 (1) This article applies to—
 
 - (a) the powers conferred on a court by this Part;
-- (b) the powers of a receiver appointed under article 15 or 27[^key-f706e34426fe496c9d46054a35b8a402];
-- (c)[^key-36ada48bebba994b3ee4200f99cd8b5c] the powers conferred on appropriate officers by articles 17B to 17E, 17G and 17I to 17K;
+- (b) the powers of a receiver appointed under article 15 or 27[^c-f706e34426fe496c9d46054a35b8a402];
+- (c)[^c-36ada48bebba994b3ee4200f99cd8b5c] the powers conferred on appropriate officers by articles 17B to 17E, 17G and 17I to 17K;
 - (d) the powers conferred on senior officers by article 17F.
 
 (2) The powers—
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cc1b6209f2891812a22632ff22137e3d]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2005/3181/article/46) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-cc1b6209f2891812a22632ff22137e3d]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2005/3181/article/46) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-f706e34426fe496c9d46054a35b8a402]: Textual amendment: Words in [art. 46(1)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/46/1/b) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(19)](https://www.legislation.gov.uk/uksi/2008/302/article/2/19)
+[^c-f706e34426fe496c9d46054a35b8a402]: Textual amendment: Words in [art. 46(1)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/46/1/b) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(19)](https://www.legislation.gov.uk/uksi/2008/302/article/2/19)
 
-[^key-36ada48bebba994b3ee4200f99cd8b5c]: Textual amendment: [Art. 46(1)(c)-(d)](https://www.legislation.gov.uk/uksi/2005/3181/article/46/1/c) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [15](https://www.legislation.gov.uk/uksi/2015/1750/article/15)
+[^c-36ada48bebba994b3ee4200f99cd8b5c]: Textual amendment: [Art. 46(1)(c)-(d)](https://www.legislation.gov.uk/uksi/2005/3181/article/46/1/c) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [15](https://www.legislation.gov.uk/uksi/2015/1750/article/15)

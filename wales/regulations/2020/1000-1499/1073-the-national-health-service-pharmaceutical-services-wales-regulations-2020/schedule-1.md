@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 4
 
-### 1. Current provision of pharmaceutical services[^key-393aceaa33306f34599ce1e5d3046e8a]
+### 1. Current provision of pharmaceutical services[^c-393aceaa33306f34599ce1e5d3046e8a]
 
 A statement of the pharmaceutical services that the Local Health Board has identified as services that are provided—
 
@@ -30,18 +30,18 @@ A statement of the pharmaceutical services that the Local Health Board has ident
 - (b) outside the area of the Local Health Board but which nevertheless contribute towards meeting the need for pharmaceutical services in its area (if the Local Health Board has identified such services), or
 - (c) in or outside the area of the Local Health Board and, whilst not being services of the types described in sub-paragraph (a) or (b), they nevertheless affect the assessment by the Local Health Board of the need for pharmaceutical services in its area.
 
-### 2. Other NHS services[^key-82230fe9dea02390c14ad5ca5d0a51b1]
+### 2. Other NHS services[^c-82230fe9dea02390c14ad5ca5d0a51b1]
 
 A statement of any NHS services provided or arranged by the Local Health Board, another Local Health Board, a dispensing doctor or NHS Trust to which the Local Health Board has had regard in its assessment, which affect the need for pharmaceutical services, or pharmaceutical services of a specified type, in its area.
 
-### 3. Gaps in provision of pharmaceutical services[^key-1f3eb42aa17a48aa4e48c0c2bb9ef795]
+### 3. Gaps in provision of pharmaceutical services[^c-1f3eb42aa17a48aa4e48c0c2bb9ef795]
 
 A statement of the pharmaceutical services that the Local Health Board has identified (if it has) as services that are not provided in the area of the Local Health Board but which the Local Health Board is satisfied—
 
 - (a) need to be provided (whether or not they are located in the area of the Local Health Board) in order to meet a current need for pharmaceutical services, or pharmaceutical services of a specified type, in its area;
 - (b) will, in specified future circumstances, need to be provided (whether or not they are located in the area of the Local Health Board) in order to meet a future need for pharmaceutical services, or pharmaceutical services of a specified type, in its area.
 
-### 4. How the assessment was carried out[^key-9e5c443a3d0858c53b0e9fc6b61b5267]
+### 4. How the assessment was carried out[^c-9e5c443a3d0858c53b0e9fc6b61b5267]
 
 An explanation of how the assessment has been carried out, and in particular—
 
@@ -58,18 +58,18 @@ An explanation of how the assessment has been carried out, and in particular—
     - (gg) sexual orientation;
 - (c) a report on the consultation that it has undertaken.
 
-### 5. Map of provision[^key-b69bb4459b6a9c5842247c2034eadcb7]
+### 5. Map of provision[^c-b69bb4459b6a9c5842247c2034eadcb7]
 
 A map that identifies the premises at which pharmaceutical services and dispensing services are provided in the area of the Local Health Board.
 
 ## Annotations
 
-[^key-393aceaa33306f34599ce1e5d3046e8a]: Commencement: Sch. 1 para. 1 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-393aceaa33306f34599ce1e5d3046e8a]: Commencement: Sch. 1 para. 1 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-82230fe9dea02390c14ad5ca5d0a51b1]: Commencement: Sch. 1 para. 2 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-82230fe9dea02390c14ad5ca5d0a51b1]: Commencement: Sch. 1 para. 2 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-1f3eb42aa17a48aa4e48c0c2bb9ef795]: Commencement: Sch. 1 para. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-1f3eb42aa17a48aa4e48c0c2bb9ef795]: Commencement: Sch. 1 para. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-9e5c443a3d0858c53b0e9fc6b61b5267]: Commencement: Sch. 1 para. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-9e5c443a3d0858c53b0e9fc6b61b5267]: Commencement: Sch. 1 para. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-b69bb4459b6a9c5842247c2034eadcb7]: Commencement: Sch. 1 para. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-b69bb4459b6a9c5842247c2034eadcb7]: Commencement: Sch. 1 para. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

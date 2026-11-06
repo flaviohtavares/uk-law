@@ -24,7 +24,7 @@ summary: ''
 
 (2) Each of the Boards and the Holding Company shall have power to lend money to be applied for the purposes of a pension scheme under which any of those bodies, or a subsidiary of any of those bodies, pay employer’s contributions or are subject to any other obligations, but shall not exercise that power without the consent of the Minister.
 
-(3)[^key-2d0f7ec391a1ea9fa77fe4c618c50d98] In the application of this section to the British Waterways Board, the reference to the Minister is to be read as a reference to the Scottish Ministers.
+(3)[^c-2d0f7ec391a1ea9fa77fe4c618c50d98] In the application of this section to the British Waterways Board, the reference to the Minister is to be read as a reference to the Scottish Ministers.
 
 ## Annotations
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c4800691]: Modification: S. 73 extended by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [s. 136](https://www.legislation.gov.uk/ukpga/1968/73/section/136)
 
-[^key-2d0f7ec391a1ea9fa77fe4c618c50d98]: Textual amendment: [S. 73(3)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/73/3) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/24) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-2d0f7ec391a1ea9fa77fe4c618c50d98]: Textual amendment: [S. 73(3)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/73/3) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/24) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

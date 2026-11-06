@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Requisite knowledge and skill: holders of overseas diplomas[^key-c770fdf4a78e3a747476ebd1ddf631b8]
+## 16A. Requisite knowledge and skill: holders of overseas diplomas[^c-c770fdf4a78e3a747476ebd1ddf631b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c770fdf4a78e3a747476ebd1ddf631b8]: Textual amendment: [Ss. 16A](https://www.legislation.gov.uk/ukpga/1984/24/section/16A), [16B](https://www.legislation.gov.uk/ukpga/1984/24/section/16B) inserted (8.3.2023) by [The Dentists, Dental Care Professionals, Nurses, Nursing Associates and Midwives (International Registrations) Order 2023 (S.I. 2023/162)](https://www.legislation.gov.uk/uksi/2023/162), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/162/article/1/2), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2023/162/schedule/1/paragraph/3/2)
+[^c-c770fdf4a78e3a747476ebd1ddf631b8]: Textual amendment: [Ss. 16A](https://www.legislation.gov.uk/ukpga/1984/24/section/16A), [16B](https://www.legislation.gov.uk/ukpga/1984/24/section/16B) inserted (8.3.2023) by [The Dentists, Dental Care Professionals, Nurses, Nursing Associates and Midwives (International Registrations) Order 2023 (S.I. 2023/162)](https://www.legislation.gov.uk/uksi/2023/162), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/162/article/1/2), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2023/162/schedule/1/paragraph/3/2)

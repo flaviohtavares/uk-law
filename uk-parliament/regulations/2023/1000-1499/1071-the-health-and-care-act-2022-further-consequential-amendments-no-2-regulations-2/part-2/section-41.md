@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amendment of the Welsh Health Specialised Services Committee (Wales) Regulations 2009 (Welsh language text)[^key-517e919263b0d98be62a5ec6ee47d0b0]
+## 41. Amendment of the Welsh Health Specialised Services Committee (Wales) Regulations 2009 (Welsh language text)[^c-517e919263b0d98be62a5ec6ee47d0b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-517e919263b0d98be62a5ec6ee47d0b0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2023/1071/regulation/41) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-517e919263b0d98be62a5ec6ee47d0b0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2023/1071/regulation/41) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

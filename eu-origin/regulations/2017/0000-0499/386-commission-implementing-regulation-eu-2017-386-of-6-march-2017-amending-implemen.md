@@ -110,7 +110,7 @@ HAS ADOPTED THIS REGULATION:
   ;
 - ((4)) Article 14 is amended as follows:
   - ((a)) in paragraph 1, ‘8 June 2016’ is replaced by ‘7 June 2020’;
-  - ((b)) [^key-785b99b9cddb366d0ae0a432494196d6]...
+  - ((b)) [^c-785b99b9cddb366d0ae0a432494196d6]...
 - ((5)) Annex II is amended as follows:
   - ((a)) the title of Part A is replaced by the following:
 
@@ -146,4 +146,4 @@ Jean-Claude Juncker
 
 [^f00002]: Footnote: Commission Implementing Regulation (EU) No 1207/2011 of 22 November 2011 laying down requirements for the performance and the interoperability of surveillance for the single European sky ([OJ L 305, 23.11.2011, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.305.01.0035.01.ENG)).
 
-[^key-785b99b9cddb366d0ae0a432494196d6]: Textual amendment: [Art. 1(4)(b)](https://www.legislation.gov.uk/eur/2017/386/article/1/4/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [366](https://www.legislation.gov.uk/uksi/2019/459/regulation/366); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-785b99b9cddb366d0ae0a432494196d6]: Textual amendment: [Art. 1(4)(b)](https://www.legislation.gov.uk/eur/2017/386/article/1/4/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [366](https://www.legislation.gov.uk/uksi/2019/459/regulation/366); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

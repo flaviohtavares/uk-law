@@ -30,8 +30,8 @@ summary: ''
 - (a) the inclusion within the local government area of any area of the sea which, at the time of the review, does not form part of another local government area, and
 - (b) the exclusion of any area of the sea which, at the time of the review, forms part of the local government area.
 
-(3)[^key-985fc96ec7b1acd3f7c37b5f7b13ff64] A review under this section may review the boundary of more than one local government area.
+(3)[^c-985fc96ec7b1acd3f7c37b5f7b13ff64] A review under this section may review the boundary of more than one local government area.
 
 ## Annotations
 
-[^key-985fc96ec7b1acd3f7c37b5f7b13ff64]: Textual amendment: S. 28(3) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 42](https://www.legislation.gov.uk/asc/2024/5/section/42), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-985fc96ec7b1acd3f7c37b5f7b13ff64]: Textual amendment: S. 28(3) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 42](https://www.legislation.gov.uk/asc/2024/5/section/42), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

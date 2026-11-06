@@ -749,7 +749,7 @@ Regulation 348
 
 **73.** The National Health Service (Charges for Drugs and Appliances) Regulations 2000 [^c21329811] are amended as follows—
 
-- (a)[^key-bbfa8c7b1656ae2c3621e8da20777a52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-bbfa8c7b1656ae2c3621e8da20777a52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in regulation 6A(6) for the words from “the Medicines” to the end of the paragraph substitute “ the Human Medicines Regulations 2012 ”.
 
 #### Biocidal Products Regulations 2001
@@ -780,7 +780,7 @@ Regulation 348
 
 #### Medicines and Healthcare Products Regulatory Agency Trading Fund Order 2003
 
-**78.**[^key-cb12f2e36e8ab8f88381e90b1518b669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**78.**[^c-cb12f2e36e8ab8f88381e90b1518b669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003
 
@@ -889,7 +889,7 @@ Regulation 348
 
 #### National Health Service (General Medical Services Contracts) Regulations 2004
 
-**85.**[^key-a65137bf1db19d8b15699b66b9bee0ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**85.**[^c-a65137bf1db19d8b15699b66b9bee0ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Health Service (General Medical Services Contracts) (Wales) Regulations 2004
 
@@ -909,7 +909,7 @@ Regulation 348
 
 #### National Health Service (Personal Medical Services Agreements) Regulations 2004
 
-**87.**[^key-ea3aa5411571a27daa28b10d9b9aed8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**87.**[^c-ea3aa5411571a27daa28b10d9b9aed8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Health Service (General Medical Services Contracts) (Prescription of Drugs Etc.) (Wales) Regulations 2004
 
@@ -1436,7 +1436,7 @@ Regulation 348
 
 [^c21329811]: Marginal citation: [S.I. 2000/620](https://www.legislation.gov.uk/uksi/2000/620), as amended by [S.I. 2000/3189](https://www.legislation.gov.uk/uksi/2000/3189) and [S.I. 2009/1166](https://www.legislation.gov.uk/uksi/2009/1166). There are other amendments, but none is relevant.
 
-[^key-bbfa8c7b1656ae2c3621e8da20777a52]: Textual amendment: Sch. 34 para. 73(a) revoked (E.) (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-bbfa8c7b1656ae2c3621e8da20777a52]: Textual amendment: Sch. 34 para. 73(a) revoked (E.) (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
 
 [^c21329821]: Marginal citation: [S.I. 2001/880](https://www.legislation.gov.uk/uksi/2001/880), as amended by [S.I. 2010/745](https://www.legislation.gov.uk/uksi/2010/745). There are other amendments, but none is relevant.
 
@@ -1446,7 +1446,7 @@ Regulation 348
 
 [^c21329851]: Marginal citation: [S.I. 2002/3170](https://www.legislation.gov.uk/uksi/2002/3170), as amended by [S.I. 2005/2750](https://www.legislation.gov.uk/uksi/2005/2750) and [S.I. 2008/548](https://www.legislation.gov.uk/uksi/2008/548).
 
-[^key-cb12f2e36e8ab8f88381e90b1518b669]: Textual amendment: [Sch. 34 para. 78](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/78) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
+[^c-cb12f2e36e8ab8f88381e90b1518b669]: Textual amendment: [Sch. 34 para. 78](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/78) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
 
 [^c21329871]: Marginal citation: [S.I. 2003/1374](https://www.legislation.gov.uk/uksi/2003/1374). There are amendments, but none is relevant.
 
@@ -1460,11 +1460,11 @@ Regulation 348
 
 [^c21329921]: Marginal citation: [S.S.I. 2004/116](https://www.legislation.gov.uk/ssi/2004/116), as amended by [S.S.I. 2005/336](https://www.legislation.gov.uk/ssi/2005/336). There are other amendments, but none is relevant.
 
-[^key-a65137bf1db19d8b15699b66b9bee0ea]: Textual amendment: Sch. 34 para. 85 revoked (E.) (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-a65137bf1db19d8b15699b66b9bee0ea]: Textual amendment: Sch. 34 para. 85 revoked (E.) (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
 [^c21329941]: Marginal citation: [S.I. 2004/478](https://www.legislation.gov.uk/uksi/2004/478), as amended by [S.I. 2006/358](https://www.legislation.gov.uk/uksi/2006/358) and [S.I. 2010/1647](https://www.legislation.gov.uk/uksi/2010/1647). There are other amendments, but none is relevant.
 
-[^key-ea3aa5411571a27daa28b10d9b9aed8f]: Textual amendment: Sch. 34 para. 87 revoked (E.) (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
+[^c-ea3aa5411571a27daa28b10d9b9aed8f]: Textual amendment: Sch. 34 para. 87 revoked (E.) (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
 
 [^c21329961]: Marginal citation: [S.I. 2004/1022](https://www.legislation.gov.uk/uksi/2004/1022), as amended by [S.I 2005/366](https://www.legislation.gov.uk/uksi/2005/366) and [S.I. 2009/1977](https://www.legislation.gov.uk/uksi/2009/1977). There are other amendments, but none is relevant.
 

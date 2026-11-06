@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Deprivation of liberty[^key-a7ea88bf328853fd6cc1035804775faa]
+## 25. Deprivation of liberty[^c-a7ea88bf328853fd6cc1035804775faa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An individual must not be deprived of his or her liberty for the purpose of rece
 
 ## Annotations
 
-[^key-a7ea88bf328853fd6cc1035804775faa]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/163/regulation/25) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-a7ea88bf328853fd6cc1035804775faa]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/163/regulation/25) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

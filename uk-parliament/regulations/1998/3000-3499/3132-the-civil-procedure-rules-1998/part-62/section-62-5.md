@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62.5. Service out of the jurisdiction[^key-61ad487b8f6703fe6a308989f3dd26b8]
+## 62.5. Service out of the jurisdiction[^c-61ad487b8f6703fe6a308989f3dd26b8]
 
 *Extent: E+W*
 
-(1) Subject to paragraph (2A), the[^key-0c0292a49051f12df297d6a43d8f0b34] court may give permission to serve an arbitration claim form out of the jurisdiction if—
+(1) Subject to paragraph (2A), the[^c-0c0292a49051f12df297d6a43d8f0b34] court may give permission to serve an arbitration claim form out of the jurisdiction if—
 
 - (a) the claimant seeks to—
   - (i) challenge; or
@@ -40,25 +40,25 @@ summary: ''
 - (a) stating the grounds on which the application is made; and
 - (b) showing in what place or country the person to be served is, or probably may be found.
 
-(2A)[^key-020f90231761058d4e73070e76417f32] An arbitration claim form falling within (1)(a) to (c) above may be served out of the jurisdiction without permission if—
+(2A)[^c-020f90231761058d4e73070e76417f32] An arbitration claim form falling within (1)(a) to (c) above may be served out of the jurisdiction without permission if—
 
 - (a) the seat of the arbitration is or will be in England and Wales; and
 - (b) the respondent is party to the arbitration agreement in question.
 
-(3) Rules 6.34, 6.35 and[^key-b26594912c7c586feb14901cacd2d99a] 6.40 to 6.46[^key-1c0bd778ad3cb989849b97c0eeac49fd] apply to the service of an arbitration claim form under paragraph (1) or (2A)[^key-f248b6765d7e5b57584065838f7a793f].
+(3) Rules 6.34, 6.35 and[^c-b26594912c7c586feb14901cacd2d99a] 6.40 to 6.46[^c-1c0bd778ad3cb989849b97c0eeac49fd] apply to the service of an arbitration claim form under paragraph (1) or (2A)[^c-f248b6765d7e5b57584065838f7a793f].
 
 (4) An order giving permission to serve an arbitration claim form out of the jurisdiction must specify the period within which the defendant may file an acknowledgment of service.
 
 ## Annotations
 
-[^key-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)
+[^c-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)
 
-[^key-0c0292a49051f12df297d6a43d8f0b34]: Textual amendment: Words in [rule 62.5(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/1) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/27/a)
+[^c-0c0292a49051f12df297d6a43d8f0b34]: Textual amendment: Words in [rule 62.5(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/1) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2022/783/rule/27/a)
 
-[^key-020f90231761058d4e73070e76417f32]: Textual amendment: [Rule 62.5(2A)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/2A) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/27/b)
+[^c-020f90231761058d4e73070e76417f32]: Textual amendment: [Rule 62.5(2A)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/2A) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/27/b)
 
-[^key-b26594912c7c586feb14901cacd2d99a]: Textual amendment: Words in [rule 62.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/3) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [27(c)(i)](https://www.legislation.gov.uk/uksi/2022/783/rule/27/c/i)
+[^c-b26594912c7c586feb14901cacd2d99a]: Textual amendment: Words in [rule 62.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/3) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [27(c)(i)](https://www.legislation.gov.uk/uksi/2022/783/rule/27/c/i)
 
-[^key-1c0bd778ad3cb989849b97c0eeac49fd]: Textual amendment: Words in [rule 62.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/3) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2008/2178/rule/34/a)
+[^c-1c0bd778ad3cb989849b97c0eeac49fd]: Textual amendment: Words in [rule 62.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/3) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2008/2178/rule/34/a)
 
-[^key-f248b6765d7e5b57584065838f7a793f]: Textual amendment: Words in [rule 62.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/3) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [27(c)(ii)](https://www.legislation.gov.uk/uksi/2022/783/rule/27/c/ii)
+[^c-f248b6765d7e5b57584065838f7a793f]: Textual amendment: Words in [rule 62.5(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.5/3) inserted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [27(c)(ii)](https://www.legislation.gov.uk/uksi/2022/783/rule/27/c/ii)

@@ -40,7 +40,7 @@ Coming into force in accordance with rule 1(2)
 
 The Secretary of State makes the following Rules in exercise of the powers conferred upon him by section 36(2) of the Representation of the People Act 1983[^f00001].
 
-In accordance with section 7(1) and (2)(d) of the Political Parties, Elections and Referendums Act 2000[^f00002] he has consulted the Electoral Commission.[^key-4077f83606b4a09ba42288633f376be7][^key-30cb00b20e21eb1c1a4d6f268870df57][^key-f6b8d9e227f33aecf73413a2d896761a][^key-bf501387854872a0b27d3de8e57527f1][^key-f5ff83f4c4c1978c7b221e8f09a6b8cb]
+In accordance with section 7(1) and (2)(d) of the Political Parties, Elections and Referendums Act 2000[^f00002] he has consulted the Electoral Commission.[^c-4077f83606b4a09ba42288633f376be7][^c-30cb00b20e21eb1c1a4d6f268870df57][^c-f6b8d9e227f33aecf73413a2d896761a][^c-bf501387854872a0b27d3de8e57527f1][^c-f5ff83f4c4c1978c7b221e8f09a6b8cb]
 
 ## Contents
 
@@ -97,12 +97,12 @@ Schedule 3 also incorporate modifications to the parliamentary elections rules m
 
 [^f00002]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41)
 
-[^key-4077f83606b4a09ba42288633f376be7]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2006/3304) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2011/1/schedule/5/paragraph/7)
+[^c-4077f83606b4a09ba42288633f376be7]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2006/3304) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2011/1/schedule/5/paragraph/7)
 
-[^key-30cb00b20e21eb1c1a4d6f268870df57]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2006/3304) restricted (E.) (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [14(4)](https://www.legislation.gov.uk/uksi/2022/328/article/14/4)
+[^c-30cb00b20e21eb1c1a4d6f268870df57]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2006/3304) restricted (E.) (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [14(4)](https://www.legislation.gov.uk/uksi/2022/328/article/14/4)
 
-[^key-f6b8d9e227f33aecf73413a2d896761a]: Modification: Rules restricted (E.) (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2022/331/article/5/5), [20(4)](https://www.legislation.gov.uk/uksi/2022/331/article/20/4)
+[^c-f6b8d9e227f33aecf73413a2d896761a]: Modification: Rules restricted (E.) (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2022/331/article/5/5), [20(4)](https://www.legislation.gov.uk/uksi/2022/331/article/20/4)
 
-[^key-bf501387854872a0b27d3de8e57527f1]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2006/3304) restricted (E.) (18.3.2022) by [The Somerset (Structural Changes) Order 2022 (S.I. 2022/329)](https://www.legislation.gov.uk/uksi/2022/329), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/329/article/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2022/329/article/14/3)
+[^c-bf501387854872a0b27d3de8e57527f1]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2006/3304) restricted (E.) (18.3.2022) by [The Somerset (Structural Changes) Order 2022 (S.I. 2022/329)](https://www.legislation.gov.uk/uksi/2022/329), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/329/article/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2022/329/article/14/3)
 
-[^key-f5ff83f4c4c1978c7b221e8f09a6b8cb]: Modification: Rules restricted (E.) (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [45(4)](https://www.legislation.gov.uk/uksi/2026/264/article/45/4), [46(4)](https://www.legislation.gov.uk/uksi/2026/264/article/46/4), [48(4)](https://www.legislation.gov.uk/uksi/2026/264/article/48/4)
+[^c-f5ff83f4c4c1978c7b221e8f09a6b8cb]: Modification: Rules restricted (E.) (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [45(4)](https://www.legislation.gov.uk/uksi/2026/264/article/45/4), [46(4)](https://www.legislation.gov.uk/uksi/2026/264/article/46/4), [48(4)](https://www.legislation.gov.uk/uksi/2026/264/article/48/4)

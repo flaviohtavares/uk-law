@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 306. Further amendment of Commission Implementing Regulation (EU) No 923/2012[^key-fdb4ba5cc6b9c0e7bab6a15006978029]
+## 306. Further amendment of Commission Implementing Regulation (EU) No 923/2012[^c-fdb4ba5cc6b9c0e7bab6a15006978029]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 11 omit the sentence which begins “This Regulation shall be bind
 
 ## Annotations
 
-[^key-fdb4ba5cc6b9c0e7bab6a15006978029]: Commencement: Reg. 306 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-fdb4ba5cc6b9c0e7bab6a15006978029]: Commencement: Reg. 306 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

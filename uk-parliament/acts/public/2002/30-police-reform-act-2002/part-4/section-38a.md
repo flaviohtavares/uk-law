@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Standard powers and duties of community support officers[^key-fc11e59ab5bfa2f26f9f8b8d89e6786a]
+## 38A. Standard powers and duties of community support officers[^c-fc11e59ab5bfa2f26f9f8b8d89e6786a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc11e59ab5bfa2f26f9f8b8d89e6786a]: Textual amendment: S. 38A omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 38(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/38/10), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2017/1139/regulation/4), [5](https://www.legislation.gov.uk/uksi/2017/1139/regulation/5)) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-fc11e59ab5bfa2f26f9f8b8d89e6786a]: Textual amendment: S. 38A omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 38(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/38/10), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2017/1139/regulation/4), [5](https://www.legislation.gov.uk/uksi/2017/1139/regulation/5)) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))

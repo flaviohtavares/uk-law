@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Repeals and revocations[^key-f83b49966244d181030d618fb229e670][^key-b572ca8aae13b18ad8c7a65f1c6d0043][^key-c27fe13c8996d82cce8ee3bebca6732f][^key-002ded752dcf7c2efb95ad791c558001]
+## SCHEDULE 5 — Repeals and revocations[^c-f83b49966244d181030d618fb229e670][^c-b572ca8aae13b18ad8c7a65f1c6d0043][^c-c27fe13c8996d82cce8ee3bebca6732f][^c-002ded752dcf7c2efb95ad791c558001]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,10 +56,10 @@ Section 30
 
 ## Annotations
 
-[^key-f83b49966244d181030d618fb229e670]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5) in force for specified purposes at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/e)
+[^c-f83b49966244d181030d618fb229e670]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5) in force for specified purposes at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/e)
 
-[^key-b572ca8aae13b18ad8c7a65f1c6d0043]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5) in force for specified purposes at 14.12.2012 by [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/c)
+[^c-b572ca8aae13b18ad8c7a65f1c6d0043]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5) in force for specified purposes at 14.12.2012 by [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/c)
 
-[^key-c27fe13c8996d82cce8ee3bebca6732f]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5) in force for specified purposes at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f)
+[^c-c27fe13c8996d82cce8ee3bebca6732f]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5) in force for specified purposes at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f)
 
-[^key-002ded752dcf7c2efb95ad791c558001]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5) in force for specified purposes at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/669/article/3/g)
+[^c-002ded752dcf7c2efb95ad791c558001]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5) in force for specified purposes at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/669/article/3/g)

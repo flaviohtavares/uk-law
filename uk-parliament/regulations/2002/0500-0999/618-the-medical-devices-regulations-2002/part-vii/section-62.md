@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Compliance notices[^key-00a51bd0b3f598af12c337ac8384dec7]
+## 62. Compliance notices[^c-00a51bd0b3f598af12c337ac8384dec7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00a51bd0b3f598af12c337ac8384dec7]: Textual amendment: [Reg. 62](https://www.legislation.gov.uk/uksi/2002/618/regulation/62) omitted (26.5.2021) by virtue of [Medicines and Medical Devices Act 2021 (c. 3)](https://www.legislation.gov.uk/ukpga/2021/3), [ss. 41(7)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/7/a), [50(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/50/3) (with [s. 41(8)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/8)); [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/610/regulation/3))
+[^c-00a51bd0b3f598af12c337ac8384dec7]: Textual amendment: [Reg. 62](https://www.legislation.gov.uk/uksi/2002/618/regulation/62) omitted (26.5.2021) by virtue of [Medicines and Medical Devices Act 2021 (c. 3)](https://www.legislation.gov.uk/ukpga/2021/3), [ss. 41(7)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/7/a), [50(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/50/3) (with [s. 41(8)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/8)); [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/610/regulation/3))

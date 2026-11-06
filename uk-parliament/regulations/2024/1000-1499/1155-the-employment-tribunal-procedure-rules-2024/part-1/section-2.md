@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-3984d15c9f984566aba1cf8ae2220cb7]
+## 2. Interpretation[^c-3984d15c9f984566aba1cf8ae2220cb7]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 - “**equal value claim**” means a claim relating to a breach of a sex equality clause or rule within the meaning of the Equality Act in a case involving work within section 65(1)(c) of that Act;
 - “**Equality Act**” means the Equality Act 2010[^f00019];
 - “**final hearing**” has the meaning given in rule 55(1);
-- “[^key-4d073f0dff38bcbe87a52918b2d2a609]**full reasons**” has the meaning given in rule 60(7);
+- “[^c-4d073f0dff38bcbe87a52918b2d2a609]**full reasons**” has the meaning given in rule 60(7);
 - “**judgment**” means a decision made at any stage of the proceedings (other than a decision under rule 14 (reconsideration of rejection of claim) or 20 (reconsideration of rejection of response)), which finally determines—
   - (a) a claim, or part of a claim, as regards liability, remedy or costs (including preparation time and wasted costs);
   - (b) any issue which is capable of finally disposing of any claim, or part of a claim, even if it does not necessarily do so (for example, an issue whether a claim should be struck out or a jurisdictional issue);
@@ -81,7 +81,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3984d15c9f984566aba1cf8ae2220cb7]: Commencement: Rule 2 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-3984d15c9f984566aba1cf8ae2220cb7]: Commencement: Rule 2 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00009]: Footnote: [S.I. 2013/1237](https://www.legislation.gov.uk/uksi/2013/1237), amended by [S.I. 2024/1156](https://www.legislation.gov.uk/uksi/2024/1156).
 
@@ -105,7 +105,7 @@ summary: ''
 
 [^f00019]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-4d073f0dff38bcbe87a52918b2d2a609]: Textual amendment: Words in rule 2(1) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/2)
+[^c-4d073f0dff38bcbe87a52918b2d2a609]: Textual amendment: Words in rule 2(1) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/2)
 
 [^f00020]: Footnote: Section 12A was inserted by the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), section 16(1), and amended by the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), section 150(3), the Judicial Review and Courts Act [2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), Schedule 5, Part 2, paragraph 10 and [S.I. 2019/731](https://www.legislation.gov.uk/uksi/2019/731).
 

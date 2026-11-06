@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. “Licensable body”[^c20580801][^key-91e466785d3b27c1e29714d3748e56c7]
+## 72. “Licensable body”[^c20580801][^c-91e466785d3b27c1e29714d3748e56c7]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ and references to the holding of shares, or to a shareholding, are to be constru
 
 [^c20580801]: Commencement: S. 72 partly in force: s. 72 not in force at Royal Assent see s. 211; s. 72 in force for certain purposes at 31.3.2009 by [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 3](https://www.legislation.gov.uk/uksi/2009/503/article/3)
 
-[^key-91e466785d3b27c1e29714d3748e56c7]: Commencement: S. 72 in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-91e466785d3b27c1e29714d3748e56c7]: Commencement: S. 72 in force at 1.10.2011 in so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

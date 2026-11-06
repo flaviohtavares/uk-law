@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140K. Transparent entities: taxation after merger, &c[^key-c3931a3fbf29b771177918e042ddf65c]
+## 140K. Transparent entities: taxation after merger, &c[^c-c3931a3fbf29b771177918e042ddf65c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3931a3fbf29b771177918e042ddf65c]: Textual amendment: Ss. 140H-140L and cross-heading inserted (with effect in accordance with reg. 3(3) of the amending S.I.) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2007 (S.I. 2007/3186)](https://www.legislation.gov.uk/uksi/2007/3186), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3186/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2007/3186/schedule/3/paragraph/1) (with [S.I. 2008/1579](https://www.legislation.gov.uk/uksi/2008/1579), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/4/2))
+[^c-c3931a3fbf29b771177918e042ddf65c]: Textual amendment: Ss. 140H-140L and cross-heading inserted (with effect in accordance with reg. 3(3) of the amending S.I.) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2007 (S.I. 2007/3186)](https://www.legislation.gov.uk/uksi/2007/3186), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3186/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2007/3186/schedule/3/paragraph/1) (with [S.I. 2008/1579](https://www.legislation.gov.uk/uksi/2008/1579), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/4/2))

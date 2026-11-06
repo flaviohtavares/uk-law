@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Inspection of records[^key-e4f0b23b0517dbbdbc3e74ae9d56599d]
+## 111. Inspection of records[^c-e4f0b23b0517dbbdbc3e74ae9d56599d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4f0b23b0517dbbdbc3e74ae9d56599d]: Commencement: Rule 111 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-e4f0b23b0517dbbdbc3e74ae9d56599d]: Commencement: Rule 111 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

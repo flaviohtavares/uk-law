@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Report on inquiry[^key-1c25182e89a8126fe96405124d3c8654]
+## 33. Report on inquiry[^c-1c25182e89a8126fe96405124d3c8654]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c25182e89a8126fe96405124d3c8654]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/18/section/33) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-1c25182e89a8126fe96405124d3c8654]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/18/section/33) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

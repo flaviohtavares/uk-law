@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 41(5)(b) and (7) of the Bus Services Act 2025[^f00001].
 
-## 1. Citation and interpretation[^key-623ba7c47b66e50c1a3c084eb548d9c9]
+## 1. Citation and interpretation[^c-623ba7c47b66e50c1a3c084eb548d9c9]
 
 (1) These Regulations may be cited as the Bus Services Act 2025 (Commencement No. 1 and Transitional Provision) Regulations 2026.
 
@@ -46,7 +46,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “**the 2000 Act**” means the Transport Act 2000[^f00002];
 - “**the 2025 Act**” means the Bus Services Act 2025.
 
-## 2. Provisions coming into force on 26th January 2026[^key-ac4103a1c37cd0971600779821082527]
+## 2. Provisions coming into force on 26th January 2026[^c-ac4103a1c37cd0971600779821082527]
 
 The following provisions of the 2025 Act come into force on 26th January 2026—
 
@@ -66,7 +66,7 @@ The following provisions of the 2025 Act come into force on 26th January 2026—
 - (n) section 32 (duty to provide information to Secretary of State), so far as it relates to an authority that is subject to the duty to have regard to guidance under section 31(7) of the 2025 Act;
 - (o) the Schedule (procedure for varying franchising scheme), so far as it is not already in force[^f00003].
 
-## 3. Provisions coming into force on 1st April 2026[^key-e2c774da750f766b6437c0865304e171]
+## 3. Provisions coming into force on 1st April 2026[^c-e2c774da750f766b6437c0865304e171]
 
 The following provisions of the 2025 Act come into force on 1st April 2026—
 
@@ -81,11 +81,11 @@ The following provisions of the 2025 Act come into force on 1st April 2026—
 - (g) section 20 (advance notice of requirement to provide information);
 - (h) section 21 (bus network accessibility plans).
 
-## 4. Provision coming into force on 1st July 2026[^key-7b80cd3800ff4048a5397d6418c6928b]
+## 4. Provision coming into force on 1st July 2026[^c-7b80cd3800ff4048a5397d6418c6928b]
 
 Section 18(4) of the 2025 Act comes into force on 1st July 2026.
 
-## 5. Transitional provision[^key-5b89662d9579fe04fab4032001d0c8d4]
+## 5. Transitional provision[^c-5b89662d9579fe04fab4032001d0c8d4]
 
 (1) Paragraph (2) applies to variations of franchising schemes[^f00004] that involve adding an area to the area specified in the scheme under section 123H(2)(a) of the 2000 Act during the period—
 
@@ -133,19 +133,19 @@ A full impact assessment has been published in relation to the 2025 Act and copi
 
 [^f00001]: Footnote: [2025 c. 24](https://www.legislation.gov.uk/ukpga/2025/24).
 
-[^key-623ba7c47b66e50c1a3c084eb548d9c9]: Commencement: Reg. 1 in force at made date
+[^c-623ba7c47b66e50c1a3c084eb548d9c9]: Commencement: Reg. 1 in force at made date
 
 [^f00002]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-ac4103a1c37cd0971600779821082527]: Commencement: Reg. 2 in force at made date
+[^c-ac4103a1c37cd0971600779821082527]: Commencement: Reg. 2 in force at made date
 
 [^f00003]: Footnote: The Schedule came into force on the day on which the 2025 Act was passed for the purposes of making regulations.
 
-[^key-e2c774da750f766b6437c0865304e171]: Commencement: Reg. 3 in force at made date
+[^c-e2c774da750f766b6437c0865304e171]: Commencement: Reg. 3 in force at made date
 
-[^key-7b80cd3800ff4048a5397d6418c6928b]: Commencement: Reg. 4 in force at made date
+[^c-7b80cd3800ff4048a5397d6418c6928b]: Commencement: Reg. 4 in force at made date
 
-[^key-5b89662d9579fe04fab4032001d0c8d4]: Commencement: Reg. 5 in force at made date
+[^c-5b89662d9579fe04fab4032001d0c8d4]: Commencement: Reg. 5 in force at made date
 
 [^f00004]: Footnote: See section 123A(3) of the 2000 Act for the meaning of “franchising scheme”.
 

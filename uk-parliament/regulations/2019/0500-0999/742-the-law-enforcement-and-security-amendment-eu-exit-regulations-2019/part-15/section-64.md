@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Amendment to the Firearms (Northern Ireland) Order 2004[^key-5f1ee7b967fc015503cb99129c50f7b3]
+## 64. Amendment to the Firearms (Northern Ireland) Order 2004[^c-5f1ee7b967fc015503cb99129c50f7b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f1ee7b967fc015503cb99129c50f7b3]: Textual amendment: Reg. 64 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/3)
+[^c-5f1ee7b967fc015503cb99129c50f7b3]: Textual amendment: Reg. 64 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/3)

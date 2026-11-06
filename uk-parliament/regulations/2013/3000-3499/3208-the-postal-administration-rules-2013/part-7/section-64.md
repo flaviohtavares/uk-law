@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Realisation of security by creditor[^key-2e03fa0610e2c10b07a153271fa56c99]
+## 64. Realisation of security by creditor[^c-2e03fa0610e2c10b07a153271fa56c99]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e03fa0610e2c10b07a153271fa56c99]: Commencement: [Rule 64](https://www.legislation.gov.uk/uksi/2013/3208/rule/64) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2e03fa0610e2c10b07a153271fa56c99]: Commencement: [Rule 64](https://www.legislation.gov.uk/uksi/2013/3208/rule/64) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

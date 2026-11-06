@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Research and Development (Qualifying Bodies) (Tax) Order 2012 (revoked)[^key-4b3a2aaf1f431f915876f0158f2370b9]
+The Research and Development (Qualifying Bodies) (Tax) Order 2012 (revoked)[^c-4b3a2aaf1f431f915876f0158f2370b9]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 28th February 2012
 
-[^key-4b3a2aaf1f431f915876f0158f2370b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b3a2aaf1f431f915876f0158f2370b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-4b3a2aaf1f431f915876f0158f2370b9]
+## 1. Citation, commencement and effect[^c-4b3a2aaf1f431f915876f0158f2370b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Bodies prescribed for the purposes of Part 13 of the Corporation Tax Act 2009[^key-4b3a2aaf1f431f915876f0158f2370b9]
+## 2. Bodies prescribed for the purposes of Part 13 of the Corporation Tax Act 2009[^c-4b3a2aaf1f431f915876f0158f2370b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-4b3a2aaf1f431f915876f0158f2370b9]
+## 3.[^c-4b3a2aaf1f431f915876f0158f2370b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b3a2aaf1f431f915876f0158f2370b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b3a2aaf1f431f915876f0158f2370b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PRESCRIBED BODIES[^key-4b3a2aaf1f431f915876f0158f2370b9]
+## SCHEDULE — PRESCRIBED BODIES[^c-4b3a2aaf1f431f915876f0158f2370b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b3a2aaf1f431f915876f0158f2370b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b3a2aaf1f431f915876f0158f2370b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b3a2aaf1f431f915876f0158f2370b9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/286) revoked (with effect in accordance with art. 1(2) of the amending S.I.) by [The Research and Development (Qualifying Bodies) (Tax) Order 2018 (S.I. 2018/217)](https://www.legislation.gov.uk/uksi/2018/217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/217/article/3)
+[^c-4b3a2aaf1f431f915876f0158f2370b9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/286) revoked (with effect in accordance with art. 1(2) of the amending S.I.) by [The Research and Development (Qualifying Bodies) (Tax) Order 2018 (S.I. 2018/217)](https://www.legislation.gov.uk/uksi/2018/217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/217/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/217/article/3)

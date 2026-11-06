@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Certification of documents, etc.[^key-788f071eb19d40a9118906382b3a854e]
+## 48. Certification of documents, etc.[^c-788f071eb19d40a9118906382b3a854e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-788f071eb19d40a9118906382b3a854e]: Commencement: Art. 48 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-788f071eb19d40a9118906382b3a854e]: Commencement: Art. 48 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

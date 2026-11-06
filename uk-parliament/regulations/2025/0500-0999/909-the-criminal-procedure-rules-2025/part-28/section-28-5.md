@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.5. Application to vary or discharge a compensation, etc. order[^key-7bd5881a0997b35b6dcff4b8e2bd1536]
+## 28.5. Application to vary or discharge a compensation, etc. order[^c-7bd5881a0997b35b6dcff4b8e2bd1536]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7bd5881a0997b35b6dcff4b8e2bd1536]: Commencement: [Rule 28.5](https://www.legislation.gov.uk/uksi/2025/909/rule/28.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7bd5881a0997b35b6dcff4b8e2bd1536]: Commencement: [Rule 28.5](https://www.legislation.gov.uk/uksi/2025/909/rule/28.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00664]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
 

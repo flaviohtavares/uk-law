@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85A. Overseas entities[^key-d4b83ed5c1bf4aa23322deec3cc2e058]
+## 85A. Overseas entities[^c-d4b83ed5c1bf4aa23322deec3cc2e058]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4A is about the ownership of registered land by overseas entities and a
 
 ## Annotations
 
-[^key-d4b83ed5c1bf4aa23322deec3cc2e058]: Textual amendment: [S. 85A](https://www.legislation.gov.uk/ukpga/2002/9/section/85A) and cross-heading inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/2); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-d4b83ed5c1bf4aa23322deec3cc2e058]: Textual amendment: [S. 85A](https://www.legislation.gov.uk/ukpga/2002/9/section/85A) and cross-heading inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/2); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)

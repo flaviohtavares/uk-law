@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Employer additional contribution: employer initiated retirement[^key-cfffcfa0937ef8e6ebc31859db96ccc7]
+## 120. Employer additional contribution: employer initiated retirement[^c-cfffcfa0937ef8e6ebc31859db96ccc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfffcfa0937ef8e6ebc31859db96ccc7]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/2014/2848/regulation/120) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-cfffcfa0937ef8e6ebc31859db96ccc7]: Commencement: [Reg. 120](https://www.legislation.gov.uk/uksi/2014/2848/regulation/120) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -22,13 +22,13 @@ summary: ''
 
 Article 51
 
-### PART 1 — LOCAL ENACTMENTS[^key-2c2ae56b7094220b36fdece5a8c0f9e5]
+### PART 1 — LOCAL ENACTMENTS[^c-2c2ae56b7094220b36fdece5a8c0f9e5]
 
 | Year | Chapter | Title | Section |
 | --- | --- | --- | --- |
 | 1980 | XIV | West Yorkshire Act | 9 and 44 |
 
-### PART 2 — BYELAWS[^key-afec39a57aa2d3d258b386bad6562fde]
+### PART 2 — BYELAWS[^c-afec39a57aa2d3d258b386bad6562fde]
 
 | *(1)*<br>*Title* | *(2)*<br>*Byelaw to be disapplied* |
 | --- | --- |
@@ -36,6 +36,6 @@ Article 51
 
 ## Annotations
 
-[^key-2c2ae56b7094220b36fdece5a8c0f9e5]: Commencement: Sch. 16 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-2c2ae56b7094220b36fdece5a8c0f9e5]: Commencement: Sch. 16 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-afec39a57aa2d3d258b386bad6562fde]: Commencement: Sch. 16 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-afec39a57aa2d3d258b386bad6562fde]: Commencement: Sch. 16 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Post authorisation requirements in relation to UK marketing authorisations with paediatric aspects and advanced therapy medicinal products[^key-87768a07bdbb28c48feb43b84d787a88]
+## 87. Post authorisation requirements in relation to UK marketing authorisations with paediatric aspects and advanced therapy medicinal products[^c-87768a07bdbb28c48feb43b84d787a88]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,9 +80,9 @@ After regulation 78, insert—
 >
 > (16) The first report referred to in paragraph (15) must be submitted within the period of twelve months beginning with the date on which the licensing authority granted the deferral.
 >
-> **78B. Post authorisation requirements in relation to UKMA(GB) for advanced therapy medicinal products[^key-ffaaf313fed8d5cad2a45245c19e7299]**
+> **78B. Post authorisation requirements in relation to UKMA(GB) for advanced therapy medicinal products[^c-ffaaf313fed8d5cad2a45245c19e7299]**
 >
-> (1) The holder of a UKMA(GB)[^key-9a229dbc6424968bce2ffa7db6f109d9] in respect of an advanced therapy medicinal product must—
+> (1) The holder of a UKMA(GB)[^c-9a229dbc6424968bce2ffa7db6f109d9] in respect of an advanced therapy medicinal product must—
 >
 > - (a) establish and maintain a system ensuring that the individual product and its starting raw materials, including all substances coming into contact with the cells or tissues it may contain, can be traced through the sourcing, manufacturing, packaging, storage, transport and delivery to the hospital, institution or private practice where the product is used;
 > - (b) where the product contains human tissues or cells, ensure that the traceability system is complementary to and compatible with requirements imposed pursuant to—
@@ -98,11 +98,11 @@ After regulation 78, insert—
 
 ## Annotations
 
-[^key-87768a07bdbb28c48feb43b84d787a88]: Commencement: Reg. 87 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-87768a07bdbb28c48feb43b84d787a88]: Commencement: Reg. 87 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ffaaf313fed8d5cad2a45245c19e7299]: Textual amendment: Word in reg. 87 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 64(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/64/a)
+[^c-ffaaf313fed8d5cad2a45245c19e7299]: Textual amendment: Word in reg. 87 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 64(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/64/a)
 
-[^key-9a229dbc6424968bce2ffa7db6f109d9]: Textual amendment: Word in reg. 87 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 64(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/64/b)
+[^c-9a229dbc6424968bce2ffa7db6f109d9]: Textual amendment: Word in reg. 87 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 64(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/64/b)
 
 [^c23884971]: Marginal citation: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Sections 33A to 33D were inserted by the Human Fertilisation and Embryology Act 2008, c. 22.
 

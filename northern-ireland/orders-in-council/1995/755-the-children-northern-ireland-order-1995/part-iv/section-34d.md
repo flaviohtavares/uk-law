@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34D. Continuing functions in respect of former relevant children[^key-6067372635c6b35b0dbefeafed5edca0]
+## 34D. Continuing functions in respect of former relevant children[^c-6067372635c6b35b0dbefeafed5edca0]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ and in this Article such a person is referred to as a "former relevant child".
 
 ## Annotations
 
-[^key-6067372635c6b35b0dbefeafed5edca0]: Modification: [Art. 34D](https://www.legislation.gov.uk/nisi/1995/755/article/34D) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)
+[^c-6067372635c6b35b0dbefeafed5edca0]: Modification: [Art. 34D](https://www.legislation.gov.uk/nisi/1995/755/article/34D) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)

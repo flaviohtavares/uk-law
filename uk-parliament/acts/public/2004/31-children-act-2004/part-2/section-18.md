@@ -31,8 +31,8 @@ summary: ''
 - (b) functions conferred on or exercisable by the authority which are social services functions (within the meaning of the Local Authority Social Services Act 1970 (c. 42)), so far as those functions relate to children;
 - (c) the functions conferred on the authority under sections 23C to 24D of the Children Act 1989 (c. 41) (so far as not falling within paragraph (b));
 - (d) the functions conferred on the authority under sections 10 to 12 , 12C, 12D and 17A[^c20900781] of this Act; [^c20896131]. . .
-- (e) any functions exercisable by the authority under section 75 of the National Health Service Act 2006 or section 33 of the National Health Service (Wales) Act 2006[^c20896091] on behalf of an NHS body (within the meaning of those sections[^c20896111]), so far as those functions relate to children;[^c20896191] [^key-04e3f267e23eaeebc59eea1590a172f7]...
-- (f) the functions conferred on the authority under Part 1 of the Childcare Act 2006, and[^key-ecb550b024af0e983fc8d11fefda4731]
+- (e) any functions exercisable by the authority under section 75 of the National Health Service Act 2006 or section 33 of the National Health Service (Wales) Act 2006[^c20896091] on behalf of an NHS body (within the meaning of those sections[^c20896111]), so far as those functions relate to children;[^c20896191] [^c-04e3f267e23eaeebc59eea1590a172f7]...
+- (f) the functions conferred on the authority under Part 1 of the Childcare Act 2006, and[^c-ecb550b024af0e983fc8d11fefda4731]
 - (g) any function conferred on the authority under section 2 of the Childcare Act 2016.
 
 (3) Subsection (2)(a) does not include—
@@ -85,9 +85,9 @@ summary: ''
 
 [^c20896191]: Textual amendment: S. 18(2)(f) and preceding word inserted (1.4.2007) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [ss. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2006/21/section/16/2/b), [109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2); [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 3](https://www.legislation.gov.uk/uksi/2007/1019/article/3)
 
-[^key-04e3f267e23eaeebc59eea1590a172f7]: Textual amendment: Word in s. 18(2)(e) omitted (10.1.2017) by virtue of [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [42(2)(a)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/42/2/a)
+[^c-04e3f267e23eaeebc59eea1590a172f7]: Textual amendment: Word in s. 18(2)(e) omitted (10.1.2017) by virtue of [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [42(2)(a)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/42/2/a)
 
-[^key-ecb550b024af0e983fc8d11fefda4731]: Textual amendment: S. 18(2)(g) and preceding word inserted (10.1.2017) by [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [42(2)(b)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/42/2/b)
+[^c-ecb550b024af0e983fc8d11fefda4731]: Textual amendment: S. 18(2)(g) and preceding word inserted (10.1.2017) by [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [42(2)(b)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/42/2/b)
 
 [^c20898011]: Textual amendment: Words in s. 18(3)(c) repealed (21.2.2008) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 30](https://www.legislation.gov.uk/ukpga/2007/25/section/30), [32](https://www.legislation.gov.uk/ukpga/2007/25/section/32), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/25/schedule/2); [S.I. 2008/313](https://www.legislation.gov.uk/uksi/2008/313), [art. 2](https://www.legislation.gov.uk/uksi/2008/313/article/2)
 

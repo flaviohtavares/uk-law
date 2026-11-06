@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Personation[^key-6c1a89e4fb76dbcb093fb1e61e362148]
+## 118. Personation[^c-6c1a89e4fb76dbcb093fb1e61e362148]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ is also to be taken to have signed the petition.
 
 ## Annotations
 
-[^key-6c1a89e4fb76dbcb093fb1e61e362148]: Commencement: Reg. 118 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-6c1a89e4fb76dbcb093fb1e61e362148]: Commencement: Reg. 118 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

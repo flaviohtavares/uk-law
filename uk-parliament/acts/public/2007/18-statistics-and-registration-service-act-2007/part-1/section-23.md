@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Statistical research[^key-c07ccc7cff67281ed304c7030f6ba84d]
+## 23. Statistical research[^c-c07ccc7cff67281ed304c7030f6ba84d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Board may promote and assist statistical research, in particular by providin
 
 ## Annotations
 
-[^key-c07ccc7cff67281ed304c7030f6ba84d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2007/18/section/23) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-c07ccc7cff67281ed304c7030f6ba84d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2007/18/section/23) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.12. Assistance to an investigator, etc.: confidential information for the sentencing court[^key-bc5bfdd1082ad030c300fd46ed001d7a]
+## 28.12. Assistance to an investigator, etc.: confidential information for the sentencing court[^c-bc5bfdd1082ad030c300fd46ed001d7a]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc5bfdd1082ad030c300fd46ed001d7a]: Commencement: [Rule 28.12](https://www.legislation.gov.uk/uksi/2025/909/rule/28.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-bc5bfdd1082ad030c300fd46ed001d7a]: Commencement: [Rule 28.12](https://www.legislation.gov.uk/uksi/2025/909/rule/28.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00691]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).

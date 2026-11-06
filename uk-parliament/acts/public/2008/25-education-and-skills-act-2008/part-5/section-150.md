@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Sixth form admissions etc[^key-108621bed694d7fab09909efef916adc][^key-ad02c5e05e2d616e50a80697ccea51cc]
+## 150. Sixth form admissions etc[^c-108621bed694d7fab09909efef916adc][^c-ad02c5e05e2d616e50a80697ccea51cc]
 
 *Extent: E+W*
 
 After section 86 of the School Standards and Framework Act 1998 (c. 31) (parental preferences) insert—
 
-> **86A. Preferences relating to sixth-form education: local authority arrangements[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]**
+> **86A. Preferences relating to sixth-form education: local authority arrangements[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]**
 >
 > (1) A local authority shall make arrangements for enabling—
 >
@@ -72,8 +72,8 @@ After section 86 of the School Standards and Framework Act 1998 (c. 31) (parenta
 
 ## Annotations
 
-[^key-108621bed694d7fab09909efef916adc]: Commencement: S. 150 in force at 26.1.2009 for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/3077/article/6))
+[^c-108621bed694d7fab09909efef916adc]: Commencement: S. 150 in force at 26.1.2009 for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/3077/article/6))
 
-[^key-ad02c5e05e2d616e50a80697ccea51cc]: Commencement: S. 150 in force at 31.3.2009 for W. by [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/784/article/4))
+[^c-ad02c5e05e2d616e50a80697ccea51cc]: Commencement: S. 150 in force at 31.3.2009 for W. by [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/784/article/4))
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

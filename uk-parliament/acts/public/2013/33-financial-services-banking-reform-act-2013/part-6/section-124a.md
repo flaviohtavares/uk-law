@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124A. Powers of Bank to participate in Part 26A proceedings[^key-a311dff8472996bb8fb6c858b4ff632f]
+## 124A. Powers of Bank to participate in Part 26A proceedings[^c-a311dff8472996bb8fb6c858b4ff632f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a311dff8472996bb8fb6c858b4ff632f]: Textual amendment: S. 124A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 49(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/49/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-a311dff8472996bb8fb6c858b4ff632f]: Textual amendment: S. 124A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 49(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/49/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

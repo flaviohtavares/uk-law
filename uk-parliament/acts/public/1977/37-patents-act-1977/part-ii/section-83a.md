@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83A. European patent with unitary effect and Unified Patent Court[^key-53448a692b9a9cd1e3ac6108deafc431]
+## 83A. European patent with unitary effect and Unified Patent Court[^c-53448a692b9a9cd1e3ac6108deafc431]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53448a692b9a9cd1e3ac6108deafc431]: Textual amendment: S. 83A inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2016/388/article/2/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
+[^c-53448a692b9a9cd1e3ac6108deafc431]: Textual amendment: S. 83A inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2016/388/article/2/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))

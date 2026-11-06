@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Minor, consequential and transitional provisions[^key-127d57319e1867fa5339b566eb24cc03]
+## 9. Minor, consequential and transitional provisions[^c-127d57319e1867fa5339b566eb24cc03]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-127d57319e1867fa5339b566eb24cc03]: Commencement: Art. 9 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-127d57319e1867fa5339b566eb24cc03]: Commencement: Art. 9 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)

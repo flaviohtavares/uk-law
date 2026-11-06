@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Adoption support services: duty to provide information[^key-5d89694edbce4ad8bd2f8ecd71bd6937]
+## 6. Adoption support services: duty to provide information[^c-5d89694edbce4ad8bd2f8ecd71bd6937]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ In Chapter 2 of Part 1 of the Adoption and Children Act 2002 (the Adoption Servi
 
 ## Annotations
 
-[^key-5d89694edbce4ad8bd2f8ecd71bd6937]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/6/section/6) in force at 25.7.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(c)](https://www.legislation.gov.uk/uksi/2014/889/article/6/c)
+[^c-5d89694edbce4ad8bd2f8ecd71bd6937]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/6/section/6) in force at 25.7.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(c)](https://www.legislation.gov.uk/uksi/2014/889/article/6/c)

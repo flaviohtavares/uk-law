@@ -42,11 +42,11 @@ Whereas a draft of this Order has been laid before the House of Commons in accor
 
 Now therefore, the Secretary of State in exercise of powers conferred on him by sections 1(1) and 6(1) of the 1973 Act and of all other powers enabling him in that behalf, having taken such steps as appear to him appropriate to give an opportunity to such persons as appear to him appropriate to make representations to him in accordance with section 1(3) of the 1973 Act and having, in accordance with section 6(4) of the 1973 Act, laid before Parliament a report about the representations received and his conclusions, and with the concurrence of the Treasury in accordance with section 1(2) of that Act, makes the following Order:—
 
-## 1. Citation and commencement[^key-b436e9394ce382af9f0d42026d1ddace]
+## 1. Citation and commencement[^c-b436e9394ce382af9f0d42026d1ddace]
 
 This Order may be cited as the Medicines Control Agency Trading Fund (Variation) Order 1997 and shall come into force on 1st April 1997.
 
-## 2. Amendment of Schedule 1 to the Medicines Control Agency Trading Fund Order 1993[^key-a4fc5808869564ccbb6db414f420e277]
+## 2. Amendment of Schedule 1 to the Medicines Control Agency Trading Fund Order 1993[^c-a4fc5808869564ccbb6db414f420e277]
 
 In Schedule 1 to the Medicines Control Agency Trading Fund Order 1993[^f00002] there shall be added after paragraph 2 the following paragraph:
 
@@ -76,9 +76,9 @@ This Order varies the Medicines Trading Fund Order 1993 by extending the operati
 
 [^f00001]: Footnote: [1973 c. 63](https://www.legislation.gov.uk/ukpga/1973/63); as amended by the Government Trading Act [1990 (c. 30)](https://www.legislation.gov.uk/ukpga/1990/30). The 1973 Act as amended is set out in Schedule 1 to the 1990 Act. Section 2 of the 1973 Act as so amended was further amended by section 119 of the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31).
 
-[^key-b436e9394ce382af9f0d42026d1ddace]: Commencement: Art. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/805/article/1)
+[^c-b436e9394ce382af9f0d42026d1ddace]: Commencement: Art. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/805/article/1)
 
-[^key-a4fc5808869564ccbb6db414f420e277]: Commencement: Art. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/805/article/1)
+[^c-a4fc5808869564ccbb6db414f420e277]: Commencement: Art. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/805/article/1)
 
 [^f00002]: Footnote: [S.I. 1993/751](https://www.legislation.gov.uk/uksi/1993/751).
 

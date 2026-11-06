@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61TA. Duty for client to withdraw status determination statement if it ceases to be medium or large[^key-88a8cb0a2c766db11fa942f8fb1ba833][^key-c5ed4a8550671f87f70e726d21948b20]
+## 61TA. Duty for client to withdraw status determination statement if it ceases to be medium or large[^c-88a8cb0a2c766db11fa942f8fb1ba833][^c-c5ed4a8550671f87f70e726d21948b20]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88a8cb0a2c766db11fa942f8fb1ba833]: Textual amendment: Ss. 61T-61TA substituted for s. 61T (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/16) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-88a8cb0a2c766db11fa942f8fb1ba833]: Textual amendment: Ss. 61T-61TA substituted for s. 61T (with effect in accordance with Sch. 1 para. 25 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/16) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
 
-[^key-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
+[^c-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)

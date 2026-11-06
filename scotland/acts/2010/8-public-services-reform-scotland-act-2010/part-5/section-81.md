@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. False statements in application under Chapter 3[^key-483d580f50543bf26e9430893df29a69][^key-cb80eaa7a7c3ccc419bc461d851b43c6]
+## 81. False statements in application under Chapter 3[^c-483d580f50543bf26e9430893df29a69][^c-cb80eaa7a7c3ccc419bc461d851b43c6]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ knowingly makes a statement which is false or misleading in a material respect c
 
 ## Annotations
 
-[^key-483d580f50543bf26e9430893df29a69]: Commencement: S. 81 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-483d580f50543bf26e9430893df29a69]: Commencement: S. 81 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-cb80eaa7a7c3ccc419bc461d851b43c6]: Commencement: S. 81 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-cb80eaa7a7c3ccc419bc461d851b43c6]: Commencement: S. 81 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

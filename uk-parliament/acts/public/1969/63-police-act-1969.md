@@ -31,24 +31,24 @@ Police Act 1969 (repealed)
 
 1969 c. 63
 
-[^key-8ef24b47a157b761faa2788dd146e669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ef24b47a157b761faa2788dd146e669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8ef24b47a157b761faa2788dd146e669][^key-8ef24b47a157b761faa2788dd146e669]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8ef24b47a157b761faa2788dd146e669][^c-8ef24b47a157b761faa2788dd146e669]
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8ef24b47a157b761faa2788dd146e669][^key-8ef24b47a157b761faa2788dd146e669]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8ef24b47a157b761faa2788dd146e669][^c-8ef24b47a157b761faa2788dd146e669]
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8ef24b47a157b761faa2788dd146e669][^key-8ef24b47a157b761faa2788dd146e669]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8ef24b47a157b761faa2788dd146e669][^c-8ef24b47a157b761faa2788dd146e669]
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8ef24b47a157b761faa2788dd146e669][^key-8ef24b47a157b761faa2788dd146e669]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8ef24b47a157b761faa2788dd146e669][^c-8ef24b47a157b761faa2788dd146e669]
 
-## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8ef24b47a157b761faa2788dd146e669][^key-8ef24b47a157b761faa2788dd146e669]
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8ef24b47a157b761faa2788dd146e669][^c-8ef24b47a157b761faa2788dd146e669]
 
-## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8ef24b47a157b761faa2788dd146e669][^key-8ef24b47a157b761faa2788dd146e669]
+## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8ef24b47a157b761faa2788dd146e669][^c-8ef24b47a157b761faa2788dd146e669]
 
-## 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8ef24b47a157b761faa2788dd146e669][^key-8ef24b47a157b761faa2788dd146e669]
+## 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8ef24b47a157b761faa2788dd146e669][^c-8ef24b47a157b761faa2788dd146e669]
 
 ## Annotations
 
-[^key-8ef24b47a157b761faa2788dd146e669]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1969/63) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 6
+[^c-8ef24b47a157b761faa2788dd146e669]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1969/63) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 6

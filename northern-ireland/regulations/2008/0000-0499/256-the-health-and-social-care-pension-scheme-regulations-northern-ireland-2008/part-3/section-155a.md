@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 155A. Participators in pilot schemes[^key-d77488b0b365e9fdc7999b11ec21b215]
+## 155A. Participators in pilot schemes[^c-d77488b0b365e9fdc7999b11ec21b215]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d77488b0b365e9fdc7999b11ec21b215]: Textual amendment: [Reg. 155A](https://www.legislation.gov.uk/nisr/2008/256/regulation/155A) inserted (29.3.2013) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/40)](https://www.legislation.gov.uk/nisr/2013/40), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/1/2), [19](https://www.legislation.gov.uk/nisr/2013/40/regulation/19)
+[^c-d77488b0b365e9fdc7999b11ec21b215]: Textual amendment: [Reg. 155A](https://www.legislation.gov.uk/nisr/2008/256/regulation/155A) inserted (29.3.2013) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/40)](https://www.legislation.gov.uk/nisr/2013/40), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/1/2), [19](https://www.legislation.gov.uk/nisr/2013/40/regulation/19)

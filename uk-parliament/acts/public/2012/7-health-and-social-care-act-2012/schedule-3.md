@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Pharmaceutical remuneration[^c2191376][^key-0b8c1330a8b0a5b5677bb06b9e34e89e]
+## SCHEDULE 3 — Pharmaceutical remuneration[^c2191376][^c-0b8c1330a8b0a5b5677bb06b9e34e89e]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ Section 51(2)
 
 [^c2191376]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/7/schedule/3) partly in force; [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/7/schedule/3) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-0b8c1330a8b0a5b5677bb06b9e34e89e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/7/schedule/3) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-0b8c1330a8b0a5b5677bb06b9e34e89e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2012/7/schedule/3) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

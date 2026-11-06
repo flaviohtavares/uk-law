@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Children’s homes providing secure accommodation[^key-973d0c38fe9f3f14c6b470f6cf1da832]
+## 107. Children’s homes providing secure accommodation[^c-973d0c38fe9f3f14c6b470f6cf1da832]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-973d0c38fe9f3f14c6b470f6cf1da832]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2003/43/section/107) in force at 1.4.2006 for W. by [S.I. 2005/3285](https://www.legislation.gov.uk/wsi/2005/3285), [art. 2(2)(c)](https://www.legislation.gov.uk/wsi/2005/3285/article/2/2/c)
+[^c-973d0c38fe9f3f14c6b470f6cf1da832]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2003/43/section/107) in force at 1.4.2006 for W. by [S.I. 2005/3285](https://www.legislation.gov.uk/wsi/2005/3285), [art. 2(2)(c)](https://www.legislation.gov.uk/wsi/2005/3285/article/2/2/c)

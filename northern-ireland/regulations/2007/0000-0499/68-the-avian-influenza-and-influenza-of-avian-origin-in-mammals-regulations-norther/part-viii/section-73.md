@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Retention and production of records[^key-fc128ff2fd918bd6709d1bffde056f58]
+## 73. Retention and production of records[^c-fc128ff2fd918bd6709d1bffde056f58]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc128ff2fd918bd6709d1bffde056f58]: Commencement: Reg. 73 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-fc128ff2fd918bd6709d1bffde056f58]: Commencement: Reg. 73 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

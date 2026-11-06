@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Land in England—disposal of certain dwellings[^key-834a55410f93b14c8e5a6809614b756f]
+## 97. Land in England—disposal of certain dwellings[^c-834a55410f93b14c8e5a6809614b756f]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ is the aggregate of the initial cost of any credit arrangement entered into excl
 
 ## Annotations
 
-[^key-834a55410f93b14c8e5a6809614b756f]: Commencement: Reg. 97 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-834a55410f93b14c8e5a6809614b756f]: Commencement: Reg. 97 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00087]: Footnote: [1984 c. 29](https://www.legislation.gov.uk/ukpga/1984/29). Section 22 was repealed by the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71).
 

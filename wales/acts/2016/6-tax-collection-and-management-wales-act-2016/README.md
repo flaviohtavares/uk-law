@@ -38,7 +38,7 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 
 \[25 April 2016\]
 
-**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^key-dc95dd5de219c78df45b696fb5f15ff1][^key-b1f04755eac1c3875a8816021dedf153][^key-e3693ee021b4fcea48354ff70817e809]
+**Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**[^c-dc95dd5de219c78df45b696fb5f15ff1][^c-b1f04755eac1c3875a8816021dedf153][^c-e3693ee021b4fcea48354ff70817e809]
 
 ## Contents
 
@@ -123,7 +123,7 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 
 - [Section 37 — Overview of Part](part-3/section-37.md)
 
-#### CHAPTER 2 — ... DUTIES TO KEEP AND PRESERVE RECORDS[^key-8549b0c1d5bebc087b00d3f3e2bd1442]
+#### CHAPTER 2 — ... DUTIES TO KEEP AND PRESERVE RECORDS[^c-8549b0c1d5bebc087b00d3f3e2bd1442]
 
 *Extent: E+W*
 
@@ -193,7 +193,7 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 - [Section 60 — Situations brought about carelessly or deliberately](part-3/section-60.md)
 - [Section 61 — Assessment procedure](part-3/section-61.md)
 
-#### CHAPTER 7 — RELIEF IN CASE OF EXCESSIVE ASSESSMENT OR OVERPAID TAX[^key-65dba1033b483f75a67c31fcabe40f70]
+#### CHAPTER 7 — RELIEF IN CASE OF EXCESSIVE ASSESSMENT OR OVERPAID TAX[^c-65dba1033b483f75a67c31fcabe40f70]
 
 *Extent: E+W*
 
@@ -235,29 +235,29 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 - [Section 80 — Assessment of claimant in connection with claim](part-3/section-80.md)
 - [Section 81 — Contract settlements](part-3/section-81.md)
 
-### PART 3A — GENERAL ANTI-AVOIDANCE RULE : DEVOLVED TAXES[^key-96bda5550910e9fad55651c5bf86620d][^key-49709605fabb6da2019812b8c6a500f6]
+### PART 3A — GENERAL ANTI-AVOIDANCE RULE : DEVOLVED TAXES[^c-96bda5550910e9fad55651c5bf86620d][^c-49709605fabb6da2019812b8c6a500f6]
 
-#### Overview[^key-96bda5550910e9fad55651c5bf86620d]
+#### Overview[^c-96bda5550910e9fad55651c5bf86620d]
 
 - [Section 81A — Meaning of ““general anti-avoidance rule”” and overview](part-3a/section-81a.md)
 
-#### Artificial tax avoidance arrangements[^key-96bda5550910e9fad55651c5bf86620d]
+#### Artificial tax avoidance arrangements[^c-96bda5550910e9fad55651c5bf86620d]
 
 - [Section 81B — Tax avoidance arrangements](part-3a/section-81b.md)
 - [Section 81C — Artificial tax avoidance arrangements](part-3a/section-81c.md)
 - [Section 81D — Meaning of ““tax”” and “tax advantage](part-3a/section-81d.md)
 
-#### Counteracting tax advantages[^key-96bda5550910e9fad55651c5bf86620d]
+#### Counteracting tax advantages[^c-96bda5550910e9fad55651c5bf86620d]
 
 - [Section 81E — Adjustments to counteract tax advantages](part-3a/section-81e.md)
 - [Section 81F — Notice of proposed counteraction](part-3a/section-81f.md)
 - [Section 81G — Final counteraction notice](part-3a/section-81g.md)
 
-#### Proceedings before a court or tribunal[^key-96bda5550910e9fad55651c5bf86620d]
+#### Proceedings before a court or tribunal[^c-96bda5550910e9fad55651c5bf86620d]
 
 - [Section 81H — Proceedings in connection with the general anti-avoidance rule](part-3a/section-81h.md)
 
-#### Commencement and transitional provision[^key-96bda5550910e9fad55651c5bf86620d]
+#### Commencement and transitional provision[^c-96bda5550910e9fad55651c5bf86620d]
 
 - [Section 81I — General anti-avoidance rule: commencement and transitional provision](part-3a/section-81i.md)
 
@@ -338,11 +338,11 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 - [Section 117 — Overview of Part](part-5/section-117.md)
 - [Section 117A — Interpretation and application of this Part in relation to the visitor levy](part-5/section-117a.md)
 
-#### CHAPTER 2 — PENALTIES FOR FAILURE TO MAKE RETURNS OR PAY TAX OR AMOUNTS PAYABLE IN RESPECT OF TAX CREDITS[^key-cbace0cc81c01ab9941fe34dcc2b8a2d]
+#### CHAPTER 2 — PENALTIES FOR FAILURE TO MAKE RETURNS OR PAY TAX OR AMOUNTS PAYABLE IN RESPECT OF TAX CREDITS[^c-cbace0cc81c01ab9941fe34dcc2b8a2d]
 
 *Extent: E+W*
 
-##### Penalty for failure to make devolved tax return[^key-d7df03816c00499d41ae0807a99a4b42]
+##### Penalty for failure to make devolved tax return[^c-d7df03816c00499d41ae0807a99a4b42]
 
 *Extent: E+W*
 
@@ -351,7 +351,7 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 - [Section 119 — Penalty for failure to make tax devolved return within 6 months from filing date](part-5/section-119.md)
 - [Section 120 — Penalty for failure to make devolved tax return within 12 months from filing date](part-5/section-120.md)
 
-##### Penalty points and penalties for failures to make visitor levy returns[^key-91039e39d9c8dc8a070ffd4c9e563c40]
+##### Penalty points and penalties for failures to make visitor levy returns[^c-91039e39d9c8dc8a070ffd4c9e563c40]
 
 - [Section 120A — Penalty point for failure to make visitor levy return on or before filing date](part-5/section-120a.md)
 - [Section 120B — Financial penalty where penalty points have been awarded](part-5/section-120b.md)
@@ -362,7 +362,7 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 - [Section 120G — Penalty points and penalties: persons that have ceased to be a VAP](part-5/section-120g.md)
 - [Section 120H — Penalty points: partnerships and other unincorporated bodies](part-5/section-120h.md)
 
-##### Reduction in penalty for disclosure of information[^key-91039e39d9c8dc8a070ffd4c9e563c40]
+##### Reduction in penalty for disclosure of information[^c-91039e39d9c8dc8a070ffd4c9e563c40]
 
 - [Section 121 — Reduction in penalty for failure to make tax return: disclosure](part-5/section-121.md)
 
@@ -376,7 +376,7 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 - [Section 122B — Further penalties for continuing failure to pay visitor levy](part-5/section-122b.md)
 - [Section 123 — Suspension of penalty for failure to pay tax during currency of agreement for deferred payment](part-5/section-123.md)
 
-##### Penalty for failure to pay amount payable in respect of tax credit[^key-6f6e0e11176d333fc22698532a741e64]
+##### Penalty for failure to pay amount payable in respect of tax credit[^c-6f6e0e11176d333fc22698532a741e64]
 
 - [Section 123A — Penalty for failure to pay amount payable in respect of tax credit on time](part-5/section-123a.md)
 
@@ -467,14 +467,14 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 
 *Extent: E+W*
 
-##### ...[^key-053f85a562e8c97ef9ef16725e2d4cae]
+##### ...[^c-053f85a562e8c97ef9ef16725e2d4cae]
 
 - [Section 157 — Late payment interest on WRA-collected taxes](part-6/section-157.md)
 - [Section 157A — Late payment interest on penalties](part-6/section-157a.md)
 - [Section 157B — Late payment interest on amounts payable in respect of tax credit](part-6/section-157b.md)
 - [Section 158 — Late payment interest: supplementary](part-6/section-158.md)
 
-##### ...[^key-d6ddbca786acb15d1f7eb27a7d0c24cc]
+##### ...[^c-d6ddbca786acb15d1f7eb27a7d0c24cc]
 
 - [Section 159 — Late payment interest start date: amendments to assessments etc.](part-6/section-159.md)
 - [Section 160 — Late payment interest start date: death of taxpayer](part-6/section-160.md)
@@ -537,7 +537,7 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 - [Section 180 — Making a late appeal](part-8/section-180.md)
 - [Section 181 — Determining an appeal](part-8/section-181.md)
 
-#### CHAPTER 3A — PAYMENT AND RECOVERY OF WRA-collected TAX ETC SUBJECT TO REVIEW OR APPEAL[^key-07590d4a8d46069e9d15d065011b324f][^key-fff3af6ed431e746ec4d55fe1114ea14][^key-5a2ed47f4da6d17982008bfe3fd69628]
+#### CHAPTER 3A — PAYMENT AND RECOVERY OF WRA-collected TAX ETC SUBJECT TO REVIEW OR APPEAL[^c-07590d4a8d46069e9d15d065011b324f][^c-fff3af6ed431e746ec4d55fe1114ea14][^c-5a2ed47f4da6d17982008bfe3fd69628]
 
 *Extent: E+W*
 
@@ -591,34 +591,34 @@ An Act of the National Assembly for Wales to establish the Welsh Revenue Authori
 
 [^M_F_83348941-0ebe-4362-f959-8ecb896b67d6]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-dc95dd5de219c78df45b696fb5f15ff1]: Modification: Act: power to modify conferred (9.9.2022) by [Welsh Tax Acts etc. (Power to Modify) Act 2022 (asc 2)](https://www.legislation.gov.uk/asc/2022/2), [ss. 1](https://www.legislation.gov.uk/asc/2022/2/section/1), [9](https://www.legislation.gov.uk/asc/2022/2/section/9) (with [s. 2(4)-(6)](https://www.legislation.gov.uk/asc/2022/2/section/2/4))
+[^c-dc95dd5de219c78df45b696fb5f15ff1]: Modification: Act: power to modify conferred (9.9.2022) by [Welsh Tax Acts etc. (Power to Modify) Act 2022 (asc 2)](https://www.legislation.gov.uk/asc/2022/2), [ss. 1](https://www.legislation.gov.uk/asc/2022/2/section/1), [9](https://www.legislation.gov.uk/asc/2022/2/section/9) (with [s. 2(4)-(6)](https://www.legislation.gov.uk/asc/2022/2/section/2/4))
 
-[^key-b1f04755eac1c3875a8816021dedf153]: Modification: Act: power to amend conferred (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [ss. 62](https://www.legislation.gov.uk/asc/2025/5/section/62), [67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-b1f04755eac1c3875a8816021dedf153]: Modification: Act: power to amend conferred (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [ss. 62](https://www.legislation.gov.uk/asc/2025/5/section/62), [67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
 
-[^key-e3693ee021b4fcea48354ff70817e809]: Modification: [Act](https://www.legislation.gov.uk/anaw/2016/6): power to amend conferred (1.10.2026) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [ss. 26(2)(b)](https://www.legislation.gov.uk/asc/2025/5/section/26/2/b), [67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2); [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/m)
+[^c-e3693ee021b4fcea48354ff70817e809]: Modification: [Act](https://www.legislation.gov.uk/anaw/2016/6): power to amend conferred (1.10.2026) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [ss. 26(2)(b)](https://www.legislation.gov.uk/asc/2025/5/section/26/2/b), [67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2); [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/m)
 
-[^key-8549b0c1d5bebc087b00d3f3e2bd1442]: Textual amendment: Word in Pt. 3 Ch. 2 heading omitted (1.4.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/4); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8549b0c1d5bebc087b00d3f3e2bd1442]: Textual amendment: Word in Pt. 3 Ch. 2 heading omitted (1.4.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/4); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-65dba1033b483f75a67c31fcabe40f70]: Modification: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/anaw/2016/6/part/3/chapter/7) applied (with modifications) (1.4.2018) by Land Transaction Tax and Anti-avoidance of [Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 48(3)](https://www.legislation.gov.uk/anaw/2017/1/section/48/3), [81(2)(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2/3), [Sch. 6 para. 14(2)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/14/2); [S.I. 2018/34](https://www.legislation.gov.uk/uksi/2018/34), [art. 3](https://www.legislation.gov.uk/uksi/2018/34/article/3)
+[^c-65dba1033b483f75a67c31fcabe40f70]: Modification: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/anaw/2016/6/part/3/chapter/7) applied (with modifications) (1.4.2018) by Land Transaction Tax and Anti-avoidance of [Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 48(3)](https://www.legislation.gov.uk/anaw/2017/1/section/48/3), [81(2)(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2/3), [Sch. 6 para. 14(2)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/14/2); [S.I. 2018/34](https://www.legislation.gov.uk/uksi/2018/34), [art. 3](https://www.legislation.gov.uk/uksi/2018/34/article/3)
 
-[^key-96bda5550910e9fad55651c5bf86620d]: Textual amendment: Pt. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 66](https://www.legislation.gov.uk/anaw/2017/1/section/66), [81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-96bda5550910e9fad55651c5bf86620d]: Textual amendment: Pt. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [ss. 66](https://www.legislation.gov.uk/anaw/2017/1/section/66), [81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-49709605fabb6da2019812b8c6a500f6]: Textual amendment: Words in [Pt. 3A](https://www.legislation.gov.uk/anaw/2016/6/part/3A) heading inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 34](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/34)
+[^c-49709605fabb6da2019812b8c6a500f6]: Textual amendment: Words in [Pt. 3A](https://www.legislation.gov.uk/anaw/2016/6/part/3A) heading inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 34](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/34)
 
-[^key-cbace0cc81c01ab9941fe34dcc2b8a2d]: Textual amendment: Words in Pt. 5 Ch. 2 heading inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/23)
+[^c-cbace0cc81c01ab9941fe34dcc2b8a2d]: Textual amendment: Words in Pt. 5 Ch. 2 heading inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/23)
 
-[^key-d7df03816c00499d41ae0807a99a4b42]: Textual amendment: Word in [s. 118 cross-heading](https://www.legislation.gov.uk/anaw/2016/6/part/5/chapter/2/crossheading/penalty-for-failure-to-make-tax-return) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 38](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/38)
+[^c-d7df03816c00499d41ae0807a99a4b42]: Textual amendment: Word in [s. 118 cross-heading](https://www.legislation.gov.uk/anaw/2016/6/part/5/chapter/2/crossheading/penalty-for-failure-to-make-tax-return) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 38](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/38)
 
-[^key-91039e39d9c8dc8a070ffd4c9e563c40]: Textual amendment: [Ss. 120A-120H](https://www.legislation.gov.uk/anaw/2016/6/section/120A) and cross-headings inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/42)
+[^c-91039e39d9c8dc8a070ffd4c9e563c40]: Textual amendment: [Ss. 120A-120H](https://www.legislation.gov.uk/anaw/2016/6/section/120A) and cross-headings inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/42)
 
-[^key-6f6e0e11176d333fc22698532a741e64]: Textual amendment: [S. 123A](https://www.legislation.gov.uk/anaw/2016/6/section/123A) and cross-heading inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/25)
+[^c-6f6e0e11176d333fc22698532a741e64]: Textual amendment: [S. 123A](https://www.legislation.gov.uk/anaw/2016/6/section/123A) and cross-heading inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/25)
 
-[^key-053f85a562e8c97ef9ef16725e2d4cae]: Textual amendment: S. 157 cross-heading omitted (25.1.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 57](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/57); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
+[^c-053f85a562e8c97ef9ef16725e2d4cae]: Textual amendment: S. 157 cross-heading omitted (25.1.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 57](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/57); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
 
-[^key-d6ddbca786acb15d1f7eb27a7d0c24cc]: Textual amendment: S. 159 and cross-heading omitted (25.1.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 59](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/59); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
+[^c-d6ddbca786acb15d1f7eb27a7d0c24cc]: Textual amendment: S. 159 and cross-heading omitted (25.1.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 59](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/59); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
 
-[^key-07590d4a8d46069e9d15d065011b324f]: Textual amendment: Pt. 8 Ch. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 63](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/63); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-07590d4a8d46069e9d15d065011b324f]: Textual amendment: Pt. 8 Ch. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 63](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/63); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-5a2ed47f4da6d17982008bfe3fd69628]: Textual amendment: Word in Pt. 8 Ch. 3A heading inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 44](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/44)
+[^c-5a2ed47f4da6d17982008bfe3fd69628]: Textual amendment: Word in Pt. 8 Ch. 3A heading inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 44](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/44)

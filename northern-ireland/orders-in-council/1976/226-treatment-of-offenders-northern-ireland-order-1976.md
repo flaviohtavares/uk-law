@@ -110,14 +110,14 @@ Where under Article 3(1) \[[^c16921581] a magistrates'\] court orders that a per
 (1) Where—
 
 - (a) after the discharge of any such person as is mentioned in Article 3(1)(a), he has been convicted as so mentioned of an offence mentioned in Article 3(1)(b); and[^c16921601]
-- (b) it appears on complaint to a justice of the peace [^key-bcd21b49141cb9b04a9d6552825b0247]..., that he has not been ordered under Article 3 to be returned to prison or a young offenders centre and that there is no such record as is mentioned in Article 3(7),
+- (b) it appears on complaint to a justice of the peace [^c-bcd21b49141cb9b04a9d6552825b0247]..., that he has not been ordered under Article 3 to be returned to prison or a young offenders centre and that there is no such record as is mentioned in Article 3(7),
 
 the justice may issue a summons requiring the offender to appear at the place and time specified therein, or may, if the complaint is in writing and substantiated on oath, issue a warrant for his arrest.
 
 (2) A summons or warrant issued under this Article shall, subject to paragraph (3), direct the offender to appear or to be brought before
 
 - (a) where the offender was convicted as mentioned in paragraph (1)(a) on indictment, the Crown Court; and
-- (b) where the offender was so convicted by a magistrates' court, a magistrates' court [^key-31ab4a2f2fe1cd26e2f1d9d2a2994374]....
+- (b) where the offender was so convicted by a magistrates' court, a magistrates' court [^c-31ab4a2f2fe1cd26e2f1d9d2a2994374]....
 
 (2A) Where a person who has been convicted as mentioned in paragraph (1)(a) appears or is brought before a court under this Article, Articles 3 and 4 shall apply as if that person had just been so convicted by or before that court
 
@@ -235,9 +235,9 @@ Article 3 shall have effect in relation to him subject to the modifications set 
 
 [^c16921601]: Textual amendment: [1989 NI 15](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-bcd21b49141cb9b04a9d6552825b0247]: Textual amendment: Words in [art. 5(1)(b)](https://www.legislation.gov.uk/nisi/1976/226/article/5/1/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 71(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/71/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-bcd21b49141cb9b04a9d6552825b0247]: Textual amendment: Words in [art. 5(1)(b)](https://www.legislation.gov.uk/nisi/1976/226/article/5/1/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 71(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/71/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-31ab4a2f2fe1cd26e2f1d9d2a2994374]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/nisi/1976/226/article/5/2/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 71(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/71/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-31ab4a2f2fe1cd26e2f1d9d2a2994374]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/nisi/1976/226/article/5/2/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 71(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/71/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16921621]: Textual amendment: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 

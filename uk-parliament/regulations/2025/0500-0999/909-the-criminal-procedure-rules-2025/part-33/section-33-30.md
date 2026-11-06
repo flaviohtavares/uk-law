@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.30. Taking control of goods and forfeiture[^key-8b84496ad3455a1315ae7b0749314f38]
+## 33.30. Taking control of goods and forfeiture[^c-8b84496ad3455a1315ae7b0749314f38]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ at least 5 business days before the date fixed by the court for hearing the appl
 
 ## Annotations
 
-[^key-8b84496ad3455a1315ae7b0749314f38]: Commencement: [Rule 33.30](https://www.legislation.gov.uk/uksi/2025/909/rule/33.30) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8b84496ad3455a1315ae7b0749314f38]: Commencement: [Rule 33.30](https://www.legislation.gov.uk/uksi/2025/909/rule/33.30) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00835]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 58(2) was amended by section 62(3) of, and paragraphs 142 and 143 of Schedule 13 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Failure to apply for renewal of Scheme membership[^key-8d8713b59cbc58bb24578a30f3917388]
+## 72. Failure to apply for renewal of Scheme membership[^c-8d8713b59cbc58bb24578a30f3917388]
 
 *Extent: S*
 
@@ -84,4 +84,4 @@ After section 45A of the PVG Act (inserted by section 71) insert—
 
 ## Annotations
 
-[^key-8d8713b59cbc58bb24578a30f3917388]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2020/13/section/72) in force at 1.4.2026 by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
+[^c-8d8713b59cbc58bb24578a30f3917388]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2020/13/section/72) in force at 1.4.2026 by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)

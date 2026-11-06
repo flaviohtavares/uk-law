@@ -22,7 +22,7 @@ summary: ''
 
 Article 27
 
-### 1. Transitional provisions: firearms[^key-47b4267ab683e74762bd623c70f03484]
+### 1. Transitional provisions: firearms[^c-47b4267ab683e74762bd623c70f03484]
 
 (1) Any authorisation, certificate or permit granted, or approval given, by a Scottish chief officer in exercise of powers conferred by the 1968 Act[^f00245] or the 1988 Act[^f00246] is to be treated on and after the relevant day as if it had been granted or given by the chief constable of the Police Service of Scotland.
 
@@ -41,43 +41,43 @@ Article 27
 
 (5) Where a Scottish chief officer has, by virtue of section 12(1) of the 1988 Act[^f00248], by notice in writing required the holder of a firearms certificate to surrender that certificate, any firearms or any ammunition which are in the holder’s possession by virtue of that certificate and that certificate, those firearms or that ammunition has not before the relevant day been surrendered or delivered up, that notice is to be treated on and after the relevant day as having been given by the chief constable of the Police Service of Scotland.
 
-### 2. Savings provision: data protection[^key-5b3ddc8c75e54dc00f7238bae213421b]
+### 2. Savings provision: data protection[^c-5b3ddc8c75e54dc00f7238bae213421b]
 
 Despite paragraph 28 of Schedule 2 to this Order, paragraph (b) in the first entry in the first column in the Table in section 56(6) of the Data Protection Act 1998[^f00249] continues to have effect in relation to records obtained before the relevant day.
 
-### 3. Transitional provisions: regulation of investigatory powers[^key-d7d15b2b3d6f3616fd4e437f6a500551]
+### 3. Transitional provisions: regulation of investigatory powers[^c-d7d15b2b3d6f3616fd4e437f6a500551]
 
 (1) Anything done under the 2000 Act[^f00250] before the relevant day by or in relation to the chief constable of a police force maintained under the 1967 Act[^f00251] or the Director General of the Scottish Crime and Drug Enforcement Agency is, on and after that day, to be treated as having been done by or in relation to the chief constable of the Police Service of Scotland.
 
 (2) Anything else done under the 2000 Act before the relevant day by or in relation to a constable serving with a police force maintained under the 1967 Act or as a member of the Scottish Crime and Drug Enforcement Agency is, on and after that day, to be treated as having been done by or in relation to the constable while serving as a constable of the Police Service of Scotland.
 
-### 4. Transitional provision: agreements with Police Complaints Commissioner for Scotland[^key-49091e90422e0676dd4df7a66aea57e1]
+### 4. Transitional provision: agreements with Police Complaints Commissioner for Scotland[^c-49091e90422e0676dd4df7a66aea57e1]
 
 Any reference in an agreement made under article 4 of the Police, Public Order and Criminal Justice (Scotland) Act 2006 (Consequential Provisions and Modifications) Order 2007[^f00252] to the Police Complaints Commissioner for Scotland is to be read as a reference to the Commissioner.
 
-### 5. Transitional provision: officers engaged on service outwith their force[^key-28453fe8035436293ee528dde479746b]
+### 5. Transitional provision: officers engaged on service outwith their force[^c-28453fe8035436293ee528dde479746b]
 
 Section 97 of the 1996 Act (police officers engaged on service outside their force)[^f00253] applies in relation to a member of a police force (within the meaning of section 101 of that Act)[^f00254] transferred to be on temporary service to the Police Service of Scotland, on the relevant day, by the 2012 Act[^f00255] as if such service were relevant service for the purposes of section 97 of the 1996 Act.
 
-### 6. Transitional provisions: declarations[^key-fe8392e853c6458dfbbc117c9c4df79c]
+### 6. Transitional provisions: declarations[^c-fe8392e853c6458dfbbc117c9c4df79c]
 
 A member of the Ministry of Defence Police who, before the relevant day has made a declaration in pursuance of section 1(2)(b) of the 1987 Act[^f00256] is, on and after that day, to be treated as having made the declaration required by section 10 of the 2012 Act.
 
-### 7.[^key-e6a27a932f3b56fb805ecc274f6706b8]
+### 7.[^c-e6a27a932f3b56fb805ecc274f6706b8]
 
 A constable or special constable of the British Transport Police Force who, before the relevant day has made a declaration in pursuance of section 24(4) or, as the case may be, 25(4) of the Railways and Transport Safety Act 2003[^f00257] is, on and after that day, to be treated as having made the declaration required by section 10 of the 2012 Act.
 
-### 8. Transitional provision: bail[^key-8beea1c103ccccb45125fbcedb2d24ee]
+### 8. Transitional provision: bail[^c-8beea1c103ccccb45125fbcedb2d24ee]
 
 Any direction given under section 8(6) of the Bail Act 1976 (bail with sureties)[^f00258] before the day on which paragraph 13 of Schedule 2 to this Order comes into force is, on or after that day, to be treated as a direction that arrangements be made for the recognizance of a surety to be entered into in Scotland before a constable of the Police Service of Scotland.
 
-### 9. Transitional provisions: armed forces[^key-34e25b92ae1a67aa601fbf4781e3da6f]
+### 9. Transitional provisions: armed forces[^c-34e25b92ae1a67aa601fbf4781e3da6f]
 
 (1) Any warrant existing immediately before the relevant day which was issued under the Armed Forces Act 2006[^f00259] and addressed to an officer or officers of a police force maintained under the 1967 Act is to be regarded on and after that day as if it had been issued and addressed to an officer of the Police Service of Scotland and may be executed accordingly.
 
 (2) For the purposes of sections 116[^f00260] and 119 of the Armed Forces Act 2006 (referral of case following investigation by service or civilian police and circumstances in which CO has power to charge etc), any investigation by a police force maintained under the 1967 Act before the relevant day may, on or after that day, be continued and, where appropriate, referred by the Police Service of Scotland.
 
-### 10. Pensions: savings[^key-fe65583643db80b75efc1dd3e6f1f8ea]
+### 10. Pensions: savings[^c-fe65583643db80b75efc1dd3e6f1f8ea]
 
 (1) Despite the repeal of sections 26[^f00261] and 27 of the 1967 Act[^f00262], those sections continue to have effect in relation to pensions payable to or in respect of special constables and police cadets appointed under the 1967 Act.
 
@@ -102,7 +102,7 @@ Any direction given under section 8(6) of the Bail Act 1976 (bail with sureties)
 - (d) service with the Scottish Police Services Authority;
 - (e) service as the Director General or Deputy Director General of, or as a police member of, the Scottish Crime and Drug Enforcement Agency.
 
-### 11. Transitional and saving provision: transfer of functions[^key-4da739f766f04b3a0b44a383ebe260ae]
+### 11. Transitional and saving provision: transfer of functions[^c-4da739f766f04b3a0b44a383ebe260ae]
 
 (1) The revocation, by virtue of paragraph 78(2) and paragraph 89 of Schedule 2 to this Order of the transfer to the Scottish Ministers of the functions conferred by section 32A[^f00274] of the 1967 Act and section 5 of the 2000 Act does not affect the validity of anything done (or having effect as if done) by or in relation to the Scottish Ministers, for the purposes of or in connection with any such function, at any time before the date on which the revocation takes effect.
 
@@ -110,7 +110,7 @@ Any direction given under section 8(6) of the Bail Act 1976 (bail with sureties)
 
 (3) Anything done (or having effect as if done) by or in relation to the Scottish Ministers for the purposes of or in connection with any function the transfer of which is modified by paragraph 78(3) or paragraph 83 of Schedule 2 to this Order has effect, if in force at the time when the modification takes effect, as if done by or in relation to the Scottish Ministers in so far as that is required for continuing its effect on and after the date of the modification.
 
-### 12. Transitional provisions: criminal offences[^key-77db403a80bb108b9d9d22dde5182e1a]
+### 12. Transitional provisions: criminal offences[^c-77db403a80bb108b9d9d22dde5182e1a]
 
 (1) Any criminal offence committed before the relevant day by an office-holder or body mentioned in column 1 of the Table below is, on and after that day, to be regarded for all purposes as if it had been committed by the office-holder or body mentioned in column 2 of the Table and criminal proceedings may be instituted or continued against the office-holder or body accordingly.
 
@@ -125,7 +125,7 @@ Any direction given under section 8(6) of the Bail Act 1976 (bail with sureties)
 
 (2) Paragraph (1) does not apply in relation to any offence committed by an office-holder in a personal capacity.
 
-### 13. Transitional provisions: arrangements with Ministry of Defence Police[^key-fc1d787882e7c0758baf5636b649d84c]
+### 13. Transitional provisions: arrangements with Ministry of Defence Police[^c-fc1d787882e7c0758baf5636b649d84c]
 
 (1) Sub-paragraphs (2) and (3) apply to any arrangement—
 
@@ -141,7 +141,7 @@ Any direction given under section 8(6) of the Bail Act 1976 (bail with sureties)
   - (i) is under the direction and control of the chief constable of that Service; and
   - (ii) has all the powers and privileges of a constable of that Service.
 
-### 14. Transitional provisions: arrangements with British Transport Police Force[^key-8a214ad86fba64de50bbf0e521211f33]
+### 14. Transitional provisions: arrangements with British Transport Police Force[^c-8a214ad86fba64de50bbf0e521211f33]
 
 (1) Sub-paragraphs (2) and (3) apply to any arrangement—
 
@@ -172,14 +172,14 @@ Any direction given under section 8(6) of the Bail Act 1976 (bail with sureties)
 - (b) to be under the direction and control of the chief constable of that Force while providing such assistance; and
 - (c) to have all the powers and privileges of a constable of that Force for that purpose.
 
-### 15.[^key-7fef21465f4f926b4124670723b036e6]
+### 15.[^c-7fef21465f4f926b4124670723b036e6]
 
 Where a constable of the British Transport Police Force is, immediately before the relevant day, assisting a constable of a police force in pursuance of a request made under section 100 of the Anti-terrorism, Crime and Security Act 2001[^f00279]—
 
 - (a) that request is to be treated, on and after the relevant day, as having been made by a constable of the Police Service of Scotland; and
 - (b) the constable of the British Transport Police Force has all the powers and privileges of a constable of the Police Service of Scotland for the purposes of the incident, investigation or operation in relation to which the constable of the British Transport Police Force is providing assistance.
 
-### 16.[^key-c2c20bae8e7739cc42cd75fbfb8cec58]
+### 16.[^c-c2c20bae8e7739cc42cd75fbfb8cec58]
 
 (1) Sub-paragraph (2) applies to any agreement—
 
@@ -195,7 +195,7 @@ Where a constable of the British Transport Police Force is, immediately before t
 
 (4) An agreement to which this sub-paragraph applies is, on and after the relevant day, to be treated as an agreement made under article 8 of this Order between the Scottish Police Authority and the British Transport Police Authority.
 
-### 17. Transitional provision: arrangements with Civil Nuclear Constabulary[^key-d78573a5acaba2b4451ae252c86578ce]
+### 17. Transitional provision: arrangements with Civil Nuclear Constabulary[^c-d78573a5acaba2b4451ae252c86578ce]
 
 (1) Sub-paragraph (2) applies to any agreement—
 
@@ -216,7 +216,7 @@ Where a constable of the British Transport Police Force is, immediately before t
 - (a) “police authority” means a police authority established under section 2(1)[^f00281] or section 19(1) of the 1967 Act[^f00282]; and
 - (b) “police force” means a police force maintained by a police authority.
 
-### 18. Transitional provisions: arrangements with police forces in England and Wales and the Police Service of Northern Ireland[^key-f2b460f678c41160dfac175a22ba8190]
+### 18. Transitional provisions: arrangements with police forces in England and Wales and the Police Service of Northern Ireland[^c-f2b460f678c41160dfac175a22ba8190]
 
 (1) Sub-paragraphs (2) to (4) apply to any arrangement—
 
@@ -260,7 +260,7 @@ Where a constable of the British Transport Police Force is, immediately before t
 
 (9) In this paragraph “England and Wales chief officer” means a chief officer of a police force maintained under the 1996 Act.
 
-### 19. Transitional and saving provision: costs of policing at gas facilities[^key-5ecd41dbbf881488f660b1f76ad65c00]
+### 19. Transitional and saving provision: costs of policing at gas facilities[^c-5ecd41dbbf881488f660b1f76ad65c00]
 
 (1) Any agreement made under section 13 of the 1967 Act[^f00284] in relation to the provision of extra police services subsisting immediately before the date this Order comes into force is, on and after that date, to continue to subsist subject to sub-paragraph (2).
 
@@ -276,7 +276,7 @@ Where a constable of the British Transport Police Force is, immediately before t
 
 ## Annotations
 
-[^key-47b4267ab683e74762bd623c70f03484]: Commencement: Sch. 3 para. 1 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-47b4267ab683e74762bd623c70f03484]: Commencement: Sch. 3 para. 1 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00245]: Footnote: [1968 c.27](https://www.legislation.gov.uk/ukpga/1968/27).
 
@@ -286,21 +286,21 @@ Where a constable of the British Transport Police Force is, immediately before t
 
 [^f00248]: Footnote: [1988 c.45](https://www.legislation.gov.uk/ukpga/1988/45). Section 12(1) was amended by the Firearms (Amendment) Act [1997 (c.5)](https://www.legislation.gov.uk/ukpga/1997/5), Schedule 2, paragraph 18.
 
-[^key-5b3ddc8c75e54dc00f7238bae213421b]: Commencement: Sch. 3 para. 2 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-5b3ddc8c75e54dc00f7238bae213421b]: Commencement: Sch. 3 para. 2 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00249]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29). Section 56(6) is amended by this Order, Schedule 1, paragraph 28. There are amendments to section 56(6) not relevant to this Order.
 
-[^key-d7d15b2b3d6f3616fd4e437f6a500551]: Commencement: Sch. 3 para. 3 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-d7d15b2b3d6f3616fd4e437f6a500551]: Commencement: Sch. 3 para. 3 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00250]: Footnote: [2000 c.23](https://www.legislation.gov.uk/ukpga/2000/23).
 
 [^f00251]: Footnote: [1967 c.77](https://www.legislation.gov.uk/ukpga/1967/77).
 
-[^key-49091e90422e0676dd4df7a66aea57e1]: Commencement: Sch. 3 para. 4 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-49091e90422e0676dd4df7a66aea57e1]: Commencement: Sch. 3 para. 4 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00252]: Footnote: [S.I. 2007/1098](https://www.legislation.gov.uk/uksi/2007/1098).
 
-[^key-28453fe8035436293ee528dde479746b]: Commencement: Sch. 3 para. 5 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-28453fe8035436293ee528dde479746b]: Commencement: Sch. 3 para. 5 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00253]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). There are amendments to section 97 not relevant to this Order.
 
@@ -308,25 +308,25 @@ Where a constable of the British Transport Police Force is, immediately before t
 
 [^f00255]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-fe8392e853c6458dfbbc117c9c4df79c]: Commencement: Sch. 3 para. 6 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-fe8392e853c6458dfbbc117c9c4df79c]: Commencement: Sch. 3 para. 6 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00256]: Footnote: [1987 c.4](https://www.legislation.gov.uk/ukpga/1987/4).
 
-[^key-e6a27a932f3b56fb805ecc274f6706b8]: Commencement: Sch. 3 para. 7 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-e6a27a932f3b56fb805ecc274f6706b8]: Commencement: Sch. 3 para. 7 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00257]: Footnote: [2003 c.20](https://www.legislation.gov.uk/ukpga/2003/20).
 
-[^key-8beea1c103ccccb45125fbcedb2d24ee]: Commencement: Sch. 3 para. 8 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-8beea1c103ccccb45125fbcedb2d24ee]: Commencement: Sch. 3 para. 8 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00258]: Footnote: [1976 c.63](https://www.legislation.gov.uk/ukpga/1976/63).
 
-[^key-34e25b92ae1a67aa601fbf4781e3da6f]: Commencement: Sch. 3 para. 9 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-34e25b92ae1a67aa601fbf4781e3da6f]: Commencement: Sch. 3 para. 9 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00259]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
 [^f00260]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52). Sections 116(4) and (4A) were inserted by the Armed Forces Act [2011 (c.18)](https://www.legislation.gov.uk/ukpga/2011/18), Schedule 3, paragraph 5(1).
 
-[^key-fe65583643db80b75efc1dd3e6f1f8ea]: Commencement: Sch. 3 para. 10 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-fe65583643db80b75efc1dd3e6f1f8ea]: Commencement: Sch. 3 para. 10 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00261]: Footnote: There are amendments to section 26 not relevant to this Order.
 
@@ -354,43 +354,43 @@ Where a constable of the British Transport Police Force is, immediately before t
 
 [^f00273]: Footnote: Section 38A(1)(d) was amended by the International Development Act [2002 (c.1)](https://www.legislation.gov.uk/ukpga/2002/1), Schedule 4, paragraph 1 and the Police, Public Order and Criminal Justice (Scotland) Act [2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), Schedule 6, paragraph 1(5)(a)(iii).
 
-[^key-4da739f766f04b3a0b44a383ebe260ae]: Commencement: Sch. 3 para. 11 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-4da739f766f04b3a0b44a383ebe260ae]: Commencement: Sch. 3 para. 11 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00274]: Footnote: Section 32A was inserted by the Police and Magistrates’ Courts Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29), section 56 and was amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 71(14) and [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), Schedule 5, paragraph 2(2).
 
-[^key-77db403a80bb108b9d9d22dde5182e1a]: Commencement: Sch. 3 para. 12 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-77db403a80bb108b9d9d22dde5182e1a]: Commencement: Sch. 3 para. 12 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00275]: Footnote: [2005 asp 5](https://www.legislation.gov.uk/asp/2005/5).
 
 [^f00276]: Footnote: [2006 asp 10](https://www.legislation.gov.uk/asp/2006/10).
 
-[^key-fc1d787882e7c0758baf5636b649d84c]: Commencement: Sch. 3 para. 13 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-fc1d787882e7c0758baf5636b649d84c]: Commencement: Sch. 3 para. 13 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00277]: Footnote: Section 2A was inserted by the Anti-terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24), section 99. There are amendments to section 2A not relevant to this Order.
 
-[^key-8a214ad86fba64de50bbf0e521211f33]: Commencement: Sch. 3 para. 14 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-8a214ad86fba64de50bbf0e521211f33]: Commencement: Sch. 3 para. 14 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00278]: Footnote: Section 11 was amended by the Anti-terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24), Schedule 7, paragraph 2, and [S.I. 2004/1573](https://www.legislation.gov.uk/uksi/2004/1573), article 12(1)(a).
 
-[^key-7fef21465f4f926b4124670723b036e6]: Commencement: Sch. 3 para. 15 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-7fef21465f4f926b4124670723b036e6]: Commencement: Sch. 3 para. 15 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00279]: Footnote: [2001 c.24](https://www.legislation.gov.uk/ukpga/2001/24). Section 100 was amended by the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), Schedule 14, paragraph 10(3) and Schedule 23, paragraph 1.
 
-[^key-c2c20bae8e7739cc42cd75fbfb8cec58]: Commencement: Sch. 3 para. 16 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-c2c20bae8e7739cc42cd75fbfb8cec58]: Commencement: Sch. 3 para. 16 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00280]: Footnote: Section 12 was amended by the Anti-terrorism, Crime and Security Act 2001, (c.24), Schedule 7, paragraph 3, the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), Schedule 14, paragraph 2 and [S.I. 2004/1573](https://www.legislation.gov.uk/uksi/2004/1573), article 12(2).
 
-[^key-d78573a5acaba2b4451ae252c86578ce]: Commencement: Sch. 3 para. 17 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-d78573a5acaba2b4451ae252c86578ce]: Commencement: Sch. 3 para. 17 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00281]: Footnote: Section 2(1) was amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 71(3) and the Local Government (Miscellaneous Provisions) (Scotland) Act [1981 (c.23)](https://www.legislation.gov.uk/ukpga/1981/23), Schedule 2, paragraph 12.
 
 [^f00282]: Footnote: There are amendments to section 19 which are not relevant to this Order.
 
-[^key-f2b460f678c41160dfac175a22ba8190]: Commencement: Sch. 3 para. 18 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-f2b460f678c41160dfac175a22ba8190]: Commencement: Sch. 3 para. 18 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00283]: Footnote: There are amendments to section 98 not relevant to this Order.
 
-[^key-5ecd41dbbf881488f660b1f76ad65c00]: Commencement: Sch. 3 para. 19 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-5ecd41dbbf881488f660b1f76ad65c00]: Commencement: Sch. 3 para. 19 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00284]: Footnote: Section 13 was amended by the Civic Government (Scotland) Act [1982 (c.45)](https://www.legislation.gov.uk/ukpga/1982/45), section 77(1) and extended by section 85(1) of that Act.
 

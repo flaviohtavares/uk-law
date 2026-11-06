@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Opening of or taking up of business by a representative office, branch or subsidiary of DPRK credit or financial institution[^key-08bdc320cfdf4d4436048211cd3fcbec][^key-9e558c73994b6dabc78877e61b2c8234]
+## 20. Opening of or taking up of business by a representative office, branch or subsidiary of DPRK credit or financial institution[^c-08bdc320cfdf4d4436048211cd3fcbec][^c-9e558c73994b6dabc78877e61b2c8234]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08bdc320cfdf4d4436048211cd3fcbec]: Commencement: Reg. 20 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-08bdc320cfdf4d4436048211cd3fcbec]: Commencement: Reg. 20 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-9e558c73994b6dabc78877e61b2c8234]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/411/regulation/20) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e558c73994b6dabc78877e61b2c8234]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/411/regulation/20) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

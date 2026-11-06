@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Enforcement notices[^key-23e2ebea01ed660c4946d8105222638e]
+## 52. Enforcement notices[^c-23e2ebea01ed660c4946d8105222638e]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) In paragraph (1), “relevant requirement” means—
 
 - (a) a requirement imposed on the person by or under this Order, or
-- (b) a condition of an Emissions Monitoring Plan[^key-55ec9eb6217f4ba709f98bd1b417a4ff].
+- (b) a condition of an Emissions Monitoring Plan[^c-55ec9eb6217f4ba709f98bd1b417a4ff].
 
 (3) An enforcement notice must set out—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23e2ebea01ed660c4946d8105222638e]: Commencement: Art. 52 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-23e2ebea01ed660c4946d8105222638e]: Commencement: Art. 52 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-55ec9eb6217f4ba709f98bd1b417a4ff]: Textual amendment: Words in [art. 52(2)(b)](https://www.legislation.gov.uk/uksi/2021/534/article/52/2/b) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [25](https://www.legislation.gov.uk/uksi/2022/1050/article/25)
+[^c-55ec9eb6217f4ba709f98bd1b417a4ff]: Textual amendment: Words in [art. 52(2)(b)](https://www.legislation.gov.uk/uksi/2021/534/article/52/2/b) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [25](https://www.legislation.gov.uk/uksi/2022/1050/article/25)

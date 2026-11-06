@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.132. Removal of trustee by the court[^key-bf3cd90aac64f1d096b6a55dad790d3a]
+## 6.132. Removal of trustee by the court[^c-bf3cd90aac64f1d096b6a55dad790d3a]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ If the application is not dismissed under this paragraph, the court shall fix a 
 
 ## Annotations
 
-[^key-bf3cd90aac64f1d096b6a55dad790d3a]: Commencement: [Rule 6.132](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.132) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-bf3cd90aac64f1d096b6a55dad790d3a]: Commencement: [Rule 6.132](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.132) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00170]: Marginal citation: \[FORM 6.48\]

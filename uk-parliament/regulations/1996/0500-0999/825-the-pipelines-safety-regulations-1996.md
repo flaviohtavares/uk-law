@@ -46,20 +46,20 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-7ba679fdc43ac6c0d08c71d6d0e713cb]
+### 1. Citation and commencement[^c-7ba679fdc43ac6c0d08c71d6d0e713cb]
 
 These Regulations may be cited as the Pipelines Safety Regulations 1996 and shall come into force on 11th April 1996.
 
-### 2. Interpretation[^key-11a79b6e2078f42a688ac12425109602]
+### 2. Interpretation[^c-11a79b6e2078f42a688ac12425109602]
 
-(1)[^key-2ad8919426e37f26c99f6b2bfdd5a4f2][^key-80ee27061acdfe5b20d9621b4e3a06d0] In these Regulations, unless the context otherwise requires—
+(1)[^c-2ad8919426e37f26c99f6b2bfdd5a4f2][^c-80ee27061acdfe5b20d9621b4e3a06d0] In these Regulations, unless the context otherwise requires—
 
 - “dangerous fluid” has the meaning given by regulation 18(2);
 - “emergency shut-down valve” means a valve which is capable of adequately blocking the flow of fluid within the pipeline at the point at which it is incorporated;
 - “the Executive” means the Health and Safety Executive;
 - “fluid” includes a mixture of fluids;
 - “local authority” means—
-  - (a) in relation to England, a county council, a council having the functions of a county council, the London Fire Commissioner[^key-650b12ad3ccaff500cd07875b08f7ce3], a metropolitan county fire and civil defence authority, or the Council for the Isles of Scilly;
+  - (a) in relation to England, a county council, a council having the functions of a county council, the London Fire Commissioner[^c-650b12ad3ccaff500cd07875b08f7ce3], a metropolitan county fire and civil defence authority, or the Council for the Isles of Scilly;
   - (b) in relation to Scotland, the council for a local government area; and
   - (c) in relation to Wales, a county council or a county borough council;
 - “major accident” means death or serious injury involving a dangerous fluid;
@@ -75,7 +75,7 @@ These Regulations may be cited as the Pipelines Safety Regulations 1996 and shal
 - (a) a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered; and
 - (b) a numbered paragraph is reference to the paragraph so numbered in the regulation or Schedule in which the reference appears.
 
-### 3. Meaning of “pipeline”[^key-6612299d23110cdd66b1bf9eac2e9ca8]
+### 3. Meaning of “pipeline”[^c-6612299d23110cdd66b1bf9eac2e9ca8]
 
 (1) Subject to the provisions of this regulation, in these Regulations “pipeline” means a pipe or system of pipes (together with any apparatus and works, of a kind described in paragraph (2), associated with it) for the conveyance of any fluid, not being—
 
@@ -102,7 +102,7 @@ These Regulations may be cited as the Pipelines Safety Regulations 1996 and shal
 - “emergency control” means a valve for shutting off the supply of gas in an emergency, being a valve intended for use by a consumer of gas;
 - “gas” has the same meaning as it has in Part I of the Gas Act 1986[^f00002].
 
-### 4. Application[^key-863bdf9fa1a0ae3694006091bb43243f]
+### 4. Application[^c-863bdf9fa1a0ae3694006091bb43243f]
 
 (1) Subject to paragraph (2), these Regulations shall apply—
 
@@ -115,7 +115,7 @@ These Regulations may be cited as the Pipelines Safety Regulations 1996 and shal
 
 ## PART II — GENERAL
 
-### 5. Design of a pipeline[^key-8a1388ba539325d5cdc2dbe3e51a96a8]
+### 5. Design of a pipeline[^c-8a1388ba539325d5cdc2dbe3e51a96a8]
 
 The operator shall ensure that no fluid is conveyed in a pipeline unless it has been so designed that, so far as is reasonably practicable, it can withstand—
 
@@ -123,27 +123,27 @@ The operator shall ensure that no fluid is conveyed in a pipeline unless it has 
 - (b) the fluids that may be conveyed in it; and
 - (c) the external forces and the chemical processes to which it may be subjected.
 
-### 6. Safety systems[^key-24e1176d1e5a39c4f6bd0de84706f0c2]
+### 6. Safety systems[^c-24e1176d1e5a39c4f6bd0de84706f0c2]
 
 The operator shall ensure that no fluid is conveyed in a pipeline unless it has been provided with such safety systems as are necessary for securing that, so far as is reasonably practicable, persons are protected from risk to their health or safety.
 
-### 7. Access for examination and maintenance[^key-9a1503e146c333d61d651556e0edba99]
+### 7. Access for examination and maintenance[^c-9a1503e146c333d61d651556e0edba99]
 
 The operator shall ensure that no fluid is conveyed in a pipeline unless it has been so designed that, so far as is reasonably practicable, it may be examined and work of maintenance may be carried out safely.
 
-### 8. Materials[^key-fdbd26e310206d120fed9994cb50ca88]
+### 8. Materials[^c-fdbd26e310206d120fed9994cb50ca88]
 
 The operator shall ensure that no fluid is conveyed in a pipeline unless it is composed of materials which are suitable.
 
-### 9. Construction and installation[^key-c549be18647afb10a3616198c9538430]
+### 9. Construction and installation[^c-c549be18647afb10a3616198c9538430]
 
 The operator shall ensure that no fluid is conveyed in a pipeline (save for the purpose of testing it) unless it has been so constructed and installed that, so far as is reasonably practicable, it is sound and fit for the purpose for which it has been designed.
 
-### 10. Work on a pipeline[^key-40d222466f9888ff6a02a12cce475ff5]
+### 10. Work on a pipeline[^c-40d222466f9888ff6a02a12cce475ff5]
 
 The operator shall ensure that modification, maintenance or other work on a pipeline is carried out in such a way that its soundness and fitness for the purpose for which it has been designed will not be prejudiced.
 
-### 11. Operation of a pipeline[^key-8da9c8cfdc9e2f67b286ccf50d94826c]
+### 11. Operation of a pipeline[^c-8da9c8cfdc9e2f67b286ccf50d94826c]
 
 The operator shall ensure that—
 
@@ -152,7 +152,7 @@ The operator shall ensure that—
 
 save for the purpose of testing it.
 
-### 12. Arrangements for incidents and emergencies[^key-0a604e1e6821a8dbb527fbfb86d91626]
+### 12. Arrangements for incidents and emergencies[^c-0a604e1e6821a8dbb527fbfb86d91626]
 
 The operator shall ensure that no fluid is conveyed in a pipeline unless adequate arrangements have been made for dealing with—
 
@@ -162,11 +162,11 @@ The operator shall ensure that no fluid is conveyed in a pipeline unless adequat
 
 the pipeline.
 
-### 13. Maintenance[^key-4594fd5a56a270e861d6d0cab55c7427]
+### 13. Maintenance[^c-4594fd5a56a270e861d6d0cab55c7427]
 
 The operator shall ensure that a pipeline is maintained in an efficient state, in efficient working order and in good repair.
 
-### 13A. Iron pipelines[^key-0dea093f9160c39139f0c937b309e05d]
+### 13A. Iron pipelines[^c-0dea093f9160c39139f0c937b309e05d]
 
 (1) Subject to paragraph (3), the Executive shall approve—
 
@@ -200,33 +200,33 @@ if it is satisfied that the programme or modified programme is suitable and suff
 
 (8) In paragraph (7) “iron” does not include steel.
 
-### 14. Decommissioning[^key-7fa4a7288f6deab5d410cb75db5ac868]
+### 14. Decommissioning[^c-7fa4a7288f6deab5d410cb75db5ac868]
 
 (1) The operator shall ensure that a pipeline which has ceased to be used for the conveyance of any fluid is left in a safe condition.
 
 (2) The operator of a pipeline shall ensure that work done in discharge of the duty contained in paragraph (1) is performed safely.
 
-### 15. Damage to pipeline[^key-479c8d6909a3c3c1986aae9117904b2c]
+### 15. Damage to pipeline[^c-479c8d6909a3c3c1986aae9117904b2c]
 
 No person shall cause such damage to a pipeline as may give rise to a danger to persons.
 
-### 16. Prevention of damage to pipelines[^key-0de671e40de6ae48c045320ae0354bc4]
+### 16. Prevention of damage to pipelines[^c-0de671e40de6ae48c045320ae0354bc4]
 
 For the purpose of ensuring that no damage is caused to a pipeline, the operator shall take such steps to inform persons of its existence and whereabouts as are reasonable.
 
-### 17. Co-operation[^key-4e7970dc4d9a3c27848a32a8b850b92d]
+### 17. Co-operation[^c-4e7970dc4d9a3c27848a32a8b850b92d]
 
 Where there are different operators for different parts of a pipeline, each operator shall co-operate with the other so far as is necessary to enable the operators to comply with the requirements of these Regulations.
 
 ## PART III — MAJOR ACCIDENT HAZARD PIPELINES
 
-### 18. Dangerous fluids[^key-a07c593c378e66124381b18c656664f1]
+### 18. Dangerous fluids[^c-a07c593c378e66124381b18c656664f1]
 
 (1) The provisions contained in regulations 19 to 27 shall apply in relation to a pipeline in which a dangerous fluid is being, or is to be conveyed (in these Regulations referred to as a “major accident hazard pipeline”).
 
 (2) For the purpose of these Regulations a fluid is a dangerous fluid if it falls within a description in Schedule 2.
 
-### 19. Emergency shut-down valves[^key-ef9f03e317bc81e30ca2ad191601f897]
+### 19. Emergency shut-down valves[^c-ef9f03e317bc81e30ca2ad191601f897]
 
 (1) The operator of a major accident hazard pipeline which—
 
@@ -242,15 +242,15 @@ shall ensure that the requirements contained in Schedule 3 are complied with in 
 - “duty holder”, in relation to an offshore installation, means the person who is the duty holder as defined by regulation 2(1) of the 1995 Regulations in relation to that installation;
 - “the 1995 Regulations” means the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995[^f00005].
 
-### 20. Notification before construction[^key-9c92d456438ade47d324a5d3df51c0cd]
+### 20. Notification before construction[^c-9c92d456438ade47d324a5d3df51c0cd]
 
 The operator shall ensure that the construction of a major accident hazard pipeline is not commenced unless he has notified to the Executive the particulars specified in Schedule 4 at least 6 months, or such shorter time as the Executive may approve, before such commencement.
 
-### 21. Notification before use[^key-e23ddda772254df0311edb3b96fd1da8]
+### 21. Notification before use[^c-e23ddda772254df0311edb3b96fd1da8]
 
 The operator shall ensure that no fluid is conveyed in a major accident hazard pipeline, or conveyed following a period in which it has been out of commission (other than for routine maintenance), until the expiration of 14 days, or of such shorter period as the Executive may in that case approve, from the receipt by it of a notification of the date on which it is intended to convey or, as the case may be, resume the conveyance of fluid in the pipeline.
 
-### 22. Notification in other cases[^key-a52c41b4805921c4119e8906c344d682]
+### 22. Notification in other cases[^c-a52c41b4805921c4119e8906c344d682]
 
 (1) Where there is a change of operator of a major accident hazard pipeline, or of his address, the operator shall notify such change to the Executive within 14 days thereafter.
 
@@ -258,7 +258,7 @@ The operator shall ensure that no fluid is conveyed in a major accident hazard p
 
 (3) Where an event of a kind described in Schedule 5 takes place in an emergency, the operator shall notify to the Executive the particulars specified in that Schedule as soon as is reasonably practicable.
 
-### 23. Major accident prevention document[^key-a353b384efe17a8e28a9daad76471a90]
+### 23. Major accident prevention document[^c-a353b384efe17a8e28a9daad76471a90]
 
 (1) The operator shall, before the design of a major accident hazard pipeline is completed prepare, and thereafter revise or replace as often as may be appropriate, a document relating to the pipeline containing, subject to paragraph (2), sufficient particulars to demonstrate that—
 
@@ -276,7 +276,7 @@ The operator shall ensure that no fluid is conveyed in a major accident hazard p
 - “audit” means systematic assessment of the adequacy of the safety management system, carried out by persons who are sufficiently independent of the system (but who may be employed by the operator) to ensure that such assessment is objective; and
 - “safety management system” means the organisation, arrangements and procedures established by the operator for ensuring that the risk of a major accident is as low as is reasonably practicable.
 
-### 24. Emergency procedures[^key-99abc24123eaba55be1a4d4404387264]
+### 24. Emergency procedures[^c-99abc24123eaba55be1a4d4404387264]
 
 (1) The operator shall ensure that no fluid is conveyed in a major accident hazard pipeline unless—
 
@@ -289,13 +289,13 @@ in the event of an emergency relating to the pipeline have been established and 
 
 (3) The operator shall ensure that the organisation, arrangements and procedures referred to in paragraph (1) are tested, by practice or otherwise, as often as may be appropriate.
 
-### 25. Emergency plans in case of major accidents[^key-84ef74a2423feb5e7325d194048564f0]
+### 25. Emergency plans in case of major accidents[^c-84ef74a2423feb5e7325d194048564f0]
 
 (1) A local authority which has been notified by the Executive that there is, or is to be a major accident hazard pipeline in its area shall before the pipeline is first used or within 9 months of such notification, whichever is later, and subject to paragraph (5), prepare an adequate plan detailing how an emergency relating to a possible major accident in its area will be dealt with.
 
 (2) In preparing the plan pursuant to paragraph (1) a local authority shall consult the operator of the pipeline, the Executive and any other persons as appear to the authority to be appropriate.
 
-(3)[^key-cc91e814d548aa210e46cc953b9e9ec3] A local authority which has prepared a plan pursuant to paragraph (1) shall, as often as is appropriate and, in any case, at least every three years review the plan and make such revision as is appropriate.
+(3)[^c-cc91e814d548aa210e46cc953b9e9ec3] A local authority which has prepared a plan pursuant to paragraph (1) shall, as often as is appropriate and, in any case, at least every three years review the plan and make such revision as is appropriate.
 
 (4) The operator of a major accident hazard pipeline shall ensure that every local authority through whose area the pipeline will pass is furnished promptly with such information as it may reasonably require in preparing the plan referred to in paragraph (1).
 
@@ -303,7 +303,7 @@ in the event of an emergency relating to the pipeline have been established and 
 
 (6) Where a pipeline passes or is to pass through the areas of two or more local authorities the duties under this regulation may be discharged by them where they prepare a single plan.
 
-### 26. Charge by a local authority for a plan[^key-647c69be4539408979624443d1a844f2]
+### 26. Charge by a local authority for a plan[^c-647c69be4539408979624443d1a844f2]
 
 (1) A local authority which prepares, reviews or revises a plan pursuant to paragraph (1) or (3) of regulation 25 may charge a fee, determined in accordance with paragraphs (2) to (4), to the operator of the pipeline to which the plan relates.
 
@@ -315,7 +315,7 @@ in the event of an emergency relating to the pipeline have been established and 
 
 (5) When requiring payment the local authority shall send or give to the operator of the pipeline a detailed statement of the work done and costs incurred including the date of any visit to any place and the period to which the statement relates; and the fee, which shall be recoverable only as a civil debt, shall become payable one month after the statement has been sent or given.
 
-### 27. Transitional provision[^key-d34b5d629f64a9a99a66f69ab7b7d2c4]
+### 27. Transitional provision[^c-d34b5d629f64a9a99a66f69ab7b7d2c4]
 
 (1) In the case of a pipeline, the construction of which is commenced within 6 months after the coming into force of these Regulations, it shall be sufficient compliance with regulation 20 if the particulars specified in Schedule 4 are notified to the Executive within 3 months after the coming into force of these Regulations.
 
@@ -331,7 +331,7 @@ in the event of an emergency relating to the pipeline have been established and 
 
 ## PART IV — MISCELLANEOUS
 
-### 28. Defence[^key-6653328d396ba6e907940c9df8fd8aa7]
+### 28. Defence[^c-6653328d396ba6e907940c9df8fd8aa7]
 
 (1) In any proceedings for an offence for a contravention of any of the provisions of these Regulations it shall, subject to paragraphs (2) and (3), be a defence for the person charged to prove—
 
@@ -347,7 +347,7 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 (3) For the purpose of enabling the other person to be charged with and convicted of the offence by virtue of section 36 of the 1974 Act, a person who establishes a defence under this regulation shall nevertheless be treated for the purposes of that section as having committed the offence.
 
-### 29. Certificates of exemption[^key-2f1fff26d6cf709d6f812eba66d0d061]
+### 29. Certificates of exemption[^c-2f1fff26d6cf709d6f812eba66d0d061]
 
 (1) Subject to paragraph (2) and to any of the provisions imposed by the Communities in respect of the encouragement of improvements in the safety and health of workers at work, the Executive may, by a certificate in writing, exempt any person, pipeline or class of persons or pipelines from any requirement or prohibition imposed by these Regulations and any such exemption may be granted subject to conditions and with or without limit of time and may be revoked by a certificate in writing at any time.
 
@@ -358,11 +358,11 @@ he has served on the prosecutor a notice in writing giving such information iden
 
 it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-### 30. Repeal of provisions of the Pipe-lines Act 1962[^key-d27f2cfc328ef331f30853d32162f710]
+### 30. Repeal of provisions of the Pipe-lines Act 1962[^c-d27f2cfc328ef331f30853d32162f710]
 
 Sections 20 to 26, 27 to 32 and 42 of the Pipe-lines Act 1962[^f00007] are hereby repealed.
 
-### 31. Revocation and modification of instruments[^key-c0f6710680d4d96ea3fbab562599cf13]
+### 31. Revocation and modification of instruments[^c-c0f6710680d4d96ea3fbab562599cf13]
 
 (1) The instruments specified in column 1 of Part I of Schedule 6 shall be revoked to the extent specified in column 3 of that Part.
 
@@ -382,60 +382,60 @@ Department of the Environment
 
 Regulation 4(2)
 
-**1.**[^key-dc25dcc5501362a83be10c31b2729ebf] A pipeline for the conveyance of air, water vapour or steam.
+**1.**[^c-dc25dcc5501362a83be10c31b2729ebf] A pipeline for the conveyance of air, water vapour or steam.
 
-**2.**[^key-659bac7bb12cf76d17cd3098133cdcd2] A pipeline for the conveyance of water, other than for the purpose of injecting water into an underwater well or reservoir containing mineral resources.
+**2.**[^c-659bac7bb12cf76d17cd3098133cdcd2] A pipeline for the conveyance of water, other than for the purpose of injecting water into an underwater well or reservoir containing mineral resources.
 
-**3.**[^key-e915dbe66f3603b0fffa48be66c6c7a0] A pipeline contained wholly within the premises occupied by a single undertaking.
+**3.**[^c-e915dbe66f3603b0fffa48be66c6c7a0] A pipeline contained wholly within the premises occupied by a single undertaking.
 
-**4.**[^key-92e59f3dab1c33184a70487e151c0685] A pipeline which is contained wholly within land which constitutes a railway asset within the meaning of section 6(2) of the Railways Act 1993[^f00008].
+**4.**[^c-92e59f3dab1c33184a70487e151c0685] A pipeline which is contained wholly within land which constitutes a railway asset within the meaning of section 6(2) of the Railways Act 1993[^f00008].
 
-**5.**[^key-43050e9440aa68710c49f0e697d7d526] A pipeline contained wholly within a caravan site.
+**5.**[^c-43050e9440aa68710c49f0e697d7d526] A pipeline contained wholly within a caravan site.
 
-**6.**[^key-ecefe43f837c7ef4cf9bbe639b98747d] In this Schedule “caravan” and “caravan site” have the same meaning as they have in Part I of the Caravan Sites and Control of Development Act 1960[^f00009].
+**6.**[^c-ecefe43f837c7ef4cf9bbe639b98747d] In this Schedule “caravan” and “caravan site” have the same meaning as they have in Part I of the Caravan Sites and Control of Development Act 1960[^f00009].
 
 ## SCHEDULE 2 — DESCRIPTIONS OF DANGEROUS FLUIDS
 
 Regulations 18(2) and 27(3)
 
-**1.**[^key-7518247d550a880310440762852af528] A fluid which—
+**1.**[^c-7518247d550a880310440762852af528] A fluid which—
 
 - (a) is flammable in air;
 - (b) has a boiling point below 5°C, at 1 bar absolute; and
 - (c) is or is to be conveyed in the pipeline as a liquid.
 
-**2.**[^key-f68bc320deb413a4aeb9ffac37f8dc27] A fluid which is flammable in air and is or is to be conveyed in the pipeline as a gas at above 8 bar absolute.
+**2.**[^c-f68bc320deb413a4aeb9ffac37f8dc27] A fluid which is flammable in air and is or is to be conveyed in the pipeline as a gas at above 8 bar absolute.
 
-**3.**[^key-08a155e5cd0728185e078a4f4593d1db] A liquid which has a vapour pressure greater than 1.5 bar absolute when in equilibrium with its vapour at either the actual temperature of the liquid or at 20°C.
+**3.**[^c-08a155e5cd0728185e078a4f4593d1db] A liquid which has a vapour pressure greater than 1.5 bar absolute when in equilibrium with its vapour at either the actual temperature of the liquid or at 20°C.
 
-**4.**[^key-1b04c27738457a7f40d6a573532aaf14] A toxic or very toxic fluid which—
+**4.**[^c-1b04c27738457a7f40d6a573532aaf14] A toxic or very toxic fluid which—
 
 - (a) is a gas at 20°C and 1 bar absolute; and
 - (b) is, or is to be, conveyed as a liquid or a gas.
 
-**5.**[^key-7f383a4e3f8ced1a013271e7c4d5fb1a] A toxic fluid which—
+**5.**[^c-7f383a4e3f8ced1a013271e7c4d5fb1a] A toxic fluid which—
 
 - (a) at 20°C has a saturated vapour pressure greater than 0.4bar; and
 - (b) is, or is to be, conveyed in the pipeline as a liquid.
 
-**6.**[^key-f3b477d654d4ca61c3879043bf635a72] Acrylonitrile.
+**6.**[^c-f3b477d654d4ca61c3879043bf635a72] Acrylonitrile.
 
-**7.**[^key-7e0575e0eceaa7be157c70c1136d7f6d] A very toxic fluid which—
+**7.**[^c-7e0575e0eceaa7be157c70c1136d7f6d] A very toxic fluid which—
 
 - (a) at 20°C has a saturated vapour pressure greater than 0.001 bar; or
 - (b) is, or is to be, conveyed in the pipeline as a liquid at a pressure greater than 4.5bar absolute.
 
-**8.**[^key-3ced3fc08c4828fe9f60aee7f11175ef] An oxidising fluid which is, or is to be, conveyed as a liquid.
+**8.**[^c-3ced3fc08c4828fe9f60aee7f11175ef] An oxidising fluid which is, or is to be, conveyed as a liquid.
 
-**9.**[^key-85f3b3a20b9ee828333df662c4f92d5a] A fluid which reacts violently with water.
+**9.**[^c-85f3b3a20b9ee828333df662c4f92d5a] A fluid which reacts violently with water.
 
-**9A.**[^key-a121f0e9bba8d14d82658b646ef48b20] Carbon dioxide which—
+**9A.**[^c-a121f0e9bba8d14d82658b646ef48b20] Carbon dioxide which—
 
 - (a) is in any fluid state;
 - (b) includes mixtures which consist predominantly of carbon dioxide; and
 - (c) is used exclusively for the purposes of carbon capture, utilisation and storage operations, and associated activities.
 
-**10.**[^key-5ffae566a416ff8ebe33ed3eb03489cc] (1) For the purposes of this Schedule—
+**10.**[^c-5ffae566a416ff8ebe33ed3eb03489cc] (1) For the purposes of this Schedule—
 
 - (a) a liquid is oxidising if it meets the criteria set out in Annex I to the CLP Regulation (“the Annex”) for classification in either of the following hazard classes—
   - (i) oxidising liquids of category 1, 2 or 3; or
@@ -453,74 +453,74 @@ Regulations 18(2) and 27(3)
 
 Regulation 19
 
-**1.**[^key-4e0bdedf13d2c176f61296e93c4df608] An emergency shut-down valve shall be incorporated in the riser of a pipeline—
+**1.**[^c-4e0bdedf13d2c176f61296e93c4df608] An emergency shut-down valve shall be incorporated in the riser of a pipeline—
 
 - (a) in a position in which it can be safely inspected, maintained and tested; and
 - (b) so far as this is consistent with sub-paragraph (a), as far down the riser as is reasonably practicable;
 
 and such valve shall comply with the remaining paragraphs of this Schedule.
 
-**2.**[^key-dcd885727014bcc0b777fcf5d7ccd951] An emergency shut-down valve shall be held open by an electrical, hydraulic or other signal to the mechanism for actuating the valve on the failure of which signal the valve shall automatically close.
+**2.**[^c-dcd885727014bcc0b777fcf5d7ccd951] An emergency shut-down valve shall be held open by an electrical, hydraulic or other signal to the mechanism for actuating the valve on the failure of which signal the valve shall automatically close.
 
-**3.**[^key-08abcf09e6380a2d2140a7847e03b853] An emergency shut-down valve shall also be capable of being closed—
+**3.**[^c-08abcf09e6380a2d2140a7847e03b853] An emergency shut-down valve shall also be capable of being closed—
 
 - (a) by a person positioned by it; and
 - (b) automatically by the operation of the emergency shut-down system of the offshore installation to which the pipeline is connected,
 
 or, while relevant work of examination or maintenance is being carried out, by one of those means.
 
-**4.**[^key-db88e551c01936e666c764063d1d0a0b] If the pipeline is designed to allow for the passage of equipment for inspecting, maintaining or testing the pipeline, the emergency shut-down valve shall also be designed to allow for such passage.
+**4.**[^c-db88e551c01936e666c764063d1d0a0b] If the pipeline is designed to allow for the passage of equipment for inspecting, maintaining or testing the pipeline, the emergency shut-down valve shall also be designed to allow for such passage.
 
-**5.**[^key-83002f54c251a641df26b8e1c90ace19] An emergency shut-down valve and its actuating mechanism shall so far as is reasonably practicable be protected from damage arising from fire, explosion or impact.
+**5.**[^c-83002f54c251a641df26b8e1c90ace19] An emergency shut-down valve and its actuating mechanism shall so far as is reasonably practicable be protected from damage arising from fire, explosion or impact.
 
-**6.**[^key-1b47d5960e425656edf687b6f67dab70] An emergency shut-down valve shall be maintained in an efficient state, in efficient working order and in good repair.
+**6.**[^c-1b47d5960e425656edf687b6f67dab70] An emergency shut-down valve shall be maintained in an efficient state, in efficient working order and in good repair.
 
-**7.**[^key-2ee3347054b82e38a97b636e691c47d5] After an emergency shut-down valve has operated so as to block the flow of fluid within the pipeline it shall not be re-opened so as to permit the flow of fluid until steps have been taken to ensure that it is safe to do so.
+**7.**[^c-2ee3347054b82e38a97b636e691c47d5] After an emergency shut-down valve has operated so as to block the flow of fluid within the pipeline it shall not be re-opened so as to permit the flow of fluid until steps have been taken to ensure that it is safe to do so.
 
-**8.**[^key-7576f183d0b264fdf506cbe316459fab] In this Schedule “emergency shut-down system” means the system comprising mechanical, electrical, electronic, pneumatic, hydraulic or other arrangements by which the plant on an offshore installation is automatically shut down in the event of an emergency.
+**8.**[^c-7576f183d0b264fdf506cbe316459fab] In this Schedule “emergency shut-down system” means the system comprising mechanical, electrical, electronic, pneumatic, hydraulic or other arrangements by which the plant on an offshore installation is automatically shut down in the event of an emergency.
 
 ## SCHEDULE 4 — PARTICULARS TO BE INCLUDED IN NOTIFICATION RELATING TO CONSTRUCTION OF A MAJOR ACCIDENT HAZARD PIPELINE
 
 Regulations 20 and 27(1) and (2)
 
-**1.**[^key-f5947ba898e6cbcfc5b0b9c72f465b47] The name and address of the operator of the pipeline.
+**1.**[^c-f5947ba898e6cbcfc5b0b9c72f465b47] The name and address of the operator of the pipeline.
 
-**2.**[^key-48332680ebb1d40400e2d747e9e934a4] The proposed route of the pipeline in the form of maps or drawings.
+**2.**[^c-48332680ebb1d40400e2d747e9e934a4] The proposed route of the pipeline in the form of maps or drawings.
 
-**3.**[^key-049b49fdd2214d809ff6b157bf34ee8b] The proposed route of the riser on any offshore installation, in the form of drawings.
+**3.**[^c-049b49fdd2214d809ff6b157bf34ee8b] The proposed route of the riser on any offshore installation, in the form of drawings.
 
-**4.**[^key-4e0bd0cfc909dad4d700d3c85f74d68d] The length, diameter and wall thickness of the pipeline.
+**4.**[^c-4e0bd0cfc909dad4d700d3c85f74d68d] The length, diameter and wall thickness of the pipeline.
 
-**5.**[^key-6ab7950cf665c8d726f16e4a2788bf03] The materials to be used in the construction of the pipeline.
+**5.**[^c-6ab7950cf665c8d726f16e4a2788bf03] The materials to be used in the construction of the pipeline.
 
-**6.**[^key-8dda3d3f959b8881b32886e7a0a9286a] The fluid to be conveyed and such of its properties as are relevant to health and safety.
+**6.**[^c-8dda3d3f959b8881b32886e7a0a9286a] The fluid to be conveyed and such of its properties as are relevant to health and safety.
 
-**7.**[^key-91318325f6bd550891884ac18c880f70] The safe operating limits of the pipeline.
+**7.**[^c-91318325f6bd550891884ac18c880f70] The safe operating limits of the pipeline.
 
-**8.**[^key-7a139b299d5ced90a65ebc8cd077adbb] The intended temperature, pressure, and maximum rate of flow of the fluid to be conveyed.
+**8.**[^c-7a139b299d5ced90a65ebc8cd077adbb] The intended temperature, pressure, and maximum rate of flow of the fluid to be conveyed.
 
 ## SCHEDULE 5 — PARTICULARS TO BE NOTIFIED BEFORE CERTAIN EVENTS RELATING TO MAJOR ACCIDENT HAZARD PIPELINES
 
 Regulation 22(2) and (3)
 
-**1.**[^key-6461150d90ddf868b8971d8a049fcb77] In relation to a change to the route or position of a pipeline, particulars in the form of maps or drawings of the new route or position.
+**1.**[^c-6461150d90ddf868b8971d8a049fcb77] In relation to a change to the route or position of a pipeline, particulars in the form of maps or drawings of the new route or position.
 
-**2.**[^key-48dc2e6a1c4196b3fb6dbf73c6f61f60] In relation to a change to the safe operating limits of a pipeline, particulars of such change.
+**2.**[^c-48dc2e6a1c4196b3fb6dbf73c6f61f60] In relation to a change to the safe operating limits of a pipeline, particulars of such change.
 
-**3.**[^key-4f61c6cdbe3bd392ebeb276f712d1813] In relation to the start of major modification or major remedial work to the pipeline, particulars of such work.
+**3.**[^c-4f61c6cdbe3bd392ebeb276f712d1813] In relation to the start of major modification or major remedial work to the pipeline, particulars of such work.
 
-**4.**[^key-8a612d9510d2e6c53611fea6d3b9dcb7] In relation to the conveyance of a new fluid, particulars of—
+**4.**[^c-8a612d9510d2e6c53611fea6d3b9dcb7] In relation to the conveyance of a new fluid, particulars of—
 
 - (a) such of its properties as are relevant to the health or safety of persons; and
 - (b) the intended or (if, in a case to which regulation 22(3) applies, conveyance has started) actual temperature, pressure and maximum rate of flow in the pipeline.
 
-**5.**[^key-2f2808d6ffa0040841488f54dfe1a52c] In relation to the start of decommissioning or dismantlement of the pipeline, particulars of the steps to be taken or (if, in a case to which regulation 22(3) applies, decommissioning or dismantlement has started) taken in connection with such decommissioning or dismantlement.
+**5.**[^c-2f2808d6ffa0040841488f54dfe1a52c] In relation to the start of decommissioning or dismantlement of the pipeline, particulars of the steps to be taken or (if, in a case to which regulation 22(3) applies, decommissioning or dismantlement has started) taken in connection with such decommissioning or dismantlement.
 
 ## SCHEDULE 6
 
 Regulation 31
 
-### PART I — REVOCATION OF INSTRUMENTS[^key-0237f4b4655430d3ff7255794ea2db63]
+### PART I — REVOCATION OF INSTRUMENTS[^c-0237f4b4655430d3ff7255794ea2db63]
 
 <table>
 <thead>
@@ -537,19 +537,19 @@ Regulation 31
 </tbody>
 </table>
 
-### PART II — MODIFICATION OF THE NOTIFICATION OF INSTALLATIONS HANDLING HAZARDOUS SUBSTANCES REGULATIONS 1982[^key-8515c3f67aa08ad5b5fed37e692be729]
+### PART II — MODIFICATION OF THE NOTIFICATION OF INSTALLATIONS HANDLING HAZARDOUS SUBSTANCES REGULATIONS 1982[^c-8515c3f67aa08ad5b5fed37e692be729]
 
 **No longer in force.**
 
-**1.**[^key-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8515c3f67aa08ad5b5fed37e692be729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Regulations)
 
@@ -598,170 +598,170 @@ Regulation 31
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) Schedule 15, paragraphs 6 and 16 respectively; the general purposes of Part I referred to in section 15(1) were extended by sections 1(1) and 2(1) of the Offshore Safety Act 1992 ([1992 c. 15)](https://www.legislation.gov.uk/ukpga/1992/15); and section 15 was extended by sections 1(2) and 2(2) of the 1992 Act.
 
-[^key-7ba679fdc43ac6c0d08c71d6d0e713cb]: Commencement: Reg. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-7ba679fdc43ac6c0d08c71d6d0e713cb]: Commencement: Reg. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-11a79b6e2078f42a688ac12425109602]: Commencement: Reg. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-11a79b6e2078f42a688ac12425109602]: Commencement: Reg. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-2ad8919426e37f26c99f6b2bfdd5a4f2]: Modification: Reg. 2(1) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/7)
+[^c-2ad8919426e37f26c99f6b2bfdd5a4f2]: Modification: Reg. 2(1) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/7)
 
-[^key-80ee27061acdfe5b20d9621b4e3a06d0]: Modification: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/825/regulation/2/1) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/9)
+[^c-80ee27061acdfe5b20d9621b4e3a06d0]: Modification: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/825/regulation/2/1) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/9)
 
-[^key-650b12ad3ccaff500cd07875b08f7ce3]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/5/2)
+[^c-650b12ad3ccaff500cd07875b08f7ce3]: Textual amendment: Words in reg. 2(1) substituted (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/5/2)
 
-[^key-6612299d23110cdd66b1bf9eac2e9ca8]: Commencement: Reg. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-6612299d23110cdd66b1bf9eac2e9ca8]: Commencement: Reg. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
 [^f00002]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
-[^key-863bdf9fa1a0ae3694006091bb43243f]: Commencement: Reg. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-863bdf9fa1a0ae3694006091bb43243f]: Commencement: Reg. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1995/263](https://www.legislation.gov.uk/uksi/1995/263).
 
 [^f00004]: Footnote: [S.I. 1989/2169](https://www.legislation.gov.uk/uksi/1989/2169).
 
-[^key-8a1388ba539325d5cdc2dbe3e51a96a8]: Commencement: Reg. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-8a1388ba539325d5cdc2dbe3e51a96a8]: Commencement: Reg. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-24e1176d1e5a39c4f6bd0de84706f0c2]: Commencement: Reg. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-24e1176d1e5a39c4f6bd0de84706f0c2]: Commencement: Reg. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-9a1503e146c333d61d651556e0edba99]: Commencement: Reg. 7 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-9a1503e146c333d61d651556e0edba99]: Commencement: Reg. 7 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-fdbd26e310206d120fed9994cb50ca88]: Commencement: Reg. 8 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-fdbd26e310206d120fed9994cb50ca88]: Commencement: Reg. 8 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-c549be18647afb10a3616198c9538430]: Commencement: Reg. 9 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-c549be18647afb10a3616198c9538430]: Commencement: Reg. 9 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-40d222466f9888ff6a02a12cce475ff5]: Commencement: Reg. 10 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-40d222466f9888ff6a02a12cce475ff5]: Commencement: Reg. 10 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-8da9c8cfdc9e2f67b286ccf50d94826c]: Commencement: Reg. 11 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-8da9c8cfdc9e2f67b286ccf50d94826c]: Commencement: Reg. 11 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-0a604e1e6821a8dbb527fbfb86d91626]: Commencement: Reg. 12 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-0a604e1e6821a8dbb527fbfb86d91626]: Commencement: Reg. 12 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-4594fd5a56a270e861d6d0cab55c7427]: Commencement: Reg. 13 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-4594fd5a56a270e861d6d0cab55c7427]: Commencement: Reg. 13 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-0dea093f9160c39139f0c937b309e05d]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/1996/825/regulation/13A) inserted (3.11.2003) by [The Pipelines Safety (Amendment) Regulations 2003 (S.I. 2003/2563)](https://www.legislation.gov.uk/uksi/2003/2563), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2563/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/2563/regulation/2)
+[^c-0dea093f9160c39139f0c937b309e05d]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/1996/825/regulation/13A) inserted (3.11.2003) by [The Pipelines Safety (Amendment) Regulations 2003 (S.I. 2003/2563)](https://www.legislation.gov.uk/uksi/2003/2563), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2563/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/2563/regulation/2)
 
-[^key-7fa4a7288f6deab5d410cb75db5ac868]: Commencement: Reg. 14 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-7fa4a7288f6deab5d410cb75db5ac868]: Commencement: Reg. 14 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-479c8d6909a3c3c1986aae9117904b2c]: Commencement: Reg. 15 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-479c8d6909a3c3c1986aae9117904b2c]: Commencement: Reg. 15 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-0de671e40de6ae48c045320ae0354bc4]: Commencement: Reg. 16 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-0de671e40de6ae48c045320ae0354bc4]: Commencement: Reg. 16 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-4e7970dc4d9a3c27848a32a8b850b92d]: Commencement: Reg. 17 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-4e7970dc4d9a3c27848a32a8b850b92d]: Commencement: Reg. 17 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-a07c593c378e66124381b18c656664f1]: Commencement: Reg. 18 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-a07c593c378e66124381b18c656664f1]: Commencement: Reg. 18 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-ef9f03e317bc81e30ca2ad191601f897]: Commencement: Reg. 19 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-ef9f03e317bc81e30ca2ad191601f897]: Commencement: Reg. 19 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738).
 
-[^key-9c92d456438ade47d324a5d3df51c0cd]: Commencement: Reg. 20 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-9c92d456438ade47d324a5d3df51c0cd]: Commencement: Reg. 20 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-e23ddda772254df0311edb3b96fd1da8]: Commencement: Reg. 21 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-e23ddda772254df0311edb3b96fd1da8]: Commencement: Reg. 21 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-a52c41b4805921c4119e8906c344d682]: Commencement: Reg. 22 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-a52c41b4805921c4119e8906c344d682]: Commencement: Reg. 22 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-a353b384efe17a8e28a9daad76471a90]: Commencement: Reg. 23 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-a353b384efe17a8e28a9daad76471a90]: Commencement: Reg. 23 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-99abc24123eaba55be1a4d4404387264]: Commencement: Reg. 24 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-99abc24123eaba55be1a4d4404387264]: Commencement: Reg. 24 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-84ef74a2423feb5e7325d194048564f0]: Commencement: Reg. 25 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-84ef74a2423feb5e7325d194048564f0]: Commencement: Reg. 25 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-cc91e814d548aa210e46cc953b9e9ec3]: Modification: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/1996/825/regulation/25/3) modified (E.W.) (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [31(3)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/31/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
+[^c-cc91e814d548aa210e46cc953b9e9ec3]: Modification: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/1996/825/regulation/25/3) modified (E.W.) (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [31(3)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/31/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2))
 
-[^key-647c69be4539408979624443d1a844f2]: Commencement: Reg. 26 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-647c69be4539408979624443d1a844f2]: Commencement: Reg. 26 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-d34b5d629f64a9a99a66f69ab7b7d2c4]: Commencement: Reg. 27 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-d34b5d629f64a9a99a66f69ab7b7d2c4]: Commencement: Reg. 27 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1982/1357](https://www.legislation.gov.uk/uksi/1982/1357).
 
-[^key-6653328d396ba6e907940c9df8fd8aa7]: Commencement: Reg. 28 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-6653328d396ba6e907940c9df8fd8aa7]: Commencement: Reg. 28 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-2f1fff26d6cf709d6f812eba66d0d061]: Commencement: Reg. 29 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-2f1fff26d6cf709d6f812eba66d0d061]: Commencement: Reg. 29 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-d27f2cfc328ef331f30853d32162f710]: Commencement: Reg. 30 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-d27f2cfc328ef331f30853d32162f710]: Commencement: Reg. 30 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
 [^f00007]: Footnote: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58); section 24 was repealed by [S.I. 1974/1986](https://www.legislation.gov.uk/uksi/1974/1986); and section 26A was inserted by section 26 of the Petroleum Act 1987 ([1987 c. 12)](https://www.legislation.gov.uk/ukpga/1987/12).
 
-[^key-c0f6710680d4d96ea3fbab562599cf13]: Commencement: Reg. 31 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-c0f6710680d4d96ea3fbab562599cf13]: Commencement: Reg. 31 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-dc25dcc5501362a83be10c31b2729ebf]: Commencement: Sch. 1 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-dc25dcc5501362a83be10c31b2729ebf]: Commencement: Sch. 1 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-659bac7bb12cf76d17cd3098133cdcd2]: Commencement: Sch. 1 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-659bac7bb12cf76d17cd3098133cdcd2]: Commencement: Sch. 1 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-e915dbe66f3603b0fffa48be66c6c7a0]: Commencement: Sch. 1 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-e915dbe66f3603b0fffa48be66c6c7a0]: Commencement: Sch. 1 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-92e59f3dab1c33184a70487e151c0685]: Commencement: Sch. 1 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-92e59f3dab1c33184a70487e151c0685]: Commencement: Sch. 1 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
 [^f00008]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-43050e9440aa68710c49f0e697d7d526]: Commencement: Sch. 1 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-43050e9440aa68710c49f0e697d7d526]: Commencement: Sch. 1 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-ecefe43f837c7ef4cf9bbe639b98747d]: Commencement: Sch. 1 para. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-ecefe43f837c7ef4cf9bbe639b98747d]: Commencement: Sch. 1 para. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
 [^f00009]: Footnote: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62); the meaning of “caravan” in Part I was modified by the Caravan Sites Act [1968 (c. 52)](https://www.legislation.gov.uk/ukpga/1968/52), section 13(1) and (2).
 
-[^key-7518247d550a880310440762852af528]: Commencement: Sch. 2 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-7518247d550a880310440762852af528]: Commencement: Sch. 2 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-f68bc320deb413a4aeb9ffac37f8dc27]: Commencement: Sch. 2 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-f68bc320deb413a4aeb9ffac37f8dc27]: Commencement: Sch. 2 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-08a155e5cd0728185e078a4f4593d1db]: Commencement: Sch. 2 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-08a155e5cd0728185e078a4f4593d1db]: Commencement: Sch. 2 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-1b04c27738457a7f40d6a573532aaf14]: Commencement: Sch. 2 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-1b04c27738457a7f40d6a573532aaf14]: Commencement: Sch. 2 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-7f383a4e3f8ced1a013271e7c4d5fb1a]: Commencement: Sch. 2 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-7f383a4e3f8ced1a013271e7c4d5fb1a]: Commencement: Sch. 2 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-f3b477d654d4ca61c3879043bf635a72]: Commencement: Sch. 2 para. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-f3b477d654d4ca61c3879043bf635a72]: Commencement: Sch. 2 para. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-7e0575e0eceaa7be157c70c1136d7f6d]: Commencement: Sch. 2 para. 7 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-7e0575e0eceaa7be157c70c1136d7f6d]: Commencement: Sch. 2 para. 7 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-3ced3fc08c4828fe9f60aee7f11175ef]: Commencement: Sch. 2 para. 8 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-3ced3fc08c4828fe9f60aee7f11175ef]: Commencement: Sch. 2 para. 8 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-85f3b3a20b9ee828333df662c4f92d5a]: Commencement: Sch. 2 para. 9 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-85f3b3a20b9ee828333df662c4f92d5a]: Commencement: Sch. 2 para. 9 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-a121f0e9bba8d14d82658b646ef48b20]: Textual amendment: Sch. 2 para. 9A inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/185/regulation/4)
+[^c-a121f0e9bba8d14d82658b646ef48b20]: Textual amendment: Sch. 2 para. 9A inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/185/regulation/4)
 
-[^key-5ffae566a416ff8ebe33ed3eb03489cc]: Textual amendment: Sch. 2 para. 10 substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/4/2)
+[^c-5ffae566a416ff8ebe33ed3eb03489cc]: Textual amendment: Sch. 2 para. 10 substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/4/2)
 
-[^key-4e0bdedf13d2c176f61296e93c4df608]: Commencement: Sch. 3 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-4e0bdedf13d2c176f61296e93c4df608]: Commencement: Sch. 3 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-dcd885727014bcc0b777fcf5d7ccd951]: Commencement: Sch. 3 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-dcd885727014bcc0b777fcf5d7ccd951]: Commencement: Sch. 3 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-08abcf09e6380a2d2140a7847e03b853]: Commencement: Sch. 3 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-08abcf09e6380a2d2140a7847e03b853]: Commencement: Sch. 3 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-db88e551c01936e666c764063d1d0a0b]: Commencement: Sch. 3 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-db88e551c01936e666c764063d1d0a0b]: Commencement: Sch. 3 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-83002f54c251a641df26b8e1c90ace19]: Commencement: Sch. 3 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-83002f54c251a641df26b8e1c90ace19]: Commencement: Sch. 3 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-1b47d5960e425656edf687b6f67dab70]: Commencement: Sch. 3 para. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-1b47d5960e425656edf687b6f67dab70]: Commencement: Sch. 3 para. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-2ee3347054b82e38a97b636e691c47d5]: Commencement: Sch. 3 para. 7 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-2ee3347054b82e38a97b636e691c47d5]: Commencement: Sch. 3 para. 7 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-7576f183d0b264fdf506cbe316459fab]: Commencement: Sch. 3 para. 8 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-7576f183d0b264fdf506cbe316459fab]: Commencement: Sch. 3 para. 8 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-f5947ba898e6cbcfc5b0b9c72f465b47]: Commencement: Sch. 4 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-f5947ba898e6cbcfc5b0b9c72f465b47]: Commencement: Sch. 4 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-48332680ebb1d40400e2d747e9e934a4]: Commencement: Sch. 4 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-48332680ebb1d40400e2d747e9e934a4]: Commencement: Sch. 4 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-049b49fdd2214d809ff6b157bf34ee8b]: Commencement: Sch. 4 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-049b49fdd2214d809ff6b157bf34ee8b]: Commencement: Sch. 4 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-4e0bd0cfc909dad4d700d3c85f74d68d]: Commencement: Sch. 4 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-4e0bd0cfc909dad4d700d3c85f74d68d]: Commencement: Sch. 4 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-6ab7950cf665c8d726f16e4a2788bf03]: Commencement: Sch. 4 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-6ab7950cf665c8d726f16e4a2788bf03]: Commencement: Sch. 4 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-8dda3d3f959b8881b32886e7a0a9286a]: Commencement: Sch. 4 para. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-8dda3d3f959b8881b32886e7a0a9286a]: Commencement: Sch. 4 para. 6 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-91318325f6bd550891884ac18c880f70]: Commencement: Sch. 4 para. 7 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-91318325f6bd550891884ac18c880f70]: Commencement: Sch. 4 para. 7 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-7a139b299d5ced90a65ebc8cd077adbb]: Commencement: Sch. 4 para. 8 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-7a139b299d5ced90a65ebc8cd077adbb]: Commencement: Sch. 4 para. 8 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-6461150d90ddf868b8971d8a049fcb77]: Commencement: Sch. 5 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-6461150d90ddf868b8971d8a049fcb77]: Commencement: Sch. 5 para. 1 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-48dc2e6a1c4196b3fb6dbf73c6f61f60]: Commencement: Sch. 5 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-48dc2e6a1c4196b3fb6dbf73c6f61f60]: Commencement: Sch. 5 para. 2 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-4f61c6cdbe3bd392ebeb276f712d1813]: Commencement: Sch. 5 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-4f61c6cdbe3bd392ebeb276f712d1813]: Commencement: Sch. 5 para. 3 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-8a612d9510d2e6c53611fea6d3b9dcb7]: Commencement: Sch. 5 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-8a612d9510d2e6c53611fea6d3b9dcb7]: Commencement: Sch. 5 para. 4 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-2f2808d6ffa0040841488f54dfe1a52c]: Commencement: Sch. 5 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-2f2808d6ffa0040841488f54dfe1a52c]: Commencement: Sch. 5 para. 5 in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-0237f4b4655430d3ff7255794ea2db63]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/1996/825/schedule/6/part/1) in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
+[^c-0237f4b4655430d3ff7255794ea2db63]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/1996/825/schedule/6/part/1) in force at 11.4.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/825/regulation/1)
 
-[^key-8515c3f67aa08ad5b5fed37e692be729]: Textual amendment: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/1996/825/schedule/6/part/2) revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 4
+[^c-8515c3f67aa08ad5b5fed37e692be729]: Textual amendment: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/1996/825/schedule/6/part/2) revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 4

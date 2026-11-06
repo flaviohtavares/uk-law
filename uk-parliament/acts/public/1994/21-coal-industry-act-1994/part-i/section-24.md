@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Abolition of the Domestic Coal Consumers’ Council.[^key-b0290a7a24a46b071be66f17cb507db6]
+## 24. Abolition of the Domestic Coal Consumers’ Council.[^c-b0290a7a24a46b071be66f17cb507db6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0290a7a24a46b071be66f17cb507db6]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1994/21/section/24) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 8
+[^c-b0290a7a24a46b071be66f17cb507db6]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1994/21/section/24) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 8

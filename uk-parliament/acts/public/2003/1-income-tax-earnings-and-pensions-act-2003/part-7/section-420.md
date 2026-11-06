@@ -16,23 +16,23 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 420. Meaning of “securities” etc[^key-aa5abf133d2e4ea34ba8c7177f26f095]
+## 420. Meaning of “securities” etc[^c-aa5abf133d2e4ea34ba8c7177f26f095]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subject to subsections (5) and (6), for the purposes of this Chapter and Chapters 2 to 5 the following are “**securities**”—
 
 - (a) shares in any body corporate (wherever incorporated) or in any unincorporated body constituted under the law of a country or territory outside the United Kingdom,
-- (aa)[^key-2933e2725b7e5a0b04d300e2013cdc0b] rights under contracts of insurance other than excluded contracts of insurance,
-- (b) debentures, debenture stock, loan stock, bonds, certificates of deposit and other instruments creating or acknowledging indebtedness (other than contracts of insurance)[^key-b81a928d2d5b4a43b632729e2c4ef6af],
+- (aa)[^c-2933e2725b7e5a0b04d300e2013cdc0b] rights under contracts of insurance other than excluded contracts of insurance,
+- (b) debentures, debenture stock, loan stock, bonds, certificates of deposit and other instruments creating or acknowledging indebtedness (other than contracts of insurance)[^c-b81a928d2d5b4a43b632729e2c4ef6af],
 - (c) warrants and other instruments entitling their holders to subscribe for securities (whether or not in existence or identifiable),
 - (d) certificates and other instruments conferring rights in respect of securities held by persons other than the persons on whom the rights are conferred and the transfer of which may be effected without the consent of those persons,
 - (e) units in a collective investment scheme,
-- (f) options and[^key-348e3799097c5e6486a773205c3c8499] futures, ...
-- (g) rights under contracts for differences or contracts similar to contracts for differences (other than contracts of insurance)[^key-6d6107cc8a9e62d6ce1b315d1d11615e],[^key-3dba25b1e16ab7fb34d631e7d6565964] and[^key-24ee7902dd5ea3303a1481414be556ac]
+- (f) options and[^c-348e3799097c5e6486a773205c3c8499] futures, ...
+- (g) rights under contracts for differences or contracts similar to contracts for differences (other than contracts of insurance)[^c-6d6107cc8a9e62d6ce1b315d1d11615e],[^c-3dba25b1e16ab7fb34d631e7d6565964] and[^c-24ee7902dd5ea3303a1481414be556ac]
 - (h) arrangements to which section 564G of ITA 2007 (alternative finance arrangements: investment bond arrangements) applies.
 
-(1A)[^key-63dc4f71f92a2e3df8e853ac3819df6f] For the purposes of subsection (1)(aa) a contract of insurance is an excluded contract of insurance if it is—
+(1A)[^c-63dc4f71f92a2e3df8e853ac3819df6f] For the purposes of subsection (1)(aa) a contract of insurance is an excluded contract of insurance if it is—
 
 - (a) a contract for an annuity which is (or will be) pension income (see Part 9),
 - (b) a contract of long-term insurance, other than an annuity contract, which does not have a surrender value and is not capable of acquiring one (whether on conversion or in any other circumstances), or
@@ -65,9 +65,9 @@ have the same meaning as in the Financial Services and Markets Act 2000 (Regulat
 
 - (a) cheques and other bills of exchange, bankers' drafts and letters of credit (other than bills of exchange accepted by a banker),
 - (b) money and statements showing balances on a current, deposit or savings account,
-- (c) leases and other dispositions of property and heritable securities, and[^key-85272cdba3b370fe16e8386f72470c47]
+- (c) leases and other dispositions of property and heritable securities, and[^c-85272cdba3b370fe16e8386f72470c47]
 - (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) securities[^key-449e2897d70abf32263a09dd30262164] options.
+- (e) securities[^c-449e2897d70abf32263a09dd30262164] options.
 
 (6) The Treasury may by order amend subsections (1) to (5).
 
@@ -76,29 +76,29 @@ have the same meaning as in the Financial Services and Markets Act 2000 (Regulat
 (8) In this Chapter and Chapters 2 to 5—
 
 - “**interest**”, in relation to securities (or shares), means an interest in them less than full beneficial ownership and includes an interest in proceeds of their sale, but does not include a right to acquire them,
-- “**securities option**” means a right to acquire securities other than a right to acquire securities which is acquired pursuant to a right or opportunity made available under arrangements the main purpose (or one of the main purposes) of which is the avoidance of tax or national insurance contributions[^key-2bcf34d23fcb5d70beb3c5325bfd5dd4], and
+- “**securities option**” means a right to acquire securities other than a right to acquire securities which is acquired pursuant to a right or opportunity made available under arrangements the main purpose (or one of the main purposes) of which is the avoidance of tax or national insurance contributions[^c-2bcf34d23fcb5d70beb3c5325bfd5dd4], and
 - “**shares**” includes stock.
 
 ## Annotations
 
-[^key-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
+[^c-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
 
-[^key-2933e2725b7e5a0b04d300e2013cdc0b]: Textual amendment: S. 420(1)(aa) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/2)
+[^c-2933e2725b7e5a0b04d300e2013cdc0b]: Textual amendment: S. 420(1)(aa) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/2)
 
-[^key-b81a928d2d5b4a43b632729e2c4ef6af]: Textual amendment: Words in s. 420(1)(b) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/3)
+[^c-b81a928d2d5b4a43b632729e2c4ef6af]: Textual amendment: Words in s. 420(1)(b) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/3)
 
-[^key-348e3799097c5e6486a773205c3c8499]: Textual amendment: Words in s. 420(1)(f) inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 92(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/92/2)
+[^c-348e3799097c5e6486a773205c3c8499]: Textual amendment: Words in s. 420(1)(f) inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 92(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/92/2)
 
-[^key-6d6107cc8a9e62d6ce1b315d1d11615e]: Textual amendment: Words in s. 420(1)(g) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/4)
+[^c-6d6107cc8a9e62d6ce1b315d1d11615e]: Textual amendment: Words in s. 420(1)(g) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/4)
 
-[^key-3dba25b1e16ab7fb34d631e7d6565964]: Textual amendment: S. 420(1)(h) and word inserted (14.8.2007) by [The Employment Income (Meaning of Securities) Order 2007 (S.I. 2007/2130)](https://www.legislation.gov.uk/uksi/2007/2130), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2130/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/2130/article/2/b)
+[^c-3dba25b1e16ab7fb34d631e7d6565964]: Textual amendment: S. 420(1)(h) and word inserted (14.8.2007) by [The Employment Income (Meaning of Securities) Order 2007 (S.I. 2007/2130)](https://www.legislation.gov.uk/uksi/2007/2130), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2130/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/2130/article/2/b)
 
-[^key-24ee7902dd5ea3303a1481414be556ac]: Textual amendment: S. 420(1)(h) and preceding word substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 204](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/204) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-24ee7902dd5ea3303a1481414be556ac]: Textual amendment: S. 420(1)(h) and preceding word substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 204](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/204) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-63dc4f71f92a2e3df8e853ac3819df6f]: Textual amendment: S. 420(1A)(1B) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/5)
+[^c-63dc4f71f92a2e3df8e853ac3819df6f]: Textual amendment: S. 420(1A)(1B) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/5)
 
-[^key-85272cdba3b370fe16e8386f72470c47]: Textual amendment: Word in s. 420(5)(c) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/6/a)
+[^c-85272cdba3b370fe16e8386f72470c47]: Textual amendment: Word in s. 420(5)(c) inserted (with effect in accordance with Sch. 2 para. 2(8) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 2 para. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/2/paragraph/2/6/a)
 
-[^key-449e2897d70abf32263a09dd30262164]: Textual amendment: Word in s. 420(5)(e) inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 92(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/92/3)
+[^c-449e2897d70abf32263a09dd30262164]: Textual amendment: Word in s. 420(5)(e) inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 92(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/92/3)
 
-[^key-2bcf34d23fcb5d70beb3c5325bfd5dd4]: Textual amendment: Words in s. 420(8) inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 92(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/92/4)
+[^c-2bcf34d23fcb5d70beb3c5325bfd5dd4]: Textual amendment: Words in s. 420(8) inserted (with effect in accordance with s. 92(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 92(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/92/4)

@@ -26,7 +26,7 @@ At the end of Schedule 1 to the Education Act 1996 (pupil referral units) there 
 >
 > (1) Regulations may make provision—
 >
-> - (a) for requiring any local authority[^key-3899b1dd63a4b3603b94d0a6d752b94c] who maintain a pupil referral unit to establish a committee to act as the management committee for the unit; and
+> - (a) for requiring any local authority[^c-3899b1dd63a4b3603b94d0a6d752b94c] who maintain a pupil referral unit to establish a committee to act as the management committee for the unit; and
 > - (b) for that committee to discharge on behalf of the authority such of their functions in connection with the unit as are delegated by them to the committee in accordance with the regulations.
 >
 > (2) Regulations under this paragraph may in particular make provision—
@@ -48,4 +48,4 @@ At the end of Schedule 1 to the Education Act 1996 (pupil referral units) there 
 
 ## Annotations
 
-[^key-3899b1dd63a4b3603b94d0a6d752b94c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8/2)
+[^c-3899b1dd63a4b3603b94d0a6d752b94c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Proposal for order[^key-7f40590d29f7a8be3f6616796643b45d]
+## 38. Proposal for order[^c-7f40590d29f7a8be3f6616796643b45d]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f40590d29f7a8be3f6616796643b45d]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2013/5/section/38) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-7f40590d29f7a8be3f6616796643b45d]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2013/5/section/38) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

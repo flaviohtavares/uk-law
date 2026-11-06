@@ -35,20 +35,20 @@ amending Regulation (EU) No 454/2011 on the technical specification for interope
 
 (Text with EEA relevance) (revoked)
 
-[^key-c5aee4e444bf2464878d9e708207f514]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5aee4e444bf2464878d9e708207f514]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c5aee4e444bf2464878d9e708207f514] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c5aee4e444bf2464878d9e708207f514] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c5aee4e444bf2464878d9e708207f514] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c5aee4e444bf2464878d9e708207f514] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c5aee4e444bf2464878d9e708207f514] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c5aee4e444bf2464878d9e708207f514] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5aee4e444bf2464878d9e708207f514]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5aee4e444bf2464878d9e708207f514]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c5aee4e444bf2464878d9e708207f514]
+## ANNEX[^c-c5aee4e444bf2464878d9e708207f514]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5aee4e444bf2464878d9e708207f514]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-c5aee4e444bf2464878d9e708207f514]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

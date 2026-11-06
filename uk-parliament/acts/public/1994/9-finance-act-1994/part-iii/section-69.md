@@ -28,7 +28,7 @@ summary: ''
 
 and also provides cover falling within another of those paragraphs.
 
-(1A)[^key-60fa9f2767f1263dafe31e8830c04473] But this section does not apply for the purpose of determining the chargeable amount in relation to an excepted premium (as to which see section 69A).
+(1A)[^c-60fa9f2767f1263dafe31e8830c04473] But this section does not apply for the purpose of determining the chargeable amount in relation to an excepted premium (as to which see section 69A).
 
 (2) In the following provisions of this section “**the non-exempt premium**” means the difference between—
 
@@ -91,4 +91,4 @@ and the tax chargeable in respect of the premium is the aggregate of those amoun
 
 [^c14453541]: Textual amendment: S. 69 substituted (19.3.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 23(1)](https://www.legislation.gov.uk/ukpga/1997/16/section/23/1)
 
-[^key-60fa9f2767f1263dafe31e8830c04473]: Textual amendment: S. 69(1A) inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/266/article/2/4)
+[^c-60fa9f2767f1263dafe31e8830c04473]: Textual amendment: S. 69(1A) inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2012/266/article/2/4)

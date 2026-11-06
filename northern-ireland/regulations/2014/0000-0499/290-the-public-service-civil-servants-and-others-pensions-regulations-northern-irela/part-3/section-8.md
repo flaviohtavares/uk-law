@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Northern Ireland Civil Service Pension Board: conflicts of interest[^key-aa41110c085c4b2c586229175d4ab228]
+## 8. Northern Ireland Civil Service Pension Board: conflicts of interest[^c-aa41110c085c4b2c586229175d4ab228]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa41110c085c4b2c586229175d4ab228]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/290/regulation/8) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-aa41110c085c4b2c586229175d4ab228]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/290/regulation/8) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00044]: Footnote: See section 5(6) of the Act for the meaning of “conflict of interest”

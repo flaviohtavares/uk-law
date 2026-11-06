@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 11
 
-**1.**[^key-9b638a5d3a04369b4f6078eaff153a9f] In Annex 2 to the EEA agreement (Technical Regulations, Standards, Testing and Certification), in Chapter 15 (dangerous substances)—
+**1.**[^c-9b638a5d3a04369b4f6078eaff153a9f] In Annex 2 to the EEA agreement (Technical Regulations, Standards, Testing and Certification), in Chapter 15 (dangerous substances)—
 
 - (a) in point 12zc, omit—
   - (i) from “The Provisions” to “following adaptations:”;
@@ -31,4 +31,4 @@ Regulation 11
 
 ## Annotations
 
-[^key-9b638a5d3a04369b4f6078eaff153a9f]: Commencement: Sch. 9 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9b638a5d3a04369b4f6078eaff153a9f]: Commencement: Sch. 9 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

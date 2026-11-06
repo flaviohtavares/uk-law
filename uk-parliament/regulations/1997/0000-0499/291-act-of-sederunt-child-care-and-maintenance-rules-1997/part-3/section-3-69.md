@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: S*
 
-**3.69.**[^key-f3a34936d71d830ba99d7ba2732e222a] (1) On receipt of a child witness notice, a sheriff may–
+**3.69.**[^c-f3a34936d71d830ba99d7ba2732e222a] (1) On receipt of a child witness notice, a sheriff may–
 
 - (a) make an order under section 12(1) of the Act of 2004 without holding a hearing;
 - (b) require of any of the parties further information before making any further order;
@@ -35,4 +35,4 @@ to all parties to the proceedings and such other persons as are named in the ord
 
 ## Annotations
 
-[^key-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)
+[^c-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)

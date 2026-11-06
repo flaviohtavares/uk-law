@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — Breach, revocation and amendment of overseas community orders[^key-d3c7a7209191f03edbf319f59ccc5605]
+## SCHEDULE 6A — Breach, revocation and amendment of overseas community orders[^c-d3c7a7209191f03edbf319f59ccc5605]
 
 *Extent: E+W+S+N.I.*
 
@@ -193,4 +193,4 @@ is to be treated, for the purpose of enabling an appeal under the Court Martial 
 
 ## Annotations
 
-[^key-d3c7a7209191f03edbf319f59ccc5605]: Textual amendment: Sch. 6A inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 12](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/12) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d3c7a7209191f03edbf319f59ccc5605]: Textual amendment: Sch. 6A inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 12](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/12) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

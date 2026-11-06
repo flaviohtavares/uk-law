@@ -46,38 +46,38 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 10(8) of, and paragraphs 3 and 4 of Schedule 4, as read with paragraphs 3 and 4 of Schedule 13, to the Local Audit and Accountability Act 2014[^f00001].
 
-## 1. Citation, commencement, interpretation and application[^key-abb9d8a80e539ad1406205719b47349f]
+## 1. Citation, commencement, interpretation and application[^c-abb9d8a80e539ad1406205719b47349f]
 
 (1) These Regulations may be cited as the Local Audit (Health Service Bodies Auditor Panel and Independence) Regulations 2015 and come into force on 1st April 2015.
 
 (2) In these Regulations—
 
-- [^key-c8b657bd70203913fdc920f0f261633e]...
+- [^c-c8b657bd70203913fdc920f0f261633e]...
 - “governing board” means—
   - (a) in relation to an NHS trust[^f00003], the body of executive and non-executive directors[^f00004] of that trust; and
-  - (b) in relation to an integrated care board[^key-e0294e6bf0beadbb2be1e25c5fb45bbd], the members of that integrated care board[^key-dbce141417718bf490f745d67019373b];
+  - (b) in relation to an integrated care board[^c-e0294e6bf0beadbb2be1e25c5fb45bbd], the members of that integrated care board[^c-dbce141417718bf490f745d67019373b];
 - “health service body” means an integrated care board or an NHS trust[^f00006];
-- “[^key-fef354151e13d3a4e8a3a5dd1a29c767]**an integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “[^c-fef354151e13d3a4e8a3a5dd1a29c767]**an integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
 - “**member of an integrated care board**” means the chair, the chief executive or an ordinary member of an integrated care board as specified in the constitution of the integrated care board as a member of that board;
-- [^key-26693d1b69735f187933085da2dc0bc3]...
+- [^c-26693d1b69735f187933085da2dc0bc3]...
 - “a non-executive member” means—
   - (a) [^M_F_b39c1e9f-04f8-4e19-a556-2310e96f3a5b]...
   - (b) in relation to an NHS trust, a person who is a non-executive director of that trust.
 
 (3) These Regulations apply to health service bodies.
 
-## 2. Remuneration or allowances of auditor panel members[^key-5442159716a40a2df144f080688dbace]
+## 2. Remuneration or allowances of auditor panel members[^c-5442159716a40a2df144f080688dbace]
 
 A health service body may pay members of the auditor panel such remuneration or allowances as the body may determine.
 
-## 3. Proceedings and validity of proceedings of auditor panels[^key-9d3ed269793d67844f4cdb0c21f67dc1]
+## 3. Proceedings and validity of proceedings of auditor panels[^c-9d3ed269793d67844f4cdb0c21f67dc1]
 
 In relation to a meeting of the auditor panel—
 
 - (a) the quorum is two members or the number of members who make up at least 50 per cent of the panel, whichever is the greater; and
 - (b) the proceedings of the panel are valid if the majority of the members present at the meeting are independent members of the panel.
 
-## 4. Further functions of auditor panels: non-audit services[^key-3912149c6981c27fa210a33cdf611723]
+## 4. Further functions of auditor panels: non-audit services[^c-3912149c6981c27fa210a33cdf611723]
 
 (1) The auditor panel must—
 
@@ -91,17 +91,17 @@ In relation to a meeting of the auditor panel—
 
 (3) In this regulation, “non-audit services” in relation to a health service body means services provided by the health service body’s local auditor to the body other than in the exercise of the functions of the local auditor under the Local Audit and Accountability Act 2014.
 
-## 5. Members of auditor panels[^key-f4286c412adf7c70a8ef24db893307e6]
+## 5. Members of auditor panels[^c-f4286c412adf7c70a8ef24db893307e6]
 
 (1) The auditor panel of a health service body must have—
 
 - (a) a minimum of three members;
 - (b) a chair who is—
   - (i) independent and;
-  - (ii) in the case of an NHS trust,[^key-a1125609381e00ded15c6fd083f1a03a] a non-executive member of the governing board of that NHS trust[^key-a4282280cf2bfab1e28d1f8d798980fe]; and
+  - (ii) in the case of an NHS trust,[^c-a1125609381e00ded15c6fd083f1a03a] a non-executive member of the governing board of that NHS trust[^c-a4282280cf2bfab1e28d1f8d798980fe]; and
 - (c) a majority of members who are—
   - (i) independent and;
-  - (ii) in the case of an NHS trust,[^key-f2d0febccd06255f6383b4b614e10db5] non-executive members of the governing board of that NHS trust[^key-40843a36d9e17fd35c73dc953a7a5c3b].
+  - (ii) in the case of an NHS trust,[^c-f2d0febccd06255f6383b4b614e10db5] non-executive members of the governing board of that NHS trust[^c-40843a36d9e17fd35c73dc953a7a5c3b].
 
 (2) The auditor panel of a health service body may include—
 
@@ -118,7 +118,7 @@ In relation to a meeting of the auditor panel—
 
 (5) The health service body must adopt a set of rules with regard to the removal or resignation of members of the auditor panel, or of its chair, and may from time to time revise any of those rules.
 
-## 6. Meaning of independent etc.[^key-0bc964f3385f143bf1d1fdda93c6da22]
+## 6. Meaning of independent etc.[^c-0bc964f3385f143bf1d1fdda93c6da22]
 
 (1) “Independent”, in relation to membership of an auditor panel, means that the member or prospective member of the panel is not in circumstances, and does not have relationships, which are likely to affect, or could affect his or her judgement in discharging his or her duties as a member of the auditor panel.
 
@@ -130,8 +130,8 @@ In relation to a meeting of the auditor panel—
 
 (5) The factors referred to in paragraph (3) are whether the person—
 
-- (a)[^key-f720ca11a7c33d03fdb587a01bf40709] in the case of an NHS trust, has been an employee of that NHS trust within the period of five years immediately preceding the date of the proposed appointment;
-- (b)[^key-a3f176566d0b66e007cd8ca285f46752] in the case of an integrated care board, is, or has been within the period of five years immediately preceding the date of the proposed appointment—
+- (a)[^c-f720ca11a7c33d03fdb587a01bf40709] in the case of an NHS trust, has been an employee of that NHS trust within the period of five years immediately preceding the date of the proposed appointment;
+- (b)[^c-a3f176566d0b66e007cd8ca285f46752] in the case of an integrated care board, is, or has been within the period of five years immediately preceding the date of the proposed appointment—
   - (i) an employee of that integrated care board,
   - (ii) a secondee serving as a member of staff of that integrated care board, or
   - (iii) nominated as an ordinary member of that integrated care board pursuant to paragraphs 8(2)(a) to (c) of Schedule 1B to the National Health Service Act 2006;
@@ -143,8 +143,8 @@ In relation to a meeting of the auditor panel—
   - (ii) participated in the health service body’s performance related pay scheme; or
   - (iii) is a member of the health service body’s pension scheme (other than the NHS pension scheme);
 - (e) has close family ties with any of the health service body’s advisors, directors, members or senior employees;
-- (f) holds a cross-directorship or has significant links with other auditor panel members or members of the governing board of the health service body[^key-83577fa0906a87274d42218e2289466c] through involvement in other companies or bodies;
-- (g) has previously served on the governing board[^key-4928067139b1aa67e30e8c1199be8a68] of the health service body for a period of more than 9 years beginning with the date of his or her first appointment as a member of the governing board;
+- (f) holds a cross-directorship or has significant links with other auditor panel members or members of the governing board of the health service body[^c-83577fa0906a87274d42218e2289466c] through involvement in other companies or bodies;
+- (g) has previously served on the governing board[^c-4928067139b1aa67e30e8c1199be8a68] of the health service body for a period of more than 9 years beginning with the date of his or her first appointment as a member of the governing board;
 - (h) is an appointed representative of the health service body’s medical or dental school provided by a university.
 
 (6) For the purposes of paragraph (5)(c), a material business relationship means what the governing board determines to constitute such a relationship.
@@ -156,7 +156,7 @@ In relation to a meeting of the auditor panel—
 - (a) he or she serves as a member of another organisation’s governing board, audit committee or auditor panel; and
 - (b) at the same time, a member of the governing board at the organisation referred to in sub-paragraph (a) serves as a member of the governing board or the auditor panel of the health service body.
 
-(9)[^key-ae0c4d8ea93e67095f559f72fa000a4a] For the purposes of paragraph (5)—
+(9)[^c-ae0c4d8ea93e67095f559f72fa000a4a] For the purposes of paragraph (5)—
 
 - (a) in sub-paragraph (b), in paragraphs (i) and (ii), references to roles in an integrated care board are to be read as including equivalent roles in the predecessor clinical commissioning group for that integrated care board;
 - (b) in sub-paragraph (b), in paragraph (iii), references to ordinary members of an integrated care board nominated pursuant to paragraphs 8(2)(a) to (c) of Schedule 1B to the National Health Service Act 2006, are to be read as including members of the governing board of the predecessor clinical commissioning group of that integrated care board;
@@ -202,50 +202,50 @@ A full Impact Assessment has not been produced for this instrument as no additio
 
 [^f00001]: Footnote: [2014 c.2](https://www.legislation.gov.uk/ukpga/2014/2). Paragraphs 3 and 4 of Schedule 13 are cited for the meaning of “relevant authorities” and “health service bodies”. These provisions incorporate NHS trusts into the definition of “relevant authorities” and “health service bodies” as used in the main powers cited.
 
-[^key-abb9d8a80e539ad1406205719b47349f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/18/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
+[^c-abb9d8a80e539ad1406205719b47349f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/18/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
 
-[^key-c8b657bd70203913fdc920f0f261633e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/2/a)
+[^c-c8b657bd70203913fdc920f0f261633e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/2/a)
 
 [^f00003]: Footnote: An NHS trust is a body established under section 25(1) of the 2006 Act.
 
 [^f00004]: Footnote: *See* paragraph 3(1)(b) of Schedule 4 to the 2006 Act as to executive and non-executive directors of NHS trusts.
 
-[^key-e0294e6bf0beadbb2be1e25c5fb45bbd]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/18) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-e0294e6bf0beadbb2be1e25c5fb45bbd]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/18) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-dbce141417718bf490f745d67019373b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/2/b)
+[^c-dbce141417718bf490f745d67019373b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/2/b)
 
 [^f00006]: Footnote: For the purposes of these Regulations, the meaning of “health service body” is narrower than the definition given in section 3(9) of, and paragraph 4 of Schedule 13, to the Local Audit and Accountability Act 2014.
 
-[^key-fef354151e13d3a4e8a3a5dd1a29c767]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/2) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/2/c)
+[^c-fef354151e13d3a4e8a3a5dd1a29c767]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/2) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/2/c)
 
-[^key-26693d1b69735f187933085da2dc0bc3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(2)(d)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/2/d)
+[^c-26693d1b69735f187933085da2dc0bc3]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(2)(d)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/2/d)
 
 [^M_F_b39c1e9f-04f8-4e19-a556-2310e96f3a5b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(2)(e)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/2/d)
 
-[^key-5442159716a40a2df144f080688dbace]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/18/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
+[^c-5442159716a40a2df144f080688dbace]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/18/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
 
-[^key-9d3ed269793d67844f4cdb0c21f67dc1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/18/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
+[^c-9d3ed269793d67844f4cdb0c21f67dc1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/18/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
 
-[^key-3912149c6981c27fa210a33cdf611723]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/18/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
+[^c-3912149c6981c27fa210a33cdf611723]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/18/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
 
-[^key-f4286c412adf7c70a8ef24db893307e6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/18/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
+[^c-f4286c412adf7c70a8ef24db893307e6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/18/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
 
-[^key-a1125609381e00ded15c6fd083f1a03a]: Textual amendment: Words in [reg. 5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/18/regulation/5/1/b/ii) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/3/a/i)
+[^c-a1125609381e00ded15c6fd083f1a03a]: Textual amendment: Words in [reg. 5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/18/regulation/5/1/b/ii) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/3/a/i)
 
-[^key-a4282280cf2bfab1e28d1f8d798980fe]: Textual amendment: Words in [reg. 5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/18/regulation/5/1/b/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/3/a/ii)
+[^c-a4282280cf2bfab1e28d1f8d798980fe]: Textual amendment: Words in [reg. 5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/18/regulation/5/1/b/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/3/a/ii)
 
-[^key-f2d0febccd06255f6383b4b614e10db5]: Textual amendment: Words in [reg. 5(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/18/regulation/5/1/c/ii) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/3/b/i)
+[^c-f2d0febccd06255f6383b4b614e10db5]: Textual amendment: Words in [reg. 5(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/18/regulation/5/1/c/ii) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/3/b/i)
 
-[^key-40843a36d9e17fd35c73dc953a7a5c3b]: Textual amendment: Words in [reg. 5(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/18/regulation/5/1/c/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/3/b/ii)
+[^c-40843a36d9e17fd35c73dc953a7a5c3b]: Textual amendment: Words in [reg. 5(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/18/regulation/5/1/c/ii) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/3/b/ii)
 
-[^key-0bc964f3385f143bf1d1fdda93c6da22]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/18/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
+[^c-0bc964f3385f143bf1d1fdda93c6da22]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/18/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/18/regulation/1/1)
 
-[^key-f720ca11a7c33d03fdb587a01bf40709]: Textual amendment: [Reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/5/a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(4)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/4/a)
+[^c-f720ca11a7c33d03fdb587a01bf40709]: Textual amendment: [Reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/5/a) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(4)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/4/a)
 
-[^key-a3f176566d0b66e007cd8ca285f46752]: Textual amendment: [Reg. 6(5)(b)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/5/b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(4)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/4/b)
+[^c-a3f176566d0b66e007cd8ca285f46752]: Textual amendment: [Reg. 6(5)(b)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/5/b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [76(4)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/76/4/b)
 
-[^key-83577fa0906a87274d42218e2289466c]: Textual amendment: Words in [reg. 6(5)(f)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/5/f) substituted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/19/a)
+[^c-83577fa0906a87274d42218e2289466c]: Textual amendment: Words in [reg. 6(5)(f)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/5/f) substituted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/19/a)
 
-[^key-4928067139b1aa67e30e8c1199be8a68]: Textual amendment: Words in [reg. 6(5)(g)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/5/g) substituted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/19/b)
+[^c-4928067139b1aa67e30e8c1199be8a68]: Textual amendment: Words in [reg. 6(5)(g)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/5/g) substituted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/19/b)
 
-[^key-ae0c4d8ea93e67095f559f72fa000a4a]: Textual amendment: [Reg. 6(9)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/9)[(10)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/10) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/19/c)
+[^c-ae0c4d8ea93e67095f559f72fa000a4a]: Textual amendment: [Reg. 6(9)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/9)[(10)](https://www.legislation.gov.uk/uksi/2015/18/regulation/6/10) inserted (16.12.2024) by [The Health and Care Act 2022 (Further Consequential Amendments) Regulations 2024 (S.I. 2024/1205)](https://www.legislation.gov.uk/uksi/2024/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2024/1205/regulation/19/c)

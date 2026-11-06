@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power to provide for election of mayor[^key-a0d36b60d19bf4d20abd3d8181873328]
+## 27. Power to provide for election of mayor[^c-a0d36b60d19bf4d20abd3d8181873328]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d36b60d19bf4d20abd3d8181873328]: Commencement: S. 27 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-a0d36b60d19bf4d20abd3d8181873328]: Commencement: S. 27 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)

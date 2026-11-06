@@ -27,7 +27,7 @@ summary: ''
 
 (2) For the purposes of paragraph (1), an act or omission may be considered lawful notwithstanding that it would, apart from this regulation, constitute a breach of these Regulations.
 
-(3) Where the holder of hazardous waste knows or has reasonable grounds to believe that an emergency or grave danger has arisen, he or she must notify the NRBW[^key-15ce80c921595ca1bd27c8777acf8b9a] as soon as reasonably practicable of the circumstances.
+(3) Where the holder of hazardous waste knows or has reasonable grounds to believe that an emergency or grave danger has arisen, he or she must notify the NRBW[^c-15ce80c921595ca1bd27c8777acf8b9a] as soon as reasonably practicable of the circumstances.
 
 (4) Where the holder takes any step in compliance with paragraph (1), he or she must, save where such step has completely averted the emergency or grave danger without breach of these Regulations, notify the NRBW as soon as reasonably practicable.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15ce80c921595ca1bd27c8777acf8b9a]: Textual amendment: Word in [reg. 62](https://www.legislation.gov.uk/wsi/2005/1806/regulation/62) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 32(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/32/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-15ce80c921595ca1bd27c8777acf8b9a]: Textual amendment: Word in [reg. 62](https://www.legislation.gov.uk/wsi/2005/1806/regulation/62) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 32(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/32/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

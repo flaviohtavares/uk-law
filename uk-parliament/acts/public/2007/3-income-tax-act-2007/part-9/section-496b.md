@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 496B. Relief for trustees[^key-412db0bd09913c8da0771734ff3b5b5f][^key-06408a7b54140f70a84876e83344a41b]
+## 496B. Relief for trustees[^c-412db0bd09913c8da0771734ff3b5b5f][^c-06408a7b54140f70a84876e83344a41b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ where—
 
 ## Annotations
 
-[^key-412db0bd09913c8da0771734ff3b5b5f]: Modification: S. 496B excluded (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/4)
+[^c-412db0bd09913c8da0771734ff3b5b5f]: Modification: S. 496B excluded (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/4)
 
-[^key-06408a7b54140f70a84876e83344a41b]: Textual amendment: Ss. 496A , 496B and cross-heading inserted (with effect in accordance with art. 3(7) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/157/article/3/3) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
+[^c-06408a7b54140f70a84876e83344a41b]: Textual amendment: Ss. 496A , 496B and cross-heading inserted (with effect in accordance with art. 3(7) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/157/article/3/3) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))

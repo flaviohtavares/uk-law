@@ -46,15 +46,15 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by sections 145 and 148(5) of the Financial Services (Banking Reform) Act 2013[^f00001].
 
-## 1. Citation and commencement[^key-905a5ce8f2a2e42d0b9b72a43f6ae898]
+## 1. Citation and commencement[^c-905a5ce8f2a2e42d0b9b72a43f6ae898]
 
 This Order may be cited as the Financial Services (Banking Reform) Act 2013 (Commencement (No. 8) and Consequential Provisions) Order 2015, and comes into force on 26th March 2015.
 
-## 2. Appointed day for the coming into force of paragraph 4 of Schedule 9[^key-2457da460ed85f84cd7b6879e06be89a]
+## 2. Appointed day for the coming into force of paragraph 4 of Schedule 9[^c-2457da460ed85f84cd7b6879e06be89a]
 
 26th March 2015 is the day appointed for the coming into force of paragraph 4 of Schedule 9 to the Financial Services (Banking Reform) Act 2013 (building societies: ability to create floating charges).
 
-## 3. Consequential amendments of the Building Societies (Financial Assistance) Order 2010[^key-d5df767c3ee423f928c4bfda4dd8549d]
+## 3. Consequential amendments of the Building Societies (Financial Assistance) Order 2010[^c-d5df767c3ee423f928c4bfda4dd8549d]
 
 The Building Societies (Financial Assistance) Order 2010[^f00002] is amended as follows—
 
@@ -63,11 +63,11 @@ The Building Societies (Financial Assistance) Order 2010[^f00002] is amended as 
   - (i) in paragraph (5) for “12, 13, 18 and 20” substitute “12 and 13”; and
   - (ii) in paragraph (8) for “34, 35, 40 and 42” substitute “34 and 35”.
 
-## 4. Floating charges (Scotland): application of Part 18 of the Companies Act 1985[^key-d450776b1054486ba85802625c683c18]
+## 4. Floating charges (Scotland): application of Part 18 of the Companies Act 1985[^c-d450776b1054486ba85802625c683c18]
 
 Chapters 1 and 3 of Part 18 of the Companies Act 1985[^f00003] (floating charges: Scotland) apply to a building society as they apply to an incorporated company (whether a company within the meaning of that Act or not), but with the modifications set out in Schedule 1.
 
-## 5. Floating charges (Scotland): application of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^key-bca725df248930a5edbf57c4fc72066b]
+## 5. Floating charges (Scotland): application of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^c-bca725df248930a5edbf57c4fc72066b]
 
 (1) On the day on which section 46 (repeals, savings and transitional arrangements) of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^f00004] (“the 2007 Act”) comes into force—
 
@@ -91,16 +91,16 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Article 4
 
-**1.**[^key-31aff5314301e14a3c5946baca2aeeea] The modifications of Chapters 1 and 3 of Part 18 of the Companies Act 1985 referred to in article 4 are as follows.
+**1.**[^c-31aff5314301e14a3c5946baca2aeeea] The modifications of Chapters 1 and 3 of Part 18 of the Companies Act 1985 referred to in article 4 are as follows.
 
-**2.**[^key-bd799e13be7260b6d41be3dac5d44174] References to a company or incorporated company include a reference to a building society.
+**2.**[^c-bd799e13be7260b6d41be3dac5d44174] References to a company or incorporated company include a reference to a building society.
 
-**3.**[^key-6b6872670e01d7f8e3b34a93219b0937] Section 462[^f00007] (power of incorporated company to create floating charge) has effect as if in subsection (5)—
+**3.**[^c-6b6872670e01d7f8e3b34a93219b0937] Section 462[^f00007] (power of incorporated company to create floating charge) has effect as if in subsection (5)—
 
-- (a) the reference to the Companies Act 1985 were a reference to such provisions of that Act as apply (by virtue of this Order) to a building society; [^key-73b824b29b81fbb9e389badb327211e7]...
-- (b)[^key-73b824b29b81fbb9e389badb327211e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the reference to the Companies Act 1985 were a reference to such provisions of that Act as apply (by virtue of this Order) to a building society; [^c-73b824b29b81fbb9e389badb327211e7]...
+- (b)[^c-73b824b29b81fbb9e389badb327211e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e2d863079ead38b84b18e3a63c643aeb] Section 463[^f00008] (effect of floating charge on winding up) has effect as if—
+**4.**[^c-e2d863079ead38b84b18e3a63c643aeb] Section 463[^f00008] (effect of floating charge on winding up) has effect as if—
 
 - (a) in subsection (1) for the words “section 247(2) of the Insolvency Act 1986” there were substituted “subsection (1A)”;
 - (b) after subsection (1) there were inserted—
@@ -110,10 +110,10 @@ Article 4
   > - (a) it goes into liquidation within the meaning of section 247(2) of the Insolvency Act 1986[^f00009]; or
   > - (b) the court makes a building society insolvency order in relation to it under section 94 of the Banking Act 2009[^f00010] (as applied by section 90C of the Building Societies Act 1986[^f00011]) at a time when it has not already gone into liquidation by passing a special resolution for voluntary winding up under section 88 of the Building Societies Act 1986[^f00012].
 
-  ; [^key-c37301d714d5a797a72449e85af30e97]...
-- (c)[^key-c37301d714d5a797a72449e85af30e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  ; [^c-c37301d714d5a797a72449e85af30e97]...
+- (c)[^c-c37301d714d5a797a72449e85af30e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1255e771f49400fe700fcc03a32713b5] Section 464[^f00013] (ranking of floating charges) has effect as if—
+**5.**[^c-1255e771f49400fe700fcc03a32713b5] Section 464[^f00013] (ranking of floating charges) has effect as if—
 
 - (a) for paragraphs (b) and (c) of subsection (4) there were substituted—
 
@@ -123,12 +123,12 @@ Article 4
 - (b) subsection (5), and the reference to that subsection in subsection (3), were omitted; and
 - (c) in subsection (6) the words “Part XII and to” were omitted.
 
-**6.**[^key-ac15b1a7a9da1e83f62d3ef9908e51f9] Section 466[^f00014] (alteration of floating charges) has effect as if—
+**6.**[^c-ac15b1a7a9da1e83f62d3ef9908e51f9] Section 466[^f00014] (alteration of floating charges) has effect as if—
 
 - (a) subsections (4) to (4F)[^f00015] were omitted; and
 - (b) in subsection (6) the words “subsection (4) of” were omitted.
 
-**7.**[^key-e2260cc8226abfa61d6810ea62c8c805] Section 486[^f00016] (interpretation for Part 18 generally) has effect as if in subsection (1)—
+**7.**[^c-e2260cc8226abfa61d6810ea62c8c805] Section 486[^f00016] (interpretation for Part 18 generally) has effect as if in subsection (1)—
 
 - (a) in the definition of “ancillary document” paragraph (a) were omitted; and
 - (b) the definition of “company” were omitted.
@@ -137,35 +137,35 @@ Article 4
 
 Article 5(2)
 
-**1.**[^key-ec361883a068bfe4f323a2784906dcda] The modifications of Part 2 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 referred to in article 5(2) are as follows.
+**1.**[^c-ec361883a068bfe4f323a2784906dcda] The modifications of Part 2 of the Bankruptcy and Diligence etc. (Scotland) Act 2007 referred to in article 5(2) are as follows.
 
-**2.**[^key-2002e0ee6296ccae23ff78d94b53e401] References to a company include a reference to a building society.
+**2.**[^c-2002e0ee6296ccae23ff78d94b53e401] References to a company include a reference to a building society.
 
-**3.**[^key-a2d88e764ff68c9401357943d1f68ea7] Section 38 (creation of floating charges) has effect as if for subsections (3) and (3A) there were substituted—
+**3.**[^c-a2d88e764ff68c9401357943d1f68ea7] Section 38 (creation of floating charges) has effect as if for subsections (3) and (3A) there were substituted—
 
 > (3) A floating charge is created only when the document granting the floating charge is executed by the building society granting the charge.
 
 .
 
-**4.**[^key-99839fe7064c3ec978eb55c31bcb0310] Section 39 (advance notice of floating charges) does not apply to building societies.
+**4.**[^c-99839fe7064c3ec978eb55c31bcb0310] Section 39 (advance notice of floating charges) does not apply to building societies.
 
-**5.**[^key-26f9c12d723167d91b8dbbb297d40335] Section 41 (ranking clauses) has effect as if subsection (5) were omitted.
+**5.**[^c-26f9c12d723167d91b8dbbb297d40335] Section 41 (ranking clauses) has effect as if subsection (5) were omitted.
 
-**6.**[^key-a2ab400c7239bd01b8af65ceb1b732c7] Section 42 (assignation of floating charges) has effect as if—
-
-- (a) in subsection (1) the words “the registration in the Register of Floating Charges of” were omitted; and
-- (b) subsection (4) were omitted.
-
-**7.**[^key-3d2e29d61572de38b575672e97669c66] Section 43 (alteration of floating charges) has effect as if subsections (3)(b) and (4A) were omitted.
-
-**8.**[^key-994bfb740f469c45d285225c752da122] Section 44 (discharge of floating charges) has effect as if—
+**6.**[^c-a2ab400c7239bd01b8af65ceb1b732c7] Section 42 (assignation of floating charges) has effect as if—
 
 - (a) in subsection (1) the words “the registration in the Register of Floating Charges of” were omitted; and
 - (b) subsection (4) were omitted.
 
-**9.**[^key-9c9739f6a8bb702315b4d42d9e7dba56] Section 45 (effect of floating charges on winding up) has effect as if—
+**7.**[^c-3d2e29d61572de38b575672e97669c66] Section 43 (alteration of floating charges) has effect as if subsections (3)(b) and (4A) were omitted.
 
-- (a) subsections (2) [^key-3eb2889c5cfb422ca858542ada61ed77]... and (8) were omitted; and
+**8.**[^c-994bfb740f469c45d285225c752da122] Section 44 (discharge of floating charges) has effect as if—
+
+- (a) in subsection (1) the words “the registration in the Register of Floating Charges of” were omitted; and
+- (b) subsection (4) were omitted.
+
+**9.**[^c-9c9739f6a8bb702315b4d42d9e7dba56] Section 45 (effect of floating charges on winding up) has effect as if—
+
+- (a) subsections (2) [^c-3eb2889c5cfb422ca858542ada61ed77]... and (8) were omitted; and
 - (b) for subsection (7) there were substituted—
 
   > (7) For the purposes of this section a building society goes into liquidation if—
@@ -175,7 +175,7 @@ Article 5(2)
 
   .
 
-**10.**[^key-5cd0987d598244b767ff4a141cb4af18] Section 47 (interpretation) has effect as if the definition of “company” were omitted.
+**10.**[^c-5cd0987d598244b767ff4a141cb4af18] Section 47 (interpretation) has effect as if the definition of “company” were omitted.
 
 EXPLANATORY NOTE
 
@@ -259,19 +259,19 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2013 c. 33](https://www.legislation.gov.uk/ukpga/2013/33).
 
-[^key-905a5ce8f2a2e42d0b9b72a43f6ae898]: Commencement: Art. 1 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-905a5ce8f2a2e42d0b9b72a43f6ae898]: Commencement: Art. 1 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-2457da460ed85f84cd7b6879e06be89a]: Commencement: Art. 2 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-2457da460ed85f84cd7b6879e06be89a]: Commencement: Art. 2 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-d5df767c3ee423f928c4bfda4dd8549d]: Commencement: Art. 3 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-d5df767c3ee423f928c4bfda4dd8549d]: Commencement: Art. 3 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
 [^f00002]: Footnote: [S.I. 2010/1188](https://www.legislation.gov.uk/uksi/2010/1188).
 
-[^key-d450776b1054486ba85802625c683c18]: Commencement: Art. 4 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-d450776b1054486ba85802625c683c18]: Commencement: Art. 4 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
 [^f00003]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6). Part 18 is repealed, from a day to be appointed, by the Bankruptcy and Diligence (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), section 46(1). Section 46(2) and (3) provides that nothing in Part 2, except sections 40 and 41 so far as they concern the ranking of floating charges subsisting immediately before the coming into force of section 46 (“subsisting charges”), affects the validity or operation of subsisting charges, so that the provisions of Chapters 1 and 3 of Part 18 of the Companies Act 1985 are to be treated as having effect for the purposes of subsisting charges despite the repeal of those Chapters.
 
-[^key-bca725df248930a5edbf57c4fc72066b]: Commencement: Art. 5 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-bca725df248930a5edbf57c4fc72066b]: Commencement: Art. 5 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
 [^f00004]: Footnote: [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3).
 
@@ -279,17 +279,17 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00006]: Footnote: [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
 
-[^key-31aff5314301e14a3c5946baca2aeeea]: Commencement: Sch. 1 para. 1 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-31aff5314301e14a3c5946baca2aeeea]: Commencement: Sch. 1 para. 1 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-bd799e13be7260b6d41be3dac5d44174]: Commencement: Sch. 1 para. 2 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-bd799e13be7260b6d41be3dac5d44174]: Commencement: Sch. 1 para. 2 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-6b6872670e01d7f8e3b34a93219b0937]: Commencement: Sch. 1 para. 3 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-6b6872670e01d7f8e3b34a93219b0937]: Commencement: Sch. 1 para. 3 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
 [^f00007]: Footnote: Section 462 was amended by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 130(7) and Schedule 17, paragraph 8; by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40), section 74, Schedule 8, paragraph 33(6) and Schedule 9; by the Requirements of Writing (Scotland) Act [1995 (c. 7)](https://www.legislation.gov.uk/ukpga/1995/7), section 14(2) and Schedule 5; and by the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45), section 439(1) and Schedule 13.
 
-[^key-73b824b29b81fbb9e389badb327211e7]: Textual amendment: [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2015/428/schedule/1/paragraph/3/b) and word omitted (28.6.2016) by virtue of [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2016/679/article/7/a/i) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2016/679/article/1/4))
+[^c-73b824b29b81fbb9e389badb327211e7]: Textual amendment: [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2015/428/schedule/1/paragraph/3/b) and word omitted (28.6.2016) by virtue of [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2016/679/article/7/a/i) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2016/679/article/1/4))
 
-[^key-e2d863079ead38b84b18e3a63c643aeb]: Commencement: Sch. 1 para. 4 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-e2d863079ead38b84b18e3a63c643aeb]: Commencement: Sch. 1 para. 4 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
 [^f00008]: Footnote: Section 463 was amended by the Companies Act 1989, section 140(1); and by the Insolvency Act 1986, sections 438 and 439(1) and Schedules 12 and 13.
 
@@ -301,40 +301,40 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00012]: Footnote: Section 88 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and [2013/496](https://www.legislation.gov.uk/uksi/2013/496).
 
-[^key-c37301d714d5a797a72449e85af30e97]: Textual amendment: [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/uksi/2015/428/schedule/1/paragraph/4/c) and word omitted (28.6.2016) by virtue of [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2016/679/article/7/a/ii) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2016/679/article/1/4))
+[^c-c37301d714d5a797a72449e85af30e97]: Textual amendment: [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/uksi/2015/428/schedule/1/paragraph/4/c) and word omitted (28.6.2016) by virtue of [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2016/679/article/7/a/ii) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2016/679/article/1/4))
 
-[^key-1255e771f49400fe700fcc03a32713b5]: Commencement: Sch. 1 para. 5 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-1255e771f49400fe700fcc03a32713b5]: Commencement: Sch. 1 para. 5 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
 [^f00013]: Footnote: Section 464 was amended by the Companies Act 1989, section 140(2) to (7); and by the Insolvency Act 1986, section 439(1) and Schedule 13.
 
-[^key-ac15b1a7a9da1e83f62d3ef9908e51f9]: Commencement: Sch. 1 para. 6 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-ac15b1a7a9da1e83f62d3ef9908e51f9]: Commencement: Sch. 1 para. 6 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
 [^f00014]: Footnote: Section 466 was amended by the Companies Act 1989, sections 130(7), 140(8) and 212, Schedule 17, paragraph 9 and Schedule 24; and by [S.I. 2013/600](https://www.legislation.gov.uk/uksi/2013/600).
 
 [^f00015]: Footnote: Subsections (4A) to (4F) of section 466 were inserted, and subsection (5) was repealed, by [S.I. 2013/600](https://www.legislation.gov.uk/uksi/2013/600).
 
-[^key-e2260cc8226abfa61d6810ea62c8c805]: Commencement: Sch. 1 para. 7 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-e2260cc8226abfa61d6810ea62c8c805]: Commencement: Sch. 1 para. 7 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
 [^f00016]: Footnote: Section 486 was amended by the Insolvency Act 1986, section 438 and Schedule 12.
 
-[^key-ec361883a068bfe4f323a2784906dcda]: Commencement: Sch. 2 para. 1 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-ec361883a068bfe4f323a2784906dcda]: Commencement: Sch. 2 para. 1 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-2002e0ee6296ccae23ff78d94b53e401]: Commencement: Sch. 2 para. 2 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-2002e0ee6296ccae23ff78d94b53e401]: Commencement: Sch. 2 para. 2 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-a2d88e764ff68c9401357943d1f68ea7]: Commencement: Sch. 2 para. 3 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-a2d88e764ff68c9401357943d1f68ea7]: Commencement: Sch. 2 para. 3 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-99839fe7064c3ec978eb55c31bcb0310]: Commencement: Sch. 2 para. 4 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-99839fe7064c3ec978eb55c31bcb0310]: Commencement: Sch. 2 para. 4 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-26f9c12d723167d91b8dbbb297d40335]: Commencement: Sch. 2 para. 5 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-26f9c12d723167d91b8dbbb297d40335]: Commencement: Sch. 2 para. 5 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-a2ab400c7239bd01b8af65ceb1b732c7]: Commencement: Sch. 2 para. 6 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-a2ab400c7239bd01b8af65ceb1b732c7]: Commencement: Sch. 2 para. 6 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-3d2e29d61572de38b575672e97669c66]: Commencement: Sch. 2 para. 7 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-3d2e29d61572de38b575672e97669c66]: Commencement: Sch. 2 para. 7 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-994bfb740f469c45d285225c752da122]: Commencement: Sch. 2 para. 8 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-994bfb740f469c45d285225c752da122]: Commencement: Sch. 2 para. 8 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-9c9739f6a8bb702315b4d42d9e7dba56]: Commencement: Sch. 2 para. 9 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-9c9739f6a8bb702315b4d42d9e7dba56]: Commencement: Sch. 2 para. 9 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
 
-[^key-3eb2889c5cfb422ca858542ada61ed77]: Textual amendment: Word in [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2015/428/schedule/2/paragraph/9/a) omitted (28.6.2016) by virtue of [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2016/679/article/7/b) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2016/679/article/1/4))
+[^c-3eb2889c5cfb422ca858542ada61ed77]: Textual amendment: Word in [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2015/428/schedule/2/paragraph/9/a) omitted (28.6.2016) by virtue of [The Building Societies (Floating Charges and Other Provisions) Order 2016 (S.I. 2016/679)](https://www.legislation.gov.uk/uksi/2016/679), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2016/679/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2016/679/article/7/b) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2016/679/article/1/4))
 
-[^key-5cd0987d598244b767ff4a141cb4af18]: Commencement: Sch. 2 para. 10 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)
+[^c-5cd0987d598244b767ff4a141cb4af18]: Commencement: Sch. 2 para. 10 in force at 26.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/428/article/1)

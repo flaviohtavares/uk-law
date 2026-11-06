@@ -33,18 +33,18 @@ of 28 September 2018
 
 on the position to be taken on behalf of the European Union within the United Nations Economic Commission for Europe (UNECE) Working Party on Customs Questions affecting Transport and within the UNECE Inland Transport Committee concerning the adoption of the Convention on the facilitation of border crossing procedures for passengers, luggage and load-luggage carried in international traffic by rail (revoked)
 
-[^key-eae9411ff2a365bd2733349bb2d4e974]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eae9411ff2a365bd2733349bb2d4e974]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-eae9411ff2a365bd2733349bb2d4e974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-eae9411ff2a365bd2733349bb2d4e974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-eae9411ff2a365bd2733349bb2d4e974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-eae9411ff2a365bd2733349bb2d4e974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-eae9411ff2a365bd2733349bb2d4e974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-eae9411ff2a365bd2733349bb2d4e974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eae9411ff2a365bd2733349bb2d4e974]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eae9411ff2a365bd2733349bb2d4e974]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eae9411ff2a365bd2733349bb2d4e974]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-eae9411ff2a365bd2733349bb2d4e974]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

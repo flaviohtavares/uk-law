@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In respect of the area of each HWB, NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] must prepare and publish a list (a “dispensing doctor list”) of the names of any “dispensing doctors” in that area, that is to say—
+(1) In respect of the area of each HWB, NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] must prepare and publish a list (a “dispensing doctor list”) of the names of any “dispensing doctors” in that area, that is to say—
 
-- (a) providers of primary medical services who provide pharmaceutical services at or[^key-efe7f4a1dd16d8eb451c624dbc70658c] from medical practice premises in that area; and
-- (b) general practitioners who are not providers of primary medical services but who provide pharmaceutical services at or[^key-21fa4717b51f0803589766ce9f8c44aa] from medical practice premises in that area (not including general practitioners who are listed as part of the listing of a provider by virtue of paragraph (6)(b)).
+- (a) providers of primary medical services who provide pharmaceutical services at or[^c-efe7f4a1dd16d8eb451c624dbc70658c] from medical practice premises in that area; and
+- (b) general practitioners who are not providers of primary medical services but who provide pharmaceutical services at or[^c-21fa4717b51f0803589766ce9f8c44aa] from medical practice premises in that area (not including general practitioners who are listed as part of the listing of a provider by virtue of paragraph (6)(b)).
 
 (2) Each dispensing doctor list must include—
 
@@ -58,8 +58,8 @@ they may request that NHS England lists that provider instead of them as the dis
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-efe7f4a1dd16d8eb451c624dbc70658c]: Textual amendment: Words in [reg. 46(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/46/1/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [28(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/28/a)
+[^c-efe7f4a1dd16d8eb451c624dbc70658c]: Textual amendment: Words in [reg. 46(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/regulation/46/1/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [28(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/28/a)
 
-[^key-21fa4717b51f0803589766ce9f8c44aa]: Textual amendment: Words in [reg. 46(1)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/46/1/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [28(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/28/b)
+[^c-21fa4717b51f0803589766ce9f8c44aa]: Textual amendment: Words in [reg. 46(1)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/46/1/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [28(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/28/b)

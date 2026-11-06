@@ -37,7 +37,7 @@ An Act to make further provision with respect to the duration of the Convocation
 
 (1) Notwithstanding any custom or rule of law to the contrary, the Convocations of Canterbury and York may be called together and dissolved at such times as Her Majesty may determine, without regard to the time at which Parliament is summoned or dissolved.
 
-(2) A Convocation of Canterbury or York shall (unless sooner dissolved pursuant to Her Majesty’s directions) stand dissolved at the expiration of the period of five years [^key-7533f6aa63c7b20484fa594e9552cdcd]... beginning with the date for which it was called together.
+(2) A Convocation of Canterbury or York shall (unless sooner dissolved pursuant to Her Majesty’s directions) stand dissolved at the expiration of the period of five years [^c-7533f6aa63c7b20484fa594e9552cdcd]... beginning with the date for which it was called together.
 
 (3) On the dissolution of the said Convocations, the power of Her Majesty to provide for the election of members and the calling together of new Convocations shall be exercised as heretofore so as to secure that the new Convocations are called together as soon as may be convenient after the dissolution of the old.
 
@@ -49,4 +49,4 @@ This Act may be cited as the Church of England Convocations Act 1966.
 
 ## Annotations
 
-[^key-7533f6aa63c7b20484fa594e9552cdcd]: Textual amendment: Words in s. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-7533f6aa63c7b20484fa594e9552cdcd]: Textual amendment: Words in s. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)

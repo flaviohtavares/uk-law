@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-582403c091bd8fbf538551a87e416ba0]
+## 1. Citation and commencement[^c-582403c091bd8fbf538551a87e416ba0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Hornsea Three Offshore Wind Farm Order 2020 and c
 
 ## Annotations
 
-[^key-582403c091bd8fbf538551a87e416ba0]: Commencement: Art. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-582403c091bd8fbf538551a87e416ba0]: Commencement: Art. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

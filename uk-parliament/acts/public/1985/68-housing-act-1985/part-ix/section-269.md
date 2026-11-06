@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A person aggrieved by a demolition order may, within the period of 28 days beginning with the day on which the order is made,[^c19103141], appeal to the appropriate tribunal[^key-0a55cc8d90efdf093bfc6373fda4fc30].
+(1) A person aggrieved by a demolition order may, within the period of 28 days beginning with the day on which the order is made,[^c19103141], appeal to the appropriate tribunal[^c-0a55cc8d90efdf093bfc6373fda4fc30].
 
 (2) No appeal lies at the instance of a person who is in occupation of the premises or part of the premises[^c15071701] under a lease or agreement with an unexpired term of three years or less.
 
@@ -46,7 +46,7 @@ and for this purpose the withdrawal of an appeal has the same effect as a decisi
 
 [^c19103141]: Textual amendment: Words in s. 269(1) substituted (6.4.2006 for E. and 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 265(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/265/1), [270(4)(5)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4/5), [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/14); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-0a55cc8d90efdf093bfc6373fda4fc30]: Textual amendment: Words in s. 269(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/41) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-0a55cc8d90efdf093bfc6373fda4fc30]: Textual amendment: Words in s. 269(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/41) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c15071701]: Textual amendment: Words inserted by [Local Government and Housing Act 1989 (c. 42, SIF 61)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 165(1)(b)](https://www.legislation.gov.uk/ukpga/1989/42/section/165/1/b), [Sch. 9 Pt. II para. 17(1)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/9/part/II/paragraph/17/1)
 

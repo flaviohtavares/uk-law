@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Adoption of sewers and disposal works.[^key-5ceb24487a52e366262a1e88245c951e]
+## 102. Adoption of sewers and disposal works.[^c-5ceb24487a52e366262a1e88245c951e]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ shall, as from such date as may be specified in the declaration, become vested i
 
 (4) A sewerage undertaker which proposes to make a declaration under this section—
 
-- (za)[^key-c09f04bc156c44233b4ca50795289195] shall give notice of its proposal to any sewerage licensee which uses, or removes matter from, the undertaker's sewerage system in accordance with a retail, wholesale or disposal authorisation;
+- (za)[^c-c09f04bc156c44233b4ca50795289195] shall give notice of its proposal to any sewerage licensee which uses, or removes matter from, the undertaker's sewerage system in accordance with a retail, wholesale or disposal authorisation;
 - (a) shall give notice of its proposal to the owner or owners of the sewer , lateral drain[^c19835231] or works in question; and
 - (b) shall take no further action in the matter until two months have elapsed without an appeal against the proposal being lodged under section 105 below or, as the case may be, until any appeal so lodged has been determined.
 
@@ -54,7 +54,7 @@ shall, as from such date as may be specified in the declaration, become vested i
 
 ## Annotations
 
-[^key-5ceb24487a52e366262a1e88245c951e]: Modification: S. 102 excluded (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/5/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-5ceb24487a52e366262a1e88245c951e]: Modification: S. 102 excluded (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/5/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c19835401]: Textual amendment: Word in s. 102(1)(a) repealed (28.5.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 96(1)(a)(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/96/1/a/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)(d)(i)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b/d/i) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
@@ -62,7 +62,7 @@ shall, as from such date as may be specified in the declaration, become vested i
 
 [^c19835201]: Textual amendment: Words in s. 102(2) inserted (28.5.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 96(1)(b)(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/96/1/b/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-c09f04bc156c44233b4ca50795289195]: Textual amendment: [S. 102(4)(za)](https://www.legislation.gov.uk/ukpga/1991/56/section/102/4/za) inserted (1.4.2017 for specified purposes) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 90](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/90); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xi)
+[^c-c09f04bc156c44233b4ca50795289195]: Textual amendment: [S. 102(4)(za)](https://www.legislation.gov.uk/ukpga/1991/56/section/102/4/za) inserted (1.4.2017 for specified purposes) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 90](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/90); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xi)
 
 [^c19835231]: Textual amendment: Words in s. 102(4)(a) inserted (28.5.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 96(1)(c)(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/96/1/c/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 

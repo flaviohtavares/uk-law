@@ -40,7 +40,7 @@ The power to make regulations in terms of this subsection does not extend to the
 
 (5) Nothing in subsection (4) shall be construed as authorising the bringing of proceedings for a criminal offence against a person acting on behalf of the Crown.
 
-(5A)[^key-a7e4909e9c159152f8f4d50e842db2f1] The provisions of Part 3A of this Act (National Underground Asset Register: England and Wales) bind the Crown.
+(5A)[^c-a7e4909e9c159152f8f4d50e842db2f1] The provisions of Part 3A of this Act (National Underground Asset Register: England and Wales) bind the Crown.
 
 (5B) Nothing in subsection (5A) is to be construed as authorising the bringing of proceedings for a criminal offence against a person acting on behalf of the Crown.
 
@@ -62,4 +62,4 @@ The power to make regulations in terms of this subsection does not extend to the
 
 [^c14151041]: Textual amendment: Words in [s. 167(3)](https://www.legislation.gov.uk/ukpga/1991/22/section/167/3) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 103](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/103); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-a7e4909e9c159152f8f4d50e842db2f1]: Textual amendment: [S. 167(5A)](https://www.legislation.gov.uk/ukpga/1991/22/section/167/5A)[(5B)](https://www.legislation.gov.uk/ukpga/1991/22/section/167/5B) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 56(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/56/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/1))
+[^c-a7e4909e9c159152f8f4d50e842db2f1]: Textual amendment: [S. 167(5A)](https://www.legislation.gov.uk/ukpga/1991/22/section/167/5A)[(5B)](https://www.legislation.gov.uk/ukpga/1991/22/section/167/5B) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 56(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/56/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/1))

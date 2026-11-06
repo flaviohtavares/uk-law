@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 876. Interest paid by deposit-takers[^key-18ed39ca618ce9e22419a53a6dcabb5f]
+## 876. Interest paid by deposit-takers[^c-18ed39ca618ce9e22419a53a6dcabb5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18ed39ca618ce9e22419a53a6dcabb5f]: Textual amendment: S. 876(1)(1A) substituted for s. 876(1) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/2)
+[^c-18ed39ca618ce9e22419a53a6dcabb5f]: Textual amendment: S. 876(1)(1A) substituted for s. 876(1) (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/6/paragraph/2)

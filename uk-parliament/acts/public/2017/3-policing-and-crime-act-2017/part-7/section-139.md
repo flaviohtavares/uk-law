@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Licensing Act 2003: addition of further relevant offences[^c22719781][^key-3734bb9696fdb252dad9b4086647f4f9]
+## 139. Licensing Act 2003: addition of further relevant offences[^c22719781][^c-3734bb9696fdb252dad9b4086647f4f9]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c22719781]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2017/3/section/139) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3734bb9696fdb252dad9b4086647f4f9]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2017/3/section/139) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/e)
+[^c-3734bb9696fdb252dad9b4086647f4f9]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2017/3/section/139) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Suspension[^key-098ac48646ae59b244adb0957e31d9e0]
+## 49. Suspension[^c-098ac48646ae59b244adb0957e31d9e0]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Once only in the course of a meeting, the chair may, without an adjournment, dec
 
 ## Annotations
 
-[^key-098ac48646ae59b244adb0957e31d9e0]: Commencement: [Rule 49](https://www.legislation.gov.uk/nisr/2026/11/rule/49) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-098ac48646ae59b244adb0957e31d9e0]: Commencement: [Rule 49](https://www.legislation.gov.uk/nisr/2026/11/rule/49) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. Guidance about collaboration between Welsh improvement authorities[^key-f32276974b088eab0b733fed16c46da8]
+## 161. Guidance about collaboration between Welsh improvement authorities[^c-f32276974b088eab0b733fed16c46da8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ After section 12 of the Local Government (Wales) Measure 2009 insert the followi
 
 ## Annotations
 
-[^key-f32276974b088eab0b733fed16c46da8]: Commencement: S. 161 in force at 31.8.2011 by [S.I. 2011/2011](https://www.legislation.gov.uk/wsi/2011/2011), [art. 2(r)](https://www.legislation.gov.uk/wsi/2011/2011/article/2/r)
+[^c-f32276974b088eab0b733fed16c46da8]: Commencement: S. 161 in force at 31.8.2011 by [S.I. 2011/2011](https://www.legislation.gov.uk/wsi/2011/2011), [art. 2(r)](https://www.legislation.gov.uk/wsi/2011/2011/article/2/r)

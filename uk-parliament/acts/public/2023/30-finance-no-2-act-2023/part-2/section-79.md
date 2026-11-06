@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Imported goods not for human consumption[^M_I_384d5933-d63f-4854-e35a-d70f65628fe5][^key-84618979dde4e60dc2316c43c8e2bd3d]
+## 79. Imported goods not for human consumption[^M_I_384d5933-d63f-4854-e35a-d70f65628fe5][^c-84618979dde4e60dc2316c43c8e2bd3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_384d5933-d63f-4854-e35a-d70f65628fe5]: Commencement: S. 79 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-84618979dde4e60dc2316c43c8e2bd3d]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2023/30/section/79) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-84618979dde4e60dc2316c43c8e2bd3d]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2023/30/section/79) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

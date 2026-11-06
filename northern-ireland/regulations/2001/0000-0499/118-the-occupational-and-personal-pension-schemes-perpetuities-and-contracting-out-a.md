@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 5(3)(*aa*), (5) and (6)(*a*), 159(2), (4) and (5) and 172(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-167054472a9999b4bc8cc9c7266e9d20]
+## 1. Citation, commencement and interpretation[^c-167054472a9999b4bc8cc9c7266e9d20]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Perpetuities and Contracting-out) (Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 6th April 2001.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Personal and Occupational Pension Schemes (Perpetuities) Regulations[^key-974b7cbc48cd23adf479b400710d9ed2]
+## 2. Amendment of the Personal and Occupational Pension Schemes (Perpetuities) Regulations[^c-974b7cbc48cd23adf479b400710d9ed2]
 
 In regulation 2 of the Personal and Occupational Pension Schemes (Perpetuities) Regulations (Northern Ireland) 1990 (occupational pension schemes to which section 159 of the Act applies)[^f00004]—
 
@@ -57,11 +57,11 @@ In regulation 2 of the Personal and Occupational Pension Schemes (Perpetuities) 
   - (i) after “under” there shall be inserted “section 192(3) or”, and
   - (ii) after “Chapter I” there shall be inserted “or, as the case may be, Chapter IV[^f00006]”.
 
-## 3. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-1b80417188b7facd2fcbd8752a6b6ba3]
+## 3. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^c-1b80417188b7facd2fcbd8752a6b6ba3]
 
 In regulation 40 of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 (schemes which may not be contracted-out under section 5(3) of the Act)[^f00007] for the words from “a scheme” to “Taxes Act” there shall be substituted “an occupational pension scheme which is not an exempt approved scheme within the meaning of section 592(1) of the Taxes Act or which is not an approved personal pension scheme under Chapter IV of Part XIV of that Act”.
 
-## 4. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^key-ea32e323b944b202dd00e1081cd5a608]
+## 4. Amendment of the Personal Pension Schemes (Appropriate Schemes) Regulations[^c-ea32e323b944b202dd00e1081cd5a608]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,11 +87,11 @@ Regulation 4 amends the Personal Pension Schemes (Appropriate Schemes) Regulatio
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-167054472a9999b4bc8cc9c7266e9d20]: Commencement: Reg. 1 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/118/regulation/1/1)
+[^c-167054472a9999b4bc8cc9c7266e9d20]: Commencement: Reg. 1 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/118/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-974b7cbc48cd23adf479b400710d9ed2]: Commencement: Reg. 2 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/118/regulation/1/1)
+[^c-974b7cbc48cd23adf479b400710d9ed2]: Commencement: Reg. 2 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/118/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1990 No. 204](https://www.legislation.gov.uk/nisr/1990/204); relevant amending regulations are [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
@@ -99,8 +99,8 @@ Regulation 4 amends the Personal Pension Schemes (Appropriate Schemes) Regulatio
 
 [^f00006]: Footnote: *See* Chapters I and IV of Part XIV of the Income and Corporation Taxes Act 1988, as amended by Schedule 13 to the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17)
 
-[^key-1b80417188b7facd2fcbd8752a6b6ba3]: Commencement: Reg. 3 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/118/regulation/1/1)
+[^c-1b80417188b7facd2fcbd8752a6b6ba3]: Commencement: Reg. 3 in operation at 6.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/118/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493), to which there are amendments not relevant to these regulations
 
-[^key-ea32e323b944b202dd00e1081cd5a608]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/118/regulation/4) revoked (1.10.2008) by [The Personal and Occupational Pension Schemes (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/364)](https://www.legislation.gov.uk/nisr/2008/364), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/364/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/364/schedule)
+[^c-ea32e323b944b202dd00e1081cd5a608]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/118/regulation/4) revoked (1.10.2008) by [The Personal and Occupational Pension Schemes (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/364)](https://www.legislation.gov.uk/nisr/2008/364), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/364/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/364/schedule)

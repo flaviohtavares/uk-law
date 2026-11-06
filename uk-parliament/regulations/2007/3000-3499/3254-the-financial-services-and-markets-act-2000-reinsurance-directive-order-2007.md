@@ -32,7 +32,7 @@ summary: ''
 
 FINANCIAL SERVICES AND MARKETS
 
-The Financial Services and Markets Act 2000 (Reinsurance Directive) Order 2007 (revoked)[^key-253004de4ef37edcd484330cf47ac0f9]
+The Financial Services and Markets Act 2000 (Reinsurance Directive) Order 2007 (revoked)[^c-253004de4ef37edcd484330cf47ac0f9]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 10th December 2007
 
-[^key-253004de4ef37edcd484330cf47ac0f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-253004de4ef37edcd484330cf47ac0f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-253004de4ef37edcd484330cf47ac0f9]
+## 1. Citation and commencement[^c-253004de4ef37edcd484330cf47ac0f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-253004de4ef37edcd484330cf47ac0f9]
+## 2. Amendments to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-253004de4ef37edcd484330cf47ac0f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^key-253004de4ef37edcd484330cf47ac0f9]
+## 3. Amendments to the Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^c-253004de4ef37edcd484330cf47ac0f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-253004de4ef37edcd484330cf47ac0f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-253004de4ef37edcd484330cf47ac0f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-253004de4ef37edcd484330cf47ac0f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-253004de4ef37edcd484330cf47ac0f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-253004de4ef37edcd484330cf47ac0f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3254) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-253004de4ef37edcd484330cf47ac0f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3254) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

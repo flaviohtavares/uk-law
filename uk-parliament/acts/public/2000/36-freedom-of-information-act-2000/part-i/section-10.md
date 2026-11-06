@@ -31,12 +31,12 @@ summary: ''
 
 the public authority need not comply with section 1(1)(a) or (b) until such time as is reasonable in the circumstances; but this subsection does not affect the time by which any notice under section 17(1) must be given.
 
-(4)[^key-4f77bd546120917a92a293e89d0ac5e7] The Minister for the Cabinet Office[^key-ff463a91e3499855d70017a456f7e6af] may by regulations provide that subsections (1) and (2) are to have effect as if any reference to the twentieth working day following the date of receipt were a reference to such other day, not later than the sixtieth working day following the date of receipt, as may be specified in, or determined in accordance with, the regulations.
+(4)[^c-4f77bd546120917a92a293e89d0ac5e7] The Minister for the Cabinet Office[^c-ff463a91e3499855d70017a456f7e6af] may by regulations provide that subsections (1) and (2) are to have effect as if any reference to the twentieth working day following the date of receipt were a reference to such other day, not later than the sixtieth working day following the date of receipt, as may be specified in, or determined in accordance with, the regulations.
 
 (5) Regulations under subsection (4) may—
 
 - (a) prescribe different days in relation to different cases, and
-- (b) confer a discretion on the Commission[^key-a3ba0d77b695f960f9e48eae582c8213].
+- (b) confer a discretion on the Commission[^c-a3ba0d77b695f960f9e48eae582c8213].
 
 (6) In this section—
 
@@ -55,10 +55,10 @@ the public authority need not comply with section 1(1)(a) or (b) until such time
 
 [^c21134441]: Modification: S. 10(1)(2) modified (18.11.2010) by [The Freedom of Information (Time for Compliance with Request) Regulations 2010 (S.I. 2010/2768)](https://www.legislation.gov.uk/uksi/2010/2768), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2768/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2010/2768/regulation/2)
 
-[^key-4f77bd546120917a92a293e89d0ac5e7]: Modification: S. 10(4) functions transferred (9.12.2015) by [The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897)](https://www.legislation.gov.uk/uksi/2015/1897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/1), [(2)(b)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/2/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/1897/article/5))
+[^c-4f77bd546120917a92a293e89d0ac5e7]: Modification: S. 10(4) functions transferred (9.12.2015) by [The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897)](https://www.legislation.gov.uk/uksi/2015/1897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/1), [(2)(b)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/2/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/1897/article/5))
 
-[^key-ff463a91e3499855d70017a456f7e6af]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/ukpga/2000/36/section/10/4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 14(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/14/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-ff463a91e3499855d70017a456f7e6af]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/ukpga/2000/36/section/10/4) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 14(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/14/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-a3ba0d77b695f960f9e48eae582c8213]: Textual amendment: Word in [s. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2000/36/section/10/5/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/12/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-a3ba0d77b695f960f9e48eae582c8213]: Textual amendment: Word in [s. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2000/36/section/10/5/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/12/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^c11340731]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

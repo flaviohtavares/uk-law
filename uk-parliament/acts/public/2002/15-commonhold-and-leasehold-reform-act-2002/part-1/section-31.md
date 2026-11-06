@@ -44,7 +44,7 @@ summary: ''
 - (b) to undertake works;
 - (c) to grant access;
 - (d) to give notice;
-- (da)[^key-f6f3924655328dec213b89d4f7f1c18d] to give information;
+- (da)[^c-f6f3924655328dec213b89d4f7f1c18d] to give information;
 - (db) to apply for grants or other funding;
 - (e) to refrain from entering into transactions of a specified kind in relation to a commonhold unit;
 - (f) to refrain from using the whole or part of a commonhold unit for a specified purpose or for anything other than a specified purpose;
@@ -70,6 +70,6 @@ summary: ''
 
 [^c21534801]: Textual amendment: Words in s. 31(4)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [Sch. 1 para. 194(6)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/194/6/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-f6f3924655328dec213b89d4f7f1c18d]: Textual amendment: [S. 31(5)(da)](https://www.legislation.gov.uk/ukpga/2002/15/section/31/5/da)[(db)](https://www.legislation.gov.uk/ukpga/2002/15/section/31/5/db) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/5), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
+[^c-f6f3924655328dec213b89d4f7f1c18d]: Textual amendment: [S. 31(5)(da)](https://www.legislation.gov.uk/ukpga/2002/15/section/31/5/da)[(db)](https://www.legislation.gov.uk/ukpga/2002/15/section/31/5/db) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/5), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
 
 [^c21534821]: Textual amendment: Words in s. 31(9)(d) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [Sch. 1 para. 194(6)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/194/6/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

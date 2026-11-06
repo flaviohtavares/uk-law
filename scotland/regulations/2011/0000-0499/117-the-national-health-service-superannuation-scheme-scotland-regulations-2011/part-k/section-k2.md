@@ -25,7 +25,7 @@ summary: ''
 (2) The weekly rate of the member's pension from guaranteed minimum pension age will not be less than the member's guaranteed minimum, except that—
 
 - (a) payment may at the discretion of the Scottish Ministers be postponed for up to 5 years if the member remains in NHS employment, or for any period if the postponement continues or occurs more than 5 years after guaranteed minimum pension age if the member consents; in which case the member's guaranteed minimum pension will be increased as described in regulation K3 (late retirement);
-- (b)[^key-3c7946595b9e28af4b1e4529d7ca39e1] payment may be reduced under regulation S2 (reduction of pension on return to NHS employment) if the member returns to NHS employment, in which case the member’s guaranteed minimum pension will be increased as described in regulation K3 (late retirement), and
+- (b)[^c-3c7946595b9e28af4b1e4529d7ca39e1] payment may be reduced under regulation S2 (reduction of pension on return to NHS employment) if the member returns to NHS employment, in which case the member’s guaranteed minimum pension will be increased as described in regulation K3 (late retirement), and
 - (c) payment may be reduced or suspended where the Scottish Ministers have made a direction under regulation T7 (loss of rights to benefit) or where they have discharged their liability by making a payment under regulation T8 or under Part M (transfers or buy-outs).
 
 (3) If the member is a man and dies leaving a widow, the weekly rate of the widow's pension will not be less than half the member's guaranteed minimum for any period such as is mentioned in section 17(5) of the 1993 Act.
@@ -57,4 +57,4 @@ but, in either case, remains (as described in regulation E15(2)) entitled to a 
 
 ## Annotations
 
-[^key-3c7946595b9e28af4b1e4529d7ca39e1]: Textual amendment: Reg. K2(2)(b) substituted (with effect from 1.4.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/4), [21](https://www.legislation.gov.uk/ssi/2024/272/regulation/21)
+[^c-3c7946595b9e28af4b1e4529d7ca39e1]: Textual amendment: Reg. K2(2)(b) substituted (with effect from 1.4.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/4), [21](https://www.legislation.gov.uk/ssi/2024/272/regulation/21)

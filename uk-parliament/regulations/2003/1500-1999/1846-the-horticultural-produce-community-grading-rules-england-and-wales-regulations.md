@@ -31,7 +31,7 @@ summary: ''
 
 HORTICULTURE, ENGLAND AND WALES
 
-The Horticultural Produce (Community Grading Rules) (England and Wales) Regulations 2003 (revoked)[^key-d524b0d6185382b2a1e721e926f05ea5]
+The Horticultural Produce (Community Grading Rules) (England and Wales) Regulations 2003 (revoked)[^c-d524b0d6185382b2a1e721e926f05ea5]
 
 Made
 
@@ -45,23 +45,23 @@ Coming into force
 
 8th August 2003
 
-[^key-d524b0d6185382b2a1e721e926f05ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d524b0d6185382b2a1e721e926f05ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-d524b0d6185382b2a1e721e926f05ea5]
+## 1. Title, extent and commencement[^c-d524b0d6185382b2a1e721e926f05ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application of the Agriculture and Horticulture Act 1964[^key-d524b0d6185382b2a1e721e926f05ea5]
+## 2. Application of the Agriculture and Horticulture Act 1964[^c-d524b0d6185382b2a1e721e926f05ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d524b0d6185382b2a1e721e926f05ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d524b0d6185382b2a1e721e926f05ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Community Regulations establishing standards of quality for fresh horticultural produce[^key-d524b0d6185382b2a1e721e926f05ea5]
+## SCHEDULE — Community Regulations establishing standards of quality for fresh horticultural produce[^c-d524b0d6185382b2a1e721e926f05ea5]
 
 Regulation 2(2)
 
@@ -69,8 +69,8 @@ Regulation 2(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-d524b0d6185382b2a1e721e926f05ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d524b0d6185382b2a1e721e926f05ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d524b0d6185382b2a1e721e926f05ea5]: Textual amendment: Regulations revoked (1.11.2004) by [The Horticultural Produce (Community Grading Rules) (England and Wales) (Revocation) Regulations 2004 (S.I. 2004/2604)](https://www.legislation.gov.uk/uksi/2004/2604), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2604/regulation/1), [2](https://www.legislation.gov.uk/uksi/2004/2604/regulation/2)
+[^c-d524b0d6185382b2a1e721e926f05ea5]: Textual amendment: Regulations revoked (1.11.2004) by [The Horticultural Produce (Community Grading Rules) (England and Wales) (Revocation) Regulations 2004 (S.I. 2004/2604)](https://www.legislation.gov.uk/uksi/2004/2604), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2604/regulation/1), [2](https://www.legislation.gov.uk/uksi/2004/2604/regulation/2)

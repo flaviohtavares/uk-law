@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Section 28(2)(b): appropriateness of making provision for review[^key-cf9bd05ad21f2edfa06ab377519b4858]
+## 31. Section 28(2)(b): appropriateness of making provision for review[^c-cf9bd05ad21f2edfa06ab377519b4858]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf9bd05ad21f2edfa06ab377519b4858]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2015/26/section/31) in force at 1.7.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 5](https://www.legislation.gov.uk/uksi/2015/1329/regulation/5)
+[^c-cf9bd05ad21f2edfa06ab377519b4858]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2015/26/section/31) in force at 1.7.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 5](https://www.legislation.gov.uk/uksi/2015/1329/regulation/5)

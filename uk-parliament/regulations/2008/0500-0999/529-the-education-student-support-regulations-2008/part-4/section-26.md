@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Old system students who are gap year students who have studied on a previous course[^key-115e04c5d43c033e85224a20ccbb4444]
+## 26. Old system students who are gap year students who have studied on a previous course[^c-115e04c5d43c033e85224a20ccbb4444]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ where
 
 ## Annotations
 
-[^key-115e04c5d43c033e85224a20ccbb4444]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-115e04c5d43c033e85224a20ccbb4444]: Commencement: Reg. 26 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

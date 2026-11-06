@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Negotiable instruments, etc[^key-eefc66d25e443ea4b8e7bde8921dc145]
+## 52. Negotiable instruments, etc[^c-eefc66d25e443ea4b8e7bde8921dc145]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless the postal administrator allows, a proof in respect of money owed on a bi
 
 ## Annotations
 
-[^key-eefc66d25e443ea4b8e7bde8921dc145]: Commencement: [Rule 52](https://www.legislation.gov.uk/uksi/2013/3208/rule/52) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-eefc66d25e443ea4b8e7bde8921dc145]: Commencement: [Rule 52](https://www.legislation.gov.uk/uksi/2013/3208/rule/52) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

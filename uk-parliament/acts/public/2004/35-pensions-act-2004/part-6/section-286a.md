@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286A. Restriction on purchase of annuities[^key-a27cc1192ac4112409a80287090dbb2d]
+## 286A. Restriction on purchase of annuities[^c-a27cc1192ac4112409a80287090dbb2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a27cc1192ac4112409a80287090dbb2d]: Textual amendment: S. 286A inserted (retrospective to 26.6.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 125(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/125/1)[(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/125/2), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)
+[^c-a27cc1192ac4112409a80287090dbb2d]: Textual amendment: S. 286A inserted (retrospective to 26.6.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 125(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/125/1)[(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/125/2), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)

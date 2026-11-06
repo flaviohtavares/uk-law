@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^key-687e7c98ef268d964516e71f50359cfa]
+## SCHEDULE 2 — SPECIES OF SEED TO WHICH THESE REGULATIONS APPLY[^c-687e7c98ef268d964516e71f50359cfa]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulation 5(1)
 
-[^key-687e7c98ef268d964516e71f50359cfa]
+[^c-687e7c98ef268d964516e71f50359cfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-687e7c98ef268d964516e71f50359cfa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2004/2881) revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1/2), [34(a)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/a) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-687e7c98ef268d964516e71f50359cfa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2004/2881) revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1/2), [34(a)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/a) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

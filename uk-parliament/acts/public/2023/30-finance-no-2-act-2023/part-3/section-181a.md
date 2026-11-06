@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181A. Cross-border allocation of current tax under cross-crediting regime[^key-5cdc541365dba9b7104bf901becf2a00]
+## 181A. Cross-border allocation of current tax under cross-crediting regime[^c-5cdc541365dba9b7104bf901becf2a00]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cdc541365dba9b7104bf901becf2a00]: Textual amendment: S. 181A inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 27](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/27), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-5cdc541365dba9b7104bf901becf2a00]: Textual amendment: S. 181A inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 27](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/27), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

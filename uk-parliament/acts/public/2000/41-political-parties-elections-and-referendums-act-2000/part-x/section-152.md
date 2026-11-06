@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Offences committed by bodies corporate.[^c10575501][^key-5053b6433d6b76ea06c098fcafb895d7]
+## 152. Offences committed by bodies corporate.[^c10575501][^c-5053b6433d6b76ea06c098fcafb895d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ he, as well as the body corporate, shall be guilty of that offence and be liable
 
 [^c10575501]: Commencement: S. 152 wholly in force at 16.2.2001; s. 152 not in force at Royal Assent, see s. 163(2); s. 152 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-5053b6433d6b76ea06c098fcafb895d7]: Modification: S. 152 applied (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 4 para. 21(1)(b)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/21/1/b); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-5053b6433d6b76ea06c098fcafb895d7]: Modification: S. 152 applied (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 4 para. 21(1)(b)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/21/1/b); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

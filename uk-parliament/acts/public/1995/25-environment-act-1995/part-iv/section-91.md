@@ -22,15 +22,15 @@ summary: ''
 
 (1) In this Part—
 
-- “[^key-66ba7d729715c41f786f978e9715132b]**action plan**” is to be construed—
+- “[^c-66ba7d729715c41f786f978e9715132b]**action plan**” is to be construed—
   - (a) in relation to England, in accordance with section 83A;
-  - (aa) in relation to Wales, in accordance with section 83B;[^key-a76dbbf43f1a25be0d17413f6945f8eb]
+  - (aa) in relation to Wales, in accordance with section 83B;[^c-a76dbbf43f1a25be0d17413f6945f8eb]
   - (c) otherwise, in accordance with section 84(2);
 - “**air quality objectives**” means objectives prescribed by virtue of section 87(2)(b) above;
-- “[^key-5a99bdae228742da3ffe7c43c4c9acb0]**air quality partner**” has the meaning given by section 85A(1);
+- “[^c-5a99bdae228742da3ffe7c43c4c9acb0]**air quality partner**” has the meaning given by section 85A(1);
 - “**air quality review**” means a review under section 82 or 85 above;
 - “**air quality standards**” means standards prescribed by virtue of section 87(2)(a) above;
-- “the appropriate agency” means—[^key-da6f5475335aad2634c0e9c8f2d6e740]
+- “the appropriate agency” means—[^c-da6f5475335aad2634c0e9c8f2d6e740]
   - (a) in relation to England, the Agency;
   - (b) in relation to Wales, the Natural Resources Body for Wales;
   - (c) in relation to Scotland, SEPA;
@@ -47,7 +47,7 @@ summary: ''
 - “**regulations**” means regulations made by the Secretary of State;
 - “**the relevant period**”, in the case of any provision of this Part, means such period as may be prescribed for the purposes of that provision;
 - “**relevant public authority**” has the meaning given by section 81A(2);
-- “ *(Extent: W)*[^key-8124e0d4fb528a4c949ddbca2a95d0ab]**relevant Welsh public authority *(Extent: W)***” has the meaning given by section 81B(2); *(Extent: W)*
+- “ *(Extent: W)*[^c-8124e0d4fb528a4c949ddbca2a95d0ab]**relevant Welsh public authority *(Extent: W)***” has the meaning given by section 81B(2); *(Extent: W)*
 - “**the strategy**” has the meaning given by section 80(1) above;
 - “**unitary authority**” means—
   - (a) the council of a county, so far as it is the council of an area for which there are no district councils;
@@ -59,14 +59,14 @@ summary: ''
 
 ## Annotations
 
-[^key-66ba7d729715c41f786f978e9715132b]: Textual amendment: Words in s. 91(1) substituted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 13(a)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/13/a) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-66ba7d729715c41f786f978e9715132b]: Textual amendment: Words in s. 91(1) substituted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 13(a)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/13/a) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
 
-[^key-a76dbbf43f1a25be0d17413f6945f8eb]: Textual amendment: Words in s. 91(1) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 17(3)](https://www.legislation.gov.uk/asc/2024/2/section/17/3), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/937/article/2/b)
+[^c-a76dbbf43f1a25be0d17413f6945f8eb]: Textual amendment: Words in s. 91(1) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 17(3)](https://www.legislation.gov.uk/asc/2024/2/section/17/3), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/937/article/2/b)
 
-[^key-5a99bdae228742da3ffe7c43c4c9acb0]: Textual amendment: Words in s. 91(1) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 13(b)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/13/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-5a99bdae228742da3ffe7c43c4c9acb0]: Textual amendment: Words in s. 91(1) inserted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 13(b)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/13/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
 
-[^key-da6f5475335aad2634c0e9c8f2d6e740]: Textual amendment: Words in s. 91(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 380](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/380) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-da6f5475335aad2634c0e9c8f2d6e740]: Textual amendment: Words in s. 91(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 380](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/380) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c14539631]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-8124e0d4fb528a4c949ddbca2a95d0ab]: Textual amendment: Words in s. 91(1) inserted (E.W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(4)](https://www.legislation.gov.uk/asc/2024/2/section/14/4), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)
+[^c-8124e0d4fb528a4c949ddbca2a95d0ab]: Textual amendment: Words in s. 91(1) inserted (E.W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 14(4)](https://www.legislation.gov.uk/asc/2024/2/section/14/4), [30(2)(d)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/d)

@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (Compensation) (England) Regulations 2013 (revoked)[^key-91410440da2de37a5c57237c2edb83f3]
+The Town and Country Planning (Compensation) (England) Regulations 2013 (revoked)[^c-91410440da2de37a5c57237c2edb83f3]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 30th May 2013
 
-[^key-91410440da2de37a5c57237c2edb83f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91410440da2de37a5c57237c2edb83f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-91410440da2de37a5c57237c2edb83f3]
+## 1. Citation, commencement, application and interpretation[^c-91410440da2de37a5c57237c2edb83f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed development[^key-91410440da2de37a5c57237c2edb83f3]
+## 2. Prescribed development[^c-91410440da2de37a5c57237c2edb83f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed manner for withdrawing planning permission in a development order[^key-91410440da2de37a5c57237c2edb83f3]
+## 3. Prescribed manner for withdrawing planning permission in a development order[^c-91410440da2de37a5c57237c2edb83f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notice of withdrawal – prescribed manner of publication and period for development orders[^key-91410440da2de37a5c57237c2edb83f3]
+## 4. Notice of withdrawal – prescribed manner of publication and period for development orders[^c-91410440da2de37a5c57237c2edb83f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Notice of withdrawal – prescribed manner of publication and period for local development orders[^key-91410440da2de37a5c57237c2edb83f3]
+## 5. Notice of withdrawal – prescribed manner of publication and period for local development orders[^c-91410440da2de37a5c57237c2edb83f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Notice of withdrawal – prescribed manner of publication and period for neighbourhood development orders[^key-91410440da2de37a5c57237c2edb83f3]
+## 6. Notice of withdrawal – prescribed manner of publication and period for neighbourhood development orders[^c-91410440da2de37a5c57237c2edb83f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provision[^key-91410440da2de37a5c57237c2edb83f3]
+## 7. Transitional provision[^c-91410440da2de37a5c57237c2edb83f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-91410440da2de37a5c57237c2edb83f3]
+## 8. Revocation[^c-91410440da2de37a5c57237c2edb83f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-91410440da2de37a5c57237c2edb83f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91410440da2de37a5c57237c2edb83f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-91410440da2de37a5c57237c2edb83f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91410440da2de37a5c57237c2edb83f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-91410440da2de37a5c57237c2edb83f3]: Textual amendment: Regulations revoked (15.4.2015) by [The Town and Country Planning (Compensation) (England) Regulations 2015 (S.I. 2015/598)](https://www.legislation.gov.uk/uksi/2015/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/598/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/598/regulation/7)
+[^c-91410440da2de37a5c57237c2edb83f3]: Textual amendment: Regulations revoked (15.4.2015) by [The Town and Country Planning (Compensation) (England) Regulations 2015 (S.I. 2015/598)](https://www.legislation.gov.uk/uksi/2015/598), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/598/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/598/regulation/7)

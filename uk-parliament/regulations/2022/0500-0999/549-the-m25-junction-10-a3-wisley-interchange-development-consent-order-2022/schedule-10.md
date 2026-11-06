@@ -22,7 +22,7 @@ summary: ''
 
 Article 38
 
-### PART 1 — SPECIAL CATEGORY LAND FOR WHICH REPLACEMENT LAND IS PROVIDED[^key-64d9b940c8b46067021117664e94bb49]
+### PART 1 — SPECIAL CATEGORY LAND FOR WHICH REPLACEMENT LAND IS PROVIDED[^c-64d9b940c8b46067021117664e94bb49]
 
 <table>
 <thead>
@@ -41,7 +41,7 @@ Article 38
 </tbody>
 </table>
 
-### PART 2 — SPECIAL CATEGORY (RIGHTS) LAND FOR WHICH REPLACEMENT LAND IS PROVIDED[^key-3bd72565160f7d3d9ad0a007c30d3fcf]
+### PART 2 — SPECIAL CATEGORY (RIGHTS) LAND FOR WHICH REPLACEMENT LAND IS PROVIDED[^c-3bd72565160f7d3d9ad0a007c30d3fcf]
 
 <table>
 <thead>
@@ -64,7 +64,7 @@ Article 38
 
 [^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000][^f01000]
 
-### PART 3 — SPECIAL CATEGORY (RIGHTS) LAND FOR WHICH REPLACEMENT LAND IS NOT PROVIDED[^key-33f9d1a23bc5ea3d0c5d390e6c476c8f]
+### PART 3 — SPECIAL CATEGORY (RIGHTS) LAND FOR WHICH REPLACEMENT LAND IS NOT PROVIDED[^c-33f9d1a23bc5ea3d0c5d390e6c476c8f]
 
 <table>
 <thead>
@@ -91,7 +91,7 @@ Article 38
 
 [^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001]
 
-### PART 4 — REPLACEMENT LAND[^key-d505bd286ed4a78b7732670c5dfd4e15]
+### PART 4 — REPLACEMENT LAND[^c-d505bd286ed4a78b7732670c5dfd4e15]
 
 <table>
 <thead>
@@ -108,18 +108,18 @@ Article 38
 
 ## Annotations
 
-[^key-64d9b940c8b46067021117664e94bb49]: Commencement: Sch. 10 Pt. 1 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-64d9b940c8b46067021117664e94bb49]: Commencement: Sch. 10 Pt. 1 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-3bd72565160f7d3d9ad0a007c30d3fcf]: Commencement: Sch. 10 Pt. 2 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-3bd72565160f7d3d9ad0a007c30d3fcf]: Commencement: Sch. 10 Pt. 2 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
 [^f01000]: Footnote: (\*)
 
     In part: The remaining parts of each of these plots fall within Part 3. The parts of the plots in question are those parts of the plots in respect of which the rights required are for (a) earthworks to access tracks, (b) drainage ditches and infiltration ditches and (c) earthworks to access tracks that will be on the highways side of environmental barrier fencing.
 
-[^key-33f9d1a23bc5ea3d0c5d390e6c476c8f]: Commencement: Sch. 10 Pt. 3 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-33f9d1a23bc5ea3d0c5d390e6c476c8f]: Commencement: Sch. 10 Pt. 3 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
 [^f01001]: Footnote: (\*)
 
     In part: The remaining parts of each of these plots fall within Part 2. The parts of the plots in question are those parts of the plots in respect of which the rights required are for (a) access tracks, including access tracks which serve ditches (b) filter drains and associated access space and (c) soakaways and associated access space.
 
-[^key-d505bd286ed4a78b7732670c5dfd4e15]: Commencement: Sch. 10 Pt. 4 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-d505bd286ed4a78b7732670c5dfd4e15]: Commencement: Sch. 10 Pt. 4 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)

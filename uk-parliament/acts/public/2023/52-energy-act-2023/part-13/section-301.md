@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 301. Power of OGA to require information about change in control of licensee[^key-72c50db1c11c9115c3467438fcd9d537][^key-c7ea5121e5675906089babdddc305fc6]
+## 301. Power of OGA to require information about change in control of licensee[^c-72c50db1c11c9115c3467438fcd9d537][^c-c7ea5121e5675906089babdddc305fc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ After section 5C of the Petroleum Act 1998 insert—
 
 ## Annotations
 
-[^key-72c50db1c11c9115c3467438fcd9d537]: Commencement: S. 301 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-72c50db1c11c9115c3467438fcd9d537]: Commencement: S. 301 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-c7ea5121e5675906089babdddc305fc6]: Commencement: [S. 301](https://www.legislation.gov.uk/ukpga/2023/52/section/301) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iv)
+[^c-c7ea5121e5675906089babdddc305fc6]: Commencement: [S. 301](https://www.legislation.gov.uk/ukpga/2023/52/section/301) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iv)

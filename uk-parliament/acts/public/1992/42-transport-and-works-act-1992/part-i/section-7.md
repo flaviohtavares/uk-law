@@ -33,7 +33,7 @@ summary: ''
 (3) Where the Secretary of State proposes to make an order by virtue of this section, he shall—
 
 - (a) prepare a draft of the order,
-- (b)[^key-e0c156295e59285b5a907ec882e642e5] publish a notice of his intention to make the order, which notice shall include such particulars as may be prescribed, in the London Gazette and in a local newspaper circulating in the area (or each of the areas) in which the proposals contained in the draft order are intended to have effect, and
+- (b)[^c-e0c156295e59285b5a907ec882e642e5] publish a notice of his intention to make the order, which notice shall include such particulars as may be prescribed, in the London Gazette and in a local newspaper circulating in the area (or each of the areas) in which the proposals contained in the draft order are intended to have effect, and
 - (c) give such further notices of the proposal as may be prescribed.
 
 (4) The power to make provision by rules under section 6 above in relation to applications shall include power to make such corresponding provision as the Secretary of State considers appropriate in relation to proposals to make orders by virtue of this section; and in subsection (3) above “**prescribed**” means prescribed by rules under section 6.
@@ -44,4 +44,4 @@ summary: ''
 
 [^c8595021]: Modification: S. 7(4) modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 5](https://www.legislation.gov.uk/uksi/1999/672/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2)
 
-[^key-e0c156295e59285b5a907ec882e642e5]: Textual amendment: S. 7(3)(b) substituted (20.4.2006) by [The Transport and Works (Assessment of Environmental Effects) Regulations 2006 (S.I. 2006/958)](https://www.legislation.gov.uk/uksi/2006/958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/958/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/958/regulation/2/2)
+[^c-e0c156295e59285b5a907ec882e642e5]: Textual amendment: S. 7(3)(b) substituted (20.4.2006) by [The Transport and Works (Assessment of Environmental Effects) Regulations 2006 (S.I. 2006/958)](https://www.legislation.gov.uk/uksi/2006/958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/958/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/958/regulation/2/2)

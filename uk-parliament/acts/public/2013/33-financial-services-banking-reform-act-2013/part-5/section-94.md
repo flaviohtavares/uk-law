@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Information received from Bank of England[^key-144dbebeb51932d4040c0b71efeabaa7]
+## 94. Information received from Bank of England[^c-144dbebeb51932d4040c0b71efeabaa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 - (a) to disclosure by one regulator to the other regulator where the regulator making the disclosure informs the other regulator that the information is specially protected information by virtue of this section;
 - (b) where the Bank has consented to disclosure of the information;
 - (c) to information which has been made available to the public by virtue of being disclosed in any circumstances in which, or for any purposes for which, disclosure is not precluded by this section;
-- (d)[^key-4597eff7f769672be81a12a8f7ded29a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-4597eff7f769672be81a12a8f7ded29a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In this section references to disclosure by or to a regulator or by the Bank include references to disclosure by or to any of the following—
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-144dbebeb51932d4040c0b71efeabaa7]: Commencement: S. 94 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-144dbebeb51932d4040c0b71efeabaa7]: Commencement: S. 94 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-4597eff7f769672be81a12a8f7ded29a]: Textual amendment: [S. 94(7)(d)](https://www.legislation.gov.uk/ukpga/2013/33/section/94/7/d) omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2019/681/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4597eff7f769672be81a12a8f7ded29a]: Textual amendment: [S. 94(7)(d)](https://www.legislation.gov.uk/ukpga/2013/33/section/94/7/d) omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2019/681/regulation/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

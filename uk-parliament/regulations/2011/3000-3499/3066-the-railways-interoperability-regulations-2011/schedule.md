@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Amendments to legislation[^key-ac838236fc93733a7eae2de9ec17d5d4]
+## SCHEDULE 1 — Amendments to legislation[^c-ac838236fc93733a7eae2de9ec17d5d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ Regulation 48
 
 ## Annotations
 
-[^key-ac838236fc93733a7eae2de9ec17d5d4]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2011/3066/schedule) heading inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(51)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac838236fc93733a7eae2de9ec17d5d4]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2011/3066/schedule) heading inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(51)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21139721]: Marginal citation: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 

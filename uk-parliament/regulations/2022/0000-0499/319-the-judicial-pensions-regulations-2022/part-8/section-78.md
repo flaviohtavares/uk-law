@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Meaning of “surviving adult’s pension”[^key-9f6effb484f30f8d1ec379272fc8a804]
+## 78. Meaning of “surviving adult’s pension”[^c-9f6effb484f30f8d1ec379272fc8a804]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In these Regulations, “surviving adult’s pension” means any of the followi
 
 ## Annotations
 
-[^key-9f6effb484f30f8d1ec379272fc8a804]: Commencement: Reg. 78 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-9f6effb484f30f8d1ec379272fc8a804]: Commencement: Reg. 78 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

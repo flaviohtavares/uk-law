@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Job-sharing: executive leaders and executive members[^key-7f0170f82b39c5ae7139a39aefe79113]
+## 58. Job-sharing: executive leaders and executive members[^c-7f0170f82b39c5ae7139a39aefe79113]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Schedule 7 provides for amendments to the 2000 Act to make provision—
 
 ## Annotations
 
-[^key-7f0170f82b39c5ae7139a39aefe79113]: Commencement: [S. 58](https://www.legislation.gov.uk/asc/2021/1/section/58) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(k)](https://www.legislation.gov.uk/wsi/2021/231/article/6/k)
+[^c-7f0170f82b39c5ae7139a39aefe79113]: Commencement: [S. 58](https://www.legislation.gov.uk/asc/2021/1/section/58) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(k)](https://www.legislation.gov.uk/wsi/2021/231/article/6/k)

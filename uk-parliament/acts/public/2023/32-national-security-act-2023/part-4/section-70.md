@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Meaning of “political influence activity”[^key-d3cc2fddabdb0508411f4be2c60dc437][^key-1c4c5e512e4166ed63ce021ddb743b10]
+## 70. Meaning of “political influence activity”[^c-d3cc2fddabdb0508411f4be2c60dc437][^c-1c4c5e512e4166ed63ce021ddb743b10]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3cc2fddabdb0508411f4be2c60dc437]: Commencement: S. 70 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-d3cc2fddabdb0508411f4be2c60dc437]: Commencement: S. 70 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-1c4c5e512e4166ed63ce021ddb743b10]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/32/section/70) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-1c4c5e512e4166ed63ce021ddb743b10]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/32/section/70) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

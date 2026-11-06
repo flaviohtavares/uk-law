@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. The Packaged Retail and Insurance-based Investment Products (Amendment) (EU Exit) Regulations 2019[^key-d08f2701dc992103d81d3408855f5e0e]
+## 53. The Packaged Retail and Insurance-based Investment Products (Amendment) (EU Exit) Regulations 2019[^c-d08f2701dc992103d81d3408855f5e0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ In regulation 12(2)(c) (final provisions) of the Packaged Retail and Insurance-b
 
 ## Annotations
 
-[^key-d08f2701dc992103d81d3408855f5e0e]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2020/1385/regulation/53) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-d08f2701dc992103d81d3408855f5e0e]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2020/1385/regulation/53) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00034]: Footnote: [S.I. 2019/403](https://www.legislation.gov.uk/uksi/2019/403).

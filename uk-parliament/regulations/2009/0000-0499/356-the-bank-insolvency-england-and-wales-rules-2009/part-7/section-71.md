@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Discounts[^key-3462badb66d580593379bd688e8731cc]
+## 71. Discounts[^c-3462badb66d580593379bd688e8731cc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.89 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3462badb66d580593379bd688e8731cc]: Commencement: Rule 71 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-3462badb66d580593379bd688e8731cc]: Commencement: Rule 71 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

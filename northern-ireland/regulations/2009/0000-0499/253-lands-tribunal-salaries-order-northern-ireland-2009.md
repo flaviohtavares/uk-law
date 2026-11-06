@@ -32,7 +32,7 @@ summary: ''
 
 Lands Tribunal
 
-Lands Tribunal (Salaries) Order (Northern Ireland) 2009 (revoked)[^key-fae39679e0067f8b6458d0dc0457fb88]
+Lands Tribunal (Salaries) Order (Northern Ireland) 2009 (revoked)[^c-fae39679e0067f8b6458d0dc0457fb88]
 
 Laid before the Assembly in draft
 
@@ -44,26 +44,26 @@ Coming into operation
 
 1st July 2009
 
-[^key-fae39679e0067f8b6458d0dc0457fb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fae39679e0067f8b6458d0dc0457fb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fae39679e0067f8b6458d0dc0457fb88]
+## 1. Citation and commencement[^c-fae39679e0067f8b6458d0dc0457fb88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-fae39679e0067f8b6458d0dc0457fb88]
+## 2. Revocation[^c-fae39679e0067f8b6458d0dc0457fb88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increases in salaries[^key-fae39679e0067f8b6458d0dc0457fb88]
+## 3. Increases in salaries[^c-fae39679e0067f8b6458d0dc0457fb88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fae39679e0067f8b6458d0dc0457fb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fae39679e0067f8b6458d0dc0457fb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fae39679e0067f8b6458d0dc0457fb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fae39679e0067f8b6458d0dc0457fb88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fae39679e0067f8b6458d0dc0457fb88]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2009/253) revoked (4.10.2013) by [The Lands Tribunal (Salaries) Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/239)](https://www.legislation.gov.uk/nisr/2013/239), [art. 2](https://www.legislation.gov.uk/nisr/2013/239/article/2)
+[^c-fae39679e0067f8b6458d0dc0457fb88]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2009/253) revoked (4.10.2013) by [The Lands Tribunal (Salaries) Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/239)](https://www.legislation.gov.uk/nisr/2013/239), [art. 2](https://www.legislation.gov.uk/nisr/2013/239/article/2)

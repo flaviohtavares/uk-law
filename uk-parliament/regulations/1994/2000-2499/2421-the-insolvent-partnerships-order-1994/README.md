@@ -42,7 +42,7 @@ Coming into force
 
 1st December 1994
 
-The Lord Chancellor, in exercise of the powers conferred on him by section 420(1) and (2) of the Insolvency Act 1986[^f00001] and section 21(2) of the Company Directors Disqualification Act 1986[^f00002] and of all other powers enabling him in that behalf, with the concurrence of the Secretary of State, hereby makes the following Order:—[^key-57a7e2aec620d2480da391f56683d458]
+The Lord Chancellor, in exercise of the powers conferred on him by section 420(1) and (2) of the Insolvency Act 1986[^f00001] and section 21(2) of the Company Directors Disqualification Act 1986[^f00002] and of all other powers enabling him in that behalf, with the concurrence of the Secretary of State, hereby makes the following Order:—[^c-57a7e2aec620d2480da391f56683d458]
 
 ## Contents
 
@@ -61,7 +61,7 @@ The Lord Chancellor, in exercise of the powers conferred on him by section 420(1
 - [Section 4 — Voluntary arrangement of insolvent partnership](part-ii/section-4.md)
 - [Section 5 — Voluntary arrangements of members of insolvent partnership](part-ii/section-5.md)
 
-### PART III — ADMINISTRATION[^key-724f5bd77a596ba088e1ec1bb6a10993]
+### PART III — ADMINISTRATION[^c-724f5bd77a596ba088e1ec1bb6a10993]
 
 - [Section 6 — Administration in relation to insolvent partnership](part-iii/section-6.md)
 
@@ -165,6 +165,6 @@ The following are the main provisions of the Order, and the main changes made to
 
 [^f00002]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46); the amendments to section 21(2) made by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40) are not relevant for the purposes of this Order.
 
-[^key-57a7e2aec620d2480da391f56683d458]: Modification: Order applied in part (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/245/schedule/4) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 198(r)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/r) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213)))
+[^c-57a7e2aec620d2480da391f56683d458]: Modification: Order applied in part (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/245/schedule/4) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 198(r)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/r) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213)))
 
-[^key-724f5bd77a596ba088e1ec1bb6a10993]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1994/2421/part/3) substituted (1.7.2005) by [The Insolvent Partnerships (Amendment) Order 2005 (S.I. 2005/1516)](https://www.legislation.gov.uk/uksi/2005/1516), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1516/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/1516/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/1516/article/2))
+[^c-724f5bd77a596ba088e1ec1bb6a10993]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1994/2421/part/3) substituted (1.7.2005) by [The Insolvent Partnerships (Amendment) Order 2005 (S.I. 2005/1516)](https://www.legislation.gov.uk/uksi/2005/1516), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1516/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/1516/article/3) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/1516/article/2))

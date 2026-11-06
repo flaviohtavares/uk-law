@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Choice of inquiry, hearing or written procedure[^key-e16f8bddd00082a824efb11e73b24da1][^key-abaa26b3375d88d51e33f2d921a77be5]
+## 174. Choice of inquiry, hearing or written procedure[^c-e16f8bddd00082a824efb11e73b24da1][^c-abaa26b3375d88d51e33f2d921a77be5]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e16f8bddd00082a824efb11e73b24da1]: Commencement: S. 174 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-e16f8bddd00082a824efb11e73b24da1]: Commencement: S. 174 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-abaa26b3375d88d51e33f2d921a77be5]: Commencement: [S. 174](https://www.legislation.gov.uk/asc/2023/3/section/174) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-abaa26b3375d88d51e33f2d921a77be5]: Commencement: [S. 174](https://www.legislation.gov.uk/asc/2023/3/section/174) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

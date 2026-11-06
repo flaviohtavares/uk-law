@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Gas reception facilities[^key-746f041f158c26163a65c541e4162383]
+## 4. Gas reception facilities[^c-746f041f158c26163a65c541e4162383]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-746f041f158c26163a65c541e4162383]: Commencement: S. 4 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-746f041f158c26163a65c541e4162383]: Commencement: S. 4 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

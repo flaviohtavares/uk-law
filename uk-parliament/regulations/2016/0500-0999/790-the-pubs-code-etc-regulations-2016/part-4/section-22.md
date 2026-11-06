@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Effect of the rent assessment or the assessment of money payable in lieu of rent[^key-4e07fe20bae1d58277ded878427fbb34]
+## 22. Effect of the rent assessment or the assessment of money payable in lieu of rent[^c-4e07fe20bae1d58277ded878427fbb34]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ the assessment ends on the day on which the tenancy or licence is entered into.
 
 ## Annotations
 
-[^key-4e07fe20bae1d58277ded878427fbb34]: Commencement: Reg. 22 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-4e07fe20bae1d58277ded878427fbb34]: Commencement: Reg. 22 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

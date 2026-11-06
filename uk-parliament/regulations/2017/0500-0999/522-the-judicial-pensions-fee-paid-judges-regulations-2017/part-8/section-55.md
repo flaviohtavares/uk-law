@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Calculation of pre-commencement dependants’ contributions amounts[^key-4008746b2a41b0a0507a04a3101ed159]
+## 55. Calculation of pre-commencement dependants’ contributions amounts[^c-4008746b2a41b0a0507a04a3101ed159]
 
 *Extent: E+W+S+N.I.*
 
-(1) The pre-commencement dependants’ contribution amount for each eligible fee-paid judicial office held by P is determined under paragraph (2) , (2A)[^key-8efb13c443da370a6f87a57cdb686f7e] or (3) as applicable.
+(1) The pre-commencement dependants’ contribution amount for each eligible fee-paid judicial office held by P is determined under paragraph (2) , (2A)[^c-8efb13c443da370a6f87a57cdb686f7e] or (3) as applicable.
 
-(2) For an office specified in Table 1 or 2 of Schedule 1 where the office was first held before 31st March 1995[^key-96b91277d2a1a45960bac769f29ebe3b]—
+(2) For an office specified in Table 1 or 2 of Schedule 1 where the office was first held before 31st March 1995[^c-96b91277d2a1a45960bac769f29ebe3b]—
 
 - *Step 1*
 
@@ -31,7 +31,7 @@ summary: ''
 
   Multiply the totals determined under Step 1 by the percentage specified in relation to the applicable fee period in column 3 of Table 1 of the Contributions Tables or column 3 of a table referred to in that table.
 
-(2A)[^key-e5c223ecfbc4370e2348594d15ac9ac0] For an office specified in Table 1 or Table 2 of Schedule 1 where the office was first held on or after 31st March 1995, paragraph (2) applies with the exception that references to column 3 should be read as column 4.
+(2A)[^c-e5c223ecfbc4370e2348594d15ac9ac0] For an office specified in Table 1 or Table 2 of Schedule 1 where the office was first held on or after 31st March 1995, paragraph (2) applies with the exception that references to column 3 should be read as column 4.
 
 (3) For offices specified in Table 3 or 4 of Schedule 1—
 
@@ -53,10 +53,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4008746b2a41b0a0507a04a3101ed159]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2017/522/regulation/55) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2023/403/regulation/36)
+[^c-4008746b2a41b0a0507a04a3101ed159]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2017/522/regulation/55) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2023/403/regulation/36)
 
-[^key-8efb13c443da370a6f87a57cdb686f7e]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/55/1) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/12/a)
+[^c-8efb13c443da370a6f87a57cdb686f7e]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/55/1) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/12/a)
 
-[^key-96b91277d2a1a45960bac769f29ebe3b]: Textual amendment: Words in [reg. 55(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/55/2) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/12/b)
+[^c-96b91277d2a1a45960bac769f29ebe3b]: Textual amendment: Words in [reg. 55(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/55/2) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/12/b)
 
-[^key-e5c223ecfbc4370e2348594d15ac9ac0]: Textual amendment: [Reg. 55(2A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/55/2A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/12/c)
+[^c-e5c223ecfbc4370e2348594d15ac9ac0]: Textual amendment: [Reg. 55(2A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/55/2A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/12/c)

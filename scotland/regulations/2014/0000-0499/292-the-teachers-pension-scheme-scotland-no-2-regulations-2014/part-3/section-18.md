@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Eligibility for active membership[^key-3729520d8cfa5efa9d722898583d472e]
+## 18. Eligibility for active membership[^c-3729520d8cfa5efa9d722898583d472e]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3729520d8cfa5efa9d722898583d472e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2014/292/regulation/18) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3729520d8cfa5efa9d722898583d472e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2014/292/regulation/18) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

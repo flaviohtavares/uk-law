@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33I. Head teacher's or principal's decision to remove entitlement[^key-527977e01be00be727d761415023e139]
+## 33I. Head teacher's or principal's decision to remove entitlement[^c-527977e01be00be727d761415023e139]
 
 *Extent: E+W*
 
@@ -42,10 +42,10 @@ summary: ''
 - (b) add additional paragraphs to that subsection;
 - (c) amend or omit such additional paragraphs.
 
-(6)[^key-03e4bf709aa259fe574cfff3df20e03a] The Welsh Ministers must consult the Commission before making regulations under subsection (3), giving guidance under subsection (4) or making an order under subsection (5).
+(6)[^c-03e4bf709aa259fe574cfff3df20e03a] The Welsh Ministers must consult the Commission before making regulations under subsection (3), giving guidance under subsection (4) or making an order under subsection (5).
 
 ## Annotations
 
-[^key-527977e01be00be727d761415023e139]: Textual amendment: S. 33I inserted (19.1.2011 for specified purposes, 14.2.2011 in so far as not already in force) by [Learning and Skills (Wales) Measure 2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1), [ss. 30](https://www.legislation.gov.uk/mwa/2009/1/section/30), [49(2)](https://www.legislation.gov.uk/mwa/2009/1/section/49/2); [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97), [art. 2(1)(e)(2)(g)](https://www.legislation.gov.uk/uksi/2011/97/article/2/1/e)
+[^c-527977e01be00be727d761415023e139]: Textual amendment: S. 33I inserted (19.1.2011 for specified purposes, 14.2.2011 in so far as not already in force) by [Learning and Skills (Wales) Measure 2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1), [ss. 30](https://www.legislation.gov.uk/mwa/2009/1/section/30), [49(2)](https://www.legislation.gov.uk/mwa/2009/1/section/49/2); [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97), [art. 2(1)(e)(2)(g)](https://www.legislation.gov.uk/uksi/2011/97/article/2/1/e)
 
-[^key-03e4bf709aa259fe574cfff3df20e03a]: Textual amendment: S. 33I(6) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 14(9)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/14/9) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xii)
+[^c-03e4bf709aa259fe574cfff3df20e03a]: Textual amendment: S. 33I(6) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 14(9)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/14/9) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xii)

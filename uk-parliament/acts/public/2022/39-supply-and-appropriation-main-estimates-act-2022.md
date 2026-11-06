@@ -35,9 +35,9 @@ An Act to authorise the use of resources for the year ending with 31 March 2023;
 
 Whereas the Commons of the United Kingdom in Parliament assembled have resolved to authorise the use of resources and the issue of sums out of the Consolidated Fund towards making good the supply which they have granted to Her Majesty in this Session of Parliament:—
 
-Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-35342ec89887054cb46ce4e9cc4418fd][^key-07da972667e201ee4d9cc0a63a352420][^key-03258ac48cf2e20355d036c060d840e2]
+Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-35342ec89887054cb46ce4e9cc4418fd][^c-07da972667e201ee4d9cc0a63a352420][^c-03258ac48cf2e20355d036c060d840e2]
 
-## 1. Main authorisation for use of resources for 2022-23[^key-cebb9cc4e72bea3daf95fe1e65fa67e8]
+## 1. Main authorisation for use of resources for 2022-23[^c-cebb9cc4e72bea3daf95fe1e65fa67e8]
 
 (1) The amount up to which there is authorisation for the use of resources for the year ending with 31 March 2023 is increased by £486,497,865,000.
 
@@ -46,7 +46,7 @@ Be it therefore enacted by the Queen's most Excellent Majesty, by and with the a
 - (a) £409,480,425,000 is authorised for use for current purposes, and
 - (b) £77,017,440,000 is authorised for use for capital purposes.
 
-## 2. Main authorisation for issue of money out of Consolidated Fund in 2022-23[^key-6a756117e172e0e5fb38151f9105e3f8]
+## 2. Main authorisation for issue of money out of Consolidated Fund in 2022-23[^c-6a756117e172e0e5fb38151f9105e3f8]
 
 The amount up to which the Treasury has authorisation—
 
@@ -55,7 +55,7 @@ The amount up to which the Treasury has authorisation—
 
 is increased by £356,026,979,000.
 
-## 3. Appropriation of resources authorised for use for year 2022-23[^key-6c4daf926ec30d2379e8c406af9e79bc]
+## 3. Appropriation of resources authorised for use for year 2022-23[^c-6c4daf926ec30d2379e8c406af9e79bc]
 
 (1) The aggregate of the following (which is £897,055,041,000) is appropriated for the year ending with 31 March 2023 in accordance with subsections (2) to (4)—
 
@@ -85,7 +85,7 @@ is appropriated by this Act for use, for current or for capital purposes (accord
 
 (5) Section 5(4) applies (instead of subsections (2) to (4)) to any amount of resources set out in a Scheduled Estimate if it is identified in that Estimate as representing the amount of an estimated surplus.
 
-## 4. Appropriation of money authorised for issue in year 2022-23[^key-4eb50c31d8960b1a56e2525189623498]
+## 4. Appropriation of money authorised for issue in year 2022-23[^c-4eb50c31d8960b1a56e2525189623498]
 
 (1) The aggregate of the following (which is £717,749,167,000) is appropriated for the year ending with 31 March 2023 in accordance with subsection (2)—
 
@@ -99,7 +99,7 @@ is appropriated by this Act for use, for current or for capital purposes (accord
 
 (3) Section 5(4) applies (instead of subsection (2) of this section) to any amount of money set out in a Scheduled Estimate if it is identified in that Estimate as representing the amount of an estimated surplus.
 
-## 5. Appropriation and other use of income[^key-e00a8de53f3943cef6ba07a43000bb58]
+## 5. Appropriation and other use of income[^c-e00a8de53f3943cef6ba07a43000bb58]
 
 (1) Subsections (2) to (4) make provision (instead of imposing limits on appropriations in aid under section 2 of the Government Resources and Accounts Act 2000) about the use of income arising for the year ending with 31 March 2023 from matters specified in the Scheduled Estimates as matters from which income may arise.
 
@@ -128,11 +128,11 @@ is appropriated by this Act for use, for current or for capital purposes (accord
 
 (7) A direction by the Treasury under this section may be revoked or varied by a subsequent direction.
 
-## 6. Operation from beginning of financial year[^key-2a85de18d5617cbc2c108b82aa2d5311]
+## 6. Operation from beginning of financial year[^c-2a85de18d5617cbc2c108b82aa2d5311]
 
 The appropriations and other provision made by sections 3 to 5 are to be treated as having had effect from the beginning of 1 April 2022.
 
-## 7. Interpretation[^key-3d32bce06dd516944ea3a41304de4f63]
+## 7. Interpretation[^c-3d32bce06dd516944ea3a41304de4f63]
 
 (1) In this Act—
 
@@ -157,11 +157,11 @@ The appropriations and other provision made by sections 3 to 5 are to be treated
 - (b) the National Audit Office;
 - (c) the Parliamentary Works Sponsor Body.
 
-## 8. Short title[^key-14a1a8b92aed68fbfacf574d6f8334c0]
+## 8. Short title[^c-14a1a8b92aed68fbfacf574d6f8334c0]
 
 This Act may be cited as the Supply and Appropriation (Main Estimates) Act 2022.
 
-## SCHEDULE — APPROPRIATIONS FOR FINANCIAL YEAR 2022-23[^key-e9c77bc2d9daedee2a45a0fb981f04cd]
+## SCHEDULE — APPROPRIATIONS FOR FINANCIAL YEAR 2022-23[^c-e9c77bc2d9daedee2a45a0fb981f04cd]
 
 Section 7
 
@@ -1308,26 +1308,26 @@ The Local Government Boundary Commission for England
 
 ## Annotations
 
-[^key-35342ec89887054cb46ce4e9cc4418fd]: Modification: Act modified (with effect in accordance with [s. 2(6)](https://www.legislation.gov.uk/ukpga/2022/41/section/2/6) of the amending Act) by [Supply and Appropriation (Adjustments) Act 2022 (c. 41)](https://www.legislation.gov.uk/ukpga/2022/41), [s. 2](https://www.legislation.gov.uk/ukpga/2022/41/section/2), [Sch.](https://www.legislation.gov.uk/ukpga/2022/41/schedule)
+[^c-35342ec89887054cb46ce4e9cc4418fd]: Modification: Act modified (with effect in accordance with [s. 2(6)](https://www.legislation.gov.uk/ukpga/2022/41/section/2/6) of the amending Act) by [Supply and Appropriation (Adjustments) Act 2022 (c. 41)](https://www.legislation.gov.uk/ukpga/2022/41), [s. 2](https://www.legislation.gov.uk/ukpga/2022/41/section/2), [Sch.](https://www.legislation.gov.uk/ukpga/2022/41/schedule)
 
-[^key-07da972667e201ee4d9cc0a63a352420]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2022/39) modified (with effect in accordance with s. 3(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2023 (c. 5)](https://www.legislation.gov.uk/ukpga/2023/5), [s. 3(1)-(7)](https://www.legislation.gov.uk/ukpga/2023/5/section/3/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2023/5/schedule/1)
+[^c-07da972667e201ee4d9cc0a63a352420]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2022/39) modified (with effect in accordance with s. 3(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2023 (c. 5)](https://www.legislation.gov.uk/ukpga/2023/5), [s. 3(1)-(7)](https://www.legislation.gov.uk/ukpga/2023/5/section/3/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2023/5/schedule/1)
 
-[^key-03258ac48cf2e20355d036c060d840e2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2022/39) modified (with effect in accordance with s. 5(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2024 (c. 4)](https://www.legislation.gov.uk/ukpga/2024/4), [s. 5(1)-(7)](https://www.legislation.gov.uk/ukpga/2024/4/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2024/4/schedule/2)
+[^c-03258ac48cf2e20355d036c060d840e2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2022/39) modified (with effect in accordance with s. 5(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2024 (c. 4)](https://www.legislation.gov.uk/ukpga/2024/4), [s. 5(1)-(7)](https://www.legislation.gov.uk/ukpga/2024/4/section/5/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2024/4/schedule/2)
 
-[^key-cebb9cc4e72bea3daf95fe1e65fa67e8]: Commencement: S. 1 in force at Royal Assent
+[^c-cebb9cc4e72bea3daf95fe1e65fa67e8]: Commencement: S. 1 in force at Royal Assent
 
-[^key-6a756117e172e0e5fb38151f9105e3f8]: Commencement: S. 2 in force at Royal Assent
+[^c-6a756117e172e0e5fb38151f9105e3f8]: Commencement: S. 2 in force at Royal Assent
 
-[^key-6c4daf926ec30d2379e8c406af9e79bc]: Commencement: S. 3 in force at Royal Assent
+[^c-6c4daf926ec30d2379e8c406af9e79bc]: Commencement: S. 3 in force at Royal Assent
 
-[^key-4eb50c31d8960b1a56e2525189623498]: Commencement: S. 4 in force at Royal Assent
+[^c-4eb50c31d8960b1a56e2525189623498]: Commencement: S. 4 in force at Royal Assent
 
-[^key-e00a8de53f3943cef6ba07a43000bb58]: Commencement: S. 5 in force at Royal Assent
+[^c-e00a8de53f3943cef6ba07a43000bb58]: Commencement: S. 5 in force at Royal Assent
 
-[^key-2a85de18d5617cbc2c108b82aa2d5311]: Commencement: S. 6 in force at Royal Assent
+[^c-2a85de18d5617cbc2c108b82aa2d5311]: Commencement: S. 6 in force at Royal Assent
 
-[^key-3d32bce06dd516944ea3a41304de4f63]: Commencement: S. 7 in force at Royal Assent
+[^c-3d32bce06dd516944ea3a41304de4f63]: Commencement: S. 7 in force at Royal Assent
 
-[^key-14a1a8b92aed68fbfacf574d6f8334c0]: Commencement: S. 8 in force at Royal Assent
+[^c-14a1a8b92aed68fbfacf574d6f8334c0]: Commencement: S. 8 in force at Royal Assent
 
-[^key-e9c77bc2d9daedee2a45a0fb981f04cd]: Commencement: Sch. in force at Royal Assent
+[^c-e9c77bc2d9daedee2a45a0fb981f04cd]: Commencement: Sch. in force at Royal Assent

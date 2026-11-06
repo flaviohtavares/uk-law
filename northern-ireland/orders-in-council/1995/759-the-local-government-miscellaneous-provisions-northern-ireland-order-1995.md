@@ -26,7 +26,7 @@ summary: ''
 
 1995 No. 759 (N.I. 5)
 
-The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1995[^key-ff9f73f3855567bf9f679a07b68a6571]
+The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1995[^c-ff9f73f3855567bf9f679a07b68a6571]
 
 15th March 1995
 
@@ -244,7 +244,7 @@ and any nameplate erected under any such provision shall be taken for the purpos
 
 ## Annotations
 
-[^key-ff9f73f3855567bf9f679a07b68a6571]: Modification: [Order](https://www.legislation.gov.uk/nisi/1995/759): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-ff9f73f3855567bf9f679a07b68a6571]: Modification: [Order](https://www.legislation.gov.uk/nisi/1995/759): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5482111]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 

@@ -42,11 +42,11 @@ The Department of Health and Social Services for Northern Ireland and the Depart
 
 ## Part I — Introductory
 
-### 1. Citation and commencement[^key-21ab37c6cb220a633d10d380e8378ce8]
+### 1. Citation and commencement[^c-21ab37c6cb220a633d10d380e8378ce8]
 
 These Regulations may be cited as the Employment Protection (Recoupment of Jobseeker’s Allowance and Income Support) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996.
 
-### 2. Interpretation[^key-02bed90c26c87cb6f3af7ce686f4a1e0]
+### 2. Interpretation[^c-02bed90c26c87cb6f3af7ce686f4a1e0]
 
 (1) In these Regulations—
 
@@ -79,7 +79,7 @@ These Regulations may be cited as the Employment Protection (Recoupment of Jobse
 
 ## Part II — Industrial Tribunal Proceedings
 
-### 3. Application to payments and proceedings[^key-340e3902bdb7d96d8432b35ccae8ddfd]
+### 3. Application to payments and proceedings[^c-340e3902bdb7d96d8432b35ccae8ddfd]
 
 (1) Subject to paragraph (2) and regulation 4 these Regulations apply—
 
@@ -88,7 +88,7 @@ These Regulations may be cited as the Employment Protection (Recoupment of Jobse
 
 (2) The payments to which these Regulations apply by virtue of paragraph (1)(*a*) include payments in proceedings under Article 220 and, accordingly, where an order is made on an employee’s complaint under that Article, the relevant protective award shall, as respects that employee and to the appropriate extent, be taken to be subsumed in the order made under Article 220 so that the provisions of these Regulations relating to monetary awards shall apply to payments under that order to the exclusion of the provisions relating to protective awards, but without prejudice to anything done under the latter in connection with the relevant protective award before the making of the order under that Article.
 
-### 4. Duties of the industrial tribunals and of the Secretary of the Tribunals in respect of monetary awards[^key-5862844040c51a60d371684c0caffb83]
+### 4. Duties of the industrial tribunals and of the Secretary of the Tribunals in respect of monetary awards[^c-5862844040c51a60d371684c0caffb83]
 
 (1) Where these Regulations apply, no regard shall be had, in assessing the amount of a monetary award, to the amount of any jobseeker’s allowance or any income support which may have been paid to or claimed by the employee for a period which coincides with any part of a period to which the prescribed element is attributable.
 
@@ -111,7 +111,7 @@ These Regulations may be cited as the Employment Protection (Recoupment of Jobse
 
 (8) The requirements of paragraphs (3) to (7) do not apply where the industrial tribunal is satisfied that in respect of each day falling within the period to which the prescribed element relates the employee has neither received nor claimed jobseeker’s allowance or income support.
 
-### 5. Duties of the industrial tribunals and of the Secretary of the Tribunals in respect of protective awards[^key-e20a9c8b9b6f1cabb21676bf1a22ccfd]
+### 5. Duties of the industrial tribunals and of the Secretary of the Tribunals in respect of protective awards[^c-e20a9c8b9b6f1cabb21676bf1a22ccfd]
 
 (1) Where, on a complaint under Article 217, an industrial tribunal—
 
@@ -131,7 +131,7 @@ the Secretary of the Tribunals shall forthwith notify the Department of the foll
 - (a) Where an industrial tribunal makes such an announcement as is described in paragraph (1)(*a*) in the presence of the employer or his representative it shall advise him of his duties under regulation 6 and shall explain the effect of regulations 7 and 8 in relation to remuneration under the protective award;
 - (b) Without prejudice to sub-paragraph (*a*) any decision of an industrial tribunal to make a protective award under Article 217 shall contain a statement advising the employer of his duties under regulation 6 and an explanation of the effect of regulations 7 and 8 in relation to remuneration under the protective award.
 
-### 6. Duties of the employer to give information about protective awards[^key-d836d6047de2183387ddbce67cd843a8]
+### 6. Duties of the employer to give information about protective awards[^c-d836d6047de2183387ddbce67cd843a8]
 
 (1) Where an industrial tribunal makes a protective award under Article 217 against an employer, the employer shall give to the Department the following information in writing—
 
@@ -144,7 +144,7 @@ the Secretary of the Tribunals shall forthwith notify the Department of the foll
 
 ## Part III — Recoupment of Benefit
 
-### 7. Postponement of awards[^key-1796d1d9433199098df6840f18b77317]
+### 7. Postponement of awards[^c-1796d1d9433199098df6840f18b77317]
 
 (1) This regulation shall have effect for the purpose of postponing relevant awards in order to enable the Department to initiate recoupment under regulation 8.
 
@@ -160,7 +160,7 @@ shall be treated as stayed as respects the relevant employee until—
 
 (3) The stay under paragraph (2) is without prejudice to the right of an employee under Article 220 to present a complaint to an industrial tribunal of his employer’s failure to pay remuneration under a protective award and regulation 3(2) has effect as respects any such complaint and as respects any order made under paragraph (3) of that Article.
 
-### 8. Recoupment of benefit[^key-197a53575d61a03d89d4426d56831c74]
+### 8. Recoupment of benefit[^c-197a53575d61a03d89d4426d56831c74]
 
 (1) Recoupment shall be initiated by the Department serving on the employer a recoupment notice claiming by way of total or partial recoupment of jobseeker’s allowance or income support the appropriate amount, computed, as the case may require, under paragraph (2) or (3).
 
@@ -193,7 +193,7 @@ shall be treated as stayed as respects the relevant employee until—
 
 (11) The recoupable amount shall be recoverable by the Department from the employer as a debt.
 
-### 9. Order made in secondary proceedings[^key-ad251393472801ee84a1ce20d135bd21]
+### 9. Order made in secondary proceedings[^c-ad251393472801ee84a1ce20d135bd21]
 
 (1) In the application of any of the above provisions in the case of—
 
@@ -209,7 +209,7 @@ it shall be the duty of the industrial tribunal or, as the case may require, the
 
 ## Part IV — Determination and Review of Benefit Recouped
 
-### 10. Provisions relating to determination of amount paid by way of or paid as on account of benefit[^key-e81b508f82ba10586c92ac5d6c23fbaa]
+### 10. Provisions relating to determination of amount paid by way of or paid as on account of benefit[^c-e81b508f82ba10586c92ac5d6c23fbaa]
 
 (1) Without prejudice to the right of the Department to recover from an employer the recoupable benefit, an employee to whom a copy of a recoupment notice has been served in accordance with regulation 8 may, within 21 days of the date on which such notice was served on him or within such further time as the Department may for special reasons allow, give notice in writing to the Department that he does not accept that the amount specified in the recoupment notice in respect of jobseeker’s allowance or income support is correct.
 
@@ -224,7 +224,7 @@ the amount recovered by the Department from the employer under these Regulations
 
 (4) In any case where, after the Department has recovered from an employer any amount by way of recoupment of benefit, the decision given by the industrial tribunal in consequence of which such recoupment took place is set aside or varied on appeal or on a re-hearing by the industrial tribunal, the Department shall make such repayment to the employer or payment to the employee of the whole or part of the amount recovered as it is satisfied should properly be made having regard to the decision given on appeal or re-hearing.
 
-### 11. Revocations and transitional provision[^key-3da33e7ea1aabb733f09ec9332038904]
+### 11. Revocations and transitional provision[^c-3da33e7ea1aabb733f09ec9332038904]
 
 (1) The following Regulations are hereby revoked—
 
@@ -248,7 +248,7 @@ W. D. A. Haire
 
 Assistant Secretary
 
-## SCHEDULE — Table relating to monetary awards[^key-0ef3edc18596728893d23e47949d8983]
+## SCHEDULE — Table relating to monetary awards[^c-0ef3edc18596728893d23e47949d8983]
 
 Regulation 3
 
@@ -287,9 +287,9 @@ The Regulations correspond to provision contained in Regulations made by the Sec
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8); section 56(1) was amended by paragraph 27(*a*) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 (S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705))
 
-[^key-21ab37c6cb220a633d10d380e8378ce8]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-21ab37c6cb220a633d10d380e8378ce8]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
-[^key-02bed90c26c87cb6f3af7ce686f4a1e0]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-02bed90c26c87cb6f3af7ce686f4a1e0]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
 [^f00003]: Footnote: S.I. [1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980)
 
@@ -297,25 +297,25 @@ The Regulations correspond to provision contained in Regulations made by the Sec
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-340e3902bdb7d96d8432b35ccae8ddfd]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-340e3902bdb7d96d8432b35ccae8ddfd]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
-[^key-5862844040c51a60d371684c0caffb83]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-5862844040c51a60d371684c0caffb83]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
-[^key-e20a9c8b9b6f1cabb21676bf1a22ccfd]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-e20a9c8b9b6f1cabb21676bf1a22ccfd]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
-[^key-d836d6047de2183387ddbce67cd843a8]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-d836d6047de2183387ddbce67cd843a8]: Commencement: Reg. 6 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
-[^key-1796d1d9433199098df6840f18b77317]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-1796d1d9433199098df6840f18b77317]: Commencement: Reg. 7 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
-[^key-197a53575d61a03d89d4426d56831c74]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-197a53575d61a03d89d4426d56831c74]: Commencement: Reg. 8 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
-[^key-ad251393472801ee84a1ce20d135bd21]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-ad251393472801ee84a1ce20d135bd21]: Commencement: Reg. 9 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
-[^key-e81b508f82ba10586c92ac5d6c23fbaa]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-e81b508f82ba10586c92ac5d6c23fbaa]: Commencement: Reg. 10 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
 [^f00006]: Footnote: Section 23 was amended by paragraph 46 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
 
-[^key-3da33e7ea1aabb733f09ec9332038904]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-3da33e7ea1aabb733f09ec9332038904]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1977 No. 123](https://www.legislation.gov.uk/nisr/1977/123)
 
@@ -327,4 +327,4 @@ The Regulations correspond to provision contained in Regulations made by the Sec
 
 [^f00011]: Footnote: [S.R. 1989 No. 464](https://www.legislation.gov.uk/nisr/1989/464)
 
-[^key-0ef3edc18596728893d23e47949d8983]: Commencement: Sch. in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)
+[^c-0ef3edc18596728893d23e47949d8983]: Commencement: Sch. in operation at 7.10.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/459/regulation/1)

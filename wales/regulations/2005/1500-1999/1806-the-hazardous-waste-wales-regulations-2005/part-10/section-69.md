@@ -26,7 +26,7 @@ summary: ''
 - (b) regulation 22 (prohibition on removal of waste from premises unless notified or exempt);
 - (c) regulations 24 to 26 (notifications);
 - (d) regulation 34 (consignment codes);
-- (e) regulations 35 to 43[^key-19b9633363bfc35deda38740b95bf231] (consignment notes);
+- (e) regulations 35 to 43[^c-19b9633363bfc35deda38740b95bf231] (consignment notes);
 - (f) regulation 46 and Schedule 7 (cross-border consignments);
 - (g) regulation 53 (consignee and self-disposal quarterly returns);
 - (h) regulation 54 (consignee's return to the producer, holder or consignor); or
@@ -41,4 +41,4 @@ is liable on summary conviction, to a fine not exceeding level 5 on the standard
 
 ## Annotations
 
-[^key-19b9633363bfc35deda38740b95bf231]: Textual amendment: Word in [reg. 69(1)(e)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/69/1/e) substituted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 27](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/27)
+[^c-19b9633363bfc35deda38740b95bf231]: Textual amendment: Word in [reg. 69(1)(e)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/69/1/e) substituted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 27](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/27)

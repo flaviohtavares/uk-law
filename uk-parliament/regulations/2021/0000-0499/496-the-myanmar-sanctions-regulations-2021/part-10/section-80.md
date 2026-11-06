@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Transitional provision: Treasury licences[^key-48f4f3149631ff976a39f2718253536d]
+## 80. Transitional provision: Treasury licences[^c-48f4f3149631ff976a39f2718253536d]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ and such a licence is referred to in this regulation as “**an existing financi
 
 ## Annotations
 
-[^key-48f4f3149631ff976a39f2718253536d]: Commencement: Reg. 80 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-48f4f3149631ff976a39f2718253536d]: Commencement: Reg. 80 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

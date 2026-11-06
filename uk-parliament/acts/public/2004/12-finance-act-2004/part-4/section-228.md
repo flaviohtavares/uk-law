@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Annual allowance[^key-ef9a9cca06a6b23236c003f63e9dc244]
+## 228. Annual allowance[^c-ef9a9cca06a6b23236c003f63e9dc244]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1)[^M_F_55985399-c2a4-4850-b09b-8685c21ed53a] The annual allowance for the tax year 2023-24 and, subject to subsection (2), each subsequent tax year is £60,000.
 
@@ -28,9 +28,9 @@ summary: ''
 
 ## Annotations
 
-[^key-ef9a9cca06a6b23236c003f63e9dc244]: Textual amendment: S. 228(1) substituted (with effect in accordance with s. 49(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 49(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/49/2)
+[^c-ef9a9cca06a6b23236c003f63e9dc244]: Textual amendment: S. 228(1) substituted (with effect in accordance with s. 49(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 49(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/49/2)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
 
 [^M_F_55985399-c2a4-4850-b09b-8685c21ed53a]: Textual amendment: S. 228(1) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 20(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/20/2)
 

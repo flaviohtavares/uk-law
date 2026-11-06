@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Resignation[^M_I_8c0c5046-6084-4dce-a561-026c3ff4148e][^key-402f94e0215a207bda9bf796cde1bbc2]
+## 107. Resignation[^M_I_8c0c5046-6084-4dce-a561-026c3ff4148e][^c-402f94e0215a207bda9bf796cde1bbc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^M_I_8c0c5046-6084-4dce-a561-026c3ff4148e]: Commencement: S. 107 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 2
 
-[^key-402f94e0215a207bda9bf796cde1bbc2]: Commencement: S. 107 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-402f94e0215a207bda9bf796cde1bbc2]: Commencement: S. 107 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

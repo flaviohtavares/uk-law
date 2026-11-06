@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Appeals under Part 1 of the Criminal Appeal Act 1968[^key-f39583e048dfd0e0beef6c9ac8c6abff]
+## 48. Appeals under Part 1 of the Criminal Appeal Act 1968[^c-f39583e048dfd0e0beef6c9ac8c6abff]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f39583e048dfd0e0beef6c9ac8c6abff]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2006/48/section/48) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/i)
+[^c-f39583e048dfd0e0beef6c9ac8c6abff]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2006/48/section/48) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/i)

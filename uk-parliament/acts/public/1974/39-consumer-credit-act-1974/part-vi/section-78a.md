@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78A. Duty to give information to debtor on change of rate of interest[^key-5961c4d9d669b452814ef85d73504390][^c20969191]
+## 78A. Duty to give information to debtor on change of rate of interest[^c-5961c4d9d669b452814ef85d73504390][^c20969191]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5961c4d9d669b452814ef85d73504390]: Modification: [S. 78A](https://www.legislation.gov.uk/ukpga/1974/39/section/78A) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(5)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-5961c4d9d669b452814ef85d73504390]: Modification: [S. 78A](https://www.legislation.gov.uk/ukpga/1974/39/section/78A) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(5)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c20969191]: Textual amendment: S. 78A inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 27](https://www.legislation.gov.uk/uksi/2010/1010/regulation/27), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))

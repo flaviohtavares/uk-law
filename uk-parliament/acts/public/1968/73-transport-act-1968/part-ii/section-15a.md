@@ -26,7 +26,7 @@ summary: ''
 
 (3) The Authority may from time to time cause a review to be made of the organisation of the Executive’s undertaking and may give to the Executive such directions as appear to the Authority from any such review to be requisite to secure that the Executive’s undertaking is organised in the most efficient manner; and the Executive shall not make, or permit to be made, any substantial change in the manner in which their undertaking is organised except in pursuance of a direction given by the Authority under this subsection, or with the approval of the Authority.
 
-(4)[^key-de4dbe4120bf91d2b0584abe07f33b6d] This section does not apply to—
+(4)[^c-de4dbe4120bf91d2b0584abe07f33b6d] This section does not apply to—
 
 - (a) the West Yorkshire Combined Authority, or
 - (b) the West Midlands Combined Authority.
@@ -37,4 +37,4 @@ summary: ''
 
 [^c15313341]: Textual amendment: S. 15A(1) repealed (E.W.S.) by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [ss. 57(6)](https://www.legislation.gov.uk/ukpga/1985/67/section/57/6), [139(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/139/3), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/11), [Sch. 8](https://www.legislation.gov.uk/ukpga/1985/67/schedule/8)
 
-[^key-de4dbe4120bf91d2b0584abe07f33b6d]: Textual amendment: [S. 15A(4)](https://www.legislation.gov.uk/ukpga/1968/73/section/15A/4) substituted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/10)
+[^c-de4dbe4120bf91d2b0584abe07f33b6d]: Textual amendment: [S. 15A(4)](https://www.legislation.gov.uk/ukpga/1968/73/section/15A/4) substituted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/10)

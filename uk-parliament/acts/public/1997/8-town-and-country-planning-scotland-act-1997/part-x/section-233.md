@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 233. Measure of compensation to statutory undertakers etc.[^key-c5222aae239814b59bfdd42c5c3c9711]
+## 233. Measure of compensation to statutory undertakers etc.[^c-c5222aae239814b59bfdd42c5c3c9711]
 
 *Extent: S*
 
@@ -26,13 +26,13 @@ summary: ''
   - (i) as mentioned in subsection (1), (2) or (4) of section 232,
   - (ii) under the provisions of section 83 in respect of an order made under section 71 or paragraph 1, 3, 5 or 6 of Schedule 8 as modified by section 222, or
   - (iii) in respect of a compulsory acquisition of land which has been acquired by those undertakers for the purposes of their undertaking, where the first-mentioned acquisition is effected under a compulsory purchase order confirmed or made without the Scottish Ministers’ certificate[^c950345], or
-- (b) the operator of an electronic communications code network[^key-4694a37542993c1d8f53b2daa78d54c0] is entitled to compensation as mentioned in section 232(3),
+- (b) the operator of an electronic communications code network[^c-4694a37542993c1d8f53b2daa78d54c0] is entitled to compensation as mentioned in section 232(3),
 
 the amount of the compensation shall (subject to section 234) be an amount calculated in accordance with this section.
 
 (2) Subject to subsections (4) to (6), that amount shall be the aggregate of—
 
-- (a) the amount of any expenditure reasonably incurred in acquiring land, providing apparatus, erecting buildings or doing work for the purpose of any adjustment of the carrying on of the undertaking or, as the case may be, the provision of the electronic communications code network[^key-36f5a1dd1dcf699d323b9eb6d40a968e] rendered necessary by the proceeding giving rise to compensation (a “**business adjustment**”),
+- (a) the amount of any expenditure reasonably incurred in acquiring land, providing apparatus, erecting buildings or doing work for the purpose of any adjustment of the carrying on of the undertaking or, as the case may be, the provision of the electronic communications code network[^c-36f5a1dd1dcf699d323b9eb6d40a968e] rendered necessary by the proceeding giving rise to compensation (a “**business adjustment**”),
 - (b) the appropriate amount for loss of profits, and
 - (c) where the compensation is under section 232(2) or (3) and is in respect of the imposition of a requirement to remove apparatus, the amount of any expenditure reasonably incurred by the statutory undertakers or, as the case may be, the operator in complying with the requirement, reduced by the value after removal of the apparatus removed.
 
@@ -74,12 +74,12 @@ and references to an increase in net receipts shall be construed accordingly.
 
 ## Annotations
 
-[^key-c5222aae239814b59bfdd42c5c3c9711]: Modification: S. 233 applied (with modifications) (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 9 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/3/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/3/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-c5222aae239814b59bfdd42c5c3c9711]: Modification: S. 233 applied (with modifications) (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 9 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/3/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/9/paragraph/3/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 113](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/113) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c950345]: Textual amendment: Words in s. 233(1)(a)(iii)(8) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 127(16)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/127/16); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-4694a37542993c1d8f53b2daa78d54c0]: Textual amendment: Words in s. 232 substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(f)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/f)[(2)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/a)
+[^c-4694a37542993c1d8f53b2daa78d54c0]: Textual amendment: Words in s. 232 substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(f)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/f)[(2)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/a)
 
-[^key-36f5a1dd1dcf699d323b9eb6d40a968e]: Textual amendment: Words in s. 233 substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(f)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/f)[(2)(c)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/c)
+[^c-36f5a1dd1dcf699d323b9eb6d40a968e]: Textual amendment: Words in s. 233 substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(f)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/f)[(2)(c)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/c)
 
 [^c950347]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).

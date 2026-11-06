@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Deduction and payment of contributions[^key-e52b1cc28a4b8a9ec4b81e5527d4148c]
+## 114. Deduction and payment of contributions[^c-e52b1cc28a4b8a9ec4b81e5527d4148c]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e52b1cc28a4b8a9ec4b81e5527d4148c]: Commencement: [Reg. 114](https://www.legislation.gov.uk/ssi/2015/19/regulation/114) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-e52b1cc28a4b8a9ec4b81e5527d4148c]: Commencement: [Reg. 114](https://www.legislation.gov.uk/ssi/2015/19/regulation/114) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00046]: Footnote: [1951 c.65](https://www.legislation.gov.uk/ukpga/1951/65).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Warrants[^key-1a331bb392702418517c2aa8dc8e7887]
+## 78. Warrants[^c-1a331bb392702418517c2aa8dc8e7887]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 - (c) that—
   - (i) an offence has been committed,
   - (ii) a person will do any act which constitutes a misuse or misappropriation of the assets of an occupational pension scheme or a personal pension scheme,
-  - (iii) a person is liable to pay a penalty under or by virtue of section 77A, 77B or 88A of this Act,[^key-6fc40cd3e1ae04d9b7660fd00fd86e2f] section 10 of the Pensions Act 1995 (c. 26) (civil penalties) or section 168(4) of the Pension Schemes Act 1993 (c. 48) (civil penalties for breach of regulations), or under or by virtue of any provision in force in Northern Ireland corresponding to any of those provisions[^key-9e4fad0e6aec2bde9c2549e8a14bdde7] , or
+  - (iii) a person is liable to pay a penalty under or by virtue of section 77A, 77B or 88A of this Act,[^c-6fc40cd3e1ae04d9b7660fd00fd86e2f] section 10 of the Pensions Act 1995 (c. 26) (civil penalties) or section 168(4) of the Pension Schemes Act 1993 (c. 48) (civil penalties for breach of regulations), or under or by virtue of any provision in force in Northern Ireland corresponding to any of those provisions[^c-9e4fad0e6aec2bde9c2549e8a14bdde7] , or
   - (iv) a person is liable to be prohibited from being a trustee of an occupational or personal pension scheme under section 3 of the Pensions Act 1995 (prohibition orders), including that section as it applies by virtue of paragraph 1 of Schedule 1 to the Welfare Reform and Pensions Act 1999 (c. 30) (stakeholder schemes), or under or by virtue of any corresponding provisions in force in Northern Ireland,
 
   and that there is on, or accessible from, any premises any document which relates to whether the offence has been committed, whether the act will be done or whether the person is so liable, and whose production could be required under section 72 or 75 or any corresponding provision in force in Northern Ireland.
@@ -87,8 +87,8 @@ which might arise out of a failure to comply with any provision within subsectio
 
 ## Annotations
 
-[^key-1a331bb392702418517c2aa8dc8e7887]: Commencement: S. 78 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-1a331bb392702418517c2aa8dc8e7887]: Commencement: S. 78 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-6fc40cd3e1ae04d9b7660fd00fd86e2f]: Textual amendment: Words in [s. 78(1)(c)(iii)](https://www.legislation.gov.uk/ukpga/2004/35/section/78/1/c/iii) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/6/a); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)
+[^c-6fc40cd3e1ae04d9b7660fd00fd86e2f]: Textual amendment: Words in [s. 78(1)(c)(iii)](https://www.legislation.gov.uk/ukpga/2004/35/section/78/1/c/iii) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/6/a); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)
 
-[^key-9e4fad0e6aec2bde9c2549e8a14bdde7]: Textual amendment: Words in [s. 78(1)(c)(iii)](https://www.legislation.gov.uk/ukpga/2004/35/section/78/1/c/iii) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 6(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/6/b); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)
+[^c-9e4fad0e6aec2bde9c2549e8a14bdde7]: Textual amendment: Words in [s. 78(1)(c)(iii)](https://www.legislation.gov.uk/ukpga/2004/35/section/78/1/c/iii) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 6(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/6/b); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/4/c)

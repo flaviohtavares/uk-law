@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156AA. Application of Chapter to alternative provision Academies that are not independent schools[^key-eb2087fff078d7bc58b241ba22d9f7b1]
+## 156AA. Application of Chapter to alternative provision Academies that are not independent schools[^c-eb2087fff078d7bc58b241ba22d9f7b1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb2087fff078d7bc58b241ba22d9f7b1]: Textual amendment: S. 156AA inserted (1.4.2012) by [The Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (S.I. 2012/976)](https://www.legislation.gov.uk/uksi/2012/976), [art. 1](https://www.legislation.gov.uk/uksi/2012/976/article/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2012/976/schedule/paragraph/13) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/976/article/3))
+[^c-eb2087fff078d7bc58b241ba22d9f7b1]: Textual amendment: S. 156AA inserted (1.4.2012) by [The Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (S.I. 2012/976)](https://www.legislation.gov.uk/uksi/2012/976), [art. 1](https://www.legislation.gov.uk/uksi/2012/976/article/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2012/976/schedule/paragraph/13) (with [art. 3](https://www.legislation.gov.uk/uksi/2012/976/article/3))

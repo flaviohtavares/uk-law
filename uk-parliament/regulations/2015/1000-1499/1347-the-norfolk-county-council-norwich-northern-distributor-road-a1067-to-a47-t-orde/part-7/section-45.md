@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Procedure in relation to certain approvals etc.[^key-e2691ba703b0815e68400a5e35be24e9]
+## 45. Procedure in relation to certain approvals etc.[^c-e2691ba703b0815e68400a5e35be24e9]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ that it is likely that the subject matter of such application or request will gi
 
 ## Annotations
 
-[^key-e2691ba703b0815e68400a5e35be24e9]: Commencement: Art. 45 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-e2691ba703b0815e68400a5e35be24e9]: Commencement: Art. 45 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
 [^f00033]: Footnote: Section 78 was amended by section 17(2) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 43(2) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), paragraphs 1 and 3 of Schedule 10, and paragraphs 1 and 2 of Schedule 11, to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 123(1) and (3) of, and paragraphs 1 and 11 of Schedule 12 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and paragraphs 1 and 8 of Schedule 1 to the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
 

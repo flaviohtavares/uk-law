@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 441. Amount of gain realised on occurrence of chargeable event[^key-74ea5d0d19e54792ecd1cf8a6a2ae033]
+## 441. Amount of gain realised on occurrence of chargeable event[^c-74ea5d0d19e54792ecd1cf8a6a2ae033]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (9) DC is the amount of the consideration given on the disposal.
 
-(10)[^key-3396557ab38a07838764090274efd8ec] Subsection (11) applies for the purposes of subsection (2) or (3) if—
+(10)[^c-3396557ab38a07838764090274efd8ec] Subsection (11) applies for the purposes of subsection (2) or (3) if—
 
 - (a) prior to the acquisition, the employment-related securities were the subject of a relevant step within the meaning of Part 7A by reason of which Chapter 2 of that Part applied in respect of the employment, and
 - (b) the amount mentioned in subsection (11)(a) is higher than the amount mentioned in subsection (11)(b).
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74ea5d0d19e54792ecd1cf8a6a2ae033]: Textual amendment: Pt. 7 Ch. 3 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 4(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/4/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-74ea5d0d19e54792ecd1cf8a6a2ae033]: Textual amendment: Pt. 7 Ch. 3 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 4(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/4/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-3396557ab38a07838764090274efd8ec]: Textual amendment: S. 441(10)(11) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/18)
+[^c-3396557ab38a07838764090274efd8ec]: Textual amendment: S. 441(10)(11) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/18)

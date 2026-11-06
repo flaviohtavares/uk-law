@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Interpretation of Part 3[^key-712b901708612acef5f86640737085dd]
+## 11. Interpretation of Part 3[^c-712b901708612acef5f86640737085dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ In this Part—
 
 ## Annotations
 
-[^key-712b901708612acef5f86640737085dd]: Textual amendment: Reg. 11 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/538/regulation/10)
+[^c-712b901708612acef5f86640737085dd]: Textual amendment: Reg. 11 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/538/regulation/10)

@@ -42,9 +42,9 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-c44c9cbe02c509295e84da687d49c55d]The Treasury are a government department designated[^c23030591] for the purposes of section 2(2) of the European Communities Act 1972[^c23030601] in relation to financial services.
+[^c-c44c9cbe02c509295e84da687d49c55d]The Treasury are a government department designated[^c23030591] for the purposes of section 2(2) of the European Communities Act 1972[^c23030601] in relation to financial services.
 
-The Treasury make these Regulations in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, sections 22(1) and (5) and 428(3) of, and paragraph 20(4)(d) of Schedule 1ZA and paragraph 15(1) of Schedule 2 to, the Financial Services and Markets Act 2000 [^c23030611], section 3 of the Child Trust Funds Act 2004 [^c23030621], section 694 of the Income Tax (Trading and Other Income) Act 2005 [^c23030631], sections 85(2)(b) and 109(4)(b) of the Financial Services Act 2012 [^c23030641] and paragraph 10(4)(b) and (5)(b) of Schedule 4 to the Financial Services (Banking Reform) Act 2013 [^c23030651].[^key-a8da46539d1f8058a99984b6ff625219][^key-9849660a740f58a0ad6651ac3f524e1b]
+The Treasury make these Regulations in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, sections 22(1) and (5) and 428(3) of, and paragraph 20(4)(d) of Schedule 1ZA and paragraph 15(1) of Schedule 2 to, the Financial Services and Markets Act 2000 [^c23030611], section 3 of the Child Trust Funds Act 2004 [^c23030621], section 694 of the Income Tax (Trading and Other Income) Act 2005 [^c23030631], sections 85(2)(b) and 109(4)(b) of the Financial Services Act 2012 [^c23030641] and paragraph 10(4)(b) and (5)(b) of Schedule 4 to the Financial Services (Banking Reform) Act 2013 [^c23030651].[^c-a8da46539d1f8058a99984b6ff625219][^c-9849660a740f58a0ad6651ac3f524e1b]
 
 ## Contents
 
@@ -384,7 +384,7 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 ## Annotations
 
-[^key-c44c9cbe02c509295e84da687d49c55d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/752) revoked (14.12.2023 for the revocation of reg. 158) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xix)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xix)
+[^c-c44c9cbe02c509295e84da687d49c55d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/752) revoked (14.12.2023 for the revocation of reg. 158) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xix)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xix)
 
 [^c23030591]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
@@ -400,6 +400,6 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^c23030651]: Marginal citation: [2013 c. 33](https://www.legislation.gov.uk/ukpga/2013/33).
 
-[^key-a8da46539d1f8058a99984b6ff625219]: Modification: Regulations modified (20.11.2018) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/14/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4))
+[^c-a8da46539d1f8058a99984b6ff625219]: Modification: Regulations modified (20.11.2018) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/14/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4))
 
-[^key-9849660a740f58a0ad6651ac3f524e1b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/752): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-9849660a740f58a0ad6651ac3f524e1b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/752): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)

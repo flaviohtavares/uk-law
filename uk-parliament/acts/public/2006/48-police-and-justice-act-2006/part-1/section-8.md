@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Community support officers: power to deal with truants[^key-59e714cdff2092409446591fa656bd43]
+## 8. Community support officers: power to deal with truants[^c-59e714cdff2092409446591fa656bd43]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59e714cdff2092409446591fa656bd43]: Textual amendment: S. 8 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss.](https://www.legislation.gov.uk/ukpga/2017/3/section), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 21(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/21/2); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-59e714cdff2092409446591fa656bd43]: Textual amendment: S. 8 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss.](https://www.legislation.gov.uk/ukpga/2017/3/section), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 21(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/21/2); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)

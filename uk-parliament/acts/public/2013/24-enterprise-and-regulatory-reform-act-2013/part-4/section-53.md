@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the regulator whose functions would be removed by the order,
 - (b) the Competition and Markets Authority,
-- (c) where the regulator is the Office of Rail and Road[^key-875cb77f65b432e1d3af267585c475bc] , the Scottish Ministers,
+- (c) where the regulator is the Office of Rail and Road[^c-875cb77f65b432e1d3af267585c475bc] , the Scottish Ministers,
 - (d) where the regulator is the Northern Ireland Authority for Utility Regulation, the Department of Enterprise, Trade and Investment in Northern Ireland and the Department for Regional Development in Northern Ireland, and
 - (e) where the regulator is the Water Services Regulation Authority, the Welsh Ministers.
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-875cb77f65b432e1d3af267585c475bc]: Textual amendment: Words in [s. 53(2)(c)](https://www.legislation.gov.uk/ukpga/2013/24/section/53/2/c) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(v)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/v/ii)
+[^c-875cb77f65b432e1d3af267585c475bc]: Textual amendment: Words in [s. 53(2)(c)](https://www.legislation.gov.uk/ukpga/2013/24/section/53/2/c) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(v)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/v/ii)

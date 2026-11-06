@@ -24,14 +24,14 @@ summary: ''
 
 - “**the advisory panel**” (“***y panel cynghori***”) means the panel of advisers established under section 26;
 - “**the Commissioner**” (“***y Comisiynydd***”) means the Future Generations Commissioner for Wales;
-- “[^key-6df842b5e9da209e39e90eb2bbeb107a]**corporate joint committee**” (“***cyd-bwyllgor corfforedig***”) means a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021;
+- “[^c-6df842b5e9da209e39e90eb2bbeb107a]**corporate joint committee**” (“***cyd-bwyllgor corfforedig***”) means a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021;
 - “**financial year**” (“***blwyddyn ariannol***”) means the period of 12 months ending with 31 March;
 - “**future trends report**” (“***adroddiad tueddiadau tebygol y dyfodol***”) has the meaning given by section 11;
 - “**invited participant**” (“***cyfranogwr gwadd***”) has the meaning given by section 30(5);
 - “**local authority**” (“***awdurdod lleol***”) means a county council or county borough council in Wales;
 - “**Local Health Board**” (“***Bwrdd Iechyd Lleol***”) means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006 (c.42);
 - “**local objectives**” (“***amcanion lleol***”) means objectives set by a public services board in accordance with section 36(2)(b);
-- “**local well-being plan**” (“***cynllun llesiant lleol***”) means a plan published under section 39 , 44(5) or 47(6) or (11)[^key-2c33ad96449f71eccaacb0af456faea1];
+- “**local well-being plan**” (“***cynllun llesiant lleol***”) means a plan published under section 39 , 44(5) or 47(6) or (11)[^c-2c33ad96449f71eccaacb0af456faea1];
 - “**National Assembly**” (“***Cynulliad Cenedlaethol***”) means the National Assembly for Wales;
 - “**national indicators**” (“***dangosyddion cenedlaethol***”) has the meaning given by section 10(1)(a);
 - “**other partners**” (“***partneriaid eraill***”), in relation to a public services board, means the bodies mentioned in section 32(1);
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6df842b5e9da209e39e90eb2bbeb107a]: Textual amendment: Words in [s. 55(1)](https://www.legislation.gov.uk/anaw/2015/2/section/55/1) inserted (3.12.2021) by [The Corporate Joint Committees (Amendment of the Well-being of Future Generations (Wales) Act 2015) Regulations 2021 (S.I. 2021/1360)](https://www.legislation.gov.uk/wsi/2021/1360), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1360/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/1360/regulation/2/5)
+[^c-6df842b5e9da209e39e90eb2bbeb107a]: Textual amendment: Words in [s. 55(1)](https://www.legislation.gov.uk/anaw/2015/2/section/55/1) inserted (3.12.2021) by [The Corporate Joint Committees (Amendment of the Well-being of Future Generations (Wales) Act 2015) Regulations 2021 (S.I. 2021/1360)](https://www.legislation.gov.uk/wsi/2021/1360), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1360/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/1360/regulation/2/5)
 
-[^key-2c33ad96449f71eccaacb0af456faea1]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/anaw/2015/2/section/55) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(7)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/7)
+[^c-2c33ad96449f71eccaacb0af456faea1]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/anaw/2015/2/section/55) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(7)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/7)

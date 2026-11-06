@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**52.**[^key-05023b2ba12bb3999708eec40a24ed2c] In regulation 44B, in paragraph (a), so far as it applies to Wales—
+**52.**[^c-05023b2ba12bb3999708eec40a24ed2c] In regulation 44B, in paragraph (a), so far as it applies to Wales—
 
 - (a) in sub-paragraph (i), for “section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990” substitute “section 76 of the Historic Environment (Wales) Act 2023”;
 - (b) in sub-paragraph (ii), for “section 69 of that Act” substitute “section 158 of the Historic Environment (Wales) Act 2023”;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05023b2ba12bb3999708eec40a24ed2c]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2024/924/regulation/52) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-05023b2ba12bb3999708eec40a24ed2c]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2024/924/regulation/52) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

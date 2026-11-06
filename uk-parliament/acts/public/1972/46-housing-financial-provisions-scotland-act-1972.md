@@ -73,7 +73,7 @@ An Act to introduce a new system of housing subsidies for housing authorities; t
 - “**house**” has the same meaning as in the Act of 1966, except that it includes any structure made available under section 1 of the [^c822931]Housing (Temporary Accommodation) Act 1944;
 - “**housing association**” has the same meaning as in the Act of 1966, except that, subject to sections 58 and 59 of this Act, it does not include the Scottish Special Housing Association or a development corporation or any association which is, or is deemed to be, duly registered under the [^c822932]Industrial and Provident Societies Act 1965 and whose rules restrict membership to persons who are tenants or prospective tenants of the association, and preclude the granting or assigning of tenancies to persons other than members;
 - “**housing authority**” means a local authority, a development corporation or the Scottish Special Housing Association;
-- “**land**” includes any right[^key-49f94c5297019efd5f4db449354d934e] or interest in land;
+- “**land**” includes any right[^c-49f94c5297019efd5f4db449354d934e] or interest in land;
 - “**local authority**” has the meaning assigned to it by section 1 of the Act of 1966;
 - “**overspill agreement**”, has the same meaning as in section 9(1) of the [^c822933]Housing and Town Development (Scotland) Act 1957;
 - “**the relevant date**” in relation to any period means the date occurring six months after the beginning of that period;
@@ -122,7 +122,7 @@ Section 79.
 
 ### THE FIRE PRECAUTIONS ACT 1971 (c. 40)
 
-**31.**[^key-d7caa6db6e8c6c9699b04bca7df6e89e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-d7caa6db6e8c6c9699b04bca7df6e89e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **32.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c822977]
 
@@ -160,7 +160,7 @@ Section 79.
 
 [^c822932]: Marginal citation: [1965 c. 12](https://www.legislation.gov.uk/ukpga/1965/12).
 
-[^key-49f94c5297019efd5f4db449354d934e]: Textual amendment: Word in [s. 78(1)](https://www.legislation.gov.uk/ukpga/1972/46/section/78/1) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 paras. 32](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/32) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-49f94c5297019efd5f4db449354d934e]: Textual amendment: Word in [s. 78(1)](https://www.legislation.gov.uk/ukpga/1972/46/section/78/1) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 paras. 32](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/32) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c822933]: Marginal citation: [1957 c. 38](https://www.legislation.gov.uk/ukpga/1957/38).
 
@@ -182,7 +182,7 @@ Section 79.
 
 [^c822976]: Textual amendment: [Ss. 1–68](https://www.legislation.gov.uk/ukpga/1972/46/section/1), [70–77](https://www.legislation.gov.uk/ukpga/1972/46/section/70), [79](https://www.legislation.gov.uk/ukpga/1972/46/section/79), [80](https://www.legislation.gov.uk/ukpga/1972/46/section/80), [Schs. 1–8](https://www.legislation.gov.uk/ukpga/1972/46/schedule/1), [9](https://www.legislation.gov.uk/ukpga/1972/46/schedule/9) paras. 1–30, 32 and Schs. 10, 11 repealed by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 
-[^key-d7caa6db6e8c6c9699b04bca7df6e89e]: Textual amendment: [Sch. 9 para. 31](https://www.legislation.gov.uk/ukpga/1972/46/schedule/9/paragraph/31) repealed (1.10.2006) by [Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-d7caa6db6e8c6c9699b04bca7df6e89e]: Textual amendment: [Sch. 9 para. 31](https://www.legislation.gov.uk/ukpga/1972/46/schedule/9/paragraph/31) repealed (1.10.2006) by [Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
 [^c822977]: Textual amendment: [Ss. 1–68](https://www.legislation.gov.uk/ukpga/1972/46/section/1), [70–77](https://www.legislation.gov.uk/ukpga/1972/46/section/70), [79](https://www.legislation.gov.uk/ukpga/1972/46/section/79), [80](https://www.legislation.gov.uk/ukpga/1972/46/section/80), [Schs. 1–8](https://www.legislation.gov.uk/ukpga/1972/46/schedule/1), [9](https://www.legislation.gov.uk/ukpga/1972/46/schedule/9) paras. 1–30, 32 and Schs. 10, 11 repealed by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 

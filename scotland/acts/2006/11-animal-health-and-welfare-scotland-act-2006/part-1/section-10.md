@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Deliberate infection of animals[^key-291821f69aced034b6281e5f680eb61d]
+## 10. Deliberate infection of animals[^c-291821f69aced034b6281e5f680eb61d]
 
 *Extent: S*
 
@@ -294,4 +294,4 @@ After section 28B of the 1981 Act there is inserted—
 
 ## Annotations
 
-[^key-291821f69aced034b6281e5f680eb61d]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2006/11/section/10) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-291821f69aced034b6281e5f680eb61d]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2006/11/section/10) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

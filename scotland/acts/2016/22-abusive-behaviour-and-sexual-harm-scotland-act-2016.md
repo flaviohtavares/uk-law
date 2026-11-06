@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Abusive behaviour towards partner or ex-partner
 
-#### 1. Aggravation of offence where abuse of partner or ex-partner[^key-8082e47c265d92c6a2611e11978993c4]
+#### 1. Aggravation of offence where abuse of partner or ex-partner[^c-8082e47c265d92c6a2611e11978993c4]
 
 (1) This subsection applies where it is—
 
@@ -66,7 +66,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 (6) For the purposes of this section, a person is a partner of another person if they are—
 
 - (a) spouses or civil partners of each other,
-- (b) living together as if spouses [^key-1e9ef023476f969f2d9b729c1e806cda]... of each other, or
+- (b) living together as if spouses [^c-1e9ef023476f969f2d9b729c1e806cda]... of each other, or
 - (c) in an intimate personal relationship with each other,
 
 and the references to a person's ex-partner are to be construed accordingly.
@@ -76,7 +76,7 @@ and the references to a person's ex-partner are to be construed accordingly.
 - “**cause**” includes contribute to causing (and “**causing**” is to be construed accordingly),
 - “**psychological harm**” includes fear, alarm or distress.
 
-#### 1A. Presumption as to the relationship[^key-f04028e31cdeba496a8f6947e781b52a]
+#### 1A. Presumption as to the relationship[^c-f04028e31cdeba496a8f6947e781b52a]
 
 (1) In proceedings for an offence that is aggravated as described in section 1(1)(a), the matter of a person being another person's partner or ex-partner is to be taken as established—
 
@@ -92,7 +92,7 @@ and the references to a person's ex-partner are to be construed accordingly.
 
 ### Disclosure of an intimate photograph or film
 
-#### 2. Disclosing, or threatening to disclose, an intimate photograph or film[^key-45be3441efe889077cdf06b225489f61]
+#### 2. Disclosing, or threatening to disclose, an intimate photograph or film[^c-45be3441efe889077cdf06b225489f61]
 
 (1) A person (“A”) commits an offence if—
 
@@ -132,7 +132,7 @@ and the references to a person's ex-partner are to be construed accordingly.
 - (a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both),
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine (or both).
 
-#### 3. Interpretation of section 2[^key-9391ebcc69f2f55c481828378692c0c2]
+#### 3. Interpretation of section 2[^c-9391ebcc69f2f55c481828378692c0c2]
 
 (1) For the purposes of section 2, a person is in an “intimate situation” if—
 
@@ -146,13 +146,13 @@ and the references to a person's ex-partner are to be construed accordingly.
 - “**film**” means a moving image in any form, whether or not the image has been altered in any way, that was originally captured by making a recording, on any medium, from which a moving image may be produced, and includes a copy of the image,
 - “**photograph**” means a still image in any form, whether or not the image has been altered in any way, that was originally captured by photography, and includes a copy of the image.
 
-#### 4. Section 2: special provision in relation to providers of information society services[^key-db5d1e7301f907fd683aee2fb0030d64]
+#### 4. Section 2: special provision in relation to providers of information society services[^c-db5d1e7301f907fd683aee2fb0030d64]
 
 Schedule 1 makes special provision in connection with the operation of section 2 in relation to persons providing information society services (as defined in paragraph 4(1) of that schedule).
 
 ### Non-harassment orders
 
-#### 5. Making of non-harassment orders in criminal cases[^key-bc520d61ff6c20901737b196131b5ad5]
+#### 5. Making of non-harassment orders in criminal cases[^c-bc520d61ff6c20901737b196131b5ad5]
 
 (1) Section 234A of the 1995 Act is amended as follows.
 
@@ -206,7 +206,7 @@ Schedule 1 makes special provision in connection with the operation of section 2
 
 ### CHAPTER 1 — Jury directions relating to sexual offences
 
-#### 6. Jury directions relating to sexual offences[^key-a11b615e09bd4316a919f210e9aa15fa]
+#### 6. Jury directions relating to sexual offences[^c-a11b615e09bd4316a919f210e9aa15fa]
 
 In the 1995 Act, after section 288D insert—
 
@@ -279,7 +279,7 @@ In the 1995 Act, after section 288D insert—
 
 ### CHAPTER 2 — Sexual acts outside Scotland
 
-#### 7. Incitement to commit certain sexual acts elsewhere in the United Kingdom[^key-77ce5cd449221f65145515eabc672e30]
+#### 7. Incitement to commit certain sexual acts elsewhere in the United Kingdom[^c-77ce5cd449221f65145515eabc672e30]
 
 (1) Section 54 of the 2009 Act is amended as follows.
 
@@ -313,7 +313,7 @@ In the 1995 Act, after section 288D insert—
 
 (7) The title becomes “ **Incitement to commit certain sexual acts outside Scotland** ”.
 
-#### 8. Commission of certain sexual offences elsewhere in the United Kingdom[^key-b12d53f414be84769833f656ee100d60]
+#### 8. Commission of certain sexual offences elsewhere in the United Kingdom[^c-b12d53f414be84769833f656ee100d60]
 
 After section 54 of the 2009 Act, insert—
 
@@ -404,7 +404,7 @@ After section 54 of the 2009 Act, insert—
 
 .
 
-#### 9. Commission of certain sexual offences outside the United Kingdom[^key-0ad83aa1ec80a3741e4a09d01d940886]
+#### 9. Commission of certain sexual offences outside the United Kingdom[^c-0ad83aa1ec80a3741e4a09d01d940886]
 
 (1) Section 55 of the 2009 Act is amended as follows.
 
@@ -445,7 +445,7 @@ After section 54 of the 2009 Act, insert—
 
 #### Meaning of sexual harm
 
-##### 10. Meaning of sexual harm[^key-62f7ef50e65ee73388c6033636fa6349]
+##### 10. Meaning of sexual harm[^c-62f7ef50e65ee73388c6033636fa6349]
 
 In this Chapter, “sexual harm”, from a person, means physical or psychological harm caused—
 
@@ -454,7 +454,7 @@ In this Chapter, “sexual harm”, from a person, means physical or psychologic
 
 #### Circumstances where sexual harm prevention order may be made
 
-##### 11. Making of order on dealing with person for offence[^key-9b15f8a37ea8f9b3f0b175f2f8dfebb5]
+##### 11. Making of order on dealing with person for offence[^c-9b15f8a37ea8f9b3f0b175f2f8dfebb5]
 
 (1) This section applies where a person is—
 
@@ -483,7 +483,7 @@ In this Chapter, “sexual harm”, from a person, means physical or psychologic
 
 (6) This subsection applies if, not later than rules of court may provide, the person against whom the order would be made gives notice to the court of a wish for a hearing to be held.
 
-##### 12. Making of order against qualifying offender on application to sheriff[^key-47a6523223054074a39c734842d4b04c]
+##### 12. Making of order against qualifying offender on application to sheriff[^c-47a6523223054074a39c734842d4b04c]
 
 (1) On the application of the chief constable, an appropriate sheriff may make a sexual harm prevention order (see section 16(1)) against a person.
 
@@ -513,7 +513,7 @@ In this Chapter, “sexual harm”, from a person, means physical or psychologic
   - (d) a sheriff whose sheriffdom includes any place where it is alleged that the person acted in a way giving reasonable cause to believe that it is necessary for a sexual harm prevention order to be made,
 - “**qualifying offender**” means a person to whom section 13, 14 or 15 applies.
 
-##### 13. Qualifying offender: conviction etc. in Scotland[^key-fa1776d1b44e369880d3446ad5bba858]
+##### 13. Qualifying offender: conviction etc. in Scotland[^c-fa1776d1b44e369880d3446ad5bba858]
 
 (1) This section applies to a person if the person has, whether before or after this Chapter comes into force—
 
@@ -532,7 +532,7 @@ In this Chapter, “sexual harm”, from a person, means physical or psychologic
   - (iii) found by a court, in respect of such an offence, to be under a disability and to have done the act or made the omission charged, and
 - (b) the sheriff who is considering the application for the sexual harm prevention order is satisfied that there was a significant sexual aspect to the person's behaviour in committing the offence.
 
-##### 14. Qualifying offender: conviction etc. elsewhere in United Kingdom[^key-00c1bb74563b555b1302b5faa43951e1]
+##### 14. Qualifying offender: conviction etc. elsewhere in United Kingdom[^c-00c1bb74563b555b1302b5faa43951e1]
 
 This section applies to a person if the person has, whether before or after this Chapter comes into force, in England and Wales or Northern Ireland—
 
@@ -541,7 +541,7 @@ This section applies to a person if the person has, whether before or after this
 - (c) been found by a court, in respect of such an offence, to be under a disability and to have done the act or made the omission charged, or
 - (d) been cautioned in respect of such an offence following an admission of it.
 
-##### 15. Qualifying offender: conviction etc. outside United Kingdom[^key-8b52cfcc8f5b75d41995abb66c3d7fbb]
+##### 15. Qualifying offender: conviction etc. outside United Kingdom[^c-8b52cfcc8f5b75d41995abb66c3d7fbb]
 
 (1) This section applies to a person if, whether before or after this Chapter comes into force, under the law in force in a country outside the United Kingdom—
 
@@ -567,7 +567,7 @@ This section applies to a person if the person has, whether before or after this
 
 #### What order does
 
-##### 16. Content and duration of order[^key-c80d1ec1c58f99bdc786af4ebe87a44a]
+##### 16. Content and duration of order[^c-c80d1ec1c58f99bdc786af4ebe87a44a]
 
 (1) A sexual harm prevention order is an order prohibiting the person against whom it is made from doing, or requiring the person to do, a thing or things described in the order.
 
@@ -588,7 +588,7 @@ This section applies to a person if the person has, whether before or after this
 
 (8) A sexual harm prevention order ceases to have effect, if it has not already done so, when all of the prohibitions or requirements contained in it have ceased to have effect.
 
-##### 17. Prohibitions on foreign travel[^key-ad9607f780e8854ee9f48f4b75b7721b]
+##### 17. Prohibitions on foreign travel[^c-ad9607f780e8854ee9f48f4b75b7721b]
 
 (1) A prohibition on foreign travel contained in a sexual harm prevention order must be for a fixed period of not more than 5 years.
 
@@ -621,7 +621,7 @@ This section applies to a person if the person has, whether before or after this
 
 #### Interaction with notification requirements
 
-##### 18. Application of notification requirements where order made[^key-79ffff95f181e61991375459534213f5]
+##### 18. Application of notification requirements where order made[^c-79ffff95f181e61991375459534213f5]
 
 (1) This section applies to a person against whom a sexual harm prevention order is made.
 
@@ -641,7 +641,7 @@ the person remains subject to the notification requirements while the order has 
 
 (5) In this section, “**relevant offender**” has the meaning given by section 80(2) of the 2003 Act.
 
-##### 19. Cessation of order: relevant sexual offenders[^key-a8f2827d9caa1032c10190898c3ac614]
+##### 19. Cessation of order: relevant sexual offenders[^c-a8f2827d9caa1032c10190898c3ac614]
 
 (1) This section applies where—
 
@@ -654,7 +654,7 @@ the person remains subject to the notification requirements while the order has 
 
 #### Variation, renewal and discharge
 
-##### 20. Variation, renewal and discharge[^key-c00ddeaa89569b9cf33f17ee21384333]
+##### 20. Variation, renewal and discharge[^c-c00ddeaa89569b9cf33f17ee21384333]
 
 (1) On the application of a person mentioned in subsection (2), the appropriate court may make an order varying, renewing or discharging a sexual harm prevention order.
 
@@ -706,7 +706,7 @@ and any renewed or varied order may contain only such prohibitions and requireme
 
 #### Interim orders
 
-##### 21. Interim orders[^key-9a9f076a4a6b655736f4738b53f1bd1c]
+##### 21. Interim orders[^c-9a9f076a4a6b655736f4738b53f1bd1c]
 
 (1) On the application of the chief constable, an appropriate sheriff may make an interim sexual harm prevention order against a person in respect of whom the chief constable is applying for an order under section 12.
 
@@ -746,7 +746,7 @@ and any renewed or varied order may contain only such prohibitions and requireme
 
 #### Appeals
 
-##### 22. Appeals[^key-58fe1921dd8e0a34d04f8ddb4e2c6265]
+##### 22. Appeals[^c-58fe1921dd8e0a34d04f8ddb4e2c6265]
 
 (1) An order made under section 11, and any order granting or refusing a variation, renewal or discharge of such an order may be appealed against as if the order were a sentence.
 
@@ -765,7 +765,7 @@ and any renewed or varied order may contain only such prohibitions and requireme
 
 #### Requirement to serve order
 
-##### 23. Requirement for clerk of court to serve order[^key-ff24dc9fb90a5ef559bad7af0417e7c0]
+##### 23. Requirement for clerk of court to serve order[^c-ff24dc9fb90a5ef559bad7af0417e7c0]
 
 (1) Where a court makes, varies or renews a sexual harm prevention order or an interim sexual harm prevention order, the clerk of the court must serve a copy of the order as made, varied or renewed (as the case may be) on the person against whom the order has effect.
 
@@ -775,7 +775,7 @@ and any renewed or varied order may contain only such prohibitions and requireme
 
 #### Enforcement
 
-##### 24. Offence of breaching order[^key-d7e6853cf6e9324aadfab68c3a527acc]
+##### 24. Offence of breaching order[^c-d7e6853cf6e9324aadfab68c3a527acc]
 
 (1) A person commits an offence if, without reasonable excuse, the person—
 
@@ -805,7 +805,7 @@ as if the offence had been committed in that district (and the offence is, for a
 
 #### Interpretation
 
-##### 25. Interpretation of Chapter[^key-1355f16b4e42248fddfd4b1d25ea5803]
+##### 25. Interpretation of Chapter[^c-1355f16b4e42248fddfd4b1d25ea5803]
 
 (1) In this Chapter—
 
@@ -830,13 +830,13 @@ is to be disregarded.
 
 #### Meaning of harm
 
-##### 26. Meaning of harm[^key-bb74c2074f1948c8edf606454e77fa1a]
+##### 26. Meaning of harm[^c-bb74c2074f1948c8edf606454e77fa1a]
 
 In this Chapter, “harm”, from a person, means physical or psychological harm caused by the person doing an act of a sexual nature.
 
 #### Making of order
 
-##### 27. Making of order[^key-6d2ca7db123e58ca5e55568afa80fb52]
+##### 27. Making of order[^c-6d2ca7db123e58ca5e55568afa80fb52]
 
 (1) On the application of the chief constable, an appropriate sheriff may make a sexual risk order (see section 28(1)) against a person (“**the respondent**”).
 
@@ -863,7 +863,7 @@ In this Chapter, “harm”, from a person, means physical or psychological harm
 
 #### What order does
 
-##### 28. Content and duration of order[^key-e27cdefaa925aa611a60adfc51339ebe]
+##### 28. Content and duration of order[^c-e27cdefaa925aa611a60adfc51339ebe]
 
 (1) A sexual risk order is an order prohibiting the person against whom it is made from doing, or requiring the person to do, a thing or things described in the order.
 
@@ -882,7 +882,7 @@ In this Chapter, “harm”, from a person, means physical or psychological harm
 
 (7) A sexual risk order ceases to have effect, if it has not already done so, when all of the prohibitions or requirements in it have ceased to have effect.
 
-##### 29. Prohibitions on foreign travel[^key-6866111bd82f17a40efe2c04d8dd2486]
+##### 29. Prohibitions on foreign travel[^c-6866111bd82f17a40efe2c04d8dd2486]
 
 (1) A prohibition on foreign travel contained in a sexual risk order must not be for a period of more than 5 years.
 
@@ -915,7 +915,7 @@ In this Chapter, “harm”, from a person, means physical or psychological harm
 
 #### Variation, renewal and discharge
 
-##### 30. Variation, renewal and discharge[^key-9881bede9ed0b9f7f55eb64cf74a98e6]
+##### 30. Variation, renewal and discharge[^c-9881bede9ed0b9f7f55eb64cf74a98e6]
 
 (1) On the application of a person mentioned in subsection (2), an appropriate sheriff may make an order varying, renewing or discharging a sexual risk order.
 
@@ -956,7 +956,7 @@ and any renewed or varied order may contain only such prohibitions and requireme
 
 #### Interim orders
 
-##### 31. Interim orders[^key-c43adb043ea98114f6b994cfa53f77fb]
+##### 31. Interim orders[^c-c43adb043ea98114f6b994cfa53f77fb]
 
 (1) On the application of the chief constable, an appropriate sheriff may make an interim sexual risk order against a person in respect of whom the chief constable is applying for an order under section 27.
 
@@ -997,7 +997,7 @@ and any renewed or varied order may contain only such prohibitions and requireme
 
 #### Appeals
 
-##### 32. Appeals[^key-6586f1e285b79ce2247de1d1ccb9c932]
+##### 32. Appeals[^c-6586f1e285b79ce2247de1d1ccb9c932]
 
 (1) A decision of a sheriff mentioned in subsection (2) may be appealed against as if it were a decision constituting final judgment in civil proceedings within the meaning of the 2014 Act.
 
@@ -1010,7 +1010,7 @@ and any renewed or varied order may contain only such prohibitions and requireme
 
 #### Requirement to serve order
 
-##### 33. Requirement for clerk of court to serve order[^key-c36da4270e51cd1efcf12ea624e2642f]
+##### 33. Requirement for clerk of court to serve order[^c-c36da4270e51cd1efcf12ea624e2642f]
 
 (1) Where a court makes, varies or renews a sexual risk order or an interim sexual risk order, the clerk of the court must serve a copy of the order as made, varied or renewed (as the case may be) on the person against whom the order has effect.
 
@@ -1020,7 +1020,7 @@ and any renewed or varied order may contain only such prohibitions and requireme
 
 #### Enforcement
 
-##### 34. Offence of breaching order[^key-d6b42436c5b67c8e38c3bae5089a3f95]
+##### 34. Offence of breaching order[^c-d6b42436c5b67c8e38c3bae5089a3f95]
 
 (1) A person commits an offence if, without reasonable excuse, the person—
 
@@ -1048,7 +1048,7 @@ by a sexual risk order or an interim sexual risk order.
 
 as if the offence had been committed in that district (and the offence is, for all purposes incidental to or consequential on the trial or punishment, to be deemed to have been committed in that district).
 
-##### 35. Application of notification requirements on breach of order[^key-7f16b1ad2c6b23a9745589cd5928c128]
+##### 35. Application of notification requirements on breach of order[^c-7f16b1ad2c6b23a9745589cd5928c128]
 
 (1) This section applies to a person who—
 
@@ -1081,7 +1081,7 @@ the person remains subject to those notification requirements while the relevant
 
 #### Interpretation
 
-##### 36. Interpretation of Chapter[^key-a3e44bb744e5c56f8d1dfcbb0883683f]
+##### 36. Interpretation of Chapter[^c-a3e44bb744e5c56f8d1dfcbb0883683f]
 
 In this Chapter––
 
@@ -1095,29 +1095,29 @@ In this Chapter––
 
 ### CHAPTER 5 — Equivalent orders elsewhere in United Kingdom
 
-#### 37. Breach of orders equivalent to orders in Chapters 3 and 4: offence[^key-f188be0dd11d7c8dec565da146888f86]
+#### 37. Breach of orders equivalent to orders in Chapters 3 and 4: offence[^c-f188be0dd11d7c8dec565da146888f86]
 
 (1) A person commits an offence if, without reasonable excuse, the person does something which the person is prohibited from doing by an equivalent order from elsewhere in the United Kingdom.
 
-(1A)[^key-c3f635f543900a2b16c0c2b5bd864f69] A person commits an offence if, without reasonable excuse, the person fails to do something which the person is required to do by an equivalent order from elsewhere in the United Kingdom.
+(1A)[^c-c3f635f543900a2b16c0c2b5bd864f69] A person commits an offence if, without reasonable excuse, the person fails to do something which the person is required to do by an equivalent order from elsewhere in the United Kingdom.
 
-(2) A person who commits an offence under subsection (1) or (1A)[^key-8e60e5daef73e97d2dbadcb29ac45692] is liable—
+(2) A person who commits an offence under subsection (1) or (1A)[^c-8e60e5daef73e97d2dbadcb29ac45692] is liable—
 
 - (a) on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both),
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or a fine (or both).
 
-(3) Where a person is convicted of an offence under subsection (1) or (1A)[^key-a777ebc422e9626d88501124c6a57b67], it is not open to the court by or before which the person is convicted—
+(3) Where a person is convicted of an offence under subsection (1) or (1A)[^c-a777ebc422e9626d88501124c6a57b67], it is not open to the court by or before which the person is convicted—
 
 - (a) to make a community payback order in respect of the offence, or
 - (b) to dispose of the matter by—
   - (i) dismissing the person with an admonition, or
   - (ii) discharging the person absolutely.
 
-(4) For the purposes of this section, prohibitions or requirements[^key-702ff9d5f5689b5ec1a4428adead1c23] imposed by an equivalent order from elsewhere in the United Kingdom apply, unless expressly confined to particular localities, to every part of the United Kingdom.
+(4) For the purposes of this section, prohibitions or requirements[^c-702ff9d5f5689b5ec1a4428adead1c23] imposed by an equivalent order from elsewhere in the United Kingdom apply, unless expressly confined to particular localities, to every part of the United Kingdom.
 
 (5) In this section, “**equivalent order from elsewhere in the United Kingdom**” means—
 
-- (a) a sexual harm prevention order made under section 103A of the 2003 Act or Chapter 2 of Part 11 of the Sentencing Code[^key-022e87ae7be3ecf7783790df4dabc112],
+- (a) a sexual harm prevention order made under section 103A of the 2003 Act or Chapter 2 of Part 11 of the Sentencing Code[^c-022e87ae7be3ecf7783790df4dabc112],
 - (b) an interim sexual harm prevention order made under section 103F of the 2003 Act,
 - (c) a sexual risk order made under section 122A of the 2003 Act,
 - (d) an interim sexual risk order made under section 122E of the 2003 Act,
@@ -1129,7 +1129,7 @@ In this Chapter––
 - (j) a restraining order made under section 5A of the Sex Offenders Act 1997,
 - (k) a sex offender order made under section 2 of the Crime and Disorder Act 1998.
 
-#### 38. Breach of certain equivalent orders: application of notification requirements[^key-758b64bd1c214bffa2e3deee86bc39fd]
+#### 38. Breach of certain equivalent orders: application of notification requirements[^c-758b64bd1c214bffa2e3deee86bc39fd]
 
 (1) This section applies to a person who—
 
@@ -1167,7 +1167,7 @@ the person remains subject to those notification requirements while the relevant
 
 ### CHAPTER 6 — Previous orders
 
-#### 39. Repeals of provisions as to previous orders[^key-79fb6fce104a85708140f9ad819c4a91]
+#### 39. Repeals of provisions as to previous orders[^c-79fb6fce104a85708140f9ad819c4a91]
 
 (1) The following provisions of the 2003 Act (which make provision as to sexual offences prevention orders and foreign travel orders) are repealed—
 
@@ -1179,7 +1179,7 @@ the person remains subject to those notification requirements while the relevant
 
 (2) Sections 2 to 8 of the 2005 Act (which make provision as to risk of sexual harm orders) are repealed.
 
-#### 40. Saving and transitional provision[^key-2e9deb338c332790df7d64a674f3cdd8]
+#### 40. Saving and transitional provision[^c-2e9deb338c332790df7d64a674f3cdd8]
 
 (1) In this section—
 
@@ -1223,7 +1223,7 @@ the person remains subject to those notification requirements while the relevant
 
 ## PART 3 — General
 
-### 41. Interpretation[^key-1727f2109baae5842c19174a5f9b6f31]
+### 41. Interpretation[^c-1727f2109baae5842c19174a5f9b6f31]
 
 In this Act—
 
@@ -1247,7 +1247,7 @@ In this Act—
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of this or any other Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 43. Minor and consequential modifications[^key-3222a78907bdc111dcdf2fb00b2caf78][^key-6a8e82902ba399aee52b53c29eb94ffd]
+### 43. Minor and consequential modifications[^c-3222a78907bdc111dcdf2fb00b2caf78][^c-6a8e82902ba399aee52b53c29eb94ffd]
 
 Schedule 2 makes minor and consequential modifications of other enactments.
 
@@ -1280,7 +1280,7 @@ The short title of this Act is the Abusive Behaviour and Sexual Harm (Scotland) 
 
 ### Exceptions for mere conduits
 
-**1.**[^key-9c698384e65964694e665da6f1076cba] (1) A service provider is not capable of being guilty of an offence under section 2 in respect of anything done in the course of providing so much of an information society service as consists in—
+**1.**[^c-9c698384e65964694e665da6f1076cba] (1) A service provider is not capable of being guilty of an offence under section 2 in respect of anything done in the course of providing so much of an information society service as consists in—
 
 - (a) the provision of access to a communication network, or
 - (b) the transmission in a communication network of information provided by a recipient of the service,
@@ -1304,7 +1304,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Exception for caching
 
-**2.**[^key-603d3a2dfe6469bd614909ce364d8c23] (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
+**2.**[^c-603d3a2dfe6469bd614909ce364d8c23] (1) This paragraph applies where an information society service consists in the transmission in a communication network of information provided by a recipient of the service.
 
 (2) The service provider is not capable of being guilty of an offence under section 2 in respect of the automatic, intermediate and temporary storage of information so provided, if—
 
@@ -1325,7 +1325,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Exception for hosting
 
-**3.**[^key-3c2afd119914a8e809686549e308ee1c] (1) A service provider is not capable of being guilty of an offence under section 2 in respect of anything done in the course of providing so much of an information society service as consists of the storage of information provided by a recipient of the service, if sub-paragraph (2) or (3) is satisfied.
+**3.**[^c-3c2afd119914a8e809686549e308ee1c] (1) A service provider is not capable of being guilty of an offence under section 2 in respect of anything done in the course of providing so much of an information society service as consists of the storage of information provided by a recipient of the service, if sub-paragraph (2) or (3) is satisfied.
 
 (2) This sub-paragraph is satisfied if the service provider had no actual knowledge when the information was provided that the provision of the information amounted to an offence under section 2.
 
@@ -1335,7 +1335,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Interpretation
 
-**4.**[^key-181f2ea11f11417d00b308a1c497bece] (1) In this schedule—
+**4.**[^c-181f2ea11f11417d00b308a1c497bece] (1) In this schedule—
 
 - “information society services”—
   - (a) has the meaning given in Article 2(a) of the E-Commerce Directive (which refers to Article 1(2) of Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034) of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations), and
@@ -1351,7 +1351,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Criminal Procedure (Scotland) Act 1995
 
-**1.**[^key-ee185398b667af0c2a24ed803b1bee86] (1) The 1995 Act is amended as follows.
+**1.**[^c-ee185398b667af0c2a24ed803b1bee86] (1) The 1995 Act is amended as follows.
 
 (2) In section 19AA(1)—
 
@@ -1375,7 +1375,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Police Act 1997
 
-**2.**[^key-afb42b77ba499d0a533800028fe7836e] (1) The Police Act 1997 is amended as follows.
+**2.**[^c-afb42b77ba499d0a533800028fe7836e] (1) The Police Act 1997 is amended as follows.
 
 (2) In section 113CA(2)—
 
@@ -1443,7 +1443,7 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Sexual Offences Act 2003
 
-**3.**[^key-29199462b554ab2aeae02cc11aeb2e22] (1) The 2003 Act is amended as follows.
+**3.**[^c-29199462b554ab2aeae02cc11aeb2e22] (1) The 2003 Act is amended as follows.
 
 (2) In section 88—
 
@@ -1461,11 +1461,11 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005
 
-**4.**[^key-10f92e812d35864aecbd466b41ed8710] Subsections (1) to (5) of section 17 of the 2005 Act are repealed.
+**4.**[^c-10f92e812d35864aecbd466b41ed8710] Subsections (1) to (5) of section 17 of the 2005 Act are repealed.
 
 ### Protection of Vulnerable Groups (Scotland) Act 2007
 
-**5.**[^key-4208d8f7a2bb024be6b5639a89abb693] Paragraph 1 of schedule 1 of the Protection of Vulnerable Groups (Scotland) Act 2007 is amended as follows—
+**5.**[^c-4208d8f7a2bb024be6b5639a89abb693] Paragraph 1 of schedule 1 of the Protection of Vulnerable Groups (Scotland) Act 2007 is amended as follows—
 
 - (a) paragraph (r) is repealed,
 - (b) after paragraph (zr), insert—
@@ -1481,11 +1481,11 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Sexual Offences (Scotland) Act 2009
 
-**6.**[^key-c4c50236bf87e02e9ba5c9a6134ebc2b] In section 54(8) of the 2009 Act, in the definition of “UK national”, for “relevant conduct” substitute “ act mentioned in subsection (1) ”.
+**6.**[^c-c4c50236bf87e02e9ba5c9a6134ebc2b] In section 54(8) of the 2009 Act, in the definition of “UK national”, for “relevant conduct” substitute “ act mentioned in subsection (1) ”.
 
 ### Criminal Justice and Licensing (Scotland) Act 2010
 
-**7.**[^key-3db17eafc69adb98093d41973532bd99] The following provisions of the Criminal Justice and Licensing (Scotland) Act 2010 are repealed—
+**7.**[^c-3db17eafc69adb98093d41973532bd99] The following provisions of the Criminal Justice and Licensing (Scotland) Act 2010 are repealed—
 
 - (a) section 103,
 - (b) section 104,
@@ -1493,142 +1493,142 @@ includes the automatic, intermediate and transient storage of the information tr
 
 ### Police and Fire Reform (Scotland) Act 2012
 
-**8.**[^key-c934cdf79bcd40842a9baba166d8c937] Paragraph 26 of schedule 7 of the Police and Fire Reform (Scotland) Act 2012 is repealed.
+**8.**[^c-c934cdf79bcd40842a9baba166d8c937] Paragraph 26 of schedule 7 of the Police and Fire Reform (Scotland) Act 2012 is repealed.
 
 ### Sexual Offences Act 2003 (Remedial) (Scotland) Order 2011 (S.S.I. 2011/45)
 
-**9.**[^key-009ef4353519d7586df6c71b261aaf4a] Article 4(1) of the Sexual Offences Act 2003 (Remedial) (Scotland) Order 2011 (S.S.I. 2011/45) is repealed.
+**9.**[^c-009ef4353519d7586df6c71b261aaf4a] Article 4(1) of the Sexual Offences Act 2003 (Remedial) (Scotland) Order 2011 (S.S.I. 2011/45) is repealed.
 
 ### Anti-social Behaviour, Crime and Policing Act 2014
 
-**10.**[^key-47f119af624841cb251ed4a786422bd3] Paragraphs 78 and 79 of schedule 11 of the Anti-social Behaviour, Crime and Policing Act 2014 are repealed.
+**10.**[^c-47f119af624841cb251ed4a786422bd3] Paragraphs 78 and 79 of schedule 11 of the Anti-social Behaviour, Crime and Policing Act 2014 are repealed.
 
 ## Annotations
 
-[^key-8082e47c265d92c6a2611e11978993c4]: Commencement: S. 1 in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/93/regulation/3))
+[^c-8082e47c265d92c6a2611e11978993c4]: Commencement: S. 1 in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/93/regulation/3))
 
-[^key-1e9ef023476f969f2d9b729c1e806cda]: Textual amendment: Words in s. 1(6)(b) repealed (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 11(2)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/11/2); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-1e9ef023476f969f2d9b729c1e806cda]: Textual amendment: Words in s. 1(6)(b) repealed (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 11(2)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/11/2); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-f04028e31cdeba496a8f6947e781b52a]: Textual amendment: S. 1A inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 11(3)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/11/3); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-f04028e31cdeba496a8f6947e781b52a]: Textual amendment: S. 1A inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 11(3)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/11/3); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-45be3441efe889077cdf06b225489f61]: Commencement: S. 2 in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/a)
+[^c-45be3441efe889077cdf06b225489f61]: Commencement: S. 2 in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/a)
 
-[^key-9391ebcc69f2f55c481828378692c0c2]: Commencement: S. 3 in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/b)
+[^c-9391ebcc69f2f55c481828378692c0c2]: Commencement: S. 3 in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/b)
 
-[^key-db5d1e7301f907fd683aee2fb0030d64]: Commencement: S. 4 in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
+[^c-db5d1e7301f907fd683aee2fb0030d64]: Commencement: S. 4 in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
 
-[^key-bc520d61ff6c20901737b196131b5ad5]: Commencement: S. 5 in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/93/regulation/4))
+[^c-bc520d61ff6c20901737b196131b5ad5]: Commencement: S. 5 in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/93/regulation/4))
 
-[^key-a11b615e09bd4316a919f210e9aa15fa]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/22/section/6) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/93/regulation/5))
+[^c-a11b615e09bd4316a919f210e9aa15fa]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/22/section/6) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/93/regulation/5))
 
-[^key-77ce5cd449221f65145515eabc672e30]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/22/section/7) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
+[^c-77ce5cd449221f65145515eabc672e30]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/22/section/7) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
 
-[^key-b12d53f414be84769833f656ee100d60]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/22/section/8) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
+[^c-b12d53f414be84769833f656ee100d60]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/22/section/8) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
 
-[^key-0ad83aa1ec80a3741e4a09d01d940886]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/22/section/9) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
+[^c-0ad83aa1ec80a3741e4a09d01d940886]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/22/section/9) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
 
-[^key-62f7ef50e65ee73388c6033636fa6349]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/22/section/10) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-62f7ef50e65ee73388c6033636fa6349]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/22/section/10) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-9b15f8a37ea8f9b3f0b175f2f8dfebb5]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/22/section/11) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-9b15f8a37ea8f9b3f0b175f2f8dfebb5]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/22/section/11) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-47a6523223054074a39c734842d4b04c]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/22/section/12) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-47a6523223054074a39c734842d4b04c]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/22/section/12) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-fa1776d1b44e369880d3446ad5bba858]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/22/section/13) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-fa1776d1b44e369880d3446ad5bba858]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/22/section/13) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-00c1bb74563b555b1302b5faa43951e1]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/22/section/14) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-00c1bb74563b555b1302b5faa43951e1]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/22/section/14) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-8b52cfcc8f5b75d41995abb66c3d7fbb]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/22/section/15) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-8b52cfcc8f5b75d41995abb66c3d7fbb]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/22/section/15) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-c80d1ec1c58f99bdc786af4ebe87a44a]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/22/section/16) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-c80d1ec1c58f99bdc786af4ebe87a44a]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/22/section/16) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-ad9607f780e8854ee9f48f4b75b7721b]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/22/section/17) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-ad9607f780e8854ee9f48f4b75b7721b]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/22/section/17) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-79ffff95f181e61991375459534213f5]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/22/section/18) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-79ffff95f181e61991375459534213f5]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/22/section/18) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-a8f2827d9caa1032c10190898c3ac614]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/22/section/19) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-a8f2827d9caa1032c10190898c3ac614]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/22/section/19) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-c00ddeaa89569b9cf33f17ee21384333]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/22/section/20) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-c00ddeaa89569b9cf33f17ee21384333]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/22/section/20) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-9a9f076a4a6b655736f4738b53f1bd1c]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/22/section/21) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-9a9f076a4a6b655736f4738b53f1bd1c]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/22/section/21) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-58fe1921dd8e0a34d04f8ddb4e2c6265]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/22/section/22) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-58fe1921dd8e0a34d04f8ddb4e2c6265]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/22/section/22) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-ff24dc9fb90a5ef559bad7af0417e7c0]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/22/section/23) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-ff24dc9fb90a5ef559bad7af0417e7c0]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/22/section/23) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-d7e6853cf6e9324aadfab68c3a527acc]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/22/section/24) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-d7e6853cf6e9324aadfab68c3a527acc]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/22/section/24) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-1355f16b4e42248fddfd4b1d25ea5803]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/22/section/25) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-1355f16b4e42248fddfd4b1d25ea5803]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/22/section/25) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-bb74c2074f1948c8edf606454e77fa1a]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/22/section/26) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-bb74c2074f1948c8edf606454e77fa1a]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/22/section/26) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-6d2ca7db123e58ca5e55568afa80fb52]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/22/section/27) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-6d2ca7db123e58ca5e55568afa80fb52]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/22/section/27) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-e27cdefaa925aa611a60adfc51339ebe]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/22/section/28) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-e27cdefaa925aa611a60adfc51339ebe]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/22/section/28) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-6866111bd82f17a40efe2c04d8dd2486]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/22/section/29) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-6866111bd82f17a40efe2c04d8dd2486]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/22/section/29) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-9881bede9ed0b9f7f55eb64cf74a98e6]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/22/section/30) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-9881bede9ed0b9f7f55eb64cf74a98e6]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/22/section/30) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-c43adb043ea98114f6b994cfa53f77fb]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2016/22/section/31) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-c43adb043ea98114f6b994cfa53f77fb]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2016/22/section/31) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-6586f1e285b79ce2247de1d1ccb9c932]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/22/section/32) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-6586f1e285b79ce2247de1d1ccb9c932]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/22/section/32) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-c36da4270e51cd1efcf12ea624e2642f]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/22/section/33) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-c36da4270e51cd1efcf12ea624e2642f]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/22/section/33) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-d6b42436c5b67c8e38c3bae5089a3f95]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2016/22/section/34) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-d6b42436c5b67c8e38c3bae5089a3f95]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2016/22/section/34) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-7f16b1ad2c6b23a9745589cd5928c128]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2016/22/section/35) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-7f16b1ad2c6b23a9745589cd5928c128]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2016/22/section/35) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-a3e44bb744e5c56f8d1dfcbb0883683f]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2016/22/section/36) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-a3e44bb744e5c56f8d1dfcbb0883683f]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2016/22/section/36) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-f188be0dd11d7c8dec565da146888f86]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/22/section/37) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-f188be0dd11d7c8dec565da146888f86]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/22/section/37) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-c3f635f543900a2b16c0c2b5bd864f69]: Textual amendment: [S. 37(1A)](https://www.legislation.gov.uk/asp/2016/22/section/37/1A) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 177(7)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/177/7/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/b)
+[^c-c3f635f543900a2b16c0c2b5bd864f69]: Textual amendment: [S. 37(1A)](https://www.legislation.gov.uk/asp/2016/22/section/37/1A) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 177(7)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/177/7/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/b)
 
-[^key-8e60e5daef73e97d2dbadcb29ac45692]: Textual amendment: Words in [s. 37(2)](https://www.legislation.gov.uk/asp/2016/22/section/37/2) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 177(7)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/177/7/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/b)
+[^c-8e60e5daef73e97d2dbadcb29ac45692]: Textual amendment: Words in [s. 37(2)](https://www.legislation.gov.uk/asp/2016/22/section/37/2) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 177(7)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/177/7/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/b)
 
-[^key-a777ebc422e9626d88501124c6a57b67]: Textual amendment: Words in [s. 37(3)](https://www.legislation.gov.uk/asp/2016/22/section/37/3) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 177(7)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/177/7/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/b)
+[^c-a777ebc422e9626d88501124c6a57b67]: Textual amendment: Words in [s. 37(3)](https://www.legislation.gov.uk/asp/2016/22/section/37/3) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 177(7)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/177/7/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/b)
 
-[^key-702ff9d5f5689b5ec1a4428adead1c23]: Textual amendment: Words in [s. 37(4)](https://www.legislation.gov.uk/asp/2016/22/section/37/4) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 177(7)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/177/7/c), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/b)
+[^c-702ff9d5f5689b5ec1a4428adead1c23]: Textual amendment: Words in [s. 37(4)](https://www.legislation.gov.uk/asp/2016/22/section/37/4) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 177(7)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/177/7/c), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/b)
 
-[^key-022e87ae7be3ecf7783790df4dabc112]: Textual amendment: Words in s. 37(5)(a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 311](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/311) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-022e87ae7be3ecf7783790df4dabc112]: Textual amendment: Words in s. 37(5)(a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 311](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/311) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-758b64bd1c214bffa2e3deee86bc39fd]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/22/section/38) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-758b64bd1c214bffa2e3deee86bc39fd]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/22/section/38) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-79fb6fce104a85708140f9ad819c4a91]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/22/section/39) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-79fb6fce104a85708140f9ad819c4a91]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/22/section/39) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-2e9deb338c332790df7d64a674f3cdd8]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2016/22/section/40) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-2e9deb338c332790df7d64a674f3cdd8]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2016/22/section/40) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-1727f2109baae5842c19174a5f9b6f31]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2016/22/section/41) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
+[^c-1727f2109baae5842c19174a5f9b6f31]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2016/22/section/41) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
 
-[^key-3222a78907bdc111dcdf2fb00b2caf78]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2016/22/section/43) in force at 24.4.2017 for specified purposes by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
+[^c-3222a78907bdc111dcdf2fb00b2caf78]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2016/22/section/43) in force at 24.4.2017 for specified purposes by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
 
-[^key-6a8e82902ba399aee52b53c29eb94ffd]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2016/22/section/43) in force at 31.3.2023 in so far as not already in force by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-6a8e82902ba399aee52b53c29eb94ffd]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2016/22/section/43) in force at 31.3.2023 in so far as not already in force by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-9c698384e65964694e665da6f1076cba]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/22/schedule/1/paragraph/1) in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
+[^c-9c698384e65964694e665da6f1076cba]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/22/schedule/1/paragraph/1) in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
 
-[^key-603d3a2dfe6469bd614909ce364d8c23]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/22/schedule/1/paragraph/2) in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
+[^c-603d3a2dfe6469bd614909ce364d8c23]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/22/schedule/1/paragraph/2) in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
 
-[^key-3c2afd119914a8e809686549e308ee1c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/22/schedule/1/paragraph/3) in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
+[^c-3c2afd119914a8e809686549e308ee1c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/22/schedule/1/paragraph/3) in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
 
-[^key-181f2ea11f11417d00b308a1c497bece]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/22/schedule/1/paragraph/4) in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
+[^c-181f2ea11f11417d00b308a1c497bece]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/22/schedule/1/paragraph/4) in force at 3.7.2017 by [S.S.I. 2017/183](https://www.legislation.gov.uk/ssi/2017/183), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/183/regulation/2/c)
 
-[^key-ee185398b667af0c2a24ed803b1bee86]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/1) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(1)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/1))
+[^c-ee185398b667af0c2a24ed803b1bee86]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/1) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(1)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/1))
 
-[^key-afb42b77ba499d0a533800028fe7836e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/2) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(2)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/2))
+[^c-afb42b77ba499d0a533800028fe7836e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/2) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(2)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/2))
 
-[^key-29199462b554ab2aeae02cc11aeb2e22]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/3) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-29199462b554ab2aeae02cc11aeb2e22]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/3) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-10f92e812d35864aecbd466b41ed8710]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/4) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(3)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/3))
+[^c-10f92e812d35864aecbd466b41ed8710]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/4) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(3)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/3))
 
-[^key-4208d8f7a2bb024be6b5639a89abb693]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/5) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(4)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/4))
+[^c-4208d8f7a2bb024be6b5639a89abb693]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/5) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(4)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/4))
 
-[^key-c4c50236bf87e02e9ba5c9a6134ebc2b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/6) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
+[^c-c4c50236bf87e02e9ba5c9a6134ebc2b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/6) in force at 24.4.2017 by [S.S.I. 2017/93](https://www.legislation.gov.uk/ssi/2017/93), [reg. 2](https://www.legislation.gov.uk/ssi/2017/93/regulation/2)
 
-[^key-3db17eafc69adb98093d41973532bd99]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/7) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(5)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/5))
+[^c-3db17eafc69adb98093d41973532bd99]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/7) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(5)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/5))
 
-[^key-c934cdf79bcd40842a9baba166d8c937]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/8) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(6)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/6))
+[^c-c934cdf79bcd40842a9baba166d8c937]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/8) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(6)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/6))
 
-[^key-009ef4353519d7586df6c71b261aaf4a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/9) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(7)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/7))
+[^c-009ef4353519d7586df6c71b261aaf4a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/9) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3), [4(7)](https://www.legislation.gov.uk/ssi/2023/51/regulation/4/7))
 
-[^key-47f119af624841cb251ed4a786422bd3]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/10) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-47f119af624841cb251ed4a786422bd3]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2016/22/schedule/2/paragraph/10) in force at 31.3.2023 by [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))

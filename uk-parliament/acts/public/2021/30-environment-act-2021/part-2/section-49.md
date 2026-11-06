@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. The Office for Environmental Protection: Northern Ireland[^key-01e40917f68ada3da55d08c14fb86345][^key-cc6c2776d22a7b3f9eb0bacfc6a41e00]
+## 49. The Office for Environmental Protection: Northern Ireland[^c-01e40917f68ada3da55d08c14fb86345][^c-cc6c2776d22a7b3f9eb0bacfc6a41e00]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Schedule 3—
 
 ## Annotations
 
-[^key-01e40917f68ada3da55d08c14fb86345]: Commencement: S. 49 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-01e40917f68ada3da55d08c14fb86345]: Commencement: S. 49 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-cc6c2776d22a7b3f9eb0bacfc6a41e00]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2021/30/section/49) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-cc6c2776d22a7b3f9eb0bacfc6a41e00]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2021/30/section/49) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)

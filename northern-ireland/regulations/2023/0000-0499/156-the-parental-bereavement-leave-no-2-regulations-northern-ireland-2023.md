@@ -48,15 +48,15 @@ The Department for the Economy makes the following Regulations in exercise of th
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-3bd952c7e30ab52fe581b330d730ce14]
+### 1. Citation and commencement[^c-3bd952c7e30ab52fe581b330d730ce14]
 
 These Regulations may be cited as the Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2023 and shall come into operation on 29th September 2023.
 
-### 2. Application[^key-b0aa12adb83fd62c57e2fe9823f98187]
+### 2. Application[^c-b0aa12adb83fd62c57e2fe9823f98187]
 
-These Regulations apply in respect of children who die on or after 6th April 2022 and to cases where a woman experiences a miscarriage and becomes aware of it on or after 6th April 2026[^key-7721761377425dc2ef5e066bd1f52507].
+These Regulations apply in respect of children who die on or after 6th April 2022 and to cases where a woman experiences a miscarriage and becomes aware of it on or after 6th April 2026[^c-7721761377425dc2ef5e066bd1f52507].
 
-### 3. Interpretation[^key-78aa7b624d3314b6557f0be3a181dd22]
+### 3. Interpretation[^c-78aa7b624d3314b6557f0be3a181dd22]
 
 (1) In these Regulations—
 
@@ -66,11 +66,11 @@ These Regulations apply in respect of children who die on or after 6th April 202
 - “**approved prospective adopter**” means a person considered by the authority by virtue of the Adoption Agencies Regulations (Northern Ireland) 1989[^f00007] to be a person suitable to adopt a child;
 - “**authority**” has the same meaning as in the Children (Northern Ireland) Order 1995[^f00008];
 - “**C**” means the child in relation to whom an entitlement to parental bereavement leave arises;
-- “[^key-fc4252a11553f5690ab1e007aa4ead0e]**the first day of bereavement**” means—
+- “[^c-fc4252a11553f5690ab1e007aa4ead0e]**the first day of bereavement**” means—
   - (a) the date of C’s death, or
   - (b) the date that S experienced the miscarriage or became aware that she had experienced a miscarriage.
 - “**intended parent**” means a person who—
-  - (aa) but for the occurrence of a miscarriage, would have intended to meet the requirements of sub-paragraphs (a) and (b);[^key-8c0e51601c5782db078714de5fa8a70d]
+  - (aa) but for the occurrence of a miscarriage, would have intended to meet the requirements of sub-paragraphs (a) and (b);[^c-8c0e51601c5782db078714de5fa8a70d]
   - (a) has applied, or intended to apply during the period of 6 months beginning with the day of C’s birth—
     - (i) with another person for an order under section 54 (parental orders: two applicants) of the Human Fertilisation and Embryology Act 2008[^f00009] in respect of C; or
     - (ii) as the sole applicant for an order under section 54A(parental orders: one applicant) of that Act[^f00010] in respect of C; and
@@ -91,14 +91,14 @@ These Regulations apply in respect of children who die on or after 6th April 202
 - “**relevant domestic authority**” means—
   - (a) in the case of an adopter to whom the Intercountry Adoption (Hague Convention) Regulations (Northern Ireland) 2003 apply, the Department of Health[^f00019]; and
   - (b) in any other case, the Central Authority designated in accordance with Article 6 of the Convention on Protection of Children and Co-operation in respect of Intercountry Adoption, concluded at the Hague on 29th May 1993;
-- “[^key-2fd6a93cb255471ee9fb9c4e77952a35]**S**” means a woman who has experienced a miscarriage;
+- “[^c-2fd6a93cb255471ee9fb9c4e77952a35]**S**” means a woman who has experienced a miscarriage;
 - “**statutory leave**” means leave provided for in Part 9 of the 1996 Order.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00020] applies to these Regulations as it applies to an Act of the Assembly (but see regulations 16 to 21); and the Interpretation Act 1978[^f00021] shall not apply.
 
 ## PART 2 — ENTITLEMENT TO PARENTAL BEREAVEMENT LEAVE
 
-### 4. Entitlement to parental bereavement leave[^key-c2288d7c27cc078ecf3e83cbb2825949]
+### 4. Entitlement to parental bereavement leave[^c-c2288d7c27cc078ecf3e83cbb2825949]
 
 (1) An employee is entitled to be absent from work to take parental bereavement leave if he or she—
 
@@ -161,7 +161,7 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
 (10) Where an employee is eligible to take parental bereavement leave under this regulation as a result of the death of more than one child, the employee is entitled to parental bereavement leave in respect of each child.
 
-### 4A. Application of entitlement to parental bereavement leave for cases of miscarriage[^key-a6eb60c16a416c2e3d193d815574d24a]
+### 4A. Application of entitlement to parental bereavement leave for cases of miscarriage[^c-a6eb60c16a416c2e3d193d815574d24a]
 
 (1) Chapter 4 of the 1996 Order (Parental Bereavement Leave) and regulations under it, including these regulations, apply to a woman who has experienced a miscarriage as they apply in relation to a bereaved parent as set out in that Chapter with such modifications as are specified in these regulations.
 
@@ -185,7 +185,7 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
   but do not include any other adoptive relationships.
 
-### 5. Options in respect of parental bereavement leave[^key-512fa5c09e06b20c7128cfedfcc1c1ea]
+### 5. Options in respect of parental bereavement leave[^c-512fa5c09e06b20c7128cfedfcc1c1ea]
 
 (1) The minimum period of parental bereavement leave which may be taken by an employee is one week.
 
@@ -193,15 +193,15 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
 (3) Where an employee chooses to take two weeks’ parental bereavement leave, the weeks need not be consecutive.
 
-(4) Parental bereavement leave may be taken at any time within the period of 56 weeks beginning with the first day of bereavement[^key-06d893fb28ad8a45a79a1b24233108fc] .
+(4) Parental bereavement leave may be taken at any time within the period of 56 weeks beginning with the first day of bereavement[^c-06d893fb28ad8a45a79a1b24233108fc] .
 
 (5) Paragraphs (1), (2) and (3) of this regulation are subject to regulation 8.
 
-### 6. Notice requirements for parental bereavement leave[^key-5e9eea739eb2373060001fb8e4e7137a]
+### 6. Notice requirements for parental bereavement leave[^c-5e9eea739eb2373060001fb8e4e7137a]
 
 (1) An employee must give his or her employer notice of his or her intention to take any absence from work as parental bereavement leave specifying—
 
-- (a) the first day of bereavement[^key-388d954a0b46fc06bb792d5a022ac626] ;
+- (a) the first day of bereavement[^c-388d954a0b46fc06bb792d5a022ac626] ;
 - (b) the date on which the employee chooses any period of absence to begin; and
 - (c) whether the employee intends that period of absence to be a period of one or two weeks’ parental bereavement leave.
 
@@ -221,10 +221,10 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
 (6) In this regulation—
 
-- “**Period A**” means the period of 56 days beginning with the first day of bereavement[^key-566469a0e2db22cefab222a7d9b2b46e] ;
+- “**Period A**” means the period of 56 days beginning with the first day of bereavement[^c-566469a0e2db22cefab222a7d9b2b46e] ;
 - “**Period B**” means the period beginning the day after the end of Period A and ending with the end of the period specified in regulation 5(4).
 
-### 7. Commencement of parental bereavement leave[^key-3b2ac3a47e1f6319e9ba35b19252cfc5]
+### 7. Commencement of parental bereavement leave[^c-3b2ac3a47e1f6319e9ba35b19252cfc5]
 
 (1) An employee’s period of parental bereavement leave begins on the date specified in his or her notice under regulation 6(1) except where—
 
@@ -238,7 +238,7 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
 the employee’s period of parental bereavement leave begins on the day after that day.
 
-### 8. Commencement of other statutory leave[^key-02f1b26c59a7e3844c3ee333e42adc86]
+### 8. Commencement of other statutory leave[^c-02f1b26c59a7e3844c3ee333e42adc86]
 
 (1) This regulation applies where an employee’s period of parental bereavement leave has commenced in accordance with regulation 7 and, before that period is due to end, the employee begins another period of statutory leave.
 
@@ -253,7 +253,7 @@ the employee’s period of parental bereavement leave begins on the day after th
 
 ## PART 3 — TAKING PARENTAL BEREAVEMENT LEAVE
 
-### 9. Application of terms and conditions during parental bereavement leave[^key-238e2aa8cf7c1915524f902b441c5f56]
+### 9. Application of terms and conditions during parental bereavement leave[^c-238e2aa8cf7c1915524f902b441c5f56]
 
 (1) An employee who takes parental bereavement leave, is, during any period of leave—
 
@@ -266,7 +266,7 @@ the employee’s period of parental bereavement leave begins on the day after th
 
 (4) In the case of accrual of rights under an employment-related benefit scheme within the meaning given by paragraph 7 of Schedule 5 to the Social Security (Northern Ireland) Order 1989[^f00029], nothing in paragraph (1)(a) imposes a requirement which exceeds the requirements of paragraph 5D[^f00030] of that Schedule.
 
-### 10. Right to return after parental bereavement leave[^key-3d9a9347d67abe4da653617fbcfc50b4]
+### 10. Right to return after parental bereavement leave[^c-3d9a9347d67abe4da653617fbcfc50b4]
 
 (1) An employee who returns to work after a period of parental bereavement leave which was—
 
@@ -286,7 +286,7 @@ is entitled to return from leave to the job in which the employee was employed b
 
 (4) In this regulation, “**parental leave**” means leave under regulation 13(1) of the Maternity and Parental Leave etc. Regulations (Northern Ireland) 1999[^f00031].
 
-### 11. Right to return after parental bereavement leave: supplementary[^key-aeb9866f565775cbed93f2e8b54577c4]
+### 11. Right to return after parental bereavement leave: supplementary[^c-aeb9866f565775cbed93f2e8b54577c4]
 
 (1) The right to return under regulation 10 is a right to return—
 
@@ -295,7 +295,7 @@ is entitled to return from leave to the job in which the employee was employed b
 
 (2) In the case of accrual of rights under an employment-related benefit scheme within the meaning given by paragraph 7 of Schedule 5 to the Social Security (Northern Ireland) Order 1989, nothing in paragraph (1)(a) above imposes a requirement which exceeds the requirements of paragraphs 5A to 6 of that Schedule[^f00032].
 
-### 12. Protection from detriment[^key-a28b3f6a4231138950512e33924c40ee]
+### 12. Protection from detriment[^c-a28b3f6a4231138950512e33924c40ee]
 
 (1) An employee is entitled under Article 70C[^f00033] of the 1996 Order not to be subjected to any detriment by any act, or any deliberate failure to act, by an employer because—
 
@@ -306,7 +306,7 @@ is entitled to return from leave to the job in which the employee was employed b
 
 (3) Paragraph (1) does not apply where the detriment in question amounts to a dismissal within the meaning of Part 11 of the 1996 Order.
 
-### 13. Unfair Dismissal[^key-fb7a6645dc291e7c35ce1503aec8457d]
+### 13. Unfair Dismissal[^c-fb7a6645dc291e7c35ce1503aec8457d]
 
 (1) An employee who is dismissed is entitled under Article 131 of the 1996 Order[^f00034] to be regarded for the purposes of Part 11 of that Order as unfairly dismissed if the reason or principal reason for the dismissal is of a kind specified in paragraph (3).
 
@@ -323,7 +323,7 @@ is entitled to return from leave to the job in which the employee was employed b
 
 (4) For the purposes of paragraph (3)(a), an employee makes use of the benefits of parental bereavement leave if, during a period of parental bereavement leave, the employee benefits from any of the terms and conditions of employment preserved by regulation 9 during that period.
 
-### 14. Calculation of a week’s pay for the purposes of Chapter 4 of Part 1 of the 1996 Order[^key-0a9ad56542bb2c848a4c17474920f688]
+### 14. Calculation of a week’s pay for the purposes of Chapter 4 of Part 1 of the 1996 Order[^c-0a9ad56542bb2c848a4c17474920f688]
 
 Where—
 
@@ -335,7 +335,7 @@ that week must be disregarded for the purpose of the calculation and account mus
 
 ## PART 4 — CONTRACTUAL RIGHTS
 
-### 15. Contractual rights to parental bereavement leave[^key-4286006528dca6e6af9219a075ffd53b]
+### 15. Contractual rights to parental bereavement leave[^c-4286006528dca6e6af9219a075ffd53b]
 
 Where an employee is entitled to parental bereavement leave (referred to in this regulation as “**the statutory right**”) and also to a right which corresponds to that right and which arises under the employee’s contract of employment or otherwise—
 
@@ -344,11 +344,11 @@ Where an employee is entitled to parental bereavement leave (referred to in this
 
 ## PART 5 — TRANSITIONAL AND REVOCATION PROVISIONS
 
-### 16. Transitional provisions[^key-fbddc45049c909f9afb4c804b357997f]
+### 16. Transitional provisions[^c-fbddc45049c909f9afb4c804b357997f]
 
 The revocation and re-enactment of provisions by these Regulations does not affect the continuity of the law.
 
-**17.**[^key-7d47834d4907ad85fa37cd6ec1cb3b0f] (1) This regulation applies to a reference (expressed or implied) in these Regulations, any statutory provision, or any other instrument or document, to a provision of these Regulations.
+**17.**[^c-7d47834d4907ad85fa37cd6ec1cb3b0f] (1) This regulation applies to a reference (expressed or implied) in these Regulations, any statutory provision, or any other instrument or document, to a provision of these Regulations.
 
 (2) The reference is, subject to its context, to be read as being or including a reference to any or all of the corresponding earlier provisions, in relation to times, circumstances or purposes in relation to which those earlier provisions had effect.
 
@@ -358,7 +358,7 @@ The revocation and re-enactment of provisions by these Regulations does not affe
 - (b) the corresponding provision revoked by the Parental Bereavement Leave Regulations (Northern Ireland) 2023[^f00035];
 - (c) the corresponding provision revoked by the Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2022[^f00036].
 
-**18.**[^key-437230471ebb1ff01f149de88902e3c2] (1) This regulation applies to a reference (expressed or implied) in any statutory provision, or any other instrument or document to—
+**18.**[^c-437230471ebb1ff01f149de88902e3c2] (1) This regulation applies to a reference (expressed or implied) in any statutory provision, or any other instrument or document to—
 
 - (a) a provision revoked by these Regulations;
 - (b) a provision revoked by the Parental Bereavement Leave Regulations (Northern Ireland) 2023; or
@@ -366,11 +366,11 @@ The revocation and re-enactment of provisions by these Regulations does not affe
 
 (2) The reference is, subject to its context, to be read as being or including a reference to the corresponding provision of these Regulations, in relation to times, circumstances or purposes in relation to which that provision has effect.
 
-**19.**[^key-5e6a8ed4f88cbfd38a05fe32aa293e82] (1) The revocation of any provision by these Regulations does not affect the previous operation of that provision, except as provided by regulation 20.
+**19.**[^c-5e6a8ed4f88cbfd38a05fe32aa293e82] (1) The revocation of any provision by these Regulations does not affect the previous operation of that provision, except as provided by regulation 20.
 
 (2) The revocation by these Regulations of the savings made by regulations 19 and 20 of the Parental Bereavement Leave Regulations (Northern Ireland) 2023 does not affect the operation of those savings in so far as they are not specifically reproduced in these Regulations but remain capable of having effect.
 
-**20.**[^key-a9898994af67c8dca90c8295900aeb04] (1) Anything done, or having effect as if done, under (or for the purposes of or in reliance on) a provision revoked by these Regulations and in operation or effective immediately before the time these Regulations come into operation, has effect after that time as if done instead under (or for the purposes of or in reliance on) the corresponding provision of these Regulations.
+**20.**[^c-a9898994af67c8dca90c8295900aeb04] (1) Anything done, or having effect as if done, under (or for the purposes of or in reliance on) a provision revoked by these Regulations and in operation or effective immediately before the time these Regulations come into operation, has effect after that time as if done instead under (or for the purposes of or in reliance on) the corresponding provision of these Regulations.
 
 (2) Any right, privilege, obligation or liability acquired, accrued or incurred under a provision revoked by these Regulations is to be treated as having acquired, accrued or incurred instead under the corresponding provision of these Regulations.
 
@@ -388,13 +388,13 @@ includes a reference to a thing that has effect as if done under that provision,
 
 and any investigation or legal proceeding in respect of any such penalty or punishment may be instituted, continued or enforced, and any such penalty or punishment may be imposed, as if the provision had not been revoked.
 
-**21.**[^key-699ff64fa67a2bcd835ee8e1a8db47c7] (1) Regulations 16 to 20 have effect in place of sections 28(2) and 29 of the Interpretation Act (Northern Ireland) 1954[^f00037] (“**1954 Act**”)
+**21.**[^c-699ff64fa67a2bcd835ee8e1a8db47c7] (1) Regulations 16 to 20 have effect in place of sections 28(2) and 29 of the Interpretation Act (Northern Ireland) 1954[^f00037] (“**1954 Act**”)
 
 (2) Nothing in this Part affects any other provision of the 1954 Act.
 
 (3) In this Part, “instrument” and “statutory provision” have the meaning given to them by section 1(c) and (f) of the 1954 Act.
 
-### 22. Revocation[^key-c5324ed0d866cb5ec329c56612e4730a]
+### 22. Revocation[^c-c5324ed0d866cb5ec329c56612e4730a]
 
 The Parental Bereavement Leave Regulations (Northern Ireland) 2023 are revoked.
 
@@ -442,13 +442,13 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^f00004]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
 
-[^key-3bd952c7e30ab52fe581b330d730ce14]: Commencement: Reg. 1 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-3bd952c7e30ab52fe581b330d730ce14]: Commencement: Reg. 1 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-b0aa12adb83fd62c57e2fe9823f98187]: Commencement: Reg. 2 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-b0aa12adb83fd62c57e2fe9823f98187]: Commencement: Reg. 2 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-7721761377425dc2ef5e066bd1f52507]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2023/156/regulation/2) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/2)
+[^c-7721761377425dc2ef5e066bd1f52507]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2023/156/regulation/2) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/2)
 
-[^key-78aa7b624d3314b6557f0be3a181dd22]: Commencement: Reg. 3 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-78aa7b624d3314b6557f0be3a181dd22]: Commencement: Reg. 3 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2003 No. 16](https://www.legislation.gov.uk/nisr/2003/16).
 
@@ -458,9 +458,9 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^f00008]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-fc4252a11553f5690ab1e007aa4ead0e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/156/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/3/a)
+[^c-fc4252a11553f5690ab1e007aa4ead0e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/156/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/3/a)
 
-[^key-8c0e51601c5782db078714de5fa8a70d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/156/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/3/b)
+[^c-8c0e51601c5782db078714de5fa8a70d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/156/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/3/b)
 
 [^f00009]: Footnote: [2008 c. 22](https://www.legislation.gov.uk/ukpga/2008/22); section 54 was amended by the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 31A and Schedule 11, Part 1, paragraph 206 and by [S.I. 2018/1413](https://www.legislation.gov.uk/uksi/2018/1413).
 
@@ -484,13 +484,13 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^f00019]: Footnote: The Department of Health, Social Services and Public Safety was renamed the Department of Health under section 1 of the Departments Act (Northern Ireland) [2016 (c 5)](https://www.legislation.gov.uk/ukpga/2016/5).
 
-[^key-2fd6a93cb255471ee9fb9c4e77952a35]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/156/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/3/c)
+[^c-2fd6a93cb255471ee9fb9c4e77952a35]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2023/156/regulation/3) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/3/c)
 
 [^f00020]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
 [^f00021]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-c2288d7c27cc078ecf3e83cbb2825949]: Commencement: Reg. 4 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-c2288d7c27cc078ecf3e83cbb2825949]: Commencement: Reg. 4 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
 [^f00022]: Footnote: Section 51A was inserted by the Children and Families Act 2014, section 9.
 
@@ -504,23 +504,23 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^f00027]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-a6eb60c16a416c2e3d193d815574d24a]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2023/156/regulation/4A) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/4)
+[^c-a6eb60c16a416c2e3d193d815574d24a]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2023/156/regulation/4A) inserted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/4)
 
-[^key-512fa5c09e06b20c7128cfedfcc1c1ea]: Commencement: Reg. 5 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-512fa5c09e06b20c7128cfedfcc1c1ea]: Commencement: Reg. 5 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-06d893fb28ad8a45a79a1b24233108fc]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2023/156/regulation/5/4) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/5)
+[^c-06d893fb28ad8a45a79a1b24233108fc]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/nisr/2023/156/regulation/5/4) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/5)
 
-[^key-5e9eea739eb2373060001fb8e4e7137a]: Commencement: Reg. 6 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-5e9eea739eb2373060001fb8e4e7137a]: Commencement: Reg. 6 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-388d954a0b46fc06bb792d5a022ac626]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/2023/156/regulation/6/1/a) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(6)(a)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/6/a)
+[^c-388d954a0b46fc06bb792d5a022ac626]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/2023/156/regulation/6/1/a) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(6)(a)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/6/a)
 
-[^key-566469a0e2db22cefab222a7d9b2b46e]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2023/156/regulation/6/6) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/6/b)
+[^c-566469a0e2db22cefab222a7d9b2b46e]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/nisr/2023/156/regulation/6/6) substituted (26.3.2026) by [The Parental Bereavement Leave and Pay (Miscarriage) Regulations (Northern Ireland) 2026 (S.R. 2026/63)](https://www.legislation.gov.uk/nisr/2026/63), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/63/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/nisr/2026/63/regulation/4/6/b)
 
-[^key-3b2ac3a47e1f6319e9ba35b19252cfc5]: Commencement: Reg. 7 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-3b2ac3a47e1f6319e9ba35b19252cfc5]: Commencement: Reg. 7 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-02f1b26c59a7e3844c3ee333e42adc86]: Commencement: Reg. 8 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-02f1b26c59a7e3844c3ee333e42adc86]: Commencement: Reg. 8 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-238e2aa8cf7c1915524f902b441c5f56]: Commencement: Reg. 9 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-238e2aa8cf7c1915524f902b441c5f56]: Commencement: Reg. 9 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
 [^f00028]: Footnote: Article 112EB was inserted by section 1 of the Parental Bereavement (Leave and Pay) Act (Northern Ireland) [2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5).
 
@@ -528,42 +528,42 @@ A separate impact assessment has not been prepared for these Regulations. The Re
 
 [^f00030]: Footnote: Paragraph 5D was inserted by section 4 and Schedule 1, paragraph 1 of the Parental Bereavement (Leave and Pay) Act (Northern Ireland) [2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5).
 
-[^key-3d9a9347d67abe4da653617fbcfc50b4]: Commencement: Reg. 10 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-3d9a9347d67abe4da653617fbcfc50b4]: Commencement: Reg. 10 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
 [^f00031]: Footnote: [S.R. 1999 No. 471](https://www.legislation.gov.uk/nisr/1999/471); regulation 13 was amended by [S.R. 2002 No. 135](https://www.legislation.gov.uk/nisr/2002/135).
 
-[^key-aeb9866f565775cbed93f2e8b54577c4]: Commencement: Reg. 11 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-aeb9866f565775cbed93f2e8b54577c4]: Commencement: Reg. 11 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
 [^f00032]: Footnote: Paragraph 5A was inserted by the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), Article 242(1), and amended by [S.I.2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947).
 
-[^key-a28b3f6a4231138950512e33924c40ee]: Commencement: Reg. 12 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-a28b3f6a4231138950512e33924c40ee]: Commencement: Reg. 12 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
 [^f00033]: Footnote: Article 70C was inserted by [S.I. 1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790), Article 11 and Schedule 4, Part 3, paragraph 3, and amended for relevant purposes by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), section 14(1) and Schedule 1, paragraph 4(5).
 
-[^key-fb7a6645dc291e7c35ce1503aec8457d]: Commencement: Reg. 13 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-fb7a6645dc291e7c35ce1503aec8457d]: Commencement: Reg. 13 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
 [^f00034]: Footnote: Article 131 was substituted by [S.I. 1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790), Article 11 and Schedule 4, Part 3, paragraph 8, and amended for relevant purposes by [2015 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2015/1), section 14(1) and Schedule 1, paragraph 4(16).
 
-[^key-0a9ad56542bb2c848a4c17474920f688]: Commencement: Reg. 14 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-0a9ad56542bb2c848a4c17474920f688]: Commencement: Reg. 14 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-4286006528dca6e6af9219a075ffd53b]: Commencement: Reg. 15 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-4286006528dca6e6af9219a075ffd53b]: Commencement: Reg. 15 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-fbddc45049c909f9afb4c804b357997f]: Commencement: Reg. 16 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-fbddc45049c909f9afb4c804b357997f]: Commencement: Reg. 16 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-7d47834d4907ad85fa37cd6ec1cb3b0f]: Commencement: Reg. 17 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-7d47834d4907ad85fa37cd6ec1cb3b0f]: Commencement: Reg. 17 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
 [^f00035]: Footnote: [S.R. 2023 No. 55](https://www.legislation.gov.uk/nisr/2023/55).
 
 [^f00036]: Footnote: [S.R. 2022 No. 237](https://www.legislation.gov.uk/nisr/2022/237).
 
-[^key-437230471ebb1ff01f149de88902e3c2]: Commencement: Reg. 18 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-437230471ebb1ff01f149de88902e3c2]: Commencement: Reg. 18 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-5e6a8ed4f88cbfd38a05fe32aa293e82]: Commencement: Reg. 19 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-5e6a8ed4f88cbfd38a05fe32aa293e82]: Commencement: Reg. 19 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-a9898994af67c8dca90c8295900aeb04]: Commencement: Reg. 20 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-a9898994af67c8dca90c8295900aeb04]: Commencement: Reg. 20 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
-[^key-699ff64fa67a2bcd835ee8e1a8db47c7]: Commencement: Reg. 21 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-699ff64fa67a2bcd835ee8e1a8db47c7]: Commencement: Reg. 21 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
 
 [^f00037]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-c5324ed0d866cb5ec329c56612e4730a]: Commencement: Reg. 22 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)
+[^c-c5324ed0d866cb5ec329c56612e4730a]: Commencement: Reg. 22 in operation at 29.9.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/156/regulation/1)

@@ -39,15 +39,15 @@ summary: ''
 - (l) the claim is brought to enforce any judgment or arbritral award;
 - (m) the claim is brought against a defendant not domiciled in England and Wales or Scotland in respect of a claim by the Commissioners of Inland Revenue for or in relation to any of the duties or taxes which have been, or are for the time being, placed under their care and management;
 - (n) the claim is brought in respect of contributions under the Social Security (Northern Ireland) Act 1975;
-- (o)[^key-afbfd094cab42eab9559b83db9354d24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-afbfd094cab42eab9559b83db9354d24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Service of originating process out of Northern Ireland is permissible without the leave of the court where each claim made is one which the court has power to hear and determine by virtue of the Civil Jurisdiction and Judgments Act 1982 made in proceedings to which the following conditions apply—
 
 - (a) no proceedings between the parties concerning the same, cause of action are pending in the courts of any part of the United Kingdom or of any other Convention territory; and
 - (b)
   - (i) the defendant is domiciled in any part of the United Kingdom or of any other Convention territory, or
-  - (ii) the proceedings begun by the originating process are proceedings to which [^key-b7bf16dbe004fc6f24f5d4d5d15d7ff5]... Article 16 of Schedule 3C or, Article 16 of Schedule 4 that Act refers, or
-  - (iii) the defendant is a party to an agreement conferring jurisdiction to which [^key-82e1eae7a198655343f2e6d94837c467]... \[[^f00082] Article 17 of Schedule 3C\] or Article 17 of Schedule 4 to that Act applies.
+  - (ii) the proceedings begun by the originating process are proceedings to which [^c-b7bf16dbe004fc6f24f5d4d5d15d7ff5]... Article 16 of Schedule 3C or, Article 16 of Schedule 4 that Act refers, or
+  - (iii) the defendant is a party to an agreement conferring jurisdiction to which [^c-82e1eae7a198655343f2e6d94837c467]... \[[^f00082] Article 17 of Schedule 3C\] or Article 17 of Schedule 4 to that Act applies.
 
 (3) Service of originating process out of Northern Ireland is permissible without the leave of the court where each claim made is one which by virtue any other enactment the court has power to hear and determine notwithstanding that the person against whom the claim is made is not within Northern Ireland or that the wrongful act, neglect or default giving rise to the claim did not take place within Northern Ireland.
 
@@ -57,10 +57,10 @@ summary: ''
 
 [^f00081]: Footnote: New Rule substituted by [S.R. 1986 No. 347](https://www.legislation.gov.uk/nisr/1986/347) with effect from 1.1.87
 
-[^key-afbfd094cab42eab9559b83db9354d24]: Textual amendment: Order 6A rule 2(1)(o) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2019/234/article/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-afbfd094cab42eab9559b83db9354d24]: Textual amendment: Order 6A rule 2(1)(o) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2019/234/article/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b7bf16dbe004fc6f24f5d4d5d15d7ff5]: Textual amendment: Words in Order 6A rule 2(2)(b)(ii) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(2)(c)(i)](https://www.legislation.gov.uk/nisr/2019/234/article/3/2/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b7bf16dbe004fc6f24f5d4d5d15d7ff5]: Textual amendment: Words in Order 6A rule 2(2)(b)(ii) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(2)(c)(i)](https://www.legislation.gov.uk/nisr/2019/234/article/3/2/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-82e1eae7a198655343f2e6d94837c467]: Textual amendment: Words in Order 6A rule 2(2)(b)(iii) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/234/article/3/2/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82e1eae7a198655343f2e6d94837c467]: Textual amendment: Words in Order 6A rule 2(2)(b)(iii) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/234/article/3/2/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00082]: Footnote: Words inserted by [S.R. 1992 No. 478](https://www.legislation.gov.uk/nisr/1992/478) with effect from 1.1.93

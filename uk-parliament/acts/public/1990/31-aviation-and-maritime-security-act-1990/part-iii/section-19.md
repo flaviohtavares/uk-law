@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Power of Secretary of State to require information.[^c10457031][^key-e3c8918e5172a077a428b5078248b9a0]
+## 19. Power of Secretary of State to require information.[^c10457031][^c-e3c8918e5172a077a428b5078248b9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,11 +31,11 @@ summary: ''
 
 require that person to provide the Secretary of State with such information specified in the notice as the Secretary of State may require in connection with the exercise by the Secretary of State of his functions under this Part of this Act.
 
-(2) A notice under subsection (1) above shall specify a period before the end of[^key-e56a06f27e5ecb2242eadd51fac3fa26] which the information required by the notice in accordance with subsection (1) above is to be furnished to the Secretary of State.
+(2) A notice under subsection (1) above shall specify a period before the end of[^c-e56a06f27e5ecb2242eadd51fac3fa26] which the information required by the notice in accordance with subsection (1) above is to be furnished to the Secretary of State.
 
 (3) Any such notice may also require the person on whom it is served, after he has furnished to the Secretary of State the information required by the notice in accordance with subsection (1) above, to inform the Secretary of State if at any time the information previously furnished to the Secretary of State (including any information furnished in pursuance of a requirement imposed by virtue of this subsection) is rendered inaccurate by any change of circumstances (including the taking of any further measures for purposes to which this Part of this Act applies or the alteration or discontinuance of any measures already being taken).
 
-(4) In so far as such a notice requires further information to be furnished to the Secretary of State in accordance with subsection (3) above, it shall require that information to be furnished to him before the end of such period [^key-b4c582c93fddb0a9078c4ccb65378962]... as is specified in the notice for the purposes of this subsection.
+(4) In so far as such a notice requires further information to be furnished to the Secretary of State in accordance with subsection (3) above, it shall require that information to be furnished to him before the end of such period [^c-b4c582c93fddb0a9078c4ccb65378962]... as is specified in the notice for the purposes of this subsection.
 
 (5) Any person who—
 
@@ -58,8 +58,8 @@ commits an offence.
 
 [^c10457031]: Modification: S. 19 extended (with modifications) (Jersey) (1.1.1997) by [S.I. 1996/2881](https://www.legislation.gov.uk/uksi/1996/2881), [art. 2](https://www.legislation.gov.uk/uksi/1996/2881/article/2), [Sch. Pts. I](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/II)
 
-[^key-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
-[^key-e56a06f27e5ecb2242eadd51fac3fa26]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/19/2) substituted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/2/a); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)
+[^c-e56a06f27e5ecb2242eadd51fac3fa26]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/19/2) substituted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/2/a); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)
 
-[^key-b4c582c93fddb0a9078c4ccb65378962]: Textual amendment: Words in [s. 19(4)](https://www.legislation.gov.uk/ukpga/1990/31/section/19/4) omitted (1.10.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/2/b); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)
+[^c-b4c582c93fddb0a9078c4ccb65378962]: Textual amendment: Words in [s. 19(4)](https://www.legislation.gov.uk/ukpga/1990/31/section/19/4) omitted (1.10.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/2/b); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)

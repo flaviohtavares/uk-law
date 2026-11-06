@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Death gratuity - estate[^key-5d0be2a8758f227a0d24697fa4076cda]
+## 42. Death gratuity - estate[^c-5d0be2a8758f227a0d24697fa4076cda]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ is less than his aggregate pension contributions in respect of his relevant peri
 
 ## Annotations
 
-[^key-5d0be2a8758f227a0d24697fa4076cda]: Commencement: Reg. 42 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-5d0be2a8758f227a0d24697fa4076cda]: Commencement: Reg. 42 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

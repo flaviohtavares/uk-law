@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Duty to assess impact of prohibition or restriction of activities[^key-92b5d933d7da89a679585fbdbcbdac1a]
+## 91. Duty to assess impact of prohibition or restriction of activities[^c-92b5d933d7da89a679585fbdbcbdac1a]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92b5d933d7da89a679585fbdbcbdac1a]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2010/5/section/91) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-92b5d933d7da89a679585fbdbcbdac1a]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2010/5/section/91) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

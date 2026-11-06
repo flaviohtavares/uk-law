@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 180. Information and notification obligations of trustee under protected trust deed[^key-250cce543c9a8eefeea70f958fd4a1e5]
+## 180. Information and notification obligations of trustee under protected trust deed[^c-250cce543c9a8eefeea70f958fd4a1e5]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-250cce543c9a8eefeea70f958fd4a1e5]: Commencement: [S. 180](https://www.legislation.gov.uk/asp/2016/21/section/180) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-250cce543c9a8eefeea70f958fd4a1e5]: Commencement: [S. 180](https://www.legislation.gov.uk/asp/2016/21/section/180) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

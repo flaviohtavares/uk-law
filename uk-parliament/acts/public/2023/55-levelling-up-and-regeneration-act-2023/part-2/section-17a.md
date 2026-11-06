@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. The functions of CCAs[^key-69a350a94582fc861f192482675617a9]
+## 17A. The functions of CCAs[^c-69a350a94582fc861f192482675617a9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A CCA has the functions that are conferred by—
 
 ## Annotations
 
-[^key-69a350a94582fc861f192482675617a9]: Textual amendment: S. 17A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/5/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-69a350a94582fc861f192482675617a9]: Textual amendment: S. 17A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/5/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

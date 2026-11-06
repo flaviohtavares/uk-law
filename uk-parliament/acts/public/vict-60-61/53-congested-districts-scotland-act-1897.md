@@ -56,7 +56,7 @@ For the purposes of this Act a fund (to be called the Congested Districts (Scotl
 - (c) providing, subject to the provisions herein-after contained, land for sub-division among or for enlargement of the holdings of crofters and cottars in congested districts for the purposes of cultivation or grazing, in such manner and upon such conditions and after such adaptations as shall be determined by the Commissioners; and
 - (d) aiding migration of crofters and cottars . . . [^c577218] and settling any migrants under favourable circumstances in the places to which they first migrate; and
 - (e) aiding and developing fishing (including industries connected with and subservient to fishing) and the erection and formation of fishermen’s dwellings and holdings in congested districts; and
-- (f) aiding the providing or improving of . . . [^c577218] piers or boat-slips, public roads and bridges, and footpaths and foot bridges, and meal-mills, in congested districts; and providing guarantees for . . . [^c577220]such . . . [^c577220]postal facilities (including money order . . . [^c577222] business) as may be within the power of a Post Office company (within the meaning of Part 1 of the Postal Services Act 2011) to grant under guarantee[^key-55138af0ffc710e29e7d4a964df1e6bb]; and
+- (f) aiding the providing or improving of . . . [^c577218] piers or boat-slips, public roads and bridges, and footpaths and foot bridges, and meal-mills, in congested districts; and providing guarantees for . . . [^c577220]such . . . [^c577220]postal facilities (including money order . . . [^c577222] business) as may be within the power of a Post Office company (within the meaning of Part 1 of the Postal Services Act 2011) to grant under guarantee[^c-55138af0ffc710e29e7d4a964df1e6bb]; and
 - (g) aiding and developing spinning, weaving, and other home industries in congested districts; and
 - (h) subject to the consent of the Treasury,—
 
@@ -132,7 +132,7 @@ This Act may be cited as the Congested Districts (Scotland) Act, 1897.
 
 [^c577222]: Textual amendment: Words repealed by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1969/48/schedule/11/part/II)
 
-[^key-55138af0ffc710e29e7d4a964df1e6bb]: Textual amendment: Words in [s. 4(1)(f)](https://www.legislation.gov.uk/ukpga/Vict/60-61/53/section/4/1/f) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2), [Sch. 12 para. 74](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/74); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-55138af0ffc710e29e7d4a964df1e6bb]: Textual amendment: Words in [s. 4(1)(f)](https://www.legislation.gov.uk/ukpga/Vict/60-61/53/section/4/1/f) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2), [Sch. 12 para. 74](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/74); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c577224]: Textual amendment: Words repealed by [Reorganisation of Offices (Scotland) Act 1939 (c. 20)](https://www.legislation.gov.uk/ukpga/1939/20), [Sch.](https://www.legislation.gov.uk/ukpga/1939/20/schedule)
 

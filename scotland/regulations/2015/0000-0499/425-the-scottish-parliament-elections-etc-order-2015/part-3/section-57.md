@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Inspection of returns and declarations: candidates[^key-13d6758a9b7809873b281cec0619c836]
+## 57. Inspection of returns and declarations: candidates[^c-13d6758a9b7809873b281cec0619c836]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13d6758a9b7809873b281cec0619c836]: Commencement: Art. 57 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-13d6758a9b7809873b281cec0619c836]: Commencement: Art. 57 in force at 16.12.2015 in accordance with art. 1(1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Duty to publish and meet promptness standards[^key-a47c4d3a8c85461fe581ebf38e46d4ba]
+## 8. Duty to publish and meet promptness standards[^c-a47c4d3a8c85461fe581ebf38e46d4ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ to have regard to the statement for the time being in force under this section.
 
 ## Annotations
 
-[^key-a47c4d3a8c85461fe581ebf38e46d4ba]: Commencement: S. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a47c4d3a8c85461fe581ebf38e46d4ba]: Commencement: S. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

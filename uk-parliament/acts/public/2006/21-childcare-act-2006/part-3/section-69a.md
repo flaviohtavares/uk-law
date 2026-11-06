@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69A. Cancellation, termination and suspension of registration with a childminder agency[^key-5805d6da856f60b4c8cae191e0bd97cf]
+## 69A. Cancellation, termination and suspension of registration with a childminder agency[^c-5805d6da856f60b4c8cae191e0bd97cf]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5805d6da856f60b4c8cae191e0bd97cf]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2006/21/section/69A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/35); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-5805d6da856f60b4c8cae191e0bd97cf]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2006/21/section/69A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/35); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

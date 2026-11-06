@@ -22,18 +22,18 @@ summary: ''
 
 (1) Schedule 7A to TCGA 1992 (restrictions on set-off of pre-entry losses) shall be amended as follows.
 
-(2)[^key-4a1b8a2a84d5235dd25b3b55961daaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4a1b8a2a84d5235dd25b3b55961daaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-4a1b8a2a84d5235dd25b3b55961daaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4a1b8a2a84d5235dd25b3b55961daaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph 1(6)(a) after “subsection (10)” insert “ or (10A) ”.
 
-(5)[^key-47ed7846a899a9d885dd45f3bbd5eea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-47ed7846a899a9d885dd45f3bbd5eea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) This section shall have effect in relation to the formation of an SE which occurs on or after 1st April 2005.
 
 ## Annotations
 
-[^key-4a1b8a2a84d5235dd25b3b55961daaf9]: Textual amendment: S. 65(2)(3) repealed (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/d)
+[^c-4a1b8a2a84d5235dd25b3b55961daaf9]: Textual amendment: S. 65(2)(3) repealed (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/d)
 
-[^key-47ed7846a899a9d885dd45f3bbd5eea6]: Textual amendment: S. 65(5) repealed (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/d)
+[^c-47ed7846a899a9d885dd45f3bbd5eea6]: Textual amendment: S. 65(5) repealed (with effect in accordance with Sch. 11 paras. 11, 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/d)

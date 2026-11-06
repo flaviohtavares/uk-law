@@ -49,7 +49,7 @@ A draft of these Regulations was laid before Senedd Cymru under section 196(6)(a
 
 ### General
 
-#### 1. Title, commencement and interpretation[^key-d889104719e608f2866895b235b75df3]
+#### 1. Title, commencement and interpretation[^c-d889104719e608f2866895b235b75df3]
 
 (1) The title of these Regulations is the Partnership Arrangements (Amendment) and Regulated Services (Market Stability Reports) (Wales) Regulations 2021.
 
@@ -68,23 +68,23 @@ A draft of these Regulations was laid before Senedd Cymru under section 196(6)(a
 
 ### Market Stability Report
 
-#### 2. Other matters to be contained within the market stability report[^key-c1fa29b0df54525d3317c971f53673ca]
+#### 2. Other matters to be contained within the market stability report[^c-c1fa29b0df54525d3317c971f53673ca]
 
 A market stability report must include an assessment of those matters specified in the Schedule.
 
-#### 3. Period of assessment of the sufficiency of provision of care and support[^key-46f128ad66e4a44368139f6cceb3546b]
+#### 3. Period of assessment of the sufficiency of provision of care and support[^c-46f128ad66e4a44368139f6cceb3546b]
 
 The sufficiency of provision of care and support must be assessed over the period since the previous population assessment was published.
 
-#### 4. Publication of market stability report[^key-e7c13649c63849ce3d94b8e4d8c55500]
+#### 4. Publication of market stability report[^c-e7c13649c63849ce3d94b8e4d8c55500]
 
-(1) Local authorities must publish a market stability report by 1 June 2022 (the first report)[^key-2d950103206f7a4b277d470869e0302b].
+(1) Local authorities must publish a market stability report by 1 June 2022 (the first report)[^c-2d950103206f7a4b277d470869e0302b].
 
-(2)[^key-b7e0ce6fbb03aa8a40edbcd4f976d93b] Local authorities must publish their second market stability report by 1 September 2027.
+(2)[^c-b7e0ce6fbb03aa8a40edbcd4f976d93b] Local authorities must publish their second market stability report by 1 September 2027.
 
 (3) Subsequent market stability reports must be published at intervals not exceeding five years by 1 September.
 
-#### 5. Form of market stability report[^key-b17aefe92801559e8299d0350091c154]
+#### 5. Form of market stability report[^c-b17aefe92801559e8299d0350091c154]
 
 The market stability report must be published in an electronic format.
 
@@ -92,7 +92,7 @@ The market stability report must be published in an electronic format.
 
 ### Amendment to the Partnership Arrangements Regulations
 
-#### 6. Amendment to the Partnership Arrangements Regulations[^key-464816aabbb32ba95e3edfdd525473d8]
+#### 6. Amendment to the Partnership Arrangements Regulations[^c-464816aabbb32ba95e3edfdd525473d8]
 
 In the Partnership Arrangements Regulations, after regulation 18 insert—
 
@@ -114,23 +114,23 @@ Deputy Minister for Health and Social Services under authority of the Minister f
 
 Regulation 2
 
-### 1. Sufficiency of provision of care and support[^key-caa718996d9c509871e456a0c274900b]
+### 1. Sufficiency of provision of care and support[^c-caa718996d9c509871e456a0c274900b]
 
 An assessment of the sufficiency of provision of regulated services providing care and support which includes any gaps in provision to meet needs identified in the most recent population assessment.
 
-### 2. Overall quality of care and support[^key-79814c2d6a2c483225f0ec7fe566567c]
+### 2. Overall quality of care and support[^c-79814c2d6a2c483225f0ec7fe566567c]
 
 An assessment of the overall quality of the care and support being provided by regulated services in meeting the needs and achieving the personal outcomes of people who need care and support, and those carers who need support.
 
-### 3. Current or developing trends of care and support[^key-f49da6888cd71871fcb34d4f408870d0]
+### 3. Current or developing trends of care and support[^c-f49da6888cd71871fcb34d4f408870d0]
 
 An assessment of the current or developing trends in the provision of regulated services providing care and support and their impact upon the sufficiency, quality or stability of those services.
 
-### 4. Challenges[^key-3b410bb5bdd90a056fa0ef3a2b03b05a]
+### 4. Challenges[^c-3b410bb5bdd90a056fa0ef3a2b03b05a]
 
 An assessment of any significant challenges to current or future sufficiency, quality and stability of the provision of regulated services providing care and support.
 
-### 5. Impact of commissioning[^key-96d4b2d5bb7a694b390f29e9859c978d]
+### 5. Impact of commissioning[^c-96d4b2d5bb7a694b390f29e9859c978d]
 
 An assessment of the impact of commissioning and funding on the sufficiency, quality and stability of the provision of regulated services providing care and support, including regional approaches and the use of pooled funding.
 
@@ -168,34 +168,34 @@ The Welsh Ministers’ Code of Practice on carrying out of Regulatory Impact Ass
 
 [^f00003]: Footnote: The reference in section 196(6)(a) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-d889104719e608f2866895b235b75df3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/198/regulation/1) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-d889104719e608f2866895b235b75df3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/198/regulation/1) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2015/1989 (W. 299)](https://www.legislation.gov.uk/wsi/2015/1989).
 
 [^f00005]: Footnote: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
 
-[^key-c1fa29b0df54525d3317c971f53673ca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/198/regulation/2) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-c1fa29b0df54525d3317c971f53673ca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/198/regulation/2) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
-[^key-46f128ad66e4a44368139f6cceb3546b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/198/regulation/3) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-46f128ad66e4a44368139f6cceb3546b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/198/regulation/3) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
-[^key-e7c13649c63849ce3d94b8e4d8c55500]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/198/regulation/4) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-e7c13649c63849ce3d94b8e4d8c55500]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/198/regulation/4) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
-[^key-2d950103206f7a4b277d470869e0302b]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2021/198/regulation/4/1) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [10(a)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/10/a)
+[^c-2d950103206f7a4b277d470869e0302b]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2021/198/regulation/4/1) inserted (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [10(a)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/10/a)
 
-[^key-b7e0ce6fbb03aa8a40edbcd4f976d93b]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/4/2)[(3)](https://www.legislation.gov.uk/wsi/2021/198/regulation/4/3) substituted for [reg. 4(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/4/2) (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [10(b)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/10/b)
+[^c-b7e0ce6fbb03aa8a40edbcd4f976d93b]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/4/2)[(3)](https://www.legislation.gov.uk/wsi/2021/198/regulation/4/3) substituted for [reg. 4(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/4/2) (31.12.2024) by [The Partnership Arrangements (Miscellaneous Amendments etc.) (Wales) Regulations 2024 (S.I. 2024/1238)](https://www.legislation.gov.uk/wsi/2024/1238), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/1/2), [10(b)](https://www.legislation.gov.uk/wsi/2024/1238/regulation/10/b)
 
-[^key-b17aefe92801559e8299d0350091c154]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/198/regulation/5) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-b17aefe92801559e8299d0350091c154]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/198/regulation/5) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
-[^key-464816aabbb32ba95e3edfdd525473d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/198/regulation/6) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-464816aabbb32ba95e3edfdd525473d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/198/regulation/6) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
 [^f00006]: Footnote: Local authority functions under section 144B of the Act are one of the social services functions which are “specified functions” for the purposes of the Partnership Arrangements Regulations by virtue of regulation 9 of, and Schedule 1 to, those Regulations.
 
-[^key-caa718996d9c509871e456a0c274900b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/1) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-caa718996d9c509871e456a0c274900b]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/1) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
-[^key-79814c2d6a2c483225f0ec7fe566567c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/2) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-79814c2d6a2c483225f0ec7fe566567c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/2) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
-[^key-f49da6888cd71871fcb34d4f408870d0]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/3) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-f49da6888cd71871fcb34d4f408870d0]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/3) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
-[^key-3b410bb5bdd90a056fa0ef3a2b03b05a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/4) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-3b410bb5bdd90a056fa0ef3a2b03b05a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/4) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
 
-[^key-96d4b2d5bb7a694b390f29e9859c978d]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/5) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)
+[^c-96d4b2d5bb7a694b390f29e9859c978d]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2021/198/schedule/paragraph/5) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/198/regulation/1/2)

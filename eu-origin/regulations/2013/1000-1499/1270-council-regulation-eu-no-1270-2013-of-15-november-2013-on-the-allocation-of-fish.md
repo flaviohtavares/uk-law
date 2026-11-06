@@ -33,14 +33,14 @@ of 15 November 2013
 
 on the allocation of fishing opportunities under the Protocol between the European Union and the Kingdom of Morocco setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Union and the Kingdom of Morocco (revoked)
 
-[^key-e2ee05f0a5f110c6c89319f71498ebe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2ee05f0a5f110c6c89319f71498ebe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e2ee05f0a5f110c6c89319f71498ebe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e2ee05f0a5f110c6c89319f71498ebe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e2ee05f0a5f110c6c89319f71498ebe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e2ee05f0a5f110c6c89319f71498ebe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e2ee05f0a5f110c6c89319f71498ebe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2ee05f0a5f110c6c89319f71498ebe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e2ee05f0a5f110c6c89319f71498ebe3]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2ee05f0a5f110c6c89319f71498ebe3]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

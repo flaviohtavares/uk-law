@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Conduct of transfer schemes[^key-468c0cb76dcf819b27a53c2b3dac6f49]
+## 52. Conduct of transfer schemes[^c-468c0cb76dcf819b27a53c2b3dac6f49]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 contains further provision about transfer schemes under section 50.
 
 ## Annotations
 
-[^key-468c0cb76dcf819b27a53c2b3dac6f49]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/52/section/52) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-468c0cb76dcf819b27a53c2b3dac6f49]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/52/section/52) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

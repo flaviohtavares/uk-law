@@ -30,7 +30,7 @@ summary: ''
 
 (5) The fact that there is a licence under the [^c13373641]Dangerous Wild Animals Act 1976 in respect of a creature shall not of itself afford a defence in proceedings under this section relating to that creature.
 
-(6) Where a court convicts a person of an offence under this section or discharges him absolutely [^key-54e6676f3d81e2be5c4a5baa4927eaba]..., it may, whether or not (in the case of conviction) it imposes a penalty under subsection (1) or (4) above—
+(6) Where a court convicts a person of an offence under this section or discharges him absolutely [^c-54e6676f3d81e2be5c4a5baa4927eaba]..., it may, whether or not (in the case of conviction) it imposes a penalty under subsection (1) or (4) above—
 
 - (a) subject to subsection (8) below, make such order as it sees fit as to the disposal of the creature to which the proceedings relate;
 - (b) authorise a constable, in pursuance of such an order, to take possession of the creature.
@@ -45,4 +45,4 @@ summary: ''
 
 [^c13373641]: Marginal citation: [1976 c. 38](https://www.legislation.gov.uk/ukpga/1976/38).
 
-[^key-54e6676f3d81e2be5c4a5baa4927eaba]: Textual amendment: Words in s. 49(6) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 35(2)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/35/2); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-54e6676f3d81e2be5c4a5baa4927eaba]: Textual amendment: Words in s. 49(6) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 35(2)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/35/2); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))

@@ -31,10 +31,10 @@ summary: ''
 
 of 22 November 2007 on the conclusion of Agreements in the form of Exchange of Letters between the European Atomic Energy Community (Euratom) and the Swiss Confederation (Switzerland) on the application of the ITER Agreement, the Agreement on Privileges and Immunities for ITER and the Broader Approach Agreement to the territory of Switzerland and on Switzerland’s membership in the European Joint Undertaking for ITER and the Development of Fusion Energy (revoked)
 
-[^key-afeb004aec21287db1aa4e73194e90bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afeb004aec21287db1aa4e73194e90bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-afeb004aec21287db1aa4e73194e90bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-afeb004aec21287db1aa4e73194e90bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-afeb004aec21287db1aa4e73194e90bd]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-afeb004aec21287db1aa4e73194e90bd]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

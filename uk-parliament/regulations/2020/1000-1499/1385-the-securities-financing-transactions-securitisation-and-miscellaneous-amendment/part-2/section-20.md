@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Application to regulation 19[^key-29eb4bd900e2e1d1735ec43855fdf149]
+## 20. Application to regulation 19[^c-29eb4bd900e2e1d1735ec43855fdf149]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 19 applies to a person who—
 
 ## Annotations
 
-[^key-29eb4bd900e2e1d1735ec43855fdf149]: Commencement: Reg. 20 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-29eb4bd900e2e1d1735ec43855fdf149]: Commencement: Reg. 20 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

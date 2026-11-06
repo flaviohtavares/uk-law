@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44A. Duty to notify changes to information relating to registered interest[^key-23f0ec829c3c508a96bf07236e53eb86]
+## 44A. Duty to notify changes to information relating to registered interest[^c-23f0ec829c3c508a96bf07236e53eb86]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ the owner of the land to which the application relates must, as soon as reasonab
 
 ## Annotations
 
-[^key-23f0ec829c3c508a96bf07236e53eb86]: Textual amendment: S. 44A inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 46](https://www.legislation.gov.uk/asp/2015/6/section/46), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-23f0ec829c3c508a96bf07236e53eb86]: Textual amendment: S. 44A inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 46](https://www.legislation.gov.uk/asp/2015/6/section/46), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

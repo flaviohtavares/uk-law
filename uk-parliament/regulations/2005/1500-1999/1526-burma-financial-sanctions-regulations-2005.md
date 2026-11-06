@@ -32,7 +32,7 @@ summary: ''
 
 CRIMINAL LAW
 
-Burma (Financial Sanctions) Regulations 2005 (revoked)[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+Burma (Financial Sanctions) Regulations 2005 (revoked)[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 Made
 
@@ -46,66 +46,66 @@ Coming into force
 
 29th June 2005
 
-[^key-a26a4f85eab6f5506b4ee726b9b7f303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a26a4f85eab6f5506b4ee726b9b7f303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+## 1. Citation, commencement and interpretation[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Offences in Connection with breaches of the EC Regulation[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+## 2. Offences in Connection with breaches of the EC Regulation[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences in connection with requests for authorisations[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+## 3. Offences in connection with requests for authorisations[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+## 4. Information[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+## 5. Penalties[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Proceedings[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+## 6. Proceedings[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+## 7. Revocations[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a26a4f85eab6f5506b4ee726b9b7f303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a26a4f85eab6f5506b4ee726b9b7f303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Instruments that amend Council Regulation [(EC) No 798/2004](https://www.legislation.gov.uk/eur/2004/798) of 26th April 2004[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+## SCHEDULE 1 — Instruments that amend Council Regulation [(EC) No 798/2004](https://www.legislation.gov.uk/eur/2004/798) of 26th April 2004[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 Regulation 1(2)
 
-**1.**[^key-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Information obtained by the requesting authority[^key-a26a4f85eab6f5506b4ee726b9b7f303]
+## SCHEDULE 2 — Information obtained by the requesting authority[^c-a26a4f85eab6f5506b4ee726b9b7f303]
 
 Regulation 4
 
-**1.**[^key-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a26a4f85eab6f5506b4ee726b9b7f303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a26a4f85eab6f5506b4ee726b9b7f303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a26a4f85eab6f5506b4ee726b9b7f303]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a26a4f85eab6f5506b4ee726b9b7f303]: Textual amendment: Regulations revoked (18.6.2009) by [The Burma/Myanmar (Financial Restrictions) Regulations 2009 (S.I. 2009/1495)](https://www.legislation.gov.uk/uksi/2009/1495), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1495/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/1495/regulation/24)
+[^c-a26a4f85eab6f5506b4ee726b9b7f303]: Textual amendment: Regulations revoked (18.6.2009) by [The Burma/Myanmar (Financial Restrictions) Regulations 2009 (S.I. 2009/1495)](https://www.legislation.gov.uk/uksi/2009/1495), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1495/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/1495/regulation/24)

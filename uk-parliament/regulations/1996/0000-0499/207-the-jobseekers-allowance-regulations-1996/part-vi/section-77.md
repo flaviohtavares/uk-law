@@ -16,7 +16,7 @@ summary: ''
 
 ## 77. Circumstances in which a person is to be treated as responsible or not responsible for another
 
-(1) Subject to the following provisions of this regulation, a person is to be treated for the purposes of the Act as responsible for a child or young person for whom he is receiving child benefit and this includes a child or young person to whom paragraph (3) of regulation 76 applies.[^key-9f8ee6735d36150cdedc31dfea3e2f5b]
+(1) Subject to the following provisions of this regulation, a person is to be treated for the purposes of the Act as responsible for a child or young person for whom he is receiving child benefit and this includes a child or young person to whom paragraph (3) of regulation 76 applies.[^c-9f8ee6735d36150cdedc31dfea3e2f5b]
 
 (2) In a case where a child (“the first child") is in receipt of child benefit in respect of another child (“the second child"), the person treated as responsible for the first child in accordance with the provisions of this regulation shall also be treated as responsible for the second child.
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f8ee6735d36150cdedc31dfea3e2f5b]: Textual amendment: Words in [reg. 77(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/77/1) added (for specified purposes and with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit) (Amendment) Regulations 2002 (S.I. 2002/2402)](https://www.legislation.gov.uk/uksi/2002/2402), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2002/2402/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2002/2402/schedule/2/paragraph/3)
+[^c-9f8ee6735d36150cdedc31dfea3e2f5b]: Textual amendment: Words in [reg. 77(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/77/1) added (for specified purposes and with effect in accordance with reg. 1(3) of the amending S.I.) by [The Income-related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit) (Amendment) Regulations 2002 (S.I. 2002/2402)](https://www.legislation.gov.uk/uksi/2002/2402), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2002/2402/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2002/2402/schedule/2/paragraph/3)

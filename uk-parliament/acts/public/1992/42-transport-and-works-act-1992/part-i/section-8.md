@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Guidance on draft orders[^key-7d953d22676bc1ae611edf6cc1a90f2a]
+## 8. Guidance on draft orders[^c-7d953d22676bc1ae611edf6cc1a90f2a]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d953d22676bc1ae611edf6cc1a90f2a]: Textual amendment: S. 8 substituted (1.9.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 36](https://www.legislation.gov.uk/ukpga/2025/34/section/36), [118(1)(u)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/u) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/4/b)
+[^c-7d953d22676bc1ae611edf6cc1a90f2a]: Textual amendment: S. 8 substituted (1.9.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 36](https://www.legislation.gov.uk/ukpga/2025/34/section/36), [118(1)(u)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/u) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/4/b)

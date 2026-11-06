@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Index of defined expressions: Chapter 7[^M_I_5375c81d-dbf4-46d1-a7bc-ac28a1d7b12d][^key-a3d73e4e790b2e51214a28d2f247ba65]
+## 107. Index of defined expressions: Chapter 7[^M_I_5375c81d-dbf4-46d1-a7bc-ac28a1d7b12d][^c-a3d73e4e790b2e51214a28d2f247ba65]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ The following Table sets out expressions defined or explained for the purposes o
 
 [^M_I_5375c81d-dbf4-46d1-a7bc-ac28a1d7b12d]: Commencement: S. 107 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-a3d73e4e790b2e51214a28d2f247ba65]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/30/section/107) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-a3d73e4e790b2e51214a28d2f247ba65]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/30/section/107) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

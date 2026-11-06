@@ -27,7 +27,7 @@ summary: ''
 
 MEDICINES
 
-The Medicated Feedingstuffs (Amendment) (England, Scotland and Wales) Regulations 2002 (revoked)[^key-8f4f9499e9291430235e63e4fa72a6f5]
+The Medicated Feedingstuffs (Amendment) (England, Scotland and Wales) Regulations 2002 (revoked)[^c-8f4f9499e9291430235e63e4fa72a6f5]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 31st March 2002
 
-[^key-8f4f9499e9291430235e63e4fa72a6f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f4f9499e9291430235e63e4fa72a6f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-8f4f9499e9291430235e63e4fa72a6f5]
+## 1. Title, commencement and extent[^c-8f4f9499e9291430235e63e4fa72a6f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Medicated Feedingstuffs Regulations 1998[^key-8f4f9499e9291430235e63e4fa72a6f5]
+## 2. Amendment of the Medicated Feedingstuffs Regulations 1998[^c-8f4f9499e9291430235e63e4fa72a6f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f4f9499e9291430235e63e4fa72a6f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f4f9499e9291430235e63e4fa72a6f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Substituted Schedule 1[^key-8f4f9499e9291430235e63e4fa72a6f5]
+## SCHEDULE — Substituted Schedule 1[^c-8f4f9499e9291430235e63e4fa72a6f5]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 1 — Fees[^key-8f4f9499e9291430235e63e4fa72a6f5]
+## Schedule 1 — Fees[^c-8f4f9499e9291430235e63e4fa72a6f5]
 
 Regulations 2(1) and 35(1)
 
-[^key-8f4f9499e9291430235e63e4fa72a6f5]
+[^c-8f4f9499e9291430235e63e4fa72a6f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f4f9499e9291430235e63e4fa72a6f5]
+[^c-8f4f9499e9291430235e63e4fa72a6f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8f4f9499e9291430235e63e4fa72a6f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f4f9499e9291430235e63e4fa72a6f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f4f9499e9291430235e63e4fa72a6f5]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), reg. 44(5), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-8f4f9499e9291430235e63e4fa72a6f5]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), reg. 44(5), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

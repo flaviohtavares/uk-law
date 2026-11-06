@@ -52,7 +52,7 @@ In this Act—
 
 This Act shall apply to any common the whole or any part whereof is situate within the Metropolitan Police District as defined at the passing of this Act (referred to in this Act as a metropolitan common).
 
-## 5. Exclusion of authority of commissioners to inclose, etc.[^key-d32a99b4d3b8ad511444ab5e7fd5d76e]
+## 5. Exclusion of authority of commissioners to inclose, etc.[^c-d32a99b4d3b8ad511444ab5e7fd5d76e]
 
 The Commissioners shall not entertain an application for the inclosure of a metropolitan common which is under the control and management of a London borough council *(Extent: E+W)*, or any part thereof; . . . [^c564695] and notwithstanding any proceedings taken under any Act other than this Act, or any provisional order of the Commissioners made but not already confirmed by Act of Parliament, proceedings may be taken under this Act in relation to any metropolitan common.
 
@@ -120,7 +120,7 @@ Where the Commissioners certify a scheme they shall cause printed copies of it t
 
 ## 21. Contents of report.[^c564700]
 
-The Commissioners in such annual report shall set forth in full every scheme certified by them during the year to which the report relates, and shall state the grounds of their approval thereof, and the objections, if any, made thereto and over-ruled, and all proceedings had in respect of those objections, and the grounds on which they were over-ruled. *(affected by repeal, see note)*[^key-8d774ef44e153bb1368c9506a8b247b0]
+The Commissioners in such annual report shall set forth in full every scheme certified by them during the year to which the report relates, and shall state the grounds of their approval thereof, and the objections, if any, made thereto and over-ruled, and all proceedings had in respect of those objections, and the grounds on which they were over-ruled. *(affected by repeal, see note)*[^c-8d774ef44e153bb1368c9506a8b247b0]
 
 ## 22. Confirmation of scheme by Act of Parliament.
 
@@ -182,7 +182,7 @@ Every such warrant shall be exempt from stamp duty, and shall be inrolled as con
 
 From and immediately after the inrolment of the warrant the grantees by force of this Act shall be deemed to be in the actual seisin or possession of the lands or rights in the warrant specified, and shall hold and enjoy the same according to the warrant, for the purposes therein specified.
 
-## 33. Stamp duty land tax[^key-6f3b51e85e905000346ba6f946be3c54]
+## 33. Stamp duty land tax[^c-6f3b51e85e905000346ba6f946be3c54]
 
 (1) A land transaction effected in pursuance of a grant under section 32 above is exempt from charge for the purposes of stamp duty land tax.
 
@@ -229,7 +229,7 @@ Witness, *C.D.*
 
 [^c564694]: Marginal citation: [1845 c. 118](https://www.legislation.gov.uk/ukpga/1845/118).
 
-[^key-d32a99b4d3b8ad511444ab5e7fd5d76e]: Textual amendment: Words in s. 5 inserted (E.W.) (1.10.2007 for E. and 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2006/26/schedule/4/paragraph/1) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/i); [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(i)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/i)
+[^c-d32a99b4d3b8ad511444ab5e7fd5d76e]: Textual amendment: Words in s. 5 inserted (E.W.) (1.10.2007 for E. and 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2006/26/schedule/4/paragraph/1) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/i); [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(i)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/i)
 
 [^c564695]: Textual amendment: Words repealed by [Statute Law Revision Act 1893 (c. 14)](https://www.legislation.gov.uk/ukpga/1893/14)
 
@@ -243,7 +243,7 @@ Witness, *C.D.*
 
 [^c564700]: Modification: S. 21 extended by [Commons Act 1889 (c. 30)](https://www.legislation.gov.uk/ukpga/1889/30), [s. 21](https://www.legislation.gov.uk/ukpga/1889/30/section/21).
 
-[^key-8d774ef44e153bb1368c9506a8b247b0]: Textual amendment: S. 21 repealed (E.W.) (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/i); [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/2386/article/3/q)
+[^c-8d774ef44e153bb1368c9506a8b247b0]: Textual amendment: S. 21 repealed (E.W.) (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/i); [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/2386/article/3/q)
 
 [^c564701]: Textual amendment: Words repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17)
 
@@ -261,7 +261,7 @@ Witness, *C.D.*
 
 [^c564709]: Textual amendment: S. 31 repealed by [Charities Act 1960 (c. 58)](https://www.legislation.gov.uk/ukpga/1960/58), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1960/58/schedule/7/part/II)
 
-[^key-6f3b51e85e905000346ba6f946be3c54]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/Vict/29-30/122/section/33) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/2)
+[^c-6f3b51e85e905000346ba6f946be3c54]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/Vict/29-30/122/section/33) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/2)
 
 [^c564710]: Modification: References to local rate to be construed as references to general rate: [General Rate Act 1967 (c. 97)](https://www.legislation.gov.uk/ukpga/1967/97), [s. 116(2)](https://www.legislation.gov.uk/ukpga/1967/97/section/116/2)
 

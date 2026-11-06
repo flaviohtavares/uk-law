@@ -32,7 +32,7 @@ summary: ''
 
 WATER
 
-The Surface Waters (Shellfish) (Classification) (Scotland) Amendment Regulations 2007 (revoked)[^key-a0a90f1eb1798acef0efb8feeee677f6]
+The Surface Waters (Shellfish) (Classification) (Scotland) Amendment Regulations 2007 (revoked)[^c-a0a90f1eb1798acef0efb8feeee677f6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th October 2007
 
-[^key-a0a90f1eb1798acef0efb8feeee677f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0a90f1eb1798acef0efb8feeee677f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a0a90f1eb1798acef0efb8feeee677f6]
+## 1. Citation and commencement[^c-a0a90f1eb1798acef0efb8feeee677f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Surface Waters (Shellfish) (Classification) (Scotland) Regulations 1997[^key-a0a90f1eb1798acef0efb8feeee677f6]
+## 2. Amendments to the Surface Waters (Shellfish) (Classification) (Scotland) Regulations 1997[^c-a0a90f1eb1798acef0efb8feeee677f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0a90f1eb1798acef0efb8feeee677f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0a90f1eb1798acef0efb8feeee677f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a0a90f1eb1798acef0efb8feeee677f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0a90f1eb1798acef0efb8feeee677f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0a90f1eb1798acef0efb8feeee677f6]: Textual amendment: Regulations revoked (22.12.2013) by [The Water Environment (River Basin Management Planning Further Provision) (Scotland) Regulations 2013 (S.S.I. 2013/323)](https://www.legislation.gov.uk/ssi/2013/323), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/1/1), [29(1)(f)](https://www.legislation.gov.uk/ssi/2013/323/regulation/29/1/f)
+[^c-a0a90f1eb1798acef0efb8feeee677f6]: Textual amendment: Regulations revoked (22.12.2013) by [The Water Environment (River Basin Management Planning Further Provision) (Scotland) Regulations 2013 (S.S.I. 2013/323)](https://www.legislation.gov.uk/ssi/2013/323), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/323/regulation/1/1), [29(1)(f)](https://www.legislation.gov.uk/ssi/2013/323/regulation/29/1/f)

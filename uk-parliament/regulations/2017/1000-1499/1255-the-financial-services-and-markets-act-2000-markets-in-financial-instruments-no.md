@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (revoked)[^key-2cb8863bbfee1aacf5e7a677e034137d]
+The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (revoked)[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 Made
 
@@ -44,110 +44,110 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 2
 
-[^key-2cb8863bbfee1aacf5e7a677e034137d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2cb8863bbfee1aacf5e7a677e034137d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2cb8863bbfee1aacf5e7a677e034137d]
+## 1. Citation and commencement[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Financial Services and Markets Act 2000[^key-2cb8863bbfee1aacf5e7a677e034137d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-2cb8863bbfee1aacf5e7a677e034137d]
+## 3. Financial Services and Markets Act 2000[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^key-2cb8863bbfee1aacf5e7a677e034137d]
+## 4. Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^key-2cb8863bbfee1aacf5e7a677e034137d]
+## 5. Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges and Clearing Houses) Regulations 2001[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Companies Act 2006[^key-2cb8863bbfee1aacf5e7a677e034137d]
+## 6. Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^key-2cb8863bbfee1aacf5e7a677e034137d]
+## 7. Companies Act 2006[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Recognised Auction Platform Regulations 2011[^key-2cb8863bbfee1aacf5e7a677e034137d]
+## 8. Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017[^key-2cb8863bbfee1aacf5e7a677e034137d]
+## 9. Recognised Auction Platform Regulations 2011[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^key-2cb8863bbfee1aacf5e7a677e034137d]
+## 10. Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 11. Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^c-2cb8863bbfee1aacf5e7a677e034137d]
 
-**13.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2cb8863bbfee1aacf5e7a677e034137d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2cb8863bbfee1aacf5e7a677e034137d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-2cb8863bbfee1aacf5e7a677e034137d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2cb8863bbfee1aacf5e7a677e034137d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2cb8863bbfee1aacf5e7a677e034137d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2cb8863bbfee1aacf5e7a677e034137d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/1255) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-2cb8863bbfee1aacf5e7a677e034137d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/1255) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Other voting provisions[^key-fb7b2a385b229eddaf83bf47f0668a47]
+## 7. Other voting provisions[^c-fb7b2a385b229eddaf83bf47f0668a47]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb7b2a385b229eddaf83bf47f0668a47]: Commencement: Art. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-fb7b2a385b229eddaf83bf47f0668a47]: Commencement: Art. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

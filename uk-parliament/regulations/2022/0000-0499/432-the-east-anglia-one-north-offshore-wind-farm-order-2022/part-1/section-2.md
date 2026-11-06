@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-7b89c080b5436e72874339191742dcba]
+## 2. Interpretation[^c-7b89c080b5436e72874339191742dcba]
 
 *Extent: E+W+S*
 
@@ -73,7 +73,7 @@ summary: ''
 - “**gravity base foundation**” means a structure principally of steel, concrete, or steel and concrete which rests on the seabed either due to its own weight with or without added ballast or additional skirts and associated equipment including scour protection, J-tubes, corrosion protection systems and access platforms and equipment;
 - “**grid connection works**” means Work Nos. 34 and 38 to 43 and any related associated development;
 - “**highway**” has the same meaning as in the 1980 Act[^M_M_f3f6fbd0-e422-4c18-8c34-cee3ffe146ae];
-- “[^key-0142b99314f7a3870fa9852b5e27bc64]**highway authority**” has the same meaning as in the 1980 Act;
+- “[^c-0142b99314f7a3870fa9852b5e27bc64]**highway authority**” has the same meaning as in the 1980 Act;
 - “**Historic England**” means the Historic Buildings and Monuments Commission for England;
 - “horizontal directional drilling” is a trenchless technique for installing cables and cable ducts involving drilling in an arc between two points;
 - “**horizontal directional drilling compound**” means a construction site associated with the transmission works where horizontal directional drilling is proposed including hard standings, lay down and storage areas for construction materials and equipment, areas for spoil, areas for vehicular parking, bunded storage areas, areas for welfare facilities including offices and canteen and washroom facilities, wheel washing facilities, workshop facilities and temporary fencing or other means of enclosure and areas for other facilities required for construction purposes;
@@ -180,7 +180,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7b89c080b5436e72874339191742dcba]: Commencement: Art. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-7b89c080b5436e72874339191742dcba]: Commencement: Art. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
 [^f00006]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -208,7 +208,7 @@ summary: ''
 
 [^M_M_f3f6fbd0-e422-4c18-8c34-cee3ffe146ae]: Marginal citation: “highway” is defined in section 328(1) ... \[Editorial note: Words in art. 2(1) footnote omitted (22.12.2022) by virtue of [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)\]
 
-[^key-0142b99314f7a3870fa9852b5e27bc64]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/432/article/2/1) inserted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-0142b99314f7a3870fa9852b5e27bc64]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/432/article/2/1) inserted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
 [^f00019]: Footnote: Section 329(1) was amended by Schedule 1(1) para. 60(2)(a) to the Infrastructure Act [2015 c. 7](https://www.legislation.gov.uk/ukpga/2015/7).
 

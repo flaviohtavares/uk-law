@@ -51,20 +51,20 @@ The Welsh Ministers are designated[^f00001] for the purposes of section 2(2) of 
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred upon them by section 2(2) of the European Communities Act 1972 and section 67, 69, 77(3) and (4) and 213(2) of the Water Industry Act 1991[^f00003]:
 
-## 1. Title, commencement and interpretation[^key-064bb8d4eaaf5e77fd615683a5113279]
+## 1. Title, commencement and interpretation[^c-064bb8d4eaaf5e77fd615683a5113279]
 
 (1) The title of these Regulations is the Water Supply (Water Quality) (Amendment) Regulations 2016 and they come into force on 14 April 2016.
 
 (2) In these Regulations, “the 2010 Regulations” means the Water Supply (Water Quality) Regulations 2010[^f00004].
 
-## 2. Amendments to regulation 6 (monitoring: general provisions)[^key-d1780874843e4776d7daa6c5658c8a92]
+## 2. Amendments to regulation 6 (monitoring: general provisions)[^c-d1780874843e4776d7daa6c5658c8a92]
 
 In regulation 6 of the 2010 Regulations—
 
 - (a) in paragraph (6), omit the words “and, subject to paragraph (7), the parameters relevant to radioactivity (total indicative dose and tritium),”; and
 - (b) omit paragraphs (7) to (9).
 
-## 3. New regulation 6A (monitoring: radioactive substances)[^key-7e5bdf8bb7769fbbe2100dbc65637448]
+## 3. New regulation 6A (monitoring: radioactive substances)[^c-7e5bdf8bb7769fbbe2100dbc65637448]
 
 After regulation 6 of the 2010 Regulations, insert—
 
@@ -86,7 +86,7 @@ After regulation 6 of the 2010 Regulations, insert—
 >
 > (8) The additional requirements in Schedule 5 apply to monitoring for compliance with the indicative dose parameter.
 
-## 4. Amendment of Schedule 2 (indicator parameters)[^key-ce13240a4c779a7429108a9e1f329688]
+## 4. Amendment of Schedule 2 (indicator parameters)[^c-ce13240a4c779a7429108a9e1f329688]
 
 In the table in Schedule 2 to the 2010 Regulations, omit—
 
@@ -94,11 +94,11 @@ In the table in Schedule 2 to the 2010 Regulations, omit—
 - (b) the entry in relation to tritium (for radioactivity); and
 - (c) note (ii).
 
-## 5. Insertion of new Schedule 2A (radioactive substances parameters)[^key-992fe24ae0b00a75dcd15c2b1fffa3dc]
+## 5. Insertion of new Schedule 2A (radioactive substances parameters)[^c-992fe24ae0b00a75dcd15c2b1fffa3dc]
 
 After Schedule 2 (indicator parameters) to the 2010 Regulations, insert the schedule set out in Schedule 1 to these Regulations.
 
-## 6. Amendment of Schedule 3 (monitoring)[^key-c83941083b9d9673e0705567fc85ce7d]
+## 6. Amendment of Schedule 3 (monitoring)[^c-c83941083b9d9673e0705567fc85ce7d]
 
 In Schedule 3 to the 2010 Regulations—
 
@@ -131,11 +131,11 @@ In Schedule 3 to the 2010 Regulations—
     ; and
   - (iii) omit note (v).
 
-## 7. Insertion of new Schedule 3A (monitoring of radioactive substances)[^key-4887fda2a41240390ae5e7fd22c572c9]
+## 7. Insertion of new Schedule 3A (monitoring of radioactive substances)[^c-4887fda2a41240390ae5e7fd22c572c9]
 
 After Schedule 3 (monitoring) to the 2010 Regulations insert the schedule set out in Schedule 2 to these Regulations.
 
-## 8. Insertion of new Schedule 5 (monitoring for indicative dose and analytical performance characteristics)[^key-26cadf9bdc8a64fd8f1f327c8f410231]
+## 8. Insertion of new Schedule 5 (monitoring for indicative dose and analytical performance characteristics)[^c-26cadf9bdc8a64fd8f1f327c8f410231]
 
 After Schedule 4(analytical methodology) to the 2010 Regulations insert the schedule set out in Schedule 3 to these Regulations.
 
@@ -145,7 +145,7 @@ Minister for Natural Resources, one of the Welsh Ministers
 
 21 March 2016
 
-## SCHEDULE 1[^key-6da252b978429c0c500e1f69f9ddca01]
+## SCHEDULE 1[^c-6da252b978429c0c500e1f69f9ddca01]
 
 Regulation 5
 
@@ -172,7 +172,7 @@ Regulation 5
 >
 > [^f01000][^f01001]
 
-## SCHEDULE 2[^key-53fe9207bf6c75cedb4abd4eb57565f9]
+## SCHEDULE 2[^c-53fe9207bf6c75cedb4abd4eb57565f9]
 
 Regulation 7
 
@@ -230,7 +230,7 @@ Regulation 7
 >
 > Where a parametric value in the radioactive substances parameters table is exceeded in relation to a particular sample taken by a water undertaker, the Welsh Ministers must specify, by notice in writing to the water undertaker, the extent of resampling necessary to ensure that the measured values are representative of an average activity concentration for a full year.
 
-## SCHEDULE 3[^key-4a0680108c9fae9536c3727f394a9e15]
+## SCHEDULE 3[^c-4a0680108c9fae9536c3727f394a9e15]
 
 Regulation 8
 
@@ -376,25 +376,25 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
     References in Schedule 1 to the 1999 Order to specific sections of the Water Industry Act 1991 are treated by section 100(6) of the Water Act 2003 as referring to those sections as amended by the Water Act 2003. *See* section 219 (as amended) of the Water Industry Act 1991 for the definitions of “supply system” and “licensed water supplier”. By virtue of section 162 of, and paragraphs 28 and 30 of Schedule 11 to, the Government of Wales Act 2006, the functions conferred on the Assembly are now exercisable by the Welsh Ministers.
 
-[^key-064bb8d4eaaf5e77fd615683a5113279]: Commencement: Reg. 1 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-064bb8d4eaaf5e77fd615683a5113279]: Commencement: Reg. 1 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2010/994 (W. 99)](https://www.legislation.gov.uk/wsi/2010/994) amended by [S.I. 2011/14](https://www.legislation.gov.uk/uksi/2011/14), [2013/235](https://www.legislation.gov.uk/uksi/2013/235) and [2013/1387](https://www.legislation.gov.uk/uksi/2013/1387).
 
-[^key-d1780874843e4776d7daa6c5658c8a92]: Commencement: Reg. 2 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-d1780874843e4776d7daa6c5658c8a92]: Commencement: Reg. 2 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
-[^key-7e5bdf8bb7769fbbe2100dbc65637448]: Commencement: Reg. 3 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-7e5bdf8bb7769fbbe2100dbc65637448]: Commencement: Reg. 3 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
-[^key-ce13240a4c779a7429108a9e1f329688]: Commencement: Reg. 4 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-ce13240a4c779a7429108a9e1f329688]: Commencement: Reg. 4 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
-[^key-992fe24ae0b00a75dcd15c2b1fffa3dc]: Commencement: Reg. 5 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-992fe24ae0b00a75dcd15c2b1fffa3dc]: Commencement: Reg. 5 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
-[^key-c83941083b9d9673e0705567fc85ce7d]: Commencement: Reg. 6 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-c83941083b9d9673e0705567fc85ce7d]: Commencement: Reg. 6 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
-[^key-4887fda2a41240390ae5e7fd22c572c9]: Commencement: Reg. 7 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-4887fda2a41240390ae5e7fd22c572c9]: Commencement: Reg. 7 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
-[^key-26cadf9bdc8a64fd8f1f327c8f410231]: Commencement: Reg. 8 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-26cadf9bdc8a64fd8f1f327c8f410231]: Commencement: Reg. 8 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
-[^key-6da252b978429c0c500e1f69f9ddca01]: Commencement: Sch. 1 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-6da252b978429c0c500e1f69f9ddca01]: Commencement: Sch. 1 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
 [^f01000]: Footnote: (i)
 
@@ -404,9 +404,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
     If tritium concentration exceeds its parametric value, an investigation (which may include analysis) of the presence of artificial radionuclides must be carried out.
 
-[^key-53fe9207bf6c75cedb4abd4eb57565f9]: Commencement: Sch. 2 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-53fe9207bf6c75cedb4abd4eb57565f9]: Commencement: Sch. 2 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
-[^key-4a0680108c9fae9536c3727f394a9e15]: Commencement: Sch. 3 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
+[^c-4a0680108c9fae9536c3727f394a9e15]: Commencement: Sch. 3 in force at 14.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/410/regulation/1/1)
 
 [^f00005]: Footnote: OJ No. L 159, 29.6.1996, p. 1.
 

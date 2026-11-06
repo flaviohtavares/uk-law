@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The National College for Advanced Transport and Infrastructure (Designated Institution in Further Education and Revocations) Order 2021 (revoked)[^key-f50060664884300e53f36bb35c9bba14]
+The National College for Advanced Transport and Infrastructure (Designated Institution in Further Education and Revocations) Order 2021 (revoked)[^c-f50060664884300e53f36bb35c9bba14]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 30th April 2021
 
-[^key-f50060664884300e53f36bb35c9bba14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f50060664884300e53f36bb35c9bba14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-f50060664884300e53f36bb35c9bba14]
+## 1. Citation, commencement, extent and application[^c-f50060664884300e53f36bb35c9bba14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f50060664884300e53f36bb35c9bba14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f50060664884300e53f36bb35c9bba14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation[^key-f50060664884300e53f36bb35c9bba14]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Revocations[^key-f50060664884300e53f36bb35c9bba14]
+## 3. Designation[^c-f50060664884300e53f36bb35c9bba14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f50060664884300e53f36bb35c9bba14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 4. Revocations[^c-f50060664884300e53f36bb35c9bba14]
 
-[^key-f50060664884300e53f36bb35c9bba14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f50060664884300e53f36bb35c9bba14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f50060664884300e53f36bb35c9bba14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f50060664884300e53f36bb35c9bba14]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/446) revoked (23.10.2023) by [The National College for Advanced Transport and Infrastructure (Designated Institution in Further Education and Revocations) (Revocation) Order 2023 (S.I. 2023/1057)](https://www.legislation.gov.uk/uksi/2023/1057), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1057/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1057/article/2)
+[^c-f50060664884300e53f36bb35c9bba14]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/446) revoked (23.10.2023) by [The National College for Advanced Transport and Infrastructure (Designated Institution in Further Education and Revocations) (Revocation) Order 2023 (S.I. 2023/1057)](https://www.legislation.gov.uk/uksi/2023/1057), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1057/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1057/article/2)

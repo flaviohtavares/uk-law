@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Harassment etc. of a person in his home[^key-2aafb09f6404dcbb7dafc704dc7c8c74]
+## 126. Harassment etc. of a person in his home[^c-2aafb09f6404dcbb7dafc704dc7c8c74]
 
 *Extent: E+W*
 
@@ -53,14 +53,14 @@ summary: ''
 >
 > (7) In this section “**dwelling**” has the same meaning as in Part 1 of the Public Order Act 1986.
 
-(2)[^key-6e7f09aac396c0b71cc88979c2a9782a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6e7f09aac396c0b71cc88979c2a9782a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-97a0e1101802069a5d4feca92d7ac117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-97a0e1101802069a5d4feca92d7ac117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2aafb09f6404dcbb7dafc704dc7c8c74]: Commencement: S. 126 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(m)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/m)
+[^c-2aafb09f6404dcbb7dafc704dc7c8c74]: Commencement: S. 126 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(m)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/m)
 
-[^key-6e7f09aac396c0b71cc88979c2a9782a]: Textual amendment: S. 126(2) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lxi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-6e7f09aac396c0b71cc88979c2a9782a]: Textual amendment: S. 126(2) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lxi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
-[^key-97a0e1101802069a5d4feca92d7ac117]: Textual amendment: S. 126(3) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lxi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-97a0e1101802069a5d4feca92d7ac117]: Textual amendment: S. 126(3) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lxi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)

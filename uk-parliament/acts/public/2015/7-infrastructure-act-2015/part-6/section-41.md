@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Maximising economic recovery of UK petroleum[^key-e2c0959c69da0ed6e6f03f6c6014ab34]
+## 41. Maximising economic recovery of UK petroleum[^c-e2c0959c69da0ed6e6f03f6c6014ab34]
 
 *Extent: E+W+S*
 
@@ -193,4 +193,4 @@ After section 9 of the Petroleum Act 1998 insert—
 
 ## Annotations
 
-[^key-e2c0959c69da0ed6e6f03f6c6014ab34]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2015/7/section/41) in force at 12.4.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/b)
+[^c-e2c0959c69da0ed6e6f03f6c6014ab34]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2015/7/section/41) in force at 12.4.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Trees subject to tree preservation orders[^key-9580604def77f1b627ba6cec3953d240]
+## 37. Trees subject to tree preservation orders[^c-9580604def77f1b627ba6cec3953d240]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9580604def77f1b627ba6cec3953d240]: Commencement: Art. 37 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-9580604def77f1b627ba6cec3953d240]: Commencement: Art. 37 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

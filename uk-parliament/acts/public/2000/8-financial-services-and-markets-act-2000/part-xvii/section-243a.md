@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243A. Authorisation orders: authorised money market funds[^key-a9ea763158889f207413b6b18eb6883d]
+## 243A. Authorisation orders: authorised money market funds[^c-a9ea763158889f207413b6b18eb6883d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9ea763158889f207413b6b18eb6883d]: Textual amendment: S. 243A inserted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2018/698/regulation/2/7)
+[^c-a9ea763158889f207413b6b18eb6883d]: Textual amendment: S. 243A inserted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2018/698/regulation/2/7)

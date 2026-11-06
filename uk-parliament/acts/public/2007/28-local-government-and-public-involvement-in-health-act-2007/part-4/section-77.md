@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Extension of power to certain parish councils[^key-d0edaee4e23ac51f67ddf44b0e6e0534][^key-183fa3fcb882d28f75171c3f7edbabde]
+## 77. Extension of power to certain parish councils[^c-d0edaee4e23ac51f67ddf44b0e6e0534][^c-183fa3fcb882d28f75171c3f7edbabde]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0edaee4e23ac51f67ddf44b0e6e0534]: Commencement: S. 77 in force at 1.4.2008 for specified purposes by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 5](https://www.legislation.gov.uk/uksi/2008/917/article/5)
+[^c-d0edaee4e23ac51f67ddf44b0e6e0534]: Commencement: S. 77 in force at 1.4.2008 for specified purposes by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 5](https://www.legislation.gov.uk/uksi/2008/917/article/5)
 
-[^key-183fa3fcb882d28f75171c3f7edbabde]: Commencement: S. 77 in force at 31.12.2008 in so far as not already in force by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/3110/article/3/a)
+[^c-183fa3fcb882d28f75171c3f7edbabde]: Commencement: S. 77 in force at 31.12.2008 in so far as not already in force by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/3110/article/3/a)

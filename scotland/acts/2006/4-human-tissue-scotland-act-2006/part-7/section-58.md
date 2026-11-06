@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Ancillary provision[^key-a58b0c658459dd6b3c49cd4ff6c5cd33]
+## 58. Ancillary provision[^c-a58b0c658459dd6b3c49cd4ff6c5cd33]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a58b0c658459dd6b3c49cd4ff6c5cd33]: Commencement: S. 58 in force at 1.9.2006 in so far as not already in force by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-a58b0c658459dd6b3c49cd4ff6c5cd33]: Commencement: S. 58 in force at 1.9.2006 in so far as not already in force by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)

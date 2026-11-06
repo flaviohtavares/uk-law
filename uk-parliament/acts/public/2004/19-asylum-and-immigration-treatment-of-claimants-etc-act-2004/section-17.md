@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Retention of documents[^key-adb0d69e9327b615426e4725cf036fae]
+## 17. Retention of documents[^c-adb0d69e9327b615426e4725cf036fae]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where a document comes into the possession of the Secretary of State or an immig
 
 ## Annotations
 
-[^key-adb0d69e9327b615426e4725cf036fae]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2004/19/section/17) in force at 1.12.2004 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule)
+[^c-adb0d69e9327b615426e4725cf036fae]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2004/19/section/17) in force at 1.12.2004 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule)

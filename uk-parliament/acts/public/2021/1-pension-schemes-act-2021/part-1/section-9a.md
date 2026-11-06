@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Commencement of operation of an unconnected multiple employer scheme[^key-b3b3efb2de608d10967abe27529c7bad]
+## 9A. Commencement of operation of an unconnected multiple employer scheme[^c-b3b3efb2de608d10967abe27529c7bad]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3b3efb2de608d10967abe27529c7bad]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2021/1/section/9A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/1313/regulation/6)
+[^c-b3b3efb2de608d10967abe27529c7bad]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/2021/1/section/9A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/1313/regulation/6)

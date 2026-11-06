@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Interpretation of this Part[^key-98d41b180eb502132832b9533813ed9d][^key-fa3364609e5a233d37d51ea306b086b5]
+## 75. Interpretation of this Part[^c-98d41b180eb502132832b9533813ed9d][^c-fa3364609e5a233d37d51ea306b086b5]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-98d41b180eb502132832b9533813ed9d]: Commencement: S. 75 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-98d41b180eb502132832b9533813ed9d]: Commencement: S. 75 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-fa3364609e5a233d37d51ea306b086b5]: Commencement: [S. 75](https://www.legislation.gov.uk/asc/2023/3/section/75) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-fa3364609e5a233d37d51ea306b086b5]: Commencement: [S. 75](https://www.legislation.gov.uk/asc/2023/3/section/75) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

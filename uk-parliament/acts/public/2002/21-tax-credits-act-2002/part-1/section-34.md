@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Supplementary (affected by repeal, see note)[^c17823881][^key-a2531265b08f7ca2190513c24c66a27e][^key-a2531265b08f7ca2190513c24c66a27e]
+## 34. Supplementary (affected by repeal, see note)[^c17823881][^c-a2531265b08f7ca2190513c24c66a27e][^c-a2531265b08f7ca2190513c24c66a27e]
 
 *Extent: E+W+S+N.I.*
 
-Schedule 2 (penalties: supplementary) has effect. *(affected by repeal, see note)*[^key-a2531265b08f7ca2190513c24c66a27e]
+Schedule 2 (penalties: supplementary) has effect. *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
 
 ## Annotations
 
 [^c17823881]: Commencement: S. 34 wholly in force at 6.4.2003; s. 34 not in force at Royal Assent, see s. 61; s. 34 in force for certain purposes at 1.8.2002 and 1.1.2003 and otherwise in force at 6.4.2003 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2)
 
-[^key-a2531265b08f7ca2190513c24c66a27e]: Textual amendment: Pt. 1 repealed (1.2.2019 with savings in relation to specified cases in [art. 3](https://www.legislation.gov.uk/uksi/2019/167/article/3) of the commencing S.I.) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167), [arts. 2](https://www.legislation.gov.uk/uksi/2019/167/article/2), [3](https://www.legislation.gov.uk/uksi/2019/167/article/3)
+[^c-a2531265b08f7ca2190513c24c66a27e]: Textual amendment: Pt. 1 repealed (1.2.2019 with savings in relation to specified cases in [art. 3](https://www.legislation.gov.uk/uksi/2019/167/article/3) of the commencing S.I.) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167), [arts. 2](https://www.legislation.gov.uk/uksi/2019/167/article/2), [3](https://www.legislation.gov.uk/uksi/2019/167/article/3)

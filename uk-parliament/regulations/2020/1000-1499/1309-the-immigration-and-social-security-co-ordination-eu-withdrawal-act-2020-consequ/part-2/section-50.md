@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amendment of the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020[^key-6474b1082c82dab60e583cd8cfe6ba2d][^M_I_ad0d9e63-b434-40a6-d885-0cc1b384ece9]
+## 50. Amendment of the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020[^c-6474b1082c82dab60e583cd8cfe6ba2d][^M_I_ad0d9e63-b434-40a6-d885-0cc1b384ece9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6474b1082c82dab60e583cd8cfe6ba2d]: Commencement: Reg. 50 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-6474b1082c82dab60e583cd8cfe6ba2d]: Commencement: Reg. 50 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_ad0d9e63-b434-40a6-d885-0cc1b384ece9]: Commencement: Reg. 50 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

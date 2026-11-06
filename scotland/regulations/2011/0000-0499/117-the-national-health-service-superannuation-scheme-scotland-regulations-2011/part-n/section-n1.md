@@ -40,7 +40,7 @@ summary: ''
 (3) Except in the case of a person to whom regulation B6 applies, the Scottish Ministers must not accept a transfer payment if—
 
 - (a) except where paragraph (4) applies, the member joins this Section of the scheme, or requests the Scottish Ministers to accept the transfer payment, after reaching age 60; or
-- (b) the request is made following a notice given under regulation B5 (joining or rejoining this Section of the scheme after opting out)[^key-ab6c1d40ad5ec5aaa78974b4e533297f] in circumstances where the member had a previous opportunity to request the Scottish Ministers to accept a transfer payment in respect of those same rights but did not take that opportunity.
+- (b) the request is made following a notice given under regulation B5 (joining or rejoining this Section of the scheme after opting out)[^c-ab6c1d40ad5ec5aaa78974b4e533297f] in circumstances where the member had a previous opportunity to request the Scottish Ministers to accept a transfer payment in respect of those same rights but did not take that opportunity.
 
 (4) This paragraph applies where the member's employment is transferred to an employing authority as a result of a transfer of an undertaking to that employing authority.
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab6c1d40ad5ec5aaa78974b4e533297f]: Textual amendment: Words in reg. N1(3)(b) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/109)](https://www.legislation.gov.uk/ssi/2013/109), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/109/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2013/109/regulation/16) (with [reg. 71](https://www.legislation.gov.uk/ssi/2013/109/regulation/71))
+[^c-ab6c1d40ad5ec5aaa78974b4e533297f]: Textual amendment: Words in reg. N1(3)(b) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/109)](https://www.legislation.gov.uk/ssi/2013/109), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/109/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2013/109/regulation/16) (with [reg. 71](https://www.legislation.gov.uk/ssi/2013/109/regulation/71))

@@ -1147,7 +1147,7 @@ Section 13
 >   - (f) avoidance of an obligation to deduct or account for tax, and
 > - “**treaty shopping case**” means a case where this paragraph applies as a result of sub-paragraph (1)(b).
 
-**15.**[^key-2498adf1499b58cb71cc65f43fdc0d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-2498adf1499b58cb71cc65f43fdc0d2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** After Schedule 1B insert—
 
@@ -3496,4 +3496,4 @@ has effect in relation to times after that date as if made or done under or for 
 
 ## Annotations
 
-[^key-2498adf1499b58cb71cc65f43fdc0d2e]: Textual amendment: Sch. 1 para. 15 omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/8) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-2498adf1499b58cb71cc65f43fdc0d2e]: Textual amendment: Sch. 1 para. 15 omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/8) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))

@@ -41,7 +41,7 @@ In Classes **3** and **4** of the Table to this Schedule “height**”** shall 
 </tbody>
 </table>
 
-[^key-c5dbb90d4aa7ce5ccbcf7a58a66cab92]
+[^c-c5dbb90d4aa7ce5ccbcf7a58a66cab92]
 
 | *Class**(1)* | *Description of exempted building**(2)* |
 | --- | --- |
@@ -65,4 +65,4 @@ In Classes **3** and **4** of the Table to this Schedule “height**”** shall 
 
 ## Annotations
 
-[^key-c5dbb90d4aa7ce5ccbcf7a58a66cab92]: Textual amendment: [Sch. 2 Class 1(a)](https://www.legislation.gov.uk/nisr/2012/192/schedule/2) substituted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [8](https://www.legislation.gov.uk/nisr/2016/412/regulation/8) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-c5dbb90d4aa7ce5ccbcf7a58a66cab92]: Textual amendment: [Sch. 2 Class 1(a)](https://www.legislation.gov.uk/nisr/2012/192/schedule/2) substituted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [8](https://www.legislation.gov.uk/nisr/2016/412/regulation/8) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))

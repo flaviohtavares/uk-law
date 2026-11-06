@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93A. Disqualification orders etc.[^key-3294d918fb3cd087222640c58608b800]
+## 93A. Disqualification orders etc.[^c-3294d918fb3cd087222640c58608b800]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ the clerk of court must provide an extract of the disqualification or, as the ca
 
 ## Annotations
 
-[^key-3294d918fb3cd087222640c58608b800]: Textual amendment: S. 93A inserted (1.4.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 8](https://www.legislation.gov.uk/asp/2011/14/section/8), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2013/82/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2013/82/article/3/3))
+[^c-3294d918fb3cd087222640c58608b800]: Textual amendment: S. 93A inserted (1.4.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 8](https://www.legislation.gov.uk/asp/2011/14/section/8), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2013/82/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2013/82/article/3/3))

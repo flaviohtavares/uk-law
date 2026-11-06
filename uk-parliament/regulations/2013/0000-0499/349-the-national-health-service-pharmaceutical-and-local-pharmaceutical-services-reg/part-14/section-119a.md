@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119A. Transitional provisions in respect of drugs or appliances supplied in accordance with SSPs[^key-a4c91f030694f7b393b1757d0975f17a]
+## 119A. Transitional provisions in respect of drugs or appliances supplied in accordance with SSPs[^c-a4c91f030694f7b393b1757d0975f17a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4c91f030694f7b393b1757d0975f17a]: Textual amendment: [Reg. 119A](https://www.legislation.gov.uk/uksi/2013/349/regulation/119A) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/990/regulation/3)
+[^c-a4c91f030694f7b393b1757d0975f17a]: Textual amendment: [Reg. 119A](https://www.legislation.gov.uk/uksi/2013/349/regulation/119A) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/990/regulation/3)

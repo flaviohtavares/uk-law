@@ -24,7 +24,7 @@ Article 11(3).
 
 #### Preliminary
 
-**1.** In this Schedule “the investigation” means an investigation under Article 11 [^key-3ce81f642eb5b892fb037e27a86c25eb]....
+**1.** In this Schedule “the investigation” means an investigation under Article 11 [^c-3ce81f642eb5b892fb037e27a86c25eb]....
 
 #### Notices
 
@@ -77,4 +77,4 @@ may deal with the person charged with the offence in any manner in which the cou
 
 ## Annotations
 
-[^key-3ce81f642eb5b892fb037e27a86c25eb]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/1998/3162/schedule/2/paragraph/1) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [s. 3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2), [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/23/schedule/paragraph/5)
+[^c-3ce81f642eb5b892fb037e27a86c25eb]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/1998/3162/schedule/2/paragraph/1) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [s. 3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2), [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/23/schedule/paragraph/5)

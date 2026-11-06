@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Unfair dismissal of reserve forces: no qualifying period of employment[^key-ac605196a283ef86975eb36f86d52dbf]
+## 48. Unfair dismissal of reserve forces: no qualifying period of employment[^c-ac605196a283ef86975eb36f86d52dbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac605196a283ef86975eb36f86d52dbf]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2014/20/section/48) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/d)
+[^c-ac605196a283ef86975eb36f86d52dbf]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2014/20/section/48) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/d)

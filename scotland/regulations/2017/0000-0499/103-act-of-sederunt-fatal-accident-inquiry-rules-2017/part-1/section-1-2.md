@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.2. Interpretation[^key-3a337ce2bad6fa1fc849beaa71b26e94]
+## 1.2. Interpretation[^c-3a337ce2bad6fa1fc849beaa71b26e94]
 
 *Extent: S*
 
-(1) In these Rules , unless the context otherwise requires[^key-c6be500fd009c75ebbad248a0be8f172]—
+(1) In these Rules , unless the context otherwise requires[^c-c6be500fd009c75ebbad248a0be8f172]—
 
 - “**apply**” means apply in accordance with schedule 1, and related expressions are to be construed accordingly;
 - “**the Council Regulation**” means Council Regulation [(EC) No. 1206/2001](https://www.legislation.gov.uk/european/regulation/2001/1206) of 28th May 2001 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters, as amended from time to time;
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a337ce2bad6fa1fc849beaa71b26e94]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/ssi/2017/103/rule/1.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-3a337ce2bad6fa1fc849beaa71b26e94]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/ssi/2017/103/rule/1.2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-c6be500fd009c75ebbad248a0be8f172]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.2/1) inserted (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/2)
+[^c-c6be500fd009c75ebbad248a0be8f172]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.2/1) inserted (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Improvement standards[^key-b6439d0260ef95cb8fcef3cd34510688]
+## 42. Improvement standards[^c-b6439d0260ef95cb8fcef3cd34510688]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6439d0260ef95cb8fcef3cd34510688]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2017/16/section/42) in force at 31.10.2017 by [S.I. 2017/918](https://www.legislation.gov.uk/uksi/2017/918), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/918/regulation/2/d)
+[^c-b6439d0260ef95cb8fcef3cd34510688]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2017/16/section/42) in force at 31.10.2017 by [S.I. 2017/918](https://www.legislation.gov.uk/uksi/2017/918), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/918/regulation/2/d)

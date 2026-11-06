@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. For the protection of the Trust[^key-0b2d1bcae71a0c5ad8de1b5966499a19]
+## 46. For the protection of the Trust[^c-0b2d1bcae71a0c5ad8de1b5966499a19]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 15 (for the protection of the Trust) have effect.
 
 ## Annotations
 
-[^key-0b2d1bcae71a0c5ad8de1b5966499a19]: Commencement: Art. 46 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-0b2d1bcae71a0c5ad8de1b5966499a19]: Commencement: Art. 46 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020[^key-df4e18da4011e61bdbf09610467628ac]
+## 68. The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020[^c-df4e18da4011e61bdbf09610467628ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 12(4) of the Financial Services (Miscellaneous Amendments) (EU Exi
 
 ## Annotations
 
-[^key-df4e18da4011e61bdbf09610467628ac]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2020/1385/regulation/68) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-df4e18da4011e61bdbf09610467628ac]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2020/1385/regulation/68) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00060]: Footnote: [S.I. 2020/628](https://www.legislation.gov.uk/uksi/2020/628).

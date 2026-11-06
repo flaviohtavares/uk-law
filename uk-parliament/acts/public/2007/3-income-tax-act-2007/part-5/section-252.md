@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Meaning of a company being “in administration” or “in receivership”[^key-28dec7460d2926a38601b411d232d3db]
+## 252. Meaning of a company being “in administration” or “in receivership”[^c-28dec7460d2926a38601b411d232d3db]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28dec7460d2926a38601b411d232d3db]: Modification: S. 252 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 50(2)-(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/50/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-28dec7460d2926a38601b411d232d3db]: Modification: S. 252 applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 50(2)-(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/50/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

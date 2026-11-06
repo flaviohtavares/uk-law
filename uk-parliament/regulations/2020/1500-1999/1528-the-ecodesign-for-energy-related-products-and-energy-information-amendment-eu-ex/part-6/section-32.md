@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Application of Commission Delegated Regulation (EU) 2019/2017[^key-bad4ac9ebc079571d68cc8a20e7cc90e]
+## 32. Application of Commission Delegated Regulation (EU) 2019/2017[^c-bad4ac9ebc079571d68cc8a20e7cc90e]
 
 *Extent: E+W+S*
 
-(1) The provisions of Commission Delegated Regulation (EU) 2019/2017 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of household dishwashers and repealing Commission Delegated Regulation (EU) No 1059/2010 specified in paragraphs (3) and (4) apply as if they were provisions of assimilated direct[^key-a660837e10c166dc5b689e3a25065185] legislation.
+(1) The provisions of Commission Delegated Regulation (EU) 2019/2017 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of household dishwashers and repealing Commission Delegated Regulation (EU) No 1059/2010 specified in paragraphs (3) and (4) apply as if they were provisions of assimilated direct[^c-a660837e10c166dc5b689e3a25065185] legislation.
 
 (2) For the purposes of paragraph (1), the provisions specified in paragraphs (3) and (4) apply—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bad4ac9ebc079571d68cc8a20e7cc90e]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-bad4ac9ebc079571d68cc8a20e7cc90e]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
 
-[^key-a660837e10c166dc5b689e3a25065185]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 11(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/11/2/d)
+[^c-a660837e10c166dc5b689e3a25065185]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 11(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/11/2/d)

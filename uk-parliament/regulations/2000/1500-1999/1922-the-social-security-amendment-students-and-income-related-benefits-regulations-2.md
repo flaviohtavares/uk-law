@@ -51,9 +51,9 @@ These Regulations may be cited as the Social Security Amendment (Students and In
 - (b) for the purposes of regulations 2 and 3—
   - (i) in the case of a student whose period of study begins on or after 1st August 2000 but before 28th August 2000, on the day the period of study begins;
   - (ii) in any other case, on 28th August 2000;
-- (c) for the purposes of regulations 4 and 5— *(affected by repeal, see note)*[^key-c4121fb204835d3324448a45bc4e7a69]
-  - (i) in the case of a student whose period of study begins on or after 1st August 2000 but before 28th August 2000, on the first Monday of that period; *(affected by repeal, see note)*[^key-c4121fb204835d3324448a45bc4e7a69]
-  - (ii (affected by repeal, see note))[^key-c4121fb204835d3324448a45bc4e7a69] in any other case, on 28th August 2000. *(affected by repeal, see note)*[^key-c4121fb204835d3324448a45bc4e7a69]
+- (c) for the purposes of regulations 4 and 5— *(affected by repeal, see note)*[^c-c4121fb204835d3324448a45bc4e7a69]
+  - (i) in the case of a student whose period of study begins on or after 1st August 2000 but before 28th August 2000, on the first Monday of that period; *(affected by repeal, see note)*[^c-c4121fb204835d3324448a45bc4e7a69]
+  - (ii (affected by repeal, see note))[^c-c4121fb204835d3324448a45bc4e7a69] in any other case, on 28th August 2000. *(affected by repeal, see note)*[^c-c4121fb204835d3324448a45bc4e7a69]
 
 ## 2. Amendment of the Income Support (General) Regulations 1987
 
@@ -296,266 +296,266 @@ These Regulations may be cited as the Social Security Amendment (Students and In
 
 ## 4. Amendment of the Housing Benefit (General) Regulations 1987
 
-(1)[^key-32cfe6f84c41a4483adb4485c856f3b3] The Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604917] shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(1)[^c-32cfe6f84c41a4483adb4485c856f3b3] The Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604917] shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-(2) Paragraph (1) of regulation 46 (interpretation of Part VII—students) shall be amended by inserting in the appropriate place the following definition of “access funds" and substituting for the definitions of “grant" *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3][^c1604918] and “sandwich course" *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3][^c1604919] the following definitions— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(2) Paragraph (1) of regulation 46 (interpretation of Part VII—students) shall be amended by inserting in the appropriate place the following definition of “access funds" and substituting for the definitions of “grant" *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3][^c1604918] and “sandwich course" *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3][^c1604919] the following definitions— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> “access funds" means— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> “access funds" means— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> - (a) grants made under section 7 of the Further and Higher Education Act 1992 and described as “learner support funds" or grants made under section 68 of that Act and described as “access bursary funds" or “hardship funds"; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-> - (b) grants made under sections 73(a) and (c) and 74(1) of the Education (Scotland) Act 1980, or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-> - (c) grants made under Article 30 of the Education and Libraries (Northern Ireland) Order 1993 or grants, loans or other payments made under Article 5 of the Further Education (Northern Ireland) Order 1997 in each case being grants, or grants, loans or other payments as the case may be, for the purpose of assisting students in financial difficulties; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> - (a) grants made under section 7 of the Further and Higher Education Act 1992 and described as “learner support funds" or grants made under section 68 of that Act and described as “access bursary funds" or “hardship funds"; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+> - (b) grants made under sections 73(a) and (c) and 74(1) of the Education (Scotland) Act 1980, or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+> - (c) grants made under Article 30 of the Education and Libraries (Northern Ireland) Order 1993 or grants, loans or other payments made under Article 5 of the Further Education (Northern Ireland) Order 1997 in each case being grants, or grants, loans or other payments as the case may be, for the purpose of assisting students in financial difficulties; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 ;
 
-> “grant" (except in the definition of “access funds") means any kind of educational grant or award and includes any scholarship, studentship, exhibition, allowance or bursary but does not include a payment from access funds; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> “grant" (except in the definition of “access funds") means any kind of educational grant or award and includes any scholarship, studentship, exhibition, allowance or bursary but does not include a payment from access funds; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 ;
 
-> “sandwich course" has the meaning prescribed in regulation 5(2) of the Education (Student Support) Regulations 2000, regulation 5(2) of the Education (Student Loans) (Scotland) Regulations 2000 or regulation 5(2) of the Education (Student Support) Regulations (Northern Ireland) 2000, as the case may be; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> “sandwich course" has the meaning prescribed in regulation 5(2) of the Education (Student Support) Regulations 2000, regulation 5(2) of the Education (Student Loans) (Scotland) Regulations 2000 or regulation 5(2) of the Education (Student Support) Regulations (Northern Ireland) 2000, as the case may be; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 .
 
-(3) Paragraph (1) of regulation 46 (interpretation of Part VII— students) shall be further amended by substituting for sub-paragraph (b)(i) in the definition of “period of study" *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3][^c1604920] the following sub-paragraph— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(3) Paragraph (1) of regulation 46 (interpretation of Part VII— students) shall be further amended by substituting for sub-paragraph (b)(i) in the definition of “period of study" *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3][^c1604920] the following sub-paragraph— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> - (i) in a case where the student’s grant or loan is assessed at a rate appropriate to his studying throughout the year, or, if he does not have a grant or loan, where a loan would have been assessed at such a rate had he had one, the day before the start of the next year of the course, or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> - (i) in a case where the student’s grant or loan is assessed at a rate appropriate to his studying throughout the year, or, if he does not have a grant or loan, where a loan would have been assessed at such a rate had he had one, the day before the start of the next year of the course, or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 .
 
-(4) Regulation 48A (full-time students to be treated as not liable to make payments in respect of a dwelling) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604921] shall be amended by substituting for sub-paragraph (2)(g) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604922] the following sub-paragraph— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(4) Regulation 48A (full-time students to be treated as not liable to make payments in respect of a dwelling) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604921] shall be amended by substituting for sub-paragraph (2)(g) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604922] the following sub-paragraph— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> - (g) in respect of whom— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (i) a supplementary requirement has been determined under paragraph 9 of Part II of Schedule 2 to the Education (Mandatory Awards) Regulations 1999; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] an allowance, or as the case may be, bursary has been granted which includes a sum under paragraph (1)(d) of regulation 4 of the Students’ Allowances (Scotland) Regulations 1999 or, as the case may be, under paragraph (1)(d) of regulation 4 of the Education Authority (Bursaries) (Scotland) Regulations 1995, in respect of expenses incurred; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (iii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] a payment has been made under section 2 of the Education Act 1962; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (iv (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] a grant has been made under regulation 13 of the Education (Student Support) Regulations 2000 or under regulation 13 of the Education (Student Support) Regulations (Northern Ireland) 2000; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (v) a supplementary requirement has been determined under paragraph 9 of Schedule 6 to the Students Awards Regulations (Northern Ireland) 1999 or a payment has been made under Article 50(3) of the Education and Libraries (Northern Ireland) Order 1986 *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604923],
+> - (g) in respect of whom— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (i) a supplementary requirement has been determined under paragraph 9 of Part II of Schedule 2 to the Education (Mandatory Awards) Regulations 1999; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] an allowance, or as the case may be, bursary has been granted which includes a sum under paragraph (1)(d) of regulation 4 of the Students’ Allowances (Scotland) Regulations 1999 or, as the case may be, under paragraph (1)(d) of regulation 4 of the Education Authority (Bursaries) (Scotland) Regulations 1995, in respect of expenses incurred; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (iii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] a payment has been made under section 2 of the Education Act 1962; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (iv (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] a grant has been made under regulation 13 of the Education (Student Support) Regulations 2000 or under regulation 13 of the Education (Student Support) Regulations (Northern Ireland) 2000; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (v) a supplementary requirement has been determined under paragraph 9 of Schedule 6 to the Students Awards Regulations (Northern Ireland) 1999 or a payment has been made under Article 50(3) of the Education and Libraries (Northern Ireland) Order 1986 *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604923],
 >
->   on account of his disability by reason of deafness. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+>   on account of his disability by reason of deafness. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 .
 
-(5) In paragraph (1) of regulation 51 (eligible rent) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604924]—
+(5) In paragraph (1) of regulation 51 (eligible rent) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604924]—
 
-- (a) in sub-paragraph (a), for the sum “£27.10" there shall be susbstituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £27.75 ”; and *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-- (b) in sub-paragraph (b), for the sum “£18.75" there shall be substituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £19.20 ”.
+- (a) in sub-paragraph (a), for the sum “£27.10" there shall be susbstituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £27.75 ”; and *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+- (b) in sub-paragraph (b), for the sum “£18.75" there shall be substituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £19.20 ”.
 
-(6) Regulation 53 (calculation of grant income) shall be amended as follows— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(6) Regulation 53 (calculation of grant income) shall be amended as follows— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-- (a) in paragraph (2A) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604925]—
-  - (i) in sub-paragraph (a), for the sum “£250" there shall be substituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £255 ”; and *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] in sub-paragraph (b), for the sum “£303" there shall be substituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £311 ”;
-- (b) in paragraph (3) before the words “A student’s grant income shall be apportioned" there shall be inserted the words *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ Subject to paragraphs (3A) and (3B), ” *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3];
-- (c) after paragraph (3) the following paragraphs shall be inserted— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+- (a) in paragraph (2A) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604925]—
+  - (i) in sub-paragraph (a), for the sum “£250" there shall be substituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £255 ”; and *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] in sub-paragraph (b), for the sum “£303" there shall be substituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £311 ”;
+- (b) in paragraph (3) before the words “A student’s grant income shall be apportioned" there shall be inserted the words *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ Subject to paragraphs (3A) and (3B), ” *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3];
+- (c) after paragraph (3) the following paragraphs shall be inserted— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-  > (3A) Any amount intended for the maintenance of dependants under Part III of Schedule 2 to the Education (Mandatory Awards) Regulations 1999 shall be apportioned equally over the period of 52 weeks or, if there are 53 benefit weeks (including part-weeks) in the year, 53. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (3A) Any amount intended for the maintenance of dependants under Part III of Schedule 2 to the Education (Mandatory Awards) Regulations 1999 shall be apportioned equally over the period of 52 weeks or, if there are 53 benefit weeks (including part-weeks) in the year, 53. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  > (3B) Any amount intended for the maintenance of dependants to which neither paragraph (3A) nor regulation 57(2) (other amounts to be disregarded) apply, shall be apportioned over the same period as the student’s loan is apportioned or would have been apportioned had he had one. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (3B) Any amount intended for the maintenance of dependants to which neither paragraph (3A) nor regulation 57(2) (other amounts to be disregarded) apply, shall be apportioned over the same period as the student’s loan is apportioned or would have been apportioned had he had one. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
   .
 
-(7) Regulation 57 (other amounts to be disregarded) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604926] shall be amended by renumbering that regulation as regulation 57(1) and adding the following paragraph— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(7) Regulation 57 (other amounts to be disregarded) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604926] shall be amended by renumbering that regulation as regulation 57(1) and adding the following paragraph— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> (2) Where a grant for school meals for dependent children or a grant for meals for dependent children aged 3 or 4 is paid pursuant to any regulations made under section 22 of the Teaching and Higher Education Act 1998 *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604927] that payment shall be disregarded as income. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (2) Where a grant for school meals for dependent children or a grant for meals for dependent children aged 3 or 4 is paid pursuant to any regulations made under section 22 of the Teaching and Higher Education Act 1998 *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604927] that payment shall be disregarded as income. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 .
 
-(8) Regulation 57A (treatment of student loans) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604928] shall be amended as follows— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(8) Regulation 57A (treatment of student loans) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604928] shall be amended as follows— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-- (a) for paragraph (1), there shall be substituted the following paragraphs— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+- (a) for paragraph (1), there shall be substituted the following paragraphs— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-  > (1) A student loan shall be treated as income unless it is a hardship loan in which case it shall be disregarded. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (1) A student loan shall be treated as income unless it is a hardship loan in which case it shall be disregarded. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  > (1A) For the purposes of paragraph (1), “hardship loan" means a loan made under regulation 21 of the Education (Student Support) Regulations 2000, regulation 12 of the Education (Student Loans) (Scotland) Regulations 2000 or regulation 21 of the Education (Student Support) Regulations (Northern Ireland) 2000 *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (1A) For the purposes of paragraph (1), “hardship loan" means a loan made under regulation 21 of the Education (Student Support) Regulations 2000, regulation 12 of the Education (Student Loans) (Scotland) Regulations 2000 or regulation 21 of the Education (Student Support) Regulations (Northern Ireland) 2000 *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-- (b) for paragraph (2) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604929], there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  and *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+- (b) for paragraph (2) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604929], there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-  > (2) In calculating the weekly amount of the loan to be taken into account as income— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (2) In calculating the weekly amount of the loan to be taken into account as income— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  > - (a) in respect of a course that is of a single academic year’s duration or less, a loan which is payable in respect of that period shall be apportioned equally between the weeks in the period beginning with— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (i) the start of the single academic year; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] where the course is of less than an academic year’s duration, the first day of the course, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > - (a) in respect of a course that is of a single academic year’s duration or less, a loan which is payable in respect of that period shall be apportioned equally between the weeks in the period beginning with— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (i) the start of the single academic year; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] where the course is of less than an academic year’s duration, the first day of the course, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  >   and ending with the last day of the course; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  > - (b) in respect of the final academic year of a course (not being a course of a single year’s duration), a loan which is payable in respect of that final academic year shall be apportioned equally between the weeks in the period beginning with the earlier of— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (i) the first day of the first benefit week in September; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] the first day of the first benefit week following the beginning of the autumn term, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  >   and ending with the last day of the course; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  > - (b) in respect of the final academic year of a course (not being a course of a single year’s duration), a loan which is payable in respect of that final academic year shall be apportioned equally between the weeks in the period beginning with the earlier of— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (i) the first day of the first benefit week in September; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] the first day of the first benefit week following the beginning of the autumn term, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  >   and ending with the last day of the last benefit week before the last day of the course; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  > - (c) in any other case, the loan shall be apportioned equally between the weeks in the period beginning with the earlier of— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (i) the first day of the first benefit week in September; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] the first day of the first benefit week following the beginning of the autumn term, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  >   and ending with the last day of the last benefit week before the last day of the course; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  > - (c) in any other case, the loan shall be apportioned equally between the weeks in the period beginning with the earlier of— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (i) the first day of the first benefit week in September; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] the first day of the first benefit week following the beginning of the autumn term, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  >     and ending with the last day of the last benefit week in June, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  >     and ending with the last day of the last benefit week in June, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  >   and, in all cases, from the weekly amount so apportioned there shall be disregarded £10. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  >   and, in all cases, from the weekly amount so apportioned there shall be disregarded £10. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-- (c) in paragraph (5) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604930]—
-  - (i) in sub-paragraph (a), for the sum “£250" there shall be substituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £255 ”; and *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] in sub-paragraph (b), for the sum “£303" there shall be substituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £311 ”.
+  and *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+- (c) in paragraph (5) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604930]—
+  - (i) in sub-paragraph (a), for the sum “£250" there shall be substituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £255 ”; and *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] in sub-paragraph (b), for the sum “£303" there shall be substituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £311 ”.
 
-(9) The following regulation shall be inserted after regulation 57A (treatment of student loans)— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(9) The following regulation shall be inserted after regulation 57A (treatment of student loans)— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> **57B. Treatment of payments from access funds (affected by repeal, see note)[^key-32cfe6f84c41a4483adb4485c856f3b3]**
+> **57B. Treatment of payments from access funds (affected by repeal, see note)[^c-32cfe6f84c41a4483adb4485c856f3b3]**
 >
-> (1) This regulation applies to payments from access funds that are not payments to which regulation 59(2) or (3) (income treated as capital) applies. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (1) This regulation applies to payments from access funds that are not payments to which regulation 59(2) or (3) (income treated as capital) applies. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> (2) A payment from access funds, other than a payment to which paragraph (3) of this regulation applies, shall be disregarded as income. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (2) A payment from access funds, other than a payment to which paragraph (3) of this regulation applies, shall be disregarded as income. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> (3) Subject to paragraph (4) of this regulation and paragraph 33 of Schedule 4, any payments from access funds which are intended and used for food, household fuel or rent or ordinary clothing or footwear (“rent" and “ordinary clothing or footwear" have the same meaning as in paragraph 13(2) of Schedule 4), of a single claimant or any other member of his family, and any payments from access funds which are used for any council tax or water charges for which that claimant or member is liable shall be disregarded as income to the extent of £20 per week. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (3) Subject to paragraph (4) of this regulation and paragraph 33 of Schedule 4, any payments from access funds which are intended and used for food, household fuel or rent or ordinary clothing or footwear (“rent" and “ordinary clothing or footwear" have the same meaning as in paragraph 13(2) of Schedule 4), of a single claimant or any other member of his family, and any payments from access funds which are used for any council tax or water charges for which that claimant or member is liable shall be disregarded as income to the extent of £20 per week. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> (4) Where a payment from access funds is made— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (4) Where a payment from access funds is made— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> - (a) on or after 1st September or the first day of the course, whichever first occurs, but before receipt of any student loan in respect of that year and that payment is intended for the purpose of bridging the period until receipt of the student loan; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-> - (b) before the first day of the course to a person in anticipation of that person becoming a student, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> - (a) on or after 1st September or the first day of the course, whichever first occurs, but before receipt of any student loan in respect of that year and that payment is intended for the purpose of bridging the period until receipt of the student loan; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+> - (b) before the first day of the course to a person in anticipation of that person becoming a student, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> that payment shall be disregarded as income. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-
-.
-
-(10) Regulation 59 (income treated as capital) shall be amended by renumbering that regulation as regulation 59(1) and adding the following paragraphs— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-
-> (2) An amount paid from access funds as a single lump sum shall be treated as capital. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->
-> (3) An amount paid from access funds as a single lump sum which is intended and used for an item other than food, household fuel, rent, ordinary clothing or footwear (“rent" and “ordinary clothing or footwear" having the same meanings as in paragraph 13(2) of Schedule 4) of a single claimant or, as the case may be, of the claimant or any other member of his family, or which is used for any council tax or water charges for which that claimant or member is liable, shall be disregarded as capital but only for a period of 52 weeks from the date of the payment. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> that payment shall be disregarded as income. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 .
 
-(11) Paragraph 33 of Schedule 4 *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604931] shall be amended by inserting after the words “regulation 57A(2) (treatment of student loans)", the words *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ , regulation 57B(3) (treatment of payments from access funds) ” *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3].
+(10) Regulation 59 (income treated as capital) shall be amended by renumbering that regulation as regulation 59(1) and adding the following paragraphs— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+
+> (2) An amount paid from access funds as a single lump sum shall be treated as capital. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>
+> (3) An amount paid from access funds as a single lump sum which is intended and used for an item other than food, household fuel, rent, ordinary clothing or footwear (“rent" and “ordinary clothing or footwear" having the same meanings as in paragraph 13(2) of Schedule 4) of a single claimant or, as the case may be, of the claimant or any other member of his family, or which is used for any council tax or water charges for which that claimant or member is liable, shall be disregarded as capital but only for a period of 52 weeks from the date of the payment. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+
+.
+
+(11) Paragraph 33 of Schedule 4 *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604931] shall be amended by inserting after the words “regulation 57A(2) (treatment of student loans)", the words *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ , regulation 57B(3) (treatment of payments from access funds) ” *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3].
 
 ## 5. Amendment of the Council Tax Benefit (General) Regulations 1992
 
-(1) The Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604932] shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(1) The Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604932] shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-(2) Paragraph (1) of regulation 38 (interpretation of Part V—students) shall be amended by inserting in the appropriate place the following definition of “access funds" and substituting for the definitions of “grant" *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3][^c1604933] and “sandwich course" *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3][^c1604934] the following definitions— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(2) Paragraph (1) of regulation 38 (interpretation of Part V—students) shall be amended by inserting in the appropriate place the following definition of “access funds" and substituting for the definitions of “grant" *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3][^c1604933] and “sandwich course" *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3][^c1604934] the following definitions— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> “access funds" means— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> “access funds" means— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> - (a) grants paid under section 7 of the Further and Higher Education Act 1992 and described as “learner support funds" or under section 68 of that Act and described as “access bursary funds" or “hardship funds"; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-> - (b) grants made under sections 73(a) and (c) and 74(1) of the Education (Scotland) Act 1980; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-> - (c) grants made under Article 30 of the Education and Libraries (Northern Ireland) Order 1993 or grants, loans or other payments made under Article 5 of the Further Education (Northern Ireland) Order 1997 in each case being grants, or grants, loans or other payments as the case may be, made for the purpose of assisting students in financial difficulties; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> - (a) grants paid under section 7 of the Further and Higher Education Act 1992 and described as “learner support funds" or under section 68 of that Act and described as “access bursary funds" or “hardship funds"; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+> - (b) grants made under sections 73(a) and (c) and 74(1) of the Education (Scotland) Act 1980; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+> - (c) grants made under Article 30 of the Education and Libraries (Northern Ireland) Order 1993 or grants, loans or other payments made under Article 5 of the Further Education (Northern Ireland) Order 1997 in each case being grants, or grants, loans or other payments as the case may be, made for the purpose of assisting students in financial difficulties; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 ;
 
-> “grant" (except in the definition of “access funds") means any kind of educational grant or award and includes any scholarship, studentship, contribution, allowance or bursary but does not include a payment from access funds; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> “grant" (except in the definition of “access funds") means any kind of educational grant or award and includes any scholarship, studentship, contribution, allowance or bursary but does not include a payment from access funds; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 ;
 
-> “sandwich course" has the meaning prescribed in regulation 5(2) of the Education (Student Support) Regulations 2000, regulation 5(2) of the Education (Student Loans) (Scotland) Regulations 2000 or regulation 5(2) of the Education (Student Support) Regulations (Northern Ireland) 2000, as the case may be; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> “sandwich course" has the meaning prescribed in regulation 5(2) of the Education (Student Support) Regulations 2000, regulation 5(2) of the Education (Student Loans) (Scotland) Regulations 2000 or regulation 5(2) of the Education (Student Support) Regulations (Northern Ireland) 2000, as the case may be; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 .
 
-(3) Paragraph (1) of regulation 38 (interpretation of Part V—students) shall be further amended by substituting for sub-paragraph (b)(i) of the definition of “period of study" the following sub-paragraph— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(3) Paragraph (1) of regulation 38 (interpretation of Part V—students) shall be further amended by substituting for sub-paragraph (b)(i) of the definition of “period of study" the following sub-paragraph— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> - (i) in a case where the student’s grant or loan is assessed at a rate appropriate to his studying throughout the year, or, if he does not have a grant or loan, where a loan would have been assessed at such a rate had he had one, the day before the start of the next year of the course, or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> - (i) in a case where the student’s grant or loan is assessed at a rate appropriate to his studying throughout the year, or, if he does not have a grant or loan, where a loan would have been assessed at such a rate had he had one, the day before the start of the next year of the course, or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 .
 
-(4) Sub-paragraph (3)(f) of regulation 40 (students who are excluded from entitlement to council tax benefit) shall be amended by substituting the following sub-paragraph— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(4) Sub-paragraph (3)(f) of regulation 40 (students who are excluded from entitlement to council tax benefit) shall be amended by substituting the following sub-paragraph— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> - (f) in respect of whom— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (i) a supplementary requirement has been determined under paragraph 9 of Part II Schedule 2 to the Education (Mandatory Awards) Regulations 1999; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] an allowance, or as the case may be, bursary has been granted which includes a sum under paragraph (1)(d) or regulation 4 of the Students’ Allowances (Scotland) Regulations 1999 or, as the case may be, under paragraph (1)(d) of regulation 4 of the Education Authority (Bursaries) (Scotland) Regulations 1995, in respect of expenses incurred; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (iii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] a payment has been made under section 2 of the Education Act 1962; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (iv (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] a grant has been made under regulation 13 of the Education (Student Support) Regulations 2000 or under regulation 13 of the Education (Student Support) Regulations (Northern Ireland) 2000; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->   - (v) a supplementary requirement has been determined under paragraph 9 of Schedule 6 to the Students Awards Regulations (Northern Ireland) 1999 or a payment has been made under Article 50(3) of the Education and Libraries (Northern Ireland) Order 1986, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> - (f) in respect of whom— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (i) a supplementary requirement has been determined under paragraph 9 of Part II Schedule 2 to the Education (Mandatory Awards) Regulations 1999; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] an allowance, or as the case may be, bursary has been granted which includes a sum under paragraph (1)(d) or regulation 4 of the Students’ Allowances (Scotland) Regulations 1999 or, as the case may be, under paragraph (1)(d) of regulation 4 of the Education Authority (Bursaries) (Scotland) Regulations 1995, in respect of expenses incurred; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (iii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] a payment has been made under section 2 of the Education Act 1962; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (iv (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] a grant has been made under regulation 13 of the Education (Student Support) Regulations 2000 or under regulation 13 of the Education (Student Support) Regulations (Northern Ireland) 2000; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>   - (v) a supplementary requirement has been determined under paragraph 9 of Schedule 6 to the Students Awards Regulations (Northern Ireland) 1999 or a payment has been made under Article 50(3) of the Education and Libraries (Northern Ireland) Order 1986, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
->   on account of his disability by reason of deafness. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+>   on account of his disability by reason of deafness. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 .
 
-(5) Regulation 42 (calculation of grant income) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604935] shall be amended as follows— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(5) Regulation 42 (calculation of grant income) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604935] shall be amended as follows— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-- (a) in paragraph (3)— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  - (i) in sub-paragraph (a), for the sum “£250" there shall be substituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £255 ”; and *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] in sub-paragraph (b), for the sum “£303" there shall be substituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £311 ”;
-- (b) in paragraph (4) before the words “A student’s grant income shall be apportioned" there shall be inseerted the words *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ Subject to paragraphs (4A) and (4B), ” *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3];
-- (c) after paragraph (4) the following paragraphs shall be inserted— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+- (a) in paragraph (3)— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  - (i) in sub-paragraph (a), for the sum “£250" there shall be substituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £255 ”; and *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] in sub-paragraph (b), for the sum “£303" there shall be substituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £311 ”;
+- (b) in paragraph (4) before the words “A student’s grant income shall be apportioned" there shall be inseerted the words *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ Subject to paragraphs (4A) and (4B), ” *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3];
+- (c) after paragraph (4) the following paragraphs shall be inserted— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-  > (4A) Any amount intended for the maintenance of dependants under Part III of Schedule 2 to the Education (Mandatory Awards) Regulations 1999 shall be apportioned equally over the period of 52 weeks or, if there are 53 benefit weeks including part-weeks in the year, 53. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (4A) Any amount intended for the maintenance of dependants under Part III of Schedule 2 to the Education (Mandatory Awards) Regulations 1999 shall be apportioned equally over the period of 52 weeks or, if there are 53 benefit weeks including part-weeks in the year, 53. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  > (4B) Any amount intended for the maintenance of dependants to which neither paragraph (3A) nor regulation 46(2) (other amounts to be disregarded) apply, shall be apportioned over the same period as the student’s loan is apportioned or would have been apportioned had he had one. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (4B) Any amount intended for the maintenance of dependants to which neither paragraph (3A) nor regulation 46(2) (other amounts to be disregarded) apply, shall be apportioned over the same period as the student’s loan is apportioned or would have been apportioned had he had one. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
   .
 
-(6) Regulation 46 (other amounts to be disregarded) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604936] shall be amended by renumbering that regulation 46(1) and adding the following paragraph— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(6) Regulation 46 (other amounts to be disregarded) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604936] shall be amended by renumbering that regulation 46(1) and adding the following paragraph— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> (2) Where a grant for school meals for dependent children or a grant for meals for dependent children aged 3 or 4 is paid pursuant to any regulations made under section 22 of the Teaching and Higher Education Act 1998 that payment shall be disregarded as income. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (2) Where a grant for school meals for dependent children or a grant for meals for dependent children aged 3 or 4 is paid pursuant to any regulations made under section 22 of the Teaching and Higher Education Act 1998 that payment shall be disregarded as income. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-(7) Regulation 47 (treatment of student loans) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604937] shall be amended as follows— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(7) Regulation 47 (treatment of student loans) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604937] shall be amended as follows— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-- (a) for paragraph (1), there shall be substituted the following paragraphs— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+- (a) for paragraph (1), there shall be substituted the following paragraphs— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-  > (1) A student loan shall be treated as income unless it is a hardship loan in which case it shall be disregarded. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (1) A student loan shall be treated as income unless it is a hardship loan in which case it shall be disregarded. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  > (1A) For the purpose of paragraph (1), “hardship loan" means a loan made under regulation 21 of the Education (Student Support) Regulations 2000, regulation 12 of the Education (Student Loans) (Scotland) Regulations 2000 or regulation 21 of the Education (Student Support) Regulations (Northern Ireland) 2000. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (1A) For the purpose of paragraph (1), “hardship loan" means a loan made under regulation 21 of the Education (Student Support) Regulations 2000, regulation 12 of the Education (Student Loans) (Scotland) Regulations 2000 or regulation 21 of the Education (Student Support) Regulations (Northern Ireland) 2000. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-- (b) for paragraph (2), there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  and *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+- (b) for paragraph (2), there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-  > (2) In calculating the weekly amount of the loan to be taken into account as income— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > (2) In calculating the weekly amount of the loan to be taken into account as income— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  > - (a) in respect of a course that is of a single academic year’s duration or less, a loan which is payable in respect of that period shall be apportioned equally between the weeks in the period beginning with— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (i) the start of the single academic year; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] where the course is of less than an academic year’s duration, the first day of the course, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  > - (a) in respect of a course that is of a single academic year’s duration or less, a loan which is payable in respect of that period shall be apportioned equally between the weeks in the period beginning with— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (i) the start of the single academic year; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] where the course is of less than an academic year’s duration, the first day of the course, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  >   and ending with the last day of the course; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  > - (b) in respect of the final academic year of a course (not being a course of a single year’s duration), a loan which is payable in respect of that final academic year shall be apportioned equally between the weeks in the period beginning with the earlier of— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (i) the first day of the first benefit week in September; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] the first day of the first benefit week following the beginning of the autumn term, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  >   and ending with the last day of the course; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  > - (b) in respect of the final academic year of a course (not being a course of a single year’s duration), a loan which is payable in respect of that final academic year shall be apportioned equally between the weeks in the period beginning with the earlier of— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (i) the first day of the first benefit week in September; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] the first day of the first benefit week following the beginning of the autumn term, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  >   and ending with the last day of the last benefit week before the last day of the course; *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  > - (c) in any other case, the loan shall be apportioned equally between the weeks in the period beginning with the earlier of— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (i) the first day of the first benefit week in September; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  >   - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] the first day of the first benefit week following the beginning of the autumn term, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  >   and ending with the last day of the last benefit week before the last day of the course; *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  > - (c) in any other case, the loan shall be apportioned equally between the weeks in the period beginning with the earlier of— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (i) the first day of the first benefit week in September; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  >   - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] the first day of the first benefit week following the beginning of the autumn term, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  >     and ending with the last day of the last benefit week in June, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  >     and ending with the last day of the last benefit week in June, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
   >
-  >   and in all cases, from the weekly amount so apportioned there shall be disregarded £10. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+  >   and in all cases, from the weekly amount so apportioned there shall be disregarded £10. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-- (c) in paragraph (5) *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] [^c1604938]—
-  - (i) in sub-paragraph (a), for the sum “£250" there shall be substituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £255 ”; and *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-  - (ii (affected by repeal, see note))[^key-32cfe6f84c41a4483adb4485c856f3b3] in sub-paragraph (b), for the sum “£303" there shall be substituted the sum *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3] “ £311 ”.
+  and *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+- (c) in paragraph (5) *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] [^c1604938]—
+  - (i) in sub-paragraph (a), for the sum “£250" there shall be substituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £255 ”; and *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+  - (ii (affected by repeal, see note))[^c-32cfe6f84c41a4483adb4485c856f3b3] in sub-paragraph (b), for the sum “£303" there shall be substituted the sum *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3] “ £311 ”.
 
-(8) The following regulations shall be inserted after regulation 47 (treatment of student loans)— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(8) The following regulations shall be inserted after regulation 47 (treatment of student loans)— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
-> **47A. Treatment of payments from access funds (affected by repeal, see note)[^key-32cfe6f84c41a4483adb4485c856f3b3]**
+> **47A. Treatment of payments from access funds (affected by repeal, see note)[^c-32cfe6f84c41a4483adb4485c856f3b3]**
 >
-> (1) This regulation applies to payments from access funds that are not payments to which regulation 49(2) and (3) (income treated as capital) applies. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (1) This regulation applies to payments from access funds that are not payments to which regulation 49(2) and (3) (income treated as capital) applies. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> (2) A payment from access funds, other than a payment to which paragraph (3) of this regulation applies, shall be disregarded as income. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (2) A payment from access funds, other than a payment to which paragraph (3) of this regulation applies, shall be disregarded as income. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> (3) Subject to paragraph (4) of this regulation and paragraph 34 of Schedule 4, any payments from access funds which are intended and used for an item of food, ordinary clothing or footwear (which has the same meaning as in paragraph 13(2) of Schedule 4), household fuel, rent of a single claimant or, as the case may be, of the claimant or any other member of his family and any payments from access funds which are used for any council tax or water charges for which that claimant or member is liable, shall be disregarded as income to the extent of £20 per week. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (3) Subject to paragraph (4) of this regulation and paragraph 34 of Schedule 4, any payments from access funds which are intended and used for an item of food, ordinary clothing or footwear (which has the same meaning as in paragraph 13(2) of Schedule 4), household fuel, rent of a single claimant or, as the case may be, of the claimant or any other member of his family and any payments from access funds which are used for any council tax or water charges for which that claimant or member is liable, shall be disregarded as income to the extent of £20 per week. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> (3) Where a payment from access funds is made— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> (3) Where a payment from access funds is made— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> - (a) on or after 1st September or the first day of the course, whichever first occurs, but before receipt of any student loan in respect of that year and that payment is intended for the purpose of bridging the period until receipt of the student loan; or *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-> - (b) before the first day of the course to a person in anticipation of that person becoming a student, *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> - (a) on or after 1st September or the first day of the course, whichever first occurs, but before receipt of any student loan in respect of that year and that payment is intended for the purpose of bridging the period until receipt of the student loan; or *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+> - (b) before the first day of the course to a person in anticipation of that person becoming a student, *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 >
-> that payment shall be disregarded as income. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-
-.
-
-(9) Regulation 49 (income treated as capital) shall be amended by renumbering that regulation as regulation 49(1) and adding the following paragraphs— *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
-
-> (2) An amount paid from access funds as a single lump sum shall be treated as capital. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
->
-> (3) An amount paid from access funds as a single lump sum which is intended and used for an item other than food, ordinary clothing or footwear (which has the same meaning as in paragraph 13(2) of Schedule 4), household fuel, rent, or which is used for an item other than any council tax or water charges for which that claimant or member is liable, shall be disregarded as capital but only for a period of 52 weeks from the date of the payment. *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+> that payment shall be disregarded as income. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 .
 
-(10) Paragraph 34 of Schedule 4 shall be amended by inserting after the words “regulation 47(2) (treatment of student loans)" the words “, regulation 47A(3) (treatment of payments from access funds)". *(affected by repeal, see note)*[^key-32cfe6f84c41a4483adb4485c856f3b3]
+(9) Regulation 49 (income treated as capital) shall be amended by renumbering that regulation as regulation 49(1) and adding the following paragraphs— *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+
+> (2) An amount paid from access funds as a single lump sum shall be treated as capital. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+>
+> (3) An amount paid from access funds as a single lump sum which is intended and used for an item other than food, ordinary clothing or footwear (which has the same meaning as in paragraph 13(2) of Schedule 4), household fuel, rent, or which is used for an item other than any council tax or water charges for which that claimant or member is liable, shall be disregarded as capital but only for a period of 52 weeks from the date of the payment. *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
+
+.
+
+(10) Paragraph 34 of Schedule 4 shall be amended by inserting after the words “regulation 47(2) (treatment of student loans)" the words “, regulation 47A(3) (treatment of payments from access funds)". *(affected by repeal, see note)*[^c-32cfe6f84c41a4483adb4485c856f3b3]
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -589,7 +589,7 @@ These Regulations do not impose a charge on business.
 
 [^c1604882]: Marginal citation: *See* the Social Security Administration Act 1992, sections 170 and 173(1)(b) and (7); paragraph 67 of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments" in respect of which regulations must be referred to the Committee. Section 173(7) defines “regulations".
 
-[^key-c4121fb204835d3324448a45bc4e7a69]: Textual amendment: [Reg. 1(c)](https://www.legislation.gov.uk/uksi/2000/1922/regulation/1/c) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-c4121fb204835d3324448a45bc4e7a69]: Textual amendment: [Reg. 1(c)](https://www.legislation.gov.uk/uksi/2000/1922/regulation/1/c) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1604883]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -659,7 +659,7 @@ These Regulations do not impose a charge on business.
 
 [^c1604916]: Marginal citation: Paragraph (5) was inserted by regulation 3(5)(b) of [S.I. 1999/1935](https://www.legislation.gov.uk/uksi/1999/1935).
 
-[^key-32cfe6f84c41a4483adb4485c856f3b3]: Textual amendment: Reg. 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-32cfe6f84c41a4483adb4485c856f3b3]: Textual amendment: Reg. 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1604917]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
 

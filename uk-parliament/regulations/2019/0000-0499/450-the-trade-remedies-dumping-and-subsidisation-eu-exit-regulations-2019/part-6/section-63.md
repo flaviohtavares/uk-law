@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Consultation in a subsidisation investigation[^key-532af5ac150b353f54d5bf2b5728ed09]
+## 63. Consultation in a subsidisation investigation[^c-532af5ac150b353f54d5bf2b5728ed09]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The TRA must not make a provisional affirmative or final affirmative determinati
 
 ## Annotations
 
-[^key-532af5ac150b353f54d5bf2b5728ed09]: Commencement: Reg. 63 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-532af5ac150b353f54d5bf2b5728ed09]: Commencement: Reg. 63 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

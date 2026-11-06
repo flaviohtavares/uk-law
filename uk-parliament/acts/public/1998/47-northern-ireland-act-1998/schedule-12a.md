@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12A — Effect of application of section 95A(6) or (7)[^key-b281d14ca121f7eaea4636e08d642ef1]
+## SCHEDULE 12A — Effect of application of section 95A(6) or (7)[^c-b281d14ca121f7eaea4636e08d642ef1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Section 95A(10)
 
-### Directions under section 30A(5): Northern Ireland Ministers and junior Ministers[^key-b281d14ca121f7eaea4636e08d642ef1]
+### Directions under section 30A(5): Northern Ireland Ministers and junior Ministers[^c-b281d14ca121f7eaea4636e08d642ef1]
 
-**1.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Directions under section 30A(2) or (5): the First Minister and deputy First Minister[^key-b281d14ca121f7eaea4636e08d642ef1]
+### Directions under section 30A(2) or (5): the First Minister and deputy First Minister[^c-b281d14ca121f7eaea4636e08d642ef1]
 
-**5.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Directions under section 47B or 51B[^key-b281d14ca121f7eaea4636e08d642ef1]
+### Directions under section 47B or 51B[^c-b281d14ca121f7eaea4636e08d642ef1]
 
-**9.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### General[^key-b281d14ca121f7eaea4636e08d642ef1]
+### General[^c-b281d14ca121f7eaea4636e08d642ef1]
 
-**10.**[^key-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b281d14ca121f7eaea4636e08d642ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b281d14ca121f7eaea4636e08d642ef1]: Textual amendment: Sch. 12A repealed (1.4.2011) by [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(j)](https://www.legislation.gov.uk/uksi/2011/978/article/5/j)
+[^c-b281d14ca121f7eaea4636e08d642ef1]: Textual amendment: Sch. 12A repealed (1.4.2011) by [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(j)](https://www.legislation.gov.uk/uksi/2011/978/article/5/j)

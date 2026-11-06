@@ -24,8 +24,8 @@ summary: ''
 
 (2) A housing action trust shall from time to time review rents and make such changes, either of rents generally or of particular rents, as circumstances may require.
 
-(3)[^key-a81803a283e537c5bcdc398323e3e220] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a81803a283e537c5bcdc398323e3e220] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a81803a283e537c5bcdc398323e3e220]: Textual amendment: S. 85(3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(10)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/10)
+[^c-a81803a283e537c5bcdc398323e3e220]: Textual amendment: S. 85(3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(10)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/10)

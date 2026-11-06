@@ -22,11 +22,11 @@ summary: ''
 
 Article ‎42
 
-### 1. Commencing an arbitration[^key-52559a43e33bfb00915d97cad5efc47c]
+### 1. Commencing an arbitration[^c-52559a43e33bfb00915d97cad5efc47c]
 
 The arbitration is deemed to have commenced when a party (“**the claimant**”) serves a written notice of arbitration on the other party (“**the respondent**”).
 
-### 2. Time periods[^key-0031ee2d745301352c028d1c41364066]
+### 2. Time periods[^c-0031ee2d745301352c028d1c41364066]
 
 (1) All time periods in these arbitration rules are measured in days and include weekends, but not bank or public holidays.
 
@@ -35,7 +35,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-0da28cb776000497deb98cfb8b095775]
+### 3. Timetable[^c-0da28cb776000497deb98cfb8b095775]
 
 (1) The timetable for the arbitration is that which is set out in sub-paragraphs ‎(2) to ‎(4) below unless amended in accordance with paragraph ‎5(3).
 
@@ -58,7 +58,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-35960be33515994c47c380ae96e44764]
+### 4. Procedure[^c-35960be33515994c47c380ae96e44764]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. A single pleading must not exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -86,7 +86,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 (11) The arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given must be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-ddd678397f9313b17aa06fa57844fbe8]
+### 5. Arbitrator’s powers[^c-ddd678397f9313b17aa06fa57844fbe8]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996, save where modified in this Schedule.
 
@@ -99,7 +99,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-a6195d3fe145f5b70011ad417645bdde]
+### 6. Costs[^c-a6195d3fe145f5b70011ad417645bdde]
 
 (1) The costs of the arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -109,7 +109,7 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 (4) The arbitrator must award recoverable costs on the general principle that each party should bear its own costs, having regard to all material circumstances, including such matters as exaggerated claims or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-db36dafd551903394ec56960545bc1a1]
+### 7. Confidentiality[^c-db36dafd551903394ec56960545bc1a1]
 
 (1) Subject to sub-paragraphs (2) and (3), any arbitration hearing and documentation will be open to and accessible by the public.
 
@@ -117,16 +117,16 @@ The arbitration is deemed to have commenced when a party (“**the claimant**”
 
 ## Annotations
 
-[^key-52559a43e33bfb00915d97cad5efc47c]: Commencement: Sch. 14 para. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-52559a43e33bfb00915d97cad5efc47c]: Commencement: Sch. 14 para. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-0031ee2d745301352c028d1c41364066]: Commencement: Sch. 14 para. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-0031ee2d745301352c028d1c41364066]: Commencement: Sch. 14 para. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-0da28cb776000497deb98cfb8b095775]: Commencement: Sch. 14 para. 3 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-0da28cb776000497deb98cfb8b095775]: Commencement: Sch. 14 para. 3 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-35960be33515994c47c380ae96e44764]: Commencement: Sch. 14 para. 4 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-35960be33515994c47c380ae96e44764]: Commencement: Sch. 14 para. 4 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-ddd678397f9313b17aa06fa57844fbe8]: Commencement: Sch. 14 para. 5 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-ddd678397f9313b17aa06fa57844fbe8]: Commencement: Sch. 14 para. 5 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-a6195d3fe145f5b70011ad417645bdde]: Commencement: Sch. 14 para. 6 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-a6195d3fe145f5b70011ad417645bdde]: Commencement: Sch. 14 para. 6 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-db36dafd551903394ec56960545bc1a1]: Commencement: Sch. 14 para. 7 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-db36dafd551903394ec56960545bc1a1]: Commencement: Sch. 14 para. 7 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

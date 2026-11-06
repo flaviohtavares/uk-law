@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.56. Application for an order for access[^key-439e930eb0cbcf2a9c127cef389cc97f]
+## 47.56. Application for an order for access[^c-439e930eb0cbcf2a9c127cef389cc97f]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-439e930eb0cbcf2a9c127cef389cc97f]: Commencement: Rule 47.56 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-439e930eb0cbcf2a9c127cef389cc97f]: Commencement: Rule 47.56 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

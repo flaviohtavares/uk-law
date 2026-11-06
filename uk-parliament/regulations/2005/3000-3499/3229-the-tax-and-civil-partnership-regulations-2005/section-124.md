@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124.[^key-c0b7ac28ae1f0f9098b25d85ce279a14]
+## 124.[^c-c0b7ac28ae1f0f9098b25d85ce279a14]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In Schedule 2 (computation of gains: assets held on 6th April 1965) —
 
 ## Annotations
 
-[^key-c0b7ac28ae1f0f9098b25d85ce279a14]: Commencement: Reg. 124 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-c0b7ac28ae1f0f9098b25d85ce279a14]: Commencement: Reg. 124 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

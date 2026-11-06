@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Arbitration[^key-9d3d27d8269928ab014283c3b84381c6]
+## 63. Arbitration[^c-9d3d27d8269928ab014283c3b84381c6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Any difference under any provision of this Order (other than a difference which 
 
 ## Annotations
 
-[^key-9d3d27d8269928ab014283c3b84381c6]: Commencement: Art. 63 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-9d3d27d8269928ab014283c3b84381c6]: Commencement: Art. 63 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

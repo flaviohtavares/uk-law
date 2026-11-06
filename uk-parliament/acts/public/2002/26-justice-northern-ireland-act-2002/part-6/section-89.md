@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State or the Department of Justice[^key-68e592b1752b2de6eba17f7a892de0c9] may by order make any transitional provisions or savings which appear appropriate in connection with the coming into force of any provision of this Act.
+(1) The Secretary of State or the Department of Justice[^c-68e592b1752b2de6eba17f7a892de0c9] may by order make any transitional provisions or savings which appear appropriate in connection with the coming into force of any provision of this Act.
 
 (2) The persons who, immediately before the date on which section 30 comes into force, hold the offices of Director of Public Prosecutions for Northern Ireland and Deputy Director of Public Prosecutions for Northern Ireland under the Prosecution of Offences (Northern Ireland) Order 1972 (S.I. 1972/538 (N.I. 1)) shall be treated as if—
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68e592b1752b2de6eba17f7a892de0c9]: Textual amendment: Words in [s. 89(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/89/1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 22(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/22/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-68e592b1752b2de6eba17f7a892de0c9]: Textual amendment: Words in [s. 89(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/89/1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 22(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/22/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

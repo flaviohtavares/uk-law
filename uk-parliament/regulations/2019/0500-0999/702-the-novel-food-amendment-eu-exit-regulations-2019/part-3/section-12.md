@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.[^key-8bae3b5fe3cd893e87510d2cd5e209b6]
+## 12.[^c-8bae3b5fe3cd893e87510d2cd5e209b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ For Article 6, substitute—
 >
 > **1.**
 >
-> The appropriate authority must establish and update a list of novel foods authorised to be placed on the market within the constituent territory of Great Britain *(Extent: E+W+S)*[^key-6bfecfe7cf086f76d2244ae746b5231d] in accordance with Articles 7 and 9.
+> The appropriate authority must establish and update a list of novel foods authorised to be placed on the market within the constituent territory of Great Britain *(Extent: E+W+S)*[^c-6bfecfe7cf086f76d2244ae746b5231d] in accordance with Articles 7 and 9.
 >
 > **2.**
 >
@@ -36,6 +36,6 @@ For Article 6, substitute—
 
 ## Annotations
 
-[^key-8bae3b5fe3cd893e87510d2cd5e209b6]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8bae3b5fe3cd893e87510d2cd5e209b6]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6bfecfe7cf086f76d2244ae746b5231d]: Textual amendment: Words in reg. 12 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(7)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/7)
+[^c-6bfecfe7cf086f76d2244ae746b5231d]: Textual amendment: Words in reg. 12 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(7)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/7)

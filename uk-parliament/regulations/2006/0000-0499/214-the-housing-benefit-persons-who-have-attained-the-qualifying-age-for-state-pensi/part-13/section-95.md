@@ -14,10 +14,10 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 95. Evidence and information required by rent officers[^key-1ce63477d819b13714e0b80db4243e8a]
+## 95. Evidence and information required by rent officers[^c-1ce63477d819b13714e0b80db4243e8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ce63477d819b13714e0b80db4243e8a]: Textual amendment: Reg. 95 omitted (7.4.2008) by virtue of [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/3/3)
+[^c-1ce63477d819b13714e0b80db4243e8a]: Textual amendment: Reg. 95 omitted (7.4.2008) by virtue of [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/3/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Liability that cannot be excluded or restricted[^c22531581][^key-30c36377c86cd22a668b42164a823799][^key-35f909e6ab9d1eab93d9ea6117e99258]
+## 57. Liability that cannot be excluded or restricted[^c22531581][^c-30c36377c86cd22a668b42164a823799][^c-35f909e6ab9d1eab93d9ea6117e99258]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^c22531581]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2015/15/section/57) partly in force; [s. 57(2)(3)](https://www.legislation.gov.uk/ukpga/2015/15/section/57/2/3) in force at Royal Assent, see [s. 61(3)](https://www.legislation.gov.uk/ukpga/2015/15/section/61/3)
 
-[^key-30c36377c86cd22a668b42164a823799]: Commencement: S. 57 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-30c36377c86cd22a668b42164a823799]: Commencement: S. 57 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-35f909e6ab9d1eab93d9ea6117e99258]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2015/15/section/57) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))
+[^c-35f909e6ab9d1eab93d9ea6117e99258]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2015/15/section/57) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))

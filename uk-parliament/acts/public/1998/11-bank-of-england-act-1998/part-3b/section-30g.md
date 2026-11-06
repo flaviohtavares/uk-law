@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30G. Functions of the Financial Market Infrastructure Committee[^key-6c07c234324ec9540e92ccb602873e99]
+## 30G. Functions of the Financial Market Infrastructure Committee[^c-6c07c234324ec9540e92ccb602873e99]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c07c234324ec9540e92ccb602873e99]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/1998/11/part/3B) inserted (1.1.2024 at 1.00 a.m. for the insertion of ss. 30E(1)(c), 30I(2) for specified purposes, 1.1.2025 for the insertion of s. 30E(1)(c) for specified purposes, 1.2.2025 for the insertion of s. 30I(2) so far as not already on force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 10(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/d), [12(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/b), [13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13) (with [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/1))
+[^c-6c07c234324ec9540e92ccb602873e99]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/1998/11/part/3B) inserted (1.1.2024 at 1.00 a.m. for the insertion of ss. 30E(1)(c), 30I(2) for specified purposes, 1.1.2025 for the insertion of s. 30E(1)(c) for specified purposes, 1.2.2025 for the insertion of s. 30I(2) so far as not already on force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 10(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/d), [12(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/b), [13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13) (with [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/1))

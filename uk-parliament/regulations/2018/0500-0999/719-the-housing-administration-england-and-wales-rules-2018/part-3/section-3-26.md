@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.26. Application of Chapter 6 to creditors’ decisions[^key-8f19e720b04a084ed6d14d1970efc46e]
+## 3.26. Application of Chapter 6 to creditors’ decisions[^c-8f19e720b04a084ed6d14d1970efc46e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies where the housing administrator seeks a decision from credi
 
 ## Annotations
 
-[^key-8f19e720b04a084ed6d14d1970efc46e]: Commencement: Rule 3.26 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-8f19e720b04a084ed6d14d1970efc46e]: Commencement: Rule 3.26 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -30,7 +30,7 @@ summary: ''
   - (iii) Sporulated sulphite-reducing anaerobes in any 50 ml sample examined, or
   - (iv) *Pseudomonas aeruginosa* in any 250 ml sample examined;
 - (b) where the total colony count of the water at the source from which that water was taken does not comply with paragraph 7 of Schedule 4;
-- (c)[^key-f56cebb0369092cc598cadb5aba8760e] where the revivable total colony count of that water is in excess of that which would result from the normal increase in the bacterial count which it had at source; or
+- (c)[^c-f56cebb0369092cc598cadb5aba8760e] where the revivable total colony count of that water is in excess of that which would result from the normal increase in the bacterial count which it had at source; or
 - (d) where that water contains any organoleptic defect.
 
 (3) No person shall sell any bottled natural mineral water—
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f56cebb0369092cc598cadb5aba8760e]: Textual amendment: Reg. 9(2)(c) substituted (16.7.2009) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2009 (S.I. 2009/1598)](https://www.legislation.gov.uk/uksi/2009/1598), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1598/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/1598/regulation/6)
+[^c-f56cebb0369092cc598cadb5aba8760e]: Textual amendment: Reg. 9(2)(c) substituted (16.7.2009) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2009 (S.I. 2009/1598)](https://www.legislation.gov.uk/uksi/2009/1598), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1598/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/1598/regulation/6)

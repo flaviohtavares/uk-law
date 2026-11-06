@@ -24,12 +24,12 @@ summary: ''
 
 ### Definitions
 
-**1.**[^key-1fe7c6bf6c0f6ae21d4ca2425ed77e93] In this Schedule—
+**1.**[^c-1fe7c6bf6c0f6ae21d4ca2425ed77e93] In this Schedule—
 
 - “**check valve**” means a device which permits the flow of gas in one direction and prevents the flow of gas in the opposite direction;
 - “**design pressure**” means the pressure which a part of a gas system has been designed and constructed safely to withstand;
 - “**double-check valve**” means a device which consists of two check valves in series and which permits the flow of gas in one direction and prevents the flow of gas in the opposite direction;
-- “[^key-9d9fba41c055e13557ce5e9fe562ea52]**electrically operated valve**” means a device which is electrically operated and opens when the ignition is switched on and closes when the ignition is switched off or the power is otherwise cut off;
+- “[^c-9d9fba41c055e13557ce5e9fe562ea52]**electrically operated valve**” means a device which is electrically operated and opens when the ignition is switched on and closes when the ignition is switched off or the power is otherwise cut off;
 - “**excess flow valve**” means a device which automatically and instantaneously reduces to a minimum the flow of gas through the valve when the flow rate exceeds a set value;
 - “**fixed gas container**” means a gas container which is attached to a vehicle permanently and in such a manner that the container can be filled without being moved;
 - “**gas container**” means any container, not being a container for the carriage of gas as goods, which is fitted to or carried on a motor vehicle or trailer and is intended for the storage of gas for either—
@@ -44,7 +44,7 @@ summary: ''
 
 ### Gas containers
 
-**2.**[^key-3cfb4c2abefdb26e0fd497a704244e10] (1) Every gas container shall—
+**2.**[^c-3cfb4c2abefdb26e0fd497a704244e10] (1) Every gas container shall—
 
 - (a) be capable of withstanding the pressure of the gas which may be stored in the container at the highest temperature which the gas is likely to reach,
 - (b) if fitted inside the vehicle be so arranged as to prevent so far as is practicable the possibility of gas entering the engine, passenger or living compartments due to leaks or venting from the container or valves, connections and gauges immediately adjacent to it, and the space containing these components shall be so ventilated and drained as to prevent the accumulation of gas,
@@ -69,7 +69,7 @@ summary: ''
 
 ### Filling systems for fixed gas containers
 
-**3.**[^key-22294100893730160cd9af6170dab85e] (1) Every connection for filling a fixed gas container shall be on the outside of the vehicle.
+**3.**[^c-22294100893730160cd9af6170dab85e] (1) Every connection for filling a fixed gas container shall be on the outside of the vehicle.
 
 (2) There shall be fitted to every fixed gas container either—
 
@@ -90,7 +90,7 @@ and all parts of these valves in contact with gas shall be made entirely of suit
 
 ### Pipelines
 
-**4.**[^key-033675fd2967c93d789a658f18d3fce9] (1) Every pipeline shall be fixed in such a manner and position that—
+**4.**[^c-033675fd2967c93d789a658f18d3fce9] (1) Every pipeline shall be fixed in such a manner and position that—
 
 - (a) it will not be adversely affected by the heat of the exhaust system of any engine or any other source of heat,
 - (b) it is protected from vibration and strain in excess of that which it can reasonably be expected to withstand, and
@@ -103,7 +103,7 @@ and all parts of these valves in contact with gas shall be made entirely of suit
 
 (3) No unsupported length of any high pressure pipeline shall exceed 600 mm.
 
-(4)[^key-c6ccf7db0afb1f833c4c29743fd3183e] Flexible hose may be used in a high pressure pipeline either if—
+(4)[^c-c6ccf7db0afb1f833c4c29743fd3183e] Flexible hose may be used in a high pressure pipeline either if—
 
 - (a)
   - (i) it is reinforced either by stainless steel wire braid or by textile braid,
@@ -117,7 +117,7 @@ and all parts of these valves in contact with gas shall be made entirely of suit
 
 ### Unions and joints
 
-**5.**[^key-a9541d7fda03e40f8fe2ed24797afe1e] (1) Every union and joint on a pipeline or gas container shall be so constructed and fitted that it will—
+**5.**[^c-a9541d7fda03e40f8fe2ed24797afe1e] (1) Every union and joint on a pipeline or gas container shall be so constructed and fitted that it will—
 
 - (a) not be liable to work loose or leak when in use, and
 - (b) be readily accessible for inspection and maintenance.
@@ -126,11 +126,11 @@ and all parts of these valves in contact with gas shall be made entirely of suit
 
 ### Reducing valves
 
-**6.**[^key-176c47b5884d6be964a047be3bd16b1e] Every reducing valve shall be made of suitable materials and be so fitted as to be readily accessible for inspection and maintenance.
+**6.**[^c-176c47b5884d6be964a047be3bd16b1e] Every reducing valve shall be made of suitable materials and be so fitted as to be readily accessible for inspection and maintenance.
 
 ### Pressure relief valves
 
-**7.**[^key-3c60af8ec57f60c520ccc2f7ed7fc2d1] (1) Every pressure relief valve which is fitted to any part of a gas system (including a gas container) shall—
+**7.**[^c-3c60af8ec57f60c520ccc2f7ed7fc2d1] (1) Every pressure relief valve which is fitted to any part of a gas system (including a gas container) shall—
 
 - (a) be made entirely of suitable metal and so constructed and fitted as to ensure that the cooling effect of the gas during discharge shall not prevent its effective operation,
 - (b) be capable, under the most extreme temperatures likely to be met (including exposure to fire), of a discharge rate which prevents the pressure of the contents of the gas system from exceeding its design pressure,
@@ -146,12 +146,12 @@ and all parts of these valves in contact with gas shall be made entirely of suit
 
 ### Valves and cocks
 
-**8.**[^key-7edbf754eaf6d2ad2347abc2d75fd275] (1) A valve or cock shall be fitted to every supply pipeline as near as practicable to every fixed gas container and such valve or cock shall by manual operation enable the supply of gas from the gas container to the gas system to be stopped, and save as provided in sub-paragraph (2) below, shall—
+**8.**[^c-7edbf754eaf6d2ad2347abc2d75fd275] (1) A valve or cock shall be fitted to every supply pipeline as near as practicable to every fixed gas container and such valve or cock shall by manual operation enable the supply of gas from the gas container to the gas system to be stopped, and save as provided in sub-paragraph (2) below, shall—
 
 - (a) if fitted on the outside of the vehicle, be readily visible and accessible from the outside of the vehicle, or
 - (b) if fitted inside the vehicle be readily accessible for operation and be so arranged as to prevent so far as is practicable the possibility of gas entering the engine, passenger or living compartments due to leaks, and the space containing the valve or cock shall be so ventilated and drained as to prevent the accumulation of gas in that space.
 
-(2)[^key-d6f711b89c7ef1192679c564a56bb3fe] Where a fixed gas container supplies no gas system other than a gas propulsion system—
+(2)[^c-d6f711b89c7ef1192679c564a56bb3fe] Where a fixed gas container supplies no gas system other than a gas propulsion system—
 
 - (a) an electrically operated valve may be fitted in place of the valve or cock referred to in sub-paragraph (1) above; and
 - (b) either—
@@ -170,7 +170,7 @@ and all parts of these valves in contact with gas shall be made entirely of suit
 
 ### Gauges
 
-**9.**[^key-cde372aba3a9f1b06efa10dd13d701e3] Every gauge connected to a gas container or to a pipeline shall be so constructed as to be unlikely to deteriorate under the action of the gas used or to be used and shall be so constructed and fitted that—
+**9.**[^c-cde372aba3a9f1b06efa10dd13d701e3] Every gauge connected to a gas container or to a pipeline shall be so constructed as to be unlikely to deteriorate under the action of the gas used or to be used and shall be so constructed and fitted that—
 
 - (a) no gas can escape into any part of the vehicle as a result of any failure of the gauge, and
 - (b) in the event of any failure of the gauge the supply of gas to the gauge can be readily stopped.
@@ -179,7 +179,7 @@ Provided that the requirement specified in sub-paragraph *(b)* above shall not a
 
 ### Propulsion systems
 
-**10.**[^key-b6dd93ddda7ba99bfb81c5a274ab91a0] (1) Every gas propulsion system shall be so designed and constructed that—
+**10.**[^c-b6dd93ddda7ba99bfb81c5a274ab91a0] (1) Every gas propulsion system shall be so designed and constructed that—
 
 - (a) the supply of gas to the engine is automatically stopped by the operation of a valve when the engine is not running at all or is not running on the supply of gas, and
 - (b) where a reducing valve is relied on to comply with sub-paragraph *(a)* above, the supply of gas to the engine is automatically stopped by the operation of an additional valve when the engine is switched off.
@@ -188,26 +188,26 @@ Provided that the requirement specified in sub-paragraph *(b)* above shall not a
 
 ### Special requirements for buses
 
-**11.**[^key-720e50dda1571615b6805364078e7eea] In the case of a bus there shall be fitted as near as practicable to the gas container a valve which shall stop the flow of gas into the gas supply pipeline in the event of—
+**11.**[^c-720e50dda1571615b6805364078e7eea] In the case of a bus there shall be fitted as near as practicable to the gas container a valve which shall stop the flow of gas into the gas supply pipeline in the event of—
 
 - (a) the angle of tilt of the vehicle exceeding that referred to in regulation 6 of the Public Service Vehicles (Conditions of Fitness, Equipment, Use and Certification) Regulations 1981[^f00015], and
 - (b) the deceleration of the vehicle exceeding 5g.
 
 ### Gas-fired appliances
 
-**12.**[^key-73625d1283030591e59af819f247287b] Every part of a gas-fired appliance shall be—
+**12.**[^c-73625d1283030591e59af819f247287b] Every part of a gas-fired appliance shall be—
 
 - (a) so designed and constructed that leakage of gas is unlikely to occur, and
 - (b) constructed of materials which are compatible both with each other and with the gas used.
 
-**13.**[^key-f6f38ce76b75fd67479f5c48c0c6424f] Every gas-fired appliance shall be—
+**13.**[^c-f6f38ce76b75fd67479f5c48c0c6424f] Every gas-fired appliance shall be—
 
 - (a) so located as to be easily inspected and maintained,
 - (b) so located and either insulated or shielded that its use shall not cause or be likely to cause danger due to the presence of any flammable material,
 - (c) so constructed and located as not to impose undue stress on any pipe or fitting, and
 - (d) so fastened or located as not to work loose or move in relation to the vehicle.
 
-**14.**[^key-8bf188a03af5c01b52f1c994ec5c7894] With the exception of catalytic heating appliances, every appliance of the kind described in regulation 96(3)(b) or (c) which is fitted to a motor vehicle shall be fitted with a flue which shall be—
+**14.**[^c-8bf188a03af5c01b52f1c994ec5c7894] With the exception of catalytic heating appliances, every appliance of the kind described in regulation 96(3)(b) or (c) which is fitted to a motor vehicle shall be fitted with a flue which shall be—
 
 - (a) connected to an outlet which is on the outside of the vehicle,
 - (b) constructed and located so as to prevent any expelled matter from entering the vehicle, and
@@ -215,7 +215,7 @@ Provided that the requirement specified in sub-paragraph *(b)* above shall not a
 
 ### General requirements
 
-**15.**[^key-6d3e4ff533ca9287bbcd5f9782779113] Every part of a gas propulsion system or a gas-fired appliance system, excluding the appliance itself, shall be—
+**15.**[^c-6d3e4ff533ca9287bbcd5f9782779113] Every part of a gas propulsion system or a gas-fired appliance system, excluding the appliance itself, shall be—
 
 - (a) so far as is practicable so located or protected as not to be exposed to accidental damage,
 - (b) soundly and properly constructed of materials which are compatible with one another and with the gas used or to be used and which are capable of withstanding the loads and stresses likely to be met in operation, and
@@ -223,40 +223,40 @@ Provided that the requirement specified in sub-paragraph *(b)* above shall not a
 
 ## Annotations
 
-[^key-1fe7c6bf6c0f6ae21d4ca2425ed77e93]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/1) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-1fe7c6bf6c0f6ae21d4ca2425ed77e93]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/1) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-9d9fba41c055e13557ce5e9fe562ea52]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/1) inserted (1.8.2003) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2003 (S.I. 2003/1690)](https://www.legislation.gov.uk/uksi/2003/1690), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1690/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2003/1690/regulation/5/2)
+[^c-9d9fba41c055e13557ce5e9fe562ea52]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/1) inserted (1.8.2003) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2003 (S.I. 2003/1690)](https://www.legislation.gov.uk/uksi/2003/1690), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1690/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2003/1690/regulation/5/2)
 
-[^key-3cfb4c2abefdb26e0fd497a704244e10]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/2) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-3cfb4c2abefdb26e0fd497a704244e10]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/2) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-22294100893730160cd9af6170dab85e]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/3) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-22294100893730160cd9af6170dab85e]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/3) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-033675fd2967c93d789a658f18d3fce9]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/4) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-033675fd2967c93d789a658f18d3fce9]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/4) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-c6ccf7db0afb1f833c4c29743fd3183e]: Textual amendment: [Sch. 5 para. 4(4)(4A)](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/4/4/4A) substituted for Sch. 5 para. 4(4) (1.8.2003) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2003 (S.I. 2003/1690)](https://www.legislation.gov.uk/uksi/2003/1690), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1690/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2003/1690/regulation/5/3)
+[^c-c6ccf7db0afb1f833c4c29743fd3183e]: Textual amendment: [Sch. 5 para. 4(4)(4A)](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/4/4/4A) substituted for Sch. 5 para. 4(4) (1.8.2003) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2003 (S.I. 2003/1690)](https://www.legislation.gov.uk/uksi/2003/1690), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1690/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2003/1690/regulation/5/3)
 
-[^key-a9541d7fda03e40f8fe2ed24797afe1e]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/5) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-a9541d7fda03e40f8fe2ed24797afe1e]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/5) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-176c47b5884d6be964a047be3bd16b1e]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/6) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-176c47b5884d6be964a047be3bd16b1e]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/6) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-3c60af8ec57f60c520ccc2f7ed7fc2d1]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/7) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-3c60af8ec57f60c520ccc2f7ed7fc2d1]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/7) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-7edbf754eaf6d2ad2347abc2d75fd275]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/8) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-7edbf754eaf6d2ad2347abc2d75fd275]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/8) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-d6f711b89c7ef1192679c564a56bb3fe]: Textual amendment: [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/8/2) substituted (1.8.2003) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2003 (S.I. 2003/1690)](https://www.legislation.gov.uk/uksi/2003/1690), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1690/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2003/1690/regulation/5/4)
+[^c-d6f711b89c7ef1192679c564a56bb3fe]: Textual amendment: [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/8/2) substituted (1.8.2003) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2003 (S.I. 2003/1690)](https://www.legislation.gov.uk/uksi/2003/1690), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1690/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2003/1690/regulation/5/4)
 
-[^key-cde372aba3a9f1b06efa10dd13d701e3]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/9) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-cde372aba3a9f1b06efa10dd13d701e3]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/9) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-b6dd93ddda7ba99bfb81c5a274ab91a0]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/10) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-b6dd93ddda7ba99bfb81c5a274ab91a0]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/10) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-720e50dda1571615b6805364078e7eea]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/11) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-720e50dda1571615b6805364078e7eea]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/11) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
 [^f00015]: Footnote: To which there are no relevant amending instruments.
 
-[^key-73625d1283030591e59af819f247287b]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/12) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-73625d1283030591e59af819f247287b]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/12) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-f6f38ce76b75fd67479f5c48c0c6424f]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/13) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-f6f38ce76b75fd67479f5c48c0c6424f]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/13) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-8bf188a03af5c01b52f1c994ec5c7894]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/14) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-8bf188a03af5c01b52f1c994ec5c7894]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/14) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-6d3e4ff533ca9287bbcd5f9782779113]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/15) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-6d3e4ff533ca9287bbcd5f9782779113]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/1986/1078/schedule/5/paragraph/15) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

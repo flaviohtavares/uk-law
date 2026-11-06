@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — SUBORDINATE LEGISLATION REVOKED[^key-8c9d19538b254cc9953e9978074b017e]
+## SCHEDULE 3 — SUBORDINATE LEGISLATION REVOKED[^c-8c9d19538b254cc9953e9978074b017e]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ Regulation 162
 
 ## Annotations
 
-[^key-8c9d19538b254cc9953e9978074b017e]: Commencement: Sch. 3 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-8c9d19538b254cc9953e9978074b017e]: Commencement: Sch. 3 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

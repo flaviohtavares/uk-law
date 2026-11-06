@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74A. Expenses incurred otherwise than for election purposes.[^c14489562][^key-a74e98e474fb049a86157667748ff177][^c14489551][^c14479931]
+## 74A. Expenses incurred otherwise than for election purposes.[^c14489562][^c-a74e98e474fb049a86157667748ff177][^c14489551][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 [^c14489562]: Modification: S. 74A applied (with modifications) (1.8.2001) by [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599), [art. 3](https://www.legislation.gov.uk/uksi/2001/2599/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2599/schedule/1) (as substituted (10.2.2009) by [S.I. 2009/256](https://www.legislation.gov.uk/uksi/2009/256), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/256/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/256/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/256/schedule/1))
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14489551]: Textual amendment: S. 74A inserted (1.7.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [s. 138(1)(2)](https://www.legislation.gov.uk/ukpga/2000/41/section/138/1/2), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2000/41/schedule/18/paragraph/5) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 4](https://www.legislation.gov.uk/uksi/2001/222/article/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/I) (subject to transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/II))
 

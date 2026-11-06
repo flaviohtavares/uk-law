@@ -50,29 +50,29 @@ Regulations 13(3), 21 and 23
 | *Extent: E+W+S+N.I.*<br>**3.** Visibility: | Plainly visible to the rear |
 | *Extent: E+W+S+N.I.*<br>**4.** Alignment: | The lower edge of every rear marking shall be fitted horizontally. Every part of a rear marking shall lie within 20° of a transverse vertical plane at right angles to the longitudinal axis of the vehicle and shall face to the rear |
 | *Extent: E+W+S+N.I.*<br>**5.** Markings— |  |
-| (a) A motor vehicle or trailer not covered by sub-paragraph (*b*) or (c)[^key-01647b71d677971c8049cb383c98aa65]: | In respect of any rear marking of a type shown in Part III of this Schedule a British Standard mark or in respect of any rear marking of a type shown in Part IV of this Schedule an approval mark |
-| (b) Unless covered by sub-paragraph (c), a motor vehicle[^key-b2379eca983429f3ab99fa55af3f6e51] first used on or after 24th January 1996 and a trailer manufactured on or after 24th January 1996: | An approval mark |
-| (c)[^key-4b46c39d2b496af072bebf5e187aae7a] A motor vehicle first used on or after 10<sup>th</sup> July 2011 and a trailer sold or supplied by retail on or after 10<sup>th</sup> July 2011: | (d) A 70.01 mark |
+| (a) A motor vehicle or trailer not covered by sub-paragraph (*b*) or (c)[^c-01647b71d677971c8049cb383c98aa65]: | In respect of any rear marking of a type shown in Part III of this Schedule a British Standard mark or in respect of any rear marking of a type shown in Part IV of this Schedule an approval mark |
+| (b) Unless covered by sub-paragraph (c), a motor vehicle[^c-b2379eca983429f3ab99fa55af3f6e51] first used on or after 24th January 1996 and a trailer manufactured on or after 24th January 1996: | An approval mark |
+| (c)[^c-4b46c39d2b496af072bebf5e187aae7a] A motor vehicle first used on or after 10<sup>th</sup> July 2011 and a trailer sold or supplied by retail on or after 10<sup>th</sup> July 2011: | (d) A 70.01 mark |
 | *Extent: E+W+S+N.I.*<br>**6.** Colour: | Red fluorescent material in the stippled areas shown in any of the diagrams in Part III or IV of this Schedule and yellow retro reflective material in any of the areas so shown, being areas not stippled and not constituting a letter. All letters shall be coloured black |
 
-**7.**[^key-5c9ff48689f1ad8292f9b34dfd81c0f2] Other requirements—
+**7.**[^c-5c9ff48689f1ad8292f9b34dfd81c0f2] Other requirements—
 
 - A rear marking of a type shown in a diagram in Part III of this Schedule shall comply with the requirements of that Part.
 - The two parts of every rear marking of a type shown in diagrams 2, 3 and 5 in Part III and diagrams 2, 3, 6 and 7 in Part IV of this Schedule shall form a pair and the four parts of every rear marking of a type shown in diagrams 4 and 8 in Part IV of this Schedule shall form two pairs.
 
-**8.**[^key-4222a9ed97684b15998cc5827d01d9df] Definitions—
+**8.**[^c-4222a9ed97684b15998cc5827d01d9df] Definitions—
 
 In this Schedule—
 
-- (a) “approval mark” means a marking designated as an approval mark by regulation 3 of the Designation of Approval Marks Regulations and shown at item 70 of Schedule 2 to those Regulations; [^key-3715465b0696cc4f9c36805c776f681f]...
-- (b) “British Standard mark” means the specification for rear markings for vehicles published by the British Standards Institution under the reference BS AU 152: 1970, namely “BS AU 152” ; and[^key-b67035e2f6ee28d45a3fc42f9cdafdac]
+- (a) “approval mark” means a marking designated as an approval mark by regulation 3 of the Designation of Approval Marks Regulations and shown at item 70 of Schedule 2 to those Regulations; [^c-3715465b0696cc4f9c36805c776f681f]...
+- (b) “British Standard mark” means the specification for rear markings for vehicles published by the British Standards Institution under the reference BS AU 152: 1970, namely “BS AU 152” ; and[^c-b67035e2f6ee28d45a3fc42f9cdafdac]
 - (c) “70.01 mark” means the international approval mark referred to in paragraph 5.4.1 of ECE Regulation 70 as amended by the 01 series of amendments (as in force on 15<sup>th</sup> October 2008).
 
-### Part II — Requirements Relating to Optional Rear Markings[^key-deb0758904ab8371ca9aff5d40c83f6f]
+### Part II — Requirements Relating to Optional Rear Markings[^c-deb0758904ab8371ca9aff5d40c83f6f]
 
 Subject to regulation 14(2), any number of rear markings shown in Parts III and IV may be fitted to the rear of a vehicle.
 
-### Part III — Rear Markings Prescribed for Motor Vehicles First Used Before 24th January 1996 and Trailers Manufactured Before 24th January 1996[^key-10907f85063efbf2e725a8be9e0aca31][^key-bc5a63721f1e54301ff8680cba08f54e]
+### Part III — Rear Markings Prescribed for Motor Vehicles First Used Before 24th January 1996 and Trailers Manufactured Before 24th January 1996[^c-10907f85063efbf2e725a8be9e0aca31][^c-bc5a63721f1e54301ff8680cba08f54e]
 
 |  |
 | --- |
@@ -101,7 +101,7 @@ Subject to regulation 14(2), any number of rear markings shown in Parts III and 
 
 **7.** All letters incorporated in a rear marking of a type shown in diagrams 4 or 5 above shall have the proportions and form of letters as shown in Schedule 25.
 
-### Part IV — Rear Markings Prescribed for Motor Vehicels Whenever First Used and Trailers Whenever Manufactured[^key-1017536e4a6c53cd323fbf6521121449]
+### Part IV — Rear Markings Prescribed for Motor Vehicels Whenever First Used and Trailers Whenever Manufactured[^c-1017536e4a6c53cd323fbf6521121449]
 
 | *Left* | *Right* |
 | --- | --- |
@@ -116,24 +116,24 @@ Subject to regulation 14(2), any number of rear markings shown in Parts III and 
 
 ## Annotations
 
-[^key-01647b71d677971c8049cb383c98aa65]: Textual amendment: Words in [Sch. 19 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/a)
+[^c-01647b71d677971c8049cb383c98aa65]: Textual amendment: Words in [Sch. 19 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(a)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/a)
 
-[^key-b2379eca983429f3ab99fa55af3f6e51]: Textual amendment: Words in [Sch. 19 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/b)
+[^c-b2379eca983429f3ab99fa55af3f6e51]: Textual amendment: Words in [Sch. 19 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I) substituted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(b)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/b)
 
-[^key-4b46c39d2b496af072bebf5e187aae7a]: Textual amendment: Words in [Sch. 19 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I) added (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(c)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/c)
+[^c-4b46c39d2b496af072bebf5e187aae7a]: Textual amendment: Words in [Sch. 19 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I) added (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(c)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/c)
 
-[^key-5c9ff48689f1ad8292f9b34dfd81c0f2]: Commencement: [Sch. 19 Pt. I para. 7](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I/paragraph/7) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-5c9ff48689f1ad8292f9b34dfd81c0f2]: Commencement: [Sch. 19 Pt. I para. 7](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I/paragraph/7) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-4222a9ed97684b15998cc5827d01d9df]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/paragraph/8) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-4222a9ed97684b15998cc5827d01d9df]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/paragraph/8) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-3715465b0696cc4f9c36805c776f681f]: Textual amendment: Word in [Sch. 19 Pt. I para. 8(a)](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I/paragraph/8/a) omitted (21.10.2011) by virtue of [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(d)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/d)
+[^c-3715465b0696cc4f9c36805c776f681f]: Textual amendment: Word in [Sch. 19 Pt. I para. 8(a)](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I/paragraph/8/a) omitted (21.10.2011) by virtue of [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(d)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/d)
 
-[^key-b67035e2f6ee28d45a3fc42f9cdafdac]: Textual amendment: [Sch. 19 Pt. I para. 8(c)](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I) and word added (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(e)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/e)
+[^c-b67035e2f6ee28d45a3fc42f9cdafdac]: Textual amendment: [Sch. 19 Pt. I para. 8(c)](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/I) and word added (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [17(e)](https://www.legislation.gov.uk/nisr/2011/329/regulation/17/e)
 
-[^key-deb0758904ab8371ca9aff5d40c83f6f]: Commencement: [Sch. 19 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-deb0758904ab8371ca9aff5d40c83f6f]: Commencement: [Sch. 19 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-10907f85063efbf2e725a8be9e0aca31]: Commencement: [Sch. 19 Pt. III](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/III) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-10907f85063efbf2e725a8be9e0aca31]: Commencement: [Sch. 19 Pt. III](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/III) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-bc5a63721f1e54301ff8680cba08f54e]: Textual amendment: [Sch. 19 Pt. III](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/III) diagrams 1-5 substituted (25.2.2003) by [Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/19)](https://www.legislation.gov.uk/nisr/2003/19), [regs. 1](https://www.legislation.gov.uk/nisr/2003/19/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/19/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2003/19/schedule)
+[^c-bc5a63721f1e54301ff8680cba08f54e]: Textual amendment: [Sch. 19 Pt. III](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/III) diagrams 1-5 substituted (25.2.2003) by [Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/19)](https://www.legislation.gov.uk/nisr/2003/19), [regs. 1](https://www.legislation.gov.uk/nisr/2003/19/regulation/1), [2](https://www.legislation.gov.uk/nisr/2003/19/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2003/19/schedule)
 
-[^key-1017536e4a6c53cd323fbf6521121449]: Commencement: [Sch. 19 Pt. IV](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/IV) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-1017536e4a6c53cd323fbf6521121449]: Commencement: [Sch. 19 Pt. IV](https://www.legislation.gov.uk/nisr/2000/169/schedule/19/part/IV) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

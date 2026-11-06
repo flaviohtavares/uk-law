@@ -22,57 +22,57 @@ summary: ''
 
 Section 25
 
-### Part 1 — Amendments relating to auditors[^key-3de231ea18a370825377c18d55992ffa]
+### Part 1 — Amendments relating to auditors[^c-3de231ea18a370825377c18d55992ffa]
 
 **No longer in force.**
 
-#### Companies Act 1989 (c. 40)[^key-3de231ea18a370825377c18d55992ffa]
+#### Companies Act 1989 (c. 40)[^c-3de231ea18a370825377c18d55992ffa]
 
-**1.**[^key-3de231ea18a370825377c18d55992ffa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3de231ea18a370825377c18d55992ffa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3de231ea18a370825377c18d55992ffa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3de231ea18a370825377c18d55992ffa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3de231ea18a370825377c18d55992ffa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3de231ea18a370825377c18d55992ffa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Companies (Northern Ireland) Order 1990 (S.I. 1990/593(N.I. 5))
 
-**4.**[^key-3de231ea18a370825377c18d55992ffa][^key-f9f81ae136a90252581019a4ca06405d] In the Companies (Northern Ireland) Order 1990, omit Article 49 and Schedule 14 (supervisory and qualifying bodies: restrictive practices).
+**4.**[^c-3de231ea18a370825377c18d55992ffa][^c-f9f81ae136a90252581019a4ca06405d] In the Companies (Northern Ireland) Order 1990, omit Article 49 and Schedule 14 (supervisory and qualifying bodies: restrictive practices).
 
 ### Part 2 — Amendments relating to accounts and reports
 
 #### Companies Act 1985 (c. 6)
 
-**5.**[^key-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7b7397065f5b60eecece89c85f19cbbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6))
 
-**11.**[^key-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-d07f4fdd41254df0851721001fcbf670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 3 — Amendments relating to investigations
 
 #### Companies Act 1985 (c. 6)
 
-**16.**[^key-7854dbb03ced7f19c6add89b54e174dc] The Companies Act 1985 has effect subject to the following amendments.
+**16.**[^c-7854dbb03ced7f19c6add89b54e174dc] The Companies Act 1985 has effect subject to the following amendments.
 
-**17.**[^key-aac8ebce1486a42ca5dbc629425d567b] After section 447 insert—
+**17.**[^c-aac8ebce1486a42ca5dbc629425d567b] After section 447 insert—
 
 > **447A. Information provided: evidence**
 >
@@ -91,7 +91,7 @@ Section 25
 > - (b) an offence under section 5 of the Perjury Act 1911 (false statement made otherwise than on oath), or
 > - (c) an offence under section 44(2) of the Criminal Law (Consolidation) (Scotland) Act 1995 (false statement made otherwise than on oath).
 
-**18.**[^key-af5119d637e650a9507cb71e80a0ba2a] For section 449 substitute—
+**18.**[^c-af5119d637e650a9507cb71e80a0ba2a] For section 449 substitute—
 
 > **449. Provision for security of information obtained**
 >
@@ -130,7 +130,7 @@ Section 25
 >
 > (11) Nothing in this section authorises the making of a disclosure in contravention of the Data Protection Act 1998.
 
-**19.**[^key-dacf6f7db2d769f91d8e9b79e64b5cb2] For section 451 substitute—
+**19.**[^c-dacf6f7db2d769f91d8e9b79e64b5cb2] For section 451 substitute—
 
 > **451. Punishment for furnishing false information**
 >
@@ -143,7 +143,7 @@ Section 25
 >
 > (3) Sections 732 (restriction on prosecutions), 733 (liability of individuals for corporate default) and 734 (criminal proceedings against unincorporated bodies) apply to an offence under this section.
 
-**20.**[^key-464c89cf683ad1ebbefa4c1aff4a5b9e] (1) Section 451A (disclosure of certain information) is amended as follows.
+**20.**[^c-464c89cf683ad1ebbefa4c1aff4a5b9e] (1) Section 451A (disclosure of certain information) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -158,7 +158,7 @@ Section 25
 >
 > (7) The reference to an inspector in subsection (2)(b) above includes a reference to a person accompanying an inspector in pursuance of section 453A(4).
 
-**21.**[^key-385858b1381a978552f95a82b27442b3] In section 452—
+**21.**[^c-385858b1381a978552f95a82b27442b3] In section 452—
 
 - (a) for subsection (1) substitute—
 
@@ -185,13 +185,13 @@ Section 25
   >
   > (5) Despite subsections (1) and (2) a person who is a lawyer may be compelled to disclose the name and address of his client.
 
-**22.**[^key-9e8aa45b2403029e536f4b4b918b9f81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-9e8aa45b2403029e536f4b4b918b9f81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-9e8aa45b2403029e536f4b4b918b9f81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-9e8aa45b2403029e536f4b4b918b9f81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-9e8aa45b2403029e536f4b4b918b9f81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-9e8aa45b2403029e536f4b4b918b9f81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-37f93ffc92a93922473bd9c51667158c][^key-fa8cd4eb76f23233763d0489e080171a] After Schedule 15B insert—
+**25.**[^c-37f93ffc92a93922473bd9c51667158c][^c-fa8cd4eb76f23233763d0489e080171a] After Schedule 15B insert—
 
 > **SCHEDULE 15C — Specified persons**
 >
@@ -358,13 +358,13 @@ Section 25
 >
 > **49.** A disclosure in pursuance of any Community obligation.
 
-**26.**[^key-93e1c73819cb60b93606fa6167cc9e0b] (1) Schedule 24 (punishment of offences) is amended as follows.
+**26.**[^c-93e1c73819cb60b93606fa6167cc9e0b] (1) Schedule 24 (punishment of offences) is amended as follows.
 
 (2) For the entry for section 449(2) substitute—
 
 > |  |  |  |  |  |
 > | --- | --- | --- | --- | --- |
-> | 449(6) | Wrongful disclosure of information to which section 449 applies. | 1\. On indictment.<br>2\. Summary. | 2 years, or a fine; or both.<br>the general limit in a magistrates’ court[^key-9dd44ee3ef062df817d2ca02c4a0c2a3], or the statutory maximum; or both. |  |
+> | 449(6) | Wrongful disclosure of information to which section 449 applies. | 1\. On indictment.<br>2\. Summary. | 2 years, or a fine; or both.<br>the general limit in a magistrates’ court[^c-9dd44ee3ef062df817d2ca02c4a0c2a3], or the statutory maximum; or both. |  |
 
 .
 
@@ -372,7 +372,7 @@ Section 25
 
 > |  |  |  |  |  |
 > | --- | --- | --- | --- | --- |
-> | 451 | Providing false information in purported compliance with section 447. | 1\. On indictment.<br>2\. Summary. | 2 years, or a fine; or both.<br>the general limit in a magistrates’ court[^key-f9ebe670c66ff5fdc92292f6367b836e], or the statutory maximum; or both. |  |
+> | 451 | Providing false information in purported compliance with section 447. | 1\. On indictment.<br>2\. Summary. | 2 years, or a fine; or both.<br>the general limit in a magistrates’ court[^c-f9ebe670c66ff5fdc92292f6367b836e], or the statutory maximum; or both. |  |
 
 .
 
@@ -386,15 +386,15 @@ Section 25
 
 #### Insolvency Act 1986 (c. 45)
 
-**27.**[^key-2eaac6c7db05036bb203b51d5e1776c1] In section 124A(1)(a) of the Insolvency Act 1986 (petition for winding up on grounds of public interest), after “Part XIV” insert “ (except section 448A) ”.
+**27.**[^c-2eaac6c7db05036bb203b51d5e1776c1] In section 124A(1)(a) of the Insolvency Act 1986 (petition for winding up on grounds of public interest), after “Part XIV” insert “ (except section 448A) ”.
 
 #### Company Directors Disqualification Act 1986 (c. 46)
 
-**28.**[^key-f585794490056c5c01497546003b83c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-f585794490056c5c01497546003b83c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Companies Act 1989 (c. 40)
 
-**29.**[^key-b66d5abdf8ab60f3a4417fffbb9ca1c1] In the table in section 87(4) of the Companies Act 1989 (exceptions from restrictions on disclosure), after the entry relating to the Accountant in Bankruptcy insert—
+**29.**[^c-b66d5abdf8ab60f3a4417fffbb9ca1c1] In the table in section 87(4) of the Companies Act 1989 (exceptions from restrictions on disclosure), after the entry relating to the Accountant in Bankruptcy insert—
 
 > |  |  |
 > | --- | --- |
@@ -402,52 +402,52 @@ Section 25
 
 #### Criminal Justice and Police Act 2001 (c. 16)
 
-**30.**[^key-5efb2949007db0863ba8fbc11fe189ec] In paragraph 17 of Schedule 2 to the Criminal Justice and Police Act 2001 (amendments of sections 434 and 447 of the Companies Act 1985), for “sections 434(6) and 447(9)” substitute “ section 434(6) ”.
+**30.**[^c-5efb2949007db0863ba8fbc11fe189ec] In paragraph 17 of Schedule 2 to the Criminal Justice and Police Act 2001 (amendments of sections 434 and 447 of the Companies Act 1985), for “sections 434(6) and 447(9)” substitute “ section 434(6) ”.
 
 #### Anti-terrorism, Crime and Security Act 2001 (c. 24)
 
-**31.**[^key-0c12e5d2b803dbe78d89767856e06890] In paragraph 24 of Schedule 4 to the Anti-terrorism, Crime and Security Act 2001 (enactments to which section 17 of that Act applies), for “449(1)” substitute “ 449 ”.
+**31.**[^c-0c12e5d2b803dbe78d89767856e06890] In paragraph 24 of Schedule 4 to the Anti-terrorism, Crime and Security Act 2001 (enactments to which section 17 of that Act applies), for “449(1)” substitute “ 449 ”.
 
 ## Annotations
 
-[^key-3de231ea18a370825377c18d55992ffa]: Textual amendment: Sch. 2 Pt. 1 repealed (6.4.2008 for the repeal of Sch. 2 paras. 1-3) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
+[^c-3de231ea18a370825377c18d55992ffa]: Textual amendment: Sch. 2 Pt. 1 repealed (6.4.2008 for the repeal of Sch. 2 paras. 1-3) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
 
-[^key-f9f81ae136a90252581019a4ca06405d]: Commencement: Sch. 2 para. 4 in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
+[^c-f9f81ae136a90252581019a4ca06405d]: Commencement: Sch. 2 para. 4 in force at 1.1.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3322/schedule/1)
 
-[^key-7b7397065f5b60eecece89c85f19cbbb]: Textual amendment: Sch. 2 paras. 5-10 repealed (1.10.2007 for the repeal of Sch. 2 paras. 7-9, 6.4.2008 for the repeal of Sch. 2 paras. 5, 10) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7) [12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48)); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7) [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
+[^c-7b7397065f5b60eecece89c85f19cbbb]: Textual amendment: Sch. 2 paras. 5-10 repealed (1.10.2007 for the repeal of Sch. 2 paras. 7-9, 6.4.2008 for the repeal of Sch. 2 paras. 5, 10) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7) [12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48)); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7) [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
 
-[^key-d07f4fdd41254df0851721001fcbf670]: Textual amendment: Sch. 2 paras. 11-15 repealed (6.4.2008) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
+[^c-d07f4fdd41254df0851721001fcbf670]: Textual amendment: Sch. 2 paras. 11-15 repealed (6.4.2008) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
 
-[^key-7854dbb03ced7f19c6add89b54e174dc]: Commencement: Sch. 2 para. 16 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-7854dbb03ced7f19c6add89b54e174dc]: Commencement: Sch. 2 para. 16 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-aac8ebce1486a42ca5dbc629425d567b]: Commencement: Sch. 2 para. 17 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-aac8ebce1486a42ca5dbc629425d567b]: Commencement: Sch. 2 para. 17 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-af5119d637e650a9507cb71e80a0ba2a]: Commencement: Sch. 2 para. 18 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-af5119d637e650a9507cb71e80a0ba2a]: Commencement: Sch. 2 para. 18 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-dacf6f7db2d769f91d8e9b79e64b5cb2]: Commencement: Sch. 2 para. 19 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-dacf6f7db2d769f91d8e9b79e64b5cb2]: Commencement: Sch. 2 para. 19 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-464c89cf683ad1ebbefa4c1aff4a5b9e]: Commencement: Sch. 2 para. 20 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-464c89cf683ad1ebbefa4c1aff4a5b9e]: Commencement: Sch. 2 para. 20 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-385858b1381a978552f95a82b27442b3]: Commencement: Sch. 2 para. 21 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-385858b1381a978552f95a82b27442b3]: Commencement: Sch. 2 para. 21 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-9e8aa45b2403029e536f4b4b918b9f81]: Textual amendment: Sch. 2 paras. 22-24 repealed (1.10.2007 for the repeal of Sch. 2 paras. 22, 23, 6.4.2008 in so far as not already in force) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7) [12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48)); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7) [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
+[^c-9e8aa45b2403029e536f4b4b918b9f81]: Textual amendment: Sch. 2 paras. 22-24 repealed (1.10.2007 for the repeal of Sch. 2 paras. 22, 23, 6.4.2008 in so far as not already in force) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 8](https://www.legislation.gov.uk/uksi/2007/2194/article/8), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/2194/article/7) [12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) [Sch. 3 para. 48](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/48)); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7) [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
 
-[^key-37f93ffc92a93922473bd9c51667158c]: Commencement: Sch. 2 para. 25 in force at 6.4.2005 for specified purposes by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-37f93ffc92a93922473bd9c51667158c]: Commencement: Sch. 2 para. 25 in force at 6.4.2005 for specified purposes by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-fa8cd4eb76f23233763d0489e080171a]: Commencement: Sch. 2 para. 25 in force at 1.7.2005 in so far as not already in force by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-fa8cd4eb76f23233763d0489e080171a]: Commencement: Sch. 2 para. 25 in force at 1.7.2005 in so far as not already in force by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-93e1c73819cb60b93606fa6167cc9e0b]: Commencement: Sch. 2 para. 26 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-93e1c73819cb60b93606fa6167cc9e0b]: Commencement: Sch. 2 para. 26 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-9dd44ee3ef062df817d2ca02c4a0c2a3]: Textual amendment: Words in [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/ukpga/2004/27/schedule/2/paragraph/26/2) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-9dd44ee3ef062df817d2ca02c4a0c2a3]: Textual amendment: Words in [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/ukpga/2004/27/schedule/2/paragraph/26/2) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-f9ebe670c66ff5fdc92292f6367b836e]: Textual amendment: Words in [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/ukpga/2004/27/schedule/2/paragraph/26/3) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-f9ebe670c66ff5fdc92292f6367b836e]: Textual amendment: Words in [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/ukpga/2004/27/schedule/2/paragraph/26/3) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-2eaac6c7db05036bb203b51d5e1776c1]: Commencement: Sch. 2 para. 27 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-2eaac6c7db05036bb203b51d5e1776c1]: Commencement: Sch. 2 para. 27 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-f585794490056c5c01497546003b83c0]: Textual amendment: Sch. 2 para. 28 omitted (26.5.2015 for specified purposes, 1.10.2015 in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2015/26/schedule/7/paragraph/24); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/g)
+[^c-f585794490056c5c01497546003b83c0]: Textual amendment: Sch. 2 para. 28 omitted (26.5.2015 for specified purposes, 1.10.2015 in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2015/26/schedule/7/paragraph/24); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/g)
 
-[^key-b66d5abdf8ab60f3a4417fffbb9ca1c1]: Commencement: Sch. 2 para. 29 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-b66d5abdf8ab60f3a4417fffbb9ca1c1]: Commencement: Sch. 2 para. 29 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-5efb2949007db0863ba8fbc11fe189ec]: Commencement: Sch. 2 para. 30 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-5efb2949007db0863ba8fbc11fe189ec]: Commencement: Sch. 2 para. 30 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
 
-[^key-0c12e5d2b803dbe78d89767856e06890]: Commencement: Sch. 2 para. 31 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-0c12e5d2b803dbe78d89767856e06890]: Commencement: Sch. 2 para. 31 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))

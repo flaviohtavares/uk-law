@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-3545b1ff4f7a4315ab67ecdd87276cd1]
+Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-3545b1ff4f7a4315ab67ecdd87276cd1]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 20th August 2001
 
-[^key-3545b1ff4f7a4315ab67ecdd87276cd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3545b1ff4f7a4315ab67ecdd87276cd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3545b1ff4f7a4315ab67ecdd87276cd1]
+## 1. Citation and commencement[^c-3545b1ff4f7a4315ab67ecdd87276cd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^key-3545b1ff4f7a4315ab67ecdd87276cd1]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^c-3545b1ff4f7a4315ab67ecdd87276cd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-3545b1ff4f7a4315ab67ecdd87276cd1]
+## 3. Revocation[^c-3545b1ff4f7a4315ab67ecdd87276cd1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3545b1ff4f7a4315ab67ecdd87276cd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3545b1ff4f7a4315ab67ecdd87276cd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3545b1ff4f7a4315ab67ecdd87276cd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3545b1ff4f7a4315ab67ecdd87276cd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3545b1ff4f7a4315ab67ecdd87276cd1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/267) revoked (29.10.2012) by [The Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/355)](https://www.legislation.gov.uk/nisr/2012/355), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/355/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2012/355/regulation/4)
+[^c-3545b1ff4f7a4315ab67ecdd87276cd1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/267) revoked (29.10.2012) by [The Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/355)](https://www.legislation.gov.uk/nisr/2012/355), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/355/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2012/355/regulation/4)

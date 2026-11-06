@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67E. The trustee approval requirement[^key-dd9e22ba8fb7276c657a3f6b74cf7629]
+## 67E. The trustee approval requirement[^c-dd9e22ba8fb7276c657a3f6b74cf7629]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ and the making of the determination, or giving of consent, complies with subsect
 
 ## Annotations
 
-[^key-dd9e22ba8fb7276c657a3f6b74cf7629]: Textual amendment: Ss. 67-67I substituted for s. 67 (1.11.2005 for specified purposes, 6.4.2006 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 262](https://www.legislation.gov.uk/ukpga/2004/35/section/262), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5/a)[(b)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/2)
+[^c-dd9e22ba8fb7276c657a3f6b74cf7629]: Textual amendment: Ss. 67-67I substituted for s. 67 (1.11.2005 for specified purposes, 6.4.2006 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 262](https://www.legislation.gov.uk/ukpga/2004/35/section/262), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5/a)[(b)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/2)

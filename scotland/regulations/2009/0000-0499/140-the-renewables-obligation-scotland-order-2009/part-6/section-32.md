@@ -37,10 +37,10 @@ summary: ''
   - (i) the repayment of all amounts due under paragraph (2)(a) or the payment of all amounts of interest due under paragraph (2)(b); and
   - (ii) where a grant or any part has been cancelled under paragraph (2)(c), the cancellation of that grant or part,
 
-  the amount of electricity to be stated in each SROC issued in respect of that electricity is 1 megawatt hour or the amount determined in accordance with any of articles 27 to 28E[^key-aba3719af88744b01a610bc673e43f3c], whichever is the greater.
+  the amount of electricity to be stated in each SROC issued in respect of that electricity is 1 megawatt hour or the amount determined in accordance with any of articles 27 to 28E[^c-aba3719af88744b01a610bc673e43f3c], whichever is the greater.
 
 (4) In determining how electricity has been generated for the purposes of paragraph (1)(b)(ii), no account is to be taken of any waste which the generating station uses for permitted ancillary purposes.
 
 ## Annotations
 
-[^key-aba3719af88744b01a610bc673e43f3c]: Textual amendment: Words in art. 32(3) substituted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [19](https://www.legislation.gov.uk/ssi/2013/116/article/19) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-aba3719af88744b01a610bc673e43f3c]: Textual amendment: Words in art. 32(3) substituted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [19](https://www.legislation.gov.uk/ssi/2013/116/article/19) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))

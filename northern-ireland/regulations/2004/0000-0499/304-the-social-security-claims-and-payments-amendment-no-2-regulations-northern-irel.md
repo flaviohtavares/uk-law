@@ -41,19 +41,19 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 5(1)(a) and 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d4083dc6350d84edaacbed9965991459]
+## 1. Citation, commencement and interpretation[^c-d4083dc6350d84edaacbed9965991459]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments) (Amendment No.2) Regulations (Northern Ireland) 2004 and shall come into operation on 6th October 2004.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-77da63585ea2b9fc6168481eb66a26f8]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-77da63585ea2b9fc6168481eb66a26f8]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00004] shall be amended in accordance with paragraphs (2) and (3).
 
 (2) In regulation 19(3)[^f00005] (time for claiming benefit) sub-paragraph (fa)[^f00006] shall be omitted.
 
-(3)[^key-b04e8d163420af5aa082e8e18053f73a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b04e8d163420af5aa082e8e18053f73a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Social Development on 19th July 2004.
 
@@ -77,11 +77,11 @@ These Regulations do not impose a charge on business.
 
 [^f00002]: Footnote: *See* Article 8(b) and Part II of Schedule 6 to, [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-d4083dc6350d84edaacbed9965991459]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/304/regulation/1) in operation at 6.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/304/regulation/1/1)
+[^c-d4083dc6350d84edaacbed9965991459]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/304/regulation/1) in operation at 6.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/304/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-77da63585ea2b9fc6168481eb66a26f8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/304/regulation/2) in operation at 6.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/304/regulation/1/1)
+[^c-77da63585ea2b9fc6168481eb66a26f8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/304/regulation/2) in operation at 6.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/304/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
@@ -89,4 +89,4 @@ These Regulations do not impose a charge on business.
 
 [^f00006]: Footnote: Sub-paragraph (fa) was inserted by regulation 8(2) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
-[^key-b04e8d163420af5aa082e8e18053f73a]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2004/304/regulation/2/3) revoked (6.10.2008) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2008 (S.R. 2008/410)](https://www.legislation.gov.uk/nisr/2008/410), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1), [6(b)](https://www.legislation.gov.uk/nisr/2008/410/regulation/6/b)
+[^c-b04e8d163420af5aa082e8e18053f73a]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2004/304/regulation/2/3) revoked (6.10.2008) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2008 (S.R. 2008/410)](https://www.legislation.gov.uk/nisr/2008/410), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1), [6(b)](https://www.legislation.gov.uk/nisr/2008/410/regulation/6/b)

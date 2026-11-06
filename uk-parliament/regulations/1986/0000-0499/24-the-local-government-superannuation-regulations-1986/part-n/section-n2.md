@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## N2. Decisions by employing authorities as to status of employees[^key-010af1bd38c7253eae10c07b3f7f1eff]
+## N2. Decisions by employing authorities as to status of employees[^c-010af1bd38c7253eae10c07b3f7f1eff]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-010af1bd38c7253eae10c07b3f7f1eff]: Commencement: [Reg. N2](https://www.legislation.gov.uk/uksi/1986/24/regulation/N2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-010af1bd38c7253eae10c07b3f7f1eff]: Commencement: [Reg. N2](https://www.legislation.gov.uk/uksi/1986/24/regulation/N2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

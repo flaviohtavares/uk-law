@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Right to have list of creditors[^key-ade006dc6ff00a75d2d5bd0d6745c36f]
+## 111. Right to have list of creditors[^c-ade006dc6ff00a75d2d5bd0d6745c36f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ This does not apply if a statement of the PPP company’s affairs has been filed
 
 ## Annotations
 
-[^key-ade006dc6ff00a75d2d5bd0d6745c36f]: Commencement: [Rule 111](https://www.legislation.gov.uk/uksi/2007/3141/rule/111) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-ade006dc6ff00a75d2d5bd0d6745c36f]: Commencement: [Rule 111](https://www.legislation.gov.uk/uksi/2007/3141/rule/111) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. Conditions for application to open an account that is a Lifetime ISA[^key-6167354e84e810b77f5ccf9237d73494]
+## 12B. Conditions for application to open an account that is a Lifetime ISA[^c-6167354e84e810b77f5ccf9237d73494]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6167354e84e810b77f5ccf9237d73494]: Textual amendment: [Reg. 12B](https://www.legislation.gov.uk/uksi/1998/1870/regulation/12B) inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [24](https://www.legislation.gov.uk/uksi/2017/466/regulation/24)
+[^c-6167354e84e810b77f5ccf9237d73494]: Textual amendment: [Reg. 12B](https://www.legislation.gov.uk/uksi/1998/1870/regulation/12B) inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [24](https://www.legislation.gov.uk/uksi/2017/466/regulation/24)

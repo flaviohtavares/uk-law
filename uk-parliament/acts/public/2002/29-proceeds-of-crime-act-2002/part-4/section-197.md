@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Powers[^key-aa671d40c22c373d93ac8605fd4880bb][^key-e3634034bab4be7cd4cb838ceea63874][^key-e6a2365e6b28fd124a5831264291e81f][^key-e3634034bab4be7cd4cb838ceea63874]
+## 197. Powers[^c-aa671d40c22c373d93ac8605fd4880bb][^c-e3634034bab4be7cd4cb838ceea63874][^c-e6a2365e6b28fd124a5831264291e81f][^c-e3634034bab4be7cd4cb838ceea63874]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 (5) The court may order any person who has possession of realisable property to which the restraint order applies to give possession of it to the receiver.
 
-(6)[^key-e68eabaa665dd4ea19696ed6efb25232] The court—
+(6)[^c-e68eabaa665dd4ea19696ed6efb25232] The court—
 
 - (a) may order a person holding an interest in realisable property to which the restraint order applies to make to the receiver such payment as the court specifies in respect of a beneficial interest held by the defendant or the recipient of a tainted gift;
 - (b) may (on the payment being made) by order transfer, grant or extinguish any interest in the property.
@@ -66,7 +66,7 @@ summary: ''
 
 unless it gives persons holding interests in the property a reasonable opportunity to make representations to it.
 
-(8A)[^key-2615255c71e9b1d01a7e9c79ed205c5d] Subsection (8), so far as relating to the power mentioned in subsection (2)(b), does not apply to property which—
+(8A)[^c-2615255c71e9b1d01a7e9c79ed205c5d] Subsection (8), so far as relating to the power mentioned in subsection (2)(b), does not apply to property which—
 
 - (a) is perishable; or
 - (b) ought to be disposed of before its value diminishes.
@@ -81,12 +81,12 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 ## Annotations
 
-[^key-aa671d40c22c373d93ac8605fd4880bb]: Commencement: S. 197 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-aa671d40c22c373d93ac8605fd4880bb]: Commencement: S. 197 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
+[^c-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
 
-[^key-e6a2365e6b28fd124a5831264291e81f]: Modification: Pt. 4 functions of receiver extended (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2002/3133/article/4/1/a)
+[^c-e6a2365e6b28fd124a5831264291e81f]: Modification: Pt. 4 functions of receiver extended (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2002/3133/article/4/1/a)
 
-[^key-e68eabaa665dd4ea19696ed6efb25232]: Modification: S. 197(6) excluded (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2002/3133/article/12/3)
+[^c-e68eabaa665dd4ea19696ed6efb25232]: Modification: S. 197(6) excluded (24.2.2003) by [Proceeds of Crime Act 2002 (Enforcement in different parts of the United Kingdom) Order 2002 (S.I. 2002/3133)](https://www.legislation.gov.uk/uksi/2002/3133), [arts. 1](https://www.legislation.gov.uk/uksi/2002/3133/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2002/3133/article/12/3)
 
-[^key-2615255c71e9b1d01a7e9c79ed205c5d]: Textual amendment: S. 197(8A) inserted (6.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 82(3)](https://www.legislation.gov.uk/ukpga/2007/27/section/82/3), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h) (with [art. 17(3)](https://www.legislation.gov.uk/uksi/2008/755/article/17/3))
+[^c-2615255c71e9b1d01a7e9c79ed205c5d]: Textual amendment: S. 197(8A) inserted (6.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 82(3)](https://www.legislation.gov.uk/ukpga/2007/27/section/82/3), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(h)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/h) (with [art. 17(3)](https://www.legislation.gov.uk/uksi/2008/755/article/17/3))

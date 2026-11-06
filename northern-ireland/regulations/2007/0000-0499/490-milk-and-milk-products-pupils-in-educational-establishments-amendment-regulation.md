@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Milk and Milk Products (Pupils in Educational Establishments) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-bbc9eefae6888b3fe9664863ca78024b]
+Milk and Milk Products (Pupils in Educational Establishments) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-bbc9eefae6888b3fe9664863ca78024b]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation-
 
 1st January 2008
 
-[^key-bbc9eefae6888b3fe9664863ca78024b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbc9eefae6888b3fe9664863ca78024b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bbc9eefae6888b3fe9664863ca78024b]
+## 1. Citation and commencement[^c-bbc9eefae6888b3fe9664863ca78024b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-bbc9eefae6888b3fe9664863ca78024b]
+## 2. Interpretation[^c-bbc9eefae6888b3fe9664863ca78024b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2001[^key-bbc9eefae6888b3fe9664863ca78024b]
+## 3. Amendment of the Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2001[^c-bbc9eefae6888b3fe9664863ca78024b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbc9eefae6888b3fe9664863ca78024b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbc9eefae6888b3fe9664863ca78024b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bbc9eefae6888b3fe9664863ca78024b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbc9eefae6888b3fe9664863ca78024b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbc9eefae6888b3fe9664863ca78024b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/490) revoked (25.8.2008) by [Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/323)](https://www.legislation.gov.uk/nisr/2008/323), [regs. 1](https://www.legislation.gov.uk/nisr/2008/323/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/323/regulation/5)
+[^c-bbc9eefae6888b3fe9664863ca78024b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/490) revoked (25.8.2008) by [Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/323)](https://www.legislation.gov.uk/nisr/2008/323), [regs. 1](https://www.legislation.gov.uk/nisr/2008/323/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/323/regulation/5)

@@ -39,7 +39,7 @@ summary: ''
 - (e) section 127; and
 - (f) section 136 and this section.
 
-(7)[^key-8fca44ca0473956f18671a415505aaf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8fca44ca0473956f18671a415505aaf7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Section 126 extends to Great Britain only.
 
@@ -75,4 +75,4 @@ summary: ''
 
 [^c19403181]: Textual amendment: S. 138(6)(d) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 4 para. 167](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/167), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(ll)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/ll) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
-[^key-8fca44ca0473956f18671a415505aaf7]: Textual amendment: [S. 138(7)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/7) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-8fca44ca0473956f18671a415505aaf7]: Textual amendment: [S. 138(7)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/7) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

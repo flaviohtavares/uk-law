@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In respect of a particular ship, or ships of a particular description, the Secretary of State may approve arrangements which, when taken together with the conditions to which the approval is subject, the Secretary of State considers are substantially equivalent to the requirements which are set out in regulation 29(2A) and[^key-1ede58d14a7abc1800a591306247f55b] Merchant Shipping Notice 1844(M).
+(1) In respect of a particular ship, or ships of a particular description, the Secretary of State may approve arrangements which, when taken together with the conditions to which the approval is subject, the Secretary of State considers are substantially equivalent to the requirements which are set out in regulation 29(2A) and[^c-1ede58d14a7abc1800a591306247f55b] Merchant Shipping Notice 1844(M).
 
 (2) An approval under this regulation—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ede58d14a7abc1800a591306247f55b]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2014/1613/regulation/32/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/260/regulation/2/4)
+[^c-1ede58d14a7abc1800a591306247f55b]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2014/1613/regulation/32/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/260/regulation/2/4)

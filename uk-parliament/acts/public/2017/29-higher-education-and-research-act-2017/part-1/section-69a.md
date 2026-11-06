@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69A. General functions relating to freedom of speech and academic freedom[^key-09246f8afee4be504a58564ca7d69b6a]
+## 69A. General functions relating to freedom of speech and academic freedom[^c-09246f8afee4be504a58564ca7d69b6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ on such matters relating to freedom of speech and academic freedom as may be spe
 
 ## Annotations
 
-[^key-09246f8afee4be504a58564ca7d69b6a]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2017/29/section/69A) and cross-heading inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2023/16/section/5/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/d)
+[^c-09246f8afee4be504a58564ca7d69b6a]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2017/29/section/69A) and cross-heading inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2023/16/section/5/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/d)

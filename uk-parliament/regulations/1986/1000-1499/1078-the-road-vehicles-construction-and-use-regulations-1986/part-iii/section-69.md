@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Plates—motor cycles[^key-9ffdbcbe1b21fec2450358dde162bc8d]
+## 69. Plates—motor cycles[^c-9ffdbcbe1b21fec2450358dde162bc8d]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ffdbcbe1b21fec2450358dde162bc8d]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1986/1078/regulation/69) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-9ffdbcbe1b21fec2450358dde162bc8d]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1986/1078/regulation/69) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

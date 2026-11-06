@@ -81,15 +81,15 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation lays down procedures for risk assessment foreseen under Article 42(4) of Regulation (EU) 2016/2031 with a view to ensuring that such assessment is conducted within a reasonable period of time and on the basis of a demand for import accompanied by a comprehensive technical dossier and subject to a defined procedure.
 
-In this Regulation, ‘UK NPPO’ means the national plant protection organisation of the United Kingdom.[^key-b850486036ff5f6be1dc658fb102e600]
+In this Regulation, ‘UK NPPO’ means the national plant protection organisation of the United Kingdom.[^c-b850486036ff5f6be1dc658fb102e600]
 
 ## Article 2. Submission of technical dossiers
 
-(1.)[^key-e156d6a4181609a1f52d9857a942cf26] A technical dossier for carrying out the risk assessment referred to in Article 42(4) of Regulation (EU) 2016/2031 may only be submitted to the UK NPPO[^key-24d2e7b4e20076a289eeb96bb912726e] by a National Plant Protection Organisation of a third country.
+(1.)[^c-e156d6a4181609a1f52d9857a942cf26] A technical dossier for carrying out the risk assessment referred to in Article 42(4) of Regulation (EU) 2016/2031 may only be submitted to the UK NPPO[^c-24d2e7b4e20076a289eeb96bb912726e] by a National Plant Protection Organisation of a third country.
 
-(2.)[^key-5db7d80b6890b0819cc7b8d22b80a64b] The technical dossier shall be accompanied by elements indicating that demand for import exists within the meaning of Article 42(5) of Regulation (EU) 2016/2031.
+(2.)[^c-5db7d80b6890b0819cc7b8d22b80a64b] The technical dossier shall be accompanied by elements indicating that demand for import exists within the meaning of Article 42(5) of Regulation (EU) 2016/2031.
 
-(3.)[^key-f23de3745dad8da74034723389b0e18a] The UK NPPO must:
+(3.)[^c-f23de3745dad8da74034723389b0e18a] The UK NPPO must:
 
 - (a) produce a document setting out the detailed information that must be included in a technical dossier to support the completion of a risk assessment which is required to be carried out under Article 42(4) of Regulation (EU) 2016/2031; and
 - (b) publish the document in such manner as it considers appropriate.
@@ -101,36 +101,36 @@ The technical dossier shall contain for each plant, plant product or other objec
 - ((a)) information on the commodity, including treatments and processing of the commodity;
 - ((b)) information on the identification of pests potentially associated with the commodity in the exporting country;
 - ((c)) information on phytosanitary mitigation measures and inspections;
-- ((d)) the contact details of the National Plant Protection Organisation contact point of the third country responsible for liaising with the UK NPPO[^key-9055a880ae12ee78b15418bb0ebb6b8b].
-- ((e)) the detailed information referred to in point (a) of Article 2(3).[^key-b8044577a2e9da05b26dcb5f4ee4399b]
+- ((d)) the contact details of the National Plant Protection Organisation contact point of the third country responsible for liaising with the UK NPPO[^c-9055a880ae12ee78b15418bb0ebb6b8b].
+- ((e)) the detailed information referred to in point (a) of Article 2(3).[^c-b8044577a2e9da05b26dcb5f4ee4399b]
 
-[^key-ea12cd4e870dae0a711228370f428ddf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea12cd4e870dae0a711228370f428ddf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 The applicant may indicate the information, the disclosure of which might harm the competitive position of a certain third party and which should therefore be treated as confidential in accordance with Article 6 of this Regulation. Verifiable justification shall be given in such cases.
 
-The dossier shall be submitted in English[^key-cdca108e7184d399e0f2ed33bcd645a9].
+The dossier shall be submitted in English[^c-cdca108e7184d399e0f2ed33bcd645a9].
 
-## Article 4. Reception and examination of the technical dossier by the UK NPPO[^key-c68e225008b1827ac1f5d30f5e73c0cf]
+## Article 4. Reception and examination of the technical dossier by the UK NPPO[^c-c68e225008b1827ac1f5d30f5e73c0cf]
 
-The UK NPPO[^key-8757c5c68961f98e761c26dc6d221e96] shall acknowledge receipt of the technical dossier.
+The UK NPPO[^c-8757c5c68961f98e761c26dc6d221e96] shall acknowledge receipt of the technical dossier.
 
-It shall examine whether the technical dossier contains the information described in points (a) to (e)[^key-af77d71d98c8027053e705ebbb28712b] of the first paragraph of Article 3, and may ask the applicant for additional information or clarifications, as required by the content and the subject of that technical dossier.
+It shall examine whether the technical dossier contains the information described in points (a) to (e)[^c-af77d71d98c8027053e705ebbb28712b] of the first paragraph of Article 3, and may ask the applicant for additional information or clarifications, as required by the content and the subject of that technical dossier.
 
-[^key-f5391748178176c6304b212994b3b162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f5391748178176c6304b212994b3b162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 5. Conduct and completion of the risk assessment
 
-[^key-e7d5c90890ebaf0d64472905ca86a248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7d5c90890ebaf0d64472905ca86a248]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Following that verification, the UK NPPO[^key-1a0e3773c31db21afc591f1dc17e252c] shall proceed with the risk assessment.
+Following that verification, the UK NPPO[^c-1a0e3773c31db21afc591f1dc17e252c] shall proceed with the risk assessment.
 
 During the conduct of the risk assessment, the UK NPPO may communicate directly with the applicant to ask for additional information or clarifications.
 
-[^key-19498ff20708fab05fbdac6c22c3ec8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19498ff20708fab05fbdac6c22c3ec8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-acd8ae8d0c1caa305713dbd02b796180]... The UK NPPO must publish the risk assessment in such manner as it considers appropriate.[^key-461a597965ad78ea9b1e3e3014e6c528]
+[^c-acd8ae8d0c1caa305713dbd02b796180]... The UK NPPO must publish the risk assessment in such manner as it considers appropriate.[^c-461a597965ad78ea9b1e3e3014e6c528]
 
-[^key-eac09d5950cd6d51cc3c6409bb4cd024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eac09d5950cd6d51cc3c6409bb4cd024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 6. Confidentiality
 
@@ -142,7 +142,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 14 December 2019.
 
-[^key-14133c16ccf46780e9e4d84c2f0ca9ba]...
+[^c-14133c16ccf46780e9e4d84c2f0ca9ba]...
 
 Done at Brussels, 18 December 2018.
 
@@ -160,42 +160,42 @@ Jean-Claude Juncker
 
 [^f00003]: Footnote: European Food Safety Authority (EFSA), Dehnen-Schmutz K, Jaques Miret JA, Jeger M, Potting R, Corini A, Simone G, Kozelska S, Munoz Guajardo I, Stancanelli G and Gardi C, 2018. Information required for dossiers to support demands for import of high risk plants, plant products and other objects as foreseen in Article 42 of Regulation (EU) 2016/2031. EFSA supporting publication 2018:EN-1492, 22pp. doi:10.2903/sp.efsa.2018.1492
 
-[^key-b850486036ff5f6be1dc658fb102e600]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2018/2018/article/1) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/2)
+[^c-b850486036ff5f6be1dc658fb102e600]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2018/2018/article/1) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/2)
 
-[^key-e156d6a4181609a1f52d9857a942cf26]: Textual amendment: Words in Art. 2 renumbered as Art. 2(1) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(3)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/3/a)
+[^c-e156d6a4181609a1f52d9857a942cf26]: Textual amendment: Words in Art. 2 renumbered as Art. 2(1) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(3)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/3/a)
 
-[^key-24d2e7b4e20076a289eeb96bb912726e]: Textual amendment: Words in Art. 2(1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(3)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/3/a)
+[^c-24d2e7b4e20076a289eeb96bb912726e]: Textual amendment: Words in Art. 2(1) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(3)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/3/a)
 
-[^key-5db7d80b6890b0819cc7b8d22b80a64b]: Textual amendment: Words in Art. 2 renumbered as Art. 2(2) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(3)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/3/b)
+[^c-5db7d80b6890b0819cc7b8d22b80a64b]: Textual amendment: Words in Art. 2 renumbered as Art. 2(2) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(3)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/3/b)
 
-[^key-f23de3745dad8da74034723389b0e18a]: Textual amendment: Art. 2(3) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(3)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/3/c)
+[^c-f23de3745dad8da74034723389b0e18a]: Textual amendment: Art. 2(3) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(3)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/3/c)
 
-[^key-9055a880ae12ee78b15418bb0ebb6b8b]: Textual amendment: Words in Art. 3(d) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/4/a/i)
+[^c-9055a880ae12ee78b15418bb0ebb6b8b]: Textual amendment: Words in Art. 3(d) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/4/a/i)
 
-[^key-b8044577a2e9da05b26dcb5f4ee4399b]: Textual amendment: Art. 3(e) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/4/a/ii)
+[^c-b8044577a2e9da05b26dcb5f4ee4399b]: Textual amendment: Art. 3(e) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/4/a/ii)
 
-[^key-ea12cd4e870dae0a711228370f428ddf]: Textual amendment: Words in Art. 3 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/4/a/iii)
+[^c-ea12cd4e870dae0a711228370f428ddf]: Textual amendment: Words in Art. 3 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/4/a/iii)
 
-[^key-cdca108e7184d399e0f2ed33bcd645a9]: Textual amendment: Word in Art. 3 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/4/a/iv)
+[^c-cdca108e7184d399e0f2ed33bcd645a9]: Textual amendment: Word in Art. 3 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/4/a/iv)
 
-[^key-c68e225008b1827ac1f5d30f5e73c0cf]: Textual amendment: Words in Art. 4 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(5)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/5/a)
+[^c-c68e225008b1827ac1f5d30f5e73c0cf]: Textual amendment: Words in Art. 4 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(5)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/5/a)
 
-[^key-8757c5c68961f98e761c26dc6d221e96]: Textual amendment: Words in Art. 4 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(5)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/5/b)
+[^c-8757c5c68961f98e761c26dc6d221e96]: Textual amendment: Words in Art. 4 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(5)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/5/b)
 
-[^key-af77d71d98c8027053e705ebbb28712b]: Textual amendment: Word in Art. 4 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(5)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/5/c)
+[^c-af77d71d98c8027053e705ebbb28712b]: Textual amendment: Word in Art. 4 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(5)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/5/c)
 
-[^key-f5391748178176c6304b212994b3b162]: Textual amendment: Words in Art. 4 omitted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(5)(d)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/5/d)
+[^c-f5391748178176c6304b212994b3b162]: Textual amendment: Words in Art. 4 omitted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(5)(d)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/5/d)
 
-[^key-e7d5c90890ebaf0d64472905ca86a248]: Textual amendment: Words in Art. 5 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/a)
+[^c-e7d5c90890ebaf0d64472905ca86a248]: Textual amendment: Words in Art. 5 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/a)
 
-[^key-1a0e3773c31db21afc591f1dc17e252c]: Textual amendment: Words in Art. 5 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/b)
+[^c-1a0e3773c31db21afc591f1dc17e252c]: Textual amendment: Words in Art. 5 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/b)
 
-[^key-19498ff20708fab05fbdac6c22c3ec8d]: Textual amendment: Words in Art. 5 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/c)
+[^c-19498ff20708fab05fbdac6c22c3ec8d]: Textual amendment: Words in Art. 5 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/c)
 
-[^key-acd8ae8d0c1caa305713dbd02b796180]: Textual amendment: Words in Art. 5 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/d/i)
+[^c-acd8ae8d0c1caa305713dbd02b796180]: Textual amendment: Words in Art. 5 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/d/i)
 
-[^key-461a597965ad78ea9b1e3e3014e6c528]: Textual amendment: Words in Art. 5 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/d/ii)
+[^c-461a597965ad78ea9b1e3e3014e6c528]: Textual amendment: Words in Art. 5 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/d/ii)
 
-[^key-eac09d5950cd6d51cc3c6409bb4cd024]: Textual amendment: Words in Art. 5 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(e)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/e)
+[^c-eac09d5950cd6d51cc3c6409bb4cd024]: Textual amendment: Words in Art. 5 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [45(6)(e)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/6/e)
 
-[^key-14133c16ccf46780e9e4d84c2f0ca9ba]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [45(7)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/7)
+[^c-14133c16ccf46780e9e4d84c2f0ca9ba]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [45(7)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/45/7)

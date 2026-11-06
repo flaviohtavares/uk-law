@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Notification relating to change of circumstances[^key-69ed27fdd004fa9d776a4e89ae7ce73e]
+## 40. Notification relating to change of circumstances[^c-69ed27fdd004fa9d776a4e89ae7ce73e]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where by virtue of regulation 37(1) or 38 a person is treated as having made an 
 
 ## Annotations
 
-[^key-69ed27fdd004fa9d776a4e89ae7ce73e]: Commencement: Reg. 40 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-69ed27fdd004fa9d776a4e89ae7ce73e]: Commencement: Reg. 40 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The Working Time (Coronavirus) (Amendment) Regulations 2020 (revoked)[^key-f92d517cb0a4683b2514124c5bc9d17c]
+The Working Time (Coronavirus) (Amendment) Regulations 2020 (revoked)[^c-f92d517cb0a4683b2514124c5bc9d17c]
 
 Made
 
@@ -44,28 +44,28 @@ at 2.00 p.m. on 27th March 2020
 
 Coming into force in accordance with regulation 1
 
-[^key-f92d517cb0a4683b2514124c5bc9d17c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f92d517cb0a4683b2514124c5bc9d17c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f92d517cb0a4683b2514124c5bc9d17c]
+## 1. Citation and commencement[^c-f92d517cb0a4683b2514124c5bc9d17c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Working Time Regulations 1998[^key-f92d517cb0a4683b2514124c5bc9d17c]
+## 2. Amendment to the Working Time Regulations 1998[^c-f92d517cb0a4683b2514124c5bc9d17c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f92d517cb0a4683b2514124c5bc9d17c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f92d517cb0a4683b2514124c5bc9d17c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f92d517cb0a4683b2514124c5bc9d17c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f92d517cb0a4683b2514124c5bc9d17c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f92d517cb0a4683b2514124c5bc9d17c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f92d517cb0a4683b2514124c5bc9d17c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f92d517cb0a4683b2514124c5bc9d17c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f92d517cb0a4683b2514124c5bc9d17c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f92d517cb0a4683b2514124c5bc9d17c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f92d517cb0a4683b2514124c5bc9d17c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f92d517cb0a4683b2514124c5bc9d17c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/365) revoked (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1426/regulation/6)
+[^c-f92d517cb0a4683b2514124c5bc9d17c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/365) revoked (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1426/regulation/6)

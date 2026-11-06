@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Applications for adoption[^key-653fd9c628173981c29829f27fc6f879]
+## 34. Applications for adoption[^c-653fd9c628173981c29829f27fc6f879]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ If section 33(1)(a) applies, the following persons may remove the child—
 
 ## Annotations
 
-[^key-653fd9c628173981c29829f27fc6f879]: Commencement: S. 34 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-653fd9c628173981c29829f27fc6f879]: Commencement: S. 34 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -46,9 +46,9 @@ Section 5.
 
 (4) The Secretary of State shall secure that at least one-third but fewer than half of the other members of the Authority fall within sub-paragraph (3)(a), (b) or (c) above, and that at least one member falls within each of paragraphs (a) and (b).
 
-**4A.**[^key-bd3603b8906874b7a77e2a6f93aeefe1] (1) A person (“P”) is disqualified for being appointed as chairman, deputy chairman, or as any other member of the Authority if—
+**4A.**[^c-bd3603b8906874b7a77e2a6f93aeefe1] (1) A person (“P”) is disqualified for being appointed as chairman, deputy chairman, or as any other member of the Authority if—
 
-- (a) P is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB of the Insolvency Act 1986[^key-da2f8c1776ca7cd43355d7d205c4fd4a],
+- (a) P is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB of the Insolvency Act 1986[^c-da2f8c1776ca7cd43355d7d205c4fd4a],
 - (b) a bankruptcy order has been made against P by a court in Northern Ireland, P's estate has been sequestered by a court in Scotland, or under the law of Northern Ireland or Scotland, P has made a composition or arrangement with, or granted a trust deed for, P's creditors, or
 - (c) in the last five years P has been convicted in the United Kingdom, the Channel Islands or the Isle of Man of an offence and has had a qualifying sentence passed on P.
 
@@ -68,7 +68,7 @@ Section 5.
 
 ### Tenure of office
 
-**5.** (1) Subject to the following provisions of this paragraph and paragraphs 5A and 5B[^key-1e9c6a9c3b5c3f73c91f731c39a60998], a person shall hold and vacate office as a member of the Authority in accordance with the terms of his appointment.
+**5.** (1) Subject to the following provisions of this paragraph and paragraphs 5A and 5B[^c-1e9c6a9c3b5c3f73c91f731c39a60998], a person shall hold and vacate office as a member of the Authority in accordance with the terms of his appointment.
 
 (2) A person shall not be appointed as a member of the Authority for more than three years at a time.
 
@@ -76,17 +76,17 @@ Section 5.
 
 (4) A person who ceases to be a member of the Authority shall be eligible for re-appointment (whether or not in the same capacity).
 
-(4A)[^key-26bc0f0839df1662404b5a7f6078e8bc] A person holding office as chairman, deputy chairman or other member of the Authority is to cease to hold that office if the person becomes disqualified for appointment to it.
+(4A)[^c-26bc0f0839df1662404b5a7f6078e8bc] A person holding office as chairman, deputy chairman or other member of the Authority is to cease to hold that office if the person becomes disqualified for appointment to it.
 
 (5) If the Secretary of State is satisfied that a member of the Authority—
 
 - (a) has been absent from meetings of the Authority for six consecutive months or longer without the permission of the Authority, or
-- (b)[^key-ff18602236ab7eaa45c054ee01c2637f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) is unable or unfit to discharge the person's functions as chairman, deputy chairman or other member[^key-bd355d5c3b41cc964557cbe9ddc7ba7f],
+- (b)[^c-ff18602236ab7eaa45c054ee01c2637f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) is unable or unfit to discharge the person's functions as chairman, deputy chairman or other member[^c-bd355d5c3b41cc964557cbe9ddc7ba7f],
 
-the Secretary of State may remove the member from office as chairman, deputy chairman or other member[^key-55fda2a0c40f217af8d168657cf5023d].
+the Secretary of State may remove the member from office as chairman, deputy chairman or other member[^c-55fda2a0c40f217af8d168657cf5023d].
 
-**5A.**[^key-55ffef79b476e91f69fb951ce1fb4d49] The Secretary of State may suspend a member from office as chairman, deputy chairman or other member of the Authority if it appears to him that one of the conditions in paragraph 5(5) is or may be satisfied in relation to the member.
+**5A.**[^c-55ffef79b476e91f69fb951ce1fb4d49] The Secretary of State may suspend a member from office as chairman, deputy chairman or other member of the Authority if it appears to him that one of the conditions in paragraph 5(5) is or may be satisfied in relation to the member.
 
 **5B.** (1) This paragraph applies where the Secretary of State decides to suspend a member under paragraph 5A.
 
@@ -149,7 +149,7 @@ he may, if the Secretary of State so determines, be treated for the purposes of 
 
 ### Proceedings
 
-**9.** (1) Subject to any provision of this Act, the[^key-fc5a4efed3039a906f04673ae6ea89b0] Authority may regulate its own proceedings, and make such arrangements as it thinks appropriate for the discharge of its functions.
+**9.** (1) Subject to any provision of this Act, the[^c-fc5a4efed3039a906f04673ae6ea89b0] Authority may regulate its own proceedings, and make such arrangements as it thinks appropriate for the discharge of its functions.
 
 (2) The Authority may pay to the members of any committee or sub-committee such fees and allowances as the Secretary of State may, with the consent of the Treasury, determine.
 
@@ -157,7 +157,7 @@ he may, if the Secretary of State so determines, be treated for the purposes of 
 
 (2) Any disclosure under sub-paragraph (1) above shall be recorded by the Authority.
 
-(3) Except in such circumstances (if any) as may be determined by the Authority under paragraph 9(1) above, the member shall not participate after the disclosure in any deliberation or decision of the Authority [^key-e0d80f32cccefab42ff07319cc521d31]... with respect to the licence, and if he does so the deliberation or decision shall be of no effect.
+(3) Except in such circumstances (if any) as may be determined by the Authority under paragraph 9(1) above, the member shall not participate after the disclosure in any deliberation or decision of the Authority [^c-e0d80f32cccefab42ff07319cc521d31]... with respect to the licence, and if he does so the deliberation or decision shall be of no effect.
 
 **11.** The validity of any proceedings of the Authority, or of any committee or sub-committee, shall not be affected by any vacancy among the members or by any defect in the appointment of a member.
 
@@ -175,7 +175,7 @@ he may, if the Secretary of State so determines, be treated for the purposes of 
 
 .
 
-### Application of Statutory Instruments Act 1946[^key-1e9fd9edacb40401de594016d95ef3db]
+### Application of Statutory Instruments Act 1946[^c-1e9fd9edacb40401de594016d95ef3db]
 
 **15.** The Statutory Instruments Act 1946 applies to any power to make orders or regulations conferred by an Act on the Authority as if the Authority were a Minister of the Crown.
 
@@ -183,30 +183,30 @@ he may, if the Secretary of State so determines, be treated for the purposes of 
 
 [^c271738]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
 
-[^key-bd3603b8906874b7a77e2a6f93aeefe1]: Textual amendment: Sch. 1 para. 4A inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
+[^c-bd3603b8906874b7a77e2a6f93aeefe1]: Textual amendment: Sch. 1 para. 4A inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
 
-[^key-da2f8c1776ca7cd43355d7d205c4fd4a]: Textual amendment: Words in Sch. 1 para. 4A(1)(a) substituted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/26) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2404/article/6))
+[^c-da2f8c1776ca7cd43355d7d205c4fd4a]: Textual amendment: Words in Sch. 1 para. 4A(1)(a) substituted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/26) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2404/article/6))
 
-[^key-1e9c6a9c3b5c3f73c91f731c39a60998]: Textual amendment: Words in Sch. 1 para. 5(1) inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/3/2) (with [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/19)); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/30/article/2/d)
+[^c-1e9c6a9c3b5c3f73c91f731c39a60998]: Textual amendment: Words in Sch. 1 para. 5(1) inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/3/2) (with [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/19)); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/30/article/2/d)
 
-[^key-26bc0f0839df1662404b5a7f6078e8bc]: Textual amendment: Sch. 1 para. 5(4A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/3/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
+[^c-26bc0f0839df1662404b5a7f6078e8bc]: Textual amendment: Sch. 1 para. 5(4A) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/3/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
 
-[^key-ff18602236ab7eaa45c054ee01c2637f]: Textual amendment: Sch. 1 para. 5(5)(b) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 3(b)(i)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/3/b/i), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
+[^c-ff18602236ab7eaa45c054ee01c2637f]: Textual amendment: Sch. 1 para. 5(5)(b) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 3(b)(i)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/3/b/i), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
 
-[^key-bd355d5c3b41cc964557cbe9ddc7ba7f]: Textual amendment: Words in Sch. 1 para. 5(5)(c) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 3(b)(ii)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/3/b/ii); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
+[^c-bd355d5c3b41cc964557cbe9ddc7ba7f]: Textual amendment: Words in Sch. 1 para. 5(5)(c) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 3(b)(ii)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/3/b/ii); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
 
-[^key-55fda2a0c40f217af8d168657cf5023d]: Textual amendment: Words in Sch. 1 para. 5(5) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 3(b)(iii)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/3/b/iii); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
+[^c-55fda2a0c40f217af8d168657cf5023d]: Textual amendment: Words in Sch. 1 para. 5(5) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 1 para. 3(b)(iii)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/1/paragraph/3/b/iii); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/u)
 
-[^key-55ffef79b476e91f69fb951ce1fb4d49]: Textual amendment: Sch. 1 paras. 5A, 5B inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/3/3) (with [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/19)); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/30/article/2/d)
+[^c-55ffef79b476e91f69fb951ce1fb4d49]: Textual amendment: Sch. 1 paras. 5A, 5B inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/3/3) (with [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2009/21/schedule/3/paragraph/19)); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/30/article/2/d)
 
 [^c271739]: Marginal citation: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
 [^c271740]: Marginal citation: [1975 c. 25](https://www.legislation.gov.uk/ukpga/1975/25).
 
-[^key-fc5a4efed3039a906f04673ae6ea89b0]: Textual amendment: Words in Sch. 1 para. 9(1) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 15(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/15/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-fc5a4efed3039a906f04673ae6ea89b0]: Textual amendment: Words in Sch. 1 para. 9(1) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 15(a)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/15/a); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
 
-[^key-e0d80f32cccefab42ff07319cc521d31]: Textual amendment: Words in Sch. 1 para. 10(3) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 15(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/15/b), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-e0d80f32cccefab42ff07319cc521d31]: Textual amendment: Words in Sch. 1 para. 10(3) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 15(b)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/15/b), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
 
 [^c271741]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 
-[^key-1e9fd9edacb40401de594016d95ef3db]: Textual amendment: Sch. 1 para. 15 and cross-heading inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 15(c)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/15/c); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 5(g)(h)](https://www.legislation.gov.uk/uksi/2009/479/article/5/g/h) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-1e9fd9edacb40401de594016d95ef3db]: Textual amendment: Sch. 1 para. 15 and cross-heading inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 15(c)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/15/c); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 5(g)(h)](https://www.legislation.gov.uk/uksi/2009/479/article/5/g/h) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))

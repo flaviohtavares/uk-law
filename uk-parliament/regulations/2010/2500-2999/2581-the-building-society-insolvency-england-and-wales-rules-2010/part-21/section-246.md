@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 246. Proof altered after payment of dividend[^key-fde0ab232db88263bcdf4b0ba1e3c75c]
+## 246. Proof altered after payment of dividend[^c-fde0ab232db88263bcdf4b0ba1e3c75c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.8 of the 1986 Rules.
 
 ## Annotations
 
-[^key-fde0ab232db88263bcdf4b0ba1e3c75c]: Commencement: Rule 246 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-fde0ab232db88263bcdf4b0ba1e3c75c]: Commencement: Rule 246 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

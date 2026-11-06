@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. On death of solicitor practising on his own account Society may deal with banking accounts of practice[^key-53867bfe5112b1f50a8ee0c1882f5ee4]
+## 40. On death of solicitor practising on his own account Society may deal with banking accounts of practice[^c-53867bfe5112b1f50a8ee0c1882f5ee4]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53867bfe5112b1f50a8ee0c1882f5ee4]: Modification: [Art. 40](https://www.legislation.gov.uk/nisi/1976/582/article/40) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(p)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/p)
+[^c-53867bfe5112b1f50a8ee0c1882f5ee4]: Modification: [Art. 40](https://www.legislation.gov.uk/nisi/1976/582/article/40) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(p)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/p)
 
 [^c17113951]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

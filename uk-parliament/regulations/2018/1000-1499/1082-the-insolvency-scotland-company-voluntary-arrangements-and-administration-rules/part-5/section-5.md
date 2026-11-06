@@ -25,13 +25,13 @@ In this Part—
 - (a) Chapters 2 to 9 apply where the Act or these Rules require a decision to be made by a qualifying decision procedure or permit a decision to be made by the deemed consent procedure; and
 - (b) Chapter 10 applies to company meetings.
 
-## 5.2. Interpretation[^key-a27096ce994541bd40d395ad3c038c49]
+## 5.2. Interpretation[^c-a27096ce994541bd40d395ad3c038c49]
 
 *Extent: S*
 
 (1) In these Rules—
 
-- “[^key-03eaa6abcd0e125dc1ae434d1ca9040e]**creditor**” in relation to a decision procedure under section A11 (extension by directors with creditor consent) means a creditor who is a pre-moratorium creditor within the meaning given by section A12;
+- “[^c-03eaa6abcd0e125dc1ae434d1ca9040e]**creditor**” in relation to a decision procedure under section A11 (extension by directors with creditor consent) means a creditor who is a pre-moratorium creditor within the meaning given by section A12;
 - “**decision date**” means—
   - (a) in the case of a decision to be made at a meeting, the date of the meeting;
   - (b) in the case of a decision to be made either by a decision procedure other than a meeting or by the deemed consent procedure, the date the decision is to be made or deemed to have been made; and
@@ -44,7 +44,7 @@ In this Part—
 
 (2) The decision date is to be set at the discretion of the convener, but must be not less than 14 days from the date of delivery of the notice, except where the table in rule 5.11 requires a different period or the court directs otherwise.
 
-## 5.3.[^key-a27096ce994541bd40d395ad3c038c49]
+## 5.3.[^c-a27096ce994541bd40d395ad3c038c49]
 
 *Extent: S*
 
@@ -56,7 +56,7 @@ In this Part—
 - (d) physical meeting;
 - (e) any other decision making procedure which enables all creditors who are entitled to participate in the making of the decision to participate equally.
 
-## 5.4. Electronic voting[^key-a27096ce994541bd40d395ad3c038c49]
+## 5.4. Electronic voting[^c-a27096ce994541bd40d395ad3c038c49]
 
 *Extent: S*
 
@@ -79,7 +79,7 @@ Where the decision procedure uses a virtual meeting the notice delivered to cred
 
 *Extent: S*
 
-(1) A request for a physical meeting under section 246ZE(3) may be made before or after the notice of the decision procedure or deemed consent procedure has been delivered, but must be made not later than five business days or in the case of a decision procedure in respect of a moratorium under Part A1 of the Act, three days[^key-e6e68e3204ab54729939118644b157d8] after the date on which the convener delivered the notice of the decision procedure or deemed consent procedure unless these Rules provide to the contrary.
+(1) A request for a physical meeting under section 246ZE(3) may be made before or after the notice of the decision procedure or deemed consent procedure has been delivered, but must be made not later than five business days or in the case of a decision procedure in respect of a moratorium under Part A1 of the Act, three days[^c-e6e68e3204ab54729939118644b157d8] after the date on which the convener delivered the notice of the decision procedure or deemed consent procedure unless these Rules provide to the contrary.
 
 (2) It is the convener's responsibility to check whether any requests for a physical meeting are submitted before the deadline and if so whether in aggregate they meet or surpass one of the thresholds requiring a physical meeting under section 246ZE(7).
 
@@ -133,8 +133,8 @@ Where the decision procedure uses a virtual meeting the notice delivered to cred
 - (c) a description of the decision procedure which the convener is using, and arrangements, including the venue, for the decision procedure;
 - (d) a statement of the decision date;
 - (e) except in the case of a decision in relation to a proposed CVA, a statement as to when the creditor must have delivered a statement of claim and documentary evidence of debt in accordance with these Rules failing which a vote by the creditor will be disregarded;
-- (f) except in the case of a decision procedure in respect of a moratorium under Part A1 of the Act[^key-c1fee7e5e2f4dee823f8516d2bcc2af1] a statement that a creditor whose debt is treated as a small debt in accordance with rule 3.118 must still deliver a statement of claim and documentary evidence of debt if that creditor wishes to vote;
-- (g) except in the case of a decision procedure in respect of a moratorium under Part A1 of the Act[^key-42bbb0bffb6e52c60528c4cccad921fd] a statement that a creditor who has opted out from receiving notices may nevertheless vote if the creditor provides a statement of claim and documentary evidence of debt in accordance with paragraph (e);
+- (f) except in the case of a decision procedure in respect of a moratorium under Part A1 of the Act[^c-c1fee7e5e2f4dee823f8516d2bcc2af1] a statement that a creditor whose debt is treated as a small debt in accordance with rule 3.118 must still deliver a statement of claim and documentary evidence of debt if that creditor wishes to vote;
+- (g) except in the case of a decision procedure in respect of a moratorium under Part A1 of the Act[^c-42bbb0bffb6e52c60528c4cccad921fd] a statement that a creditor who has opted out from receiving notices may nevertheless vote if the creditor provides a statement of claim and documentary evidence of debt in accordance with paragraph (e);
 - (h) in the case of a decision in relation to a proposed CVA, a statement of the effects of the relevant provisions of the following—
   - (i) rule 5.26 about creditors' voting rights,
   - (ii) rule 5.28 about the calculation of creditors' voting rights, and
@@ -161,7 +161,7 @@ Where the decision procedure uses a virtual meeting the notice delivered to cred
   - (i) in a CVA, be accompanied by written notification of the creditor's debt unless such a notification has already been given to the convener;
   - (ii) in an administration, be accompanied by a statement of claim and documentary evidence of debt (where the requirement to provide the latter is not dispensed with under rule 5.26(2)) unless already given to the convener.
 
-(2) In a decision procedure in respect of a moratorium under Part A1 of the Act or[^key-580f6360289a91d65485754899102932] an administration, a vote must be disregarded if—
+(2) In a decision procedure in respect of a moratorium under Part A1 of the Act or[^c-580f6360289a91d65485754899102932] an administration, a vote must be disregarded if—
 
 - (a) a statement of claim and, where required, documentary evidence of debt are not received by the convener on or before the decision date or, in the case of a meeting, at or before the meeting (unless under rule 5.24 the chair is content to accept them before resumption of the adjourned meeting); or
 - (b) the convener decides, in the application of Chapter 7 of this Part, that the creditor is not entitled to cast the vote.
@@ -182,10 +182,10 @@ The convener must have regard to the convenience of those invited to participate
 
 | *Proceedings* | *Decisions* | *Persons to whom notice must be delivered* | *Minimum notice required* |
 | --- | --- | --- | --- |
-| Moratorium under Part A1 of the Act[^key-a58d7b51e9cb818519474b7f9064d051] | decision of pre-moratorium creditors under section A11 and decisions of creditors required by virtue of an order under section A44(3) | in the case of a decision under section A11 the pre-moratorium creditors, or, where the decision is required by virtue of an order under section A44(3), the creditors | 5 days |
+| Moratorium under Part A1 of the Act[^c-a58d7b51e9cb818519474b7f9064d051] | decision of pre-moratorium creditors under section A11 and decisions of creditors required by virtue of an order under section A44(3) | in the case of a decision under section A11 the pre-moratorium creditors, or, where the decision is required by virtue of an order under section A44(3), the creditors | 5 days |
 | administration | decisions of creditors | the creditors who had claims against the company at the date when the company entered administration (except for those who have subsequently been paid in full) | 14 days |
-| proposed CVA | decisions of creditors | the creditors | [^key-24be27848d084bd4e679a705fd1f23bd]... 7 days for consideration of proposal where physical meeting requisitioned; in other cases, 14 days |
-| [^key-70091d31d33bfc1696ef51e8bf3bda8b]. . . | [^key-70091d31d33bfc1696ef51e8bf3bda8b]. . . | [^key-70091d31d33bfc1696ef51e8bf3bda8b]. . . | [^key-70091d31d33bfc1696ef51e8bf3bda8b]. . . |
+| proposed CVA | decisions of creditors | the creditors | [^c-24be27848d084bd4e679a705fd1f23bd]... 7 days for consideration of proposal where physical meeting requisitioned; in other cases, 14 days |
+| [^c-70091d31d33bfc1696ef51e8bf3bda8b]. . . | [^c-70091d31d33bfc1696ef51e8bf3bda8b]. . . | [^c-70091d31d33bfc1696ef51e8bf3bda8b]. . . | [^c-70091d31d33bfc1696ef51e8bf3bda8b]. . . |
 
 (2) This rule does not apply where the court orders under rule 5.12 that notice of a decision procedure be given by advertisement only.
 
@@ -228,7 +228,7 @@ The convener must have regard to the convenience of those invited to participate
 
 *Extent: S*
 
-(1) In a a decision procedure in respect of a moratorium under Part A1 of the Act,[^key-e11f8a256f8fa0d8a53e8104875b2da3] proposal for a CVA or in an administration, notice to participate in a creditors' meeting must be delivered to every present or former officer of the company whose presence the convener thinks is required and that person is required to attend the meeting.
+(1) In a a decision procedure in respect of a moratorium under Part A1 of the Act,[^c-e11f8a256f8fa0d8a53e8104875b2da3] proposal for a CVA or in an administration, notice to participate in a creditors' meeting must be delivered to every present or former officer of the company whose presence the convener thinks is required and that person is required to attend the meeting.
 
 (2) A notice under this rule must be delivered in compliance with the minimum notice requirements set out in rule 5.11 or in compliance with an order of the court under rule 5.12.
 
@@ -325,15 +325,15 @@ decide what questions may be put to any present or former officer of the company
 
 (1) The chair may (and must if it is so resolved) adjourn a meeting for not more than 14 days, subject to any direction of the court.
 
-(2) Any further adjournment under this rule must not be to a day later than 14 days after the date on which the meeting was originally held, subject to rule 5.22A which applies for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act and[^key-099a1e03e9804610eece36d6f2e4aaa1] any direction of the court.
+(2) Any further adjournment under this rule must not be to a day later than 14 days after the date on which the meeting was originally held, subject to rule 5.22A which applies for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act and[^c-099a1e03e9804610eece36d6f2e4aaa1] any direction of the court.
 
-(3)[^key-7a0dd5fbd5ae03767dc70199132e2b16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7a0dd5fbd5ae03767dc70199132e2b16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5.23. Adjournment in absence of chair
 
 *Extent: S*
 
-(1) In a decision procedure in respect of a moratorium under Part A1 of the Act or[^key-4bef220ecbbce58082327847757c62c5] an administration, if no one attends to act as chair within 30 minutes of the time fixed for a meeting to start, then the meeting is adjourned to the same time and place the following week or, if that is not a business day, to the business day immediately following.
+(1) In a decision procedure in respect of a moratorium under Part A1 of the Act or[^c-4bef220ecbbce58082327847757c62c5] an administration, if no one attends to act as chair within 30 minutes of the time fixed for a meeting to start, then the meeting is adjourned to the same time and place the following week or, if that is not a business day, to the business day immediately following.
 
 (2) If no one attends to act as chair within 30 minutes of the time fixed for the meeting after a second adjournment under this rule, then the meeting comes to an end.
 
@@ -341,7 +341,7 @@ decide what questions may be put to any present or former officer of the company
 
 *Extent: S*
 
-Where a meeting for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act or[^key-21600ac6ed94b84bd831af0063810a30] in an administration is adjourned, the chair may allow a statement of claim and documentary evidence of debt (where required) to be used if delivered at or before resumption of the adjourned meeting.
+Where a meeting for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act or[^c-21600ac6ed94b84bd831af0063810a30] in an administration is adjourned, the chair may allow a statement of claim and documentary evidence of debt (where required) to be used if delivered at or before resumption of the adjourned meeting.
 
 ## 5.25. Suspension[^M_C_7d402a90-d159-4c4f-b369-9a656ef579c6]
 
@@ -353,7 +353,7 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 *Extent: S*
 
-(A1)[^key-8a8731969246d982fb1996e0873bf2f7] In a decision procedure in respect of a moratorium under Part A1 of the Act a creditor is entitled to vote only if the requirements in paragraph (1)(a) to (c) are satisfied in relation to that decision procedure.
+(A1)[^c-8a8731969246d982fb1996e0873bf2f7] In a decision procedure in respect of a moratorium under Part A1 of the Act a creditor is entitled to vote only if the requirements in paragraph (1)(a) to (c) are satisfied in relation to that decision procedure.
 
 (1) In an administration, a creditor is entitled to vote in a decision procedure or to object to a decision proposed using the deemed consent procedure only if—
 
@@ -369,7 +369,7 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 (5) Where a decision is sought in an administration under rule 3.52(3)(b), rule 3.96(5) or rule 3.96(6), creditors are entitled to participate to the extent stated in those rules.
 
-## 5.27. Claim made in proceedings in other member States[^key-d9200189a353e7879ace5306b263bed2]
+## 5.27. Claim made in proceedings in other member States[^c-d9200189a353e7879ace5306b263bed2]
 
 *Extent: S*
 
@@ -381,34 +381,34 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 (1) Votes are calculated according to the amount of each creditor's claim—
 
-- (za)[^key-dd846bd9b8b7bd245d82c367dbb19e14] in a decision procedure in respect of a moratorium under Part A1 of the Act, as at the decision date;
+- (za)[^c-dd846bd9b8b7bd245d82c367dbb19e14] in a decision procedure in respect of a moratorium under Part A1 of the Act, as at the decision date;
 - (a) in an administration, as at the date on which the company entered administration, less—
   - (i) any payments that have been made to the creditor after that date in respect of the claim, and
   - (ii) any adjustment by way of set-off which has been made in accordance with that principle or would have been made if that principle were applied on the date on which the votes are counted;
 - (b) in a proposed CVA—
   - (i) at the date the company went into liquidation where the company is being wound up,
   - (ii) at the date the company entered administration (less any payments made to the creditor after that date in respect of the claim) where it is in administration,
-  - (iii)[^key-fdd2f20e01f8a9a8363226862874abd1] where (i) and (ii) do not apply, at the decision date;
-  - (iv)[^key-807547433d7a73c5b998e059124f79a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-fdd2f20e01f8a9a8363226862874abd1] where (i) and (ii) do not apply, at the decision date;
+  - (iv)[^c-807547433d7a73c5b998e059124f79a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A creditor may vote in respect of a debt of an unliquidated or unascertained amount if the convener or chair decides to put upon it an estimated minimum value for the purpose of entitlement to vote and admits the claim for that purpose.
 
-(3) In relation to a decision procedure in respect of a moratorium under Part A1 of the Act, or[^key-8fc23c24c02af9b31530a6861c36bbc1] a proposed CVA, a debt of an unliquidated or unascertained amount is to be valued at £1 for the purposes of voting unless the convener or chair or an appointed person decides to put a higher value on it.
+(3) In relation to a decision procedure in respect of a moratorium under Part A1 of the Act, or[^c-8fc23c24c02af9b31530a6861c36bbc1] a proposed CVA, a debt of an unliquidated or unascertained amount is to be valued at £1 for the purposes of voting unless the convener or chair or an appointed person decides to put a higher value on it.
 
 (4) Where a debt is wholly secured its value for voting purposes is nil.
 
 (5) Where a debt is partly secured its value for voting purposes is the value of the unsecured part.
 
-(6)[^key-f563c88311a751f36cae21ed160a84cd] The value of the debt for voting purposes is its full value without deduction of the value of the security in the following cases—
+(6)[^c-f563c88311a751f36cae21ed160a84cd] The value of the debt for voting purposes is its full value without deduction of the value of the security in the following cases—
 
 - (a) where, in respect of a moratorium under Part A1 of the Act, there is a decision of pre-moratorium creditors on whether to extend or further extend that moratorium under section A11; and
 - (b) where the administrator has made a statement under paragraph 52(1)(b) of Schedule B1 and the administrator has been requested to seek a decision under paragraph 52(2) of that Schedule.
 
-(7) No vote may be cast in respect of a claim more than once on any resolution put to the meeting. [^key-9cdde861bd2a873f0a4e64cfa7878148]...
+(7) No vote may be cast in respect of a claim more than once on any resolution put to the meeting. [^c-9cdde861bd2a873f0a4e64cfa7878148]...
 
 (8) A vote cast in a decision procedure which is not a meeting may not be changed.
 
-(9) Paragraph (7) does not prevent a creditor [^key-85698ee62759f266bf6f51368d02b311]... from—
+(9) Paragraph (7) does not prevent a creditor [^c-85698ee62759f266bf6f51368d02b311]... from—
 
 - (a) voting in respect of less than the full value of an entitlement to vote; or
 - (b) casting a vote one way in respect of part of the value of an entitlement and another way in respect of some or all of the balance of that value.
@@ -417,7 +417,7 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 *Extent: S*
 
-(A1)[^key-382b9b168884733c5661ab454ce3dc9c] In a decision procedure in respect of a moratorium under Part A1 of the Act, a creditor under a hire purchase agreement is entitled to vote in respect of the amount of the debt due and payable by the company at the decision date.
+(A1)[^c-382b9b168884733c5661ab454ce3dc9c] In a decision procedure in respect of a moratorium under Part A1 of the Act, a creditor under a hire purchase agreement is entitled to vote in respect of the amount of the debt due and payable by the company at the decision date.
 
 (B1) In calculating the amount of any debt for the purpose of paragraph (A1) no account is to be taken of any amount attributable to the exercise of any right under the relevant agreement so far as the right has become exercisable solely by virtue of a moratorium for the company coming into force.
 
@@ -443,7 +443,7 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 *Extent: S*
 
-(A1)[^key-f7ed1b4655f7da72030b6326d73ec77d] Subject to paragraphs (B1) and (D1), a decision in respect of a moratorium under Part A1 of the Act is made when a majority (in value) of those voting have voted in favour of the proposed decision.
+(A1)[^c-f7ed1b4655f7da72030b6326d73ec77d] Subject to paragraphs (B1) and (D1), a decision in respect of a moratorium under Part A1 of the Act is made when a majority (in value) of those voting have voted in favour of the proposed decision.
 
 (B1) A decision is not made if, of the total number of those creditors voting in respect of the proposed decision who are, to the best of the convener’s belief, unconnected with the company, a majority vote against it.
 
@@ -455,7 +455,7 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 (2) In the case of an administration, a decision is not made if those voting against it include more than half in value of the creditors to whom notice of the decision procedure was delivered who are not, to the best of the convener's or chair's belief, persons connected with the company.
 
-(3)[^key-433ee9dcda623b21b7631d93f6cbf410] In the case of a proposed CVA a decision approving a proposal or a modification is made when 75% or more (in value) of those responding vote in favour of it.
+(3)[^c-433ee9dcda623b21b7631d93f6cbf410] In the case of a proposed CVA a decision approving a proposal or a modification is made when 75% or more (in value) of those responding vote in favour of it.
 
 (4) In a proposed CVA a decision is not made if more than half of the total value of the unconnected creditors vote against it.
 
@@ -473,9 +473,9 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 (2) In a proposed CVA, an appeal to the court against a decision under this Chapter may also be made by a member of the company.
 
-(3) In respect of a decision, other than one which is taken, or required, under Part A1 of the Act (as to which see paragraphs (3A) and (3B)) if that[^key-1ab47b10bd7312eaee09df5ed3d767ca] decision is reversed or varied, or votes are declared invalid, the court may order another decision procedure to be initiated or make such order as it thinks just but, in a CVA, the court may only make an order if it considers that the circumstances which led to the appeal give rise to unfair prejudice or material irregularity.
+(3) In respect of a decision, other than one which is taken, or required, under Part A1 of the Act (as to which see paragraphs (3A) and (3B)) if that[^c-1ab47b10bd7312eaee09df5ed3d767ca] decision is reversed or varied, or votes are declared invalid, the court may order another decision procedure to be initiated or make such order as it thinks just but, in a CVA, the court may only make an order if it considers that the circumstances which led to the appeal give rise to unfair prejudice or material irregularity.
 
-(3A)[^key-87dd877774e4d8d08d9d64ec798b8bf1] Subject to paragraph (3B), on an appeal against a decision taken, or required, under Part A1 of the Act a court may—
+(3A)[^c-87dd877774e4d8d08d9d64ec798b8bf1] Subject to paragraph (3B), on an appeal against a decision taken, or required, under Part A1 of the Act a court may—
 
 - (a) reverse the decision;
 - (b) vary the decision;
@@ -489,7 +489,7 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 (4) An appeal under this rule may not be made after the end of the period of 21 days beginning with the decision date.
 
-(5) However, the previous paragraph does not apply in a proposed CVA where an appeal may not be made after the end of the period of 28 days beginning with the day on which the first of the reports required by section 4(6) [^key-42f943c3a67b525d7257ac94690ce6e1]... was lodged with the court.
+(5) However, the previous paragraph does not apply in a proposed CVA where an appeal may not be made after the end of the period of 28 days beginning with the day on which the first of the reports required by section 4(6) [^c-42f943c3a67b525d7257ac94690ce6e1]... was lodged with the court.
 
 (6) The person who made the decision is not personally liable for costs incurred by any person in relation to an appeal under this rule unless the court makes an order to that effect.
 
@@ -735,79 +735,79 @@ and the notices required by sub-paragraphs (a) and (c) may be delivered at the s
 
 ## Annotations
 
-[^key-a27096ce994541bd40d395ad3c038c49]: Modification: Rules 5.2-5.4 applied by [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21), [s. 14B(3)](https://www.legislation.gov.uk/asp/2016/21/section/14B/3) (as amended (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [6](https://www.legislation.gov.uk/uksi/2019/1059/rule/6))
+[^c-a27096ce994541bd40d395ad3c038c49]: Modification: Rules 5.2-5.4 applied by [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21), [s. 14B(3)](https://www.legislation.gov.uk/asp/2016/21/section/14B/3) (as amended (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [6](https://www.legislation.gov.uk/uksi/2019/1059/rule/6))
 
-[^key-03eaa6abcd0e125dc1ae434d1ca9040e]: Textual amendment: Words in [rule 5.2(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.2/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [30(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/30/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-03eaa6abcd0e125dc1ae434d1ca9040e]: Textual amendment: Words in [rule 5.2(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.2/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [30(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/30/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
 [^c23413871]: Marginal citation: Section 246ZE was added by section 122 of the 2015 Act. Subsection (11) provides that “**qualifying decision procedure**” means a procedure prescribed or authorised under paragraph 8A of Schedule 8 to the Act.
 
 [^M_C_81eefbb8-6d0f-418c-eaa5-193ba56901fb]: Modification: Rule 5.6 applied by [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21), [s. 14B(3)](https://www.legislation.gov.uk/asp/2016/21/section/14B/3) (as amended (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [6](https://www.legislation.gov.uk/uksi/2019/1059/rule/6))
 
-[^key-e6e68e3204ab54729939118644b157d8]: Textual amendment: Words in [rule 5.6(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.6/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [31(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/31/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-e6e68e3204ab54729939118644b157d8]: Textual amendment: Words in [rule 5.6(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.6/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [31(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/31/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
 [^M_C_6d64f86b-61b1-4d4d-e995-e7d194b2da72]: Modification: [Rule 5.7](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.2) applied by 2016 asp 21, s. 14B(3) (as amended (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [6](https://www.legislation.gov.uk/uksi/2019/1059/rule/6))
 
-[^key-c1fee7e5e2f4dee823f8516d2bcc2af1]: Textual amendment: Words in [rule 5.8(3)(f)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.8/3/f) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [32(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/32/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-c1fee7e5e2f4dee823f8516d2bcc2af1]: Textual amendment: Words in [rule 5.8(3)(f)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.8/3/f) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [32(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/32/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-42bbb0bffb6e52c60528c4cccad921fd]: Textual amendment: Words in [rule 5.8(3)(g)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.8/3/g) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [32(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/32/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-42bbb0bffb6e52c60528c4cccad921fd]: Textual amendment: Words in [rule 5.8(3)(g)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.8/3/g) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [32(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/32/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-580f6360289a91d65485754899102932]: Textual amendment: Words in [rule 5.9(2)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.9/2) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [33(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/33/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-580f6360289a91d65485754899102932]: Textual amendment: Words in [rule 5.9(2)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.9/2) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [33(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/33/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-a58d7b51e9cb818519474b7f9064d051]: Textual amendment: Words in rule 5.11(1) table inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [34(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/34/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-a58d7b51e9cb818519474b7f9064d051]: Textual amendment: Words in rule 5.11(1) table inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [34(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/34/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-24be27848d084bd4e679a705fd1f23bd]: Textual amendment: Words in rule 5.11(1) table omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) Table (with rules 4, 5)
+[^c-24be27848d084bd4e679a705fd1f23bd]: Textual amendment: Words in rule 5.11(1) table omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) Table (with rules 4, 5)
 
-[^key-70091d31d33bfc1696ef51e8bf3bda8b]: Textual amendment: Words in rule 5.11(1) table omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZM](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZM) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit
+[^c-70091d31d33bfc1696ef51e8bf3bda8b]: Textual amendment: Words in rule 5.11(1) table omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZM](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZM) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit
 
 [^M_C_1ec9f311-a099-4b18-f8f7-e724e77ae27b]: Modification: Rule 5.14 applied by [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21), [s. 14B(3)](https://www.legislation.gov.uk/asp/2016/21/section/14B/3) (as amended (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [6](https://www.legislation.gov.uk/uksi/2019/1059/rule/6))
 
-[^key-e11f8a256f8fa0d8a53e8104875b2da3]: Textual amendment: Words in [rule 5.14(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.14/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [35(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/35/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-e11f8a256f8fa0d8a53e8104875b2da3]: Textual amendment: Words in [rule 5.14(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.14/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [35(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/35/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
 [^M_C_4731b9f5-f310-48c8-f361-c8493d97f016]: Modification: [Rule 5.20](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.2) applied by 2016 asp 21, s. 14B(3) (as amended (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [6](https://www.legislation.gov.uk/uksi/2019/1059/rule/6))
 
 [^M_C_88bdf2f7-7124-49ec-d77d-4dd3edca3da4]: Modification: Rule 5.22 applied by [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21), [s. 14B(3)](https://www.legislation.gov.uk/asp/2016/21/section/14B/3) (as amended (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [6](https://www.legislation.gov.uk/uksi/2019/1059/rule/6))
 
-[^key-099a1e03e9804610eece36d6f2e4aaa1]: Textual amendment: Words in [rule 5.22(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.22/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [36(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/36/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-099a1e03e9804610eece36d6f2e4aaa1]: Textual amendment: Words in [rule 5.22(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.22/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [36(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/36/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-7a0dd5fbd5ae03767dc70199132e2b16]: Textual amendment: Rule 5.22(3) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) table (with rules 4, 5)
+[^c-7a0dd5fbd5ae03767dc70199132e2b16]: Textual amendment: Rule 5.22(3) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) table (with rules 4, 5)
 
-[^key-4bef220ecbbce58082327847757c62c5]: Textual amendment: Words in [rule 5.23(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.23/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [38(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/38/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-4bef220ecbbce58082327847757c62c5]: Textual amendment: Words in [rule 5.23(1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.23/1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [38(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/38/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-21600ac6ed94b84bd831af0063810a30]: Textual amendment: Words in [rule 5.24](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.24) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [39(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/39/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-21600ac6ed94b84bd831af0063810a30]: Textual amendment: Words in [rule 5.24](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.24) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [39(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/39/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
 [^M_C_7d402a90-d159-4c4f-b369-9a656ef579c6]: Modification: Rules 5.25-5.28 applied by [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21), [s. 14B(3)](https://www.legislation.gov.uk/asp/2016/21/section/14B/3) (as amended (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [6](https://www.legislation.gov.uk/uksi/2019/1059/rule/6))
 
-[^key-8a8731969246d982fb1996e0873bf2f7]: Textual amendment: [Rule 5.26(A1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.26/A1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [40(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/40/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-8a8731969246d982fb1996e0873bf2f7]: Textual amendment: [Rule 5.26(A1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.26/A1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [40(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/40/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-d9200189a353e7879ace5306b263bed2]: Textual amendment: Rule 5.27 omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZN](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZN) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit
+[^c-d9200189a353e7879ace5306b263bed2]: Textual amendment: Rule 5.27 omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZN](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZN) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit
 
-[^key-dd846bd9b8b7bd245d82c367dbb19e14]: Textual amendment: [Rule 5.28(za)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/za) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-dd846bd9b8b7bd245d82c367dbb19e14]: Textual amendment: [Rule 5.28(za)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/za) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-fdd2f20e01f8a9a8363226862874abd1]: Textual amendment: [Rule 5.28(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/1/b/iii) substituted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(3)(a)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/3/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-fdd2f20e01f8a9a8363226862874abd1]: Textual amendment: [Rule 5.28(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/1/b/iii) substituted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(3)(a)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/3/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-807547433d7a73c5b998e059124f79a7]: Textual amendment: [Rule 5.28(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/1/b/iv) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(3)(b)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/3/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-807547433d7a73c5b998e059124f79a7]: Textual amendment: [Rule 5.28(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/1/b/iv) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(3)(b)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/3/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-8fc23c24c02af9b31530a6861c36bbc1]: Textual amendment: Words in [rule 5.28(3)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/3) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(4)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/4) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-8fc23c24c02af9b31530a6861c36bbc1]: Textual amendment: Words in [rule 5.28(3)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/3) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(4)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/4) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-f563c88311a751f36cae21ed160a84cd]: Textual amendment: [Rule 5.28(6)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/6) substituted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(5)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/5) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-f563c88311a751f36cae21ed160a84cd]: Textual amendment: [Rule 5.28(6)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.28/6) substituted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [41(5)](https://www.legislation.gov.uk/uksi/2021/1026/rule/41/5) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-9cdde861bd2a873f0a4e64cfa7878148]: Textual amendment: Words in rule 5.28(7) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZO(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZO/a) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit
+[^c-9cdde861bd2a873f0a4e64cfa7878148]: Textual amendment: Words in rule 5.28(7) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZO(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZO/a) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit
 
-[^key-85698ee62759f266bf6f51368d02b311]: Textual amendment: Words in rule 5.28(9) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZO(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZO/b) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit
+[^c-85698ee62759f266bf6f51368d02b311]: Textual amendment: Words in rule 5.28(9) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 137ZO(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137ZO/b) (as inserted by [S.I. 2019/1459](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit
 
-[^key-382b9b168884733c5661ab454ce3dc9c]: Textual amendment: [Rule 5.29(A1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.29/A1)[(B1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.29/B1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [42(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/42/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-382b9b168884733c5661ab454ce3dc9c]: Textual amendment: [Rule 5.29(A1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.29/A1)[(B1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.29/B1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [42(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/42/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
 [^M_C_0db9f21d-c4ee-4060-e14d-48e6b02e4a9a]: Modification: Rules 5.30-5.35 applied by [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21), [s. 14B(3)](https://www.legislation.gov.uk/asp/2016/21/section/14B/3) (as amended (23.7.2019) by [The Insolvency (Scotland) Rules 2018 (Miscellaneous Amendments) Rules 2019 (S.I. 2019/1059)](https://www.legislation.gov.uk/uksi/2019/1059), [rules 1](https://www.legislation.gov.uk/uksi/2019/1059/rule/1), [6](https://www.legislation.gov.uk/uksi/2019/1059/rule/6))
 
-[^key-f7ed1b4655f7da72030b6326d73ec77d]: Textual amendment: [Rules 5.31(A1)-(D1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.31/A1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [43(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/43/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-f7ed1b4655f7da72030b6326d73ec77d]: Textual amendment: [Rules 5.31(A1)-(D1)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.31/A1) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [43(2)](https://www.legislation.gov.uk/uksi/2021/1026/rule/43/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-433ee9dcda623b21b7631d93f6cbf410]: Textual amendment: [Rule 5.31(3)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.31/3) substituted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [43(3)](https://www.legislation.gov.uk/uksi/2021/1026/rule/43/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-433ee9dcda623b21b7631d93f6cbf410]: Textual amendment: [Rule 5.31(3)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.31/3) substituted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [43(3)](https://www.legislation.gov.uk/uksi/2021/1026/rule/43/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-1ab47b10bd7312eaee09df5ed3d767ca]: Textual amendment: Words in rule 5.32(3) substituted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [44(2)(a)(b)](https://www.legislation.gov.uk/uksi/2021/1026/rule/44/2/a/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-1ab47b10bd7312eaee09df5ed3d767ca]: Textual amendment: Words in rule 5.32(3) substituted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [44(2)(a)(b)](https://www.legislation.gov.uk/uksi/2021/1026/rule/44/2/a/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-87dd877774e4d8d08d9d64ec798b8bf1]: Textual amendment: [Rule 5.32(3A)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.32/3A)[(3B)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.32/3B) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [44(3)](https://www.legislation.gov.uk/uksi/2021/1026/rule/44/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-87dd877774e4d8d08d9d64ec798b8bf1]: Textual amendment: [Rule 5.32(3A)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.32/3A)[(3B)](https://www.legislation.gov.uk/uksi/2018/1082/rule/5.32/3B) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [44(3)](https://www.legislation.gov.uk/uksi/2021/1026/rule/44/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
 
-[^key-42f943c3a67b525d7257ac94690ce6e1]: Textual amendment: Words in rule 5.32(5) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) table (with rules 4, 5)
+[^c-42f943c3a67b525d7257ac94690ce6e1]: Textual amendment: Words in rule 5.32(5) omitted (1.10.2021) by virtue of [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rule 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2021/1026/schedule/2/paragraph/3) table (with rules 4, 5)
 
 [^c23413881]: Marginal citation: Section 246A was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Offences on board spacecraft: supplementary[^key-38284fd7534383157e501ddf32603d81]
+## 52. Offences on board spacecraft: supplementary[^c-38284fd7534383157e501ddf32603d81]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ as compared with the provision or penalties that apply to the existing offence t
 
 ## Annotations
 
-[^key-38284fd7534383157e501ddf32603d81]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2018/5/section/52) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ss)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ss)
+[^c-38284fd7534383157e501ddf32603d81]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2018/5/section/52) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ss)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ss)

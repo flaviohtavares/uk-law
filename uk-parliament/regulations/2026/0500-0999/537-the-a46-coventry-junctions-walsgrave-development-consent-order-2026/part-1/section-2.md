@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-52cf8de75f94db2caefcfc0aec67a6f0]
+## 2. Interpretation[^c-52cf8de75f94db2caefcfc0aec67a6f0]
 
 *Extent: E+W+S*
 
@@ -30,14 +30,14 @@ summary: ''
 - “**the 1990 Act**” means the Town and Country Planning Act 1990[^f00017];
 - “**the 1991 Act**” means the New Roads and Street Works Act 1991[^f00018];
 - “**the 2008 Act**” means the Planning Act 2008[^f00019];
-- [^key-57db1c8e2fa67dd10d205f51c2844f85]...
+- [^c-57db1c8e2fa67dd10d205f51c2844f85]...
 - “**address**” includes any number or address for the purposes of electronic transmission;
 - “**apparatus**” has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act;
 - “**authorised development**” means the development described in Schedule 1 (authorised development) and any other development authorised by this Order, which is development within the meaning of section 32 (meaning of development) of the 2008 Act;
 - “**the book of reference**” means the document of that description listed in Schedule 10 (documents to be certified) and certified by the Secretary of State as the book of reference for the purposes of this Order;
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
 - “**carriageway**” has the same meaning as in section 329(1) (further provision as to interpretation) of the 1980 Act;
-- “**classification of roads plans**” means the document of that description listed in Schedule 10[^key-35990731ce9e4a19be737ffcd82ff815] (documents to be certified) and certified by the Secretary of State as the classification of roads plans for the purposes of this Order;
+- “**classification of roads plans**” means the document of that description listed in Schedule 10[^c-35990731ce9e4a19be737ffcd82ff815] (documents to be certified) and certified by the Secretary of State as the classification of roads plans for the purposes of this Order;
 - “**commence**” means beginning to carry out any material operation (as defined in section 155(2) of the 2008 Act) forming part of the authorised development other than operations consisting of pre-commencement works, and “**commencement**” is to be construed accordingly;
 - “**cycle track**” has the same meaning as in section 329(1) of the 1980 Act[^f00021];
 - “**electronic transmission**” means a communication transmitted—
@@ -97,7 +97,7 @@ summary: ''
 
 ## Annotations
 
-[^key-52cf8de75f94db2caefcfc0aec67a6f0]: Commencement: Art. 2 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-52cf8de75f94db2caefcfc0aec67a6f0]: Commencement: Art. 2 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
 [^f00012]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -115,9 +115,9 @@ summary: ''
 
 [^f00019]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-57db1c8e2fa67dd10d205f51c2844f85]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2026/537/article/2/1) omitted (27.5.2026) by virtue of [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-57db1c8e2fa67dd10d205f51c2844f85]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2026/537/article/2/1) omitted (27.5.2026) by virtue of [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
 
-[^key-35990731ce9e4a19be737ffcd82ff815]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2026/537/article/2/1) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-35990731ce9e4a19be737ffcd82ff815]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2026/537/article/2/1) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
 
 [^f00021]: Footnote: The definition of “**cycle track**” (in section 329(1) of the 1980 Act) was amended by section 1 of the Cycle Tracks Act [1984 (c. 38)](https://www.legislation.gov.uk/ukpga/1984/38) and paragraph 21(2) of Schedule 3 to the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54).
 

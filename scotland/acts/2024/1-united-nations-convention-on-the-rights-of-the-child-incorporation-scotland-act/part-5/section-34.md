@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Power to intervene in proceedings where compatibility question arises[^key-8dfc7cfed870d5edcdc6d56c69cba335]
+## 34. Power to intervene in proceedings where compatibility question arises[^c-8dfc7cfed870d5edcdc6d56c69cba335]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dfc7cfed870d5edcdc6d56c69cba335]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2024/1/section/34) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-8dfc7cfed870d5edcdc6d56c69cba335]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2024/1/section/34) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

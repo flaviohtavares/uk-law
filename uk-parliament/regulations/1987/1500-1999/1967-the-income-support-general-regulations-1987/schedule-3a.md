@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3A — PROTECTED SUM[^key-95af32b6a3158cc21b9185de51af577b]
+## SCHEDULE 3A — PROTECTED SUM[^c-95af32b6a3158cc21b9185de51af577b]
 
 *Extent: E+W+S*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Regulations 17(1)(g), 18(1)(h) and 71(1)(a)(v) and (d)(iv)
 
-### 1. Interpretation[^key-95af32b6a3158cc21b9185de51af577b]
+### 1. Interpretation[^c-95af32b6a3158cc21b9185de51af577b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Protected sum[^key-95af32b6a3158cc21b9185de51af577b]
+### 2. Protected sum[^c-95af32b6a3158cc21b9185de51af577b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Persons not entitled to a protected sum[^key-95af32b6a3158cc21b9185de51af577b]
+### 3. Persons not entitled to a protected sum[^c-95af32b6a3158cc21b9185de51af577b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Period of application[^key-95af32b6a3158cc21b9185de51af577b]
+### 4. Period of application[^c-95af32b6a3158cc21b9185de51af577b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Reduction of protected sum[^key-95af32b6a3158cc21b9185de51af577b]
+### 5. Reduction of protected sum[^c-95af32b6a3158cc21b9185de51af577b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Termination of protected sum[^key-95af32b6a3158cc21b9185de51af577b]
+### 6. Termination of protected sum[^c-95af32b6a3158cc21b9185de51af577b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Protected persons[^key-95af32b6a3158cc21b9185de51af577b]
+### 7. Protected persons[^c-95af32b6a3158cc21b9185de51af577b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-95af32b6a3158cc21b9185de51af577b]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/1987/1967/schedule/3A) revoked (3.4.2006) by [The Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/5), [2(4)(e)](https://www.legislation.gov.uk/uksi/2006/588/regulation/2/4/e)
+[^c-95af32b6a3158cc21b9185de51af577b]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/1987/1967/schedule/3A) revoked (3.4.2006) by [The Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/5), [2(4)(e)](https://www.legislation.gov.uk/uksi/2006/588/regulation/2/4/e)

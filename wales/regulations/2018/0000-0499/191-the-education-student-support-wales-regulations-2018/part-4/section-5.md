@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Designated courses[^key-7f16e76029704efbb1c9f60c6f46e4fb]
+## 5. Designated courses[^c-7f16e76029704efbb1c9f60c6f46e4fb]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In these Regulations (and for the purposes of section 22 of the Teaching and Hig
 
 ## Annotations
 
-[^key-7f16e76029704efbb1c9f60c6f46e4fb]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2018/191/regulation/5) substituted (31.8.2025) by [The Education (Student Support) (Wales) (Amendment) Regulations 2025 (S.I. 2025/981)](https://www.legislation.gov.uk/wsi/2025/981), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/981/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2025/981/regulation/4)
+[^c-7f16e76029704efbb1c9f60c6f46e4fb]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2018/191/regulation/5) substituted (31.8.2025) by [The Education (Student Support) (Wales) (Amendment) Regulations 2025 (S.I. 2025/981)](https://www.legislation.gov.uk/wsi/2025/981), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/981/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2025/981/regulation/4)

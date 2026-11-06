@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Co-operation between certain councils and London Regional Transport.[^key-27890099608df53aa49f7782fbd18013][^key-930bf82a8e2261d421e3d171b3b4ca8d][^key-27890099608df53aa49f7782fbd18013]
+## 65. Co-operation between certain councils and London Regional Transport.[^c-27890099608df53aa49f7782fbd18013][^c-930bf82a8e2261d421e3d171b3b4ca8d][^c-27890099608df53aa49f7782fbd18013]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) in a case where the service in question would not be provided without a subsidy; and
 - (b) in accordance with sections 89 to 92 of this Act.
 
-(3A)[^key-84386a361f54559ee97e89b8dd189063] Where the whole or any part of the area of a county council in England falls within the area of a combined authority or a combined county authority, references in this section to the council are—
+(3A)[^c-84386a361f54559ee97e89b8dd189063] Where the whole or any part of the area of a county council in England falls within the area of a combined authority or a combined county authority, references in this section to the council are—
 
 - (a) where the combined authority or combined county authority has completed its first full financial year, references to the combined authority or combined county authority (instead of to the council), and
 - (b) until that time, references to the combined authority or combined county authority as well as to the council.
@@ -40,9 +40,9 @@ summary: ''
 
 ## Annotations
 
-[^key-27890099608df53aa49f7782fbd18013]: Modification: Pt. 4: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-27890099608df53aa49f7782fbd18013]: Modification: Pt. 4: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
-[^key-930bf82a8e2261d421e3d171b3b4ca8d]: Modification: Ss. 65-71: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4)
+[^c-930bf82a8e2261d421e3d171b3b4ca8d]: Modification: Ss. 65-71: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4)
 
 [^c19427251]: Textual amendment: Words in s. 65(1) substituted (15.7.2003) by The Transport for London (Consequential Provisions) Order 2003 (S.I 2003/1615), art. 2, {Sch. 1 para. 12(2)(a)(i)}
 
@@ -52,6 +52,6 @@ summary: ''
 
 [^c19427771]: Textual amendment: S. 65(3) substituted (15.7.2003) by The Transport for London (Consequential Provisions) Order 2003 (S.I 2003/1615), art. 2, {Sch. 1 para. 12(2)(c)}
 
-[^key-84386a361f54559ee97e89b8dd189063]: Textual amendment: S. 65(3A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2026/23/schedule/12/paragraph/18) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-84386a361f54559ee97e89b8dd189063]: Textual amendment: S. 65(3A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2026/23/schedule/12/paragraph/18) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
 [^c19427781]: Textual amendment: S. 65(4)(5) omitted (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 2](https://www.legislation.gov.uk/uksi/2003/1615/article/2), [Sch. 1 para. 12(2)(d)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/12/2/d)

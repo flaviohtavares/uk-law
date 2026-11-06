@@ -27,7 +27,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (revoked)[^key-f66ee6042338f6bef6eb3b8ddd73c002]
+The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (revoked)[^c-f66ee6042338f6bef6eb3b8ddd73c002]
 
 Made
 
@@ -37,32 +37,32 @@ Coming into force
 
 8th February 2004
 
-[^key-f66ee6042338f6bef6eb3b8ddd73c002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f66ee6042338f6bef6eb3b8ddd73c002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-f66ee6042338f6bef6eb3b8ddd73c002]
+## 1. Title, commencement and application[^c-f66ee6042338f6bef6eb3b8ddd73c002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Food (Brazil Nuts) (Emergency Control) (Wales) Regulations 2003[^key-f66ee6042338f6bef6eb3b8ddd73c002]
+## 2. Amendments to the Food (Brazil Nuts) (Emergency Control) (Wales) Regulations 2003[^c-f66ee6042338f6bef6eb3b8ddd73c002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Food (Pistachios from Iran) (Emergency Control) (Wales) (No. 2) Regulations 2003[^key-f66ee6042338f6bef6eb3b8ddd73c002]
+## 3. Amendments to the Food (Pistachios from Iran) (Emergency Control) (Wales) (No. 2) Regulations 2003[^c-f66ee6042338f6bef6eb3b8ddd73c002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Wales) Regulations 2003 and the Food (Peanuts from Egypt) (Emergency Control) (Wales) Regulations 2003[^key-f66ee6042338f6bef6eb3b8ddd73c002]
+## 4. Amendments to the Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Wales) Regulations 2003 and the Food (Peanuts from Egypt) (Emergency Control) (Wales) Regulations 2003[^c-f66ee6042338f6bef6eb3b8ddd73c002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f66ee6042338f6bef6eb3b8ddd73c002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f66ee6042338f6bef6eb3b8ddd73c002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f66ee6042338f6bef6eb3b8ddd73c002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f66ee6042338f6bef6eb3b8ddd73c002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f66ee6042338f6bef6eb3b8ddd73c002]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2004/245) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-f66ee6042338f6bef6eb3b8ddd73c002]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2004/245) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

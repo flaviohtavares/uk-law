@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Directions as to making, amending or revocation of schemes[^key-5bd2a863f839668ea984c23bb1cb732e]
+## 102. Directions as to making, amending or revocation of schemes[^c-5bd2a863f839668ea984c23bb1cb732e]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bd2a863f839668ea984c23bb1cb732e]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2010/5/section/102) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-5bd2a863f839668ea984c23bb1cb732e]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2010/5/section/102) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

@@ -34,16 +34,16 @@ summary: ''
 - (a) deducted on making those relevant payments, or
 - (b) accounted for under regulation 62(5).
 
-(4A)[^key-c495df7a9e7c0edc357f80f6647fffe9] If condition A or B is met, any direction under paragraph (4) must be made by notice (“the direction notice”) to the employee stating the date the notice was issued.
+(4A)[^c-c495df7a9e7c0edc357f80f6647fffe9] If condition A or B is met, any direction under paragraph (4) must be made by notice (“the direction notice”) to the employee stating the date the notice was issued.
 
 (5) If a direction is made, the amount of tax must not be added under regulation 185(5) or 188(3)(a) (adjustments for self-assessments and other assessments) in relation to the employee.
 
-(6) Tax payable by an employee as a result of a direction carries interest, as if it were unpaid tax due from an employer, in accordance with section 101 of the Finance Act 2009[^key-96340efbd92f42234bef9b64def8726c].
+(6) Tax payable by an employee as a result of a direction carries interest, as if it were unpaid tax due from an employer, in accordance with section 101 of the Finance Act 2009[^c-96340efbd92f42234bef9b64def8726c].
 
 (7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c495df7a9e7c0edc357f80f6647fffe9]: Textual amendment: [Reg. 81(4A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/81/4A) inserted (12.4.2004) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2004 (S.I. 2004/851)](https://www.legislation.gov.uk/uksi/2004/851), [regs. 1](https://www.legislation.gov.uk/uksi/2004/851/regulation/1), [5](https://www.legislation.gov.uk/uksi/2004/851/regulation/5)
+[^c-c495df7a9e7c0edc357f80f6647fffe9]: Textual amendment: [Reg. 81(4A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/81/4A) inserted (12.4.2004) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2004 (S.I. 2004/851)](https://www.legislation.gov.uk/uksi/2004/851), [regs. 1](https://www.legislation.gov.uk/uksi/2004/851/regulation/1), [5](https://www.legislation.gov.uk/uksi/2004/851/regulation/5)
 
-[^key-96340efbd92f42234bef9b64def8726c]: Textual amendment: Words in [reg. 81(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/81/6) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Finance Act 2009, Sections 101 and 102 (Interest on Late Payments and Repayments), Appointed Days and Consequential Provisions Order 2014 (S.I. 2014/992)](https://www.legislation.gov.uk/uksi/2014/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/992/article/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2014/992/article/9/4/a)
+[^c-96340efbd92f42234bef9b64def8726c]: Textual amendment: Words in [reg. 81(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/81/6) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Finance Act 2009, Sections 101 and 102 (Interest on Late Payments and Repayments), Appointed Days and Consequential Provisions Order 2014 (S.I. 2014/992)](https://www.legislation.gov.uk/uksi/2014/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/992/article/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2014/992/article/9/4/a)

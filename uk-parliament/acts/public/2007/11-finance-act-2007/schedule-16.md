@@ -172,7 +172,7 @@ Section 51
 (6) The amendments made by this paragraph do not have effect in relation to—
 
 - (a) a relevant holding issued before that date, or
-- (b) a relevant holding acquired by a company (“the investing company”) before 6 April 2018[^key-a2ee418775b6f9ec7e9d94501566359c] by means of the investment of protected money.
+- (b) a relevant holding acquired by a company (“the investing company”) before 6 April 2018[^c-a2ee418775b6f9ec7e9d94501566359c] by means of the investment of protected money.
 
 (7) For the purposes of sub-paragraph (6)(b), “**protected money**” is—
 
@@ -317,7 +317,7 @@ Section 51
 
 #### Transitional provision
 
-**8.**[^key-e8483d11d871d66f704964512f8f62a0] (1) This paragraph applies for the purposes of—
+**8.**[^c-e8483d11d871d66f704964512f8f62a0] (1) This paragraph applies for the purposes of—
 
 - (a) paragraph 35A of Schedule 15 to FA 2000,
 - (b) section 173A of ITA 2007 (including that section as applied by paragraph 1(6) of Schedule 5B to TCGA 1992), and
@@ -382,9 +382,9 @@ Section 51
 - (a) in subsection (3), after “Chapter” insert “ ;(except section 297(5D)) ”, and
 - (b) in subsection (4), after “Chapter” insert “ ;(except section 297(5D)) ”.
 
-(3)[^key-1e7df39effb81111573fb692f43726af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1e7df39effb81111573fb692f43726af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1e7df39effb81111573fb692f43726af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1e7df39effb81111573fb692f43726af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 137 of ITA 2007 (share loss relief: trading requirement for shares to which EIS relief not attributable), after subsection (8) insert—
 
@@ -646,8 +646,8 @@ Section 51
 
 ## Annotations
 
-[^key-a2ee418775b6f9ec7e9d94501566359c]: Textual amendment: Words in [Sch. 16 para. 3(6)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/3/6/b) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/9), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-a2ee418775b6f9ec7e9d94501566359c]: Textual amendment: Words in [Sch. 16 para. 3(6)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/3/6/b) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/9), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
 
-[^key-e8483d11d871d66f704964512f8f62a0]: Modification: [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/8) excluded (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2018/3/section/15/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/15/2/a)
+[^c-e8483d11d871d66f704964512f8f62a0]: Modification: [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/8) excluded (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2018/3/section/15/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/section/15/2/a)
 
-[^key-1e7df39effb81111573fb692f43726af]: Textual amendment: Sch. 16 para. 11(3)(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1e7df39effb81111573fb692f43726af]: Textual amendment: Sch. 16 para. 11(3)(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

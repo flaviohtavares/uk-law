@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Registration[^key-409a244402544d535c864531473b3725]
+## 83. Registration[^c-409a244402544d535c864531473b3725]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (2) The registration requirements are that—
 
-- (a)[^key-02451572fb12f812f3d5d232ef8e966e] the person is—
+- (a)[^c-02451572fb12f812f3d5d232ef8e966e] the person is—
   - (i) appropriately qualified (see section 84), or
   - (ii) a specified state applicant whose professional qualifications have been recognised in accordance with section 85B,
 - (b) the person's fitness to practise is not impaired on one or more of the grounds in section 117(1), and
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-409a244402544d535c864531473b3725]: Commencement: S. 83 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-409a244402544d535c864531473b3725]: Commencement: S. 83 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-02451572fb12f812f3d5d232ef8e966e]: Textual amendment: S. 83(2)(a) substituted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [6](https://www.legislation.gov.uk/wsi/2026/24/regulation/6)
+[^c-02451572fb12f812f3d5d232ef8e966e]: Textual amendment: S. 83(2)(a) substituted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [6](https://www.legislation.gov.uk/wsi/2026/24/regulation/6)

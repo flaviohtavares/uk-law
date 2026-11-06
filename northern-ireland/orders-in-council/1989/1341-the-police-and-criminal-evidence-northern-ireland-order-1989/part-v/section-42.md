@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Limits on period of detention without charge[^c20416761][^key-2515b6537cb7d02651311c17e51e023a]
+## 42. Limits on period of detention without charge[^c20416761][^c-2515b6537cb7d02651311c17e51e023a]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ and is arrested at the police station, shall be the time of his arrest;
 
 [^c20416761]: Modification: [Art. 42](https://www.legislation.gov.uk/nisi/1989/1341/article/42) applied (with modifications) (1.12.2007) by [Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (S.R. 2007/464)](https://www.legislation.gov.uk/nisr/2007/464), [arts. 3-15](https://www.legislation.gov.uk/nisr/2007/464/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/464/schedule/2)
 
-[^key-2515b6537cb7d02651311c17e51e023a]: Modification: [Art. 42](https://www.legislation.gov.uk/nisi/1989/1341/article/42) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [23](https://www.legislation.gov.uk/uksi/2026/117/regulation/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-2515b6537cb7d02651311c17e51e023a]: Modification: [Art. 42](https://www.legislation.gov.uk/nisi/1989/1341/article/42) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [23](https://www.legislation.gov.uk/uksi/2026/117/regulation/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c17128651]: Textual amendment: [1995 NI 17](https://www.legislation.gov.uk/1995/ni17)
 

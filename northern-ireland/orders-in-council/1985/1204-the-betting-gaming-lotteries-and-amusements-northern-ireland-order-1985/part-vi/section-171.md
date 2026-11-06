@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 171. Securities in connection with gaming and wagering illegal[^key-c0d5ac230846edfa445ca1f905791d47]
+## 171. Securities in connection with gaming and wagering illegal[^c-c0d5ac230846edfa445ca1f905791d47]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0d5ac230846edfa445ca1f905791d47]: Textual amendment: [Art. 171](https://www.legislation.gov.uk/nisi/1985/1204/article/171) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 14(1)(b)](https://www.legislation.gov.uk/nia/2022/14/section/14/1/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-c0d5ac230846edfa445ca1f905791d47]: Textual amendment: [Art. 171](https://www.legislation.gov.uk/nisi/1985/1204/article/171) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 14(1)(b)](https://www.legislation.gov.uk/nia/2022/14/section/14/1/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

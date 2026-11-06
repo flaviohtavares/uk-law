@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Duty to respond to Commissioner's recommendations[^key-6c70bab7c1fface1e3f01d2ab84e4015]
+## 16. Duty to respond to Commissioner's recommendations[^c-6c70bab7c1fface1e3f01d2ab84e4015]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ as the case may be.
 
 ## Annotations
 
-[^key-6c70bab7c1fface1e3f01d2ab84e4015]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/17/section/16) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-6c70bab7c1fface1e3f01d2ab84e4015]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/17/section/16) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Amendment of the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 (Welsh language text)[^key-cc7593416ca81a8e91f93c7a0ab871af]
+## 73. Amendment of the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 (Welsh language text)[^c-cc7593416ca81a8e91f93c7a0ab871af]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc7593416ca81a8e91f93c7a0ab871af]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2023/1071/regulation/73) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-cc7593416ca81a8e91f93c7a0ab871af]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2023/1071/regulation/73) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

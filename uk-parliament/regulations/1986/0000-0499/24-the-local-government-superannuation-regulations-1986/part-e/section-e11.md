@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E11. Death grant[^key-856324a46256a152a57f200ed2640771]
+## E11. Death grant[^c-856324a46256a152a57f200ed2640771]
 
 *Extent: E+W+S*
 
@@ -103,4 +103,4 @@ and a widow's pension is payable under regulation E5, the amount of the death gr
 
 ## Annotations
 
-[^key-856324a46256a152a57f200ed2640771]: Commencement: [Reg. E11](https://www.legislation.gov.uk/uksi/1986/24/regulation/E11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-856324a46256a152a57f200ed2640771]: Commencement: [Reg. E11](https://www.legislation.gov.uk/uksi/1986/24/regulation/E11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

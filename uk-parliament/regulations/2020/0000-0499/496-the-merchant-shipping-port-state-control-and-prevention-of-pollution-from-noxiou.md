@@ -50,15 +50,15 @@ Coming into force
 
 The Secretary of State in exercise of the powers conferred by sections 85(1) and (3) and 86(1)(a) and (b) of the Merchant Shipping Act 1995[^f00001], articles 3 and 5 of the Merchant Shipping (Prevention and Control of Pollution) Order 1987[^f00002] and article 2 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996[^f00003] makes the following Regulations.
 
-## 1. Citation and commencement[^key-1036d4c34d621b13244266ec2198b99a]
+## 1. Citation and commencement[^c-1036d4c34d621b13244266ec2198b99a]
 
 These Regulations may be cited as the Merchant Shipping (Port State Control and Prevention of Pollution from Noxious Liquid Substances in Bulk) (Amendment) Regulations 2020 and come into force on 1st June 2020.
 
-## 2. Amendment of the Merchant Shipping (Port State Control) Regulations 2011[^key-079fec3fcf9be048a3c60dbf6b8bfbcd]
+## 2. Amendment of the Merchant Shipping (Port State Control) Regulations 2011[^c-079fec3fcf9be048a3c60dbf6b8bfbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^key-57a11518375e3ab72a401594db3608e7]
+## 3. Amendment of the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^c-57a11518375e3ab72a401594db3608e7]
 
 (1) The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^f00005] are amended as follows.
 
@@ -100,10 +100,10 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00003]: Footnote: [S.I. 1996/282](https://www.legislation.gov.uk/uksi/1996/282), amended by the Marine and Coastal Access Act 2009, Schedule 4, Part 1, paragraph 3 and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
-[^key-1036d4c34d621b13244266ec2198b99a]: Commencement: Reg. 1 in force at 1.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1)
+[^c-1036d4c34d621b13244266ec2198b99a]: Commencement: Reg. 1 in force at 1.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1)
 
-[^key-079fec3fcf9be048a3c60dbf6b8bfbcd]: Textual amendment: Reg. 2 revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-079fec3fcf9be048a3c60dbf6b8bfbcd]: Textual amendment: Reg. 2 revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-57a11518375e3ab72a401594db3608e7]: Commencement: Reg. 3 in force at 1.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1)
+[^c-57a11518375e3ab72a401594db3608e7]: Commencement: Reg. 3 in force at 1.6.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/496/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2018/68](https://www.legislation.gov.uk/uksi/2018/68), to which there are amendments not relevant to these Regulations.

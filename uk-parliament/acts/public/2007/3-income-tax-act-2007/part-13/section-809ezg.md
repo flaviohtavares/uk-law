@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809EZG. Disguised investment management fees: avoidance of double taxation[^key-be3329172140d2b2dd1606d8d16f11da]
+## 809EZG. Disguised investment management fees: avoidance of double taxation[^c-be3329172140d2b2dd1606d8d16f11da]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where—
 
 - (a) income tax is charged on an individual by virtue of section 809EZA in respect of a disguised fee, and
-- (b) at any time, a tax (whether income tax or another tax) is charged on the individual or another person[^key-868dd482c80ff00dfba3e44508cb777a] otherwise than by virtue of section 809EZA in relation to the disguised fee.
+- (b) at any time, a tax (whether income tax or another tax) is charged on the individual or another person[^c-868dd482c80ff00dfba3e44508cb777a] otherwise than by virtue of section 809EZA in relation to the disguised fee.
 
 (2) This section also applies where—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
+[^c-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
 
-[^key-868dd482c80ff00dfba3e44508cb777a]: Textual amendment: Words in s. 809EZG(1)(b) inserted (with effect in accordance with s. 44(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 44(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/44/2)
+[^c-868dd482c80ff00dfba3e44508cb777a]: Textual amendment: Words in s. 809EZG(1)(b) inserted (with effect in accordance with s. 44(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 44(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/44/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104G. Employee shareholder status[^key-c8d928f3d76c2735ce7bea77b750150d]
+## 104G. Employee shareholder status[^c-c8d928f3d76c2735ce7bea77b750150d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ An employee who is dismissed is to be regarded for the purposes of this Part as 
 
 ## Annotations
 
-[^key-c8d928f3d76c2735ce7bea77b750150d]: Textual amendment: S. 104G inserted (1.9.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/4), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)
+[^c-c8d928f3d76c2735ce7bea77b750150d]: Textual amendment: S. 104G inserted (1.9.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/4), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)

@@ -29,9 +29,9 @@ Law of Commons Amendment Act 1893
 
 1893 c.57
 
-An Act to amend the Law relating to Commons.[^key-97cf2a1b7a084260846d55a86e9e0fa3]
+An Act to amend the Law relating to Commons.[^c-97cf2a1b7a084260846d55a86e9e0fa3]
 
-\[22nd September 1893\][^key-97cf2a1b7a084260846d55a86e9e0fa3]
+\[22nd September 1893\][^c-97cf2a1b7a084260846d55a86e9e0fa3]
 
 ## 1. Short title of Act.
 
@@ -51,7 +51,7 @@ Nothing in this Act shall preclude Her Majesty Her heirs and successors, or any 
 
 ## Annotations
 
-[^key-97cf2a1b7a084260846d55a86e9e0fa3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/56-57/57) repealed (E.W.) (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/3) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(j)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/j); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 3(r)](https://www.legislation.gov.uk/wsi/2007/2386/article/3/r)
+[^c-97cf2a1b7a084260846d55a86e9e0fa3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/56-57/57) repealed (E.W.) (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/3) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(j)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/j); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 3(r)](https://www.legislation.gov.uk/wsi/2007/2386/article/3/r)
 
 [^c575615]: Marginal citation: [1236 c. 4](https://www.legislation.gov.uk/aep/1236/4).
 

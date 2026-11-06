@@ -33,7 +33,7 @@ summary: ''
 
 Town And Country Planning
 
-The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (revoked)[^key-be37b3716594333413aa947f9a5a053d]
+The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (revoked)[^c-be37b3716594333413aa947f9a5a053d]
 
 Made
 
@@ -47,11 +47,11 @@ Coming into force
 
 24 August 2011
 
-[^key-be37b3716594333413aa947f9a5a053d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be37b3716594333413aa947f9a5a053d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-be37b3716594333413aa947f9a5a053d]
+### PART 1 — General[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Prohibition on granting planning permission or subsequent consent without consideration of environmental information](part-1/section-3.md)
 
-### PART 2 — Screening[^key-be37b3716594333413aa947f9a5a053d]
+### PART 2 — Screening[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -67,7 +67,7 @@ Coming into force
 - [Section 5 — Requests for screening opinions of the local planning authority](part-2/section-5.md)
 - [Section 6 — Requests for screening directions of the Secretary of State](part-2/section-6.md)
 
-### PART 3 — Procedures Concerning Applications for Planning Permission[^key-be37b3716594333413aa947f9a5a053d]
+### PART 3 — Procedures Concerning Applications for Planning Permission[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -79,7 +79,7 @@ Coming into force
 - [Section 11 — Application referred to the Secretary of State without an environmental statement](part-3/section-11.md)
 - [Section 12 — Appeal to the Secretary of State without an environmental statement](part-3/section-12.md)
 
-### PART 4 — Preparation of Environmental Statements[^key-be37b3716594333413aa947f9a5a053d]
+### PART 4 — Preparation of Environmental Statements[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -87,7 +87,7 @@ Coming into force
 - [Section 14 — Scoping directions of the Secretary of State](part-4/section-14.md)
 - [Section 15 — Procedure to facilitate preparation of environmental statements](part-4/section-15.md)
 
-### PART 5 — Publicity and Procedures on Submission of Environmental Statements[^key-be37b3716594333413aa947f9a5a053d]
+### PART 5 — Publicity and Procedures on Submission of Environmental Statements[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -99,21 +99,21 @@ Coming into force
 - [Section 21 — Charges for copies of environmental statements](part-5/section-21.md)
 - [Section 22 — Further information and evidence respecting environmental statements](part-5/section-22.md)
 
-### PART 6 — Availability of Directions etc and Notification of Decisions[^key-be37b3716594333413aa947f9a5a053d]
+### PART 6 — Availability of Directions etc and Notification of Decisions[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
 - [Section 23 — Availability of opinions, directions etc for inspection](part-6/section-23.md)
 - [Section 24 — Duties to inform the public and the Secretary of State of final decisions](part-6/section-24.md)
 
-### PART 7 — Development By a Local Planning Authority[^key-be37b3716594333413aa947f9a5a053d]
+### PART 7 — Development By a Local Planning Authority[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
 - [Section 25 — Modifications where application by a local planning authority](part-7/section-25.md)
 - [Section 26 — Screening opinions and directions](part-7/section-26.md)
 
-### PART 8 — Restrictions of Grants of Permission[^key-be37b3716594333413aa947f9a5a053d]
+### PART 8 — Restrictions of Grants of Permission[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -122,7 +122,7 @@ Coming into force
 - [Section 29 — Local development orders](part-8/section-29.md)
 - [Section 29A — Neighbourhood development orders](part-8/section-29a.md)
 
-### PART 9 — Unauthorised Development[^key-be37b3716594333413aa947f9a5a053d]
+### PART 9 — Unauthorised Development[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -139,7 +139,7 @@ Coming into force
 - [Section 40 — Public inspection of documents](part-9/section-40.md)
 - [Section 41 — Significant transboundary effects](part-9/section-41.md)
 
-### PART 10 — ROMP Applications[^key-be37b3716594333413aa947f9a5a053d]
+### PART 10 — ROMP Applications[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -155,14 +155,14 @@ Coming into force
 - [Section 51 — ROMP application by a mineral planning authority](part-10/section-51.md)
 - [Section 52 — ROMP applications: duty to make a prohibition order after two years suspension of permission](part-10/section-52.md)
 
-### PART 11 — Development with Significant Transboundary Effects[^key-be37b3716594333413aa947f9a5a053d]
+### PART 11 — Development with Significant Transboundary Effects[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
 - [Section 53 — Development in England likely to have significant effects in another EEA State](part-11/section-53.md)
 - [Section 54 — Projects in another EEA State likely to have significant transboundary effects](part-11/section-54.md)
 
-### PART 12 — Projects serving national defence purposes[^key-be37b3716594333413aa947f9a5a053d]
+### PART 12 — Projects serving national defence purposes[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -170,7 +170,7 @@ Coming into force
 - [Section 56 — Projects serving national defence purposes in Wales](part-12/section-56.md)
 - [Section 57 — Projects serving national defence purposes in Northern Ireland](part-12/section-57.md)
 
-### PART 13 — Miscellaneous[^key-be37b3716594333413aa947f9a5a053d]
+### PART 13 — Miscellaneous[^c-be37b3716594333413aa947f9a5a053d]
 
 **No longer in force.**
 
@@ -195,14 +195,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-be37b3716594333413aa947f9a5a053d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be37b3716594333413aa947f9a5a053d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-be37b3716594333413aa947f9a5a053d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be37b3716594333413aa947f9a5a053d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be37b3716594333413aa947f9a5a053d]: Textual amendment: Instrument revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [reg. 76(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/1) (with transitional provisions in [reg. 76(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/2)[(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/3))
+[^c-be37b3716594333413aa947f9a5a053d]: Textual amendment: Instrument revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [reg. 76(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/1) (with transitional provisions in [reg. 76(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/2)[(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/3))

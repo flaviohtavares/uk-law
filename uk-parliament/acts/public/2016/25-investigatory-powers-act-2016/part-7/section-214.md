@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Renewal of warrants[^key-1870aa69934f3390361b06a9cc09511c]
+## 214. Renewal of warrants[^c-1870aa69934f3390361b06a9cc09511c]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1870aa69934f3390361b06a9cc09511c]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2016/25/section/214) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
+[^c-1870aa69934f3390361b06a9cc09511c]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2016/25/section/214) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282. Proceedings for offences[^key-cb44ed26077928c711a3a0c04f5b5d92][^key-3ffcdb5b77076dfd427809a2df18f81d]
+## 282. Proceedings for offences[^c-cb44ed26077928c711a3a0c04f5b5d92][^c-3ffcdb5b77076dfd427809a2df18f81d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Proceedings for an offence under this Part (including an offence created by regu
 
 ## Annotations
 
-[^key-cb44ed26077928c711a3a0c04f5b5d92]: Commencement: S. 282 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-cb44ed26077928c711a3a0c04f5b5d92]: Commencement: S. 282 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-3ffcdb5b77076dfd427809a2df18f81d]: Commencement: [S. 282](https://www.legislation.gov.uk/ukpga/2023/52/section/282) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vi)
+[^c-3ffcdb5b77076dfd427809a2df18f81d]: Commencement: [S. 282](https://www.legislation.gov.uk/ukpga/2023/52/section/282) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vi)

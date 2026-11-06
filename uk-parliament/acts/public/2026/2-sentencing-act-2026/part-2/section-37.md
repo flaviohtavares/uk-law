@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Number of hours of work required by unpaid work requirement[^key-7b74fd048bee8e275d0dde65e6edc2e3]
+## 37. Number of hours of work required by unpaid work requirement[^c-7b74fd048bee8e275d0dde65e6edc2e3]
 
 *Extent: E+W*
 
@@ -135,4 +135,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b74fd048bee8e275d0dde65e6edc2e3]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-7b74fd048bee8e275d0dde65e6edc2e3]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)

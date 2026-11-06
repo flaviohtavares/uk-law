@@ -45,13 +45,13 @@ A draft of this instrument has been laid before the National Assembly for Wales 
 
 ## PART 1 — — GENERAL
 
-### 1. Title, commencement and application[^key-d8153e2e83da654aca7075e26b8b4843]
+### 1. Title, commencement and application[^c-d8153e2e83da654aca7075e26b8b4843]
 
 (1) The title of these Regulations is The Mental Health (Primary Care Referrals and Eligibility to Conduct Primary Mental Health Assessments) (Wales) Regulations 2012 and they come into force on 1 October 2012.
 
 (2) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-d84312b0157eefc02c76d85ab3b115bf]
+### 2. Interpretation[^c-d84312b0157eefc02c76d85ab3b115bf]
 
 In these Regulations—
 
@@ -75,7 +75,7 @@ In these Regulations—
 
 ## PART 2 — — PRIMARY CARE REFERRALS
 
-### 3. Persons whom a primary care provider may refer to local primary mental health support services[^key-32b67292c60881b4a5e5d6657bd7ed62]
+### 3. Persons whom a primary care provider may refer to local primary mental health support services[^c-32b67292c60881b4a5e5d6657bd7ed62]
 
 (1) Subject to section 8(1) of the Measure[^f00005], a primary care provider may refer any person—
 
@@ -88,7 +88,7 @@ for a primary mental health assessment.
 
 ## PART 3 — — ELIGIBILITY REQUIREMENTS FOR PERSONS WHO MAY CONDUCT PRIMARY MENTAL HEALTH ASSESSMENTS
 
-### 4. Eligibility requirements for persons who may conduct primary mental health assessments[^key-892df2fd81d0f93e948d74101bc4a0ec]
+### 4. Eligibility requirements for persons who may conduct primary mental health assessments[^c-892df2fd81d0f93e948d74101bc4a0ec]
 
 (1) A person is eligible to perform the functions of a local mental health partner to carry out a primary mental health assessment if that person—
 
@@ -107,12 +107,12 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 Regulation 4(1)(a)
 
-**1.**[^key-d589aec163f7a23000c0465abbdc5a76] The professional requirements are that a person must be—
+**1.**[^c-d589aec163f7a23000c0465abbdc5a76] The professional requirements are that a person must be—
 
-- (a) a qualified social worker registered with Social Care Wales[^key-56653395a5231928048720cf28590b0d] or in[^key-ce3e1bfff826a5c0c447ed9154f3b01c] Part 16 of the register maintained under article 5 of the Health and Social Work Professions Order 2001 *(affected by repeal, see note)*[^key-70400dc40b5bce38fd52b8b8c3078e74] the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017;
+- (a) a qualified social worker registered with Social Care Wales[^c-56653395a5231928048720cf28590b0d] or in[^c-ce3e1bfff826a5c0c447ed9154f3b01c] Part 16 of the register maintained under article 5 of the Health and Social Work Professions Order 2001 *(affected by repeal, see note)*[^c-70400dc40b5bce38fd52b8b8c3078e74] the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017;
 - (b) a first or second level nurse, registered in Sub-Part 1 or Sub-Part 2 of the Register maintained under article 5 of the Nursing and Midwifery Order 2001[^f00006], with the inclusion of an entry indicating that his or her field of practice is mental health or learning disabilities nursing;
-- (c) an occupational therapist who is registered in Part 6 of the Register maintained under article 5 of the Health Professions Order 2001[^key-d241b200283500305480995883f05517];
-- (d) a practitioner psychologist who is registered in Part 14 of the Register maintained under article 5 of the Health Professions Order 2001[^key-51c43dce4208d923e2594bbb14540e41]; or
+- (c) an occupational therapist who is registered in Part 6 of the Register maintained under article 5 of the Health Professions Order 2001[^c-d241b200283500305480995883f05517];
+- (d) a practitioner psychologist who is registered in Part 14 of the Register maintained under article 5 of the Health Professions Order 2001[^c-51c43dce4208d923e2594bbb14540e41]; or
 - (e) a registered medical practitioner.
 
 (This note is not part of the Regulations)
@@ -139,9 +139,9 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^f00001]: Footnote: [2010 nawm 7](https://www.legislation.gov.uk/mwa/2010/7).
 
-[^key-d8153e2e83da654aca7075e26b8b4843]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
+[^c-d8153e2e83da654aca7075e26b8b4843]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
 
-[^key-d84312b0157eefc02c76d85ab3b115bf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2012/1305/regulation/2) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
+[^c-d84312b0157eefc02c76d85ab3b115bf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2012/1305/regulation/2) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
 
 [^f00002]: Footnote: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53).
 
@@ -149,22 +149,22 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^f00004]: Footnote: [2010 nawm 7](https://www.legislation.gov.uk/mwa/2010/7).
 
-[^key-32b67292c60881b4a5e5d6657bd7ed62]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2012/1305/regulation/3) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
+[^c-32b67292c60881b4a5e5d6657bd7ed62]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2012/1305/regulation/3) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
 
 [^f00005]: Footnote: In accordance with section 7(1)(a) a primary care provider may not refer an individual who falls within any of the descriptions in section 8(1) of the Measure. Section 8(1) applies to individuals who are liable to be detained under the Mental Health Act 1983; an individual who is subject to guardianship under that Act; an individual who is a community patient within the meaning of that Act and an individual who is receiving secondary mental health services.
 
-[^key-892df2fd81d0f93e948d74101bc4a0ec]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2012/1305/regulation/4) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
+[^c-892df2fd81d0f93e948d74101bc4a0ec]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2012/1305/regulation/4) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
 
-[^key-d589aec163f7a23000c0465abbdc5a76]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
+[^c-d589aec163f7a23000c0465abbdc5a76]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1) in force at 1.10.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2012/1305/regulation/1/1)
 
-[^key-56653395a5231928048720cf28590b0d]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/a) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 27(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/27/2)
+[^c-56653395a5231928048720cf28590b0d]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/a) substituted (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/wsi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/52/regulation/1/2), [Sch. 1 para. 27(2)](https://www.legislation.gov.uk/wsi/2017/52/schedule/1/paragraph/27/2)
 
-[^key-ce3e1bfff826a5c0c447ed9154f3b01c]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/a) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [Sch. para. 95(1)](https://www.legislation.gov.uk/uksi/2012/1479/schedule/paragraph/95/1)
+[^c-ce3e1bfff826a5c0c447ed9154f3b01c]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/a) substituted (1.8.2012) by [The Health and Social Care Act 2012 (Consequential Provision—Social Workers) Order 2012 (S.I. 2012/1479)](https://www.legislation.gov.uk/uksi/2012/1479), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2), [Sch. para. 95(1)](https://www.legislation.gov.uk/uksi/2012/1479/schedule/paragraph/95/1)
 
-[^key-70400dc40b5bce38fd52b8b8c3078e74]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/a) substituted (2.12.2019) by virtue of [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 29(2)(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/29/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-70400dc40b5bce38fd52b8b8c3078e74]: Textual amendment: Words in [Sch. para. 1(a)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/a) substituted (2.12.2019) by virtue of [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 29(2)(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/29/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^f00006]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253).
 
-[^key-d241b200283500305480995883f05517]: Textual amendment: Words in [Sch. para. 1(c)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/c) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/29/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-d241b200283500305480995883f05517]: Textual amendment: Words in [Sch. para. 1(c)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/c) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/29/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-51c43dce4208d923e2594bbb14540e41]: Textual amendment: Words in [Sch. para. 1(d)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/d) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/29/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-51c43dce4208d923e2594bbb14540e41]: Textual amendment: Words in [Sch. para. 1(d)](https://www.legislation.gov.uk/wsi/2012/1305/schedule/paragraph/1/d) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/29/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)

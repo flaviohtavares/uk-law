@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Periodic reports on exercise of power to make regulations under section 1[^key-ba999f897151e8caf7dc25138c316361]
+## 32. Periodic reports on exercise of power to make regulations under section 1[^c-ba999f897151e8caf7dc25138c316361]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba999f897151e8caf7dc25138c316361]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/2018/13/section/32) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 63(1)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/63/1/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-ba999f897151e8caf7dc25138c316361]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/2018/13/section/32) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 63(1)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/63/1/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

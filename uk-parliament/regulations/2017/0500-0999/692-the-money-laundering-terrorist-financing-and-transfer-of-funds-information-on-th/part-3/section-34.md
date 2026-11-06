@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A credit institution or financial institution (the “correspondent”) which has or proposes to have a correspondent relationship involving the execution of payments[^key-769726b190d32265baf8acbfc2cce38a] with another such institution (the “respondent”) from a third country must, in addition to the measures required by regulation 33—
+(1) A credit institution or financial institution (the “correspondent”) which has or proposes to have a correspondent relationship involving the execution of payments[^c-769726b190d32265baf8acbfc2cce38a] with another such institution (the “respondent”) from a third country must, in addition to the measures required by regulation 33—
 
 - (a) gather sufficient information about the respondent to understand fully the nature of its business;
 - (b) determine from publicly-available information from credible sources the reputation of the respondent and the quality of the supervision to which the respondent is subject;
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-769726b190d32265baf8acbfc2cce38a]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/34/1) inserted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/6/2)
+[^c-769726b190d32265baf8acbfc2cce38a]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/34/1) inserted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/6/2)
 
 [^c23048201]: Marginal citation: [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), amended by [S.I. 2016/340](https://www.legislation.gov.uk/uksi/2016/340).

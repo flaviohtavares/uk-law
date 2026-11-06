@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Sanctions of discretionary length[^key-43563deb73eb614bd3944cab32690162]
+## 70. Sanctions of discretionary length[^c-43563deb73eb614bd3944cab32690162]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ In determining a period under Article 21(3) of the Order (circumstances in which
 
 ## Annotations
 
-[^key-43563deb73eb614bd3944cab32690162]: Commencement: Reg. 70 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-43563deb73eb614bd3944cab32690162]: Commencement: Reg. 70 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

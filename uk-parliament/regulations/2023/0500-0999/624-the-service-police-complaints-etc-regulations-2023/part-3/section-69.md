@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Recommendations by the Commissioner[^key-287e5935e4efa44777c302d7f663aeb6]
+## 69. Recommendations by the Commissioner[^c-287e5935e4efa44777c302d7f663aeb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ a recommendation made under paragraph (3) may not be a recommendation of a kind 
 
 ## Annotations
 
-[^key-287e5935e4efa44777c302d7f663aeb6]: Commencement: Reg. 69 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-287e5935e4efa44777c302d7f663aeb6]: Commencement: Reg. 69 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

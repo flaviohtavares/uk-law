@@ -30,7 +30,7 @@ Exiting The European Union
 
 Transport
 
-The Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/eur/2007/1370) (Public Service Obligations in Transport) (Amendment) (EU Exit) (Northern Ireland) Regulations 2020 (revoked)[^key-62cf508a92348feefa4aaef74bb5215c]
+The Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/eur/2007/1370) (Public Service Obligations in Transport) (Amendment) (EU Exit) (Northern Ireland) Regulations 2020 (revoked)[^c-62cf508a92348feefa4aaef74bb5215c]
 
 Made
 
@@ -40,53 +40,53 @@ Coming into operation
 
 11.00 p.m. on 31st December 2020
 
-[^key-62cf508a92348feefa4aaef74bb5215c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62cf508a92348feefa4aaef74bb5215c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-62cf508a92348feefa4aaef74bb5215c]
+## 1. Citation and commencement[^c-62cf508a92348feefa4aaef74bb5215c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/eur/2007/1370)[^key-62cf508a92348feefa4aaef74bb5215c]
+## 2. Amendment of Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/eur/2007/1370)[^c-62cf508a92348feefa4aaef74bb5215c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-62cf508a92348feefa4aaef74bb5215c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Transitional provision[^key-62cf508a92348feefa4aaef74bb5215c]
+## 16. Transitional provision[^c-62cf508a92348feefa4aaef74bb5215c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-62cf508a92348feefa4aaef74bb5215c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-62cf508a92348feefa4aaef74bb5215c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-62cf508a92348feefa4aaef74bb5215c]EXPLANATORY NOTE
+[^c-62cf508a92348feefa4aaef74bb5215c]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -102,4 +102,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 ## Annotations
 
-[^key-62cf508a92348feefa4aaef74bb5215c]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Regulation (EC) No 1370/2007 (Public Service Obligations in Transport) (Amendment) (EU Exit) (Northern Ireland) (Revocation) Regulations 2020 (S.R. 2020/338)](https://www.legislation.gov.uk/nisr/2020/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/338/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2020/338/regulation/2)
+[^c-62cf508a92348feefa4aaef74bb5215c]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Regulation (EC) No 1370/2007 (Public Service Obligations in Transport) (Amendment) (EU Exit) (Northern Ireland) (Revocation) Regulations 2020 (S.R. 2020/338)](https://www.legislation.gov.uk/nisr/2020/338), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/338/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2020/338/regulation/2)

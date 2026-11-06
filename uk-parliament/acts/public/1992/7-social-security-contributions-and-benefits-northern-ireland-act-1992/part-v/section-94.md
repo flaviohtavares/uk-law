@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Industrial injuries benefit shall be payable where an employed earner suffers personal injury caused [^key-f7f1302b81319e229eb98d9aeb353452]... by accident arising out of and in the course of his employment, being employed earner’s employment.
+(1) Industrial injuries benefit shall be payable where an employed earner suffers personal injury caused [^c-f7f1302b81319e229eb98d9aeb353452]... by accident arising out of and in the course of his employment, being employed earner’s employment.
 
 (2) Industrial injuries benefit consists of the following benefits—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7f1302b81319e229eb98d9aeb353452]: Textual amendment: Words in [s. 94(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/94/1) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/a); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
+[^c-f7f1302b81319e229eb98d9aeb353452]: Textual amendment: Words in [s. 94(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/94/1) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [70(1)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/70/1/a); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/a)
 
 [^c16390091]: Modification: [S. 94(2)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/94/2/a) applied (1.7.1992) by [Social Security Administration (Northern Ireland) Act 1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8), [ss. 167(1)](https://www.legislation.gov.uk/ukpga/1992/8/section/167/1).

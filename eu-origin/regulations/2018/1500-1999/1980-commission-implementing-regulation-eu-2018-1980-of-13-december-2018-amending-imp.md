@@ -35,22 +35,22 @@ amending Implementing Regulation (EU) 2017/2325 as regards the terms of authoris
 
 (Text with EEA relevance) (revoked)
 
-[^key-973eb7e3fd401a0e14969b79336f86bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-973eb7e3fd401a0e14969b79336f86bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-973eb7e3fd401a0e14969b79336f86bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-973eb7e3fd401a0e14969b79336f86bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Transitional measures[^key-973eb7e3fd401a0e14969b79336f86bd]
+## Article 2. Transitional measures[^c-973eb7e3fd401a0e14969b79336f86bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-973eb7e3fd401a0e14969b79336f86bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-973eb7e3fd401a0e14969b79336f86bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-973eb7e3fd401a0e14969b79336f86bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-973eb7e3fd401a0e14969b79336f86bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-973eb7e3fd401a0e14969b79336f86bd]
+## ANNEX[^c-973eb7e3fd401a0e14969b79336f86bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-973eb7e3fd401a0e14969b79336f86bd]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 40](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/40)
+[^c-973eb7e3fd401a0e14969b79336f86bd]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 40](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/40)

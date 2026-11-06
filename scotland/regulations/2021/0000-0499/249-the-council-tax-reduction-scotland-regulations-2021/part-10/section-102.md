@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Consequential amendments[^key-25359197f3286f5955ed83fffb06ff70]
+## 102. Consequential amendments[^c-25359197f3286f5955ed83fffb06ff70]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The amendments in schedule 5 have effect.
 
 ## Annotations
 
-[^key-25359197f3286f5955ed83fffb06ff70]: Commencement: [Reg. 102](https://www.legislation.gov.uk/ssi/2021/249/regulation/102) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-25359197f3286f5955ed83fffb06ff70]: Commencement: [Reg. 102](https://www.legislation.gov.uk/ssi/2021/249/regulation/102) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

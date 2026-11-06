@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 401. Limitation on power to make administration order[^key-7895947ac1cf6e742e4d3c07dc354c7e]
+## 401. Limitation on power to make administration order[^c-7895947ac1cf6e742e4d3c07dc354c7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ For Article 21(4) of the Insolvency (Northern Ireland) Order 1989 (restrictions 
 
 ## Annotations
 
-[^key-7895947ac1cf6e742e4d3c07dc354c7e]: Commencement: Art. 401 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7895947ac1cf6e742e4d3c07dc354c7e]: Commencement: Art. 401 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

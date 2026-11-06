@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Ministerial power to make cross-market references[^key-d62b12ccb76a90a298b3a7cd6a889a8b]
+## 34. Ministerial power to make cross-market references[^c-d62b12ccb76a90a298b3a7cd6a889a8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d62b12ccb76a90a298b3a7cd6a889a8b]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2013/24/section/34) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-d62b12ccb76a90a298b3a7cd6a889a8b]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2013/24/section/34) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

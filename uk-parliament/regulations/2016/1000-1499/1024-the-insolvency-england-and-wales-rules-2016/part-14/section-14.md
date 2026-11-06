@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.1.[^key-342b81fac3d86118a5351230f7749872][^key-fefba9ff7fc56ab4ec7bdf13b0624dae]
+## 14.1.[^c-342b81fac3d86118a5351230f7749872][^c-fefba9ff7fc56ab4ec7bdf13b0624dae]
 
 *Extent: E+W*
 
-(1) This Part applies to decision procedures in respect of a moratorium under Part A1 of the Act,[^key-a03f60bf381ffc53d3d2d3a68f883719] administration, winding up and bankruptcy proceedings.
+(1) This Part applies to decision procedures in respect of a moratorium under Part A1 of the Act,[^c-a03f60bf381ffc53d3d2d3a68f883719] administration, winding up and bankruptcy proceedings.
 
-(2) The definitions in this rule apply to decision procedures in respect of a moratorium under Part A1 of the Act,[^key-e7052280d1f3d89b252af563e059b9de] administration, winding up and bankruptcy proceedings except as otherwise stated.
+(2) The definitions in this rule apply to decision procedures in respect of a moratorium under Part A1 of the Act,[^c-e7052280d1f3d89b252af563e059b9de] administration, winding up and bankruptcy proceedings except as otherwise stated.
 
-(3) “**Debt**”, in relation to decision procedures in respect of a moratorium under Part A1 of the Act,[^key-8238d3365b42b4c9e6d38136efd4d836] winding up and administration, means (subject to the next paragraph) any of the following—
+(3) “**Debt**”, in relation to decision procedures in respect of a moratorium under Part A1 of the Act,[^c-8238d3365b42b4c9e6d38136efd4d836] winding up and administration, means (subject to the next paragraph) any of the following—
 
 - (a) any debt or liability to which the company is subject at the relevant date;
 - (b) any debt or liability to which the company may become subject after the relevant date by reason of any obligation incurred before that date;
@@ -34,25 +34,25 @@ summary: ''
 - “**dividend**”, in relation to a members' voluntary winding up, includes a distribution;
 - “**provable debt**” has the meaning given in rule 14.2; and
 - “**relevant date**” means—
-  - (za) in the case of decision procedures in respect of a moratorium under Part A1 of the Act, the date of the decision procedure;[^key-97ee9f54edfc0973fe5d519df5c94d55]
+  - (za) in the case of decision procedures in respect of a moratorium under Part A1 of the Act, the date of the decision procedure;[^c-97ee9f54edfc0973fe5d519df5c94d55]
   - (a) in the case of an administration which was not immediately preceded by a winding up, the date on which the company entered administration,
   - (b) in the case of an administration which was immediately preceded by a winding up, the date on which the company went into liquidation,
   - (c) in the case of a winding up which was not immediately preceded by an administration, the date on which the company went into liquidation,
   - (d) in the case of a winding up which was immediately preceded by an administration, the date on which the company entered administration, and
   - (e) in the case of a bankruptcy, the date of the bankruptcy order.
 
-(3A)[^key-c6331eac4517d9f22e56038bfa147e83] For the purpose of decision procedures in respect of a moratorium under Part A1 of the Act references in this Part to an “office-holder” are treated as references to the “convener”.
+(3A)[^c-c6331eac4517d9f22e56038bfa147e83] For the purpose of decision procedures in respect of a moratorium under Part A1 of the Act references in this Part to an “office-holder” are treated as references to the “convener”.
 
-(4) For the purposes of any provision of the Act or these Rules about moratoriums under Part A1 of the Act,[^key-c7caa4a0c978a202becdfb374e2af616] winding up or administration, any liability in tort is a debt provable in the moratorium[^key-a206a4c35ae543358efefb2e3d535b78] the winding up or administration, if either—
+(4) For the purposes of any provision of the Act or these Rules about moratoriums under Part A1 of the Act,[^c-c7caa4a0c978a202becdfb374e2af616] winding up or administration, any liability in tort is a debt provable in the moratorium[^c-a206a4c35ae543358efefb2e3d535b78] the winding up or administration, if either—
 
 - (a) the cause of action has accrued at the relevant date; or
 - (b) all the elements necessary to establish the cause of action exist at that date except for actionable damage.
 
-(5) For the purposes of references in any provision of the Act or these Rules about moratoriums under Part A1 of the Act[^key-af04bfd8db773e8c8de61ac7c591c9a8] winding up or administration to a debt or liability, it is immaterial whether the debt or liability is present or future, whether it is certain or contingent, or whether its amount is fixed or liquidated, or is capable of being ascertained by fixed rules or as a matter of opinion; and references in any such provision to owing a debt are to be read accordingly.
+(5) For the purposes of references in any provision of the Act or these Rules about moratoriums under Part A1 of the Act[^c-af04bfd8db773e8c8de61ac7c591c9a8] winding up or administration to a debt or liability, it is immaterial whether the debt or liability is present or future, whether it is certain or contingent, or whether its amount is fixed or liquidated, or is capable of being ascertained by fixed rules or as a matter of opinion; and references in any such provision to owing a debt are to be read accordingly.
 
-(6) In any provision of the Act or these Rules about moratoriums under Part A1 of the Act[^key-61e4e0b3e76e508150d304124e762c9b] winding up or administration, except in so far as the context otherwise requires, “**liability**” means (subject to paragraph (5)[^key-26c2a41833463292028483da9ed0375a]) a liability to pay money or money's worth, including any liability under an enactment, a liability for breach of trust, any liability in contract, tort or bailment, and any liability arising out of an obligation to make restitution.
+(6) In any provision of the Act or these Rules about moratoriums under Part A1 of the Act[^c-61e4e0b3e76e508150d304124e762c9b] winding up or administration, except in so far as the context otherwise requires, “**liability**” means (subject to paragraph (5)[^c-26c2a41833463292028483da9ed0375a]) a liability to pay money or money's worth, including any liability under an enactment, a liability for breach of trust, any liability in contract, tort or bailment, and any liability arising out of an obligation to make restitution.
 
-## 14.2. Provable debts[^key-342b81fac3d86118a5351230f7749872]
+## 14.2. Provable debts[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 (5) Nothing in this rule prejudices any enactment or rule of law under which a particular kind of debt is not provable, whether on grounds of public policy or otherwise.
 
-## 14.3. Proving a debt[^key-342b81fac3d86118a5351230f7749872]
+## 14.3. Proving a debt[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -100,7 +100,7 @@ summary: ''
 - (b) a notice has been delivered to the creditor of intention to declare a dividend or make a distribution under rule 14.29 which complies with rule 14.31 (further contents of notice to creditors owed small debts); and
 - (c) the creditor has not advised the office-holder that the debt is incorrect or not owed in response to the notice.
 
-## 14.4. Requirements for proof[^key-342b81fac3d86118a5351230f7749872]
+## 14.4. Requirements for proof[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -122,7 +122,7 @@ summary: ''
 
 (3) The office-holder may call for the creditor to produce any document or other evidence which the office-holder considers is necessary to substantiate the whole or any part of a claim.
 
-## 14.5. Costs of proving[^key-342b81fac3d86118a5351230f7749872]
+## 14.5. Costs of proving[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -132,7 +132,7 @@ Unless the court orders otherwise—
 - (b) in an administration or winding up, costs incurred by the office-holder in estimating the value of a debt under rule 14.14 are payable out of the assets as an expense of the administration or winding up; and
 - (c) in a bankruptcy, costs incurred by the office-holder in estimating the value of a debt under section 322(3) fall on the bankrupt's estate as an expense of the bankruptcy.
 
-## 14.6. Allowing inspection of proofs[^key-342b81fac3d86118a5351230f7749872]
+## 14.6. Allowing inspection of proofs[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -142,7 +142,7 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 - (b) a member or contributory of the company or, in the case of a bankruptcy, the bankrupt; and
 - (c) a person acting on behalf of any of the above.
 
-## 14.7. Admission and rejection of proofs for dividend[^key-342b81fac3d86118a5351230f7749872]
+## 14.7. Admission and rejection of proofs for dividend[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -150,7 +150,7 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 
 (2) If the office-holder rejects a proof in whole or in part, the office-holder must deliver to the creditor a statement of the office-holder's reasons for doing so, as soon as reasonably practicable.
 
-## 14.8. Appeal against decision on proof[^key-342b81fac3d86118a5351230f7749872]
+## 14.8. Appeal against decision on proof[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -168,7 +168,7 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 
 (7) After the application has been heard and determined, a proof which was submitted by the creditor in hard copy form must be returned by the court to the office-holder.
 
-## 14.9. Office-holder not liable for costs under rule 14.8[^key-342b81fac3d86118a5351230f7749872]
+## 14.9. Office-holder not liable for costs under rule 14.8[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -176,7 +176,7 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 
 (2) An office-holder other than the official receiver is not personally liable for costs incurred by any person in respect of an application under rule 14.8 unless the court orders otherwise.
 
-## 14.10. Withdrawal or variation of proof[^key-342b81fac3d86118a5351230f7749872]
+## 14.10. Withdrawal or variation of proof[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -184,7 +184,7 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 
 (2) The amount claimed by a creditor's proof may be varied at any time by agreement between the creditor and the office-holder.
 
-## 14.11. Exclusion of proof by the court[^key-342b81fac3d86118a5351230f7749872]
+## 14.11. Exclusion of proof by the court[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -200,7 +200,7 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 - (a) in the case of an application by the office-holder, to the creditor who submitted the proof; and
 - (b) in the case of an application by a creditor, a member, a contributory or a bankrupt, to the office-holder and to the creditor who made the proof (if not the applicant).
 
-## 14.12.[^key-50b38e05d6ac6823ec32d7f6093d6888][^key-342b81fac3d86118a5351230f7749872]
+## 14.12.[^c-50b38e05d6ac6823ec32d7f6093d6888][^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -208,7 +208,7 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 
 (2) Debts other than preferential debts rank equally between themselves and, after the preferential debts, must be paid in full unless the assets are insufficient for meeting them, in which case they abate in equal proportions between themselves.
 
-## 14.13.[^key-342b81fac3d86118a5351230f7749872]
+## 14.13.[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -221,11 +221,11 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 - (a) the permission of the creditors' committee in an administration or, if there is no creditors' committee, the creditors; and
 - (b) the permission of the liquidation committee in a winding up, or, if there is no liquidation committee, the creditors (without prejudice to provisions of the Act about disclaimer).
 
-## 14.14. Moratorium, administration and winding up: estimate of value of debt[^key-342b81fac3d86118a5351230f7749872][^key-7a0f27f08028c8ba666626cff043f0e3]
+## 14.14. Moratorium, administration and winding up: estimate of value of debt[^c-342b81fac3d86118a5351230f7749872][^c-7a0f27f08028c8ba666626cff043f0e3]
 
 *Extent: E+W*
 
-(1) In the case of a decision procedure in respect of a moratorium under Part A1 of the Act,[^key-28167f56721870901dd9adaf75a2b172] an administration or in a winding up, the office-holder must estimate the value of a debt that does not have a certain value because it is subject to a contingency or for any other reason.
+(1) In the case of a decision procedure in respect of a moratorium under Part A1 of the Act,[^c-28167f56721870901dd9adaf75a2b172] an administration or in a winding up, the office-holder must estimate the value of a debt that does not have a certain value because it is subject to a contingency or for any other reason.
 
 (2) The office-holder may revise such an estimate by reference to a change of circumstances or to information becoming available to the office-holder.
 
@@ -233,7 +233,7 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 
 (4) Where the value of a debt is estimated under this rule or by the court under section 168(3) or (5), the amount provable in the case of that debt is that of the estimate for the time being.
 
-## 14.15. Secured creditor: value of security[^key-342b81fac3d86118a5351230f7749872]
+## 14.15. Secured creditor: value of security[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -250,23 +250,23 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 - (a) the secured creditor may re-value the security only with the agreement of the office-holder or the permission of the court; and
 - (b) where the revaluation was by agreement, the office-holder must deliver a notice of the revaluation to the creditors within five business days after the office-holder's agreement.
 
-## 14.16. Secured creditor: surrender for non-disclosure[^key-342b81fac3d86118a5351230f7749872]
+## 14.16. Secured creditor: surrender for non-disclosure[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
-(A1)[^key-cdc9666ef9ce376730397853f6429878] This rule does not apply where a proof is submitted for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act.
+(A1)[^c-cdc9666ef9ce376730397853f6429878] This rule does not apply where a proof is submitted for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act.
 
 (1) If a secured creditor fails to disclose a security in a proof, the secured creditor must surrender that security for the general benefit of creditors, unless the court, on application by the secured creditor, relieves the secured creditor from the effect of this rule on the grounds that the omission was inadvertent or the result of honest mistake.
 
 (2) If the court grants that relief, it may require or allow the creditor's proof to be amended, on such terms as may be just.
 
-(3)[^key-3cb8a8c3da83f92e47d4afa390c64669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3cb8a8c3da83f92e47d4afa390c64669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.17. Secured creditor: redemption by office-holder[^key-342b81fac3d86118a5351230f7749872]
+## 14.17. Secured creditor: redemption by office-holder[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
-(A1)[^key-50b07cb814ff9ba6f0e857f31b9ada00] This rule does not apply where a proof is submitted for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act.
+(A1)[^c-50b07cb814ff9ba6f0e857f31b9ada00] This rule does not apply where a proof is submitted for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act.
 
 (1) The office-holder may at any time deliver a notice to a creditor whose debt is secured that the office-holder proposes, at the expiration of 28 days from the date of the notice, to redeem the security at the value put upon it in the creditor's proof.
 
@@ -280,11 +280,11 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 
 (6) The office-holder then has three months in which to redeem the security or elect not to redeem the security.
 
-## 14.18. Secured creditor: test of security's value[^key-342b81fac3d86118a5351230f7749872]
+## 14.18. Secured creditor: test of security's value[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
-(A1)[^key-c1d2cad4dd6b7825acc4897750bddba5] This rule does not apply where a proof is submitted for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act.
+(A1)[^c-c1d2cad4dd6b7825acc4897750bddba5] This rule does not apply where a proof is submitted for the purpose of a decision procedure in respect of a moratorium under Part A1 of the Act.
 
 (1) If the office-holder is dissatisfied with the value which a secured creditor puts on a security in the creditor's proof the office-holder may require any property comprised in the security to be offered for sale.
 
@@ -294,7 +294,7 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 
 (4) This rule does not apply if the value of the security has been altered with the court's permission.
 
-## 14.19. Realisation or surrender of security by creditor[^key-342b81fac3d86118a5351230f7749872]
+## 14.19. Realisation or surrender of security by creditor[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -305,13 +305,13 @@ The office-holder must, so long as proofs delivered to the office-holder are in 
 
 (2) A creditor who voluntarily surrenders a security may prove for the whole of the creditor's debt as if it were unsecured.
 
-## 14.20. Discounts[^key-342b81fac3d86118a5351230f7749872]
+## 14.20. Discounts[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
 All trade and other discounts (except a discount for immediate or early settlement) which would have been available to the company or the debtor but for the insolvency proceedings must be deducted from the claim.
 
-## 14.21. Debts in foreign currency[^key-11adae1f70c9fbc3ffac2366726ec69e][^key-342b81fac3d86118a5351230f7749872]
+## 14.21. Debts in foreign currency[^c-11adae1f70c9fbc3ffac2366726ec69e][^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -327,7 +327,7 @@ All trade and other discounts (except a discount for immediate or early settleme
 
 (6) This rule does not apply to the conversion of foreign currency debts in an application for a debt relief order.
 
-## 14.22. Payments of a periodical nature[^key-342b81fac3d86118a5351230f7749872]
+## 14.22. Payments of a periodical nature[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -335,7 +335,7 @@ All trade and other discounts (except a discount for immediate or early settleme
 
 (2) Where at that date any payment was accruing due, the creditor may prove for so much as would have been due at that date, if accruing from day to day.
 
-## 14.23.[^key-342b81fac3d86118a5351230f7749872]
+## 14.23.[^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -347,7 +347,7 @@ All trade and other discounts (except a discount for immediate or early settleme
 
 (4) If the debt is due otherwise, interest may only be claimed if demand for payment of the debt was made in writing by or on behalf of the creditor, and notice was delivered that interest would be payable from the date of the demand to the date of the payment, before—
 
-- (a) the relevant date, in respect of a decision procedure in respect of a moratorium under Part A1 of the Act,[^key-662ce3c5f82931f4363e39e139ecff02] administration or winding up; or
+- (a) the relevant date, in respect of a decision procedure in respect of a moratorium under Part A1 of the Act,[^c-662ce3c5f82931f4363e39e139ecff02] administration or winding up; or
 - (b) the presentation of the bankruptcy petition or the bankruptcy application.
 
 (5) Interest under paragraph (4) may only be claimed for the period from the date of the demand to the relevant date and, for the purposes of the Act and these Rules, must be charged at a rate not exceeding that mentioned in paragraph (6).
@@ -360,7 +360,7 @@ All trade and other discounts (except a discount for immediate or early settleme
 - (b) all interest payable under sub-paragraph (a) ranks equally whether or not the debts on which it is payable rank equally; and
 - (c) the rate of interest payable under sub-paragraph (a) is whichever is the greater of the rate specified under paragraph (6) and the rate applicable to the debt apart from the administration.
 
-## 14.24. Administration: mutual dealings and set-off[^key-8142754b674f4783c21a846771aa71a5][^key-342b81fac3d86118a5351230f7749872]
+## 14.24. Administration: mutual dealings and set-off[^c-8142754b674f4783c21a846771aa71a5][^c-342b81fac3d86118a5351230f7749872]
 
 *Extent: E+W*
 
@@ -374,7 +374,7 @@ All trade and other discounts (except a discount for immediate or early settleme
 
 (5) However if all or part of the balance owed to the company results from a contingent or prospective debt owed by the creditor then the balance (or that part of it which results from the contingent or prospective debt) must be paid in full (without being discounted under rule 14.44) if and when that debt becomes due and payable.
 
-(6)[^key-8cad112abce694b3f80b0f8ce93192a2] In this rule—
+(6)[^c-8cad112abce694b3f80b0f8ce93192a2] In this rule—
 
 - “**obligation**” means an obligation however arising, whether by virtue of an agreement, rule of law or otherwise; and
 - “**mutual dealings**” means mutual credits, mutual debts or other mutual dealings between the company and a creditor proving or claiming to prove for a debt in the administration but does not include any of the following—
@@ -408,7 +408,7 @@ All trade and other discounts (except a discount for immediate or early settleme
   - (iii) bear interest; and
 - (c) rule 14.44 applies to a sum due to or from the company which is payable in the future.
 
-## 14.25. Winding up: mutual dealings and set-off[^key-4a62aa50c8204b332dd1d71b1205a458]
+## 14.25. Winding up: mutual dealings and set-off[^c-4a62aa50c8204b332dd1d71b1205a458]
 
 *Extent: E+W*
 
@@ -422,7 +422,7 @@ All trade and other discounts (except a discount for immediate or early settleme
 
 (5) However if all or part of the balance owed to the company results from a contingent or prospective debt owed by the creditor then the balance (or that part of it which results from the contingent or prospective debt) must be paid in full (without being discounted under rule 14.44) if and when that debt becomes due and payable.
 
-(6)[^key-f4e0ccd8555191d941cd6e5356ed4676] In this rule—
+(6)[^c-f4e0ccd8555191d941cd6e5356ed4676] In this rule—
 
 - “**obligation**” means an obligation however arising, whether by virtue of an agreement, rule of law or otherwise; and
 - “**mutual dealings**” means mutual credits, mutual debts or other mutual dealings between the company and a creditor proving or claiming to prove for a debt in the winding up but does not include any of the following—
@@ -455,7 +455,7 @@ All trade and other discounts (except a discount for immediate or early settleme
   - (iii) bear interest; and
 - (c) rule 14.44 applies to a sum due to or from the company which is payable in the future.
 
-## 14.26. Application of Chapter to a particular class of creditors and to distributions[^key-06f151eeb650d67994cac5444fa2ef91]
+## 14.26. Application of Chapter to a particular class of creditors and to distributions[^c-06f151eeb650d67994cac5444fa2ef91]
 
 *Extent: E+W*
 
@@ -469,7 +469,7 @@ All trade and other discounts (except a discount for immediate or early settleme
 
 Whenever a liquidator in a creditors' voluntary winding up or a winding up by the court has sufficient funds in hand for the purpose the liquidator must, while retaining such sums as may be necessary for the expenses of the winding up, declare and distribute dividends among the creditors in respect of the debts which they have proved.
 
-## 14.28. Gazette notice of intended first dividend or distribution[^key-57d878f323aea77c6cb83618c1048a94]
+## 14.28. Gazette notice of intended first dividend or distribution[^c-57d878f323aea77c6cb83618c1048a94]
 
 *Extent: E+W*
 
@@ -479,13 +479,13 @@ Whenever a liquidator in a creditors' voluntary winding up or a winding up by th
 - (b) the date by which and place to which proofs must be delivered; and
 - (c) in the case of a members' voluntary winding up, where the dividend or distribution is to be a sole or final distribution, a statement that the distribution may be made without regard to the claim of any person in respect of a debt not proved.
 
-(2) Where the intended dividend is only to preferential creditors or creditors in respect of a debt which is a moratorium debt or priority pre-moratorium debt within the meaning given by section 174A[^key-df76f139b89b16778f1cfbbd7f4f811d] the office-holder need only gazette a notice if the office-holder thinks fit.
+(2) Where the intended dividend is only to preferential creditors or creditors in respect of a debt which is a moratorium debt or priority pre-moratorium debt within the meaning given by section 174A[^c-df76f139b89b16778f1cfbbd7f4f811d] the office-holder need only gazette a notice if the office-holder thinks fit.
 
 (3) The office-holder may in addition advertise such a notice in such other manner (if any) as the office-holder thinks fit.
 
 (4) Paragraph (1) does not apply where the office-holder has previously, by a notice which has been gazetted, invited creditors to prove their debts.
 
-## 14.29. Individual notices to creditors etc. of intended dividend or distribution[^key-57d878f323aea77c6cb83618c1048a94]
+## 14.29. Individual notices to creditors etc. of intended dividend or distribution[^c-57d878f323aea77c6cb83618c1048a94]
 
 *Extent: E+W*
 
@@ -494,16 +494,16 @@ Whenever a liquidator in a creditors' voluntary winding up or a winding up by th
 - (a) to the creditors in an administration; and
 - (b) to all creditors in a winding up or a bankruptcy who have not proved (including any creditors who are owed small debts and are not deemed under rule 14.3(3) to have proved as a result of a previous notice under rule 14.29).
 
-(2)[^key-c61bd9d9410036fb9f516f6d2eb4f6aa] Paragraph (2A) applies where the intended dividend is only for one or both of the following—
+(2)[^c-c61bd9d9410036fb9f516f6d2eb4f6aa] Paragraph (2A) applies where the intended dividend is only for one or both of the following—
 
 - (a) preferential creditors, or
 - (b) creditors in respect of a debt which is a moratorium debt or a priority pre-moratorium debt within the meaning given by section 174A.
 
-(2A)[^key-e9e4c7b4b66038a43d598a03bdfa0240] Where this paragraph applies the office-holder is only required to deliver the notice to those creditors referred to in sub-paragraph (2)(a) or (b) for whom the dividend is intended.
+(2A)[^c-e9e4c7b4b66038a43d598a03bdfa0240] Where this paragraph applies the office-holder is only required to deliver the notice to those creditors referred to in sub-paragraph (2)(a) or (b) for whom the dividend is intended.
 
 (3) Where the office-holder intends to declare a dividend to unsecured creditors in an administration or winding-up the notice must also state the value of the prescribed part unless there is no prescribed part or the court has made an order under section 176A(5).
 
-## 14.30. Contents of notice of intention to declare a dividend or make a distribution[^key-57d878f323aea77c6cb83618c1048a94]
+## 14.30. Contents of notice of intention to declare a dividend or make a distribution[^c-57d878f323aea77c6cb83618c1048a94]
 
 *Extent: E+W*
 
@@ -518,7 +518,7 @@ A notice under rule 14.29 must contain the following—
 - (e) the additional information required by rule 14.31 where the office-holder intends to treat a small debt as proved for the purposes of paying a dividend; and
 - (f) in the case of a members' voluntary winding up, where the distribution is to be a sole or final distribution, a statement that the distribution may be made without regard to the claim of any person in respect of a debt not proved.
 
-## 14.31. Further contents of notice to creditors owed small debts etc.[^key-57d878f323aea77c6cb83618c1048a94]
+## 14.31. Further contents of notice to creditors owed small debts etc.[^c-57d878f323aea77c6cb83618c1048a94]
 
 *Extent: E+W*
 
@@ -533,7 +533,7 @@ A notice under rule 14.29 must contain the following—
 
 (3) The information required by paragraph (2)(a) may take the form of a list of small debts which the office-holder intends to treat as proved which includes that owed to the particular creditor to whom the notice is being delivered.
 
-## 14.32. Admission or rejection of proofs following last date for proving[^key-57d878f323aea77c6cb83618c1048a94]
+## 14.32. Admission or rejection of proofs following last date for proving[^c-57d878f323aea77c6cb83618c1048a94]
 
 *Extent: E+W*
 
@@ -546,9 +546,9 @@ A notice under rule 14.29 must contain the following—
 
 (3) In the declaration of a dividend a payment must not be made more than once in respect of the same debt.
 
-(4)[^key-27384f648c65a7ad68044f36576a2b07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-27384f648c65a7ad68044f36576a2b07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.33. Postponement or cancellation of dividend[^key-57d878f323aea77c6cb83618c1048a94]
+## 14.33. Postponement or cancellation of dividend[^c-57d878f323aea77c6cb83618c1048a94]
 
 *Extent: E+W*
 
@@ -558,7 +558,7 @@ A notice under rule 14.29 must contain the following—
 
 (3) Where the dividend is postponed or cancelled a new notice under rule 14.29 will be required if the dividend is paid subsequently.
 
-## 14.34. Declaration of dividend[^key-57d878f323aea77c6cb83618c1048a94]
+## 14.34. Declaration of dividend[^c-57d878f323aea77c6cb83618c1048a94]
 
 *Extent: E+W*
 
@@ -568,11 +568,11 @@ A notice under rule 14.29 must contain the following—
 
 (3) If the court gives such permission, the office-holder must make such provision in relation to the proof as the court directs.
 
-## 14.35. Notice of declaration of a dividend[^key-57d878f323aea77c6cb83618c1048a94]
+## 14.35. Notice of declaration of a dividend[^c-57d878f323aea77c6cb83618c1048a94]
 
 *Extent: E+W*
 
-(1) Where the office-holder declares a dividend the office-holder must deliver notice of that fact to all creditors who have proved for their debts (subject to paragraph (5) and (6)[^key-264678757cd5d09d61505ebad8fd5d99]).
+(1) Where the office-holder declares a dividend the office-holder must deliver notice of that fact to all creditors who have proved for their debts (subject to paragraph (5) and (6)[^c-264678757cd5d09d61505ebad8fd5d99]).
 
 (2) The notice declaring a dividend may be delivered at the same time as the dividend is distributed.
 
@@ -586,12 +586,12 @@ A notice under rule 14.29 must contain the following—
 
 (4) In an administration, a creditors' voluntary winding-up or a winding up by the court, where the administrator or liquidator intends to make a distribution to unsecured creditors, the notice must also state the value of the prescribed part unless there is no prescribed part or the court has made an order under section 176A(5).
 
-(5)[^key-8534227f7b684b5d7e03d5c75104718a] Paragraph (6) applies where the office-holder declares a dividend which is only for one or both of the following—
+(5)[^c-8534227f7b684b5d7e03d5c75104718a] Paragraph (6) applies where the office-holder declares a dividend which is only for one or both of the following—
 
 - (a) preferential creditors, or
 - (b) creditors in respect of a debt which is a moratorium debt or priority pre-moratorium debt within the meaning given by section 174A.
 
-(6)[^key-49af3c2d60ab90f9370c0f102730733a] Where this paragraph applies the notice under paragraph (1) need only be delivered to those creditors referred to in sub-paragraph (5)(a) or (b) (as the case may be) who have proved for their debts.
+(6)[^c-49af3c2d60ab90f9370c0f102730733a] Where this paragraph applies the notice under paragraph (1) need only be delivered to those creditors referred to in sub-paragraph (5)(a) or (b) (as the case may be) who have proved for their debts.
 
 ## 14.36.
 
@@ -604,7 +604,7 @@ A notice under rule 14.29 must contain the following—
 
 (2) The notice must contain the particulars required by rule 14.30, 14.31, 14.37 or 14.38 as the case may be and must require claims against the assets to be established by a date set out in the notice.
 
-## 14.37. Contents of last notice about dividend (administration, winding up and bankruptcy)[^key-5ccfaa637357c14b19e82347328a5e3d]
+## 14.37. Contents of last notice about dividend (administration, winding up and bankruptcy)[^c-5ccfaa637357c14b19e82347328a5e3d]
 
 *Extent: E+W*
 
@@ -617,7 +617,7 @@ A notice under rule 14.29 must contain the following—
 
 (3) The information required by paragraph (2) may be included in a progress report.
 
-## 14.38.[^key-5ccfaa637357c14b19e82347328a5e3d]
+## 14.38.[^c-5ccfaa637357c14b19e82347328a5e3d]
 
 *Extent: E+W*
 
@@ -635,7 +635,7 @@ A notice under rule 14.29 must contain the following—
 
 (3) The court may, on the application of any person, postpone the date specified in the notice.
 
-## 14.39.[^key-5ccfaa637357c14b19e82347328a5e3d]
+## 14.39.[^c-5ccfaa637357c14b19e82347328a5e3d]
 
 *Extent: E+W*
 
@@ -644,7 +644,7 @@ In an administration or winding up, in the calculation and distribution of a div
 - (a) any debts which are the subject of claims which have not yet been determined; and
 - (b) disputed proofs and claims.
 
-## 14.40. Supplementary provisions as to dividends and distributions[^key-5ccfaa637357c14b19e82347328a5e3d]
+## 14.40. Supplementary provisions as to dividends and distributions[^c-5ccfaa637357c14b19e82347328a5e3d]
 
 *Extent: E+W*
 
@@ -660,7 +660,7 @@ In an administration or winding up, in the calculation and distribution of a div
 
 (4) If, after a creditor's proof has been admitted, the proof is withdrawn or excluded, or the amount of it is reduced, the creditor is liable to repay to the office-holder, for the credit of the insolvency proceedings, any amount overpaid by way of dividend.
 
-## 14.41. Secured creditors[^key-5ccfaa637357c14b19e82347328a5e3d]
+## 14.41. Secured creditors[^c-5ccfaa637357c14b19e82347328a5e3d]
 
 *Extent: E+W*
 
@@ -672,13 +672,13 @@ In an administration or winding up, in the calculation and distribution of a div
 
 (4) The creditor is not entitled to disturb any dividend declared (whether or not distributed) before the date of the alteration.
 
-## 14.42. Disqualification from dividend[^key-5ccfaa637357c14b19e82347328a5e3d]
+## 14.42. Disqualification from dividend[^c-5ccfaa637357c14b19e82347328a5e3d]
 
 *Extent: E+W*
 
 If a creditor contravenes any provision of the Act or these Rules relating to the valuation of securities, the court may, on the application of the office-holder, order that the creditor be wholly or partly disqualified from participation in any dividend.
 
-## 14.43. Assignment of right to dividend[^key-5ccfaa637357c14b19e82347328a5e3d]
+## 14.43. Assignment of right to dividend[^c-5ccfaa637357c14b19e82347328a5e3d]
 
 *Extent: E+W*
 
@@ -686,7 +686,7 @@ If a creditor contravenes any provision of the Act or these Rules relating to th
 
 (2) A notice delivered under this rule must specify the name and address of the person to whom payment is to be made.
 
-## 14.44. Debt payable at future time[^key-5ccfaa637357c14b19e82347328a5e3d]
+## 14.44. Debt payable at future time[^c-5ccfaa637357c14b19e82347328a5e3d]
 
 *Extent: E+W*
 
@@ -701,7 +701,7 @@ where—
 - “*X*” is the value of the admitted proof; and
 - “*n*” is the period beginning with the relevant date and ending with the date on which the payment of the creditor's debt would otherwise be due, expressed in years (part of a year being expressed as a decimal fraction of a year).
 
-## 14.45.[^key-5ccfaa637357c14b19e82347328a5e3d]
+## 14.45.[^c-5ccfaa637357c14b19e82347328a5e3d]
 
 *Extent: E+W*
 
@@ -714,31 +714,31 @@ where—
 
 ## Annotations
 
-[^key-342b81fac3d86118a5351230f7749872]: Modification: [Rules 14.1-14.24](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [86-103](https://www.legislation.gov.uk/uksi/2024/229/rule/86), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-342b81fac3d86118a5351230f7749872]: Modification: [Rules 14.1-14.24](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [86-103](https://www.legislation.gov.uk/uksi/2024/229/rule/86), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-fefba9ff7fc56ab4ec7bdf13b0624dae]: Modification: [Rule 14.1](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [86](https://www.legislation.gov.uk/uksi/2024/229/rule/86), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-fefba9ff7fc56ab4ec7bdf13b0624dae]: Modification: [Rule 14.1](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [86](https://www.legislation.gov.uk/uksi/2024/229/rule/86), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-a03f60bf381ffc53d3d2d3a68f883719]: Textual amendment: Words in [rule 14.1(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-a03f60bf381ffc53d3d2d3a68f883719]: Textual amendment: Words in [rule 14.1(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-e7052280d1f3d89b252af563e059b9de]: Textual amendment: Words in [rule 14.1(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/2) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-e7052280d1f3d89b252af563e059b9de]: Textual amendment: Words in [rule 14.1(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/2) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-8238d3365b42b4c9e6d38136efd4d836]: Textual amendment: Words in [rule 14.1(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/3) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(4)(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/4/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-8238d3365b42b4c9e6d38136efd4d836]: Textual amendment: Words in [rule 14.1(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/3) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(4)(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/4/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
 [^c23177261]: Marginal citation: Paragraph 13A was inserted into Schedule 8 by section 131 of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) and paragraph 18A was inserted into Schedule 9 by section 132 of that Act.
 
-[^key-97ee9f54edfc0973fe5d519df5c94d55]: Textual amendment: Words in [rule 14.1(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/3) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(4)(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/4/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-97ee9f54edfc0973fe5d519df5c94d55]: Textual amendment: Words in [rule 14.1(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/3) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(4)(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/4/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-c6331eac4517d9f22e56038bfa147e83]: Textual amendment: [Rule 14.1(3A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/3A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(5)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/5) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-c6331eac4517d9f22e56038bfa147e83]: Textual amendment: [Rule 14.1(3A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/3A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(5)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/5) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-c7caa4a0c978a202becdfb374e2af616]: Textual amendment: Words in [rule 14.1(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/4) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(6)(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/6/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-c7caa4a0c978a202becdfb374e2af616]: Textual amendment: Words in [rule 14.1(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/4) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(6)(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/6/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-a206a4c35ae543358efefb2e3d535b78]: Textual amendment: Words in [rule 14.1(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/4) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(6)(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/6/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-a206a4c35ae543358efefb2e3d535b78]: Textual amendment: Words in [rule 14.1(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/4) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(6)(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/6/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-af04bfd8db773e8c8de61ac7c591c9a8]: Textual amendment: Words in [rule 14.1(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/5) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(7)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/7) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-af04bfd8db773e8c8de61ac7c591c9a8]: Textual amendment: Words in [rule 14.1(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/5) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(7)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/7) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-61e4e0b3e76e508150d304124e762c9b]: Textual amendment: Words in [rule 14.1(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/6) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(8)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/8) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-61e4e0b3e76e508150d304124e762c9b]: Textual amendment: Words in [rule 14.1(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/6) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [53(8)](https://www.legislation.gov.uk/uksi/2021/1028/rule/53/8) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-26c2a41833463292028483da9ed0375a]: Textual amendment: Word in [rule 14.1(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/6) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [23](https://www.legislation.gov.uk/uksi/2026/561/rule/23)
+[^c-26c2a41833463292028483da9ed0375a]: Textual amendment: Word in [rule 14.1(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1/6) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [23](https://www.legislation.gov.uk/uksi/2026/561/rule/23)
 
 [^c23177271]: Marginal citation: [1986 c.32](https://www.legislation.gov.uk/ukpga/1986/32); repealed by Schedule 3 to the [Drug Trafficking Act 1994 (c.37)](https://www.legislation.gov.uk/ukpga/1994/37).
 
@@ -758,54 +758,54 @@ where—
 
 [^c23177351]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8); section 382 has been amended by paragraph 21 of Schedule 9 to the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-50b38e05d6ac6823ec32d7f6093d6888]: Modification: Rule 14.12 applied (with modifications) (23.4.2019) by [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346), [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/uksi/2008/346/schedule/2/paragraph/7/1) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/2/a))
+[^c-50b38e05d6ac6823ec32d7f6093d6888]: Modification: Rule 14.12 applied (with modifications) (23.4.2019) by [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346), [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/uksi/2008/346/schedule/2/paragraph/7/1) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/2/a))
 
-[^key-7a0f27f08028c8ba666626cff043f0e3]: Textual amendment: Words in [rule 14.14](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.14) heading substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [55(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/55/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-7a0f27f08028c8ba666626cff043f0e3]: Textual amendment: Words in [rule 14.14](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.14) heading substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [55(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/55/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-28167f56721870901dd9adaf75a2b172]: Textual amendment: Words in [rule 14.14(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.14/1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [55(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/55/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-28167f56721870901dd9adaf75a2b172]: Textual amendment: Words in [rule 14.14(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.14/1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [55(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/55/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-cdc9666ef9ce376730397853f6429878]: Textual amendment: [Rule 14.16(A1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.16/A1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [56](https://www.legislation.gov.uk/uksi/2021/1028/rule/56) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-cdc9666ef9ce376730397853f6429878]: Textual amendment: [Rule 14.16(A1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.16/A1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [56](https://www.legislation.gov.uk/uksi/2021/1028/rule/56) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-3cb8a8c3da83f92e47d4afa390c64669]: Textual amendment: [Rule 14.16(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.16/3) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 98](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/98) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cb8a8c3da83f92e47d4afa390c64669]: Textual amendment: [Rule 14.16(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.16/3) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 98](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/98) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-50b07cb814ff9ba6f0e857f31b9ada00]: Textual amendment: [Rule 14.17(A1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.17/A1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [57](https://www.legislation.gov.uk/uksi/2021/1028/rule/57) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-50b07cb814ff9ba6f0e857f31b9ada00]: Textual amendment: [Rule 14.17(A1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.17/A1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [57](https://www.legislation.gov.uk/uksi/2021/1028/rule/57) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-c1d2cad4dd6b7825acc4897750bddba5]: Textual amendment: [Rule 14.18(A1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.18/A1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [58](https://www.legislation.gov.uk/uksi/2021/1028/rule/58) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-c1d2cad4dd6b7825acc4897750bddba5]: Textual amendment: [Rule 14.18(A1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.18/A1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [58](https://www.legislation.gov.uk/uksi/2021/1028/rule/58) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-11adae1f70c9fbc3ffac2366726ec69e]: Modification: Rule 14.21 excluded (23.4.2019) by [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226), [reg. 14](https://www.legislation.gov.uk/uksi/2003/3226/regulation/14) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/3/3/a))
+[^c-11adae1f70c9fbc3ffac2366726ec69e]: Modification: Rule 14.21 excluded (23.4.2019) by [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226), [reg. 14](https://www.legislation.gov.uk/uksi/2003/3226/regulation/14) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/3/3/a))
 
-[^key-662ce3c5f82931f4363e39e139ecff02]: Textual amendment: Words in [rule 14.23(4)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.23/4/a) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [59](https://www.legislation.gov.uk/uksi/2021/1028/rule/59) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-662ce3c5f82931f4363e39e139ecff02]: Textual amendment: Words in [rule 14.23(4)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.23/4/a) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [59](https://www.legislation.gov.uk/uksi/2021/1028/rule/59) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
 [^c23177361]: Marginal citation: [1838 c.110](https://www.legislation.gov.uk/ukpga/1838/110). Section 17 is amended by the [Statute Law Revision (No 2) Act 1988 (c.57)](https://www.legislation.gov.uk/ukpga/1988/57), [article 2](https://www.legislation.gov.uk/ukpga/1988/57/article/2) of [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564), [article 3](https://www.legislation.gov.uk/uksi/1993/564/article/3) of [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), [Part 1](https://www.legislation.gov.uk/uksi/1998/2940/part/1) of the Schedule to the [Civil Procedure Acts Repeal Act 1879 (c.59)](https://www.legislation.gov.uk/ukpga/1879/59) of [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 
-[^key-8142754b674f4783c21a846771aa71a5]: Modification: Rule 14.24 applied (23.4.2019) by [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998), [reg. 22(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/2) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/2))
+[^c-8142754b674f4783c21a846771aa71a5]: Modification: Rule 14.24 applied (23.4.2019) by [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998), [reg. 22(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/2) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/2))
 
-[^key-8cad112abce694b3f80b0f8ce93192a2]: Modification: Rule 14.24(6) excluded (23.4.2019) by [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226), [reg. 12(4)(a)](https://www.legislation.gov.uk/uksi/2003/3226/regulation/12/4/a) (as substituted by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/3/2))
+[^c-8cad112abce694b3f80b0f8ce93192a2]: Modification: Rule 14.24(6) excluded (23.4.2019) by [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226), [reg. 12(4)(a)](https://www.legislation.gov.uk/uksi/2003/3226/regulation/12/4/a) (as substituted by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/3/2))
 
 [^c23177371]: Marginal citation: Section 100 is amended by paragraph 24 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) which inserts new subsections (1), (1A) and (1B).
 
-[^key-4a62aa50c8204b332dd1d71b1205a458]: Modification: Rule 14.25 applied (23.4.2019) by [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998), [reg. 22(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/2) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/2))
+[^c-4a62aa50c8204b332dd1d71b1205a458]: Modification: Rule 14.25 applied (23.4.2019) by [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998), [reg. 22(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/2) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/6/2))
 
-[^key-f4e0ccd8555191d941cd6e5356ed4676]: Modification: Rule 14.25(6) excluded (23.4.2019) by [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226), [reg. 12(4)(b)](https://www.legislation.gov.uk/uksi/2003/3226/regulation/12/4/b) (as substituted by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/3/2))
+[^c-f4e0ccd8555191d941cd6e5356ed4676]: Modification: Rule 14.25(6) excluded (23.4.2019) by [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226), [reg. 12(4)(b)](https://www.legislation.gov.uk/uksi/2003/3226/regulation/12/4/b) (as substituted by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/3/2))
 
-[^key-06f151eeb650d67994cac5444fa2ef91]: Modification: [Rule 14.26](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.26) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-06f151eeb650d67994cac5444fa2ef91]: Modification: [Rule 14.26](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.26) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-57d878f323aea77c6cb83618c1048a94]: Modification: [Rules 14.28-14.35](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.28) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [104-108](https://www.legislation.gov.uk/uksi/2024/229/rule/104), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-57d878f323aea77c6cb83618c1048a94]: Modification: [Rules 14.28-14.35](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.28) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [104-108](https://www.legislation.gov.uk/uksi/2024/229/rule/104), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-df76f139b89b16778f1cfbbd7f4f811d]: Textual amendment: Words in [rule 14.28(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.28/2) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [61](https://www.legislation.gov.uk/uksi/2021/1028/rule/61) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-df76f139b89b16778f1cfbbd7f4f811d]: Textual amendment: Words in [rule 14.28(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.28/2) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [61](https://www.legislation.gov.uk/uksi/2021/1028/rule/61) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-c61bd9d9410036fb9f516f6d2eb4f6aa]: Textual amendment: [Rule 14.29(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.29/2) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [62(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/62/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-c61bd9d9410036fb9f516f6d2eb4f6aa]: Textual amendment: [Rule 14.29(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.29/2) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [62(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/62/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-e9e4c7b4b66038a43d598a03bdfa0240]: Textual amendment: [Rule 14.29(2A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.29/2A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [62(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/62/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-e9e4c7b4b66038a43d598a03bdfa0240]: Textual amendment: [Rule 14.29(2A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.29/2A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [62(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/62/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-27384f648c65a7ad68044f36576a2b07]: Textual amendment: [Rule 14.32(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.32/4) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 99](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/99) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27384f648c65a7ad68044f36576a2b07]: Textual amendment: [Rule 14.32(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.32/4) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 99](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/99) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-264678757cd5d09d61505ebad8fd5d99]: Textual amendment: Words in [rule 14.35(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.35/1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [63(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/63/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-264678757cd5d09d61505ebad8fd5d99]: Textual amendment: Words in [rule 14.35(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.35/1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [63(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/63/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-8534227f7b684b5d7e03d5c75104718a]: Textual amendment: [Rule 14.35(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.35/5) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [63(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/63/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-8534227f7b684b5d7e03d5c75104718a]: Textual amendment: [Rule 14.35(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.35/5) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [63(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/63/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-49af3c2d60ab90f9370c0f102730733a]: Textual amendment: [Rule 14.35(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.35/6) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [63(4)](https://www.legislation.gov.uk/uksi/2021/1028/rule/63/4) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-49af3c2d60ab90f9370c0f102730733a]: Textual amendment: [Rule 14.35(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.35/6) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [63(4)](https://www.legislation.gov.uk/uksi/2021/1028/rule/63/4) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-5ccfaa637357c14b19e82347328a5e3d]: Modification: [Rules 14.37-14.45](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.37) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [109-113](https://www.legislation.gov.uk/uksi/2024/229/rule/109), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-5ccfaa637357c14b19e82347328a5e3d]: Modification: [Rules 14.37-14.45](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.37) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [109-113](https://www.legislation.gov.uk/uksi/2024/229/rule/109), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
 [^c23177381]: Marginal citation: Section 17 has been amended by the [Statute Law Revision (No 2) Act 1888 (c.57)](https://www.legislation.gov.uk/ukpga/1888/57), [article 2](https://www.legislation.gov.uk/ukpga/1888/57/article/2) of [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564), [article 3](https://www.legislation.gov.uk/uksi/1993/564/article/3) of [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), [Part 1](https://www.legislation.gov.uk/uksi/1998/2940/part/1) of the Schedule to the [Civil Procedure Acts Repeal Act 1879 (c.59)](https://www.legislation.gov.uk/ukpga/1879/59) and article 3(c) of [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).

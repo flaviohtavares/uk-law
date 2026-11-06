@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 21. Allocation of complaint[^key-d5227ced4c0b048b302b88aa829a130c]
+## 21. Allocation of complaint[^c-d5227ced4c0b048b302b88aa829a130c]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5227ced4c0b048b302b88aa829a130c]: Commencement: S. 21 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-d5227ced4c0b048b302b88aa829a130c]: Commencement: S. 21 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

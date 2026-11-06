@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Penalty in respect of benefit fraud not resulting in overpayment[^key-46f6d0d33e11e1646458ce5d232df4b9]
+## 113. Penalty in respect of benefit fraud not resulting in overpayment[^c-46f6d0d33e11e1646458ce5d232df4b9]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46f6d0d33e11e1646458ce5d232df4b9]: Commencement: S. 113 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/a)
+[^c-46f6d0d33e11e1646458ce5d232df4b9]: Commencement: S. 113 in force at 8.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2012/863/article/2/3/a)

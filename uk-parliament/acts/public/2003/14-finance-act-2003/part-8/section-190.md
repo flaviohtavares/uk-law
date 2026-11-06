@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Supplies not known to be taxable when made, etc[^key-740a11129a59fe323144e4c8f2be4a2d]
+## 190. Supplies not known to be taxable when made, etc[^c-740a11129a59fe323144e4c8f2be4a2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-740a11129a59fe323144e4c8f2be4a2d]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2003/14/section/190) has effect as specified by [The Finance Act 2003, sections 189 and 190, (Appointed Day) Order 2005 (S.I. 2005/1713)](https://www.legislation.gov.uk/uksi/2005/1713), [art. 2](https://www.legislation.gov.uk/uksi/2005/1713/article/2)
+[^c-740a11129a59fe323144e4c8f2be4a2d]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2003/14/section/190) has effect as specified by [The Finance Act 2003, sections 189 and 190, (Appointed Day) Order 2005 (S.I. 2005/1713)](https://www.legislation.gov.uk/uksi/2005/1713), [art. 2](https://www.legislation.gov.uk/uksi/2005/1713/article/2)

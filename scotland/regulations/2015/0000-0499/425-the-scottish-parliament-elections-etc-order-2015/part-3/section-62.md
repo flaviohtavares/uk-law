@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Remuneration for free postal services provided[^key-dedb9a44187c359e5b09dbb784835c88]
+## 62. Remuneration for free postal services provided[^c-dedb9a44187c359e5b09dbb784835c88]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dedb9a44187c359e5b09dbb784835c88]: Commencement: Art. 62 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-dedb9a44187c359e5b09dbb784835c88]: Commencement: Art. 62 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00042]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26). Section 89 is amended by the Postal Services Act [2011 (c.5)](https://www.legislation.gov.uk/ukpga/2011/5), Schedule 12, paragraph 23.

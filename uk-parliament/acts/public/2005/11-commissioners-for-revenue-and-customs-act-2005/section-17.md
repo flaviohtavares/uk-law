@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Use of information[^key-870f60ec67e3a518866f449471c5b71d]
+## 17. Use of information[^c-870f60ec67e3a518866f449471c5b71d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,13 +44,13 @@ summary: ''
 (5) In subsection (2) the reference to an enactment does not include—
 
 - (a) an Act of the Scottish Parliament or an instrument made under such an Act,
-- (aa)[^key-1c1286666688bdf7db4586f9d40826cd] an Act of the National Assembly for Wales or an instrument made under such an Act, or
+- (aa)[^c-1c1286666688bdf7db4586f9d40826cd] an Act of the National Assembly for Wales or an instrument made under such an Act, or
 - (b) an Act of the Northern Ireland Assembly or an instrument made under such an Act.
 
 (6) Part 2 of Schedule 2 (which makes provision about the supply and other use of information in specified circumstances) shall have effect.
 
 ## Annotations
 
-[^key-870f60ec67e3a518866f449471c5b71d]: Commencement: S. 17 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-870f60ec67e3a518866f449471c5b71d]: Commencement: S. 17 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
 
-[^key-1c1286666688bdf7db4586f9d40826cd]: Textual amendment: S. 17(5)(aa) inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 7(5)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/5), [29(2)(b)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b), [(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/3)
+[^c-1c1286666688bdf7db4586f9d40826cd]: Textual amendment: S. 17(5)(aa) inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 7(5)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/5), [29(2)(b)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b), [(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/3)

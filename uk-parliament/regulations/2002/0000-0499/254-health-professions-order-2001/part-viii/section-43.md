@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Default powers of the Privy Council[^key-e671e579fe546eeb626c3c6326c29cf4][^key-b7f4942152d7af34dc8b78d68bbdcd27]
+## 43. Default powers of the Privy Council[^c-e671e579fe546eeb626c3c6326c29cf4][^c-b7f4942152d7af34dc8b78d68bbdcd27]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e671e579fe546eeb626c3c6326c29cf4]: Commencement: Art. 43 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-e671e579fe546eeb626c3c6326c29cf4]: Commencement: Art. 43 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-b7f4942152d7af34dc8b78d68bbdcd27]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2002/254/article/43) in force at 1.4.2002 as notified in the London Gazette dated 25.3.2002, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-b7f4942152d7af34dc8b78d68bbdcd27]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2002/254/article/43) in force at 1.4.2002 as notified in the London Gazette dated 25.3.2002, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)

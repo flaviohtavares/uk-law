@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Chambers in the Tribunal[^key-657d8dec45ec89e0a1aaac79867696bc]
+## 20. Chambers in the Tribunal[^c-657d8dec45ec89e0a1aaac79867696bc]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-657d8dec45ec89e0a1aaac79867696bc]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/10/section/20) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-657d8dec45ec89e0a1aaac79867696bc]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/10/section/20) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

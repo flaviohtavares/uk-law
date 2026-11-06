@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Re-employment of former judicial office holders: further provision[^key-a388e617a58ee69032c58fb248367de0]
+## 13. Re-employment of former judicial office holders: further provision[^c-a388e617a58ee69032c58fb248367de0]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a388e617a58ee69032c58fb248367de0]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/18/section/13) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-a388e617a58ee69032c58fb248367de0]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/18/section/13) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

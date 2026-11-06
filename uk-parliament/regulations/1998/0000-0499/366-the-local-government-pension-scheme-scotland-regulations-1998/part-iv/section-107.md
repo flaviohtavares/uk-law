@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 107. Exchange of information by authorities[^key-884c8da46660b53d0e4727055090a8e1]
+## 107. Exchange of information by authorities[^c-884c8da46660b53d0e4727055090a8e1]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ that authority must give that employer that information.
 
 ## Annotations
 
-[^key-884c8da46660b53d0e4727055090a8e1]: Commencement: Reg. 107 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-884c8da46660b53d0e4727055090a8e1]: Commencement: Reg. 107 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -32,12 +32,12 @@ summary: ''
 
 .
 
-(4)[^key-afe82d3794e99ee52482d957dd48346d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-afe82d3794e99ee52482d957dd48346d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-afe82d3794e99ee52482d957dd48346d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-afe82d3794e99ee52482d957dd48346d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-afe82d3794e99ee52482d957dd48346d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-afe82d3794e99ee52482d957dd48346d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-afe82d3794e99ee52482d957dd48346d]: Textual amendment: [S. 72(4)-(6)](https://www.legislation.gov.uk/asp/2007/5/section/72/4) repealed (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [Sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-afe82d3794e99ee52482d957dd48346d]: Textual amendment: [S. 72(4)-(6)](https://www.legislation.gov.uk/asp/2007/5/section/72/4) repealed (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [Sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

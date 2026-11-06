@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Oil and Fibre Plant Seeds (Amendment) (Wales) Regulations 2001 (revoked)[^key-e756e4a72c143db7d6ba4c9c625b7e7d]
+The Oil and Fibre Plant Seeds (Amendment) (Wales) Regulations 2001 (revoked)[^c-e756e4a72c143db7d6ba4c9c625b7e7d]
 
 Made
 
@@ -41,48 +41,48 @@ Coming into force
 
 29th November 2001
 
-[^key-e756e4a72c143db7d6ba4c9c625b7e7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e756e4a72c143db7d6ba4c9c625b7e7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-e756e4a72c143db7d6ba4c9c625b7e7d]
+## 1. Title, commencement and application[^c-e756e4a72c143db7d6ba4c9c625b7e7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Oil and Fibre Plant Seeds Regulations 1993[^key-e756e4a72c143db7d6ba4c9c625b7e7d]
+## 2. Amendment of the Oil and Fibre Plant Seeds Regulations 1993[^c-e756e4a72c143db7d6ba4c9c625b7e7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regulation 3 (Interpretation)[^key-e756e4a72c143db7d6ba4c9c625b7e7d]
+## 3. Regulation 3 (Interpretation)[^c-e756e4a72c143db7d6ba4c9c625b7e7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulation 4 (Seeds to which the Oil and Fibre Plant Seeds Regulations 1993 apply)[^key-e756e4a72c143db7d6ba4c9c625b7e7d]
+## 4. Regulation 4 (Seeds to which the Oil and Fibre Plant Seeds Regulations 1993 apply)[^c-e756e4a72c143db7d6ba4c9c625b7e7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Regulation 5 (Marketing of Seeds)[^key-e756e4a72c143db7d6ba4c9c625b7e7d]
+## 5. Regulation 5 (Marketing of Seeds)[^c-e756e4a72c143db7d6ba4c9c625b7e7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Regulation 9 (Labelling of packages)[^key-e756e4a72c143db7d6ba4c9c625b7e7d]
+## 6. Regulation 9 (Labelling of packages)[^c-e756e4a72c143db7d6ba4c9c625b7e7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Regulation 9A (Labelling of packages — breeder’s confirmation)[^key-e756e4a72c143db7d6ba4c9c625b7e7d]
+## 7. Regulation 9A (Labelling of packages — breeder’s confirmation)[^c-e756e4a72c143db7d6ba4c9c625b7e7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Schedule 6 (Labelling requirements)[^key-e756e4a72c143db7d6ba4c9c625b7e7d]
+## 8. Schedule 6 (Labelling requirements)[^c-e756e4a72c143db7d6ba4c9c625b7e7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e756e4a72c143db7d6ba4c9c625b7e7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e756e4a72c143db7d6ba4c9c625b7e7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e756e4a72c143db7d6ba4c9c625b7e7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e756e4a72c143db7d6ba4c9c625b7e7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e756e4a72c143db7d6ba4c9c625b7e7d]: Textual amendment: Regulations revoked (13.12.2004) by [The Oil and Fibre Plant Seed (Wales) Regulations 2004 (S.I. 2004/2881)](https://www.legislation.gov.uk/uksi/2004/2881), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2881/regulation/1), [32(1)(b)](https://www.legislation.gov.uk/uksi/2004/2881/regulation/32/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2004/2881/regulation/5))
+[^c-e756e4a72c143db7d6ba4c9c625b7e7d]: Textual amendment: Regulations revoked (13.12.2004) by [The Oil and Fibre Plant Seed (Wales) Regulations 2004 (S.I. 2004/2881)](https://www.legislation.gov.uk/uksi/2004/2881), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2881/regulation/1), [32(1)(b)](https://www.legislation.gov.uk/uksi/2004/2881/regulation/32/1/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2004/2881/regulation/5))

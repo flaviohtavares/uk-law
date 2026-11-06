@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Clearways[^key-ec78fa5ff1cb7fc160758ccbf264fbb7]
+## 19. Clearways[^c-ec78fa5ff1cb7fc160758ccbf264fbb7]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ec78fa5ff1cb7fc160758ccbf264fbb7]: Commencement: Art. 19 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-ec78fa5ff1cb7fc160758ccbf264fbb7]: Commencement: Art. 19 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
 [^f00054]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Schedule 3A was inserted by section 4(2) of, and Schedule 1 to, the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 

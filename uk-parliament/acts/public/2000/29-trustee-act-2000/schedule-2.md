@@ -184,7 +184,7 @@ Section 40.
 
 #### The Land Registration Act 1925 (c.21)
 
-**26.**[^key-d2d592d124107b4735b13c680f3237db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-d2d592d124107b4735b13c680f3237db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Administration of Estates Act 1925 (c.23)
 
@@ -194,9 +194,9 @@ Section 40.
 
 > (1A) Subsection (1) of this section is without prejudice to the powers conferred on personal representatives by the Trustee Act 2000.
 
-#### ...[^key-1bf10f813f7e41c9049d197d613016d6]
+#### ...[^c-1bf10f813f7e41c9049d197d613016d6]
 
-**29.**[^key-1bf10f813f7e41c9049d197d613016d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-1bf10f813f7e41c9049d197d613016d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Regimental Charitable Funds Act 1935 (c.11)
 
@@ -244,15 +244,15 @@ Section 40.
 
 #### The Cereals Marketing Act 1965 (c.14)
 
-**35.**[^key-ad91c9b8d0cd327230100e9b195b970a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-ad91c9b8d0cd327230100e9b195b970a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Agriculture Act 1967 (c.22)
 
-**36.**[^key-ad16a553ad40d8f905f13feebd61fea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-ad16a553ad40d8f905f13feebd61fea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Solicitors Act 1974 (c.47)
 
-**37.**[^key-ec792fa78b7dd1cc17aafa7cea95961c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-ec792fa78b7dd1cc17aafa7cea95961c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Policyholders Protection Act 1975 (c.75)
 
@@ -271,7 +271,7 @@ Section 40.
 
 #### The Licensing (Alcohol Education and Research) Act 1981 (c.28)
 
-**40.**[^key-573ced241ef9b9aa442153cb6d39d016] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-573ced241ef9b9aa442153cb6d39d016] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Fisheries Act 1981 (c.29)
 
@@ -377,7 +377,7 @@ for “Duchy of Cornwall Management Acts 1868 to 1893” substitute “ Duchy of
 
 #### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-e65b51cd62238f3e4255125d0495c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-e65b51cd62238f3e4255125d0495c41a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Repair of Benefice Buildings Measure 1972 (No.2)
 
@@ -394,37 +394,37 @@ for “Duchy of Cornwall Management Acts 1868 to 1893” substitute “ Duchy of
 
 #### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56.**[^key-95dd673eea5443b984d8cacbbb82934c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-95dd673eea5443b984d8cacbbb82934c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### The Cathedrals Measure 1999 (No.1) (affected by repeal, see note)[^key-553b146c0b775324d27a0cbd56c1b437]
+#### The Cathedrals Measure 1999 (No.1) (affected by repeal, see note)[^c-553b146c0b775324d27a0cbd56c1b437]
 
-**57.** In section 16 (cathedral moneys: investment powers, *(affected by repeal, see note)*[^key-553b146c0b775324d27a0cbd56c1b437] etc. *(affected by repeal, see note)*[^key-553b146c0b775324d27a0cbd56c1b437]), in subsection (1)— *(affected by repeal, see note)*[^key-553b146c0b775324d27a0cbd56c1b437]
+**57.** In section 16 (cathedral moneys: investment powers, *(affected by repeal, see note)*[^c-553b146c0b775324d27a0cbd56c1b437] etc. *(affected by repeal, see note)*[^c-553b146c0b775324d27a0cbd56c1b437]), in subsection (1)— *(affected by repeal, see note)*[^c-553b146c0b775324d27a0cbd56c1b437]
 
-- (a) for paragraph (c) substitute— *(affected by repeal, see note)*[^key-553b146c0b775324d27a0cbd56c1b437]
+- (a) for paragraph (c) substitute— *(affected by repeal, see note)*[^c-553b146c0b775324d27a0cbd56c1b437]
 
-  > - (c) power to invest in any investments in which trustees may invest under the general power of investment in section 3 of the Trustee Act 2000 (as restricted by sections 4 and 5 of that Act), *(affected by repeal, see note)*[^key-553b146c0b775324d27a0cbd56c1b437]
+  > - (c) power to invest in any investments in which trustees may invest under the general power of investment in section 3 of the Trustee Act 2000 (as restricted by sections 4 and 5 of that Act), *(affected by repeal, see note)*[^c-553b146c0b775324d27a0cbd56c1b437]
 
   ,
 
-  and *(affected by repeal, see note)*[^key-553b146c0b775324d27a0cbd56c1b437]
-- (b) omit the words from “and the powers” to the end of the subsection. *(affected by repeal, see note)*[^key-553b146c0b775324d27a0cbd56c1b437]
+  and *(affected by repeal, see note)*[^c-553b146c0b775324d27a0cbd56c1b437]
+- (b) omit the words from “and the powers” to the end of the subsection. *(affected by repeal, see note)*[^c-553b146c0b775324d27a0cbd56c1b437]
 
 ## Annotations
 
-[^key-d2d592d124107b4735b13c680f3237db]: Textual amendment: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/26) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-d2d592d124107b4735b13c680f3237db]: Textual amendment: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/26) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
-[^key-1bf10f813f7e41c9049d197d613016d6]: Textual amendment: Sch. 2 para. 29 and cross-heading omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/22); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-1bf10f813f7e41c9049d197d613016d6]: Textual amendment: Sch. 2 para. 29 and cross-heading omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/22); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
-[^key-ad91c9b8d0cd327230100e9b195b970a]: Textual amendment: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/35) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-ad91c9b8d0cd327230100e9b195b970a]: Textual amendment: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/35) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
-[^key-ad16a553ad40d8f905f13feebd61fea7]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/36) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-ad16a553ad40d8f905f13feebd61fea7]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/36) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
-[^key-ec792fa78b7dd1cc17aafa7cea95961c]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/37) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(xii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/xii)
+[^c-ec792fa78b7dd1cc17aafa7cea95961c]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/37) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(xii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/xii)
 
-[^key-573ced241ef9b9aa442153cb6d39d016]: Textual amendment: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/40) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 20 para. 3(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/3/a) (with [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/4)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-573ced241ef9b9aa442153cb6d39d016]: Textual amendment: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/40) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 20 para. 3(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/3/a) (with [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2012/7/schedule/20/paragraph/4)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-e65b51cd62238f3e4255125d0495c41a]: Textual amendment: Sch. 2 para. 53 and cross-heading repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-e65b51cd62238f3e4255125d0495c41a]: Textual amendment: Sch. 2 para. 53 and cross-heading repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-95dd673eea5443b984d8cacbbb82934c]: Textual amendment: Sch. 2 para. 56 and cross-heading repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-95dd673eea5443b984d8cacbbb82934c]: Textual amendment: Sch. 2 para. 56 and cross-heading repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-553b146c0b775324d27a0cbd56c1b437]: Textual amendment: Sch. 2 para. 57 and cross-heading repealed (coming into force in accordance with s. 53(3)(8) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(2)(a)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/2/a) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-553b146c0b775324d27a0cbd56c1b437]: Textual amendment: Sch. 2 para. 57 and cross-heading repealed (coming into force in accordance with s. 53(3)(8) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(2)(a)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/2/a) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))

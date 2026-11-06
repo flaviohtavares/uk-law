@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Legal assistance: costs[^key-71960d6685a44b9285a2b018ac89a890]
+## 10. Legal assistance: costs[^c-71960d6685a44b9285a2b018ac89a890]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71960d6685a44b9285a2b018ac89a890]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2011/1/section/10) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)
+[^c-71960d6685a44b9285a2b018ac89a890]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2011/1/section/10) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)

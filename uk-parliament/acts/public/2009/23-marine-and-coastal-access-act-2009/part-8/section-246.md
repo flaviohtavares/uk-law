@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Power to board and inspect vessels and marine installations[^key-ce1421d0a6d569d7d54cdfc720bcc925]
+## 246. Power to board and inspect vessels and marine installations[^c-ce1421d0a6d569d7d54cdfc720bcc925]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ This is subject to section 249 (which provides that a warrant is necessary to en
 
 ## Annotations
 
-[^key-ce1421d0a6d569d7d54cdfc720bcc925]: Commencement: S. 246 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-ce1421d0a6d569d7d54cdfc720bcc925]: Commencement: S. 246 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

@@ -37,11 +37,11 @@ Made
 
 The Department of Justice, in exercise of the powers conferred by section 22 of the Protection from Stalking Act (Northern Ireland) 2022[^f00001], makes the following Order.
 
-## 1. Citation[^key-8d9478721adf413e5d947fcd5df188d0]
+## 1. Citation[^c-8d9478721adf413e5d947fcd5df188d0]
 
 This Order may be cited as the Protection from Stalking (2022 Act) (Commencement) Order (Northern Ireland) 2023.
 
-## 2. Appointed day[^key-84a561519d60b4f1983f782852bcc2be]
+## 2. Appointed day[^c-84a561519d60b4f1983f782852bcc2be]
 
 The day appointed for the coming into operation of sections 6 to 17 of the Protection from Stalking Act (Northern Ireland) 2022 is 19<sup>th</sup> October 2023.
 
@@ -67,6 +67,6 @@ Section 17 allows the Department to publish guidance on the operation of Stalkin
 
 [^f00001]: Footnote: [2022 c.17](https://www.legislation.gov.uk/ukpga/2022/17) (N.I.)
 
-[^key-8d9478721adf413e5d947fcd5df188d0]: Commencement: Art. 1 in operation at made date
+[^c-8d9478721adf413e5d947fcd5df188d0]: Commencement: Art. 1 in operation at made date
 
-[^key-84a561519d60b4f1983f782852bcc2be]: Commencement: Art. 2 in operation at made date
+[^c-84a561519d60b4f1983f782852bcc2be]: Commencement: Art. 2 in operation at made date

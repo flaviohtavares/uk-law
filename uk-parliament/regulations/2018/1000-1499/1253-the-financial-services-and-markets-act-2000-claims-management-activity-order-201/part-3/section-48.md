@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Suspension of authorisation by the Regulator: appeal of decision[^key-5d59ecd8e934c16dc110390395209802][^key-5a13f1077c04015a88876a82ab5f5c32]
+## 48. Suspension of authorisation by the Regulator: appeal of decision[^c-5d59ecd8e934c16dc110390395209802][^c-5a13f1077c04015a88876a82ab5f5c32]
 
 *Extent: E+W+S*
 
@@ -38,9 +38,9 @@ summary: ''
 
 ## Annotations
 
-[^key-5d59ecd8e934c16dc110390395209802]: Commencement: Art. 48 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-5d59ecd8e934c16dc110390395209802]: Commencement: Art. 48 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-5a13f1077c04015a88876a82ab5f5c32]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2018/1253/article/48) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-5a13f1077c04015a88876a82ab5f5c32]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2018/1253/article/48) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00081]: Footnote: Paragraph (c) of section 208(1) was inserted by the Financial Services Act 2010, sections 24(1) and (2), paragraphs 1 and 18((1) and (3) of Schedule 2.
 

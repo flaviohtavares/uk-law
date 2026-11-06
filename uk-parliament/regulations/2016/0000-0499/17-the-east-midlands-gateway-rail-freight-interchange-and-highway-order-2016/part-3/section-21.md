@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Agreements with highway authorities[^key-71d2c0cc60f97c88ae1cc656d08d0fc8]
+## 21. Agreements with highway authorities[^c-71d2c0cc60f97c88ae1cc656d08d0fc8]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71d2c0cc60f97c88ae1cc656d08d0fc8]: Commencement: Art. 21 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-71d2c0cc60f97c88ae1cc656d08d0fc8]: Commencement: Art. 21 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 43. Mandatory data in the exchange of information between Member States[^key-fe0d6259fbf11e01df56db4c628e420a]
+## Article 43. Mandatory data in the exchange of information between Member States[^c-fe0d6259fbf11e01df56db4c628e420a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe0d6259fbf11e01df56db4c628e420a]: Textual amendment: [Art. 43](https://www.legislation.gov.uk/eur/2011/404/article/43) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(39)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe0d6259fbf11e01df56db4c628e420a]: Textual amendment: [Art. 43](https://www.legislation.gov.uk/eur/2011/404/article/43) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(39)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

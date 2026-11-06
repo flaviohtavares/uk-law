@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-bddfc95193a8185ae4c483f2af3b29a3] Section 9 of the Employment Tribunals Act 1996 (pre-hearing reviews) is amended as follows.
+(1)[^c-bddfc95193a8185ae4c483f2af3b29a3] Section 9 of the Employment Tribunals Act 1996 (pre-hearing reviews) is amended as follows.
 
 (2) In subsection (1) (power to make provision for pre-hearing reviews), for paragraph (a) there is substituted—
 
@@ -28,10 +28,10 @@ summary: ''
 
 .
 
-(3)[^key-bddfc95193a8185ae4c483f2af3b29a3] After subsection (2) there is inserted—
+(3)[^c-bddfc95193a8185ae4c483f2af3b29a3] After subsection (2) there is inserted—
 
 > (2A) Regulations under subsection (1)(b), so far as relating to striking out, may not provide for striking out on a ground which does not apply outside a pre-hearing review.
 
 ## Annotations
 
-[^key-bddfc95193a8185ae4c483f2af3b29a3]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2002/22/section/28/1)[(3)](https://www.legislation.gov.uk/ukpga/2002/22/section/28/3) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)
+[^c-bddfc95193a8185ae4c483f2af3b29a3]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2002/22/section/28/1)[(3)](https://www.legislation.gov.uk/ukpga/2002/22/section/28/3) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)

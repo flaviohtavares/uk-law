@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Dissolution of predecessor body[^key-d0f99a6a3829eb6319c6ab8dccd994a8]
+## 276. Dissolution of predecessor body[^c-d0f99a6a3829eb6319c6ab8dccd994a8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Special Health Authority known as the Health and Social Care Information Cen
 
 ## Annotations
 
-[^key-d0f99a6a3829eb6319c6ab8dccd994a8]: Commencement: [S. 276](https://www.legislation.gov.uk/ukpga/2012/7/section/276) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d0f99a6a3829eb6319c6ab8dccd994a8]: Commencement: [S. 276](https://www.legislation.gov.uk/ukpga/2012/7/section/276) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

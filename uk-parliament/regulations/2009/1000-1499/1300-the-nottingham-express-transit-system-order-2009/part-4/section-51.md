@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Power to lop trees overhanging authorised tramway[^key-eab4bf1401b6ccfe3a276c0ade9d580b]
+## 51. Power to lop trees overhanging authorised tramway[^c-eab4bf1401b6ccfe3a276c0ade9d580b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eab4bf1401b6ccfe3a276c0ade9d580b]: Commencement: Art. 51 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-eab4bf1401b6ccfe3a276c0ade9d580b]: Commencement: Art. 51 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

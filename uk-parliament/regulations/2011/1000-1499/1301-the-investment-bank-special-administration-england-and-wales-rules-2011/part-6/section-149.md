@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 149. Debts of investment bank to rank equally[^key-8596fca2f1f9cff6bd493c06c0cda523]
+## 149. Debts of investment bank to rank equally[^c-8596fca2f1f9cff6bd493c06c0cda523]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Debts, other than preferential debts, rank equally between themselves in the spe
 
 ## Annotations
 
-[^key-8596fca2f1f9cff6bd493c06c0cda523]: Commencement: [Rule 149](https://www.legislation.gov.uk/uksi/2011/1301/rule/149) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-8596fca2f1f9cff6bd493c06c0cda523]: Commencement: [Rule 149](https://www.legislation.gov.uk/uksi/2011/1301/rule/149) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

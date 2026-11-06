@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Commercial air transport – exception for cost sharing[^key-89dde4930f599e3fa15a525c121333e2]
+## 198. Commercial air transport – exception for cost sharing[^c-89dde4930f599e3fa15a525c121333e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89dde4930f599e3fa15a525c121333e2]: Commencement: [Art. 198](https://www.legislation.gov.uk/uksi/2013/2870/article/198) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-89dde4930f599e3fa15a525c121333e2]: Commencement: [Art. 198](https://www.legislation.gov.uk/uksi/2013/2870/article/198) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

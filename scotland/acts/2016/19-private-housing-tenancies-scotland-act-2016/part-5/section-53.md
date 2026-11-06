@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. First-tier Tribunal's power to disapply protection for sub-tenants[^key-4406adb8fe3df2b78814574448cf12dc]
+## 53. First-tier Tribunal's power to disapply protection for sub-tenants[^c-4406adb8fe3df2b78814574448cf12dc]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4406adb8fe3df2b78814574448cf12dc]: Commencement: S. 53 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-4406adb8fe3df2b78814574448cf12dc]: Commencement: S. 53 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

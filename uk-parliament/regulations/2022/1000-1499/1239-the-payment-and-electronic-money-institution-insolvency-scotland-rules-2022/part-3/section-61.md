@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Remote attendance at meetings conducted in accordance with section 246A of the IA 1986[^key-ef45f15b1a2979dbf1298e283ed1b0e9]
+## 61. Remote attendance at meetings conducted in accordance with section 246A of the IA 1986[^c-ef45f15b1a2979dbf1298e283ed1b0e9]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ and the notices required by sub-paragraphs (a) and (c) may be given at the same 
 
 ## Annotations
 
-[^key-ef45f15b1a2979dbf1298e283ed1b0e9]: Commencement: Rule 61 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-ef45f15b1a2979dbf1298e283ed1b0e9]: Commencement: Rule 61 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
 [^f00015]: Footnote: Section 246A was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Supply of information by Secretary of State etc.[^key-75a017a781a5d548887385d1b1cc04c5]
+## 115. Supply of information by Secretary of State etc.[^c-75a017a781a5d548887385d1b1cc04c5]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75a017a781a5d548887385d1b1cc04c5]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2008/4/section/115) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/r)
+[^c-75a017a781a5d548887385d1b1cc04c5]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2008/4/section/115) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(r)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/r)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Extension of powers of non-legal staff[^key-6307c9c94f89c7e98c9a83aa00c743f9]
+## 55. Extension of powers of non-legal staff[^c-6307c9c94f89c7e98c9a83aa00c743f9]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6307c9c94f89c7e98c9a83aa00c743f9]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2008/4/section/55) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/29)
+[^c-6307c9c94f89c7e98c9a83aa00c743f9]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2008/4/section/55) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/29)

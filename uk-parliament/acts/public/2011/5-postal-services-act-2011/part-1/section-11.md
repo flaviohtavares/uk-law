@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Annual report on post office network[^key-3c3a46bd3428d055989c515e7ef549e6]
+## 11. Annual report on post office network[^c-3c3a46bd3428d055989c515e7ef549e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c3a46bd3428d055989c515e7ef549e6]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2011/5/section/11) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-3c3a46bd3428d055989c515e7ef549e6]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2011/5/section/11) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

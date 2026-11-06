@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Declarations as to election expenses: constituency and individual regional candidates[^key-42f8899ed00976294c659d78e090d5c2]
+## 48. Declarations as to election expenses: constituency and individual regional candidates[^c-42f8899ed00976294c659d78e090d5c2]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ the declaration by the election agent as to the election expenses need not be ma
 
 ## Annotations
 
-[^key-42f8899ed00976294c659d78e090d5c2]: Commencement: Art. 48 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-42f8899ed00976294c659d78e090d5c2]: Commencement: Art. 48 in force at 16.12.2015 in accordance with art. 1(1)

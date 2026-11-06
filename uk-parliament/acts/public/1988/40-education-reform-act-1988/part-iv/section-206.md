@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Exclusion of visitor’s jurisdiction.[^key-a20f79849301ea8bbb7947132c8a2743]
+## 206. Exclusion of visitor’s jurisdiction.[^c-a20f79849301ea8bbb7947132c8a2743]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a20f79849301ea8bbb7947132c8a2743]: Textual amendment: S. 206 repealed (1.1.2005 for E., 1.1.2005 for W.) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2004/8/section/46/4), [52(6)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/6), [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7); [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/2781/article/5)); [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [art. 5](https://www.legislation.gov.uk/uksi/2004/3144/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/3144/article/6))
+[^c-a20f79849301ea8bbb7947132c8a2743]: Textual amendment: S. 206 repealed (1.1.2005 for E., 1.1.2005 for W.) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2004/8/section/46/4), [52(6)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/6), [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7); [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/2781/article/5)); [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [art. 5](https://www.legislation.gov.uk/uksi/2004/3144/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/3144/article/6))

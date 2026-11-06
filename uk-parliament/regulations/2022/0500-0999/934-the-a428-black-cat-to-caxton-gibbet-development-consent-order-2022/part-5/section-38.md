@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Temporary use of land for maintaining the authorised development[^key-e0ff26322a218b64212c2053bfa28831]
+## 38. Temporary use of land for maintaining the authorised development[^c-e0ff26322a218b64212c2053bfa28831]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ and in such circumstances, the undertaker may enter the land under paragraph (1)
 
 ## Annotations
 
-[^key-e0ff26322a218b64212c2053bfa28831]: Commencement: Art. 38 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-e0ff26322a218b64212c2053bfa28831]: Commencement: Art. 38 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00088]: Footnote: Section 13 was amended by sections 139 and 148 of, and paragraphs 27 and 28 of Schedule 13, and Part 3 of Schedule 23, to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

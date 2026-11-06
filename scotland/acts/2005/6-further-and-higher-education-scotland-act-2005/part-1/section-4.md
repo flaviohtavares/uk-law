@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. The Scottish Ministers: general duty[^key-bbf0778215f5f43ffc2b84d96ed65919][^key-844ffcb7f80a0bc3b9719b7ce721ed9b]
+## 4. The Scottish Ministers: general duty[^c-bbf0778215f5f43ffc2b84d96ed65919][^c-844ffcb7f80a0bc3b9719b7ce721ed9b]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bbf0778215f5f43ffc2b84d96ed65919]: Commencement: S. 4 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-bbf0778215f5f43ffc2b84d96ed65919]: Commencement: S. 4 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-844ffcb7f80a0bc3b9719b7ce721ed9b]: Textual amendment: [S. 4(1)-(3)](https://www.legislation.gov.uk/asp/2005/6/section/4/1) substituted for s. 4(1)(2) (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 3(2)](https://www.legislation.gov.uk/asp/2026/5/section/3/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-844ffcb7f80a0bc3b9719b7ce721ed9b]: Textual amendment: [S. 4(1)-(3)](https://www.legislation.gov.uk/asp/2005/6/section/4/1) substituted for s. 4(1)(2) (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 3(2)](https://www.legislation.gov.uk/asp/2026/5/section/3/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)

@@ -22,10 +22,10 @@ summary: ''
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8086551]
 
-(2)[^key-980dff689166df419dea9c925ec5a4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-980dff689166df419dea9c925ec5a4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c8086551]: Textual amendment: S. 21(1) ceased to have effect by virtue of [National Health Service (Amendment) Act 1986 (c. 66, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1986/66), [s. 8(3)](https://www.legislation.gov.uk/ukpga/1986/66/section/8/3)
 
-[^key-980dff689166df419dea9c925ec5a4d8]: Textual amendment: S. 21(2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-980dff689166df419dea9c925ec5a4d8]: Textual amendment: S. 21(2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Amendment of regulation 13 (combination of referendum polls: supplementary)[^key-f33524b94443cec2dc22871512ae9dcc]
+## 47. Amendment of regulation 13 (combination of referendum polls: supplementary)[^c-f33524b94443cec2dc22871512ae9dcc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 13 (combination of referendum polls: supplementary), in paragraph 
 
 ## Annotations
 
-[^key-f33524b94443cec2dc22871512ae9dcc]: Commencement: Reg. 47 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-f33524b94443cec2dc22871512ae9dcc]: Commencement: Reg. 47 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

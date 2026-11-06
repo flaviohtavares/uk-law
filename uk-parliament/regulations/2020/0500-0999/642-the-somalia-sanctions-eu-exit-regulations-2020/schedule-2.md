@@ -24,7 +24,7 @@ Regulation 19
 
 ### PART 1 — Interpretation
 
-**1.**[^key-7f383a5b561626b8d7d0dcbe16204e2b] (1) For the purposes of this Schedule—
+**1.**[^c-7f383a5b561626b8d7d0dcbe16204e2b] (1) For the purposes of this Schedule—
 
 - (a) a thing “falls within” a commodity code if it is, or would be, classified under that commodity code, as set out in the Goods Classification Table;
 - (b) a thing “falls within” a chapter if it is, or would be, classified under that chapter, as set out in the Goods Classification Table;
@@ -52,11 +52,11 @@ Regulation 19
 
 ### PART 2 — Charcoal
 
-**2.**[^key-a055e665ef5420e16fc070aae2e43f43] For the purposes of regulation 19(1), “**charcoal**” means any thing which falls within commodity code 4402.
+**2.**[^c-a055e665ef5420e16fc070aae2e43f43] For the purposes of regulation 19(1), “**charcoal**” means any thing which falls within commodity code 4402.
 
 ### PART 3 — IED components
 
-**3.**[^key-a91889e660ce8cff8999775e3ed638e3] (1) For the purposes of regulation 19(1), “**IED component**” means any thing described in sub-paragraphs (2) to (6).
+**3.**[^c-a91889e660ce8cff8999775e3ed638e3] (1) For the purposes of regulation 19(1), “**IED component**” means any thing described in sub-paragraphs (2) to (6).
 
 (2) Equipment and devices specifically designed to initiate explosives by electrical or non-electrical means, including—
 
@@ -76,16 +76,16 @@ Regulation 19
 
   | *Name of the substance* | *CAS No.* | *Commodity Code* |
   | --- | --- | --- |
-  | [^key-2a780541f8fb9a7afdc8b91ab2d2d66d]. . . | [^key-2a780541f8fb9a7afdc8b91ab2d2d66d]. . . | [^key-2a780541f8fb9a7afdc8b91ab2d2d66d]. . . |
+  | [^c-2a780541f8fb9a7afdc8b91ab2d2d66d]. . . | [^c-2a780541f8fb9a7afdc8b91ab2d2d66d]. . . | [^c-2a780541f8fb9a7afdc8b91ab2d2d66d]. . . |
   | Ammonium Nitrate Fuel Oil | 6484-52-2 | 3102 30<br>3102 40 |
   | Nitrocellulose (containing more than 12.5% nitrogen w/w) | 9004-70-0 |  |
-  | Nitroglycerin (except when packaged or prepared in individual medicinal doses)[^key-8a15f4b12ab4b319a0e587611c6850a5] | 55-63-0 | ex 2920 90 70 |
+  | Nitroglycerin (except when packaged or prepared in individual medicinal doses)[^c-8a15f4b12ab4b319a0e587611c6850a5] | 55-63-0 | ex 2920 90 70 |
   | Nitroglycol | 55-63-0 | ex 2920 90 70 |
   | Pentaerythritol tetranitrate (PETN) | 78-11-5 | ex 2920 90 70 |
   | Picryl chloride | 88-88-0 | ex 2904 99 00 |
   | 2, 4, 6- trinotrotoluene (TNT) | 118-96-7 | 2904 20 00 |
 
-(4A)[^key-cb7d4a1bd9eac584e56c8e24a85890e2] Technology required for the production or use of—
+(4A)[^c-cb7d4a1bd9eac584e56c8e24a85890e2] Technology required for the production or use of—
 
 - (a) any of the following substances described in sub-paragraph (4) and the table therein—
   - (i) nitrocellulose (containing more than 12.5% nitrogen w/w);
@@ -107,24 +107,24 @@ Regulation 19
   | Nitric acid | 7697-37-2 | ex 2808 |
   | Sulphuric acid | 7664-93-9 | ex 2807 |
 
-(6) Any mixture containing one or more item mentioned in sub-paragraph[^key-28b15ff7d1522ae3fed747eb36cea79c] (4) or (5).
+(6) Any mixture containing one or more item mentioned in sub-paragraph[^c-28b15ff7d1522ae3fed747eb36cea79c] (4) or (5).
 
 ## Annotations
 
-[^key-7f383a5b561626b8d7d0dcbe16204e2b]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-7f383a5b561626b8d7d0dcbe16204e2b]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
 
 [^c24171871]: Marginal citation: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/837199/Tariff\_Reference\_Document\_8th\_October.pdf. A hard copy is available for inspection free of charge at the offices of HMRC at 100 Parliament Street, London, SW1A 2BQ.
 
 [^c24171881]: Marginal citation: 2018 ch. 22.
 
-[^key-a055e665ef5420e16fc070aae2e43f43]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-a055e665ef5420e16fc070aae2e43f43]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
 
-[^key-a91889e660ce8cff8999775e3ed638e3]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-a91889e660ce8cff8999775e3ed638e3]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
 
-[^key-2a780541f8fb9a7afdc8b91ab2d2d66d]: Textual amendment: Words in [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2020/642/schedule/2/paragraph/3/4) omitted (2.8.2021) by virtue of [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/823)](https://www.legislation.gov.uk/uksi/2021/823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/823/regulation/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2021/823/regulation/2/4/a/i)
+[^c-2a780541f8fb9a7afdc8b91ab2d2d66d]: Textual amendment: Words in [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2020/642/schedule/2/paragraph/3/4) omitted (2.8.2021) by virtue of [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/823)](https://www.legislation.gov.uk/uksi/2021/823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/823/regulation/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2021/823/regulation/2/4/a/i)
 
-[^key-8a15f4b12ab4b319a0e587611c6850a5]: Textual amendment: Words in [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2020/642/schedule/2/paragraph/3/4) inserted (2.8.2021) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/823)](https://www.legislation.gov.uk/uksi/2021/823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/823/regulation/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/823/regulation/2/4/a/ii)
+[^c-8a15f4b12ab4b319a0e587611c6850a5]: Textual amendment: Words in [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2020/642/schedule/2/paragraph/3/4) inserted (2.8.2021) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/823)](https://www.legislation.gov.uk/uksi/2021/823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/823/regulation/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/823/regulation/2/4/a/ii)
 
-[^key-cb7d4a1bd9eac584e56c8e24a85890e2]: Textual amendment: [Sch. 2 para. 3(4A)](https://www.legislation.gov.uk/uksi/2020/642/schedule/2/paragraph/3/4A) inserted (2.8.2021) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/823)](https://www.legislation.gov.uk/uksi/2021/823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/823/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/823/regulation/2/4/b)
+[^c-cb7d4a1bd9eac584e56c8e24a85890e2]: Textual amendment: [Sch. 2 para. 3(4A)](https://www.legislation.gov.uk/uksi/2020/642/schedule/2/paragraph/3/4A) inserted (2.8.2021) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/823)](https://www.legislation.gov.uk/uksi/2021/823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/823/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/823/regulation/2/4/b)
 
-[^key-28b15ff7d1522ae3fed747eb36cea79c]: Textual amendment: Word in [Sch. 2 para. 3(6)](https://www.legislation.gov.uk/uksi/2020/642/schedule/2/paragraph/3/6) substituted (2.8.2021) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/823)](https://www.legislation.gov.uk/uksi/2021/823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/823/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2021/823/regulation/2/4/c)
+[^c-28b15ff7d1522ae3fed747eb36cea79c]: Textual amendment: Word in [Sch. 2 para. 3(6)](https://www.legislation.gov.uk/uksi/2020/642/schedule/2/paragraph/3/6) substituted (2.8.2021) by [The Somalia (Sanctions) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/823)](https://www.legislation.gov.uk/uksi/2021/823), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/823/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2021/823/regulation/2/4/c)

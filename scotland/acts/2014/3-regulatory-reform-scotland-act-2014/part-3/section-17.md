@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Meaning of expressions used in section 16 and schedule 2[^key-263037e0c6526e6310a72cc4ac1770d9]
+## 17. Meaning of expressions used in section 16 and schedule 2[^c-263037e0c6526e6310a72cc4ac1770d9]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-263037e0c6526e6310a72cc4ac1770d9]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/3/section/17) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-263037e0c6526e6310a72cc4ac1770d9]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/3/section/17) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

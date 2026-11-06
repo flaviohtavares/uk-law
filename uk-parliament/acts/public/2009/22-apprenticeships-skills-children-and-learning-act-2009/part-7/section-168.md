@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Provision of information or advice[^key-6feaf4bc4fa9613d327bbe42adae8687]
+## 168. Provision of information or advice[^c-6feaf4bc4fa9613d327bbe42adae8687]
 
 *Extent: E+W+N.I.*
 
 (1) If requested to do so by the Secretary of State, Ofqual must provide the Secretary of State with information or advice on such matters relating to any of its functions as may be specified in the request.
 
-(2)[^key-877338f6ac70ad5005cce46d2618a2da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-877338f6ac70ad5005cce46d2618a2da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6feaf4bc4fa9613d327bbe42adae8687]: Commencement: S. 168 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-6feaf4bc4fa9613d327bbe42adae8687]: Commencement: S. 168 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-877338f6ac70ad5005cce46d2618a2da]: Textual amendment: S. 168(2) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1
+[^c-877338f6ac70ad5005cce46d2618a2da]: Textual amendment: S. 168(2) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1

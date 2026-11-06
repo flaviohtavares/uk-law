@@ -25,9 +25,9 @@ summary: ''
 - (a) maintain the File, and
 - (b) make the File available to any person who wishes to use it on such terms as are reasonable.
 
-(2) Compliance with subsection (1) shall be enforceable by civil proceedings brought by OFCOM[^key-649e01044783bac57b8a21f634083091] for an injunction or for interdict or for any other appropriate relief or remedy.
+(2) Compliance with subsection (1) shall be enforceable by civil proceedings brought by OFCOM[^c-649e01044783bac57b8a21f634083091] for an injunction or for interdict or for any other appropriate relief or remedy.
 
-(2A)[^key-635e33466e006e3a54802f33c158f9f0] OFCOM may give a direction to the owner for the time being of the Postcode Address File requiring the owner—
+(2A)[^c-635e33466e006e3a54802f33c158f9f0] OFCOM may give a direction to the owner for the time being of the Postcode Address File requiring the owner—
 
 - (a) to issue, and comply with, a code of practice dealing with the making of revisions to the File, or
 - (b) to make such modifications of the code as are specified in the direction.
@@ -43,14 +43,14 @@ summary: ''
 
 (4) The terms which may be imposed under subsection (1)(b) include terms as to the payment of such fee (if any) as the owner considers appropriate.
 
-(5)[^key-515aebc35921427a6980908c6c435256] OFCOM may give a direction to the owner of the Postcode Address File as to the terms that may be imposed under subsection (1)(b).
+(5)[^c-515aebc35921427a6980908c6c435256] OFCOM may give a direction to the owner of the Postcode Address File as to the terms that may be imposed under subsection (1)(b).
 
 (6) If it does so, no term that contravenes the direction may be imposed under that provision.
 
 ## Annotations
 
-[^key-649e01044783bac57b8a21f634083091]: Textual amendment: Word in [s. 116(2)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/2) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 42(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/42/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-649e01044783bac57b8a21f634083091]: Textual amendment: Word in [s. 116(2)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/2) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 42(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/42/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-635e33466e006e3a54802f33c158f9f0]: Textual amendment: [S. 116(2A)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/2B) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 42(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/42/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-635e33466e006e3a54802f33c158f9f0]: Textual amendment: [S. 116(2A)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/2B) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 42(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/42/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-515aebc35921427a6980908c6c435256]: Textual amendment: [S. 116(5)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/5)[(6)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/6) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 42(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/42/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-515aebc35921427a6980908c6c435256]: Textual amendment: [S. 116(5)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/5)[(6)](https://www.legislation.gov.uk/ukpga/2000/26/section/116/6) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 42(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/42/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

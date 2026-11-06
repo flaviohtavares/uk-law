@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Power of returning officer to postpone or cancel by-election[^key-673356213e9754779ada2d4a6071f477][^key-e99ed2e7407e1918ba028f2fabc4ea25]
+## 34. Power of returning officer to postpone or cancel by-election[^c-673356213e9754779ada2d4a6071f477][^c-e99ed2e7407e1918ba028f2fabc4ea25]
 
 *Extent: S*
 
@@ -100,6 +100,6 @@ summary: ''
 
 ## Annotations
 
-[^key-673356213e9754779ada2d4a6071f477]: Commencement: S. 34 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-673356213e9754779ada2d4a6071f477]: Commencement: S. 34 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-e99ed2e7407e1918ba028f2fabc4ea25]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2025/4/section/34) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-e99ed2e7407e1918ba028f2fabc4ea25]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2025/4/section/34) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

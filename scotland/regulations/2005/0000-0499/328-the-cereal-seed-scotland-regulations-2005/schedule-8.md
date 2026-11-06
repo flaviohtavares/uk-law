@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 8 — REVOCATIONS[^key-aa29ed646caa49e2998d051b269bc558]
+## SCHEDULE 8 — REVOCATIONS[^c-aa29ed646caa49e2998d051b269bc558]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ Regulation 28(1)
 
 ## Annotations
 
-[^key-aa29ed646caa49e2998d051b269bc558]: Commencement: Sch. 8 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-aa29ed646caa49e2998d051b269bc558]: Commencement: Sch. 8 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)

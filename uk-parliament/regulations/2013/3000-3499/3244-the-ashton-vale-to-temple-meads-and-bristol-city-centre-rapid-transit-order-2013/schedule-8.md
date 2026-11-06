@@ -22,7 +22,7 @@ summary: ''
 
 Article 40
 
-### PART 1 — STOPPING, WAITING, LOADING OR UNLOADING[^key-9182498ba77ad5b72be8329d1c9f5729]
+### PART 1 — STOPPING, WAITING, LOADING OR UNLOADING[^c-9182498ba77ad5b72be8329d1c9f5729]
 
 (1) No waiting at any time
 
@@ -38,7 +38,7 @@ Article 40
 | NL1-NL2 | Avon Crescent<br>north-east side | From a point 3 metres north-west of a point in line with the common boundary line of No. 18 and No. 19 Avon Crescent to a point in line with the south-eastern boundary line of No. 25 Avon Crescent | To maintain vehicular flow |
 | NL2-NL3 | Cumberland Road<br>south side | From a point in line with the south-eastern boundary line of No.25 Avon Crescent to a point 41 metres east of a point in line with the common boundary line of No. 121 and No. 122 Cumberland Road | To maintain vehicular flow and accommodate new bus lane |
 
-### PART 2 — VEHICULAR ACCESS[^key-915bbf5638cc56e6b081f01b11745dc0]
+### PART 2 — VEHICULAR ACCESS[^c-915bbf5638cc56e6b081f01b11745dc0]
 
 (3) Prohibition of driving
 
@@ -48,7 +48,7 @@ Article 40
 | P2-P3 | Prince Street Bridge | From its junction with Prince Street to its junction with Wapping Road | Except buses, pedal cycles, police, ambulance and fire service vehicles |
 | P3-P4 | Wapping Road | From its junction with Prince Street Bridge to its junction with Merchants Quay | Except buses, pedal cycles, police, ambulance and fire service vehicles |
 
-### PART 3 — BUS AND CYCLE LANES[^key-f735988616df102bc0e1036072220c38]
+### PART 3 — BUS AND CYCLE LANES[^c-f735988616df102bc0e1036072220c38]
 
 (4) New bus and cycle lanes
 
@@ -59,8 +59,8 @@ Article 40
 
 ## Annotations
 
-[^key-9182498ba77ad5b72be8329d1c9f5729]: Commencement: Sch. 8 Pt. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-9182498ba77ad5b72be8329d1c9f5729]: Commencement: Sch. 8 Pt. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
-[^key-915bbf5638cc56e6b081f01b11745dc0]: Commencement: Sch. 8 Pt. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-915bbf5638cc56e6b081f01b11745dc0]: Commencement: Sch. 8 Pt. 2 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
-[^key-f735988616df102bc0e1036072220c38]: Commencement: Sch. 8 Pt. 3 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-f735988616df102bc0e1036072220c38]: Commencement: Sch. 8 Pt. 3 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

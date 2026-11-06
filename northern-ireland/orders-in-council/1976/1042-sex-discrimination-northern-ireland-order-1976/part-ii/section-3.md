@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Direct discrimination on the ground of sex[^key-f1aaf9214d47bddbb2d6d60e6b9a1cae]
+## 3. Direct discrimination on the ground of sex[^c-f1aaf9214d47bddbb2d6d60e6b9a1cae]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In any circumstances relevant for the purposes of any provision of this Order, a
 
 ## Annotations
 
-[^key-f1aaf9214d47bddbb2d6d60e6b9a1cae]: Textual amendment: Art. 3 substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [4(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/4/1)
+[^c-f1aaf9214d47bddbb2d6d60e6b9a1cae]: Textual amendment: Art. 3 substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [4(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/4/1)

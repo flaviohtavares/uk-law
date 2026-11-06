@@ -34,7 +34,7 @@ Exiting The European Union, Northern Ireland
 
 Animals, Northern Ireland
 
-The Official Controls (Animals, Feed and Food) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^key-218a61f9014cf56764317dbfe6950fb3]
+The Official Controls (Animals, Feed and Food) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^c-218a61f9014cf56764317dbfe6950fb3]
 
 Sift requirements satisfied
 
@@ -50,24 +50,24 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-218a61f9014cf56764317dbfe6950fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-218a61f9014cf56764317dbfe6950fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-218a61f9014cf56764317dbfe6950fb3]
+## 1. Citation, commencement and extent[^c-218a61f9014cf56764317dbfe6950fb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2007[^key-218a61f9014cf56764317dbfe6950fb3]
+## 2. Amendments to the Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2007[^c-218a61f9014cf56764317dbfe6950fb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-218a61f9014cf56764317dbfe6950fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-218a61f9014cf56764317dbfe6950fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-218a61f9014cf56764317dbfe6950fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-218a61f9014cf56764317dbfe6950fb3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-218a61f9014cf56764317dbfe6950fb3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/272) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
+[^c-218a61f9014cf56764317dbfe6950fb3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/272) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)

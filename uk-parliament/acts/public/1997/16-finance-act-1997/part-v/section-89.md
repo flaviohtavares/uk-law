@@ -117,7 +117,7 @@ summary: ''
 
 (8) Subsection (7) above shall not prevent section 138A of the Taxation of Chargeable Gains Act 1992 from being taken, for the purposes of applying that Act to any disposal on or after 26th November 1996, to have had effect in relation to—
 
-- (a) any disposal before that date on which, by virtue of any of the no gain/no loss provisions (within the meaning of that Act: see section 288(3A) of that Act)[^key-3b44e7fc1ea0cd47adf1d705c9d92145], neither a gain nor a loss accrued,
+- (a) any disposal before that date on which, by virtue of any of the no gain/no loss provisions (within the meaning of that Act: see section 288(3A) of that Act)[^c-3b44e7fc1ea0cd47adf1d705c9d92145], neither a gain nor a loss accrued,
 - (b) any deemed disposal before that date by reference to which a gain or loss falls to be calculated in accordance with section 116(10)(a) of that Act, or
 - (c) any transaction before that date that would have fallen to be treated as a disposal but for section 127 of that Act.
 
@@ -127,4 +127,4 @@ summary: ''
 
 [^c14707831]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-3b44e7fc1ea0cd47adf1d705c9d92145]: Textual amendment: Words in s. 89(8)(a) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 69(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/69/2)
+[^c-3b44e7fc1ea0cd47adf1d705c9d92145]: Textual amendment: Words in s. 89(8)(a) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 69(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/69/2)

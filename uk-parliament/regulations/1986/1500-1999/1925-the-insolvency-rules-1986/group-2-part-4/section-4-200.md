@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.200. Variation of, or addition to, the list[^key-253a589414ecc99d84de7371e2f94834]
+## 4.200. Variation of, or addition to, the list[^c-253a589414ecc99d84de7371e2f94834]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The liquidator may from time to time vary or add to the list of contributories a
 
 ## Annotations
 
-[^key-253a589414ecc99d84de7371e2f94834]: Commencement: [Rule 4.200](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.200) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-253a589414ecc99d84de7371e2f94834]: Commencement: [Rule 4.200](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.200) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

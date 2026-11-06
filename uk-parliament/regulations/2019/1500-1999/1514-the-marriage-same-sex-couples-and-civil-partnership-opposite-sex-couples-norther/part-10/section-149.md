@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Extension to Northern Ireland of amendments made in consequence of the introduction of same-sex marriage in England and Wales[^key-86e453706d5ad000db69ff82466e04a3]
+## 149. Extension to Northern Ireland of amendments made in consequence of the introduction of same-sex marriage in England and Wales[^c-86e453706d5ad000db69ff82466e04a3]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ The amendments made by the following provisions extend also to Northern Irelandâ
 
 ## Annotations
 
-[^key-86e453706d5ad000db69ff82466e04a3]: Commencement: Reg. 149 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-86e453706d5ad000db69ff82466e04a3]: Commencement: Reg. 149 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00237]: Footnote: [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107).
 

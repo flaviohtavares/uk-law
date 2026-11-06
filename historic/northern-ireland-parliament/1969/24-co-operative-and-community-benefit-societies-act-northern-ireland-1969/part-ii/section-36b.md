@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36B. Year of account (new registrations)[^key-1e59502def7ab3d55633b7b5a2d2db51]
+## 36B. Year of account (new registrations)[^c-1e59502def7ab3d55633b7b5a2d2db51]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e59502def7ab3d55633b7b5a2d2db51]: Textual amendment: S. 36A - S. 36B inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 11](https://www.legislation.gov.uk/nia/2016/16/section/11), [17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1)
+[^c-1e59502def7ab3d55633b7b5a2d2db51]: Textual amendment: S. 36A - S. 36B inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 11](https://www.legislation.gov.uk/nia/2016/16/section/11), [17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1)

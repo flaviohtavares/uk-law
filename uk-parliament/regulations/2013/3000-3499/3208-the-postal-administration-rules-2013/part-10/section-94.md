@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Postal administrator’s duties on vacating office[^key-d7f5f0e50c52366897873094b1e9f007]
+## 94. Postal administrator’s duties on vacating office[^c-d7f5f0e50c52366897873094b1e9f007]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f5f0e50c52366897873094b1e9f007]: Commencement: [Rule 94](https://www.legislation.gov.uk/uksi/2013/3208/rule/94) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-d7f5f0e50c52366897873094b1e9f007]: Commencement: [Rule 94](https://www.legislation.gov.uk/uksi/2013/3208/rule/94) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

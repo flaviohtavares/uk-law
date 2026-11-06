@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Amendment of Article 22 of Regulation (EU) No 2018/1139[^key-d079f8d1ab1d5fba18e9a16f13aecb77]
+## 101. Amendment of Article 22 of Regulation (EU) No 2018/1139[^c-d079f8d1ab1d5fba18e9a16f13aecb77]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 22 (cabin crew), in each place the words occur, for “the implementi
 
 ## Annotations
 
-[^key-d079f8d1ab1d5fba18e9a16f13aecb77]: Commencement: Reg. 101 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d079f8d1ab1d5fba18e9a16f13aecb77]: Commencement: Reg. 101 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

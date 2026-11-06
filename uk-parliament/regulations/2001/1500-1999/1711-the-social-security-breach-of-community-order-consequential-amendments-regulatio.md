@@ -45,13 +45,13 @@ Coming into force
 
 The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 22(5), 122(1), 123(1)(d) and (e), 137(1) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001], sections 5(3), 21, 26(1) and (4)(d), 35(1) and 36(1), (2) and (4) of, and paragraph 8 of Schedule 1 to, the Jobseekers Act 1995[^f00002], sections 9(1), 10(3) and (6), 79(1) and 84 of the Social Security Act 1998[^f00003] and section 69(2)(a) of the Child Support, Pensions and Social Security Act 2000[^f00004], and of all other powers enabling him in that behalf, after consultation, in relation to regulation 2(1), with organisations appearing to him to be representative of the authorities concerned[^f00005] and which is made before the end of a period of six months beginning with the coming into force of sections 62 to 65 of the Child Support, Pensions and Social Security Act 2000[^f00006], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-8be4e3c1a851ee8ddd3bf1eb5598a46a]
+## 1. Citation and commencement[^c-8be4e3c1a851ee8ddd3bf1eb5598a46a]
 
 These Regulations may be cited as the Social Security (Breach of Community Order) (Consequential Amendments) Regulations 2001 and shall come into force on 15th October 2001.
 
-## 2. Consequential amendments[^key-6fd54b951208d6906670d0aec4b518e1]
+## 2. Consequential amendments[^c-6fd54b951208d6906670d0aec4b518e1]
 
-(1)[^key-edcbca72ebb1155c5b6b2bbdceac5ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-edcbca72ebb1155c5b6b2bbdceac5ce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00009]—
 
@@ -113,11 +113,11 @@ These Regulations may be cited as the Social Security (Breach of Community Order
 
 .
 
-(6 (Extent: E) (affected by repeal, see note))[^key-26971b9664b79a366836fe2081dd2831] At the end of regulation 3 of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-26971b9664b79a366836fe2081dd2831][^f00014] (circumstances in which discretionary housing payments may be made), there shall be added the following paragraph— *(Extent: E)* *(affected by repeal, see note)*[^key-26971b9664b79a366836fe2081dd2831]
+(6 (Extent: E) (affected by repeal, see note))[^c-26971b9664b79a366836fe2081dd2831] At the end of regulation 3 of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^c-26971b9664b79a366836fe2081dd2831][^f00014] (circumstances in which discretionary housing payments may be made), there shall be added the following paragraph— *(Extent: E)* *(affected by repeal, see note)*[^c-26971b9664b79a366836fe2081dd2831]
 
-> - (l (Extent: E) (affected by repeal, see note))[^key-26971b9664b79a366836fe2081dd2831] a restriction in relation to the payment of benefit imposed pursuant to section 62 or 63 of the Child Support, Pensions and Social Security Act 2000 (loss of benefit provisions) *(Extent: E)* *(affected by repeal, see note)*[^key-26971b9664b79a366836fe2081dd2831]
+> - (l (Extent: E) (affected by repeal, see note))[^c-26971b9664b79a366836fe2081dd2831] a restriction in relation to the payment of benefit imposed pursuant to section 62 or 63 of the Child Support, Pensions and Social Security Act 2000 (loss of benefit provisions) *(Extent: E)* *(affected by repeal, see note)*[^c-26971b9664b79a366836fe2081dd2831]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-26971b9664b79a366836fe2081dd2831]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-26971b9664b79a366836fe2081dd2831]
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -161,11 +161,11 @@ These Regulations do not impose a charge on business.
 
 [^f00006]: Footnote: Section 73 of that Act added sections 62 to 65 of that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee. *See* however section 173(5)(a) of the Social Security Administration Act 1992.
 
-[^key-8be4e3c1a851ee8ddd3bf1eb5598a46a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/1711/regulation/1) in force at 15.10.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1711/regulation/1)
+[^c-8be4e3c1a851ee8ddd3bf1eb5598a46a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/1711/regulation/1) in force at 15.10.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1711/regulation/1)
 
-[^key-6fd54b951208d6906670d0aec4b518e1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/1711/regulation/2) in force at 15.10.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1711/regulation/1)
+[^c-6fd54b951208d6906670d0aec4b518e1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/1711/regulation/2) in force at 15.10.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1711/regulation/1)
 
-[^key-edcbca72ebb1155c5b6b2bbdceac5ce4]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1711/regulation/2/1) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-edcbca72ebb1155c5b6b2bbdceac5ce4]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/1711/regulation/2/1) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^f00009]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); the relevant amending instruments are [S.I. 1999/1623](https://www.legislation.gov.uk/uksi/1999/1623) and [2677](https://www.legislation.gov.uk/uksi/1999/2677) and [2000/897](https://www.legislation.gov.uk/uksi/2000/897), [1596](https://www.legislation.gov.uk/uksi/2000/1596) and [1982](https://www.legislation.gov.uk/uksi/2000/1982).
 
@@ -177,6 +177,6 @@ These Regulations do not impose a charge on business.
 
 [^f00013]: Footnote: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556); regulation 8A was inserted by [S.I. 1996/2367](https://www.legislation.gov.uk/uksi/1996/2367).
 
-[^key-26971b9664b79a366836fe2081dd2831]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2001/1711/regulation/2/6) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-26971b9664b79a366836fe2081dd2831]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2001/1711/regulation/2/6) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^f00014]: Footnote: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167).

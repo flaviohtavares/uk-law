@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Restrictions on right to appeal against enforcement notice[^c22543021][^key-c3e22935148d044c2e50bbd11ca8ddd8]
+## 46. Restrictions on right to appeal against enforcement notice[^c22543021][^c-c3e22935148d044c2e50bbd11ca8ddd8]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ In section 174 of TCPA 1990 (appeal against enforcement notice), after subsectio
 
 [^c22543021]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2015/4/section/46) partly in force; [s. 46](https://www.legislation.gov.uk/anaw/2015/4/section/46) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-c3e22935148d044c2e50bbd11ca8ddd8]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2015/4/section/46) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(c)](https://www.legislation.gov.uk/wsi/2016/52/article/5/c) (with [art. 14](https://www.legislation.gov.uk/wsi/2016/52/article/14))
+[^c-c3e22935148d044c2e50bbd11ca8ddd8]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2015/4/section/46) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(c)](https://www.legislation.gov.uk/wsi/2016/52/article/5/c) (with [art. 14](https://www.legislation.gov.uk/wsi/2016/52/article/14))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Informal correction of document[^key-c840b125cbd37e1eae37646cd00077c5][^key-02e82a17e9aa625ad3675962c5bfd5a4]
+## 80. Informal correction of document[^c-c840b125cbd37e1eae37646cd00077c5][^c-02e82a17e9aa625ad3675962c5bfd5a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c840b125cbd37e1eae37646cd00077c5]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-c840b125cbd37e1eae37646cd00077c5]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-02e82a17e9aa625ad3675962c5bfd5a4]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/56/section/80) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z22)
+[^c-02e82a17e9aa625ad3675962c5bfd5a4]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/56/section/80) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z22)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 17(3) and (4) (g)
 
-### PART 1 — New Schedule 1A[^key-45d14838b851bbf407ac1eb9e93ac4d1]
+### PART 1 — New Schedule 1A[^c-45d14838b851bbf407ac1eb9e93ac4d1]
 
 > **SCHEDULE 1A — Converted EU marketing authorisations**
 >
@@ -49,21 +49,21 @@ Regulation 17(3) and (4) (g)
 > - (a) the holder of a converted EU marketing authorisation is subject to the annual fee as set out in paragraph 26 of Schedule 7;
 > - (b) a converted EU marketing authorisation is to be treated as having been granted in accordance with regulation 4(3) and Schedule 1 for the purposes of Regulation [(EC) No 469/2009](https://www.legislation.gov.uk/eur/2009/469).
 
-### PART 2 — Schedule 7, paragraph 15: new table[^key-d753444382156498b947f801a920ad12]
+### PART 2 — Schedule 7, paragraph 15: new table[^c-d753444382156498b947f801a920ad12]
 
 > Parallel imports
 >
 > | *Application* | *Fee (£)* |
 > | --- | --- |
-> | Application where the imported product is identical to a product which is authorised for sale in the United Kingdom[^key-b6cbebcfc579cc0bcde3fb00e8ea0f3f] | 2,130 |
+> | Application where the imported product is identical to a product which is authorised for sale in the United Kingdom[^c-b6cbebcfc579cc0bcde3fb00e8ea0f3f] | 2,130 |
 > | Application where the imported product is therapeutically similar to a product which is authorised for sale in the United Kingdom (can only be applied to imported products for non-food producing species) | 4,710 |
 
 ## Annotations
 
-[^key-45d14838b851bbf407ac1eb9e93ac4d1]: Commencement: Sch. 8 Pt. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-45d14838b851bbf407ac1eb9e93ac4d1]: Commencement: Sch. 8 Pt. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23716811]: Marginal citation: OJ No L 136, 30.4.2004, p 1, as last amended by Regulation (EU) No 1027/2012 (OJ No L 316, 14.11.2012, p 38).
 
-[^key-d753444382156498b947f801a920ad12]: Commencement: Sch. 8 Pt. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d753444382156498b947f801a920ad12]: Commencement: Sch. 8 Pt. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-b6cbebcfc579cc0bcde3fb00e8ea0f3f]: Textual amendment: Words in Sch. 8 Pt. 2 substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [2(4)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/2/4)
+[^c-b6cbebcfc579cc0bcde3fb00e8ea0f3f]: Textual amendment: Words in Sch. 8 Pt. 2 substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [2(4)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/2/4)

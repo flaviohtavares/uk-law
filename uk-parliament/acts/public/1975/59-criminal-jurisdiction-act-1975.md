@@ -106,7 +106,7 @@ shall be guilty of an offence if he escapes from any legal custody in which he i
 
 (2) An extra-territorial offence shall not be tried summarily.
 
-(3)[^key-92aba00a981050f493e9622680aef960] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-92aba00a981050f493e9622680aef960] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The further provisions concerning extra-territorial offences which are contained in Schedule 3 to this Act shall have effect.
 
@@ -182,7 +182,7 @@ shall constitute offences under the law of Northern Ireland whether committed in
 
 (2), (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c797677]
 
-### 10. Evidence on committal for trial.[^key-99d7382162abd9d04ebf83fd4c2a777b]
+### 10. Evidence on committal for trial.[^c-99d7382162abd9d04ebf83fd4c2a777b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -194,7 +194,7 @@ shall constitute offences under the law of Northern Ireland whether committed in
 
 *Extent: N.I.*
 
-(1) No proceedings shall be instituted for an extra-territorial offence except by or with the consent of the Advocate General for Northern Ireland[^key-0937a5c1db623e0efdb870afc569ab8c] .
+(1) No proceedings shall be instituted for an extra-territorial offence except by or with the consent of the Advocate General for Northern Ireland[^c-0937a5c1db623e0efdb870afc569ab8c] .
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c797680]
 
@@ -320,7 +320,7 @@ Section 1.
 
 #### Firearms
 
-**9.**[^key-dcd9ddd6196951c988cd0abf55e9e517] An offence under any of the following provisions of the Firearms (Northern Ireland) Order 2004—
+**9.**[^c-dcd9ddd6196951c988cd0abf55e9e517] An offence under any of the following provisions of the Firearms (Northern Ireland) Order 2004—
 
 - (i) Article 58(1) (possession of firearm or ammunition with intent to endanger life or cause serious damage to property);
 - (ii) Article 59(1) (use of firearm or imitation firearm with intent to resist arrest);
@@ -379,7 +379,7 @@ Section 4(4).
 
 ### Exclusion of Backing of Warrants (Republic of Ireland) Act 1965[^c797712]
 
-**1.**[^key-d8358d4476a1bfcea8c491492a9e1927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d8358d4476a1bfcea8c491492a9e1927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Right of accused to opt for trial in Republic of Ireland
 
@@ -578,7 +578,7 @@ Section 14(4)
 
 [^c797664]: Marginal citation: [1973 c. 53](https://www.legislation.gov.uk/ukpga/1973/53).
 
-[^key-92aba00a981050f493e9622680aef960]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1975/59/section/4/3) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/5); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-92aba00a981050f493e9622680aef960]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1975/59/section/4/3) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/5); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c797668]: Textual amendment: “level 4 on the standard scale” substituted (N.I.) for “£200” by virtue of [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [arts. 5](https://www.legislation.gov.uk/nisi/1984/703/article/5), [6](https://www.legislation.gov.uk/nisi/1984/703/article/6)
 
@@ -598,9 +598,9 @@ Section 14(4)
 
 [^c797677]: Textual amendment: [S. 9(2)(3)](https://www.legislation.gov.uk/ukpga/1975/59/section/9/2/3) repealed by [S.I. 1979/1714](https://www.legislation.gov.uk/uksi/1979/1714), [Sch. 2](https://www.legislation.gov.uk/uksi/1979/1714/schedule/2)
 
-[^key-99d7382162abd9d04ebf83fd4c2a777b]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1975/59/section/10) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/5); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-99d7382162abd9d04ebf83fd4c2a777b]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1975/59/section/10) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/5); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-0937a5c1db623e0efdb870afc569ab8c]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/ukpga/1975/59/section/11) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/28); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
+[^c-0937a5c1db623e0efdb870afc569ab8c]: Textual amendment: Words in [s. 11](https://www.legislation.gov.uk/ukpga/1975/59/section/11) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/28); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
 
 [^c797680]: Textual amendment: S. 11(2) repealed by [S.I. 1980/704](https://www.legislation.gov.uk/uksi/1980/704), (N.I. 6), Sch. 2
 
@@ -634,7 +634,7 @@ Section 14(4)
 
 [^c797699]: Marginal citation: [1883 c. 3](https://www.legislation.gov.uk/ukpga/1883/3).
 
-[^key-dcd9ddd6196951c988cd0abf55e9e517]: Textual amendment: Sch. 1 para. 9 substituted (1.2.2005) by [The Firearms (Northern Ireland) Order 2004 (S.I. 2004/702) (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702), [art. 1(3)](https://www.legislation.gov.uk/nisi/2004/702/article/1/3) , [Sch. 7 para. 1](https://www.legislation.gov.uk/nisi/2004/702/schedule/7/paragraph/1) (with [art. 81](https://www.legislation.gov.uk/nisi/2004/702/article/81) ); [S.R. 2005/4](https://www.legislation.gov.uk/nisr/2005/4) , [art. 3](https://www.legislation.gov.uk/nisr/2005/4/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/nisr/2005/4/article/4) )
+[^c-dcd9ddd6196951c988cd0abf55e9e517]: Textual amendment: Sch. 1 para. 9 substituted (1.2.2005) by [The Firearms (Northern Ireland) Order 2004 (S.I. 2004/702) (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702), [art. 1(3)](https://www.legislation.gov.uk/nisi/2004/702/article/1/3) , [Sch. 7 para. 1](https://www.legislation.gov.uk/nisi/2004/702/schedule/7/paragraph/1) (with [art. 81](https://www.legislation.gov.uk/nisi/2004/702/article/81) ); [S.R. 2005/4](https://www.legislation.gov.uk/nisr/2005/4) , [art. 3](https://www.legislation.gov.uk/nisr/2005/4/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/nisr/2005/4/article/4) )
 
 [^c797701]: Marginal citation: [1969 c. 16 (N.I.)](https://www.legislation.gov.uk/apni/1969/16)
 
@@ -660,7 +660,7 @@ Section 14(4)
 
 [^c797712]: Marginal citation: [1965 c. 45](https://www.legislation.gov.uk/ukpga/1965/45).
 
-[^key-d8358d4476a1bfcea8c491492a9e1927]: Textual amendment: Sch. 3 para. 1 repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
+[^c-d8358d4476a1bfcea8c491492a9e1927]: Textual amendment: Sch. 3 para. 1 repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended (11.12.2003) by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), art. 2 and (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
 
 [^c797714]: Textual amendment: [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/1975/59/schedule/3/paragraph/2/2) beginning with the words “If at the time ...” substituted (N.I) for para. 2(2) substituted by [Suppression of Terrorism Act 1978 (c. 26, SIF 48)](https://www.legislation.gov.uk/ukpga/1978/26), [s. 6](https://www.legislation.gov.uk/ukpga/1978/26/section/6)
 

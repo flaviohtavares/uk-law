@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Withdrawal of application: termination of orders etc. by Principal Reporter[^key-ff42104cddbd7069d73cd07814201b76]
+## 107. Withdrawal of application: termination of orders etc. by Principal Reporter[^c-ff42104cddbd7069d73cd07814201b76]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff42104cddbd7069d73cd07814201b76]: Commencement: S. 107 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-ff42104cddbd7069d73cd07814201b76]: Commencement: S. 107 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

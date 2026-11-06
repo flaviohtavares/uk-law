@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Financial services compensation scheme[^key-fbb24b8e97f91f755145f5c13ec9c1c7]
+## 62. Financial services compensation scheme[^c-fbb24b8e97f91f755145f5c13ec9c1c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbb24b8e97f91f755145f5c13ec9c1c7]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/29/section/62) in force at 29.8.2023, see [s. 86(2)(h)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/h)
+[^c-fbb24b8e97f91f755145f5c13ec9c1c7]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/29/section/62) in force at 29.8.2023, see [s. 86(2)(h)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/h)

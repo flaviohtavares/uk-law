@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30A. Duty of landlord to provide certain information[^key-6c0ca3ccb7cab153ad92c2f8508ca0bd]
+## 30A. Duty of landlord to provide certain information[^c-6c0ca3ccb7cab153ad92c2f8508ca0bd]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c0ca3ccb7cab153ad92c2f8508ca0bd]: Textual amendment: Ss. 30A, 30B inserted (31.8.2011 for specified purposes, 1.5.2013 in so far as not already in force) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 33](https://www.legislation.gov.uk/asp/2011/14/section/33), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule); [S.S.I. 2013/19](https://www.legislation.gov.uk/ssi/2013/19), [art. 2](https://www.legislation.gov.uk/ssi/2013/19/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/19/article/3))
+[^c-6c0ca3ccb7cab153ad92c2f8508ca0bd]: Textual amendment: Ss. 30A, 30B inserted (31.8.2011 for specified purposes, 1.5.2013 in so far as not already in force) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 33](https://www.legislation.gov.uk/asp/2011/14/section/33), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule); [S.S.I. 2013/19](https://www.legislation.gov.uk/ssi/2013/19), [art. 2](https://www.legislation.gov.uk/ssi/2013/19/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/19/article/3))

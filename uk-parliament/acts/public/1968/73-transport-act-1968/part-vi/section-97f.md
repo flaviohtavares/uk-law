@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97F. Downloading data: requirement imposed by an officer[^key-e330be0867afc24c41c40e53132dbb3c]
+## 97F. Downloading data: requirement imposed by an officer[^c-e330be0867afc24c41c40e53132dbb3c]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where—
 
 - (a) an officer has reason to believe that an offence under this Part of this Act or under the Traffic Acts has been committed in respect of the use of a vehicle, and
-- (b) article 10(5) of the Community Drivers’ Hours Regulation or article 11(2)(b) of the Annex to the AETR[^key-bb7519b9f508335bfc005aa1cef860ac] applies to a transport undertaking in respect of the vehicle unit in the vehicle or a driver card issued to a person who has driven the vehicle.
+- (b) article 10(5) of the Community Drivers’ Hours Regulation or article 11(2)(b) of the Annex to the AETR[^c-bb7519b9f508335bfc005aa1cef860ac] applies to a transport undertaking in respect of the vehicle unit in the vehicle or a driver card issued to a person who has driven the vehicle.
 
 (2) The officer may, on production if so required of his authority, require the undertaking without delay—
 
@@ -32,13 +32,13 @@ summary: ''
 
 (3) In this section—
 
-- (a) “download” is to be construed in accordance with the definition of “downloading” in Article 2(2)(n) of the[^key-4aadc6256ae740b8930fe2460796415b] EU Tachographs Regulation;
+- (a) “download” is to be construed in accordance with the definition of “downloading” in Article 2(2)(n) of the[^c-4aadc6256ae740b8930fe2460796415b] EU Tachographs Regulation;
 - (b) “the Traffic Acts” has the meaning given in section 192(1) of the Road Traffic Act 1988.
 
 ## Annotations
 
-[^key-e330be0867afc24c41c40e53132dbb3c]: Textual amendment: Ss. 97C-97H inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/198/regulation/2)
+[^c-e330be0867afc24c41c40e53132dbb3c]: Textual amendment: Ss. 97C-97H inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/198/regulation/2)
 
-[^key-bb7519b9f508335bfc005aa1cef860ac]: Textual amendment: Words in [s. 97F(1)(b)](https://www.legislation.gov.uk/ukpga/1968/73/section/97F/1/b) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/453/regulation/11)
+[^c-bb7519b9f508335bfc005aa1cef860ac]: Textual amendment: Words in [s. 97F(1)(b)](https://www.legislation.gov.uk/ukpga/1968/73/section/97F/1/b) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/453/regulation/11)
 
-[^key-4aadc6256ae740b8930fe2460796415b]: Textual amendment: Words in [s. 97F(3)](https://www.legislation.gov.uk/ukpga/1968/73/section/97F/3) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/248/regulation/7)
+[^c-4aadc6256ae740b8930fe2460796415b]: Textual amendment: Words in [s. 97F(3)](https://www.legislation.gov.uk/ukpga/1968/73/section/97F/3) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/248/regulation/7)

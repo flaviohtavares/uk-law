@@ -97,7 +97,7 @@ Section 70(4).
 - (a) if held in Scotland, shall be treated as one held by the Secretary of State in pursuance of a duty imposed by a statutory provision, and
 - (b) if held in England, shall be treated as one held by the Secretary of State for Transport[^c950522] in pursuance of a duty so imposed.
 
-(4A)[^key-df049ca1d0038a28505f0b90a9816b08] [^key-dca1dbcfac1264036cf5cda27629afe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-df049ca1d0038a28505f0b90a9816b08] [^c-dca1dbcfac1264036cf5cda27629afe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subsections (4) to (13) of section 265 shall apply to a local inquiry held by a joint commission in Scotland as they apply to an inquiry held under that section.
 
@@ -130,9 +130,9 @@ Section 70(4).
 
 [^c950522]: Textual amendment: Words in Sch. 7 para. 8(4)(b) substituted (25.11.2002) by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), [art. 20](https://www.legislation.gov.uk/uksi/2002/2626/article/20), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2002/2626/schedule/2/paragraph/22)
 
-[^key-df049ca1d0038a28505f0b90a9816b08]: Textual amendment: Sch. 7 para. 8(4A) inserted (1.11.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 51](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/51); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/i)
+[^c-df049ca1d0038a28505f0b90a9816b08]: Textual amendment: Sch. 7 para. 8(4A) inserted (1.11.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 51](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/51); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/i)
 
-[^key-dca1dbcfac1264036cf5cda27629afe7]: Textual amendment: Sch. 7 para. 8(4A) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/17/b)
+[^c-dca1dbcfac1264036cf5cda27629afe7]: Textual amendment: Sch. 7 para. 8(4A) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/17/b)
 
 [^c950523]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

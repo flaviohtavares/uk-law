@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Other young persons in prescribed circumstances[^key-fe2b44025a57ad9020b109e6e77e7b81]
+## 61. Other young persons in prescribed circumstances[^c-fe2b44025a57ad9020b109e6e77e7b81]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe2b44025a57ad9020b109e6e77e7b81]: Commencement: Reg. 61 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-fe2b44025a57ad9020b109e6e77e7b81]: Commencement: Reg. 61 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00058]: Footnote: Section 123(1)(e) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705))

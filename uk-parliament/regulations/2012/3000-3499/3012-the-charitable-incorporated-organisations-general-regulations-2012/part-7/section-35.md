@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Notice of resolutions to be proposed at a general meeting[^key-2322f39a293984ce9ecb11c9fae9c9e9]
+## 35. Notice of resolutions to be proposed at a general meeting[^c-2322f39a293984ce9ecb11c9fae9c9e9]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2322f39a293984ce9ecb11c9fae9c9e9]: Commencement: Reg. 35 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-2322f39a293984ce9ecb11c9fae9c9e9]: Commencement: Reg. 35 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
 [^f00009]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).

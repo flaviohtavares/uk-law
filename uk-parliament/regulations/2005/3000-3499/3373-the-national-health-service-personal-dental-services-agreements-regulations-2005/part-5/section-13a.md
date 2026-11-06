@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13A. Required number of urgent treatments[^key-cb12bab3c2afa65e9681e89b8fd203a9]
+## 13A. Required number of urgent treatments[^c-cb12bab3c2afa65e9681e89b8fd203a9]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ where—
 
 (5) Any reduction by NHS England in the required number of urgent treatments under paragraph (3) must be communicated to the relevant contractor in writing.
 
-(6) If the RCV is adjusted at any time in the financial year, except as a result of an annual uprating to the contract value as determined by the Secretary of State,[^key-77b2a5a191bd6667f8cacbbd6061139c] the required number of treatments under paragraph (1) must be recalculated in accordance with paragraph (2) and adjusted accordingly.
+(6) If the RCV is adjusted at any time in the financial year, except as a result of an annual uprating to the contract value as determined by the Secretary of State,[^c-77b2a5a191bd6667f8cacbbd6061139c] the required number of treatments under paragraph (1) must be recalculated in accordance with paragraph (2) and adjusted accordingly.
 
 (7) In this regulation—
 
@@ -51,12 +51,12 @@ where—
   - (c) a pre-2006 child-only contractor;
   - (d) a contractor who only provides either or both of the following—
     - (i) dental public health services;
-    - (ii) dental services in a secure and detained estate[^key-76ecc76f444a272b21b1af76572fd9f2].
+    - (ii) dental services in a secure and detained estate[^c-76ecc76f444a272b21b1af76572fd9f2].
 
 ## Annotations
 
-[^key-cb12bab3c2afa65e9681e89b8fd203a9]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2005/3373/regulation/13A) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/265/regulation/10)
+[^c-cb12bab3c2afa65e9681e89b8fd203a9]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2005/3373/regulation/13A) inserted (1.4.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) Regulations 2026 (S.I. 2026/265)](https://www.legislation.gov.uk/uksi/2026/265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/265/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/265/regulation/10)
 
-[^key-77b2a5a191bd6667f8cacbbd6061139c]: Textual amendment: Words in [reg. 13A(6)](https://www.legislation.gov.uk/uksi/2005/3373/regulation/13A/6) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/554/regulation/15)
+[^c-77b2a5a191bd6667f8cacbbd6061139c]: Textual amendment: Words in [reg. 13A(6)](https://www.legislation.gov.uk/uksi/2005/3373/regulation/13A/6) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/554/regulation/15)
 
-[^key-76ecc76f444a272b21b1af76572fd9f2]: Textual amendment: Words in [reg. 13A(7)](https://www.legislation.gov.uk/uksi/2005/3373/regulation/17A/7/d/ii) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/13/2/b)
+[^c-76ecc76f444a272b21b1af76572fd9f2]: Textual amendment: Words in [reg. 13A(7)](https://www.legislation.gov.uk/uksi/2005/3373/regulation/17A/7/d/ii) substituted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2026/554/regulation/13/2/b)

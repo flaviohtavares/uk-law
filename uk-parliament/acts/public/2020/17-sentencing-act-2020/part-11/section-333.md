@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333. Requirements included in orders[^key-cb90573c5be42bf7a2bee827760a737d]
+## 333. Requirements included in orders[^c-cb90573c5be42bf7a2bee827760a737d]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ These obligations have effect as requirements of the order.
 
 ## Annotations
 
-[^key-cb90573c5be42bf7a2bee827760a737d]: Commencement: [S. 333](https://www.legislation.gov.uk/ukpga/2020/17/section/333) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cb90573c5be42bf7a2bee827760a737d]: Commencement: [S. 333](https://www.legislation.gov.uk/ukpga/2020/17/section/333) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

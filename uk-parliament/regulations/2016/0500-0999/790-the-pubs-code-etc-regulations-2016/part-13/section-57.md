@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Void or unenforceable terms of a tenancy or licence[^key-a3c535b3c2754a9956cd962ae024bd36]
+## 57. Void or unenforceable terms of a tenancy or licence[^c-a3c535b3c2754a9956cd962ae024bd36]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3c535b3c2754a9956cd962ae024bd36]: Commencement: Reg. 57 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-a3c535b3c2754a9956cd962ae024bd36]: Commencement: Reg. 57 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00026]: Footnote: Section 72(1) of SBEEA 2015 defines “arbitration agreement”.

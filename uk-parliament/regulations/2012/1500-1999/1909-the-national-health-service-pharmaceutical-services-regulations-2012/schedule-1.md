@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Information to be contained in pharmaceutical needs assessments[^key-81b85aa034d40da87d71a3093c19ff17]
+## SCHEDULE 1 — Information to be contained in pharmaceutical needs assessments[^c-81b85aa034d40da87d71a3093c19ff17]
 
 *Extent: E+W*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Regulation 4(1)
 
-### 1. Necessary services: current provision[^key-81b85aa034d40da87d71a3093c19ff17]
+### 1. Necessary services: current provision[^c-81b85aa034d40da87d71a3093c19ff17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Necessary services: gaps in provision[^key-81b85aa034d40da87d71a3093c19ff17]
+### 2. Necessary services: gaps in provision[^c-81b85aa034d40da87d71a3093c19ff17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Other relevant services: current provision[^key-81b85aa034d40da87d71a3093c19ff17]
+### 3. Other relevant services: current provision[^c-81b85aa034d40da87d71a3093c19ff17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Improvements and better access: gaps in provision[^key-81b85aa034d40da87d71a3093c19ff17]
+### 4. Improvements and better access: gaps in provision[^c-81b85aa034d40da87d71a3093c19ff17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Other NHS services[^key-81b85aa034d40da87d71a3093c19ff17]
+### 5. Other NHS services[^c-81b85aa034d40da87d71a3093c19ff17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. How the assessment was carried out[^key-81b85aa034d40da87d71a3093c19ff17]
+### 6. How the assessment was carried out[^c-81b85aa034d40da87d71a3093c19ff17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Map of provision[^key-81b85aa034d40da87d71a3093c19ff17]
+### 7. Map of provision[^c-81b85aa034d40da87d71a3093c19ff17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-81b85aa034d40da87d71a3093c19ff17]: Textual amendment: Regulations revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 11(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/11/1/a) (with [Sch. 9](https://www.legislation.gov.uk/uksi/2013/349/schedule/9))
+[^c-81b85aa034d40da87d71a3093c19ff17]: Textual amendment: Regulations revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 11(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/11/1/a) (with [Sch. 9](https://www.legislation.gov.uk/uksi/2013/349/schedule/9))

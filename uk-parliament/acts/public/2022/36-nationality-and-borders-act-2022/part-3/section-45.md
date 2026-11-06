@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Maritime enforcement[^key-9d040f90adf43dd2eb9796d65fd79a73][^key-7db9804e8f276e17a211dcfcc9ef088e]
+## 45. Maritime enforcement[^c-9d040f90adf43dd2eb9796d65fd79a73][^c-7db9804e8f276e17a211dcfcc9ef088e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 7 contains amendments to Part 3A of the Immigration Act 1971 (maritime 
 
 ## Annotations
 
-[^key-9d040f90adf43dd2eb9796d65fd79a73]: Commencement: S. 45 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-9d040f90adf43dd2eb9796d65fd79a73]: Commencement: S. 45 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-7db9804e8f276e17a211dcfcc9ef088e]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/36/section/45) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-7db9804e8f276e17a211dcfcc9ef088e]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/36/section/45) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))

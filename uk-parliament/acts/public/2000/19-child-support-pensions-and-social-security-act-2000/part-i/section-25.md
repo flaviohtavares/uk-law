@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Regulations.[^key-3c07eaf6227c07d314134139147eb1d2]
+## 25. Regulations.[^c-3c07eaf6227c07d314134139147eb1d2]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ In section 52 of the 1991 Act (regulations and orders), for subsection (2) there
 
 ## Annotations
 
-[^key-3c07eaf6227c07d314134139147eb1d2]: Commencement: s. 25 not in force at Royal Assent see s. 86(2); s. 25 in force for certain purposes at 10.11.2000 by [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2994/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2000/2994/schedule/part/I); s. 25 in force for certain further purposes at 3.3.2003 by [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule); s. 25 in force at 16.5.2014 in so far as not already in force by [S.I. 2014/1263](https://www.legislation.gov.uk/uksi/2014/1263), [art. 2](https://www.legislation.gov.uk/uksi/2014/1263/article/2)
+[^c-3c07eaf6227c07d314134139147eb1d2]: Commencement: s. 25 not in force at Royal Assent see s. 86(2); s. 25 in force for certain purposes at 10.11.2000 by [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2994/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2000/2994/schedule/part/I); s. 25 in force for certain further purposes at 3.3.2003 by [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule); s. 25 in force at 16.5.2014 in so far as not already in force by [S.I. 2014/1263](https://www.legislation.gov.uk/uksi/2014/1263), [art. 2](https://www.legislation.gov.uk/uksi/2014/1263/article/2)

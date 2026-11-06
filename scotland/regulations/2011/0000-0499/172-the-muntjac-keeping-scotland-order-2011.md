@@ -34,7 +34,7 @@ Animals
 
 Destructive Animals
 
-The Muntjac Keeping (Scotland) Order 2011 (revoked)[^key-89571667994dfe6d41360a9b4f46185b]
+The Muntjac Keeping (Scotland) Order 2011 (revoked)[^c-89571667994dfe6d41360a9b4f46185b]
 
 Approved by the Scottish Parliament
 
@@ -50,32 +50,32 @@ Coming into force
 
 1st July 2011
 
-[^key-89571667994dfe6d41360a9b4f46185b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89571667994dfe6d41360a9b4f46185b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-89571667994dfe6d41360a9b4f46185b]
+## 1. Title, commencement and extent[^c-89571667994dfe6d41360a9b4f46185b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-89571667994dfe6d41360a9b4f46185b]
+## 2. Interpretation[^c-89571667994dfe6d41360a9b4f46185b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Keeping of Muntjac[^key-89571667994dfe6d41360a9b4f46185b]
+## 3. Keeping of Muntjac[^c-89571667994dfe6d41360a9b4f46185b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Modification of the 1932 Act[^key-89571667994dfe6d41360a9b4f46185b]
+## 4. Modification of the 1932 Act[^c-89571667994dfe6d41360a9b4f46185b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-89571667994dfe6d41360a9b4f46185b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89571667994dfe6d41360a9b4f46185b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-89571667994dfe6d41360a9b4f46185b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89571667994dfe6d41360a9b4f46185b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-89571667994dfe6d41360a9b4f46185b]: Textual amendment: Order revoked (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Order 2012 (S.S.I. 2012/174)](https://www.legislation.gov.uk/ssi/2012/174), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1), [5](https://www.legislation.gov.uk/ssi/2012/174/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2012/174/schedule/2) (with [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 3](https://www.legislation.gov.uk/ssi/2012/175/article/3))
+[^c-89571667994dfe6d41360a9b4f46185b]: Textual amendment: Order revoked (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Order 2012 (S.S.I. 2012/174)](https://www.legislation.gov.uk/ssi/2012/174), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1), [5](https://www.legislation.gov.uk/ssi/2012/174/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2012/174/schedule/2) (with [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 3](https://www.legislation.gov.uk/ssi/2012/175/article/3))

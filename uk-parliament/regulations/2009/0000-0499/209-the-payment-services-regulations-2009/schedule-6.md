@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Amendments to primary and secondary legislation[^key-c2895bc6ddd587866ea113ab509df027]
+## SCHEDULE 6 — Amendments to primary and secondary legislation[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Regulation 126
 
-### PART 1 — Amendments to primary legislation[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 1 — Amendments to primary legislation[^c-c2895bc6ddd587866ea113ab509df027]
 
-#### 1. The 2000 Act[^key-c2895bc6ddd587866ea113ab509df027]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2 — Amendments to secondary legislation[^key-c2895bc6ddd587866ea113ab509df027]
-
-#### 2. The Cross Border Credit Transfer Regulations 1999[^key-c2895bc6ddd587866ea113ab509df027]
+#### 1. The 2000 Act[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. The Consumer Protection (Distance Selling) Regulations 2000[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 2 — Amendments to secondary legislation[^c-c2895bc6ddd587866ea113ab509df027]
+
+#### 2. The Cross Border Credit Transfer Regulations 1999[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-c2895bc6ddd587866ea113ab509df027]
+#### 3. The Consumer Protection (Distance Selling) Regulations 2000[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. The Financial Services (Distance Marketing) Regulations 2004[^key-c2895bc6ddd587866ea113ab509df027]
+#### 4. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. The Money Laundering Regulations 2007[^key-c2895bc6ddd587866ea113ab509df027]
+#### 5. The Financial Services (Distance Marketing) Regulations 2004[^c-c2895bc6ddd587866ea113ab509df027]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. The Money Laundering Regulations 2007[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2895bc6ddd587866ea113ab509df027]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/209) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-c2895bc6ddd587866ea113ab509df027]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/209) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

@@ -44,13 +44,13 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] makes these Regulations in exercise of the powers conferred by section 11 of, and paragraph 11M of Part 1C of Schedule 2 to the European Union (Withdrawal) Act 2018[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-c98ca81ef5d1b6032f5374e82df2361e]
+## 1. Citation, commencement and interpretation[^c-c98ca81ef5d1b6032f5374e82df2361e]
 
 (1) These Regulations may be cited as the Official Controls (Plant Protection Products) (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 30th November 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendments to the Official Controls (Plant Protection Products) Regulations (Northern Ireland) 2020[^key-7dcec385d879f862cd1e8f81686520e9][^f00004]
+## 2. Amendments to the Official Controls (Plant Protection Products) Regulations (Northern Ireland) 2020[^c-7dcec385d879f862cd1e8f81686520e9][^f00004]
 
 (1) The Official Controls (Plant Protection Products) Regulations (Northern Ireland) 2020 are amended as follows.
 
@@ -96,11 +96,11 @@ Regulation 2(3) inserts a new regulation 14A into the PPP Official Controls Regu
 
 [^f00002]: Footnote: “[2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16); Part 1C of Schedule 2 was inserted by section 22 of the European Union (Withdrawal Agreement) Act [2020 “(c.1)”](https://www.legislation.gov.uk/ukpga/2020/1) (the 2020 Act).
 
-[^key-c98ca81ef5d1b6032f5374e82df2361e]: Commencement: Reg. 1 in operation at 30.11.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/179/regulation/1/1)
+[^c-c98ca81ef5d1b6032f5374e82df2361e]: Commencement: Reg. 1 in operation at 30.11.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/179/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-7dcec385d879f862cd1e8f81686520e9]: Commencement: Reg. 2 in operation at 30.11.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/179/regulation/1/1)
+[^c-7dcec385d879f862cd1e8f81686520e9]: Commencement: Reg. 2 in operation at 30.11.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/179/regulation/1/1)
 
 [^f00004]: Footnote: [SR 2020 No. 360](https://www.legislation.gov.uk/nisr/2020/360).
 

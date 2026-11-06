@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Activity to which the CCTS applies and unit of measurement of activity[^key-47a2aae99ab19d3b85f61e662306a4ea]
+## 31. Activity to which the CCTS applies and unit of measurement of activity[^c-47a2aae99ab19d3b85f61e662306a4ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47a2aae99ab19d3b85f61e662306a4ea]: Commencement: Art. 31 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-47a2aae99ab19d3b85f61e662306a4ea]: Commencement: Art. 31 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

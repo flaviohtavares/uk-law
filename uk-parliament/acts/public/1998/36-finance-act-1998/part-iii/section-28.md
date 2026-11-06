@@ -22,8 +22,8 @@ summary: ''
 
 (1) Corporation tax shall be charged for the financial year 1998 at the rate of 31 per cent.
 
-(2)[^key-913ba8271f42c51a8dd14dc84b5dfef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-913ba8271f42c51a8dd14dc84b5dfef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-913ba8271f42c51a8dd14dc84b5dfef6]: Textual amendment: [S. 28(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/28/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-913ba8271f42c51a8dd14dc84b5dfef6]: Textual amendment: [S. 28(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/28/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

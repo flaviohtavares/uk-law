@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13E. Publication of local housing allowances[^key-43084bd6ff4d83ceb973fff661a73bd6]
+## 13E. Publication of local housing allowances[^c-43084bd6ff4d83ceb973fff661a73bd6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43084bd6ff4d83ceb973fff661a73bd6]: Textual amendment: Regs. 13C-13E inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2007/2868/regulation/7) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-43084bd6ff4d83ceb973fff661a73bd6]: Textual amendment: Regs. 13C-13E inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2007/2868/regulation/7) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))

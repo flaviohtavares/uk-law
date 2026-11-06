@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Accelerated detained appeals[^key-f3270a749f3753cace3755a9e87b1cb0]
+## 27. Accelerated detained appeals[^c-f3270a749f3753cace3755a9e87b1cb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3270a749f3753cace3755a9e87b1cb0]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 87(4)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/b)
+[^c-f3270a749f3753cace3755a9e87b1cb0]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 87(4)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/b)

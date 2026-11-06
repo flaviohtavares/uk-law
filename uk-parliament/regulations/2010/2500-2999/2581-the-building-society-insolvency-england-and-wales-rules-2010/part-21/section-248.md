@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 248. Disqualification from dividend[^key-3aed2a685a650b7075cb13e17f5e05ff]
+## 248. Disqualification from dividend[^c-3aed2a685a650b7075cb13e17f5e05ff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.10 of the 1986 Rules.
 
 ## Annotations
 
-[^key-3aed2a685a650b7075cb13e17f5e05ff]: Commencement: Rule 248 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3aed2a685a650b7075cb13e17f5e05ff]: Commencement: Rule 248 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

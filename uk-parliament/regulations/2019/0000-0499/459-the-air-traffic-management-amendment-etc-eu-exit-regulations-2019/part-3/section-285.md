@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 285. Article 11 of Commission Implementing Regulation (EU) No 1207/2011[^key-42818422b42ac74f36c24997345db4ce]
+## 285. Article 11 of Commission Implementing Regulation (EU) No 1207/2011[^c-42818422b42ac74f36c24997345db4ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 11 (verification of systems), in paragraph 2 for “a notified” sub
 
 ## Annotations
 
-[^key-42818422b42ac74f36c24997345db4ce]: Commencement: Reg. 285 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-42818422b42ac74f36c24997345db4ce]: Commencement: Reg. 285 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

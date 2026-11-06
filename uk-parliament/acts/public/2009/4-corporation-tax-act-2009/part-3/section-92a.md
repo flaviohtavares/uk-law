@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92A. Deductions in relation to salaried members[^key-9a42155e558ee7f8bb304123b3440337]
+## 92A. Deductions in relation to salaried members[^c-9a42155e558ee7f8bb304123b3440337]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a42155e558ee7f8bb304123b3440337]: Textual amendment: S. 92A and cross-heading inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 4(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/4/2), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)
+[^c-9a42155e558ee7f8bb304123b3440337]: Textual amendment: S. 92A and cross-heading inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 4(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/4/2), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)

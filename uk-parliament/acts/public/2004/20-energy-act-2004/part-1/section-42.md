@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Transfer of Nuclear Liabilities Investment Portfolio[^key-5ecfd4e91c889e64a5def0e3c0605998]
+## 42. Transfer of Nuclear Liabilities Investment Portfolio[^c-5ecfd4e91c889e64a5def0e3c0605998]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ and (in a case where there is no applicable direction) the Secretary of State mu
 
 ## Annotations
 
-[^key-5ecfd4e91c889e64a5def0e3c0605998]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2004/20/section/42) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-5ecfd4e91c889e64a5def0e3c0605998]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2004/20/section/42) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

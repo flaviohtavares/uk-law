@@ -39,7 +39,7 @@ summary: ''
 
 (2) For the purposes of this regulation the activity described in paragraph (a), (b), (c) or (d) of the definition of “new activity” in paragraph (1) is equivalent to the activity described in the paragraph bearing the same letter in the definition of “old activity” in paragraph (1).
 
-(3) If a person has a Part 4A permission to carry on an old activity immediately before 22nd July 2013 and that person continues to carry on that activity in relation to a UCITS on or after 22nd July 2013, the amendments to other enactments made by these Regulations or the Alternative Investment Fund Managers Order 2014[^key-44e64189550153bc8e924ea4f94b6e90] which relate to removal from the Regulated Activities Order of the specification of that old activity do not apply in respect of that person until the relevant date.
+(3) If a person has a Part 4A permission to carry on an old activity immediately before 22nd July 2013 and that person continues to carry on that activity in relation to a UCITS on or after 22nd July 2013, the amendments to other enactments made by these Regulations or the Alternative Investment Fund Managers Order 2014[^c-44e64189550153bc8e924ea4f94b6e90] which relate to removal from the Regulated Activities Order of the specification of that old activity do not apply in respect of that person until the relevant date.
 
 (4) Section 20(1) and (1A) of the Act (authorised persons acting without permission) does not apply to a person's carrying on of a new activity before the relevant date without a Part 4A permission to carry on that activity if the person continues to have a Part 4A permission to carry on the equivalent old activity in relation to a UCITS.
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44e64189550153bc8e924ea4f94b6e90]: Textual amendment: Words in reg. 78(3) inserted (16.6.2014) by [The Alternative Investment Fund Managers Order 2014 (S.I. 2014/1292)](https://www.legislation.gov.uk/uksi/2014/1292), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1292/article/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2014/1292/article/4/8) (as amended by [S.I. 2014/1313](https://www.legislation.gov.uk/uksi/2014/1313), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1313/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2014/1313/article/2/a))
+[^c-44e64189550153bc8e924ea4f94b6e90]: Textual amendment: Words in reg. 78(3) inserted (16.6.2014) by [The Alternative Investment Fund Managers Order 2014 (S.I. 2014/1292)](https://www.legislation.gov.uk/uksi/2014/1292), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1292/article/1/2), [4(8)](https://www.legislation.gov.uk/uksi/2014/1292/article/4/8) (as amended by [S.I. 2014/1313](https://www.legislation.gov.uk/uksi/2014/1313), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1313/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2014/1313/article/2/a))

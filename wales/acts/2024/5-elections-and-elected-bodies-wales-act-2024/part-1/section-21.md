@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Regulations: ancillary provision[^key-303d81a74017ae3d3d9072be33738bed]
+## 21. Regulations: ancillary provision[^c-303d81a74017ae3d3d9072be33738bed]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Pilot regulations and electoral reform regulations may—
 
 ## Annotations
 
-[^key-303d81a74017ae3d3d9072be33738bed]: Commencement: S. 21 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-303d81a74017ae3d3d9072be33738bed]: Commencement: S. 21 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

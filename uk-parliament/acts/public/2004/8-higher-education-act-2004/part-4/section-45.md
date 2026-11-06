@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Supply of information held by student support authority[^key-bd94d6e4af8ea15f5946c212582fe021]
+## 45. Supply of information held by student support authority[^c-bd94d6e4af8ea15f5946c212582fe021]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd94d6e4af8ea15f5946c212582fe021]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/8/section/45) in force at 14.1.2006 by [S.I. 2006/51](https://www.legislation.gov.uk/uksi/2006/51), [art. 2](https://www.legislation.gov.uk/uksi/2006/51/article/2)
+[^c-bd94d6e4af8ea15f5946c212582fe021]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/8/section/45) in force at 14.1.2006 by [S.I. 2006/51](https://www.legislation.gov.uk/uksi/2006/51), [art. 2](https://www.legislation.gov.uk/uksi/2006/51/article/2)

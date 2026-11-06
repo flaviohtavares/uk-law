@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. First-tier Tribunal's power to sanction failure to provide information[^key-caf2619d8d93d4b3ff07dd25f8b0c7e5]
+## 16. First-tier Tribunal's power to sanction failure to provide information[^c-caf2619d8d93d4b3ff07dd25f8b0c7e5]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ no application may be made in respect of that other duty.
 
 ## Annotations
 
-[^key-caf2619d8d93d4b3ff07dd25f8b0c7e5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/19/section/16) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-caf2619d8d93d4b3ff07dd25f8b0c7e5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/19/section/16) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

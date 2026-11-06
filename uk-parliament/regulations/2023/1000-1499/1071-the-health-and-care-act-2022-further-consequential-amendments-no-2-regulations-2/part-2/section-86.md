@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Amendment of the Education (Student Support) (Wales) Regulations 2017 (English language text)[^key-6aa2d771ea853d135c66a5d52f7029a4]
+## 86. Amendment of the Education (Student Support) (Wales) Regulations 2017 (English language text)[^c-6aa2d771ea853d135c66a5d52f7029a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6aa2d771ea853d135c66a5d52f7029a4]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2023/1071/regulation/86) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-6aa2d771ea853d135c66a5d52f7029a4]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2023/1071/regulation/86) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00071]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634); there are other amending instruments but none is relevant.

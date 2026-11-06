@@ -88,21 +88,21 @@ The Secretary of State, being the designated [^c15421601] Minister for the purpo
 
 (2) The fee payable on application for the approval described in column 1 of Schedule 3 shall be that specified in column 2 of that Schedule.
 
-## 5. Fees for various applications under regulation 8 of the Control of Asbestos Regulations 2006[^key-aaeb1711ba8b38310d4149ea700cc01c]
+## 5. Fees for various applications under regulation 8 of the Control of Asbestos Regulations 2006[^c-aaeb1711ba8b38310d4149ea700cc01c]
 
-(1) A fee shall be payable by the applicant to the Executive on each application for a licence under regulation 8 of the Control of Asbestos Regulations 2006 (“the[^key-3693dcb3533244c30cdce9ae857d6c3f] 2006 Regulations”).
+(1) A fee shall be payable by the applicant to the Executive on each application for a licence under regulation 8 of the Control of Asbestos Regulations 2006 (“the[^c-3693dcb3533244c30cdce9ae857d6c3f] 2006 Regulations”).
 
 (2) The fee payable on application for a licence described in column 1 of Table 1 in Schedule 4 shall be that specified in column 2 of that Table.
 
-(3) Where the Executive refuses to grant an applicant a licence under regulation 8 of the[^key-5209be80594bbf6dbc1cc9766615f17d] 2006 Regulations and offers to reassess whether to grant the application if shortcomings leading to the refusal are remedied, a fee shall be payable by the applicant to the Executive in respect of any such reassessment.
+(3) Where the Executive refuses to grant an applicant a licence under regulation 8 of the[^c-5209be80594bbf6dbc1cc9766615f17d] 2006 Regulations and offers to reassess whether to grant the application if shortcomings leading to the refusal are remedied, a fee shall be payable by the applicant to the Executive in respect of any such reassessment.
 
 (4) The fee payable for the reassessment referred to in paragraph (3) shall be that specified in column 1 of Table 2 in Schedule 4.
 
-(5) Where the Executive amends a licence granted under the Asbestos (Licensing) Regulations 1983 or regulation 8 of the[^key-c1c827e27b7e3338196cdc36175e3446] 2006 Regulations and the amendment relates to a condition or the duration of the licence, a fee shall be payable to the Executive by the licensee.
+(5) Where the Executive amends a licence granted under the Asbestos (Licensing) Regulations 1983 or regulation 8 of the[^c-c1c827e27b7e3338196cdc36175e3446] 2006 Regulations and the amendment relates to a condition or the duration of the licence, a fee shall be payable to the Executive by the licensee.
 
 (6) The fee payable under paragraph (5) shall be that specified in column 2 of Table 2 in Schedule 4.
 
-(7) Where the Executive replaces a lost licence granted under the Asbestos (Licensing) Regulations 1983 or regulation 8 of the[^key-6cdf5fd7fd67282955d7a1d854361d3e] 2006 Regulations or amends a licence granted under those Regulations for reasons other than those referred to in paragraph (5), a fee shall be payable to the Executive by the licensee.
+(7) Where the Executive replaces a lost licence granted under the Asbestos (Licensing) Regulations 1983 or regulation 8 of the[^c-6cdf5fd7fd67282955d7a1d854361d3e] 2006 Regulations or amends a licence granted under those Regulations for reasons other than those referred to in paragraph (5), a fee shall be payable to the Executive by the licensee.
 
 (8) The fee payable under paragraph (7) shall be that specified in column 3 of Table 2 in Schedule 4.
 
@@ -116,7 +116,7 @@ The Secretary of State, being the designated [^c15421601] Minister for the purpo
 - (b) the additional fee for X-rays shall be the amount specified in column 4 of that Schedule for that provision and shall cover all X-rays taken in connection with any one examination;
 - (c) the additional fee for laboratory tests shall be the amount specified in column 5 of that Schedule for that provision and shall cover all such tests carried out in connection with any one examination.
 
-(3) Where an employment medical adviser carries out a medical examination of a self-employed person for the purposes of the Control of Asbestos Regulations 2006[^key-07cd3be6cf4fa0d7c368910e2ae1981e], that self-employed person shall pay to the Executive fees ascertained in accordance with paragraph (2).
+(3) Where an employment medical adviser carries out a medical examination of a self-employed person for the purposes of the Control of Asbestos Regulations 2006[^c-07cd3be6cf4fa0d7c368910e2ae1981e], that self-employed person shall pay to the Executive fees ascertained in accordance with paragraph (2).
 
 ## 7. Fees for medical surveillance by an employment medical adviser under the Control of Lead at Work Regulations 2002
 
@@ -465,7 +465,7 @@ Regulation 4
 | *Subject matter* | *Fee* |
 | Approval of scheme or programme for examination of freight containers | £85 |
 
-## SCHEDULE 4 — FEES FOR VARIOUS APPLICATIONS UNDER REGULATION 8 OF THE CONTROL OF ASBESTOS REGULATIONS 2006[^key-31c965f96305de5045ac70fcba1fd7f7]
+## SCHEDULE 4 — FEES FOR VARIOUS APPLICATIONS UNDER REGULATION 8 OF THE CONTROL OF ASBESTOS REGULATIONS 2006[^c-31c965f96305de5045ac70fcba1fd7f7]
 
 Regulation 5
 
@@ -474,7 +474,7 @@ Table 1
 | *1* | *2* |
 | --- | --- |
 | *Subject matter of licence* | *Fee* |
-| Licence for work with asbestos [^key-6f75196b450b97b4c7505a814fffa54c]... or renewal of (original) licence | £1,023 |
+| Licence for work with asbestos [^c-6f75196b450b97b4c7505a814fffa54c]... or renewal of (original) licence | £1,023 |
 
 Table 2
 
@@ -491,7 +491,7 @@ Regulation 6
 | --- | --- | --- | --- | --- |
 | *Provision* | *Reference* | *Basic fee* | *Fee for X-Rays* | *Fee for Laboratory tests* |
 | - (a) The Ionising Radiations Regulations 1999 | S.I.1999/3232 | £34 where surveillance is confined to examination of, and making entries in, records £64 in other cases | £65 | £38 |
-| - (b)[^key-eb4a76f08ae6fb203d7027e448c99b15] The Control of Asbestos Regulations 2006 | S.I.2006/2739 | £64 | £65 | £38 |
+| - (b)[^c-eb4a76f08ae6fb203d7027e448c99b15] The Control of Asbestos Regulations 2006 | S.I.2006/2739 | £64 | £65 | £38 |
 | - (c) The Control of Substances Hazardous to Health 2002 | S.I.2002/2677 | £64 | £65 | £38 |
 | - (d) The Work in Compressed Air Regulations 1996 | S.I.1996/1656 | £64 | £65 | £38 |
 
@@ -1087,17 +1087,17 @@ and in respect of—
 
 [^c15421681]: Marginal citation: [S.I. 1984/1890](https://www.legislation.gov.uk/uksi/1984/1890), amended by [S.I. 1986/392](https://www.legislation.gov.uk/uksi/1986/392).
 
-[^key-aaeb1711ba8b38310d4149ea700cc01c]: Textual amendment: Words in reg. 5 heading substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
+[^c-aaeb1711ba8b38310d4149ea700cc01c]: Textual amendment: Words in reg. 5 heading substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
 
-[^key-3693dcb3533244c30cdce9ae857d6c3f]: Textual amendment: Words in reg. 5(1) substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
+[^c-3693dcb3533244c30cdce9ae857d6c3f]: Textual amendment: Words in reg. 5(1) substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
 
-[^key-5209be80594bbf6dbc1cc9766615f17d]: Textual amendment: Words in reg. 5(3) substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
+[^c-5209be80594bbf6dbc1cc9766615f17d]: Textual amendment: Words in reg. 5(3) substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
 
-[^key-c1c827e27b7e3338196cdc36175e3446]: Textual amendment: Words in reg. 5(5) substituted by virtue of (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
+[^c-c1c827e27b7e3338196cdc36175e3446]: Textual amendment: Words in reg. 5(5) substituted by virtue of (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
 
-[^key-6cdf5fd7fd67282955d7a1d854361d3e]: Textual amendment: Words in reg. 5(7) substituted by virtue of (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
+[^c-6cdf5fd7fd67282955d7a1d854361d3e]: Textual amendment: Words in reg. 5(7) substituted by virtue of (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
 
-[^key-07cd3be6cf4fa0d7c368910e2ae1981e]: Textual amendment: Words in reg. 6(3) substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
+[^c-07cd3be6cf4fa0d7c368910e2ae1981e]: Textual amendment: Words in reg. 6(3) substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
 
 [^c15421711]: Marginal citation: [S.I. 2002/2676](https://www.legislation.gov.uk/uksi/2002/2676), to which there are amendments not relevant to these Regulations.
 
@@ -1151,11 +1151,11 @@ and in respect of—
 
 [^c15421961]: Marginal citation: [S.I. 2005/3117](https://www.legislation.gov.uk/uksi/2005/3117).
 
-[^key-31c965f96305de5045ac70fcba1fd7f7]: Textual amendment: Words in Sch. 4 heading substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
+[^c-31c965f96305de5045ac70fcba1fd7f7]: Textual amendment: Words in Sch. 4 heading substituted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
 
-[^key-6f75196b450b97b4c7505a814fffa54c]: Textual amendment: Words in Sch. 4 deleted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
+[^c-6f75196b450b97b4c7505a814fffa54c]: Textual amendment: Words in Sch. 4 deleted (13.11.2006) by [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
 
-[^key-eb4a76f08ae6fb203d7027e448c99b15]: Textual amendment: Words in Sch. 5 substituted (13.11.2006) by virtue of [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
+[^c-eb4a76f08ae6fb203d7027e448c99b15]: Textual amendment: Words in Sch. 5 substituted (13.11.2006) by virtue of [The Control of Asbestos Regulations 2006 (S.I. 2006/2739)](https://www.legislation.gov.uk/uksi/2006/2739), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2739/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2006/2739/regulation/36/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/2739/schedule/5)
 
 [^c15421971]: Marginal citation: [1875 c. 17](https://www.legislation.gov.uk/ukpga/1875/17). Section 40 was repealed by [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082). By virtue of regulation 27(17) of that S.I., despite the repeal of section 40, paragraph (9) of that section (as it had effect before the commencement of Schedule 4 to [S.I. 1993/2714](https://www.legislation.gov.uk/uksi/1993/2714)) continues to apply to acetylene as it applied before the commencement of [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Arrangements with Northern Ireland Ministers[^key-5ca5e811ab75479d928fd4fe5a0a33df]
+## 74. Arrangements with Northern Ireland Ministers[^c-5ca5e811ab75479d928fd4fe5a0a33df]
 
 *Extent: E+W+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ca5e811ab75479d928fd4fe5a0a33df]: Commencement: S. 74 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/25)
+[^c-5ca5e811ab75479d928fd4fe5a0a33df]: Commencement: S. 74 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/25)

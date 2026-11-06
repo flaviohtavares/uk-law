@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 700. Timing of assessments ...[^key-e6e819886cbea47e13bdfa246818dd51]
+## 700. Timing of assessments ...[^c-e6e819886cbea47e13bdfa246818dd51]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if section 684 (person liable to counteraction of income tax advantage) applies to a person because the person is in a position to obtain or has obtained an income tax advantage by falling within the circumstances mentioned in section 685(2)(c) or (3)[^key-8e51087fb37dc8f0c6af46415101b684] when share capital is repaid.
+(1) This section applies if section 684 (person liable to counteraction of income tax advantage) applies to a person because the person is in a position to obtain or has obtained an income tax advantage by falling within the circumstances mentioned in section 685(2)(c) or (3)[^c-8e51087fb37dc8f0c6af46415101b684] when share capital is repaid.
 
 (2) An assessment to income tax made in accordance with a counteraction notice must be an assessment for the tax year in which the repayment occurs.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6e819886cbea47e13bdfa246818dd51]: Textual amendment: Words in s. 700 heading omitted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 5(b)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/5/b)
+[^c-e6e819886cbea47e13bdfa246818dd51]: Textual amendment: Words in s. 700 heading omitted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 5(b)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/5/b)
 
-[^key-8e51087fb37dc8f0c6af46415101b684]: Textual amendment: Words in s. 700(1) substituted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 5(a)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/5/a)
+[^c-8e51087fb37dc8f0c6af46415101b684]: Textual amendment: Words in s. 700(1) substituted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 5(a)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/5/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Charging orders[^key-7b6a680646782dbf75e2b47370b3557c]
+## 92. Charging orders[^c-7b6a680646782dbf75e2b47370b3557c]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b6a680646782dbf75e2b47370b3557c]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/14/section/92) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(f)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/f)
+[^c-7b6a680646782dbf75e2b47370b3557c]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2014/14/section/92) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(f)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/f)

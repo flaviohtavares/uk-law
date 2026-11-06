@@ -24,11 +24,11 @@ summary: ''
 
 - (a) the applicant—
   - (i) has complied with the requirements of regulation 38,
-  - (ii)[^key-8d730649a130ea13420349ec4306571d] has at his disposal—
+  - (ii)[^c-8d730649a130ea13420349ec4306571d] has at his disposal—
     - (aa) the services of staff, and
     - (bb) suitable and sufficient premises, technical equipment and control facilities,
 
-    complying with the requirements of Commission Directive [2003/94/EC](https://www.legislation.gov.uk/eudr/2003/94) in respect of Great Britain, or of Commission Delegated Regulation 2017/1569 in respect of Northern Ireland[^key-ea00be14bc93d2d0df0174a495620677], as regards the manufacture or import, and control, of the products to which the authorisation relates and the storage of such products,
+    complying with the requirements of Commission Directive [2003/94/EC](https://www.legislation.gov.uk/eudr/2003/94) in respect of Great Britain, or of Commission Delegated Regulation 2017/1569 in respect of Northern Ireland[^c-ea00be14bc93d2d0df0174a495620677], as regards the manufacture or import, and control, of the products to which the authorisation relates and the storage of such products,
   - (iii) has at his disposal the services of at least one qualified person, and
   - (iv) if a notice has been given under regulation 39(2), has provided the information requested by the licensing authority; and
 - (b) they have established that the particulars supplied pursuant to regulation 38(3) are accurate.
@@ -67,6 +67,6 @@ and the applicant requests the authority to state their reasons, the licensing a
 
 ## Annotations
 
-[^key-8d730649a130ea13420349ec4306571d]: Textual amendment: Reg. 40(1)(a)(ii) substituted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2006/1928/regulation/20)
+[^c-8d730649a130ea13420349ec4306571d]: Textual amendment: Reg. 40(1)(a)(ii) substituted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2006/1928/regulation/20)
 
-[^key-ea00be14bc93d2d0df0174a495620677]: Textual amendment: Words in reg. 40(1)(a)(ii) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2025/538/regulation/29)
+[^c-ea00be14bc93d2d0df0174a495620677]: Textual amendment: Words in reg. 40(1)(a)(ii) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2025/538/regulation/29)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17A. Statements of benefits: collective money purchase schemes[^key-24a77dca313c145e2c372eb5fb069812]
+## 17A. Statements of benefits: collective money purchase schemes[^c-24a77dca313c145e2c372eb5fb069812]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24a77dca313c145e2c372eb5fb069812]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2013/2734/regulation/17A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(6)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/6)
+[^c-24a77dca313c145e2c372eb5fb069812]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2013/2734/regulation/17A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(6)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/6)

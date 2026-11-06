@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Right of appeal to the Tribunal[^c19202551][^key-91a2462472b7a64b31b633b77367ad0e]
+## 82. Right of appeal to the Tribunal[^c19202551][^c-91a2462472b7a64b31b633b77367ad0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c19202551]: Modification: Ss. 82-99 restricted (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4) (with transitional provisions in arts. 3, 4, Sch. 2 (as amended by [S.I. 2003/1040](https://www.legislation.gov.uk/uksi/2003/1040), [S.I](https://www.legislation.gov.uk/uksi/2003/1040/section/I). 2003/1339 and [S.I. 2003/2993](https://www.legislation.gov.uk/uksi/2003/2993)))
 
-[^key-91a2462472b7a64b31b633b77367ad0e]: Textual amendment: S. 82 substituted (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2014/22/section/15/2), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/b) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+[^c-91a2462472b7a64b31b633b77367ad0e]: Textual amendment: S. 82 substituted (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2014/22/section/15/2), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/b) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.6. Release from duty to submit statement of affairs; extension of time[^key-637cb6290e7cebcf56e8d94a5df3cd33]
+## 3.6. Release from duty to submit statement of affairs; extension of time[^c-637cb6290e7cebcf56e8d94a5df3cd33]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ If such a report is filed, a copy of it shall be sent by the receiver to the dep
 
 ## Annotations
 
-[^key-637cb6290e7cebcf56e8d94a5df3cd33]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-637cb6290e7cebcf56e8d94a5df3cd33]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

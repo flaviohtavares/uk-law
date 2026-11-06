@@ -37,7 +37,7 @@ summary: ''
 
 [^c19667651]. . .
 
-(5)[^key-5c94c1c50b95726257cb05bee00b8b80] [^c18656801] Any acts required or authorised to be done by or with respect to the Chief Electoral Officer may, in the event of his absence from Northern Ireland or his incapacity to act or of a vacancy, be done by or with respect to a person temporarily appointed for the purpose by the Governor… [^c18656811]
+(5)[^c-5c94c1c50b95726257cb05bee00b8b80] [^c18656801] Any acts required or authorised to be done by or with respect to the Chief Electoral Officer may, in the event of his absence from Northern Ireland or his incapacity to act or of a vacancy, be done by or with respect to a person temporarily appointed for the purpose by the Governor… [^c18656811]
 
 (6) There shall be paid to the Chief Electoral Officer and to a person appointed under subsection (5) such remuneration and to or in respect of the service of a person who has been a Chief Electoral Officer such pension, allowances and gratuities by way of superannuation as may be determined by \[[^c18656781] the Secretary of State with the consent of the Minister for the Civil Service\].
 
@@ -57,7 +57,7 @@ summary: ''
 
 [^c19667651]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/apni/1962/14/section/14/4) repealed (16.10.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 30(1)(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/30/1/2), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3), [Sch. 4 para. 9(b)](https://www.legislation.gov.uk/ukpga/2006/33/schedule/4/paragraph/9/b), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/33/schedule/5); [S.I. 2006/2688](https://www.legislation.gov.uk/uksi/2006/2688), [art. 2(1)(2)(e)](https://www.legislation.gov.uk/uksi/2006/2688/article/2/1/2/e)
 
-[^key-5c94c1c50b95726257cb05bee00b8b80]: Modification: [S. 14(5)](https://www.legislation.gov.uk/apni/1962/14/section/14/5) modified (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/2/5); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-5c94c1c50b95726257cb05bee00b8b80]: Modification: [S. 14(5)](https://www.legislation.gov.uk/apni/1962/14/section/14/5) modified (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/2/5); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c18656801]: Textual amendment: App. (European Assembly), SI 1979/322
 

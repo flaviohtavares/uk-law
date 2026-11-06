@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Method of carriage of persons[^key-d4dcaa3c68545c7eab17e316c31f6f8d]
+## 62. Method of carriage of persons[^c-d4dcaa3c68545c7eab17e316c31f6f8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4dcaa3c68545c7eab17e316c31f6f8d]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2015/870/article/62) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-d4dcaa3c68545c7eab17e316c31f6f8d]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2015/870/article/62) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

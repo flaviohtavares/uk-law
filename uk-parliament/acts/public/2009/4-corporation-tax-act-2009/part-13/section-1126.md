@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1126. Software , data licences, cloud computing services or consumable items: attributable expenditure[^key-42da71d8fb3112c466a31698dbb49b26][^M_F_56a2d94a-1ea0-495d-b75b-2b638b49f8dc]
+## 1126. Software , data licences, cloud computing services or consumable items: attributable expenditure[^c-42da71d8fb3112c466a31698dbb49b26][^M_F_56a2d94a-1ea0-495d-b75b-2b638b49f8dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,11 +32,11 @@ summary: ''
 
 (6) The software , data licences, cloud computing services[^M_F_bf964c98-af54-4aae-fcab-7d1732a26ac3] or consumable items are not, as a result of their employment in the provision of those services, to be treated as themselves directly employed in those activities.
 
-(7)[^key-10eea0638ef25f84d8fcd762a32310de] This section is subject to sections 1126A and 1126B.
+(7)[^c-10eea0638ef25f84d8fcd762a32310de] This section is subject to sections 1126A and 1126B.
 
 ## Annotations
 
-[^key-42da71d8fb3112c466a31698dbb49b26]: Modification: Ss. 1126-1126B applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(d)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/d) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
+[^c-42da71d8fb3112c466a31698dbb49b26]: Modification: Ss. 1126-1126B applied (with modifications) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 357BLB(7)(d)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BLB/7/d) (as inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3))
 
 [^M_F_56a2d94a-1ea0-495d-b75b-2b638b49f8dc]: Textual amendment: Words in s. 1126 heading inserted (with effect in relation to accounting periods beginning on or after 1.4.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 1 paras. 3(4)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/3/4/a), [20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/20)
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^M_F_bf964c98-af54-4aae-fcab-7d1732a26ac3]: Textual amendment: Words in s. 1126(6) inserted (with effect in relation to accounting periods beginning on or after 1.4.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 1 paras. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/3/4/b), [20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/20)
 
-[^key-10eea0638ef25f84d8fcd762a32310de]: Textual amendment: S. 1126(7) inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 28(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/2)
+[^c-10eea0638ef25f84d8fcd762a32310de]: Textual amendment: S. 1126(7) inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 28(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/28/2)

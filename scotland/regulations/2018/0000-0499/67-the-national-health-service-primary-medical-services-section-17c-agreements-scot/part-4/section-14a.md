@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 14A. Requirement to provide vaccination services[^key-595e64774f347c98bf60b079db59b71c]
+## 14A. Requirement to provide vaccination services[^c-595e64774f347c98bf60b079db59b71c]
 
 (1) An agreement must include terms which have the same effect as paragraph 1 of schedule 3A.
 
@@ -25,4 +25,4 @@ summary: ''
 
 ## Annotations
 
-[^key-595e64774f347c98bf60b079db59b71c]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2018/67/regulation/14A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [14](https://www.legislation.gov.uk/ssi/2021/302/regulation/14)
+[^c-595e64774f347c98bf60b079db59b71c]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/ssi/2018/67/regulation/14A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [14](https://www.legislation.gov.uk/ssi/2021/302/regulation/14)

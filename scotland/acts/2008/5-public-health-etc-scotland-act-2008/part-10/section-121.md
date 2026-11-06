@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Form of applications etc.[^key-a1ec710891bc5fd368dbcc40a8156941]
+## 121. Form of applications etc.[^c-a1ec710891bc5fd368dbcc40a8156941]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may, by regulations, prescribe the form of any applicatio
 
 ## Annotations
 
-[^key-a1ec710891bc5fd368dbcc40a8156941]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2008/5/section/121) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-a1ec710891bc5fd368dbcc40a8156941]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2008/5/section/121) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)

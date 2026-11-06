@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30.3. Hearing of appeal (affected by repeal, see note)[^key-8ec9c96f8d31144d7c1a312e4b63dbd9][^key-f0b547b9fda9054e3bcfc93085b1a950][^key-f0b547b9fda9054e3bcfc93085b1a950]
+## 30.3. Hearing of appeal (affected by repeal, see note)[^c-8ec9c96f8d31144d7c1a312e4b63dbd9][^c-f0b547b9fda9054e3bcfc93085b1a950][^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 *Extent: S*
 
-(1) At the hearing, a party may only raise questions of law or procedural irregularities of which notice has not been given if the Court permits the party to do so. *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+(1) At the hearing, a party may only raise questions of law or procedural irregularities of which notice has not been given if the Court permits the party to do so. *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
-(2) Where the Court grants permission, it may do so on such conditions as to expenses or otherwise as the Court thinks fit. *(affected by repeal, see note)*[^key-f0b547b9fda9054e3bcfc93085b1a950]
+(2) Where the Court grants permission, it may do so on such conditions as to expenses or otherwise as the Court thinks fit. *(affected by repeal, see note)*[^c-f0b547b9fda9054e3bcfc93085b1a950]
 
 ## Annotations
 
-[^key-8ec9c96f8d31144d7c1a312e4b63dbd9]: Commencement: Rule 30.3 in force at 1.1.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2015/356/rule/1.1/2)
+[^c-8ec9c96f8d31144d7c1a312e4b63dbd9]: Commencement: Rule 30.3 in force at 1.1.2016, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2015/356/rule/1.1/2)
 
-[^key-f0b547b9fda9054e3bcfc93085b1a950]: Textual amendment: Rules revoked (with saving in [rule 34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3)) (6.1.2022) by [Act of Sederunt (Sheriff Appeal Court Rules) 2021 (S.S.I. 2021/468)](https://www.legislation.gov.uk/ssi/2021/468), [rules 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/rule/1.1/2), [34.1](https://www.legislation.gov.uk/ssi/2021/468/rule/34.1) (with [rules 1.2](https://www.legislation.gov.uk/ssi/2021/468/rule/1.2), [34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3))
+[^c-f0b547b9fda9054e3bcfc93085b1a950]: Textual amendment: Rules revoked (with saving in [rule 34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3)) (6.1.2022) by [Act of Sederunt (Sheriff Appeal Court Rules) 2021 (S.S.I. 2021/468)](https://www.legislation.gov.uk/ssi/2021/468), [rules 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/rule/1.1/2), [34.1](https://www.legislation.gov.uk/ssi/2021/468/rule/34.1) (with [rules 1.2](https://www.legislation.gov.uk/ssi/2021/468/rule/1.2), [34.3](https://www.legislation.gov.uk/ssi/2021/468/rule/34.3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Calculation of student income – student loans and postgraduate master’s degree loans[^key-e9e09f6977d8eff32bb5ec8b6867bf9b]
+## 60. Calculation of student income – student loans and postgraduate master’s degree loans[^c-e9e09f6977d8eff32bb5ec8b6867bf9b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9e09f6977d8eff32bb5ec8b6867bf9b]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2021/249/regulation/60) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-e9e09f6977d8eff32bb5ec8b6867bf9b]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2021/249/regulation/60) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

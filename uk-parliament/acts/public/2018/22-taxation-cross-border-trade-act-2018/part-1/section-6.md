@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Person liable to import duty[^c23428781][^key-2b4cd59dec8f57e9a2698197925b9584]
+## 6. Person liable to import duty[^c23428781][^c-2b4cd59dec8f57e9a2698197925b9584]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ and, in a case within paragraph (b) of this subsection, references to knowledge 
 
 [^c23428781]: Commencement: S. 6 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-2b4cd59dec8f57e9a2698197925b9584]: Commencement: S. 6 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-2b4cd59dec8f57e9a2698197925b9584]: Commencement: S. 6 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

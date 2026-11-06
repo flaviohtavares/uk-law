@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Article 3 of Commission Regulation [(EC) No 633/2007](https://www.legislation.gov.uk/eur/2007/633)[^key-472b96f84a1418caf4d896e03fb0a52c]
+## 115. Article 3 of Commission Regulation [(EC) No 633/2007](https://www.legislation.gov.uk/eur/2007/633)[^c-472b96f84a1418caf4d896e03fb0a52c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 3 (application of the flight message transfer protocol), in paragraph
 
 ## Annotations
 
-[^key-472b96f84a1418caf4d896e03fb0a52c]: Commencement: Reg. 115 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-472b96f84a1418caf4d896e03fb0a52c]: Commencement: Reg. 115 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

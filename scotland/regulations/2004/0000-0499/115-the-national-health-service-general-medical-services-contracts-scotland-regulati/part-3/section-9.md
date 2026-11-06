@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Pre-contract disputes[^key-2f4899cc150333a266d506a426b0f5b5]
+## 9. Pre-contract disputes[^c-2f4899cc150333a266d506a426b0f5b5]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f4899cc150333a266d506a426b0f5b5]: Commencement: Reg. 9 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-2f4899cc150333a266d506a426b0f5b5]: Commencement: Reg. 9 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

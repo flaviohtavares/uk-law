@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Her Majesty's Chief Inspector of Prisons[^key-908294044477f7c3fb7993f2451dc56d]
+## 28. Her Majesty's Chief Inspector of Prisons[^c-908294044477f7c3fb7993f2451dc56d]
 
 *Extent: E+W*
 
@@ -161,4 +161,4 @@ summary: ''
 
 ## Annotations
 
-[^key-908294044477f7c3fb7993f2451dc56d]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2006/48/section/28) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(m)](https://www.legislation.gov.uk/uksi/2007/709/article/3/m) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-908294044477f7c3fb7993f2451dc56d]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2006/48/section/28) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(m)](https://www.legislation.gov.uk/uksi/2007/709/article/3/m) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

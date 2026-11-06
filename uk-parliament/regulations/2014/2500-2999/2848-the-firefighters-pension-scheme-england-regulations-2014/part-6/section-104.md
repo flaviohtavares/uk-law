@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Adjustment of benefits to comply with FA 2004 where members die over 75[^key-5b071b11bdc1cbb78c60adb60e6b5f38]
+## 104. Adjustment of benefits to comply with FA 2004 where members die over 75[^c-5b071b11bdc1cbb78c60adb60e6b5f38]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b071b11bdc1cbb78c60adb60e6b5f38]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2014/2848/regulation/104) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-5b071b11bdc1cbb78c60adb60e6b5f38]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2014/2848/regulation/104) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

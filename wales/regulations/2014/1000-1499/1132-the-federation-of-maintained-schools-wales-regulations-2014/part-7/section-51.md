@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Delegation of functions to the chair or vice-chair in cases of urgency[^key-e37f788cb91f75fb3e6da8daec55e8b7]
+## 51. Delegation of functions to the chair or vice-chair in cases of urgency[^c-e37f788cb91f75fb3e6da8daec55e8b7]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ the reference in paragraph (1) to the chair is to read as if it were a reference
 
 ## Annotations
 
-[^key-e37f788cb91f75fb3e6da8daec55e8b7]: Commencement: Reg. 51 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-e37f788cb91f75fb3e6da8daec55e8b7]: Commencement: Reg. 51 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

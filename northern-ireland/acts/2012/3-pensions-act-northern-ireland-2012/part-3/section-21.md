@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Indexation requirements for cash balance benefits[^key-276fd0121d2042c9fadb38f04376c431]
+## 21. Indexation requirements for cash balance benefits[^c-276fd0121d2042c9fadb38f04376c431]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-276fd0121d2042c9fadb38f04376c431]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2012/3/section/21) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(f)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/f)
+[^c-276fd0121d2042c9fadb38f04376c431]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2012/3/section/21) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(f)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/f)

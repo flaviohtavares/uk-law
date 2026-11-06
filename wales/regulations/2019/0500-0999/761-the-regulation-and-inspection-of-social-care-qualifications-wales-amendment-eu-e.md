@@ -45,13 +45,13 @@ The Welsh Ministers in exercise of the powers conferred by paragraph 1(1) of Sch
 
 In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this instrument has been laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement, application and interpretation[^key-ac9245c12b559012dcb47491895ba83f]
+## 1. Title, commencement, application and interpretation[^c-ac9245c12b559012dcb47491895ba83f]
 
 (1) The title of these Regulations is the Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019.
 
-(2) [^key-67ce540b31ac4061bcf9020e7b132c31]... These Regulations come into force on exit day.
+(2) [^c-67ce540b31ac4061bcf9020e7b132c31]... These Regulations come into force on exit day.
 
-(3)[^key-6b4f102a4f1cb1066239526fb83ff25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6b4f102a4f1cb1066239526fb83ff25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) These Regulations apply in relation to Wales.
 
@@ -59,58 +59,58 @@ In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Amendments to legislation
 
-### 2. Amendments to the Regulation and Inspection of Social Care (Wales) Act 2016[^key-4b4c6a87e1c5593152a632aad5546d4e]
+### 2. Amendments to the Regulation and Inspection of Social Care (Wales) Act 2016[^c-4b4c6a87e1c5593152a632aad5546d4e]
 
 The 2016 Act is amended as follows.
 
-### 3.[^key-4eb482a13f9947f57b1518f4ddd92c3f]
+### 3.[^c-4eb482a13f9947f57b1518f4ddd92c3f]
 
 In section 66(1) (interpretation of Parts 3 to 8), omit the definitions of “exempt person”, “the General Systems Regulations”, “national”, “relevant European State”, “visiting European social care manager part” and “visiting European social worker part”[^c24093141].
 
-### 4.[^key-cecf05b379ecd800a88ce6a74a9e96fa]
+### 4.[^c-cecf05b379ecd800a88ce6a74a9e96fa]
 
 In section 74 (rules: fees) [^c24093151], omit subsection (3).
 
-### 5.[^key-096f9522f0f17efa6647eac6b5ab1353]
+### 5.[^c-096f9522f0f17efa6647eac6b5ab1353]
 
 In section 80 (the register) [^c24093161], omit subsections (1)(c) and (d), (2)(c) and (d), and (3)(c) and (d).
 
-### 6.[^key-03aa9fb8fbb7ce4d35d88c7aafebec88]
+### 6.[^c-03aa9fb8fbb7ce4d35d88c7aafebec88]
 
 In section 84 (“appropriately qualified”) [^c24093171], omit paragraph (aa)(ii).
 
-### 7.[^key-8b2cbcaebb5a6ffa51009b2ffc4c8888]
+### 7.[^c-8b2cbcaebb5a6ffa51009b2ffc4c8888]
 
 In section 85 (qualifications gained outside Wales – social workers) [^c24093181], omit subsection (1).
 
-### 8.[^key-3496e60df676fe14997b4601cb174c54]
+### 8.[^c-3496e60df676fe14997b4601cb174c54]
 
 Omit section 85A (qualifications gained outside Wales – social care managers) [^c24093191].
 
-### 9.[^key-9f3889d08e5c753f2dc60d2ce7e0c61e]
+### 9.[^c-9f3889d08e5c753f2dc60d2ce7e0c61e]
 
 Omit section 90 (visiting social workers from relevant European States) [^c24093201].
 
-### 10.[^key-d82f845a9e7fbe2c08e8d631f13e5e58]
+### 10.[^c-d82f845a9e7fbe2c08e8d631f13e5e58]
 
 Omit section 90A (visiting social care managers from relevant European States) [^c24093211].
 
-### 11.[^key-2eaece1f98ed4f54e986c5be2c5df544]
+### 11.[^c-2eaece1f98ed4f54e986c5be2c5df544]
 
 Omit section 105 (other appeals: decisions made under the General Systems Regulations) [^c24093221].
 
-### 12.[^key-98789e3bcba2ab34d0c0b62a4a925191]
+### 12.[^c-98789e3bcba2ab34d0c0b62a4a925191]
 
 In section 113 (continuing professional development), omit subsections (3) to (5) [^c24093231].
 
-### 13.[^key-56cad48729ba0b3332a6d582bd77b6a2]
+### 13.[^c-56cad48729ba0b3332a6d582bd77b6a2]
 
 In section 164 (meaning of “registered person” in Part 6) [^c24093241]—
 
 - (a) for “the social worker part, an added part” substitute “ the social worker part or an added part ”;
 - (b) omit “or the visiting European social worker part or visiting European social care manager part”.
 
-### 14.[^M_I_7a172abf-9bc8-4978-af99-93d13d5bcf07][^key-cca6453235265633c13baa3ee6de75ec]
+### 14.[^M_I_7a172abf-9bc8-4978-af99-93d13d5bcf07][^c-cca6453235265633c13baa3ee6de75ec]
 
 In Schedule 1 (regulated services: definitions), in paragraph 7(4) (advocacy services), for paragraph (b) substitute—
 
@@ -120,13 +120,13 @@ In Schedule 1 (regulated services: definitions), in paragraph 7(4) (advocacy ser
 >   - (iii) regulation 6 (transitional provision: the 2000 Regulations and Swiss lawyers) of the 2020 Regulations;
 >   - (iv) regulation 7 (transitional provision: the European Communities (Lawyer’s Practice) (Scotland) Regulations 2000 and Swiss lawyers) of the 2019 Regulations.
 
-### 15. Consequential amendment to the Mental Health Act 1983[^key-2c0351d3fb86d6def91f792f5f74f453]
+### 15. Consequential amendment to the Mental Health Act 1983[^c-2c0351d3fb86d6def91f792f5f74f453]
 
 In section 130H(7)(b) (independent mental health advocates for Wales: supplementary powers and duties) of the Mental Health Act 1983 [^c24093251], omit “or the visiting European part”.
 
 ## PART 2 — Savings and transitional provision
 
-### 15A. Interpretation of Part 2[^key-790e4abf46b2f94085e96b9a740ff9b5][^M_I_6f72766a-26e4-4484-a093-18c639520054]
+### 15A. Interpretation of Part 2[^c-790e4abf46b2f94085e96b9a740ff9b5][^M_I_6f72766a-26e4-4484-a093-18c639520054]
 
 In this Part—
 
@@ -169,17 +169,17 @@ In this Part—
   - (a) the period of five years beginning with IP completion day (see Article 23(1) of the Swiss citizens’ rights agreement), or
   - (b) if the period in paragraph (a) is extended in accordance with Article 23(2) of that Agreement, that period as extended.
 
-### 15B. Actions taken, decisions made etc. before IP completion day[^key-2d7f73498fb91ab8de7540110f561f99][^M_I_df5df76e-1c70-4fd7-fa20-102306f8b90a]
+### 15B. Actions taken, decisions made etc. before IP completion day[^c-2d7f73498fb91ab8de7540110f561f99][^M_I_df5df76e-1c70-4fd7-fa20-102306f8b90a]
 
 The amendments made by Part 1 to the 2016 Act do not affect the validity of any action or decision taken, or right or liability accrued, before IP completion day under that Act, except as provided by any saving or transitional provision made by this Part.
 
-### 15C. Administrative cooperation under the EEA EFTA citizens’ rights agreement[^key-c9bc1f45707181bce8de10a3df4d9c63]
+### 15C. Administrative cooperation under the EEA EFTA citizens’ rights agreement[^c-c9bc1f45707181bce8de10a3df4d9c63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Pending applications[^key-8eab472bf91177bc412e62aca1558461]
+### 16. Pending applications[^c-8eab472bf91177bc412e62aca1558461]
 
-(1) Where a relevant application is received before IP completion day[^key-69861d4048dd2202dd6b312d2e82ae06], the 2016 Act continues to apply in relation to the application (including in relation to any appeal arising from it) on and after IP completion day as if the amendments made by Part 1 had not been made.
+(1) Where a relevant application is received before IP completion day[^c-69861d4048dd2202dd6b312d2e82ae06], the 2016 Act continues to apply in relation to the application (including in relation to any appeal arising from it) on and after IP completion day as if the amendments made by Part 1 had not been made.
 
 (2) In paragraph (1), “**relevant application**” means an application for—
 
@@ -188,7 +188,7 @@ The amendments made by Part 1 to the 2016 Act do not affect the validity of any 
 - (c) readmission to those parts of the register under section 80 of the 2016 Act following lapse of registration, or
 - (d) restoration to those parts of the register under section 96(2) or 97(2) of the 2016 Act.
 
-### 16A. Swiss social workers and Swiss social care managers qualifying outside Wales: saving of old law[^key-54d1818299910c6cc1daa1c274d3a8ad][^M_I_88b5a0d2-2428-47c5-b1f4-96d3c432ccc4]
+### 16A. Swiss social workers and Swiss social care managers qualifying outside Wales: saving of old law[^c-54d1818299910c6cc1daa1c274d3a8ad][^M_I_88b5a0d2-2428-47c5-b1f4-96d3c432ccc4]
 
 (1) This regulation applies to a person (“a qualifying applicant”)—
 
@@ -242,7 +242,7 @@ The amendments made by Part 1 to the 2016 Act do not affect the validity of any 
 - Swiss social care manager” (“*rheolwr gofal Cymdeithasol Swisaidd*”) means a qualifying applicant who had not, before IP completion day, made a registration application (other than an application under section 90A of the 2016 Act);
 - “Swiss social worker” (“*gweithiwr Cymdeithasol Swisaidd*”) means a qualifying applicant who had not, before IP completion day, made a registration application (other than an application under section 90 of the 2016 Act).
 
-### 17. Visiting social workers and visiting social care managers: saving of old law[^key-3e43398680daf5481b7b0463753d295a][^key-d2606569eeb727a8656227f8a11769d7]
+### 17. Visiting social workers and visiting social care managers: saving of old law[^c-3e43398680daf5481b7b0463753d295a][^c-d2606569eeb727a8656227f8a11769d7]
 
 (1) This regulation applies where—
 
@@ -291,7 +291,7 @@ The amendments made by Part 1 to the 2016 Act do not affect the validity of any 
 
 (6) For the purposes of this regulation, the 2015 Regulations have effect as if for any reference to “the Care Council for Wales” there were substituted “Social Care Wales”.
 
-### 18. Visiting Swiss social workers and visiting Swiss social care managers: saving of old law[^key-20317fd28a3f17103882571dbcdf5078][^key-75cb0811ec9e1af61e8e2d1ed36533d4]
+### 18. Visiting Swiss social workers and visiting Swiss social care managers: saving of old law[^c-20317fd28a3f17103882571dbcdf5078][^c-75cb0811ec9e1af61e8e2d1ed36533d4]
 
 (1) This regulation applies to a relevant applicant.
 
@@ -335,7 +335,7 @@ The amendments made by Part 1 to the 2016 Act do not affect the validity of any 
   ;
 - (c) section 113 (continuing professional development) is to be read as if in subsection (5) for “the relevant” to the end there were substituted “Switzerland”.
 
-### 18A. Equal treatment and administrative co-operation under the Swiss citizen’s rights agreement[^key-190b5a914734fc6ff457751a17ab9613][^M_I_4bef3af6-faea-43ac-ac12-aa8087287c67]
+### 18A. Equal treatment and administrative co-operation under the Swiss citizen’s rights agreement[^c-190b5a914734fc6ff457751a17ab9613][^M_I_4bef3af6-faea-43ac-ac12-aa8087287c67]
 
 (1) This regulation applies to a relevant applicant.
 
@@ -360,11 +360,11 @@ The amendments made by Part 1 to the 2016 Act do not affect the validity of any 
 - (a) any reference to “social worker in Wales” has effect as if there were substituted “social worker or social care manager in Wales”,
 - (b) any reference to “the Care Council for Wales” has effect as if there were substituted “Social Care Wales”.
 
-### 19. Internal Market Information System (IMI) Alerts[^key-b7b510e3d9a5f4fff4b84659b7a37d30]
+### 19. Internal Market Information System (IMI) Alerts[^c-b7b510e3d9a5f4fff4b84659b7a37d30]
 
 (1) This regulation applies where—
 
-- (a) before IP completion day[^key-781909dbce313b9ba0afc09e2ae72bc0], a person is given notice of a decision made under regulation 67 of the European Union (Recognition of Professional Qualifications) Regulations 2015 to send an alert about the person, and
+- (a) before IP completion day[^c-781909dbce313b9ba0afc09e2ae72bc0], a person is given notice of a decision made under regulation 67 of the European Union (Recognition of Professional Qualifications) Regulations 2015 to send an alert about the person, and
 - (b) either—
   - (i) the time limit for appeal against the decision under section 105(1)(c) of the 2016 Act expires on or after IP completion day, or
   - (ii) an appeal against the decision under that section is made, but not finally determined, before IP completion day.
@@ -400,100 +400,100 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24093121]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-ac9245c12b559012dcb47491895ba83f]: Commencement: Reg. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ac9245c12b559012dcb47491895ba83f]: Commencement: Reg. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-67ce540b31ac4061bcf9020e7b132c31]: Textual amendment: Words in reg. 1(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/3/a)
+[^c-67ce540b31ac4061bcf9020e7b132c31]: Textual amendment: Words in reg. 1(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/3/a)
 
-[^key-6b4f102a4f1cb1066239526fb83ff25b]: Textual amendment: Reg. 1(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/3/b)
+[^c-6b4f102a4f1cb1066239526fb83ff25b]: Textual amendment: Reg. 1(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/3/b)
 
 [^c24093131]: Marginal citation: 2016 anaw 2.
 
-[^key-4b4c6a87e1c5593152a632aad5546d4e]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4b4c6a87e1c5593152a632aad5546d4e]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-4eb482a13f9947f57b1518f4ddd92c3f]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4eb482a13f9947f57b1518f4ddd92c3f]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093141]: Marginal citation: The definitions “visiting European social care manager part” and “visiting European social worker part” were inserted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 120(2)](https://www.legislation.gov.uk/uksi/2015/2059/regulation/120/2).
 
-[^key-cecf05b379ecd800a88ce6a74a9e96fa]: Commencement: Reg. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-cecf05b379ecd800a88ce6a74a9e96fa]: Commencement: Reg. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093151]: Marginal citation: “European social worker part or visiting European social care manager part” was substituted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 122](https://www.legislation.gov.uk/uksi/2015/2059/regulation/122).
 
-[^key-096f9522f0f17efa6647eac6b5ab1353]: Commencement: Reg. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-096f9522f0f17efa6647eac6b5ab1353]: Commencement: Reg. 5 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093161]: Marginal citation: Relevant amendments were made by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 126(2)](https://www.legislation.gov.uk/uksi/2016/1030/regulation/126/2), (3) and (4).
 
-[^key-03aa9fb8fbb7ce4d35d88c7aafebec88]: Commencement: Reg. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-03aa9fb8fbb7ce4d35d88c7aafebec88]: Commencement: Reg. 6 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093171]: Marginal citation: Relevant amendments were made by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 128(2)](https://www.legislation.gov.uk/uksi/2016/1030/regulation/128/2) and (3).
 
-[^key-8b2cbcaebb5a6ffa51009b2ffc4c8888]: Commencement: Reg. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8b2cbcaebb5a6ffa51009b2ffc4c8888]: Commencement: Reg. 7 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093181]: Marginal citation: “- social workers” was inserted into the section heading by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 130(2)](https://www.legislation.gov.uk/uksi/2016/1030/regulation/130/2).
 
-[^key-3496e60df676fe14997b4601cb174c54]: Commencement: Reg. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3496e60df676fe14997b4601cb174c54]: Commencement: Reg. 8 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093191]: Marginal citation: Inserted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 132](https://www.legislation.gov.uk/uksi/2016/1030/regulation/132).
 
-[^key-9f3889d08e5c753f2dc60d2ce7e0c61e]: Commencement: Reg. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9f3889d08e5c753f2dc60d2ce7e0c61e]: Commencement: Reg. 9 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093201]: Marginal citation: Relevant amendments were made by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 134](https://www.legislation.gov.uk/uksi/2016/1030/regulation/134).
 
-[^key-d82f845a9e7fbe2c08e8d631f13e5e58]: Commencement: Reg. 10 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d82f845a9e7fbe2c08e8d631f13e5e58]: Commencement: Reg. 10 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093211]: Marginal citation: Inserted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 136](https://www.legislation.gov.uk/uksi/2016/1030/regulation/136).
 
-[^key-2eaece1f98ed4f54e986c5be2c5df544]: Commencement: Reg. 11 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2eaece1f98ed4f54e986c5be2c5df544]: Commencement: Reg. 11 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093221]: Marginal citation: Relevant amendments made by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 138](https://www.legislation.gov.uk/uksi/2016/1030/regulation/138).
 
-[^key-98789e3bcba2ab34d0c0b62a4a925191]: Commencement: Reg. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-98789e3bcba2ab34d0c0b62a4a925191]: Commencement: Reg. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093231]: Marginal citation: Relevant amendments made by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 140](https://www.legislation.gov.uk/uksi/2016/1030/regulation/140).
 
-[^key-56cad48729ba0b3332a6d582bd77b6a2]: Commencement: Reg. 13 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-56cad48729ba0b3332a6d582bd77b6a2]: Commencement: Reg. 13 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093241]: Marginal citation: “European social worker part or visiting European social care manager part” was substituted by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regulation 142(2)](https://www.legislation.gov.uk/uksi/2016/1030/regulation/142/2).
 
 [^M_I_7a172abf-9bc8-4978-af99-93d13d5bcf07]: Commencement: Reg. 14 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2020/1626](https://www.legislation.gov.uk/uksi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1626/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1626/regulation/3))
 
-[^key-cca6453235265633c13baa3ee6de75ec]: Textual amendment: Reg. 14 substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/1626/regulation/4)
+[^c-cca6453235265633c13baa3ee6de75ec]: Textual amendment: Reg. 14 substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/1626/regulation/4)
 
-[^key-2c0351d3fb86d6def91f792f5f74f453]: Commencement: Reg. 15 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2c0351d3fb86d6def91f792f5f74f453]: Commencement: Reg. 15 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24093251]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20); section 130H was inserted by the Mental Health (Wales) Measure 2010 (nawm 7), section 34. Subsection (7)(b) of section 130H was amended by the 2016 Act, Schedule 3, paragraph 39.
 
-[^key-790e4abf46b2f94085e96b9a740ff9b5]: Textual amendment: Reg. 15A inserted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2020/1626/regulation/5)
+[^c-790e4abf46b2f94085e96b9a740ff9b5]: Textual amendment: Reg. 15A inserted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2020/1626/regulation/5)
 
 [^M_I_6f72766a-26e4-4484-a093-18c639520054]: Commencement: Reg. 15A in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-2d7f73498fb91ab8de7540110f561f99]: Textual amendment: Reg. 15B inserted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2020/1626/regulation/6)
+[^c-2d7f73498fb91ab8de7540110f561f99]: Textual amendment: Reg. 15B inserted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2020/1626/regulation/6)
 
 [^M_I_df5df76e-1c70-4fd7-fa20-102306f8b90a]: Commencement: Reg. 15B in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-c9bc1f45707181bce8de10a3df4d9c63]: Textual amendment: [Reg. 15C](https://www.legislation.gov.uk/wsi/2019/761/regulation/15C) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/4/paragraph/3/2)
+[^c-c9bc1f45707181bce8de10a3df4d9c63]: Textual amendment: [Reg. 15C](https://www.legislation.gov.uk/wsi/2019/761/regulation/15C) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/4/paragraph/3/2)
 
-[^key-8eab472bf91177bc412e62aca1558461]: Commencement: Reg. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8eab472bf91177bc412e62aca1558461]: Commencement: Reg. 16 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-69861d4048dd2202dd6b312d2e82ae06]: Textual amendment: Words in reg. 16(1) substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2020/1626/regulation/8)
+[^c-69861d4048dd2202dd6b312d2e82ae06]: Textual amendment: Words in reg. 16(1) substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2020/1626/regulation/8)
 
-[^key-54d1818299910c6cc1daa1c274d3a8ad]: Textual amendment: Reg. 16A inserted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2020/1626/regulation/9)
+[^c-54d1818299910c6cc1daa1c274d3a8ad]: Textual amendment: Reg. 16A inserted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2020/1626/regulation/9)
 
 [^M_I_88b5a0d2-2428-47c5-b1f4-96d3c432ccc4]: Commencement: Reg. 16A in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-3e43398680daf5481b7b0463753d295a]: Textual amendment: Reg. 17 substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/1626/regulation/10)
+[^c-3e43398680daf5481b7b0463753d295a]: Textual amendment: Reg. 17 substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/1626/regulation/10)
 
-[^key-d2606569eeb727a8656227f8a11769d7]: Commencement: Reg. 17 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d2606569eeb727a8656227f8a11769d7]: Commencement: Reg. 17 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-20317fd28a3f17103882571dbcdf5078]: Textual amendment: Reg. 18 substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2020/1626/regulation/11)
+[^c-20317fd28a3f17103882571dbcdf5078]: Textual amendment: Reg. 18 substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2020/1626/regulation/11)
 
-[^key-75cb0811ec9e1af61e8e2d1ed36533d4]: Commencement: Reg. 18 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-75cb0811ec9e1af61e8e2d1ed36533d4]: Commencement: Reg. 18 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-190b5a914734fc6ff457751a17ab9613]: Textual amendment: Reg. 18A inserted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2020/1626/regulation/12)
+[^c-190b5a914734fc6ff457751a17ab9613]: Textual amendment: Reg. 18A inserted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2020/1626/regulation/12)
 
 [^M_I_4bef3af6-faea-43ac-ac12-aa8087287c67]: Commencement: Reg. 18A in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-b7b510e3d9a5f4fff4b84659b7a37d30]: Commencement: Reg. 19 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b7b510e3d9a5f4fff4b84659b7a37d30]: Commencement: Reg. 19 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-781909dbce313b9ba0afc09e2ae72bc0]: Textual amendment: Words in reg. 19 substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2020/1626/regulation/13)
+[^c-781909dbce313b9ba0afc09e2ae72bc0]: Textual amendment: Words in reg. 19 substituted (31.12.2020 immediately before IP completion day) by [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1626)](https://www.legislation.gov.uk/wsi/2020/1626), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1626/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2020/1626/regulation/13)
 
 [^c24093271]: Marginal citation: *See* section 67(3) of the 2016 Act for the definition of Social Care Wales (“SCW”).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Amendment of heading to regulation S4[^key-f2032df1f5660362d6ca31dff82eb227]
+## 59. Amendment of heading to regulation S4[^c-f2032df1f5660362d6ca31dff82eb227]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the heading to regulation S4 (benefits on death in pensionable employment aft
 
 ## Annotations
 
-[^key-f2032df1f5660362d6ca31dff82eb227]: Commencement: Reg. 59 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-f2032df1f5660362d6ca31dff82eb227]: Commencement: Reg. 59 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

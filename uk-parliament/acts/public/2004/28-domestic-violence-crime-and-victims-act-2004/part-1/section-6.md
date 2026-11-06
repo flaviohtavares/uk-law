@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Evidence and procedure in cases of death: England and Wales[^key-4a08803efe68b588c54b8337bf7138ad]
+## 6. Evidence and procedure in cases of death: England and Wales[^c-4a08803efe68b588c54b8337bf7138ad]
 
 *Extent: E+W*
 
@@ -33,16 +33,16 @@ even if there would otherwise be no case for him to answer in relation to that o
 
 (4) At the defendant’s trial the question whether there is a case for the defendant to answer on the charge of murder or manslaughter is not to be considered before the close of all the evidence (or, if at some earlier time he ceases to be charged with the section 5 offence, before that earlier time).
 
-(5) An offence under section 5 of causing or allowing a person's death[^key-4682b7f4515cd6e13df2c3f3a745374b] is an offence of homicide for the purposes of the following enactments—
+(5) An offence under section 5 of causing or allowing a person's death[^c-4682b7f4515cd6e13df2c3f3a745374b] is an offence of homicide for the purposes of the following enactments—
 
 - sections 24 and 25 of the Magistrates' Courts Act 1980 (c. 43) (mode of trial of child or young person for indictable offence);
 - section 51A of the Crime and Disorder Act 1998 (sending cases to the Crown Court: children and young persons);
-- section 25 of the Sentencing Code[^key-ad335cf1e972abdcc960ab4a47f62fdd] (power and duty to remit young offenders to youth courts for sentence).
+- section 25 of the Sentencing Code[^c-ad335cf1e972abdcc960ab4a47f62fdd] (power and duty to remit young offenders to youth courts for sentence).
 
 ## Annotations
 
-[^key-4a08803efe68b588c54b8337bf7138ad]: Textual amendment: S. 6 heading substituted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/8/2); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
+[^c-4a08803efe68b588c54b8337bf7138ad]: Textual amendment: S. 6 heading substituted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/8/2); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
 
-[^key-4682b7f4515cd6e13df2c3f3a745374b]: Textual amendment: Words in s. 6(5) inserted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 8(1)](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/8/1); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
+[^c-4682b7f4515cd6e13df2c3f3a745374b]: Textual amendment: Words in s. 6(5) inserted (2.7.2012) by [Domestic Violence, Crime and Victims (Amendment) Act 2012 (c. 4)](https://www.legislation.gov.uk/ukpga/2012/4), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2012/4/section/4/2), [Sch. para. 8(1)](https://www.legislation.gov.uk/ukpga/2012/4/schedule/paragraph/8/1); [S.I. 2012/1432](https://www.legislation.gov.uk/uksi/2012/1432), [art. 2](https://www.legislation.gov.uk/uksi/2012/1432/article/2)
 
-[^key-ad335cf1e972abdcc960ab4a47f62fdd]: Textual amendment: Words in [s. 6(5)](https://www.legislation.gov.uk/ukpga/2004/28/section/6/5) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 251](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/251) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ad335cf1e972abdcc960ab4a47f62fdd]: Textual amendment: Words in [s. 6(5)](https://www.legislation.gov.uk/ukpga/2004/28/section/6/5) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 251](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/251) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

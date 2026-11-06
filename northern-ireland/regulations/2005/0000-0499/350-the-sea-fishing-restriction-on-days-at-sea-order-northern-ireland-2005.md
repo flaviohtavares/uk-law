@@ -43,13 +43,13 @@ The Department of Agriculture and Rural Development, in exercise of the powers c
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement, extent and application[^key-d3835d880b2d117bd30c9ff5672bd631]
+### 1. Citation, commencement, extent and application[^c-d3835d880b2d117bd30c9ff5672bd631]
 
 (1) This Order may be cited as the Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2005 and shall come into operation on 28th July 2005.
 
 (2) This Order does not apply to any fishing boat which is less than 10 metres in length as set out in point 1 of Annex IVa and point 1 of Annex IVc.
 
-### 2. Interpretation[^key-50b87ae0a5acf14d41a0d6e8cc7a5524]
+### 2. Interpretation[^c-50b87ae0a5acf14d41a0d6e8cc7a5524]
 
 (1) In this Order –
 
@@ -92,27 +92,27 @@ The Department of Agriculture and Rural Development, in exercise of the powers c
 
 ## PART 2 — COD
 
-### 3. Establishment of management periods[^key-9128e9761057fba0289620868eaef01c]
+### 3. Establishment of management periods[^c-9128e9761057fba0289620868eaef01c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Absences from port[^key-9128e9761057fba0289620868eaef01c]
+### 4. Absences from port[^c-9128e9761057fba0289620868eaef01c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Carriage and operation of fishing gears[^key-9128e9761057fba0289620868eaef01c]
+### 5. Carriage and operation of fishing gears[^c-9128e9761057fba0289620868eaef01c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Transfer of days from one boat to another[^key-9128e9761057fba0289620868eaef01c]
+### 6. Transfer of days from one boat to another[^c-9128e9761057fba0289620868eaef01c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Transport of cod[^key-034a8bebf2271ffd3de268da947560de]
+### 7. Transport of cod[^c-034a8bebf2271ffd3de268da947560de]
 
 Where any quantities of cod are transported in contravention of Article 15(2) of Regulation 423/04, the owner or hirer of, and the person responsible for, the vehicle used to transport the cod is guilty of an offence.
 
-### 8. Mixing of species[^key-af6a7ed7c3125676b01f4ae293678d4b]
+### 8. Mixing of species[^c-af6a7ed7c3125676b01f4ae293678d4b]
 
 A person in charge of –
 
@@ -121,7 +121,7 @@ A person in charge of –
 
 on which cod is stowed or retained in contravention of Article 14 of Regulation 423/04, is guilty of an offence.
 
-### 9. Prior notification of landing, discharge or transhipment[^key-12c49d47a81a836e038b21e53195b691]
+### 9. Prior notification of landing, discharge or transhipment[^c-12c49d47a81a836e038b21e53195b691]
 
 (1) The person in charge of a British or foreign fishing boat to which Article 11 of Regulation 423/04 applies, which enters a port in Northern Ireland without providing the information called for by that Article, is guilty of an offence.
 
@@ -133,7 +133,7 @@ on which cod is stowed or retained in contravention of Article 14 of Regulation 
 
 (5) For the purposes of paragraph (1) and (4), the Department of Agriculture and Rural Development is the person to whom that information is to be provided.
 
-### 10. Landing of cod at a designated port[^key-aa33ee0546333d831a9465cfc23ef807]
+### 10. Landing of cod at a designated port[^c-aa33ee0546333d831a9465cfc23ef807]
 
 (1) The person in charge of a British or foreign fishing boat which lands cod in Northern Ireland in contravention of Article 12 of Regulation 423/04 is guilty of an offence.
 
@@ -148,79 +148,79 @@ on which cod is stowed or retained in contravention of Article 14 of Regulation 
 
 (5) The person in charge of a fishing boat from which cod is offered for first sale in contravention of paragraph 2 is guilty of an offence.
 
-### 11. Recording information on catches of fish[^key-ceb752fd5218270b12582312bb477555]
+### 11. Recording information on catches of fish[^c-ceb752fd5218270b12582312bb477555]
 
 The person in charge of a Northern Ireland fishing boat, or foreign fishing boat in respect of which the 8% margin of tolerance referred to in Article 13 of Regulation 423/04 is exceeded, is guilty of an offence.
 
-### 12. Maintenance of logbooks[^key-467feed304a97c9019bf646e8ccdfec1]
+### 12. Maintenance of logbooks[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — SOLE
 
-### 13. Establishment of management periods[^key-467feed304a97c9019bf646e8ccdfec1]
+### 13. Establishment of management periods[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Absences from port[^key-467feed304a97c9019bf646e8ccdfec1]
+### 14. Absences from port[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Carriage and operation of fishing gears[^key-467feed304a97c9019bf646e8ccdfec1]
+### 15. Carriage and operation of fishing gears[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Transfer of days from one boat to another[^key-467feed304a97c9019bf646e8ccdfec1]
+### 16. Transfer of days from one boat to another[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Transport of sole[^key-467feed304a97c9019bf646e8ccdfec1]
+### 17. Transport of sole[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Mixing of species[^key-467feed304a97c9019bf646e8ccdfec1]
+### 18. Mixing of species[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Transhipment or landing relating to third countries[^key-467feed304a97c9019bf646e8ccdfec1]
+### 19. Transhipment or landing relating to third countries[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Weighing of sole[^key-467feed304a97c9019bf646e8ccdfec1]
+### 20. Weighing of sole[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Recording information on catches of fish[^key-467feed304a97c9019bf646e8ccdfec1]
+### 21. Recording information on catches of fish[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Maintenance of logbooks[^key-467feed304a97c9019bf646e8ccdfec1]
+### 22. Maintenance of logbooks[^c-467feed304a97c9019bf646e8ccdfec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — ENFORCEMENT
 
-### 23. Penalties and defence[^key-a89aef36052b16a806f901f8cb661d12]
+### 23. Penalties and defence[^c-a89aef36052b16a806f901f8cb661d12]
 
 (1) A person guilty of an offence under Part 2 or Part 3 of this Order or under any equivalent provision shall be liable –
 
 - (a) on summary conviction to a fine not exceeding £50,000; and
 - (b) on conviction on indictment to a fine.
 
-(2) The court by or before which a person is convicted of an offence under any of Articles 7 to 11 of this Order[^key-9f813cbf51c60e8ed9f4b4f4ee96c09d] of this Order or under any equivalent provision may, subject to paragraph (4), also order forfeiture of:
+(2) The court by or before which a person is convicted of an offence under any of Articles 7 to 11 of this Order[^c-9f813cbf51c60e8ed9f4b4f4ee96c09d] of this Order or under any equivalent provision may, subject to paragraph (4), also order forfeiture of:
 
 - (a) any fish in respect of which the offence was committed; and
 - (b) except in the case of an offence under Article 7 or 17 or any equivalent provision, any fishing gear used in the course of, or in activities leading to, the commission of the offence.
 
-(3) Any person found guilty of an offence under any of Articles 7 to 11 of this Order[^key-b45bfc9364a25e5e55b9813689c4d427] of this Order or under any equivalent provision shall, subject to paragraph (4), also be liable on summary conviction to a fine not exceeding the value of the fish in respect of which the offence was committed.
+(3) Any person found guilty of an offence under any of Articles 7 to 11 of this Order[^c-b45bfc9364a25e5e55b9813689c4d427] of this Order or under any equivalent provision shall, subject to paragraph (4), also be liable on summary conviction to a fine not exceeding the value of the fish in respect of which the offence was committed.
 
 (4) A person shall not be liable to a fine under paragraph (3) in respect of such an offence if, under paragraph (2), the court orders the forfeiture of the fish in respect of which that offence was committed; and where a fine is imposed under paragraph (3) in respect of any offence, the court shall not have the power under paragraph (2) to order forfeiture of the fish in respect of the offence was committed.
 
-(5)[^key-90c808f19f0eb6c93764ec6e57b63cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-90c808f19f0eb6c93764ec6e57b63cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) References in this Article to fish in respect of which an offence was committed include fish caught at any time in the period during which the offence was committed.
 
-### 24. Recovery of fines[^key-349081e7b02008b9434b149fd6bd3c54]
+### 24. Recovery of fines[^c-349081e7b02008b9434b149fd6bd3c54]
 
 (1) Where a fine is imposed by a magistrates' court on a person in charge of a fishing boat who is convicted by the court of an offence under this Order or any equivalent provision, the court may –
 
@@ -229,11 +229,11 @@ The person in charge of a Northern Ireland fishing boat, or foreign fishing boat
 
 (2) Articles 114(2) and 154 of the Magistrates Courts (Northern Ireland) Order 1981[^f00011] (postponement of certain warrants and objections as to want of form or variance between complaint etc and evidence adduced) shall apply to a warrant of distress issued under this Article as they apply to a warrant referred to in those Articles of that Order.
 
-(3) Where, in relation to an offence under this Order or under any equivalent provision a court orders under section 90 of the Magistrates Court Act 1980[^f00012] or section 222 of the Criminal Procedures (Scotland) Act 1995[^f00013] that a fine shall be enforceable in Northern Ireland, paragraphs (1) and (2) shall apply as if the fine were imposed by a court in Northern Ireland.[^key-944b12965f86c3f7ca9162963c5c0183]
+(3) Where, in relation to an offence under this Order or under any equivalent provision a court orders under section 90 of the Magistrates Court Act 1980[^f00012] or section 222 of the Criminal Procedures (Scotland) Act 1995[^f00013] that a fine shall be enforceable in Northern Ireland, paragraphs (1) and (2) shall apply as if the fine were imposed by a court in Northern Ireland.[^c-944b12965f86c3f7ca9162963c5c0183]
 
-### 25. Powers of British sea-fishery officers in relation to fishing boats[^key-4e29c7cf7612aa64536dbe5483be90b8]
+### 25. Powers of British sea-fishery officers in relation to fishing boats[^c-4e29c7cf7612aa64536dbe5483be90b8]
 
-(1) For the purpose of enforcing Part 2[^key-ba1dde07498b4c1f7ad8404cf665e87c]... or any equivalent provisions, or to operate or facilitate the operation of any monitoring deriving from Article 16 of Regulation 423/04 or point 21 of Annex IVc, any British sea-fishery officer may exercise the powers conferred by this Article in relation to –
+(1) For the purpose of enforcing Part 2[^c-ba1dde07498b4c1f7ad8404cf665e87c]... or any equivalent provisions, or to operate or facilitate the operation of any monitoring deriving from Article 16 of Regulation 423/04 or point 21 of Annex IVc, any British sea-fishery officer may exercise the powers conferred by this Article in relation to –
 
 - (a) any Northern Ireland fishing boat wherever it may be; or
 - (b) any other fishing boat which is within the Northern Ireland zone.
@@ -250,16 +250,16 @@ The person in charge of a Northern Ireland fishing boat, or foreign fishing boat
 
 but nothing in sub-paragraph (e) above shall permit any document required by law to be carried on board the boat to be seized and detained except while the boat is detained in a port.
 
-(4) Where it appears to a British sea-fishery officer that an offence under A Article 8 or 11 of this Order[^key-a3870b876db1e06d5c9a366c78166bb0] , or under any equivalent provision, has at any time been committed in respect of a fishing boat, he may –
+(4) Where it appears to a British sea-fishery officer that an offence under A Article 8 or 11 of this Order[^c-a3870b876db1e06d5c9a366c78166bb0] , or under any equivalent provision, has at any time been committed in respect of a fishing boat, he may –
 
 - (a) require the master of the boat to take, or himself take, the boat and crew to the port which appears to him to be the nearest convenient port; and
 - (b) detain, or require the master to detain, the boat in port;
 
 and where such an officer detains or requires the detention of the boat he shall serve on the master a notice in writing stating that the boat is (or is required to be) detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
 
-### 26. Powers of British sea-fishery officers on land[^key-cf7eadbe9b3e4885598718eb5bfc27a8]
+### 26. Powers of British sea-fishery officers on land[^c-cf7eadbe9b3e4885598718eb5bfc27a8]
 
-(1) For the purpose of enforcing Part 2[^key-f4713631049999883f37f62da48d1129]... or any equivalent provisions, or to operate or facilitate the operation of any monitoring deriving from Article 16 of Regulation 423/04 or point 21 of Annex IVc, any British sea-fishery officer may in Northern Ireland –
+(1) For the purpose of enforcing Part 2[^c-f4713631049999883f37f62da48d1129]... or any equivalent provisions, or to operate or facilitate the operation of any monitoring deriving from Article 16 of Regulation 423/04 or point 21 of Annex IVc, any British sea-fishery officer may in Northern Ireland –
 
 - (a) enter and inspect at any reasonable time any premises used for carrying on any business in connection with the operation of fishing boats or activities connected therewith or ancillary thereto or with the treatment, storage or sale of fish;
 - (b) take with him such other persons as appear to him to be necessary and any equipment or materials;
@@ -283,7 +283,7 @@ and where such an officer detains or requires the detention of the boat he shall
 
   the justice may by warrant signed by him, and valid for one month, authorise a British sea-fishery officer to enter the premises, if need be by reasonable force, and take with him such persons as appear to him to be necessary.
 
-### 27. Powers of British sea-fishery officers to seize fish and fishing gear[^key-37d0fa28fe69ddbc90c3b4de1b47c0fa]
+### 27. Powers of British sea-fishery officers to seize fish and fishing gear[^c-37d0fa28fe69ddbc90c3b4de1b47c0fa]
 
 (1) This Article applies –
 
@@ -296,13 +296,13 @@ and where such an officer detains or requires the detention of the boat he shall
 - (a) any fish (including any receptacle which contains the fish) in respect of which he has reasonable grounds to suspect that an offence has been committed; and
 - (b) any fishing gear which he has reasonable grounds to suspect has been used in the course of, or in activities leading to, the commission of an offence,
 
-under any of Articles 7 to 11 of this Order[^key-f7fdafaede88034dc5841a7bdb7dbe93] or under any equivalent provision.
+under any of Articles 7 to 11 of this Order[^c-f7fdafaede88034dc5841a7bdb7dbe93] or under any equivalent provision.
 
-### 28. Protection of British sea-fishery officers[^key-232c520bd029eea4092dcf70094b2ddd]
+### 28. Protection of British sea-fishery officers[^c-232c520bd029eea4092dcf70094b2ddd]
 
 A British sea-fishery officer or a person assisting him by virtue of Article 25(2) or 26(1)(b) or authorisation under Article 26(3), shall not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred on him by Articles 25 to 27 if the court is satisfied that the act was done in good faith, that there were reasonable grounds for doing it and that it was done with reasonable skill and care.
 
-### 29. Obstruction of British sea-fishery officers[^key-9cb94b2fda2dda56b0a32845e0931c59]
+### 29. Obstruction of British sea-fishery officers[^c-9cb94b2fda2dda56b0a32845e0931c59]
 
 (1) Any person who –
 
@@ -317,7 +317,7 @@ is guilty of an offence.
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment to a fine.
 
-### 30. Provisions as to offences[^key-e5f3cd7ed632361d0b6a9562def8f215]
+### 30. Provisions as to offences[^c-e5f3cd7ed632361d0b6a9562def8f215]
 
 (1) Where any offence under Part 2 or Part 3 or any equivalent provision committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity, he as well as the body corporate shall be guilty of the offence and liable to be proceeded against and punished accordingly.
 
@@ -325,7 +325,7 @@ is guilty of an offence.
 
 (3) Where any offence under Part 2 or Part 3 or any equivalent provision committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer of the association or any member of its governing body, he as well as the association shall be guilty of the offence and liable to be proceeded against and punished accordingly.
 
-### 31. Admissibility in evidence of logbooks and other documents[^key-1910b5551e5d9f48aa858753d79a04a0]
+### 31. Admissibility in evidence of logbooks and other documents[^c-1910b5551e5d9f48aa858753d79a04a0]
 
 (1) Any –
 
@@ -347,7 +347,7 @@ as communicated via a satellite-based vessel monitoring system established under
 
 ## PART 5 — SUPPLEMENTARY
 
-### 32. Consequential and connected amendments[^key-c4cdc5a3ad0d389135a5bd0b9e920db2]
+### 32. Consequential and connected amendments[^c-c4cdc5a3ad0d389135a5bd0b9e920db2]
 
 (1) The Sea Fishing (Enforcement of Community Control Measures) Order 2000[^f00014] is amended, so far as it applies in Northern Ireland, as provided in paragraphs (2) to (4):
 
@@ -374,7 +374,7 @@ as communicated via a satellite-based vessel monitoring system established under
 
 (4) In the Schedule, in column 3 of each entry opposite items 2(l), (m), (n) and (o), for the words “paragraph 13 of Annex V”, substitute the words “Article 9 of Regulation 423/04 and point 13 of Annex IVc.”.
 
-### 33. Revocation[^key-958dd6f387b0c8929f13fe46c6b7161b]
+### 33. Revocation[^c-958dd6f387b0c8929f13fe46c6b7161b]
 
 The Sea Fishing (Restriction on Days at Sea) Order (Northern Ireland) 2004[^f00015] is revoked.
 
@@ -386,7 +386,7 @@ A senior officer of the
 
 Department of Agriculture and Rural Development
 
-## SCHEDULE — LIST OF PORTS (AND WHERE APPLICABLE LOCATIONS WITHIN THE PORT) IN NORTHERN IRELAND AT WHICH ALL LANDINGS OF COD COVERED BY ARTICLE 12 OF REGULATION 423/04 MUST TAKE PLACE[^key-10d0da0065e65c151a8bee276668da31]
+## SCHEDULE — LIST OF PORTS (AND WHERE APPLICABLE LOCATIONS WITHIN THE PORT) IN NORTHERN IRELAND AT WHICH ALL LANDINGS OF COD COVERED BY ARTICLE 12 OF REGULATION 423/04 MUST TAKE PLACE[^c-10d0da0065e65c151a8bee276668da31]
 
 Article 10(4)
 
@@ -419,9 +419,9 @@ For the purposes of enforcing provisions of the Annexes for which provision is m
 
 [^f00002]: Footnote: Sea Fisheries (Northern Ireland) Order 2002 (S.I. [2002/790](https://www.legislation.gov.uk/uksi/2002/790)) Article 3(2) and Schedule 2
 
-[^key-d3835d880b2d117bd30c9ff5672bd631]: Commencement: Art. 1 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-d3835d880b2d117bd30c9ff5672bd631]: Commencement: Art. 1 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-50b87ae0a5acf14d41a0d6e8cc7a5524]: Commencement: Art. 2 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-50b87ae0a5acf14d41a0d6e8cc7a5524]: Commencement: Art. 2 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
 [^f00003]: Footnote: O.J. No. L12, 14.1.2005, p. 1
 
@@ -437,29 +437,29 @@ For the purposes of enforcing provisions of the Annexes for which provision is m
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9128e9761057fba0289620868eaef01c]: Textual amendment: [Arts. 3-6](https://www.legislation.gov.uk/nisr/2005/350/article/3) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(2)](https://www.legislation.gov.uk/nisr/2006/300/article/31/2)
+[^c-9128e9761057fba0289620868eaef01c]: Textual amendment: [Arts. 3-6](https://www.legislation.gov.uk/nisr/2005/350/article/3) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(2)](https://www.legislation.gov.uk/nisr/2006/300/article/31/2)
 
-[^key-034a8bebf2271ffd3de268da947560de]: Commencement: Art. 7 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-034a8bebf2271ffd3de268da947560de]: Commencement: Art. 7 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-af6a7ed7c3125676b01f4ae293678d4b]: Commencement: Art. 8 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-af6a7ed7c3125676b01f4ae293678d4b]: Commencement: Art. 8 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-12c49d47a81a836e038b21e53195b691]: Commencement: Art. 9 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-12c49d47a81a836e038b21e53195b691]: Commencement: Art. 9 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-aa33ee0546333d831a9465cfc23ef807]: Commencement: Art. 10 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-aa33ee0546333d831a9465cfc23ef807]: Commencement: Art. 10 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-ceb752fd5218270b12582312bb477555]: Commencement: Art. 11 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-ceb752fd5218270b12582312bb477555]: Commencement: Art. 11 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-467feed304a97c9019bf646e8ccdfec1]: Textual amendment: [Arts. 12-22](https://www.legislation.gov.uk/nisr/2005/350/article/12) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(2)](https://www.legislation.gov.uk/nisr/2006/300/article/31/2)
+[^c-467feed304a97c9019bf646e8ccdfec1]: Textual amendment: [Arts. 12-22](https://www.legislation.gov.uk/nisr/2005/350/article/12) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(2)](https://www.legislation.gov.uk/nisr/2006/300/article/31/2)
 
-[^key-a89aef36052b16a806f901f8cb661d12]: Commencement: Art. 23 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-a89aef36052b16a806f901f8cb661d12]: Commencement: Art. 23 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-9f813cbf51c60e8ed9f4b4f4ee96c09d]: Textual amendment: Words in [art. 23(2)](https://www.legislation.gov.uk/nisr/2005/350/article/23/2) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(3)](https://www.legislation.gov.uk/nisr/2006/300/article/31/3)
+[^c-9f813cbf51c60e8ed9f4b4f4ee96c09d]: Textual amendment: Words in [art. 23(2)](https://www.legislation.gov.uk/nisr/2005/350/article/23/2) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(3)](https://www.legislation.gov.uk/nisr/2006/300/article/31/3)
 
-[^key-b45bfc9364a25e5e55b9813689c4d427]: Textual amendment: Words in [art. 23(3)](https://www.legislation.gov.uk/nisr/2005/350/article/23/3) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(4)](https://www.legislation.gov.uk/nisr/2006/300/article/31/4)
+[^c-b45bfc9364a25e5e55b9813689c4d427]: Textual amendment: Words in [art. 23(3)](https://www.legislation.gov.uk/nisr/2005/350/article/23/3) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(4)](https://www.legislation.gov.uk/nisr/2006/300/article/31/4)
 
-[^key-90c808f19f0eb6c93764ec6e57b63cf4]: Textual amendment: [Art. 23(5)](https://www.legislation.gov.uk/nisr/2005/350/article/23/5) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(5)](https://www.legislation.gov.uk/nisr/2006/300/article/31/5)
+[^c-90c808f19f0eb6c93764ec6e57b63cf4]: Textual amendment: [Art. 23(5)](https://www.legislation.gov.uk/nisr/2005/350/article/23/5) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(5)](https://www.legislation.gov.uk/nisr/2006/300/article/31/5)
 
-[^key-349081e7b02008b9434b149fd6bd3c54]: Commencement: Art. 24 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-349081e7b02008b9434b149fd6bd3c54]: Commencement: Art. 24 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
 [^f00011]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
@@ -467,36 +467,36 @@ For the purposes of enforcing provisions of the Annexes for which provision is m
 
 [^f00013]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46)
 
-[^key-944b12965f86c3f7ca9162963c5c0183]: Textual amendment: Words in [art. 24(3)](https://www.legislation.gov.uk/nisr/2005/350/article/24/3) substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [25](https://www.legislation.gov.uk/nisr/2016/317/article/25); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+[^c-944b12965f86c3f7ca9162963c5c0183]: Textual amendment: Words in [art. 24(3)](https://www.legislation.gov.uk/nisr/2005/350/article/24/3) substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [25](https://www.legislation.gov.uk/nisr/2016/317/article/25); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
 
-[^key-4e29c7cf7612aa64536dbe5483be90b8]: Commencement: Art. 25 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-4e29c7cf7612aa64536dbe5483be90b8]: Commencement: Art. 25 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-ba1dde07498b4c1f7ad8404cf665e87c]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/nisr/2005/350/article/25/1) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(6)](https://www.legislation.gov.uk/nisr/2006/300/article/31/6)
+[^c-ba1dde07498b4c1f7ad8404cf665e87c]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/nisr/2005/350/article/25/1) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(6)](https://www.legislation.gov.uk/nisr/2006/300/article/31/6)
 
-[^key-a3870b876db1e06d5c9a366c78166bb0]: Textual amendment: Words in [art. 25(4)](https://www.legislation.gov.uk/nisr/2005/350/article/25/4) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(7)](https://www.legislation.gov.uk/nisr/2006/300/article/31/7)
+[^c-a3870b876db1e06d5c9a366c78166bb0]: Textual amendment: Words in [art. 25(4)](https://www.legislation.gov.uk/nisr/2005/350/article/25/4) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(7)](https://www.legislation.gov.uk/nisr/2006/300/article/31/7)
 
-[^key-cf7eadbe9b3e4885598718eb5bfc27a8]: Commencement: Art. 26 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-cf7eadbe9b3e4885598718eb5bfc27a8]: Commencement: Art. 26 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-f4713631049999883f37f62da48d1129]: Textual amendment: Words in [art. 26(1)](https://www.legislation.gov.uk/nisr/2005/350/article/26/1) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(8)](https://www.legislation.gov.uk/nisr/2006/300/article/31/8)
+[^c-f4713631049999883f37f62da48d1129]: Textual amendment: Words in [art. 26(1)](https://www.legislation.gov.uk/nisr/2005/350/article/26/1) omitted (1.8.2006) by virtue of [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(8)](https://www.legislation.gov.uk/nisr/2006/300/article/31/8)
 
-[^key-37d0fa28fe69ddbc90c3b4de1b47c0fa]: Commencement: Art. 27 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-37d0fa28fe69ddbc90c3b4de1b47c0fa]: Commencement: Art. 27 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-f7fdafaede88034dc5841a7bdb7dbe93]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/nisr/2005/350/article/27/2) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(9)](https://www.legislation.gov.uk/nisr/2006/300/article/31/9)
+[^c-f7fdafaede88034dc5841a7bdb7dbe93]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/nisr/2005/350/article/27/2) substituted (1.8.2006) by [The Sea Fishing (Restriction on Days at Sea) (Monitoring, Inspection and Surveillance) Order (Northern Ireland) 2006 (S.R. 2006/300)](https://www.legislation.gov.uk/nisr/2006/300), [arts. 1](https://www.legislation.gov.uk/nisr/2006/300/article/1), [31(9)](https://www.legislation.gov.uk/nisr/2006/300/article/31/9)
 
-[^key-232c520bd029eea4092dcf70094b2ddd]: Commencement: Art. 28 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-232c520bd029eea4092dcf70094b2ddd]: Commencement: Art. 28 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-9cb94b2fda2dda56b0a32845e0931c59]: Commencement: Art. 29 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-9cb94b2fda2dda56b0a32845e0931c59]: Commencement: Art. 29 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-e5f3cd7ed632361d0b6a9562def8f215]: Commencement: Art. 30 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-e5f3cd7ed632361d0b6a9562def8f215]: Commencement: Art. 30 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-1910b5551e5d9f48aa858753d79a04a0]: Commencement: Art. 31 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-1910b5551e5d9f48aa858753d79a04a0]: Commencement: Art. 31 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
-[^key-c4cdc5a3ad0d389135a5bd0b9e920db2]: Commencement: Art. 32 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-c4cdc5a3ad0d389135a5bd0b9e920db2]: Commencement: Art. 32 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
 [^f00014]: Footnote: S.I. [2000/51](https://www.legislation.gov.uk/uksi/2000/51) as amended by [S.R. 2003 No. 59](https://www.legislation.gov.uk/nisr/2003/59) and [S.R. 2004 No. 173](https://www.legislation.gov.uk/nisr/2004/173)
 
-[^key-958dd6f387b0c8929f13fe46c6b7161b]: Commencement: Art. 33 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-958dd6f387b0c8929f13fe46c6b7161b]: Commencement: Art. 33 in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
 
 [^f00015]: Footnote: [S.R. 2004/173](https://www.legislation.gov.uk/nisr/2004/173)
 
-[^key-10d0da0065e65c151a8bee276668da31]: Commencement: Sch. in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)
+[^c-10d0da0065e65c151a8bee276668da31]: Commencement: Sch. in operation at 28.7.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/350/article/1/1)

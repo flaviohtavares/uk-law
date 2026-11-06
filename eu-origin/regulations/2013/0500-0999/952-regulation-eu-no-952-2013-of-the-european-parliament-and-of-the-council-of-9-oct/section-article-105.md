@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-8d70376f6a1b212f516850eb8d80fb5d] Where a customs debt is incurred as a result of the acceptance of the customs declaration of goods for a customs procedure, other than temporary admission with partial relief from import duty, or of any other act having the same legal effect as such acceptance, the customs authorities shall enter the amount of import or export duty payable in the accounts within 14 days of the release of the goods.
+1.[^c-8d70376f6a1b212f516850eb8d80fb5d] Where a customs debt is incurred as a result of the acceptance of the customs declaration of goods for a customs procedure, other than temporary admission with partial relief from import duty, or of any other act having the same legal effect as such acceptance, the customs authorities shall enter the amount of import or export duty payable in the accounts within 14 days of the release of the goods.
 
 However, provided that payment has been guaranteed, the total amount of import or export duty relating to all the goods released to one and the same person during a period fixed by the customs authorities, which may not exceed 31 days, may be covered by a single entry in the accounts at the end of that period. Such entry in the accounts shall take place within 14 days of the expiry of the period concerned.
 
@@ -38,4 +38,4 @@ However, where the customs debt relates to a provisional commercial policy measu
 
 ## Annotations
 
-[^key-8d70376f6a1b212f516850eb8d80fb5d]: Modification: Art. 105(1) modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AH(4)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AH/4) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-8d70376f6a1b212f516850eb8d80fb5d]: Modification: Art. 105(1) modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AH(4)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AH/4) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))

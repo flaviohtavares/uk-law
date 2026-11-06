@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Validation of licences[^key-7ad5a785bbbcf1e4be5f7d3b4bc82844]
+## 42. Validation of licences[^c-7ad5a785bbbcf1e4be5f7d3b4bc82844]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ad5a785bbbcf1e4be5f7d3b4bc82844]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2015/870/article/42) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-7ad5a785bbbcf1e4be5f7d3b4bc82844]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2015/870/article/42) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

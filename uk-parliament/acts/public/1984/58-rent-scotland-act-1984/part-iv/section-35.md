@@ -51,7 +51,7 @@ of the said Schedule 5 shall have effect as if for the words “he may register 
 
 (11) The rent officer shall make available for public inspection, without charge, any agreement which has been lodged with him under this section unless the agreement is treated by him as a joint application for the registration of a rent and a rent is subsequently registered in pursuance of such application; and any agreement which is made available for public inspection under this subsection shall be so available for a period of three years from the date which is 28 days after it has been lodged with the rent officer.
 
-(12) A copy of such an agreement certified by the rent officer or any person duly authorised by him shall be receivable in evidence, and shall be sufficient evidence of the agreement in any court or tribunal[^key-8399d31949d0b5da1ecc11831dca9fe5] and in any proceedings.
+(12) A copy of such an agreement certified by the rent officer or any person duly authorised by him shall be receivable in evidence, and shall be sufficient evidence of the agreement in any court or tribunal[^c-8399d31949d0b5da1ecc11831dca9fe5] and in any proceedings.
 
 (13) A person requiring such a certified copy shall be entitled to obtain it on payment of the prescribed fee.
 
@@ -64,4 +64,4 @@ of the said Schedule 5 shall have effect as if for the words “he may register 
 
 [^c981571]: Marginal citation: [1972 c. 46](https://www.legislation.gov.uk/ukpga/1972/46).
 
-[^key-8399d31949d0b5da1ecc11831dca9fe5]: Textual amendment: Words in [s. 35(12)](https://www.legislation.gov.uk/ukpga/1984/58/section/35/12) inserted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 14](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/14); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-8399d31949d0b5da1ecc11831dca9fe5]: Textual amendment: Words in [s. 35(12)](https://www.legislation.gov.uk/ukpga/1984/58/section/35/12) inserted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 14](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/14); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

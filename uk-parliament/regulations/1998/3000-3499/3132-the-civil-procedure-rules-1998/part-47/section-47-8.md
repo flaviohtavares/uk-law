@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.8. Sanction for delay in commencing detailed assessment proceedings[^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 47.8. Sanction for delay in commencing detailed assessment proceedings[^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
@@ -43,10 +43,10 @@ but will not impose any other sanction except in accordance with rule 44.11 (pow
 
 (4) Where the costs to be assessed in a detailed assessment are payable out of the Community Legal Service Fund, this rule applies as if the receiving party were the solicitor to whom the costs are payable and the paying party were the Legal Services Commission.
 
-(5)[^key-48dd28cde9f39ad090b1e0717849b4b3] Where the costs to be assessed in a detailed assessment are payable by the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, this rule applies as if the receiving party were the solicitor to whom the costs are payable and the paying party were the Lord Chancellor.
+(5)[^c-48dd28cde9f39ad090b1e0717849b4b3] Where the costs to be assessed in a detailed assessment are payable by the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, this rule applies as if the receiving party were the solicitor to whom the costs are payable and the paying party were the Lord Chancellor.
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-48dd28cde9f39ad090b1e0717849b4b3]: Textual amendment: [Rule 47.8(5)](https://www.legislation.gov.uk/uksi/1998/3132/rule/47.8/5) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/2/b) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2013/534/regulation/14/4))
+[^c-48dd28cde9f39ad090b1e0717849b4b3]: Textual amendment: [Rule 47.8(5)](https://www.legislation.gov.uk/uksi/1998/3132/rule/47.8/5) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/2/b) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2013/534/regulation/14/4))

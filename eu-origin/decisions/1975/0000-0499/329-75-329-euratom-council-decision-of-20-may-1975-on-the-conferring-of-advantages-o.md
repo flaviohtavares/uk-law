@@ -32,10 +32,10 @@ summary: ''
 
 of 20 May 1975 on the conferring of advantages on the 'Schnell-Brüter- Kernkraftwerksgesellschaft mbh' (SBK) Joint Undertaking (revoked)
 
-[^key-7223f555be443eeeeb31886dd8bd7012]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7223f555be443eeeeb31886dd8bd7012]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-7223f555be443eeeeb31886dd8bd7012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-7223f555be443eeeeb31886dd8bd7012] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7223f555be443eeeeb31886dd8bd7012]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-7223f555be443eeeeb31886dd8bd7012]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

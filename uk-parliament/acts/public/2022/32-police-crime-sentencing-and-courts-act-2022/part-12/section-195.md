@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Pardons for certain convictions or cautions[^key-cf56132c718d5ef736b1fee8ab83afd2][^key-7e6d306c48d65261ea2a41c769623485]
+## 195. Pardons for certain convictions or cautions[^c-cf56132c718d5ef736b1fee8ab83afd2][^c-7e6d306c48d65261ea2a41c769623485]
 
 *Extent: E+W*
 
@@ -102,6 +102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf56132c718d5ef736b1fee8ab83afd2]: Commencement: S. 195 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-cf56132c718d5ef736b1fee8ab83afd2]: Commencement: S. 195 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-7e6d306c48d65261ea2a41c769623485]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2022/32/section/195) in force at 13.6.2023 by [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/b)
+[^c-7e6d306c48d65261ea2a41c769623485]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2022/32/section/195) in force at 13.6.2023 by [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/b)

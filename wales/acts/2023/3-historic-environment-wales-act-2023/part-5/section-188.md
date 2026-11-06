@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 188. Representation of Crown and Duchy interests in land[^key-de272b5be3a62fb4f310c683fb09f2d2][^key-d5ad2f961679ee019b2a76f5700c06d8]
+## 188. Representation of Crown and Duchy interests in land[^c-de272b5be3a62fb4f310c683fb09f2d2][^c-d5ad2f961679ee019b2a76f5700c06d8]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de272b5be3a62fb4f310c683fb09f2d2]: Commencement: S. 188 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-de272b5be3a62fb4f310c683fb09f2d2]: Commencement: S. 188 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-d5ad2f961679ee019b2a76f5700c06d8]: Commencement: [S. 188](https://www.legislation.gov.uk/asc/2023/3/section/188) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-d5ad2f961679ee019b2a76f5700c06d8]: Commencement: [S. 188](https://www.legislation.gov.uk/asc/2023/3/section/188) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

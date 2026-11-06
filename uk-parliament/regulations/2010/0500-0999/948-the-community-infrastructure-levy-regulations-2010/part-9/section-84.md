@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Surcharge: disqualifying events[^key-72f357379f4eecd91b5a15c47195ad50]
+## 84. Surcharge: disqualifying events[^c-72f357379f4eecd91b5a15c47195ad50]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) Where the disqualifying event occurs in relation to a grant of social housing relief, the surcharge is payable by the relevant person within the meaning of regulation 53(10).
 
-(5A)[^key-02694d1e62ecd957131734825207a649] Where the disqualifying event occurs in relation to an exemption for residential annexes, the surcharge is payable by the relevant person within the meaning of regulation 42C(6).
+(5A)[^c-02694d1e62ecd957131734825207a649] Where the disqualifying event occurs in relation to an exemption for residential annexes, the surcharge is payable by the relevant person within the meaning of regulation 42C(6).
 
 (5B) Where the disqualifying event occurs in relation to an exemption for self-build housing, the surcharge is payable by the relevant person within the meaning of regulation 54D(8).
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72f357379f4eecd91b5a15c47195ad50]: Commencement: Reg. 84 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-72f357379f4eecd91b5a15c47195ad50]: Commencement: Reg. 84 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-02694d1e62ecd957131734825207a649]: Textual amendment: [Reg. 84(5A)](https://www.legislation.gov.uk/uksi/2010/948/regulation/84/5A)[(5B)](https://www.legislation.gov.uk/uksi/2010/948/regulation/84/5B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/385/regulation/10)
+[^c-02694d1e62ecd957131734825207a649]: Textual amendment: [Reg. 84(5A)](https://www.legislation.gov.uk/uksi/2010/948/regulation/84/5A)[(5B)](https://www.legislation.gov.uk/uksi/2010/948/regulation/84/5B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/385/regulation/10)

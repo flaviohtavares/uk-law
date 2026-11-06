@@ -365,7 +365,7 @@ Section 139.
 
 **37.** (1) Schedule 5 (exemptions) shall be amended as follows.
 
-(2) In paragraph 7 (agricultural buildings) in each of sub-paragraphs (1)(b) [^key-7ee033c97aea4a8de0294188ba4381e8]..., for “(together with the body)” there shall be substituted “ or are together with the body ”.
+(2) In paragraph 7 (agricultural buildings) in each of sub-paragraphs (1)(b) [^c-7ee033c97aea4a8de0294188ba4381e8]..., for “(together with the body)” there shall be substituted “ or are together with the body ”.
 
 (3) In paragraph 9 (exemption for fish farms) the following shall be inserted after sub-paragraph (4)—
 
@@ -925,7 +925,7 @@ Section 139.
 
 **59.**[^c15281651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**60.**[^key-56c1998fd20d220d279c2520ad5e7376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-56c1998fd20d220d279c2520ad5e7376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **61.**[^c15281661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1116,7 +1116,7 @@ Section 139.
 
 [^c15281541]: Textual amendment: [Sch. 5 para. 35(2)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/35/2) repealed (1.4.2000) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/1997/29/section/33/2), [34(1)](https://www.legislation.gov.uk/ukpga/1997/29/section/34/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/29/schedule/4); [S.I. 1998/2329](https://www.legislation.gov.uk/uksi/1998/2329), [art. 3](https://www.legislation.gov.uk/uksi/1998/2329/article/3)
 
-[^key-7ee033c97aea4a8de0294188ba4381e8]: Textual amendment: Words in Sch. 5 para. 37(2) repealed (18.11.2003 for E. and 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(i)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/i/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-7ee033c97aea4a8de0294188ba4381e8]: Textual amendment: Words in Sch. 5 para. 37(2) repealed (18.11.2003 for E. and 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(i)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/i/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
 [^c15281551]: Textual amendment: [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/43) repealed (1.4.1993) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s.117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch.14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)), [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 3](https://www.legislation.gov.uk/uksi/1992/2454/article/3)
 
@@ -1140,7 +1140,7 @@ Section 139.
 
 [^c15281651]: Textual amendment: [Sch. 5 para. 59](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/59) repealed (1.4.1993) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch.14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)); [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/2454/article/3/1)
 
-[^key-56c1998fd20d220d279c2520ad5e7376]: Textual amendment: Sch. 5 para. 60 repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-56c1998fd20d220d279c2520ad5e7376]: Textual amendment: Sch. 5 para. 60 repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
 [^c15281661]: Textual amendment: [Sch. 5 para. 61](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/61) repealed (1.4.1993) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)); [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/2454/article/3/1)
 

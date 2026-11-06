@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Application of Part to specific deeds[^key-cebf2ab5fcffd3aaacd416525175558c]
+## 64. Application of Part to specific deeds[^c-cebf2ab5fcffd3aaacd416525175558c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cebf2ab5fcffd3aaacd416525175558c]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2012/5/section/64) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)
+[^c-cebf2ab5fcffd3aaacd416525175558c]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2012/5/section/64) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)

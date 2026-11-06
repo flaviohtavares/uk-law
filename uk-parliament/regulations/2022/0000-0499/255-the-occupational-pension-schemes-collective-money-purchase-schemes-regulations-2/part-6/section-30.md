@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Continuity option 2: resolving the triggering event[^key-ea521aba94b06b607e768e7fb9eca458]
+## 30. Continuity option 2: resolving the triggering event[^c-ea521aba94b06b607e768e7fb9eca458]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ For the purposes of section 37(3)(b) of the Act (continuity option 2: resolving 
 
 ## Annotations
 
-[^key-ea521aba94b06b607e768e7fb9eca458]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2022/255/regulation/30) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-ea521aba94b06b607e768e7fb9eca458]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2022/255/regulation/30) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

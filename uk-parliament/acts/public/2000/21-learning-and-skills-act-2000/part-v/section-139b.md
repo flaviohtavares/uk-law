@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139B. Assessments under section 139A: interpretation[^key-4ef33dfefc134a0cbed105bae7e06ede]
+## 139B. Assessments under section 139A: interpretation[^c-4ef33dfefc134a0cbed105bae7e06ede]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ef33dfefc134a0cbed105bae7e06ede]: Textual amendment: [S. 139B](https://www.legislation.gov.uk/ukpga/2000/21/section/139B) repealed (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 74](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/74); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
+[^c-4ef33dfefc134a0cbed105bae7e06ede]: Textual amendment: [S. 139B](https://www.legislation.gov.uk/ukpga/2000/21/section/139B) repealed (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 74](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/74); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))

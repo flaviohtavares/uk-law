@@ -28,7 +28,7 @@ summary: ''
 
 (4) “**Externally financed development agreement**” has the same meaning as in paragraph 23 of Schedule 4, reading references in sub-paragraphs (3) and (5) of that paragraph to the NHS trust as references to the NHS foundation trust.
 
-(5)[^key-3fdad90a8b509837b10fa5e872389a85] As soon as is practicable after the end of each financial year, the Secretary of State must prepare a report on the exercise of the power under subsection (1).
+(5)[^c-3fdad90a8b509837b10fa5e872389a85] As soon as is practicable after the end of each financial year, the Secretary of State must prepare a report on the exercise of the power under subsection (1).
 
 (6) In relation to each exercise of the power under that subsection during the year to which the report relates, the report must specify the amount of the loan, issue of public dividend capital, grant or other payment and—
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fdad90a8b509837b10fa5e872389a85]: Textual amendment: [S. 40(5)-(9)](https://www.legislation.gov.uk/ukpga/2006/41/section/40/5) inserted (1.4.2013 for specified purposes) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3fdad90a8b509837b10fa5e872389a85]: Textual amendment: [S. 40(5)-(9)](https://www.legislation.gov.uk/ukpga/2006/41/section/40/5) inserted (1.4.2013 for specified purposes) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

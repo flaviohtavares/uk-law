@@ -46,7 +46,7 @@ Coming into force
 
 [^c23198691][^c23198701]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services.
 
-The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and the following provisions of the Financial Services and Markets Act 2000 [^c23198711]: sections 1A(6), 1L(2)(b), 168(4)(k), 204A(2) and (4), 293A, 296(1A), 297(2A)(c), 312E(3)(c), 380(6)(a)(i), 380(9); paragraph 23(2)(b) of Schedule 1ZA; paragraphs 14(2)(d), 26(2)(c) and 36(2)(b) of Schedule 17A; make the following Regulations:[^key-9eb1a7ded7c6bc84097f57543ab44dc0]
+The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and the following provisions of the Financial Services and Markets Act 2000 [^c23198711]: sections 1A(6), 1L(2)(b), 168(4)(k), 204A(2) and (4), 293A, 296(1A), 297(2A)(c), 312E(3)(c), 380(6)(a)(i), 380(9); paragraph 23(2)(b) of Schedule 1ZA; paragraphs 14(2)(d), 26(2)(c) and 36(2)(b) of Schedule 17A; make the following Regulations:[^c-9eb1a7ded7c6bc84097f57543ab44dc0]
 
 ## PART 1 — Citation, commencement and interpretation
 
@@ -62,12 +62,12 @@ The Treasury, in exercise of the powers conferred by section 2(2) of the Europea
 
 - “**the Act**” means the Financial Services and Markets Act 2000;
 - “**Bank**” means the Bank of England;
-- “[^key-73b629ed637c8aa077219702fdcf28a6]**recognised CSD**” has the meaning given in section 285(1) of the Act;
+- “[^c-73b629ed637c8aa077219702fdcf28a6]**recognised CSD**” has the meaning given in section 285(1) of the Act;
 - “**SFTR requirement**” means a requirement imposed by—
   - (a) Article 4 or 15 of the SFT regulation [^c23198721]; or
   - (b) any directly applicable regulation made under Article 4(9) or 4(10) of the SFT regulation.
 
-(2) Any expression used in these Regulations which is given a meaning in Article 3 [^key-901437d1e66c037bcdb7e361846c2232]... of the SFT regulation has the meaning which it is given in that Article.
+(2) Any expression used in these Regulations which is given a meaning in Article 3 [^c-901437d1e66c037bcdb7e361846c2232]... of the SFT regulation has the meaning which it is given in that Article.
 
 ## PART 2 — Designation of competent authorities
 
@@ -75,7 +75,7 @@ The Treasury, in exercise of the powers conferred by section 2(2) of the Europea
 
 (1) Subject to paragraph (2), the FCA is responsible for the functions of the competent authority for the purposes of the SFT regulation.
 
-(2) The Bank is responsible for the functions of the competent authority for the purposes of the SFT regulation in relation to any financial counterparty which is a recognised central counterparty or a recognised CSD[^key-4f0d9e65aa5cc002d0f1083dd1796717].
+(2) The Bank is responsible for the functions of the competent authority for the purposes of the SFT regulation in relation to any financial counterparty which is a recognised central counterparty or a recognised CSD[^c-4f0d9e65aa5cc002d0f1083dd1796717].
 
 ## PART 3 — Administration and enforcement
 
@@ -86,8 +86,8 @@ The Treasury, in exercise of the powers conferred by section 2(2) of the Europea
 In this Part a “non-authorised counterparty” is a financial or non-financial counterparty which is not—
 
 - (a) an authorised person;
-- (b) a recognised investment exchange; [^key-f2f70f32a25643fec84ec58d98f87b3e]...
-- (c) a recognised central counterparty ; or[^key-7ed97a40a0490bb3cc97bbc792f21bcd]
+- (b) a recognised investment exchange; [^c-f2f70f32a25643fec84ec58d98f87b3e]...
+- (c) a recognised central counterparty ; or[^c-7ed97a40a0490bb3cc97bbc792f21bcd]
 - (d) a recognised CSD.
 
 ### CHAPTER 2 — Information gathering
@@ -222,7 +222,7 @@ as it may reasonably require.
 
 (7) In this regulation “**the relevant regulator**” means—
 
-- (a) where the counterparty referred to in paragraph (1) is a recognised central counterparty or a recognised CSD[^key-ec8145f135d6920d8962dc8ff72ca1e5], the Bank;
+- (a) where the counterparty referred to in paragraph (1) is a recognised central counterparty or a recognised CSD[^c-ec8145f135d6920d8962dc8ff72ca1e5], the Bank;
 - (b) where the counterparty referred to in paragraph (1) is any other financial or non-financial counterparty, the FCA.
 
 #### 12. Temporary prohibition orders: procedure
@@ -230,7 +230,7 @@ as it may reasonably require.
 (1) Section 57 [^c23198761] (prohibition orders: procedure and right to refer to Tribunal) of the Act applies to a temporary prohibition order made under regulation 11 as it applies to a prohibition order made under section 56 [^c23198771] of the Act (prohibition orders), but with—
 
 - (a) the references to a regulator being read to refer to—
-  - (i) the Bank, where the counterparty referred to in paragraph 11(1) is a recognised central counterparty or a recognised CSD[^key-78a9c89ba0a4c95328b28eb672dd316f]; or
+  - (i) the Bank, where the counterparty referred to in paragraph 11(1) is a recognised central counterparty or a recognised CSD[^c-78a9c89ba0a4c95328b28eb672dd316f]; or
   - (ii) the FCA, where the counterparty referred to in paragraph 11(1) is any other financial or non-financial counterparty; and
 - (b) subsections (6), (7) and (8) of section 57 omitted.
 
@@ -241,7 +241,7 @@ as it may reasonably require.
 Section 312E (public censure), 312F (financial penalties), 312G (proposal to take disciplinary measures), 312H (decision notice) and 312I [^c23198791] (publication) of the Act apply in relation to the contravention by a recognised body of a requirement under regulation 11(4) as they apply in relation to the contravention by a recognised body of a relevant requirement, but with—
 
 - (a) references to the appropriate regulator being read to refer to—
-  - (i) the Bank, where the recognised body is a recognised central counterparty or a recognised CSD[^key-9ced1934ca66381badcc601a52d26dc3];
+  - (i) the Bank, where the recognised body is a recognised central counterparty or a recognised CSD[^c-9ced1934ca66381badcc601a52d26dc3];
   - (ii) the FCA, where the recognised body is any other financial or non-financial counterparty;
 - (b) in sub-paragraph (b) of section 312I, the reference to section 393(4) being read to refer to regulation 19.
 
@@ -390,7 +390,7 @@ it may make an order restraining (or in Scotland an interdict prohibiting) the p
 (6) The Bank is the “relevant regulator” in the case of a contravention of—
 
 - (a) a requirement that is imposed by the Bank under regulation 11; or
-- (b) a requirement imposed by regulation 11(4) where the financial counterparty is a recognised central counterparty or a recognised CSD[^key-69c47f7e09360dcd3053a752968c00c8].
+- (b) a requirement imposed by regulation 11(4) where the financial counterparty is a recognised central counterparty or a recognised CSD[^c-69c47f7e09360dcd3053a752968c00c8].
 
 (7) The FCA is the “relevant regulator” in the case of a contravention of any other requirement.
 
@@ -462,7 +462,7 @@ Proceedings for an offence under this Part may be instituted—
 - (b) assess the extent to which those objectives are achieved; and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
 
-(3)[^key-13355c8b03d68436aea0ff2a6575baad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-13355c8b03d68436aea0ff2a6575baad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The first report under this article must be published before the end of 2020.
 
@@ -747,19 +747,19 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23198711]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Sections 1A to 3S were inserted by section 6 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21); [section 168](https://www.legislation.gov.uk/uksi/2016/715/section/168) was amended by Schedule 12 to that Act; [sections 204A](https://www.legislation.gov.uk/uksi/2016/715/section/204A) and 380 were amended by Schedule 9 to that Act; [section 293A](https://www.legislation.gov.uk/uksi/2016/715/section/293A) was inserted by Schedule 8 to that Act; [sections 296](https://www.legislation.gov.uk/uksi/2016/715/section/296) and 297 were amended by Schedule 8 to that Act; [section 312E](https://www.legislation.gov.uk/uksi/2016/715/section/312E) was inserted by section 33 of that Act; [Schedule 1ZA](https://www.legislation.gov.uk/uksi/2016/715/schedule/1ZA) was inserted by Schedule 3 to that Act; [Schedule 17A](https://www.legislation.gov.uk/uksi/2016/715/schedule/17A) was inserted by Schedule 7 to that Act. There are other amendments to the Act which are not relevant to this Order.
 
-[^key-9eb1a7ded7c6bc84097f57543ab44dc0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/715): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-9eb1a7ded7c6bc84097f57543ab44dc0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2016/715): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-73b629ed637c8aa077219702fdcf28a6]: Textual amendment: Words in reg. 2(1) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(2)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-73b629ed637c8aa077219702fdcf28a6]: Textual amendment: Words in reg. 2(1) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(2)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c23198721]: Marginal citation: “SFT regulation” is defined in section 417 of the Act, as amended by paragraph 1(5) of Schedule 1 to these Regulations.
 
-[^key-901437d1e66c037bcdb7e361846c2232]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/2/2) omitted (31.12.2020) by virtue of [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/542/regulation/3/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-901437d1e66c037bcdb7e361846c2232]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/2/2) omitted (31.12.2020) by virtue of [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/542/regulation/3/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4f0d9e65aa5cc002d0f1083dd1796717]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/3/2) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(3)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/3) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-4f0d9e65aa5cc002d0f1083dd1796717]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/715/regulation/3/2) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(3)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/3) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-f2f70f32a25643fec84ec58d98f87b3e]: Textual amendment: Word in reg. 4(b) omitted (28.11.2017) by virtue of [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(4)(a)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/4/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-f2f70f32a25643fec84ec58d98f87b3e]: Textual amendment: Word in reg. 4(b) omitted (28.11.2017) by virtue of [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(4)(a)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/4/a) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-7ed97a40a0490bb3cc97bbc792f21bcd]: Textual amendment: Reg. 4(d) and word inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(4)(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/4/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-7ed97a40a0490bb3cc97bbc792f21bcd]: Textual amendment: Reg. 4(d) and word inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(4)(b)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/4/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c23198731]: Marginal citation: [Section 166](https://www.legislation.gov.uk/uksi/2016/715/section/166) was amended by the Financial Services Act 2012, Schedule 12, paragraph 5.
 
@@ -767,19 +767,19 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23198751]: Marginal citation: [1988 c.36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-ec8145f135d6920d8962dc8ff72ca1e5]: Textual amendment: Words in [reg. 11(7)(a)](https://www.legislation.gov.uk/uksi/2016/715/regulation/11/7/a) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(5)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/5) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-ec8145f135d6920d8962dc8ff72ca1e5]: Textual amendment: Words in [reg. 11(7)(a)](https://www.legislation.gov.uk/uksi/2016/715/regulation/11/7/a) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(5)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/5) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c23198761]: Marginal citation: Section 57 was amended by the Financial Services Act 2012, section 13.
 
 [^c23198771]: Marginal citation: Section 56 was amended by the Financial Services Act 2012, section 13.
 
-[^key-78a9c89ba0a4c95328b28eb672dd316f]: Textual amendment: Words in [reg. 12(1)(a)(i)](https://www.legislation.gov.uk/uksi/2016/715/regulation/12/1/a/i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(6)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/6) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-78a9c89ba0a4c95328b28eb672dd316f]: Textual amendment: Words in [reg. 12(1)(a)(i)](https://www.legislation.gov.uk/uksi/2016/715/regulation/12/1/a/i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(6)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/6) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c23198781]: Marginal citation: Section 58 was amended by the Financial Services Act 2012, Schedule 5, paragraph 2.
 
 [^c23198791]: Marginal citation: Section 312E, 312F, 312G, 312H and 312I were inserted by the Financial Services Act 2012, section 33.
 
-[^key-9ced1934ca66381badcc601a52d26dc3]: Textual amendment: Words in [reg. 13(a)(i)](https://www.legislation.gov.uk/uksi/2016/715/regulation/13/a/i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(7)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/7) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-9ced1934ca66381badcc601a52d26dc3]: Textual amendment: Words in [reg. 13(a)(i)](https://www.legislation.gov.uk/uksi/2016/715/regulation/13/a/i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(7)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/7) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c23198801]: Marginal citation: [Part 26](https://www.legislation.gov.uk/uksi/2016/715/part/26) was amended by paragraph 11 of Schedule 4 to the [Regulation of Investigatory Powers Act 2000 (c.23)](https://www.legislation.gov.uk/ukpga/2000/23), [section 1268](https://www.legislation.gov.uk/ukpga/2000/23/section/1268) of the [Companies Act 2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), [section 13](https://www.legislation.gov.uk/ukpga/2006/46/section/13) and 24 of and paragraph 28 and 29 of Schedule 2 to the Financial Services Act 2010, section 17, 18, 19 and 24 of and paragraph 37 of Schedule 8, Schedule 9 and paragraph 8 of Schedule 13 to the Financial Services Act 2012, section 4 of and Schedule 3 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), [S.I](https://www.legislation.gov.uk/ukpga/2013/33/section/I). 2005/381, [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433), [S.I](https://www.legislation.gov.uk/uksi/2005/1433/section/I). 2007/126, [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973), [S.I](https://www.legislation.gov.uk/uksi/2007/1973/section/I). 2009/119, [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534), [S.I](https://www.legislation.gov.uk/uksi/2009/534/section/I). 2010/22, [S.I. 2010/747](https://www.legislation.gov.uk/uksi/2010/747), [S.I](https://www.legislation.gov.uk/uksi/2010/747/section/I). 2012/916, [S.I. 2012/1538](https://www.legislation.gov.uk/uksi/2012/1538), [S.I](https://www.legislation.gov.uk/uksi/2012/1538/section/I). 2013/1388, [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115), [S.I](https://www.legislation.gov.uk/uksi/2013/3115/section/I). 2014/2879, [S.I. 2015/1755](https://www.legislation.gov.uk/uksi/2015/1755) and [S.I. 2016/225](https://www.legislation.gov.uk/uksi/2016/225).
 
@@ -789,7 +789,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23198831]: Marginal citation: [Part 9](https://www.legislation.gov.uk/uksi/2016/715/part/9) was amended by section 23 of the Financial Services Act 2012, paragraph 83 of Schedule 9 to the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [S.I](https://www.legislation.gov.uk/ukpga/2013/22/section/I). 2010/22 and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
 
-[^key-69c47f7e09360dcd3053a752968c00c8]: Textual amendment: Words in [reg. 23(6)(b)](https://www.legislation.gov.uk/uksi/2016/715/regulation/23/6/b) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(8)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/8) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-69c47f7e09360dcd3053a752968c00c8]: Textual amendment: Words in [reg. 23(6)(b)](https://www.legislation.gov.uk/uksi/2016/715/regulation/23/6/b) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 43(8)](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/43/8) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c23198841]: Marginal citation: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 was amended by the [Magistrates' Courts Act 1952 (c.55)](https://www.legislation.gov.uk/ukpga/1952/55), [section 132](https://www.legislation.gov.uk/ukpga/1952/55/section/132) and Schedule 6, the [Courts Act 1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), [Schedule 8](https://www.legislation.gov.uk/ukpga/1971/23/schedule/8), and the [Courts Act 2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), [Schedule 8](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8), [paragraph 71](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/71) and Schedule 10.
 
@@ -801,7 +801,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23198881]: Marginal citation: [S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675).
 
-[^key-13355c8b03d68436aea0ff2a6575baad]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/2016/715/regulation/28/3) omitted (31.12.2020) by virtue of [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/542/regulation/3/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13355c8b03d68436aea0ff2a6575baad]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/2016/715/regulation/28/3) omitted (31.12.2020) by virtue of [The Transparency of Securities Financing Transactions and of Reuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/542)](https://www.legislation.gov.uk/uksi/2019/542), [regs. 1](https://www.legislation.gov.uk/uksi/2019/542/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/542/regulation/3/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23198891]: Marginal citation: [Section 297](https://www.legislation.gov.uk/uksi/2016/715/section/297) was amended by paragraph 15 of Schedule 8 to the Financial Services Act 2012 and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I](https://www.legislation.gov.uk/uksi/2007/126/section/I). 2012/916 and [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504).
 

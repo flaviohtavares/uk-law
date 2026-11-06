@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Undertaker's highway, road traffic and planning functions[^key-b244d45a89d35e9d526f3669b7070e13]
+## 60. Undertaker's highway, road traffic and planning functions[^c-b244d45a89d35e9d526f3669b7070e13]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Except as expressly provided, nothing in this Order is to prejudice the rights, 
 
 ## Annotations
 
-[^key-b244d45a89d35e9d526f3669b7070e13]: Commencement: Art. 60 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-b244d45a89d35e9d526f3669b7070e13]: Commencement: Art. 60 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

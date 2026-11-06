@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Appointment of liquidators etc.[^key-a10fe9cb721f090ff552bae6e5d0987e]
+## 33. Appointment of liquidators etc.[^c-a10fe9cb721f090ff552bae6e5d0987e]
 
 *Extent: N.I.*
 
 (1) Any person to whom paragraph (2) applies must—
 
-- (a) forthwith notify the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] of his appointment indicating the reasons for it;
+- (a) forthwith notify the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] of his appointment indicating the reasons for it;
 - (b) appoint a manager in any case where there is no registered manager; and
 - (c) within 28 days of his appointment, notify the RQIA of his intentions regarding the future operation of the residential family centre.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a10fe9cb721f090ff552bae6e5d0987e]: Commencement: Reg. 33 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-a10fe9cb721f090ff552bae6e5d0987e]: Commencement: Reg. 33 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

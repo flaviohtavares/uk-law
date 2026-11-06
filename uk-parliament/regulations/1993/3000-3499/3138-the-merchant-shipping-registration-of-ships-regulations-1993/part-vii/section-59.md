@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Notices by intending mortgagees: priority notices[^key-449fb14711c4960dd07a425027683ae3]
+## 59. Notices by intending mortgagees: priority notices[^c-449fb14711c4960dd07a425027683ae3]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ as the case may be.
 
 ## Annotations
 
-[^key-449fb14711c4960dd07a425027683ae3]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1993/3138/regulation/59) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-449fb14711c4960dd07a425027683ae3]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1993/3138/regulation/59) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

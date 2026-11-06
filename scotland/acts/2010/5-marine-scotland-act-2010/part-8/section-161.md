@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 161. Further modifications relating to Sea Fisheries (Shellfish) Act 1967[^key-69eac5610cfa21ce68f271bd2f9e9e52]
+## 161. Further modifications relating to Sea Fisheries (Shellfish) Act 1967[^c-69eac5610cfa21ce68f271bd2f9e9e52]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69eac5610cfa21ce68f271bd2f9e9e52]: Commencement: [S. 161](https://www.legislation.gov.uk/asp/2010/5/section/161) in force at 24.2.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/58/article/2/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/58/article/4))
+[^c-69eac5610cfa21ce68f271bd2f9e9e52]: Commencement: [S. 161](https://www.legislation.gov.uk/asp/2010/5/section/161) in force at 24.2.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/58/article/2/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/58/article/4))

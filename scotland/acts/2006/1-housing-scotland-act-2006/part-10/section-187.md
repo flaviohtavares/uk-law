@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 187. Formal communications[^key-ec83c937e65c545d71263f99c72d55a0]
+## 187. Formal communications[^c-ec83c937e65c545d71263f99c72d55a0]
 
 *Extent: S*
 
@@ -42,7 +42,7 @@ used under or for the purposes of this Act.
 (3) A formal communication is served on or, as the case may be, submitted, given, made or issued to, a person if it is—
 
 - (a) delivered to the person at the place mentioned in subsection (4),
-- (b) sent, by post in a prepaid registered letter or by a service which provides for the delivery of the communication to be recorded[^key-565f271a43c6199bbb85b289a3a788e9] , to the person at that place, or
+- (b) sent, by post in a prepaid registered letter or by a service which provides for the delivery of the communication to be recorded[^c-565f271a43c6199bbb85b289a3a788e9] , to the person at that place, or
 - (c) sent to the person in some other manner (including by electronic means) which the sender reasonably considers likely to cause it to be delivered to the person on the same or next day.
 
 (4) The place referred to in subsection (3) is—
@@ -65,6 +65,6 @@ used under or for the purposes of this Act.
 
 ## Annotations
 
-[^key-ec83c937e65c545d71263f99c72d55a0]: Modification: S. 187 applied by 1987 c. 26, Sch. 9 para. 2B (as inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 92(1)(b)](https://www.legislation.gov.uk/asp/2014/14/section/92/1/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2))
+[^c-ec83c937e65c545d71263f99c72d55a0]: Modification: S. 187 applied by 1987 c. 26, Sch. 9 para. 2B (as inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 92(1)(b)](https://www.legislation.gov.uk/asp/2014/14/section/92/1/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2))
 
-[^key-565f271a43c6199bbb85b289a3a788e9]: Textual amendment: Words in s. 187(3)(b) substituted (1.12.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 25(9)](https://www.legislation.gov.uk/asp/2014/14/section/25/9), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/349](https://www.legislation.gov.uk/ssi/2015/349), [art. 3](https://www.legislation.gov.uk/ssi/2015/349/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/349/schedule)
+[^c-565f271a43c6199bbb85b289a3a788e9]: Textual amendment: Words in s. 187(3)(b) substituted (1.12.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 25(9)](https://www.legislation.gov.uk/asp/2014/14/section/25/9), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/349](https://www.legislation.gov.uk/ssi/2015/349), [art. 3](https://www.legislation.gov.uk/ssi/2015/349/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/349/schedule)

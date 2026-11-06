@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P7. Employer's contributions[^key-9c639643872df62c600d17ba2e098f40]
+## P7. Employer's contributions[^c-9c639643872df62c600d17ba2e098f40]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ that has been specified as an individual adjustment for the year in respect of t
 
 ## Annotations
 
-[^key-9c639643872df62c600d17ba2e098f40]: Commencement: [Reg. P7](https://www.legislation.gov.uk/uksi/1986/24/regulation/P7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-9c639643872df62c600d17ba2e098f40]: Commencement: [Reg. P7](https://www.legislation.gov.uk/uksi/1986/24/regulation/P7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

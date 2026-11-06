@@ -34,7 +34,7 @@ Children And Young Persons
 
 Protection Of Vulnerable Adults
 
-The Protection of Vulnerable Groups (Scotland) Act 2007 (Vetting Information) Regulations 2010 (revoked)[^key-8c691a7960845f4a24e23bb09d3748ac]
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Vetting Information) Regulations 2010 (revoked)[^c-8c691a7960845f4a24e23bb09d3748ac]
 
 Made
 
@@ -46,28 +46,28 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-8c691a7960845f4a24e23bb09d3748ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c691a7960845f4a24e23bb09d3748ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8c691a7960845f4a24e23bb09d3748ac]
+## 1. Citation and commencement[^c-8c691a7960845f4a24e23bb09d3748ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8c691a7960845f4a24e23bb09d3748ac]
+## 2. Interpretation[^c-8c691a7960845f4a24e23bb09d3748ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Vetting information: civil orders[^key-8c691a7960845f4a24e23bb09d3748ac]
+## 3. Vetting information: civil orders[^c-8c691a7960845f4a24e23bb09d3748ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c691a7960845f4a24e23bb09d3748ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c691a7960845f4a24e23bb09d3748ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8c691a7960845f4a24e23bb09d3748ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c691a7960845f4a24e23bb09d3748ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8c691a7960845f4a24e23bb09d3748ac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/189) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/4) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-8c691a7960845f4a24e23bb09d3748ac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/189) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/4) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

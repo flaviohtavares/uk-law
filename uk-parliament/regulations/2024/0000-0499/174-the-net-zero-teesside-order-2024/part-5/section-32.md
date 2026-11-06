@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Temporary use of land for maintaining the authorised development[^key-89e2bb083b6d0bf21b43c1090c47f589]
+## 32. Temporary use of land for maintaining the authorised development[^c-89e2bb083b6d0bf21b43c1090c47f589]
 
 *Extent: E+W+S*
 
-(1) Subject to paragraph (2), and article 21A (supplemental land),[^key-e2cc745f66827a9ae1d6f10526413983] at any time during the maintenance period relating to any part of the authorised development, the undertaker may—
+(1) Subject to paragraph (2), and article 21A (supplemental land),[^c-e2cc745f66827a9ae1d6f10526413983] at any time during the maintenance period relating to any part of the authorised development, the undertaker may—
 
 - (a) enter on and take temporary possession of any of the Order land if such possession is reasonably required for the purpose of maintaining the authorised development;
 - (b) enter on any of the Order land for the purpose of gaining such access as is reasonably required for the purpose of maintaining the authorised development; and
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89e2bb083b6d0bf21b43c1090c47f589]: Commencement: Art. 32 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-89e2bb083b6d0bf21b43c1090c47f589]: Commencement: Art. 32 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-e2cc745f66827a9ae1d6f10526413983]: Textual amendment: Words in [art. 32(1)](https://www.legislation.gov.uk/uksi/2024/174/article/32/1) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [12](https://www.legislation.gov.uk/uksi/2025/1143/article/12)
+[^c-e2cc745f66827a9ae1d6f10526413983]: Textual amendment: Words in [art. 32(1)](https://www.legislation.gov.uk/uksi/2024/174/article/32/1) inserted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [12](https://www.legislation.gov.uk/uksi/2025/1143/article/12)

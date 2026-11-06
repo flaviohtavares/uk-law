@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74A. Application and interpretation[^key-518c954a9126cc8a10ac3348ea90a210]
+## 74A. Application and interpretation[^c-518c954a9126cc8a10ac3348ea90a210]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-518c954a9126cc8a10ac3348ea90a210]: Textual amendment: Pt. 11 Ch. 6 inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [8](https://www.legislation.gov.uk/uksi/2013/2527/article/8)
+[^c-518c954a9126cc8a10ac3348ea90a210]: Textual amendment: Pt. 11 Ch. 6 inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [8](https://www.legislation.gov.uk/uksi/2013/2527/article/8)

@@ -30,7 +30,7 @@ summary: ''
 - (a) before the end of the period of three months beginning with the date (or last date) of the matters complained of, or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-06c9ce1e6c750dc8639b68fd65df5045] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(2A)[^c-06c9ce1e6c750dc8639b68fd65df5045] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 (3) Where an industrial tribunal finds a complaint under this Article well-founded it—
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c22340171]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-06c9ce1e6c750dc8639b68fd65df5045]: Textual amendment: [Art. 112(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/112/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/35); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-06c9ce1e6c750dc8639b68fd65df5045]: Textual amendment: [Art. 112(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/112/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/35); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

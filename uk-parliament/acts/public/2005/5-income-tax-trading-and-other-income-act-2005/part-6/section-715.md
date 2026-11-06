@@ -23,9 +23,9 @@ summary: ''
 (1) This section applies if—
 
 - (a) a FOTRA security is held on trust, and
-- (b) apart from this section, interest payable on the security would not be exempt from income tax under section 714 because of the security not being in the beneficial ownership of a non-UK resident person[^key-459ea4b495f58f5bb4bcbe6c814c21b8].
+- (b) apart from this section, interest payable on the security would not be exempt from income tax under section 714 because of the security not being in the beneficial ownership of a non-UK resident person[^c-459ea4b495f58f5bb4bcbe6c814c21b8].
 
-(2) For the purposes of determining whether the interest is exempt under section 714 it is to be assumed that the security is in the beneficial ownership of a non-UK resident person[^key-9384ab386f00689bbf58ebec665d6866] if none of the beneficiaries of the trust is[^key-517636c1e63ebe065c76caec05b78d1c] UK resident for the tax year in which the interest arises.
+(2) For the purposes of determining whether the interest is exempt under section 714 it is to be assumed that the security is in the beneficial ownership of a non-UK resident person[^c-9384ab386f00689bbf58ebec665d6866] if none of the beneficiaries of the trust is[^c-517636c1e63ebe065c76caec05b78d1c] UK resident for the tax year in which the interest arises.
 
 (3) In subsection (2) “**beneficiaries of the trust**” includes any person known to the trustees as a person—
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-459ea4b495f58f5bb4bcbe6c814c21b8]: Textual amendment: Words in s. 715(1)(b) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 52(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/2) (with [Sch. 46 para. 52(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/4))
+[^c-459ea4b495f58f5bb4bcbe6c814c21b8]: Textual amendment: Words in s. 715(1)(b) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 52(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/2) (with [Sch. 46 para. 52(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/4))
 
-[^key-9384ab386f00689bbf58ebec665d6866]: Textual amendment: Words in s. 715(2) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 52(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/3/a) (with [Sch. 46 para. 52(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/4))
+[^c-9384ab386f00689bbf58ebec665d6866]: Textual amendment: Words in s. 715(2) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 52(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/3/a) (with [Sch. 46 para. 52(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/4))
 
-[^key-517636c1e63ebe065c76caec05b78d1c]: Textual amendment: Words in s. 715(2) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 52(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/3/b) (with [Sch. 46 para. 52(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/4))
+[^c-517636c1e63ebe065c76caec05b78d1c]: Textual amendment: Words in s. 715(2) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 52(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/3/b) (with [Sch. 46 para. 52(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/52/4))

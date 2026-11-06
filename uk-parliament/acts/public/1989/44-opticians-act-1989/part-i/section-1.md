@@ -22,9 +22,9 @@ summary: ''
 
 (1) There shall continue to be a body corporate known as the General Optical Council (in this Act referred to as “**the Council**”).
 
-(2) The Council shall have the general function of promoting high standards of professional education, conduct and performance among registrants[^key-b1db45d26fdf0aa5518846f403d5ebc5] and the additional functions assigned to the Council by or under this Act.
+(2) The Council shall have the general function of promoting high standards of professional education, conduct and performance among registrants[^c-b1db45d26fdf0aa5518846f403d5ebc5] and the additional functions assigned to the Council by or under this Act.
 
-(2A)[^key-faa20a6bbcf0c4fd1d2846978093cdcd] The over-arching objective of the Council in exercising their functions is the protection of the public.
+(2A)[^c-faa20a6bbcf0c4fd1d2846978093cdcd] The over-arching objective of the Council in exercising their functions is the protection of the public.
 
 (2B) The pursuit by the Council of their over-arching objective involves the pursuit of the following objectives—
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b1db45d26fdf0aa5518846f403d5ebc5]: Textual amendment: Words in s. 1(2) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 3](https://www.legislation.gov.uk/uksi/2005/848/article/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-b1db45d26fdf0aa5518846f403d5ebc5]: Textual amendment: Words in s. 1(2) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 3](https://www.legislation.gov.uk/uksi/2005/848/article/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-faa20a6bbcf0c4fd1d2846978093cdcd]: Textual amendment: S. 1(2A)(2B) substituted for s. 1(2A) (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/2/2); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-faa20a6bbcf0c4fd1d2846978093cdcd]: Textual amendment: S. 1(2A)(2B) substituted for s. 1(2A) (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/2/2); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
 [^M_F_1ff195f5-3508-4587-96bd-5ea49ed2b163]: Textual amendment: S. 1(4) substituted (9.7.2008 for specified purposes, 1.4.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/1774/schedule/2/paragraph/1); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2008/3150/article/3/a/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Modification of conditions of licences[^key-e68518f4e94269945a8c2f12213d1093]
+## 13. Modification of conditions of licences[^c-e68518f4e94269945a8c2f12213d1093]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e68518f4e94269945a8c2f12213d1093]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/52/section/13) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e68518f4e94269945a8c2f12213d1093]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/52/section/13) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

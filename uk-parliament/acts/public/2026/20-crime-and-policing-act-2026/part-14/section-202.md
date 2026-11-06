@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Authorised firearms officers: reporting directions[^key-a0b359235edd9efa6052e28ed79b5edc]
+## 202. Authorised firearms officers: reporting directions[^c-a0b359235edd9efa6052e28ed79b5edc]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ but this is subject to subsection (5)(b) of section 200 and subsections (3), (6)
 
 ## Annotations
 
-[^key-a0b359235edd9efa6052e28ed79b5edc]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2026/20/section/202) in force at 29.6.2026, see [s. 255(3)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/h)
+[^c-a0b359235edd9efa6052e28ed79b5edc]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2026/20/section/202) in force at 29.6.2026, see [s. 255(3)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/h)

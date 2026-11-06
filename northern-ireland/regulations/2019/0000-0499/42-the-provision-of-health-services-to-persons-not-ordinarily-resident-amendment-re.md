@@ -32,7 +32,7 @@ summary: ''
 
 Health And Personal Social Services
 
-The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2019 (revoked)[^key-04407a92093cee94dc8fa820f1354503]
+The Provision of Health Services to Persons Not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2019 (revoked)[^c-04407a92093cee94dc8fa820f1354503]
 
 Made
 
@@ -40,63 +40,63 @@ Made
 
 Coming into operation in accordance with regulation 1(2)
 
-[^key-04407a92093cee94dc8fa820f1354503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04407a92093cee94dc8fa820f1354503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-04407a92093cee94dc8fa820f1354503]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of regulation 2[^key-04407a92093cee94dc8fa820f1354503]
+## 1. Citation, commencement and interpretation[^c-04407a92093cee94dc8fa820f1354503]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of regulation 7[^key-04407a92093cee94dc8fa820f1354503]
+## 2. Amendment of regulation 2[^c-04407a92093cee94dc8fa820f1354503]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 8[^key-04407a92093cee94dc8fa820f1354503]
+## 3. Revocation of regulation 7[^c-04407a92093cee94dc8fa820f1354503]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Regulations 8A, 8B and 8C[^key-04407a92093cee94dc8fa820f1354503]
+## 4. Amendment of regulation 8[^c-04407a92093cee94dc8fa820f1354503]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 14[^key-04407a92093cee94dc8fa820f1354503]
+## 5. Regulations 8A, 8B and 8C[^c-04407a92093cee94dc8fa820f1354503]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Regulations 21A, 21B and 21C[^key-04407a92093cee94dc8fa820f1354503]
+## 6. Amendment of regulation 14[^c-04407a92093cee94dc8fa820f1354503]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 22[^key-04407a92093cee94dc8fa820f1354503]
+## 7. Regulations 21A, 21B and 21C[^c-04407a92093cee94dc8fa820f1354503]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 24[^key-04407a92093cee94dc8fa820f1354503]
+## 8. Amendment of regulation 22[^c-04407a92093cee94dc8fa820f1354503]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Schedule 2[^key-04407a92093cee94dc8fa820f1354503]
+## 9. Amendment of regulation 24[^c-04407a92093cee94dc8fa820f1354503]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Amendment of Schedule 2[^c-04407a92093cee94dc8fa820f1354503]
 
 **Not yet in force.**
 
@@ -104,12 +104,12 @@ Coming into operation in accordance with regulation 1(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-04407a92093cee94dc8fa820f1354503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04407a92093cee94dc8fa820f1354503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-04407a92093cee94dc8fa820f1354503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04407a92093cee94dc8fa820f1354503]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-04407a92093cee94dc8fa820f1354503]: Textual amendment: Regulations revoked (9.3.2020) by The Provision of Health Services to [Persons Not Ordinarily Resident (Amendment) (Revocation) Regulations (Northern Ireland) 2020 (S.R. 2020/19)](https://www.legislation.gov.uk/nisr/2020/19), [regs. 1](https://www.legislation.gov.uk/nisr/2020/19/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/19/regulation/2)
+[^c-04407a92093cee94dc8fa820f1354503]: Textual amendment: Regulations revoked (9.3.2020) by The Provision of Health Services to [Persons Not Ordinarily Resident (Amendment) (Revocation) Regulations (Northern Ireland) 2020 (S.R. 2020/19)](https://www.legislation.gov.uk/nisr/2020/19), [regs. 1](https://www.legislation.gov.uk/nisr/2020/19/regulation/1), [2](https://www.legislation.gov.uk/nisr/2020/19/regulation/2)

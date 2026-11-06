@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Expenditure[^key-c2a297cc58c292d425dfa4445751b223][^M_I_e1740d09-a59b-4bb1-cec6-2ffcf0c82c4d]
+## 20. Expenditure[^c-c2a297cc58c292d425dfa4445751b223][^M_I_e1740d09-a59b-4bb1-cec6-2ffcf0c82c4d]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2a297cc58c292d425dfa4445751b223]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2013/3/section/20) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(k)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/k)
+[^c-c2a297cc58c292d425dfa4445751b223]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2013/3/section/20) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(k)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/k)
 
 [^M_I_e1740d09-a59b-4bb1-cec6-2ffcf0c82c4d]: Commencement: S. 20 in force on 1.4.2014 to the extent not already in force by O.S. 2013/1466, regulation. 3(1)

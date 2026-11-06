@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Period on remand etc: effect on term of detention and training order[^key-b3ec4304809fb626e4779f12228e5dab]
+## 239. Period on remand etc: effect on term of detention and training order[^c-b3ec4304809fb626e4779f12228e5dab]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3ec4304809fb626e4779f12228e5dab]: Textual amendment: [S. 239](https://www.legislation.gov.uk/ukpga/2020/17/section/239) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/16/paragraph/6)
+[^c-b3ec4304809fb626e4779f12228e5dab]: Textual amendment: [S. 239](https://www.legislation.gov.uk/ukpga/2020/17/section/239) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/16/paragraph/6)

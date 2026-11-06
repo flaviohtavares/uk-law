@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Acquisition of part of certain properties[^key-54c49eb9e4006a926f937f479d169677]
+## 41. Acquisition of part of certain properties[^c-54c49eb9e4006a926f937f479d169677]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ the notice to treat shall be deemed to be a notice to treat for the land subject
 
 ## Annotations
 
-[^key-54c49eb9e4006a926f937f479d169677]: Commencement: Art. 41 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-54c49eb9e4006a926f937f479d169677]: Commencement: Art. 41 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

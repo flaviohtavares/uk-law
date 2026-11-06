@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Compensation where permission for additional development granted after acquisition.[^key-130c609203c315cb2fed5b8b48781a90]
+## 66. Compensation where permission for additional development granted after acquisition.[^c-130c609203c315cb2fed5b8b48781a90]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-130c609203c315cb2fed5b8b48781a90]: Textual amendment: S. 66 repealed (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(a)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/a), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
+[^c-130c609203c315cb2fed5b8b48781a90]: Textual amendment: S. 66 repealed (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(a)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/a), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)

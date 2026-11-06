@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.55. Formal defects[^key-44a73eebd44df8d999dbfeb6818ffb65]
+## 7.55. Formal defects[^c-44a73eebd44df8d999dbfeb6818ffb65]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No insolvency proceedings shall be invalidated by any formal defect or by any ir
 
 ## Annotations
 
-[^key-44a73eebd44df8d999dbfeb6818ffb65]: Commencement: [Rule 7.55](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.55) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-44a73eebd44df8d999dbfeb6818ffb65]: Commencement: [Rule 7.55](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.55) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

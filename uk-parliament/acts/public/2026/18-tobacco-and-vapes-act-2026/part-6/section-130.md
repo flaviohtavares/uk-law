@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Sponsorship: tobacco products[^key-859ffe34aee316895318976591ded85d]
+## 130. Sponsorship: tobacco products[^c-859ffe34aee316895318976591ded85d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-859ffe34aee316895318976591ded85d]: Commencement: S. 130 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-859ffe34aee316895318976591ded85d]: Commencement: S. 130 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

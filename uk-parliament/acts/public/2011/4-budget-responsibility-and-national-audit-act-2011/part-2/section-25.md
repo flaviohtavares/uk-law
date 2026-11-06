@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Interpretation[^key-d5ee5b7f8b4482a39067bc6f6758b66b]
+## 25. Interpretation[^c-d5ee5b7f8b4482a39067bc6f6758b66b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (2) For the purposes of this Part each of the following is a financial year—
 
-- (a)[^key-212861fcc26a088ffa6d19b5cbfffb07] the period which begins with the appointed day and ends with the following 31 March;
+- (a)[^c-212861fcc26a088ffa6d19b5cbfffb07] the period which begins with the appointed day and ends with the following 31 March;
 - (b) each successive period of 12 months.
 
 (3) In paragraph (a) of subsection (2) “**the appointed day**” means the day appointed for the purposes of that paragraph by an order made by the Treasury by statutory instrument.
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5ee5b7f8b4482a39067bc6f6758b66b]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2011/4/section/25) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(f)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/f)
+[^c-d5ee5b7f8b4482a39067bc6f6758b66b]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2011/4/section/25) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(f)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/f)
 
-[^key-212861fcc26a088ffa6d19b5cbfffb07]: Modification: S. 25(2)(a): 1.4.2012 appointed by [S.I. 2012/727](https://www.legislation.gov.uk/uksi/2012/727), art. 2
+[^c-212861fcc26a088ffa6d19b5cbfffb07]: Modification: S. 25(2)(a): 1.4.2012 appointed by [S.I. 2012/727](https://www.legislation.gov.uk/uksi/2012/727), art. 2

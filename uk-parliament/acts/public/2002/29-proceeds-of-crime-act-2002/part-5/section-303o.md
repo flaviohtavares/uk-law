@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303O. Forfeiture[^key-ed1a10d65d7981a8b9d854ad4f99ad6f]
+## 303O. Forfeiture[^c-ed1a10d65d7981a8b9d854ad4f99ad6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) the Commissioners for Her Majesty's Revenue and Customs,
 - (b) a constable,
 - (c) an SFO officer, or
-- (d)[^key-90826d411bc502907f8b31e8ecff7f6b] an accredited financial investigator who falls within a description specified in an order made for the purposes of this Chapter by the Secretary of State or the Welsh Ministers[^key-edbce72cb53b91f304edf3f305e9f5fa] under section 453.
+- (d)[^c-90826d411bc502907f8b31e8ecff7f6b] an accredited financial investigator who falls within a description specified in an order made for the purposes of this Chapter by the Secretary of State or the Welsh Ministers[^c-edbce72cb53b91f304edf3f305e9f5fa] under section 453.
 
 (3) The court or sheriff may order the forfeiture of the property or any part of it if satisfied that—
 
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ed1a10d65d7981a8b9d854ad4f99ad6f]: Textual amendment: Pt. 5 Ch. 3A inserted (27.4.2017 for specified purposes, 31.10.2017 for the insertion of ss. 303G, 303H for E.W.S. so far as not already in force, 30.1.2018 for the insertion of s. 303E(4) for E.W.S. so far as not already in force, 16.4.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/d); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/a), [4(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/4/b); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/f)
+[^c-ed1a10d65d7981a8b9d854ad4f99ad6f]: Textual amendment: Pt. 5 Ch. 3A inserted (27.4.2017 for specified purposes, 31.10.2017 for the insertion of ss. 303G, 303H for E.W.S. so far as not already in force, 30.1.2018 for the insertion of s. 303E(4) for E.W.S. so far as not already in force, 16.4.2018 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 15](https://www.legislation.gov.uk/ukpga/2017/22/section/15), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/d); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/a), [4(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/4/b); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/f)
 
-[^key-90826d411bc502907f8b31e8ecff7f6b]: Modification: S. 303O(2)(d) modified by S.I. 2018/196, Sch. para. 3A (as inserted (E.W.) (20.7.2018) by [The Proceeds of Crime Act 2002 (References to Welsh Revenue Authority Financial Investigators) (Amendment) Order 2018 (S.I. 2018/767)](https://www.legislation.gov.uk/wsi/2018/767), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/767/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2018/767/article/2/2/b))
+[^c-90826d411bc502907f8b31e8ecff7f6b]: Modification: S. 303O(2)(d) modified by S.I. 2018/196, Sch. para. 3A (as inserted (E.W.) (20.7.2018) by [The Proceeds of Crime Act 2002 (References to Welsh Revenue Authority Financial Investigators) (Amendment) Order 2018 (S.I. 2018/767)](https://www.legislation.gov.uk/wsi/2018/767), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/767/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2018/767/article/2/2/b))
 
-[^key-edbce72cb53b91f304edf3f305e9f5fa]: Textual amendment: Words in s. 303O(2)(d) inserted (E.W.) (20.7.2018) by [The Tax Collection and Management (Wales) Act 2016 (Supplemental Provision) Regulations 2018 (S.I. 2018/768)](https://www.legislation.gov.uk/wsi/2018/768), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/768/regulation/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2018/768/regulation/2/d)
+[^c-edbce72cb53b91f304edf3f305e9f5fa]: Textual amendment: Words in s. 303O(2)(d) inserted (E.W.) (20.7.2018) by [The Tax Collection and Management (Wales) Act 2016 (Supplemental Provision) Regulations 2018 (S.I. 2018/768)](https://www.legislation.gov.uk/wsi/2018/768), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/768/regulation/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2018/768/regulation/2/d)

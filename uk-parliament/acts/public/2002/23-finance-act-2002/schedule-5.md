@@ -22,9 +22,9 @@ summary: ''
 
 Section 19
 
-**1.**[^key-3fd3ff2cadbbe5539923becc46ec1641] The Vehicle Excise and Registration Act 1994 (c. 22) is amended as follows.
+**1.**[^c-3fd3ff2cadbbe5539923becc46ec1641] The Vehicle Excise and Registration Act 1994 (c. 22) is amended as follows.
 
-**2.**[^key-400a60dbaae78ce6ea874144b2cf672f] For section 1(1) substitute—
+**2.**[^c-400a60dbaae78ce6ea874144b2cf672f] For section 1(1) substitute—
 
 > (1) A duty of excise (“**vehicle excise duty**”) shall be charged in respect of every mechanically propelled vehicle that—
 >
@@ -50,7 +50,7 @@ Section 19
 
 .
 
-**3.**[^key-fe2f39cc22d8e0a4d601d2f100f125c6] For section 2(2) to (4) (rates where duty charged in respect of keeping but not use) substitute—
+**3.**[^c-fe2f39cc22d8e0a4d601d2f100f125c6] For section 2(2) to (4) (rates where duty charged in respect of keeping but not use) substitute—
 
 > (2) Subsection (1) applies subject to the following provisions of this section.
 >
@@ -72,13 +72,13 @@ Section 19
 
 .
 
-**4.**[^key-d8c47aff3e5b22de758908e3f4040306] For section 7(4) (vehicle licence valid only for vehicle for which it is issued) substitute—
+**4.**[^c-d8c47aff3e5b22de758908e3f4040306] For section 7(4) (vehicle licence valid only for vehicle for which it is issued) substitute—
 
 > (4) A vehicle licence is issued for the vehicle specified in the application for the licence (and for no other).
 
 .
 
-**5.**[^key-381ac594eb0ceeaeccc9061d3e4760e4] After section 7 insert—
+**5.**[^c-381ac594eb0ceeaeccc9061d3e4760e4] After section 7 insert—
 
 > **7A. Supplement payable on late renewal of vehicle licence**
 >
@@ -142,7 +142,7 @@ Section 19
 
 .
 
-**6.**[^key-632d51ab4e464d24a3610ec4d841060e] (1) In section 22 (registration regulations), in subsection (1D) (power to require details about unlicensed vehicles), after paragraph (a) insert—
+**6.**[^c-632d51ab4e464d24a3610ec4d841060e] (1) In section 22 (registration regulations), in subsection (1D) (power to require details about unlicensed vehicles), after paragraph (a) insert—
 
 > - (aa) who does not renew a vehicle licence for a vehicle registered under this Act in his name,
 
@@ -157,9 +157,9 @@ Section 19
 
 .
 
-**7.**[^key-1f671ff7a6eb3d0498033703cc7cea68] In section 29(7) (rate of duty by reference to which penalty is calculated), for “section 2(2) to (4)" substitute “ section 2(3) to (6) ”.
+**7.**[^c-1f671ff7a6eb3d0498033703cc7cea68] In section 29(7) (rate of duty by reference to which penalty is calculated), for “section 2(2) to (4)" substitute “ section 2(3) to (6) ”.
 
-**8.**[^key-a877943e41ecf85ebbd942917629af3e] After section 31 insert—
+**8.**[^c-a877943e41ecf85ebbd942917629af3e] After section 31 insert—
 
 > *Offence of being registered keeper of unlicensed vehicle*
 >
@@ -269,32 +269,32 @@ Section 19
 
 .
 
-**9.**[^key-6c164794f3a4037c84159412d7633e49] (1) In section 32 (sections 29 to 31: supplementary), in subsection (1) (discharges to be treated as convictions)—
+**9.**[^c-6c164794f3a4037c84159412d7633e49] (1) In section 32 (sections 29 to 31: supplementary), in subsection (1) (discharges to be treated as convictions)—
 
 - (a) in the words before paragraph (a), after “section 29" insert “ or 31A ”, and
 - (b) in the words after paragraph (c), after “sections 29 to 31" insert “ or (as the case may be) sections 31A to 31C ”.
 
 (2) In the heading of that section, for “31" substitute “ 31C ”.
 
-**10.**[^key-b71c368e5ea71ab91d03aed9307f0a13] In section 33(3)(b) (offences of not exhibiting licence are without prejudice to offences of not having a licence), after “sections 29" insert “ , 31A ”.
+**10.**[^c-b71c368e5ea71ab91d03aed9307f0a13] In section 33(3)(b) (offences of not exhibiting licence are without prejudice to offences of not having a licence), after “sections 29" insert “ , 31A ”.
 
-**11.**[^key-d50fef98e15da856fd30a74b6b0a8363] In section 34(4) (rate of duty by reference to which penalty is calculated), for “section 2(2) to (4)" substitute “ section 2(3) to (6) ”.
+**11.**[^c-d50fef98e15da856fd30a74b6b0a8363] In section 34(4) (rate of duty by reference to which penalty is calculated), for “section 2(2) to (4)" substitute “ section 2(3) to (6) ”.
 
-**12.**[^key-5f93788ac3b73cad3b67cfc6e99aae0d] In section 47 (proceedings in England and Wales or Northern Ireland), in each of subsections (1) and (2)(a) (who may prosecute and time limit), after “section 29," insert “ 31A, ”.
+**12.**[^c-5f93788ac3b73cad3b67cfc6e99aae0d] In section 47 (proceedings in England and Wales or Northern Ireland), in each of subsections (1) and (2)(a) (who may prosecute and time limit), after “section 29," insert “ 31A, ”.
 
-**13.**[^key-d9fe01e87a00337a4c79a1ac94aaef72] In section 48(3)(a) (proceedings in Scotland: time limit), after “section 29," insert “ 31A, ”.
+**13.**[^c-d9fe01e87a00337a4c79a1ac94aaef72] In section 48(3)(a) (proceedings in Scotland: time limit), after “section 29," insert “ 31A, ”.
 
-**14.**[^key-f67ac9c22845127ba1eba1de1dbc3851] In section 53 (burden of proof of certain matters in proceedings for certain offences), after “section 29," insert “ 31A, ”.
+**14.**[^c-f67ac9c22845127ba1eba1de1dbc3851] In section 53 (burden of proof of certain matters in proceedings for certain offences), after “section 29," insert “ 31A, ”.
 
-**15.**[^key-c605021959692443e3fe2afc3f40e624] In section 54 (single witness sufficient in Scottish proceedings), after “section 29" insert “ , 31A ”.
+**15.**[^c-c605021959692443e3fe2afc3f40e624] In section 54 (single witness sufficient in Scottish proceedings), after “section 29" insert “ , 31A ”.
 
-**16.**[^key-311270e4c540b6998d5c23e51df478a2] In section 57 (regulations), after subsection (7) insert—
+**16.**[^c-311270e4c540b6998d5c23e51df478a2] In section 57 (regulations), after subsection (7) insert—
 
 > (7A) Subsection (7) does not apply to a statutory instrument containing regulations under section 7A to which subsection (6) of that section applies.
 
 .
 
-**17.**[^key-7f3592ef9c25b401b893c34d0da94bd7] In section 62(1) (definitions), for the definition of “vehicle" substitute—
+**17.**[^c-7f3592ef9c25b401b893c34d0da94bd7] In section 62(1) (definitions), for the definition of “vehicle" substitute—
 
 > “**vehicle**” shall be construed in accordance with section 1(1B);
 
@@ -302,36 +302,36 @@ Section 19
 
 ## Annotations
 
-[^key-3fd3ff2cadbbe5539923becc46ec1641]: Commencement: Sch. 5 para. 1 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 1 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-3fd3ff2cadbbe5539923becc46ec1641]: Commencement: Sch. 5 para. 1 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 1 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-400a60dbaae78ce6ea874144b2cf672f]: Commencement: Sch. 5 para. 2 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 2 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-400a60dbaae78ce6ea874144b2cf672f]: Commencement: Sch. 5 para. 2 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 2 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-fe2f39cc22d8e0a4d601d2f100f125c6]: Commencement: Sch. 5 para. 3 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 3 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-fe2f39cc22d8e0a4d601d2f100f125c6]: Commencement: Sch. 5 para. 3 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 3 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-d8c47aff3e5b22de758908e3f4040306]: Commencement: Sch. 5 para. 4 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 4 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-d8c47aff3e5b22de758908e3f4040306]: Commencement: Sch. 5 para. 4 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 4 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-381ac594eb0ceeaeccc9061d3e4760e4]: Commencement: Sch. 5 para. 5 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 5 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-381ac594eb0ceeaeccc9061d3e4760e4]: Commencement: Sch. 5 para. 5 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 5 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-632d51ab4e464d24a3610ec4d841060e]: Commencement: Sch. 5 para. 6 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 6 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-632d51ab4e464d24a3610ec4d841060e]: Commencement: Sch. 5 para. 6 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 6 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-1f671ff7a6eb3d0498033703cc7cea68]: Commencement: Sch. 5 para. 7 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 7 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-1f671ff7a6eb3d0498033703cc7cea68]: Commencement: Sch. 5 para. 7 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 7 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-a877943e41ecf85ebbd942917629af3e]: Commencement: Sch. 5 para. 8 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 8 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-a877943e41ecf85ebbd942917629af3e]: Commencement: Sch. 5 para. 8 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 8 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-6c164794f3a4037c84159412d7633e49]: Commencement: Sch. 5 para. 9 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 9 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-6c164794f3a4037c84159412d7633e49]: Commencement: Sch. 5 para. 9 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 9 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-b71c368e5ea71ab91d03aed9307f0a13]: Commencement: Sch. 5 para. 10 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 10 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-b71c368e5ea71ab91d03aed9307f0a13]: Commencement: Sch. 5 para. 10 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 10 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-d50fef98e15da856fd30a74b6b0a8363]: Commencement: Sch. 5 para. 11 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 11 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-d50fef98e15da856fd30a74b6b0a8363]: Commencement: Sch. 5 para. 11 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 11 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-5f93788ac3b73cad3b67cfc6e99aae0d]: Commencement: Sch. 5 para. 12 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 12 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-5f93788ac3b73cad3b67cfc6e99aae0d]: Commencement: Sch. 5 para. 12 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 12 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-d9fe01e87a00337a4c79a1ac94aaef72]: Commencement: Sch. 5 para. 13 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 13 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-d9fe01e87a00337a4c79a1ac94aaef72]: Commencement: Sch. 5 para. 13 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 13 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-f67ac9c22845127ba1eba1de1dbc3851]: Commencement: Sch. 5 para. 14 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 14 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-f67ac9c22845127ba1eba1de1dbc3851]: Commencement: Sch. 5 para. 14 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 14 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-c605021959692443e3fe2afc3f40e624]: Commencement: Sch. 5 para. 15 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 15 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-c605021959692443e3fe2afc3f40e624]: Commencement: Sch. 5 para. 15 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 15 in force at 19.12.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-311270e4c540b6998d5c23e51df478a2]: Commencement: Sch. 5 para. 16 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 16 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
+[^c-311270e4c540b6998d5c23e51df478a2]: Commencement: Sch. 5 para. 16 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 16 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2)
 
-[^key-7f3592ef9c25b401b893c34d0da94bd7]: Commencement: Sch. 5 para. 17 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 17 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2); Sch. 5 para. 17 in force at 24.7.2002 for specified purposes , see s. 19(2)(3)
+[^c-7f3592ef9c25b401b893c34d0da94bd7]: Commencement: Sch. 5 para. 17 in force at 24.7.2002 for specified purposes, see s. 19(2)(3); Sch. 5 para. 17 in force at 30.11.2003 in so far as not already in force by [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2](https://www.legislation.gov.uk/uksi/2003/3086/article/2); Sch. 5 para. 17 in force at 24.7.2002 for specified purposes , see s. 19(2)(3)

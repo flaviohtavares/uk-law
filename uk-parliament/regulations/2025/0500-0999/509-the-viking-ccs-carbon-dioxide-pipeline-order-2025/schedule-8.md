@@ -22,11 +22,11 @@ summary: ''
 
 Article 24
 
-### 1. Compensation enactments[^key-5112a710462830419cc2fa5cd20ba7f8]
+### 1. Compensation enactments[^c-5112a710462830419cc2fa5cd20ba7f8]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or imposition of a restrictive covenant as they apply as respects compensation for the compulsory purchase of land and interests in land.
 
-**2.**[^key-1bced9c5ee925af0b7722101eb3ddf58] Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the following modification—
+**2.**[^c-1bced9c5ee925af0b7722101eb3ddf58] Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the following modification—
 
 For section (5A) (relevant valuation date) substitute—
 
@@ -40,14 +40,14 @@ For section (5A) (relevant valuation date) substitute—
 
 .
 
-**3.**[^key-6a5498b975c119690891370d2ad24aa3] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00047] has effect subject to the modifications set out in sub-paragraph (2).
+**3.**[^c-6a5498b975c119690891370d2ad24aa3] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00047] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 4(4) of this Schedule—
 
 - (a) for “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-### 4. Application of Part 1 of the 1965 Act[^key-10c38ae40efa9271d0101adb2909b8aa]
+### 4. Application of Part 1 of the 1965 Act[^c-10c38ae40efa9271d0101adb2909b8aa]
 
 (1) Part 1 (compulsory purchase under Acquisition of Land Act of 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 30 (modification of Part 1 of the 1965 Act)) to the acquisition of land under article 22 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 24 (compulsory acquisition of rights and restrictive covenants)—
 
@@ -145,15 +145,15 @@ are modified so as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-5112a710462830419cc2fa5cd20ba7f8]: Commencement: Sch. 8 para. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-5112a710462830419cc2fa5cd20ba7f8]: Commencement: Sch. 8 para. 1 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-1bced9c5ee925af0b7722101eb3ddf58]: Commencement: Sch. 8 para. 2 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-1bced9c5ee925af0b7722101eb3ddf58]: Commencement: Sch. 8 para. 2 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
-[^key-6a5498b975c119690891370d2ad24aa3]: Commencement: Sch. 8 para. 3 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-6a5498b975c119690891370d2ad24aa3]: Commencement: Sch. 8 para. 3 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
 [^f00047]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-10c38ae40efa9271d0101adb2909b8aa]: Commencement: Sch. 8 para. 4 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-10c38ae40efa9271d0101adb2909b8aa]: Commencement: Sch. 8 para. 4 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
 [^f00048]: Footnote: Section 11A was inserted by section 186(3) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

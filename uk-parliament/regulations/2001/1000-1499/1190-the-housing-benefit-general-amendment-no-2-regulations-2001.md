@@ -39,15 +39,15 @@ Coming into force
 
 1st October 2001
 
-[^key-2ddf498cbba3621b4443eb2157d5857c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ddf498cbba3621b4443eb2157d5857c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-2ddf498cbba3621b4443eb2157d5857c][^key-2ddf498cbba3621b4443eb2157d5857c]
+## 1. Citation and commencement[^c-2ddf498cbba3621b4443eb2157d5857c][^c-2ddf498cbba3621b4443eb2157d5857c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Housing Benefit (General) Regulations 1987[^key-2ddf498cbba3621b4443eb2157d5857c][^key-2ddf498cbba3621b4443eb2157d5857c]
+## 2. Amendment of the Housing Benefit (General) Regulations 1987[^c-2ddf498cbba3621b4443eb2157d5857c][^c-2ddf498cbba3621b4443eb2157d5857c]
 
 **No longer in force.**
 
@@ -55,10 +55,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-2ddf498cbba3621b4443eb2157d5857c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ddf498cbba3621b4443eb2157d5857c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ddf498cbba3621b4443eb2157d5857c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ddf498cbba3621b4443eb2157d5857c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ddf498cbba3621b4443eb2157d5857c]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2001/1190) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-2ddf498cbba3621b4443eb2157d5857c]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2001/1190) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Schs. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

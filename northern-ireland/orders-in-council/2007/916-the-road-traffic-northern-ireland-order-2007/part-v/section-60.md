@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person who is aggrieved by a decision of the Department–
 
-- (a) under Article 59(2) to refuse an application for his registration or for the extension [^key-1148e34c85051bd101a14434fd273bb0]... of his registration;
+- (a) under Article 59(2) to refuse an application for his registration or for the extension [^c-1148e34c85051bd101a14434fd273bb0]... of his registration;
 - (b) under Article 59(2) to terminate his registration;
 - (c) under Article 59(2) to confirm a direction or alter the period specified in a direction under Article 58;
 - (d) under Article 59(6) to direct that an application by the appellant to be registered shall not be entertained before the expiration of the period specified in the direction,
@@ -37,7 +37,7 @@ may by notice in writing appeal to the court within the period of 28 days beginn
 
 (as the case may be) as it thinks fit.
 
-(3) An order for refusal or termination under paragraph (2)(a) or (b) may direct that an application by the appellant to be registered [^key-5ee540a5f628a1f98fe0905b4b67cba9]... shall not be entertained before the expiration of such period, not exceeding 4 years beginning with the day on which the order is made, as may be specified in the order.
+(3) An order for refusal or termination under paragraph (2)(a) or (b) may direct that an application by the appellant to be registered [^c-5ee540a5f628a1f98fe0905b4b67cba9]... shall not be entertained before the expiration of such period, not exceeding 4 years beginning with the day on which the order is made, as may be specified in the order.
 
 (4) If the court considers that any evidence adduced on an appeal had not been adduced to the Department before it gave the decision to which the appeal relates, it may (instead of making an order under paragraph (2)) remit the matter to the Department for it to reconsider the decision.
 
@@ -66,12 +66,12 @@ it may by notice in writing apply to the court for an order that the decision is
 
 (11) Except in so far as the procedure for appeals or applications is provided for in this Article, Part VII of the Magistrates' Courts (Northern Ireland) Order 1981 (NI 26) shall apply to appeals and applications made under this Article.
 
-(12) In this Article, “**the court**” means a court of summary jurisdiction [^key-3000d1e015605ed3948fc59862481ec6]....
+(12) In this Article, “**the court**” means a court of summary jurisdiction [^c-3000d1e015605ed3948fc59862481ec6]....
 
 ## Annotations
 
-[^key-1148e34c85051bd101a14434fd273bb0]: Textual amendment: Words in [art. 60(1)(a)](https://www.legislation.gov.uk/nisi/2007/916/article/60/1/a) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(12)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/12/a)
+[^c-1148e34c85051bd101a14434fd273bb0]: Textual amendment: Words in [art. 60(1)(a)](https://www.legislation.gov.uk/nisi/2007/916/article/60/1/a) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(12)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/12/a)
 
-[^key-5ee540a5f628a1f98fe0905b4b67cba9]: Textual amendment: Words in [art. 60(3)](https://www.legislation.gov.uk/nisi/2007/916/article/60/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(12)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/12/b)
+[^c-5ee540a5f628a1f98fe0905b4b67cba9]: Textual amendment: Words in [art. 60(3)](https://www.legislation.gov.uk/nisi/2007/916/article/60/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(12)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/12/b)
 
-[^key-3000d1e015605ed3948fc59862481ec6]: Textual amendment: Words in art. 60(12) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 132(8)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/132/8), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-3000d1e015605ed3948fc59862481ec6]: Textual amendment: Words in art. 60(12) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 132(8)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/132/8), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Complaints procedure[^key-cbfc56c1b2c219b361836879150d3ce5]
+## 14. Complaints procedure[^c-cbfc56c1b2c219b361836879150d3ce5]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbfc56c1b2c219b361836879150d3ce5]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2011/1/section/14) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)
+[^c-cbfc56c1b2c219b361836879150d3ce5]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2011/1/section/14) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)

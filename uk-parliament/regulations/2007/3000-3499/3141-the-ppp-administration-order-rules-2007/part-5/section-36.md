@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Resignation[^key-2e1591975f7fbcdc7ec583f5a069e2ff]
+## 36. Resignation[^c-2e1591975f7fbcdc7ec583f5a069e2ff]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e1591975f7fbcdc7ec583f5a069e2ff]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2007/3141/rule/36) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-2e1591975f7fbcdc7ec583f5a069e2ff]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2007/3141/rule/36) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

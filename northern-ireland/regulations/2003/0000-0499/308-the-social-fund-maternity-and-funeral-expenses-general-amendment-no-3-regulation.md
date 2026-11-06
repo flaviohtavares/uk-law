@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Fund (Maternity and Funeral Expenses) (General) (Amendment No. 3) Regulations (Northern Ireland) 2003 (revoked)[^key-ba47ffd72999e6c8b1d1a0659bc0491e]
+The Social Fund (Maternity and Funeral Expenses) (General) (Amendment No. 3) Regulations (Northern Ireland) 2003 (revoked)[^c-ba47ffd72999e6c8b1d1a0659bc0491e]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 6th October 2003
 
-[^key-ba47ffd72999e6c8b1d1a0659bc0491e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba47ffd72999e6c8b1d1a0659bc0491e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ba47ffd72999e6c8b1d1a0659bc0491e]
+## 1. Citation, commencement and interpretation[^c-ba47ffd72999e6c8b1d1a0659bc0491e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 6A of the Social Fund (Maternity and Funeral Expenses) (General) Regulations[^key-ba47ffd72999e6c8b1d1a0659bc0491e]
+## 2. Amendment of regulation 6A of the Social Fund (Maternity and Funeral Expenses) (General) Regulations[^c-ba47ffd72999e6c8b1d1a0659bc0491e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-ba47ffd72999e6c8b1d1a0659bc0491e]
+## 3. Transitional provision[^c-ba47ffd72999e6c8b1d1a0659bc0491e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba47ffd72999e6c8b1d1a0659bc0491e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba47ffd72999e6c8b1d1a0659bc0491e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ba47ffd72999e6c8b1d1a0659bc0491e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba47ffd72999e6c8b1d1a0659bc0491e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba47ffd72999e6c8b1d1a0659bc0491e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/308) revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 (S.R. 2005/506)](https://www.legislation.gov.uk/nisr/2005/506), [regs. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/506/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2005/506/schedule)
+[^c-ba47ffd72999e6c8b1d1a0659bc0491e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/308) revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 (S.R. 2005/506)](https://www.legislation.gov.uk/nisr/2005/506), [regs. 1](https://www.legislation.gov.uk/nisr/2005/506/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/506/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2005/506/schedule)

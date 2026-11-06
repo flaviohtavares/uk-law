@@ -420,7 +420,7 @@ In accordance with section 21 of that Act, the Welsh Ministers have consulted th
 - [Section 159 — Appointment of scheme actuary and actuarial valuations](part-11/section-159.md)
 - [Section 160 — Employer cost cap](part-11/section-160.md)
 
-### PART 12 — Determinations and appeals[^key-33aaef7c7bc3c22afb7763af9afd4427]
+### PART 12 — Determinations and appeals[^c-33aaef7c7bc3c22afb7763af9afd4427]
 
 *Extent: E+W*
 
@@ -565,4 +565,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00005]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-33aaef7c7bc3c22afb7763af9afd4427]: Modification: [Pt. 12](https://www.legislation.gov.uk/wsi/2015/622/part/12) applied (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Wales) Regulations 2023 (S.I. 2023/961)](https://www.legislation.gov.uk/wsi/2023/961), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/961/regulation/1/3), [54(7)](https://www.legislation.gov.uk/wsi/2023/961/regulation/54/7)
+[^c-33aaef7c7bc3c22afb7763af9afd4427]: Modification: [Pt. 12](https://www.legislation.gov.uk/wsi/2015/622/part/12) applied (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Wales) Regulations 2023 (S.I. 2023/961)](https://www.legislation.gov.uk/wsi/2023/961), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/961/regulation/1/3), [54(7)](https://www.legislation.gov.uk/wsi/2023/961/regulation/54/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Repeals[^key-268557b7428e1b2493859388a19fc9f0][^key-72db18273b72891a5ffd4d6bf38e9bcc][^key-a8b89804ab4c5c5fa83b4b88ca44bebc][^key-64150afdf8c388e4b160f36d80f20704][^key-80567137949116bc6e01b592844d5fb5][^key-835cccdfa95a93a62d5796a943012190][^key-7c3128d71ce93df85470296f47e1f2e2][^key-8298ddff918b96bd56dc99ededf1b9ea][^key-4699fbf9de55fc9c04af7065eebb6552][^key-6fb9d3549f20b53887d6418faa2f1c2b][^key-95218e71118ac34735c2034322c67695][^key-ddcacf496360d093f98f53363ffc8320]
+## SCHEDULE 4 — Repeals[^c-268557b7428e1b2493859388a19fc9f0][^c-72db18273b72891a5ffd4d6bf38e9bcc][^c-a8b89804ab4c5c5fa83b4b88ca44bebc][^c-64150afdf8c388e4b160f36d80f20704][^c-80567137949116bc6e01b592844d5fb5][^c-835cccdfa95a93a62d5796a943012190][^c-7c3128d71ce93df85470296f47e1f2e2][^c-8298ddff918b96bd56dc99ededf1b9ea][^c-4699fbf9de55fc9c04af7065eebb6552][^c-6fb9d3549f20b53887d6418faa2f1c2b][^c-95218e71118ac34735c2034322c67695][^c-ddcacf496360d093f98f53363ffc8320]
 
 *Extent: E+W*
 
@@ -36,26 +36,26 @@ Section 42
 
 ## Annotations
 
-[^key-268557b7428e1b2493859388a19fc9f0]: Commencement: Sch. 4 in force for specified purposes at 1.4.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/2/b)
+[^c-268557b7428e1b2493859388a19fc9f0]: Commencement: Sch. 4 in force for specified purposes at 1.4.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/2/b)
 
-[^key-72db18273b72891a5ffd4d6bf38e9bcc]: Commencement: Sch. 4 in force for specified purposes at 6.4.2009 for W. by [S.I. 2009/728](https://www.legislation.gov.uk/uksi/2009/728), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/728/article/2/c)
+[^c-72db18273b72891a5ffd4d6bf38e9bcc]: Commencement: Sch. 4 in force for specified purposes at 6.4.2009 for W. by [S.I. 2009/728](https://www.legislation.gov.uk/uksi/2009/728), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/728/article/2/c)
 
-[^key-a8b89804ab4c5c5fa83b4b88ca44bebc]: Commencement: Sch. 4 in force for specified purposes at 6.4.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/3/b)
+[^c-a8b89804ab4c5c5fa83b4b88ca44bebc]: Commencement: Sch. 4 in force for specified purposes at 6.4.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/3/b)
 
-[^key-64150afdf8c388e4b160f36d80f20704]: Commencement: Sch. 4 in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/m)
+[^c-64150afdf8c388e4b160f36d80f20704]: Commencement: Sch. 4 in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/m)
 
-[^key-80567137949116bc6e01b592844d5fb5]: Commencement: Sch. 4 in force at 1.9.2009 for specified purposes for W. by [S.I. 2009/1921](https://www.legislation.gov.uk/uksi/2009/1921), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1921/article/2/d)
+[^c-80567137949116bc6e01b592844d5fb5]: Commencement: Sch. 4 in force at 1.9.2009 for specified purposes for W. by [S.I. 2009/1921](https://www.legislation.gov.uk/uksi/2009/1921), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1921/article/2/d)
 
-[^key-835cccdfa95a93a62d5796a943012190]: Commencement: Sch. 4 in force at 31.3.2010 for specified purposes for W. by [S.I. 2010/749](https://www.legislation.gov.uk/uksi/2010/749), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/749/article/2/a)
+[^c-835cccdfa95a93a62d5796a943012190]: Commencement: Sch. 4 in force at 31.3.2010 for specified purposes for W. by [S.I. 2010/749](https://www.legislation.gov.uk/uksi/2010/749), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/749/article/2/a)
 
-[^key-7c3128d71ce93df85470296f47e1f2e2]: Commencement: Sch. 4 in force at 1.4.2010 for specified purposes for E. by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2/d)
+[^c-7c3128d71ce93df85470296f47e1f2e2]: Commencement: Sch. 4 in force at 1.4.2010 for specified purposes for E. by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2/d)
 
-[^key-8298ddff918b96bd56dc99ededf1b9ea]: Commencement: Sch. 4 in force at 28.3.2011 for specified purposes for W. by [S.I. 2011/949](https://www.legislation.gov.uk/uksi/2011/949), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2011/949/article/3/1/c)
+[^c-8298ddff918b96bd56dc99ededf1b9ea]: Commencement: Sch. 4 in force at 28.3.2011 for specified purposes for W. by [S.I. 2011/949](https://www.legislation.gov.uk/uksi/2011/949), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2011/949/article/3/1/c)
 
-[^key-4699fbf9de55fc9c04af7065eebb6552]: Commencement: Sch. 4 in force at 1.4.2011 for specified purposes for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(l)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/l)
+[^c-4699fbf9de55fc9c04af7065eebb6552]: Commencement: Sch. 4 in force at 1.4.2011 for specified purposes for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(l)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/l)
 
-[^key-6fb9d3549f20b53887d6418faa2f1c2b]: Commencement: Sch. 4 in force at 19.6.2012 for specified purposes for W. by [S.I. 2012/1553](https://www.legislation.gov.uk/wsi/2012/1553), [art. 2(e)](https://www.legislation.gov.uk/wsi/2012/1553/article/2/e)
+[^c-6fb9d3549f20b53887d6418faa2f1c2b]: Commencement: Sch. 4 in force at 19.6.2012 for specified purposes for W. by [S.I. 2012/1553](https://www.legislation.gov.uk/wsi/2012/1553), [art. 2(e)](https://www.legislation.gov.uk/wsi/2012/1553/article/2/e)
 
-[^key-95218e71118ac34735c2034322c67695]: Commencement: Sch. 4 in force at 6.4.2016 for specified purposes for W. by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(c)](https://www.legislation.gov.uk/wsi/2016/452/article/2/c) (with [art. 3](https://www.legislation.gov.uk/wsi/2016/452/article/3))
+[^c-95218e71118ac34735c2034322c67695]: Commencement: Sch. 4 in force at 6.4.2016 for specified purposes for W. by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(c)](https://www.legislation.gov.uk/wsi/2016/452/article/2/c) (with [art. 3](https://www.legislation.gov.uk/wsi/2016/452/article/3))
 
-[^key-ddcacf496360d093f98f53363ffc8320]: Commencement: Sch. 4 in force at 1.12.2017 for specified purposes for W. by [S.I. 2017/948](https://www.legislation.gov.uk/wsi/2017/948), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/948/article/2/c)
+[^c-ddcacf496360d093f98f53363ffc8320]: Commencement: Sch. 4 in force at 1.12.2017 for specified purposes for W. by [S.I. 2017/948](https://www.legislation.gov.uk/wsi/2017/948), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/948/article/2/c)

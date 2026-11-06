@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Bereavement payment.[^key-b7fcb2a044383dc71fc8a15b59cfc825]
+## 36. Bereavement payment.[^c-b7fcb2a044383dc71fc8a15b59cfc825]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7fcb2a044383dc71fc8a15b59cfc825]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/1992/7/section/36) repealed (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 8](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/8); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
+[^c-b7fcb2a044383dc71fc8a15b59cfc825]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/1992/7/section/36) repealed (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 8](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/8); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))

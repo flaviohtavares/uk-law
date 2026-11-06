@@ -35,90 +35,90 @@ establishing procedural arrangements for cooperation between Member States on el
 
 (Text with EEA relevance) (revoked)
 
-[^key-9e1f9b5a72cb1345251fe216625b0f34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e1f9b5a72cb1345251fe216625b0f34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — GENERAL PROVISIONS[^key-9e1f9b5a72cb1345251fe216625b0f34]
+## CHAPTER I — GENERAL PROVISIONS[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
-### Article 1. Objective[^key-9e1f9b5a72cb1345251fe216625b0f34]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Language of cooperation[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 1. Objective[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Points of single contact[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 2. Language of cooperation[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — EXCHANGE OF INFORMATION, EXPERIENCE AND GOOD PRACTICE[^key-9e1f9b5a72cb1345251fe216625b0f34]
-
-### Article 4. Exchange of information, experience and good practice[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 3. Points of single contact[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Request of information on interoperability and security[^key-9e1f9b5a72cb1345251fe216625b0f34]
+## CHAPTER II — EXCHANGE OF INFORMATION, EXPERIENCE AND GOOD PRACTICE[^c-9e1f9b5a72cb1345251fe216625b0f34]
+
+### Article 4. Exchange of information, experience and good practice[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Exchange of information through points of single contact[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 5. Request of information on interoperability and security[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — PEER REVIEW[^key-9e1f9b5a72cb1345251fe216625b0f34]
-
-### Article 7. Principles[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 6. Exchange of information through points of single contact[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Initiation of the peer reviewing process[^key-9e1f9b5a72cb1345251fe216625b0f34]
+## CHAPTER III — PEER REVIEW[^c-9e1f9b5a72cb1345251fe216625b0f34]
+
+### Article 7. Principles[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Preparation for the peer review[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 8. Initiation of the peer reviewing process[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Peer reviewing[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 9. Preparation for the peer review[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Outcome of the peer review[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 10. Peer reviewing[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — THE COOPERATION NETWORK[^key-9e1f9b5a72cb1345251fe216625b0f34]
-
-### Article 12. Establishment and working methods[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 11. Outcome of the peer review[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Draft notification form[^key-9e1f9b5a72cb1345251fe216625b0f34]
+## CHAPTER IV — THE COOPERATION NETWORK[^c-9e1f9b5a72cb1345251fe216625b0f34]
+
+### Article 12. Establishment and working methods[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Tasks[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 13. Draft notification form[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Membership[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 14. Tasks[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Operation[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 15. Membership[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Meeting expenses[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 16. Operation[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Entry into force[^key-9e1f9b5a72cb1345251fe216625b0f34]
+### Article 17. Meeting expenses[^c-9e1f9b5a72cb1345251fe216625b0f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9e1f9b5a72cb1345251fe216625b0f34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 18. Entry into force[^c-9e1f9b5a72cb1345251fe216625b0f34]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9e1f9b5a72cb1345251fe216625b0f34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9e1f9b5a72cb1345251fe216625b0f34]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e1f9b5a72cb1345251fe216625b0f34]: Textual amendment: Decision revoked (31.12.2020) by [The Electronic Identification and Trust Services for Electronic Transactions (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/89)](https://www.legislation.gov.uk/uksi/2019/89), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/89/regulation/1/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2019/89/schedule/paragraph/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

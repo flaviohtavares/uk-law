@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Substitution of regulation 55[^key-e9863ba8c417cb7a309b6bf1cc0ac577]
+## 36. Substitution of regulation 55[^c-e9863ba8c417cb7a309b6bf1cc0ac577]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ For regulation 55 substitute—
 
 ## Annotations
 
-[^key-e9863ba8c417cb7a309b6bf1cc0ac577]: Commencement: Reg. 36 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-e9863ba8c417cb7a309b6bf1cc0ac577]: Commencement: Reg. 36 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

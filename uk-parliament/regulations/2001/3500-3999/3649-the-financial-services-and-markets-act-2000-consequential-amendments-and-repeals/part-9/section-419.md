@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 419. Meaning of “the reference banks”[^key-5b8a01af182e149fc571a50a5c4f53e1]
+## 419. Meaning of “the reference banks”[^c-5b8a01af182e149fc571a50a5c4f53e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b8a01af182e149fc571a50a5c4f53e1]: Commencement: Art. 419 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-5b8a01af182e149fc571a50a5c4f53e1]: Commencement: Art. 419 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00297]: Footnote: Sub-paragraph (b) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129), article 3, Schedule 2.

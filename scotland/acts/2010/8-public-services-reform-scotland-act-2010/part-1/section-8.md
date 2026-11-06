@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Dissolution of Regional Boards of Scottish Environment Protection Agency[^key-cd1dc14217b6dda02e5ecaefcf3c5d05]
+## 8. Dissolution of Regional Boards of Scottish Environment Protection Agency[^c-cd1dc14217b6dda02e5ecaefcf3c5d05]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd1dc14217b6dda02e5ecaefcf3c5d05]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/8/section/8) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-cd1dc14217b6dda02e5ecaefcf3c5d05]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/8/section/8) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

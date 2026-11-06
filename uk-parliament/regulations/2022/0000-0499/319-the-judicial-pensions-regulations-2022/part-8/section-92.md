@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Provisional awards of eligible child’s pensions: later adjustment[^key-4cacdb39d872feb41f61d30e90920473]
+## 92. Provisional awards of eligible child’s pensions: later adjustment[^c-4cacdb39d872feb41f61d30e90920473]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cacdb39d872feb41f61d30e90920473]: Commencement: Reg. 92 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-4cacdb39d872feb41f61d30e90920473]: Commencement: Reg. 92 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

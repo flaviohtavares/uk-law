@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Contribution limits[^key-1c37db317ad9a2717165a1194ce24f28]
+## 70. Contribution limits[^c-1c37db317ad9a2717165a1194ce24f28]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c37db317ad9a2717165a1194ce24f28]: Textual amendment: S. 70 repealed (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [3](https://www.legislation.gov.uk/uksi/2015/178/article/3)
+[^c-1c37db317ad9a2717165a1194ce24f28]: Textual amendment: S. 70 repealed (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [3](https://www.legislation.gov.uk/uksi/2015/178/article/3)

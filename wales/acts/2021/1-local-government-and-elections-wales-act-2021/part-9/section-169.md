@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 169. National Park authorities: disapplication of the 2009 Measure[^key-460b16ec2d07cebd7ae4d07bf2cbb623]
+## 169. National Park authorities: disapplication of the 2009 Measure[^c-460b16ec2d07cebd7ae4d07bf2cbb623]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In the 2009 Measure omit—
 
 ## Annotations
 
-[^key-460b16ec2d07cebd7ae4d07bf2cbb623]: Commencement: S. 169 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(f)](https://www.legislation.gov.uk/uksi/2021/297/article/2/f) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2021/297/regulation/6))
+[^c-460b16ec2d07cebd7ae4d07bf2cbb623]: Commencement: S. 169 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(f)](https://www.legislation.gov.uk/uksi/2021/297/article/2/f) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2021/297/regulation/6))

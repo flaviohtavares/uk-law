@@ -449,7 +449,7 @@ Where any lease or underlease to which this Part of this Act applies is register
 
 ### 20. Office copies and searches.
 
-(1) The original or counterpart of any lease or underlease or assignment to which this Part of this Act applies may be deposited at the Central Office of the Senior Courts[^key-55ecf6321b57d1db4f7db97c8cb05867].
+(1) The original or counterpart of any lease or underlease or assignment to which this Part of this Act applies may be deposited at the Central Office of the Senior Courts[^c-55ecf6321b57d1db4f7db97c8cb05867].
 
 (2) A separate file of instruments so deposited shall be kept, and any person who furnishes the prescribed evidence to show that he has a sufficient interest in the lease or underlease or reversion expectant thereon may search that file and inspect the lease or underlease or counterpart or assignment, and an office copy thereof shall be delivered to him at his request.
 
@@ -657,6 +657,6 @@ Where any lease or underlease to which this Part of this Act applies is register
 
 [^c644527]: Marginal citation: [1881 c. 41](https://www.legislation.gov.uk/ukpga/1881/41).
 
-[^key-55ecf6321b57d1db4f7db97c8cb05867]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-55ecf6321b57d1db4f7db97c8cb05867]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c644528]: Textual amendment: [Ss. 164–187](https://www.legislation.gov.uk/ukpga/Geo5/12-13/16/section/164) and Sch. 16 repealed by [Land Registration Act 1925 (c. 21)](https://www.legislation.gov.uk/ukpga/1925/21), [Sch.](https://www.legislation.gov.uk/ukpga/1925/21/schedule)

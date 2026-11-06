@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 339. Supplemental provisions.[^key-6e461703405a34d550694ddf1b04b0e1]
+## 339. Supplemental provisions.[^c-6e461703405a34d550694ddf1b04b0e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e461703405a34d550694ddf1b04b0e1]: Textual amendment: S. 339 repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/1/f), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [s. 54(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/2), [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-6e461703405a34d550694ddf1b04b0e1]: Textual amendment: S. 339 repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/1/f), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [s. 54(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/2), [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

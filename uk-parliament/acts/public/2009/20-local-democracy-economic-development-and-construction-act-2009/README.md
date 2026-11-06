@@ -34,7 +34,7 @@ An Act to make provision for the purposes of promoting public involvement in rel
 
 \[12th November 2009\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b3e16d275a8bb390f08a1f5301b3c7b6][^key-a07d323600a36708e38e9c95db8114c0]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b3e16d275a8bb390f08a1f5301b3c7b6][^c-a07d323600a36708e38e9c95db8114c0]
 
 ## Contents
 
@@ -245,7 +245,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 67 — Consequential and supplementary provision](part-3/section-67.md)
 - [Section 68 — Interpretation](part-3/section-68.md)
 
-### Part 4 — Local authority and strategic authority economic assessments[^key-4415a57dab6451e2746b349d89b4dc9a]
+### Part 4 — Local authority and strategic authority economic assessments[^c-4415a57dab6451e2746b349d89b4dc9a]
 
 *Extent: E+W*
 
@@ -315,7 +315,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Economic prosperity boards[^key-cc540c010e5a5545c18dacbdea13296c]
+#### Chapter 1 — Economic prosperity boards[^c-cc540c010e5a5545c18dacbdea13296c]
 
 ##### EPBs and their areas
 
@@ -353,7 +353,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 101A — Application in respect of change to constitution, functions or funding: existing EPB](part-6/section-101a.md)
 - [Section 102 — Requirements in connection with changes to existing EPB arrangements](part-6/section-102.md)
 
-#### Chapter 2 — Combined authorities[^key-18de53f7816cb15c9d3a66164395c822]
+#### Chapter 2 — Combined authorities[^c-18de53f7816cb15c9d3a66164395c822]
 
 ##### Combined authorities and their areas
 
@@ -361,7 +361,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 103 — Combined authorities and their areas](part-6/section-103.md)
 
-##### Functions of combined authorities[^key-7871a85372e81db97b7e2269408f6009]
+##### Functions of combined authorities[^c-7871a85372e81db97b7e2269408f6009]
 
 - [Section 103A — The functions of combined authorities](part-6/section-103a.md)
 - [Section 103B — Mayoral power to convene meetings with local partners](part-6/section-103b.md)
@@ -382,26 +382,26 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 105C — Non-mayoral combined authority: consent to budget](part-6/section-105c.md)
 - [Section 105D — Non-mayoral combined authority: functions imposing financial liability](part-6/section-105d.md)
 
-##### Changes to combined authorities[^key-7abb0fbe60d46b7ab624f0d31853dcf7]
+##### Changes to combined authorities[^c-7abb0fbe60d46b7ab624f0d31853dcf7]
 
 - [Section 106 — Changes to boundaries of a combined authority's area](part-6/section-106.md)
 - [Section 106A — Section 106(1)(a) orders: consent requirements under other powers](part-6/section-106a.md)
 - [Section 106B — Designation as an established mayoral strategic authority](part-6/section-106b.md)
 - [Section 107 — Dissolution of a combined authority's area](part-6/section-107.md)
 
-##### Combined authorities: key route network roads[^key-a1fcd0788f1b147eea5e1592e260a667]
+##### Combined authorities: key route network roads[^c-a1fcd0788f1b147eea5e1592e260a667]
 
 - [Section 107ZA — Designation of key route network roads](part-6/section-107za.md)
 
-##### Combined authorities: health[^key-6f22b831527e9e5a4bf82f56a1ac94bd]
+##### Combined authorities: health[^c-6f22b831527e9e5a4bf82f56a1ac94bd]
 
 - [Section 107ZB — Health improvement and health inequalities duty](part-6/section-107zb.md)
 
-##### Combined authorities: co-operation with local government pension scheme managers[^key-8d7369b87d2c8fb77e7aa867450d1e47]
+##### Combined authorities: co-operation with local government pension scheme managers[^c-8d7369b87d2c8fb77e7aa867450d1e47]
 
 - [Section 107ZC — Co-operation with local government pension scheme managers](part-6/section-107zc.md)
 
-##### Mayors for combined authority areas[^key-9518dc89618b669f13bd5de1d131e90f]
+##### Mayors for combined authority areas[^c-9518dc89618b669f13bd5de1d131e90f]
 
 *Extent: E+W+S+N.I.*
 
@@ -428,7 +428,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 107J — Alternative mayoral titles: further changes](part-6/section-107j.md)
 - [Section 107K — Power to amend list of alternative titles](part-6/section-107k.md)
 
-##### Mayoral combined authorities: local growth plans[^key-f97ba8514d720f5c4a17ce2ecf863dd1]
+##### Mayoral combined authorities: local growth plans[^c-f97ba8514d720f5c4a17ce2ecf863dd1]
 
 - [Section 107L — Local growth plans](part-6/section-107l.md)
 - [Section 107M — Secretary of State guidance on local growth plans](part-6/section-107m.md)
@@ -450,9 +450,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 113ZB — Relevant consenting authorities in relation to orders under section 106](part-6/section-113zb.md)
 - [Section 113ZC — Relevant consenting authorities in relation to orders under section 107](part-6/section-113zc.md)
 
-#### Chapter 3 — General provision[^key-3521a31e176f28f2ab0ef0c960df2342]
+#### Chapter 3 — General provision[^c-3521a31e176f28f2ab0ef0c960df2342]
 
-##### General powers of EPBs and combined authorities[^key-495d3e751e38ba585e5749f95ad37955]
+##### General powers of EPBs and combined authorities[^c-495d3e751e38ba585e5749f95ad37955]
 
 - [Section 113A — General power of EPB or combined authority](part-6/section-113a.md)
 - [Section 113B — Boundaries of power under section 113A](part-6/section-113b.md)
@@ -470,13 +470,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 119 — Amendments relating to EPBs and combined authorities](part-6/section-119.md)
 - [Section 120 — Interpretation](part-6/section-120.md)
 
-### Part 7 — Multi-area agreements[^key-f7c6dc92e454487784eeb67a85d976a6]
+### Part 7 — Multi-area agreements[^c-f7c6dc92e454487784eeb67a85d976a6]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Basic concepts[^key-f7c6dc92e454487784eeb67a85d976a6]
+#### Basic concepts[^c-f7c6dc92e454487784eeb67a85d976a6]
 
 **No longer in force.**
 
@@ -484,7 +484,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 122 — Local authorities](part-7/section-122.md)
 - [Section 123 — Partner authorities](part-7/section-123.md)
 
-#### Preparation and approval of multi-area agreements[^key-f7c6dc92e454487784eeb67a85d976a6]
+#### Preparation and approval of multi-area agreements[^c-f7c6dc92e454487784eeb67a85d976a6]
 
 **No longer in force.**
 
@@ -495,13 +495,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 128 — Submission of existing multi-area agreement](part-7/section-128.md)
 - [Section 129 — Approval of existing multi-area agreement](part-7/section-129.md)
 
-#### Effect of multi-area agreements[^key-f7c6dc92e454487784eeb67a85d976a6]
+#### Effect of multi-area agreements[^c-f7c6dc92e454487784eeb67a85d976a6]
 
 **No longer in force.**
 
 - [Section 130 — Duty to have regard to improvement targets](part-7/section-130.md)
 
-#### Revision of multi-area agreements[^key-f7c6dc92e454487784eeb67a85d976a6]
+#### Revision of multi-area agreements[^c-f7c6dc92e454487784eeb67a85d976a6]
 
 **No longer in force.**
 
@@ -510,13 +510,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 133 — Preparation of revision proposal](part-7/section-133.md)
 - [Section 134 — Approval of revision proposal](part-7/section-134.md)
 
-#### Information about multi-area agreements[^key-f7c6dc92e454487784eeb67a85d976a6]
+#### Information about multi-area agreements[^c-f7c6dc92e454487784eeb67a85d976a6]
 
 **No longer in force.**
 
 - [Section 135 — Duty to publish information about multi-area agreement](part-7/section-135.md)
 
-#### Supplementary and general[^key-f7c6dc92e454487784eeb67a85d976a6]
+#### Supplementary and general[^c-f7c6dc92e454487784eeb67a85d976a6]
 
 **No longer in force.**
 
@@ -562,32 +562,32 @@ Schedules
 
 ## Annotations
 
-[^key-b3e16d275a8bb390f08a1f5301b3c7b6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/20) applied (with modifications) (E.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/16)
+[^c-b3e16d275a8bb390f08a1f5301b3c7b6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/20) applied (with modifications) (E.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/16)
 
-[^key-a07d323600a36708e38e9c95db8114c0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/20) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/16)
+[^c-a07d323600a36708e38e9c95db8114c0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/20) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/16)
 
-[^key-4415a57dab6451e2746b349d89b4dc9a]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/part/4) heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 21 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/21/paragraph/1/2)
+[^c-4415a57dab6451e2746b349d89b4dc9a]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/part/4) heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 21 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/21/paragraph/1/2)
 
-[^key-cc540c010e5a5545c18dacbdea13296c]: Textual amendment: Pt. 6 Ch. 1 heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/15/2/a), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-cc540c010e5a5545c18dacbdea13296c]: Textual amendment: Pt. 6 Ch. 1 heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/15/2/a), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-18de53f7816cb15c9d3a66164395c822]: Textual amendment: Pt. 6 Ch. 2 heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/15/2/b), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-18de53f7816cb15c9d3a66164395c822]: Textual amendment: Pt. 6 Ch. 2 heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/15/2/b), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-7871a85372e81db97b7e2269408f6009]: Textual amendment: [S. 103A](https://www.legislation.gov.uk/ukpga/2009/20/section/103A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/5/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-7871a85372e81db97b7e2269408f6009]: Textual amendment: [S. 103A](https://www.legislation.gov.uk/ukpga/2009/20/section/103A) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/5/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-7abb0fbe60d46b7ab624f0d31853dcf7]: Textual amendment: [S. 106 cross-heading](https://www.legislation.gov.uk/ukpga/2009/20/part/6/crossheading/changes-to-combined-authorities) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/8/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-7abb0fbe60d46b7ab624f0d31853dcf7]: Textual amendment: [S. 106 cross-heading](https://www.legislation.gov.uk/ukpga/2009/20/part/6/crossheading/changes-to-combined-authorities) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/8/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-a1fcd0788f1b147eea5e1592e260a667]: Textual amendment: [S. 107ZA](https://www.legislation.gov.uk/ukpga/2009/20/section/107ZA) and cross-heading inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 63(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/63/4), [255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-a1fcd0788f1b147eea5e1592e260a667]: Textual amendment: [S. 107ZA](https://www.legislation.gov.uk/ukpga/2009/20/section/107ZA) and cross-heading inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 63(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/63/4), [255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-6f22b831527e9e5a4bf82f56a1ac94bd]: Textual amendment: [S. 107ZB](https://www.legislation.gov.uk/ukpga/2009/20/section/107ZB) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/45/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-6f22b831527e9e5a4bf82f56a1ac94bd]: Textual amendment: [S. 107ZB](https://www.legislation.gov.uk/ukpga/2009/20/section/107ZB) and cross-heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/45/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-8d7369b87d2c8fb77e7aa867450d1e47]: Textual amendment: S. 107ZC and cross-heading inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/43/1), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/a)
+[^c-8d7369b87d2c8fb77e7aa867450d1e47]: Textual amendment: S. 107ZC and cross-heading inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/43/1), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/a)
 
-[^key-9518dc89618b669f13bd5de1d131e90f]: Textual amendment: Ss. 107A, 107B and cross-heading inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/2/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-9518dc89618b669f13bd5de1d131e90f]: Textual amendment: Ss. 107A, 107B and cross-heading inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/2/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-f97ba8514d720f5c4a17ce2ecf863dd1]: Textual amendment: [Ss. 107L](https://www.legislation.gov.uk/ukpga/2009/20/section/107L), [107M](https://www.legislation.gov.uk/ukpga/2009/20/section/107M) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 22 para. 1(1)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/1) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-f97ba8514d720f5c4a17ce2ecf863dd1]: Textual amendment: [Ss. 107L](https://www.legislation.gov.uk/ukpga/2009/20/section/107L), [107M](https://www.legislation.gov.uk/ukpga/2009/20/section/107M) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 22 para. 1(1)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/22/paragraph/1/1) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-3521a31e176f28f2ab0ef0c960df2342]: Textual amendment: Pt. 6 Ch. 3 heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 15(2)(c)](https://www.legislation.gov.uk/ukpga/2026/23/section/15/2/c), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-3521a31e176f28f2ab0ef0c960df2342]: Textual amendment: Pt. 6 Ch. 3 heading inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 15(2)(c)](https://www.legislation.gov.uk/ukpga/2026/23/section/15/2/c), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-495d3e751e38ba585e5749f95ad37955]: Textual amendment: Ss. 113A-113C and cross-heading inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/13/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-495d3e751e38ba585e5749f95ad37955]: Textual amendment: Ss. 113A-113C and cross-heading inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/13/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
 
-[^key-f7c6dc92e454487784eeb67a85d976a6]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2009/20/part/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 102(1)](https://www.legislation.gov.uk/ukpga/2015/20/section/102/1), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-f7c6dc92e454487784eeb67a85d976a6]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2009/20/part/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 102(1)](https://www.legislation.gov.uk/ukpga/2015/20/section/102/1), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)

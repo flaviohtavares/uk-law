@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Payment of financial penalty[^key-7ae8f713e26c34a500470f2e7f8abcb4]
+## 46. Payment of financial penalty[^c-7ae8f713e26c34a500470f2e7f8abcb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ae8f713e26c34a500470f2e7f8abcb4]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2016/20/section/46) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-7ae8f713e26c34a500470f2e7f8abcb4]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2016/20/section/46) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

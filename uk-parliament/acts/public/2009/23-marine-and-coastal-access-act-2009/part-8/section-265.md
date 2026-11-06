@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265. Reports of inspections under section 264[^key-75a6f795d443e4e8dbf1abd2bff3703c]
+## 265. Reports of inspections under section 264[^c-75a6f795d443e4e8dbf1abd2bff3703c]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ the relevant authority must, if it has not already done so, serve a copy of the 
 
 ## Annotations
 
-[^key-75a6f795d443e4e8dbf1abd2bff3703c]: Commencement: S. 265 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-75a6f795d443e4e8dbf1abd2bff3703c]: Commencement: S. 265 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

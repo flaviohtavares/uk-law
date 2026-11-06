@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Meaning of “equipment data”[^key-7898907918ab83ecb89ab3f3dfa855a3]
+## 100. Meaning of “equipment data”[^c-7898907918ab83ecb89ab3f3dfa855a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7898907918ab83ecb89ab3f3dfa855a3]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2016/25/section/100) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/b)
+[^c-7898907918ab83ecb89ab3f3dfa855a3]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2016/25/section/100) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/b)

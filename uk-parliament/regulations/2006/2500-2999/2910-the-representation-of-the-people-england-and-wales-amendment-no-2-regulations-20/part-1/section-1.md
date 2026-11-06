@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement, interpretation and extent[^key-20e8fb82214759e286bd2e0da107f128]
+## 1. Citation, commencement, interpretation and extent[^c-20e8fb82214759e286bd2e0da107f128]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20e8fb82214759e286bd2e0da107f128]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-20e8fb82214759e286bd2e0da107f128]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341), amended by [S.I. 2001/1700](https://www.legislation.gov.uk/uksi/2001/1700), [2002/1871](https://www.legislation.gov.uk/uksi/2002/1871), [2004/226](https://www.legislation.gov.uk/uksi/2004/226) and [2006/752](https://www.legislation.gov.uk/uksi/2006/752).

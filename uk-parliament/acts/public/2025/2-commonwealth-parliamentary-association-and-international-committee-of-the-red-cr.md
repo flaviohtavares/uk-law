@@ -36,7 +36,7 @@ An Act to make provision about the status of, and privileges and immunities in c
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. The Commonwealth Parliamentary Association[^key-e9f3bad5068edc6999f73b39e0c66e7e]
+## 1. The Commonwealth Parliamentary Association[^c-e9f3bad5068edc6999f73b39e0c66e7e]
 
 (1) His Majesty may by Order in Council specify an organisation named the Commonwealth Parliamentary Association (whether established before or after this Act is passed) and do one or more of the following—
 
@@ -49,7 +49,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) An Order in Council under this section may provide for the Order, or any provision of it, not to apply in relation to branches or other subordinate bodies of the organisation.
 
-## 2. The International Committee of the Red Cross[^key-9a80e5107c1a11c2f22675d97617f6c9]
+## 2. The International Committee of the Red Cross[^c-9a80e5107c1a11c2f22675d97617f6c9]
 
 (1) His Majesty may by Order in Council do one or more of the following—
 
@@ -78,11 +78,11 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (5) Nothing in this section or in an Order in Council made under it affects the common law rules about the withholding of information on the grounds of public interest immunity.
 
-## 3. Evidence[^key-f27bcf8688463bf510dbf568f007d635]
+## 3. Evidence[^c-f27bcf8688463bf510dbf568f007d635]
 
 If in any proceedings a question arises whether a person is or is not entitled to any privilege or immunity by virtue of an Order in Council made under section 1 or 2, a certificate issued by or under the authority of the Secretary of State stating any fact relating to that question is conclusive evidence of that fact.
 
-## 4. Orders in Council[^key-636a846a8855e9241702e8bb0897227e]
+## 4. Orders in Council[^c-636a846a8855e9241702e8bb0897227e]
 
 (1) No recommendation is to be made to His Majesty in Council to make an Order in Council under section 1 or 2 unless a draft of the statutory instrument containing the Order has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -96,7 +96,7 @@ If in any proceedings a question arises whether a person is or is not entitled t
 - (d) may make different provision for different cases and for different persons;
 - (e) may contain consequential, supplementary, incidental, transitional or saving provision.
 
-## 5. Interpretation[^key-51d9e6dedc5fb51d8ddd73f9e9f82792]
+## 5. Interpretation[^c-51d9e6dedc5fb51d8ddd73f9e9f82792]
 
 In this Act—
 
@@ -108,7 +108,7 @@ In this Act—
   - (d) Northern Ireland legislation;
   - (e) assimilated direct legislation.
 
-## 6. Extent, commencement and short title[^key-630f740b549319f063b213f3c64c1c86]
+## 6. Extent, commencement and short title[^c-630f740b549319f063b213f3c64c1c86]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -122,23 +122,23 @@ Sections 1 and 2
 
 ### Part 1 — Privileges and immunities of qualifying organisations
 
-#### 1. Suit and legal process[^key-6f285402da7181a9a98a4ae4a2e91633]
+#### 1. Suit and legal process[^c-6f285402da7181a9a98a4ae4a2e91633]
 
 Immunity from suit and legal process.
 
-#### 2. Archives and premises[^key-f99b5833c41dc23889bc3677874cc0ed]
+#### 2. Archives and premises[^c-f99b5833c41dc23889bc3677874cc0ed]
 
 Such inviolability of official archives and premises of the qualifying organisation as in accordance with the 1961 Convention Articles is accorded in respect of the official archives and premises of a diplomatic mission.
 
-#### 3. Taxes and duties[^key-6848904d61978b33e917ea8b40f9c785]
+#### 3. Taxes and duties[^c-6848904d61978b33e917ea8b40f9c785]
 
 Exemption or relief (by way of refund or otherwise) from any tax or duty.
 
-#### 4. Rates[^key-cba26b3edd8b8443b7f900c7fcb939de]
+#### 4. Rates[^c-cba26b3edd8b8443b7f900c7fcb939de]
 
 Such relief from rates as in accordance with Article 23 of the 1961 Convention Articles is accorded in respect of the premises of a diplomatic mission.
 
-#### 5. Import and export restrictions[^key-2f9ebbcbdddd20a5cd45bec9e036b3c5]
+#### 5. Import and export restrictions[^c-2f9ebbcbdddd20a5cd45bec9e036b3c5]
 
 Exemption from prohibitions and restrictions on importation or exportation—
 
@@ -147,15 +147,15 @@ Exemption from prohibitions and restrictions on importation or exportation—
 
 ### Part 2 — Privileges and immunities of qualifying persons
 
-#### 6. Suit and legal process[^key-95e3cbed80492ee1e9150a6e8afd7bea]
+#### 6. Suit and legal process[^c-95e3cbed80492ee1e9150a6e8afd7bea]
 
 Immunity from suit and legal process in respect of things done or omitted to be done in the course of the performance of official duties.
 
-#### 7. Income tax[^key-725db3b099e622ec64d7b598957350ab]
+#### 7. Income tax[^c-725db3b099e622ec64d7b598957350ab]
 
 Exemption from income tax in respect of emoluments received as the qualifying person.
 
-#### 8. Import of articles for personal use[^key-54203d37099b9dd583b779ed2cb5d7f9]
+#### 8. Import of articles for personal use[^c-54203d37099b9dd583b779ed2cb5d7f9]
 
 (1) Such exemption from duties (whether of customs or excise) and taxes on the importation of personal articles, and such privilege as to the importation of personal articles, as in accordance with paragraph 1 of Article 36 of the 1961 Convention Articles is accorded to a diplomatic agent.
 
@@ -164,11 +164,11 @@ Exemption from income tax in respect of emoluments received as the qualifying pe
 - (a) at or about the time when the qualifying person first enters the United Kingdom as such a person are imported for the person’s personal use or that of members of the person’s family forming part of the person’s household, including articles intended for the person’s establishment, and
 - (b) are articles which were in the person’s ownership or possession or that of such a member of the person’s family, or which the person or such a member of the person’s family was under contract to purchase, immediately before the person so entered the United Kingdom.
 
-#### 9. Inspection of personal baggage[^key-279fefc5f3cfe826290ea920cc45fae6]
+#### 9. Inspection of personal baggage[^c-279fefc5f3cfe826290ea920cc45fae6]
 
 Such exemption and privileges in respect of the personal baggage of the qualifying person as in accordance with paragraph 2 of Article 36 of the 1961 Convention Articles are accorded to a diplomatic agent, as if in that paragraph the reference to paragraph 1 of that Article were a reference to paragraph 8 of this Schedule.
 
-#### 10. Social security[^key-eecbd1f69f0c9dc538f6cdc9785562ee]
+#### 10. Social security[^c-eecbd1f69f0c9dc538f6cdc9785562ee]
 
 Exemptions whereby, for the purposes of the statutory provisions relating to social security—
 
@@ -177,7 +177,7 @@ Exemptions whereby, for the purposes of the statutory provisions relating to soc
 
 ### Part 3 — Interpretation
 
-**11.**[^key-31a20021f3622c4f0b1453a297ec3a26] (1) In this Schedule—
+**11.**[^c-31a20021f3622c4f0b1453a297ec3a26] (1) In this Schedule—
 
 - “**qualifying organisation**” means—
   - (a) an organisation specified under section 1(1), or
@@ -189,36 +189,36 @@ Exemptions whereby, for the purposes of the statutory provisions relating to soc
 
 ## Annotations
 
-[^key-e9f3bad5068edc6999f73b39e0c66e7e]: Commencement: S. 1 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-e9f3bad5068edc6999f73b39e0c66e7e]: Commencement: S. 1 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-9a80e5107c1a11c2f22675d97617f6c9]: Commencement: S. 2 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-9a80e5107c1a11c2f22675d97617f6c9]: Commencement: S. 2 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-f27bcf8688463bf510dbf568f007d635]: Commencement: S. 3 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-f27bcf8688463bf510dbf568f007d635]: Commencement: S. 3 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-636a846a8855e9241702e8bb0897227e]: Commencement: S. 4 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-636a846a8855e9241702e8bb0897227e]: Commencement: S. 4 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-51d9e6dedc5fb51d8ddd73f9e9f82792]: Commencement: S. 5 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-51d9e6dedc5fb51d8ddd73f9e9f82792]: Commencement: S. 5 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-630f740b549319f063b213f3c64c1c86]: Commencement: S. 6 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-630f740b549319f063b213f3c64c1c86]: Commencement: S. 6 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-6f285402da7181a9a98a4ae4a2e91633]: Commencement: Sch. para. 1 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-6f285402da7181a9a98a4ae4a2e91633]: Commencement: Sch. para. 1 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-f99b5833c41dc23889bc3677874cc0ed]: Commencement: Sch. para. 2 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-f99b5833c41dc23889bc3677874cc0ed]: Commencement: Sch. para. 2 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-6848904d61978b33e917ea8b40f9c785]: Commencement: Sch. para. 3 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-6848904d61978b33e917ea8b40f9c785]: Commencement: Sch. para. 3 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-cba26b3edd8b8443b7f900c7fcb939de]: Commencement: Sch. para. 4 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-cba26b3edd8b8443b7f900c7fcb939de]: Commencement: Sch. para. 4 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-2f9ebbcbdddd20a5cd45bec9e036b3c5]: Commencement: Sch. para. 5 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-2f9ebbcbdddd20a5cd45bec9e036b3c5]: Commencement: Sch. para. 5 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-95e3cbed80492ee1e9150a6e8afd7bea]: Commencement: Sch. para. 6 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-95e3cbed80492ee1e9150a6e8afd7bea]: Commencement: Sch. para. 6 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-725db3b099e622ec64d7b598957350ab]: Commencement: Sch. para. 7 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-725db3b099e622ec64d7b598957350ab]: Commencement: Sch. para. 7 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-54203d37099b9dd583b779ed2cb5d7f9]: Commencement: Sch. para. 8 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-54203d37099b9dd583b779ed2cb5d7f9]: Commencement: Sch. para. 8 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-279fefc5f3cfe826290ea920cc45fae6]: Commencement: Sch. para. 9 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-279fefc5f3cfe826290ea920cc45fae6]: Commencement: Sch. para. 9 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-eecbd1f69f0c9dc538f6cdc9785562ee]: Commencement: Sch. para. 10 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-eecbd1f69f0c9dc538f6cdc9785562ee]: Commencement: Sch. para. 10 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
 
-[^key-31a20021f3622c4f0b1453a297ec3a26]: Commencement: Sch. para. 11 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)
+[^c-31a20021f3622c4f0b1453a297ec3a26]: Commencement: Sch. para. 11 in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2025/2/section/6/2)

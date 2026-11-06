@@ -33,7 +33,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment No. 3) Regulations 2002 (revoked)[^key-1469c80701ccdd9e2f9bd69453d830ef]
+The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment No. 3) Regulations 2002 (revoked)[^c-1469c80701ccdd9e2f9bd69453d830ef]
 
 Made
 
@@ -47,46 +47,46 @@ Coming into force
 
 18th January 2003
 
-[^key-1469c80701ccdd9e2f9bd69453d830ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1469c80701ccdd9e2f9bd69453d830ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-1469c80701ccdd9e2f9bd69453d830ef]
+## 1.[^c-1469c80701ccdd9e2f9bd69453d830ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-1469c80701ccdd9e2f9bd69453d830ef]
+## 2.[^c-1469c80701ccdd9e2f9bd69453d830ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-1469c80701ccdd9e2f9bd69453d830ef]
+## 3.[^c-1469c80701ccdd9e2f9bd69453d830ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1469c80701ccdd9e2f9bd69453d830ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1469c80701ccdd9e2f9bd69453d830ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-1469c80701ccdd9e2f9bd69453d830ef]
+## SCHEDULE[^c-1469c80701ccdd9e2f9bd69453d830ef]
 
 Regulation 3
 
-### PART I[^key-1469c80701ccdd9e2f9bd69453d830ef]
+### PART I[^c-1469c80701ccdd9e2f9bd69453d830ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II[^key-1469c80701ccdd9e2f9bd69453d830ef]
+### PART II[^c-1469c80701ccdd9e2f9bd69453d830ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III[^key-1469c80701ccdd9e2f9bd69453d830ef]
+### PART III[^c-1469c80701ccdd9e2f9bd69453d830ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1469c80701ccdd9e2f9bd69453d830ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1469c80701ccdd9e2f9bd69453d830ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1469c80701ccdd9e2f9bd69453d830ef]: Textual amendment: Regulations revoked (24.8.2007) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1)
+[^c-1469c80701ccdd9e2f9bd69453d830ef]: Textual amendment: Regulations revoked (24.8.2007) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1)

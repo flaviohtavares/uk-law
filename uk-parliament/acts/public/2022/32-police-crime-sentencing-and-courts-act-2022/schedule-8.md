@@ -22,7 +22,7 @@ summary: ''
 
 Section 88
 
-### 1. Road Traffic Act [1988 (c. 52)](https://www.legislation.gov.uk/ukpga/1988/52)[^key-c9d41094063034b3f49a2eef5a69ac61]
+### 1. Road Traffic Act [1988 (c. 52)](https://www.legislation.gov.uk/ukpga/1988/52)[^c-c9d41094063034b3f49a2eef5a69ac61]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ Section 88
 
 (4) In section 13A(1) (disapplication of sections 1 to 3 for authorised motoring events), after “2B” insert “, 2C”.
 
-### 2. Road Traffic Offenders Act [1988 (c. 55)](https://www.legislation.gov.uk/ukpga/1988/55)[^key-c034feea26d26f44b42ce86969fc307b]
+### 2. Road Traffic Offenders Act [1988 (c. 55)](https://www.legislation.gov.uk/ukpga/1988/55)[^c-c034feea26d26f44b42ce86969fc307b]
 
 *Extent: E+W+S*
 
@@ -68,7 +68,7 @@ Section 88
 > | --- | --- | --- |
 > | RTA section 2C | Causing serious injury by careless, or inconsiderate, driving | Sections 11 and 12(1) of this Act |
 
-### 3. Crime (International Co-operation) Act [2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32)[^key-99a23501f087b0b49d6100086f02d416]
+### 3. Crime (International Co-operation) Act [2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32)[^c-99a23501f087b0b49d6100086f02d416]
 
 In paragraph 3 of Schedule 3 to the Crime (International Co-operation) Act 2003 (application of duty to give notice of driving disqualification to Republic of Ireland), after sub-paragraph (ba) insert—
 
@@ -76,7 +76,7 @@ In paragraph 3 of Schedule 3 to the Crime (International Co-operation) Act 2003 
 
 .
 
-### 4. Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52)[^key-581c7b5d744845f52943ec0c7756be64]
+### 4. Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52)[^c-581c7b5d744845f52943ec0c7756be64]
 
 In paragraph 12(aj) of Schedule 2 to the Armed Forces Act 2006 (road traffic offences in relation to which duty to notify service police of possible corresponding service offence arises)—
 
@@ -85,10 +85,10 @@ In paragraph 12(aj) of Schedule 2 to the Armed Forces Act 2006 (road traffic off
 
 ## Annotations
 
-[^key-c9d41094063034b3f49a2eef5a69ac61]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/8/paragraph/1) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-c9d41094063034b3f49a2eef5a69ac61]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/8/paragraph/1) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
-[^key-c034feea26d26f44b42ce86969fc307b]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/8/paragraph/2) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-c034feea26d26f44b42ce86969fc307b]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/8/paragraph/2) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
-[^key-99a23501f087b0b49d6100086f02d416]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/8/paragraph/3) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-99a23501f087b0b49d6100086f02d416]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/8/paragraph/3) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
-[^key-581c7b5d744845f52943ec0c7756be64]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/8/paragraph/4) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-581c7b5d744845f52943ec0c7756be64]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/8/paragraph/4) in force at 28.6.2022, see [s. 208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Consent to conferral of general functions on mayor[^key-74f8df2f369f318a1fbe75ae2909d98f]
+## 61. Consent to conferral of general functions on mayor[^c-74f8df2f369f318a1fbe75ae2909d98f]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74f8df2f369f318a1fbe75ae2909d98f]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/55/section/61) in force at 26.12.2023, see [s. 255(2)(f)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/f)
+[^c-74f8df2f369f318a1fbe75ae2909d98f]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/55/section/61) in force at 26.12.2023, see [s. 255(2)(f)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/f)

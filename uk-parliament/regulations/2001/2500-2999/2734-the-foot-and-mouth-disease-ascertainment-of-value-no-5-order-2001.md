@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Foot-and-Mouth Disease (Ascertainment of Value) (No. 5) Order 2001 (revoked)[^key-0b600b9c8035eefa4752014efe496de6]
+The Foot-and-Mouth Disease (Ascertainment of Value) (No. 5) Order 2001 (revoked)[^c-0b600b9c8035eefa4752014efe496de6]
 
 Made
 
@@ -43,28 +43,28 @@ Coming into force
 
 30th July 2001
 
-[^key-0b600b9c8035eefa4752014efe496de6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b600b9c8035eefa4752014efe496de6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-0b600b9c8035eefa4752014efe496de6]
+## 1. Title, extent and commencement[^c-0b600b9c8035eefa4752014efe496de6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Ascertainment of value of an animal[^key-0b600b9c8035eefa4752014efe496de6]
+## 2. Ascertainment of value of an animal[^c-0b600b9c8035eefa4752014efe496de6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-0b600b9c8035eefa4752014efe496de6]
+## 3. Revocation[^c-0b600b9c8035eefa4752014efe496de6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b600b9c8035eefa4752014efe496de6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b600b9c8035eefa4752014efe496de6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b600b9c8035eefa4752014efe496de6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b600b9c8035eefa4752014efe496de6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b600b9c8035eefa4752014efe496de6]: Textual amendment: Order revoked (1.7.2015) by [The Animals, Water and Sea Fisheries (Miscellaneous Revocations) Order 2015 (S.I. 2015/751)](https://www.legislation.gov.uk/uksi/2015/751), arts. 1(1), [2(e)](https://www.legislation.gov.uk/uksi/2015/751/article/2/e)
+[^c-0b600b9c8035eefa4752014efe496de6]: Textual amendment: Order revoked (1.7.2015) by [The Animals, Water and Sea Fisheries (Miscellaneous Revocations) Order 2015 (S.I. 2015/751)](https://www.legislation.gov.uk/uksi/2015/751), arts. 1(1), [2(e)](https://www.legislation.gov.uk/uksi/2015/751/article/2/e)

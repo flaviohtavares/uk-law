@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 318. Orders to relieve statutory undertakers of impracticable obligations[^key-5a540dd8468da3e2b822319c808f4bd6]
+## 318. Orders to relieve statutory undertakers of impracticable obligations[^c-5a540dd8468da3e2b822319c808f4bd6]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a540dd8468da3e2b822319c808f4bd6]: Commencement: S. 318 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5a540dd8468da3e2b822319c808f4bd6]: Commencement: S. 318 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

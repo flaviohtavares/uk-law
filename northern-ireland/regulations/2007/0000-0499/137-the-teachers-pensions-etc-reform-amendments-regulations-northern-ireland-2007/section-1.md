@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-01c149f6caf6b3b671edc7a5ed87089f]
+## 1. Citation and commencement[^c-01c149f6caf6b3b671edc7a5ed87089f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Teachers’ Pensions etc (Reform Amendment
 
 ## Annotations
 
-[^key-01c149f6caf6b3b671edc7a5ed87089f]: Commencement: Reg. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-01c149f6caf6b3b671edc7a5ed87089f]: Commencement: Reg. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)

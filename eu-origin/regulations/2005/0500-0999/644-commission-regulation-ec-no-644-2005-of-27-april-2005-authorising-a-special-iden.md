@@ -85,7 +85,7 @@ This Regulation lays down rules for a special identification system for bovine a
 
 4. Before the animals leave the premises the approved ear tags shall be applied to the animals.
 
-However, if the animals are moved directly to other premises referred to in Article 1 in the United Kingdom[^key-bc65f19390081fcaf0da71a7dc3c379b], it is sufficient for the approved ear tags to accompany the animals during the movement.
+However, if the animals are moved directly to other premises referred to in Article 1 in the United Kingdom[^c-bc65f19390081fcaf0da71a7dc3c379b], it is sufficient for the approved ear tags to accompany the animals during the movement.
 
 ## Article 3. Means of identification
 
@@ -106,7 +106,7 @@ That code shall be registered in the national computerised database for bovine a
 
 **Article 5.** This Regulation shall enter into force on the third day following its publication in the *Official Journal of the European Union*.
 
-[^key-c42ed071fdfc990b4a008fa9fc8ad207]...
+[^c-c42ed071fdfc990b4a008fa9fc8ad207]...
 
 Done at Brussels, 27 April 2005.
 
@@ -122,6 +122,6 @@ Markos Kyprianou
 
 [^f00002]: Footnote: [OJ L 326, 18.12.1999, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.326.01.0016.01.ENG).
 
-[^key-bc65f19390081fcaf0da71a7dc3c379b]: Textual amendment: Words in [Art. 2(4)](https://www.legislation.gov.uk/eur/2005/644/article/2/4) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc65f19390081fcaf0da71a7dc3c379b]: Textual amendment: Words in [Art. 2(4)](https://www.legislation.gov.uk/eur/2005/644/article/2/4) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/814/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c42ed071fdfc990b4a008fa9fc8ad207]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/644/signature) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c42ed071fdfc990b4a008fa9fc8ad207]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2005/644/signature) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/814)](https://www.legislation.gov.uk/uksi/2019/814), [regs. 1](https://www.legislation.gov.uk/uksi/2019/814/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/814/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

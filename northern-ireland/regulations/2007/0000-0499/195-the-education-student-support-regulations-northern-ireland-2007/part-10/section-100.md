@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Information requirements[^key-60424acfd5cfde63b84c165a81b95f01]
+## 100. Information requirements[^c-60424acfd5cfde63b84c165a81b95f01]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60424acfd5cfde63b84c165a81b95f01]: Commencement: [Reg. 100](https://www.legislation.gov.uk/nisr/2007/195/regulation/100) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-60424acfd5cfde63b84c165a81b95f01]: Commencement: [Reg. 100](https://www.legislation.gov.uk/nisr/2007/195/regulation/100) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

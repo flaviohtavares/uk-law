@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Financial Assistance for Environmental Purposes (No. 2) Order 2002 (revoked)[^key-874a533f6c77fb81c8c692c63a7988e8]
+The Financial Assistance for Environmental Purposes (No. 2) Order 2002 (revoked)[^c-874a533f6c77fb81c8c692c63a7988e8]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 27th August 2002
 
-[^key-874a533f6c77fb81c8c692c63a7988e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-874a533f6c77fb81c8c692c63a7988e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-874a533f6c77fb81c8c692c63a7988e8]
+## 1. Citation and commencement[^c-874a533f6c77fb81c8c692c63a7988e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Variation of section 153(1) of the Environmental Protection Act 1990[^key-874a533f6c77fb81c8c692c63a7988e8]
+## 2. Variation of section 153(1) of the Environmental Protection Act 1990[^c-874a533f6c77fb81c8c692c63a7988e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-874a533f6c77fb81c8c692c63a7988e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-874a533f6c77fb81c8c692c63a7988e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-874a533f6c77fb81c8c692c63a7988e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-874a533f6c77fb81c8c692c63a7988e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-874a533f6c77fb81c8c692c63a7988e8]: Textual amendment: Order revoked (1.4.2015) by [The Financial Assistance for Environmental Purposes (England and Wales) Order 2015 (S.I. 2015/479)](https://www.legislation.gov.uk/uksi/2015/479), [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2015/479/schedule)
+[^c-874a533f6c77fb81c8c692c63a7988e8]: Textual amendment: Order revoked (1.4.2015) by [The Financial Assistance for Environmental Purposes (England and Wales) Order 2015 (S.I. 2015/479)](https://www.legislation.gov.uk/uksi/2015/479), [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2015/479/schedule)

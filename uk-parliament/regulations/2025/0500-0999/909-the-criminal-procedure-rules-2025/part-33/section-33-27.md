@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.27. Application to extend detention period[^key-72001e1ff20091c25de4f2872e0da375]
+## 33.27. Application to extend detention period[^c-72001e1ff20091c25de4f2872e0da375]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-72001e1ff20091c25de4f2872e0da375]: Commencement: [Rule 33.27](https://www.legislation.gov.uk/uksi/2025/909/rule/33.27) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-72001e1ff20091c25de4f2872e0da375]: Commencement: [Rule 33.27](https://www.legislation.gov.uk/uksi/2025/909/rule/33.27) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00830]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 47M was inserted by section 55 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) and amended by section 55 of, and paragraphs 14 and 18 of Schedule 21 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 

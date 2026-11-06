@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Reporting on extra-territorial environmental outcomes[^key-1107eca37f6de6ec614660e307fa740e]
+## 115. Reporting on extra-territorial environmental outcomes[^c-1107eca37f6de6ec614660e307fa740e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In Part 6 of the Levelling-up and Regeneration Act 2023 (environmental outcome r
 
 ## Annotations
 
-[^key-1107eca37f6de6ec614660e307fa740e]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2025/34/section/115) in force at 18.2.2026, see [s. 118(6)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/a)
+[^c-1107eca37f6de6ec614660e307fa740e]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2025/34/section/115) in force at 18.2.2026, see [s. 118(6)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/a)

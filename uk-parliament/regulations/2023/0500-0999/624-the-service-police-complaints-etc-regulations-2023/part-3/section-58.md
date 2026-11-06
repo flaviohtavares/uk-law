@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Action by the appropriate authority in response to an investigation report under regulation 56[^key-28f1bf26b4db80e6b5cc75fb3086adfc]
+## 58. Action by the appropriate authority in response to an investigation report under regulation 56[^c-28f1bf26b4db80e6b5cc75fb3086adfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28f1bf26b4db80e6b5cc75fb3086adfc]: Commencement: Reg. 58 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-28f1bf26b4db80e6b5cc75fb3086adfc]: Commencement: Reg. 58 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

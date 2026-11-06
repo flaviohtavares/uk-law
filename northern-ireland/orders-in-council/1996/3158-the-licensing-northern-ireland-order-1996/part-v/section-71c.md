@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71C. Suspension of licence for repeated offences[^key-a6c4ce958fbaf25522cc9cbe161e2052]
+## 71C. Suspension of licence for repeated offences[^c-a6c4ce958fbaf25522cc9cbe161e2052]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ and where the penalty points so taken into account number 10 or more, the court 
 
 ## Annotations
 
-[^key-a6c4ce958fbaf25522cc9cbe161e2052]: Textual amendment: Arts. 71A-71C and cross-heading inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 2(1)](https://www.legislation.gov.uk/nia/2011/18/section/2/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-a6c4ce958fbaf25522cc9cbe161e2052]: Textual amendment: Arts. 71A-71C and cross-heading inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 2(1)](https://www.legislation.gov.uk/nia/2011/18/section/2/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)

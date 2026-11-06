@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 351. The Mayor’s environmental report.[^key-9311f97dabdb7eab4e47d93eac284ee4]
+## 351. The Mayor’s environmental report.[^c-9311f97dabdb7eab4e47d93eac284ee4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9311f97dabdb7eab4e47d93eac284ee4]: Textual amendment: S. 351 repealed (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 226](https://www.legislation.gov.uk/ukpga/2011/20/section/226), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-9311f97dabdb7eab4e47d93eac284ee4]: Textual amendment: S. 351 repealed (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 226](https://www.legislation.gov.uk/ukpga/2011/20/section/226), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

@@ -37,18 +37,18 @@ amending Implementing Decision (EU) 2015/750 on the harmonisation of the 1 452-1
 
 (Text with EEA relevance) (revoked)
 
-[^key-38dabf0ec7c6a57b9ec26e5e675ea356]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38dabf0ec7c6a57b9ec26e5e675ea356]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-38dabf0ec7c6a57b9ec26e5e675ea356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-38dabf0ec7c6a57b9ec26e5e675ea356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-38dabf0ec7c6a57b9ec26e5e675ea356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-38dabf0ec7c6a57b9ec26e5e675ea356] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38dabf0ec7c6a57b9ec26e5e675ea356]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38dabf0ec7c6a57b9ec26e5e675ea356]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-38dabf0ec7c6a57b9ec26e5e675ea356]
+## ANNEX[^c-38dabf0ec7c6a57b9ec26e5e675ea356]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-38dabf0ec7c6a57b9ec26e5e675ea356]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38dabf0ec7c6a57b9ec26e5e675ea356]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

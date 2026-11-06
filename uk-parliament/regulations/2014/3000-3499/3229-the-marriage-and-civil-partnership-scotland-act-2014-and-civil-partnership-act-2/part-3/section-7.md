@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Recognition of a dissolution of a deemed civil partnership[^key-b6b26259d79dbaa45a6a0be3277426a4]
+## 7. Recognition of a dissolution of a deemed civil partnership[^c-b6b26259d79dbaa45a6a0be3277426a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ that order has, throughout the United Kingdom, the same effect in relation to th
 
 ## Annotations
 
-[^key-b6b26259d79dbaa45a6a0be3277426a4]: Commencement: Art. 7 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-b6b26259d79dbaa45a6a0be3277426a4]: Commencement: Art. 7 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

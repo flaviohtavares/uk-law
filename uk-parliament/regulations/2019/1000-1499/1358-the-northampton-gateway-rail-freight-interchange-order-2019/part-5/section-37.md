@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. No double recovery[^key-e48f9a2d058c1e328a54c46553e3d1fa]
+## 37. No double recovery[^c-e48f9a2d058c1e328a54c46553e3d1fa]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Compensation is not payable both under this Order and under any other enactment,
 
 ## Annotations
 
-[^key-e48f9a2d058c1e328a54c46553e3d1fa]: Commencement: Art. 37 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-e48f9a2d058c1e328a54c46553e3d1fa]: Commencement: Art. 37 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

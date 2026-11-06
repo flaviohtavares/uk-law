@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Additional requirements for slaughterhouses[^key-fd28fad4147932edf1ee2d2a3b60e87b]
+## 25. Additional requirements for slaughterhouses[^c-fd28fad4147932edf1ee2d2a3b60e87b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 has effect.
 
 ## Annotations
 
-[^key-fd28fad4147932edf1ee2d2a3b60e87b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2014/951/regulation/25) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-fd28fad4147932edf1ee2d2a3b60e87b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2014/951/regulation/25) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

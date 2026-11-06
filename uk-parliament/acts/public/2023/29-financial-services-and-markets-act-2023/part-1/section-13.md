@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Testing of FMI technologies or practices[^key-4f988be0d8a0939dbe13a828b2cf6342][^key-dd868a3b1ff3ad17718245004aadc59f]
+## 13. Testing of FMI technologies or practices[^c-4f988be0d8a0939dbe13a828b2cf6342][^c-dd868a3b1ff3ad17718245004aadc59f]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ but provision under this subsection may not amend, repeal or revoke a relevant e
 
 ## Annotations
 
-[^key-4f988be0d8a0939dbe13a828b2cf6342]: Commencement: S. 13 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-4f988be0d8a0939dbe13a828b2cf6342]: Commencement: S. 13 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-dd868a3b1ff3ad17718245004aadc59f]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/h)
+[^c-dd868a3b1ff3ad17718245004aadc59f]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/h)

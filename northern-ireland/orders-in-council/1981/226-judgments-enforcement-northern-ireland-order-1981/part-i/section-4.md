@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Judgments to which this Order applies[^key-f873e654695f81a6c3ba6ab182fd684d]
+## 4. Judgments to which this Order applies[^c-f873e654695f81a6c3ba6ab182fd684d]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ Subject to Articles 5 and 6 the judgments to which this Order applies are—
 
 ## Annotations
 
-[^key-f873e654695f81a6c3ba6ab182fd684d]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1981/226/article/4) applied (1.10.2021) by S.I. 2005/255 (N.I. 1), art. 83C(2) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/14); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(i)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/i) (with [art. 3(5)](https://www.legislation.gov.uk/nisr/2021/271/article/3/5)))
+[^c-f873e654695f81a6c3ba6ab182fd684d]: Modification: [Art. 4](https://www.legislation.gov.uk/nisi/1981/226/article/4) applied (1.10.2021) by S.I. 2005/255 (N.I. 1), art. 83C(2) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/14); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(i)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/i) (with [art. 3(5)](https://www.legislation.gov.uk/nisr/2021/271/article/3/5)))
 
 [^c16846241]: Textual amendment: [1986 NI 15](https://www.legislation.gov.uk/1986/ni15)
 

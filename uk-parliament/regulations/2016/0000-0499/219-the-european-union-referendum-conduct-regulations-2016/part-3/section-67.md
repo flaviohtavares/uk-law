@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Use of personal identifier information[^key-6075434889b3097f84d45ec7fbf31202]
+## 67. Use of personal identifier information[^c-6075434889b3097f84d45ec7fbf31202]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,13 +28,13 @@ The registration officer must either—
   - (iii) regulations 62(8) and 66(10), or
 - (b) give the counting officer access to such information.
 
-**68.**[^key-812648d94ee7386f33a18948d1ec85fa] Information contained in records kept by a registration officer in pursuance of regulation 62(8) or 66(10) may be disclosed by the officer to—
+**68.**[^c-812648d94ee7386f33a18948d1ec85fa] Information contained in records kept by a registration officer in pursuance of regulation 62(8) or 66(10) may be disclosed by the officer to—
 
 - (a) any other registration officer if the officer thinks that to do so will assist the other registration officer in the performance of his or her duties;
 - (b) any person exercising functions in relation to the preparation or conduct of legal proceedings under the 2015 Act or the Representation of the People Acts.
 
 ## Annotations
 
-[^key-6075434889b3097f84d45ec7fbf31202]: Commencement: Reg. 67 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-6075434889b3097f84d45ec7fbf31202]: Commencement: Reg. 67 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-812648d94ee7386f33a18948d1ec85fa]: Commencement: Reg. 68 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-812648d94ee7386f33a18948d1ec85fa]: Commencement: Reg. 68 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

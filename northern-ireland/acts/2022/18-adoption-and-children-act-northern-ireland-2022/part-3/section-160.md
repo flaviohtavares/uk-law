@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 160. Commencement[^key-ca0ebacacf89035d5629994cea1c1961]
+## 160. Commencement[^c-ca0ebacacf89035d5629994cea1c1961]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca0ebacacf89035d5629994cea1c1961]: Commencement: S. 160 in operation at 28.4.2022, see [s. 160(2)](https://www.legislation.gov.uk/nia/2022/18/section/160/2)
+[^c-ca0ebacacf89035d5629994cea1c1961]: Commencement: S. 160 in operation at 28.4.2022, see [s. 160(2)](https://www.legislation.gov.uk/nia/2022/18/section/160/2)

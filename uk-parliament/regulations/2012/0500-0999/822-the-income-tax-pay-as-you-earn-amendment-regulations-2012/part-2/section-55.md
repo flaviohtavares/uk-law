@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Provision of information under regulations 53 and 54[^key-d4bf6d6c0125cb2cd32f95b7f95f9ffe]
+## 55. Provision of information under regulations 53 and 54[^c-d4bf6d6c0125cb2cd32f95b7f95f9ffe]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4bf6d6c0125cb2cd32f95b7f95f9ffe]: Commencement: Reg. 55 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-d4bf6d6c0125cb2cd32f95b7f95f9ffe]: Commencement: Reg. 55 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

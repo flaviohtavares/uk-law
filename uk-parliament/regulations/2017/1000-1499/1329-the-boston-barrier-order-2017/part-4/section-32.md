@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Application of Part 1 of the 1965 Act[^key-6848c4e825c26966ace5a6276350ca7f]
+## 32. Application of Part 1 of the 1965 Act[^c-6848c4e825c26966ace5a6276350ca7f]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6848c4e825c26966ace5a6276350ca7f]: Commencement: Art. 32 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-6848c4e825c26966ace5a6276350ca7f]: Commencement: Art. 32 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00042]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 

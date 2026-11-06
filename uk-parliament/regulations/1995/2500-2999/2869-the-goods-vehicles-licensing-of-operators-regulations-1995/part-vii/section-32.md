@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Offences[^key-6e6ebe91891e175c11ca9486863edc6c]
+## 32. Offences[^c-6e6ebe91891e175c11ca9486863edc6c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any contravention of, or failure to comply with, a provision in regulations 23(3
 
 ## Annotations
 
-[^key-6e6ebe91891e175c11ca9486863edc6c]: Commencement: Reg. 32 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-6e6ebe91891e175c11ca9486863edc6c]: Commencement: Reg. 32 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)

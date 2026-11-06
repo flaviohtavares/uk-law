@@ -52,11 +52,11 @@ These Regulations may be cited as the Social Security Benefit (Computation of Ea
 
 ### 2. Interpretation
 
-(1) In these Regulations, unless the context otherwise requires— *(Extent: E+W)* *(affected by repeal, see note)*[^key-fdf81234160559ebfdb021bddedf4752]
+(1) In these Regulations, unless the context otherwise requires— *(Extent: E+W)* *(affected by repeal, see note)*[^c-fdf81234160559ebfdb021bddedf4752]
 
-“adjudicating authority" means any person or body with responsibility under the Social Security Administration Act 1992, and regulations made thereunder, for the determination of claims for benefit and questions arising in connection with a claim for, or award of, or disqualification for receiving benefits; *(Extent: E+W)* *(affected by repeal, see note)*[^key-fdf81234160559ebfdb021bddedf4752]
+“adjudicating authority" means any person or body with responsibility under the Social Security Administration Act 1992, and regulations made thereunder, for the determination of claims for benefit and questions arising in connection with a claim for, or award of, or disqualification for receiving benefits; *(Extent: E+W)* *(affected by repeal, see note)*[^c-fdf81234160559ebfdb021bddedf4752]
 
-“basic rate” means the rate of income tax of that name determined in pursuance of section 6(2) of the Income Tax Act 2007;[^key-40fd0589d68cb0cf666b9b200d0f4b36]
+“basic rate” means the rate of income tax of that name determined in pursuance of section 6(2) of the Income Tax Act 2007;[^c-40fd0589d68cb0cf666b9b200d0f4b36]
 
 “benefit week" means —
 
@@ -74,9 +74,9 @@ except accommodation provided by a close relative of his or of any other member 
 
 “claimant" means a person claiming a benefit, pension or allowance under Parts II to V of the Contributions and Benefits Act and includes a claimant’s spouse or partner and any adult in respect of whom a claim for an increase in benefit is made under Part IV of that Act;
 
-[^key-1cfe70ecf7100476af6b54f139713092]...
+[^c-1cfe70ecf7100476af6b54f139713092]...
 
-“close relative" means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, or if any of the preceding persons is one member of a couple, the other member of that couple;[^key-910079d9a123740ffe7d89375e21b4e0]
+“close relative" means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, or if any of the preceding persons is one member of a couple, the other member of that couple;[^c-910079d9a123740ffe7d89375e21b4e0]
 
 “the Contributions and Benefits Act" means the Social Security Contributions and Benefits Act 1992;
 
@@ -89,10 +89,10 @@ except accommodation provided by a close relative of his or of any other member 
 
 and for the purposes of sub-paragraph (d), two people of the same sex are to be regarded as living together as if they were civil partners if, but only if, they would be regarded as living together as husband and wife were they instead two people of the opposite sex;; and
 
-“couple” means— *(Extent: S)*[^key-13b325cd3719d21c832bc95d02b741f5]
+“couple” means— *(Extent: S)*[^c-13b325cd3719d21c832bc95d02b741f5]
 
 - (a (Extent: S)) two people who are married to, or civil partners of, each other and are members of the same household; or *(Extent: S)*
-- (b (Extent: S)) two people who are not married to, or civil partners of, each other but are living together *(Extent: S)* as if they were a married couple or civil partners[^key-e54ae298a332dc16b4ebd576642ce2eb] *(Extent: S)*; *(Extent: S)*
+- (b (Extent: S)) two people who are not married to, or civil partners of, each other but are living together *(Extent: S)* as if they were a married couple or civil partners[^c-e54ae298a332dc16b4ebd576642ce2eb] *(Extent: S)*; *(Extent: S)*
 
 “Crown property" means property held by Her Majesty in right of the Crown or by a government department or which is held in trust for Her Majesty for the purposes of a government department, except (in the case of an interest held by Her Majesty in right of the Crown) where the interest is under the management of the Crown Estate Commissioners;
 
@@ -109,15 +109,15 @@ and for the purposes of sub-paragraph (d), two people of the same sex are to be 
 
 “employment" includes any trade, business, profession, office or vocation;
 
-“[^key-f5d8d9dc45e5b111d728e854e83434f3]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+“[^c-f5d8d9dc45e5b111d728e854e83434f3]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
 
 “invalid carriage or other vehicle" means a vehicle propelled by petrol engine or by electric power supplied for use on the road and to be controlled by the occupant;
 
 “lone parent" means a person who has no partner and who is responsible for, and a member of the same household as, a child within the meaning of section 142 of the Contributions and Benefits Act (meaning of “child");
 
-[^key-c4d9d3dcb7b74790e49b37212de54946]...
+[^c-c4d9d3dcb7b74790e49b37212de54946]...
 
-[^key-9040f24e69e6b72bfbe8682062d65430]...
+[^c-9040f24e69e6b72bfbe8682062d65430]...
 
 “net earnings" means such earnings as are calculated in accordance with regulation 10(4);
 
@@ -127,7 +127,7 @@ and for the purposes of sub-paragraph (d), two people of the same sex are to be 
 
 “partner" means where a claimant—
 
-- (a) is a member of a [^key-8290da0243ab696f969bb2b2c5798f40]... couple, the other member of that couple;
+- (a) is a member of a [^c-8290da0243ab696f969bb2b2c5798f40]... couple, the other member of that couple;
 - (b) is married polygamously to two or more members of his household, any such member;
 
 “payment" includes a part of a payment;
@@ -138,7 +138,7 @@ and for the purposes of sub-paragraph (d), two people of the same sex are to be 
 
 “polygamous marriage" means any marriage during the subsistence of which a party to it is married to more than one person and the ceremony of marriage took place under the law of a country which permits polygamy;
 
-[^key-763565a9cca065bce25afd93487ae277]...
+[^c-763565a9cca065bce25afd93487ae277]...
 
 “relevant earnings limit" means the amount of a claimant’s earnings in excess of which the benefit, supplement, allowance, pension or increase in question is not payable;
 
@@ -173,13 +173,13 @@ and for the purposes of sub-paragraph (d), two people of the same sex are to be 
 
 ### 4. Notional earnings
 
-(1) Where a claimant’s earnings are not ascertainable at the date of the determination of the claim or of any subsequent review the adjudicating authority shall treat the claimant *(Extent: E+W)* *(affected by repeal, see note)*[^key-f8b2a7dc5a3d11a395454ba172e0bc15] on which a decision falls to be made by the Secretary of State under Chapter *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-f8b2a7dc5a3d11a395454ba172e0bc15] II *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-f8b2a7dc5a3d11a395454ba172e0bc15] of Part I of the Social Security Act 1998 or regulations made thereunder the claimant shall be treated *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-f8b2a7dc5a3d11a395454ba172e0bc15] as possessing such earnings as is reasonable in the circumstances of the case having regard to the number of hours worked and the earnings paid for comparable employment in the area.
+(1) Where a claimant’s earnings are not ascertainable at the date of the determination of the claim or of any subsequent review the adjudicating authority shall treat the claimant *(Extent: E+W)* *(affected by repeal, see note)*[^c-f8b2a7dc5a3d11a395454ba172e0bc15] on which a decision falls to be made by the Secretary of State under Chapter *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-f8b2a7dc5a3d11a395454ba172e0bc15] II *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-f8b2a7dc5a3d11a395454ba172e0bc15] of Part I of the Social Security Act 1998 or regulations made thereunder the claimant shall be treated *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-f8b2a7dc5a3d11a395454ba172e0bc15] as possessing such earnings as is reasonable in the circumstances of the case having regard to the number of hours worked and the earnings paid for comparable employment in the area.
 
-(2)[^key-42751f2786588932c0c76e82f3c3e127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-42751f2786588932c0c76e82f3c3e127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Where a claimant is treated as possessing any earnings under paragraph (1) [^key-cada2436551f592761724eab6b90532a]... these Regulations shall apply for the purposes of calculating the amount of those earnings as if a payment had actually been made and as if they were actual earnings which he does possess except that paragraph (4) of regulation 10 (calculation of net earnings of employed earners) shall not apply and his net earnings shall be calculated by taking into account the earnings which he is treated as possessing, less—
+(3) Where a claimant is treated as possessing any earnings under paragraph (1) [^c-cada2436551f592761724eab6b90532a]... these Regulations shall apply for the purposes of calculating the amount of those earnings as if a payment had actually been made and as if they were actual earnings which he does possess except that paragraph (4) of regulation 10 (calculation of net earnings of employed earners) shall not apply and his net earnings shall be calculated by taking into account the earnings which he is treated as possessing, less—
 
-- (a) an amount in respect of income tax equivalent to an amount calculated by applying to those earnings the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate,[^key-77887907b806ead876e1ef6989fa0e5c] of tax in the year of assessment less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are[^key-cb929fb810ffc99546073aa8fbc41b81] appropriate to his circumstances; but, if the period over which those earnings are to be taken into account is less than a year, the earnings to which the basic rate, or the Scottish basic rate,[^key-15a46c4b024eccc38c311f173b8cf96a] of tax is to be applied and the amount of the personal reliefs[^key-87cd4fb1a9c465ef7569d193ab7dabc7] deductible under this paragraph shall be calculated on a pro rata basis;
+- (a) an amount in respect of income tax equivalent to an amount calculated by applying to those earnings the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate,[^c-77887907b806ead876e1ef6989fa0e5c] of tax in the year of assessment less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are[^c-cb929fb810ffc99546073aa8fbc41b81] appropriate to his circumstances; but, if the period over which those earnings are to be taken into account is less than a year, the earnings to which the basic rate, or the Scottish basic rate,[^c-15a46c4b024eccc38c311f173b8cf96a] of tax is to be applied and the amount of the personal reliefs[^c-87cd4fb1a9c465ef7569d193ab7dabc7] deductible under this paragraph shall be calculated on a pro rata basis;
 - (b) where the weekly amount of those earnings equals or exceeds the lower earnings limit, an amount representing primary Class 1 contributions under the Contributions and Benefits Act, calculated by applying to those earnings the initial and main primary percentages in accordance with section 8(1)(a) and (b) of that Act [^c1768238]; and
 - (c) one half of any sum payable by the claimant in respect of a pay period by way of a contribution towards an occupational or personal pension scheme.
 
@@ -254,7 +254,7 @@ and for the purposes of this definition “period of notice" means the period of
 Earnings to which regulation 6 (calculation of earnings of employed earners) or 11(2) (calculation of earnings of self-employed earners) applies shall be treated as paid—
 
 - (a)
-  - (i) in the case of a payment in respect of an adult dependant of an increase of maternity allowance payable under section 82(2) of the Contributions and Benefits Act [^c1768240] or an increase of carer’s allowance[^key-fdc49cc273de150b2c071ce75f8243f5] payable under paragraph 7 of Schedule 2 to the Social Security Benefit (Dependency) Regulations 1977 [^c1768241]; or
+  - (i) in the case of a payment in respect of an adult dependant of an increase of maternity allowance payable under section 82(2) of the Contributions and Benefits Act [^c1768240] or an increase of carer’s allowance[^c-fdc49cc273de150b2c071ce75f8243f5] payable under paragraph 7 of Schedule 2 to the Social Security Benefit (Dependency) Regulations 1977 [^c1768241]; or
   - (ii) in the case of a payment in respect of an adult dependant who is not residing with the claimant of an increase of Category A or Category C retirement pension payable under section 83(2)(b) [^c1768242] or 84(1) [^c1768243] and 84(2)(b) of the Contributions and Benefits Act [^c1768244] or a disablement pension where the claimant is entitled to an unemployability supplement payable under paragraph 6(1)(a)(ii) of Schedule 7 to the Contributions and Benefits Act,
 
   on the first day of the benefit week following the benefit week in which the payment is due to be paid;
@@ -297,11 +297,11 @@ Earnings to which regulation 6 (calculation of earnings of employed earners) or 
 - (i) where—
   - (i) a payment of compensation is made in respect of employment which is not part-time employment and that payment is not less than the maximum weekly amount, the amount of the compensation less the deductible remainder, where that is applicable;
   - (ii) a payment of compensation is made in respect of employment which is part-time employment, the amount of the compensation;
-- (j)[^key-18c4a3419f29f32e91f00c665819a6aa] any remuneration paid by or on behalf of an employer to the claimant in respect of a period throughout which the claimant is—
+- (j)[^c-18c4a3419f29f32e91f00c665819a6aa] any remuneration paid by or on behalf of an employer to the claimant in respect of a period throughout which the claimant is—
   - (i) on maternity leave;
   - (ii) on paternity leave;
-  - (iii) on adoption leave; [^key-04c93f8cf4e226cf8138dceed498e41d]...
-  - (iiia)[^key-aeebc4b5d1c5370ce72606e025e68ab0] on neonatal care leave; or
+  - (iii) on adoption leave; [^c-04c93f8cf4e226cf8138dceed498e41d]...
+  - (iiia)[^c-aeebc4b5d1c5370ce72606e025e68ab0] on neonatal care leave; or
   - (iv) absent from work because he is ill.
 
 (2) For the purposes of paragraph (1)(i)(i) the “deductible remainder"—
@@ -311,12 +311,12 @@ Earnings to which regulation 6 (calculation of earnings of employed earners) or 
   - (i) the amount of the compensation; and
   - (ii) the product of the maximum weekly amount multiplied by the whole number.
 
-(3)[^key-2511c91b9202405588b3dd082f0fe516] “Earnings” shall not include any payment in respect of expenses—
+(3)[^c-2511c91b9202405588b3dd082f0fe516] “Earnings” shall not include any payment in respect of expenses—
 
 - (a) wholly, exclusively and necessarily incurred in the performance of the duties of the employment; or
-- (b) arising out of the claimant participating as a service user[^key-09d9af2bfe7b39c5db8e6eac6c2988e4].
+- (b) arising out of the claimant participating as a service user[^c-09d9af2bfe7b39c5db8e6eac6c2988e4].
 
-(3A)[^key-6dc1fb52bcf0dc411d7175f9a4fa7a56] The reference in paragraph (3)(b) to a claimant participating as a service user is to—
+(3A)[^c-6dc1fb52bcf0dc411d7175f9a4fa7a56] The reference in paragraph (3)(b) to a claimant participating as a service user is to—
 
 - (a) a person who is being consulted by or on behalf of—
   - (i) a body which has a statutory duty to provide services in the field of health, social care or social housing; or
@@ -340,15 +340,15 @@ Earnings to which regulation 6 (calculation of earnings of employed earners) or 
 - (d) any refund of contributions to which that person was entitled under an occupational pension scheme;
 - (e) any compensation payable by virtue of section 173 or section 178(3) or (4) of the Education Reform Act 1988 [^c1768246];
 
-“adoption leave” means a period of absence from work on ordinary or additional adoption leave under section 75A or 75B of the Employment Rights Act 1996;[^key-40fe1bb719c667f67303ac099accc052]
+“adoption leave” means a period of absence from work on ordinary or additional adoption leave under section 75A or 75B of the Employment Rights Act 1996;[^c-40fe1bb719c667f67303ac099accc052]
 
-“enactment” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament;[^key-842fce6a8a019305c3962002302923e4]
+“enactment” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament;[^c-842fce6a8a019305c3962002302923e4]
 
 “maternity leave” means a period during which a woman is absent from work because she is pregnant or has given birth to a child, and at the end of which she has a right to return to work either under the terms of her contract of employment or under Part 8 of the Employment Rights Act 1996;
 
 “maximum weekly amount" means the maximum weekly amount which, on the date on which the payment of compensation is made, is specified in section 227(1) of the Employment Rights Act 1996;
 
-“[^key-c8bcdfb7683db395808080a7199a62ff]**neonatal care leave**” means a period of absence from work on leave under section 80EF of the Employment Rights Act 1996;
+“[^c-c8bcdfb7683db395808080a7199a62ff]**neonatal care leave**” means a period of absence from work on leave under section 80EF of the Employment Rights Act 1996;
 
 “part-time employment" has the same meaning as in regulation 6(8) (calculation of earnings of employed earners).
 
@@ -356,7 +356,7 @@ Earnings to which regulation 6 (calculation of earnings of employed earners) or 
 
 “public authority” includes any person certain of whose functions are functions of a public nature;
 
-[^key-5c18e81b627f67cdc65ac06bfca4238c]...
+[^c-5c18e81b627f67cdc65ac06bfca4238c]...
 
 ### 10. Calculation of net earnings of employed earners
 
@@ -381,14 +381,14 @@ Earnings to which regulation 6 (calculation of earnings of employed earners) or 
 
 ## PART III — SELF-EMPLOYED EARNERS
 
-### 11. Calculation of earnings of self-employed earners[^key-473e8b5012b58ab9723fa24a87cc8933]
+### 11. Calculation of earnings of self-employed earners[^c-473e8b5012b58ab9723fa24a87cc8933]
 
 (1) Except where paragraph (2) applies, where a claimant’s earnings consist of earnings from employment as a self-employed earner the weekly amount of his earnings shall be determined by reference to his average weekly earnings from that employment—
 
 - (a) over a period of one year; or
 - (b) where the claimant has recently become engaged in that employment or there has been a change which is likely to affect the normal pattern of business, over such other period as may, in any particular case, enable the weekly amount of his earnings to be determined more accurately.
 
-(2) Where the claimant’s earnings consist of any items to which paragraph (2A) applies[^key-4b3d26fba0e845bf24c4ec8d62a2123c] those earnings shall be taken into account over a period equal to such number of weeks as is equal to the number (less any fraction of a whole number) calculated in accordance with the formula—
+(2) Where the claimant’s earnings consist of any items to which paragraph (2A) applies[^c-4b3d26fba0e845bf24c4ec8d62a2123c] those earnings shall be taken into account over a period equal to such number of weeks as is equal to the number (less any fraction of a whole number) calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1996/2745)
 
@@ -398,7 +398,7 @@ T is the relevant earnings limit plus one penny; and
 
 U is the total of the sums which would fall to be disregarded or deducted as appropriate under regulation 13(2) or (3) (calculation of net profit of self-employed earners).
 
-(2A)[^key-5f4c064e94bfe1daa5c67b569ba38d67] This paragraph applies to—
+(2A)[^c-5f4c064e94bfe1daa5c67b569ba38d67] This paragraph applies to—
 
 - (a) royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark; or
 - (b) any payment in respect of any—
@@ -409,13 +409,13 @@ where the claimant is the first owner of the copyright, design, patent or trade 
 
 (3) The period mentioned in paragraph (2) shall begin on the date on which the payment is treated as paid under regulation 7 (date on which earnings are treated as paid).
 
-### 12. Earnings of self-employed earners[^key-473e8b5012b58ab9723fa24a87cc8933]
+### 12. Earnings of self-employed earners[^c-473e8b5012b58ab9723fa24a87cc8933]
 
-(1) [^key-6b60384fd92fe8dc444dc687e3e58f78]... “earnings", in the case of employment as a self-employed earner, means the gross receipts of the employment and shall include any allowance paid under section 2 of the Employment and Training Act 1973 [^c1768248] or section 2 of the Enterprise and New Towns (Scotland) Act 1990 [^c1768249] to the claimant for the purpose of assisting him in carrying on his business.
+(1) [^c-6b60384fd92fe8dc444dc687e3e58f78]... “earnings", in the case of employment as a self-employed earner, means the gross receipts of the employment and shall include any allowance paid under section 2 of the Employment and Training Act 1973 [^c1768248] or section 2 of the Enterprise and New Towns (Scotland) Act 1990 [^c1768249] to the claimant for the purpose of assisting him in carrying on his business.
 
-(2)[^key-4296847a2332b123b216c49c12682b35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4296847a2332b123b216c49c12682b35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Calculation of net profit of self-employed earners[^key-473e8b5012b58ab9723fa24a87cc8933]
+### 13. Calculation of net profit of self-employed earners[^c-473e8b5012b58ab9723fa24a87cc8933]
 
 (1) For the purposes of regulations 3 (calculation of earnings) and 11 (calculation of earnings of self-employed earners), the earnings of a claimant to be taken into account shall be—
 
@@ -455,14 +455,14 @@ where the claimant is the first owner of the copyright, design, patent or trade 
 - (d) any loss incurred before the beginning of the period determined under regulation 11 (calculation of earnings of self-employed earners);
 - (e) the repayment of capital on any loan taken out for the purposes of the employment;
 - (f) any expenses incurred in providing business entertainment.
-- (g)[^key-fe500438acb35aad913f7334f50e8c3f] where the claimant provides accommodation to another person in the dwelling the claimant occupies as his home, any expenses defrayed by the claimant in providing the accommodation to that person (including any defrayed in providing board as well as lodging).
+- (g)[^c-fe500438acb35aad913f7334f50e8c3f] where the claimant provides accommodation to another person in the dwelling the claimant occupies as his home, any expenses defrayed by the claimant in providing the accommodation to that person (including any defrayed in providing board as well as lodging).
 
 (7) A deduction shall be made under paragraph (4)(a) or (5) in respect of the repayment of capital on any loan used for—
 
 - (a) the replacement in the course of business of equipment or machinery; and
 - (b) the repair of an existing business asset except to the extent that any sum is payable under an insurance policy for its repair.
 
-(8) The adjudicating authority The Secretary of State shall refuse to make a deduction *(Extent: E+W)* *(affected by repeal, see note)*[^key-86780303e49c1a56404fc37c099c3377]A deduction shall not be made *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-86780303e49c1a56404fc37c099c3377] in respect of any expenses under paragraph (4)(a) or (5) where the adjudicating authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-26b2afd15a22505250d2c676f1578227] the Secretary of State *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-26b2afd15a22505250d2c676f1578227] is not satisfied that the expense has been defrayed or, having regard to the nature of the expense and its amount, that it has been reasonably incurred.
+(8) The adjudicating authority The Secretary of State shall refuse to make a deduction *(Extent: E+W)* *(affected by repeal, see note)*[^c-86780303e49c1a56404fc37c099c3377]A deduction shall not be made *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-86780303e49c1a56404fc37c099c3377] in respect of any expenses under paragraph (4)(a) or (5) where the adjudicating authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-26b2afd15a22505250d2c676f1578227] the Secretary of State *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-26b2afd15a22505250d2c676f1578227] is not satisfied that the expense has been defrayed or, having regard to the nature of the expense and its amount, that it has been reasonably incurred.
 
 (9) For the avoidance of doubt—
 
@@ -479,17 +479,17 @@ where the claimant is the first owner of the copyright, design, patent or trade 
   - (ii) social security contributions payable under the Contributions and Benefits Act, calculated in accordance with regulation 14 (deduction of tax and contributions for self-employed earners); and
 - (b) one half of any premium paid in respect of a retirement annuity contract or a personal pension scheme.
 
-(11) Notwithstanding regulation 11 (calculation of earnings of self-employed earners) and the foregoing paragraphs, an adjudicating authority *(Extent: E+W)* *(affected by repeal, see note)*[^key-0ae1a3d92a7275d80b9c45ea61d6f3e4] the Secretary of State *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-0ae1a3d92a7275d80b9c45ea61d6f3e4] may assess any item of a claimant’s earnings or expenditure over a period other than that determined under regulation 11 as may, in the particular case, enable the weekly amount of that item of earnings or expenditure to be determined more accurately.
+(11) Notwithstanding regulation 11 (calculation of earnings of self-employed earners) and the foregoing paragraphs, an adjudicating authority *(Extent: E+W)* *(affected by repeal, see note)*[^c-0ae1a3d92a7275d80b9c45ea61d6f3e4] the Secretary of State *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-0ae1a3d92a7275d80b9c45ea61d6f3e4] may assess any item of a claimant’s earnings or expenditure over a period other than that determined under regulation 11 as may, in the particular case, enable the weekly amount of that item of earnings or expenditure to be determined more accurately.
 
 (12) For the avoidance of doubt where a claimant is engaged in employment as a self-employed earner and he is engaged in one or more other employments as a self-employed or employed earner any loss incurred in any one of his employments shall not be offset against his earnings in any other of his employments.
 
-### 14. Deduction of tax and contributions for self-employed earners[^key-473e8b5012b58ab9723fa24a87cc8933]
+### 14. Deduction of tax and contributions for self-employed earners[^c-473e8b5012b58ab9723fa24a87cc8933]
 
-(1) The amount to be deducted in respect of income tax under regulation 13(1)(b)(i), (4)(b)(i) or (10)(a)(i) (calculation of net profit of self-employed earners) shall be calculated on the basis of the amount of chargeable income and as if that income were assessable to income tax at the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate, of tax less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are[^key-76e1a830f86e260f7a0d3511e3ac216a] appropriate to his circumstances; but, if the period determined under regulation 11 (calculation of earnings of self-employed earners) is less than a year, the earnings to which the basic rate, or the Scottish basic rate,[^key-62c9d62c75f358d492c0d4e634257ba1] of tax is to be applied and the amount of the personal reliefs[^key-be38a6f1a687bc32fe657d5f683325c6] deductible under this paragraph shall be calculated on a pro rata basis.
+(1) The amount to be deducted in respect of income tax under regulation 13(1)(b)(i), (4)(b)(i) or (10)(a)(i) (calculation of net profit of self-employed earners) shall be calculated on the basis of the amount of chargeable income and as if that income were assessable to income tax at the basic rate, or in the case of a Scottish taxpayer, the Scottish basic rate, of tax less only the personal reliefs to which the claimant is entitled under Chapters 2, 3 and 3A of Part 3 of the Income Tax Act 2007 as are[^c-76e1a830f86e260f7a0d3511e3ac216a] appropriate to his circumstances; but, if the period determined under regulation 11 (calculation of earnings of self-employed earners) is less than a year, the earnings to which the basic rate, or the Scottish basic rate,[^c-62c9d62c75f358d492c0d4e634257ba1] of tax is to be applied and the amount of the personal reliefs[^c-be38a6f1a687bc32fe657d5f683325c6] deductible under this paragraph shall be calculated on a pro rata basis.
 
 (2) The amount to be deducted in respect of social security contributions under regulation 13(1)(b)(i), (4)(b)(ii) or (10)(a)(ii) shall be the total of—
 
-- (a)[^key-8f113039a4264a7bd0faf5dd3157cedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8f113039a4264a7bd0faf5dd3157cedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the amount of Class 4 contributions (if any) which would be payable under section 15 of that Act (Class 4 contributions recoverable under the Income Tax Acts) at the percentage rate applicable at the date of the determination of the claim or of any subsequent review on so much of the chargeable income as exceeds the lower limit but does not exceed the upper limit of profits and gains applicable for the tax year in which that date falls; but if the assessment period is less than a year, those limits shall be reduced pro rata.
 
 (3) In this regulation “chargeable income" means—
@@ -509,28 +509,28 @@ In the Social Security Benefit (Dependency and Computation of Earnings) Amendmen
 
 ### 16. Transitional provision to suspend benefit and make interim payments
 
-(1 (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] Where the Secretary of State has prior to 25th November 1996 directed under regulation 6(1) of the Social Security Benefit (Computation of Earnings) Regulations 1978 (interim payments) that payment of any benefit shall be suspended and it appears to him that a question arises whether the award ought to be revised, that direction shall, unless the Secretary of State directs otherwise, continue to have effect and the benefit in question shall continue to be suspended for a further period until the amount of the claimant’s earnings in respect of that further period has been determined in accordance with these Regulations. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+(1 (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] Where the Secretary of State has prior to 25th November 1996 directed under regulation 6(1) of the Social Security Benefit (Computation of Earnings) Regulations 1978 (interim payments) that payment of any benefit shall be suspended and it appears to him that a question arises whether the award ought to be revised, that direction shall, unless the Secretary of State directs otherwise, continue to have effect and the benefit in question shall continue to be suspended for a further period until the amount of the claimant’s earnings in respect of that further period has been determined in accordance with these Regulations. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] Where the Secretary of State has prior to 25th November 1996 made interim payments under regulation 6(2) of the Social Security Benefit (Computation of Earnings) Regulations 1978 and it is impracticable for a review relating to the claim to be immediately determined, he may make such further interim payments (not exceeding the amount of benefit in question which would be payable if there were no earnings less any interim payments already made) as he may think appropriate in the circumstances. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] Where the Secretary of State has prior to 25th November 1996 made interim payments under regulation 6(2) of the Social Security Benefit (Computation of Earnings) Regulations 1978 and it is impracticable for a review relating to the claim to be immediately determined, he may make such further interim payments (not exceeding the amount of benefit in question which would be payable if there were no earnings less any interim payments already made) as he may think appropriate in the circumstances. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
 
-(3 (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] After such further interim payments have been made to a claimant for any period after 25th November 1996 and the amount of the earnings in question has been determined— *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+(3 (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] After such further interim payments have been made to a claimant for any period after 25th November 1996 and the amount of the earnings in question has been determined— *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] if the adjudicating authority determines that for that period benefit is payable to him, the adjudicating authority shall direct that those further interim payments shall, so far as they do not exceed that benefit, be treated as having been made on account of it; *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] if the adjudicating authority determines that, for that period, there is payable to him— *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
-  - (i (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] no benefit, or *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
-  - (ii (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] benefit which is less than the amount of those further interim payments, *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] if the adjudicating authority determines that for that period benefit is payable to him, the adjudicating authority shall direct that those further interim payments shall, so far as they do not exceed that benefit, be treated as having been made on account of it; *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] if the adjudicating authority determines that, for that period, there is payable to him— *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+  - (i (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] no benefit, or *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+  - (ii (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] benefit which is less than the amount of those further interim payments, *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
 
-  the Secretary of State shall require repayment of those further interim payments or (as the case may be) of so much of those further interim payments to the extent that they exceed entitlement to that benefit. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+  the Secretary of State shall require repayment of those further interim payments or (as the case may be) of so much of those further interim payments to the extent that they exceed entitlement to that benefit. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
 
-(4 (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] The provisions of the Contributions and Benefits Act and the Social Security Administration Act 1992 and of the regulations made under those Acts shall apply to any further interim payment required to be repaid by virtue of paragraph (3) as if it had been a payment of benefit required to be repaid. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+(4 (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] The provisions of the Contributions and Benefits Act and the Social Security Administration Act 1992 and of the regulations made under those Acts shall apply to any further interim payment required to be repaid by virtue of paragraph (3) as if it had been a payment of benefit required to be repaid. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
 
-(5 (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] The provisions of the Contributions and Benefits Act and the Social Security Administration Act 1992 and of the regulations made under those Acts relating to— *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+(5 (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] The provisions of the Contributions and Benefits Act and the Social Security Administration Act 1992 and of the regulations made under those Acts relating to— *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] the time and manner of payment of benefit, *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] the extinguishment of the right to sums payable by way of benefit which are not obtained within the prescribed time, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
-- (c (Extent: E+W) (affected by repeal, see note))[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3] the information to be given when obtaining payment of benefit, *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] the time and manner of payment of benefit, *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] the extinguishment of the right to sums payable by way of benefit which are not obtained within the prescribed time, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3] the information to be given when obtaining payment of benefit, *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
 
-shall apply to and in respect of any further interim payment by virtue of this regulation as if it were a payment of the appropriate benefit. *(Extent: E+W)* *(affected by repeal, see note)*[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]
+shall apply to and in respect of any further interim payment by virtue of this regulation as if it were a payment of the appropriate benefit. *(Extent: E+W)* *(affected by repeal, see note)*[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]
 
 ### 17. Consequential amendments
 
@@ -565,7 +565,7 @@ Regulations 10(2) and 13(2)
 
 **2.** Where the claimant occupies a dwelling as his home and the dwelling is also occupied by another person and there is a contractual liability to make payments to the claimant in respect of the occupation of the dwelling by that person or a member of his family—
 
-- (a)[^key-5ab1451ec93849ea50daf965c2f42c37] where the aggregate of any payments made in respect of any one week in respect of the occupation of that dwelling by that person or a member of his family, or by that person and a member of his family, is less than £20, the whole of that amount; or
+- (a)[^c-5ab1451ec93849ea50daf965c2f42c37] where the aggregate of any payments made in respect of any one week in respect of the occupation of that dwelling by that person or a member of his family, or by that person and a member of his family, is less than £20, the whole of that amount; or
 - (b) where the aggregate of any such payments is £20 or more per week, £20.
 
 **3.** Where the claimant occupies a dwelling as his home and he provides in that dwelling board and lodging accommodation, an amount, in respect of each person for whom such accommodation is provided for the whole or any part of a week, equal to—
@@ -580,19 +580,19 @@ Regulations 10(2) and 13(2)
 
 **5.** Any earnings which are due to be paid before the date of claim and which would otherwise fall to be taken into account in the same benefit week as a payment of the same kind and from the same source.
 
-**6.** Any payment made by a local authority to the claimant with whom a person is accommodated by virtue of arrangements made under section 23(2)(a) of the Children Act 1989 [^c1768257] (provision of accommodation and maintenance for a child whom they are looking after), section 81 of the Social Services and Well-being (Wales) Act 2014, or[^key-1a1e57f53f57fe0a44b01cb8cec06e36] section 21 of the Social Work (Scotland) Act 1968 [^c1768258] or by a voluntary organisation under section 59(1)(a) of the 1989 Act (provision of accommodation by voluntary organisations) or by a care authority under regulation 9 of the Boarding-out and Fostering of Children (Scotland) Regulations 1985 [^c1768259] (provision of accommodation and maintenance for children in care).
+**6.** Any payment made by a local authority to the claimant with whom a person is accommodated by virtue of arrangements made under section 23(2)(a) of the Children Act 1989 [^c1768257] (provision of accommodation and maintenance for a child whom they are looking after), section 81 of the Social Services and Well-being (Wales) Act 2014, or[^c-1a1e57f53f57fe0a44b01cb8cec06e36] section 21 of the Social Work (Scotland) Act 1968 [^c1768258] or by a voluntary organisation under section 59(1)(a) of the 1989 Act (provision of accommodation by voluntary organisations) or by a care authority under regulation 9 of the Boarding-out and Fostering of Children (Scotland) Regulations 1985 [^c1768259] (provision of accommodation and maintenance for children in care).
 
-**7.** Any payment made by a health authority an integrated care board[^key-901771c9d01fad0344eb0d378facfc76][^key-41804669c356e00db947eef2b605de43], the National Health Service Commissioning Board, a local authority or a voluntary organisation to the claimant in respect of a person who is not normally a member of the claimant’s household but is temporarily in his care.
+**7.** Any payment made by a health authority an integrated care board[^c-901771c9d01fad0344eb0d378facfc76][^c-41804669c356e00db947eef2b605de43], the National Health Service Commissioning Board, a local authority or a voluntary organisation to the claimant in respect of a person who is not normally a member of the claimant’s household but is temporarily in his care.
 
 **8.** In respect of regulation 16 of the Social Security (General Benefit) Regulations 1982 [^c1768260] any earnings not earned during the period of the award.
 
 **9.** Any bounty paid at intervals of at least one year and derived from employments as—
 
-- (a) a part-time member of a fire brigade maintained in pursuance of the Fire Services Acts 1947 to 1959 *(Extent: S)* *(affected by repeal, see note)*[^key-f4371d8d11ba16c28559c1cf73605e5d] *(Extent: E+W)* *(affected by repeal, see note)*[^key-58153631c55c3b8043cf499ed2b7220e] [^c1768261]
-- (a) a part-time fire-fighter employed by a fire and rescue authority under the Fire and Rescue Services Act 2004 or by the Scottish Fire and Rescue Service established under section 1A of the Fire (Scotland) Act 2005;[^key-c016d407ef247f4d0580879441b9732f]
-- (aa)[^key-de6501c2185178872ca18a462e1810a3] a part-time fire-fighter employed by a fire and rescue authority; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6b25ba7f0979aa1c6526b040c2bbf915]
-- (aa)[^key-df86d6d01ab21e5093eeffc0ea2d599d] a part-time fire-fighter employed by a fire and rescue authority;
-- (ab)[^key-a2b2a5728e27bd7f98dab32ef71d70a0] a part-time fire-fighter employed by *(affected by repeal, see note)*[^key-69d5179d65b348e7718da69413abba26] the Scottish Fire and Rescue Service[^key-a187a9ee380d6abf0f77ee22b956a7d1] *(affected by repeal, see note)*[^key-69d5179d65b348e7718da69413abba26];
+- (a) a part-time member of a fire brigade maintained in pursuance of the Fire Services Acts 1947 to 1959 *(Extent: S)* *(affected by repeal, see note)*[^c-f4371d8d11ba16c28559c1cf73605e5d] *(Extent: E+W)* *(affected by repeal, see note)*[^c-58153631c55c3b8043cf499ed2b7220e] [^c1768261]
+- (a) a part-time fire-fighter employed by a fire and rescue authority under the Fire and Rescue Services Act 2004 or by the Scottish Fire and Rescue Service established under section 1A of the Fire (Scotland) Act 2005;[^c-c016d407ef247f4d0580879441b9732f]
+- (aa)[^c-de6501c2185178872ca18a462e1810a3] a part-time fire-fighter employed by a fire and rescue authority; *(Extent: E+W)* *(affected by repeal, see note)*[^c-6b25ba7f0979aa1c6526b040c2bbf915]
+- (aa)[^c-df86d6d01ab21e5093eeffc0ea2d599d] a part-time fire-fighter employed by a fire and rescue authority;
+- (ab)[^c-a2b2a5728e27bd7f98dab32ef71d70a0] a part-time fire-fighter employed by *(affected by repeal, see note)*[^c-69d5179d65b348e7718da69413abba26] the Scottish Fire and Rescue Service[^c-a187a9ee380d6abf0f77ee22b956a7d1] *(affected by repeal, see note)*[^c-69d5179d65b348e7718da69413abba26];
 - (b) an auxiliary coastguard in respect of coast rescue activities;
 - (c) a person engaged part-time in the manning or launching of a lifeboat;
 - (d) a member of any territorial or reserve force prescribed in Part I of Schedule 3 to the Social Security (Contributions) Regulations 1979 [^c1768262].
@@ -601,7 +601,7 @@ Regulations 10(2) and 13(2)
 
 **11.** In the case of employment as an employed earner, any advance of earnings or any loan made by the claimant’s employer.
 
-**12.**[^key-ed108b299490cf09df6811909ceb00e0] (1) Any earnings, other than items to which sub-paragraph (2) applies, paid or due to be paid from the claimant’s employment as an employed earner which ended before the day in respect of which the claimant first satisfies the conditions for entitlement to the benefit, pension or allowance to which the claim relates.
+**12.**[^c-ed108b299490cf09df6811909ceb00e0] (1) Any earnings, other than items to which sub-paragraph (2) applies, paid or due to be paid from the claimant’s employment as an employed earner which ended before the day in respect of which the claimant first satisfies the conditions for entitlement to the benefit, pension or allowance to which the claim relates.
 
 (2) This sub-paragraph applies to—
 
@@ -636,11 +636,11 @@ Regulations 10(2) and 13(2)
 - (a) by persons registered under section 71 of the Children Act 1989 (registration of child minders and persons providing day care for young children); or
 - (b) for children aged 8 and over but under 11, out of school hours, by a school on school premises or by a local authority; or
 - (c) by a child care scheme operating on Crown property where registration under section 71 of the Children Act 1989 is not required, or
-- (d) in schools or establishments which are exempted from registration under section 71 of the Children Act 1989 by virtue of section 71(16) of, and paragraph 3 or 4 of Schedule 9 to, that Act, or[^key-52f4de565bb720366f6197af191a4e98]
+- (d) in schools or establishments which are exempted from registration under section 71 of the Children Act 1989 by virtue of section 71(16) of, and paragraph 3 or 4 of Schedule 9 to, that Act, or[^c-52f4de565bb720366f6197af191a4e98]
 - (e) by persons registered under Part XA of the Children Act 1989 *(Extent: W)* *(affected by repeal, see note)*[^M_F_7b48a270-58de-49d3-e438-9812802bdadf] Part 2 of the Children and Families (Wales) Measure 2010 *(Extent: W)* ;
 - (f) n schools or establishments which are exempted from registration under Part XA of the Children Act 1989 by virtue of paragraph 1 of Schedule 9A to that Act; or *(Extent: W)* *(affected by repeal, see note)*[^M_F_5c95686e-c3d5-484a-88e4-6652e1a60cc9]
 - (f) by a person who is excepted from registration under Part 2 of the Children and Families (Wales) Measure 2010 because the child care that person provides is in a school referred to in article 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010; *(Extent: W)*
-- (g) by[^key-023e20273e617e67b34b997e02557a7b]
+- (g) by[^c-023e20273e617e67b34b997e02557a7b]
   - (i) persons registered under section 59(1) of the Public Services Reform (Scotland) Act 2010; or
   - (ii) local authorities registered under section 83(1) of that Act,
 
@@ -671,26 +671,26 @@ Y is the average weekly charge paid for child care in the most recent 2 complete
 
 **8.** For the purposes of paragraph 1(c) the other member of a couple is incapacitated where—
 
-- (a) [^key-84fcecf475787ac8d220f42a938cb901]...housing benefit is payable under Part VII of the Contributions and Benefits Act to the other member or his partner and the applicable amount of the person entitled to the benefit includes—
+- (a) [^c-84fcecf475787ac8d220f42a938cb901]...housing benefit is payable under Part VII of the Contributions and Benefits Act to the other member or his partner and the applicable amount of the person entitled to the benefit includes—
   - (i) a disability premium; or
   - (ii) a higher pensioner premium by virtue of the satisfaction of—
-    - (aa)[^key-d42423b78862594d87585c760dce5724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-    - (bb)[^key-7b273516a36835054a50aece2114451b] in the case of housing benefit, paragraph 11(2)(b) of Schedule 3 to the Housing Benefit Regulations 2006;
+    - (aa)[^c-d42423b78862594d87585c760dce5724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb)[^c-7b273516a36835054a50aece2114451b] in the case of housing benefit, paragraph 11(2)(b) of Schedule 3 to the Housing Benefit Regulations 2006;
 
     on account of the other member's incapacity or either regulation 18(1)(c) of the Council Tax Benefit Regulations 2006 (treatment of child care charges) or, as the case may be, regulation 28(1)(c) of the Housing Benefit Regulations 2006 (treatment of child care charges) applies in that person's case;
 
   [^c1768266][^c1768267]on account of the other member’s incapacity or either regulation 13A(1)(c) of the Council Tax Benefit (General) Regulations 1992 (treatment of child care charges) or, as the case may be, regulation 21A(1)(c) of the Housing Benefit (General) Regulations 1987 (treatment of child care charges) applies in that person’s case;
-- (b) there is payable in respect of him one or more of the following pensions , payments[^key-f8450f4e96283443b23c40571ac491d3] or allowances—
+- (b) there is payable in respect of him one or more of the following pensions , payments[^c-f8450f4e96283443b23c40571ac491d3] or allowances—
   - (i) long-term incapacity benefit under section 30A, 40 or 41 of the Contributions and Benefits Act [^c1768268];
   - (ii) attendance allowance under section 64 of that Act;
   - (iii) severe disablement allowance under section 68 of that Act [^c1768269];
   - (iv) disability living allowance under section 71 of that Act;
   - (v) an increase of disablement pension under section 104 of that Act;
   - (vi) a pension increase under a war pension scheme or an industrial injuries scheme which is analogous to an allowance or increase of disablement pension under head (ii), (iv) or (v) above;
-  - (vii)[^key-e33e00f78e6c310738a9b6c1e245c252] personal independence payment under Part 4 of the Welfare Reform Act 2012;
-  - (viii)[^key-06ba6824a55c5bba687b030e1749e9a0] armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;
-- (c) a pension , payment[^key-9fb603547bfb904c0a18ad009151f278] or allowance to which head (ii), (iv), (v) , (vi) or (vii)[^key-f74f8741725d5a439d01694931f12976] of sub-paragraph (b) refers, was payable on account of his incapacity but has ceased to be payable [^c1768270];
-  - (i)[^key-57484436430ce8fbd918e3cf811d5636] in consequence of his becoming a patient (other than a person who is serving a sentence imposed by a court in a prison or youth custody institution) who is regarded as receiving free in-patient treatment within the meaning of the Social Security (Hospital In-Patients) Regulations 1975; or[^key-cc8220e0550e59cd1acb17e68c35f0af]
+  - (vii)[^c-e33e00f78e6c310738a9b6c1e245c252] personal independence payment under Part 4 of the Welfare Reform Act 2012;
+  - (viii)[^c-06ba6824a55c5bba687b030e1749e9a0] armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;
+- (c) a pension , payment[^c-9fb603547bfb904c0a18ad009151f278] or allowance to which head (ii), (iv), (v) , (vi) or (vii)[^c-f74f8741725d5a439d01694931f12976] of sub-paragraph (b) refers, was payable on account of his incapacity but has ceased to be payable [^c1768270];
+  - (i)[^c-57484436430ce8fbd918e3cf811d5636] in consequence of his becoming a patient (other than a person who is serving a sentence imposed by a court in a prison or youth custody institution) who is regarded as receiving free in-patient treatment within the meaning of the Social Security (Hospital In-Patients) Regulations 1975; or[^c-cc8220e0550e59cd1acb17e68c35f0af]
   - (ii) in accordance with regulations made section 86(1) (hospital in-patients) of the Welfare Reform Act 2012
 - (d) sub-paragraph (b) or (c) would apply to him if the legislative provisions referred to in those sub-paragraphs were provisions under any corresponding enactment having effect in Northern Ireland; or
 - (e) he has an invalid carriage or other vehicle provided to him by the Secretary of State under section 5(2)(a) of, and Schedule 2 to, the National Health Service Act 1977 [^c1768271] or under section 46 of the National Health Service (Scotland) Act 1978 [^c1768272] or provided by the Department of Health and Social Services for Northern Ireland under article 30(1) of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c1768273].
@@ -701,7 +701,7 @@ Regulations 10(3) and 13(3)
 
 **1.** This Schedule applies where a claimant is—
 
-- (a) entitled to carer’s allowance[^key-bc641d2f14707e6c53fe219e244e7267] under section 70 of the Contributions and Benefits Act; and
+- (a) entitled to carer’s allowance[^c-bc641d2f14707e6c53fe219e244e7267] under section 70 of the Contributions and Benefits Act; and
 - (b) incurring relevant care charges.
 
 **2.** In this Schedule —
@@ -755,49 +755,49 @@ These Regulations do not impose any costs on business.
 
 [^c1768230]: Marginal citation: *See* section 173(1)(b) and (7) of the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-fdf81234160559ebfdb021bddedf4752]: Textual amendment: Reg. 2(1) revoked (E.W.) (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/1999/3178/schedule/16/paragraph/2)
+[^c-fdf81234160559ebfdb021bddedf4752]: Textual amendment: Reg. 2(1) revoked (E.W.) (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/1999/3178/schedule/16/paragraph/2)
 
-[^key-40fd0589d68cb0cf666b9b200d0f4b36]: Textual amendment: Words in reg. 2(1) inserted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/2/b)
+[^c-40fd0589d68cb0cf666b9b200d0f4b36]: Textual amendment: Words in reg. 2(1) inserted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/2/b)
 
-[^key-1cfe70ecf7100476af6b54f139713092]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/12/2/a)
+[^c-1cfe70ecf7100476af6b54f139713092]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/12/2/a)
 
-[^key-910079d9a123740ffe7d89375e21b4e0]: Textual amendment: Words in reg. 2(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2005/2919/article/16/2/a)
+[^c-910079d9a123740ffe7d89375e21b4e0]: Textual amendment: Words in reg. 2(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2005/2919/article/16/2/a)
 
-[^key-13b325cd3719d21c832bc95d02b741f5]: Textual amendment: Words in reg. 2(1) (S) substituted (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/14)
+[^c-13b325cd3719d21c832bc95d02b741f5]: Textual amendment: Words in reg. 2(1) (S) substituted (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 14](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/14)
 
-[^key-e54ae298a332dc16b4ebd576642ce2eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/2/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 49](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/49)
+[^c-e54ae298a332dc16b4ebd576642ce2eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/2/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 49](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/49)
 
 [^c1768231]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); relevant amending instruments are [S.I. 1988/522](https://www.legislation.gov.uk/uksi/1988/522), 1989/1686, 1990/725, 1990/2208, 1991/2284, 1991/2741, 1993/2113, 1994/2319 and 1996/1460.
 
 [^c1768232]: Marginal citation: Section 80 was amended by section 2(4) of the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18), the [Jobseekers Act 1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18) Schedule 3 and article 8 of [S.I.1996/599](https://www.legislation.gov.uk/uksi/1996/599). Section 82 was amended by the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18), [Schedule 1](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1), [paragraph 19](https://www.legislation.gov.uk/ukpga/1994/18/paragraph/19) and the [Jobseekers Act 1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18), [Schedule 2](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2), [paragraph 24](https://www.legislation.gov.uk/ukpga/1995/18/paragraph/24) and Schedule 3. Section 86A was inserted by section 2(5) of the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18). Section 89 was amended by the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18), [Schedule 1](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1), [paragraph 26](https://www.legislation.gov.uk/ukpga/1994/18/paragraph/26).
 
-[^key-f5d8d9dc45e5b111d728e854e83434f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/12/2/b)
+[^c-f5d8d9dc45e5b111d728e854e83434f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/12/2/b)
 
-[^key-c4d9d3dcb7b74790e49b37212de54946]: Textual amendment: Words in reg. 2(1) omitted (6.4.2016) by virtue of [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/2/a)
+[^c-c4d9d3dcb7b74790e49b37212de54946]: Textual amendment: Words in reg. 2(1) omitted (6.4.2016) by virtue of [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/2/a)
 
-[^key-9040f24e69e6b72bfbe8682062d65430]: Textual amendment: Words in reg. 2(1) omitted (8.12.2002) by virtue of [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/2)
+[^c-9040f24e69e6b72bfbe8682062d65430]: Textual amendment: Words in reg. 2(1) omitted (8.12.2002) by virtue of [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/2)
 
 [^c1768235]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-8290da0243ab696f969bb2b2c5798f40]: Textual amendment: Words in reg. 2(1) omitted (5.12.2005) by virtue of [Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [16(2)(c)](https://www.legislation.gov.uk/uksi/2005/2919/article/16/2/c)
+[^c-8290da0243ab696f969bb2b2c5798f40]: Textual amendment: Words in reg. 2(1) omitted (5.12.2005) by virtue of [Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [16(2)(c)](https://www.legislation.gov.uk/uksi/2005/2919/article/16/2/c)
 
-[^key-763565a9cca065bce25afd93487ae277]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 32(2)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/32/2/b)
+[^c-763565a9cca065bce25afd93487ae277]: Textual amendment: Words in reg. 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 32(2)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/32/2/b)
 
 [^c1768236]: Marginal citation: Part XIIA was inserted by sections 5 and 6(1) of the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18).
 
-[^key-f8b2a7dc5a3d11a395454ba172e0bc15]: Textual amendment: Words in reg. 4(1) substituted (E.W.) (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 16 para. 3(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/16/paragraph/3/a)
+[^c-f8b2a7dc5a3d11a395454ba172e0bc15]: Textual amendment: Words in reg. 4(1) substituted (E.W.) (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 16 para. 3(a)](https://www.legislation.gov.uk/uksi/1999/3178/schedule/16/paragraph/3/a)
 
-[^key-42751f2786588932c0c76e82f3c3e127]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/2) omitted (6.4.2016) by virtue of [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/a)
+[^c-42751f2786588932c0c76e82f3c3e127]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/2) omitted (6.4.2016) by virtue of [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/a)
 
-[^key-cada2436551f592761724eab6b90532a]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3) omitted (6.4.2016) by virtue of [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/b)
+[^c-cada2436551f592761724eab6b90532a]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3) omitted (6.4.2016) by virtue of [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/b)
 
-[^key-77887907b806ead876e1ef6989fa0e5c]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3/a) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/c/i)
+[^c-77887907b806ead876e1ef6989fa0e5c]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3/a) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/c/i)
 
-[^key-cb929fb810ffc99546073aa8fbc41b81]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3/a) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/c/ii)
+[^c-cb929fb810ffc99546073aa8fbc41b81]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3/a) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/c/ii)
 
-[^key-15a46c4b024eccc38c311f173b8cf96a]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3/a) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/c/iii)
+[^c-15a46c4b024eccc38c311f173b8cf96a]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3/a) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/c/iii)
 
-[^key-87cd4fb1a9c465ef7569d193ab7dabc7]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3/a) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(c)(iv)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/c/iv)
+[^c-87cd4fb1a9c465ef7569d193ab7dabc7]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/4/3/a) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(3)(c)(iv)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/3/c/iv)
 
 [^c1768238]: Marginal citation: Section 8(1) was amended by the [Pension Schemes Act 1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), [Schedule 8](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8), [paragraph 33](https://www.legislation.gov.uk/ukpga/1993/48/paragraph/33).
 
@@ -807,7 +807,7 @@ These Regulations do not impose any costs on business.
 
 [^c1768240]: Marginal citation: Section 82(2) was substituted by the [Jobseekers Act 1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18), [section 41](https://www.legislation.gov.uk/ukpga/1995/18/section/41), [Schedule 2](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2), [paragraph 24](https://www.legislation.gov.uk/ukpga/1995/18/paragraph/24).
 
-[^key-fdc49cc273de150b2c071ce75f8243f5]: Textual amendment: Words in Sch. 3 substituted (1.4.2003) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/4), [(5)(c)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/5/c)
+[^c-fdc49cc273de150b2c071ce75f8243f5]: Textual amendment: Words in Sch. 3 substituted (1.4.2003) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/4), [(5)(c)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/5/c)
 
 [^c1768241]: Marginal citation: [S.I. 1977/343](https://www.legislation.gov.uk/uksi/1977/343), amended by the [Social Security Act 1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50), [section 37(2)](https://www.legislation.gov.uk/ukpga/1986/50/section/37/2), [S.I](https://www.legislation.gov.uk/ukpga/1986/50/section/I). 1987/355 and 1988/554.
 
@@ -819,149 +819,149 @@ These Regulations do not impose any costs on business.
 
 [^c1768245]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-18c4a3419f29f32e91f00c665819a6aa]: Textual amendment: Reg. 9(1)(j) substituted (8.12.2002) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/a), [2(3)(a)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/3/a)
+[^c-18c4a3419f29f32e91f00c665819a6aa]: Textual amendment: Reg. 9(1)(j) substituted (8.12.2002) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/a), [2(3)(a)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/3/a)
 
-[^key-04c93f8cf4e226cf8138dceed498e41d]: Textual amendment: Word in [reg. 9(1)(j)(iii)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/9/1/j/iii) omitted (6.4.2025) by virtue of [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/201/regulation/7/2/a/i)
+[^c-04c93f8cf4e226cf8138dceed498e41d]: Textual amendment: Word in [reg. 9(1)(j)(iii)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/9/1/j/iii) omitted (6.4.2025) by virtue of [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/201/regulation/7/2/a/i)
 
-[^key-aeebc4b5d1c5370ce72606e025e68ab0]: Textual amendment: [Reg. 9(1)(iiia)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/9/1/iiia)[(j)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/9/1/j) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/201/regulation/7/2/a/ii)
+[^c-aeebc4b5d1c5370ce72606e025e68ab0]: Textual amendment: [Reg. 9(1)(iiia)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/9/1/iiia)[(j)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/9/1/j) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/201/regulation/7/2/a/ii)
 
-[^key-2511c91b9202405588b3dd082f0fe516]: Textual amendment: Reg. 9(3) substituted (26.10.2009 for specified purposes) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2009 (S.I. 2009/2678)](https://www.legislation.gov.uk/uksi/2009/2678), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/2/2/a)
+[^c-2511c91b9202405588b3dd082f0fe516]: Textual amendment: Reg. 9(3) substituted (26.10.2009 for specified purposes) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2009 (S.I. 2009/2678)](https://www.legislation.gov.uk/uksi/2009/2678), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/2/2/a)
 
-[^key-09d9af2bfe7b39c5db8e6eac6c2988e4]: Textual amendment: Words in reg. 9(3)(b) substituted (1.7.2015) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2015 (S.I. 2015/784)](https://www.legislation.gov.uk/uksi/2015/784), [regs. 1](https://www.legislation.gov.uk/uksi/2015/784/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/784/regulation/2/2)
+[^c-09d9af2bfe7b39c5db8e6eac6c2988e4]: Textual amendment: Words in reg. 9(3)(b) substituted (1.7.2015) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2015 (S.I. 2015/784)](https://www.legislation.gov.uk/uksi/2015/784), [regs. 1](https://www.legislation.gov.uk/uksi/2015/784/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/784/regulation/2/2)
 
-[^key-6dc1fb52bcf0dc411d7175f9a4fa7a56]: Textual amendment: Reg. 9(3A) inserted (1.7.2015) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2015 (S.I. 2015/784)](https://www.legislation.gov.uk/uksi/2015/784), [regs. 1](https://www.legislation.gov.uk/uksi/2015/784/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/784/regulation/2/3)
+[^c-6dc1fb52bcf0dc411d7175f9a4fa7a56]: Textual amendment: Reg. 9(3A) inserted (1.7.2015) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2015 (S.I. 2015/784)](https://www.legislation.gov.uk/uksi/2015/784), [regs. 1](https://www.legislation.gov.uk/uksi/2015/784/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/784/regulation/2/3)
 
 [^c1768246]: Marginal citation: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-40fe1bb719c667f67303ac099accc052]: Textual amendment: Words in reg. 9(4) inserted (8.12.2002) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/3/b)
+[^c-40fe1bb719c667f67303ac099accc052]: Textual amendment: Words in reg. 9(4) inserted (8.12.2002) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/a), [2(3)(b)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/3/b)
 
-[^key-842fce6a8a019305c3962002302923e4]: Textual amendment: Words in reg. 9(4) inserted (26.10.2009 for specified purposes) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2009 (S.I. 2009/2678)](https://www.legislation.gov.uk/uksi/2009/2678), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/2/2/b)
+[^c-842fce6a8a019305c3962002302923e4]: Textual amendment: Words in reg. 9(4) inserted (26.10.2009 for specified purposes) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2009 (S.I. 2009/2678)](https://www.legislation.gov.uk/uksi/2009/2678), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/2/2/b)
 
-[^key-c8bcdfb7683db395808080a7199a62ff]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/9/4) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/7/2/b)
+[^c-c8bcdfb7683db395808080a7199a62ff]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/9/4) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/7/2/b)
 
-[^key-5c18e81b627f67cdc65ac06bfca4238c]: Textual amendment: Words in reg. 9(4) omitted (1.7.2015) by virtue of [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2015 (S.I. 2015/784)](https://www.legislation.gov.uk/uksi/2015/784), [regs. 1](https://www.legislation.gov.uk/uksi/2015/784/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/784/regulation/2/4)
+[^c-5c18e81b627f67cdc65ac06bfca4238c]: Textual amendment: Words in reg. 9(4) omitted (1.7.2015) by virtue of [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2015 (S.I. 2015/784)](https://www.legislation.gov.uk/uksi/2015/784), [regs. 1](https://www.legislation.gov.uk/uksi/2015/784/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/784/regulation/2/4)
 
 [^c1768247]: Marginal citation: Section 70 was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556).
 
-[^key-473e8b5012b58ab9723fa24a87cc8933]: Modification: Regs. 11-14 modified by S.I. 2002/1792, reg. 17B (as inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [23(i)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/23/i)) (as amended (5.8.2016) by (S.I. 2016/732), arts. 1(1), 4(2))
+[^c-473e8b5012b58ab9723fa24a87cc8933]: Modification: Regs. 11-14 modified by S.I. 2002/1792, reg. 17B (as inserted (6.10.2003) by [State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations 2002 (S.I. 2002/3019)](https://www.legislation.gov.uk/uksi/2002/3019), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/1/2/b), [23(i)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/23/i)) (as amended (5.8.2016) by (S.I. 2016/732), arts. 1(1), 4(2))
 
-[^key-4b3d26fba0e845bf24c4ec8d62a2123c]: Textual amendment: Words in reg. 11(2) substituted (26.10.2009) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2009 (S.I. 2009/2678)](https://www.legislation.gov.uk/uksi/2009/2678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/2/3/a)
+[^c-4b3d26fba0e845bf24c4ec8d62a2123c]: Textual amendment: Words in reg. 11(2) substituted (26.10.2009) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2009 (S.I. 2009/2678)](https://www.legislation.gov.uk/uksi/2009/2678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/2/3/a)
 
-[^key-5f4c064e94bfe1daa5c67b569ba38d67]: Textual amendment: Reg. 11(2A) inserted (26.10.2009) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2009 (S.I. 2009/2678)](https://www.legislation.gov.uk/uksi/2009/2678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/2/3/b)
+[^c-5f4c064e94bfe1daa5c67b569ba38d67]: Textual amendment: Reg. 11(2A) inserted (26.10.2009) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2009 (S.I. 2009/2678)](https://www.legislation.gov.uk/uksi/2009/2678), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/2678/regulation/2/3/b)
 
-[^key-6b60384fd92fe8dc444dc687e3e58f78]: Textual amendment: Words in reg. 12(1) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/2/a)
+[^c-6b60384fd92fe8dc444dc687e3e58f78]: Textual amendment: Words in reg. 12(1) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/2/a)
 
 [^c1768248]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was amended by section 25(1) of the [Employment Act 1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19), by Part I of Schedule 7 to the [Employment Act 1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38) and by section 47(1) of the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19).
 
 [^c1768249]: Marginal citation: [1990 c.35](https://www.legislation.gov.uk/ukpga/1990/35); section 2(3) was amended by the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), [section 47(4)(a)](https://www.legislation.gov.uk/ukpga/1993/19/section/47/4/a) and Schedule 10.
 
-[^key-4296847a2332b123b216c49c12682b35]: Textual amendment: Reg. 12(2) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/2/b)
+[^c-4296847a2332b123b216c49c12682b35]: Textual amendment: Reg. 12(2) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/2/b)
 
 [^c1768250]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1); sections 257 to 257F were substituted for section 257 by section 33 of the [Finance Act 1988 (c.39)](https://www.legislation.gov.uk/ukpga/1988/39); section 259 was amended by sections 30 and 35 of the Finance Act 1988, section 20 of the [Finance (No. 2) Act 1992 (c.48)](https://www.legislation.gov.uk/ukpga/1992/48), and section 77 and Schedule 8, paragraph 6 of the [Finance Act 1994 (c.9)](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-fe500438acb35aad913f7334f50e8c3f]: Textual amendment: Reg. 13(6)(g) added (with effect in accordance with reg. 1(3) of the amending S.I.) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/3)
+[^c-fe500438acb35aad913f7334f50e8c3f]: Textual amendment: Reg. 13(6)(g) added (with effect in accordance with reg. 1(3) of the amending S.I.) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/3)
 
-[^key-86780303e49c1a56404fc37c099c3377]: Textual amendment: Words in reg. 13(8) substituted (E.W.) (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/1999/3178/schedule/16/paragraph/5)
+[^c-86780303e49c1a56404fc37c099c3377]: Textual amendment: Words in reg. 13(8) substituted (E.W.) (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/1999/3178/schedule/16/paragraph/5)
 
-[^key-26b2afd15a22505250d2c676f1578227]: Textual amendment: Words in reg. 13(8) substituted (E.W.) (6.9.1999) by [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2422/regulation/1), [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/1999/2422/schedule/13/paragraph/1)
+[^c-26b2afd15a22505250d2c676f1578227]: Textual amendment: Words in reg. 13(8) substituted (E.W.) (6.9.1999) by [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2422/regulation/1), [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/1999/2422/schedule/13/paragraph/1)
 
-[^key-0ae1a3d92a7275d80b9c45ea61d6f3e4]: Textual amendment: Words in reg. 13(11) substituted (E.W.) (6.9.1999) by [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2422/regulation/1), [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/1999/2422/schedule/13/paragraph/1)
+[^c-0ae1a3d92a7275d80b9c45ea61d6f3e4]: Textual amendment: Words in reg. 13(11) substituted (E.W.) (6.9.1999) by [The Social Security Act 1998 (Commencement No. 9, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2422)](https://www.legislation.gov.uk/uksi/1999/2422), [reg. 1](https://www.legislation.gov.uk/uksi/1999/2422/regulation/1), [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/1999/2422/schedule/13/paragraph/1)
 
-[^key-76e1a830f86e260f7a0d3511e3ac216a]: Textual amendment: Words in reg. 14(1) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/4/a)
+[^c-76e1a830f86e260f7a0d3511e3ac216a]: Textual amendment: Words in reg. 14(1) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/4/a)
 
-[^key-62c9d62c75f358d492c0d4e634257ba1]: Textual amendment: Words in reg. 14(1) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/4/b)
+[^c-62c9d62c75f358d492c0d4e634257ba1]: Textual amendment: Words in reg. 14(1) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/4/b)
 
-[^key-be38a6f1a687bc32fe657d5f683325c6]: Textual amendment: Word in reg. 14(1) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/4/c)
+[^c-be38a6f1a687bc32fe657d5f683325c6]: Textual amendment: Word in reg. 14(1) substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/4/c)
 
-[^key-8f113039a4264a7bd0faf5dd3157cedc]: Textual amendment: [Reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/14/2/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(7)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/7) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
+[^c-8f113039a4264a7bd0faf5dd3157cedc]: Textual amendment: [Reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/1996/2745/regulation/14/2/a) omitted (6.4.2024) by virtue of [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/1), [8(7)](https://www.legislation.gov.uk/uksi/2024/377/regulation/8/7) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4))
 
 [^c1768252]: Marginal citation: [S.I. 1978/1698](https://www.legislation.gov.uk/uksi/1978/1698).
 
-[^key-2ac0adaaa30e900a24c82a0cc1e4d8b3]: Textual amendment: Reg. 16 revoked (E.W.) (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 16 para. 7](https://www.legislation.gov.uk/uksi/1999/3178/schedule/16/paragraph/7)
+[^c-2ac0adaaa30e900a24c82a0cc1e4d8b3]: Textual amendment: Reg. 16 revoked (E.W.) (29.11.1999) by [The Social Security Act 1998 (Commencement No. 12 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/3178)](https://www.legislation.gov.uk/uksi/1999/3178), [reg. 1](https://www.legislation.gov.uk/uksi/1999/3178/regulation/1), [Sch. 16 para. 7](https://www.legislation.gov.uk/uksi/1999/3178/schedule/16/paragraph/7)
 
 [^c1768255]: Marginal citation: [S.I. 1975/563](https://www.legislation.gov.uk/uksi/1975/563); relevant amending instruments are [S.I. 1979/1432](https://www.legislation.gov.uk/uksi/1979/1432), 1988/435, 1989/1642, 1990/621 and 1992/1700.
 
-[^key-5ab1451ec93849ea50daf965c2f42c37]: Textual amendment: [Sch. 1 para. 2(a)(b)](https://www.legislation.gov.uk/uksi/1996/2745/schedule/1/paragraph/2/a/b) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/4)
+[^c-5ab1451ec93849ea50daf965c2f42c37]: Textual amendment: [Sch. 1 para. 2(a)(b)](https://www.legislation.gov.uk/uksi/1996/2745/schedule/1/paragraph/2/a/b) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/4)
 
 [^c1768256]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^c1768257]: Marginal citation: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49).
 
-[^key-1a1e57f53f57fe0a44b01cb8cec06e36]: Textual amendment: Words in Sch. 1 para. 6 substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/5)
+[^c-1a1e57f53f57fe0a44b01cb8cec06e36]: Textual amendment: Words in Sch. 1 para. 6 substituted (6.4.2016) by [The Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2016 (S.I. 2016/267)](https://www.legislation.gov.uk/uksi/2016/267), [regs. 1](https://www.legislation.gov.uk/uksi/2016/267/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/267/regulation/2/5)
 
 [^c1768258]: Marginal citation: 1985/1799.
 
 [^c1768259]: Marginal citation: [S.I. 1982/1408](https://www.legislation.gov.uk/uksi/1982/1408); the relevant amending instrument is [S.I. 1996/670](https://www.legislation.gov.uk/uksi/1996/670).
 
-[^key-901771c9d01fad0344eb0d378facfc76]: Textual amendment: Words in Sch. 1, para. 7 substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-901771c9d01fad0344eb0d378facfc76]: Textual amendment: Words in Sch. 1, para. 7 substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-41804669c356e00db947eef2b605de43]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1996/2745/schedule/1/paragraph/7) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 32(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/32/3)
+[^c-41804669c356e00db947eef2b605de43]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1996/2745/schedule/1/paragraph/7) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 32(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/32/3)
 
 [^c1768260]: Marginal citation: [1947 c.41](https://www.legislation.gov.uk/ukpga/1947/41); [1951 c.27](https://www.legislation.gov.uk/ukpga/1951/27); [1959 c.44](https://www.legislation.gov.uk/ukpga/1959/44).
 
-[^key-f4371d8d11ba16c28559c1cf73605e5d]: Textual amendment: Sch. 1 para. 9(a) revoked (S.) (2.8.2005) by [Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/11/a)
+[^c-f4371d8d11ba16c28559c1cf73605e5d]: Textual amendment: Sch. 1 para. 9(a) revoked (S.) (2.8.2005) by [Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/11/a)
 
-[^key-58153631c55c3b8043cf499ed2b7220e]: Textual amendment: Sch. 1 para. 9(a) omitted (E.W.) (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/7/a)
+[^c-58153631c55c3b8043cf499ed2b7220e]: Textual amendment: Sch. 1 para. 9(a) omitted (E.W.) (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/7/a)
 
 [^c1768261]: Marginal citation: [S.I. 1979/591](https://www.legislation.gov.uk/uksi/1979/591); relevant amending instruments are [S.I. 1980/1975](https://www.legislation.gov.uk/uksi/1980/1975) and 1994/1553.
 
-[^key-c016d407ef247f4d0580879441b9732f]: Textual amendment: [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/1996/2745/schedule/1/paragraph/9/a) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/7/d)
+[^c-c016d407ef247f4d0580879441b9732f]: Textual amendment: [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/1996/2745/schedule/1/paragraph/9/a) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/7/d)
 
-[^key-de6501c2185178872ca18a462e1810a3]: Textual amendment: Sch. 1 para. 9(aa) inserted (30.12.2004) by [Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [39](https://www.legislation.gov.uk/uksi/2004/3168/article/39)
+[^c-de6501c2185178872ca18a462e1810a3]: Textual amendment: Sch. 1 para. 9(aa) inserted (30.12.2004) by [Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [39](https://www.legislation.gov.uk/uksi/2004/3168/article/39)
 
-[^key-6b25ba7f0979aa1c6526b040c2bbf915]: Textual amendment: Sch. 1 para. 9(aa) omitted (E.W.) (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/7/b)
+[^c-6b25ba7f0979aa1c6526b040c2bbf915]: Textual amendment: Sch. 1 para. 9(aa) omitted (E.W.) (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/7/b)
 
-[^key-df86d6d01ab21e5093eeffc0ea2d599d]: Textual amendment: Sch. 1 para. 9(aa) inserted (W.) (25.10.2005) by [Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/uksi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2929/article/1/1), [39](https://www.legislation.gov.uk/uksi/2005/2929/article/39)
+[^c-df86d6d01ab21e5093eeffc0ea2d599d]: Textual amendment: Sch. 1 para. 9(aa) inserted (W.) (25.10.2005) by [Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/uksi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2929/article/1/1), [39](https://www.legislation.gov.uk/uksi/2005/2929/article/39)
 
-[^key-a2b2a5728e27bd7f98dab32ef71d70a0]: Textual amendment: Sch. 1 para. 9(ab) inserted (2.8.2005) by [Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/11/b)
+[^c-a2b2a5728e27bd7f98dab32ef71d70a0]: Textual amendment: Sch. 1 para. 9(ab) inserted (2.8.2005) by [Fire (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/2060)](https://www.legislation.gov.uk/uksi/2005/2060), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2005/2060/article/1/2/f), [Sch. para. 11(b)](https://www.legislation.gov.uk/uksi/2005/2060/schedule/paragraph/11/b)
 
-[^key-69d5179d65b348e7718da69413abba26]: Textual amendment: Sch. 1 para. 9(ab) omitted (S) (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/7/c)
+[^c-69d5179d65b348e7718da69413abba26]: Textual amendment: Sch. 1 para. 9(ab) omitted (S) (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/7/c)
 
-[^key-a187a9ee380d6abf0f77ee22b956a7d1]: Textual amendment: Words in Sch. 1 para. 9(ab) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 75](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/75)
+[^c-a187a9ee380d6abf0f77ee22b956a7d1]: Textual amendment: Words in Sch. 1 para. 9(ab) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 75](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/75)
 
 [^c1768262]: Marginal citation: Section 143(3)(c)(i)–(iii) came into force on 1.4.93 under the [Social Security (Consequential Provisions) Act 1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6) section 6, Schedule 4, paragraph 5 by virtue of the Schedule to [S.I.1992/2975](https://www.legislation.gov.uk/uksi/1992/2975) (C.91) to have effect until a day appointed under the [Social Security (Consequential Provisions) Act 1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6) section 6, Schedule 4, paragraph 1.
 
-[^key-ed108b299490cf09df6811909ceb00e0]: Textual amendment: Sch. 1 para. 12 added (1.10.2007) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/5)
+[^c-ed108b299490cf09df6811909ceb00e0]: Textual amendment: Sch. 1 para. 12 added (1.10.2007) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2007 (S.I. 2007/2613)](https://www.legislation.gov.uk/uksi/2007/2613), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2007/2613/regulation/2/5)
 
 [^c1768263]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814).
 
-[^key-52f4de565bb720366f6197af191a4e98]: Textual amendment: Sch. 2 para. 2(e)(g) and word inserted (1.4.2002) by [Social Security Benefit (Computation of Earnings) (Child Care Charges) Regulations 2002 (S.I. 2002/842)](https://www.legislation.gov.uk/uksi/2002/842), [regs. 1](https://www.legislation.gov.uk/uksi/2002/842/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/842/regulation/2)
+[^c-52f4de565bb720366f6197af191a4e98]: Textual amendment: Sch. 2 para. 2(e)(g) and word inserted (1.4.2002) by [Social Security Benefit (Computation of Earnings) (Child Care Charges) Regulations 2002 (S.I. 2002/842)](https://www.legislation.gov.uk/uksi/2002/842), [regs. 1](https://www.legislation.gov.uk/uksi/2002/842/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/842/regulation/2)
 
 [^M_F_7b48a270-58de-49d3-e438-9812802bdadf]: Textual amendment: Words in Sch. 2 para. 2 substituted by S.I. 2010/2582, Sch. 4 para. 3(2)(b) (as inserted) (W) (1.4.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/uksi/2011/577), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/577/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/577/schedule)
 
 [^M_F_5c95686e-c3d5-484a-88e4-6652e1a60cc9]: Textual amendment: Words in Sch. 2 para. 2 substituted by S.I. 2010/2582, Sch. 4 para. 3(2)(b) (as inserted) (W) (1.4.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/uksi/2011/577), [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/577/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/577/schedule)
 
-[^key-023e20273e617e67b34b997e02557a7b]: Textual amendment: Words in Sch. 2 para. 2 substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/23)
+[^c-023e20273e617e67b34b997e02557a7b]: Textual amendment: Words in Sch. 2 para. 2 substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/23)
 
-[^key-84fcecf475787ac8d220f42a938cb901]: Textual amendment: Words in Sch. 2 para. 8(a) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-84fcecf475787ac8d220f42a938cb901]: Textual amendment: Words in Sch. 2 para. 8(a) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
-[^key-d42423b78862594d87585c760dce5724]: Textual amendment: Words in Sch. 2 para. 8(a)(aa) (ii) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-d42423b78862594d87585c760dce5724]: Textual amendment: Words in Sch. 2 para. 8(a)(aa) (ii) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
-[^key-7b273516a36835054a50aece2114451b]: Textual amendment: Sch. 2 para. 8(a)(ii) substituted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-7b273516a36835054a50aece2114451b]: Textual amendment: Sch. 2 para. 8(a)(ii) substituted (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1768266]: Marginal citation: Regulation 21A was inserted by [S.I. 1994/1924](https://www.legislation.gov.uk/uksi/1994/1924) regulation 5; relevant amending instruments are [S.I. 1995/560](https://www.legislation.gov.uk/uksi/1995/560) and 1995/626.
 
 [^c1768267]: Marginal citation: Section 30A was inserted by the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18) section 1(1). Sections 40 and 41 were substituted by paragraphs 8 and 9 respectively of Schedule 1 to the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18). Section 41 was amended by the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), [Schedule 4](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4), [paragraph 21(4)](https://www.legislation.gov.uk/ukpga/1995/26/paragraph/21/4).
 
-[^key-f8450f4e96283443b23c40571ac491d3]: Textual amendment: Word in Sch. 2 para. 8(b) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/a)
+[^c-f8450f4e96283443b23c40571ac491d3]: Textual amendment: Word in Sch. 2 para. 8(b) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/a)
 
 [^c1768268]: Marginal citation: Section 68 was amended by the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18) section 9(2) and (3), Schedule 1, paragraphs 11(5), 18(2), (3) and (4) and Schedule 2 and [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556). Subsection (4ZA) was inserted by [S.I. 1984/1303](https://www.legislation.gov.uk/uksi/1984/1303) as substituted by [S.I. 1991/1747](https://www.legislation.gov.uk/uksi/1991/1747).
 
 [^c1768269]: Marginal citation: [S.I.1975/555](https://www.legislation.gov.uk/uksi/1975/555); the relevant amending instrument is [S.I. 1992/2595](https://www.legislation.gov.uk/uksi/1992/2595).
 
-[^key-e33e00f78e6c310738a9b6c1e245c252]: Textual amendment: Sch. 2 para. 8(b)(vii) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/b)
+[^c-e33e00f78e6c310738a9b6c1e245c252]: Textual amendment: Sch. 2 para. 8(b)(vii) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/b)
 
-[^key-06ba6824a55c5bba687b030e1749e9a0]: Textual amendment: Sch. 2 para. 8(b)(viii) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 12(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/12/2)
+[^c-06ba6824a55c5bba687b030e1749e9a0]: Textual amendment: Sch. 2 para. 8(b)(viii) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 12(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/12/2)
 
-[^key-9fb603547bfb904c0a18ad009151f278]: Textual amendment: Word in Sch. 2 para. 8(c) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(c)(i)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/c/i)
+[^c-9fb603547bfb904c0a18ad009151f278]: Textual amendment: Word in Sch. 2 para. 8(c) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(c)(i)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/c/i)
 
-[^key-f74f8741725d5a439d01694931f12976]: Textual amendment: Words in Sch. 2 para. 8(c) substituted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(c)(ii)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/c/ii)
+[^c-f74f8741725d5a439d01694931f12976]: Textual amendment: Words in Sch. 2 para. 8(c) substituted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(c)(ii)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/c/ii)
 
 [^c1768270]: Marginal citation: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-57484436430ce8fbd918e3cf811d5636]: Textual amendment: Words in Sch. 2 para. 8(c)(i) in Sch. 2 para. 8(c) renumbered as Sch. 2 para. 8(c)(i) (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(c)(iii)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/c/iii)
+[^c-57484436430ce8fbd918e3cf811d5636]: Textual amendment: Words in Sch. 2 para. 8(c)(i) in Sch. 2 para. 8(c) renumbered as Sch. 2 para. 8(c)(i) (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(c)(iii)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/c/iii)
 
-[^key-cc8220e0550e59cd1acb17e68c35f0af]: Textual amendment: Sch. 2 para. 8(c)(ii) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(c)(iv)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/c/iv)
+[^c-cc8220e0550e59cd1acb17e68c35f0af]: Textual amendment: Sch. 2 para. 8(c)(ii) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 17(c)(iv)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/17/c/iv)
 
 [^c1768271]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -969,4 +969,4 @@ These Regulations do not impose any costs on business.
 
 [^c1768273]: Marginal citation: Section 70 was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556).
 
-[^key-bc641d2f14707e6c53fe219e244e7267]: Textual amendment: Words in Sch. 3 para. 1(a) substituted (1.4.2003) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/4), [(5)(c)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/5/c)
+[^c-bc641d2f14707e6c53fe219e244e7267]: Textual amendment: Words in Sch. 3 para. 1(a) substituted (1.4.2003) by [Social Security Benefit (Computation of Earnings) (Amendment) Regulations 2002 (S.I. 2002/2823)](https://www.legislation.gov.uk/uksi/2002/2823), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/4), [(5)(c)](https://www.legislation.gov.uk/uksi/2002/2823/regulation/2/5/c)

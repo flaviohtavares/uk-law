@@ -24,7 +24,7 @@ In this Part, unless the context otherwise requires—
 
 - “**authorised market officer**” means an officer of a market authority specially authorised by them to collect charges in their market,
 - “**charges**” includes stallage or tolls,
-- “[^key-4d4f4a315f9e54ca155c80b5e16666f5][^M_F_b02bdd7b-ae1b-41b3-cc1b-6c5c4a5718eb]**fire and rescue authority**” in relation to a market, means—
+- “[^c-4d4f4a315f9e54ca155c80b5e16666f5][^M_F_b02bdd7b-ae1b-41b3-cc1b-6c5c4a5718eb]**fire and rescue authority**” in relation to a market, means—
   - (a) where the Regulatory Reform (Fire Safety) Order 2005 applies to the market, the enforcing authority within the meaning given by article 25 of that Order; or
   - (b) in any other case, the fire and rescue authority under the Fire and Rescue Services Act 2004 for the area in which the market is situated.
 - “**food**” has the same meaning as in the Food Safety Act 1990;
@@ -35,7 +35,7 @@ In this Part, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-4d4f4a315f9e54ca155c80b5e16666f5]: Textual amendment: Words in s. 61 substituted (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 32(3)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/32/3) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-4d4f4a315f9e54ca155c80b5e16666f5]: Textual amendment: Words in s. 61 substituted (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 32(3)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/32/3) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
 [^M_F_b02bdd7b-ae1b-41b3-cc1b-6c5c4a5718eb]: Textual amendment: Words in s. 61 substituted by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16), [ss. 52](https://www.legislation.gov.uk/ukpga/1990/16/section/52), [54](https://www.legislation.gov.uk/ukpga/1990/16/section/54), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/1990/16/schedule/2/paragraph/11)
 

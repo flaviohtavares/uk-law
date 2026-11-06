@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Persons eligible to be prosecuting officers[^key-c1023c35f5195e66473f6ab31a9d4cec]
+## 21. Persons eligible to be prosecuting officers[^c-c1023c35f5195e66473f6ab31a9d4cec]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 365 of AFA 2006 (prosecuting officers)—
 
 ## Annotations
 
-[^key-c1023c35f5195e66473f6ab31a9d4cec]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/18/section/21) in force at 23.12.2016 by [S.I. 2016/1232](https://www.legislation.gov.uk/uksi/2016/1232), [art. 2](https://www.legislation.gov.uk/uksi/2016/1232/article/2)
+[^c-c1023c35f5195e66473f6ab31a9d4cec]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/18/section/21) in force at 23.12.2016 by [S.I. 2016/1232](https://www.legislation.gov.uk/uksi/2016/1232), [art. 2](https://www.legislation.gov.uk/uksi/2016/1232/article/2)

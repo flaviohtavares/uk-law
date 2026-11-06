@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Marine licensing: enforcement in Scottish offshore region[^key-c3a63e721d8b607348763ff3e8fa7c6c]
+## 242. Marine licensing: enforcement in Scottish offshore region[^c-c3a63e721d8b607348763ff3e8fa7c6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ changes during the course of the pursuit.
 
 ## Annotations
 
-[^key-c3a63e721d8b607348763ff3e8fa7c6c]: Commencement: S. 242 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)
+[^c-c3a63e721d8b607348763ff3e8fa7c6c]: Commencement: S. 242 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)

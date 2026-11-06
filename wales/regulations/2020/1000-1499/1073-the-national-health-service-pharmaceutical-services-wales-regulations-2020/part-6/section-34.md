@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Premises approval: additional and new premises after outline consent has taken effect[^key-7b461038f15190e01f76227edc43de28]
+## 34. Premises approval: additional and new premises after outline consent has taken effect[^c-7b461038f15190e01f76227edc43de28]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ as if the notice of appeal were submitted under paragraph 6(1) of Schedule 4.
 
 ## Annotations
 
-[^key-7b461038f15190e01f76227edc43de28]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2020/1073/regulation/34) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-7b461038f15190e01f76227edc43de28]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2020/1073/regulation/34) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

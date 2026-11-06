@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9b0543322a05c15c61937f5009d71076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9b0543322a05c15c61937f5009d71076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 59E of the Taxes Management Act 1970 (c. 9) (further provision as to when corporation tax is due and payable) in subsection (11) (extension of references in the section to corporation tax) after paragraph (b) add—
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b0543322a05c15c61937f5009d71076]: Textual amendment: [S. 92(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/92/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9b0543322a05c15c61937f5009d71076]: Textual amendment: [S. 92(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/92/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

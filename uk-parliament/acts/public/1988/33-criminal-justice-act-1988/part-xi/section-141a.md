@@ -34,7 +34,7 @@ summary: ''
 - (b)[^M_F_4f803230-06ec-4730-b399-596d3dfbdf56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an order made by the Secretary of State under this section.
 
-(4) Subject to section 141B, it[^key-c47fed74b62a095d6763c1166243c4b8] shall be a defence for a person charged with an offence under subsection (1) above to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+(4) Subject to section 141B, it[^c-c47fed74b62a095d6763c1166243c4b8] shall be a defence for a person charged with an offence under subsection (1) above to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
 (5) The power to make an order under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -42,7 +42,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^c12795671] Subject to subsection (3A) below[^c19074831] Any person who sells or lets on hire[^key-d01ded9fe94a7fc511b618fb0106312a] to a person under the age of eighteen[^c19078451] years an article to which this section applies shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months, or a fine not exceeding level 5 on the standard scale, or both.
+(1)[^c12795671] Subject to subsection (3A) below[^c19074831] Any person who sells or lets on hire[^c-d01ded9fe94a7fc511b618fb0106312a] to a person under the age of eighteen[^c19078451] years an article to which this section applies shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months, or a fine not exceeding level 5 on the standard scale, or both.
 
 (2) Subject to subsection (3) below, this section applies to—
 
@@ -53,16 +53,16 @@ summary: ''
 
 (3) This section does not apply to any article described in—
 
-- (a) section 1 of the [^c12795681]Restriction of Offensive Weapons Act 1959, or[^key-1904210cd5e4c2004583b7bfb143e8b0]
-- (b)[^key-4379462ccdc493da62560abb47c852dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 1 of the [^c12795681]Restriction of Offensive Weapons Act 1959, or[^c-1904210cd5e4c2004583b7bfb143e8b0]
+- (b)[^c-4379462ccdc493da62560abb47c852dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an order made by the Secretary of State under this section.
 
-(3A)[^c19074921] Except where section 141C applies, it[^key-15b077618a3256cf7ed2b35ae6ba09eb] is not an offence under subsection (1) to sell or let on hire[^key-54dc1675511ac1eb0a044a627c0eeae6]a knife or knife blade to a person if—
+(3A)[^c19074921] Except where section 141C applies, it[^c-15b077618a3256cf7ed2b35ae6ba09eb] is not an offence under subsection (1) to sell or let on hire[^c-54dc1675511ac1eb0a044a627c0eeae6]a knife or knife blade to a person if—
 
 - (a) the person is aged 16 or over; and
 - (b) the knife or blade is designed for domestic use.
 
-(4)[^key-ecc190a2f54ede5b85009362e77eeb01] Except where section 141C applies, it[^key-762c436ac4b11f8cc67e5a29dd92a2fe] is a defence for a person charged with an offence under subsection (1) (referred to in this section as “ **the accused** ”) to show that—
+(4)[^c-ecc190a2f54ede5b85009362e77eeb01] Except where section 141C applies, it[^c-762c436ac4b11f8cc67e5a29dd92a2fe] is a defence for a person charged with an offence under subsection (1) (referred to in this section as “ **the accused** ”) to show that—
 
 - (a) the accused believed the person to whom the article was sold or let on hire (referred to in this section as “ **the purchaser or hirer** ”) to be of or above the relevant age, and
 - (b) either—
@@ -77,7 +77,7 @@ summary: ''
 (4B) Those documents are any document bearing to be—
 
 - (a) a passport,
-- (aa)[^key-4618c7f7462eea18608c02c308c3fa54] a UK driving licence,
+- (aa)[^c-4618c7f7462eea18608c02c308c3fa54] a UK driving licence,
 - (b) a European Union photocard driving licence, or
 - (c) such other document, or a document of such other description, as the Scottish Ministers may by order prescribe.
 
@@ -104,7 +104,7 @@ summary: ''
 
 [^M_F_4f803230-06ec-4730-b399-596d3dfbdf56]: Textual amendment: S. 141A(3)(b) and word omitted (1.1.2022 for S., 6.4.2022 for E.W.) by virtue of [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2019/17/section/34/1/b), [70(1)(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/e); [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-c47fed74b62a095d6763c1166243c4b8]: Textual amendment: Words in [s. 141A(4)](https://www.legislation.gov.uk/ukpga/1988/33/section/141A/4) substituted (E.W.) (6.4.2022) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/35/2), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1); [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-c47fed74b62a095d6763c1166243c4b8]: Textual amendment: Words in [s. 141A(4)](https://www.legislation.gov.uk/ukpga/1988/33/section/141A/4) substituted (E.W.) (6.4.2022) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/35/2), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1); [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
 [^c19075111]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
@@ -112,7 +112,7 @@ summary: ''
 
 [^c19074831]: Textual amendment: Words in s. 141A(1) inserted (S.) (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 75(2)(a)](https://www.legislation.gov.uk/asp/2006/10/section/75/2/a), [104](https://www.legislation.gov.uk/asp/2006/10/section/104); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
 
-[^key-d01ded9fe94a7fc511b618fb0106312a]: Textual amendment: Words in s. 141A(1) inserted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 36(2)](https://www.legislation.gov.uk/asp/2010/13/section/36/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-d01ded9fe94a7fc511b618fb0106312a]: Textual amendment: Words in s. 141A(1) inserted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 36(2)](https://www.legislation.gov.uk/asp/2010/13/section/36/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c19078451]: Textual amendment: Word in s. 141A(1) substituted (S.) (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 75(2)(b)](https://www.legislation.gov.uk/asp/2006/10/section/75/2/b), [104](https://www.legislation.gov.uk/asp/2006/10/section/104); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
 
@@ -120,18 +120,18 @@ summary: ''
 
 [^c19074901]: Textual amendment: S. 141A(2)(ba) inserted (S.) (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 75(3)(b)](https://www.legislation.gov.uk/asp/2006/10/section/75/3/b), [104](https://www.legislation.gov.uk/asp/2006/10/section/104); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
 
-[^key-1904210cd5e4c2004583b7bfb143e8b0]: Textual amendment: Word in s. 141A(3)(a) inserted (1.1.2021 for S., 6.4.2022 for E.W.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 34(1)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/34/1/a), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/e); [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-1904210cd5e4c2004583b7bfb143e8b0]: Textual amendment: Word in s. 141A(3)(a) inserted (1.1.2021 for S., 6.4.2022 for E.W.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 34(1)(a)](https://www.legislation.gov.uk/ukpga/2019/17/section/34/1/a), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/e); [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
-[^key-4379462ccdc493da62560abb47c852dc]: Textual amendment: S. 141A(3)(b) and word omitted (1.1.2021 for S., 6.4.2022 for E.W.) by virtue of [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2019/17/section/34/1/b), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/e); [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
+[^c-4379462ccdc493da62560abb47c852dc]: Textual amendment: S. 141A(3)(b) and word omitted (1.1.2021 for S., 6.4.2022 for E.W.) by virtue of [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2019/17/section/34/1/b), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/e); [S.I. 2022/418](https://www.legislation.gov.uk/uksi/2022/418), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/418/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/418/regulation/3))
 
 [^c19074921]: Textual amendment: S. 141A(3A) inserted (S.) (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 75(4)](https://www.legislation.gov.uk/asp/2006/10/section/75/4), [104](https://www.legislation.gov.uk/asp/2006/10/section/104); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
 
-[^key-15b077618a3256cf7ed2b35ae6ba09eb]: Textual amendment: Words in s. 141A(3A) substituted (S.) (1.1.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/36/2), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/f)
+[^c-15b077618a3256cf7ed2b35ae6ba09eb]: Textual amendment: Words in s. 141A(3A) substituted (S.) (1.1.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/36/2), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/f)
 
-[^key-54dc1675511ac1eb0a044a627c0eeae6]: Textual amendment: Words in s. 141A(3A) inserted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 36(3)](https://www.legislation.gov.uk/asp/2010/13/section/36/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-54dc1675511ac1eb0a044a627c0eeae6]: Textual amendment: Words in s. 141A(3A) inserted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 36(3)](https://www.legislation.gov.uk/asp/2010/13/section/36/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-ecc190a2f54ede5b85009362e77eeb01]: Textual amendment: S. 141A(4)-(4C) substituted (S.) (28.3.2011) for s. 141A(4) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 36(4)](https://www.legislation.gov.uk/asp/2010/13/section/36/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-ecc190a2f54ede5b85009362e77eeb01]: Textual amendment: S. 141A(4)-(4C) substituted (S.) (28.3.2011) for s. 141A(4) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 36(4)](https://www.legislation.gov.uk/asp/2010/13/section/36/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-762c436ac4b11f8cc67e5a29dd92a2fe]: Textual amendment: Words in s. 141A(4) substituted (S.) (1.1.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/36/2), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/f)
+[^c-762c436ac4b11f8cc67e5a29dd92a2fe]: Textual amendment: Words in s. 141A(4) substituted (S.) (1.1.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/36/2), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/f)
 
-[^key-4618c7f7462eea18608c02c308c3fa54]: Textual amendment: S. 141A(4B)(aa) inserted (S.) (31.12.2020) by [The Licensing (Amendment) (EU Exit) (Scotland) Regulations 2019 (S.S.I. 2019/6)](https://www.legislation.gov.uk/ssi/2019/6), [regs. 1](https://www.legislation.gov.uk/ssi/2019/6/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2019/6/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4618c7f7462eea18608c02c308c3fa54]: Textual amendment: S. 141A(4B)(aa) inserted (S.) (31.12.2020) by [The Licensing (Amendment) (EU Exit) (Scotland) Regulations 2019 (S.S.I. 2019/6)](https://www.legislation.gov.uk/ssi/2019/6), [regs. 1](https://www.legislation.gov.uk/ssi/2019/6/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2019/6/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

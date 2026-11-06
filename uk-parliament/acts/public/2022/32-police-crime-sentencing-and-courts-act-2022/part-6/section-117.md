@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Restriction on multiple cautions[^key-8b690b2f599990c7c900f2d889d27d99]
+## 117. Restriction on multiple cautions[^c-8b690b2f599990c7c900f2d889d27d99]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b690b2f599990c7c900f2d889d27d99]: Commencement: S. 117 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-8b690b2f599990c7c900f2d889d27d99]: Commencement: S. 117 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

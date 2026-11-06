@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Temporary closure, alteration, diversion and restriction of use of streets[^key-64d32c5129b55e27f23248effc2307a6]
+## 15. Temporary closure, alteration, diversion and restriction of use of streets[^c-64d32c5129b55e27f23248effc2307a6]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64d32c5129b55e27f23248effc2307a6]: Commencement: Art. 15 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-64d32c5129b55e27f23248effc2307a6]: Commencement: Art. 15 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)

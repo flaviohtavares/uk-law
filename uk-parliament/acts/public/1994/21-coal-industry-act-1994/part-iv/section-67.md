@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-96a853c5af34c62d5404d592470aa73d] The enactments mentioned in Schedule 9 to this Act shall have effect subject to the amendments there specified (being minor amendments or amendments consequential on the preceding provisions of this Act).
+(1)[^c-96a853c5af34c62d5404d592470aa73d] The enactments mentioned in Schedule 9 to this Act shall have effect subject to the amendments there specified (being minor amendments or amendments consequential on the preceding provisions of this Act).
 
 (2) The Secretary of State may by order made by statutory instrument make such consequential modifications of any provision contained in any Act passed before the relevant commencement date, or in any subordinate legislation made before that date, as appear to him necessary or expedient—
 
@@ -50,7 +50,7 @@ he may by order made by statutory instrument repeal, amend or re-enact (with or 
 
 (7) The transitional provisions and savings contained in Schedule 10 to this Act shall have effect; and those provisions and savings shall be without prejudice to sections 16 and 17 of the [^c10939461]Interpretation Act 1978 (effect of repeals).
 
-(8)[^key-f0a2fa8d83939d49de769e7682a40d35][^key-96a853c5af34c62d5404d592470aa73d][^key-af60e6d110a8137fa4820af4d2334a17] The enactments mentioned in Schedule 11 to this Act (which include some enactments which are spent) are hereby repealed to the extent specified in the third column of that Schedule.
+(8)[^c-f0a2fa8d83939d49de769e7682a40d35][^c-96a853c5af34c62d5404d592470aa73d][^c-af60e6d110a8137fa4820af4d2334a17] The enactments mentioned in Schedule 11 to this Act (which include some enactments which are spent) are hereby repealed to the extent specified in the third column of that Schedule.
 
 ## Annotations
 
@@ -66,10 +66,10 @@ he may by order made by statutory instrument repeal, amend or re-enact (with or 
 
 [^c23550581]: Commencement: S. 67(8) in force for specified purposes at 1.3.1995 by [S.I. 1995/273](https://www.legislation.gov.uk/uksi/1995/273), [art. 2](https://www.legislation.gov.uk/uksi/1995/273/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/273/schedule)
 
-[^key-96a853c5af34c62d5404d592470aa73d]: Commencement: S. 67(1)(8) in force for specified purposes at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
+[^c-96a853c5af34c62d5404d592470aa73d]: Commencement: S. 67(1)(8) in force for specified purposes at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
 
 [^c10939461]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-f0a2fa8d83939d49de769e7682a40d35]: Commencement: S. 67(8) in force at 27.3.2004 for specified purposes by [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/144/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-f0a2fa8d83939d49de769e7682a40d35]: Commencement: S. 67(8) in force at 27.3.2004 for specified purposes by [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/144/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-af60e6d110a8137fa4820af4d2334a17]: Commencement: [S. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8) in force at 28.4.2014 for specified purposes by [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/888/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/888/article/3))
+[^c-af60e6d110a8137fa4820af4d2334a17]: Commencement: [S. 67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8) in force at 28.4.2014 for specified purposes by [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/888/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/888/article/3))

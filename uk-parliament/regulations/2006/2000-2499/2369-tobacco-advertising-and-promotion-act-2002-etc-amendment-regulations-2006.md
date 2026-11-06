@@ -52,13 +52,13 @@ The Secretary of State for Health makes these Regulations in exercise of the pow
 
 The Secretary of State has been designated[^f00002] for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to the direct or indirect promotion of tobacco products and in relation to information society services.
 
-## 1. Citation, commencement and interpretation[^key-5daab9cadec9b2fcad6b8f6eba8244ca]
+## 1. Citation, commencement and interpretation[^c-5daab9cadec9b2fcad6b8f6eba8244ca]
 
 (1) These Regulations may be cited as the Tobacco Advertising and Promotion Act 2002 etc. (Amendment) Regulations 2006 and shall come into force on 28th September 2006.
 
 (2) In these Regulations “the Act” means the Tobacco Advertising and Promotion Act 2002[^f00003].
 
-## 2. Amendment of section 2 of the Act[^key-31ae375b174125450d4fb0bb4a2b44ce]
+## 2. Amendment of section 2 of the Act[^c-31ae375b174125450d4fb0bb4a2b44ce]
 
 (1) Section 2 (prohibition of tobacco advertising) of the Act is amended as follows.
 
@@ -66,7 +66,7 @@ The Secretary of State has been designated[^f00002] for the purposes of section 
 
 > (4) A service provider established in the United Kingdom who, in the course of providing information society services, does anything in an EEA State other than the United Kingdom which, if done in the United Kingdom, would constitute an offence under subsection (1) or (2) is guilty of an offence.
 
-## 3. Advertising by information society services[^key-9a63a427785b32bd1c9a8fc1876e24f9]
+## 3. Advertising by information society services[^c-9a63a427785b32bd1c9a8fc1876e24f9]
 
 After section 3 (advertising: newspapers, periodicals etc) of the Act insert—
 
@@ -84,7 +84,7 @@ After section 3 (advertising: newspapers, periodicals etc) of the Act insert—
 
 .
 
-## 4. Amendment of section 4 of the Act[^key-c186b11f196cf695721c290759d14656]
+## 4. Amendment of section 4 of the Act[^c-c186b11f196cf695721c290759d14656]
 
 (1) Section 4 (advertising: exclusions) of the Act is amended as follows.
 
@@ -128,7 +128,7 @@ After section 3 (advertising: newspapers, periodicals etc) of the Act insert—
 
 .
 
-## 5. Amendment of section 5 of the Act[^key-d3a46753c0b0a1bb5ed08b86958a3665]
+## 5. Amendment of section 5 of the Act[^c-d3a46753c0b0a1bb5ed08b86958a3665]
 
 (1) Section 5 (advertising: defences) of the Act is amended as follows.
 
@@ -161,13 +161,13 @@ After section 3 (advertising: newspapers, periodicals etc) of the Act insert—
 
 .
 
-## 6. Amendment of section 8 of the Act[^key-09dceb02bc9a01636575126cf64a40ab]
+## 6. Amendment of section 8 of the Act[^c-09dceb02bc9a01636575126cf64a40ab]
 
 (1) Section 8 (displays) of the Act is amended as follows.
 
 (2) In subsection (2), for the words “the United Kingdom”, in the first place they appear, substitute “an EEA State”.
 
-## 7. Amendment of section 16 of the Act[^key-610829ba89fe0f7c2f77aa5b278ad8ea]
+## 7. Amendment of section 16 of the Act[^c-610829ba89fe0f7c2f77aa5b278ad8ea]
 
 (1) Section 16 (penalties) of the Act is amended as follows.
 
@@ -180,7 +180,7 @@ After section 3 (advertising: newspapers, periodicals etc) of the Act insert—
 
 .
 
-## 8. Amendment of section 21 of the Act[^key-85915f465215a724ef2b8d9f52b5c01c]
+## 8. Amendment of section 21 of the Act[^c-85915f465215a724ef2b8d9f52b5c01c]
 
 (1) Section 21 (interpretation) of the Act is amended as follows.
 
@@ -209,7 +209,7 @@ After section 3 (advertising: newspapers, periodicals etc) of the Act insert—
 
 .
 
-## 9. Information society service providers[^key-62efa683e7dcd9f65f0b7320f51e5d03]
+## 9. Information society service providers[^c-62efa683e7dcd9f65f0b7320f51e5d03]
 
 After section 22 of the Act insert the following Schedule—
 
@@ -274,7 +274,7 @@ After section 22 of the Act insert the following Schedule—
 
 .
 
-## 10. Amendment of the Electronic Commerce (EC Directive) (Extension) Regulations 2003[^key-f37e6341d6167b865bd5b7eb4a7078ed]
+## 10. Amendment of the Electronic Commerce (EC Directive) (Extension) Regulations 2003[^c-f37e6341d6167b865bd5b7eb4a7078ed]
 
 Paragraph 2 to the Schedule to the Electronic Commerce (EC Directive) (Extension) Regulations 2003[^f00004] is omitted.
 
@@ -314,27 +314,27 @@ A Regulatory Impact Assessment and a Transposition Note have been prepared for t
 
 [^f00002]: Footnote: *See* [SI 1999/654](https://www.legislation.gov.uk/uksi/1999/654) and [SI 2001/2555](https://www.legislation.gov.uk/uksi/2001/2555). In relation to measures in these Regulations relating to the direct or indirect promotion of tobacco products, the power of the Secretary of State under section 2(2) of the European Communities Act 1972 is exercisable in relation to Scotland by virtue of section 57(1) of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-5daab9cadec9b2fcad6b8f6eba8244ca]: Commencement: Reg. 1 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-5daab9cadec9b2fcad6b8f6eba8244ca]: Commencement: Reg. 1 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
 [^f00003]: Footnote: [2002 c.36](https://www.legislation.gov.uk/ukpga/2002/36).
 
-[^key-31ae375b174125450d4fb0bb4a2b44ce]: Commencement: Reg. 2 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-31ae375b174125450d4fb0bb4a2b44ce]: Commencement: Reg. 2 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
-[^key-9a63a427785b32bd1c9a8fc1876e24f9]: Commencement: Reg. 3 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-9a63a427785b32bd1c9a8fc1876e24f9]: Commencement: Reg. 3 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
-[^key-c186b11f196cf695721c290759d14656]: Commencement: Reg. 4 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-c186b11f196cf695721c290759d14656]: Commencement: Reg. 4 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
-[^key-d3a46753c0b0a1bb5ed08b86958a3665]: Commencement: Reg. 5 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-d3a46753c0b0a1bb5ed08b86958a3665]: Commencement: Reg. 5 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
-[^key-09dceb02bc9a01636575126cf64a40ab]: Commencement: Reg. 6 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-09dceb02bc9a01636575126cf64a40ab]: Commencement: Reg. 6 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
-[^key-610829ba89fe0f7c2f77aa5b278ad8ea]: Commencement: Reg. 7 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-610829ba89fe0f7c2f77aa5b278ad8ea]: Commencement: Reg. 7 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
-[^key-85915f465215a724ef2b8d9f52b5c01c]: Commencement: Reg. 8 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-85915f465215a724ef2b8d9f52b5c01c]: Commencement: Reg. 8 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
-[^key-62efa683e7dcd9f65f0b7320f51e5d03]: Commencement: Reg. 9 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-62efa683e7dcd9f65f0b7320f51e5d03]: Commencement: Reg. 9 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
-[^key-f37e6341d6167b865bd5b7eb4a7078ed]: Commencement: Reg. 10 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
+[^c-f37e6341d6167b865bd5b7eb4a7078ed]: Commencement: Reg. 10 in force at 28.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2369/regulation/1/1)
 
 [^f00004]: Footnote: [SI 2003/115](https://www.legislation.gov.uk/uksi/2003/115).
 

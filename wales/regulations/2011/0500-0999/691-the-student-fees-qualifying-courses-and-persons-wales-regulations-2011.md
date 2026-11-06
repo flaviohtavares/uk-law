@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the National Assembly for Wales by sections 28(6) and 47(5) of the Higher Education Act 2004[^f00001] and now exercisable by them[^f00002], make the following Regulations.
 
-## 1. Title, commencement and application[^key-3e70ee679aef2e0dd02f81303032d1ee]
+## 1. Title, commencement and application[^c-3e70ee679aef2e0dd02f81303032d1ee]
 
 (1) The title of these Regulations is the Student Fees (Qualifying Courses and Persons) (Wales) Regulations 2011 and they come into force on 31 March 2011.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-b78b50dd275522d9eeab24c68e9a870c]
+## 2. Interpretation[^c-b78b50dd275522d9eeab24c68e9a870c]
 
 (1) In these Regulations—
 
@@ -72,7 +72,7 @@ The Welsh Ministers in exercise of the powers conferred on the National Assembly
 - (a) the person holds a higher education qualification from an institution in the United Kingdom; and
 - (b) the qualification referred to in sub-paragraph (a) is of an academic level which is equivalent to or higher than a qualification to which the current course leads.
 
-## 3. Prescribed description of a qualifying course[^key-95a3b8c5a539a2ec743e79b7e6cf270a]
+## 3. Prescribed description of a qualifying course[^c-95a3b8c5a539a2ec743e79b7e6cf270a]
 
 (1) A qualifying course which is prescribed for the purposes of section 28 of the Act is:
 
@@ -91,9 +91,9 @@ The Welsh Ministers in exercise of the powers conferred on the National Assembly
 - (a) it is an end-on course; and
 - (b) the preceding course was not a qualifying course by reason of paragraph (4).
 
-(6)[^key-8bb4c633da6561ec05143b32f33a571c] A course is not a qualifying course if it is a part-time course.
+(6)[^c-8bb4c633da6561ec05143b32f33a571c] A course is not a qualifying course if it is a part-time course.
 
-## 4. Prescribed description of a qualifying person[^key-8b6ffdaf675aa81e64e76750ccd7f707]
+## 4. Prescribed description of a qualifying person[^c-8b6ffdaf675aa81e64e76750ccd7f707]
 
 (1) A qualifying person who is prescribed for the purposes of section 28 of the Act is a person who falls within the Schedule on the first day of an academic year which begins during the grant period, other than—
 
@@ -136,7 +136,7 @@ Minister for Children, Education and Lifelong Learning, one of the Welsh Ministe
 
 ## SCHEDULE
 
-**1.**[^key-aafc4bd257dddf56770346c24f1da4de] (1) For the purposes of this Schedule—
+**1.**[^c-aafc4bd257dddf56770346c24f1da4de] (1) For the purposes of this Schedule—
 
 - “academic year” (“*blwyddyn academaidd*”) means the period of twelve months beginning on 1 January, 1 April, 1 July or 1 September of the calendar year in which the academic year of the course in question begins according to whether that academic year begins on or after 1 January and before 1 April, on or after 1 April and before 1 July, on or after 1 July and before 1 August or on or after 1 August and on or before 31 December, respectively;
 - “Directive 2004/38” (“*Cyfarwyddeb 2004/38*”) means Directive [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29 April 2004 on the rights of citizens of the Union and their family members to move and reside freely in the territory of the Member States[^f00007];
@@ -181,9 +181,9 @@ Minister for Children, Education and Lifelong Learning, one of the Welsh Ministe
       - (aa) under the age of 21; or
       - (bb) dependants of the national or the national’s spouse or civil partner;
 - “the Islands” (“*yr Ynysoedd*”) means the Channel Islands and the Isle of Man;
-- “overseas territories” (“*tiriogaethau tramor*”) means Anguilla; Aruba; Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Mayotte; Greenland; Montserrat; Netherlands Antilles (Bonaire, Curacao, Saba, Sint Eustatius and Sint Maarten); Pitcairn, Henderson, Ducie and Oeno Islands; South Georgia and the South Sandwich Islands; St-Barthélemy[^key-612934bb261e6f5e851b3f04765977ae] St Helena and Dependencies (Ascension Island and Tristan de Cunha); St Pierre et Miquelon; the Territory of New Caledonia and Dependencies; Turks and Caicos Islands and Wallis and Futuna;
+- “overseas territories” (“*tiriogaethau tramor*”) means Anguilla; Aruba; Bermuda; British Antarctic Territory; British Indian Ocean Territory; British Virgin Islands; Cayman Islands; Falkland Islands; Faroe Islands; French Polynesia; French Southern and Antarctic Territories; Mayotte; Greenland; Montserrat; Netherlands Antilles (Bonaire, Curacao, Saba, Sint Eustatius and Sint Maarten); Pitcairn, Henderson, Ducie and Oeno Islands; South Georgia and the South Sandwich Islands; St-Barthélemy[^c-612934bb261e6f5e851b3f04765977ae] St Helena and Dependencies (Ascension Island and Tristan de Cunha); St Pierre et Miquelon; the Territory of New Caledonia and Dependencies; Turks and Caicos Islands and Wallis and Futuna;
 - “person with leave to enter or remain” (“*person sydd â chaniatâd i ddod i mewn neu i aros*”) means a person (“P”)—
-  - (a) who has—[^key-8bb45265b854110bfe6aaeba86d73e36]
+  - (a) who has—[^c-8bb45265b854110bfe6aaeba86d73e36]
     - (i) applied for refugee status but has as a result of that application been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that, although P is considered not to qualify for recognition as a refugee, it is thought right to allow P to enter or remain in the United Kingdom on the grounds of humanitarian protection or discretionary leave; or
     - (ii) not applied for refugee status but has been informed in writing by a person acting under the authority of the Secretary of State for the Home Department that it is thought right to allow P to enter or remain in the United Kingdom on the grounds of discretionary leave;”.
   - (b) who has been granted leave to enter or to remain accordingly;
@@ -240,7 +240,7 @@ is to be considered to have always been a part of the European Economic Area.
 
 is to be considered to be ordinarily resident in the place from which the person moved.
 
-### 2. Persons who are settled in the United Kingdom[^key-c7cadd0ce8a5bee56810b0c30cd1cea9]
+### 2. Persons who are settled in the United Kingdom[^c-c7cadd0ce8a5bee56810b0c30cd1cea9]
 
 (1) A person who on the first day of the first academic year of the course—
 
@@ -251,14 +251,14 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the United Kingdom and Islands in accordance with paragraph 1(3).
 
-**3.**[^key-2ea7ff091d8590885d1a9f2433cf7857] A person who—
+**3.**[^c-2ea7ff091d8590885d1a9f2433cf7857] A person who—
 
 - (a) is settled in the United Kingdom by virtue of having acquired the right of permanent residence on the first day of an academic year of the course;
 - (b) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
 - (c) has been ordinarily resident in the United Kingdom and Islands throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) in a case where the residence referred to in sub-paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area, Switzerland and the overseas territories immediately before the period of residence referred to in sub-paragraph (c).
 
-### 4. Refugees and their family members[^key-49076cce6ddb573ee42332e6b8c642fe]
+### 4. Refugees and their family members[^c-49076cce6ddb573ee42332e6b8c642fe]
 
 (1) A person who—
 
@@ -281,7 +281,7 @@ is to be considered to be ordinarily resident in the place from which the person
 - (d) is ordinarily resident in the United Kingdom and Islands and has not ceased to be so resident since the refugee was given leave to remain in the United Kingdom; and
 - (e) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
 
-### 5. Persons with leave to enter or remain and their family members[^key-c8437ca383c38ebf8564640cd7ccef76]
+### 5. Persons with leave to enter or remain and their family members[^c-c8437ca383c38ebf8564640cd7ccef76]
 
 (1) A person—
 
@@ -291,7 +291,7 @@ is to be considered to be ordinarily resident in the place from which the person
 (2) A person who—
 
 - (a) is the spouse or civil partner of a person with leave to enter or remain;
-- (b)[^key-d17708b7cd8e6856926a0eab8dbd506c] was the spouse or civil partner of the person with leave to enter or remain on the date on which that person made—
+- (b)[^c-d17708b7cd8e6856926a0eab8dbd506c] was the spouse or civil partner of the person with leave to enter or remain on the date on which that person made—
   - (i) the application for asylum; or
   - (ii) the application for discretionary leave, where no application for asylum was made; and
 - (c) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
@@ -299,17 +299,17 @@ is to be considered to be ordinarily resident in the place from which the person
 (3) A person—
 
 - (a) who is the child of a person with leave to enter or remain or the child of the spouse or civil partner of a person with leave to enter or remain;
-- (b)[^key-252a9315f8f53d58e0d20d1488db2297] who, on the date on which the person with leave to enter or remain made—
+- (b)[^c-252a9315f8f53d58e0d20d1488db2297] who, on the date on which the person with leave to enter or remain made—
   - (i) the application for asylum; or
   - (ii) the application for discretionary leave, where no application for asylum was made,
 
   was the child of that person or the child of a person who was the spouse or civil partner of the person with leave to enter or remain on that date;
-- (c)[^key-04542e325f17679e8801c61673eb1548] who was under 18 on the date on which the person with leave to enter or remain made—
+- (c)[^c-04542e325f17679e8801c61673eb1548] who was under 18 on the date on which the person with leave to enter or remain made—
   - (i) the application for asylum; or
   - (ii) the application for discretionary leave, where no application for asylum was made; and
 - (d) who is ordinarily resident in the United Kingdom on the first day of the first academic year of the course.
 
-### 6. Workers, employed persons, self-employed persons and their family members[^key-6f94527cf7740f08e67326bacb166619]
+### 6. Workers, employed persons, self-employed persons and their family members[^c-6f94527cf7740f08e67326bacb166619]
 
 (1) A person who—
 
@@ -325,13 +325,13 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (2) Paragraph (b) of sub-paragraph (1) does not apply where the person falls within paragraph (a)(iv), (v) or (vi) of that sub-paragraph.
 
-**7.**[^key-653fc8d78d7365d392a8e51c22262b31] A person who—
+**7.**[^c-653fc8d78d7365d392a8e51c22262b31] A person who—
 
 - (a) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
 - (b) has been ordinarily resident in the territory comprising the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course; and
 - (c) is entitled to support by virtue of Article 12 of Council Regulation [(EEC) No 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on the freedom of movement of workers[^f00014], as extended by the EEA Agreement.
 
-### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^key-2822d5e7dbaf1f527be0b445c17a81e4]
+### 8. Persons who are settled in the United Kingdom and have exercised a right of residence elsewhere[^c-2822d5e7dbaf1f527be0b445c17a81e4]
 
 (1) A person who—
 
@@ -346,7 +346,7 @@ is to be considered to be ordinarily resident in the place from which the person
 - (a) where A is a United Kingdom national, a family member of a United Kingdom national for the purposes of Article 7 of Directive 2004/38 (or corresponding purposes under the EEA Agreement or Swiss Agreement) or a person who has a right of permanent residence, A has exercised a right under Article 7 of Directive 2004/38 or any equivalent right under the EEA Agreement or Swiss Agreement in a state other than the United Kingdom; or
 - (b) where A is settled in the United Kingdom and has a right of permanent residence, A goes to the state within the territory comprising the European Economic Area and Switzerland of which A is a national or of which the person in relation to whom A is a family member is a national.
 
-### 9. EU nationals[^key-e62167e85efc9a131762269b2c3fe78e]
+### 9. EU nationals[^c-e62167e85efc9a131762269b2c3fe78e]
 
 (1) A person who—
 
@@ -354,10 +354,10 @@ is to be considered to be ordinarily resident in the place from which the person
   - (i) an EU national on the first day of an academic year of the course; or
   - (ii) a family member of a such a person;
 - (b) is undertaking the course in the United Kingdom;
-- (c) subject to sub-paragraph (1A),[^key-abd53080fa779221a8812d55da61ac20] has been ordinarily resident in the territory comprising the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course; and
+- (c) subject to sub-paragraph (1A),[^c-abd53080fa779221a8812d55da61ac20] has been ordinarily resident in the territory comprising the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) subject to sub-paragraph (2), whose ordinary residence in the relevant territory has not during any part of the period referred to in paragraph (c) been wholly or mainly for the purpose of receiving full-time education.
 
-(1A)[^key-e886cca929c6a16550fd4306d96b15d5] Paragraph (c) of sub-paragraph (1) does not apply to a family member of an EU national where that EU national—
+(1A)[^c-e886cca929c6a16550fd4306d96b15d5] Paragraph (c) of sub-paragraph (1) does not apply to a family member of an EU national where that EU national—
 
 - (a) is—
   - (i) a United Kingdom national who has exercised a right to reside in the territory of another Member State under article 7(1) of Directive 2004/38; or
@@ -366,7 +366,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (2) Paragraph (d) of sub-paragraph (1) does not apply to a person who is treated as being ordinarily resident in the relevant territory in accordance with paragraph 1(3).
 
-**10.**[^key-9d302da122e10adf4cdc3a2b232e8542] (1) A person who—
+**10.**[^c-9d302da122e10adf4cdc3a2b232e8542] (1) A person who—
 
 - (a) is an EU national other than a United Kingdom national on the first day of the first academic year of the course;
 - (b) is ordinarily resident in the United Kingdom on the first day of the first academic year of the course;
@@ -375,7 +375,7 @@ is to be considered to be ordinarily resident in the place from which the person
 
 (2) Where a state accedes to the European Union after the first day of the first academic year of the course and a person is a national of that state, the requirement in paragraph (a) of sub-paragraph (1) to be an EU national other than a United Kingdom national on the first day of the first academic year of the course is treated as being satisfied.
 
-### 11. Children of Swiss nationals[^key-b8fa8946474f042c22cd4a41dd4cf0a8]
+### 11. Children of Swiss nationals[^c-b8fa8946474f042c22cd4a41dd4cf0a8]
 
 A person who—
 
@@ -384,7 +384,7 @@ A person who—
 - (c) has been ordinarily resident in the territory comprising the European Economic Area, Switzerland and the overseas territories throughout the three-year period preceding the first day of the first academic year of the course; and
 - (d) in a case where the ordinary residence referred to in sub-paragraph (c) was wholly or mainly for the purpose of receiving full-time education, was ordinarily resident in the territory comprising the European Economic Area and Switzerland immediately before the period of ordinary residence referred to in sub-paragraph (c).
 
-### 12. Children of Turkish workers[^key-8a85b2beaccf342f1c7483e45fe6a98f]
+### 12. Children of Turkish workers[^c-8a85b2beaccf342f1c7483e45fe6a98f]
 
 A person who—
 
@@ -410,9 +410,9 @@ The regulatory impact assessment applicable to these Regulations is obtainable f
 
 [^f00002]: Footnote: The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraphs 30(1) and 30(2)(c) of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-3e70ee679aef2e0dd02f81303032d1ee]: Commencement: Reg. 1 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-3e70ee679aef2e0dd02f81303032d1ee]: Commencement: Reg. 1 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-b78b50dd275522d9eeab24c68e9a870c]: Commencement: Reg. 2 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-b78b50dd275522d9eeab24c68e9a870c]: Commencement: Reg. 2 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2011/148 (W.32)](https://www.legislation.gov.uk/wsi/2011/148).
 
@@ -420,23 +420,23 @@ The regulatory impact assessment applicable to these Regulations is obtainable f
 
 [^f00005]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-95a3b8c5a539a2ec743e79b7e6cf270a]: Commencement: Reg. 3 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-95a3b8c5a539a2ec743e79b7e6cf270a]: Commencement: Reg. 3 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
 [^f00006]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30). Section 22 was amended by the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 146 and Schedule 11. There are other amendments not relevant to these Regulations.
 
-[^key-8bb4c633da6561ec05143b32f33a571c]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/wsi/2011/691/regulation/3/6) inserted (1.9.2012) by [The Student Fees (Qualifying Courses and Persons) (Wales) (Amendment) Regulations 2012 (S.I. 2012/1630)](https://www.legislation.gov.uk/wsi/2012/1630), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2012/1630/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2012/1630/regulation/2)
+[^c-8bb4c633da6561ec05143b32f33a571c]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/wsi/2011/691/regulation/3/6) inserted (1.9.2012) by [The Student Fees (Qualifying Courses and Persons) (Wales) (Amendment) Regulations 2012 (S.I. 2012/1630)](https://www.legislation.gov.uk/wsi/2012/1630), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2012/1630/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2012/1630/regulation/2)
 
-[^key-8b6ffdaf675aa81e64e76750ccd7f707]: Commencement: Reg. 4 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-8b6ffdaf675aa81e64e76750ccd7f707]: Commencement: Reg. 4 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-aafc4bd257dddf56770346c24f1da4de]: Commencement: Sch. para. 1 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-aafc4bd257dddf56770346c24f1da4de]: Commencement: Sch. para. 1 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
 [^f00007]: Footnote: OJ L158, 30.04.2004, pp.77-123.
 
 [^f00008]: Footnote: “EEA State” is defined in the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-612934bb261e6f5e851b3f04765977ae]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/1/1) inserted (1.9.2013) by [The Education (Student Fees, Awards, Qualifying Courses and Persons) (Wales) Regulations 2013 (S.I. 2013/1792)](https://www.legislation.gov.uk/wsi/2013/1792), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/1792/article/1/2), [reg. 7](https://www.legislation.gov.uk/wsi/2013/1792/regulation/7) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/1/3))
+[^c-612934bb261e6f5e851b3f04765977ae]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/1/1) inserted (1.9.2013) by [The Education (Student Fees, Awards, Qualifying Courses and Persons) (Wales) Regulations 2013 (S.I. 2013/1792)](https://www.legislation.gov.uk/wsi/2013/1792), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/1792/article/1/2), [reg. 7](https://www.legislation.gov.uk/wsi/2013/1792/regulation/7) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/1/3))
 
-[^key-8bb45265b854110bfe6aaeba86d73e36]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/1/1) substituted (31.8.2011) by [The Education (Student Fees, Awards and Support) (Wales) Regulations 2011 (S.I. 2011/1978)](https://www.legislation.gov.uk/wsi/2011/1978), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2011/1978/regulation/21)
+[^c-8bb45265b854110bfe6aaeba86d73e36]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/1/1) substituted (31.8.2011) by [The Education (Student Fees, Awards and Support) (Wales) Regulations 2011 (S.I. 2011/1978)](https://www.legislation.gov.uk/wsi/2011/1978), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2011/1978/regulation/21)
 
 [^f00009]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by the Asylum and Immigration (Treatment of Claimants etc) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), Schedules 2 and 4; by the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), and by the Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 ([S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21)), Schedule 1.
 
@@ -448,36 +448,36 @@ The regulatory impact assessment applicable to these Regulations is obtainable f
 
 [^f00013]: Footnote: Cm. 4904 and OJ No. L114, 30.04.02, p.6.
 
-[^key-c7cadd0ce8a5bee56810b0c30cd1cea9]: Commencement: Sch. para. 2 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-c7cadd0ce8a5bee56810b0c30cd1cea9]: Commencement: Sch. para. 2 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-2ea7ff091d8590885d1a9f2433cf7857]: Commencement: Sch. para. 3 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-2ea7ff091d8590885d1a9f2433cf7857]: Commencement: Sch. para. 3 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-49076cce6ddb573ee42332e6b8c642fe]: Commencement: Sch. para. 4 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-49076cce6ddb573ee42332e6b8c642fe]: Commencement: Sch. para. 4 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-c8437ca383c38ebf8564640cd7ccef76]: Commencement: Sch. para. 5 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-c8437ca383c38ebf8564640cd7ccef76]: Commencement: Sch. para. 5 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-d17708b7cd8e6856926a0eab8dbd506c]: Textual amendment: [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/5/2/b) substituted (31.8.2011) by [The Education (Student Fees, Awards and Support) (Wales) Regulations 2011 (S.I. 2011/1978)](https://www.legislation.gov.uk/wsi/2011/1978), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/1/2), [22(a)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/22/a)
+[^c-d17708b7cd8e6856926a0eab8dbd506c]: Textual amendment: [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/5/2/b) substituted (31.8.2011) by [The Education (Student Fees, Awards and Support) (Wales) Regulations 2011 (S.I. 2011/1978)](https://www.legislation.gov.uk/wsi/2011/1978), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/1/2), [22(a)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/22/a)
 
-[^key-252a9315f8f53d58e0d20d1488db2297]: Textual amendment: [Sch. para. 5(3)(b)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/5/3/b) substituted (31.8.2011) by [The Education (Student Fees, Awards and Support) (Wales) Regulations 2011 (S.I. 2011/1978)](https://www.legislation.gov.uk/wsi/2011/1978), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/1/2), [22(b)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/22/b)
+[^c-252a9315f8f53d58e0d20d1488db2297]: Textual amendment: [Sch. para. 5(3)(b)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/5/3/b) substituted (31.8.2011) by [The Education (Student Fees, Awards and Support) (Wales) Regulations 2011 (S.I. 2011/1978)](https://www.legislation.gov.uk/wsi/2011/1978), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/1/2), [22(b)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/22/b)
 
-[^key-04542e325f17679e8801c61673eb1548]: Textual amendment: [Sch. para. 5(3)(c)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/5/3/c) substituted (31.8.2011) by [The Education (Student Fees, Awards and Support) (Wales) Regulations 2011 (S.I. 2011/1978)](https://www.legislation.gov.uk/wsi/2011/1978), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/1/2), [22(c)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/22/c)
+[^c-04542e325f17679e8801c61673eb1548]: Textual amendment: [Sch. para. 5(3)(c)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/5/3/c) substituted (31.8.2011) by [The Education (Student Fees, Awards and Support) (Wales) Regulations 2011 (S.I. 2011/1978)](https://www.legislation.gov.uk/wsi/2011/1978), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/1/2), [22(c)](https://www.legislation.gov.uk/wsi/2011/1978/regulation/22/c)
 
-[^key-6f94527cf7740f08e67326bacb166619]: Commencement: Sch. para. 6 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-6f94527cf7740f08e67326bacb166619]: Commencement: Sch. para. 6 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-653fc8d78d7365d392a8e51c22262b31]: Commencement: Sch. para. 7 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-653fc8d78d7365d392a8e51c22262b31]: Commencement: Sch. para. 7 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
 [^f00014]: Footnote: OJ No L257, 19.10.1968, p.2 (OJ/SE 1968 (II) p.475).
 
-[^key-2822d5e7dbaf1f527be0b445c17a81e4]: Commencement: Sch. para. 8 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-2822d5e7dbaf1f527be0b445c17a81e4]: Commencement: Sch. para. 8 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-e62167e85efc9a131762269b2c3fe78e]: Commencement: Sch. para. 9 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-e62167e85efc9a131762269b2c3fe78e]: Commencement: Sch. para. 9 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-abd53080fa779221a8812d55da61ac20]: Textual amendment: Words in [Sch. para. 9(1)(c)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/9/1/c) inserted (1.9.2013) by [The Education (Student Fees, Awards, Qualifying Courses and Persons) (Wales) Regulations 2013 (S.I. 2013/1792)](https://www.legislation.gov.uk/wsi/2013/1792), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/1792/article/1/2), [reg. 8(a)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/8/a) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/1/3))
+[^c-abd53080fa779221a8812d55da61ac20]: Textual amendment: Words in [Sch. para. 9(1)(c)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/9/1/c) inserted (1.9.2013) by [The Education (Student Fees, Awards, Qualifying Courses and Persons) (Wales) Regulations 2013 (S.I. 2013/1792)](https://www.legislation.gov.uk/wsi/2013/1792), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/1792/article/1/2), [reg. 8(a)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/8/a) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/1/3))
 
-[^key-e886cca929c6a16550fd4306d96b15d5]: Textual amendment: [Sch. para. 9(1A)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/9/1A) inserted (1.9.2013) by [The Education (Student Fees, Awards, Qualifying Courses and Persons) (Wales) Regulations 2013 (S.I. 2013/1792)](https://www.legislation.gov.uk/wsi/2013/1792), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/1792/article/1/2), [reg. 8(b)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/8/b) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/1/3))
+[^c-e886cca929c6a16550fd4306d96b15d5]: Textual amendment: [Sch. para. 9(1A)](https://www.legislation.gov.uk/wsi/2011/691/schedule/paragraph/9/1A) inserted (1.9.2013) by [The Education (Student Fees, Awards, Qualifying Courses and Persons) (Wales) Regulations 2013 (S.I. 2013/1792)](https://www.legislation.gov.uk/wsi/2013/1792), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/1792/article/1/2), [reg. 8(b)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/8/b) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2013/1792/regulation/1/3))
 
-[^key-9d302da122e10adf4cdc3a2b232e8542]: Commencement: Sch. para. 10 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-9d302da122e10adf4cdc3a2b232e8542]: Commencement: Sch. para. 10 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-b8fa8946474f042c22cd4a41dd4cf0a8]: Commencement: Sch. para. 11 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-b8fa8946474f042c22cd4a41dd4cf0a8]: Commencement: Sch. para. 11 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
 
-[^key-8a85b2beaccf342f1c7483e45fe6a98f]: Commencement: Sch. para. 12 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)
+[^c-8a85b2beaccf342f1c7483e45fe6a98f]: Commencement: Sch. para. 12 in force at 31.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/691/regulation/1/1)

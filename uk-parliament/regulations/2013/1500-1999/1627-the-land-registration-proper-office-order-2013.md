@@ -32,7 +32,7 @@ summary: ''
 
 Land Registration, England And Wales
 
-The Land Registration (Proper Office) Order 2013 (revoked)[^key-b19db3a00a6355458dcae8e894a57eee]
+The Land Registration (Proper Office) Order 2013 (revoked)[^c-b19db3a00a6355458dcae8e894a57eee]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1st October 2013
 
-[^key-b19db3a00a6355458dcae8e894a57eee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b19db3a00a6355458dcae8e894a57eee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b19db3a00a6355458dcae8e894a57eee]
+## 1. Citation and commencement[^c-b19db3a00a6355458dcae8e894a57eee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Applications to which this Order applies[^key-b19db3a00a6355458dcae8e894a57eee]
+## 2. Applications to which this Order applies[^c-b19db3a00a6355458dcae8e894a57eee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of the proper office[^key-b19db3a00a6355458dcae8e894a57eee]
+## 3. Designation of the proper office[^c-b19db3a00a6355458dcae8e894a57eee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-b19db3a00a6355458dcae8e894a57eee]
+## 4. Revocation[^c-b19db3a00a6355458dcae8e894a57eee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b19db3a00a6355458dcae8e894a57eee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b19db3a00a6355458dcae8e894a57eee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-b19db3a00a6355458dcae8e894a57eee]
+## SCHEDULE[^c-b19db3a00a6355458dcae8e894a57eee]
 
 Article 3
 
@@ -78,8 +78,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-b19db3a00a6355458dcae8e894a57eee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b19db3a00a6355458dcae8e894a57eee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b19db3a00a6355458dcae8e894a57eee]: Textual amendment: Order revoked (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rules 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [5](https://www.legislation.gov.uk/uksi/2018/70/rule/5)
+[^c-b19db3a00a6355458dcae8e894a57eee]: Textual amendment: Order revoked (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rules 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [5](https://www.legislation.gov.uk/uksi/2018/70/rule/5)

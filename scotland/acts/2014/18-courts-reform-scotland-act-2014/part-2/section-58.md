@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Rehearing of pending case by a larger Court[^key-75160fe44b6c2060b0d85d5f7c21f2b2]
+## 58. Rehearing of pending case by a larger Court[^c-75160fe44b6c2060b0d85d5f7c21f2b2]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75160fe44b6c2060b0d85d5f7c21f2b2]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2014/18/section/58) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-75160fe44b6c2060b0d85d5f7c21f2b2]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2014/18/section/58) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

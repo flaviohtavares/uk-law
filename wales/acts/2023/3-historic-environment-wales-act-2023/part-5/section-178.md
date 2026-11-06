@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. Access to evidence at inquiry[^key-c6e5bf98a1671630a18cad657c39c913][^key-c1255f593726eacfd3bb2e80e610da58]
+## 178. Access to evidence at inquiry[^c-c6e5bf98a1671630a18cad657c39c913][^c-c1255f593726eacfd3bb2e80e610da58]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6e5bf98a1671630a18cad657c39c913]: Commencement: S. 178 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-c6e5bf98a1671630a18cad657c39c913]: Commencement: S. 178 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-c1255f593726eacfd3bb2e80e610da58]: Commencement: [S. 178](https://www.legislation.gov.uk/asc/2023/3/section/178) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-c1255f593726eacfd3bb2e80e610da58]: Commencement: [S. 178](https://www.legislation.gov.uk/asc/2023/3/section/178) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

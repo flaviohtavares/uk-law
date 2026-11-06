@@ -42,9 +42,9 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-The Department of the Environment, in exercise of the powers conferred by Article 4(1) of the Environment (Northern Ireland) Order 2002[^f00001] makes the following Regulations.[^key-a212eb1acb2fe6b8703e248d977a06d9]
+The Department of the Environment, in exercise of the powers conferred by Article 4(1) of the Environment (Northern Ireland) Order 2002[^f00001] makes the following Regulations.[^c-a212eb1acb2fe6b8703e248d977a06d9]
 
-In accordance with Article 4(4) of that Order, the Department of the Environment has consulted district councils and such bodies or persons appearing to it to be representative of the interests of district councils as it considers appropriate, such bodies or persons appearing to it to be representative of the interests of industry, agriculture and business as it considers appropriate and such other bodies or persons as it considers appropriate.[^key-a212eb1acb2fe6b8703e248d977a06d9]
+In accordance with Article 4(4) of that Order, the Department of the Environment has consulted district councils and such bodies or persons appearing to it to be representative of the interests of district councils as it considers appropriate, such bodies or persons appearing to it to be representative of the interests of industry, agriculture and business as it considers appropriate and such other bodies or persons as it considers appropriate.[^c-a212eb1acb2fe6b8703e248d977a06d9]
 
 ## Contents
 
@@ -200,4 +200,4 @@ An impact assessment has been prepared and copies can be obtained from Environme
 
 [^f00001]: Footnote: [S.I 2002/3153 (N.I. 7)](https://www.legislation.gov.uk/nisi/2002/3153)
 
-[^key-a212eb1acb2fe6b8703e248d977a06d9]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2013/160) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))
+[^c-a212eb1acb2fe6b8703e248d977a06d9]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2013/160) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))

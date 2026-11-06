@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Effect of disposals in breach of section 107[^key-2820fcaad59c8a98ab3ee0b239e0e2af]
+## 111. Effect of disposals in breach of section 107[^c-2820fcaad59c8a98ab3ee0b239e0e2af]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2820fcaad59c8a98ab3ee0b239e0e2af]: Textual amendment: S. 111 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 3(10)](https://www.legislation.gov.uk/asp/2018/13/section/3/10), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-2820fcaad59c8a98ab3ee0b239e0e2af]: Textual amendment: S. 111 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 3(10)](https://www.legislation.gov.uk/asp/2018/13/section/3/10), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

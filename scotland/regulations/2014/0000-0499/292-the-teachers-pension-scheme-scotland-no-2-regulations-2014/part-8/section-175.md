@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 175. Forfeiture of benefits[^key-ac3df084c85837a518c6b1582f1c9f28]
+## 175. Forfeiture of benefits[^c-ac3df084c85837a518c6b1582f1c9f28]
 
 *Extent: S*
 
 (1) This regulation applies to a benefit payable to a person who is convicted of—
 
 - (a) an offence of treason; or
-- (b) one offence or more under the Official Secrets Acts 1911 to 1989[^f00032] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-c043579ab89c9c48334be65914efeb74] for which the person has been sentenced on the same occasion to a term of imprisonment of, or to 2 or more consecutive terms amounting in the aggregate to, at least 10 years,
+- (b) one offence or more under the Official Secrets Acts 1911 to 1989[^f00032] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-c043579ab89c9c48334be65914efeb74] for which the person has been sentenced on the same occasion to a term of imprisonment of, or to 2 or more consecutive terms amounting in the aggregate to, at least 10 years,
 
 where the offence was committed before the benefit became payable.
 
@@ -35,8 +35,8 @@ where the offence was committed before the benefit became payable.
 
 ## Annotations
 
-[^key-ac3df084c85837a518c6b1582f1c9f28]: Commencement: [Reg. 175](https://www.legislation.gov.uk/ssi/2014/292/regulation/175) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ac3df084c85837a518c6b1582f1c9f28]: Commencement: [Reg. 175](https://www.legislation.gov.uk/ssi/2014/292/regulation/175) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00032]: Footnote: [1911 c.28](https://www.legislation.gov.uk/ukpga/1911/28), [1920 c.75](https://www.legislation.gov.uk/ukpga/1920/75), [1939 c.121](https://www.legislation.gov.uk/ukpga/1939/121), [1989 c.6](https://www.legislation.gov.uk/ukpga/1989/6).
 
-[^key-c043579ab89c9c48334be65914efeb74]: Textual amendment: Words in [reg. 175(1)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/175/1/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 40](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/40)
+[^c-c043579ab89c9c48334be65914efeb74]: Textual amendment: Words in [reg. 175(1)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/175/1/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 40](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/40)

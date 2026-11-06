@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25B. Police services agreements[^key-2ab93221285a65862a7b6975e86b7b14]
+## 25B. Police services agreements[^c-2ab93221285a65862a7b6975e86b7b14]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 (4) The relevant persons are—
 
 - (a) the manager of the aerodrome,
-- (b) in the case of an aerodrome in Scotland or Northern Ireland,[^key-e19b3db2ef24fa16eabd4af07dcae85c] the police authority for the relevant police area, and
+- (b) in the case of an aerodrome in Scotland or Northern Ireland,[^c-e19b3db2ef24fa16eabd4af07dcae85c] the police authority for the relevant police area, and
 - (c) the chief officer of police for that area.
 
-(4A)[^key-e98562377eedba4c36e7a98fce02f9bf] Before entering into a police services agreement relating to an aerodrome in England or Wales, or a variation of such an agreement, the chief officer of police for the relevant police area must consult the local policing body for that area.
+(4A)[^c-e98562377eedba4c36e7a98fce02f9bf] Before entering into a police services agreement relating to an aerodrome in England or Wales, or a variation of such an agreement, the chief officer of police for the relevant police area must consult the local policing body for that area.
 
 (5) If the Secretary of State so requests, the manager of a relevant aerodrome must supply the Secretary of State with a copy of any police services agreement which is in force in relation to the aerodrome.
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2ab93221285a65862a7b6975e86b7b14]: Textual amendment: Ss. 25B-25E substituted for s. 25B (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/5) (with [Sch. 6 para. 14(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/14/2) , [Sch. 6 para. 14(4)-(6)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/14/4) ); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-2ab93221285a65862a7b6975e86b7b14]: Textual amendment: Ss. 25B-25E substituted for s. 25B (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/5) (with [Sch. 6 para. 14(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/14/2) , [Sch. 6 para. 14(4)-(6)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/14/4) ); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
 
-[^key-e19b3db2ef24fa16eabd4af07dcae85c]: Textual amendment: Words in s. 25B(4)(b) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 149(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/149/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-e19b3db2ef24fa16eabd4af07dcae85c]: Textual amendment: Words in s. 25B(4)(b) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 149(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/149/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-e98562377eedba4c36e7a98fce02f9bf]: Textual amendment: S. 25B(4A) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 149(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/149/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-e98562377eedba4c36e7a98fce02f9bf]: Textual amendment: S. 25B(4A) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 149(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/149/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

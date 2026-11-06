@@ -53,7 +53,7 @@ summary: ''
 
 (4) The Interpretation Act (Northern Ireland) 1954 [^c22848931] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-(5)[^key-64496c14515d3d9a025780fa67181459] For the purposes of these Regulations, references to the Directive, the Groundwater Directive and the EQS Directive, or a provision of one of those Directives, are to be read in accordance with Schedule 5 (Modifications of Directives).
+(5)[^c-64496c14515d3d9a025780fa67181459] For the purposes of these Regulations, references to the Directive, the Groundwater Directive and the EQS Directive, or a provision of one of those Directives, are to be read in accordance with Schedule 5 (Modifications of Directives).
 
 ## Annotations
 
@@ -77,4 +77,4 @@ summary: ''
 
 [^c22848931]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-64496c14515d3d9a025780fa67181459]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2017/81/regulation/2/5) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/112/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64496c14515d3d9a025780fa67181459]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2017/81/regulation/2/5) inserted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/112/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

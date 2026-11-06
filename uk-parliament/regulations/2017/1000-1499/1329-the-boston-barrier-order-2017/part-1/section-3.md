@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Application of 1991 Act[^key-279d9f24f23a0be3a9f873a2ede24cee]
+## 3. Application of 1991 Act[^c-279d9f24f23a0be3a9f873a2ede24cee]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ all such other provisions as apply for the purposes of the provisions mentioned 
 
 ## Annotations
 
-[^key-279d9f24f23a0be3a9f873a2ede24cee]: Commencement: Art. 3 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-279d9f24f23a0be3a9f873a2ede24cee]: Commencement: Art. 3 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00018]: Footnote: Section 64 was amended by Schedule 17 to the Local Government Act [1965 (c. 51)](https://www.legislation.gov.uk/ukpga/1965/51) and Schedule 9 to the 1991 Act.
 

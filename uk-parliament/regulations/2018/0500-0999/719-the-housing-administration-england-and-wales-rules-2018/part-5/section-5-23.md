@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.23. Interest[^key-55f083fd865c7b77f79e41fc35566134]
+## 5.23. Interest[^c-55f083fd865c7b77f79e41fc35566134]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55f083fd865c7b77f79e41fc35566134]: Commencement: Rule 5.23 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-55f083fd865c7b77f79e41fc35566134]: Commencement: Rule 5.23 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00034]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110). Section 17 was amended by the Statute Law Revision (No. 2) Act [1988 (c. 57)](https://www.legislation.gov.uk/ukpga/1988/57), article 2 of [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564), article 3 of [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), Part 1 of the Schedule to the Civil Procedure Acts Repeal Act [1879 (c. 59)](https://www.legislation.gov.uk/ukpga/1879/59) and article 3(c) of [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).

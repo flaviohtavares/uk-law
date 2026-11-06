@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Powers to amend or revoke directions[^key-2e3e491316c0c070ee5baaeef7588729][^key-aab6d866102cd42b5058e54fa16b5f63]
+## 21. Powers to amend or revoke directions[^c-2e3e491316c0c070ee5baaeef7588729][^c-aab6d866102cd42b5058e54fa16b5f63]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e3e491316c0c070ee5baaeef7588729]: Commencement: S. 21 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-2e3e491316c0c070ee5baaeef7588729]: Commencement: S. 21 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-aab6d866102cd42b5058e54fa16b5f63]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/8/section/21) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-aab6d866102cd42b5058e54fa16b5f63]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/8/section/21) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

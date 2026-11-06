@@ -32,7 +32,7 @@ summary: ''
 
 Registration Of Births, Deaths, Marriages, Etc., (england And Wales)
 
-The Register of Presumed Deaths (Fees) Regulations 2014 (revoked)[^key-d91f33a72a7a29be0406c0fc35504e6f]
+The Register of Presumed Deaths (Fees) Regulations 2014 (revoked)[^c-d91f33a72a7a29be0406c0fc35504e6f]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2014
 
-[^key-d91f33a72a7a29be0406c0fc35504e6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d91f33a72a7a29be0406c0fc35504e6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d91f33a72a7a29be0406c0fc35504e6f]
+## 1. Citation and commencement[^c-d91f33a72a7a29be0406c0fc35504e6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees[^key-d91f33a72a7a29be0406c0fc35504e6f]
+## 2. Fees[^c-d91f33a72a7a29be0406c0fc35504e6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d91f33a72a7a29be0406c0fc35504e6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d91f33a72a7a29be0406c0fc35504e6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d91f33a72a7a29be0406c0fc35504e6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d91f33a72a7a29be0406c0fc35504e6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d91f33a72a7a29be0406c0fc35504e6f]: Textual amendment: Regulations revoked (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/1)
+[^c-d91f33a72a7a29be0406c0fc35504e6f]: Textual amendment: Regulations revoked (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/1)

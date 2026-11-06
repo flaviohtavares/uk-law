@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.21. Cases in which the offeror’s costs have been limited to court fees[^M_F_d93f91fe-46a8-486a-f570-06be9926e248][^key-e9908447b00f164a4af1faf75a60688f]
+## 36.21. Cases in which the offeror’s costs have been limited to court fees[^M_F_d93f91fe-46a8-486a-f570-06be9926e248][^c-e9908447b00f164a4af1faf75a60688f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_F_d93f91fe-46a8-486a-f570-06be9926e248]: Textual amendment: Rule 36.21 omitted and rule 36.23 renumbered as rule 36.21 by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(8)(9)(b)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/8) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
+[^c-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))

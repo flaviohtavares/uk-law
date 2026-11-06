@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Affidavit to support petition[^key-4505403b5c1ecf2c5d4ec0df1c0a2f42]
+## 4. Affidavit to support petition[^c-4505403b5c1ecf2c5d4ec0df1c0a2f42]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where it is proposed to apply to the court by petition for a PPP administration 
 
 ## Annotations
 
-[^key-4505403b5c1ecf2c5d4ec0df1c0a2f42]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2007/3141/rule/4) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-4505403b5c1ecf2c5d4ec0df1c0a2f42]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2007/3141/rule/4) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

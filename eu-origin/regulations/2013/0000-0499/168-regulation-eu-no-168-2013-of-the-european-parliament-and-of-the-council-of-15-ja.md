@@ -1065,7 +1065,7 @@ The national authority concerned shall decide, within a month of receiving the r
 
 1. Components or separate technical units may only be made available on the market or entered into service if paragraph 1A applies to the components or separate technical units[^M_F_800eb5b0-11ec-4fd9-eef3-a2600b8b2f8e].
 
-(1A.)[^key-f0fd22eab258b79bb77d0a718419f81b] This paragraph applies to components or separate technical units if they—
+(1A.)[^c-f0fd22eab258b79bb77d0a718419f81b] This paragraph applies to components or separate technical units if they—
 
 - (a) comply with the requirements of the relevant regulatory acts listed in Annex II and are properly marked in accordance with Article 39;
 - (b) comply with the requirements of the relevant regulatory acts listed in Annex II to Regulation (EU) No 168/2013 as it has effect in EU law, provided that the component or separate technical unit—
@@ -1082,7 +1082,7 @@ The national authority concerned shall decide, within a month of receiving the r
 
 4. By way of derogation from paragraph 1, and unless otherwise provided for in this Regulation or in one of the delegated acts adopted pursuant to this Regulation, Member States may permit the making available on the market or entry into service of components or separate technical units which are intended for mounting on vehicles which, when made available on the market or entered into service, were not required to be type-approved by this Regulation or by Directive 2002/24/EC.
 
-(5.)[^key-3aa8b8b00acd9262c9cbeb90dbe85e8e] By way of derogation from paragraph 1, replacement components and separate technical units that were EU type-approved before 1st January 2023 in accordance with the requirements listed in Annex I to Regulation (EU) No 168/2013 as it has effect in EU law may be made available on the market or entered into service.
+(5.)[^c-3aa8b8b00acd9262c9cbeb90dbe85e8e] By way of derogation from paragraph 1, replacement components and separate technical units that were EU type-approved before 1st January 2023 in accordance with the requirements listed in Annex I to Regulation (EU) No 168/2013 as it has effect in EU law may be made available on the market or entered into service.
 
 ## CHAPTER XII — SAFEGUARD CLAUSES
 
@@ -2324,9 +2324,9 @@ ANNEX IX
 
 [^M_F_800eb5b0-11ec-4fd9-eef3-a2600b8b2f8e]: Textual amendment: Words in [Art. 45(1)](https://www.legislation.gov.uk/eur/2013/168/article/45/1A) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [74(2)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/74/2/a)
 
-[^key-f0fd22eab258b79bb77d0a718419f81b]: Textual amendment: [Art. 45(1A)](https://www.legislation.gov.uk/eur/2013/168/article/45/1A) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [74(2)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/74/2/b)
+[^c-f0fd22eab258b79bb77d0a718419f81b]: Textual amendment: [Art. 45(1A)](https://www.legislation.gov.uk/eur/2013/168/article/45/1A) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [74(2)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/74/2/b)
 
-[^key-3aa8b8b00acd9262c9cbeb90dbe85e8e]: Textual amendment: [Art. 45(5)](https://www.legislation.gov.uk/eur/2013/168/article/45/5) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [74(2)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/74/2/c)
+[^c-3aa8b8b00acd9262c9cbeb90dbe85e8e]: Textual amendment: [Art. 45(5)](https://www.legislation.gov.uk/eur/2013/168/article/45/5) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [74(2)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/74/2/c)
 
 [^f00028]: Footnote: [OJ L 199, 28.7.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.199.01.0001.01.ENG).
 

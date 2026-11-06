@@ -25,7 +25,7 @@ summary: ''
 (2) References in this section and sections 494 and 495 to investments of an open-ended investment company are references—
 
 - (a) except where paragraph (b) applies, to the property subject to the collective investment scheme constituted by the company, and
-- (b) in a case where under section 615(3) of CTA 2010[^key-dfcddaf7c1e0ca5e9eb4b7822b713d9c] part of an umbrella company is regarded as an open-ended investment company, to such of the property subject to the collective investment scheme constituted by the umbrella company as forms part of the separate pool in question,
+- (b) in a case where under section 615(3) of CTA 2010[^c-dfcddaf7c1e0ca5e9eb4b7822b713d9c] part of an umbrella company is regarded as an open-ended investment company, to such of the property subject to the collective investment scheme constituted by the umbrella company as forms part of the separate pool in question,
 
 other than cash awaiting investment.
 
@@ -35,14 +35,14 @@ other than cash awaiting investment.
 
 (5) In this section “**collective investment scheme**” has the meaning given by section 235 of FISMA 2000.
 
-(6) A person with rights in a part of an umbrella company which is regarded under section 615(3) of CTA 2010[^key-8b1c4f0cfdfe09758fa986d76f198db9] as an open-ended investment company is treated for the purposes of this section as not owning shares in the umbrella company.
+(6) A person with rights in a part of an umbrella company which is regarded under section 615(3) of CTA 2010[^c-8b1c4f0cfdfe09758fa986d76f198db9] as an open-ended investment company is treated for the purposes of this section as not owning shares in the umbrella company.
 
-(7) For the meaning of references to investments subject to the trusts of the scheme in the case of certain authorised unit trusts, see section 619 of CTA 2010[^key-a34c94d9b05dac4af3382f9d498334c9] (umbrella schemes).
+(7) For the meaning of references to investments subject to the trusts of the scheme in the case of certain authorised unit trusts, see section 619 of CTA 2010[^c-a34c94d9b05dac4af3382f9d498334c9] (umbrella schemes).
 
 ## Annotations
 
-[^key-dfcddaf7c1e0ca5e9eb4b7822b713d9c]: Textual amendment: Words in s. 493(2)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 628(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/628/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-dfcddaf7c1e0ca5e9eb4b7822b713d9c]: Textual amendment: Words in s. 493(2)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 628(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/628/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-8b1c4f0cfdfe09758fa986d76f198db9]: Textual amendment: Words in s. 493(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 628(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/628/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-8b1c4f0cfdfe09758fa986d76f198db9]: Textual amendment: Words in s. 493(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 628(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/628/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-a34c94d9b05dac4af3382f9d498334c9]: Textual amendment: Words in s. 493(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 628(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/628/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a34c94d9b05dac4af3382f9d498334c9]: Textual amendment: Words in s. 493(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 628(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/628/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

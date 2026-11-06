@@ -43,7 +43,7 @@ Coming into force
 
 12th July 2003
 
-The Secretary of State, in exercise of the powers conferred by sections 16(1)(e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990 [^c5049511] and now vested in him [^c5049521] and of all other powers enabling him in that behalf, having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c5049531] and in accordance with section 48(4) and (4B) of the said Act, hereby makes the following Regulations:[^key-2d81989c29325361470ab639015a3277]
+The Secretary of State, in exercise of the powers conferred by sections 16(1)(e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990 [^c5049511] and now vested in him [^c5049521] and of all other powers enabling him in that behalf, having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c5049531] and in accordance with section 48(4) and (4B) of the said Act, hereby makes the following Regulations:[^c-2d81989c29325361470ab639015a3277]
 
 ## 1. Title, commencement and extent
 
@@ -56,13 +56,13 @@ In these Regulations—
 - “**the Act**” means the Food Safety Act 1990;
 - “**candy sugar**” means crystalline sugar with crystals having any dimension greater than one centimetre;
 - “**catering establishment**” means a restaurant, canteen, club, public house, school, hospital or similar establishment (including a vehicle or a fixed or mobile stall) where, in the course of a business, food is prepared for delivery to the ultimate consumer and is ready for consumption without further preparation;
-- [^key-6180eda97fb319f69fbdcc122d894ca6]...
-- [^key-6180eda97fb319f69fbdcc122d894ca6]...
+- [^c-6180eda97fb319f69fbdcc122d894ca6]...
+- [^c-6180eda97fb319f69fbdcc122d894ca6]...
 - “**food authority**” does not include—
   - (a) the council of a district in a non-metropolitan county except where the county functions have been transferred to that council pursuant to a structural change, or
   - (b) the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and the Middle Temple);
 - “**icing sugar**” means fine particles of white sugar or extra-white sugar or mixtures thereof;
-- [^key-b15cbab428c2b6d8faf8e950901f92bf]...
+- [^c-b15cbab428c2b6d8faf8e950901f92bf]...
 - “**preparation**” includes manufacture and any form of processing or treatment and “**prepared**” shall be construed accordingly;
 - “reserved description”, as respects any specified sugar product, means any description specified in relation to that product in column 1 of Schedule 1 (as read with the notes relating to that Schedule) and the use of any such description in these Regulations shall be construed as meaning the product to which that description relates;
 - “**sell**” includes offer or expose for sale or have in possession for sale, and cognate expressions shall be construed accordingly;
@@ -88,12 +88,12 @@ No person shall sell any food with a label, whether or not attached to or printe
 
 ## 5. Labelling and description of specified sugar products
 
-Without prejudice to the generality of Regulation ([^key-abca6b32bf4a88705963e37301f8862b]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers as last amended by[^key-ae4350e2dcc9e0f7be82095782553506] [Regulation (EU) 2015/2283](https://www.legislation.gov.uk/eur/2015/2283) of the European Parliament and of the Council on novel foods, no person shall sell any specified sugar product unless it is marked or labelled with the following particulars—
+Without prejudice to the generality of Regulation ([^c-abca6b32bf4a88705963e37301f8862b]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers as last amended by[^c-ae4350e2dcc9e0f7be82095782553506] [Regulation (EU) 2015/2283](https://www.legislation.gov.uk/eur/2015/2283) of the European Parliament and of the Council on novel foods, no person shall sell any specified sugar product unless it is marked or labelled with the following particulars—
 
 - (a) the reserved description of the product; and
 - (b) in the case of sugar solution, invert sugar solution and invert sugar syrup, the dry matter and invert sugar content of the product.
 
-## 6. Manner of marking or labelling[^key-587e345f36dbc3ca42ee8637bf0e6d97]
+## 6. Manner of marking or labelling[^c-587e345f36dbc3ca42ee8637bf0e6d97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -103,7 +103,7 @@ Without prejudice to the generality of Regulation ([^key-abca6b32bf4a88705963e37
 
 (2) Each food authority shall enforce and execute these Regulations in its area.
 
-## 8. Defence in relation to exports[^key-29413befef19ea27a6a5902672c45bdd]
+## 8. Defence in relation to exports[^c-29413befef19ea27a6a5902672c45bdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -131,7 +131,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - (a) the Specified Sugar Products Regulations 1976 [^c5049581];
 - (b) the Specified Sugar Products (Amendment)Regulations 1982 [^c5049591].
 
-(2)[^key-e06f8043d46281c1fcf9704fb2150430] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e06f8043d46281c1fcf9704fb2150430] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following entries relating to the Specified Sugar Products Regulations 1976 shall, insofar as the following Regulations apply to England, be omitted—
 
@@ -179,13 +179,13 @@ Regulation 2
 | **2.** Sugar or white sugar | Purified and crystallised sucrose of sound and fair marketable quality with the following characteristics:<br>- (a) polarisation not less than 99.7°Z<br>- (b) invert sugar content not more than 0.04% by weight<br>- (c) loss on drying not more than 0.06% by weight<br>- (d) type of colour not more than nine points determined in accordance with paragraph (2) of Schedule 2 |
 | **3.** Extra-white sugar | The product having the characteristics referred to in paragraph 2(a), (b) and (c) of this Schedule and in respect of which the total number of points determined according to the provisions of paragraphs 2 to 4 of Schedule 2 does not exceed eight, and not more than:<br>- — four for the colour type,<br>- — six for the ash content,<br>- — three for the colour in solution |
 | **4.** Sugar solution | The aqueous solution of sucrose with the following characteristics:<br>- (a) dry matter not less than 62% by weight<br>- (b) invert sugar content (ratio of fructose to dextrose = 1.0 ± 0.2) not more than 3% by weight of dry matter<br>- (c) conductivity ash not more than 0.1% by weight of dry matter, determined in accordance with paragraph 3 of Schedule 2<br>- (d) colour in solution not more than 45 ICUMSA units |
-| **5.** Invert sugar solution | The aqueous solution of sucrose partially inverted by hydrolysis, in which the proportion of invert sugar does not predominate, with the following characteristics:<br>- (a) dry matter not less than 62% by weight<br>- (b) invert sugar content (ratio of fructose to dextrose = 1.0 ± 0.1) more than 3% but not more than 50% by weight of dry matter<br>- (c) conductivity ash not more than 0.4% by weight of dry matter, determined in accordance with paragraph 3[^key-8b958e9f3ae61446c5b8eb9dc3a4f6da] of Schedule 2 |
+| **5.** Invert sugar solution | The aqueous solution of sucrose partially inverted by hydrolysis, in which the proportion of invert sugar does not predominate, with the following characteristics:<br>- (a) dry matter not less than 62% by weight<br>- (b) invert sugar content (ratio of fructose to dextrose = 1.0 ± 0.1) more than 3% but not more than 50% by weight of dry matter<br>- (c) conductivity ash not more than 0.4% by weight of dry matter, determined in accordance with paragraph 3[^c-8b958e9f3ae61446c5b8eb9dc3a4f6da] of Schedule 2 |
 | **6.** Invert sugar syrup | The aqueous solution, whether or not crystallised, of sucrose that has been partly inverted via hydrolysis, in which the invert sugar content (fructose/dextrose quotient = 1.0 ± 0.1), must exceed 50% by weight of dry matter, but which must otherwise meet the requirements laid down in paragraph 5(a) and (c) of this Schedule. |
 | **7.** Glucose syrup | The purified and concentrated aqueous solution of nutritive saccharides obtained from starch and/or inulin, with the following characteristics:<br>- (a) dry matter not less than 70% by weight<br>- (b) dextrose equivalent not less than 20% by weight of dry matter and expressed as D-glucose<br>- (c) sulphated ash not more than 1% by weight of dry matter |
 | **8.** Dried glucose syrup | Partially dried glucose syrup with at least 93% by weight of dry matter, but which must otherwise meet the requirements laid down in paragraph 7(b) and (c) of this Schedule. |
 | **9.** Dextrose or dextrose monohydrate | Purified and crystallised D-glucose containing one molecule of water of crystallisation, with the following characteristics:<br>- (a) dextrose (D-glucose) not less than 99.5% by weight of dry matter<br>- (b) dry matter not less than 90% by weight<br>- (c) sulphated ash not more than 0.25% by weight of dry matter |
 | **10.** Dextrose or dextrose anhydrous | Purified and crystallised D-glucose not containing water of crystallisation, with at least 98% by weight of dry matter, but which must otherwise meet the requirements laid down in paragraph 9(a) and (c) of this Schedule. |
-| **11.** Fructose | Purified crystallised D-fructose with the following characteristics:<br>- fructose content 98% minimum<br>- glucose content 0.5% maximum<br>- loss on drying not more than 0.5% by weight<br>- conductivity ash not more than 0.1% by weight determined in accordance with paragraph 3[^key-1c748d73ea217d61b6a2f615f97ca17d] of Schedule 2 |
+| **11.** Fructose | Purified crystallised D-fructose with the following characteristics:<br>- fructose content 98% minimum<br>- glucose content 0.5% maximum<br>- loss on drying not more than 0.5% by weight<br>- conductivity ash not more than 0.1% by weight determined in accordance with paragraph 3[^c-1c748d73ea217d61b6a2f615f97ca17d] of Schedule 2 |
 
 ### 1. Notes:
 
@@ -201,7 +201,7 @@ The reserved description “sugar” or “white sugar” may be used as an alte
 
 **6.** The description “white” may be used in relation to any of the products described at paragraphs 5 and 6 above where the conductivity ash content does not exceed 0.1% and the colour in solution does not exceed 25 ICUMSA units determined as set out in paragraph 1 of Chapter A of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/eur/1969/1265).
 
-**7.**[^key-6f1f4055cd892865d4c63f84b5d2fc52] Specified sugar products may contain—
+**7.**[^c-6f1f4055cd892865d4c63f84b5d2fc52] Specified sugar products may contain—
 
 - (a) a permitted extraction solvent, as defined in regulation 11 of the Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013;
 - (b) any substance permitted under Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/eur/2008/1333) of the European Parliament and of the Council on food additives.
@@ -260,25 +260,25 @@ A Regulatory Impact Assessment has been prepared and placed in the Library of ea
 
 [^c5049531]: Marginal citation: OJ No. L31, 1.2.2002, p. 1.
 
-[^key-2d81989c29325361470ab639015a3277]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-2d81989c29325361470ab639015a3277]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-6180eda97fb319f69fbdcc122d894ca6]: Textual amendment: Words in reg. 2 omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/17/2)
+[^c-6180eda97fb319f69fbdcc122d894ca6]: Textual amendment: Words in reg. 2 omitted (1.6.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/17/2)
 
-[^key-b15cbab428c2b6d8faf8e950901f92bf]: Textual amendment: Words in reg. 2 omitted (13.12.2014) by virtue of [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 29](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/29)
+[^c-b15cbab428c2b6d8faf8e950901f92bf]: Textual amendment: Words in reg. 2 omitted (13.12.2014) by virtue of [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 29](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/29)
 
-[^key-abca6b32bf4a88705963e37301f8862b]: Textual amendment: Words in reg. 5 substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 30](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/30)
+[^c-abca6b32bf4a88705963e37301f8862b]: Textual amendment: Words in reg. 5 substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 7 para. 30](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/30)
 
-[^key-ae4350e2dcc9e0f7be82095782553506]: Textual amendment: Words in reg. 5 inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/24/2)
+[^c-ae4350e2dcc9e0f7be82095782553506]: Textual amendment: Words in reg. 5 inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/24/2)
 
-[^key-587e345f36dbc3ca42ee8637bf0e6d97]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/1563/regulation/6) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 12
+[^c-587e345f36dbc3ca42ee8637bf0e6d97]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/1563/regulation/6) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 12
 
-[^key-29413befef19ea27a6a5902672c45bdd]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/1563/regulation/8) revoked (1.1.2006) by [The Official Feed and Food Controls (England) Regulations 2005 (S.I. 2005/2626)](https://www.legislation.gov.uk/uksi/2005/2626), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2626/regulation/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2626/schedule/6/part/2)
+[^c-29413befef19ea27a6a5902672c45bdd]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/1563/regulation/8) revoked (1.1.2006) by [The Official Feed and Food Controls (England) Regulations 2005 (S.I. 2005/2626)](https://www.legislation.gov.uk/uksi/2005/2626), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2626/regulation/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2626/schedule/6/part/2)
 
 [^c5049581]: Marginal citation: [S.I. 1976/509](https://www.legislation.gov.uk/uksi/1976/509).
 
 [^c5049591]: Marginal citation: [S.I. 1982/255](https://www.legislation.gov.uk/uksi/1982/255).
 
-[^key-e06f8043d46281c1fcf9704fb2150430]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2003/1563/regulation/10/2) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 12
+[^c-e06f8043d46281c1fcf9704fb2150430]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2003/1563/regulation/10/2) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 12
 
 [^c5049601]: Marginal citation: [S.I. 1982/1727](https://www.legislation.gov.uk/uksi/1982/1727).
 
@@ -300,13 +300,13 @@ A Regulatory Impact Assessment has been prepared and placed in the Library of ea
 
 [^c5049691]: Marginal citation: [S.I. 2000/3323](https://www.legislation.gov.uk/uksi/2000/3323).
 
-[^key-8b958e9f3ae61446c5b8eb9dc3a4f6da]: Textual amendment: Words in Sch. 1 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs .1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/17/3/a)
+[^c-8b958e9f3ae61446c5b8eb9dc3a4f6da]: Textual amendment: Words in Sch. 1 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs .1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/17/3/a)
 
-[^key-1c748d73ea217d61b6a2f615f97ca17d]: Textual amendment: Words in Sch. 1 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/17/3/b)
+[^c-1c748d73ea217d61b6a2f615f97ca17d]: Textual amendment: Words in Sch. 1 substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2018/575/regulation/17/3/b)
 
 [^c5049701]: Marginal citation: OJ No. L163, 1.7.1969, p. 1.
 
-[^key-6f1f4055cd892865d4c63f84b5d2fc52]: Textual amendment: Sch. 1 Note 7 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2019/526/regulation/24/3)
+[^c-6f1f4055cd892865d4c63f84b5d2fc52]: Textual amendment: Sch. 1 Note 7 substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2019/526/regulation/24/3)
 
 [^c5049751]: Marginal citation: OJ No. L163, 1.7.1969, p. 1.
 

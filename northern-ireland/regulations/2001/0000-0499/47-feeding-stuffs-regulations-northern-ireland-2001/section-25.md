@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Modification of the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^key-c7acb82dc3c3590d18024032198029f6]
+## 25. Modification of the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^c-c7acb82dc3c3590d18024032198029f6]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ In the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 199
 
 ## Annotations
 
-[^key-c7acb82dc3c3590d18024032198029f6]: Commencement: Reg. 25 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-c7acb82dc3c3590d18024032198029f6]: Commencement: Reg. 25 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00033]: Footnote: [S.R. 1999 No. 296](https://www.legislation.gov.uk/nisr/1999/296) (to which there is an amendment not relevant to these Regulations)
 

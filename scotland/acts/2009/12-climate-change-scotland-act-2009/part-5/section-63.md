@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Non-domestic buildings: assessment of energy performance and emissions[^key-dc0af82a0bd8f013c7162a0788ccd662]
+## 63. Non-domestic buildings: assessment of energy performance and emissions[^c-dc0af82a0bd8f013c7162a0788ccd662]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc0af82a0bd8f013c7162a0788ccd662]: Commencement: S. 63 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-dc0af82a0bd8f013c7162a0788ccd662]: Commencement: S. 63 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Foreign interference: meaning of “prohibited conduct”[^key-ee060c1981697f80ee8617a112dcc6a9][^key-59e2d103e5f441ee2958a726dacb439c]
+## 15. Foreign interference: meaning of “prohibited conduct”[^c-ee060c1981697f80ee8617a112dcc6a9][^c-59e2d103e5f441ee2958a726dacb439c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee060c1981697f80ee8617a112dcc6a9]: Commencement: S. 15 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-ee060c1981697f80ee8617a112dcc6a9]: Commencement: S. 15 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-59e2d103e5f441ee2958a726dacb439c]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/32/section/15) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-59e2d103e5f441ee2958a726dacb439c]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/32/section/15) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

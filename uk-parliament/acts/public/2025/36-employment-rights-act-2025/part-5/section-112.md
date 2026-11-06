@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Replacement notice of underpayment[^key-d57ea95ea35066d5661dfc8f7bd54b14][^key-cd9b4872ee0d0510ece98e038082a640]
+## 112. Replacement notice of underpayment[^c-d57ea95ea35066d5661dfc8f7bd54b14][^c-cd9b4872ee0d0510ece98e038082a640]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ Accordingly, the replacement notice may relate to sums that became due after the
 
 ## Annotations
 
-[^key-d57ea95ea35066d5661dfc8f7bd54b14]: Commencement: S. 112 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d57ea95ea35066d5661dfc8f7bd54b14]: Commencement: S. 112 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-cd9b4872ee0d0510ece98e038082a640]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2025/36/section/112) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(17)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/17)
+[^c-cd9b4872ee0d0510ece98e038082a640]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2025/36/section/112) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(17)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/17)

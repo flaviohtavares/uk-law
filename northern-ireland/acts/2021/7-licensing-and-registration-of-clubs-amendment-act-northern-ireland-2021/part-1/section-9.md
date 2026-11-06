@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Places of public entertainment: inclusion of cinemas[^key-c8b2b85d69d976027328b62bfaa729a7][^key-1c4d27aae56cad60f0ebe139f1713e89]
+## 9. Places of public entertainment: inclusion of cinemas[^c-c8b2b85d69d976027328b62bfaa729a7][^c-1c4d27aae56cad60f0ebe139f1713e89]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8b2b85d69d976027328b62bfaa729a7]: Commencement: S. 9 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-c8b2b85d69d976027328b62bfaa729a7]: Commencement: S. 9 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-1c4d27aae56cad60f0ebe139f1713e89]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2021/7/section/9) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-1c4d27aae56cad60f0ebe139f1713e89]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2021/7/section/9) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

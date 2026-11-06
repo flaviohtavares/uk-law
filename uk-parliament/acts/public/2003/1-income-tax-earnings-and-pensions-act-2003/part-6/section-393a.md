@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 393A. Employer-financed retirement benefits scheme[^key-451098f3cc102fdb92e5b1be1c47a168]
+## 393A. Employer-financed retirement benefits scheme[^c-451098f3cc102fdb92e5b1be1c47a168]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ is an employer-financed retirement benefits scheme.
 
 ## Annotations
 
-[^key-451098f3cc102fdb92e5b1be1c47a168]: Textual amendment: Ss. 393-393B substituted for s. 393 (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [ss. 249(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/249/3), [284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-451098f3cc102fdb92e5b1be1c47a168]: Textual amendment: Ss. 393-393B substituted for s. 393 (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [ss. 249(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/249/3), [284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

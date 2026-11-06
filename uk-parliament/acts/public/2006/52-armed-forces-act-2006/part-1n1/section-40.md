@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Encouraging and assisting[^key-e527a010e7897515814332bf21bffc4c][^key-234cba6bc09af1a37dfc49e84c7da15f][^key-415ce9cd6a8c8ab497edd458a50b5e3d]
+## 40. Encouraging and assisting[^c-e527a010e7897515814332bf21bffc4c][^c-234cba6bc09af1a37dfc49e84c7da15f][^c-415ce9cd6a8c8ab497edd458a50b5e3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e527a010e7897515814332bf21bffc4c]: Commencement: S. 40 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e527a010e7897515814332bf21bffc4c]: Commencement: S. 40 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-234cba6bc09af1a37dfc49e84c7da15f]: Commencement: S. 40 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-234cba6bc09af1a37dfc49e84c7da15f]: Commencement: S. 40 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-415ce9cd6a8c8ab497edd458a50b5e3d]: Textual amendment: S. 40 substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2007/27/schedule/5/paragraph/9) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-415ce9cd6a8c8ab497edd458a50b5e3d]: Textual amendment: S. 40 substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2007/27/schedule/5/paragraph/9) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)

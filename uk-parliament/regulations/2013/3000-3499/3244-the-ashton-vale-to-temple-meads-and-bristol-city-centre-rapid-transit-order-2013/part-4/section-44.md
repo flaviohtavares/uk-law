@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Power to contract for police services[^key-0af2c5763ed0ec56eb036865f5221c3f]
+## 44. Power to contract for police services[^c-0af2c5763ed0ec56eb036865f5221c3f]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0af2c5763ed0ec56eb036865f5221c3f]: Commencement: Art. 44 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-0af2c5763ed0ec56eb036865f5221c3f]: Commencement: Art. 44 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00024]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 

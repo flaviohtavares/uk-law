@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Disclosure of information about fitness to practise[^key-a9bdc3aec6b87c162440a61302fb2330]
+## 159. Disclosure of information about fitness to practise[^c-a9bdc3aec6b87c162440a61302fb2330]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ SCW may publish or disclose to any person information relating to a registered p
 
 ## Annotations
 
-[^key-a9bdc3aec6b87c162440a61302fb2330]: Commencement: [S. 159](https://www.legislation.gov.uk/anaw/2016/2/section/159) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-a9bdc3aec6b87c162440a61302fb2330]: Commencement: [S. 159](https://www.legislation.gov.uk/anaw/2016/2/section/159) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

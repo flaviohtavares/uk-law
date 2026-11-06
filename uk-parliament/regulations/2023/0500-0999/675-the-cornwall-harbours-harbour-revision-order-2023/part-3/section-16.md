@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Port of Penryn Reserve Fund[^key-fecbf07ae5feef1cd56cf7cd584c7de3]
+## 16. Port of Penryn Reserve Fund[^c-fecbf07ae5feef1cd56cf7cd584c7de3]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fecbf07ae5feef1cd56cf7cd584c7de3]: Commencement: Art. 16 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-fecbf07ae5feef1cd56cf7cd584c7de3]: Commencement: Art. 16 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

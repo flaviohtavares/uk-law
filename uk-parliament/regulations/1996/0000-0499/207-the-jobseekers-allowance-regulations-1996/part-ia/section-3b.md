@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 3B. Entitlement of a former joint-claim couple to a jobseeker’s allowance[^key-96a67ae8afbc894b1f569ab5ae3721d8]
+## 3B. Entitlement of a former joint-claim couple to a jobseeker’s allowance[^c-96a67ae8afbc894b1f569ab5ae3721d8]
 
 (1) Where a joint-claim couple cease to be a joint-claim couple because they become, or are treated as, responsible for one or more children—
 
@@ -34,4 +34,4 @@ where the conditions specified in paragraph (2) have been complied with.
 
 ## Annotations
 
-[^key-96a67ae8afbc894b1f569ab5ae3721d8]: Textual amendment: Pt. 1A inserted (19.3.2001) by [The Jobseeker’s Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/2/2)
+[^c-96a67ae8afbc894b1f569ab5ae3721d8]: Textual amendment: Pt. 1A inserted (19.3.2001) by [The Jobseeker’s Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. New bank liquidator appointed[^key-6960ef6cf7e10b8ba99d5f24dd84faf3]
+## 63. New bank liquidator appointed[^c-6960ef6cf7e10b8ba99d5f24dd84faf3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.81 of the 1986 Rules.
 
 ## Annotations
 
-[^key-6960ef6cf7e10b8ba99d5f24dd84faf3]: Commencement: Rule 63 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-6960ef6cf7e10b8ba99d5f24dd84faf3]: Commencement: Rule 63 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

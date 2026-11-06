@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Amount of penalty: daily amounts[^key-86e43b464a1db1b3d0352af895ac8ef6]
+## 45. Amount of penalty: daily amounts[^c-86e43b464a1db1b3d0352af895ac8ef6]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86e43b464a1db1b3d0352af895ac8ef6]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2012/19/section/45) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-86e43b464a1db1b3d0352af895ac8ef6]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2012/19/section/45) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

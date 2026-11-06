@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**264.**[^key-400a60e167bffd2dfbd4b532fd07c44a] In section 32 (power of Registrar General to supply information to national authorities)—
+**264.**[^c-400a60e167bffd2dfbd4b532fd07c44a] In section 32 (power of Registrar General to supply information to national authorities)—
 
 - (a) for subsection (2) substitute—
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-400a60e167bffd2dfbd4b532fd07c44a]: Commencement: Reg. 264 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-400a60e167bffd2dfbd4b532fd07c44a]: Commencement: Reg. 264 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

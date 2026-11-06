@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Separate treatment of AVCs and SCAVCs from other contributions[^key-3c5bb9a484d905bb21a92504663338d6]
+## 27. Separate treatment of AVCs and SCAVCs from other contributions[^c-3c5bb9a484d905bb21a92504663338d6]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c5bb9a484d905bb21a92504663338d6]: Commencement: Reg. 27 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-3c5bb9a484d905bb21a92504663338d6]: Commencement: Reg. 27 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

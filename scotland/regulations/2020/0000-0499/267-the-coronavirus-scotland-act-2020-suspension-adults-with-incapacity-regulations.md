@@ -34,7 +34,7 @@ Adults With Incapacity
 
 Public Health
 
-The Coronavirus (Scotland) Act 2020 (Suspension: Adults with Incapacity) Regulations 2020 (revoked)[^key-ddcdbad6811e51e9568f559c4f6a9102]
+The Coronavirus (Scotland) Act 2020 (Suspension: Adults with Incapacity) Regulations 2020 (revoked)[^c-ddcdbad6811e51e9568f559c4f6a9102]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 30th September 2020
 
-[^key-ddcdbad6811e51e9568f559c4f6a9102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddcdbad6811e51e9568f559c4f6a9102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ddcdbad6811e51e9568f559c4f6a9102]
+## 1. Citation and commencement[^c-ddcdbad6811e51e9568f559c4f6a9102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Suspension of provisions of the Coronavirus (Scotland) Act 2020[^key-ddcdbad6811e51e9568f559c4f6a9102]
+## 2. Suspension of provisions of the Coronavirus (Scotland) Act 2020[^c-ddcdbad6811e51e9568f559c4f6a9102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ddcdbad6811e51e9568f559c4f6a9102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddcdbad6811e51e9568f559c4f6a9102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ddcdbad6811e51e9568f559c4f6a9102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddcdbad6811e51e9568f559c4f6a9102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ddcdbad6811e51e9568f559c4f6a9102]: Textual amendment: Regulations revoked (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 8(11)](https://www.legislation.gov.uk/asp/2021/19/section/8/11), [11(1)](https://www.legislation.gov.uk/asp/2021/19/section/11/1)
+[^c-ddcdbad6811e51e9568f559c4f6a9102]: Textual amendment: Regulations revoked (30.9.2021 at the end of the day) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 8(11)](https://www.legislation.gov.uk/asp/2021/19/section/8/11), [11(1)](https://www.legislation.gov.uk/asp/2021/19/section/11/1)

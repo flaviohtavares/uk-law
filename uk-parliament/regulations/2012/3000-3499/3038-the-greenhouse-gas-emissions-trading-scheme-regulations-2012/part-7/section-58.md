@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Failure to notify when an Article 27 installation ceases to meet the criteria for being Article 27[^key-f654f2e565177c992325a5c7a3107c2d]
+## 58. Failure to notify when an Article 27 installation ceases to meet the criteria for being Article 27[^c-f654f2e565177c992325a5c7a3107c2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f654f2e565177c992325a5c7a3107c2d]: Textual amendment: Words in regs. 55-58 and headings substituted (1.1.2021) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 3) Regulations 2019 (S.I. 2019/1440)](https://www.legislation.gov.uk/uksi/2019/1440), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4), [21](https://www.legislation.gov.uk/uksi/2019/1440/regulation/21) (as amended by [S.I. 2020/18](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2020/18/regulation/11/4) and [S.I. 2020/1369](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/a))
+[^c-f654f2e565177c992325a5c7a3107c2d]: Textual amendment: Words in regs. 55-58 and headings substituted (1.1.2021) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 3) Regulations 2019 (S.I. 2019/1440)](https://www.legislation.gov.uk/uksi/2019/1440), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1440/regulation/1/4), [21](https://www.legislation.gov.uk/uksi/2019/1440/regulation/21) (as amended by [S.I. 2020/18](https://www.legislation.gov.uk/uksi/2020/18), [regs. 1](https://www.legislation.gov.uk/uksi/2020/18/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2020/18/regulation/11/4) and [S.I. 2020/1369](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [44(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/44/a))

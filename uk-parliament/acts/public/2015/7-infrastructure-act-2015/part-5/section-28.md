@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Changes to, and revocation of, development consent orders[^c22469101][^key-50824cabcc9f1ddf0a2b0ce899a1a080]
+## 28. Changes to, and revocation of, development consent orders[^c22469101][^c-50824cabcc9f1ddf0a2b0ce899a1a080]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c22469101]: Commencement: S. 28 partly in force; s. 28 in force for specified purposes at Royal Assent, see s. 57(5)(b)
 
-[^key-50824cabcc9f1ddf0a2b0ce899a1a080]: Commencement: S. 28 in force at 14.7.2015 in so far as not already in force by [S.I. 2015/758](https://www.legislation.gov.uk/uksi/2015/758), [reg. 3](https://www.legislation.gov.uk/uksi/2015/758/regulation/3) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2015/758/article/4/3))
+[^c-50824cabcc9f1ddf0a2b0ce899a1a080]: Commencement: S. 28 in force at 14.7.2015 in so far as not already in force by [S.I. 2015/758](https://www.legislation.gov.uk/uksi/2015/758), [reg. 3](https://www.legislation.gov.uk/uksi/2015/758/regulation/3) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2015/758/article/4/3))

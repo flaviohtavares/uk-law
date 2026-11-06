@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94C. Drainage and sewerage management plans: regulations about procedure[^key-d9d690eca7271320e7a3734dcb4ead1d]
+## 94C. Drainage and sewerage management plans: regulations about procedure[^c-d9d690eca7271320e7a3734dcb4ead1d]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9d690eca7271320e7a3734dcb4ead1d]: Textual amendment: Ss. 94A-94E inserted (1.9.2024 for E., 1.3.2025 for W.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 79](https://www.legislation.gov.uk/ukpga/2021/30/section/79), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 3](https://www.legislation.gov.uk/uksi/2024/639/regulation/3); [S.I. 2025/175](https://www.legislation.gov.uk/wsi/2025/175), [reg. 3](https://www.legislation.gov.uk/wsi/2025/175/regulation/3)
+[^c-d9d690eca7271320e7a3734dcb4ead1d]: Textual amendment: Ss. 94A-94E inserted (1.9.2024 for E., 1.3.2025 for W.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 79](https://www.legislation.gov.uk/ukpga/2021/30/section/79), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 3](https://www.legislation.gov.uk/uksi/2024/639/regulation/3); [S.I. 2025/175](https://www.legislation.gov.uk/wsi/2025/175), [reg. 3](https://www.legislation.gov.uk/wsi/2025/175/regulation/3)

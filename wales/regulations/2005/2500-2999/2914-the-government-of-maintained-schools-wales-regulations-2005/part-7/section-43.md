@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Functions of the clerk to the governing body[^key-b030fff1f406a2ab04ab930402bac2b3][^key-0fc97f70d4ae64706491ad8153d04660]
+## 43. Functions of the clerk to the governing body[^c-b030fff1f406a2ab04ab930402bac2b3][^c-0fc97f70d4ae64706491ad8153d04660]
 
 *Extent: E+W*
 
-[^key-0fc97f70d4ae64706491ad8153d04660]
+[^c-0fc97f70d4ae64706491ad8153d04660]
 
 (1) The clerk to the governing body must—
 
@@ -39,6 +39,6 @@ regulations 21 (*Notification of vacancies and appointments*), 26 (*Resignation*
 
 ## Annotations
 
-[^key-b030fff1f406a2ab04ab930402bac2b3]: Commencement: Reg. 43 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-b030fff1f406a2ab04ab930402bac2b3]: Commencement: Reg. 43 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-0fc97f70d4ae64706491ad8153d04660]: Modification: [Pt. 7](https://www.legislation.gov.uk/wsi/2005/2914/part/7) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [37](https://www.legislation.gov.uk/wsi/2005/2912/regulation/37) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [38](https://www.legislation.gov.uk/wsi/2005/2912/regulation/38), [39](https://www.legislation.gov.uk/wsi/2005/2912/regulation/39))
+[^c-0fc97f70d4ae64706491ad8153d04660]: Modification: [Pt. 7](https://www.legislation.gov.uk/wsi/2005/2914/part/7) applied (with modifications) (31.10.2005) by [The New Maintained Schools (Wales) Regulations 2005 (S.I. 2005/2912)](https://www.legislation.gov.uk/wsi/2005/2912), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/1/1), [37](https://www.legislation.gov.uk/wsi/2005/2912/regulation/37) (with [regs. 3(3)](https://www.legislation.gov.uk/wsi/2005/2912/regulation/3/3), [38](https://www.legislation.gov.uk/wsi/2005/2912/regulation/38), [39](https://www.legislation.gov.uk/wsi/2005/2912/regulation/39))

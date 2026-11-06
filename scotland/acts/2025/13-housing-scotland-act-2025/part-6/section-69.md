@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Monitoring of compliance[^key-d1199880badab5c85e750ec11d2fd465][^key-f820754fdb8df64e908ea1c8f0031e8c]
+## 69. Monitoring of compliance[^c-d1199880badab5c85e750ec11d2fd465][^c-f820754fdb8df64e908ea1c8f0031e8c]
 
 *Extent: S*
 
@@ -105,6 +105,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1199880badab5c85e750ec11d2fd465]: Commencement: S. 69 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-d1199880badab5c85e750ec11d2fd465]: Commencement: S. 69 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-f820754fdb8df64e908ea1c8f0031e8c]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2025/13/section/69) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-f820754fdb8df64e908ea1c8f0031e8c]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2025/13/section/69) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

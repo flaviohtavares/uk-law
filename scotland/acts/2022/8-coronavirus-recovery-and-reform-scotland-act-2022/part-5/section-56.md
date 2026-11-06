@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Criminal procedure time limits: transitional and saving provision[^key-92c4dee16e5417a568ce802c531bf20c]
+## 56. Criminal procedure time limits: transitional and saving provision[^c-92c4dee16e5417a568ce802c531bf20c]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92c4dee16e5417a568ce802c531bf20c]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2022/8/section/56) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-92c4dee16e5417a568ce802c531bf20c]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2022/8/section/56) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

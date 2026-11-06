@@ -95,17 +95,17 @@ being in either case the volume of the gas which would be produced from the fuel
 
 **3.** Any person, who with intent to defraud or deceive, damps any peat or wood fuel shall be guilty of an offence.
 
-### PART V — COSMETIC PRODUCTS[^key-b3f7c1295ea66eec7386a3ca4d987bf3]
+### PART V — COSMETIC PRODUCTS[^c-b3f7c1295ea66eec7386a3ca4d987bf3]
 
 **No longer in force.**
 
-**1.**[^key-b3f7c1295ea66eec7386a3ca4d987bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b3f7c1295ea66eec7386a3ca4d987bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b3f7c1295ea66eec7386a3ca4d987bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b3f7c1295ea66eec7386a3ca4d987bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b3f7c1295ea66eec7386a3ca4d987bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b3f7c1295ea66eec7386a3ca4d987bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b3f7c1295ea66eec7386a3ca4d987bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b3f7c1295ea66eec7386a3ca4d987bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART VI — SOAP
 
@@ -250,7 +250,7 @@ and, notwithstanding any thing in paragraph 2, nails—
 
 [^c16915581]: Textual amendment: SR 1995/227
 
-[^key-b3f7c1295ea66eec7386a3ca4d987bf3]: Textual amendment: [Sch. 6 Pt. V](https://www.legislation.gov.uk/nisi/1981/231/schedule/6/part/V) repealed (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/1) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-b3f7c1295ea66eec7386a3ca4d987bf3]: Textual amendment: [Sch. 6 Pt. V](https://www.legislation.gov.uk/nisi/1981/231/schedule/6/part/V) repealed (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/1) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
 [^c16915641]: Textual amendment: SR 1995/227
 

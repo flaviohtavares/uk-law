@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Qualifying conditions for the grant for travel – overseas study[^key-9acfdbe0272b64dbbbf48e6e36e999b3]
+## 53. Qualifying conditions for the grant for travel – overseas study[^c-9acfdbe0272b64dbbbf48e6e36e999b3]
 
 *Extent: N.I.*
 
-A grant is available to an eligible student in respect of the reasonable expenditure which the student is obliged to incur in each qualifying quarter within or outside the United Kingdom for the purpose of attending as part of the student’s course the overseas institution or the Institute or overseas workplace in an Erasmus year[^key-f8750da0623b131f0d5fbf6dc05ad9a1] .
+A grant is available to an eligible student in respect of the reasonable expenditure which the student is obliged to incur in each qualifying quarter within or outside the United Kingdom for the purpose of attending as part of the student’s course the overseas institution or the Institute or overseas workplace in an Erasmus year[^c-f8750da0623b131f0d5fbf6dc05ad9a1] .
 
 ## Annotations
 
-[^key-9acfdbe0272b64dbbbf48e6e36e999b3]: Commencement: Reg. 53 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-9acfdbe0272b64dbbbf48e6e36e999b3]: Commencement: Reg. 53 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-f8750da0623b131f0d5fbf6dc05ad9a1]: Textual amendment: [Reg. 53](https://www.legislation.gov.uk/nisr/2009/373/regulation/53) text amended (23.12.2010) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/383)](https://www.legislation.gov.uk/nisr/2010/383), [regs. 1](https://www.legislation.gov.uk/nisr/2010/383/regulation/1), [15](https://www.legislation.gov.uk/nisr/2010/383/regulation/15)
+[^c-f8750da0623b131f0d5fbf6dc05ad9a1]: Textual amendment: [Reg. 53](https://www.legislation.gov.uk/nisr/2009/373/regulation/53) text amended (23.12.2010) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/383)](https://www.legislation.gov.uk/nisr/2010/383), [regs. 1](https://www.legislation.gov.uk/nisr/2010/383/regulation/1), [15](https://www.legislation.gov.uk/nisr/2010/383/regulation/15)

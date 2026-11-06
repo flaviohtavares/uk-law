@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Continuing requirement enforcement notices[^key-eab4854c7d6d33970d77ea65c9f696b9]
+## 26. Continuing requirement enforcement notices[^c-eab4854c7d6d33970d77ea65c9f696b9]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ whether or not the notice has taken effect.
 
 ## Annotations
 
-[^key-eab4854c7d6d33970d77ea65c9f696b9]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2003/8/section/26) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-eab4854c7d6d33970d77ea65c9f696b9]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2003/8/section/26) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

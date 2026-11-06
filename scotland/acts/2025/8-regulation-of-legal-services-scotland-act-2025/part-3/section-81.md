@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Commission reports[^key-9fe253445f6cadfae72335c13737a6b4]
+## 81. Commission reports[^c-9fe253445f6cadfae72335c13737a6b4]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fe253445f6cadfae72335c13737a6b4]: Commencement: S. 81 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-9fe253445f6cadfae72335c13737a6b4]: Commencement: S. 81 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

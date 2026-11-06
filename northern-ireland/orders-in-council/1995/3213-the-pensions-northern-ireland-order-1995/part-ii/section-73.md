@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Preferential liabilities on winding up[^key-2c5bab722722369021a3f843ecf37d89][^key-f2c0fae2a643c26ed076c6a78b0078cf][^key-994482f02b2f0ddbe6eae26f416b6073][^key-dd4bbee49b332d41caf94fceb5fda7ee][^key-cface0fbc6dfd218e1487f08649d8c86][^key-9e3922aa19190ec65413e2ebdb6ba2a7][^c21041331]
+## 73. Preferential liabilities on winding up[^c-2c5bab722722369021a3f843ecf37d89][^c-f2c0fae2a643c26ed076c6a78b0078cf][^c-994482f02b2f0ddbe6eae26f416b6073][^c-dd4bbee49b332d41caf94fceb5fda7ee][^c-cface0fbc6dfd218e1487f08649d8c86][^c-9e3922aa19190ec65413e2ebdb6ba2a7][^c21041331]
 
 *Extent: N.I.*
 
@@ -61,7 +61,7 @@ summary: ''
 - (a) regulations may prescribe how it is to be determined whether a liability for pensions or other benefits which, in the opinion of the trustees or managers of the scheme, are derived from the payment by any member of voluntary contributions falls within sub-paragraph (a) or (b) of that paragraph;
 - (b) no pension or other benefit which is attributable (directly or indirectly) to a pension credit is to be regarded for the purposes of sub-paragraph (c) of that paragraph as derived from the payment of voluntary contributions.
 
-(9) Where, on the commencement of the winding up period, a member becomes a person to whom Chapter 2 of Part 4ZA[^key-8e6832f624a11aba49cfbb344437fac5] of the Pension Schemes Act (early leavers: cash transfer sums and contribution refunds) applies, that Chapter applies in relation to him with such modifications as may be prescribed.
+(9) Where, on the commencement of the winding up period, a member becomes a person to whom Chapter 2 of Part 4ZA[^c-8e6832f624a11aba49cfbb344437fac5] of the Pension Schemes Act (early leavers: cash transfer sums and contribution refunds) applies, that Chapter applies in relation to him with such modifications as may be prescribed.
 
 (10) For the purposes of this Article—
 
@@ -75,20 +75,20 @@ summary: ''
 
 ## Annotations
 
-[^key-2c5bab722722369021a3f843ecf37d89]: Modification: Art. 73 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [15(4)](https://www.legislation.gov.uk/nisr/2014/204/regulation/15/4)
+[^c-2c5bab722722369021a3f843ecf37d89]: Modification: Art. 73 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [15(4)](https://www.legislation.gov.uk/nisr/2014/204/regulation/15/4)
 
-[^key-f2c0fae2a643c26ed076c6a78b0078cf]: Modification: Art. 73 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [14(5)](https://www.legislation.gov.uk/nisr/2014/204/regulation/14/5/b)
+[^c-f2c0fae2a643c26ed076c6a78b0078cf]: Modification: Art. 73 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [14(5)](https://www.legislation.gov.uk/nisr/2014/204/regulation/14/5/b)
 
-[^key-994482f02b2f0ddbe6eae26f416b6073]: Modification: Art. 73 modified (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [10(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/10/2)
+[^c-994482f02b2f0ddbe6eae26f416b6073]: Modification: Art. 73 modified (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [10(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/10/2)
 
-[^key-dd4bbee49b332d41caf94fceb5fda7ee]: Modification: Art. 73 modified (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [12(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/12/2)
+[^c-dd4bbee49b332d41caf94fceb5fda7ee]: Modification: Art. 73 modified (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [12(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/12/2)
 
-[^key-cface0fbc6dfd218e1487f08649d8c86]: Modification: Art. 73 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [13(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/13/2)
+[^c-cface0fbc6dfd218e1487f08649d8c86]: Modification: Art. 73 applied (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [13(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/13/2)
 
-[^key-9e3922aa19190ec65413e2ebdb6ba2a7]: Modification: [Art. 73](https://www.legislation.gov.uk/nisi/1995/3213/article/73) modified (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 20 para. 15(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/15/2) (with [Sch. 20 paras. 9](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/9), [11](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/11)); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(b)](https://www.legislation.gov.uk/nisr/2017/44/article/5/b)
+[^c-9e3922aa19190ec65413e2ebdb6ba2a7]: Modification: [Art. 73](https://www.legislation.gov.uk/nisi/1995/3213/article/73) modified (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 20 para. 15(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/15/2) (with [Sch. 20 paras. 9](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/9), [11](https://www.legislation.gov.uk/nia/2015/5/schedule/20/paragraph/11)); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 5(b)](https://www.legislation.gov.uk/nisr/2017/44/article/5/b)
 
 [^c21041331]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
 [^c17251501]: Textual amendment: mod. by SR 2005/171
 
-[^key-8e6832f624a11aba49cfbb344437fac5]: Textual amendment: Words in art. 73(9) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/76) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-8e6832f624a11aba49cfbb344437fac5]: Textual amendment: Words in art. 73(9) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/76) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

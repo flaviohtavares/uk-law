@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Commencement and transitional provision[^key-0116c3fa5059cdcee4ad897e984b89ff]
+## 24. Commencement and transitional provision[^c-0116c3fa5059cdcee4ad897e984b89ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0116c3fa5059cdcee4ad897e984b89ff]: Commencement: S. 24 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)
+[^c-0116c3fa5059cdcee4ad897e984b89ff]: Commencement: S. 24 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)

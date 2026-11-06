@@ -22,7 +22,7 @@ summary: ''
 
 Article 43
 
-### 1. Interpretation[^key-ac0f68f025c4c4c6159243b21b2487b8]
+### 1. Interpretation[^c-ac0f68f025c4c4c6159243b21b2487b8]
 
 In this Schedule—
 
@@ -33,7 +33,7 @@ In this Schedule—
 - “**requirement consultee**” means any body or authority named in a requirement as a body to be consulted by the relevant planning authority in discharging that requirement; and
 - “**start date**” means the date of the notification given by the Secretary of State under paragraph 4(2)(c).
 
-### 2. Applications made under requirement[^key-6744a588e00507691eaa62324d204720]
+### 2. Applications made under requirement[^c-6744a588e00507691eaa62324d204720]
 
 (1) Where an application has been made to the relevant planning authority for any discharge, the relevant planning authority must give notice to the undertaker of its decision on the application within a period of ten weeks beginning with the later of—
 
@@ -57,7 +57,7 @@ then the application is to be taken to have been refused by the relevant plannin
 
 (5) Where an application has been made to the relevant planning authority for any discharge, the undertaker will also submit a copy of that application to any requirement consultee.
 
-### 3. Further information and consultation[^key-4b8cd87fc58390f39f5efb2c2e9a4997]
+### 3. Further information and consultation[^c-4b8cd87fc58390f39f5efb2c2e9a4997]
 
 (1) In relation to any application to which this Schedule applies, the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -69,7 +69,7 @@ then the application is to be taken to have been refused by the relevant plannin
 
 (5) Where further information is requested under this paragraph in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 2 and paragraph 3.
 
-### 4. Appeals[^key-19bcaddf1c72cea6d95e814548f9b593]
+### 4. Appeals[^c-19bcaddf1c72cea6d95e814548f9b593]
 
 (1) The undertaker may appeal in the event that—
 
@@ -99,7 +99,7 @@ then the application is to be taken to have been refused by the relevant plannin
 
 and may deal with the application as if it had been made to them in the first instance.
 
-(6) The appointed person may proceed to a decision on an appeal taking into account only such written representations as have been sent within the relevant time limits and in the sole discretion of the appointed person such written representations as have been sent outside of the relevant time limits[^key-591f7c910734ebbddf3b068863a6667c].
+(6) The appointed person may proceed to a decision on an appeal taking into account only such written representations as have been sent within the relevant time limits and in the sole discretion of the appointed person such written representations as have been sent outside of the relevant time limits[^c-591f7c910734ebbddf3b068863a6667c].
 
 (7) The appointed person may proceed to a decision even though no written representations have been made within the relevant time limits, if it appears to them that there is sufficient material to enable a decision to be made on the merits of the case.
 
@@ -111,7 +111,7 @@ and may deal with the application as if it had been made to them in the first in
 
 (11) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to advice on planning appeals and award costs published in Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-### 5. Fees[^key-85b47ffd252ad7b222ab495dbc916d05]
+### 5. Fees[^c-85b47ffd252ad7b222ab495dbc916d05]
 
 (1) Where an application is made to the relevant planning authority for a discharge, a fee is to apply and must be paid to the relevant planning authority for each application.
 
@@ -124,7 +124,7 @@ and may deal with the application as if it had been made to them in the first in
   - (ii) any application under requirement 5 in respect of requirements not listed in paragraph (a); and
   - (iii) any approval required by a document referred to by any requirement or a document approved pursuant to any requirement.
 
-(3) Where an application under sub-paragraph (1) is made and a fee payable on or after 1 April 2025, then section 18A of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012 (as amended by the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits (England) Amendment Regulations 2023) will apply as modified by this Order, so that “**the relevant amount**” means the fee payable under sub-paragraphs[^key-8a62c508ca754e87b4a0e16153cb120a] (2)(a), 2(b) or 2(c) above.
+(3) Where an application under sub-paragraph (1) is made and a fee payable on or after 1 April 2025, then section 18A of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012 (as amended by the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits (England) Amendment Regulations 2023) will apply as modified by this Order, so that “**the relevant amount**” means the fee payable under sub-paragraphs[^c-8a62c508ca754e87b4a0e16153cb120a] (2)(a), 2(b) or 2(c) above.
 
 (4) Any fee paid under this Schedule must be refunded to the undertaker within four weeks of—
 
@@ -135,16 +135,16 @@ and may deal with the application as if it had been made to them in the first in
 
 ## Annotations
 
-[^key-ac0f68f025c4c4c6159243b21b2487b8]: Commencement: Sch. 16 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-ac0f68f025c4c4c6159243b21b2487b8]: Commencement: Sch. 16 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-6744a588e00507691eaa62324d204720]: Commencement: Sch. 16 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-6744a588e00507691eaa62324d204720]: Commencement: Sch. 16 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-4b8cd87fc58390f39f5efb2c2e9a4997]: Commencement: Sch. 16 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-4b8cd87fc58390f39f5efb2c2e9a4997]: Commencement: Sch. 16 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-19bcaddf1c72cea6d95e814548f9b593]: Commencement: Sch. 16 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-19bcaddf1c72cea6d95e814548f9b593]: Commencement: Sch. 16 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-591f7c910734ebbddf3b068863a6667c]: Textual amendment: Words in [Sch. 16 para. 4(6)](https://www.legislation.gov.uk/uksi/2024/796/schedule/16/paragraph/4/6) inserted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-591f7c910734ebbddf3b068863a6667c]: Textual amendment: Words in [Sch. 16 para. 4(6)](https://www.legislation.gov.uk/uksi/2024/796/schedule/16/paragraph/4/6) inserted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
-[^key-85b47ffd252ad7b222ab495dbc916d05]: Commencement: Sch. 16 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-85b47ffd252ad7b222ab495dbc916d05]: Commencement: Sch. 16 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-8a62c508ca754e87b4a0e16153cb120a]: Textual amendment: Word in [Sch. 16 para. 5(3)](https://www.legislation.gov.uk/uksi/2024/796/schedule/16/paragraph/5/3) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-8a62c508ca754e87b4a0e16153cb120a]: Textual amendment: Word in [Sch. 16 para. 5(3)](https://www.legislation.gov.uk/uksi/2024/796/schedule/16/paragraph/5/3) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

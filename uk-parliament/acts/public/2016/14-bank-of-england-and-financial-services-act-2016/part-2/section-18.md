@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Appointment of Financial Conduct Authority chief executive[^key-686881c74e9e21d014a7c877224c60ae]
+## 18. Appointment of Financial Conduct Authority chief executive[^c-686881c74e9e21d014a7c877224c60ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In Schedule 1ZA to the Financial Services and Markets Act 2000 (the Financial Co
 
 ## Annotations
 
-[^key-686881c74e9e21d014a7c877224c60ae]: Commencement: S. 18 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/m)
+[^c-686881c74e9e21d014a7c877224c60ae]: Commencement: S. 18 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/m)

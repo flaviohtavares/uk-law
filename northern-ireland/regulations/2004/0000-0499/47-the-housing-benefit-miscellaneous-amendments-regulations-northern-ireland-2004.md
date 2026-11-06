@@ -29,89 +29,89 @@ summary: ''
 
 HOUSING; RATES
 
-The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-Made *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+Made *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-12th February 2004 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+12th February 2004 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-Coming into operation *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+Coming into operation *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-12th April 2004 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+12th April 2004 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(d), 132(3) and (4), 132A and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00001], and now vested in it *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00002], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00003], and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00004], hereby makes the following Regulations: *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(d), 132(3) and (4), 132A and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00001], and now vested in it *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00002], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00003], and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00004], hereby makes the following Regulations: *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-## 1. Citation, commencement and interpretation (affected by repeal, see note)[^key-e7edb35286f1fde1a7695f466edcec38]
+## 1. Citation, commencement and interpretation (affected by repeal, see note)[^c-e7edb35286f1fde1a7695f466edcec38]
 
-(1) These Regulations may be cited as the Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 and shall come into operation on 12th April 2004. *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+(1) These Regulations may be cited as the Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 and shall come into operation on 12th April 2004. *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-(2) In these Regulations – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+(2) In these Regulations – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-- “the *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38] Housing Benefit Regulations *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]” means the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00005];
-- “the *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38] State Pension Credit Regulations *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]” means the Housing Benefit (State Pension Credit) Regulations (Northern Ireland) 2003 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00006].
+- “the *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38] Housing Benefit Regulations *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]” means the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00005];
+- “the *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38] State Pension Credit Regulations *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]” means the Housing Benefit (State Pension Credit) Regulations (Northern Ireland) 2003 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00006].
 
-(3) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00007] shall apply to these Regulations as it applies to an Act of the Assembly. *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+(3) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00007] shall apply to these Regulations as it applies to an Act of the Assembly. *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-## 2. Amendment of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^key-e7edb35286f1fde1a7695f466edcec38][^key-e7edb35286f1fde1a7695f466edcec38]
+## 2. Amendment of the (affected by repeal, see note) Housing Benefit Regulations (affected by repeal, see note)[^c-e7edb35286f1fde1a7695f466edcec38][^c-e7edb35286f1fde1a7695f466edcec38]
 
-(1) The *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38] Housing Benefit Regulations *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38] shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+(1) The *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38] Housing Benefit Regulations *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38] shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-(2) In paragraph 16(2) *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00008] of Schedule 3 (sums to be di20egarded in the calculation of earnings) – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+(2) In paragraph 16(2) *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00008] of Schedule 3 (sums to be di20egarded in the calculation of earnings) – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-- (a) in head (b) – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-  - (i) sub-paragraph (ii)(bb) shall be omitted; *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-  - (ii (affected by repeal, see note))[^key-e7edb35286f1fde1a7695f466edcec38] in sub-paragraphs (iii) and (iv), for “30 hours” there shall be substituted “16 hours”, and *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-  - (iii (affected by repeal, see note))[^key-e7edb35286f1fde1a7695f466edcec38] in sub-paragraph (iv), “or both members are”, shall be omitted, and *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-- (b) after head (b), there shall be inserted the following head – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+- (a) in head (b) – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+  - (i) sub-paragraph (ii)(bb) shall be omitted; *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+  - (ii (affected by repeal, see note))[^c-e7edb35286f1fde1a7695f466edcec38] in sub-paragraphs (iii) and (iv), for “30 hours” there shall be substituted “16 hours”, and *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+  - (iii (affected by repeal, see note))[^c-e7edb35286f1fde1a7695f466edcec38] in sub-paragraph (iv), “or both members are”, shall be omitted, and *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+- (b) after head (b), there shall be inserted the following head – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-  > or *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+  > or *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
   >
-  > - (c) the claimant is, or if he has a partner, one of them is, a person to whom regulation 18(3) of the Working Tax Credit Regulations (eligibility for 50 plus element) applies, or would apply if an application for working tax credit were to be made in his case. *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+  > - (c) the claimant is, or if he has a partner, one of them is, a person to whom regulation 18(3) of the Working Tax Credit Regulations (eligibility for 50 plus element) applies, or would apply if an application for working tax credit were to be made in his case. *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
   .
 
-(3) In paragraph 61 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00009] of Schedule 4 to those Regulations (sums to be di20egarded in the calculation of income other than earnings) – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+(3) In paragraph 61 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00009] of Schedule 4 to those Regulations (sums to be di20egarded in the calculation of income other than earnings) – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-- (a) before “paragraph 16” there shall be inserted “sub-paragraph (1) of”, and *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-- (b) for the words from “entitled” to “2002” there shall be substituted “a person who satisfies any of the conditions of sub-paragraph (2) of that paragraph”. *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+- (a) before “paragraph 16” there shall be inserted “sub-paragraph (1) of”, and *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+- (b) for the words from “entitled” to “2002” there shall be substituted “a person who satisfies any of the conditions of sub-paragraph (2) of that paragraph”. *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-## 3. Amendment of the (affected by repeal, see note) State Pension Credit Regulations (affected by repeal, see note)[^key-e7edb35286f1fde1a7695f466edcec38][^key-e7edb35286f1fde1a7695f466edcec38]
+## 3. Amendment of the (affected by repeal, see note) State Pension Credit Regulations (affected by repeal, see note)[^c-e7edb35286f1fde1a7695f466edcec38][^c-e7edb35286f1fde1a7695f466edcec38]
 
-(1) The *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38] State Pension Credit Regulations *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38] shall be amended in accordance with paragraphs (2) to (4). *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+(1) The *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38] State Pension Credit Regulations *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38] shall be amended in accordance with paragraphs (2) to (4). *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-(2) In regulation 8 (income and capital), in paragraph (4) *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00010] of the substituted regulation 23 (calculation of claimant’s income and capital in savings credit only cases) – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+(2) In regulation 8 (income and capital), in paragraph (4) *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00010] of the substituted regulation 23 (calculation of claimant’s income and capital in savings credit only cases) – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-- (a) in sub-paragraph (c) – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-  - (i) after head (iii) there shall be inserted “or”, and *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-  - (ii (affected by repeal, see note))[^key-e7edb35286f1fde1a7695f466edcec38] head (v) and the word “or” which precedes it shall be omitted, and *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-- (b) after sub-paragraph (c) there shall be inserted – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+- (a) in sub-paragraph (c) – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+  - (i) after head (iii) there shall be inserted “or”, and *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+  - (ii (affected by repeal, see note))[^c-e7edb35286f1fde1a7695f466edcec38] head (v) and the word “or” which precedes it shall be omitted, and *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+- (b) after sub-paragraph (c) there shall be inserted – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-  > - (cc (affected by repeal, see note))[^key-e7edb35286f1fde1a7695f466edcec38] any amount to be di20egarded by virtue of paragraph 9(1) of Schedule 3A; *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+  > - (cc (affected by repeal, see note))[^c-e7edb35286f1fde1a7695f466edcec38] any amount to be di20egarded by virtue of paragraph 9(1) of Schedule 3A; *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
   .
 
-(3) In Schedule 2 (disregards), in the First Schedule (which is to have effect as Schedule 3A to the *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38] Housing Benefit Regulations *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]) –
+(3) In Schedule 2 (disregards), in the First Schedule (which is to have effect as Schedule 3A to the *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38] Housing Benefit Regulations *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]) –
 
-- (a) in paragraph 5(1)(a), after head (v) there shall be inserted – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+- (a) in paragraph 5(1)(a), after head (v) there shall be inserted – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-  > - (vi (affected by repeal, see note))[^key-e7edb35286f1fde1a7695f466edcec38] the disability element or the severe disability element of working tax credit under Schedule 2 to the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00011];
+  > - (vi (affected by repeal, see note))[^c-e7edb35286f1fde1a7695f466edcec38] the disability element or the severe disability element of working tax credit under Schedule 2 to the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00011];
 
-  , and *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-- (b) in paragraph 9(2)(b) – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-  - (i) sub-paragraph (ii)(bb) shall be omitted; *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-  - (ii (affected by repeal, see note))[^key-e7edb35286f1fde1a7695f466edcec38] in sub-paragraph (iii) and (iv), for “30 hours” there shall be substituted “16 hours”; *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-  - (iii (affected by repeal, see note))[^key-e7edb35286f1fde1a7695f466edcec38] in sub-paragraph (iv), “or both are” shall be omitted, and for the words from “week, and” to the end, there shall be substituted “week, and paragraph 5(1) above is satisfied in respect of that person.”, and *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
-  - (iv (affected by repeal, see note))[^key-e7edb35286f1fde1a7695f466edcec38] after head (b) there shall be inserted the following – *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+  , and *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+- (b) in paragraph 9(2)(b) – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+  - (i) sub-paragraph (ii)(bb) shall be omitted; *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+  - (ii (affected by repeal, see note))[^c-e7edb35286f1fde1a7695f466edcec38] in sub-paragraph (iii) and (iv), for “30 hours” there shall be substituted “16 hours”; *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+  - (iii (affected by repeal, see note))[^c-e7edb35286f1fde1a7695f466edcec38] in sub-paragraph (iv), “or both are” shall be omitted, and for the words from “week, and” to the end, there shall be substituted “week, and paragraph 5(1) above is satisfied in respect of that person.”, and *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
+  - (iv (affected by repeal, see note))[^c-e7edb35286f1fde1a7695f466edcec38] after head (b) there shall be inserted the following – *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-    > or *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+    > or *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
     >
-    > - (c) the claimant is, or, if he has a partner, one of them is, a person to whom regulation 18(3) of the Working Tax credit regulations (eligibility for 50 plus element) applies, or would apply if an application for working tax credit were to be made in his case. *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+    > - (c) the claimant is, or, if he has a partner, one of them is, a person to whom regulation 18(3) of the Working Tax credit regulations (eligibility for 50 plus element) applies, or would apply if an application for working tax credit were to be made in his case. *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
     .
 
-(4) In Schedule 2, in the Second Schedule (which is to have effect as Schedule 4A to the *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38] Housing Benefit Regulations *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]), in paragraph 22 *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38][^f00012], for the words from “entitled” to “2002” there shall be substituted “a person who satisfies the conditions of sub-paragraph (2) of that paragraph”. *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+(4) In Schedule 2, in the Second Schedule (which is to have effect as Schedule 4A to the *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38] Housing Benefit Regulations *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]), in paragraph 22 *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38][^f00012], for the words from “entitled” to “2002” there shall be substituted “a person who satisfies the conditions of sub-paragraph (2) of that paragraph”. *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
-Sealed with the Official Seal of the Department for Social Development on 12th February 2004. *(affected by repeal, see note)*[^key-e7edb35286f1fde1a7695f466edcec38]
+Sealed with the Official Seal of the Department for Social Development on 12th February 2004. *(affected by repeal, see note)*[^c-e7edb35286f1fde1a7695f466edcec38]
 
 John O'Neill
 
@@ -141,7 +141,7 @@ These Regulations do not impose any charge on business.
 
 ## Annotations
 
-[^key-e7edb35286f1fde1a7695f466edcec38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/47) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-e7edb35286f1fde1a7695f466edcec38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/47) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 132A was inserted by paragraph 3 of Schedule 2 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14)](https://www.legislation.gov.uk/nia/2002/14)
 

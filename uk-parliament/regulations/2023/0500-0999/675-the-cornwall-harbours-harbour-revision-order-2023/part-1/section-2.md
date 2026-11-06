@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-98652d57b9aa933450d87cea2afe54fe]
+## 2. Interpretation[^c-98652d57b9aa933450d87cea2afe54fe]
 
 *Extent: E+W*
 
@@ -41,10 +41,10 @@ summary: ''
 - “**functions**” includes powers and duties;
 - “**general direction**” means a direction given under article 31 (power to make general directions as to use of the harbours, etc.);
 - “**general reserve fund**” means the reserve fund to be established, maintained and used by the Council under article 17 (general reserve fund);
-- “**harbours**” means the ports and harbours of Bude, Newquay, Penryn, Penzance, Portreath, Portscatho, Portwrinkle,[^key-453c48eac48109b30ba07fbd5cfe412b] Prince of Wales Pier (in Falmouth), St Ives and Truro, the limits of which are defined in Schedule 1 (limits of the harbours);
-- “[^key-fe323953d3b4712425ec4b4a45a2f634]**Harbour Empowerment Order**” means the Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023;
+- “**harbours**” means the ports and harbours of Bude, Newquay, Penryn, Penzance, Portreath, Portscatho, Portwrinkle,[^c-453c48eac48109b30ba07fbd5cfe412b] Prince of Wales Pier (in Falmouth), St Ives and Truro, the limits of which are defined in Schedule 1 (limits of the harbours);
+- “[^c-fe323953d3b4712425ec4b4a45a2f634]**Harbour Empowerment Order**” means the Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023;
 - “**harbour facilities**” means shipping, fisheries, marine, recreational, leisure, tourism and retail facilities (including buildings);
-- “**harbour limits plans**” means the Bude Harbour Limits Plan, the Newquay Harbour Limits Plan, the Port of Penryn Harbour Limits Plan, the Penzance Harbour Limits Plan, the Portreath Harbour Limits Plan, the Portscatho Harbour Limits Plan, the Portwrinkle Harbour Limits Plan,[^key-4c3784e37f778df291dec7042f7249e4] the Prince of Wales Pier Harbour Limits Plan, the St Ives Harbour Limits Plan and the Port of Truro Harbour Limits Plans[^f00010];
+- “**harbour limits plans**” means the Bude Harbour Limits Plan, the Newquay Harbour Limits Plan, the Port of Penryn Harbour Limits Plan, the Penzance Harbour Limits Plan, the Portreath Harbour Limits Plan, the Portscatho Harbour Limits Plan, the Portwrinkle Harbour Limits Plan,[^c-4c3784e37f778df291dec7042f7249e4] the Prince of Wales Pier Harbour Limits Plan, the St Ives Harbour Limits Plan and the Port of Truro Harbour Limits Plans[^f00010];
 - “**harbour master**” means any person appointed as such by the Council, and includes the duly authorised deputies and assistants of the harbour master and any person for the time being authorised by the Council to act, either generally or for a specific purpose, in the capacity of harbour master;
 - “**harbour operations**” includes—
   - (a) the marking, lighting or dredging of the harbours or any part thereof;
@@ -102,7 +102,7 @@ summary: ''
 
 ## Annotations
 
-[^key-98652d57b9aa933450d87cea2afe54fe]: Commencement: Art. 2 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-98652d57b9aa933450d87cea2afe54fe]: Commencement: Art. 2 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
 [^f00006]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
@@ -112,11 +112,11 @@ summary: ''
 
 [^f00009]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-453c48eac48109b30ba07fbd5cfe412b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2023/675/article/2) inserted (17.7.2023) by [The Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023 (S.I. 2023/680)](https://www.legislation.gov.uk/uksi/2023/680), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/680/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/680/article/5/2/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2023/680/article/6), [7](https://www.legislation.gov.uk/uksi/2023/680/article/7))
+[^c-453c48eac48109b30ba07fbd5cfe412b]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2023/675/article/2) inserted (17.7.2023) by [The Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023 (S.I. 2023/680)](https://www.legislation.gov.uk/uksi/2023/680), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/680/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/680/article/5/2/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2023/680/article/6), [7](https://www.legislation.gov.uk/uksi/2023/680/article/7))
 
-[^key-fe323953d3b4712425ec4b4a45a2f634]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2023/675/article/2) inserted (17.7.2023) by [The Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023 (S.I. 2023/680)](https://www.legislation.gov.uk/uksi/2023/680), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/680/article/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2023/680/article/5/2/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2023/680/article/6), [7](https://www.legislation.gov.uk/uksi/2023/680/article/7))
+[^c-fe323953d3b4712425ec4b4a45a2f634]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2023/675/article/2) inserted (17.7.2023) by [The Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023 (S.I. 2023/680)](https://www.legislation.gov.uk/uksi/2023/680), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/680/article/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2023/680/article/5/2/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2023/680/article/6), [7](https://www.legislation.gov.uk/uksi/2023/680/article/7))
 
-[^key-4c3784e37f778df291dec7042f7249e4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2023/675/article/2) inserted (17.7.2023) by [The Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023 (S.I. 2023/680)](https://www.legislation.gov.uk/uksi/2023/680), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/680/article/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/680/article/5/2/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2023/680/article/6), [7](https://www.legislation.gov.uk/uksi/2023/680/article/7))
+[^c-4c3784e37f778df291dec7042f7249e4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2023/675/article/2) inserted (17.7.2023) by [The Portreath, Portscatho and Portwrinkle Harbour Empowerment Order 2023 (S.I. 2023/680)](https://www.legislation.gov.uk/uksi/2023/680), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/680/article/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/680/article/5/2/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2023/680/article/6), [7](https://www.legislation.gov.uk/uksi/2023/680/article/7))
 
 [^f00010]: Footnote: The harbour limits plans may be inspected during working hours at the principal office of Cornwall Council, New County Hall, Treyew Road, Truro TR1 3AY and via the Council’s harbours website at www.cornwallharbours.co.uk.
 

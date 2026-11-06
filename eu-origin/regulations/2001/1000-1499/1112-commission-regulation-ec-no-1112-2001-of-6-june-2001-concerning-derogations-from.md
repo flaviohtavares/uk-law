@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1112/2001
 
 of 6 June 2001 concerning derogations from the provisions of Council Regulation (EC, Euratom) No 58/97 in respect of insurance services statistics (Text with EEA relevance) (revoked)
 
-[^key-1b65b1c4606b0c5921e16963de2dc1f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b65b1c4606b0c5921e16963de2dc1f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-1b65b1c4606b0c5921e16963de2dc1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-1b65b1c4606b0c5921e16963de2dc1f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b65b1c4606b0c5921e16963de2dc1f2]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/32)
+[^c-1b65b1c4606b0c5921e16963de2dc1f2]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/32)

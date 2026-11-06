@@ -73,25 +73,25 @@ The Public Service Vehicles (Community Licences) Regulations 2011 [^c23501271] a
 - “**the 1981 Act**” means the Public Passenger Vehicles Act 1981 [^c23501281];
 - “**the 1981 Regulations**” means the Public Service Vehicles (Conditions of Fitness, Equipment, Use and Certification) Regulations 1981 [^c23501291];
 - “**EEA State**” means a State, not being a member State, which is a party to the EEA Agreement;
-- “[^key-f9e4a127ca0ff343f3dc2ebb999bc9d9]**Interbus**” means the Agreement on the international occasional carriage of passengers by coach and bus (Interbus Agreement) originally concluded in Brussels on 30th June 2001 and as acceded to by the United Kingdom by instrument of accession deposited on 29th October 2020;
+- “[^c-f9e4a127ca0ff343f3dc2ebb999bc9d9]**Interbus**” means the Agreement on the international occasional carriage of passengers by coach and bus (Interbus Agreement) originally concluded in Brussels on 30th June 2001 and as acceded to by the United Kingdom by instrument of accession deposited on 29th October 2020;
 - “**PSV operator's licence**” has the meaning given by section 82(1) of the 1981 Act;
 - “**Regulation 1071/2009**” means Regulation [(EC) No 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071) of the European Parliament and of the Council establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator [^c23501311];
-- “[^key-67e59d396b9e57737618f361128f754e]**RPT Chapter**” means Title II of Heading Three of Part Two (transport of passengers by road) of the Trade and Cooperation Agreement, together with—
+- “[^c-67e59d396b9e57737618f361128f754e]**RPT Chapter**” means Title II of Heading Three of Part Two (transport of passengers by road) of the Trade and Cooperation Agreement, together with—
   - (a) Annexes 32, 33 and 34 to the Trade and Cooperation Agreement; and
   - (b) Articles 124, 135 and 137 of the Trade and Cooperation Agreement, so far as applying to that Title;
 - “**RSR Protocol**” means the Protocol to Interbus regarding the international regular and special regular carriage of passengers by coach and bus;
 - “**Trade and Cooperation Agreement**” has the meaning given in section 37(1) of the European Union (Future Relationship) Act 2020;
-- [^key-9984a52df9eaefca01f9a9a1ed0b733e]...
+- [^c-9984a52df9eaefca01f9a9a1ed0b733e]...
 - “**traffic commissioner**” means a commissioner appointed under section 4 of the 1981 Act;
 
-(2) For the purposes of the RPT Chapter, Interbus and the RSR Protocol[^key-ad9563c9efc7015c325bfa363edd6508], “**authorised inspecting officer**” means—
+(2) For the purposes of the RPT Chapter, Interbus and the RSR Protocol[^c-ad9563c9efc7015c325bfa363edd6508], “**authorised inspecting officer**” means—
 
 - (a) a police constable in uniform; or
 - (b) an examiner appointed under section 66A(1) of the Road Traffic Act 1988 [^c23501331]
 
-(3) Terms and expressions used in the RPT Chapter, Interbus or the RSR Protocol[^key-ba971063a1d444229b5f89f6102d1f70] have the same meaning in these Regulations.
+(3) Terms and expressions used in the RPT Chapter, Interbus or the RSR Protocol[^c-ba971063a1d444229b5f89f6102d1f70] have the same meaning in these Regulations.
 
-## 3A. Status of international agreements[^key-abfd60ebaaf3bacdc9425722a8e70fa5]
+## 3A. Status of international agreements[^c-abfd60ebaaf3bacdc9425722a8e70fa5]
 
 (1) The road passenger transport agreements, in their English language version, form part of domestic law on and after 1st April 2025.
 
@@ -120,7 +120,7 @@ The Public Service Vehicles (Community Licences) Regulations 2011 [^c23501271] a
 - (a) England and Wales, and
 - (b) Scotland.
 
-## 4. Competent authorities[^key-97addadc7a39459354192ca4b5047f69]
+## 4. Competent authorities[^c-97addadc7a39459354192ca4b5047f69]
 
 (1) The competent authority is—
 
@@ -145,10 +145,10 @@ The Public Service Vehicles (Community Licences) Regulations 2011 [^c23501271] a
 
 ## 5. Use of a public service vehicle not registered in the United Kingdom
 
-(1) This regulation applies to a vehicle not registered in the United Kingdom but which is registered in a[^key-51eae710cd7b1cf8db9cda4c4252bea5] member State, an EEA State or an Interbus State, and which is being used in Great Britain in accordance with—
+(1) This regulation applies to a vehicle not registered in the United Kingdom but which is registered in a[^c-51eae710cd7b1cf8db9cda4c4252bea5] member State, an EEA State or an Interbus State, and which is being used in Great Britain in accordance with—
 
 - (a) Interbus for the provision of liberalised occasional services or non-liberalised occasional services, or
-- (b)[^key-f497169c9c6fc124ccbb4567708f713a] the RSR Protocol for the provision of regular services or special regular services, or
+- (b)[^c-f497169c9c6fc124ccbb4567708f713a] the RSR Protocol for the provision of regular services or special regular services, or
 - (c) the RPT Chapter for the provision of occasional services, regular services or special regular services outside the scope of Interbus and the RSR Protocol.
 
 (2) In relation to a vehicle to which this regulation applies—
@@ -158,9 +158,9 @@ The Public Service Vehicles (Community Licences) Regulations 2011 [^c23501271] a
 
 (3) In this regulation “**Interbus State**” means a State, not being a member State, which is a contracting party to Interbus.
 
-## 6. Use of a public service vehicle for regular or special regular services for international operations[^key-a6223628d6414705c130716ced7250b3]
+## 6. Use of a public service vehicle for regular or special regular services for international operations[^c-a6223628d6414705c130716ced7250b3]
 
-(1)[^key-05f7f3bbcdf54acaa4475e92bebf3250] This regulation applies to a vehicle which is registered in a member State, an EEA State or an Interbus State, and which is being used in Great Britain in accordance with the RSR Protocol or the RPT Chapter for the provision of—
+(1)[^c-05f7f3bbcdf54acaa4475e92bebf3250] This regulation applies to a vehicle which is registered in a member State, an EEA State or an Interbus State, and which is being used in Great Britain in accordance with the RSR Protocol or the RPT Chapter for the provision of—
 
 - (a) regular services, or
 - (b) special regular services.
@@ -170,55 +170,55 @@ The Public Service Vehicles (Community Licences) Regulations 2011 [^c23501271] a
 - (a) the Transport Act 1985 [^c23501351] has effect as if section 6 (registration of local services) were omitted, and
 - (b) the Greater London Authority Act 1999 [^c23501361] has effect as if Part IV (Transport) and Chapter V (regulation of bus services in Greater London) were omitted.
 
-(3)[^key-bccbf200b434e2c5525077cb0ff29f15] In this regulation “**Interbus State**” has the same meaning as in regulation 5.
+(3)[^c-bccbf200b434e2c5525077cb0ff29f15] In this regulation “**Interbus State**” has the same meaning as in regulation 5.
 
 ## 7. Fees
 
-(1) An applicant for a relevant document[^key-d5721bd0cf553f3b0a642a546c349fc0] must pay to the Confederation of Passenger Transport, when an application is made to the Confederation of Passenger Transport[^key-1193ff5caf6bf4de69f0e4e8381e7469], a fee of such amount as may, with the approval of the Secretary of State, be required by it.
+(1) An applicant for a relevant document[^c-d5721bd0cf553f3b0a642a546c349fc0] must pay to the Confederation of Passenger Transport, when an application is made to the Confederation of Passenger Transport[^c-1193ff5caf6bf4de69f0e4e8381e7469], a fee of such amount as may, with the approval of the Secretary of State, be required by it.
 
-(2) An applicant for a relevant document[^key-d25eb593a0423bc2ff98576f3702ee80] must pay to the Secretary of State, when an application is made to the Secretary of State[^key-55315b00263e8f53a593d323d37803e0], a fee of such amount as may be required.
+(2) An applicant for a relevant document[^c-d25eb593a0423bc2ff98576f3702ee80] must pay to the Secretary of State, when an application is made to the Secretary of State[^c-55315b00263e8f53a593d323d37803e0], a fee of such amount as may be required.
 
 (3) For the purposes of paragraphs (1) and (2) the fee must be no more than the reasonable cost of processing that application.
 
-(4)[^key-c08ffa68f4942c16c43aafd4282e5ac0] In this regulation “**relevant document**” means—
+(4)[^c-c08ffa68f4942c16c43aafd4282e5ac0] In this regulation “**relevant document**” means—
 
 - (a) a control document,
 - (b) an authorisation,
 - (c) a journey form, or
 - (d) a waybill.
 
-## 8. Control documents for cabotage operations[^key-ef90bc0a3278afd051ff8c6bec67919e]
+## 8. Control documents for cabotage operations[^c-ef90bc0a3278afd051ff8c6bec67919e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Issue of a Community licence and authorisation[^key-ef90bc0a3278afd051ff8c6bec67919e]
+## 9. Issue of a Community licence and authorisation[^c-ef90bc0a3278afd051ff8c6bec67919e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Withdrawal of a Community licence[^key-ef90bc0a3278afd051ff8c6bec67919e]
+## 10. Withdrawal of a Community licence[^c-ef90bc0a3278afd051ff8c6bec67919e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Rights of appeal[^key-ef90bc0a3278afd051ff8c6bec67919e]
+## 11. Rights of appeal[^c-ef90bc0a3278afd051ff8c6bec67919e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Supply of information ...[^key-05d2f275d24a1c8b5baccb7da4c2e4a6]
+## 12. Supply of information ...[^c-05d2f275d24a1c8b5baccb7da4c2e4a6]
 
-(1) The competent authority may refuse to issue an[^key-a6d4237edf86e0ab498b20f5c6912db9] authorisation to an applicant if the applicant fails to supply any information that the competent authority may reasonably request pursuant to —[^key-ac26e98c199acbd8dd8d50a92c3bbfda]
+(1) The competent authority may refuse to issue an[^c-a6d4237edf86e0ab498b20f5c6912db9] authorisation to an applicant if the applicant fails to supply any information that the competent authority may reasonably request pursuant to —[^c-ac26e98c199acbd8dd8d50a92c3bbfda]
 
 - (a) Article 9(3) of the RSR Protocol; or
 - (b) Article 478(3) of the RPT Chapter.
 
-(2) The holder of an[^key-f423f7a16e41aaef8145ec3206779a18] authorisation must supply such information as the competent authority may reasonably require from time to time to enable the authority to decide whether the holder is entitled to retain the [^key-842d2948520d7ab2faee59111cbb34dc]... authorisation.
+(2) The holder of an[^c-f423f7a16e41aaef8145ec3206779a18] authorisation must supply such information as the competent authority may reasonably require from time to time to enable the authority to decide whether the holder is entitled to retain the [^c-842d2948520d7ab2faee59111cbb34dc]... authorisation.
 
-(3) A person who fails to supply any information required under paragraph (2) may have the [^key-69e8387d1393d03f921eb5b393b3a91f]... authorisation, and any certified true copies of it, withdrawn by the competent authority.
+(3) A person who fails to supply any information required under paragraph (2) may have the [^c-69e8387d1393d03f921eb5b393b3a91f]... authorisation, and any certified true copies of it, withdrawn by the competent authority.
 
 ## 13. Power to stop
 
 (1) Paragraph (2) applies if it appears to a stopping officer that a vehicle is being used in circumstances such that—
 
-- (a)[^key-8e169b2cd37f9b852a630b11c85f6b02] an operator’s licence for the international carriage of passengers by road,
+- (a)[^c-8e169b2cd37f9b852a630b11c85f6b02] an operator’s licence for the international carriage of passengers by road,
 - (b) an authorisation, or
 - (c) a control document,
 
@@ -228,7 +228,7 @@ may be required.
 
 (3) In this regulation “**stopping officer**” means an officer appointed under section 66B of the Road Traffic Act 1988 [^c23501371],
 
-## 14. Death, bankruptcy etc. of holder of Community licence[^key-891aafd44a3e3319e3fa71fc8bdbc231]
+## 14. Death, bankruptcy etc. of holder of Community licence[^c-891aafd44a3e3319e3fa71fc8bdbc231]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -261,7 +261,7 @@ may be required.
 
 ## 16. Offences
 
-(1)[^key-a77019c75dd762fc7fda988284f2f4a1] A person is guilty of an offence if that person breaches a provision of—
+(1)[^c-a77019c75dd762fc7fda988284f2f4a1] A person is guilty of an offence if that person breaches a provision of—
 
 - (a) Interbus set out in Schedule 2;
 - (b) the RSR Protocol set out in Schedule 3; or
@@ -306,7 +306,7 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 
 *Extent: E+W+S*
 
-## SCHEDULE 1 — Offences for breach of Regulation 1073/2009[^key-9c97ddc7494bd96adf2c90fc0a75d358]
+## SCHEDULE 1 — Offences for breach of Regulation 1073/2009[^c-9c97ddc7494bd96adf2c90fc0a75d358]
 
 **No longer in force.**
 
@@ -328,7 +328,7 @@ Regulation 16
 | Article 18 | Authorisation or control document required for inspection on the road |
 | Article 20 | Requirement to possess a true copy of a licence to be carried for the purposes of international occasional services |
 
-## Schedule 3 — Offences for breach of the RSR Protocol[^key-399ba2c0432c0705d1461069a89069b2]
+## Schedule 3 — Offences for breach of the RSR Protocol[^c-399ba2c0432c0705d1461069a89069b2]
 
 Regulation 16(1)(b)
 
@@ -401,72 +401,72 @@ The net costs on business, the voluntary sector and the public sector by these R
 
 [^c23501291]: Marginal citation: [S.I. 1981/257](https://www.legislation.gov.uk/uksi/1981/257) to which there are amendments not relevant to these Regulations.
 
-[^key-f9e4a127ca0ff343f3dc2ebb999bc9d9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/a/i)
+[^c-f9e4a127ca0ff343f3dc2ebb999bc9d9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/a/i)
 
 [^c23501311]: Marginal citation: OJ No. L300, 14.11.2009, p. 51.
 
-[^key-67e59d396b9e57737618f361128f754e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/1) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/a/ii)
+[^c-67e59d396b9e57737618f361128f754e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/1) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/a/ii)
 
-[^key-9984a52df9eaefca01f9a9a1ed0b733e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/1) omitted (1.4.2025) by virtue of [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/a/iii)
+[^c-9984a52df9eaefca01f9a9a1ed0b733e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/1) omitted (1.4.2025) by virtue of [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/a/iii)
 
-[^key-ad9563c9efc7015c325bfa363edd6508]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/2) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/b)
+[^c-ad9563c9efc7015c325bfa363edd6508]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/2) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/b)
 
 [^c23501331]: Marginal citation: [Section 66A(1)](https://www.legislation.gov.uk/uksi/2018/1395/section/66A/1) was inserted by the [Road Traffic Act 1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40).
 
-[^key-ba971063a1d444229b5f89f6102d1f70]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/3) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/c)
+[^c-ba971063a1d444229b5f89f6102d1f70]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3/3) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/2/c)
 
-[^key-abfd60ebaaf3bacdc9425722a8e70fa5]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3A) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/3)
+[^c-abfd60ebaaf3bacdc9425722a8e70fa5]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2018/1395/regulation/3A) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/3)
 
-[^key-97addadc7a39459354192ca4b5047f69]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1395/regulation/4) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/4)
+[^c-97addadc7a39459354192ca4b5047f69]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1395/regulation/4) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/4)
 
-[^key-51eae710cd7b1cf8db9cda4c4252bea5]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/1) substituted (31.12.2020) by [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51eae710cd7b1cf8db9cda4c4252bea5]: Textual amendment: Word in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/1) substituted (31.12.2020) by [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f497169c9c6fc124ccbb4567708f713a]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/1/b)[(c)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/1/c) substituted for [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/1/b) (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/5)
+[^c-f497169c9c6fc124ccbb4567708f713a]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/1/b)[(c)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/1/c) substituted for [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/1/b) (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/5)
 
-[^key-a6223628d6414705c130716ced7250b3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1395/regulation/6) heading substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/6/a)
+[^c-a6223628d6414705c130716ced7250b3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2018/1395/regulation/6) heading substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/6/a)
 
-[^key-05f7f3bbcdf54acaa4475e92bebf3250]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/6/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/6/b)
+[^c-05f7f3bbcdf54acaa4475e92bebf3250]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/6/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/6/b)
 
 [^c23501351]: Marginal citation: [1985 c.67](https://www.legislation.gov.uk/ukpga/1985/67).
 
 [^c23501361]: Marginal citation: [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-bccbf200b434e2c5525077cb0ff29f15]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/6/3) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/6/c)
+[^c-bccbf200b434e2c5525077cb0ff29f15]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/6/3) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/6/c)
 
-[^key-d5721bd0cf553f3b0a642a546c349fc0]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/a/i)
+[^c-d5721bd0cf553f3b0a642a546c349fc0]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/a/i)
 
-[^key-1193ff5caf6bf4de69f0e4e8381e7469]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/1) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/a/ii)
+[^c-1193ff5caf6bf4de69f0e4e8381e7469]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/1) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/a/ii)
 
-[^key-d25eb593a0423bc2ff98576f3702ee80]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/2) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/b/i)
+[^c-d25eb593a0423bc2ff98576f3702ee80]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/2) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/b/i)
 
-[^key-55315b00263e8f53a593d323d37803e0]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/2) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/b/ii)
+[^c-55315b00263e8f53a593d323d37803e0]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/2) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/b/ii)
 
-[^key-c08ffa68f4942c16c43aafd4282e5ac0]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/4) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(c)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/c)
+[^c-c08ffa68f4942c16c43aafd4282e5ac0]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/7/4) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(7)(c)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/7/c)
 
-[^key-ef90bc0a3278afd051ff8c6bec67919e]: Textual amendment: [Regs. 8-11](https://www.legislation.gov.uk/uksi/2018/1395/regulation/8) omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef90bc0a3278afd051ff8c6bec67919e]: Textual amendment: [Regs. 8-11](https://www.legislation.gov.uk/uksi/2018/1395/regulation/8) omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-05d2f275d24a1c8b5baccb7da4c2e4a6]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12) heading omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05d2f275d24a1c8b5baccb7da4c2e4a6]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12) heading omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a6d4237edf86e0ab498b20f5c6912db9]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/1) substituted (31.12.2020) by [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6d4237edf86e0ab498b20f5c6912db9]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/1) substituted (31.12.2020) by [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ac26e98c199acbd8dd8d50a92c3bbfda]: Textual amendment: Words [reg. 12(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/1/a) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/8)
+[^c-ac26e98c199acbd8dd8d50a92c3bbfda]: Textual amendment: Words [reg. 12(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/1/a) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/8)
 
-[^key-f423f7a16e41aaef8145ec3206779a18]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/2) substituted (31.12.2020) by [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(c)(i)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f423f7a16e41aaef8145ec3206779a18]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/2) substituted (31.12.2020) by [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(c)(i)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-842d2948520d7ab2faee59111cbb34dc]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/2) omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-842d2948520d7ab2faee59111cbb34dc]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/2) omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-69e8387d1393d03f921eb5b393b3a91f]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/3) omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(d)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69e8387d1393d03f921eb5b393b3a91f]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/12/3) omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(6)(d)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e169b2cd37f9b852a630b11c85f6b02]: Textual amendment: [Reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/13/1/a) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/9)
+[^c-8e169b2cd37f9b852a630b11c85f6b02]: Textual amendment: [Reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/13/1/a) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/9)
 
 [^c23501371]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52); [section 66B](https://www.legislation.gov.uk/uksi/2018/1395/section/66B) was inserted by [S.I 2011/996](https://www.legislation.gov.uk/uksi/2018/1395/section/I).
 
-[^key-891aafd44a3e3319e3fa71fc8bdbc231]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/1395/regulation/14) omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-891aafd44a3e3319e3fa71fc8bdbc231]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/1395/regulation/14) omitted (31.12.2020) by virtue of [The Common Rules for Access to the International Market for Coach and Bus Services (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/741)](https://www.legislation.gov.uk/uksi/2019/741), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/741/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/741/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23501381]: Marginal citation: [1972 c.27](https://www.legislation.gov.uk/ukpga/1972/27).
 
-[^key-a77019c75dd762fc7fda988284f2f4a1]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/16/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/10)
+[^c-a77019c75dd762fc7fda988284f2f4a1]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/16/1) substituted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/10)
 
-[^key-9c97ddc7494bd96adf2c90fc0a75d358]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1395/schedule/1) omitted (1.4.2025) by virtue of [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/11)
+[^c-9c97ddc7494bd96adf2c90fc0a75d358]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1395/schedule/1) omitted (1.4.2025) by virtue of [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/3/11)
 
-[^key-399ba2c0432c0705d1461069a89069b2]: Textual amendment: [Schs. 3](https://www.legislation.gov.uk/uksi/2018/1395/schedule/3), [4](https://www.legislation.gov.uk/uksi/2018/1395/schedule/4) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1370/schedule/1)
+[^c-399ba2c0432c0705d1461069a89069b2]: Textual amendment: [Schs. 3](https://www.legislation.gov.uk/uksi/2018/1395/schedule/3), [4](https://www.legislation.gov.uk/uksi/2018/1395/schedule/4) inserted (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1370/schedule/1)

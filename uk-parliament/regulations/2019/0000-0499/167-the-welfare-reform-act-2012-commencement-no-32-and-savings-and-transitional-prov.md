@@ -56,7 +56,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - “**jobseeker's allowance**” means a jobseeker's allowance under the Jobseekers Act 1995 [^c23550161];
 - “joint-claim couple” has the same meanings as in the Jobseeker's Act 1995;
 - “**Her Majesty's forces**” has the same meaning as in the Armed Forces Act 2006 [^c23550171];
-- “[^key-4dbbee3448f4b955ae2077dbbe329df7]**migration notice**” means a notice under regulation 44 (migration notice) of the Universal Credit (Transitional Provisions) Regulations 2014 or a notice under regulation 45 (migration notice) of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016;
+- “[^c-4dbbee3448f4b955ae2077dbbe329df7]**migration notice**” means a notice under regulation 44 (migration notice) of the Universal Credit (Transitional Provisions) Regulations 2014 or a notice under regulation 45 (migration notice) of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016;
 - “**mixed-age couple**” means a couple, one member of which has attained the qualifying age and the other of which has not;
 - “**notified person**” means a person to whom a notice has been issued under article 3A (tax credit closure notice);
 - “**polygamous unit**” means a polygamous unit within the meaning of the Tax Credits (Polygamous Marriages) Regulations 2003 [^c23550181];
@@ -71,7 +71,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - “**UC single claimant**” means a single claimant as defined in section 40 of the Act for Great Britain or Article 46 of the 2015 Order (N.I.) for Northern Ireland (in article 4, as defined in that section 40);
 - “**UC transitional provisions**” means the orders made under section 150(3) of the Act or Article 2(2) of the 2015 Order (N.I.) that commence the UC provisions, or the provisions listed in Schedule 1 to the No. 8 Order (N.I.), respectively, and the regulations made under Schedule 6 to the Act or Schedule 6 to the 2015 Order (N.I.).
 
-(3)[^key-642b038000fa14225409941fed93f3e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-642b038000fa14225409941fed93f3e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Commencement of provisions on abolition of tax credits
 
@@ -79,7 +79,7 @@ The day appointed for the coming into force of section 33(1)(f) of the Act (abol
 
 ## 3. Savings
 
-(1) Subject to articles 3A (tax credit closure notice) and 3B (saving to cease following issue of tax credit closure notice),[^key-34ad8e8fbef0f115fc372b0689cd9546] section 33(1)(f) of the Act, and the repeal of Part 1 of the 2002 Act (but not Schedule 1 or 3) by Part 1 of Schedule 14 to the Act, shall be treated as though they had not come into force, in relation to a case as referred to in paragraph (2), (3), (4), (5) or (9).
+(1) Subject to articles 3A (tax credit closure notice) and 3B (saving to cease following issue of tax credit closure notice),[^c-34ad8e8fbef0f115fc372b0689cd9546] section 33(1)(f) of the Act, and the repeal of Part 1 of the 2002 Act (but not Schedule 1 or 3) by Part 1 of Schedule 14 to the Act, shall be treated as though they had not come into force, in relation to a case as referred to in paragraph (2), (3), (4), (5) or (9).
 
 (2) The case referred to is the case of an award of a tax credit that has effect for a period that includes 31st January 2019.
 
@@ -125,9 +125,9 @@ where, on the day on which the claim is made, a member of the couple, or a membe
 
 (9) The case referred to is the case of an award of a tax credit that had effect for a period that ended on or before 30th January 2019.
 
-(10)[^key-5b82837000a417ad56912dadf51f8fc4] Paragraph (1) applies to a case of an award of a tax credit only if the period for which the award has effect ends before 6th April 2025.
+(10)[^c-5b82837000a417ad56912dadf51f8fc4] Paragraph (1) applies to a case of an award of a tax credit only if the period for which the award has effect ends before 6th April 2025.
 
-## 3A. Tax credit closure notice[^key-d157358b18cc4c8eeadde77cf994268e]
+## 3A. Tax credit closure notice[^c-d157358b18cc4c8eeadde77cf994268e]
 
 (1) The Secretary of State (or, in Northern Ireland, the Department) may, at any time, issue a notice (“a tax credit closure notice”) to—
 
@@ -141,14 +141,14 @@ informing the person that their tax credit award is to end by a specified day (�
 
 (2) The tax credit closure notice may contain such other information as the Secretary of State or the Department considers appropriate.
 
-(3) The deadline day must not, subject to paragraphs (4) and (4A)[^key-f6f4c380a497b760f2b52a125e400a24], be within the period of three months beginning with the day on which the tax credit closure notice is issued.
+(3) The deadline day must not, subject to paragraphs (4) and (4A)[^c-f6f4c380a497b760f2b52a125e400a24], be within the period of three months beginning with the day on which the tax credit closure notice is issued.
 
 (4) The deadline day may be within such shorter period as the Secretary of State or the Department considers appropriate where—
 
 - (a) the person is entitled to an award of state pension credit when the tax credit closure notice is issued; or
 - (b) the tax credit closure notice is issued after cancellation of a previous tax credit closure notice or after cancellation of a migration notice issued to that person.
 
-(4A)[^key-82280d893ca49df66799bc30ada7d710] Where the tax credit closure notice is issued on or after 27th January 2025 and before 6th April 2025, the deadline day may be 6th April 2025.
+(4A)[^c-82280d893ca49df66799bc30ada7d710] Where the tax credit closure notice is issued on or after 27th January 2025 and before 6th April 2025, the deadline day may be 6th April 2025.
 
 (5) If the tax credit award is to joint claimants the Secretary of State or the Department must issue a tax credit closure notice to each claimant.
 
@@ -213,7 +213,7 @@ and the reference in paragraph (1) to a person who is entitled to a tax credit i
 
 (10) Article 7 of the No. 23 Order applies as though the reference in paragraph (1) of that article to article 3(1) and (2)(a) to (c) of that Order included a reference to paragraphs (1) and (2).
 
-(11)[^key-80603101bf2aee71d5415828bd946e53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-80603101bf2aee71d5415828bd946e53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) Articles 9 to 22 of the No. 9 Order apply in connection with the coming into force of the provisions referred to in article 4(1)(a) to (c) of the No. 9 Order, in relation to the case of a claim referred to in paragraph (6), and any award made in respect of the claim, as they apply in connection with the coming into force of those provisions in relation to the case of a claim referred to in sub-paragraph (a) or (g) of article 4(2) of the No. 9 Order [^c23550231] and any award that is made in respect of the claim.
 
@@ -367,29 +367,29 @@ In these cases it will be possible for a claimant to make a claim for a tax cred
 
 [^c23550171]: Marginal citation: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-4dbbee3448f4b955ae2077dbbe329df7]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2019/167/article/1) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/611/regulation/3/2)
+[^c-4dbbee3448f4b955ae2077dbbe329df7]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2019/167/article/1) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/611/regulation/3/2)
 
 [^c23550181]: Marginal citation: [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742).
 
 [^c23550191]: Marginal citation: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-642b038000fa14225409941fed93f3e7]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2019/167/article/1/3) omitted (30.3.2022) by virtue of [The Welfare Reform Act 2012 (Commencement No. 34 and Commencement No. 9, 21, 23, 31 and 32 and Transitional and Transitory Provisions (Amendment)) Order 2022 (S.I. 2022/302)](https://www.legislation.gov.uk/uksi/2022/302), [art. 4(1)](https://www.legislation.gov.uk/uksi/2022/302/article/4/1)[(3)](https://www.legislation.gov.uk/uksi/2022/302/article/4/3)
+[^c-642b038000fa14225409941fed93f3e7]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2019/167/article/1/3) omitted (30.3.2022) by virtue of [The Welfare Reform Act 2012 (Commencement No. 34 and Commencement No. 9, 21, 23, 31 and 32 and Transitional and Transitory Provisions (Amendment)) Order 2022 (S.I. 2022/302)](https://www.legislation.gov.uk/uksi/2022/302), [art. 4(1)](https://www.legislation.gov.uk/uksi/2022/302/article/4/1)[(3)](https://www.legislation.gov.uk/uksi/2022/302/article/4/3)
 
-[^key-34ad8e8fbef0f115fc372b0689cd9546]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2019/167/article/3/1) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/611/regulation/3/3)
+[^c-34ad8e8fbef0f115fc372b0689cd9546]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2019/167/article/3/1) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/611/regulation/3/3)
 
 [^c23550211]: Marginal citation: [S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014).
 
-[^key-5b82837000a417ad56912dadf51f8fc4]: Textual amendment: [Art. 3(10)](https://www.legislation.gov.uk/uksi/2019/167/article/3/10) inserted (6.4.2025) by [The Social Security (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/3)](https://www.legislation.gov.uk/uksi/2025/3), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/3/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2025/3/regulation/7/2)
+[^c-5b82837000a417ad56912dadf51f8fc4]: Textual amendment: [Art. 3(10)](https://www.legislation.gov.uk/uksi/2019/167/article/3/10) inserted (6.4.2025) by [The Social Security (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/3)](https://www.legislation.gov.uk/uksi/2025/3), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/3/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2025/3/regulation/7/2)
 
-[^key-d157358b18cc4c8eeadde77cf994268e]: Textual amendment: [Arts. 3A](https://www.legislation.gov.uk/uksi/2019/167/article/3A), [3B](https://www.legislation.gov.uk/uksi/2019/167/article/3B) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/611/regulation/3/4)
+[^c-d157358b18cc4c8eeadde77cf994268e]: Textual amendment: [Arts. 3A](https://www.legislation.gov.uk/uksi/2019/167/article/3A), [3B](https://www.legislation.gov.uk/uksi/2019/167/article/3B) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations 2024 (S.I. 2024/611)](https://www.legislation.gov.uk/uksi/2024/611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/611/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/611/regulation/3/4)
 
-[^key-f6f4c380a497b760f2b52a125e400a24]: Textual amendment: Words in [art. 3A(3)](https://www.legislation.gov.uk/uksi/2019/167/article/3A/3) substituted (27.1.2025) by [The Social Security (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/3)](https://www.legislation.gov.uk/uksi/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/3/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2025/3/regulation/7/3/a)
+[^c-f6f4c380a497b760f2b52a125e400a24]: Textual amendment: Words in [art. 3A(3)](https://www.legislation.gov.uk/uksi/2019/167/article/3A/3) substituted (27.1.2025) by [The Social Security (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/3)](https://www.legislation.gov.uk/uksi/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/3/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2025/3/regulation/7/3/a)
 
-[^key-82280d893ca49df66799bc30ada7d710]: Textual amendment: [Art. 3A(4A)](https://www.legislation.gov.uk/uksi/2019/167/article/3A/4A) inserted (27.1.2025) by [The Social Security (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/3)](https://www.legislation.gov.uk/uksi/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/3/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2025/3/regulation/7/3/b)
+[^c-82280d893ca49df66799bc30ada7d710]: Textual amendment: [Art. 3A(4A)](https://www.legislation.gov.uk/uksi/2019/167/article/3A/4A) inserted (27.1.2025) by [The Social Security (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/3)](https://www.legislation.gov.uk/uksi/2025/3), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/3/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2025/3/regulation/7/3/b)
 
 [^c23550221]: Marginal citation: [Article 4(1)](https://www.legislation.gov.uk/uksi/2019/167/article/4/1) was substituted by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452) (C. 56).
 
-[^key-80603101bf2aee71d5415828bd946e53]: Textual amendment: [Art. 4(11)](https://www.legislation.gov.uk/uksi/2019/167/article/4/11) omitted (30.3.2022) by virtue of [The Welfare Reform Act 2012 (Commencement No. 34 and Commencement No. 9, 21, 23, 31 and 32 and Transitional and Transitory Provisions (Amendment)) Order 2022 (S.I. 2022/302)](https://www.legislation.gov.uk/uksi/2022/302), [art. 4(1)](https://www.legislation.gov.uk/uksi/2022/302/article/4/1)[(4)](https://www.legislation.gov.uk/uksi/2022/302/article/4/4)
+[^c-80603101bf2aee71d5415828bd946e53]: Textual amendment: [Art. 4(11)](https://www.legislation.gov.uk/uksi/2019/167/article/4/11) omitted (30.3.2022) by virtue of [The Welfare Reform Act 2012 (Commencement No. 34 and Commencement No. 9, 21, 23, 31 and 32 and Transitional and Transitory Provisions (Amendment)) Order 2022 (S.I. 2022/302)](https://www.legislation.gov.uk/uksi/2022/302), [art. 4(1)](https://www.legislation.gov.uk/uksi/2022/302/article/4/1)[(4)](https://www.legislation.gov.uk/uksi/2022/302/article/4/4)
 
 [^c23550231]: Marginal citation: [Article 4(2)](https://www.legislation.gov.uk/uksi/2019/167/article/4/2) was substituted by [S.I. 2014/1452](https://www.legislation.gov.uk/uksi/2014/1452) (C. 56); sub-paragraph (a) was amended by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923) (C. 88) and 2018/138 (C. 13); sub-paragraph (g) was amended by [S.I. 2014/1923](https://www.legislation.gov.uk/uksi/2014/1923) (C. 88).
 

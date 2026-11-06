@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Notification requirements in relation to seed potatoes[^key-db38174f0f9df8f2d8d117c4206224c5]
+## 24. Notification requirements in relation to seed potatoes[^c-db38174f0f9df8f2d8d117c4206224c5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db38174f0f9df8f2d8d117c4206224c5]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/1517/regulation/24) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [12(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/12/2)
+[^c-db38174f0f9df8f2d8d117c4206224c5]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/1517/regulation/24) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [12(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/12/2)

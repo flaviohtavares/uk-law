@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Payment of pension credit member’s pension[^key-425d59737e9ba18a02d47b59289e64eb]
+## 118. Payment of pension credit member’s pension[^c-425d59737e9ba18a02d47b59289e64eb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A pension credit member’s pension is payable in respect of each month as from 
 
 ## Annotations
 
-[^key-425d59737e9ba18a02d47b59289e64eb]: Commencement: Reg. 118 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-425d59737e9ba18a02d47b59289e64eb]: Commencement: Reg. 118 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

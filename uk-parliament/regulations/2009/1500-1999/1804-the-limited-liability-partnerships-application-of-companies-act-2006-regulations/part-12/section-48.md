@@ -44,8 +44,8 @@ Sections 994 to 996 [^c19765361] apply to LLPs, modified so that they read as fo
 >
 > - (a) the Secretary of State has received a report under section 437 of the Companies Act 1985 (c. 6) (inspector's report);
 > - (b) the Secretary of State has exercised his powers under section 447 or 448 of that Act (powers to require documents and information or to enter and search premises);
-> - (c) the Secretary of State, the Bank of England, the Financial Conduct Authority or the Prudential Regulation Authority[^key-c55e875c4af723646bbf5642111ee85e] has exercised his or its powers under Part 11 of the Financial Services and Markets Act 2000 (c. 8) (information gathering and investigations); or
-> - (d) the Secretary of State has received a report from an investigator appointed by the Secretary of State, the Bank of England, the Financial Conduct Authority or the Prudential Regulation Authority[^key-00f7ca4509c89868da14c59d8ec3f144] under that Part.
+> - (c) the Secretary of State, the Bank of England, the Financial Conduct Authority or the Prudential Regulation Authority[^c-c55e875c4af723646bbf5642111ee85e] has exercised his or its powers under Part 11 of the Financial Services and Markets Act 2000 (c. 8) (information gathering and investigations); or
+> - (d) the Secretary of State has received a report from an investigator appointed by the Secretary of State, the Bank of England, the Financial Conduct Authority or the Prudential Regulation Authority[^c-00f7ca4509c89868da14c59d8ec3f144] under that Part.
 >
 > (2) If it appears to the Secretary of State that in the case of such an LLP—
 >
@@ -76,6 +76,6 @@ Sections 994 to 996 [^c19765361] apply to LLPs, modified so that they read as fo
 
 [^c19765361]: Marginal citation: [Section 994](https://www.legislation.gov.uk/uksi/2009/1804/section/994) was amended by regulation 42 of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).
 
-[^key-c55e875c4af723646bbf5642111ee85e]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2009/1804/regulation/48) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 174(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/174/a)
+[^c-c55e875c4af723646bbf5642111ee85e]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2009/1804/regulation/48) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 174(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/174/a)
 
-[^key-00f7ca4509c89868da14c59d8ec3f144]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2009/1804/regulation/48) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 174(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/174/b)
+[^c-00f7ca4509c89868da14c59d8ec3f144]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/uksi/2009/1804/regulation/48) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 174(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/174/b)

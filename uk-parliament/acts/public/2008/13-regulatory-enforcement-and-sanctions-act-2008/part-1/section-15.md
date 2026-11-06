@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Guidance or directions by the Secretary of State[^key-291a9c203cdac4c7310f128f1ad1c64e]
+## 15. Guidance or directions by the Secretary of State[^c-291a9c203cdac4c7310f128f1ad1c64e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-291a9c203cdac4c7310f128f1ad1c64e]: Textual amendment: S. 15 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-291a9c203cdac4c7310f128f1ad1c64e]: Textual amendment: S. 15 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))

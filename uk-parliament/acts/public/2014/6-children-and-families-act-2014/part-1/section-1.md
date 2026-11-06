@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Contact between prescribed persons and adopted person's relatives[^key-fd3e9d7c72dc8e4a9bde86988c88a8b3][^key-d5d8ea3138e9f3f1a8274f0423ca54fe]
+## 1. Contact between prescribed persons and adopted person's relatives[^c-fd3e9d7c72dc8e4a9bde86988c88a8b3][^c-d5d8ea3138e9f3f1a8274f0423ca54fe]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd3e9d7c72dc8e4a9bde86988c88a8b3]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/6/section/1) in force at 25.7.2014 for E. by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(a)](https://www.legislation.gov.uk/uksi/2014/889/article/6/a)
+[^c-fd3e9d7c72dc8e4a9bde86988c88a8b3]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/6/section/1) in force at 25.7.2014 for E. by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(a)](https://www.legislation.gov.uk/uksi/2014/889/article/6/a)
 
-[^key-d5d8ea3138e9f3f1a8274f0423ca54fe]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/6/section/1) in force at 19.10.2015 for W. by [S.I. 2015/1808](https://www.legislation.gov.uk/wsi/2015/1808), [art. 2](https://www.legislation.gov.uk/wsi/2015/1808/article/2)
+[^c-d5d8ea3138e9f3f1a8274f0423ca54fe]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/6/section/1) in force at 19.10.2015 for W. by [S.I. 2015/1808](https://www.legislation.gov.uk/wsi/2015/1808), [art. 2](https://www.legislation.gov.uk/wsi/2015/1808/article/2)

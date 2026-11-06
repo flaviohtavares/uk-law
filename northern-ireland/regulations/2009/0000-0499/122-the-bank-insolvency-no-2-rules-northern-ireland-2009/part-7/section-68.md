@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Estimate of quantum[^key-ae8b41873d1e6f737e60ad75c0ed7730]
+## 68. Estimate of quantum[^c-ae8b41873d1e6f737e60ad75c0ed7730]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.092 of the 1991 Rules.
 
 ## Annotations
 
-[^key-ae8b41873d1e6f737e60ad75c0ed7730]: Commencement: Rule 68 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-ae8b41873d1e6f737e60ad75c0ed7730]: Commencement: Rule 68 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

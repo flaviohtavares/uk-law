@@ -38,8 +38,8 @@ Regulation 7(3)
 
 **8.** Measures for maintenance of safety and environmental protection standards as an organisational core value.
 
-**9.** The extent to which the particulars in paragraphs 1 to 8 are applied in the duty holder's offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^key-bd72fbff4645dbaf61185e1102fdd855] conducted outside the European Union.
+**9.** The extent to which the particulars in paragraphs 1 to 8 are applied in the duty holder's offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^c-bd72fbff4645dbaf61185e1102fdd855] conducted outside the European Union.
 
 ## Annotations
 
-[^key-bd72fbff4645dbaf61185e1102fdd855]: Textual amendment: Words in Sch. 1 para. 9 inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(11)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/11)
+[^c-bd72fbff4645dbaf61185e1102fdd855]: Textual amendment: Words in Sch. 1 para. 9 inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(11)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 423. “Restricted securities” and “restricted interest in securities”[^key-070a79afdd5048639efb19720520cf9b]
+## 423. “Restricted securities” and “restricted interest in securities”[^c-070a79afdd5048639efb19720520cf9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-070a79afdd5048639efb19720520cf9b]: Textual amendment: Pt. 7 Ch. 2 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 3(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 3(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/3/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-070a79afdd5048639efb19720520cf9b]: Textual amendment: Pt. 7 Ch. 2 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 3(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 3(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/3/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)

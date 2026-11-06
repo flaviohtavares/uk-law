@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**40.**[^key-77b4c7df1ad1646ba278d07b68575740] The community council of Reynoldston is dissolved.
+**40.**[^c-77b4c7df1ad1646ba278d07b68575740] The community council of Reynoldston is dissolved.
 
 ## Annotations
 
-[^key-77b4c7df1ad1646ba278d07b68575740]: Commencement: [Art. 40](https://www.legislation.gov.uk/wsi/2026/95/article/40) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-77b4c7df1ad1646ba278d07b68575740]: Commencement: [Art. 40](https://www.legislation.gov.uk/wsi/2026/95/article/40) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

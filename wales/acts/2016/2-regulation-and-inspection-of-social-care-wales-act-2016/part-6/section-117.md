@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Fitness to practise[^key-bdecc99b2f739cbc1592b1e8edf2e2f5]
+## 117. Fitness to practise[^c-bdecc99b2f739cbc1592b1e8edf2e2f5]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 (4) In subsection (1)(d) “**relevant body**” means—
 
-- (a) the Health and Care Professions Council or Social Work England[^key-b2cd80d0c49bb6a30f8e52a47c977928];
+- (a) the Health and Care Professions Council or Social Work England[^c-b2cd80d0c49bb6a30f8e52a47c977928];
 - (b) the Nursing and Midwifery Council;
 - (c) the Scottish Social Services Council;
 - (d) the Northern Ireland Social Care Council;
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdecc99b2f739cbc1592b1e8edf2e2f5]: Commencement: S. 117 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-bdecc99b2f739cbc1592b1e8edf2e2f5]: Commencement: S. 117 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-b2cd80d0c49bb6a30f8e52a47c977928]: Textual amendment: Words in s. 117(4)(a) inserted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 41(b)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/41/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-b2cd80d0c49bb6a30f8e52a47c977928]: Textual amendment: Words in s. 117(4)(a) inserted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 41(b)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/41/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) In sections 68 and 69 references to a person serving a sentence of imprisonment include a person aged 18 or over who is—
 
-- (a) detained pursuant to directions [^key-60b97f5516cac93069fd10315687e735]... under Article 45 of the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9)), or
+- (a) detained pursuant to directions [^c-60b97f5516cac93069fd10315687e735]... under Article 45 of the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9)), or
 - (b) detained in a young offenders centre as the result of an order of the Crown Court.
 
 (2) In sections 68 and 69 references to a person serving a sentence of imprisonment in Northern Ireland—
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60b97f5516cac93069fd10315687e735]: Textual amendment: Words in [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2002/26/section/70/1/a) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 17](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/17) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-60b97f5516cac93069fd10315687e735]: Textual amendment: Words in [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2002/26/section/70/1/a) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 17](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/17) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c20703001]: Textual amendment: S. 70(4)-(7) inserted (14.12.2008) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2004/28/section/46/3), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60); [S.I. 2008/3065](https://www.legislation.gov.uk/uksi/2008/3065), [art. 2](https://www.legislation.gov.uk/uksi/2008/3065/article/2)

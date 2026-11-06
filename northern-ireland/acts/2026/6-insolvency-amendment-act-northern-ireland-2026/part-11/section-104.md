@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Notice of result of resolution to wind up voluntarily[^key-ea8bb151e442247d4941143c443e4ba2]
+## 104. Notice of result of resolution to wind up voluntarily[^c-ea8bb151e442247d4941143c443e4ba2]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea8bb151e442247d4941143c443e4ba2]: Commencement: S. 104 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-ea8bb151e442247d4941143c443e4ba2]: Commencement: S. 104 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

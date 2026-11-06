@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-1f5a509ebd2b79ceb369be878f72cba7]
+## 1. Citation and commencement[^c-1f5a509ebd2b79ceb369be878f72cba7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as The London Gateway Port Harbour Empowerment Order 200
 
 ## Annotations
 
-[^key-1f5a509ebd2b79ceb369be878f72cba7]: Commencement: Art. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-1f5a509ebd2b79ceb369be878f72cba7]: Commencement: Art. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

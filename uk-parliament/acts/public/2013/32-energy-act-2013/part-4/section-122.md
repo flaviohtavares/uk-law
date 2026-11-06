@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Warrants for the purposes of section 121[^key-a3a5b429afb2bf4d81ef4db817a96811]
+## 122. Warrants for the purposes of section 121[^c-a3a5b429afb2bf4d81ef4db817a96811]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3a5b429afb2bf4d81ef4db817a96811]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2013/32/section/122) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-a3a5b429afb2bf4d81ef4db817a96811]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2013/32/section/122) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)

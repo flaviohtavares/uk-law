@@ -534,7 +534,7 @@ Section 39
 
 ### Audit Commission Act 1998 (c. 18)
 
-**59.**[^key-167eae93147353b5eb6ac39eb7e584a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-167eae93147353b5eb6ac39eb7e584a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Data Protection Act 1998 (c. 29)
 
@@ -621,7 +621,7 @@ Section 39
 **76.** In section 114 (complaints about social services) in subsection (5)—
 
 - (a) in paragraph (a), omit “who is a member of the Commission for Local Administration in England”;
-- (b)[^key-d7c3aff72ed987ba8d43afa525b79acb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d7c3aff72ed987ba8d43afa525b79acb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Audit (Wales) Act 2004 (c. 23)
 
@@ -639,7 +639,7 @@ Section 39
 
 [^c20339701]: Textual amendment: Sch. 6 para. 20 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8](https://www.legislation.gov.uk/ukpga/2006/43/section/8), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-167eae93147353b5eb6ac39eb7e584a3]: Textual amendment: [Sch. 6 para. 59](https://www.legislation.gov.uk/ukpga/2005/10/schedule/6/paragraph/59) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-167eae93147353b5eb6ac39eb7e584a3]: Textual amendment: [Sch. 6 para. 59](https://www.legislation.gov.uk/ukpga/2005/10/schedule/6/paragraph/59) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
 [^c20336041]: Commencement: Sch. 6 paras. 61-63 wholly in force at 1.4.2006; Sch. 6 paras. 61-63 not in force at Royal Assent see s. 40; Sch. 6 paras. 61-63 in force for certain purposes at 12.10.2005 and wholly in force at 1.4.2006 by [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [arts. 3(a)](https://www.legislation.gov.uk/uksi/2005/2800/article/3/a), [5(1)(3)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2800/schedule/1/part/1)
 
@@ -649,4 +649,4 @@ Section 39
 
 [^c20339251]: Textual amendment: Sch. 6 paras. 62-64 repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 161](https://www.legislation.gov.uk/ukpga/2006/32/section/161), [163](https://www.legislation.gov.uk/ukpga/2006/32/section/163), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/32/schedule/12) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
 
-[^key-d7c3aff72ed987ba8d43afa525b79acb]: Textual amendment: [Sch. 6 para. 76(b)](https://www.legislation.gov.uk/ukpga/2005/10/schedule/6/paragraph/76/b) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [230](https://www.legislation.gov.uk/wsi/2016/413/regulation/230)
+[^c-d7c3aff72ed987ba8d43afa525b79acb]: Textual amendment: [Sch. 6 para. 76(b)](https://www.legislation.gov.uk/ukpga/2005/10/schedule/6/paragraph/76/b) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [230](https://www.legislation.gov.uk/wsi/2016/413/regulation/230)

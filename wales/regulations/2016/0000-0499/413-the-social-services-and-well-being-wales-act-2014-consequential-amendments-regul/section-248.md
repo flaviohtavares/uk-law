@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**248.**[^key-7091b8dbe061618abde3a2ada00dfeea] In section 192 (local social services authorities)—
+**248.**[^c-7091b8dbe061618abde3a2ada00dfeea] In section 192 (local social services authorities)—
 
 - (a) omit subsection (1);
 - (b) in subsection (4), omit paragraph (b) and “or” before it;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7091b8dbe061618abde3a2ada00dfeea]: Commencement: Reg. 248 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7091b8dbe061618abde3a2ada00dfeea]: Commencement: Reg. 248 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

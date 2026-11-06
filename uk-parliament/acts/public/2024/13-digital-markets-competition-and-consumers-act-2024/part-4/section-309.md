@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309. Consequential amendments etc relating to this Chapter[^key-eda09578fe689a91c78151cc876564d3][^key-48de78e66e25eee7b014497812a9e5b0]
+## 309. Consequential amendments etc relating to this Chapter[^c-eda09578fe689a91c78151cc876564d3][^c-48de78e66e25eee7b014497812a9e5b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 27 contains consequential amendments, repeals and revocations relating 
 
 ## Annotations
 
-[^key-eda09578fe689a91c78151cc876564d3]: Commencement: S. 309 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-eda09578fe689a91c78151cc876564d3]: Commencement: S. 309 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-48de78e66e25eee7b014497812a9e5b0]: Commencement: [S. 309](https://www.legislation.gov.uk/ukpga/2024/13/section/309) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
+[^c-48de78e66e25eee7b014497812a9e5b0]: Commencement: [S. 309](https://www.legislation.gov.uk/ukpga/2024/13/section/309) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)

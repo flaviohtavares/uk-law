@@ -43,17 +43,17 @@ The Department for Social Development makes the following Regulations in exercis
 
 It is satisfied of the matters referred to in section 108(2)(a) and (b) of that Act.
 
-## 1. Citation and commencement[^key-f042ac749e3826d07b088d39186fb540]
+## 1. Citation and commencement[^c-f042ac749e3826d07b088d39186fb540]
 
 These Regulations may be cited as the Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 6th April 2006.
 
-## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^key-e2b7dfd97bd15e266e1c5d12a0a62376]
+## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^c-e2b7dfd97bd15e266e1c5d12a0a62376]
 
 (1) The Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986[^f00003] shall be amended in accordance with paragraphs (2) to (4).
 
 (2) In regulation 1(2) (interpretation) in the definition of “primary carcinoma of the lung”[^f00004] after “D8” there shall be inserted “, D8A”.
 
-(3)[^key-debdf8ec49d802a7758b05291a52db2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-debdf8ec49d802a7758b05291a52db2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Part I of Schedule 1 (list of prescribed diseases and the occupations for which they are prescribed)—
 
@@ -81,11 +81,11 @@ These Regulations may be cited as the Social Security (Industrial Injuries) (Pre
 
   .
 
-## 3. Transitional provision[^key-e43fe59726d625901921824972aedbde]
+## 3. Transitional provision[^c-e43fe59726d625901921824972aedbde]
 
 Regulation 2(4)(a) and (c) shall not apply to a period of assessment which relates to a claim which is made before the date on which these Regulations come into operation.
 
-## 4. Revocations[^key-d22b3136e95263fda8842c4c65e47979]
+## 4. Revocations[^c-d22b3136e95263fda8842c4c65e47979]
 
 Regulation 2(4)(b) and (c) of the Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations (Northern Ireland) 1997[^f00009] and regulation 2(4)(r) of the Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2003[^f00010] are revoked.
 
@@ -121,15 +121,15 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-f042ac749e3826d07b088d39186fb540]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1)
+[^c-f042ac749e3826d07b088d39186fb540]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1)
 
-[^key-e2b7dfd97bd15e266e1c5d12a0a62376]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1)
+[^c-e2b7dfd97bd15e266e1c5d12a0a62376]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1986 No. 179](https://www.legislation.gov.uk/nisr/1986/179); relevant amending regulations are [S.R. 1993 No. 148](https://www.legislation.gov.uk/nisr/1993/148), [S.R. 1997 No. 158](https://www.legislation.gov.uk/nisr/1997/158), [S.R. 2002 No. 237](https://www.legislation.gov.uk/nisr/2002/237) and [S.R. 2003 No. 63](https://www.legislation.gov.uk/nisr/2003/63)
 
 [^f00004]: Footnote: The definition of “primary carcinoma of the lung” was inserted by regulation 2(b) of [S.R. 1993 No. 148](https://www.legislation.gov.uk/nisr/1993/148)
 
-[^key-debdf8ec49d802a7758b05291a52db2d]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2006/96/regulation/2/3) revoked (16.3.2015) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/52)](https://www.legislation.gov.uk/nisr/2015/52), [reg. 1](https://www.legislation.gov.uk/nisr/2015/52/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/52/schedule)
+[^c-debdf8ec49d802a7758b05291a52db2d]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2006/96/regulation/2/3) revoked (16.3.2015) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/52)](https://www.legislation.gov.uk/nisr/2015/52), [reg. 1](https://www.legislation.gov.uk/nisr/2015/52/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/52/schedule)
 
 [^f00006]: Footnote: Prescribed disease C24 was substituted by regulation 2(4)(r) of [S.R. 2003 No. 63](https://www.legislation.gov.uk/nisr/2003/63)
 
@@ -137,9 +137,9 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00008]: Footnote: Prescribed disease D9 was amended by regulation 2(4)(c) of [S.R. 1997 No. 158](https://www.legislation.gov.uk/nisr/1997/158)
 
-[^key-e43fe59726d625901921824972aedbde]: Commencement: Reg. 3 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1)
+[^c-e43fe59726d625901921824972aedbde]: Commencement: Reg. 3 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1)
 
-[^key-d22b3136e95263fda8842c4c65e47979]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1)
+[^c-d22b3136e95263fda8842c4c65e47979]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1997 No. 158](https://www.legislation.gov.uk/nisr/1997/158)
 

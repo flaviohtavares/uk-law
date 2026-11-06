@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Image deletion orders[^key-8d5f343614e7a6e8c87cd0a8c5fed331]
+## 102. Image deletion orders[^c-8d5f343614e7a6e8c87cd0a8c5fed331]
 
 *Extent: E+W*
 
@@ -128,4 +128,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d5f343614e7a6e8c87cd0a8c5fed331]: Commencement: S. 102 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8d5f343614e7a6e8c87cd0a8c5fed331]: Commencement: S. 102 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Variation of accreditation[^key-4b1226b795adac9b80782f25551af67e]
+## 99. Variation of accreditation[^c-4b1226b795adac9b80782f25551af67e]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ and in any other case must be refused.
 
 ## Annotations
 
-[^key-4b1226b795adac9b80782f25551af67e]: Commencement: Reg. 99 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-4b1226b795adac9b80782f25551af67e]: Commencement: Reg. 99 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

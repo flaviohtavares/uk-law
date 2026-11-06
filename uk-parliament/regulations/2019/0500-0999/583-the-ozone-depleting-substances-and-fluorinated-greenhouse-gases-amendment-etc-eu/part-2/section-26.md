@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Article 26 (reporting by the Member States)[^key-b6c170856e8f96fb92f466fdf7d88ccd]
+## 26. Article 26 (reporting by the Member States)[^c-b6c170856e8f96fb92f466fdf7d88ccd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) In paragraph 1—
 
-- (a)[^key-3f15fbb9a3180a07e1cf57fd7b723f86] for “Each year by 30 June Member States” substitute “By 30 June 2022, and by 30 June of each year thereafter, the appropriate authority”;
+- (a)[^c-3f15fbb9a3180a07e1cf57fd7b723f86] for “Each year by 30 June Member States” substitute “By 30 June 2022, and by 30 June of each year thereafter, the appropriate authority”;
 - (b) omit “in an electronic format to the Commission”.
 
 (4) For paragraph 2 substitute—
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6c170856e8f96fb92f466fdf7d88ccd]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-b6c170856e8f96fb92f466fdf7d88ccd]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-3f15fbb9a3180a07e1cf57fd7b723f86]: Textual amendment: Reg. 26(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/15)
+[^c-3f15fbb9a3180a07e1cf57fd7b723f86]: Textual amendment: Reg. 26(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/15)

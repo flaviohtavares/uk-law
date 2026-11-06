@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Appeals to the Employment Appeal Tribunal[^key-74ee1dbde50db6e9c90b421114f63f6a]
+## 86. Appeals to the Employment Appeal Tribunal[^c-74ee1dbde50db6e9c90b421114f63f6a]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74ee1dbde50db6e9c90b421114f63f6a]: Commencement: S. 86 in force at 18.2.2026, see [s. 159(2)(q)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/q) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/18))
+[^c-74ee1dbde50db6e9c90b421114f63f6a]: Commencement: S. 86 in force at 18.2.2026, see [s. 159(2)(q)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/q) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/18))

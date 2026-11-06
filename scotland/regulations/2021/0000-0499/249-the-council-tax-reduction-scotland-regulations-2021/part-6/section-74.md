@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Compensation for personal injury[^key-bbd79b95a0b11a0cc581a723245f0638]
+## 74. Compensation for personal injury[^c-bbd79b95a0b11a0cc581a723245f0638]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbd79b95a0b11a0cc581a723245f0638]: Commencement: [Reg. 74](https://www.legislation.gov.uk/ssi/2021/249/regulation/74) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-bbd79b95a0b11a0cc581a723245f0638]: Commencement: [Reg. 74](https://www.legislation.gov.uk/ssi/2021/249/regulation/74) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

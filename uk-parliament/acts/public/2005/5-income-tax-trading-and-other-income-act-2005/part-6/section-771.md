@@ -34,7 +34,7 @@ summary: ''
 
 (3) Condition B is that the officer or employee is not engaged in any trade, profession, vocation or employment in the United Kingdom, otherwise than as a consular officer or employee of the state in question.
 
-(4)[^key-36d487d903790d648f7fc324918b0771] Condition C is that—
+(4)[^c-36d487d903790d648f7fc324918b0771] Condition C is that—
 
 - (a) the officer or employee is a permanent employee of that state, or
 - (b) the officer or employee was non-UK resident for each of the 2 tax years preceding the tax year in which the officer or employee became a consular officer or employee in the United Kingdom of that state.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36d487d903790d648f7fc324918b0771]: Textual amendment: S. 771(4) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 53(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/53/1) (with [Sch. 46 para. 53(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/53/2))
+[^c-36d487d903790d648f7fc324918b0771]: Textual amendment: S. 771(4) substituted (with effect in accordance with Sch. 46 para. 72 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 53(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/53/1) (with [Sch. 46 para. 53(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/53/2))

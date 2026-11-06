@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Training centres[^key-412852d9049e6eb89f89219293260c12][^key-646b840add1a389e4329f0cf9e2f492f]
+## 18. Training centres[^c-412852d9049e6eb89f89219293260c12][^c-646b840add1a389e4329f0cf9e2f492f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A fire and rescue authority may establish and maintain one or more training cent
 
 ## Annotations
 
-[^key-412852d9049e6eb89f89219293260c12]: Commencement: S. 18 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-412852d9049e6eb89f89219293260c12]: Commencement: S. 18 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-646b840add1a389e4329f0cf9e2f492f]: Commencement: S. 18 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-646b840add1a389e4329f0cf9e2f492f]: Commencement: S. 18 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

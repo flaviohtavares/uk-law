@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Application of Chapter to immediate detriment cases[^key-3ecca19a34cab110959a94b2e3a474dd][^key-a0515f9d132b9f0bf059dab4a2adf76f]
+## 67. Application of Chapter to immediate detriment cases[^c-3ecca19a34cab110959a94b2e3a474dd][^c-a0515f9d132b9f0bf059dab4a2adf76f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ with or without modifications.
 
 ## Annotations
 
-[^key-3ecca19a34cab110959a94b2e3a474dd]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-3ecca19a34cab110959a94b2e3a474dd]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-a0515f9d132b9f0bf059dab4a2adf76f]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2022/7/section/67) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-a0515f9d132b9f0bf059dab4a2adf76f]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2022/7/section/67) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)

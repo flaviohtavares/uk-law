@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Assistance by Commission[^key-a53987c0213ece62920806401d5e1506]
+## 47. Assistance by Commission[^c-a53987c0213ece62920806401d5e1506]
 
 *Extent: N.I.*
 
@@ -50,7 +50,7 @@ but sub-paragraph (d) shall not affect the law and practice regulating the descr
 
 ## Annotations
 
-[^key-a53987c0213ece62920806401d5e1506]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2006/261/regulation/47) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-a53987c0213ece62920806401d5e1506]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2006/261/regulation/47) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00035]: Footnote: S.I. [1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228)
 

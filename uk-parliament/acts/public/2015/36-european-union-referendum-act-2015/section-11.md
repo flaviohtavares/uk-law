@@ -38,7 +38,7 @@ summary: ''
   - (d) any provision of subordinate legislation (within the meaning of the Interpretation Act 1978);
 - “**Gibraltar conduct law**” has the meaning given by section 5(2);
 - “**the Gibraltar standard scale**” means the standard scale set out in Part A of Schedule 9 to the Criminal Procedure and Evidence Act;
-- “**the Minister**” means the Secretary of State or the Minister for the Cabinet Office[^key-76938523c9d1079dad0da5542c0dbf4a];
+- “**the Minister**” means the Secretary of State or the Minister for the Cabinet Office[^c-76938523c9d1079dad0da5542c0dbf4a];
 - “**permitted participant**” means a person who, in relation to the referendum, is a permitted participant within the meaning given by section 105(1) of the 2000 Act (as modified by paragraph 2 of Schedule 1);
 - “**the referendum**” means the referendum under section 1;
 - “**referendum expenses**” has the meaning given by section 111 of the 2000 Act (see also paragraph 19 of Schedule 1);
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76938523c9d1079dad0da5542c0dbf4a]: Textual amendment: Words in s. 11(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/30) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-76938523c9d1079dad0da5542c0dbf4a]: Textual amendment: Words in s. 11(1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/30) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

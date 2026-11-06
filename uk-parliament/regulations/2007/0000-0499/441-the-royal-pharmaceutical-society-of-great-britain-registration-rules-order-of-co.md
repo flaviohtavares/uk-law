@@ -89,7 +89,7 @@ These Rules may be cited as the Royal Pharmaceutical Society of Great Britain (R
 - “retention fee”, unless the context otherwise requires, means any fee prescribed in rules under article 40(1)(b) of the Order; and
 - “**the standards**” means the standards of conduct, practice and performance (including the Society's Code of Ethics and the related guidance) published by the Council under article 45(1) of the Order.
 
-(2)[^key-cf87f2e2429905e5ba81f898aa087efc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cf87f2e2429905e5ba81f898aa087efc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 3. Service of documents
 
@@ -181,20 +181,20 @@ the Registrar shall ensure that an appropriate alteration to the register is mad
   - (i) his passport (or true copy of it, certified by a notary) or another document which is considered acceptable by the Registrar as proof of his identity, and
   - (ii) a photograph which is signed and dated by a legal or health care professional, justice of the peace or person of standing in the community, who has known the applicant for at least two years and who certifies that the photograph is a true likeness of the applicant;
 - (b) where the applicant wishes to use a registered name which is different to the name given on the evidence of his identity—
-  - (i) the relevant marriage certificate or certificate of civil partnership (or a true copy of it, certified by a notary)[^key-a21a29d788ca50b074fb75757a9865a4],
-  - (ii) the relevant certificate of change of name (or a true copy of it, certified by a notary)[^key-afcb9e7ff05422ed2d224d34d084ad52], or
+  - (i) the relevant marriage certificate or certificate of civil partnership (or a true copy of it, certified by a notary)[^c-a21a29d788ca50b074fb75757a9865a4],
+  - (ii) the relevant certificate of change of name (or a true copy of it, certified by a notary)[^c-afcb9e7ff05422ed2d224d34d084ad52], or
   - (iii) evidence of the change of name in the form of a statutory declaration;
 - (c) evidence of his date of birth in the form of—
   - (i) his passport (or a true copy of it, certified by a notary) or the other document considered acceptable under paragraph (3)(a)(i), and
   - (ii) either—
-    - (aa) his birth certificate (or a true copy of it, certified by a notary[^key-9398b6bfa69c53ac1789151810ef8f36]), or
+    - (aa) his birth certificate (or a true copy of it, certified by a notary[^c-9398b6bfa69c53ac1789151810ef8f36]), or
     - (bb) a statutory declaration;
 - (ca)[^M_F_ee489d32-3968-4557-c2c1-0953fd45840d] where the applicant is an exempt person—
   - (i) evidence that he is a national of a relevant European State, or
   - (ii) (where he is not a national of a relevant European State) evidence of the Community right by virtue of which he is an exempt person, which, in a case where sub-paragraph (d) applies, must be the evidence set out in that sub-paragraph;
 - (d) where an applicant seeks to rely on rights acquired by virtue of marriage or civil partnership to a national of a relevant European State—
   - (i) sufficient evidence (in the opinion of the Registrar) of the marriage or civil partnership,
-  - (ii) the passport (or a true copy of it, certified by a notary[^key-0f0f5b3ef945b0af3dcbd12f98808488]) of the partner that is the national of a relevant European State, and
+  - (ii) the passport (or a true copy of it, certified by a notary[^c-0f0f5b3ef945b0af3dcbd12f98808488]) of the partner that is the national of a relevant European State, and
   - (iii) an explanation, together with any relevant supporting evidence, as to why the applicant is entitled to be treated as an EEA national;
 - (e)[^M_F_2e899a07-e2f7-4134-f39e-00ba2e0cc839] sufficient evidence (in the opinion of the Registrar) that he is appropriately qualified, and if the applicant (“**A**”)—
   - (i) is appropriately qualified by virtue of article 12(1)(b) of the Order,
@@ -215,7 +215,7 @@ the Registrar shall ensure that an appropriate alteration to the register is mad
 (4) The additional matters referred to in paragraph (3)(g) are—
 
 - (a) a completed and signed application form and authorisation for the Registrar to obtain a certificate of enhanced disclosure from the Criminal Records Bureau;
-- (b) where the applicant has previously obtained a certificate of standard or enhanced disclosure from the Criminal Records Bureau for the purpose of applying to be entered on a list of performers or providers of pharmaceutical services as part of the health service, a certified (by a notary)[^key-db24e5142dd0f5e798ae85ddf1fc0ee3] true copy of that certificate;
+- (b) where the applicant has previously obtained a certificate of standard or enhanced disclosure from the Criminal Records Bureau for the purpose of applying to be entered on a list of performers or providers of pharmaceutical services as part of the health service, a certified (by a notary)[^c-db24e5142dd0f5e798ae85ddf1fc0ee3] true copy of that certificate;
 - (c) where the applicant has been the subject of a determination by a regulatory body that his fitness to practise is impaired, or a determination to the same effect, details of any investigations, the proceedings and the outcome;
 - (d) in the case of a pharmacist who qualified or has practised outside Great Britain, a certificate of good standing or current professional status issued no more than six months prior to the date of the application—
   - (i) by the appropriate authority of the country in which the pharmacist qualified, and
@@ -230,7 +230,7 @@ the Registrar shall ensure that an appropriate alteration to the register is mad
 
 (8) The Registrar shall refuse the application if the applicant does not pay the relevant prescribed fee.
 
-#### 6A. Applications for registration in the Register of Pharmacy Technicians[^key-e5d5df076eced6f30ad9001fc7965737]
+#### 6A. Applications for registration in the Register of Pharmacy Technicians[^c-e5d5df076eced6f30ad9001fc7965737]
 
 (1) Subject to the following provisions of this rule, applicants for registration in Part 1 or 2 of the Register of Pharmacy Technicians shall apply using the relevant application form, which shall be in such form as the Council shall determine from time to time.
 
@@ -296,7 +296,7 @@ the Registrar shall ensure that an appropriate alteration to the register is mad
 
 (9) For the purposes of this rule, “attesting State” means the relevant European State in which E obtained their qualification as a pharmacy technician or, if different, the relevant European State from which E comes to Great Britain.
 
-#### 7. Retention in the register[^key-a120a7192c373e5b3c1f9723cf64d486]
+#### 7. Retention in the register[^c-a120a7192c373e5b3c1f9723cf64d486]
 
 (1) Each registrant who appears in part 1 or part 2 of the register on 1st January of any calendar year shall be liable to pay the retention fee for that year.
 
@@ -447,7 +447,7 @@ the Registrar shall rescind the decision to grant the application (and according
 
 (1) Where a person—
 
-- (a) has been removed from the register under article 17(2)(b) , 28(2)(b)[^key-3ee2f2f5b14b9b71c575c5faf347555a] or 33(2) or (3) of the Order, or under rule 7(7) or 10(6); and
+- (a) has been removed from the register under article 17(2)(b) , 28(2)(b)[^c-3ee2f2f5b14b9b71c575c5faf347555a] or 33(2) or (3) of the Order, or under rule 7(7) or 10(6); and
 - (b) is seeking restoration to the register within twelve months of his removal from it,
 
 subject to the following provisions of this rule, he shall apply using the relevant application form, which shall be in such form as the Council shall determine from time to time [^c18212401].
@@ -878,7 +878,7 @@ Part 5 contains the appeals procedure for a range of appealable registration dec
 
 [^c18212361]: Marginal citation: These Rules have been Scheduled to [S.I. 2007/442](https://www.legislation.gov.uk/uksi/2007/442).
 
-[^key-cf87f2e2429905e5ba81f898aa087efc]: Textual amendment: [Sch. rule 2(2)](https://www.legislation.gov.uk/uksi/2007/441/schedule/rule/2/2) omitted (1.7.2009 as notified in the London Gazette dated 19.6.2009 (Issue 59104)) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(5)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/5), [Sch. 4 para. 30(a)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/30/a)
+[^c-cf87f2e2429905e5ba81f898aa087efc]: Textual amendment: [Sch. rule 2(2)](https://www.legislation.gov.uk/uksi/2007/441/schedule/rule/2/2) omitted (1.7.2009 as notified in the London Gazette dated 19.6.2009 (Issue 59104)) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(5)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/5), [Sch. 4 para. 30(a)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/30/a)
 
 [^c18212371]: Marginal citation: His duty to keep the entry up-to-date is in article 34(1) of the Order.
 
@@ -886,15 +886,15 @@ Part 5 contains the appeals procedure for a range of appealable registration dec
 
 [^M_F_3de8f8eb-8077-4572-cc8f-b23f37781373]: Textual amendment: Words in Sch. rule 6(3) inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [107(2)(b)(i)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/107/2/b/i)
 
-[^key-a21a29d788ca50b074fb75757a9865a4]: Textual amendment: Words in Sch. rule 6(3)(b)(i) inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(a)(i)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/a/i)
+[^c-a21a29d788ca50b074fb75757a9865a4]: Textual amendment: Words in Sch. rule 6(3)(b)(i) inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(a)(i)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/a/i)
 
-[^key-afcb9e7ff05422ed2d224d34d084ad52]: Textual amendment: Words in Sch. rule 6(3)(b)(ii) inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/a/ii)
+[^c-afcb9e7ff05422ed2d224d34d084ad52]: Textual amendment: Words in Sch. rule 6(3)(b)(ii) inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/a/ii)
 
-[^key-9398b6bfa69c53ac1789151810ef8f36]: Textual amendment: Words in Sch. rule 6(3)(c)(ii)(aa) substituted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/a/iii)
+[^c-9398b6bfa69c53ac1789151810ef8f36]: Textual amendment: Words in Sch. rule 6(3)(c)(ii)(aa) substituted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/a/iii)
 
 [^M_F_ee489d32-3968-4557-c2c1-0953fd45840d]: Textual amendment: Sch. rule 6(3)(ca) inserted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [107(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/107/2/b/ii)
 
-[^key-0f0f5b3ef945b0af3dcbd12f98808488]: Textual amendment: Words in Sch. rule 6(3)(d)(ii) substituted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(a)(iv)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/a/iv)
+[^c-0f0f5b3ef945b0af3dcbd12f98808488]: Textual amendment: Words in Sch. rule 6(3)(d)(ii) substituted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(a)(iv)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/a/iv)
 
 [^M_F_2e899a07-e2f7-4134-f39e-00ba2e0cc839]: Textual amendment: Sch. rule 6(3)(e) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [107(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/107/2/b/iii)
 
@@ -902,11 +902,11 @@ Part 5 contains the appeals procedure for a range of appealable registration dec
 
 [^M_F_48c0bf28-3537-486b-9885-5df4f0649357]: Textual amendment: Words in Sch. rule 6(3)(g)(i) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [107(2)(b)(v)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/107/2/b/v)
 
-[^key-db24e5142dd0f5e798ae85ddf1fc0ee3]: Textual amendment: Words in Sch. rule 6(4)(b) inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/b)
+[^c-db24e5142dd0f5e798ae85ddf1fc0ee3]: Textual amendment: Words in Sch. rule 6(4)(b) inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/e), [Sch. 4 para. 45(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/45/b)
 
-[^key-e5d5df076eced6f30ad9001fc7965737]: Textual amendment: [Sch. rule 6A](https://www.legislation.gov.uk/uksi/2007/441/schedule/rule/6A) inserted (1.7.2009 as notified in the London Gazette dated 19.6.2009 (Issue 59104)) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(5)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/5), [Sch. 4 para. 30(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/30/b)
+[^c-e5d5df076eced6f30ad9001fc7965737]: Textual amendment: [Sch. rule 6A](https://www.legislation.gov.uk/uksi/2007/441/schedule/rule/6A) inserted (1.7.2009 as notified in the London Gazette dated 19.6.2009 (Issue 59104)) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(5)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/5), [Sch. 4 para. 30(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/30/b)
 
-[^key-a120a7192c373e5b3c1f9723cf64d486]: Textual amendment: Sch. rule 7 substituted (21.7.2008) by [The Royal Pharmaceutical Society of Great Britain (Registration Amendment Rules) Order of Council 2008 (S.I. 2008/1553)](https://www.legislation.gov.uk/uksi/2008/1553), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2008/1553/schedule/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2008/1553/schedule/rule/3)
+[^c-a120a7192c373e5b3c1f9723cf64d486]: Textual amendment: Sch. rule 7 substituted (21.7.2008) by [The Royal Pharmaceutical Society of Great Britain (Registration Amendment Rules) Order of Council 2008 (S.I. 2008/1553)](https://www.legislation.gov.uk/uksi/2008/1553), [Sch. rules 1(1)](https://www.legislation.gov.uk/uksi/2008/1553/schedule/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2008/1553/schedule/rule/3)
 
 [^M_F_49f36941-4f31-4b7e-eb07-2a746c14eea6]: Textual amendment: Sch. rule 8(5) added (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [107(4)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/107/4)
 
@@ -916,7 +916,7 @@ Part 5 contains the appeals procedure for a range of appealable registration dec
 
 [^c18212391]: Marginal citation: The Society's website is at www.rpsgb.org.uk.
 
-[^key-3ee2f2f5b14b9b71c575c5faf347555a]: Textual amendment: Word in [Sch. rule 12(1)(a)](https://www.legislation.gov.uk/uksi/2007/441/schedule/rule/12/1/a) inserted (1.7.2009 as notified in the London Gazette dated 19.6.2009 (Issue 59104)) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(5)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/5), [Sch. 4 para. 30(c)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/30/c)
+[^c-3ee2f2f5b14b9b71c575c5faf347555a]: Textual amendment: Word in [Sch. rule 12(1)(a)](https://www.legislation.gov.uk/uksi/2007/441/schedule/rule/12/1/a) inserted (1.7.2009 as notified in the London Gazette dated 19.6.2009 (Issue 59104)) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(5)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/5), [Sch. 4 para. 30(c)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/4/paragraph/30/c)
 
 [^c18212401]: Marginal citation: All other persons removed under these Rules, apart from rule 4(5), or removed under Parts 2 to 4 of the Order, shall apply in accordance with rule 6.
 

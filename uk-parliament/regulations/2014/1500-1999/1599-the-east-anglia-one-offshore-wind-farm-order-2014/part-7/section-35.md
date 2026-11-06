@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Requirements, appeals, etc.[^key-219b40108506b2fa5d29217a36cb9ab9]
+## 35. Requirements, appeals, etc.[^c-219b40108506b2fa5d29217a36cb9ab9]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-219b40108506b2fa5d29217a36cb9ab9]: Commencement: Art. 35 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-219b40108506b2fa5d29217a36cb9ab9]: Commencement: Art. 35 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

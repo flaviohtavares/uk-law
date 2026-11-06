@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**96.**[^key-41d315ea616bd91753026a23cc247b67] In rule 31—
+**96.**[^c-41d315ea616bd91753026a23cc247b67] In rule 31—
 
 - (a) in paragraph (c), for “as a justice in the family proceedings court” substitute “as a judge of the family court”; and
 - (b) in paragraph (d), for “in the family proceedings court” substitute “where more than one justice is sitting as a judge of the family court”.
 
 ## Annotations
 
-[^key-41d315ea616bd91753026a23cc247b67]: Commencement: Art. 96 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-41d315ea616bd91753026a23cc247b67]: Commencement: Art. 96 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

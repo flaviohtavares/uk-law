@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Amendment of regulation 69 (additional requirements: applications for an emergency proxy signature in respect of a particular petition: England and Wales and Scotland)[^key-08e878ff9f5a8690eedbb76b03d06c53]
+## 87. Amendment of regulation 69 (additional requirements: applications for an emergency proxy signature in respect of a particular petition: England and Wales and Scotland)[^c-08e878ff9f5a8690eedbb76b03d06c53]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 69 (additional requirements: applications for an emergency proxy s
 
 ## Annotations
 
-[^key-08e878ff9f5a8690eedbb76b03d06c53]: Commencement: Reg. 87 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-08e878ff9f5a8690eedbb76b03d06c53]: Commencement: Reg. 87 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

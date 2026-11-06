@@ -53,11 +53,11 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 In accordance with section 56(1) of the Finance Act 1973, the Treasury consent to the making of these Regulations.
 
-## 1. Citation and commencement[^key-09d3e93a8bc7e8da6eff999b2635f2c0]
+## 1. Citation and commencement[^c-09d3e93a8bc7e8da6eff999b2635f2c0]
 
 These Regulations may be cited as the Organic Products (Amendment) Regulations 2015 and come into force on 1st October 2015.
 
-## 2. Amendment of the Organic Products Regulations 2009[^key-1150fb60fc244ba0058f80ad6dd5b234]
+## 2. Amendment of the Organic Products Regulations 2009[^c-1150fb60fc244ba0058f80ad6dd5b234]
 
 (1) The Organic Products Regulations 2009[^f00004] are amended as follows.
 
@@ -135,9 +135,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811), to which there are amendments not relevant to these Regulations. The functions of the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State for Environment, Food and Rural Affairs by article 2 of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)). Despite the transfer to the Scottish Ministers of functions in relation to observing and implementing obligations under EU law, so far as exercisable within devolved competence, the Secretary of State retains power to exercise functions for the purposes specified in section 2(2) of the European Communities Act 1972 as regards Scotland by virtue of section 57(1) of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). Despite the transfer to the Welsh Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Wales by virtue of paragraph 5 of Schedule 3 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32). The Secretary of State has power to make regulations which extend to Northern Ireland under section 2(2) in relation to the common agricultural policy of the European Community by virtue of article 3(2) of the European Communities (Designation) (No. 3) Order 2000 ([S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)).
 
-[^key-09d3e93a8bc7e8da6eff999b2635f2c0]: Commencement: Reg. 1 in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1)
+[^c-09d3e93a8bc7e8da6eff999b2635f2c0]: Commencement: Reg. 1 in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1)
 
-[^key-1150fb60fc244ba0058f80ad6dd5b234]: Commencement: Reg. 2 in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1)
+[^c-1150fb60fc244ba0058f80ad6dd5b234]: Commencement: Reg. 2 in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2009/842](https://www.legislation.gov.uk/uksi/2009/842), to which there are amendments not relevant to these Regulations.
 

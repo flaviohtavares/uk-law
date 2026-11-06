@@ -31,34 +31,34 @@ Administration of Justice (Appeals) Act 1934 (repealed)
 
 1934 c.40
 
-[^key-f6457f6cba81c91a2b96b41a04092b84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6457f6cba81c91a2b96b41a04092b84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Restriction on appeals from Court of Appeal to House of Lords.[^key-f6457f6cba81c91a2b96b41a04092b84][^key-f6457f6cba81c91a2b96b41a04092b84]
+## 1. Restriction on appeals from Court of Appeal to House of Lords.[^c-f6457f6cba81c91a2b96b41a04092b84][^c-f6457f6cba81c91a2b96b41a04092b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appeals from county courts.[^key-f6457f6cba81c91a2b96b41a04092b84][^key-f6457f6cba81c91a2b96b41a04092b84]
+## 2. Appeals from county courts.[^c-f6457f6cba81c91a2b96b41a04092b84][^c-f6457f6cba81c91a2b96b41a04092b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title and extent.[^key-f6457f6cba81c91a2b96b41a04092b84][^key-f6457f6cba81c91a2b96b41a04092b84]
+## 3. Short title and extent.[^c-f6457f6cba81c91a2b96b41a04092b84][^c-f6457f6cba81c91a2b96b41a04092b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Enactments as to Appeals from County Courts[^key-f6457f6cba81c91a2b96b41a04092b84]
+## SCHEDULE — Enactments as to Appeals from County Courts[^c-f6457f6cba81c91a2b96b41a04092b84]
 
-### Part I — Enactments under which Appeals are to lie to Court of Appeal, and consequential amendments[^key-f6457f6cba81c91a2b96b41a04092b84]
+### Part I — Enactments under which Appeals are to lie to Court of Appeal, and consequential amendments[^c-f6457f6cba81c91a2b96b41a04092b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Parts II, III[^key-f6457f6cba81c91a2b96b41a04092b84]
+### Parts II, III[^c-f6457f6cba81c91a2b96b41a04092b84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6457f6cba81c91a2b96b41a04092b84]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/24-25/40) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/19); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f6457f6cba81c91a2b96b41a04092b84]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/24-25/40) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/19); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

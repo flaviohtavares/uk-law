@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16.5. Minutes of sist and transference[^key-721d420bec0f24ff91aab93b01d9dd9f]
+## 16.5. Minutes of sist and transference[^c-721d420bec0f24ff91aab93b01d9dd9f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-721d420bec0f24ff91aab93b01d9dd9f]: Commencement: Para. 16.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-721d420bec0f24ff91aab93b01d9dd9f]: Commencement: Para. 16.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

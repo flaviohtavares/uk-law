@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. Requests under section 255: supplementary[^key-df030ad969d8e2db1610375cf72c838b][^key-15f76a582be5f9711683064608f4bda9]
+## 257. Requests under section 255: supplementary[^c-df030ad969d8e2db1610375cf72c838b][^c-15f76a582be5f9711683064608f4bda9]
 
 *Extent: E+W*
 
-(1) NHS England[^key-282b92e67f63df95331c638985db70e2] must publish procedures for—
+(1) NHS England[^c-282b92e67f63df95331c638985db70e2] must publish procedures for—
 
 - (a) the making and consideration of requests under section 255, and
 - (b) the reconsideration by NHS England of a decision not to comply with such a request.
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-df030ad969d8e2db1610375cf72c838b]: Commencement: S. 257 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-df030ad969d8e2db1610375cf72c838b]: Commencement: S. 257 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-15f76a582be5f9711683064608f4bda9]: Modification: Pt. 9 Ch. 2: power to amend conferred (1.7.2022) by [2021 c. 3](https://www.legislation.gov.uk/ukpga/2021/3), [s 43(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/3) (as inserted by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(5)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/5/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)))
+[^c-15f76a582be5f9711683064608f4bda9]: Modification: Pt. 9 Ch. 2: power to amend conferred (1.7.2022) by [2021 c. 3](https://www.legislation.gov.uk/ukpga/2021/3), [s 43(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/3) (as inserted by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(5)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/5/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)))
 
-[^key-282b92e67f63df95331c638985db70e2]: Textual amendment: Words in [s. 257](https://www.legislation.gov.uk/ukpga/2012/7/section/257) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(9)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-282b92e67f63df95331c638985db70e2]: Textual amendment: Words in [s. 257](https://www.legislation.gov.uk/ukpga/2012/7/section/257) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(9)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))

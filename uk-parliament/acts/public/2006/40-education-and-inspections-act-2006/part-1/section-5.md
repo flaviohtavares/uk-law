@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. School improvement partners[^key-f1a1e0e16bcdabf055482fbb61622c80]
+## 5. School improvement partners[^c-f1a1e0e16bcdabf055482fbb61622c80]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1a1e0e16bcdabf055482fbb61622c80]: Textual amendment: S. 5 repealed (15.11.2011) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 33(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/33/1), [82(1)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/a)
+[^c-f1a1e0e16bcdabf055482fbb61622c80]: Textual amendment: S. 5 repealed (15.11.2011) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 33(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/33/1), [82(1)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/a)

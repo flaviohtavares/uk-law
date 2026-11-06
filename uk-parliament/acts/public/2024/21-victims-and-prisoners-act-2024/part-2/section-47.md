@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Review of operation of Part 2[^key-920fb6ecc2bb3df54f0c7601a755118b][^key-be31229951bba8ed89806fa5180d89f0]
+## 47. Review of operation of Part 2[^c-920fb6ecc2bb3df54f0c7601a755118b][^c-be31229951bba8ed89806fa5180d89f0]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-920fb6ecc2bb3df54f0c7601a755118b]: Commencement: S. 47 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-920fb6ecc2bb3df54f0c7601a755118b]: Commencement: S. 47 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-be31229951bba8ed89806fa5180d89f0]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2024/21/section/47) in force at 18.9.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/l)
+[^c-be31229951bba8ed89806fa5180d89f0]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2024/21/section/47) in force at 18.9.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/966/regulation/2/l)

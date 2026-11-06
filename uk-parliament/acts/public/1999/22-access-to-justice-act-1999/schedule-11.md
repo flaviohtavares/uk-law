@@ -142,9 +142,9 @@ Section 78.
 
 ### The Magistrates’ Courts Act 1980 (c.43)
 
-**26.**[^key-a1274ecf8a612c21e984874d092a90d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-a1274ecf8a612c21e984874d092a90d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-a1274ecf8a612c21e984874d092a90d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-a1274ecf8a612c21e984874d092a90d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.** [^c19089991]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -172,7 +172,7 @@ Section 78.
 
 ### The Local Government Act 1992 (c.19)
 
-**38.**[^key-6d8552efb2233b6933a8fb7a2ba55955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-6d8552efb2233b6933a8fb7a2ba55955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Judicial Pensions and Retirement Act 1993 (c. 8)
 
@@ -228,7 +228,7 @@ Section 78.
 
 [^c11268881]: Marginal citation: [1949 c.101](https://www.legislation.gov.uk/ukpga/1949/101).
 
-[^key-a1274ecf8a612c21e984874d092a90d1]: Textual amendment: Sch. 11 paras. 26, 27 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a1274ecf8a612c21e984874d092a90d1]: Textual amendment: Sch. 11 paras. 26, 27 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19089991]: Textual amendment: [Sch. 11 para. 28](https://www.legislation.gov.uk/ukpga/1999/22/schedule/11/paragraph/28) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
@@ -248,7 +248,7 @@ Section 78.
 
 [^c19091091]: Textual amendment: [Sch. 11 para. 36](https://www.legislation.gov.uk/ukpga/1999/22/schedule/11/paragraph/36) repealed (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 220](https://www.legislation.gov.uk/ukpga/2003/41/section/220), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/41/schedule/4); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3258/article/2/2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/3312/article/2/2)); and Sch. 11 para. 36(3)(4)(a) expressed to be repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
-[^key-6d8552efb2233b6933a8fb7a2ba55955]: Textual amendment: [Sch. 11 para. 38](https://www.legislation.gov.uk/ukpga/1999/22/schedule/11/paragraph/38) repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/hh)
+[^c-6d8552efb2233b6933a8fb7a2ba55955]: Textual amendment: [Sch. 11 para. 38](https://www.legislation.gov.uk/ukpga/1999/22/schedule/11/paragraph/38) repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/hh)
 
 [^c11268891]: Textual amendment: [Sch. 11 para. 42](https://www.legislation.gov.uk/ukpga/1999/22/schedule/11/paragraph/42) repealed (1.4.2001) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [s. 75](https://www.legislation.gov.uk/ukpga/2000/43/section/75), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/43/schedule/8); [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/919/article/2/g), Table
 

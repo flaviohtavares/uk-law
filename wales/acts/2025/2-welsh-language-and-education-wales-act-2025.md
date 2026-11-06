@@ -42,11 +42,11 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 
 ## PART 1 — PROMOTION AND FACILITATION OF USE OF THE WELSH LANGUAGE
 
-### 1. Welsh language strategy targets: at least a million Welsh speakers and increase in use[^key-054e3cbb185be4649844a6bf20d9132d][^key-390105fbd8eab2470057980671f7a739][^key-508ae864d7f88717112b2cd4edf8c61a]
+### 1. Welsh language strategy targets: at least a million Welsh speakers and increase in use[^c-054e3cbb185be4649844a6bf20d9132d][^c-390105fbd8eab2470057980671f7a739][^c-508ae864d7f88717112b2cd4edf8c61a]
 
 (1) The strategy on promoting and facilitating the use of Welsh adopted by the Welsh Ministers in accordance with section 78 of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) (“the Welsh language strategy”) must—
 
-- (a)[^key-054e3cbb185be4649844a6bf20d9132d] include the target to increase the number of Welsh speakers in Wales to at least 1 million by 2050;
+- (a)[^c-054e3cbb185be4649844a6bf20d9132d] include the target to increase the number of Welsh speakers in Wales to at least 1 million by 2050;
 - (b) set targets for increasing the use of Welsh in Wales, including—
   - (i) use in the workplace;
   - (ii) social use;
@@ -66,9 +66,9 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 
 (3) In setting out their proposals for promoting the Welsh language and facilitating its use in the Welsh language strategy in accordance with section 78 of the Government of Wales Act 2006, the Welsh Ministers must take account of the targets referred to in subsection (1)(a) to‍ (d).
 
-(4)[^key-390105fbd8eab2470057980671f7a739] The plan published by the Welsh Ministers in accordance with section 78(9) of the Government of Wales Act 2006 must include a description of the steps the Welsh Ministers intend to take in order to contribute to meeting the targets referred to in subsection (1)(a) and (b) (and see Part 4 in respect of the targets referred to in subsection (1)(c) and (d)).
+(4)[^c-390105fbd8eab2470057980671f7a739] The plan published by the Welsh Ministers in accordance with section 78(9) of the Government of Wales Act 2006 must include a description of the steps the Welsh Ministers intend to take in order to contribute to meeting the targets referred to in subsection (1)(a) and (b) (and see Part 4 in respect of the targets referred to in subsection (1)(c) and (d)).
 
-(5)[^key-508ae864d7f88717112b2cd4edf8c61a] In section 78 of the Government of Wales Act 2006—
+(5)[^c-508ae864d7f88717112b2cd4edf8c61a] In section 78 of the Government of Wales Act 2006—
 
 - (a) in subsection (1), instead of “(“the Welsh language strategy”)”, insert “to be known as “**the Welsh language strategy**” or “strategaeth y Gymraeg””;
 - (b) after subsection (1), insert—
@@ -90,7 +90,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
   in a maintained school, during school sessions, to pupils of compulsory school age;
 - (b) references to “Primarily Welsh Language”, “Dual Language” and “Primarily English Language, partly Welsh” school categories are to be read in accordance with Part 3.
 
-### 2. Reporting on targets in the Welsh language strategy[^key-d787d8399c941542b3b5964acfcc7ac9]
+### 2. Reporting on targets in the Welsh language strategy[^c-d787d8399c941542b3b5964acfcc7ac9]
 
 **Not yet in force.**
 
@@ -114,16 +114,16 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 - (a) explain why the target is unlikely to be met, and
 - (b) set out the further steps the Welsh Ministers have taken, or the steps they intend to take, to meet the target.
 
-### 3. Calculating the number of Welsh speakers[^key-9b5cf103770a7fedcd3b69c9296f6b1f]
+### 3. Calculating the number of Welsh speakers[^c-9b5cf103770a7fedcd3b69c9296f6b1f]
 
-(1)[^key-d45ad552f595269161f7eb886ae02c8e] For the purposes of sections 1 and 2, the number of Welsh speakers is to be calculated on the basis of data specified by the Welsh Ministers by regulations, but in calculating the number of speakers any relevant data derived from a census conducted in accordance with the Census Act [1920 (c. 41)](https://www.legislation.gov.uk/ukpga/1920/41) must be taken into account.
+(1)[^c-d45ad552f595269161f7eb886ae02c8e] For the purposes of sections 1 and 2, the number of Welsh speakers is to be calculated on the basis of data specified by the Welsh Ministers by regulations, but in calculating the number of speakers any relevant data derived from a census conducted in accordance with the Census Act [1920 (c. 41)](https://www.legislation.gov.uk/ukpga/1920/41) must be taken into account.
 
-(2)[^key-d45ad552f595269161f7eb886ae02c8e] For the purposes of sections 1 and 2, whether a person is a Welsh speaker is to be decided—
+(2)[^c-d45ad552f595269161f7eb886ae02c8e] For the purposes of sections 1 and 2, whether a person is a Welsh speaker is to be decided—
 
 - (a) in the case of persons aged‍ 17 and over, on the basis of self-assessment;
 - (b) in the case of children under the age o‍f 17, on the basis of self-assessment, or the assessment of the child’s parent or carer.
 
-(3)[^key-d45ad552f595269161f7eb886ae02c8e] In the case of children under the age of 17, the Welsh Ministers may by regulations—
+(3)[^c-d45ad552f595269161f7eb886ae02c8e] In the case of children under the age of 17, the Welsh Ministers may by regulations—
 
 - (a) specify a method of deciding whether a person is a Welsh speaker for the purposes of section 1 and 2, and
 - (b) specify whether that method is to be used in addition to, or instead of, the assessments referred to in subsection (2)(b).
@@ -137,7 +137,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 - (a) when the data referred to in subsection (1) is collected, and
 - (b) when the assessments referred to in subsection (2)(a) and (b) are completed.
 
-### 4. Reviewing the Welsh language standards[^key-51b49ebb1e085dc612cb84b2c537083d][^key-13e84d104675473434fe119c2cfdca53]
+### 4. Reviewing the Welsh language standards[^c-51b49ebb1e085dc612cb84b2c537083d][^c-13e84d104675473434fe119c2cfdca53]
 
 (1) The Welsh Ministers must review the standards specified under section 26 of the [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1) with a view to determining whether amendments are necessary to—
 
@@ -153,7 +153,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 
 ## PART 2 — DESCRIBING WELSH LANGUAGE ABILITY
 
-### 5. Types of Welsh language user and common reference levels[^key-57e74f4469d0d00e24ab2d04321624f4]
+### 5. Types of Welsh language user and common reference levels[^c-57e74f4469d0d00e24ab2d04321624f4]
 
 (1) In accordance with the Common European Framework of Reference for Languages, the Table in Schedule 1 specifies—
 
@@ -169,7 +169,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 - (a) in the document “Council of Europe (2020), Common European Framework of Reference for Languages: Learning, teaching, assessment – Companion volume”, or
 - (b) in any similar document published by the Council of Europe.
 
-### 6. Code to describe Welsh language ability[^key-7aa28f8726c22e175fb6eab73bb2aec0][^key-720d0720b9cd6f90df79b616739aaffe]
+### 6. Code to describe Welsh language ability[^c-7aa28f8726c22e175fb6eab73bb2aec0][^c-720d0720b9cd6f90df79b616739aaffe]
 
 (1) The Welsh Ministers must prepare a Code on describing ability in Welsh that is based on the Common European Framework of Reference for Languages.
 
@@ -180,7 +180,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 
 (3) The Code may also include anything else related to describing ability in Welsh.
 
-### 7. Publishing and reviewing the Code[^key-4cd2537a26f0beb28c707776fb00d05a][^key-b0f520248e54c8e79872034f53958b41]
+### 7. Publishing and reviewing the Code[^c-4cd2537a26f0beb28c707776fb00d05a][^c-b0f520248e54c8e79872034f53958b41]
 
 (1) The Welsh Ministers must—
 
@@ -193,7 +193,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 
 ### Introduction
 
-#### 8. Overview and interpretation[^key-c21d89c5601ffcb703cd5e52d456fcd5][^key-cd19e8420056b3319ac19bdf7909865c]
+#### 8. Overview and interpretation[^c-c21d89c5601ffcb703cd5e52d456fcd5][^c-cd19e8420056b3319ac19bdf7909865c]
 
 (1) This Part—
 
@@ -220,7 +220,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 
 ### Language categories of schools
 
-#### 9. School language categories[^key-24abbd2ec7950b879b729ffe691e8da6][^key-88c1af705949679c336a540845820117]
+#### 9. School language categories[^c-24abbd2ec7950b879b729ffe691e8da6][^c-88c1af705949679c336a540845820117]
 
 (1) Each school is designated a language category, in accordance with this Part, that determines—
 
@@ -237,7 +237,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 
 (4) Subsection (1) does not apply to a community special school (but see section 20).
 
-#### 10. Minimum amount of provision of Welsh language education for each language category‍[^key-18ccdab9aaa7e478dbb170c71205c444][^key-f71a3cfd9dfedcda88edda29a8e0eb19]
+#### 10. Minimum amount of provision of Welsh language education for each language category‍[^c-18ccdab9aaa7e478dbb170c71205c444][^c-f71a3cfd9dfedcda88edda29a8e0eb19]
 
 (1) Subsection (2) specifies the minimum amount of Welsh language education for each language category, as a percentage of the education and training provided over a school year during school sessions for pupils of compulsory school age.
 
@@ -255,7 +255,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 
 (6) The governing body of a school must ensure that the school provides at least the minimum amount of Welsh language education for the language category designated for the school in each of the school years for which a Welsh language education delivery plan is to have effect (see sections 14(3) and 15(5)).‍
 
-#### 11. Welsh language learning goals for each language category[^key-395029e90bda5b6f26dfc98d1ee2ffdd][^key-90576ac32bc760926b0b2ed8af8cf238]
+#### 11. Welsh language learning goals for each language category[^c-395029e90bda5b6f26dfc98d1ee2ffdd][^c-90576ac32bc760926b0b2ed8af8cf238]
 
 (1) The Welsh language learning goal for “Primarily Welsh Language‍” category schools is that pupils, by the time they cease to be of compulsory school age, are proficient Welsh language users (that is, they reach the C1 or C2 common reference level), at least.
 
@@ -285,7 +285,7 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
   - (ii) by any further provision about that common reference level, and oral interaction, in the Code prepared under section 6;
 - “year group”(“***grŵp blwyddyn***”) means a group of pupils at a school the majority of whom will, in a particular school year, attain the same age.
 
-#### 12. Assessing progress towards meeting Welsh language learning goals[^key-2d0d53572c1463423f440fcc306759f0][^key-4c6bd5756b84df87d2ae51eaf25f98ca]
+#### 12. Assessing progress towards meeting Welsh language learning goals[^c-2d0d53572c1463423f440fcc306759f0][^c-4c6bd5756b84df87d2ae51eaf25f98ca]
 
 (1) Assessment arrangements made by the Welsh Ministers by regulations under section 56 of the [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4) may make provision for the purpose of ensuring progress of pupils towards achieving a school’s Welsh language learning goal.
 
@@ -299,13 +299,13 @@ An Act of Senedd Cymru to promote and facilitate use of the Welsh language, incl
 
 > (1A) In preparing the Progression Code under subsection (1), and keeping it under review under subsection (4), the Welsh Ministers must have regard to the Welsh language learning goals set by section 11 of the Welsh Language and Education (Wales) Act 2025 (asc \[ \]).
 
-#### 13. Regulations on school language categories[^key-cc920ae7f3495268fccdd8df821efb90][^key-c202d2214cba4570428619e99a898602]
+#### 13. Regulations on school language categories[^c-cc920ae7f3495268fccdd8df821efb90][^c-c202d2214cba4570428619e99a898602]
 
 The Welsh Ministers may, by regulations, make further provision about the school language categories.‍
 
 ### Welsh language education delivery plans
 
-#### 14. School Welsh language education delivery plans[^key-85c3f1b88e4b6aeebf4e43aa97dc0450][^key-d123c65552c3b348b2173b5c2b780f07]
+#### 14. School Welsh language education delivery plans[^c-85c3f1b88e4b6aeebf4e43aa97dc0450][^c-d123c65552c3b348b2173b5c2b780f07]
 
 (1) A school’s governing body must prepare a delivery plan in relation to the Welsh language (a “Welsh language education delivery plan”) that—
 
@@ -352,7 +352,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 (5) This section does not apply to a community special school (but see section 20).
 
-#### 15. Approval of Welsh language education delivery plans[^key-3c8bae276b4ec0215c3bb3600972fd94][^key-aa99ddab9b7bcc336cc1fbb3c6e51bc4]
+#### 15. Approval of Welsh language education delivery plans[^c-3c8bae276b4ec0215c3bb3600972fd94][^c-aa99ddab9b7bcc336cc1fbb3c6e51bc4]
 
 (1) A school’s governing body must submit a draft of the Welsh language education delivery plan prepared under section 14 to the local authority that maintains the school.
 
@@ -379,7 +379,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 (9) A school’s governing body must take all reasonable steps to implement the proposals set out by virtue of section 14(1)(e),‍ (f), (g), (h) and (i) in the approved Welsh language education delivery plan.
 
-#### 16. Review and amendment of Welsh language education delivery plan[^key-55604034a82a41ec7da8f20623234ea0][^key-cf4823f98ec5dd3733605e2963afd118]
+#### 16. Review and amendment of Welsh language education delivery plan[^c-55604034a82a41ec7da8f20623234ea0][^c-cf4823f98ec5dd3733605e2963afd118]
 
 (1) A school’s governing body must review its Welsh language education delivery plan at least once before the end of the period for which it has effect.
 
@@ -412,7 +412,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 - (a) publish the approved Welsh language education delivery plan, as amended;
 - (b) take all reasonable steps to implement the proposals set out by virtue of section 14(1)(e),‍ (f), (g), (h) and (i) in the approved Welsh language education delivery plan, as amended.
 
-#### 17. Amending Welsh language education delivery plan to change school language category[^key-980ae96cc2db2c31344b29cd26c00e89][^key-d0237b8b9b1d36cba076f14f4c6c53f8]
+#### 17. Amending Welsh language education delivery plan to change school language category[^c-980ae96cc2db2c31344b29cd26c00e89][^c-d0237b8b9b1d36cba076f14f4c6c53f8]
 
 (1) This section applies where a school’s governing body proposes an amendment to the school’s Welsh language education delivery plan for the purpose of changing the school’s language category.
 
@@ -423,7 +423,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 (3) The school’s governing body must consult the persons listed in section 14(2)(b) before submitting an amended delivery plan in draft to the local authority under section 16(4).
 
-#### 18. Minimum amount of Welsh language education: temporary exemption[^key-668f2ddb3c648b012767575b39c079b8][^key-670496d315c17f8f22b3aee93e230f27]
+#### 18. Minimum amount of Welsh language education: temporary exemption[^c-668f2ddb3c648b012767575b39c079b8][^c-670496d315c17f8f22b3aee93e230f27]
 
 (1) This section applies where a school’s governing body—
 
@@ -443,7 +443,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 - (b) the school’s language category is deemed to be designated as the “Primarily English Language, partly Welsh” category for that period;
 - (c) the school’s governing body must take all reasonable steps to implement the proposals set out in the delivery plan in accordance with subsection (2)(b) by the date set out in accordance with subsection (2)(c).
 
-#### 19. Minimum amount of Welsh language education: further exemption[^key-624a1cbb812ab572e7fbc5ca9020e26c][^key-4a8488bee1af82b9f0405bcab69593c7]
+#### 19. Minimum amount of Welsh language education: further exemption[^c-624a1cbb812ab572e7fbc5ca9020e26c][^c-4a8488bee1af82b9f0405bcab69593c7]
 
 (1) This section applies where a governing body of a school that is exempted in accordance with section 18(3)(a)—
 
@@ -469,7 +469,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 ### Special schools
 
-#### 20. Community special schools: plans and language category designation[^key-b276ec7c525890637b5288439930ef10][^key-21b5163c1b8bb867e491a996529dcafc]
+#### 20. Community special schools: plans and language category designation[^c-b276ec7c525890637b5288439930ef10][^c-21b5163c1b8bb867e491a996529dcafc]
 
 (1) A community special school’s governing body must prepare a plan in relation to the Welsh language (“a community special school Welsh language education delivery plan”) that sets out—
 
@@ -495,7 +495,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 ### Maintained nursery schools
 
-#### 21. Welsh language nursery education delivery plans[^key-64d8f5a9822901c93bbad1d70befdb93][^key-69623164f17b9925c3c8c98689b57457]
+#### 21. Welsh language nursery education delivery plans[^c-64d8f5a9822901c93bbad1d70befdb93][^c-69623164f17b9925c3c8c98689b57457]
 
 (1) A maintained nursery school’s governing body must prepare a plan in relation to the Welsh language (“a Welsh language nursery education delivery plan”) that sets out—
 
@@ -521,7 +521,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 ### Register
 
-#### 22. Register of school language categories[^key-2981adaa71ad6f378f74cff8af700cf3][^key-a51bd91a6e66d46978b746ce0d19b721]
+#### 22. Register of school language categories[^c-2981adaa71ad6f378f74cff8af700cf3][^c-a51bd91a6e66d46978b746ce0d19b721]
 
 (1) A local authority must maintain and publish a register that includes the following matters—
 
@@ -542,7 +542,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 ### Late immersion education
 
-#### 23. Late immersion education in Welsh[^key-9591cf4617a18d821060b0e5580ff9fd][^key-5e4a6149572ef033abe5bc44c1b03ae9]
+#### 23. Late immersion education in Welsh[^c-9591cf4617a18d821060b0e5580ff9fd][^c-5e4a6149572ef033abe5bc44c1b03ae9]
 
 (1) In this section, “**late immersion education**” means intensive education in Welsh—
 
@@ -571,7 +571,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 ### National Framework
 
-#### 24. National Framework for Welsh Language Education and Learning Welsh[^key-b8f0065af391452c79fb246ff079ad02][^key-8d77057f8798625c1f0d9788a73717a2]
+#### 24. National Framework for Welsh Language Education and Learning Welsh[^c-b8f0065af391452c79fb246ff079ad02][^c-8d77057f8798625c1f0d9788a73717a2]
 
 (1) The Welsh Ministers must prepare a framework (the “National Framework for Welsh Language Education and Learning Welsh”), that sets out how the Welsh Ministers will implement the Welsh language strategy’s proposals in relation to—
 
@@ -622,7 +622,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 - (a) teaching Welsh in tertiary education in Wales, and
 - (b) tertiary education through the medium of Welsh in Wales.
 
-#### 25. National Framework: further provision on the education workforce[^key-1d0cb7acb534e27958861a38440209ef][^key-1b1acfb712b5a980a7de2194efc7bc9b]
+#### 25. National Framework: further provision on the education workforce[^c-1d0cb7acb534e27958861a38440209ef][^c-1b1acfb712b5a980a7de2194efc7bc9b]
 
 (1) The National Framework for Welsh Language Education and Learning Welsh must set out the steps the Welsh Ministers will take to ensure that training, professional development and support is available for education practitioners in Wales for the purposes of improving ability in Welsh (by reference to the Code prepared by the Welsh Ministers under section 6).
 
@@ -631,18 +631,18 @@ The Welsh Ministers may, by regulations, make further provision about the school
 - (a) include an assessment of the number of education practitioners needed in each local authority in order to meet any target set under section 24(5) and (7), and
 - (b) set out the steps the Welsh Ministers will take, based on that assessment, for the purposes of ensuring that the number of education practitioners working in Wales meets the need‍.
 
-#### 26. Implementing the National Framework[^key-75a2e7ab84c30f6c400abd59d36b40a1]
+#### 26. Implementing the National Framework[^c-75a2e7ab84c30f6c400abd59d36b40a1]
 
 (1) The Welsh Ministers must take all reasonable steps to implement the National Framework for Welsh Language Education and Learning Welsh.
 
 (2) Each local authority must—
 
 - (a) take all reasonable steps to meet targets set by the National Framework for Welsh Language Education and Learning Welsh in relation to its area;
-- (b)[^key-671e1cc339c1d2c4b3bee50b5d067320] at the request of the Welsh Ministers, provide any information required by the Welsh Ministers—
+- (b)[^c-671e1cc339c1d2c4b3bee50b5d067320] at the request of the Welsh Ministers, provide any information required by the Welsh Ministers—
   - (i) to enable them to carry out what is required under section 24(6) and section 25(2)(a);
   - (ii) to set‍ targets under section 24(5), or section 24(7).
 
-#### 27. National Framework: further provision about content, review and amendment[^key-6d044b418cb12b1a480c8141537578ae][^key-b3dff2a91645caa6e2b8137ea3d6c016]
+#### 27. National Framework: further provision about content, review and amendment[^c-6d044b418cb12b1a480c8141537578ae][^c-b3dff2a91645caa6e2b8137ea3d6c016]
 
 (1) In preparing or amending the National Framework for Welsh Language Education and Learning Welsh, the Welsh Ministers must set out the steps they intend to take, in accordance with section 24(3) and (4)‍ and section 25, over periods of 10 years.
 
@@ -667,26 +667,26 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 (7) Subsection (6) applies to a new National Framework for Welsh Language Education and Learning Welsh as it applies to the first National Framework.
 
-#### 28. Consultation and publication of the National Framework[^key-f1c62652c201e7d59b2edb86b20f708e]
+#### 28. Consultation and publication of the National Framework[^c-f1c62652c201e7d59b2edb86b20f708e]
 
 (1) In preparin‍g the National Framework for Welsh Language Education and Learning Welsh, the Welsh Ministers must consult the following—
 
-- (a)[^key-01b1cc95fa01e4816200c842b4ac9175] each local authority;
+- (a)[^c-01b1cc95fa01e4816200c842b4ac9175] each local authority;
 - (b) the National Institute for Learning Welsh (see Part 5);
-- (c)[^key-01b1cc95fa01e4816200c842b4ac9175] the Welsh Language Commissioner;
-- (d)[^key-01b1cc95fa01e4816200c842b4ac9175] His Majesty’s Chief Inspector for Education and Training in Wales;
-- (e)[^key-01b1cc95fa01e4816200c842b4ac9175] the Commission for Tertiary Education and Research;
-- (f)[^key-01b1cc95fa01e4816200c842b4ac9175] y Coleg Cymraeg Cenedlaethol (company number 07550507);
-- (g)[^key-01b1cc95fa01e4816200c842b4ac9175] any other persons they consider appropriate.
+- (c)[^c-01b1cc95fa01e4816200c842b4ac9175] the Welsh Language Commissioner;
+- (d)[^c-01b1cc95fa01e4816200c842b4ac9175] His Majesty’s Chief Inspector for Education and Training in Wales;
+- (e)[^c-01b1cc95fa01e4816200c842b4ac9175] the Commission for Tertiary Education and Research;
+- (f)[^c-01b1cc95fa01e4816200c842b4ac9175] y Coleg Cymraeg Cenedlaethol (company number 07550507);
+- (g)[^c-01b1cc95fa01e4816200c842b4ac9175] any other persons they consider appropriate.
 
-(2)[^key-01b1cc95fa01e4816200c842b4ac9175] The Welsh Ministers must—
+(2)[^c-01b1cc95fa01e4816200c842b4ac9175] The Welsh Ministers must—
 
 - (a) publish the National Framework for Welsh Language Education and Learning Welsh;
 - (b) lay the National Framework before Senedd Cymru.
 
-(3)[^key-01b1cc95fa01e4816200c842b4ac9175] The Welsh Ministers must lay the first National Framework for Welsh Language Education and Learning Welsh before Senedd Cymru under subsection (2)(b) before 31 July 2028.
+(3)[^c-01b1cc95fa01e4816200c842b4ac9175] The Welsh Ministers must lay the first National Framework for Welsh Language Education and Learning Welsh before Senedd Cymru under subsection (2)(b) before 31 July 2028.
 
-#### 29. Reporting on the National Framework[^key-96ed72e4028021157ce26fc5449bc703]
+#### 29. Reporting on the National Framework[^c-96ed72e4028021157ce26fc5449bc703]
 
 **Not yet in force.**
 
@@ -698,7 +698,7 @@ The Welsh Ministers may, by regulations, make further provision about the school
 
 **Not yet in force.**
 
-#### 30. Local Welsh in education strategic plans[^key-24a21c647df103da12be7659202edbac]
+#### 30. Local Welsh in education strategic plans[^c-24a21c647df103da12be7659202edbac]
 
 (1) Each local authority must prepare a plan (“a local Welsh in education strategic plan”) that sets out how the local authority will—
 
@@ -752,7 +752,7 @@ in relation to children of compulsory school age who are not pupils in schools.
   - (x) Mudiad Meithrin Cyf (company number 02164058);
   - (xi) persons specified in regulations made by the Welsh Ministers.
 
-#### 31. Period of local Welsh in education strategic plans[^key-59b2c8c0d3b0795a15ba61cac2cea66c]
+#### 31. Period of local Welsh in education strategic plans[^c-59b2c8c0d3b0795a15ba61cac2cea66c]
 
 (1) Each local Welsh in education strategic plan has effect for a period of 5 years, where—
 
@@ -761,7 +761,7 @@ in relation to children of compulsory school age who are not pupils in schools.
 
 (2) But each local Welsh in education strategic plan must set out the steps a local authority intends to take in accordance with section 30(3) over a period of 10 years.
 
-#### 32. Approval of local Welsh in education strategic plans[^key-2c4b3410bc26347ab06556406c45a689]
+#### 32. Approval of local Welsh in education strategic plans[^c-2c4b3410bc26347ab06556406c45a689]
 
 (1) A local authority must submit a draft of its local Welsh in education strategic plan to the Welsh Ministers.
 
@@ -780,7 +780,7 @@ in relation to children of compulsory school age who are not pupils in schools.
 
 (5) Subsections (3) and (4) apply to a further draft as they apply to a draft submitted under subsection (1).
 
-#### 33. Publication and implementation of local Welsh in education strategic plans[^key-7c796de233d1b259ea0a61db5e7afd2d]
+#### 33. Publication and implementation of local Welsh in education strategic plans[^c-7c796de233d1b259ea0a61db5e7afd2d]
 
 (1) A local authority must, as soon as practicable after its local Welsh in education strategic plan has been approved, publish it and send it to—
 
@@ -792,7 +792,7 @@ in relation to children of compulsory school age who are not pupils in schools.
 
 (2) A local authority must take all reasonable steps to implement its approved local Welsh in education strategic plan.
 
-#### 34. Review and amendment of local Welsh in education strategic plans[^key-e152d6512454671deaf7393b1b3dfe18]
+#### 34. Review and amendment of local Welsh in education strategic plans[^c-e152d6512454671deaf7393b1b3dfe18]
 
 (1) A local authority must keep its local Welsh in education strategic plan under review, and if it considers it appropriate, amend it.
 
@@ -812,7 +812,7 @@ in relation to children of compulsory school age who are not pupils in schools.
 
 (6) Sections 30 to 33 and the remainder of this section apply to the amended plan as they apply to the original plan.
 
-#### 35. Regulations[^key-8910b6f2242f9c3fd5dd0453059b1f30]
+#### 35. Regulations[^c-8910b6f2242f9c3fd5dd0453059b1f30]
 
 (1) The Welsh Ministers may, by regulations, make further provision in relation to local Welsh in education strategic plans, including but not limited to provision about the following—
 
@@ -825,7 +825,7 @@ in relation to children of compulsory school age who are not pupils in schools.
 
 (2) Regulations under subsection (1) may also make provision enabling two or more local authorities to produce a joint local Welsh in education strategic plan, and any such regulations may make provision to apply sections 30 to 34 with modifications for that purpose.
 
-#### 36. Amendments to the School Standards and Organisation (Wales) Act 2013[^key-ca1bea8963f0b095f30099ab314a910d]
+#### 36. Amendments to the School Standards and Organisation (Wales) Act 2013[^c-ca1bea8963f0b095f30099ab314a910d]
 
 (1) The [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1) is amended as follows.
 
@@ -835,7 +835,7 @@ in relation to children of compulsory school age who are not pupils in schools.
 
 ### General
 
-#### 37. Interpretation[^key-ace9e180f52e50f787a1ad74fefb4c89][^key-a5ec5c801e48b4f9042f90070ad4d596]
+#### 37. Interpretation[^c-ace9e180f52e50f787a1ad74fefb4c89][^c-a5ec5c801e48b4f9042f90070ad4d596]
 
 In this Part—
 
@@ -860,7 +860,7 @@ In this Part—
 
 **Not yet in force.**
 
-### 38. National Institute for Learning Welsh[^key-4089ffb5dce26fc570f63cfbe723b740]
+### 38. National Institute for Learning Welsh[^c-4089ffb5dce26fc570f63cfbe723b740]
 
 (1) The National Institute for Learning Welsh is established as a corporate body.
 
@@ -870,7 +870,7 @@ In this Part—
 
 ### Objective and functions of the Learning Welsh Institute
 
-#### 39. Facilitating and supporting lifelong Welsh language learning[^key-dcef86af5e1ff056f085970533cc46ce]
+#### 39. Facilitating and supporting lifelong Welsh language learning[^c-dcef86af5e1ff056f085970533cc46ce]
 
 (1) The Learning Welsh Institute’s objective is to support people to learn Welsh, and facilitate their progress, so that more people (of all ages) are learning the language.
 
@@ -916,13 +916,13 @@ In this Part—
 - “**compulsory school age**” (“***oedran ysgol gorfodol***”) has the meaning given by section 8 of the Education Act 1996;
 - “**Welsh language learning provider**” (“***darparwr dysgu Cymraeg***”) means a person funded by the Learning Welsh Institute to provide Welsh language teaching, to people over compulsory school age.
 
-#### 40. Additional functions[^key-66a3698bd54dbf06bacf0b58b65510b7]
+#### 40. Additional functions[^c-66a3698bd54dbf06bacf0b58b65510b7]
 
 (1) The Welsh Ministers may, by regulations, confer additional functions on the Learning Welsh Institute.
 
 (2) A function conferred under subsection (1) must relate to supporting people to learn Welsh or facilitating their progress.
 
-#### 41. Promoting equality of opportunity[^key-a2af68f15221ed664d66b291f61a92ef]
+#### 41. Promoting equality of opportunity[^c-a2af68f15221ed664d66b291f61a92ef]
 
 (1) In exercising its functions, the Learning Welsh Institute must promote—
 
@@ -935,7 +935,7 @@ In this Part—
 - “under-represented groups‍” (“***grwpiau sydd heb gynrychiolaeth ddigonol***”) means groups of people that are under-represented in Welsh language learning programmes as a result of social, cultural, economic or organisational factors;
 - “**Welsh language learning programmes**” (”*rhaglenni dysgu Cymraeg*”) means Welsh language learning programmes provided by the Learning Welsh Institute or by a Welsh language learning provider.
 
-#### 42. Promoting innovation and continuous improvement[^key-65fa3d32443ce40f9e3a92250aaf6c86]
+#### 42. Promoting innovation and continuous improvement[^c-65fa3d32443ce40f9e3a92250aaf6c86]
 
 (1) In exercising its functions, the Learning Welsh Institute must promote—
 
@@ -948,7 +948,7 @@ In this Part—
 - (b) the ongoing professional development of those teaching Welsh to learners over compulsory school age;
 - (c) taking the views of learners over compulsory school age into account.
 
-#### 43. Promoting collaboration in relation to learning Welsh[^key-e8e7f5e729eada8a0e6f4077e6300c64]
+#### 43. Promoting collaboration in relation to learning Welsh[^c-e8e7f5e729eada8a0e6f4077e6300c64]
 
 In exercising its functions, the Learning Welsh Institute must promote—
 
@@ -957,14 +957,14 @@ In exercising its functions, the Learning Welsh Institute must promote—
 - (c) collaboration between Welsh language learning providers and other tertiary education providers in Wales;
 - (d) collaboration between Welsh language learning providers and employers in Wales.
 
-#### 44. Promoting co-ordination in relation to learning Welsh[^key-9d1b750f880fea5d4049b0d430b424ce]
+#### 44. Promoting co-ordination in relation to learning Welsh[^c-9d1b750f880fea5d4049b0d430b424ce]
 
 In exercising its functions, the Learning Welsh Institute must promote—
 
 - (a) co-ordination in the provision of Welsh language learning in Wales to learners over compulsory school age;
 - (b) sharing of best practice in relation to teaching methods and transmission of the Welsh language to learners over compulsory school age.
 
-#### 45. Application of Welsh language standards[^key-ea5bc8dbc406e1c81654d44b1ef07048]
+#### 45. Application of Welsh language standards[^c-ea5bc8dbc406e1c81654d44b1ef07048]
 
 (1) In Schedule 6 (public bodies etc.: standards) to the [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1), in the table, under the heading “General”, after the entry for the National Institute for Health and Clinical Excellence insert—
 
@@ -979,7 +979,7 @@ In exercising its functions, the Learning Welsh Institute must promote—
 
 ### General
 
-#### 46. Strategic plan[^key-e0a4f23523ee8ee7cf2e6a1a9f90cf25]
+#### 46. Strategic plan[^c-e0a4f23523ee8ee7cf2e6a1a9f90cf25]
 
 (1) The Learning Welsh Institute must, for each planning period, prepare a strategic plan.
 
@@ -1010,7 +1010,7 @@ In exercising its functions, the Learning Welsh Institute must promote—
 - (a) a first period beginning with a date specified by the Welsh Ministers by regulations and ending with a date so specified, and
 - (b) each subsequent period of 3 years or such other period specified by the Welsh Ministers by regulations.
 
-#### 47. Annual report[^key-cce8a7b28346c44d36d4098fd4d4a85d]
+#### 47. Annual report[^c-cce8a7b28346c44d36d4098fd4d4a85d]
 
 (1) As soon as reasonably practicable after the end of each financial year, the Learning Welsh Institute must—
 
@@ -1021,7 +1021,7 @@ In exercising its functions, the Learning Welsh Institute must promote—
 
 ## PART 6 — GENERAL
 
-### 48. Directions and guidance[^key-320777268274e8a8f2ace25e53dc0552]
+### 48. Directions and guidance[^c-320777268274e8a8f2ace25e53dc0552]
 
 (1) A direction under Parts 3 and 4 of this Act—
 
@@ -1031,7 +1031,7 @@ In exercising its functions, the Learning Welsh Institute must promote—
 
 (2) A local authorit‍y, the governing body of a maintained school and the governing body of a maintained nursery school must, in the exercise of their functions under this Act, have regard to any guidance issued by the Welsh Ministers.
 
-### 49. Repeal of provisions in the School Standards and Organisation (Wales) Act 2013[^key-61ed3c7325a0b79e53ca20cc047cb53d]
+### 49. Repeal of provisions in the School Standards and Organisation (Wales) Act 2013[^c-61ed3c7325a0b79e53ca20cc047cb53d]
 
 **Not yet in force.**
 
@@ -1045,11 +1045,11 @@ In exercising its functions, the Learning Welsh Institute must promote—
 - (d) in paragraph 22, for “to 25” substitute “and 24”;
 - (e) omit paragraph 25 (language medium: maintained nursery schools) and the cross heading that precedes it.
 
-### 50. Education Acts[^key-11c2ca3b5297fa1dac2054d6ed53241d]
+### 50. Education Acts[^c-11c2ca3b5297fa1dac2054d6ed53241d]
 
 Parts 3 and 4 of this Act are to be included in the list of Education Acts set out in section 578 of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56)
 
-### 51. Interpretation‍[^key-5407ec4e7b8068b3a02112c8e532e1ce]
+### 51. Interpretation‍[^c-5407ec4e7b8068b3a02112c8e532e1ce]
 
 (1) In this Act—
 
@@ -1087,7 +1087,7 @@ Parts 3 and 4 of this Act are to be included in the list of Education Acts set o
 
 (4) But where for the purposes of this Act an expression is given (either by this Act or by the [Legislation (Wales) Act 2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4)) a meaning different from that given to it for the purposes of the Education Act 1996, that meaning applies for the purposes of that provision instead of the one given for the purposes of the 1996 Act.
 
-### 52. Publication[^key-21c3ef9755ff8a9c066cb413f0493f5d]
+### 52. Publication[^c-21c3ef9755ff8a9c066cb413f0493f5d]
 
 (1) Where this Act imposes a duty to publish a document, it must be published—
 
@@ -1096,7 +1096,7 @@ Parts 3 and 4 of this Act are to be included in the list of Education Acts set o
 
 (2) The duty to publish the document electronically is, where the person has its own website, a duty to publish on that website.
 
-### 53. Sending documents[^key-c95258614f62b6ee0b1631fb8e3f6d40]
+### 53. Sending documents[^c-c95258614f62b6ee0b1631fb8e3f6d40]
 
 (1) Where a notice, direction or other document is required or authorised by this Act to be sent or given to a person, the document may be sent or given—
 
@@ -1113,7 +1113,7 @@ Parts 3 and 4 of this Act are to be included in the list of Education Acts set o
 - (b) legible in all material respects, and
 - (c) capable of being used for subsequent reference.
 
-### 54. Regulations under this Act[^key-0a85f13ff3c6ccac99bd0fea7e77b1dc]
+### 54. Regulations under this Act[^c-0a85f13ff3c6ccac99bd0fea7e77b1dc]
 
 (1) A power of the Welsh Ministers to make regulations under this Act must be exercised by statutory instrument.
 
@@ -1138,7 +1138,7 @@ Parts 3 and 4 of this Act are to be included in the list of Education Acts set o
 - (b) an Assembly Measure;
 - (c) an Act of the Parliament of the United Kingdom.
 
-### 55. Consequential and transitional provision etc.[^key-118ffbe34aa77ad1f63a720206bd7005]
+### 55. Consequential and transitional provision etc.[^c-118ffbe34aa77ad1f63a720206bd7005]
 
 (1) The Welsh Ministers may by regulations—
 
@@ -1147,7 +1147,7 @@ Parts 3 and 4 of this Act are to be included in the list of Education Acts set o
 
 (2) Regulations under subsection (1) may amend, repeal or revoke any enactment (including any provision of this Act).
 
-### 56. Coming into force[^key-a7266688472449a23822a0cc8b6716e1]
+### 56. Coming into force[^c-a7266688472449a23822a0cc8b6716e1]
 
 (1) The following provisions come into force on the day after the day this Act receives Royal Assent—
 
@@ -1166,15 +1166,15 @@ Parts 3 and 4 of this Act are to be included in the list of Education Acts set o
 - (a) appoint different days for different purposes;
 - (b) make transitional, transitory or saving provision in connection with the coming into force of a provision of this Act.
 
-### 57. Short title[^key-24e082b5201de60a241a6f0ba9e1b50e]
+### 57. Short title[^c-24e082b5201de60a241a6f0ba9e1b50e]
 
 The short title of this Act is the Welsh Language and Education (Wales) Act 2025.
 
-## SCHEDULE 1 — TYPES OF WELSH LANGUAGE USER AND COMMON REFERENCE LEVELS[^key-f3208c4142d774026076ba1ef1d77eab]
+## SCHEDULE 1 — TYPES OF WELSH LANGUAGE USER AND COMMON REFERENCE LEVELS[^c-f3208c4142d774026076ba1ef1d77eab]
 
 (Introduced by section 5)
 
-[^key-f3208c4142d774026076ba1ef1d77eab]
+[^c-f3208c4142d774026076ba1ef1d77eab]
 
 The Table reproduces (in relation to the Welsh language) the summary of the common reference levels contained in Appendix 1 to the Common European Framework of Reference for Languages: Learning, Teaching, Assessment - Companion Volume (2020), which updates the 2001 Common European Framework of Reference for Languages developed by the Council of Europe (and referred to in European Council Resolution 14757/01 on the promotion of linguistic diversity and language learning in the framework of the implementation of the objectives of the European Year of Languages 2001).
 
@@ -1202,7 +1202,7 @@ TABLE 1
 
 ### PART 1 — STATUS
 
-#### 1. Status[^key-6cad2767f762b4cdcdf752699d9b5042]
+#### 1. Status[^c-6cad2767f762b4cdcdf752699d9b5042]
 
 (1) The Learning Welsh Institute is not to be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
 
@@ -1210,7 +1210,7 @@ TABLE 1
 
 ### PART 2 — MEMBERSHIP
 
-#### 2. Members[^key-b5a6f8f22235058adcffdb17b872d0ef]
+#### 2. Members[^c-b5a6f8f22235058adcffdb17b872d0ef]
 
 (1) The members of the Learning Welsh Institute are—
 
@@ -1233,7 +1233,7 @@ TABLE 1
 - (a) possess experience of a matter, and have demonstrated ability in a matter, relevant to the exercise of the Learning Welsh Institute’s functions, and
 - (b) have a range of skills and experience.
 
-#### 3. Disqualification from non-executive membership[^key-84881918e4814cfd6743148b74a38c68]
+#### 3. Disqualification from non-executive membership[^c-84881918e4814cfd6743148b74a38c68]
 
 A person is disqualified from being a non-executive member if the person is—
 
@@ -1244,7 +1244,7 @@ A person is disqualified from being a non-executive member if the person is—
 - (e) a person employed in the civil service of the State, or
 - (f) the holder of an office, or a member of a body or a member of staff of a body, specified by the Welsh Ministers by regulations.
 
-#### 4. Non-executive membership terms[^key-24027cc9f801c43fa99f96a901699895]
+#### 4. Non-executive membership terms[^c-24027cc9f801c43fa99f96a901699895]
 
 (1) A non-executive member holds office for such period, and on such terms and conditions, as may be specified in the terms of appointment, but this is subject to sub-paragraphs (2) to (4) and paragraph 5.
 
@@ -1257,7 +1257,7 @@ A person is disqualified from being a non-executive member if the person is—
 - (a) pay‍ remuneration, expenses and allowances to its non-executive members;
 - (b) pay pensions to, or in respect of, persons who have been non-executive members and amounts for or towards provision of pensions to, or in respect of, persons who have been non-executive members.
 
-#### 5. Removal etc. of members[^key-38fa2093c9f302ecc7d2133747a78240]
+#### 5. Removal etc. of members[^c-38fa2093c9f302ecc7d2133747a78240]
 
 (1) The Welsh Ministers may remove a non-executive member from office if they are satisfied that—
 
@@ -1283,7 +1283,7 @@ A person is disqualified from being a non-executive member if the person is—
 
 ### PART 3 — STAFF
 
-#### 6. Chief executive[^key-620639dcc3ed7041fc7cff66e2e94ad6]
+#### 6. Chief executive[^c-620639dcc3ed7041fc7cff66e2e94ad6]
 
 (1) The Learning Welsh Institute must have a chief executive.
 
@@ -1301,7 +1301,7 @@ A person is disqualified from being a non-executive member if the person is—
 
 (8) Service as the chief executive is not service in the civil service of the State.
 
-#### 7. Other staff[^key-a4ec72bbef35d349fd8dc86030d050a5]
+#### 7. Other staff[^c-a4ec72bbef35d349fd8dc86030d050a5]
 
 (1) The Learning Welsh Institute may appoint other members of staff.
 
@@ -1313,7 +1313,7 @@ A person is disqualified from being a non-executive member if the person is—
 
 ### PART 4 — DELEGATION
 
-#### 8. Committees and sub-committees[^key-a7638dfd33c58dce6c080af3915ebea0]
+#### 8. Committees and sub-committees[^c-a7638dfd33c58dce6c080af3915ebea0]
 
 (1) The Learning Welsh Institute may establish committees and sub-committees.
 
@@ -1326,7 +1326,7 @@ A person is disqualified from being a non-executive member if the person is—
 - (a) is a member of a committee or of a sub-committee established under this paragraph, but
 - (b) is not a member of the Learning Welsh Institute, nor a member of its staff.
 
-#### 9. Delegation[^key-7824ca9c7fb55586cf83ada780c0d57b]
+#### 9. Delegation[^c-7824ca9c7fb55586cf83ada780c0d57b]
 
 (1) The Learning Welsh Institute may delegate any of its functions to any one or more of—
 
@@ -1365,7 +1365,7 @@ A person is disqualified from being a non-executive member if the person is—
 
 ### PART 5 — PROCEDURE ETC.
 
-#### 10. Procedure[^key-06fdeb63d8e40d6d35708ba989f56644]
+#### 10. Procedure[^c-06fdeb63d8e40d6d35708ba989f56644]
 
 (1) The Learning Welsh Institute must make rules to regulate its own procedure (including quorum).
 
@@ -1375,31 +1375,31 @@ A person is disqualified from being a non-executive member if the person is—
 
 (4) The Learning Welsh Institute, its committees and sub-committees may determine their own procedure (including quorum), subject to any rules made by the Learning Welsh Institute under sub-paragraph (3).
 
-#### 11. Validity of proceedings and acts[^key-7def0389664fee5d912eb79f7c4ab976]
+#### 11. Validity of proceedings and acts[^c-7def0389664fee5d912eb79f7c4ab976]
 
 The following do not affect the validity of proceedings and acts of the Learning Welsh Institute (or of its committees and sub-committees)—
 
 - (a) any vacancy in the membership of the Learning Welsh Institute, or
 - (b) any defect in the appointment of a member.
 
-#### 12. Seal[^key-e84aefcb77fc7ba3ffa99d9e9a1fab13]
+#### 12. Seal[^c-e84aefcb77fc7ba3ffa99d9e9a1fab13]
 
 If the Learning Welsh Institute has a seal, it must be verified by the signature of—
 
 - (a) a member of the Learning Welsh Institute authorised for that purpose, or
 - (b) a member of the Learning Welsh Institute’s staff authorised for that purpose.
 
-#### 13. Evidence[^key-6fd6e2f089debe2522ae361f19dc9416]
+#### 13. Evidence[^c-6fd6e2f089debe2522ae361f19dc9416]
 
 A document purporting to be duly executed under the seal of the Learning Welsh Institute or to be signed on behalf of the Learning Welsh Institute is to be received in evidence and, unless the contrary is proved, taken to be so executed or signed.
 
 ### PART 6 — FINANCIAL MATTERS
 
-#### 14. Finance[^key-89319ba34b81d85533fc1fd87d5d0952]
+#### 14. Finance[^c-89319ba34b81d85533fc1fd87d5d0952]
 
 The Welsh Ministers may make payments by grant or loan to the Learning Welsh Institute of such amounts, and at such times, and on such conditions as the Welsh Ministers determine.
 
-#### 15. Accounting officer[^key-b9e862bfd9d570e24c1f52de4421c034]
+#### 15. Accounting officer[^c-b9e862bfd9d570e24c1f52de4421c034]
 
 (1) The chief executive of the Learning Welsh Institute is its accounting officer.
 
@@ -1416,7 +1416,7 @@ The Welsh Ministers may make payments by grant or loan to the Learning Welsh Ins
 - (c) responsibilities for the economy, efficiency and effectiveness of the use of the Learning Welsh Institute’s resources;
 - (d) responsibilities owed to the Welsh Ministers, Senedd Cymru or its Public Accounts Committee.
 
-#### 16. Accounts[^key-cb1357ffa3ad9ded191b5641d3c80e2a]
+#### 16. Accounts[^c-cb1357ffa3ad9ded191b5641d3c80e2a]
 
 (1) The Learning Welsh Institute must—
 
@@ -1435,7 +1435,7 @@ The Welsh Ministers may make payments by grant or loan to the Learning Welsh Ins
 - (a) the Auditor General for Wales, and
 - (b) the Welsh Ministers.
 
-#### 17. Audit[^key-553a0049a5b12aba6f418d319ff0907a]
+#### 17. Audit[^c-553a0049a5b12aba6f418d319ff0907a]
 
 (1) This paragraph applies in relation to each statement of accounts submitted to the Auditor General for Wales by the Learning Welsh Institute under paragraph 16(3)(a).
 
@@ -1453,7 +1453,7 @@ The Welsh Ministers may make payments by grant or loan to the Learning Welsh Ins
 
 (5) In complying with sub-paragraph (2), the Auditor General for Wales must examine and report on whether, in the opinion of the Auditor General, the expenditure to which the accounts relate has been incurred lawfully and in accordance with the authority governing that expenditure.
 
-#### 18. Examination into use of resources[^key-611355e1078c7ac72faabffaabf53eb0]
+#### 18. Examination into use of resources[^c-611355e1078c7ac72faabffaabf53eb0]
 
 (1) The Auditor General for Wales may carry out examinations into the economy, efficiency and effectiveness with which resources have been used in discharging the Learning Welsh Institute’s functions.
 
@@ -1469,13 +1469,13 @@ The Welsh Ministers may make payments by grant or loan to the Learning Welsh Ins
 - (a) as soon as is reasonably practicable, publish a report of the results of an examination carried out under this paragraph, and
 - (b) lay a copy of the report before Senedd Cymru.
 
-#### 19. Register of interests[^key-1a3e3cafea6d3bb78012787579c651e0]
+#### 19. Register of interests[^c-1a3e3cafea6d3bb78012787579c651e0]
 
 (1) The Learning Welsh Institute must establish and maintain a register of the interests of its members.
 
 (2) The Learning Welsh Institute must publish entries recorded in the members’ register of interests.
 
-#### 20. Supplementary powers[^key-b83d22ff91dc23ac470f6b59bc6693ef]
+#### 20. Supplementary powers[^c-b83d22ff91dc23ac470f6b59bc6693ef]
 
 (1) The Learning Welsh Institute may do anything it considers—
 
@@ -1493,7 +1493,7 @@ The Welsh Ministers may make payments by grant or loan to the Learning Welsh Ins
 
 ### PART 7 — CONSEQUENTIAL AMENDMENT
 
-#### 21. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^key-0ebc4dd7d855cb96f9eff3e0cd2cd812]
+#### 21. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^c-0ebc4dd7d855cb96f9eff3e0cd2cd812]
 
 In section 148 of the Government of Wales Act 2006 (meaning of “**Welsh public records**”), in subsection (2), after paragraph (k), insert—
 
@@ -1503,216 +1503,216 @@ In section 148 of the Government of Wales Act 2006 (meaning of “**Welsh public
 
 ## Annotations
 
-[^key-054e3cbb185be4649844a6bf20d9132d]: Commencement: S. 1(1)(a) in force at 8.7.2025, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/b)
+[^c-054e3cbb185be4649844a6bf20d9132d]: Commencement: S. 1(1)(a) in force at 8.7.2025, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/b)
 
-[^key-390105fbd8eab2470057980671f7a739]: Commencement: S. 1(4) in force at 8.7.2025 for specified purposes, see [s. 56(1)(c)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/c)
+[^c-390105fbd8eab2470057980671f7a739]: Commencement: S. 1(4) in force at 8.7.2025 for specified purposes, see [s. 56(1)(c)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/c)
 
-[^key-508ae864d7f88717112b2cd4edf8c61a]: Commencement: [S. 1(5)](https://www.legislation.gov.uk/asc/2025/2/section/1/5) in force at 7.9.2025, see [s. 56(2)](https://www.legislation.gov.uk/asc/2025/2/section/56/2)
+[^c-508ae864d7f88717112b2cd4edf8c61a]: Commencement: [S. 1(5)](https://www.legislation.gov.uk/asc/2025/2/section/1/5) in force at 7.9.2025, see [s. 56(2)](https://www.legislation.gov.uk/asc/2025/2/section/56/2)
 
-[^key-d787d8399c941542b3b5964acfcc7ac9]: Commencement: S. 2 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-d787d8399c941542b3b5964acfcc7ac9]: Commencement: S. 2 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-9b5cf103770a7fedcd3b69c9296f6b1f]: Commencement: S. 3 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-9b5cf103770a7fedcd3b69c9296f6b1f]: Commencement: S. 3 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-d45ad552f595269161f7eb886ae02c8e]: Commencement: [S. 3(1)-(3)](https://www.legislation.gov.uk/asc/2025/2/section/3/1) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/78/article/2/a)
+[^c-d45ad552f595269161f7eb886ae02c8e]: Commencement: [S. 3(1)-(3)](https://www.legislation.gov.uk/asc/2025/2/section/3/1) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/78/article/2/a)
 
-[^key-51b49ebb1e085dc612cb84b2c537083d]: Commencement: S. 4 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-51b49ebb1e085dc612cb84b2c537083d]: Commencement: S. 4 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-13e84d104675473434fe119c2cfdca53]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2025/2/section/4) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/78/article/2/b)
+[^c-13e84d104675473434fe119c2cfdca53]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2025/2/section/4) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/78/article/2/b)
 
-[^key-57e74f4469d0d00e24ab2d04321624f4]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2025/2/section/5) in force at 7.9.2025, see [s. 56(2)](https://www.legislation.gov.uk/asc/2025/2/section/56/2)
+[^c-57e74f4469d0d00e24ab2d04321624f4]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2025/2/section/5) in force at 7.9.2025, see [s. 56(2)](https://www.legislation.gov.uk/asc/2025/2/section/56/2)
 
-[^key-7aa28f8726c22e175fb6eab73bb2aec0]: Commencement: S. 6 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-7aa28f8726c22e175fb6eab73bb2aec0]: Commencement: S. 6 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-720d0720b9cd6f90df79b616739aaffe]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2025/2/section/6) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/78/article/2/c)
+[^c-720d0720b9cd6f90df79b616739aaffe]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2025/2/section/6) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/78/article/2/c)
 
-[^key-4cd2537a26f0beb28c707776fb00d05a]: Commencement: S. 7 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-4cd2537a26f0beb28c707776fb00d05a]: Commencement: S. 7 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-b0f520248e54c8e79872034f53958b41]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2025/2/section/7) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/78/article/2/d)
+[^c-b0f520248e54c8e79872034f53958b41]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2025/2/section/7) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/78/article/2/d)
 
-[^key-c21d89c5601ffcb703cd5e52d456fcd5]: Commencement: S. 8 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-c21d89c5601ffcb703cd5e52d456fcd5]: Commencement: S. 8 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-cd19e8420056b3319ac19bdf7909865c]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2025/2/section/8) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-cd19e8420056b3319ac19bdf7909865c]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2025/2/section/8) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-24abbd2ec7950b879b729ffe691e8da6]: Commencement: S. 9 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-24abbd2ec7950b879b729ffe691e8da6]: Commencement: S. 9 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-88c1af705949679c336a540845820117]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2025/2/section/9) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-88c1af705949679c336a540845820117]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2025/2/section/9) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-18ccdab9aaa7e478dbb170c71205c444]: Commencement: S. 10 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-18ccdab9aaa7e478dbb170c71205c444]: Commencement: S. 10 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-f71a3cfd9dfedcda88edda29a8e0eb19]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2025/2/section/10) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-f71a3cfd9dfedcda88edda29a8e0eb19]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2025/2/section/10) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-395029e90bda5b6f26dfc98d1ee2ffdd]: Commencement: S. 11 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-395029e90bda5b6f26dfc98d1ee2ffdd]: Commencement: S. 11 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-90576ac32bc760926b0b2ed8af8cf238]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2025/2/section/11) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-90576ac32bc760926b0b2ed8af8cf238]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2025/2/section/11) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-2d0d53572c1463423f440fcc306759f0]: Commencement: S. 12 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-2d0d53572c1463423f440fcc306759f0]: Commencement: S. 12 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-4c6bd5756b84df87d2ae51eaf25f98ca]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2025/2/section/12) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-4c6bd5756b84df87d2ae51eaf25f98ca]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2025/2/section/12) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-cc920ae7f3495268fccdd8df821efb90]: Commencement: S. 13 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-cc920ae7f3495268fccdd8df821efb90]: Commencement: S. 13 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-c202d2214cba4570428619e99a898602]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2025/2/section/13) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-c202d2214cba4570428619e99a898602]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2025/2/section/13) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-85c3f1b88e4b6aeebf4e43aa97dc0450]: Commencement: S. 14 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-85c3f1b88e4b6aeebf4e43aa97dc0450]: Commencement: S. 14 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-d123c65552c3b348b2173b5c2b780f07]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2025/2/section/14) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-d123c65552c3b348b2173b5c2b780f07]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2025/2/section/14) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-3c8bae276b4ec0215c3bb3600972fd94]: Commencement: S. 15 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-3c8bae276b4ec0215c3bb3600972fd94]: Commencement: S. 15 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-aa99ddab9b7bcc336cc1fbb3c6e51bc4]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2025/2/section/15) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-aa99ddab9b7bcc336cc1fbb3c6e51bc4]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2025/2/section/15) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-55604034a82a41ec7da8f20623234ea0]: Commencement: S. 16 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-55604034a82a41ec7da8f20623234ea0]: Commencement: S. 16 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-cf4823f98ec5dd3733605e2963afd118]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2025/2/section/16) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-cf4823f98ec5dd3733605e2963afd118]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2025/2/section/16) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-980ae96cc2db2c31344b29cd26c00e89]: Commencement: S. 17 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-980ae96cc2db2c31344b29cd26c00e89]: Commencement: S. 17 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-d0237b8b9b1d36cba076f14f4c6c53f8]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2025/2/section/17) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-d0237b8b9b1d36cba076f14f4c6c53f8]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2025/2/section/17) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-668f2ddb3c648b012767575b39c079b8]: Commencement: S. 18 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-668f2ddb3c648b012767575b39c079b8]: Commencement: S. 18 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-670496d315c17f8f22b3aee93e230f27]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2025/2/section/18) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-670496d315c17f8f22b3aee93e230f27]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2025/2/section/18) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-624a1cbb812ab572e7fbc5ca9020e26c]: Commencement: S. 19 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-624a1cbb812ab572e7fbc5ca9020e26c]: Commencement: S. 19 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-4a8488bee1af82b9f0405bcab69593c7]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2025/2/section/19) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-4a8488bee1af82b9f0405bcab69593c7]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2025/2/section/19) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-b276ec7c525890637b5288439930ef10]: Commencement: S. 20 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-b276ec7c525890637b5288439930ef10]: Commencement: S. 20 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-21b5163c1b8bb867e491a996529dcafc]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2025/2/section/20) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-21b5163c1b8bb867e491a996529dcafc]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2025/2/section/20) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-64d8f5a9822901c93bbad1d70befdb93]: Commencement: S. 21 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-64d8f5a9822901c93bbad1d70befdb93]: Commencement: S. 21 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-69623164f17b9925c3c8c98689b57457]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2025/2/section/21) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-69623164f17b9925c3c8c98689b57457]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2025/2/section/21) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-2981adaa71ad6f378f74cff8af700cf3]: Commencement: S. 22 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-2981adaa71ad6f378f74cff8af700cf3]: Commencement: S. 22 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-a51bd91a6e66d46978b746ce0d19b721]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2025/2/section/22) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-a51bd91a6e66d46978b746ce0d19b721]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2025/2/section/22) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-9591cf4617a18d821060b0e5580ff9fd]: Commencement: S. 23 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-9591cf4617a18d821060b0e5580ff9fd]: Commencement: S. 23 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-5e4a6149572ef033abe5bc44c1b03ae9]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2025/2/section/23) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
+[^c-5e4a6149572ef033abe5bc44c1b03ae9]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2025/2/section/23) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 4](https://www.legislation.gov.uk/wsi/2026/78/article/4)
 
-[^key-b8f0065af391452c79fb246ff079ad02]: Commencement: S. 24 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-b8f0065af391452c79fb246ff079ad02]: Commencement: S. 24 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-8d77057f8798625c1f0d9788a73717a2]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2025/2/section/24) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(e)](https://www.legislation.gov.uk/wsi/2026/78/article/2/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2026/78/article/5))
+[^c-8d77057f8798625c1f0d9788a73717a2]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2025/2/section/24) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(e)](https://www.legislation.gov.uk/wsi/2026/78/article/2/e) (with [art. 5](https://www.legislation.gov.uk/wsi/2026/78/article/5))
 
-[^key-1d0cb7acb534e27958861a38440209ef]: Commencement: S. 25 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-1d0cb7acb534e27958861a38440209ef]: Commencement: S. 25 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-1b1acfb712b5a980a7de2194efc7bc9b]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2025/2/section/25) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(f)](https://www.legislation.gov.uk/wsi/2026/78/article/2/f)
+[^c-1b1acfb712b5a980a7de2194efc7bc9b]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2025/2/section/25) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(f)](https://www.legislation.gov.uk/wsi/2026/78/article/2/f)
 
-[^key-75a2e7ab84c30f6c400abd59d36b40a1]: Commencement: S. 26 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-75a2e7ab84c30f6c400abd59d36b40a1]: Commencement: S. 26 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-671e1cc339c1d2c4b3bee50b5d067320]: Commencement: [S. 26(2)(b)](https://www.legislation.gov.uk/asc/2025/2/section/26/2/b) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(g)](https://www.legislation.gov.uk/wsi/2026/78/article/2/g)
+[^c-671e1cc339c1d2c4b3bee50b5d067320]: Commencement: [S. 26(2)(b)](https://www.legislation.gov.uk/asc/2025/2/section/26/2/b) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(g)](https://www.legislation.gov.uk/wsi/2026/78/article/2/g)
 
-[^key-6d044b418cb12b1a480c8141537578ae]: Commencement: S. 27 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-6d044b418cb12b1a480c8141537578ae]: Commencement: S. 27 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-b3dff2a91645caa6e2b8137ea3d6c016]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2025/2/section/27) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(h)](https://www.legislation.gov.uk/wsi/2026/78/article/2/h)
+[^c-b3dff2a91645caa6e2b8137ea3d6c016]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2025/2/section/27) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(h)](https://www.legislation.gov.uk/wsi/2026/78/article/2/h)
 
-[^key-f1c62652c201e7d59b2edb86b20f708e]: Commencement: S. 28 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-f1c62652c201e7d59b2edb86b20f708e]: Commencement: S. 28 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-01b1cc95fa01e4816200c842b4ac9175]: Commencement: [S. 28(1)(a)(c)-(g)(2)(3)](https://www.legislation.gov.uk/asc/2025/2/section/28/1/a/c) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/uksi/2026/78), [art. 2(i)](https://www.legislation.gov.uk/uksi/2026/78/article/2/i)
+[^c-01b1cc95fa01e4816200c842b4ac9175]: Commencement: [S. 28(1)(a)(c)-(g)(2)(3)](https://www.legislation.gov.uk/asc/2025/2/section/28/1/a/c) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/uksi/2026/78), [art. 2(i)](https://www.legislation.gov.uk/uksi/2026/78/article/2/i)
 
-[^key-96ed72e4028021157ce26fc5449bc703]: Commencement: S. 29 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-96ed72e4028021157ce26fc5449bc703]: Commencement: S. 29 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-24a21c647df103da12be7659202edbac]: Commencement: S. 30 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-24a21c647df103da12be7659202edbac]: Commencement: S. 30 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-59b2c8c0d3b0795a15ba61cac2cea66c]: Commencement: S. 31 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-59b2c8c0d3b0795a15ba61cac2cea66c]: Commencement: S. 31 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-2c4b3410bc26347ab06556406c45a689]: Commencement: S. 32 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-2c4b3410bc26347ab06556406c45a689]: Commencement: S. 32 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-7c796de233d1b259ea0a61db5e7afd2d]: Commencement: S. 33 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-7c796de233d1b259ea0a61db5e7afd2d]: Commencement: S. 33 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-e152d6512454671deaf7393b1b3dfe18]: Commencement: S. 34 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-e152d6512454671deaf7393b1b3dfe18]: Commencement: S. 34 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-8910b6f2242f9c3fd5dd0453059b1f30]: Commencement: S. 35 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-8910b6f2242f9c3fd5dd0453059b1f30]: Commencement: S. 35 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-ca1bea8963f0b095f30099ab314a910d]: Commencement: S. 36 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-ca1bea8963f0b095f30099ab314a910d]: Commencement: S. 36 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-ace9e180f52e50f787a1ad74fefb4c89]: Commencement: S. 37 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-ace9e180f52e50f787a1ad74fefb4c89]: Commencement: S. 37 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-a5ec5c801e48b4f9042f90070ad4d596]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2025/2/section/37) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(j)](https://www.legislation.gov.uk/wsi/2026/78/article/2/j)
+[^c-a5ec5c801e48b4f9042f90070ad4d596]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2025/2/section/37) in force at 1.4.2026 by [W.S.I. 2026/78](https://www.legislation.gov.uk/wsi/2026/78), [art. 2(j)](https://www.legislation.gov.uk/wsi/2026/78/article/2/j)
 
-[^key-4089ffb5dce26fc570f63cfbe723b740]: Commencement: S. 38 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-4089ffb5dce26fc570f63cfbe723b740]: Commencement: S. 38 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-dcef86af5e1ff056f085970533cc46ce]: Commencement: S. 39 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-dcef86af5e1ff056f085970533cc46ce]: Commencement: S. 39 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-66a3698bd54dbf06bacf0b58b65510b7]: Commencement: S. 40 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-66a3698bd54dbf06bacf0b58b65510b7]: Commencement: S. 40 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-a2af68f15221ed664d66b291f61a92ef]: Commencement: S. 41 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-a2af68f15221ed664d66b291f61a92ef]: Commencement: S. 41 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-65fa3d32443ce40f9e3a92250aaf6c86]: Commencement: S. 42 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-65fa3d32443ce40f9e3a92250aaf6c86]: Commencement: S. 42 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-e8e7f5e729eada8a0e6f4077e6300c64]: Commencement: S. 43 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-e8e7f5e729eada8a0e6f4077e6300c64]: Commencement: S. 43 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-9d1b750f880fea5d4049b0d430b424ce]: Commencement: S. 44 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-9d1b750f880fea5d4049b0d430b424ce]: Commencement: S. 44 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-ea5bc8dbc406e1c81654d44b1ef07048]: Commencement: S. 45 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-ea5bc8dbc406e1c81654d44b1ef07048]: Commencement: S. 45 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-e0a4f23523ee8ee7cf2e6a1a9f90cf25]: Commencement: S. 46 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-e0a4f23523ee8ee7cf2e6a1a9f90cf25]: Commencement: S. 46 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-cce8a7b28346c44d36d4098fd4d4a85d]: Commencement: S. 47 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-cce8a7b28346c44d36d4098fd4d4a85d]: Commencement: S. 47 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-320777268274e8a8f2ace25e53dc0552]: Commencement: S. 48 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
+[^c-320777268274e8a8f2ace25e53dc0552]: Commencement: S. 48 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
 
-[^key-61ed3c7325a0b79e53ca20cc047cb53d]: Commencement: S. 49 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
+[^c-61ed3c7325a0b79e53ca20cc047cb53d]: Commencement: S. 49 not in force at Royal Assent, see [s. 56(4)(5)](https://www.legislation.gov.uk/asc/2025/2/section/56/4/5)
 
-[^key-11c2ca3b5297fa1dac2054d6ed53241d]: Commencement: S. 50 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
+[^c-11c2ca3b5297fa1dac2054d6ed53241d]: Commencement: S. 50 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
 
-[^key-5407ec4e7b8068b3a02112c8e532e1ce]: Commencement: S. 51 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
+[^c-5407ec4e7b8068b3a02112c8e532e1ce]: Commencement: S. 51 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
 
-[^key-21c3ef9755ff8a9c066cb413f0493f5d]: Commencement: S. 52 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
+[^c-21c3ef9755ff8a9c066cb413f0493f5d]: Commencement: S. 52 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
 
-[^key-c95258614f62b6ee0b1631fb8e3f6d40]: Commencement: S. 53 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
+[^c-c95258614f62b6ee0b1631fb8e3f6d40]: Commencement: S. 53 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
 
-[^key-0a85f13ff3c6ccac99bd0fea7e77b1dc]: Commencement: S. 54 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
+[^c-0a85f13ff3c6ccac99bd0fea7e77b1dc]: Commencement: S. 54 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
 
-[^key-118ffbe34aa77ad1f63a720206bd7005]: Commencement: S. 55 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
+[^c-118ffbe34aa77ad1f63a720206bd7005]: Commencement: S. 55 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
 
-[^key-a7266688472449a23822a0cc8b6716e1]: Commencement: S. 56 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
+[^c-a7266688472449a23822a0cc8b6716e1]: Commencement: S. 56 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
 
-[^key-24e082b5201de60a241a6f0ba9e1b50e]: Commencement: S. 57 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
+[^c-24e082b5201de60a241a6f0ba9e1b50e]: Commencement: S. 57 in force at 8.7.2025, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2025/2/section/56/1/a)
 
-[^key-f3208c4142d774026076ba1ef1d77eab]: Commencement: [Sch. 1](https://www.legislation.gov.uk/asc/2025/2/schedule/1) in force at 7.9.2025, see [s. 56(2)](https://www.legislation.gov.uk/asc/2025/2/section/56/2)
+[^c-f3208c4142d774026076ba1ef1d77eab]: Commencement: [Sch. 1](https://www.legislation.gov.uk/asc/2025/2/schedule/1) in force at 7.9.2025, see [s. 56(2)](https://www.legislation.gov.uk/asc/2025/2/section/56/2)
 
-[^key-6cad2767f762b4cdcdf752699d9b5042]: Commencement: Sch. 2 para. 1 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-6cad2767f762b4cdcdf752699d9b5042]: Commencement: Sch. 2 para. 1 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-b5a6f8f22235058adcffdb17b872d0ef]: Commencement: Sch. 2 para. 2 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-b5a6f8f22235058adcffdb17b872d0ef]: Commencement: Sch. 2 para. 2 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-84881918e4814cfd6743148b74a38c68]: Commencement: Sch. 2 para. 3 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-84881918e4814cfd6743148b74a38c68]: Commencement: Sch. 2 para. 3 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-24027cc9f801c43fa99f96a901699895]: Commencement: Sch. 2 para. 4 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-24027cc9f801c43fa99f96a901699895]: Commencement: Sch. 2 para. 4 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-38fa2093c9f302ecc7d2133747a78240]: Commencement: Sch. 2 para. 5 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-38fa2093c9f302ecc7d2133747a78240]: Commencement: Sch. 2 para. 5 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-620639dcc3ed7041fc7cff66e2e94ad6]: Commencement: Sch. 2 para. 6 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-620639dcc3ed7041fc7cff66e2e94ad6]: Commencement: Sch. 2 para. 6 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-a4ec72bbef35d349fd8dc86030d050a5]: Commencement: Sch. 2 para. 7 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-a4ec72bbef35d349fd8dc86030d050a5]: Commencement: Sch. 2 para. 7 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-a7638dfd33c58dce6c080af3915ebea0]: Commencement: Sch. 2 para. 8 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-a7638dfd33c58dce6c080af3915ebea0]: Commencement: Sch. 2 para. 8 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-7824ca9c7fb55586cf83ada780c0d57b]: Commencement: Sch. 2 para. 9 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-7824ca9c7fb55586cf83ada780c0d57b]: Commencement: Sch. 2 para. 9 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-06fdeb63d8e40d6d35708ba989f56644]: Commencement: Sch. 2 para. 10 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-06fdeb63d8e40d6d35708ba989f56644]: Commencement: Sch. 2 para. 10 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-7def0389664fee5d912eb79f7c4ab976]: Commencement: Sch. 2 para. 11 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-7def0389664fee5d912eb79f7c4ab976]: Commencement: Sch. 2 para. 11 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-e84aefcb77fc7ba3ffa99d9e9a1fab13]: Commencement: Sch. 2 para. 12 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-e84aefcb77fc7ba3ffa99d9e9a1fab13]: Commencement: Sch. 2 para. 12 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-6fd6e2f089debe2522ae361f19dc9416]: Commencement: Sch. 2 para. 13 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-6fd6e2f089debe2522ae361f19dc9416]: Commencement: Sch. 2 para. 13 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-89319ba34b81d85533fc1fd87d5d0952]: Commencement: Sch. 2 para. 14 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-89319ba34b81d85533fc1fd87d5d0952]: Commencement: Sch. 2 para. 14 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-b9e862bfd9d570e24c1f52de4421c034]: Commencement: Sch. 2 para. 15 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-b9e862bfd9d570e24c1f52de4421c034]: Commencement: Sch. 2 para. 15 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-cb1357ffa3ad9ded191b5641d3c80e2a]: Commencement: Sch. 2 para. 16 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-cb1357ffa3ad9ded191b5641d3c80e2a]: Commencement: Sch. 2 para. 16 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-553a0049a5b12aba6f418d319ff0907a]: Commencement: Sch. 2 para. 17 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-553a0049a5b12aba6f418d319ff0907a]: Commencement: Sch. 2 para. 17 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-611355e1078c7ac72faabffaabf53eb0]: Commencement: Sch. 2 para. 18 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-611355e1078c7ac72faabffaabf53eb0]: Commencement: Sch. 2 para. 18 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-1a3e3cafea6d3bb78012787579c651e0]: Commencement: Sch. 2 para. 19 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-1a3e3cafea6d3bb78012787579c651e0]: Commencement: Sch. 2 para. 19 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-b83d22ff91dc23ac470f6b59bc6693ef]: Commencement: Sch. 2 para. 20 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-b83d22ff91dc23ac470f6b59bc6693ef]: Commencement: Sch. 2 para. 20 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
 
-[^key-0ebc4dd7d855cb96f9eff3e0cd2cd812]: Commencement: Sch. 2 para. 21 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)
+[^c-0ebc4dd7d855cb96f9eff3e0cd2cd812]: Commencement: Sch. 2 para. 21 in force at 1.8.2027, see [s. 56(3)](https://www.legislation.gov.uk/asc/2025/2/section/56/3)

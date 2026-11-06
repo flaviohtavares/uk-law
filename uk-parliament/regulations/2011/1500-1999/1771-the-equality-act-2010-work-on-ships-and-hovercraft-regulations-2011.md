@@ -81,14 +81,14 @@ These Regulations may be cited as the Equality Act 2010 (Work on Ships and Hover
 (2) Part 5 of the Act, except in relation to the protected characteristic of marriage and civil partnership, also applies to a seafarer who works wholly or partly within Great Britain (including United Kingdom waters adjacent to Great Britain) and who is on—
 
 - (a) a ship registered in or entitled to fly the flag of an EEA State other than the United Kingdom, or
-- (b) a hovercraft registered in an EEA State [^key-55efe08c7d0bf6dfe147e553b1650451]...,
+- (b) a hovercraft registered in an EEA State [^c-55efe08c7d0bf6dfe147e553b1650451]...,
 
 if paragraph (3) applies.
 
 (3) This paragraph applies if—
 
 - (a) the ship or hovercraft is in United Kingdom waters adjacent to Great Britain,
-- (b) the seafarer is a British citizen, or a national of an EEA State [^key-55efe08c7d0bf6dfe147e553b1650451]... or of a designated state, and
+- (b) the seafarer is a British citizen, or a national of an EEA State [^c-55efe08c7d0bf6dfe147e553b1650451]... or of a designated state, and
 - (c) the legal relationship of the seafarer's employment is located within Great Britain or retains a sufficiently close link with Great Britain.
 
 ## 4. Application of Part 5 of the Act to seafarers working wholly outside Great Britain and adjacent waters
@@ -102,7 +102,7 @@ and paragraph (2) applies.
 
 (2) This paragraph applies if—
 
-- (a) the seafarer is a British citizen, or a national of an EEA State [^key-7cf1e7762052df461a3b303106670808]... or of a designated state, and
+- (a) the seafarer is a British citizen, or a national of an EEA State [^c-7cf1e7762052df461a3b303106670808]... or of a designated state, and
 - (b) the legal relationship of the seafarer's employment is located within Great Britain or retains a sufficiently close link with Great Britain.
 
 ## 5. Differentiation in relation to pay
@@ -116,7 +116,7 @@ It is not a contravention of section 39(1)(b) or (2)(a) or 41(1)(a) of the Act, 
   outside Great Britain, and
 - (b) A is not—
   - (i) a British Citizen,
-  - (ii) a national of an[^key-2691f66cca75775f7a56777f959666ee] EEA State, or
+  - (ii) a national of an[^c-2691f66cca75775f7a56777f959666ee] EEA State, or
   - (iii) a national of a designated state.
 
 ## 6. Review
@@ -176,11 +176,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c20951421]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-55efe08c7d0bf6dfe147e553b1650451]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/3/3) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 22(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55efe08c7d0bf6dfe147e553b1650451]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/3/3) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 22(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7cf1e7762052df461a3b303106670808]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 22(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7cf1e7762052df461a3b303106670808]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 22(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2691f66cca75775f7a56777f959666ee]: Textual amendment: Word in [reg. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/5/b/ii) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 22(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2691f66cca75775f7a56777f959666ee]: Textual amendment: Word in [reg. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1771/regulation/5/b/ii) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 22(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20951431]: Marginal citation: O.J. No. L.180, 19.7.2000, p.22.
 

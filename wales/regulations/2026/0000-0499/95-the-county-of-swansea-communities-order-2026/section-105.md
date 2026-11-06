@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. New community councils[^key-134a6cac59620749bf6aa783bc5754a6]
+## 105. New community councils[^c-134a6cac59620749bf6aa783bc5754a6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The proper officer of Swansea County Council must convene the first meeting of e
 
 ## Annotations
 
-[^key-134a6cac59620749bf6aa783bc5754a6]: Commencement: Art. 105 in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-134a6cac59620749bf6aa783bc5754a6]: Commencement: Art. 105 in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

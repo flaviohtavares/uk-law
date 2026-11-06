@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Restriction on communications[^key-34bb6cd8e82bb3b812ef4cd8f560085b]
+## 60. Restriction on communications[^c-34bb6cd8e82bb3b812ef4cd8f560085b]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34bb6cd8e82bb3b812ef4cd8f560085b]: Textual amendment: Rule 60 substituted (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/5)
+[^c-34bb6cd8e82bb3b812ef4cd8f560085b]: Textual amendment: Rule 60 substituted (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Sale of food additives and food containing miscellaneous additives[^key-9a92f9bf88e5c1a7f4c8fc63e426692f]
+## 5. Sale of food additives and food containing miscellaneous additives[^c-9a92f9bf88e5c1a7f4c8fc63e426692f]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a92f9bf88e5c1a7f4c8fc63e426692f]: Commencement: Reg. 5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9a92f9bf88e5c1a7f4c8fc63e426692f]: Commencement: Reg. 5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

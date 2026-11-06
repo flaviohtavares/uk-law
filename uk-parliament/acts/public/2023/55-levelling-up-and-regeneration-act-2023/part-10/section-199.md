@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Restriction on letting while final notice in force[^key-180ab1cfa691f29907e11c7e19a0c299][^key-2612041c2f8dd176c7dcb2576e43bcab]
+## 199. Restriction on letting while final notice in force[^c-180ab1cfa691f29907e11c7e19a0c299][^c-2612041c2f8dd176c7dcb2576e43bcab]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ without the written consent of the local authority that served the notice.
 
 ## Annotations
 
-[^key-180ab1cfa691f29907e11c7e19a0c299]: Commencement: S. 199 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-180ab1cfa691f29907e11c7e19a0c299]: Commencement: S. 199 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-2612041c2f8dd176c7dcb2576e43bcab]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/55/section/199) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-2612041c2f8dd176c7dcb2576e43bcab]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/55/section/199) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

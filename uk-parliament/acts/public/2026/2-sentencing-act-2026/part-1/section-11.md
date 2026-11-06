@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Whole life order: murder of police, prison or probation officer[^key-4f4de9dc96e98a516220423a215252df]
+## 11. Whole life order: murder of police, prison or probation officer[^c-4f4de9dc96e98a516220423a215252df]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In paragraph 2(2) of Schedule 21 to the Sentencing Code (mandatory life sentence
 
 ## Annotations
 
-[^key-4f4de9dc96e98a516220423a215252df]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2026/2/section/11) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-4f4de9dc96e98a516220423a215252df]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2026/2/section/11) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Search of premises in connection with imposition of civil penalty[^key-6d72c62de394e55c2648900a560b4ae4]
+## 47. Search of premises in connection with imposition of civil penalty[^c-6d72c62de394e55c2648900a560b4ae4]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d72c62de394e55c2648900a560b4ae4]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2016/19/section/47) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)
+[^c-6d72c62de394e55c2648900a560b4ae4]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2016/19/section/47) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)

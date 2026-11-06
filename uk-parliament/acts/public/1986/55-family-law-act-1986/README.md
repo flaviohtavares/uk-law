@@ -33,7 +33,7 @@ An Act to amend the law relating to the jurisdiction of courts in the United Kin
 
 \[7th November 1986\]
 
-[^c13379781][^c13379791][^c13379801]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-8f9fe7328910db13e5a49ae6f476c32c]
+[^c13379781][^c13379791][^c13379801]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-8f9fe7328910db13e5a49ae6f476c32c]
 
 ## Contents
 
@@ -177,6 +177,6 @@ SCHEDULES
 
 [^c13379801]: Extent: Act extends to the United Kingdom but for exceptions see [s. 69(5)(6)(7)](https://www.legislation.gov.uk/ukpga/1986/55/section/69/5/6/7)
 
-[^key-8f9fe7328910db13e5a49ae6f476c32c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/55) restricted by 1986 c. 55, s. 2(2A) (as inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 48](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/48) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o))
+[^c-8f9fe7328910db13e5a49ae6f476c32c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/55) restricted by 1986 c. 55, s. 2(2A) (as inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 48](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/48) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o))
 
 [^c13379811]: Modification: Pt. I applied by [S.I. 1991/1723](https://www.legislation.gov.uk/uksi/1991/1723), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/1723/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/1723/schedule/2) and art. 3(3), Sch. 3.

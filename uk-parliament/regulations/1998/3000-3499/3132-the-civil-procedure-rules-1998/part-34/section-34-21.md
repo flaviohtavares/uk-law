@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.21. Order under 1975 Act as applied by Patents Act 1977[^key-7b31d96dde400f1126f0b3e55e1bc6a8]
+## 34.21. Order under 1975 Act as applied by Patents Act 1977[^c-7b31d96dde400f1126f0b3e55e1bc6a8]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where an order is made for the examination of witnesses under section 1 of the 1
 
 ## Annotations
 
-[^key-7b31d96dde400f1126f0b3e55e1bc6a8]: Textual amendment: [Pt. 34](https://www.legislation.gov.uk/uksi/1998/3132/part/34) Section 2 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2058/schedule/2/part/II)
+[^c-7b31d96dde400f1126f0b3e55e1bc6a8]: Textual amendment: [Pt. 34](https://www.legislation.gov.uk/uksi/1998/3132/part/34) Section 2 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2058/schedule/2/part/II)

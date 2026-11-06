@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Adjournment of hearings; directions[^key-3f41345992a62094ab2b28b76ef72da1]
+## 103. Adjournment of hearings; directions[^c-3f41345992a62094ab2b28b76ef72da1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f41345992a62094ab2b28b76ef72da1]: Commencement: Rule 103 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-3f41345992a62094ab2b28b76ef72da1]: Commencement: Rule 103 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

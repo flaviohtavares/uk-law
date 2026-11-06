@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25.5A. Requirement for experts to be regulated in children proceedings[^key-013562d981c888e2e09ab2603bf4a564][^key-fac486bccc89c6381f2f4fe36561bffb]
+## 25.5A. Requirement for experts to be regulated in children proceedings[^c-013562d981c888e2e09ab2603bf4a564][^c-fac486bccc89c6381f2f4fe36561bffb]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-013562d981c888e2e09ab2603bf4a564]: Textual amendment: [Rule 25.5A](https://www.legislation.gov.uk/uksi/2010/2955/rule/25.5A) inserted (20.7.2026) by [The Family Procedure (Amendment) Rules 2026 (S.I. 2026/699)](https://www.legislation.gov.uk/uksi/2026/699), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/699/rule/1/3), [5](https://www.legislation.gov.uk/uksi/2026/699/rule/5) (with [rule 6](https://www.legislation.gov.uk/uksi/2026/699/rule/6))
+[^c-013562d981c888e2e09ab2603bf4a564]: Textual amendment: [Rule 25.5A](https://www.legislation.gov.uk/uksi/2010/2955/rule/25.5A) inserted (20.7.2026) by [The Family Procedure (Amendment) Rules 2026 (S.I. 2026/699)](https://www.legislation.gov.uk/uksi/2026/699), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/699/rule/1/3), [5](https://www.legislation.gov.uk/uksi/2026/699/rule/5) (with [rule 6](https://www.legislation.gov.uk/uksi/2026/699/rule/6))
 
-[^key-fac486bccc89c6381f2f4fe36561bffb]: Textual amendment: Pt. 25 substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rule 1](https://www.legislation.gov.uk/uksi/2012/3061/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3061/schedule)
+[^c-fac486bccc89c6381f2f4fe36561bffb]: Textual amendment: Pt. 25 substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rule 1](https://www.legislation.gov.uk/uksi/2012/3061/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3061/schedule)

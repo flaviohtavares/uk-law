@@ -24,27 +24,27 @@ summary: ''
 
 - (a) imposing, as a condition falling to be satisfied by a person who—
   - (i) makes a claim for a benefit to which this section applies, and
-  - (ii)[^key-e2d57e3db2a361d91f8edf95f8b01b34] has not attained pensionable age at the time of making the claim (but see subsection (1A)),
+  - (ii)[^c-e2d57e3db2a361d91f8edf95f8b01b34] has not attained pensionable age at the time of making the claim (but see subsection (1A)),
 
-  a requirement to take part in one or more work-focused interviews[^key-420acad8b7990cc9fd033db4ea40b166] ;
+  a requirement to take part in one or more work-focused interviews[^c-420acad8b7990cc9fd033db4ea40b166] ;
 - (b) imposing, at a time when—
-  - (i) a person has not attained pensionable age and is[^key-da26f9e0c01eaafe492246bc00266915] entitled to such a benefit, and
+  - (i) a person has not attained pensionable age and is[^c-da26f9e0c01eaafe492246bc00266915] entitled to such a benefit, and
   - (ii) any prescribed circumstances exist,
 
-  a requirement to take part in one or more work-focused interviews[^key-7d663d8acc3b5798bc59fd3fe0136fc1] as a condition of that person continuing to be entitled to the full amount which is payable to him in respect of the benefit apart from the regulations.
+  a requirement to take part in one or more work-focused interviews[^c-7d663d8acc3b5798bc59fd3fe0136fc1] as a condition of that person continuing to be entitled to the full amount which is payable to him in respect of the benefit apart from the regulations.
 
-(1A)[^key-9f978980a0a3db967398b5c1f2d98a34] For the purposes of subsection (1) a man born before 6 December 1953[^key-c230b5f5ce8367923544e367e9e0f5ab] is treated as attaining pensionable age when a woman born on the same day as the man would attain pensionable age.
+(1A)[^c-9f978980a0a3db967398b5c1f2d98a34] For the purposes of subsection (1) a man born before 6 December 1953[^c-c230b5f5ce8367923544e367e9e0f5ab] is treated as attaining pensionable age when a woman born on the same day as the man would attain pensionable age.
 
 (2) The benefits to which this section applies are—
 
 - (a) income support;
 - (b) housing benefit;
-- (c) widow’s and bereavement benefits falling within section 20(1)(e) and (ea) of the Contributions and Benefits Act[^key-26ab7c77bb8f3751e151330a2a3db77b]...;
+- (c) widow’s and bereavement benefits falling within section 20(1)(e) and (ea) of the Contributions and Benefits Act[^c-26ab7c77bb8f3751e151330a2a3db77b]...;
 - (d) incapacity benefit;
 - (e) severe disablement allowance; and
 - (f) carer’s allowance[^c18309751].
 
-(2A)[^key-8268f891f2bf43d8c1cab218c2bda198] No requirement may be imposed by virtue of this section on a person who—
+(2A)[^c-8268f891f2bf43d8c1cab218c2bda198] No requirement may be imposed by virtue of this section on a person who—
 
 - (a) is not a member of a couple, and
 - (b) is responsible for, and a member of the same household as, a child under the age of one.
@@ -103,11 +103,11 @@ and the regulations may make provision for treating a person in relation to whom
 
 the time to which it is so postponed may be a time falling after an award of the relevant benefit to that person.
 
-(7A)[^key-f2cafc6716b8f7611b10aa3c0a0033fa] Information supplied in pursuance of regulations under this section shall be taken for all purposes to be information relating to social security.
+(7A)[^c-f2cafc6716b8f7611b10aa3c0a0033fa] Information supplied in pursuance of regulations under this section shall be taken for all purposes to be information relating to social security.
 
 (8) In this section—
 
-- “[^key-e04f12e7dc6de4cf4f435f972c8bc0ab]**couple**” has the meaning given by section 133(1) of the Contributions and Benefits Act;
+- “[^c-e04f12e7dc6de4cf4f435f972c8bc0ab]**couple**” has the meaning given by section 133(1) of the Contributions and Benefits Act;
 - “the designated authority” means such of the following as may be specified—
   - (a) a Northern Ireland department;
   - (b) a person providing services to a Northern Ireland department;
@@ -124,24 +124,24 @@ and the purposes which may be so specified include purposes connected with a per
 
 [^c14891691]: Textual amendment: Ss. 2A, 2B and preceding cross-heading inserted (1.12.1999) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [arts. 1(4)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/4), [54](https://www.legislation.gov.uk/nisi/1999/3147/article/54)
 
-[^key-e2d57e3db2a361d91f8edf95f8b01b34]: Textual amendment: S. 2A(1)(a)(ii) substituted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(2)(a)](https://www.legislation.gov.uk/nia/2010/13/section/29/2/a), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
+[^c-e2d57e3db2a361d91f8edf95f8b01b34]: Textual amendment: S. 2A(1)(a)(ii) substituted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(2)(a)](https://www.legislation.gov.uk/nia/2010/13/section/29/2/a), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
 
-[^key-420acad8b7990cc9fd033db4ea40b166]: Textual amendment: Words in s. 2A(1)(a) substituted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(4)](https://www.legislation.gov.uk/nia/2010/13/section/29/4), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
+[^c-420acad8b7990cc9fd033db4ea40b166]: Textual amendment: Words in s. 2A(1)(a) substituted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(4)](https://www.legislation.gov.uk/nia/2010/13/section/29/4), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
 
-[^key-da26f9e0c01eaafe492246bc00266915]: Textual amendment: Words in s. 2A(1)(b)(i) substituted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(2)(b)](https://www.legislation.gov.uk/nia/2010/13/section/29/2/b), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
+[^c-da26f9e0c01eaafe492246bc00266915]: Textual amendment: Words in s. 2A(1)(b)(i) substituted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(2)(b)](https://www.legislation.gov.uk/nia/2010/13/section/29/2/b), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
 
-[^key-7d663d8acc3b5798bc59fd3fe0136fc1]: Textual amendment: Words in s. 2A(1)(b) substituted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(4)](https://www.legislation.gov.uk/nia/2010/13/section/29/4), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
+[^c-7d663d8acc3b5798bc59fd3fe0136fc1]: Textual amendment: Words in s. 2A(1)(b) substituted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(4)](https://www.legislation.gov.uk/nia/2010/13/section/29/4), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
 
-[^key-9f978980a0a3db967398b5c1f2d98a34]: Textual amendment: S. 2A(1A) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(2)(c)](https://www.legislation.gov.uk/nia/2010/13/section/29/2/c), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
+[^c-9f978980a0a3db967398b5c1f2d98a34]: Textual amendment: S. 2A(1A) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 29(2)(c)](https://www.legislation.gov.uk/nia/2010/13/section/29/2/c), [36(1)(l)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/l)
 
-[^key-c230b5f5ce8367923544e367e9e0f5ab]: Textual amendment: Words in s. 2A(1A) substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2012/3/schedule/1/paragraph/1)
+[^c-c230b5f5ce8367923544e367e9e0f5ab]: Textual amendment: Words in s. 2A(1A) substituted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2012/3/schedule/1/paragraph/1)
 
-[^key-26ab7c77bb8f3751e151330a2a3db77b]: Textual amendment: Words in s. 2A(2)(c) omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 22](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/22); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
+[^c-26ab7c77bb8f3751e151330a2a3db77b]: Textual amendment: Words in s. 2A(2)(c) omitted (6.4.2017) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 22](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/22); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
 
 [^c18309751]: Textual amendment: Words in s. 2A(2)(f) substituted (21.10.2002 for certain purposes, otherwise 1.4.2003) by [The Deregulation (Carer's Allowance) Order (Northern Ireland) 2002 (S.R. 2002/321)](https://www.legislation.gov.uk/nisr/2002/321), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/nisr/2002/321/article/2/2/b/i)
 
-[^key-8268f891f2bf43d8c1cab218c2bda198]: Textual amendment: S. 2A(2A)(2B) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 3(2)(a)](https://www.legislation.gov.uk/nia/2010/13/section/3/2/a), [36(1)(b)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/b)
+[^c-8268f891f2bf43d8c1cab218c2bda198]: Textual amendment: S. 2A(2A)(2B) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 3(2)(a)](https://www.legislation.gov.uk/nia/2010/13/section/3/2/a), [36(1)(b)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/b)
 
-[^key-f2cafc6716b8f7611b10aa3c0a0033fa]: Textual amendment: S. 2A(7A) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 28(1)](https://www.legislation.gov.uk/nia/2010/13/section/28/1), [36(1)(k)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/k)
+[^c-f2cafc6716b8f7611b10aa3c0a0033fa]: Textual amendment: S. 2A(7A) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 28(1)](https://www.legislation.gov.uk/nia/2010/13/section/28/1), [36(1)(k)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/k)
 
-[^key-e04f12e7dc6de4cf4f435f972c8bc0ab]: Textual amendment: Words in s. 2A(8) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 3(2)(b)](https://www.legislation.gov.uk/nia/2010/13/section/3/2/b), [36(1)(b)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/b)
+[^c-e04f12e7dc6de4cf4f435f972c8bc0ab]: Textual amendment: Words in s. 2A(8) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 3(2)(b)](https://www.legislation.gov.uk/nia/2010/13/section/3/2/b), [36(1)(b)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/b)

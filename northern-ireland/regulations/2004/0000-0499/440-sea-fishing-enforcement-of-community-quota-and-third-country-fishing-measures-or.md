@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development in exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^f00001] and now vested in it[^f00002] hereby makes the following Order:
 
-## 1. Citation and commencement[^key-8ea22224dcc988fdcc69fceda6f0ab44]
+## 1. Citation and commencement[^c-8ea22224dcc988fdcc69fceda6f0ab44]
 
 This Order may be cited as the Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures) Order (Northern Ireland) 2004 and shall come into operation on 15th November 2004.
 
-## 2. Interpretation[^key-f72bb3ecf64d8475f8f07cb5f57f272e]
+## 2. Interpretation[^c-f72bb3ecf64d8475f8f07cb5f57f272e]
 
 (1) In this Order –
 
@@ -74,7 +74,7 @@ This Order may be cited as the Sea Fishing (Enforcement of Community Quota and T
 - (a) the master of the fishing boat in question has applied to a British sea-fishery officer at the harbour in question for a decision as to the suitability of that harbour for landing the catch on that boat; and
 - (b) the British sea-fishery officer has decided that the sampling systems at the harbour are adequate, having regard to the overall size and characteristics of the catch, for the purpose of monitoring effectively the landing of that catch, and has so notified the master.
 
-## 3. Weighing procedures for herring, mackerel and horse mackerel[^key-e32894391e4ed36804dd9ad837d643c9]
+## 3. Weighing procedures for herring, mackerel and horse mackerel[^c-e32894391e4ed36804dd9ad837d643c9]
 
 (1) For the purposes of point 12.8 of Annex IV to the Council Regulation the controller, in relation to any buyer or holder of fish at a port, shall be a British sea-fishery officer, unless –
 
@@ -85,7 +85,7 @@ in which case the controller shall be that person or a British sea-fishery offic
 
 (2) For the purposes of these Regulations, failure to weigh in the presence of the controller in circumstances where that point applies shall be treated as a contravention of that point.
 
-## 4. Offences[^key-6261b9488d718c1f2ad3cd9c6270db6f]
+## 4. Offences[^c-6261b9488d718c1f2ad3cd9c6270db6f]
 
 (1) Where there is, in relation to –
 
@@ -98,7 +98,7 @@ a contravention of, or failure to comply with, any specified Community provision
 
 (3) Where there is, in respect of any third country fishing boat within the Northern Ireland zone to which any specified Community provision in Column 1 of Schedule 3 to this Order applies, a contravention of, or failure to comply with, that specified Community provision, the master, the owner and the charterer (if any) shall each be guilty of an offence.
 
-## 5. Penalties[^key-8fd6ffb42c6c7a0e578e52c9de5e6cd2]
+## 5. Penalties[^c-8fd6ffb42c6c7a0e578e52c9de5e6cd2]
 
 (1) A person found guilty of a relevant offence shall be liable –
 
@@ -110,7 +110,7 @@ a contravention of, or failure to comply with, any specified Community provision
 - (a) any net or other fishing gear in respect of which the offence was committed or which was used in committing the offence or which was used for catching any fish in respect of which the offence was committed; and
 - (b) any fish in respect of which the offence was committed or, on summary conviction only, to a fine not exceeding the value of any fish in respect of which the offence was committed.
 
-## 6. Recovery of fines[^key-c7f5600202bc1ebd2b97b183523694a1]
+## 6. Recovery of fines[^c-c7f5600202bc1ebd2b97b183523694a1]
 
 (1) Where a fine is imposed by a magistrates' court on the master, owner or charterer or a member of the crew of a fishing boat who is convicted by the court of a relevant offence or an offence under Article 11, the court may –
 
@@ -119,9 +119,9 @@ a contravention of, or failure to comply with, any specified Community provision
 
 (2) Articles 114(2) and 154 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00007] (postponement of issue of certain warrants and objections as to want of form or variance between complaints etc and evidence adduced) shall apply to a warrant of distress referred to in those Articles of that Order.
 
-(3) Where in relation to a fine in respect of a relevant offence, a court orders under section 90 of the Magistrates' Courts Act 1980[^f00008] or section 222 of the Criminal Procedure (Scotland) Act 1995[^f00009] that a fine shall be enforceable in Northern Ireland, paragraphs (1) and (2) shall apply as if the fine were imposed by a court in Northern Ireland.[^key-c07153d3efbabee5e7a637d0d0ff683f]
+(3) Where in relation to a fine in respect of a relevant offence, a court orders under section 90 of the Magistrates' Courts Act 1980[^f00008] or section 222 of the Criminal Procedure (Scotland) Act 1995[^f00009] that a fine shall be enforceable in Northern Ireland, paragraphs (1) and (2) shall apply as if the fine were imposed by a court in Northern Ireland.[^c-c07153d3efbabee5e7a637d0d0ff683f]
 
-## 7. Powers of British sea-fishery officers in relation to fishing boats[^key-51222062944b6a0af4f0c2020d0529b4]
+## 7. Powers of British sea-fishery officers in relation to fishing boats[^c-51222062944b6a0af4f0c2020d0529b4]
 
 (1) For the purpose of enforcing the provisions of Article 4(1) or (3), or any corresponding provision in any other order extending to any part of the United Kingdom made for the purposes of implementing a specified Community provision, any British sea-fishery officer may exercise the powers conferred by paragraphs (2) to (4) in relation to –
 
@@ -147,7 +147,7 @@ but nothing in sub-paragraph (e) shall permit any document required by law to be
 
 and where such an officer detains or requires the detention of a boat he shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
 
-## 8. Powers of British sea-fishery officers on land[^key-16c6f22a7b96c725741996c23cabbc4b]
+## 8. Powers of British sea-fishery officers on land[^c-16c6f22a7b96c725741996c23cabbc4b]
 
 (1) For the purpose of enforcing the provisions of Article 4 or any equivalent provision in any other order extending to any part of the United Kingdom made for the purposes of implementing a specified Community provision, any British sea-fishery officer may –
 
@@ -172,7 +172,7 @@ and where such an officer detains or requires the detention of a boat he shall s
 
   the justice may by warrant signed by him, and valid for one month, authorise a British sea-fishery officer to enter the premises, if need be by reasonable force, and take with him such persons as appear to him to be necessary.
 
-## 9. Powers of British sea-fishery officers to seize fish and fishing gear[^key-2cf966b61d22d23c281970e443c34dfb]
+## 9. Powers of British sea-fishery officers to seize fish and fishing gear[^c-2cf966b61d22d23c281970e443c34dfb]
 
 (1) Any British sea-fishery officer may seize –
 
@@ -186,11 +186,11 @@ any fish (including any receptacle which contains the fish) or any net or fishin
 - (a) any fish (including any receptacle which contains the fish) in respect of which the officer concerned has reasonable grounds to suspect that a relevant offence has been committed; and
 - (b) any net or other fishing gear which he has reasonable grounds to suspect has been used in the course of the commission of such an offence.
 
-## 10. Protection of officers[^key-4313e45c0ba8b1f20606b2d314c72351]
+## 10. Protection of officers[^c-4313e45c0ba8b1f20606b2d314c72351]
 
 An officer or a person assisting him by virtue of Article 7(2) or 8(1)(b) or a warrant under Article 8(3) shall not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred on him by Articles 7 to 9 if the court is satisfied that the act was done in good faith, that there were reasonable grounds for doing it and that it was done with reasonable skill and care.
 
-## 11. Obstruction of officers[^key-cb6e5980d3f99af72713aa9acb020071]
+## 11. Obstruction of officers[^c-cb6e5980d3f99af72713aa9acb020071]
 
 (1) Any person who –
 
@@ -205,7 +205,7 @@ shall be guilty of an offence.
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment to a fine.
 
-## 12. Admissibility in evidence of logbooks and other documents[^key-144dc7edd2e86b1a2572d80b92a1f1ff]
+## 12. Admissibility in evidence of logbooks and other documents[^c-144dc7edd2e86b1a2572d80b92a1f1ff]
 
 (1) Any –
 
@@ -225,7 +225,7 @@ of Council Regulation 2847/93 shall, in any proceedings for a relevant offence, 
 
 as communicated via a satellite-based vessel monitoring system established under Article 3.1 of Council Regulation 2847/93.
 
-## 13. Revocation[^key-833b7bb166b4c821420ed382c1b372a9]
+## 13. Revocation[^c-833b7bb166b4c821420ed382c1b372a9]
 
 The Sea Fishing (Enforcement of Community Quota and Third Country Fishing Measures) Order 2002[^f00010] is revoked insofar as it relates to Northern Ireland.
 
@@ -237,7 +237,7 @@ A senior officer of the
 
 Department of Agriculture and Rural Development
 
-## SCHEDULE 1 — Specified Community Provisions Applicable to Community Vessels and Maximum Fines on Summary Conviction[^key-a21ad39ad3c274195e28489071d1037e]
+## SCHEDULE 1 — Specified Community Provisions Applicable to Community Vessels and Maximum Fines on Summary Conviction[^c-a21ad39ad3c274195e28489071d1037e]
 
 Articles 2(1), 4(1) and 5
 
@@ -262,7 +262,7 @@ Articles 2(1), 4(1) and 5
 </tbody>
 </table>
 
-## SCHEDULE 2 — Specified Community Provisions Applicable to All Vessels in Relation to Catches of Herring, Mackerel and Horse Mackerel or a Combination of the Three Exceeding 10 Tonnes and Maximum Fines on Summary Conviction[^key-1a8d6da481ad557f053e47ed23ac69ed]
+## SCHEDULE 2 — Specified Community Provisions Applicable to All Vessels in Relation to Catches of Herring, Mackerel and Horse Mackerel or a Combination of the Three Exceeding 10 Tonnes and Maximum Fines on Summary Conviction[^c-1a8d6da481ad557f053e47ed23ac69ed]
 
 Articles 2(1), 4(1), 4(2) and 5
 
@@ -285,7 +285,7 @@ Articles 2(1), 4(1), 4(2) and 5
 </tbody>
 </table>
 
-## SCHEDULE 3 — Specified Community Provisions Applicable to Third Country Vessels and Maximum Fines on Summary Conviction[^key-0f334244469796db1d62a1effddf4fce]
+## SCHEDULE 3 — Specified Community Provisions Applicable to Third Country Vessels and Maximum Fines on Summary Conviction[^c-0f334244469796db1d62a1effddf4fce]
 
 Articles 2(1), 4(3) and 5
 
@@ -320,9 +320,9 @@ The Order revokes the Sea Fishing (Enforcement of Community Quota and Third Coun
 
 [^f00002]: Footnote: [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790) Article 3(2) and Schedule 2
 
-[^key-8ea22224dcc988fdcc69fceda6f0ab44]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-8ea22224dcc988fdcc69fceda6f0ab44]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-f72bb3ecf64d8475f8f07cb5f57f272e]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/440/article/2) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-f72bb3ecf64d8475f8f07cb5f57f272e]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/440/article/2) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
 [^f00003]: Footnote: O.J. No. L344, 31.12.2003, p. 1
 
@@ -332,13 +332,13 @@ The Order revokes the Sea Fishing (Enforcement of Community Quota and Third Coun
 
 [^f00006]: Footnote: [1998 c. 47 (N.I.)](https://www.legislation.gov.uk/ukpga/1998/47) *see* section 98
 
-[^key-e32894391e4ed36804dd9ad837d643c9]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/440/article/3) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-e32894391e4ed36804dd9ad837d643c9]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/440/article/3) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-6261b9488d718c1f2ad3cd9c6270db6f]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/440/article/4) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-6261b9488d718c1f2ad3cd9c6270db6f]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2004/440/article/4) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-8fd6ffb42c6c7a0e578e52c9de5e6cd2]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2004/440/article/5) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-8fd6ffb42c6c7a0e578e52c9de5e6cd2]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2004/440/article/5) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-c7f5600202bc1ebd2b97b183523694a1]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2004/440/article/6) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-c7f5600202bc1ebd2b97b183523694a1]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2004/440/article/6) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
 [^f00007]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
@@ -346,26 +346,26 @@ The Order revokes the Sea Fishing (Enforcement of Community Quota and Third Coun
 
 [^f00009]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46)
 
-[^key-c07153d3efbabee5e7a637d0d0ff683f]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/nisr/2004/440/article/6/3) substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [24](https://www.legislation.gov.uk/nisr/2016/317/article/24); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+[^c-c07153d3efbabee5e7a637d0d0ff683f]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/nisr/2004/440/article/6/3) substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [24](https://www.legislation.gov.uk/nisr/2016/317/article/24); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
 
-[^key-51222062944b6a0af4f0c2020d0529b4]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2004/440/article/7) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-51222062944b6a0af4f0c2020d0529b4]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2004/440/article/7) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-16c6f22a7b96c725741996c23cabbc4b]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2004/440/article/8) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-16c6f22a7b96c725741996c23cabbc4b]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2004/440/article/8) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-2cf966b61d22d23c281970e443c34dfb]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2004/440/article/9) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-2cf966b61d22d23c281970e443c34dfb]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2004/440/article/9) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-4313e45c0ba8b1f20606b2d314c72351]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2004/440/article/10) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-4313e45c0ba8b1f20606b2d314c72351]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2004/440/article/10) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-cb6e5980d3f99af72713aa9acb020071]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2004/440/article/11) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-cb6e5980d3f99af72713aa9acb020071]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2004/440/article/11) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-144dc7edd2e86b1a2572d80b92a1f1ff]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2004/440/article/12) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-144dc7edd2e86b1a2572d80b92a1f1ff]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2004/440/article/12) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-833b7bb166b4c821420ed382c1b372a9]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2004/440/article/13) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-833b7bb166b4c821420ed382c1b372a9]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2004/440/article/13) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
 [^f00010]: Footnote: [S.I. 2002/272](https://www.legislation.gov.uk/uksi/2002/272)
 
-[^key-a21ad39ad3c274195e28489071d1037e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2004/440/schedule/1) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-a21ad39ad3c274195e28489071d1037e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2004/440/schedule/1) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-1a8d6da481ad557f053e47ed23ac69ed]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2004/440/schedule/2) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-1a8d6da481ad557f053e47ed23ac69ed]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2004/440/schedule/2) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
 
-[^key-0f334244469796db1d62a1effddf4fce]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2004/440/schedule/3) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)
+[^c-0f334244469796db1d62a1effddf4fce]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2004/440/schedule/3) in operation at 15.11.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/440/article/1)

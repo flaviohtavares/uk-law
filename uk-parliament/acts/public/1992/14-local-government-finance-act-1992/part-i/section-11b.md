@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11B. Higher amount for long-term empty dwellings: England[^key-ea79100fd4d9179f43e34c5146ece0bf]
+## 11B. Higher amount for long-term empty dwellings: England[^c-ea79100fd4d9179f43e34c5146ece0bf]
 
 *Extent: E+W*
 
 (1) For any financial year, a billing authority in England may by determination provide in relation to its area, or such part of its area as it may specify in the determination, that if on any day a dwelling is a long-term empty dwelling—
 
 - (a) the discount under section 11(2)(a) shall not apply, and
-- (b) the amount of council tax payable in respect of that dwelling and that day (“[^key-df270696f95bd2b0af2b541c8a8ebb58]**the relevant day**”) shall be increased by such percentage of not more than the relevant maximum[^key-e972e633b34e99d70f463907dc5d9d6a] as it may so specify.
+- (b) the amount of council tax payable in respect of that dwelling and that day (“[^c-df270696f95bd2b0af2b541c8a8ebb58]**the relevant day**”) shall be increased by such percentage of not more than the relevant maximum[^c-e972e633b34e99d70f463907dc5d9d6a] as it may so specify.
 
-(1A)[^key-7c145220cf31bfd9c653f644720321b8] For the financial year beginning on 1 April 2019 the “relevant maximum” is 100.
+(1A)[^c-7c145220cf31bfd9c653f644720321b8] For the financial year beginning on 1 April 2019 the “relevant maximum” is 100.
 
 (1B) For the financial year beginning on 1 April 2020 the “relevant maximum” is—
 
@@ -38,7 +38,7 @@ summary: ''
 - (b) in respect of any dwelling where the period mentioned in subsection (8) ending on the relevant day is at least 5 years but less than 10 years, 200;
 - (c) in respect of any dwelling where the period mentioned in subsection (8) ending on the relevant day is at least 10 years, 300.
 
-(1D)[^key-bcbf5e6ed19f4e5513009d7486ed349c] In exercising its functions under this section a billing authority must have regard to any guidance issued by the Secretary of State.
+(1D)[^c-bcbf5e6ed19f4e5513009d7486ed349c] In exercising its functions under this section a billing authority must have regard to any guidance issued by the Secretary of State.
 
 (2) The Secretary of State may by regulations prescribe one or more classes of dwelling in relation to which a billing authority may not make a determination under this section.
 
@@ -58,7 +58,7 @@ summary: ''
 
 (7) Failure to comply with subsection (6) does not affect the validity of a determination.
 
-(8) For the purposes of this section, a dwelling is a “long-term empty dwelling” on any day if for a continuous period of at least 1 year[^key-bbd50ca27c738f1467983bdae7a68506] ending with that day—
+(8) For the purposes of this section, a dwelling is a “long-term empty dwelling” on any day if for a continuous period of at least 1 year[^c-bbd50ca27c738f1467983bdae7a68506] ending with that day—
 
 - (a) it has been unoccupied, and
 - (b) it has been substantially unfurnished.
@@ -69,14 +69,14 @@ summary: ''
 
 ## Annotations
 
-[^key-ea79100fd4d9179f43e34c5146ece0bf]: Textual amendment: S. 11B inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/2) (with [s. 12(15)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/15))
+[^c-ea79100fd4d9179f43e34c5146ece0bf]: Textual amendment: S. 11B inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/2) (with [s. 12(15)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/15))
 
-[^key-df270696f95bd2b0af2b541c8a8ebb58]: Textual amendment: Words in s. 11B(1)(b) inserted (1.11.2018 with effect in accordance with s. 2(4)(5) of the amending Act) by [Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act 2018 (c. 25)](https://www.legislation.gov.uk/ukpga/2018/25), [s. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2018/25/section/2/2/a)
+[^c-df270696f95bd2b0af2b541c8a8ebb58]: Textual amendment: Words in s. 11B(1)(b) inserted (1.11.2018 with effect in accordance with s. 2(4)(5) of the amending Act) by [Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act 2018 (c. 25)](https://www.legislation.gov.uk/ukpga/2018/25), [s. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2018/25/section/2/2/a)
 
-[^key-e972e633b34e99d70f463907dc5d9d6a]: Textual amendment: Words in s. 11B(1)(b) substituted (1.11.2018 with effect in accordance with s. 2(4)(5) of the amending Act) by [Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act 2018 (c. 25)](https://www.legislation.gov.uk/ukpga/2018/25), [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2018/25/section/2/2/b)
+[^c-e972e633b34e99d70f463907dc5d9d6a]: Textual amendment: Words in s. 11B(1)(b) substituted (1.11.2018 with effect in accordance with s. 2(4)(5) of the amending Act) by [Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act 2018 (c. 25)](https://www.legislation.gov.uk/ukpga/2018/25), [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2018/25/section/2/2/b)
 
-[^key-7c145220cf31bfd9c653f644720321b8]: Textual amendment: S. 11B(1A)-(1C) inserted (1.11.2018 with effect in accordance with s. 2(4)(5) of the amending Act) by [Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act 2018 (c. 25)](https://www.legislation.gov.uk/ukpga/2018/25), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2018/25/section/2/3)
+[^c-7c145220cf31bfd9c653f644720321b8]: Textual amendment: S. 11B(1A)-(1C) inserted (1.11.2018 with effect in accordance with s. 2(4)(5) of the amending Act) by [Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act 2018 (c. 25)](https://www.legislation.gov.uk/ukpga/2018/25), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2018/25/section/2/3)
 
-[^key-bcbf5e6ed19f4e5513009d7486ed349c]: Textual amendment: [S. 11B(1D)](https://www.legislation.gov.uk/ukpga/1992/14/section/11B/1D) inserted (26.10.2023 with effect in accordance with [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/79/2) of the amending Act) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 79(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/79/1/a), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-bcbf5e6ed19f4e5513009d7486ed349c]: Textual amendment: [S. 11B(1D)](https://www.legislation.gov.uk/ukpga/1992/14/section/11B/1D) inserted (26.10.2023 with effect in accordance with [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/79/2) of the amending Act) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 79(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/79/1/a), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-bbd50ca27c738f1467983bdae7a68506]: Textual amendment: Words in [s. 11B(8)](https://www.legislation.gov.uk/ukpga/1992/14/section/11B/8) substituted (26.10.2023 with effect in accordance with [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/79/2) of the amending Act) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 79(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/79/1/b), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-bbd50ca27c738f1467983bdae7a68506]: Textual amendment: Words in [s. 11B(8)](https://www.legislation.gov.uk/ukpga/1992/14/section/11B/8) substituted (26.10.2023 with effect in accordance with [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/79/2) of the amending Act) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 79(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/79/1/b), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

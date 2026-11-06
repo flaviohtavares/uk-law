@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.31. Joining of applications[^key-ded4509b0caf4ef0a6da00e49de07926]
+## 33.31. Joining of applications[^c-ded4509b0caf4ef0a6da00e49de07926]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ An application for the appointment of a management receiver or enforcement recei
 
 ## Annotations
 
-[^key-ded4509b0caf4ef0a6da00e49de07926]: Commencement: [Rule 33.31](https://www.legislation.gov.uk/uksi/2025/909/rule/33.31) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ded4509b0caf4ef0a6da00e49de07926]: Commencement: [Rule 33.31](https://www.legislation.gov.uk/uksi/2025/909/rule/33.31) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

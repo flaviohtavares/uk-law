@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 158. Review[^key-2f2ffc30c413bf0be7324bddb250ad90][^key-aea3c202be162820ebe0f0bc072e0aea]
+## 158. Review[^c-2f2ffc30c413bf0be7324bddb250ad90][^c-aea3c202be162820ebe0f0bc072e0aea]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f2ffc30c413bf0be7324bddb250ad90]: Commencement: S. 158 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2f2ffc30c413bf0be7324bddb250ad90]: Commencement: S. 158 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-aea3c202be162820ebe0f0bc072e0aea]: Commencement: [S. 158](https://www.legislation.gov.uk/nia/2022/18/section/158) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/e)
+[^c-aea3c202be162820ebe0f0bc072e0aea]: Commencement: [S. 158](https://www.legislation.gov.uk/nia/2022/18/section/158) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/e)

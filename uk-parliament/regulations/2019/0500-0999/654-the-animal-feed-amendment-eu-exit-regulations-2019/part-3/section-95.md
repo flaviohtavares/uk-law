@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95.[^key-18a344164128df01fc7679ed711588e7][^key-e2b2544b1f1d69dab2d5e7000fef0d56]
+## 95.[^c-18a344164128df01fc7679ed711588e7][^c-e2b2544b1f1d69dab2d5e7000fef0d56]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ In Article 3(2)—
 
 ## Annotations
 
-[^key-18a344164128df01fc7679ed711588e7]: Commencement: Reg. 95 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-18a344164128df01fc7679ed711588e7]: Commencement: Reg. 95 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e2b2544b1f1d69dab2d5e7000fef0d56]: Textual amendment: Reg. 95 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/18)
+[^c-e2b2544b1f1d69dab2d5e7000fef0d56]: Textual amendment: Reg. 95 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(18)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/18)

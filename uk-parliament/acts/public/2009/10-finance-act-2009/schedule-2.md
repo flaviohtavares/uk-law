@@ -146,7 +146,7 @@ Section 6
 >
 > (2B) An order under subsection (2A) may make provision for there to be different rates in different circumstances.
 
-**15.**[^key-f11a5e4e2759243dde83b8b70dd8a564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-f11a5e4e2759243dde83b8b70dd8a564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** In section 240 (amount of scheme sanction charge), after subsection (3) insert—
 
@@ -184,7 +184,7 @@ Section 6
   >
   > - (iii) 50%, if the relevant tax year is the year 2010-2011 or any subsequent tax year.
 
-**21.**[^key-aa8bcd861dd68e216e5558853467e40a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-aa8bcd861dd68e216e5558853467e40a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.** In section 685A(3) (settlor-interested settlements), for “higher rate” substitute “ additional rate ”.
 
@@ -219,6 +219,6 @@ Section 6
 
 ## Annotations
 
-[^key-f11a5e4e2759243dde83b8b70dd8a564]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2009/10/schedule/2/paragraph/15) omitted (with effect in accordance with Sch. 17 Pt. 2 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 17 para. 26(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/26/1/a)
+[^c-f11a5e4e2759243dde83b8b70dd8a564]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2009/10/schedule/2/paragraph/15) omitted (with effect in accordance with Sch. 17 Pt. 2 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 17 para. 26(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/26/1/a)
 
-[^key-aa8bcd861dd68e216e5558853467e40a]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2009/10/schedule/2/paragraph/21) omitted (with effect in accordance with s. 4(18) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 4(14)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/14/c)
+[^c-aa8bcd861dd68e216e5558853467e40a]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2009/10/schedule/2/paragraph/21) omitted (with effect in accordance with s. 4(18) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 4(14)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/14/c)

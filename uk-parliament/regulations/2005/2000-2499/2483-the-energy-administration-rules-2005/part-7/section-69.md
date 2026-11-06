@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Proof altered after payment of dividend[^key-15afef902e019cb370c004800adb4b3d]
+## 69. Proof altered after payment of dividend[^c-15afef902e019cb370c004800adb4b3d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15afef902e019cb370c004800adb4b3d]: Commencement: Rule 69 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-15afef902e019cb370c004800adb4b3d]: Commencement: Rule 69 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

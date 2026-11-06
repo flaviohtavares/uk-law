@@ -35,7 +35,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Restriction on Pithing (Wales) Regulations 2001 (revoked)[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
+The Restriction on Pithing (Wales) Regulations 2001 (revoked)[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
 
 Made
 
@@ -51,48 +51,48 @@ Coming into force
 
 1st July 2001
 
-[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
+## 1. Title, application and commencement[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Restriction on pithing[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
+## 2. Restriction on pithing[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Disposal of illegally pithed animals[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
+## 3. Disposal of illegally pithed animals[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
+## 4. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of inspectors[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
+## 5. Powers of inspectors[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Obstruction[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
+## 6. Obstruction[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
+## 7. Penalties[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Enforcement[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
+## 8. Enforcement[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]: Textual amendment: Regulations revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (S.I. 2006/1226)](https://www.legislation.gov.uk/uksi/2006/1226), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1226/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2006/1226/schedule/8)
+[^c-6a9a3b86ec1e9cb8c5e6e799e7d6bcab]: Textual amendment: Regulations revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (S.I. 2006/1226)](https://www.legislation.gov.uk/uksi/2006/1226), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1226/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2006/1226/schedule/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Continuity option 2: resolving the triggering event[^key-72c584e6ba9486e5ca5ac92b6e939c88]
+## 53. Continuity option 2: resolving the triggering event[^c-72c584e6ba9486e5ca5ac92b6e939c88]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A notification to the Pensions Regulator setting out how the trustees consider t
 
 ## Annotations
 
-[^key-72c584e6ba9486e5ca5ac92b6e939c88]: Commencement: Reg. 53 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-72c584e6ba9486e5ca5ac92b6e939c88]: Commencement: Reg. 53 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

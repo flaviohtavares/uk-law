@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Powers of entry: supplementary[^key-e3ec0d36a6e3152f6c904b1cd8b1df56][^key-38deb4e4cf28cd193d2fcd88fe667969]
+## 79. Powers of entry: supplementary[^c-e3ec0d36a6e3152f6c904b1cd8b1df56][^c-38deb4e4cf28cd193d2fcd88fe667969]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ as he thinks necessary for the purpose of silencing the alarm.
 
 ## Annotations
 
-[^key-e3ec0d36a6e3152f6c904b1cd8b1df56]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2005/16/section/79) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-e3ec0d36a6e3152f6c904b1cd8b1df56]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2005/16/section/79) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-38deb4e4cf28cd193d2fcd88fe667969]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2005/16/section/79) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(ii)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/ii)
+[^c-38deb4e4cf28cd193d2fcd88fe667969]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2005/16/section/79) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(ii)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/ii)

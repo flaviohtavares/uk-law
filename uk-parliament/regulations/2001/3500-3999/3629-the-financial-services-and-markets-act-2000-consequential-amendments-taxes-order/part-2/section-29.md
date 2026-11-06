@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Effect of transfer of insurance business[^key-fddb66a2e48cd2c58373d1c3b2f43fda]
+## 29. Effect of transfer of insurance business[^c-fddb66a2e48cd2c58373d1c3b2f43fda]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fddb66a2e48cd2c58373d1c3b2f43fda]: Commencement: Art. 29 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-fddb66a2e48cd2c58373d1c3b2f43fda]: Commencement: Art. 29 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00033]: Footnote: Section 444A was inserted by paragraph 4 of Schedule 9 to the Finance Act 1990 and was relevantly amended by paragraph 1(1) and (2)(b) of Schedule 9 to the Finance Act 1995.

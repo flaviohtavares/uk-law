@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Community right to buy assets of community value and protection of sporting assets[^key-bae1ef110524bd3a7a1b7d9f6de509a6]
+## 67. Community right to buy assets of community value and protection of sporting assets[^c-bae1ef110524bd3a7a1b7d9f6de509a6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 31 makes provision for a community right to buy assets of community val
 
 ## Annotations
 
-[^key-bae1ef110524bd3a7a1b7d9f6de509a6]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-bae1ef110524bd3a7a1b7d9f6de509a6]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

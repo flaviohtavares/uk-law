@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Application of section 37 where user has died etc[^key-d41f3d70cc7690f8a50f5d98d63b7200][^key-51965b35c55c8feaf56f14092ca29ede]
+## 40. Application of section 37 where user has died etc[^c-d41f3d70cc7690f8a50f5d98d63b7200][^c-51965b35c55c8feaf56f14092ca29ede]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d41f3d70cc7690f8a50f5d98d63b7200]: Commencement: S. 40 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-d41f3d70cc7690f8a50f5d98d63b7200]: Commencement: S. 40 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-51965b35c55c8feaf56f14092ca29ede]: Commencement: S. 40 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/d)
+[^c-51965b35c55c8feaf56f14092ca29ede]: Commencement: S. 40 in force at 8.11.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 8. Clergy Conduct Commission: continuation[^key-7b35c938368bc0fd91adbecef706737f]
+## 8. Clergy Conduct Commission: continuation[^c-7b35c938368bc0fd91adbecef706737f]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b35c938368bc0fd91adbecef706737f]: Commencement: S. 8 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-7b35c938368bc0fd91adbecef706737f]: Commencement: S. 8 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

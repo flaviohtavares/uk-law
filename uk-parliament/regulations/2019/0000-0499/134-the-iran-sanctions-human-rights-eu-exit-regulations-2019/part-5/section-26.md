@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Transfer of restricted technology[^key-e9d3c8353828b09e8e1206ed67f49b7e]
+## 26. Transfer of restricted technology[^c-e9d3c8353828b09e8e1206ed67f49b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9d3c8353828b09e8e1206ed67f49b7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/134) revoked (14.12.2023) by [The Iran (Sanctions) Regulations 2023 (S.I. 2023/1314)](https://www.legislation.gov.uk/uksi/2023/1314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2), [96](https://www.legislation.gov.uk/uksi/2023/1314/regulation/96) (with [regs. 98-100](https://www.legislation.gov.uk/uksi/2023/1314/regulation/98))
+[^c-e9d3c8353828b09e8e1206ed67f49b7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/134) revoked (14.12.2023) by [The Iran (Sanctions) Regulations 2023 (S.I. 2023/1314)](https://www.legislation.gov.uk/uksi/2023/1314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2), [96](https://www.legislation.gov.uk/uksi/2023/1314/regulation/96) (with [regs. 98-100](https://www.legislation.gov.uk/uksi/2023/1314/regulation/98))

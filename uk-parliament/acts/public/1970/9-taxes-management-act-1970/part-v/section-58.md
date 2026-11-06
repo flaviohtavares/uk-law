@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Proceedings in tax cases in Northern Ireland.[^key-21df84e3f5925dcde517eaf2d1acee28]
+## 58. Proceedings in tax cases in Northern Ireland.[^c-21df84e3f5925dcde517eaf2d1acee28]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21df84e3f5925dcde517eaf2d1acee28]: Textual amendment: S. 58 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/38) (with [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/11/3)[(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/11/5))
+[^c-21df84e3f5925dcde517eaf2d1acee28]: Textual amendment: S. 58 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/38) (with [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/11/3)[(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/11/5))

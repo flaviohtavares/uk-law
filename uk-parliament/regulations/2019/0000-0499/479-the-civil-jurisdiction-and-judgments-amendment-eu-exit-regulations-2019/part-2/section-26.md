@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26.[^key-8efcc6ed0cd51f71e70abdb17de164c7]
+## 26.[^c-8efcc6ed0cd51f71e70abdb17de164c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ Before section 16, insert—
 > - (a) in matters relating to consumer contracts where the consumer is domiciled in the United Kingdom;
 > - (b) in matters relating to individual contracts of employment.
 >
-> (2) Sections 15B and 15C apply only if the subject-matter of the proceedings and the nature of the proceedings are within the scope of the Regulation as determined by Article 1 of the Regulation (whether or not the Regulation would have had effect before IP completion day[^key-6a12d3c733aee4390bb7df44c644ca8a] in relation to the proceedings).
+> (2) Sections 15B and 15C apply only if the subject-matter of the proceedings and the nature of the proceedings are within the scope of the Regulation as determined by Article 1 of the Regulation (whether or not the Regulation would have had effect before IP completion day[^c-6a12d3c733aee4390bb7df44c644ca8a] in relation to the proceedings).
 >
 > (3) Sections 15B to 15E do not apply to proceedings of a description listed in Schedule 5 or to proceedings in Scotland under an enactment which confers jurisdiction on a Scottish court in respect of a specific subject-matter on specific grounds.
 >
@@ -70,7 +70,7 @@ Before section 16, insert—
 >
 > - (a) where the employer is domiciled in the United Kingdom, in the courts for the part of the United Kingdom in which the employer is domiciled,
 > - (b) in the courts for the place in the United Kingdom where or from where the employee habitually carries out the employee's work or last did so (regardless of the domicile of the employer), or
-> - (c) if the employee does not or did not habitually carry out the employee's work in any one part of the United Kingdom or any one overseas country[^key-f6a01e5974e9b0a25610eb624cf3b6de], in the courts for the place in the United Kingdom where the business which engaged the employee is or was[^key-e374ca149ffbbb6f82badbd3c9566f3a] situated (regardless of the domicile of the employer).
+> - (c) if the employee does not or did not habitually carry out the employee's work in any one part of the United Kingdom or any one overseas country[^c-f6a01e5974e9b0a25610eb624cf3b6de], in the courts for the place in the United Kingdom where the business which engaged the employee is or was[^c-e374ca149ffbbb6f82badbd3c9566f3a] situated (regardless of the domicile of the employer).
 >
 > (3) If the employee is domiciled in the United Kingdom, the employer may only sue the employee in the part of the United Kingdom in which the employee is domiciled (regardless of the domicile of the employer).
 >
@@ -139,17 +139,17 @@ Before section 16, insert—
 >
 > (2) In determining any question as to the meaning or effect of any provision contained in sections 15A to 15D and this section—
 >
-> - (a) regard is to be had to any relevant principles laid down before IP completion day[^key-916afb59a17bf36ec316a2f11d77cbf9] by the European Court in connection with Title II of the 1968 Convention or Chapter 2 of the Regulation and to any relevant decision of that court before IP completion day as to the meaning or effect of any provision of that Title or Chapter, and
+> - (a) regard is to be had to any relevant principles laid down before IP completion day[^c-916afb59a17bf36ec316a2f11d77cbf9] by the European Court in connection with Title II of the 1968 Convention or Chapter 2 of the Regulation and to any relevant decision of that court before IP completion day as to the meaning or effect of any provision of that Title or Chapter, and
 > - (b) without prejudice to the generality of paragraph (a), the expert reports relating to the 1968 Convention may be considered and are, so far as relevant, to be given such weight as is appropriate in the circumstances.
 
 ## Annotations
 
-[^key-8efcc6ed0cd51f71e70abdb17de164c7]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-8efcc6ed0cd51f71e70abdb17de164c7]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-6a12d3c733aee4390bb7df44c644ca8a]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/b/i)
+[^c-6a12d3c733aee4390bb7df44c644ca8a]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/b/i)
 
-[^key-f6a01e5974e9b0a25610eb624cf3b6de]: Textual amendment: Words in reg. 26 inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/3/a)
+[^c-f6a01e5974e9b0a25610eb624cf3b6de]: Textual amendment: Words in reg. 26 inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/3/a)
 
-[^key-e374ca149ffbbb6f82badbd3c9566f3a]: Textual amendment: Words in reg. 26 inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/3/b)
+[^c-e374ca149ffbbb6f82badbd3c9566f3a]: Textual amendment: Words in reg. 26 inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/3/b)
 
-[^key-916afb59a17bf36ec316a2f11d77cbf9]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/b/ii)
+[^c-916afb59a17bf36ec316a2f11d77cbf9]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2019/479/regulation/26) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2/b/ii)

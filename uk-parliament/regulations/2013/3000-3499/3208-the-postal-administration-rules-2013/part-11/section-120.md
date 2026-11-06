@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Award of costs against postal administrator[^key-81ae23c0d4648764d5e9da48486f66cf]
+## 120. Award of costs against postal administrator[^c-81ae23c0d4648764d5e9da48486f66cf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Without prejudice to any provision of the 1986 Act or the Rules by virtue of whi
 
 ## Annotations
 
-[^key-81ae23c0d4648764d5e9da48486f66cf]: Commencement: [Rule 120](https://www.legislation.gov.uk/uksi/2013/3208/rule/120) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-81ae23c0d4648764d5e9da48486f66cf]: Commencement: [Rule 120](https://www.legislation.gov.uk/uksi/2013/3208/rule/120) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

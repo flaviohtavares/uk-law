@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Pensions promise obtained from third party[^key-cf8606abbc3a0aa449ad00ab966de0d7]
+## 36. Pensions promise obtained from third party[^c-cf8606abbc3a0aa449ad00ab966de0d7]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf8606abbc3a0aa449ad00ab966de0d7]: Textual amendment: [S. 36](https://www.legislation.gov.uk/nia/2016/1/section/36) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(c)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/c); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)
+[^c-cf8606abbc3a0aa449ad00ab966de0d7]: Textual amendment: [S. 36](https://www.legislation.gov.uk/nia/2016/1/section/36) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(c)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/c); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)

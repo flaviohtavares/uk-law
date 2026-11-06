@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 116. Application of Chapter IV of Part IV of the Pension Schemes Act 1993[^key-03818c717cfba7cafbde2688862cb4bd]
+## 116. Application of Chapter IV of Part IV of the Pension Schemes Act 1993[^c-03818c717cfba7cafbde2688862cb4bd]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-03818c717cfba7cafbde2688862cb4bd]: Commencement: Reg. 116 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-03818c717cfba7cafbde2688862cb4bd]: Commencement: Reg. 116 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00045]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 

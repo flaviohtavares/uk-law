@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security Benefits Up-rating Regulations 2021 (revoked)[^key-4d532942b826254e3d2f4c1fdfe60817]
+The Social Security Benefits Up-rating Regulations 2021 (revoked)[^c-4d532942b826254e3d2f4c1fdfe60817]
 
 Made
 
@@ -46,41 +46,41 @@ Coming into force
 
 12th April 2021
 
-[^key-4d532942b826254e3d2f4c1fdfe60817]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d532942b826254e3d2f4c1fdfe60817]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-4d532942b826254e3d2f4c1fdfe60817]
+## 1. Citation, commencement, extent and interpretation[^c-4d532942b826254e3d2f4c1fdfe60817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-4d532942b826254e3d2f4c1fdfe60817]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-4d532942b826254e3d2f4c1fdfe60817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Great Britain[^key-4d532942b826254e3d2f4c1fdfe60817]
+## 3. Persons not ordinarily resident in Great Britain[^c-4d532942b826254e3d2f4c1fdfe60817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^key-4d532942b826254e3d2f4c1fdfe60817]
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations 1977[^c-4d532942b826254e3d2f4c1fdfe60817]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-4d532942b826254e3d2f4c1fdfe60817]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-4d532942b826254e3d2f4c1fdfe60817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-4d532942b826254e3d2f4c1fdfe60817]
+## 6. Revocation[^c-4d532942b826254e3d2f4c1fdfe60817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d532942b826254e3d2f4c1fdfe60817]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d532942b826254e3d2f4c1fdfe60817]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-4d532942b826254e3d2f4c1fdfe60817]EXPLANATORY NOTE
+[^c-4d532942b826254e3d2f4c1fdfe60817]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -103,4 +103,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 ## Annotations
 
-[^key-4d532942b826254e3d2f4c1fdfe60817]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/312) revoked (11.4.2022) by [The Social Security Benefits Up-rating Regulations 2022 (S.I. 2022/342)](https://www.legislation.gov.uk/uksi/2022/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/342/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2022/342/regulation/7/b)
+[^c-4d532942b826254e3d2f4c1fdfe60817]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/312) revoked (11.4.2022) by [The Social Security Benefits Up-rating Regulations 2022 (S.I. 2022/342)](https://www.legislation.gov.uk/uksi/2022/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/342/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2022/342/regulation/7/b)

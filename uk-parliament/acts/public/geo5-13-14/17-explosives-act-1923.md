@@ -31,28 +31,28 @@ Explosives Act 1923 (repealed)
 
 1923 c.17
 
-[^key-3e466849301e07ed60f285fd6e11652b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e466849301e07ed60f285fd6e11652b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[18th July 1923\]
 
 **No longer in force.**
 
-## 1. Precautions to be taken by occupiers.[^key-3e466849301e07ed60f285fd6e11652b][^key-3e466849301e07ed60f285fd6e11652b]
+## 1. Precautions to be taken by occupiers.[^c-3e466849301e07ed60f285fd6e11652b][^c-3e466849301e07ed60f285fd6e11652b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Restriction on Employment of young persons in gunpowder factories, magazines and stores.[^key-3e466849301e07ed60f285fd6e11652b][^key-3e466849301e07ed60f285fd6e11652b]
+## 2. Restriction on Employment of young persons in gunpowder factories, magazines and stores.[^c-3e466849301e07ed60f285fd6e11652b][^c-3e466849301e07ed60f285fd6e11652b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-3e466849301e07ed60f285fd6e11652b][^key-3e466849301e07ed60f285fd6e11652b]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-3e466849301e07ed60f285fd6e11652b][^c-3e466849301e07ed60f285fd6e11652b]
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-3e466849301e07ed60f285fd6e11652b][^key-3e466849301e07ed60f285fd6e11652b]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-3e466849301e07ed60f285fd6e11652b][^c-3e466849301e07ed60f285fd6e11652b]
 
-## 5. Short title and extent.[^key-3e466849301e07ed60f285fd6e11652b][^key-3e466849301e07ed60f285fd6e11652b]
+## 5. Short title and extent.[^c-3e466849301e07ed60f285fd6e11652b][^c-3e466849301e07ed60f285fd6e11652b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e466849301e07ed60f285fd6e11652b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/13-14/17) repealed (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-3e466849301e07ed60f285fd6e11652b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/13-14/17) repealed (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))

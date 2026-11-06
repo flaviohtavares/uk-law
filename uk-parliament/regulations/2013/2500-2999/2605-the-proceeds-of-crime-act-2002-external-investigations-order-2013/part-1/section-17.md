@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Requirements for making of disclosure order[^key-855be7e89effa5c731f43a99ab2d2a20]
+## 17. Requirements for making of disclosure order[^c-855be7e89effa5c731f43a99ab2d2a20]
 
 *Extent: E+W+N.I.*
 
 (1) These are the requirements for the making of a disclosure order.
 
-(2)[^key-009293a83bf93bcd2bc05be7b6cd0530] There must be reasonable grounds for suspecting that—
+(2)[^c-009293a83bf93bcd2bc05be7b6cd0530] There must be reasonable grounds for suspecting that—
 
 - (a) the person specified in the application for the order holds property obtained as a result of or in connection with criminal conduct;
 - (b) that person has, at any time, held property that was obtained as a result of or in connection with criminal conduct; or
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-855be7e89effa5c731f43a99ab2d2a20]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/2605/article/17) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-855be7e89effa5c731f43a99ab2d2a20]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/2605/article/17) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-009293a83bf93bcd2bc05be7b6cd0530]: Textual amendment: [Art. 17(2)](https://www.legislation.gov.uk/uksi/2013/2605/article/17/2) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [9](https://www.legislation.gov.uk/uksi/2015/1751/article/9)
+[^c-009293a83bf93bcd2bc05be7b6cd0530]: Textual amendment: [Art. 17(2)](https://www.legislation.gov.uk/uksi/2013/2605/article/17/2) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [9](https://www.legislation.gov.uk/uksi/2015/1751/article/9)

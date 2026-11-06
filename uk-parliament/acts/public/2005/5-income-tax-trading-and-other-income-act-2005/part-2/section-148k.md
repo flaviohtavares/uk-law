@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148K. Application of Chapter to the cash basis[^key-444ab8b081bc0f7913443a3678ee8a22]
+## 148K. Application of Chapter to the cash basis[^c-444ab8b081bc0f7913443a3678ee8a22]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ The following sections do not apply in calculating the profits of a trade, profe
 
 ## Annotations
 
-[^key-444ab8b081bc0f7913443a3678ee8a22]: Textual amendment: S. 148K and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/28)
+[^c-444ab8b081bc0f7913443a3678ee8a22]: Textual amendment: S. 148K and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/28)

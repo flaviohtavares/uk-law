@@ -18,14 +18,14 @@ summary: ''
 
 *Extent: E+W*
 
-**92.**[^key-524a9ee9123f93ea5691b94544d7d93e] In section 26A[^f00110] (advocacy services)—
+**92.**[^c-524a9ee9123f93ea5691b94544d7d93e] In section 26A[^f00110] (advocacy services)—
 
 - (a) omit subsection (2A)[^f00111];
 - (b) in subsections (3)(a) and (4)[^f00112], for “appropriate national authority” substitute “Secretary of State”.
 
 ## Annotations
 
-[^key-524a9ee9123f93ea5691b94544d7d93e]: Commencement: Reg. 92 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-524a9ee9123f93ea5691b94544d7d93e]: Commencement: Reg. 92 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00110]: Footnote: Section 26A was inserted by the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), section 119.
 

@@ -29,8 +29,8 @@ summary: ''
 
 the court may quash the compulsory purchase order or any provision contained therein, or the certificate, either generally or in so far as it affects any property of the applicant.
 
-(3)[^key-11d964c37bd53965a2175e9649abafff] If the court has power under subsection (2) to quash a compulsory purchase order it may instead quash the decision to confirm the order either generally or in so far as it affects any property of the applicant.
+(3)[^c-11d964c37bd53965a2175e9649abafff] If the court has power under subsection (2) to quash a compulsory purchase order it may instead quash the decision to confirm the order either generally or in so far as it affects any property of the applicant.
 
 ## Annotations
 
-[^key-11d964c37bd53965a2175e9649abafff]: Textual amendment: S. 24(3) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 201](https://www.legislation.gov.uk/ukpga/2016/22/section/201), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/k) (with [reg. 8](https://www.legislation.gov.uk/uksi/2016/733/regulation/8))
+[^c-11d964c37bd53965a2175e9649abafff]: Textual amendment: S. 24(3) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 201](https://www.legislation.gov.uk/ukpga/2016/22/section/201), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/k) (with [reg. 8](https://www.legislation.gov.uk/uksi/2016/733/regulation/8))

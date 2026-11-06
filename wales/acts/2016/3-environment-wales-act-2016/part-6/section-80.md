@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Exceptions from power to delegate licensing authority functions[^key-c1a3ee2d50fdfec29258435392234953]
+## 80. Exceptions from power to delegate licensing authority functions[^c-c1a3ee2d50fdfec29258435392234953]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ In section 98(6) of the Marine and Coastal Access Act 2009 (functions excepted f
 
 ## Annotations
 
-[^key-c1a3ee2d50fdfec29258435392234953]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2016/3/section/80) in force at 1.4.2017 by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)
+[^c-c1a3ee2d50fdfec29258435392234953]: Commencement: [S. 80](https://www.legislation.gov.uk/anaw/2016/3/section/80) in force at 1.4.2017 by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)

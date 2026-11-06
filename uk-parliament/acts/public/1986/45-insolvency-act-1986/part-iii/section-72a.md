@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72A. Floating charge holder not to appoint administrative receiver[^key-96f062bf0d3c1df27663f0b5acff90b9][^c15571452]
+## 72A. Floating charge holder not to appoint administrative receiver[^c-96f062bf0d3c1df27663f0b5acff90b9][^c15571452]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-96f062bf0d3c1df27663f0b5acff90b9]: Modification: [S. 72A](https://www.legislation.gov.uk/ukpga/1986/45/section/72A) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1), [46](https://www.legislation.gov.uk/uksi/2024/205/regulation/46) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
+[^c-96f062bf0d3c1df27663f0b5acff90b9]: Modification: [S. 72A](https://www.legislation.gov.uk/ukpga/1986/45/section/72A) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/205/regulation/5/1), [46](https://www.legislation.gov.uk/uksi/2024/205/regulation/46) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
 
 [^c15571452]: Textual amendment: Pt. III Ch. IV (ss. 72A-72H) inserted (18.3.2003 for the purpose of giving effect to the insertion of s. 72H(2)-(5) and otherwise 15.9.2003) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 250(1)](https://www.legislation.gov.uk/ukpga/2002/40/section/250/1), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279) (with [s. 249(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/6)); [S.I. 2003/765](https://www.legislation.gov.uk/uksi/2003/765), [art. 2](https://www.legislation.gov.uk/uksi/2003/765/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/765/schedule); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2)))
 

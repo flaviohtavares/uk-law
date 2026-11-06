@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 319. Relief in respect of mineral royalties[^key-c65c186557cf5808016996db4a8278c7]
+## 319. Relief in respect of mineral royalties[^c-c65c186557cf5808016996db4a8278c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c65c186557cf5808016996db4a8278c7]: Textual amendment: S. 319 repealed (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/1/b)
+[^c-c65c186557cf5808016996db4a8278c7]: Textual amendment: S. 319 repealed (with effect in accordance with Sch. 39 para. 43(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 43(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/43/1/b)

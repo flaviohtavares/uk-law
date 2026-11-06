@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Amendment of regulation 4[^key-65a5d66b2c4780d3a0474582ba89f700]
+## 5. Amendment of regulation 4[^c-65a5d66b2c4780d3a0474582ba89f700]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65a5d66b2c4780d3a0474582ba89f700]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/364/regulation/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-65a5d66b2c4780d3a0474582ba89f700]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/364/regulation/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

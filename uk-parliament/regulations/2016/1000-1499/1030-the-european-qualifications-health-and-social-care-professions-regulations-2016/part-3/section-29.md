@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Introductory[^key-20b5076d58c699ea816dfafc1008bcbf]
+## 29. Introductory[^c-20b5076d58c699ea816dfafc1008bcbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Pharmacy Order 2010[^f00025] is amended in accordance with this Chapter.
 
 ## Annotations
 
-[^key-20b5076d58c699ea816dfafc1008bcbf]: Commencement: Reg. 29 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-20b5076d58c699ea816dfafc1008bcbf]: Commencement: Reg. 29 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00025]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).

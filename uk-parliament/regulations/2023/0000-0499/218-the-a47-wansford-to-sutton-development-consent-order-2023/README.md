@@ -31,7 +31,7 @@ summary: ''
 
 Infrastructure Planning
 
-The A47 Wansford to Sutton Development Consent Order 2023 (revoked)[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+The A47 Wansford to Sutton Development Consent Order 2023 (revoked)[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 10th March 2023
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — PRELIMINARY[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 1 — PRELIMINARY[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -56,7 +56,7 @@ Coming into force
 - [Section 3 — Disapplication of legislative provisions](part-1/section-3.md)
 - [Section 4 — Maintenance of drainage works](part-1/section-4.md)
 
-### PART 2 — PRINCIPAL POWERS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 2 — PRINCIPAL POWERS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -69,7 +69,7 @@ Coming into force
 - [Section 9 — Benefit of Order](part-2/section-9.md)
 - [Section 10 — Consent to transfer benefit of Order](part-2/section-10.md)
 
-### PART 3 — STREETS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 3 — STREETS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -86,7 +86,7 @@ Coming into force
 - [Section 19 — Clearways](part-3/section-19.md)
 - [Section 20 — Traffic regulation](part-3/section-20.md)
 
-### PART 4 — SUPPLEMENTAL POWERS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 4 — SUPPLEMENTAL POWERS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -96,7 +96,7 @@ Coming into force
 - [Section 22 — Protective work to buildings](part-4/section-22.md)
 - [Section 23 — Authority to survey and investigate the land](part-4/section-23.md)
 
-### PART 5 — POWERS OF ACQUISITION[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 5 — POWERS OF ACQUISITION[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -118,7 +118,7 @@ Coming into force
 - [Section 37 — Apparatus and rights of statutory undertakers in stopped up streets](part-5/section-37.md)
 - [Section 38 — Recovery of costs of new connections](part-5/section-38.md)
 
-### PART 6 — OPERATIONS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 6 — OPERATIONS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -127,7 +127,7 @@ Coming into force
 - [Section 39 — Felling or lopping of trees and removal of hedgerows](part-6/section-39.md)
 - [Section 40 — Trees subject to tree preservation orders](part-6/section-40.md)
 
-### PART 7 — MISCELLANEOUS AND GENERAL[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 7 — MISCELLANEOUS AND GENERAL[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -149,7 +149,7 @@ Coming into force
 
 **No longer in force.**
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]SCHEDULES
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -166,14 +166,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)

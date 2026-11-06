@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Power to acquire land[^key-566d892283a3bbd1367937a39e58c4e1][^key-33bff76ba8c8ba7edb6e83d56008f9f9]
+## 13. Power to acquire land[^c-566d892283a3bbd1367937a39e58c4e1][^c-33bff76ba8c8ba7edb6e83d56008f9f9]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ In the Highways Act 1980 (c. 66), after section 245 (acquisition of land for bui
 
 ## Annotations
 
-[^key-566d892283a3bbd1367937a39e58c4e1]: Commencement: S. 13 in force at 4.10.2004 for specified purposes for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/b)
+[^c-566d892283a3bbd1367937a39e58c4e1]: Commencement: S. 13 in force at 4.10.2004 for specified purposes for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/b)
 
-[^key-33bff76ba8c8ba7edb6e83d56008f9f9]: Commencement: S. 13 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/b)
+[^c-33bff76ba8c8ba7edb6e83d56008f9f9]: Commencement: S. 13 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/b)

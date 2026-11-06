@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Restrictions on mammals on confirmation of influenza of avian origin[^key-5c4bb32c40f05ffd235eae0009114b13]
+## 60A. Restrictions on mammals on confirmation of influenza of avian origin[^c-5c4bb32c40f05ffd235eae0009114b13]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ On confirmation by the Chief Veterinary Officer that influenza of avian origin e
 
 ## Annotations
 
-[^key-5c4bb32c40f05ffd235eae0009114b13]: Textual amendment: [Art. 60A](https://www.legislation.gov.uk/uksi/2006/2702/article/60A) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(35)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/35)
+[^c-5c4bb32c40f05ffd235eae0009114b13]: Textual amendment: [Art. 60A](https://www.legislation.gov.uk/uksi/2006/2702/article/60A) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(35)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/35)

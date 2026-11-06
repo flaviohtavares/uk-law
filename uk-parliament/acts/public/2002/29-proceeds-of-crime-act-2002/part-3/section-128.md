@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Enforcement administrators[^key-e940ebe186f7c89e8ca0dd6e6ddbb521][^key-d59f6c2a9c42161ca1815c0c61d9e1f6][^key-d59f6c2a9c42161ca1815c0c61d9e1f6]
+## 128. Enforcement administrators[^c-e940ebe186f7c89e8ca0dd6e6ddbb521][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 
 *Extent: S*
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) power to take possession of any realisable property;
 - (b) power to manage or otherwise deal with the property;
 - (c) power to realise any realisable property, in such manner as the court may specify.
-- (d)[^key-02316b60f8c5f9dc95413917863a21cf] so far as the property consists of cryptoassets, power to destroy the property.
+- (d)[^c-02316b60f8c5f9dc95413917863a21cf] so far as the property consists of cryptoassets, power to destroy the property.
 
 (7) The court may order any person who has possession of realisable property to give possession of it to an administrator referred to in subsection (5).
 
@@ -54,7 +54,7 @@ summary: ''
 
 (11) The court must not—
 
-- (a) confer the power mentioned in subsection (6)(b) , (c) or (d)[^key-8291594fbbb9656f57ecd9415bb54bcc] in respect of property, or
+- (a) confer the power mentioned in subsection (6)(b) , (c) or (d)[^c-8291594fbbb9656f57ecd9415bb54bcc] in respect of property, or
 - (b) exercise the power conferred on it by subsection (10) in respect of property,
 
 unless it gives persons holding interests in the property a reasonable opportunity to make representations to it.
@@ -67,7 +67,7 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 (13) The court may order that a power conferred by an order under this section is subject to such conditions and exceptions as it specifies.
 
-(13A)[^key-4042d09c2eb5691ef5f188afbc99551c] The court may confer the power mentioned in subsection (6)(d) only where—
+(13A)[^c-4042d09c2eb5691ef5f188afbc99551c] The court may confer the power mentioned in subsection (6)(d) only where—
 
 - (a) it is not reasonably practicable to realise the cryptoassets in question, or
 - (b) there are reasonable grounds to believe that the realisation of the cryptoassets would be contrary to the public interest, having regard in particular to how likely it is that the entry of the cryptoassets into general circulation would facilitate criminal conduct by any person.
@@ -89,12 +89,12 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 ## Annotations
 
-[^key-e940ebe186f7c89e8ca0dd6e6ddbb521]: Commencement: S. 128 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-e940ebe186f7c89e8ca0dd6e6ddbb521]: Commencement: S. 128 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-02316b60f8c5f9dc95413917863a21cf]: Textual amendment: [S. 128(6)(d)](https://www.legislation.gov.uk/ukpga/2002/29/section/128/6/d) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 27(2)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/27/2); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-02316b60f8c5f9dc95413917863a21cf]: Textual amendment: [S. 128(6)(d)](https://www.legislation.gov.uk/ukpga/2002/29/section/128/6/d) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 27(2)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/27/2); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
 
-[^key-8291594fbbb9656f57ecd9415bb54bcc]: Textual amendment: Words in [s. 128(11)(a)](https://www.legislation.gov.uk/ukpga/2002/29/section/128/11/a) substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 27(3)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/27/3); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-8291594fbbb9656f57ecd9415bb54bcc]: Textual amendment: Words in [s. 128(11)(a)](https://www.legislation.gov.uk/ukpga/2002/29/section/128/11/a) substituted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 27(3)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/27/3); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
 
-[^key-4042d09c2eb5691ef5f188afbc99551c]: Textual amendment: [S. 128(13A)-(13C)](https://www.legislation.gov.uk/ukpga/2002/29/section/128/13A) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 27(4)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/27/4); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-4042d09c2eb5691ef5f188afbc99551c]: Textual amendment: [S. 128(13A)-(13C)](https://www.legislation.gov.uk/ukpga/2002/29/section/128/13A) inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 27(4)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/27/4); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Meaning of “entitlement day” (total incapacity pension)[^key-69ffe18e6baa8cce453cd050ff038f41]
+## 112. Meaning of “entitlement day” (total incapacity pension)[^c-69ffe18e6baa8cce453cd050ff038f41]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The entitlement day for a total incapacity pension payable with an ill-health pe
 
 ## Annotations
 
-[^key-69ffe18e6baa8cce453cd050ff038f41]: Commencement: [Reg. 112](https://www.legislation.gov.uk/ssi/2014/292/regulation/112) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-69ffe18e6baa8cce453cd050ff038f41]: Commencement: [Reg. 112](https://www.legislation.gov.uk/ssi/2014/292/regulation/112) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

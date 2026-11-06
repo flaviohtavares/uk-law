@@ -50,7 +50,7 @@ In accordance with section 105B(9) of the LDEDC Act 2009, the Secretary of State
 
 A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 117(2) of the LDEDC Act 2009.
 
-## 1. Citation and commencement[^key-95bee0c1ff0906a78de5dc41c729acdf]
+## 1. Citation and commencement[^c-95bee0c1ff0906a78de5dc41c729acdf]
 
 (1) This Order may be cited as the Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017.
 
@@ -58,17 +58,17 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 (3) Otherwise this Order comes into force on 8th May 2017.
 
-## 2. Interpretation[^key-7e73bc2f527927b5bd02b4559b4ad67c]
+## 2. Interpretation[^c-7e73bc2f527927b5bd02b4559b4ad67c]
 
 In this Order—
 
 - “the FRS Act 2004” means the Fire and Rescue Services Act 2004[^f00003];
 - “the LDEDC Act 2009” means the Local Democracy, Economic Development and Construction Act 2009;
-- “the PRSR Act 2011” means the Police Reform and Social Responsibility Act 2011;[^key-1e2fb52d2a82337788cefe78a2e575d6]
+- “the PRSR Act 2011” means the Police Reform and Social Responsibility Act 2011;[^c-1e2fb52d2a82337788cefe78a2e575d6]
 - “the Area” means the area of the GMCA;
-- “the chief fire officer” means the person with responsibility for managing the fire and rescue service;[^key-5ebf17e72314a323d200ff17c7cca70c]
+- “the chief fire officer” means the person with responsibility for managing the fire and rescue service;[^c-5ebf17e72314a323d200ff17c7cca70c]
 - “constituent councils” means the district councils for the local government areas of Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Stockport, Tameside, Trafford and Wigan;
-- “the deputy mayor for policing and crime” means the deputy mayor for policing and crime for the Area;[^key-1e479237aea5f7a6dac41049ca3c6d60]
+- “the deputy mayor for policing and crime” means the deputy mayor for policing and crime for the Area;[^c-1e479237aea5f7a6dac41049ca3c6d60]
 - “financial year” means a period of 12 months beginning with 1st April;
 - “fire and rescue authority” means a fire and rescue authority under the FRS Act 2004;
 - “fire and rescue declaration” means a document which—
@@ -92,11 +92,11 @@ In this Order—
     - (ii) an assessment of all foreseeable fire and rescue related risks that could affect its community;
 
     in connection with the discharge of the GMCA’s functions as a fire and rescue authority;
-- “the Mayor” means the mayor for the Area[^f00007] ;[^key-eca308df75e55fad790f4c96f10cb4cd]
+- “the Mayor” means the mayor for the Area[^f00007] ;[^c-eca308df75e55fad790f4c96f10cb4cd]
 - “the Police, Fire and Crime Panel” means the police and crime panel for the Area;
 - “proposed allocation of budget” has the meaning given in article 5C(1).
 
-## 3. Transfer of functions of the GMFRA to the GMCA[^key-9fce177b9c26aa0d24fc9471f8b028f8]
+## 3. Transfer of functions of the GMFRA to the GMCA[^c-9fce177b9c26aa0d24fc9471f8b028f8]
 
 (1) The functions of the GMFRA that are exercisable in relation to the Area of the GMCA are to be functions of the GMCA.
 
@@ -106,7 +106,7 @@ In this Order—
 
 (4) Part 2 of Schedule 10 (number of members of joint authorities: Greater Manchester) to the Local Government Act 1985[^f00008] is repealed.
 
-## 4. General functions of the GMCA exercisable only by the Mayor[^key-af57a6091eb0073fc7985c2fd2196111]
+## 4. General functions of the GMCA exercisable only by the Mayor[^c-af57a6091eb0073fc7985c2fd2196111]
 
 (1) The fire and rescue functions of the GMCA are exercisable only by the Mayor.
 
@@ -114,11 +114,11 @@ In this Order—
 
 (3) Members and officers of the GMCA may assist the Mayor in the exercise of the fire and rescue functions.
 
-## 5. Arrangements for exercise of fire and rescue functions[^key-25b041b68032085b985139b8ef65df25]
+## 5. Arrangements for exercise of fire and rescue functions[^c-25b041b68032085b985139b8ef65df25]
 
 (1) The Mayor may not make arrangements under section 107D(3) of the LDEDC Act (functions of mayors: general) that authorise the exercise of any of the fire and rescue functions to which article 6 applies.
 
-(1A)[^key-dfccec0e2f01b41832fc530cd400b4ea] The Mayor may arrange under section 107D(3) of the LDEDC Act 2009 for the deputy mayor for policing and crime to exercise fire and rescue functions other than any of the functions to which article 6 applies.
+(1A)[^c-dfccec0e2f01b41832fc530cd400b4ea] The Mayor may arrange under section 107D(3) of the LDEDC Act 2009 for the deputy mayor for policing and crime to exercise fire and rescue functions other than any of the functions to which article 6 applies.
 
 (1B) Where the Mayor makes arrangements described in paragraph (1A), the deputy mayor for policing and crime may, for the purposes of the exercise of fire and rescue functions, do anything that the GMCA may do under section 113A of the LDEDC Act 2009.
 
@@ -153,7 +153,7 @@ In this Order—
 - “fire committee” means the committee referred to in paragraph (2) of this article;
 - “special responsibility allowance” and “travelling and subsistence allowance” have the same meaning as in the Local Authorities (Members’ Allowances) (England) Regulations 2003[^f00011].
 
-## 5A. Police, Fire and Crime Panel: oversight functions in relation to fire and rescue functions[^key-46d7789de7e85721ad3f95e216a08ccd]
+## 5A. Police, Fire and Crime Panel: oversight functions in relation to fire and rescue functions[^c-46d7789de7e85721ad3f95e216a08ccd]
 
 (1) The Police, Fire and Crime Panel has oversight functions in relation to—
 
@@ -206,7 +206,7 @@ as set out in articles 5B to 5D, and by virtue of Schedule 1.
 - (b) provide the Police, Fire and Crime Panel with a response to the report and any recommendations made in it; and
 - (c) publish the response in such manner as is required by the Police, Fire and Crime Panel.
 
-## 6. Fire and rescue functions excluded from the power to make arrangements[^key-88cd91c82971195ba44e6f87c8d0135b]
+## 6. Fire and rescue functions excluded from the power to make arrangements[^c-88cd91c82971195ba44e6f87c8d0135b]
 
 (1) This article applies to the fire and rescue functions specified in the following paragraphs of this article.
 
@@ -218,9 +218,9 @@ as set out in articles 5B to 5D, and by virtue of Schedule 1.
 
 (3) This paragraph applies to the function of—
 
-- (a)[^key-d130707a169ef1976e106254b5d491a1] appointing, suspending, or dismissing, the chief fire officer;
-- (b) approving the terms of appointment of the chief fire officer[^key-9b7d8733ec91fced94807bef1bdfcd8c]; and
-- (c) holding the chief fire officer[^key-0b0046efe7f1ca540a670410080172f9] to account for managing the fire and rescue service.
+- (a)[^c-d130707a169ef1976e106254b5d491a1] appointing, suspending, or dismissing, the chief fire officer;
+- (b) approving the terms of appointment of the chief fire officer[^c-9b7d8733ec91fced94807bef1bdfcd8c]; and
+- (c) holding the chief fire officer[^c-0b0046efe7f1ca540a670410080172f9] to account for managing the fire and rescue service.
 
 (4) This paragraph applies to the function of approving—
 
@@ -238,7 +238,7 @@ as set out in articles 5B to 5D, and by virtue of Schedule 1.
 
 ## Transitional arrangements and asset transfers
 
-### 7. Transfer of property, rights and liabilities[^key-e0e4cea9ab37be6714b9c5fc1eecf7cf]
+### 7. Transfer of property, rights and liabilities[^c-e0e4cea9ab37be6714b9c5fc1eecf7cf]
 
 (1) All property, rights and liabilities (including rights and liabilities in relation to contracts of employment) which immediately before 8th May 2017 were property, rights and liabilities of the GMFRA are to transfer to, and by virtue of this paragraph vest in, the GMCA on 8th May 2017.
 
@@ -249,11 +249,11 @@ as set out in articles 5B to 5D, and by virtue of Schedule 1.
 
 (3) Subject to article 6, nothing in paragraph (2) prevents the Mayor from making arrangements under section 107D(3) of the LDEDC Act 2009 in relation to the matters mentioned in paragraph (2).
 
-### 8. Secondments[^key-2ae8f2b16cf6193ecf41955a697c4aa8]
+### 8. Secondments[^c-2ae8f2b16cf6193ecf41955a697c4aa8]
 
 In the case of a person who, immediately before 8th May 2017 is seconded to the GMFRA, the secondment is to have effect, after that time, as a secondment to the GMCA.
 
-### 9. Continuity[^key-d3b20035036bc58fe32d7229988b8950]
+### 9. Continuity[^c-d3b20035036bc58fe32d7229988b8950]
 
 (1) The abolition of the GMFRA, the transfer or abolition of the GMFRA’s functions, and the transfer of the GMFRA’s property, rights and liabilities, do not affect the validity of anything done before the abolition or transfer.
 
@@ -278,7 +278,7 @@ has effect as if made or done by or in relation to the GMCA.
 
 (6) In this paragraph a reference to the transfer of a function includes a reference to the abolition of the function and the conferral of a corresponding function on another person.
 
-### 10. Transfers: supplementary provision[^key-7171a110407e81044c15ee8a1fc65310]
+### 10. Transfers: supplementary provision[^c-7171a110407e81044c15ee8a1fc65310]
 
 (1) All property, rights and liabilities transferred by this Order are to be transferred by that transfer, notwithstanding that they may be or include—
 
@@ -302,7 +302,7 @@ as they have effect in relation to the transfer made by this Order of land or ot
 - (b) any subordinate legislation made otherwise than under that Act; or
 - (c) any deed or other instrument.
 
-### 11. Extension of financial year of Greater Manchester Fire and Rescue Authority[^key-96303109d7dec7a9b7d2cb57cdba989e]
+### 11. Extension of financial year of Greater Manchester Fire and Rescue Authority[^c-96303109d7dec7a9b7d2cb57cdba989e]
 
 (1) The requirement in section 3(3) of the Local Audit and Accountability Act 2014[^f00013] for a relevant authority to prepare a statement of accounts for each financial year ending on 31st March is modified in the case of the GMFRA for the financial year which began on 1st April 2016 to require that authority or, after the transfer made by this Order, the GMCA in respect of the GMFRA’s accounts, to prepare a statement of accounts from that date for the period which ends on 7th May 2017.
 
@@ -310,7 +310,7 @@ as they have effect in relation to the transfer made by this Order of land or ot
 
 (3) In this article “responsible financial officer” has the same meaning as in the AA Regulations 2015 (see regulation 2(2)).
 
-### 12. Amendment of the Fire and Rescue Services Act 2004[^key-64ff6e3f04cfce067ec8228b1e886ac9]
+### 12. Amendment of the Fire and Rescue Services Act 2004[^c-64ff6e3f04cfce067ec8228b1e886ac9]
 
 In section 1 of the FRS 2004 Act[^f00015], after subsection (4) insert—
 
@@ -318,7 +318,7 @@ In section 1 of the FRS 2004 Act[^f00015], after subsection (4) insert—
 
 .
 
-### 13. Amendment of the Redundancy Payments (Continuity of Employment in Local Government, etc)(Modification) Order 1999[^key-d60e4ef010d0889c1d263b8f6e4f722c]
+### 13. Amendment of the Redundancy Payments (Continuity of Employment in Local Government, etc)(Modification) Order 1999[^c-d60e4ef010d0889c1d263b8f6e4f722c]
 
 In Section 6 (police, fire and civil defence) of Schedule 1 (employment to which this Order applies: employers immediately before the relevant event) to the Redundancy Payments (Continuity of Employment in Local Government, etc) (Modification) Order 1999[^f00016], after paragraph 1A insert—
 
@@ -326,9 +326,9 @@ In Section 6 (police, fire and civil defence) of Schedule 1 (employment to which
 
 .
 
-### 14. Schedule 2[^key-b427af18a515f80caf7bffa1b6a99bf5][^key-e1e9039b8a31be858ef3b5dab52e1a2c]
+### 14. Schedule 2[^c-b427af18a515f80caf7bffa1b6a99bf5][^c-e1e9039b8a31be858ef3b5dab52e1a2c]
 
-Schedule 2[^key-d5d081b9213de7baa6b8416d7d76c516] makes modifications of enactments in their application to the GMCA as a fire and rescue authority.
+Schedule 2[^c-d5d081b9213de7baa6b8416d7d76c516] makes modifications of enactments in their application to the GMCA as a fire and rescue authority.
 
 Brandon Lewis
 
@@ -338,7 +338,7 @@ Home Office
 
 24th March 2017
 
-## SCHEDULE 1 — Modification of enactments in their application to the GMCA as fire and rescue authority: oversight functions of the Police, Fire and Crime Panel[^key-9896645df4423e5e80701f3921916303]
+## SCHEDULE 1 — Modification of enactments in their application to the GMCA as fire and rescue authority: oversight functions of the Police, Fire and Crime Panel[^c-9896645df4423e5e80701f3921916303]
 
 Article 5A
 
@@ -512,21 +512,21 @@ Paragraph 1(3) of Schedule 5A to the Local Democracy, Economic Development and C
   - (ii) in sub-paragraph (b), for “police and crime commissioner” there were substituted “Mayor”, and for “that Act” there were substituted “the Police Reform and Social Responsibility Act 2011”;
 - (d) in article 21(3)(c) (response to representations regarding proposal to dismiss chief fire officer) the reference to the head of the Authority’s paid service were reference to the GMCA’s head of paid service.
 
-## SCHEDULE 2 — Modification of enactments in their application to the GMCA as a fire and rescue authority[^key-48aead22e3a6888c89ade63731ab8278]
+## SCHEDULE 2 — Modification of enactments in their application to the GMCA as a fire and rescue authority[^c-48aead22e3a6888c89ade63731ab8278]
 
 Article 14
 
 ### PART 1 — Primary Legislation
 
-#### 1. Local Government Act 1972[^key-bf686abe9cbd97c0f954431d91eaf76e]
+#### 1. Local Government Act 1972[^c-bf686abe9cbd97c0f954431d91eaf76e]
 
 In section 138(5) of the Local Government Act 1972 (powers of principal councils with respect to emergencies or disasters)[^f00017], the reference to “metropolitan county fire and rescue authority” is to apply as if it included “the GMCA as a fire and rescue authority”.
 
-#### 2. Greater Manchester Act 1981[^key-f74ed73cb3e7584b88e30e1975a33282]
+#### 2. Greater Manchester Act 1981[^c-f74ed73cb3e7584b88e30e1975a33282]
 
 In the Greater Manchester Act 1981[^f00018], references to “the fire authority” are to apply as if they were references to “the GMCA as a fire and rescue authority”.
 
-#### 3. Local Government and Housing Act 1989[^key-00c200801a2e2a275fb1f69bcb3ab15f]
+#### 3. Local Government and Housing Act 1989[^c-00c200801a2e2a275fb1f69bcb3ab15f]
 
 (1) The Local Government and Housing Act 1989[^f00019] is modified as follows.
 
@@ -534,7 +534,7 @@ In the Greater Manchester Act 1981[^f00018], references to “the fire authority
 
 (3) In section 155 (emergency financial assistance to local authorities) subsection (4)(g) applies as if the reference to a “joint authority established by Part IV of the Local Government Act 1985” included a reference to “the GMCA as a fire and rescue authority”.
 
-#### 4. Crime and Disorder Act 1998[^key-a1b5d1cb0ba0bfdf97e10f6f205cde0f]
+#### 4. Crime and Disorder Act 1998[^c-a1b5d1cb0ba0bfdf97e10f6f205cde0f]
 
 (1) The Crime and Disorder Act 1998[^f00020] is modified as follows.
 
@@ -542,11 +542,11 @@ In the Greater Manchester Act 1981[^f00018], references to “the fire authority
 
 (3) In the definition of “relevant authority” in section 115(2), the reference in paragraph (j) to a “metropolitan county fire and rescue authority” is to apply as if it included a reference to “the GMCA as a fire and rescue authority”.
 
-#### 5. Local Government Act 2003[^key-427d95630d57cddfc1611143c02398cb]
+#### 5. Local Government Act 2003[^c-427d95630d57cddfc1611143c02398cb]
 
 Section 23(1) of the Local Government Act 2003 (meaning of “local authority” for purposes of Part 1)[^f00021] the reference in paragraph (k) to “a joint authority established by Part IV of that Act” is to apply as if it included a reference to “the GMCA as a fire and rescue authority.”
 
-#### 6. Fire and Rescue Services Act 2004[^key-0a298724addeb53b53f4d65ce95c85d2]
+#### 6. Fire and Rescue Services Act 2004[^c-0a298724addeb53b53f4d65ce95c85d2]
 
 (1) The FRS Act 2004[^f00022] is modified as follows.
 
@@ -562,13 +562,13 @@ Section 23(1) of the Local Government Act 2003 (meaning of “local authority”
 
 ### PART 2 — Secondary legislation
 
-**7.**[^key-fb0f10015153a8a5c17e6622e7fee4ad] In paragraph (a) of the definition of “local authority” in regulation 2(1) of the Pipelines Safety Regulations 1996 (interpretation)[^f00023] the reference to a “metropolitan county fire and rescue authority” is to apply as if it included a reference to “the GMCA as a fire and rescue authority”.
+**7.**[^c-fb0f10015153a8a5c17e6622e7fee4ad] In paragraph (a) of the definition of “local authority” in regulation 2(1) of the Pipelines Safety Regulations 1996 (interpretation)[^f00023] the reference to a “metropolitan county fire and rescue authority” is to apply as if it included a reference to “the GMCA as a fire and rescue authority”.
 
-**8.**[^key-204b1b6a065a31a4850a60b6f2af51ec] In article 1(2) of the Local Government (Best Value Authorities)(Power to Trade)(England) Order 2009 (application of order to best value authorities) [^f00024] the reference in paragraph (c) to a “metropolitan county fire and rescue authority” is to apply as if it included a reference to “the GMCA as a fire and rescue authority”.
+**8.**[^c-204b1b6a065a31a4850a60b6f2af51ec] In article 1(2) of the Local Government (Best Value Authorities)(Power to Trade)(England) Order 2009 (application of order to best value authorities) [^f00024] the reference in paragraph (c) to a “metropolitan county fire and rescue authority” is to apply as if it included a reference to “the GMCA as a fire and rescue authority”.
 
-**9.**[^key-e9777ce74ade972240a2e9affb3746b1] In regulation 3 of the Community Right to Challenge (Fire and Rescue Authorities and Rejection of Expressions of Interest) (England) Regulations 2012 (relevant authorities)[^f00025] the reference in paragraph (a) to a “metropolitan county fire and rescue authority established under section 26 of the Local Government Act 1985” is to apply as if it included a reference to “the GMCA as a fire and rescue authority”.
+**9.**[^c-e9777ce74ade972240a2e9affb3746b1] In regulation 3 of the Community Right to Challenge (Fire and Rescue Authorities and Rejection of Expressions of Interest) (England) Regulations 2012 (relevant authorities)[^f00025] the reference in paragraph (a) to a “metropolitan county fire and rescue authority established under section 26 of the Local Government Act 1985” is to apply as if it included a reference to “the GMCA as a fire and rescue authority”.
 
-**10.**[^key-8ed7505cbd18d09a944ed5b6efe9a47a] (1) The Local Government Pension Scheme Regulations 2013[^f00026] are modified as follows.
+**10.**[^c-8ed7505cbd18d09a944ed5b6efe9a47a] (1) The Local Government Pension Scheme Regulations 2013[^f00026] are modified as follows.
 
 (2) After regulation 64(8), insert—
 
@@ -578,9 +578,9 @@ Section 23(1) of the Local Government Act 2003 (meaning of “local authority”
 
 .
 
-**11.**[^key-c47df37c7ac3c9f0bc9fa9d52fde79f8] In regulation 2(1) of the Explosives Regulations 2014 (interpretation)[^f00027] in the definition of “local authority”, the reference in paragraph (c) to “a metropolitan county fire and rescue authority” is to apply as if it included a reference to “the GMCA as a fire and rescue authority”.
+**11.**[^c-c47df37c7ac3c9f0bc9fa9d52fde79f8] In regulation 2(1) of the Explosives Regulations 2014 (interpretation)[^f00027] in the definition of “local authority”, the reference in paragraph (c) to “a metropolitan county fire and rescue authority” is to apply as if it included a reference to “the GMCA as a fire and rescue authority”.
 
-**12.**[^key-d7c51277e95dcab79592bae971659aaf] In regulation 2(1) of the Control of Major Accident Hazards Regulations 2015[^f00028] in paragraph (b) of the definition of “local authority”, sub-paragraph (ii) is to apply as if there were substituted for that sub-paragraph—
+**12.**[^c-d7c51277e95dcab79592bae971659aaf] In regulation 2(1) of the Control of Major Accident Hazards Regulations 2015[^f00028] in paragraph (b) of the definition of “local authority”, sub-paragraph (ii) is to apply as if there were substituted for that sub-paragraph—
 
 > - (ii) the Area, the GMCA as a fire and rescue authority;
 
@@ -616,17 +616,17 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00002]: Footnote: Section 112 was amended by sections 6 and 23 of, and paragraphs 17 and 23 of Schedule 5 to, the CLGD Act 2016. Section 105B was inserted by section 7 of the CLGD Act 2016.
 
-[^key-95bee0c1ff0906a78de5dc41c729acdf]: Commencement: Art. 1 in force at 25.3.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/469/article/1/2)
+[^c-95bee0c1ff0906a78de5dc41c729acdf]: Commencement: Art. 1 in force at 25.3.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/469/article/1/2)
 
-[^key-7e73bc2f527927b5bd02b4559b4ad67c]: Commencement: Art. 2 in force at 25.3.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/469/article/1/2)
+[^c-7e73bc2f527927b5bd02b4559b4ad67c]: Commencement: Art. 2 in force at 25.3.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/469/article/1/2)
 
 [^f00003]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-1e2fb52d2a82337788cefe78a2e575d6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/469/article/2) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/641/article/3/a)
+[^c-1e2fb52d2a82337788cefe78a2e575d6]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/469/article/2) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/641/article/3/a)
 
-[^key-5ebf17e72314a323d200ff17c7cca70c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/469/article/2) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/641/article/3/b)
+[^c-5ebf17e72314a323d200ff17c7cca70c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/469/article/2) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/641/article/3/b)
 
-[^key-1e479237aea5f7a6dac41049ca3c6d60]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/469/article/2) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/641/article/3/c)
+[^c-1e479237aea5f7a6dac41049ca3c6d60]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/469/article/2) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/641/article/3/c)
 
 [^f00004]: Footnote: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36).
 
@@ -636,112 +636,112 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00007]: Footnote: Article 3 of [S.I. 2016/448](https://www.legislation.gov.uk/uksi/2016/448) provides for there to be a mayor for the area of the Combined Authority.
 
-[^key-eca308df75e55fad790f4c96f10cb4cd]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/469/article/2) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2020/641/article/3/d)
+[^c-eca308df75e55fad790f4c96f10cb4cd]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/469/article/2) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2020/641/article/3/d)
 
-[^key-9fce177b9c26aa0d24fc9471f8b028f8]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/469/article/3) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-9fce177b9c26aa0d24fc9471f8b028f8]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/469/article/3) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00008]: Footnote: [1985 c.51](https://www.legislation.gov.uk/ukpga/1985/51). Column 2 of the table in Part 2 was repealed by section 93, and Part 1 of Schedule 9 to the Police and Magistrates’ Courts Act 1994. The words “Integrated Transport Authority” in the heading of column 4 were substituted by section 77(5) and paragraph 53 of Schedule 4 to the Local Transport Act 2008. The Greater Manchester Integrated Transport Authority was abolished by the GMCA Order 2011.
 
-[^key-af57a6091eb0073fc7985c2fd2196111]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/469/article/4) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-af57a6091eb0073fc7985c2fd2196111]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/469/article/4) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00009]: Footnote: Section 113A was inserted by section 13 of the Localism Act 2011 and amended by section 23 of, and paragraph 25 of Schedule 5 to, the Cities and Local Government Devolution Act 2016.
 
-[^key-25b041b68032085b985139b8ef65df25]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/469/article/5) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-25b041b68032085b985139b8ef65df25]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/469/article/5) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
-[^key-dfccec0e2f01b41832fc530cd400b4ea]: Textual amendment: [Art. 5(1A)-(1C)](https://www.legislation.gov.uk/uksi/2017/469/article/5/1A) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [4](https://www.legislation.gov.uk/uksi/2020/641/article/4)
+[^c-dfccec0e2f01b41832fc530cd400b4ea]: Textual amendment: [Art. 5(1A)-(1C)](https://www.legislation.gov.uk/uksi/2017/469/article/5/1A) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [4](https://www.legislation.gov.uk/uksi/2020/641/article/4)
 
 [^f00010]: Footnote: This authorises the Mayor to make arrangements for a committee to exercise fire and rescue functions under section 107D(3)(c)(ii).
 
 [^f00011]: Footnote: [S.I. 2003/1021](https://www.legislation.gov.uk/uksi/2003/1021); to which there are amendments not relevant to this Order.
 
-[^key-46d7789de7e85721ad3f95e216a08ccd]: Textual amendment: [Arts. 5A-5D](https://www.legislation.gov.uk/uksi/2017/469/article/5A) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [5](https://www.legislation.gov.uk/uksi/2020/641/article/5)
+[^c-46d7789de7e85721ad3f95e216a08ccd]: Textual amendment: [Arts. 5A-5D](https://www.legislation.gov.uk/uksi/2017/469/article/5A) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [5](https://www.legislation.gov.uk/uksi/2020/641/article/5)
 
-[^key-88cd91c82971195ba44e6f87c8d0135b]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/469/article/6) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-88cd91c82971195ba44e6f87c8d0135b]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/469/article/6) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
-[^key-d130707a169ef1976e106254b5d491a1]: Textual amendment: [Art. 6(3)(a)](https://www.legislation.gov.uk/uksi/2017/469/article/6/3/a) substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/641/article/6/a)
+[^c-d130707a169ef1976e106254b5d491a1]: Textual amendment: [Art. 6(3)(a)](https://www.legislation.gov.uk/uksi/2017/469/article/6/3/a) substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/641/article/6/a)
 
-[^key-9b7d8733ec91fced94807bef1bdfcd8c]: Textual amendment: Words in [art. 6(3)(b)](https://www.legislation.gov.uk/uksi/2017/469/article/6/3/b) substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/641/article/6/b)
+[^c-9b7d8733ec91fced94807bef1bdfcd8c]: Textual amendment: Words in [art. 6(3)(b)](https://www.legislation.gov.uk/uksi/2017/469/article/6/3/b) substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/641/article/6/b)
 
-[^key-0b0046efe7f1ca540a670410080172f9]: Textual amendment: Words in [art. 6(3)(c)](https://www.legislation.gov.uk/uksi/2017/469/article/6/3/c) substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/641/article/6/b)
+[^c-0b0046efe7f1ca540a670410080172f9]: Textual amendment: Words in [art. 6(3)(c)](https://www.legislation.gov.uk/uksi/2017/469/article/6/3/c) substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/641/article/6/b)
 
 [^f00012]: Footnote: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36). Category 1 responders general are listed in Part 1, and category 2 responders general are listed in Part 2 of Schedule 1 to the Civil Contingencies Act 2004. There are amendments to section 2 and Schedule 1 which are not relevant to this Order.
 
-[^key-e0e4cea9ab37be6714b9c5fc1eecf7cf]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/469/article/7) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-e0e4cea9ab37be6714b9c5fc1eecf7cf]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/469/article/7) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
-[^key-2ae8f2b16cf6193ecf41955a697c4aa8]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/469/article/8) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-2ae8f2b16cf6193ecf41955a697c4aa8]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/469/article/8) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
-[^key-d3b20035036bc58fe32d7229988b8950]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/469/article/9) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-d3b20035036bc58fe32d7229988b8950]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/469/article/9) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
-[^key-7171a110407e81044c15ee8a1fc65310]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/469/article/10) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-7171a110407e81044c15ee8a1fc65310]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/469/article/10) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
-[^key-96303109d7dec7a9b7d2cb57cdba989e]: Commencement: Art. 11 in force at 25.3.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/469/article/1/2)
+[^c-96303109d7dec7a9b7d2cb57cdba989e]: Commencement: Art. 11 in force at 25.3.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/469/article/1/2)
 
 [^f00013]: Footnote: [2014 c.2](https://www.legislation.gov.uk/ukpga/2014/2). There are no relevant amendments to section 3.
 
 [^f00014]: Footnote: [S.I. 2015/234](https://www.legislation.gov.uk/uksi/2015/234).
 
-[^key-64ff6e3f04cfce067ec8228b1e886ac9]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2017/469/article/12) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-64ff6e3f04cfce067ec8228b1e886ac9]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2017/469/article/12) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00015]: Footnote: Section 1 has been amended by the substitution of the words “metropolitan county fire and rescue authority” by virtue of paragraph 10(1), (2) of Part 1 of Schedule 2 to the Civil Contingencies Act [2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36).
 
-[^key-d60e4ef010d0889c1d263b8f6e4f722c]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2017/469/article/13) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-d60e4ef010d0889c1d263b8f6e4f722c]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2017/469/article/13) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00016]: Footnote: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277). Paragraph 1A of section 6 was inserted in relation to England by article 50 of [S.I. 2004/3168](https://www.legislation.gov.uk/uksi/2004/3168) and paragraph 3 was amended by the substitution of the words “metropolitan county fire and rescue authority” by virtue of paragraph 10(1), (2) of Part 1 of Schedule 2 to the Civil Contingencies Act [2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36).
 
-[^key-b427af18a515f80caf7bffa1b6a99bf5]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2017/469/article/14) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-b427af18a515f80caf7bffa1b6a99bf5]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2017/469/article/14) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
-[^key-e1e9039b8a31be858ef3b5dab52e1a2c]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2017/469/article/14) heading substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [7](https://www.legislation.gov.uk/uksi/2020/641/article/7)
+[^c-e1e9039b8a31be858ef3b5dab52e1a2c]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2017/469/article/14) heading substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [7](https://www.legislation.gov.uk/uksi/2020/641/article/7)
 
-[^key-d5d081b9213de7baa6b8416d7d76c516]: Textual amendment: Words in [art. 14](https://www.legislation.gov.uk/uksi/2017/469/article/14) substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [8](https://www.legislation.gov.uk/uksi/2020/641/article/8)
+[^c-d5d081b9213de7baa6b8416d7d76c516]: Textual amendment: Words in [art. 14](https://www.legislation.gov.uk/uksi/2017/469/article/14) substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [8](https://www.legislation.gov.uk/uksi/2020/641/article/8)
 
-[^key-9896645df4423e5e80701f3921916303]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/469/schedule/1) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9)
+[^c-9896645df4423e5e80701f3921916303]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/469/schedule/1) inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9)
 
-[^key-48aead22e3a6888c89ade63731ab8278]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/469/schedule/2) heading substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [10](https://www.legislation.gov.uk/uksi/2020/641/article/10)
+[^c-48aead22e3a6888c89ade63731ab8278]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/469/schedule/2) heading substituted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [10](https://www.legislation.gov.uk/uksi/2020/641/article/10)
 
-[^key-bf686abe9cbd97c0f954431d91eaf76e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/1) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-bf686abe9cbd97c0f954431d91eaf76e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/1) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00017]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70). Subsection (5) was inserted by section 156(3) of the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42) and the words “metropolitan county fire and rescue authority” were substituted by virtue of paragraph 10(1), (2) of Part 1 of Schedule 2 to the Civil Contingencies Act 2004. Other amendments have been made to section 138 which are not relevant to this Order.
 
-[^key-f74ed73cb3e7584b88e30e1975a33282]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/2) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-f74ed73cb3e7584b88e30e1975a33282]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/2) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00018]: Footnote: [1981 c.ix](https://www.legislation.gov.uk/ukla/1981/9).
 
-[^key-00c200801a2e2a275fb1f69bcb3ab15f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/3) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-00c200801a2e2a275fb1f69bcb3ab15f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/3) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00019]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42). Section 67 has been repealed by sections 216(1) and 241 of, and Part 16 of Schedule 18 to, the Local Government and Public Involvement in Health Act 2007. The repeal has not yet been brought into force. Section 155(4)(g) has been amended by the substitution of the words “an Integrated Transport Authority” by section 77(5) of, and Part 4 of Schedule 4 to, the Local Transport Act 2008. There are other amendments to section 155 which are not relevant to this Order.
 
-[^key-a1b5d1cb0ba0bfdf97e10f6f205cde0f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/4) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-a1b5d1cb0ba0bfdf97e10f6f205cde0f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/4) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00020]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37). In section 5(5) the definition of “fire and rescue authority” was substituted by section 53(1) of, and paragraph 89(1), (2)(b) of, Schedule 1 to, the Fire and Rescue Services Act 2004. In paragraph (b) of subsection (5) the words “metropolitan county fire and rescue authority” were substituted by virtue of paragraph 10(1), (2) of Part 1 of Schedule 2 to the Civil Contingencies Act 2004. There are other amendments to section 5 which are not relevant to this Order. Paragraph (j) of section 115(2) was inserted by section 22 of, and paragraphs 1 and 7(1), (2) of Schedule 9 to, the Police and Criminal Justice Act [2006 c. 48](https://www.legislation.gov.uk/ukpga/2006/48). Other amendments have been made to section 115 which are not relevant to this Order.
 
-[^key-427d95630d57cddfc1611143c02398cb]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/5) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-427d95630d57cddfc1611143c02398cb]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/5) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00021]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26). In section 23(1)(k), the words “(fire and rescue services and transport)” were substituted by section 32 of, and paragraph 10 of Schedule 2 to, the Civil Contingencies Act 2004.
 
-[^key-0a298724addeb53b53f4d65ce95c85d2]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/6) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-0a298724addeb53b53f4d65ce95c85d2]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/6) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00022]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21). Sections 4A and 4B were inserted by paragraph 5 of Part 1 of Schedule 1 to the Policing and Crime Act 2017.
 
-[^key-fb0f10015153a8a5c17e6622e7fee4ad]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/7) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-fb0f10015153a8a5c17e6622e7fee4ad]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/7) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00023]: Footnote: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825), the words “metropolitan county fire and rescue authority” were substituted by virtue of paragraph 10(1), (2) of Part 1 of Schedule 2 to the Civil Contingencies Act [2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36).
 
-[^key-204b1b6a065a31a4850a60b6f2af51ec]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/8) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-204b1b6a065a31a4850a60b6f2af51ec]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/8) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00024]: Footnote: [S.I. 2009/2393](https://www.legislation.gov.uk/uksi/2009/2393).
 
-[^key-e9777ce74ade972240a2e9affb3746b1]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/9) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-e9777ce74ade972240a2e9affb3746b1]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/9) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00025]: Footnote: [S.I. 2012/1647](https://www.legislation.gov.uk/uksi/2012/1647).
 
-[^key-8ed7505cbd18d09a944ed5b6efe9a47a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/10) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-8ed7505cbd18d09a944ed5b6efe9a47a]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/10) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00026]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356); regulation 64(1) is substituted by regulation 22 of [S.I. 2015/755](https://www.legislation.gov.uk/uksi/2015/755).
 
-[^key-c47df37c7ac3c9f0bc9fa9d52fde79f8]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/11) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-c47df37c7ac3c9f0bc9fa9d52fde79f8]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/11) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00027]: Footnote: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638); to which there are amendments not relevant to this Order.
 
-[^key-d7c51277e95dcab79592bae971659aaf]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/12) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
+[^c-d7c51277e95dcab79592bae971659aaf]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/12) in force at 8.5.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3)
 
 [^f00028]: Footnote: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483); to which there are amendments not relevant to this Order.

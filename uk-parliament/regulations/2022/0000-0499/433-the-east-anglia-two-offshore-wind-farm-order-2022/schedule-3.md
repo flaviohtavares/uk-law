@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — Public rights of way to be temporarily stopped up[^key-f36072c2c8c685a7d6df06f56844dc93]
+## SCHEDULE 3 — Public rights of way to be temporarily stopped up[^c-f36072c2c8c685a7d6df06f56844dc93]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ Article 11
 
 ## Annotations
 
-[^key-f36072c2c8c685a7d6df06f56844dc93]: Commencement: Sch. 3 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-f36072c2c8c685a7d6df06f56844dc93]: Commencement: Sch. 3 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

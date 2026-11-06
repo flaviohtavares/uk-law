@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244A. Monitoring notices: transferees[^key-d8eb0d264a943032640a30c668ec924e]
+## 244A. Monitoring notices: transferees[^c-d8eb0d264a943032640a30c668ec924e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8eb0d264a943032640a30c668ec924e]: Textual amendment: [S. 244A](https://www.legislation.gov.uk/ukpga/2014/26/section/244A) inserted (with effect in accordance with Sch. 30 para. 21(3) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 21(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/21/1)
+[^c-d8eb0d264a943032640a30c668ec924e]: Textual amendment: [S. 244A](https://www.legislation.gov.uk/ukpga/2014/26/section/244A) inserted (with effect in accordance with Sch. 30 para. 21(3) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 21(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/21/1)

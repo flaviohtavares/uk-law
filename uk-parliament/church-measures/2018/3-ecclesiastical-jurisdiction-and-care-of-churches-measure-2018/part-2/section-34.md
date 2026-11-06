@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 34. Prohibition on appointment as archdeacon's official principal or registrar[^key-d66ed664e93186d9dd171724294ebe11]
+## 34. Prohibition on appointment as archdeacon's official principal or registrar[^c-d66ed664e93186d9dd171724294ebe11]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d66ed664e93186d9dd171724294ebe11]: Commencement: [S. 34](https://www.legislation.gov.uk/ukcm/2018/3/section/34) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-d66ed664e93186d9dd171724294ebe11]: Commencement: [S. 34](https://www.legislation.gov.uk/ukcm/2018/3/section/34) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

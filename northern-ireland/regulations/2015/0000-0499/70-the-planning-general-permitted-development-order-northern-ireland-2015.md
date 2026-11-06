@@ -265,7 +265,7 @@ The Department of the Environment makes the following Order in exercise of the p
 
 ## 7. Directions restricting permitted development under Part 16
 
-(1) If, on receipt of a notification from any person that they propose to carry out development within Part 16 of the Schedule, a council is satisfied as mentioned in paragraph (2), it may, within a period of 28[^key-89033a0738bd4a38a5d941a282a9945a] days beginning with the receipt of the notification, direct that the permission granted by Article 3 shall not apply to the development, or to such part of the development as is specified in the direction.
+(1) If, on receipt of a notification from any person that they propose to carry out development within Part 16 of the Schedule, a council is satisfied as mentioned in paragraph (2), it may, within a period of 28[^c-89033a0738bd4a38a5d941a282a9945a] days beginning with the receipt of the notification, direct that the permission granted by Article 3 shall not apply to the development, or to such part of the development as is specified in the direction.
 
 (2) The council may make a direction under this Article if it is satisfied that it is expedient that the development, or any part of it, should not be carried out unless permission for it is granted on an application because—
 
@@ -386,7 +386,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-610f8d8f06609728f44c576b79444b54]
+[^c-610f8d8f06609728f44c576b79444b54]
 
 ### PART 3 — MINOR OPERATIONS
 
@@ -419,7 +419,7 @@ Article 3
 </tbody>
 </table>
 
-[^c22384351][^key-78cb875453594c3179661669b02d26b4]
+[^c22384351][^c-78cb875453594c3179661669b02d26b4]
 
 ### PART 4 — CHANGES OF USE
 
@@ -574,7 +574,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-9d93926118088fb6a59b67a964c024df]
+[^c-9d93926118088fb6a59b67a964c024df]
 
 ### PART 14 — DEVELOPMENT BY STATUTORY AND OTHER UNDERTAKERS
 
@@ -657,7 +657,7 @@ Article 3
 
 [^c22384461][^c22384471]
 
-### PART 16 — MINERAL EXPLORATION[^key-9a01b7356be672683c16092225419157]
+### PART 16 — MINERAL EXPLORATION[^c-9a01b7356be672683c16092225419157]
 
 <table>
 <tbody>
@@ -685,7 +685,7 @@ Article 3
 </tbody>
 </table>
 
-### PART 18 — DEVELOPMENT BY ELECTRONIC COMMUNICATIONS CODE OPERATORS[^key-4e4e91c93ab33f03fe7cc4440e2a1402]
+### PART 18 — DEVELOPMENT BY ELECTRONIC COMMUNICATIONS CODE OPERATORS[^c-4e4e91c93ab33f03fe7cc4440e2a1402]
 
 <table>
 <tbody>
@@ -799,7 +799,7 @@ Article 3
 </tbody>
 </table>
 
-[^c22384531][^c22384541][^key-3fc34418fef176772cf43e8fc11dbca0][^c22384551]
+[^c22384531][^c22384541][^c-3fc34418fef176772cf43e8fc11dbca0][^c22384551]
 
 ### PART 26 — DEVELOPMENT BY THE DEPARTMENT
 
@@ -856,7 +856,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-f82e8bf7a6e757d11bbcc75027d4e9b7]
+[^c-f82e8bf7a6e757d11bbcc75027d4e9b7]
 
 ### PART 29 — AVIATION DEVELOPMENT BY THE CROWN
 
@@ -890,7 +890,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-0fc5c30640f16117e8ff6b5ef9642f0e][^c22384611]
+[^c-0fc5c30640f16117e8ff6b5ef9642f0e][^c22384611]
 
 ### PART 30 — CROWN RAILWAYS, DOCKYARDS ETC. AND LIGHTHOUSES
 
@@ -995,7 +995,7 @@ Article 3
 </tbody>
 </table>
 
-[^key-176e3af704120a11b5077789721cbcb8][^key-f50e207d704332e6cba8ca61bfac4a07][^key-86e3fed30d27ce93088152ce943270b8][^key-59b15c0182b94f4b8ad857fd46db1c2d]
+[^c-176e3af704120a11b5077789721cbcb8][^c-f50e207d704332e6cba8ca61bfac4a07][^c-86e3fed30d27ce93088152ce943270b8][^c-59b15c0182b94f4b8ad857fd46db1c2d]
 
 ### PART 35 — OFFICE BUILDINGS
 
@@ -1102,15 +1102,15 @@ The Explanatory Memorandum is available alongside the Order on the government's 
 
 [^c22384331]: Marginal citation: S.R. [1995 No.380](https://www.legislation.gov.uk/ukcm/1995/380)
 
-[^key-89033a0738bd4a38a5d941a282a9945a]: Textual amendment: Word in [art. 7(1)](https://www.legislation.gov.uk/nisr/2015/70/article/7/1) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/292/article/2/2)
+[^c-89033a0738bd4a38a5d941a282a9945a]: Textual amendment: Word in [art. 7(1)](https://www.legislation.gov.uk/nisr/2015/70/article/7/1) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/292/article/2/2)
 
 [^c22384341]: Marginal citation: S.R.[1993 No.278](https://www.legislation.gov.uk/ukcm/1993/278)
 
-[^key-610f8d8f06609728f44c576b79444b54]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/2) substituted (4.7.2023) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/95)](https://www.legislation.gov.uk/nisr/2023/95), [arts. 1](https://www.legislation.gov.uk/nisr/2023/95/article/1), [2](https://www.legislation.gov.uk/nisr/2023/95/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/95/schedule)
+[^c-610f8d8f06609728f44c576b79444b54]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/2) substituted (4.7.2023) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/95)](https://www.legislation.gov.uk/nisr/2023/95), [arts. 1](https://www.legislation.gov.uk/nisr/2023/95/article/1), [2](https://www.legislation.gov.uk/nisr/2023/95/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/95/schedule)
 
 [^c22384351]: Marginal citation: [S.I. 1980/1086 (N.I.12)](https://www.legislation.gov.uk/nisi/1980/1086)
 
-[^key-78cb875453594c3179661669b02d26b4]: Textual amendment: Sch. Pt. 3 Class D-F inserted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2020/292/schedule/1)
+[^c-78cb875453594c3179661669b02d26b4]: Textual amendment: Sch. Pt. 3 Class D-F inserted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2020/292/schedule/1)
 
 [^c22384361]: Marginal citation: [S.I. 1992/3204 (N.I.20)](https://www.legislation.gov.uk/nisi/1992/3204)
 
@@ -1120,7 +1120,7 @@ The Explanatory Memorandum is available alongside the Order on the government's 
 
 [^c22384391]: Marginal citation: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2)
 
-[^key-9d93926118088fb6a59b67a964c024df]: Textual amendment: Word in [Sch. Pt. 13](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/13) Class A para. A(b) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/b)
+[^c-9d93926118088fb6a59b67a964c024df]: Textual amendment: Word in [Sch. Pt. 13](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/13) Class A para. A(b) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/b)
 
 [^c22384401]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
 
@@ -1138,9 +1138,9 @@ The Explanatory Memorandum is available alongside the Order on the government's 
 
 [^c22384471]: Marginal citation: [S.I. 1994/426 (N.I.1)](https://www.legislation.gov.uk/nisi/1994/426)
 
-[^key-9a01b7356be672683c16092225419157]: Textual amendment: [Sch. Pt. 16](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/16) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/c), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/292/schedule/2)
+[^c-9a01b7356be672683c16092225419157]: Textual amendment: [Sch. Pt. 16](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/16) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/c), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/292/schedule/2)
 
-[^key-4e4e91c93ab33f03fe7cc4440e2a1402]: Textual amendment: [Sch. Pt. 18](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/18) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/d), [Sch. 3](https://www.legislation.gov.uk/nisr/2020/292/schedule/3)
+[^c-4e4e91c93ab33f03fe7cc4440e2a1402]: Textual amendment: [Sch. Pt. 18](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/18) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/d), [Sch. 3](https://www.legislation.gov.uk/nisr/2020/292/schedule/3)
 
 [^c22384491]: Marginal citation: [S.I. 1993/3160 (N.I.15)](https://www.legislation.gov.uk/nisi/1993/3160)
 
@@ -1154,7 +1154,7 @@ The Explanatory Memorandum is available alongside the Order on the government's 
 
 [^c22384541]: Marginal citation: the definition of “waterway” was amended by [S.I. 2006/3336 (N.I.21)](https://www.legislation.gov.uk/nisi/2006/3336) Art. 291(5)
 
-[^key-3fc34418fef176772cf43e8fc11dbca0]: Textual amendment: Words in [Sch. Pt. 25](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/25) substituted (1.12.2019) by [The Waterways (Environmental Impact Assessment) Regulations (Northern Ireland) 2019 (S.R. 2019/209)](https://www.legislation.gov.uk/nisr/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/209/regulation/1/1), [19(2)](https://www.legislation.gov.uk/nisr/2019/209/regulation/19/2)
+[^c-3fc34418fef176772cf43e8fc11dbca0]: Textual amendment: Words in [Sch. Pt. 25](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/25) substituted (1.12.2019) by [The Waterways (Environmental Impact Assessment) Regulations (Northern Ireland) 2019 (S.R. 2019/209)](https://www.legislation.gov.uk/nisr/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/209/regulation/1/1), [19(2)](https://www.legislation.gov.uk/nisr/2019/209/regulation/19/2)
 
 [^c22384551]: Marginal citation: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17) as amended by [S.I. 1991/1466 (N.I.13)](https://www.legislation.gov.uk/nisi/1991/1466)
 
@@ -1166,9 +1166,9 @@ The Explanatory Memorandum is available alongside the Order on the government's 
 
 [^c22384591]: Marginal citation: [1968 c.29 (N.I.)](https://www.legislation.gov.uk/apni/1968/29) as amended by [S.I. 1989/1344 (N.I.15)](https://www.legislation.gov.uk/nisi/1989/1344)
 
-[^key-f82e8bf7a6e757d11bbcc75027d4e9b7]: Textual amendment: Word in Sch. Pt. 28 Class A para. A(b) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/e)
+[^c-f82e8bf7a6e757d11bbcc75027d4e9b7]: Textual amendment: Word in Sch. Pt. 28 Class A para. A(b) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/e)
 
-[^key-0fc5c30640f16117e8ff6b5ef9642f0e]: Textual amendment: Words in [Sch. Pt. 29](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/29) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 13](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/13) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-0fc5c30640f16117e8ff6b5ef9642f0e]: Textual amendment: Words in [Sch. Pt. 29](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/29) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 13](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/13) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
 [^c22384611]: Marginal citation: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38)
 
@@ -1178,10 +1178,10 @@ The Explanatory Memorandum is available alongside the Order on the government's 
 
 [^c22384641]: Marginal citation: S.R. [2015 No.62](https://www.legislation.gov.uk/ukcm/2015/62)
 
-[^key-176e3af704120a11b5077789721cbcb8]: Textual amendment: Word in Sch. Pt. 34 Class A para. A.1(a)(i) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/f), [Sch. 4](https://www.legislation.gov.uk/nisr/2020/292/schedule/4)
+[^c-176e3af704120a11b5077789721cbcb8]: Textual amendment: Word in Sch. Pt. 34 Class A para. A.1(a)(i) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/f), [Sch. 4](https://www.legislation.gov.uk/nisr/2020/292/schedule/4)
 
-[^key-f50e207d704332e6cba8ca61bfac4a07]: Textual amendment: Word in Sch. Pt. 34 Class A para. A.1(a)(ii) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/f), [Sch. 4](https://www.legislation.gov.uk/nisr/2020/292/schedule/4)
+[^c-f50e207d704332e6cba8ca61bfac4a07]: Textual amendment: Word in Sch. Pt. 34 Class A para. A.1(a)(ii) substituted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/f), [Sch. 4](https://www.legislation.gov.uk/nisr/2020/292/schedule/4)
 
-[^key-86e3fed30d27ce93088152ce943270b8]: Textual amendment: [Sch. Pt. 34](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/34) Class D inserted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/f), [Sch. 4](https://www.legislation.gov.uk/nisr/2020/292/schedule/4)
+[^c-86e3fed30d27ce93088152ce943270b8]: Textual amendment: [Sch. Pt. 34](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/34) Class D inserted (21.12.2020) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2020 (S.R. 2020/292)](https://www.legislation.gov.uk/nisr/2020/292), [arts. 1](https://www.legislation.gov.uk/nisr/2020/292/article/1), [2(3)(f)](https://www.legislation.gov.uk/nisr/2020/292/article/2/3/f), [Sch. 4](https://www.legislation.gov.uk/nisr/2020/292/schedule/4)
 
-[^key-59b15c0182b94f4b8ad857fd46db1c2d]: Textual amendment: [Sch. Pt. 34](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/34) Class E inserted (13.5.2026) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/80)](https://www.legislation.gov.uk/nisr/2026/80), [art. 1](https://www.legislation.gov.uk/nisr/2026/80/article/1), [Sch.](https://www.legislation.gov.uk/nisr/2026/80/schedule)
+[^c-59b15c0182b94f4b8ad857fd46db1c2d]: Textual amendment: [Sch. Pt. 34](https://www.legislation.gov.uk/nisr/2015/70/schedule/part/34) Class E inserted (13.5.2026) by [The Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/80)](https://www.legislation.gov.uk/nisr/2026/80), [art. 1](https://www.legislation.gov.uk/nisr/2026/80/article/1), [Sch.](https://www.legislation.gov.uk/nisr/2026/80/schedule)

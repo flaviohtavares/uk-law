@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Cooperation between the Commissioner and the Chief Inspector of Constabulary[^key-f42c2088b163d0df6fc1a924334f28c4]
+## 4. Cooperation between the Commissioner and the Chief Inspector of Constabulary[^c-f42c2088b163d0df6fc1a924334f28c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ The Commissioner and the Chief Inspector must—
 
 ## Annotations
 
-[^key-f42c2088b163d0df6fc1a924334f28c4]: Commencement: Reg. 4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-f42c2088b163d0df6fc1a924334f28c4]: Commencement: Reg. 4 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
 
 [^f00011]: Footnote: Inspectors of constabulary are persons appointed under section 54(1) of the 1996 Act.

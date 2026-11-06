@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Amendment of regulation 69 (offences)[^key-8a132176686e2312dca05e6ddd26c17c]
+## 34. Amendment of regulation 69 (offences)[^c-8a132176686e2312dca05e6ddd26c17c]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation 69 (offences), after paragraph (1)(l), insert—
 
 ## Annotations
 
-[^key-8a132176686e2312dca05e6ddd26c17c]: Commencement: Reg. 34 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-8a132176686e2312dca05e6ddd26c17c]: Commencement: Reg. 34 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

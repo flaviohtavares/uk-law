@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169A. Removal from office of disqualified directors[^key-cf9e4f378cf25d9a318ab010652bf480][^key-dbce70d5ac66abd72456031566171d11]
+## 169A. Removal from office of disqualified directors[^c-cf9e4f378cf25d9a318ab010652bf480][^c-dbce70d5ac66abd72456031566171d11]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf9e4f378cf25d9a318ab010652bf480]: Modification: [S. 169A](https://www.legislation.gov.uk/ukpga/2006/46/section/169A) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 17B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17B) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/234/regulation/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-cf9e4f378cf25d9a318ab010652bf480]: Modification: [S. 169A](https://www.legislation.gov.uk/ukpga/2006/46/section/169A) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 17B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17B) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/234/regulation/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-dbce70d5ac66abd72456031566171d11]: Textual amendment: [S. 169A](https://www.legislation.gov.uk/ukpga/2006/46/section/169A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/40/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z4)
+[^c-dbce70d5ac66abd72456031566171d11]: Textual amendment: [S. 169A](https://www.legislation.gov.uk/ukpga/2006/46/section/169A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 40(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/40/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z4)

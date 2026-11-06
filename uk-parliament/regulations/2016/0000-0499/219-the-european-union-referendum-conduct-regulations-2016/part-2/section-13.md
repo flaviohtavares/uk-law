@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Prohibition of disclosure of vote[^key-964f115814e194d145a1192bf9267a0b]
+## 13. Prohibition of disclosure of vote[^c-964f115814e194d145a1192bf9267a0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person who has voted in the referendum may not be required, in any legal proce
 
 ## Annotations
 
-[^key-964f115814e194d145a1192bf9267a0b]: Commencement: Reg. 13 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-964f115814e194d145a1192bf9267a0b]: Commencement: Reg. 13 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

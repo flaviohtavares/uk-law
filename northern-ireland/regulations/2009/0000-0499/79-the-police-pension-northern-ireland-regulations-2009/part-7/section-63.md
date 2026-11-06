@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Appeals[^key-cb870f10d20a8cc209b6a18e9dd3328f]
+## 63. Appeals[^c-cb870f10d20a8cc209b6a18e9dd3328f]
 
 *Extent: N.I.*
 
@@ -48,6 +48,6 @@ he may, subject to regulation 64, give notice of appeal to the Board and the Sec
 
 ## Annotations
 
-[^key-cb870f10d20a8cc209b6a18e9dd3328f]: Commencement: Reg. 63 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-cb870f10d20a8cc209b6a18e9dd3328f]: Commencement: Reg. 63 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 1980/397 (N.I.3)](https://www.legislation.gov.uk/nisi/1980/397)

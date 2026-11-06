@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 337. Power to amend or repeal certain provisions[^key-b42f198bec504ee28b62f9067e310630]
+## 337. Power to amend or repeal certain provisions[^c-b42f198bec504ee28b62f9067e310630]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 13(5) of the Tribunals and Inquiries Act 1992 (power to amend or repe
 
 ## Annotations
 
-[^key-b42f198bec504ee28b62f9067e310630]: Commencement: Art. 337 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b42f198bec504ee28b62f9067e310630]: Commencement: Art. 337 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

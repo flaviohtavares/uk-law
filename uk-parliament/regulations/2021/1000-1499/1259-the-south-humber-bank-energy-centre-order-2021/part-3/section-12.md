@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Construction and maintenance of new or altered means of access[^key-cd002dc515665278a59d505bde23e03c]
+## 12. Construction and maintenance of new or altered means of access[^c-cd002dc515665278a59d505bde23e03c]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ but for the purposes of such a defence it is not relevant that the undertaker ha
 
 ## Annotations
 
-[^key-cd002dc515665278a59d505bde23e03c]: Commencement: Art. 12 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-cd002dc515665278a59d505bde23e03c]: Commencement: Art. 12 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

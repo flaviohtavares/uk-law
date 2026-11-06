@@ -42,15 +42,15 @@ Coming into operation-
 
 The Department of Agriculture, Environment and Rural Affairs is a Northern Ireland department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Union.
 
-This Order makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Department that it is expedient for the references to the following EU Regulations to be construed as references to those Regulations as amended from time to time—[^key-8b8c4b5752ac37a59957385c240d92b7]
+This Order makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Department that it is expedient for the references to the following EU Regulations to be construed as references to those Regulations as amended from time to time—[^c-8b8c4b5752ac37a59957385c240d92b7]
 
 - (a)
 - (b)
 - (c)
 
-The Department of Agriculture, Environment and Rural Affairs makes the following Order in exercise of powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00006] and section 30(2) of the Fisheries Act 1981[^f00007] and now vested in it[^f00008].[^key-8b8c4b5752ac37a59957385c240d92b7]
+The Department of Agriculture, Environment and Rural Affairs makes the following Order in exercise of powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00006] and section 30(2) of the Fisheries Act 1981[^f00007] and now vested in it[^f00008].[^c-8b8c4b5752ac37a59957385c240d92b7]
 
-## 1. Citation, commencement and application[^key-8c77b24fd7317d1b07cbc1fec536e173]
+## 1. Citation, commencement and application[^c-8c77b24fd7317d1b07cbc1fec536e173]
 
 (1) This Order may be cited as the Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order (Northern Ireland) 2018 and comes into operation on 1 June 2018.
 
@@ -60,7 +60,7 @@ The Department of Agriculture, Environment and Rural Affairs makes the following
 - (b) in relation to Northern Ireland fishing boats, wherever they are;
 - (c) in relation to other fishing vessels within the Northern Ireland zone.
 
-## 2. Interpretation[^key-f635b8a5d5aa0a6ad02034aa72c46686]
+## 2. Interpretation[^c-f635b8a5d5aa0a6ad02034aa72c46686]
 
 (1) Subject to article 17(1), the Interpretation Act (Northern Ireland) 1954[^f00009] applies to this Order as it applies to an Act of the Assembly.
 
@@ -78,7 +78,7 @@ The Department of Agriculture, Environment and Rural Affairs makes the following
 - “equivalent provision” means any provision in any other order extending to any part of the United Kingdom and made for the purposes of implementing the Council Regulation or the Commission Regulation, which has equivalent effect to a provision in this Order, proceedings in respect of which may be taken in Northern Ireland by virtue of section 30(2A) of the Fisheries Act 1981[^f00011]);
 - “Northern Ireland” and “the Northern Ireland zone” have the same meanings as in the Northern Ireland Act 1998[^f00012].
 - “Northern Ireland fishing boat” means a fishing vessel which is registered in the register maintained under Section 8 of the Merchant Shipping Act 1995 [^f00013], and whose entry in the register specifies a port in Northern Ireland as the port to which the vessel is to be treated as belonging; and
-- “third country fishing vessel” means a fishing vessel which is not a United Kingdom[^key-1b1210decc828ac3b5ae7a2783025308] fishing vessel.
+- “third country fishing vessel” means a fishing vessel which is not a United Kingdom[^c-1b1210decc828ac3b5ae7a2783025308] fishing vessel.
 
 (3) Terms used in this Order that are also used in the Council Regulation have the meaning they bear in that Regulation.
 
@@ -90,7 +90,7 @@ The Department of Agriculture, Environment and Rural Affairs makes the following
 - (b) that indication has not been withdrawn; and
 - (c) the notice is sent to that address.
 
-## 3. Competent authority[^key-a6a9045e687adae838e99287f758ce15]
+## 3. Competent authority[^c-a6a9045e687adae838e99287f758ce15]
 
 (1) The Department is the competent authority for the purposes of the Council Regulation and the Commission Regulation.
 
@@ -104,7 +104,7 @@ The Department of Agriculture, Environment and Rural Affairs makes the following
 - (d) Article 17(2) of the Council Regulation and Article 20 of the Commission Regulation (verifications); and
 - (e) Article 18(1) to (3) of the Council Regulation (refusal of importation).
 
-## 4. Control on movement[^key-aacc124b9636d17902707b6470146113]
+## 4. Control on movement[^c-aacc124b9636d17902707b6470146113]
 
 (1) An authorised officer may prohibit the movement of a consignment of fishery products from the place of import while a verification takes place pursuant to Article 17 of the Council Regulation or Article 20 of the Commission Regulation.
 
@@ -126,7 +126,7 @@ The Department of Agriculture, Environment and Rural Affairs makes the following
 
 the authorised officer shall withdraw the notice issued under this article and remove the prohibition on movement.
 
-## 5. Consent to movement[^key-3d50c9091f8c2e14fed748d228a3f632]
+## 5. Consent to movement[^c-3d50c9091f8c2e14fed748d228a3f632]
 
 (1) An authorised officer may give written consent to the movement of a controlled consignment.
 
@@ -143,7 +143,7 @@ the authorised officer shall withdraw the notice issued under this article and r
 
 (4) Where such consent has been given and the consignment has been moved to the place specified under paragraph (3)(b), the prohibition on movement under article 4 applies to it at such place as it applied at the place of import.
 
-## 6. Refusal of importation[^key-34b60ad7c9a432c11d42046bd811d068]
+## 6. Refusal of importation[^c-34b60ad7c9a432c11d42046bd811d068]
 
 (1) The Department shall refuse importation or permission to use transhipment facilities where a declaration has not been submitted in accordance with Article 8 of the Council Regulation and Article 3 of, and Annex IIIA or as the case may be, Annex IIIB to, the Commission Regulation.
 
@@ -160,11 +160,11 @@ the authorised officer shall withdraw the notice issued under this article and r
 
 (5) The procedure on an appeal under paragraph (4) is by way of notice, and Part VII of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00014] applies to the proceedings.
 
-## 7. Fees relating to third country imports[^key-1103ba6c08b6f5515142f6272bec47db]
+## 7. Fees relating to third country imports[^c-1103ba6c08b6f5515142f6272bec47db]
 
 A district council may charge an importer of a consignment a fee in respect of any expenses reasonably incurred by it in carrying out its functions under articles 3(2) or 4 in respect of any consignment.
 
-## 8. Offences under the Council Regulation[^key-6f42369a4cd642db94aeeb9cc8983532]
+## 8. Offences under the Council Regulation[^c-6f42369a4cd642db94aeeb9cc8983532]
 
 (1) It is an offence for the person in charge of a third country fishing vessel to enter port without authorisation granted under Article 7 of the Council Regulation.
 
@@ -177,10 +177,10 @@ A district council may charge an importer of a consignment a fee in respect of a
 (5) It is an offence for a person in charge of a fishing vessel to tranship fish or fishery products between, or participate in joint fishing operations with, a fishing vessel that—
 
 - (a) has engaged in IUU fishing;
-- (b) is on the United Kingdom[^key-00fb88b284e0f56129ec8eae09ef312e] IUU vessel list; or
+- (b) is on the United Kingdom[^c-00fb88b284e0f56129ec8eae09ef312e] IUU vessel list; or
 - (c) is on an IUU vessel list of a regional fisheries management organisation.
 
-(6) In relation to a fishing vessel on the United Kingdom[^key-af7bf93649717b46674af6f0e317713c] IUU vessel list, it is an offence for a person—
+(6) In relation to a fishing vessel on the United Kingdom[^c-af7bf93649717b46674af6f0e317713c] IUU vessel list, it is an offence for a person—
 
 - (a) to enter into an agreement to operate or beneficially own it;
 - (b) to furnish it with any supplies, gear or people, except as necessary in the case of *force majeure* or distress; or
@@ -190,9 +190,9 @@ A district council may charge an importer of a consignment a fee in respect of a
 
 - (a) import fishery products caught by fishing vessel flying the flag of the third country unless the products are from stock or species to which the listing does not apply;
 - (b) purchase a fishing vessel flying the flag of the third country;
-- (c) reflag a United Kingdom fishing vessel[^key-970672cc50a29fddeb777e9dff3f00f8] so that it flies the flag of the third country;
-- (d) enter into a charter agreement with the third country [^key-9dd8191131910f4b0963c80d0cfb1710]...;
-- (e) enter into an agreement for a United Kingdom fishing vessel[^key-ff6bd2cd75e57536cfc73d7dfe1e1868] to use the fishing possibilities of the third country; or
+- (c) reflag a United Kingdom fishing vessel[^c-970672cc50a29fddeb777e9dff3f00f8] so that it flies the flag of the third country;
+- (d) enter into a charter agreement with the third country [^c-9dd8191131910f4b0963c80d0cfb1710]...;
+- (e) enter into an agreement for a United Kingdom fishing vessel[^c-ff6bd2cd75e57536cfc73d7dfe1e1868] to use the fishing possibilities of the third country; or
 - (f) participate in joint fishing operations with a fishing vessel flying the flag of the third country.
 
 (8) It is an offence for a person to conduct business directly connected to IUU fishing, within the meaning of Article 42(1)(b) of the Council Regulation.
@@ -205,7 +205,7 @@ A district council may charge an importer of a consignment a fee in respect of a
 
 (12) In paragraphs (1), (2), (4) and (5) the “person in charge” of a fishing vessel means the owner, master, charterer (if any) or their agents.
 
-## 9. Penalties[^key-e68aceac14d5ea75fee9bca3f493685b]
+## 9. Penalties[^c-e68aceac14d5ea75fee9bca3f493685b]
 
 (1) A person guilty of an offence under article 8(1) to (10) and article 16(1), or under an equivalent provision, is liable—
 
@@ -217,7 +217,7 @@ A district council may charge an importer of a consignment a fee in respect of a
 - (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
 
-## 10. Recovery of fines[^key-847b4d02dd71478e00b39637d00cae95]
+## 10. Recovery of fines[^c-847b4d02dd71478e00b39637d00cae95]
 
 (1) Where a magistrates’ court imposes a fine on a person convicted of an offence under this Order or under an equivalent provision, the court may for the purposes of recovering the fine—
 
@@ -236,7 +236,7 @@ A district council may charge an importer of a consignment a fee in respect of a
 
 (4) Where, in relation to a fine in respect of any offence under this Order or under an equivalent provision, an order under section 90 of the Magistrates’ Courts Act 1980[^f00016] or section 222 of the Criminal Procedure (Scotland) Act 1995[^f00017] (both of which deal with the transfer of fines from one jurisdiction to another) specifies a petty sessions district in Northern Ireland, this article applies as if the fine were imposed by a court in Northern Ireland.
 
-## 11. Powers of British sea-fishery officers in relation to fishing vessels[^key-9687d22241659605368624fedae471f6]
+## 11. Powers of British sea-fishery officers in relation to fishing vessels[^c-9687d22241659605368624fedae471f6]
 
 (1) For the purpose of enforcing this Order or an equivalent provision, a British sea‑fishery officer may exercise the powers conferred by this article in relation to a fishing vessel to which this Order applies.
 
@@ -259,7 +259,7 @@ A district council may charge an importer of a consignment a fee in respect of a
 
 (6) A British sea-fishery officer who detains, or requires the detention of, a vessel shall serve on the master a written notice stating that the vessel is, or is required to be, detained until the notice is withdrawn by the service on the master of a further written notice signed by a British sea-fishery officer.
 
-## 12. Powers of British sea-fishery officers on land[^key-d4a6ecda827645c6284b0a2ab4e84e00]
+## 12. Powers of British sea-fishery officers on land[^c-d4a6ecda827645c6284b0a2ab4e84e00]
 
 (1) For the purpose of enforcing this Order or an equivalent provision, a British sea-fishery officer may—
 
@@ -276,7 +276,7 @@ A district council may charge an importer of a consignment a fee in respect of a
 
 (2) The provisions of paragraph (1) also apply in relation to any land used in connection with any of the activities described in paragraph (1)(a), or in respect of any vehicle or container which a British sea-fishery officer has reasonable cause to believe is being used to transport fish or fishery products, as they apply in relation to premises and, in the case of a vehicle, include power to require the vehicle to stop at any time and, if necessary, direct the vehicle to some other place to facilitate the inspection.
 
-## 13. Warrants to enter premises[^key-32852327606c934c7cb485f10606a2a8]
+## 13. Warrants to enter premises[^c-32852327606c934c7cb485f10606a2a8]
 
 (1) A lay magistrate, who on sworn complaint in writing is satisfied that the circumstances in paragraph (2) apply, may issue a warrant authorising a British sea-fishery officer to enter any premises, if necessary using reasonable force, and to take with that officer such persons as appear to be necessary.
 
@@ -292,14 +292,14 @@ A district council may charge an importer of a consignment a fee in respect of a
 
 (3) If a British sea-fishery officer enters any unoccupied premises by virtue of a warrant the officer shall leave them as effectively secured against unauthorised entry as the officer found them.
 
-## 14. Powers of British sea-fishery officers to seize fish, fishery products and fishing gear[^key-f563544bbe4d81dc54a84f141543a638]
+## 14. Powers of British sea-fishery officers to seize fish, fishery products and fishing gear[^c-f563544bbe4d81dc54a84f141543a638]
 
 (1) A British sea-fishery officer may seize—
 
 - (a) any fish or fishery products, including any receptacle which contains the fish or fishery products, in respect of which the officer has reasonable grounds to suspect that an offence under this Order or an equivalent provision has been committed;
 - (b) any net or other fishing gear which the officer has reasonable grounds to suspect has been used in the commission of such an offence.
 
-## 15. Protection of officers[^key-88d4967762c9bf5e86aed61aed8df1a4]
+## 15. Protection of officers[^c-88d4967762c9bf5e86aed61aed8df1a4]
 
 (1) An officer is not liable in any civil or criminal proceedings for anything done or omitted to be done in the purported exercise of any of the powers conferred by articles 11 to 14 or in carrying out checks and verifications under the Council Regulation or the Commission Regulation if the court is satisfied that—
 
@@ -315,7 +315,7 @@ A district council may charge an importer of a consignment a fee in respect of a
   - (i) article 11(2) or 12(1)(b); or
   - (ii) a warrant issued under article 13.
 
-## 16. Obstruction of officers[^key-adc897d899cdda0f4da65b54adcc9492]
+## 16. Obstruction of officers[^c-adc897d899cdda0f4da65b54adcc9492]
 
 (1) A person is guilty of an offence if that person—
 
@@ -327,7 +327,7 @@ A district council may charge an importer of a consignment a fee in respect of a
 
 (2) In paragraph (1), “officer” has the same meaning as in article 15(2).
 
-## 17. Offences by corporate bodies, unincorporated associations and partnerships[^key-80abc4c3c71e66d16561bcf05b5068d1]
+## 17. Offences by corporate bodies, unincorporated associations and partnerships[^c-80abc4c3c71e66d16561bcf05b5068d1]
 
 (1) For the purposes of this Order section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies in relation to the commission of an offence under this Order or an equivalent provision by a body corporate with the omission of the words “the liability of whose members is limited”, and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
 
@@ -337,7 +337,7 @@ A district council may charge an importer of a consignment a fee in respect of a
 
 (4) In paragraph (2) “officer”, means any officer of the association or any member of its governing body or any person purporting to act in any such capacity.
 
-## 18. Exchange of information[^key-31471e851115ac050ad7f3c527149bb1]
+## 18. Exchange of information[^c-31471e851115ac050ad7f3c527149bb1]
 
 (1) The Department, the Commissioners and a district council may exchange information for the purpose of this Order and may disclose information to the competent authorities in England, Scotland and Wales for the purposes of this Order or the equivalent provision in those jurisdictions.
 
@@ -351,7 +351,7 @@ A district council may charge an importer of a consignment a fee in respect of a
 - (b) the disclosure is for a purpose other than the purposes specified in paragraph (1); and
 - (c) the Commissioners have not given their prior consent to its disclosure.
 
-## 19. Obtaining samples and analysis etc[^key-37a90250f75fdd996361a44201ff2525]
+## 19. Obtaining samples and analysis etc[^c-37a90250f75fdd996361a44201ff2525]
 
 (1) An authorised officer may, for the purposes of ascertaining whether any offence under this Order or an equivalent provision has been committed, purchase or take a sample of any fish or fishery products.
 
@@ -373,7 +373,7 @@ is evidence of the facts stated in it unless, in a case falling within sub-parag
 
 (6) If such notice is not given, the court may adjourn the proceedings on such terms as it thinks fit.
 
-## 20. Admissibility of documents in evidence[^key-91d2c0e3e2cdc92e5232f7f55d05eabd]
+## 20. Admissibility of documents in evidence[^c-91d2c0e3e2cdc92e5232f7f55d05eabd]
 
 (1) In any proceedings for an offence under this Order or an equivalent provision, any—
 
@@ -438,7 +438,7 @@ Articles 17 to 20 make provision for offences committed by bodies corporate, exc
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).Section 2(2) was amended by section 27(1)(a) of the legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7)
 
-[^key-8b8c4b5752ac37a59957385c240d92b7]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2018/106) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-8b8c4b5752ac37a59957385c240d92b7]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2018/106) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00006]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and, so far as relevant, amended by section 3(3) of, and Part1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
@@ -446,9 +446,9 @@ Articles 17 to 20 make provision for offences committed by bodies corporate, exc
 
 [^f00008]: Footnote: By virtue of article 3(2) of, and paragraph 3(1) of Schedule 2 to, the Sea Fisheries (Northern Ireland) Order 2002 ([S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790)) the function of the Ministers (see definition in section 30(3)) conferred by section 30(2) (of making provision by order for the enforcement of any enforceable EU restriction or other obligation relating to sea fishing within the Northern Ireland zone and outside that zone in relation to Northern Ireland fishing boats) was transferred to the Department of Agriculture and Rural Development. The Department of Agriculture and Rural Development was re-named the Department of Agriculture, Environment and Rural Affairs by section 1(2) of the Departments Act (Northern Ireland) [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-8c77b24fd7317d1b07cbc1fec536e173]: Commencement: Art. 1 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-8c77b24fd7317d1b07cbc1fec536e173]: Commencement: Art. 1 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-f635b8a5d5aa0a6ad02034aa72c46686]: Commencement: Art. 2 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-f635b8a5d5aa0a6ad02034aa72c46686]: Commencement: Art. 2 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
 [^f00009]: Footnote: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -460,35 +460,35 @@ Articles 17 to 20 make provision for offences committed by bodies corporate, exc
 
 [^f00013]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21)
 
-[^key-1b1210decc828ac3b5ae7a2783025308]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/106/article/2/2) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b1210decc828ac3b5ae7a2783025308]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/106/article/2/2) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a6a9045e687adae838e99287f758ce15]: Commencement: Art. 3 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-a6a9045e687adae838e99287f758ce15]: Commencement: Art. 3 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-aacc124b9636d17902707b6470146113]: Commencement: Art. 4 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-aacc124b9636d17902707b6470146113]: Commencement: Art. 4 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-3d50c9091f8c2e14fed748d228a3f632]: Commencement: Art. 5 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-3d50c9091f8c2e14fed748d228a3f632]: Commencement: Art. 5 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-34b60ad7c9a432c11d42046bd811d068]: Commencement: Art. 6 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-34b60ad7c9a432c11d42046bd811d068]: Commencement: Art. 6 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
 [^f00014]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-1103ba6c08b6f5515142f6272bec47db]: Commencement: Art. 7 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-1103ba6c08b6f5515142f6272bec47db]: Commencement: Art. 7 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-6f42369a4cd642db94aeeb9cc8983532]: Commencement: Art. 8 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-6f42369a4cd642db94aeeb9cc8983532]: Commencement: Art. 8 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-00fb88b284e0f56129ec8eae09ef312e]: Textual amendment: Words in [art. 8(5)(b)](https://www.legislation.gov.uk/nisr/2018/106/article/8/5/b) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00fb88b284e0f56129ec8eae09ef312e]: Textual amendment: Words in [art. 8(5)(b)](https://www.legislation.gov.uk/nisr/2018/106/article/8/5/b) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af7bf93649717b46674af6f0e317713c]: Textual amendment: Words in [art. 8(6)](https://www.legislation.gov.uk/nisr/2018/106/article/8/6) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af7bf93649717b46674af6f0e317713c]: Textual amendment: Words in [art. 8(6)](https://www.legislation.gov.uk/nisr/2018/106/article/8/6) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-970672cc50a29fddeb777e9dff3f00f8]: Textual amendment: Words in [art. 8(7)(c)](https://www.legislation.gov.uk/nisr/2018/106/article/8/7/c) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-970672cc50a29fddeb777e9dff3f00f8]: Textual amendment: Words in [art. 8(7)(c)](https://www.legislation.gov.uk/nisr/2018/106/article/8/7/c) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9dd8191131910f4b0963c80d0cfb1710]: Textual amendment: Words in [art. 8(7)(d)](https://www.legislation.gov.uk/nisr/2018/106/article/8/7/d) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9dd8191131910f4b0963c80d0cfb1710]: Textual amendment: Words in [art. 8(7)(d)](https://www.legislation.gov.uk/nisr/2018/106/article/8/7/d) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff6bd2cd75e57536cfc73d7dfe1e1868]: Textual amendment: Words in [art. 8(7)(e)](https://www.legislation.gov.uk/nisr/2018/106/article/8/7/e) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff6bd2cd75e57536cfc73d7dfe1e1868]: Textual amendment: Words in [art. 8(7)(e)](https://www.legislation.gov.uk/nisr/2018/106/article/8/7/e) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [7(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/209/regulation/7/3/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e68aceac14d5ea75fee9bca3f493685b]: Commencement: Art. 9 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-e68aceac14d5ea75fee9bca3f493685b]: Commencement: Art. 9 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-847b4d02dd71478e00b39637d00cae95]: Commencement: Art. 10 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-847b4d02dd71478e00b39637d00cae95]: Commencement: Art. 10 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
 [^f00015]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
@@ -496,22 +496,22 @@ Articles 17 to 20 make provision for offences committed by bodies corporate, exc
 
 [^f00017]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46)
 
-[^key-9687d22241659605368624fedae471f6]: Commencement: Art. 11 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-9687d22241659605368624fedae471f6]: Commencement: Art. 11 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-d4a6ecda827645c6284b0a2ab4e84e00]: Commencement: Art. 12 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-d4a6ecda827645c6284b0a2ab4e84e00]: Commencement: Art. 12 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-32852327606c934c7cb485f10606a2a8]: Commencement: Art. 13 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-32852327606c934c7cb485f10606a2a8]: Commencement: Art. 13 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-f563544bbe4d81dc54a84f141543a638]: Commencement: Art. 14 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-f563544bbe4d81dc54a84f141543a638]: Commencement: Art. 14 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-88d4967762c9bf5e86aed61aed8df1a4]: Commencement: Art. 15 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-88d4967762c9bf5e86aed61aed8df1a4]: Commencement: Art. 15 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-adc897d899cdda0f4da65b54adcc9492]: Commencement: Art. 16 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-adc897d899cdda0f4da65b54adcc9492]: Commencement: Art. 16 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-80abc4c3c71e66d16561bcf05b5068d1]: Commencement: Art. 17 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-80abc4c3c71e66d16561bcf05b5068d1]: Commencement: Art. 17 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-31471e851115ac050ad7f3c527149bb1]: Commencement: Art. 18 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-31471e851115ac050ad7f3c527149bb1]: Commencement: Art. 18 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-37a90250f75fdd996361a44201ff2525]: Commencement: Art. 19 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-37a90250f75fdd996361a44201ff2525]: Commencement: Art. 19 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
 
-[^key-91d2c0e3e2cdc92e5232f7f55d05eabd]: Commencement: Art. 20 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)
+[^c-91d2c0e3e2cdc92e5232f7f55d05eabd]: Commencement: Art. 20 in operation at 1.6.2018, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2018/106/article/1/1)

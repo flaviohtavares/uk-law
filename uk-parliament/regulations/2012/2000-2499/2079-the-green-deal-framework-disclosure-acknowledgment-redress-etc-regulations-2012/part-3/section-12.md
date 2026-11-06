@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Determination of applications and entry on the register[^key-2948be2412417af7e41cef455b6c1729]
+## 12. Determination of applications and entry on the register[^c-2948be2412417af7e41cef455b6c1729]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2948be2412417af7e41cef455b6c1729]: Commencement: Reg. 12 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-2948be2412417af7e41cef455b6c1729]: Commencement: Reg. 12 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Power to override easements and other rights[^key-4fa858e4e56aaaab9929676b05908095]
+## 66. Power to override easements and other rights[^c-4fa858e4e56aaaab9929676b05908095]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-4fa858e4e56aaaab9929676b05908095]: Commencement: Art. 66 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-4fa858e4e56aaaab9929676b05908095]: Commencement: Art. 66 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00146]: Footnote: Section 10 was amended by paragraph 13(2) of Schedule 2 to the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

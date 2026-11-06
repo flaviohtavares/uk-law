@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Amount of pension for a scheme year[^key-366bbdc331fd01bbea18e534efd05f3f]
+## 34. Amount of pension for a scheme year[^c-366bbdc331fd01bbea18e534efd05f3f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-366bbdc331fd01bbea18e534efd05f3f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2015/19/regulation/34) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-366bbdc331fd01bbea18e534efd05f3f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2015/19/regulation/34) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

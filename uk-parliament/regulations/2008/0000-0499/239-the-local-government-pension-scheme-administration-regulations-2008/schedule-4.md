@@ -24,19 +24,19 @@ summary: ''
 
 Regulation 30
 
-**1.**[^key-dd7e79b66729f22f1310b15445d85fba] The appropriate fund for a member is the fund specified in column 2 of the following Table for a member of his description.
+**1.**[^c-dd7e79b66729f22f1310b15445d85fba] The appropriate fund for a member is the fund specified in column 2 of the following Table for a member of his description.
 
-**2.**[^key-7581522293b7df1e474a27704294036f] But where a member is within paragraph 5 of that Table or is employed by an institution referred to in paragraph 3 of Part 2 of the Table in Schedule 5 to the 1997 Regulations[^f00093] (educational establishments), the Secretary of State may by direction substitute another fund (“the substituted fund”).
+**2.**[^c-7581522293b7df1e474a27704294036f] But where a member is within paragraph 5 of that Table or is employed by an institution referred to in paragraph 3 of Part 2 of the Table in Schedule 5 to the 1997 Regulations[^f00093] (educational establishments), the Secretary of State may by direction substitute another fund (“the substituted fund”).
 
-**3.**[^key-76921c9e0caace90ea5fd5bcb864b522] Where a member is within paragraph 8 of the following Table and is an employee of the governing body of a voluntary, foundation or foundation special school who is deemed to be in employment with a local education authority, the Secretary of State may by direction substitute the fund maintained by the London Pensions Fund Authority as his appropriate fund.
+**3.**[^c-76921c9e0caace90ea5fd5bcb864b522] Where a member is within paragraph 8 of the following Table and is an employee of the governing body of a voluntary, foundation or foundation special school who is deemed to be in employment with a local education authority, the Secretary of State may by direction substitute the fund maintained by the London Pensions Fund Authority as his appropriate fund.
 
-**4.**[^key-cde95a20eaf1fb36f6f99b772390147b] Before giving a direction under paragraph 2 or 3, the Secretary of State must consult with any bodies appearing to her to be affected by the proposed direction.
+**4.**[^c-cde95a20eaf1fb36f6f99b772390147b] Before giving a direction under paragraph 2 or 3, the Secretary of State must consult with any bodies appearing to her to be affected by the proposed direction.
 
-**5.**[^key-74886cea8aa8d1e0eab833e8aad030f6] The direction may require the making of financial adjustments between the funds, whether by way of a payment to the substituted fund or of a transfer of assets or both.
+**5.**[^c-74886cea8aa8d1e0eab833e8aad030f6] The direction may require the making of financial adjustments between the funds, whether by way of a payment to the substituted fund or of a transfer of assets or both.
 
-**6.**[^key-c35a51a7ce19a352e8aa4c09b209eac4] It may also contain provision as to the transfer of liabilities to the substituted fund and any other consequential and incidental matters.
+**6.**[^c-c35a51a7ce19a352e8aa4c09b209eac4] It may also contain provision as to the transfer of liabilities to the substituted fund and any other consequential and incidental matters.
 
-**7.**[^key-d5e4bfc11101156a271b86f96185973f] Where an administering authority has established an admission agreement fund under regulation 32—
+**7.**[^c-d5e4bfc11101156a271b86f96185973f] Where an administering authority has established an admission agreement fund under regulation 32—
 
 - (a) references in this Schedule and in regulation 30 to the fund are to the fund maintained by that authority under regulation 29, and
 - (b) in relation to a member employed by a body specified in the notice required by regulation 32(3), the appropriate fund is the admission agreement fund.
@@ -70,21 +70,21 @@ Regulation 30
 
 ## Annotations
 
-[^key-dd7e79b66729f22f1310b15445d85fba]: Commencement: Sch. 4 para. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-dd7e79b66729f22f1310b15445d85fba]: Commencement: Sch. 4 para. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
-[^key-7581522293b7df1e474a27704294036f]: Commencement: Sch. 4 para. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-7581522293b7df1e474a27704294036f]: Commencement: Sch. 4 para. 2 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00093]: Footnote: Paragraph 3 of Part 2 of the Table in Schedule 5 to the 1997 Regulations was amended by [S.I. 2000/1164](https://www.legislation.gov.uk/uksi/2000/1164).
 
-[^key-76921c9e0caace90ea5fd5bcb864b522]: Commencement: Sch. 4 para. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-76921c9e0caace90ea5fd5bcb864b522]: Commencement: Sch. 4 para. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
-[^key-cde95a20eaf1fb36f6f99b772390147b]: Commencement: Sch. 4 para. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-cde95a20eaf1fb36f6f99b772390147b]: Commencement: Sch. 4 para. 4 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
-[^key-74886cea8aa8d1e0eab833e8aad030f6]: Commencement: Sch. 4 para. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-74886cea8aa8d1e0eab833e8aad030f6]: Commencement: Sch. 4 para. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
-[^key-c35a51a7ce19a352e8aa4c09b209eac4]: Commencement: Sch. 4 para. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-c35a51a7ce19a352e8aa4c09b209eac4]: Commencement: Sch. 4 para. 6 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
-[^key-d5e4bfc11101156a271b86f96185973f]: Commencement: Sch. 4 para. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-d5e4bfc11101156a271b86f96185973f]: Commencement: Sch. 4 para. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f01000]: Footnote: (1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Commissioning primary care services etc[^key-c551425f35fd9ec3921181de7caf065c][^key-09c8a614354fe5f0b1b431712cd22e6a]
+## 22. Commissioning primary care services etc[^c-c551425f35fd9ec3921181de7caf065c][^c-09c8a614354fe5f0b1b431712cd22e6a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 3 confers functions on integrated care boards in relation to primary ca
 
 ## Annotations
 
-[^key-c551425f35fd9ec3921181de7caf065c]: Commencement: S. 22 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-c551425f35fd9ec3921181de7caf065c]: Commencement: S. 22 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-09c8a614354fe5f0b1b431712cd22e6a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/31/section/22) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-09c8a614354fe5f0b1b431712cd22e6a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/31/section/22) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

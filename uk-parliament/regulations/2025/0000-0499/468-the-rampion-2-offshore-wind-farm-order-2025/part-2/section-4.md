@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Power to maintain the authorised project[^key-5cf107dab6b193d6495b64a240f796c8]
+## 4. Power to maintain the authorised project[^c-5cf107dab6b193d6495b64a240f796c8]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cf107dab6b193d6495b64a240f796c8]: Commencement: Art. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-5cf107dab6b193d6495b64a240f796c8]: Commencement: Art. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Information if election made[^key-6d6379f685fcc38593c0d6b1c401f2fc]
+## 128. Information if election made[^c-6d6379f685fcc38593c0d6b1c401f2fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d6379f685fcc38593c0d6b1c401f2fc]: Textual amendment: S. 128 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/43)
+[^c-6d6379f685fcc38593c0d6b1c401f2fc]: Textual amendment: S. 128 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/43)

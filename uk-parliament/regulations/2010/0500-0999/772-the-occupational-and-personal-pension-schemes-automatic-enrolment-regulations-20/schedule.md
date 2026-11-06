@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 1 — Information for workers[^key-fecc16aac358c0ad3f9fcd7005fe15de]
+## Schedule 1 — Information for workers[^c-fecc16aac358c0ad3f9fcd7005fe15de]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ If you have another job your other employer might also put you into pension savi
 
 ## Annotations
 
-[^key-fecc16aac358c0ad3f9fcd7005fe15de]: Textual amendment: Sch. 1 substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(12)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/12)
+[^c-fecc16aac358c0ad3f9fcd7005fe15de]: Textual amendment: Sch. 1 substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(12)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/12)

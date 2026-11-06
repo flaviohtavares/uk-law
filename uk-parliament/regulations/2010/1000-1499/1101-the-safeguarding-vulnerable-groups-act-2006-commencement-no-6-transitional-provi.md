@@ -43,11 +43,11 @@ In accordance with section 56(3)(p) of that Act the Secretary of State has consu
 
 ## PART 1 — Introduction
 
-### 1. Citation[^key-957d521cbb93a68f3f0a5aa7fd373aa9][^key-957d521cbb93a68f3f0a5aa7fd373aa9]
+### 1. Citation[^c-957d521cbb93a68f3f0a5aa7fd373aa9][^c-957d521cbb93a68f3f0a5aa7fd373aa9]
 
 This Order may be cited as the Safeguarding Vulnerable Groups Act 2006 (Commencement No. 6, Transitional Provisions and Savings (Amendment)) and (Commencement No. 7) Order 2010.
 
-### 2. Commencement and interpretation[^key-1298ee3487b1160b5e5e3f6a3a0bc8a4][^key-1298ee3487b1160b5e5e3f6a3a0bc8a4]
+### 2. Commencement and interpretation[^c-1298ee3487b1160b5e5e3f6a3a0bc8a4][^c-1298ee3487b1160b5e5e3f6a3a0bc8a4]
 
 (1) Articles 6 to 11 come into force on the day after the day on which this Order is made.
 
@@ -58,22 +58,22 @@ This Order may be cited as the Safeguarding Vulnerable Groups Act 2006 (Commence
 - “CJCSA” means the Criminal Justice and Court Services Act 2000[^f00003];
 - “disqualification order” means an order made under section 28, 29 or 29A of CJCSA[^f00004];
 - “disqualified from working with children” means disqualified from working with children for the purposes of Part II of CJCSA;
-- “DBS[^key-944ee8613254c6af0217fde9cc11a6fe]” means the Disclosure and Barring Service;
+- “DBS[^c-944ee8613254c6af0217fde9cc11a6fe]” means the Disclosure and Barring Service;
 - “a regulated position” is one falling within section 36 of CJCSA.
 
 ## PART 2 — Commencement
 
-### 3. Provisions of the Safeguarding Vulnerable Groups Act 2006 coming into force on the day after the day on which this Order is made[^key-46eda20052d8d25ddbb327b0c742c15d][^key-46eda20052d8d25ddbb327b0c742c15d]
+### 3. Provisions of the Safeguarding Vulnerable Groups Act 2006 coming into force on the day after the day on which this Order is made[^c-46eda20052d8d25ddbb327b0c742c15d][^c-46eda20052d8d25ddbb327b0c742c15d]
 
 In so far as they are not already in force, the day after the day on which this Order is made is the day appointed for the coming into force of sections 21, 22 and 23(3) of the Act (controlled activity and responsible persons).
 
-### 4. Partial commencement of section 50 of the Safeguarding Vulnerable Groups Act 2006[^key-88a943fb68a2ec798266b5754c8337f8][^key-88a943fb68a2ec798266b5754c8337f8]
+### 4. Partial commencement of section 50 of the Safeguarding Vulnerable Groups Act 2006[^c-88a943fb68a2ec798266b5754c8337f8][^c-88a943fb68a2ec798266b5754c8337f8]
 
 (1) The day on which article 2 of the Safeguarding Vulnerable Groups Act 2006 (Supervisory Authorities and Devolution Alignment) Order 2010[^f00006] comes into force is the day appointed for the coming into force of section 50 of the Act (provision of information to supervisory authorities) for the purpose specified in paragraph (2).
 
 (2) The purpose is the provision of information to the Secretary of State in the exercise of the Secretary of State’s functions under Chapter 1 of Part 10 of the Education Act 2002[^f00007].
 
-### 5. Further repeal of provisions of the Criminal Justice and Court Services Act 2000[^key-a65f8a0978e9db9e21cd236fa7599c74][^key-a65f8a0978e9db9e21cd236fa7599c74]
+### 5. Further repeal of provisions of the Criminal Justice and Court Services Act 2000[^c-a65f8a0978e9db9e21cd236fa7599c74][^c-a65f8a0978e9db9e21cd236fa7599c74]
 
 (1) The repeal of the remaining provisions of CJCSA by section 63(2) of, and Schedule 10 to, the Act shall come into force on the day after the day on which this Order is made for the purposes specified in paragraph (2).
 
@@ -88,7 +88,7 @@ a person falling within paragraph (3).
 (3) A person (“P”) falls within this paragraph if P is disqualified from working with children only by reason of a disqualification order falling within paragraph (4) and P—
 
 - (a) is or has at any time been barred from regulated activity relating to children by virtue of section 3(2) of the Act, or
-- (b) has been included in the children’s barred list pursuant to article 2(2)(a) of the Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008[^f00008], but is removed from that list by the DBS[^key-00979ccd03701bef3964784128596ca9] in accordance with article 2(4) of that Order.
+- (b) has been included in the children’s barred list pursuant to article 2(2)(a) of the Safeguarding Vulnerable Groups Act 2006 (Transitional Provisions) Order 2008[^f00008], but is removed from that list by the DBS[^c-00979ccd03701bef3964784128596ca9] in accordance with article 2(4) of that Order.
 
 (4) A disqualification order falls within this paragraph if—
 
@@ -99,9 +99,9 @@ a person falling within paragraph (3).
 
 ## PART 3 — Amendment of the Safeguarding Vulnerable Groups Act 2006 (Commencement No. 6, Transitional Provisions and Savings) Order 2009
 
-**6.**[^key-9838f8a308f132786b0316a0648b2804] The 2009 Order is amended in accordance with articles 7 to 11.
+**6.**[^c-9838f8a308f132786b0316a0648b2804] The 2009 Order is amended in accordance with articles 7 to 11.
 
-### 7. Amendment of article 1 of the 2009 Order (interpretation)[^key-f305e5ccafdedd1c36b732445756d63f]
+### 7. Amendment of article 1 of the 2009 Order (interpretation)[^c-f305e5ccafdedd1c36b732445756d63f]
 
 At the appropriate place in paragraph (2) of article 1 of the 2009 Order insert—
 
@@ -110,7 +110,7 @@ At the appropriate place in paragraph (2) of article 1 of the 2009 Order insert�
 
 .
 
-### 8. Amendment of article 5 of the 2009 Order (transitional provisions and savings: Protection of Children Act 1999)[^key-3b69907eafebc418322845b5dbf3bbdd]
+### 8. Amendment of article 5 of the 2009 Order (transitional provisions and savings: Protection of Children Act 1999)[^c-3b69907eafebc418322845b5dbf3bbdd]
 
 (1) Article 5 of the 2009 Order is amended in accordance with this article.
 
@@ -147,7 +147,7 @@ At the appropriate place in paragraph (2) of article 1 of the 2009 Order insert�
 
 .
 
-### 9. Amendment of article 6 of the 2009 Order (transitional and savings provisions: Care Standards Act 2000)[^key-9f29a91c26a8147535a9c818dc8919f2]
+### 9. Amendment of article 6 of the 2009 Order (transitional and savings provisions: Care Standards Act 2000)[^c-9f29a91c26a8147535a9c818dc8919f2]
 
 (1) Article 6 of the 2009 Order is amended in accordance with this article.
 
@@ -184,7 +184,7 @@ At the appropriate place in paragraph (2) of article 1 of the 2009 Order insert�
 
 .
 
-### 10. Amendment of article 7 of the 2009 Order (transitional and savings provisions: Education Act 2002)[^key-21414c3062268939b9c84f20dc4d5335]
+### 10. Amendment of article 7 of the 2009 Order (transitional and savings provisions: Education Act 2002)[^c-21414c3062268939b9c84f20dc4d5335]
 
 (1) Article 7 of the 2009 Order is amended in accordance with this article.
 
@@ -221,7 +221,7 @@ At the appropriate place in paragraph (2) of article 1 of the 2009 Order insert�
 
 .
 
-### 11. Minor amendments of the 2009 Order (article 3 and the Schedule to that Order)[^key-53fcaab0e3f6887a5fd812a2b77ca44b]
+### 11. Minor amendments of the 2009 Order (article 3 and the Schedule to that Order)[^c-53fcaab0e3f6887a5fd812a2b77ca44b]
 
 (1) In article 3(4)(b) of the 2009 Order, for “paragraph” substitute “article”.
 
@@ -414,9 +414,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-957d521cbb93a68f3f0a5aa7fd373aa9]: Commencement: Art. 1 in force at made date
+[^c-957d521cbb93a68f3f0a5aa7fd373aa9]: Commencement: Art. 1 in force at made date
 
-[^key-1298ee3487b1160b5e5e3f6a3a0bc8a4]: Commencement: Art. 2 in force at made date
+[^c-1298ee3487b1160b5e5e3f6a3a0bc8a4]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: [S.I. 2009/2611 (C. 115)](https://www.legislation.gov.uk/uksi/2009/2611).
 
@@ -424,32 +424,32 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00004]: Footnote: Amendments were made to sections 28 and 29 of CJCSA by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 59(5) and Schedule 11, Part 4, paragraph 35. Section 29A was inserted by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 299 and Schedule 30, paragraphs 1 and 2.
 
-[^key-944ee8613254c6af0217fde9cc11a6fe]: Textual amendment: Words in art. 2 substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(bb)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/bb) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-944ee8613254c6af0217fde9cc11a6fe]: Textual amendment: Words in art. 2 substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(bb)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/bb) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-46eda20052d8d25ddbb327b0c742c15d]: Commencement: Art. 3 in force at made date
+[^c-46eda20052d8d25ddbb327b0c742c15d]: Commencement: Art. 3 in force at made date
 
-[^key-88a943fb68a2ec798266b5754c8337f8]: Commencement: Art. 4 in force at made date
+[^c-88a943fb68a2ec798266b5754c8337f8]: Commencement: Art. 4 in force at made date
 
 [^f00006]: Footnote: [S.I. 2010/1073](https://www.legislation.gov.uk/uksi/2010/1073)..
 
 [^f00007]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-a65f8a0978e9db9e21cd236fa7599c74]: Commencement: Art. 5 in force at made date
+[^c-a65f8a0978e9db9e21cd236fa7599c74]: Commencement: Art. 5 in force at made date
 
 [^f00008]: Footnote: [S.I. 2008/473](https://www.legislation.gov.uk/uksi/2008/473) as amended by [S.I. 2009/37](https://www.legislation.gov.uk/uksi/2009/37).
 
-[^key-00979ccd03701bef3964784128596ca9]: Textual amendment: Words in art. 5 substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(bb)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/bb) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-00979ccd03701bef3964784128596ca9]: Textual amendment: Words in art. 5 substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(bb)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/bb) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-9838f8a308f132786b0316a0648b2804]: Commencement: Art. 6 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
+[^c-9838f8a308f132786b0316a0648b2804]: Commencement: Art. 6 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
 
-[^key-f305e5ccafdedd1c36b732445756d63f]: Commencement: Art. 7 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
+[^c-f305e5ccafdedd1c36b732445756d63f]: Commencement: Art. 7 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
 
 [^f00009]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-3b69907eafebc418322845b5dbf3bbdd]: Commencement: Art. 8 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
+[^c-3b69907eafebc418322845b5dbf3bbdd]: Commencement: Art. 8 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
 
-[^key-9f29a91c26a8147535a9c818dc8919f2]: Commencement: Art. 9 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
+[^c-9f29a91c26a8147535a9c818dc8919f2]: Commencement: Art. 9 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
 
-[^key-21414c3062268939b9c84f20dc4d5335]: Commencement: Art. 10 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
+[^c-21414c3062268939b9c84f20dc4d5335]: Commencement: Art. 10 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
 
-[^key-53fcaab0e3f6887a5fd812a2b77ca44b]: Commencement: Art. 11 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)
+[^c-53fcaab0e3f6887a5fd812a2b77ca44b]: Commencement: Art. 11 in force at 30.3.2010, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1101/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Voting at meetings of creditors and clients[^key-d769a7247838c6f12805317102e93afd]
+## 93. Voting at meetings of creditors and clients[^c-d769a7247838c6f12805317102e93afd]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d769a7247838c6f12805317102e93afd]: Commencement: [Rule 93](https://www.legislation.gov.uk/uksi/2011/1301/rule/93) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d769a7247838c6f12805317102e93afd]: Commencement: [Rule 93](https://www.legislation.gov.uk/uksi/2011/1301/rule/93) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

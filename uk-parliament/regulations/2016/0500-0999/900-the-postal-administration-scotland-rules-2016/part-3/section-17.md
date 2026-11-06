@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Limited disclosure of paragraph 49 of Schedule B1 to the 1986 Act statement[^key-c6e0199fcda344cc2f052eca212ac12c]
+## 17. Limited disclosure of paragraph 49 of Schedule B1 to the 1986 Act statement[^c-c6e0199fcda344cc2f052eca212ac12c]
 
 *Extent: S*
 
-(1) Where the postal administrator thinks that it would prejudice the conduct of the postal administration or might reasonably be expected to lead to violence against any person for any of the matters specified in Rule 16(1)(h) and (i)[^key-f15d325c482fc6a4efb37f391e08485c] to be disclosed, the postal administrator may apply to the court for an order of limited disclosure in respect of any specified part of the statement under paragraph 49 of Schedule B1 to the 1986 Act containing such matter.
+(1) Where the postal administrator thinks that it would prejudice the conduct of the postal administration or might reasonably be expected to lead to violence against any person for any of the matters specified in Rule 16(1)(h) and (i)[^c-f15d325c482fc6a4efb37f391e08485c] to be disclosed, the postal administrator may apply to the court for an order of limited disclosure in respect of any specified part of the statement under paragraph 49 of Schedule B1 to the 1986 Act containing such matter.
 
 (2) The court may, on such application, order that some or all of the specified part of the statement must not be sent to the registrar of companies or to creditors or members of the company as otherwise required by paragraph 49(4) of Schedule B1 to the 1986 Act.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6e0199fcda344cc2f052eca212ac12c]: Commencement: Rule 17 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c6e0199fcda344cc2f052eca212ac12c]: Commencement: Rule 17 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-f15d325c482fc6a4efb37f391e08485c]: Textual amendment: Words in [rule 17(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/17/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-f15d325c482fc6a4efb37f391e08485c]: Textual amendment: Words in [rule 17(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/17/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

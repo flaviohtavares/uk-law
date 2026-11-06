@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Stamp duty: demutualisation of insurance companies[^key-1e2dbbca0ce83117f145bf3ec16bff0f]
+## 100. Stamp duty: demutualisation of insurance companies[^c-1e2dbbca0ce83117f145bf3ec16bff0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e2dbbca0ce83117f145bf3ec16bff0f]: Commencement: Art. 100 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-1e2dbbca0ce83117f145bf3ec16bff0f]: Commencement: Art. 100 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00104]: Footnote: O.J. No. L228, 11.08.1992, pp. 1-23.

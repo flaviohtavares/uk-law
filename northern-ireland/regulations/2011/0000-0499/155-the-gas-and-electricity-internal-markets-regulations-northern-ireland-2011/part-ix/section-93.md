@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Existing members of the Authority[^key-b36265710a771f72e01fd512db07283a]
+## 93. Existing members of the Authority[^c-b36265710a771f72e01fd512db07283a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of sub-paragraph (3) of paragraph (3) of Schedule 1 to the Ener
 
 ## Annotations
 
-[^key-b36265710a771f72e01fd512db07283a]: Commencement: Reg. 93 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-b36265710a771f72e01fd512db07283a]: Commencement: Reg. 93 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

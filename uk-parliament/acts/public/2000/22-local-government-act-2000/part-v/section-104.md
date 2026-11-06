@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Prohibition on promoting homosexuality: bullying.[^key-703c6812d11457d65e22be8930d04db6]
+## 104. Prohibition on promoting homosexuality: bullying.[^c-703c6812d11457d65e22be8930d04db6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-703c6812d11457d65e22be8930d04db6]: Textual amendment: S. 104 repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(2)(f)(ix)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/f/ix), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)
+[^c-703c6812d11457d65e22be8930d04db6]: Textual amendment: S. 104 repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(2)(f)(ix)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/f/ix), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1)

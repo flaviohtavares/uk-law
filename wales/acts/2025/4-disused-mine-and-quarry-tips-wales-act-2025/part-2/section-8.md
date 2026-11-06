@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Content of the register[^key-2997c397e958a19cdadb30ba10448e8c]
+## 8. Content of the register[^c-2997c397e958a19cdadb30ba10448e8c]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2997c397e958a19cdadb30ba10448e8c]: Commencement: S. 8 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-2997c397e958a19cdadb30ba10448e8c]: Commencement: S. 8 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

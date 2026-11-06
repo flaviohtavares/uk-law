@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Application of other law[^M_I_a987be47-0606-4f96-84ef-45f9e095ef9f][^key-0db4c4fe204236154d15fa56e7ef10b5]
+## 156. Application of other law[^M_I_a987be47-0606-4f96-84ef-45f9e095ef9f][^c-0db4c4fe204236154d15fa56e7ef10b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^M_I_a987be47-0606-4f96-84ef-45f9e095ef9f]: Commencement: S. 156 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 3
 
-[^key-0db4c4fe204236154d15fa56e7ef10b5]: Commencement: S. 156 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-0db4c4fe204236154d15fa56e7ef10b5]: Commencement: S. 156 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**303.**[^key-4eb5e99b829c8d3f8f59cd1beb70601f] In section 95(4) (promotion and maintenance of contact between child and family) for “from another local authority (“the transferring authority”) under section 76” substitute “from a local authority or a local authority in England under section 76 (“the transferring authority”)”.
+**303.**[^c-4eb5e99b829c8d3f8f59cd1beb70601f] In section 95(4) (promotion and maintenance of contact between child and family) for “from another local authority (“the transferring authority”) under section 76” substitute “from a local authority or a local authority in England under section 76 (“the transferring authority”)”.
 
 ## Annotations
 
-[^key-4eb5e99b829c8d3f8f59cd1beb70601f]: Commencement: Reg. 303 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-4eb5e99b829c8d3f8f59cd1beb70601f]: Commencement: Reg. 303 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

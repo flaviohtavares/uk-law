@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Adjournment in absence of chair[^key-97aa0dbc0c4ed6258c70e6c9ca6c9305]
+## 47. Adjournment in absence of chair[^c-97aa0dbc0c4ed6258c70e6c9ca6c9305]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97aa0dbc0c4ed6258c70e6c9ca6c9305]: Commencement: [Rule 47](https://www.legislation.gov.uk/nisr/2026/11/rule/47) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-97aa0dbc0c4ed6258c70e6c9ca6c9305]: Commencement: [Rule 47](https://www.legislation.gov.uk/nisr/2026/11/rule/47) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Effect of plant or machinery subsequently being primarily for use outside Northern Ireland[^key-741e826d13dff689163cc5819c0dcd16][^key-661b09f8253ca07c6d062cb971343de3]
+## 43. Effect of plant or machinery subsequently being primarily for use outside Northern Ireland[^c-741e826d13dff689163cc5819c0dcd16][^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-741e826d13dff689163cc5819c0dcd16]: Textual amendment: Ss. 40-43 omitted (with application in accordance with s. 76(7) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/2) (with [s. 76(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
+[^c-741e826d13dff689163cc5819c0dcd16]: Textual amendment: Ss. 40-43 omitted (with application in accordance with s. 76(7) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 76(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/2) (with [s. 76(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/76/8))
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)

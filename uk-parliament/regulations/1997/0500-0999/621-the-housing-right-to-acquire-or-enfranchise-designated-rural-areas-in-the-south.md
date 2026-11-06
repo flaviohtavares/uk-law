@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for the Environment, as respects England, in exercise of the powers conferred upon him by section 17 of the Housing Act 1996[^f00001] and section 1AA(3)(a) of the Leasehold Reform Act 1967[^f00002] and of all other powers enabling him in that behalf, hereby makes the following Order—
 
-## 1. Citation and commencement[^key-9c38507f5759acfff87bed0bd5faf87e]
+## 1. Citation and commencement[^c-9c38507f5759acfff87bed0bd5faf87e]
 
 This Order may be cited as the Housing (Right to Acquire or Enfranchise) (Designated Rural Areas in the South West) Order 1997 and shall come into force on 1st April 1997.
 
-## 2. Designated rural areas[^key-6832ea892b0cf05b922555987ec595b6]
+## 2. Designated rural areas[^c-6832ea892b0cf05b922555987ec595b6]
 
 The following areas shall be designated rural areas for the purposes of section 17 of the Housing Act 1996 (the right to acquire) and section 1AA(3)(a) of the Leasehold Reform Act 1967 (additional right to enfranchise)—
 
@@ -67,7 +67,7 @@ Department of the Environment
 
 Article 2(a)
 
-### PART I — BATH AND NORTH EAST SOMERSET[^key-3bbc32d43dfd5245a9657278b09973f7]
+### PART I — BATH AND NORTH EAST SOMERSET[^c-3bbc32d43dfd5245a9657278b09973f7]
 
 - Bathampton, Batheaston, Bathford,
 - Cameley, Camerton, Charlcombe, Chelwood, Chew Magna, Chew Stoke, Claverton, Clutton, Combe Hay, Compton Dando, Compton Martin, Corston,
@@ -84,7 +84,7 @@ Article 2(a)
 - Ubley,
 - Wellow, West Harptree, Whitchurch.
 
-### PART II — NORTH SOMERSET[^key-b455e750fd7eb9a66265f91ad2ed0f88]
+### PART II — NORTH SOMERSET[^c-b455e750fd7eb9a66265f91ad2ed0f88]
 
 - Abbotts Leigh,
 - Banwell, Barrow Gurney, Blagdon, Bleadon, Brockley, Burrington, Butcombe,
@@ -98,7 +98,7 @@ Article 2(a)
 - Tickenham,
 - Walton-in-Gordano, Weston-in-Gordano, Wick St Lawrence, Winford, Wraxhall, Wrington.
 
-### PART III — SOUTH GLOUCESTERSHIRE[^key-7852817c96ce7df4c8b5acdfd3dd5acc]
+### PART III — SOUTH GLOUCESTERSHIRE[^c-7852817c96ce7df4c8b5acdfd3dd5acc]
 
 - Acton Turville, Alveston, Aust,
 - Badminton,
@@ -115,7 +115,7 @@ Article 2(a)
 - Tormarton, Tortworth, Tytherington,
 - Wick and Abson, Wickwar.
 
-### PART IV — CORNWALL AND THE ISLES OF SCILLY[^key-64662b615e2dfd4c52f4b2440a07d89f]
+### PART IV — CORNWALL AND THE ISLES OF SCILLY[^c-64662b615e2dfd4c52f4b2440a07d89f]
 
 - Advent, Altarnun, Antony,
 - Blisland, Boconnoc, Botusfleming, Boyton, Breage, Broadoak, Budock,
@@ -141,7 +141,7 @@ Article 2(a)
 - Zennor,
 - The Isles of Scilly.
 
-### PART V — DEVON[^key-6c485a5f7db1838d040e92a50dcb7476]
+### PART V — DEVON[^c-6c485a5f7db1838d040e92a50dcb7476]
 
 - Abbots Bickington, Abbotsham, Abbotskerswell, All Saints, Alverdiscott, Alwington, Arlington, Ashcombe, Ashford, Ashprington, Ashreigney, Ashton, Ashwater, Atherington, Aveton Gifford, Awliscombe, Axmouth, Aylesbeare,
 - Bampton, Beaford, Beaworthy, Belstone, Beer, Bere Ferrers, Berrynarbor, Bickington, Bickleigh (in the district of South Hams), Bickleigh (in the district of Mid Devon), Bicton, Bigbury, Bishops Nympton, Bishops Tawton, Bishopsteignton, Bittadon, Black Torrington, Blackawton, Bondleigh, Bow, Bradford, Bradninch, Bradstone, Bradworthy, Brampford Speke, Branscombe, Bratton Clovelly, Bratton Fleming, Brayford, Brendon, Brentor, Bridestow, Bridford, Bridgerule, Brixton, Broad Clyst, Broadhembury, Broadhemp0ston, Broadwoodkelly, Broadwoodwidger, Brushford, Buckerell, Buckfastleigh, Buckland Brewer, Buckland Filleigh, Buckland in the Moor, Buckland Tout Saints, Bulkworthy, Burlescombe, Burrington, Butterleigh,
@@ -169,7 +169,7 @@ Article 2(a)
 - Yarcombe, Yarnscombe, Yealmpton,
 - Zeal Monachorum.
 
-### PART VI — DORSET[^key-1f5f800d6b27df25f1fbf6bae2e1fb1c]
+### PART VI — DORSET[^c-1f5f800d6b27df25f1fbf6bae2e1fb1c]
 
 - Abbotsbury, Affpuddle, Alderholt, Allington, Alton Pancras, Anderson, Arne, Ashmore, Askerswell, Athelhampton,
 - Batcombe, Beaminster, Beer Hackett, Bere Regis, Bettiscombe, Bincombe, Bishop’s Caundle, Blandford St Mary, Bloxworth, Bothenhampton, Bourton, Bradford Abbas, Bradford Peverell, Broadmayne, Broadwindsor, Bryanston, Buckhorn Weston, Buckland Newton, Burleston, Burstock, Burton Bradstock, Burton,
@@ -193,7 +193,7 @@ Article 2(a)
 - Wareham St Martin, Warmwell, West Chelborough, West Compton, West Knighton, West Lulworth, West Orchard, West Stafford, West Stour, Whitcombe, Whitchurch Canonicorum, Wimborne St Giles, Winfrith Newburgh, Winterborne Came, Winterborne Clenston, Winterborne Herringston, Winterborne Houghton, Winterborne Kingston, Winterborne Monkton, Winter borne St Martin, Winterborne Stickland, Winterborne Whitechurch, Winterborne Zelston, Winterbourne Abbas, Winterbourne Steepleton, Witchampton, Woodlands, Woodsford, Wool, Wolland, Wootton Fitzpaine, Worth Matravers, Wraxall, Wynford Eagle,
 - Yetminster.
 
-### PART VII — GLOUCESTERSHIRE[^key-ff808dd8478a0fa82efa170e2f1ed26b]
+### PART VII — GLOUCESTERSHIRE[^c-ff808dd8478a0fa82efa170e2f1ed26b]
 
 - Adlestrop, Alderley, Alderton, Aldsworth, Alkington, Alvington, Ampney Crucis, Ampney St Mary, Ampney St Peter, Andoversford, Arlingham, Ashleworth, Ashley, Aston Subedge, Avening, Awre, Ayleburton,
 - Badgeworth, Bagendon, Barnsley, Barrington, Batsford, Baunton, Berkeley, Beverstone, Bibury, Bisley with Lypiatt, Blaisdon, Bledington, Blockley, Boddington, Bourton on the Hill, Bourton on the Water, Boxwell with Leighterton, Brimpsfield, Broadwell, Bromsberrow, Brookthorpe with Whaddon, Buckland,
@@ -218,7 +218,7 @@ Article 2(a)
 - Walton Cardiff, Westbury on Severn, Westcote, Weston Subedge, Westonbirt with Lasborough, Whiteshill and Ruscombe, Whitminster, Whittington, Wick Rissington, Willersey, Windrush, Winson, Winstone, Withington, Woodchester, Woodmancote, Woolaston,
 - Yanworth.
 
-### PART VIII — SOMERSET[^key-c49ba9250365044ae8b74f07fae5a01d]
+### PART VIII — SOMERSET[^c-c49ba9250365044ae8b74f07fae5a01d]
 
 - Abbas and Templecombe, Alford, Aller, Ansford, Ash, Ash Priors, Ashbrittle, Ashcott, Ashill, Ashwick, Axbridge,
 - Babcary, Badgworth, Baltonsborough, Barrington, Barton St David, Barwick, Batcombe, Bathealton, Bawdrip, Beckington, Beercrocombe, Berkley, Berrow, Bickenhall, Bicknoller, Binegar, Bishops Lydeard, Bradford on Tone, Bratton Seymour, Brean, Brent Knoll, Brewham, Bridgewater Without, Broadway, Brompton Ralph, Brompton Regis, Broomfield, Brushford, Bruton, Buckland Dinham, Buckland St Mary, Burnham Without, Burrowbridge, Burtle, Butleigh,
@@ -243,7 +243,7 @@ Article 2(a)
 - Walton, Wambrook, Wanstrow, Wayford, Weare, Wedmore, Wellington Without, Wembdon, West Bagborough, West Bradley, West Buckland, West Camel, West Chinnock, West Coker, West Crewkerne, West Hatch, West Huntspill, West Monkton, West Pennard, West Quantoxhead, Westbury, Westonzoyland, Whatley, Whitelackington, Whitestaunton, Williton, Winsford, Winsham, Witham Friary, Withycombe, Withypool, Wiveliscombe, Wookey, Woolavington, Wootton Courtenay,
 - Yarlington, Yeovilton.
 
-### PART IX — WILTSHIRE[^key-7e72bdae2160840685de57fa6a899f7c]
+### PART IX — WILTSHIRE[^c-7e72bdae2160840685de57fa6a899f7c]
 
 - Aldbourne, Alderbury, Allcannings, Allington, Alton, Alvediston, Ansty, Ashton Keynes, Atworth, Avebury,
 - Barford St Martin, Baydon, Beechingstoke, Berwick Bassett, Berwick St James, Berwick St John, Berwick St Leonard, Biddestone, Bishopstone (in the district of Thamesdown), Bishopstone (in the district of Salisbury), Bishopstrow, Blunsdon St Andrew, Bower Chalke, Box, Boyton, Bratton, Braydon, Bremhill, Brinkworth, Britford, Brixton Deverill, Broad Chalke, Broad Hinton, Broad Town, Brokenborough, Bromham, Broughton Gifford, Bulkington, Burbage, Burcombe Without, Buttermere,
@@ -273,7 +273,7 @@ Article 2(a)
 
 Article 2(b)
 
-### PART I — BATH AND NORTH EAST SOMERSET[^key-73bc55a9f97ee1d34e06ab845249aff2]
+### PART I — BATH AND NORTH EAST SOMERSET[^c-73bc55a9f97ee1d34e06ab845249aff2]
 
 The parishes of—
 
@@ -281,7 +281,7 @@ The parishes of—
 - Peasedown St John.
 - The unparished area of the borough constituency of Bath[^f00003].
 
-### PART II — NORTH SOMERSET[^key-a8e9451d42a27c5dcca4a4f90c910958]
+### PART II — NORTH SOMERSET[^c-a8e9451d42a27c5dcca4a4f90c910958]
 
 The parishes of—
 
@@ -292,7 +292,7 @@ The parishes of—
 - Winscombe,
 - Yatton.
 
-### PART III — SOUTH GLOUCESTERSHIRE[^key-76a8ef2c6e2f9e29060434ef28178ff0]
+### PART III — SOUTH GLOUCESTERSHIRE[^c-76a8ef2c6e2f9e29060434ef28178ff0]
 
 The parishes of—
 
@@ -303,7 +303,7 @@ The parishes of—
 - Thornbury,
 - Westerleigh, Winterbourne.
 
-### PART IV — CORNWALL AND THE ISLES OF SCILLY[^key-decfdaa3e2bead116006d288ea3a695e]
+### PART IV — CORNWALL AND THE ISLES OF SCILLY[^c-decfdaa3e2bead116006d288ea3a695e]
 
 The parishes of—
 
@@ -322,12 +322,12 @@ The parishes of—
 
 The unparished area[^f00004] bounded by the parishes of Treverbyn, St Blaise, Mevagissey, St Ewe and St Mewan.
 
-### PART V — DEVON[^key-ea37d6f0fe10f74b2ff1e3e578eba226]
+### PART V — DEVON[^c-ea37d6f0fe10f74b2ff1e3e578eba226]
 
 The parishes of—
 
 - Ashburton, Axminster,
-- Berry Pomeroy, Bideford, Bovey Tracey, Braunton, Broad Clyst, [^key-ce4fbdf624ea3a771badac7565842356]... Budleigh Salterton,
+- Berry Pomeroy, Bideford, Bovey Tracey, Braunton, Broad Clyst, [^c-ce4fbdf624ea3a771badac7565842356]... Budleigh Salterton,
 - Chudleigh, Cullompton,
 - Dartmouth, Dawlish,
 - Fremington,
@@ -341,7 +341,7 @@ The parishes of—
 - The unparished area[^f00005] bounded by the parishes of Lympstone, East Budleigh, Budleigh Salterton, Dawlish and Starcross.
 - The unparished area[^f00006] bounded by the parishes of Stokeinteignhead, Shaldon, Kingswear, Dittisham, Stoke Gabriel, Berry Pomeroy, Marldon, Kingskerswell and Coffinswell.
 
-### PART VI — DORSET[^key-df78cb4c1e16e15e0b06d5d4da3eb7ec]
+### PART VI — DORSET[^c-df78cb4c1e16e15e0b06d5d4da3eb7ec]
 
 The parishes of—
 
@@ -353,7 +353,7 @@ The parishes of—
 - St Leonards and St Ives,
 - Verwood.
 
-### PART VII — GLOUCESTERSHIRE[^key-c8e53b7fc38fb56d727ef3905e9a3ed0]
+### PART VII — GLOUCESTERSHIRE[^c-c8e53b7fc38fb56d727ef3905e9a3ed0]
 
 The parishes of—
 
@@ -367,7 +367,7 @@ The parishes of—
 - Tetbury Upton,
 - West Dean, Winchcombe, Wotton under Edge.
 
-### PART VIII — SOMERSET[^key-ca916d87567439a672fc512726548b23]
+### PART VIII — SOMERSET[^c-ca916d87567439a672fc512726548b23]
 
 The parishes of—
 
@@ -382,7 +382,7 @@ The parishes of—
 - Wellington, Wincanton,
 - Yeovil Without.
 
-### PART IX — WILTSHIRE[^key-d732fab0b5b28191ec513f7ccd09dcf0]
+### PART IX — WILTSHIRE[^c-d732fab0b5b28191ec513f7ccd09dcf0]
 
 The parishes of—
 
@@ -410,52 +410,52 @@ Those parishes in Schedule 1 are exempt in their entirety from the right to acqu
 
 [^f00002]: Footnote: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88); section 1AA was inserted by paragraph 1 of Schedule 9 to the Housing Act 1996.
 
-[^key-9c38507f5759acfff87bed0bd5faf87e]: Commencement: Art. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-9c38507f5759acfff87bed0bd5faf87e]: Commencement: Art. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-6832ea892b0cf05b922555987ec595b6]: Commencement: Art. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-6832ea892b0cf05b922555987ec595b6]: Commencement: Art. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-3bbc32d43dfd5245a9657278b09973f7]: Commencement: Sch. 1 Pt. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-3bbc32d43dfd5245a9657278b09973f7]: Commencement: Sch. 1 Pt. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-b455e750fd7eb9a66265f91ad2ed0f88]: Commencement: Sch. 1 Pt. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-b455e750fd7eb9a66265f91ad2ed0f88]: Commencement: Sch. 1 Pt. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-7852817c96ce7df4c8b5acdfd3dd5acc]: Commencement: Sch. 1 Pt. 3 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-7852817c96ce7df4c8b5acdfd3dd5acc]: Commencement: Sch. 1 Pt. 3 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-64662b615e2dfd4c52f4b2440a07d89f]: Commencement: Sch. 1 Pt. 4 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-64662b615e2dfd4c52f4b2440a07d89f]: Commencement: Sch. 1 Pt. 4 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-6c485a5f7db1838d040e92a50dcb7476]: Commencement: Sch. 1 Pt. 5 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-6c485a5f7db1838d040e92a50dcb7476]: Commencement: Sch. 1 Pt. 5 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-1f5f800d6b27df25f1fbf6bae2e1fb1c]: Commencement: Sch. 1 Pt. 6 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-1f5f800d6b27df25f1fbf6bae2e1fb1c]: Commencement: Sch. 1 Pt. 6 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-ff808dd8478a0fa82efa170e2f1ed26b]: Commencement: Sch. 1 Pt. 7 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-ff808dd8478a0fa82efa170e2f1ed26b]: Commencement: Sch. 1 Pt. 7 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-c49ba9250365044ae8b74f07fae5a01d]: Commencement: Sch. 1 Pt. 8 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-c49ba9250365044ae8b74f07fae5a01d]: Commencement: Sch. 1 Pt. 8 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-7e72bdae2160840685de57fa6a899f7c]: Commencement: Sch. 1 Pt. 9 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-7e72bdae2160840685de57fa6a899f7c]: Commencement: Sch. 1 Pt. 9 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-73bc55a9f97ee1d34e06ab845249aff2]: Commencement: Sch. 2 Pt. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-73bc55a9f97ee1d34e06ab845249aff2]: Commencement: Sch. 2 Pt. 1 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
 [^f00003]: Footnote: Designated a borough constituency by S.I. [1983/417](https://www.legislation.gov.uk/uksi/1983/417), to which there are amendments not relevant to this Order.
 
-[^key-a8e9451d42a27c5dcca4a4f90c910958]: Commencement: Sch. 2 Pt. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-a8e9451d42a27c5dcca4a4f90c910958]: Commencement: Sch. 2 Pt. 2 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-76a8ef2c6e2f9e29060434ef28178ff0]: Commencement: Sch. 2 Pt. 3 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-76a8ef2c6e2f9e29060434ef28178ff0]: Commencement: Sch. 2 Pt. 3 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-decfdaa3e2bead116006d288ea3a695e]: Commencement: Sch. 2 Pt. 4 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-decfdaa3e2bead116006d288ea3a695e]: Commencement: Sch. 2 Pt. 4 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
 [^f00004]: Footnote: Containing the settlement of St Austell.
 
-[^key-ea37d6f0fe10f74b2ff1e3e578eba226]: Commencement: Sch. 2 Pt. 5 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-ea37d6f0fe10f74b2ff1e3e578eba226]: Commencement: Sch. 2 Pt. 5 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-ce4fbdf624ea3a771badac7565842356]: Textual amendment: Words in [Sch. 2 Pt. 5](https://www.legislation.gov.uk/uksi/1997/621/schedule/2/part/V) revoked (3.6.1999) by [The Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999 (S.I. 1999/1307)](https://www.legislation.gov.uk/uksi/1999/1307), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1307/article/1), [3(c)](https://www.legislation.gov.uk/uksi/1999/1307/article/3/c)
+[^c-ce4fbdf624ea3a771badac7565842356]: Textual amendment: Words in [Sch. 2 Pt. 5](https://www.legislation.gov.uk/uksi/1997/621/schedule/2/part/V) revoked (3.6.1999) by [The Housing (Right to Acquire or Enfranchise) (Designated Rural Areas) Order 1999 (S.I. 1999/1307)](https://www.legislation.gov.uk/uksi/1999/1307), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1307/article/1), [3(c)](https://www.legislation.gov.uk/uksi/1999/1307/article/3/c)
 
 [^f00005]: Footnote: Containing the settlement of Exmouth.
 
 [^f00006]: Footnote: Containing the settlement of Torbay.
 
-[^key-df78cb4c1e16e15e0b06d5d4da3eb7ec]: Commencement: Sch. 2 Pt. 6 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-df78cb4c1e16e15e0b06d5d4da3eb7ec]: Commencement: Sch. 2 Pt. 6 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-c8e53b7fc38fb56d727ef3905e9a3ed0]: Commencement: Sch. 2 Pt. 7 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-c8e53b7fc38fb56d727ef3905e9a3ed0]: Commencement: Sch. 2 Pt. 7 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-ca916d87567439a672fc512726548b23]: Commencement: Sch. 2 Pt. 8 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-ca916d87567439a672fc512726548b23]: Commencement: Sch. 2 Pt. 8 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
 
-[^key-d732fab0b5b28191ec513f7ccd09dcf0]: Commencement: Sch. 2 Pt. 9 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)
+[^c-d732fab0b5b28191ec513f7ccd09dcf0]: Commencement: Sch. 2 Pt. 9 in force at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/621/article/1)

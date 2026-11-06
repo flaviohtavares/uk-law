@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Offences relating to applications for postal and proxy votes[^key-36180ed39c2a497ab72e0fc939cb9808]
+## 27. Offences relating to applications for postal and proxy votes[^c-36180ed39c2a497ab72e0fc939cb9808]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36180ed39c2a497ab72e0fc939cb9808]: Commencement: Art. 27 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-36180ed39c2a497ab72e0fc939cb9808]: Commencement: Art. 27 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

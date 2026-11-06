@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91. Recovery of excess benefit from prescribed benefits[^key-e519671edcf1ceaa41d1867554049393]
+## 91. Recovery of excess benefit from prescribed benefits[^c-e519671edcf1ceaa41d1867554049393]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ he shall, if requested to do so by an appropriate authority under regulation 87 
 
 ## Annotations
 
-[^key-e519671edcf1ceaa41d1867554049393]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/1992/1814/regulation/91) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-e519671edcf1ceaa41d1867554049393]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/1992/1814/regulation/91) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00075]: Footnote: O.J. No. L149, 5.7.1971; Regulations No. 1408/71 and No. 574/72 were restated in amended form in Regulation No. 2001/83 (O.J. No. L230, 22.8.1983), and further amended by Council Regulation [(EEC) No. 1661/85](https://www.legislation.gov.uk/european/regulation/1985/1661) (O.J. No. L160, 20.6.1985) and Commission Regulation [(EEC) No. 513/86](https://www.legislation.gov.uk/european/regulation/1986/0513) (O.J. No. L57, 28.2.1986).

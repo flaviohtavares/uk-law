@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Members' approval of directors' remuneration policy[^c2181339][^key-abd35e38739569168f6ac81d962cdd34]
+## 79. Members' approval of directors' remuneration policy[^c2181339][^c-abd35e38739569168f6ac81d962cdd34]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 [^c2181339]: Commencement: S. 79 partly in force; s. 79 in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-abd35e38739569168f6ac81d962cdd34]: Commencement: S. 79 in force at 1.10.2013 in so far as not already in force by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
+[^c-abd35e38739569168f6ac81d962cdd34]: Commencement: S. 79 in force at 1.10.2013 in so far as not already in force by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)

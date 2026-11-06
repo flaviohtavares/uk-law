@@ -92,10 +92,10 @@ Section 1A(3)
 - (a) the Secretary of State;
 - (b) the Assembly;
 - (c) the Environment Agency;
-- (ca)[^key-fc6a99aac4ce42f601e969ea7bc2a053] the NRBW;
+- (ca)[^c-fc6a99aac4ce42f601e969ea7bc2a053] the NRBW;
 - (d) the Council;
 - (e) relevant undertakers;
-- (f)[^key-20fabd52de11aacc444180f24f961aef] water supply licensees;
+- (f)[^c-20fabd52de11aacc444180f24f961aef] water supply licensees;
 - (fa) sewerage licensees; and
 - (g) such other persons as the Authority considers appropriate.
 
@@ -110,7 +110,7 @@ Section 1A(3)
 
 (2) The Authority may not so authorise a committee whose members include any person who is not a member or employee of the Authority.
 
-(3)[^key-41547984febafcd4d11b540cb387365a] Sub-paragraph (1) is subject to provision in rules made under section 51 of the Competition Act 1998 by virtue of paragraph 1A of Schedule 9 to that Act in respect of the exercise of a function under Part 1 of that Act.
+(3)[^c-41547984febafcd4d11b540cb387365a] Sub-paragraph (1) is subject to provision in rules made under section 51 of the Competition Act 1998 by virtue of paragraph 1A of Schedule 9 to that Act in respect of the exercise of a function under Part 1 of that Act.
 
 ### Payments to the Authority
 
@@ -130,8 +130,8 @@ The Secretary of State shall make payments out of money provided by Parliament t
 
 [^c19884091]: Textual amendment: Sch. 1A inserted (1.4.2006 except para. 11) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/34/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2003/37/schedule/1); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/a) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/2/paragraph/8)) (which said para. 11 was repealed (1.10.2006) by 2006 (c. 16), ss. 105(1)(2), 107, Sch. 11 para. 172, {Sch. 12}; [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2))
 
-[^key-fc6a99aac4ce42f601e969ea7bc2a053]: Textual amendment: Sch. 1A para. 9(3)(ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 261](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/261) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-fc6a99aac4ce42f601e969ea7bc2a053]: Textual amendment: Sch. 1A para. 9(3)(ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 261](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/261) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-20fabd52de11aacc444180f24f961aef]: Textual amendment: Sch. 1A para. 9(3)(f)(fa) substituted for Sch. 1A para. 9(3)(f) and word (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 121](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/121); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/bb) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-20fabd52de11aacc444180f24f961aef]: Textual amendment: Sch. 1A para. 9(3)(f)(fa) substituted for Sch. 1A para. 9(3)(f) and word (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 121](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/121); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/bb) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-41547984febafcd4d11b540cb387365a]: Textual amendment: Sch. 1A para. 10(3) inserted (E.W.) (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/6); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-41547984febafcd4d11b540cb387365a]: Textual amendment: Sch. 1A para. 10(3) inserted (E.W.) (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/6); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

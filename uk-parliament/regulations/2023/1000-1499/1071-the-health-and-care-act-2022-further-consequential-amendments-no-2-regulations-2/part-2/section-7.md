@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendment of the National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^key-56b1980a1f8a4a67b8b9d792512f1069]
+## 7. Amendment of the National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^c-56b1980a1f8a4a67b8b9d792512f1069]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56b1980a1f8a4a67b8b9d792512f1069]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1071/regulation/7) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-56b1980a1f8a4a67b8b9d792512f1069]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1071/regulation/7) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00007]: Footnote: [S.S.I. 2004/114](https://www.legislation.gov.uk/ssi/2004/114), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

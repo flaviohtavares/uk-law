@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Consultation[^key-4f37d3fc674c2972797e5d8800af5e45]
+## 11. Consultation[^c-4f37d3fc674c2972797e5d8800af5e45]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f37d3fc674c2972797e5d8800af5e45]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2010/824/regulation/11) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-4f37d3fc674c2972797e5d8800af5e45]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2010/824/regulation/11) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Contents and form of instrument of government[^key-dfc4b010e52fd1dbe0e16003a2777ce1]
+## 43. Contents and form of instrument of government[^c-dfc4b010e52fd1dbe0e16003a2777ce1]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfc4b010e52fd1dbe0e16003a2777ce1]: Commencement: Reg. 43 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-dfc4b010e52fd1dbe0e16003a2777ce1]: Commencement: Reg. 43 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

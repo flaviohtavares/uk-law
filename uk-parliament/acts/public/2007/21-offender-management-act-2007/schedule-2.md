@@ -24,7 +24,7 @@ Section 11(2)
 
 ### Transfer schemes: preliminary
 
-**1.**[^key-44da380a2a9db9fdf3ce3ee137eb5ebd] (1) A property transfer scheme or a staff transfer scheme may be made for the purposes of or in connection with—
+**1.**[^c-44da380a2a9db9fdf3ce3ee137eb5ebd] (1) A property transfer scheme or a staff transfer scheme may be made for the purposes of or in connection with—
 
 - (a) the abolition of a local probation board;
 - (b) the implementation or termination of any arrangements made by the Secretary of State under section 3(2) or (5); or
@@ -42,7 +42,7 @@ Section 11(2)
 
 ### Property transfer schemes
 
-**2.**[^key-3d1595a38ffa82c8c25fcff2e1975f75] (1) The Secretary of State may make a scheme (“**the scheme**”) providing for—
+**2.**[^c-3d1595a38ffa82c8c25fcff2e1975f75] (1) The Secretary of State may make a scheme (“**the scheme**”) providing for—
 
 - (a) the transfer to the Secretary of State of—
   - (i) the property and liabilities of a local probation board; or
@@ -59,7 +59,7 @@ Section 11(2)
 
 (4) A certificate issued by the Secretary of State that any property or liability has, or has not, been transferred by virtue of the scheme is conclusive evidence of the transfer or the fact that it has not been transferred (as the case may be).
 
-**3.**[^key-1014bf4e7716e28d27e24bd551875f49] (1) This paragraph applies where a property transfer scheme is made.
+**3.**[^c-1014bf4e7716e28d27e24bd551875f49] (1) This paragraph applies where a property transfer scheme is made.
 
 (2) The scheme has effect despite any provision, of whatever nature, which would otherwise prevent, penalise or restrict the transfer of anything that is the subject of the scheme.
 
@@ -73,7 +73,7 @@ Section 11(2)
 
 (7) This paragraph applies in relation to the creation of rights or interests, or the doing of anything else, in relation to property as it applies in relation to a transfer of property (and references to the transferor and transferee are to be read accordingly).
 
-**4.**[^key-4138ffaed92ffbfe4e0a5bb50bd65df3] (1) Anything done by or in relation to the transferor for the purposes of or in connection with anything transferred by a property transfer scheme which is in effect immediately before the transfer is to be treated as if done by or in relation to the transferee.
+**4.**[^c-4138ffaed92ffbfe4e0a5bb50bd65df3] (1) Anything done by or in relation to the transferor for the purposes of or in connection with anything transferred by a property transfer scheme which is in effect immediately before the transfer is to be treated as if done by or in relation to the transferee.
 
 (2) There may be continued by or in relation to the transferee anything (including legal proceedings) relating to anything so transferred which is in the process of being done by or in relation to the transferor immediately before it is transferred.
 
@@ -83,7 +83,7 @@ Section 11(2)
 
 ### Staff transfer schemes
 
-**5.**[^key-8383be9259906df28fd91fb9bfd09c9f] (1) The Secretary of State may make a scheme (“**the scheme**”) for—
+**5.**[^c-8383be9259906df28fd91fb9bfd09c9f] (1) The Secretary of State may make a scheme (“**the scheme**”) for—
 
 - (a) the transfer of employees of a local probation board to a relevant person or so as to become employed in the civil service of the state;
 - (b) the transfer of employees of one relevant person to another relevant person or so as to become employed in the civil service of the state;
@@ -97,7 +97,7 @@ Section 11(2)
 
 (3) The scheme may not be made unless any directions about consultation given by the Secretary of State have been complied with in relation to each person to be transferred by virtue of the scheme.
 
-**6.**[^key-a87811ad1ee9f60771a9635e3fff2fb0] (1) This paragraph applies to an employee of a probation board or a relevant person who is to be transferred to a relevant person by virtue of a staff transfer scheme.
+**6.**[^c-a87811ad1ee9f60771a9635e3fff2fb0] (1) This paragraph applies to an employee of a probation board or a relevant person who is to be transferred to a relevant person by virtue of a staff transfer scheme.
 
 (2) The contract of employment is not terminated by the transfer and has effect from the date of transfer as if originally made between the employee and the transferee.
 
@@ -120,7 +120,7 @@ This sub-paragraph does not prejudice the generality of sub-paragraph (2).
 
 (6) In this paragraph “transferor” and “transferee” refer to the employer from whom or to whom the employee is or would be transferred under the scheme.
 
-**7.**[^key-6a7dc10692f7eb57dfe68ea79accb2b9] (1) This paragraph applies where an employee of a probation board or a relevant person is to become employed in the civil service of the state by virtue of a staff transfer scheme.
+**7.**[^c-6a7dc10692f7eb57dfe68ea79accb2b9] (1) This paragraph applies where an employee of a probation board or a relevant person is to become employed in the civil service of the state by virtue of a staff transfer scheme.
 
 (2) The employee's period of employment with the transferor counts as a period of employment in his Crown employment and the change of employment does not break the continuity of that employment.
 
@@ -145,7 +145,7 @@ This sub-paragraph does not prejudice the generality of sub-paragraphs (2) and (
 
 (7) In this paragraph “**transferor**” refers to the employer from whom the employee is or would be transferred under the scheme.
 
-**8.**[^key-2bed8371d48c01620dbc785cb56b55a4] (1) This paragraph applies to an individual who is to be transferred from employment in the civil service of the state so as to become an employee of a relevant person by virtue of a staff transfer scheme.
+**8.**[^c-2bed8371d48c01620dbc785cb56b55a4] (1) This paragraph applies to an individual who is to be transferred from employment in the civil service of the state so as to become an employee of a relevant person by virtue of a staff transfer scheme.
 
 (2) The individual's employment is not terminated by the transfer.
 
@@ -170,11 +170,11 @@ This sub-paragraph does not prejudice the generality of sub-paragraphs (2) and (
 
 (7) In this paragraph “**transferee**” refers to the employer to whom the person is or would be transferred under the scheme.
 
-**9.**[^key-ef28a94b6f1918c65d968b3c8d828028] (1) Nothing in this Schedule prejudices any right of an employee to terminate his contract of employment if a substantial change is made to his detriment in his working conditions.
+**9.**[^c-ef28a94b6f1918c65d968b3c8d828028] (1) Nothing in this Schedule prejudices any right of an employee to terminate his contract of employment if a substantial change is made to his detriment in his working conditions.
 
 (2) But no such right arises by reason only that (by virtue of paragraph 6, 7 or 8) the identity of his employer changes unless the employee shows that in all the circumstances the change is a significant change and is to his detriment.
 
-**10.**[^key-a83160ac65c4acab9e63681c6c3a6618] (1) Where an employee's contract of employment with—
+**10.**[^c-a83160ac65c4acab9e63681c6c3a6618] (1) Where an employee's contract of employment with—
 
 - (a) a local probation board,
 - (b) a probation trust which is to be dissolved,
@@ -185,22 +185,22 @@ is not transferred under a staff transfer scheme, it is terminated immediately b
 
 ## Annotations
 
-[^key-44da380a2a9db9fdf3ce3ee137eb5ebd]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/1) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-44da380a2a9db9fdf3ce3ee137eb5ebd]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/1) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
 
-[^key-3d1595a38ffa82c8c25fcff2e1975f75]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/2) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-3d1595a38ffa82c8c25fcff2e1975f75]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/2) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
 
-[^key-1014bf4e7716e28d27e24bd551875f49]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/3) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-1014bf4e7716e28d27e24bd551875f49]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/3) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
 
-[^key-4138ffaed92ffbfe4e0a5bb50bd65df3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/4) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-4138ffaed92ffbfe4e0a5bb50bd65df3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/4) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
 
-[^key-8383be9259906df28fd91fb9bfd09c9f]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/5) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-8383be9259906df28fd91fb9bfd09c9f]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/5) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
 
-[^key-a87811ad1ee9f60771a9635e3fff2fb0]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/6) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-a87811ad1ee9f60771a9635e3fff2fb0]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/6) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
 
-[^key-6a7dc10692f7eb57dfe68ea79accb2b9]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/7) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-6a7dc10692f7eb57dfe68ea79accb2b9]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/7) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
 
-[^key-2bed8371d48c01620dbc785cb56b55a4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/8) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-2bed8371d48c01620dbc785cb56b55a4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/8) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
 
-[^key-ef28a94b6f1918c65d968b3c8d828028]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/9) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-ef28a94b6f1918c65d968b3c8d828028]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/9) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
 
-[^key-a83160ac65c4acab9e63681c6c3a6618]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/10) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)
+[^c-a83160ac65c4acab9e63681c6c3a6618]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2007/21/schedule/2/paragraph/10) in force at 1.3.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/504/article/2/b)

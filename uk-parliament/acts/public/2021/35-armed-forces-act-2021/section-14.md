@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Deprivation orders[^key-82197fa3eebc2f13b4c954d020d974fe][^key-6d5593730de390abfff4574d19cde8bc][^key-10962375830c84f06366d50ec931f3c2]
+## 14. Deprivation orders[^c-82197fa3eebc2f13b4c954d020d974fe][^c-6d5593730de390abfff4574d19cde8bc][^c-10962375830c84f06366d50ec931f3c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -190,8 +190,8 @@ summary: ''
 
 ## Annotations
 
-[^key-82197fa3eebc2f13b4c954d020d974fe]: Commencement: S. 14 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-82197fa3eebc2f13b4c954d020d974fe]: Commencement: S. 14 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-6d5593730de390abfff4574d19cde8bc]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/35/section/14) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f)
+[^c-6d5593730de390abfff4574d19cde8bc]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/35/section/14) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f)
 
-[^key-10962375830c84f06366d50ec931f3c2]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/35/section/14) in force at 22.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1102/regulation/3)
+[^c-10962375830c84f06366d50ec931f3c2]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/35/section/14) in force at 22.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1102/regulation/3)

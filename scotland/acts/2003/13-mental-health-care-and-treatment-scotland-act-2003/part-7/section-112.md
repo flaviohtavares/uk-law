@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Failure to attend for medical treatment[^key-61ae676334404b168fc683c4ef7b3395]
+## 112. Failure to attend for medical treatment[^c-61ae676334404b168fc683c4ef7b3395]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ the patient’s responsible medical officer may exercise the power conferred by 
 
 ## Annotations
 
-[^key-61ae676334404b168fc683c4ef7b3395]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2003/13/section/112) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-61ae676334404b168fc683c4ef7b3395]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2003/13/section/112) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

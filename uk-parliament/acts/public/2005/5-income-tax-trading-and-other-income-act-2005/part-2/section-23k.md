@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23K. Location of trade treated as carried on under section 23I etc[^key-3b3b89fd758a500a76833fb17c4c24b0]
+## 23K. Location of trade treated as carried on under section 23I etc[^c-3b3b89fd758a500a76833fb17c4c24b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ any UK workday in a non-UK tax year is not to be treated as a UK workday (but re
 
 ## Annotations
 
-[^key-3b3b89fd758a500a76833fb17c4c24b0]: Textual amendment: [Ss. 23I-23R](https://www.legislation.gov.uk/ukpga/2005/5/section/23I) and cross-heading inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)
+[^c-3b3b89fd758a500a76833fb17c4c24b0]: Textual amendment: [Ss. 23I-23R](https://www.legislation.gov.uk/ukpga/2005/5/section/23I) and cross-heading inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)

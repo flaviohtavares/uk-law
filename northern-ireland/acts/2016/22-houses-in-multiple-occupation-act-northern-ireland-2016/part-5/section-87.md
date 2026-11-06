@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. General notices[^key-75e0b6347811d4d5f7d24bc5d22f982e]
+## 87. General notices[^c-75e0b6347811d4d5f7d24bc5d22f982e]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75e0b6347811d4d5f7d24bc5d22f982e]: Commencement: [S. 87](https://www.legislation.gov.uk/nia/2016/22/section/87) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-75e0b6347811d4d5f7d24bc5d22f982e]: Commencement: [S. 87](https://www.legislation.gov.uk/nia/2016/22/section/87) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

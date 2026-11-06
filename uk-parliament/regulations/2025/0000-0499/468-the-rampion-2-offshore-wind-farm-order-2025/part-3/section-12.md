@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Public rights of way[^key-d41408951d96e18d4e7d3dbee44579a5]
+## 12. Public rights of way[^c-d41408951d96e18d4e7d3dbee44579a5]
 
 *Extent: E+W+S*
 
@@ -27,12 +27,12 @@ summary: ''
 - (c) temporarily close each of the public rights of way specified in columns (1) and (2) of Part 3 of Schedule 4 (public rights of way) to the extent agreed with the highway authority and in respect of the National Trail to the extent agreed with the South Downs National Park Authority and provide substitute temporary public rights of way on an alignment to be agreed with the highway authority or South Downs National Park Authority as applicable prior to the temporary closure of the public right of way concerned; and
 - (d) temporarily close or divert any other public right of way to the extent agreed with the highway authority.
 
-(2) The public rights of way specified in columns (1) and (2) of Parts 2 and 3 of Schedule 4 (public rights of way) may not be wholly or partly closed under this article unless the temporary [^key-5fcc6b3d7260453b254d3deeef458012]... substitute public right of way referred to in column (4) of Part 2 or an alternative temporary substitute public right of way agreed by the highway authority or South Downs National Park Authority in respect of the National Trail has first been provided by the undertaker.
+(2) The public rights of way specified in columns (1) and (2) of Parts 2 and 3 of Schedule 4 (public rights of way) may not be wholly or partly closed under this article unless the temporary [^c-5fcc6b3d7260453b254d3deeef458012]... substitute public right of way referred to in column (4) of Part 2 or an alternative temporary substitute public right of way agreed by the highway authority or South Downs National Park Authority in respect of the National Trail has first been provided by the undertaker.
 
 (3) If the highway authority or South Downs National Park Authority fails to notify the undertaker of its decision within 28 days of receiving an application for agreement under sub-paragraph (1)(c) or (1)(d) that highway authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-d41408951d96e18d4e7d3dbee44579a5]: Commencement: Art. 12 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-d41408951d96e18d4e7d3dbee44579a5]: Commencement: Art. 12 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-5fcc6b3d7260453b254d3deeef458012]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2025/468/article/12/2) omitted (24.4.2026) by virtue of [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
+[^c-5fcc6b3d7260453b254d3deeef458012]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2025/468/article/12/2) omitted (24.4.2026) by virtue of [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. “Relevant Scottish applications”[^key-c34b28eb6fc945eadbdf01d1b91ce060]
+## 22. “Relevant Scottish applications”[^c-c34b28eb6fc945eadbdf01d1b91ce060]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ In this section “**the applicant**” means the person by whom, or on whose be
 
 ## Annotations
 
-[^key-c34b28eb6fc945eadbdf01d1b91ce060]: Commencement: S. 22 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/h)
+[^c-c34b28eb6fc945eadbdf01d1b91ce060]: Commencement: S. 22 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/h)

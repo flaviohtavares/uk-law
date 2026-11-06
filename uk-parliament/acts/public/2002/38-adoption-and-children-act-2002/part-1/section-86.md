@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Power to modify sections 83 and 85[^key-550eeb271a37dd62b2edb12426dca2b3][^key-26c87b79711f80fe4f8632704a2b5899]
+## 86. Power to modify sections 83 and 85[^c-550eeb271a37dd62b2edb12426dca2b3][^c-26c87b79711f80fe4f8632704a2b5899]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ and any prescribed conditions are met.
 
 ## Annotations
 
-[^key-550eeb271a37dd62b2edb12426dca2b3]: Commencement: S. 86 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vii)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vii)
+[^c-550eeb271a37dd62b2edb12426dca2b3]: Commencement: S. 86 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vii)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vii)
 
-[^key-26c87b79711f80fe4f8632704a2b5899]: Commencement: S. 86 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-26c87b79711f80fe4f8632704a2b5899]: Commencement: S. 86 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

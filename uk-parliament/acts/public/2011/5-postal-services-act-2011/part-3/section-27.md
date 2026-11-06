@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Postal services, postal packets and postal operators[^key-790f6e90589afd30e8d390c1f02abb5c]
+## 27. Postal services, postal packets and postal operators[^c-790f6e90589afd30e8d390c1f02abb5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-790f6e90589afd30e8d390c1f02abb5c]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2011/5/section/27) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-790f6e90589afd30e8d390c1f02abb5c]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2011/5/section/27) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

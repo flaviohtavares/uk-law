@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Power to grant tenancy in default[^key-e4f70868c181060684e7c769050ef1f8][^key-4592db25ed46a5e70d65d171d6edf68a]
+## 207. Power to grant tenancy in default[^c-e4f70868c181060684e7c769050ef1f8][^c-4592db25ed46a5e70d65d171d6edf68a]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4f70868c181060684e7c769050ef1f8]: Commencement: S. 207 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-e4f70868c181060684e7c769050ef1f8]: Commencement: S. 207 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-4592db25ed46a5e70d65d171d6edf68a]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2023/55/section/207) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-4592db25ed46a5e70d65d171d6edf68a]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2023/55/section/207) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)

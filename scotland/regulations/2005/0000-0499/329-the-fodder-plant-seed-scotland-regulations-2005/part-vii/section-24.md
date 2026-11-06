@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Civil liabilities of sellers of seed[^key-e5f00790f625bf240215622f30dfe0d5]
+## 24. Civil liabilities of sellers of seed[^c-e5f00790f625bf240215622f30dfe0d5]
 
 *Extent: S*
 
-(1) The particulars given to a purchaser by the seller of seed to which these Regulations apply, whether given in pursuance of these Regulations expressly or by implication arising from the description under which the seed is sold, shall constitute a statutory warranty for the purpose of section 17 of the Act in so far as they relate to the category of the seed, the percentage germination of the seed, the percentage analytical purity of the seed, the content of seed of other plant species, the varietal identity and the varietal purity of the seed or, in the case of a mixture of seed permitted by regulation 8 or 8A[^key-882c478428ccde45c9827f9380dea744], of each of its constituents to which these Regulations apply.
+(1) The particulars given to a purchaser by the seller of seed to which these Regulations apply, whether given in pursuance of these Regulations expressly or by implication arising from the description under which the seed is sold, shall constitute a statutory warranty for the purpose of section 17 of the Act in so far as they relate to the category of the seed, the percentage germination of the seed, the percentage analytical purity of the seed, the content of seed of other plant species, the varietal identity and the varietal purity of the seed or, in the case of a mixture of seed permitted by regulation 8 or 8A[^c-882c478428ccde45c9827f9380dea744], of each of its constituents to which these Regulations apply.
 
 (2) Section 17(2) of the Act shall apply to any particulars given to a purchaser by the seller of seed, being particulars given or implied as in paragraph (1), in so far as they relate to the percentage germination, the percentage analytical purity, or the content of seed of other plant species and there are hereby prescribed in respect of such matters the limits of variation set out in Schedule 7.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5f00790f625bf240215622f30dfe0d5]: Commencement: Reg. 24 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-e5f00790f625bf240215622f30dfe0d5]: Commencement: Reg. 24 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-882c478428ccde45c9827f9380dea744]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/24/1) inserted (10.2.2012) by [The Fodder Plant Seed (Scotland) Amendment Regulations 2012 (S.S.I. 2012/5)](https://www.legislation.gov.uk/ssi/2012/5), [regs. 1](https://www.legislation.gov.uk/ssi/2012/5/regulation/1), [8](https://www.legislation.gov.uk/ssi/2012/5/regulation/8)
+[^c-882c478428ccde45c9827f9380dea744]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/24/1) inserted (10.2.2012) by [The Fodder Plant Seed (Scotland) Amendment Regulations 2012 (S.S.I. 2012/5)](https://www.legislation.gov.uk/ssi/2012/5), [regs. 1](https://www.legislation.gov.uk/ssi/2012/5/regulation/1), [8](https://www.legislation.gov.uk/ssi/2012/5/regulation/8)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Documents to be certified[^key-5f5fac51e9270ca582ac7de2e678ff71]
+## SCHEDULE 7 — Documents to be certified[^c-5f5fac51e9270ca582ac7de2e678ff71]
 
 *Extent: E+W*
 
 Article 49
 
-[^key-5f5fac51e9270ca582ac7de2e678ff71]
+[^c-5f5fac51e9270ca582ac7de2e678ff71]
 
 The land plans listed below—
 
@@ -55,7 +55,7 @@ The land plans listed below—
 </tbody>
 </table>
 
-[^key-5f5fac51e9270ca582ac7de2e678ff71]
+[^c-5f5fac51e9270ca582ac7de2e678ff71]
 
 the works plans listed below—
 
@@ -84,7 +84,7 @@ the works plans listed below—
 </tbody>
 </table>
 
-[^key-5f5fac51e9270ca582ac7de2e678ff71]
+[^c-5f5fac51e9270ca582ac7de2e678ff71]
 
 the access and public rights of way plans listed below—
 
@@ -120,9 +120,9 @@ the access and public rights of way plans listed below—
 - the outline Construction Environmental Management Plan dated 25th November 2014;
 - the outline Operational Environmental Management Plan dated 4th November 2014;
 - the outline Adaptive Environmental Management Plan dated 25th November 2014;
-- TEST the agreement pursuant to section 106 of the Town and Country Planning Act 1990 [^key-b176f56ee1c54187251ee82b071869f8]... between The City and County[^key-1d7159269985260954655f9f65786f96] of Swansea Council, Neath Port Talbot County Borough Council, AB Ports and the undertaker of 8th December 2014; and
+- TEST the agreement pursuant to section 106 of the Town and Country Planning Act 1990 [^c-b176f56ee1c54187251ee82b071869f8]... between The City and County[^c-1d7159269985260954655f9f65786f96] of Swansea Council, Neath Port Talbot County Borough Council, AB Ports and the undertaker of 8th December 2014; and
 
-[^key-5f5fac51e9270ca582ac7de2e678ff71]
+[^c-5f5fac51e9270ca582ac7de2e678ff71]
 
 the drawings listed below, which comprise the planning drawings, and includes works sections—
 
@@ -169,8 +169,8 @@ the drawings listed below, which comprise the planning drawings, and includes wo
 
 ## Annotations
 
-[^key-5f5fac51e9270ca582ac7de2e678ff71]: Commencement: Sch. 7 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-5f5fac51e9270ca582ac7de2e678ff71]: Commencement: Sch. 7 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-b176f56ee1c54187251ee82b071869f8]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2015/1386/schedule/7) omitted (27.10.2015) by virtue of [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-b176f56ee1c54187251ee82b071869f8]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2015/1386/schedule/7) omitted (27.10.2015) by virtue of [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
-[^key-1d7159269985260954655f9f65786f96]: Textual amendment: Word in [Sch. 7](https://www.legislation.gov.uk/uksi/2015/1386/schedule/7) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-1d7159269985260954655f9f65786f96]: Textual amendment: Word in [Sch. 7](https://www.legislation.gov.uk/uksi/2015/1386/schedule/7) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)

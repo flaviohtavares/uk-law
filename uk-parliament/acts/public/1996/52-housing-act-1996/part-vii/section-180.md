@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State or a local housing authority in England[^key-505f1ff4a399bdb6541b86af01a0371f] may give assistance by way of grant or loan to voluntary organisations concerned with homelessness or matters relating to homelessness.
+(1) The Secretary of State or a local housing authority in England[^c-505f1ff4a399bdb6541b86af01a0371f] may give assistance by way of grant or loan to voluntary organisations concerned with homelessness or matters relating to homelessness.
 
 (2) A local housing authority may also assist any such organisation—
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-505f1ff4a399bdb6541b86af01a0371f]: Textual amendment: Words in s. 180(1) inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/6); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-505f1ff4a399bdb6541b86af01a0371f]: Textual amendment: Words in s. 180(1) inserted (27.4.2015) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/6); [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))

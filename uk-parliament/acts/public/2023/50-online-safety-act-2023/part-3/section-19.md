@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Duties to protect journalistic content[^key-56f41c79bf0c126028bcda5e15c4ff78][^key-0b4f0a4129d5c47c3532552b55331ecf]
+## 19. Duties to protect journalistic content[^c-56f41c79bf0c126028bcda5e15c4ff78][^c-0b4f0a4129d5c47c3532552b55331ecf]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,6 +90,6 @@ Interpretation
 
 ## Annotations
 
-[^key-56f41c79bf0c126028bcda5e15c4ff78]: Commencement: S. 19 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-56f41c79bf0c126028bcda5e15c4ff78]: Commencement: S. 19 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-0b4f0a4129d5c47c3532552b55331ecf]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/50/section/19) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/e)
+[^c-0b4f0a4129d5c47c3532552b55331ecf]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/50/section/19) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/e)

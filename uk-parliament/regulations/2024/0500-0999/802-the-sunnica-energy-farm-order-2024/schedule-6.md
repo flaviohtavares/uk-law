@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^key-f496c08c54e7ee4ded3bd972dca71465]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^c-f496c08c54e7ee4ded3bd972dca71465]
 
 | *(1)*<br>*District* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ Article 11
 | West Suffolk District | W-257/003/0<br>From the point shown as reference PRoWC5A on sheet 12 of the traffic regulation measures plans – temporary road closures, for a distance of 115 metres in a generally north-westerly direction to the point shown as reference PRoWC5B, on sheet 12 of the traffic regulation measures plans – temporary road closures. | Temporarily closed to all traffic save for traffic under the direction of the undertaker. |
 | East Cambridgeshire District | W-257/007/0, W-257/002/X, W-257/002/0<br>From the point shown as reference ProWC6A on sheet 20 of the traffic regulation measures plans – temporary road closures, for a distance of 505 metres in a generally southerly direction to the point shown as reference PRoWC6B on sheet 20 of the traffic regulation measures plans – temporary road closures. | Temporarily closed to all traffic save for traffic under the direction of the undertaker. |
 
-### PART 2 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^key-5512324ebdba715683ff40f5764be57d]
+### PART 2 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^c-5512324ebdba715683ff40f5764be57d]
 
 | *(1)*<br>*District* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -50,6 +50,6 @@ Article 11
 
 ## Annotations
 
-[^key-f496c08c54e7ee4ded3bd972dca71465]: Commencement: Sch. 6 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-f496c08c54e7ee4ded3bd972dca71465]: Commencement: Sch. 6 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-5512324ebdba715683ff40f5764be57d]: Commencement: Sch. 6 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-5512324ebdba715683ff40f5764be57d]: Commencement: Sch. 6 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

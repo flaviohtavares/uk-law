@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Temporary use of land for carrying out the authorised development[^key-5a328fe7a589701ca617d7efff4b8d0a]
+## 36. Temporary use of land for carrying out the authorised development[^c-5a328fe7a589701ca617d7efff4b8d0a]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5a328fe7a589701ca617d7efff4b8d0a]: Commencement: Art. 36 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-5a328fe7a589701ca617d7efff4b8d0a]: Commencement: Art. 36 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00088]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

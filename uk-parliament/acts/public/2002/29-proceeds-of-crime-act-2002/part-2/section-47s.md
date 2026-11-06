@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47S. Codes of practice[^key-aba2a29eed054d2a12dfdb2a9ad47eaa]
+## 47S. Codes of practice[^c-aba2a29eed054d2a12dfdb2a9ad47eaa]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) consider any representations made about the draft,
 - (c) if the Secretary of State thinks appropriate, modify the draft in the light of any such representations.
 
-(2A)[^key-de4d03c2b2e347214fad67e8fdd9ff91] The Secretary of State must also consult the Attorney General about the draft in its application to the exercise of powers by SFO officers and the Director of the Serious Fraud Office.
+(2A)[^c-de4d03c2b2e347214fad67e8fdd9ff91] The Secretary of State must also consult the Attorney General about the draft in its application to the exercise of powers by SFO officers and the Director of the Serious Fraud Office.
 
 (3) The Secretary of State must lay a draft of the code before Parliament.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aba2a29eed054d2a12dfdb2a9ad47eaa]: Textual amendment: Ss. 47A-47S and cross-heading inserted (22.11.2014 for the insertion of ss. 47A, 47G, 47S(1)-(5) for specified purposes, 1.6.2015 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-aba2a29eed054d2a12dfdb2a9ad47eaa]: Textual amendment: Ss. 47A-47S and cross-heading inserted (22.11.2014 for the insertion of ss. 47A, 47G, 47S(1)-(5) for specified purposes, 1.6.2015 in so far as not already in force) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
-[^key-de4d03c2b2e347214fad67e8fdd9ff91]: Textual amendment: S. 47S(2A) inserted (27.4.2017 for specified purposes, 31.10.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/22/schedule/1/paragraph/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/k)
+[^c-de4d03c2b2e347214fad67e8fdd9ff91]: Textual amendment: S. 47S(2A) inserted (27.4.2017 for specified purposes, 31.10.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/22/schedule/1/paragraph/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/k)

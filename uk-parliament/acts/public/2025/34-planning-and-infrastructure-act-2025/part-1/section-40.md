@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Deadline for decisions[^key-0ebe9614c941f338ef87173fe157f8fa]
+## 40. Deadline for decisions[^c-0ebe9614c941f338ef87173fe157f8fa]
 
 *Extent: E+W*
 
-(1)[^key-0ebe9614c941f338ef87173fe157f8fa] The Transport and Works Act 1992 is amended as follows.
+(1)[^c-0ebe9614c941f338ef87173fe157f8fa] The Transport and Works Act 1992 is amended as follows.
 
-(2)[^key-0ebe9614c941f338ef87173fe157f8fa] In section 13 (making or refusal of orders), after subsection (6) insert—
+(2)[^c-0ebe9614c941f338ef87173fe157f8fa] In section 13 (making or refusal of orders), after subsection (6) insert—
 
 > (7) The Secretary of State may, for cases involving applications under section 6, make rules as to the period within which—
 >
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ebe9614c941f338ef87173fe157f8fa]: Commencement: [S. 40(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/2) in force at 18.2.2026, see [s. 118(1)(w)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/w)
+[^c-0ebe9614c941f338ef87173fe157f8fa]: Commencement: [S. 40(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/40/2) in force at 18.2.2026, see [s. 118(1)(w)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/w)

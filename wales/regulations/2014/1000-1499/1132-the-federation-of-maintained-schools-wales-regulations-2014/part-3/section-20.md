@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Foundation governors[^key-7f515478f992a1da936e54b0e536a470]
+## 20. Foundation governors[^c-7f515478f992a1da936e54b0e536a470]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f515478f992a1da936e54b0e536a470]: Commencement: Reg. 20 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-7f515478f992a1da936e54b0e536a470]: Commencement: Reg. 20 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00017]: Footnote: As designated by Order of the Welsh Ministers under section 69(3) of the 1998 Act.

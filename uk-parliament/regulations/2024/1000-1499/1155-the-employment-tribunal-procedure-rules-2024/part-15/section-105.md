@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 105. Appeals against unlawful act notices[^key-d26d6132555148b78d5638f70ce5dba3]
+## 105. Appeals against unlawful act notices[^c-d26d6132555148b78d5638f70ce5dba3]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d26d6132555148b78d5638f70ce5dba3]: Commencement: [Rule 105](https://www.legislation.gov.uk/uksi/2024/1155/rule/105) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-d26d6132555148b78d5638f70ce5dba3]: Commencement: [Rule 105](https://www.legislation.gov.uk/uksi/2024/1155/rule/105) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00049]: Footnote: [2006 c. 3](https://www.legislation.gov.uk/ukpga/2006/3). Section 21 was amended by the Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), Schedule 26, Part 1, paragraph 67, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 9, Part 3, paragraph 52 and the Worker Protection (Amendment of Equality Act 2010) Act [2023 (c. 51)](https://www.legislation.gov.uk/ukpga/2023/51), section 4(2).

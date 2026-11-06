@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Provision that may be made by consumer protection conditions[^key-b0371f0a4da3f27e4f821d993429a098]
+## 52. Provision that may be made by consumer protection conditions[^c-b0371f0a4da3f27e4f821d993429a098]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0371f0a4da3f27e4f821d993429a098]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2011/5/section/52) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b0371f0a4da3f27e4f821d993429a098]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2011/5/section/52) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

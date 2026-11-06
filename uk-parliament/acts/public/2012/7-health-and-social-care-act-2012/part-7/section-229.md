@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Accreditation of voluntary registers[^key-ef05a8bd4fbc32f415a94114da12d82a]
+## 229. Accreditation of voluntary registers[^c-ef05a8bd4fbc32f415a94114da12d82a]
 
 *Extent: E+W*
 
@@ -128,4 +128,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef05a8bd4fbc32f415a94114da12d82a]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2012/7/section/229) in force at 1.12.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
+[^c-ef05a8bd4fbc32f415a94114da12d82a]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2012/7/section/229) in force at 1.12.2012 by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)

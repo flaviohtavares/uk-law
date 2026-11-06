@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Challenge or appeal: supplementary provisions.[^c833524][^c2085246][^c2085676][^c2085778][^key-61d97476671c4f3889a2ba5919157f6c]
+## 70. Challenge or appeal: supplementary provisions.[^c833524][^c2085246][^c2085676][^c2085778][^c-61d97476671c4f3889a2ba5919157f6c]
 
 *Extent: E+W+N.I.*
 
@@ -27,9 +27,9 @@ summary: ''
 - (a) any available arbitral process of appeal or review, and
 - (b) any available recourse under section 57 (correction of award or additional award).
 
-(3)[^c833525] Any application or appeal must be brought within 28 days of the applicable date[^key-5e038b7ea6ae8a445c33a5dd787f80b9].
+(3)[^c833525] Any application or appeal must be brought within 28 days of the applicable date[^c-5e038b7ea6ae8a445c33a5dd787f80b9].
 
-(3A)[^key-acc2911a9353e2421bc6a4cc0449f7f7] In subsection (3), “**the applicable date**” means—
+(3A)[^c-acc2911a9353e2421bc6a4cc0449f7f7] In subsection (3), “**the applicable date**” means—
 
 - (a) in a case where there has been any arbitral process of appeal or review, the date when the applicant or appellant was notified of the result of that process;
 - (b) in a case where the tribunal has, under section 57, made a material correction to an award or has made a material additional award, the date of the correction or additional award;
@@ -66,7 +66,7 @@ The power to order security for costs shall not be exercised on the ground that 
 
 This does not affect the general discretion of the court to grant leave subject to conditions.
 
-(9)[^key-ec69ef0a8eb6a315633fed1033fd0d17] In this section, a reference to available recourse, or to anything done, under section 57 includes a reference to available recourse, or to anything equivalent done, pursuant to agreement reached between the parties as mentioned in section 57(1).
+(9)[^c-ec69ef0a8eb6a315633fed1033fd0d17] In this section, a reference to available recourse, or to anything done, under section 57 includes a reference to available recourse, or to anything equivalent done, pursuant to agreement reached between the parties as mentioned in section 57(1).
 
 ## Annotations
 
@@ -78,12 +78,12 @@ This does not affect the general discretion of the court to grant leave subject 
 
 [^c2085778]: Modification: S. 70 applied (with modifications) (E.W.) (1.10.2004) by [The ACAS (Flexible Working) Arbitration Scheme (Great Britain) Order 2004 (S.I. 2004/2333)](https://www.legislation.gov.uk/uksi/2004/2333), [art. 4](https://www.legislation.gov.uk/uksi/2004/2333/article/4), [Sch. para. 156EW](https://www.legislation.gov.uk/uksi/2004/2333/schedule/paragraph/156EW) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2333/article/6))
 
-[^key-61d97476671c4f3889a2ba5919157f6c]: Modification: S. 70 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 113](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/113)
+[^c-61d97476671c4f3889a2ba5919157f6c]: Modification: S. 70 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 113](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/113)
 
 [^c833525]: Modification: s. 70(3) modified (E.W.) (25.3.2002) by [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [Rule 29](https://www.legislation.gov.uk/uksi/2001/4015/rule/29), [Sch. Rule 62](https://www.legislation.gov.uk/uksi/2001/4015/schedule/rule/62).9
 
-[^key-5e038b7ea6ae8a445c33a5dd787f80b9]: Textual amendment: Words in s. 70(3) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/12/2), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-5e038b7ea6ae8a445c33a5dd787f80b9]: Textual amendment: Words in s. 70(3) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/12/2), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-acc2911a9353e2421bc6a4cc0449f7f7]: Textual amendment: S. 70(3A)(3B) inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/12/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-acc2911a9353e2421bc6a4cc0449f7f7]: Textual amendment: S. 70(3A)(3B) inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2025/4/section/12/3), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-ec69ef0a8eb6a315633fed1033fd0d17]: Textual amendment: S. 70(9) inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2025/4/section/12/4), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-ec69ef0a8eb6a315633fed1033fd0d17]: Textual amendment: S. 70(9) inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2025/4/section/12/4), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

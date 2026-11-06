@@ -30,7 +30,7 @@ Inland Navigation Act (Northern Ireland) 1954 [^c5439341]
 
 An Act to authorise the making of certain agreements transferring to the Ministry of Commerce the undertakings of the Lagan Navigation Company and the Upper Bann Navigation Trustees, to empower the said Ministry and the Ministry of Finance to exercise certain functions in relation to those undertakings and for purposes connected with the matters aforesaid.
 
-\[2nd March 1954\][^key-4bc257c3ff21d11d1b1988d3854b91dd]
+\[2nd March 1954\][^c-4bc257c3ff21d11d1b1988d3854b91dd]
 
 ## 1. Agreements transferring certain canal undertakings.
 
@@ -164,7 +164,7 @@ This Act may be cited as the Inland Navigation Act (Northern Ireland), 1954.
 
 [^c5439341]: Textual amendment: Functions transf. by SR 1999/481
 
-[^key-4bc257c3ff21d11d1b1988d3854b91dd]: Modification: [Act](https://www.legislation.gov.uk/apni/1954/1): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-4bc257c3ff21d11d1b1988d3854b91dd]: Modification: [Act](https://www.legislation.gov.uk/apni/1954/1): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c5439351]: Textual amendment: SLR 1980
 

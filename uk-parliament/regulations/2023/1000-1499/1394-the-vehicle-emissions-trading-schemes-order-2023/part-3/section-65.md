@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. VCTS allowances[^key-f423864700c7dc49beb1062fc5eb1052]
+## 65. VCTS allowances[^c-f423864700c7dc49beb1062fc5eb1052]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A VCTS allowance is an allowance for an NZE van which is registered during a sch
 
 ## Annotations
 
-[^key-f423864700c7dc49beb1062fc5eb1052]: Commencement: Art. 65 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-f423864700c7dc49beb1062fc5eb1052]: Commencement: Art. 65 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

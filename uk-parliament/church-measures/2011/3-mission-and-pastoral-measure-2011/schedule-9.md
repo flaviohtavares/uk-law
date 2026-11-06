@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 9 — Repeals[^key-a2fe6deda3f88c8ebb043466ba920b32]
+## SCHEDULE 9 — Repeals[^c-a2fe6deda3f88c8ebb043466ba920b32]
 
 *Extent: E*
 
@@ -45,4 +45,4 @@ Section 111
 
 ## Annotations
 
-[^key-a2fe6deda3f88c8ebb043466ba920b32]: Commencement: Sch. 9 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-a2fe6deda3f88c8ebb043466ba920b32]: Commencement: Sch. 9 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

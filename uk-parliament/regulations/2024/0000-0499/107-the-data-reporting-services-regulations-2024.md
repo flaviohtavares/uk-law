@@ -44,7 +44,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 
 ## PART 1 — Introductory Provisions
 
-### 1. Citation, commencement and extent[^key-429c17d93a04c3b9cfe0accc25022f7a]
+### 1. Citation, commencement and extent[^c-429c17d93a04c3b9cfe0accc25022f7a]
 
 (1) These Regulations may be cited as the Data Reporting Services Regulations 2024.
 
@@ -52,16 +52,16 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-570ae906acdbcf8ec1f9f997e6fdd82f]
+### 2. Interpretation[^c-570ae906acdbcf8ec1f9f997e6fdd82f]
 
 (1) In these Regulations—
 
 - “**the 2017 Regulations**” means the Data Reporting Services Regulations 2017;
-- “**APA**” means a person authorised under regulation 9 to provide the service of publishing trade reports on behalf of investment firms pursuant to , or pursuant to rules made by virtue of,[^key-434215e717762472dfa60fb290f3fb69] Article 20 or 21 of the markets in financial instruments regulation;
+- “**APA**” means a person authorised under regulation 9 to provide the service of publishing trade reports on behalf of investment firms pursuant to , or pursuant to rules made by virtue of,[^c-434215e717762472dfa60fb290f3fb69] Article 20 or 21 of the markets in financial instruments regulation;
 - “**ARM**” means a person authorised under regulation 9 to provide the service of reporting details to the FCA of transactions for financial instruments listed in Article 26(2) of the markets in financial instruments regulation on behalf of investment firms;
 - “**authorised person**” has the meaning given in section 31(2) of FSMA 2000[^f00003];
 - “**credit institution**” has the meaning given in Article 2(1)(19) of the markets in financial instruments regulation;
-- “**CTP**” means a person authorised under regulation 9 to provide the service of collecting trade reports for financial instruments listed in , or listed in rules made by virtue of,[^key-6224d7205889231ad9ad64fb814e1dd6] Article 6, 7, 10, 12, 13, 20 or 21 of the markets in financial instruments regulation from, as applicable, UK regulated markets, UK multilateral trading facilities, UK organised trading facilities and APAs and consolidating them into a continuous electronic live data stream providing price and volume data per financial instrument;
+- “**CTP**” means a person authorised under regulation 9 to provide the service of collecting trade reports for financial instruments listed in , or listed in rules made by virtue of,[^c-6224d7205889231ad9ad64fb814e1dd6] Article 6, 7, 10, 12, 13, 20 or 21 of the markets in financial instruments regulation from, as applicable, UK regulated markets, UK multilateral trading facilities, UK organised trading facilities and APAs and consolidating them into a continuous electronic live data stream providing price and volume data per financial instrument;
 - “**CTP service**” means a service described in the definition of a CTP;
 - “**data reporting service**” means—
   - (a) the service of publishing trade reports on behalf of investment firms pursuant to , or pursuant to rules made by virtue of,[^M_F_3b3fd462-11a1-4da5-a715-061ac759ad47] Article 20 or 21 of the markets in financial instruments regulation;
@@ -111,7 +111,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 
 ## PART 2 — Authorisation of Data Reporting Services
 
-### 3. Prohibition on the provision of a data reporting service[^key-c3c8a2d38efe6f91079f701658e081ab]
+### 3. Prohibition on the provision of a data reporting service[^c-c3c8a2d38efe6f91079f701658e081ab]
 
 (1) A person must not provide a data reporting service in the United Kingdom as a regular occupation or business unless the person is—
 
@@ -124,7 +124,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 
 (3) In this regulation, “**trading venue**” has the meaning given in Article 2(1)(16) of the markets in financial instruments regulation.
 
-### 4. Register of data reporting service providers[^key-e484a866cbc21c37f59353c204d46cca]
+### 4. Register of data reporting service providers[^c-e484a866cbc21c37f59353c204d46cca]
 
 (1) The FCA must maintain a register of all persons—
 
@@ -138,7 +138,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
   - (i) the service to which the tender contract applies, and
   - (ii) the term of the tender contract and, where applicable, any extension to that term.
 
-### 5. Application for authorisation to provide a data reporting service[^key-50e925742b2f2d9f7c924e07f5c5f11c]
+### 5. Application for authorisation to provide a data reporting service[^c-50e925742b2f2d9f7c924e07f5c5f11c]
 
 (1) An application for authorisation to provide a data reporting service must be made to the FCA.
 
@@ -151,7 +151,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 
 (4) The FCA may give different directions, and may impose different requirements, in relation to different applications or categories of application.
 
-### 6. Direction to tender[^key-3975a8cc64636a0b72ebd2207596b325]
+### 6. Direction to tender[^c-3975a8cc64636a0b72ebd2207596b325]
 
 (1) The FCA may give a direction that a tender is to take place in order to select a person to provide a CTP service (a “direction to tender”).
 
@@ -180,7 +180,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 
 (8) In this regulation, reference to a person “**authorised or verified**” means a person who is authorised under regulation 9 to provide the CTP service to which the tender applies or a person whose compliance with these Regulations in connection with the provision of that service has been verified by the FCA under regulation 7.
 
-### 7. Verification of compliance[^key-30b3aa9a7ad5b593e86c83f99895e14c]
+### 7. Verification of compliance[^c-30b3aa9a7ad5b593e86c83f99895e14c]
 
 (1) Regulations 5, 8 and 9(1) to (5) apply to an application to the FCA for verification of compliance with these Regulations, as those regulations apply to an application for authorisation to provide a data reporting service.
 
@@ -209,7 +209,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 
 (7) Regulations 10, 11(1) to (6) and 13 apply to a verification under paragraph (2) as they apply to an authorisation to provide a data reporting service.
 
-### 8. Conditions for authorisation to provide a data reporting service[^key-302e787f40a63f8a1804fdcdc21f0a01]
+### 8. Conditions for authorisation to provide a data reporting service[^c-302e787f40a63f8a1804fdcdc21f0a01]
 
 (1) The FCA may only grant an application for authorisation to provide a data reporting service if—
 
@@ -233,7 +233,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 - (b) has no legal personality, and
 - (c) provides a data reporting service.
 
-### 9. Determination of an application for authorisation to provide a data reporting service[^key-e0ce67f7841db920d3d5cc0d3d820c03]
+### 9. Determination of an application for authorisation to provide a data reporting service[^c-e0ce67f7841db920d3d5cc0d3d820c03]
 
 (1) The FCA must determine an application for an authorisation to provide a data reporting service before the end of the period of six months beginning with the date on which it received the completed application.
 
@@ -268,7 +268,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 - (a) grants authorisation subject to the imposition of restrictions on the applicant; or
 - (b) refuses the application.
 
-### 10. Cancellation of an authorisation to provide a data reporting service[^key-bb30fd3912cba58b300158a8bc8495f6]
+### 10. Cancellation of an authorisation to provide a data reporting service[^c-bb30fd3912cba58b300158a8bc8495f6]
 
 (1) The FCA may cancel a person’s authorisation to provide a data reporting service where—
 
@@ -309,7 +309,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 
 (7) Where the period for a reference to the Tribunal has expired without such reference being made, the FCA must as soon as practicable update the register accordingly.
 
-### 11. Variation of an authorisation to provide data reporting services[^key-eeba46f4a171722b4f88ec178cc525c8]
+### 11. Variation of an authorisation to provide data reporting services[^c-eeba46f4a171722b4f88ec178cc525c8]
 
 (1) A data reporting service provider may apply to the FCA to—
 
@@ -338,7 +338,7 @@ A draft of these Regulations was laid before Parliament and approved by a resolu
 
 #### Functions of the FCA
 
-##### 12. Consulting the Bank of England[^key-ceabf0192a00badc00e0306cfda040e1]
+##### 12. Consulting the Bank of England[^c-ceabf0192a00badc00e0306cfda040e1]
 
 The FCA must consult the Bank of England before—
 
@@ -353,7 +353,7 @@ The FCA must consult the Bank of England before—
 - (i) appointing a person to carry out an investigation under section 168(3) of FSMA 2000 (appointment of persons to carry out investigations in particular cases) as applied by regulation 18 in relation to a recognised clearing house or a recognised CSD;
 - (j) appointing a person to carry out an investigation under section 169(1)(b) of FSMA 2000[^f00015] (investigations etc. in support of overseas regulator) as applied by regulation 18 in relation to a recognised clearing house or a recognised CSD.
 
-##### 13. Restrictions on authorisation to carry on data reporting services[^key-dad94bc78704fac1d6f689367dd344a1]
+##### 13. Restrictions on authorisation to carry on data reporting services[^c-dad94bc78704fac1d6f689367dd344a1]
 
 (1) If the FCA considers that a data reporting service provider (“**P**”) has contravened a requirement imposed by or under these Regulations, it may impose, for such period as it considers appropriate, such restrictions in relation to the carrying on of data reporting services by P as it considers appropriate.
 
@@ -383,7 +383,7 @@ it may impose, for such period as it considers appropriate, such restrictions in
 - (e) each reference to a variation of permission, or the imposition or variation of a requirement, were a reference to a restriction imposed on an authorisation granted under these Regulations to P; and
 - (f) the reference in subsection (12) to section 391(8) were a reference to section 391(8) as applied by these Regulations.
 
-##### 14. Breach of the prohibition on the provision of a data reporting service[^key-fc2be652a3b0d3e559c8af6f456f68e5]
+##### 14. Breach of the prohibition on the provision of a data reporting service[^c-fc2be652a3b0d3e559c8af6f456f68e5]
 
 (1) Unless paragraph (2) applies, a person who breaches a prohibition imposed by regulation 3(1) is guilty of an offence.
 
@@ -401,7 +401,7 @@ it may impose, for such period as it considers appropriate, such restrictions in
 
 ### CHAPTER 2 — Application of FSMA 2000 for the purposes of the Regulations
 
-#### 15. FCA’s general duties[^key-baa59eb724ea65a78602d7f3ae731625]
+#### 15. FCA’s general duties[^c-baa59eb724ea65a78602d7f3ae731625]
 
 (1) Section 1B of FSMA 2000[^f00017] (FCA’s general duties)—
 
@@ -413,7 +413,7 @@ it may impose, for such period as it considers appropriate, such restrictions in
 - (a) section 1F applies as if “relevant markets” included the market for data reporting services;
 - (b) section 1H(2) applies as if “**regulated financial services**” (for the purposes of the interpretation of that term in section 1F) included services provided by data reporting service providers.
 
-#### 16. Supervision, monitoring and enforcement[^key-0acb35dd9b69811fb643c8bebbe6aa16]
+#### 16. Supervision, monitoring and enforcement[^c-0acb35dd9b69811fb643c8bebbe6aa16]
 
 Section 1L of FSMA 2000[^f00018] (supervision, monitoring and enforcement) applies with respect to the supervision, monitoring and enforcement of persons on whom requirements are imposed by or under these Regulations, as it applies to arrangements for supervision, monitoring and enforcement of persons under that Act as if—
 
@@ -429,7 +429,7 @@ Section 1L of FSMA 2000[^f00018] (supervision, monitoring and enforcement) appli
 
   .
 
-#### 17. Application of Part 9 of FSMA 2000 (hearings and appeals)[^key-01dddc0750526346a21ef1a973276aba]
+#### 17. Application of Part 9 of FSMA 2000 (hearings and appeals)[^c-01dddc0750526346a21ef1a973276aba]
 
 (1) Part 9 of FSMA 2000[^f00019] (hearings and appeals) applies with respect to proceedings pursuant to references to the Tribunal under these Regulations and under FSMA 2000 as applied by these Regulations (“relevant proceedings”) as it applies with respect to proceedings pursuant to references to the Tribunal under that Act, with the following modifications.
 
@@ -467,7 +467,7 @@ Section 1L of FSMA 2000[^f00018] (supervision, monitoring and enforcement) appli
 - (a) in paragraph (a) “or the PRA” were omitted;
 - (b) paragraphs (b) and (c) were omitted.
 
-#### 18. Application of Part 11 of FSMA 2000 (information gathering and investigations)[^key-dc688b21659d7dcacf9fd073c6fe6458]
+#### 18. Application of Part 11 of FSMA 2000 (information gathering and investigations)[^c-dc688b21659d7dcacf9fd073c6fe6458]
 
 (1) Part 11 of FSMA 2000[^f00020] (information gathering and investigations)—
 
@@ -623,7 +623,7 @@ Section 1L of FSMA 2000[^f00018] (supervision, monitoring and enforcement) appli
   ;
 - (b) in the definition of “relevant parent undertaking”, for “an FCA investment firm” there were substituted “a data reporting service provider”.
 
-#### 19. Disciplinary measures[^key-0e599ef517249385501816d984f22acb]
+#### 19. Disciplinary measures[^c-0e599ef517249385501816d984f22acb]
 
 (1) Chapter 3B of Part 18 of FSMA 2000[^f00021] (disciplinary measures in respect of recognised bodies)—
 
@@ -690,7 +690,7 @@ Section 1L of FSMA 2000[^f00018] (supervision, monitoring and enforcement) appli
   - (ii) paragraph (c) were omitted;
 - (b) in subsection (5) the reference to section 312FA were omitted.
 
-#### 20. Information given by an auditor[^key-0a860044553cb6eef321478394e30372]
+#### 20. Information given by an auditor[^c-0a860044553cb6eef321478394e30372]
 
 Sections 342 (information given by auditor or actuary to a regulator), 343 (information given by auditor or actuary to a regulator: person with close links) and 344 (duty of auditor or actuary resigning etc. to give notice) of FSMA 2000[^f00022] apply with respect to the auditor of a data reporting service provider as if—
 
@@ -699,7 +699,7 @@ Sections 342 (information given by auditor or actuary to a regulator), 343 (info
 - (c) references to a recognised investment exchange and to an actuary were omitted;
 - (d) sections 342(2), 343(2) and 344(4) were omitted.
 
-#### 21. Restrictions on disclosure of information[^key-524fd1d05ba8525685e34d5e2b566fda]
+#### 21. Restrictions on disclosure of information[^c-524fd1d05ba8525685e34d5e2b566fda]
 
 Sections 348 (restrictions on disclosure of confidential information by FCA, PRA etc.), 349 (exceptions from section 348) and 352 (offences) of FSMA 2000[^f00023] apply with respect to information received under these Regulations and under FSMA 2000 as applied by these Regulations as they apply with respect to information received under FSMA 2000 as if—
 
@@ -714,7 +714,7 @@ Sections 348 (restrictions on disclosure of confidential information by FCA, PRA
   - (iii) in subsection (5) “or (4)” were omitted;
   - (iv) in subsection (6)(a) “or that it had been disclosed in accordance with section 350” were omitted.
 
-#### 22. Application of Part 25 of FSMA 2000 (injunctions and restitution)[^key-d65cb17b54d1a3c059fc2f7a2f7b3b27]
+#### 22. Application of Part 25 of FSMA 2000 (injunctions and restitution)[^c-d65cb17b54d1a3c059fc2f7a2f7b3b27]
 
 (1) Part 25 of FSMA 2000[^f00024] (injunctions and restitution) applies for the purposes of these Regulations and FSMA 2000 as applied by these Regulations, with the following modifications.
 
@@ -742,7 +742,7 @@ Sections 348 (restrictions on disclosure of confidential information by FCA, PRA
 - (b) subsections (2) and (3) and references to those subsections were omitted;
 - (c) subsections (7) to (13) were omitted.
 
-#### 23. Application of Part 26 of FSMA 2000 (notices)[^key-e8bda0a6643ea20642488421deae7cbd]
+#### 23. Application of Part 26 of FSMA 2000 (notices)[^c-e8bda0a6643ea20642488421deae7cbd]
 
 (1) Part 26 of FSMA 2000[^f00025] (notices) applies with respect to the giving of notices under these Regulations and under FSMA 2000 as applied by these Regulations as it applies with respect to the giving of notices under FSMA 2000, with the following modifications.
 
@@ -780,7 +780,7 @@ Sections 348 (restrictions on disclosure of confidential information by FCA, PRA
 
   .
 
-(6) Sections 391A (publication: special provisions relating to capital requirements), 391B (publication: special provisions relating to transparency obligations), 391C (publication: special provision relating to UCITS) and 391E[^key-959ab3b3db0a240f1742bcd618ed2264] (publication: special provision relating to insurance distribution) [^key-2b0636a1dc4b7ef5bb4b12a6deb22582]... of FSMA 2000 do not apply.
+(6) Sections 391A (publication: special provisions relating to capital requirements), 391B (publication: special provisions relating to transparency obligations), 391C (publication: special provision relating to UCITS) and 391E[^c-959ab3b3db0a240f1742bcd618ed2264] (publication: special provision relating to insurance distribution) [^c-2b0636a1dc4b7ef5bb4b12a6deb22582]... of FSMA 2000 do not apply.
 
 (7) Section 391D (publication: special provisions relating to markets in financial instruments) applies as if, in subsections (4)(c) and (8)(a), for “financial markets” there were substituted “market for data reporting services”.
 
@@ -827,7 +827,7 @@ Sections 348 (restrictions on disclosure of confidential information by FCA, PRA
 - (b) regulation 9(6)(a) or (9)(a);
 - (c) regulation 10(5)(a) (including that provision as applied by regulation 7).
 
-#### 24. Application of Part 27 of FSMA 2000 (offences)[^key-8c401155e9685018158dab4044a74ec8]
+#### 24. Application of Part 27 of FSMA 2000 (offences)[^c-8c401155e9685018158dab4044a74ec8]
 
 (1) Part 27 of FSMA 2000[^f00027] (offences) applies with respect to offences under these Regulations and FSMA 2000 as applied by these Regulations as it applies with respect to offences under FSMA 2000, with the following modifications.
 
@@ -866,11 +866,11 @@ Sections 348 (restrictions on disclosure of confidential information by FCA, PRA
 
 (8) Section 403(7) of FSMA 2000 (jurisdiction and procedure in respect of offences) applies as if the words from “or an offence” to the end were omitted.
 
-#### 25. Application of section 413 of FSMA 2000 (protected items)[^key-a9df68965077cd8287b224cb242c6a95]
+#### 25. Application of section 413 of FSMA 2000 (protected items)[^c-a9df68965077cd8287b224cb242c6a95]
 
 Section 413 of FSMA 2000 (protected items) applies for the purposes of these Regulations as it applies for the purposes of that Act.
 
-#### 26. Application of section 415AA of FSMA 2000 (application of powers to formerly authorised persons)[^key-61da525f803d57ccc6f4b0fc4ec03818]
+#### 26. Application of section 415AA of FSMA 2000 (application of powers to formerly authorised persons)[^c-61da525f803d57ccc6f4b0fc4ec03818]
 
 (1) Section 415AA of FSMA 2000[^f00028] (application of powers to formerly authorised persons) applies for the purposes of these Regulations and FSMA 2000 as applied by these Regulations as if—
 
@@ -884,7 +884,7 @@ Section 413 of FSMA 2000 (protected items) applies for the purposes of these Reg
   ;
 - (d) in subsection (2) “, and in sections 207 to 209,” were omitted.
 
-#### 27. FCA: penalties, fees and exemption from liability in damages[^key-d0165bbefe06a093d93273b04b9ba251]
+#### 27. FCA: penalties, fees and exemption from liability in damages[^c-d0165bbefe06a093d93273b04b9ba251]
 
 (1) Paragraphs 19 to 23 (penalties and fees) and 25 (exemption from liability in damages) of Schedule 1ZA to FSMA 2000[^f00029] apply with respect to the discharge by the FCA of its functions under these Regulations as they apply with respect to the discharge by it of its functions under FSMA 2000, with the following modifications.
 
@@ -908,7 +908,7 @@ Section 413 of FSMA 2000 (protected items) applies for the purposes of these Reg
 
 ### CHAPTER 3 — Application of secondary legislation for the purposes of the Regulations
 
-#### 28. Service of notices[^key-1df6a7d3882d735455c283f13cad0f2c]
+#### 28. Service of notices[^c-1df6a7d3882d735455c283f13cad0f2c]
 
 The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001[^f00030] (“**Notice Regulations**”) apply in respect of any notice or document to be given by the FCA under these Regulations, or under FSMA 2000 as applied by these Regulations, as if—
 
@@ -916,11 +916,11 @@ The Financial Services and Markets Act 2000 (Service of Notices) Regulations 200
 - (b) each reference to that Act included a reference to these Regulations and to that Act as applied by these Regulations;
 - (c) each reference to a section of that Act were a reference to that section as applied by these Regulations.
 
-#### 29. Disclosure of confidential information[^key-ec9a85d91a25c1fed3c57ba48669009e]
+#### 29. Disclosure of confidential information[^c-ec9a85d91a25c1fed3c57ba48669009e]
 
 The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^f00031] apply for the purposes of section 349 of FSMA 2000 (exceptions from section 348) as applied by regulation 21.
 
-#### 30. Communications by auditors[^key-92fbbe0d8afbd0d5ab2b8ee41a0eb429]
+#### 30. Communications by auditors[^c-92fbbe0d8afbd0d5ab2b8ee41a0eb429]
 
 The Financial Services and Markets Act 2000 (Communications by Auditors) Regulations 2001[^f00032] apply with respect to the auditor of a data reporting service provider as if—
 
@@ -934,15 +934,15 @@ The Financial Services and Markets Act 2000 (Communications by Auditors) Regulat
 
 ## PART 4 — Amendment of primary and secondary legislation
 
-### 31. Amendment of FSMA 2000[^key-8af01f1588188c496c12b8d76f29cc54]
+### 31. Amendment of FSMA 2000[^c-8af01f1588188c496c12b8d76f29cc54]
 
 In sections 300H(5) (rules relating to investment exchanges and data reporting service providers) and 312E(4) (public censure) of FSMA 2000, for “Data Reporting Services Regulations 2017 ([S.I. 2017/699](https://www.legislation.gov.uk/uksi/2017/699))” substitute “Data Reporting Services Regulations 2024”.
 
-### 32. Amendment of the Financial Services and Markets Act 2000 (Recognition requirements for Investment Exchanges, Clearing Houses and Central Securities Depositaries) Regulations 2001[^key-1affd578ab2c28332ae85734f0f6755a]
+### 32. Amendment of the Financial Services and Markets Act 2000 (Recognition requirements for Investment Exchanges, Clearing Houses and Central Securities Depositaries) Regulations 2001[^c-1affd578ab2c28332ae85734f0f6755a]
 
 Omit paragraph 9I(a) and (c) of the Schedule to the Financial Services and Markets Act 2000 (Recognition requirements for Investment Exchanges, Clearing Houses and Central Securities Depositaries) Regulations 2001[^f00033] (provision of data reporting services).
 
-### 33. Amendment of the Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) Order 2014[^key-d6a8d1e1303855210c4f7dd8386458b7]
+### 33. Amendment of the Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) Order 2014[^c-d6a8d1e1303855210c4f7dd8386458b7]
 
 For article 2(f) of the Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) Order 2014[^f00034] (relevant functions of the FCA), substitute—
 
@@ -950,7 +950,7 @@ For article 2(f) of the Financial Services Act 2012 (Relevant Functions in relat
 
 .
 
-### 34. Amendment of the Public Interest Disclosure (Prescribed Persons) Order 2014[^key-cf3b58dea1bcab54a16c68cbf715cab7]
+### 34. Amendment of the Public Interest Disclosure (Prescribed Persons) Order 2014[^c-cf3b58dea1bcab54a16c68cbf715cab7]
 
 In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 2014[^f00035] (prescribed persons), in the entry for the “Financial Conduct Authority”, for paragraph (m)(ii) substitute—
 
@@ -958,7 +958,7 @@ In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 201
 
 .
 
-### 35. Amendment of the Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^key-d2d3f8defb079fa07f554c8f6c38007c]
+### 35. Amendment of the Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^c-d2d3f8defb079fa07f554c8f6c38007c]
 
 In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order (Northern Ireland) 1999[^f00036] (prescribed persons), in the entry for the “Financial Conduct Authority”, for paragraph (m)(ii) substitute—
 
@@ -968,7 +968,7 @@ In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order (No
 
 ## PART 5 — Amendment of assimilated legislation
 
-### 36. Amendment of the markets in financial instruments regulation[^key-74a3f05e576646f09fb5717a821d9e3e]
+### 36. Amendment of the markets in financial instruments regulation[^c-74a3f05e576646f09fb5717a821d9e3e]
 
 In the markets in financial instruments regulation—
 
@@ -980,7 +980,7 @@ In the markets in financial instruments regulation—
 - (d) in Article 21(5) of Title 3 (post-trade disclosure by investment firms, including systematic internalisers, in respect of bonds, structured finance products, emission allowances and derivatives), for “regulation 14 of the Data Reporting Services Regulations 2017” substitute “data reporting service rules (within the meaning of regulation 2(1) of the Data Reporting Services Regulations 2024)”;
 - (e) in Article 26(7) of Title 4 (obligation to report transactions), for “regulation 16(3)(d) of the Data Reporting Services Regulations 2017” substitute “data reporting service rules (within the meaning of regulation 2(1) of the Data Reporting Services Regulations 2024)”.
 
-### 37. Amendment of Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565)[^key-b1369ce08f1c1297a86676eabb00a489]
+### 37. Amendment of Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565)[^c-b1369ce08f1c1297a86676eabb00a489]
 
 In Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.uk/european/regulation/2017/0565) of 25 April 2016 supplementing [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive[^f00037]—
 
@@ -990,7 +990,7 @@ In Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.u
 
 ## PART 6 — Transitional and saving provision
 
-### 38. The register[^key-86a386ba1849d6c49dd8c0513f5db91e]
+### 38. The register[^c-86a386ba1849d6c49dd8c0513f5db91e]
 
 (1) The existing entries made on the register maintained by the FCA in accordance with regulation 6 of the 2017 Regulations are to be treated on the coming into force of these Regulations as having been entered on the register maintained in accordance with regulation 4 of these Regulations and have effect as if entered under these Regulations.
 
@@ -1001,7 +1001,7 @@ In Commission Delegated [Regulation (EU) 2017/565](https://www.legislation.gov.u
 
 must be entered on the register in accordance with these Regulations.
 
-### 39. Authorisation and verification under the 2017 Regulations[^key-789cecf778c8a26c45e581cd509d5ed2]
+### 39. Authorisation and verification under the 2017 Regulations[^c-789cecf778c8a26c45e581cd509d5ed2]
 
 (1) This regulation applies to an authorisation or verification which, immediately before the coming into force of these Regulations, was—
 
@@ -1026,7 +1026,7 @@ has effect, from the coming into force of these Regulations, as though it had be
 
 (6) Where, immediately before the coming into force of these Regulations, the FCA had grounds under regulation 11(1)(h) of the 2017 Regulations to believe that a person had seriously and systematically infringed the requirements imposed by or under the 2017 Regulations but had not issued a warning notice under regulation 11(4)(a) of those Regulations, regulation 10(1)(g) of these Regulations applies as though it included a reference to the 2017 Regulations.
 
-### 40. Undetermined applications[^key-d9c0fb1d50efc1ac9bd351de76c0a5e0]
+### 40. Undetermined applications[^c-d9c0fb1d50efc1ac9bd351de76c0a5e0]
 
 (1) Where an application referred to in paragraph (2) was made under the 2017 Regulations and had not been determined before the coming into force of these Regulations, the 2017 Regulations continue to have effect for the purposes of anything remaining to be done to determine that application.
 
@@ -1042,7 +1042,7 @@ has effect, from the coming into force of these Regulations, as though it had be
 - (b) an application referred to in paragraph (2)(b), any verification of compliance made by the FCA is to be treated as though it had been made under regulation 7 of these Regulations;
 - (c) an application referred to in paragraph (2)(c), any variation of an authorisation or verification of compliance is to be treated as though it had been granted under regulation 11 of these Regulations (including that regulation as applied by regulation 7(7)).
 
-### 41. References to the Tribunal[^key-4e289604aca28a6acedcf9627eaba56f]
+### 41. References to the Tribunal[^c-4e289604aca28a6acedcf9627eaba56f]
 
 (1) This Regulation applies where, immediately before the coming into force of these Regulations a person has—
 
@@ -1056,11 +1056,11 @@ has effect, from the coming into force of these Regulations, as though it had be
 
 (3) In this regulation, reference to a right to make a reference to the Tribunal includes a prospective right to make such a reference, where the decision concerned remains to be determined by the FCA immediately before the coming into force of these Regulations.
 
-### 42. Administration and determinations[^key-76c2769fee69b18caa73b05ab7cfa671]
+### 42. Administration and determinations[^c-76c2769fee69b18caa73b05ab7cfa671]
 
 Any restriction imposed by the FCA in accordance with regulation 22 of the 2017 Regulations that was in effect immediately before the coming into force of these Regulations has effect from the coming into force of these Regulations as though it had been imposed under regulation 13 of these Regulations.
 
-**43.**[^key-7c26bbc8d24db0e0f3be9ab0c751dd9c] In this Part, reference to a final determination made in accordance with the 2017 Regulations includes the determination of any reference made to the Tribunal, where applicable.
+**43.**[^c-7c26bbc8d24db0e0f3be9ab0c751dd9c] In this Part, reference to a final determination made in accordance with the 2017 Regulations includes the determination of any reference made to the Tribunal, where applicable.
 
 Amanda Milling
 
@@ -1095,17 +1095,17 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00001]: Footnote: [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29).
 
-[^key-429c17d93a04c3b9cfe0accc25022f7a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/107/regulation/1) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-429c17d93a04c3b9cfe0accc25022f7a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/107/regulation/1) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2017/699](https://www.legislation.gov.uk/uksi/2017/699).
 
-[^key-570ae906acdbcf8ec1f9f997e6fdd82f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/107/regulation/2) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-570ae906acdbcf8ec1f9f997e6fdd82f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/107/regulation/2) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-434215e717762472dfa60fb290f3fb69]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/107/regulation/2/1) inserted (1.12.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/1115)](https://www.legislation.gov.uk/uksi/2024/1115), [regs. 2(1)(f)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/2/1/f), [7(a)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/7/a)
+[^c-434215e717762472dfa60fb290f3fb69]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/107/regulation/2/1) inserted (1.12.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/1115)](https://www.legislation.gov.uk/uksi/2024/1115), [regs. 2(1)(f)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/2/1/f), [7(a)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/7/a)
 
 [^f00003]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). FSMA 2000 means the Financial Services and Markets Act 2000; see section 80 of the Financial Services and Markets Act 2023.
 
-[^key-6224d7205889231ad9ad64fb814e1dd6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/107/regulation/2/1) inserted (1.12.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/1115)](https://www.legislation.gov.uk/uksi/2024/1115), [regs. 2(1)(f)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/2/1/f), [7(b)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/7/b)
+[^c-6224d7205889231ad9ad64fb814e1dd6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/107/regulation/2/1) inserted (1.12.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/1115)](https://www.legislation.gov.uk/uksi/2024/1115), [regs. 2(1)(f)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/2/1/f), [7(b)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/7/b)
 
 [^M_F_3b3fd462-11a1-4da5-a715-061ac759ad47]: Textual amendment: Words in reg. 2(1) inserted (1.12.2024) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/1115)](https://www.legislation.gov.uk/uksi/2024/1115), [regs. 2(1)(f)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/2/1/f), [7(c)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/7/c)
 
@@ -1123,25 +1123,25 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00010]: Footnote: EUR 2014/909. Article 16 was amended by [S.I. 2018/1320](https://www.legislation.gov.uk/uksi/2018/1320).
 
-[^key-c3c8a2d38efe6f91079f701658e081ab]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/107/regulation/3) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-c3c8a2d38efe6f91079f701658e081ab]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/107/regulation/3) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-e484a866cbc21c37f59353c204d46cca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/107/regulation/4) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-e484a866cbc21c37f59353c204d46cca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/107/regulation/4) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-50e925742b2f2d9f7c924e07f5c5f11c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/107/regulation/5) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-50e925742b2f2d9f7c924e07f5c5f11c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/107/regulation/5) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-3975a8cc64636a0b72ebd2207596b325]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/107/regulation/6) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-3975a8cc64636a0b72ebd2207596b325]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/107/regulation/6) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-30b3aa9a7ad5b593e86c83f99895e14c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/107/regulation/7) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-30b3aa9a7ad5b593e86c83f99895e14c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/107/regulation/7) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-302e787f40a63f8a1804fdcdc21f0a01]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/107/regulation/8) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-302e787f40a63f8a1804fdcdc21f0a01]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/107/regulation/8) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-e0ce67f7841db920d3d5cc0d3d820c03]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/107/regulation/9) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-e0ce67f7841db920d3d5cc0d3d820c03]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/107/regulation/9) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-bb30fd3912cba58b300158a8bc8495f6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/107/regulation/10) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-bb30fd3912cba58b300158a8bc8495f6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/107/regulation/10) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-eeba46f4a171722b4f88ec178cc525c8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/107/regulation/11) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-eeba46f4a171722b4f88ec178cc525c8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/107/regulation/11) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-ceabf0192a00badc00e0306cfda040e1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/107/regulation/12) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-ceabf0192a00badc00e0306cfda040e1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/107/regulation/12) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00011]: Footnote: Section 312E was inserted by section 33 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and amended by section 11(5) of the Financial Services and Markets Act 2023 and [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064) and [2019/622](https://www.legislation.gov.uk/uksi/2019/622) (as amended by 2020/646).
 
@@ -1153,112 +1153,112 @@ A de minimis impact assessment of the effect of this instrument is available fro
 
 [^f00015]: Footnote: Section 169(1) was amended by paragraph 9 of Schedule 12 to the Financial Services Act 2012.
 
-[^key-dad94bc78704fac1d6f689367dd344a1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/107/regulation/13) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-dad94bc78704fac1d6f689367dd344a1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/107/regulation/13) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00016]: Footnote: Section 55Y was inserted by section 11 of the Financial Services Act 2012 and was amended by paragraph 10 of Schedule 5 to the Financial Services and Markets Act 2023.
 
-[^key-fc2be652a3b0d3e559c8af6f456f68e5]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/107/regulation/14) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-fc2be652a3b0d3e559c8af6f456f68e5]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/107/regulation/14) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-baa59eb724ea65a78602d7f3ae731625]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/107/regulation/15) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-baa59eb724ea65a78602d7f3ae731625]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/107/regulation/15) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00017]: Footnote: Section 1B was inserted by section 6 of the Financial Services Act 2012 and amended by section 25 of the Financial Services and Markets Act 2023 and [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115) and [1330](https://www.legislation.gov.uk/uksi/2018/1330).
 
-[^key-0acb35dd9b69811fb643c8bebbe6aa16]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/107/regulation/16) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-0acb35dd9b69811fb643c8bebbe6aa16]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/107/regulation/16) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00018]: Footnote: Section 1L was inserted by section 6 of the Financial Services Act 2012 and amended by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773) and [2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-01dddc0750526346a21ef1a973276aba]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/107/regulation/17) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-01dddc0750526346a21ef1a973276aba]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/107/regulation/17) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00019]: Footnote: Part 9 was amended by section 23 of the Financial Services Act 2012, section 4 of the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), paragraph 83 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 49 of the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), [2013/1388](https://www.legislation.gov.uk/uksi/2013/1388), [2014/3329](https://www.legislation.gov.uk/uksi/2014/3329), [2016/680](https://www.legislation.gov.uk/uksi/2016/680), [2017/1064](https://www.legislation.gov.uk/uksi/2017/1064) and [2021/739](https://www.legislation.gov.uk/uksi/2021/739).
 
-[^key-dc688b21659d7dcacf9fd073c6fe6458]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/107/regulation/18) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-dc688b21659d7dcacf9fd073c6fe6458]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/107/regulation/18) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00020]: Footnote: Part 11 was amended by paragraph 54 of Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), paragraph 33 of Schedule 7 to the Counter Terrorism Act [2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), section 18 of and Schedule 2 to the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), Schedule 12 to and paragraph 8 of Schedule 18 to the Financial Services Act 2012, paragraphs 36 and 37 of Schedule 2 to the Bank of England and Financial Services Act [2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), paragraph 9 of Schedule 2 to the Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), paragraphs 5 to 9 of Schedule 2 and paragraph 4 of Schedule 9 to the Financial Services Act 2021, paragraph 8 of Schedule 10 to the Financial Services and Markets Act 2023, [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [2005/1433](https://www.legislation.gov.uk/uksi/2005/1433), [2007/126](https://www.legislation.gov.uk/uksi/2007/126), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2012/2554](https://www.legislation.gov.uk/uksi/2012/2554), [2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [2015/575](https://www.legislation.gov.uk/uksi/2015/575), [2016/680](https://www.legislation.gov.uk/uksi/2016/680), [2019/632](https://www.legislation.gov.uk/uksi/2019/632) (as amended by [2020/1301](https://www.legislation.gov.uk/uksi/2020/1301)), [2021/671](https://www.legislation.gov.uk/uksi/2021/671), [2022/163](https://www.legislation.gov.uk/uksi/2022/163) and [466](https://www.legislation.gov.uk/uksi/2022/466). There are other amendments but none is relevant.
 
-[^key-0e599ef517249385501816d984f22acb]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/107/regulation/19) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-0e599ef517249385501816d984f22acb]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/107/regulation/19) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00021]: Footnote: Chapter 3B of Part 18 was inserted by section 33 of the Financial Services Act 2012 and amended by section 11(5) of the Financial Services and Markets Act 2023 and [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064) and [2019/622](https://www.legislation.gov.uk/uksi/2019/622) (as amended by [2020/646](https://www.legislation.gov.uk/uksi/2020/646)).
 
-[^key-0a860044553cb6eef321478394e30372]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/107/regulation/20) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-0a860044553cb6eef321478394e30372]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/107/regulation/20) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00022]: Footnote: Section 342 was amended by paragraph 4 of Schedule 13 to the Financial Services Act 2012 and [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [2019/632](https://www.legislation.gov.uk/uksi/2019/632). Section 343 was amended by paragraph 5 of Schedule to the Financial Services Act 2012 and [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632). Section 344 was amended by paragraph 6 of Schedule 13 to the Financial Services Act 2012.
 
-[^key-524fd1d05ba8525685e34d5e2b566fda]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/107/regulation/21) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-524fd1d05ba8525685e34d5e2b566fda]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2024/107/regulation/21) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00023]: Footnote: Section 348 was amended by paragraph 26 of Schedule 2 to the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), paragraph 18 of Schedule 12 to the Financial Services Act 2012, paragraph 5 of Schedule 8 to the Financial Services (Banking Reform) Act 2013, paragraph 45 of Schedule 2 to the Bank of England and Financial Services Act 2016, paragraph 9 of Schedule 12 to the Financial Services and Markets Act 2023 and [S.I. 2016/1239](https://www.legislation.gov.uk/uksi/2016/1239). Section 349 was amended by section 964 of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), paragraph 19 of Schedule 12 to the Financial Services Act 2012, [S.I. 2006/1183](https://www.legislation.gov.uk/uksi/2006/1183), [2007/1093](https://www.legislation.gov.uk/uksi/2007/1093), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [2019/681](https://www.legislation.gov.uk/uksi/2019/681). Section 352 was amended by paragraph 54 of Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-d65cb17b54d1a3c059fc2f7a2f7b3b27]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/107/regulation/22) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-d65cb17b54d1a3c059fc2f7a2f7b3b27]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/107/regulation/22) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00024]: Footnote: Part 25 was amended by paragraphs 19, 21, 23, 24 and 25 of Schedule 9 to the Financial Services Act 2012, paragraph 3 of Schedule 10 to the Financial Services (Banking Reform) Act 2013 and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [2015/1775](https://www.legislation.gov.uk/uksi/2015/1775), [2016/225](https://www.legislation.gov.uk/uksi/2016/225) and [680](https://www.legislation.gov.uk/uksi/2016/680) and [2019/632](https://www.legislation.gov.uk/uksi/2019/632). There are other amendments but none is relevant.
 
-[^key-e8bda0a6643ea20642488421deae7cbd]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/107/regulation/23) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-e8bda0a6643ea20642488421deae7cbd]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/107/regulation/23) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00025]: Footnote: Part 26 was amended by paragraph 11 of Schedule 4 to the Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23), sections 13 and 24 of and paragraphs 28 and 29 of Schedule 2 to the Financial Services Act 2010, sections 17, 18, 19 and 24 of and paragraph 37 of Schedule 8, Schedule 9 and paragraph 8 of Schedule 13 to the Financial Services Act 2012, section 4 of and Schedule 3 to the Financial Services (Banking Reform) Act 2013, paragraph 43 of Schedule 10 to the Investigatory Powers Act 2016, section 212 of the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381), [2005/1433](https://www.legislation.gov.uk/uksi/2005/1433), [2007/126](https://www.legislation.gov.uk/uksi/2007/126), [2007/1973](https://www.legislation.gov.uk/uksi/2007/1973), [2009/534](https://www.legislation.gov.uk/uksi/2009/534), [2010/22](https://www.legislation.gov.uk/uksi/2010/22) and [747](https://www.legislation.gov.uk/uksi/2010/747), [2012/916](https://www.legislation.gov.uk/uksi/2012/916), [2013/1388](https://www.legislation.gov.uk/uksi/2013/1388), [2014/2879](https://www.legislation.gov.uk/uksi/2014/2879), [2015/1755](https://www.legislation.gov.uk/uksi/2015/1755), [2016/225](https://www.legislation.gov.uk/uksi/2016/225), [2016/680](https://www.legislation.gov.uk/uksi/2016/680), [715](https://www.legislation.gov.uk/uksi/2016/715) and [1239](https://www.legislation.gov.uk/uksi/2016/1239), [2017/701](https://www.legislation.gov.uk/uksi/2017/701), [2018/135](https://www.legislation.gov.uk/uksi/2018/135) and [546](https://www.legislation.gov.uk/uksi/2018/546), [2019/632](https://www.legislation.gov.uk/uksi/2019/632) (as amended by [2020/1301](https://www.legislation.gov.uk/uksi/2020/1301)) and [1043](https://www.legislation.gov.uk/uksi/2020/1043). There are other amendments but none is relevant.
 
 [^f00026]: Footnote: Section 425A was inserted by paragraph 32 of Schedule 2 to the Financial Services Act 2010 and amended by [S.I. 2013/655](https://www.legislation.gov.uk/uksi/2013/655), [2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [2019/632](https://www.legislation.gov.uk/uksi/2019/632). There are other amendments but none is relevant.
 
-[^key-959ab3b3db0a240f1742bcd618ed2264]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/uksi/2024/107/regulation/23/6) substituted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 41(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/41/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-959ab3b3db0a240f1742bcd618ed2264]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/uksi/2024/107/regulation/23/6) substituted (19.1.2026) by [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 41(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/41/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-2b0636a1dc4b7ef5bb4b12a6deb22582]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/uksi/2024/107/regulation/23/6) omitted (19.1.2026) by virtue of [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 41(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/41/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-2b0636a1dc4b7ef5bb4b12a6deb22582]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/uksi/2024/107/regulation/23/6) omitted (19.1.2026) by virtue of [The Public Offers and Admissions to Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 41(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/41/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-8c401155e9685018158dab4044a74ec8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/107/regulation/24) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-8c401155e9685018158dab4044a74ec8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2024/107/regulation/24) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00027]: Footnote: Part 27 was amended by section 95 of and paragraphs 37, 38 and 40 of Schedule 9 to the Financial Services Act 2012 and [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) and [2016/1239](https://www.legislation.gov.uk/uksi/2016/1239). There are other amendments but none is relevant.
 
-[^key-a9df68965077cd8287b224cb242c6a95]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/107/regulation/25) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-a9df68965077cd8287b224cb242c6a95]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/107/regulation/25) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-61da525f803d57ccc6f4b0fc4ec03818]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/107/regulation/26) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-61da525f803d57ccc6f4b0fc4ec03818]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2024/107/regulation/26) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00028]: Footnote: Section 415AA was inserted by section 60 of the Financial Services and Markets Act 2023.
 
-[^key-d0165bbefe06a093d93273b04b9ba251]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2024/107/regulation/27) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-d0165bbefe06a093d93273b04b9ba251]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2024/107/regulation/27) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00029]: Footnote: Schedule 1ZA was inserted by Schedule 3 to the Financial Services Act 2012 and is amended by section 109 of, paragraph 7 of Schedule 8 to and paragraph 4 of Schedule 10 to the Financial Services (Banking Reform) Act 2013, section 29 of the Bank of England and Financial Services Act 2016, Schedule 3 of the Financial Guidance and Claims Act [2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10) and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [2018/1115](https://www.legislation.gov.uk/uksi/2018/1115). There are other amendments but none is relevant.
 
-[^key-1df6a7d3882d735455c283f13cad0f2c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2024/107/regulation/28) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-1df6a7d3882d735455c283f13cad0f2c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2024/107/regulation/28) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00030]: Footnote: [S.I. 2001/1420](https://www.legislation.gov.uk/uksi/2001/1420). There are amendments but none is relevant.
 
-[^key-ec9a85d91a25c1fed3c57ba48669009e]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2024/107/regulation/29) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-ec9a85d91a25c1fed3c57ba48669009e]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2024/107/regulation/29) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188), amended by [S.I. 2019/681](https://www.legislation.gov.uk/uksi/2019/681) (as amended by 2020/1385). There are amendments but none is relevant.
 
-[^key-92fbbe0d8afbd0d5ab2b8ee41a0eb429]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2024/107/regulation/30) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-92fbbe0d8afbd0d5ab2b8ee41a0eb429]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2024/107/regulation/30) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00032]: Footnote: [S.I. 2001/2587](https://www.legislation.gov.uk/uksi/2001/2587), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472) and [2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
 
-[^key-8af01f1588188c496c12b8d76f29cc54]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2024/107/regulation/31) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-8af01f1588188c496c12b8d76f29cc54]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2024/107/regulation/31) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-1affd578ab2c28332ae85734f0f6755a]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2024/107/regulation/32) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-1affd578ab2c28332ae85734f0f6755a]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2024/107/regulation/32) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00033]: Footnote: [S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995). Paragraph 9I was inserted by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701) and amended by [S.I. 2019/662](https://www.legislation.gov.uk/uksi/2019/662).
 
-[^key-d6a8d1e1303855210c4f7dd8386458b7]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2024/107/regulation/33) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-d6a8d1e1303855210c4f7dd8386458b7]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2024/107/regulation/33) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00034]: Footnote: [S.I. 2014/1195](https://www.legislation.gov.uk/uksi/2014/1195). Article 2(f) was inserted by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701).
 
-[^key-cf3b58dea1bcab54a16c68cbf715cab7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2024/107/regulation/34) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-cf3b58dea1bcab54a16c68cbf715cab7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2024/107/regulation/34) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00035]: Footnote: [S.I. 2014/2418](https://www.legislation.gov.uk/uksi/2014/2418). Paragraph (m) of the Schedule was inserted by [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701). There are other amendments but none is relevant.
 
-[^key-d2d3f8defb079fa07f554c8f6c38007c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2024/107/regulation/35) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-d2d3f8defb079fa07f554c8f6c38007c]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2024/107/regulation/35) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00036]: Footnote: [S.R. 1999 No. 401](https://www.legislation.gov.uk/nisr/1999/401). Paragraph (m) of the Schedule was inserted by [S.R. 2022 No. 290](https://www.legislation.gov.uk/nisr/2022/290). There are other amendments but none is relevant.
 
-[^key-74a3f05e576646f09fb5717a821d9e3e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2024/107/regulation/36) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-74a3f05e576646f09fb5717a821d9e3e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2024/107/regulation/36) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-b1369ce08f1c1297a86676eabb00a489]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2024/107/regulation/37) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-b1369ce08f1c1297a86676eabb00a489]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2024/107/regulation/37) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
 [^f00037]: Footnote: EUR 2017/565, to which there are amendments that are not relevant.
 
-[^key-86a386ba1849d6c49dd8c0513f5db91e]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2024/107/regulation/38) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-86a386ba1849d6c49dd8c0513f5db91e]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2024/107/regulation/38) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-789cecf778c8a26c45e581cd509d5ed2]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2024/107/regulation/39) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-789cecf778c8a26c45e581cd509d5ed2]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2024/107/regulation/39) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-d9c0fb1d50efc1ac9bd351de76c0a5e0]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2024/107/regulation/40) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-d9c0fb1d50efc1ac9bd351de76c0a5e0]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2024/107/regulation/40) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-4e289604aca28a6acedcf9627eaba56f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2024/107/regulation/41) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-4e289604aca28a6acedcf9627eaba56f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2024/107/regulation/41) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-76c2769fee69b18caa73b05ab7cfa671]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2024/107/regulation/42) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-76c2769fee69b18caa73b05ab7cfa671]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2024/107/regulation/42) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
 
-[^key-7c26bbc8d24db0e0f3be9ab0c751dd9c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2024/107/regulation/43) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)
+[^c-7c26bbc8d24db0e0f3be9ab0c751dd9c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2024/107/regulation/43) in force at 5.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/107/regulation/1/2)

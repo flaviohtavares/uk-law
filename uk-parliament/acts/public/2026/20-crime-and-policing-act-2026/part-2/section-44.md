@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Application of Firearms Acts to sound moderators etc[^key-235efbb86b30355bf57d6e6dc88f5182][^key-fc743cdcb41445db138fd3511d002377]
+## 44. Application of Firearms Acts to sound moderators etc[^c-235efbb86b30355bf57d6e6dc88f5182][^c-fc743cdcb41445db138fd3511d002377]
 
 *Extent: E+W+S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-235efbb86b30355bf57d6e6dc88f5182]: Commencement: S. 44 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-235efbb86b30355bf57d6e6dc88f5182]: Commencement: S. 44 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-fc743cdcb41445db138fd3511d002377]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2026/20/section/44) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/f)
+[^c-fc743cdcb41445db138fd3511d002377]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2026/20/section/44) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/f)

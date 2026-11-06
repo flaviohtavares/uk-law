@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Equivalence Decisions[^key-45ad4eb01abf5db6cdd0fe4374ded436]
+## SCHEDULE 3 — Equivalence Decisions[^c-45ad4eb01abf5db6cdd0fe4374ded436]
 
 *Extent: E+W*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Regulation 8(3)(c)
 
-**1.**[^key-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-45ad4eb01abf5db6cdd0fe4374ded436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45ad4eb01abf5db6cdd0fe4374ded436]: Textual amendment: Regulations revoked (15.3.2005) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2005 (S.I. 2005/666)](https://www.legislation.gov.uk/uksi/2005/666), [regs. 1](https://www.legislation.gov.uk/uksi/2005/666/regulation/1), [68](https://www.legislation.gov.uk/uksi/2005/666/regulation/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/666/regulation/3))
+[^c-45ad4eb01abf5db6cdd0fe4374ded436]: Textual amendment: Regulations revoked (15.3.2005) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2005 (S.I. 2005/666)](https://www.legislation.gov.uk/uksi/2005/666), [regs. 1](https://www.legislation.gov.uk/uksi/2005/666/regulation/1), [68](https://www.legislation.gov.uk/uksi/2005/666/regulation/68) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/666/regulation/3))

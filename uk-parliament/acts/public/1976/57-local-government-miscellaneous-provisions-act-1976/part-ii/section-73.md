@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Obstruction of authorised officers.[^key-202746addf02bed8ee1792b3cb97ea8b]
+## 73. Obstruction of authorised officers.[^c-202746addf02bed8ee1792b3cb97ea8b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-202746addf02bed8ee1792b3cb97ea8b]: Modification: Ss. 72-80 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-202746addf02bed8ee1792b3cb97ea8b]: Modification: Ss. 72-80 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))

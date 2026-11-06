@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.B.1A. Eligibility: transitional[^key-82d44e9384d1c02cd306293bf95725cb][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.B.1A. Eligibility: transitional[^c-82d44e9384d1c02cd306293bf95725cb][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -74,6 +74,6 @@ This is subject to the following paragraphs of this regulation.
 
 ## Annotations
 
-[^key-82d44e9384d1c02cd306293bf95725cb]: Textual amendment: [Reg. 3.B.1A](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.B.1A) substituted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2010/492/regulation/39)
+[^c-82d44e9384d1c02cd306293bf95725cb]: Textual amendment: [Reg. 3.B.1A](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.B.1A) substituted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2010/492/regulation/39)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

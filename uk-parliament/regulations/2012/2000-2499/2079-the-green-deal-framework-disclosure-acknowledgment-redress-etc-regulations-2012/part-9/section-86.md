@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Power to obtain information[^key-953ab25ea40eb32bb8201774a29ee508]
+## 86. Power to obtain information[^c-953ab25ea40eb32bb8201774a29ee508]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-953ab25ea40eb32bb8201774a29ee508]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2012/2079/regulation/86) in force at 1.10.2021, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/5)
+[^c-953ab25ea40eb32bb8201774a29ee508]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2012/2079/regulation/86) in force at 1.10.2021, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/5)

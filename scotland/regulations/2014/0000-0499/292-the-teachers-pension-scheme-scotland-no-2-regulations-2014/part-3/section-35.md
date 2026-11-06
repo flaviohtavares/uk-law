@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Application for residential benefits in kind to form part of pensionable earnings[^key-43d1348c4013e474eaacc5f4507a70bf]
+## 35. Application for residential benefits in kind to form part of pensionable earnings[^c-43d1348c4013e474eaacc5f4507a70bf]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43d1348c4013e474eaacc5f4507a70bf]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2014/292/regulation/35) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-43d1348c4013e474eaacc5f4507a70bf]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2014/292/regulation/35) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30D. Failure to answer to bail under section 30A[^key-cf0f06684ddfba8013016f7150773288][^c19219221]
+## 30D. Failure to answer to bail under section 30A[^c-cf0f06684ddfba8013016f7150773288][^c19219221]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ an arrest under this section is to be treated as an arrest for an offence.
 
 ## Annotations
 
-[^key-cf0f06684ddfba8013016f7150773288]: Modification: [Ss. 30A-30D](https://www.legislation.gov.uk/ukpga/1984/60/section/30A) applied (with modifications) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 24B(1)-(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/24B/1) (as inserted (29.6.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/18/1), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53) (with [s. 18(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/18/2)); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/1614/article/2/e)) (as amended (28.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/23) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/45/3)); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b))
+[^c-cf0f06684ddfba8013016f7150773288]: Modification: [Ss. 30A-30D](https://www.legislation.gov.uk/ukpga/1984/60/section/30A) applied (with modifications) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 24B(1)-(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/24B/1) (as inserted (29.6.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/18/1), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53) (with [s. 18(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/18/2)); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/1614/article/2/e)) (as amended (28.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/23) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/45/3)); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b))
 
 [^c19219221]: Textual amendment: Ss. 30A-30D inserted (20.1.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 4(7)](https://www.legislation.gov.uk/ukpga/2003/44/section/4/7), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 2(1)(2)(a)](https://www.legislation.gov.uk/uksi/2004/81/article/2/1/2/a)
 

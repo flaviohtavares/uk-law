@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may by regulations make provision for and in connection with requiring persons applying for licences by virtue of section 71(1)[^key-81daf3494459a1baccc9eec4245f7710] above to make contributions to the Air Travel Trust in relation to the periods for which their licences are to be issued.
+(1) The Secretary of State may by regulations make provision for and in connection with requiring persons applying for licences by virtue of section 71(1)[^c-81daf3494459a1baccc9eec4245f7710] above to make contributions to the Air Travel Trust in relation to the periods for which their licences are to be issued.
 
 (2) The regulations may, in particular, make provision—
 
@@ -37,7 +37,7 @@ summary: ''
 - (k) for requiring the CAA to publish prescribed matters in the prescribed manner;
 - (l) for creating criminal offences to be triable summarily and punishable with a fine not exceeding level 5 on the standard scale or such lower amount as is prescribed.
 
-(3) Regulations under section 71(1)[^key-624eb03965c6ae28d1b2cc4f398dc611] above may authorise the CAA—
+(3) Regulations under section 71(1)[^c-624eb03965c6ae28d1b2cc4f398dc611] above may authorise the CAA—
 
 - (a) to refuse to issue a licence to a person,
 - (b) to refuse to vary a licence held by a person, or
@@ -47,9 +47,9 @@ where that person has failed to comply with a prescribed requirement of regulati
 
 (4) Section 4 above does not apply in relation to any functions conferred on the CAA by regulations under this section.
 
-(5) In this section and section 71B below the “ **Air Travel Trust** ” means the trust (as it has effect from time to time)[^key-bdf8be38cbc589f45cd5386afd535c5c] established by that name by a deed dated 5th January 2004 and made between the Secretary of State for Transport and the persons described as the Original Trustees.
+(5) In this section and section 71B below the “ **Air Travel Trust** ” means the trust (as it has effect from time to time)[^c-bdf8be38cbc589f45cd5386afd535c5c] established by that name by a deed dated 5th January 2004 and made between the Secretary of State for Transport and the persons described as the Original Trustees.
 
-(6)[^key-41b559cb4ff3796a430c441da8860241] The Secretary of State may by regulations amend the definition of “Air Travel Trust” in subsection (5) above so that it refers, in addition to or instead of any trust for the time being referred to in that subsection, to one or more other qualifying trusts.
+(6)[^c-41b559cb4ff3796a430c441da8860241] The Secretary of State may by regulations amend the definition of “Air Travel Trust” in subsection (5) above so that it refers, in addition to or instead of any trust for the time being referred to in that subsection, to one or more other qualifying trusts.
 
 (7) A trust is a qualifying trust for the purposes of subsection (6) above if—
 
@@ -62,10 +62,10 @@ In paragraph (b) “**flight accommodation**” has the same meaning as in secti
 
 [^c19372301]: Textual amendment: Ss. 71A, 71B inserted (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 10](https://www.legislation.gov.uk/ukpga/2006/34/section/10), [14](https://www.legislation.gov.uk/ukpga/2006/34/section/14); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-81daf3494459a1baccc9eec4245f7710]: Textual amendment: Reference in s. 71A(1) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 94(5)(a)](https://www.legislation.gov.uk/ukpga/2012/19/section/94/5/a), [110(3)(b)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/b) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
+[^c-81daf3494459a1baccc9eec4245f7710]: Textual amendment: Reference in s. 71A(1) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 94(5)(a)](https://www.legislation.gov.uk/ukpga/2012/19/section/94/5/a), [110(3)(b)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/b) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
 
-[^key-624eb03965c6ae28d1b2cc4f398dc611]: Textual amendment: Reference in s. 71A(3) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 94(5)(a)](https://www.legislation.gov.uk/ukpga/2012/19/section/94/5/a), [110(3)(b)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/b) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
+[^c-624eb03965c6ae28d1b2cc4f398dc611]: Textual amendment: Reference in s. 71A(3) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 94(5)(a)](https://www.legislation.gov.uk/ukpga/2012/19/section/94/5/a), [110(3)(b)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/b) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
 
-[^key-bdf8be38cbc589f45cd5386afd535c5c]: Textual amendment: Words in s. 71A(5) inserted (16.11.2017) by [Air Travel Organisers Licensing Act 2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2017/33/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/4/2)
+[^c-bdf8be38cbc589f45cd5386afd535c5c]: Textual amendment: Words in s. 71A(5) inserted (16.11.2017) by [Air Travel Organisers Licensing Act 2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2017/33/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/4/2)
 
-[^key-41b559cb4ff3796a430c441da8860241]: Textual amendment: S. 71A(6)(7) inserted (16.11.2017) by [Air Travel Organisers Licensing Act 2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/4/2)
+[^c-41b559cb4ff3796a430c441da8860241]: Textual amendment: S. 71A(6)(7) inserted (16.11.2017) by [Air Travel Organisers Licensing Act 2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2017/33/section/4/2)

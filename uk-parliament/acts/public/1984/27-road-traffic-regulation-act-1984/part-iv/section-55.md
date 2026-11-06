@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Financial provisions relating to designation orders.[^c19184221][^c13555421][^c18761921][^c19687151][^c19976221][^c19976241][^key-ab52c2d849380f616bfab40e245fcc43][^key-fa7132b5e5e7116afe6b0a5f7dc9cbb1][^key-8c93e4aa347a63e5f4c0252f6f5bf008]
+## 55. Financial provisions relating to designation orders.[^c19184221][^c13555421][^c18761921][^c19687151][^c19976221][^c19976241][^c-ab52c2d849380f616bfab40e245fcc43][^c-fa7132b5e5e7116afe6b0a5f7dc9cbb1][^c-8c93e4aa347a63e5f4c0252f6f5bf008]
 
 *Extent: E+W*
 
@@ -85,7 +85,7 @@ summary: ''
 - “**London authority**” means Transport for London, a London borough council or the Common Council of the City of London;
 - “**the London transport strategy**” means the transport strategy prepared and published under section 142 of the Greater London Authority Act 1999.
 
-## 55. Financial provisions relating to designation orders.[^c19184231][^c13555421][^c18761921][^key-ab52c2d849380f616bfab40e245fcc43][^key-9a11a173c509973e78ff5ec1a4445e97]
+## 55. Financial provisions relating to designation orders.[^c19184231][^c13555421][^c18761921][^c-ab52c2d849380f616bfab40e245fcc43][^c-9a11a173c509973e78ff5ec1a4445e97]
 
 *Extent: S*
 
@@ -165,11 +165,11 @@ summary: ''
 
 [^c19976241]: Modification: S. 55 applied (with modifications) (W.) (22.5.2008) by [The Civil Enforcement of Parking Contraventions (General Provisions) (Wales) (No. 2) Regulations 2008 (S.I. 2008/1214)](https://www.legislation.gov.uk/uksi/2008/1214), [regs. 10](https://www.legislation.gov.uk/uksi/2008/1214/regulation/10), [11](https://www.legislation.gov.uk/uksi/2008/1214/regulation/11)
 
-[^key-ab52c2d849380f616bfab40e245fcc43]: Modification: S. 55 applied (with modifications) (W.) (25.3.2013) by [The Civil Enforcement of Road Traffic Contraventions (General Provisions) (Wales) Regulations 2013 (S.I. 2013/362)](https://www.legislation.gov.uk/uksi/2013/362), [regs. 1](https://www.legislation.gov.uk/uksi/2013/362/regulation/1), [23](https://www.legislation.gov.uk/uksi/2013/362/regulation/23)
+[^c-ab52c2d849380f616bfab40e245fcc43]: Modification: S. 55 applied (with modifications) (W.) (25.3.2013) by [The Civil Enforcement of Road Traffic Contraventions (General Provisions) (Wales) Regulations 2013 (S.I. 2013/362)](https://www.legislation.gov.uk/uksi/2013/362), [regs. 1](https://www.legislation.gov.uk/uksi/2013/362/regulation/1), [23](https://www.legislation.gov.uk/uksi/2013/362/regulation/23)
 
-[^key-fa7132b5e5e7116afe6b0a5f7dc9cbb1]: Modification: [S. 55](https://www.legislation.gov.uk/ukpga/1984/27/section/55) applied (with modifications) (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2022/71/regulation/25) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/5))
+[^c-fa7132b5e5e7116afe6b0a5f7dc9cbb1]: Modification: [S. 55](https://www.legislation.gov.uk/ukpga/1984/27/section/55) applied (with modifications) (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2022/71/regulation/25) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/5))
 
-[^key-8c93e4aa347a63e5f4c0252f6f5bf008]: Modification: [S. 55](https://www.legislation.gov.uk/ukpga/1984/27/section/55) applied (with modifications) (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2022/71/regulation/27) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/5))
+[^c-8c93e4aa347a63e5f4c0252f6f5bf008]: Modification: [S. 55](https://www.legislation.gov.uk/ukpga/1984/27/section/55) applied (with modifications) (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2022/71/regulation/27) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/5))
 
 [^c13555431]: Textual amendment: Words in [s. 55(1)](https://www.legislation.gov.uk/ukpga/1984/27/section/55/1) substituted (5.7.1993, 4.10.1993, 6.12.1993, 31.1.1994, 5.4.1994 and 4.7.1994 respectively for specified London boroughs and otherwise prosp.) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 81](https://www.legislation.gov.uk/ukpga/1991/40/section/81), [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/7/paragraph/5/2); [S.I. 1993/1461](https://www.legislation.gov.uk/uksi/1993/1461), [art. 3(1)(e)(f)](https://www.legislation.gov.uk/uksi/1993/1461/article/3/1/e/f); [S.I. 1993/2229](https://www.legislation.gov.uk/uksi/1993/2229), [art. 3(e)(f)](https://www.legislation.gov.uk/uksi/1993/2229/article/3/e/f); [S.I. 1993/2803](https://www.legislation.gov.uk/uksi/1993/2803), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/1993/2803/article/2/e/f); [S.I. 1993/3238](https://www.legislation.gov.uk/uksi/1993/3238), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/1993/3238/article/2/e/f); [S.I. 1994/81](https://www.legislation.gov.uk/uksi/1994/81), [art. 3(e)(f)](https://www.legislation.gov.uk/uksi/1994/81/article/3/e/f); [S.I. 1994/1482](https://www.legislation.gov.uk/uksi/1994/1482), [art. 2(a)](https://www.legislation.gov.uk/uksi/1994/1482/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1994/1482/schedule); [S.I. 1994/1484](https://www.legislation.gov.uk/uksi/1994/1484), [art. 2(a)](https://www.legislation.gov.uk/uksi/1994/1484/article/2/a)
 
@@ -209,7 +209,7 @@ summary: ''
 
 [^c19184231]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-9a11a173c509973e78ff5ec1a4445e97]: Modification: S. 55 modified (3.5.2017) by [The Road Traffic (Permitted Parking Area and Special Parking Area) (Angus Council) Designation Order 2017 (S.S.I. 2017/79)](https://www.legislation.gov.uk/ssi/2017/79), [arts. 1](https://www.legislation.gov.uk/ssi/2017/79/article/1), [5](https://www.legislation.gov.uk/ssi/2017/79/article/5), [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2017/79/schedule/3/paragraph/2)
+[^c-9a11a173c509973e78ff5ec1a4445e97]: Modification: S. 55 modified (3.5.2017) by [The Road Traffic (Permitted Parking Area and Special Parking Area) (Angus Council) Designation Order 2017 (S.S.I. 2017/79)](https://www.legislation.gov.uk/ssi/2017/79), [arts. 1](https://www.legislation.gov.uk/ssi/2017/79/article/1), [5](https://www.legislation.gov.uk/ssi/2017/79/article/5), [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2017/79/schedule/3/paragraph/2)
 
 [^c13555551]: Textual amendment: [S. 55(4)(d)](https://www.legislation.gov.uk/ukpga/1984/27/section/55/4/d): it is provided that the word "and" immediately preceding s. 55(4)(d) is repealed (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 282(4)](https://www.legislation.gov.uk/ukpga/1999/29/section/282/4) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2](https://www.legislation.gov.uk/uksi/2000/801/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/801/schedule)
 

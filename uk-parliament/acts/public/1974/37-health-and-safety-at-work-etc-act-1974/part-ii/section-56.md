@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Functions of authority responsible for maintaining the service.[^c7814421][^c7814432][^c20459761][^key-0fe72d9a6077d9cfd7b83aac041509d3]
+## 56. Functions of authority responsible for maintaining the service.[^c7814421][^c7814432][^c20459761][^c-0fe72d9a6077d9cfd7b83aac041509d3]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^c20459761]: Modification: [Ss. 1-59](https://www.legislation.gov.uk/ukpga/1974/37/section/1), [80-82](https://www.legislation.gov.uk/ukpga/1974/37/section/80) applied (temp.) (5.8.2009) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) Order 2001 (S.I. 2001/2127)](https://www.legislation.gov.uk/uksi/2001/2127), [arts. 8A](https://www.legislation.gov.uk/uksi/2001/2127/article/8A), [8B](https://www.legislation.gov.uk/uksi/2001/2127/article/8B) (as inserted by [S.I. 2009/1750](https://www.legislation.gov.uk/uksi/2009/1750), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/1750/article/2/3))
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
 [^c7814441]: Textual amendment: Words in [s. 56(2)](https://www.legislation.gov.uk/ukpga/1974/37/section/56/2) inserted (coming into force in accordance with art. 1(2)(3) of the amending S.I.) by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [art. 16(1)(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/16/1/3), [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/7/1) (with transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))

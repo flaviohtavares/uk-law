@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Changes relating to absent voting at elections in Great Britain.[^c9549561][^c9549571][^c20083941][^c20083991][^c20086011][^c20086031][^key-b19a54a3306c8119fc6db5b0cdcb6492][^key-c155301341eaf83ad67db6b60963a2b3][^key-27f817f015cb99630e212ac971b33ac1]
+## 12. Changes relating to absent voting at elections in Great Britain.[^c9549561][^c9549571][^c20083941][^c20083991][^c20086011][^c20086031][^c-b19a54a3306c8119fc6db5b0cdcb6492][^c-c155301341eaf83ad67db6b60963a2b3][^c-27f817f015cb99630e212ac971b33ac1]
 
 *Extent: E+W+S*
 
@@ -53,10 +53,10 @@ in relation to England, Wales and Scotland.
 
 [^c20086031]: Modification: S. 12 applied (with modifications) (W.) (24.7.2008) by [The Local Authorities (Conduct of Referendums) (Wales) Regulations 2008 (S.I. 2008/1848)](https://www.legislation.gov.uk/uksi/2008/1848), [reg. 8](https://www.legislation.gov.uk/uksi/2008/1848/regulation/8), {Sch. 4 para. 1 Table 2}
 
-[^key-b19a54a3306c8119fc6db5b0cdcb6492]: Modification: S. 12 applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums) (England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 3
+[^c-b19a54a3306c8119fc6db5b0cdcb6492]: Modification: S. 12 applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums) (England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 3
 
-[^key-c155301341eaf83ad67db6b60963a2b3]: Modification: S. 12 applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 3 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
+[^c-c155301341eaf83ad67db6b60963a2b3]: Modification: S. 12 applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 3 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
 
-[^key-27f817f015cb99630e212ac971b33ac1]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/2000/2/section/12) applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 3
+[^c-27f817f015cb99630e212ac971b33ac1]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/2000/2/section/12) applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 3
 
 [^c9549581]: Marginal citation: [1985 c. 50](https://www.legislation.gov.uk/ukpga/1985/50).

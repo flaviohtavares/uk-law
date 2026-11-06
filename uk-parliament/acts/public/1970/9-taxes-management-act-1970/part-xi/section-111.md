@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Valuation of assets: power to inspect.[^key-eb5b51b3c02fdab020fc3e99c59ff3dc]
+## 111. Valuation of assets: power to inspect.[^c-eb5b51b3c02fdab020fc3e99c59ff3dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb5b51b3c02fdab020fc3e99c59ff3dc]: Textual amendment: S. 111 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/1)
+[^c-eb5b51b3c02fdab020fc3e99c59ff3dc]: Textual amendment: S. 111 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/1)

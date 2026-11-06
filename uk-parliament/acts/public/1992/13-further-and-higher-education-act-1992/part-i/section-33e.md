@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33E. Principal powers of a sixth form college corporation[^key-1dc714bc06c48a6f744ef1dcb4317329]
+## 33E. Principal powers of a sixth form college corporation[^c-1dc714bc06c48a6f744ef1dcb4317329]
 
 *Extent: E+W+S*
 
@@ -28,9 +28,9 @@ summary: ''
 - (d) participate in the provision of secondary education at a school,
 - (e) supply goods or services in connection with their provision of education.
 
-(2) The powers conferred by subsection (1) and (in the case of a sixth form college corporation to which section 33J applies) section 33J(1A)[^key-0b8f5153878caa41c76f418ebf966309] are referred to in section 33F as the corporation's principal powers.
+(2) The powers conferred by subsection (1) and (in the case of a sixth form college corporation to which section 33J applies) section 33J(1A)[^c-0b8f5153878caa41c76f418ebf966309] are referred to in section 33F as the corporation's principal powers.
 
-(3) A sixth form college corporation may not provide education of a kind specified in subsection (1)(b), (c) or (d) unless they have consulted such local authorities[^key-5ca14e1c5c9fb4ff32ae914fdd63af76] as they consider appropriate.
+(3) A sixth form college corporation may not provide education of a kind specified in subsection (1)(b), (c) or (d) unless they have consulted such local authorities[^c-5ca14e1c5c9fb4ff32ae914fdd63af76] as they consider appropriate.
 
 (4) For the purposes of subsection (1), goods are supplied in connection with the provision of education by a sixth form college corporation if they result from—
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-0b8f5153878caa41c76f418ebf966309]: Textual amendment: Words in s. 33E(2) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/12); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-0b8f5153878caa41c76f418ebf966309]: Textual amendment: Words in s. 33E(2) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/12); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
+[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)

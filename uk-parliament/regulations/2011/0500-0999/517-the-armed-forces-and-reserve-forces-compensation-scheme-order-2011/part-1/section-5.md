@@ -51,8 +51,8 @@ summary: ''
   - (ii) no further improvement is expected; and
 - (b) “significant” where the functional limitation or restriction has an extensive effect.
 
-(8)[^key-553fbfc7ee07f7929eabac6fd9878c5e] The term “operative treatment” means surgical intervention intended to investigate or treat but excludes insertion of sutures under local anaesthetic, acupuncture, facet or other joint injection or minor dental procedure.
+(8)[^c-553fbfc7ee07f7929eabac6fd9878c5e] The term “operative treatment” means surgical intervention intended to investigate or treat but excludes insertion of sutures under local anaesthetic, acupuncture, facet or other joint injection or minor dental procedure.
 
 ## Annotations
 
-[^key-553fbfc7ee07f7929eabac6fd9878c5e]: Textual amendment: Art. 5(8) inserted (31.5.2016) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2016 (S.I. 2016/557)](https://www.legislation.gov.uk/uksi/2016/557), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/557/article/1/1), [2](https://www.legislation.gov.uk/uksi/2016/557/article/2)
+[^c-553fbfc7ee07f7929eabac6fd9878c5e]: Textual amendment: Art. 5(8) inserted (31.5.2016) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2016 (S.I. 2016/557)](https://www.legislation.gov.uk/uksi/2016/557), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/557/article/1/1), [2](https://www.legislation.gov.uk/uksi/2016/557/article/2)

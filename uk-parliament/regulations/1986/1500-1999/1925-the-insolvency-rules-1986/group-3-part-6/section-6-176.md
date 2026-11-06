@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.176. Adjournment[^key-639ec84f32c24d4f925b1f2c523250a6]
+## 6.176. Adjournment[^c-639ec84f32c24d4f925b1f2c523250a6]
 
 *Extent: E+W*
 
@@ -31,14 +31,14 @@ summary: ''
 
 (4) Where the examination is adjourned generally, the official receiver may, there and then, make application under section 279(3) (suspension of automatic discharge).
 
-(5)[^key-68a79069a004353b81150ee90b3d9de0] If, on the hearing of an application pursuant to paragraph (4), the court makes an order suspending the bankrupt’s discharge, copies of such order shall be sent by the court to the official receiver, the trustee and the bankrupt.
+(5)[^c-68a79069a004353b81150ee90b3d9de0] If, on the hearing of an application pursuant to paragraph (4), the court makes an order suspending the bankrupt’s discharge, copies of such order shall be sent by the court to the official receiver, the trustee and the bankrupt.
 
 ## Annotations
 
-[^key-639ec84f32c24d4f925b1f2c523250a6]: Commencement: [Rule 6.176](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.176) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-639ec84f32c24d4f925b1f2c523250a6]: Commencement: [Rule 6.176](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.176) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00183]: Marginal citation: \[FORM 6.59\]
 
 [^m00184]: Marginal citation: \[FORM 6.60\]
 
-[^key-68a79069a004353b81150ee90b3d9de0]: Textual amendment: Rule 6.176(5) inserted (22.3.1999) by [The Insolvency (Amendment) Rules 1999 (S.I. 1999/359)](https://www.legislation.gov.uk/uksi/1999/359), [rule 1](https://www.legislation.gov.uk/uksi/1999/359/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/359/schedule/paragraph/6)
+[^c-68a79069a004353b81150ee90b3d9de0]: Textual amendment: Rule 6.176(5) inserted (22.3.1999) by [The Insolvency (Amendment) Rules 1999 (S.I. 1999/359)](https://www.legislation.gov.uk/uksi/1999/359), [rule 1](https://www.legislation.gov.uk/uksi/1999/359/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/359/schedule/paragraph/6)

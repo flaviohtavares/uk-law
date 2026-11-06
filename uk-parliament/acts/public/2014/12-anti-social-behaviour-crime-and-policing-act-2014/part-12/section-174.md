@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Criminal Procedure Rules to apply to extradition proceedings etc[^key-3c421aa0fb89620969177d3d3b65673a]
+## 174. Criminal Procedure Rules to apply to extradition proceedings etc[^c-3c421aa0fb89620969177d3d3b65673a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c421aa0fb89620969177d3d3b65673a]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2014/12/section/174) in force at 6.10.2014 by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 4](https://www.legislation.gov.uk/uksi/2014/2454/article/4)
+[^c-3c421aa0fb89620969177d3d3b65673a]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2014/12/section/174) in force at 6.10.2014 by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 4](https://www.legislation.gov.uk/uksi/2014/2454/article/4)

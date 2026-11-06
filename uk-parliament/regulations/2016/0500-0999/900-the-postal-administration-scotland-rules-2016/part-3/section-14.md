@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Release from duty to submit statement of affairs; extension of time[^key-3591e764f978f915eb2db8b59e96527b]
+## 14. Release from duty to submit statement of affairs; extension of time[^c-3591e764f978f915eb2db8b59e96527b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3591e764f978f915eb2db8b59e96527b]: Commencement: Rule 14 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-3591e764f978f915eb2db8b59e96527b]: Commencement: Rule 14 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

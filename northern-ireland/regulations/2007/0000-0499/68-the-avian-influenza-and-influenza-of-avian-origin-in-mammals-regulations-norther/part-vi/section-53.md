@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Identification of contact premises[^key-1c263895c32340b6fac5e5334c331393]
+## 53. Identification of contact premises[^c-1c263895c32340b6fac5e5334c331393]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c263895c32340b6fac5e5334c331393]: Commencement: Reg. 53 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-1c263895c32340b6fac5e5334c331393]: Commencement: Reg. 53 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

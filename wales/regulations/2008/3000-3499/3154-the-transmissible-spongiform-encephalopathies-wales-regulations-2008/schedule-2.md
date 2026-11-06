@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — TSE monitoring[^key-6d521f35a027671148d1c98cddcbfa3f]
+## SCHEDULE 2 — TSE monitoring[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 *Extent: E+W*
 
@@ -24,70 +24,70 @@ summary: ''
 
 Regulation 5
 
-### PART 1 — Monitoring for TSE[^key-6d521f35a027671148d1c98cddcbfa3f]
+### PART 1 — Monitoring for TSE[^c-6d521f35a027671148d1c98cddcbfa3f]
 
-#### 1. Notifications for the purposes of monitoring under Article 6 of the Community TSE Regulation[^key-6d521f35a027671148d1c98cddcbfa3f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Consignment and slaughter of an over-age bovine animal[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 1. Notifications for the purposes of monitoring under Article 6 of the Community TSE Regulation[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Brain stem sampling of bovine animals[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 2. Consignment and slaughter of an over-age bovine animal[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Approval of laboratories[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 3. Brain stem sampling of bovine animals[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Slaughter of bovine animals over 30 months of age[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 4. Approval of laboratories[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Retention of products and disposal[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 5. Slaughter of bovine animals over 30 months of age[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Compensation[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 6. Retention of products and disposal[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Contents of an RMOP[^key-6d521f35a027671148d1c98cddcbfa3f]
-
-#### 8. Animal identification and separation[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 7. Compensation[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Brain stem sampling[^key-6d521f35a027671148d1c98cddcbfa3f]
+### PART 2 — Contents of an RMOP[^c-6d521f35a027671148d1c98cddcbfa3f]
+
+#### 8. Animal identification and separation[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Correlation of sample to carcase and all other parts of the body[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 9. Brain stem sampling[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Retention of carcases[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 10. Correlation of sample to carcase and all other parts of the body[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Retention of parts of the body[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 11. Retention of carcases[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Disposal before receipt of the result[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 12. Retention of parts of the body[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Other measures following sampling[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 13. Disposal before receipt of the result[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Removal of vertebral column[^key-6d521f35a027671148d1c98cddcbfa3f]
+#### 14. Other measures following sampling[^c-6d521f35a027671148d1c98cddcbfa3f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Removal of vertebral column[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d521f35a027671148d1c98cddcbfa3f]: Textual amendment: Regulations revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/uksi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/968/regulation/1/3), [24(a)](https://www.legislation.gov.uk/uksi/2018/968/regulation/24/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2018/968/regulation/25))
+[^c-6d521f35a027671148d1c98cddcbfa3f]: Textual amendment: Regulations revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/uksi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/968/regulation/1/3), [24(a)](https://www.legislation.gov.uk/uksi/2018/968/regulation/24/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2018/968/regulation/25))

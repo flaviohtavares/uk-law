@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Preservation of information etc.[^key-d3b2b3d4d74501100156b0b5e567169f]
+## 70. Preservation of information etc.[^c-d3b2b3d4d74501100156b0b5e567169f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The duty under section 69 to preserve records may be satisfied—
 
 ## Annotations
 
-[^key-d3b2b3d4d74501100156b0b5e567169f]: Commencement: S. 70 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-d3b2b3d4d74501100156b0b5e567169f]: Commencement: S. 70 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)

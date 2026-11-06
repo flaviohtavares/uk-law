@@ -50,13 +50,13 @@ Regulation 10(7)
 (8) If A is seeking to provide directed services—
 
 - (a) details of the directed services to be provided;
-- (b)[^key-579b86401e13bc6b6ec33e8d5f2a307a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-579b86401e13bc6b6ec33e8d5f2a307a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-579b86401e13bc6b6ec33e8d5f2a307a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-579b86401e13bc6b6ec33e8d5f2a307a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-579b86401e13bc6b6ec33e8d5f2a307a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-579b86401e13bc6b6ec33e8d5f2a307a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) A is not entitled to ask for a routine application to be considered, in the alternative, as an excepted application, or for an excepted application to be considered, in the alternative, as a routine application.
 
-(10) An estimate of the location of premises is only a “**best estimate**” for the purposes of sub-paragraph (7)(a)(ii) if NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] is satisfied that—
+(10) An estimate of the location of premises is only a “**best estimate**” for the purposes of sub-paragraph (7)(a)(ii) if NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] is satisfied that—
 
 - (a) it is the best estimate that A can reasonably make at the time of the application of the location of the premises; and
 - (b) its reasons for granting or refusing the application would be essentially the same if the applicant located, if the application was granted, at any location within the range of possible locations covered by the estimate.
@@ -68,7 +68,7 @@ Regulation 10(7)
 (2) If the applicant (A) is an individual or a partnership—
 
 - (a) A's or each partner's full name;
-- (b)[^key-8128efb634e476d245ba86ddd7ad42b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8128efb634e476d245ba86ddd7ad42b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) A's or each partner's date of birth;
 - (d) A's or each partner's private address and telephone number;
 - (e) a declaration that A or each partner is a registered pharmacist, if A is seeking entry in the list mentioned in regulation 10(2)(a);
@@ -123,17 +123,17 @@ Regulation 10(7)
 (7) If P is a pharmacist, details of P's—
 
 - (a) pharmaceutical qualifications (including where obtained); and
-- (b)[^key-0c165921a15a49212db531539181769e] personal work history for the previous 7 years from the date on which the application is submitted, together with a declaration by P (where it can be made, in the case of sub-paragraphs (ii) and (iii)) that—
+- (b)[^c-0c165921a15a49212db531539181769e] personal work history for the previous 7 years from the date on which the application is submitted, together with a declaration by P (where it can be made, in the case of sub-paragraphs (ii) and (iii)) that—
   - (i) the details provided are a complete and accurate account of that personal work history,
   - (ii) P has not been dismissed in that time, and if P cannot make this declaration, the reasons for being unable to do so must be covered in P’s personal work history,
   - (iii) P has not had a break of more than 6 months from work in that time, and if P cannot make this declaration, the reasons for being unable to do so must be covered in P’s personal work history, and
   - (iv) if P is an NHS chemist, or is a partner in or a director or superintendent of a NHS chemist, P or the NHS chemist in which P is a partner or of which P is a director or superintendent, has complied with the requirements of paragraph 31 of Schedule 4 and paragraph 21 of Schedule 5 that are applicable to P.
 
-(8)[^key-cede620d6956acacee5ab784b70bf745] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-cede620d6956acacee5ab784b70bf745] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) If P is, to P's knowledge, or has been subject to any investigation or proceedings that could lead or could have led to P's removal from a relevant list for a reason relating to unsuitability, fraud or efficiency of service provision, details of that investigation or those proceedings, and of any final outcome to that investigation or those proceedings.
 
-(10) If P is, to P's knowledge, or has been where the outcome was adverse, the subject of any investigation by the NHS CFA[^key-28cef5014e9e9326c3dffd92f53ebecf] (or any body that preceded it which had, or outside England which has, primary responsibility for investigating fraud in the health service) in relation to fraud.
+(10) If P is, to P's knowledge, or has been where the outcome was adverse, the subject of any investigation by the NHS CFA[^c-28cef5014e9e9326c3dffd92f53ebecf] (or any body that preceded it which had, or outside England which has, primary responsibility for investigating fraud in the health service) in relation to fraud.
 
 (11) If P has been refused inclusion in, or conditionally included in, or contingently removed or suspended from, any relevant list for a reason relating to unsuitability, fraud or efficiency of service provision, details of same.
 
@@ -174,7 +174,7 @@ details that demonstrate that P has the level of knowledge of English which, in 
 
 (6) If C1 or C2, to its knowledge, is or has been subject to any investigation or proceedings that could lead or could have led to its removal from a relevant list, details of that investigation or those proceedings, and of any final outcome to that investigation or those proceedings.
 
-(7) If C1 or C2 is, to its knowledge, or has been where the outcome was adverse, the subject of any investigation by the NHS CFA[^key-a6b6ef4b5b4d09c5936719c2a1d9f383] (or any body that preceded it which had, or outside England which has, primary responsibility for investigating fraud in the health service) in relation to fraud.
+(7) If C1 or C2 is, to its knowledge, or has been where the outcome was adverse, the subject of any investigation by the NHS CFA[^c-a6b6ef4b5b4d09c5936719c2a1d9f383] (or any body that preceded it which had, or outside England which has, primary responsibility for investigating fraud in the health service) in relation to fraud.
 
 (8) If C1 or C2 has been refused inclusion in, or conditionally included in (other than by reason of a condition imposed under Part 9), a relevant list, details of that refusal or conditional inclusion.
 
@@ -183,7 +183,7 @@ details that demonstrate that P has the level of knowledge of English which, in 
 - (a) any deferment of that application; or
 - (b) any refusal or conditional inclusion, where the refusal or conditional inclusion has not yet reached its final outcome.
 
-(10)[^key-ec0e44203b6402a07d498664c9d7bbd2] Details of any case in which an application by C1 or C2 has lapsed by virtue of regulation 35(8).
+(10)[^c-ec0e44203b6402a07d498664c9d7bbd2] Details of any case in which an application by C1 or C2 has lapsed by virtue of regulation 35(8).
 
 #### 5. Fitness information that has already been provided under pharmaceutical or local pharmaceutical services
 
@@ -196,7 +196,7 @@ details that demonstrate that P has the level of knowledge of English which, in 
   - (i) confirm to NHS England what information NHS England already has, and
   - (ii) provide the missing information.
 
-(3)[^key-fb7eea37692b88def8c995c5d3b8c8d8] Unless sub-paragraph (4) applies, information is only to be considered missing for the purposes of sub-paragraph (2)(b) if, having regard to the fact that the fitness of the applicant to be included in a pharmaceutical list has already been established (or if the applicant’s fitness is under investigation, that investigation is being taken forward separately), it is nevertheless material to the consideration of the application.
+(3)[^c-fb7eea37692b88def8c995c5d3b8c8d8] Unless sub-paragraph (4) applies, information is only to be considered missing for the purposes of sub-paragraph (2)(b) if, having regard to the fact that the fitness of the applicant to be included in a pharmaceutical list has already been established (or if the applicant’s fitness is under investigation, that investigation is being taken forward separately), it is nevertheless material to the consideration of the application.
 
 (4) Information is to be considered missing for the purposes of sub-paragraph (2)(b) if it has previously been provided to NHS England or a Primary Care Trust by the applicant, but more than 7 years prior to the date of the application.
 
@@ -207,7 +207,7 @@ details that demonstrate that P has the level of knowledge of English which, in 
 
 is to be considered as missing information for the purposes of sub-paragraph (2)(b).
 
-#### 5A. Updating of information about or relating to a superintendent[^key-fa9b2901d88fb68bd68125880b7578a8]
+#### 5A. Updating of information about or relating to a superintendent[^c-fa9b2901d88fb68bd68125880b7578a8]
 
 (1) Where, in the case of a body corporate making an application for inclusion in a pharmaceutical list, there is a change to the superintendent of the body corporate before the applicant is included in a pharmaceutical list or the application cannot be further proceeded with, the applicant must update the application as soon as is reasonably practicable with—
 
@@ -229,8 +229,8 @@ NHS England may redetermine the application, but only for the purpose of refusin
 
 If, as regards a routine or excepted application—
 
-- (a)[^key-9c4b7125cc8d1266648da68d7305e218] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-9c4b7125cc8d1266648da68d7305e218] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9c4b7125cc8d1266648da68d7305e218] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9c4b7125cc8d1266648da68d7305e218] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the premises which the applicant (A) is seeking to be listed in relation to A are already listed chemist premises or are adjacent to or in close proximity to such premises, A must include with the application details that explain why A believes the application should not be refused pursuant to regulation 31.
 
@@ -239,7 +239,7 @@ the premises which the applicant (A) is seeking to be listed in relation to A ar
 (1) If an applicant (A) is making a routine application and is seeking to satisfy NHS England that granting that application would meet a need for pharmaceutical services, or secure improvements to or better access to pharmaceutical services, in circumstances where—
 
 - (a) that need, those improvements or that better access has or have been identified in the pharmaceutical needs assessment of the relevant HWB (or Primary Care Trust), A must include in that application details that explain how A intends to meet that need, or secure those improvements or that better access (in whole or in part); or
-- (b) that need, those improvements or that better access has or have not been identified in the pharmaceutical needs assessment of the relevant HWB (or Primary Care Trust),[^key-0ef9cada2cef4993b1b5ca301b122583] A must include in that application, details that explain A's belief that regulation 18(1)(b) is satisfied in relation to that application.
+- (b) that need, those improvements or that better access has or have not been identified in the pharmaceutical needs assessment of the relevant HWB (or Primary Care Trust),[^c-0ef9cada2cef4993b1b5ca301b122583] A must include in that application, details that explain A's belief that regulation 18(1)(b) is satisfied in relation to that application.
 
 (2) Where an applicant includes information in an application pursuant to paragraph (a) but not paragraph (b) of sub-paragraph (1), NHS England must not consider whether regulation 18(1)(b) applies in relation to that application when it determines that application.
 
@@ -252,7 +252,7 @@ If the applicant (A) is making an excepted application, A must include in that a
 
 #### 9. Undertakings
 
-(1)[^key-56004cf17fa5c9e6f61bfcb9af0c7243] An applicant (A) must provide the following undertakings—
+(1)[^c-56004cf17fa5c9e6f61bfcb9af0c7243] An applicant (A) must provide the following undertakings—
 
 - (a) an undertaking to notify NHS England within 7 days of any material changes to the information provided in the application that occur before—
   - (i) the application is withdrawn,
@@ -268,13 +268,13 @@ If the applicant (A) is making an excepted application, A must include in that a
   whichever is the latest of these events to take place;
 - (c) if A is seeking inclusion in a pharmaceutical list or (if A is already listed in that list) the listing of premises in relation to A that are not already listed in relation to A, an undertaking—
   - (i) to comply with all the obligations that are to be their terms of service under regulation 11 if the application is granted, and
-  - (ii) in particular, in relation to any proposed pharmacy premises, to provide all the services and perform all the activities at or from[^key-04da089e775b866fb932782358221e20] those premises that are required under the terms of service to be provided or performed as or in connection with essential services; and
+  - (ii) in particular, in relation to any proposed pharmacy premises, to provide all the services and perform all the activities at or from[^c-04da089e775b866fb932782358221e20] those premises that are required under the terms of service to be provided or performed as or in connection with essential services; and
 - (d) if A is seeking to provide directed services an undertaking—
-  - (i) that A will provide the directed services mentioned in the application, if NHS England does commission the services at or[^key-1cbabe3baee0b6dd4f87e6771d856a76] from A within 3 years of the date of either the grant of the application or, if later, the listing in relation to the applicant of the premises to which the application relates,
+  - (i) that A will provide the directed services mentioned in the application, if NHS England does commission the services at or[^c-1cbabe3baee0b6dd4f87e6771d856a76] from A within 3 years of the date of either the grant of the application or, if later, the listing in relation to the applicant of the premises to which the application relates,
   - (ii) if the services are commissioned by NHS England, that A will provide the services in accordance with an agreed service specification, and
   - (iii) A's agreement to a service specification will not be unreasonably withheld.
 
-(2)[^key-5c6baa0ae80a7df26f1424eafecb78cd] In relation to a consolidation application, if NHS England intends to commission from the applicant enhanced services provided at or from the closing premises, and notifies the applicant of that intention, the applicant is required to provide the undertaking referred to in sub-paragraph (1)(d) in relation to those services, whether or not the applicant is on notice of that intention at the time the applicant makes the consolidation application.
+(2)[^c-5c6baa0ae80a7df26f1424eafecb78cd] In relation to a consolidation application, if NHS England intends to commission from the applicant enhanced services provided at or from the closing premises, and notifies the applicant of that intention, the applicant is required to provide the undertaking referred to in sub-paragraph (1)(d) in relation to those services, whether or not the applicant is on notice of that intention at the time the applicant makes the consolidation application.
 
 #### 10. Nature of details to be supplied
 
@@ -314,7 +314,7 @@ Where, pursuant to this Part, a person is required to provide details, that obli
 
 (2) If A fails to comply with a request under sub-paragraph (1) within a period reasonably specified by NHS England under that sub-paragraph, the application is to be treated as withdrawn.
 
-#### 13. Functions of NHS England in relation to fitness information relevant to applications: aggregation of information[^key-2c84abffae93388876847397ecb57b69]
+#### 13. Functions of NHS England in relation to fitness information relevant to applications: aggregation of information[^c-2c84abffae93388876847397ecb57b69]
 
 Where an applicant (A) is relying on paragraph 5(1), NHS England must ensure that the information that it holds about A is aggregated in such a way that it is able to make a reasonable determination as to whether the application should be refused or deferred under regulation 33 or 34.
 
@@ -348,7 +348,7 @@ NHS England, having received a routine application where the applicant is seekin
 An application is a “**notifiable application**” for the purposes of this Schedule if—
 
 - (a) it is a routine application; or
-- (b) it is an excepted application pursuant to regulation 24, 25, 26(2) or 26A[^key-7ef37d610bd07cdb597586c12340529d],
+- (b) it is an excepted application pursuant to regulation 24, 25, 26(2) or 26A[^c-7ef37d610bd07cdb597586c12340529d],
 
 and NHS England has not decided to dispense with the notification pursuant to paragraphs 15 to 17.
 
@@ -404,9 +404,9 @@ and NHS England has not decided to dispense with the notification pursuant to pa
 
   who, in the opinion of NHS England, has a significant interest in the outcome of the application.
 
-(4) Those notified under sub-paragraphs (1) to (3) may make representations in writing about the application that is the subject of the notification to NHS England, provided they do so within 45 days of the date on which notice of the application was given to them , or within 30 days in the case of applications pursuant to regulation 26A[^key-634e165b19b10c4c5a265afb2ba219ab].
+(4) Those notified under sub-paragraphs (1) to (3) may make representations in writing about the application that is the subject of the notification to NHS England, provided they do so within 45 days of the date on which notice of the application was given to them , or within 30 days in the case of applications pursuant to regulation 26A[^c-634e165b19b10c4c5a265afb2ba219ab].
 
-(5)[^key-3365c958ec60792dda928e59ee72233b] A relevant HWB that is notified under sub-paragraph (1)(h) in relation to a consolidation application must make representations in writing about the application under sub-paragraph (4) which (in addition to any other matter about which they may wish to make representations) indicate whether, if the application were granted, in the opinion of the relevant HWB the proposed removal of premises from its pharmaceutical list would or would not create a gap in pharmaceutical services provision that could be met by a routine application—
+(5)[^c-3365c958ec60792dda928e59ee72233b] A relevant HWB that is notified under sub-paragraph (1)(h) in relation to a consolidation application must make representations in writing about the application under sub-paragraph (4) which (in addition to any other matter about which they may wish to make representations) indicate whether, if the application were granted, in the opinion of the relevant HWB the proposed removal of premises from its pharmaceutical list would or would not create a gap in pharmaceutical services provision that could be met by a routine application—
 
 - (a) to meet a current or future need for pharmaceutical services; or
 - (b) to secure improvements, or better access, to pharmaceutical services.
@@ -459,11 +459,11 @@ NHS England must withhold that information from P if it considers that the full 
 
 (1) In the case of a routine or excepted application by a person (A) for inclusion in a pharmaceutical list who is not already included in it, NHS England must, prior to determining the application—
 
-- (a) check with the NHS CFA[^key-1c6896ce97056a69fdabd0d4b5b59f8b] whether A, and if A is a body corporate whether any director or superintendent of A, has any record of, or is under investigation for, fraud;
+- (a) check with the NHS CFA[^c-1c6896ce97056a69fdabd0d4b5b59f8b] whether A, and if A is a body corporate whether any director or superintendent of A, has any record of, or is under investigation for, fraud;
 - (b) check with the Secretary of State whether the Secretary of State holds any information about A, and if A is a body corporate about any director or superintendent of A, that is relevant to its consideration of whether—
   - (i) the application should be refused or deferred under regulations 33 or 34, or
   - (ii) conditions should be imposed under regulation 35;
-- (c)[^key-8cb91c65a7b88382f392bdd19d65f4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-8cb91c65a7b88382f392bdd19d65f4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In such a case, having considered whether—
 
@@ -602,7 +602,7 @@ As regards any routine or excepted application—
 (3) As regards any excepted application, once it has determined the application, NHS England must, as soon as is practicable, give notice of its decision to—
 
 - (a) in the case of an application pursuant to regulation 23, the applicant;
-- (b) in the case of an application pursuant to regulation 24, 25, 26(2) or 26A[^key-7a45036705cf0e8c257041bb259abdf0]—
+- (b) in the case of an application pursuant to regulation 24, 25, 26(2) or 26A[^c-7a45036705cf0e8c257041bb259abdf0]—
   - (i) the applicant,
   - (ii) any Local Pharmaceutical Committee whose area includes the premises or location to which the application relates,
   - (iii) any Local Medical Committee whose area includes the premises or location to which the application relates,
@@ -648,16 +648,16 @@ As regards any routine or excepted application—
 
 #### 29. Template notice of commencement to be included with a notice of decision
 
-Subject to paragraph 29A,[^key-32ad5fb0cf666e2248e02c1bd3e6b1a2] NHS England must send with a notice of decision under paragraph 28 in respect of the grant of an application a template of a notice of commencement, for the applicant to send to it under paragraph 34, in which the applicant is to provide the following information (some of which NHS England may have included in the template that it sends)—
+Subject to paragraph 29A,[^c-32ad5fb0cf666e2248e02c1bd3e6b1a2] NHS England must send with a notice of decision under paragraph 28 in respect of the grant of an application a template of a notice of commencement, for the applicant to send to it under paragraph 34, in which the applicant is to provide the following information (some of which NHS England may have included in the template that it sends)—
 
 - (a) the address of the premises to which the application relates;
-- (b) the services that are to be provided at or[^key-ef741f0c73fae23356b98a941ee11137] from those premises;
+- (b) the services that are to be provided at or[^c-ef741f0c73fae23356b98a941ee11137] from those premises;
 - (c) the date of the grant of the application;
-- (d) a declaration with regard to when the applicant intends to commence the provision of those services at or from[^key-157e535ed34fdf3a362bfb262e131c6d] those premises;
+- (d) a declaration with regard to when the applicant intends to commence the provision of those services at or from[^c-157e535ed34fdf3a362bfb262e131c6d] those premises;
 - (e) in the case of pharmacy premises, the registration number for those premises with the General Pharmaceutical Council; and
 - (f) a signature on behalf of the applicant and the date of the notice.
 
-#### 29A. Template notice of consolidation[^key-e197468445183f872f460d7694d3a0da]
+#### 29A. Template notice of consolidation[^c-e197468445183f872f460d7694d3a0da]
 
 (1) This paragraph applies as regards a notice of decision under paragraph 28 in respect of a consolidation application that is granted, in relation to the person who is—
 
@@ -667,9 +667,9 @@ Subject to paragraph 29A,[^key-32ad5fb0cf666e2248e02c1bd3e6b1a2] NHS England mus
 (2) NHS England must send with the notice of decision sent to P1 or P2 a template of a notice of consolidation, for P1 or P2 to send to it under paragraph 34A, in which P1 or P2 is to provide the following information (some of which NHS England may have included in the template that it sends)—
 
 - (a) the date of the grant of the application;
-- (b) the address of the premises at or from[^key-31d97e8b80c7383c074582dc2f66ddf1] which pharmaceutical services are no longer to be provided (“the closing premises”);
-- (c) the date on which pharmaceutical services are to cease being provided at or from[^key-8b1eb10d9b15fd402fb63c98b5c1d0a9] the closing premises;
-- (d) the address of the premises at or from[^key-722b37e824e6734d605601bb543eacd6] which pharmaceutical services are to continue to be provided (“the continuing premises”);
+- (b) the address of the premises at or from[^c-31d97e8b80c7383c074582dc2f66ddf1] which pharmaceutical services are no longer to be provided (“the closing premises”);
+- (c) the date on which pharmaceutical services are to cease being provided at or from[^c-8b1eb10d9b15fd402fb63c98b5c1d0a9] the closing premises;
+- (d) the address of the premises at or from[^c-722b37e824e6734d605601bb543eacd6] which pharmaceutical services are to continue to be provided (“the continuing premises”);
 - (e) the registration number of the continuing premises with the General Pharmaceutical Council;
 - (f) confirmation that reasonable steps have been taken to advise any patients who have nominated the person listed in relation to the closing premises as their nominated dispensing contractor that their nomination will transfer to the person listed in relation to the continuing premises, if the Electronic Prescription Service is available through those premises, unless they change their nomination;
 - (g) the date on which the consolidation is to take effect;
@@ -730,7 +730,7 @@ whichever is the latest.
 
 (3) A notification under sub-paragraph (2) is only valid if NHS England is satisfied that the premises are at a location that is within the range of possible locations covered by the estimate referred to in sub-paragraph (1)(b).
 
-(3A)[^key-0b9179ac6c05cb761a6e7b03570e9a4b] For the purposes of paragraph (3), premises are not within the range of possible locations covered by the estimate referred to in sub-paragraph (1)(b) if the granted application would have been refused pursuant to regulation 31 if the address of those premises had been included in that application instead of the estimate.
+(3A)[^c-0b9179ac6c05cb761a6e7b03570e9a4b] For the purposes of paragraph (3), premises are not within the range of possible locations covered by the estimate referred to in sub-paragraph (1)(b) if the granted application would have been refused pursuant to regulation 31 if the address of those premises had been included in that application instead of the estimate.
 
 (4) If NHS England receives a purported notification under sub-paragraph (2), it must, within 14 days of receiving that purported notification—
 
@@ -763,7 +763,7 @@ whichever is the latest.
   - (ii) in a controlled locality that is part of the area of a neighbouring HWB of the relevant HWB, where that controlled locality is within 1.6 kilometres of the new address; nor
 - (b) cause significant detriment to proper planning in respect of the provision of pharmaceutical services in the area of the relevant HWB.
 
-(3A)[^key-169ccf662f0b6d705cffe3bd01f7cb7e] A notification under sub-paragraph (2) is not valid if the granted application would have been refused pursuant to regulation 31 if the address of those premises had been included in that application instead of the address mentioned in sub-paragraph (1)(b).
+(3A)[^c-169ccf662f0b6d705cffe3bd01f7cb7e] A notification under sub-paragraph (2) is not valid if the granted application would have been refused pursuant to regulation 31 if the address of those premises had been included in that application instead of the address mentioned in sub-paragraph (1)(b).
 
 (4) If NHS England receives a purported notification under sub-paragraph (2), it must, within 14 days of receiving that purported notification—
 
@@ -800,7 +800,7 @@ may appeal against a decision by NHS England to accept the purported notificatio
 
 sub-paragraph (2) applies.
 
-(2) Where this sub-paragraph applies, NHS England may grant the application subject to a condition that pharmaceutical services are not provided at or from[^key-83a87f1cc9cf5a82bb3a9c986ddd5dcb] the listed chemist premises to which the application relates (or at or from[^key-5ad5402e5072d8daf218c3c55741d686] any premises to which the business relocates) until—
+(2) Where this sub-paragraph applies, NHS England may grant the application subject to a condition that pharmaceutical services are not provided at or from[^c-83a87f1cc9cf5a82bb3a9c986ddd5dcb] the listed chemist premises to which the application relates (or at or from[^c-5ad5402e5072d8daf218c3c55741d686] any premises to which the business relocates) until—
 
 - (a) some or all of the future circumstances, as a consequence of which the application was granted, have arisen; or
 - (b) a specified date (having regard to when some or all of the future circumstances, as a consequence of which the application was granted, are likely to arise).
@@ -816,28 +816,28 @@ sub-paragraph (2) applies.
 
 #### 34. Taking effect of listing decisions: general
 
-(1) Except where paragraph 34A applies,[^key-9380664834a59b7fe96b9c93feb7a7ae] as regards any application—
+(1) Except where paragraph 34A applies,[^c-9380664834a59b7fe96b9c93feb7a7ae] as regards any application—
 
 - (a) for inclusion in a pharmaceutical list by a person who is not already included in it; or
 - (b) by a person who is included in a pharmaceutical list and who is seeking—
-  - (i) to open, within the area of the relevant HWB, additional premises at or[^key-63a2939596cef669de4f982ee7a9a5c1] from which to provide the same or different pharmaceutical services,
-  - (ii) to relocate to different premises, and at or from[^key-a6946d9b39d41d8ddca3ffbe1f9df238] those premises to provide the same or different pharmaceutical services, or
-  - (iii) to provide, at or[^key-ea024e9b991a2c7f0d0975a63f769766] from the person's listed chemist premises, services that are in addition to those already listed in relation to that person,
+  - (i) to open, within the area of the relevant HWB, additional premises at or[^c-63a2939596cef669de4f982ee7a9a5c1] from which to provide the same or different pharmaceutical services,
+  - (ii) to relocate to different premises, and at or from[^c-a6946d9b39d41d8ddca3ffbe1f9df238] those premises to provide the same or different pharmaceutical services, or
+  - (iii) to provide, at or[^c-ea024e9b991a2c7f0d0975a63f769766] from the person's listed chemist premises, services that are in addition to those already listed in relation to that person,
 
 if the application is granted, paragraph (2) applies.
 
-(2) Subject to paragraph 35, NHS England may only change a pharmaceutical list to give effect to that decision if the successful applicant (P) gives NHS England a valid notice of commencement, in the correct form, informing NHS England that P is to commence the provision of the services in respect of which the application was made and at or from[^key-970c8b5ebe75544b15ea89bc7d69351d] the premises to which the application related [^key-fc546dfb122a8d7b6ad41230f310b5b9]....
+(2) Subject to paragraph 35, NHS England may only change a pharmaceutical list to give effect to that decision if the successful applicant (P) gives NHS England a valid notice of commencement, in the correct form, informing NHS England that P is to commence the provision of the services in respect of which the application was made and at or from[^c-970c8b5ebe75544b15ea89bc7d69351d] the premises to which the application related [^c-fc546dfb122a8d7b6ad41230f310b5b9]....
 
 (3) A notice of commencement is in the correct form if it—
 
 - (a) includes the information required under paragraph 29; and
 - (b) is in the same format as the version of the notice sent by NHS England with the notice of decision under paragraph 28.
 
-(3A)[^key-4b357fdb586aa2a011187d1eae7a6a90] A notice of commencement is invalid unless it is given to NHS England no fewer than 30 days prior to the date on which the provision of services is to commence, unless prior to the notified date NHS England has agreed with P a shorter period of prior notice.
+(3A)[^c-4b357fdb586aa2a011187d1eae7a6a90] A notice of commencement is invalid unless it is given to NHS England no fewer than 30 days prior to the date on which the provision of services is to commence, unless prior to the notified date NHS England has agreed with P a shorter period of prior notice.
 
-(3B) P must notify NHS England in writing as soon as reasonably practicable of any change to the date included in a notice of commencement as the date on which the provision of services is to commence, and must do so in advance of the date on which the provision of services is to commence[^key-123de0f87895a7f6210b751d08253ad1].
+(3B) P must notify NHS England in writing as soon as reasonably practicable of any change to the date included in a notice of commencement as the date on which the provision of services is to commence, and must do so in advance of the date on which the provision of services is to commence[^c-123de0f87895a7f6210b751d08253ad1].
 
-(3C)[^key-fae912f2c711a0d340f8410d265c7761] A notice of commencement is invalid if the date included in it (on or after 25th May 2023), whether when the notice is given or after a change in accordance with sub-paragraph (3B), as the date on which the provision of services is to commence is more than 60 days after the end of the period within which the notice, if it is to be valid, must be sent, as determined in accordance with sub-paragraph (4).
+(3C)[^c-fae912f2c711a0d340f8410d265c7761] A notice of commencement is invalid if the date included in it (on or after 25th May 2023), whether when the notice is given or after a change in accordance with sub-paragraph (3B), as the date on which the provision of services is to commence is more than 60 days after the end of the period within which the notice, if it is to be valid, must be sent, as determined in accordance with sub-paragraph (4).
 
 (4) A notice of commencement is invalid unless it is sent to NHS England within—
 
@@ -846,7 +846,7 @@ if the application is granted, paragraph (2) applies.
   - (ii) that undertaking was not withdrawn,
 
   that period;
-- (b) 12 months[^key-969e8e6a166ffae1eb603d528f5f34d1] of—
+- (b) 12 months[^c-969e8e6a166ffae1eb603d528f5f34d1] of—
   - (i) unless paragraph (a) applies, the date on which P was sent the notice of NHS England’s decision under paragraph 28 granting the application,
   - (ii) if the grant was appealed by a person with third party appeal rights, the date on which that appeal is determined by the Secretary of State,
   - (iii) if, in the course of granting the application, a decision is taken to impose a condition in accordance with regulation 35 and that condition is appealed by P, the date on which that appeal is determined by the First-tier Tribunal (unless regulation 35(8) applies),
@@ -879,14 +879,14 @@ and so once a valid notice of commencement can no longer be sent in relation to 
 - (a) from a person with third party appeal rights relating to the grant to which the notice of commencement relates; or
 - (b) from a third party, in a case to which sub-paragraph (4)(c)(ii)(bb) applies.
 
-(6)[^key-37c4c18c4037a6685041778ba00643e9] In any case where a longer period allowed by virtue of sub-paragraph (4)(c)—
+(6)[^c-37c4c18c4037a6685041778ba00643e9] In any case where a longer period allowed by virtue of sub-paragraph (4)(c)—
 
 - (a) began in the 3 months prior to the coming into force of the Coronavirus Regulations, that longer period is extended so that it ends on the day that is 6 months after the day on which the Coronavirus Regulations came into force; and
 - (b) ended in the 6 months prior to the coming into force of the Coronavirus Regulations, that longer period is treated as having not ended and is extended so that it ends on the day that is 6 months after the day on which the Coronavirus Regulations came into force.
 
 (7) In this paragraph, “the Coronavirus Regulations” means the National Health Service (Coronavirus) (Charges and Further Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020.
 
-#### 34A. Taking effect of decisions relating to business consolidations[^key-691259f67b47c75d15f36b047fcd2515]
+#### 34A. Taking effect of decisions relating to business consolidations[^c-691259f67b47c75d15f36b047fcd2515]
 
 (1) This paragraph applies as regards a consolidation application that is granted, in relation to the person who is—
 
@@ -949,20 +949,20 @@ may, if the grant has not lapsed and is not under appeal to the Secretary of Sta
 - (b) that a notification pursuant to a condition imposed by virtue of paragraph 31 is invalid;
 - (c) to refuse to accept that a notification under paragraph 32(2) is a valid notification;
 - (d) to impose or vary a condition imposed pursuant to paragraph 33;
-- (e) to refuse to allow A an extension period under paragraph 34(4)(c)(i) or 34A(4)(b)(i)[^key-a6da3516d213d934d9859b2a848b01f7]; or
+- (e) to refuse to allow A an extension period under paragraph 34(4)(c)(i) or 34A(4)(b)(i)[^c-a6da3516d213d934d9859b2a848b01f7]; or
 - (f) to give notice under paragraph 35,
 
 provided A notifies the Secretary of State with a valid notice of appeal within 30 days of the date on which A was notified of the decision that is being appealed.
 
-(2) A notice of appeal under sub-paragraph[^key-e831599716537fc2cee159336ae20af7] (1) is only valid if it includes a concise and reasoned statement of the grounds of appeal.
+(2) A notice of appeal under sub-paragraph[^c-e831599716537fc2cee159336ae20af7] (1) is only valid if it includes a concise and reasoned statement of the grounds of appeal.
 
 ## Annotations
 
-[^key-579b86401e13bc6b6ec33e8d5f2a307a]: Textual amendment: Sch. 2 para. 1(8)(b)-(d) omitted (1.10.2026) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/9/2)
+[^c-579b86401e13bc6b6ec33e8d5f2a307a]: Textual amendment: Sch. 2 para. 1(8)(b)-(d) omitted (1.10.2026) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/9/2)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-8128efb634e476d245ba86ddd7ad42b8]: Textual amendment: Sch. 2 para. 2(2)(b) omitted (1.10.2026) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2026/961/regulation/9/3)
+[^c-8128efb634e476d245ba86ddd7ad42b8]: Textual amendment: Sch. 2 para. 2(2)(b) omitted (1.10.2026) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2026/961/regulation/9/3)
 
 [^c21647341]: Marginal citation: [Section 69](https://www.legislation.gov.uk/uksi/2013/349/section/69) has been amended by the [Statute Law (Repeals) Act 1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), [Schedule 1](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1), [Part 12](https://www.legislation.gov.uk/ukpga/1993/50/part/12), and by [S.I. 1976/1213](https://www.legislation.gov.uk/uksi/1976/1213), 2007/289 and 3101 and 2010/231.
 
@@ -970,96 +970,96 @@ provided A notifies the Secretary of State with a valid notice of appeal within 
 
 [^c21647361]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 115A was inserted by the [Social Security Administration (Fraud) Act 1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47), [section 15](https://www.legislation.gov.uk/ukpga/1997/47/section/15), and amended by the [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11) (“**the 2001 Act**”), section 14. The amendments made by the 2001 Act are to be repealed by, and other amendments to section 115A are to be made by, the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [sections 113 to 115](https://www.legislation.gov.uk/ukpga/2012/5/section/113), and Schedule 14, Part 1.
 
-[^key-0c165921a15a49212db531539181769e]: Textual amendment: Sch. 2 para. 3(7)(b) substituted (25.5.2023) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2023 (S.I. 2023/479)](https://www.legislation.gov.uk/uksi/2023/479), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/479/regulation/6)
+[^c-0c165921a15a49212db531539181769e]: Textual amendment: Sch. 2 para. 3(7)(b) substituted (25.5.2023) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2023 (S.I. 2023/479)](https://www.legislation.gov.uk/uksi/2023/479), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/479/regulation/6)
 
-[^key-cede620d6956acacee5ab784b70bf745]: Textual amendment: Sch. 2 para. 3(8) omitted (1.10.2024) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/894)](https://www.legislation.gov.uk/uksi/2024/894), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/894/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2024/894/regulation/3/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2024/894/regulation/3/4))
+[^c-cede620d6956acacee5ab784b70bf745]: Textual amendment: Sch. 2 para. 3(8) omitted (1.10.2024) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/894)](https://www.legislation.gov.uk/uksi/2024/894), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/894/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2024/894/regulation/3/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2024/894/regulation/3/4))
 
-[^key-28cef5014e9e9326c3dffd92f53ebecf]: Textual amendment: Words in [Sch. 2 para. 3(10)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/3/10) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/8/2/a)
+[^c-28cef5014e9e9326c3dffd92f53ebecf]: Textual amendment: Words in [Sch. 2 para. 3(10)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/3/10) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/8/2/a)
 
 [^c21647371]: Marginal citation: Amended by [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699) and 2010/231.
 
-[^key-a6b6ef4b5b4d09c5936719c2a1d9f383]: Textual amendment: Words in [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/4/7) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/8/2/b)
+[^c-a6b6ef4b5b4d09c5936719c2a1d9f383]: Textual amendment: Words in [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/4/7) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/8/2/b)
 
-[^key-ec0e44203b6402a07d498664c9d7bbd2]: Textual amendment: [Sch. 2 para. 4(10)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/4/10) inserted (1.3.2015) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/58/regulation/6/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))
+[^c-ec0e44203b6402a07d498664c9d7bbd2]: Textual amendment: [Sch. 2 para. 4(10)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/4/10) inserted (1.3.2015) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/58/regulation/6/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))
 
-[^key-fb7eea37692b88def8c995c5d3b8c8d8]: Textual amendment: [Sch. 2 para. 5(3)-(5)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/5/3) inserted (25.5.2023) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2023 (S.I. 2023/479)](https://www.legislation.gov.uk/uksi/2023/479), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2023/479/regulation/7)
+[^c-fb7eea37692b88def8c995c5d3b8c8d8]: Textual amendment: [Sch. 2 para. 5(3)-(5)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/5/3) inserted (25.5.2023) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2023 (S.I. 2023/479)](https://www.legislation.gov.uk/uksi/2023/479), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2023/479/regulation/7)
 
-[^key-fa9b2901d88fb68bd68125880b7578a8]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/5A) inserted (1.10.2022) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2022 (S.I. 2022/930)](https://www.legislation.gov.uk/uksi/2022/930), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/6/2)
+[^c-fa9b2901d88fb68bd68125880b7578a8]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/5A) inserted (1.10.2022) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2022 (S.I. 2022/930)](https://www.legislation.gov.uk/uksi/2022/930), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/6/2)
 
-[^key-9c4b7125cc8d1266648da68d7305e218]: Textual amendment: [Sch. 2 para. 6(a)(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/6/a/b) omitted (1.3.2015) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/58/regulation/6/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))
+[^c-9c4b7125cc8d1266648da68d7305e218]: Textual amendment: [Sch. 2 para. 6(a)(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/6/a/b) omitted (1.3.2015) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/58/regulation/6/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))
 
-[^key-0ef9cada2cef4993b1b5ca301b122583]: Textual amendment: Word in [Sch. 2 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/7/1/b) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2014/417/regulation/17/a)
+[^c-0ef9cada2cef4993b1b5ca301b122583]: Textual amendment: Word in [Sch. 2 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/7/1/b) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2014/417/regulation/17/a)
 
 [^c21647381]: Marginal citation: [Section 129(2A)](https://www.legislation.gov.uk/uksi/2013/349/section/129/2A) was inserted by the [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [section 26(3)](https://www.legislation.gov.uk/ukpga/2009/21/section/26/3), and has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 207(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/207/4), and Schedule 4, paragraph 66(5).
 
-[^key-56004cf17fa5c9e6f61bfcb9af0c7243]: Textual amendment: Sch. 2 para. 9 renumbered as Sch. 2 para. 9(1) (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2016/1077/regulation/11)
+[^c-56004cf17fa5c9e6f61bfcb9af0c7243]: Textual amendment: Sch. 2 para. 9 renumbered as Sch. 2 para. 9(1) (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2016/1077/regulation/11)
 
-[^key-04da089e775b866fb932782358221e20]: Textual amendment: Words in [Sch. 2 para. 9(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/9/1/c/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/2/a)
+[^c-04da089e775b866fb932782358221e20]: Textual amendment: Words in [Sch. 2 para. 9(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/9/1/c/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/2/a)
 
-[^key-1cbabe3baee0b6dd4f87e6771d856a76]: Textual amendment: Words in [Sch. 2 para. 9(1)(d)(i)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/9/1/d/i) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/2/b)
+[^c-1cbabe3baee0b6dd4f87e6771d856a76]: Textual amendment: Words in [Sch. 2 para. 9(1)(d)(i)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/9/1/d/i) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(2)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/2/b)
 
-[^key-5c6baa0ae80a7df26f1424eafecb78cd]: Textual amendment: Sch. 2 para. 9(2) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2016/1077/regulation/11)
+[^c-5c6baa0ae80a7df26f1424eafecb78cd]: Textual amendment: Sch. 2 para. 9(2) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2016/1077/regulation/11)
 
-[^key-2c84abffae93388876847397ecb57b69]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/13) heading substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2014/417/regulation/17/b)
+[^c-2c84abffae93388876847397ecb57b69]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/13) heading substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2014/417/regulation/17/b)
 
-[^key-7ef37d610bd07cdb597586c12340529d]: Textual amendment: Words in [Sch. 2 para. 18(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/18/b) substituted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2016/1077/regulation/12)
+[^c-7ef37d610bd07cdb597586c12340529d]: Textual amendment: Words in [Sch. 2 para. 18(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/18/b) substituted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2016/1077/regulation/12)
 
-[^key-634e165b19b10c4c5a265afb2ba219ab]: Textual amendment: Words in [Sch. 2 para. 19(4)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/19/4) inserted (1.10.2022) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2022 (S.I. 2022/930)](https://www.legislation.gov.uk/uksi/2022/930), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2022/930/regulation/6/3)
+[^c-634e165b19b10c4c5a265afb2ba219ab]: Textual amendment: Words in [Sch. 2 para. 19(4)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/19/4) inserted (1.10.2022) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2022 (S.I. 2022/930)](https://www.legislation.gov.uk/uksi/2022/930), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2022/930/regulation/6/3)
 
-[^key-3365c958ec60792dda928e59ee72233b]: Textual amendment: [Sch. 2 para. 19(5)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/19/5) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2016/1077/regulation/13)
+[^c-3365c958ec60792dda928e59ee72233b]: Textual amendment: [Sch. 2 para. 19(5)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/19/5) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2016/1077/regulation/13)
 
-[^key-1c6896ce97056a69fdabd0d4b5b59f8b]: Textual amendment: Words in [Sch. 2 para. 23(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/23/1/a) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/989/regulation/8/3)
+[^c-1c6896ce97056a69fdabd0d4b5b59f8b]: Textual amendment: Words in [Sch. 2 para. 23(1)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/23/1/a) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/989/regulation/8/3)
 
-[^key-8cb91c65a7b88382f392bdd19d65f4d9]: Textual amendment: Sch. 2 para. 23(1)(c) omitted (1.10.2024) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/894)](https://www.legislation.gov.uk/uksi/2024/894), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/894/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2024/894/regulation/3/3)
+[^c-8cb91c65a7b88382f392bdd19d65f4d9]: Textual amendment: Sch. 2 para. 23(1)(c) omitted (1.10.2024) by virtue of [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/894)](https://www.legislation.gov.uk/uksi/2024/894), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/894/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2024/894/regulation/3/3)
 
-[^key-7a45036705cf0e8c257041bb259abdf0]: Textual amendment: Words in Sch. 2 para. 28(3)(b) substituted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2016/1077/regulation/14)
+[^c-7a45036705cf0e8c257041bb259abdf0]: Textual amendment: Words in Sch. 2 para. 28(3)(b) substituted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2016/1077/regulation/14)
 
-[^key-32ad5fb0cf666e2248e02c1bd3e6b1a2]: Textual amendment: Words in Sch. 2 para. 29 inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2016/1077/regulation/15)
+[^c-32ad5fb0cf666e2248e02c1bd3e6b1a2]: Textual amendment: Words in Sch. 2 para. 29 inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2016/1077/regulation/15)
 
-[^key-ef741f0c73fae23356b98a941ee11137]: Textual amendment: Words in [Sch. 2 para. 29(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/a/i)
+[^c-ef741f0c73fae23356b98a941ee11137]: Textual amendment: Words in [Sch. 2 para. 29(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/a/i)
 
-[^key-157e535ed34fdf3a362bfb262e131c6d]: Textual amendment: Words in [Sch. 2 para. 29(d)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29/d) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/a/ii)
+[^c-157e535ed34fdf3a362bfb262e131c6d]: Textual amendment: Words in [Sch. 2 para. 29(d)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29/d) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/a/ii)
 
-[^key-e197468445183f872f460d7694d3a0da]: Textual amendment: [Sch. 2 para. 29A](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29A) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2016/1077/regulation/16)
+[^c-e197468445183f872f460d7694d3a0da]: Textual amendment: [Sch. 2 para. 29A](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29A) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2016/1077/regulation/16)
 
-[^key-31d97e8b80c7383c074582dc2f66ddf1]: Textual amendment: Words in [Sch. 2 para. 29A(2)(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29A/2/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/b/i)
+[^c-31d97e8b80c7383c074582dc2f66ddf1]: Textual amendment: Words in [Sch. 2 para. 29A(2)(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29A/2/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/b/i)
 
-[^key-8b1eb10d9b15fd402fb63c98b5c1d0a9]: Textual amendment: Words in [Sch. 2 para. 29A(2)(c)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29A/2/c) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/b/ii)
+[^c-8b1eb10d9b15fd402fb63c98b5c1d0a9]: Textual amendment: Words in [Sch. 2 para. 29A(2)(c)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29A/2/c) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/b/ii)
 
-[^key-722b37e824e6734d605601bb543eacd6]: Textual amendment: Words in [Sch. 2 para. 29A(2)(d)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29A/2/d) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/b/iii)
+[^c-722b37e824e6734d605601bb543eacd6]: Textual amendment: Words in [Sch. 2 para. 29A(2)(d)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/29A/2/d) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/b/iii)
 
-[^key-0b9179ac6c05cb761a6e7b03570e9a4b]: Textual amendment: Sch. 2 para. 31(3A) inserted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [17(c)](https://www.legislation.gov.uk/uksi/2014/417/regulation/17/c)
+[^c-0b9179ac6c05cb761a6e7b03570e9a4b]: Textual amendment: Sch. 2 para. 31(3A) inserted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [17(c)](https://www.legislation.gov.uk/uksi/2014/417/regulation/17/c)
 
-[^key-169ccf662f0b6d705cffe3bd01f7cb7e]: Textual amendment: Sch. 2 para. 32(3A) inserted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [17(d)](https://www.legislation.gov.uk/uksi/2014/417/regulation/17/d)
+[^c-169ccf662f0b6d705cffe3bd01f7cb7e]: Textual amendment: Sch. 2 para. 32(3A) inserted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [17(d)](https://www.legislation.gov.uk/uksi/2014/417/regulation/17/d)
 
-[^key-83a87f1cc9cf5a82bb3a9c986ddd5dcb]: Textual amendment: Words in [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/33/2) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/c/i)
+[^c-83a87f1cc9cf5a82bb3a9c986ddd5dcb]: Textual amendment: Words in [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/33/2) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/c/i)
 
-[^key-5ad5402e5072d8daf218c3c55741d686]: Textual amendment: Words in [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/33/2) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/c/ii)
+[^c-5ad5402e5072d8daf218c3c55741d686]: Textual amendment: Words in [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/33/2) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/c/ii)
 
-[^key-9380664834a59b7fe96b9c93feb7a7ae]: Textual amendment: Words in Sch. 2 para. 34(1) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2016/1077/regulation/17)
+[^c-9380664834a59b7fe96b9c93feb7a7ae]: Textual amendment: Words in Sch. 2 para. 34(1) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2016/1077/regulation/17)
 
-[^key-63a2939596cef669de4f982ee7a9a5c1]: Textual amendment: Words in [Sch. 2 para. 34(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/1/b/i) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/d/i/aa)
+[^c-63a2939596cef669de4f982ee7a9a5c1]: Textual amendment: Words in [Sch. 2 para. 34(1)(b)(i)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/1/b/i) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/d/i/aa)
 
-[^key-a6946d9b39d41d8ddca3ffbe1f9df238]: Textual amendment: Words in [Sch. 2 para. 34(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/d/i/bb)
+[^c-a6946d9b39d41d8ddca3ffbe1f9df238]: Textual amendment: Words in [Sch. 2 para. 34(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/d/i/bb)
 
-[^key-ea024e9b991a2c7f0d0975a63f769766]: Textual amendment: Words in [Sch. 2 para. 34(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/1/b/iii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/d/i/cc)
+[^c-ea024e9b991a2c7f0d0975a63f769766]: Textual amendment: Words in [Sch. 2 para. 34(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/1/b/iii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/d/i/cc)
 
-[^key-970c8b5ebe75544b15ea89bc7d69351d]: Textual amendment: Words in [Sch. 2 para. 34(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/2) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/d/ii)
+[^c-970c8b5ebe75544b15ea89bc7d69351d]: Textual amendment: Words in [Sch. 2 para. 34(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/2) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [53(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/53/3/d/ii)
 
-[^key-fc546dfb122a8d7b6ad41230f310b5b9]: Textual amendment: Words in [Sch. 2 para. 34(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/2) omitted (9.11.2020) by virtue of [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/4/a)
+[^c-fc546dfb122a8d7b6ad41230f310b5b9]: Textual amendment: Words in [Sch. 2 para. 34(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/2) omitted (9.11.2020) by virtue of [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/4/a)
 
-[^key-4b357fdb586aa2a011187d1eae7a6a90]: Textual amendment: [Sch. 2 para. 34(3A)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/3A)[(3B)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/3B) inserted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/4/b)
+[^c-4b357fdb586aa2a011187d1eae7a6a90]: Textual amendment: [Sch. 2 para. 34(3A)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/3A)[(3B)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/3B) inserted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/4/b)
 
-[^key-123de0f87895a7f6210b751d08253ad1]: Textual amendment: Words in [Sch. 2 para. 34(3B)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/3B) substituted (25.5.2023) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2023 (S.I. 2023/479)](https://www.legislation.gov.uk/uksi/2023/479), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/8/2)
+[^c-123de0f87895a7f6210b751d08253ad1]: Textual amendment: Words in [Sch. 2 para. 34(3B)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/3B) substituted (25.5.2023) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2023 (S.I. 2023/479)](https://www.legislation.gov.uk/uksi/2023/479), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/8/2)
 
-[^key-fae912f2c711a0d340f8410d265c7761]: Textual amendment: [Sch. 2 para. 34(3C)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/3C) inserted (25.5.2023) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2023 (S.I. 2023/479)](https://www.legislation.gov.uk/uksi/2023/479), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2023/479/regulation/8/3)
+[^c-fae912f2c711a0d340f8410d265c7761]: Textual amendment: [Sch. 2 para. 34(3C)](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34/3C) inserted (25.5.2023) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2023 (S.I. 2023/479)](https://www.legislation.gov.uk/uksi/2023/479), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/479/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2023/479/regulation/8/3)
 
-[^key-969e8e6a166ffae1eb603d528f5f34d1]: Textual amendment: Words in Sch. 2 para. 34(4)(b) substituted (14.9.2020) by [The National Health Service (Coronavirus) (Charges and Further Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/885)](https://www.legislation.gov.uk/uksi/2020/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/885/regulation/4/3/a)
+[^c-969e8e6a166ffae1eb603d528f5f34d1]: Textual amendment: Words in Sch. 2 para. 34(4)(b) substituted (14.9.2020) by [The National Health Service (Coronavirus) (Charges and Further Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/885)](https://www.legislation.gov.uk/uksi/2020/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/885/regulation/4/3/a)
 
-[^key-37c4c18c4037a6685041778ba00643e9]: Textual amendment: Sch. 2 para. 34(6)(7) inserted (14.9.2020) by [The National Health Service (Coronavirus) (Charges and Further Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/885)](https://www.legislation.gov.uk/uksi/2020/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/885/regulation/4/3/b)
+[^c-37c4c18c4037a6685041778ba00643e9]: Textual amendment: Sch. 2 para. 34(6)(7) inserted (14.9.2020) by [The National Health Service (Coronavirus) (Charges and Further Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/885)](https://www.legislation.gov.uk/uksi/2020/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/885/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/885/regulation/4/3/b)
 
-[^key-691259f67b47c75d15f36b047fcd2515]: Textual amendment: [Sch. 2 para. 34A](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34A) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2016/1077/regulation/18)
+[^c-691259f67b47c75d15f36b047fcd2515]: Textual amendment: [Sch. 2 para. 34A](https://www.legislation.gov.uk/uksi/2013/349/schedule/2/paragraph/34A) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2016/1077/regulation/18)
 
-[^key-a6da3516d213d934d9859b2a848b01f7]: Textual amendment: Words in Sch. 2 para. 36(1)(e) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/19/a)
+[^c-a6da3516d213d934d9859b2a848b01f7]: Textual amendment: Words in Sch. 2 para. 36(1)(e) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/19/a)
 
-[^key-e831599716537fc2cee159336ae20af7]: Textual amendment: Words in Sch. 2 para. 36(2) substituted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/19/b)
+[^c-e831599716537fc2cee159336ae20af7]: Textual amendment: Words in Sch. 2 para. 36(2) substituted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/19/b)

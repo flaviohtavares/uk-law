@@ -44,15 +44,15 @@ Coming into operation
 
 The Department of Finance makes the following Order in exercise of the powers conferred by Article 31D(15) and (16) of the Rates (Northern Ireland) Order 1977[^f00001].
 
-## 1. Citation and commencement[^key-c336e320eafd7ea16725cb2d6a16da93]
+## 1. Citation and commencement[^c-c336e320eafd7ea16725cb2d6a16da93]
 
 This Order may be cited as the Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2024 and shall come into operation on 15th May 2024.
 
-## 2. Temporary rebate for certain previously unoccupied hereditaments etc.[^key-010af506ed824c7deef1089bbc307c08]
+## 2. Temporary rebate for certain previously unoccupied hereditaments etc.[^c-010af506ed824c7deef1089bbc307c08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-0aa0372dfb892efaf96d27fc4e748ef6]
+## 3. Revocation[^c-0aa0372dfb892efaf96d27fc4e748ef6]
 
 Article 2 of the Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2022[^f00002] is revoked.
 
@@ -76,10 +76,10 @@ The Order also revokes Article 2 of the Rates (Temporary Rebate) (Amendment) Ord
 
 [^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 31D was inserted by section 2 of the Rates (Amendment) Act (Northern Ireland) [2012 (c.1 (N.I.))](https://www.legislation.gov.uk/nia/2012/1) and amended by [S.R. 2015 No. 48](https://www.legislation.gov.uk/nisr/2015/48)
 
-[^key-c336e320eafd7ea16725cb2d6a16da93]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/87/article/1) in operation at 15.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/87/article/1)
+[^c-c336e320eafd7ea16725cb2d6a16da93]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/87/article/1) in operation at 15.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/87/article/1)
 
-[^key-010af506ed824c7deef1089bbc307c08]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/87/article/2) in operation at 15.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/87/article/1)
+[^c-010af506ed824c7deef1089bbc307c08]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/87/article/2) in operation at 15.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/87/article/1)
 
-[^key-0aa0372dfb892efaf96d27fc4e748ef6]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/87/article/3) in operation at 15.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/87/article/1)
+[^c-0aa0372dfb892efaf96d27fc4e748ef6]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/87/article/3) in operation at 15.5.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/87/article/1)
 
 [^f00002]: Footnote: [S.R. 2022 No.77](https://www.legislation.gov.uk/nisr/2022/77)

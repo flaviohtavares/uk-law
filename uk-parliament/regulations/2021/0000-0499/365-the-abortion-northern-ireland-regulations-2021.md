@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 9(4) and 11(2) of the Northern Ireland (Executive Formation etc) Act 2019[^f00001].
 
-## 1. Citation, commencement and extent[^key-7554d19c08a809d6008ac6585ad59a02]
+## 1. Citation, commencement and extent[^c-7554d19c08a809d6008ac6585ad59a02]
 
 These Regulations—
 
@@ -56,11 +56,11 @@ These Regulations—
 - (b) come into force on 31st March 2021;
 - (c) extend to Northern Ireland only.
 
-## 2. Implementation of CEDAW recommendations[^key-b5c3bf566039d828eb4a903402d3c31a]
+## 2. Implementation of CEDAW recommendations[^c-b5c3bf566039d828eb4a903402d3c31a]
 
 (1) If the Secretary of State considers that any action capable of being taken by a relevant person is required for the purpose of implementing the recommendations in paragraphs 85 and 86 of the CEDAW report, the Secretary of State may direct that the action must be taken.
 
-(1A)[^key-eaaf088e3faf5bcd6021c0579e4a2c2e] The fact that a matter has not been brought to the attention of, or discussed and agreed by, the Executive Committee of the Northern Ireland Assembly is to be disregarded when determining what a relevant person could do for the purposes of paragraph (1).
+(1A)[^c-eaaf088e3faf5bcd6021c0579e4a2c2e] The fact that a matter has not been brought to the attention of, or discussed and agreed by, the Executive Committee of the Northern Ireland Assembly is to be disregarded when determining what a relevant person could do for the purposes of paragraph (1).
 
 (1B) A relevant person must comply with a direction under paragraph (1) irrespective of whether any matter has been brought to the attention of, or discussed and agreed by, the Executive Committee of the Northern Ireland Assembly.
 
@@ -75,7 +75,7 @@ These Regulations—
 - (b) the deputy First Minister;
 - (c) a Northern Ireland Minister;
 - (d) a Northern Ireland department;
-- (e) a Local Commissioning Group appointed under section 9[^key-6a1af0756b3374567257e370adc82f8c] of the Health and Social Care (Reform) Act (Northern Ireland) 2009[^f00002];
+- (e) a Local Commissioning Group appointed under section 9[^c-6a1af0756b3374567257e370adc82f8c] of the Health and Social Care (Reform) Act (Northern Ireland) 2009[^f00002];
 - (f) the Regional Agency for Public Health and Social Well-being established by section 12(1) of that Act.
 
 Robin Walker
@@ -104,12 +104,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2019 c. 22](https://www.legislation.gov.uk/ukpga/2019/22).
 
-[^key-7554d19c08a809d6008ac6585ad59a02]: Commencement: Reg. 1 in force at 31.3.2021, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2021/365/regulation/1/b)
+[^c-7554d19c08a809d6008ac6585ad59a02]: Commencement: Reg. 1 in force at 31.3.2021, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2021/365/regulation/1/b)
 
-[^key-b5c3bf566039d828eb4a903402d3c31a]: Commencement: Reg. 2 in force at 31.3.2021, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2021/365/regulation/1/b)
+[^c-b5c3bf566039d828eb4a903402d3c31a]: Commencement: Reg. 2 in force at 31.3.2021, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2021/365/regulation/1/b)
 
-[^key-eaaf088e3faf5bcd6021c0579e4a2c2e]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2021/365/regulation/2/1A)[(1B)](https://www.legislation.gov.uk/uksi/2021/365/regulation/2/1B) inserted (20.5.2022) by [The Abortion (Northern Ireland) Regulations 2022 (S.I. 2022/554)](https://www.legislation.gov.uk/uksi/2022/554), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/554/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2022/554/regulation/2/2)
+[^c-eaaf088e3faf5bcd6021c0579e4a2c2e]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2021/365/regulation/2/1A)[(1B)](https://www.legislation.gov.uk/uksi/2021/365/regulation/2/1B) inserted (20.5.2022) by [The Abortion (Northern Ireland) Regulations 2022 (S.I. 2022/554)](https://www.legislation.gov.uk/uksi/2022/554), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/554/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2022/554/regulation/2/2)
 
-[^key-6a1af0756b3374567257e370adc82f8c]: Textual amendment: Words in [reg. 2(3)(e)](https://www.legislation.gov.uk/uksi/2021/365/regulation/3) substituted (20.5.2022) by [The Abortion (Northern Ireland) Regulations 2022 (S.I. 2022/554)](https://www.legislation.gov.uk/uksi/2022/554), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/554/regulation/1/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2022/554/regulation/2/3)
+[^c-6a1af0756b3374567257e370adc82f8c]: Textual amendment: Words in [reg. 2(3)(e)](https://www.legislation.gov.uk/uksi/2021/365/regulation/3) substituted (20.5.2022) by [The Abortion (Northern Ireland) Regulations 2022 (S.I. 2022/554)](https://www.legislation.gov.uk/uksi/2022/554), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/554/regulation/1/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2022/554/regulation/2/3)
 
 [^f00002]: Footnote: [2009 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1)

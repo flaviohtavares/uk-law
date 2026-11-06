@@ -29,13 +29,13 @@ Section 48
 - (a) who, on that date, has one or more arrangements under—
   - (i) a registered pension scheme, or
   - (ii) a relieved non-UK pension scheme of which the individual is a relieved member,
-- (b) in relation to whom paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on that date[^key-97359ade3114251261f78fceabd5e135],
+- (b) in relation to whom paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on that date[^c-97359ade3114251261f78fceabd5e135],
 - (c) in relation to whom paragraph 12 of that Schedule (enhanced protection) does not apply on that date, and
 - (d) in whose case paragraph 14 of Schedule 18 to FA 2011 (transitional provision relating to new standard lifetime allowance for the tax year 2012-13) does not apply on that date,
 
 if notice of intention to rely on it is given to an officer of Revenue and Customs.
 
-(2)[^key-28799737cbb02b79c7ea2d20b09b4330] Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if—
+(2)[^c-28799737cbb02b79c7ea2d20b09b4330] Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if—
 
 - (a) the amount specified in section 637P of that Act (individual’s lump sum allowance) were £375,000, and
 - (b) the amount specified in section 637R of that Act (individual’s lump sum and death benefit allowance) were—
@@ -44,7 +44,7 @@ if notice of intention to rely on it is given to an officer of Revenue and Custo
 
 (3A) For the purposes of paragraph 20H of Schedule 36 to FA 2004, the individual’s “protected lump sum and death benefit allowance” is £1,500,000.
 
-(3) But this paragraph ceases to apply if the notice under sub-paragraph (1) is given on or after 15 March 2023 and,[^key-c0e41db012c335041fb7f5312562c651] on or after 6 April 2014—
+(3) But this paragraph ceases to apply if the notice under sub-paragraph (1) is given on or after 15 March 2023 and,[^c-c0e41db012c335041fb7f5312562c651] on or after 6 April 2014—
 
 - (a) there is benefit accrual in relation to the individual under an arrangement under a registered pension scheme,
 - (b) there is an impermissible transfer into any arrangement under a registered pension scheme relating to the individual,
@@ -197,16 +197,16 @@ and, in such a case, the benefit accrual is treated as occurring immediately bef
 
 (3) The amendment made by sub-paragraph (2) has effect for cases in which the member becomes entitled to the lump sum on or after 6 April 2014.
 
-(4)[^key-e760d7bf8af490fdf7162434b09fe1cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e760d7bf8af490fdf7162434b09fe1cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The amendment made by sub-paragraph (4) has effect for cases in which the nominated date falls on or after 6 April 2014.
 
 ## Annotations
 
-[^key-97359ade3114251261f78fceabd5e135]: Textual amendment: Words in [Sch. 22 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/1/b) substituted (with effect for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 91(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/91/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-97359ade3114251261f78fceabd5e135]: Textual amendment: Words in [Sch. 22 para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/1/b) substituted (with effect for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 91(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/91/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-28799737cbb02b79c7ea2d20b09b4330]: Textual amendment: [Sch. 22 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/3) substituted for [Sch. 22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22) [para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/2) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2024/1012/regulation/14)
+[^c-28799737cbb02b79c7ea2d20b09b4330]: Textual amendment: [Sch. 22 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/3) substituted for [Sch. 22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22) [para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/2) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2024/1012/regulation/14)
 
-[^key-c0e41db012c335041fb7f5312562c651]: Textual amendment: Words in [Sch. 22 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/3) inserted (with effect for the tax year 2023-24 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 23(6)(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/23/6/8)
+[^c-c0e41db012c335041fb7f5312562c651]: Textual amendment: Words in [Sch. 22 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/3) inserted (with effect for the tax year 2023-24 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 23(6)(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/23/6/8)
 
-[^key-e760d7bf8af490fdf7162434b09fe1cc]: Textual amendment: Sch. 22 para. 8(4) omitted (with effect in accordance with s. 42(8) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 42(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/42/4)
+[^c-e760d7bf8af490fdf7162434b09fe1cc]: Textual amendment: Sch. 22 para. 8(4) omitted (with effect in accordance with s. 42(8) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 42(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/42/4)

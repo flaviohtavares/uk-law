@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 24A. The Simplified Active Substance List[^key-1e2ffba29bd9087ec22bdafc16184e3a]
+## Article 24A. The Simplified Active Substance List[^c-1e2ffba29bd9087ec22bdafc16184e3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The competent authority must establish, maintain and make electronically availab
 
 ## Annotations
 
-[^key-1e2ffba29bd9087ec22bdafc16184e3a]: Textual amendment: [Art. 24A](https://www.legislation.gov.uk/eur/2012/528/article/24A) inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/85); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e2ffba29bd9087ec22bdafc16184e3a]: Textual amendment: [Art. 24A](https://www.legislation.gov.uk/eur/2012/528/article/24A) inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/85); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

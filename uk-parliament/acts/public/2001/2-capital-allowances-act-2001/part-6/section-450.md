@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ddfe6a9b9c775c49dc027bc39fc3aa14] An allowance or charge to which a person is entitled or liable under this Part for a chargeable period is to be given effect in calculating the profits of the relevant trade, by treating—
+(1)[^c-ddfe6a9b9c775c49dc027bc39fc3aa14] An allowance or charge to which a person is entitled or liable under this Part for a chargeable period is to be given effect in calculating the profits of the relevant trade, by treating—
 
 - (a) the allowance as an expense of the trade, and
 - (b) the charge as a receipt of the trade.
 
-(2)[^key-09cfd9b6d000a473c310e03aaba63257] This section is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
+(2)[^c-09cfd9b6d000a473c310e03aaba63257] This section is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
 
 ## Annotations
 
-[^key-ddfe6a9b9c775c49dc027bc39fc3aa14]: Textual amendment: S. 450 renumbered as s. 450(1) (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/15/2)
+[^c-ddfe6a9b9c775c49dc027bc39fc3aa14]: Textual amendment: S. 450 renumbered as s. 450(1) (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/15/2)
 
-[^key-09cfd9b6d000a473c310e03aaba63257]: Textual amendment: S. 450(2) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/15/3)
+[^c-09cfd9b6d000a473c310e03aaba63257]: Textual amendment: S. 450(2) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/15/3)

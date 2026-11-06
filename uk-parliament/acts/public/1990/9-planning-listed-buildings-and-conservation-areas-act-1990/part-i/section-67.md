@@ -30,9 +30,9 @@ summary: ''
 
 (5)[^c21493801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^c21493801][^key-d2fcd26efda70b77af36e627e1d05665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c21493801][^c-d2fcd26efda70b77af36e627e1d05665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^c21493801][^key-d2fcd26efda70b77af36e627e1d05665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c21493801][^c-d2fcd26efda70b77af36e627e1d05665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8)[^c12917731] In this section references to planning permission do not include references to planning permissions falling within section 73A of the principal Act.
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c21493801]: Textual amendment: S. 67(2)-(7) repealed (28.9.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 120](https://www.legislation.gov.uk/ukpga/2004/5/section/120), [121(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202). art. 3(f), Sch. 1 Pt. 2
 
-[^key-d2fcd26efda70b77af36e627e1d05665]: Modification: S. 67(2)(b)(6)(7) applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-d2fcd26efda70b77af36e627e1d05665]: Modification: S. 67(2)(b)(6)(7) applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
 [^c12917731]: Textual amendment: S. 67(8) substituted (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [Sch. 7 para.59](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7/paragraph/59); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.3](https://www.legislation.gov.uk/uksi/1991/2905/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2905/schedule/1)

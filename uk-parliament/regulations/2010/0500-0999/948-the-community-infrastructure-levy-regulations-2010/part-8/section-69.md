@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Demand notice[^key-e59eaf8288e9eaa51b36d70aece46301]
+## 69. Demand notice[^c-e59eaf8288e9eaa51b36d70aece46301]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) identify the liability notice to which it relates;
 - (d) state the intended commencement date or, where the collecting authority has determined a deemed commencement date, the deemed commencement date;
 - (e) state the amount payable by the person on whom the notice is served (including any surcharges imposed in respect of or interest applied to the amount) and the day on which payment of the amount is due;
-- (f) where the amount payable is to be[^key-f2e7b61eb8143a3007cd03993c068e6c] paid by way of instalments[^f00040], state the amount of each instalment and the day on which payment of the instalment is due; and
+- (f) where the amount payable is to be[^c-f2e7b61eb8143a3007cd03993c068e6c] paid by way of instalments[^f00040], state the amount of each instalment and the day on which payment of the instalment is due; and
 - (g) include the other information specified in the form.
 
 (3) The collecting authority may at any time serve a revised demand notice on a person liable to pay an amount of CIL.
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e59eaf8288e9eaa51b36d70aece46301]: Commencement: Reg. 69 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-e59eaf8288e9eaa51b36d70aece46301]: Commencement: Reg. 69 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-f2e7b61eb8143a3007cd03993c068e6c]: Textual amendment: Word in [reg. 69(2)(f)](https://www.legislation.gov.uk/uksi/2010/948/regulation/69/2/f) inserted (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/9)
+[^c-f2e7b61eb8143a3007cd03993c068e6c]: Textual amendment: Word in [reg. 69(2)(f)](https://www.legislation.gov.uk/uksi/2010/948/regulation/69/2/f) inserted (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/9)
 
 [^f00040]: Footnote: *See* regulation 70.

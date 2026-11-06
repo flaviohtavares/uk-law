@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Order for elections by halves or elections by thirds: transitional provision[^key-f3e6b87ac3fc19aaee6095e07bbb8014]
+## 49. Order for elections by halves or elections by thirds: transitional provision[^c-f3e6b87ac3fc19aaee6095e07bbb8014]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3e6b87ac3fc19aaee6095e07bbb8014]: Commencement: S. 49 in force at 30.12.2007, see s. 245(2)
+[^c-f3e6b87ac3fc19aaee6095e07bbb8014]: Commencement: S. 49 in force at 30.12.2007, see s. 245(2)

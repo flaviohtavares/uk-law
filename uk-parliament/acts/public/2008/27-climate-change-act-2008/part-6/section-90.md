@@ -22,7 +22,7 @@ summary: ''
 
 (1) Orders and regulations under this Act must be made by statutory instrument, subject as follows.
 
-(2) The power of a Northern Ireland department to make regulations under Part 3 (trading schemes) or Schedule 6 (charges for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*)—
+(2) The power of a Northern Ireland department to make regulations under Part 3 (trading schemes) or Schedule 6 (charges for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*)—
 
 - (a) is exercisable by statutory instrument if the instrument also contains regulations under that Part or Schedule made or to be made by another national authority, and
 - (b) otherwise, is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I. 12)).
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c34b23b8118b1e8a2763ba07943ad2e]: Textual amendment: Words in Sch. 6 para. 2 substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 1(b)](https://www.legislation.gov.uk/nia/2014/7/section/1/b)
+[^c-2c34b23b8118b1e8a2763ba07943ad2e]: Textual amendment: Words in Sch. 6 para. 2 substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 1(b)](https://www.legislation.gov.uk/nia/2014/7/section/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 105. Revocations[^key-6d4268d24294c62b8dbee6ea4a84a53c][^key-936932fbb6a4df9c0472f925176d3411]
+## 105. Revocations[^c-6d4268d24294c62b8dbee6ea4a84a53c][^c-936932fbb6a4df9c0472f925176d3411]
 
 *Extent: E+W+S*
 
@@ -36,9 +36,9 @@ In consequence of the repeal of Part 2 of the Compensation Act 2006 by article 9
 
 ## Annotations
 
-[^key-6d4268d24294c62b8dbee6ea4a84a53c]: Commencement: Art. 105 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-6d4268d24294c62b8dbee6ea4a84a53c]: Commencement: Art. 105 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-936932fbb6a4df9c0472f925176d3411]: Commencement: [Art. 105](https://www.legislation.gov.uk/uksi/2018/1253/article/105) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-936932fbb6a4df9c0472f925176d3411]: Commencement: [Art. 105](https://www.legislation.gov.uk/uksi/2018/1253/article/105) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00146]: Footnote: [S.I. 2006/3319](https://www.legislation.gov.uk/uksi/2006/3319).
 

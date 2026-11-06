@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Postal administrator deceased[^key-f1982001c2b4296836d0006ae76c91f3]
+## 89. Postal administrator deceased[^c-f1982001c2b4296836d0006ae76c91f3]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1982001c2b4296836d0006ae76c91f3]: Commencement: [Rule 89](https://www.legislation.gov.uk/uksi/2013/3208/rule/89) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f1982001c2b4296836d0006ae76c91f3]: Commencement: [Rule 89](https://www.legislation.gov.uk/uksi/2013/3208/rule/89) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

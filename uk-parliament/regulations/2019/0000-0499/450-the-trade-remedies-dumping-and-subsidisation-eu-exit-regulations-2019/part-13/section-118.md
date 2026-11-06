@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118.[^key-25002b698515b0c9f46de36beabb8c89]
+## 118.[^c-25002b698515b0c9f46de36beabb8c89]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 73 (circumvention review) has effect as if—
 
 ## Annotations
 
-[^key-25002b698515b0c9f46de36beabb8c89]: Commencement: Reg. 118 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-25002b698515b0c9f46de36beabb8c89]: Commencement: Reg. 118 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

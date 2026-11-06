@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253E. Enforcement: application of certain provisions relating to fines[^key-26aa2f20b8bd58b5579dd6a2e941dcef][^key-26aa2f20b8bd58b5579dd6a2e941dcef]
+## 253E. Enforcement: application of certain provisions relating to fines[^c-26aa2f20b8bd58b5579dd6a2e941dcef][^c-26aa2f20b8bd58b5579dd6a2e941dcef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The provisions are—
 
-- (za)[^key-13317e25f67012d1fd8366f33388e59b] section 121(4),
+- (za)[^c-13317e25f67012d1fd8366f33388e59b] section 121(4),
 - (zb) section 193(3),
 - (a) section 211(3) and (7),
 - (b) section 212,
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26aa2f20b8bd58b5579dd6a2e941dcef]: Textual amendment: Ss. 253A-253E and cross-heading inserted (25.8.2020 for the insertion of s. 253B for specified purposes, 10.2.2021 in so far as not already in force) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 25](https://www.legislation.gov.uk/asp/2014/1/section/25), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2020/237](https://www.legislation.gov.uk/ssi/2020/237), [art. 2](https://www.legislation.gov.uk/ssi/2020/237/article/2); [S.S.I. 2020/405](https://www.legislation.gov.uk/ssi/2020/405), [art. 2(b)](https://www.legislation.gov.uk/ssi/2020/405/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/405/article/3))
+[^c-26aa2f20b8bd58b5579dd6a2e941dcef]: Textual amendment: Ss. 253A-253E and cross-heading inserted (25.8.2020 for the insertion of s. 253B for specified purposes, 10.2.2021 in so far as not already in force) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 25](https://www.legislation.gov.uk/asp/2014/1/section/25), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2020/237](https://www.legislation.gov.uk/ssi/2020/237), [art. 2](https://www.legislation.gov.uk/ssi/2020/237/article/2); [S.S.I. 2020/405](https://www.legislation.gov.uk/ssi/2020/405), [art. 2(b)](https://www.legislation.gov.uk/ssi/2020/405/article/2/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/405/article/3))
 
-[^key-13317e25f67012d1fd8366f33388e59b]: Textual amendment: S. 253E(2)(za)(zb) inserted (3.2.2021) by [The Victims and Witnesses (Scotland) Act 2014 (Supplementary Provisions) Order 2021 (S.S.I. 2021/57)](https://www.legislation.gov.uk/ssi/2021/57), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/57/article/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2021/57/article/2/4)
+[^c-13317e25f67012d1fd8366f33388e59b]: Textual amendment: S. 253E(2)(za)(zb) inserted (3.2.2021) by [The Victims and Witnesses (Scotland) Act 2014 (Supplementary Provisions) Order 2021 (S.S.I. 2021/57)](https://www.legislation.gov.uk/ssi/2021/57), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/57/article/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2021/57/article/2/4)

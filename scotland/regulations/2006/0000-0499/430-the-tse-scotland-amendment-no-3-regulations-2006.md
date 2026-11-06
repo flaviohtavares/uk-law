@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The TSE (Scotland) Amendment (No. 3) Regulations 2006 (revoked)[^key-6677923b00dfcfdcc763e2a649b10a79]
+The TSE (Scotland) Amendment (No. 3) Regulations 2006 (revoked)[^c-6677923b00dfcfdcc763e2a649b10a79]
 
 Made
 
@@ -48,40 +48,40 @@ Coming into force
 
 18th August 2006
 
-[^key-6677923b00dfcfdcc763e2a649b10a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6677923b00dfcfdcc763e2a649b10a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6677923b00dfcfdcc763e2a649b10a79]
+## 1. Citation and commencement[^c-6677923b00dfcfdcc763e2a649b10a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the TSE (Scotland) Regulations 2002[^key-6677923b00dfcfdcc763e2a649b10a79]
+## 2. Amendment of the TSE (Scotland) Regulations 2002[^c-6677923b00dfcfdcc763e2a649b10a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-6677923b00dfcfdcc763e2a649b10a79]
+## 3.[^c-6677923b00dfcfdcc763e2a649b10a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-6677923b00dfcfdcc763e2a649b10a79]
+## 4.[^c-6677923b00dfcfdcc763e2a649b10a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-6677923b00dfcfdcc763e2a649b10a79]
+## 5.[^c-6677923b00dfcfdcc763e2a649b10a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-6677923b00dfcfdcc763e2a649b10a79]
+## 6.[^c-6677923b00dfcfdcc763e2a649b10a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6677923b00dfcfdcc763e2a649b10a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6677923b00dfcfdcc763e2a649b10a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6677923b00dfcfdcc763e2a649b10a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6677923b00dfcfdcc763e2a649b10a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6677923b00dfcfdcc763e2a649b10a79]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-6677923b00dfcfdcc763e2a649b10a79]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

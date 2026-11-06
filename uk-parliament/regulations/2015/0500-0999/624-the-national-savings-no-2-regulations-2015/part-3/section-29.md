@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Accrual of interest on variable interest stock[^key-c72539c0b4ef10aa9f351b22e19e655e]
+## 29. Accrual of interest on variable interest stock[^c-c72539c0b4ef10aa9f351b22e19e655e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ I% is the annual rate of interest applying to the stock on that day.
 
 ## Annotations
 
-[^key-c72539c0b4ef10aa9f351b22e19e655e]: Commencement: Reg. 29 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-c72539c0b4ef10aa9f351b22e19e655e]: Commencement: Reg. 29 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

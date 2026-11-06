@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Tax treatment of acquisition, disposal or revaluation of certain rights.[^key-e96444e7cd5a5c1dd5bbcfdba67401d5]
+## 87. Tax treatment of acquisition, disposal or revaluation of certain rights.[^c-e96444e7cd5a5c1dd5bbcfdba67401d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e96444e7cd5a5c1dd5bbcfdba67401d5]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukpga/2000/17/section/87) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 517](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/517), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-e96444e7cd5a5c1dd5bbcfdba67401d5]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukpga/2000/17/section/87) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 517](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/517), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

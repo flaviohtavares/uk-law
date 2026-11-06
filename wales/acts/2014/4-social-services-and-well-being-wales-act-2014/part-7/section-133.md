@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Regulations about the National Board[^key-c4fbe131d852b651d775db55aa3afc66]
+## 133. Regulations about the National Board[^c-c4fbe131d852b651d775db55aa3afc66]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4fbe131d852b651d775db55aa3afc66]: Commencement: S. 133 in force at 21.10.2015 by [S.I. 2015/1744](https://www.legislation.gov.uk/wsi/2015/1744), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1744/article/2/b)
+[^c-c4fbe131d852b651d775db55aa3afc66]: Commencement: S. 133 in force at 21.10.2015 by [S.I. 2015/1744](https://www.legislation.gov.uk/wsi/2015/1744), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1744/article/2/b)

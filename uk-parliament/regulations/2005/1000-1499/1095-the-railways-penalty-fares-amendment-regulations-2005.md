@@ -32,7 +32,7 @@ summary: ''
 
 TRANSPORT
 
-The Railways (Penalty Fares) (Amendment) Regulations 2005 (revoked)[^key-f353e82602adc862bf4a8022ce9d5676]
+The Railways (Penalty Fares) (Amendment) Regulations 2005 (revoked)[^c-f353e82602adc862bf4a8022ce9d5676]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 3rd May 2005
 
-[^key-f353e82602adc862bf4a8022ce9d5676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f353e82602adc862bf4a8022ce9d5676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f353e82602adc862bf4a8022ce9d5676]
+## 1. Citation and commencement[^c-f353e82602adc862bf4a8022ce9d5676]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Railways (Penalty Fares) Regulations 1994[^key-f353e82602adc862bf4a8022ce9d5676]
+## 2. Amendment of the Railways (Penalty Fares) Regulations 1994[^c-f353e82602adc862bf4a8022ce9d5676]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f353e82602adc862bf4a8022ce9d5676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f353e82602adc862bf4a8022ce9d5676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f353e82602adc862bf4a8022ce9d5676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f353e82602adc862bf4a8022ce9d5676]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f353e82602adc862bf4a8022ce9d5676]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1095) revoked (6.4.2018) by [The Railways (Penalty Fares) Regulations 2018 (S.I. 2018/366)](https://www.legislation.gov.uk/uksi/2018/366), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b), [19(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/19/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/366/regulation/2), [20](https://www.legislation.gov.uk/uksi/2018/366/regulation/20))
+[^c-f353e82602adc862bf4a8022ce9d5676]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1095) revoked (6.4.2018) by [The Railways (Penalty Fares) Regulations 2018 (S.I. 2018/366)](https://www.legislation.gov.uk/uksi/2018/366), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/1/b), [19(b)](https://www.legislation.gov.uk/uksi/2018/366/regulation/19/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/366/regulation/2), [20](https://www.legislation.gov.uk/uksi/2018/366/regulation/20))

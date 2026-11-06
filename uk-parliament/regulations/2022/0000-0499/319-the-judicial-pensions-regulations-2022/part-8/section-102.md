@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Amount payable on death of active member (death in service)[^key-213dfb4ef005bd5e4f561556b573adfd]
+## 102. Amount payable on death of active member (death in service)[^c-213dfb4ef005bd5e4f561556b573adfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-213dfb4ef005bd5e4f561556b573adfd]: Commencement: Reg. 102 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-213dfb4ef005bd5e4f561556b573adfd]: Commencement: Reg. 102 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Prospective and consequential amendments.[^key-b19dc52bfceb923e09bfd94a9318489b]
+## 190. Prospective and consequential amendments.[^c-b19dc52bfceb923e09bfd94a9318489b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 (which re-enacts or makes consequential amendments of provisions whic
 
 ## Annotations
 
-[^key-b19dc52bfceb923e09bfd94a9318489b]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190) in force at 7.2.1994 for specified purposes by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-b19dc52bfceb923e09bfd94a9318489b]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190) in force at 7.2.1994 for specified purposes by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)

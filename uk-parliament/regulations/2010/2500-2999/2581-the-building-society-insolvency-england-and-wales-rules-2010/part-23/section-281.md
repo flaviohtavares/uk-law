@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 281. “Responsible insolvency practitioner”, etc.[^key-3d9202d0ff6d4289fbc81b7489d7190d]
+## 281. “Responsible insolvency practitioner”, etc.[^c-3d9202d0ff6d4289fbc81b7489d7190d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In relation to a building society insolvency, “**the responsible insolvency pr
 
 ## Annotations
 
-[^key-3d9202d0ff6d4289fbc81b7489d7190d]: Commencement: Rule 281 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3d9202d0ff6d4289fbc81b7489d7190d]: Commencement: Rule 281 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

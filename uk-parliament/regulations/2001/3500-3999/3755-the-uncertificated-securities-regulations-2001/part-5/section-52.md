@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Revocations[^key-fafa32a6af57a92f09538bf109376827]
+## 52. Revocations[^c-fafa32a6af57a92f09538bf109376827]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fafa32a6af57a92f09538bf109376827]: Commencement: Reg. 52 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-fafa32a6af57a92f09538bf109376827]: Commencement: Reg. 52 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
 [^f00020]: Footnote: S.I. [2001/1228](https://www.legislation.gov.uk/uksi/2001/1228).

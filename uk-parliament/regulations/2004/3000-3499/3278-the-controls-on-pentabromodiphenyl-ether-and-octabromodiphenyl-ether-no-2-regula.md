@@ -28,7 +28,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Controls On Pentabromodiphenyl Ether And Octabromodiphenyl Ether (No. 2) Regulations 2004 (revoked)[^key-4ee329f5943b11843196347235899ffb]
+The Controls On Pentabromodiphenyl Ether And Octabromodiphenyl Ether (No. 2) Regulations 2004 (revoked)[^c-4ee329f5943b11843196347235899ffb]
 
 Made
 
@@ -42,44 +42,44 @@ Coming into force
 
 1st January 2005
 
-[^key-4ee329f5943b11843196347235899ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ee329f5943b11843196347235899ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4ee329f5943b11843196347235899ffb]
+## 1. Citation, commencement and extent[^c-4ee329f5943b11843196347235899ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4ee329f5943b11843196347235899ffb]
+## 2. Interpretation[^c-4ee329f5943b11843196347235899ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-4ee329f5943b11843196347235899ffb]
+## 3. Scope[^c-4ee329f5943b11843196347235899ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on the placing on the market and use of pentabromodiphenyl ether[^key-4ee329f5943b11843196347235899ffb]
+## 4. Prohibition on the placing on the market and use of pentabromodiphenyl ether[^c-4ee329f5943b11843196347235899ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prohibition on the placing on the market and use of octabromodiphenyl ether[^key-4ee329f5943b11843196347235899ffb]
+## 5. Prohibition on the placing on the market and use of octabromodiphenyl ether[^c-4ee329f5943b11843196347235899ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-4ee329f5943b11843196347235899ffb]
+## 6. Offences and penalties[^c-4ee329f5943b11843196347235899ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-4ee329f5943b11843196347235899ffb]
+## 7. Revocations[^c-4ee329f5943b11843196347235899ffb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ee329f5943b11843196347235899ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ee329f5943b11843196347235899ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ee329f5943b11843196347235899ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ee329f5943b11843196347235899ffb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ee329f5943b11843196347235899ffb]: Textual amendment: Regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/2)
+[^c-4ee329f5943b11843196347235899ffb]: Textual amendment: Regulations revoked (7.1.2007) by [The Controls on Dangerous Substances and Preparations Regulations 2006 (S.I. 2006/3311)](https://www.legislation.gov.uk/uksi/2006/3311), [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/3311/regulation/18/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/3311/schedule/4/part/2)

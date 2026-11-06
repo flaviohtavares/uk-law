@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Support and assistance by NHS England[^key-00a1a5e3dfc2911c17feaea3fb2f8617][^key-6430792fba4a1bfad79410d7a0ac9602]
+## 12. Support and assistance by NHS England[^c-00a1a5e3dfc2911c17feaea3fb2f8617][^c-6430792fba4a1bfad79410d7a0ac9602]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ After section 13Y of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-00a1a5e3dfc2911c17feaea3fb2f8617]: Commencement: S. 12 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-00a1a5e3dfc2911c17feaea3fb2f8617]: Commencement: S. 12 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6430792fba4a1bfad79410d7a0ac9602]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/31/section/12) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6430792fba4a1bfad79410d7a0ac9602]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/31/section/12) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

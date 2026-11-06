@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Meaning of “permanent breakdown in health”[^key-6317aa75870d8e707ae5d9792c1a0703]
+## 70. Meaning of “permanent breakdown in health”[^c-6317aa75870d8e707ae5d9792c1a0703]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purpose of these Regulations, a member’s breakdown in health is “per
 
 ## Annotations
 
-[^key-6317aa75870d8e707ae5d9792c1a0703]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2014/290/regulation/70) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-6317aa75870d8e707ae5d9792c1a0703]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2014/290/regulation/70) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

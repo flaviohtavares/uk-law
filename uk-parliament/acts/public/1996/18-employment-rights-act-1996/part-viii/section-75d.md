@@ -31,9 +31,9 @@ summary: ''
 - (g) make provision applying, modifying or excluding an enactment, in such circumstances as may be specified and subject to any conditions specified, in relation to a person entitled to ordinary or additional adoption leave;
 - (h) make different provision for different cases or circumstances.
 
-(1A)[^key-632596fa13d88392cda835990fec5f2b] Where section 75A or 75B has effect in relation to such cases as are described in section 75A(8) or 75B(9), regulations under section 75A or 75B about evidence to be produced may require statutory declarations as to—
+(1A)[^c-632596fa13d88392cda835990fec5f2b] Where section 75A or 75B has effect in relation to such cases as are described in section 75A(8) or 75B(9), regulations under section 75A or 75B about evidence to be produced may require statutory declarations as to—
 
-- (a) eligibility to apply for a parental order under section 54 or 54A of the Human Fertilisation and Embryology Act 2008[^key-3d21309d2cc828deff0d1b12a7039f45];
+- (a) eligibility to apply for a parental order under section 54 or 54A of the Human Fertilisation and Embryology Act 2008[^c-3d21309d2cc828deff0d1b12a7039f45];
 - (b) intention to apply for such an order.
 
 (2) In sections 75A and 75B “ **prescribed** ” means prescribed by regulations made by the Secretary of State.
@@ -44,6 +44,6 @@ summary: ''
 
 [^c16328681]: Textual amendment: Pt. 8 (ss. 71-80) substituted for Pt. 8 (ss. 71-85) (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 7](https://www.legislation.gov.uk/ukpga/1999/26/section/7), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/1); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/2) (with transitional provisions in [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10))
 
-[^key-632596fa13d88392cda835990fec5f2b]: Textual amendment: S. 75D(1A) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 122(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/122/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/f)
+[^c-632596fa13d88392cda835990fec5f2b]: Textual amendment: S. 75D(1A) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 122(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/122/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/f)
 
-[^key-3d21309d2cc828deff0d1b12a7039f45]: Textual amendment: Words in s. 75D(1A)(a) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(12)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/12)
+[^c-3d21309d2cc828deff0d1b12a7039f45]: Textual amendment: Words in s. 75D(1A)(a) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 11(12)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/11/12)

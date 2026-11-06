@@ -71,7 +71,7 @@ Income derived by M from each of the following—
   - (ii) general ophthalmic services;
   - (iii) pharmaceutical services,
 - (h) practice-based work carried out in educating or training, or organizing the education or training, of medical students or practitioners;
-- (i) other fees and allowances as approved by the Scottish Ministers and detailed in the Statement of Financial Entitlement issued by them under the[^key-2479576f64f68c59c9422406c80ff54e] GMS Contracts Regulations.
+- (i) other fees and allowances as approved by the Scottish Ministers and detailed in the Statement of Financial Entitlement issued by them under the[^c-2479576f64f68c59c9422406c80ff54e] GMS Contracts Regulations.
 
 CASE 2
 
@@ -162,4 +162,4 @@ In respect of a general dental practitioner, M's income includes all fees and al
 
 ## Annotations
 
-[^key-2479576f64f68c59c9422406c80ff54e]: Textual amendment: Words in [sch. 8 para. 2(2)](https://www.legislation.gov.uk/ssi/2015/94/schedule/8/paragraph/2/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 10(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/10/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-2479576f64f68c59c9422406c80ff54e]: Textual amendment: Words in [sch. 8 para. 2(2)](https://www.legislation.gov.uk/ssi/2015/94/schedule/8/paragraph/2/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 10(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/10/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))

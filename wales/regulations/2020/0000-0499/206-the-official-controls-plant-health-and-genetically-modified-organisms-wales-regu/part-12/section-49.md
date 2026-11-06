@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Minor and consequential amendments[^key-ca926d9b177c383d36fd780547c888c4]
+## 49. Minor and consequential amendments[^c-ca926d9b177c383d36fd780547c888c4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5 contains minor and consequential amendments to secondary legislation 
 
 ## Annotations
 
-[^key-ca926d9b177c383d36fd780547c888c4]: Commencement: Reg. 49 in force at 27.3.2020, see reg. 1
+[^c-ca926d9b177c383d36fd780547c888c4]: Commencement: Reg. 49 in force at 27.3.2020, see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31FZA. Notification of outcome of reviews[^key-2bfd8919aadb98bb80ebfe39d267a21e]
+## 31FZA. Notification of outcome of reviews[^c-2bfd8919aadb98bb80ebfe39d267a21e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bfd8919aadb98bb80ebfe39d267a21e]: Textual amendment: [Reg. 31FZA](https://www.legislation.gov.uk/uksi/2001/497/regulation/31FZA) substituted (1.7.2018) by [The Representation of the People (Scotland) Amendment Regulations 2018 (S.S.I. 2018/89)](https://www.legislation.gov.uk/ssi/2018/89), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/89/regulation/1/3), [6](https://www.legislation.gov.uk/ssi/2018/89/regulation/6) (with [reg. 1(4)](https://www.legislation.gov.uk/ssi/2018/89/regulation/1/4)); [S.I. 2018/427](https://www.legislation.gov.uk/uksi/2018/427), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/427/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2018/427/regulation/6) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2018/427/regulation/1/4))
+[^c-2bfd8919aadb98bb80ebfe39d267a21e]: Textual amendment: [Reg. 31FZA](https://www.legislation.gov.uk/uksi/2001/497/regulation/31FZA) substituted (1.7.2018) by [The Representation of the People (Scotland) Amendment Regulations 2018 (S.S.I. 2018/89)](https://www.legislation.gov.uk/ssi/2018/89), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2018/89/regulation/1/3), [6](https://www.legislation.gov.uk/ssi/2018/89/regulation/6) (with [reg. 1(4)](https://www.legislation.gov.uk/ssi/2018/89/regulation/1/4)); [S.I. 2018/427](https://www.legislation.gov.uk/uksi/2018/427), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/427/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2018/427/regulation/6) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2018/427/regulation/1/4))

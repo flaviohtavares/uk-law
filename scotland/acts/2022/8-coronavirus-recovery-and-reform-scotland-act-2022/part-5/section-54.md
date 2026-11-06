@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Regulations under this Part[^key-c5903c7374559911fb2a9eae64413720]
+## 54. Regulations under this Part[^c-c5903c7374559911fb2a9eae64413720]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5903c7374559911fb2a9eae64413720]: Commencement: S. 54 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-c5903c7374559911fb2a9eae64413720]: Commencement: S. 54 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

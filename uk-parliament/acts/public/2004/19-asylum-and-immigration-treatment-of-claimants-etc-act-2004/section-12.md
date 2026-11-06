@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Refugee: back-dating of benefits[^key-07ca503e3785a47bc546b368c4a887bb]
+## 12. Refugee: back-dating of benefits[^c-07ca503e3785a47bc546b368c4a887bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ca503e3785a47bc546b368c4a887bb]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/19/section/12) in force at 14.6.2007 by [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3))
+[^c-07ca503e3785a47bc546b368c4a887bb]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/19/section/12) in force at 14.6.2007 by [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3))

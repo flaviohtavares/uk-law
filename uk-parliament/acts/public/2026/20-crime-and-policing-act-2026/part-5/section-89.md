@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Exception relating to commission of offence under section 14 of the Sexual Offences Act 2003 by a child in certain circumstances[^key-6a58d9fcfaa2fc92c0bbb5c47520e106]
+## 89. Exception relating to commission of offence under section 14 of the Sexual Offences Act 2003 by a child in certain circumstances[^c-6a58d9fcfaa2fc92c0bbb5c47520e106]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a58d9fcfaa2fc92c0bbb5c47520e106]: Commencement: S. 89 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6a58d9fcfaa2fc92c0bbb5c47520e106]: Commencement: S. 89 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

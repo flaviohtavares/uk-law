@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Application of the PSC Regulations[^key-7ff270050beeedb354bd64ad5d0cf69b]
+## 4. Application of the PSC Regulations[^c-7ff270050beeedb354bd64ad5d0cf69b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The PSC Regulations apply to LLPs in accordance with the principal Regulations a
 
 ## Annotations
 
-[^key-7ff270050beeedb354bd64ad5d0cf69b]: Commencement: Reg. 4 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
+[^c-7ff270050beeedb354bd64ad5d0cf69b]: Commencement: Reg. 4 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)

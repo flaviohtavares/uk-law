@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Fees and allowances payable to the board[^key-4bc95bd928fd7ff6dd902e67bb0100b7]
+## 160. Fees and allowances payable to the board[^c-4bc95bd928fd7ff6dd902e67bb0100b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bc95bd928fd7ff6dd902e67bb0100b7]: Commencement: [Reg. 160](https://www.legislation.gov.uk/uksi/2014/2848/regulation/160) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-4bc95bd928fd7ff6dd902e67bb0100b7]: Commencement: [Reg. 160](https://www.legislation.gov.uk/uksi/2014/2848/regulation/160) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

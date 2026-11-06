@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Democratic People's Republic of Korea (Asset-Freezing) Regulations 2011 (revoked)[^key-b27f412bc5800ff4e1aa22b250a86efa]
+The Democratic People's Republic of Korea (Asset-Freezing) Regulations 2011 (revoked)[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 Made
 
@@ -46,118 +46,118 @@ Coming into force
 
 27th April 2011
 
-[^key-b27f412bc5800ff4e1aa22b250a86efa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b27f412bc5800ff4e1aa22b250a86efa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 1. Citation, commencement and application[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 2. Interpretation[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Freezing of funds and economic resources[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 3. Freezing of funds and economic resources[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Making funds available to a designated person[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 4. Making funds available to a designated person[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Making funds available for the benefit of a designated person[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 5. Making funds available for the benefit of a designated person[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Making economic resources available to a designated person[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 6. Making economic resources available to a designated person[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Making economic resources available for the benefit of a designated person[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 7. Making economic resources available for the benefit of a designated person[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Credits to a frozen account[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 8. Credits to a frozen account[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Licences[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 9. Licences[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Contravention and circumvention of prohibitions[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 10. Contravention and circumvention of prohibitions[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Information provisions[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 11. Information provisions[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Cooperation with UK or international investigations[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 12. Cooperation with UK or international investigations[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Officers of a body corporate etc.[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 13. Officers of a body corporate etc.[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Penalties[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 14. Penalties[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Proceedings[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 15. Proceedings[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Consent to prosecution[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 16. Consent to prosecution[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Notices[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 17. Notices[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. The Crown[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## 18. The Crown[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b27f412bc5800ff4e1aa22b250a86efa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b27f412bc5800ff4e1aa22b250a86efa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Information provisions[^key-b27f412bc5800ff4e1aa22b250a86efa]
+## SCHEDULE — Information provisions[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 Regulation 11
 
-### 1. Reporting obligations of relevant institutions[^key-b27f412bc5800ff4e1aa22b250a86efa]
+### 1. Reporting obligations of relevant institutions[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Powers to request information[^key-b27f412bc5800ff4e1aa22b250a86efa]
+### 2. Powers to request information[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Production of documents[^key-b27f412bc5800ff4e1aa22b250a86efa]
+### 3. Production of documents[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Failure to comply with request for information[^key-b27f412bc5800ff4e1aa22b250a86efa]
+### 4. Failure to comply with request for information[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General power to disclose information[^key-b27f412bc5800ff4e1aa22b250a86efa]
+### 5. General power to disclose information[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application of provisions[^key-b27f412bc5800ff4e1aa22b250a86efa]
+### 6. Application of provisions[^c-b27f412bc5800ff4e1aa22b250a86efa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b27f412bc5800ff4e1aa22b250a86efa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b27f412bc5800ff4e1aa22b250a86efa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b27f412bc5800ff4e1aa22b250a86efa]: Textual amendment: Regulations revoked (16.8.2013) by [The Democratic People s Republic of Korea (European Union Financial Sanctions) Regulations 2013 (S.I. 2013/1877)](https://www.legislation.gov.uk/uksi/2013/1877), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2013/1877/regulation/22) (with [regs. 21](https://www.legislation.gov.uk/uksi/2013/1877/regulation/21), [23](https://www.legislation.gov.uk/uksi/2013/1877/regulation/23))
+[^c-b27f412bc5800ff4e1aa22b250a86efa]: Textual amendment: Regulations revoked (16.8.2013) by [The Democratic People s Republic of Korea (European Union Financial Sanctions) Regulations 2013 (S.I. 2013/1877)](https://www.legislation.gov.uk/uksi/2013/1877), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1877/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2013/1877/regulation/22) (with [regs. 21](https://www.legislation.gov.uk/uksi/2013/1877/regulation/21), [23](https://www.legislation.gov.uk/uksi/2013/1877/regulation/23))

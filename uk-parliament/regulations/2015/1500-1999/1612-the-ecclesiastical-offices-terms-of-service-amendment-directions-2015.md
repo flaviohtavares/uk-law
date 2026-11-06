@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Ecclesiastical Offices (Terms of Service) (Amendment) Directions 2015 (revoked)[^key-08e29e06f52a3d8b362720b3ea3e353d]
+The Ecclesiastical Offices (Terms of Service) (Amendment) Directions 2015 (revoked)[^c-08e29e06f52a3d8b362720b3ea3e353d]
 
 Made (sealed by the Archbishops’ Council)
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st December 2015
 
-[^key-08e29e06f52a3d8b362720b3ea3e353d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08e29e06f52a3d8b362720b3ea3e353d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and coming into force[^key-08e29e06f52a3d8b362720b3ea3e353d]
+## 1. Citation and coming into force[^c-08e29e06f52a3d8b362720b3ea3e353d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Meaning of references to the Employment Rights Act 1996[^key-08e29e06f52a3d8b362720b3ea3e353d]
+## 2. Meaning of references to the Employment Rights Act 1996[^c-08e29e06f52a3d8b362720b3ea3e353d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08e29e06f52a3d8b362720b3ea3e353d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08e29e06f52a3d8b362720b3ea3e353d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08e29e06f52a3d8b362720b3ea3e353d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08e29e06f52a3d8b362720b3ea3e353d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08e29e06f52a3d8b362720b3ea3e353d]: Textual amendment: Directions revoked (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(11)(b)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/11/b), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 6(13)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/13)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
+[^c-08e29e06f52a3d8b362720b3ea3e353d]: Textual amendment: Directions revoked (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(11)(b)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/11/b), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 6(13)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/13)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)

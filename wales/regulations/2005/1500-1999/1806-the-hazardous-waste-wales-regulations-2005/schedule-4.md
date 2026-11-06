@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4[^key-1e8a117ab5114fd53598e4128f974b73]
+## SCHEDULE 4[^c-1e8a117ab5114fd53598e4128f974b73]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulation 35(2)
 
 ## Annotations
 
-[^key-1e8a117ab5114fd53598e4128f974b73]: Textual amendment: Sch. 4 substituted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/uksi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/971/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2011/971/schedule/paragraph/30), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2011/971/schedule/part/3)
+[^c-1e8a117ab5114fd53598e4128f974b73]: Textual amendment: Sch. 4 substituted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/uksi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/971/regulation/1/2), [Sch. para. 30](https://www.legislation.gov.uk/uksi/2011/971/schedule/paragraph/30), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2011/971/schedule/part/3)

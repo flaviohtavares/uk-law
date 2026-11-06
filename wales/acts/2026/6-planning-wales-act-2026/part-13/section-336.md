@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 336. Additional ground of objection to blight notice including requirement to purchase unaffected area[^key-219a2e89b633cb89847d7690a5578d66]
+## 336. Additional ground of objection to blight notice including requirement to purchase unaffected area[^c-219a2e89b633cb89847d7690a5578d66]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-219a2e89b633cb89847d7690a5578d66]: Commencement: S. 336 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-219a2e89b633cb89847d7690a5578d66]: Commencement: S. 336 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

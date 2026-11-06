@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Exercise of power of investment[^key-3e66d47cc533f7543f7c71442945c51f]
+## 19. Exercise of power of investment[^c-3e66d47cc533f7543f7c71442945c51f]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ to be qualified to give it.
 
 ## Annotations
 
-[^key-3e66d47cc533f7543f7c71442945c51f]: Commencement: S. 19 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-3e66d47cc533f7543f7c71442945c51f]: Commencement: S. 19 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

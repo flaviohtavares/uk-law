@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Section 24: definitions[^key-a0a6f6b091afb72d57e5c4052d017368]
+## 25. Section 24: definitions[^c-a0a6f6b091afb72d57e5c4052d017368]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ which authorises that detention.
 
 ## Annotations
 
-[^key-a0a6f6b091afb72d57e5c4052d017368]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/18/section/25) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-a0a6f6b091afb72d57e5c4052d017368]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/18/section/25) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

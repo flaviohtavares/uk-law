@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178.[^key-ee1f8ba0be0897192b6e5a4ade30aab7]
+## 178.[^c-ee1f8ba0be0897192b6e5a4ade30aab7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 203 (inheritance tax exemptions: amendments of the Inheritance Tax Ac
 
 ## Annotations
 
-[^key-ee1f8ba0be0897192b6e5a4ade30aab7]: Commencement: Reg. 178 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-ee1f8ba0be0897192b6e5a4ade30aab7]: Commencement: Reg. 178 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

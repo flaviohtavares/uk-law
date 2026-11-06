@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Relief for certain leases granted before section 128 has effect[^key-8baedeb5e3eb4190dbdc8981bdcf0f81]
+## 129. Relief for certain leases granted before section 128 has effect[^c-8baedeb5e3eb4190dbdc8981bdcf0f81]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8baedeb5e3eb4190dbdc8981bdcf0f81]: Textual amendment: [S. 129](https://www.legislation.gov.uk/ukpga/2003/14/section/129) repealed (with effect in accordance with Sch. 39 para. 10(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/9/1/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-8baedeb5e3eb4190dbdc8981bdcf0f81]: Textual amendment: [S. 129](https://www.legislation.gov.uk/ukpga/2003/14/section/129) repealed (with effect in accordance with Sch. 39 para. 10(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/9/1/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

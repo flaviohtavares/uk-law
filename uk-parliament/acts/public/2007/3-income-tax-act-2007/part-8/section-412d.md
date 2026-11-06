@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 412D. How carry-forward relief works[^key-60a4c6052bc4044e0953b17c65a529c3]
+## 412D. How carry-forward relief works[^c-60a4c6052bc4044e0953b17c65a529c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ The amount to be deducted at any step is limited in accordance with section 25(4
 
 ## Annotations
 
-[^key-60a4c6052bc4044e0953b17c65a529c3]: Textual amendment: [Pt. 8 Ch. 1A](https://www.legislation.gov.uk/ukpga/2007/3/part/8/chapter/1A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/32/2)
+[^c-60a4c6052bc4044e0953b17c65a529c3]: Textual amendment: [Pt. 8 Ch. 1A](https://www.legislation.gov.uk/ukpga/2007/3/part/8/chapter/1A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 32(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/32/2)

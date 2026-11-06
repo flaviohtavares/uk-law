@@ -22,8 +22,8 @@ summary: ''
 
 (1) A firearms dealer shall—
 
-- (a) keep a record of each transaction; [^key-b93742debc37e38d196a0fee30fcef54]...
-- (b) retain all relevant documents for a period of at least two years after their coming into his possession; and[^key-565040aade82219a57434094b0cd0f76]
+- (a) keep a record of each transaction; [^c-b93742debc37e38d196a0fee30fcef54]...
+- (b) retain all relevant documents for a period of at least two years after their coming into his possession; and[^c-565040aade82219a57434094b0cd0f76]
 - (c) send a copy of the record of each transaction involving a firearm within 72 hours of the transaction to the Chief Constable.
 
 (2) The record shall—
@@ -45,11 +45,11 @@ summary: ''
 
 (6) An authorised officer shall produce his authority if required to do so.
 
-(6A)[^key-4233044656b09e99729f2dbb2da83ebd] A person who fails to comply with paragraph (1)(c) shall be guilty of an offence.
+(6A)[^c-4233044656b09e99729f2dbb2da83ebd] A person who fails to comply with paragraph (1)(c) shall be guilty of an offence.
 
 (7) A person who—
 
-- (a) fails to comply with any other[^key-8e89db93f88e6e3d2a2e458260549a23] provision of this Article; or
+- (a) fails to comply with any other[^c-8e89db93f88e6e3d2a2e458260549a23] provision of this Article; or
 - (b) knowingly makes a false record,
 
 shall be guilty of an offence.
@@ -66,10 +66,10 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-b93742debc37e38d196a0fee30fcef54]: Textual amendment: Word in art. 38(1) omitted (16.4.2015) by virtue of [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/3/a)
+[^c-b93742debc37e38d196a0fee30fcef54]: Textual amendment: Word in art. 38(1) omitted (16.4.2015) by virtue of [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/3/a)
 
-[^key-565040aade82219a57434094b0cd0f76]: Textual amendment: Art. 38(1)(c) and word inserted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/3/b)
+[^c-565040aade82219a57434094b0cd0f76]: Textual amendment: Art. 38(1)(c) and word inserted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/3/b)
 
-[^key-4233044656b09e99729f2dbb2da83ebd]: Textual amendment: Art. 38(6A) inserted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/3/c)
+[^c-4233044656b09e99729f2dbb2da83ebd]: Textual amendment: Art. 38(6A) inserted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/3/c)
 
-[^key-8e89db93f88e6e3d2a2e458260549a23]: Textual amendment: Word in art. 38(7)(a) inserted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/3/d)
+[^c-8e89db93f88e6e3d2a2e458260549a23]: Textual amendment: Word in art. 38(7)(a) inserted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/3/d)

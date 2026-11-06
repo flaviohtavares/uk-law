@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2B. Disapplication of certain procedural requirements of the Building Regulations 2010 in relation to higher-risk building work[^key-192020a4e5a186d555bb49ce957d676b]
+## 2B. Disapplication of certain procedural requirements of the Building Regulations 2010 in relation to higher-risk building work[^c-192020a4e5a186d555bb49ce957d676b]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ The following regulations do not apply to higher-risk building work—
 
 ## Annotations
 
-[^key-192020a4e5a186d555bb49ce957d676b]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2B) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/911/regulation/4) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-192020a4e5a186d555bb49ce957d676b]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/2B) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/911/regulation/4) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))

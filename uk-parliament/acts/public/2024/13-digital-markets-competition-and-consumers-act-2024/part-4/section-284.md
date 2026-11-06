@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284. Excluded arrangements[^key-68663fed7bd3a98d278133faa76a6888][^key-df2764d7fca921414dac7a857386996b]
+## 284. Excluded arrangements[^c-68663fed7bd3a98d278133faa76a6888][^c-df2764d7fca921414dac7a857386996b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68663fed7bd3a98d278133faa76a6888]: Commencement: S. 284 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-68663fed7bd3a98d278133faa76a6888]: Commencement: S. 284 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-df2764d7fca921414dac7a857386996b]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2024/13/section/284) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-df2764d7fca921414dac7a857386996b]: Commencement: [S. 284](https://www.legislation.gov.uk/ukpga/2024/13/section/284) in force at 1.1.2026 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)

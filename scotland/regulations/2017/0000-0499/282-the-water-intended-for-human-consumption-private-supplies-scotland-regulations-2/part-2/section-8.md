@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Duty to provide information[^key-cb372392bc403ea88c5ca6e217bbaee5]
+## 8. Duty to provide information[^c-cb372392bc403ea88c5ca6e217bbaee5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where water is being, or is intended to be, supplied to premises through any par
 
 ## Annotations
 
-[^key-cb372392bc403ea88c5ca6e217bbaee5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/282/regulation/8) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-cb372392bc403ea88c5ca6e217bbaee5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/282/regulation/8) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

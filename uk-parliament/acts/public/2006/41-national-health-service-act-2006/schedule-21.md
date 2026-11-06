@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 21 — Prohibition of sale of medical practices[^key-3a460094c339c544aac2127bc8ebf166]
+## SCHEDULE 21 — Prohibition of sale of medical practices[^c-3a460094c339c544aac2127bc8ebf166]
 
 *Extent: E+W*
 
@@ -140,4 +140,4 @@ there is deemed for the purposes of section 259 and paragraph 1 to have been a s
 
 ## Annotations
 
-[^key-3a460094c339c544aac2127bc8ebf166]: Modification: Sch. 21 transfer of functions (10.7.2008) by [Welsh Ministers (Transfer of Functions) Order 2008 (S.I. 2008/1786)](https://www.legislation.gov.uk/uksi/2008/1786), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1786/article/2/b)
+[^c-3a460094c339c544aac2127bc8ebf166]: Modification: Sch. 21 transfer of functions (10.7.2008) by [Welsh Ministers (Transfer of Functions) Order 2008 (S.I. 2008/1786)](https://www.legislation.gov.uk/uksi/2008/1786), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1786/article/2/b)

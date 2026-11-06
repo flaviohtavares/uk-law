@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to the following provisions of this Act, that is to say, section 2(4), [^key-e9aa216b665c4fcba3a0f12ed03e03d5]... section 137(6), and the definition of “consumer” contained in section 137(2).
+(1) This section applies to the following provisions of this Act, that is to say, section 2(4), [^c-e9aa216b665c4fcba3a0f12ed03e03d5]... section 137(6), and the definition of “consumer” contained in section 137(2).
 
 (2) For the purposes of any provisions to which this section applies it is immaterial whether any person supplying goods or services has a place of business in the United Kingdom or not.
 
@@ -46,7 +46,7 @@ and in this subsection “**guarantor**”, in relation to a person to or for wh
 
 ## Annotations
 
-[^key-e9aa216b665c4fcba3a0f12ed03e03d5]: Textual amendment: Words in s. 138 repealed (20.6.2003 for specified purposes, 29.12.2004 in so far as not already in force) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26) (with [Sch. 24](https://www.legislation.gov.uk/ukpga/2002/40/schedule/24)); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [6](https://www.legislation.gov.uk/uksi/2003/1397/article/6), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8)); [S.I. 2004/3233](https://www.legislation.gov.uk/uksi/2004/3233), [art. 2](https://www.legislation.gov.uk/uksi/2004/3233/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3233/schedule) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2004/3233/article/3))
+[^c-e9aa216b665c4fcba3a0f12ed03e03d5]: Textual amendment: Words in s. 138 repealed (20.6.2003 for specified purposes, 29.12.2004 in so far as not already in force) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26) (with [Sch. 24](https://www.legislation.gov.uk/ukpga/2002/40/schedule/24)); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1), [6](https://www.legislation.gov.uk/uksi/2003/1397/article/6), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8)); [S.I. 2004/3233](https://www.legislation.gov.uk/uksi/2004/3233), [art. 2](https://www.legislation.gov.uk/uksi/2004/3233/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3233/schedule) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2004/3233/article/3))
 
 [^c10714521]: Textual amendment: S. 138(5) substituted by [Consumer Credit Act 1974 (c. 39, SIF 60)](https://www.legislation.gov.uk/ukpga/1974/39), [s. 192(4)](https://www.legislation.gov.uk/ukpga/1974/39/section/192/4), [Sch. 4 Pt. I para. 37](https://www.legislation.gov.uk/ukpga/1974/39/schedule/4/part/I/paragraph/37)
 

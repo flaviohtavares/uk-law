@@ -312,7 +312,7 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-##### CHAPTER 1 — Outage planning agents, relevant assets[^key-99ed9b663c69d04606d7197ce88bf38d]
+##### CHAPTER 1 — Outage planning agents, relevant assets[^c-99ed9b663c69d04606d7197ce88bf38d]
 
 *Extent: E+W+S+N.I.*
 
@@ -374,7 +374,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 112 — Coherence of schedules](section-article-112.md)
 - [Section Article 113 — Provision of information to other TSOs](section-article-113.md)
 
-#### ... — ...[^key-be918e116fe7df7e6e166d9dc0412ce9][^key-be918e116fe7df7e6e166d9dc0412ce9]
+#### ... — ...[^c-be918e116fe7df7e6e166d9dc0412ce9][^c-be918e116fe7df7e6e166d9dc0412ce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -547,7 +547,7 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-537a4e2dac82816977fe148aedd791dd]...
+[^c-537a4e2dac82816977fe148aedd791dd]...
 
 Done at Brussels, 2 August 2017.
 
@@ -565,10 +565,10 @@ Jean-Claude Juncker
 
 [^M_F_bbc98e10-1782-488a-8900-843c472fc6f7]: Textual amendment: Title 2 Ch. 2 number and heading omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/37) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99ed9b663c69d04606d7197ce88bf38d]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/eur/2017/1485/part/3) Title 3 Ch. 1 substituted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/57) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99ed9b663c69d04606d7197ce88bf38d]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/eur/2017/1485/part/3) Title 3 Ch. 1 substituted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/57) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-be918e116fe7df7e6e166d9dc0412ce9]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/eur/2017/1485/part/3) Title 7 number and heading omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/78) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be918e116fe7df7e6e166d9dc0412ce9]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/eur/2017/1485/part/3) Title 7 number and heading omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 78](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/78) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_c2a09c0f-3d66-4621-ab95-a982a8690140]: Textual amendment: Ch. number and heading preceding Art. 180 omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 113](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/113) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-537a4e2dac82816977fe148aedd791dd]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/1485/signature) omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/124) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-537a4e2dac82816977fe148aedd791dd]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/1485/signature) omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 124](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/124) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

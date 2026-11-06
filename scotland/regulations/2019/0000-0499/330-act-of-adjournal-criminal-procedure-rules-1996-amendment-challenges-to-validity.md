@@ -49,7 +49,7 @@ Coming into force in accordance with paragraph 1(2)
 
 The High Court of Justiciary makes this Act of Adjournal under the powers conferred by section 305 of the Criminal Procedure (Scotland) Act 1995 [^c23910771] and all other powers enabling it to do so.
 
-## 1. Citation and commencement, etc.[^key-e9fd7a2081d69a0d0b2a0a7481964ed4]
+## 1. Citation and commencement, etc.[^c-e9fd7a2081d69a0d0b2a0a7481964ed4]
 
 (1) This Act of Adjournal may be cited as the Act of Adjournal (Criminal Procedure Rules 1996 Amendment) (Challenges to Validity of EU Instruments (EU Exit)) 2019.
 
@@ -57,7 +57,7 @@ The High Court of Justiciary makes this Act of Adjournal under the powers confer
 
 (3) A certified copy is to be inserted in the Books of Adjournal.
 
-## 2. Amendment of the Criminal Procedure Rules 1996[^key-003c89eef1110d2642d37a9f001851ec]
+## 2. Amendment of the Criminal Procedure Rules 1996[^c-003c89eef1110d2642d37a9f001851ec]
 
 (1) The Criminal Procedure Rules 1996 [^c23910781] are amended in accordance with this paragraph.
 
@@ -83,7 +83,7 @@ The High Court of Justiciary makes this Act of Adjournal under the powers confer
 >
 > (1) This rule applies to solemn and summary proceedings.
 >
-> (2) Where a party to solemn or summary proceedings seeks a declaration from the court that an EU instrument was invalid on any of the grounds set out in the second paragraph of Article 263 TFEU as it has effect immediately before IP completion day[^key-8d97f84f02faa5c7df630c48945d41b1], or the court is considering whether to make such a declaration at its own instance in the proceedings—
+> (2) Where a party to solemn or summary proceedings seeks a declaration from the court that an EU instrument was invalid on any of the grounds set out in the second paragraph of Article 263 TFEU as it has effect immediately before IP completion day[^c-8d97f84f02faa5c7df630c48945d41b1], or the court is considering whether to make such a declaration at its own instance in the proceedings—
 >
 > - (a) notice in Form 70.2-A is to be given to the relevant UK authorities no later than 21 days, or such other period as the court may direct, before the date on which the declaration is to be made—
 >   - (i) by the party seeking the declaration; or
@@ -144,9 +144,9 @@ This Act of Adjournal amends the Criminal Procedure Rules 1996 by inserting a ne
 
 [^c23910771]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 305 was amended by section 111(1) of the [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1) and [S.S.I. 2015/338](https://www.legislation.gov.uk/ssi/2015/338), and was extended by section 386(3)(a) of the [Proceeds of Crime Act 2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), [section 36A(4)](https://www.legislation.gov.uk/ukpga/2002/29/section/36A/4) of the [Serious Crime Act 2007 (c.27)](https://www.legislation.gov.uk/ukpga/2007/27), and section 32(5) of the [Psychoactive Substances Act 2016 (c.2)](https://www.legislation.gov.uk/ukpga/2016/2).
 
-[^key-e9fd7a2081d69a0d0b2a0a7481964ed4]: Commencement: Para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
+[^c-e9fd7a2081d69a0d0b2a0a7481964ed4]: Commencement: Para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
 
-[^key-003c89eef1110d2642d37a9f001851ec]: Commencement: Para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
+[^c-003c89eef1110d2642d37a9f001851ec]: Commencement: Para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
 
 [^c23910781]: Marginal citation: The Criminal Procedure Rules 1996 are in schedule 2 of the [Act of Adjournal (Criminal Procedure Rules) 1996 (S.I. 1996/513)](https://www.legislation.gov.uk/uksi/1996/513), last amended by [S.S.I. 2019/321](https://www.legislation.gov.uk/ssi/2019/321).
 
@@ -158,6 +158,6 @@ This Act of Adjournal amends the Criminal Procedure Rules 1996 by inserting a ne
 
 [^c23910821]: Marginal citation: OJ C 202, 7.6.2016, p.1-388.
 
-[^key-8d97f84f02faa5c7df630c48945d41b1]: Textual amendment: Words in para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [Act of Adjournal (Challenges to Validity of EU Instruments (EU Exit)) (Amendment) 2020 (S.S.I. 2020/470)](https://www.legislation.gov.uk/ssi/2020/470), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/470/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2020/470/paragraph/2/2)
+[^c-8d97f84f02faa5c7df630c48945d41b1]: Textual amendment: Words in para. 2(2) substituted (31.12.2020 immediately before IP completion day) by [Act of Adjournal (Challenges to Validity of EU Instruments (EU Exit)) (Amendment) 2020 (S.S.I. 2020/470)](https://www.legislation.gov.uk/ssi/2020/470), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/470/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2020/470/paragraph/2/2)
 
 [^M_I_8a2f99d1-4175-465a-9579-da33dde14da8]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)

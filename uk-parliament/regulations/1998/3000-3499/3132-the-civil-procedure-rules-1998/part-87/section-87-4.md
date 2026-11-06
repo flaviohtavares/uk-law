@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87.4. Initial consideration of the application on paper[^key-18df3bea28ba5fc12e0f6a1d3db0acd8]
+## 87.4. Initial consideration of the application on paper[^c-18df3bea28ba5fc12e0f6a1d3db0acd8]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) make an order for the issue of the writ;
 - (b) adjourn the application to a hearing;
-- (c) direct that the application be considered by a Divisional Court of the King’s[^key-ed606845e84d77e21d2e9711c4709f8c] Bench Division;
+- (c) direct that the application be considered by a Divisional Court of the King’s[^c-ed606845e84d77e21d2e9711c4709f8c] Bench Division;
 - (d) direct that the application continues as an application for permission to apply for judicial review;
 - (e) give such other directions for resolution of the application as may be appropriate; or
 - (f) dismiss the application.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18df3bea28ba5fc12e0f6a1d3db0acd8]: Textual amendment: [Pt. 87](https://www.legislation.gov.uk/uksi/1998/3132/part/87) inserted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3299/schedule/2)
+[^c-18df3bea28ba5fc12e0f6a1d3db0acd8]: Textual amendment: [Pt. 87](https://www.legislation.gov.uk/uksi/1998/3132/part/87) inserted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3299/schedule/2)
 
-[^key-ed606845e84d77e21d2e9711c4709f8c]: Textual amendment: Word in [rule 87.4(1)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/87.4/1/c) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [40(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/40/1)
+[^c-ed606845e84d77e21d2e9711c4709f8c]: Textual amendment: Word in [rule 87.4(1)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/87.4/1/c) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [40(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/40/1)

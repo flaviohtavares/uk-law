@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Definition of debt[^key-6997a989e72e97c2bcc4785840dcb3cb]
+## 9. Definition of debt[^c-6997a989e72e97c2bcc4785840dcb3cb]
 
 *Extent: N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6997a989e72e97c2bcc4785840dcb3cb]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/2/section/9) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-6997a989e72e97c2bcc4785840dcb3cb]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/2/section/9) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

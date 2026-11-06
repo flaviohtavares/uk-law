@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Period for which interim compulsory supervision order or interim variation of compulsory supervision order has effect[^key-6dfe30b2b76509b8fc230df1899fa246]
+## 54. Period for which interim compulsory supervision order or interim variation of compulsory supervision order has effect[^c-6dfe30b2b76509b8fc230df1899fa246]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dfe30b2b76509b8fc230df1899fa246]: Commencement: S. 54 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-6dfe30b2b76509b8fc230df1899fa246]: Commencement: S. 54 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

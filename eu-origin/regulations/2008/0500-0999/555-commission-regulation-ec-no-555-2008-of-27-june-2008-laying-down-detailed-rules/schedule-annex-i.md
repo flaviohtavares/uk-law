@@ -16,125 +16,125 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX I — WINE CMO — Submission of support programme[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+## ANNEX I — WINE CMO — Submission of support programme[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] A.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] A.
 
 FINANCIAL YEARS 2009-2013
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] A.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] A.
 
 **Description of the measures proposed as well as their quantified objectives**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (a)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (a)
 
 *Single Payment Scheme support in accordance with Article 103o*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (b)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (b)
 
 *Promotion in accordance with Article 103p*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (c)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (c)
 
 *Restructuring and conversion of vineyard in accordance with Article 103q*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (d)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (d)
 
 *Green harvesting in accordance with Article 103r*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (e)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (e)
 
 *Mutual funds in accordance with Article 103s*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (f)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (f)
 
 *Harvest insurance in accordance with Article 103t*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (g)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (g)
 
 *Investments in enterprises in accordance with Article 103u*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (h)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (h)
 
 *By-product distillation in accordance with Article 103v*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (i)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (i)
 
 *Potable alcohol distillation in accordance with Article 103w*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (j)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (j)
 
 *Crisis distillation in accordance with Article 103x*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] (k)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] (k)
 
 *Use of concentrated grape must in accordance with Article 103y*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] B.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] B.
 
 **Results of consultations held**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] C.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] C.
 
 **Appraisal showing the expected technical, economic, environmental and social impact**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] D.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] D.
 
 **Schedule for implementing the measures**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] E.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] E.
 
 **General financing table given in the format of Annex II (revision number to be specified)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] F.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] F.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] G.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] G.
 
 **Designation of competent authorities and bodies responsible for implementing the programme**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] B.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] B.
 
 FINANCIAL YEARS 2014-2018
 
@@ -142,4 +142,4 @@ FINANCIAL YEARS 2014-2018
 
 ## Annotations
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Service charge demands[^key-5b36552ed49086b445b03b05460ae466]
+## 55. Service charge demands[^c-5b36552ed49086b445b03b05460ae466]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b36552ed49086b445b03b05460ae466]: Commencement: S. 55 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-5b36552ed49086b445b03b05460ae466]: Commencement: S. 55 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

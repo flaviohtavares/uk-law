@@ -35,17 +35,17 @@ on the approval, on behalf of the European Union, of the Amendment to the Conven
 
 (2010/717/EU) (revoked)
 
-[^key-ac213c466ba455ad5c742a906b4313dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac213c466ba455ad5c742a906b4313dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ac213c466ba455ad5c742a906b4313dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ac213c466ba455ad5c742a906b4313dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ac213c466ba455ad5c742a906b4313dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ac213c466ba455ad5c742a906b4313dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ac213c466ba455ad5c742a906b4313dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ac213c466ba455ad5c742a906b4313dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac213c466ba455ad5c742a906b4313dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac213c466ba455ad5c742a906b4313dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 AMENDMENT TO THE CONVENTION ON FUTURE MULTILATERAL COOPERATION IN THE NORTHWEST ATLANTIC FISHERIES
 
@@ -865,4 +865,4 @@ The Contracting Parties to the Convention on Future Multilateral Cooperation in 
 
 ## Annotations
 
-[^key-ac213c466ba455ad5c742a906b4313dd]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-ac213c466ba455ad5c742a906b4313dd]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

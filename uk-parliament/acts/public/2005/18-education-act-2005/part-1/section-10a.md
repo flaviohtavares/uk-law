@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## "10A. Interim statements between inspections[^key-ea7c6cdef35b0a7bf6ea03f8fa7b11bb]
+## "10A. Interim statements between inspections[^c-ea7c6cdef35b0a7bf6ea03f8fa7b11bb]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea7c6cdef35b0a7bf6ea03f8fa7b11bb]: Textual amendment: S. 10A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-ea7c6cdef35b0a7bf6ea03f8fa7b11bb]: Textual amendment: S. 10A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)

@@ -44,17 +44,17 @@ The Department for the Economy[^f00001] makes the following Regulations in exerc
 
 ## Part 1 — General
 
-### 1. Citation and commencement[^key-ac0143bb59ed86f82971377b2700bfe3]
+### 1. Citation and commencement[^c-ac0143bb59ed86f82971377b2700bfe3]
 
 (1) These Regulations may be cited as the Renewable Heat Incentive Scheme (Closure) Regulations (Northern Ireland) 2026.
 
 (2) These Regulations come into operation on the day following the day on which they are approved by resolution of the Assembly.
 
-### 2. Expiry[^key-6e42f2e53d24fadea4748e5fb6b47fda]
+### 2. Expiry[^c-6e42f2e53d24fadea4748e5fb6b47fda]
 
 These Regulations expire on 31 December 2038.
 
-### 3. Interpretation[^key-fd39d4a46095e656ee5caac7953ed823]
+### 3. Interpretation[^c-fd39d4a46095e656ee5caac7953ed823]
 
 In these Regulations—
 
@@ -82,7 +82,7 @@ In these Regulations—
   - (b) annual closure payments under these Regulations;
 - “**the 2012 Regulations**” means the Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2012[^f00004].
 
-### 4. Overview: closure of the scheme[^key-dba92be8defe3c5d86e418d7c40f1da5]
+### 4. Overview: closure of the scheme[^c-dba92be8defe3c5d86e418d7c40f1da5]
 
 These Regulations—
 
@@ -93,14 +93,14 @@ These Regulations—
 
 ## Part 2 — Closure accreditation
 
-### 5. Notification of pending conversion to closure accreditation[^key-249a1fa1c045fd4bdb2e09ee52b25c1f]
+### 5. Notification of pending conversion to closure accreditation[^c-249a1fa1c045fd4bdb2e09ee52b25c1f]
 
 The Department must notify an existing participant—
 
 - (a) that their existing accreditation, subject to compliance with the requirements set out in these Regulations, is to be converted to a closure accreditation, and
 - (b) of the relevant information that the Department holds in respect of that accreditation.
 
-### 6. Consideration of whether plant is an eligible installation for purposes of conversion[^key-ca68dda1ee9cc9735384ed776699a793]
+### 6. Consideration of whether plant is an eligible installation for purposes of conversion[^c-ca68dda1ee9cc9735384ed776699a793]
 
 (1) The existing participant must—
 
@@ -134,7 +134,7 @@ within 28 days of the existing participant completing the requirements of this r
 
 (9) This regulation is without prejudice to the powers of the Department to request information and carry out inspections under regulations 28 and 37.
 
-### 7. Conversion to closure accreditation[^key-ec8fdbdaaafd7d49160bea2e78a27e6d]
+### 7. Conversion to closure accreditation[^c-ec8fdbdaaafd7d49160bea2e78a27e6d]
 
 (1) The Department must convert an existing accreditation to a closure accreditation if satisfied that—
 
@@ -158,7 +158,7 @@ within 28 days of the existing participant completing the requirements of this r
 - (g) the tariff lifetime,
 - (h) any other information that the Department considers appropriate.
 
-### 8. Revocation of existing accreditation if not converted[^key-3784470247c8bd8cc156a777837b5343]
+### 8. Revocation of existing accreditation if not converted[^c-3784470247c8bd8cc156a777837b5343]
 
 (1) If an existing accreditation is not converted, it is revoked.
 
@@ -168,7 +168,7 @@ within 28 days of the existing participant completing the requirements of this r
 
 (4) That notification must inform the existing participant of their right of review.
 
-### 9. Conversion day[^key-aae2086301ac677107ea321768d6618a]
+### 9. Conversion day[^c-aae2086301ac677107ea321768d6618a]
 
 (1) The conversion day of an installation is the day following its final quarter day.
 
@@ -178,7 +178,7 @@ within 28 days of the existing participant completing the requirements of this r
 
 ## Part 3 — Annual closure payments
 
-### 10. Payment of annual closure payments[^key-6cb37af67a69f1bdba9a2e12a8e84316]
+### 10. Payment of annual closure payments[^c-6cb37af67a69f1bdba9a2e12a8e84316]
 
 (1) Annual closure payments are payable in respect of a closure accredited installation in respect of the remainder of the original payment period.
 
@@ -198,7 +198,7 @@ within 28 days of the existing participant completing the requirements of this r
 
 (6) Annual closure payments are not payable until after the Department is satisfied that the closure participant has submitted an annual declaration that satisfies the requirements of these Regulations.
 
-### 11. Calculation of annual closure payments[^key-684b2008707491978848d512a7c1324e]
+### 11. Calculation of annual closure payments[^c-684b2008707491978848d512a7c1324e]
 
 (1) The annual closure payment for an installation of a type set out in Table 1 of Schedule 1 is—
 
@@ -242,7 +242,7 @@ where—
 
 (6) The tariff for an installation is determined by reference to its type and capacity, as set out in Schedule 1.
 
-### 12. Calculation of load factor[^key-5497cb401131373054c917ff0d949ee4]
+### 12. Calculation of load factor[^c-5497cb401131373054c917ff0d949ee4]
 
 (1) The load factor (LF) for an installation is the average of the eight quarterly load factors for the installation for the period 2017 to 2019, expressed as a percentage.
 
@@ -277,7 +277,7 @@ the Department may revise the calculation of Eq for that quarter.
 
 (8) Where the calculation of load factor gives a result of less than 5%, load factor is deemed to be 5%.
 
-### 13. Inflationary change in tariffs[^key-492c5d7483c6beb57fc8e541a98bb15e]
+### 13. Inflationary change in tariffs[^c-492c5d7483c6beb57fc8e541a98bb15e]
 
 (1) The tariffs listed in Schedule 1 are increased or decreased on 1st April 2027 and on 1st April of each subsequent year by the percentage increase or decrease in the relevant prices index for the previous calendar year.
 
@@ -292,7 +292,7 @@ the Department may revise the calculation of Eq for that quarter.
 
 (5) In this regulation “**the Office for National Statistics**” means the Statistics Board, a body corporate established under section 1 of the Statistics and Registration Service Act 2007[^f00005].
 
-### 14. Cap on annual closure payment (small and medium biomass installations)[^key-e2e7139fbda3dcda6cc3f9b0508f3f43]
+### 14. Cap on annual closure payment (small and medium biomass installations)[^c-e2e7139fbda3dcda6cc3f9b0508f3f43]
 
 (1) This regulation applies in respect of installations of a type set out in Table 2 of Schedule 1.
 
@@ -308,7 +308,7 @@ where—
 - (b) LF is the load factor, as a percentage,
 - (c) 8,760 is the number of hours in a year.
 
-### 15. Annual closure payment where closure accreditation revoked or ownership transferred[^key-e6aa9a1425dc7596f2c964f2115668c5]
+### 15. Annual closure payment where closure accreditation revoked or ownership transferred[^c-e6aa9a1425dc7596f2c964f2115668c5]
 
 (1) Where—
 
@@ -326,7 +326,7 @@ the closure participant (but not the new owner) is entitled to an annual closure
 
 (4) Where paragraph (3) applies, the annual declaration may be made in respect of the period commencing on the date that ownership is transferred.
 
-### 16. Installation operating below normal levels: banding[^key-3b479f7129e35ba35da2e0c75a574b2b]
+### 16. Installation operating below normal levels: banding[^c-3b479f7129e35ba35da2e0c75a574b2b]
 
 (1) This regulation applies where, in a particular year for which an annual closure payment is sought, an installation’s operating level was less than two-thirds of what is normal, for example, because the installation was temporarily out of operation for part of that year.
 
@@ -348,7 +348,7 @@ the closure participant (but not the new owner) is entitled to an annual closure
 
 ### Eligibility
 
-#### 17. Eligible installations[^key-571d67286f4e821cd12f44e3c21a3304]
+#### 17. Eligible installations[^c-571d67286f4e821cd12f44e3c21a3304]
 
 (1) A plant meets the criteria for being an eligible installation (the “eligibility criteria”) if—
 
@@ -358,7 +358,7 @@ the closure participant (but not the new owner) is entitled to an annual closure
 
 (2) But this is subject to regulation 22 where a plant is comprised of more than one plant.
 
-#### 18. Eligible purposes[^key-6f9949b1360a1326eb01cbe0c9800ac9]
+#### 18. Eligible purposes[^c-6f9949b1360a1326eb01cbe0c9800ac9]
 
 (1) Heat is generated for an eligible purpose if it is—
 
@@ -373,7 +373,7 @@ the closure participant (but not the new owner) is entitled to an annual closure
 
 (3) For the purposes of this regulation “**domestic premises**” means single, self-contained premises used wholly or mainly as a private residential dwelling where the fabric of the building has not been significantly adapted for non-residential use.
 
-#### 19. Installations generating heat from solid biomass[^key-b00d389dac79691db396a66afb6fc5a2]
+#### 19. Installations generating heat from solid biomass[^c-b00d389dac79691db396a66afb6fc5a2]
 
 This regulation applies if the plant complies with the following requirements—
 
@@ -382,14 +382,14 @@ This regulation applies if the plant complies with the following requirements—
 - (c) the heat from the solid biomass is generated using equipment specifically designed and installed to use solid biomass as its only or primary fuel source, and
 - (d) the fuel used is produced sustainably and is of satisfactory quality.
 
-#### 20. Installations generating heat using solar collectors[^key-ea7fc257a89f42a4f922b2ebb8ea2c78]
+#### 20. Installations generating heat using solar collectors[^c-ea7fc257a89f42a4f922b2ebb8ea2c78]
 
 This regulation applies if the plant complies with the following requirements—
 
 - (a) it generates heat using a solar collector, and
 - (b) it has an installation capacity of less than 200kWth.
 
-#### 21. Installations generating heat using heat pumps[^key-6e0b763e5f652cce156df33dcd8e6da3]
+#### 21. Installations generating heat using heat pumps[^c-6e0b763e5f652cce156df33dcd8e6da3]
 
 This regulation applies if the plant is a heat pump and complies with the following requirements—
 
@@ -398,7 +398,7 @@ This regulation applies if the plant is a heat pump and complies with the follow
   - (ii) surface liquid or ground liquid, and
 - (b) it has a coefficient of performance of at least 2.9.
 
-#### 22. Plants comprised of more than one plant[^key-2f4496c6098a22462ae246abf8e07cd3]
+#### 22. Plants comprised of more than one plant[^c-2f4496c6098a22462ae246abf8e07cd3]
 
 (1) The eligibility criteria are not met if the plant is comprised of more than one plant.
 
@@ -412,7 +412,7 @@ these plants (“the component plants”) are to be regarded as a single plant f
 
 ### Continuity of eligibility
 
-#### 23. Change in location of installation[^key-eb1ff18b13025527270cd6a68ba1dbe4]
+#### 23. Change in location of installation[^c-eb1ff18b13025527270cd6a68ba1dbe4]
 
 (1) This regulation applies where a closure accredited installation is moved to a new location during its tariff lifetime.
 
@@ -434,7 +434,7 @@ these plants (“the component plants”) are to be regarded as a single plant f
 
 (7) Where the Department is not so satisfied, accreditation is revoked on the date the Department considers appropriate.
 
-#### 24. Change in ownership of installation[^key-e98650e9bff09d5b2c2fb927c3f250c5]
+#### 24. Change in ownership of installation[^c-e98650e9bff09d5b2c2fb927c3f250c5]
 
 (1) This regulation applies where ownership of a closure accredited installation is transferred to another person (“the new owner”).
 
@@ -468,7 +468,7 @@ these plants (“the component plants”) are to be regarded as a single plant f
 
 (11) The period specified in paragraph (10) may be extended by the Department where the Department considers it is just and equitable to do so, including where the new owner has complied with the notification requirements, but the current closure participant has failed to comply with paragraph (3).
 
-#### 25. Replacement of installation[^key-e7a99b48707e0bd7f600fd9b513394a9]
+#### 25. Replacement of installation[^c-e7a99b48707e0bd7f600fd9b513394a9]
 
 (1) This regulation applies where a closure accredited installation is completely replaced.
 
@@ -499,7 +499,7 @@ then paragraph (8) applies.
 
 ## Part 5 — Ongoing obligations on closure participants
 
-### 26. Annual declaration[^key-7c4a02bb592c013774ce456272514d37]
+### 26. Annual declaration[^c-7c4a02bb592c013774ce456272514d37]
 
 (1) Each year, a closure participant must submit an annual declaration to the Department in respect of each closure accredited installation for which they are the closure participant.
 
@@ -520,7 +520,7 @@ then paragraph (8) applies.
 - (a) the annual declaration must be submitted within 28 days of the date referred to in regulation 15(2) and not the date set out in paragraph (2),
 - (b) paragraph (4)(a) and (b) do not apply.
 
-### 27. General obligations[^key-199e6f9a23e4757f68a41b943dc1b96c]
+### 27. General obligations[^c-199e6f9a23e4757f68a41b943dc1b96c]
 
 A closure participant must—
 
@@ -533,7 +533,7 @@ A closure participant must—
 - (g) if requested, provide evidence to satisfy the Department that the heat for which the annual closure payments are made is used for an eligible purpose,
 - (h) comply with such other administrative requirements that the Department may specify in relation to the effective administration of the scheme.
 
-### 28. Provision of information[^key-3b39eb0edd074deeb38c87033bb9b146]
+### 28. Provision of information[^c-3b39eb0edd074deeb38c87033bb9b146]
 
 (1) A closure participant must provide to the Department on request—
 
@@ -547,7 +547,7 @@ and which the Department requires in order to discharge its functions under thes
 
 (3) Information provided to the Department under these Regulations must be accurate to the best of the participant’s knowledge and belief.
 
-### 29. Notification of change in circumstances[^key-79e63d2e30222a94980c9d849dbba00e]
+### 29. Notification of change in circumstances[^c-79e63d2e30222a94980c9d849dbba00e]
 
 A closure participant must notify the Department within 28 days of any of the following change of circumstances—
 
@@ -562,7 +562,7 @@ A closure participant must notify the Department within 28 days of any of the fo
 
 ## Part 6 — Enforcement
 
-### 30. Failure to comply[^key-b6d2d54c10babbed6316b032be100fdf]
+### 30. Failure to comply[^c-b6d2d54c10babbed6316b032be100fdf]
 
 For the purposes of this Part, a closure participant fails to comply with these Regulations if—
 
@@ -572,7 +572,7 @@ For the purposes of this Part, a closure participant fails to comply with these 
 - (d) an annual declaration has not been submitted in accordance with regulation 26, or
 - (e) the closure participant has failed to comply with an ongoing obligation set out in regulations 27 to 29.
 
-### 31. Temporary withholding of annual closure payments pending investigation[^key-540adb5b604b5b57ae4cd386e19d3d35]
+### 31. Temporary withholding of annual closure payments pending investigation[^c-540adb5b604b5b57ae4cd386e19d3d35]
 
 (1) Where the Department has reasonable grounds to suspect that a closure participant has failed or is failing to comply with these Regulations and the Department needs to investigate, it may temporarily withhold all or part of that closure participant’s annual closure payments.
 
@@ -598,7 +598,7 @@ For the purposes of this Part, a closure participant fails to comply with these 
 
 (8) If, on conclusion of the investigation, the Department is satisfied that a closure participant is failing or has failed to comply with an ongoing obligation it may impose one or more of the other sanctions set out in this Part.
 
-### 32. Suspension of annual closure payments where ongoing failure to comply[^key-6ad51311915e82d441f6f97168da63bf]
+### 32. Suspension of annual closure payments where ongoing failure to comply[^c-6ad51311915e82d441f6f97168da63bf]
 
 (1) Where the Department is satisfied that a closure participant is failing to comply with these Regulations it may suspend that closure participant’s annual closure payments.
 
@@ -618,7 +618,7 @@ For the purposes of this Part, a closure participant fails to comply with these 
 
 (6) Subject to paragraph (4), a closure participant may not recover any annual closure payments suspended in accordance with this regulation.
 
-### 33. Permanent withholding or reduction of annual closure payments[^key-00867015c5866a0cfff85c111f57681f]
+### 33. Permanent withholding or reduction of annual closure payments[^c-00867015c5866a0cfff85c111f57681f]
 
 (1) Where the Department is satisfied that there has been a material or repeated failure by a closure participant to comply with these Regulations during any 12 month period and the annual closure payment for that 12 month period has not been paid, the Department may take one or more of the following actions—
 
@@ -634,7 +634,7 @@ For the purposes of this Part, a closure participant fails to comply with these 
 
 (3) Where reducing an annual closure payment in accordance with paragraph (1)(b), the Department may decide the level of the reduction up to a maximum reduction of 100 per cent of the annual closure payment in question.
 
-### 34. Revocation of closure accreditation[^key-f009273bd42ec3fc5f4988d98ca80018]
+### 34. Revocation of closure accreditation[^c-f009273bd42ec3fc5f4988d98ca80018]
 
 (1) The Department may revoke closure accreditation if satisfied that there has been a material or repeated failure by a closure participant to comply with these Regulations.
 
@@ -655,7 +655,7 @@ For the purposes of this Part, a closure participant fails to comply with these 
 - (e) where regulation 30(e) applies (otherwise than by virtue of regulation 27(e), regulation 29 (c), (d) or (g)), the date, in the opinion of the Department, of the failure,
 - (f) where regulation 37(2) applies, the start of the period in respect of which the annual closure payment is payable.
 
-### 35. Overpayment notices and offsetting[^key-f8b833f070fc43cc25b1c5333172c48d]
+### 35. Overpayment notices and offsetting[^c-f8b833f070fc43cc25b1c5333172c48d]
 
 (1) Where the Department is satisfied that a closure participant has received a relevant payment which exceeds the closure participant′s entitlement, or has received a relevant payment whilst failing to comply with a relevant obligation, it may—
 
@@ -681,7 +681,7 @@ For the purposes of this Part, a closure participant fails to comply with these 
 
 (4) For the purposes of this regulation, a closure participant is entitled to a periodic support payment if they were entitled to it by virtue of the 2012 Regulations during the period when those Regulations were in operation.
 
-### 36. Revocation of sanctions[^key-fb864ec7c478d77003042828dadfd68b]
+### 36. Revocation of sanctions[^c-fb864ec7c478d77003042828dadfd68b]
 
 (1) The Department may at any time revoke a sanction imposed in accordance with this Part if it is satisfied that—
 
@@ -694,7 +694,7 @@ For the purposes of this Part, a closure participant fails to comply with these 
 - (b) the reason for the revocation, and
 - (c) what action if any the Department proposes to take in relation to any loss incurred by the closure participant as a result of the imposition of the sanction including the time within which any action will be taken.
 
-### 37. Power to inspect[^key-6192b04ba7294a77d01d07fee9305a6f]
+### 37. Power to inspect[^c-6192b04ba7294a77d01d07fee9305a6f]
 
 (1) The Department or its authorised agent may, upon giving notice of at least 24 hours, request entry at any reasonable hour to inspect a closure accredited installation and its associated infrastructure for the purposes of verifying that the closure participant is complying with these Regulations.
 
@@ -712,7 +712,7 @@ in a way that the Department considers unreasonable, the Department may take any
 
 ## Part 7 — Administration
 
-### 38. Right of review[^key-1135b540e3375d89a135108cbbe9f4b9]
+### 38. Right of review[^c-1135b540e3375d89a135108cbbe9f4b9]
 
 (1) Any prospective, current or former closure participant affected by a decision made by the Department in exercise of its functions under these Regulations (other than a determination made in accordance with this regulation) may have that decision reviewed by the Department.
 
@@ -748,7 +748,7 @@ in a way that the Department considers unreasonable, the Department may take any
 
 (9) The Department must, as soon as is possible, notify the applicant, and any other person who is in the Department’s opinion affected, of its determination and the reasons for its determination.
 
-### 39. Right of further review[^key-18dfa2fe10736a6af6eea4dba0025626]
+### 39. Right of further review[^c-18dfa2fe10736a6af6eea4dba0025626]
 
 (1) The applicant, and any other person who is in the Department’s opinion affected by a determination under regulation 38, may request a further review of the Department’s determination.
 
@@ -774,7 +774,7 @@ in a way that the Department considers unreasonable, the Department may take any
 
 (8) Where the Department considers that it is not reasonably practicable to give effect to the panel’s determination within that period, it must notify the applicant of the reasons for the delay and the steps being taken to implement the determination.
 
-### 40. Voluntary withdrawal from scheme[^key-7dd64e8a6ccc64e8be7dd0c5640b5b96]
+### 40. Voluntary withdrawal from scheme[^c-7dd64e8a6ccc64e8be7dd0c5640b5b96]
 
 (1) A closure participant may withdraw from the scheme by notifying the Department, in the form and manner required by the Department, that the closure participant no longer wishes to be part of the scheme.
 
@@ -782,11 +782,11 @@ in a way that the Department considers unreasonable, the Department may take any
 
 (3) Revocation following withdrawal does not affect any right, privilege, obligation or liability acquired, accrued or incurred under these Regulations, or the 2012 Regulations, in respect of the time before revocation.
 
-### 41. Publication of guidance[^key-214723b1c5cc1d9cea4ab021d3213efc]
+### 41. Publication of guidance[^c-214723b1c5cc1d9cea4ab021d3213efc]
 
 The Department must publish procedural guidance to closure participants and prospective closure participants in connection with the administration of the scheme.
 
-### 42. Publication of information[^key-bd53f5c186ec641a4d965e0c16a0d9c0]
+### 42. Publication of information[^c-bd53f5c186ec641a4d965e0c16a0d9c0]
 
 The Department must publish the following information in aggregate form on its website—
 
@@ -794,7 +794,7 @@ The Department must publish the following information in aggregate form on its w
 - (b) the technology and installation capacity of those installations,
 - (c) the total amount of annual closure payments made under each tariff.
 
-### 43. Notices[^key-9839ab3ec75cc7e66779cf2a2614b6be]
+### 43. Notices[^c-9839ab3ec75cc7e66779cf2a2614b6be]
 
 A notice under these Regulations—
 
@@ -803,7 +803,7 @@ A notice under these Regulations—
 
 ## Part 8 — Final
 
-### 44. Savings and transitional provisions consequent upon revocation of 2012 Regulations[^key-2628e0567663b989cfa2010e7fad688e]
+### 44. Savings and transitional provisions consequent upon revocation of 2012 Regulations[^c-2628e0567663b989cfa2010e7fad688e]
 
 (1) Part 5 of the 2012 Regulations (periodic support payments) continues to apply, for the purposes of the Department exercising its functions in relation to periodic support payments under the 2012 Regulations, including processing a periodic support payment, where entitlement to that periodic support payment arose before the coming into operation of these Regulations.
 
@@ -821,11 +821,11 @@ A notice under these Regulations—
 
 (8) Provisions of the 2012 Regulations that continue to apply by virtue of this regulation cease to apply on 01 March 2027.
 
-### 45. Savings consequent upon expiry of these Regulations[^key-8c28e9acbda9d0e3437fbc689cf13ec5]
+### 45. Savings consequent upon expiry of these Regulations[^c-8c28e9acbda9d0e3437fbc689cf13ec5]
 
 Notwithstanding the expiry of these Regulations, regulations 38 and 39 apply in respect of a review if the application for the review was made before the expiry of these Regulations.
 
-### 46. Revocations[^key-624ba3aa0a33986a3789d3c3c56b2f94]
+### 46. Revocations[^c-624ba3aa0a33986a3789d3c3c56b2f94]
 
 The following are revoked—
 
@@ -842,7 +842,7 @@ Dr Caoimhe Archibald
 
 Minister for the Economy
 
-## SCHEDULE 1 — Tariffs[^key-0aee20fa6d0cdc632b568c4abda949ff]
+## SCHEDULE 1 — Tariffs[^c-0aee20fa6d0cdc632b568c4abda949ff]
 
 Regulations 11 and 14
 
@@ -867,7 +867,7 @@ Table 2: installations where the tariff has tiers
 
 Regulations 23 to 25 and 28
 
-### 1. Information required in respect of closure accreditations[^key-c67c0eef47b83787c3f03ed19cfd47de]
+### 1. Information required in respect of closure accreditations[^c-c67c0eef47b83787c3f03ed19cfd47de]
 
 (1) This Schedule specifies the information that may be required of a closure participant, including in particular—
 
@@ -945,102 +945,102 @@ An impact assessment has been produced for this Statutory Rule.
 
 [^f00003]: Footnote: [2026 c. 5 (NI)](https://www.legislation.gov.uk/nia/2026/5).
 
-[^key-ac0143bb59ed86f82971377b2700bfe3]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
+[^c-ac0143bb59ed86f82971377b2700bfe3]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
 
-[^key-6e42f2e53d24fadea4748e5fb6b47fda]: Commencement: Reg. 2 comes into force in accordance with reg. 1(2)
+[^c-6e42f2e53d24fadea4748e5fb6b47fda]: Commencement: Reg. 2 comes into force in accordance with reg. 1(2)
 
-[^key-fd39d4a46095e656ee5caac7953ed823]: Commencement: Reg. 3 comes into force in accordance with reg. 1(2)
+[^c-fd39d4a46095e656ee5caac7953ed823]: Commencement: Reg. 3 comes into force in accordance with reg. 1(2)
 
 [^f00004]: Footnote: [S.R. 2012 No. 396](https://www.legislation.gov.uk/nisr/2012/396)[S.R. 2012/396](https://www.legislation.gov.uk/nisr/2012/396). The Regulations were amended by [S.R. 2014/301](https://www.legislation.gov.uk/nisr/2014/301), [S.R. 2015/371](https://www.legislation.gov.uk/nisr/2015/371), [S.R. 2016/47](https://www.legislation.gov.uk/nisr/2016/47), [S.R. 2017/32](https://www.legislation.gov.uk/nisr/2017/32), the Northern Ireland (Regional Rates and Energy) Act [2018 (c.6)](https://www.legislation.gov.uk/ukpga/2018/6), the Northern Ireland (Regional Rates and Energy) Act [2019 (c.13)](https://www.legislation.gov.uk/ukpga/2019/13), and [S.R. 2025/195](https://www.legislation.gov.uk/nisr/2025/195).
 
-[^key-dba92be8defe3c5d86e418d7c40f1da5]: Commencement: Reg. 4 comes into force in accordance with reg. 1(2)
+[^c-dba92be8defe3c5d86e418d7c40f1da5]: Commencement: Reg. 4 comes into force in accordance with reg. 1(2)
 
-[^key-249a1fa1c045fd4bdb2e09ee52b25c1f]: Commencement: Reg. 5 comes into force in accordance with reg. 1(2)
+[^c-249a1fa1c045fd4bdb2e09ee52b25c1f]: Commencement: Reg. 5 comes into force in accordance with reg. 1(2)
 
-[^key-ca68dda1ee9cc9735384ed776699a793]: Commencement: Reg. 6 comes into force in accordance with reg. 1(2)
+[^c-ca68dda1ee9cc9735384ed776699a793]: Commencement: Reg. 6 comes into force in accordance with reg. 1(2)
 
-[^key-ec8fdbdaaafd7d49160bea2e78a27e6d]: Commencement: Reg. 7 comes into force in accordance with reg. 1(2)
+[^c-ec8fdbdaaafd7d49160bea2e78a27e6d]: Commencement: Reg. 7 comes into force in accordance with reg. 1(2)
 
-[^key-3784470247c8bd8cc156a777837b5343]: Commencement: Reg. 8 comes into force in accordance with reg. 1(2)
+[^c-3784470247c8bd8cc156a777837b5343]: Commencement: Reg. 8 comes into force in accordance with reg. 1(2)
 
-[^key-aae2086301ac677107ea321768d6618a]: Commencement: Reg. 9 comes into force in accordance with reg. 1(2)
+[^c-aae2086301ac677107ea321768d6618a]: Commencement: Reg. 9 comes into force in accordance with reg. 1(2)
 
-[^key-6cb37af67a69f1bdba9a2e12a8e84316]: Commencement: Reg. 10 comes into force in accordance with reg. 1(2)
+[^c-6cb37af67a69f1bdba9a2e12a8e84316]: Commencement: Reg. 10 comes into force in accordance with reg. 1(2)
 
-[^key-684b2008707491978848d512a7c1324e]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)
+[^c-684b2008707491978848d512a7c1324e]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)
 
-[^key-5497cb401131373054c917ff0d949ee4]: Commencement: Reg. 12 comes into force in accordance with reg. 1(2)
+[^c-5497cb401131373054c917ff0d949ee4]: Commencement: Reg. 12 comes into force in accordance with reg. 1(2)
 
-[^key-492c5d7483c6beb57fc8e541a98bb15e]: Commencement: Reg. 13 comes into force in accordance with reg. 1(2)
+[^c-492c5d7483c6beb57fc8e541a98bb15e]: Commencement: Reg. 13 comes into force in accordance with reg. 1(2)
 
 [^f00005]: Footnote: [2007 c.18](https://www.legislation.gov.uk/ukpga/2007/18)
 
-[^key-e2e7139fbda3dcda6cc3f9b0508f3f43]: Commencement: Reg. 14 comes into force in accordance with reg. 1(2)
+[^c-e2e7139fbda3dcda6cc3f9b0508f3f43]: Commencement: Reg. 14 comes into force in accordance with reg. 1(2)
 
-[^key-e6aa9a1425dc7596f2c964f2115668c5]: Commencement: Reg. 15 comes into force in accordance with reg. 1(2)
+[^c-e6aa9a1425dc7596f2c964f2115668c5]: Commencement: Reg. 15 comes into force in accordance with reg. 1(2)
 
-[^key-3b479f7129e35ba35da2e0c75a574b2b]: Commencement: Reg. 16 comes into force in accordance with reg. 1(2)
+[^c-3b479f7129e35ba35da2e0c75a574b2b]: Commencement: Reg. 16 comes into force in accordance with reg. 1(2)
 
-[^key-571d67286f4e821cd12f44e3c21a3304]: Commencement: Reg. 17 comes into force in accordance with reg. 1(2)
+[^c-571d67286f4e821cd12f44e3c21a3304]: Commencement: Reg. 17 comes into force in accordance with reg. 1(2)
 
-[^key-6f9949b1360a1326eb01cbe0c9800ac9]: Commencement: Reg. 18 comes into force in accordance with reg. 1(2)
+[^c-6f9949b1360a1326eb01cbe0c9800ac9]: Commencement: Reg. 18 comes into force in accordance with reg. 1(2)
 
-[^key-b00d389dac79691db396a66afb6fc5a2]: Commencement: Reg. 19 comes into force in accordance with reg. 1(2)
+[^c-b00d389dac79691db396a66afb6fc5a2]: Commencement: Reg. 19 comes into force in accordance with reg. 1(2)
 
-[^key-ea7fc257a89f42a4f922b2ebb8ea2c78]: Commencement: Reg. 20 comes into force in accordance with reg. 1(2)
+[^c-ea7fc257a89f42a4f922b2ebb8ea2c78]: Commencement: Reg. 20 comes into force in accordance with reg. 1(2)
 
-[^key-6e0b763e5f652cce156df33dcd8e6da3]: Commencement: Reg. 21 comes into force in accordance with reg. 1(2)
+[^c-6e0b763e5f652cce156df33dcd8e6da3]: Commencement: Reg. 21 comes into force in accordance with reg. 1(2)
 
-[^key-2f4496c6098a22462ae246abf8e07cd3]: Commencement: Reg. 22 comes into force in accordance with reg. 1(2)
+[^c-2f4496c6098a22462ae246abf8e07cd3]: Commencement: Reg. 22 comes into force in accordance with reg. 1(2)
 
-[^key-eb1ff18b13025527270cd6a68ba1dbe4]: Commencement: Reg. 23 comes into force in accordance with reg. 1(2)
+[^c-eb1ff18b13025527270cd6a68ba1dbe4]: Commencement: Reg. 23 comes into force in accordance with reg. 1(2)
 
-[^key-e98650e9bff09d5b2c2fb927c3f250c5]: Commencement: Reg. 24 comes into force in accordance with reg. 1(2)
+[^c-e98650e9bff09d5b2c2fb927c3f250c5]: Commencement: Reg. 24 comes into force in accordance with reg. 1(2)
 
-[^key-e7a99b48707e0bd7f600fd9b513394a9]: Commencement: Reg. 25 comes into force in accordance with reg. 1(2)
+[^c-e7a99b48707e0bd7f600fd9b513394a9]: Commencement: Reg. 25 comes into force in accordance with reg. 1(2)
 
-[^key-7c4a02bb592c013774ce456272514d37]: Commencement: Reg. 26 comes into force in accordance with reg. 1(2)
+[^c-7c4a02bb592c013774ce456272514d37]: Commencement: Reg. 26 comes into force in accordance with reg. 1(2)
 
-[^key-199e6f9a23e4757f68a41b943dc1b96c]: Commencement: Reg. 27 comes into force in accordance with reg. 1(2)
+[^c-199e6f9a23e4757f68a41b943dc1b96c]: Commencement: Reg. 27 comes into force in accordance with reg. 1(2)
 
-[^key-3b39eb0edd074deeb38c87033bb9b146]: Commencement: Reg. 28 comes into force in accordance with reg. 1(2)
+[^c-3b39eb0edd074deeb38c87033bb9b146]: Commencement: Reg. 28 comes into force in accordance with reg. 1(2)
 
-[^key-79e63d2e30222a94980c9d849dbba00e]: Commencement: Reg. 29 comes into force in accordance with reg. 1(2)
+[^c-79e63d2e30222a94980c9d849dbba00e]: Commencement: Reg. 29 comes into force in accordance with reg. 1(2)
 
-[^key-b6d2d54c10babbed6316b032be100fdf]: Commencement: Reg. 30 comes into force in accordance with reg. 1(2)
+[^c-b6d2d54c10babbed6316b032be100fdf]: Commencement: Reg. 30 comes into force in accordance with reg. 1(2)
 
-[^key-540adb5b604b5b57ae4cd386e19d3d35]: Commencement: Reg. 31 comes into force in accordance with reg. 1(2)
+[^c-540adb5b604b5b57ae4cd386e19d3d35]: Commencement: Reg. 31 comes into force in accordance with reg. 1(2)
 
-[^key-6ad51311915e82d441f6f97168da63bf]: Commencement: Reg. 32 comes into force in accordance with reg. 1(2)
+[^c-6ad51311915e82d441f6f97168da63bf]: Commencement: Reg. 32 comes into force in accordance with reg. 1(2)
 
-[^key-00867015c5866a0cfff85c111f57681f]: Commencement: Reg. 33 comes into force in accordance with reg. 1(2)
+[^c-00867015c5866a0cfff85c111f57681f]: Commencement: Reg. 33 comes into force in accordance with reg. 1(2)
 
-[^key-f009273bd42ec3fc5f4988d98ca80018]: Commencement: Reg. 34 comes into force in accordance with reg. 1(2)
+[^c-f009273bd42ec3fc5f4988d98ca80018]: Commencement: Reg. 34 comes into force in accordance with reg. 1(2)
 
-[^key-f8b833f070fc43cc25b1c5333172c48d]: Commencement: Reg. 35 comes into force in accordance with reg. 1(2)
+[^c-f8b833f070fc43cc25b1c5333172c48d]: Commencement: Reg. 35 comes into force in accordance with reg. 1(2)
 
-[^key-fb864ec7c478d77003042828dadfd68b]: Commencement: Reg. 36 comes into force in accordance with reg. 1(2)
+[^c-fb864ec7c478d77003042828dadfd68b]: Commencement: Reg. 36 comes into force in accordance with reg. 1(2)
 
-[^key-6192b04ba7294a77d01d07fee9305a6f]: Commencement: Reg. 37 comes into force in accordance with reg. 1(2)
+[^c-6192b04ba7294a77d01d07fee9305a6f]: Commencement: Reg. 37 comes into force in accordance with reg. 1(2)
 
-[^key-1135b540e3375d89a135108cbbe9f4b9]: Commencement: Reg. 38 comes into force in accordance with reg. 1(2)
+[^c-1135b540e3375d89a135108cbbe9f4b9]: Commencement: Reg. 38 comes into force in accordance with reg. 1(2)
 
-[^key-18dfa2fe10736a6af6eea4dba0025626]: Commencement: Reg. 39 comes into force in accordance with reg. 1(2)
+[^c-18dfa2fe10736a6af6eea4dba0025626]: Commencement: Reg. 39 comes into force in accordance with reg. 1(2)
 
-[^key-7dd64e8a6ccc64e8be7dd0c5640b5b96]: Commencement: Reg. 40 comes into force in accordance with reg. 1(2)
+[^c-7dd64e8a6ccc64e8be7dd0c5640b5b96]: Commencement: Reg. 40 comes into force in accordance with reg. 1(2)
 
-[^key-214723b1c5cc1d9cea4ab021d3213efc]: Commencement: Reg. 41 comes into force in accordance with reg. 1(2)
+[^c-214723b1c5cc1d9cea4ab021d3213efc]: Commencement: Reg. 41 comes into force in accordance with reg. 1(2)
 
-[^key-bd53f5c186ec641a4d965e0c16a0d9c0]: Commencement: Reg. 42 comes into force in accordance with reg. 1(2)
+[^c-bd53f5c186ec641a4d965e0c16a0d9c0]: Commencement: Reg. 42 comes into force in accordance with reg. 1(2)
 
-[^key-9839ab3ec75cc7e66779cf2a2614b6be]: Commencement: Reg. 43 comes into force in accordance with reg. 1(2)
+[^c-9839ab3ec75cc7e66779cf2a2614b6be]: Commencement: Reg. 43 comes into force in accordance with reg. 1(2)
 
-[^key-2628e0567663b989cfa2010e7fad688e]: Commencement: Reg. 44 comes into force in accordance with reg. 1(2)
+[^c-2628e0567663b989cfa2010e7fad688e]: Commencement: Reg. 44 comes into force in accordance with reg. 1(2)
 
-[^key-8c28e9acbda9d0e3437fbc689cf13ec5]: Commencement: Reg. 45 comes into force in accordance with reg. 1(2)
+[^c-8c28e9acbda9d0e3437fbc689cf13ec5]: Commencement: Reg. 45 comes into force in accordance with reg. 1(2)
 
-[^key-624ba3aa0a33986a3789d3c3c56b2f94]: Commencement: Reg. 46 comes into force in accordance with reg. 1(2)
+[^c-624ba3aa0a33986a3789d3c3c56b2f94]: Commencement: Reg. 46 comes into force in accordance with reg. 1(2)
 
-[^key-0aee20fa6d0cdc632b568c4abda949ff]: Commencement: Sch. 1 comes into force in accordance with reg. 1(2)
+[^c-0aee20fa6d0cdc632b568c4abda949ff]: Commencement: Sch. 1 comes into force in accordance with reg. 1(2)
 
-[^key-c67c0eef47b83787c3f03ed19cfd47de]: Commencement: Sch. 2 para. 1 comes into force in accordance with reg. 1(2)
+[^c-c67c0eef47b83787c3f03ed19cfd47de]: Commencement: Sch. 2 para. 1 comes into force in accordance with reg. 1(2)

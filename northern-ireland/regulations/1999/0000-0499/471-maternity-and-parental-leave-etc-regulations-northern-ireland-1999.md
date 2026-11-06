@@ -43,11 +43,11 @@ The Department of Economic Development, in exercise of the powers conferred on i
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-7fdfa87575d9f6f8f9f00483dc02ecc5]
+### 1. Citation and commencement[^c-7fdfa87575d9f6f8f9f00483dc02ecc5]
 
 These Regulations may be cited as the Maternity and Parental Leave etc. Regulations (Northern Ireland) 1999 and shall come into operation on 15th December 1999.
 
-### 2. Interpretation[^key-86160a9bc70cd2c5614a6e81a07b96d4]
+### 2. Interpretation[^c-86160a9bc70cd2c5614a6e81a07b96d4]
 
 (1) In these Regulations—
 
@@ -77,7 +77,7 @@ These Regulations may be cited as the Maternity and Parental Leave etc. Regulati
 
 and “associated employer” shall be construed accordingly.
 
-### 3. Application[^key-dc4f3cdbad2de1103ef2acecb6eedcd0]
+### 3. Application[^c-dc4f3cdbad2de1103ef2acecb6eedcd0]
 
 (1) The provisions of Part II of these Regulations have effect only in relation to employees whose expected week of childbirth begins on or after 30th April 2000.
 
@@ -97,7 +97,7 @@ and “associated employer” shall be construed accordingly.
 
 ## Part II — Maternity Leave
 
-### 4. Entitlement to ordinary maternity leave[^key-5754c118875b8b192776492a1fb60f23]
+### 4. Entitlement to ordinary maternity leave[^c-5754c118875b8b192776492a1fb60f23]
 
 (1) An employee is entitled to ordinary maternity leave provided that she satisfies the following conditions—
 
@@ -128,14 +128,14 @@ and “associated employer” shall be construed accordingly.
 
 (5) The notification provided for in paragraphs (3)(*b*) and (4)(*b*) shall be given in writing, if the employer so requests.
 
-### 5. Entitlement to additional maternity leave[^key-dbd00accd39a37f03cc63f71ad5f87e1]
+### 5. Entitlement to additional maternity leave[^c-dbd00accd39a37f03cc63f71ad5f87e1]
 
 An employee who satisfies the following conditions is entitled to additional maternity leave—
 
 - (a) she is entitled to ordinary maternity leave, and
 - (b) she has, at the beginning of the eleventh week before the expected week of childbirth, been continuously employed for a period of not less than a year.
 
-### 6. Commencement of maternity leave periods[^key-c59c8575e8684d1b03dcaf514fbaa2b4]
+### 6. Commencement of maternity leave periods[^c-c59c8575e8684d1b03dcaf514fbaa2b4]
 
 (1) Subject to paragraph (2), an employee’s ordinary maternity leave period commences with the earlier of—
 
@@ -146,7 +146,7 @@ An employee who satisfies the following conditions is entitled to additional mat
 
 (3) An employee’s additional maternity leave period commences on the day after the last day of her ordinary maternity leave period.
 
-### 7. Duration of maternity leave periods[^key-7d2340f3f65a887f08b737054efaf949]
+### 7. Duration of maternity leave periods[^c-7d2340f3f65a887f08b737054efaf949]
 
 (1) Subject to paragraphs (2) and (5), an employee’s ordinary maternity leave period continues for the period of 18 weeks from its commencement, or until the end of the compulsory maternity leave period provided for in regulation 8 if later.
 
@@ -158,18 +158,18 @@ An employee who satisfies the following conditions is entitled to additional mat
 
 (5) Where the employee is dismissed after the commencement of an ordinary or additional maternity leave period but before the time when (apart from this paragraph) that period would end, the period ends at the time of the dismissal.
 
-### 8. Compulsory maternity leave[^key-5424c77f59ab1de4a783fae134daa560]
+### 8. Compulsory maternity leave[^c-5424c77f59ab1de4a783fae134daa560]
 
 The prohibition in Article 104 of the 1996 Order, against permitting an employee who satisfies prescribed conditions to work during a particular period, (referred to as a “compulsory maternity leave period”) applies—
 
 - (a) in relation to an employee who is entitled to ordinary maternity leave, and
 - (b) in respect of the period of two weeks which commences with the day on which childbirth occurs.
 
-### 9. Exclusion of entitlement to remuneration during ordinary maternity leave[^key-4907dbb3d81622653fa114006192a31e]
+### 9. Exclusion of entitlement to remuneration during ordinary maternity leave[^c-4907dbb3d81622653fa114006192a31e]
 
 For the purposes of Article 103 of the 1996 Order which includes provision excluding the entitlement of an employee who exercises her right to ordinary maternity leave to the benefit of terms and conditions of employment about remuneration, only sums payable to an employee by way of wages or salary are to be treated as remuneration.
 
-### 10. Redundancy during maternity leave[^key-4355c969f9d17cc9b31ce7f538f323f2]
+### 10. Redundancy during maternity leave[^c-4355c969f9d17cc9b31ce7f538f323f2]
 
 (1) This regulation applies where, during an employee’s ordinary or additional maternity period it is not practicable by reason of redundancy for her employer to continue to employ her under her existing contract of employment.
 
@@ -180,7 +180,7 @@ For the purposes of Article 103 of the 1996 Order which includes provision exclu
 - (a) the work to be done under it is of a kind which is both suitable in relation to the employee and appropriate for her to do in the circumstances, and
 - (b) its provisions as to the capacity and place in which she is to be employed, and as to the other terms and conditions of her employment, are not substantially less favourable to her than if she had continued to be employed under the previous contract.
 
-### 11. Requirement to notify intention to return during a maternity leave period[^key-39915b0577897999b76652ca40e0341e]
+### 11. Requirement to notify intention to return during a maternity leave period[^c-39915b0577897999b76652ca40e0341e]
 
 (1) An employee who intends to return to work earlier than the end of her ordinary maternity leave period or, where she is entitled to additional maternity leave, the end of her additional maternity leave period, shall give to her employer not less than 21 days' notice of the date on which she intends to return.
 
@@ -190,7 +190,7 @@ For the purposes of Article 103 of the 1996 Order which includes provision exclu
 
 (4) If an employee whose return to work has been postponed under paragraph (2) has been notified that she is not to return to work before the date to which her return was postponed, the employer is under no contractual obligation to pay her remuneration until the date to which her return was postponed if she returns to work before that date.
 
-### 12. Requirement to notify intention to return after additional maternity leave[^key-ffd4aef0f3f5f550bfd8925efdba40de]
+### 12. Requirement to notify intention to return after additional maternity leave[^c-ffd4aef0f3f5f550bfd8925efdba40de]
 
 (1) Where, not earlier than 21 days before the end of her ordinary maternity leave period, an employee who is entitled to additional maternity leave is requested in accordance with paragraph (3) by her employer to notify him in writing of—
 
@@ -210,7 +210,7 @@ the employee shall give the requested notification within 21 days of receiving t
 
 ## Part III — Parental Leave
 
-### 13. Entitlement to parental leave[^key-3cdd56e02273ebdc2da1f003214387c2]
+### 13. Entitlement to parental leave[^c-3cdd56e02273ebdc2da1f003214387c2]
 
 (1) An employee who—
 
@@ -223,7 +223,7 @@ is entitled, in accordance with these Regulations, to be absent from work on par
 
 (3) An employee is not entitled to parental leave in respect of a child born before 15th December 1999, except for a child who is adopted by the employee, or placed with the employee for adoption by him, on or after that date.
 
-### 14. Extent of entitlement[^key-73c087c678fc2f234f115f8c974655ad]
+### 14. Extent of entitlement[^c-73c087c678fc2f234f115f8c974655ad]
 
 (1) An employee is entitled to 13 weeks' leave in respect of any individual child.
 
@@ -233,7 +233,7 @@ is entitled, in accordance with these Regulations, to be absent from work on par
 
 (4) Where an employee takes leave in periods shorter than the period which constitutes, for him, a week’s leave under whichever of paragraphs (2) and (3) is applicable in his case, he completes a week’s leave when the aggregate of the periods of leave he has taken equals the period constituting a week’s leave for him under the applicable paragraph.
 
-### 15. When parental leave may be taken[^key-2e97429321eef8b512ccbd8d1a167295]
+### 15. When parental leave may be taken[^c-2e97429321eef8b512ccbd8d1a167295]
 
 An employee may not exercise any entitlement to parental leave in respect of a child—
 
@@ -250,7 +250,7 @@ An employee may not exercise any entitlement to parental leave in respect of a c
 
   after the end of the period to which the leave was postponed.
 
-### 16. Default provisions in respect of parental leave[^key-0ba974d071c1e4dd88d41c1d147607e9]
+### 16. Default provisions in respect of parental leave[^c-0ba974d071c1e4dd88d41c1d147607e9]
 
 The provisions set out in Schedule 2 apply in relation to parental leave in the case of an employee whose contract of employment does not include a provision which—
 
@@ -259,7 +259,7 @@ The provisions set out in Schedule 2 apply in relation to parental leave in the 
 
 ## Part IV — Provisions applicable in relation to more than one kind of absence
 
-### 17. Application of terms and conditions during periods of leave[^key-26df5a1afac18feef9e95e68e12b239e]
+### 17. Application of terms and conditions during periods of leave[^c-26df5a1afac18feef9e95e68e12b239e]
 
 (1) An employee who takes additional maternity leave or parental leave—
 
@@ -275,7 +275,7 @@ The provisions set out in Schedule 2 apply in relation to parental leave in the 
 
 (2) In this regulation and in regulations 18 to 21 references to the female gender include references to the male gender.
 
-### 18. Right to return after additional maternity leave or parental leave[^key-6939c063da05404318d5dddb9e18a1be]
+### 18. Right to return after additional maternity leave or parental leave[^c-6939c063da05404318d5dddb9e18a1be]
 
 (1) An employee who takes parental leave for a period of four weeks or less, other than immediately after taking additional maternity leave, is entitled to return from leave to the job in which she was employed before her absence.
 
@@ -298,7 +298,7 @@ otherwise, she is entitled to return to another job which is both suitable for h
 - (b) with her seniority, pension rights and similar rights as they would have been if the period or periods of her employment prior to her additional maternity leave period, or (as the case may be) her period of parental leave, were continuous with her employment following her return to work (but subject, in the case of a woman returning from additional maternity leave, to the requirements of paragraph 5 of Schedule 5 to the Social Security (Northern Ireland) Order 1989[^f00007] (equal treatment under pension schemes: maternity)), and
 - (c) otherwise on terms and conditions not less favourable than those which would have been applicable to her had she not been absent from work after the end of her ordinary maternity leave period (as the case may be) during her period of parental leave.
 
-### 19. Protection from detriment[^key-c439bcf26f798aed8f294c6d59316254]
+### 19. Protection from detriment[^c-c439bcf26f798aed8f294c6d59316254]
 
 (1) An employee is entitled under Article 70C[^f00008] of the 1996 Order not to be subjected to any detriment by any act, or any deliberate failure to act, by her employer done for any of the reasons specified in paragraph (2).
 
@@ -335,7 +335,7 @@ otherwise, she is entitled to return to another job which is both suitable for h
 - (a) when he does an act inconsistent with doing the failed act, or
 - (b) if he has done no such inconsistent act, when the period expired within which he might reasonably have been expected to do the failed act if it were to be done.
 
-### 20. Unfair dismissal[^key-f34a6fc12cf043f84918ccd5d8171c5e]
+### 20. Unfair dismissal[^c-f34a6fc12cf043f84918ccd5d8171c5e]
 
 (1) An employee who is dismissed is entitled under Article 131 of the 1996 Order[^f00010] to be regarded for the purposes of Part XI of the 1996 Order as unfairly dismissed if:
 
@@ -382,7 +382,7 @@ otherwise, she is entitled to return to another job which is both suitable for h
 
 (8) Where on a complaint of unfair dismissal any question arises as to whether the operation of paragraph (1) is excluded by the provisions of paragraph (6) or (7), it is for the employer to show that the provisions in question were satisfied in relation to the complainant.
 
-### 21. Contractual rights to maternity or parental leave[^key-8967527f99f54b34ef586e18b173dd98]
+### 21. Contractual rights to maternity or parental leave[^c-8967527f99f54b34ef586e18b173dd98]
 
 (1) This regulation applies where an employee is entitled to—
 
@@ -397,7 +397,7 @@ otherwise, she is entitled to return to another job which is both suitable for h
 - (a) the employee may not exercise the statutory right and the corresponding right separately but may, in taking the leave for which the two rights provide, take advantage of whichever right is, in any particular respect, the more favourable, and
 - (b) the provisions of the 1996 Order and of these Regulations relating to the statutory right apply, subject to any modifications necessary to give effect to any more favourable contractual terms, to the exercise of the composite right described in sub-paragraph (*a*) as they apply to the exercise of the statutory right.
 
-### 22. Calculation of a week’s pay[^key-cec2f90612e42a1efd4100417758b4eb]
+### 22. Calculation of a week’s pay[^c-cec2f90612e42a1efd4100417758b4eb]
 
 Where—
 
@@ -417,7 +417,7 @@ Assistant Secretary
 
 Regulation 2(1)
 
-**1.**[^key-0c8bd551869ab9c7f70730f8cfb6c824] An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied—
+**1.**[^c-0c8bd551869ab9c7f70730f8cfb6c824] An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied—
 
 - (a) the agreement is in writing;
 - (b) it has effect for a specified period not exceeding five years;
@@ -429,13 +429,13 @@ Regulation 2(1)
   - (ii) if the employer employed 20 or fewer employees on the date referred to in sub-paragraph (*d*)(i), either by the appropriate representatives in accordance with that sub-paragraph or by the majority of the employees employed by him; and
 - (e) before the agreement was made available for signature, the employer provided all the employees to whom it was intended to apply on the date on which it came into effect with copies of the text of the agreement and such guidance as those employees might reasonably require in order to understand it in full.
 
-**2.**[^key-fed48d9b2ed024a043c6d2a5f4e950d1] For the purposes of this Schedule—
+**2.**[^c-fed48d9b2ed024a043c6d2a5f4e950d1] For the purposes of this Schedule—
 
 - “a particular group” is a group of the relevant members of a workforce who undertake a particular function, work at a particular workplace or belong to a particular department or unit within their employer’s business;
 - “relevant members of the workforce” are all of the employees employed by a particular employer, excluding any employee whose terms and conditions of employment are provided for wholly or in part, in a collective agreement;
 - “representatives of the workforce” are employees duly elected to represent the relevant members of the workforce, “representatives of the group” are employees duly elected to represent the members of a particular group, and representatives are “duly elected” if the election at which they were elected satisfied the requirement of paragraph 3.
 
-**3.**[^key-e425f0f84ea72a3f581e562929ff58fa] The requirements concerning elections referred to in paragraph 2 are that—
+**3.**[^c-e425f0f84ea72a3f581e562929ff58fa] The requirements concerning elections referred to in paragraph 2 are that—
 
 - (a) the number of representatives to be elected is determined by the employer;
 - (b) the candidates for election as representatives of the workforce are relevant members of the workforce, and the candidates for election as representatives of a group are members of the group;
@@ -450,7 +450,7 @@ Regulation 2(1)
 
 Regulation 16
 
-### 1. Conditions of entitlement[^key-e4cb74188b74abdc12598c6599149b12]
+### 1. Conditions of entitlement[^c-e4cb74188b74abdc12598c6599149b12]
 
 An employee may not exercise any entitlement to parental leave unless—
 
@@ -458,28 +458,28 @@ An employee may not exercise any entitlement to parental leave unless—
 - (b) he has given his employer notice, in accordance with whichever of paragraphs 3 to 5 is applicable, of the period of leave he proposes to take; and
 - (c) in a case where paragraph 6 applies, his employer has not postponed the period of leave in accordance with that paragraph.
 
-**2.**[^key-9e672f4cac5632d2c4ad612478274343] The evidence to be produced for the purpose of paragraph 1(*a*) is such evidence as may reasonably be required of—
+**2.**[^c-9e672f4cac5632d2c4ad612478274343] The evidence to be produced for the purpose of paragraph 1(*a*) is such evidence as may reasonably be required of—
 
 - (a) the employee’s responsibility or expected responsibility for the child in respect of whom the employee proposes to take parental leave; and
 - (b) the child’s date of birth or, in the case of a child who was placed with the employee for adoption, the date on which the placement began, and
 - (c) in a case where the employee’s entitlement to parental leave under regulation 15, or to take a particular period of leave under paragraph 7, depends upon whether the child is entitled to a disability leaving allowance, the child’s entitlement to that allowance.
 
-**3.**[^key-39c48d91177f1ade502364689d5b8a73] Except in a case where paragraph 4 or 5 applies, the notice required for the purpose of paragraph 1(*b*) is notice which—
+**3.**[^c-39c48d91177f1ade502364689d5b8a73] Except in a case where paragraph 4 or 5 applies, the notice required for the purpose of paragraph 1(*b*) is notice which—
 
 - (a) specifies the dates on which the period of leave is to begin and end, and
 - (b) is given to the employer, at least 21 days before the date on which that period is to begin.
 
-**4.**[^key-f2e9f66e4cbd37b16b3f317ff8e692d4] Where the employee is the father of the child in respect of whom the leave is to be taken, and the period of leave is to begin on the date on which the child is born, the notice required for the purpose of paragraph 1(*b*) is notice which—
+**4.**[^c-f2e9f66e4cbd37b16b3f317ff8e692d4] Where the employee is the father of the child in respect of whom the leave is to be taken, and the period of leave is to begin on the date on which the child is born, the notice required for the purpose of paragraph 1(*b*) is notice which—
 
 - (a) specifies the expected week of childbirth and the duration of the period of leave, and
 - (b) is given to the employer at least thirteen weeks before the beginning of the expected week of childbirth.
 
-**5.**[^key-2f1383cd9fd521e47856f0be73151451] Where the child in respect of whom the leave is to be taken is to be placed with the employee for adoption by him and the leave is to begin on the date of the placement, the notice required for the purpose of paragraph 1(*b*) is notice which—
+**5.**[^c-2f1383cd9fd521e47856f0be73151451] Where the child in respect of whom the leave is to be taken is to be placed with the employee for adoption by him and the leave is to begin on the date of the placement, the notice required for the purpose of paragraph 1(*b*) is notice which—
 
 - (a) specifies the week in which the placement is expected to occur and the duration of the period of leave, and
 - (b) is given to the employer at least 21 days before the beginning of that week, or, if that is not reasonably practicable, as soon as is reasonably practicable.
 
-### 6. Postponement of leave[^key-edea7338e79f65772fb29a4a95a3a60b]
+### 6. Postponement of leave[^c-edea7338e79f65772fb29a4a95a3a60b]
 
 An employer may postpone a period of parental leave where—
 
@@ -495,13 +495,13 @@ An employer may postpone a period of parental leave where—
 
 *Minimum periods of leave*
 
-**7.**[^key-16f3feec7f045a0ded146cc3ffb8c9e5] An employee may not take parental leave in a period other than the period which constitutes a week’s leave for him under regulation 14 or a multiple of that period, except in a case where the child in respect of whom leave is taken is entitled to a disability living allowance.
+**7.**[^c-16f3feec7f045a0ded146cc3ffb8c9e5] An employee may not take parental leave in a period other than the period which constitutes a week’s leave for him under regulation 14 or a multiple of that period, except in a case where the child in respect of whom leave is taken is entitled to a disability living allowance.
 
 *Maximum annual leave allowance*
 
-**8.**[^key-bef0e6e7028470b3d37ee3eea7c19ba9] An employee may not take more than four week’s leave in respect of any individual child during a particular year.
+**8.**[^c-bef0e6e7028470b3d37ee3eea7c19ba9] An employee may not take more than four week’s leave in respect of any individual child during a particular year.
 
-**9.**[^key-3acda5e009fcb8b0b4a79f5cf91c3719] For the purposes of paragraph 8, a year is the period of twelve months beginning—
+**9.**[^c-3acda5e009fcb8b0b4a79f5cf91c3719] For the purposes of paragraph 8, a year is the period of twelve months beginning—
 
 - (a) except where sub-paragraph (*b*) applies, on the date on which the employee first became entitled to take parental leave in respect of the child in question, or
 - (b) in a case where the employee’s entitlement has been interrupted at the end of a period of continuous employment, on the date on which the employee most recently became entitled to take parental leave in respect of that child,
@@ -524,9 +524,9 @@ In relation to both additional maternity leave and parental leave, provision is 
 
 [^f00002]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-7fdfa87575d9f6f8f9f00483dc02ecc5]: Commencement: Reg. 1 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-7fdfa87575d9f6f8f9f00483dc02ecc5]: Commencement: Reg. 1 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-86160a9bc70cd2c5614a6e81a07b96d4]: Commencement: Reg. 2 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-86160a9bc70cd2c5614a6e81a07b96d4]: Commencement: Reg. 2 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
 [^f00003]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
 
@@ -534,76 +534,76 @@ In relation to both additional maternity leave and parental leave, provision is 
 
 [^f00005]: Footnote: S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-dc4f3cdbad2de1103ef2acecb6eedcd0]: Commencement: Reg. 3 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-dc4f3cdbad2de1103ef2acecb6eedcd0]: Commencement: Reg. 3 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-5754c118875b8b192776492a1fb60f23]: Commencement: Reg. 4 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-5754c118875b8b192776492a1fb60f23]: Commencement: Reg. 4 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-dbd00accd39a37f03cc63f71ad5f87e1]: Commencement: Reg. 5 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-dbd00accd39a37f03cc63f71ad5f87e1]: Commencement: Reg. 5 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-c59c8575e8684d1b03dcaf514fbaa2b4]: Commencement: Reg. 6 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-c59c8575e8684d1b03dcaf514fbaa2b4]: Commencement: Reg. 6 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-7d2340f3f65a887f08b737054efaf949]: Commencement: Reg. 7 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-7d2340f3f65a887f08b737054efaf949]: Commencement: Reg. 7 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5424c77f59ab1de4a783fae134daa560]: Commencement: Reg. 8 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-5424c77f59ab1de4a783fae134daa560]: Commencement: Reg. 8 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-4907dbb3d81622653fa114006192a31e]: Commencement: Reg. 9 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-4907dbb3d81622653fa114006192a31e]: Commencement: Reg. 9 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-4355c969f9d17cc9b31ce7f538f323f2]: Commencement: Reg. 10 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-4355c969f9d17cc9b31ce7f538f323f2]: Commencement: Reg. 10 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-39915b0577897999b76652ca40e0341e]: Commencement: Reg. 11 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-39915b0577897999b76652ca40e0341e]: Commencement: Reg. 11 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-ffd4aef0f3f5f550bfd8925efdba40de]: Commencement: Reg. 12 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-ffd4aef0f3f5f550bfd8925efdba40de]: Commencement: Reg. 12 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-3cdd56e02273ebdc2da1f003214387c2]: Commencement: Reg. 13 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-3cdd56e02273ebdc2da1f003214387c2]: Commencement: Reg. 13 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-73c087c678fc2f234f115f8c974655ad]: Commencement: Reg. 14 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-73c087c678fc2f234f115f8c974655ad]: Commencement: Reg. 14 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-2e97429321eef8b512ccbd8d1a167295]: Commencement: Reg. 15 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-2e97429321eef8b512ccbd8d1a167295]: Commencement: Reg. 15 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-0ba974d071c1e4dd88d41c1d147607e9]: Commencement: Reg. 16 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-0ba974d071c1e4dd88d41c1d147607e9]: Commencement: Reg. 16 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-26df5a1afac18feef9e95e68e12b239e]: Commencement: Reg. 17 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-26df5a1afac18feef9e95e68e12b239e]: Commencement: Reg. 17 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-6939c063da05404318d5dddb9e18a1be]: Commencement: Reg. 18 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-6939c063da05404318d5dddb9e18a1be]: Commencement: Reg. 18 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
 [^f00007]: Footnote: [1989 N.I. 13](https://www.legislation.gov.uk/nisi/1989/1342)
 
-[^key-c439bcf26f798aed8f294c6d59316254]: Commencement: Reg. 19 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-c439bcf26f798aed8f294c6d59316254]: Commencement: Reg. 19 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
 [^f00008]: Footnote: Article 70C was inserted into the 1996 Order by paragraph 3 of Part III of Schedule 4 to the Employment Relations (N.I.) Order 1999.
 
 [^f00009]: Footnote: Article 85A was inserted into the 1996 Order by Part II of Schedule 4 to the Employment Relations (Northern Ireland) Order 1999
 
-[^key-f34a6fc12cf043f84918ccd5d8171c5e]: Commencement: Reg. 20 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-f34a6fc12cf043f84918ccd5d8171c5e]: Commencement: Reg. 20 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
 [^f00010]: Footnote: As substituted by paragraph 8 of Part III of Schedule 4 to the 1999 Order
 
-[^key-8967527f99f54b34ef586e18b173dd98]: Commencement: Reg. 21 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-8967527f99f54b34ef586e18b173dd98]: Commencement: Reg. 21 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-cec2f90612e42a1efd4100417758b4eb]: Commencement: Reg. 22 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-cec2f90612e42a1efd4100417758b4eb]: Commencement: Reg. 22 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-0c8bd551869ab9c7f70730f8cfb6c824]: Commencement: Sch. 1 para. 1 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-0c8bd551869ab9c7f70730f8cfb6c824]: Commencement: Sch. 1 para. 1 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-fed48d9b2ed024a043c6d2a5f4e950d1]: Commencement: Sch. 1 para. 2 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-fed48d9b2ed024a043c6d2a5f4e950d1]: Commencement: Sch. 1 para. 2 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-e425f0f84ea72a3f581e562929ff58fa]: Commencement: Sch. 1 para. 3 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-e425f0f84ea72a3f581e562929ff58fa]: Commencement: Sch. 1 para. 3 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-e4cb74188b74abdc12598c6599149b12]: Commencement: Sch. 2 para. 1 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-e4cb74188b74abdc12598c6599149b12]: Commencement: Sch. 2 para. 1 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-9e672f4cac5632d2c4ad612478274343]: Commencement: Sch. 2 para. 2 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-9e672f4cac5632d2c4ad612478274343]: Commencement: Sch. 2 para. 2 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-39c48d91177f1ade502364689d5b8a73]: Commencement: Sch. 2 para. 3 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-39c48d91177f1ade502364689d5b8a73]: Commencement: Sch. 2 para. 3 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-f2e9f66e4cbd37b16b3f317ff8e692d4]: Commencement: Sch. 2 para. 4 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-f2e9f66e4cbd37b16b3f317ff8e692d4]: Commencement: Sch. 2 para. 4 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-2f1383cd9fd521e47856f0be73151451]: Commencement: Sch. 2 para. 5 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-2f1383cd9fd521e47856f0be73151451]: Commencement: Sch. 2 para. 5 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-edea7338e79f65772fb29a4a95a3a60b]: Commencement: Sch. 2 para. 6 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-edea7338e79f65772fb29a4a95a3a60b]: Commencement: Sch. 2 para. 6 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-16f3feec7f045a0ded146cc3ffb8c9e5]: Commencement: Sch. 2 para. 7 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-16f3feec7f045a0ded146cc3ffb8c9e5]: Commencement: Sch. 2 para. 7 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-bef0e6e7028470b3d37ee3eea7c19ba9]: Commencement: Sch. 2 para. 8 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-bef0e6e7028470b3d37ee3eea7c19ba9]: Commencement: Sch. 2 para. 8 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
 
-[^key-3acda5e009fcb8b0b4a79f5cf91c3719]: Commencement: Sch. 2 para. 9 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)
+[^c-3acda5e009fcb8b0b4a79f5cf91c3719]: Commencement: Sch. 2 para. 9 in operation at 15.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/471/regulation/1)

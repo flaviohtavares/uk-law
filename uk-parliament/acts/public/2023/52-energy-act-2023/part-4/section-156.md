@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Fusion energy facilities: nuclear site licence not required[^key-1a17241557fc1550c0b18a3a52c7bd3b][^key-47c80ce53824232e18c4be6532e6985b]
+## 156. Fusion energy facilities: nuclear site licence not required[^c-1a17241557fc1550c0b18a3a52c7bd3b][^c-47c80ce53824232e18c4be6532e6985b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a17241557fc1550c0b18a3a52c7bd3b]: Commencement: S. 156 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-1a17241557fc1550c0b18a3a52c7bd3b]: Commencement: S. 156 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-47c80ce53824232e18c4be6532e6985b]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2023/52/section/156) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/a)
+[^c-47c80ce53824232e18c4be6532e6985b]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2023/52/section/156) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/a)

@@ -31,9 +31,9 @@ summary: ''
 
 (3)[^c3518651] The amount of any lump sum required to be paid by an order under this section shall not exceed £500 or such larger amount as the Lord Chancellor[^c3518661] may from time to time by order fix for the purposes of this subsection.
 
-[^key-25abf787310fdf4cdbeebaee367d1898]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25abf787310fdf4cdbeebaee367d1898]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e7d5367917c2a9c860c442a3cf35e553] An order made by the Lord Chancellor under this section—
+(4)[^c-e7d5367917c2a9c860c442a3cf35e553] An order made by the Lord Chancellor under this section—
 
 - (a) shall be made only after consultation with the Lord Chief Justice;
 - (b) shall be made by statutory instrument and be subject to annulment in pursuance of a resolution of either House of Parliament.
@@ -48,6 +48,6 @@ summary: ''
 
 [^c3518661]: Textual amendment: S. 2(3): words substituted (1. 4. 1992) by 1992/709, art.3(2), Sch. 2
 
-[^key-25abf787310fdf4cdbeebaee367d1898]: Textual amendment: Words in s. 2(3) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 96(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/96/2), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
+[^c-25abf787310fdf4cdbeebaee367d1898]: Textual amendment: Words in s. 2(3) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 96(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/96/2), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
 
-[^key-e7d5367917c2a9c860c442a3cf35e553]: Textual amendment: S. 2(4)(5) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 96(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/96/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-e7d5367917c2a9c860c442a3cf35e553]: Textual amendment: S. 2(4)(5) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 96(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/96/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Duties of the owner[^key-bd8410d562a90476059c5f700a544713]
+## 5. Duties of the owner[^c-bd8410d562a90476059c5f700a544713]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd8410d562a90476059c5f700a544713]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/3248/regulation/5) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-bd8410d562a90476059c5f700a544713]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/3248/regulation/5) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

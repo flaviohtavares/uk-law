@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45EA. Expenditure on plant or machinery for electric vehicle charging point[^key-4edc5050683bbe97ce6bf2f6ec6717d5][^key-661b09f8253ca07c6d062cb971343de3]
+## 45EA. Expenditure on plant or machinery for electric vehicle charging point[^c-4edc5050683bbe97ce6bf2f6ec6717d5][^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 
 (3) The “relevant period” is the period beginning with 23 November 2016 and ending with—
 
-- (a) in the case of expenditure incurred by a person within the charge to corporation tax, 31 March 2027[^key-94793a0fa35c4dc990cadbb8878aba40], and
-- (b) in the case of expenditure incurred by a person within the charge to income tax, 5 April 2027[^key-597439c0f97e61b1beb68b76806d5923].
+- (a) in the case of expenditure incurred by a person within the charge to corporation tax, 31 March 2027[^c-94793a0fa35c4dc990cadbb8878aba40], and
+- (b) in the case of expenditure incurred by a person within the charge to income tax, 5 April 2027[^c-597439c0f97e61b1beb68b76806d5923].
 
 (4) The Treasury may by regulations amend subsection (3) so as to extend the relevant period.
 
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4edc5050683bbe97ce6bf2f6ec6717d5]: Textual amendment: S. 45EA inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/38/3)
+[^c-4edc5050683bbe97ce6bf2f6ec6717d5]: Textual amendment: S. 45EA inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/38/3)
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
 
-[^key-94793a0fa35c4dc990cadbb8878aba40]: Textual amendment: Word in [s. 45EA(3)(a)](https://www.legislation.gov.uk/ukpga/2001/2/section/45EA/3/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 30(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/30/b)
+[^c-94793a0fa35c4dc990cadbb8878aba40]: Textual amendment: Word in [s. 45EA(3)(a)](https://www.legislation.gov.uk/ukpga/2001/2/section/45EA/3/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 30(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/30/b)
 
-[^key-597439c0f97e61b1beb68b76806d5923]: Textual amendment: Word in [s. 45EA(3)(b)](https://www.legislation.gov.uk/ukpga/2001/2/section/45EA/3/b) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 30(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/30/b)
+[^c-597439c0f97e61b1beb68b76806d5923]: Textual amendment: Word in [s. 45EA(3)(b)](https://www.legislation.gov.uk/ukpga/2001/2/section/45EA/3/b) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 30(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/30/b)

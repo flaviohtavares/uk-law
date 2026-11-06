@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Applications for building control approval with full plans[^M_E_25ce5511-f838-4968-e137-dea4a569b711][^key-15a7527dd48a9f1d185de6df29a52e95]
+## 14. Applications for building control approval with full plans[^M_E_25ce5511-f838-4968-e137-dea4a569b711][^c-15a7527dd48a9f1d185de6df29a52e95]
 
 *Extent: E*
 
@@ -42,7 +42,7 @@ summary: ''
   - (vii) a statement setting out—
     - (aa) the date when it is proposed the work will reach the point when it is to be regarded as commenced in accordance with regulation 46A (lapse of building control approval: commencement of work); and
     - (bb) where the work does not consist of work to which paragraph (2) or (3) of regulation 46A applies, details of the work which the client considers amounts to 15% of the proposed work.
-- (g)[^key-17070735df9e20b530d9df03bc95ac37] if the work relates to the provision of one or more dwellings, or one or more bedspaces in purpose-built student accommodation, and the building which consists of or contains the dwellings or bedspaces is a residential building (as defined in regulation 7 of the BSL Regulations), the building safety levy information in accordance with regulation 14ZA;
+- (g)[^c-17070735df9e20b530d9df03bc95ac37] if the work relates to the provision of one or more dwellings, or one or more bedspaces in purpose-built student accommodation, and the building which consists of or contains the dwellings or bedspaces is a residential building (as defined in regulation 7 of the BSL Regulations), the building safety levy information in accordance with regulation 14ZA;
 - (h) if the application is an updated application and the building work, to which the updated application relates, relates to the provision of one or more dwellings, or one or more bedspaces in purpose-built student accommodation, and the building which consists of or contains the dwellings or bedspaces is a residential building (as defined in regulation 7 of the BSL Regulations)—
   - (i) the building safety levy information in accordance with regulation 14ZA in relation to the updated application but where the updated application is given on or after the day on which the first notice under regulation 16(3C) is given then the information in regulation 14ZA(1)(a) and (b) is not required,
   - (ii) if the levy charging conditions are met, the information and evidence set out in paragraph (5) in relation to the updated application, and
@@ -58,13 +58,13 @@ summary: ''
 (3) Plans are only full plans if they consist of—
 
 - (a) a description of the proposed building work, renovation or replacement of a thermal element, change to the building’s energy status or material change of use;
-- (b) the plans, particulars and statements required by paragraphs (1), (1A) , (2) and (2A)[^key-307149fe17d4088dd91d10b42d84593a] of regulation 13;
+- (b) the plans, particulars and statements required by paragraphs (1), (1A) , (2) and (2A)[^c-307149fe17d4088dd91d10b42d84593a] of regulation 13;
 - (c) where paragraph H4 of Schedule 1 imposes a requirement, particulars of the precautions to be taken in building over a drain, sewer or disposal main to comply with the requirements of that paragraph; and
 - (d) any other plans which are necessary to show that the work would comply with these Regulations.
 
 (4) Paragraph (2)(a)(ii) does not apply where the proposed building work relates only to the erection, extension or material alteration of a dwelling-house or flat.
 
-(5)[^key-cbe29f758857b332bf5b95f0bafb5068] Subject to paragraph (7), the information and evidence referred to in paragraph (1)(h)(ii) is—
+(5)[^c-cbe29f758857b332bf5b95f0bafb5068] Subject to paragraph (7), the information and evidence referred to in paragraph (1)(h)(ii) is—
 
 - (a) a statement setting out the number of dwellings, if any, to be provided as a result of the building work to which the application relates which are within any of sub-paragraphs (a) to (c) of regulation 8(1) of the BSL Regulations;
 - (b) a statement setting out the levy charging information in accordance with regulation 16A;
@@ -97,9 +97,9 @@ summary: ''
 - (c) the building work to which the application relates is, or is anticipated to be, major residential development or is part of a wider development which is, or is anticipated to be, major residential development, and
 - (d) the named client or, if there is more than one named client, each of them, in relation to the application is not an exempt person.
 
-(9)[^key-66a9a3c614712c975d39f0dbf25e7ec6] In paragraphs (1)(g) and (h) and (5), the references to dwellings do not include references to purpose-built student accommodation.
+(9)[^c-66a9a3c614712c975d39f0dbf25e7ec6] In paragraphs (1)(g) and (h) and (5), the references to dwellings do not include references to purpose-built student accommodation.
 
-## 14. Applications for building control approval with full plans: Wales[^M_E_edf94d78-58e3-455f-d598-dad6b1473dcd][^key-1884354960cf08835cdb4c288408c4fd]
+## 14. Applications for building control approval with full plans: Wales[^M_E_edf94d78-58e3-455f-d598-dad6b1473dcd][^c-1884354960cf08835cdb4c288408c4fd]
 
 *Extent: W*
 
@@ -138,7 +138,7 @@ summary: ''
 (4) Plans are only full plans if they consist of—
 
 - (a) a description of the proposed building work, renovation or replacement of a thermal element, change to the building’s energy status or material change of use,
-- (b) the plans, particulars and statements required by paragraphs (1) [^key-e7c5ea4bd9e077ca61607e393878068e]... and (2) of regulation 13,
+- (b) the plans, particulars and statements required by paragraphs (1) [^c-e7c5ea4bd9e077ca61607e393878068e]... and (2) of regulation 13,
 - (c) where paragraph H4 of Schedule 1 imposes a requirement, particulars of the precautions to be taken in building over a drain, sewer or disposal main to comply with the requirements of that paragraph, and
 - (d) any other plans which are necessary to show that the work would comply with these Regulations.
 
@@ -146,18 +146,18 @@ summary: ''
 
 [^M_E_25ce5511-f838-4968-e137-dea4a569b711]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-15a7527dd48a9f1d185de6df29a52e95]: Textual amendment: [Regs. 14-14C](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) substituted for [reg. 14](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2023/911/regulation/8) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-15a7527dd48a9f1d185de6df29a52e95]: Textual amendment: [Regs. 14-14C](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) substituted for [reg. 14](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2023/911/regulation/8) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-17070735df9e20b530d9df03bc95ac37]: Textual amendment: [Reg. 14(1)(g)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/1/g)[(h)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/1/h) inserted (E.) (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/26/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
+[^c-17070735df9e20b530d9df03bc95ac37]: Textual amendment: [Reg. 14(1)(g)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/1/g)[(h)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/1/h) inserted (E.) (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/26/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
 
-[^key-307149fe17d4088dd91d10b42d84593a]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/3/b) substituted (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [38(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/3)
+[^c-307149fe17d4088dd91d10b42d84593a]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/3/b) substituted (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [38(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/3)
 
-[^key-cbe29f758857b332bf5b95f0bafb5068]: Textual amendment: [Reg. 14(5)-(8)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/5) inserted (E.) (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/26/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
+[^c-cbe29f758857b332bf5b95f0bafb5068]: Textual amendment: [Reg. 14(5)-(8)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/5) inserted (E.) (1.10.2026) by [The Building Safety Levy (England) Regulations 2025 (S.I. 2025/1236)](https://www.legislation.gov.uk/uksi/2025/1236), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/26/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2025/1236/regulation/1/6))
 
-[^key-66a9a3c614712c975d39f0dbf25e7ec6]: Textual amendment: [Reg. 14(9)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/9) inserted (E.) (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/9/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/6))
+[^c-66a9a3c614712c975d39f0dbf25e7ec6]: Textual amendment: [Reg. 14(9)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/9) inserted (E.) (1.10.2026) by [The Building Safety Levy (Amendment) (England) Regulations 2026 (S.I. 2026/1034)](https://www.legislation.gov.uk/uksi/2026/1034), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/9/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2026/1034/regulation/1/6))
 
 [^M_E_edf94d78-58e3-455f-d598-dad6b1473dcd]: Extent: This version of this provision applies to Wales only; a separate version has been created for England only
 
-[^key-1884354960cf08835cdb4c288408c4fd]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) substituted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [7(1)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/7/1) (with [regs. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19), [21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21))
+[^c-1884354960cf08835cdb4c288408c4fd]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14) substituted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [7(1)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/7/1) (with [regs. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19), [21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21))
 
-[^key-e7c5ea4bd9e077ca61607e393878068e]: Textual amendment: Word in [reg. 14(4)(b)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/4/b) omitted (W.) (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/4)
+[^c-e7c5ea4bd9e077ca61607e393878068e]: Textual amendment: Word in [reg. 14(4)(b)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14/4/b) omitted (W.) (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/4)

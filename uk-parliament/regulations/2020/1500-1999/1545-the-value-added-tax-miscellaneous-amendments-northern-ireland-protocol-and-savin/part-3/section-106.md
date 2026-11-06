@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Amendment of the Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019[^key-cc1166806f8a776d039eeb576603217e]
+## 106. Amendment of the Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019[^c-cc1166806f8a776d039eeb576603217e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc1166806f8a776d039eeb576603217e]: Commencement: Reg. 106 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-cc1166806f8a776d039eeb576603217e]: Commencement: Reg. 106 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395751]: Marginal citation: [S.I. 2019/91](https://www.legislation.gov.uk/uksi/2019/91). This instrument is not yet in force.

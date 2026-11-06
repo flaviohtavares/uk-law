@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Supplemental[^key-d61f33e02c0e4d329b3a07c02aeae7f5]
+## 256. Supplemental[^c-d61f33e02c0e4d329b3a07c02aeae7f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d61f33e02c0e4d329b3a07c02aeae7f5]: Textual amendment: [S. 256](https://www.legislation.gov.uk/ukpga/2009/1/section/256) omitted (29.4.2021) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 41(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/41/5), [49(1)(c)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/1/c)
+[^c-d61f33e02c0e4d329b3a07c02aeae7f5]: Textual amendment: [S. 256](https://www.legislation.gov.uk/ukpga/2009/1/section/256) omitted (29.4.2021) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 41(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/41/5), [49(1)(c)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/1/c)

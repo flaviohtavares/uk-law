@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. General interpretation[^key-075c9817696f30a0bec63f4a7a24ed90]
+## 90. General interpretation[^c-075c9817696f30a0bec63f4a7a24ed90]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Act—
 
 ## Annotations
 
-[^key-075c9817696f30a0bec63f4a7a24ed90]: Commencement: S. 90 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-075c9817696f30a0bec63f4a7a24ed90]: Commencement: S. 90 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

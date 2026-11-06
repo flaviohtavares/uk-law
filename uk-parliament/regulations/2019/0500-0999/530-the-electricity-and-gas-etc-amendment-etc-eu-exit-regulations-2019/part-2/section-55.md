@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55.[^key-e0082c8d363bc0f29de1a2475f3fe561]
+## 55.[^c-e0082c8d363bc0f29de1a2475f3fe561]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the italic heading preceding section 44B, for “Article 37 Disputes” subst
 
 ## Annotations
 
-[^key-e0082c8d363bc0f29de1a2475f3fe561]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e0082c8d363bc0f29de1a2475f3fe561]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

@@ -24,87 +24,87 @@ Regulation 33
 
 ### PART I
 
-**1.**[^key-0fdf961a1b2bd98ea10bb2172459a7a9] Any tractor as defined in paragraph 4(3) of Part IV of Schedule 1 to the Vehicle Excise and Registration Act 1994 (as originally enacted) while being used for one or more of the purposes specified in Part II of this Schedule.
+**1.**[^c-0fdf961a1b2bd98ea10bb2172459a7a9] Any tractor as defined in paragraph 4(3) of Part IV of Schedule 1 to the Vehicle Excise and Registration Act 1994 (as originally enacted) while being used for one or more of the purposes specified in Part II of this Schedule.
 
-**2.**[^key-b289b72c4fda3a843795b390bdc4b0f7] A dual-purpose vehicle and any trailer drawn by it.
+**2.**[^c-b289b72c4fda3a843795b390bdc4b0f7] A dual-purpose vehicle and any trailer drawn by it.
 
-**3.**[^key-e10ac29949142fa62f72e3424d04cccf] A vehicle used on a road only in passing from private premises to other private premises in the immediate neighbourhood belonging (except in the case of a vehicle so used only in connection with excavation or demolition) to the same person, provided that the distance travelled on a road by any such vehicle does not exceed in the aggregate 9.654 kilometres, (6 miles), in any one week.
+**3.**[^c-e10ac29949142fa62f72e3424d04cccf] A vehicle used on a road only in passing from private premises to other private premises in the immediate neighbourhood belonging (except in the case of a vehicle so used only in connection with excavation or demolition) to the same person, provided that the distance travelled on a road by any such vehicle does not exceed in the aggregate 9.654 kilometres, (6 miles), in any one week.
 
-**4.**[^key-a7f60ad1e548034244a68d07273d2476] A motor vehicle constructed or adapted primarily for the carriage of passengers and their effects, and any trailer drawn by it, while being so used.
+**4.**[^c-a7f60ad1e548034244a68d07273d2476] A motor vehicle constructed or adapted primarily for the carriage of passengers and their effects, and any trailer drawn by it, while being so used.
 
-**5.**[^key-6cd58459512398014f6edc9bee9b15f0] A vehicle which is being used for funerals.
+**5.**[^c-6cd58459512398014f6edc9bee9b15f0] A vehicle which is being used for funerals.
 
-**6.**[^key-7cf7316b014193087f00538c1f3f4fe9] A vehicle which is being used for police, Scottish Fire and Rescue Service[^key-777f2192ea005f6f44cdab14dfa047a8] or, in England or Wales, fire and rescue authority[^key-021a2a3537794d24729592fa6c0056a9] or ambulance or Serious Organised Crime Agency[^key-47da582fa9eec82337b1ac8370891d20] purposes.
+**6.**[^c-7cf7316b014193087f00538c1f3f4fe9] A vehicle which is being used for police, Scottish Fire and Rescue Service[^c-777f2192ea005f6f44cdab14dfa047a8] or, in England or Wales, fire and rescue authority[^c-021a2a3537794d24729592fa6c0056a9] or ambulance or Serious Organised Crime Agency[^c-47da582fa9eec82337b1ac8370891d20] purposes.
 
-**7.**[^key-e8c7ebf265f22d5d611a3097535de277] A vehicle which is being used for fire-fighting or rescue operations at mines.
+**7.**[^c-e8c7ebf265f22d5d611a3097535de277] A vehicle which is being used for fire-fighting or rescue operations at mines.
 
-**8.**[^key-ecb2297935fe27b3206c00f4b20a113f] A vehicle on which no permanent body has been constructed, which is being used only for carrying burden which either is carried solely for the purpose of test or trial, or consists of articles and equipment which will form part of the completed vehicle when the body is constructed.
+**8.**[^c-ecb2297935fe27b3206c00f4b20a113f] A vehicle on which no permanent body has been constructed, which is being used only for carrying burden which either is carried solely for the purpose of test or trial, or consists of articles and equipment which will form part of the completed vehicle when the body is constructed.
 
-**9.**[^key-600909f889d5cf734d4c9eb97a451222] A vehicle which is being used under a trade licence.
+**9.**[^c-600909f889d5cf734d4c9eb97a451222] A vehicle which is being used under a trade licence.
 
-**10.**[^key-9e38078762164830bc0385af9d3e7448] A vehicle in the service of a visiting force or of a headquarters within the meaning of article 8(9) of the Visiting Forces and International Headquarters (Application of Law) Order 1999[^key-66ce3714f5602f3d8793dcc9bf250394].
+**10.**[^c-9e38078762164830bc0385af9d3e7448] A vehicle in the service of a visiting force or of a headquarters within the meaning of article 8(9) of the Visiting Forces and International Headquarters (Application of Law) Order 1999[^c-66ce3714f5602f3d8793dcc9bf250394].
 
-**11.**[^key-647470aede35324be3a5ad54604494a0] A vehicle used by or under the control of Her Majesty’s United Kingdom forces.
+**11.**[^c-647470aede35324be3a5ad54604494a0] A vehicle used by or under the control of Her Majesty’s United Kingdom forces.
 
-**12.**[^key-6ee02bcd81c79ac155c3b6144a6d9ef9] A trailer not constructed primarily for the carriage of goods but which is being used incidentally for that purpose in connection with the construction, maintenance or repair of roads.
+**12.**[^c-6ee02bcd81c79ac155c3b6144a6d9ef9] A trailer not constructed primarily for the carriage of goods but which is being used incidentally for that purpose in connection with the construction, maintenance or repair of roads.
 
-**13.**[^key-4beb8575a2530d772a43ac8149b3d930] A road roller and any trailer drawn by it.
+**13.**[^c-4beb8575a2530d772a43ac8149b3d930] A road roller and any trailer drawn by it.
 
-**14.**[^key-91341f55d553674586c6104844a9fd4e] A vehicle while being used under the direction of HM Coastguard or of the Royal National Lifeboat Institution for the carriage of life-boats, life-saving appliances or crew.
+**14.**[^c-91341f55d553674586c6104844a9fd4e] A vehicle while being used under the direction of HM Coastguard or of the Royal National Lifeboat Institution for the carriage of life-boats, life-saving appliances or crew.
 
-**15.**[^key-797ce63484a4fe857dbfda1276b185a7] A vehicle fitted with a machine, appliance, apparatus or other contrivance which is a permanent or essentially permanent fixture, provided that the only goods carried on the vehicle are—
+**15.**[^c-797ce63484a4fe857dbfda1276b185a7] A vehicle fitted with a machine, appliance, apparatus or other contrivance which is a permanent or essentially permanent fixture, provided that the only goods carried on the vehicle are—
 
-- (a)[^key-72d01587b0b45b7eaec9a3c1d10a0eb2] water, fuel, accumulators and other equipment used for the purpose of propulsion or the running of the vehicle, loose tools and loose equipment;
+- (a)[^c-72d01587b0b45b7eaec9a3c1d10a0eb2] water, fuel, accumulators and other equipment used for the purpose of propulsion or the running of the vehicle, loose tools and loose equipment;
 - (b) to be mixed by the machine, appliance, apparatus or contrivance with other goods not carried on the vehicle on a road in order to thrash, grade, clean or chemically treat grain;
 - (c) to be mixed by the machine, appliance, apparatus or contrivance with other goods not carried on the vehicle in order to make fodder for animals; or
 - (d) mud or other matter swept up from the surface of a road by the use of the machine, appliance, apparatus or other contrivance.
 
-**16.**[^key-6a70e5eaf8751333573f2b76b545e93d] A vehicle while being used by a local authority for the purposes of the enactments relating to weights and measures or the sale of food and drugs.
+**16.**[^c-6a70e5eaf8751333573f2b76b545e93d] A vehicle while being used by a local authority for the purposes of the enactments relating to weights and measures or the sale of food and drugs.
 
-**17.**[^key-c9257eadf2bab397713c8e14b356453f] A vehicle while being used by a local authority in the discharge of any function conferred on or exercisable by that authority under Regulations made under the Civil Defence Act 1948 [^c1867551].
+**17.**[^c-c9257eadf2bab397713c8e14b356453f] A vehicle while being used by a local authority in the discharge of any function conferred on or exercisable by that authority under Regulations made under the Civil Defence Act 1948 [^c1867551].
 
-**18.**[^key-438f82be739087e9b125c9369ccb519c] A steam-propelled vehicle.
+**18.**[^c-438f82be739087e9b125c9369ccb519c] A steam-propelled vehicle.
 
-**19.**[^key-a138840953d4ebcaf785152957a3daa2] A tower wagon or trailer drawn thereby, provided that the only goods carried on the trailer are goods required for use in connection with the work on which the tower wagon is ordinarily used as such.
+**19.**[^c-a138840953d4ebcaf785152957a3daa2] A tower wagon or trailer drawn thereby, provided that the only goods carried on the trailer are goods required for use in connection with the work on which the tower wagon is ordinarily used as such.
 
-**20.**[^key-12baedcfcec7b27d819b0c9e146fc50f] A vehicle while being used for the carriage of goods within an aerodrome within the meaning of section 105(1) of the Civil Aviation Act 1982 [^c1867552].
+**20.**[^c-12baedcfcec7b27d819b0c9e146fc50f] A vehicle while being used for the carriage of goods within an aerodrome within the meaning of section 105(1) of the Civil Aviation Act 1982 [^c1867552].
 
-**21.**[^key-0e7e3caa35509376341068f99289791f] An electrically propelled vehicle first registered before 1st March 2015[^key-bd9cde72edf443d0c5f96a6403e28d90].
+**21.**[^c-0e7e3caa35509376341068f99289791f] An electrically propelled vehicle first registered before 1st March 2015[^c-bd9cde72edf443d0c5f96a6403e28d90].
 
-**22.**[^key-9b1b768b2bfceec8404cdcd29f25154f] A showman’s goods vehicle and any trailer drawn thereby.
+**22.**[^c-9b1b768b2bfceec8404cdcd29f25154f] A showman’s goods vehicle and any trailer drawn thereby.
 
-**22A.**[^key-fbee750885a47bf05f25e9eabf997358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22A.**[^c-fbee750885a47bf05f25e9eabf997358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-e433777a7ab2fbbe5cb865a35aa9c441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-e433777a7ab2fbbe5cb865a35aa9c441] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23A.**[^key-b8171a81a3e22783fc930e1ed4c62125] (1) A vehicle which is being used in Great Britain to carry out a cabotage operation—
+**23A.**[^c-b8171a81a3e22783fc930e1ed4c62125] (1) A vehicle which is being used in Great Britain to carry out a cabotage operation—
 
-- (a) which consists of national carriage for hire or reward by a haulier who is a holder of a Community licence and whose driver, if a national of a country which is not a member State, holds a EU driver attestation[^key-712c491dd62a622eb31c9606a88307c2];
-- (b) where the vehicle is being used only for the carriage of vehicles in categories M<sub>1</sub> and N<sub>1</sub>, as defined in Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-a9e3269ed87e02cf43553e874a3b7e18]; and
+- (a) which consists of national carriage for hire or reward by a haulier who is a holder of a Community licence and whose driver, if a national of a country which is not a member State, holds a EU driver attestation[^c-712c491dd62a622eb31c9606a88307c2];
+- (b) where the vehicle is being used only for the carriage of vehicles in categories M<sub>1</sub> and N<sub>1</sub>, as defined in Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^c-a9e3269ed87e02cf43553e874a3b7e18]; and
 - (c) the vehicle is being used at any time during a period beginning with—
   - (i) 22nd February and ending with 31st March; or
   - (ii) 25th August and ending with 30th September.
 
-(2) In this paragraph “Community licence” and “EU driver attestation[^key-2105748b2dbe97e799fac27adb4a6058]” have the same meanings as in Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/eur/2009/1072) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market.”
+(2) In this paragraph “Community licence” and “EU driver attestation[^c-2105748b2dbe97e799fac27adb4a6058]” have the same meanings as in Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/eur/2009/1072) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market.”
 
-**23B.**[^key-1d876689fba233a3e7b6ed448db18d12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23B.**[^c-1d876689fba233a3e7b6ed448db18d12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-78b47a0bc7b274ba68ff0700c133d830] A goods vehicle first used before 1 January 1977 which has an unladen weight not exceeding 1525 kilograms and for which the maximum gross weight, as shown on a plate affixed to the vehicle by virtue of regulation 66 of the Motor Vehicles (Construction and Use) Regulations 1986 or any provision which that regulation replaced, exceeds 3500 kilograms but does not exceed 3556.21 kilograms (3½ tons).
+**24.**[^c-78b47a0bc7b274ba68ff0700c133d830] A goods vehicle first used before 1 January 1977 which has an unladen weight not exceeding 1525 kilograms and for which the maximum gross weight, as shown on a plate affixed to the vehicle by virtue of regulation 66 of the Motor Vehicles (Construction and Use) Regulations 1986 or any provision which that regulation replaced, exceeds 3500 kilograms but does not exceed 3556.21 kilograms (3½ tons).
 
-**25.**[^key-f42030239e92a345fbd3b2368b730ec5] A vehicle while being used by a highway authority for the purposes of section 196 the Road Traffic Act 1988 [^c1867554].
+**25.**[^c-f42030239e92a345fbd3b2368b730ec5] A vehicle while being used by a highway authority for the purposes of section 196 the Road Traffic Act 1988 [^c1867554].
 
-**26.**[^key-314d7b58828c43e6d6f4d1ca386e2c81] A vehicle being held ready for use in an emergency by an undertaking for the supply of water, electricity, gas or telephone services.
+**26.**[^c-314d7b58828c43e6d6f4d1ca386e2c81] A vehicle being held ready for use in an emergency by an undertaking for the supply of water, electricity, gas or telephone services.
 
-**27.**[^key-abc64ba08363a7e2435f326a580eb645] A recovery vehicle.
+**27.**[^c-abc64ba08363a7e2435f326a580eb645] A recovery vehicle.
 
-**28.**[^key-261a6145f48932697ca2371d4fcd706a] A vehicle which is being used for snow clearing, or for the distribution of grit, salt or other materials on frosted, icebound or snow-covered roads or for going to or from the place where it is to be used for the said purposes or for any other purpose directly connected with those purposes.
+**28.**[^c-261a6145f48932697ca2371d4fcd706a] A vehicle which is being used for snow clearing, or for the distribution of grit, salt or other materials on frosted, icebound or snow-covered roads or for going to or from the place where it is to be used for the said purposes or for any other purpose directly connected with those purposes.
 
-**29.**[^key-80aed90258db887e3fe84329af71e5e3] A vehicle proceeding to or from a station provided by the Secretary of State under section 45 of the Road Traffic Act 1988 for the purposes of an examination of that vehicle under that section provided that—
+**29.**[^c-80aed90258db887e3fe84329af71e5e3] A vehicle proceeding to or from a station provided by the Secretary of State under section 45 of the Road Traffic Act 1988 for the purposes of an examination of that vehicle under that section provided that—
 
 - (a) the only load being carried is a load required for the purposes of the examination; and
 - (b) it is being carried at the request of the Secretary of State.
 
-**30.**[^key-83326389dcf3a6a0c1883414973a95c1] A vehicle in a category or sub-category listed in column 1 of Table 2 in regulation 37 of the Motor Vehicles (Driving Licences) Regulations 1999, provided that—
+**30.**[^c-83326389dcf3a6a0c1883414973a95c1] A vehicle in a category or sub-category listed in column 1 of Table 2 in regulation 37 of the Motor Vehicles (Driving Licences) Regulations 1999, provided that—
 
 - (a) no goods are being carried on the vehicle or trailer other than any that may be carried on the vehicle for the purposes of a practical test of driving skills and behaviour, as prescribed in that regulation 37;
 - (b) any goods that are being carried on the vehicle or trailer are being carried only for the purposes of driver instruction and not otherwise—
@@ -115,10 +115,10 @@ Regulation 33
   - (ii) proceeding to or from a test of competence to drive that class of vehicle under section 89 of the Road Traffic Act 1988 or being used in such a test; or
   - (iii) being used in the course of—
     - (aa) a driving lesson for the purpose of enabling a person to obtain a CPC within the meaning of the Vehicle Drivers (Certificate of Professional Competence) Regulations 2007;
-    - (bb) periodic training or national periodic training[^key-b4365666729e06d92d40e0d60beed518] as defined in regulation 2(1) of the Vehicle Drivers (Certificate of Professional Competence) Regulations 2007; or
+    - (bb) periodic training or national periodic training[^c-b4365666729e06d92d40e0d60beed518] as defined in regulation 2(1) of the Vehicle Drivers (Certificate of Professional Competence) Regulations 2007; or
     - (cc) an initial CPC test as defined in regulation 2(1) of the Vehicle Drivers (Certificate of Professional Competence) Regulations 2007;
 
-**31.**[^key-7e124af23e494d26d5d77a6bc4a42447] A vehicle—
+**31.**[^c-7e124af23e494d26d5d77a6bc4a42447] A vehicle—
 
 - (a) fuelled entirely by alternative fuel,
 - (b) with a maximum laden weight[^M_F_f600ce5d-bfdd-4f62-d656-9c6d75826154] not exceeding 4.25 tonnes,
@@ -127,7 +127,7 @@ Regulation 33
 
 ### PART II — PURPOSES REFERRED TO IN PARAGRAPH 1 OF PART I OF THIS SCHEDULE
 
-**32.**[^M_I_2ec10053-6f3b-4e4e-a433-5972cba6c3b7][^key-94352317c42004717aed53d1d625d7a5] Hauling—
+**32.**[^M_I_2ec10053-6f3b-4e4e-a433-5972cba6c3b7][^c-94352317c42004717aed53d1d625d7a5] Hauling—
 
 - (a) threshing appliances;
 - (b) farming implements;
@@ -151,7 +151,7 @@ Regulation 33
 
 where the keeper is a local authority.
 
-### PART 3 — Vehicles brought temporarily into Great Britain[^key-822fe618e8836668a8c6132fddacacbe]
+### PART 3 — Vehicles brought temporarily into Great Britain[^c-822fe618e8836668a8c6132fddacacbe]
 
 #### 39. Interpretation of Part 3
 
@@ -166,7 +166,7 @@ where the keeper is a local authority.
   - (b) an adequate supply of other liquids incidental to its propulsion, and
   - (c) any loose tools and equipment with which it is normally equipped;
 - “**livestock**” includes the following domesticated animals—
-  - (a) bovids, which includes buffalo, cattle, [^key-7edb9dd66efa7b84628be13b6907e27c]... goats, sheep and yaks;
+  - (a) bovids, which includes buffalo, cattle, [^c-7edb9dd66efa7b84628be13b6907e27c]... goats, sheep and yaks;
   - (b) camelids, which includes alpacas and llamas;
   - (c) cervids, which includes deer and elk;
   - (d) equids, which includes asses, hinnies, horses and mules;
@@ -218,9 +218,9 @@ where the keeper is a local authority.
 (1) A Northern Ireland vehicle—
 
 - (a) brought temporarily into Great Britain by a Northern Ireland operator, and
-- (b) used by the operator for the carriage of goods [^key-3f004582049639a394b972aeb020da5c]....
+- (b) used by the operator for the carriage of goods [^c-3f004582049639a394b972aeb020da5c]....
 
-(2)[^key-5498401d4c63dcaa052c887ac9c02aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5498401d4c63dcaa052c887ac9c02aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this paragraph—
 
@@ -322,7 +322,7 @@ where the keeper is a local authority.
 - (c) goods carried from or to an airport in support of an air service that has been diverted;
 - (d) goods carried on own account;
 - (e) goods transported during resettlement;
-- (f) medical supplies , or goods for humanitarian aid,[^key-7ca635260afdae2938f36c156b210697] for use in the event of a natural disaster or other emergency;
+- (f) medical supplies , or goods for humanitarian aid,[^c-7ca635260afdae2938f36c156b210697] for use in the event of a natural disaster or other emergency;
 - (g) postal packets;
 - (h) the remains of a deceased individual;
 - (i) spare parts to repair an aircraft or ocean-going ship.
@@ -662,7 +662,7 @@ where the keeper is a local authority.
 
 #### 56. Vehicles used by operators authorised in Norway
 
-(1)[^key-3da6ddcc8da2b3b283e74865acfbe68f] A Norway vehicle—
+(1)[^c-3da6ddcc8da2b3b283e74865acfbe68f] A Norway vehicle—
 
 - (a) brought temporarily into Great Britain by a Norway operator,
 - (b) used by the operator for the carriage of goods on a journey—
@@ -694,7 +694,7 @@ where the keeper is a local authority.
 
 (2) In this paragraph—
 
-- [^key-174aa7f4154531324a8cbdeb1c34aa9e]...
+- [^c-174aa7f4154531324a8cbdeb1c34aa9e]...
 - “**Norway operator**” means an operator who—
   - (a) is authorised under the law of Norway to use a goods vehicle on a road for the international carriage of goods, and
   - (b) is not subject to an exclusion notice issued to the person pursuant to Article 9(1)(c) of the UK-Norway Agreement;
@@ -703,7 +703,7 @@ where the keeper is a local authority.
   - (b) a vehicle combination consisting of—
     - (i) a motor vehicle registered in Norway, and
     - (ii) a trailer;
-- “**the UK-Norway Agreement**” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway on International Road Transport, with Protocol, done at Oslo on 18th March 2019 , as amended on or before 24th January 2024[^key-549e8ec21dbebb4521b47b90d398fcc4].
+- “**the UK-Norway Agreement**” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway on International Road Transport, with Protocol, done at Oslo on 18th March 2019 , as amended on or before 24th January 2024[^c-549e8ec21dbebb4521b47b90d398fcc4].
 
 #### 57. Vehicles used by operators authorised in Russia
 
@@ -956,7 +956,7 @@ where the keeper is a local authority.
 
 (3) In this paragraph—
 
-- “**Euro V standards-compliant[^key-034560c6bfd6951899bac4beb11bb78b] vehicle**” means a vehicle where the engine satisfies the emissions limit values set out in row B2 and row C of each of the tables in Section 6.2.1 of Annex 1 to [Directive 2005/55/EC](https://www.legislation.gov.uk/european/directive/2005/0055) of the European Parliament and Council of 28 September 2005, as that law had effect on 30 December 2013;
+- “**Euro V standards-compliant[^c-034560c6bfd6951899bac4beb11bb78b] vehicle**” means a vehicle where the engine satisfies the emissions limit values set out in row B2 and row C of each of the tables in Section 6.2.1 of Annex 1 to [Directive 2005/55/EC](https://www.legislation.gov.uk/european/directive/2005/0055) of the European Parliament and Council of 28 September 2005, as that law had effect on 30 December 2013;
 - “**Euro VI standards-compliant vehicle**” means a vehicle where the engine satisfies the emissions limit values set out in Annex 1 to Regulation 595/2009 of the European Parliament and Council of 18 June 2009, as that law had effect immediately before IP completion day;
 - “**Ukraine operator**” means an operator who is—
   - (a) authorised under the law of Ukraine to engage in the international carriage of goods, and
@@ -1119,7 +1119,7 @@ where the keeper is a local authority.
 - (b) a Russia vehicle, within the meaning given by paragraph 57(4), which is—
   - (i) a livestock vehicle, or
   - (ii) a vehicle on a journey for the carriage only of one or more of the goods listed in sub-paragraph (2)(c), (d) and (h);
-- (c) a Belarus vehicle, within the meaning given by paragraph 44(3)[^key-387de8d78dfd603589224343a29071c6], or a Turkey vehicle, within the meaning given by paragraph 62(2), on a journey for the carriage only of goods carried on own account.
+- (c) a Belarus vehicle, within the meaning given by paragraph 44(3)[^c-387de8d78dfd603589224343a29071c6], or a Turkey vehicle, within the meaning given by paragraph 62(2), on a journey for the carriage only of goods carried on own account.
 
 (4) A non-UK/EU ECMT vehicle—
 
@@ -1151,122 +1151,122 @@ where the keeper is a local authority.
 
 ## Annotations
 
-[^key-0fdf961a1b2bd98ea10bb2172459a7a9]: Commencement: Sch. 3 Pt. I para. 1 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-0fdf961a1b2bd98ea10bb2172459a7a9]: Commencement: Sch. 3 Pt. I para. 1 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-b289b72c4fda3a843795b390bdc4b0f7]: Commencement: Sch. 3 Pt. I para. 2 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-b289b72c4fda3a843795b390bdc4b0f7]: Commencement: Sch. 3 Pt. I para. 2 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-e10ac29949142fa62f72e3424d04cccf]: Commencement: Sch. 3 Pt. I para. 3 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-e10ac29949142fa62f72e3424d04cccf]: Commencement: Sch. 3 Pt. I para. 3 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-a7f60ad1e548034244a68d07273d2476]: Commencement: Sch. 3 Pt. I para. 4 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-a7f60ad1e548034244a68d07273d2476]: Commencement: Sch. 3 Pt. I para. 4 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-6cd58459512398014f6edc9bee9b15f0]: Commencement: Sch. 3 Pt. I para. 5 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-6cd58459512398014f6edc9bee9b15f0]: Commencement: Sch. 3 Pt. I para. 5 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-7cf7316b014193087f00538c1f3f4fe9]: Commencement: Sch. 3 Pt. I para. 6 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-7cf7316b014193087f00538c1f3f4fe9]: Commencement: Sch. 3 Pt. I para. 6 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-777f2192ea005f6f44cdab14dfa047a8]: Textual amendment: Words in Sch. 3 Pt. 1 para. 6 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 73](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/73)
+[^c-777f2192ea005f6f44cdab14dfa047a8]: Textual amendment: Words in Sch. 3 Pt. 1 para. 6 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 73](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/73)
 
-[^key-021a2a3537794d24729592fa6c0056a9]: Textual amendment: Words in Sch. 3 Pt. 1 para. 6 inserted (E.) (30.12.2004) by virtue of [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [35](https://www.legislation.gov.uk/uksi/2004/3168/article/35) and words in Sch. 3 para. 6 inserted (W.) (25.10.2005) by virtue of [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/uksi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2929/article/1/1), [35](https://www.legislation.gov.uk/uksi/2005/2929/article/35)
+[^c-021a2a3537794d24729592fa6c0056a9]: Textual amendment: Words in Sch. 3 Pt. 1 para. 6 inserted (E.) (30.12.2004) by virtue of [The Fire and Rescue Services Act 2004 (Consequential Amendments) (England) Order 2004 (S.I. 2004/3168)](https://www.legislation.gov.uk/uksi/2004/3168), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3168/article/1/1), [35](https://www.legislation.gov.uk/uksi/2004/3168/article/35) and words in Sch. 3 para. 6 inserted (W.) (25.10.2005) by virtue of [The Fire and Rescue Services Act 2004 (Consequential Amendments) (Wales) Order 2005 (S.I. 2005/2929)](https://www.legislation.gov.uk/uksi/2005/2929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2929/article/1/1), [35](https://www.legislation.gov.uk/uksi/2005/2929/article/35)
 
-[^key-47da582fa9eec82337b1ac8370891d20]: Textual amendment: Words in Sch. 3 pt. 1 para. 6 inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/12)
+[^c-47da582fa9eec82337b1ac8370891d20]: Textual amendment: Words in Sch. 3 pt. 1 para. 6 inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/12)
 
-[^key-e8c7ebf265f22d5d611a3097535de277]: Commencement: Sch. 3 Pt. I para. 7 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-e8c7ebf265f22d5d611a3097535de277]: Commencement: Sch. 3 Pt. I para. 7 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-ecb2297935fe27b3206c00f4b20a113f]: Commencement: Sch. 3 Pt. I para. 8 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-ecb2297935fe27b3206c00f4b20a113f]: Commencement: Sch. 3 Pt. I para. 8 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-600909f889d5cf734d4c9eb97a451222]: Commencement: Sch. 3 Pt. I para. 9 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-600909f889d5cf734d4c9eb97a451222]: Commencement: Sch. 3 Pt. I para. 9 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-9e38078762164830bc0385af9d3e7448]: Commencement: Sch. 3 Pt. I para. 10 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-9e38078762164830bc0385af9d3e7448]: Commencement: Sch. 3 Pt. I para. 10 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-66ce3714f5602f3d8793dcc9bf250394]: Textual amendment: Words in Sch. 3 Pt. 1 para. 10 inserted (5.10.2017) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2017 (S.I. 2017/874)](https://www.legislation.gov.uk/uksi/2017/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/874/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2017/874/regulation/10)
+[^c-66ce3714f5602f3d8793dcc9bf250394]: Textual amendment: Words in Sch. 3 Pt. 1 para. 10 inserted (5.10.2017) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2017 (S.I. 2017/874)](https://www.legislation.gov.uk/uksi/2017/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/874/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2017/874/regulation/10)
 
-[^key-647470aede35324be3a5ad54604494a0]: Commencement: Sch. 3 Pt. I para. 11 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-647470aede35324be3a5ad54604494a0]: Commencement: Sch. 3 Pt. I para. 11 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-6ee02bcd81c79ac155c3b6144a6d9ef9]: Commencement: Sch. 3 Pt. I para. 12 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-6ee02bcd81c79ac155c3b6144a6d9ef9]: Commencement: Sch. 3 Pt. I para. 12 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-4beb8575a2530d772a43ac8149b3d930]: Commencement: Sch. 3 Pt. I para. 13 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-4beb8575a2530d772a43ac8149b3d930]: Commencement: Sch. 3 Pt. I para. 13 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-91341f55d553674586c6104844a9fd4e]: Commencement: Sch. 3 Pt. I para. 14 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-91341f55d553674586c6104844a9fd4e]: Commencement: Sch. 3 Pt. I para. 14 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-797ce63484a4fe857dbfda1276b185a7]: Commencement: Sch. 3 Pt. I para. 15 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-797ce63484a4fe857dbfda1276b185a7]: Commencement: Sch. 3 Pt. I para. 15 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-72d01587b0b45b7eaec9a3c1d10a0eb2]: Textual amendment: Sch. 3 Pt. 1 para. 15(a) substituted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/25/regulation/2/4/a)
+[^c-72d01587b0b45b7eaec9a3c1d10a0eb2]: Textual amendment: Sch. 3 Pt. 1 para. 15(a) substituted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/25/regulation/2/4/a)
 
-[^key-6a70e5eaf8751333573f2b76b545e93d]: Commencement: Sch. 3 Pt. I para. 16 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-6a70e5eaf8751333573f2b76b545e93d]: Commencement: Sch. 3 Pt. I para. 16 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-c9257eadf2bab397713c8e14b356453f]: Commencement: Sch. 3 Pt. I para. 17 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-c9257eadf2bab397713c8e14b356453f]: Commencement: Sch. 3 Pt. I para. 17 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
 [^c1867551]: Marginal citation: [1948 c.5](https://www.legislation.gov.uk/ukpga/1948/5), (12, 13 & 14 Geo. 6).
 
-[^key-438f82be739087e9b125c9369ccb519c]: Commencement: Sch. 3 Pt. I para. 18 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-438f82be739087e9b125c9369ccb519c]: Commencement: Sch. 3 Pt. I para. 18 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-a138840953d4ebcaf785152957a3daa2]: Commencement: Sch. 3 Pt. I para. 19 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-a138840953d4ebcaf785152957a3daa2]: Commencement: Sch. 3 Pt. I para. 19 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-12baedcfcec7b27d819b0c9e146fc50f]: Commencement: Sch. 3 Pt. I para. 20 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-12baedcfcec7b27d819b0c9e146fc50f]: Commencement: Sch. 3 Pt. I para. 20 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
 [^c1867552]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-0e7e3caa35509376341068f99289791f]: Commencement: Sch. 3 Pt. I para. 21 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-0e7e3caa35509376341068f99289791f]: Commencement: Sch. 3 Pt. I para. 21 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-bd9cde72edf443d0c5f96a6403e28d90]: Textual amendment: Words in Sch. 3 Pt. 1 para. 21 inserted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/25/regulation/2/4/b)
+[^c-bd9cde72edf443d0c5f96a6403e28d90]: Textual amendment: Words in Sch. 3 Pt. 1 para. 21 inserted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/25/regulation/2/4/b)
 
-[^key-9b1b768b2bfceec8404cdcd29f25154f]: Commencement: Sch. 3 Pt. I para. 22 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-9b1b768b2bfceec8404cdcd29f25154f]: Commencement: Sch. 3 Pt. I para. 22 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-fbee750885a47bf05f25e9eabf997358]: Textual amendment: [Sch. 3 Pt. 1 para. 22A](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/1/paragraph/22A) omitted (1.10.2023) by virtue of [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/1)
+[^c-fbee750885a47bf05f25e9eabf997358]: Textual amendment: [Sch. 3 Pt. 1 para. 22A](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/1/paragraph/22A) omitted (1.10.2023) by virtue of [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/1)
 
-[^key-e433777a7ab2fbbe5cb865a35aa9c441]: Textual amendment: [Sch. 3 Pt. 1 para. 23](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/1/paragraph/23) omitted (1.10.2023) by virtue of [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/1)
+[^c-e433777a7ab2fbbe5cb865a35aa9c441]: Textual amendment: [Sch. 3 Pt. 1 para. 23](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/1/paragraph/23) omitted (1.10.2023) by virtue of [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/1)
 
-[^key-b8171a81a3e22783fc930e1ed4c62125]: Textual amendment: Sch. 3 Pt. 1 para. 23A inserted (15.8.2013) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2013 (S.I. 2013/1750)](https://www.legislation.gov.uk/uksi/2013/1750), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1750/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1750/regulation/2/2)
+[^c-b8171a81a3e22783fc930e1ed4c62125]: Textual amendment: Sch. 3 Pt. 1 para. 23A inserted (15.8.2013) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2013 (S.I. 2013/1750)](https://www.legislation.gov.uk/uksi/2013/1750), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1750/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1750/regulation/2/2)
 
-[^key-712c491dd62a622eb31c9606a88307c2]: Textual amendment: Words in Sch. 3 Pt. 1 para. 23A(1)(a) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/708/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-712c491dd62a622eb31c9606a88307c2]: Textual amendment: Words in Sch. 3 Pt. 1 para. 23A(1)(a) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/708/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a9e3269ed87e02cf43553e874a3b7e18]: Textual amendment: Words in Sch. 3 Pt. 1 para. 23A(1)(b) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/10/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-a9e3269ed87e02cf43553e874a3b7e18]: Textual amendment: Words in Sch. 3 Pt. 1 para. 23A(1)(b) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/10/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-2105748b2dbe97e799fac27adb4a6058]: Textual amendment: Words in Sch. 3 Pt. 1 para. 23A(2) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/708/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2105748b2dbe97e799fac27adb4a6058]: Textual amendment: Words in Sch. 3 Pt. 1 para. 23A(2) substituted (31.12.2020) by [The Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/708)](https://www.legislation.gov.uk/uksi/2019/708), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/708/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d876689fba233a3e7b6ed448db18d12]: Textual amendment: [Sch. 3 Pt. 1 para. 23B](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/1/paragraph/23B) omitted (1.10.2023) by virtue of [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/1)
+[^c-1d876689fba233a3e7b6ed448db18d12]: Textual amendment: [Sch. 3 Pt. 1 para. 23B](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/1/paragraph/23B) omitted (1.10.2023) by virtue of [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/1)
 
-[^key-78b47a0bc7b274ba68ff0700c133d830]: Commencement: Sch. 3 Pt. I para. 24 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-78b47a0bc7b274ba68ff0700c133d830]: Commencement: Sch. 3 Pt. I para. 24 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-f42030239e92a345fbd3b2368b730ec5]: Commencement: Sch. 3 Pt. I para. 25 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-f42030239e92a345fbd3b2368b730ec5]: Commencement: Sch. 3 Pt. I para. 25 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
 [^c1867554]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52); to which there are amendments not relevant to this provision.
 
-[^key-314d7b58828c43e6d6f4d1ca386e2c81]: Commencement: Sch. 3 Pt. I para. 26 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-314d7b58828c43e6d6f4d1ca386e2c81]: Commencement: Sch. 3 Pt. I para. 26 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-abc64ba08363a7e2435f326a580eb645]: Commencement: Sch. 3 Pt. I para. 27 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-abc64ba08363a7e2435f326a580eb645]: Commencement: Sch. 3 Pt. I para. 27 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-261a6145f48932697ca2371d4fcd706a]: Commencement: Sch. 3 Pt. I para. 28 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-261a6145f48932697ca2371d4fcd706a]: Commencement: Sch. 3 Pt. I para. 28 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-80aed90258db887e3fe84329af71e5e3]: Commencement: Sch. 3 Pt. I para. 29 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-80aed90258db887e3fe84329af71e5e3]: Commencement: Sch. 3 Pt. I para. 29 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-83326389dcf3a6a0c1883414973a95c1]: Textual amendment: Sch. 3 Pt. 1 para. 30 inserted (15.8.2013) by [The Motor Vehicles (Driver Testing and Vehicle Load) Regulations 2013 (S.I. 2013/1753)](https://www.legislation.gov.uk/uksi/2013/1753), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1753/regulation/4)
+[^c-83326389dcf3a6a0c1883414973a95c1]: Textual amendment: Sch. 3 Pt. 1 para. 30 inserted (15.8.2013) by [The Motor Vehicles (Driver Testing and Vehicle Load) Regulations 2013 (S.I. 2013/1753)](https://www.legislation.gov.uk/uksi/2013/1753), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1753/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1753/regulation/4)
 
-[^key-b4365666729e06d92d40e0d60beed518]: Textual amendment: Words in [Sch. 3 para. 30(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/30/c/iii/bb) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [20(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/20/2) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+[^c-b4365666729e06d92d40e0d60beed518]: Textual amendment: Words in [Sch. 3 para. 30(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/30/c/iii/bb) inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [20(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/20/2) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
 
-[^key-7e124af23e494d26d5d77a6bc4a42447]: Textual amendment: [Sch. 3 Pt. 1 para. 31](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/31) inserted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2018/25/regulation/2/4/c)
+[^c-7e124af23e494d26d5d77a6bc4a42447]: Textual amendment: [Sch. 3 Pt. 1 para. 31](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/31) inserted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2018/25/regulation/2/4/c)
 
 [^M_F_f600ce5d-bfdd-4f62-d656-9c6d75826154]: Textual amendment: Words in Sch. 3 Pt. 1 para. 31(b) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [65](https://www.legislation.gov.uk/uksi/2022/293/regulation/65)
 
 [^M_I_2ec10053-6f3b-4e4e-a433-5972cba6c3b7]: Commencement: Sch. 3 Pt. 2 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
 
-[^key-94352317c42004717aed53d1d625d7a5]: Textual amendment: [Sch. 3 Pt. 2 paras. 1-7](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/2/paragraph/1) renumbered as Sch. 3 Pt. 2 paras. 32-38 (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/2)
+[^c-94352317c42004717aed53d1d625d7a5]: Textual amendment: [Sch. 3 Pt. 2 paras. 1-7](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/2/paragraph/1) renumbered as Sch. 3 Pt. 2 paras. 32-38 (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/2)
 
-[^key-822fe618e8836668a8c6132fddacacbe]: Textual amendment: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/3) inserted (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/3)
+[^c-822fe618e8836668a8c6132fddacacbe]: Textual amendment: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/part/3) inserted (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2023/805/regulation/7/3)
 
-[^key-7edb9dd66efa7b84628be13b6907e27c]: Textual amendment: Word in [Sch. 3 para. 39(1)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/39/1) omitted (19.8.2024) by virtue of [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/a)
+[^c-7edb9dd66efa7b84628be13b6907e27c]: Textual amendment: Word in [Sch. 3 para. 39(1)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/39/1) omitted (19.8.2024) by virtue of [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/a)
 
-[^key-3f004582049639a394b972aeb020da5c]: Textual amendment: Words in [Sch. 3 para. 40(1)(b)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/40/1/b) omitted (19.8.2024) by virtue of [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/b/i)
+[^c-3f004582049639a394b972aeb020da5c]: Textual amendment: Words in [Sch. 3 para. 40(1)(b)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/40/1/b) omitted (19.8.2024) by virtue of [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/b/i)
 
-[^key-5498401d4c63dcaa052c887ac9c02aa3]: Textual amendment: [Sch. 3 para. 40(2)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/40/2) omitted (19.8.2024) by virtue of [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/b/ii)
+[^c-5498401d4c63dcaa052c887ac9c02aa3]: Textual amendment: [Sch. 3 para. 40(2)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/40/2) omitted (19.8.2024) by virtue of [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/b/ii)
 
-[^key-7ca635260afdae2938f36c156b210697]: Textual amendment: Words in [Sch. 3 para. 43(2)(f)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/43/2/f) inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/c)
+[^c-7ca635260afdae2938f36c156b210697]: Textual amendment: Words in [Sch. 3 para. 43(2)(f)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/43/2/f) inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/c)
 
-[^key-3da6ddcc8da2b3b283e74865acfbe68f]: Textual amendment: [Sch. 3 para. 56(1)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/1)[(1A)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/1A) substituted for [Sch. 3](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3) [para. 56(1)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/1) (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/d/i)
+[^c-3da6ddcc8da2b3b283e74865acfbe68f]: Textual amendment: [Sch. 3 para. 56(1)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/1)[(1A)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/1A) substituted for [Sch. 3](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3) [para. 56(1)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/1) (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(d)(i)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/d/i)
 
-[^key-174aa7f4154531324a8cbdeb1c34aa9e]: Textual amendment: Words in [Sch. 3 para. 56(2)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/2) omitted (19.8.2024) by virtue of [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/d/ii/aa)
+[^c-174aa7f4154531324a8cbdeb1c34aa9e]: Textual amendment: Words in [Sch. 3 para. 56(2)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/2) omitted (19.8.2024) by virtue of [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(d)(ii)(aa)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/d/ii/aa)
 
-[^key-549e8ec21dbebb4521b47b90d398fcc4]: Textual amendment: Words in [Sch. 3 para. 56(2)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/2) inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/d/ii/bb)
+[^c-549e8ec21dbebb4521b47b90d398fcc4]: Textual amendment: Words in [Sch. 3 para. 56(2)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/56/2) inserted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(d)(ii)(bb)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/d/ii/bb)
 
-[^key-034560c6bfd6951899bac4beb11bb78b]: Textual amendment: Word in [Sch. 3 para. 64(3)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/64/3) substituted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/e)
+[^c-034560c6bfd6951899bac4beb11bb78b]: Textual amendment: Word in [Sch. 3 para. 64(3)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/64/3) substituted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/e)
 
-[^key-387de8d78dfd603589224343a29071c6]: Textual amendment: Words in [Sch. 3 para. 68(3)(c)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/68/3/c) substituted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/f)
+[^c-387de8d78dfd603589224343a29071c6]: Textual amendment: Words in [Sch. 3 para. 68(3)(c)](https://www.legislation.gov.uk/uksi/1995/2869/schedule/3/paragraph/68/3/c) substituted (19.8.2024) by [The Goods Vehicles (Licensing of Operators and International Road Transport Permits) (Amendment) Regulations 2024 (S.I. 2024/830)](https://www.legislation.gov.uk/uksi/2024/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/830/regulation/1/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2024/830/regulation/2/2/f)

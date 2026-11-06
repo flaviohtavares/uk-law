@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Acquisition of interest of tenant over land: allocation of rents etc.[^key-4920ca9f92fb0d87f80ab0a935f4eb9a]
+## 66. Acquisition of interest of tenant over land: allocation of rents etc.[^c-4920ca9f92fb0d87f80ab0a935f4eb9a]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ is to be determined by the valuer when, in pursuance of an appointment under sec
 
 ## Annotations
 
-[^key-4920ca9f92fb0d87f80ab0a935f4eb9a]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2016/18/section/66) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-4920ca9f92fb0d87f80ab0a935f4eb9a]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2016/18/section/66) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

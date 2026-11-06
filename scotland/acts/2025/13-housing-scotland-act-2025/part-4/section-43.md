@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Power to obtain information and carry out inspections[^key-e3d2cb1ccfdc971e0e6de6abcfd0375d][^key-0f04445afb5d6b30a18a66cd1a9e4892]
+## 43. Power to obtain information and carry out inspections[^c-e3d2cb1ccfdc971e0e6de6abcfd0375d][^c-0f04445afb5d6b30a18a66cd1a9e4892]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3d2cb1ccfdc971e0e6de6abcfd0375d]: Commencement: S. 43 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-e3d2cb1ccfdc971e0e6de6abcfd0375d]: Commencement: S. 43 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-0f04445afb5d6b30a18a66cd1a9e4892]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/13/section/43) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-0f04445afb5d6b30a18a66cd1a9e4892]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2025/13/section/43) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

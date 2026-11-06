@@ -46,11 +46,11 @@ summary: ''
 - (b) decide the questions referred to the selected medical practitioner under paragraph (1); and
 - (c) give the Chief Constable and the member a report and certificate containing a decision on those questions.
 
-(5)[^key-c8bea35c9d6d0ef38bdfadf013f03136] That report is final, subject to—
+(5)[^c-c8bea35c9d6d0ef38bdfadf013f03136] That report is final, subject to—
 
 - (a) an appeal under Schedule 1 against the decision of the selected medical practitioner; or
 - (b) a referral under Schedule 1 of the decision of the selected medical practitioner for reconsideration.
 
 ## Annotations
 
-[^key-c8bea35c9d6d0ef38bdfadf013f03136]: Textual amendment: [Reg. 79(5)](https://www.legislation.gov.uk/nisr/2015/113/regulation/79/5) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [14](https://www.legislation.gov.uk/nisr/2024/38/regulation/14)
+[^c-c8bea35c9d6d0ef38bdfadf013f03136]: Textual amendment: [Reg. 79(5)](https://www.legislation.gov.uk/nisr/2015/113/regulation/79/5) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [14](https://www.legislation.gov.uk/nisr/2024/38/regulation/14)

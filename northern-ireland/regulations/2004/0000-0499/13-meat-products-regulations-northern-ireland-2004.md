@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Meat Products Regulations (Northern Ireland) 2004 (revoked)[^key-b854f526a61a6be973667e302d8f28a4]
+Meat Products Regulations (Northern Ireland) 2004 (revoked)[^c-b854f526a61a6be973667e302d8f28a4]
 
 Made
 
@@ -41,105 +41,105 @@ Coming into operation
 
 29th February 2004
 
-[^key-b854f526a61a6be973667e302d8f28a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b854f526a61a6be973667e302d8f28a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b854f526a61a6be973667e302d8f28a4]
+## 1. Citation and commencement[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b854f526a61a6be973667e302d8f28a4]
+## 2. Interpretation[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-b854f526a61a6be973667e302d8f28a4]
+## 3. Scope[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Restrictions on the use of certain names[^key-b854f526a61a6be973667e302d8f28a4]
+## 4. Restrictions on the use of certain names[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Name of the food for certain meat products[^key-b854f526a61a6be973667e302d8f28a4]
+## 5. Name of the food for certain meat products[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Parts of the carcase in uncooked meat products[^key-b854f526a61a6be973667e302d8f28a4]
+## 6. Parts of the carcase in uncooked meat products[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties and enforcement[^key-b854f526a61a6be973667e302d8f28a4]
+## 7. Penalties and enforcement[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Application of various provisions of the Order[^key-b854f526a61a6be973667e302d8f28a4]
+## 8. Application of various provisions of the Order[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^key-b854f526a61a6be973667e302d8f28a4]
+## 9. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Transitional provision and defence in relation to exports[^key-b854f526a61a6be973667e302d8f28a4]
+## 10. Transitional provision and defence in relation to exports[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocations[^key-b854f526a61a6be973667e302d8f28a4]
+## 11. Revocations[^c-b854f526a61a6be973667e302d8f28a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b854f526a61a6be973667e302d8f28a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b854f526a61a6be973667e302d8f28a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE I — FOODS WHICH ARE NOT MEAT PRODUCTS FOR THE PURPOSES OF THESE REGULATIONS[^key-b854f526a61a6be973667e302d8f28a4]
+## SCHEDULE I — FOODS WHICH ARE NOT MEAT PRODUCTS FOR THE PURPOSES OF THESE REGULATIONS[^c-b854f526a61a6be973667e302d8f28a4]
 
 Regulation 2
 
-**1.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — RESERVED DESCRIPTIONS[^key-b854f526a61a6be973667e302d8f28a4]
+## SCHEDULE 2 — RESERVED DESCRIPTIONS[^c-b854f526a61a6be973667e302d8f28a4]
 
 Regulation 4(1) and (2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — ADDED INGREDIENTS WHICH ARE NOT REQUIRED TO BE INDICATED IN THE NAME OF THE FOOD IN THE CASE OF A MEAT PRODUCT TO WHICH REGULATION 5 APPLIES[^key-b854f526a61a6be973667e302d8f28a4]
+## SCHEDULE 3 — ADDED INGREDIENTS WHICH ARE NOT REQUIRED TO BE INDICATED IN THE NAME OF THE FOOD IN THE CASE OF A MEAT PRODUCT TO WHICH REGULATION 5 APPLIES[^c-b854f526a61a6be973667e302d8f28a4]
 
 Regulation 5(2)(b)
 
-**1.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b854f526a61a6be973667e302d8f28a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — SCHEDULE TO BE INSERTED INTO THE FOOD LABELLING REGULATIONS (NORTHERN IRELAND) 1996[^key-b854f526a61a6be973667e302d8f28a4]
+## SCHEDULE 4 — SCHEDULE TO BE INSERTED INTO THE FOOD LABELLING REGULATIONS (NORTHERN IRELAND) 1996[^c-b854f526a61a6be973667e302d8f28a4]
 
 Regulation 9(c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — REVOCATIONS[^key-b854f526a61a6be973667e302d8f28a4]
+## SCHEDULE 5 — REVOCATIONS[^c-b854f526a61a6be973667e302d8f28a4]
 
 Regulation 10
 
@@ -147,8 +147,8 @@ Regulation 10
 
 **May not be in force at this date. Check the source.**
 
-[^key-b854f526a61a6be973667e302d8f28a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b854f526a61a6be973667e302d8f28a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b854f526a61a6be973667e302d8f28a4]: Textual amendment: Regulations revoked (13.12.2014) by [The Products Containing Meat etc. Regulations (Northern Ireland) 2014 (S.R. 2014/285)](https://www.legislation.gov.uk/nisr/2014/285), [regs. 1](https://www.legislation.gov.uk/nisr/2014/285/regulation/1), [10(a)](https://www.legislation.gov.uk/nisr/2014/285/regulation/10/a)
+[^c-b854f526a61a6be973667e302d8f28a4]: Textual amendment: Regulations revoked (13.12.2014) by [The Products Containing Meat etc. Regulations (Northern Ireland) 2014 (S.R. 2014/285)](https://www.legislation.gov.uk/nisr/2014/285), [regs. 1](https://www.legislation.gov.uk/nisr/2014/285/regulation/1), [10(a)](https://www.legislation.gov.uk/nisr/2014/285/regulation/10/a)

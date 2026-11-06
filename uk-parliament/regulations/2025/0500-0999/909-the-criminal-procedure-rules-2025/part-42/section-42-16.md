@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.16. Respondent’s notice[^key-9e5be148ea052cc70d19f59b54b3c1e9]
+## 42.16. Respondent’s notice[^c-9e5be148ea052cc70d19f59b54b3c1e9]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ after it is served on the Registrar.
 
 ## Annotations
 
-[^key-9e5be148ea052cc70d19f59b54b3c1e9]: Commencement: [Rule 42.16](https://www.legislation.gov.uk/uksi/2025/909/rule/42.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9e5be148ea052cc70d19f59b54b3c1e9]: Commencement: [Rule 42.16](https://www.legislation.gov.uk/uksi/2025/909/rule/42.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

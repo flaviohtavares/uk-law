@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Power to give assistance in relation to certain proceedings[^key-3da92227888e34ba3996c6f2e0e188e3][^key-9bf0e2c25398f2e64877100c4e6ce775][^key-e872157b404878da471c1f33064df012]
+## 119. Power to give assistance in relation to certain proceedings[^c-3da92227888e34ba3996c6f2e0e188e3][^c-9bf0e2c25398f2e64877100c4e6ce775][^c-e872157b404878da471c1f33064df012]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,18 +53,18 @@ summary: ''
 
 (7) A charge conferred by subsection (6) is subject to—
 
-- (a) any charge imposed by section 25 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-86342b27ff8d55902d49ebb939f6c065] and any provision made by or under Part 1 of that Act for the payment of any sum to the Lord Chancellor[^key-d19dd2332176e0490506d316cebbddaa] ;
+- (a) any charge imposed by section 25 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-86342b27ff8d55902d49ebb939f6c065] and any provision made by or under Part 1 of that Act for the payment of any sum to the Lord Chancellor[^c-d19dd2332176e0490506d316cebbddaa] ;
 - (b) any charge or obligation for payment in priority to other debts under the Legal Aid (Scotland) Act 1986 (c. 47); or
 - (c) any charge under the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981/228 (N.I. 8)).
 
 ## Annotations
 
-[^key-3da92227888e34ba3996c6f2e0e188e3]: Commencement: S. 119 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-3da92227888e34ba3996c6f2e0e188e3]: Commencement: S. 119 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-9bf0e2c25398f2e64877100c4e6ce775]: Commencement: S. 119 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9bf0e2c25398f2e64877100c4e6ce775]: Commencement: S. 119 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e872157b404878da471c1f33064df012]: Modification: Ss. 106-119 modified (coming into force in accordance with reg. 1 of the amending S.I.) by [The Electronic Communications Code (Transitional Provisions) Regulations 2017 (S.I. 2017/1008)](https://www.legislation.gov.uk/uksi/2017/1008), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1008/regulation/4)
+[^c-e872157b404878da471c1f33064df012]: Modification: Ss. 106-119 modified (coming into force in accordance with reg. 1 of the amending S.I.) by [The Electronic Communications Code (Transitional Provisions) Regulations 2017 (S.I. 2017/1008)](https://www.legislation.gov.uk/uksi/2017/1008), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1008/regulation/4)
 
-[^key-86342b27ff8d55902d49ebb939f6c065]: Textual amendment: Words in s. 119(7)(a) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 61(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/61/a); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-86342b27ff8d55902d49ebb939f6c065]: Textual amendment: Words in s. 119(7)(a) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 61(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/61/a); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
-[^key-d19dd2332176e0490506d316cebbddaa]: Textual amendment: Words in s. 119(7)(a) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 61(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/61/b); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-d19dd2332176e0490506d316cebbddaa]: Textual amendment: Words in s. 119(7)(a) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 61(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/61/b); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

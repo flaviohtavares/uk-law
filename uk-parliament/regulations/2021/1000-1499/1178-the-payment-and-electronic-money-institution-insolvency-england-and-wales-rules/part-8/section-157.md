@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Additional notices[^key-909bd7bdad727ece330071a3c9a212c2]
+## 157. Additional notices[^c-909bd7bdad727ece330071a3c9a212c2]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-909bd7bdad727ece330071a3c9a212c2]: Commencement: Rule 157 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-909bd7bdad727ece330071a3c9a212c2]: Commencement: Rule 157 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00018]: Footnote: Sections 178 to 180 were amended by Banking Act [2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1) and [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245). There are other amending instruments but none is relevant.

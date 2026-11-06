@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Assembling a jury[^key-e82c93b204cdd9c43ad00c23cc90a3ae]
+## 8. Assembling a jury[^c-e82c93b204cdd9c43ad00c23cc90a3ae]
 
 *Extent: E+W*
 
@@ -26,12 +26,12 @@ summary: ''
 
 (3) Once assembled, the members of a jury are to be sworn by or before the coroner to inquire into the death of the deceased and to give a true determination according to the evidence.
 
-(4) Only a person who is qualified to serve as a juror in the Crown Court, the High Court and the county court[^key-e27b857eb1787ba23c3af70adf77ee15], under section 1 of the Juries Act 1974 (c. 23), is qualified to serve as a juror at an inquest.
+(4) Only a person who is qualified to serve as a juror in the Crown Court, the High Court and the county court[^c-e27b857eb1787ba23c3af70adf77ee15], under section 1 of the Juries Act 1974 (c. 23), is qualified to serve as a juror at an inquest.
 
 (5) The senior coroner may put to a person summoned under this section any questions that appear necessary to establish whether or not the person is qualified to serve as a juror at an inquest.
 
 ## Annotations
 
-[^key-e82c93b204cdd9c43ad00c23cc90a3ae]: Commencement: S. 8 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-e82c93b204cdd9c43ad00c23cc90a3ae]: Commencement: S. 8 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
 
-[^key-e27b857eb1787ba23c3af70adf77ee15]: Textual amendment: Words in s. 8(4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 73](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/73); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e27b857eb1787ba23c3af70adf77ee15]: Textual amendment: Words in s. 8(4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 73](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/73); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

@@ -93,7 +93,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** 1. Imports of fruit bats of the genus *Pteropus* from Malaysia (Peninsula) and Australia are prohibited.
 
-2. By way of derogation from paragraph 1 [^key-5d8baf6900aaeeaf3a11a4d2b3468ab9]..., fruit bats of the genus *Pteropus* may be imported under the following conditions:
+2. By way of derogation from paragraph 1 [^c-5d8baf6900aaeeaf3a11a4d2b3468ab9]..., fruit bats of the genus *Pteropus* may be imported under the following conditions:
 
 - (a) the animals originate from captive colonies,
 - (b) the animals have been isolated in quarantine premises for at least 60 days,
@@ -119,7 +119,7 @@ HAS ADOPTED THIS DECISION:
 
 References to the repealed Decision shall be construed as references to this Decision and shall be read in accordance with the correlation table in Annex II.
 
-**Article 5.**[^key-1484962c383b303792fc4bd2cd293f66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-1484962c383b303792fc4bd2cd293f66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 21 February 2006.
 
@@ -174,6 +174,6 @@ Correlation table
 
 [^f00004]: Footnote: [OJ L 268, 14.9.1992, p. 54](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.268.01.0054.01.ENG). Directive as last amended by Directive 2004/68/EC ([OJ L 139, 30.4.2004, p. 320](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0320.01.ENG), corrected by [OJ L 226, 25.6.2004, p. 128](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.226.01.0128.01.ENG)).
 
-[^key-5d8baf6900aaeeaf3a11a4d2b3468ab9]: Textual amendment: Words in Art. 1(2) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [45(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/45/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-5d8baf6900aaeeaf3a11a4d2b3468ab9]: Textual amendment: Words in Art. 1(2) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [45(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/45/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-1484962c383b303792fc4bd2cd293f66]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [45(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/45/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-1484962c383b303792fc4bd2cd293f66]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [45(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/45/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))

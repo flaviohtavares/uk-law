@@ -149,7 +149,7 @@ Monetary values should be reported in the base currency of the AIF.
 
 Monetary values should be reported in the base currency of the AIF.
 
-**AIF-specific information to be provided to the FCA[^key-3cf73bc05318741fbbc16e986763b3c7]**
+**AIF-specific information to be provided to the FCA[^c-3cf73bc05318741fbbc16e986763b3c7]**
 
 (Article 24(2) of Directive 2011/61/EU)
 
@@ -494,4 +494,4 @@ Monetary values should be reported in the base currency of the AIF.
 
 [^f00012]: Footnote: If Other please indicate the strategy that best describes the AIF type.
 
-[^key-3cf73bc05318741fbbc16e986763b3c7]: Textual amendment: Words in Annex 4 table heading substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [40(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/40) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3) , [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cf73bc05318741fbbc16e986763b3c7]: Textual amendment: Words in Annex 4 table heading substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [40(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/40) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3) , [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

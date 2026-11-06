@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2[^key-f879388f529369642342d35a71b65798]
+## SCHEDULE 2[^c-f879388f529369642342d35a71b65798]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ Regulation 33
 
 ## Annotations
 
-[^key-f879388f529369642342d35a71b65798]: Commencement: Sch. 2 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-f879388f529369642342d35a71b65798]: Commencement: Sch. 2 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

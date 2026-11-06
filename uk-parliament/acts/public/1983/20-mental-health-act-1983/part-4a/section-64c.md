@@ -35,7 +35,7 @@ summary: ''
 - (a) a registered medical practitioner appointed for the purposes of Part 4 of this Act (not being the responsible clinician or the person in charge of the treatment) has certified in writing that it is appropriate for the treatment to be given or for the treatment to be given subject to such conditions as may be specified in the certificate; and
 - (b) if conditions are so specified, the conditions are satisfied.
 
-(4A)[^key-eb47a31758f9c0f70ab65cafaa251cc7] Where there is authority to give treatment by virtue of subsection (2)(a), the certificate requirement is also met in respect of the treatment if the approved clinician in charge of the treatment has certified in writing that the patient has capacity to consent to the treatment and has consented to it.
+(4A)[^c-eb47a31758f9c0f70ab65cafaa251cc7] Where there is authority to give treatment by virtue of subsection (2)(a), the certificate requirement is also met in respect of the treatment if the approved clinician in charge of the treatment has certified in writing that the patient has capacity to consent to the treatment and has consented to it.
 
 (4B) But, if the patient has not attained the age of 18, subsection (4A) does not apply to section 58A type treatment.
 
@@ -62,4 +62,4 @@ summary: ''
 
 [^c20622171]: Textual amendment: Pt. 4A (ss. 64A-64K) inserted (1.4.2008 for s. 64H for certain purposes, otherwise 3.11.2008 for ss. 64A-64K) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12) , [ss. 35(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/35/1) , [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10) ); [S.I. 2008/745](https://www.legislation.gov.uk/uksi/2008/745) , arts. 2(d), 3(e); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/k) (with art. 3, Sch.)
 
-[^key-eb47a31758f9c0f70ab65cafaa251cc7]: Textual amendment: S. 64C(4A)(4B) inserted (1.6.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 299(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/299/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)
+[^c-eb47a31758f9c0f70ab65cafaa251cc7]: Textual amendment: S. 64C(4A)(4B) inserted (1.6.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 299(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/299/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/2)

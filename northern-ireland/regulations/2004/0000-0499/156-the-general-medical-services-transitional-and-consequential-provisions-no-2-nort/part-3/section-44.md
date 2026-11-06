@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Temporary residents[^key-bebfa0c5cc433fe12e5b3f9b07773020]
+## 44. Temporary residents[^c-bebfa0c5cc433fe12e5b3f9b07773020]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ the person shall be treated as if he had been accepted as a temporary resident b
 
 ## Annotations
 
-[^key-bebfa0c5cc433fe12e5b3f9b07773020]: Commencement: Art. 44 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-bebfa0c5cc433fe12e5b3f9b07773020]: Commencement: Art. 44 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

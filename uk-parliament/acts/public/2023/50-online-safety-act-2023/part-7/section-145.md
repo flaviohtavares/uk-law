@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Interim service restriction orders[^key-7d04cd7420e3e104841fa032fe0975f3][^key-0df192791757f70a57b994e85b435507]
+## 145. Interim service restriction orders[^c-7d04cd7420e3e104841fa032fe0975f3][^c-0df192791757f70a57b994e85b435507]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d04cd7420e3e104841fa032fe0975f3]: Commencement: S. 145 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-7d04cd7420e3e104841fa032fe0975f3]: Commencement: S. 145 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-0df192791757f70a57b994e85b435507]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2023/50/section/145) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-0df192791757f70a57b994e85b435507]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2023/50/section/145) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

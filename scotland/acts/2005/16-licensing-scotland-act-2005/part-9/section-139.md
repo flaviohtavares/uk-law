@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Remote sales of alcohol[^key-9e7e673d24fc61e41f26f0f8d81bd259]
+## 139. Remote sales of alcohol[^c-9e7e673d24fc61e41f26f0f8d81bd259]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e7e673d24fc61e41f26f0f8d81bd259]: Commencement: S. 139 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-9e7e673d24fc61e41f26f0f8d81bd259]: Commencement: S. 139 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

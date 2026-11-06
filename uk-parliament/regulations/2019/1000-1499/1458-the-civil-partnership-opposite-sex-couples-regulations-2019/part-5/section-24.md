@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Ordinary applications: evidence about civil partnership[^key-fde662d83cda2bd968450bafe3f2c0b1]
+## 24. Ordinary applications: evidence about civil partnership[^c-fde662d83cda2bd968450bafe3f2c0b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fde662d83cda2bd968450bafe3f2c0b1]: Commencement: Reg. 24 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-fde662d83cda2bd968450bafe3f2c0b1]: Commencement: Reg. 24 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00046]: Footnote: Section 3(6A)-(6C) was inserted by the Marriage (Same Sex Couples) Act 2013, Schedule 5, paragraph 2.

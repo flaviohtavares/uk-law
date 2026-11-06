@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Modification of the 2010 Regulations etc.[^key-352fab07b272d25616878d49e5aa6b98]
+## 5. Modification of the 2010 Regulations etc.[^c-352fab07b272d25616878d49e5aa6b98]
 
 *Extent: E+W*
 
 (1) The 2010 Regulations apply with the modifications in paragraph (2) to (11).
 
-(2) Regulations 20 (provisions applicable to self-certification schemes), 25A (consideration of high-efficiency alternative systems for new buildings), 27 (CO<sub>2</sub> emission rate calculations), 27A (primary energy consumption rate calculations), 27B (fabric performance values calculations), 27C (target primary energy rate calculations for new buildings), 37 (wholesome water consumption calculation), 41 (sound insulation testing), 42 (mechanical ventilation air flow rate testing), 43 (pressure testing), 44 (commissioning),[^key-2baefc2b6e4349d0e78f8d4ec1a7e260] 44ZA (commissioning in respect of a system for on-site electricity generation) and 44ZAA (particulars of connection to public electronic communications network)[^key-7762d304fa73c85d81a26523181ff0f6] of the 2010 Regulations apply in relation to building work which is the subject of an initial notice as if references to the local authority were references to the approver.
+(2) Regulations 20 (provisions applicable to self-certification schemes), 25A (consideration of high-efficiency alternative systems for new buildings), 27 (CO<sub>2</sub> emission rate calculations), 27A (primary energy consumption rate calculations), 27B (fabric performance values calculations), 27C (target primary energy rate calculations for new buildings), 37 (wholesome water consumption calculation), 41 (sound insulation testing), 42 (mechanical ventilation air flow rate testing), 43 (pressure testing), 44 (commissioning),[^c-2baefc2b6e4349d0e78f8d4ec1a7e260] 44ZA (commissioning in respect of a system for on-site electricity generation) and 44ZAA (particulars of connection to public electronic communications network)[^c-7762d304fa73c85d81a26523181ff0f6] of the 2010 Regulations apply in relation to building work which is the subject of an initial notice as if references to the local authority were references to the approver.
 
 (3) Regulation 27(3) of the 2010 Regulations applies in relation to building work which is the subject of an initial notice as if after “work has been completed,” there were inserted “or, if earlier, the date on which in accordance with regulation 14 of the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024, the initial notice ceases to be in force”.
 
@@ -80,8 +80,8 @@ summary: ''
 
 ## Annotations
 
-[^key-352fab07b272d25616878d49e5aa6b98]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-352fab07b272d25616878d49e5aa6b98]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
-[^key-2baefc2b6e4349d0e78f8d4ec1a7e260]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5/2): comma substituted for word (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/wsi/2025/377/regulation/5/3/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
+[^c-2baefc2b6e4349d0e78f8d4ec1a7e260]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5/2): comma substituted for word (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/wsi/2025/377/regulation/5/3/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
 
-[^key-7762d304fa73c85d81a26523181ff0f6]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5/2) inserted (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/wsi/2025/377/regulation/5/3/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
+[^c-7762d304fa73c85d81a26523181ff0f6]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5/2) inserted (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/wsi/2025/377/regulation/5/3/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2E. Action plans in connection with work-focused interviews[^key-4ae0c8065dda10b5708100dac42ad8dc]
+## 2E. Action plans in connection with work-focused interviews[^c-4ae0c8065dda10b5708100dac42ad8dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ae0c8065dda10b5708100dac42ad8dc]: Textual amendment: Ss. 2D-2H inserted (12.11.2009) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/2/2), [61(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/1)
+[^c-4ae0c8065dda10b5708100dac42ad8dc]: Textual amendment: Ss. 2D-2H inserted (12.11.2009) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/2/2), [61(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/1)

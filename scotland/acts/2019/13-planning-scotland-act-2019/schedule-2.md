@@ -26,7 +26,7 @@ summary: ''
 
 #### Removal of requirement to prepare strategic development plans
 
-**1.**[^key-14711aca54b3d3774d6cdb86e409420e] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+**1.**[^c-14711aca54b3d3774d6cdb86e409420e] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
 (2) Section 16(6) (local development plan consistency with strategic development plan) is repealed.
 
@@ -96,7 +96,7 @@ summary: ''
 
 #### Local development plans
 
-**2.**[^key-091b5542f1edcfa9fae4444fa6f29e8a] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+**2.**[^c-091b5542f1edcfa9fae4444fa6f29e8a] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
 (2) In section 18 (preparation and publication of proposed local development plan), subsection (1)(c) is repealed.
 
@@ -112,13 +112,13 @@ summary: ''
 
 #### Delivery programmes
 
-**3.**[^key-68899ed7deab605e9fa8c816a7aae31d] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+**3.**[^c-68899ed7deab605e9fa8c816a7aae31d] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
 (2) In section 18(4)(a)(ii) (submission of programme to Scottish Ministers), for “action” substitute “ delivery ”.
 
 #### Development plan
 
-**4.**[^key-ed8a01e3cc34fb4d7211fc175baa0b48] (1) Schedule 1 of the Town and Country Planning (Scotland) Act 1997 is amended as follows.
+**4.**[^c-ed8a01e3cc34fb4d7211fc175baa0b48] (1) Schedule 1 of the Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
 (2) For paragraph 1 substitute—
 
@@ -136,7 +136,7 @@ summary: ''
 
 (5) For paragraph 6 substitute—
 
-> **6.** On the publication of the revised National Planning Framework under section 3CA(7)[^key-43b791d8294b7e2d8ae65bda53efac7f] after the coming into force of section 13 of the Planning (Scotland) Act 2019, all strategic development plans and any supplementary guidance issued in connection with them cease to have effect.
+> **6.** On the publication of the revised National Planning Framework under section 3CA(7)[^c-43b791d8294b7e2d8ae65bda53efac7f] after the coming into force of section 13 of the Planning (Scotland) Act 2019, all strategic development plans and any supplementary guidance issued in connection with them cease to have effect.
 >
 > **6A.** On the constitution of a local development plan for an area under section 20 after the coming into force of section 13 of the Planning (Scotland) Act 2019—
 >
@@ -169,7 +169,7 @@ summary: ''
 
 #### Masterplan consent area schemes
 
-**5.**[^key-87b94bbd8acd8c9fd5720c7cc4e25e0d] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+**5.**[^c-87b94bbd8acd8c9fd5720c7cc4e25e0d] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
 (2) In section 27(3)—
 
@@ -259,7 +259,7 @@ summary: ''
 
 #### Duration of planning permission
 
-**6.**[^key-cb5a153056b7311286fdb85965dd9d40] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+**6.**[^c-cb5a153056b7311286fdb85965dd9d40] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
 (2) In section 37 (determination of applications: general considerations), in subsection (1)(a), for “and 59(1)(b)” substitute “ , 58 and 59 ”.
 
@@ -324,7 +324,7 @@ the words “77(3),” are repealed.
 
 ### PART 4 — Regulations
 
-**9.**[^key-b128c18728f096c8c1683d96db8d7fdc][^key-24df91d8265ae8a007c148fc7902ac4a][^key-64d99ad53457660381b90d9a5c4cae4b][^key-65df272eb17b9de2316700727a73d6d2] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+**9.**[^c-b128c18728f096c8c1683d96db8d7fdc][^c-24df91d8265ae8a007c148fc7902ac4a][^c-64d99ad53457660381b90d9a5c4cae4b][^c-65df272eb17b9de2316700727a73d6d2] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
 (2) In section 275, after subsection (7B) insert—
 
@@ -334,24 +334,24 @@ the words “77(3),” are repealed.
 
 ## Annotations
 
-[^key-14711aca54b3d3774d6cdb86e409420e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/1) in force at 12.2.2023 by [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/e)
+[^c-14711aca54b3d3774d6cdb86e409420e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/1) in force at 12.2.2023 by [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(e)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/e)
 
-[^key-091b5542f1edcfa9fae4444fa6f29e8a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/2) in force at 19.5.2023 by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/f) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
+[^c-091b5542f1edcfa9fae4444fa6f29e8a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/2) in force at 19.5.2023 by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/f) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
 
-[^key-68899ed7deab605e9fa8c816a7aae31d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/3) in force at 19.5.2023 by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(g)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/g) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
+[^c-68899ed7deab605e9fa8c816a7aae31d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/3) in force at 19.5.2023 by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(g)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/g) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/100/regulation/4))
 
-[^key-ed8a01e3cc34fb4d7211fc175baa0b48]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/4) in force at 11.2.2023 by [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2023/10/regulation/2/2/b)
+[^c-ed8a01e3cc34fb4d7211fc175baa0b48]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/4) in force at 11.2.2023 by [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2023/10/regulation/2/2/b)
 
-[^key-43b791d8294b7e2d8ae65bda53efac7f]: Textual amendment: Words in [sch. 2 para. 4(5)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/4/5) substituted (18.12.2019) by [The Planning (Scotland) Act 2019 (Ancillary Provision) Regulations 2019 (S.S.I. 2019/424)](https://www.legislation.gov.uk/ssi/2019/424), [regs. 1](https://www.legislation.gov.uk/ssi/2019/424/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/424/regulation/2/5)
+[^c-43b791d8294b7e2d8ae65bda53efac7f]: Textual amendment: Words in [sch. 2 para. 4(5)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/4/5) substituted (18.12.2019) by [The Planning (Scotland) Act 2019 (Ancillary Provision) Regulations 2019 (S.S.I. 2019/424)](https://www.legislation.gov.uk/ssi/2019/424), [regs. 1](https://www.legislation.gov.uk/ssi/2019/424/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/424/regulation/2/5)
 
-[^key-87b94bbd8acd8c9fd5720c7cc4e25e0d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/5) in force at 5.12.2024 by [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/d)
+[^c-87b94bbd8acd8c9fd5720c7cc4e25e0d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/5) in force at 5.12.2024 by [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/d)
 
-[^key-cb5a153056b7311286fdb85965dd9d40]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/6) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
+[^c-cb5a153056b7311286fdb85965dd9d40]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/6) in force at 1.10.2022 by [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
 
-[^key-b128c18728f096c8c1683d96db8d7fdc]: Commencement: Sch. 2 para. 9 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-b128c18728f096c8c1683d96db8d7fdc]: Commencement: Sch. 2 para. 9 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
 
-[^key-24df91d8265ae8a007c148fc7902ac4a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/9) in force at 1.12.2019 for specified purposes by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-24df91d8265ae8a007c148fc7902ac4a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/9) in force at 1.12.2019 for specified purposes by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
 
-[^key-64d99ad53457660381b90d9a5c4cae4b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/9) in force at 18.5.2020 for specified purposes by [S.S.I. 2020/67](https://www.legislation.gov.uk/ssi/2020/67), [reg. 2](https://www.legislation.gov.uk/ssi/2020/67/regulation/2)
+[^c-64d99ad53457660381b90d9a5c4cae4b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/9) in force at 18.5.2020 for specified purposes by [S.S.I. 2020/67](https://www.legislation.gov.uk/ssi/2020/67), [reg. 2](https://www.legislation.gov.uk/ssi/2020/67/regulation/2)
 
-[^key-65df272eb17b9de2316700727a73d6d2]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/9) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(f)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/f)[(6)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/6)
+[^c-65df272eb17b9de2316700727a73d6d2]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/9) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(f)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/f)[(6)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/6)

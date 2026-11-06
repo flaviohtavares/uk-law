@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amendment of regulation 72[^key-7d531e63db1ac1eafc92049a3cea5924]
+## 44. Amendment of regulation 72[^c-7d531e63db1ac1eafc92049a3cea5924]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 72, in paragraph (2)(c)(i), for “the commencement day” substit
 
 ## Annotations
 
-[^key-7d531e63db1ac1eafc92049a3cea5924]: Commencement: Reg. 44 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-7d531e63db1ac1eafc92049a3cea5924]: Commencement: Reg. 44 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

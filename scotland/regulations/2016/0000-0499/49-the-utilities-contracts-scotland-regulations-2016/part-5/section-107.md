@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Other orders[^key-ca18d08fb72a4ca3ae8077fccd63103b]
+## 107. Other orders[^c-ca18d08fb72a4ca3ae8077fccd63103b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca18d08fb72a4ca3ae8077fccd63103b]: Commencement: [Reg. 107](https://www.legislation.gov.uk/ssi/2016/49/regulation/107) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-ca18d08fb72a4ca3ae8077fccd63103b]: Commencement: [Reg. 107](https://www.legislation.gov.uk/ssi/2016/49/regulation/107) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

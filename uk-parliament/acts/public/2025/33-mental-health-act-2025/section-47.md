@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Tribunal powers in guardianship cases: burden of proof[^key-e041c5017c34ae5cf68d924725353696]
+## 47. Tribunal powers in guardianship cases: burden of proof[^c-e041c5017c34ae5cf68d924725353696]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 72(4) of the Mental Health Act 1983 (powers of tribunals in relation 
 
 ## Annotations
 
-[^key-e041c5017c34ae5cf68d924725353696]: Commencement: S. 47 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-e041c5017c34ae5cf68d924725353696]: Commencement: S. 47 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

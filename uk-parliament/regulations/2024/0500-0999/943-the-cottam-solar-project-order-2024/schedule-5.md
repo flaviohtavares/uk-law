@@ -22,7 +22,7 @@ summary: ''
 
 Article 9 and Article 10
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-8dc9a0ed44c1602fff102d12f7e8b077]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-8dc9a0ed44c1602fff102d12f7e8b077]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -85,7 +85,7 @@ Article 9 and Article 10
 | District of Bassetlaw | Nightleys Road, Rampton | Permanent alteration of layout between points 19c and 19d and shaded purple on sheet 19 of the streets plan |
 | District of Bassetlaw | Shortleys Road, Rampton | Permanent alteration of layout between points 19e and 19f and shaded purple on sheet 19 of the streets plan |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-ea297fb305290830d55b285e471d6d33]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-ea297fb305290830d55b285e471d6d33]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -131,6 +131,6 @@ Article 9 and Article 10
 
 ## Annotations
 
-[^key-8dc9a0ed44c1602fff102d12f7e8b077]: Commencement: Sch. 5 Pt. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-8dc9a0ed44c1602fff102d12f7e8b077]: Commencement: Sch. 5 Pt. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-ea297fb305290830d55b285e471d6d33]: Commencement: Sch. 5 Pt. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-ea297fb305290830d55b285e471d6d33]: Commencement: Sch. 5 Pt. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

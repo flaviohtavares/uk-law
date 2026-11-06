@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171ZV. Entitlement: adoption[^key-46094a9f522c6af0c405f8f1338e0429]
+## 171ZV. Entitlement: adoption[^c-46094a9f522c6af0c405f8f1338e0429]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,7 +128,7 @@ summary: ''
 
 (16) A person's entitlement to statutory shared parental pay under this section is not affected by the placement for adoption of more than one child as part of the same arrangement.
 
-(17)[^key-9086fdb50f40e329455f8427c5d5227e] Regulations are to provide for entitlement to statutory shared parental pay in respect of a child placed, or expected to be placed—
+(17)[^c-9086fdb50f40e329455f8427c5d5227e] Regulations are to provide for entitlement to statutory shared parental pay in respect of a child placed, or expected to be placed—
 
 - (a) under section 22C of the Children Act 1989 by a local authority in England, or
 - (b) under section 81 of the Social Services and Well-being (Wales) Act 2014 by a local authority in Wales,
@@ -142,6 +142,6 @@ with a local authority foster parent who has been approved as a prospective adop
 
 ## Annotations
 
-[^key-46094a9f522c6af0c405f8f1338e0429]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZC) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/119/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)
+[^c-46094a9f522c6af0c405f8f1338e0429]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZC) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/119/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)
 
-[^key-9086fdb50f40e329455f8427c5d5227e]: Textual amendment: [S. 171ZV(17)](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZV/17)[(18)](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZV/18) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [138](https://www.legislation.gov.uk/wsi/2016/413/regulation/138)
+[^c-9086fdb50f40e329455f8427c5d5227e]: Textual amendment: [S. 171ZV(17)](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZV/17)[(18)](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZV/18) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [138](https://www.legislation.gov.uk/wsi/2016/413/regulation/138)

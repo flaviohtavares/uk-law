@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Mergers involving newspaper enterprises and foreign powers[^key-0f9618468d7fcea984fad8f6fe4e641c]
+## 130. Mergers involving newspaper enterprises and foreign powers[^c-0f9618468d7fcea984fad8f6fe4e641c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f9618468d7fcea984fad8f6fe4e641c]: Commencement: S. 130 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)
+[^c-0f9618468d7fcea984fad8f6fe4e641c]: Commencement: S. 130 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)

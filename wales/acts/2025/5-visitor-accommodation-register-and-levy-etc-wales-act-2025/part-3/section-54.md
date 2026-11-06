@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Exercise by a principal council of its functions under this Part etc.‍[^key-f06a6160b337d2ac0c85d2a670653ee1]
+## 54. Exercise by a principal council of its functions under this Part etc.‍[^c-f06a6160b337d2ac0c85d2a670653ee1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f06a6160b337d2ac0c85d2a670653ee1]: Commencement: S. 54 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-f06a6160b337d2ac0c85d2a670653ee1]: Commencement: S. 54 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

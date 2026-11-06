@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Offence of failure to comply with confirmation decision: supplementary[^key-11f94b29e3472575eb347851210dd652][^key-e34b7212b900e5e81972efb10932b3c3][^key-c3dbb676fce02f026d2cb322e5408a22]
+## 200. Offence of failure to comply with confirmation decision: supplementary[^c-11f94b29e3472575eb347851210dd652][^c-e34b7212b900e5e81972efb10932b3c3][^c-c3dbb676fce02f026d2cb322e5408a22]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-11f94b29e3472575eb347851210dd652]: Commencement: S. 200 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-11f94b29e3472575eb347851210dd652]: Commencement: S. 200 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-e34b7212b900e5e81972efb10932b3c3]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/50/section/200) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
+[^c-e34b7212b900e5e81972efb10932b3c3]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/50/section/200) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
 
-[^key-c3dbb676fce02f026d2cb322e5408a22]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/50/section/200) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)
+[^c-c3dbb676fce02f026d2cb322e5408a22]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/50/section/200) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)

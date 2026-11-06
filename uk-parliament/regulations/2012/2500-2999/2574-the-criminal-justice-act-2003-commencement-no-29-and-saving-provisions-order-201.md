@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 330(4) and 336(3) and (4) of the Criminal Justice Act 2003[^f00001]:
 
-## 1. Citation, extent and interpretation[^key-f2e76691d4d482d67356f1af4ea4ff48]
+## 1. Citation, extent and interpretation[^c-f2e76691d4d482d67356f1af4ea4ff48]
 
 (1) This Order may be cited as the Criminal Justice Act 2003 (Commencement No. 29 and Saving Provisions) Order 2012.
 
@@ -45,7 +45,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) In this Order “the 1998 Act” means the Crime and Disorder Act 1998[^f00002].
 
-## 2. Provisions coming into force on 5th November 2012 in certain local justice areas and the Crown Court for certain purposes[^key-48ec532c7d408318894ab23a2cbbab6d]
+## 2. Provisions coming into force on 5th November 2012 in certain local justice areas and the Crown Court for certain purposes[^c-48ec532c7d408318894ab23a2cbbab6d]
 
 (1) The following provisions of the Criminal Justice Act 2003 come into force on 5th November 2012 in relation to the relevant local justice areas—
 
@@ -68,7 +68,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (4) In this article “the 1996 Act” means the Criminal Procedure and Investigations Act 1996[^f00006].
 
-## 3. Saving provisions[^key-69d383319ebc5dbe224f58a1ebff2d4e]
+## 3. Saving provisions[^c-69d383319ebc5dbe224f58a1ebff2d4e]
 
 (1) The amendments coming into force by virtue of article 2 are to have no effect in relation to an offence (“the relevant offence”) if condition 1 or 2 is satisfied in respect of that offence.
 
@@ -85,7 +85,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (a) a person (“A”) first appears in respect of an offence where A appears or is brought before a magistrates’ court for the first time in the proceedings in respect of the offence with which A is charged;
 - (b) a relevant offence is related to an indictable-only offence if, were a magistrates’ court to apply section 51 of the 1998 Act as it was in force immediately before 5th November 2012, that court would be required to send the person charged with the relevant offence to the Crown Court for trial for that offence, or could do so.
 
-## 4. Effect on coming into force of provisions in Schedule 3 to the Criminal Justice Act 2003 of combining certain local justice areas on 1st January 2013[^key-39fe4fadd5314c21652b1d06a932f845]
+## 4. Effect on coming into force of provisions in Schedule 3 to the Criminal Justice Act 2003 of combining certain local justice areas on 1st January 2013[^c-39fe4fadd5314c21652b1d06a932f845]
 
 (1) The amendments coming into force by virtue of article 2 are to have the same effect on or after 1st January 2013 as they had before that date in relation to the local justice areas of Halton and Warrington, notwithstanding those areas being combined to become the local justice area of North Cheshire[^f00007].
 
@@ -101,13 +101,13 @@ Ministry of Justice
 
 6th October 2012
 
-## SCHEDULE[^key-1b8f39a6fc83da4778262040a9bb19eb]
+## SCHEDULE[^c-1b8f39a6fc83da4778262040a9bb19eb]
 
 Article 2
 
 ### Relevant local justice areas
 
-[^key-1b8f39a6fc83da4778262040a9bb19eb]
+[^c-1b8f39a6fc83da4778262040a9bb19eb]
 
 - Birmingham
 - Bolton
@@ -124,7 +124,7 @@ Article 2
 - Fylde Coast
 - Gloucestershire
 - Halton
-- High Peak[^key-389f5a2bd0c5d46ca02d203a382494a7]
+- High Peak[^c-389f5a2bd0c5d46ca02d203a382494a7]
 - Lancaster
 - Macclesfield
 - Manchester and Salford
@@ -471,11 +471,11 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-f2e76691d4d482d67356f1af4ea4ff48]: Commencement: Art. 1 in force at made date
+[^c-f2e76691d4d482d67356f1af4ea4ff48]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-48ec532c7d408318894ab23a2cbbab6d]: Commencement: Art. 2 in force at made date
+[^c-48ec532c7d408318894ab23a2cbbab6d]: Commencement: Art. 2 in force at made date
 
 [^f00003]: Footnote: Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) was amended by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 59(5) and Schedule 11, paragraph 1(2), the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), section 378(2) and Schedule 17, and the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), sections 53 and 149 and Schedules 13 and 28. Provisions substituted or inserted by Schedule 3 to the Criminal Justice Act 2003 have also been amended: section 19 of the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43) is amended by the Armed Forces Act 2006, section 378(1) and Schedule 16, paragraph 88 and the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), section 177(1) and Schedule 21, paragraph 80; section 51A of the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37) is amended by the Violent Crime Reduction Act [2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), sections 49 and 65 and Schedule 1, paragraph 5 and Schedule 5; section 51B of the Crime and Disorder Act 1998 is amended by the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), section 50(6) and Schedule 4, paragraph 69; paragraph 9 of Schedule 3 to the Crime and Disorder Act 1998 is amended by the Armed Forces Act 2006, section 378(1) and Schedule 16, paragraph 155 and the Coroners and Justice Act 2009, section 177(1) and Schedule 21, paragraph 81.
 
@@ -485,9 +485,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00006]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 
-[^key-69d383319ebc5dbe224f58a1ebff2d4e]: Commencement: Art. 3 in force at made date
+[^c-69d383319ebc5dbe224f58a1ebff2d4e]: Commencement: Art. 3 in force at made date
 
-[^key-39fe4fadd5314c21652b1d06a932f845]: Commencement: Art. 4 in force at made date
+[^c-39fe4fadd5314c21652b1d06a932f845]: Commencement: Art. 4 in force at made date
 
 [^f00007]: Footnote: The Local Justice Areas Order 2012 ([S.I. 2012/1277](https://www.legislation.gov.uk/uksi/2012/1277)).
 
@@ -495,6 +495,6 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00009]: Footnote: The Local Justice Areas (No. 2) Order 2012 ([S.I. 2012/1555](https://www.legislation.gov.uk/uksi/2012/1555)).
 
-[^key-1b8f39a6fc83da4778262040a9bb19eb]: Commencement: Sch. in force at made date
+[^c-1b8f39a6fc83da4778262040a9bb19eb]: Commencement: Sch. in force at made date
 
-[^key-389f5a2bd0c5d46ca02d203a382494a7]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) inserted (4.11.2012) by [The Criminal Justice Act 2003 (Commencement No. 29 and Saving Provisions) (Amendment) Order 2012 (S.I. 2012/2761)](https://www.legislation.gov.uk/uksi/2012/2761), [art. 2](https://www.legislation.gov.uk/uksi/2012/2761/article/2)
+[^c-389f5a2bd0c5d46ca02d203a382494a7]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) inserted (4.11.2012) by [The Criminal Justice Act 2003 (Commencement No. 29 and Saving Provisions) (Amendment) Order 2012 (S.I. 2012/2761)](https://www.legislation.gov.uk/uksi/2012/2761), [art. 2](https://www.legislation.gov.uk/uksi/2012/2761/article/2)

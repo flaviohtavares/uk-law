@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60H. Trade: exception in relation to oil and oil products[^key-500a0b1bdb26b7dbd14dd01a1ed8ab05]
+## 60H. Trade: exception in relation to oil and oil products[^c-500a0b1bdb26b7dbd14dd01a1ed8ab05]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-500a0b1bdb26b7dbd14dd01a1ed8ab05]: Textual amendment: Regs. 60H, 60I inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2022/850/regulation/19)
+[^c-500a0b1bdb26b7dbd14dd01a1ed8ab05]: Textual amendment: Regs. 60H, 60I inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2022/850/regulation/19)

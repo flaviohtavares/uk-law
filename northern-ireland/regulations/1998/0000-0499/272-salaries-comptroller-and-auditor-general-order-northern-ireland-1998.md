@@ -30,7 +30,7 @@ summary: ''
 
 SALARIES
 
-Salaries (Comptroller and Auditor General) Order (Northern Ireland) 1998 (revoked)[^key-822c08b4211c881b333ee3f8348f4dfc]
+Salaries (Comptroller and Auditor General) Order (Northern Ireland) 1998 (revoked)[^c-822c08b4211c881b333ee3f8348f4dfc]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 11th September 1998
 
-[^key-822c08b4211c881b333ee3f8348f4dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-822c08b4211c881b333ee3f8348f4dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-822c08b4211c881b333ee3f8348f4dfc]
+## 1. Title and commencement[^c-822c08b4211c881b333ee3f8348f4dfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-822c08b4211c881b333ee3f8348f4dfc]
+## 2. Revocation[^c-822c08b4211c881b333ee3f8348f4dfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Salary[^key-822c08b4211c881b333ee3f8348f4dfc]
+## 3. Salary[^c-822c08b4211c881b333ee3f8348f4dfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-822c08b4211c881b333ee3f8348f4dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-822c08b4211c881b333ee3f8348f4dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-822c08b4211c881b333ee3f8348f4dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-822c08b4211c881b333ee3f8348f4dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-822c08b4211c881b333ee3f8348f4dfc]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/272) revoked (9.10.1999) by [Salaries (Comptroller and Auditor General) Order (Northern Ireland) 1999 (S.R. 1999/364)](https://www.legislation.gov.uk/nisr/1999/364), [arts. 1](https://www.legislation.gov.uk/nisr/1999/364/article/1), [2](https://www.legislation.gov.uk/nisr/1999/364/article/2)
+[^c-822c08b4211c881b333ee3f8348f4dfc]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/272) revoked (9.10.1999) by [Salaries (Comptroller and Auditor General) Order (Northern Ireland) 1999 (S.R. 1999/364)](https://www.legislation.gov.uk/nisr/1999/364), [arts. 1](https://www.legislation.gov.uk/nisr/1999/364/article/1), [2](https://www.legislation.gov.uk/nisr/1999/364/article/2)

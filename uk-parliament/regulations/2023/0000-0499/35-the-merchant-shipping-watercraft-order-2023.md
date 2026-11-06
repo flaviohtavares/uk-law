@@ -50,13 +50,13 @@ In accordance with section 112(7)(c) of that Act, the Secretary of State has con
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, extent and application[^key-2e79d048a8959174d7e5e0545457aeb7]
+### 1. Citation, commencement, extent and application[^c-2e79d048a8959174d7e5e0545457aeb7]
 
 (1) This Order may be cited as the Merchant Shipping (Watercraft) Order 2023 and comes into force on 31st March 2023.
 
 (2) This Order extends, and applies in relation, to the whole of the United Kingdom.
 
-### 2. Interpretation[^key-8d155c9d125ee9f88e58870f899d99f0]
+### 2. Interpretation[^c-8d155c9d125ee9f88e58870f899d99f0]
 
 (1) In this Order—
 
@@ -98,7 +98,7 @@ to the extent the enactment, part or provision is applied (and to the extent it 
   - (ii) but the definitions of “harbour” and “harbour authority” do not apply for the purposes of interpreting the applied shipping provisions mentioned in article 11(1);
 - (d) section 313A[^f00005] (meaning of “**qualifying foreign ship**”).
 
-### 3. Meaning of “watercraft”[^key-c0a5b79acf8ae6f29f6bd2ae420b5ea9]
+### 3. Meaning of “watercraft”[^c-c0a5b79acf8ae6f29f6bd2ae420b5ea9]
 
 (1) Subject to paragraph (2), “**watercraft**” means any type of craft which—
 
@@ -110,7 +110,7 @@ to the extent the enactment, part or provision is applied (and to the extent it 
 
 ## PART 2 — Registration of watercraft
 
-### 4. Registration of watercraft: application of the 1995 Act[^key-d333447e269d43e3f503762e354e420d]
+### 4. Registration of watercraft: application of the 1995 Act[^c-d333447e269d43e3f503762e354e420d]
 
 The following provisions of the 1995 Act apply in relation to watercraft as they apply in relation to ships—
 
@@ -127,15 +127,15 @@ The following provisions of the 1995 Act apply in relation to watercraft as they
 - (g) section 21 (disclosure of information relating to registration by other government departments);
 - (h) section 22(1) (forgery of documents: Scotland).
 
-### 5. Registration of watercraft: application of the Merchant Shipping (Registration of Ships) Regulations 1993[^key-ea503849823d3d18891165d0a6319fee]
+### 5. Registration of watercraft: application of the Merchant Shipping (Registration of Ships) Regulations 1993[^c-ea503849823d3d18891165d0a6319fee]
 
 Schedule 1 applies and, in some cases, modifies certain provisions of the Merchant Shipping (Registration of Ships) Regulations 1993 in relation to watercraft.
 
 ## PART 3 — Safety of watercraft
 
-### 6. Conduct endangering watercraft, ships, structures or individuals[^key-3212dea7baa151badf4b521d5d148188]
+### 6. Conduct endangering watercraft, ships, structures or individuals[^c-3212dea7baa151badf4b521d5d148188]
 
-Section 58 of the 1995 Act[^key-0ec4f0fd73ae08a2f1d9adefdf97a5f5] (conduct endangering ships, structures or individuals) applies in relation to watercraft as it applies in relation to ships, as if it read—
+Section 58 of the 1995 Act[^c-0ec4f0fd73ae08a2f1d9adefdf97a5f5] (conduct endangering ships, structures or individuals) applies in relation to watercraft as it applies in relation to ships, as if it read—
 
 > **58.** (1) This section applies in relation to a watercraft within United Kingdom waters.
 >
@@ -191,7 +191,7 @@ Section 58 of the 1995 Act[^key-0ec4f0fd73ae08a2f1d9adefdf97a5f5] (conduct endan
 
 .
 
-### 7. Power to detain dangerously unsafe watercraft[^key-79759e559f3e497f31f3995b425283c7]
+### 7. Power to detain dangerously unsafe watercraft[^c-79759e559f3e497f31f3995b425283c7]
 
 The following provisions of the 1995 Act apply in relation to watercraft as they apply in relation to ships—
 
@@ -203,7 +203,7 @@ The following provisions of the 1995 Act apply in relation to watercraft as they
 - (d) section 97 (compensation in connection with invalid detention of ship);
 - (e) section 284[^f00009] (enforcing detention of ship), as if each reference to a master of a ship includes a reference to an operator of a watercraft.
 
-### 8. Owner liable for unsafe operation of watercraft[^key-bfc93c09e240451261cb15623e1bd906]
+### 8. Owner liable for unsafe operation of watercraft[^c-bfc93c09e240451261cb15623e1bd906]
 
 Section 100[^f00010] (owner liable for unsafe operation of ship) of the 1995 Act applies in relation to watercraft as it applies in relation to ships, as if it read—
 
@@ -226,11 +226,11 @@ Section 100[^f00010] (owner liable for unsafe operation of ship) of the 1995 Act
 
 .
 
-### 9. Safety and health regulations[^key-66d97e9456f7777e2e6e2c6618d4df9a]
+### 9. Safety and health regulations[^c-66d97e9456f7777e2e6e2c6618d4df9a]
 
 Section 85[^f00011] (safety and health on ships) of the 1995 Act applies in relation to watercraft as it applies in relation to ships.
 
-### 10. Safety and health regulations: supplementary provision[^key-853f3fa32e01c70cbf45c59a730e57b9]
+### 10. Safety and health regulations: supplementary provision[^c-853f3fa32e01c70cbf45c59a730e57b9]
 
 (1) Section 86[^f00012] (provisions supplementary to section 85: general) of the 1995 Act applies in relation to watercraft safety regulations as it applies in relation to ship safety regulations.
 
@@ -239,7 +239,7 @@ Section 85[^f00011] (safety and health on ships) of the 1995 Act applies in rela
 - (a) “**ship safety regulations**” means regulations made in relation to ships under section 85 of the 1995 Act;
 - (b) “**watercraft safety regulations**” means regulations made in relation to watercraft under section 85 of the 1995 Act as applied by article 9.
 
-## Part 3A — Accident investigation: watercraft[^key-2c83402b70fadb968b8af70b4c86e652]
+## Part 3A — Accident investigation: watercraft[^c-2c83402b70fadb968b8af70b4c86e652]
 
 ### 10A. Accident investigation
 
@@ -250,7 +250,7 @@ The following provisions of the 1995 Act apply in relation to watercraft as they
 
 ## PART 4 — Harbour directions in relation to watercraft
 
-### 11. Application of the Harbours Act 1964[^key-601b3b55519358614cf04b98ca8e19bc]
+### 11. Application of the Harbours Act 1964[^c-601b3b55519358614cf04b98ca8e19bc]
 
 (1) The following provisions of the Harbours Act 1964[^f00013] apply in relation to watercraft as they apply in relation to ships—
 
@@ -263,21 +263,21 @@ The following provisions of the 1995 Act apply in relation to watercraft as they
 
 ## PART 5 — Miscellaneous provisions
 
-### 12. Appointment and powers of surveyors in relation to watercraft[^key-25e02db0bc3a28056c00561a733f9fea]
+### 12. Appointment and powers of surveyors in relation to watercraft[^c-25e02db0bc3a28056c00561a733f9fea]
 
 The following provisions of the 1995 Act apply in relation to watercraft as they apply in relation to ships—
 
 - (a) section 256 (appointment of inspectors and surveyors), as if subsections (6) to (8) were omitted;
 - (b) section 258[^f00015] (powers to inspect ships and their equipment, etc.), as if subsection (2) were omitted.
 
-### 13. Powers to make subordinate legislation under the 1995 Act[^key-ad4ec9e897542893ac64f54e8a623387]
+### 13. Powers to make subordinate legislation under the 1995 Act[^c-ad4ec9e897542893ac64f54e8a623387]
 
 The following provisions of the 1995 Act apply for the purposes of any power to make subordinate legislation in relation to watercraft conferred by an applied shipping provision as they apply for the purposes of any power to make subordinate legislation in relation to ships conferred by the 1995 Act—
 
 - (a) section 306(1) and (2)[^f00016] (regulations, rules and orders, etc.);
 - (b) section 306A[^f00017] (power to make ambulatory references to international instruments).
 
-### 14. Application of other shipping provisions in relation to watercraft[^key-4b3adea60ec6d18403484e10ddc9fdde]
+### 14. Application of other shipping provisions in relation to watercraft[^c-4b3adea60ec6d18403484e10ddc9fdde]
 
 Schedule 2 applies and, in some cases, modifies certain shipping provisions in relation to watercraft.
 
@@ -295,11 +295,11 @@ Department for Transport
 
 Article 5
 
-### 1. Registration of watercraft: application of the Merchant Shipping (Registration of Ships) Regulations 1993[^key-ae348a8110fc7c96ada6456b0329e1e4]
+### 1. Registration of watercraft: application of the Merchant Shipping (Registration of Ships) Regulations 1993[^c-ae348a8110fc7c96ada6456b0329e1e4]
 
 (1) The following provisions of the Merchant Shipping (Registration of Ships) Regulations 1993[^f00018] apply in relation to watercraft as they apply in relation to ships.
 
-(2) Regulation 2 (the Register), as if in the introductory words of paragraph (1), for “section 1(1) and (2) of the Act[^key-f91e8c85a35f602bd52ff5857830c5ee]” there were substituted “section 8(1), (1A) and (2) of the Merchant Shipping Act 1995[^key-1a972ec45244736f7ab5f2214cde8416]”.
+(2) Regulation 2 (the Register), as if in the introductory words of paragraph (1), for “section 1(1) and (2) of the Act[^c-f91e8c85a35f602bd52ff5857830c5ee]” there were substituted “section 8(1), (1A) and (2) of the Merchant Shipping Act 1995[^c-1a972ec45244736f7ab5f2214cde8416]”.
 
 (3) Regulation 5 (registration on only one Part of the Register).
 
@@ -317,7 +317,7 @@ Article 5
 
 (10) Regulation 90 (British connection).
 
-(11)[^key-13e51e6aba841a5973c0f92feee9e896] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-13e51e6aba841a5973c0f92feee9e896] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) Regulation 92 (applications), as if paragraphs (c) and (ca) were omitted.
 
@@ -379,14 +379,14 @@ Article 5
 
 (32) Regulation 114 (offences), as if the words “or master” in paragraph (2) were omitted.
 
-### 2. Interpretation of the Merchant Shipping (Registration of Ships) Regulations 1993[^key-7ded8748c70a31c8f51ca7c9a70d83de][^key-bc5b2c759efb45f653fcf03371210f15]
+### 2. Interpretation of the Merchant Shipping (Registration of Ships) Regulations 1993[^c-7ded8748c70a31c8f51ca7c9a70d83de][^c-bc5b2c759efb45f653fcf03371210f15]
 
 For the purposes of interpreting the applied shipping provisions mentioned in paragraph 1—
 
 - (a) each reference to a ship in regulations 5, 6, 88, 92, 93(2), 95, 96, 98 to 100, 106, 108, 109, 110, 111, 113 and 114 is to be read as including a reference to a watercraft;
 - (b) the definitions of terms contained in regulation 1(2) of the Merchant Shipping (Registration of Ships) Regulations 1993 apply as if—
   - (i) in the definition of “certificate of registry” the reference to a ship includes a reference to a watercraft;
-  - (ii) in the definition of “fishing vessel” for “vessel within the meaning of paragraph 2(1)(c) of Schedule 4 to the Act[^key-4b5e98bd7645b1b7cda6cb5cfa4b698d]” there were substituted “fishing vessel as defined in section 313(1) of the Merchant Shipping Act 1995[^key-b1e133f5459d6624de6635f17a5fb558]”;
+  - (ii) in the definition of “fishing vessel” for “vessel within the meaning of paragraph 2(1)(c) of Schedule 4 to the Act[^c-4b5e98bd7645b1b7cda6cb5cfa4b698d]” there were substituted “fishing vessel as defined in section 313(1) of the Merchant Shipping Act 1995[^c-b1e133f5459d6624de6635f17a5fb558]”;
   - (iii) in the definition of “owner” at the end there were inserted “and in relation to watercraft means a person able to satisfy the Registrar that they are the owner”;
   - (iv) for the definition of “small ship” there were substituted—
 
@@ -402,7 +402,7 @@ For the purposes of interpreting the applied shipping provisions mentioned in pa
 
 Article 14
 
-### 1. Application of the Merchant Shipping (Distress Signals and Prevention of Collisions) Regulations 1996[^key-3121e0920d441e53d33c6ba7de271ecd]
+### 1. Application of the Merchant Shipping (Distress Signals and Prevention of Collisions) Regulations 1996[^c-3121e0920d441e53d33c6ba7de271ecd]
 
 The Merchant Shipping (Distress Signals and Prevention of Collisions) Regulations 1996[^f00019] apply in relation to watercraft as they apply in relation to ships, as if—
 
@@ -412,7 +412,7 @@ The Merchant Shipping (Distress Signals and Prevention of Collisions) Regulation
 - (b) the references in regulation 5 (exemptions) to any ship or description of ships includes a reference to any watercraft or description of watercraft;
 - (c) any reference to a master includes a reference to any person for the time being using a watercraft.
 
-### 2. Application of the Merchant Shipping (EPIRB and PLB Registration) (Radiocommunications) (Amendment) Regulations 2026[^key-3a724b75c90a18e675b0139a6be933d7]
+### 2. Application of the Merchant Shipping (EPIRB and PLB Registration) (Radiocommunications) (Amendment) Regulations 2026[^c-3a724b75c90a18e675b0139a6be933d7]
 
 (1) The following provisions of the Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 apply in relation to watercraft as they apply in relation to ships.
 
@@ -449,7 +449,7 @@ The Merchant Shipping (Distress Signals and Prevention of Collisions) Regulation
 - (a) in paragraphs (2) and (4), the reference to a ship was a reference to a watercraft;
 - (b) in paragraph (4), the reference to the master of the ship was a reference to the owner of the watercraft.
 
-### 3. Application of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025[^key-73d49482d7e2ea27d6fb83240bc9a520]
+### 3. Application of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025[^c-73d49482d7e2ea27d6fb83240bc9a520]
 
 (1) The following provisions of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 apply in relation to watercraft as they apply in relation to ships.
 
@@ -473,7 +473,7 @@ The Merchant Shipping (Distress Signals and Prevention of Collisions) Regulation
 - (a) a reference to a vessel was a reference to a watercraft; and
 - (b) a reference to the master was a reference to the owner or operator of the watercraft.
 
-### 4. Application of the Merchant Shipping (Accident Reporting and Investigation) Regulations 2026[^key-2db1a2cde61c38d035949f86d7a8f6b9]
+### 4. Application of the Merchant Shipping (Accident Reporting and Investigation) Regulations 2026[^c-2db1a2cde61c38d035949f86d7a8f6b9]
 
 The Merchant Shipping (Accident Reporting and Investigation) Regulations 2026 apply in relation to watercraft as they apply in relation to ships, and as if, in the following provisions, any reference to a master includes a reference to any person for the time being using a watercraft—
 
@@ -505,9 +505,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2003 c. 20](https://www.legislation.gov.uk/ukpga/2003/20).
 
-[^key-2e79d048a8959174d7e5e0545457aeb7]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/35/article/1) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-2e79d048a8959174d7e5e0545457aeb7]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/35/article/1) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
-[^key-8d155c9d125ee9f88e58870f899d99f0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/35/article/2) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-8d155c9d125ee9f88e58870f899d99f0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/35/article/2) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00002]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -517,17 +517,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: Section 313A was inserted by paragraph 20 of Schedule 6 to the Merchant Shipping and Maritime Security Act 1997, and it was amended by section 2(3) of the British Overseas Territories Act (c. 8).
 
-[^key-c0a5b79acf8ae6f29f6bd2ae420b5ea9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/35/article/3) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-c0a5b79acf8ae6f29f6bd2ae420b5ea9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/35/article/3) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
-[^key-d333447e269d43e3f503762e354e420d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2023/35/article/4) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-d333447e269d43e3f503762e354e420d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2023/35/article/4) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
-[^key-ea503849823d3d18891165d0a6319fee]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2023/35/article/5) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-ea503849823d3d18891165d0a6319fee]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2023/35/article/5) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
-[^key-3212dea7baa151badf4b521d5d148188]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2023/35/article/6) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-3212dea7baa151badf4b521d5d148188]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2023/35/article/6) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
-[^key-0ec4f0fd73ae08a2f1d9adefdf97a5f5]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2023/35/article/6) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/348/article/3)
+[^c-0ec4f0fd73ae08a2f1d9adefdf97a5f5]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2023/35/article/6) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/348/article/3)
 
-[^key-79759e559f3e497f31f3995b425283c7]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2023/35/article/7) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-79759e559f3e497f31f3995b425283c7]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2023/35/article/7) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00006]: Footnote: Section 94 was amended by paragraph 1 of Schedule 1 to the Merchant Shipping and Maritime Security Act 1997.
 
@@ -537,62 +537,62 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00009]: Footnote: Section 284 was amended by paragraph 5 of Schedule 1 to the Merchant Shipping and Maritime Security Act 1997 and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
-[^key-bfc93c09e240451261cb15623e1bd906]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2023/35/article/8) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-bfc93c09e240451261cb15623e1bd906]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2023/35/article/8) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00010]: Footnote: Section 100(3) was amended by paragraph 27(6) of Schedule 4 to [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
-[^key-66d97e9456f7777e2e6e2c6618d4df9a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2023/35/article/9) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-66d97e9456f7777e2e6e2c6618d4df9a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2023/35/article/9) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00011]: Footnote: Section 85 was amended by section 8(2), (3), (4) and (5) of the Merchant Shipping and Maritime Security Act 1997; section 2(3) of the British Overseas Territories Act 2002; and section 5(4) of the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28).
 
-[^key-853f3fa32e01c70cbf45c59a730e57b9]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2023/35/article/10) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-853f3fa32e01c70cbf45c59a730e57b9]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2023/35/article/10) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00012]: Footnote: Section 86 was amended by section 8(6) of the Merchant Shipping and Maritime Security Act 1997.
 
-[^key-2c83402b70fadb968b8af70b4c86e652]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2023/35/part/3A) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [4](https://www.legislation.gov.uk/uksi/2026/348/article/4)
+[^c-2c83402b70fadb968b8af70b4c86e652]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2023/35/part/3A) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [4](https://www.legislation.gov.uk/uksi/2026/348/article/4)
 
-[^key-601b3b55519358614cf04b98ca8e19bc]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2023/35/article/11) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-601b3b55519358614cf04b98ca8e19bc]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2023/35/article/11) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00013]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40). Sections 40A to 40D were inserted by section 5(1) of the Marine Navigation Act [2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23). Amendments to section 40A(4)(a) were made in relation to Wales by section 30(4) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
 [^f00014]: Footnote: The definition of “harbour” was amended by the Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65) and paragraph 33(a) of Schedule 13 to the 1995 Act.
 
-[^key-25e02db0bc3a28056c00561a733f9fea]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2023/35/article/12) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-25e02db0bc3a28056c00561a733f9fea]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2023/35/article/12) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00015]: Footnote: Section 258 was amended by paragraph 4(2), (3) and (4) of Schedule 1 to the Merchant Shipping and Maritime Security Act 1997 and paragraph 2(1) of Schedule 10 to the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-ad4ec9e897542893ac64f54e8a623387]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2023/35/article/13) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-ad4ec9e897542893ac64f54e8a623387]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2023/35/article/13) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00016]: Footnote: Section 306 was amended by paragraph 18(2), (3) and (5) of Schedule 6 to the Merchant Shipping and Maritime and Security Act 1997; section 1(3) of the Wreck Removal Convention Act [2011 (c. 8)](https://www.legislation.gov.uk/ukpga/2011/8); and regulation 3(1)(c) of [S.I. 1998/2241](https://www.legislation.gov.uk/uksi/1998/2241).
 
 [^f00017]: Footnote: Section 306A was inserted by section 106 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-4b3adea60ec6d18403484e10ddc9fdde]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2023/35/article/14) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-4b3adea60ec6d18403484e10ddc9fdde]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2023/35/article/14) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
-[^key-ae348a8110fc7c96ada6456b0329e1e4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-ae348a8110fc7c96ada6456b0329e1e4]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00018]: Footnote: [S.I. 1993/3138](https://www.legislation.gov.uk/uksi/1993/3138), amended by [S.I. 1994/541](https://www.legislation.gov.uk/uksi/1994/541), [1994/1328](https://www.legislation.gov.uk/uksi/1994/1328), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [1998/1915](https://www.legislation.gov.uk/uksi/1998/1915) and [2976](https://www.legislation.gov.uk/uksi/1998/2976), [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2012/1809](https://www.legislation.gov.uk/uksi/2012/1809), [2017/879](https://www.legislation.gov.uk/uksi/2017/879), [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221) and [1299](https://www.legislation.gov.uk/uksi/2018/1299), [2019/509](https://www.legislation.gov.uk/uksi/2019/509) and [746](https://www.legislation.gov.uk/uksi/2019/746), and [2022/203](https://www.legislation.gov.uk/uksi/2022/203), [241](https://www.legislation.gov.uk/uksi/2022/241) and [748](https://www.legislation.gov.uk/uksi/2022/748).
 
-[^key-f91e8c85a35f602bd52ff5857830c5ee]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1/2) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2026/348/article/5/a/i)
+[^c-f91e8c85a35f602bd52ff5857830c5ee]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1/2) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2026/348/article/5/a/i)
 
-[^key-1a972ec45244736f7ab5f2214cde8416]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1/2) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2026/348/article/5/a/ii)
+[^c-1a972ec45244736f7ab5f2214cde8416]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1/2) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2026/348/article/5/a/ii)
 
-[^key-13e51e6aba841a5973c0f92feee9e896]: Textual amendment: [Sch. 1 para. 1(11)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1/11) omitted (17.4.2026) by virtue of [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2026/348/article/5/b)
+[^c-13e51e6aba841a5973c0f92feee9e896]: Textual amendment: [Sch. 1 para. 1(11)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1/11) omitted (17.4.2026) by virtue of [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2026/348/article/5/b)
 
-[^key-7ded8748c70a31c8f51ca7c9a70d83de]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-7ded8748c70a31c8f51ca7c9a70d83de]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
-[^key-bc5b2c759efb45f653fcf03371210f15]: Textual amendment: Sch. 1 para. 2(1) renumbered as Sch. 1 para. 2 (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2026/348/article/5/c)
+[^c-bc5b2c759efb45f653fcf03371210f15]: Textual amendment: Sch. 1 para. 2(1) renumbered as Sch. 1 para. 2 (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2026/348/article/5/c)
 
-[^key-4b5e98bd7645b1b7cda6cb5cfa4b698d]: Textual amendment: Words in [Sch. 1 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2/b/ii) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(d)(i)](https://www.legislation.gov.uk/uksi/2026/348/article/5/d/i)
+[^c-4b5e98bd7645b1b7cda6cb5cfa4b698d]: Textual amendment: Words in [Sch. 1 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2/b/ii) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(d)(i)](https://www.legislation.gov.uk/uksi/2026/348/article/5/d/i)
 
-[^key-b1e133f5459d6624de6635f17a5fb558]: Textual amendment: Words in [Sch. 1 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2/b/ii) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(d)(ii)](https://www.legislation.gov.uk/uksi/2026/348/article/5/d/ii)
+[^c-b1e133f5459d6624de6635f17a5fb558]: Textual amendment: Words in [Sch. 1 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2/b/ii) inserted (17.4.2026) by [The Merchant Shipping (Watercraft) (Amendment) Order 2026 (S.I. 2026/348)](https://www.legislation.gov.uk/uksi/2026/348), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/348/article/1/1), [5(d)(ii)](https://www.legislation.gov.uk/uksi/2026/348/article/5/d/ii)
 
-[^key-3121e0920d441e53d33c6ba7de271ecd]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/1) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
+[^c-3121e0920d441e53d33c6ba7de271ecd]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/1) in force at 31.3.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1)
 
 [^f00019]: Footnote: [S.I. 1996/75](https://www.legislation.gov.uk/uksi/1996/75), as amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302) and [2015/664](https://www.legislation.gov.uk/uksi/2015/664)
 
-[^key-3a724b75c90a18e675b0139a6be933d7]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/2) substituted (15.4.2026) by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/2/paragraph/1)
+[^c-3a724b75c90a18e675b0139a6be933d7]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/2) substituted (15.4.2026) by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/2/paragraph/1)
 
-[^key-73d49482d7e2ea27d6fb83240bc9a520]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) inserted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-73d49482d7e2ea27d6fb83240bc9a520]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/3) inserted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/23) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-2db1a2cde61c38d035949f86d7a8f6b9]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/4) substituted (15.5.2026) by [The Merchant Shipping (Accident Reporting and Investigation) Regulations 2026 (S.I. 2026/430)](https://www.legislation.gov.uk/uksi/2026/430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/430/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2026/430/regulation/25/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/430/regulation/4))
+[^c-2db1a2cde61c38d035949f86d7a8f6b9]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2023/35/schedule/2/paragraph/4) substituted (15.5.2026) by [The Merchant Shipping (Accident Reporting and Investigation) Regulations 2026 (S.I. 2026/430)](https://www.legislation.gov.uk/uksi/2026/430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/430/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2026/430/regulation/25/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/430/regulation/4))

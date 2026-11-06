@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Powers of authorised persons to perform custodial duties and search prisoners[^key-6915d0334514624448a702881b70dd67]
+## 18. Powers of authorised persons to perform custodial duties and search prisoners[^c-6915d0334514624448a702881b70dd67]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6915d0334514624448a702881b70dd67]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2007/21/section/18) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/c)
+[^c-6915d0334514624448a702881b70dd67]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2007/21/section/18) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/c)

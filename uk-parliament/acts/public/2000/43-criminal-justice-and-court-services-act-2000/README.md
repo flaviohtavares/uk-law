@@ -100,7 +100,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 25 — Interpretation of Part I.](part-i/section-25.md)
 
-### Part II — Protection of Children[^key-9317296e39820b4000f28a3e9870b5dd]
+### Part II — Protection of Children[^c-9317296e39820b4000f28a3e9870b5dd]
 
 #### Disqualification orders
 
@@ -276,4 +276,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-9317296e39820b4000f28a3e9870b5dd]: Modification: Pt. II applied (E.W.) (11.2.2008 for specified purposes, 20.1.2009 in so far as not already in force) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 3 para. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2006/47/schedule/3/paragraph/3/5/a) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/a); [S.I. 2009/39](https://www.legislation.gov.uk/uksi/2009/39), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2009/39/article/2/1/k)
+[^c-9317296e39820b4000f28a3e9870b5dd]: Modification: Pt. II applied (E.W.) (11.2.2008 for specified purposes, 20.1.2009 in so far as not already in force) by [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), [s. 65](https://www.legislation.gov.uk/ukpga/2006/47/section/65), [Sch. 3 para. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2006/47/schedule/3/paragraph/3/5/a) (with [ss. 51](https://www.legislation.gov.uk/ukpga/2006/47/section/51), [57(3)](https://www.legislation.gov.uk/ukpga/2006/47/section/57/3), [60(4)](https://www.legislation.gov.uk/ukpga/2006/47/section/60/4), [64(5)](https://www.legislation.gov.uk/ukpga/2006/47/section/64/5)); [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/a); [S.I. 2009/39](https://www.legislation.gov.uk/uksi/2009/39), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2009/39/article/2/1/k)

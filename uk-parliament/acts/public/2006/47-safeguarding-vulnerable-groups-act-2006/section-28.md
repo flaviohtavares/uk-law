@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Independent monitor[^key-c1c5dae7c67a49df1b177fdb5686a089][^key-80b4fb904ee14c5f2fce193b3d774c71][^key-7f6b8eeb5ef45172d8074627c19e6b2e][^key-500e9e08d2cd802ee00c2b8837dd880b]
+## 28. Independent monitor[^c-c1c5dae7c67a49df1b177fdb5686a089][^c-80b4fb904ee14c5f2fce193b3d774c71][^c-7f6b8eeb5ef45172d8074627c19e6b2e][^c-500e9e08d2cd802ee00c2b8837dd880b]
 
 *Extent: E+W+N.I.*
 
@@ -56,10 +56,10 @@ After section 119A of the Police Act 1997 (c. 50) (further sources of informatio
 
 ## Annotations
 
-[^key-c1c5dae7c67a49df1b177fdb5686a089]: Commencement: S. 28 in force at 20.1.2009 by [S.I. 2009/39](https://www.legislation.gov.uk/uksi/2009/39), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/39/article/2/1/c)
+[^c-c1c5dae7c67a49df1b177fdb5686a089]: Commencement: S. 28 in force at 20.1.2009 by [S.I. 2009/39](https://www.legislation.gov.uk/uksi/2009/39), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/39/article/2/1/c)
 
-[^key-80b4fb904ee14c5f2fce193b3d774c71]: Modification: S. 28 extended (Guernsey) (with modifications) (10.12.2009) by [Police Act 1997 (Criminal Records) (Guernsey) Order 2009 (S.I. 2009/3215)](https://www.legislation.gov.uk/uksi/2009/3215), art. [4](https://www.legislation.gov.uk/uksi/2009/3215/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3215/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/3215/schedule/3) (with [arts. 6-8](https://www.legislation.gov.uk/uksi/2009/3215/article/6))
+[^c-80b4fb904ee14c5f2fce193b3d774c71]: Modification: S. 28 extended (Guernsey) (with modifications) (10.12.2009) by [Police Act 1997 (Criminal Records) (Guernsey) Order 2009 (S.I. 2009/3215)](https://www.legislation.gov.uk/uksi/2009/3215), art. [4](https://www.legislation.gov.uk/uksi/2009/3215/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3215/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/3215/schedule/3) (with [arts. 6-8](https://www.legislation.gov.uk/uksi/2009/3215/article/6))
 
-[^key-7f6b8eeb5ef45172d8074627c19e6b2e]: Modification: S. 28 extended (Jersey) (with modifications) (18.3.2010) by [The Police Act 1997 (Criminal Records) (Jersey) Order 2010 (S.I. 2010/765)](https://www.legislation.gov.uk/uksi/2010/765), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/765/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/765/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/765/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/765/schedule/3) (with [arts. 6-8](https://www.legislation.gov.uk/uksi/2010/765/article/6))
+[^c-7f6b8eeb5ef45172d8074627c19e6b2e]: Modification: S. 28 extended (Jersey) (with modifications) (18.3.2010) by [The Police Act 1997 (Criminal Records) (Jersey) Order 2010 (S.I. 2010/765)](https://www.legislation.gov.uk/uksi/2010/765), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/765/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/765/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/765/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/765/schedule/3) (with [arts. 6-8](https://www.legislation.gov.uk/uksi/2010/765/article/6))
 
-[^key-500e9e08d2cd802ee00c2b8837dd880b]: Modification: S. 28 extended (Isle of Man) (with modifications) (18.3.2010) by [The Police Act 1997 (Criminal Records) (Isle of Man) Order 2010 (S.I. 2010/764)](https://www.legislation.gov.uk/uksi/2010/764), arts. 1(2), [4](https://www.legislation.gov.uk/uksi/2010/764/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/764/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/764/schedule/3) (with [arts. 6-8](https://www.legislation.gov.uk/uksi/2010/764/article/6))
+[^c-500e9e08d2cd802ee00c2b8837dd880b]: Modification: S. 28 extended (Isle of Man) (with modifications) (18.3.2010) by [The Police Act 1997 (Criminal Records) (Isle of Man) Order 2010 (S.I. 2010/764)](https://www.legislation.gov.uk/uksi/2010/764), arts. 1(2), [4](https://www.legislation.gov.uk/uksi/2010/764/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/764/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/764/schedule/3) (with [arts. 6-8](https://www.legislation.gov.uk/uksi/2010/764/article/6))

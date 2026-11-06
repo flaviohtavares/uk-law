@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Prohibition on disclosure of HSSIB material[^key-e1b5b66f7d1a5f509611e3f3590a2050][^key-393910877b1522bc3c5f90fa46656596]
+## 122. Prohibition on disclosure of HSSIB material[^c-e1b5b66f7d1a5f509611e3f3590a2050][^c-393910877b1522bc3c5f90fa46656596]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1b5b66f7d1a5f509611e3f3590a2050]: Commencement: S. 122 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-e1b5b66f7d1a5f509611e3f3590a2050]: Commencement: S. 122 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-393910877b1522bc3c5f90fa46656596]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2022/31/section/122) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-393910877b1522bc3c5f90fa46656596]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2022/31/section/122) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

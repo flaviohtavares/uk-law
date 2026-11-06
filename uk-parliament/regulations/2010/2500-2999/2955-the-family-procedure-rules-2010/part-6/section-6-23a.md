@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6.23A. Service on a person where there are reasonable grounds to believe that person is residing in a refuge[^key-a997fc68bb4185cf9c583c8d65762e4a]
+## 6.23A. Service on a person where there are reasonable grounds to believe that person is residing in a refuge[^c-a997fc68bb4185cf9c583c8d65762e4a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a997fc68bb4185cf9c583c8d65762e4a]: Textual amendment: [Rule 6.23A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.23A) inserted (13.1.2025) by [The Family Procedure (Amendment) Rules 2024 (S.I. 2024/1016)](https://www.legislation.gov.uk/uksi/2024/1016), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1016/rule/1/3/b), [3(2)](https://www.legislation.gov.uk/uksi/2024/1016/rule/3/2)
+[^c-a997fc68bb4185cf9c583c8d65762e4a]: Textual amendment: [Rule 6.23A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.23A) inserted (13.1.2025) by [The Family Procedure (Amendment) Rules 2024 (S.I. 2024/1016)](https://www.legislation.gov.uk/uksi/2024/1016), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1016/rule/1/3/b), [3(2)](https://www.legislation.gov.uk/uksi/2024/1016/rule/3/2)

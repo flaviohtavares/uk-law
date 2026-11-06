@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England
 
-The Housing (Approval of a Code of Management Practice) (Student Accommodation) (England) Order 2008 (revoked)[^key-d1c03e47acc5c6f79c97b58b897b49de]
+The Housing (Approval of a Code of Management Practice) (Student Accommodation) (England) Order 2008 (revoked)[^c-d1c03e47acc5c6f79c97b58b897b49de]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st October 2008
 
-[^key-d1c03e47acc5c6f79c97b58b897b49de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1c03e47acc5c6f79c97b58b897b49de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-d1c03e47acc5c6f79c97b58b897b49de]
+## 1. Citation, commencement and application[^c-d1c03e47acc5c6f79c97b58b897b49de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval of code of practice[^key-d1c03e47acc5c6f79c97b58b897b49de]
+## 2. Approval of code of practice[^c-d1c03e47acc5c6f79c97b58b897b49de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Withdrawal of approval of code of practice[^key-d1c03e47acc5c6f79c97b58b897b49de]
+## 3. Withdrawal of approval of code of practice[^c-d1c03e47acc5c6f79c97b58b897b49de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1c03e47acc5c6f79c97b58b897b49de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1c03e47acc5c6f79c97b58b897b49de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1c03e47acc5c6f79c97b58b897b49de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1c03e47acc5c6f79c97b58b897b49de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1c03e47acc5c6f79c97b58b897b49de]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/2345) revoked (25.11.2010) by [The Housing (Codes of Management Practice) (Student Accommodation) (England) Order 2010 (revoked) 2010 (S.I. 2010/2615)](https://www.legislation.gov.uk/uksi/2010/2615), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2615/article/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2010/2615/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/2615/article/4/2))
+[^c-d1c03e47acc5c6f79c97b58b897b49de]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/2345) revoked (25.11.2010) by [The Housing (Codes of Management Practice) (Student Accommodation) (England) Order 2010 (revoked) 2010 (S.I. 2010/2615)](https://www.legislation.gov.uk/uksi/2010/2615), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2615/article/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2010/2615/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2010/2615/article/4/2))

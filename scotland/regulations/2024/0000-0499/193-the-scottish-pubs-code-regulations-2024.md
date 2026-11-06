@@ -46,7 +46,7 @@ In accordance with section 24(2) of that Act, a draft of this instrument has bee
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-3be7c021b831d70ef03fc84bde74f7dc]
+### 1. Citation and commencement[^c-3be7c021b831d70ef03fc84bde74f7dc]
 
 (1) These Regulations may be cited as the Scottish Pubs Code Regulations 2024.
 
@@ -62,7 +62,7 @@ In accordance with section 24(2) of that Act, a draft of this instrument has bee
 - (a) Part 3 (rent assessment and rent review),
 - (b) Part 4 (market rent only leases).
 
-### 2. Interpretation[^key-7c0b5c5cb5c8644c6ab281cd076991dd]
+### 2. Interpretation[^c-7c0b5c5cb5c8644c6ab281cd076991dd]
 
 (1) In these Regulations—
 
@@ -92,7 +92,7 @@ In accordance with section 24(2) of that Act, a draft of this instrument has bee
 - “**production year**” means a calendar year from 1 February to 31 January,
 - “**prospective tenant**” includes an existing tenant seeking to renew the lease of a tied pub,
 - “**request date**” means the date on which a tied-pub tenant requests in writing a guest beer agreement from the pub-owning business,
-- “[^key-31f4af17a9cfd76321bcfa157e29a367]**Schedule of Condition**” means a document which accurately records the condition of the tied pub to be let,
+- “[^c-31f4af17a9cfd76321bcfa157e29a367]**Schedule of Condition**” means a document which accurately records the condition of the tied pub to be let,
 - “**service equipment charge**” means a reasonable charge by the pub-owning business for the cost of servicing or maintaining equipment used to sell guest beer, taking into account the proportion of use of the equipment for guest beer compared to use for other products,
 - “**service tie**” means a contractual obligation which requires that the tenant of a pub receives a service, other than insurance, from—
   - (a) the landlord of the pub, or
@@ -108,22 +108,22 @@ In accordance with section 24(2) of that Act, a draft of this instrument has bee
 - (a) to a pub-owning business include a person who has been a pub-owning business,
 - (b) to a tied-pub tenant include a person who has been a tenant under the lease of a tied pub.
 
-### 3. Tied-pub tenant not to suffer detriment[^key-34d9d3f0549e62fad097c92a3d0c9dd8]
+### 3. Tied-pub tenant not to suffer detriment[^c-34d9d3f0549e62fad097c92a3d0c9dd8]
 
 A pub-owning business must not subject a tied-pub tenant to any detriment as a consequence of the tenant exercising, or attempting to exercise, any right under this code.
 
-### 4. Disputes[^key-5e7544cd3d3f607e2f9f3bf95a5e28c7]
+### 4. Disputes[^c-5e7544cd3d3f607e2f9f3bf95a5e28c7]
 
 Before submitting a dispute to the adjudicator for arbitration either under section 15 of the Act or in accordance with an agreement between the parties to the dispute, a pub-owning business must take reasonable steps to resolve such disputes informally with tied-pub tenants.
 
-### 5. Terms of the code excluded from arbitration[^key-0590aa7cf2288e91f98742bc64dece36]
+### 5. Terms of the code excluded from arbitration[^c-0590aa7cf2288e91f98742bc64dece36]
 
 The following provisions of this code cannot be the subject of arbitration before the adjudicator—
 
 - (a) regulation 6 (requirement to provide information to the adjudicator), and
 - (b) regulation 7 (requirement to comply with adjudicator’s direction following an investigation).
 
-### 6. Requirement to provide information to the adjudicator[^key-4a7bc0fe3a7882071fc1af9e9f1b58b2]
+### 6. Requirement to provide information to the adjudicator[^c-4a7bc0fe3a7882071fc1af9e9f1b58b2]
 
 (1) A pub-owning business must—
 
@@ -137,11 +137,11 @@ The following provisions of this code cannot be the subject of arbitration befor
 
 (3) In paragraph (2), “**relevant accounting information**” means accounting information, so far as not already publicly available, sufficient to enable the adjudicator to calculate the permitted maximum penalty that may be imposed on a pub-owning business in accordance with the Tied Pubs (Fees and Financial Penalties) (Scotland) Regulations 2024[^f00005].
 
-### 7. Requirement to comply with adjudicator’s directions following an investigation[^key-ed74ab771b1679aed816e4ccd541c445]
+### 7. Requirement to comply with adjudicator’s directions following an investigation[^c-ed74ab771b1679aed816e4ccd541c445]
 
 A pub-owning business must comply with a direction given by the adjudicator under section 9(2)(a) or (b) of the Act.
 
-### 8. Restriction on enforcing certain terms of agreement[^key-88965bbb6d0238cedeccae1f3b2808b3]
+### 8. Restriction on enforcing certain terms of agreement[^c-88965bbb6d0238cedeccae1f3b2808b3]
 
 (1) A pub-owning business is prohibited from enforcing any of the following terms in a lease—
 
@@ -155,7 +155,7 @@ A pub-owning business must comply with a direction given by the adjudicator unde
 
 ## PART 2 — Information and advice to prospective tied-pub tenants
 
-### 9. Pre-entry training for prospective tenants[^key-4b0249974cd9282ddbb4a41556813066]
+### 9. Pre-entry training for prospective tenants[^c-4b0249974cd9282ddbb4a41556813066]
 
 (1) Before entering into a lease of a tied pub with a prospective tenant, a pub-owning business must—
 
@@ -174,24 +174,24 @@ A pub-owning business must comply with a direction given by the adjudicator unde
 
 a tied-pub tenant.
 
-### 10. Information to be provided to prospective tenants[^key-966d05ad19132c91644757071054f2c7]
+### 10. Information to be provided to prospective tenants[^c-966d05ad19132c91644757071054f2c7]
 
 (1) Before entering into a lease of a tied pub with a prospective tenant, a pub-owning business must provide to the prospective tenant—
 
 - (a) a draft of the proposed lease,
 - (b) a rent assessment statement, in which the rent is valued on the day on which the proposed lease is proposed to begin, otherwise meeting the requirements set out in regulation 12(2) to (5),
-- (c)[^key-14f4ff987b3ff497937f39a16b154b30] a Schedule of Condition, and
+- (c)[^c-14f4ff987b3ff497937f39a16b154b30] a Schedule of Condition, and
 - (d) information about—
   - (i) completed repairs undertaken on the tied pub covering the period of the previous tenancy,
   - (ii) any repairs required to be carried out at the start of the lease by the tenant,
   - (iii) any repairs required to be carried out at the start of the lease by the pub-owning business,
   - (iv) any business rates, fees, service rates and other costs associated with the operation of the pub which are the responsibility of the tenant,
-  - (v) at least one publicly available report[^key-7314811ce1eea80d9423789cb6140b9a] analysing the trading costs of tied pubs in the United Kingdom, including the costs of the agreements under which such pubs are occupied,
+  - (v) at least one publicly available report[^c-7314811ce1eea80d9423789cb6140b9a] analysing the trading costs of tied pubs in the United Kingdom, including the costs of the agreements under which such pubs are occupied,
   - (vi) any arrangements proposed by the pub-owning business relating to gaming machines at the pub, including details of how income from the machines is to be distributed,
   - (vii) advice and support the pub-owning business can provide to tenants and prospective tenants, and
   - (viii) sources of independent advice and support for tenants and prospective tenants.
 
-(2) For the purposes of paragraph (1)(d)(vii)[^key-41de4a4ea2656872b2c6647f5c59cc32], the advice and support to be provided to tenants and prospective tenants by the pub-owning business may include advice and support in respect of—
+(2) For the purposes of paragraph (1)(d)(vii)[^c-41de4a4ea2656872b2c6647f5c59cc32], the advice and support to be provided to tenants and prospective tenants by the pub-owning business may include advice and support in respect of—
 
 - (a) the capabilities and training needs of the tied-pub tenant and the tenant’s employees,
 - (b) licences and any relevant training requirements in relation to those licences,
@@ -212,7 +212,7 @@ a tied-pub tenant.
 - (b) any proposal for the pub-owning business to invest in the pub, and
 - (c) the current price list for tied products or services, and any expected changes, including discounts, to these prices within the period of three months beginning on the start date of the lease.
 
-(4) Where the prospective tenant has not previously leased the pub in question, the pub-owning business must in addition to the information set out in paragraphs (1), (2) and (3)[^key-375420db3b2dca3a4b6f72e4d5165a75] provide the prospective tenant with—
+(4) Where the prospective tenant has not previously leased the pub in question, the pub-owning business must in addition to the information set out in paragraphs (1), (2) and (3)[^c-375420db3b2dca3a4b6f72e4d5165a75] provide the prospective tenant with—
 
 - (a) a description of the pub,
 - (b) a description of the licences currently applicable to the pub, and
@@ -222,7 +222,7 @@ a tied-pub tenant.
 
 (5) Paragraph 4(c)(i) is subject to any legal requirements placed on the pub-owning business relating to the processing of data.
 
-### 11. Prospective tenants to prepare a business plan[^key-ee5713eb936bd61795dcf07cc4ea502a]
+### 11. Prospective tenants to prepare a business plan[^c-ee5713eb936bd61795dcf07cc4ea502a]
 
 Before entering into a lease of a tied pub with a prospective tenant a pub-owning business must—
 
@@ -231,7 +231,7 @@ Before entering into a lease of a tied pub with a prospective tenant a pub-ownin
 - (c) ask to see a copy of the prospective tenant’s business plan, and
 - (d) have due regard to the prospective tenant’s business plan, if provided, when negotiating the lease.
 
-### 11A. Schedule of condition[^key-fe7dd524f05af8b92dacbd98b5da101f]
+### 11A. Schedule of condition[^c-fe7dd524f05af8b92dacbd98b5da101f]
 
 Before entering into a new lease, a pub-owning business must take the Schedule of Condition into account—
 
@@ -240,7 +240,7 @@ Before entering into a new lease, a pub-owning business must take the Schedule o
 
 ## PART 3 — Rent assessment and rent review
 
-### 12. Rent assessment[^key-6b27605256114197d995b52c24ea1c82]
+### 12. Rent assessment[^c-6b27605256114197d995b52c24ea1c82]
 
 (1) The pub-owning business must provide the tied-pub tenant with a rent assessment statement—
 
@@ -274,7 +274,7 @@ Before entering into a new lease, a pub-owning business must take the Schedule o
 - (a) specified in a rent assessment statement, being at least 6 months before the date the rent is to change as a result of a rent review process initiated under the terms of an existing lease,
 - (b) on which a tenant requests a rent review under regulation 13(1).
 
-### 13. Rent review[^key-f8c7b9e8a122e60029cc94978a0710ab]
+### 13. Rent review[^c-f8c7b9e8a122e60029cc94978a0710ab]
 
 (1) Where the existing lease of a tied pub does not include a rent review process a pub-owning business must, at the written request of a tied-pub tenant, review the rent payable in respect of the lease where—
 
@@ -306,7 +306,7 @@ whichever is earlier.
 
 ## PART 4 — Market rent only leases
 
-### 14. Characteristics of an MRO lease[^key-15215c6a815ebd7fdd47747f3582cc6f]
+### 14. Characteristics of an MRO lease[^c-15215c6a815ebd7fdd47747f3582cc6f]
 
 (1) An MRO lease is a lease, the terms of which—
 
@@ -329,23 +329,23 @@ whichever is earlier.
 - (d) a deposit requirement which increases the deposit disproportionately to any rent increase, except with the consent of the tied-pub tenant, or
 - (e) a personal guarantee requirement more onerous than in the existing lease, except with the consent of the tied-pub tenant.
 
-### 15. Requirement to offer an MRO lease[^key-39bf553288997c700609ecd3f09d405d]
+### 15. Requirement to offer an MRO lease[^c-39bf553288997c700609ecd3f09d405d]
 
 (1) A pub-owning business must offer their tied-pub tenant an MRO lease at the tenant’s request.
 
 (2) But a pub-owning business need not offer an MRO lease where—
 
 - (a) the term of the tenant’s lease is one year or less,
-- (b)[^key-5cb8296c46930cf9899595c184d0dd65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5cb8296c46930cf9899595c184d0dd65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the tenant has requested an MRO lease within the past two years,
-- (d)[^key-81f8dc206e354bf3bfd556bcd75e4fbf] the tenant or the pub-owning business has served a notice to bring the lease to an end and the remaining term of the tenant’s lease is three months or less, or
+- (d)[^c-81f8dc206e354bf3bfd556bcd75e4fbf] the tenant or the pub-owning business has served a notice to bring the lease to an end and the remaining term of the tenant’s lease is three months or less, or
 - (e) the investment exception applies.
 
 (3) Paragraph (2)(a) does not apply where a pub has been occupied for a period of more than one year under successive leases of one year or less.
 
 (4) If a pub-owning business relies upon an exemption under paragraph (2) to refuse an offer of an MRO lease, the pub-owning business must inform their tenant.
 
-(5) The investment exception applies for 5 years from the date an investment agreement was agreed, where the pub-owning business is investing in capital improvement works to the pub the cost of which is[^key-b51ada6b500f096e63b7bf149b7f79ef] equal to or higher than the greater of—
+(5) The investment exception applies for 5 years from the date an investment agreement was agreed, where the pub-owning business is investing in capital improvement works to the pub the cost of which is[^c-b51ada6b500f096e63b7bf149b7f79ef] equal to or higher than the greater of—
 
 - (a) £35,000, or
 - (b) 150% of the annual rent of the pub.
@@ -370,7 +370,7 @@ whichever is earlier.
 - “**investment agreement**” means a written agreement between the pub-owning business and their tenant for the pub-owning business to invest in capital improvement works to the pub,
 - “**capital improvement works**” does not include routine maintenance, works carried out under landlord repairing obligations, works carried out under dilapidations requirements, or works to make a pub safe and compliant with health and safety requirements before letting it to the tenant.
 
-### 15A. Requirement to offer an MRO lease: further provision where lease period is longer than one year[^M_I_1dc7e9c4-e948-44f2-f743-3e9a3949050d][^key-bc54edfd59547e6d8035ccb00ae94735]
+### 15A. Requirement to offer an MRO lease: further provision where lease period is longer than one year[^M_I_1dc7e9c4-e948-44f2-f743-3e9a3949050d][^c-bc54edfd59547e6d8035ccb00ae94735]
 
 **Not yet in force.**
 
@@ -378,7 +378,7 @@ whichever is earlier.
 
 (2) This paragraph applies where a tenant requests an MRO lease during the period of 6 months immediately preceding the date on which one half of the term of the lease has passed (but see regulation 16(3A)).
 
-### 16. Process for offering an MRO lease[^key-1179843a65f0690ddfbc6cc041e20b7a]
+### 16. Process for offering an MRO lease[^c-1179843a65f0690ddfbc6cc041e20b7a]
 
 (1) The tied-pub tenant may request an MRO lease from the pub-owning business in writing and the request must include—
 
@@ -390,12 +390,12 @@ whichever is earlier.
 - (a) in writing as soon as possible and in any event within a period of 4 weeks beginning with the day on which the tenant’s request was received by the pub-owning business,
 - (b) which complies with the requirements set out in paragraph (3).
 
-(3) The requirements[^key-be1b42d42cf8b7f15ea350ef1abe20d2] referred to in paragraph (2) are that the offer of an MRO lease must—
+(3) The requirements[^c-be1b42d42cf8b7f15ea350ef1abe20d2] referred to in paragraph (2) are that the offer of an MRO lease must—
 
 - (a) include a draft deed of variation, or a draft lease where the tenant consents to a new lease being offered,
 - (b) provide for a new rent.
 
-(3A)[^key-88cb46e2d1fc582f6ea3deabaa1e70d4] Where a tied-pub tenant has requested an MRO lease from a pub-owning business in the period of 6 months immediately preceding the date on which one half of the term of the lease of over one year has passed in accordance with regulation 15A(2), the pub-owning business may make an offer of an MRO lease which provides that the deed of variation, or new lease where the tenant consents to a new lease being offered, does not come into force until the date on which one half of the term of the lease has passed.
+(3A)[^c-88cb46e2d1fc582f6ea3deabaa1e70d4] Where a tied-pub tenant has requested an MRO lease from a pub-owning business in the period of 6 months immediately preceding the date on which one half of the term of the lease of over one year has passed in accordance with regulation 15A(2), the pub-owning business may make an offer of an MRO lease which provides that the deed of variation, or new lease where the tenant consents to a new lease being offered, does not come into force until the date on which one half of the term of the lease has passed.
 
 (4) When making an offer of an MRO lease, a pub-owning business must—
 
@@ -410,7 +410,7 @@ whichever is earlier.
 
 (8) The pub-owning business and the tenant are to meet their own legal costs in connection with entering into an MRO lease.
 
-### 17. Assessing the market rent of an MRO lease[^key-8de9ec8f3775f43e8440841924d1b23e]
+### 17. Assessing the market rent of an MRO lease[^c-8de9ec8f3775f43e8440841924d1b23e]
 
 (1) If at the end of the negotiation period the pub-owning business and the tied-pub tenant have not reached agreement on the rent to be paid under the MRO lease, a rent assessor is to be appointed to determine the market rent which will apply to the MRO lease.
 
@@ -426,17 +426,17 @@ whichever is earlier.
 
 (7) The rent assessor’s terms of appointment must require the rent assessor to determine the market rent for the MRO lease and notify the pub-owning business and tied-pub tenant of that determination, within a period of 4 weeks beginning with the date of the rent assessor’s appointment.
 
-(7A)[^key-7de54f57a8eb86f96c798cdcec425ba0] The tied-pub tenant or pub-owning business may refer the market rent determination made by the rent assessor to the adjudicator if there is an obvious error in the rent determination.
+(7A)[^c-7de54f57a8eb86f96c798cdcec425ba0] The tied-pub tenant or pub-owning business may refer the market rent determination made by the rent assessor to the adjudicator if there is an obvious error in the rent determination.
 
 (7B) A referral to the adjudicator under paragraph (7A) must be made within a period of 14 days beginning on the date on which the rent assessor notifies the parties in writing of the market rent under paragraph (7).
 
 (7C) Where the adjudicator, or another person appointed by the adjudicator, considers there to be an obvious error in the market rent determination, the adjudicator, or the person appointed by the adjudicator, may correct that error by notifying the parties in writing of the corrected market rent.
 
-(8) The pub-owning business must make the tied-pub tenant an offer in writing of an MRO lease within a period of 4 weeks beginning on the day on which the rent assessor notifies the parties in writing of the market rent under paragraph (7) or, if referred to the adjudicator under paragraph (7A), within 4 weeks of the date on which the adjudicator, or a person appointed by the adjudicator, determines the rent under paragraph (7C)[^key-5993fffbc101074053885f4dfe1424d7].
+(8) The pub-owning business must make the tied-pub tenant an offer in writing of an MRO lease within a period of 4 weeks beginning on the day on which the rent assessor notifies the parties in writing of the market rent under paragraph (7) or, if referred to the adjudicator under paragraph (7A), within 4 weeks of the date on which the adjudicator, or a person appointed by the adjudicator, determines the rent under paragraph (7C)[^c-5993fffbc101074053885f4dfe1424d7].
 
-(9) In accordance with paragraph (8), the pub-owning business must specify that the rent payable is the market rent determined by the rent assessor or, if there is a referral under paragraph (7A), by the adjudicator or a person appointed by the adjudicator,[^key-ecf8a3b52a4039786416f46ecf4e18bc] payable from the date on which the tenant requested an MRO lease under regulation 16(1).
+(9) In accordance with paragraph (8), the pub-owning business must specify that the rent payable is the market rent determined by the rent assessor or, if there is a referral under paragraph (7A), by the adjudicator or a person appointed by the adjudicator,[^c-ecf8a3b52a4039786416f46ecf4e18bc] payable from the date on which the tenant requested an MRO lease under regulation 16(1).
 
-(10) If the offer of an MRO lease has not been accepted by the tied-pub tenant within 2 weeks beginning with the day the tenant received the offer of an MRO lease referred to in paragraph (8)[^key-5c32112299e31b6fdf09a03faa09047f] the rent assessment period comes to an end.
+(10) If the offer of an MRO lease has not been accepted by the tied-pub tenant within 2 weeks beginning with the day the tenant received the offer of an MRO lease referred to in paragraph (8)[^c-5c32112299e31b6fdf09a03faa09047f] the rent assessment period comes to an end.
 
 (11) The rent assessor’s fees are to be split equally between the pub-owning business and the tied-pub tenant.
 
@@ -444,11 +444,11 @@ whichever is earlier.
 
 (13) The adjudicator may set additional criteria that a person must meet in order to be appointed as a rent assessor.
 
-### 18. Referring a failure to agree an MRO lease to the adjudicator[^key-40c01cda0a10189cb65b15fec8b2f5a2]
+### 18. Referring a failure to agree an MRO lease to the adjudicator[^c-40c01cda0a10189cb65b15fec8b2f5a2]
 
 If at the end of the negotiation period and any rent assessment period the pub-owning business and the tied-pub tenant have not agreed the terms of the MRO lease, this failure to agree may be referred to the adjudicator as a dispute under regulation 4.
 
-### 19. Right to end an MRO process[^key-0db85fac59cae3c51c35be9b8153c46c]
+### 19. Right to end an MRO process[^c-0db85fac59cae3c51c35be9b8153c46c]
 
 A tied-pub tenant may end the MRO process, as referred to in regulations 16 and 17, at any time by writing to the pub-owning business confirming that—
 
@@ -457,7 +457,7 @@ A tied-pub tenant may end the MRO process, as referred to in regulations 16 and 
 
 ## PART 5 — Guest beer agreements
 
-### 20. Characteristics of a guest beer agreement[^key-e8ea11b841001c94c02d7dd83b5f0ebf]
+### 20. Characteristics of a guest beer agreement[^c-e8ea11b841001c94c02d7dd83b5f0ebf]
 
 (1) A guest beer agreement is an agreement that—
 
@@ -481,13 +481,13 @@ A tied-pub tenant may end the MRO process, as referred to in regulations 16 and 
 
 (3) This regulation does not require a service equipment charge to be included within a guest beer agreement.
 
-### 21. Requirement to offer a guest beer agreement[^key-fa84bf4ab9326a48e1665f2f37a761c2]
+### 21. Requirement to offer a guest beer agreement[^c-fa84bf4ab9326a48e1665f2f37a761c2]
 
 (1) A pub-owning business must offer to enter into a guest beer agreement with the tied-pub tenant at the tenant’s request.
 
 (2) A pub-owning business need not offer to enter into a guest beer agreement where, on the request date, the tied-pub tenant and the pub-owning business have an existing guest beer agreement which meets the criteria in regulation 20.
 
-### 22. Process for offering a guest beer agreement[^key-c02b7fbd25aacf9dd1b0bcbf3028d6bd]
+### 22. Process for offering a guest beer agreement[^c-c02b7fbd25aacf9dd1b0bcbf3028d6bd]
 
 (1) The tied-pub tenant may request a guest beer agreement from the pub-owning business and any such request must be in writing.
 
@@ -504,7 +504,7 @@ A tied-pub tenant may end the MRO process, as referred to in regulations 16 and 
 
 of entering into a guest beer agreement.
 
-### 23. Requirement to change a guest beer brand[^key-dff02939eccca3ea2d74ab93f12aa4da]
+### 23. Requirement to change a guest beer brand[^c-dff02939eccca3ea2d74ab93f12aa4da]
 
 (1) A pub-owning business may give written notice to a tied-pub tenant to change the guest beer brand (see regulation 20(1)(a)(ii)) where the pub-owning business has reasonable evidence that a guest beer brand under regulation 20(2)(a)(i) has exceeded the production level of 5,000 hectolitres in a production year.
 
@@ -512,14 +512,14 @@ of entering into a guest beer agreement.
 
 ## PART 6 — Miscellaneous
 
-### 24. Gaming machines[^key-6262db162d64362b5b834a3ae0e3c12a]
+### 24. Gaming machines[^c-6262db162d64362b5b834a3ae0e3c12a]
 
 A pub-owning business must not enter into a new tied pub lease which places a mandatory requirement on a tied-pub tenant to purchase or rent gaming machines from—
 
 - (a) the pub-owning business, or
 - (b) a supplier nominated by the pub-owning business.
 
-### 25. Flow monitoring devices[^key-8db0bf741e2d7cbb6ff7bd687e58194a]
+### 25. Flow monitoring devices[^c-8db0bf741e2d7cbb6ff7bd687e58194a]
 
 (1) A pub-owning business must not subject a tied-pub tenant to detriment or impose any liability on a tied-pub tenant as a result of any reading taken from a flow monitoring device unless there is additional evidence in connection with the purchase and stock of alcohol at the tied pub.
 
@@ -578,96 +578,96 @@ A Business and Regulatory Impact Assessment, Equality Impact Assessment, Data Pr
 
 [^f00001]: Footnote: [2021 asp 17](https://www.legislation.gov.uk/asp/2021/17). The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) and these Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-3be7c021b831d70ef03fc84bde74f7dc]: Textual amendment: Reg. 1 substituted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2)
+[^c-3be7c021b831d70ef03fc84bde74f7dc]: Textual amendment: Reg. 1 substituted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2)
 
-[^key-7c0b5c5cb5c8644c6ab281cd076991dd]: Commencement: Reg. 2 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-7c0b5c5cb5c8644c6ab281cd076991dd]: Commencement: Reg. 2 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
 [^f00002]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19).
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-31f4af17a9cfd76321bcfa157e29a367]: Textual amendment: Words in reg. 2(1) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/3)
+[^c-31f4af17a9cfd76321bcfa157e29a367]: Textual amendment: Words in reg. 2(1) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/3)
 
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 is relevantly amended by sections 406 and 411(2) and (3) and paragraph 158 of schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-34d9d3f0549e62fad097c92a3d0c9dd8]: Commencement: Reg. 3 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-34d9d3f0549e62fad097c92a3d0c9dd8]: Commencement: Reg. 3 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-5e7544cd3d3f607e2f9f3bf95a5e28c7]: Commencement: Reg. 4 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-5e7544cd3d3f607e2f9f3bf95a5e28c7]: Commencement: Reg. 4 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-0590aa7cf2288e91f98742bc64dece36]: Commencement: Reg. 5 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-0590aa7cf2288e91f98742bc64dece36]: Commencement: Reg. 5 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-4a7bc0fe3a7882071fc1af9e9f1b58b2]: Commencement: Reg. 6 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-4a7bc0fe3a7882071fc1af9e9f1b58b2]: Commencement: Reg. 6 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
 [^f00005]: Footnote: [S.S.I. 2024/187](https://www.legislation.gov.uk/ssi/2024/187).
 
-[^key-ed74ab771b1679aed816e4ccd541c445]: Commencement: Reg. 7 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-ed74ab771b1679aed816e4ccd541c445]: Commencement: Reg. 7 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-88965bbb6d0238cedeccae1f3b2808b3]: Commencement: Reg. 8 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-88965bbb6d0238cedeccae1f3b2808b3]: Commencement: Reg. 8 in force at 30.3.2025, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-4b0249974cd9282ddbb4a41556813066]: Commencement: Reg. 9 in force at 30.3.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-4b0249974cd9282ddbb4a41556813066]: Commencement: Reg. 9 in force at 30.3.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-966d05ad19132c91644757071054f2c7]: Commencement: Reg. 10 in force at 30.3.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-966d05ad19132c91644757071054f2c7]: Commencement: Reg. 10 in force at 30.3.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-14f4ff987b3ff497937f39a16b154b30]: Textual amendment: Reg. 10(1)(c) substituted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/4/a)
+[^c-14f4ff987b3ff497937f39a16b154b30]: Textual amendment: Reg. 10(1)(c) substituted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/4/a)
 
-[^key-7314811ce1eea80d9423789cb6140b9a]: Textual amendment: Words in reg. 10(1)(d)(v) substituted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/4/b)
+[^c-7314811ce1eea80d9423789cb6140b9a]: Textual amendment: Words in reg. 10(1)(d)(v) substituted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/4/b)
 
-[^key-41de4a4ea2656872b2c6647f5c59cc32]: Textual amendment: Words in reg. 10(2) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/3/a)
+[^c-41de4a4ea2656872b2c6647f5c59cc32]: Textual amendment: Words in reg. 10(2) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/3/a)
 
-[^key-375420db3b2dca3a4b6f72e4d5165a75]: Textual amendment: Words in reg. 10(4) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/3/b)
+[^c-375420db3b2dca3a4b6f72e4d5165a75]: Textual amendment: Words in reg. 10(4) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/3/b)
 
-[^key-ee5713eb936bd61795dcf07cc4ea502a]: Commencement: Reg. 11 in force at 30.3.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-ee5713eb936bd61795dcf07cc4ea502a]: Commencement: Reg. 11 in force at 30.3.2025, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-fe7dd524f05af8b92dacbd98b5da101f]: Textual amendment: Reg. 11A inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/5)
+[^c-fe7dd524f05af8b92dacbd98b5da101f]: Textual amendment: Reg. 11A inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/5)
 
-[^key-6b27605256114197d995b52c24ea1c82]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2024/193/regulation/12) in force at 30.6.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-6b27605256114197d995b52c24ea1c82]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2024/193/regulation/12) in force at 30.6.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-f8c7b9e8a122e60029cc94978a0710ab]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2024/193/regulation/13) in force at 30.6.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-f8c7b9e8a122e60029cc94978a0710ab]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2024/193/regulation/13) in force at 30.6.2025, see [reg. 1(3)(a)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/a) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-15215c6a815ebd7fdd47747f3582cc6f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2024/193/regulation/14) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-15215c6a815ebd7fdd47747f3582cc6f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2024/193/regulation/14) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-39bf553288997c700609ecd3f09d405d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2024/193/regulation/15) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-39bf553288997c700609ecd3f09d405d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2024/193/regulation/15) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-5cb8296c46930cf9899595c184d0dd65]: Textual amendment: Reg. 15(2)(b) omitted (30.3.2025) by virtue of [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/6/a)
+[^c-5cb8296c46930cf9899595c184d0dd65]: Textual amendment: Reg. 15(2)(b) omitted (30.3.2025) by virtue of [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/6/a)
 
-[^key-81f8dc206e354bf3bfd556bcd75e4fbf]: Textual amendment: Reg. 15(2)(d) substituted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/6/b)
+[^c-81f8dc206e354bf3bfd556bcd75e4fbf]: Textual amendment: Reg. 15(2)(d) substituted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/6/b)
 
-[^key-b51ada6b500f096e63b7bf149b7f79ef]: Textual amendment: Words in reg. 15(5) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/4)
+[^c-b51ada6b500f096e63b7bf149b7f79ef]: Textual amendment: Words in reg. 15(5) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/4)
 
 [^M_I_1dc7e9c4-e948-44f2-f743-3e9a3949050d]: Commencement: Reg. 15A in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-bc54edfd59547e6d8035ccb00ae94735]: Textual amendment: Reg. 15A inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(7)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/7)
+[^c-bc54edfd59547e6d8035ccb00ae94735]: Textual amendment: Reg. 15A inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(7)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/7)
 
-[^key-1179843a65f0690ddfbc6cc041e20b7a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2024/193/regulation/16) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-1179843a65f0690ddfbc6cc041e20b7a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2024/193/regulation/16) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-be1b42d42cf8b7f15ea350ef1abe20d2]: Textual amendment: Word in reg. 16(3) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/5)
+[^c-be1b42d42cf8b7f15ea350ef1abe20d2]: Textual amendment: Word in reg. 16(3) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/5)
 
-[^key-88cb46e2d1fc582f6ea3deabaa1e70d4]: Textual amendment: Reg. 16(3A) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(8)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/8)
+[^c-88cb46e2d1fc582f6ea3deabaa1e70d4]: Textual amendment: Reg. 16(3A) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(8)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/8)
 
-[^key-8de9ec8f3775f43e8440841924d1b23e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2024/193/regulation/17) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-8de9ec8f3775f43e8440841924d1b23e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2024/193/regulation/17) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-7de54f57a8eb86f96c798cdcec425ba0]: Textual amendment: Reg. 17(7A)-(7C) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(9)(a)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/9/a)
+[^c-7de54f57a8eb86f96c798cdcec425ba0]: Textual amendment: Reg. 17(7A)-(7C) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(9)(a)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/9/a)
 
-[^key-5993fffbc101074053885f4dfe1424d7]: Textual amendment: Words in reg. 17(8) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(9)(b)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/9/b)
+[^c-5993fffbc101074053885f4dfe1424d7]: Textual amendment: Words in reg. 17(8) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(9)(b)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/9/b)
 
-[^key-ecf8a3b52a4039786416f46ecf4e18bc]: Textual amendment: Words in reg. 17(9) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(9)(c)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/9/c)
+[^c-ecf8a3b52a4039786416f46ecf4e18bc]: Textual amendment: Words in reg. 17(9) inserted (30.3.2025) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/92)](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(9)(c)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/9/c)
 
-[^key-5c32112299e31b6fdf09a03faa09047f]: Textual amendment: Words in reg. 17(10) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/6)
+[^c-5c32112299e31b6fdf09a03faa09047f]: Textual amendment: Words in reg. 17(10) substituted (6.10.2024) by [The Tied Pubs (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/245)](https://www.legislation.gov.uk/ssi/2024/245), [regs. 1](https://www.legislation.gov.uk/ssi/2024/245/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2024/245/regulation/2/6)
 
 [^f00006]: Footnote: Commonly referred to as the RICS, a UK-based professional body for surveyors founded on 15 June 1868 and incorporated by Royal Charter on 26 August 1881.
 
-[^key-40c01cda0a10189cb65b15fec8b2f5a2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2024/193/regulation/18) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-40c01cda0a10189cb65b15fec8b2f5a2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2024/193/regulation/18) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-0db85fac59cae3c51c35be9b8153c46c]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2024/193/regulation/19) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-0db85fac59cae3c51c35be9b8153c46c]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2024/193/regulation/19) in force at 30.6.2025, see [reg. 1(3)(b)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/3/b) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-e8ea11b841001c94c02d7dd83b5f0ebf]: Commencement: Reg. 20 in force at 30.3.2025, see [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/c) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-e8ea11b841001c94c02d7dd83b5f0ebf]: Commencement: Reg. 20 in force at 30.3.2025, see [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/c) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-fa84bf4ab9326a48e1665f2f37a761c2]: Commencement: Reg. 21 in force at 30.3.2025, see [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/c) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-fa84bf4ab9326a48e1665f2f37a761c2]: Commencement: Reg. 21 in force at 30.3.2025, see [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/c) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-c02b7fbd25aacf9dd1b0bcbf3028d6bd]: Commencement: Reg. 22 in force at 30.3.2025, see [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/c) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-c02b7fbd25aacf9dd1b0bcbf3028d6bd]: Commencement: Reg. 22 in force at 30.3.2025, see [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/c) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-dff02939eccca3ea2d74ab93f12aa4da]: Commencement: Reg. 23 in force at 30.3.2025, see [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/c) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-dff02939eccca3ea2d74ab93f12aa4da]: Commencement: Reg. 23 in force at 30.3.2025, see [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/c) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-6262db162d64362b5b834a3ae0e3c12a]: Commencement: Reg. 24 in force at 30.3.2025, see [reg. 1(2)(d)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/d) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-6262db162d64362b5b834a3ae0e3c12a]: Commencement: Reg. 24 in force at 30.3.2025, see [reg. 1(2)(d)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/d) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
 
-[^key-8db0bf741e2d7cbb6ff7bd687e58194a]: Commencement: Reg. 25 in force at 30.3.2025, see [reg. 1(2)(d)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/d) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))
+[^c-8db0bf741e2d7cbb6ff7bd687e58194a]: Commencement: Reg. 25 in force at 30.3.2025, see [reg. 1(2)(d)](https://www.legislation.gov.uk/ssi/2024/193/regulation/1/2/d) (as substituted by [S.S.I. 2025/92](https://www.legislation.gov.uk/ssi/2025/92), [regs. 1](https://www.legislation.gov.uk/ssi/2025/92/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/92/regulation/3/2))

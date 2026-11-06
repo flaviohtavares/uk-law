@@ -46,31 +46,31 @@ In accordance with section 11(2) of that Act, they have consulted the President 
 
 In accordance with section 79(2)(c) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-85c981c06f3eadd6eea445d585fcb65a]
+## 1. Citation and commencement[^c-85c981c06f3eadd6eea445d585fcb65a]
 
 These Regulations may be cited as the First-tier Tribunal for Scotland General Regulatory Chamber Parking and Bus Lane Cases and Upper Tribunal for Scotland (Composition) Regulations 2020 and come into force on 1 April 2020.
 
-## 2. Interpretation[^key-4ad488259d4f66c6101a49ca76ec0328]
+## 2. Interpretation[^c-4ad488259d4f66c6101a49ca76ec0328]
 
 In these Regulations—
 
 - “bus lane case” means proceedings before the First-tier Tribunal when exercising functions transferred to it by regulation 3 of the First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020[^f00002],
 - “Chamber President” means the Chamber President of the First-tier Tribunal,
 - “First-tier Tribunal” means the First-tier Tribunal for Scotland General Regulatory Chamber[^f00003], and
-- “[^key-d069ea5f841acba163982193377072d4]**low emission zone case**” means proceedings before the First-tier Tribunal when exercising functions allocated to it by regulation 2 of the First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023[^f00004],
-- “[^key-8bbcf2bf0b051b1e2f93581745e66524]**parking case**” means proceedings before the First-tier Tribunal when exercising functions—
+- “[^c-d069ea5f841acba163982193377072d4]**low emission zone case**” means proceedings before the First-tier Tribunal when exercising functions allocated to it by regulation 2 of the First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023[^f00004],
+- “[^c-8bbcf2bf0b051b1e2f93581745e66524]**parking case**” means proceedings before the First-tier Tribunal when exercising functions—
   - ((a)) transferred to it by regulation 3 of the First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020,
   - ((b)) allocated to it by regulations 3 or 4 of the First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023.
 
-## 3. Composition of First-tier Tribunal[^key-a35a2b3252655d2aeb1a67ea25203432]
+## 3. Composition of First-tier Tribunal[^c-a35a2b3252655d2aeb1a67ea25203432]
 
-(1) The First-tier Tribunal, when convened to decide any matter in a bus lane case, low emission zone case or a parking case[^key-e3bb7bf2c1a350880c3ce22b388163f0], must consist only of a legal member.
+(1) The First-tier Tribunal, when convened to decide any matter in a bus lane case, low emission zone case or a parking case[^c-e3bb7bf2c1a350880c3ce22b388163f0], must consist only of a legal member.
 
 (2) Whenever practicable, the legal member referred to in paragraph (1) must not have had any involvement in the case prior to the appeal, referral or review of the case.
 
-## 4. Composition of Upper Tribunal[^key-c4937c8f3c694d75102c9bbd69bbf6a6]
+## 4. Composition of Upper Tribunal[^c-c4937c8f3c694d75102c9bbd69bbf6a6]
 
-(1) The Upper Tribunal, when convened to decide an appeal, review or referral in a bus lane case, low emission zone case or a parking case[^key-b6b21f0a60cb8f10f63acc622354ec3c], must consist of—
+(1) The Upper Tribunal, when convened to decide an appeal, review or referral in a bus lane case, low emission zone case or a parking case[^c-b6b21f0a60cb8f10f63acc622354ec3c], must consist of—
 
 - (a) a member of the Upper Tribunal acting alone,
 - (b) the Chamber President (except a temporary Chamber President), acting alone or with a member of the Upper Tribunal,
@@ -107,26 +107,26 @@ The First-tier Tribunal for Scotland and the Upper Tribunal for Scotland are kno
 
 [^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-85c981c06f3eadd6eea445d585fcb65a]: Commencement: Reg. 1 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/97/regulation/1)
+[^c-85c981c06f3eadd6eea445d585fcb65a]: Commencement: Reg. 1 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/97/regulation/1)
 
-[^key-4ad488259d4f66c6101a49ca76ec0328]: Commencement: Reg. 2 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/97/regulation/1)
+[^c-4ad488259d4f66c6101a49ca76ec0328]: Commencement: Reg. 2 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/97/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2020/96](https://www.legislation.gov.uk/ssi/2020/96).
 
 [^f00003]: Footnote: The General Regulatory Chamber of the First-tier Tribunal for Scotland was brought into being by [S.S.I. 2016/341](https://www.legislation.gov.uk/ssi/2016/341).
 
-[^key-d069ea5f841acba163982193377072d4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2020/97/regulation/2) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/159/regulation/2/2/a)
+[^c-d069ea5f841acba163982193377072d4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2020/97/regulation/2) inserted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/159/regulation/2/2/a)
 
 [^f00004]: Footnote: [S.S.I. 2020/95](https://www.legislation.gov.uk/ssi/2020/95).
 
-[^key-8bbcf2bf0b051b1e2f93581745e66524]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2020/97/regulation/2) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/159/regulation/2/2/b)
+[^c-8bbcf2bf0b051b1e2f93581745e66524]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2020/97/regulation/2) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/159/regulation/2/2/b)
 
-[^key-a35a2b3252655d2aeb1a67ea25203432]: Commencement: Reg. 3 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/97/regulation/1)
+[^c-a35a2b3252655d2aeb1a67ea25203432]: Commencement: Reg. 3 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/97/regulation/1)
 
-[^key-e3bb7bf2c1a350880c3ce22b388163f0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2020/97/regulation/3/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/159/regulation/2/3)
+[^c-e3bb7bf2c1a350880c3ce22b388163f0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2020/97/regulation/3/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/159/regulation/2/3)
 
-[^key-c4937c8f3c694d75102c9bbd69bbf6a6]: Commencement: Reg. 4 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/97/regulation/1)
+[^c-c4937c8f3c694d75102c9bbd69bbf6a6]: Commencement: Reg. 4 in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/97/regulation/1)
 
-[^key-b6b21f0a60cb8f10f63acc622354ec3c]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2020/97/regulation/4/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/159/regulation/2/3)
+[^c-b6b21f0a60cb8f10f63acc622354ec3c]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2020/97/regulation/4/1) substituted (1.6.2023) by [The First-tier Tribunal for Scotland General Regulatory Chamber and Upper Tribunal for Scotland (Composition and Rules of Procedure) (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/159)](https://www.legislation.gov.uk/ssi/2023/159), [regs. 1](https://www.legislation.gov.uk/ssi/2023/159/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/159/regulation/2/3)
 
 [^f00005]: Footnote: A part-time sheriff is excluded from the definition of sheriff eligible to act as a member of the Upper Tribunal by virtue of section 17(2)(c) of the Tribunals (Scotland) Act [2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10).

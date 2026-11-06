@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 41
 
-### 1. Interpretation[^key-f4fe1deb715a944e7103ae2053a9f00c]
+### 1. Interpretation[^c-f4fe1deb715a944e7103ae2053a9f00c]
 
 (1) In this Schedule—
 
@@ -45,7 +45,7 @@ and diving operations include the activity of any person in connection with the 
 
 (4) Any reference in this Schedule to premises and activities (howsoever described) shall include a reference to any person, article or substance on those premises or engaged in or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-639c00e61808c58aa2f3aed25168fd8a]
+### 2. Offshore installations[^c-639c00e61808c58aa2f3aed25168fd8a]
 
 (1) Any offshore installation and any activity on it.
 
@@ -73,7 +73,7 @@ and which is not an excepted structure.
 - (d) a mobile structure which has been taken out of use and is not for the time being intended to be used for any of the purposes specified in sub-paragraph (4); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-1e10fd4a47fc7cc3280b82be25da2a3e]
+### 3. Wells[^c-1e10fd4a47fc7cc3280b82be25da2a3e]
 
 (1) Subject to sub-paragraph (2)—
 
@@ -82,7 +82,7 @@ and which is not an excepted structure.
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-380367ed15af715e9920272d738c34de]
+### 4. Pipelines[^c-380367ed15af715e9920272d738c34de]
 
 (1) Any pipeline.
 
@@ -115,13 +115,13 @@ being in either case a vessel which is engaged in pipeline works.
   - (e) any activities incidental to the activities described in paragraphs (*a*) to (*d*);
   - (f) diving operations in connection with any of the works mentioned in paragraphs (*a*) to (*e*) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-8e8d37fabe331a092d7b804892127b96]
+### 5. Mines[^c-8e8d37fabe331a092d7b804892127b96]
 
 (1) The working of a mine, and work for the purpose of or in connection with the working of any part of a mine.
 
 (2) In this paragraph “mine” and “working of a mine” have the same meaning as in the Mines Act (Northern Ireland) 1969[^f00048].
 
-### 6. Other activities[^key-bbf901b7707f752417810526e51d2802]
+### 6. Other activities[^c-bbf901b7707f752417810526e51d2802]
 
 (1) Subject to sub-paragraph (2)—
 
@@ -135,18 +135,18 @@ being in either case a vessel which is engaged in pipeline works.
 
 ## Annotations
 
-[^key-f4fe1deb715a944e7103ae2053a9f00c]: Commencement: Sch. 13 para. 1 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-f4fe1deb715a944e7103ae2053a9f00c]: Commencement: Sch. 13 para. 1 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
 [^f00047]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act 1982 ([1982 c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
 
-[^key-639c00e61808c58aa2f3aed25168fd8a]: Commencement: Sch. 13 para. 2 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-639c00e61808c58aa2f3aed25168fd8a]: Commencement: Sch. 13 para. 2 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
-[^key-1e10fd4a47fc7cc3280b82be25da2a3e]: Commencement: Sch. 13 para. 3 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-1e10fd4a47fc7cc3280b82be25da2a3e]: Commencement: Sch. 13 para. 3 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
-[^key-380367ed15af715e9920272d738c34de]: Commencement: Sch. 13 para. 4 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-380367ed15af715e9920272d738c34de]: Commencement: Sch. 13 para. 4 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
-[^key-8e8d37fabe331a092d7b804892127b96]: Commencement: Sch. 13 para. 5 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-8e8d37fabe331a092d7b804892127b96]: Commencement: Sch. 13 para. 5 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
 [^f00048]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-bbf901b7707f752417810526e51d2802]: Commencement: Sch. 13 para. 6 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-bbf901b7707f752417810526e51d2802]: Commencement: Sch. 13 para. 6 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

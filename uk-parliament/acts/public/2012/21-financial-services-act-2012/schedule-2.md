@@ -24,7 +24,7 @@ Section 5
 
 ### Court of directors
 
-**1.**[^key-943fe5ef51148e87ab49a0bba1b4f304][^key-3d48936d63b8f2eb86cbe5a558f9a5c5] (1) Schedule 1 to the Bank of England Act 1998 (which makes further provision about the court of directors) is amended as follows.
+**1.**[^c-943fe5ef51148e87ab49a0bba1b4f304][^c-3d48936d63b8f2eb86cbe5a558f9a5c5] (1) Schedule 1 to the Bank of England Act 1998 (which makes further provision about the court of directors) is amended as follows.
 
 (2) For paragraph 1 substitute—
 
@@ -99,7 +99,7 @@ Section 5
 
 > (3A) But a member of the court who is the Governor or a Deputy Governor of the Bank may not be designated under paragraph (a) or (b) of sub-paragraph (3).
 
-(13)[^key-95bb03eca4b2250765a19571c5f9ac96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-95bb03eca4b2250765a19571c5f9ac96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) In paragraph 15, for “director” substitute “ non-executive director ”.
 
@@ -107,7 +107,7 @@ Section 5
 
 ### Monetary Policy Committee
 
-**2.**[^key-452a8efffdeefaf48c90f7af9cb60f66][^key-17434a1e04867c549e18c2a7baef3af9] (1) Schedule 3 to the Bank of England Act 1998 (Monetary Policy Committee) is amended as follows.
+**2.**[^c-452a8efffdeefaf48c90f7af9cb60f66][^c-17434a1e04867c549e18c2a7baef3af9] (1) Schedule 3 to the Bank of England Act 1998 (Monetary Policy Committee) is amended as follows.
 
 (2) In paragraph 1, for the words from “except that” to the end substitute “ but this is subject to paragraph 2B ”.
 
@@ -141,7 +141,7 @@ Section 5
   , and
 - (c) omit sub-paragraph (3).
 
-(7)[^key-8e0df6f9181a1dc4a88980a9d2bae6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8e0df6f9181a1dc4a88980a9d2bae6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In paragraph 9—
 
@@ -160,7 +160,7 @@ Section 5
 
 ### Immunity
 
-**3.**[^key-c5b33173fa70ac992287b2100ca5bc1b][^key-40c6c083a0996fce7181f0f0e1a18aec] (1) Section 244 of the Banking Act 2009 (immunity) is amended as follows.
+**3.**[^c-c5b33173fa70ac992287b2100ca5bc1b][^c-40c6c083a0996fce7181f0f0e1a18aec] (1) Section 244 of the Banking Act 2009 (immunity) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -173,44 +173,44 @@ Section 5
 
 ### Changes in terminology
 
-**4.**[^key-08f5685eca55f42438cc6b08946f186c][^key-c5e104843243dc432a3d2d812429bcbc] In section 4 of the Bank of England Act 1998 (Bank's annual report), in subsection (4)(a), for “directors” substitute “ non-executive directors ”.
+**4.**[^c-08f5685eca55f42438cc6b08946f186c][^c-c5e104843243dc432a3d2d812429bcbc] In section 4 of the Bank of England Act 1998 (Bank's annual report), in subsection (4)(a), for “directors” substitute “ non-executive directors ”.
 
-**5.**[^key-4fd706a7e72c15dc6b41a6ad9245ab20][^key-692f8beedfa55fc96e5f96307d219dc5] In Schedule 7 to the Bank of England Act 1998 (restriction on disclosure of information), in paragraph 1(3)(a), for “servant” substitute “ employee ”.
+**5.**[^c-4fd706a7e72c15dc6b41a6ad9245ab20][^c-692f8beedfa55fc96e5f96307d219dc5] In Schedule 7 to the Bank of England Act 1998 (restriction on disclosure of information), in paragraph 1(3)(a), for “servant” substitute “ employee ”.
 
-**6.**[^key-66c04f66431797b67ba9e5830848b8d6][^key-71314596ff51689fde7f8ee0df1fb905] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), in the entry relating to the Bank of England, for “Director” substitute “ non-executive director ”.
+**6.**[^c-66c04f66431797b67ba9e5830848b8d6][^c-71314596ff51689fde7f8ee0df1fb905] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), in the entry relating to the Bank of England, for “Director” substitute “ non-executive director ”.
 
-**7.**[^key-b5b54c5f554b4acc5e00be60f419cd5b][^key-5976fd7bfe08e04da2b8b9eeece59723] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices), in the entry relating to the Bank of England, for “Director” substitute “ non-executive director ”.
+**7.**[^c-b5b54c5f554b4acc5e00be60f419cd5b][^c-5976fd7bfe08e04da2b8b9eeece59723] In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices), in the entry relating to the Bank of England, for “Director” substitute “ non-executive director ”.
 
 ## Annotations
 
-[^key-943fe5ef51148e87ab49a0bba1b4f304]: Commencement: Sch. 2 para. 1 in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-943fe5ef51148e87ab49a0bba1b4f304]: Commencement: Sch. 2 para. 1 in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-3d48936d63b8f2eb86cbe5a558f9a5c5]: Commencement: Sch. 2 para. 1 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3d48936d63b8f2eb86cbe5a558f9a5c5]: Commencement: Sch. 2 para. 1 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-95bb03eca4b2250765a19571c5f9ac96]: Textual amendment: [Sch. 2 para. 1(13)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/1/13) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
+[^c-95bb03eca4b2250765a19571c5f9ac96]: Textual amendment: [Sch. 2 para. 1(13)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/1/13) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
 
-[^key-452a8efffdeefaf48c90f7af9cb60f66]: Commencement: Sch. 2 para. 2 in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-452a8efffdeefaf48c90f7af9cb60f66]: Commencement: Sch. 2 para. 2 in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-17434a1e04867c549e18c2a7baef3af9]: Commencement: Sch. 2 para. 2 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-17434a1e04867c549e18c2a7baef3af9]: Commencement: Sch. 2 para. 2 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-8e0df6f9181a1dc4a88980a9d2bae6c1]: Textual amendment: [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/2/7) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
+[^c-8e0df6f9181a1dc4a88980a9d2bae6c1]: Textual amendment: [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/2/7) repealed (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/68) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(j)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/j)
 
-[^key-c5b33173fa70ac992287b2100ca5bc1b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/3) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-c5b33173fa70ac992287b2100ca5bc1b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/3) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-40c6c083a0996fce7181f0f0e1a18aec]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/3) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-40c6c083a0996fce7181f0f0e1a18aec]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/3) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-08f5685eca55f42438cc6b08946f186c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/4) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-08f5685eca55f42438cc6b08946f186c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/4) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-c5e104843243dc432a3d2d812429bcbc]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/4) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c5e104843243dc432a3d2d812429bcbc]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/4) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-4fd706a7e72c15dc6b41a6ad9245ab20]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/5) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-4fd706a7e72c15dc6b41a6ad9245ab20]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/5) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-692f8beedfa55fc96e5f96307d219dc5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/5) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-692f8beedfa55fc96e5f96307d219dc5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/5) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-66c04f66431797b67ba9e5830848b8d6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/6) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-66c04f66431797b67ba9e5830848b8d6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/6) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-71314596ff51689fde7f8ee0df1fb905]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/6) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-71314596ff51689fde7f8ee0df1fb905]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/6) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-b5b54c5f554b4acc5e00be60f419cd5b]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/7) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-b5b54c5f554b4acc5e00be60f419cd5b]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/7) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-5976fd7bfe08e04da2b8b9eeece59723]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/7) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-5976fd7bfe08e04da2b8b9eeece59723]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2012/21/schedule/2/paragraph/7) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

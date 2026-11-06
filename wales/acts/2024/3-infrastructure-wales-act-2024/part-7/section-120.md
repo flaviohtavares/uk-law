@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Offence of breaching temporary stop notice[^key-c8198397552fd1153f1e5441632f2f76][^key-926864bc7179b0e7902a05787f8bb1c0]
+## 120. Offence of breaching temporary stop notice[^c-c8198397552fd1153f1e5441632f2f76][^c-926864bc7179b0e7902a05787f8bb1c0]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8198397552fd1153f1e5441632f2f76]: Commencement: S. 120 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-c8198397552fd1153f1e5441632f2f76]: Commencement: S. 120 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-926864bc7179b0e7902a05787f8bb1c0]: Commencement: [S. 120](https://www.legislation.gov.uk/asc/2024/3/section/120) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-926864bc7179b0e7902a05787f8bb1c0]: Commencement: [S. 120](https://www.legislation.gov.uk/asc/2024/3/section/120) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

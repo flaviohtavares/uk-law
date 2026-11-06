@@ -35,34 +35,34 @@ on the application of Article 81(3) of the Treaty to certain categories of agre
 
 (Codified version) (revoked)
 
-[^key-5504499d406f752bf5d490b670c9850f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5504499d406f752bf5d490b670c9850f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-5504499d406f752bf5d490b670c9850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5504499d406f752bf5d490b670c9850f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5504499d406f752bf5d490b670c9850f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-5504499d406f752bf5d490b670c9850f]
+## ANNEX I[^c-5504499d406f752bf5d490b670c9850f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-5504499d406f752bf5d490b670c9850f]
+## ANNEX II[^c-5504499d406f752bf5d490b670c9850f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5504499d406f752bf5d490b670c9850f]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(h)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5504499d406f752bf5d490b670c9850f]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(h)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

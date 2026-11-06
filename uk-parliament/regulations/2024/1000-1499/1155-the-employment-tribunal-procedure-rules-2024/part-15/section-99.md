@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 99. Transfer of proceedings from a court[^key-c4e504256c54ca4b4fd30944405b28f6]
+## 99. Transfer of proceedings from a court[^c-c4e504256c54ca4b4fd30944405b28f6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where proceedings are referred to the Tribunal by a court, these Rules apply as 
 
 ## Annotations
 
-[^key-c4e504256c54ca4b4fd30944405b28f6]: Commencement: [Rule 99](https://www.legislation.gov.uk/uksi/2024/1155/rule/99) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-c4e504256c54ca4b4fd30944405b28f6]: Commencement: [Rule 99](https://www.legislation.gov.uk/uksi/2024/1155/rule/99) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

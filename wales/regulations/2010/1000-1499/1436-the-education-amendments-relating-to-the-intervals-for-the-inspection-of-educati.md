@@ -45,21 +45,21 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by section 122(1) and section 138(7) and (8) of, and paragraph 6B(1)(a) of Schedule 26, to the School Standards and Framework Act 1998[^f00001], and in exercise of the powers conferred on the National Assembly for Wales by section 77(2) and (9), section 150 and section 152 of the Learning and Skills Act 2000[^f00002], and in exercise of the powers conferred on the National Assembly of Wales by section 28(1), section 50(4) and (8) and section 120(2) of, and paragraph 2(1) of Schedule 6, to the Education Act 2005[^f00003], and now vested in them make the following Regulations:
 
-## 1. Title, commencement and application[^key-d485c3c69c015ec0b98d0f7cecdc7395]
+## 1. Title, commencement and application[^c-d485c3c69c015ec0b98d0f7cecdc7395]
 
 (1) The title of these Regulations is the Education (Amendments Relating to the Intervals for the Inspection of Education and Training) (Wales) Regulations 2010 and they come into force on 1 September 2010.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Amendment to the Education (Inspection of Nursery Education) (Wales) Regulations 1999[^key-8a4b1b77b6231e7b8c062be6d5b98dc9]
+## 2. Amendment to the Education (Inspection of Nursery Education) (Wales) Regulations 1999[^c-8a4b1b77b6231e7b8c062be6d5b98dc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Inspection of Education and Training (Wales) Regulations 2001[^key-0a34ded47628a9c945e60e6b9df20070]
+## 3. Amendment to the Inspection of Education and Training (Wales) Regulations 2001[^c-0a34ded47628a9c945e60e6b9df20070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the Education (School Inspection) (Wales) Regulations 2006[^key-df64891b01424fc667ae607c26b6c3eb]
+## 4. Amendment to the Education (School Inspection) (Wales) Regulations 2006[^c-df64891b01424fc667ae607c26b6c3eb]
 
 (1) The Education (School Inspection) (Wales) Regulations 2006[^f00006] are amended as follows.
 
@@ -74,7 +74,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 .
 
-## 5. Amendments to the Inspection of the Careers and Related Services (Wales) Regulations 2006[^key-fe09519bbe27fe60bd04f818e09050c3]
+## 5. Amendments to the Inspection of the Careers and Related Services (Wales) Regulations 2006[^c-fe09519bbe27fe60bd04f818e09050c3]
 
 (1) The Inspection of the Careers and Related Services (Wales) Regulations 2006[^f00007] are amended as follows.
 
@@ -119,16 +119,16 @@ so as to require Her Majesty’s Chief Inspector of Education and Training in Wa
 
 [^f00003]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18). The functions of the National Assembly for Wales under these sections were transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-d485c3c69c015ec0b98d0f7cecdc7395]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2010/1436/regulation/1) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1436/regulation/1/1)
+[^c-d485c3c69c015ec0b98d0f7cecdc7395]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2010/1436/regulation/1) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1436/regulation/1/1)
 
-[^key-8a4b1b77b6231e7b8c062be6d5b98dc9]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2010/1436/regulation/2) revoked (1.9.2015) by [The Education (Inspection of Nursery Education) (Wales) Regulations 2015 (S.I. 2015/1599)](https://www.legislation.gov.uk/wsi/2015/1599), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)[(3)(c)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/3/c)
+[^c-8a4b1b77b6231e7b8c062be6d5b98dc9]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2010/1436/regulation/2) revoked (1.9.2015) by [The Education (Inspection of Nursery Education) (Wales) Regulations 2015 (S.I. 2015/1599)](https://www.legislation.gov.uk/wsi/2015/1599), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/1)[(3)(c)](https://www.legislation.gov.uk/wsi/2015/1599/regulation/1/3/c)
 
-[^key-0a34ded47628a9c945e60e6b9df20070]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2010/1436/regulation/3) revoked (1.4.2026) by [The Inspection of Education and Training (Wales) Regulations 2026 (W.S.I. 2026/67)](https://www.legislation.gov.uk/wsi/2026/67), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/67/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/67/regulation/4)
+[^c-0a34ded47628a9c945e60e6b9df20070]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2010/1436/regulation/3) revoked (1.4.2026) by [The Inspection of Education and Training (Wales) Regulations 2026 (W.S.I. 2026/67)](https://www.legislation.gov.uk/wsi/2026/67), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/67/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/67/regulation/4)
 
-[^key-df64891b01424fc667ae607c26b6c3eb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2010/1436/regulation/4) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1436/regulation/1/1)
+[^c-df64891b01424fc667ae607c26b6c3eb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2010/1436/regulation/4) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1436/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [2006/1714 (W.176)](https://www.legislation.gov.uk/wsi/2006/1714).
 
-[^key-fe09519bbe27fe60bd04f818e09050c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2010/1436/regulation/5) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1436/regulation/1/1)
+[^c-fe09519bbe27fe60bd04f818e09050c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2010/1436/regulation/5) in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1436/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [2006/3103 (W.286)](https://www.legislation.gov.uk/wsi/2006/3103).

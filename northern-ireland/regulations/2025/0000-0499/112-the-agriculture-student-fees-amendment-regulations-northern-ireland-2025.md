@@ -46,27 +46,27 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], in exerci
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-cb47db98c21e8d854e3f7df38465ad48]
+### 1. Citation and commencement[^c-cb47db98c21e8d854e3f7df38465ad48]
 
 These Regulations may be cited as the Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 1st September 2025.
 
-### 2. Revocation[^key-4653cbcb387ca29e632023317cdffd20]
+### 2. Revocation[^c-4653cbcb387ca29e632023317cdffd20]
 
 The Agriculture (Student Fees) Amendment Regulations (Northern Ireland) 2024[^f00003] are revoked.
 
-### 3. Amendment of the Agriculture (Student Fees) Regulations (Northern Ireland) 2023[^key-79cb477546574c9590cb32fe07ecd966]
+### 3. Amendment of the Agriculture (Student Fees) Regulations (Northern Ireland) 2023[^c-79cb477546574c9590cb32fe07ecd966]
 
 The Agriculture (Student Fees) Regulations (Northern Ireland) 2023[^f00004] are amended in accordance with regulations 4 to 13.
 
 ## PART 2 — AMENDMENT TO STUDENT FEE AMOUNTS
 
-### 4. Amendment to Schedule 1 (student fee amounts)[^key-690f8374b64237b3b9c43767a9a9f56f]
+### 4. Amendment to Schedule 1 (student fee amounts)[^c-690f8374b64237b3b9c43767a9a9f56f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — AMENDMENTS TO QUALIFYING PERSONS
 
-### 5. Amendments to the definition of “overseas territories”[^key-e68ec4fc2b2c9f675cca37ae223b04c3]
+### 5. Amendments to the definition of “overseas territories”[^c-e68ec4fc2b2c9f675cca37ae223b04c3]
 
 In Part 1 (interpretation) of Schedule 2 (qualifying persons), in paragraph 1(1), in the definition of “overseas territories”—
 
@@ -74,7 +74,7 @@ In Part 1 (interpretation) of Schedule 2 (qualifying persons), in paragraph 1(1)
 - (b) after “British Virgin Islands;”, insert “ the Caribbean part of the Kingdom of the Netherlands (Aruba, Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten);”;
 - (c) omit “Netherlands Antilles (Bonaire, Curaçao, Saba, Sint Eustatius, Sint Maarten); ”.
 
-### 6. Amendments relating to victims of domestic violence or domestic abuse[^key-e5d5f7cae7672d9cb8ce45424224c1ec]
+### 6. Amendments relating to victims of domestic violence or domestic abuse[^c-e5d5f7cae7672d9cb8ce45424224c1ec]
 
 In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph 11 (persons granted indefinite leave to remain as a victim of domestic violence or domestic abuse), including the heading, substitute—
 
@@ -105,7 +105,7 @@ In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph
 
 .
 
-### 7. Amendments relating to persons granted indefinite leave to remain as a bereaved partner[^key-f0921b1203a4381bf4bd06da2c7830f8]
+### 7. Amendments relating to persons granted indefinite leave to remain as a bereaved partner[^c-f0921b1203a4381bf4bd06da2c7830f8]
 
 In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph 13 (persons granted indefinite leave to remain as a bereaved partner), including the heading, substitute—
 
@@ -139,7 +139,7 @@ In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph
 
 .
 
-### 8. Amendments relating to the Afghan Citizens Resettlement Scheme[^key-47319938d72f928310856833f84bd670]
+### 8. Amendments relating to the Afghan Citizens Resettlement Scheme[^c-47319938d72f928310856833f84bd670]
 
 In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph 16 (persons granted leave under the Afghan Citizens Resettlement Scheme), including the heading, substitute—
 
@@ -174,7 +174,7 @@ In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph
 
 .
 
-### 9. Amendments relating to the Afghan Relocations and Assistance Policy Scheme[^key-fa6a6663933731beffe7bbba66aa91e4]
+### 9. Amendments relating to the Afghan Relocations and Assistance Policy Scheme[^c-fa6a6663933731beffe7bbba66aa91e4]
 
 In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph 17 (persons granted leave under the Afghan Relocations and Assistance Policy Scheme), including the heading, substitute—
 
@@ -213,7 +213,7 @@ In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph
 
 .
 
-### 10. Amendments relating to the Homes for Ukraine Sponsorship Scheme[^key-5cb0cf159eba3db2fde19d4eca59250c]
+### 10. Amendments relating to the Homes for Ukraine Sponsorship Scheme[^c-5cb0cf159eba3db2fde19d4eca59250c]
 
 In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph 19 (persons granted leave under the Homes for Ukraine Sponsorship Scheme), including the heading, substitute—
 
@@ -252,7 +252,7 @@ In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph
 
 .
 
-### 11. Amendments relating to the Ukraine Extension Scheme[^key-3db21412e4a651850db722bbe13cfeed]
+### 11. Amendments relating to the Ukraine Extension Scheme[^c-3db21412e4a651850db722bbe13cfeed]
 
 In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph 20 (persons granted leave under the Ukraine Extension Scheme), including the heading, substitute—
 
@@ -287,7 +287,7 @@ In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph
 
 .
 
-### 12. Amendments to the Ukraine Family Scheme[^key-1d5db6649757753f92a1d75ccfa5be88]
+### 12. Amendments to the Ukraine Family Scheme[^c-1d5db6649757753f92a1d75ccfa5be88]
 
 In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph 21 (persons granted leave under the Ukraine Family Scheme), including the heading, substitute—
 
@@ -326,7 +326,7 @@ In Part 3 (special categories) of Schedule 2 (qualifying persons), for paragraph
 
 .
 
-### 13. Amendments relating to the Ukraine Permission Extension Scheme[^key-397f60499a5a39ddf424696b1596804a]
+### 13. Amendments relating to the Ukraine Permission Extension Scheme[^c-397f60499a5a39ddf424696b1596804a]
 
 In Schedule 2 (qualifying persons), after regulation 21, insert—
 
@@ -395,46 +395,46 @@ Part 3 (Amendments to Qualifying Persons) amends the 2023 Regulations in order t
 
 [^f00002]: Footnote: [1949 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1949/2) Section 5A(1) and (2) was inserted by Article 42(1) of the Education (Northern Ireland) Order 2006 ([S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915).
 
-[^key-cb47db98c21e8d854e3f7df38465ad48]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-cb47db98c21e8d854e3f7df38465ad48]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
-[^key-4653cbcb387ca29e632023317cdffd20]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/112/regulation/2) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-4653cbcb387ca29e632023317cdffd20]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/112/regulation/2) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2024 No. 115](https://www.legislation.gov.uk/nisr/2024/115)
 
-[^key-79cb477546574c9590cb32fe07ecd966]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/112/regulation/3) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-79cb477546574c9590cb32fe07ecd966]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/112/regulation/3) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2023 No. 98](https://www.legislation.gov.uk/nisr/2023/98)
 
-[^key-690f8374b64237b3b9c43767a9a9f56f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/112/regulation/4) revoked (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [6](https://www.legislation.gov.uk/nisr/2026/135/regulation/6)
+[^c-690f8374b64237b3b9c43767a9a9f56f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/112/regulation/4) revoked (1.9.2026) by [The Agriculture (Student Fees) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/135)](https://www.legislation.gov.uk/nisr/2026/135), [regs. 1](https://www.legislation.gov.uk/nisr/2026/135/regulation/1), [6](https://www.legislation.gov.uk/nisr/2026/135/regulation/6)
 
-[^key-e68ec4fc2b2c9f675cca37ae223b04c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/112/regulation/5) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-e68ec4fc2b2c9f675cca37ae223b04c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/112/regulation/5) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
-[^key-e5d5f7cae7672d9cb8ce45424224c1ec]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2025/112/regulation/6) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-e5d5f7cae7672d9cb8ce45424224c1ec]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2025/112/regulation/6) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
 [^f00005]: Footnote: The immigration rules can be viewed at https://www.gov.uk/guidance/immigration-rules?msclkid=b1df136cc7ce11ecb8f75116c530e06c
 
-[^key-f0921b1203a4381bf4bd06da2c7830f8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/112/regulation/7) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-f0921b1203a4381bf4bd06da2c7830f8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/112/regulation/7) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
 [^f00006]: Footnote: The immigration rules can be viewed at https://www.gov.uk/guidance/immigration-rules?msclkid=b1df136cc7ce11ecb8f75116c530e06c
 
-[^key-47319938d72f928310856833f84bd670]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2025/112/regulation/8) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-47319938d72f928310856833f84bd670]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2025/112/regulation/8) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
 [^f00007]: Footnote: The immigration rules can be viewed at https://www.gov.uk/guidance/immigration-rules?msclkid=b1df136cc7ce11ecb8f75116c530e06c
 
-[^key-fa6a6663933731beffe7bbba66aa91e4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2025/112/regulation/9) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-fa6a6663933731beffe7bbba66aa91e4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2025/112/regulation/9) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
 [^f00008]: Footnote: The immigration rules can be viewed at https://www.gov.uk/guidance/immigration-rules?msclkid=b1df136cc7ce11ecb8f75116c530e06c
 
-[^key-5cb0cf159eba3db2fde19d4eca59250c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/112/regulation/10) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-5cb0cf159eba3db2fde19d4eca59250c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/112/regulation/10) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
 [^f00009]: Footnote: The immigration rules can be viewed at https://www.gov.uk/guidance/immigration-rules?msclkid=b1df136cc7ce11ecb8f75116c530e06c
 
-[^key-3db21412e4a651850db722bbe13cfeed]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2025/112/regulation/11) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-3db21412e4a651850db722bbe13cfeed]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2025/112/regulation/11) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
 [^f00010]: Footnote: The immigration rules can be viewed at https://www.gov.uk/guidance/immigration-rules?msclkid=b1df136cc7ce11ecb8f75116c530e06c
 
-[^key-1d5db6649757753f92a1d75ccfa5be88]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2025/112/regulation/12) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-1d5db6649757753f92a1d75ccfa5be88]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2025/112/regulation/12) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
 
 [^f00011]: Footnote: The immigration rules can be viewed at https://www.gov.uk/guidance/immigration-rules?msclkid=b1df136cc7ce11ecb8f75116c530e06c
 
-[^key-397f60499a5a39ddf424696b1596804a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2025/112/regulation/13) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)
+[^c-397f60499a5a39ddf424696b1596804a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2025/112/regulation/13) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/112/regulation/1)

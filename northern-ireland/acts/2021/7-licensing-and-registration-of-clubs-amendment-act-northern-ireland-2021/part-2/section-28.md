@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Sporting clubs[^key-b850100eab5b8c11d59c5d60976c37ab][^key-452e2cb58800215130a97fd1e84ad83e]
+## 28. Sporting clubs[^c-b850100eab5b8c11d59c5d60976c37ab][^c-452e2cb58800215130a97fd1e84ad83e]
 
 *Extent: N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b850100eab5b8c11d59c5d60976c37ab]: Commencement: S. 28 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-b850100eab5b8c11d59c5d60976c37ab]: Commencement: S. 28 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-452e2cb58800215130a97fd1e84ad83e]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2021/7/section/28) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-452e2cb58800215130a97fd1e84ad83e]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2021/7/section/28) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

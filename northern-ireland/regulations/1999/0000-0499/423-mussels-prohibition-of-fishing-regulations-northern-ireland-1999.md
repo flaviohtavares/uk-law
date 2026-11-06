@@ -30,7 +30,7 @@ summary: ''
 
 SEA FISHERIES
 
-Mussels (Prohibition of Fishing) Regulations (Northern Ireland) 1999 (revoked)[^key-361a6ac03adfdd9e07288c01c70af2c0]
+Mussels (Prohibition of Fishing) Regulations (Northern Ireland) 1999 (revoked)[^c-361a6ac03adfdd9e07288c01c70af2c0]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 11th November 1999
 
-[^key-361a6ac03adfdd9e07288c01c70af2c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-361a6ac03adfdd9e07288c01c70af2c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-361a6ac03adfdd9e07288c01c70af2c0]
+## 1. Citation and commencement[^c-361a6ac03adfdd9e07288c01c70af2c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-361a6ac03adfdd9e07288c01c70af2c0]
+## 2. Interpretation[^c-361a6ac03adfdd9e07288c01c70af2c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition[^key-361a6ac03adfdd9e07288c01c70af2c0]
+## 3. Prohibition[^c-361a6ac03adfdd9e07288c01c70af2c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemptions[^key-361a6ac03adfdd9e07288c01c70af2c0]
+## 4. Exemptions[^c-361a6ac03adfdd9e07288c01c70af2c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-361a6ac03adfdd9e07288c01c70af2c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-361a6ac03adfdd9e07288c01c70af2c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-361a6ac03adfdd9e07288c01c70af2c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-361a6ac03adfdd9e07288c01c70af2c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-361a6ac03adfdd9e07288c01c70af2c0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/423) revoked (8.2.2013) by [The Mussels (Prohibition of Fishing) Regulations (Northern Ireland) 2013 (S.R. 2013/1)](https://www.legislation.gov.uk/nisr/2013/1), [reg. 7](https://www.legislation.gov.uk/nisr/2013/1/regulation/7) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2013/1/regulation/2/2))
+[^c-361a6ac03adfdd9e07288c01c70af2c0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/423) revoked (8.2.2013) by [The Mussels (Prohibition of Fishing) Regulations (Northern Ireland) 2013 (S.R. 2013/1)](https://www.legislation.gov.uk/nisr/2013/1), [reg. 7](https://www.legislation.gov.uk/nisr/2013/1/regulation/7) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2013/1/regulation/2/2))

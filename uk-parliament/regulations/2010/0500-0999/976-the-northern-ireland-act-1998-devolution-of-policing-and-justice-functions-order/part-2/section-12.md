@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Functions relating to criminal justice[^key-9e4fda60303c07768531705d99363832]
+## 12. Functions relating to criminal justice[^c-9e4fda60303c07768531705d99363832]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 14 (which makes amendments relating to criminal justice) has effect.
 
 ## Annotations
 
-[^key-9e4fda60303c07768531705d99363832]: Commencement: Art. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-9e4fda60303c07768531705d99363832]: Commencement: Art. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

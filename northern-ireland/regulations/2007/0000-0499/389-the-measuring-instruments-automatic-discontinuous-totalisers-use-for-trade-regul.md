@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001] makes the following Regulations in exercise of the powers conferred by Article 13(1) of the Weights and Measures (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-ca6b45d892015d05c9869ae565d1495f]
+## 1. Citation and commencement[^c-ca6b45d892015d05c9869ae565d1495f]
 
 These Regulations may be cited as the Measuring Instruments (Automatic Discontinuous Totalisers) (Use for Trade) Regulations (Northern Ireland) 2007 and shall come into operation on 15th October 2007.
 
-## 2. Interpretation[^key-edf36b2302b81e996e268b8940025a85]
+## 2. Interpretation[^c-edf36b2302b81e996e268b8940025a85]
 
 In these Regulations—
 
@@ -63,11 +63,11 @@ In these Regulations—
 - “put into use” means the first use of an instrument intended for the end user for the purposes for which it was intended; and
 - “semi-automatic zero-setting device” means a device for automatically setting the indication to zero following a manual command.
 
-## 2A.[^key-c18730759c475c566072c6646a5eecb4]
+## 2A.[^c-c18730759c475c566072c6646a5eecb4]
 
 In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
 
-## 3. Application[^key-29192a1f75e5b7a7b1bb21cdc531f2b9]
+## 3. Application[^c-29192a1f75e5b7a7b1bb21cdc531f2b9]
 
 (1) Subject to paragraph (2) and (3), these Regulations apply to an automatic discontinuous totaliser which is—
 
@@ -81,7 +81,7 @@ In these Regulations a reference to member State includes Norway, Iceland or Lie
 
 (3) These Regulations do not apply to an automatic discontinuous totaliser to which the 2006 Regulations do not apply by virtue of regulation 3(3) thereof.
 
-## 4. Requirements for use for trade[^key-2597f826e9e886a064b0e3bd8c93fba5]
+## 4. Requirements for use for trade[^c-2597f826e9e886a064b0e3bd8c93fba5]
 
 A person shall not use for trade an automatic discontinuous totaliser unless—
 
@@ -99,7 +99,7 @@ A person shall not use for trade an automatic discontinuous totaliser unless—
   | 1 | ±1.0% |
   | 2 | ±2.0% |
 
-## 5. Manner of use[^key-da32c4f34ea8163444affc58c9840f35]
+## 5. Manner of use[^c-da32c4f34ea8163444affc58c9840f35]
 
 (1) Where an automatic discontinuous totaliser is marked with a temperature range, it shall not be used for trade in temperatures outside that range.
 
@@ -121,7 +121,7 @@ A person shall not use for trade an automatic discontinuous totaliser unless—
 - (a) in which it may be prevented from operating consistently or accurately; or
 - (b) which are likely prematurely to degrade its metrological characteristics.
 
-## 6. Manner of erection and installation[^key-37937a09d9a578ba1479de631873773c]
+## 6. Manner of erection and installation[^c-37937a09d9a578ba1479de631873773c]
 
 (1) Every automatic discontinuous totaliser shall be so positioned as to facilitate cleaning and testing.
 
@@ -151,20 +151,20 @@ The Regulations have been notified to the European Commission in draft pursuant 
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
-[^key-ca6b45d892015d05c9869ae565d1495f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
+[^c-ca6b45d892015d05c9869ae565d1495f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
 
-[^key-edf36b2302b81e996e268b8940025a85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/389/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
+[^c-edf36b2302b81e996e268b8940025a85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/389/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2006/1255](https://www.legislation.gov.uk/uksi/2006/1255)
 
-[^key-c18730759c475c566072c6646a5eecb4]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/389/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
+[^c-c18730759c475c566072c6646a5eecb4]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/389/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
 
-[^key-29192a1f75e5b7a7b1bb21cdc531f2b9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/389/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
+[^c-29192a1f75e5b7a7b1bb21cdc531f2b9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/389/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1986 No. 311](https://www.legislation.gov.uk/nisr/1986/311), as amended by [S.R. 2004 No. 189](https://www.legislation.gov.uk/nisr/2004/189)
 
-[^key-2597f826e9e886a064b0e3bd8c93fba5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/389/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
+[^c-2597f826e9e886a064b0e3bd8c93fba5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/389/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
 
-[^key-da32c4f34ea8163444affc58c9840f35]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/389/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
+[^c-da32c4f34ea8163444affc58c9840f35]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/389/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
 
-[^key-37937a09d9a578ba1479de631873773c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/389/regulation/6) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)
+[^c-37937a09d9a578ba1479de631873773c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/389/regulation/6) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/389/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Giving effect to the order[^key-0f78efc62600eb8fe1ac8b2ee9d8c037]
+## 22. Giving effect to the order[^c-0f78efc62600eb8fe1ac8b2ee9d8c037]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f78efc62600eb8fe1ac8b2ee9d8c037]: Commencement: S. 22 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/b)
+[^c-0f78efc62600eb8fe1ac8b2ee9d8c037]: Commencement: S. 22 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/b)

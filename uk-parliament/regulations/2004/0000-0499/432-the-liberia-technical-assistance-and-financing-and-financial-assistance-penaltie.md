@@ -87,7 +87,7 @@ he shall be guilty of an offence; and any licence granted in connection with the
 - (a) on conviction on indictment, to a fine or imprisonment for a term not exceeding two years or to both; or
 - (b) on summary conviction, to a fine not exceeding the statutory maximum.
 
-(2)[^key-9e1013e980cde098535395b8b1f58399] Notwithstanding that the offence in regulation 2 above is not, by virtue of the term of imprisonment for which a person may be sentenced in respect of it, an arrestable offence within the meaning of the Police and Criminal Evidence (Northern Ireland Order) 1989, Article 26(2) of that Order (in Northern Ireland) shall apply to the offence as if it were mentioned therein, and the offence shall accordingly be an arrestable offence within the meaning of the Order.
+(2)[^c-9e1013e980cde098535395b8b1f58399] Notwithstanding that the offence in regulation 2 above is not, by virtue of the term of imprisonment for which a person may be sentenced in respect of it, an arrestable offence within the meaning of the Police and Criminal Evidence (Northern Ireland Order) 1989, Article 26(2) of that Order (in Northern Ireland) shall apply to the offence as if it were mentioned therein, and the offence shall accordingly be an arrestable offence within the meaning of the Order.
 
 (3) Section 138 of the Customs and Excise Management Act 1979 (provision as to arrest of persons) shall apply to the arrest of any person for any offence under regulation 2 as it applies to the arrest of any person for any offence under the customs and excise Acts.
 
@@ -123,4 +123,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c5297261]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-9e1013e980cde098535395b8b1f58399]: Textual amendment: Reg. 4(2) substituted (E.W.) (1.1.2006) by [The Serious Organised Crime and Police Act 2005 (Powers of Arrest) (Consequential Amendments) Order 2005 (S.I. 2005/3389)](https://www.legislation.gov.uk/uksi/2005/3389), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3389/article/1/1), [24](https://www.legislation.gov.uk/uksi/2005/3389/article/24)
+[^c-9e1013e980cde098535395b8b1f58399]: Textual amendment: Reg. 4(2) substituted (E.W.) (1.1.2006) by [The Serious Organised Crime and Police Act 2005 (Powers of Arrest) (Consequential Amendments) Order 2005 (S.I. 2005/3389)](https://www.legislation.gov.uk/uksi/2005/3389), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3389/article/1/1), [24](https://www.legislation.gov.uk/uksi/2005/3389/article/24)

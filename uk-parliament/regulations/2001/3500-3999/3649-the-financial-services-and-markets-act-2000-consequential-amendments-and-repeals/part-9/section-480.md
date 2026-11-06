@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 480. Interpretation of the 1994 Regulations: authorised deposit taker[^key-dc0bcbb92f0e97400f3724cee3b0cb3f]
+## 480. Interpretation of the 1994 Regulations: authorised deposit taker[^c-dc0bcbb92f0e97400f3724cee3b0cb3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc0bcbb92f0e97400f3724cee3b0cb3f]: Commencement: Art. 480 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-dc0bcbb92f0e97400f3724cee3b0cb3f]: Commencement: Art. 480 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

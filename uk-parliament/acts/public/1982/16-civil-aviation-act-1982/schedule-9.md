@@ -51,7 +51,7 @@ Section 46.
 
 **8.** For the purpose of assessing compensation under this Schedule, in so far as it is payable in respect of the diminution in the value of an interest in land, section 5 of the [^c2546821]Land Compensation Act 1961, section 12 of the [^c2546831]Land Compensation (Scotland) Act 1963 or section 2 of the [^c2546841]Acquisition of Land (Assessment of Compensation) Act 1919 (which contain rules for assessing compensation) shall (according as the land is in England and Wales, Scotland or Northern Ireland), so far as applicable and subject to any necessary modifications, have effect as it has effect for the purpose of assessing compensation for the compulsory acquisition of land.
 
-**9.** Where any dispute arises as to whether compensation is payable under this Schedule, or as to the amount of any such compensation, or as to the persons to whom it is payable, the dispute shall be referred to and determined by the appropriate tribunal[^key-64eb662987739ae129f000ee45e5d60c].
+**9.** Where any dispute arises as to whether compensation is payable under this Schedule, or as to the amount of any such compensation, or as to the persons to whom it is payable, the dispute shall be referred to and determined by the appropriate tribunal[^c-64eb662987739ae129f000ee45e5d60c].
 
 *Extent: E+W+S*
 
@@ -80,4 +80,4 @@ Section 46.
 
 [^c2546841]: Marginal citation: [1919 c. 57](https://www.legislation.gov.uk/ukpga/1919/57).
 
-[^key-64eb662987739ae129f000ee45e5d60c]: Textual amendment: Words in [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/1982/16/schedule/9/paragraph/9) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 158](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/158) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-64eb662987739ae129f000ee45e5d60c]: Textual amendment: Words in [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/1982/16/schedule/9/paragraph/9) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 158](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/158) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

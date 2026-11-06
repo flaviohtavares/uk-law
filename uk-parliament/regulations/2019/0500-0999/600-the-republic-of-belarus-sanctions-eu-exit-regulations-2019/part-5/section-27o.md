@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27O. Enabling or facilitating military activities[^key-5900c5dd3d6279b8705909e3b0098853]
+## 27O. Enabling or facilitating military activities[^c-5900c5dd3d6279b8705909e3b0098853]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ where such provision enables or facilitates the conduct of military activities c
 
 ## Annotations
 
-[^key-5900c5dd3d6279b8705909e3b0098853]: Textual amendment: [Reg. 27O](https://www.legislation.gov.uk/uksi/2019/600/regulation/27O) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [20(d)](https://www.legislation.gov.uk/uksi/2022/748/regulation/20/d)
+[^c-5900c5dd3d6279b8705909e3b0098853]: Textual amendment: [Reg. 27O](https://www.legislation.gov.uk/uksi/2019/600/regulation/27O) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [20(d)](https://www.legislation.gov.uk/uksi/2022/748/regulation/20/d)

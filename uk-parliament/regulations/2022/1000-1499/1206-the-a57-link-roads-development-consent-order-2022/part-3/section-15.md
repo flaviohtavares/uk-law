@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Permanent stopping up and restriction of use of highways, streets and private means of access[^key-a635a0853972fb6a5831adad4d9ac329]
+## 15. Permanent stopping up and restriction of use of highways, streets and private means of access[^c-a635a0853972fb6a5831adad4d9ac329]
 
 *Extent: E+W+S*
 
-(1) Subject to the provisions of this article, the undertaker may, in connection with the carrying out of the authorised development, stop up each of the highways,[^key-8aaf991c2fd70147295990d1b7ada32d] streets and private means of access specified in column (1) of Parts 1 and 2 of Schedule 4 (permanent stopping up and alteration of highways, streets and private means of access) to the extent specified and described in column (2) of that Schedule.
+(1) Subject to the provisions of this article, the undertaker may, in connection with the carrying out of the authorised development, stop up each of the highways,[^c-8aaf991c2fd70147295990d1b7ada32d] streets and private means of access specified in column (1) of Parts 1 and 2 of Schedule 4 (permanent stopping up and alteration of highways, streets and private means of access) to the extent specified and described in column (2) of that Schedule.
 
-(2) No highway,[^key-1fac9e11f989db71fcdf2d816586839f] street or private means of access specified in column (1) of Parts 1 and 2 of Schedule 4 is to be wholly or partly stopped up under this article unless—
+(2) No highway,[^c-1fac9e11f989db71fcdf2d816586839f] street or private means of access specified in column (1) of Parts 1 and 2 of Schedule 4 is to be wholly or partly stopped up under this article unless—
 
 - (a) the new highway, street or private means of access to be constructed and substituted for it, which is specified in column (3) of those Parts of that Schedule, is open for use and, in the case of a street has been completed to the reasonable satisfaction of the street authority; or
 - (b) a temporary alternative route for the passage of such traffic as could have used the highway, street or private means of access to be stopped up is first provided, to the reasonable satisfaction of the street authority, between the commencement and termination points for the stopping up of the highway, street or private means of access and subsequently maintained by the undertaker to the reasonable satisfaction of the street authority, until the completion and opening of the new highway, street or private means of access in accordance with sub-paragraph (a).
 
-(3) Where a highway,[^key-b9fbcc548c0b2cf9cb8159bb71eb09f5] street or private means of access has been stopped up under this article—
+(3) Where a highway,[^c-b9fbcc548c0b2cf9cb8159bb71eb09f5] street or private means of access has been stopped up under this article—
 
 - (a) all rights of way over or along the highway, street or private means of access so stopped up are extinguished; and
 - (b) the undertaker may appropriate and use for the purposes of the authorised development so much of the site of the highway, street or private means of access as is bounded on both sides by land owned by the undertaker.
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a635a0853972fb6a5831adad4d9ac329]: Commencement: Art. 15 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-a635a0853972fb6a5831adad4d9ac329]: Commencement: Art. 15 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
-[^key-8aaf991c2fd70147295990d1b7ada32d]: Textual amendment: Word in [art. 15(1)](https://www.legislation.gov.uk/uksi/2022/1206/article/15/1) inserted (2.2.2024) by [The A57 Link Roads Development Consent (Correction) Order 2024 (S.I. 2024/116)](https://www.legislation.gov.uk/uksi/2024/116), [arts. 1](https://www.legislation.gov.uk/uksi/2024/116/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/116/article/2/3)
+[^c-8aaf991c2fd70147295990d1b7ada32d]: Textual amendment: Word in [art. 15(1)](https://www.legislation.gov.uk/uksi/2022/1206/article/15/1) inserted (2.2.2024) by [The A57 Link Roads Development Consent (Correction) Order 2024 (S.I. 2024/116)](https://www.legislation.gov.uk/uksi/2024/116), [arts. 1](https://www.legislation.gov.uk/uksi/2024/116/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/116/article/2/3)
 
-[^key-1fac9e11f989db71fcdf2d816586839f]: Textual amendment: Word in [art. 15(2)](https://www.legislation.gov.uk/uksi/2022/1206/article/15/2) inserted (2.2.2024) by [The A57 Link Roads Development Consent (Correction) Order 2024 (S.I. 2024/116)](https://www.legislation.gov.uk/uksi/2024/116), [arts. 1](https://www.legislation.gov.uk/uksi/2024/116/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/116/article/2/4)
+[^c-1fac9e11f989db71fcdf2d816586839f]: Textual amendment: Word in [art. 15(2)](https://www.legislation.gov.uk/uksi/2022/1206/article/15/2) inserted (2.2.2024) by [The A57 Link Roads Development Consent (Correction) Order 2024 (S.I. 2024/116)](https://www.legislation.gov.uk/uksi/2024/116), [arts. 1](https://www.legislation.gov.uk/uksi/2024/116/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/116/article/2/4)
 
-[^key-b9fbcc548c0b2cf9cb8159bb71eb09f5]: Textual amendment: Word in [art. 15(3)](https://www.legislation.gov.uk/uksi/2022/1206/article/15/3) inserted (2.2.2024) by [The A57 Link Roads Development Consent (Correction) Order 2024 (S.I. 2024/116)](https://www.legislation.gov.uk/uksi/2024/116), [arts. 1](https://www.legislation.gov.uk/uksi/2024/116/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/116/article/2/4)
+[^c-b9fbcc548c0b2cf9cb8159bb71eb09f5]: Textual amendment: Word in [art. 15(3)](https://www.legislation.gov.uk/uksi/2022/1206/article/15/3) inserted (2.2.2024) by [The A57 Link Roads Development Consent (Correction) Order 2024 (S.I. 2024/116)](https://www.legislation.gov.uk/uksi/2024/116), [arts. 1](https://www.legislation.gov.uk/uksi/2024/116/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/116/article/2/4)

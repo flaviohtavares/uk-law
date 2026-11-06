@@ -50,15 +50,15 @@ The Secretary of State for Transport makes these Regulations in exercise of the 
 
 The Secretary of State for Transport has consulted with representative organisations in accordance with section 195(2) of the Road Traffic Act 1988.
 
-## 1. Citation and commencement[^key-e8cd0d58a10914db2b2cba65a8eed57f]
+## 1. Citation and commencement[^c-e8cd0d58a10914db2b2cba65a8eed57f]
 
 These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations 2008 and shall come into force on 16<sup>th</sup> May 2008.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations 1999[^key-4bc76115d6b99a0ce81901b558146891]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations 1999[^c-4bc76115d6b99a0ce81901b558146891]
 
 The Motor Vehicles (Driving Licences) Regulations 1999[^f00004] are amended in accordance with regulation 3.
 
-**3.**[^key-7f92cb48a7f7dd53330ec3a2608289e6] In the table of driving licence fees in Part 1 of Schedule 3 after the entry numbered 11 insert a new entry, and in respect of that new entry—
+**3.**[^c-7f92cb48a7f7dd53330ec3a2608289e6] In the table of driving licence fees in Part 1 of Schedule 3 after the entry numbered 11 insert a new entry, and in respect of that new entry—
 
 - (a) in the column headed “No.” insert “12”;
 - (b) in the column headed “Description of licence and circumstances of application” insert “A photocard licence granted in exchange for a photocard licence which has been surrendered in pursuance of section 99(2A) of the Traffic Act[^f00005]”; and
@@ -106,12 +106,12 @@ A full impact assessment has not been produced for this instrument. However, a f
 
 [^f00003]: Footnote: As required by section 105(4) of the 1988 Act.
 
-[^key-e8cd0d58a10914db2b2cba65a8eed57f]: Commencement: Reg. 1 in force at 16.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1038/regulation/1)
+[^c-e8cd0d58a10914db2b2cba65a8eed57f]: Commencement: Reg. 1 in force at 16.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1038/regulation/1)
 
-[^key-4bc76115d6b99a0ce81901b558146891]: Commencement: Reg. 2 in force at 16.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1038/regulation/1)
+[^c-4bc76115d6b99a0ce81901b558146891]: Commencement: Reg. 2 in force at 16.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1038/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864) (in these footnotes the “1999 Regulations”); relevant amending instruments are [S.I. 2004/265](https://www.legislation.gov.uk/uksi/2004/265), [S.I. 2007/698](https://www.legislation.gov.uk/uksi/2007/698) and [S.I. 2008/508](https://www.legislation.gov.uk/uksi/2008/508).
 
-[^key-7f92cb48a7f7dd53330ec3a2608289e6]: Commencement: Reg. 3 in force at 16.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1038/regulation/1)
+[^c-7f92cb48a7f7dd53330ec3a2608289e6]: Commencement: Reg. 3 in force at 16.5.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/1038/regulation/1)
 
 [^f00005]: Footnote: i.e. the 1988 Act in accordance with the definition of “Traffic Act” in regulation 3 of the 1999 Regulations. Section 99(2A) was inserted by the 1998 Regulations, regulations 2 and 8.

@@ -43,13 +43,13 @@ The Department of Health, Social Services and Public Safety makes the following 
 
 In accordance with Article 12(4) of that Order the Department has consulted with such representatives of persons likely to be affected by these Regulations as appear to the Department to be appropriate.
 
-## 1. Citation, commencement and interpretation[^key-f1c9896939332dac8ba9bdd397333771]
+## 1. Citation, commencement and interpretation[^c-f1c9896939332dac8ba9bdd397333771]
 
 (1) These Regulations may be cited as the Health and Personal Social Services (Superannuation) (Amendment) Regulations (Northern Ireland) 2008, and shall come into operation on 9th April 2008, and shall have effect from 1st April 2008, except for regulation 64(2) and (3), which shall have effect from 1st April 2003.
 
 (2) The Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00002] are amended as provided by regulations (2) to (64).
 
-## 2. Amendment of regulation 2[^key-86e75f507f1ac002cb846d67027bc7b0]
+## 2. Amendment of regulation 2[^c-86e75f507f1ac002cb846d67027bc7b0]
 
 (1) In regulation 2 (Interpretation) insert the following definitions in the appropriate place in alphabetical order—
 
@@ -73,9 +73,9 @@ In accordance with Article 12(4) of that Order the Department has consulted with
 
 .
 
-(4)[^key-7dda2174a6b3bc3fd89d52dc65c181d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7dda2174a6b3bc3fd89d52dc65c181d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 3[^key-a4208596bc800c57c2fdf36eb9b2d389]
+## 3. Amendment of regulation 3[^c-a4208596bc800c57c2fdf36eb9b2d389]
 
 (1) Regulation 3 (Meaning of “superannuable pay”) is amended as provided by paragraphs (2) to (6).
 
@@ -128,7 +128,7 @@ In accordance with Article 12(4) of that Order the Department has consulted with
 
 .
 
-## 4. Amendment of regulation 4[^key-0e1c9cff2b25fea5a0039b5c153906eb]
+## 4. Amendment of regulation 4[^c-0e1c9cff2b25fea5a0039b5c153906eb]
 
 (1) Regulation 4 (Meaning of “superannuable service”) is amended as provided by paragraphs (2) and (3).
 
@@ -151,7 +151,7 @@ In accordance with Article 12(4) of that Order the Department has consulted with
 
 .
 
-## 5. Amendment of regulation 7[^key-fc0be8079706c52125d71242e6eea4b1]
+## 5. Amendment of regulation 7[^c-fc0be8079706c52125d71242e6eea4b1]
 
 For regulation 7 (Restrictions on membership) substitute—
 
@@ -200,7 +200,7 @@ For regulation 7 (Restrictions on membership) substitute—
 
 .
 
-## 6. Amendment of regulation 8[^key-9a5aa43565789b4f490353ba9a275aa4]
+## 6. Amendment of regulation 8[^c-9a5aa43565789b4f490353ba9a275aa4]
 
 (1) Regulation 8 (Restriction on further participation in the scheme) is amended as provided by paragraphs (2) and (3).
 
@@ -208,7 +208,7 @@ For regulation 7 (Restrictions on membership) substitute—
 
 (3) In paragraph (2), after 13(11) insert “or 13A(11)”.
 
-## 7. Amendment of regulation 10[^key-8300001e73464aa14dbde4887b7b07a5]
+## 7. Amendment of regulation 10[^c-8300001e73464aa14dbde4887b7b07a5]
 
 (1) Regulation 10 (Contributions by members) is amended as provided by paragraphs (1) to (3).
 
@@ -407,7 +407,7 @@ For regulation 7 (Restrictions on membership) substitute—
 - (a) for “70” substitute “75”;
 - (b) omit “and reaches age 65”.
 
-## 8. Amendment of regulation 11[^key-96d647480577314203295227b3335341]
+## 8. Amendment of regulation 11[^c-96d647480577314203295227b3335341]
 
 (1) Regulation 11 (Contributions by employing authorities) is amended as provided by paragraphs (2) and (3).
 
@@ -421,7 +421,7 @@ For regulation 7 (Restrictions on membership) substitute—
 
 (3) In paragraph (7)(a) and (b)[^f00007], omit “or 15”.
 
-## 9. Amendment of regulation 12[^key-5bd86f8a8a7f4b2466993684e8ba69cf]
+## 9. Amendment of regulation 12[^c-5bd86f8a8a7f4b2466993684e8ba69cf]
 
 (1) Regulation 12 (Normal retirement pension) is amended as provided by paragraphs (2) and (3).
 
@@ -447,7 +447,7 @@ For regulation 7 (Restrictions on membership) substitute—
 
 .
 
-## 10. Amendment of regulation 13[^key-06509b0ef818b754b17fadf3258c47f4]
+## 10. Amendment of regulation 13[^c-06509b0ef818b754b17fadf3258c47f4]
 
 (1) Regulation 13 (Early retirement pension (ill-health)) is amended as provided by paragraphs (2) to (5).
 
@@ -472,7 +472,7 @@ For regulation 7 (Restrictions on membership) substitute—
 
 .
 
-## 11. Insertion of new regulations 13A, 13B and 13C[^key-0f8a80491948a631691576953e7f8977]
+## 11. Insertion of new regulations 13A, 13B and 13C[^c-0f8a80491948a631691576953e7f8977]
 
 After regulation 13 insert—
 
@@ -643,7 +643,7 @@ After regulation 13 insert—
 
 .
 
-## 12. Amendment of regulation 14[^key-5c5837c1a993a26f5eec5b472cad4225]
+## 12. Amendment of regulation 14[^c-5c5837c1a993a26f5eec5b472cad4225]
 
 After paragraph (1)(a)(ii) of regulation 14[^f00008] (Early retirement pension (redundancy etc)) insert—
 
@@ -651,11 +651,11 @@ After paragraph (1)(a)(ii) of regulation 14[^f00008] (Early retirement pension (
 
 .
 
-## 13. Omission of regulation 15[^key-8c230fc868c49f1ecbb347a97e7617c0]
+## 13. Omission of regulation 15[^c-8c230fc868c49f1ecbb347a97e7617c0]
 
 Regulation 15 (Early retirement pension (employer’s consent)) is omitted.
 
-## 14. Insertion of new regulation 17A[^key-757fc9647abaffe5ca59132cc69787da]
+## 14. Insertion of new regulation 17A[^c-757fc9647abaffe5ca59132cc69787da]
 
 After regulation 17 (Lump sum on retirement) insert—
 
@@ -682,7 +682,7 @@ After regulation 17 (Lump sum on retirement) insert—
 
 .
 
-## 15. Amendment of regulation 18[^key-3407f99e5bd15a3e8489803c23f21465]
+## 15. Amendment of regulation 18[^c-3407f99e5bd15a3e8489803c23f21465]
 
 (1) Regulation 18 (Member dies in superannuable employment) is amended as provided by paragraphs (2) to (4).
 
@@ -701,7 +701,7 @@ After regulation 17 (Lump sum on retirement) insert—
 
 .
 
-## 16. Amendment of regulation 19[^key-f293955003b1578c9ea0a7bfe1723cfc]
+## 16. Amendment of regulation 19[^c-f293955003b1578c9ea0a7bfe1723cfc]
 
 (1) Regulation 19 (Member dies after pension becomes payable) is amended as provided by paragraphs (2) and (3).
 
@@ -719,7 +719,7 @@ After regulation 17 (Lump sum on retirement) insert—
 
 .
 
-## 17. Substitution of regulation 22[^key-7ac01e7d1a53d1b9f1df634d4d6f0f71]
+## 17. Substitution of regulation 22[^c-7ac01e7d1a53d1b9f1df634d4d6f0f71]
 
 For regulation 22 (Payment of lump sum) substitute—
 
@@ -793,13 +793,13 @@ For regulation 22 (Payment of lump sum) substitute—
 
 .
 
-## 18. Substitution of section heading “Widows and Widowers”[^key-0f73729db3df622944e17e8ad72e5ae9]
+## 18. Substitution of section heading “Widows and Widowers”[^c-0f73729db3df622944e17e8ad72e5ae9]
 
 For the heading before regulation 23 substitute—
 
 > - SURVIVING PARTNER PENSIONS
 
-## 19. Amendment of regulation 23[^key-c6829dc147a8fca0205ff1be5a284da8]
+## 19. Amendment of regulation 23[^c-c6829dc147a8fca0205ff1be5a284da8]
 
 After paragraph (1) of regulation 23 (Widow’s pension) insert—
 
@@ -807,7 +807,7 @@ After paragraph (1) of regulation 23 (Widow’s pension) insert—
 
 .
 
-## 20. Amendment of regulation 24[^key-677b6316970d597ee50e3ae72d0b0b87]
+## 20. Amendment of regulation 24[^c-677b6316970d597ee50e3ae72d0b0b87]
 
 (1) Regulation 24 (Member dies in superannuable employment) is amended as provided by paragraphs (2) to (5).
 
@@ -843,7 +843,7 @@ After paragraph (1) of regulation 23 (Widow’s pension) insert—
 
 .
 
-## 21. Amendment of regulation 25[^key-c038bd9be3e66cfa5949b96b65f1aace]
+## 21. Amendment of regulation 25[^c-c038bd9be3e66cfa5949b96b65f1aace]
 
 After paragraph (5) of regulation 25 (Member dies after pension becomes payable) add—
 
@@ -853,7 +853,7 @@ After paragraph (5) of regulation 25 (Member dies after pension becomes payable)
 
 .
 
-## 22. Amendment of regulation 26[^key-89141c9c99d1ada9afa1d2d74fbe03ac]
+## 22. Amendment of regulation 26[^c-89141c9c99d1ada9afa1d2d74fbe03ac]
 
 For paragraph (2) of regulation 26 (Member dies with preserved pension) substitute—
 
@@ -863,7 +863,7 @@ For paragraph (2) of regulation 26 (Member dies with preserved pension) substitu
 
 .
 
-## 23. Amendment of regulation 29[^key-6d75ebbfd95a1547382bf95fb76f10d8]
+## 23. Amendment of regulation 29[^c-6d75ebbfd95a1547382bf95fb76f10d8]
 
 For paragraph (4) of regulation 29 (Widower’s pension) substitute—
 
@@ -874,11 +874,11 @@ For paragraph (4) of regulation 29 (Widower’s pension) substitute—
 
 .
 
-## 24. Amendment of regulation 30[^key-e25f3f4101a042ebf29d6f6ca7a363e2]
+## 24. Amendment of regulation 30[^c-e25f3f4101a042ebf29d6f6ca7a363e2]
 
 In paragraph (6) of regulation 30 (Dependent’s widowers pension) after “regulation 13(10)”, insert “, regulation 13A(10)”.
 
-## 25. Amendment of regulation 31[^key-52c1c1e2f9129290e406238881095cbd]
+## 25. Amendment of regulation 31[^c-52c1c1e2f9129290e406238881095cbd]
 
 (1) Regulation 31 (Increased widower’s pension) is amended as provided by paragraphs (2) and (3).
 
@@ -895,7 +895,7 @@ In paragraph (6) of regulation 30 (Dependent’s widowers pension) after “regu
 
 .
 
-## 26. Amendment of regulation 31A[^key-fdc0cf978bf5c4c6ed1b2ddfb7aaec39]
+## 26. Amendment of regulation 31A[^c-fdc0cf978bf5c4c6ed1b2ddfb7aaec39]
 
 For paragraph (4) of regulation 31A (Surviving civil partner’s pension) substitute—
 
@@ -906,11 +906,11 @@ For paragraph (4) of regulation 31A (Surviving civil partner’s pension) substi
 
 .
 
-## 27. Amendment of regulation 31B[^key-7b1659ac3f20bdd8a475cb933e27e4f7]
+## 27. Amendment of regulation 31B[^c-7b1659ac3f20bdd8a475cb933e27e4f7]
 
 In paragraph (6) of regulation 31B (Dependent surviving civil partner’s pension), after “regulation 13(10)”, insert “, regulation 13A(10)”.
 
-## 28. Amendment of regulation 31D[^key-90117f9cf4bb616ca23d51cf678f718c]
+## 28. Amendment of regulation 31D[^c-90117f9cf4bb616ca23d51cf678f718c]
 
 (1) Regulation 31D (Increased surviving civil partner’s pension) is amended as provided by paragraphs (2) and (3).
 
@@ -927,7 +927,7 @@ In paragraph (6) of regulation 31B (Dependent surviving civil partner’s pensio
 
 .
 
-## 29. Insertion of new regulations 31E — 31H[^key-e1a42febdf84d04008bad69d10ef67c2]
+## 29. Insertion of new regulations 31E — 31H[^c-e1a42febdf84d04008bad69d10ef67c2]
 
 After regulation 31D insert—
 
@@ -1020,7 +1020,7 @@ After regulation 31D insert—
 
 .
 
-## 30. Amendment of regulation 32[^key-8d5419c402d584b5987ee49c9a352fea]
+## 30. Amendment of regulation 32[^c-8d5419c402d584b5987ee49c9a352fea]
 
 (1) Regulation 32 (Dependent child) is amended as provided by paragraphs (2) to (5).
 
@@ -1046,7 +1046,7 @@ After regulation 31D insert—
 
 (5) In paragraph (5) omit the words from “(calculated” to “omitted)”.
 
-## 31. Amendment of regulation 34[^key-a15cc5ddb980892b83676b38ce8d7d6b]
+## 31. Amendment of regulation 34[^c-a15cc5ddb980892b83676b38ce8d7d6b]
 
 (1) Regulation 34 (Member dies in superannuable employment) is amended as provided by paragraphs (2) to (6).
 
@@ -1095,7 +1095,7 @@ After regulation 31D insert—
 
 .
 
-## 32. Amendment of regulation 35[^key-fea30ba507b9c7cc2c1675b4e21d0fed]
+## 32. Amendment of regulation 35[^c-fea30ba507b9c7cc2c1675b4e21d0fed]
 
 (1) Regulation 35 (Member dies after pension becomes payable) is amended as provided by paragraphs (2) to (4).
 
@@ -1120,7 +1120,7 @@ After regulation 31D insert—
 
 .
 
-## 33. Amendment of regulation 36[^key-1ffa9b8e910bf56124442653609a95b3]
+## 33. Amendment of regulation 36[^c-1ffa9b8e910bf56124442653609a95b3]
 
 (1) Regulation 36 (Member dies with preserved pension) is amended as provided by paragraphs (2) to (6).
 
@@ -1161,11 +1161,11 @@ After regulation 31D insert—
 - (a) after “or civil partner” insert “or nominated partner”;
 - (b) for “or surviving civil partner's” substitute “, surviving civil partner’s or surviving nominated partner's”.
 
-## 34. Amendment of regulation 38[^key-6966ce80665c28dbe022b15cb94296b3]
+## 34. Amendment of regulation 38[^c-6966ce80665c28dbe022b15cb94296b3]
 
 In regulation 38[^f00016] after “civil partner” (where three times occurring), insert “or nominated partner”.
 
-## 35. Amendment of regulation 39[^key-4832fd4ae5ed74953068c41f8edb8c92]
+## 35. Amendment of regulation 39[^c-4832fd4ae5ed74953068c41f8edb8c92]
 
 For paragraph (4)(b) of regulation 39 (Allocation of pension) substitute—
 
@@ -1175,7 +1175,7 @@ For paragraph (4)(b) of regulation 39 (Allocation of pension) substitute—
 
 .
 
-## 36. Substitution of regulation 42[^key-91e0959f04810a26f6b4f1365b6174bd]
+## 36. Substitution of regulation 42[^c-91e0959f04810a26f6b4f1365b6174bd]
 
 For regulation 42 (Contracting-out conditions to be overriding) substitute—
 
@@ -1198,7 +1198,7 @@ For regulation 42 (Contracting-out conditions to be overriding) substitute—
 
 .
 
-## 37. Amendment of regulation 43[^key-f68dd04eabe0d128ea9ded15a0fdf3cb]
+## 37. Amendment of regulation 43[^c-f68dd04eabe0d128ea9ded15a0fdf3cb]
 
 (1) Regulation 43 (Guaranteed minimum pensions) is amended as provided by paragraphs (2) to (5).
 
@@ -1229,7 +1229,7 @@ For regulation 42 (Contracting-out conditions to be overriding) substitute—
 
 .
 
-## 38. Amendment of regulation 49[^key-da0d959a7054cbd3e7f81e4e3095e344]
+## 38. Amendment of regulation 49[^c-da0d959a7054cbd3e7f81e4e3095e344]
 
 (1) Regulation 49 (Preserved pension) is amended as provided by paragraphs (2) to (5).
 
@@ -1311,7 +1311,7 @@ For regulation 42 (Contracting-out conditions to be overriding) substitute—
 
 .
 
-## 39. Amendment of regulation 50[^key-f5c7f99c30f524942f397bb3a5b64db3]
+## 39. Amendment of regulation 50[^c-f5c7f99c30f524942f397bb3a5b64db3]
 
 For paragraph (3) of regulation 50 (Refund of contributions) substitute—
 
@@ -1319,11 +1319,11 @@ For paragraph (3) of regulation 50 (Refund of contributions) substitute—
 
 .
 
-## 40. Amendment of regulation 52[^key-5403706f4f260fd42523b8ce8f9d9f71]
+## 40. Amendment of regulation 52[^c-5403706f4f260fd42523b8ce8f9d9f71]
 
 In paragraph (3)(b) of regulation 52 (Early leavers returning to superannuable employment), for “(Early retirement pension (ill-health))” substitute “or 13A”.
 
-## 41. Substitution of Regulations 53 to 59[^key-e48e246a31ed10c9f4af5d09325ae0e9]
+## 41. Substitution of Regulations 53 to 59[^c-e48e246a31ed10c9f4af5d09325ae0e9]
 
 For regulations 53 to 59 substitute—
 
@@ -1467,15 +1467,15 @@ For regulations 53 to 59 substitute—
 
 .
 
-## 42. Amendment of regulation 60[^key-2170124a8a3ac7e0d8c1813106a9cd01]
+## 42. Amendment of regulation 60[^c-2170124a8a3ac7e0d8c1813106a9cd01]
 
 In paragraph (2)(b) of regulation 60 (Member’s right to transfer accrued rights to benefits to the scheme), after “amount of the transfer payment” insert “that relates to rights accrued in the transferring scheme before 6th April 1997”.
 
-## 43. Omission of regulation 64[^key-a2a1b9c2c3e4d7b7c176e1ace764e34e]
+## 43. Omission of regulation 64[^c-a2a1b9c2c3e4d7b7c176e1ace764e34e]
 
 Regulation 64 (Waiver of transfer payment) is omitted.
 
-## 44. Amendment of regulation 66[^key-27aa0b0564e5ff5a95add2a83feeadfc]
+## 44. Amendment of regulation 66[^c-27aa0b0564e5ff5a95add2a83feeadfc]
 
 In regulation 66 (Other leave of absence), for paragraphs (1) and (2), substitute—
 
@@ -1485,7 +1485,7 @@ In regulation 66 (Other leave of absence), for paragraphs (1) and (2), substitut
 
 .
 
-## 45. Amendment of regulation 67[^key-027e319ef01422a5327806bc6f2dd8f5]
+## 45. Amendment of regulation 67[^c-027e319ef01422a5327806bc6f2dd8f5]
 
 (1) Regulation 67 (Right to buy additional service) is amended as provided by paragraphs (2) to (6).
 
@@ -1521,11 +1521,11 @@ In regulation 66 (Other leave of absence), for paragraphs (1) and (2), substitut
 
 (6) In paragraph (11), omit the definition of “tax year”.
 
-## 46. Amendment of regulation 68[^key-5b99d4018729f7aff1054cb398b83a07]
+## 46. Amendment of regulation 68[^c-5b99d4018729f7aff1054cb398b83a07]
 
 In paragraph (1)[^f00019] of regulation 68 (Right to buy an unreduced retirement lump sum) omit “or in a civil partnership”.
 
-## 47. Amendment of regulation 70[^key-1c3d9f493023db822c0e3582e2b1ea0c]
+## 47. Amendment of regulation 70[^c-1c3d9f493023db822c0e3582e2b1ea0c]
 
 (1) Regulation 70 (Paying for additional service by single payment) is amended as provided by paragraphs (2) to (5).
 
@@ -1545,7 +1545,7 @@ In paragraph (1)[^f00019] of regulation 68 (Right to buy an unreduced retirement
 
 (5) Omit paragraph (7).
 
-## 48. Amendment of regulation 71[^key-b8bd3e4ee0203a2d97ec63700eff3751]
+## 48. Amendment of regulation 71[^c-b8bd3e4ee0203a2d97ec63700eff3751]
 
 After paragraph (2A) of regulation 71 (Paying for unreduced lump sum by single payment) insert—
 
@@ -1553,7 +1553,7 @@ After paragraph (2A) of regulation 71 (Paying for unreduced lump sum by single p
 
 .
 
-## 49. Amendment of regulation 72[^key-be508a14a68e0c5ba0c4d32a27b24071]
+## 49. Amendment of regulation 72[^c-be508a14a68e0c5ba0c4d32a27b24071]
 
 (1) Regulation 72 (Paying for additional service or unreduced retirement lump sum by regular additional contributions) is amended as provided by paragraphs (2) and (3).
 
@@ -1569,7 +1569,7 @@ After paragraph (2A) of regulation 71 (Paying for unreduced lump sum by single p
 
 .
 
-## 50. Amendment of regulation 73[^key-149f38d49a944b186fedbff2c5cd4edf]
+## 50. Amendment of regulation 73[^c-149f38d49a944b186fedbff2c5cd4edf]
 
 (1) Regulation 73 (Part payment for additional service or unreduced retirement lump sum) is amended as provided by paragraphs (2) and (3).
 
@@ -1577,7 +1577,7 @@ After paragraph (2A) of regulation 71 (Paying for unreduced lump sum by single p
 
 (3) In paragraph (3), after “13”, insert “or 13A”.
 
-## 51. Insertion of new regulations 73A to 73J[^key-7d49816ba368e1cd00d82551960df87d]
+## 51. Insertion of new regulations 73A to 73J[^c-7d49816ba368e1cd00d82551960df87d]
 
 After regulation 73 (Part payment for additional service or unreduced retirement lump sum) insert—
 
@@ -1857,18 +1857,18 @@ After regulation 73 (Part payment for additional service or unreduced retirement
 
 .
 
-## 52. Amendment of regulation 76[^key-91da2f01140675bca7aafd42522909f3]
+## 52. Amendment of regulation 76[^c-91da2f01140675bca7aafd42522909f3]
 
 In paragraph (7) of regulation 76 (Mental health officers)—
 
 - (a) in sub-paragraph (a) for “(Early retirement pension (ill-health))” substitute “or 13A” ;
 - (b) in sub-paragraph (b) for “or surviving civil partner's” substitute “, surviving civil partners or surviving nominated partner's”.
 
-## 53. Amendment of regulation 77[^key-c25c9cf414df53c7ed205ccaacc70e1d]
+## 53. Amendment of regulation 77[^c-c25c9cf414df53c7ed205ccaacc70e1d]
 
 In paragraph (5) of regulation 77 (Members doing more than one job), for “70” substitute “75”.
 
-## 54. Amendment of regulation 78[^key-10aedf2e5adf1d784b07ab95b5b871fe]
+## 54. Amendment of regulation 78[^c-10aedf2e5adf1d784b07ab95b5b871fe]
 
 For paragraph (6) of regulation 78 (Part-time employment) substitute—
 
@@ -1881,7 +1881,7 @@ For paragraph (6) of regulation 78 (Part-time employment) substitute—
 
 .
 
-## 55. Amendment of regulation 82[^key-7732deebc5acc4ab71b7fa2bbbbd1354]
+## 55. Amendment of regulation 82[^c-7732deebc5acc4ab71b7fa2bbbbd1354]
 
 (1) Regulation 82 (Members whose earnings are reduced) is amended as provided by paragraphs (2) to (6).
 
@@ -1936,7 +1936,7 @@ For paragraph (6) of regulation 78 (Part-time employment) substitute—
 
 .
 
-## 56. Amendment of regulation 84[^key-ec1b213957d637cef66ff50e642f71d0]
+## 56. Amendment of regulation 84[^c-ec1b213957d637cef66ff50e642f71d0]
 
 For paragraph (4) of regulation 84 (Suspension of pension on return to HPSS employment) substitute—
 
@@ -1947,7 +1947,7 @@ For paragraph (4) of regulation 84 (Suspension of pension on return to HPSS empl
 
 .
 
-## 57. Amendment of regulation 85[^key-199c54efea9c9409018a0bbb5a92d2fe]
+## 57. Amendment of regulation 85[^c-199c54efea9c9409018a0bbb5a92d2fe]
 
 (1) Regulation 85 (Reduction of pension on return to HPSS employment) is amended as provided by paragraphs (2) to (5).
 
@@ -2018,7 +2018,7 @@ For paragraph (4) of regulation 84 (Suspension of pension on return to HPSS empl
 
 .
 
-## 58. Insertion of new regulation 86A[^key-99f39634f2a471e84964e968b063c989]
+## 58. Insertion of new regulation 86A[^c-99f39634f2a471e84964e968b063c989]
 
 After regulation 86 (Benefits in respect of superannuable employment after pension becomes payable) insert—
 
@@ -2049,11 +2049,11 @@ After regulation 86 (Benefits in respect of superannuable employment after pensi
 
 .
 
-## 59. Amendment of heading to regulation 87[^key-94e815cb16e8612a563e636de6a7c3c3]
+## 59. Amendment of heading to regulation 87[^c-94e815cb16e8612a563e636de6a7c3c3]
 
 In the heading to regulation 87 (Benefits on death in superannuable employment after pension becomes payable), after “pension” insert “under regulation 13”.
 
-## 60. Amendment of regulation 87[^key-9fa24c51cc060996274f14772d072c21]
+## 60. Amendment of regulation 87[^c-9fa24c51cc060996274f14772d072c21]
 
 In regulation 87, for paragraphs (4) to (9) substitute—
 
@@ -2104,7 +2104,7 @@ In regulation 87, for paragraphs (4) to (9) substitute—
 
 .
 
-## 61. Insertion of new regulation 87A[^key-e9f3ba224f7a2b2108eb78261a15f668]
+## 61. Insertion of new regulation 87A[^c-e9f3ba224f7a2b2108eb78261a15f668]
 
 After regulation 87 insert—
 
@@ -2165,7 +2165,7 @@ After regulation 87 insert—
 
 .
 
-## 62. Amendment of regulation 89A[^key-d3ae2c009ead450b45c88906239cecaf]
+## 62. Amendment of regulation 89A[^c-d3ae2c009ead450b45c88906239cecaf]
 
 (1) Regulation 89A (Deduction of tax: further provisions) is amended as provided by paragraphs (2) and (3).
 
@@ -2177,7 +2177,7 @@ After regulation 87 insert—
 
 .
 
-## 63. Amendment of Schedule 2[^key-40cb11d1a4fcaf740c4a4eaa05747379]
+## 63. Amendment of Schedule 2[^c-40cb11d1a4fcaf740c4a4eaa05747379]
 
 (1) Schedule 2 is amended by paragraphs (2) to (13).
 
@@ -2478,17 +2478,17 @@ After regulation 87 insert—
 
 ## 64. Amendment of Schedule 2A
 
-(1)[^key-0f03b22a107aca6bf0821dcce112ae7b] Schedule 2A[^f00022] is amended as provided by paragraphs (2) to (4).
+(1)[^c-0f03b22a107aca6bf0821dcce112ae7b] Schedule 2A[^f00022] is amended as provided by paragraphs (2) to (4).
 
-(2)[^key-21da7dc987f1a215b6dd0a318ca390c6] In paragraph 1(2)(a) (Discharge of liability in respect of a pension credit following the death of the person entitled to the pension credit), for “paragraph 11” substitute “paragraph 9”.
+(2)[^c-21da7dc987f1a215b6dd0a318ca390c6] In paragraph 1(2)(a) (Discharge of liability in respect of a pension credit following the death of the person entitled to the pension credit), for “paragraph 11” substitute “paragraph 9”.
 
-(3)[^key-86c505f6a83452bceca1f868c5c14ce0] In paragraph 9 (Payment of lump sum on death)—
+(3)[^c-86c505f6a83452bceca1f868c5c14ce0] In paragraph 9 (Payment of lump sum on death)—
 
 - (a) in sub-paragraph (c) omit “and (3B)”;
 - (b) for sub-paragraph (d) substitute—
 - “(d) the reference in paragraph (3C) to “the member who is in superannuable service under the scheme” shall be a reference to “person entitled to a pension credit or, as the case may be, a pension credit member”.
 
-(4)[^key-0f03b22a107aca6bf0821dcce112ae7b] In paragraph 9, for sub-paragraphs (b), (c) and (d) substitute—
+(4)[^c-0f03b22a107aca6bf0821dcce112ae7b] In paragraph 9, for sub-paragraphs (b), (c) and (d) substitute—
 
 > - (b) the reference in paragraphs (2), (3), (4) and (5) of that regulation to “member” shall be a reference to “person entitled to a pension credit or, as the case may be, the pension credit member”;
 > - (c) the reference in paragraphs (2), (3), (4) and (10) of that regulation to “member’s personal representative” shall be a reference to “personal representative of the person entitled to a pension credit or, as the case may be, the pension credit member”.
@@ -2660,178 +2660,178 @@ Regulation 64 amends Schedule 2A to the 1995 Regulations which deals with pensio
 
 [^f00001]: Footnote: [S.I. 1972 No. 1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073) as amended by [S.I. 1990 No. 1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509)
 
-[^key-f1c9896939332dac8ba9bdd397333771]: Commencement: Reg. 1 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-f1c9896939332dac8ba9bdd397333771]: Commencement: Reg. 1 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00002]: Footnote: [S.R. 1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95) as amended by S.Rs. [1997 No. 217](https://www.legislation.gov.uk/nisr/1997/217) and [390](https://www.legislation.gov.uk/nisr/1997/390), [S.R. 1998 No. 299](https://www.legislation.gov.uk/nisr/1998/299), [S.R. 1999 No. 293](https://www.legislation.gov.uk/nisr/1999/293), [S.R. 2002 No. 69](https://www.legislation.gov.uk/nisr/2002/69), and [S.Rs. 2004 Nos. 103](https://www.legislation.gov.uk/nisr/2004/103) and [104](https://www.legislation.gov.uk/nisr/2004/104), and [S.Rs. 2005 Nos. 155](https://www.legislation.gov.uk/nisr/2005/155), [533](https://www.legislation.gov.uk/nisr/2005/533), [534](https://www.legislation.gov.uk/nisr/2005/534) and [565](https://www.legislation.gov.uk/nisr/2005/565), [S.Rs. 2006 Nos. 159](https://www.legislation.gov.uk/nisr/2006/159) and [410](https://www.legislation.gov.uk/nisr/2006/410), and [S.Rs. 2008 Nos. 96](https://www.legislation.gov.uk/nisr/2008/96) and [130](https://www.legislation.gov.uk/nisr/2008/130)
 
-[^key-86e75f507f1ac002cb846d67027bc7b0]: Commencement: Reg. 2 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-86e75f507f1ac002cb846d67027bc7b0]: Commencement: Reg. 2 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00003]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-7dda2174a6b3bc3fd89d52dc65c181d1]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2008/163/regulation/2/4) revoked (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2009/65/regulation/22) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-7dda2174a6b3bc3fd89d52dc65c181d1]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2008/163/regulation/2/4) revoked (with effect in accordance with reg. 1(5) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2009/65/regulation/22) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
 
-[^key-a4208596bc800c57c2fdf36eb9b2d389]: Commencement: Reg. 3 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-a4208596bc800c57c2fdf36eb9b2d389]: Commencement: Reg. 3 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00004]: Footnote: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26)
 
 [^f00005]: Footnote: [S.I. 1990/2101](https://www.legislation.gov.uk/uksi/1990/2101)
 
-[^key-0e1c9cff2b25fea5a0039b5c153906eb]: Commencement: Reg. 4 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-0e1c9cff2b25fea5a0039b5c153906eb]: Commencement: Reg. 4 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-fc0be8079706c52125d71242e6eea4b1]: Commencement: Reg. 5 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-fc0be8079706c52125d71242e6eea4b1]: Commencement: Reg. 5 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-9a5aa43565789b4f490353ba9a275aa4]: Commencement: Reg. 6 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-9a5aa43565789b4f490353ba9a275aa4]: Commencement: Reg. 6 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-8300001e73464aa14dbde4887b7b07a5]: Commencement: Reg. 7 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-8300001e73464aa14dbde4887b7b07a5]: Commencement: Reg. 7 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-96d647480577314203295227b3335341]: Commencement: Reg. 8 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-96d647480577314203295227b3335341]: Commencement: Reg. 8 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00006]: Footnote: Paragraph (3) was amended by [S.R. 2008 No. 96](https://www.legislation.gov.uk/nisr/2008/96)
 
 [^f00007]: Footnote: Paragraph (7) was amended by [S.R. 2008 No. 96](https://www.legislation.gov.uk/nisr/2008/96)
 
-[^key-5bd86f8a8a7f4b2466993684e8ba69cf]: Commencement: Reg. 9 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-5bd86f8a8a7f4b2466993684e8ba69cf]: Commencement: Reg. 9 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-06509b0ef818b754b17fadf3258c47f4]: Commencement: Reg. 10 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-06509b0ef818b754b17fadf3258c47f4]: Commencement: Reg. 10 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-0f8a80491948a631691576953e7f8977]: Commencement: Reg. 11 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-0f8a80491948a631691576953e7f8977]: Commencement: Reg. 11 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-5c5837c1a993a26f5eec5b472cad4225]: Commencement: Reg. 12 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-5c5837c1a993a26f5eec5b472cad4225]: Commencement: Reg. 12 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00008]: Footnote: Amended by regulation 3(5) of [S.R. 2008 No. 96](https://www.legislation.gov.uk/nisr/2008/96)
 
-[^key-8c230fc868c49f1ecbb347a97e7617c0]: Commencement: Reg. 13 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-8c230fc868c49f1ecbb347a97e7617c0]: Commencement: Reg. 13 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-757fc9647abaffe5ca59132cc69787da]: Commencement: Reg. 14 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-757fc9647abaffe5ca59132cc69787da]: Commencement: Reg. 14 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00009]: Footnote: See, in particular, section 241 of, and paragraph 1 of Schedule 29 to, that Act
 
-[^key-3407f99e5bd15a3e8489803c23f21465]: Commencement: Reg. 15 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-3407f99e5bd15a3e8489803c23f21465]: Commencement: Reg. 15 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00010]: Footnote: Paragraph 1 was amended by [S.R. 2006 No. 410](https://www.legislation.gov.uk/nisr/2006/410)
 
-[^key-f293955003b1578c9ea0a7bfe1723cfc]: Commencement: Reg. 16 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-f293955003b1578c9ea0a7bfe1723cfc]: Commencement: Reg. 16 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-7ac01e7d1a53d1b9f1df634d4d6f0f71]: Commencement: Reg. 17 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-7ac01e7d1a53d1b9f1df634d4d6f0f71]: Commencement: Reg. 17 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00011]: Footnote: [1967 c. 5 (N.I.)](https://www.legislation.gov.uk/apni/1967/5)
 
-[^key-0f73729db3df622944e17e8ad72e5ae9]: Commencement: Reg. 18 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-0f73729db3df622944e17e8ad72e5ae9]: Commencement: Reg. 18 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-c6829dc147a8fca0205ff1be5a284da8]: Commencement: Reg. 19 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-c6829dc147a8fca0205ff1be5a284da8]: Commencement: Reg. 19 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-677b6316970d597ee50e3ae72d0b0b87]: Commencement: Reg. 20 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-677b6316970d597ee50e3ae72d0b0b87]: Commencement: Reg. 20 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-c038bd9be3e66cfa5949b96b65f1aace]: Commencement: Reg. 21 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-c038bd9be3e66cfa5949b96b65f1aace]: Commencement: Reg. 21 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-89141c9c99d1ada9afa1d2d74fbe03ac]: Commencement: Reg. 22 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-89141c9c99d1ada9afa1d2d74fbe03ac]: Commencement: Reg. 22 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-6d75ebbfd95a1547382bf95fb76f10d8]: Commencement: Reg. 23 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-6d75ebbfd95a1547382bf95fb76f10d8]: Commencement: Reg. 23 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-e25f3f4101a042ebf29d6f6ca7a363e2]: Commencement: Reg. 24 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-e25f3f4101a042ebf29d6f6ca7a363e2]: Commencement: Reg. 24 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-52c1c1e2f9129290e406238881095cbd]: Commencement: Reg. 25 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-52c1c1e2f9129290e406238881095cbd]: Commencement: Reg. 25 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-fdc0cf978bf5c4c6ed1b2ddfb7aaec39]: Commencement: Reg. 26 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-fdc0cf978bf5c4c6ed1b2ddfb7aaec39]: Commencement: Reg. 26 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-7b1659ac3f20bdd8a475cb933e27e4f7]: Commencement: Reg. 27 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-7b1659ac3f20bdd8a475cb933e27e4f7]: Commencement: Reg. 27 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-90117f9cf4bb616ca23d51cf678f718c]: Commencement: Reg. 28 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-90117f9cf4bb616ca23d51cf678f718c]: Commencement: Reg. 28 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-e1a42febdf84d04008bad69d10ef67c2]: Commencement: Reg. 29 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-e1a42febdf84d04008bad69d10ef67c2]: Commencement: Reg. 29 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-8d5419c402d584b5987ee49c9a352fea]: Commencement: Reg. 30 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-8d5419c402d584b5987ee49c9a352fea]: Commencement: Reg. 30 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00012]: Footnote: Sub-paragraph (c) was amended by [S.R. 2005 No. 533](https://www.legislation.gov.uk/nisr/2005/533)
 
 [^f00013]: Footnote: Paragraph (3) was amended by [S.R. 2006 No. 410](https://www.legislation.gov.uk/nisr/2006/410)
 
-[^key-a15cc5ddb980892b83676b38ce8d7d6b]: Commencement: Reg. 31 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-a15cc5ddb980892b83676b38ce8d7d6b]: Commencement: Reg. 31 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-fea30ba507b9c7cc2c1675b4e21d0fed]: Commencement: Reg. 32 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-fea30ba507b9c7cc2c1675b4e21d0fed]: Commencement: Reg. 32 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-1ffa9b8e910bf56124442653609a95b3]: Commencement: Reg. 33 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-1ffa9b8e910bf56124442653609a95b3]: Commencement: Reg. 33 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00014]: Footnote: Paragraphs (4) and (5) were amended by [S.R. 2005 No. 533](https://www.legislation.gov.uk/nisr/2005/533)
 
 [^f00015]: Footnote: Paragraph (6) was amended by [S.R. 2005 No. 533](https://www.legislation.gov.uk/nisr/2005/533)
 
-[^key-6966ce80665c28dbe022b15cb94296b3]: Commencement: Reg. 34 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-6966ce80665c28dbe022b15cb94296b3]: Commencement: Reg. 34 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00016]: Footnote: Regulation 38 was amended by [S.R. 2005 No. 533](https://www.legislation.gov.uk/nisr/2005/533)
 
-[^key-4832fd4ae5ed74953068c41f8edb8c92]: Commencement: Reg. 35 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-4832fd4ae5ed74953068c41f8edb8c92]: Commencement: Reg. 35 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-91e0959f04810a26f6b4f1365b6174bd]: Commencement: Reg. 36 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-91e0959f04810a26f6b4f1365b6174bd]: Commencement: Reg. 36 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-f68dd04eabe0d128ea9ded15a0fdf3cb]: Commencement: Reg. 37 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-f68dd04eabe0d128ea9ded15a0fdf3cb]: Commencement: Reg. 37 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-da0d959a7054cbd3e7f81e4e3095e344]: Commencement: Reg. 38 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-da0d959a7054cbd3e7f81e4e3095e344]: Commencement: Reg. 38 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00017]: Footnote: Paragraph (2) was amended by [S.R. 2002 No. 69](https://www.legislation.gov.uk/nisr/2002/69)
 
 [^f00018]: Footnote: Paragraph (3) was amended by [S.R. 2002 No. 69](https://www.legislation.gov.uk/nisr/2002/69)
 
-[^key-f5c7f99c30f524942f397bb3a5b64db3]: Commencement: Reg. 39 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-f5c7f99c30f524942f397bb3a5b64db3]: Commencement: Reg. 39 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-5403706f4f260fd42523b8ce8f9d9f71]: Commencement: Reg. 40 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-5403706f4f260fd42523b8ce8f9d9f71]: Commencement: Reg. 40 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-e48e246a31ed10c9f4af5d09325ae0e9]: Commencement: Reg. 41 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-e48e246a31ed10c9f4af5d09325ae0e9]: Commencement: Reg. 41 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-2170124a8a3ac7e0d8c1813106a9cd01]: Commencement: Reg. 42 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-2170124a8a3ac7e0d8c1813106a9cd01]: Commencement: Reg. 42 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-a2a1b9c2c3e4d7b7c176e1ace764e34e]: Commencement: Reg. 43 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-a2a1b9c2c3e4d7b7c176e1ace764e34e]: Commencement: Reg. 43 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-27aa0b0564e5ff5a95add2a83feeadfc]: Commencement: Reg. 44 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-27aa0b0564e5ff5a95add2a83feeadfc]: Commencement: Reg. 44 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-027e319ef01422a5327806bc6f2dd8f5]: Commencement: Reg. 45 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-027e319ef01422a5327806bc6f2dd8f5]: Commencement: Reg. 45 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-5b99d4018729f7aff1054cb398b83a07]: Commencement: Reg. 46 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-5b99d4018729f7aff1054cb398b83a07]: Commencement: Reg. 46 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00019]: Footnote: Paragraph (1) was amended by [S.R. 2005 No. 533](https://www.legislation.gov.uk/nisr/2005/533)
 
-[^key-1c3d9f493023db822c0e3582e2b1ea0c]: Commencement: Reg. 47 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-1c3d9f493023db822c0e3582e2b1ea0c]: Commencement: Reg. 47 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-b8bd3e4ee0203a2d97ec63700eff3751]: Commencement: Reg. 48 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-b8bd3e4ee0203a2d97ec63700eff3751]: Commencement: Reg. 48 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-be508a14a68e0c5ba0c4d32a27b24071]: Commencement: Reg. 49 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-be508a14a68e0c5ba0c4d32a27b24071]: Commencement: Reg. 49 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-149f38d49a944b186fedbff2c5cd4edf]: Commencement: Reg. 50 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-149f38d49a944b186fedbff2c5cd4edf]: Commencement: Reg. 50 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-7d49816ba368e1cd00d82551960df87d]: Commencement: Reg. 51 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-7d49816ba368e1cd00d82551960df87d]: Commencement: Reg. 51 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-91da2f01140675bca7aafd42522909f3]: Commencement: Reg. 52 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-91da2f01140675bca7aafd42522909f3]: Commencement: Reg. 52 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-c25c9cf414df53c7ed205ccaacc70e1d]: Commencement: Reg. 53 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-c25c9cf414df53c7ed205ccaacc70e1d]: Commencement: Reg. 53 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-10aedf2e5adf1d784b07ab95b5b871fe]: Commencement: Reg. 54 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-10aedf2e5adf1d784b07ab95b5b871fe]: Commencement: Reg. 54 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-7732deebc5acc4ab71b7fa2bbbbd1354]: Commencement: Reg. 55 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-7732deebc5acc4ab71b7fa2bbbbd1354]: Commencement: Reg. 55 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-ec1b213957d637cef66ff50e642f71d0]: Commencement: Reg. 56 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-ec1b213957d637cef66ff50e642f71d0]: Commencement: Reg. 56 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-199c54efea9c9409018a0bbb5a92d2fe]: Commencement: Reg. 57 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-199c54efea9c9409018a0bbb5a92d2fe]: Commencement: Reg. 57 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-99f39634f2a471e84964e968b063c989]: Commencement: Reg. 58 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-99f39634f2a471e84964e968b063c989]: Commencement: Reg. 58 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-94e815cb16e8612a563e636de6a7c3c3]: Commencement: Reg. 59 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-94e815cb16e8612a563e636de6a7c3c3]: Commencement: Reg. 59 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-9fa24c51cc060996274f14772d072c21]: Commencement: Reg. 60 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-9fa24c51cc060996274f14772d072c21]: Commencement: Reg. 60 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-e9f3ba224f7a2b2108eb78261a15f668]: Commencement: Reg. 61 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-e9f3ba224f7a2b2108eb78261a15f668]: Commencement: Reg. 61 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-d3ae2c009ead450b45c88906239cecaf]: Commencement: Reg. 62 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-d3ae2c009ead450b45c88906239cecaf]: Commencement: Reg. 62 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
-[^key-40cb11d1a4fcaf740c4a4eaa05747379]: Commencement: Reg. 63 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
+[^c-40cb11d1a4fcaf740c4a4eaa05747379]: Commencement: Reg. 63 in operation at 9.4.2008 with effect in accordance with reg. 1(1)
 
 [^f00020]: Footnote: Paragraph (9) was amended by [S.R. 2005 No. 155](https://www.legislation.gov.uk/nisr/2005/155)
 
 [^f00021]: Footnote: [S.I. 1975/1503](https://www.legislation.gov.uk/uksi/1975/1503)
 
-[^key-0f03b22a107aca6bf0821dcce112ae7b]: Commencement: [Reg. 64(1)](https://www.legislation.gov.uk/nisr/2008/163/regulation/64/1)[(4)](https://www.legislation.gov.uk/nisr/2008/163/regulation/64/4) in operation at 9.4.2008 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/163/regulation/1/1)
+[^c-0f03b22a107aca6bf0821dcce112ae7b]: Commencement: [Reg. 64(1)](https://www.legislation.gov.uk/nisr/2008/163/regulation/64/1)[(4)](https://www.legislation.gov.uk/nisr/2008/163/regulation/64/4) in operation at 9.4.2008 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/163/regulation/1/1)
 
 [^f00022]: Footnote: Schedule 2A was inserted by [S.R. 2004 No. 104](https://www.legislation.gov.uk/nisr/2004/104) and amended by [S.R. 2006 No. 410](https://www.legislation.gov.uk/nisr/2006/410)
 
-[^key-21da7dc987f1a215b6dd0a318ca390c6]: Commencement: [Reg. 64(2)](https://www.legislation.gov.uk/nisr/2008/163/regulation/64/2) in operation at 9.4.2008 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/163/regulation/1/1)
+[^c-21da7dc987f1a215b6dd0a318ca390c6]: Commencement: [Reg. 64(2)](https://www.legislation.gov.uk/nisr/2008/163/regulation/64/2) in operation at 9.4.2008 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/163/regulation/1/1)
 
-[^key-86c505f6a83452bceca1f868c5c14ce0]: Commencement: [Reg. 64(3)](https://www.legislation.gov.uk/nisr/2008/163/regulation/64/3) in operation at 9.4.2008 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/163/regulation/1/1)
+[^c-86c505f6a83452bceca1f868c5c14ce0]: Commencement: [Reg. 64(3)](https://www.legislation.gov.uk/nisr/2008/163/regulation/64/3) in operation at 9.4.2008 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/163/regulation/1/1)

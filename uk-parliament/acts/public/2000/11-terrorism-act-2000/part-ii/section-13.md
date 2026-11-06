@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Uniform and publication of images.[^key-5bfb3d85f23464853c45d049f55b9945]
+## 13. Uniform and publication of images.[^c-5bfb3d85f23464853c45d049f55b9945]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,14 +27,14 @@ summary: ''
 
 in such a way or in such circumstances as to arouse reasonable suspicion that he is a member or supporter of a proscribed organisation.
 
-(1ZA)[^key-5871e7b0e720959b6c1b4a9185bd52c5] A person commits an offence if, on relevant premises, the person—
+(1ZA)[^c-5871e7b0e720959b6c1b4a9185bd52c5] A person commits an offence if, on relevant premises, the person—
 
 - (a) wears an item of clothing, or
 - (b) wears, carries or displays an article,
 
 in such a way or in such circumstances as to arouse reasonable suspicion that the person is a member or supporter of a proscribed organisation.
 
-(1A)[^key-44f62e27bf4b06f267ac17c0bc687e35] A person commits an offence if the person publishes an image of—
+(1A)[^c-44f62e27bf4b06f267ac17c0bc687e35] A person commits an offence if the person publishes an image of—
 
 - (a) an item of clothing, or
 - (b) any other article,
@@ -43,7 +43,7 @@ in such a way or in such circumstances as to arouse reasonable suspicion that th
 
 (1B) In subsection (1A) the reference to an image is a reference to a still or moving image (produced by any means).
 
-(2)[^key-8175653d7d146e3cb05d22d566615d53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8175653d7d146e3cb05d22d566615d53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A person guilty of an offence under this section shall be liable on summary conviction to—
 
@@ -51,18 +51,18 @@ in such a way or in such circumstances as to arouse reasonable suspicion that th
 - (b) a fine not exceeding level 5 on the standard scale, or
 - (c) both.
 
-(4)[^key-002b2ad164274521933953f090c2d9f2][^key-4465dc08e6f4a99bffa56e423a2932e5] A constable may seize an item of clothing or any other article if the constable—
+(4)[^c-002b2ad164274521933953f090c2d9f2][^c-4465dc08e6f4a99bffa56e423a2932e5] A constable may seize an item of clothing or any other article if the constable—
 
-- (a) reasonably suspects that it is evidence in relation to an offence under subsection (1) or (1ZA)[^key-51d254ab4c2bd4287290f6d26767043b], and
+- (a) reasonably suspects that it is evidence in relation to an offence under subsection (1) or (1ZA)[^c-51d254ab4c2bd4287290f6d26767043b], and
 - (b) is satisfied that it is necessary to seize it in order to prevent—
-  - (i)[^key-878c3810045d23cdbd1414b7696ec11e] the evidence being concealed, lost, altered or destroyed , or[^key-7ca177a35847656d658879e8f644ba80]
+  - (i)[^c-878c3810045d23cdbd1414b7696ec11e] the evidence being concealed, lost, altered or destroyed , or[^c-7ca177a35847656d658879e8f644ba80]
   - (ii) the item or article continuing to be displayed.
 
-(5)[^key-002b2ad164274521933953f090c2d9f2] In connection with exercising the power in subsection (4), a constable may require a person to remove the item of clothing or other article if the person is wearing it.
+(5)[^c-002b2ad164274521933953f090c2d9f2] In connection with exercising the power in subsection (4), a constable may require a person to remove the item of clothing or other article if the person is wearing it.
 
-(6)[^key-002b2ad164274521933953f090c2d9f2] But the powers conferred by subsections (4) and (5) may not be exercised so as to seize, or require a person to remove, an item of clothing being worn next to the skin or immediately over a garment being worn as underwear.
+(6)[^c-002b2ad164274521933953f090c2d9f2] But the powers conferred by subsections (4) and (5) may not be exercised so as to seize, or require a person to remove, an item of clothing being worn next to the skin or immediately over a garment being worn as underwear.
 
-(7)[^key-002b2ad164274521933953f090c2d9f2][^key-ee6fcce7aaf0690bc64ac0a8d2ca9fea] An item of clothing or other article seized by a constable under subsection (4) may be destroyed.
+(7)[^c-002b2ad164274521933953f090c2d9f2][^c-ee6fcce7aaf0690bc64ac0a8d2ca9fea] An item of clothing or other article seized by a constable under subsection (4) may be destroyed.
 
 (8) In subsection (1ZA) “**relevant premises**” means any land and buildings used for the purposes of, or in connection with—
 
@@ -80,22 +80,22 @@ in such a way or in such circumstances as to arouse reasonable suspicion that th
 
 ## Annotations
 
-[^key-5bfb3d85f23464853c45d049f55b9945]: Textual amendment: Words in s. 13 heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/2/2), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-5bfb3d85f23464853c45d049f55b9945]: Textual amendment: Words in s. 13 heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/2/2), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-5871e7b0e720959b6c1b4a9185bd52c5]: Textual amendment: [S. 13(1ZA)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/1ZA) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
+[^c-5871e7b0e720959b6c1b4a9185bd52c5]: Textual amendment: [S. 13(1ZA)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/1ZA) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
 
-[^key-44f62e27bf4b06f267ac17c0bc687e35]: Textual amendment: [S. 13(1A)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/1B) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/2/3), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-44f62e27bf4b06f267ac17c0bc687e35]: Textual amendment: [S. 13(1A)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/1B) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/2/3), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-8175653d7d146e3cb05d22d566615d53]: Textual amendment: [S. 13(2)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/2) omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/36)
+[^c-8175653d7d146e3cb05d22d566615d53]: Textual amendment: [S. 13(2)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/2) omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/36)
 
-[^key-002b2ad164274521933953f090c2d9f2]: Modification: [S. 13(4)-(7)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4) applied (with modifications) (29.6.2026) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 93ZE(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/93ZE/2) (as inserted by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6))
+[^c-002b2ad164274521933953f090c2d9f2]: Modification: [S. 13(4)-(7)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4) applied (with modifications) (29.6.2026) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 93ZE(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/93ZE/2) (as inserted by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6))
 
-[^key-4465dc08e6f4a99bffa56e423a2932e5]: Textual amendment: [S. 13(4)-(6)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/2/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-4465dc08e6f4a99bffa56e423a2932e5]: Textual amendment: [S. 13(4)-(6)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/2/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-51d254ab4c2bd4287290f6d26767043b]: Textual amendment: Words in [s. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4/a) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/3/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
+[^c-51d254ab4c2bd4287290f6d26767043b]: Textual amendment: Words in [s. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4/a) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/3/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
 
-[^key-878c3810045d23cdbd1414b7696ec11e]: Textual amendment: Words in [s. 13(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4/b/i) in s. 13(4)(b) renumbered as s. 13(4)(b)(i) (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/3/b/i), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
+[^c-878c3810045d23cdbd1414b7696ec11e]: Textual amendment: Words in [s. 13(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4/b/i) in s. 13(4)(b) renumbered as s. 13(4)(b)(i) (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/3/b/i), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
 
-[^key-7ca177a35847656d658879e8f644ba80]: Textual amendment: [S. 13(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4/b/ii) and word inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/3/b/ii), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
+[^c-7ca177a35847656d658879e8f644ba80]: Textual amendment: [S. 13(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/4/b/ii) and word inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/3/b/ii), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
 
-[^key-ee6fcce7aaf0690bc64ac0a8d2ca9fea]: Textual amendment: [S. 13(7)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/7)[(8)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/8) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/4), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)
+[^c-ee6fcce7aaf0690bc64ac0a8d2ca9fea]: Textual amendment: [S. 13(7)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/7)[(8)](https://www.legislation.gov.uk/ukpga/2000/11/section/13/8) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 233(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/233/4), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z6)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z6)

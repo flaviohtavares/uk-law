@@ -33,7 +33,7 @@ AGRICULTURE
 
 WATER
 
-The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2003 (revoked)[^key-7deeed0f381d016cc28930776aa41465]
+The Action Programme for Nitrate Vulnerable Zones (Scotland) Amendment Regulations 2003 (revoked)[^c-7deeed0f381d016cc28930776aa41465]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 1st April 2003
 
-[^key-7deeed0f381d016cc28930776aa41465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7deeed0f381d016cc28930776aa41465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7deeed0f381d016cc28930776aa41465]
+## 1. Citation, commencement and extent[^c-7deeed0f381d016cc28930776aa41465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2003[^key-7deeed0f381d016cc28930776aa41465]
+## 2. Amendment of the Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2003[^c-7deeed0f381d016cc28930776aa41465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7deeed0f381d016cc28930776aa41465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7deeed0f381d016cc28930776aa41465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7deeed0f381d016cc28930776aa41465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7deeed0f381d016cc28930776aa41465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7deeed0f381d016cc28930776aa41465]: Textual amendment: Regulations revoked (1.1.2009) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008 (S.S.I. 2008/298)](https://www.legislation.gov.uk/ssi/2008/298), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2008/298/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2008/298/regulation/2/1)
+[^c-7deeed0f381d016cc28930776aa41465]: Textual amendment: Regulations revoked (1.1.2009) by [The Action Programme for Nitrate Vulnerable Zones (Scotland) Regulations 2008 (S.S.I. 2008/298)](https://www.legislation.gov.uk/ssi/2008/298), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2008/298/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2008/298/regulation/2/1)

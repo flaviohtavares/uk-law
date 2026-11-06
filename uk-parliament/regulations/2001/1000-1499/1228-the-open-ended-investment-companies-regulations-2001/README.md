@@ -66,7 +66,7 @@ Now, therefore, the Treasury, in exercise of the powers conferred on them by sec
 - [Section 10 — The Authority’s procedures](part-ii/section-10.md)
 - [Section 11 — The Tribunal](part-ii/section-11.md)
 
-#### Umbrella companies[^key-db4d75bc47e2dcda7c7ebda09a25b553]
+#### Umbrella companies[^c-db4d75bc47e2dcda7c7ebda09a25b553]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,7 +107,7 @@ Now, therefore, the Treasury, in exercise of the powers conferred on them by sec
 - [Section 28 — Procedure: refusal to revoke or vary direction](part-ii/section-28.md)
 - [Section 29 — Procedure: revocation of direction and grant of request for variation](part-ii/section-29.md)
 
-#### Information[^key-09aaba9bff0a413fc9d2e5fb4e70781c]
+#### Information[^c-09aaba9bff0a413fc9d2e5fb4e70781c]
 
 - [Section 29A — Information for home state regulator](part-ii/section-29a.md)
 - [Section 29B — Information for feeder UCITS](part-ii/section-29b.md)
@@ -253,6 +253,6 @@ Part V contains miscellaneous provisions, including provisions about offences an
 
 [^c15602841]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-db4d75bc47e2dcda7c7ebda09a25b553]: Textual amendment: Ss. 11A, 11B and cross-heading inserted (21.12.2011) by [The Open-Ended Investment Companies (Amendment) Regulations 2011 (S.I. 2011/3049)](https://www.legislation.gov.uk/uksi/2011/3049), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/3/3) (with [regs. 4-10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4))
+[^c-db4d75bc47e2dcda7c7ebda09a25b553]: Textual amendment: Ss. 11A, 11B and cross-heading inserted (21.12.2011) by [The Open-Ended Investment Companies (Amendment) Regulations 2011 (S.I. 2011/3049)](https://www.legislation.gov.uk/uksi/2011/3049), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/3/3) (with [regs. 4-10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4))
 
-[^key-09aaba9bff0a413fc9d2e5fb4e70781c]: Textual amendment: Regs. 29A, 29B and cross-heading inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/5)
+[^c-09aaba9bff0a413fc9d2e5fb4e70781c]: Textual amendment: Regs. 29A, 29B and cross-heading inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/5)

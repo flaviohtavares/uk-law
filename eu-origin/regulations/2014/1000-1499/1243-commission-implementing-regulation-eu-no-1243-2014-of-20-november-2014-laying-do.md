@@ -36,66 +36,66 @@ of 20 November 2014
 
 laying down rules pursuant to Regulation (EU) No 508/2014 of the European Parliament and of the Council on the European Maritime and Fisheries Fund with regard to the information to be sent by Member States, as well as on data needs and synergies between potential data sources (revoked)
 
-[^key-d12b1152fcb63bede92387568642ca4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d12b1152fcb63bede92387568642ca4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-d12b1152fcb63bede92387568642ca4e]
+## Article 1. Subject matter[^c-d12b1152fcb63bede92387568642ca4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. List of data and database structure[^key-d12b1152fcb63bede92387568642ca4e]
+## Article 2. List of data and database structure[^c-d12b1152fcb63bede92387568642ca4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entering information in the database[^key-d12b1152fcb63bede92387568642ca4e]
+## Article 3. Entering information in the database[^c-d12b1152fcb63bede92387568642ca4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Operation implementation data[^key-d12b1152fcb63bede92387568642ca4e]
+## Article 4. Operation implementation data[^c-d12b1152fcb63bede92387568642ca4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-d12b1152fcb63bede92387568642ca4e]
+## Article 5. Entry into force[^c-d12b1152fcb63bede92387568642ca4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d12b1152fcb63bede92387568642ca4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d12b1152fcb63bede92387568642ca4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — DATABASE STRUCTURE[^key-d12b1152fcb63bede92387568642ca4e]
+## ANNEX I — DATABASE STRUCTURE[^c-d12b1152fcb63bede92387568642ca4e]
 
-### PART A[^key-d12b1152fcb63bede92387568642ca4e]
+### PART A[^c-d12b1152fcb63bede92387568642ca4e]
 
-[^key-d12b1152fcb63bede92387568642ca4e] *Administrative information*
+[^c-d12b1152fcb63bede92387568642ca4e] *Administrative information*
 
-### PART B[^key-d12b1152fcb63bede92387568642ca4e]
+### PART B[^c-d12b1152fcb63bede92387568642ca4e]
 
-[^key-d12b1152fcb63bede92387568642ca4e] *Expenditure forecast (In the currency applicable to the operation)*
+[^c-d12b1152fcb63bede92387568642ca4e] *Expenditure forecast (In the currency applicable to the operation)*
 
-### PART C[^key-d12b1152fcb63bede92387568642ca4e]
+### PART C[^c-d12b1152fcb63bede92387568642ca4e]
 
-[^key-d12b1152fcb63bede92387568642ca4e] *Financial implementation of the operation (in EUR)*
+[^c-d12b1152fcb63bede92387568642ca4e] *Financial implementation of the operation (in EUR)*
 
-### PART D[^key-d12b1152fcb63bede92387568642ca4e]
+### PART D[^c-d12b1152fcb63bede92387568642ca4e]
 
-[^key-d12b1152fcb63bede92387568642ca4e] *Operation implementation data*
+[^c-d12b1152fcb63bede92387568642ca4e] *Operation implementation data*
 
-### PART E[^key-d12b1152fcb63bede92387568642ca4e]
+### PART E[^c-d12b1152fcb63bede92387568642ca4e]
 
-[^key-d12b1152fcb63bede92387568642ca4e]*Result indicators*
+[^c-d12b1152fcb63bede92387568642ca4e]*Result indicators*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART F[^key-d12b1152fcb63bede92387568642ca4e]
+### PART F[^c-d12b1152fcb63bede92387568642ca4e]
 
-[^key-d12b1152fcb63bede92387568642ca4e] *Mitigation of the COVID-19 outbreak*
+[^c-d12b1152fcb63bede92387568642ca4e] *Mitigation of the COVID-19 outbreak*
 
-## ANNEX II — OPERATION IMPLEMENTATION DATA[^key-d12b1152fcb63bede92387568642ca4e]
+## ANNEX II — OPERATION IMPLEMENTATION DATA[^c-d12b1152fcb63bede92387568642ca4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d12b1152fcb63bede92387568642ca4e]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-d12b1152fcb63bede92387568642ca4e]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

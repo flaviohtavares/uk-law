@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141C. List of persons prohibited from teaching etc[^key-ba97a4adca3a9d4bcda596bd60c72b67]
+## 141C. List of persons prohibited from teaching etc[^c-ba97a4adca3a9d4bcda596bd60c72b67]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba97a4adca3a9d4bcda596bd60c72b67]: Textual amendment: Ss. 141A-141E and cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/8/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-ba97a4adca3a9d4bcda596bd60c72b67]: Textual amendment: Ss. 141A-141E and cross-heading inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/8/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

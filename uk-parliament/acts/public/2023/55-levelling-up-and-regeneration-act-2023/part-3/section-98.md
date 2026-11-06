@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Contents of a neighbourhood development plan[^key-15fe79a79cf2098bd422a9d3ee475b5b][^key-269fe3392b47bad1ff5dad023dc9e271]
+## 98. Contents of a neighbourhood development plan[^c-15fe79a79cf2098bd422a9d3ee475b5b][^c-269fe3392b47bad1ff5dad023dc9e271]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15fe79a79cf2098bd422a9d3ee475b5b]: Commencement: S. 98 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-15fe79a79cf2098bd422a9d3ee475b5b]: Commencement: S. 98 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-269fe3392b47bad1ff5dad023dc9e271]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2023/55/section/98) in force at 25.3.2026 by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/c) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-269fe3392b47bad1ff5dad023dc9e271]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2023/55/section/98) in force at 25.3.2026 by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/c) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))

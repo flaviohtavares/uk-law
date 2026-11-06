@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Energy reports[^key-562e820d01a6dc4dffa70df93e466adc]
+## 87. Energy reports[^c-562e820d01a6dc4dffa70df93e466adc]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,10 +39,10 @@ summary: ''
 
   > (4A) A report or part of a report published under this section must specify the period to which it relates.
 
-(2)[^key-9d49e10277fab17aaf2bd9f8fcbcc232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9d49e10277fab17aaf2bd9f8fcbcc232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-562e820d01a6dc4dffa70df93e466adc]: Commencement: S. 87 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
+[^c-562e820d01a6dc4dffa70df93e466adc]: Commencement: S. 87 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/ii)
 
-[^key-9d49e10277fab17aaf2bd9f8fcbcc232]: Textual amendment: [S. 87(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/2) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 57(4)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/57/4/c), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
+[^c-9d49e10277fab17aaf2bd9f8fcbcc232]: Textual amendment: [S. 87(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/87/2) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 57(4)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/57/4/c), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)

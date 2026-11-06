@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Power to make further provision about reconsiderations[^key-0aa0baa992c8bb4c6d3e64646152302c]
+## 78. Power to make further provision about reconsiderations[^c-0aa0baa992c8bb4c6d3e64646152302c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aa0baa992c8bb4c6d3e64646152302c]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2021/15/section/78) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-0aa0baa992c8bb4c6d3e64646152302c]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2021/15/section/78) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

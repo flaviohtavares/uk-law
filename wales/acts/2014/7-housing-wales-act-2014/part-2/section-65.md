@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Meaning of help to secure[^key-06337e7c3e4d818b776c35c1436e23bb]
+## 65. Meaning of help to secure[^c-06337e7c3e4d818b776c35c1436e23bb]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where a local housing authority is required by this Chapter to help to secure (r
 
 ## Annotations
 
-[^key-06337e7c3e4d818b776c35c1436e23bb]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2014/7/section/65) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 16](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/16)
+[^c-06337e7c3e4d818b776c35c1436e23bb]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2014/7/section/65) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 16](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/16)

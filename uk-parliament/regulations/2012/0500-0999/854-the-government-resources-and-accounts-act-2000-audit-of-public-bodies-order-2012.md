@@ -46,18 +46,18 @@ In accordance with section 25(10)(b) of that Act the Treasury have consulted the
 
 A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with section 25(10)(c) of that Act.
 
-## 1. Citation and commencement[^key-a5afb82ba937818eab8166cf12dbaeb7]
+## 1. Citation and commencement[^c-a5afb82ba937818eab8166cf12dbaeb7]
 
 This Order may be cited as the Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2012 and comes into force on the day after the day on which it is made.
 
-## 2. Audit of bodies by the Comptroller and Auditor General[^key-a55f1a99539b3e0060738b085f32cb8a]
+## 2. Audit of bodies by the Comptroller and Auditor General[^c-a55f1a99539b3e0060738b085f32cb8a]
 
 The accounts of the following bodies shall be audited by the Comptroller and Auditor General—
 
 - (a) the Horserace Betting Levy Board[^f00002], in relation to levy periods ending on or after 31st March 2013;
-- (b)[^key-5dddbd78f0f334d52accf7e1d3a9a7b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5dddbd78f0f334d52accf7e1d3a9a7b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Horserace Betting Levy Board[^key-d8c8c128aea056f28b356edb8bbceaf7]
+## 3. Horserace Betting Levy Board[^c-d8c8c128aea056f28b356edb8bbceaf7]
 
 (1) In respect of the Horserace Betting Levy Board, the reference in section 31(1) of the Betting, Gaming and Lotteries Act 1963[^f00004] to audit of the accounts of the Levy Board by qualified accountants appointed for that purpose by the Board shall be read as a reference to audit of those accounts by the Comptroller and Auditor General.
 
@@ -70,11 +70,11 @@ The accounts of the following bodies shall be audited by the Comptroller and Aud
 
 (4) This article has effect only in relation to statements of accounts for levy periods ending on or after 31st March 2013.
 
-## 4. Probation trusts[^key-48fe5cc0e67d3fd4cfa3aeead3e1df88]
+## 4. Probation trusts[^c-48fe5cc0e67d3fd4cfa3aeead3e1df88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Non-profit-making companies[^key-2fe391bba9dca205c541fc8dd987e60e]
+## 5. Non-profit-making companies[^c-2fe391bba9dca205c541fc8dd987e60e]
 
 In the Schedule to the Government Resources and Accounts Act 2000 (Audit of Non-profit-making Companies) Order 2009[^f00010], insert the following entries at the appropriate places in the table—
 
@@ -84,7 +84,7 @@ In the Schedule to the Government Resources and Accounts Act 2000 (Audit of Non-
 | The National Museum of the Royal Navy | 1 April 2011 | 06699696 |
 | United Kingdom Anti-Doping Limited | 1 April 2011 | 06990867 |
 
-## 6. Bodies no longer subject to audit by Comptroller and Auditor General[^key-8f13de721b7909dd945170dac09a1745]
+## 6. Bodies no longer subject to audit by Comptroller and Auditor General[^c-8f13de721b7909dd945170dac09a1745]
 
 (1) In article 3 of, and the Schedule to, the Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003[^f00011] omit the following entries—
 
@@ -99,7 +99,7 @@ In the Schedule to the Government Resources and Accounts Act 2000 (Audit of Non-
 - (b) the accounts of the Royal Marines Museum for the period that starts on 1st April 2011 and ends on 30th June 2011; and
 - (c) the accounts of the Royal Naval Submarine Museum for the period that starts on 1st April 2011 and ends on 31st May 2011.
 
-## 7.[^key-1ec119e54239a791a4b93ac66cdcc551]
+## 7.[^c-1ec119e54239a791a4b93ac66cdcc551]
 
 (1) In the Schedule to the Government Resources and Accounts Act 2000 (Audit of Non-profit-making Companies) Order 2009, omit the following entries in the table—
 
@@ -120,7 +120,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 14th March 2012
 
-## SCHEDULE — Probation trusts whose accounts are subject to audit by the Comptroller and Auditor General[^key-a35f4beb9f102b74fb46ec50b314b4d9]
+## SCHEDULE — Probation trusts whose accounts are subject to audit by the Comptroller and Auditor General[^c-a35f4beb9f102b74fb46ec50b314b4d9]
 
 Article 2(b)
 
@@ -189,28 +189,28 @@ An impact assessment has not been prepared because no impact is foreseen on the 
 
 [^f00001]: Footnote: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 25 was amended by the Budget Responsibility and National Audit Act [2011 (c.4)](https://www.legislation.gov.uk/ukpga/2011/4).
 
-[^key-a5afb82ba937818eab8166cf12dbaeb7]: Commencement: Art. 1 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
+[^c-a5afb82ba937818eab8166cf12dbaeb7]: Commencement: Art. 1 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
 
-[^key-a55f1a99539b3e0060738b085f32cb8a]: Commencement: Art. 2 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
+[^c-a55f1a99539b3e0060738b085f32cb8a]: Commencement: Art. 2 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
 
 [^f00002]: Footnote: The Horserace Betting Levy Board was established by section 24 of the Betting, Gaming and Lotteries Act [1963 (c.2)](https://www.legislation.gov.uk/ukpga/1963/2). That Act was repealed by the Gambling Act [2005 (c.19)](https://www.legislation.gov.uk/ukpga/2005/19), section 356(3)(f) and Schedule 17. Article 2(1) of [S.I. 2007/2159](https://www.legislation.gov.uk/uksi/2007/2159) provides for section 24 to continue to have effect until immediately before the dissolution date specified in an order under section 15(1) of the Horserace Betting and Olympic Lottery Act [2004 (c.25)](https://www.legislation.gov.uk/ukpga/2004/25). No such order has been made to date.
 
-[^key-5dddbd78f0f334d52accf7e1d3a9a7b0]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/uksi/2012/854/article/2/b) omitted (21.12.2017) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/9/a)
+[^c-5dddbd78f0f334d52accf7e1d3a9a7b0]: Textual amendment: [Art. 2(b)](https://www.legislation.gov.uk/uksi/2012/854/article/2/b) omitted (21.12.2017) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/9/a)
 
-[^key-d8c8c128aea056f28b356edb8bbceaf7]: Commencement: Art. 3 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
+[^c-d8c8c128aea056f28b356edb8bbceaf7]: Commencement: Art. 3 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
 
 [^f00004]: Footnote: Section 31 was repealed by the Gambling Act 2005, section 356(3)(f) and Schedule 17. Its effect was preserved by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), article 3(2).
 
-[^key-48fe5cc0e67d3fd4cfa3aeead3e1df88]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2012/854/article/4) omitted (21.12.2017) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/9/b)
+[^c-48fe5cc0e67d3fd4cfa3aeead3e1df88]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2012/854/article/4) omitted (21.12.2017) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/9/b)
 
-[^key-2fe391bba9dca205c541fc8dd987e60e]: Commencement: Art. 5 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
+[^c-2fe391bba9dca205c541fc8dd987e60e]: Commencement: Art. 5 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
 
 [^f00010]: Footnote: [S.I. 2009/476](https://www.legislation.gov.uk/uksi/2009/476).
 
-[^key-8f13de721b7909dd945170dac09a1745]: Commencement: Art. 6 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
+[^c-8f13de721b7909dd945170dac09a1745]: Commencement: Art. 6 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
 
 [^f00011]: Footnote: [S.I. 2003/1326](https://www.legislation.gov.uk/uksi/2003/1326), to which there are amendments not relevant to this Order.
 
-[^key-1ec119e54239a791a4b93ac66cdcc551]: Commencement: Art. 7 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
+[^c-1ec119e54239a791a4b93ac66cdcc551]: Commencement: Art. 7 in force at 15.3.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/854/article/1)
 
-[^key-a35f4beb9f102b74fb46ec50b314b4d9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2012/854/schedule) omitted (21.12.2017) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/9/c)
+[^c-a35f4beb9f102b74fb46ec50b314b4d9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2012/854/schedule) omitted (21.12.2017) by virtue of [The Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2017 (S.I. 2017/1313)](https://www.legislation.gov.uk/uksi/2017/1313), [art. 1](https://www.legislation.gov.uk/uksi/2017/1313/article/1), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/uksi/2017/1313/schedule/1/paragraph/9/c)

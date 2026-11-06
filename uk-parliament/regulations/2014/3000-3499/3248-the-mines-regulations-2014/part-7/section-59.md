@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Working plans, sections, ventilation plans and geological map[^key-45444ab68982789aec2dd4e30649dc18]
+## 59. Working plans, sections, ventilation plans and geological map[^c-45444ab68982789aec2dd4e30649dc18]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45444ab68982789aec2dd4e30649dc18]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2014/3248/regulation/59) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-45444ab68982789aec2dd4e30649dc18]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2014/3248/regulation/59) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

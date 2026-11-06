@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Penalty for inaccurate information or documents[^key-23828e1f634d90a0da7ad7636df8e3d1]
+## 152. Penalty for inaccurate information or documents[^c-23828e1f634d90a0da7ad7636df8e3d1]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23828e1f634d90a0da7ad7636df8e3d1]: Commencement: S. 152 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)
+[^c-23828e1f634d90a0da7ad7636df8e3d1]: Commencement: S. 152 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)

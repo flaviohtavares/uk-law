@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Final meeting prior to dissolution[^key-68515f1e1e42b74b6f0014d2468cd410]
+## 36. Final meeting prior to dissolution[^c-68515f1e1e42b74b6f0014d2468cd410]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ For Article 92 (final meeting prior to dissolution) substitute—
 
 ## Annotations
 
-[^key-68515f1e1e42b74b6f0014d2468cd410]: Commencement: S. 36 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-68515f1e1e42b74b6f0014d2468cd410]: Commencement: S. 36 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -59,27 +59,27 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Hea
 (1) In these Regulations—
 
 - “**the Act**” means the Merchant Shipping Act 1995;
-- “carcinogen” means—[^key-71344d073e626f180f4f34aa367943dc]
+- “carcinogen” means—[^c-71344d073e626f180f4f34aa367943dc]
   - (a) a substance or mixture which meets the criteria for classification as a category 1A or 1B carcinogen set out in Annex I to the CLP Regulation whether or not the substance or mixture would be required to be classified under that Regulation; or
   - (b) a substance or mixture which is—
     - (i) referred to in Schedule 1; or
     - (ii) released by a process referred to in Schedule 1 and is a substance hazardous to health;
-- “CLP Regulation” means Regulation[^key-690e8ccadb7bd1dd1145e0025421c98f] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+- “CLP Regulation” means Regulation[^c-690e8ccadb7bd1dd1145e0025421c98f] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
 - “**employer**” means a person by whom a worker is employed on a ship under a contract of employment;
 - “**exposure**” means exposure to carcinogens or mutagens or to both;
 - “**the General Duties Regulations**” means the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 [^c18962571];
 - “**health and safety**” means the health and safety of persons whilst on board, or boarding or leaving, a ship;
-- “[^key-56e2b7fc5ba65c3176fececc860d225b]**ionising radiation**” means the transfer of energy in the form of particles or electromagnetic waves of a wavelength of 100 nanometres or less or a frequency of 3 x 10<sup>15</sup> hertz or more capable of producing ions directly or indirectly;
-- “mutagen” means a substance or mixture which meets the criteria for classification as a category 1A or 1B germ cell mutagen set out in Annex I to the CLP Regulation, whether or not the substance or mixture would be required to be classified under that Regulation;[^key-1f32663f521632f90733f379aa01d396]
+- “[^c-56e2b7fc5ba65c3176fececc860d225b]**ionising radiation**” means the transfer of energy in the form of particles or electromagnetic waves of a wavelength of 100 nanometres or less or a frequency of 3 x 10<sup>15</sup> hertz or more capable of producing ions directly or indirectly;
+- “mutagen” means a substance or mixture which meets the criteria for classification as a category 1A or 1B germ cell mutagen set out in Annex I to the CLP Regulation, whether or not the substance or mixture would be required to be classified under that Regulation;[^c-1f32663f521632f90733f379aa01d396]
 - “**preparation**” means a mixture or solution of two or more substances;
 - “**regulation 4 assessment**” has the meaning given by regulation 4(2);
 - “**representative**” in relation to workers means any person lawfully elected, chosen or designated to represent the workers in regard to issues about the safety and health protection of workers at work;
-- “ship” includes hovercraft;[^key-c550eecedd579d1c7e5b7c077768aee9]
+- “ship” includes hovercraft;[^c-c550eecedd579d1c7e5b7c077768aee9]
 - “**substance**” means any natural or artificial substance whether in solid or in liquid form or in the form of a gas or vapour and includes micro-organisms;
 - “**trainees and apprentices**” does not include persons who are training in a sail training vessel;
 - “**United Kingdom ship**” means a ship which is—
-  - (a) a United Kingdom ship within the meaning of s 85(2) of the Act; or[^key-17c3a87d2fd4c9f03b9fa88e9fcd431b]
-  - (b) [^key-5331d3fbf933e9f92d70b870d7f108d6]...
+  - (a) a United Kingdom ship within the meaning of s 85(2) of the Act; or[^c-17c3a87d2fd4c9f03b9fa88e9fcd431b]
+  - (b) [^c-5331d3fbf933e9f92d70b870d7f108d6]...
   - (c) a hovercraft registered under the Hovercraft Act 1968 [^c18962581]; and
 - “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom.
 
@@ -98,7 +98,7 @@ These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Hea
 
 (4) In paragraph (3) each reference to a Code includes a reference to any document containing an amendment or replacement of that Code which is considered by the Secretary of State to be relevant from time to time.
 
-(5)[^key-ecabcf3bedf409b535758b57a896cd98] In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
+(5)[^c-ecabcf3bedf409b535758b57a896cd98] In the application of these Regulations to a hovercraft, a reference to the master of a ship includes a reference to the captain of that hovercraft.
 
 ## 3. Application
 
@@ -115,7 +115,7 @@ that provision does not apply in relation to that ship to the extent of that con
 
 (4) These Regulations do not apply—
 
-- (a) to workers exposed only to ionising radiation[^key-0054a93d0d867efdbffd76c07152480b]; or
+- (a) to workers exposed only to ionising radiation[^c-0054a93d0d867efdbffd76c07152480b]; or
 - (b) to, or in relation to the activities of, workers to which the Control of Substances Hazardous to Health Regulations 2002 [^c18962621] or the Control of Substances Hazardous to Health Regulations (Northern Ireland) 2003 [^c18962631] apply.
 
 (5) The provisions of the General Duties Regulations continue to apply to activities to which these Regulations apply; where these Regulations contain more stringent or specific provisions then such provisions apply.
@@ -270,7 +270,7 @@ The employer shall consult workers or their representatives about matters covere
 
 (4) In cases where health surveillance is carried out, an individual medical record shall be kept and the doctor or body responsible for health surveillance shall propose any protective or preventive measures to be taken in respect of any individual workers.
 
-(4A)[^key-9ef53de06a667db2072247b6be9c1fe6]  Where the doctor or body responsible for the health surveillance of a worker records in that worker’s individual medical record, kept pursuant to paragraph (4), that the health surveillance of the worker should continue after exposure has ended, the worker’s employer must ensure that, while the worker is employed by the employer, the health surveillance of that worker continues for as long as recommended by the doctor or body.
+(4A)[^c-9ef53de06a667db2072247b6be9c1fe6]  Where the doctor or body responsible for the health surveillance of a worker records in that worker’s individual medical record, kept pursuant to paragraph (4), that the health surveillance of the worker should continue after exposure has ended, the worker’s employer must ensure that, while the worker is employed by the employer, the health surveillance of that worker continues for as long as recommended by the doctor or body.
 
 (4B) The worker’s employer ceases to be under an obligation to ensure that health  surveillance continues for as long as recommended by the doctor or body when a doctor or body responsible for the health surveillance of the worker records in the worker’s individual medical record that this is no longer recommended.
 
@@ -387,7 +387,7 @@ and any balance shall be repaid to the first-mentioned person.
 
 (7) In paragraph (1), “**relevant inspector**” means a person mentioned in paragraph (a), (b) or (c) of section 258(1) of the Act [^c18962661].
 
-## 22. Application of powers of inspectors in relation to Government ships[^key-a3be85057e0e7549a10c5b5d47d5457d]
+## 22. Application of powers of inspectors in relation to Government ships[^c-a3be85057e0e7549a10c5b5d47d5457d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -404,7 +404,7 @@ and any balance shall be repaid to the first-mentioned person.
 - (b) specify the matters which, in the opinion of the surveyor of ships, have the effect that in relation to that ship those requirements are not met; and
 - (c) require the terms of the notice to be complied with until the ship is released by any person mentioned in section 284(1) of the Act.
 
-## 24. Right of appeal and compensation[^key-c1e0a43f0ed71157c574ba7bd7b0139e]
+## 24. Right of appeal and compensation[^c-c1e0a43f0ed71157c574ba7bd7b0139e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -412,7 +412,7 @@ and any balance shall be repaid to the first-mentioned person.
 
 No charge in respect of anything done or provided in pursuance of any specific requirement of these Regulations shall be levied or permitted to be levied on any worker.
 
-## 26. Review[^key-957bd0cf3d6f6b4fb13e6d7b08c635af]
+## 26. Review[^c-957bd0cf3d6f6b4fb13e6d7b08c635af]
 
 (1) The Secretary of State must from time to time—
 
@@ -456,7 +456,7 @@ Work involving exposure to polycyclic aromatic hydrocarbons present in coal soot
 
 Hardwood dusts.
 
-Work involving exposure to respirable crystalline silica dust generated by a work process.[^key-64e0db96561d8186f50df7d1bd2fbc88]
+Work involving exposure to respirable crystalline silica dust generated by a work process.[^c-64e0db96561d8186f50df7d1bd2fbc88]
 
 Isopropyl alcohol manufacture (strong acid process).
 
@@ -495,7 +495,7 @@ The following polychlorodibenzofurans—
 
 Where T=tetra, Pe=penta, Hx=hexa, Hp=hepta and O=octa.
 
-## SCHEDULE 2 — TABLE OF LIMIT VALUES[^key-1fb0ec684583d2f47f66bcab04ec5c91]
+## SCHEDULE 2 — TABLE OF LIMIT VALUES[^c-1fb0ec684583d2f47f66bcab04ec5c91]
 
 Regulation 6(2)
 
@@ -609,21 +609,21 @@ A regulatory impact assessment and a transposition note have been prepared and a
 
 [^c18962551]: Marginal citation: 1993/595.
 
-[^key-71344d073e626f180f4f34aa367943dc]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [16(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/16/2/a)
+[^c-71344d073e626f180f4f34aa367943dc]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [16(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/16/2/a)
 
-[^key-690e8ccadb7bd1dd1145e0025421c98f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [16(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/16/2/b)
+[^c-690e8ccadb7bd1dd1145e0025421c98f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [16(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/16/2/b)
 
 [^c18962571]: Marginal citation: 1997/2962, amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411), 2001/54.
 
-[^key-56e2b7fc5ba65c3176fececc860d225b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56e2b7fc5ba65c3176fececc860d225b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f32663f521632f90733f379aa01d396]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [16(2)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/16/2/c)
+[^c-1f32663f521632f90733f379aa01d396]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [16(2)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/16/2/c)
 
-[^key-c550eecedd579d1c7e5b7c077768aee9]: Textual amendment: Words in reg. 2(1) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/4/a)
+[^c-c550eecedd579d1c7e5b7c077768aee9]: Textual amendment: Words in reg. 2(1) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/4/a)
 
-[^key-17c3a87d2fd4c9f03b9fa88e9fcd431b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-17c3a87d2fd4c9f03b9fa88e9fcd431b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) inserted (10.4.2026) by [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-5331d3fbf933e9f92d70b870d7f108d6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-5331d3fbf933e9f92d70b870d7f108d6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/2/1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c18962581]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
@@ -633,9 +633,9 @@ A regulatory impact assessment and a transposition note have been prepared and a
 
 [^c18962611]: Marginal citation: Published by the Stationery Office in 1999 (ISBN 0-11-551812-6).
 
-[^key-ecabcf3bedf409b535758b57a896cd98]: Textual amendment: Reg. 2(5) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/4/b)
+[^c-ecabcf3bedf409b535758b57a896cd98]: Textual amendment: Reg. 2(5) inserted (26.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1110)](https://www.legislation.gov.uk/uksi/2010/1110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2010/1110/regulation/4/b)
 
-[^key-0054a93d0d867efdbffd76c07152480b]: Textual amendment: Words in [reg. 3(4)(a)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/3/4/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0054a93d0d867efdbffd76c07152480b]: Textual amendment: Words in [reg. 3(4)(a)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/3/4/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18962621]: Marginal citation: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677), amended by [S.I. 2004/3386](https://www.legislation.gov.uk/uksi/2004/3386); there are other amending instruments but none is relevant.
 
@@ -643,18 +643,18 @@ A regulatory impact assessment and a transposition note have been prepared and a
 
 [^c18962641]: Marginal citation: 1999/2205.
 
-[^key-9ef53de06a667db2072247b6be9c1fe6]: Textual amendment: [Reg. 14(4A)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/14/4A)[(4B)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/14/4B) inserted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/40/regulation/3/2)
+[^c-9ef53de06a667db2072247b6be9c1fe6]: Textual amendment: [Reg. 14(4A)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/14/4A)[(4B)](https://www.legislation.gov.uk/uksi/2007/3100/regulation/14/4B) inserted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/40/regulation/3/2)
 
 [^c18962651]: Marginal citation: Cmnd. 8941.
 
 [^c18962661]: Marginal citation: [Section 258(1)](https://www.legislation.gov.uk/uksi/2007/3100/section/258/1) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), [sections 9](https://www.legislation.gov.uk/ukpga/1997/28/section/9) and 29(2), Schedule 1 paragraph 4 and Schedule 9 Part I.
 
-[^key-a3be85057e0e7549a10c5b5d47d5457d]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/3100/regulation/22) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-a3be85057e0e7549a10c5b5d47d5457d]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/3100/regulation/22) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-c1e0a43f0ed71157c574ba7bd7b0139e]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2007/3100/regulation/24) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-c1e0a43f0ed71157c574ba7bd7b0139e]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2007/3100/regulation/24) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
-[^key-957bd0cf3d6f6b4fb13e6d7b08c635af]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2007/3100/regulation/26) inserted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/40/regulation/4)
+[^c-957bd0cf3d6f6b4fb13e6d7b08c635af]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2007/3100/regulation/26) inserted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/40/regulation/4)
 
-[^key-64e0db96561d8186f50df7d1bd2fbc88]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3100/schedule/1) inserted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/40/regulation/5/2)
+[^c-64e0db96561d8186f50df7d1bd2fbc88]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3100/schedule/1) inserted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/40/regulation/5/2)
 
-[^key-1fb0ec684583d2f47f66bcab04ec5c91]: Textual amendment: Sch. 2 substituted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [reg. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/40/schedule)
+[^c-1fb0ec684583d2f47f66bcab04ec5c91]: Textual amendment: Sch. 2 substituted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [reg. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/40/schedule)

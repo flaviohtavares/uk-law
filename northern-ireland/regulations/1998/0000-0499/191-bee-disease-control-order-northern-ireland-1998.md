@@ -30,7 +30,7 @@ summary: ''
 
 PESTS
 
-Bee Disease Control Order (Northern Ireland) 1998 (revoked)[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+Bee Disease Control Order (Northern Ireland) 1998 (revoked)[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 Made
 
@@ -40,84 +40,84 @@ Coming into operation
 
 22nd June 1998
 
-[^key-67d45d1f169917c4a5b2fce32d3b0e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67d45d1f169917c4a5b2fce32d3b0e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 1. Citation and commencement[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 2. Revocation[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 3. Interpretation[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notification of disease[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 4. Notification of disease[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Precautions against spread of infection[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 5. Precautions against spread of infection[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Reports on samples[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 6. Reports on samples[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. American foul brood[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 7. American foul brood[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. European foul brood[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 8. European foul brood[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Presence of Varroosis[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 9. Presence of Varroosis[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Provision of facilities and obligations of beekeepers[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 10. Provision of facilities and obligations of beekeepers[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Default procedures[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 11. Default procedures[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Notices[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 12. Notices[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Exemptions[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 13. Exemptions[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Licences[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## 14. Licences[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67d45d1f169917c4a5b2fce32d3b0e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67d45d1f169917c4a5b2fce32d3b0e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Provisions which may apply in an infected area[^key-67d45d1f169917c4a5b2fce32d3b0e9f]
+## SCHEDULE — Provisions which may apply in an infected area[^c-67d45d1f169917c4a5b2fce32d3b0e9f]
 
 Article 9(3)
 
-**1.**[^key-67d45d1f169917c4a5b2fce32d3b0e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-67d45d1f169917c4a5b2fce32d3b0e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-67d45d1f169917c4a5b2fce32d3b0e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-67d45d1f169917c4a5b2fce32d3b0e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-67d45d1f169917c4a5b2fce32d3b0e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-67d45d1f169917c4a5b2fce32d3b0e9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-67d45d1f169917c4a5b2fce32d3b0e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67d45d1f169917c4a5b2fce32d3b0e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67d45d1f169917c4a5b2fce32d3b0e9f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/191) revoked (21.5.2007) by [The Bee Diseases and Pests Control Order (Northern Ireland) 2007 (S.R. 2007/246)](https://www.legislation.gov.uk/nisr/2007/246), [arts. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1), [16](https://www.legislation.gov.uk/nisr/2007/246/article/16)
+[^c-67d45d1f169917c4a5b2fce32d3b0e9f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/191) revoked (21.5.2007) by [The Bee Diseases and Pests Control Order (Northern Ireland) 2007 (S.R. 2007/246)](https://www.legislation.gov.uk/nisr/2007/246), [arts. 1](https://www.legislation.gov.uk/nisr/2007/246/article/1), [16](https://www.legislation.gov.uk/nisr/2007/246/article/16)

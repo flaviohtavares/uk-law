@@ -24,7 +24,7 @@ summary: ''
 
 2. The certificate referred to in paragraph 1 of this Article shall be issued upon application, when the applicant has demonstrated that the aerodrome:
 
-- (a) complies with the regulations[^key-e99878380d16fb19ec63a2f0aeb87743] referred to in Article 36 and with the aerodrome certification basis set out in paragraph 5 of this Article; and
+- (a) complies with the regulations[^c-e99878380d16fb19ec63a2f0aeb87743] referred to in Article 36 and with the aerodrome certification basis set out in paragraph 5 of this Article; and
 - (b) has no feature or characteristic making it unsafe for operation.
 
 3. The certificate referred to in paragraph 1 of this Article may be amended to include changes to the aerodrome or its safety-related equipment, in accordance with the regulations referred to in point (c) of Article 36(1).
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e99878380d16fb19ec63a2f0aeb87743]: Textual amendment: Word in [Art. 34](https://www.legislation.gov.uk/eur/2018/1139/article/34) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [111](https://www.legislation.gov.uk/uksi/2019/645/regulation/111) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e99878380d16fb19ec63a2f0aeb87743]: Textual amendment: Word in [Art. 34](https://www.legislation.gov.uk/eur/2018/1139/article/34) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [111](https://www.legislation.gov.uk/uksi/2019/645/regulation/111) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

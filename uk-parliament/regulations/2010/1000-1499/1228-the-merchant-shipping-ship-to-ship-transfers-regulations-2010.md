@@ -32,7 +32,7 @@ summary: ''
 
 Marine Pollution
 
-The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010 (revoked)[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010 (revoked)[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 Made
 
@@ -44,114 +44,114 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-1728b4ad7e2672cc906a2e404c2beb5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1728b4ad7e2672cc906a2e404c2beb5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 1. Citation and commencement[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1A. Review[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 1A. Review[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 2. Interpretation[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibited transfers[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 3. Prohibited transfers[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Authorisation of cargo transfers[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 4. Authorisation of cargo transfers[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Oil transfer licences[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 5. Oil transfer licences[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5A. Ship-to-ship transfer operations plans and notification of cargo transfers in the Pollution Control Zone[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 5A. Ship-to-ship transfer operations plans and notification of cargo transfers in the Pollution Control Zone[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 6. Exemptions[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 7. Offences[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provision[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## 8. Transitional provision[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1728b4ad7e2672cc906a2e404c2beb5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1728b4ad7e2672cc906a2e404c2beb5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Initial determination of likely effects on European sites[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## SCHEDULE 1 — Initial determination of likely effects on European sites[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 Regulations 5(1)(a) and (4) and 6(4)
 
-**1.**[^key-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Procedure for grant of oil transfer licence[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## SCHEDULE 2 — Procedure for grant of oil transfer licence[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 Regulations 5(1)(b) and (4) and 6(4)
 
-### 1. Application[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+### 1. Application[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Environmental statement[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+### 2. Environmental statement[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Provision of further information[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+### 3. Provision of further information[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Consultation and publicity[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+### 4. Consultation and publicity[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Licence decision, notification and publication[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+### 5. Licence decision, notification and publication[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Gross Tonnage[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+## SCHEDULE 3 — Gross Tonnage[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 Regulation 5A(5)
 
-**1.**[^key-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. United Kingdom ships[^key-1728b4ad7e2672cc906a2e404c2beb5c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Ships other than United Kingdom ships[^key-1728b4ad7e2672cc906a2e404c2beb5c]
+### 3. United Kingdom ships[^c-1728b4ad7e2672cc906a2e404c2beb5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1728b4ad7e2672cc906a2e404c2beb5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 6. Ships other than United Kingdom ships[^c-1728b4ad7e2672cc906a2e404c2beb5c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-1728b4ad7e2672cc906a2e404c2beb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1728b4ad7e2672cc906a2e404c2beb5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1728b4ad7e2672cc906a2e404c2beb5c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1228) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
+[^c-1728b4ad7e2672cc906a2e404c2beb5c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1228) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)

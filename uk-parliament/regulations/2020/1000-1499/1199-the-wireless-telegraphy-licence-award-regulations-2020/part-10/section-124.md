@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Events[^key-0d9112c963b835060bddef3f255a852f]
+## 124. Events[^c-0d9112c963b835060bddef3f255a852f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d9112c963b835060bddef3f255a852f]: Commencement: Reg. 124 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-0d9112c963b835060bddef3f255a852f]: Commencement: Reg. 124 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

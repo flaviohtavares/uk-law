@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Article 5(1)(*b*) of the Construction Contracts (Northern Ireland) Order 1997[^f00001], and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-4a7916ef07d7569ac49bd6fc32f52b9e]
+## 1. Citation, commencement and interpretation[^c-4a7916ef07d7569ac49bd6fc32f52b9e]
 
 (1) This Order may be cited as the Construction Contracts Exclusion Order (Northern Ireland) 1999 and shall come into operation on 1st June 1999.
 
 (2) In this Order, “the 1997 Order” means the Construction Contracts (Northern Ireland) Order 1997.
 
-## 2. Agreements under statute[^key-76d0886d7094eff480d420418f799381]
+## 2. Agreements under statute[^c-76d0886d7094eff480d420418f799381]
 
 A construction contract is excluded from the operation of the 1997 Order if it is—
 
@@ -56,9 +56,9 @@ A construction contract is excluded from the operation of the 1997 Order if it i
 - (b) an agreement under Article 122 of the Roads (Northern Ireland) Order 1993[^f00003] (execution of works by Department at expense of another);
 - (c) an agreement under Article 40 of the Planning (Northern Ireland) Order 1991[^f00004] (agreements facilitating, regulating or restricting development or use of land);
 - (d) an externally financed development agreement under Article 3 of the Health and Personal Social Services (Private Finance) (Northern Ireland) Order 1997[^f00005] (powers of Health and Social Services trusts to enter into agreements); or
-- (e) an agreement under Article 161 of the Water and Sewerage Services (Northern Ireland) Order 2006[^key-1e604f732911660d5e4379c7d2801a00] (applications for water or sewerage services).
+- (e) an agreement under Article 161 of the Water and Sewerage Services (Northern Ireland) Order 2006[^c-1e604f732911660d5e4379c7d2801a00] (applications for water or sewerage services).
 
-## 3. Private finance initiative[^key-bcb5533399f33fc9b7faa84e5a8057dc]
+## 3. Private finance initiative[^c-bcb5533399f33fc9b7faa84e5a8057dc]
 
 (1) A construction contract is excluded from the operation of the 1997 Order if it is a contract entered into under the private finance initiative.
 
@@ -74,11 +74,11 @@ A construction contract is excluded from the operation of the 1997 Order if it i
   - (ii) a Northern Ireland department;
   - (iii) any other authority or body whose accounts are required to be examined and certified by or are open to the inspection of the Comptroller and Auditor General for Northern Ireland by virtue of an agreement entered into before the coming into operation of this Order or by virtue of any statutory provision;
   - (iv) the Northern Ireland Transport Holding Company;
-  - (v)[^key-e883d175b7bc860d3f1594a079b75761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-e883d175b7bc860d3f1594a079b75761] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) the managers or trustees of a voluntary school or the managers or trustees of a grant-maintained integrated school within the meaning of the Education and Libraries (Northern Ireland) Order 1986[^f00009];
   - (vii) a company wholly owned by any of the bodies described in heads (i) to (v).
 
-## 4. Finance agreements[^key-72064eb7e45bc8f46b338874ccf52a0e]
+## 4. Finance agreements[^c-72064eb7e45bc8f46b338874ccf52a0e]
 
 (1) A construction contract is excluded from the operation of the 1997 Order if it is a finance agreement.
 
@@ -90,7 +90,7 @@ A construction contract is excluded from the operation of the 1997 Order if it i
 - (d) any contract under which the principal obligations include the lending of money;
 - (e) any contract under which the principal obligations include an undertaking by a person to be responsible as surety for the debt or default of another person, including a fidelity bond, advance payment bond, retention bond or performance bond.
 
-## 5. Development agreements[^key-24f9c5f54219c21c1b8c9a0b8da9e027]
+## 5. Development agreements[^c-24f9c5f54219c21c1b8c9a0b8da9e027]
 
 (1) A construction contract is excluded from the operation of the 1997 Order if it is a development agreement.
 
@@ -119,9 +119,9 @@ Article 2 excludes agreements made under specified statutory provisions dealing 
 
 [^f00001]: Footnote: S.I. [1997/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1997/274)
 
-[^key-4a7916ef07d7569ac49bd6fc32f52b9e]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1999/33/article/1) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)
+[^c-4a7916ef07d7569ac49bd6fc32f52b9e]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1999/33/article/1) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)
 
-[^key-76d0886d7094eff480d420418f799381]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1999/33/article/2) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)
+[^c-76d0886d7094eff480d420418f799381]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1999/33/article/2) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)
 
 [^f00002]: Footnote: S.I. [1980/1086 (N.I. 12)](https://www.legislation.gov.uk/nisi/1980/1086) as amended by S.I. [1992/3203 (N.I. 19)](https://www.legislation.gov.uk/nisi/1992/3203)
 
@@ -131,14 +131,14 @@ Article 2 excludes agreements made under specified statutory provisions dealing 
 
 [^f00005]: Footnote: S.I. [1997/2597 (N.I. 17)](https://www.legislation.gov.uk/nisi/1997/2597)
 
-[^key-1e604f732911660d5e4379c7d2801a00]: Textual amendment: Words in [art. 2(e)](https://www.legislation.gov.uk/nisr/1999/33/article/2/e) substituted (14.11.2012) by [The Construction Contracts Exclusion Order (Northern Ireland) 2012 (S.R. 2012/366)](https://www.legislation.gov.uk/nisr/2012/366), [arts. 1](https://www.legislation.gov.uk/nisr/2012/366/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2012/366/article/4/2)
+[^c-1e604f732911660d5e4379c7d2801a00]: Textual amendment: Words in [art. 2(e)](https://www.legislation.gov.uk/nisr/1999/33/article/2/e) substituted (14.11.2012) by [The Construction Contracts Exclusion Order (Northern Ireland) 2012 (S.R. 2012/366)](https://www.legislation.gov.uk/nisr/2012/366), [arts. 1](https://www.legislation.gov.uk/nisr/2012/366/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2012/366/article/4/2)
 
-[^key-bcb5533399f33fc9b7faa84e5a8057dc]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1999/33/article/3) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)
+[^c-bcb5533399f33fc9b7faa84e5a8057dc]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1999/33/article/3) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)
 
-[^key-e883d175b7bc860d3f1594a079b75761]: Textual amendment: [Art. 3(2)(c)(v)](https://www.legislation.gov.uk/nisr/1999/33/article/3/2/c/v) omitted (14.11.2012) by virtue of [The Construction Contracts Exclusion Order (Northern Ireland) 2012 (S.R. 2012/366)](https://www.legislation.gov.uk/nisr/2012/366), [arts. 1](https://www.legislation.gov.uk/nisr/2012/366/article/1), [4(3)](https://www.legislation.gov.uk/nisr/2012/366/article/4/3)
+[^c-e883d175b7bc860d3f1594a079b75761]: Textual amendment: [Art. 3(2)(c)(v)](https://www.legislation.gov.uk/nisr/1999/33/article/3/2/c/v) omitted (14.11.2012) by virtue of [The Construction Contracts Exclusion Order (Northern Ireland) 2012 (S.R. 2012/366)](https://www.legislation.gov.uk/nisr/2012/366), [arts. 1](https://www.legislation.gov.uk/nisr/2012/366/article/1), [4(3)](https://www.legislation.gov.uk/nisr/2012/366/article/4/3)
 
 [^f00009]: Footnote: S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594) as amended by S.I. [1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406)
 
-[^key-72064eb7e45bc8f46b338874ccf52a0e]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1999/33/article/4) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)
+[^c-72064eb7e45bc8f46b338874ccf52a0e]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1999/33/article/4) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)
 
-[^key-24f9c5f54219c21c1b8c9a0b8da9e027]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1999/33/article/5) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)
+[^c-24f9c5f54219c21c1b8c9a0b8da9e027]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1999/33/article/5) in operation at 1.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/33/article/1/1)

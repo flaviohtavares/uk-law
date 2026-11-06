@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Effect of endorsement of driving record without hearing[^key-a19fb7e065b309f2ac36dc4deaacac8c]
+## 58A. Effect of endorsement of driving record without hearing[^c-a19fb7e065b309f2ac36dc4deaacac8c]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a19fb7e065b309f2ac36dc4deaacac8c]: Textual amendment: S. 58A inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2006/49/schedule/2/paragraph/17); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)
+[^c-a19fb7e065b309f2ac36dc4deaacac8c]: Textual amendment: S. 58A inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2006/49/schedule/2/paragraph/17); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/b)

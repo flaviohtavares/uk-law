@@ -44,11 +44,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 76(2)(a) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-69f6d69d8238057ed88e3281f4aaa357]
+## 1. Citation and commencement[^c-69f6d69d8238057ed88e3281f4aaa357]
 
 These Regulations may be cited as the Forestry (Exemptions) (Scotland) Regulations 2019 and come into force on 1 April 2019.
 
-## 2. Interpretation[^key-6ae3bec107e6d0e7b75056582adc9127]
+## 2. Interpretation[^c-6ae3bec107e6d0e7b75056582adc9127]
 
 In these Regulations—
 
@@ -69,16 +69,16 @@ In these Regulations—
 - “quarter” means the period of three months beginning with 1 January, 1 April, 1<sup></sup>July or 1 October in any year,
 - “relevant person” means the owner of the land on which the tree is situated or the occupier of such land who is carrying out the felling with the written permission of the owner,
 - “Scottish Water” means the body corporate established by section 20(1) of the Water Industry (Scotland) Act 2002[^f00005],
-- “statutory undertaker” means a person authorised by any enactment to carry on any railway, light railway, tramway, road transport, water transport, canal, inland navigation, dock, harbour, pier[^key-a0b950bb28ae20276981bbccd8985b81], lighthouse undertaking, or any undertaking for the supply of hydraulic power or of water, or a holder of a licence under section 7A of the Gas Act 1986[^f00006],
+- “statutory undertaker” means a person authorised by any enactment to carry on any railway, light railway, tramway, road transport, water transport, canal, inland navigation, dock, harbour, pier[^c-a0b950bb28ae20276981bbccd8985b81], lighthouse undertaking, or any undertaking for the supply of hydraulic power or of water, or a holder of a licence under section 7A of the Gas Act 1986[^f00006],
 - “the Act” means the Forestry and Land Management (Scotland) Act 2018,
 - “the Forestry Commissioners” means the Forestry Commissioners referred to in section 1(1) of the 1967 Act, and
 - “the 1967 Act” means the Forestry Act 1967[^f00007].
 
-## 3. Exemption from offence of unauthorised felling[^key-36c99a3a7e0ff136fb819119a17c9f70]
+## 3. Exemption from offence of unauthorised felling[^c-36c99a3a7e0ff136fb819119a17c9f70]
 
 Section 23(1) of the Act (offence of unauthorised felling) does not apply where felling is of a type specified in regulation 4.
 
-## 4. Specified types of felling[^key-24c91f90f9665b0912aa6f24f1f9b77f]
+## 4. Specified types of felling[^c-24c91f90f9665b0912aa6f24f1f9b77f]
 
 The types of felling specified for the purposes of regulation 3 are—
 
@@ -118,7 +118,7 @@ The types of felling specified for the purposes of regulation 3 are—
   - (ii) is carried out in accordance with the consent of the authority which made the order or the Scottish Ministers, as the case may be, following a referral under section 15(1)(b) or 15(2)(a) of the 1967 Act,
 - (p) the felling of a tree that is covered by a tree preservation order where the felling is carried out in accordance with the consent of the planning authority following a referral to the authority under section 33(1)(b) of the Act.
 
-## 5. Circumstances where regulation 4(c) does not apply[^key-014a3cc5bb99acc67852cb0c649cc381]
+## 5. Circumstances where regulation 4(c) does not apply[^c-014a3cc5bb99acc67852cb0c649cc381]
 
 The exemption in regulation 4(c) does not apply to the felling of trees—
 
@@ -127,7 +127,7 @@ The exemption in regulation 4(c) does not apply to the felling of trees—
   - (ii) where at least 50% of the woodland canopy is comprised of any of the species of trees listed in schedule 1, or
 - (b) in Caledonian Pinewoods.
 
-## 6. Circumstances where regulation 4(e) does not apply[^key-59609a59735e04a397c05887a019fd9e]
+## 6. Circumstances where regulation 4(e) does not apply[^c-59609a59735e04a397c05887a019fd9e]
 
 The exemption in regulation 4(e) does not apply to the felling of trees carried out on peatland as part of works for the restoration of that peatland.
 
@@ -139,7 +139,7 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — SPECIES OF TREE[^key-9975c9e57554dc8efee918bfdc447b09]
+## SCHEDULE 1 — SPECIES OF TREE[^c-9975c9e57554dc8efee918bfdc447b09]
 
 Regulation 5(a)(ii)
 
@@ -177,7 +177,7 @@ Regulation 5(a)(ii)
 
 Regulations 2 and 5(b)
 
-**1.**[^key-6f91ed3832e21939caad74d2750115c5] In this Schedule “grid reference” means Ordnance Survey National Grid reference[^f00011].
+**1.**[^c-6f91ed3832e21939caad74d2750115c5] In this Schedule “grid reference” means Ordnance Survey National Grid reference[^f00011].
 
 | Name of Caledonian Pinewood | Grid reference |
 | --- | --- |
@@ -280,9 +280,9 @@ Regulation 5 makes provision about the circumstances in which regulation 4(c) do
 
 [^f00001]: Footnote: [2018 asp 8](https://www.legislation.gov.uk/asp/2018/8).
 
-[^key-69f6d69d8238057ed88e3281f4aaa357]: Commencement: Reg. 1 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
+[^c-69f6d69d8238057ed88e3281f4aaa357]: Commencement: Reg. 1 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
 
-[^key-6ae3bec107e6d0e7b75056582adc9127]: Commencement: Reg. 2 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
+[^c-6ae3bec107e6d0e7b75056582adc9127]: Commencement: Reg. 2 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
 
 [^f00002]: Footnote: [2016 asp 20](https://www.legislation.gov.uk/asp/2016/20).
 
@@ -292,15 +292,15 @@ Regulation 5 makes provision about the circumstances in which regulation 4(c) do
 
 [^f00005]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
 
-[^key-a0b950bb28ae20276981bbccd8985b81]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2019/126/regulation/2) substituted (10.11.2021) by [The Forestry (Exemptions) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/408)](https://www.legislation.gov.uk/ssi/2021/408), [regs. 1](https://www.legislation.gov.uk/ssi/2021/408/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/408/regulation/2/2)
+[^c-a0b950bb28ae20276981bbccd8985b81]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2019/126/regulation/2) substituted (10.11.2021) by [The Forestry (Exemptions) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/408)](https://www.legislation.gov.uk/ssi/2021/408), [regs. 1](https://www.legislation.gov.uk/ssi/2021/408/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/408/regulation/2/2)
 
 [^f00006]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44).
 
 [^f00007]: Footnote: [1967 c.10](https://www.legislation.gov.uk/ukpga/1967/10).
 
-[^key-36c99a3a7e0ff136fb819119a17c9f70]: Commencement: Reg. 3 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
+[^c-36c99a3a7e0ff136fb819119a17c9f70]: Commencement: Reg. 3 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
 
-[^key-24c91f90f9665b0912aa6f24f1f9b77f]: Commencement: Reg. 4 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
+[^c-24c91f90f9665b0912aa6f24f1f9b77f]: Commencement: Reg. 4 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
 
 [^f00008]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8).
 
@@ -308,12 +308,12 @@ Regulation 5 makes provision about the circumstances in which regulation 4(c) do
 
 [^f00010]: Footnote: [2009 asp 6](https://www.legislation.gov.uk/asp/2009/6).
 
-[^key-014a3cc5bb99acc67852cb0c649cc381]: Commencement: Reg. 5 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
+[^c-014a3cc5bb99acc67852cb0c649cc381]: Commencement: Reg. 5 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
 
-[^key-59609a59735e04a397c05887a019fd9e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/126/regulation/6) inserted (10.11.2021) by [The Forestry (Exemptions) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/408)](https://www.legislation.gov.uk/ssi/2021/408), [regs. 1](https://www.legislation.gov.uk/ssi/2021/408/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/408/regulation/2/3)
+[^c-59609a59735e04a397c05887a019fd9e]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/126/regulation/6) inserted (10.11.2021) by [The Forestry (Exemptions) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/408)](https://www.legislation.gov.uk/ssi/2021/408), [regs. 1](https://www.legislation.gov.uk/ssi/2021/408/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/408/regulation/2/3)
 
-[^key-9975c9e57554dc8efee918bfdc447b09]: Commencement: Sch. 1 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
+[^c-9975c9e57554dc8efee918bfdc447b09]: Commencement: Sch. 1 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
 
-[^key-6f91ed3832e21939caad74d2750115c5]: Commencement: Sch. 2 para. 1 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
+[^c-6f91ed3832e21939caad74d2750115c5]: Commencement: Sch. 2 para. 1 in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1)
 
 [^f00011]: Footnote: The National Grid is the map reference system used on all Ordnance Survey maps identify the position of a feature. Further information may be found at www.ordnancesurvey.co.uk.

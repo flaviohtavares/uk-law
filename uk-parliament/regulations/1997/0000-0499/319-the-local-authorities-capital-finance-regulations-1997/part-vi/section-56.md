@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Transfer of property under the London Government Act 1963[^key-a90a17c0ea0a43a7644a8b6153b0b890]
+## 56. Transfer of property under the London Government Act 1963[^c-a90a17c0ea0a43a7644a8b6153b0b890]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ Where a sum in respect of principal is payable to a local authority by virtue of
 
 ## Annotations
 
-[^key-a90a17c0ea0a43a7644a8b6153b0b890]: Commencement: Reg. 56 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a90a17c0ea0a43a7644a8b6153b0b890]: Commencement: Reg. 56 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00047]: Footnote: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33). Paragraph (a) and part of paragraph (b) of section 23(3) were repealed with savings by section 102(2) of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51).

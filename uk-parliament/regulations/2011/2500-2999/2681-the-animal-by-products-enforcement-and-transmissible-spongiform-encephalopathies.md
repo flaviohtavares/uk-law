@@ -36,7 +36,7 @@ Animal Health
 
 Public Health, England
 
-The Animal By-Products (Enforcement) and Transmissible Spongiform Encephalopathies (England) (Amendment) Regulations 2011 (revoked)[^key-0d5f1df3333e85b6099743ba2e979dbc]
+The Animal By-Products (Enforcement) and Transmissible Spongiform Encephalopathies (England) (Amendment) Regulations 2011 (revoked)[^c-0d5f1df3333e85b6099743ba2e979dbc]
 
 Made
 
@@ -50,27 +50,27 @@ Coming into force
 
 30th November 2011
 
-[^key-0d5f1df3333e85b6099743ba2e979dbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d5f1df3333e85b6099743ba2e979dbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-0d5f1df3333e85b6099743ba2e979dbc]
+## 1. Citation, commencement and application[^c-0d5f1df3333e85b6099743ba2e979dbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of the Animal By-Products (Enforcement) (England) Regulations 2011[^key-0d5f1df3333e85b6099743ba2e979dbc]
+## 2. Amendments of the Animal By-Products (Enforcement) (England) Regulations 2011[^c-0d5f1df3333e85b6099743ba2e979dbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments of the Transmissible Spongiform Encephalopathies (England) Regulations 2010[^key-0d5f1df3333e85b6099743ba2e979dbc]
+## 3. Amendments of the Transmissible Spongiform Encephalopathies (England) Regulations 2010[^c-0d5f1df3333e85b6099743ba2e979dbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d5f1df3333e85b6099743ba2e979dbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d5f1df3333e85b6099743ba2e979dbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-0d5f1df3333e85b6099743ba2e979dbc]EXPLANATORY NOTE
+[^c-0d5f1df3333e85b6099743ba2e979dbc]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -84,4 +84,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-0d5f1df3333e85b6099743ba2e979dbc]: Textual amendment: Regulations revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), reg. 1(1), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9)
+[^c-0d5f1df3333e85b6099743ba2e979dbc]: Textual amendment: Regulations revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), reg. 1(1), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9)

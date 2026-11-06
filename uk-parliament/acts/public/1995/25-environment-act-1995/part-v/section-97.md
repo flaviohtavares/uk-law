@@ -48,7 +48,7 @@ summary: ''
 
 as the appropriate Ministers may consider appropriate.
 
-(6A)[^key-70afe75749d3c6809cecc0e95fd3024e] Subsection (6)(d) does not apply to regulations which apply only in relation to England.
+(6A)[^c-70afe75749d3c6809cecc0e95fd3024e] Subsection (6)(d) does not apply to regulations which apply only in relation to England.
 
 (7) No statutory instrument containing regulations under this section shall be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -77,6 +77,6 @@ as the appropriate Ministers may consider appropriate.
 
 [^c14540071]: Modification: S. 97 explained (1.6.1997) by [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160), [reg. 4](https://www.legislation.gov.uk/uksi/1997/1160/regulation/4)
 
-[^key-70afe75749d3c6809cecc0e95fd3024e]: Textual amendment: S. 97(6A) inserted (E.) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/12)
+[^c-70afe75749d3c6809cecc0e95fd3024e]: Textual amendment: S. 97(6A) inserted (E.) (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/12)
 
 [^c14540081]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).

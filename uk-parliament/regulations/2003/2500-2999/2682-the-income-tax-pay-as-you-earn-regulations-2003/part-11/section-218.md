@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Certificate that sum due[^key-6805e739a59fe81f9680bc01996f2451]
+## 218. Certificate that sum due[^c-6805e739a59fe81f9680bc01996f2451]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,11 +26,11 @@ summary: ''
 
 |  |  |
 | --- | --- |
-| regulation 75A(10)[^key-f05e3b381430b9fbcbb4565bb447461c] | unpaid amounts from regulation 75A specification |
+| regulation 75A(10)[^c-f05e3b381430b9fbcbb4565bb447461c] | unpaid amounts from regulation 75A specification |
 | regulation 76 | unpaid amounts in regulation 73 return (Form P35) |
 | regulation 77(6) | unpaid amounts in regulation 77 return |
 | regulation 78(8) | unpaid amounts from regulation 78 specification |
-| regulation 79 | unpaid amounts following inspection under Schedule 36 to the Finance Act 2008[^key-d4081a6e73ecdf085ebe18f49223c2e3]. |
+| regulation 79 | unpaid amounts following inspection under Schedule 36 to the Finance Act 2008[^c-d4081a6e73ecdf085ebe18f49223c2e3]. |
 
 (2A)[^M_F_1e7ff5a2-1f69-4de7-c0cb-4566b3a526f8] HMRC may prepare a certificate showing the whole or any part of a combined amount which includes tax without specifying the components of the combined amount.
 
@@ -44,7 +44,7 @@ Paragraph (1) shall apply with any necessary modifications to the certificate.
 | --- | --- |
 | regulation 72(7) | interest consequential on regulation 72 direction |
 | regulation 81(6) | interest consequential on regulation 81 direction |
-| [^key-bca6d24641040a2485f05f238cf95ff1]. . . | [^key-bca6d24641040a2485f05f238cf95ff1]. . . |
+| [^c-bca6d24641040a2485f05f238cf95ff1]. . . | [^c-bca6d24641040a2485f05f238cf95ff1]. . . |
 | regulation 115 | interest on tax overdue under PSA. |
 
 (4A)[^M_F_74aaa388-7906-4157-9e55-ab4c1eae9071] HMRC may prepare a certificate showing the total amount of interest payable in respect of the whole or any part of the combined amount without specifying which components of the combined amount the interest relates to.
@@ -62,19 +62,19 @@ is sufficient evidence that the amount shown in the certificate is the amount of
 
 ## Annotations
 
-[^key-6805e739a59fe81f9680bc01996f2451]: Commencement: [Reg. 218](https://www.legislation.gov.uk/uksi/2003/2682/regulation/218) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-6805e739a59fe81f9680bc01996f2451]: Commencement: [Reg. 218](https://www.legislation.gov.uk/uksi/2003/2682/regulation/218) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
 
 [^M_F_e2d513cd-fb40-4fd4-ec15-b486e3eac528]: Textual amendment: Word in reg. 218(1) substituted (6.4.2008) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2008 (S.I. 2008/782)](https://www.legislation.gov.uk/uksi/2008/782), [regs. 1](https://www.legislation.gov.uk/uksi/2008/782/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2008/782/regulation/16/2)
 
-[^key-f05e3b381430b9fbcbb4565bb447461c]: Textual amendment: Words in [reg. 218(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/218/2) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [50](https://www.legislation.gov.uk/uksi/2012/822/regulation/50)
+[^c-f05e3b381430b9fbcbb4565bb447461c]: Textual amendment: Words in [reg. 218(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/218/2) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [50](https://www.legislation.gov.uk/uksi/2012/822/regulation/50)
 
-[^key-d4081a6e73ecdf085ebe18f49223c2e3]: Textual amendment: Words in reg. 218(2) substituted (1.4.2009) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2009 (S.I. 2009/588)](https://www.legislation.gov.uk/uksi/2009/588), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/588/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2009/588/regulation/8)
+[^c-d4081a6e73ecdf085ebe18f49223c2e3]: Textual amendment: Words in reg. 218(2) substituted (1.4.2009) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2009 (S.I. 2009/588)](https://www.legislation.gov.uk/uksi/2009/588), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/588/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2009/588/regulation/8)
 
 [^M_F_1e7ff5a2-1f69-4de7-c0cb-4566b3a526f8]: Textual amendment: Reg. 218(2A) inserted (6.4.2008) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2008 (S.I. 2008/782)](https://www.legislation.gov.uk/uksi/2008/782), [regs. 1](https://www.legislation.gov.uk/uksi/2008/782/regulation/1), [16(3)](https://www.legislation.gov.uk/uksi/2008/782/regulation/16/3)
 
 [^M_F_287f5ab7-e860-4138-ead1-d2e1016e4496]: Textual amendment: Word in reg. 218(3) substituted (6.4.2008) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2008 (S.I. 2008/782)](https://www.legislation.gov.uk/uksi/2008/782), [regs. 1](https://www.legislation.gov.uk/uksi/2008/782/regulation/1), [16(4)](https://www.legislation.gov.uk/uksi/2008/782/regulation/16/4)
 
-[^key-bca6d24641040a2485f05f238cf95ff1]: Textual amendment: Words in [reg. 218(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/218/4) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Interest on Late Payments and Repayments), Appointed Days and Consequential Provisions Order 2014 (S.I. 2014/992)](https://www.legislation.gov.uk/uksi/2014/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/992/article/1/1), [9(7)](https://www.legislation.gov.uk/uksi/2014/992/article/9/7)
+[^c-bca6d24641040a2485f05f238cf95ff1]: Textual amendment: Words in [reg. 218(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/218/4) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Interest on Late Payments and Repayments), Appointed Days and Consequential Provisions Order 2014 (S.I. 2014/992)](https://www.legislation.gov.uk/uksi/2014/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/992/article/1/1), [9(7)](https://www.legislation.gov.uk/uksi/2014/992/article/9/7)
 
 [^M_F_74aaa388-7906-4157-9e55-ab4c1eae9071]: Textual amendment: Reg. 218(4A) inserted (6.4.2008) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2008 (S.I. 2008/782)](https://www.legislation.gov.uk/uksi/2008/782), [regs. 1](https://www.legislation.gov.uk/uksi/2008/782/regulation/1), [16(5)](https://www.legislation.gov.uk/uksi/2008/782/regulation/16/5)
 

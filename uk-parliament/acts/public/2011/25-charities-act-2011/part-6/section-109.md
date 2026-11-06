@@ -31,10 +31,10 @@ has been effected in relation to the account within the period of 5 years immedi
 
 (3) For the purposes of sections 107 and 108 and this section, a “**relevant institution**” means—
 
-- (a) the Bank of England (acting otherwise than in its capacity as the Prudential Regulation Authority)[^key-d3d97bb1ca2167253039e427508ed1bb],
-- (b) a person who has permission under Part 4A[^key-11201d293ced803afeac48926bcfa061] of the Financial Services and Markets Act 2000 to accept deposits,
-- (c)[^key-b04b070acf0a3c2631af0f786f1014b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
-- (d) such other person who may lawfully accept deposits in the United Kingdom as may be prescribed by the Secretary of State[^key-cb4a63c4df19783fa81a2da05c603725].
+- (a) the Bank of England (acting otherwise than in its capacity as the Prudential Regulation Authority)[^c-d3d97bb1ca2167253039e427508ed1bb],
+- (b) a person who has permission under Part 4A[^c-11201d293ced803afeac48926bcfa061] of the Financial Services and Markets Act 2000 to accept deposits,
+- (c)[^c-b04b070acf0a3c2631af0f786f1014b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+- (d) such other person who may lawfully accept deposits in the United Kingdom as may be prescribed by the Secretary of State[^c-cb4a63c4df19783fa81a2da05c603725].
 
 (4) In subsection (3), paragraphs (b) to (d) are to be read with—
 
@@ -60,10 +60,10 @@ as the charity trustees may determine (and any reference to any amount received 
 
 ## Annotations
 
-[^key-d3d97bb1ca2167253039e427508ed1bb]: Textual amendment: Words in s. 109(3)(a) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/20)
+[^c-d3d97bb1ca2167253039e427508ed1bb]: Textual amendment: Words in s. 109(3)(a) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/20)
 
-[^key-11201d293ced803afeac48926bcfa061]: Textual amendment: Words in s. 109(3) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 136](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/136) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-11201d293ced803afeac48926bcfa061]: Textual amendment: Words in s. 109(3) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 136](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/136) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-b04b070acf0a3c2631af0f786f1014b6]: Textual amendment: S. 109(3)(c) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/42) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b04b070acf0a3c2631af0f786f1014b6]: Textual amendment: S. 109(3)(c) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/42) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb4a63c4df19783fa81a2da05c603725]: Textual amendment: Words in s. 109(3)(d) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(q)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/q) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-cb4a63c4df19783fa81a2da05c603725]: Textual amendment: Words in s. 109(3)(d) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(q)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/q) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

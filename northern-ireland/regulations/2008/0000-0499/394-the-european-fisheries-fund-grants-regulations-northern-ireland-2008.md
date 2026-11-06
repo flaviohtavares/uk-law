@@ -31,7 +31,7 @@ summary: ''
 
 Fisheries
 
-The European Fisheries Fund (Grants) Regulations (Northern Ireland) 2008 (revoked)[^key-26511cc50dfc0536c9df08ba3dbc224d]
+The European Fisheries Fund (Grants) Regulations (Northern Ireland) 2008 (revoked)[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 Made
 
@@ -41,78 +41,78 @@ Coming into operation
 
 20th October 2008
 
-[^key-26511cc50dfc0536c9df08ba3dbc224d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26511cc50dfc0536c9df08ba3dbc224d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 1. Citation and commencement[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 2. Interpretation[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. References to Council Regulation [(EC) 1198/2006](https://www.legislation.gov.uk/european/regulation/2006/1198)[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 3. References to Council Regulation [(EC) 1198/2006](https://www.legislation.gov.uk/european/regulation/2006/1198)[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Payment by the Department[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 4. Payment by the Department[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Advertisement of grants[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 5. Advertisement of grants[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application for a grant[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 6. Application for a grant[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Approval of applications[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 7. Approval of applications[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Notification of decisions[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 8. Notification of decisions[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Evidence of expenditure or action[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 9. Evidence of expenditure or action[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Method of payment[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 10. Method of payment[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Information[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 11. Information[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Records[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 12. Records[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Recovery of payment[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 13. Recovery of payment[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Powers of entry[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 14. Powers of entry[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Obstruction[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 15. Obstruction[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Penalties[^key-26511cc50dfc0536c9df08ba3dbc224d]
+## 16. Penalties[^c-26511cc50dfc0536c9df08ba3dbc224d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26511cc50dfc0536c9df08ba3dbc224d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26511cc50dfc0536c9df08ba3dbc224d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26511cc50dfc0536c9df08ba3dbc224d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26511cc50dfc0536c9df08ba3dbc224d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26511cc50dfc0536c9df08ba3dbc224d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/394) revoked with savings (14.1.2016) by [The European Maritime and Fisheries Fund (Financial Assistance) Regulations (Northern Ireland) 2015 (S.R. 2015/399)](https://www.legislation.gov.uk/nisr/2015/399), [reg. 15(1)(c)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/1/c) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/2)[(3)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/3))
+[^c-26511cc50dfc0536c9df08ba3dbc224d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/394) revoked with savings (14.1.2016) by [The European Maritime and Fisheries Fund (Financial Assistance) Regulations (Northern Ireland) 2015 (S.R. 2015/399)](https://www.legislation.gov.uk/nisr/2015/399), [reg. 15(1)(c)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/1/c) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/2)[(3)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/3))

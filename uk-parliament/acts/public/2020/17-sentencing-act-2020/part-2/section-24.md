@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Further powers to commit offender to the Crown Court to be dealt with[^key-4bc378c0e4566790ed42f0574c893c0a]
+## 24. Further powers to commit offender to the Crown Court to be dealt with[^c-4bc378c0e4566790ed42f0574c893c0a]
 
 *Extent: E+W*
 
@@ -27,12 +27,12 @@ summary: ''
 - (c) section 43(1) of the Mental Health Act 1983 (power of magistrates' courts to commit for restriction order);
 - (d) section 6(6) of the Bail Act 1976 (offence of absconding by person released on bail);
 - (e) section 9(3) of that Act (offence of agreeing to indemnify sureties in criminal proceedings);
-- (f)[^key-0750a6c9c1415664430f30f53d147714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-0750a6c9c1415664430f30f53d147714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Nothing in subsection (1) is to be taken to limit any other power of a magistrates' court to commit an offender to the Crown Court.
 
 ## Annotations
 
-[^key-4bc378c0e4566790ed42f0574c893c0a]: Commencement: S. 24 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4bc378c0e4566790ed42f0574c893c0a]: Commencement: S. 24 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0750a6c9c1415664430f30f53d147714]: Textual amendment: S. 24(1)(f) omitted (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(7)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/7/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-0750a6c9c1415664430f30f53d147714]: Textual amendment: S. 24(1)(f) omitted (29.6.2026) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(7)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/7/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)

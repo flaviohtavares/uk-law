@@ -354,7 +354,7 @@ In regulation 72 (Class 1A contribution due on succession to business)—
   - (i) for “income tax month”, in both places where it occurs, substitute “ tax month ”; and
   - (ii) after “14 days” insert “ or, where payment is made by an approved method of electronic communications in respect of earnings paid after 5th April 2004, 17 days ”;
 - (c) in paragraph (4)—
-  - (i)[^key-3bc55a5a068242904bb6bec1d80910c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-3bc55a5a068242904bb6bec1d80910c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) for “income tax month”, in each place where it occurs, substitute “ tax month ”;
   - (iii) in the definition of “relevant final tax month” (as amended by head (ii) of this sub-paragraph)—
     - (aa) for “final payment of emoluments” substitute “ final payment of general earnings ”; and
@@ -369,7 +369,7 @@ In regulation 73 (Class 1A contribution due on cessation of business)—
   - (i) after “14 days” insert “ or where payment is made by an approved method of electronic communications in respect of earnings paid after 5th April 2004, 17 days ”;
   - (ii) for “income tax month”, in each place where it occurs, substitute “ tax month ”; and
 - (c) in paragraph (4)—
-  - (i)[^key-d30a7a7c49a11646887289c1a33fd36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-d30a7a7c49a11646887289c1a33fd36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) for “income tax month”, in each place where it occurs, substitute “ tax month ”; and
   - (iii) in the definition of “relevant final tax month” (as amended by head (ii) of this sub-paragraph)—
     - (aa) for “final payment of emoluments” substitute “ final payment of general earnings ”; and
@@ -725,7 +725,7 @@ In the heading to paragraph 13 of Schedule 2 for “from” substitute “ to �
   > A non-cash voucher exempted from liability to income tax under Chapter 4 of Part 3 by virtue of sections 266(1)(a) or 269 of ITEPA 2003 (exemptions: non-cash vouchers and credit-tokens).
 
   ; and
-- (d)[^key-25f735161177c52015a175e87f1ecdb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-25f735161177c52015a175e87f1ecdb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Part 6 (pensions and pension contributions)—
 
@@ -1248,9 +1248,9 @@ In the heading to paragraph 13 of Schedule 2 for “from” substitute “ to �
 
 (3) In paragraphs 5 and 5A [^c538777] of Column A of Schedule 1 to both instruments (employments which are treated as employed earner’s employments) for “emoluments chargeable to income tax under Schedule E”, substitute “ general earnings ”.
 
-(4)[^key-6de6c3787a6e1cfb9b2dc8dc12f481de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6de6c3787a6e1cfb9b2dc8dc12f481de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-eddf9d9dc69bad48e63f2dcb4dd84d7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-eddf9d9dc69bad48e63f2dcb4dd84d7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 35. Amendment to the Intermediaries Regulations and the Northern Ireland Intermediaries Regulations
 
@@ -1408,9 +1408,9 @@ These Regulations do not impose any new costs on business.
 
 [^c538752]: Marginal citation: [Regulation 55](https://www.legislation.gov.uk/uksi/2004/770/regulation/55) was amended by regulations 3 and 10 of [S.I. 2002/2366](https://www.legislation.gov.uk/uksi/2002/2366).
 
-[^key-3bc55a5a068242904bb6bec1d80910c6]: Textual amendment: [Reg. 17(c)(i)](https://www.legislation.gov.uk/uksi/2004/770/regulation/17/c/i) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
+[^c-3bc55a5a068242904bb6bec1d80910c6]: Textual amendment: [Reg. 17(c)(i)](https://www.legislation.gov.uk/uksi/2004/770/regulation/17/c/i) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
 
-[^key-d30a7a7c49a11646887289c1a33fd36d]: Textual amendment: [Reg. 18(c)(i)](https://www.legislation.gov.uk/uksi/2004/770/regulation/18/c/i) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
+[^c-d30a7a7c49a11646887289c1a33fd36d]: Textual amendment: [Reg. 18(c)(i)](https://www.legislation.gov.uk/uksi/2004/770/regulation/18/c/i) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
 
 [^c538753]: Marginal citation: Paragraphs (1A) to (1F) of regulation 80 were inserted by regulations 2 and 3 of [S.I. 2001/2187](https://www.legislation.gov.uk/uksi/2001/2187).
 
@@ -1424,7 +1424,7 @@ These Regulations do not impose any new costs on business.
 
 [^c538758]: Marginal citation: Paragraph 1(2) was substituted by regulation 6 of S.1. 2002/307.
 
-[^key-25f735161177c52015a175e87f1ecdb6]: Textual amendment: [Reg. 28(3)(d)](https://www.legislation.gov.uk/uksi/2004/770/regulation/28/3/d) revoked (6.4.2005) by [Social Security (Contributions) (Amendment No.3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2005/778/regulation/11)
+[^c-25f735161177c52015a175e87f1ecdb6]: Textual amendment: [Reg. 28(3)(d)](https://www.legislation.gov.uk/uksi/2004/770/regulation/28/3/d) revoked (6.4.2005) by [Social Security (Contributions) (Amendment No.3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2005/778/regulation/11)
 
 [^c538761]: Marginal citation: Paragraph 9 was inserted by regulation 2(3) of [S.I. 2003/2340](https://www.legislation.gov.uk/uksi/2003/2340) and substituted by regulation 5(3) of [S.I. 2003/2958](https://www.legislation.gov.uk/uksi/2003/2958).
 
@@ -1460,9 +1460,9 @@ These Regulations do not impose any new costs on business.
 
 [^c538777]: Marginal citation: Paragraph 5A of the Schedule to the Categorisation Regulations was inserted by regulation 3(b) of [S.I. 1998/1728](https://www.legislation.gov.uk/uksi/1998/1728) (which was itself amended by regulation 2 of [S. I. 1999/3](https://www.legislation.gov.uk/uksi/1999/3)) and was subsequently amended by regulation 3 of [S.I. 2003/736](https://www.legislation.gov.uk/uksi/2003/736). Paragraph 5A of the Schedule to the Northern Ireland Categorisation Regulations was inserted by regulation 3(b) of [S.R. 1998/250](https://www.legislation.gov.uk/nisr/1998/250) (which was itself amended by regulation 2 of [S.I. 1999/2](https://www.legislation.gov.uk/uksi/1999/2)) and was subsequently amended by regulation 3 of [S.I. 2003/733](https://www.legislation.gov.uk/uksi/2003/733).
 
-[^key-6de6c3787a6e1cfb9b2dc8dc12f481de]: Textual amendment: [Reg. 34(4)](https://www.legislation.gov.uk/uksi/2004/770/regulation/34/4) revoked (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [reg. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/635/schedule)
+[^c-6de6c3787a6e1cfb9b2dc8dc12f481de]: Textual amendment: [Reg. 34(4)](https://www.legislation.gov.uk/uksi/2004/770/regulation/34/4) revoked (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [reg. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/635/schedule)
 
-[^key-eddf9d9dc69bad48e63f2dcb4dd84d7c]: Textual amendment: [Reg. 34(5)](https://www.legislation.gov.uk/uksi/2004/770/regulation/34/5) revoked (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [reg. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/635/schedule)
+[^c-eddf9d9dc69bad48e63f2dcb4dd84d7c]: Textual amendment: [Reg. 34(5)](https://www.legislation.gov.uk/uksi/2004/770/regulation/34/5) revoked (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [reg. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/635/schedule)
 
 [^c538780]: Marginal citation: [Regulation 7](https://www.legislation.gov.uk/uksi/2004/770/regulation/7) of the Intermediaries Regulations was amended by regulations 4 of [S.I. 2002/703](https://www.legislation.gov.uk/uksi/2002/703) and regulation 6 of [S.I. 2003/2079](https://www.legislation.gov.uk/uksi/2003/2079)., and regulation 7 of the Northern Ireland Intermediaries Regulations was amended by regulation 4 of [S.I. 2002/705](https://www.legislation.gov.uk/uksi/2002/705) and regulation 6 of 2003/2080.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Enforcement of duty to prevent obstructions.[^key-7f1d93fddb655eca50013c9a21d9f746][^key-a9ccc99543232a17a01c5a45611cc789]
+## 63. Enforcement of duty to prevent obstructions.[^c-7f1d93fddb655eca50013c9a21d9f746][^c-a9ccc99543232a17a01c5a45611cc789]
 
 *Extent: E+W*
 
@@ -128,8 +128,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7f1d93fddb655eca50013c9a21d9f746]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2000/37/section/63) in force at 13.2.2004 for E. by [S.I. 2004/292](https://www.legislation.gov.uk/uksi/2004/292), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/292/article/2/a)
+[^c-7f1d93fddb655eca50013c9a21d9f746]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2000/37/section/63) in force at 13.2.2004 for E. by [S.I. 2004/292](https://www.legislation.gov.uk/uksi/2004/292), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/292/article/2/a)
 
-[^key-a9ccc99543232a17a01c5a45611cc789]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2000/37/section/63) in force at 1.4.2004 for W. by [S.I. 2004/315](https://www.legislation.gov.uk/wsi/2004/315), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/315/article/2/a)
+[^c-a9ccc99543232a17a01c5a45611cc789]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2000/37/section/63) in force at 1.4.2004 for W. by [S.I. 2004/315](https://www.legislation.gov.uk/wsi/2004/315), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/315/article/2/a)
 
 [^c1057065]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).

@@ -31,10 +31,10 @@ summary: ''
 
 of 16 November 2004 on the conclusion of an Agreement between the European Community and the Government of the People’s Republic of China on cooperation and mutual administrative assistance in customs matters (revoked)
 
-[^key-82ec22a86320b096b43e44989eb1ed36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82ec22a86320b096b43e44989eb1ed36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-82ec22a86320b096b43e44989eb1ed36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-82ec22a86320b096b43e44989eb1ed36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82ec22a86320b096b43e44989eb1ed36]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82ec22a86320b096b43e44989eb1ed36]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

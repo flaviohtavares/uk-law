@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Sale of tickets[^key-87d99e0320547061f306657195441766][^key-7a1a6280a4029bf300565b3a5cc7399c]
+## 31. Sale of tickets[^c-87d99e0320547061f306657195441766][^c-7a1a6280a4029bf300565b3a5cc7399c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 (5) Where a person who provides services for electronic communication or for the storage of electronic data discovers that they are being used in connection with the commission of an offence under subsection (1), the defence in subsection (4) does not apply in respect of continued provision of the services after the shortest time reasonably required to withdraw them.
 
-(6) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding £20,000[^key-e6a2125540975daeb621d610e4fe5cc1] .
+(6) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding £20,000[^c-e6a2125540975daeb621d610e4fe5cc1] .
 
 (7) Section 32(2)(b) of the Police and Criminal Evidence Act 1984 (c. 60) (power to search premises) shall, in its application to the offence under subsection (1) above, permit the searching of a vehicle which a constable reasonably thinks was used in connection with the offence.
 
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-87d99e0320547061f306657195441766]: Commencement: S. 31 in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/1)
+[^c-87d99e0320547061f306657195441766]: Commencement: S. 31 in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/1)
 
-[^key-7a1a6280a4029bf300565b3a5cc7399c]: Commencement: S. 31 in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)
+[^c-7a1a6280a4029bf300565b3a5cc7399c]: Commencement: S. 31 in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)
 
-[^key-e6a2125540975daeb621d610e4fe5cc1]: Textual amendment: Word in [s. 31(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/31/6) substituted (14.2.2012) by [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/3/1), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1) (with [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2011/22/section/3/2), [8](https://www.legislation.gov.uk/ukpga/2011/22/section/8))
+[^c-e6a2125540975daeb621d610e4fe5cc1]: Textual amendment: Word in [s. 31(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/31/6) substituted (14.2.2012) by [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/3/1), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1) (with [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2011/22/section/3/2), [8](https://www.legislation.gov.uk/ukpga/2011/22/section/8))

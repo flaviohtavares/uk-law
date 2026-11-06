@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Option to take partial retirement: pre-commencement day cessation[^key-68f6fd9f714dc39665f0eab736863e62]
+## 71. Option to take partial retirement: pre-commencement day cessation[^c-68f6fd9f714dc39665f0eab736863e62]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ and accordingly benefits paid to or in respect of the member under Part 3 or 6 o
 
 ## Annotations
 
-[^key-68f6fd9f714dc39665f0eab736863e62]: Commencement: Reg. 71 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-68f6fd9f714dc39665f0eab736863e62]: Commencement: Reg. 71 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

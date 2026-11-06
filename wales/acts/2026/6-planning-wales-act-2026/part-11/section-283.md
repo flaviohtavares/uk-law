@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 283. Further provision about orders under sections 280 and 281[^key-2919fbc1f5f6fbdd8b7fc10f9b2a2d99]
+## 283. Further provision about orders under sections 280 and 281[^c-2919fbc1f5f6fbdd8b7fc10f9b2a2d99]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2919fbc1f5f6fbdd8b7fc10f9b2a2d99]: Commencement: S. 283 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-2919fbc1f5f6fbdd8b7fc10f9b2a2d99]: Commencement: S. 283 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Registration of information about land[^key-4b16e0d0c046cd3422ddf4e018f57beb]
+## 158. Registration of information about land[^c-4b16e0d0c046cd3422ddf4e018f57beb]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ In Schedule 1 to the Economic Crime (Transparency and Enforcement) Act 2022 (req
 
 ## Annotations
 
-[^key-4b16e0d0c046cd3422ddf4e018f57beb]: Commencement: S. 158 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-4b16e0d0c046cd3422ddf4e018f57beb]: Commencement: S. 158 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

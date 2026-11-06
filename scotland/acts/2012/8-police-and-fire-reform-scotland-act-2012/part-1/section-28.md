@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Police custody and security officers[^key-103d1e20dd2b4d7a913c4f4d0377b420]
+## 28. Police custody and security officers[^c-103d1e20dd2b4d7a913c4f4d0377b420]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-103d1e20dd2b4d7a913c4f4d0377b420]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2012/8/section/28) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-103d1e20dd2b4d7a913c4f4d0377b420]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2012/8/section/28) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

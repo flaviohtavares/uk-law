@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Inquiry inappropriate[^key-5adbd520c06a6ef1cefaf6b58079b8ab]
+## 46. Inquiry inappropriate[^c-5adbd520c06a6ef1cefaf6b58079b8ab]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5adbd520c06a6ef1cefaf6b58079b8ab]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2017/544/regulation/46) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-5adbd520c06a6ef1cefaf6b58079b8ab]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2017/544/regulation/46) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Priority where other deductions required[^key-e09eb779a5772ee50f2bca3c578c207f]
+## 51. Priority where other deductions required[^c-e09eb779a5772ee50f2bca3c578c207f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e09eb779a5772ee50f2bca3c578c207f]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2009/470/regulation/51) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-e09eb779a5772ee50f2bca3c578c207f]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2009/470/regulation/51) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
 [^f00042]: Footnote: [1971 c.32](https://www.legislation.gov.uk/ukpga/1971/32)
 

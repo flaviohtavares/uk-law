@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the transferee has an explosives certificate certifying that the transferee is a fit person to acquire that relevant explosive;
 - (b) the relevant explosive is for immediate export to a transferee resident outside the United Kingdom;
-- (c) the relevant[^key-eacadbe4f5a9d39e60d105f23a3879e6] explosive is for immediate transport to Northern Ireland and the transferee has police consent under regulation 11(1) of the Explosives Regulations (Northern Ireland) 1970 [^c22150721];
+- (c) the relevant[^c-eacadbe4f5a9d39e60d105f23a3879e6] explosive is for immediate transport to Northern Ireland and the transferee has police consent under regulation 11(1) of the Explosives Regulations (Northern Ireland) 1970 [^c22150721];
 - (d) the relevant explosive is for transport to an offshore installation in controlled waters as both those terms are defined in section 12 of the Mineral Workings (Offshore Installations) Act 1971 [^c22150731]; or
 - (e) the transferee is a person specified in regulation 3(7) and, where those provisions apply to a specified person only in particular circumstances or for particular purposes, those circumstances or purposes are satisfied in the case of the person concerned.
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-eacadbe4f5a9d39e60d105f23a3879e6]: Textual amendment: Word in reg. 31(1)(c) inserted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(d)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-eacadbe4f5a9d39e60d105f23a3879e6]: Textual amendment: Word in reg. 31(1)(c) inserted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(d)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c22150721]: Marginal citation: S. R. & O. (NI) No. 110, to which there are amendments not relevant to these Regulations.
 

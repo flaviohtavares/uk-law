@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Transfer of liabilities relating to section 107 arrangements[^key-cbae639e482a4d2bb0bc0d818c6e1870]
+## 110. Transfer of liabilities relating to section 107 arrangements[^c-cbae639e482a4d2bb0bc0d818c6e1870]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbae639e482a4d2bb0bc0d818c6e1870]: Textual amendment: [S. 110](https://www.legislation.gov.uk/ukpga/2006/41/section/110) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 51](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/51); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-cbae639e482a4d2bb0bc0d818c6e1870]: Textual amendment: [S. 110](https://www.legislation.gov.uk/ukpga/2006/41/section/110) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 51](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/51); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

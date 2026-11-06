@@ -31,7 +31,7 @@ summary: ''
 
 HIGHWAYS, ENGLAND
 
-The Street Works (Inspection Fees) (England) (Amendment) Regulations 2004 (revoked)[^key-4d21c20eac2d8c8eba91da277f839942]
+The Street Works (Inspection Fees) (England) (Amendment) Regulations 2004 (revoked)[^c-4d21c20eac2d8c8eba91da277f839942]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1st April 2004
 
-[^key-4d21c20eac2d8c8eba91da277f839942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d21c20eac2d8c8eba91da277f839942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4d21c20eac2d8c8eba91da277f839942]
+## 1. Citation and commencement[^c-4d21c20eac2d8c8eba91da277f839942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Preliminary[^key-4d21c20eac2d8c8eba91da277f839942]
+## 2. Preliminary[^c-4d21c20eac2d8c8eba91da277f839942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 3 (inspection fees)[^key-4d21c20eac2d8c8eba91da277f839942]
+## 3. Amendment to regulation 3 (inspection fees)[^c-4d21c20eac2d8c8eba91da277f839942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d21c20eac2d8c8eba91da277f839942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d21c20eac2d8c8eba91da277f839942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4d21c20eac2d8c8eba91da277f839942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4d21c20eac2d8c8eba91da277f839942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4d21c20eac2d8c8eba91da277f839942]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/572) revoked (1.4.2023) by [The Street Works (Inspection Fees) (England) Regulations 2022 (S.I. 2022/830)](https://www.legislation.gov.uk/uksi/2022/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/830/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2022/830/regulation/10/b)
+[^c-4d21c20eac2d8c8eba91da277f839942]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/572) revoked (1.4.2023) by [The Street Works (Inspection Fees) (England) Regulations 2022 (S.I. 2022/830)](https://www.legislation.gov.uk/uksi/2022/830), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/830/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2022/830/regulation/10/b)

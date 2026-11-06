@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Commercial air transport – special rules for hire of aircraft[^key-506396c812fc0237dc18e7f5c6f3f0e4]
+## 173. Commercial air transport – special rules for hire of aircraft[^c-506396c812fc0237dc18e7f5c6f3f0e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-506396c812fc0237dc18e7f5c6f3f0e4]: Commencement: [Art. 173](https://www.legislation.gov.uk/uksi/2015/870/article/173) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-506396c812fc0237dc18e7f5c6f3f0e4]: Commencement: [Art. 173](https://www.legislation.gov.uk/uksi/2015/870/article/173) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. General prohibition on unauthorised payments[^key-1b7f677e8221b10d9748c5298880c0d9]
+## 160. General prohibition on unauthorised payments[^c-1b7f677e8221b10d9748c5298880c0d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires or authorises the making of any payment, w
 
 ## Annotations
 
-[^key-1b7f677e8221b10d9748c5298880c0d9]: Commencement: [Reg. 160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-1b7f677e8221b10d9748c5298880c0d9]: Commencement: [Reg. 160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

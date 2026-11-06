@@ -46,7 +46,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-05b82765d23a381328766e2172ebf821]
+### 1. Citation and commencement[^c-05b82765d23a381328766e2172ebf821]
 
 (1) These Regulations may be cited as the Audiovisual Media Services Regulations 2020.
 
@@ -61,7 +61,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 ### CHAPTER 1 — Amendments to the Broadcasting Acts 1990 and 1996
 
-**2.**[^key-5ed6a62f1cb0239522c3263c3bfe583e] In the Broadcasting Act 1990[^f00005]—
+**2.**[^c-5ed6a62f1cb0239522c3263c3bfe583e] In the Broadcasting Act 1990[^f00005]—
 
 - (a) for section 42A (restricted services)[^f00006] substitute—
 
@@ -76,7 +76,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**3.**[^key-35ed34f610ed6ccf8e396896a1cfde4a] In the Broadcasting Act 1996—
+**3.**[^c-35ed34f610ed6ccf8e396896a1cfde4a] In the Broadcasting Act 1996—
 
 - (a) in section 1(4) (digital programme services)[^f00009]—
   - (i) after “means a service” insert “(or a dissociable section of a service)”;
@@ -95,9 +95,9 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 ### CHAPTER 2 — Amendments to the Communications Act 2003
 
-**4.**[^key-25640d7ebfcdc31eca10ba2719e64fd8] Part 3 of the Communications Act 2003 is amended in accordance with this Chapter.
+**4.**[^c-25640d7ebfcdc31eca10ba2719e64fd8] Part 3 of the Communications Act 2003 is amended in accordance with this Chapter.
 
-**5.**[^key-692dc7e7ff74e5642ed78dbfefd67754] In section 232 (meaning of “television licensable content service”)[^f00013]—
+**5.**[^c-692dc7e7ff74e5642ed78dbfefd67754] In section 232 (meaning of “television licensable content service”)[^f00013]—
 
 - (a) in subsection (1)—
   - (i) after “any service” insert “, or dissociable section of a service,”;
@@ -105,11 +105,11 @@ The Secretary of State, being a Minister designated for the purposes of section 
 - (b) in subsection (2), in the words before paragraph (a), after “A service” insert “, or dissociable section of a service,”;
 - (c) in subsection (3)(a), for “a service consisting of television programmes” substitute “a service, or dissociable section of a service, consisting of television programmes”.
 
-**6.**[^key-43b482a3ce395dab7594c02ee77f8a69] In section 233 (services that are not television licensable content services)[^f00014], in each of subsections (1), (2), (4), (5) and (7), after “A service” insert “, or dissociable section of a service,”.
+**6.**[^c-43b482a3ce395dab7594c02ee77f8a69] In section 233 (services that are not television licensable content services)[^f00014], in each of subsections (1), (2), (4), (5) and (7), after “A service” insert “, or dissociable section of a service,”.
 
-**7.**[^key-7ee4a90d7c0dabf7273ec4cd621096db] In the italic heading before section 303, for “the deaf and visually impaired” substitute “people with disabilities”.
+**7.**[^c-7ee4a90d7c0dabf7273ec4cd621096db] In the italic heading before section 303, for “the deaf and visually impaired” substitute “people with disabilities”.
 
-**8.**[^key-ed38109e7c0eca7fff8480f17fd74eb7] In section 303 (code relating to provision for the deaf and visually impaired)—
+**8.**[^c-ed38109e7c0eca7fff8480f17fd74eb7] In section 303 (code relating to provision for the deaf and visually impaired)—
 
 - (a) in the heading, for “the deaf and visually impaired” substitute “people with disabilities”;
 - (b) in subsection (1)(a), after “enjoyment by” insert “people with disabilities, in particular”;
@@ -123,12 +123,12 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**9.**[^key-78d7ec52c7c39f6f502c924184ca1e40] In section 304 (procedure for issuing and revising code under section 303)—
+**9.**[^c-78d7ec52c7c39f6f502c924184ca1e40] In section 304 (procedure for issuing and revising code under section 303)—
 
 - (a) in subsection (1)(a), for “persons falling within subsection (1)(a)(i), (ii) or (iii) of that section” substitute “people with disabilities”;
 - (b) in subsection (2), after “revision accessible to” insert “people with disabilities, in particular”.
 
-**10.**[^key-20e0d1607d701d58b578fabd469ebcb5] After section 307 insert—
+**10.**[^c-20e0d1607d701d58b578fabd469ebcb5] After section 307 insert—
 
 > **307A. Disabled people: point of contact**
 >
@@ -136,12 +136,12 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 .
 
-**11.**[^key-5461868e1e7b089f132843599b34e1ee] In section 310 (code of practice for electronic programme guides)[^f00015], in subsection (3)—
+**11.**[^c-5461868e1e7b089f132843599b34e1ee] In section 310 (code of practice for electronic programme guides)[^f00015], in subsection (3)—
 
 - (a) after “persons with disabilities” insert “, in particular those”;
 - (b) in paragraph (a), omit “such” before “disabilities”.
 
-**12.**[^key-a607dbe08ace23b647726c97acb0bd5c] In section 319 (OFCOM’s standards code)[^f00016]—
+**12.**[^c-a607dbe08ace23b647726c97acb0bd5c] In section 319 (OFCOM’s standards code)[^f00016]—
 
 - (a) in subsection (9), for “subsection (10)” substitute “subsections (10) to (12)”;
 - (b) after subsection (10) insert—
@@ -160,9 +160,9 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**13.**[^key-c9591856b4b198b21029dc75f1c124bc] In the italic heading before section 335A, after “States” insert “and the European Commission”.
+**13.**[^c-c9591856b4b198b21029dc75f1c124bc] In the italic heading before section 335A, after “States” insert “and the European Commission”.
 
-**14.**[^key-473a1bf401b0ac3633373add7a4ed1ec] In section 335A (co-operation with other Member States)[^f00018]—
+**14.**[^c-473a1bf401b0ac3633373add7a4ed1ec] In section 335A (co-operation with other Member States)[^f00018]—
 
 - (a) in the heading, after “States” insert “and the European Commission”;
 - (b) before subsection (1) insert—
@@ -171,7 +171,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**15.**[^key-042107bd322736b7b4990d02ef1aef3d] After section 335A insert—
+**15.**[^c-042107bd322736b7b4990d02ef1aef3d] After section 335A insert—
 
 > **335B. Maintenance of list of providers**
 >
@@ -190,7 +190,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 .
 
-**16.**[^key-55d3a1a070e4fa75b8c9c13ddeac45e8] For section 336(3) (government requirements for licensed services: announcements) substitute—
+**16.**[^c-55d3a1a070e4fa75b8c9c13ddeac45e8] For section 336(3) (government requirements for licensed services: announcements) substitute—
 
 > (3) The direction—
 >
@@ -199,12 +199,12 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 .
 
-**17.**[^key-29798d42ba39773421a1351a132d7f77] In section 362(1) (interpretation of Part 3)[^f00019]—
+**17.**[^c-29798d42ba39773421a1351a132d7f77] In section 362(1) (interpretation of Part 3)[^f00019]—
 
 - (a) in the definition of “assistance for disabled people”, for “means” substitute “includes, in particular,”;
 - (b) in the definition of “television broadcasting service”, after “subsection (4)) a service” insert “(or a dissociable section of a service)”.
 
-**18.**[^key-e16811d47c95cc3ad669dc32de12bca0] In Schedule 11A (restrictions on product placement)[^f00020]—
+**18.**[^c-e16811d47c95cc3ad669dc32de12bca0] In Schedule 11A (restrictions on product placement)[^f00020]—
 
 - (a) for paragraph 3(1) substitute—
 
@@ -232,13 +232,13 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
     .
 
-**19.**[^key-3575fb45c985ddda682133eefdb871ac] In Schedule 12 (corresponding obligations of the BBC and Welsh Authority), in the heading of paragraph 22, for “the deaf and visually impaired” substitute “people with disabilities”.
+**19.**[^c-3575fb45c985ddda682133eefdb871ac] In Schedule 12 (corresponding obligations of the BBC and Welsh Authority), in the heading of paragraph 22, for “the deaf and visually impaired” substitute “people with disabilities”.
 
 ## PART 3 — On-demand programme services
 
-**20.**[^key-cd99ef81e9ebc31e7c7480e326015ff0] The Communications Act 2003 is amended in accordance with this Part.
+**20.**[^c-cd99ef81e9ebc31e7c7480e326015ff0] The Communications Act 2003 is amended in accordance with this Part.
 
-**21.**[^key-72ed862eea84a64be6671208493ad0bc] In section 341 (imposition of penalties on the Welsh Authority)[^f00021], for subsection (1)(jb) substitute—
+**21.**[^c-72ed862eea84a64be6671208493ad0bc] In section 341 (imposition of penalties on the Welsh Authority)[^f00021], for subsection (1)(jb) substitute—
 
 > - (jb) the requirements imposed by section 368CB, section 368D and section 368E(4) (on-demand programme services), except—
 >   - (i) the requirements imposed by section 368D(1) and section 368E(4) so far as they relate to advertising, and
@@ -246,7 +246,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 .
 
-**22.**[^key-5f2c9f247cae6acaa7f7e8eb9c10ba59] Before section 368A insert—
+**22.**[^c-5f2c9f247cae6acaa7f7e8eb9c10ba59] Before section 368A insert—
 
 > **368ZA. Audiovisual programmes**
 >
@@ -254,7 +254,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 .
 
-**23.**[^key-8c64617de9792fea368f842f0bb6716a] In section 368A (meaning of “on-demand programme service”)[^f00022]—
+**23.**[^c-8c64617de9792fea368f842f0bb6716a] In section 368A (meaning of “on-demand programme service”)[^f00022]—
 
 - (a) in subsection (1)—
   - (i) after “a service” insert “(or a dissociable section of a service)”;
@@ -267,7 +267,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
   - (i) after “a service” insert “(or dissociable section of a service)”;
   - (ii) after “the service” insert “(or dissociable section of the service)”.
 
-**24.**[^key-ba55535207f4ca20516d6c4cb23b6745] In section 368B (the appropriate regulatory authority)[^f00023]—
+**24.**[^c-ba55535207f4ca20516d6c4cb23b6745] In section 368B (the appropriate regulatory authority)[^f00023]—
 
 - (a) before subsection (1), insert—
 
@@ -276,7 +276,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
   ;
 - (b) in subsection (1), for “subsection (9)” substitute “subsections (A1) and (9)”.
 
-**25.**[^key-b8e2c69b4eb8fe2452bd8c362aed2a20] After section 368B insert—
+**25.**[^c-b8e2c69b4eb8fe2452bd8c362aed2a20] After section 368B insert—
 
 > **List of providers**
 >
@@ -290,13 +290,13 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 .
 
-**26.**[^key-f6875a7a3a6c2f2117cccb97678b1bb8] In section 368BA (advance notification to appropriate regulatory authority)[^f00024], after subsection (3) insert—
+**26.**[^c-f6875a7a3a6c2f2117cccb97678b1bb8] In section 368BA (advance notification to appropriate regulatory authority)[^f00024], after subsection (3) insert—
 
 > (4) In this section, “significant differences” includes any change that may affect the determination of jurisdiction in accordance with paragraphs 2, 3 and 4 of Article 2 of the Audiovisual Media Services Directive.
 
 .
 
-**27.**[^key-aa0d8eb6c724a23ac3b40623faa40cbd] In section 368BC (accessibility for people with disabilities)[^f00025]—
+**27.**[^c-aa0d8eb6c724a23ac3b40623faa40cbd] In section 368BC (accessibility for people with disabilities)[^f00025]—
 
 - (a) in subsection (1)—
   - (i) for “their services” substitute “such services”;
@@ -308,7 +308,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
   ;
 - (c) in subsection (4)(b) omit “affecting their sight or hearing or both”.
 
-**28.**[^key-c1aab6d06d6025888c5cd18fe1263bfd] In section 368C (duties of the appropriate regulatory authority)[^f00026]—
+**28.**[^c-c1aab6d06d6025888c5cd18fe1263bfd] In section 368C (duties of the appropriate regulatory authority)[^f00026]—
 
 - (a) in subsection (1), for “section 368D” substitute “sections 368CB and 368D”;
 - (b) for subsection (2)[^f00027] substitute—
@@ -325,14 +325,14 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**29.**[^key-17952cd8ee5092e185a6ab4b523c0d91] In section 368CA (code on accessibility for people with disabilities)[^f00028]—
+**29.**[^c-17952cd8ee5092e185a6ab4b523c0d91] In section 368CA (code on accessibility for people with disabilities)[^f00028]—
 
 - (a) in subsection (1)(b)—
   - (i) for “their services” substitute “on-demand programme services”;
   - (ii) omit “affecting their sight or hearing or both”;
 - (b) in subsection (2), after “revision accessible to” insert “people with disabilities, in particular”.
 
-**30.**[^key-585dcd07dc59801b9f55f05527d945fd] Before section 368D insert—
+**30.**[^c-585dcd07dc59801b9f55f05527d945fd] Before section 368D insert—
 
 > **368CB. Quota for European works**
 >
@@ -360,7 +360,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 .
 
-**31.**[^key-f79f07fe31a135fe2c60a4fd8b64c592] In section 368D (duties of service providers)[^f00030]—
+**31.**[^c-f79f07fe31a135fe2c60a4fd8b64c592] In section 368D (duties of service providers)[^f00030]—
 
 - (a) in subsection (1), for “368E to 368H” substitute “368E(1) and (2) and 368F to 368H”;
 - (b) in subsection (2)—
@@ -376,7 +376,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**32.**[^key-f5b2bf73a716eba2f9aede09fd5d3766] In section 368E (harmful material)[^f00031]—
+**32.**[^c-f5b2bf73a716eba2f9aede09fd5d3766] In section 368E (harmful material)[^f00031]—
 
 - (a) in subsection (1), for “hatred” to the end substitute “violence or hatred against a group of persons or a member of a group of persons based on any of the grounds referred to in Article 21 of the Charter of Fundamental Rights of the European Union of 7 December 2000, as adopted at Strasbourg on 12 December 2007[^f00032].”;
 - (b) in subsection (3), before paragraph (a) insert—
@@ -396,7 +396,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
   ;
 - (d) in subsection (5)(c), omit “seriously”.
 
-**33.**[^key-9fedea83bf200a518d25a75d96859890] In section 368F (advertising)[^f00036]—
+**33.**[^c-9fedea83bf200a518d25a75d96859890] In section 368F (advertising)[^f00036]—
 
 - (a) for subsection (2) substitute—
 
@@ -412,7 +412,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
   ;
 - (b) in subsection (4)(e), after “physical” insert “, mental”.
 
-**34.**[^key-8c73aff02c0ef9487bf2f184973d4ce5] In section 368G (sponsorship)[^f00037]—
+**34.**[^c-8c73aff02c0ef9487bf2f184973d4ce5] In section 368G (sponsorship)[^f00037]—
 
 - (a) for subsection (1A) substitute—
 
@@ -430,7 +430,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
     .
 
-**35.**[^key-3f107a24dabdb98d95ca99ddf0bc07eb] In section 368H (prohibition of product placement and exceptions)[^f00038]—
+**35.**[^c-3f107a24dabdb98d95ca99ddf0bc07eb] In section 368H (prohibition of product placement and exceptions)[^f00038]—
 
 - (a) for subsection (3) substitute—
 
@@ -473,7 +473,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**36.**[^key-5058136a5d0c77ddc98bb4dbe2210740] In section 368I (enforcement)[^f00039]—
+**36.**[^c-5058136a5d0c77ddc98bb4dbe2210740] In section 368I (enforcement)[^f00039]—
 
 - (a) in the heading, for “section 368D” substitute “sections 368CB and 368D”;
 - (b) in subsection (1), after “has contravened” insert “section 368CB or”;
@@ -487,7 +487,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**37.**[^key-883160ee20e1c028718bb63750c2e69c] After section 368I insert—
+**37.**[^c-883160ee20e1c028718bb63750c2e69c] After section 368I insert—
 
 > **368IA. Enforcement of section 368E(4)**
 >
@@ -534,7 +534,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 .
 
-**38.**[^key-f852e40935289c59657d67355a02e2e0] In section 368J (financial penalties)[^f00041]—
+**38.**[^c-f852e40935289c59657d67355a02e2e0] In section 368J (financial penalties)[^f00041]—
 
 - (a) in subsection (1)—
   - (i) for “368BD or 368I” substitute “368BD, 368I or 368IA”;
@@ -551,7 +551,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 - (d) in subsection (3)(a), after “contravention” insert “or failure”;
 - (e) in subsection (4), after “contravention” insert “or failure”.
 
-**39.**[^key-44977ac225c51117f8295e12712a9ac8] In section 368K (suspension or restriction of service)[^f00042]—
+**39.**[^c-44977ac225c51117f8295e12712a9ac8] In section 368K (suspension or restriction of service)[^f00042]—
 
 - (a) in the heading, after “contraventions” insert “or failures”;
 - (b) in subsection (1)(a)—
@@ -564,7 +564,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
   ;
 - (d) in each of subsections (1)(c), (2)(c) and (3), after “contravention” insert “or failure”.
 
-**40.**[^key-dc61b3a994d6aadd75ed9f6ae4b2ff2d] In section 368L (suspension or restriction of service for inciting crime or disorder)[^f00043]—
+**40.**[^c-dc61b3a994d6aadd75ed9f6ae4b2ff2d] In section 368L (suspension or restriction of service for inciting crime or disorder)[^f00043]—
 
 - (a) in subsection (1), for paragraph (a) substitute—
 
@@ -581,7 +581,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**41.**[^key-e4905ebe0e7b5001c61b34da2b35bd6e] In section 368O(2) (power to demand information)[^f00044]—
+**41.**[^c-e4905ebe0e7b5001c61b34da2b35bd6e] In section 368O(2) (power to demand information)[^f00044]—
 
 - (a) in paragraph (a)—
   - (i) for “or section 368D” substitute “, 368CB or 368D”,
@@ -595,7 +595,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**42.**[^key-0bb8587252ac0957824cab79db20eba1] After section 368O insert—
+**42.**[^c-0bb8587252ac0957824cab79db20eba1] After section 368O insert—
 
 > **368OA. Co-operation with member States and the European Commission**
 >
@@ -610,7 +610,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 .
 
-**43.**[^key-3fcabf7ddfddcaa0bb1aa509cb97fbd2] In section 368P (application of Part 4A in relation to the BBC)[^f00045]—
+**43.**[^c-3fcabf7ddfddcaa0bb1aa509cb97fbd2] In section 368P (application of Part 4A in relation to the BBC)[^f00045]—
 
 - (a) for subsection (1)(a) substitute—
 
@@ -621,7 +621,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
   - (i) in paragraph (a), for “368C (duties of appropriate regulatory authority)” substitute “368C(4) (codes of conduct: food and beverage promotion and children’s programmes)”;
   - (ii) omit paragraphs (d) and (g).
 
-**44.**[^key-ed116c47f4a19602a252c79d79d94967] In section 368Q (application of Part 4A in relation to the Welsh Authority)[^f00046]—
+**44.**[^c-ed116c47f4a19602a252c79d79d94967] In section 368Q (application of Part 4A in relation to the Welsh Authority)[^f00046]—
 
 - (a) for subsection (1) substitute—
 
@@ -646,7 +646,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
   .
 
-**45.**[^key-bef85ccd458f8deb7422773fff85ab19] In Schedule 12 (corresponding obligations of the BBC and Welsh Authority)[^f00047]—
+**45.**[^c-bef85ccd458f8deb7422773fff85ab19] In Schedule 12 (corresponding obligations of the BBC and Welsh Authority)[^f00047]—
 
 - (a) in paragraph 2(2)(b), after “section 368D” insert “and section 368E(4)”;
 - (b) in paragraph 15, for sub-paragraph (1)(a) substitute—
@@ -681,19 +681,19 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
     .
 
-## PART 4 — Video-sharing platform services[^key-f19c6b3df7c3d4127a35f6463ee75fa1]
+## PART 4 — Video-sharing platform services[^c-f19c6b3df7c3d4127a35f6463ee75fa1]
 
 **No longer in force.**
 
-**46.**[^key-f19c6b3df7c3d4127a35f6463ee75fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-f19c6b3df7c3d4127a35f6463ee75fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-f19c6b3df7c3d4127a35f6463ee75fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-f19c6b3df7c3d4127a35f6463ee75fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-f19c6b3df7c3d4127a35f6463ee75fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-f19c6b3df7c3d4127a35f6463ee75fa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Signal integrity
 
-**49.**[^key-c73e7aa1960a8250bb19e7d7620dc8c3] During the period beginning with 1st November 2020 and ending with IP completion day, the Communications Act 2003[^f00055] has effect as if, after section 347, there were inserted—
+**49.**[^c-c73e7aa1960a8250bb19e7d7620dc8c3] During the period beginning with 1st November 2020 and ending with IP completion day, the Communications Act 2003[^f00055] has effect as if, after section 347, there were inserted—
 
 > **CHAPTER 4A — Signal integrity**
 >
@@ -862,7 +862,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 ## PART 6 — Miscellaneous amendments
 
-**50.**[^key-bdf8e102b842e17d0487e6a6179dfe51] In section 405(1) (general interpretation)[^f00057] of the Communications Act 2003—
+**50.**[^c-bdf8e102b842e17d0487e6a6179dfe51] In section 405(1) (general interpretation)[^f00057] of the Communications Act 2003—
 
 - (a) for the definition of “the Audiovisual Media Services Directive” substitute—
 
@@ -871,23 +871,23 @@ The Secretary of State, being a Minister designated for the purposes of section 
   ;
 - (b) in the definition of “programme”, after “that service” insert “which is an individual item (irrespective of length)”.
 
-**51.**[^key-c0052fbe0339762be6d5a97b01295a5d] In section 115(1) (general interpretation) of the Wireless Telegraphy Act 2006[^f00059], for the definition of “the Audiovisual Media Services Directive” substitute—
+**51.**[^c-c0052fbe0339762be6d5a97b01295a5d] In section 115(1) (general interpretation) of the Wireless Telegraphy Act 2006[^f00059], for the definition of “the Audiovisual Media Services Directive” substitute—
 
 > - “the Audiovisual Media Services Directive” means [Directive 2010/13/EU](https://www.legislation.gov.uk/european/directive/2010/0013) of the European Parliament and of the Council of 10 March 2010 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services;
 
 .
 
-**52.**[^key-9e61f53cac497ac207544c6c9dd41ccb] Omit section 93(3) of the Digital Economy Act 2017[^f00060].
+**52.**[^c-9e61f53cac497ac207544c6c9dd41ccb] Omit section 93(3) of the Digital Economy Act 2017[^f00060].
 
 ## PART 7 — Transitional provision
 
-### 53. Quota for European Works[^key-d1d8c078d92cdef871ff5418530ac7ab]
+### 53. Quota for European Works[^c-d1d8c078d92cdef871ff5418530ac7ab]
 
 (1) This regulation applies where a person is providing an on-demand programme service immediately before 1st November 2020.
 
 (2) The person is to be taken to comply with the requirement of section 368CB(1) of the Communications Act 2003 in relation to the year 2020 if the person complies with that requirement in relation to November and December 2020.
 
-### 54. Advance notification for on-demand programme and video-sharing platform services[^key-b15b8af6d58069a230a600b5ded6bd9c]
+### 54. Advance notification for on-demand programme and video-sharing platform services[^c-b15b8af6d58069a230a600b5ded6bd9c]
 
 (1) Paragraph (2) applies where a person is providing an on-demand programme service immediately before 6th April 2021 and—
 
@@ -907,7 +907,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 - “on-demand programme service” has the same meaning as in the 2003 Act (see section 368A of that Act);
 - “video-sharing platform service” has the same meaning as in the 2003 Act (see section 368S of that Act).
 
-### 55. Signal integrity[^key-1ac256670df198238868435387a303e5]
+### 55. Signal integrity[^c-1ac256670df198238868435387a303e5]
 
 (1) Section 16 of the Interpretation Act 1978 (general savings on repeal)[^f00061] applies in relation to the expiry of Chapter 4A of Part 3 of the 2003 Act (see regulation 49) with the modification in paragraph (2).
 
@@ -977,11 +977,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: [S.I. 1997/1174](https://www.legislation.gov.uk/uksi/1997/1174).
 
-[^key-05b82765d23a381328766e2172ebf821]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-05b82765d23a381328766e2172ebf821]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00004]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-5ed6a62f1cb0239522c3263c3bfe583e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1062/regulation/2) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-5ed6a62f1cb0239522c3263c3bfe583e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1062/regulation/2) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00005]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 
@@ -991,7 +991,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00008]: Footnote: OJ No. L 95, 15.4.2010, p. 1; amended by Directive (EU) 2018/1808 of the European Parliament and of the Council of 14 November 2018 (OJ No. L 303, 28.11.2018, p. 69).
 
-[^key-35ed34f610ed6ccf8e396896a1cfde4a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1062/regulation/3) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-35ed34f610ed6ccf8e396896a1cfde4a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1062/regulation/3) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00009]: Footnote: Section 1(4) was amended by paragraph 74 of Schedule 15 to the Communications Act 2003 and [S.I. 2006/2131](https://www.legislation.gov.uk/uksi/2006/2131).
 
@@ -1001,99 +1001,99 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: The definition of the Audiovisual Media Services Directive was inserted by [S.I. 2013/2217](https://www.legislation.gov.uk/uksi/2013/2217); there are other amendments but none is relevant.
 
-[^key-25640d7ebfcdc31eca10ba2719e64fd8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1062/regulation/4) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-25640d7ebfcdc31eca10ba2719e64fd8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1062/regulation/4) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-692dc7e7ff74e5642ed78dbfefd67754]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1062/regulation/5) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-692dc7e7ff74e5642ed78dbfefd67754]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1062/regulation/5) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00013]: Footnote: Section 232 was amended by [S.I. 2006/2131](https://www.legislation.gov.uk/uksi/2006/2131) and [2009/2979](https://www.legislation.gov.uk/uksi/2009/2979).
 
-[^key-43b482a3ce395dab7594c02ee77f8a69]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1062/regulation/6) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-43b482a3ce395dab7594c02ee77f8a69]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1062/regulation/6) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00014]: Footnote: Section 233 was amended by [S.I. 2006/2131](https://www.legislation.gov.uk/uksi/2006/2131); there is another amending instrument but it is not relevant.
 
-[^key-7ee4a90d7c0dabf7273ec4cd621096db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1062/regulation/7) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-7ee4a90d7c0dabf7273ec4cd621096db]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1062/regulation/7) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-ed38109e7c0eca7fff8480f17fd74eb7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1062/regulation/8) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-ed38109e7c0eca7fff8480f17fd74eb7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1062/regulation/8) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-78d7ec52c7c39f6f502c924184ca1e40]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1062/regulation/9) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-78d7ec52c7c39f6f502c924184ca1e40]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1062/regulation/9) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-20e0d1607d701d58b578fabd469ebcb5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1062/regulation/10) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-20e0d1607d701d58b578fabd469ebcb5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1062/regulation/10) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-5461868e1e7b089f132843599b34e1ee]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1062/regulation/11) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-5461868e1e7b089f132843599b34e1ee]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1062/regulation/11) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00015]: Footnote: There are amending instruments, but none is relevant.
 
-[^key-a607dbe08ace23b647726c97acb0bd5c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1062/regulation/12) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-a607dbe08ace23b647726c97acb0bd5c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1062/regulation/12) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00016]: Footnote: Section 319 was amended by [S.I. 2010/831](https://www.legislation.gov.uk/uksi/2010/831) and [2016/507](https://www.legislation.gov.uk/uksi/2016/507); there are other amending instruments but none is relevant.
 
 [^f00017]: Footnote: Schedule 11A was inserted by [S.I. 2010/831](https://www.legislation.gov.uk/uksi/2010/831) and amended by [S.I. 2016/507](https://www.legislation.gov.uk/uksi/2016/507); there are other amending instruments but none is relevant.
 
-[^key-c9591856b4b198b21029dc75f1c124bc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1062/regulation/13) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-c9591856b4b198b21029dc75f1c124bc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1062/regulation/13) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-473a1bf401b0ac3633373add7a4ed1ec]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1062/regulation/14) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-473a1bf401b0ac3633373add7a4ed1ec]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1062/regulation/14) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00018]: Footnote: Section 335A was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and amended by [S.I. 2010/1883](https://www.legislation.gov.uk/uksi/2010/1883).
 
-[^key-042107bd322736b7b4990d02ef1aef3d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1062/regulation/15) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-042107bd322736b7b4990d02ef1aef3d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1062/regulation/15) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-55d3a1a070e4fa75b8c9c13ddeac45e8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1062/regulation/16) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-55d3a1a070e4fa75b8c9c13ddeac45e8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1062/regulation/16) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-29798d42ba39773421a1351a132d7f77]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1062/regulation/17) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-29798d42ba39773421a1351a132d7f77]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1062/regulation/17) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00019]: Footnote: There are amendments to section 362, but none is relevant to these Regulations.
 
-[^key-e16811d47c95cc3ad669dc32de12bca0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1062/regulation/18) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-e16811d47c95cc3ad669dc32de12bca0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1062/regulation/18) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00020]: Footnote: Schedule 11A was inserted by [S.I. 2010/831](https://www.legislation.gov.uk/uksi/2010/831) and amended by [S.I. 2016/507](https://www.legislation.gov.uk/uksi/2016/507).
 
-[^key-3575fb45c985ddda682133eefdb871ac]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1062/regulation/19) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-3575fb45c985ddda682133eefdb871ac]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1062/regulation/19) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-cd99ef81e9ebc31e7c7480e326015ff0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1062/regulation/20) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-cd99ef81e9ebc31e7c7480e326015ff0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1062/regulation/20) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-72ed862eea84a64be6671208493ad0bc]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1062/regulation/21) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-72ed862eea84a64be6671208493ad0bc]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1062/regulation/21) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00021]: Footnote: Section 341 was amended by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and [2010/419](https://www.legislation.gov.uk/uksi/2010/419).
 
-[^key-5f2c9f247cae6acaa7f7e8eb9c10ba59]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1062/regulation/22) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-5f2c9f247cae6acaa7f7e8eb9c10ba59]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1062/regulation/22) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-8c64617de9792fea368f842f0bb6716a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1062/regulation/23) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-8c64617de9792fea368f842f0bb6716a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1062/regulation/23) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00022]: Footnote: Section 368A was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979).
 
-[^key-ba55535207f4ca20516d6c4cb23b6745]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/1062/regulation/24) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-ba55535207f4ca20516d6c4cb23b6745]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/1062/regulation/24) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00023]: Footnote: Section 368B was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979), amended by [S.I. 2010/419](https://www.legislation.gov.uk/uksi/2010/419); there is another amending instrument but it is not relevant.
 
-[^key-b8e2c69b4eb8fe2452bd8c362aed2a20]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1062/regulation/25) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-b8e2c69b4eb8fe2452bd8c362aed2a20]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/1062/regulation/25) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-f6875a7a3a6c2f2117cccb97678b1bb8]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1062/regulation/26) in force at 6.4.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/3/a)
+[^c-f6875a7a3a6c2f2117cccb97678b1bb8]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1062/regulation/26) in force at 6.4.2021, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/3/a)
 
 [^f00024]: Footnote: Section 368BA was inserted by [S.I. 2010/419](https://www.legislation.gov.uk/uksi/2010/419).
 
-[^key-aa0d8eb6c724a23ac3b40623faa40cbd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/1062/regulation/27) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-aa0d8eb6c724a23ac3b40623faa40cbd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/1062/regulation/27) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00025]: Footnote: Section 368BC was inserted by section 93 of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-c1aab6d06d6025888c5cd18fe1263bfd]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2020/1062/regulation/28) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-c1aab6d06d6025888c5cd18fe1263bfd]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2020/1062/regulation/28) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00026]: Footnote: Section 368C was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979).
 
 [^f00027]: Footnote: Subsection (2) of section 368C was repealed by section 93(3) of the Digital Economy Act 2017, but that repeal is not yet in force. See regulation 52 of these Regulations, which repeal section 93(3) of that Act.
 
-[^key-17952cd8ee5092e185a6ab4b523c0d91]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2020/1062/regulation/29) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-17952cd8ee5092e185a6ab4b523c0d91]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2020/1062/regulation/29) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00028]: Footnote: Section 368CA was inserted by section 93 of the Digital Economy Act 2017.
 
-[^key-585dcd07dc59801b9f55f05527d945fd]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2020/1062/regulation/30) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-585dcd07dc59801b9f55f05527d945fd]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2020/1062/regulation/30) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00029]: Footnote: OJ No. C 223, 7.7.2020, p. 10.
 
-[^key-f79f07fe31a135fe2c60a4fd8b64c592]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2020/1062/regulation/31) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-f79f07fe31a135fe2c60a4fd8b64c592]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2020/1062/regulation/31) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00030]: Footnote: Section 368D was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and amended by [S.I. 2010/419](https://www.legislation.gov.uk/uksi/2010/419).
 
-[^key-f5b2bf73a716eba2f9aede09fd5d3766]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2020/1062/regulation/32) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-f5b2bf73a716eba2f9aede09fd5d3766]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2020/1062/regulation/32) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00031]: Footnote: Section 368E was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979), and amended by [S.I. 2014/2916](https://www.legislation.gov.uk/uksi/2014/2916).
 
@@ -1105,83 +1105,83 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00035]: Footnote: OJ No. L 328, 6.12.2008, p. 55.
 
-[^key-9fedea83bf200a518d25a75d96859890]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2020/1062/regulation/33) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-9fedea83bf200a518d25a75d96859890]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2020/1062/regulation/33) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00036]: Footnote: Section 368F was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979); there is an amending instrument but it is not relevant.
 
-[^key-8c73aff02c0ef9487bf2f184973d4ce5]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2020/1062/regulation/34) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-8c73aff02c0ef9487bf2f184973d4ce5]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2020/1062/regulation/34) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00037]: Footnote: Section 368G was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and amended by [S.I. 2016/507](https://www.legislation.gov.uk/uksi/2016/507); there is another amending instrument but it is not relevant.
 
-[^key-3f107a24dabdb98d95ca99ddf0bc07eb]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2020/1062/regulation/35) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-3f107a24dabdb98d95ca99ddf0bc07eb]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2020/1062/regulation/35) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00038]: Footnote: Section 368H was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979), and amended by [S.I. 2016/507](https://www.legislation.gov.uk/uksi/2016/507) and [2010/831](https://www.legislation.gov.uk/uksi/2010/831).
 
-[^key-5058136a5d0c77ddc98bb4dbe2210740]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2020/1062/regulation/36) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-5058136a5d0c77ddc98bb4dbe2210740]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2020/1062/regulation/36) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00039]: Footnote: Section 368I was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979).
 
-[^key-883160ee20e1c028718bb63750c2e69c]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2020/1062/regulation/37) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-883160ee20e1c028718bb63750c2e69c]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2020/1062/regulation/37) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00040]: Footnote: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36).
 
-[^key-f852e40935289c59657d67355a02e2e0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2020/1062/regulation/38) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-f852e40935289c59657d67355a02e2e0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2020/1062/regulation/38) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00041]: Footnote: Section 368J was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and amended by [S.I. 2010/419](https://www.legislation.gov.uk/uksi/2010/419) and section 93 of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-44977ac225c51117f8295e12712a9ac8]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2020/1062/regulation/39) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-44977ac225c51117f8295e12712a9ac8]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2020/1062/regulation/39) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00042]: Footnote: Section 368K was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979); subsection (1) was amended by [S.I. 2010/419](https://www.legislation.gov.uk/uksi/2010/419) and section 93 of the Digital Economy Act 2017.
 
-[^key-dc61b3a994d6aadd75ed9f6ae4b2ff2d]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2020/1062/regulation/40) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-dc61b3a994d6aadd75ed9f6ae4b2ff2d]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2020/1062/regulation/40) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00043]: Footnote: Section 368L was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979).
 
-[^key-e4905ebe0e7b5001c61b34da2b35bd6e]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2020/1062/regulation/41) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-e4905ebe0e7b5001c61b34da2b35bd6e]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2020/1062/regulation/41) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00044]: Footnote: Section 368O was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979); subsection (2) was amended by [S.I. 2010/419](https://www.legislation.gov.uk/uksi/2010/419) and section 93 of the Digital Economy Act 2017.
 
-[^key-0bb8587252ac0957824cab79db20eba1]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2020/1062/regulation/42) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-0bb8587252ac0957824cab79db20eba1]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2020/1062/regulation/42) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-3fcabf7ddfddcaa0bb1aa509cb97fbd2]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2020/1062/regulation/43) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-3fcabf7ddfddcaa0bb1aa509cb97fbd2]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2020/1062/regulation/43) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00045]: Footnote: Section 368P was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and amended by [S.I. 2010/419](https://www.legislation.gov.uk/uksi/2010/419).
 
-[^key-ed116c47f4a19602a252c79d79d94967]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2020/1062/regulation/44) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-ed116c47f4a19602a252c79d79d94967]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2020/1062/regulation/44) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00046]: Footnote: Section 368Q was inserted by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and amended by [S.I. 2010/419](https://www.legislation.gov.uk/uksi/2010/419).
 
-[^key-bef85ccd458f8deb7422773fff85ab19]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2020/1062/regulation/45) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-bef85ccd458f8deb7422773fff85ab19]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2020/1062/regulation/45) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00047]: Footnote: Schedule 12 was amended by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and [2010/419](https://www.legislation.gov.uk/uksi/2010/419); there are other amending instruments but none is relevant.
 
-[^key-f19c6b3df7c3d4127a35f6463ee75fa1]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1062/part/4) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/2), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)
+[^c-f19c6b3df7c3d4127a35f6463ee75fa1]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1062/part/4) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/2), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)
 
-[^key-c73e7aa1960a8250bb19e7d7620dc8c3]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2020/1062/regulation/49) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-c73e7aa1960a8250bb19e7d7620dc8c3]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2020/1062/regulation/49) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00055]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00056]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-bdf8e102b842e17d0487e6a6179dfe51]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2020/1062/regulation/50) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-bdf8e102b842e17d0487e6a6179dfe51]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2020/1062/regulation/50) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00057]: Footnote: The definition of “the Audiovisual Media Services Directive” was inserted into section 405(1) by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and substituted by [S.I. 2010/1883](https://www.legislation.gov.uk/uksi/2010/1883); there are other amendments but none is relevant.
 
 [^f00058]: Footnote: OJ No. L 95, 15.4.2010, p. 1; amended by Directive (EU) 2018/1808 of the European Parliament and of the Council of 14 November 2018 (OJ No. L 303, 28.11.2018, p. 69).
 
-[^key-c0052fbe0339762be6d5a97b01295a5d]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2020/1062/regulation/51) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-c0052fbe0339762be6d5a97b01295a5d]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2020/1062/regulation/51) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00059]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36). The definition of “the Audiovisual Media Services Directive” was inserted into section 115(1) by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and substituted by [S.I. 2010/1883](https://www.legislation.gov.uk/uksi/2010/1883); there are other amendments but none is relevant.
 
-[^key-9e61f53cac497ac207544c6c9dd41ccb]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2020/1062/regulation/52) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-9e61f53cac497ac207544c6c9dd41ccb]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2020/1062/regulation/52) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00060]: Footnote: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-d1d8c078d92cdef871ff5418530ac7ab]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2020/1062/regulation/53) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-d1d8c078d92cdef871ff5418530ac7ab]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2020/1062/regulation/53) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-b15b8af6d58069a230a600b5ded6bd9c]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2020/1062/regulation/54) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-b15b8af6d58069a230a600b5ded6bd9c]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2020/1062/regulation/54) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
-[^key-1ac256670df198238868435387a303e5]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2020/1062/regulation/55) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
+[^c-1ac256670df198238868435387a303e5]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2020/1062/regulation/55) in force at 1.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2)
 
 [^f00061]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Amendment of article 5[^key-a7c0f4e8bf8363f24fa15f607cad9816]
+## 13. Amendment of article 5[^c-a7c0f4e8bf8363f24fa15f607cad9816]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7c0f4e8bf8363f24fa15f607cad9816]: Commencement: Reg. 13 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-a7c0f4e8bf8363f24fa15f607cad9816]: Commencement: Reg. 13 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

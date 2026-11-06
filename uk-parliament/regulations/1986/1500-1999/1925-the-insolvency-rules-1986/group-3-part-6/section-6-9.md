@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.9. Court in which petition to be presented[^key-89485592b7179fa39b64aac1ab06bbe6]
+## 6.9. Court in which petition to be presented[^c-89485592b7179fa39b64aac1ab06bbe6]
 
 *Extent: E+W*
 
@@ -33,14 +33,14 @@ summary: ''
 
 (4) If the debtor has during those 6 months carried on business in more than one insolvency district, the petition shall be presented to the court for the insolvency district in which is, or has been for the longest period in those 6 months, his principal place of business.
 
-(4A)[^key-920e773ed82fd80e169100d150e1a565] Notwithstanding any other provision of this Rule, where there is in force for the debtor a voluntary arrangement under Part VIII of the Act, the petition shall be presented to the court to which the nominee’s report under section 256 or section 256A or 263C[^key-30a81d2d4a90822d6fff4c6213982f3e] was submitted.
+(4A)[^c-920e773ed82fd80e169100d150e1a565] Notwithstanding any other provision of this Rule, where there is in force for the debtor a voluntary arrangement under Part VIII of the Act, the petition shall be presented to the court to which the nominee’s report under section 256 or section 256A or 263C[^c-30a81d2d4a90822d6fff4c6213982f3e] was submitted.
 
 (5) The petition shall contain sufficient information to establish that it is brought in the appropriate court.
 
 ## Annotations
 
-[^key-89485592b7179fa39b64aac1ab06bbe6]: Commencement: [Rule 6.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-89485592b7179fa39b64aac1ab06bbe6]: Commencement: [Rule 6.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-920e773ed82fd80e169100d150e1a565]: Textual amendment: [Rule 6.9(4A)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.9/4A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 92](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/92)
+[^c-920e773ed82fd80e169100d150e1a565]: Textual amendment: [Rule 6.9(4A)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.9/4A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 92](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/92)
 
-[^key-30a81d2d4a90822d6fff4c6213982f3e]: Textual amendment: Words in [rule 6.9(4A)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.9/4A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/32)
+[^c-30a81d2d4a90822d6fff4c6213982f3e]: Textual amendment: Words in [rule 6.9(4A)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.9/4A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/32)

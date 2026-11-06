@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Prohibition of use of psychoactive substances[^key-36d10eae0b96ea00fa60625e9bd12e95]
+## 178. Prohibition of use of psychoactive substances[^c-36d10eae0b96ea00fa60625e9bd12e95]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36d10eae0b96ea00fa60625e9bd12e95]: Textual amendment: [Art. 178](https://www.legislation.gov.uk/uksi/2013/2870/article/178) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [20(4)](https://www.legislation.gov.uk/uksi/2021/755/article/20/4)
+[^c-36d10eae0b96ea00fa60625e9bd12e95]: Textual amendment: [Art. 178](https://www.legislation.gov.uk/uksi/2013/2870/article/178) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [20(4)](https://www.legislation.gov.uk/uksi/2021/755/article/20/4)

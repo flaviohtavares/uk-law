@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Ancillary provision[^key-f4655c455e48d74929ff12a2719c14ce]
+## 113. Ancillary provision[^c-f4655c455e48d74929ff12a2719c14ce]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4655c455e48d74929ff12a2719c14ce]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2011/9/section/113) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-f4655c455e48d74929ff12a2719c14ce]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2011/9/section/113) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

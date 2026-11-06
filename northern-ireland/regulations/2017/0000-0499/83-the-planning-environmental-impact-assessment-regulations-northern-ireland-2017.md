@@ -46,11 +46,11 @@ The Department for Infrastructure makes the following Regulations in exercise of
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-8b6b02cc19b1df7a0ce70b6e32e90d03]
+### 1. Citation and commencement[^c-8b6b02cc19b1df7a0ce70b6e32e90d03]
 
  These Regulations may be cited as the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 and come into operation on the 16th May 2017.
 
-### 2. Interpretation[^key-4de20de496bd3b017525d43b57934ca7]
+### 2. Interpretation[^c-4de20de496bd3b017525d43b57934ca7]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00004] applies to these Regulations as it applies to an Act of the Assembly.
 
@@ -63,7 +63,7 @@ The Department for Infrastructure makes the following Regulations in exercise of
 - “the Commission” means the Planning Appeals Commission;
 - “council” means a district council;
 - “the Department” means the Department for Infrastructure;
-- “the Directive” means [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092)[^f00005] of the European Parliament and of the Council of the 13 December 2011 on the assessment of the effects of certain public and private projects on the environment, as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052)[^f00006] of the European Parliament and of the Council of 16 April 2014; as it had effect immediately before exit day[^key-87b066da882d9cc108f1c6846811f08a]
+- “the Directive” means [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092)[^f00005] of the European Parliament and of the Council of the 13 December 2011 on the assessment of the effects of certain public and private projects on the environment, as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052)[^f00006] of the European Parliament and of the Council of 16 April 2014; as it had effect immediately before exit day[^c-87b066da882d9cc108f1c6846811f08a]
 - “Directive 2008/98/EC” means Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste as it had effect immediately before IP completion day;[^M_F_7993321a-74cd-48a8-fad4-3efa3f6218ed]
 - “Directive 2009/31/EC” means Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide as it had effect immediately before IP completion day;
 - “documents” includes photographs, drawings, maps and plans;
@@ -110,7 +110,7 @@ The Department for Infrastructure makes the following Regulations in exercise of
   - (a) is required by or under a condition to which a planning permission is subject; and
   - (b) must be obtained before all or part of the development permitted by the planning permission may be begun;
 - “subsequent consent” means consent granted pursuant to a subsequent application;
-- “Union legislation” means[^key-aa70c1b9092e3e5eea3799e791013f53] assimilated[^key-2d67f9e145730efc91193bf9af0bbbac] law;
+- “Union legislation” means[^c-aa70c1b9092e3e5eea3799e791013f53] assimilated[^c-2d67f9e145730efc91193bf9af0bbbac] law;
 
 (3) Subject to paragraph (4), expressions used both in these Regulations and in the 2011 Act have the same meaning for the purposes of these Regulations as they have for the purposes of the 2011 Act.
 
@@ -135,15 +135,15 @@ The Department for Infrastructure makes the following Regulations in exercise of
 
 (10) A requirement in these Regulations that any application, notice or other document should be in writing is fulfilled where the document meets the criteria in paragraph (7).
 
-### 3. Directions[^key-76305d439d9b0d3255b85ca488b8b742]
+### 3. Directions[^c-76305d439d9b0d3255b85ca488b8b742]
 
 (1) The Department may direct that—
 
 - (a) a particular development of a description described in column 1 of the table in Schedule 2 and which does not meet the conditions in sub-paragraphs (a) and (b) of the definition of “Schedule 2 development” is EIA development;
-- (b) [^key-2aca86bcba8ecea030f63c5c98068330]... a particular proposed development specified in the direction is exempted from these Regulations where the application of the Regulations would result in adversely affecting the purpose of the development, provided the objectives of these Regulations are met; or
+- (b) [^c-2aca86bcba8ecea030f63c5c98068330]... a particular proposed development specified in the direction is exempted from these Regulations where the application of the Regulations would result in adversely affecting the purpose of the development, provided the objectives of these Regulations are met; or
 - (c) these Regulations do not apply in relation to a particular proposed development specified in the direction if the development comprises or forms part of a project having the response to civil emergencies as its sole purpose and the application of the Regulations would have an adverse effect on that purpose.
 
-(1A)[^key-53d99ba53d411d7f4c69a22fc65b1851] The Department must not make a direction under paragraph (1)(b) that a project is exempt unless, where the Department considers that the development is likely to have significant effects on the environment in an EEA State, or where an EEA State likely to be significantly affected so requests, the Department has carried out a form of consultation with that EEA State broadly equivalent to the form described in regulation 29 or 30, as appropriate, or is satisfied that such an equivalent consultation has been carried out, before planning permission or subsequent consent is granted in respect of the development.
+(1A)[^c-53d99ba53d411d7f4c69a22fc65b1851] The Department must not make a direction under paragraph (1)(b) that a project is exempt unless, where the Department considers that the development is likely to have significant effects on the environment in an EEA State, or where an EEA State likely to be significantly affected so requests, the Department has carried out a form of consultation with that EEA State broadly equivalent to the form described in regulation 29 or 30, as appropriate, or is satisfied that such an equivalent consultation has been carried out, before planning permission or subsequent consent is granted in respect of the development.
 
 (2) Where a direction is made under paragraph (1), the Department shall send a copy of the direction to the council or councils in whose district the proposed development is to be situated.
 
@@ -153,16 +153,16 @@ The Department for Infrastructure makes the following Regulations in exercise of
 - (b) consider whether another form of assessment would be appropriate; and
 - (c) take such steps as are considered appropriate to bring the information obtained under the other form of assessment to the attention of the public.
 
-(4)[^key-44dc1cce289fc1592acdb449b685aef9] Before planning permission or subsequent consent is given in respect of a development which is exempt under paragraph (1)(b), the council or, as the case may be, the Department, must take into account the results of—
+(4)[^c-44dc1cce289fc1592acdb449b685aef9] Before planning permission or subsequent consent is given in respect of a development which is exempt under paragraph (1)(b), the council or, as the case may be, the Department, must take into account the results of—
 
 - (a) any other assessment considered appropriate by the Department under paragraph (3)(b); and
 - (b) any consultation with an EEA State carried out under paragraph (1A) about the development.
 
-### 4. Prohibition on granting planning permission or subsequent consent without an environmental impact assessment[^key-94c5ccb1c67b9023545557d72446c54a]
+### 4. Prohibition on granting planning permission or subsequent consent without an environmental impact assessment[^c-94c5ccb1c67b9023545557d72446c54a]
 
 A council, the Department or the Commission shall not grant planning permission or subsequent consent for EIA development unless an environmental impact assessment has been carried out in respect of that development.
 
-### 5. Environmental impact assessment[^key-21f7f37958206a2bfed48759071e85bf]
+### 5. Environmental impact assessment[^c-21f7f37958206a2bfed48759071e85bf]
 
 (1) An environmental impact assessment is a process consisting of—
 
@@ -173,7 +173,7 @@ A council, the Department or the Commission shall not grant planning permission 
 (2) The environmental impact assessment shall identify, describe and assess in an appropriate manner, in the light of each individual case, the direct and indirect significant effects of the proposed development on the following factors—
 
 - (a) population and human health;
-- (b) biodiversity, with particular attention to species and habitats protected under any law that implemented[^key-688dcef0aa4379f83f30bbdaf83d3b76] [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043)[^f00016] and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147)[^f00017];
+- (b) biodiversity, with particular attention to species and habitats protected under any law that implemented[^c-688dcef0aa4379f83f30bbdaf83d3b76] [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043)[^f00016] and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147)[^f00017];
 - (c) land, soil, water, air and climate;
 - (d) material assets, cultural heritage and the landscape ; and
 - (e) the interaction between the factors referred to in sub-paragraphs (a) to (d).
@@ -185,7 +185,7 @@ A council, the Department or the Commission shall not grant planning permission 
 
 (4) The council, the Department or the Commission, as the case may be, shall ensure that it has, or has access as necessary to, sufficient expertise to examine the environmental statement.
 
-### 6. Confirmation that development is EIA development[^key-0f3d45da5638157be2ae8c29abbc7fbc]
+### 6. Confirmation that development is EIA development[^c-0f3d45da5638157be2ae8c29abbc7fbc]
 
 (1) Subject to any direction made by the Department under regulation 3(1) or by the Secretary of State under regulation 62 of the Town and Country Planning (Environmental Impact Assessment) Regulations 2017, the occurrence of an event mentioned in paragraph (2) shall determine for the purpose of these Regulations that a particular development is EIA development.
 
@@ -194,7 +194,7 @@ A council, the Department or the Commission shall not grant planning permission 
 - (a) the submission by the applicant or appellant, in relation to that development, of a statement referred to by the applicant or appellant as an environmental statement for the purposes of these Regulations; or
 - (b) the determination by the council or by the Department or, following a hearing by the Commission, confirmation by the council or by the Department, that the development is EIA development.
 
-### 7. Appeals under Section 58 or Section 60 of the 2011 Act[^key-e5f76f9382a51e1e1060f0e60ed60b57]
+### 7. Appeals under Section 58 or Section 60 of the 2011 Act[^c-e5f76f9382a51e1e1060f0e60ed60b57]
 
 (1) Where an appeal is made to the Commission under section 58 or 60, the functions conferred on the council or on the Department by Part 3 to Part 8 of these Regulations shall be exercisable by the Commission in respect of that appeal.
 
@@ -211,7 +211,7 @@ A council, the Department or the Commission shall not grant planning permission 
 
 ## PART 2 — Pre-Application Procedures
 
-### 8. Pre-application determination as to need for environmental impact assessment and opinion as to content of environmental statement[^key-e0bd051676d1cc7e0b3adf4058bddb15]
+### 8. Pre-application determination as to need for environmental impact assessment and opinion as to content of environmental statement[^c-e0bd051676d1cc7e0b3adf4058bddb15]
 
 (1) Subject to paragraphs (2) to (6), before applying for planning permission or subsequent consent, an applicant may request in writing the council or, as the case may be, the Department to—
 
@@ -289,7 +289,7 @@ A council, the Department or the Commission shall not grant planning permission 
 
 ## PART 3 — Preparation of Environmental Statements
 
-### 9. Procedure to facilitate preparation of environmental statements[^key-0f07832bf312579cbb042a2dd230e385]
+### 9. Procedure to facilitate preparation of environmental statements[^c-0f07832bf312579cbb042a2dd230e385]
 
 (1) An applicant who intends to submit an environmental statement to a council or, as the case may be, the Department may give notice in writing of that intention to the council or the Department.
 
@@ -323,13 +323,13 @@ of the name and address of the applicant and of the duty imposed on them by regu
 
 - (iii) inform the applicant in writing of the names and addresses of the bodies so notified.
 
-### 10. Provision of information[^key-91bbb4d3b11dfbd95d496a6e46fa9f5e]
+### 10. Provision of information[^c-91bbb4d3b11dfbd95d496a6e46fa9f5e]
 
 (1) Subject to paragraph (2), any body notified by the council or, as the case may be, the Department pursuant to regulation 9(3) or (4) shall, if requested by the person who intends to submit the environmental statement, or may without such request, enter into consultation with that person with a view to ascertaining whether the body has information in its possession which that person or they consider relevant to the preparation of the environmental statement, and shall make that information available to that person.
 
 (2) Any body which receives a request for information under paragraph (1) shall treat it as a request for information under regulation 5(1) of the Environmental Information Regulations 2004[^f00018].
 
-### 11. Environmental statements[^key-1eef5170b71902c74d465fcd3a1c01be]
+### 11. Environmental statements[^c-1eef5170b71902c74d465fcd3a1c01be]
 
 (1) An EIA application shall be accompanied by an environmental statement for the purposes of these Regulations.
 
@@ -352,7 +352,7 @@ of the name and address of the applicant and of the duty imposed on them by regu
 
 ## PART 4 — Procedures on Receipt of Application
 
-### 12. Application which appears to require determination as to need for environmental impact assessment[^key-7c9c06f40f2f3b1a844db494229a4cef]
+### 12. Application which appears to require determination as to need for environmental impact assessment[^c-7c9c06f40f2f3b1a844db494229a4cef]
 
 (1) Where it appears to the council or, as the case may be, the Department that an application for planning permission—
 
@@ -364,7 +364,7 @@ the council or, as the case may be, the Department shall make a screening determ
 
 (2) Where regulation 8(11) applies by virtue of this regulation, the council or, as the case may be, the Department shall, where necessary to ensure that the applicant has provided the information referred to in regulation 8(3), make a request for additional information before making a screening determination.
 
-### 13. Subsequent application where environmental information previously provided[^key-09378ee0fe679a4ca130eb902ace1d62]
+### 13. Subsequent application where environmental information previously provided[^c-09378ee0fe679a4ca130eb902ace1d62]
 
 (1) This regulation applies where it appears to the council or, as the case may be, the Department that—
 
@@ -378,7 +378,7 @@ the council or, as the case may be, the Department shall make a screening determ
 
 (3) Where it appears to the council or, as the case may be, the Department that the environmental information already before it is not adequate to assess the significant effects of the development on the environment, it shall serve a notice seeking further information in accordance with regulation 21(1).
 
-### 14. Subsequent application where environmental information not previously provided[^key-f6328c2929392de44d02597d5320a836]
+### 14. Subsequent application where environmental information not previously provided[^c-f6328c2929392de44d02597d5320a836]
 
 (1) Where it appears to the council or, as the case may be, the Department that—
 
@@ -392,7 +392,7 @@ the council or, as the case may be, the Department shall make a screening determ
 
 (2) Where regulation 8(11) applies by virtue of this regulation, the council or, as the case may be, the Department shall, where necessary to ensure that the application has provided the information referred to in regulation 8(6), make a request for additional information before issuing a screening determination.
 
-### 15. Application without an environmental statement[^key-0707e375a678a18a70abc9efed07cebe]
+### 15. Application without an environmental statement[^c-0707e375a678a18a70abc9efed07cebe]
 
 (1) Where an EIA application, including an application in respect of development which it has been determined is EIA development under regulation 12 or 14, is not accompanied by an environmental statement or a statement referred to by the applicant as an environmental statement for the purpose of these Regulations, the council or, as the case may be, the Department shall notify the applicant in writing that the submission of such a statement is required.
 
@@ -415,7 +415,7 @@ the council or, as the case may be, the Department shall make a screening determ
 
 (9) Where, following a hearing by the Commission, the council or, as the case may be, the Department withdraws its determination that an environmental statement is required, the period within which the application for planning permission or subsequent application is to be determined shall be calculated from the date of notice to the applicant of the council’s or Department’s withdrawal.
 
-### 16. Application referred to the Department under Section 29 without an environmental statement[^key-c9f6d648ea47f1674ff85bdd7449ab15]
+### 16. Application referred to the Department under Section 29 without an environmental statement[^c-c9f6d648ea47f1674ff85bdd7449ab15]
 
 (1) Where an application has been referred to the Department under section 29 for determination, and it appears to the Department that—
 
@@ -451,7 +451,7 @@ make a request for additional information before making a screening determinatio
 
 (9) Where, following a hearing by the Commission, the Department withdraws its determination that an environmental statement is required, the period within which the application for planning permission or subsequent application is to be determined shall be calculated from the date of notice to the applicant of the Department’s withdrawal.
 
-### 17. Extension of the period for council’s or Department’s decision on an application for planning permission or subsequent application[^key-af214460b4f0e64e2e0415b345fd9421]
+### 17. Extension of the period for council’s or Department’s decision on an application for planning permission or subsequent application[^c-af214460b4f0e64e2e0415b345fd9421]
 
 Where an application for planning permission or subsequent application is an EIA application, Articles 12 and 20 of the General Development Procedure Order shall have effect as if—
 
@@ -471,7 +471,7 @@ there were substituted a reference to a period of 16 weeks; and
 
 ## PART 5 — Publicity and Consultation
 
-### 18. Publicity where an environmental statement is submitted[^key-d013790436edd35e82d540c4004149a1]
+### 18. Publicity where an environmental statement is submitted[^c-d013790436edd35e82d540c4004149a1]
 
 (1) Where an environmental statement is submitted the council or, as the case may be, the Department shall, when it receives the environmental statement publish a notice, by local advertisement, stating —
 
@@ -487,14 +487,14 @@ there were substituted a reference to a period of 16 weeks; and
 
 (3) The council or, as the case may be, the Department shall make the environmental statement available for inspection on a website maintained by it or on its behalf.
 
-### 19. Availability of copies of environmental statement[^key-c344c5a4c9f6e5ed37a95f2b8366dbe8]
+### 19. Availability of copies of environmental statement[^c-c344c5a4c9f6e5ed37a95f2b8366dbe8]
 
 An applicant who submits an environmental statement shall—
 
 - (a) ensure that a reasonable number of copies of the statement are made available at the address given in the notice pursuant to regulation 18(1)(f); and
 - (b) provide the council or, as the case may be, the Department with sufficient copies of it, or parts of it, to enable the council or, as the case may be, the Department to comply with regulation 20 and 3 additional copies.
 
-### 20. Consultation where environmental statement submitted[^key-5710b099f32170937532b8263e263aa1]
+### 20. Consultation where environmental statement submitted[^c-5710b099f32170937532b8263e263aa1]
 
 (1) Where the council receives an environmental statement in relation to a proposed development, it shall consult any other council and bodies mentioned in regulation 9(3) and inform them that they may make representations.
 
@@ -502,7 +502,7 @@ An applicant who submits an environmental statement shall—
 
 (3) The council or, as the case may be, the Department shall give not less than 30 days notice to any council and bodies consulted under paragraph (1) or (2) that environmental information is to be taken into account in determining the application for planning permission or subsequent application.
 
-### 21. Further information and evidence relating to environmental statement[^key-3694459ae84b89f7e68b4ad65d056467]
+### 21. Further information and evidence relating to environmental statement[^c-3694459ae84b89f7e68b4ad65d056467]
 
 (1) Where the applicant has submitted a statement which the applicant refers to as an environmental statement and the council or, as the case may be, the Department is of the opinion that, in order to satisfy the requirements of regulation 11(2), the statement should contain supplementary information which is directly relevant to reaching a reasoned conclusion on the significant effects of the development described in the application on the environment in order to be an environmental statement, it shall require the applicant, by notice in writing, to submit that supplementary information, and such information provided by the applicant is referred to in these Regulations as “further information”.
 
@@ -531,7 +531,7 @@ An applicant who submits an environmental statement shall—
 - (b) the address of that website; and
 - (c) the place on the website where that information may be accessed and how it may be accessed.
 
-### 22. Charges[^key-b0e2fdb1a20def691b0604e3c2741c80]
+### 22. Charges[^c-b0e2fdb1a20def691b0604e3c2741c80]
 
 (1) A reasonable charge reflecting the cost of printing and distribution of an environmental statement, part of it, or further information or any other information may be made by the applicant in respect of copies made available under regulation 19(a).
 
@@ -539,13 +539,13 @@ An applicant who submits an environmental statement shall—
 
 ## PART 6 — Coordination, Decision-making, Monitoring and Notification of Decisions
 
-### 23. Coordination of assessments[^key-e35a386c310146c274a72179e11590d8]
+### 23. Coordination of assessments[^c-e35a386c310146c274a72179e11590d8]
 
 (1) Where, in relation to EIA development, there is, in addition to the requirement for an environmental impact assessment to be carried out in accordance with these Regulations, also a requirement to carry out a Habitats Regulations Assessment, the council or, as the case may be, the Department shall, where appropriate, ensure that the Habitats Regulations Assessment and the environmental impact assessment are coordinated.
 
 (2) In this regulation a “Habitats Regulations Assessment” means an assessment under regulation 43 of the Conservation (Natural Habitats, etc.) Regulations (Northern Ireland) 1995.
 
-### 24. Consideration of whether planning permission or subsequent consent should be granted[^key-cf5e074d981ac0c8fbe7829664596e50]
+### 24. Consideration of whether planning permission or subsequent consent should be granted[^c-cf5e074d981ac0c8fbe7829664596e50]
 
 (1) When determining an EIA application the council or, as the case may be, the Department shall—
 
@@ -558,7 +558,7 @@ An applicant who submits an environmental statement shall—
 
 (3) In cases where no statutory timescale is in place, the decision of the council or, as the case may be, the Department as to whether planning permission or subsequent consent is to be granted shall be taken within a reasonable period of time, taking into account the nature and complexity of the proposed development, from the date on which the council or, as the case may be, the Department has been provided with the environmental information.
 
-### 25. Monitoring[^key-f6fdb749267969548cfba626a474cea5]
+### 25. Monitoring[^c-f6fdb749267969548cfba626a474cea5]
 
 (1) When considering whether to impose a monitoring measure under regulation 24(1)(d), and the nature of any such monitoring measure, the council or, as the case may be, the Department shall consider—
 
@@ -568,7 +568,7 @@ An applicant who submits an environmental statement shall—
 
 (2) Where monitoring measures or measures envisaged to avoid, prevent or reduce and, if possible, offset significant adverse effects on the environment are required, the council or, as the case may be, the Department shall take steps to ensure that those measures are undertaken.
 
-### 26. Information to accompany decisions[^key-2e81507f59e58f93932ac4eb99dd237b]
+### 26. Information to accompany decisions[^c-2e81507f59e58f93932ac4eb99dd237b]
 
 (1) Where an EIA application is determined by a council or, as the case may be, the Department, it shall provide the applicant with the information specified in paragraph (2).
 
@@ -582,7 +582,7 @@ An applicant who submits an environmental statement shall—
   - (iv) any monitoring measures considered appropriate by the council or, as the case may be, the Department; or
 - (c) if the decision is to refuse planning permission or subsequent consent, the main reasons for the refusal.
 
-### 27. Duty to inform the public of decisions[^key-e3e2563ffea9da806ee783a8f7a95ba8]
+### 27. Duty to inform the public of decisions[^c-e3e2563ffea9da806ee783a8f7a95ba8]
 
 (1) Where an EIA application is determined by a council or, as the case may be, the Department, it shall promptly—
 
@@ -609,7 +609,7 @@ An applicant who submits an environmental statement shall—
 
 ## PART 7 — Development by a Council
 
-### 28. Modifications where application is by a council[^key-e3a3a569cbb95f8f1273b86d400bb9cf]
+### 28. Modifications where application is by a council[^c-e3a3a569cbb95f8f1273b86d400bb9cf]
 
 Where the council is also (or would be) the applicant (whether alone or jointly with any other person), these Regulations shall apply to an EIA application (or proposed application) subject to the following modifications—
 
@@ -635,13 +635,13 @@ Where the council is also (or would be) the applicant (whether alone or jointly 
 
 ## PART 8 — Development with Significant Transboundary Effects
 
-### 29. Development in Northern Ireland likely to have significant effects on the environment in an EEA State[^key-8699582a087e0d8b91a48f3e34ea8a66][^key-390a9f5341610f875cbaadc608dcbf97]
+### 29. Development in Northern Ireland likely to have significant effects on the environment in an EEA State[^c-8699582a087e0d8b91a48f3e34ea8a66][^c-390a9f5341610f875cbaadc608dcbf97]
 
-(1) Where a council becomes aware that an EIA application made to it is in respect of proposed development which is likely to have significant effects on the environment in an[^key-f99b9e27b802c82739b6316c3a13f04f] EEA State, the council shall immediately send to the Department a copy of the application and environmental statement and any documents submitted with the application.
+(1) Where a council becomes aware that an EIA application made to it is in respect of proposed development which is likely to have significant effects on the environment in an[^c-f99b9e27b802c82739b6316c3a13f04f] EEA State, the council shall immediately send to the Department a copy of the application and environmental statement and any documents submitted with the application.
 
 (2) Where—
 
-- (a) it comes to the attention of the Department that proposed development in Northern Ireland is the subject of an EIA application and is likely to have significant effects on the environment in an[^key-a71c6e1b54d70e7578c24da31730e89a] EEA State; or
+- (a) it comes to the attention of the Department that proposed development in Northern Ireland is the subject of an EIA application and is likely to have significant effects on the environment in an[^c-a71c6e1b54d70e7578c24da31730e89a] EEA State; or
 - (b) an EEA State likely to be significantly affected by such development so requests, the Department shall—
   - (i) publish a notice in the Belfast Gazette giving the address of the proposed development, stating that it is accompanied by an environmental statement and that it is likely to have significant effects on the environment of an EEA State and giving an address at which additional information may be obtained;
   - (ii) send to the EEA State as soon as possible and no later than the date of publication of the notice referred to in sub-paragraph (b)(i), the particulars mentioned in paragraph (3) and, if relevant, the information referred to in paragraph (4); and
@@ -649,7 +649,7 @@ Where the council is also (or would be) the applicant (whether alone or jointly 
 
 (3) The particulars referred to in paragraph (2)(b)(ii) are—
 
-- (a) a description of the development, together with any available information on its possible significant effect on the environment in an[^key-f74bcbf85fe4d9b8f49db5bd22b2c005] EEA State; and
+- (a) a description of the development, together with any available information on its possible significant effect on the environment in an[^c-f74bcbf85fe4d9b8f49db5bd22b2c005] EEA State; and
 - (b) information on the nature of the decision which may be taken.
 
 (4) Where an EEA State indicates, in accordance with paragraph (2)(b)(iii), that it wishes to participate in the procedure for which these Regulations provide, the Department shall send to that EEA State—
@@ -662,31 +662,31 @@ Where the council is also (or would be) the applicant (whether alone or jointly 
 
 unless that information has already been provided to the EEA State earlier in accordance with paragraph (2)(b)(ii).
 
-(5) The Department shall also ensure that the EEA State concerned is given an opportunity, before planning permission or subsequent consent for the development is granted, to forward to the Department, within a reasonable time, the opinions of its public and of the authorities which the EEA State designated to be consulted about the project[^key-6fcf88dc93debe582ad5fd38d70d5bc4] on the information supplied.
+(5) The Department shall also ensure that the EEA State concerned is given an opportunity, before planning permission or subsequent consent for the development is granted, to forward to the Department, within a reasonable time, the opinions of its public and of the authorities which the EEA State designated to be consulted about the project[^c-6fcf88dc93debe582ad5fd38d70d5bc4] on the information supplied.
 
 (6) The Department shall—
 
 - (a) enter into consultation with the EEA State concerned regarding, amongst other things, the potential significant effects of the development on the environment of that EEA State and the measures envisaged to reduce or eliminate such effects; and
-- (b) determine, in agreement with the [^key-a8956d041672f360c8a637fe32b3c45a]... EEA State, a reasonable period of time for the duration of the consultation period.
+- (b) determine, in agreement with the [^c-a8956d041672f360c8a637fe32b3c45a]... EEA State, a reasonable period of time for the duration of the consultation period.
 
 (7) Where an EEA State has been consulted in accordance with paragraph (6), on the determination of the application concerned, the Department shall inform the EEA State of the decision and shall forward to it the information referred to in regulation 26(2).
 
-### 30. Projects in an EEA State likely to have significant transboundary effects[^key-3c697b571be3c3dd24ffb5a17946f4e1][^key-262aff715d883a81ce98942c9893d4f2]
+### 30. Projects in an EEA State likely to have significant transboundary effects[^c-3c697b571be3c3dd24ffb5a17946f4e1][^c-262aff715d883a81ce98942c9893d4f2]
 
-(1) Where the Department receives from an[^key-7f1dd1193b742a424a320c46771d77b1] EEA State [^key-8d095fac257b54d37fb62c4763bff83a]..., information which the EEA State has gathered from the applicant of a proposed project in that EEA State which is likely to have significant effects on the environment in Northern Ireland, the Department shall [^key-89e2db82834b4071c0d40b3754f88645]...—
+(1) Where the Department receives from an[^c-7f1dd1193b742a424a320c46771d77b1] EEA State [^c-8d095fac257b54d37fb62c4763bff83a]..., information which the EEA State has gathered from the applicant of a proposed project in that EEA State which is likely to have significant effects on the environment in Northern Ireland, the Department shall [^c-89e2db82834b4071c0d40b3754f88645]...—
 
 - (a) enter into consultations with that EEA State regarding, amongst other things, the potential significant effects of the proposed project on the environment in Northern Ireland and the measures envisaged to reduce or eliminate such effects and whether it wishes to participate in that EEA State’s procedure; and
-- (b) determine in agreement with that EEA State a reasonable period, before development consent for the project is granted, during which members of the public in Northern Ireland may submit to the competent authority (which the EEA State designated as responsible for performing the duties arising from the Directive)[^key-352294046e7269b173f59636d3cdd21e] representations [^key-59d303eda3b1a68f1972c4139cede347]....
+- (b) determine in agreement with that EEA State a reasonable period, before development consent for the project is granted, during which members of the public in Northern Ireland may submit to the competent authority (which the EEA State designated as responsible for performing the duties arising from the Directive)[^c-352294046e7269b173f59636d3cdd21e] representations [^c-59d303eda3b1a68f1972c4139cede347]....
 
 (2) The Department shall also—
 
 - (a) arrange for the information referred to in paragraph (1) to be made available, within a reasonable time, both to the authorities in Northern Ireland which it considers are likely to be concerned by the project by reason of the specific environmental responsibilities or local or regional competences, and to the public concerned in Northern Ireland;
 - (b) ensure that those authorities and the public concerned in Northern Ireland are given an opportunity before development consent for the project is granted, to forward to the competent authority in the relevant EEA State, within a reasonable time, their opinion on the information supplied; and
-- (c) make available to the public concerned, in an appropriate manner, any information received from the competent authority of the relevant EEA State [^key-cf64ed4edd9141a6032ae7ae29dfb74f]....
+- (c) make available to the public concerned, in an appropriate manner, any information received from the competent authority of the relevant EEA State [^c-cf64ed4edd9141a6032ae7ae29dfb74f]....
 
 ## PART 9 — Unauthorised EIA Development
 
-### 31. Interpretation of Part 9[^key-172a3b83d7877be00b971ea92b83022b]
+### 31. Interpretation of Part 9[^c-172a3b83d7877be00b971ea92b83022b]
 
 In this Part—
 
@@ -703,15 +703,15 @@ In this Part—
 - “regulation 34 notice” means a notice issued under regulation 34(2);
 - “unauthorised EIA development” means EIA development for which planning permission or subsequent consent has not been granted.
 
-### 32. Duty to ensure objectives of the Directive are met[^key-96f882e7921fd7c329c0048dd473c656]
+### 32. Duty to ensure objectives of the Directive are met[^c-96f882e7921fd7c329c0048dd473c656]
 
-The council or, as the case may be, the Department shall consider the exercise of their enforcement functions in such a way as to secure compliance with the requirements of any law which implemented the Directive and the objectives of the Directive[^key-8f0a2deecc7a3e965bbce7b20d310c33] .
+The council or, as the case may be, the Department shall consider the exercise of their enforcement functions in such a way as to secure compliance with the requirements of any law which implemented the Directive and the objectives of the Directive[^c-8f0a2deecc7a3e965bbce7b20d310c33] .
 
-### 33. Prohibition on the grant of planning permission or subsequent consent for unauthorised EIA development[^key-1ea34bc890fbbd5790dbbccc384234cb]
+### 33. Prohibition on the grant of planning permission or subsequent consent for unauthorised EIA development[^c-1ea34bc890fbbd5790dbbccc384234cb]
 
 The Commission shall not grant planning permission or subsequent consent under section 145(1) in respect of unauthorised EIA development unless an environmental impact assessment has been carried out in respect of that development.
 
-### 34. Determination as to need for environmental statement, etc.[^key-55c3f8426da660a393611191a4412d07]
+### 34. Determination as to need for environmental statement, etc.[^c-55c3f8426da660a393611191a4412d07]
 
 (1) Where it appears to the council or, as the case may be, the Department that the matters constituting the breach of planning control comprise Schedule 1 development or Schedule 2 development, the council or, as the case may be, the Department shall, before an enforcement notice is issued—
 
@@ -743,23 +743,23 @@ The Commission shall not grant planning permission or subsequent consent under s
 
 (7) Where, in relation to paragraph (6), a person proposes to seek a hearing before the Commission, that person shall, by notice in writing, inform the Commission to such effect within 4 weeks of the service of the enforcement notice.
 
-### 35. Time period for submission of environmental statement[^key-441c88bc228209b0eb050778c3869b50]
+### 35. Time period for submission of environmental statement[^c-441c88bc228209b0eb050778c3869b50]
 
 Where the council or, as the case may be, the Department determines or, following a hearing by the Commission, confirms that an environmental statement is required, it shall be submitted to the Commission within 6 months from the date of the determination or such extended period as may be agreed in writing between the appellant and the Commission and if not so submitted the deemed application and the ground (a) appeal (if any) shall elapse at the end of that period.
 
-### 36. Provision of information[^key-de85c038563bff6ff02aed334029fbf0]
+### 36. Provision of information[^c-de85c038563bff6ff02aed334029fbf0]
 
 (1) Subject to paragraph (2), any person on whom a copy of regulation 34 notice is served pursuant to regulation 34(3)(b) to (d) or regulation 34(4)(b) to (d) (“the consultee”) shall, if requested by the person on whom the regulation 34 notice was served, or may without such request, enter into consultation with that person to determine whether the consultee has in their possession any information which that person or the consultee consider relevant to the preparation of an environmental statement and, if they have, the consultee shall make any such information available to that person.
 
 (2) Regulations 10(2) and 22(2) shall apply to information under paragraph (1) as they apply to information under regulation 10(1).
 
-### 37. Procedure where the Commission receives an environmental statement[^key-b0c30411fd24ea71bbc639e48b917957]
+### 37. Procedure where the Commission receives an environmental statement[^c-b0c30411fd24ea71bbc639e48b917957]
 
 (1) Where the Commission receives an environmental statement, or a statement referred to by the appellant as an environmental statement, in connection with an enforcement appeal, it shall send a copy of the statement to the council or, as the case may be, the Department and to the bodies on whom a copy of the regulation 34 notice was served.
 
 (2) The Commission shall give not less than 30 days notice to the council or, as the case may be, the Department and the bodies referred to in paragraph (1) that environmental information will be taken into consideration in determining the ground (a) appeal (if any) and inform them that they may make representations within this period.
 
-### 38. Further information and evidence respecting environmental statements[^key-16566140f4712b4b9b8c3c1ec33e088d]
+### 38. Further information and evidence respecting environmental statements[^c-16566140f4712b4b9b8c3c1ec33e088d]
 
 (1) Regulation 21(1) and (2) shall apply to statements provided in accordance with this Part with the following modifications—
 
@@ -772,7 +772,7 @@ Where the council or, as the case may be, the Department determines or, followin
 
 (4) Where the Department receives a notice under paragraph (3), it shall copy the notice to the council.
 
-### 39. Publicity for environmental statements and decision making[^key-ad0e01f83b867ef3033045915d7889b0]
+### 39. Publicity for environmental statements and decision making[^c-ad0e01f83b867ef3033045915d7889b0]
 
 (1) Where the Commission receives a copy of an environmental statement or a statement submitted by the appellant referred to as an environmental statement, either of which is accompanied by further information and any other information, in connection with an enforcement appeal it shall publish by local advertisement a notice stating—
 
@@ -786,13 +786,13 @@ Where the council or, as the case may be, the Department determines or, followin
 
 (2) Where an appeal is made to the Commission under section 143 in relation to an unauthorised EIA development, the functions conferred to on the council or on the Department by Part 6 shall be exercisable by the Commission in respect of that appeal.
 
-### 40. Significant transboundary effects[^key-3fc5d469e20f08bc4af2d0775caabe85]
+### 40. Significant transboundary effects[^c-3fc5d469e20f08bc4af2d0775caabe85]
 
 Regulation 29 shall apply to unauthorised EIA development as if—
 
 - (a) for regulation 29(1) there were substituted—
 
-  > (1) Where, on the consideration of an appeal under section 143, the Commission is of the opinion that matters which are alleged to constitute the breach of planning control comprise or include EIA development and the development has or is likely to have significant effects on an[^key-bf0129517cb75d4d133ed0898d4b8544] EEA state, it shall notify the Department.
+  > (1) Where, on the consideration of an appeal under section 143, the Commission is of the opinion that matters which are alleged to constitute the breach of planning control comprise or include EIA development and the development has or is likely to have significant effects on an[^c-bf0129517cb75d4d133ed0898d4b8544] EEA state, it shall notify the Department.
 
   ;
 - (b) in regulation 29(2)(a) and (b)(i) the word “proposed” was omitted;
@@ -801,7 +801,7 @@ Regulation 29 shall apply to unauthorised EIA development as if—
 
 ## PART 10 — Permission in Enterprise and Simplified Planning Zones and Permission Granted by Development Orders
 
-### 41. Restrictions on the grant of permission by simplified planning zone schemes and enterprise zone schemes[^key-db001e039eacc3bda7219f2bf4826fef]
+### 41. Restrictions on the grant of permission by simplified planning zone schemes and enterprise zone schemes[^c-db001e039eacc3bda7219f2bf4826fef]
 
 After the commencement of these Regulations—
 
@@ -813,7 +813,7 @@ shall not grant planning permission for—
 - (i) Schedule 1 development; or
 - (ii) Schedule 2 development unless the council or, as the case may be, the Department has made a determination that the development is not EIA development.
 
-### 42. Development Orders[^key-1348f279b1aa379a7545085692be8305]
+### 42. Development Orders[^c-1348f279b1aa379a7545085692be8305]
 
 Subject to paragraph (2), A development order under section 32 made after the commencement of these Regulations shall not grant planning permission for—
 
@@ -822,13 +822,13 @@ Subject to paragraph (2), A development order under section 32 made after the co
 
 ## PART 11 — Miscellaneous
 
-### 43. Objectivity and bias[^key-a52d595ba10985947afda560637b9f60]
+### 43. Objectivity and bias[^c-a52d595ba10985947afda560637b9f60]
 
 (1) The council or, as the case may be, the Department shall perform their duties under these Regulations in an objective manner and so as not to find themselves in a situation giving rise to a conflict of interest.
 
 (2) Where the council or, as the case may be, the Department is (or would be) an applicant and it will also be responsible for determining its own application, the council or, as the case may be, the Department shall make appropriate administrative arrangements to ensure that there is a functional separation, when performing any duty under these Regulations, between the persons making the application and the persons responsible for determining that application.
 
-### 44. Availability of information in relation to determinations, opinions, decisions, etc.[^key-065c4e741edce3b01b36960a4afb9fef]
+### 44. Availability of information in relation to determinations, opinions, decisions, etc.[^c-065c4e741edce3b01b36960a4afb9fef]
 
 (1) The council shall make available for public inspection at all reasonable hours at the place where a register pursuant to Article 24 of the General Development Procedure Order is kept, a copy of—
 
@@ -850,13 +850,13 @@ Subject to paragraph (2), A development order under section 32 made after the co
 
 (4) Where the registers kept under this regulation are kept using electronic storage, the council may make the registers available for inspection by the public on a website maintained by the council for that purpose.
 
-### 45. Hearing by the Commission in relation to the council’s or Department’s determination[^key-4f0fe71120a5f059e6884d45a7241f59]
+### 45. Hearing by the Commission in relation to the council’s or Department’s determination[^c-4f0fe71120a5f059e6884d45a7241f59]
 
 (1) Where a person seeks a hearing before the Commission under regulations 8(19), 15(4), 16(5) or 34(6) it shall afford that person the opportunity of appearing before and being heard by the Commission.
 
 (2) Where a hearing is held, the council or, as the case may be, the Department shall consider the report of the Commission and may confirm, amend or withdraw its determination.
 
-### 46. Use of electronic communications[^key-e04e15611a1e1fbecf1d152fa6e8bdd8]
+### 46. Use of electronic communications[^c-e04e15611a1e1fbecf1d152fa6e8bdd8]
 
 (1) Paragraph (2) applies where a person uses electronic communications to make an application under regulation 8, and except where a contrary intention appears, the applicant shall be taken to have agreed—
 
@@ -866,11 +866,11 @@ Subject to paragraph (2), A development order under section 32 made after the co
 
 (2) In paragraphs (3)(a), 5(a) and 6(a) of regulation 8 the requirement for the application to be accompanied by a plan sufficient to identify the land to which the application relates is satisfied where the applicant identifies the land on an electronic map provided by the council or, as the case may be, the Department and for this purpose a map is taken to be provided where the council or, as the case may be, the Department has published it on its website.
 
-### 47. Application to the Crown[^key-d8c21f7ff7ff4a0e06cdfdc84553b6aa]
+### 47. Application to the Crown[^c-d8c21f7ff7ff4a0e06cdfdc84553b6aa]
 
 These Regulations shall apply to the Crown to the full extent authorised or permitted by the constitutional laws of Northern Ireland.
 
-### 48. Revocation, saving and transitional provisions[^key-b5703db00a42d542235b3e18835ca9e6]
+### 48. Revocation, saving and transitional provisions[^c-b5703db00a42d542235b3e18835ca9e6]
 
 (1) Subject to paragraphs (2) to (4) the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015[^f00020] (“the 2015 Regulations”) are revoked except for regulations 45(3) and (4).
 
@@ -910,14 +910,14 @@ In this Schedule—
 
 The carrying out of development to provide any of the following—
 
-**1.**[^key-10b77c9f8ecfcfb10efe65d1191540a8] Crude-oil refineries (excluding undertakings manufacturing only lubricants from crude oil) and installations for the gasification and liquefaction of 500 tonnes or more of coal or bituminous shale per day.
+**1.**[^c-10b77c9f8ecfcfb10efe65d1191540a8] Crude-oil refineries (excluding undertakings manufacturing only lubricants from crude oil) and installations for the gasification and liquefaction of 500 tonnes or more of coal or bituminous shale per day.
 
-**2.**[^key-8596b507d2a3248c0141c9167e85b2fe]  
+**2.**[^c-8596b507d2a3248c0141c9167e85b2fe]  
 
 - (a) Thermal power stations and other combustion installations with a heat output of 300 megawatts or more; and
 - (b) Nuclear power stations and other nuclear reactors (except research installations for the production and conversion of fissionable and fertile materials, whose maximum power does not exceed 1 kilowatt continuous thermal load).
 
-**3.**[^key-c9fc974ba04e6eb7f234d0a2c88fb585]  
+**3.**[^c-c9fc974ba04e6eb7f234d0a2c88fb585]  
 
 - (a) Installations for the reprocessing of irradiated nuclear fuel.
 - (b) Installations designed—
@@ -927,18 +927,18 @@ The carrying out of development to provide any of the following—
   - (iv) solely for the final disposal of radioactive waste,
   - (v) solely for the storage (planned for more than 10 years) of irradiated nuclear fuels or radioactive waste in a different site than the production site.
 
-**4.**[^key-00f030abb918e5b0d3196f808570ef27]  
+**4.**[^c-00f030abb918e5b0d3196f808570ef27]  
 
 - (a) Integrated works for the initial smelting of cast-iron and steel;
 - (b) Installations for the production of non-ferrous crude metals from ore, concentrates or secondary raw materials by metallurgical, chemical or electrolytic processes.
 
-**5.**[^key-de57db8544fa6c3103215e5ffe4b3842] Installations for the extraction of asbestos and for the processing and transformation of asbestos and products containing asbestos—
+**5.**[^c-de57db8544fa6c3103215e5ffe4b3842] Installations for the extraction of asbestos and for the processing and transformation of asbestos and products containing asbestos—
 
 - (a) for asbestos–cement products, with an annual production of more than 20,000 tonnes of finished products;
 - (b) for friction material, with an annual production of more than 50 tonnes of finished products; and
 - (c) for other uses of asbestos, utilisation of more than 200 tonnes per year.
 
-**6.**[^key-6f33e7af62c22037d302f35e79afcf47] Integrated chemical installations, that is to say, installations for the manufacture on an industrial scale of substances using chemical conversion processes, in which several units are juxtaposed and are functionally linked to one another and which are—
+**6.**[^c-6f33e7af62c22037d302f35e79afcf47] Integrated chemical installations, that is to say, installations for the manufacture on an industrial scale of substances using chemical conversion processes, in which several units are juxtaposed and are functionally linked to one another and which are—
 
 - (a) for the production of base organic chemicals;
 - (b) for the production of basic inorganic chemicals;
@@ -947,73 +947,73 @@ The carrying out of development to provide any of the following—
 - (e) for the production of basic pharmaceutical products using a chemical or biological process;
 - (f) for the production of explosives.
 
-**7.**[^key-c8db44673047f5155128463da74d20c3]  
+**7.**[^c-c8db44673047f5155128463da74d20c3]  
 
 - (a) Construction of lines for long–distance railway traffic and of airports with a basic runway length of 2,100 metres or more;
 - (b) Construction of motorways and express roads;
 - (c) Construction of a new road of four or more lanes, or realignment and/or widening of an existing road of two lanes or less so as to provide four or more lanes, where such new road, or realigned and/or widened section of road would be 10 kilometres or more in a continuous length.
 
-**8.**[^key-bd9231a469f1c8c8b7b08a038726008e]  
+**8.**[^c-bd9231a469f1c8c8b7b08a038726008e]  
 
 - (a) Inland waterways and ports for inland–waterway traffic which permit the passage of vessels of over 1,350 tonnes;
 - (b) Trading ports, piers for loading and unloading connected to land and outside ports (excluding ferry piers) which can take vessels of over 1,350 tonnes.
 
-**9.**[^key-9fc65b125fee914adae0a3e16e661150] Waste disposal installations for the incineration, chemical treatment (as defined in Annex I to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)), of the European Parliament and of the Council on waste and repealing certain directives[^f00023], under heading D9) or landfill of hazardous waste (as defined in regulation 6 of the Hazardous Waste Regulations (Northern Ireland) 2005**)**[^f00024].
+**9.**[^c-9fc65b125fee914adae0a3e16e661150] Waste disposal installations for the incineration, chemical treatment (as defined in Annex I to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)), of the European Parliament and of the Council on waste and repealing certain directives[^f00023], under heading D9) or landfill of hazardous waste (as defined in regulation 6 of the Hazardous Waste Regulations (Northern Ireland) 2005**)**[^f00024].
 
-**10.**[^key-9fb650540f07817f5bedfcd46398b194] Waste disposal installations for the incineration or chemical treatment (as defined in Annex I to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) under heading D9) of non-hazardous waste with a capacity exceeding 100 tonnes per day.
+**10.**[^c-9fb650540f07817f5bedfcd46398b194] Waste disposal installations for the incineration or chemical treatment (as defined in Annex I to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) under heading D9) of non-hazardous waste with a capacity exceeding 100 tonnes per day.
 
-**11.**[^key-295b90f45a31ff7245c3422bf85c3531] Groundwater abstraction or artificial groundwater recharge schemes where the annual volume of water abstracted or recharged is equivalent to or exceeds 10 million cubic metres.
+**11.**[^c-295b90f45a31ff7245c3422bf85c3531] Groundwater abstraction or artificial groundwater recharge schemes where the annual volume of water abstracted or recharged is equivalent to or exceeds 10 million cubic metres.
 
-**12.**[^key-12b27361e4d2a22333120720912b027d]  
+**12.**[^c-12b27361e4d2a22333120720912b027d]  
 
 - (a) Works for the transfer of water resources, other than piped drinking water, between river basins where the transfer aims at preventing possible shortages of water and where the amount of water transferred exceeds 100 million cubic metres per year;
 - (b) In all other cases, works for the transfer of water resources, other than piped drinking water, between river basins where the multi-annual average flow of the basin of abstraction exceeds 2,000 million cubic metres per year and where the amount of water transferred exceeds 5% of this flow.
 
-**13.**[^key-35849398401b0a6c2d4b83633df9eb90] Waste water treatment plants with a capacity exceeding 150,000 population equivalent as defined in Article 2 point (6) of [Directive 91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271)[^f00025].
+**13.**[^c-35849398401b0a6c2d4b83633df9eb90] Waste water treatment plants with a capacity exceeding 150,000 population equivalent as defined in Article 2 point (6) of [Directive 91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271)[^f00025].
 
-**14.**[^key-b4748e367cee7b8b41da72f21377c0b6] Extraction of petroleum and natural gas for commercial purposes where the amount extracted exceeds 500 tonnes per day in the case of petroleum and 500,000 cubic metres per day in the case of gas.
+**14.**[^c-b4748e367cee7b8b41da72f21377c0b6] Extraction of petroleum and natural gas for commercial purposes where the amount extracted exceeds 500 tonnes per day in the case of petroleum and 500,000 cubic metres per day in the case of gas.
 
-**15.**[^key-cf643b85c7b855f39504bff9e47578fe] Dams and other installations designed for the holding back or permanent storage of water, where a new or additional amount of water held back or stored exceeds 10 million cubic metres.
+**15.**[^c-cf643b85c7b855f39504bff9e47578fe] Dams and other installations designed for the holding back or permanent storage of water, where a new or additional amount of water held back or stored exceeds 10 million cubic metres.
 
-**16.**[^key-88343ac865350f0aae6255998ca30ad2] Pipelines with a diameter of more than 800 millimetres and a length of more than 40 kilometres:
+**16.**[^c-88343ac865350f0aae6255998ca30ad2] Pipelines with a diameter of more than 800 millimetres and a length of more than 40 kilometres:
 
 - for the transport of gas, oil or chemicals, or
 - for the transport of carbon dioxide streams for the purposes of geological storage, including associated booster stations.
 
-**17.**[^key-b761a841c31455f78923d02a27d1798d] Installations for the intensive rearing of poultry or pigs with more than—
+**17.**[^c-b761a841c31455f78923d02a27d1798d] Installations for the intensive rearing of poultry or pigs with more than—
 
 - (a) 85,000 places for broilers or 60,000 places for hens;
 - (b) 3,000 places for production pigs (over 30 kg); or
 - (c) 900 places for sows.
 
-**18.**[^key-dc6e0bd71f4e99eec52ff108e7309d98] Industrial plants for—
+**18.**[^c-dc6e0bd71f4e99eec52ff108e7309d98] Industrial plants for—
 
 - (a) the production of pulp from timber or similar fibrous materials;
 - (b) the production of paper and board with a production capacity exceeding 200 tonnes per day.
 
-**19.**[^key-03f431388941b1186ec14f551fc3811c] Quarries and open–cast mining where the surface of the site exceeds 25 hectares, or peat extraction where the surface of the site exceeds 150 hectares.
+**19.**[^c-03f431388941b1186ec14f551fc3811c] Quarries and open–cast mining where the surface of the site exceeds 25 hectares, or peat extraction where the surface of the site exceeds 150 hectares.
 
-**20.**[^key-549a9c877f44b7e4da82fbcba3974795] Construction of overhead electrical power lines with a voltage of 220 kV or more and a length of more than 15 kilometres.
+**20.**[^c-549a9c877f44b7e4da82fbcba3974795] Construction of overhead electrical power lines with a voltage of 220 kV or more and a length of more than 15 kilometres.
 
-**21.**[^key-cc68900ce04aa54961a7d8255acd6111] Installations for storage of petroleum, petrochemical or chemical products with a capacity of 200,000 tonnes or more.
+**21.**[^c-cc68900ce04aa54961a7d8255acd6111] Installations for storage of petroleum, petrochemical or chemical products with a capacity of 200,000 tonnes or more.
 
-**22.**[^key-e915d8ac628931117b21e4e79eedc51a] Storage sites pursuant Chapter 3 of Part 1 of the Energy Act 2008[^key-1b1853b119cb2265288cfc9dd930fba6][^f00024] and any law that implemented to [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide[^f00026].
+**22.**[^c-e915d8ac628931117b21e4e79eedc51a] Storage sites pursuant Chapter 3 of Part 1 of the Energy Act 2008[^c-1b1853b119cb2265288cfc9dd930fba6][^f00024] and any law that implemented to [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide[^f00026].
 
-**23.**[^key-0f19c1e02b03007761896380e57958f4] Installations for the capture of carbon dioxide streams for the purposes<sub></sub>of geological storage pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and any law that implemented[^key-8ac62f5d1681e31629c2497be2d95400] [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) from installations covered by this Schedule, or where the total yearly capture of carbon dioxide is 1.5 megatonnes or more.
+**23.**[^c-0f19c1e02b03007761896380e57958f4] Installations for the capture of carbon dioxide streams for the purposes<sub></sub>of geological storage pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and any law that implemented[^c-8ac62f5d1681e31629c2497be2d95400] [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) from installations covered by this Schedule, or where the total yearly capture of carbon dioxide is 1.5 megatonnes or more.
 
-**24.**[^key-8cdfe10be7f12997deaad0712b01b982] Any change to or extension of development listed in this Schedule where such a change or extension itself meets the thresholds, if any, or description of development set out in this Schedule.
+**24.**[^c-8cdfe10be7f12997deaad0712b01b982] Any change to or extension of development listed in this Schedule where such a change or extension itself meets the thresholds, if any, or description of development set out in this Schedule.
 
 ## SCHEDULE 2 — Descriptions of development and applicable thresholds and criteria for the purposes of the definition of “Schedule 2 development”
 
 Regulation 2(2)
 
-**1.**[^key-7770eeac4c976be4d3fc2794d05180c4] In the Table below—
+**1.**[^c-7770eeac4c976be4d3fc2794d05180c4] In the Table below—
 
 - “area of the works”, includes any area occupied by apparatus, equipment, machinery, materials, plant, spoil heaps or other facilities or stores required for construction or installation;
 - “floorspace”, means floorspace in a building or buildings;
 - “waterway” and “underground strata” have the meanings assigned to them by Article 2(2) of the Water (Northern Ireland) Order 1999[^f00027].
 
-**2.**[^key-f18fc166b5926efa6106bddb5821b7bb] The Table below sets out the descriptions of development and applicable thresholds and criteria for the purposes of classifying development as Schedule 2 development.
+**2.**[^c-f18fc166b5926efa6106bddb5821b7bb] The Table below sets out the descriptions of development and applicable thresholds and criteria for the purposes of classifying development as Schedule 2 development.
 
 <table>
 <thead>
@@ -1109,13 +1109,13 @@ Regulation 2(2)
 </tbody>
 </table>
 
-[^key-422da5939f70cf43f85dec10308ae970]
+[^c-422da5939f70cf43f85dec10308ae970]
 
-## SCHEDULE 3 — Selection criteria referred to in Article 4.3 of the Directive[^key-1791d00a3370a66f998a52c4d17ba33b]
+## SCHEDULE 3 — Selection criteria referred to in Article 4.3 of the Directive[^c-1791d00a3370a66f998a52c4d17ba33b]
 
 Regulation 2(2) definition of “selection criteria”
 
-### 1. Characteristics of development[^key-1791d00a3370a66f998a52c4d17ba33b]
+### 1. Characteristics of development[^c-1791d00a3370a66f998a52c4d17ba33b]
 
 The characteristics of development shall be considered having regard, in particular, to—
 
@@ -1127,7 +1127,7 @@ The characteristics of development shall be considered having regard, in particu
 - (f) the risk of major accidents and/or disasters which are relevant to the development concerned, including those caused by climate change, in accordance with scientific knowledge;
 - (g) the risks to human health (for example due to water contamination or air pollution).
 
-### 2. Location of development[^key-1791d00a3370a66f998a52c4d17ba33b]
+### 2. Location of development[^c-1791d00a3370a66f998a52c4d17ba33b]
 
 The environmental sensitivity of geographical areas likely to be affected by development shall be considered, with particular regard to—
 
@@ -1143,7 +1143,7 @@ The environmental sensitivity of geographical areas likely to be affected by dev
   - (vii) densely populated areas;
   - (viii) landscapes and sites of historical, cultural or archaeological significance.
 
-### 3. Characteristics of the potential impact[^key-1791d00a3370a66f998a52c4d17ba33b]
+### 3. Characteristics of the potential impact[^c-1791d00a3370a66f998a52c4d17ba33b]
 
 The likely significant effects of development on the environment shall be considered in relation to criteria set out under paragraphs 1 and 2 of this Schedule, with regard to the impact of the development on the factors specified in regulation 5(2), taking into account—
 
@@ -1160,20 +1160,20 @@ The likely significant effects of development on the environment shall be consid
 
 Regulation 11(2)
 
-**1.**[^key-794f0e00644bab5e7bf41ce3240c6211] Description of the development, including in particular—
+**1.**[^c-794f0e00644bab5e7bf41ce3240c6211] Description of the development, including in particular—
 
 - (a) a description of the location of the development;
 - (b) a description of the physical characteristics of the whole development, including, where relevant, requisite demolition works, and the land–use requirements during the construction and operational phases;
 - (c) a description of the main characteristics of the operational phase of the development (in particular any production processes), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
 - (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat, radiation) and quantities and types of waste produced during the construction and operation phases.
 
-**2.**[^key-00e629ed510013ad4b53be3c37e0b455] A description of the reasonable alternatives (for example in terms of development design, technology, location, size and scale) studied by the applicant or appellant, which are relevant to the proposed development and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+**2.**[^c-00e629ed510013ad4b53be3c37e0b455] A description of the reasonable alternatives (for example in terms of development design, technology, location, size and scale) studied by the applicant or appellant, which are relevant to the proposed development and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
 
-**3.**[^key-8eb58f421ef6fa31dd3bfc211e89c76a] A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the development as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of availability of environmental information and scientific knowledge.
+**3.**[^c-8eb58f421ef6fa31dd3bfc211e89c76a] A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the development as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of availability of environmental information and scientific knowledge.
 
-**4.**[^key-29c08face2f2f58728bfc1d2808bb086] A description of the factors specified in regulation 5(2) likely to be significantly affected by the development: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+**4.**[^c-29c08face2f2f58728bfc1d2808bb086] A description of the factors specified in regulation 5(2) likely to be significantly affected by the development: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
 
-**5.**[^key-0ef305bf915d83ef40c7687e9701ff40] A description of the likely significant effects of the development resulting from, inter alia:
+**5.**[^c-0ef305bf915d83ef40c7687e9701ff40] A description of the likely significant effects of the development resulting from, inter alia:
 
 - (a) the construction and existence of the development, including, where relevant, demolition works;
 - (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
@@ -1183,17 +1183,17 @@ Regulation 11(2)
 - (f) the impact of the development on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the development to climate change;
 - (g) the technologies and the substances used.
 
-The description of the likely significant effects on the factors specified in regulation 5(2) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the development. This description should take into account the environmental protection objectives established at Union or United Kingdom level (as they had effect immediately before exit day)[^key-749d5ccc23853d07bd39db45836e143d] which are relevant to the development including in particular those established under any law that implemented[^key-281d9797120b6189342d7820448d32f6] Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147).
+The description of the likely significant effects on the factors specified in regulation 5(2) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the development. This description should take into account the environmental protection objectives established at Union or United Kingdom level (as they had effect immediately before exit day)[^c-749d5ccc23853d07bd39db45836e143d] which are relevant to the development including in particular those established under any law that implemented[^c-281d9797120b6189342d7820448d32f6] Council [Directive 92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147).
 
-**6.**[^key-89d61bbf6f6a811056fc45e924ccf5a9] A description of the forecasting methods or evidence used to identify and assess the significant effects on the environment, including details of the difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+**6.**[^c-89d61bbf6f6a811056fc45e924ccf5a9] A description of the forecasting methods or evidence used to identify and assess the significant effects on the environment, including details of the difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
 
-**7.**[^key-47a014333fc08ab916cdc349cecdf426] A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-development analysis). That description should explain the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+**7.**[^c-47a014333fc08ab916cdc349cecdf426] A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-development analysis). That description should explain the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
 
-**8.**[^key-659909e181c30bcb9654cc51ad44c6eb] A description of the expected significant adverse effects of the development on the environment deriving from the vulnerability of the development to risks to major accidents and/or disasters which are relevant to the development concerned. Relevant information available and obtained through risk assessments pursuant to Union legislation such as any law that implemented[^key-b06c9796621534b839e93b8a1794b7ac] [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council or Council Directive 2009/71/Euratom as it had effect immediately before IP completion day[^M_F_f0b85fac-2d07-439c-b5b7-d8b6872da5a6] or relevant assessments carried out pursuant to national legislation may be used for this purpose provided that the requirements of any law that implemented[^key-84f90beb68b6282149771d58552a5490] the Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+**8.**[^c-659909e181c30bcb9654cc51ad44c6eb] A description of the expected significant adverse effects of the development on the environment deriving from the vulnerability of the development to risks to major accidents and/or disasters which are relevant to the development concerned. Relevant information available and obtained through risk assessments pursuant to Union legislation such as any law that implemented[^c-b06c9796621534b839e93b8a1794b7ac] [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council or Council Directive 2009/71/Euratom as it had effect immediately before IP completion day[^M_F_f0b85fac-2d07-439c-b5b7-d8b6872da5a6] or relevant assessments carried out pursuant to national legislation may be used for this purpose provided that the requirements of any law that implemented[^c-84f90beb68b6282149771d58552a5490] the Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
 
-**9.**[^key-b5d79a5aa86d24b3bdf679986d18b43c] A non–technical summary of the information provided under paragraphs 1 to 8.
+**9.**[^c-b5d79a5aa86d24b3bdf679986d18b43c] A non–technical summary of the information provided under paragraphs 1 to 8.
 
-**10.**[^key-d738d21a8be6b9ddf92b722a647b705d] A reference list detailing the sources used for the descriptions and assessments included in the Environmental Statement.
+**10.**[^c-d738d21a8be6b9ddf92b722a647b705d] A reference list detailing the sources used for the descriptions and assessments included in the Environmental Statement.
 
 EXPLANATORY NOTE
 
@@ -1237,9 +1237,9 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 [^f00003]: Footnote: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
 
-[^key-8b6b02cc19b1df7a0ce70b6e32e90d03]: Commencement: Reg. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-8b6b02cc19b1df7a0ce70b6e32e90d03]: Commencement: Reg. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-4de20de496bd3b017525d43b57934ca7]: Commencement: Reg. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-4de20de496bd3b017525d43b57934ca7]: Commencement: Reg. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
 [^f00004]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/nia/1954/33)
 
@@ -1247,7 +1247,7 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 [^f00006]: Footnote: O.J. No. L124, 25.4.2014, p.1-18
 
-[^key-87b066da882d9cc108f1c6846811f08a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87b066da882d9cc108f1c6846811f08a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_7993321a-74cd-48a8-fad4-3efa3f6218ed]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1), [5(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/5)
 
@@ -1269,147 +1269,147 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 [^f00015]: Footnote: [S.R. 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380)
 
-[^key-aa70c1b9092e3e5eea3799e791013f53]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa70c1b9092e3e5eea3799e791013f53]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d67f9e145730efc91193bf9af0bbbac]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 28](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/28)
+[^c-2d67f9e145730efc91193bf9af0bbbac]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 28](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/28)
 
-[^key-76305d439d9b0d3255b85ca488b8b742]: Commencement: Reg. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-76305d439d9b0d3255b85ca488b8b742]: Commencement: Reg. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-2aca86bcba8ecea030f63c5c98068330]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/3/1/b) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2aca86bcba8ecea030f63c5c98068330]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/3/1/b) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-53d99ba53d411d7f4c69a22fc65b1851]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2017/83/regulation/3/1A) inserted (30.1.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/3), [9(3)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53d99ba53d411d7f4c69a22fc65b1851]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2017/83/regulation/3/1A) inserted (30.1.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/3), [9(3)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-44dc1cce289fc1592acdb449b685aef9]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2017/83/regulation/3/4) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44dc1cce289fc1592acdb449b685aef9]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2017/83/regulation/3/4) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94c5ccb1c67b9023545557d72446c54a]: Commencement: Reg. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-94c5ccb1c67b9023545557d72446c54a]: Commencement: Reg. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-21f7f37958206a2bfed48759071e85bf]: Commencement: Reg. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-21f7f37958206a2bfed48759071e85bf]: Commencement: Reg. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-688dcef0aa4379f83f30bbdaf83d3b76]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/5/2/b) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-688dcef0aa4379f83f30bbdaf83d3b76]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/5/2/b) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00016]: Footnote: O.J. No. L206, 22.7.92, p.7
 
 [^f00017]: Footnote: O.J. No. L20, 26.1.2010, p.7
 
-[^key-0f3d45da5638157be2ae8c29abbc7fbc]: Commencement: Reg. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-0f3d45da5638157be2ae8c29abbc7fbc]: Commencement: Reg. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-e5f76f9382a51e1e1060f0e60ed60b57]: Commencement: Reg. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-e5f76f9382a51e1e1060f0e60ed60b57]: Commencement: Reg. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-e0bd051676d1cc7e0b3adf4058bddb15]: Commencement: Reg. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-e0bd051676d1cc7e0b3adf4058bddb15]: Commencement: Reg. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-0f07832bf312579cbb042a2dd230e385]: Commencement: Reg. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-0f07832bf312579cbb042a2dd230e385]: Commencement: Reg. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-91bbb4d3b11dfbd95d496a6e46fa9f5e]: Commencement: Reg. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-91bbb4d3b11dfbd95d496a6e46fa9f5e]: Commencement: Reg. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
 [^f00018]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391)
 
-[^key-1eef5170b71902c74d465fcd3a1c01be]: Commencement: Reg. 11 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-1eef5170b71902c74d465fcd3a1c01be]: Commencement: Reg. 11 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-7c9c06f40f2f3b1a844db494229a4cef]: Commencement: Reg. 12 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-7c9c06f40f2f3b1a844db494229a4cef]: Commencement: Reg. 12 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-09378ee0fe679a4ca130eb902ace1d62]: Commencement: Reg. 13 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-09378ee0fe679a4ca130eb902ace1d62]: Commencement: Reg. 13 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-f6328c2929392de44d02597d5320a836]: Commencement: Reg. 14 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-f6328c2929392de44d02597d5320a836]: Commencement: Reg. 14 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-0707e375a678a18a70abc9efed07cebe]: Commencement: Reg. 15 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-0707e375a678a18a70abc9efed07cebe]: Commencement: Reg. 15 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-c9f6d648ea47f1674ff85bdd7449ab15]: Commencement: Reg. 16 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-c9f6d648ea47f1674ff85bdd7449ab15]: Commencement: Reg. 16 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-af214460b4f0e64e2e0415b345fd9421]: Commencement: Reg. 17 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-af214460b4f0e64e2e0415b345fd9421]: Commencement: Reg. 17 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-d013790436edd35e82d540c4004149a1]: Commencement: Reg. 18 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-d013790436edd35e82d540c4004149a1]: Commencement: Reg. 18 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-c344c5a4c9f6e5ed37a95f2b8366dbe8]: Commencement: Reg. 19 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-c344c5a4c9f6e5ed37a95f2b8366dbe8]: Commencement: Reg. 19 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-5710b099f32170937532b8263e263aa1]: Commencement: Reg. 20 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-5710b099f32170937532b8263e263aa1]: Commencement: Reg. 20 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-3694459ae84b89f7e68b4ad65d056467]: Commencement: Reg. 21 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-3694459ae84b89f7e68b4ad65d056467]: Commencement: Reg. 21 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-b0e2fdb1a20def691b0604e3c2741c80]: Commencement: Reg. 22 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-b0e2fdb1a20def691b0604e3c2741c80]: Commencement: Reg. 22 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-e35a386c310146c274a72179e11590d8]: Commencement: Reg. 23 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-e35a386c310146c274a72179e11590d8]: Commencement: Reg. 23 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-cf5e074d981ac0c8fbe7829664596e50]: Commencement: Reg. 24 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-cf5e074d981ac0c8fbe7829664596e50]: Commencement: Reg. 24 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-f6fdb749267969548cfba626a474cea5]: Commencement: Reg. 25 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-f6fdb749267969548cfba626a474cea5]: Commencement: Reg. 25 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-2e81507f59e58f93932ac4eb99dd237b]: Commencement: Reg. 26 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-2e81507f59e58f93932ac4eb99dd237b]: Commencement: Reg. 26 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-e3e2563ffea9da806ee783a8f7a95ba8]: Commencement: Reg. 27 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-e3e2563ffea9da806ee783a8f7a95ba8]: Commencement: Reg. 27 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-e3a3a569cbb95f8f1273b86d400bb9cf]: Commencement: Reg. 28 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-e3a3a569cbb95f8f1273b86d400bb9cf]: Commencement: Reg. 28 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-8699582a087e0d8b91a48f3e34ea8a66]: Commencement: Reg. 29 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-8699582a087e0d8b91a48f3e34ea8a66]: Commencement: Reg. 29 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-390a9f5341610f875cbaadc608dcbf97]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/nisr/2017/83/regulation/29) heading substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-390a9f5341610f875cbaadc608dcbf97]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/nisr/2017/83/regulation/29) heading substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f99b9e27b802c82739b6316c3a13f04f]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/1) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f99b9e27b802c82739b6316c3a13f04f]: Textual amendment: Word in [reg. 29(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/1) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a71c6e1b54d70e7578c24da31730e89a]: Textual amendment: Word in [reg. 29(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a71c6e1b54d70e7578c24da31730e89a]: Textual amendment: Word in [reg. 29(2)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/2) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f74bcbf85fe4d9b8f49db5bd22b2c005]: Textual amendment: Word in [reg. 29(3)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/3) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f74bcbf85fe4d9b8f49db5bd22b2c005]: Textual amendment: Word in [reg. 29(3)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/3) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6fcf88dc93debe582ad5fd38d70d5bc4]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/5) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6fcf88dc93debe582ad5fd38d70d5bc4]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/5) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a8956d041672f360c8a637fe32b3c45a]: Textual amendment: Word in [reg. 29(6)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/6/b) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a8956d041672f360c8a637fe32b3c45a]: Textual amendment: Word in [reg. 29(6)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/29/6/b) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(5)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c697b571be3c3dd24ffb5a17946f4e1]: Commencement: Reg. 30 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-3c697b571be3c3dd24ffb5a17946f4e1]: Commencement: Reg. 30 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-262aff715d883a81ce98942c9893d4f2]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/nisr/2017/83/regulation/30) heading substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-262aff715d883a81ce98942c9893d4f2]: Textual amendment: Word in [reg. 30](https://www.legislation.gov.uk/nisr/2017/83/regulation/30) heading substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f1dd1193b742a424a320c46771d77b1]: Textual amendment: Word in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f1dd1193b742a424a320c46771d77b1]: Textual amendment: Word in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8d095fac257b54d37fb62c4763bff83a]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d095fac257b54d37fb62c4763bff83a]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89e2db82834b4071c0d40b3754f88645]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89e2db82834b4071c0d40b3754f88645]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-352294046e7269b173f59636d3cdd21e]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1/b) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(aa)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/aa)[(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-352294046e7269b173f59636d3cdd21e]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1/b) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(aa)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/aa)[(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59d303eda3b1a68f1972c4139cede347]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1/b) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/iv)[(bb)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59d303eda3b1a68f1972c4139cede347]: Textual amendment: Words in [reg. 30(1)(b)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/1/b) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/b/iv)[(bb)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf64ed4edd9141a6032ae7ae29dfb74f]: Textual amendment: Words in [reg. 30(2)(c)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/2/c) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf64ed4edd9141a6032ae7ae29dfb74f]: Textual amendment: Words in [reg. 30(2)(c)](https://www.legislation.gov.uk/nisr/2017/83/regulation/30/2/c) omitted (31.12.2020) by virtue of [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(6)(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-172a3b83d7877be00b971ea92b83022b]: Commencement: Reg. 31 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-172a3b83d7877be00b971ea92b83022b]: Commencement: Reg. 31 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-96f882e7921fd7c329c0048dd473c656]: Commencement: Reg. 32 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-96f882e7921fd7c329c0048dd473c656]: Commencement: Reg. 32 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-8f0a2deecc7a3e965bbce7b20d310c33]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/nisr/2017/83/regulation/32) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f0a2deecc7a3e965bbce7b20d310c33]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/nisr/2017/83/regulation/32) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ea34bc890fbbd5790dbbccc384234cb]: Commencement: Reg. 33 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-1ea34bc890fbbd5790dbbccc384234cb]: Commencement: Reg. 33 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-55c3f8426da660a393611191a4412d07]: Commencement: Reg. 34 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-55c3f8426da660a393611191a4412d07]: Commencement: Reg. 34 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-441c88bc228209b0eb050778c3869b50]: Commencement: Reg. 35 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-441c88bc228209b0eb050778c3869b50]: Commencement: Reg. 35 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-de85c038563bff6ff02aed334029fbf0]: Commencement: Reg. 36 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-de85c038563bff6ff02aed334029fbf0]: Commencement: Reg. 36 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-b0c30411fd24ea71bbc639e48b917957]: Commencement: Reg. 37 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-b0c30411fd24ea71bbc639e48b917957]: Commencement: Reg. 37 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-16566140f4712b4b9b8c3c1ec33e088d]: Commencement: Reg. 38 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-16566140f4712b4b9b8c3c1ec33e088d]: Commencement: Reg. 38 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-ad0e01f83b867ef3033045915d7889b0]: Commencement: Reg. 39 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-ad0e01f83b867ef3033045915d7889b0]: Commencement: Reg. 39 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-3fc5d469e20f08bc4af2d0775caabe85]: Commencement: Reg. 40 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-3fc5d469e20f08bc4af2d0775caabe85]: Commencement: Reg. 40 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-bf0129517cb75d4d133ed0898d4b8544]: Textual amendment: Word in [reg. 40(a)](https://www.legislation.gov.uk/nisr/2017/83/regulation/40/a) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf0129517cb75d4d133ed0898d4b8544]: Textual amendment: Word in [reg. 40(a)](https://www.legislation.gov.uk/nisr/2017/83/regulation/40/a) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-db001e039eacc3bda7219f2bf4826fef]: Commencement: Reg. 41 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-db001e039eacc3bda7219f2bf4826fef]: Commencement: Reg. 41 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
 [^f00019]: Footnote: [S.I. 1981/607 (N.I. 15)](https://www.legislation.gov.uk/nisi/1981/607)
 
-[^key-1348f279b1aa379a7545085692be8305]: Commencement: Reg. 42 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-1348f279b1aa379a7545085692be8305]: Commencement: Reg. 42 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-a52d595ba10985947afda560637b9f60]: Commencement: Reg. 43 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-a52d595ba10985947afda560637b9f60]: Commencement: Reg. 43 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-065c4e741edce3b01b36960a4afb9fef]: Commencement: Reg. 44 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-065c4e741edce3b01b36960a4afb9fef]: Commencement: Reg. 44 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-4f0fe71120a5f059e6884d45a7241f59]: Commencement: Reg. 45 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-4f0fe71120a5f059e6884d45a7241f59]: Commencement: Reg. 45 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-e04e15611a1e1fbecf1d152fa6e8bdd8]: Commencement: Reg. 46 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-e04e15611a1e1fbecf1d152fa6e8bdd8]: Commencement: Reg. 46 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-d8c21f7ff7ff4a0e06cdfdc84553b6aa]: Commencement: Reg. 47 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-d8c21f7ff7ff4a0e06cdfdc84553b6aa]: Commencement: Reg. 47 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-b5703db00a42d542235b3e18835ca9e6]: Commencement: Reg. 48 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-b5703db00a42d542235b3e18835ca9e6]: Commencement: Reg. 48 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
 [^f00020]: Footnote: [S.R. 2015 No. 74](https://www.legislation.gov.uk/nisr/2015/74)
 
@@ -1417,106 +1417,106 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 [^f00022]: Footnote: *See* Command Paper 6993
 
-[^key-10b77c9f8ecfcfb10efe65d1191540a8]: Commencement: Sch. 1 para. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-10b77c9f8ecfcfb10efe65d1191540a8]: Commencement: Sch. 1 para. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-8596b507d2a3248c0141c9167e85b2fe]: Commencement: Sch. 1 para. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-8596b507d2a3248c0141c9167e85b2fe]: Commencement: Sch. 1 para. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-c9fc974ba04e6eb7f234d0a2c88fb585]: Commencement: Sch. 1 para. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-c9fc974ba04e6eb7f234d0a2c88fb585]: Commencement: Sch. 1 para. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-00f030abb918e5b0d3196f808570ef27]: Commencement: Sch. 1 para. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-00f030abb918e5b0d3196f808570ef27]: Commencement: Sch. 1 para. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-de57db8544fa6c3103215e5ffe4b3842]: Commencement: Sch. 1 para. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-de57db8544fa6c3103215e5ffe4b3842]: Commencement: Sch. 1 para. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-6f33e7af62c22037d302f35e79afcf47]: Commencement: Sch. 1 para. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-6f33e7af62c22037d302f35e79afcf47]: Commencement: Sch. 1 para. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-c8db44673047f5155128463da74d20c3]: Commencement: Sch. 1 para. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-c8db44673047f5155128463da74d20c3]: Commencement: Sch. 1 para. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-bd9231a469f1c8c8b7b08a038726008e]: Commencement: Sch. 1 para. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-bd9231a469f1c8c8b7b08a038726008e]: Commencement: Sch. 1 para. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-9fc65b125fee914adae0a3e16e661150]: Commencement: Sch. 1 para. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-9fc65b125fee914adae0a3e16e661150]: Commencement: Sch. 1 para. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
 [^f00023]: Footnote: O.J. No. L312, 22.11.08, p.3.
 
 [^f00024]: Footnote: [S.R. 2005 No. 300](https://www.legislation.gov.uk/nisr/2005/300)
 
-[^key-9fb650540f07817f5bedfcd46398b194]: Commencement: Sch. 1 para. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-9fb650540f07817f5bedfcd46398b194]: Commencement: Sch. 1 para. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-295b90f45a31ff7245c3422bf85c3531]: Commencement: Sch. 1 para. 11 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-295b90f45a31ff7245c3422bf85c3531]: Commencement: Sch. 1 para. 11 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-12b27361e4d2a22333120720912b027d]: Commencement: Sch. 1 para. 12 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-12b27361e4d2a22333120720912b027d]: Commencement: Sch. 1 para. 12 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-35849398401b0a6c2d4b83633df9eb90]: Commencement: Sch. 1 para. 13 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-35849398401b0a6c2d4b83633df9eb90]: Commencement: Sch. 1 para. 13 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
 [^f00025]: Footnote: O.J. No. L135, 30.5.91, p.40
 
-[^key-b4748e367cee7b8b41da72f21377c0b6]: Commencement: Sch. 1 para. 14 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-b4748e367cee7b8b41da72f21377c0b6]: Commencement: Sch. 1 para. 14 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-cf643b85c7b855f39504bff9e47578fe]: Commencement: Sch. 1 para. 15 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-cf643b85c7b855f39504bff9e47578fe]: Commencement: Sch. 1 para. 15 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-88343ac865350f0aae6255998ca30ad2]: Commencement: Sch. 1 para. 16 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-88343ac865350f0aae6255998ca30ad2]: Commencement: Sch. 1 para. 16 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-b761a841c31455f78923d02a27d1798d]: Commencement: Sch. 1 para. 17 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-b761a841c31455f78923d02a27d1798d]: Commencement: Sch. 1 para. 17 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-dc6e0bd71f4e99eec52ff108e7309d98]: Commencement: Sch. 1 para. 18 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-dc6e0bd71f4e99eec52ff108e7309d98]: Commencement: Sch. 1 para. 18 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-03f431388941b1186ec14f551fc3811c]: Commencement: Sch. 1 para. 19 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-03f431388941b1186ec14f551fc3811c]: Commencement: Sch. 1 para. 19 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-549a9c877f44b7e4da82fbcba3974795]: Commencement: Sch. 1 para. 20 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-549a9c877f44b7e4da82fbcba3974795]: Commencement: Sch. 1 para. 20 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-cc68900ce04aa54961a7d8255acd6111]: Commencement: Sch. 1 para. 21 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-cc68900ce04aa54961a7d8255acd6111]: Commencement: Sch. 1 para. 21 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-e915d8ac628931117b21e4e79eedc51a]: Commencement: Sch. 1 para. 22 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-e915d8ac628931117b21e4e79eedc51a]: Commencement: Sch. 1 para. 22 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-1b1853b119cb2265288cfc9dd930fba6]: Textual amendment: Words in [Sch. 1 para. 22](https://www.legislation.gov.uk/nisr/2017/83/schedule/1/paragraph/22) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(9)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b1853b119cb2265288cfc9dd930fba6]: Textual amendment: Words in [Sch. 1 para. 22](https://www.legislation.gov.uk/nisr/2017/83/schedule/1/paragraph/22) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(9)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00026]: Footnote: O.J. No. L140, 5.6.2009, p.114
 
-[^key-0f19c1e02b03007761896380e57958f4]: Commencement: Sch. 1 para. 23 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-0f19c1e02b03007761896380e57958f4]: Commencement: Sch. 1 para. 23 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-8ac62f5d1681e31629c2497be2d95400]: Textual amendment: Words in [Sch. 1 para. 23](https://www.legislation.gov.uk/nisr/2017/83/schedule/1/paragraph/23) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(9)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ac62f5d1681e31629c2497be2d95400]: Textual amendment: Words in [Sch. 1 para. 23](https://www.legislation.gov.uk/nisr/2017/83/schedule/1/paragraph/23) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(9)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8cdfe10be7f12997deaad0712b01b982]: Commencement: Sch. 1 para. 24 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-8cdfe10be7f12997deaad0712b01b982]: Commencement: Sch. 1 para. 24 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-7770eeac4c976be4d3fc2794d05180c4]: Commencement: Sch. 2 para. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-7770eeac4c976be4d3fc2794d05180c4]: Commencement: Sch. 2 para. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
 [^f00027]: Footnote: [S.I. 1999 No. 662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662) as amended by [S.I. 2006 No. 3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
 
-[^key-f18fc166b5926efa6106bddb5821b7bb]: Commencement: Sch. 2 para. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-f18fc166b5926efa6106bddb5821b7bb]: Commencement: Sch. 2 para. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-422da5939f70cf43f85dec10308ae970]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2017/83/schedule/2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-422da5939f70cf43f85dec10308ae970]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2017/83/schedule/2) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1791d00a3370a66f998a52c4d17ba33b]: Commencement: Sch. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-1791d00a3370a66f998a52c4d17ba33b]: Commencement: Sch. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
 [^f00028]: Footnote: O.J. No. L206, 22.7.92, p7
 
 [^f00029]: Footnote: O.J. No. L20, 26.1.2010, p7
 
-[^key-794f0e00644bab5e7bf41ce3240c6211]: Commencement: Sch. 4 para. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-794f0e00644bab5e7bf41ce3240c6211]: Commencement: Sch. 4 para. 1 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-00e629ed510013ad4b53be3c37e0b455]: Commencement: Sch. 4 para. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-00e629ed510013ad4b53be3c37e0b455]: Commencement: Sch. 4 para. 2 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-8eb58f421ef6fa31dd3bfc211e89c76a]: Commencement: Sch. 4 para. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-8eb58f421ef6fa31dd3bfc211e89c76a]: Commencement: Sch. 4 para. 3 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-29c08face2f2f58728bfc1d2808bb086]: Commencement: Sch. 4 para. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-29c08face2f2f58728bfc1d2808bb086]: Commencement: Sch. 4 para. 4 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-0ef305bf915d83ef40c7687e9701ff40]: Commencement: Sch. 4 para. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-0ef305bf915d83ef40c7687e9701ff40]: Commencement: Sch. 4 para. 5 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-749d5ccc23853d07bd39db45836e143d]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/5) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-749d5ccc23853d07bd39db45836e143d]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/5) substituted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-281d9797120b6189342d7820448d32f6]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/5) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-281d9797120b6189342d7820448d32f6]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/5) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89d61bbf6f6a811056fc45e924ccf5a9]: Commencement: Sch. 4 para. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-89d61bbf6f6a811056fc45e924ccf5a9]: Commencement: Sch. 4 para. 6 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-47a014333fc08ab916cdc349cecdf426]: Commencement: Sch. 4 para. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-47a014333fc08ab916cdc349cecdf426]: Commencement: Sch. 4 para. 7 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-659909e181c30bcb9654cc51ad44c6eb]: Commencement: Sch. 4 para. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-659909e181c30bcb9654cc51ad44c6eb]: Commencement: Sch. 4 para. 8 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-b06c9796621534b839e93b8a1794b7ac]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/8) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b06c9796621534b839e93b8a1794b7ac]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/8) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_f0b85fac-2d07-439c-b5b7-d8b6872da5a6]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/8) inserted (31.12.2020) by [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/5)
 
-[^key-84f90beb68b6282149771d58552a5490]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/8) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84f90beb68b6282149771d58552a5490]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2017/83/schedule/4/paragraph/8) inserted (31.12.2020) by [The Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018 (S.I. 2018/1235)](https://www.legislation.gov.uk/uksi/2018/1235), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2), [9(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/11/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b5d79a5aa86d24b3bdf679986d18b43c]: Commencement: Sch. 4 para. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-b5d79a5aa86d24b3bdf679986d18b43c]: Commencement: Sch. 4 para. 9 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
 
-[^key-d738d21a8be6b9ddf92b722a647b705d]: Commencement: Sch. 4 para. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)
+[^c-d738d21a8be6b9ddf92b722a647b705d]: Commencement: Sch. 4 para. 10 in operation at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1)

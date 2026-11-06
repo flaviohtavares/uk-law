@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Application of Chapter 3 of Part 3 of the 2003 Regulations to Real Time Information pension payers[^key-16d74319631d4a62456b4b2ce364d550]
+## 22. Application of Chapter 3 of Part 3 of the 2003 Regulations to Real Time Information pension payers[^c-16d74319631d4a62456b4b2ce364d550]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ After regulation 54 (scope of Chapter 3 of Part 3) insert—
 
 ## Annotations
 
-[^key-16d74319631d4a62456b4b2ce364d550]: Commencement: Reg. 22 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-16d74319631d4a62456b4b2ce364d550]: Commencement: Reg. 22 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

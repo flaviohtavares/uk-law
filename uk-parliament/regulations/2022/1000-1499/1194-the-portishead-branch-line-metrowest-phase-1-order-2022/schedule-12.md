@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 12 — Land of which temporary possession may be taken[^key-aeb785704cbd83c9ef39368aa90ac1b2]
+## SCHEDULE 12 — Land of which temporary possession may be taken[^c-aeb785704cbd83c9ef39368aa90ac1b2]
 
 *Extent: E+W*
 
@@ -126,4 +126,4 @@ Article 33
 
 ## Annotations
 
-[^key-aeb785704cbd83c9ef39368aa90ac1b2]: Commencement: Sch. 12 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-aeb785704cbd83c9ef39368aa90ac1b2]: Commencement: Sch. 12 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

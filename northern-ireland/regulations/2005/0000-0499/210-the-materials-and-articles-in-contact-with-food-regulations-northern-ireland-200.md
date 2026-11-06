@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2005 (revoked)[^key-3ee156c1ecb6d12a99a1118403dbd242]
+The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2005 (revoked)[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 Made
 
@@ -41,90 +41,90 @@ Coming into operation
 
 23rd May 2005
 
-[^key-3ee156c1ecb6d12a99a1118403dbd242]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ee156c1ecb6d12a99a1118403dbd242]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — PRELIMINARIES[^key-3ee156c1ecb6d12a99a1118403dbd242]
+## PART 1 — PRELIMINARIES[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
-### 1. Citation and commencement[^key-3ee156c1ecb6d12a99a1118403dbd242]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 1. Citation and commencement[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Scope[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 2. Interpretation[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — GENERAL REQUIREMENTS FOR MATERIALS AND ARTICLES[^key-3ee156c1ecb6d12a99a1118403dbd242]
-
-### 4. Enforcement of Regulation 1935/2004[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 3. Scope[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Competent authorities for the purposes of Regulation 1935/2004[^key-3ee156c1ecb6d12a99a1118403dbd242]
+## PART 2 — GENERAL REQUIREMENTS FOR MATERIALS AND ARTICLES[^c-3ee156c1ecb6d12a99a1118403dbd242]
+
+### 4. Enforcement of Regulation 1935/2004[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — REQUIREMENTS FOR VINYL CHLORIDE[^key-3ee156c1ecb6d12a99a1118403dbd242]
-
-### 6. Limits and migration limits[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 5. Competent authorities for the purposes of Regulation 1935/2004[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Methods of Analysis[^key-3ee156c1ecb6d12a99a1118403dbd242]
+## PART 3 — REQUIREMENTS FOR VINYL CHLORIDE[^c-3ee156c1ecb6d12a99a1118403dbd242]
+
+### 6. Limits and migration limits[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — REQUIREMENTS FOR REGENERATED CELLULOSE FILM[^key-3ee156c1ecb6d12a99a1118403dbd242]
-
-### 8. Controls and Limits[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 7. Methods of Analysis[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Migration Limits for regenerated cellulose film coated with plastics[^key-3ee156c1ecb6d12a99a1118403dbd242]
+## PART 4 — REQUIREMENTS FOR REGENERATED CELLULOSE FILM[^c-3ee156c1ecb6d12a99a1118403dbd242]
+
+### 8. Controls and Limits[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Saving and transitional provisions[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 9. Migration Limits for regenerated cellulose film coated with plastics[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — GENERAL[^key-3ee156c1ecb6d12a99a1118403dbd242]
-
-### 11. Offences and penalties[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 10. Saving and transitional provisions[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Enforcement[^key-3ee156c1ecb6d12a99a1118403dbd242]
+## PART 5 — GENERAL[^c-3ee156c1ecb6d12a99a1118403dbd242]
+
+### 11. Offences and penalties[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Analysis by Government Chemist[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 12. Enforcement[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Application of various provisions of the Order[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 13. Analysis by Government Chemist[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendments to the 1998 Regulations[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 14. Application of various provisions of the Order[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Revocation[^key-3ee156c1ecb6d12a99a1118403dbd242]
+### 15. Amendments to the 1998 Regulations[^c-3ee156c1ecb6d12a99a1118403dbd242]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3ee156c1ecb6d12a99a1118403dbd242]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 16. Revocation[^c-3ee156c1ecb6d12a99a1118403dbd242]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3ee156c1ecb6d12a99a1118403dbd242]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3ee156c1ecb6d12a99a1118403dbd242]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ee156c1ecb6d12a99a1118403dbd242]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3ee156c1ecb6d12a99a1118403dbd242]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/210) revoked (5.11.2007) by [The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2007 (S.R. 2007/434)](https://www.legislation.gov.uk/nisr/2007/434), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/434/regulation/1), [23](https://www.legislation.gov.uk/nisr/2007/434/regulation/23)
+[^c-3ee156c1ecb6d12a99a1118403dbd242]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/210) revoked (5.11.2007) by [The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2007 (S.R. 2007/434)](https://www.legislation.gov.uk/nisr/2007/434), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2007/434/regulation/1), [23](https://www.legislation.gov.uk/nisr/2007/434/regulation/23)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Winding up petition by regulator[^key-d77783a63db84634ed4ad41015e64222]
+## 166. Winding up petition by regulator[^c-d77783a63db84634ed4ad41015e64222]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d77783a63db84634ed4ad41015e64222]: Textual amendment: S. 166 omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/28); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
+[^c-d77783a63db84634ed4ad41015e64222]: Textual amendment: S. 166 omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/28); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)

@@ -32,7 +32,7 @@ summary: ''
 
 Water And Sewerage
 
-The Private Water Supplies (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-94ff1c6c8bca2a9102f03315c8972ecd]
+The Private Water Supplies (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-94ff1c6c8bca2a9102f03315c8972ecd]
 
 Made
 
@@ -42,34 +42,34 @@ Coming into force
 
 20th April 2010
 
-[^key-94ff1c6c8bca2a9102f03315c8972ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94ff1c6c8bca2a9102f03315c8972ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-94ff1c6c8bca2a9102f03315c8972ecd]
+## 1. Citation, commencement and interpretation[^c-94ff1c6c8bca2a9102f03315c8972ecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Private Water Supplies Regulations (Northern Ireland) 2009[^key-94ff1c6c8bca2a9102f03315c8972ecd]
+## 2. Amendment of the Private Water Supplies Regulations (Northern Ireland) 2009[^c-94ff1c6c8bca2a9102f03315c8972ecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regulation 6[^key-94ff1c6c8bca2a9102f03315c8972ecd]
+## 3. Regulation 6[^c-94ff1c6c8bca2a9102f03315c8972ecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulation 19[^key-94ff1c6c8bca2a9102f03315c8972ecd]
+## 4. Regulation 19[^c-94ff1c6c8bca2a9102f03315c8972ecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Schedule 2[^key-94ff1c6c8bca2a9102f03315c8972ecd]
+## 5. Schedule 2[^c-94ff1c6c8bca2a9102f03315c8972ecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94ff1c6c8bca2a9102f03315c8972ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94ff1c6c8bca2a9102f03315c8972ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94ff1c6c8bca2a9102f03315c8972ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94ff1c6c8bca2a9102f03315c8972ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94ff1c6c8bca2a9102f03315c8972ecd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/131) revoked (27.10.2017) by [The Private Water Supplies Regulations (Northern Ireland) 2017 (S.R. 2017/211)](https://www.legislation.gov.uk/nisr/2017/211), [reg. 24](https://www.legislation.gov.uk/nisr/2017/211/regulation/24) (with [reg. 4](https://www.legislation.gov.uk/nisr/2017/211/regulation/4))
+[^c-94ff1c6c8bca2a9102f03315c8972ecd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/131) revoked (27.10.2017) by [The Private Water Supplies Regulations (Northern Ireland) 2017 (S.R. 2017/211)](https://www.legislation.gov.uk/nisr/2017/211), [reg. 24](https://www.legislation.gov.uk/nisr/2017/211/regulation/24) (with [reg. 4](https://www.legislation.gov.uk/nisr/2017/211/regulation/4))

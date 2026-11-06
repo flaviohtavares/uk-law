@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74 (Extent: W). Law of defamation: absolute privilege (Extent: W)[^key-17bc839e963503e977b437302666e608]
+## 74 (Extent: W). Law of defamation: absolute privilege (Extent: W)[^c-17bc839e963503e977b437302666e608]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of the law of defamation a publication of a matter is absolutel
 
 ## Annotations
 
-[^key-17bc839e963503e977b437302666e608]: Textual amendment: [S. 74 and cross-heading](https://www.legislation.gov.uk/ukpga/2000/22/part/III/chapter/III/crossheading/references-to-monitoring-officers) substituted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 8 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/5); [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-17bc839e963503e977b437302666e608]: Textual amendment: [S. 74 and cross-heading](https://www.legislation.gov.uk/ukpga/2000/22/part/III/chapter/III/crossheading/references-to-monitoring-officers) substituted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 8 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/5); [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))

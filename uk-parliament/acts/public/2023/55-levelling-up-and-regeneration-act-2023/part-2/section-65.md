@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Proposal for establishment of combined authority[^key-c1d13857c4405fa1dc8d72fbab7cf555]
+## 65. Proposal for establishment of combined authority[^c-c1d13857c4405fa1dc8d72fbab7cf555]
 
 *Extent: E+W*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1d13857c4405fa1dc8d72fbab7cf555]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/55/section/65) in force at 26.12.2023, see [s. 255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h)
+[^c-c1d13857c4405fa1dc8d72fbab7cf555]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/55/section/65) in force at 26.12.2023, see [s. 255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h)

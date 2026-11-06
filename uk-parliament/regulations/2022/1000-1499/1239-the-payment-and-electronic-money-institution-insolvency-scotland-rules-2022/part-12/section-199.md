@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 199. Service on joint administrators[^key-85f2eeea492b559b1bdb29002ddaf15f]
+## 199. Service on joint administrators[^c-85f2eeea492b559b1bdb29002ddaf15f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where there are joint administrators in a special administration, service on one
 
 ## Annotations
 
-[^key-85f2eeea492b559b1bdb29002ddaf15f]: Commencement: Rule 199 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-85f2eeea492b559b1bdb29002ddaf15f]: Commencement: Rule 199 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

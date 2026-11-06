@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Notice of SCSWIS's decision under Chapter 3[^key-4f37f106bf46f910fdd454c3a35610b9][^key-ddf3e974da92777bf8e556f9d4ccd08e]
+## 73. Notice of SCSWIS's decision under Chapter 3[^c-4f37f106bf46f910fdd454c3a35610b9][^c-ddf3e974da92777bf8e556f9d4ccd08e]
 
 *Extent: S*
 
-(1)[^key-4fef1dbcd0ca7db6e6c0a0005fa76893] If SCSWIS decides to grant unconditionally an application made under section 59 or to grant such application subject only to a condition which has been agreed in writing between SCSWIS and the applicant, it must give the applicant notice of its decision.
+(1)[^c-4fef1dbcd0ca7db6e6c0a0005fa76893] If SCSWIS decides to grant unconditionally an application made under section 59 or to grant such application subject only to a condition which has been agreed in writing between SCSWIS and the applicant, it must give the applicant notice of its decision.
 
-(2)[^key-4fef1dbcd0ca7db6e6c0a0005fa76893] A notice under subsection (1) must state the agreed condition.
+(2)[^c-4fef1dbcd0ca7db6e6c0a0005fa76893] A notice under subsection (1) must state the agreed condition.
 
 (3) If SCSWIS decides to implement a proposal in relation to which it has given a person a condition notice or a notice under section 71, it must give that person notice of the decision.
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4f37f106bf46f910fdd454c3a35610b9]: Commencement: S. 73 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-4f37f106bf46f910fdd454c3a35610b9]: Commencement: S. 73 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-ddf3e974da92777bf8e556f9d4ccd08e]: Commencement: S. 73 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-ddf3e974da92777bf8e556f9d4ccd08e]: Commencement: S. 73 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-4fef1dbcd0ca7db6e6c0a0005fa76893]: Modification: [S. 73(1)](https://www.legislation.gov.uk/asp/2010/8/section/73/1)[(2)](https://www.legislation.gov.uk/asp/2010/8/section/73/2) excluded (temp.) (19.11.2025 and 20.11.2025 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2)[(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
+[^c-4fef1dbcd0ca7db6e6c0a0005fa76893]: Modification: [S. 73(1)](https://www.legislation.gov.uk/asp/2010/8/section/73/1)[(2)](https://www.legislation.gov.uk/asp/2010/8/section/73/2) excluded (temp.) (19.11.2025 and 20.11.2025 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2)[(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)

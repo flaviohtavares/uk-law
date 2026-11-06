@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Temporary closing of river in connection with works[^key-4380eeab1eca13991f922735a36f2233]
+## 11. Temporary closing of river in connection with works[^c-4380eeab1eca13991f922735a36f2233]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4380eeab1eca13991f922735a36f2233]: Commencement: Art. 11 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-4380eeab1eca13991f922735a36f2233]: Commencement: Art. 11 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

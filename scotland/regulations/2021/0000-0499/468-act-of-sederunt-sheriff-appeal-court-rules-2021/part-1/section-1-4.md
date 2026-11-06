@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.4. Computation of periods of time[^key-d1339bcfdb510f41846568bd7d7b4a75]
+## 1.4. Computation of periods of time[^c-d1339bcfdb510f41846568bd7d7b4a75]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If any period of time specified in these Rules expires on a Saturday, Sunday or 
 
 ## Annotations
 
-[^key-d1339bcfdb510f41846568bd7d7b4a75]: Commencement: Para. 1.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-d1339bcfdb510f41846568bd7d7b4a75]: Commencement: Para. 1.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

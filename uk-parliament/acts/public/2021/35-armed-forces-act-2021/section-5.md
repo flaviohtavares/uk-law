@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. The Summary Appeal Court: power to rectify mistakes[^key-1851190cb4bb0dce36cffc882233e78b][^key-6ae94bd6dc9432df7e869f5fa567fe71][^key-de1886908d2b7cfdfebe1612e2e0632e]
+## 5. The Summary Appeal Court: power to rectify mistakes[^c-1851190cb4bb0dce36cffc882233e78b][^c-6ae94bd6dc9432df7e869f5fa567fe71][^c-de1886908d2b7cfdfebe1612e2e0632e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1851190cb4bb0dce36cffc882233e78b]: Commencement: S. 5 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-1851190cb4bb0dce36cffc882233e78b]: Commencement: S. 5 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-6ae94bd6dc9432df7e869f5fa567fe71]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/35/section/5) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/b)
+[^c-6ae94bd6dc9432df7e869f5fa567fe71]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/35/section/5) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/b)
 
-[^key-de1886908d2b7cfdfebe1612e2e0632e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/35/section/5) in force at 13.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)
+[^c-de1886908d2b7cfdfebe1612e2e0632e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/35/section/5) in force at 13.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)

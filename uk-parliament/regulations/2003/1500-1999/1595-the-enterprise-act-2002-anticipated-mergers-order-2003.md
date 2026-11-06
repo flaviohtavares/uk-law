@@ -43,7 +43,7 @@ Whereas the Secretary of State laid a draft of this Order before Parliament;
 
 And whereas the said draft as so laid has been approved by a resolution of each House of Parliament;
 
-Now, therefore, the Secretary of State, in exercise of the powers conferred upon her by sections 34 and 124(2) and 124(3) of the Enterprise Act 2002 [^c5051881] hereby makes the following Order:[^key-26b69e63241ec7df75db69256fd96c5f][^key-5a1859741983282b0289fb13d6c09f89]
+Now, therefore, the Secretary of State, in exercise of the powers conferred upon her by sections 34 and 124(2) and 124(3) of the Enterprise Act 2002 [^c5051881] hereby makes the following Order:[^c-26b69e63241ec7df75db69256fd96c5f][^c-5a1859741983282b0289fb13d6c09f89]
 
 ## 1. Citation, commencement and interpretation
 
@@ -55,7 +55,7 @@ In this Order—
 
 - “**the Act**” means the Enterprise Act 2002;
 - “**reference**” means a reference under Part 3 of the Act which relates to arrangements which are in progress or in contemplation; and
-- “**notice**” means a notice under section 42(2) or 59(2)[^key-f5c4aad1a1e616c958658d68df733b32] of the Act which relates to such arrangements.
+- “**notice**” means a notice under section 42(2) or 59(2)[^c-f5c4aad1a1e616c958658d68df733b32] of the Act which relates to such arrangements.
 
 ## 3. Supplementary provision in relation to anticipated mergers
 
@@ -96,7 +96,7 @@ Sections 27 and 29 of the Act shall apply in relation to references and notices 
 
 ## 4.
 
-In the case of any reference where the CMA[^key-c4e0d0bb1d249b8367df62132ca2e91e] exercises its discretion under section 27(5) or 29(1) of the Act (as substituted by this Order) section 36(2)(a) and (b) of the Act shall have effect as if the words “**or has resulted**” were inserted after “ result ”.
+In the case of any reference where the CMA[^c-c4e0d0bb1d249b8367df62132ca2e91e] exercises its discretion under section 27(5) or 29(1) of the Act (as substituted by this Order) section 36(2)(a) and (b) of the Act shall have effect as if the words “**or has resulted**” were inserted after “ result ”.
 
 Gerry Sutcliffe,
 
@@ -114,10 +114,10 @@ This Order makes provision about the operation of sections 27 and 29 of the Ente
 
 [^c5051881]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-26b69e63241ec7df75db69256fd96c5f]: Modification: Order modified (E.W.) (29.12.2004) by [The Water Mergers (Modification of Enactments) Regulations 2004 (S.I. 2004/3202)](https://www.legislation.gov.uk/uksi/2004/3202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/10/2)
+[^c-26b69e63241ec7df75db69256fd96c5f]: Modification: Order modified (E.W.) (29.12.2004) by [The Water Mergers (Modification of Enactments) Regulations 2004 (S.I. 2004/3202)](https://www.legislation.gov.uk/uksi/2004/3202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2004/3202/regulation/10/2)
 
-[^key-5a1859741983282b0289fb13d6c09f89]: Modification: Order applied (with modifications) (24.5.2024) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [Sch. 6A para. 2](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6A/paragraph/2) (as inserted by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/3) (with [s. 130(2)(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2/3)))
+[^c-5a1859741983282b0289fb13d6c09f89]: Modification: Order applied (with modifications) (24.5.2024) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [Sch. 6A para. 2](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6A/paragraph/2) (as inserted by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/3) (with [s. 130(2)(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2/3)))
 
-[^key-f5c4aad1a1e616c958658d68df733b32]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2003/1595/article/2) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/6/2) (with [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/25)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5c4aad1a1e616c958658d68df733b32]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2003/1595/article/2) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/6/2) (with [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/25)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4e0d0bb1d249b8367df62132ca2e91e]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2003/1595/article/4) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-c4e0d0bb1d249b8367df62132ca2e91e]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2003/1595/article/4) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))

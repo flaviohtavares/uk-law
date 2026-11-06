@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 25. Meaning of “deceased member's pension”[^key-750531a7532cbe36e9e6c4f90bfcd7a5]
+## 25. Meaning of “deceased member's pension”[^c-750531a7532cbe36e9e6c4f90bfcd7a5]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-750531a7532cbe36e9e6c4f90bfcd7a5]: Commencement: [S. 25](https://www.legislation.gov.uk/ukcm/2018/9/section/25) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-750531a7532cbe36e9e6c4f90bfcd7a5]: Commencement: [S. 25](https://www.legislation.gov.uk/ukcm/2018/9/section/25) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

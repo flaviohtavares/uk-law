@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37I. Withdrawal of warning notice[^key-dc47ac277ab531f58e439e91868aaf6c]
+## 37I. Withdrawal of warning notice[^c-dc47ac277ab531f58e439e91868aaf6c]
 
 *Extent: E+W+S*
 
 (1) Where—
 
 - (a) a warning notice has been given (and not already withdrawn),
-- (b) it appears to the Secretary of State[^key-22e724afcc19dbc52f6000113f1eb6bf] that—
+- (b) it appears to the Secretary of State[^c-22e724afcc19dbc52f6000113f1eb6bf] that—
   - (i) the notice incorrectly omits any statement or is incorrect in any particular, or
   - (ii) the warning notice was given in contravention of section 37E(3), and
 - (c) if a penalty notice has been given in relation to the warning notice, any appeal made under section 37G(1) has not been determined,
 
-the Secretary of State[^key-84cb5d7f0f7a3e009e1a8ca4b94984a2] may withdraw the warning notice by giving notice of withdrawal to the employer.
+the Secretary of State[^c-84cb5d7f0f7a3e009e1a8ca4b94984a2] may withdraw the warning notice by giving notice of withdrawal to the employer.
 
 (2) Where a warning notice is withdrawn, no penalty notice may be given in relation to it.
 
@@ -46,8 +46,8 @@ the Secretary of State[^key-84cb5d7f0f7a3e009e1a8ca4b94984a2] may withdraw the w
 
 ## Annotations
 
-[^key-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
+[^c-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
 
-[^key-22e724afcc19dbc52f6000113f1eb6bf]: Textual amendment: Words in s. 37I(1)(b) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/10/a) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-22e724afcc19dbc52f6000113f1eb6bf]: Textual amendment: Words in s. 37I(1)(b) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 10(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/10/a) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
 
-[^key-84cb5d7f0f7a3e009e1a8ca4b94984a2]: Textual amendment: Words in s. 37I(1) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/10/b) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-84cb5d7f0f7a3e009e1a8ca4b94984a2]: Textual amendment: Words in s. 37I(1) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 10(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/10/b) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)

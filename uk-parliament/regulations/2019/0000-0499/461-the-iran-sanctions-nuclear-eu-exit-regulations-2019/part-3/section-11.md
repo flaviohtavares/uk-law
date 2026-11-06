@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Meaning of “designated person” in Part 3[^key-b9817ee3b0820bd0e6d0da67302ea7b1][^key-eacd23f12d98b1f09ef54303e0b73ae1]
+## 11. Meaning of “designated person” in Part 3[^c-b9817ee3b0820bd0e6d0da67302ea7b1][^c-eacd23f12d98b1f09ef54303e0b73ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In this Part a “**designated person**” means—
 
 ## Annotations
 
-[^key-b9817ee3b0820bd0e6d0da67302ea7b1]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-b9817ee3b0820bd0e6d0da67302ea7b1]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-eacd23f12d98b1f09ef54303e0b73ae1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/461/regulation/11) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eacd23f12d98b1f09ef54303e0b73ae1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/461/regulation/11) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

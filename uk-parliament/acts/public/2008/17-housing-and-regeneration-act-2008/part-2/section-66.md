@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Interim arrangements[^key-c1ce8f3b787f31cb16d33879087566f4]
+## 66. Interim arrangements[^c-c1ce8f3b787f31cb16d33879087566f4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Secretary of State may by notice require the Housing Corporation to provide 
 
 ## Annotations
 
-[^key-c1ce8f3b787f31cb16d33879087566f4]: Commencement: S. 66 in force at 8.9.2008 as it applies in relation to, or makes provision about the tax implications of, schemes under ss. 51 and 65 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-c1ce8f3b787f31cb16d33879087566f4]: Commencement: S. 66 in force at 8.9.2008 as it applies in relation to, or makes provision about the tax implications of, schemes under ss. 51 and 65 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)

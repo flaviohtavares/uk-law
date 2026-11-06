@@ -32,7 +32,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security Benefits Up-rating Regulations 2024 (revoked)[^key-ad247407256cf3e91c2aa3eded2c835c]
+The Social Security Benefits Up-rating Regulations 2024 (revoked)[^c-ad247407256cf3e91c2aa3eded2c835c]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 8th April 2024
 
-[^key-ad247407256cf3e91c2aa3eded2c835c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad247407256cf3e91c2aa3eded2c835c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-ad247407256cf3e91c2aa3eded2c835c]
+## 1. Citation, commencement, extent and interpretation[^c-ad247407256cf3e91c2aa3eded2c835c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-ad247407256cf3e91c2aa3eded2c835c]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-ad247407256cf3e91c2aa3eded2c835c]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Great Britain[^key-ad247407256cf3e91c2aa3eded2c835c]
+## 3. Persons not ordinarily resident in Great Britain[^c-ad247407256cf3e91c2aa3eded2c835c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^key-ad247407256cf3e91c2aa3eded2c835c]
+## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations 1976[^c-ad247407256cf3e91c2aa3eded2c835c]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-ad247407256cf3e91c2aa3eded2c835c]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-ad247407256cf3e91c2aa3eded2c835c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-ad247407256cf3e91c2aa3eded2c835c]
+## 6. Revocation[^c-ad247407256cf3e91c2aa3eded2c835c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad247407256cf3e91c2aa3eded2c835c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad247407256cf3e91c2aa3eded2c835c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad247407256cf3e91c2aa3eded2c835c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad247407256cf3e91c2aa3eded2c835c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad247407256cf3e91c2aa3eded2c835c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/386) revoked (7.4.2025) by [The Social Security Benefits Up-rating Regulations 2025 (S.I. 2025/352)](https://www.legislation.gov.uk/uksi/2025/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/352/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2025/352/regulation/6)
+[^c-ad247407256cf3e91c2aa3eded2c835c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/386) revoked (7.4.2025) by [The Social Security Benefits Up-rating Regulations 2025 (S.I. 2025/352)](https://www.legislation.gov.uk/uksi/2025/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/352/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2025/352/regulation/6)

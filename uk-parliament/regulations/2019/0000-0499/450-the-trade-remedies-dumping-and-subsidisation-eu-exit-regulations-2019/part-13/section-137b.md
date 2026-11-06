@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**137B.**[^key-2ebe17b468318c6510deaba7bc8f0dc1] Regulations 101B and 101C have effect as if—
+**137B.**[^c-2ebe17b468318c6510deaba7bc8f0dc1] Regulations 101B and 101C have effect as if—
 
 - (a) in the headings, for “Acceptance of”, there were substituted “Decision to give effect to”;
 - (b) in paragraphs (1), for “accepts”, there were substituted “decides to give effect to”.
 
 ## Annotations
 
-[^key-2ebe17b468318c6510deaba7bc8f0dc1]: Textual amendment: Regs. 134-137B substituted for regs. 134-137 (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/2)
+[^c-2ebe17b468318c6510deaba7bc8f0dc1]: Textual amendment: Regs. 134-137B substituted for regs. 134-137 (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/2)

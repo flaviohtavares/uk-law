@@ -168,7 +168,7 @@ An Act to make provision with respect to the procedure in, and allocation of bus
 - [Section 51 — Board’s intervention powers.](part-ii/section-51.md)
 - [Section 52 — Board’s intervention powers: supplemental provisions.](part-ii/section-52.md)
 
-#### Licensed conveyancers and licensed CLC practitioners[^key-d026cbf04dc804e23203cacdc5d4be7c]
+#### Licensed conveyancers and licensed CLC practitioners[^c-d026cbf04dc804e23203cacdc5d4be7c]
 
 *Extent: E+W*
 
@@ -350,7 +350,7 @@ SCHEDULES
 
 [^c12473471]: Textual amendment: S. 19 and crossheading preceding it repealed (1.1.2000) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. II](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/II) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 1999/3344](https://www.legislation.gov.uk/uksi/1999/3344), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/3344/article/2/d), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1999/3344/schedule/1/paragraph/4)
 
-[^key-d026cbf04dc804e23203cacdc5d4be7c]: Textual amendment: Words in [s. 53 cross-heading](https://www.legislation.gov.uk/ukpga/1990/41/part/II/crossheading/licensed-conveyancers) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 87(9)](https://www.legislation.gov.uk/ukpga/2015/20/section/87/9), [115(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/a)
+[^c-d026cbf04dc804e23203cacdc5d4be7c]: Textual amendment: Words in [s. 53 cross-heading](https://www.legislation.gov.uk/ukpga/1990/41/part/II/crossheading/licensed-conveyancers) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 87(9)](https://www.legislation.gov.uk/ukpga/2015/20/section/87/9), [115(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/a)
 
 [^c20037181]: Textual amendment: Words in cross-heading before s. 77 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368IA. Enforcement of section 368E(4)[^key-3a1218e71d1a830277c68f7a4acf0152][^key-8b5116708328654f497f918c49a3b13d]
+## 368IA. Enforcement of section 368E(4)[^c-3a1218e71d1a830277c68f7a4acf0152][^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the appropriate regulatory authority determine that a provider of an on-demand programme service , or a non-UK on-demand programme service that is a Tier 1 service,[^key-f841ad461de2be448a8914df64196d08] has failed to take a measure which the authority consider to be appropriate in relation to that service for the purpose mentioned in section 368E(4), or has failed to implement such a measure effectively, the authority may do one or both of the following—
+(1) Where the appropriate regulatory authority determine that a provider of an on-demand programme service , or a non-UK on-demand programme service that is a Tier 1 service,[^c-f841ad461de2be448a8914df64196d08] has failed to take a measure which the authority consider to be appropriate in relation to that service for the purpose mentioned in section 368E(4), or has failed to implement such a measure effectively, the authority may do one or both of the following—
 
 - (a) give the provider an enforcement notification under this section;
 - (b) impose a financial penalty on the provider in accordance with section 368J.
@@ -59,16 +59,16 @@ summary: ''
 - (b) for specific performance of a statutory duty under section 45 of the Court of Session Act 1988; or
 - (c) for any other appropriate remedy or relief.
 
-(8A)[^key-49652068cd61b8cee6b33cd3e0364ca9] Subsection (8) applies whether or not the person is in the United Kingdom.
+(8A)[^c-49652068cd61b8cee6b33cd3e0364ca9] Subsection (8) applies whether or not the person is in the United Kingdom.
 
 (9) If a person to whom an enforcement notification has been given does not comply with it within the period fixed by the appropriate regulatory authority in that enforcement notification, the appropriate regulatory authority may impose a financial penalty on that person in accordance with section 368J.
 
 ## Annotations
 
-[^key-3a1218e71d1a830277c68f7a4acf0152]: Textual amendment: [S. 368IA](https://www.legislation.gov.uk/ukpga/2003/21/section/368IA) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2020/1062/regulation/37) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-3a1218e71d1a830277c68f7a4acf0152]: Textual amendment: [S. 368IA](https://www.legislation.gov.uk/ukpga/2003/21/section/368IA) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2020/1062/regulation/37) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
+[^c-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
 
-[^key-f841ad461de2be448a8914df64196d08]: Textual amendment: Words in [s. 368IA(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/368IA/1) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/4); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-f841ad461de2be448a8914df64196d08]: Textual amendment: Words in [s. 368IA(1)](https://www.legislation.gov.uk/ukpga/2003/21/section/368IA/1) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/4); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-49652068cd61b8cee6b33cd3e0364ca9]: Textual amendment: [S. 368IA(8A)](https://www.legislation.gov.uk/ukpga/2003/21/section/368IA/8A) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/9); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z2)
+[^c-49652068cd61b8cee6b33cd3e0364ca9]: Textual amendment: [S. 368IA(8A)](https://www.legislation.gov.uk/ukpga/2003/21/section/368IA/8A) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/9); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z2)

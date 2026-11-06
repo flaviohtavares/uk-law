@@ -35,20 +35,20 @@ amending Annexes II, III and V to Regulation (EC) No 396/2005 of the European Pa
 
 (Text with EEA relevance) (revoked)
 
-[^key-02674f73c79e0ebf9cca913e14d99d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02674f73c79e0ebf9cca913e14d99d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-02674f73c79e0ebf9cca913e14d99d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-02674f73c79e0ebf9cca913e14d99d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-02674f73c79e0ebf9cca913e14d99d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-02674f73c79e0ebf9cca913e14d99d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-02674f73c79e0ebf9cca913e14d99d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-02674f73c79e0ebf9cca913e14d99d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02674f73c79e0ebf9cca913e14d99d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02674f73c79e0ebf9cca913e14d99d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-02674f73c79e0ebf9cca913e14d99d90]
+## ANNEX[^c-02674f73c79e0ebf9cca913e14d99d90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02674f73c79e0ebf9cca913e14d99d90]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2019/557/schedule/2/paragraph/52); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02674f73c79e0ebf9cca913e14d99d90]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2019/557/schedule/2/paragraph/52); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

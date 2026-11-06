@@ -77,7 +77,7 @@ The Secretary of State for Social Security, in exercise of powers conferred by s
 
 (2) In regulations 25(1), 28 and 36(1) (capital treated as income, capital limit and calculation of tariff income from capital) for the figure “£6,000” there shall be substituted the figure “£8,000”.
 
-## 4. Amendment of the Housing Benefit (General) Regulations 1987[^key-122475ce5ed418d6e2f002fa12ac511e]
+## 4. Amendment of the Housing Benefit (General) Regulations 1987[^c-122475ce5ed418d6e2f002fa12ac511e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -111,6 +111,6 @@ They raise to £8,000 for family credit and income support, and to £16,000 for 
 
 [^f00007]: Footnote: S.I. [1987/1973](https://www.legislation.gov.uk/uksi/1987/1973); to which there are amendments not relevant to these Regulations.
 
-[^key-122475ce5ed418d6e2f002fa12ac511e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/671/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-122475ce5ed418d6e2f002fa12ac511e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1990/671/regulation/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^f00009]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); to which there are amendments not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Newly registered patients[^key-4f7d21e9f8da9fbca2345db5f6c655f0]
+## 14. Newly registered patients[^c-4f7d21e9f8da9fbca2345db5f6c655f0]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f7d21e9f8da9fbca2345db5f6c655f0]: Commencement: Art. 14 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-4f7d21e9f8da9fbca2345db5f6c655f0]: Commencement: Art. 14 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00020]: Footnote: Paragraph 16 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)

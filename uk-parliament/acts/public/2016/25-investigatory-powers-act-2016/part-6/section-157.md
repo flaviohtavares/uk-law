@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Chapter 1: interpretation[^key-687679858528cbce494dea5adefa22ff]
+## 157. Chapter 1: interpretation[^c-687679858528cbce494dea5adefa22ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-687679858528cbce494dea5adefa22ff]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2016/25/section/157) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/j)
+[^c-687679858528cbce494dea5adefa22ff]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2016/25/section/157) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/j)

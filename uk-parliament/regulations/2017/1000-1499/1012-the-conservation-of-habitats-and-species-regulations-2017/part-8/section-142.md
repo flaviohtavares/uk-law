@@ -40,10 +40,10 @@ summary: ''
 
 (6) In this regulation, “**regulatory provision**” has the same meaning as in sections 28 to 33 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-(7)[^key-5bd0de9917bc733faf7f8bbe85f2e314] The duty in paragraph (1) does not apply to regulation 68ZA (compensatory measures: relevant offshore wind plans or projects).
+(7)[^c-5bd0de9917bc733faf7f8bbe85f2e314] The duty in paragraph (1) does not apply to regulation 68ZA (compensatory measures: relevant offshore wind plans or projects).
 
 ## Annotations
 
 [^c23344781]: Marginal citation: [2015 c. 2](https://www.legislation.gov.uk/ukpga/2015/2); [section 30(3)](https://www.legislation.gov.uk/uksi/2017/1012/section/30/3) was amended by the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [section 19](https://www.legislation.gov.uk/ukpga/2016/12/section/19).
 
-[^key-5bd0de9917bc733faf7f8bbe85f2e314]: Textual amendment: [Reg. 142(7)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/142/7) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2026/508/regulation/11)
+[^c-5bd0de9917bc733faf7f8bbe85f2e314]: Textual amendment: [Reg. 142(7)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/142/7) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2026/508/regulation/11)

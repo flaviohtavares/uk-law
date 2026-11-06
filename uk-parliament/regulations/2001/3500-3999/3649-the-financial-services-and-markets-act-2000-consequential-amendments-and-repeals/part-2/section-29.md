@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Meaning of “offer to the public”, “banking company”, “insurance company” and “authorised insurance company”[^key-6eb380a47c4184c234390cb294804969]
+## 29. Meaning of “offer to the public”, “banking company”, “insurance company” and “authorised insurance company”[^c-6eb380a47c4184c234390cb294804969]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,4 +102,4 @@ After section 742 of the 1985 Act, insert—
 
 ## Annotations
 
-[^key-6eb380a47c4184c234390cb294804969]: Commencement: Art. 29 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6eb380a47c4184c234390cb294804969]: Commencement: Art. 29 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

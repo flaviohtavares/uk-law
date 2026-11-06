@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 562C. Breach of further condition relating to shares in accounting periods 1, 2 and 3[^key-df1a7d16d28e93fe1556c4b99f4255cb]
+## 562C. Breach of further condition relating to shares in accounting periods 1, 2 and 3[^c-df1a7d16d28e93fe1556c4b99f4255cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ and, accordingly, the breach is to be ignored.
 
 ## Annotations
 
-[^key-df1a7d16d28e93fe1556c4b99f4255cb]: Textual amendment: Ss. 562B 562C inserted (with effect in accordance with Sch. 4 para. 21 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/18)
+[^c-df1a7d16d28e93fe1556c4b99f4255cb]: Textual amendment: Ss. 562B 562C inserted (with effect in accordance with Sch. 4 para. 21 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/18)

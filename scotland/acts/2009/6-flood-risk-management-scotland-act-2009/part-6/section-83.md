@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Compensation: supplementary[^key-1e69aeb8fd3f286e76a6fd0bd7160ecd]
+## 83. Compensation: supplementary[^c-1e69aeb8fd3f286e76a6fd0bd7160ecd]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e69aeb8fd3f286e76a6fd0bd7160ecd]: Commencement: S. 83 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-1e69aeb8fd3f286e76a6fd0bd7160ecd]: Commencement: S. 83 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

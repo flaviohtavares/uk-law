@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Use of consecrated land[^key-c6af8c304ebe8281218a72410292f392]
+## 48. Use of consecrated land[^c-c6af8c304ebe8281218a72410292f392]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ and in section 240(3) of the 1990 Act reference to a “**statutory undertaker**
 
 ## Annotations
 
-[^key-c6af8c304ebe8281218a72410292f392]: Commencement: Art. 48 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-c6af8c304ebe8281218a72410292f392]: Commencement: Art. 48 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
 [^f00083]: Footnote: [S.I. 1950/792](https://www.legislation.gov.uk/uksi/1950/792).

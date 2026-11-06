@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Reinsurance for acts of terrorism[^key-3f25f5deca8b11e41772985729d1c385]
+## 74. Reinsurance for acts of terrorism[^c-3f25f5deca8b11e41772985729d1c385]
 
 *Extent: E+W+S*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f25f5deca8b11e41772985729d1c385]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/29/section/74) in force at 29.8.2023, see [s. 86(2)(j)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/j)
+[^c-3f25f5deca8b11e41772985729d1c385]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/29/section/74) in force at 29.8.2023, see [s. 86(2)(j)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/j)

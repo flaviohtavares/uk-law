@@ -32,7 +32,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Cosmetic Products (Safety) (Amendment) (No.2) Regulations 2004 (revoked)[^key-cf6ac3458c2907485b4156e052fb5ba5]
+The Cosmetic Products (Safety) (Amendment) (No.2) Regulations 2004 (revoked)[^c-cf6ac3458c2907485b4156e052fb5ba5]
 
 Made
 
@@ -46,42 +46,42 @@ Coming into force
 
 8th December 2004
 
-[^key-cf6ac3458c2907485b4156e052fb5ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf6ac3458c2907485b4156e052fb5ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, Commencement and Interpretation[^key-cf6ac3458c2907485b4156e052fb5ba5]
+## 1. Citation, Commencement and Interpretation[^c-cf6ac3458c2907485b4156e052fb5ba5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Principal Regulations[^key-cf6ac3458c2907485b4156e052fb5ba5]
+## 2. Amendment to the Principal Regulations[^c-cf6ac3458c2907485b4156e052fb5ba5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf6ac3458c2907485b4156e052fb5ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf6ac3458c2907485b4156e052fb5ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-cf6ac3458c2907485b4156e052fb5ba5]
+## SCHEDULE[^c-cf6ac3458c2907485b4156e052fb5ba5]
 
 Regulation 2(8) and 2(10)
 
-### PART 1 — ENTRIES TO BE SUBSTITUTED FOR ENTRIES 51, 53, 65 AND 66 IN PART 1 OF SCHEDULE 4 TO THE PRINCIPAL REGULATIONS[^key-cf6ac3458c2907485b4156e052fb5ba5]
+### PART 1 — ENTRIES TO BE SUBSTITUTED FOR ENTRIES 51, 53, 65 AND 66 IN PART 1 OF SCHEDULE 4 TO THE PRINCIPAL REGULATIONS[^c-cf6ac3458c2907485b4156e052fb5ba5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — ENTRIES TO BE INSERTED AT THE END OF THE TABLE IN PART 1 OF SCHEDULE 4 TO THE PRINCIPAL REGULATIONS[^key-cf6ac3458c2907485b4156e052fb5ba5]
+### PART 2 — ENTRIES TO BE INSERTED AT THE END OF THE TABLE IN PART 1 OF SCHEDULE 4 TO THE PRINCIPAL REGULATIONS[^c-cf6ac3458c2907485b4156e052fb5ba5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — ENTRY TO BE SUBSTITUTED FOR ENTRY 5 IN PART 1 OF SCHEDULE 6 TO THE PRINCIPAL REGULATIONS[^key-cf6ac3458c2907485b4156e052fb5ba5]
+### PART 3 — ENTRY TO BE SUBSTITUTED FOR ENTRY 5 IN PART 1 OF SCHEDULE 6 TO THE PRINCIPAL REGULATIONS[^c-cf6ac3458c2907485b4156e052fb5ba5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf6ac3458c2907485b4156e052fb5ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf6ac3458c2907485b4156e052fb5ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf6ac3458c2907485b4156e052fb5ba5]: Textual amendment: Regulations revoked (18.6.2008) by [The Cosmetic Products (Safety) Regulations 2008 (S.I. 2008/1284)](https://www.legislation.gov.uk/uksi/2008/1284), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1284/regulation/1/1)[Sch. 1](https://www.legislation.gov.uk/uksi/2008/1284/schedule/1)
+[^c-cf6ac3458c2907485b4156e052fb5ba5]: Textual amendment: Regulations revoked (18.6.2008) by [The Cosmetic Products (Safety) Regulations 2008 (S.I. 2008/1284)](https://www.legislation.gov.uk/uksi/2008/1284), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1284/regulation/1/1)[Sch. 1](https://www.legislation.gov.uk/uksi/2008/1284/schedule/1)

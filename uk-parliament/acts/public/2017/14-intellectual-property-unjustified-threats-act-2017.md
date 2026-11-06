@@ -33,15 +33,15 @@ An Act to amend the law relating to unjustified threats to bring proceedings for
 
 \[27th April 2017\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ae5555c9ca4b2acc1eb0c0b474c498dc]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ae5555c9ca4b2acc1eb0c0b474c498dc]
 
 ## Patents
 
 ### 1. Patents
 
-(1)[^key-8452d6370bddd628b1b71e44955b25b0] The Patents Act 1977 is amended as follows.
+(1)[^c-8452d6370bddd628b1b71e44955b25b0] The Patents Act 1977 is amended as follows.
 
-(2)[^key-8452d6370bddd628b1b71e44955b25b0] For section 70 (remedy for unjustified threats of infringement proceedings) substitute—
+(2)[^c-8452d6370bddd628b1b71e44955b25b0] For section 70 (remedy for unjustified threats of infringement proceedings) substitute—
 
 > **Unjustified threats**
 >
@@ -158,21 +158,21 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > In section 70(1)(b) the reference to proceedings for infringement of a patent includes a reference to proceedings for an order under section 61(1)(b) (order to deliver up or destroy patented products etc.).
 
-(3)[^key-0bbe62d5d1e146d06f2e4699cc00a4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0bbe62d5d1e146d06f2e4699cc00a4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8452d6370bddd628b1b71e44955b25b0] Before section 71 insert— “ Declaration or declarator as to non-infringement ”.
+(4)[^c-8452d6370bddd628b1b71e44955b25b0] Before section 71 insert— “ Declaration or declarator as to non-infringement ”.
 
-(5)[^key-8452d6370bddd628b1b71e44955b25b0] In section 74 (proceedings in which validity of a patent may be put in issue) in subsection (1)(b), for “under section 70” substitute “ in respect of an actionable threat under section 70A ”.
+(5)[^c-8452d6370bddd628b1b71e44955b25b0] In section 74 (proceedings in which validity of a patent may be put in issue) in subsection (1)(b), for “under section 70” substitute “ in respect of an actionable threat under section 70A ”.
 
-(6)[^key-8452d6370bddd628b1b71e44955b25b0] In section 78 (effect of filing an application for a European patent (UK)), in subsection (2) at the appropriate place insert “ sections 70 to 70F ”.
+(6)[^c-8452d6370bddd628b1b71e44955b25b0] In section 78 (effect of filing an application for a European patent (UK)), in subsection (2) at the appropriate place insert “ sections 70 to 70F ”.
 
-(7)[^key-8452d6370bddd628b1b71e44955b25b0] In section 106 (costs and expenses in proceedings before the Court) in subsection (1A)(c), for “under section 70” substitute “ in respect of an actionable threat under section 70A ”.
+(7)[^c-8452d6370bddd628b1b71e44955b25b0] In section 106 (costs and expenses in proceedings before the Court) in subsection (1A)(c), for “under section 70” substitute “ in respect of an actionable threat under section 70A ”.
 
-(8)[^key-c3856f8f0acbc97fc7b768b7b5d4adf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-c3856f8f0acbc97fc7b768b7b5d4adf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Trade marks
 
-### 2. Trade marks[^key-7ce4f764147ee6b25e67be33c34e90b2]
+### 2. Trade marks[^c-7ce4f764147ee6b25e67be33c34e90b2]
 
 (1) The Trade Marks Act 1994 is amended as follows.
 
@@ -309,13 +309,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 .
 
-### 3. European Union trade marks[^key-44209305e0436f4fea4d8971ef21ba0c]
+### 3. European Union trade marks[^c-44209305e0436f4fea4d8971ef21ba0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Registered designs, design right and Community design
 
-### 4. Registered designs[^key-bf7b5013fb9ad194d5cd9d3e5c2c3578]
+### 4. Registered designs[^c-bf7b5013fb9ad194d5cd9d3e5c2c3578]
 
 (1) The Registered Designs Act 1949 is amended as follows.
 
@@ -442,7 +442,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 > (1A) In the application of section 26C(1)(a) (remedy for unjustified threat of infringement proceedings) to Scotland, “**declaration**” means “declarator”.
 
-### 5. Design right[^key-cb0c464fb9be46e5f0463357e74de81e]
+### 5. Design right[^c-cb0c464fb9be46e5f0463357e74de81e]
 
 (1) Part 3 of the Copyright, Designs and Patents Act 1988 (design right) is amended as follows.
 
@@ -563,7 +563,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 .
 
-### 6. Community design[^key-12f72d1488eab1fdd52103cc1f3ecfc2]
+### 6. Community design[^c-12f72d1488eab1fdd52103cc1f3ecfc2]
 
 (1) The Community Design Regulations 2005 (S.I. 2005/2339) are amended as follows.
 
@@ -706,7 +706,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) Her Majesty may by Order in Council provide for the amendments made by section 1(3) and (8) of this Act to the Patents Act 1977 to extend, with or without modifications, to the Isle of Man.
 
-(4)[^key-67ddaadbeb9c7068b4cc2e3d3d6f23ff] The power to make an Order in Council under section 255(2) of the Copyright, Designs and Patents Act 1988 (extension of certain provisions to the Isle of Man, the Channel Islands or other territories, with or without modifications) may be exercised in relation to any amendment made by section 5 above (and in section 255(4) and (5) of that Act the references to Part 3 include references to the provisions substituted or inserted by the amendments made by section 5).
+(4)[^c-67ddaadbeb9c7068b4cc2e3d3d6f23ff] The power to make an Order in Council under section 255(2) of the Copyright, Designs and Patents Act 1988 (extension of certain provisions to the Isle of Man, the Channel Islands or other territories, with or without modifications) may be exercised in relation to any amendment made by section 5 above (and in section 255(4) and (5) of that Act the references to Part 3 include references to the provisions substituted or inserted by the amendments made by section 5).
 
 ### 8. Commencement
 
@@ -725,24 +725,24 @@ This Act may be cited as the Intellectual Property (Unjustified Threats) Act 201
 
 ## Annotations
 
-[^key-ae5555c9ca4b2acc1eb0c0b474c498dc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/14) modified in part (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 3(1)](https://www.legislation.gov.uk/uksi/2018/1157/article/3/1)
+[^c-ae5555c9ca4b2acc1eb0c0b474c498dc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/14) modified in part (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 3(1)](https://www.legislation.gov.uk/uksi/2018/1157/article/3/1)
 
-[^key-8452d6370bddd628b1b71e44955b25b0]: Commencement: S. 1(1)(2) (4)-(7) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-8452d6370bddd628b1b71e44955b25b0]: Commencement: S. 1(1)(2) (4)-(7) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-0bbe62d5d1e146d06f2e4699cc00a4dc]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/3) repealed (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/1)
+[^c-0bbe62d5d1e146d06f2e4699cc00a4dc]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/3) repealed (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/1)
 
-[^key-c3856f8f0acbc97fc7b768b7b5d4adf5]: Textual amendment: [S. 1(8)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/8) repealed (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/1)
+[^c-c3856f8f0acbc97fc7b768b7b5d4adf5]: Textual amendment: [S. 1(8)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/8) repealed (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/1)
 
-[^key-7ce4f764147ee6b25e67be33c34e90b2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/14/section/2) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-7ce4f764147ee6b25e67be33c34e90b2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/14/section/2) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-44209305e0436f4fea4d8971ef21ba0c]: Textual amendment: S. 3 repealed (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44209305e0436f4fea4d8971ef21ba0c]: Textual amendment: S. 3 repealed (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf7b5013fb9ad194d5cd9d3e5c2c3578]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/14/section/4) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-bf7b5013fb9ad194d5cd9d3e5c2c3578]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/14/section/4) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-cb0c464fb9be46e5f0463357e74de81e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/14/section/5) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-cb0c464fb9be46e5f0463357e74de81e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/14/section/5) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-12f72d1488eab1fdd52103cc1f3ecfc2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/14/section/6) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-12f72d1488eab1fdd52103cc1f3ecfc2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/14/section/6) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
 [^c22729711]: Commencement: [S. 7(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/7/1) in force at Royal Assent, see [s. 8(1)](https://www.legislation.gov.uk/ukpga/2017/14/section/8/1)
 
-[^key-67ddaadbeb9c7068b4cc2e3d3d6f23ff]: Commencement: [S. 7(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/7/4) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-67ddaadbeb9c7068b4cc2e3d3d6f23ff]: Commencement: [S. 7(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/7/4) in force at 1.10.2017 by [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))

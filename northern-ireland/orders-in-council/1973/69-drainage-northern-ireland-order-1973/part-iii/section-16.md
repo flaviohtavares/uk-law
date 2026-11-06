@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Amendment of drainage schemes[^key-da4e19a6d340896b2e407d9c4e9773db]
+## 16. Amendment of drainage schemes[^c-da4e19a6d340896b2e407d9c4e9773db]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ direct that such variations be made in the scheme as appears to be necessary.
 
 ## Annotations
 
-[^key-da4e19a6d340896b2e407d9c4e9773db]: Textual amendment: Art. 16 substituted (16.5.2017) by [The Drainage (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/88)](https://www.legislation.gov.uk/nisr/2017/88), [regs. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1), [23](https://www.legislation.gov.uk/nisr/2017/88/regulation/23)
+[^c-da4e19a6d340896b2e407d9c4e9773db]: Textual amendment: Art. 16 substituted (16.5.2017) by [The Drainage (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/88)](https://www.legislation.gov.uk/nisr/2017/88), [regs. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1), [23](https://www.legislation.gov.uk/nisr/2017/88/regulation/23)

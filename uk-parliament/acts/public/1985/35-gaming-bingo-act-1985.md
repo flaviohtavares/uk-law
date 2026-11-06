@@ -31,50 +31,50 @@ Gaming (Bingo) Act 1985 (repealed)
 
 1985 c. 35
 
-[^key-46ab1652ddd728c3526c9970c2ff7a32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46ab1652ddd728c3526c9970c2ff7a32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. “Multiple bingo”.[^key-46ab1652ddd728c3526c9970c2ff7a32]
+## 1. “Multiple bingo”.[^c-46ab1652ddd728c3526c9970c2ff7a32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modifications of principal Act for multiple bingo.[^key-46ab1652ddd728c3526c9970c2ff7a32]
+## 2. Modifications of principal Act for multiple bingo.[^c-46ab1652ddd728c3526c9970c2ff7a32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Multiple bingo regulations.[^key-46ab1652ddd728c3526c9970c2ff7a32]
+## 3. Multiple bingo regulations.[^c-46ab1652ddd728c3526c9970c2ff7a32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences and enforcement.[^key-46ab1652ddd728c3526c9970c2ff7a32]
+## 4. Offences and enforcement.[^c-46ab1652ddd728c3526c9970c2ff7a32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title, commencement and extent.[^key-46ab1652ddd728c3526c9970c2ff7a32]
+## 5. Short title, commencement and extent.[^c-46ab1652ddd728c3526c9970c2ff7a32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Certificates of Approval[^key-46ab1652ddd728c3526c9970c2ff7a32]
+## SCHEDULE — Certificates of Approval[^c-46ab1652ddd728c3526c9970c2ff7a32]
 
-### Issue of certificate[^key-46ab1652ddd728c3526c9970c2ff7a32]
+### Issue of certificate[^c-46ab1652ddd728c3526c9970c2ff7a32]
 
-**1.**[^key-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Revocation of certificate[^key-46ab1652ddd728c3526c9970c2ff7a32]
+### Revocation of certificate[^c-46ab1652ddd728c3526c9970c2ff7a32]
 
-**4.**[^key-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Fees[^key-46ab1652ddd728c3526c9970c2ff7a32]
+### Fees[^c-46ab1652ddd728c3526c9970c2ff7a32]
 
-**5.**[^key-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-46ab1652ddd728c3526c9970c2ff7a32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46ab1652ddd728c3526c9970c2ff7a32]: Textual amendment: Act repealed (1.1.2007 for the repeal of Sch. para. 5(b), 1.9.2007 in so far as not already in force) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1), 3B (with arts. [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-46ab1652ddd728c3526c9970c2ff7a32]: Textual amendment: Act repealed (1.1.2007 for the repeal of Sch. para. 5(b), 1.9.2007 in so far as not already in force) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1), 3B (with arts. [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by S.I. 2007/2169, arts. 3, 6, Sch.)

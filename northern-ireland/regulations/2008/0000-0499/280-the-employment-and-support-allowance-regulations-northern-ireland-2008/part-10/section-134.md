@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 134. Calculation of covenant income where no grant income or no contribution is assessed[^key-eba27a06345463da81570d647961a260]
+## 134. Calculation of covenant income where no grant income or no contribution is assessed[^c-eba27a06345463da81570d647961a260]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eba27a06345463da81570d647961a260]: Commencement: [Reg. 134](https://www.legislation.gov.uk/nisr/2008/280/regulation/134) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-eba27a06345463da81570d647961a260]: Commencement: [Reg. 134](https://www.legislation.gov.uk/nisr/2008/280/regulation/134) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

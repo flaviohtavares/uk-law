@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Designation of heat network zone by Scottish Ministers[^key-8c568b390c8d03f84c2806c6de8f4f2e]
+## 49. Designation of heat network zone by Scottish Ministers[^c-8c568b390c8d03f84c2806c6de8f4f2e]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c568b390c8d03f84c2806c6de8f4f2e]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2021/9/section/49) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/d)
+[^c-8c568b390c8d03f84c2806c6de8f4f2e]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2021/9/section/49) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 8. Scheme rules[^key-478de0ecbcfdd4736c123323223d2742]
+## 8. Scheme rules[^c-478de0ecbcfdd4736c123323223d2742]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-478de0ecbcfdd4736c123323223d2742]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2018/9/section/8) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-478de0ecbcfdd4736c123323223d2742]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2018/9/section/8) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

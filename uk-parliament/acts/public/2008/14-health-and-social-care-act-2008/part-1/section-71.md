@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Provision of information by Auditor General for Wales[^key-abcf6ba5b0862e494b0600c417e973f9]
+## 71. Provision of information by Auditor General for Wales[^c-abcf6ba5b0862e494b0600c417e973f9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abcf6ba5b0862e494b0600c417e973f9]: Commencement: S. 71 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/22)
+[^c-abcf6ba5b0862e494b0600c417e973f9]: Commencement: S. 71 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/22)

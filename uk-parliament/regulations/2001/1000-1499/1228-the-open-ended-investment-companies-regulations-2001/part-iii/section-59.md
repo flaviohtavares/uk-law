@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Authentication of documents: England and Wales[^key-ef7d6f99f6ead0f68154a443a0230784]
+## 59. Authentication of documents: England and Wales[^c-ef7d6f99f6ead0f68154a443a0230784]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef7d6f99f6ead0f68154a443a0230784]: Textual amendment: Reg. 59 omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/20) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-ef7d6f99f6ead0f68154a443a0230784]: Textual amendment: Reg. 59 omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/20) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

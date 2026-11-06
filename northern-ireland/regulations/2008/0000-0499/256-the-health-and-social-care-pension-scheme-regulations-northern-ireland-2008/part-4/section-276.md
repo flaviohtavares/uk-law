@@ -43,8 +43,8 @@ An application or claim made or a notice given for the purposes of a regulation 
 </tbody>
 </table>
 
-[^key-b8d6c4df23059c2091eb3cf18715005b]
+[^c-b8d6c4df23059c2091eb3cf18715005b]
 
 ## Annotations
 
-[^key-b8d6c4df23059c2091eb3cf18715005b]: Textual amendment: [Reg. 276](https://www.legislation.gov.uk/nisr/2008/256/regulation/276) Table substituted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [83](https://www.legislation.gov.uk/nisr/2009/65/regulation/83) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-b8d6c4df23059c2091eb3cf18715005b]: Textual amendment: [Reg. 276](https://www.legislation.gov.uk/nisr/2008/256/regulation/276) Table substituted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [83](https://www.legislation.gov.uk/nisr/2009/65/regulation/83) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))

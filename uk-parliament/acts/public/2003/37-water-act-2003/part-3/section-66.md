@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Revocation of local flood defence schemes[^key-9fced7b0ee49dbb7294f22150c8ac9fc]
+## 66. Revocation of local flood defence schemes[^c-9fced7b0ee49dbb7294f22150c8ac9fc]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fced7b0ee49dbb7294f22150c8ac9fc]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2003/37/section/66) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(q)](https://www.legislation.gov.uk/uksi/2004/641/article/3/q) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-9fced7b0ee49dbb7294f22150c8ac9fc]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2003/37/section/66) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(q)](https://www.legislation.gov.uk/uksi/2004/641/article/3/q) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

@@ -46,7 +46,7 @@ Coming into force in accordance with regulation 1(2)
 
 [^c23090211][^c23090221]A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament in accordance with paragraph 2 of Schedule 2 to the European Communities Act 1972 and sections 22B and 429(1) and (2) of, and paragraph 26(2) of Schedule 2 to, the Financial Services and Markets Act 2000 .
 
-The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c23090231] and sections 22(1) and (5), 22A, 55C, 284A, 426 and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000 [^c23090241], make the following Regulations:[^key-3a99df36e012d9df10afa390f8106251]
+The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c23090231] and sections 22(1) and (5), 22A, 55C, 284A, 426 and 428(3) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000 [^c23090241], make the following Regulations:[^c-3a99df36e012d9df10afa390f8106251]
 
 ## Contents
 
@@ -391,4 +391,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23090241]: Marginal citation: [Paragraph 25](https://www.legislation.gov.uk/uksi/2017/1212/paragraph/25) of Schedule 2 was amended by sections 8(1) and (2) of the Financial Services Act 2012.
 
-[^key-3a99df36e012d9df10afa390f8106251]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/1212): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-3a99df36e012d9df10afa390f8106251]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/1212): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)

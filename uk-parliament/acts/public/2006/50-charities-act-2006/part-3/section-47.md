@@ -22,7 +22,7 @@ summary: ''
 
 **No longer in force (ended 2008-04-01).**
 
-(1) [^key-bd97d41acfdab2684e416d7488fd5ad4]In this Chapter—
+(1) [^c-bd97d41acfdab2684e416d7488fd5ad4]In this Chapter—
 
 - “**charitable, benevolent or philanthropic institution**” means—
   - (a) a charity, or
@@ -52,4 +52,4 @@ and references in this Chapter to a local authority or to the area of a local au
 
 ## Annotations
 
-[^key-bd97d41acfdab2684e416d7488fd5ad4]: Commencement: [S. 47(1)](https://www.legislation.gov.uk/ukpga/2006/50/section/47/1) in force at 1.4.2008 for specified purposes by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))
+[^c-bd97d41acfdab2684e416d7488fd5ad4]: Commencement: [S. 47(1)](https://www.legislation.gov.uk/ukpga/2006/50/section/47/1) in force at 1.4.2008 for specified purposes by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))

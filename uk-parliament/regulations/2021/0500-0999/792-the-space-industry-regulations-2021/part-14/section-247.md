@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. Power to issue contravention notice[^key-372841916fb3d34a7a47bdb72b91f4a9]
+## 247. Power to issue contravention notice[^c-372841916fb3d34a7a47bdb72b91f4a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-372841916fb3d34a7a47bdb72b91f4a9]: Commencement: Reg. 247 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-372841916fb3d34a7a47bdb72b91f4a9]: Commencement: Reg. 247 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Determination of net earnings of employed earners[^key-a38da17018efa10cfa2c3b6d0a0f5d21]
+## 24. Determination of net earnings of employed earners[^c-a38da17018efa10cfa2c3b6d0a0f5d21]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a38da17018efa10cfa2c3b6d0a0f5d21]: Commencement: Reg. 24 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-a38da17018efa10cfa2c3b6d0a0f5d21]: Commencement: Reg. 24 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

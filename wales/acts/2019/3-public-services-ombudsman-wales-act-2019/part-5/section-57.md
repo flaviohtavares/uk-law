@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Action following receipt of investigation reports[^key-b0753142a11c4822b318dd6bc9e5fbbf]
+## 57. Action following receipt of investigation reports[^c-b0753142a11c4822b318dd6bc9e5fbbf]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0753142a11c4822b318dd6bc9e5fbbf]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2019/3/section/57) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-b0753142a11c4822b318dd6bc9e5fbbf]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2019/3/section/57) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -42,13 +42,13 @@ Section 1
 
 **3.** (1) The Children’s Commissioner is to be appointed by the Secretary of State.
 
-(2) The Secretary of State must take reasonable steps to[^key-8f35cf5ea2df524f7f27d5d8e4085435] involve children in the appointment of the Children’s Commissioner.
+(2) The Secretary of State must take reasonable steps to[^c-8f35cf5ea2df524f7f27d5d8e4085435] involve children in the appointment of the Children’s Commissioner.
 
 (3) Subject to the provisions of this paragraph, a person shall hold and vacate office as the Children’s Commissioner in accordance with the terms and conditions of his appointment as determined by the Secretary of State.
 
-(4) An appointment as the Children’s Commissioner shall be for a term not exceeding six years[^key-8784aef833a3be30354cf8d95ca45a4b].
+(4) An appointment as the Children’s Commissioner shall be for a term not exceeding six years[^c-8784aef833a3be30354cf8d95ca45a4b].
 
-(5) A person who has held office as the Children’s Commissioner is not eligible for reappointment[^key-53b77862508c9a57b33d7c26e34e1629].
+(5) A person who has held office as the Children’s Commissioner is not eligible for reappointment[^c-53b77862508c9a57b33d7c26e34e1629].
 
 (6) The Children’s Commissioner may at any time resign by notice in writing to the Secretary of State.
 
@@ -57,7 +57,7 @@ Section 1
 - (a) become unfit or unable properly to discharge his functions; or
 - (b) behaved in a way that is not compatible with his continuing in office.
 
-### Interim appointments[^key-a520995bb52ea41fe459847bdf3ead44]
+### Interim appointments[^c-a520995bb52ea41fe459847bdf3ead44]
 
 **3A.** (1) Where there is a vacancy in the office of Children's Commissioner, the Secretary of State may appoint a person as interim Children's Commissioner.
 
@@ -91,11 +91,11 @@ as may be provided under the terms of his appointment.
 
 ### Staff
 
-**5.** (1) The Children’s Commissioner may appoint any staff he considers necessary for assisting him in the exercise of his functions [^key-d6208b938a73e202cb443fde8b8871a4]....
+**5.** (1) The Children’s Commissioner may appoint any staff he considers necessary for assisting him in the exercise of his functions [^c-d6208b938a73e202cb443fde8b8871a4]....
 
-(2)[^key-70067c8f759a17b78973ea6ec28a9330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-70067c8f759a17b78973ea6ec28a9330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) [^key-cd67cd5823dc945aa1aab9461511a1fe]... Any member of the Children’s Commissioner’s staff may, so far as authorised by him, exercise any of his functions.
+(3) [^c-cd67cd5823dc945aa1aab9461511a1fe]... Any member of the Children’s Commissioner’s staff may, so far as authorised by him, exercise any of his functions.
 
 ### Pensions
 
@@ -156,16 +156,16 @@ as may be provided under the terms of his appointment.
 
 ## Annotations
 
-[^key-8f35cf5ea2df524f7f27d5d8e4085435]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2004/31/schedule/1/paragraph/3/2) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/7/a)
+[^c-8f35cf5ea2df524f7f27d5d8e4085435]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2004/31/schedule/1/paragraph/3/2) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/7/a)
 
-[^key-8784aef833a3be30354cf8d95ca45a4b]: Textual amendment: Words in [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/ukpga/2004/31/schedule/1/paragraph/3/4) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 7(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/7/b)
+[^c-8784aef833a3be30354cf8d95ca45a4b]: Textual amendment: Words in [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/ukpga/2004/31/schedule/1/paragraph/3/4) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 7(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/7/b)
 
-[^key-53b77862508c9a57b33d7c26e34e1629]: Textual amendment: Words in [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/ukpga/2004/31/schedule/1/paragraph/3/5) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 7(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/7/c)
+[^c-53b77862508c9a57b33d7c26e34e1629]: Textual amendment: Words in [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/ukpga/2004/31/schedule/1/paragraph/3/5) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 7(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/7/c)
 
-[^key-a520995bb52ea41fe459847bdf3ead44]: Textual amendment: Sch. 1 para. 3A and cross-heading inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/8)
+[^c-a520995bb52ea41fe459847bdf3ead44]: Textual amendment: Sch. 1 para. 3A and cross-heading inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/8)
 
-[^key-d6208b938a73e202cb443fde8b8871a4]: Textual amendment: Words in Sch. 1 para. 5(1) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/9/1/a)
+[^c-d6208b938a73e202cb443fde8b8871a4]: Textual amendment: Words in Sch. 1 para. 5(1) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/9/1/a)
 
-[^key-70067c8f759a17b78973ea6ec28a9330]: Textual amendment: Sch. 1 para. 5(2) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/9/1/b)
+[^c-70067c8f759a17b78973ea6ec28a9330]: Textual amendment: Sch. 1 para. 5(2) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/9/1/b)
 
-[^key-cd67cd5823dc945aa1aab9461511a1fe]: Textual amendment: Words in Sch. 1 para. 5(3) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 9(1)(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/9/1/c)
+[^c-cd67cd5823dc945aa1aab9461511a1fe]: Textual amendment: Words in Sch. 1 para. 5(3) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 9(1)(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/9/1/c)

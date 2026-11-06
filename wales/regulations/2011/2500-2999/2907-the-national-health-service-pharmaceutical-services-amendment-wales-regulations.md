@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (Pharmaceutical Services) (Amendment) (Wales) Regulations 2011 (revoked)[^key-81cae408c5ae9c29d9b71d0ba15b5b75]
+The National Health Service (Pharmaceutical Services) (Amendment) (Wales) Regulations 2011 (revoked)[^c-81cae408c5ae9c29d9b71d0ba15b5b75]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 31 December 2011
 
-[^key-81cae408c5ae9c29d9b71d0ba15b5b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81cae408c5ae9c29d9b71d0ba15b5b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-81cae408c5ae9c29d9b71d0ba15b5b75]
+## 1. Title, commencement, application and interpretation[^c-81cae408c5ae9c29d9b71d0ba15b5b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of paragraph 25 of Schedule 2 to the principal Regulations[^key-81cae408c5ae9c29d9b71d0ba15b5b75]
+## 2. Amendment of paragraph 25 of Schedule 2 to the principal Regulations[^c-81cae408c5ae9c29d9b71d0ba15b5b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional arrangements[^key-81cae408c5ae9c29d9b71d0ba15b5b75]
+## 3. Transitional arrangements[^c-81cae408c5ae9c29d9b71d0ba15b5b75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-81cae408c5ae9c29d9b71d0ba15b5b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81cae408c5ae9c29d9b71d0ba15b5b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-81cae408c5ae9c29d9b71d0ba15b5b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81cae408c5ae9c29d9b71d0ba15b5b75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-81cae408c5ae9c29d9b71d0ba15b5b75]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/2907) revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (revoked) 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/wsi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/898/regulation/1/2), [Sch. 8 para. 26](https://www.legislation.gov.uk/wsi/2013/898/schedule/8/paragraph/26)
+[^c-81cae408c5ae9c29d9b71d0ba15b5b75]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/2907) revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (revoked) 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/wsi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/898/regulation/1/2), [Sch. 8 para. 26](https://www.legislation.gov.uk/wsi/2013/898/schedule/8/paragraph/26)

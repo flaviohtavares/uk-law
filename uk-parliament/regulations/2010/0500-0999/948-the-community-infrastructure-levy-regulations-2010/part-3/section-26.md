@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Correction of errors in a charging schedule[^key-19d54b1d9d69ca497afcab108a532706]
+## 26. Correction of errors in a charging schedule[^c-19d54b1d9d69ca497afcab108a532706]
 
 *Extent: E+W*
 
@@ -41,12 +41,12 @@ summary: ''
 - (c) publish the corrected charging schedule and correction notice on its website;
 - (d) make the corrected charging schedule and correction notice available for inspection at the places at which the documents mentioned in regulation 16(1)(a) were made available; and
 - (e) where the error is one to which paragraph (2)(b) applies—
-  - (i (Extent: E) (affected by repeal, see note))[^key-dba0198906c8b152977543001e4fdb65] give notice by local advertisement of the correction, that a copy of the corrected charging schedule and correction notice is available for inspection, and of the places at which they can be inspected, *(Extent: E)* *(affected by repeal, see note)*[^key-dba0198906c8b152977543001e4fdb65]
+  - (i (Extent: E) (affected by repeal, see note))[^c-dba0198906c8b152977543001e4fdb65] give notice by local advertisement of the correction, that a copy of the corrected charging schedule and correction notice is available for inspection, and of the places at which they can be inspected, *(Extent: E)* *(affected by repeal, see note)*[^c-dba0198906c8b152977543001e4fdb65]
   - (ii) send a copy of the correction notice to those persons who requested to be notified of the approval of the charging schedule, and
   - (iii) send a copy of the correction notice to the relevant consenting authorities.
 
 ## Annotations
 
-[^key-19d54b1d9d69ca497afcab108a532706]: Commencement: Reg. 26 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-19d54b1d9d69ca497afcab108a532706]: Commencement: Reg. 26 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-dba0198906c8b152977543001e4fdb65]: Textual amendment: [Reg. 26(5)(e)(i)](https://www.legislation.gov.uk/uksi/2010/948/regulation/26/5/e/i) omitted (E.) (1.9.2019) by virtue of [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/10) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-dba0198906c8b152977543001e4fdb65]: Textual amendment: [Reg. 26(5)(e)(i)](https://www.legislation.gov.uk/uksi/2010/948/regulation/26/5/e/i) omitted (E.) (1.9.2019) by virtue of [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/10) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

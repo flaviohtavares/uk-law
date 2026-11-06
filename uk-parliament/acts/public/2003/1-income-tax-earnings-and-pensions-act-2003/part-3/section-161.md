@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Van fuel: the cash equivalent[^key-e3ed7c7f56956e11a03127a1ded249b3]
+## 161. Van fuel: the cash equivalent[^c-e3ed7c7f56956e11a03127a1ded249b3]
 
 *Extent: E+W+S+N.I.*
 
 The cash equivalent of the benefit of the fuel is—
 
 - (a) where the tax year is the tax year 2005-06 or 2006-07, nil, and
-- (b) where the tax year is a later tax year, £798[^key-a81c4de97a11342428732e35a9fb55f4].
+- (b) where the tax year is a later tax year, £798[^c-a81c4de97a11342428732e35a9fb55f4].
 
 ## Annotations
 
-[^key-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
+[^c-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
 
-[^key-a81c4de97a11342428732e35a9fb55f4]: Textual amendment: Sum in s. 161(b) substituted (with application to the tax year 2026-27 and subsequent tax years) by [The Van Benefit and Car and Van Fuel Benefit Order 2025 (S.I. 2025/1254)](https://www.legislation.gov.uk/uksi/2025/1254), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1254/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1254/article/2/4)
+[^c-a81c4de97a11342428732e35a9fb55f4]: Textual amendment: Sum in s. 161(b) substituted (with application to the tax year 2026-27 and subsequent tax years) by [The Van Benefit and Car and Van Fuel Benefit Order 2025 (S.I. 2025/1254)](https://www.legislation.gov.uk/uksi/2025/1254), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1254/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1254/article/2/4)

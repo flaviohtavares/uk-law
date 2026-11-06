@@ -44,7 +44,7 @@ The Secretary of State, in exercise of the powers conferred by sections 205(1), 
 
 A draft of these Regulations has been laid before the House of Commons in accordance with section 222(2)(b) of the Planning Act 2008 and approved by resolution of that House.
 
-## 1. Citation, commencement and application[^key-7b5325fdd469bf2fc5d9f48a6b23a056]
+## 1. Citation, commencement and application[^c-7b5325fdd469bf2fc5d9f48a6b23a056]
 
 (1) These Regulations may be cited as the Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 and come into force on 1st September 2019 (“the commencement date”).
 
@@ -56,11 +56,11 @@ A draft of these Regulations has been laid before the House of Commons in accord
 
 (5) The amendments in regulation 10 apply in relation to any planning obligation entered into on or after the commencement date.
 
-## 2. Amendments to the Community Infrastructure Levy Regulations 2010[^key-5d8ec7f493310257ae9c94d02efd3194]
+## 2. Amendments to the Community Infrastructure Levy Regulations 2010[^c-5d8ec7f493310257ae9c94d02efd3194]
 
 The Community Infrastructure Levy Regulations 2010 are amended in accordance with the following provisions of these Regulations.
 
-## 3. Charging schedules: consultation etc.[^key-a7bace0d99e2e67723a81adab2a04142]
+## 3. Charging schedules: consultation etc.[^c-a7bace0d99e2e67723a81adab2a04142]
 
 (1) In regulation 11(1) in the definition of “consultation bodies” for “regulation 15” substitute “regulation 16”.
 
@@ -122,7 +122,7 @@ The Community Infrastructure Levy Regulations 2010 are amended in accordance wit
 
 (10) In regulation 26(5)(e) omit paragraph (i).
 
-## 4. Charging schedules: procedure in relation to a charging schedule ceasing to have effect[^key-f58aaf3630b2b423c20d4169e70f413d]
+## 4. Charging schedules: procedure in relation to a charging schedule ceasing to have effect[^c-f58aaf3630b2b423c20d4169e70f413d]
 
 (1) In regulation 28 omit paragraph (4).
 
@@ -162,7 +162,7 @@ The Community Infrastructure Levy Regulations 2010 are amended in accordance wit
 
 .
 
-## 5. Chargeable development and chargeable amount[^key-d650ec0e0028c3a651620b71798cb9d6]
+## 5. Chargeable development and chargeable amount[^c-d650ec0e0028c3a651620b71798cb9d6]
 
 (1) In regulation 9—
 
@@ -212,7 +212,7 @@ The Community Infrastructure Levy Regulations 2010 are amended in accordance wit
 
 (12) At the end of the Community Infrastructure Levy Regulations 2010 insert as Schedule 1 the schedule set out in Schedule 1 to these Regulations.
 
-## 6. Reliefs: commencement notices and other amendments relating to applications for relief[^key-e135e9640b7d72956f06be46830eeefb]
+## 6. Reliefs: commencement notices and other amendments relating to applications for relief[^c-e135e9640b7d72956f06be46830eeefb]
 
 (1) In regulation 41(1) omit the definition of “by local advertisement”.
 
@@ -296,7 +296,7 @@ The Community Infrastructure Levy Regulations 2010 are amended in accordance wit
 
   .
 
-## 7. Section 73 permissions: carry over of relief and instalments[^key-ad179719f3f82bc287e76a21721516d9]
+## 7. Section 73 permissions: carry over of relief and instalments[^c-ad179719f3f82bc287e76a21721516d9]
 
 (1) After regulation 58, within Part 6 of the Regulations, insert—
 
@@ -330,7 +330,7 @@ The Community Infrastructure Levy Regulations 2010 are amended in accordance wit
 
 .
 
-## 8. Enforcement by taking control of goods[^key-7653ac6b5efaa6c3a0af76e42a8bc266]
+## 8. Enforcement by taking control of goods[^c-7653ac6b5efaa6c3a0af76e42a8bc266]
 
 (1) In regulation 95(1) insert the following definitions in the appropriate places—
 
@@ -381,7 +381,7 @@ The Community Infrastructure Levy Regulations 2010 are amended in accordance wit
 - (a) in paragraph (3) for “regulations 97(2) and 99(2)” substitute “regulation 97(2)”;
 - (b) in paragraph (4) omit “, 99”.
 
-## 9. Annual infrastructure funding statements and CIL rate summary[^key-acef7c92ccc57b892bc0e9beb5d6fc3f]
+## 9. Annual infrastructure funding statements and CIL rate summary[^c-acef7c92ccc57b892bc0e9beb5d6fc3f]
 
 (1) In regulation 2(1) —
 
@@ -534,7 +534,7 @@ The Community Infrastructure Levy Regulations 2010 are amended in accordance wit
 
 (7) At the end of the Community Infrastructure Levy Regulations 2010 insert as Schedule 2 the schedule set out in Schedule 2 to these Regulations.
 
-## 10. Fees for monitoring planning obligations[^key-95a07e8642e118da450ed907f033f0e0]
+## 10. Fees for monitoring planning obligations[^c-95a07e8642e118da450ed907f033f0e0]
 
 In regulation 122[^f00014]—
 
@@ -548,11 +548,11 @@ In regulation 122[^f00014]—
 
   .
 
-## 11. Removal of pooling restrictions[^key-58e7931a221b544cd0b6a48a0c09810b]
+## 11. Removal of pooling restrictions[^c-58e7931a221b544cd0b6a48a0c09810b]
 
 Omit regulation 123.
 
-## 12. Consequential amendments to other secondary legislation[^key-5099d8f0d909195fa2e1da8b8826cf62]
+## 12. Consequential amendments to other secondary legislation[^c-5099d8f0d909195fa2e1da8b8826cf62]
 
 (1) In article 6 of the Local Authorities (Contracting Out of Community Infrastructure Levy Functions) Order 2011[^f00015]—
 
@@ -564,7 +564,7 @@ Omit regulation 123.
 - (a) for “regulation 62”, where it first occurs, substitute “regulation 121A(1)(b)”; and
 - (b) for “regulation 62(4) of” substitute “paragraph 1 of Schedule 2 to”.
 
-## 13. Transitional and saving provisions[^key-6c0ea9d45e439e1d51198ee94580f6c4]
+## 13. Transitional and saving provisions[^c-6c0ea9d45e439e1d51198ee94580f6c4]
 
 (1) Part 3 of the 2010 Regulations continues to apply, in relation to a draft charging schedule which is published in accordance with regulation 16(1) of the 2010 Regulations before the commencement date, as if the amendments in regulation 3 had not been made.
 
@@ -595,7 +595,7 @@ Ministry of Housing, Communities and Local Government
 
 9th July 2019
 
-## SCHEDULE 1[^key-f04b2c8987bd55290dc4891ff12ba60c]
+## SCHEDULE 1[^c-f04b2c8987bd55290dc4891ff12ba60c]
 
 Regulation 5
 
@@ -1049,7 +1049,7 @@ Regulation 5
 >   - (b) a district valuer within the meaning of section 622 of the Housing Act 1985[^f00021]; and
 > - “interested person” means the person who was granted the notional relief.
 
-## SCHEDULE 2[^key-2d6fe250461080bc5d4aaeaf457888b8]
+## SCHEDULE 2[^c-2d6fe250461080bc5d4aaeaf457888b8]
 
 Regulation 9
 
@@ -1155,19 +1155,19 @@ No formal impact assessment was produced for these Regulations as one is not req
 
 [^f00001]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29). Most of the functions of the Secretary of State under Part 11 of the Act, in relation to Wales, were transferred to Welsh Ministers by article 44 of [S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644). Section 216 was amended by section 115 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and regulation 63 of [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948), and section 216A was inserted by section 115 of the Localism Act 2011. There are amendments to sections 205, 211 and 218 which are not relevant to this instrument.
 
-[^key-7b5325fdd469bf2fc5d9f48a6b23a056]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-7b5325fdd469bf2fc5d9f48a6b23a056]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948), which was amended by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987), [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635), [S.I. 2012/666](https://www.legislation.gov.uk/uksi/2012/666), [S.I. 2012/702](https://www.legislation.gov.uk/uksi/2012/702), [S.I. 2012/2975](https://www.legislation.gov.uk/uksi/2012/2975), [S.I. 2013/982](https://www.legislation.gov.uk/uksi/2013/982), [S.I. 2014/385](https://www.legislation.gov.uk/uksi/2014/385), [S.I. 2015/377](https://www.legislation.gov.uk/uksi/2015/377), [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664), [S.I. 2015/836](https://www.legislation.gov.uk/uksi/2015/836) and [S.I. 2018/172](https://www.legislation.gov.uk/uksi/2018/172).
 
-[^key-5d8ec7f493310257ae9c94d02efd3194]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1103/regulation/2) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-5d8ec7f493310257ae9c94d02efd3194]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1103/regulation/2) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
-[^key-a7bace0d99e2e67723a81adab2a04142]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-a7bace0d99e2e67723a81adab2a04142]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
 [^f00003]: Footnote: Section 61F was inserted into the Town and Country Planning Act 1990 by paragraph 2 of Schedule 9 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-f58aaf3630b2b423c20d4169e70f413d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/1103/regulation/4) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-f58aaf3630b2b423c20d4169e70f413d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/1103/regulation/4) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
-[^key-d650ec0e0028c3a651620b71798cb9d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-d650ec0e0028c3a651620b71798cb9d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
 [^f00004]: Footnote: Regulation 64A was inserted by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987) and amended by [S.I. 2014/385](https://www.legislation.gov.uk/uksi/2014/385).
 
@@ -1177,19 +1177,19 @@ No formal impact assessment was produced for these Regulations as one is not req
 
 [^f00007]: Footnote: Regulation 128A was inserted by [S.I. 2012/2975](https://www.legislation.gov.uk/uksi/2012/2975) and amended by S.I.s [2014/385](https://www.legislation.gov.uk/uksi/2014/385) and [2018/172](https://www.legislation.gov.uk/uksi/2018/172).
 
-[^key-e135e9640b7d72956f06be46830eeefb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/1103/regulation/6) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-e135e9640b7d72956f06be46830eeefb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/1103/regulation/6) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
 [^f00008]: Footnote: Regulation 42B was inserted by [S.I. 2014/385](https://www.legislation.gov.uk/uksi/2014/385).
 
 [^f00009]: Footnote: Regulation 54B was inserted by [S.I. 2014/385](https://www.legislation.gov.uk/uksi/2014/385).
 
-[^key-ad179719f3f82bc287e76a21721516d9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/1103/regulation/7) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-ad179719f3f82bc287e76a21721516d9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/1103/regulation/7) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
 [^f00010]: Footnote: Regulation 70 was substituted by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987) and amended by S.I.s [2012/2975](https://www.legislation.gov.uk/uksi/2012/2975) and [2013/982](https://www.legislation.gov.uk/uksi/2013/982).
 
-[^key-7653ac6b5efaa6c3a0af76e42a8bc266]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-7653ac6b5efaa6c3a0af76e42a8bc266]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/1103/regulation/8) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
-[^key-acef7c92ccc57b892bc0e9beb5d6fc3f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/1103/regulation/9) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-acef7c92ccc57b892bc0e9beb5d6fc3f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/1103/regulation/9) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
 [^f00011]: Footnote: Regulation 58A was inserted by [S.I. 2013/982](https://www.legislation.gov.uk/uksi/2013/982) and amended by [S.I. 2014/385](https://www.legislation.gov.uk/uksi/2014/385).
 
@@ -1197,21 +1197,21 @@ No formal impact assessment was produced for these Regulations as one is not req
 
 [^f00013]: Footnote: Regulation 73A was inserted by [S.I. 2014/385](https://www.legislation.gov.uk/uksi/2014/385).
 
-[^key-95a07e8642e118da450ed907f033f0e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/1103/regulation/10) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-95a07e8642e118da450ed907f033f0e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/1103/regulation/10) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
 [^f00014]: Footnote: There are amendments to regulation 122 which are not relevant to this instrument.
 
-[^key-58e7931a221b544cd0b6a48a0c09810b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/1103/regulation/11) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-58e7931a221b544cd0b6a48a0c09810b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/1103/regulation/11) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
-[^key-5099d8f0d909195fa2e1da8b8826cf62]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/1103/regulation/12) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-5099d8f0d909195fa2e1da8b8826cf62]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/1103/regulation/12) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2011/2918](https://www.legislation.gov.uk/uksi/2011/2918).
 
 [^f00016]: Footnote: [S.I. 2012/767](https://www.legislation.gov.uk/uksi/2012/767).
 
-[^key-6c0ea9d45e439e1d51198ee94580f6c4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-6c0ea9d45e439e1d51198ee94580f6c4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
-[^key-f04b2c8987bd55290dc4891ff12ba60c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1103/schedule/1) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-f04b2c8987bd55290dc4891ff12ba60c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1103/schedule/1) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
 
 [^f00017]: Footnote: See regulation 2 for the definition of “relief”.
 
@@ -1223,4 +1223,4 @@ No formal impact assessment was produced for these Regulations as one is not req
 
 [^f00021]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68); the definition of “district valuer” in section 622 was substituted by [S.I. 1990/434](https://www.legislation.gov.uk/uksi/1990/434).
 
-[^key-2d6fe250461080bc5d4aaeaf457888b8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2019/1103/schedule/2) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)
+[^c-2d6fe250461080bc5d4aaeaf457888b8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2019/1103/schedule/2) in force at 1.9.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/1)

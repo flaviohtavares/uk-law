@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.1. The structure of an inquiry[^key-ede48ad94d68443bacf533979e1b4da8]
+## 2.1. The structure of an inquiry[^c-ede48ad94d68443bacf533979e1b4da8]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ An inquiry proceeds as follows—
 
 ## Annotations
 
-[^key-ede48ad94d68443bacf533979e1b4da8]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/ssi/2017/103/rule/2.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-ede48ad94d68443bacf533979e1b4da8]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/ssi/2017/103/rule/2.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

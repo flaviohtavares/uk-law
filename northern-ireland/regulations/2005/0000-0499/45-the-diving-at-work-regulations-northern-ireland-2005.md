@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001], being the Department concerned[^f00002], in exercise of the powers conferred on it by Articles 17(1), (2), (4) and (5)[^f00003] and 55(2) of, and paragraphs 1(1), 3, 4, 5, 13, 14(1), 15 and 20(a) of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00004] and of every other power enabling it in that behalf and for the purpose of giving effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A)[^f00005] of that Order after the carrying out by the said Executive of consultations in accordance with Article 46(3)[^f00006] of that Order, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-b3a90c994a6f553682be7d92fe5f31d7]
+## 1. Citation and commencement[^c-b3a90c994a6f553682be7d92fe5f31d7]
 
 These Regulations may be cited as the Diving at Work Regulations (Northern Ireland) 2005 and shall come into operation on 4th April 2005.
 
-## 2. Interpretation[^key-3b28bbb611a63a79202bce1e9a051b85]
+## 2. Interpretation[^c-3b28bbb611a63a79202bce1e9a051b85]
 
 (1) In these Regulations –
 
@@ -70,7 +70,7 @@ These Regulations may be cited as the Diving at Work Regulations (Northern Irela
   - (ii) a chamber in which he is subject to pressure greater than 100 millibars above atmospheric pressure; and
 - (b) in order to survive in such an environment he breathes in air or other gas at a pressure greater than atmospheric pressure.
 
-## 3. Application and extent[^key-6bd56cfbeaf7dec51f1e0df8eea490e8]
+## 3. Application and extent[^c-6bd56cfbeaf7dec51f1e0df8eea490e8]
 
 (1) These Regulations shall apply to and in relation to any diving project apart from the following –
 
@@ -80,11 +80,11 @@ These Regulations may be cited as the Diving at Work Regulations (Northern Irela
 
 (2) These Regulations shall apply within the territorial sea only to and in relation to the premises and activities to which any of paragraphs 2 to 6 of Schedule 1 applies.
 
-## 4. Duty to ensure compliance with these Regulations[^key-85beab87b4cfd5023365192681324c78]
+## 4. Duty to ensure compliance with these Regulations[^c-85beab87b4cfd5023365192681324c78]
 
 Every person who to any extent is responsible for, has control over or is engaged in a diving project or whose acts or omissions could adversely affect the health and safety of persons engaged in such a project, shall take such measures as it is reasonable for a person in his position to take to ensure that these Regulations are complied with.
 
-## 5. The diving contractor[^key-81f7400562846b4eff4d9a73a9d9e823]
+## 5. The diving contractor[^c-81f7400562846b4eff4d9a73a9d9e823]
 
 (1) A person at work shall not dive in a diving project and an employer shall not employ any person in such a project unless there is one person and one person only who is the diving contractor for that project.
 
@@ -95,7 +95,7 @@ Every person who to any extent is responsible for, has control over or is engage
 
 (3) Where there is more than one person falling within paragraph (2) those persons shall jointly appoint in writing before the commencement of the diving project one of themselves to act as diving contractor.
 
-## 6. Duties of diving contractor[^key-32883069873fdc7c66f938b22ff24e08]
+## 6. Duties of diving contractor[^c-32883069873fdc7c66f938b22ff24e08]
 
 (1) The diving contractor shall ensure, so far as is reasonably practicable, that the diving project is planned, managed and conducted in a manner which protects the health and safety of all persons taking part in that project.
 
@@ -119,7 +119,7 @@ Every person who to any extent is responsible for, has control over or is engage
 
 (4) In this regulation, the “required particulars” means such particulars as are approved for the time being in writing by the Executive for the purposes of sub-paragraph 3(e); and any such approval may be given generally or in respect of any diving project or class of diving projects.
 
-## 7. Information to be supplied to Executive by diving contractor[^key-68a303f339d97d9287a98a6fc2712638]
+## 7. Information to be supplied to Executive by diving contractor[^c-68a303f339d97d9287a98a6fc2712638]
 
 (1) A person shall not act as a diving contractor unless the particulars listed in Schedule 2 have been supplied in writing to the Executive by or in respect of that person.
 
@@ -127,7 +127,7 @@ Every person who to any extent is responsible for, has control over or is engage
 
 (3) Paragraphs (1) and (2) shall not apply where each person (apart from any person at work) diving in the diving project does so for recreational purposes.
 
-## 8. Diving project plan[^key-befe6dad0a84eda082b28314474f604d]
+## 8. Diving project plan[^c-befe6dad0a84eda082b28314474f604d]
 
 (1) The diving project plan shall be based on an assessment of the risks to the health and safety of any person taking part in the diving project and shall consist of a record of the outcome of the planning carried out in accordance with regulation 6(1) including all such information and instructions as are necessary to give advice to and to regulate the behaviour of those so taking part to ensure, so far as is reasonably practicable, their health and safety.
 
@@ -135,13 +135,13 @@ Every person who to any extent is responsible for, has control over or is engage
 
 (3) The diving project plan shall identify each diving operation which makes up the diving project and the nature and size of any diving operation so identified shall be such that it can be safely supervised by one person.
 
-## 9. Appointment of supervisor[^key-6c833b62cdb48874417b3ce463f0e009]
+## 9. Appointment of supervisor[^c-6c833b62cdb48874417b3ce463f0e009]
 
 (1) Only one supervisor shall be appointed to supervise a diving operation at any one time.
 
 (2) A person shall not be appointed, or act, as a supervisor unless he is competent and, where appropriate, suitably qualified to perform the functions of supervisor in respect of the diving operation which he is appointed to supervise.
 
-## 10. Duties of supervisor[^key-91e412c5a6ae57598e485c4a4c58b86e]
+## 10. Duties of supervisor[^c-91e412c5a6ae57598e485c4a4c58b86e]
 
 (1) The supervisor shall, in respect of the diving operation for which he has been appointed as supervisor –
 
@@ -160,11 +160,11 @@ Every person who to any extent is responsible for, has control over or is engage
 - (b) the supervisor can so dive without risk to the health and safety of those taking part in that operation and of other persons who may be affected thereby; and
 - (c) the diving project plan which relates to that operation specifically provides for the supervisor to so dive.
 
-## 11. Power of supervisor to give directions[^key-aaaae7bb30c6db89574b9acd9f3587ba]
+## 11. Power of supervisor to give directions[^c-aaaae7bb30c6db89574b9acd9f3587ba]
 
 A supervisor may, whilst supervising the diving operation in respect of which he is appointed, give such reasonable directions to any person taking part in that operation or who may affect the safety of that operation as are necessary to enable him to comply with regulation 10.
 
-## 12. Duties of and restrictions on divers[^key-0a80f7431302ec37cf3378220ca74f78]
+## 12. Duties of and restrictions on divers[^c-0a80f7431302ec37cf3378220ca74f78]
 
 (1) A diver shall not dive in a diving project unless he –
 
@@ -184,7 +184,7 @@ A supervisor may, whilst supervising the diving operation in respect of which he
 
 (4) Paragraphs (1)(a) and (3) shall not apply to a diver, other than a person whose work normally involves work as a diver, who dives for educational purposes in a tank or pool artificially constructed for the purpose of swimming or diving and who uses self-contained underwater breathing apparatus.
 
-## 13. Duties of and restrictions on persons engaged in a diving project[^key-c75e8318f9f7c8b712e638d701e1e5c6]
+## 13. Duties of and restrictions on persons engaged in a diving project[^c-c75e8318f9f7c8b712e638d701e1e5c6]
 
 (1) A person shall not dive in a diving project –
 
@@ -196,7 +196,7 @@ A supervisor may, whilst supervising the diving operation in respect of which he
 - (a) any directions given to him by a supervisor under regulation 11; and
 - (b) where they would not conflict with those directions, any instructions applicable to him in the diving project plan.
 
-## 14. Approved qualifications[^key-ae5d814422aa3c4d5eb6124c39e683b8]
+## 14. Approved qualifications[^c-ae5d814422aa3c4d5eb6124c39e683b8]
 
 (1) The Executive may approve in writing such qualification as it considers suitable for the purpose of ensuring the adequate competence of divers for the purposes of regulation 12(1)(a).
 
@@ -204,7 +204,7 @@ A supervisor may, whilst supervising the diving operation in respect of which he
 
 (3) An approved qualification shall not be valid for the purposes of regulation 12(1)(a) unless any limitation or any condition as to the approval of the qualification under this regulation is satisfied or complied with and the approval has not been revoked.
 
-## 15. Certificate of medical fitness to dive[^key-3d471af6d17ed90eb402645d8e17e747]
+## 15. Certificate of medical fitness to dive[^c-3d471af6d17ed90eb402645d8e17e747]
 
 (1) A certificate of medical fitness to dive is a certificate from a medical examiner of divers (or from the Executive following an appeal under paragraph (4)) that the person issuing the certificate considers the person named in the certificate to be fit to dive.
 
@@ -227,7 +227,7 @@ by a medical examiner of divers, the person who applied for or holds the certifi
 
 (6) In this regulation, “medical examiner of divers” means a registered medical practitioner who is, or who falls within a class of medical practitioners which is, for the time being, approved in writing by the Executive for the purposes of this regulation; and any such approval may be given generally or restricted to any class of diver or dive.
 
-## 16. Exemption certificates[^key-bf2ec1699320a21e7403541645f5aebe]
+## 16. Exemption certificates[^c-bf2ec1699320a21e7403541645f5aebe]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons, any diving operation or class of diving operations and any plant or class of plant from any requirement or prohibition imposed by any provision of these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time.
 
@@ -238,7 +238,7 @@ by a medical examiner of divers, the person who applied for or holds the certifi
 
 it is satisfied that the health and safety of persons who are likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-## 17. Transitional and supplementary provisions[^key-27aae0273af3f795b76b15ac6789778b]
+## 17. Transitional and supplementary provisions[^c-27aae0273af3f795b76b15ac6789778b]
 
 (1) Any certificate of training and any certificate of medical fitness to dive issued, or having effect as if issued, under the Diving Operations at Work Regulations (Northern Ireland) 1994[^f00009] (“the 1994 Regulations”) shall have effect, subject to any conditions or limitations contained in any such certificate, as if it were, as the case may be, an approved qualification or a certificate of medical fitness to dive for the purposes of these Regulations.
 
@@ -246,11 +246,11 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 (3) Any diver’s log book retained in accordance with regulation 10(6) of the 1994 Regulations shall be retained for such period of time as would have been required by that regulation had the 1994 Regulations not been revoked.
 
-## 18. Revocations[^key-a6180fd8b19ef559294ff2d3d6d84c92]
+## 18. Revocations[^c-a6180fd8b19ef559294ff2d3d6d84c92]
 
 The Diving Operations at Work Regulations (Northern Ireland) 1994 are hereby revoked.
 
-## 19. Amendments[^key-62e92e1de3bcd994132c4cdb26c7e75a]
+## 19. Amendments[^c-62e92e1de3bcd994132c4cdb26c7e75a]
 
 The statutory provisions mentioned in Schedule 3 shall be amended to the extent specified in that Schedule.
 
@@ -266,7 +266,7 @@ Department of Enterprise, Trade and Investment
 
 Regulation 3(2)
 
-### 1. Interpretation[^key-74266cdaab0b988b423f440c8a1b28e7]
+### 1. Interpretation[^c-74266cdaab0b988b423f440c8a1b28e7]
 
 (1) In this Schedule –
 
@@ -283,7 +283,7 @@ Regulation 3(2)
 
 (3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-fd93804e92a4274283255f9c2576b12a]
+### 2. Offshore installations[^c-fd93804e92a4274283255f9c2576b12a]
 
 (1) This paragraph shall apply to and in relation to –
 
@@ -312,7 +312,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (d) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in sub-paragraph (2); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-1336bd82d793de931a2e7b69469a77df]
+### 3. Wells[^c-1336bd82d793de931a2e7b69469a77df]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to and in relation to –
 
@@ -321,7 +321,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-bb44ac1ee899133d3090f19a5aa80efb]
+### 4. Pipelines[^c-bb44ac1ee899133d3090f19a5aa80efb]
 
 (1) This paragraph applies to and in relation to –
 
@@ -351,13 +351,13 @@ together with any supplementary unit which is ordinarily connected to it, and al
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) a diving project in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-e3e0167a3880ce9903355a0753eeaf6f]
+### 5. Mines[^c-e3e0167a3880ce9903355a0753eeaf6f]
 
 (1) This paragraph applies to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
 
 (2) In this paragraph “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00011].
 
-### 6. Other activities[^key-e34faca697867039ba33d67f10f2f189]
+### 6. Other activities[^c-e34faca697867039ba33d67f10f2f189]
 
 (1) Subject to paragraph (2), this paragraph applies to and in relation to –
 
@@ -381,15 +381,15 @@ Regulation 7(1)
 
 The particulars referred to in regulation 7(1) are –
 
-**1.**[^key-7b475cb4de67718ba3e662e96bc75dd4] Name, address and telephone number of the diving contractor.
+**1.**[^c-7b475cb4de67718ba3e662e96bc75dd4] Name, address and telephone number of the diving contractor.
 
-**2.**[^key-7266ca042d253066bbf29e0132722c1b] Legal status of the diving contractor (for example: limited company, partnership, sole proprietor).
+**2.**[^c-7266ca042d253066bbf29e0132722c1b] Legal status of the diving contractor (for example: limited company, partnership, sole proprietor).
 
-**3.**[^key-6483b6c07a8fb81d0bf9974782bdce87] Name, address and telephone number (where different from 1) of the person to be contacted, in case of need, by the Executive.
+**3.**[^c-6483b6c07a8fb81d0bf9974782bdce87] Name, address and telephone number (where different from 1) of the person to be contacted, in case of need, by the Executive.
 
-**4.**[^key-1386df7fce972df64981aa2145423e6f] The signature and full name of the person supplying the particulars.
+**4.**[^c-1386df7fce972df64981aa2145423e6f] The signature and full name of the person supplying the particulars.
 
-**5.**[^key-50485a668ab2a2370944135a85eac874] The date upon which the particulars are supplied.
+**5.**[^c-50485a668ab2a2370944135a85eac874] The date upon which the particulars are supplied.
 
 ## SCHEDULE 3 — AMENDMENTS
 
@@ -397,19 +397,19 @@ Regulation 19
 
 ### Health and Safety (First-Aid) Regulations (Northern Ireland) 1982
 
-**1.**[^key-fd451ca830dbd02463b036219a5cb9f5] In regulation 7(f) of the Health and Safety (First-Aid) Regulations (Northern Ireland) 1982[^f00012], for the words “the Diving Operations at Work Regulations (Northern Ireland) 1994” there shall be substituted the words “the Diving at Work Regulations (Northern Ireland) 2005”.
+**1.**[^c-fd451ca830dbd02463b036219a5cb9f5] In regulation 7(f) of the Health and Safety (First-Aid) Regulations (Northern Ireland) 1982[^f00012], for the words “the Diving Operations at Work Regulations (Northern Ireland) 1994” there shall be substituted the words “the Diving at Work Regulations (Northern Ireland) 2005”.
 
 ### Construction (Head Protection) Regulations (Northern Ireland) 1990
 
-**2.**[^key-684f8759dfa73475d71befabac8327bf] In regulation 3(2) of the Construction (Head Protection) Regulations (Northern Ireland) 1990[^f00013], for the words “a diving operation as construed in accordance with regulation 2(2)(a) of the Diving Operations at Work Regulations (Northern Ireland) 1983” there shall be substituted the words “a diving project within the meaning of regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005”.
+**2.**[^c-684f8759dfa73475d71befabac8327bf] In regulation 3(2) of the Construction (Head Protection) Regulations (Northern Ireland) 1990[^f00013], for the words “a diving operation as construed in accordance with regulation 2(2)(a) of the Diving Operations at Work Regulations (Northern Ireland) 1983” there shall be substituted the words “a diving project within the meaning of regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005”.
 
 ### Offshore Installations (Safety Case) Regulations (Northern Ireland) 1993
 
-**3.**[^key-70a635a607e2447580bed083e763f277] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-70a635a607e2447580bed083e763f277] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Reporting of Injuries Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997
 
-**4.**[^key-dcbdf71edaf3cd3cbdf64ef79f00db04] In the Reporting of Injuries Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^f00015] –
+**4.**[^c-dcbdf71edaf3cd3cbdf64ef79f00db04] In the Reporting of Injuries Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1997[^f00015] –
 
 - (a) in regulation 2(1) –
   - (i) for the definitions of “diving contractor” and “diving operation” there shall be substituted the following definition –
@@ -427,7 +427,7 @@ Regulation 19
 
 ### Confined Spaces Regulations (Northern Ireland) 1999
 
-**5.**[^key-d2167082182074a738ea6c9f87ec2c6f] In the Confined Spaces Regulations (Northern Ireland) 1999[^f00016] –
+**5.**[^c-d2167082182074a738ea6c9f87ec2c6f] In the Confined Spaces Regulations (Northern Ireland) 1999[^f00016] –
 
 - (a) in regulation 1(2), for the definition of “diving operation” there shall be substituted the following definition –
 
@@ -448,7 +448,7 @@ Regulation 19
 
 ### Pressure Systems Safety Regulations (Northern Ireland) 2004
 
-**6.**[^key-783b3a287b0b19a037aa3107f034f9aa] In the Pressure Systems Safety Regulations (Northern Ireland) 2004[^f00017] –
+**6.**[^c-783b3a287b0b19a037aa3107f034f9aa] In the Pressure Systems Safety Regulations (Northern Ireland) 2004[^f00017] –
 
 - (a) in paragraph 7 of part I of Schedule 1 for the words “regulation 5(1)(d) of the Diving Operations at Work Regulations (Northern Ireland) 1994 and used or intended to be used in the course of a diving project” there shall be substituted the words “regulation 6(3)(b) of the Diving at Work Regulations (Northern Ireland) 2005”;
 - (b) in Schedule 4 –
@@ -462,7 +462,7 @@ Regulation 19
 
 ### Work in Compressed Air Regulations (Northern Ireland) 2004
 
-**7.**[^key-f0122d79bf4cabd3189d0e699f205272] In regulation 3(2) of the Work in Compressed Air Regulations (Northern Ireland) 2004[^f00018], for the words “to any diving operation as construed in accordance with regulation 2(2)(a) of the Diving Operations at Work Regulations (Northern Ireland) 1994” there shall be substituted the words “to any diving project within the meaning of regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005”.
+**7.**[^c-f0122d79bf4cabd3189d0e699f205272] In regulation 3(2) of the Work in Compressed Air Regulations (Northern Ireland) 2004[^f00018], for the words “to any diving operation as construed in accordance with regulation 2(2)(a) of the Diving Operations at Work Regulations (Northern Ireland) 1994” there shall be substituted the words “to any diving project within the meaning of regulation 2(1) of the Diving at Work Regulations (Northern Ireland) 2005”.
 
 (This note is not part of the Regulations.)
 
@@ -509,98 +509,98 @@ Regulation 19
 
 [^f00006]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18(c)
 
-[^key-b3a90c994a6f553682be7d92fe5f31d7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-b3a90c994a6f553682be7d92fe5f31d7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-3b28bbb611a63a79202bce1e9a051b85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/45/regulation/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-3b28bbb611a63a79202bce1e9a051b85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/45/regulation/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00007]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54); as amended by [1995 c. 51](https://www.legislation.gov.uk/ukpga/1995/51), [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46), [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17) and [S.I. 1986/23](https://www.legislation.gov.uk/uksi/1986/23), [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), [S.I. 2000/1803](https://www.legislation.gov.uk/uksi/2000/1803), [S.I. 2000/3041](https://www.legislation.gov.uk/uksi/2000/3041) and [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135)
 
 [^f00008]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67)
 
-[^key-6bd56cfbeaf7dec51f1e0df8eea490e8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/45/regulation/3) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-6bd56cfbeaf7dec51f1e0df8eea490e8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/45/regulation/3) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-85beab87b4cfd5023365192681324c78]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/45/regulation/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-85beab87b4cfd5023365192681324c78]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/45/regulation/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-81f7400562846b4eff4d9a73a9d9e823]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/45/regulation/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-81f7400562846b4eff4d9a73a9d9e823]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/45/regulation/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-32883069873fdc7c66f938b22ff24e08]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/45/regulation/6) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-32883069873fdc7c66f938b22ff24e08]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/45/regulation/6) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-68a303f339d97d9287a98a6fc2712638]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/45/regulation/7) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-68a303f339d97d9287a98a6fc2712638]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/45/regulation/7) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-befe6dad0a84eda082b28314474f604d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/45/regulation/8) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-befe6dad0a84eda082b28314474f604d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/45/regulation/8) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-6c833b62cdb48874417b3ce463f0e009]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/45/regulation/9) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-6c833b62cdb48874417b3ce463f0e009]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/45/regulation/9) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-91e412c5a6ae57598e485c4a4c58b86e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/45/regulation/10) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-91e412c5a6ae57598e485c4a4c58b86e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/45/regulation/10) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-aaaae7bb30c6db89574b9acd9f3587ba]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/45/regulation/11) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-aaaae7bb30c6db89574b9acd9f3587ba]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/45/regulation/11) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-0a80f7431302ec37cf3378220ca74f78]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/45/regulation/12) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-0a80f7431302ec37cf3378220ca74f78]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/45/regulation/12) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-c75e8318f9f7c8b712e638d701e1e5c6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/45/regulation/13) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-c75e8318f9f7c8b712e638d701e1e5c6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/45/regulation/13) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-ae5d814422aa3c4d5eb6124c39e683b8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/45/regulation/14) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-ae5d814422aa3c4d5eb6124c39e683b8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/45/regulation/14) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-3d471af6d17ed90eb402645d8e17e747]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/45/regulation/15) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-3d471af6d17ed90eb402645d8e17e747]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/45/regulation/15) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-bf2ec1699320a21e7403541645f5aebe]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/45/regulation/16) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-bf2ec1699320a21e7403541645f5aebe]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/45/regulation/16) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-27aae0273af3f795b76b15ac6789778b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/45/regulation/17) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-27aae0273af3f795b76b15ac6789778b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/45/regulation/17) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1994 No. 146](https://www.legislation.gov.uk/nisr/1994/146) as amended by [S.R. 1995 No. 340](https://www.legislation.gov.uk/nisr/1995/340) and [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
 
-[^key-a6180fd8b19ef559294ff2d3d6d84c92]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/45/regulation/18) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-a6180fd8b19ef559294ff2d3d6d84c92]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/45/regulation/18) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-62e92e1de3bcd994132c4cdb26c7e75a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/45/regulation/19) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-62e92e1de3bcd994132c4cdb26c7e75a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/45/regulation/19) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-74266cdaab0b988b423f440c8a1b28e7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-74266cdaab0b988b423f440c8a1b28e7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00010]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act 1982 ([1982 c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
 
-[^key-fd93804e92a4274283255f9c2576b12a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-fd93804e92a4274283255f9c2576b12a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-1336bd82d793de931a2e7b69469a77df]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/3) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-1336bd82d793de931a2e7b69469a77df]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/3) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-bb44ac1ee899133d3090f19a5aa80efb]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-bb44ac1ee899133d3090f19a5aa80efb]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-e3e0167a3880ce9903355a0753eeaf6f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-e3e0167a3880ce9903355a0753eeaf6f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00011]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-e34faca697867039ba33d67f10f2f189]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/6) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-e34faca697867039ba33d67f10f2f189]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/45/schedule/1/paragraph/6) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-7b475cb4de67718ba3e662e96bc75dd4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-7b475cb4de67718ba3e662e96bc75dd4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-7266ca042d253066bbf29e0132722c1b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-7266ca042d253066bbf29e0132722c1b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-6483b6c07a8fb81d0bf9974782bdce87]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/3) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-6483b6c07a8fb81d0bf9974782bdce87]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/3) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-1386df7fce972df64981aa2145423e6f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-1386df7fce972df64981aa2145423e6f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-50485a668ab2a2370944135a85eac874]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-50485a668ab2a2370944135a85eac874]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/45/schedule/2/paragraph/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
-[^key-fd451ca830dbd02463b036219a5cb9f5]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-fd451ca830dbd02463b036219a5cb9f5]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/1) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00012]: Footnote: [S.R. 1982 No. 429](https://www.legislation.gov.uk/nisr/1982/429) as amended by [S.R. 1993 No. 323](https://www.legislation.gov.uk/nisr/1993/323); [S.R. 1994 No. 146](https://www.legislation.gov.uk/nisr/1994/146); [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150) and [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)
 
-[^key-684f8759dfa73475d71befabac8327bf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-684f8759dfa73475d71befabac8327bf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/2) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00013]: Footnote: [S.R. 1990 No. 424](https://www.legislation.gov.uk/nisr/1990/424) as amended by [S.R. 1993 No. 20](https://www.legislation.gov.uk/nisr/1993/20) and [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
 
-[^key-70a635a607e2447580bed083e763f277]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/3) omitted (21.5.2007) by virtue of [The Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007 (S.R. 2007/247)](https://www.legislation.gov.uk/nisr/2007/247), [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2007/247/schedule/10/paragraph/6) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2007/247/regulation/4/2), [27](https://www.legislation.gov.uk/nisr/2007/247/regulation/27))
+[^c-70a635a607e2447580bed083e763f277]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/3) omitted (21.5.2007) by virtue of [The Offshore Installations (Safety Case) Regulations (Northern Ireland) 2007 (S.R. 2007/247)](https://www.legislation.gov.uk/nisr/2007/247), [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/nisr/2007/247/schedule/10/paragraph/6) (with [regs. 4(2)](https://www.legislation.gov.uk/nisr/2007/247/regulation/4/2), [27](https://www.legislation.gov.uk/nisr/2007/247/regulation/27))
 
-[^key-dcbdf71edaf3cd3cbdf64ef79f00db04]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-dcbdf71edaf3cd3cbdf64ef79f00db04]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/4) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00015]: Footnote: [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455) as amended by [S.R. 1998 No. 375](https://www.legislation.gov.uk/nisr/1998/375); [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150), [S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375) and [S.R. 2001 No. 436](https://www.legislation.gov.uk/nisr/2001/436)
 
-[^key-d2167082182074a738ea6c9f87ec2c6f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-d2167082182074a738ea6c9f87ec2c6f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/5) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00016]: Footnote: [S.R. 1999 No. 13](https://www.legislation.gov.uk/nisr/1999/13) as amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150)
 
-[^key-783b3a287b0b19a037aa3107f034f9aa]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/6) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-783b3a287b0b19a037aa3107f034f9aa]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/6) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00017]: Footnote: [S.R. 2004 No. 222](https://www.legislation.gov.uk/nisr/2004/222)
 
-[^key-f0122d79bf4cabd3189d0e699f205272]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/7) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
+[^c-f0122d79bf4cabd3189d0e699f205272]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2005/45/schedule/3/paragraph/7) in operation at 4.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/45/regulation/1)
 
 [^f00018]: Footnote: [S.R. 2004 No. 241](https://www.legislation.gov.uk/nisr/2004/241)

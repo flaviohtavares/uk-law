@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Retention of biometric data and recordable offences[^key-79ab0ea69236754bfd588cee64f2b0e5]
+## 126. Retention of biometric data and recordable offences[^c-79ab0ea69236754bfd588cee64f2b0e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79ab0ea69236754bfd588cee64f2b0e5]: Commencement: S. 126 in force at Royal Assent, see [s. 142(2)(d)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/d)
+[^c-79ab0ea69236754bfd588cee64f2b0e5]: Commencement: S. 126 in force at Royal Assent, see [s. 142(2)(d)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/d)

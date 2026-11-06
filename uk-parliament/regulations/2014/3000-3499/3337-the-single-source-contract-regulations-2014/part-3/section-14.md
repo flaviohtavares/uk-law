@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Re-determination of contract price[^key-0adde69b3844c8113301728c0bb96df9]
+## 14. Re-determination of contract price[^c-0adde69b3844c8113301728c0bb96df9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0adde69b3844c8113301728c0bb96df9]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/3337/regulation/14) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/420/regulation/18)
+[^c-0adde69b3844c8113301728c0bb96df9]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/3337/regulation/14) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/420/regulation/18)

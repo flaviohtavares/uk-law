@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 19
 
-**1.**[^key-d89319053dba039d9976e5b4442088ad] (1) The Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 are amended as follows.
+**1.**[^c-d89319053dba039d9976e5b4442088ad] (1) The Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 are amended as follows.
 
 (2) In regulation 6 omit “other” in the third place in which it occurs.
 
@@ -40,4 +40,4 @@ Regulation 19
 
 ## Annotations
 
-[^key-d89319053dba039d9976e5b4442088ad]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/18/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-d89319053dba039d9976e5b4442088ad]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/18/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

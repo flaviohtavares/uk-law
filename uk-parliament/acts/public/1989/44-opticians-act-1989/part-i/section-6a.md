@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Powers of delegation[^key-3a59cbea92da25b5264948c8b560fd82]
+## 6A. Powers of delegation[^c-3a59cbea92da25b5264948c8b560fd82]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a59cbea92da25b5264948c8b560fd82]: Textual amendment: S. 6A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 6(2)](https://www.legislation.gov.uk/uksi/2005/848/article/6/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-3a59cbea92da25b5264948c8b560fd82]: Textual amendment: S. 6A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 6(2)](https://www.legislation.gov.uk/uksi/2005/848/article/6/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Power to require performance of functions by Welsh Ministers or nominee[^key-80544e553d904c5c5aa76d6972feca85]
+## 122. Power to require performance of functions by Welsh Ministers or nominee[^c-80544e553d904c5c5aa76d6972feca85]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80544e553d904c5c5aa76d6972feca85]: Commencement: [S. 122](https://www.legislation.gov.uk/anaw/2014/7/section/122) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-80544e553d904c5c5aa76d6972feca85]: Commencement: [S. 122](https://www.legislation.gov.uk/anaw/2014/7/section/122) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

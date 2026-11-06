@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17 — CAPITAL ALLOWANCES: ENERGY-SAVING PLANT AND MACHINERY[^key-03e6a25afd2be3cb5a64c74af2b6f11a]
+## SCHEDULE 17 — CAPITAL ALLOWANCES: ENERGY-SAVING PLANT AND MACHINERY[^c-03e6a25afd2be3cb5a64c74af2b6f11a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Section 65.
 
-**1.**[^key-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-03e6a25afd2be3cb5a64c74af2b6f11a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03e6a25afd2be3cb5a64c74af2b6f11a]: Textual amendment: [Sch. 17](https://www.legislation.gov.uk/ukpga/2001/9/schedule/17) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/i)
+[^c-03e6a25afd2be3cb5a64c74af2b6f11a]: Textual amendment: [Sch. 17](https://www.legislation.gov.uk/ukpga/2001/9/schedule/17) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/i)

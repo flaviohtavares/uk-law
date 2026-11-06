@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Surrender of a permit for a Part B or Part C installation or Part B or Part C mobile plant[^key-3a3cd30deb38394225572f73407a84c2]
+## 23. Surrender of a permit for a Part B or Part C installation or Part B or Part C mobile plant[^c-3a3cd30deb38394225572f73407a84c2]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ and the permit shall cease to have effect to the extent surrendered on the date 
 
 ## Annotations
 
-[^key-3a3cd30deb38394225572f73407a84c2]: Commencement: Reg. 23 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-3a3cd30deb38394225572f73407a84c2]: Commencement: Reg. 23 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

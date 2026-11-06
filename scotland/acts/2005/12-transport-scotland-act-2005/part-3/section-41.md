@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Public Transport Users' Committee for Scotland[^key-3c8344fced4245cdaf649d3f5d412b45]
+## 41. Public Transport Users' Committee for Scotland[^c-3c8344fced4245cdaf649d3f5d412b45]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ as they consider appropriate.
 
 ## Annotations
 
-[^key-3c8344fced4245cdaf649d3f5d412b45]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2005/12/section/41) in force at 3.4.2006 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/454/schedule/3)
+[^c-3c8344fced4245cdaf649d3f5d412b45]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2005/12/section/41) in force at 3.4.2006 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/454/schedule/3)

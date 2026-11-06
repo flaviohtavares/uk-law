@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**7.**[^key-5447e60175c50a5942ac76bb6e26ed82] For the purposes of construing the provisions of the 2002 and 2003 Acts, as extended by this Order as part of the law of Jersey, any reference to an enactment which extends to Jersey shall, except where a contrary intention appears, be construed as a reference to that enactment as it has effect in Jersey.
+**7.**[^c-5447e60175c50a5942ac76bb6e26ed82] For the purposes of construing the provisions of the 2002 and 2003 Acts, as extended by this Order as part of the law of Jersey, any reference to an enactment which extends to Jersey shall, except where a contrary intention appears, be construed as a reference to that enactment as it has effect in Jersey.
 
 ## Annotations
 
-[^key-5447e60175c50a5942ac76bb6e26ed82]: Commencement: Art. 7 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)
+[^c-5447e60175c50a5942ac76bb6e26ed82]: Commencement: Art. 7 in force at 29.12.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/2)

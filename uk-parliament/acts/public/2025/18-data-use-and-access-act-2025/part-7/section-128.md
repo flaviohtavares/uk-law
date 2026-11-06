@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Retention of biometric data from INTERPOL[^key-0f3851f71c942e010be7d3bfbe793687]
+## 128. Retention of biometric data from INTERPOL[^c-0f3851f71c942e010be7d3bfbe793687]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f3851f71c942e010be7d3bfbe793687]: Commencement: S. 128 in force at Royal Assent, see [s. 142(2)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/f)
+[^c-0f3851f71c942e010be7d3bfbe793687]: Commencement: S. 128 in force at Royal Assent, see [s. 142(2)(f)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/f)

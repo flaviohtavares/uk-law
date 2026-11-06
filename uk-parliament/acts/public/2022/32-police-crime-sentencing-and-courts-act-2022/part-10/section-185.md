@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Power to search terrorist offenders released on licence[^key-8b5225e3697555ee2201e3f5d54d0329]
+## 185. Power to search terrorist offenders released on licence[^c-8b5225e3697555ee2201e3f5d54d0329]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ After section 43B of the Terrorism Act 2000 insert—
 
 ## Annotations
 
-[^key-8b5225e3697555ee2201e3f5d54d0329]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2022/32/section/185) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-8b5225e3697555ee2201e3f5d54d0329]: Commencement: [S. 185](https://www.legislation.gov.uk/ukpga/2022/32/section/185) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

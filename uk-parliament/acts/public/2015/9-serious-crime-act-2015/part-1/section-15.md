@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Restitution order and victim surcharge[^key-3390e6235c82bda88d170c61d95d0ce1][^key-e5ceab8c46d5f2926d9c0aab8a73ae0a]
+## 15. Restitution order and victim surcharge[^c-3390e6235c82bda88d170c61d95d0ce1][^c-e5ceab8c46d5f2926d9c0aab8a73ae0a]
 
 *Extent: S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3390e6235c82bda88d170c61d95d0ce1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2015/9/section/15) in force at 25.11.2019 for specified purposes by [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2)
+[^c-3390e6235c82bda88d170c61d95d0ce1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2015/9/section/15) in force at 25.11.2019 for specified purposes by [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2)
 
-[^key-e5ceab8c46d5f2926d9c0aab8a73ae0a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2015/9/section/15) in force at 10.2.2021 in so far as not already in force by [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/a)
+[^c-e5ceab8c46d5f2926d9c0aab8a73ae0a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2015/9/section/15) in force at 10.2.2021 in so far as not already in force by [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/a)

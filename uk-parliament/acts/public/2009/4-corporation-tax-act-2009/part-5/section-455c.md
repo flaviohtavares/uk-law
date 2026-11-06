@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 455C. Interpretation of section 455B[^key-6112070d2587f31e5c1cfe50a14add0f]
+## 455C. Interpretation of section 455B[^c-6112070d2587f31e5c1cfe50a14add0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6112070d2587f31e5c1cfe50a14add0f]: Textual amendment: Ss. 455B-455D and cross-heading inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 51](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/51)
+[^c-6112070d2587f31e5c1cfe50a14add0f]: Textual amendment: Ss. 455B-455D and cross-heading inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 51](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/51)

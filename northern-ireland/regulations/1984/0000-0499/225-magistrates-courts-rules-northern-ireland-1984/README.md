@@ -193,7 +193,7 @@ The Lord Chancellor[^f00030], in exercise of the powers conferred on him by Arti
 
 - [Section 52N — Assistance with communication for a defendant who does not speak English or who has a hearing or speech impediment](part-iii/section-52n.md)
 
-#### L. THE CRIMINAL JUSTICE (EUROPEAN INVESTIGATION ORDER) REGULATIONS 2017[^key-375f37ce41dc06c87c19b378df52529d]
+#### L. THE CRIMINAL JUSTICE (EUROPEAN INVESTIGATION ORDER) REGULATIONS 2017[^c-375f37ce41dc06c87c19b378df52529d]
 
 - [Section 52O — Interpretation](part-iii/section-52o.md)
 - [Section 52P — Application for European investigation order](part-iii/section-52p.md)
@@ -1647,7 +1647,7 @@ Dated 26th June 1984
 
 [^f00141]: Footnote: Rule 52N inserted by [S.R. 2014 No. 221](https://www.legislation.gov.uk/nisr/2014/221) with effect from 05/09/14
 
-[^key-375f37ce41dc06c87c19b378df52529d]: Textual amendment: [Rules 52O-52Q](https://www.legislation.gov.uk/nisr/1984/225/rule/52O) inserted (22.2.2018) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/25)](https://www.legislation.gov.uk/nisr/2018/25), [rules 1](https://www.legislation.gov.uk/nisr/2018/25/rule/1), [3](https://www.legislation.gov.uk/nisr/2018/25/article/3)
+[^c-375f37ce41dc06c87c19b378df52529d]: Textual amendment: [Rules 52O-52Q](https://www.legislation.gov.uk/nisr/1984/225/rule/52O) inserted (22.2.2018) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/25)](https://www.legislation.gov.uk/nisr/2018/25), [rules 1](https://www.legislation.gov.uk/nisr/2018/25/rule/1), [3](https://www.legislation.gov.uk/nisr/2018/25/article/3)
 
 [^f00164]: Footnote: Rule inserted by [S.R. 2010 No. 12](https://www.legislation.gov.uk/nisr/2010/12) with effect from 01.03.10
 

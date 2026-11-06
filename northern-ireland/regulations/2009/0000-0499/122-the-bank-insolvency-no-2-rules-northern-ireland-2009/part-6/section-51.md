@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Chairman of meeting as proxy-holder[^key-d015072988a6a5fc431008a3b9a8208a]
+## 51. Chairman of meeting as proxy-holder[^c-d015072988a6a5fc431008a3b9a8208a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.071 of the 1991 Rules.
 
 ## Annotations
 
-[^key-d015072988a6a5fc431008a3b9a8208a]: Commencement: Rule 51 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d015072988a6a5fc431008a3b9a8208a]: Commencement: Rule 51 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -23,7 +23,7 @@ summary: ''
 (1) For the purposes of this Part, “**group accounts**” means consolidated accounts—
 
 - (a) relating to the group, and
-- (b) complying with such requirements as to their form and contents as may be prescribed by regulations made by the Secretary of State[^key-bb6c4daa337447de7eb5287bd5ca0bf1].
+- (b) complying with such requirements as to their form and contents as may be prescribed by regulations made by the Secretary of State[^c-bb6c4daa337447de7eb5287bd5ca0bf1].
 
 (2) Regulations under subsection (1) may in particular make provision—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb6c4daa337447de7eb5287bd5ca0bf1]: Textual amendment: Words in [s. 142(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/142/1/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(v)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/v) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-bb6c4daa337447de7eb5287bd5ca0bf1]: Textual amendment: Words in [s. 142(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/142/1/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(v)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/v) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

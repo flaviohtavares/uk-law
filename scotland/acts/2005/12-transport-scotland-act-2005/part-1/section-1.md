@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Establishment of regional Transport Partnerships[^key-5f09e3a348b468b58e9d649be95fa210]
+## 1. Establishment of regional Transport Partnerships[^c-5f09e3a348b468b58e9d649be95fa210]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f09e3a348b468b58e9d649be95fa210]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2005/12/section/1) in force at 14.9.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/454/schedule/1)
+[^c-5f09e3a348b468b58e9d649be95fa210]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2005/12/section/1) in force at 14.9.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/454/schedule/1)

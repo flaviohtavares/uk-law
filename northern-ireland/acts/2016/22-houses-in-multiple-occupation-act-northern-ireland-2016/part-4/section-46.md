@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Requirement as to overcrowding generally[^key-d536663ad7b922617de870fb59af8a50]
+## 46. Requirement as to overcrowding generally[^c-d536663ad7b922617de870fb59af8a50]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d536663ad7b922617de870fb59af8a50]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2016/22/section/46) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-d536663ad7b922617de870fb59af8a50]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2016/22/section/46) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

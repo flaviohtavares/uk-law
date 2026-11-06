@@ -36,7 +36,7 @@ Section 41.
 
 *Extent: E+W+S*
 
-**2.**[^key-9d2cda2dfc5457aee06584c79aa6d35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9d2cda2dfc5457aee06584c79aa6d35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -131,7 +131,7 @@ Section 41.
 
 *Extent: E+W+S*
 
-**4.**[^key-d68dabe449892d6a8c9ae4989961f1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d68dabe449892d6a8c9ae4989961f1cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -154,20 +154,20 @@ Section 41.
 
 **6.**[^c12486861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-55e6c2d767d22a5110ed2898912e6605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-55e6c2d767d22a5110ed2898912e6605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c12486811]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-9d2cda2dfc5457aee06584c79aa6d35b]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/1999/26/schedule/8/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-9d2cda2dfc5457aee06584c79aa6d35b]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/1999/26/schedule/8/paragraph/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c12486831]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
 [^c12486841]: Marginal citation: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42).
 
-[^key-d68dabe449892d6a8c9ae4989961f1cd]: Textual amendment: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1999/26/schedule/8/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-d68dabe449892d6a8c9ae4989961f1cd]: Textual amendment: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1999/26/schedule/8/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c12486861]: Textual amendment: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/1999/26/schedule/8/paragraph/6) repealed (2.4.2001) by [2000 c. 34](https://www.legislation.gov.uk/ukpga/2000/34), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2000/34/section/9/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/34/schedule/3) (with [s. 10(5)](https://www.legislation.gov.uk/ukpga/2000/34/section/10/5)); [S.I. 2001/566](https://www.legislation.gov.uk/uksi/2001/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/566/article/2/1)
 
-[^key-55e6c2d767d22a5110ed2898912e6605]: Textual amendment: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1999/26/schedule/8/paragraph/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-55e6c2d767d22a5110ed2898912e6605]: Textual amendment: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1999/26/schedule/8/paragraph/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

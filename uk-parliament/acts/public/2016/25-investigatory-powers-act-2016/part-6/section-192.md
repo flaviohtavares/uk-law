@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Safeguards relating to disclosure of material overseas[^key-6c82905228cc8e2a26e39273791a5375]
+## 192. Safeguards relating to disclosure of material overseas[^c-6c82905228cc8e2a26e39273791a5375]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c82905228cc8e2a26e39273791a5375]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2016/25/section/192) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(r)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/r)
+[^c-6c82905228cc8e2a26e39273791a5375]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2016/25/section/192) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(r)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/r)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-6533732cc87c9c2b9064ee0660b83b52]
+## 2. Interpretation[^c-6533732cc87c9c2b9064ee0660b83b52]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ summary: ''
 - “**access land**” has the same meaning as in Part 1 of the Countryside and Rights of Way Act 2000[^f00022];
 - “**access rights of way and streets plan**” means the plan or plans certified as the access rights of way and streets plan or plans by the Secretary of State for the purposes of this Order under article 49 (certification of plans and documents etc);
 - “**ancillary works**” means the ancillary works described in Part 2 of Schedule 1 (ancillary works) and any other works authorised by this Order and which are not development within the meaning of section 32 of the 2008 Act;
-- “**array area**” means that part of the offshore Order limits in which Work Nos. 1, 2 and 3 may be undertaken as described in Tables 2 and 3 of Part 1[^key-02623b7df845f887e1ce3f7a8ee64e5a] of Schedule 1 (authorised development);
+- “**array area**” means that part of the offshore Order limits in which Work Nos. 1, 2 and 3 may be undertaken as described in Tables 2 and 3 of Part 1[^c-02623b7df845f887e1ce3f7a8ee64e5a] of Schedule 1 (authorised development);
 - “**array periphery**” means the outermost edge of the infrastructure to be constructed as Work No. 1 as described in Part 1 of Schedule 1 and identified in the design plan to be approved pursuant to the deemed marine licences;
 - “**authorised development**” means the development and associated development described in Part 1 of Schedule 1 (authorised development) and any other development authorised by this Order which is development within the meaning of section 32 of the 2008 Act;
 - “**authorised project**” means the authorised development and the ancillary works authorised by this Order;
@@ -175,7 +175,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6533732cc87c9c2b9064ee0660b83b52]: Commencement: Art. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-6533732cc87c9c2b9064ee0660b83b52]: Commencement: Art. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
 [^f00009]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -205,7 +205,7 @@ summary: ''
 
 [^f00022]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-02623b7df845f887e1ce3f7a8ee64e5a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2025/468/article/2) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
+[^c-02623b7df845f887e1ce3f7a8ee64e5a]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2025/468/article/2) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
 
 [^f00023]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Contract providing for conveyance to third party[^key-353a6a9887d28c32eec2b0fded7f2f4a]
+## 11. Contract providing for conveyance to third party[^c-353a6a9887d28c32eec2b0fded7f2f4a]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) Repayment must be claimed by amendment of the land transaction return made in respect of the contract.
 
-(6A)[^key-5a2b8556527369762f8c29a09040d7d5] For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
+(6A)[^c-5a2b8556527369762f8c29a09040d7d5] For the period allowed for amendment of returns, see section 83 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).
 
 (7) Subject to subsection (8), sections 8 to 10 do not apply in relation to the contract.
 
@@ -52,6 +52,6 @@ sections 8 to 10 apply to that obligation as they apply to a contract for a land
 
 ## Annotations
 
-[^key-353a6a9887d28c32eec2b0fded7f2f4a]: Commencement: S. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-353a6a9887d28c32eec2b0fded7f2f4a]: Commencement: S. 11 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-5a2b8556527369762f8c29a09040d7d5]: Textual amendment: [S. 11(6A)](https://www.legislation.gov.uk/asp/2013/11/section/11/6A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/3) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-5a2b8556527369762f8c29a09040d7d5]: Textual amendment: [S. 11(6A)](https://www.legislation.gov.uk/asp/2013/11/section/11/6A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/3) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

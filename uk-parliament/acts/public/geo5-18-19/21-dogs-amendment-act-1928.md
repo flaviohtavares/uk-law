@@ -41,21 +41,21 @@ An Act to amend the Dogs Act, 1906
 
 ## 2. Delivery of stray dogs to police.[^c586040]
 
-Section four of the principal Act shall be repealed, and the following section shall be substituted therefor:— *(Extent: E+W)* *(affected by repeal, see note)*[^key-510cc567a4da3315e2b09aa16a465738]
+Section four of the principal Act shall be repealed, and the following section shall be substituted therefor:— *(Extent: E+W)* *(affected by repeal, see note)*[^c-510cc567a4da3315e2b09aa16a465738]
 
-> **4 (Extent: E+W) (affected by repeal, see note).[^key-510cc567a4da3315e2b09aa16a465738]**
+> **4 (Extent: E+W) (affected by repeal, see note).[^c-510cc567a4da3315e2b09aa16a465738]**
 >
-> (1 (Extent: E+W) (affected by repeal, see note))[^key-510cc567a4da3315e2b09aa16a465738] Any person (in this section referred to as “the finder”) who takes possession of a stray dog shall forthwith either— *(Extent: E+W)* *(affected by repeal, see note)*[^key-510cc567a4da3315e2b09aa16a465738]
+> (1 (Extent: E+W) (affected by repeal, see note))[^c-510cc567a4da3315e2b09aa16a465738] Any person (in this section referred to as “the finder”) who takes possession of a stray dog shall forthwith either— *(Extent: E+W)* *(affected by repeal, see note)*[^c-510cc567a4da3315e2b09aa16a465738]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-510cc567a4da3315e2b09aa16a465738] return the dog to its owner ; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-510cc567a4da3315e2b09aa16a465738]
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-510cc567a4da3315e2b09aa16a465738] take the dog to the police station which is nearest to the place where the dog was found and inform the police officer in charge of that station where the dog was found. *(Extent: E+W)* *(affected by repeal, see note)*[^key-510cc567a4da3315e2b09aa16a465738]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-510cc567a4da3315e2b09aa16a465738] return the dog to its owner ; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-510cc567a4da3315e2b09aa16a465738]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-510cc567a4da3315e2b09aa16a465738] take the dog to the police station which is nearest to the place where the dog was found and inform the police officer in charge of that station where the dog was found. *(Extent: E+W)* *(affected by repeal, see note)*[^c-510cc567a4da3315e2b09aa16a465738]
 >
-> (2 (Extent: E+W) (affected by repeal, see note))[^key-510cc567a4da3315e2b09aa16a465738] Where a dog has been so taken to a police station then— *(Extent: E+W)* *(affected by repeal, see note)*[^key-510cc567a4da3315e2b09aa16a465738]
+> (2 (Extent: E+W) (affected by repeal, see note))[^c-510cc567a4da3315e2b09aa16a465738] Where a dog has been so taken to a police station then— *(Extent: E+W)* *(affected by repeal, see note)*[^c-510cc567a4da3315e2b09aa16a465738]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-510cc567a4da3315e2b09aa16a465738] if the finder desires to keep the dog, he shall inform the said police officer of his name and address, and the said police officer shall make out in duplicate a certificate in such form as may be prescribed by the Secretary of State stating the description of the dog, the place where it was found, the date on which it was brought to the police station, the name and address of the finder, and shall give one copy of the certificate to the finder and retain the other, and thereupon the finder may remove the dog, but shall be under obligationto keep it for not less than one month; *(Extent: E+W)* *(affected by repeal, see note)*[^key-510cc567a4da3315e2b09aa16a465738]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-510cc567a4da3315e2b09aa16a465738] if the finder does not desire to keep the dog, the said police officer shall treat it as if it had been seized by him in the pursuance of section three of this Act. *(Extent: E+W)* *(affected by repeal, see note)*[^key-510cc567a4da3315e2b09aa16a465738]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-510cc567a4da3315e2b09aa16a465738] if the finder desires to keep the dog, he shall inform the said police officer of his name and address, and the said police officer shall make out in duplicate a certificate in such form as may be prescribed by the Secretary of State stating the description of the dog, the place where it was found, the date on which it was brought to the police station, the name and address of the finder, and shall give one copy of the certificate to the finder and retain the other, and thereupon the finder may remove the dog, but shall be under obligationto keep it for not less than one month; *(Extent: E+W)* *(affected by repeal, see note)*[^c-510cc567a4da3315e2b09aa16a465738]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-510cc567a4da3315e2b09aa16a465738] if the finder does not desire to keep the dog, the said police officer shall treat it as if it had been seized by him in the pursuance of section three of this Act. *(Extent: E+W)* *(affected by repeal, see note)*[^c-510cc567a4da3315e2b09aa16a465738]
 >
-> (3 (Extent: E+W) (affected by repeal, see note))[^key-510cc567a4da3315e2b09aa16a465738] If the finder fails to comply with any of the provisions of this section, he shall be liable on summary conviction to fine not exceeding forty shillings. *(Extent: E+W)* *(affected by repeal, see note)*[^key-510cc567a4da3315e2b09aa16a465738]
+> (3 (Extent: E+W) (affected by repeal, see note))[^c-510cc567a4da3315e2b09aa16a465738] If the finder fails to comply with any of the provisions of this section, he shall be liable on summary conviction to fine not exceeding forty shillings. *(Extent: E+W)* *(affected by repeal, see note)*[^c-510cc567a4da3315e2b09aa16a465738]
 
 ## 3. Amendment of s. 6 of principal Act.
 
@@ -79,4 +79,4 @@ Section six of the principal Act (which provides that an owner of cattle shall n
 
 [^c586040]: Modification: The text of S.2 is in the form in which it was originally enacted:it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-510cc567a4da3315e2b09aa16a465738]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo5/18-19/21/section/2) repealed (E.W.) (6.4.2008) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [s. 108(3)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/3), [Sch. 5 Pt. 6](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/6); [S.I. 2008/956](https://www.legislation.gov.uk/uksi/2008/956), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/956/article/2/b)
+[^c-510cc567a4da3315e2b09aa16a465738]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo5/18-19/21/section/2) repealed (E.W.) (6.4.2008) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [s. 108(3)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/3), [Sch. 5 Pt. 6](https://www.legislation.gov.uk/ukpga/2005/16/schedule/5/part/6); [S.I. 2008/956](https://www.legislation.gov.uk/uksi/2008/956), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/956/article/2/b)

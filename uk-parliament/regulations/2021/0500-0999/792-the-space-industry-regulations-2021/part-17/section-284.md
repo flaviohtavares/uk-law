@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284. Penalty for failure to inform regulator of changes[^key-c1ec7c4d55157f67024c56081dffed99]
+## 284. Penalty for failure to inform regulator of changes[^c-c1ec7c4d55157f67024c56081dffed99]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person who commits an offence under regulation 283 is liable—
 
 ## Annotations
 
-[^key-c1ec7c4d55157f67024c56081dffed99]: Commencement: Reg. 284 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-c1ec7c4d55157f67024c56081dffed99]: Commencement: Reg. 284 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

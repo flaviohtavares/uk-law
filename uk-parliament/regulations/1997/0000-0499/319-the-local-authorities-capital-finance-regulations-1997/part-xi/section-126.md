@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Amounts set aside—transferred property and deemed borrowing[^key-84ed043bb6f7c0ac6a8455296d8349e3]
+## 126. Amounts set aside—transferred property and deemed borrowing[^c-84ed043bb6f7c0ac6a8455296d8349e3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In determining their adjusted credit ceiling at any time, a local authority shal
 
 ## Annotations
 
-[^key-84ed043bb6f7c0ac6a8455296d8349e3]: Commencement: Reg. 126 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-84ed043bb6f7c0ac6a8455296d8349e3]: Commencement: Reg. 126 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

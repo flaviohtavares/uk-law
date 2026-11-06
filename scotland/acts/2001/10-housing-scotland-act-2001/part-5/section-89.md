@@ -44,11 +44,11 @@ with a view to accomplishing the purpose set out in subsection (5).
 
 (5) That purpose is the provision, in the period specified in the requirement, of housing and related services in a manner which—
 
-- (za)[^key-6b8d8a9078cc21cb91eae1329837694f] improves the standard of housing in the authority's area,
+- (za)[^c-6b8d8a9078cc21cb91eae1329837694f] improves the standard of housing in the authority's area,
 - (a) is economic, efficient and effective, and
 - (b) ensures, so far as reasonably practicable, that persons do not live in fuel poverty.
 
-(5A)[^key-f11ba56fd4368acc93bd6dac0ef72ace] The local housing strategy must, in particular, set out—
+(5A)[^c-f11ba56fd4368acc93bd6dac0ef72ace] The local housing strategy must, in particular, set out—
 
 - (a) a strategy for ensuring compliance with section 85(1) (duty to close, demolish or improve houses which do not meet the tolerable standard) of the Housing (Scotland) Act 1987 (c. 26),
 - (b) the authority's policy for identifying parts of its area for designation under section 1 (housing renewal areas) of the Housing (Scotland) Act 2006 (asp 1),
@@ -83,6 +83,6 @@ with a view to accomplishing the purpose set out in subsection (5).
 
 [^c286666]: Commencement: S. 89 wholly in force at 1.11.2001, see s. 113 and [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/397/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2001/397/schedule) (subject to transitional provisions in [arts. 3-6](https://www.legislation.gov.uk/ssi/2001/397/article/3))
 
-[^key-6b8d8a9078cc21cb91eae1329837694f]: Textual amendment: S. 89(5)(za) inserted (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 10(a)](https://www.legislation.gov.uk/asp/2006/1/section/10/a), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-6b8d8a9078cc21cb91eae1329837694f]: Textual amendment: S. 89(5)(za) inserted (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 10(a)](https://www.legislation.gov.uk/asp/2006/1/section/10/a), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-f11ba56fd4368acc93bd6dac0ef72ace]: Textual amendment: S. 89(5A) inserted (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 10(b)](https://www.legislation.gov.uk/asp/2006/1/section/10/b), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-f11ba56fd4368acc93bd6dac0ef72ace]: Textual amendment: S. 89(5A) inserted (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 10(b)](https://www.legislation.gov.uk/asp/2006/1/section/10/b), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

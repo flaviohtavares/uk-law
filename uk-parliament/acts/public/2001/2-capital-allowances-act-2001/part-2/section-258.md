@@ -31,9 +31,9 @@ summary: ''
 
 is to be given effect by deducting the allowance, or the part of the allowance, from the person’s income for the current tax year from that special leasing only.
 
-(3A)[^key-234130b042e2dd41cd15e44d5d405163] The allowance or (as the case may be) the proportionate part of the allowance is given effect at Step 2 of the calculation in section 23 of ITA 2007.
+(3A)[^c-234130b042e2dd41cd15e44d5d405163] The allowance or (as the case may be) the proportionate part of the allowance is given effect at Step 2 of the calculation in section 23 of ITA 2007.
 
-(4) Any charge is to be given effect by treating the charge as income to be assessed to income tax[^key-13938e382add122aed3e603039ce2a0d].
+(4) Any charge is to be given effect by treating the charge as income to be assessed to income tax[^c-13938e382add122aed3e603039ce2a0d].
 
 (5) If the amount to be deducted from a description of income specified in subsection (2) or (3) exceeds the person’s income of that description for the current tax year, the excess must be deducted from the person’s income of the same description for the next tax year, and so on for subsequent tax years.
 
@@ -43,6 +43,6 @@ is to be given effect by deducting the allowance, or the part of the allowance, 
 
 ## Annotations
 
-[^key-234130b042e2dd41cd15e44d5d405163]: Textual amendment: S. 258(3A) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 404](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/404) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-234130b042e2dd41cd15e44d5d405163]: Textual amendment: S. 258(3A) inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 404](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/404) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-13938e382add122aed3e603039ce2a0d]: Textual amendment: Words in s. 258(4) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 548](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/548) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
+[^c-13938e382add122aed3e603039ce2a0d]: Textual amendment: Words in s. 258(4) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 548](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/548) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )

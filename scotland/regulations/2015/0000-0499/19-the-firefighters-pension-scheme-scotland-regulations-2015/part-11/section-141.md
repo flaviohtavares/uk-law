@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Determinations by the scheme manager[^key-a7b285799b3caefb5d9ad412904cce95]
+## 141. Determinations by the scheme manager[^c-a7b285799b3caefb5d9ad412904cce95]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The scheme manager must determine whether a person is entitled to an award or to
 
 ## Annotations
 
-[^key-a7b285799b3caefb5d9ad412904cce95]: Commencement: [Reg. 141](https://www.legislation.gov.uk/ssi/2015/19/regulation/141) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-a7b285799b3caefb5d9ad412904cce95]: Commencement: [Reg. 141](https://www.legislation.gov.uk/ssi/2015/19/regulation/141) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

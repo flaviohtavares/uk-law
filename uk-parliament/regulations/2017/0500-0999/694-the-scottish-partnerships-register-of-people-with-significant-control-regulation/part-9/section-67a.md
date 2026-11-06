@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**67A.**[^key-c933505891e48ef2ca784b07feb4e617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67A.**[^c-c933505891e48ef2ca784b07feb4e617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c933505891e48ef2ca784b07feb4e617]: Textual amendment: [Reg. 67A](https://www.legislation.gov.uk/uksi/2017/694/regulation/67A) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(13)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/13)
+[^c-c933505891e48ef2ca784b07feb4e617]: Textual amendment: [Reg. 67A](https://www.legislation.gov.uk/uksi/2017/694/regulation/67A) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(13)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/13)

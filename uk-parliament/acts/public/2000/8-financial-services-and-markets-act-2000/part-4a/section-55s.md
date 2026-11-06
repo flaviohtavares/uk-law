@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55S. Duty of FCA or PRA to consider other permissions[^key-c7f8e2d8e83cd7ced40bcf550996c4ad]
+## 55S. Duty of FCA or PRA to consider other permissions[^c-c7f8e2d8e83cd7ced40bcf550996c4ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7f8e2d8e83cd7ced40bcf550996c4ad]: Textual amendment: [S. 55S](https://www.legislation.gov.uk/ukpga/2000/8/section/55S) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2019/632/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7f8e2d8e83cd7ced40bcf550996c4ad]: Textual amendment: [S. 55S](https://www.legislation.gov.uk/ukpga/2000/8/section/55S) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [22](https://www.legislation.gov.uk/uksi/2019/632/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

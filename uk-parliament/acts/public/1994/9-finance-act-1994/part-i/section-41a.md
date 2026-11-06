@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Northern Ireland long haul rates of duty: disclosure of information[^key-5289952fbb73b1d03c200f3765b71fbf]
+## 41A. Northern Ireland long haul rates of duty: disclosure of information[^c-5289952fbb73b1d03c200f3765b71fbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5289952fbb73b1d03c200f3765b71fbf]: Textual amendment: S. 41A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/13)
+[^c-5289952fbb73b1d03c200f3765b71fbf]: Textual amendment: S. 41A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/13)

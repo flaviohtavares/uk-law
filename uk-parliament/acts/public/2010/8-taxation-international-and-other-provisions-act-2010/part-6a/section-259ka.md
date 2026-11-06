@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259KA. Circumstances in which the Chapter applies[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259KA. Circumstances in which the Chapter applies[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 and in this Chapter “**the relevant mismatch**” means the mismatch, amount or deduction concerned.
 
-(7)[^key-bcf19b1adbcf4d895843c9ed480edef2] Condition E is that it is reasonable to suppose that the relevant mismatch is not capable of counteraction.
+(7)[^c-bcf19b1adbcf4d895843c9ed480edef2] Condition E is that it is reasonable to suppose that the relevant mismatch is not capable of counteraction.
 
 (7A) A relevant mismatch is capable of counteraction to the extent it is capable of being considered, for the purposes of determining the tax treatment of a person, other than P, under the law of a territory that is OECD mismatch compliant.
 
@@ -57,11 +57,11 @@ and in this Chapter “**the relevant mismatch**” means the mismatch, amount o
 
 (7D) A territory is OECD mismatch compliant if under the law of that territory effect is given to the Final Report on Neutralising the Effects of Hybrid Mismatch Arrangements published by the Organisation for Economic Cooperation and Development on 5 October 2015 or any replacement or supplementary publication (within the meaning of section 259BA(3)).
 
-(8)[^key-751bed07baf142fc15ec1912e4e97cd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-751bed07baf142fc15ec1912e4e97cd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Condition G is that—
 
-- (a) subsection (6)(a) applies and P is in the same control group (see section 259NB) as a payee[^key-c9fc7435c5813f6b80a162a41d67215e], in relation to the mismatch payment, at any time in the period—
+- (a) subsection (6)(a) applies and P is in the same control group (see section 259NB) as a payee[^c-c9fc7435c5813f6b80a162a41d67215e], in relation to the mismatch payment, at any time in the period—
   - (i) beginning with the day the over-arching arrangement is made, and
   - (ii) ending with the last day of the payment period in relation to the imported mismatch payment,
 - (b) subsection (6)(b) applies and P is in the same control group as the company in relation to whom the excessive PE deduction arises at any time in that period, or
@@ -78,10 +78,10 @@ and in this Chapter “**the relevant mismatch**” means the mismatch, amount o
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-bcf19b1adbcf4d895843c9ed480edef2]: Textual amendment: [S. 259KA(7)-(7D)](https://www.legislation.gov.uk/ukpga/2010/8/section/259KA/7) substituted for [s. 259KA(7)](https://www.legislation.gov.uk/ukpga/2010/8/section/259KA/7) (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 21(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/21/2)
+[^c-bcf19b1adbcf4d895843c9ed480edef2]: Textual amendment: [S. 259KA(7)-(7D)](https://www.legislation.gov.uk/ukpga/2010/8/section/259KA/7) substituted for [s. 259KA(7)](https://www.legislation.gov.uk/ukpga/2010/8/section/259KA/7) (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 21(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/21/2)
 
-[^key-751bed07baf142fc15ec1912e4e97cd6]: Textual amendment: [S. 259KA(8)](https://www.legislation.gov.uk/ukpga/2010/8/section/259KA/8) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 21(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/21/3)
+[^c-751bed07baf142fc15ec1912e4e97cd6]: Textual amendment: [S. 259KA(8)](https://www.legislation.gov.uk/ukpga/2010/8/section/259KA/8) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 21(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/21/3)
 
-[^key-c9fc7435c5813f6b80a162a41d67215e]: Textual amendment: Words in [s. 259KA(9)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/259KA/9/a) substituted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 21(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/21/4)
+[^c-c9fc7435c5813f6b80a162a41d67215e]: Textual amendment: Words in [s. 259KA(9)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/259KA/9/a) substituted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 21(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/21/4)

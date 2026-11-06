@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Defence to proceedings in respect of statutory nuisance[^key-e3447b7720c6d3465c0786c89a65f56e]
+## 35. Defence to proceedings in respect of statutory nuisance[^c-e3447b7720c6d3465c0786c89a65f56e]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e3447b7720c6d3465c0786c89a65f56e]: Commencement: Art. 35 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-e3447b7720c6d3465c0786c89a65f56e]: Commencement: Art. 35 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
 [^c23642961]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments not relevant to this Order.
 

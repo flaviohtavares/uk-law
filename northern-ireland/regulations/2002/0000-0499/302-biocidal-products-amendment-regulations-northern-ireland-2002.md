@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Biocidal Products (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-0d2a74e318a5871f086a826f646c217f]
+Biocidal Products (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-0d2a74e318a5871f086a826f646c217f]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 14th November 2002
 
-[^key-0d2a74e318a5871f086a826f646c217f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d2a74e318a5871f086a826f646c217f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0d2a74e318a5871f086a826f646c217f]
+## 1. Citation and commencement[^c-0d2a74e318a5871f086a826f646c217f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Biocidal Products Regulations (Northern Ireland) 2001[^key-0d2a74e318a5871f086a826f646c217f]
+## 2. Amendment of the Biocidal Products Regulations (Northern Ireland) 2001[^c-0d2a74e318a5871f086a826f646c217f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d2a74e318a5871f086a826f646c217f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d2a74e318a5871f086a826f646c217f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d2a74e318a5871f086a826f646c217f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d2a74e318a5871f086a826f646c217f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d2a74e318a5871f086a826f646c217f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/302) revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [reg. 2(b)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))
+[^c-0d2a74e318a5871f086a826f646c217f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/302) revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013 (S.R. 2013/206)](https://www.legislation.gov.uk/nisr/2013/206), [reg. 2(b)](https://www.legislation.gov.uk/nisr/2013/206/regulation/2/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/206/regulation/3), [19](https://www.legislation.gov.uk/nisr/2013/206/regulation/19))

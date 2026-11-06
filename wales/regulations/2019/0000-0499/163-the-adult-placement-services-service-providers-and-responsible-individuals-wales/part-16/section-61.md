@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Support for staff raising concerns[^key-7db217a7d7fe9ae0b7080344317d6a17]
+## 61. Support for staff raising concerns[^c-7db217a7d7fe9ae0b7080344317d6a17]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The responsible individual must ensure that the service provider's whistleblowin
 
 ## Annotations
 
-[^key-7db217a7d7fe9ae0b7080344317d6a17]: Commencement: [Reg. 61](https://www.legislation.gov.uk/wsi/2019/163/regulation/61) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-7db217a7d7fe9ae0b7080344317d6a17]: Commencement: [Reg. 61](https://www.legislation.gov.uk/wsi/2019/163/regulation/61) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

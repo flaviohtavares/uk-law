@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Devauden, Shirenewton, St Arvans and Tintern— change in community boundaries and consequential changes to electoral arrangements[^key-edd5696fa17a3b656fa0b05d4fdf076f][^key-4cd212b704a4ba12a28ada7841f14eea]
+## 92. Devauden, Shirenewton, St Arvans and Tintern— change in community boundaries and consequential changes to electoral arrangements[^c-edd5696fa17a3b656fa0b05d4fdf076f][^c-4cd212b704a4ba12a28ada7841f14eea]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of Tintern shown hatched on Map 70—
 
 ## Annotations
 
-[^key-edd5696fa17a3b656fa0b05d4fdf076f]: Commencement: Art. 92 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-edd5696fa17a3b656fa0b05d4fdf076f]: Commencement: Art. 92 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-4cd212b704a4ba12a28ada7841f14eea]: Commencement: [Art. 92](https://www.legislation.gov.uk/wsi/2021/1227/article/92) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-4cd212b704a4ba12a28ada7841f14eea]: Commencement: [Art. 92](https://www.legislation.gov.uk/wsi/2021/1227/article/92) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

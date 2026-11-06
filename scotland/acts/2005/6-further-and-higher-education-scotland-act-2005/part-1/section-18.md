@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Functions regarding certain property[^key-2721ab9e30b8c36dd0dbdc47a5c27757]
+## 18. Functions regarding certain property[^c-2721ab9e30b8c36dd0dbdc47a5c27757]
 
 *Extent: S*
 
@@ -24,13 +24,13 @@ summary: ''
 
 (2) Subsection (1) applies to any land or other property—
 
-- (a) which is or was used or held for the purposes of a fundable body or of any of a regional strategic body's colleges[^key-67675477494472e4cb8291478a9d9ce6]; and
+- (a) which is or was used or held for the purposes of a fundable body or of any of a regional strategic body's colleges[^c-67675477494472e4cb8291478a9d9ce6]; and
 - (b) in respect of which the Scottish Ministers—
   - (i) are entitled to any right or interest; or
   - (ii) would be so entitled on the occurrence of any event.
 
 ## Annotations
 
-[^key-2721ab9e30b8c36dd0dbdc47a5c27757]: Commencement: S. 18 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-2721ab9e30b8c36dd0dbdc47a5c27757]: Commencement: S. 18 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-67675477494472e4cb8291478a9d9ce6]: Textual amendment: Words in s. 18(2)(a) inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(13)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/13); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-67675477494472e4cb8291478a9d9ce6]: Textual amendment: Words in s. 18(2)(a) inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(13)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/13); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)

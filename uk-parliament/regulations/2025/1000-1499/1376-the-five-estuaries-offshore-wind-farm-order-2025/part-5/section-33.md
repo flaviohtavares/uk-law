@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Recovery of costs of new connections[^key-2a86051d5e86af27523d44ea8a091bf6]
+## 33. Recovery of costs of new connections[^c-2a86051d5e86af27523d44ea8a091bf6]
 
 *Extent: E+W*
 
@@ -34,12 +34,12 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 (4) In this paragraph—
 
 - “**public communications provider**” has the same meaning as in section 151(1) of the 2003 Act[^f00047]; and
-- “**public utility undertaker**” means a gas, water, electricity or[^key-9e8bc1be68f9f7a0435bb671c160600b] sewerage undertaker.
+- “**public utility undertaker**” means a gas, water, electricity or[^c-9e8bc1be68f9f7a0435bb671c160600b] sewerage undertaker.
 
 ## Annotations
 
-[^key-2a86051d5e86af27523d44ea8a091bf6]: Commencement: Art. 33 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-2a86051d5e86af27523d44ea8a091bf6]: Commencement: Art. 33 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00047]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-9e8bc1be68f9f7a0435bb671c160600b]: Textual amendment: Word in art. 33(4) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-9e8bc1be68f9f7a0435bb671c160600b]: Textual amendment: Word in art. 33(4) substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)

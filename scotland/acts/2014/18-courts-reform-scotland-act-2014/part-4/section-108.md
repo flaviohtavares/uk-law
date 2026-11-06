@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Sanction for counsel in the sheriff court and Sheriff Appeal Court[^key-f668ef4c46ea84309c42cf1c71c89c22]
+## 108. Sanction for counsel in the sheriff court and Sheriff Appeal Court[^c-f668ef4c46ea84309c42cf1c71c89c22]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f668ef4c46ea84309c42cf1c71c89c22]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2014/18/section/108) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-f668ef4c46ea84309c42cf1c71c89c22]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2014/18/section/108) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

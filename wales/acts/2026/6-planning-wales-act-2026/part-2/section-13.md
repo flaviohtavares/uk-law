@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Preparation of Framework: statement of public participation[^key-b06d861b002fe3e0841b56f193ae5c3d]
+## 13. Preparation of Framework: statement of public participation[^c-b06d861b002fe3e0841b56f193ae5c3d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b06d861b002fe3e0841b56f193ae5c3d]: Commencement: S. 13 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b06d861b002fe3e0841b56f193ae5c3d]: Commencement: S. 13 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

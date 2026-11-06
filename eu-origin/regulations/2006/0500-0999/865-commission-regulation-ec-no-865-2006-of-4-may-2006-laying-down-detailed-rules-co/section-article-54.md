@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Without prejudice to Article 55, a specimen of an animal species shall be considered to be born and bred in captivity only if the[^key-fa9c16ba74d69a801883ecfefbbb25a7] management authority, in consultation with the competent scientific authority of the United Kingdom[^key-bdd5541e0fa7ddb2b785a39e0892f31c], is satisfied that the following criteria are met:
+Without prejudice to Article 55, a specimen of an animal species shall be considered to be born and bred in captivity only if the[^c-fa9c16ba74d69a801883ecfefbbb25a7] management authority, in consultation with the competent scientific authority of the United Kingdom[^c-bdd5541e0fa7ddb2b785a39e0892f31c], is satisfied that the following criteria are met:
 
 - ((1)) the specimen is, or is derived from, the offspring born or otherwise produced in a controlled environment of either of the following:
   - ((a)) parents that mated or had gametes otherwise transferred in a controlled environment, if reproduction is sexual;
@@ -34,6 +34,6 @@ Without prejudice to Article 55, a specimen of an animal species shall be consid
 
 ## Annotations
 
-[^key-fa9c16ba74d69a801883ecfefbbb25a7]: Textual amendment: Word in [Art. 54](https://www.legislation.gov.uk/eur/2006/865/article/54) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(55)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/55/a)
+[^c-fa9c16ba74d69a801883ecfefbbb25a7]: Textual amendment: Word in [Art. 54](https://www.legislation.gov.uk/eur/2006/865/article/54) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(55)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/55/a)
 
-[^key-bdd5541e0fa7ddb2b785a39e0892f31c]: Textual amendment: Words in [Art. 54](https://www.legislation.gov.uk/eur/2006/865/article/54) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(55)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/55/b)
+[^c-bdd5541e0fa7ddb2b785a39e0892f31c]: Textual amendment: Words in [Art. 54](https://www.legislation.gov.uk/eur/2006/865/article/54) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(55)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/55/b)

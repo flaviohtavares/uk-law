@@ -48,11 +48,11 @@ The Secretary of State, in exercise of the powers conferred by sections 1(1) and
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and Commencement[^key-a98b9b6b5474f9505a3c4f74faa252cd]
+### 1. Citation and Commencement[^c-a98b9b6b5474f9505a3c4f74faa252cd]
 
 This Order may be cited as the Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) Order 2012 and comes into force on 2nd September 2012.
 
-### 2. Interpretation[^key-86c87c2a4dc8c136f4a96606431c8d6a]
+### 2. Interpretation[^c-86c87c2a4dc8c136f4a96606431c8d6a]
 
 In this Order—
 
@@ -60,12 +60,12 @@ In this Order—
 - “academic year” means the period of twelve months beginning on 1st January, 1st April, 1st July or 1st September of the calendar year in which the academic year of the course in question begins according to whether that academic year begins on or after 1st January and before 1st April, on or after 1st April and before 1st July, on or after 1st July and before 1st August, or on or after 1 August and on or before 31 December, respectively;
 - “additional adoption leave” means leave which, in the opinion of the Defence Council, corresponds to additional adoption leave prescribed in regulations made under section 75B(2) and (3) of the Employment Rights Act 1996[^f00002];
 - “additional maternity leave” means leave which, in the opinion of the Defence Council, corresponds to additional maternity leave prescribed in regulations made under section 73(2) and (3) of the Employment Rights Act 1996[^f00003];
-- “aggregated lower tier payment” is a payment in accordance with article 9B(1);[^key-4ce8b8964b0e13fa1b1521d908cacae1]
-- [^key-2990cb63849ce5311dae7f061e9c0f87]...
+- “aggregated lower tier payment” is a payment in accordance with article 9B(1);[^c-4ce8b8964b0e13fa1b1521d908cacae1]
+- [^c-2990cb63849ce5311dae7f061e9c0f87]...
 - “applicant” means a person who has applied for a payment under the ELC Scheme or the FHEC Scheme;
 - “approved learning provider” means an establishment on the Scheme administrator’s list of approved providers;
-- [^key-164be03b55c545384722aa7e57c7be57]...
-- [^key-164be03b55c545384722aa7e57c7be57]...
+- [^c-164be03b55c545384722aa7e57c7be57]...
+- [^c-164be03b55c545384722aa7e57c7be57]...
 - “disablement pension” means retired pay or pension awarded under article 6 of the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006[^f00003];
 - “discharged on attributable medical grounds” means that a person has been discharged from service on the grounds that they are medically unfit to continue in service due to an injury or illness caused wholly or predominantly by service or predominantly worsened by service and the phrase “attributable medical discharge” is to be construed accordingly;
 - “ELC Scheme” means the Enhanced Learning Credit Scheme established by article 4(1);
@@ -73,13 +73,13 @@ In this Order—
 - “guaranteed income payment” means a guaranteed income payment paid under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011; and
 - “higher level learning” means full or part time study towards the achievement of a higher level learning qualification;
 - “higher level learning qualification” means a qualification at Level 3 or above on the Qualifications and Credit Framework[^f00009] or other equivalent qualification (including an equivalent vocational qualification);
-- “higher tier payment” is a payment in accordance with article 9C(1)[^key-09e56eeb670ff1ba6ea9a523cf774e89];
+- “higher tier payment” is a payment in accordance with article 9C(1)[^c-09e56eeb670ff1ba6ea9a523cf774e89];
 - “individual resettlement training costs grant” means a grant paid towards the cost of training to enhance skills and qualifications in preparation for new employment;
 - “in-service payment” is a payment made under the enhanced learning credit scheme established by the Secretary of State and set out in Defence Direction and Guidance on Training, Education and Skills[^f00005] during qualifying service and on or after 1st April 2016;
-- “lower tier payment” is a payment in accordance with article 9A(1)[^key-ee77e7f02695c4e8fc1cfb3f1c999a29];
+- “lower tier payment” is a payment in accordance with article 9A(1)[^c-ee77e7f02695c4e8fc1cfb3f1c999a29];
 - “ordinary adoption leave” means leave which, in the opinion of the Defence Council, corresponds to ordinary adoption leave prescribed in regulations made under section 75A(2) and (2A) of the Employment Rights Act 1996[^f00010];
 - “ordinary maternity leave” means leave which, in the opinion of the Defence Council, corresponds to ordinary maternity leave prescribed in regulations made under section 71(2) and (3) of the Employment Rights Act 1996[^f00011];
-- “[^key-e3f46f564da383636ec9740bf72a20d9]... paternity leave” means leave which, in the opinion of the Defence Council, corresponds to paternity leave within the meaning of regulation 4 or 8 of the Paternity and Adoption Leave Regulations 2002[^f00012];
+- “[^c-e3f46f564da383636ec9740bf72a20d9]... paternity leave” means leave which, in the opinion of the Defence Council, corresponds to paternity leave within the meaning of regulation 4 or 8 of the Paternity and Adoption Leave Regulations 2002[^f00012];
 - “Phase 1 training” means all initial training to recruits into the armed forces to provide basic military skills;
 - “Phase 2 training” means—
   - (a) initial individual specialisation training, and
@@ -93,19 +93,19 @@ In this Order—
   - (c) a first undergraduate degree (including a foundation degree);
   - (d) a first Higher National Certificate or first Higher National Diploma for which the entry qualification is lower than a degree; or
   - (e) such qualifications in Scotland which are the equivalent of qualifications falling within paragraphs (a) to (d).
-- “qualifying service” means service in the armed forces and includes time spent on ordinary maternity leave, additional maternity leave, paternity leave[^key-86d41bcf4576683882edb6867c4fd1aa], shared parental leave[^key-2f7f4ca8f94d4e0de3898f44f0e7ca8f] additional paternity leave, ordinary adoption leave or additional adoption leave, but does not include time spent on any unpaid career break;
+- “qualifying service” means service in the armed forces and includes time spent on ordinary maternity leave, additional maternity leave, paternity leave[^c-86d41bcf4576683882edb6867c4fd1aa], shared parental leave[^c-2f7f4ca8f94d4e0de3898f44f0e7ca8f] additional paternity leave, ordinary adoption leave or additional adoption leave, but does not include time spent on any unpaid career break;
 - “senior responsible officer” means the person within each single service with overall responsibility for the ELC Scheme;
 - “service leaver” means a person who has ceased to be a member of the armed forces;
 - “six month window” means the six month period which commences on the eighth anniversary of enlistment or commission;
 - “the Scheme administrator” means the person appointed by the Secretary of State under section 1(3) of the 2004 Act to administer the ELC Scheme and the FHEC Scheme;
-- “shared parental leave” means leave under section 75E or 75G of the Employment Rights Act 1996[^key-b2fe8d87929254596839009fcce413d1] , or Articles 107E or 107G of the Employment Rights (Northern Ireland) Order 1996;[^key-35070cdd6d498023f12f81879d4467bd]
+- “shared parental leave” means leave under section 75E or 75G of the Employment Rights Act 1996[^c-b2fe8d87929254596839009fcce413d1] , or Articles 107E or 107G of the Employment Rights (Northern Ireland) Order 1996;[^c-35070cdd6d498023f12f81879d4467bd]
 - “tuition fees” means the costs charged by the approved learning provider which may include registration, examination and accreditation fees.
 
-### 3. Definition of “eligible adult dependant”[^key-f54cc30f17aad28532ec9c3938571b13]
+### 3. Definition of “eligible adult dependant”[^c-f54cc30f17aad28532ec9c3938571b13]
 
 (1) A person is an eligible adult dependant if they are the spouse, civil partner or eligible partner of a member of the armed forces, or, where a member of the armed forces has died, they are the surviving spouse, surviving civil partner or surviving eligible partner of the deceased and in this paragraph “eligible partner” and “surviving eligible partner” have the meaning set out in paragraphs (2) and (3).
 
-(2)[^key-2b5e20674bd74f6bbb065c445cb57f11] A person is an eligible partner of a member of the armed forces if the Secretary of State is satisfied that—
+(2)[^c-2b5e20674bd74f6bbb065c445cb57f11] A person is an eligible partner of a member of the armed forces if the Secretary of State is satisfied that—
 
 - (a) the person and the member are cohabiting as partners in an exclusive and substantial relationship;
 - (b) the person and the member are not prevented from marrying or entering into a civil partnership; and
@@ -119,7 +119,7 @@ In this Order—
 
 ## PART 2 — ESTABLISHMENT OF THE ELC AND FHEC SCHEMES
 
-**4.**[^key-250b5746f13fd509015aadee5798cd61] (1) The Scheme set out in Part 3 of this Order has effect and is to be known as “the ELC Scheme”.
+**4.**[^c-250b5746f13fd509015aadee5798cd61] (1) The Scheme set out in Part 3 of this Order has effect and is to be known as “the ELC Scheme”.
 
 (2) The Scheme set out in Part 4 of this Order has effect and is to be known as “the FHEC Scheme”.
 
@@ -127,7 +127,7 @@ In this Order—
 
 ## PART 3 — THE ENHANCED LEARNING CREDIT SCHEME
 
-### 5A. Membership of the ELC Scheme[^key-93e10ae0297ca36631284d4fb9ba0581]
+### 5A. Membership of the ELC Scheme[^c-93e10ae0297ca36631284d4fb9ba0581]
 
 (1) A person is a member of the ELC Scheme if the person was registered as a member before 1st April 2016.
 
@@ -136,15 +136,15 @@ In this Order—
 - (a) is in service in the armed forces at any time on or after 1st April 2016; and
 - (b) completes or has completed Phase 1 training.
 
-### 5. Registration as a member of the ELC Scheme[^key-a33cbc88e4f30019a77e0598e9da02eb]
+### 5. Registration as a member of the ELC Scheme[^c-a33cbc88e4f30019a77e0598e9da02eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Eligibility conditions for payments under the ELC Scheme[^key-c726517156df9c52e98484219062b0a4]
+### 6. Eligibility conditions for payments under the ELC Scheme[^c-c726517156df9c52e98484219062b0a4]
 
 (1) A service leaver is eligible for payments under the ELC Scheme for higher level learning if conditions A to D of this article are met.
 
-(2)[^key-80606caa0f856d451200e18a466936a3] Condition A is that the service leaver’s course of higher level learning commences before the entitlement time limit.
+(2)[^c-80606caa0f856d451200e18a466936a3] Condition A is that the service leaver’s course of higher level learning commences before the entitlement time limit.
 
 (3) Condition B is that the service leaver is a member of the ELC Scheme.
 
@@ -152,14 +152,14 @@ In this Order—
 
 (5) Condition D is that the service leaver is not applying for, or in receipt of, any other payment from public funds towards the cost of tuition fees for higher level learning unless such payment is either an individual resettlement training costs grant or is made under the FHEC Scheme.
 
-(5A)[^key-84e9c52d0f63150eb79e1f814ab05dd9] In this article “the entitlement time limit” means—
+(5A)[^c-84e9c52d0f63150eb79e1f814ab05dd9] In this article “the entitlement time limit” means—
 
-- (a) for a service leaver who ceased to be a member of the armed forces before 1st April 2016[^key-eedf506ba40c0c42994e2fab547268c6], the tenth anniversary of their ceasing to be a member of the armed forces;
-- (b)[^key-c98c415bef2f2767010a377577b944b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) for a service leaver who ceased to be a member of the armed forces before 1st April 2016[^c-eedf506ba40c0c42994e2fab547268c6], the tenth anniversary of their ceasing to be a member of the armed forces;
+- (b)[^c-c98c415bef2f2767010a377577b944b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) subject to sub-paragraph (d), for a service leaver who ceases to be a member of the armed forces on or after 1st April 2016, the fifth anniversary of their ceasing to be a member of the armed forces; and
 - (d) for a service leaver discharged on attributable medical grounds on or after 1st<sup></sup>April 2011 who receives a disablement pension or a guaranteed income payment, the tenth anniversary of their ceasing to be a member of the armed forces.
 
-(6)[^key-09c4ee5055b74f186be5263a32804f7b] In this article “eligible service” means—
+(6)[^c-09c4ee5055b74f186be5263a32804f7b] In this article “eligible service” means—
 
 - (a) in relation to a lower tier payment—
   - (i) for a service leaver who has completed before 1st April 2016, or who completes before 1st April 2017, 4 years qualifying service, at least 4 years but less than 8 years qualifying service;
@@ -185,12 +185,12 @@ In this Order—
 
 eligible service commences from whichever is the later of 1st April 2000 and the date of enlistment or commission.
 
-(10)[^key-114c34017586542ca59bdbdd67b77ca0] Where before 1st April 2016 a service leaver had registered as a member of the ELC Scheme having satisfied the senior responsible officer that the member might register outside the time limits in force at the time—
+(10)[^c-114c34017586542ca59bdbdd67b77ca0] Where before 1st April 2016 a service leaver had registered as a member of the ELC Scheme having satisfied the senior responsible officer that the member might register outside the time limits in force at the time—
 
 - (a) if the service leaver’s service in the armed forces commenced before 1st April 2003, eligible service commences from whichever is the later of 1st April 2000 and the date of his or her enlistment or commission into the armed forces;
 - (b) if the service leaver’s service in the armed forces commenced on or after 1st April 2003, eligible service commences from the date of enlistment or commission into the armed forces.
 
-### 7. Eligibility conditions in certain cases of attributable medical discharge[^key-cb210a5ee636391fb6db6c8358df45b7]
+### 7. Eligibility conditions in certain cases of attributable medical discharge[^c-cb210a5ee636391fb6db6c8358df45b7]
 
 (1) A service leaver who has not met conditions A to D of article 6 is eligible for payments under the ELC Scheme if conditions A to E of this article are met.
 
@@ -198,7 +198,7 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 
 (3) Condition A is that the service leaver is discharged on attributable medical grounds on or after 1st November 2010.
 
-(4)[^key-65172e8c576e66c1905c3e47ecefe812] Condition B is that the service leaver’s course of higher level learning commences before the entitlement time limit.
+(4)[^c-65172e8c576e66c1905c3e47ecefe812] Condition B is that the service leaver’s course of higher level learning commences before the entitlement time limit.
 
 (5) Condition C is that the service leaver is a member of the ELC Scheme.
 
@@ -206,14 +206,14 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 
 (7) Condition E is that the service leaver is not applying for, or in receipt of, any other payment from public funds towards the costs of tuition fees for higher level learning unless such payment is either an individual resettlement training costs grant or is made under the FHEC Scheme.
 
-(8)[^key-b076f2d49455b82c64a5e4769a170aa4] In this article “the entitlement time limit” means—
+(8)[^c-b076f2d49455b82c64a5e4769a170aa4] In this article “the entitlement time limit” means—
 
-- (a) for a service leaver who ceased to be a member of the armed forces before 1st April 2016[^key-7cb4a04bf364b730183c97ae41b5d5f0], the tenth anniversary of their ceasing to be a member of the armed forces;
-- (b)[^key-b5c209e7eb14ad403520d129f43cff6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) for a service leaver who ceased to be a member of the armed forces before 1st April 2016[^c-7cb4a04bf364b730183c97ae41b5d5f0], the tenth anniversary of their ceasing to be a member of the armed forces;
+- (b)[^c-b5c209e7eb14ad403520d129f43cff6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) subject to sub-paragraph (d), for a service leaver who ceases to be a member of the armed forces on or after 1st April 2016, the fifth anniversary of their ceasing to be a member of the armed forces; and
 - (d) for a service leaver discharged on attributable medical grounds on or after 1st<sup></sup>April 2011 who receives a disablement pension or a guaranteed income payment, the tenth anniversary of their ceasing to be a member of the armed forces.
 
-### 8. Entitlement of eligible adult dependants in certain cases of death or attributable medical discharge[^key-917f72ec6dbb8d6a7d5bfbc2c4a56ae0]
+### 8. Entitlement of eligible adult dependants in certain cases of death or attributable medical discharge[^c-917f72ec6dbb8d6a7d5bfbc2c4a56ae0]
 
 (1) Where a member of the armed forces (A) dies and such death is caused either wholly or predominantly by service, an eligible adult dependant of A is eligible for payments under the ELC Scheme if —
 
@@ -223,7 +223,7 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 (2) The conditions are that—
 
 - (a) A died on or after 1st April 2004, and
-- (b) on the date of A’s death, A was a member of the ELC Scheme and had completed the eligible service specified in article 6(6)(a), 6(6)(b) or 6(6)(c)[^key-81d7823753a9a53af4f1a0325aeca5cf].
+- (b) on the date of A’s death, A was a member of the ELC Scheme and had completed the eligible service specified in article 6(6)(a), 6(6)(b) or 6(6)(c)[^c-81d7823753a9a53af4f1a0325aeca5cf].
 
 (3) The conditions are that—
 
@@ -232,13 +232,13 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 
 (4) In any case where the conditions in paragraph (2) are met the payment made under the ELC Scheme must be—
 
-- (a) a lower tier payment if on the date of A’s death, A had completed the eligible service specified in article 6(6)(a), [^key-a49d19822af9742c5144de01b6419398]...
-- (ab)[^key-2c73e29d189fe6c6c3284f7131bbe7cf] an aggregated lower tier payment if, on the date of A’s death, A had completed the eligible service specified in article 6(6)(b), or
-- (b) a higher tier payment if on the date of A’s death, A had completed the eligible service specified in article 6(6)(c)[^key-9c63da5446b9619469a2b9505604dcb9].
+- (a) a lower tier payment if on the date of A’s death, A had completed the eligible service specified in article 6(6)(a), [^c-a49d19822af9742c5144de01b6419398]...
+- (ab)[^c-2c73e29d189fe6c6c3284f7131bbe7cf] an aggregated lower tier payment if, on the date of A’s death, A had completed the eligible service specified in article 6(6)(b), or
+- (b) a higher tier payment if on the date of A’s death, A had completed the eligible service specified in article 6(6)(c)[^c-9c63da5446b9619469a2b9505604dcb9].
 
 (5) In any case where the conditions in paragraph (2) are not met but the conditions in paragraph (3) are met the payment made under the ELC Scheme must be a lower tier payment.
 
-(5A)[^key-fee0194ec965683526868358e0af31e4] In this article the period of eligible service is to be calculated in accordance with article 6(8) to (10).
+(5A)[^c-fee0194ec965683526868358e0af31e4] In this article the period of eligible service is to be calculated in accordance with article 6(8) to (10).
 
 (6) Where a member of the armed forces (B) is discharged on attributable medical grounds, and due to the illness or injury which caused that attributable medical discharge, B is unable to undertake higher level learning, an eligible adult dependant of B is eligible for payments under the ELC Scheme if—
 
@@ -247,27 +247,27 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 
 (7) The conditions are that—
 
-- (a) B’s attributable medical discharge occurred on or after 1st April 2004 and (if the discharge occurred on or after 1st[^key-3ba7675700196a68a903edb5c04bb1fa]<sup></sup>April 2017) B receives a disablement pension or a guaranteed income payment, and
-- (b) on the date of B’s attributable medical discharge, B was a member of the ELC Scheme and had completed the eligible service specified in article 6(6)(a), 6(6)(b) or 6(6)(c)[^key-37d86a064bf3073ab81c6f194f37af32].
+- (a) B’s attributable medical discharge occurred on or after 1st April 2004 and (if the discharge occurred on or after 1st[^c-3ba7675700196a68a903edb5c04bb1fa]<sup></sup>April 2017) B receives a disablement pension or a guaranteed income payment, and
+- (b) on the date of B’s attributable medical discharge, B was a member of the ELC Scheme and had completed the eligible service specified in article 6(6)(a), 6(6)(b) or 6(6)(c)[^c-37d86a064bf3073ab81c6f194f37af32].
 
 (8) The conditions are that—
 
-- (a) B’s attributable medical discharge occurred on or after 1st November 2010 and (if the discharge occurred on or after 1st April 2017) B receives a disablement pension or a guaranteed income payment[^key-3a68f865194ce66c592aa04eb7e4482b], and
+- (a) B’s attributable medical discharge occurred on or after 1st November 2010 and (if the discharge occurred on or after 1st April 2017) B receives a disablement pension or a guaranteed income payment[^c-3a68f865194ce66c592aa04eb7e4482b], and
 - (b) on the date of B’s attributable medical discharge, B was a member of the ELC Scheme and had completed Phase 1 and Phase 2 training.
 
 (9) In any case where the conditions in paragraph (7) are met the payment made under the ELC Scheme must be—
 
-- (a) a lower tier payment if on the date of B’s attributable medical discharge B had completed the eligible service specified in article 6(6)(a), [^key-cec0a1dfe453b0d8d9775f00c9a2d70d]...
-- (ab)[^key-4ef9b416838cccd018426d31b2686c74] an aggregated lower tier payment if, on the date of B’s attributable medical discharge, B had completed the eligible service specified in article 6(6)(b), or
-- (b) a higher tier payment if on the date of B’s attributable medical discharge B had completed the eligible service specified in article 6(6)(c)[^key-0f78072e28c4e98562cae94c95d31cc9].
+- (a) a lower tier payment if on the date of B’s attributable medical discharge B had completed the eligible service specified in article 6(6)(a), [^c-cec0a1dfe453b0d8d9775f00c9a2d70d]...
+- (ab)[^c-4ef9b416838cccd018426d31b2686c74] an aggregated lower tier payment if, on the date of B’s attributable medical discharge, B had completed the eligible service specified in article 6(6)(b), or
+- (b) a higher tier payment if on the date of B’s attributable medical discharge B had completed the eligible service specified in article 6(6)(c)[^c-0f78072e28c4e98562cae94c95d31cc9].
 
-(10) In any case where the conditions in paragraph (7) are not met, but the conditions in paragraph (8) are met, the payment under the ELC Scheme must be a lower tier payment or aggregated lower tier payment[^key-137c2bce4ffd2ed850d87184d590c82e].
+(10) In any case where the conditions in paragraph (7) are not met, but the conditions in paragraph (8) are met, the payment under the ELC Scheme must be a lower tier payment or aggregated lower tier payment[^c-137c2bce4ffd2ed850d87184d590c82e].
 
 (11) The condition is that the eligible adult dependant must not be applying for, or in receipt of, any other payment from public funds towards the costs of tuition fees for higher level learning unless such funding is made under the FHEC scheme.
 
 (12) The condition is that the eligible adult dependant’s course of higher level learning commences before the tenth anniversary of the death of A or the attributable medical discharge of B.
 
-### 9. Payments under the ELC Scheme[^key-1a53afa70cfdb9010353a53fc723b533]
+### 9. Payments under the ELC Scheme[^c-1a53afa70cfdb9010353a53fc723b533]
 
 (1) A payment under the ELC Scheme must be made to an approved learning provider.
 
@@ -328,13 +328,13 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 
 ## PART 4 — THE FURTHER AND HIGHER EDUCATION COMMITMENT SCHEME
 
-### 10. Eligibility conditions for payments to service leavers under the FHEC Scheme[^key-3616033dd173da9a4a63719ecd91c1a4][^key-d152634708e99fc9bcb47e34968bb9c7]
+### 10. Eligibility conditions for payments to service leavers under the FHEC Scheme[^c-3616033dd173da9a4a63719ecd91c1a4][^c-d152634708e99fc9bcb47e34968bb9c7]
 
 (1) A service leaver is eligible for payments under the FHEC Scheme for qualification level learning if conditions A to I are met.
 
 (2) Condition A is that the service leaver left the armed forces on or after 17th July 2008.
 
-(3)[^key-96c19e0fcca0f1971d4a8535f7f95610] Condition B is that the service leaver’s course of qualification level learning commences before the entitlement time limit.
+(3)[^c-96c19e0fcca0f1971d4a8535f7f95610] Condition B is that the service leaver’s course of qualification level learning commences before the entitlement time limit.
 
 (4) Condition C is that the service leaver is a member of the ELC Scheme.
 
@@ -346,18 +346,18 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 
 (8) Condition G is that the service leaver is applying for payment of tuition fees in order to undertake no less than half of a full-time course leading to a qualification which falls within the definition of qualification level learning.
 
-(9) Condition H is that the service leaver satisfies the eligibility requirements concerning assistance by way of allowances or support for tuition fees in the part of the United Kingdom[^key-69b6319b3c8a351b2a16946975a5fdf4] where they are ordinarily resident.
+(9) Condition H is that the service leaver satisfies the eligibility requirements concerning assistance by way of allowances or support for tuition fees in the part of the United Kingdom[^c-69b6319b3c8a351b2a16946975a5fdf4] where they are ordinarily resident.
 
 (10) Condition I is that the service leaver remains resident in the United Kingdom for the period of the qualification level learning.
 
-(10A)[^key-164be869d4c957e139434f871d1093ce] In this article “the entitlement time limit” means—
+(10A)[^c-164be869d4c957e139434f871d1093ce] In this article “the entitlement time limit” means—
 
-- (a) for a service leaver who ceased to be a member of the armed forces before 1st April 2016[^key-d8d73da8e92fd9e39ed14cb802e259fc], the tenth anniversary of their ceasing to be a member of the armed forces;
-- (b)[^key-c5df0b9a65756d79d027f4763196863d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) for a service leaver who ceased to be a member of the armed forces before 1st April 2016[^c-d8d73da8e92fd9e39ed14cb802e259fc], the tenth anniversary of their ceasing to be a member of the armed forces;
+- (b)[^c-c5df0b9a65756d79d027f4763196863d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) subject to sub-paragraph (d), for a service leaver who ceases to be a member of the armed forces on or after 1st April 2016, the fifth anniversary of their ceasing to be a member of the armed forces; and
 - (d) for a service leaver discharged on attributable medical grounds on or after 1st<sup></sup>April 2011 who receives a disablement pension or a guaranteed income payment, the tenth anniversary of their ceasing to be a member of the armed forces.
 
-(11)[^key-10815164e67ff85fee097a9fc9ed14e5] Subject to paragraph (12), in this article “eligible service” means—
+(11)[^c-10815164e67ff85fee097a9fc9ed14e5] Subject to paragraph (12), in this article “eligible service” means—
 
 - (a) for a service leaver who has completed before 1st April 2016, or who completes before 1st April 2017, 4 years qualifying service, at least 4 years but less than 8 years qualifying service;
 - (b) for a service leaver who has completed less than 4 years qualifying service before 1st April 2017, at least 6 years but less than 8 years qualifying service; and
@@ -369,9 +369,9 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 
 (14) For the purposes of paragraph (9) any period during which the service leaver served outside the United Kingdom as a member of the armed forces is to be treated as a period of ordinary residence in the United Kingdom.
 
-### 11. Entitlement of eligible adult dependants under the FHEC Scheme in certain cases of death or attributable medical discharge[^key-d5475fc230ef8531a13a78c9071fa6d5]
+### 11. Entitlement of eligible adult dependants under the FHEC Scheme in certain cases of death or attributable medical discharge[^c-d5475fc230ef8531a13a78c9071fa6d5]
 
-(1)[^key-bac9c4303155cf38e223167413361620] Where a member of the armed forces dies on or after 17th<sup></sup>July 2008 and such death is caused either wholly or predominantly by service, his or her eligible adult dependant is eligible for payment under the FHEC Scheme if conditions A to G are met.
+(1)[^c-bac9c4303155cf38e223167413361620] Where a member of the armed forces dies on or after 17th<sup></sup>July 2008 and such death is caused either wholly or predominantly by service, his or her eligible adult dependant is eligible for payment under the FHEC Scheme if conditions A to G are met.
 
 (2) Where a member of the armed forces is discharged on attributable medical grounds on or after 17th July 2008, his or her eligible adult dependant is eligible for payment under the FHEC Scheme if—
 
@@ -381,13 +381,13 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 
 (4) Condition A is that the member of the armed forces was, at the date of death or attributable medical discharge as the case may be, a member of the ELC Scheme.
 
-(5)[^key-32566d5c4730ce709d28656c4d0a6551] Condition B is that the member of the armed forces has or had completed Phase 1 and Phase 2 training before the date of death or attributable medical discharge.
+(5)[^c-32566d5c4730ce709d28656c4d0a6551] Condition B is that the member of the armed forces has or had completed Phase 1 and Phase 2 training before the date of death or attributable medical discharge.
 
 (6) Condition C is that the eligible adult dependant is not applying for, or in receipt of, any other payment from public funds for tuition fees for qualification level learning unless such payment is made under the ELC Scheme.
 
 (7) Condition D is that the eligible adult dependant is applying for the payment of tuition fees in order to undertake no less than half of a full-time course leading to a qualification which falls within the definition of qualification level learning.
 
-(8) Condition E is that the eligible adult dependant satisfies the eligibility requirements concerning assistance by way of allowances or support for tuition fees in the part of the United Kingdom[^key-a38911dfdd845bf9bc5b8b4aa6463bce] where they are ordinarily resident.
+(8) Condition E is that the eligible adult dependant satisfies the eligibility requirements concerning assistance by way of allowances or support for tuition fees in the part of the United Kingdom[^c-a38911dfdd845bf9bc5b8b4aa6463bce] where they are ordinarily resident.
 
 (9) Condition F is that the eligible adult dependant remains resident in the United Kingdom for the period of the qualification level learning.
 
@@ -395,27 +395,27 @@ eligible service commences from whichever is the later of 1st April 2000 and the
 
 (11) For the purposes of paragraph (8), any period during which the eligible adult dependant accompanied the service leaver on their service in the armed forces outside the United Kingdom is to be treated as a period of ordinary residence in the United Kingdom.
 
-### 12. Payments under the FHEC Scheme[^key-791cab9f1f84415f69f61ed74db605d9]
+### 12. Payments under the FHEC Scheme[^c-791cab9f1f84415f69f61ed74db605d9]
 
 (1) A payment under the FHEC Scheme must be made to an approved learning provider.
 
-(2) A payment under the FHEC Scheme must be for the total amount of the tuition fees charged in respect of an academic year to the applicant by the approved learning provider for the course of qualification level learning for which the applicant has enrolled, provided that such payment shall not exceed the total amount of the capped fees as defined in paragraphs (3) to (6)[^key-8c75759067de80a7560ee273b9fee2a0].
+(2) A payment under the FHEC Scheme must be for the total amount of the tuition fees charged in respect of an academic year to the applicant by the approved learning provider for the course of qualification level learning for which the applicant has enrolled, provided that such payment shall not exceed the total amount of the capped fees as defined in paragraphs (3) to (6)[^c-8c75759067de80a7560ee273b9fee2a0].
 
 (3) Where an approved learning provider is located in England, “capped fees” means the maximum tuition fees which that establishment may lawfully charge persons who fall within Schedule 1 to the Education (Fees and Awards) (England) Regulations 2007[^f00013] provided that—
 
-- (a) where that approved learning provider is a publicly funded educational establishment, those fees do not exceed the higher amount as defined in paragraph 2(5) of Schedule 2 to the Higher Education and Research Act 2017[^key-558aa8397d26958d78d7a984409b3708] [^f00014] and as prescribed in regulations made for the purposes of that paragraph[^key-5f3c512040c36a4631a92504f9ba8ab2] [^f00015]; or
-- (b)[^key-ff9c6d708ce422ded324e3c58f65293a] where that approved learning provider is not a publicly funded educational establishment, those fees do not exceed £6,000.
+- (a) where that approved learning provider is a publicly funded educational establishment, those fees do not exceed the higher amount as defined in paragraph 2(5) of Schedule 2 to the Higher Education and Research Act 2017[^c-558aa8397d26958d78d7a984409b3708] [^f00014] and as prescribed in regulations made for the purposes of that paragraph[^c-5f3c512040c36a4631a92504f9ba8ab2] [^f00015]; or
+- (b)[^c-ff9c6d708ce422ded324e3c58f65293a] where that approved learning provider is not a publicly funded educational establishment, those fees do not exceed £6,000.
 
-(4)[^key-5e3d7b69ad1cbad95fc1f5f8ceced651] Where an approved learning provider is located in Wales, “capped fees” means—
+(4)[^c-5e3d7b69ad1cbad95fc1f5f8ceced651] Where an approved learning provider is located in Wales, “capped fees” means—
 
 - (a) where the applicant is a qualifying person undertaking a qualifying course provided by an approved learning provider in relation to which there is an approved plan, the applicable fee limit; or
 - (b) in all other cases, £6,000.
 
 (4A) In paragraph (4), “applicable fee limit”, “approved plan”, “qualifying person” and “qualifying course” have the meanings given in section 57(1) of the Higher Education (Wales) Act 2015 (interpretation).
 
-(5) Where an approved learning provider is located in Scotland, “capped fees” means the tuition fees which that establishment may lawfully charge students with a relevant connection with Scotland within the meaning of regulation 3 of the Education (Fees) (Scotland) Regulations 2011[^f00020], provided that those fees do not exceed £6,000[^key-917f5e3f9b92e32272465de04b7d4368].
+(5) Where an approved learning provider is located in Scotland, “capped fees” means the tuition fees which that establishment may lawfully charge students with a relevant connection with Scotland within the meaning of regulation 3 of the Education (Fees) (Scotland) Regulations 2011[^f00020], provided that those fees do not exceed £6,000[^c-917f5e3f9b92e32272465de04b7d4368].
 
-(6)[^key-51e73f4527e5810e53beb4c125ffc433] Where an approved learning provider is located in Northern Ireland, “capped fees” means the higher amount which that establishment may lawfully charge a person under the Student Fees (Amounts) Regulations (Northern Ireland) 2005 provided that—
+(6)[^c-51e73f4527e5810e53beb4c125ffc433] Where an approved learning provider is located in Northern Ireland, “capped fees” means the higher amount which that establishment may lawfully charge a person under the Student Fees (Amounts) Regulations (Northern Ireland) 2005 provided that—
 
 - (a) the course is a “qualifying course” within the meaning of regulation 4 of the Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007 (“the 2007 regulations”), and
 - (b) the person is a “qualifying person” within the meaning of regulation 5 of the 2007 regulations.
@@ -448,150 +448,150 @@ ELC and FHEC payments to service leavers are exempt from the separate tax charge
 
 [^f00001]: Footnote: [2004 c. 32](https://www.legislation.gov.uk/ukpga/2004/32).
 
-[^key-a98b9b6b5474f9505a3c4f74faa252cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-a98b9b6b5474f9505a3c4f74faa252cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
-[^key-86c87c2a4dc8c136f4a96606431c8d6a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-86c87c2a4dc8c136f4a96606431c8d6a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
 [^f00002]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); section 75B was inserted by section 3 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22); section 75B(3) was substituted by section 11(1) and paragraph 34 of Schedule 1 to the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18).
 
 [^f00003]: Footnote: Section 73 was substituted by section 7 and Part 1 of Schedule 4 to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26); section 73(3) was substituted by section 11(1) and paragraph 32 of Schedule 1 to the Work and Families Act 2006 and section 73(5A) was inserted by sections 17(1) and (4) of the Employment Act 2002.
 
-[^key-4ce8b8964b0e13fa1b1521d908cacae1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/310/article/3/b)
+[^c-4ce8b8964b0e13fa1b1521d908cacae1]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/310/article/3/b)
 
-[^key-2990cb63849ce5311dae7f061e9c0f87]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [26(2)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-2990cb63849ce5311dae7f061e9c0f87]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [26(2)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-164be03b55c545384722aa7e57c7be57]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) omitted (1.4.2016) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/310/article/3/a)
+[^c-164be03b55c545384722aa7e57c7be57]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) omitted (1.4.2016) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/310/article/3/a)
 
 [^f00009]: Footnote: The Qualifications and Credit Framework (QCF) is a national framework which accommodates qualifications and operates across England, Wales and Northern Ireland. The Office of Qualifications and Examinations Regulation, together with its partner regulators in Wales (the Department for Education and Skills) and Northern Ireland (Council for Curriculum, Examinations and Assessment) is responsible for the regulation of the QCF (www.ofqual.gov.uk).
 
-[^key-09e56eeb670ff1ba6ea9a523cf774e89]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/310/article/3/c)
+[^c-09e56eeb670ff1ba6ea9a523cf774e89]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/310/article/3/c)
 
 [^f00005]: Footnote: Orders in Council made pursuant to section 3 of the Naval and Marine Pay and Pensions Act [1865 c. 73](https://www.legislation.gov.uk/ukpga/1865/73) (28 and 29 Vict).
 
-[^key-ee77e7f02695c4e8fc1cfb3f1c999a29]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2016/310/article/3/d)
+[^c-ee77e7f02695c4e8fc1cfb3f1c999a29]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1796/article/2) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2016/310/article/3/d)
 
 [^f00010]: Footnote: Section 75A was inserted by section 3 of the Employment Act 2002; section 75A(2A) was inserted by section 11(1) and paragraph 33 of Schedule 1 to the Work and Families Act 2006.
 
 [^f00011]: Footnote: Section 71 was substituted by section 7 and Part 1 of Schedule 4 to the Employment Relations Act 1999; section 71(3) was substituted by section 11(1) and paragraph 31 of Schedule 1 to the Work and Families Act 2006; section 71(4) was amended by sections 17(1) and 2(a) to (c) of the Employment Act 2002; section 71(7) was substituted by sections 17(1) and (3) of the Employment Act 2002.
 
-[^key-e3f46f564da383636ec9740bf72a20d9]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [26(2)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-e3f46f564da383636ec9740bf72a20d9]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [26(2)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
 [^f00012]: Footnote: [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788); regulation 4 was amended by article 2 and paragraphs 1(1) and 2(a) and (b) of Schedule 17 of [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114); regulation 8 was amended by article 2(17) and paragraphs 1(1) and (3) of Schedule 17 of [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
 
-[^key-86d41bcf4576683882edb6867c4fd1aa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [26(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/d/i) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-86d41bcf4576683882edb6867c4fd1aa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [26(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/d/i) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-2f7f4ca8f94d4e0de3898f44f0e7ca8f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [26(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/d/ii)
+[^c-2f7f4ca8f94d4e0de3898f44f0e7ca8f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [26(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/d/ii)
 
-[^key-b2fe8d87929254596839009fcce413d1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [26(2)(c)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/c)
+[^c-b2fe8d87929254596839009fcce413d1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [26(2)(c)](https://www.legislation.gov.uk/uksi/2014/3255/article/26/2/c)
 
-[^key-35070cdd6d498023f12f81879d4467bd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [20(2)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/20/2/a)
+[^c-35070cdd6d498023f12f81879d4467bd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1796/regulation/2) inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [20(2)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/20/2/a)
 
-[^key-f54cc30f17aad28532ec9c3938571b13]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1796/article/3) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-f54cc30f17aad28532ec9c3938571b13]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1796/article/3) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
-[^key-2b5e20674bd74f6bbb065c445cb57f11]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2012/1796/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1796/article/3/3) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [4](https://www.legislation.gov.uk/uksi/2016/310/article/4)
+[^c-2b5e20674bd74f6bbb065c445cb57f11]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2012/1796/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1796/article/3/3) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [4](https://www.legislation.gov.uk/uksi/2016/310/article/4)
 
-[^key-250b5746f13fd509015aadee5798cd61]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1796/article/4) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-250b5746f13fd509015aadee5798cd61]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1796/article/4) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
-[^key-93e10ae0297ca36631284d4fb9ba0581]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2012/1796/article/5A) inserted "after article 4" (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [6](https://www.legislation.gov.uk/uksi/2016/310/article/6)
+[^c-93e10ae0297ca36631284d4fb9ba0581]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2012/1796/article/5A) inserted "after article 4" (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [6](https://www.legislation.gov.uk/uksi/2016/310/article/6)
 
-[^key-a33cbc88e4f30019a77e0598e9da02eb]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1796/article/5) revoked (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [5](https://www.legislation.gov.uk/uksi/2016/310/article/5)
+[^c-a33cbc88e4f30019a77e0598e9da02eb]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1796/article/5) revoked (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [5](https://www.legislation.gov.uk/uksi/2016/310/article/5)
 
-[^key-c726517156df9c52e98484219062b0a4]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1796/article/6) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-c726517156df9c52e98484219062b0a4]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1796/article/6) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
-[^key-80606caa0f856d451200e18a466936a3]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/2) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/310/article/7/2)
+[^c-80606caa0f856d451200e18a466936a3]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/2) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/310/article/7/2)
 
-[^key-84e9c52d0f63150eb79e1f814ab05dd9]: Textual amendment: [Art. 6(5A)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/5A) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2016/310/article/7/3)
+[^c-84e9c52d0f63150eb79e1f814ab05dd9]: Textual amendment: [Art. 6(5A)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/5A) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2016/310/article/7/3)
 
-[^key-eedf506ba40c0c42994e2fab547268c6]: Textual amendment: Word in [art. 6(5A)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/5A/a) substituted (30.3.2021) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/226/article/2/2/a)
+[^c-eedf506ba40c0c42994e2fab547268c6]: Textual amendment: Word in [art. 6(5A)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/5A/a) substituted (30.3.2021) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/226/article/2/2/a)
 
-[^key-c98c415bef2f2767010a377577b944b4]: Textual amendment: [Art. 6(5A)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/5A/b) omitted (30.3.2021) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/226/article/2/2/b)
+[^c-c98c415bef2f2767010a377577b944b4]: Textual amendment: [Art. 6(5A)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/5A/b) omitted (30.3.2021) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/226/article/2/2/b)
 
-[^key-09c4ee5055b74f186be5263a32804f7b]: Textual amendment: [Art. 6(6)-(8)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/6) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [7(4)](https://www.legislation.gov.uk/uksi/2016/310/article/7/4)
+[^c-09c4ee5055b74f186be5263a32804f7b]: Textual amendment: [Art. 6(6)-(8)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/6) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [7(4)](https://www.legislation.gov.uk/uksi/2016/310/article/7/4)
 
-[^key-114c34017586542ca59bdbdd67b77ca0]: Textual amendment: [Art. 6(10)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/10) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [7(5)](https://www.legislation.gov.uk/uksi/2016/310/article/7/5)
+[^c-114c34017586542ca59bdbdd67b77ca0]: Textual amendment: [Art. 6(10)](https://www.legislation.gov.uk/uksi/2012/1796/article/6/10) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [7(5)](https://www.legislation.gov.uk/uksi/2016/310/article/7/5)
 
-[^key-cb210a5ee636391fb6db6c8358df45b7]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1796/article/7) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-cb210a5ee636391fb6db6c8358df45b7]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1796/article/7) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
-[^key-65172e8c576e66c1905c3e47ecefe812]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/uksi/2012/1796/article/7/4) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2016/310/article/8/2)
+[^c-65172e8c576e66c1905c3e47ecefe812]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/uksi/2012/1796/article/7/4) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2016/310/article/8/2)
 
-[^key-b076f2d49455b82c64a5e4769a170aa4]: Textual amendment: [Art. 7(8)](https://www.legislation.gov.uk/uksi/2012/1796/article/7/8) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2016/310/article/8/3)
+[^c-b076f2d49455b82c64a5e4769a170aa4]: Textual amendment: [Art. 7(8)](https://www.legislation.gov.uk/uksi/2012/1796/article/7/8) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2016/310/article/8/3)
 
-[^key-7cb4a04bf364b730183c97ae41b5d5f0]: Textual amendment: Word in [art. 7(8)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/7/8/a) substituted (30.3.2021) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/226/article/2/3/a)
+[^c-7cb4a04bf364b730183c97ae41b5d5f0]: Textual amendment: Word in [art. 7(8)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/7/8/a) substituted (30.3.2021) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/226/article/2/3/a)
 
-[^key-b5c209e7eb14ad403520d129f43cff6e]: Textual amendment: [Art. 7(8)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/7/8/b) omitted (30.3.2021) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/226/article/2/3/b)
+[^c-b5c209e7eb14ad403520d129f43cff6e]: Textual amendment: [Art. 7(8)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/7/8/b) omitted (30.3.2021) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/226/article/2/3/b)
 
-[^key-917f72ec6dbb8d6a7d5bfbc2c4a56ae0]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1796/article/8) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-917f72ec6dbb8d6a7d5bfbc2c4a56ae0]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1796/article/8) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
-[^key-81d7823753a9a53af4f1a0325aeca5cf]: Textual amendment: Words in [art. 8(2)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/2/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/310/article/9/2)
+[^c-81d7823753a9a53af4f1a0325aeca5cf]: Textual amendment: Words in [art. 8(2)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/2/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2016/310/article/9/2)
 
-[^key-a49d19822af9742c5144de01b6419398]: Textual amendment: Word in [art. 8(4)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/4/a) omitted (1.4.2016) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2016/310/article/9/3/a)
+[^c-a49d19822af9742c5144de01b6419398]: Textual amendment: Word in [art. 8(4)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/4/a) omitted (1.4.2016) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2016/310/article/9/3/a)
 
-[^key-2c73e29d189fe6c6c3284f7131bbe7cf]: Textual amendment: [Art. 8(4)(ab)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/4/ab) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2016/310/article/9/3/b)
+[^c-2c73e29d189fe6c6c3284f7131bbe7cf]: Textual amendment: [Art. 8(4)(ab)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/4/ab) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2016/310/article/9/3/b)
 
-[^key-9c63da5446b9619469a2b9505604dcb9]: Textual amendment: Words in [art. 8(4)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/4/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(3)(c)](https://www.legislation.gov.uk/uksi/2016/310/article/9/3/c)
+[^c-9c63da5446b9619469a2b9505604dcb9]: Textual amendment: Words in [art. 8(4)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/4/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(3)(c)](https://www.legislation.gov.uk/uksi/2016/310/article/9/3/c)
 
-[^key-fee0194ec965683526868358e0af31e4]: Textual amendment: [Art. 8(5A)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/5A) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/310/article/9/4)
+[^c-fee0194ec965683526868358e0af31e4]: Textual amendment: [Art. 8(5A)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/5A) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/310/article/9/4)
 
-[^key-3ba7675700196a68a903edb5c04bb1fa]: Textual amendment: Words in [art. 8(7)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/7/a) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/310/article/9/5/a)
+[^c-3ba7675700196a68a903edb5c04bb1fa]: Textual amendment: Words in [art. 8(7)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/7/a) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2016/310/article/9/5/a)
 
-[^key-37d86a064bf3073ab81c6f194f37af32]: Textual amendment: Words in [art. 8(7)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/7/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2016/310/article/9/5/b)
+[^c-37d86a064bf3073ab81c6f194f37af32]: Textual amendment: Words in [art. 8(7)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/7/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2016/310/article/9/5/b)
 
-[^key-3a68f865194ce66c592aa04eb7e4482b]: Textual amendment: Words in [art. 8(8)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/8/a) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/310/article/9/6)
+[^c-3a68f865194ce66c592aa04eb7e4482b]: Textual amendment: Words in [art. 8(8)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/8/a) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(6)](https://www.legislation.gov.uk/uksi/2016/310/article/9/6)
 
-[^key-cec0a1dfe453b0d8d9775f00c9a2d70d]: Textual amendment: Word in [art. 8(9)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/9/a) omitted (1.4.2016) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(7)(a)](https://www.legislation.gov.uk/uksi/2016/310/article/9/7/a)
+[^c-cec0a1dfe453b0d8d9775f00c9a2d70d]: Textual amendment: Word in [art. 8(9)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/9/a) omitted (1.4.2016) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(7)(a)](https://www.legislation.gov.uk/uksi/2016/310/article/9/7/a)
 
-[^key-4ef9b416838cccd018426d31b2686c74]: Textual amendment: [Art. 8(9)(ab)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/9/ab) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(7)(b)](https://www.legislation.gov.uk/uksi/2016/310/article/9/7/b)
+[^c-4ef9b416838cccd018426d31b2686c74]: Textual amendment: [Art. 8(9)(ab)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/9/ab) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(7)(b)](https://www.legislation.gov.uk/uksi/2016/310/article/9/7/b)
 
-[^key-0f78072e28c4e98562cae94c95d31cc9]: Textual amendment: Words in [art. 8(9)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/9/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(7)(c)](https://www.legislation.gov.uk/uksi/2016/310/article/9/7/c)
+[^c-0f78072e28c4e98562cae94c95d31cc9]: Textual amendment: Words in [art. 8(9)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/9/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(7)(c)](https://www.legislation.gov.uk/uksi/2016/310/article/9/7/c)
 
-[^key-137c2bce4ffd2ed850d87184d590c82e]: Textual amendment: Words in [art. 8(10)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/10) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(8)](https://www.legislation.gov.uk/uksi/2016/310/article/9/8)
+[^c-137c2bce4ffd2ed850d87184d590c82e]: Textual amendment: Words in [art. 8(10)](https://www.legislation.gov.uk/uksi/2012/1796/article/8/10) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [9(8)](https://www.legislation.gov.uk/uksi/2016/310/article/9/8)
 
-[^key-1a53afa70cfdb9010353a53fc723b533]: Textual amendment: [Arts. 9-9C](https://www.legislation.gov.uk/uksi/2012/1796/article/9) substituted for [art. 9](https://www.legislation.gov.uk/uksi/2012/1796/article/9) (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [10](https://www.legislation.gov.uk/uksi/2016/310/article/10)
+[^c-1a53afa70cfdb9010353a53fc723b533]: Textual amendment: [Arts. 9-9C](https://www.legislation.gov.uk/uksi/2012/1796/article/9) substituted for [art. 9](https://www.legislation.gov.uk/uksi/2012/1796/article/9) (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [10](https://www.legislation.gov.uk/uksi/2016/310/article/10)
 
-[^key-3616033dd173da9a4a63719ecd91c1a4]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1796/article/10) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-3616033dd173da9a4a63719ecd91c1a4]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1796/article/10) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
-[^key-d152634708e99fc9bcb47e34968bb9c7]: Textual amendment: Word in [art. 10](https://www.legislation.gov.uk/uksi/2012/1796/article/10) heading substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2016/310/article/11/2)
+[^c-d152634708e99fc9bcb47e34968bb9c7]: Textual amendment: Word in [art. 10](https://www.legislation.gov.uk/uksi/2012/1796/article/10) heading substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2016/310/article/11/2)
 
-[^key-96c19e0fcca0f1971d4a8535f7f95610]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/3) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [11(3)](https://www.legislation.gov.uk/uksi/2016/310/article/11/3)
+[^c-96c19e0fcca0f1971d4a8535f7f95610]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/3) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [11(3)](https://www.legislation.gov.uk/uksi/2016/310/article/11/3)
 
-[^key-69b6319b3c8a351b2a16946975a5fdf4]: Textual amendment: Words in [art. 10(9)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/9) substituted (1.4.2015) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2015 (S.I. 2015/497)](https://www.legislation.gov.uk/uksi/2015/497), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/497/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/497/article/2/a)
+[^c-69b6319b3c8a351b2a16946975a5fdf4]: Textual amendment: Words in [art. 10(9)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/9) substituted (1.4.2015) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2015 (S.I. 2015/497)](https://www.legislation.gov.uk/uksi/2015/497), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/497/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/497/article/2/a)
 
-[^key-164be869d4c957e139434f871d1093ce]: Textual amendment: [Art. 10(10A)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/10A) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [11(4)](https://www.legislation.gov.uk/uksi/2016/310/article/11/4)
+[^c-164be869d4c957e139434f871d1093ce]: Textual amendment: [Art. 10(10A)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/10A) inserted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [11(4)](https://www.legislation.gov.uk/uksi/2016/310/article/11/4)
 
-[^key-d8d73da8e92fd9e39ed14cb802e259fc]: Textual amendment: Word in [art. 10(10A)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/10A/a) substituted (30.3.2021) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/226/article/2/4/a)
+[^c-d8d73da8e92fd9e39ed14cb802e259fc]: Textual amendment: Word in [art. 10(10A)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/10A/a) substituted (30.3.2021) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/226/article/2/4/a)
 
-[^key-c5df0b9a65756d79d027f4763196863d]: Textual amendment: [Art. 10(10A)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/10A/b) omitted (30.3.2021) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/226/article/2/4/b)
+[^c-c5df0b9a65756d79d027f4763196863d]: Textual amendment: [Art. 10(10A)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/10A/b) omitted (30.3.2021) by virtue of [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/226/article/2/4/b)
 
-[^key-10815164e67ff85fee097a9fc9ed14e5]: Textual amendment: [Art. 10(11)-(14)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/11) substituted for (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [11(5)](https://www.legislation.gov.uk/uksi/2016/310/article/11/5)
+[^c-10815164e67ff85fee097a9fc9ed14e5]: Textual amendment: [Art. 10(11)-(14)](https://www.legislation.gov.uk/uksi/2012/1796/article/10/11) substituted for (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [11(5)](https://www.legislation.gov.uk/uksi/2016/310/article/11/5)
 
-[^key-d5475fc230ef8531a13a78c9071fa6d5]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/1796/article/11) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-d5475fc230ef8531a13a78c9071fa6d5]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2012/1796/article/11) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
-[^key-bac9c4303155cf38e223167413361620]: Textual amendment: [Art. 11(1)](https://www.legislation.gov.uk/uksi/2012/1796/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2012/1796/article/11/2) substituted for art. 11(1)-(3) (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2016/310/article/12/2)
+[^c-bac9c4303155cf38e223167413361620]: Textual amendment: [Art. 11(1)](https://www.legislation.gov.uk/uksi/2012/1796/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2012/1796/article/11/2) substituted for art. 11(1)-(3) (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2016/310/article/12/2)
 
-[^key-32566d5c4730ce709d28656c4d0a6551]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/uksi/2012/1796/article/11/5) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2016/310/article/12/3)
+[^c-32566d5c4730ce709d28656c4d0a6551]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/uksi/2012/1796/article/11/5) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2016/310/article/12/3)
 
-[^key-a38911dfdd845bf9bc5b8b4aa6463bce]: Textual amendment: Words in [art. 11(8)](https://www.legislation.gov.uk/uksi/2012/1796/article/11/8) substituted (1.4.2015) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2015 (S.I. 2015/497)](https://www.legislation.gov.uk/uksi/2015/497), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/497/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/497/article/2/b)
+[^c-a38911dfdd845bf9bc5b8b4aa6463bce]: Textual amendment: Words in [art. 11(8)](https://www.legislation.gov.uk/uksi/2012/1796/article/11/8) substituted (1.4.2015) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2015 (S.I. 2015/497)](https://www.legislation.gov.uk/uksi/2015/497), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/497/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/497/article/2/b)
 
-[^key-791cab9f1f84415f69f61ed74db605d9]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2012/1796/article/12) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
+[^c-791cab9f1f84415f69f61ed74db605d9]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2012/1796/article/12) in force at 2.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1796/article/1)
 
-[^key-8c75759067de80a7560ee273b9fee2a0]: Textual amendment: Word in [art. 12(2)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/2) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [13(2)](https://www.legislation.gov.uk/uksi/2016/310/article/13/2)
+[^c-8c75759067de80a7560ee273b9fee2a0]: Textual amendment: Word in [art. 12(2)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/2) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [13(2)](https://www.legislation.gov.uk/uksi/2016/310/article/13/2)
 
 [^f00013]: Footnote: [S.I. 2007/779](https://www.legislation.gov.uk/uksi/2007/779) as amended by [S.I. 2007/2263](https://www.legislation.gov.uk/uksi/2007/2263), [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), [2010/1941](https://www.legislation.gov.uk/uksi/2010/1941), [2011/87](https://www.legislation.gov.uk/uksi/2011/87), [2011/1987](https://www.legislation.gov.uk/uksi/2011/1987), [2012/765](https://www.legislation.gov.uk/uksi/2012/765), [2012/956](https://www.legislation.gov.uk/uksi/2012/956) and [2012/1653](https://www.legislation.gov.uk/uksi/2012/1653).
 
-[^key-558aa8397d26958d78d7a984409b3708]: Textual amendment: Words in [art. 12(3)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/3/a) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [34(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/34/a)
+[^c-558aa8397d26958d78d7a984409b3708]: Textual amendment: Words in [art. 12(3)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/3/a) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [34(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/34/a)
 
 [^f00014]: Footnote: [2004 c.8](https://www.legislation.gov.uk/ukpga/2004/8).
 
-[^key-5f3c512040c36a4631a92504f9ba8ab2]: Textual amendment: Word in [art. 12(3)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/3/a) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/34/b)
+[^c-5f3c512040c36a4631a92504f9ba8ab2]: Textual amendment: Word in [art. 12(3)(a)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/3/a) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [34(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/34/b)
 
 [^f00015]: Footnote: The current regulations are the Higher Education (Higher Amount) (England) Regulations 2010 ([S.I. 2010/3020](https://www.legislation.gov.uk/uksi/2010/3020)).
 
-[^key-ff9c6d708ce422ded324e3c58f65293a]: Textual amendment: [Art. 12(3)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/3/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2016/310/article/13/3)
+[^c-ff9c6d708ce422ded324e3c58f65293a]: Textual amendment: [Art. 12(3)(b)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/3/b) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2016/310/article/13/3)
 
-[^key-5e3d7b69ad1cbad95fc1f5f8ceced651]: Textual amendment: [Art. 12(4)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/4)[(4A)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/4A) substituted for [art. 12(4)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/4) (30.3.2021) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/226/article/2/5)
+[^c-5e3d7b69ad1cbad95fc1f5f8ceced651]: Textual amendment: [Art. 12(4)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/4)[(4A)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/4A) substituted for [art. 12(4)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/4) (30.3.2021) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2021 (S.I. 2021/226)](https://www.legislation.gov.uk/uksi/2021/226), [arts. 1](https://www.legislation.gov.uk/uksi/2021/226/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/226/article/2/5)
 
 [^f00020]: Footnote: [S.S.I. 2011/389](https://www.legislation.gov.uk/ssi/2011/389).
 
-[^key-917f5e3f9b92e32272465de04b7d4368]: Textual amendment: Word in [art. 12(5)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/5) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [14](https://www.legislation.gov.uk/uksi/2016/310/article/14)
+[^c-917f5e3f9b92e32272465de04b7d4368]: Textual amendment: Word in [art. 12(5)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/5) substituted (1.4.2016) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2016 (S.I. 2016/310)](https://www.legislation.gov.uk/uksi/2016/310), [arts. 1](https://www.legislation.gov.uk/uksi/2016/310/article/1), [14](https://www.legislation.gov.uk/uksi/2016/310/article/14)
 
-[^key-51e73f4527e5810e53beb4c125ffc433]: Textual amendment: [Art. 12(6)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/6) inserted (1.4.2015) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2015 (S.I. 2015/497)](https://www.legislation.gov.uk/uksi/2015/497), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/497/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/497/article/2/c)
+[^c-51e73f4527e5810e53beb4c125ffc433]: Textual amendment: [Art. 12(6)](https://www.legislation.gov.uk/uksi/2012/1796/article/12/6) inserted (1.4.2015) by [The Armed Forces (Enhanced Learning Credit Scheme and Further and Higher Education Commitment Scheme) (Amendment) Order 2015 (S.I. 2015/497)](https://www.legislation.gov.uk/uksi/2015/497), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/497/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2015/497/article/2/c)

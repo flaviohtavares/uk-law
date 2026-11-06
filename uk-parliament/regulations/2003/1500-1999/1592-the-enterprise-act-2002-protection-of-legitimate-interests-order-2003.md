@@ -43,7 +43,7 @@ Whereas the Secretary of State laid the draft of this Order before Parliament;
 
 And whereas the said draft as so laid has been approved by a resolution of each House of Parliament;
 
-Now, therefore, the Secretary of State in exercise of the powers conferred on her by sections 68 and 124(2) and (4) of the Enterprise Act 2002 [^c5051221], hereby makes the following Order:[^key-0b4d0a1b76bbb285bb39bf9c4bcbea09]
+Now, therefore, the Secretary of State in exercise of the powers conferred on her by sections 68 and 124(2) and (4) of the Enterprise Act 2002 [^c5051221], hereby makes the following Order:[^c-0b4d0a1b76bbb285bb39bf9c4bcbea09]
 
 ## 1. Citation, commencement and interpretation
 
@@ -52,8 +52,8 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on he
 (2) In this Order—
 
 - “**the Act**” means the Enterprise Act 2002;
-- “**a European intervention notice**” means a notice given by the Secretary of State to the CMA[^key-cdc148d7021772332d65bf5958b2cb15] pursuant to section 67 of the Act;
-- “media public interest consideration” means any consideration which, at the time of the giving of the European intervention notice concerned, is specified in section 58(2A) to (2C) of the Act, or in the opinion of the Secretary of State, is concerned with broadcasting or newspapers and ought to be specified in section 58 of the Act.[^key-6f28e0ef05996a08b1626523398a6470]
+- “**a European intervention notice**” means a notice given by the Secretary of State to the CMA[^c-cdc148d7021772332d65bf5958b2cb15] pursuant to section 67 of the Act;
+- “media public interest consideration” means any consideration which, at the time of the giving of the European intervention notice concerned, is specified in section 58(2A) to (2C) of the Act, or in the opinion of the Secretary of State, is concerned with broadcasting or newspapers and ought to be specified in section 58 of the Act.[^c-6f28e0ef05996a08b1626523398a6470]
 - “**public interest consideration**” means a consideration which, at the time of the giving of the European intervention notice concerned, is specified in section 58 of the Act, or is not so specified but, in the opinion of the Secretary of State, ought to be so specified.
 
 ## 2. Determination of a relevant merger situation
@@ -66,11 +66,11 @@ For the purposes of deciding whether a relevant merger situation has been create
 
 (2) A matter to which a European intervention notice relates is finally determined if—
 
-- (a) the time within which the CMA[^key-abc58af349780bfba4e33fdf7c0d07b8] or (if relevant)[^key-3032e3f11de078fb3e99b6706d5b0a79] OFCOM is to report to the Secretary of State under article 4 or (as the case may be) 4A[^key-d582359874e7f55dcc801c0121a66c3e] has expired and no such report has been made;
+- (a) the time within which the CMA[^c-abc58af349780bfba4e33fdf7c0d07b8] or (if relevant)[^c-3032e3f11de078fb3e99b6706d5b0a79] OFCOM is to report to the Secretary of State under article 4 or (as the case may be) 4A[^c-d582359874e7f55dcc801c0121a66c3e] has expired and no such report has been made;
 - (b) the Secretary of State decides to accept an undertaking or group of undertakings under paragraph 3 of Schedule 2 instead of making a reference under article 5;
 - (c) the Secretary of State otherwise decides not to make a reference under article 5;
-- (d) the CMA[^key-b9c3331ef4e8b6596c3423ae25372261] cancels such a reference under article 7(1) or article 11(1);
-- (e) the time within which the CMA[^key-85b542a80b119fa87d3285b73ff7c9ff] is to prepare a report under article 8 and give it to the Secretary of State has expired and no such report has been prepared and given to the Secretary of State;
+- (d) the CMA[^c-b9c3331ef4e8b6596c3423ae25372261] cancels such a reference under article 7(1) or article 11(1);
+- (e) the time within which the CMA[^c-85b542a80b119fa87d3285b73ff7c9ff] is to prepare a report under article 8 and give it to the Secretary of State has expired and no such report has been prepared and given to the Secretary of State;
 - (f) the time within which the Secretary of State is to make and publish a decision under article 12(2) has expired and no such decision has been made and published;
 - (g) the Secretary of State decides under paragraph (2) of article 12 otherwise than as mentioned in paragraph (6) of that article;
 - (h) the Secretary of State decides under paragraph (2) of article 12 as mentioned in paragraph (6) of that article but decides neither to accept an undertaking under paragraph 9 of Schedule 2 nor to make an order under paragraph 11 of that Schedule; or
@@ -84,26 +84,26 @@ For the purposes of deciding whether a relevant merger situation has been create
 - (d) in a case falling within paragraph (2)(h), the making of the decision neither to accept an undertaking under paragraph 9 of Schedule 2 nor to make an order under paragraph 11 of that Schedule; and
 - (e) in a case falling within paragraph (2)(i), the acceptance of the undertakings concerned or (as the case may be) the making of the order concerned.
 
-## 4. Initial investigation and report by CMA[^key-5d737471745b82c8e7ad4e64510aa8ab]
+## 4. Initial investigation and report by CMA[^c-5d737471745b82c8e7ad4e64510aa8ab]
 
 (1) Paragraph (2) applies where the Secretary of State has given a European intervention notice in relation to a relevant merger situation under section 67 of the Act.
 
-(2) The CMA[^key-2943c39b22a0e9a7d01e54495a9aa125] shall, within such period as the Secretary of State may require, give a report to the Secretary of State in relation to the case.
+(2) The CMA[^c-2943c39b22a0e9a7d01e54495a9aa125] shall, within such period as the Secretary of State may require, give a report to the Secretary of State in relation to the case.
 
 (3) The report shall contain—
 
-- (a) advice from the CMA[^key-642580f9e40f9465c20d56ea9f3c70a6] on the considerations relevant to the making of a reference under section 22 or 33 of the Act which are also relevant to the Secretary of State’s decision as to whether to make a reference under article 5; and
-- (b) a summary of any representations about the case which have been received by the CMA and which relate to any public interest consideration mentioned in the European intervention notice concerned (other than a media public interest consideration)[^key-7fcfee9282fac27dd2cdfd8d208b0712] and which is or may be relevant to the Secretary of State’s decision as to whether to make a reference under article 5.
+- (a) advice from the CMA[^c-642580f9e40f9465c20d56ea9f3c70a6] on the considerations relevant to the making of a reference under section 22 or 33 of the Act which are also relevant to the Secretary of State’s decision as to whether to make a reference under article 5; and
+- (b) a summary of any representations about the case which have been received by the CMA and which relate to any public interest consideration mentioned in the European intervention notice concerned (other than a media public interest consideration)[^c-7fcfee9282fac27dd2cdfd8d208b0712] and which is or may be relevant to the Secretary of State’s decision as to whether to make a reference under article 5.
 
-(4) The report shall include a decision as to whether the CMA[^key-6ea85e55e7b84888d853d3e43a7bbad2] believes that it is, or may be, the case that a European relevant merger situation has been created or (as the case may be) arrangements are in progress or in contemplation which, if carried into effect, will result in the creation of a European relevant merger situation.
+(4) The report shall include a decision as to whether the CMA[^c-6ea85e55e7b84888d853d3e43a7bbad2] believes that it is, or may be, the case that a European relevant merger situation has been created or (as the case may be) arrangements are in progress or in contemplation which, if carried into effect, will result in the creation of a European relevant merger situation.
 
-(4A)[^key-362923a4683f8a9e8c3e7288af50b1b6] The report may, in particular, contain a summary of any representations about the case which have been received by the CMA[^key-ab1c528777297c4a297b7c3d85b969dd] and which relate to any media public interest consideration mentioned in the European intervention notice concerned and which is or may be relevant to the Secretary of State’s decision as to whether to make a reference under article 5.
+(4A)[^c-362923a4683f8a9e8c3e7288af50b1b6] The report may, in particular, contain a summary of any representations about the case which have been received by the CMA[^c-ab1c528777297c4a297b7c3d85b969dd] and which relate to any media public interest consideration mentioned in the European intervention notice concerned and which is or may be relevant to the Secretary of State’s decision as to whether to make a reference under article 5.
 
 (5) The report may, in particular, include advice and recommendations on any public interest consideration mentioned in the European intervention notice concerned and which is or may be relevant to the Secretary of State’s decision as to whether to make a reference under article 5.
 
-(6) The CMA[^key-bb519d3e9af5538e3fcd94660aba8c18] shall carry out such investigations as it considers appropriate for the purpose of producing a report under this article.
+(6) The CMA[^c-bb519d3e9af5538e3fcd94660aba8c18] shall carry out such investigations as it considers appropriate for the purpose of producing a report under this article.
 
-## 4A. Additional investigation and report by OFCOM: media mergers[^key-647d5895399a4deefad4f60aa4cd6e8a]
+## 4A. Additional investigation and report by OFCOM: media mergers[^c-647d5895399a4deefad4f60aa4cd6e8a]
 
 (1) Paragraph (2) applies where—
 
@@ -124,23 +124,23 @@ For the purposes of deciding whether a relevant merger situation has been create
 (1) Paragraphs (2) and (3) apply where the Secretary of State—
 
 - (a) has given a European intervention notice in relation to a relevant merger situation; and
-- (b) has received a report of the CMA[^key-b36b9b94af351e4228900dd0ad114e61] under article 4, and any report of[^key-894c96ee1fb6bd75747a3515e46a755f] OFCOM which is required by virtue of article 4A, in relation to the matter.
+- (b) has received a report of the CMA[^c-b36b9b94af351e4228900dd0ad114e61] under article 4, and any report of[^c-894c96ee1fb6bd75747a3515e46a755f] OFCOM which is required by virtue of article 4A, in relation to the matter.
 
-(2) The Secretary of State may make a reference to the chair of the[^key-e57054668fe59116b97c8f3ca13bcfb1] CMA for the constitution of a group under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 if she believes that it is or may be the case that—
+(2) The Secretary of State may make a reference to the chair of the[^c-e57054668fe59116b97c8f3ca13bcfb1] CMA for the constitution of a group under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 if she believes that it is or may be the case that—
 
 - (a) a European relevant merger situation has been created;
 - (b) one or more than one public interest consideration mentioned in the European intervention notice is relevant to a consideration of the European relevant merger situation concerned; and
 - (c) taking account only of the relevant public interest consideration or considerations concerned, the creation of that situation operates or may be expected to operate against the public interest.
 
-(3) The Secretary of State may make a reference to the chair of the[^key-c7a031ce3c2edf2434542e3ab97409a0] CMA for the constitution of a group under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 if she believes that it is or may be the case that—
+(3) The Secretary of State may make a reference to the chair of the[^c-c7a031ce3c2edf2434542e3ab97409a0] CMA for the constitution of a group under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 if she believes that it is or may be the case that—
 
 - (a) arrangements are in progress or in contemplation which, if carried into effect, will result in the creation of a European relevant merger situation;
 - (b) one or more than one public interest consideration mentioned in the European intervention notice is relevant to a consideration of the European relevant merger situation concerned; and
 - (c) taking account only of the relevant public interest consideration or considerations concerned, the creation of that situation operates or may be expected to operate against the public interest.
 
-(4) No reference shall be made under this article if the making of the reference is prevented by [^key-b5bcc4bbc0453623e6d3e46513a420b4]... paragraph 4 of Schedule 2.
+(4) No reference shall be made under this article if the making of the reference is prevented by [^c-b5bcc4bbc0453623e6d3e46513a420b4]... paragraph 4 of Schedule 2.
 
-(5) The Secretary of State, in deciding whether to make a reference under this article, shall accept the decision of the CMA[^key-ef307f4f6a4850262fcaa9ba4b4ab8e6] included in its report under article 4 by virtue of paragraph (4) of that article.
+(5) The Secretary of State, in deciding whether to make a reference under this article, shall accept the decision of the CMA[^c-ef307f4f6a4850262fcaa9ba4b4ab8e6] included in its report under article 4 by virtue of paragraph (4) of that article.
 
 (6) Where the decision to make a reference under article 5 is made at any time on or after the end of the period of 24 weeks beginning with the giving of the European intervention notice concerned, the Secretary of State shall, in deciding whether to make such a reference, disregard any public interest consideration which is mentioned in the European intervention notice but which has not been finalised before the end of that period.
 
@@ -152,7 +152,7 @@ For the purposes of deciding whether a relevant merger situation has been create
 - (b) the date on which it is made; and
 - (c) the public interest consideration or considerations mentioned in the European intervention notice concerned which the Secretary of State is not under a duty to disregard by virtue of paragraph (6) and which she believes are or may be relevant to a consideration of the relevant merger situation concerned.
 
-## 5A. Functions to be exercised by CMA groups[^key-038e1f09d85c4a0755ad4b648500ae46]
+## 5A. Functions to be exercised by CMA groups[^c-038e1f09d85c4a0755ad4b648500ae46]
 
 Where a reference is made to the chair of the CMA under article 5 for the constitution of a group under Schedule 4 to the Enterprise and Regulatory Reform Act 2013, the functions of the CMA under or by virtue of the following provisions in relation to the matter concerned are to be carried out on behalf of the CMA by the group so constituted—
 
@@ -167,7 +167,7 @@ Where a reference is made to the chair of the CMA under article 5 for the consti
 
 ## 6. Questions to be decided on references under article 5
 
-(1) The CMA[^key-45fdc8400e1c6daecd3dc98b74a915ea] shall, on a reference under article 5(2), decide whether a European relevant merger situation has been created.
+(1) The CMA[^c-45fdc8400e1c6daecd3dc98b74a915ea] shall, on a reference under article 5(2), decide whether a European relevant merger situation has been created.
 
 (2) The CMA shall, on a reference under article 5(3), decide whether arrangements are in progress or in contemplation which, if carried into effect, will result in the creation of a European relevant merger situation.
 
@@ -183,7 +183,7 @@ Where a reference is made to the chair of the CMA under article 5 for the consti
 
 ## 7. Cancellation or variation of references under article 5
 
-(1) The CMA[^key-4f7c7cb5ac84e6e1e91af13cb25d7396] shall cancel a reference under article 5(3) if it considers that the proposal to make arrangements of the kind mentioned in the reference has been abandoned.
+(1) The CMA[^c-4f7c7cb5ac84e6e1e91af13cb25d7396] shall cancel a reference under article 5(3) if it considers that the proposal to make arrangements of the kind mentioned in the reference has been abandoned.
 
 (2) In relation to the question whether a European relevant merger situation has been created or the question whether a European relevant merger situation will be created, a reference under article 5 may be framed so as to require the CMA to exclude from consideration—
 
@@ -191,24 +191,24 @@ Where a reference is made to the chair of the CMA under article 5 for the consti
 - (b) subsection (2) of that section; or
 - (c) one of those subsections if the CMA finds that the other is satisfied.
 
-(3) In relation to the question whether for the purpose of section 23(2)(b), the share of supply test is or will be met[^key-dd3f5ad12cec891558f84467f22e9bd9], a reference under article 5 may be framed so as to require the CMA to confine its investigation to the supply of goods or services in a part of the United Kingdom specified in the reference.
+(3) In relation to the question whether for the purpose of section 23(2)(b), the share of supply test is or will be met[^c-dd3f5ad12cec891558f84467f22e9bd9], a reference under article 5 may be framed so as to require the CMA to confine its investigation to the supply of goods or services in a part of the United Kingdom specified in the reference.
 
 (4) The CMA may, if it considers that doing so is justified by the facts (including events occurring on or after the making of the reference concerned), treat a reference made under paragraph (2) or (3) of article 5 as if it had been made under paragraph (3) or (as the case may be) (2) of that article; and, in such cases, references in this Order to references under those enactments shall, so far as may be necessary, be construed accordingly.
 
-(5) Where by virtue of paragraph (4), the CMA[^key-edfad7271aae6c1a30925a5faa8e7819] treats a reference made under paragraph (2) or (3) of article 5 as if it had been made under paragraph (3) or (as the case may be) (2) of that article, paragraphs [^key-031ecb6128e5f9b00c81ea9e9a21507b]... 2, 7 and 8 of Schedule 2, in particular, apply as if the reference had been made under paragraph (3) or (as the case may be) (2) of that article instead of under paragraph (2) or (3) of that article.
+(5) Where by virtue of paragraph (4), the CMA[^c-edfad7271aae6c1a30925a5faa8e7819] treats a reference made under paragraph (2) or (3) of article 5 as if it had been made under paragraph (3) or (as the case may be) (2) of that article, paragraphs [^c-031ecb6128e5f9b00c81ea9e9a21507b]... 2, 7 and 8 of Schedule 2, in particular, apply as if the reference had been made under paragraph (3) or (as the case may be) (2) of that article instead of under paragraph (2) or (3) of that article.
 
-(6) Paragraph (7) applies in relation to any order made under paragraph 2 of Schedule 2[^key-6bd4665a5ee646cfcceed4336f53eb52] which is in force immediately before the CMA[^key-66f6315c73fb7032fc6fa0fc6403deec], by virtue of paragraph (4), treats a reference made under paragraph (2) or (3) of article 5 as if it had been made under paragraph (3) or (as the case may be) (2) of that article.
+(6) Paragraph (7) applies in relation to any order made under paragraph 2 of Schedule 2[^c-6bd4665a5ee646cfcceed4336f53eb52] which is in force immediately before the CMA[^c-66f6315c73fb7032fc6fa0fc6403deec], by virtue of paragraph (4), treats a reference made under paragraph (2) or (3) of article 5 as if it had been made under paragraph (3) or (as the case may be) (2) of that article.
 
-(7) The [^key-cbb28f3711481ac50244b4ccb61ef61a]... order shall, so far as applicable, continue in force as if it were—
+(7) The [^c-cbb28f3711481ac50244b4ccb61ef61a]... order shall, so far as applicable, continue in force as if it were—
 
-- (a) in the case of an [^key-cbb28f3711481ac50244b4ccb61ef61a]... order which relates to a reference under paragraph (2) of article 5, [^key-f7742ed259a507c34e5e4d91bae7f18f]... made in relation to a reference made under paragraph (3) of that article; and
-- (b) in the case of an [^key-cbb28f3711481ac50244b4ccb61ef61a]... order which relates to a reference made under paragraph (3) of that article, [^key-f7742ed259a507c34e5e4d91bae7f18f]... made in relation to a reference made under paragraph (2) of that article;
+- (a) in the case of an [^c-cbb28f3711481ac50244b4ccb61ef61a]... order which relates to a reference under paragraph (2) of article 5, [^c-f7742ed259a507c34e5e4d91bae7f18f]... made in relation to a reference made under paragraph (3) of that article; and
+- (b) in the case of an [^c-cbb28f3711481ac50244b4ccb61ef61a]... order which relates to a reference made under paragraph (3) of that article, [^c-f7742ed259a507c34e5e4d91bae7f18f]... made in relation to a reference made under paragraph (2) of that article;
 
-and the [^key-cbb28f3711481ac50244b4ccb61ef61a]... order concerned may be varied [^key-519983d99b3c1c28ea4d0caab81a6731]... or revoked accordingly.
+and the [^c-cbb28f3711481ac50244b4ccb61ef61a]... order concerned may be varied [^c-519983d99b3c1c28ea4d0caab81a6731]... or revoked accordingly.
 
 (8) The Secretary of State may at any time vary a reference under article 5.
 
-(9) The Secretary of State shall consult the CMA[^key-920703b752d58b6ff0c9c14724ab92fa] before varying any such reference.
+(9) The Secretary of State shall consult the CMA[^c-920703b752d58b6ff0c9c14724ab92fa] before varying any such reference.
 
 (10) Paragraph (9) shall not apply if the CMA has requested the variation concerned.
 
@@ -216,7 +216,7 @@ and the [^key-cbb28f3711481ac50244b4ccb61ef61a]... order concerned may be varied
 
 ## 8. Investigations and reports on references under article 5
 
-(1) The CMA[^key-fde86d07396cb916edca98d7318d6bf5] shall prepare a report on a reference under article 5 and give it to the Secretary of State within the period permitted by article 9.
+(1) The CMA[^c-fde86d07396cb916edca98d7318d6bf5] shall prepare a report on a reference under article 5 and give it to the Secretary of State within the period permitted by article 9.
 
 (2) The report shall, in particular, contain—
 
@@ -224,13 +224,13 @@ and the [^key-cbb28f3711481ac50244b4ccb61ef61a]... order concerned may be varied
 - (b) its reasons for its decisions; and
 - (c) such information as the CMA considers appropriate for facilitating a proper understanding of those questions and of its reasons for its decisions.
 
-(2A)[^key-2acfaf9d7896cd508bd761bf8704035b] Where the report relates to a reference under article 5 which has been made after a report of OFCOM under article 4A, the CMA shall give a copy of its report (whether or not published) to OFCOM.
+(2A)[^c-2acfaf9d7896cd508bd761bf8704035b] Where the report relates to a reference under article 5 which has been made after a report of OFCOM under article 4A, the CMA shall give a copy of its report (whether or not published) to OFCOM.
 
 (3) The CMA shall carry out such investigations as it considers appropriate for the purpose of producing a report under this article.
 
-## 9. Time-limits and investigations and reports by CMA[^key-b57ef42e74c80094bd9b95f2dcff1d3c]
+## 9. Time-limits and investigations and reports by CMA[^c-b57ef42e74c80094bd9b95f2dcff1d3c]
 
-(1) The CMA[^key-43ac42c663e724335135d4f0b78a9740] shall prepare its report under article 8 and give it to the Secretary of State under that article within the period of 24 weeks beginning with the date of the reference concerned.
+(1) The CMA[^c-43ac42c663e724335135d4f0b78a9740] shall prepare its report under article 8 and give it to the Secretary of State under that article within the period of 24 weeks beginning with the date of the reference concerned.
 
 (2) The CMA may extend, by no more than 8 weeks, the period within which a report under article 8 is to be prepared and given to the Secretary of State if it considers that there are special reasons why the report cannot be prepared and given to the Secretary of State within that period.
 
@@ -248,7 +248,7 @@ and the [^key-cbb28f3711481ac50244b4ccb61ef61a]... order concerned may be varied
 
 (7) An extension under paragraph (3) shall continue in force until—
 
-- (a) the person concerned provides the information or documents to the satisfaction of the CMA[^key-c7e2230bb769850eb2c89154c7728c77] or (as the case may be) appears as a witness in accordance with the requirements of the CMA; or
+- (a) the person concerned provides the information or documents to the satisfaction of the CMA[^c-c7e2230bb769850eb2c89154c7728c77] or (as the case may be) appears as a witness in accordance with the requirements of the CMA; or
 - (b) the CMA publishes its decision to cancel the extension.
 
 ## 10. Article 9: supplementary
@@ -271,7 +271,7 @@ and the [^key-cbb28f3711481ac50244b4ccb61ef61a]... order concerned may be varied
 
 ## 11. Restrictions on action where public interest considerations not finalised
 
-(1) The CMA[^key-fe2b539d7653609dbf0872ea998b7fc9] shall cancel a reference under article 5 if—
+(1) The CMA[^c-fe2b539d7653609dbf0872ea998b7fc9] shall cancel a reference under article 5 if—
 
 - (a) the European intervention notice concerned mentions a public interest consideration which was not finalised on the giving of that notice or public interest considerations which, at the time, were not finalised;
 - (b) no other public interest consideration is mentioned in the notice;
@@ -289,7 +289,7 @@ and the [^key-cbb28f3711481ac50244b4ccb61ef61a]... order concerned may be varied
 
 ## 12. Decision and enforcement by Secretary of State
 
-(1) Paragraph (2) applies where the Secretary of State has received a report of the CMA[^key-e5e0113d32f17ed3212e60d557eab071] under article 8 in relation to a European relevant merger situation.
+(1) Paragraph (2) applies where the Secretary of State has received a report of the CMA[^c-e5e0113d32f17ed3212e60d557eab071] under article 8 in relation to a European relevant merger situation.
 
 (2) The Secretary of State shall, in connection with a reference under article 5(2) or (3), decide the questions which the CMA is required to decide by virtue of article 6(1) to (3).
 
@@ -309,7 +309,7 @@ and has so decided, and published her decision, within the period required by pa
 
 (7) The Secretary of State may take such action under paragraph 9 or 11 of Schedule 2 as she considers reasonable and practicable to remedy, mitigate or prevent any of the effects adverse to the public interest which have resulted from, or may be expected to result from, the creation of the European relevant merger situation concerned.
 
-(8) In making a decision under paragraph (7), the Secretary of State shall, in particular, have regard to the report of the CMA[^key-5ea0dd57340faf767fc21d0dfa928a30] under article 8.
+(8) In making a decision under paragraph (7), the Secretary of State shall, in particular, have regard to the report of the CMA[^c-5ea0dd57340faf767fc21d0dfa928a30] under article 8.
 
 (9) In determining for the purpose of paragraph (3) the period of 30 days no account shall be taken of—
 
@@ -320,11 +320,11 @@ and has so decided, and published her decision, within the period required by pa
 
 (1) Schedule 2 (which provides for enforcement action in European intervention notice cases) shall have effect.
 
-(2) The CMA[^key-a6b644fa9f4c20e48cd4a2bc3567519d] may advise the Secretary of State in relation to the taking by her of enforcement action under Schedule 2.
+(2) The CMA[^c-a6b644fa9f4c20e48cd4a2bc3567519d] may advise the Secretary of State in relation to the taking by her of enforcement action under Schedule 2.
 
 ## 14. Publicity requirements
 
-(1) The CMA[^key-30484cbecb5bca33ff95eeeb9e9a5dd8] shall publish—
+(1) The CMA[^c-30484cbecb5bca33ff95eeeb9e9a5dd8] shall publish—
 
 - (a) any cancellation made by it under article 7(1) of a reference under article 5;
 - (b) any extension by it under article 9 of the period within which a report under article 8 is to be prepared and published;
@@ -334,14 +334,14 @@ and has so decided, and published her decision, within the period required by pa
 (2) The Secretary of State shall publish—
 
 - (a) any European intervention notice given by her;
-- (b) any report of the CMA[^key-05f36fa4311a3be0148728351911974e] under article 4 which has been received by her;
-- (ba)[^key-2926e856e444abbf592ed26ca99c3360] any report of OFCOM under article 4A which has been received by her;
+- (b) any report of the CMA[^c-05f36fa4311a3be0148728351911974e] under article 4 which has been received by her;
+- (ba)[^c-2926e856e444abbf592ed26ca99c3360] any report of OFCOM under article 4A which has been received by her;
 - (c) any reference made by her under article 5 or any decision made by her not to make a reference;
 - (d) any variation by her under article 7 of a reference under article 5;
-- (e) any report of the CMA[^key-e602057020b58c446d098ea6ead71981] under article 8 which has been received by her;
+- (e) any report of the CMA[^c-e602057020b58c446d098ea6ead71981] under article 8 which has been received by her;
 - (f) any decision made by her neither to accept an undertaking under paragraph 9 of Schedule 2 nor to make an order under paragraph 11 of that Schedule;
-- (g)[^key-45fd433e558674640446ef0c3eb90275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-45fd433e558674640446ef0c3eb90275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-45fd433e558674640446ef0c3eb90275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-45fd433e558674640446ef0c3eb90275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) any decision made by her as mentioned in paragraph 6(6)(b) of Schedule 2; and
 - (j) any decision to dispense with the requirements of Schedule 10 of the Act.
 
@@ -355,10 +355,10 @@ and has so decided, and published her decision, within the period required by pa
 
 (7) The Secretary of State shall publish—
 
-- (a) the report of the CMA[^key-11dd3a39bbc5be45a466732529622faa] under article 4, and any report of[^key-5b4b0290ca725c1159b2cf3c86a45318] OFCOM under article 4A, in relation to a matter no later than publication of her decision as to whether to make a reference under article 5 in relation to that matter; and
-- (b) the report of the CMA[^key-0527b1faf3fc73079bc64e4b317b96a0] under article 8 in relation to a matter no later than publication of her decision under article 12(2) in relation to that matter.
+- (a) the report of the CMA[^c-11dd3a39bbc5be45a466732529622faa] under article 4, and any report of[^c-5b4b0290ca725c1159b2cf3c86a45318] OFCOM under article 4A, in relation to a matter no later than publication of her decision as to whether to make a reference under article 5 in relation to that matter; and
+- (b) the report of the CMA[^c-0527b1faf3fc73079bc64e4b317b96a0] under article 8 in relation to a matter no later than publication of her decision under article 12(2) in relation to that matter.
 
-(8) Where the Secretary of State has decided under article 12(7) to accept an undertaking under paragraph 9 of Schedule 2 or to make an order under paragraph 11 of that Schedule, she shall (after the acceptance of the undertaking or (as the case may be) the making of the order) lay details of her decision and her reasons for it, and the CMA's[^key-3560011c1c8698a951bd7052d0a11635] report under article 8, before each House of Parliament.
+(8) Where the Secretary of State has decided under article 12(7) to accept an undertaking under paragraph 9 of Schedule 2 or to make an order under paragraph 11 of that Schedule, she shall (after the acceptance of the undertaking or (as the case may be) the making of the order) lay details of her decision and her reasons for it, and the CMA's[^c-3560011c1c8698a951bd7052d0a11635] report under article 8, before each House of Parliament.
 
 ## 15. Other provisions of the Act applicable to this Order
 
@@ -380,41 +380,41 @@ Article 2
 
 Sections 23 to 32 of the Act shall apply as if—
 
-- (a) references in those sections to “**the decision-making authority**” were references to the CMA[^key-a66818e2b503e9ff25cf723131020057] or (as the case may be) the Secretary of State;
+- (a) references in those sections to “**the decision-making authority**” were references to the CMA[^c-a66818e2b503e9ff25cf723131020057] or (as the case may be) the Secretary of State;
 - (b) in section 23(1) and (2) the words “For the purposes of this Part,” were omitted;
 - (c) in section 23(9) the words “For the purposes of this Chapter,” were omitted;
 - (d) for section 23(9)(a) there were substituted—
 
   > - (a) in relation to the giving of a European intervention notice, the time when the notice is given;
-  > - (aa) in relation to the making of a report by the CMA[^key-36afe037a788246796f3c2f89962f5f6] under article 4 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003, the time of the making of the report;
-  > - (ab) in the case of a reference which is treated as having been made under article 5(2) of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 by virtue of article 7(4) of that Order, such time as the CMA[^key-679ed93fb07b60a2645efcf144943d23] may determine; and
+  > - (aa) in relation to the making of a report by the CMA[^c-36afe037a788246796f3c2f89962f5f6] under article 4 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003, the time of the making of the report;
+  > - (ab) in the case of a reference which is treated as having been made under article 5(2) of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 by virtue of article 7(4) of that Order, such time as the CMA[^c-679ed93fb07b60a2645efcf144943d23] may determine; and
 
   ;
-- (e) the references to the CMA[^key-d8cf309f09ad4e427b1721094f136484] in section 24(2)(a) and (b) included references to the Secretary of State;
-- (f) the references to the CMA[^key-332d6ce809863b8d71a1a75df72d57e1] in section 25(1) to (3), (6) and (8)[^key-cf3ba70b6984286759fa8e883f9e60ce] included references to the Secretary of State;
-- (g) the references to the CMA[^key-58bff20f8da5d42364278037ab58e095] in section 25(4) and (5) were references to the Secretary of State;
+- (e) the references to the CMA[^c-d8cf309f09ad4e427b1721094f136484] in section 24(2)(a) and (b) included references to the Secretary of State;
+- (f) the references to the CMA[^c-332d6ce809863b8d71a1a75df72d57e1] in section 25(1) to (3), (6) and (8)[^c-cf3ba70b6984286759fa8e883f9e60ce] included references to the Secretary of State;
+- (g) the references to the CMA[^c-58bff20f8da5d42364278037ab58e095] in section 25(4) and (5) were references to the Secretary of State;
 - (h) the reference in section 25(4) to section 73 were a reference to paragraph 3 of Schedule 2 to this Order;
 - (i) after section 25(5) of the Act there were inserted—
 
-  > (5A) The Secretary of State may by notice to the persons carrying on the enterprises which have or may have ceased[^key-f798a01265e5f5a219e69fe2c63f7114] to be distinct enterprises extend the four month period mentioned in section 24(1)(a) or (2)(b) if, by virtue of article 5(7) of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 or paragraph 3(5) of Schedule 2 to that Order, he decides to delay a decision as to whether to make a reference under article 5 of that Order.
+  > (5A) The Secretary of State may by notice to the persons carrying on the enterprises which have or may have ceased[^c-f798a01265e5f5a219e69fe2c63f7114] to be distinct enterprises extend the four month period mentioned in section 24(1)(a) or (2)(b) if, by virtue of article 5(7) of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 or paragraph 3(5) of Schedule 2 to that Order, he decides to delay a decision as to whether to make a reference under article 5 of that Order.
   >
   > (5B) An extension under subsection (5A) shall be for the period of the delay.
 
   ;
 - (j) in section 25(10)(b) after word “(4)” there were inserted “ , (5A) ”;
-- (k) the reference in section 25(12) to one extension were a reference to one extension by the CMA[^key-0b90999a36ee14ebf1094bd8070513df] and one extension by the Secretary of State;
-- (l) the powers to extend time-limits under section 25 [^key-0b57966cd82e6ee468b2d330c6150d47]... were not exercisable by the CMA[^key-f1455eeac05b3079d5a1ac76bd29e413] or the Secretary of State before the giving of a European intervention notice;
+- (k) the reference in section 25(12) to one extension were a reference to one extension by the CMA[^c-0b90999a36ee14ebf1094bd8070513df] and one extension by the Secretary of State;
+- (l) the powers to extend time-limits under section 25 [^c-0b57966cd82e6ee468b2d330c6150d47]... were not exercisable by the CMA[^c-f1455eeac05b3079d5a1ac76bd29e413] or the Secretary of State before the giving of a European intervention notice;
 - (m) in section 26(1) the words “For the purposes of this Part” were omitted;
 - (n) in section 28(2) the words from “For the purposes” to “121(4)(c)(ii))” were omitted;
-- (o)[^key-1c413f55b21e6729ca8406e76a5ce4f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-1c413f55b21e6729ca8406e76a5ce4f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (p) in the case of the giving of European intervention notices, the references in sections 23 to 29 to the making of a reference or a reference were, so far as necessary, references to the giving of a European intervention notice or a European intervention notice; and
-- (q)[^key-ab7b33a2863c20eec542e32e068aefab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (q)[^c-ab7b33a2863c20eec542e32e068aefab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — ENFORCEMENT ACTION IN EUROPEAN INTERVENTION NOTICE CASES
 
 Article 13
 
-### 1. Pre-emptive ... orders[^key-f529ad0b5e94494c2a0eccf0aaeb980b][^key-045e13693f36d23e44423c6cd86f8738]
+### 1. Pre-emptive ... orders[^c-f529ad0b5e94494c2a0eccf0aaeb980b][^c-045e13693f36d23e44423c6cd86f8738]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -427,7 +427,7 @@ Article 13
 - (c) provide for the carrying on of any activities or the safeguarding of any assets either by the appointment of a person to conduct or supervise the conduct of any activities (on such terms and with such powers as may be specified or described in the order) or in any other manner;
 - (d) do anything which may be done by virtue of paragraph 19 of Schedule 8 to the Act.
 
-(2A)[^key-605ff27e68ef883db89f5ee59f34f0af] Sub-paragraph (2B) applies where—
+(2A)[^c-605ff27e68ef883db89f5ee59f34f0af] Sub-paragraph (2B) applies where—
 
 - (a) a European intervention notice is in force; and
 - (b) the Secretary of State has reasonable grounds for suspecting that pre-emptive action has or may have been taken.
@@ -444,26 +444,26 @@ Article 13
 - (a) shall come into force at such time as is determined by or under the order; and
 - (b) may be varied or revoked by another order.
 
-(4) An order which is in force under this paragraph in relation to a reference or possible reference under article 5 shall cease to be in force if an undertaking under paragraph [^key-d97b3ea62e236dc3d490392c689e46fc]... 3 comes into force in relation to that reference.
+(4) An order which is in force under this paragraph in relation to a reference or possible reference under article 5 shall cease to be in force if an undertaking under paragraph [^c-d97b3ea62e236dc3d490392c689e46fc]... 3 comes into force in relation to that reference.
 
 (5) An order under this paragraph shall, if it has not previously ceased to be in force, cease to be in force when the European intervention notice concerned ceases to be in force.
 
-(6) No order shall be made by the Secretary of State under this paragraph before the making of a reference under article 5 unless—[^key-6273e4b818bcf28bb44c8be31855db7e]
+(6) No order shall be made by the Secretary of State under this paragraph before the making of a reference under article 5 unless—[^c-6273e4b818bcf28bb44c8be31855db7e]
 
 - (a) the Secretary of State has reasonable grounds for suspecting that it is or may be the case that two or more enterprises have ceased to be distinct or that arrangements are in progress or in contemplation which, if carried into effect, will result in two or more enterprises ceasing to be distinct; or
 - (b) the order relates to a European relevant merger situation which has been, or may have been, created.
 
 (7) The Secretary of State shall, as soon as reasonably practicable, consider any representations received by her in relation to varying or revoking an order under this paragraph.
 
-(8)[^key-1ac1c30c5aeaf84c8cb6c466b1baefdd] In this paragraph “pre-emptive action” means action which might prejudice the reference or possible reference concerned under article 5 or impede the taking of any action under this Order which may be justified by the Secretary of State’s decisions on the reference.
+(8)[^c-1ac1c30c5aeaf84c8cb6c466b1baefdd] In this paragraph “pre-emptive action” means action which might prejudice the reference or possible reference concerned under article 5 or impede the taking of any action under this Order which may be justified by the Secretary of State’s decisions on the reference.
 
 ### 3. Undertakings in lieu of reference under article 5
 
-(1) Sub-paragraph (2) applies if the Secretary of State has power to make a reference to the CMA[^key-f230798f5f59062fbf597b6059570186] under article 5 and otherwise intends to make such a reference.
+(1) Sub-paragraph (2) applies if the Secretary of State has power to make a reference to the CMA[^c-f230798f5f59062fbf597b6059570186] under article 5 and otherwise intends to make such a reference.
 
 (2) The Secretary of State may, instead of making such a reference and for the purpose of remedying, mitigating or preventing any of the effects adverse to the public interest which have or may have resulted, or which may be expected to result, from the creation of the European relevant merger situation concerned accept from such of the parties concerned as she considers appropriate undertakings to take such action as she considers appropriate.
 
-(3) In proceeding under sub-paragraph (2), the Secretary of State shall, in particular, accept the decisions of the CMA[^key-0ebbcb3c80bb11fe8edbf1cee1f432ec] included in its report under article 4 so far as they relate to the matters mentioned in paragraphs (3)(a) and (4) of that article.
+(3) In proceeding under sub-paragraph (2), the Secretary of State shall, in particular, accept the decisions of the CMA[^c-0ebbcb3c80bb11fe8edbf1cee1f432ec] included in its report under article 4 so far as they relate to the matters mentioned in paragraphs (3)(a) and (4) of that article.
 
 (4) No undertaking shall be accepted by the Secretary of State under this paragraph in connection with a possible reference under article 5 if a public interest consideration mentioned in the European intervention notice concerned has not been finalised and the period of 24 weeks beginning with the giving of that notice has not expired.
 
@@ -489,7 +489,7 @@ Article 13
 - (a) the Secretary of State has accepted an undertaking or group of undertakings under paragraph 3; and
 - (b) the European relevant merger situation is the situation by reference to which the undertaking or group of undertakings was accepted.
 
-(2) Sub-paragraph (1) does not prevent the making of a reference if material facts about relevant arrangements or transactions, or relevant proposed arrangements or transactions, were not notified (whether in writing or otherwise) to the Secretary of State or the CMA[^key-631fca88d692f1da60c034e4822b7337] or made public before any undertaking concerned was accepted.
+(2) Sub-paragraph (1) does not prevent the making of a reference if material facts about relevant arrangements or transactions, or relevant proposed arrangements or transactions, were not notified (whether in writing or otherwise) to the Secretary of State or the CMA[^c-631fca88d692f1da60c034e4822b7337] or made public before any undertaking concerned was accepted.
 
 (3) For the purposes of sub-paragraph (2) arrangements or transactions, or proposed arrangements or transactions, are relevant if they are the ones in consequence of which the enterprises concerned ceased or may have ceased, or may cease, to be distinct enterprises.
 
@@ -498,7 +498,7 @@ Article 13
 **5.** (1) Sub-paragraph (2) applies where the Secretary of State considers that—
 
 - (a) an undertaking accepted by her under paragraph 3 has not been, is not being or will not be fulfilled; or
-- (b) in relation to an undertaking accepted by her under that paragraph, information which was false or misleading in a material respect was given to her or the CMA[^key-5f31329570b432667157dcaa2a211548] by the person giving the undertaking before she decided to accept the undertaking.
+- (b) in relation to an undertaking accepted by her under that paragraph, information which was false or misleading in a material respect was given to her or the CMA[^c-5f31329570b432667157dcaa2a211548] by the person giving the undertaking before she decided to accept the undertaking.
 
 (2) The Secretary of State may, for any of the purposes mentioned in paragraph 3(2), make an order under this paragraph.
 
@@ -514,7 +514,7 @@ Article 13
 - (a) shall come into force at such time as is determined by or under the order; and
 - (b) may contain provision which is different from the provision contained in the undertaking concerned.
 
-(6) No order shall be varied or revoked under this paragraph unless the CMA[^key-64b4a5fe587e680ecdb908ad934b7f51] advises that such a variation or revocation is appropriate by reason of a change of circumstances.
+(6) No order shall be varied or revoked under this paragraph unless the CMA[^c-64b4a5fe587e680ecdb908ad934b7f51] advises that such a variation or revocation is appropriate by reason of a change of circumstances.
 
 **6.** (1) Sub-paragraph (2) applies where—
 
@@ -546,7 +546,7 @@ Article 13
 (1) Sub-paragraphs (2) and (3) apply where—
 
 - (a) a reference has been made under article 5 but not finally determined; and
-- (b)[^key-ef4335373cc1a9bed0ec42280a549ee4] no orders under paragraph 2 are in force in relation to the European relevant merger situation concerned.
+- (b)[^c-ef4335373cc1a9bed0ec42280a549ee4] no orders under paragraph 2 are in force in relation to the European relevant merger situation concerned.
 
 (2) No relevant person shall, without the consent of the Secretary of State—
 
@@ -574,8 +574,8 @@ Article 13
 
 (8) For the purpose of this paragraph a reference under article 5 is finally determined if—
 
-- (a) the time within which the CMA[^key-d27c4d7d0731cfbf34d45c85b0fddcde] is to prepare a report under article 8 in relation to the reference and give it to the Secretary of State has expired and no such report has been so prepared and given;
-- (b) the CMA[^key-dac2e42ff80da20ed749a486d87f69c5] decides to cancel the reference under article 11(1);
+- (a) the time within which the CMA[^c-d27c4d7d0731cfbf34d45c85b0fddcde] is to prepare a report under article 8 in relation to the reference and give it to the Secretary of State has expired and no such report has been so prepared and given;
+- (b) the CMA[^c-dac2e42ff80da20ed749a486d87f69c5] decides to cancel the reference under article 11(1);
 - (c) the time within which the Secretary of State is to make and publish a decision under article 12(2) has expired and no such decision has been made and published;
 - (d) the Secretary of State decides under paragraph (2) of article 12 otherwise than as mentioned in paragraph (6) of that article;
 - (e) the Secretary of State decides under paragraph (2) of article 12 as mentioned in paragraph (6) of that article but decides neither to accept an undertaking under paragraph 9 of this Schedule nor to make an order under paragraph 11 of this Schedule; or
@@ -597,7 +597,7 @@ Article 13
 **8.** (1) Sub-paragraph (2) applies where—
 
 - (a) a reference has been made under article 5, and
-- (b)[^key-c9fffaa2b00b9d0baef58fc947a09514] no orders under paragraph 2 are in force in relation to the European relevant merger situation concerned.
+- (b)[^c-c9fffaa2b00b9d0baef58fc947a09514] no orders under paragraph 2 are in force in relation to the European relevant merger situation concerned.
 
 (2) No relevant person shall, without the consent of the Secretary of State, directly or indirectly acquire during the relevant period an interest in shares in a company if any enterprise to which the reference relates is carried on by or under the control of that company.
 
@@ -627,8 +627,8 @@ Article 13
 
 (7) For the purposes of the definition of “**relevant period**” in sub-paragraph (6), a reference under article 5 is finally determined if—
 
-- (a) the CMA[^key-5fda6bb6382a9947a29ad15cf4b016f7] cancels the reference under article 7(1) or article 11(1);
-- (b) the time within which the CMA[^key-9f78e8807c616931a0cfd6140198a298] is to prepare a report under article 8 in relation to the reference and give it to the Secretary of State has expired and no such report has been so prepared and given;
+- (a) the CMA[^c-5fda6bb6382a9947a29ad15cf4b016f7] cancels the reference under article 7(1) or article 11(1);
+- (b) the time within which the CMA[^c-9f78e8807c616931a0cfd6140198a298] is to prepare a report under article 8 in relation to the reference and give it to the Secretary of State has expired and no such report has been so prepared and given;
 - (c) the time within which the Secretary of State is to make and publish a decision under article 12(2) has expired and no such decision has been made and published;
 - (d) the Secretary of State decides under paragraph (2) of article 12 otherwise than as mentioned in paragraph (6) of that article;
 - (e) the Secretary of State decides under paragraph (2) of article 12 as mentioned in paragraph (6) of that article but decides neither to accept an undertaking under paragraph 9 of this Schedule nor to make an order under paragraph 11 of this Schedule; or
@@ -646,7 +646,7 @@ Article 13
 (10) In its application by virtue of sub-paragraph (9) section 79 shall have effect as if—
 
 - (a) subsections (1) and (2) were omitted; and
-- (b) for the reference in subsection (4) to the CMA[^key-b36e46a4c5341fff402fd45cbf515d03] there were substituted a reference to the Secretary of State.
+- (b) for the reference in subsection (4) to the CMA[^c-b36e46a4c5341fff402fd45cbf515d03] there were substituted a reference to the Secretary of State.
 
 ### 9. Final undertakings and orders
 
@@ -670,7 +670,7 @@ Article 13
 **10.** (1) Sub-paragraph (2) applies where the Secretary of State considers that—
 
 - (a) an undertaking accepted by her under paragraph 9 has not been, is not being or will not be fulfilled; or
-- (b) in relation to an undertaking accepted by her under that paragraph, information which was false or misleading in a material respect was given to her or the CMA[^key-9578ae02805a037201275eaeeccb4b51] by the person giving the undertaking before she decided to accept the undertaking.
+- (b) in relation to an undertaking accepted by her under that paragraph, information which was false or misleading in a material respect was given to her or the CMA[^c-9578ae02805a037201275eaeeccb4b51] by the person giving the undertaking before she decided to accept the undertaking.
 
 (2) The Secretary of State may, for any purpose mentioned in article 12(7), make an order under this paragraph.
 
@@ -686,7 +686,7 @@ Article 13
 - (a) shall come into force at such time as is determined by or under the order; and
 - (b) may contain provision which is different from the provision contained in the undertaking concerned.
 
-(6) No order shall be varied or revoked under this paragraph unless the CMA[^key-c6e9070c2dbd378ff4dca3edc23ef924] advises that such a variation or revocation is appropriate by reason of a change of circumstances.
+(6) No order shall be varied or revoked under this paragraph unless the CMA[^c-c6e9070c2dbd378ff4dca3edc23ef924] advises that such a variation or revocation is appropriate by reason of a change of circumstances.
 
 **11.** (1) The Secretary of State may, in accordance with article 12(7), make an order under this paragraph.
 
@@ -699,7 +699,7 @@ Article 13
 
 (4) No order shall be made under this paragraph in relation to a reference under article 5 if an undertaking has been accepted under paragraph 9 in relation to that reference.
 
-(5) No order shall be varied or revoked under this paragraph unless the CMA[^key-597522adb218bf26ee4d9aa618e824c8] advises that such a variation or revocation is appropriate by reason of a change of circumstances.
+(5) No order shall be varied or revoked under this paragraph unless the CMA[^c-597522adb218bf26ee4d9aa618e824c8] advises that such a variation or revocation is appropriate by reason of a change of circumstances.
 
 ## SCHEDULE 3 — OTHER PROVISIONS OF THE ACT APPLICABLE TO THE ORDER
 
@@ -707,26 +707,26 @@ Article 15
 
 **1.** (1) The following sections of Part 3 of the Act shall apply, with the modifications mentioned in sub-paragraphs (2) to (27) below, for the purposes of this Order—
 
-- (a)[^key-3bc070481a4425f0bf9c6521811c7ef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3bc070481a4425f0bf9c6521811c7ef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 86 (enforcement orders: general provisions);
 - (c) section 87 (delegated power of directions);
 - (d) section 88 (contents of certain enforcement orders);
 - (e) section 89 (subject-matter of undertakings);
 - (f) section 91 (register of undertakings and orders);
-- (g) section 92 (duty of CMA[^key-def83f74cc0cd3251d44daba375cdcc9] to monitor undertakings and orders);
-- (h) section 93 (further role of CMA[^key-6259f225e482fae591daeb7c43e57f74] in relation to undertakings and orders);
+- (g) section 92 (duty of CMA[^c-def83f74cc0cd3251d44daba375cdcc9] to monitor undertakings and orders);
+- (h) section 93 (further role of CMA[^c-6259f225e482fae591daeb7c43e57f74] in relation to undertakings and orders);
 - (i) section 94 (rights to enforce undertakings and orders);
-- (ia)[^key-8ee5cb12d09b8859cf0ebede536a721b] section 94A (interim undertakings and orders: penalties);
+- (ia)[^c-8ee5cb12d09b8859cf0ebede536a721b] section 94A (interim undertakings and orders: penalties);
 - (j) section 95 (rights to enforce statutory restrictions);
 - (k) section 103 (duty of expedition in relation to references);
 - (l) section 104 (certain duties of relevant authorities to consult);
-- (la)[^key-5c125a333e323d784b337e3844617fc9] section 104A (public consultation in relation to media mergers);
-- (m) section 105 (general information duties of CMA[^key-cd1d7e84d29df9316737e87b21deb71a]);
-- (ma)[^key-ad55e07b53e228f743ca6e27e8ee8142] section 106B (general advisory functions of OFCOM);
+- (la)[^c-5c125a333e323d784b337e3844617fc9] section 104A (public consultation in relation to media mergers);
+- (m) section 105 (general information duties of CMA[^c-cd1d7e84d29df9316737e87b21deb71a]);
+- (ma)[^c-ad55e07b53e228f743ca6e27e8ee8142] section 106B (general advisory functions of OFCOM);
 - (n) section 108 (defamation);
 - (o) section 109 (attendance of witnesses and production of documents etc.);
 - (p) section 110 (enforcement of powers under section 109: general);
-- (pa)[^key-7360bfa78bcacc142d6f475e3cab4628] section 110A (restriction on powers to impose penalties under section 110);
+- (pa)[^c-7360bfa78bcacc142d6f475e3cab4628] section 110A (restriction on powers to impose penalties under section 110);
 - (pb) section 110B (section 110A: supplemental provision);
 - (q) section 111 (penalties);
 - (r) section 112 (penalties: main procedural requirements);
@@ -736,8 +736,8 @@ Article 15
 - (v) section 116 (statement of policy);
 - (w) section 117 (false or misleading information);
 - (x) section 118 (excisions from reports);
-- (y) section 119 (minority reports of CMA[^key-24a2a8a1d0625708be14fa8481d2a341]);
-- (ya)[^key-beefc825bf5c65d9968b630a376a5d31] section 119A (other general functions of OFCOM);
+- (y) section 119 (minority reports of CMA[^c-24a2a8a1d0625708be14fa8481d2a341]);
+- (ya)[^c-beefc825bf5c65d9968b630a376a5d31] section 119A (other general functions of OFCOM);
 - (z) section 120 (review of decisions under Part 3);
 - (aa) section 124 (orders and regulations under Part 3);
 - (bb) section 125 (offences by bodies corporate);
@@ -746,7 +746,7 @@ Article 15
 - (ee) section 128 (supply of services and market for services etc.); and
 - (ff) section 129 (other interpretation provisions).
 
-(2)[^key-13d8bc058b6d57537720fb93d2140a09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-13d8bc058b6d57537720fb93d2140a09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Section 86 shall apply as if—
 
@@ -762,24 +762,24 @@ Article 15
 
 (5) Section 89 shall apply as if in subsection (2)—
 
-- (a) the words from “section 73[^key-ddefb270a8f43f6f5d6fbe106681c74f]” to “under”, where it appears for the second time, were omitted; and
+- (a) the words from “section 73[^c-ddefb270a8f43f6f5d6fbe106681c74f]” to “under”, where it appears for the second time, were omitted; and
 - (b) for the words “Schedule 7” there were substituted “ Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”.
 
 (6) Section 91 shall apply as if—
 
 - (a) in subsections (1), (3)(a) and (b) for the words “this Part” there were substituted “ the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”;
 - (b) in subsection (3)(d)—
-  - (i) the words from “by the CMA[^key-78921a1cd120858ef6d8eaf7e456a08e]” to “78(2) or” were omitted; and
+  - (i) the words from “by the CMA[^c-78921a1cd120858ef6d8eaf7e456a08e]” to “78(2) or” were omitted; and
   - (ii) for the words “Schedule 7” there were substituted “ Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”; and
-- (c)[^key-a4d82e8567b15933b8f67584d4d88e01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a4d82e8567b15933b8f67584d4d88e01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Section 92 shall apply as if—
 
 - (a) in subsections (1)(b), (3)(f) and (4)(f)—
   - (i) the words from “in sections 77(2)” to “78(2) and” were omitted; and
   - (ii) for the words “Schedule 7” there were substituted “ Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”;
-- (b)[^key-fc42d75aad40df22b8ce036466355b0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-fc42d75aad40df22b8ce036466355b0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-fc42d75aad40df22b8ce036466355b0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fc42d75aad40df22b8ce036466355b0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in subsection (3)(e) for the word “to” there were substituted “ and ”;
 - (e) in subsection (3)(f) the words “(4) and” were omitted;
 - (f) subsections (4)(a) to (d) were omitted; and
@@ -787,18 +787,18 @@ Article 15
 
 (8) Section 93 shall apply as if—
 
-- (a)[^key-769947b2957317432b64e9eeb18bec14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-769947b2957317432b64e9eeb18bec14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsections (1)(b), (2) and (4) for the words “Schedule 7” there were substituted “ Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”;
-- (c)[^key-06f67cdcfd8c71a127b8ac9ffd99af0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-2547e46943b05b89f7f88dc7c996b121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-06f67cdcfd8c71a127b8ac9ffd99af0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2547e46943b05b89f7f88dc7c996b121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Section 94 shall apply as if—
 
-- (a)[^key-30e44af66c451d66bccb2a4a781820f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-30e44af66c451d66bccb2a4a781820f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (8) for the words “Schedule 7” there were substituted “ Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”;
 - (c) in subsection (9) for the words “to (8)” there were substituted “ and (8) ”.
 
-(9A)[^key-c4c69fe3ec9bc97a962f27658988e0d8] Section 94A shall apply as if—
+(9A)[^c-c4c69fe3ec9bc97a962f27658988e0d8] Section 94A shall apply as if—
 
 - (a) in subsection (1)—
   - (i) for the words “the appropriate authority” there were substituted “the Secretary of State”; and
@@ -826,21 +826,21 @@ Article 15
 (12) Section 104 shall apply as if—
 
 - (a) in subsection (5) for the words “this Part” there were substituted “ the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”;
-- (b)[^key-4dc1f146b266935d9e05f88f328911df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-a0b282adb2cb3ea35dc67c34569b1454] for paragraph (a) in the definition of “relevant decision” there were substituted—
+- (b)[^c-4dc1f146b266935d9e05f88f328911df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a0b282adb2cb3ea35dc67c34569b1454] for paragraph (a) in the definition of “relevant decision” there were substituted—
 
   > - (a) in the case of the CMA, any decision by the CMA on the questions mentioned in article 6 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003;
 
   ;
-- (d)[^key-745d4e9f608a0b767ca47a0a62dac1ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-745d4e9f608a0b767ca47a0a62dac1ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in paragraph (c)(i) in the definition of “relevant decision” in subsection (6), for the words “section 45 or 62” there were substituted “ article 5 of the Enterprise Act 2002 (Protection of Legitimate Interests Order) 2003 ”; and
 - (f) in paragraph (c)(ii) in the definition of “relevant decision” in subsection (6), for the words “section 49 or (as the case may be) 64” there were substituted “ article 7 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”.
 
-(12A)[^key-4d0503867adb74bb1f6e1ac74e21d4b4] Section 104A shall apply as if—
+(12A)[^c-4d0503867adb74bb1f6e1ac74e21d4b4] Section 104A shall apply as if—
 
 - (a) for the words in subsection (1) there were substituted—
 
-  > (1) Subsection (2) applies where the CMA[^key-ceba3ae3f183d0963d9b6c349ada40fe] is preparing a report under article 5 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 which specifies a media public interest consideration.
+  > (1) Subsection (2) applies where the CMA[^c-ceba3ae3f183d0963d9b6c349ada40fe] is preparing a report under article 5 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 which specifies a media public interest consideration.
 
   ; and
 - (b) in subsection (2) the words “or special merger situation” were omitted.
@@ -850,17 +850,17 @@ Article 15
 - (a) in subsection (1)—
   - (i) for the words from “so as to enable” to “44 or 61” there were substituted “ so as to make a report under article 4 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”; and
   - (ii) for the words from “relevant merger situation” to the end of that subsection there were substituted “ European relevant merger situation concerned ”;
-- (ab)[^key-ee7a5f7166a427ac1eb7f98def5c103c] in subsection (1A) for the words “section 44A or 61A” there were substituted “article 4A of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003”.
+- (ab)[^c-ee7a5f7166a427ac1eb7f98def5c103c] in subsection (1A) for the words “section 44A or 61A” there were substituted “article 4A of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003”.
 - (b) subsection (2) were omitted; and
 - (c) in subsections (3)(a) and (3)(b), (4), (5)(a) and (5)(b) and (6) for the words “this Part” there were substituted “ the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”.
 
-(13A)[^key-93f490a178a4dd44a6d0196156773a64] Section 106B shall apply as if—
+(13A)[^c-93f490a178a4dd44a6d0196156773a64] Section 106B shall apply as if—
 
 - (a) for the words in subsection (1) there were substituted—
 
   > (1) OFCOM may, in connection with any case on which they are required to give a report by virtue of article 4A of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003, give such advice as they consider appropriate to the Secretary of State in relation to—
   >
-  > - (a) any report made by the CMA[^key-a401166a6a94ccca2a54432b5943d52a] under article 8 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003; and
+  > - (a) any report made by the CMA[^c-a401166a6a94ccca2a54432b5943d52a] under article 8 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003; and
   > - (b) the taking by the Secretary of State of enforcement action under Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003
 
   ;
@@ -869,7 +869,7 @@ Article 15
 
 (14) Section 108 shall apply as if for the words “this Part” there were substituted “ the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”.
 
-(15)[^key-cec88cec2856ce5758aa83ad04438bd0] Section 109 shall apply as if—
+(15)[^c-cec88cec2856ce5758aa83ad04438bd0] Section 109 shall apply as if—
 
 - (a) for subsection (A1) there were substituted—
 
@@ -883,7 +883,7 @@ Article 15
 
 (16) Section 110 shall apply as if in subsections (2) and (9) for the words from “section 39(4)” to “65(3))” there were substituted “ article 9(3) of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”.
 
-(16A)[^key-795eef60a6dc030dee9d8295ec60a2a9] Section 110A shall apply as if—
+(16A)[^c-795eef60a6dc030dee9d8295ec60a2a9] Section 110A shall apply as if—
 
 - (a) subsections (5) and (6) were omitted;
 - (b) in subsections (7) and (8)—
@@ -907,20 +907,20 @@ Article 15
 
   .
 
-(17)[^key-1f48106a0ba29be3c2e288b85270c661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-1f48106a0ba29be3c2e288b85270c661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (18) Section 117 shall apply as if in subsections (1)(a) and (2) for the words “this Part” there were substituted “ the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”.
 
 (19) Section 118 shall apply as if—
 
 - (a) in subsection (1)(a) for the words “section 44 or 61” there were substituted “ article 4 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”;
-- (aa)[^key-525e69779a606427ef317e929af5d538] in subsection (1)(aa) for the words “section 44A or 61A” there were substituted “article 4A of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003”;
+- (aa)[^c-525e69779a606427ef317e929af5d538] in subsection (1)(aa) for the words “section 44A or 61A” there were substituted “article 4A of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003”;
 - (b) in subsection (1)(b) for the words “section 50 or 65” there were substituted “ article 8 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”; and
 - (c) in subsection (5) for the words “sections 38(4) and 107(11)” there were substituted “ article 14(8) of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”.
 
 (20) Section 119 shall apply as if in subsection (1) for the words “this Part”, in both places where they appear, there were substituted “ the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”.
 
-(20A)[^key-fedd1c941fa533567756328f396018d9] Section 119A shall apply as if in subsections (1) and (4) for the words “this Part” there were substituted “the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003”.
+(20A)[^c-fedd1c941fa533567756328f396018d9] Section 119A shall apply as if in subsections (1) and (4) for the words “this Part” there were substituted “the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003”.
 
 (21) Section 120 shall apply as if—
 
@@ -933,7 +933,7 @@ Article 15
 - (b) subsections (3) and (4) and (6) to (10) were omitted; and
 - (c) for subsection (5) there were substituted—
 
-  > (5) An order made by the Secretary of State under section 28, 94A(3) or (6),[^key-d3ced9ff43d1429ce5d04a99fbdcaecf] 111(4) or (6) or 114(3)(b) or (4)(b) as applied by the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003, or under Schedule 2 to that Order shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+  > (5) An order made by the Secretary of State under section 28, 94A(3) or (6),[^c-d3ced9ff43d1429ce5d04a99fbdcaecf] 111(4) or (6) or 114(3)(b) or (4)(b) as applied by the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003, or under Schedule 2 to that Order shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
   .
 
@@ -957,9 +957,9 @@ Article 15
 - (a) in paragraph 1 for the words “this Part and Part 4” there were substituted “ the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”;
 - (b) in paragraph 14—
   - (i) the words “an order under section 75, 83, 84, 160 or 161, or” were omitted; and
-  - (ii) for the words “Schedule 7” there were substituted “ Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”; [^key-47bb04784b20fc4dd65e79313247034d]...
-- (ba)[^key-9b73adf06b8a9005c1ead53f171f4975] in paragraph 20A(1)(a) for the words “intervention notice” there were substituted “European intervention notice” and in paragraph 20A(1)(a)(ii) for the words “relevant merger situation” there were substituted “European relevant merger situation”; [^key-db0cadba1d283185b53003e3f7942acd]...
-- (bb)[^key-9794985e5e9164c031beac39b8fcdafe] in paragraph 20BA—
+  - (ii) for the words “Schedule 7” there were substituted “ Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”; [^c-47bb04784b20fc4dd65e79313247034d]...
+- (ba)[^c-9b73adf06b8a9005c1ead53f171f4975] in paragraph 20A(1)(a) for the words “intervention notice” there were substituted “European intervention notice” and in paragraph 20A(1)(a)(ii) for the words “relevant merger situation” there were substituted “European relevant merger situation”; [^c-db0cadba1d283185b53003e3f7942acd]...
+- (bb)[^c-9794985e5e9164c031beac39b8fcdafe] in paragraph 20BA—
   - (i) in sub-paragraph (1) for the words “Schedule 7” there were substituted “Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003” and for the words “this Part or Part 4” there were substituted “the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003”; and
   - (ii) in sub-paragraph (5)(a) for the words “an intervention notice or special intervention notice” there were substituted “a European intervention notice”; and
 - (c) in paragraph 24 for paragraphs (a) to (c) there were substituted “ the Secretary of State ”.
@@ -972,7 +972,7 @@ Article 15
 - (b) in paragraphs 1(b) and 6(b)—
   - (i) the words “section 75, 83 or 84 or” were omitted; and
   - (ii) for the words “Schedule 7” there were substituted “ Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003 ”; and
-- (c) in paragraph 2(1) the words “the[^key-5447dc0805f04fa2025170a30288c7b8] CMA or (as the case may be)” were omitted.
+- (c) in paragraph 2(1) the words “the[^c-5447dc0805f04fa2025170a30288c7b8] CMA or (as the case may be)” were omitted.
 
 **3.** Section 243(1) of the Act (overseas disclosures) shall not apply to information which comes to a public authority in connection with an investigation under this Order.
 
@@ -998,15 +998,15 @@ Article 16
 - (d) the reference in subsection (6) to section 66 of the Enterprise Act 2002 shall have effect as if it included a reference to article 12 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003; and
 - (e) the reference in subsection (7) to Part 3 shall have effect as if it included a reference to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003.
 
-(2) In section 53(2) of the Patents Act 1977 (statements in certain reports of the Competition and Markets Authority[^key-4e01190c6080c7d5a8ea3165c41750ea] to be prima facie evidence of the matters stated) the reference to Part 3 shall have effect as if it included a reference to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003.
+(2) In section 53(2) of the Patents Act 1977 (statements in certain reports of the Competition and Markets Authority[^c-4e01190c6080c7d5a8ea3165c41750ea] to be prima facie evidence of the matters stated) the reference to Part 3 shall have effect as if it included a reference to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003.
 
 **4.** In section 95 of the Telecommunications Act 1984 (modification of licence conditions by order), the reference in subsection (2)(a) to paragraph 5, 10 or 11 of Schedule 7 to the Enterprise Act 2002 shall have effect as if it included a reference to paragraph 5, 10 or 11 of Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003.
 
-**5.**[^key-2d2be65a201c66bd2213803420e0e699] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2d2be65a201c66bd2213803420e0e699] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In section 27 of the Gas Act 1986 (modification of licence conditions by order), the reference in subsection (1ZA)(a) to paragraph 5, 10 or 11 of Schedule 7 to the Enterprise Act 2002 shall have effect as if it included a reference to paragraph 5, 10 or 11 of Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003.
 
-**7.** (1) In section 144 of the Copyright, Design and Patents Act 1988 (powers exercisable in consequence of report of Competition and Markets Authority[^key-bebc8412eab7fde3afd004c41f96fb24])—
+**7.** (1) In section 144 of the Copyright, Design and Patents Act 1988 (powers exercisable in consequence of report of Competition and Markets Authority[^c-bebc8412eab7fde3afd004c41f96fb24])—
 
 - (a) the reference in subsection (1) to—
   - (i) section 66(6) of the Enterprise Act 2002 shall have effect as if it included a reference to article 12(7) of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003; and
@@ -1039,7 +1039,7 @@ Article 16
 
 (2) In section 66 of the Railways Act 1993 (amendments to the Fair Trading Act 1973), the reference in subsection (3) to Part 3 of the Enterprise Act 2002 shall have effect as if it included a reference to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003.
 
-**13.**[^key-e7532f67e87601fdb720b1b4519d6fb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e7532f67e87601fdb720b1b4519d6fb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** In article 18 of the Gas (Northern Ireland) Order 1996 (modification of licence conditions by order), the reference in paragraph (1A)(a) to paragraph 5, 10 or 11 of Schedule 7 to the Enterprise Act 2002 shall have effect as if it included a reference to paragraph 5, 10 or 11 of Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003.
 
@@ -1048,15 +1048,15 @@ Article 16
 - (a) the reference in paragraph 5(a) and (b) to section 62 of the Enterprise Act 2002 shall have effect as if it included a reference to article 5 of the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003; and
 - (b) the reference in paragraph 5(b) to a special merger situation shall have effect as if it included a reference to a European relevant merger situation.
 
-(2)[^key-c8a02eb319a71aa3fed6bb4415c9eadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c8a02eb319a71aa3fed6bb4415c9eadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c8a02eb319a71aa3fed6bb4415c9eadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c8a02eb319a71aa3fed6bb4415c9eadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** In section 21 of the Postal Services Act 2000 (modification of licence conditions by order), the reference in subsection (2)(a) to paragraph 5, 10 or 11 of Schedule 7 to the Enterprise Act 2002 shall have effect as if it included a reference to paragraph 5, 10 or 11 of Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003.
 
 **17.** In section 19 of the Transport Act 2000 (modification of licence conditions by order), the reference in subsection (2)(a) to paragraph 5, 10 or 11 of Schedule 7 to the Enterprise Act 2002 shall have effect as if it included a reference to paragraph 5, 10 or 11 of Schedule 2 to the Enterprise Act 2002 (Protection of Legitimate Interests) Order 2003.
 
-### 18. Enterprise and Regulatory Reform Act 2013 (c. 24)[^key-879712f0e27de78afbc5f73a50ea3f62]
+### 18. Enterprise and Regulatory Reform Act 2013 (c. 24)[^c-879712f0e27de78afbc5f73a50ea3f62]
 
 In Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (the Competition and Markets Authority)—
 
@@ -1086,268 +1086,268 @@ The Order follows the procedures set out in the public interest and special publ
 
 [^c5051221]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-0b4d0a1b76bbb285bb39bf9c4bcbea09]: Modification: [Order](https://www.legislation.gov.uk/uksi/2003/1592) continued (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/25); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b4d0a1b76bbb285bb39bf9c4bcbea09]: Modification: [Order](https://www.legislation.gov.uk/uksi/2003/1592) continued (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/25); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cdc148d7021772332d65bf5958b2cb15]: Textual amendment: Word in [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1592/article/1/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [3](https://www.legislation.gov.uk/uksi/2014/891/article/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-cdc148d7021772332d65bf5958b2cb15]: Textual amendment: Word in [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1592/article/1/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [3](https://www.legislation.gov.uk/uksi/2014/891/article/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-6f28e0ef05996a08b1626523398a6470]: Textual amendment: Words in art. 1 inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/2)
+[^c-6f28e0ef05996a08b1626523398a6470]: Textual amendment: Words in art. 1 inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/2)
 
-[^key-abc58af349780bfba4e33fdf7c0d07b8]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2003/1592/article/3/2/a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/891/article/4/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-abc58af349780bfba4e33fdf7c0d07b8]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2003/1592/article/3/2/a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/891/article/4/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-3032e3f11de078fb3e99b6706d5b0a79]: Textual amendment: Words in art. 3(2)(a) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/3/a)
+[^c-3032e3f11de078fb3e99b6706d5b0a79]: Textual amendment: Words in art. 3(2)(a) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(3)(a)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/3/a)
 
-[^key-d582359874e7f55dcc801c0121a66c3e]: Textual amendment: Words in art. 3(2)(a) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(3)(b)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/3/b)
+[^c-d582359874e7f55dcc801c0121a66c3e]: Textual amendment: Words in art. 3(2)(a) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(3)(b)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/3/b)
 
-[^key-b9c3331ef4e8b6596c3423ae25372261]: Textual amendment: Word in [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2003/1592/article/3/2/d) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/891/article/4/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-b9c3331ef4e8b6596c3423ae25372261]: Textual amendment: Word in [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2003/1592/article/3/2/d) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/891/article/4/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-85b542a80b119fa87d3285b73ff7c9ff]: Textual amendment: Word in [art. 3(2)(e)](https://www.legislation.gov.uk/uksi/2003/1592/article/3/2/e) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/891/article/4/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-85b542a80b119fa87d3285b73ff7c9ff]: Textual amendment: Word in [art. 3(2)(e)](https://www.legislation.gov.uk/uksi/2003/1592/article/3/2/e) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/891/article/4/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-5d737471745b82c8e7ad4e64510aa8ab]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2003/1592/article/4) heading substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/891/article/5/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-5d737471745b82c8e7ad4e64510aa8ab]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2003/1592/article/4) heading substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/891/article/5/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-2943c39b22a0e9a7d01e54495a9aa125]: Textual amendment: Word in [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-2943c39b22a0e9a7d01e54495a9aa125]: Textual amendment: Word in [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-642580f9e40f9465c20d56ea9f3c70a6]: Textual amendment: Word in [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/3) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-642580f9e40f9465c20d56ea9f3c70a6]: Textual amendment: Word in [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/3) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-7fcfee9282fac27dd2cdfd8d208b0712]: Textual amendment: Words in art. 4(3)(b) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/4/a)
+[^c-7fcfee9282fac27dd2cdfd8d208b0712]: Textual amendment: Words in art. 4(3)(b) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/4/a)
 
-[^key-6ea85e55e7b84888d853d3e43a7bbad2]: Textual amendment: Word in [art. 4(4)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/4) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-6ea85e55e7b84888d853d3e43a7bbad2]: Textual amendment: Word in [art. 4(4)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/4) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-362923a4683f8a9e8c3e7288af50b1b6]: Textual amendment: Art. 4(4A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(4)(b)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/4/b)
+[^c-362923a4683f8a9e8c3e7288af50b1b6]: Textual amendment: Art. 4(4A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(4)(b)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/4/b)
 
-[^key-ab1c528777297c4a297b7c3d85b969dd]: Textual amendment: Word in [art. 4(4A)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/4A) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-ab1c528777297c4a297b7c3d85b969dd]: Textual amendment: Word in [art. 4(4A)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/4A) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-bb519d3e9af5538e3fcd94660aba8c18]: Textual amendment: Word in [art. 4(6)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-bb519d3e9af5538e3fcd94660aba8c18]: Textual amendment: Word in [art. 4(6)](https://www.legislation.gov.uk/uksi/2003/1592/article/4/6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/891/article/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-647d5895399a4deefad4f60aa4cd6e8a]: Textual amendment: Art. 4A inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(5)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/5)
+[^c-647d5895399a4deefad4f60aa4cd6e8a]: Textual amendment: Art. 4A inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(5)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/5)
 
-[^key-b36b9b94af351e4228900dd0ad114e61]: Textual amendment: Word in [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/article/5/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2014/891/article/6/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-b36b9b94af351e4228900dd0ad114e61]: Textual amendment: Word in [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/article/5/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2014/891/article/6/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-894c96ee1fb6bd75747a3515e46a755f]: Textual amendment: Words in art. 5(1)(b) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(6)(a)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/6/a)
+[^c-894c96ee1fb6bd75747a3515e46a755f]: Textual amendment: Words in art. 5(1)(b) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(6)(a)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/6/a)
 
-[^key-e57054668fe59116b97c8f3ca13bcfb1]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2003/1592/article/5/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2014/891/article/6/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-e57054668fe59116b97c8f3ca13bcfb1]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2003/1592/article/5/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2014/891/article/6/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-c7a031ce3c2edf2434542e3ab97409a0]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2003/1592/article/5/3) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2014/891/article/6/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-c7a031ce3c2edf2434542e3ab97409a0]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2003/1592/article/5/3) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2014/891/article/6/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-b5bcc4bbc0453623e6d3e46513a420b4]: Textual amendment: Words in art. 5(4) revoked (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(6)(b)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/6/b)
+[^c-b5bcc4bbc0453623e6d3e46513a420b4]: Textual amendment: Words in art. 5(4) revoked (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(6)(b)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/6/b)
 
-[^key-ef307f4f6a4850262fcaa9ba4b4ab8e6]: Textual amendment: Word in [art. 5(5)](https://www.legislation.gov.uk/uksi/2003/1592/article/5/5) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2014/891/article/6/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-ef307f4f6a4850262fcaa9ba4b4ab8e6]: Textual amendment: Word in [art. 5(5)](https://www.legislation.gov.uk/uksi/2003/1592/article/5/5) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2014/891/article/6/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-038e1f09d85c4a0755ad4b648500ae46]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2003/1592/article/5A) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [7](https://www.legislation.gov.uk/uksi/2014/891/article/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-038e1f09d85c4a0755ad4b648500ae46]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2003/1592/article/5A) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [7](https://www.legislation.gov.uk/uksi/2014/891/article/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-45fdc8400e1c6daecd3dc98b74a915ea]: Textual amendment: Word in art. 6 substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [8](https://www.legislation.gov.uk/uksi/2014/891/article/8) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-45fdc8400e1c6daecd3dc98b74a915ea]: Textual amendment: Word in art. 6 substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [8](https://www.legislation.gov.uk/uksi/2014/891/article/8) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-4f7c7cb5ac84e6e1e91af13cb25d7396]: Textual amendment: Word in art. 7(1)-(4) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2014/891/article/9/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-4f7c7cb5ac84e6e1e91af13cb25d7396]: Textual amendment: Word in art. 7(1)-(4) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2014/891/article/9/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-dd3f5ad12cec891558f84467f22e9bd9]: Textual amendment: Words in art. 7(3) substituted (21.7.2020) by [The Enterprise Act 2002 (Turnover Test) (Amendment) Order 2020 (S.I. 2020/763)](https://www.legislation.gov.uk/uksi/2020/763), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/763/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/763/article/3); [S.I. 2020/748](https://www.legislation.gov.uk/uksi/2020/748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/748/article/1/2)
+[^c-dd3f5ad12cec891558f84467f22e9bd9]: Textual amendment: Words in art. 7(3) substituted (21.7.2020) by [The Enterprise Act 2002 (Turnover Test) (Amendment) Order 2020 (S.I. 2020/763)](https://www.legislation.gov.uk/uksi/2020/763), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/763/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/763/article/3); [S.I. 2020/748](https://www.legislation.gov.uk/uksi/2020/748), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/748/article/1/2)
 
-[^key-edfad7271aae6c1a30925a5faa8e7819]: Textual amendment: Word in art. 7(5) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/9/b/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-edfad7271aae6c1a30925a5faa8e7819]: Textual amendment: Word in art. 7(5) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/9/b/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-031ecb6128e5f9b00c81ea9e9a21507b]: Textual amendment: Word in art. 7(5) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/9/b/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-031ecb6128e5f9b00c81ea9e9a21507b]: Textual amendment: Word in art. 7(5) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/9/b/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-6bd4665a5ee646cfcceed4336f53eb52]: Textual amendment: Words in art. 7(6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(c)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/9/c/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-6bd4665a5ee646cfcceed4336f53eb52]: Textual amendment: Words in art. 7(6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(c)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/9/c/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-66f6315c73fb7032fc6fa0fc6403deec]: Textual amendment: Word in art. 7(6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(c)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/9/c/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-66f6315c73fb7032fc6fa0fc6403deec]: Textual amendment: Word in art. 7(6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(c)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/9/c/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-cbb28f3711481ac50244b4ccb61ef61a]: Textual amendment: Words in art. 7(7) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(d)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/9/d/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-cbb28f3711481ac50244b4ccb61ef61a]: Textual amendment: Words in art. 7(7) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(d)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/9/d/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-f7742ed259a507c34e5e4d91bae7f18f]: Textual amendment: Words in art. 7(7) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(d)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/9/d/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-f7742ed259a507c34e5e4d91bae7f18f]: Textual amendment: Words in art. 7(7) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(d)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/9/d/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-519983d99b3c1c28ea4d0caab81a6731]: Textual amendment: Words in art. 7(7) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(d)(iii)](https://www.legislation.gov.uk/uksi/2014/891/article/9/d/iii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-519983d99b3c1c28ea4d0caab81a6731]: Textual amendment: Words in art. 7(7) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(d)(iii)](https://www.legislation.gov.uk/uksi/2014/891/article/9/d/iii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-920703b752d58b6ff0c9c14724ab92fa]: Textual amendment: Word in art. 7(9)-(11) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(e)](https://www.legislation.gov.uk/uksi/2014/891/article/9/e) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-920703b752d58b6ff0c9c14724ab92fa]: Textual amendment: Word in art. 7(9)-(11) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [9(e)](https://www.legislation.gov.uk/uksi/2014/891/article/9/e) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-fde86d07396cb916edca98d7318d6bf5]: Textual amendment: Word in [art. 8](https://www.legislation.gov.uk/uksi/2003/1592/article/8) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [10](https://www.legislation.gov.uk/uksi/2014/891/article/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-fde86d07396cb916edca98d7318d6bf5]: Textual amendment: Word in [art. 8](https://www.legislation.gov.uk/uksi/2003/1592/article/8) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [10](https://www.legislation.gov.uk/uksi/2014/891/article/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-2acfaf9d7896cd508bd761bf8704035b]: Textual amendment: Art. 8(2A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(7)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/7)
+[^c-2acfaf9d7896cd508bd761bf8704035b]: Textual amendment: Art. 8(2A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(7)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/7)
 
-[^key-b57ef42e74c80094bd9b95f2dcff1d3c]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2003/1592/article/9) heading substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [11(b)](https://www.legislation.gov.uk/uksi/2014/891/article/11/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-b57ef42e74c80094bd9b95f2dcff1d3c]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2003/1592/article/9) heading substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [11(b)](https://www.legislation.gov.uk/uksi/2014/891/article/11/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-43ac42c663e724335135d4f0b78a9740]: Textual amendment: Word in [art. 9(1)-(3)](https://www.legislation.gov.uk/uksi/2003/1592/article/9/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2014/891/article/11/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-43ac42c663e724335135d4f0b78a9740]: Textual amendment: Word in [art. 9(1)-(3)](https://www.legislation.gov.uk/uksi/2003/1592/article/9/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2014/891/article/11/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-c7e2230bb769850eb2c89154c7728c77]: Textual amendment: Word in [art. 9(7)](https://www.legislation.gov.uk/uksi/2003/1592/article/9/7) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2014/891/article/11/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-c7e2230bb769850eb2c89154c7728c77]: Textual amendment: Word in [art. 9(7)](https://www.legislation.gov.uk/uksi/2003/1592/article/9/7) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2014/891/article/11/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-fe2b539d7653609dbf0872ea998b7fc9]: Textual amendment: Word in [art. 11](https://www.legislation.gov.uk/uksi/2003/1592/article/11) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [12](https://www.legislation.gov.uk/uksi/2014/891/article/12) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-fe2b539d7653609dbf0872ea998b7fc9]: Textual amendment: Word in [art. 11](https://www.legislation.gov.uk/uksi/2003/1592/article/11) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [12](https://www.legislation.gov.uk/uksi/2014/891/article/12) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-e5e0113d32f17ed3212e60d557eab071]: Textual amendment: Word in [art. 12(1)-(5)](https://www.legislation.gov.uk/uksi/2003/1592/article/12/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [13](https://www.legislation.gov.uk/uksi/2014/891/article/13) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-e5e0113d32f17ed3212e60d557eab071]: Textual amendment: Word in [art. 12(1)-(5)](https://www.legislation.gov.uk/uksi/2003/1592/article/12/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [13](https://www.legislation.gov.uk/uksi/2014/891/article/13) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-5ea0dd57340faf767fc21d0dfa928a30]: Textual amendment: Word in [art. 12(8)](https://www.legislation.gov.uk/uksi/2003/1592/article/12/8) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [13](https://www.legislation.gov.uk/uksi/2014/891/article/13) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-5ea0dd57340faf767fc21d0dfa928a30]: Textual amendment: Word in [art. 12(8)](https://www.legislation.gov.uk/uksi/2003/1592/article/12/8) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [13](https://www.legislation.gov.uk/uksi/2014/891/article/13) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-a6b644fa9f4c20e48cd4a2bc3567519d]: Textual amendment: Word in [art. 13(2)](https://www.legislation.gov.uk/uksi/2003/1592/article/13/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [14](https://www.legislation.gov.uk/uksi/2014/891/article/14) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-a6b644fa9f4c20e48cd4a2bc3567519d]: Textual amendment: Word in [art. 13(2)](https://www.legislation.gov.uk/uksi/2003/1592/article/13/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [14](https://www.legislation.gov.uk/uksi/2014/891/article/14) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-30484cbecb5bca33ff95eeeb9e9a5dd8]: Textual amendment: Word in art. 14(1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2014/891/article/15/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-30484cbecb5bca33ff95eeeb9e9a5dd8]: Textual amendment: Word in art. 14(1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2014/891/article/15/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-05f36fa4311a3be0148728351911974e]: Textual amendment: Word in art. 14(2)(b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(b)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/15/b/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-05f36fa4311a3be0148728351911974e]: Textual amendment: Word in art. 14(2)(b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(b)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/15/b/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-2926e856e444abbf592ed26ca99c3360]: Textual amendment: Art. 14(2)(ba) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(8)(a)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/8/a)
+[^c-2926e856e444abbf592ed26ca99c3360]: Textual amendment: Art. 14(2)(ba) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(8)(a)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/8/a)
 
-[^key-e602057020b58c446d098ea6ead71981]: Textual amendment: Word in art. 14(2)(e) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(b)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/15/b/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-e602057020b58c446d098ea6ead71981]: Textual amendment: Word in art. 14(2)(e) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(b)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/15/b/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-45fd433e558674640446ef0c3eb90275]: Textual amendment: Art. 14(2)(g)(h) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(b)(iii)](https://www.legislation.gov.uk/uksi/2014/891/article/15/b/iii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-45fd433e558674640446ef0c3eb90275]: Textual amendment: Art. 14(2)(g)(h) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(b)(iii)](https://www.legislation.gov.uk/uksi/2014/891/article/15/b/iii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-11dd3a39bbc5be45a466732529622faa]: Textual amendment: Word in art. 14(7)(a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(c)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/15/c/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-11dd3a39bbc5be45a466732529622faa]: Textual amendment: Word in art. 14(7)(a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(c)(i)](https://www.legislation.gov.uk/uksi/2014/891/article/15/c/i) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-5b4b0290ca725c1159b2cf3c86a45318]: Textual amendment: Words in art. 14(7)(a) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(8)(b)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/8/b)
+[^c-5b4b0290ca725c1159b2cf3c86a45318]: Textual amendment: Words in art. 14(7)(a) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(8)(b)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/8/b)
 
-[^key-0527b1faf3fc73079bc64e4b317b96a0]: Textual amendment: Word in art. 14(7)(b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(c)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/15/c/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-0527b1faf3fc73079bc64e4b317b96a0]: Textual amendment: Word in art. 14(7)(b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(c)(ii)](https://www.legislation.gov.uk/uksi/2014/891/article/15/c/ii) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-3560011c1c8698a951bd7052d0a11635]: Textual amendment: Word in art. 14(8) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(d)](https://www.legislation.gov.uk/uksi/2014/891/article/15/d) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-3560011c1c8698a951bd7052d0a11635]: Textual amendment: Word in art. 14(8) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [15(d)](https://www.legislation.gov.uk/uksi/2014/891/article/15/d) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-a66818e2b503e9ff25cf723131020057]: Textual amendment: Word in Sch. 1 para. (a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(2)](https://www.legislation.gov.uk/uksi/2014/891/article/16/2) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-a66818e2b503e9ff25cf723131020057]: Textual amendment: Word in Sch. 1 para. (a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(2)](https://www.legislation.gov.uk/uksi/2014/891/article/16/2) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-36afe037a788246796f3c2f89962f5f6]: Textual amendment: Word in Sch. 1 para. (d) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(3)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/16/3/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-36afe037a788246796f3c2f89962f5f6]: Textual amendment: Word in Sch. 1 para. (d) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(3)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/16/3/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-679ed93fb07b60a2645efcf144943d23]: Textual amendment: Word in Sch. 1 para. (d) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(3)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/16/3/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-679ed93fb07b60a2645efcf144943d23]: Textual amendment: Word in Sch. 1 para. (d) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(3)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/16/3/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-d8cf309f09ad4e427b1721094f136484]: Textual amendment: Word in Sch. 1 para. (e) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(4)](https://www.legislation.gov.uk/uksi/2014/891/article/16/4) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-d8cf309f09ad4e427b1721094f136484]: Textual amendment: Word in Sch. 1 para. (e) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(4)](https://www.legislation.gov.uk/uksi/2014/891/article/16/4) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-332d6ce809863b8d71a1a75df72d57e1]: Textual amendment: Word in Sch. 1 para. (f) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(5)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/16/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-332d6ce809863b8d71a1a75df72d57e1]: Textual amendment: Word in Sch. 1 para. (f) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(5)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/16/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-cf3ba70b6984286759fa8e883f9e60ce]: Textual amendment: Words in Sch. 1 para. (f) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(5)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/16/5/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-cf3ba70b6984286759fa8e883f9e60ce]: Textual amendment: Words in Sch. 1 para. (f) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(5)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/16/5/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-58bff20f8da5d42364278037ab58e095]: Textual amendment: Word in Sch. 1 para. (g) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(6)](https://www.legislation.gov.uk/uksi/2014/891/article/16/6) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-58bff20f8da5d42364278037ab58e095]: Textual amendment: Word in Sch. 1 para. (g) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(6)](https://www.legislation.gov.uk/uksi/2014/891/article/16/6) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-f798a01265e5f5a219e69fe2c63f7114]: Textual amendment: Words in Sch. 1 para. (i) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(7)](https://www.legislation.gov.uk/uksi/2014/891/article/16/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-f798a01265e5f5a219e69fe2c63f7114]: Textual amendment: Words in Sch. 1 para. (i) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(7)](https://www.legislation.gov.uk/uksi/2014/891/article/16/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-0b90999a36ee14ebf1094bd8070513df]: Textual amendment: Word in Sch. 1 para. (k) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(8)](https://www.legislation.gov.uk/uksi/2014/891/article/16/8) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-0b90999a36ee14ebf1094bd8070513df]: Textual amendment: Word in Sch. 1 para. (k) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(8)](https://www.legislation.gov.uk/uksi/2014/891/article/16/8) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-0b57966cd82e6ee468b2d330c6150d47]: Textual amendment: Words in Sch. 1 para. (l) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(9)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/16/9/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-0b57966cd82e6ee468b2d330c6150d47]: Textual amendment: Words in Sch. 1 para. (l) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(9)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/16/9/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-f1455eeac05b3079d5a1ac76bd29e413]: Textual amendment: Word in Sch. 1 para. (l) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(9)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/16/9/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-f1455eeac05b3079d5a1ac76bd29e413]: Textual amendment: Word in Sch. 1 para. (l) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(9)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/16/9/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-1c413f55b21e6729ca8406e76a5ce4f2]: Textual amendment: Sch. 1 para. (o) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(10)](https://www.legislation.gov.uk/uksi/2014/891/article/16/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-1c413f55b21e6729ca8406e76a5ce4f2]: Textual amendment: Sch. 1 para. (o) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(10)](https://www.legislation.gov.uk/uksi/2014/891/article/16/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-ab7b33a2863c20eec542e32e068aefab]: Textual amendment: Sch. 1 para. (q) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(10)](https://www.legislation.gov.uk/uksi/2014/891/article/16/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-ab7b33a2863c20eec542e32e068aefab]: Textual amendment: Sch. 1 para. (q) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [16(10)](https://www.legislation.gov.uk/uksi/2014/891/article/16/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-f529ad0b5e94494c2a0eccf0aaeb980b]: Textual amendment: Sch. 2 para. 1 omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(2)](https://www.legislation.gov.uk/uksi/2014/891/article/17/2) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-f529ad0b5e94494c2a0eccf0aaeb980b]: Textual amendment: Sch. 2 para. 1 omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(2)](https://www.legislation.gov.uk/uksi/2014/891/article/17/2) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-045e13693f36d23e44423c6cd86f8738]: Textual amendment: Words in Sch. 2 para. 1 heading omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(3)](https://www.legislation.gov.uk/uksi/2014/891/article/17/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-045e13693f36d23e44423c6cd86f8738]: Textual amendment: Words in Sch. 2 para. 1 heading omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(3)](https://www.legislation.gov.uk/uksi/2014/891/article/17/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-605ff27e68ef883db89f5ee59f34f0af]: Textual amendment: Sch. 2 para. 2(2A)-(2C) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(4)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/17/4/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-605ff27e68ef883db89f5ee59f34f0af]: Textual amendment: Sch. 2 para. 2(2A)-(2C) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(4)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/17/4/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-d97b3ea62e236dc3d490392c689e46fc]: Textual amendment: Words in Sch. 2 para. 2(4) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(4)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/4/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-d97b3ea62e236dc3d490392c689e46fc]: Textual amendment: Words in Sch. 2 para. 2(4) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(4)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/4/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-6273e4b818bcf28bb44c8be31855db7e]: Textual amendment: Words in Sch. 2 para. 2(6) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(4)(c)](https://www.legislation.gov.uk/uksi/2014/891/article/17/4/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-6273e4b818bcf28bb44c8be31855db7e]: Textual amendment: Words in Sch. 2 para. 2(6) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(4)(c)](https://www.legislation.gov.uk/uksi/2014/891/article/17/4/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-1ac1c30c5aeaf84c8cb6c466b1baefdd]: Textual amendment: Sch. 2 para. 2(8) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(4)(d)](https://www.legislation.gov.uk/uksi/2014/891/article/17/4/d) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-1ac1c30c5aeaf84c8cb6c466b1baefdd]: Textual amendment: Sch. 2 para. 2(8) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(4)(d)](https://www.legislation.gov.uk/uksi/2014/891/article/17/4/d) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-f230798f5f59062fbf597b6059570186]: Textual amendment: Word in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/3/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(5)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/17/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-f230798f5f59062fbf597b6059570186]: Textual amendment: Word in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/3/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(5)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/17/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-0ebbcb3c80bb11fe8edbf1cee1f432ec]: Textual amendment: Word in [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/3/3) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(5)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/5/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-0ebbcb3c80bb11fe8edbf1cee1f432ec]: Textual amendment: Word in [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/3/3) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(5)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/5/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-631fca88d692f1da60c034e4822b7337]: Textual amendment: Word in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/4/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(6)](https://www.legislation.gov.uk/uksi/2014/891/article/17/6) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-631fca88d692f1da60c034e4822b7337]: Textual amendment: Word in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/4/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(6)](https://www.legislation.gov.uk/uksi/2014/891/article/17/6) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-5f31329570b432667157dcaa2a211548]: Textual amendment: Word in [Sch. 2 para. 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/5/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(7)](https://www.legislation.gov.uk/uksi/2014/891/article/17/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-5f31329570b432667157dcaa2a211548]: Textual amendment: Word in [Sch. 2 para. 5(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/5/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(7)](https://www.legislation.gov.uk/uksi/2014/891/article/17/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-64b4a5fe587e680ecdb908ad934b7f51]: Textual amendment: Word in [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/5/6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(7)](https://www.legislation.gov.uk/uksi/2014/891/article/17/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-64b4a5fe587e680ecdb908ad934b7f51]: Textual amendment: Word in [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/5/6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(7)](https://www.legislation.gov.uk/uksi/2014/891/article/17/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-ef4335373cc1a9bed0ec42280a549ee4]: Textual amendment: [Sch. 2 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/7/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(8)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/17/8/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-ef4335373cc1a9bed0ec42280a549ee4]: Textual amendment: [Sch. 2 para. 7(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/7/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(8)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/17/8/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-d27c4d7d0731cfbf34d45c85b0fddcde]: Textual amendment: Word in [Sch. 2 para. 7(8)(a)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/7/8/a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(8)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/8/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-d27c4d7d0731cfbf34d45c85b0fddcde]: Textual amendment: Word in [Sch. 2 para. 7(8)(a)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/7/8/a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(8)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/8/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-dac2e42ff80da20ed749a486d87f69c5]: Textual amendment: Word in [Sch. 2 para. 7(8)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/7/8/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(8)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/8/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-dac2e42ff80da20ed749a486d87f69c5]: Textual amendment: Word in [Sch. 2 para. 7(8)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/7/8/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(8)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/8/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-c9fffaa2b00b9d0baef58fc947a09514]: Textual amendment: [Sch. 2 para. 8(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/8/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(9)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/17/9/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-c9fffaa2b00b9d0baef58fc947a09514]: Textual amendment: [Sch. 2 para. 8(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/8/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(9)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/17/9/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-5fda6bb6382a9947a29ad15cf4b016f7]: Textual amendment: Word in [Sch. 2 para. 8(7)(a)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/8/7/a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(9)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/9/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-5fda6bb6382a9947a29ad15cf4b016f7]: Textual amendment: Word in [Sch. 2 para. 8(7)(a)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/8/7/a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(9)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/9/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-9f78e8807c616931a0cfd6140198a298]: Textual amendment: Word in [Sch. 2 para. 8(7)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/8/7/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(9)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/9/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-9f78e8807c616931a0cfd6140198a298]: Textual amendment: Word in [Sch. 2 para. 8(7)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/8/7/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(9)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/17/9/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-b36e46a4c5341fff402fd45cbf515d03]: Textual amendment: Word in [Sch. 2 para. 8(10)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/8/10/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(9)(c)](https://www.legislation.gov.uk/uksi/2014/891/article/17/9/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-b36e46a4c5341fff402fd45cbf515d03]: Textual amendment: Word in [Sch. 2 para. 8(10)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/8/10/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(9)(c)](https://www.legislation.gov.uk/uksi/2014/891/article/17/9/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-9578ae02805a037201275eaeeccb4b51]: Textual amendment: Word in [Sch. 2 para. 10(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/10/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(10)](https://www.legislation.gov.uk/uksi/2014/891/article/17/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-9578ae02805a037201275eaeeccb4b51]: Textual amendment: Word in [Sch. 2 para. 10(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/10/1/b) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(10)](https://www.legislation.gov.uk/uksi/2014/891/article/17/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-c6e9070c2dbd378ff4dca3edc23ef924]: Textual amendment: Word in [Sch. 2 para. 10(6)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/10/6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(10)](https://www.legislation.gov.uk/uksi/2014/891/article/17/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-c6e9070c2dbd378ff4dca3edc23ef924]: Textual amendment: Word in [Sch. 2 para. 10(6)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/10/6) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(10)](https://www.legislation.gov.uk/uksi/2014/891/article/17/10) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-597522adb218bf26ee4d9aa618e824c8]: Textual amendment: Word in [Sch. 2 para. 11(5)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/11/5) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(11)](https://www.legislation.gov.uk/uksi/2014/891/article/17/11) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-597522adb218bf26ee4d9aa618e824c8]: Textual amendment: Word in [Sch. 2 para. 11(5)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/2/paragraph/11/5) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [17(11)](https://www.legislation.gov.uk/uksi/2014/891/article/17/11) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-3bc070481a4425f0bf9c6521811c7ef8]: Textual amendment: Sch. 3 para. 1(1)(a) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-3bc070481a4425f0bf9c6521811c7ef8]: Textual amendment: Sch. 3 para. 1(1)(a) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-def83f74cc0cd3251d44daba375cdcc9]: Textual amendment: Word in Sch. 3 para. 1(1)(g) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-def83f74cc0cd3251d44daba375cdcc9]: Textual amendment: Word in Sch. 3 para. 1(1)(g) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-6259f225e482fae591daeb7c43e57f74]: Textual amendment: Word in Sch. 3 para. 1(1)(h) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-6259f225e482fae591daeb7c43e57f74]: Textual amendment: Word in Sch. 3 para. 1(1)(h) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-8ee5cb12d09b8859cf0ebede536a721b]: Textual amendment: Sch. 3 para. 1(1)(ia) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(c)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-8ee5cb12d09b8859cf0ebede536a721b]: Textual amendment: Sch. 3 para. 1(1)(ia) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(c)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-5c125a333e323d784b337e3844617fc9]: Textual amendment: Sch. 3 para. 1(1)(la) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(9)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/9)
+[^c-5c125a333e323d784b337e3844617fc9]: Textual amendment: Sch. 3 para. 1(1)(la) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(9)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/9)
 
-[^key-cd1d7e84d29df9316737e87b21deb71a]: Textual amendment: Word in Sch. 3 para. 1(1)(m) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(d)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/d) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-cd1d7e84d29df9316737e87b21deb71a]: Textual amendment: Word in Sch. 3 para. 1(1)(m) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(d)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/d) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-ad55e07b53e228f743ca6e27e8ee8142]: Textual amendment: Sch. 3 para. 1(1)(ma) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(10)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/10)
+[^c-ad55e07b53e228f743ca6e27e8ee8142]: Textual amendment: Sch. 3 para. 1(1)(ma) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(10)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/10)
 
-[^key-7360bfa78bcacc142d6f475e3cab4628]: Textual amendment: Sch. 3 para. 1(1)(pa)(pb) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(e)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/e) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-7360bfa78bcacc142d6f475e3cab4628]: Textual amendment: Sch. 3 para. 1(1)(pa)(pb) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(e)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/e) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-24a2a8a1d0625708be14fa8481d2a341]: Textual amendment: Word in Sch. 3 para. 1(1)(y) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(f)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/f) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-24a2a8a1d0625708be14fa8481d2a341]: Textual amendment: Word in Sch. 3 para. 1(1)(y) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(2)(f)](https://www.legislation.gov.uk/uksi/2014/891/article/18/2/f) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-beefc825bf5c65d9968b630a376a5d31]: Textual amendment: Sch. 3 para. 1(1)(ya) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(11)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/11)
+[^c-beefc825bf5c65d9968b630a376a5d31]: Textual amendment: Sch. 3 para. 1(1)(ya) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(11)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/11)
 
-[^key-13d8bc058b6d57537720fb93d2140a09]: Textual amendment: Sch. 3 para. 1(2) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(3)](https://www.legislation.gov.uk/uksi/2014/891/article/18/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-13d8bc058b6d57537720fb93d2140a09]: Textual amendment: Sch. 3 para. 1(2) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(3)](https://www.legislation.gov.uk/uksi/2014/891/article/18/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-ddefb270a8f43f6f5d6fbe106681c74f]: Textual amendment: Words in Sch. 3 para. 1(5)(a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(4)](https://www.legislation.gov.uk/uksi/2014/891/article/18/4) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-ddefb270a8f43f6f5d6fbe106681c74f]: Textual amendment: Words in Sch. 3 para. 1(5)(a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(4)](https://www.legislation.gov.uk/uksi/2014/891/article/18/4) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-78921a1cd120858ef6d8eaf7e456a08e]: Textual amendment: Word in Sch. 3 para. 1(6)(b)(i) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/18/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-78921a1cd120858ef6d8eaf7e456a08e]: Textual amendment: Word in Sch. 3 para. 1(6)(b)(i) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/18/5/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-a4d82e8567b15933b8f67584d4d88e01]: Textual amendment: Sch. 3 para. 1(6)(c) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/18/5/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-a4d82e8567b15933b8f67584d4d88e01]: Textual amendment: Sch. 3 para. 1(6)(c) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/18/5/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-fc42d75aad40df22b8ce036466355b0b]: Textual amendment: Sch. 3 para. 1(7)(b)(c) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(6)](https://www.legislation.gov.uk/uksi/2014/891/article/18/6) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-fc42d75aad40df22b8ce036466355b0b]: Textual amendment: Sch. 3 para. 1(7)(b)(c) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(6)](https://www.legislation.gov.uk/uksi/2014/891/article/18/6) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-769947b2957317432b64e9eeb18bec14]: Textual amendment: Sch. 3 para. 1(8)(a) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(7)](https://www.legislation.gov.uk/uksi/2014/891/article/18/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-769947b2957317432b64e9eeb18bec14]: Textual amendment: Sch. 3 para. 1(8)(a) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(7)](https://www.legislation.gov.uk/uksi/2014/891/article/18/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-06f67cdcfd8c71a127b8ac9ffd99af0b]: Textual amendment: Sch. 3 para. 1(8)(c) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(7)](https://www.legislation.gov.uk/uksi/2014/891/article/18/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-06f67cdcfd8c71a127b8ac9ffd99af0b]: Textual amendment: Sch. 3 para. 1(8)(c) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(7)](https://www.legislation.gov.uk/uksi/2014/891/article/18/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-2547e46943b05b89f7f88dc7c996b121]: Textual amendment: Sch. 3 para. 1(8)(d) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(7)](https://www.legislation.gov.uk/uksi/2014/891/article/18/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-2547e46943b05b89f7f88dc7c996b121]: Textual amendment: Sch. 3 para. 1(8)(d) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(7)](https://www.legislation.gov.uk/uksi/2014/891/article/18/7) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-30e44af66c451d66bccb2a4a781820f9]: Textual amendment: Sch. 3 para. 1(9)(a) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(8)](https://www.legislation.gov.uk/uksi/2014/891/article/18/8) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-30e44af66c451d66bccb2a4a781820f9]: Textual amendment: Sch. 3 para. 1(9)(a) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(8)](https://www.legislation.gov.uk/uksi/2014/891/article/18/8) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-c4c69fe3ec9bc97a962f27658988e0d8]: Textual amendment: Sch. 3 para. 1(9A) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(9)](https://www.legislation.gov.uk/uksi/2014/891/article/18/9) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-c4c69fe3ec9bc97a962f27658988e0d8]: Textual amendment: Sch. 3 para. 1(9A) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(9)](https://www.legislation.gov.uk/uksi/2014/891/article/18/9) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-4dc1f146b266935d9e05f88f328911df]: Textual amendment: Sch. 3 para. 1(12)(b) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(10)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/18/10/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-4dc1f146b266935d9e05f88f328911df]: Textual amendment: Sch. 3 para. 1(12)(b) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(10)(a)](https://www.legislation.gov.uk/uksi/2014/891/article/18/10/a) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-a0b282adb2cb3ea35dc67c34569b1454]: Textual amendment: Sch. 3 para. 1(12)(c) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(10)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/18/10/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-a0b282adb2cb3ea35dc67c34569b1454]: Textual amendment: Sch. 3 para. 1(12)(c) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(10)(b)](https://www.legislation.gov.uk/uksi/2014/891/article/18/10/b) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-745d4e9f608a0b767ca47a0a62dac1ab]: Textual amendment: Sch. 3 para. 1(12)(d) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(10)(c)](https://www.legislation.gov.uk/uksi/2014/891/article/18/10/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-745d4e9f608a0b767ca47a0a62dac1ab]: Textual amendment: Sch. 3 para. 1(12)(d) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(10)(c)](https://www.legislation.gov.uk/uksi/2014/891/article/18/10/c) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-4d0503867adb74bb1f6e1ac74e21d4b4]: Textual amendment: Sch. 3 para. 1(12A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(12)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/12)
+[^c-4d0503867adb74bb1f6e1ac74e21d4b4]: Textual amendment: Sch. 3 para. 1(12A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(12)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/12)
 
-[^key-ceba3ae3f183d0963d9b6c349ada40fe]: Textual amendment: Word in Sch. 3 para. 1(12A)(a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(11)](https://www.legislation.gov.uk/uksi/2014/891/article/18/11) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-ceba3ae3f183d0963d9b6c349ada40fe]: Textual amendment: Word in Sch. 3 para. 1(12A)(a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(11)](https://www.legislation.gov.uk/uksi/2014/891/article/18/11) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-ee7a5f7166a427ac1eb7f98def5c103c]: Textual amendment: Sch. 3 para. 1(13)(ab) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(13)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/13)
+[^c-ee7a5f7166a427ac1eb7f98def5c103c]: Textual amendment: Sch. 3 para. 1(13)(ab) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(13)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/13)
 
-[^key-93f490a178a4dd44a6d0196156773a64]: Textual amendment: Sch. 3 para. 1(13A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(14)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/14)
+[^c-93f490a178a4dd44a6d0196156773a64]: Textual amendment: Sch. 3 para. 1(13A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(14)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/14)
 
-[^key-a401166a6a94ccca2a54432b5943d52a]: Textual amendment: Word in Sch. 3 para. 1(13A)(a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(12)](https://www.legislation.gov.uk/uksi/2014/891/article/18/12) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-a401166a6a94ccca2a54432b5943d52a]: Textual amendment: Word in Sch. 3 para. 1(13A)(a) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(12)](https://www.legislation.gov.uk/uksi/2014/891/article/18/12) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-cec88cec2856ce5758aa83ad04438bd0]: Textual amendment: Sch. 3 para. 1(15) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(13)](https://www.legislation.gov.uk/uksi/2014/891/article/18/13) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-cec88cec2856ce5758aa83ad04438bd0]: Textual amendment: Sch. 3 para. 1(15) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(13)](https://www.legislation.gov.uk/uksi/2014/891/article/18/13) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-795eef60a6dc030dee9d8295ec60a2a9]: Textual amendment: Sch. 3 para. 1(16A)(16B) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(14)](https://www.legislation.gov.uk/uksi/2014/891/article/18/14) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-795eef60a6dc030dee9d8295ec60a2a9]: Textual amendment: Sch. 3 para. 1(16A)(16B) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(14)](https://www.legislation.gov.uk/uksi/2014/891/article/18/14) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-1f48106a0ba29be3c2e288b85270c661]: Textual amendment: Sch. 3 para. 1(17) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(15)](https://www.legislation.gov.uk/uksi/2014/891/article/18/15) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-1f48106a0ba29be3c2e288b85270c661]: Textual amendment: Sch. 3 para. 1(17) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(15)](https://www.legislation.gov.uk/uksi/2014/891/article/18/15) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-525e69779a606427ef317e929af5d538]: Textual amendment: Sch. 3 para. 1(19)(aa) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(16)](https://www.legislation.gov.uk/uksi/2014/891/article/18/16) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-525e69779a606427ef317e929af5d538]: Textual amendment: Sch. 3 para. 1(19)(aa) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(16)](https://www.legislation.gov.uk/uksi/2014/891/article/18/16) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-fedd1c941fa533567756328f396018d9]: Textual amendment: Sch. 3 para. 1(20A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(15)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/15)
+[^c-fedd1c941fa533567756328f396018d9]: Textual amendment: Sch. 3 para. 1(20A) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(15)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/15)
 
-[^key-d3ced9ff43d1429ce5d04a99fbdcaecf]: Textual amendment: Words in Sch. 3 para. 1(22)(c) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(17)](https://www.legislation.gov.uk/uksi/2014/891/article/18/17) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-d3ced9ff43d1429ce5d04a99fbdcaecf]: Textual amendment: Words in Sch. 3 para. 1(22)(c) inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(17)](https://www.legislation.gov.uk/uksi/2014/891/article/18/17) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-47bb04784b20fc4dd65e79313247034d]: Textual amendment: Word in Sch. 3 para. 2(2)(b)(ii) revoked (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(16)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/16)
+[^c-47bb04784b20fc4dd65e79313247034d]: Textual amendment: Word in Sch. 3 para. 2(2)(b)(ii) revoked (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(16)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/16)
 
-[^key-9b73adf06b8a9005c1ead53f171f4975]: Textual amendment: Sch. 3 para. 2(2)(ba) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(16)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/16)
+[^c-9b73adf06b8a9005c1ead53f171f4975]: Textual amendment: Sch. 3 para. 2(2)(ba) inserted (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/regulation/1/1), [Sch. para. 10(16)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/10/16)
 
-[^key-db0cadba1d283185b53003e3f7942acd]: Textual amendment: Word in [Sch. 3 para. 2(2)(ba)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/3/paragraph/2/2/ba) omitted (23.6.2020) by virtue of [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2020 (S.I. 2020/627)](https://www.legislation.gov.uk/uksi/2020/627), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/627/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/627/article/4/2)
+[^c-db0cadba1d283185b53003e3f7942acd]: Textual amendment: Word in [Sch. 3 para. 2(2)(ba)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/3/paragraph/2/2/ba) omitted (23.6.2020) by virtue of [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2020 (S.I. 2020/627)](https://www.legislation.gov.uk/uksi/2020/627), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/627/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/627/article/4/2)
 
-[^key-9794985e5e9164c031beac39b8fcdafe]: Textual amendment: [Sch. 3 para. 2(2)(bb)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/3/paragraph/2/2/bb) inserted (23.6.2020) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2020 (S.I. 2020/627)](https://www.legislation.gov.uk/uksi/2020/627), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/627/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/627/article/4/3)
+[^c-9794985e5e9164c031beac39b8fcdafe]: Textual amendment: [Sch. 3 para. 2(2)(bb)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/3/paragraph/2/2/bb) inserted (23.6.2020) by [The Enterprise Act 2002 (Specification of Additional Section 58 Consideration) Order 2020 (S.I. 2020/627)](https://www.legislation.gov.uk/uksi/2020/627), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/627/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/627/article/4/3)
 
-[^key-5447dc0805f04fa2025170a30288c7b8]: Textual amendment: Words in Sch. 3 para. 2(3)(c) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(18)](https://www.legislation.gov.uk/uksi/2014/891/article/18/18) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-5447dc0805f04fa2025170a30288c7b8]: Textual amendment: Words in Sch. 3 para. 2(3)(c) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [18(18)](https://www.legislation.gov.uk/uksi/2014/891/article/18/18) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-4e01190c6080c7d5a8ea3165c41750ea]: Textual amendment: Words in [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/3/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [19(2)](https://www.legislation.gov.uk/uksi/2014/891/article/19/2) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-4e01190c6080c7d5a8ea3165c41750ea]: Textual amendment: Words in [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/3/2) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [19(2)](https://www.legislation.gov.uk/uksi/2014/891/article/19/2) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-2d2be65a201c66bd2213803420e0e699]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/5) omitted (1.4.2014) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/610/schedule/2/paragraph/3)
+[^c-2d2be65a201c66bd2213803420e0e699]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/5) omitted (1.4.2014) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/610/schedule/2/paragraph/3)
 
-[^key-bebc8412eab7fde3afd004c41f96fb24]: Textual amendment: Words in [Sch. 4 para. 7(1)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/7/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [19(3)](https://www.legislation.gov.uk/uksi/2014/891/article/19/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-bebc8412eab7fde3afd004c41f96fb24]: Textual amendment: Words in [Sch. 4 para. 7(1)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/7/1) substituted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [19(3)](https://www.legislation.gov.uk/uksi/2014/891/article/19/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-e7532f67e87601fdb720b1b4519d6fb3]: Textual amendment: Sch. 4 para. 13 omitted (6.4.2013) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/4)
+[^c-e7532f67e87601fdb720b1b4519d6fb3]: Textual amendment: Sch. 4 para. 13 omitted (6.4.2013) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/4)
 
-[^key-c8a02eb319a71aa3fed6bb4415c9eadc]: Textual amendment: [Sch. 4 para. 15(2)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/15/2)[(3)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/15/3) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [19(4)](https://www.legislation.gov.uk/uksi/2014/891/article/19/4) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-c8a02eb319a71aa3fed6bb4415c9eadc]: Textual amendment: [Sch. 4 para. 15(2)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/15/2)[(3)](https://www.legislation.gov.uk/uksi/2003/1592/schedule/4/paragraph/15/3) omitted (1.4.2014) by virtue of [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [19(4)](https://www.legislation.gov.uk/uksi/2014/891/article/19/4) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
-[^key-879712f0e27de78afbc5f73a50ea3f62]: Textual amendment: Sch. 4 para. 18 inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [19(5)](https://www.legislation.gov.uk/uksi/2014/891/article/19/5) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
+[^c-879712f0e27de78afbc5f73a50ea3f62]: Textual amendment: Sch. 4 para. 18 inserted (1.4.2014) by [The Enterprise Act 2002 (Protection of Legitimate Interests) (Amendment) Order 2014 (S.I. 2014/891)](https://www.legislation.gov.uk/uksi/2014/891), [arts. 1](https://www.legislation.gov.uk/uksi/2014/891/article/1), [19(5)](https://www.legislation.gov.uk/uksi/2014/891/article/19/5) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2014/891/article/20))
 
 [^c5051231]: Marginal citation: [Article 296(1)(b)](https://www.legislation.gov.uk/uksi/2003/1592/article/296/1/b) of the EC Treaty states that “any Member State may take such measures as it considers necessary for the protection of the essential interests of its security which are connected with the production of or trade in arms, munitions and war material; such measures shall not adversely affect the conditions of competition in the common market regarding products which are not intended for specifically military purposes”.

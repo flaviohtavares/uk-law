@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Action taken in an emergency[^key-677534ba7695ece6bf9a65d6def810d8][^key-807bb1dbc61cb7d5a2ff09152cbe1006]
+## 86. Action taken in an emergency[^c-677534ba7695ece6bf9a65d6def810d8][^c-807bb1dbc61cb7d5a2ff09152cbe1006]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-677534ba7695ece6bf9a65d6def810d8]: Commencement: S. 86 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-677534ba7695ece6bf9a65d6def810d8]: Commencement: S. 86 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-807bb1dbc61cb7d5a2ff09152cbe1006]: Modification: S. 86 excluded (24.8.2017) by [The National Grid (Richborough Connection Project) Development Consent Order 2017 (S.I. 2017/817)](https://www.legislation.gov.uk/uksi/2017/817), [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1), [Sch. 9 para. 18](https://www.legislation.gov.uk/uksi/2017/817/schedule/9/paragraph/18) (with [art. 22](https://www.legislation.gov.uk/uksi/2017/817/article/22))
+[^c-807bb1dbc61cb7d5a2ff09152cbe1006]: Modification: S. 86 excluded (24.8.2017) by [The National Grid (Richborough Connection Project) Development Consent Order 2017 (S.I. 2017/817)](https://www.legislation.gov.uk/uksi/2017/817), [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1), [Sch. 9 para. 18](https://www.legislation.gov.uk/uksi/2017/817/schedule/9/paragraph/18) (with [art. 22](https://www.legislation.gov.uk/uksi/2017/817/article/22))

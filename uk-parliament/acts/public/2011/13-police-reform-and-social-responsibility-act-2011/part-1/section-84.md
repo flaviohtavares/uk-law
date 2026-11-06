@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. HMIC reports: publication[^key-8c821a47c915b07b9eef2cbf2dc5c964]
+## 84. HMIC reports: publication[^c-8c821a47c915b07b9eef2cbf2dc5c964]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c821a47c915b07b9eef2cbf2dc5c964]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2011/13/section/84) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-8c821a47c915b07b9eef2cbf2dc5c964]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2011/13/section/84) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

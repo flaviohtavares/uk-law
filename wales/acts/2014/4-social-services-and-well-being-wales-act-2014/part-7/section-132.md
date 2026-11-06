@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. The National Independent Safeguarding Board[^key-2cbdc39644ddb6bf21188c236f491a35]
+## 132. The National Independent Safeguarding Board[^c-2cbdc39644ddb6bf21188c236f491a35]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cbdc39644ddb6bf21188c236f491a35]: Commencement: S. 132 in force at 21.10.2015 by [S.I. 2015/1744](https://www.legislation.gov.uk/wsi/2015/1744), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1744/article/2/a)
+[^c-2cbdc39644ddb6bf21188c236f491a35]: Commencement: S. 132 in force at 21.10.2015 by [S.I. 2015/1744](https://www.legislation.gov.uk/wsi/2015/1744), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1744/article/2/a)

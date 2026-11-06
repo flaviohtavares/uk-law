@@ -22,7 +22,7 @@ summary: ''
 
 Articles 15 and 22
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE DIVERTED FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-14d47491a5c49fcf1acd2dd289363de6]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE DIVERTED FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-14d47491a5c49fcf1acd2dd289363de6]
 
 <table>
 <thead>
@@ -36,9 +36,9 @@ Articles 15 and 22
 </tbody>
 </table>
 
-[^key-4baf57ae696c38be3067c885fb09d599]
+[^c-4baf57ae696c38be3067c885fb09d599]
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-41a6bc6d6fe93f6312886fc6d9c88a0e]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-41a6bc6d6fe93f6312886fc6d9c88a0e]
 
 <table>
 <thead>
@@ -50,7 +50,7 @@ Articles 15 and 22
 </tbody>
 </table>
 
-### PART 3 — FOOTWAYS AND CYCLE TRACKS[^key-c88cf0cf899f52f882c1efc1176427bc]
+### PART 3 — FOOTWAYS AND CYCLE TRACKS[^c-c88cf0cf899f52f882c1efc1176427bc]
 
 <table>
 <thead>
@@ -104,18 +104,18 @@ Articles 15 and 22
 </tbody>
 </table>
 
-[^key-7ec530a44b95b076d2e287ccb94d2f45][^key-498a806999b0fa481e501708821d2d00]
+[^c-7ec530a44b95b076d2e287ccb94d2f45][^c-498a806999b0fa481e501708821d2d00]
 
 ## Annotations
 
-[^key-14d47491a5c49fcf1acd2dd289363de6]: Commencement: Sch. 4 Pt. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-14d47491a5c49fcf1acd2dd289363de6]: Commencement: Sch. 4 Pt. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-4baf57ae696c38be3067c885fb09d599]: Textual amendment: Word in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2025/1054/schedule/4/part/1) omitted (21.1.2026) by virtue of [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-4baf57ae696c38be3067c885fb09d599]: Textual amendment: Word in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2025/1054/schedule/4/part/1) omitted (21.1.2026) by virtue of [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
-[^key-41a6bc6d6fe93f6312886fc6d9c88a0e]: Commencement: Sch. 4 Pt. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-41a6bc6d6fe93f6312886fc6d9c88a0e]: Commencement: Sch. 4 Pt. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-c88cf0cf899f52f882c1efc1176427bc]: Commencement: Sch. 4 Pt. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-c88cf0cf899f52f882c1efc1176427bc]: Commencement: Sch. 4 Pt. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-7ec530a44b95b076d2e287ccb94d2f45]: Textual amendment: Word in [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2025/1054/schedule/4/part/3) omitted (21.1.2026) by virtue of [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-7ec530a44b95b076d2e287ccb94d2f45]: Textual amendment: Word in [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2025/1054/schedule/4/part/3) omitted (21.1.2026) by virtue of [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
-[^key-498a806999b0fa481e501708821d2d00]: Textual amendment: Word in [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2025/1054/schedule/4/part/3) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-498a806999b0fa481e501708821d2d00]: Textual amendment: Word in [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2025/1054/schedule/4/part/3) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)

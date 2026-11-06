@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Removal from Register[^key-aeb8817e573679152fb77991fe40e4f4][^key-d3d9ce2201467acd3a020a58e23a2658][^key-0cc15573674b88c4a3dee1bb4d397818]
+## 18. Removal from Register[^c-aeb8817e573679152fb77991fe40e4f4][^c-d3d9ce2201467acd3a020a58e23a2658][^c-0cc15573674b88c4a3dee1bb4d397818]
 
 *Extent: S*
 
@@ -27,8 +27,8 @@ OSCR must, within 28 days of the date on which it receives an application from a
 
 ## Annotations
 
-[^key-aeb8817e573679152fb77991fe40e4f4]: Commencement: S. 18 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-aeb8817e573679152fb77991fe40e4f4]: Commencement: S. 18 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
 
-[^key-d3d9ce2201467acd3a020a58e23a2658]: Modification: [S. 18](https://www.legislation.gov.uk/asp/2005/10/section/18) excluded (1.4.2011) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Regulations 2011 (S.S.I. 2011/237)](https://www.legislation.gov.uk/ssi/2011/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/237/regulation/2/2)
+[^c-d3d9ce2201467acd3a020a58e23a2658]: Modification: [S. 18](https://www.legislation.gov.uk/asp/2005/10/section/18) excluded (1.4.2011) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Regulations 2011 (S.S.I. 2011/237)](https://www.legislation.gov.uk/ssi/2011/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/237/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/237/regulation/2/2)
 
-[^key-0cc15573674b88c4a3dee1bb4d397818]: Modification: [S. 18](https://www.legislation.gov.uk/asp/2005/10/section/18) excluded by SI 2011/237 reg. 2(2) (as amended) (6.1.2014) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Amendment Regulations 2013 (S.S.I. 2013/362)](https://www.legislation.gov.uk/ssi/2013/362), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/2))
+[^c-0cc15573674b88c4a3dee1bb4d397818]: Modification: [S. 18](https://www.legislation.gov.uk/asp/2005/10/section/18) excluded by SI 2011/237 reg. 2(2) (as amended) (6.1.2014) by [The Scottish Charitable Incorporated Organisations (Removal from Register and Dissolution) Amendment Regulations 2013 (S.S.I. 2013/362)](https://www.legislation.gov.uk/ssi/2013/362), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/362/regulation/1/2))

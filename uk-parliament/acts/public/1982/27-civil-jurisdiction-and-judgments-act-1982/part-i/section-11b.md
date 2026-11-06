@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11B. Proof and admissibility of certain judgments and related documents for the purposes of the 2005 Hague Convention[^key-9a21809c5c52fea7fc89efcceefa926d][^key-1e3c91618ae6eb982a3074013534fabe]
+## 11B. Proof and admissibility of certain judgments and related documents for the purposes of the 2005 Hague Convention[^c-9a21809c5c52fea7fc89efcceefa926d][^c-1e3c91618ae6eb982a3074013534fabe]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a21809c5c52fea7fc89efcceefa926d]: Modification: [S. 11B](https://www.legislation.gov.uk/ukpga/1982/27/section/11B) applied (with modifications) (1.10.2015) by [The Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) Regulations 2015 (S.I. 2015/1644)](https://www.legislation.gov.uk/uksi/2015/1644), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1), [25(2)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/25/2)
+[^c-9a21809c5c52fea7fc89efcceefa926d]: Modification: [S. 11B](https://www.legislation.gov.uk/ukpga/1982/27/section/11B) applied (with modifications) (1.10.2015) by [The Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) Regulations 2015 (S.I. 2015/1644)](https://www.legislation.gov.uk/uksi/2015/1644), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1), [25(2)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/25/2)
 
-[^key-1e3c91618ae6eb982a3074013534fabe]: Textual amendment: S. 11B inserted (1.10.2015) by [The Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) Regulations 2015 (S.I. 2015/1644)](https://www.legislation.gov.uk/uksi/2015/1644), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/1644/regulation/8)
+[^c-1e3c91618ae6eb982a3074013534fabe]: Textual amendment: S. 11B inserted (1.10.2015) by [The Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) Regulations 2015 (S.I. 2015/1644)](https://www.legislation.gov.uk/uksi/2015/1644), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1644/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/1644/regulation/8)

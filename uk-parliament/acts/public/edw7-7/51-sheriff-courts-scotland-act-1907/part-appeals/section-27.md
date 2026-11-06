@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Appeal to sheriff.[^key-951018e992889551065df3d1ea5afdac]
+## 27. Appeal to sheriff.[^c-951018e992889551065df3d1ea5afdac]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-951018e992889551065df3d1ea5afdac]: Textual amendment: [Ss. 27-29](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/27) repealed (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 4(e)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/e); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/378/article/3))
+[^c-951018e992889551065df3d1ea5afdac]: Textual amendment: [Ss. 27-29](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/27) repealed (1.1.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 4(e)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/e); [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/378/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Failure by parent to secure regular attendance by his child at a public school.[^key-c6a79d7387194fbb2ef9ce3b06914860]
+## 35. Failure by parent to secure regular attendance by his child at a public school.[^c-c6a79d7387194fbb2ef9ce3b06914860]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6a79d7387194fbb2ef9ce3b06914860]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/1980/44/section/35) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 16 para. 9(1)(c)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/16/paragraph/9/1/c) (with [ss. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89), [90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-c6a79d7387194fbb2ef9ce3b06914860]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/1980/44/section/35) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 16 para. 9(1)(c)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/16/paragraph/9/1/c) (with [ss. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89), [90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

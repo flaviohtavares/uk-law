@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Membership of scheme advisory board[^key-fde6980f3519408663f6fbf9bfb853bd]
+## 10. Membership of scheme advisory board[^c-fde6980f3519408663f6fbf9bfb853bd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The scheme manager may determine—
 
 ## Annotations
 
-[^key-fde6980f3519408663f6fbf9bfb853bd]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-fde6980f3519408663f6fbf9bfb853bd]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

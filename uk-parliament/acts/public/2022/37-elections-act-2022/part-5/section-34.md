@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Campaigners[^key-5b0ca9dc2073af0eefd9c8b1c6c45a36][^key-04f3ab23c02391aaf01e5664ac8e3bdf]
+## 34. Campaigners[^c-5b0ca9dc2073af0eefd9c8b1c6c45a36][^c-04f3ab23c02391aaf01e5664ac8e3bdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b0ca9dc2073af0eefd9c8b1c6c45a36]: Commencement: S. 34 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-5b0ca9dc2073af0eefd9c8b1c6c45a36]: Commencement: S. 34 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-04f3ab23c02391aaf01e5664ac8e3bdf]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/37/section/34) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)
+[^c-04f3ab23c02391aaf01e5664ac8e3bdf]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/37/section/34) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)

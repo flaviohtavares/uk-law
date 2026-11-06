@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 306. Testing for alcohol and drugs after serious incident[^key-008cf7c3c5f11ff06efecc2ad9b88ea5]
+## 306. Testing for alcohol and drugs after serious incident[^c-008cf7c3c5f11ff06efecc2ad9b88ea5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-008cf7c3c5f11ff06efecc2ad9b88ea5]: Textual amendment: S. 306 repealed (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)(e)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b/e)
+[^c-008cf7c3c5f11ff06efecc2ad9b88ea5]: Textual amendment: S. 306 repealed (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)(e)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b/e)

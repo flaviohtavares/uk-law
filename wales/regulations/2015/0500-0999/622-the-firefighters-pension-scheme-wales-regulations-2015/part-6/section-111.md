@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Provisional awards of eligible child’s pensions: later adjustments[^key-3842b5313785ac667468a227f7145b8c]
+## 111. Provisional awards of eligible child’s pensions: later adjustments[^c-3842b5313785ac667468a227f7145b8c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3842b5313785ac667468a227f7145b8c]: Commencement: Reg. 111 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-3842b5313785ac667468a227f7145b8c]: Commencement: Reg. 111 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -52,7 +52,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 So far as these Regulations are made in exercise of powers conferred by the Immigration Act 2014 and the Immigration Act 2016, they are made with the consent of the Treasury [^c24282361].
 
-## 1. Citation, commencement and extent[^key-eaa216fc22acfd2e9504ef07f456776b]
+## 1. Citation, commencement and extent[^c-eaa216fc22acfd2e9504ef07f456776b]
 
 (1) These Regulations may be cited as the Immigration and Nationality (Replacement of Tier 4 and Fees) and Passport (Fees) (Amendment) Regulations 2020.
 
@@ -64,7 +64,7 @@ So far as these Regulations are made in exercise of powers conferred by the Immi
 
 (5) Regulations 3, 4, 14, 16 and 23 also extend to the Bailiwick of Guernsey and the Bailiwick of Jersey.
 
-## 2. Amendments to the Immigration and Asylum Act 1999 (Part V Exemption: Licensed Sponsors Tiers 2 and 4) Order 2009[^key-f860c16949cfff91419823984df87c61]
+## 2. Amendments to the Immigration and Asylum Act 1999 (Part V Exemption: Licensed Sponsors Tiers 2 and 4) Order 2009[^c-f860c16949cfff91419823984df87c61]
 
 (1) The Immigration and Asylum Act 1999 (Part V Exemption: Licensed Sponsors Tiers 2 and 4) Order 2009 [^c24282371] is amended as follows.
 
@@ -123,59 +123,59 @@ So far as these Regulations are made in exercise of powers conferred by the Immi
 - (c) in paragraph (2) for “the Points-based system”, in both places it occurs, substitute “ the Part 6A Points-based system or under Appendix ST: Student or Appendix CS: Child Student to the immigration rules ”;
 - (d) in paragraph (3) at the end insert “ or the Student sponsor ”.
 
-## 3. Amendments to the Immigration and Nationality (Fees) Regulations 2018[^key-b0f0538366d2f687f23037a99b215a45]
+## 3. Amendments to the Immigration and Nationality (Fees) Regulations 2018[^c-b0f0538366d2f687f23037a99b215a45]
 
 The Immigration and Nationality (Fees) Regulations 2018 [^c24282411] are amended as provided by regulations 4 to 23.
 
-## 4.[^key-8346d01152933488299c474ff6cf186c]
+## 4.[^c-8346d01152933488299c474ff6cf186c]
 
 In regulation 1 (citation, commencement and extent) in paragraphs (4) and (5) after “13A,” insert “ 13B, 13C, 13D, ”.
 
-## 5.[^key-b98f57a8a177844306332e2304ae6704]
+## 5.[^c-b98f57a8a177844306332e2304ae6704]
 
 In regulation 2 (interpretation) in the definition of “Points-Based System” in paragraph (a) at the end insert “ and in Appendix ST: Student and Appendix CS: Child Student to those rules ”.
 
-## 6.[^key-e3f5b5e7a7d814afa43798a4a9440f24]
+## 6.[^c-e3f5b5e7a7d814afa43798a4a9440f24]
 
 In regulation 3 (fees for applications for entry clearance to enter, and leave to enter, the United Kingdom) in paragraph (b) omit “the” in the second place it occurs.
 
-## 7.[^key-8b48f4c6aff3a07884e20998528ae9c2]
+## 7.[^c-8b48f4c6aff3a07884e20998528ae9c2]
 
 In regulation 4 (fees for applications for leave to remain in the United Kingdom) in paragraph (b) omit “the” in the second place it occurs.
 
-## 8.[^key-2499d7fc22a585abfd6c4765eb58f981]
+## 8.[^c-2499d7fc22a585abfd6c4765eb58f981]
 
 In regulation 5 (fees for documents and administration) in paragraph (b) omit “the” in the second place it occurs.
 
-## 9.[^key-679476ec9b46b378af0ada31b7541cc7]
+## 9.[^c-679476ec9b46b378af0ada31b7541cc7]
 
 In regulation 7 (fees for exercise of consular functions) in paragraph (b) omit “the”.
 
-## 10.[^key-293ef59eabd2024013d37b3f9d6bf272]
+## 10.[^c-293ef59eabd2024013d37b3f9d6bf272]
 
 In regulation 8 (fees for premium services in the United Kingdom) in paragraph (b) omit “the”.
 
-## 11.[^key-dcc022761cfb789c96936405df1e59ea]
+## 11.[^c-dcc022761cfb789c96936405df1e59ea]
 
 In regulation 9 (fees for premium services outside the United Kingdom) in paragraph (b) omit “the”.
 
-## 12.[^key-30da385cbb74f93f49dc3be52c15af89]
+## 12.[^c-30da385cbb74f93f49dc3be52c15af89]
 
 In regulation 10 (fees for applications, processes and services relating to nationality) in paragraph (c) omit “the” in the first place it occurs.
 
-## 13.[^key-eb78534d3253bcb371dde9f9d41c4ba6]
+## 13.[^c-eb78534d3253bcb371dde9f9d41c4ba6]
 
 In regulation 11 (fees for applications relating to entry clearance to enter the Isle of Man and premium services) in paragraph (d) omit “the”.
 
-## 14.[^key-22dbd4289eca5e0bfe162b44464060c7]
+## 14.[^c-22dbd4289eca5e0bfe162b44464060c7]
 
 In regulation 12 (fees for applications for entry clearance to enter the Bailiwick of Guernsey or the Bailiwick of Jersey and premium services) in paragraph (c) omit “the”.
 
-## 15.[^key-784caa2e81cb6efc4b2dc115821c4ee8]
+## 15.[^c-784caa2e81cb6efc4b2dc115821c4ee8]
 
 In regulation 13 (miscellaneous fees) in paragraph (b) omit “the” in the third place it occurs.
 
-## 16.[^key-fff03c52c0c9a88f0e38235e77a4ccc5]
+## 16.[^c-fff03c52c0c9a88f0e38235e77a4ccc5]
 
 After regulation 13A (Windrush scheme: power to waive fees) insert—
 
@@ -200,7 +200,7 @@ After regulation 13A (Windrush scheme: power to waive fees) insert—
 >
 > The Secretary of State may refund any fee, or any part of a fee, paid under these Regulations.
 
-## 17.[^key-75b3ce14fff9269af473018955539ecb]
+## 17.[^c-75b3ce14fff9269af473018955539ecb]
 
 (1) Schedule 1 (applications for entry clearance to enter, and leave to enter, the United Kingdom) is amended as follows.
 
@@ -215,7 +215,7 @@ After regulation 13A (Windrush scheme: power to waive fees) insert—
 
 (3) In Table 5 (waivers or reductions in respect of fees for applications for entry clearance to enter or leave to enter the United Kingdom) in 5.2.1 in the third column for “1.3.12” substitute “ 1.3.11A ”.
 
-## 18.[^key-509caec1e98c583ab05105c0942c51a2]
+## 18.[^c-509caec1e98c583ab05105c0942c51a2]
 
 (1) Schedule 2 (applications for leave to remain in the United Kingdom) is amended as follows.
 
@@ -238,7 +238,7 @@ After regulation 13A (Windrush scheme: power to waive fees) insert—
 - (a) omit sub-paragraph (2);
 - (b) in sub-paragraph (3) omit the words from “and the further application” to “does not apply and”.
 
-## 19.[^key-8087a9a4c8bc6ae2b4a5380cab630a9c]
+## 19.[^c-8087a9a4c8bc6ae2b4a5380cab630a9c]
 
 (1) Schedule 3 (documents and administration) is amended as follows.
 
@@ -255,7 +255,7 @@ After regulation 13A (Windrush scheme: power to waive fees) insert—
 >
 > [^c24282431]
 
-## 20.[^key-6ed525af8c9c61d305dd71e55ed7f9ec]
+## 20.[^c-6ed525af8c9c61d305dd71e55ed7f9ec]
 
 (1) Schedule 4 (sponsorship) is amended as follows.
 
@@ -301,7 +301,7 @@ After regulation 13A (Windrush scheme: power to waive fees) insert—
 - (a) in 15.1, in the heading for “Tier 4 Sponsor” substitute “ Student Sponsor ”;
 - (b) in 15.1.1 in the second column for “Tier 4 Sponsor” substitute “ Student Sponsor ”.
 
-## 21.[^key-41f288a46240075129ef5788e60de9c3]
+## 21.[^c-41f288a46240075129ef5788e60de9c3]
 
 (1) Schedule 7 (premium services outside the United Kingdom) is amended as follows.
 
@@ -312,7 +312,7 @@ After regulation 13A (Windrush scheme: power to waive fees) insert—
 - (a) in 18.3.1 in the third column for “£1.37” substitute “ £0.69 ”;
 - (b) in 18.3.2 in the third column for “£5.48” substitute “ £2.74 ”.
 
-## 22.[^key-7859a68a5ef015b7899154a320ecd18a]
+## 22.[^c-7859a68a5ef015b7899154a320ecd18a]
 
 (1) Schedule 9 (applications in relation to entry clearance to enter the Isle of Man and premium services) is amended as follows.
 
@@ -323,7 +323,7 @@ After regulation 13A (Windrush scheme: power to waive fees) insert—
 - (a) in 25.3.1 in the third column for “£1.37” substitute “ £0.69 ”;
 - (b) in 25.3.2 in the third column for “£5.48” substitute “ £2.74 ”.
 
-## 23.[^key-562d6e632f8e2fa5b5863b05505ece0a]
+## 23.[^c-562d6e632f8e2fa5b5863b05505ece0a]
 
 (1) Schedule 10 (applications for entry clearance to enter the Bailiwick of Guernsey or the Bailiwick of Jersey and premium services) is amended as follows.
 
@@ -334,13 +334,13 @@ After regulation 13A (Windrush scheme: power to waive fees) insert—
 - (a) in 27.3.1 in the third column for “£1.37” substitute “ £0.69 ”;
 - (b) in 27.3.2 in the third column for “£5.48” substitute “ £2.74 ”.
 
-## 24. Saving of provisions of the Immigration and Nationality (Fees) Regulations 2018 revoked by regulations 17 and 18[^key-026c57768d7ccb44d9322b8c73a812ee]
+## 24. Saving of provisions of the Immigration and Nationality (Fees) Regulations 2018 revoked by regulations 17 and 18[^c-026c57768d7ccb44d9322b8c73a812ee]
 
 (1) Despite the amendments made by regulation 17(2)(b) and (3), fee 1.3.12 in Table 1 in Schedule 1 to the Immigration and Nationality (Fees) Regulations 2018 and the reference to that fee in 5.2.1 in Table 5 in that Schedule continue to have effect for the purposes of the provision by paragraph 3 of that Schedule of a fee for an application for entry clearance to enter the United Kingdom made by the dependant of a Tier 4 Migrant.
 
 (2) Despite the amendments made by regulation 18(2)(b) and (3), fee 6.2.12 in Table 6 in Schedule 2 to the Immigration and Nationality (Fees) Regulations 2018 and the reference to that fee in 9.5 and 9.6 in Table 9 in that Schedule continue to have effect for the purposes of the provision by paragraph 3 of that Schedule of a fee for an application for limited leave to remain in the United Kingdom made by the dependant of a Tier 4 Migrant.
 
-(3)[^key-0cb4ed796f3d1e8316ebcabfc164d7ef] In this regulation—
+(3)[^c-0cb4ed796f3d1e8316ebcabfc164d7ef] In this regulation—
 
 - “the immigration rules” means the rules made under section 3(2) of the Immigration Act 1971;
 - “dependant” has the meaning given by regulation 2 of the Immigration and Nationality (Fees) Regulations 2018;
@@ -348,7 +348,7 @@ After regulation 13A (Windrush scheme: power to waive fees) insert—
   - (a) has entry clearance or limited leave to remain in the United Kingdom as a Tier 4 (General) Student or a Tier 4 (Child) Student granted before 9.00 a.m. on 5th October 2020 under Part 6A of the immigration rules, or
   - (b) made an application before that time under that Part for entry clearance or limited leave to remain in the United Kingdom as a Tier 4 (General) Student or a Tier 4 (Child) Student which had not been determined immediately before that time.
 
-## 25. Amendments to the Passport (Fees) Regulations 2018[^key-887dbfb17dfc90ef913a5de83b1e9918]
+## 25. Amendments to the Passport (Fees) Regulations 2018[^c-887dbfb17dfc90ef913a5de83b1e9918]
 
 (1) The Passport (Fees) Regulations 2018 [^c24282451] are amended as follows.
 
@@ -410,9 +410,9 @@ Impact assessments have been prepared in respect of the reduction fees for infor
 
 [^c24282361]: Marginal citation: Treasury consent to the exercise of the powers conferred by the Immigration Act 2014 has been obtained pursuant to section 69(1) of that Act. Treasury consent to the exercise of the powers conferred by the Immigration Act 2016 has been obtained pursuant to section 87(1) of that Act.
 
-[^key-eaa216fc22acfd2e9504ef07f456776b]: Commencement: Reg. 1 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-eaa216fc22acfd2e9504ef07f456776b]: Commencement: Reg. 1 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-f860c16949cfff91419823984df87c61]: Commencement: Reg. 2 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-f860c16949cfff91419823984df87c61]: Commencement: Reg. 2 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
 [^c24282371]: Marginal citation: [S.I. 2009/506](https://www.legislation.gov.uk/uksi/2009/506).
 
@@ -422,60 +422,60 @@ Impact assessments have been prepared in respect of the reduction fees for infor
 
 [^c24282401]: Marginal citation: The definition of “Student sponsor” in paragraph 6 was inserted by the Statement of Changes in Immigration Rules laid before Parliament on 10th September 2020 (HC 707).
 
-[^key-b0f0538366d2f687f23037a99b215a45]: Commencement: Reg. 3 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-b0f0538366d2f687f23037a99b215a45]: Commencement: Reg. 3 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
 [^c24282411]: Marginal citation: [S.I. 2018/330](https://www.legislation.gov.uk/uksi/2018/330), amended by [S.I. 2018/618](https://www.legislation.gov.uk/uksi/2018/618), 2018/875, 2018/999, 2019/475, 2020/77, 2020/294, 2020/736.
 
-[^key-8346d01152933488299c474ff6cf186c]: Commencement: Reg. 4 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-8346d01152933488299c474ff6cf186c]: Commencement: Reg. 4 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-b98f57a8a177844306332e2304ae6704]: Commencement: Reg. 5 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-b98f57a8a177844306332e2304ae6704]: Commencement: Reg. 5 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-e3f5b5e7a7d814afa43798a4a9440f24]: Commencement: Reg. 6 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-e3f5b5e7a7d814afa43798a4a9440f24]: Commencement: Reg. 6 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-8b48f4c6aff3a07884e20998528ae9c2]: Commencement: Reg. 7 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-8b48f4c6aff3a07884e20998528ae9c2]: Commencement: Reg. 7 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-2499d7fc22a585abfd6c4765eb58f981]: Commencement: Reg. 8 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-2499d7fc22a585abfd6c4765eb58f981]: Commencement: Reg. 8 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-679476ec9b46b378af0ada31b7541cc7]: Commencement: Reg. 9 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-679476ec9b46b378af0ada31b7541cc7]: Commencement: Reg. 9 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-293ef59eabd2024013d37b3f9d6bf272]: Commencement: Reg. 10 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-293ef59eabd2024013d37b3f9d6bf272]: Commencement: Reg. 10 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-dcc022761cfb789c96936405df1e59ea]: Commencement: Reg. 11 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-dcc022761cfb789c96936405df1e59ea]: Commencement: Reg. 11 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-30da385cbb74f93f49dc3be52c15af89]: Commencement: Reg. 12 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-30da385cbb74f93f49dc3be52c15af89]: Commencement: Reg. 12 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-eb78534d3253bcb371dde9f9d41c4ba6]: Commencement: Reg. 13 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-eb78534d3253bcb371dde9f9d41c4ba6]: Commencement: Reg. 13 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-22dbd4289eca5e0bfe162b44464060c7]: Commencement: Reg. 14 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-22dbd4289eca5e0bfe162b44464060c7]: Commencement: Reg. 14 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-784caa2e81cb6efc4b2dc115821c4ee8]: Commencement: Reg. 15 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-784caa2e81cb6efc4b2dc115821c4ee8]: Commencement: Reg. 15 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-fff03c52c0c9a88f0e38235e77a4ccc5]: Commencement: Reg. 16 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-fff03c52c0c9a88f0e38235e77a4ccc5]: Commencement: Reg. 16 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-75b3ce14fff9269af473018955539ecb]: Commencement: Reg. 17 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-75b3ce14fff9269af473018955539ecb]: Commencement: Reg. 17 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-509caec1e98c583ab05105c0942c51a2]: Commencement: Reg. 18 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-509caec1e98c583ab05105c0942c51a2]: Commencement: Reg. 18 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
 [^c24282421]: Marginal citation: Appendix ST: Student and Appendix CS: Child Student refer to “permission to stay” which is defined in paragraph 6 of the United Kingdom immigration rules (as amended by the Statement of Changes in Immigration Rules laid before Parliament on 10th September 2020 (HC 707) which added those Appendices) to include leave to remain.
 
-[^key-8087a9a4c8bc6ae2b4a5380cab630a9c]: Commencement: Reg. 19 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-8087a9a4c8bc6ae2b4a5380cab630a9c]: Commencement: Reg. 19 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
 [^c24282431]: Marginal citation: “**The 2008 Regulations**” means the [Immigration (Biometric Registration) Regulations 2008 (S.I. 2008/3048)](https://www.legislation.gov.uk/uksi/2008/3048). Regulation 3 of those Regulations was substituted by [S.I. 2012/594](https://www.legislation.gov.uk/uksi/2012/594) and amended by [S.I. 2015/433](https://www.legislation.gov.uk/uksi/2015/433).
 
-[^key-6ed525af8c9c61d305dd71e55ed7f9ec]: Commencement: Reg. 20 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-6ed525af8c9c61d305dd71e55ed7f9ec]: Commencement: Reg. 20 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
 [^c24282441]: Marginal citation: More information about the Student Sponsor basic compliance assessment policy will be published on www.gov.uk.
 
-[^key-41f288a46240075129ef5788e60de9c3]: Commencement: Reg. 21 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-41f288a46240075129ef5788e60de9c3]: Commencement: Reg. 21 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-7859a68a5ef015b7899154a320ecd18a]: Commencement: Reg. 22 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-7859a68a5ef015b7899154a320ecd18a]: Commencement: Reg. 22 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-562d6e632f8e2fa5b5863b05505ece0a]: Commencement: Reg. 23 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-562d6e632f8e2fa5b5863b05505ece0a]: Commencement: Reg. 23 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-026c57768d7ccb44d9322b8c73a812ee]: Commencement: Reg. 24 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-026c57768d7ccb44d9322b8c73a812ee]: Commencement: Reg. 24 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
-[^key-0cb4ed796f3d1e8316ebcabfc164d7ef]: Textual amendment: [Reg. 24(3)](https://www.legislation.gov.uk/uksi/2020/966/regulation/24/3) substituted (1.12.2020 at 9.00 am) by [The Immigration and Nationality (Replacement of Tier 2 and Fees) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1147)](https://www.legislation.gov.uk/uksi/2020/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1147/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1147/regulation/15/2)
+[^c-0cb4ed796f3d1e8316ebcabfc164d7ef]: Textual amendment: [Reg. 24(3)](https://www.legislation.gov.uk/uksi/2020/966/regulation/24/3) substituted (1.12.2020 at 9.00 am) by [The Immigration and Nationality (Replacement of Tier 2 and Fees) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1147)](https://www.legislation.gov.uk/uksi/2020/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1147/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1147/regulation/15/2)
 
-[^key-887dbfb17dfc90ef913a5de83b1e9918]: Commencement: Reg. 25 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
+[^c-887dbfb17dfc90ef913a5de83b1e9918]: Commencement: Reg. 25 in force at 5.10.2020 at 9.00 am, see reg. 1(2)
 
 [^c24282451]: Marginal citation: [S.I. 2018/414](https://www.legislation.gov.uk/uksi/2018/414).

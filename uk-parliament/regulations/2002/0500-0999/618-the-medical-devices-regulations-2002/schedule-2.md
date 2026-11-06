@@ -32,7 +32,7 @@ Regulation 2(1)
 
 *Extent: E+W+S+N.I.*
 
-**5.**[^key-e42eac1e7683c39990636406f02fbaaf] The agreement between the European Community and the Swiss Confederation on mutual recognition in relation to conformity assessment signed in Luxembourg on 21st June 1999.
+**5.**[^c-e42eac1e7683c39990636406f02fbaaf] The agreement between the European Community and the Swiss Confederation on mutual recognition in relation to conformity assessment signed in Luxembourg on 21st June 1999.
 
 ## Annotations
 
@@ -46,4 +46,4 @@ Regulation 2(1)
 
 [^c17037181]: Marginal citation: OJ No. L 31, 4.2.1999, p.3.
 
-[^key-e42eac1e7683c39990636406f02fbaaf]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2002/618/schedule/2/paragraph/5) added (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2013/2327/regulation/20)
+[^c-e42eac1e7683c39990636406f02fbaaf]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2002/618/schedule/2/paragraph/5) added (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2013/2327/regulation/20)

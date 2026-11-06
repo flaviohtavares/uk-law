@@ -42,21 +42,21 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by sections 2[^f00001], 3(1)[^f00002], 3A[^f00003], 3B(1)[^f00004] and 4(1)[^f00005] of the Plant Health Act (Northern Ireland) 1967[^f00006] and of all powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-e557cf3fbca4414279b18eab06fc04b0]
+## 1. Citation and commencement[^c-e557cf3fbca4414279b18eab06fc04b0]
 
 This Order may be cited as the Plant Health (Wood and Bark) Order (Northern Ireland) 1997 and shall come into operation on 1st March 1997.
 
-## 2. Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 1993[^key-2c161eb1b8c4f415f98ff323b32e34ef]
+## 2. Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 1993[^c-2c161eb1b8c4f415f98ff323b32e34ef]
 
 The Plant Health (Wood and Bark) Order (Northern Ireland) 1993[^f00007] shall be amended in accordance with Articles 3 to 9.
 
-**3.**[^key-3efe449f910ffe65c490f062e4b49404] In Article 2(1) (Interpretation) after the definition of “Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093)” there shall be inserted the following definition—
+**3.**[^c-3efe449f910ffe65c490f062e4b49404] In Article 2(1) (Interpretation) after the definition of “Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093)” there shall be inserted the following definition—
 
 > - “Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044)” means Commission Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) of 26th July 1995 establishing the conditions under which certain harmful organisms, plants, plant products and other objects listed in Annexes I to V to Council Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093) may be introduced into or moved within the Community or certain protected zones thereof, for trial or scientific purposes and for work on varietal selections[^f00008];
 
 .
 
-**4.**[^key-1364ad261cef0af6e06fcbeffa51c8cf] After Article 26 (Licences) there shall be inserted the following new Article—
+**4.**[^c-1364ad261cef0af6e06fcbeffa51c8cf] After Article 26 (Licences) there shall be inserted the following new Article—
 
 > **26A. Licences for trial or scientific purposes and for work on varietal selections**
 >
@@ -80,24 +80,24 @@ The Plant Health (Wood and Bark) Order (Northern Ireland) 1993[^f00007] shall be
 >
 > (6) In paragraph (4) “appropriate quarantine measures” means such quarantine measures as may be specified by an inspector.
 
-**5.**[^key-e4870c5c4d0b2a20078a06563f0ca2db] In Article 30 (Offences) in paragraph (1)(*b*) for the words “Article 26—” there shall be substituted “Article 26 or 26A—”.
+**5.**[^c-e4870c5c4d0b2a20078a06563f0ca2db] In Article 30 (Offences) in paragraph (1)(*b*) for the words “Article 26—” there shall be substituted “Article 26 or 26A—”.
 
-**6.**[^key-8f46a724b0350768027a3e08ea6661aa] In Schedule 2 Part B in column 4 opposite Items 1, 2(*a*), 2(*b*), 2(*c*) and 2(*e*) there shall be deleted the word “Spain”.
+**6.**[^c-8f46a724b0350768027a3e08ea6661aa] In Schedule 2 Part B in column 4 opposite Items 1, 2(*a*), 2(*b*), 2(*c*) and 2(*e*) there shall be deleted the word “Spain”.
 
-**7.**[^key-440f0a1e0860e13bfce649ba56975713] In Part B of Schedule 4 in column 4—
+**7.**[^c-440f0a1e0860e13bfce649ba56975713] In Part B of Schedule 4 in column 4—
 
 - (a) opposite Items 1, 2, 4, 5, 7.1, 7.2, 7.3 and 7.4 there shall be deleted the word “Spain”;
 - (b) opposite Items 3 and 7.6 there shall be deleted the words “Greece” and “Spain”; and
 - (c) opposite Item 8 after the word “Finland” there shall be inserted the words “France (Britanny)”.
 
-**8.**[^key-eb63666be546845ed0377259bd4d5589] In Part B of Schedule 5 in column 4—
+**8.**[^c-eb63666be546845ed0377259bd4d5589] In Part B of Schedule 5 in column 4—
 
 - (a) opposite Items 1, 2, 4, 5, 10, 11, 12 and 18 there shall be deleted the word “Spain”;
 - (b) opposite Items 3 and 14 there shall be deleted the words “Greece” and “Spain”;
 - (c) opposite Item 9 there shall be deleted the words “France (Corsica)”, “Portugal” and “Spain”; and
 - (d) opposite Item 17 after the word “Finland” there shall be inserted the words “France (Britanny)”.
 
-**9.**[^key-5875c9961a0873227c3ae8ef8642db34] In Schedule 8 (Instruments amending and supplementing Council Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093)) there shall be added at the end the following—
+**9.**[^c-5875c9961a0873227c3ae8ef8642db34] In Schedule 8 (Instruments amending and supplementing Council Directive [77/93/EEC](https://www.legislation.gov.uk/european/directive/1977/0093)) there shall be added at the end the following—
 
 > Commission Directive [95/44/EC](https://www.legislation.gov.uk/european/directive/1995/0044) O.J. No. L.184, 3.8.95, p. 34
 >
@@ -138,24 +138,24 @@ The Order also implements as respects Northern Ireland—
 
 [^f00006]: Footnote: [1967 c. 28 (N.I.)](https://www.legislation.gov.uk/apni/1967/28)
 
-[^key-e557cf3fbca4414279b18eab06fc04b0]: Commencement: Art. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
+[^c-e557cf3fbca4414279b18eab06fc04b0]: Commencement: Art. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
 
-[^key-2c161eb1b8c4f415f98ff323b32e34ef]: Commencement: Art. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
+[^c-2c161eb1b8c4f415f98ff323b32e34ef]: Commencement: Art. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
 
 [^f00007]: Footnote: [S.R. 1993 No. 460](https://www.legislation.gov.uk/nisr/1993/460); the relevant amending instrument is [S.R. 1996 No. 18](https://www.legislation.gov.uk/nisr/1996/18)
 
-[^key-3efe449f910ffe65c490f062e4b49404]: Commencement: Art. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
+[^c-3efe449f910ffe65c490f062e4b49404]: Commencement: Art. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
 
 [^f00008]: Footnote: O.J. No. L.184, 3.8.95, p. 34
 
-[^key-1364ad261cef0af6e06fcbeffa51c8cf]: Commencement: Art. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
+[^c-1364ad261cef0af6e06fcbeffa51c8cf]: Commencement: Art. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
 
-[^key-e4870c5c4d0b2a20078a06563f0ca2db]: Commencement: Art. 5 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
+[^c-e4870c5c4d0b2a20078a06563f0ca2db]: Commencement: Art. 5 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
 
-[^key-8f46a724b0350768027a3e08ea6661aa]: Commencement: Art. 6 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
+[^c-8f46a724b0350768027a3e08ea6661aa]: Commencement: Art. 6 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
 
-[^key-440f0a1e0860e13bfce649ba56975713]: Commencement: Art. 7 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
+[^c-440f0a1e0860e13bfce649ba56975713]: Commencement: Art. 7 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
 
-[^key-eb63666be546845ed0377259bd4d5589]: Commencement: Art. 8 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
+[^c-eb63666be546845ed0377259bd4d5589]: Commencement: Art. 8 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
 
-[^key-5875c9961a0873227c3ae8ef8642db34]: Commencement: Art. 9 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)
+[^c-5875c9961a0873227c3ae8ef8642db34]: Commencement: Art. 9 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/11/article/1)

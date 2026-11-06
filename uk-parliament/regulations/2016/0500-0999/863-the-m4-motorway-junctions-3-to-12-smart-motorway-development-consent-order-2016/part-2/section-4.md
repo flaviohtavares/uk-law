@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Maintenance of authorised development[^key-0f5fa0327f6f4eda8c852e3ad2f4d7d8]
+## 4. Maintenance of authorised development[^c-0f5fa0327f6f4eda8c852e3ad2f4d7d8]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Without limitation on the scope of section 41 (duty to maintain highways maintai
 
 ## Annotations
 
-[^key-0f5fa0327f6f4eda8c852e3ad2f4d7d8]: Commencement: Art. 4 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-0f5fa0327f6f4eda8c852e3ad2f4d7d8]: Commencement: Art. 4 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
 [^f00016]: Footnote: [2015 c. 7](https://www.legislation.gov.uk/ukpga/2015/7).

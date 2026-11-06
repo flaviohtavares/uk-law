@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Enforcement by trading standards authorities[^key-aba760fee0e32d92daa9b46ace4f13ae]
+## 17. Enforcement by trading standards authorities[^c-aba760fee0e32d92daa9b46ace4f13ae]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aba760fee0e32d92daa9b46ace4f13ae]: Commencement: S. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-aba760fee0e32d92daa9b46ace4f13ae]: Commencement: S. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

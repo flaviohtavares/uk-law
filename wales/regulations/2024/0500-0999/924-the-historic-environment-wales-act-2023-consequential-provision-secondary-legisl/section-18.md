@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. The National Park Authorities (Wales) Order 1995[^key-c8d0059935d473ecca226f7d62d3204f]
+## 18. The National Park Authorities (Wales) Order 1995[^c-c8d0059935d473ecca226f7d62d3204f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In Schedule 5 to the National Park Authorities (Wales) Order 1995[^f00013], omit
 
 ## Annotations
 
-[^key-c8d0059935d473ecca226f7d62d3204f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2024/924/regulation/18) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-c8d0059935d473ecca226f7d62d3204f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2024/924/regulation/18) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), amended by [S.I. 1996/534](https://www.legislation.gov.uk/uksi/1996/534); there are other amending instruments but none is relevant to these Regulations.

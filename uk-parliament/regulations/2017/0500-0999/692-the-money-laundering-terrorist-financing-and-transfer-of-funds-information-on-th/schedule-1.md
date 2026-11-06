@@ -40,11 +40,11 @@ Regulation 7(1)(b)
 - 16. Institute of Chartered Accountants in Ireland
 - 17. Institute of Chartered Accountants of Scotland
 - 18. Institute of Financial Accountants
-- 19. Institute of Accountants and Bookkeepers[^key-e0f1b61f2238b1dc9cade6b1c6bdbbe0]
+- 19. Institute of Accountants and Bookkeepers[^c-e0f1b61f2238b1dc9cade6b1c6bdbbe0]
 - 20. Law Society
 - 21. Law Society of Northern Ireland
 - 22. Law Society of Scotland
 
 ## Annotations
 
-[^key-e0f1b61f2238b1dc9cade6b1c6bdbbe0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2017/692/schedule/1) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2026/621/regulation/34)
+[^c-e0f1b61f2238b1dc9cade6b1c6bdbbe0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2017/692/schedule/1) substituted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2026/621/regulation/34)

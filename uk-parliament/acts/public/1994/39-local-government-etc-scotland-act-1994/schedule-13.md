@@ -38,7 +38,7 @@ Section 180(1).
 
 **3.** (1) The Burial Grounds (Scotland) Act 1855 shall be amended in accordance with this paragraph.
 
-(2)[^key-8da169c1916963597cde7b7d6fe23334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8da169c1916963597cde7b7d6fe23334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 10 (provision of suitable burial grounds by board after closure, etc.), the words “any of the Lords Ordinary of” and the words “And provided also, that no land shall be so designated nearer than one hundred yards to any dwelling house without the consent in writing of the owner of such dwelling house;” shall cease to have effect.
 
@@ -64,7 +64,7 @@ Section 180(1).
 
 ### The Allotments (Scotland) Act 1892 (c.54)
 
-**6.**[^key-bf9176a32c28b5237a9a9c111fbe58b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bf9176a32c28b5237a9a9c111fbe58b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Merchant Shipping Act 1894 (c.60)
 
@@ -92,7 +92,7 @@ Section 180(1).
 
 ### The Allotments (Scotland) Act 1922 (c.52)
 
-**12.**[^key-66656d48305bcd175bef74da4e51ef2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-66656d48305bcd175bef74da4e51ef2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Performing Animals (Regulation) Act 1925 (c.38)
 
@@ -100,7 +100,7 @@ Section 180(1).
 
 ### The Agricultural Produce (Grading and Marking) Act 1928 (c.19)
 
-**14.**[^key-06eac758404de31a91b8eca488164924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-06eac758404de31a91b8eca488164924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Petroleum (Consolidation) Act 1928 (c.32)
 
@@ -262,11 +262,11 @@ Section 180(1).
 
 ### The Allotments (Scotland) Act 1950 (c.38)
 
-**35.**[^key-c7960e073f4d2a9dba90bcc91b8fd88e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-c7960e073f4d2a9dba90bcc91b8fd88e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Pet Animals Act 1951 (c.35)
 
-**36.**[^key-98537beaeee871423d56b05fc8842b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-98537beaeee871423d56b05fc8842b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Rag Flock and Other Filling Materials Act 1951 (c.63)
 
@@ -1150,7 +1150,7 @@ shall cease to have effect.
 
 ### The Breeding of Dogs Act 1973 (c.60)
 
-**91.**[^key-46d2b0e0c3582cb0bc1c7cc77fe589e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**91.**[^c-46d2b0e0c3582cb0bc1c7cc77fe589e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government (Scotland) Act 1973 (c.65)
 
@@ -1455,7 +1455,7 @@ shall cease to have effect.
 
 (51) Section 168 (census) shall cease to have effect.
 
-(52)[^key-d1ee15b5cf5b69344930e2fdd4b464c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(52)[^c-d1ee15b5cf5b69344930e2fdd4b464c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (53) In section 170(1) (war memorials), for “islands or district council” substitute “ local authority within the meaning of this Act ”.
 
@@ -1576,11 +1576,11 @@ shall cease to have effect.
 
 (2)[^c12271671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6820a244821d43165d4b1aeb7b107b4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6820a244821d43165d4b1aeb7b107b4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c12271671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-6820a244821d43165d4b1aeb7b107b4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6820a244821d43165d4b1aeb7b107b4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 62(2)(a) (certain exemptions as respects offences relating to noise), after “water authority” insert “ (“water authority” being construed in accordance with section 62 of the Local Government etc. (Scotland) Act 1994) ”.
 
@@ -1590,7 +1590,7 @@ shall cease to have effect.
 
 (9)[^c12271671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-6820a244821d43165d4b1aeb7b107b4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-6820a244821d43165d4b1aeb7b107b4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The District Courts (Scotland) Act 1975 (c.20)
 
@@ -1645,7 +1645,7 @@ substitute the words “ Principal Reporter ”.
 
 ### The Reservoirs Act 1975 (c.23)
 
-**98.**[^key-382ff202246d38257d7b51d24002d29e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**98.**[^c-382ff202246d38257d7b51d24002d29e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The House of Commons Disqualification Act 1975 (c.24)
 
@@ -2972,9 +2972,9 @@ shall cease to have effect.
 
 ### The Parliamentary Constituencies Act 1986 (c.56)
 
-**150.**[^key-11a82ca639a04dca8bbc90f247ba8939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**150.**[^c-11a82ca639a04dca8bbc90f247ba8939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Exclusion from valuation roll of fishings and fish counters[^key-3698a65eecceaffb0eef6fdbb642435c]
+### Exclusion from valuation roll of fishings and fish counters[^c-3698a65eecceaffb0eef6fdbb642435c]
 
 **151.** (1) The Debtors (Scotland) Act 1987 shall be amended in accordance with this paragraph.
 
@@ -3315,7 +3315,7 @@ shall cease to have effect.
 
 **162.**[^c12272621] (1) The Prisons (Scotland) Act 1989 shall be amended in accordance with this paragraph.
 
-(2)[^key-bebfa57bae25389e84dc7284c861f70d][^c12272631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bebfa57bae25389e84dc7284c861f70d][^c12272631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 14 (legalised police cells)—
 
@@ -3749,19 +3749,19 @@ shall cease to have effect.
 
 ## Annotations
 
-[^key-8da169c1916963597cde7b7d6fe23334]: Textual amendment: [Sch. 13 para. 3(2)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/3/2) repealed (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
+[^c-8da169c1916963597cde7b7d6fe23334]: Textual amendment: [Sch. 13 para. 3(2)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/3/2) repealed (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
 
 [^c12269311]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/4) wholly in force at 1.4.1996; [Sch. 13](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13). para. 4 not in force at Royal Assent see [s. 184(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/184/2); [Sch. 13](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13). para. 4(1)(3) in force at 4.1.1995 by [S.I. 1994/2850](https://www.legislation.gov.uk/uksi/1994/2850), [art. 3(c)(ii)](https://www.legislation.gov.uk/uksi/1994/2850/article/3/c/ii); [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/4) in force at 1.4.1996 insofar as not already in force by [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 
-[^key-bf9176a32c28b5237a9a9c111fbe58b3]: Textual amendment: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/6) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2017/458/article/11))
+[^c-bf9176a32c28b5237a9a9c111fbe58b3]: Textual amendment: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/6) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2017/458/article/11))
 
 [^c12269321]: Textual amendment: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/7) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
 
 [^c21065371]: Textual amendment: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/9) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [ss. 126](https://www.legislation.gov.uk/asp/2008/5/section/126), [128](https://www.legislation.gov.uk/asp/2008/5/section/128), [Sch. 3](https://www.legislation.gov.uk/asp/2008/5/schedule/3) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1) (with savings in [art. 3](https://www.legislation.gov.uk/ssi/2009/319/article/3) (as amended by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 3](https://www.legislation.gov.uk/ssi/2009/404/article/3)))
 
-[^key-66656d48305bcd175bef74da4e51ef2e]: Textual amendment: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/12) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2017/458/article/11))
+[^c-66656d48305bcd175bef74da4e51ef2e]: Textual amendment: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/12) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2017/458/article/11))
 
-[^key-06eac758404de31a91b8eca488164924]: Textual amendment: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/14) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/6)
+[^c-06eac758404de31a91b8eca488164924]: Textual amendment: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/14) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/6)
 
 [^c21065311]: Textual amendment: [Sch. 13 para. 23](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/23) repealed (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [ss. 149](https://www.legislation.gov.uk/asp/2005/16/section/149), [150](https://www.legislation.gov.uk/asp/2005/16/section/150), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
@@ -3771,9 +3771,9 @@ shall cease to have effect.
 
 [^c12269381]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-c7960e073f4d2a9dba90bcc91b8fd88e]: Textual amendment: [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/35) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2017/458/article/11))
+[^c-c7960e073f4d2a9dba90bcc91b8fd88e]: Textual amendment: [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/35) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2017/458/article/11))
 
-[^key-98537beaeee871423d56b05fc8842b6f]: Textual amendment: [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/36) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
+[^c-98537beaeee871423d56b05fc8842b6f]: Textual amendment: [Sch. 13 para. 36](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/36) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
 
 [^c12269391]: Textual amendment: [Sch. 13 para. 37](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/37) repealed (6.1.1997) by [S.I. 1996/3097](https://www.legislation.gov.uk/uksi/1996/3097), [arts. 1](https://www.legislation.gov.uk/uksi/1996/3097/article/1), [3(1)(f)](https://www.legislation.gov.uk/uksi/1996/3097/article/3/1/f)
 
@@ -3871,7 +3871,7 @@ shall cease to have effect.
 
 [^c12270781]: Textual amendment: [Sch. 13 para. 88](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/88) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 
-[^key-46d2b0e0c3582cb0bc1c7cc77fe589e6]: Textual amendment: [Sch. 13 para. 91](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/91) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
+[^c-46d2b0e0c3582cb0bc1c7cc77fe589e6]: Textual amendment: [Sch. 13 para. 91](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/91) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
 
 [^c12271491]: Commencement: Sch. 13 para. 92 partly in force; Sch. 13. para. 92 not in force at Royal Assent see s. 184(2); Sch. 13. para. 92(1)(20)(22)(26)(27)(60)(70) in force at 4.1.1995 by [S.I. 1994/2850](https://www.legislation.gov.uk/uksi/1994/2850), [art. 3(c)(vii)](https://www.legislation.gov.uk/uksi/1994/2850/article/3/c/vii); Sch. 13 para. 92(25) in force at 1.4.1995 by [S.I. 1995/702](https://www.legislation.gov.uk/uksi/1995/702), [art. 3(d)(ii)](https://www.legislation.gov.uk/uksi/1995/702/article/3/d/ii); Sch.13 para. 92 (other than sub-paragraphs (34)(35)(48)) in force at 1.4.1996 insofar as not already in force by [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 
@@ -3895,7 +3895,7 @@ shall cease to have effect.
 
 [^c12271591]: Textual amendment: Sch. 13 para. 92(34)(35) repealed (1.2.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 2](https://www.legislation.gov.uk/uksi/1996/186/article/2)
 
-[^key-d1ee15b5cf5b69344930e2fdd4b464c3]: Textual amendment: [Sch. 13 para. 92(52)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/92/52) repealed (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
+[^c-d1ee15b5cf5b69344930e2fdd4b464c3]: Textual amendment: [Sch. 13 para. 92(52)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/92/52) repealed (28.12.2016) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule)
 
 [^c12271601]: Textual amendment: Sch. 13 para. 92(55)(b) repealed (1.4.2002) by [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3), [s. 71](https://www.legislation.gov.uk/asp/2002/3/section/71), [Sch. 7 para. 23(g)(vi)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/23/g/vi) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3)
 
@@ -3911,9 +3911,9 @@ shall cease to have effect.
 
 [^c12271671]: Textual amendment: Sch. 13 para. 95(2)(4)(8)(9) repealed (1.2.1996) by [Environment 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/186/article/3/7)
 
-[^key-6820a244821d43165d4b1aeb7b107b4b]: Textual amendment: Sch. 13 para. 95(3)(5)(10) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 28](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/28); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-6820a244821d43165d4b1aeb7b107b4b]: Textual amendment: Sch. 13 para. 95(3)(5)(10) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 28](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/28); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-382ff202246d38257d7b51d24002d29e]: Textual amendment: [Sch. 13 para. 98](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/98) repealed (1.4.2016) by [Reservoirs (Scotland) Act 2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9), [ss. 112(2)](https://www.legislation.gov.uk/asp/2011/9/section/112/2), [116(1)](https://www.legislation.gov.uk/asp/2011/9/section/116/1) (with [s. 110](https://www.legislation.gov.uk/asp/2011/9/section/110)); [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-382ff202246d38257d7b51d24002d29e]: Textual amendment: [Sch. 13 para. 98](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/98) repealed (1.4.2016) by [Reservoirs (Scotland) Act 2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9), [ss. 112(2)](https://www.legislation.gov.uk/asp/2011/9/section/112/2), [116(1)](https://www.legislation.gov.uk/asp/2011/9/section/116/1) (with [s. 110](https://www.legislation.gov.uk/asp/2011/9/section/110)); [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
 
 [^c12271861]: Commencement: [Sch. 13 para. 100](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/100) partly in force; [Sch. 13](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13). para. 100 not in force at Royal Assent see [s. 184(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/184/2); [Sch. 13](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13). para. 100(1)(9)(f)(g) in force at 4.1.1995 by [S.I. 1994/2850](https://www.legislation.gov.uk/uksi/1994/2850), [art. 3(c)(ix)](https://www.legislation.gov.uk/uksi/1994/2850/article/3/c/ix); [Sch. 13 para. 100(2)(4)(5)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/100/2/4/5) in force at 1.4.1995 by [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(c)(iii)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/c/iii); [Sch. 13 para. 100(6)(a)(i)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/100/6/a/i) in force at 6.4.1995 by [S.I. 1995/702](https://www.legislation.gov.uk/uksi/1995/702), [art. 4(1)](https://www.legislation.gov.uk/uksi/1995/702/article/4/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/702/schedule/2); [Sch. 13 para. 100(9)(h)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/100/9/h) in force at 31.3.1996 by [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 3(b)](https://www.legislation.gov.uk/uksi/1996/323/article/3/b); [Sch. 13 para. 100(6)-(8)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/100/6)(9)(a)-(i) in force at 1.4.1996 by [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 
@@ -3983,9 +3983,9 @@ shall cease to have effect.
 
 [^c12272441]: Textual amendment: [Sch. 13 para. 142(2)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/142/2) repealed (20.1.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 227](https://www.legislation.gov.uk/ukpga/1996/52/section/227), [Sch. 19 Pt. VIII](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/VIII); [S.I. 1996/2959](https://www.legislation.gov.uk/uksi/1996/2959), [art.2](https://www.legislation.gov.uk/uksi/1996/2959/article/2)
 
-[^key-11a82ca639a04dca8bbc90f247ba8939]: Textual amendment: [Sch. 13 para. 150](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/150) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2)
+[^c-11a82ca639a04dca8bbc90f247ba8939]: Textual amendment: [Sch. 13 para. 150](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/150) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2)
 
-[^key-3698a65eecceaffb0eef6fdbb642435c]: Textual amendment: [S. 151](https://www.legislation.gov.uk/ukpga/1994/39/section/151) heading substituted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 74(3)](https://www.legislation.gov.uk/asp/2016/18/section/74/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
+[^c-3698a65eecceaffb0eef6fdbb642435c]: Textual amendment: [S. 151](https://www.legislation.gov.uk/ukpga/1994/39/section/151) heading substituted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 74(3)](https://www.legislation.gov.uk/asp/2016/18/section/74/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
 
 [^c12272451]: Marginal citation: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
@@ -4009,7 +4009,7 @@ shall cease to have effect.
 
 [^c12272621]: Commencement: Sch. 13 para. 162 wholly in force at 1.4.1996; Sch. 13 para. 162 not in force at Royal Assent see s. 184(2); Sch 13 para. 162(1)(2) in force at 22.12.1995 and Sch. 13 para. 162(3)(4) in force at 1.4.1996 by [S.I. 1995/3326](https://www.legislation.gov.uk/uksi/1995/3326), [arts. 2(b)](https://www.legislation.gov.uk/uksi/1995/3326/article/2/b), [3(b)](https://www.legislation.gov.uk/uksi/1995/3326/article/3/b) (with saving in [art. 4](https://www.legislation.gov.uk/uksi/1995/3326/article/4))
 
-[^key-bebfa57bae25389e84dc7284c861f70d]: Textual amendment: [Sch. 13 para. 162(2)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/162/2) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/4)
+[^c-bebfa57bae25389e84dc7284c861f70d]: Textual amendment: [Sch. 13 para. 162(2)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/162/2) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/4)
 
 [^c12272631]: Modification: Sch. 13 para. 162(2) excluded (*temp.* until 1.4.1996) by [S.I. 1995/3326](https://www.legislation.gov.uk/uksi/1995/3326), [art. 4](https://www.legislation.gov.uk/uksi/1995/3326/article/4)
 

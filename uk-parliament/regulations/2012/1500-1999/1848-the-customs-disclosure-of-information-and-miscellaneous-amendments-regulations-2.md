@@ -93,7 +93,7 @@ In regulation 3—
 - (a) on summary conviction to a fine not exceeding the statutory maximum [^c21325851] or to imprisonment for a term not exceeding three months or to both;
 - (b) on conviction on indictment to a fine or to imprisonment for a period not exceeding two years or both.
 
-(2) In England and Wales a prosecution for an offence under regulation 3 may be instituted only by or with the consent of the Director of Public Prosecutions.[^key-afd6868a10c38f4698de890f0809505a]
+(2) In England and Wales a prosecution for an offence under regulation 3 may be instituted only by or with the consent of the Director of Public Prosecutions.[^c-afd6868a10c38f4698de890f0809505a]
 
 (3) In Northern Ireland a prosecution for an offence under regulation 3 may be instituted only—
 
@@ -202,7 +202,7 @@ No impact assessment has been produced because these Regulations will have no ef
 
 [^c21325851]: Marginal citation: The “statutory maximum” is defined in Schedule 1 to the [Interpretation Act 1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30) as amended by paragraph 17 of Schedule 4 to the [Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40). It is currently £5,000.
 
-[^key-afd6868a10c38f4698de890f0809505a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/1848/regulation/4/2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/36)
+[^c-afd6868a10c38f4698de890f0809505a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/1848/regulation/4/2) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/36)
 
 [^c21325861]: Marginal citation: [S.I. 2005/1803](https://www.legislation.gov.uk/uksi/2005/1803).
 

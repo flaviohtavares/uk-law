@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7A. Conditions relating to national insurance and relevant earnings[^key-c6e3b6e12bee7ac8e7ff96b6d585a087]
+## 7A. Conditions relating to national insurance and relevant earnings[^c-c6e3b6e12bee7ac8e7ff96b6d585a087]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6e3b6e12bee7ac8e7ff96b6d585a087]: Textual amendment: Reg. 7A inserted (1.11.2010) by [The Social Security (Contribution Conditions for Jobseekers Allowance and Employment and Support Allowance) Regulations 2010 (S.I. 2010/2446)](https://www.legislation.gov.uk/uksi/2010/2446), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2446/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/2446/regulation/3/2)
+[^c-c6e3b6e12bee7ac8e7ff96b6d585a087]: Textual amendment: Reg. 7A inserted (1.11.2010) by [The Social Security (Contribution Conditions for Jobseekers Allowance and Employment and Support Allowance) Regulations 2010 (S.I. 2010/2446)](https://www.legislation.gov.uk/uksi/2010/2446), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2446/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/2446/regulation/3/2)

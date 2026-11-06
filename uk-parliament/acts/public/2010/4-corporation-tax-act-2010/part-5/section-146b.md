@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146B. Conditions 1 and 3: claimant company not controlled by surrendering company etc[^key-342f1931652d2281dc2e58c4adc6eb14]
+## 146B. Conditions 1 and 3: claimant company not controlled by surrendering company etc[^c-342f1931652d2281dc2e58c4adc6eb14]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-342f1931652d2281dc2e58c4adc6eb14]: Textual amendment: Ss. 146A, 146B inserted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/9)
+[^c-342f1931652d2281dc2e58c4adc6eb14]: Textual amendment: Ss. 146A, 146B inserted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/9)

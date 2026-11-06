@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule ZA1 — Further requirements relating to the responsible person’s determination[^key-5420f076886a46cf14b403eaeded35f7]
+## Schedule ZA1 — Further requirements relating to the responsible person’s determination[^c-5420f076886a46cf14b403eaeded35f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ Sections 46A, 72E, 100ZA and 226ZA
 
 ## Annotations
 
-[^key-5420f076886a46cf14b403eaeded35f7]: Textual amendment: [Sch. ZA1](https://www.legislation.gov.uk/ukpga/1992/52/schedule/ZA1) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [art. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/881/schedule/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-5420f076886a46cf14b403eaeded35f7]: Textual amendment: [Sch. ZA1](https://www.legislation.gov.uk/ukpga/1992/52/schedule/ZA1) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [art. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/881/schedule/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

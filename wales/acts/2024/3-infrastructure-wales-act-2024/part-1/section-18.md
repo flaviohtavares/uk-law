@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Cross-border projects[^key-65c115246e854e2f97ff3bf7002ce65c]
+## 18. Cross-border projects[^c-65c115246e854e2f97ff3bf7002ce65c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65c115246e854e2f97ff3bf7002ce65c]: Commencement: S. 18 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-65c115246e854e2f97ff3bf7002ce65c]: Commencement: S. 18 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

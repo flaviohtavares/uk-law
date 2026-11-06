@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Scheme of reconstruction involving issue of securities[^key-0431b5c15b5e9dd486f41e4a2d1f6bc5][^key-4abb60a84cbfbbcb4d15dc7fb0701093][^key-cd31f620eb723847e7c937545064569a][^key-75b4cfc67de37815f0d3e9af02a3c9bc][^key-cae86b50ab3d06d33edca267e1e6e200][^key-7d1b9728988cd560276a6e57535fd833][^key-160cc913f3fcb8eb01b51d23d73ae0b4]
+## 136. Scheme of reconstruction involving issue of securities[^c-0431b5c15b5e9dd486f41e4a2d1f6bc5][^c-4abb60a84cbfbbcb4d15dc7fb0701093][^c-cd31f620eb723847e7c937545064569a][^c-75b4cfc67de37815f0d3e9af02a3c9bc][^c-cae86b50ab3d06d33edca267e1e6e200][^c-7d1b9728988cd560276a6e57535fd833][^c-160cc913f3fcb8eb01b51d23d73ae0b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,22 +51,22 @@ summary: ''
 
 (5) This section applies in relation to a company that has no share capital as if references to shares in or debentures of the company included any interests in the company possessed by members of the company.
 
-(6) This section has effect subject to section 137 (anti-avoidance)[^key-7cc2c83cf4f4b823387277269ff40b87].
+(6) This section has effect subject to section 137 (anti-avoidance)[^c-7cc2c83cf4f4b823387277269ff40b87].
 
 ## Annotations
 
-[^key-0431b5c15b5e9dd486f41e4a2d1f6bc5]: Modification: Ss. 135, 136 excluded by Income and Corporation Taxes Act 1988 (c. 1), s. 757 (as amended (with effect in accordance with Sch. 9 paras. 7, 8 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 9 para. 4(5))](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/4/5)
+[^c-0431b5c15b5e9dd486f41e4a2d1f6bc5]: Modification: Ss. 135, 136 excluded by Income and Corporation Taxes Act 1988 (c. 1), s. 757 (as amended (with effect in accordance with Sch. 9 paras. 7, 8 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 9 para. 4(5))](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/4/5)
 
-[^key-4abb60a84cbfbbcb4d15dc7fb0701093]: Modification: Ss. 135, 136 excluded (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 15 para. 82](https://www.legislation.gov.uk/ukpga/2000/17/schedule/15/paragraph/82) (with [s. 84](https://www.legislation.gov.uk/ukpga/2000/17/section/84))
+[^c-4abb60a84cbfbbcb4d15dc7fb0701093]: Modification: Ss. 135, 136 excluded (with effect in accordance with s. 63(4) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 15 para. 82](https://www.legislation.gov.uk/ukpga/2000/17/schedule/15/paragraph/82) (with [s. 84](https://www.legislation.gov.uk/ukpga/2000/17/section/84))
 
-[^key-cd31f620eb723847e7c937545064569a]: Modification: S. 136 applied (24.7.2002) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 29 para. 84(1)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/29/paragraph/84/1)
+[^c-cd31f620eb723847e7c937545064569a]: Modification: S. 136 applied (24.7.2002) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 29 para. 84(1)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/29/paragraph/84/1)
 
-[^key-75b4cfc67de37815f0d3e9af02a3c9bc]: Modification: S. 136 applied by Income and Corporation Taxes Act 1988 (c. 1), s. 842 (as amended (with effect in accordance with Sch. 9 paras. 7, 8 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 9 para. 4(7))](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/4/7)
+[^c-75b4cfc67de37815f0d3e9af02a3c9bc]: Modification: S. 136 applied by Income and Corporation Taxes Act 1988 (c. 1), s. 842 (as amended (with effect in accordance with Sch. 9 paras. 7, 8 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 9 para. 4(7))](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/4/7)
 
-[^key-cae86b50ab3d06d33edca267e1e6e200]: Modification: S. 136 restricted by The Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964), reg. 85Y (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [S.I. 2010/294](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2010/294/regulation/21))
+[^c-cae86b50ab3d06d33edca267e1e6e200]: Modification: S. 136 restricted by The Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964), reg. 85Y (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [S.I. 2010/294](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2010/294/regulation/21))
 
-[^key-7d1b9728988cd560276a6e57535fd833]: Modification: S. 136 excluded by Offshore Funds (Tax) Regulation 2009 (S.I. 2009/3001), reg. 36A(2)(d) (as substituted (8.6.2013) by [S.I. 2013/1400](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/15/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2)))
+[^c-7d1b9728988cd560276a6e57535fd833]: Modification: S. 136 excluded by Offshore Funds (Tax) Regulation 2009 (S.I. 2009/3001), reg. 36A(2)(d) (as substituted (8.6.2013) by [S.I. 2013/1400](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/15/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2)))
 
-[^key-160cc913f3fcb8eb01b51d23d73ae0b4]: Textual amendment: S. 136 substituted (with effect in accordance with Sch. 9 paras. 7, 8 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/2)
+[^c-160cc913f3fcb8eb01b51d23d73ae0b4]: Textual amendment: S. 136 substituted (with effect in accordance with Sch. 9 paras. 7, 8 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2002/23/schedule/9/paragraph/2)
 
-[^key-7cc2c83cf4f4b823387277269ff40b87]: Textual amendment: Words in s. 136(6) substituted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 37(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/37/3)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/37/6) (with [s. 37(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/37/7))
+[^c-7cc2c83cf4f4b823387277269ff40b87]: Textual amendment: Words in s. 136(6) substituted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 37(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/37/3)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/37/6) (with [s. 37(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/37/7))

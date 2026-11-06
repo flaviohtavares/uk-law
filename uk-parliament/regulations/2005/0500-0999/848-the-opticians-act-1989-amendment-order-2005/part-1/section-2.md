@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the Opticians Act 1989[^key-28f92a403ba43fc613dc015793e5bef9]
+## 2. Amendment of the Opticians Act 1989[^c-28f92a403ba43fc613dc015793e5bef9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28f92a403ba43fc613dc015793e5bef9]: Commencement: Art. 2 comes into force in accordance with art. 1(3)-(6)
+[^c-28f92a403ba43fc613dc015793e5bef9]: Commencement: Art. 2 comes into force in accordance with art. 1(3)-(6)
 
 [^f00002]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44).

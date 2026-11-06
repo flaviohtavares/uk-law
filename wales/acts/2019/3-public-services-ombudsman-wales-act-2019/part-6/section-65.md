@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Consultation and co-operation with other ombudsmen[^key-3fa9495853da1d6f0cb913dc320d3ef1]
+## 65. Consultation and co-operation with other ombudsmen[^c-3fa9495853da1d6f0cb913dc320d3ef1]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fa9495853da1d6f0cb913dc320d3ef1]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2019/3/section/65) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-3fa9495853da1d6f0cb913dc320d3ef1]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2019/3/section/65) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons
 
-The Children and Young People (Scotland) Act 2014 (Part 4 and Part 5 Complaints) Order 2016 (revoked)[^key-01c5510bf2962fec238199de17267ce7]
+The Children and Young People (Scotland) Act 2014 (Part 4 and Part 5 Complaints) Order 2016 (revoked)[^c-01c5510bf2962fec238199de17267ce7]
 
 Made
 
@@ -42,52 +42,52 @@ Coming into force
 
 31st August 2016
 
-[^key-01c5510bf2962fec238199de17267ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01c5510bf2962fec238199de17267ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-01c5510bf2962fec238199de17267ce7]
+## 1. Citation, commencement and interpretation[^c-01c5510bf2962fec238199de17267ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Matters which may be the subject of a complaint[^key-01c5510bf2962fec238199de17267ce7]
+## 2. Matters which may be the subject of a complaint[^c-01c5510bf2962fec238199de17267ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons who may make a complaint[^key-01c5510bf2962fec238199de17267ce7]
+## 3. Persons who may make a complaint[^c-01c5510bf2962fec238199de17267ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Procedure for making a complaint[^key-01c5510bf2962fec238199de17267ce7]
+## 4. Procedure for making a complaint[^c-01c5510bf2962fec238199de17267ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Procedure for consideration of a complaint[^key-01c5510bf2962fec238199de17267ce7]
+## 5. Procedure for consideration of a complaint[^c-01c5510bf2962fec238199de17267ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Investigation procedure[^key-01c5510bf2962fec238199de17267ce7]
+## 6. Investigation procedure[^c-01c5510bf2962fec238199de17267ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Extension of timescales in special circumstances[^key-01c5510bf2962fec238199de17267ce7]
+## 7. Extension of timescales in special circumstances[^c-01c5510bf2962fec238199de17267ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Determination of complaints[^key-01c5510bf2962fec238199de17267ce7]
+## 8. Determination of complaints[^c-01c5510bf2962fec238199de17267ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Ombudsman’s remit in relation to Part 4 and Part 5 complaints[^key-01c5510bf2962fec238199de17267ce7]
+## 9. Ombudsman’s remit in relation to Part 4 and Part 5 complaints[^c-01c5510bf2962fec238199de17267ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01c5510bf2962fec238199de17267ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01c5510bf2962fec238199de17267ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-01c5510bf2962fec238199de17267ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01c5510bf2962fec238199de17267ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01c5510bf2962fec238199de17267ce7]: Textual amendment: Order revoked (6.10.2016) by [The Children and Young People (Scotland) Act 2014 (Part 4 and Part 5 Complaints) Revocation Order 2016 (S.S.I. 2016/314)](https://www.legislation.gov.uk/ssi/2016/314), [arts. 1](https://www.legislation.gov.uk/ssi/2016/314/article/1), [2](https://www.legislation.gov.uk/ssi/2016/314/article/2)
+[^c-01c5510bf2962fec238199de17267ce7]: Textual amendment: Order revoked (6.10.2016) by [The Children and Young People (Scotland) Act 2014 (Part 4 and Part 5 Complaints) Revocation Order 2016 (S.S.I. 2016/314)](https://www.legislation.gov.uk/ssi/2016/314), [arts. 1](https://www.legislation.gov.uk/ssi/2016/314/article/1), [2](https://www.legislation.gov.uk/ssi/2016/314/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Commutation of small pensions[^key-42013b76273a6fee2daec609faa7587e]
+## 121. Commutation of small pensions[^c-42013b76273a6fee2daec609faa7587e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-42013b76273a6fee2daec609faa7587e]: Commencement: Reg. 121 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-42013b76273a6fee2daec609faa7587e]: Commencement: Reg. 121 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00042]: Footnote: Paragraph 7 was amended by the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 16 paragraphs 23 and 29 and Schedule 18 paragraphs 1, 3 and 4 and [S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572).
 

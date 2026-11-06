@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Refusal of debtor application: inappropriate application[^key-88d484ec7080d43e691fd922b21d5418]
+## 21. Refusal of debtor application: inappropriate application[^c-88d484ec7080d43e691fd922b21d5418]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88d484ec7080d43e691fd922b21d5418]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/21/section/21) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-88d484ec7080d43e691fd922b21d5418]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/21/section/21) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.11. Human Rights[^key-86ff41f7b83a91a30e1089d6994681df]
+## 7.11. Human Rights[^c-86ff41f7b83a91a30e1089d6994681df]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86ff41f7b83a91a30e1089d6994681df]: Textual amendment: [Rule 7.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.11) inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rules 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [6](https://www.legislation.gov.uk/uksi/2000/2092/rule/6)
+[^c-86ff41f7b83a91a30e1089d6994681df]: Textual amendment: [Rule 7.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.11) inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rules 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [6](https://www.legislation.gov.uk/uksi/2000/2092/rule/6)

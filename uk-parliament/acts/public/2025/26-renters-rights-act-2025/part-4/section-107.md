@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Enforcement by local housing authorities: general duty[^key-1ab094ebcc5645b17f64d1cf208d2361][^key-e2b6fd3f148b9df32a44cb4839aa4395]
+## 107. Enforcement by local housing authorities: general duty[^c-1ab094ebcc5645b17f64d1cf208d2361][^c-e2b6fd3f148b9df32a44cb4839aa4395]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ under the landlord legislation.
 
 ## Annotations
 
-[^key-1ab094ebcc5645b17f64d1cf208d2361]: Commencement: S. 107 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-1ab094ebcc5645b17f64d1cf208d2361]: Commencement: S. 107 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-e2b6fd3f148b9df32a44cb4839aa4395]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2025/26/section/107) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/n)
+[^c-e2b6fd3f148b9df32a44cb4839aa4395]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2025/26/section/107) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/n)

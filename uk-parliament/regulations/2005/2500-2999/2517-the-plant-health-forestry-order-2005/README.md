@@ -34,7 +34,7 @@ This Statutory Instrument has been printed in substitution of the SI of the same
 
 PLANT HEALTH
 
-The Plant Health (Forestry) Order 2005 (revoked)[^key-cfb06f351548afe0444ac1aa97e92b41]
+The Plant Health (Forestry) Order 2005 (revoked)[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 Made
 
@@ -48,11 +48,11 @@ Coming into force
 
 1st October 2005
 
-[^key-cfb06f351548afe0444ac1aa97e92b41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfb06f351548afe0444ac1aa97e92b41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 1 — GENERAL[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -62,7 +62,7 @@ Coming into force
 - [Section 2 — General interpretation](part-1/section-2.md)
 - [Section 2A — Inspectors](part-1/section-2a.md)
 
-### PART 2 — IMPORTS FROM THIRD COUNTRIES[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 2 — IMPORTS FROM THIRD COUNTRIES[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -84,7 +84,7 @@ Coming into force
 - [Section 16 — Requirements to be met by relevant material prior to inspection at its place or country of destination](part-2/section-16.md)
 - [Section 17 — Approved places of inspection](part-2/section-17.md)
 
-### PART 3 — INTERNAL COMMUNITY CONTROLS ON MOVEMENT[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 3 — INTERNAL COMMUNITY CONTROLS ON MOVEMENT[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -97,7 +97,7 @@ Coming into force
 - [Section 22 — Validity of plant passports for Great Britain](part-3/section-22.md)
 - [Section 23 — General provisions relating to plant passports](part-3/section-23.md)
 
-### PART 4 — REGISTRATION OF FORESTRY TRADERS AND AUTHORITY TO ISSUE PLANT PASSPORTS[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 4 — REGISTRATION OF FORESTRY TRADERS AND AUTHORITY TO ISSUE PLANT PASSPORTS[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -109,7 +109,7 @@ Coming into force
 - [Section 27 — Conditions for maintaining registration as a forestry trader](part-4/section-27.md)
 - [Section 28 — Authority to issue plant passports](part-4/section-28.md)
 
-### PART 5 — SWISS TRADE AND SWISS PLANT PASSPORTS[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 5 — SWISS TRADE AND SWISS PLANT PASSPORTS[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -117,7 +117,7 @@ Coming into force
 
 - [Section 29 — Swiss trade and Swiss plant passports](part-5/section-29.md)
 
-### PART 6 — MEASURES TO CONTROL THE LANDING OF RELEVANT MATERIAL AND PREVENT THE SPREAD OF TREE PESTS[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 6 — MEASURES TO CONTROL THE LANDING OF RELEVANT MATERIAL AND PREVENT THE SPREAD OF TREE PESTS[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -132,7 +132,7 @@ Coming into force
 - [Section 36 — Failure to comply with a notice](part-6/section-36.md)
 - [Section 37 — Power to enter premises used wholly or mainly as a dwelling](part-6/section-37.md)
 
-### PART 7 — LICENCES[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 7 — LICENCES[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -141,7 +141,7 @@ Coming into force
 - [Section 38 — Licences to carry out activities prohibited by this Order](part-7/section-38.md)
 - [Section 39 — Licences for trial or scientific purposes and for work on varietal selections permitted by Directive 2008/61/EC](part-7/section-39.md)
 
-### PART 8 — NOTIFICATIONS, PROVISION AND EXCHANGE OF INFORMATION[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 8 — NOTIFICATIONS, PROVISION AND EXCHANGE OF INFORMATION[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -152,7 +152,7 @@ Coming into force
 - [Section 42 — Information to be given](part-8/section-42.md)
 - [Section 42A — Power to share information for the purposes of the Order](part-8/section-42a.md)
 
-### PART 9 — OFFENCES[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 9 — OFFENCES[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -161,7 +161,7 @@ Coming into force
 - [Section 43 — Offences](part-9/section-43.md)
 - [Section 44 — Penalties](part-9/section-44.md)
 
-### PART 10 — THE CUSTOMS ACT AND REVOCATION[^key-cfb06f351548afe0444ac1aa97e92b41]
+### PART 10 — THE CUSTOMS ACT AND REVOCATION[^c-cfb06f351548afe0444ac1aa97e92b41]
 
 *Extent: E+W+S*
 
@@ -190,16 +190,16 @@ Coming into force
 
 **No longer in force.**
 
-[^key-cfb06f351548afe0444ac1aa97e92b41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfb06f351548afe0444ac1aa97e92b41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-cfb06f351548afe0444ac1aa97e92b41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfb06f351548afe0444ac1aa97e92b41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cfb06f351548afe0444ac1aa97e92b41]: Textual amendment: Order revoked: (S.) (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6) (with [regs. 50-53](https://www.legislation.gov.uk/ssi/2019/421/regulation/50)); (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2019/1517/regulation/51)); and (W.) (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/uksi/2020/206), [reg. 1](https://www.legislation.gov.uk/uksi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2020/206/regulation/51))
+[^c-cfb06f351548afe0444ac1aa97e92b41]: Textual amendment: Order revoked: (S.) (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6) (with [regs. 50-53](https://www.legislation.gov.uk/ssi/2019/421/regulation/50)); (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2019/1517/regulation/51)); and (W.) (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/uksi/2020/206), [reg. 1](https://www.legislation.gov.uk/uksi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/uksi/2020/206/regulation/51))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made since 1.1.2018 until its final revocation. Revised versions of how the S.I. stood from its first commencement until 1.1.2018 are available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

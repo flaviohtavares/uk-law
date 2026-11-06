@@ -31,7 +31,7 @@ summary: ''
 
 ELECTRICITY
 
-The Offshore Electricity Development (Environmental Impact Assessment) Regulations (Northern Ireland) 2008 (revoked)[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+The Offshore Electricity Development (Environmental Impact Assessment) Regulations (Northern Ireland) 2008 (revoked)[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 Made
 
@@ -41,144 +41,144 @@ Coming into operation
 
 5th March 2008
 
-[^key-d70cffda2b4eed4e8786ce15fb4baa93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d70cffda2b4eed4e8786ce15fb4baa93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — General[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+## PART I — General[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
-### 1. Citation and commencement[^key-d70cffda2b4eed4e8786ce15fb4baa93]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 1. Citation and commencement[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Applications[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 2. Interpretation[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — Consents for Offshore Developments[^key-d70cffda2b4eed4e8786ce15fb4baa93]
-
-### 4. Restriction on proposed development[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 3. Applications[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Pre-application determination as to need for environmental impact assessment and opinion as to content of environmental statement[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+## PART II — Consents for Offshore Developments[^c-d70cffda2b4eed4e8786ce15fb4baa93]
+
+### 4. Restriction on proposed development[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — Preparation of Environmental Statements[^key-d70cffda2b4eed4e8786ce15fb4baa93]
-
-### 6. Procedure to facilitate preparation of environmental statements[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 5. Pre-application determination as to need for environmental impact assessment and opinion as to content of environmental statement[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Provision of information[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+## PART III — Preparation of Environmental Statements[^c-d70cffda2b4eed4e8786ce15fb4baa93]
+
+### 6. Procedure to facilitate preparation of environmental statements[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — Procedures on Receipt of Application[^key-d70cffda2b4eed4e8786ce15fb4baa93]
-
-### 8. Application made to the Department without prior determination as to need for environmental impact assessment or without an environmental statement[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 7. Provision of information[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART V — Publicity[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+## PART IV — Procedures on Receipt of Application[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
-### 9. Publicity where an environmental statement is submitted[^key-d70cffda2b4eed4e8786ce15fb4baa93]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Availability of copies of environmental statement[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 8. Application made to the Department without prior determination as to need for environmental impact assessment or without an environmental statement[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Consultation where environmental statement submitted[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+## PART V — Publicity[^c-d70cffda2b4eed4e8786ce15fb4baa93]
+
+### 9. Publicity where an environmental statement is submitted[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Further information relating to environmental statement[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 10. Availability of copies of environmental statement[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Charges[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 11. Consultation where environmental statement submitted[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VI — Development Likely to Affect Other EEA States[^key-d70cffda2b4eed4e8786ce15fb4baa93]
-
-### 14. Development likely to have significant effects on the environment in another EEA State[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 12. Further information relating to environmental statement[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VII — Final[^key-d70cffda2b4eed4e8786ce15fb4baa93]
-
-### 15. Determination of whether proposed development should proceed[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 13. Charges[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d70cffda2b4eed4e8786ce15fb4baa93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART VI — Development Likely to Affect Other EEA States[^c-d70cffda2b4eed4e8786ce15fb4baa93]
+
+### 14. Development likely to have significant effects on the environment in another EEA State[^c-d70cffda2b4eed4e8786ce15fb4baa93]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART VII — Final[^c-d70cffda2b4eed4e8786ce15fb4baa93]
+
+### 15. Determination of whether proposed development should proceed[^c-d70cffda2b4eed4e8786ce15fb4baa93]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d70cffda2b4eed4e8786ce15fb4baa93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Descriptions of Development[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+## SCHEDULE 1 — Descriptions of Development[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Descriptions of Development[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+## SCHEDULE 2 — Descriptions of Development[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
-**1.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Selection Criteria[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+## SCHEDULE 3 — Selection Criteria[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
-### 1. Characteristics of Development[^key-d70cffda2b4eed4e8786ce15fb4baa93]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Location of Developments[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 1. Characteristics of Development[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Characteristics of the Potential Impact[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 2. Location of Developments[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Matters for Inclusion in Environmental Statement[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+### 3. Characteristics of the Potential Impact[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
-### PART I[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## SCHEDULE 4 — Matters for Inclusion in Environmental Statement[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
-**2.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART I[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
-**3.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II[^key-d70cffda2b4eed4e8786ce15fb4baa93]
+**6.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART II[^c-d70cffda2b4eed4e8786ce15fb4baa93]
 
-**3.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d70cffda2b4eed4e8786ce15fb4baa93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-d70cffda2b4eed4e8786ce15fb4baa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d70cffda2b4eed4e8786ce15fb4baa93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d70cffda2b4eed4e8786ce15fb4baa93]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/55) revoked (2.2.2018) by [The Offshore Electricity Development (Environmental Impact Assessment) (Revocation) Regulations (Northern Ireland) 2018 (S.R. 2018/5)](https://www.legislation.gov.uk/nisr/2018/5), [reg. 2](https://www.legislation.gov.uk/nisr/2018/5/regulation/2)
+[^c-d70cffda2b4eed4e8786ce15fb4baa93]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/55) revoked (2.2.2018) by [The Offshore Electricity Development (Environmental Impact Assessment) (Revocation) Regulations (Northern Ireland) 2018 (S.R. 2018/5)](https://www.legislation.gov.uk/nisr/2018/5), [reg. 2](https://www.legislation.gov.uk/nisr/2018/5/regulation/2)

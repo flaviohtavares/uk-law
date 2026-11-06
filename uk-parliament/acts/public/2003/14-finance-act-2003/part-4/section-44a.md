@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Contract providing for conveyance to third party[^key-88fc002020b25142741cd40c7149eb84]
+## 44A. Contract providing for conveyance to third party[^c-88fc002020b25142741cd40c7149eb84]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ References to completion in that section, as it so applies, include references t
 
 ## Annotations
 
-[^key-88fc002020b25142741cd40c7149eb84]: Textual amendment: S. 44A inserted (with effect in accordance with Sch. 39 para. 13(1) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 4(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/4/1)
+[^c-88fc002020b25142741cd40c7149eb84]: Textual amendment: S. 44A inserted (with effect in accordance with Sch. 39 para. 13(1) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 4(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/4/1)

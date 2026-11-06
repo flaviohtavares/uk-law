@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — STREETS SUBJECT TO ALTERATION OF LAYOUT[^key-faeaf8e328b79448e27849fe49a73a0b]
+## SCHEDULE 4 — STREETS SUBJECT TO ALTERATION OF LAYOUT[^c-faeaf8e328b79448e27849fe49a73a0b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Article 11
 
 ## Annotations
 
-[^key-faeaf8e328b79448e27849fe49a73a0b]: Commencement: Sch. 4 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-faeaf8e328b79448e27849fe49a73a0b]: Commencement: Sch. 4 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

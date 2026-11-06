@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Abolition of bridge tolls
 
-### 1. Forth Road Bridge[^key-55a8047f126e3fda4fbdb335aa0fe192]
+### 1. Forth Road Bridge[^c-55a8047f126e3fda4fbdb335aa0fe192]
 
 (1) In the Order contained in the Schedule to the Forth Road Bridge Order Confirmation Act 1947 (c.iv), section 69 (penalties) is repealed.
 
@@ -46,7 +46,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) in section 34(2)(b) (general reserve fund), the words from the beginning to “Order”,
 - (c) Part V (tolls).
 
-### 2. Tay Road Bridge[^key-c6ff68b948177a61d05cb72d04a313cb]
+### 2. Tay Road Bridge[^c-c6ff68b948177a61d05cb72d04a313cb]
 
 In the Order contained in the Schedule to the Tay Road Bridge Order Confirmation Act 1991 (c.iv), the following provisions are repealed—
 
@@ -57,7 +57,7 @@ In the Order contained in the Schedule to the Tay Road Bridge Order Confirmation
 
 ## Miscellaneous and general
 
-### 3. Minor and consequential amendments and repeals[^key-4541ca007c2924cbb1db5a1672ae9f1a]
+### 3. Minor and consequential amendments and repeals[^c-4541ca007c2924cbb1db5a1672ae9f1a]
 
 (1) Schedule 1, which contains minor amendments and amendments consequential on the provisions of this Act, has effect.
 
@@ -77,11 +77,11 @@ In the Order contained in the Schedule to the Tay Road Bridge Order Confirmation
 
 ### Tay Road Bridge Order Confirmation Act 1991 (c.iv)
 
-**1.**[^key-c835872adaeae4f98dad52f567ded3ae] In the Order contained in the Schedule to the Tay Road Bridge Order Confirmation Act 1991, in section 36(1) the words “within a period of fifty years from the opening of the bridge” are repealed.
+**1.**[^c-c835872adaeae4f98dad52f567ded3ae] In the Order contained in the Schedule to the Tay Road Bridge Order Confirmation Act 1991, in section 36(1) the words “within a period of fifty years from the opening of the bridge” are repealed.
 
 ### Transport (Scotland) Act 2001 (asp 2)
 
-**2.**[^key-b53dfab6ce25b42965097abd5759c0e6] In the Transport (Scotland) Act 2001, in section 49—
+**2.**[^c-b53dfab6ce25b42965097abd5759c0e6] In the Transport (Scotland) Act 2001, in section 49—
 
 - (a) at the beginning of subsection (1) insert “ Subject to subsection (4A), ”,
 - (b) after subsection (4) insert—
@@ -97,13 +97,13 @@ In the Order contained in the Schedule to the Tay Road Bridge Order Confirmation
 
 ### Forth Estuary Transport Authority Order 2002 (S.S.I. 2002 No. 178)
 
-**3.**[^key-914fb4fd8cebe6d451da38aef9591c0a] In the Forth Estuary Transport Authority Order 2002, in article 13 for the words “Articles 10 and 11” substitute “ article 10 ”.
+**3.**[^c-914fb4fd8cebe6d451da38aef9591c0a] In the Forth Estuary Transport Authority Order 2002, in article 13 for the words “Articles 10 and 11” substitute “ article 10 ”.
 
 ## SCHEDULE 2 — Repeals and revocations
 
 (introduced by section 3(2) and (3))
 
-### Part 1 — Repeals[^key-0133ee9eb001396237330ad9800ff782]
+### Part 1 — Repeals[^c-0133ee9eb001396237330ad9800ff782]
 
 | *Enactment* | *Extent of repeal* |
 | --- | --- |
@@ -111,7 +111,7 @@ In the Order contained in the Schedule to the Tay Road Bridge Order Confirmation
 | Transport (Scotland) Act 2001 (asp 2) | Section 69(3)(b) and the word “and” immediately preceding it. |
 | Erskine Bridge Tolls Act 2001 (asp 12) | The whole Act. |
 
-### Part 2 — Revocations[^key-bb30998e5cbc3c5e3c9881ae23cd30ab]
+### Part 2 — Revocations[^c-bb30998e5cbc3c5e3c9881ae23cd30ab]
 
 | *Enactment* | *Extent of revocation* |
 | --- | --- |
@@ -125,18 +125,18 @@ In the Order contained in the Schedule to the Tay Road Bridge Order Confirmation
 
 ## Annotations
 
-[^key-55a8047f126e3fda4fbdb335aa0fe192]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2008/1/section/1) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-55a8047f126e3fda4fbdb335aa0fe192]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2008/1/section/1) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
 
-[^key-c6ff68b948177a61d05cb72d04a313cb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2008/1/section/2) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-c6ff68b948177a61d05cb72d04a313cb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2008/1/section/2) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
 
-[^key-4541ca007c2924cbb1db5a1672ae9f1a]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2008/1/section/3) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-4541ca007c2924cbb1db5a1672ae9f1a]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2008/1/section/3) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
 
-[^key-c835872adaeae4f98dad52f567ded3ae]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2008/1/schedule/1/paragraph/1) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-c835872adaeae4f98dad52f567ded3ae]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2008/1/schedule/1/paragraph/1) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
 
-[^key-b53dfab6ce25b42965097abd5759c0e6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2008/1/schedule/1/paragraph/2) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-b53dfab6ce25b42965097abd5759c0e6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2008/1/schedule/1/paragraph/2) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
 
-[^key-914fb4fd8cebe6d451da38aef9591c0a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2008/1/schedule/1/paragraph/3) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-914fb4fd8cebe6d451da38aef9591c0a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2008/1/schedule/1/paragraph/3) in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
 
-[^key-0133ee9eb001396237330ad9800ff782]: Commencement: Sch. 2 Pt. 1 in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-0133ee9eb001396237330ad9800ff782]: Commencement: Sch. 2 Pt. 1 in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
 
-[^key-bb30998e5cbc3c5e3c9881ae23cd30ab]: Commencement: Sch. 2 Pt. 2 in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-bb30998e5cbc3c5e3c9881ae23cd30ab]: Commencement: Sch. 2 Pt. 2 in force at 11.2.2008 by [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)

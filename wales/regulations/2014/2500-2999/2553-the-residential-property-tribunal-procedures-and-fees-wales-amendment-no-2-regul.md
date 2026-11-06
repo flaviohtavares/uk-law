@@ -31,7 +31,7 @@ summary: ''
 
 Housing, Wales
 
-The Residential Property Tribunal Procedures and Fees (Wales) (Amendment No. 2) Regulations 2014 (revoked)[^key-7c0b6b0eb1054fdc02609dc8b751f164]
+The Residential Property Tribunal Procedures and Fees (Wales) (Amendment No. 2) Regulations 2014 (revoked)[^c-7c0b6b0eb1054fdc02609dc8b751f164]
 
 Made
 
@@ -41,62 +41,62 @@ Coming into force
 
 1 October 2014
 
-[^key-7c0b6b0eb1054fdc02609dc8b751f164]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c0b6b0eb1054fdc02609dc8b751f164]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-7c0b6b0eb1054fdc02609dc8b751f164]
+## 1. Title, commencement and application[^c-7c0b6b0eb1054fdc02609dc8b751f164]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^key-7c0b6b0eb1054fdc02609dc8b751f164]
+## 2. Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^c-7c0b6b0eb1054fdc02609dc8b751f164]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c0b6b0eb1054fdc02609dc8b751f164]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c0b6b0eb1054fdc02609dc8b751f164]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-7c0b6b0eb1054fdc02609dc8b751f164]
+## SCHEDULE[^c-7c0b6b0eb1054fdc02609dc8b751f164]
 
 Regulation 2
 
-### 1. Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^key-7c0b6b0eb1054fdc02609dc8b751f164]
+### 1. Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^c-7c0b6b0eb1054fdc02609dc8b751f164]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7c0b6b0eb1054fdc02609dc8b751f164] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7c0b6b0eb1054fdc02609dc8b751f164]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c0b6b0eb1054fdc02609dc8b751f164]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c0b6b0eb1054fdc02609dc8b751f164]: Textual amendment: Regulations revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/uksi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/1), [52(c)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/52/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/2))
+[^c-7c0b6b0eb1054fdc02609dc8b751f164]: Textual amendment: Regulations revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/uksi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/1), [52(c)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/52/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/2))

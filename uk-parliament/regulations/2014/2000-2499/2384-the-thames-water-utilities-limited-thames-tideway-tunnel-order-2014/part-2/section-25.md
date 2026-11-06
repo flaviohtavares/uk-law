@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Felling or lopping of trees[^key-e6e68e6f02561c3a2b0dee4a44a2febd]
+## 25. Felling or lopping of trees[^c-e6e68e6f02561c3a2b0dee4a44a2febd]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6e68e6f02561c3a2b0dee4a44a2febd]: Commencement: Art. 25 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-e6e68e6f02561c3a2b0dee4a44a2febd]: Commencement: Art. 25 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

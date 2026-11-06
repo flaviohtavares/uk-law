@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Service in 2 or more scheme employments[^key-db2db43ea78b0a28641ba930fa9e900d]
+## 15. Service in 2 or more scheme employments[^c-db2db43ea78b0a28641ba930fa9e900d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ If a person is in service in 2 or more scheme employments, regulation 14 applies
 
 ## Annotations
 
-[^key-db2db43ea78b0a28641ba930fa9e900d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2014/290/regulation/15) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-db2db43ea78b0a28641ba930fa9e900d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2014/290/regulation/15) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Meaning of other terms relating to earned income[^key-ca0f4b7da4ed521cf660027489529496]
+## 46. Meaning of other terms relating to earned income[^c-ca0f4b7da4ed521cf660027489529496]
 
 *Extent: S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ca0f4b7da4ed521cf660027489529496]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2021/249/regulation/46) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-ca0f4b7da4ed521cf660027489529496]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2021/249/regulation/46) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00150]: Footnote: [S.I. 2003/2683](https://www.legislation.gov.uk/uksi/2003/2683).
 

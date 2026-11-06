@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Lump sum payable on death in certain cases[^key-5f68ff82bc39a6e059f9d7153a86c5b1]
+## 98. Lump sum payable on death in certain cases[^c-5f68ff82bc39a6e059f9d7153a86c5b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a person (P) at the time of P’s death was a pensioner member of this sch
 
 ## Annotations
 
-[^key-5f68ff82bc39a6e059f9d7153a86c5b1]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2014/2848/regulation/98) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-5f68ff82bc39a6e059f9d7153a86c5b1]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2014/2848/regulation/98) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

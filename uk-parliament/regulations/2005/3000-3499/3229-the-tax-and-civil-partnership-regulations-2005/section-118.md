@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118.[^key-1919bf043a94bc845da92b6008d72da7]
+## 118.[^c-1919bf043a94bc845da92b6008d72da7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 226 (private residence occupied by dependent relative before 6th Apri
 
 ## Annotations
 
-[^key-1919bf043a94bc845da92b6008d72da7]: Commencement: Reg. 118 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-1919bf043a94bc845da92b6008d72da7]: Commencement: Reg. 118 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

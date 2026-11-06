@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendment of section 29[^key-5c92b2b60459eb6bbcb5a0932cf621d8]
+## 19. Amendment of section 29[^c-5c92b2b60459eb6bbcb5a0932cf621d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ In section 29 (appeals)[^f00007]—
 
 ## Annotations
 
-[^key-5c92b2b60459eb6bbcb5a0932cf621d8]: Commencement: Art. 19 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-5c92b2b60459eb6bbcb5a0932cf621d8]: Commencement: Art. 19 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00007]: Footnote: Section 29 was amended by section 31 of the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17).

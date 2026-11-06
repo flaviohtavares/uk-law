@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Cost of demolishing tenement building[^key-230fded36d394938f50596cf10d5ff38]
+## 21. Cost of demolishing tenement building[^c-230fded36d394938f50596cf10d5ff38]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230fded36d394938f50596cf10d5ff38]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2004/11/section/21) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-230fded36d394938f50596cf10d5ff38]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2004/11/section/21) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

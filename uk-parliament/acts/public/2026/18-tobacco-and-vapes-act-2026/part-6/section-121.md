@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Distributing advertisements[^key-1099b9bc6055cc5f7ed9c23003333df8]
+## 121. Distributing advertisements[^c-1099b9bc6055cc5f7ed9c23003333df8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1099b9bc6055cc5f7ed9c23003333df8]: Commencement: S. 121 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-1099b9bc6055cc5f7ed9c23003333df8]: Commencement: S. 121 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

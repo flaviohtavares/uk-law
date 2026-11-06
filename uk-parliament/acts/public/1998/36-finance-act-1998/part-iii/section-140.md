@@ -55,7 +55,7 @@ shall cease to have effect in relation to disposals in the year 2003-04 and subs
 
 .
 
-(5)[^key-69769480c4d509b673e27b005966deb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-69769480c4d509b673e27b005966deb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Subsections (3) to (5) above have effect in relation to the year 2003-04 and subsequent years of assessment.
 
@@ -63,4 +63,4 @@ shall cease to have effect in relation to disposals in the year 2003-04 and subs
 
 [^c16422401]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-69769480c4d509b673e27b005966deb0]: Textual amendment: [S. 140(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/140/5) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/ii)
+[^c-69769480c4d509b673e27b005966deb0]: Textual amendment: [S. 140(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/140/5) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/ii)

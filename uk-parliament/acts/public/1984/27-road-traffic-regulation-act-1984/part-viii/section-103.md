@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 103. Supplementary provisions as to removal of vehicles.[^c13562431][^c18773151][^key-39201a7e717d4a5c868bfe0c03f6a375]
+## 103. Supplementary provisions as to removal of vehicles.[^c13562431][^c18773151][^c-39201a7e717d4a5c868bfe0c03f6a375]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 
 [^c18773151]: Modification: S. 103: certain functions transferred (31.12.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 2](https://www.legislation.gov.uk/uksi/2004/3044/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1)
 
-[^key-39201a7e717d4a5c868bfe0c03f6a375]: Modification: [Ss. 101-103](https://www.legislation.gov.uk/ukpga/1984/27/section/101) applied (15.3.2018) by [City of London Corporation (Open Spaces) Act 2018 (c. i)](https://www.legislation.gov.uk/ukla/2018/1), [s. 13(5)(b)](https://www.legislation.gov.uk/ukla/2018/1/section/13/5/b) (with [ss. 3](https://www.legislation.gov.uk/ukla/2018/1/section/3), [4(2)](https://www.legislation.gov.uk/ukla/2018/1/section/4/2))
+[^c-39201a7e717d4a5c868bfe0c03f6a375]: Modification: [Ss. 101-103](https://www.legislation.gov.uk/ukpga/1984/27/section/101) applied (15.3.2018) by [City of London Corporation (Open Spaces) Act 2018 (c. i)](https://www.legislation.gov.uk/ukla/2018/1), [s. 13(5)(b)](https://www.legislation.gov.uk/ukla/2018/1/section/13/5/b) (with [ss. 3](https://www.legislation.gov.uk/ukla/2018/1/section/3), [4(2)](https://www.legislation.gov.uk/ukla/2018/1/section/4/2))
 
 [^c13562441]: Textual amendment: S. 103(3) substituted (1.10.1991) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4), [para.33](https://www.legislation.gov.uk/ukpga/1991/40/paragraph/33); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art. 3](https://www.legislation.gov.uk/uksi/1991/2054/article/3),Sch.
 

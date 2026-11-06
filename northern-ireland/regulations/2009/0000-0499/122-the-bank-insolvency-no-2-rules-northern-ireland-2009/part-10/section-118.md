@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Obligations of liquidator to committee[^key-1452547857794a7132333d0a66fcc147]
+## 118. Obligations of liquidator to committee[^c-1452547857794a7132333d0a66fcc147]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.163 of the 1991 Rules.
 
 ## Annotations
 
-[^key-1452547857794a7132333d0a66fcc147]: Commencement: Rule 118 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-1452547857794a7132333d0a66fcc147]: Commencement: Rule 118 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Movement of lamps and reflectors[^key-16bdd6d4d7ce56abfa7d99ac39920b9c]
+## 12. Movement of lamps and reflectors[^c-16bdd6d4d7ce56abfa7d99ac39920b9c]
 
 *Extent: E+W+S*
 
@@ -31,23 +31,23 @@ summary: ''
 - (e) a direction indicator fitted to a motor vehicle first used before 1st April 1986;
 - (f) a work lamp;
 - (g) a warning beacon;
-- (h) an amber pedal retro reflector; [^key-f947d411c03358872034226e0e975914]...
+- (h) an amber pedal retro reflector; [^c-f947d411c03358872034226e0e975914]...
 - (i) retro reflective material or a retro reflector of any colour which is fitted so as to reflect light primarily to one or both sides of the vehicle and is attached to or incorporated in any wheel or tyre of–
-  - (i)[^key-909e358484bd4be5fb5ca41b354b834c] a pedal cycle;
+  - (i)[^c-909e358484bd4be5fb5ca41b354b834c] a pedal cycle;
   - (ii) a trailer drawn by, or a sidecar attached to, a pedal cycle;
   - (iii) a solo motor bicycle or motor bicycle combination, or
   - (iv) an invalid carriage;
-- (j)[^key-4c87d38cae422481e34af668b240eabc] a lamp which is designed to emit light primarily to one or both sides of the vehicle, and is attached to or incorporated in any wheel or tyre of—
+- (j)[^c-4c87d38cae422481e34af668b240eabc] a lamp which is designed to emit light primarily to one or both sides of the vehicle, and is attached to or incorporated in any wheel or tyre of—
   - (i) a pedal cycle;
   - (ii) a trailer drawn by, or a sidecar attached to, a pedal cycle; or
 - (k) a lamp attached to or incorporated in a pedal of a pedal cycle.
 
 ## Annotations
 
-[^key-16bdd6d4d7ce56abfa7d99ac39920b9c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-16bdd6d4d7ce56abfa7d99ac39920b9c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-f947d411c03358872034226e0e975914]: Textual amendment: Word in [reg. 12(2)(h)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/h) omitted (21.10.2005) by virtue of [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/5/a)
+[^c-f947d411c03358872034226e0e975914]: Textual amendment: Word in [reg. 12(2)(h)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/h) omitted (21.10.2005) by virtue of [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/5/a)
 
-[^key-909e358484bd4be5fb5ca41b354b834c]: Textual amendment: [Reg. 12(2)(i)(i)-(iv)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/i) substituted for [reg. 12(2)(i)(i)-(iii)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/i) (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/5/b)
+[^c-909e358484bd4be5fb5ca41b354b834c]: Textual amendment: [Reg. 12(2)(i)(i)-(iv)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/i) substituted for [reg. 12(2)(i)(i)-(iii)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/i) (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/5/b)
 
-[^key-4c87d38cae422481e34af668b240eabc]: Textual amendment: [Reg. 12(2)(j)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/j)[(k)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/k) added (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/5/c)
+[^c-4c87d38cae422481e34af668b240eabc]: Textual amendment: [Reg. 12(2)(j)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/j)[(k)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/12/2/k) added (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/5/c)

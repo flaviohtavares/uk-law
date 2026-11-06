@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Commitment to pay the nature restoration levy[^key-0742d15a226d2881cef77b25176e7c9e][^key-5b03d1cbef403ea9b818235e8c609287]
+## 72. Commitment to pay the nature restoration levy[^c-0742d15a226d2881cef77b25176e7c9e][^c-5b03d1cbef403ea9b818235e8c609287]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0742d15a226d2881cef77b25176e7c9e]: Commencement: S. 72 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-0742d15a226d2881cef77b25176e7c9e]: Commencement: S. 72 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-5b03d1cbef403ea9b818235e8c609287]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2025/34/section/72) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-5b03d1cbef403ea9b818235e8c609287]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2025/34/section/72) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

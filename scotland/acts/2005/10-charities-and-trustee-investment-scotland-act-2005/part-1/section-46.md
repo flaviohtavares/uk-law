@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Duty of auditors etc. to report matters to OSCR[^key-b0d7e6fc6a7bdea53c0aad09f1b01879]
+## 46. Duty of auditors etc. to report matters to OSCR[^c-b0d7e6fc6a7bdea53c0aad09f1b01879]
 
 *Extent: S*
 
 (1) This section applies to—
 
-- (a) any person appointed to carry out an independent examination or audit of a charity's statement of account (including, in the case of a charity which is a company, any person appointed as auditor under Chapter 2 of Part 16 of the Companies Act 2006[^key-c50f39760e1abd250add4e1d693d836d] ), and
-- (b)[^key-33f1eeab62fdf2064ad1b21622d1f76d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any person appointed to carry out an independent examination or audit of a charity's statement of account (including, in the case of a charity which is a company, any person appointed as auditor under Chapter 2 of Part 16 of the Companies Act 2006[^c-c50f39760e1abd250add4e1d693d836d] ), and
+- (b)[^c-33f1eeab62fdf2064ad1b21622d1f76d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 who is acting in the appointed capacity.
 
@@ -34,7 +34,7 @@ who is acting in the appointed capacity.
   - (ii) any institution or body corporate connected to that charity, and
 - (b) which the person has reasonable cause to believe is likely to be of material significance for the purposes of the exercise by OSCR of its functions under section 28, 30 or 31,
 
-must immediately report in writing[^key-25ae6fd42c2b06e20bc8507cdeeb1089] on the matter to OSCR.
+must immediately report in writing[^c-25ae6fd42c2b06e20bc8507cdeeb1089] on the matter to OSCR.
 
 (3) A person to whom this section applies who becomes aware of any matter—
 
@@ -56,10 +56,10 @@ the charity or any one or more of the charity trustees acting in that capacity.
 
 ## Annotations
 
-[^key-b0d7e6fc6a7bdea53c0aad09f1b01879]: Commencement: S. 46 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-b0d7e6fc6a7bdea53c0aad09f1b01879]: Commencement: S. 46 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-c50f39760e1abd250add4e1d693d836d]: Textual amendment: Words in s. 46(1)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 241(2)(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/241/2/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-c50f39760e1abd250add4e1d693d836d]: Textual amendment: Words in s. 46(1)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 241(2)(a)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/241/2/a) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-33f1eeab62fdf2064ad1b21622d1f76d]: Textual amendment: S. 46(1)(b) omitted (6.4.2008) by virtue of [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 241(2)(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/241/2/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-33f1eeab62fdf2064ad1b21622d1f76d]: Textual amendment: S. 46(1)(b) omitted (6.4.2008) by virtue of [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 241(2)(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/241/2/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-25ae6fd42c2b06e20bc8507cdeeb1089]: Textual amendment: Words in [s. 46(2)](https://www.legislation.gov.uk/asp/2005/10/section/46/2) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 14(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/14/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-25ae6fd42c2b06e20bc8507cdeeb1089]: Textual amendment: Words in [s. 46(2)](https://www.legislation.gov.uk/asp/2005/10/section/46/2) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 14(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/14/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)

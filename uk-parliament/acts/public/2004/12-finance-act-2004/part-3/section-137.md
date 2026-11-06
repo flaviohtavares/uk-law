@@ -20,24 +20,24 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-575d2bd50a6894286a4c126f7cdf5642] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-575d2bd50a6894286a4c126f7cdf5642] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-43a18815d2efdf140063bd54dd148d7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-43a18815d2efdf140063bd54dd148d7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5c673af54beb4e8b61e4b110b7b6971f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-575d2bd50a6894286a4c126f7cdf5642]: Textual amendment: [S. 137(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/137/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-575d2bd50a6894286a4c126f7cdf5642]: Textual amendment: [S. 137(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/137/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-43a18815d2efdf140063bd54dd148d7c]: Textual amendment: S. 137(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-43a18815d2efdf140063bd54dd148d7c]: Textual amendment: S. 137(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-5c673af54beb4e8b61e4b110b7b6971f]: Textual amendment: [S. 137(3)-(7)](https://www.legislation.gov.uk/ukpga/2004/12/section/137/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5c673af54beb4e8b61e4b110b7b6971f]: Textual amendment: [S. 137(3)-(7)](https://www.legislation.gov.uk/ukpga/2004/12/section/137/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

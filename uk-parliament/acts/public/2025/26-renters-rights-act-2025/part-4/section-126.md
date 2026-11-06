@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Suspected residential tenancy: entry without warrant[^key-10836eca1361d55ba31165005ac2e98f]
+## 126. Suspected residential tenancy: entry without warrant[^c-10836eca1361d55ba31165005ac2e98f]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ an officer of the local housing authority must give that person notice in writin
 
 ## Annotations
 
-[^key-10836eca1361d55ba31165005ac2e98f]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2025/26/section/126) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-10836eca1361d55ba31165005ac2e98f]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2025/26/section/126) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

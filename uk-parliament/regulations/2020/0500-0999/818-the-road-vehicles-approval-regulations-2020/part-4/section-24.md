@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Records of large trailers[^key-a4ee40992625de912991c512c63d3fa4]
+## 24. Records of large trailers[^c-a4ee40992625de912991c512c63d3fa4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For a period of not less than 10 years from the date of the consent, the approva
 
 ## Annotations
 
-[^key-a4ee40992625de912991c512c63d3fa4]: Commencement: Reg. 24 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-a4ee40992625de912991c512c63d3fa4]: Commencement: Reg. 24 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)

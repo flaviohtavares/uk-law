@@ -41,7 +41,7 @@ summary: ''
 
 - (a) a tenant having the right to acquire a new lease under Chapter II—
   - (i) has entered into an agreement for the surrender of his lease without the prior approval of the court, or
-  - (ii) has entered into an agreement for the grant of a new lease without any of the terms of acquisition (within the meaning of that Chapter) having been determined by the appropriate tribunal (within the meaning of that Chapter)[^key-26bb56a238fe2d821fb6e38c428749a9] under that Chapter, or
+  - (ii) has entered into an agreement for the grant of a new lease without any of the terms of acquisition (within the meaning of that Chapter) having been determined by the appropriate tribunal (within the meaning of that Chapter)[^c-26bb56a238fe2d821fb6e38c428749a9] under that Chapter, or
 - (b) a tenant has been granted a new lease under Chapter II or by virtue of subsection (4) below and, on his landlord claiming possession for the purposes of redevelopment, enters into an agreement without the prior approval of the court for the surrender of the lease,
 
 then on the application of the tenant the county court[^M_F_efc5abf7-2d97-4c3f-df85-99a08fa7f480], or any court in which proceedings are brought on the agreement, may, if in its opinion the tenant is not adequately recompensed under the agreement for his rights under Chapter II, set aside or vary the agreement and give such other relief as appears to it to be just having regard to the situation and conduct of the parties.
@@ -58,7 +58,7 @@ then on the application of the tenant the county court[^M_F_efc5abf7-2d97-4c3f-d
 
 (6) The provisions referred to in subsection (5) are—
 
-- (a) sections 117 to 121 of the Charities Act 2011[^key-435e1b8146e56b90b29034a59233ace1] (restrictions on disposition of charity land); and
+- (a) sections 117 to 121 of the Charities Act 2011[^c-435e1b8146e56b90b29034a59233ace1] (restrictions on disposition of charity land); and
 - (b) paragraph 8(2)(c) of Schedule 2 to this Act.
 
 (7) Where the existing lease of the tenant is granted after the commencement of Chapter II and, the grant being subsequent to the creation of a charge on the landlord’s estate, the existing lease is not binding on the persons interested in the charge, a lease granted by virtue of subsection (4) shall not be binding on those persons.
@@ -73,8 +73,8 @@ and subsections (5) to (7) of section 56 shall apply in relation to the lease as
 
 ## Annotations
 
-[^key-26bb56a238fe2d821fb6e38c428749a9]: Textual amendment: Words in s. 93(3)(a)(ii) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 120](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/120) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-26bb56a238fe2d821fb6e38c428749a9]: Textual amendment: Words in s. 93(3)(a)(ii) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 120](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/120) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^M_F_efc5abf7-2d97-4c3f-df85-99a08fa7f480]: Textual amendment: Words in s. 93(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
-[^key-435e1b8146e56b90b29034a59233ace1]: Textual amendment: Words in s. 93(6)(a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 67](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/67) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-435e1b8146e56b90b29034a59233ace1]: Textual amendment: Words in s. 93(6)(a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 67](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/67) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

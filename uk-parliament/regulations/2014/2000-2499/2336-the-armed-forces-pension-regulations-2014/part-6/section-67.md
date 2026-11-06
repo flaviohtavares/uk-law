@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Other adult dependants’ pensions[^key-fe75ccaf6de0bb1164d74717fd599f59]
+## 67. Other adult dependants’ pensions[^c-fe75ccaf6de0bb1164d74717fd599f59]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ if the member’s service had ceased on the date of death otherwise than by reas
 
 ## Annotations
 
-[^key-fe75ccaf6de0bb1164d74717fd599f59]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2014/2336/regulation/67) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-fe75ccaf6de0bb1164d74717fd599f59]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2014/2336/regulation/67) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

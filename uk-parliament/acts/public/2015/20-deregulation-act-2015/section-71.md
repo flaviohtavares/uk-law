@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Late night refreshment[^key-722e42e45f94e96dec36ead85bb7df17]
+## 71. Late night refreshment[^c-722e42e45f94e96dec36ead85bb7df17]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-722e42e45f94e96dec36ead85bb7df17]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2015/20/section/71) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/h)
+[^c-722e42e45f94e96dec36ead85bb7df17]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2015/20/section/71) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/h)

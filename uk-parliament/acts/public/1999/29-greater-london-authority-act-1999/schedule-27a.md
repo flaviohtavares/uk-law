@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 27A — The London Fire Commissioner[^key-97686320b37a152e8a6dfe41aba9d400]
+## Schedule 27A — The London Fire Commissioner[^c-97686320b37a152e8a6dfe41aba9d400]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ in accordance with the terms and conditions of the Commissioner's appointment.
 
 ## Annotations
 
-[^key-97686320b37a152e8a6dfe41aba9d400]: Textual amendment: Sch. 27A inserted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 for the insertion of Sch. 27A paras. 1-3, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/15); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [regs. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/iii), [4(c)](https://www.legislation.gov.uk/uksi/2018/227/article/4/c)
+[^c-97686320b37a152e8a6dfe41aba9d400]: Textual amendment: Sch. 27A inserted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 for the insertion of Sch. 27A paras. 1-3, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/15); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [regs. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/iii), [4(c)](https://www.legislation.gov.uk/uksi/2018/227/article/4/c)

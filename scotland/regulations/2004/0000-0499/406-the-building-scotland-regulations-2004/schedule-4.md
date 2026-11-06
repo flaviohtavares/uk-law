@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — MEASUREMENTS[^key-aa285e4d4af6d0dcc6ab2c139fcc7dc2]
+## SCHEDULE 4 — MEASUREMENTS[^c-aa285e4d4af6d0dcc6ab2c139fcc7dc2]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ Except where the context otherwise requires, measurements shall be horizontal an
 
 ## Annotations
 
-[^key-aa285e4d4af6d0dcc6ab2c139fcc7dc2]: Textual amendment: Schs. 1-6 substituted (1.5.2007) by [The Building (Scotland) Amendment Regulations 2006 (S.S.I. 2006/534)](https://www.legislation.gov.uk/ssi/2006/534), [regs. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2006/534/regulation/2/c), [sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) (with [regs. 3](https://www.legislation.gov.uk/ssi/2006/534/regulation/3), [4](https://www.legislation.gov.uk/ssi/2006/534/regulation/4))
+[^c-aa285e4d4af6d0dcc6ab2c139fcc7dc2]: Textual amendment: Schs. 1-6 substituted (1.5.2007) by [The Building (Scotland) Amendment Regulations 2006 (S.S.I. 2006/534)](https://www.legislation.gov.uk/ssi/2006/534), [regs. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2006/534/regulation/2/c), [sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) (with [regs. 3](https://www.legislation.gov.uk/ssi/2006/534/regulation/3), [4](https://www.legislation.gov.uk/ssi/2006/534/regulation/4))

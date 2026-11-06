@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3A. New crofts[^key-4730d8f359c90eebae087dc0b262d465]
+## 3A. New crofts[^c-4730d8f359c90eebae087dc0b262d465]
 
 *Extent: S*
 
@@ -25,14 +25,14 @@ summary: ''
 - (a) in the crofting counties; or
 - (b) in an area outwith the crofting counties which is, by order made by statutory instrument, designated for the purposes of this paragraph by the Scottish Ministers,
 
-to constitute the land as a croft [^key-f5d5ed339ab7c9538fd228b617b669a7]....
+to constitute the land as a croft [^c-f5d5ed339ab7c9538fd228b617b669a7]....
 
 (2) The Commission shall have power—
 
 - (a) on the application of the tenant of any holding situated as is mentioned in subsection (1)(b) above; and
 - (b) provided that subsection (3) below is complied with and that the conditions set out in subsection (12) below are met,
 
-to constitute the holding as a croft [^key-2c75800685c0319f2c323b2805156f97]....
+to constitute the holding as a croft [^c-2c75800685c0319f2c323b2805156f97]....
 
 (3) Any application under subsection (2) above must be accompanied by a certificate of the Land Court to the effect that the Court is satisfied that, as at the date of the certificate—
 
@@ -41,7 +41,7 @@ to constitute the holding as a croft [^key-2c75800685c0319f2c323b2805156f97]....
   - (ii) any of the provisions of the Small Landholders (Scotland) Acts 1886 to 1931 applies; and
 - (b) no part of the holding is leased other than as a tenancy mentioned in paragraph (a) above.
 
-(4)[^key-a9a4a810d9d2381d67373e838467f826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a9a4a810d9d2381d67373e838467f826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The Commission shall, on receipt of an application under subsection (1) or (2) above, give public notification of it.
 
@@ -62,7 +62,7 @@ to constitute the holding as a croft [^key-2c75800685c0319f2c323b2805156f97]....
 
 - (a) the tenancy is—
   - (i) a 1991 Act tenancy (within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11)); or
-  - (ii) a short limited duration tenancy, limited duration tenancy, modern limited duration tenancy or repairing tenancy[^key-fc8e3c97c614ad59d16c14b0984990ba] (within the meaning of that Act); or
+  - (ii) a short limited duration tenancy, limited duration tenancy, modern limited duration tenancy or repairing tenancy[^c-fc8e3c97c614ad59d16c14b0984990ba] (within the meaning of that Act); or
 - (b) it is competent for the tenant to make an application under subsection (2) above,
 
 if the written agreement of the tenant has not been obtained; and on such a holding being constituted as a croft under subsection (1) above the tenant shall be entitled (unless not a natural person) to be registered, in accordance with section 41(2)(b) of this Act, as its tenant.
@@ -77,7 +77,7 @@ if the written agreement of the tenant has not been obtained; and on such a hold
 
 (12) The conditions are—
 
-- (a)[^key-8dfeff93e19eceabbdc8b088967c41f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8dfeff93e19eceabbdc8b088967c41f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) that the tenant is a natural person; and
 - (c) that such fixed equipment on the holding as is necessary to enable the tenant to cultivate the croft is not provided by the landlord.
 
@@ -90,14 +90,14 @@ the Scottish Parliament.
 
 ## Annotations
 
-[^key-4730d8f359c90eebae087dc0b262d465]: Textual amendment: Ss. 3A-3C inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 6](https://www.legislation.gov.uk/asp/2007/7/section/6), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-4730d8f359c90eebae087dc0b262d465]: Textual amendment: Ss. 3A-3C inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 6](https://www.legislation.gov.uk/asp/2007/7/section/6), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-f5d5ed339ab7c9538fd228b617b669a7]: Textual amendment: Words in s. 3A(1) repealed (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 23(2)](https://www.legislation.gov.uk/asp/2010/14/section/23/2), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))
+[^c-f5d5ed339ab7c9538fd228b617b669a7]: Textual amendment: Words in s. 3A(1) repealed (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 23(2)](https://www.legislation.gov.uk/asp/2010/14/section/23/2), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))
 
-[^key-2c75800685c0319f2c323b2805156f97]: Textual amendment: Words in s. 3A(2) repealed (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 23(2)](https://www.legislation.gov.uk/asp/2010/14/section/23/2), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))
+[^c-2c75800685c0319f2c323b2805156f97]: Textual amendment: Words in s. 3A(2) repealed (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 23(2)](https://www.legislation.gov.uk/asp/2010/14/section/23/2), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))
 
-[^key-a9a4a810d9d2381d67373e838467f826]: Textual amendment: S. 3A(4) repealed (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 23(3)](https://www.legislation.gov.uk/asp/2010/14/section/23/3), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))
+[^c-a9a4a810d9d2381d67373e838467f826]: Textual amendment: S. 3A(4) repealed (30.11.2013) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 23(3)](https://www.legislation.gov.uk/asp/2010/14/section/23/3), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/2))
 
-[^key-fc8e3c97c614ad59d16c14b0984990ba]: Textual amendment: Words in s. 3A(9)(a)(ii) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/4/2) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/299/regulation/9))
+[^c-fc8e3c97c614ad59d16c14b0984990ba]: Textual amendment: Words in s. 3A(9)(a)(ii) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/4/2) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 9](https://www.legislation.gov.uk/ssi/2017/299/regulation/9))
 
-[^key-8dfeff93e19eceabbdc8b088967c41f4]: Textual amendment: S. 3A(12)(a) repealed (22.12.2010) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(4)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/4) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))
+[^c-8dfeff93e19eceabbdc8b088967c41f4]: Textual amendment: S. 3A(12)(a) repealed (22.12.2010) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(4)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/4) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4))

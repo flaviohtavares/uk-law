@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Financial Conduct Authority[^key-0f891529dfbbd838497aa0b2359471aa][^key-a0a062059b729542f098cb1d2020d599][^c22725231]
+## 20. Financial Conduct Authority[^c-0f891529dfbbd838497aa0b2359471aa][^c-a0a062059b729542f098cb1d2020d599][^c22725231]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0f891529dfbbd838497aa0b2359471aa]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/22/section/20) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f)
+[^c-0f891529dfbbd838497aa0b2359471aa]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/22/section/20) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/f)
 
-[^key-a0a062059b729542f098cb1d2020d599]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/22/section/20) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
+[^c-a0a062059b729542f098cb1d2020d599]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/22/section/20) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/i)
 
 [^c22725231]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/22/section/20) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

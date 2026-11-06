@@ -46,7 +46,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-9aab8ef162b3e74520dcefccbd54d3f3]
+### 1. Citation and commencement[^c-9aab8ef162b3e74520dcefccbd54d3f3]
 
 (1) These Regulations may be cited as the Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2020.
 
@@ -57,7 +57,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 2 — Amendment to retained direct EU legislation
 
-### 2. Commission Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/european/regulation/2008/1235)[^key-030eea53137f69615661cbbf87d4bea1]
+### 2. Commission Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/european/regulation/2008/1235)[^c-030eea53137f69615661cbbf87d4bea1]
 
 (1) Commission Regulation [(EC) No 1235/2008](https://www.legislation.gov.uk/european/regulation/2008/1235) laying down detailed rules for implementation of Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/european/regulation/2007/0834) as regards the arrangements for imports of organic products from third countries [^c24366341] is amended as follows.
 
@@ -87,11 +87,11 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 (6) In Annex 4, for “30 June 2021”, in each place it occurs, substitute “ 1 January 2023 ”.
 
-### 3. Commission Regulation [(EC) No 1295/2008](https://www.legislation.gov.uk/european/regulation/2008/1295)[^key-3803586acf4d04d6f134e955a1f54bb7]
+### 3. Commission Regulation [(EC) No 1295/2008](https://www.legislation.gov.uk/european/regulation/2008/1295)[^c-3803586acf4d04d6f134e955a1f54bb7]
 
 In Article 1(1) of Commission Regulation [(EC) No 1295/2008](https://www.legislation.gov.uk/european/regulation/2008/1295) on the importation of hops from third countries [^c24366351], after “products” insert “ imported ”.
 
-### 4. Commission Delegated Regulation (EU) No 2016/1237[^key-6b601f3969f254691861408d4f11dd46]
+### 4. Commission Delegated Regulation (EU) No 2016/1237[^c-6b601f3969f254691861408d4f11dd46]
 
 (1) Commission Delegated Regulation (EU) No 2016/1237 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the rules for applying the system of import and export licences and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the rules on the release and forfeit of securities lodged for such licences [^c24366361] is amended as follows.
 
@@ -102,7 +102,7 @@ In Article 1(1) of Commission Regulation [(EC) No 1295/2008](https://www.legisla
 
 ## PART 3 — Amendment to domestic regulations
 
-### 5. The Organic Production (Control of Imports) (Amendment) (EU Exit) Regulations 2019[^key-a34bf7e8a61231787979894a17e18650]
+### 5. The Organic Production (Control of Imports) (Amendment) (EU Exit) Regulations 2019[^c-a34bf7e8a61231787979894a17e18650]
 
 (1) The Organic Production (Control of Imports) (Amendment) (EU Exit) Regulations 2019 [^c24366371] is amended as follows.
 
@@ -275,7 +275,7 @@ In Article 1(1) of Commission Regulation [(EC) No 1295/2008](https://www.legisla
 
     .
 
-### 6. The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-27669e696418938e6092a2ab43f5d8c2]
+### 6. The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-27669e696418938e6092a2ab43f5d8c2]
 
 (1) The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c24366381] are amended as follows.
 
@@ -284,7 +284,7 @@ In Article 1(1) of Commission Regulation [(EC) No 1295/2008](https://www.legisla
 - (i) for “the United Kingdom”, in both places it occurs, substitute “ Great Britain ”;
 - (ii) for “29 March 2021”, in both places it occurs, substitute “ 1 July 2021 ”.
 
-(3)[^key-637b7ef1d37514c54946994ef5be5f23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-637b7ef1d37514c54946994ef5be5f23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 27 (amendment to Article 190(2) of Regulation 1308/2013), in the inserted text, for “29 March 2021” substitute “ 1 July 2021 ”.
 
@@ -366,7 +366,7 @@ In Article 1(1) of Commission Regulation [(EC) No 1295/2008](https://www.legisla
 - (a) for “29 March 2021”, in both places it occurs, substitute “ 1 July 2021 ”;
 - (b) for “the United Kingdom” substitute “ Great Britain ”.
 
-### 7. The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-3390d7d4e95cc7fae0d7be31d76ff1ef]
+### 7. The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-3390d7d4e95cc7fae0d7be31d76ff1ef]
 
 (1) The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c24366391] are amended as follows.
 
@@ -391,14 +391,14 @@ In Article 1(1) of Commission Regulation [(EC) No 1295/2008](https://www.legisla
 - (a) in paragraph (4)(b), in the substituted text, for “ exit day ”, in both places that it occurs, substitute “ IP completion day ”;
 - (b) in paragraph (5)(b), in the substituted text, for “ exit day ”, in both places that it occurs, substitute “ IP completion day ”.
 
-### 8. The Common Organisation of the Markets in Agricultural Products (Transitional Arrangements etc.) (Amendment) (EU Exit) Regulations 2019[^key-03c35d90db2955a5a0109d699f7ee107]
+### 8. The Common Organisation of the Markets in Agricultural Products (Transitional Arrangements etc.) (Amendment) (EU Exit) Regulations 2019[^c-03c35d90db2955a5a0109d699f7ee107]
 
 In regulation 2 of the Common Organisation of the Markets in Agricultural Products (Transitional Arrangements etc.) (Amendment) (EU Exit) Regulations 2019 [^c24366401]—
 
 - (a) omit paragraph (2);
 - (b) omit paragraphs (7) to (11).
 
-### 9. The Import and Export Licences (Amendment etc.) (EU Exit) Regulations 2019[^key-32f4be9ccf13d397a60f5585c9ed280b]
+### 9. The Import and Export Licences (Amendment etc.) (EU Exit) Regulations 2019[^c-32f4be9ccf13d397a60f5585c9ed280b]
 
 (1) The Import and Export Licences (Amendment etc.) (EU Exit) Regulations 2019 [^c24366411] are amended as follows.
 
@@ -424,38 +424,38 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24366331]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 8B was inserted by section 18 of the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [section 8C](https://www.legislation.gov.uk/ukpga/2020/1/section/8C) was inserted by section 21 of that Act, and paragraph 21 of Schedule 7 was amended by paragraph 53 of Schedule 5 to that Act.
 
-[^key-9aab8ef162b3e74520dcefccbd54d3f3]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
+[^c-9aab8ef162b3e74520dcefccbd54d3f3]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
 
-[^key-030eea53137f69615661cbbf87d4bea1]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/a)
+[^c-030eea53137f69615661cbbf87d4bea1]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/a)
 
 [^c24366341]: Marginal citation: EUR 2008/1235, prospectively amended by [S.I. 2019/692](https://www.legislation.gov.uk/uksi/2019/692).
 
-[^key-3803586acf4d04d6f134e955a1f54bb7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/a)
+[^c-3803586acf4d04d6f134e955a1f54bb7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/a)
 
 [^c24366351]: Marginal citation: EUR 2008/1295, prospectively amended by [S.I. 2019/822](https://www.legislation.gov.uk/uksi/2019/822), 828.
 
-[^key-6b601f3969f254691861408d4f11dd46]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/a)
+[^c-6b601f3969f254691861408d4f11dd46]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/a)
 
 [^c24366361]: Marginal citation: EUR 2016/1237, prospectively amended by [S.I. 2019/1409](https://www.legislation.gov.uk/uksi/2019/1409).
 
-[^key-a34bf7e8a61231787979894a17e18650]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
+[^c-a34bf7e8a61231787979894a17e18650]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
 
 [^c24366371]: Marginal citation: [S.I. 2019/692](https://www.legislation.gov.uk/uksi/2019/692).
 
-[^key-27669e696418938e6092a2ab43f5d8c2]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
+[^c-27669e696418938e6092a2ab43f5d8c2]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)(b)
 
 [^c24366381]: Marginal citation: [S.I. 2019/828](https://www.legislation.gov.uk/uksi/2019/828), prospectively amended by [S.I. 2019/1403](https://www.legislation.gov.uk/uksi/2019/1403).
 
-[^key-637b7ef1d37514c54946994ef5be5f23]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/6/3) revoked (10.3.2021) by [The Common Organisation of the Markets in Agricultural Products (Wine) (Amendment, etc.) Regulations 2021 (S.I. 2021/279)](https://www.legislation.gov.uk/uksi/2021/279), [regs. 1](https://www.legislation.gov.uk/uksi/2021/279/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/279/regulation/3)
+[^c-637b7ef1d37514c54946994ef5be5f23]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/6/3) revoked (10.3.2021) by [The Common Organisation of the Markets in Agricultural Products (Wine) (Amendment, etc.) Regulations 2021 (S.I. 2021/279)](https://www.legislation.gov.uk/uksi/2021/279), [regs. 1](https://www.legislation.gov.uk/uksi/2021/279/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/279/regulation/3)
 
-[^key-3390d7d4e95cc7fae0d7be31d76ff1ef]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
+[^c-3390d7d4e95cc7fae0d7be31d76ff1ef]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
 
 [^c24366391]: Marginal citation: [S.I. 2019/1402](https://www.legislation.gov.uk/uksi/2019/1402).
 
-[^key-03c35d90db2955a5a0109d699f7ee107]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
+[^c-03c35d90db2955a5a0109d699f7ee107]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
 
 [^c24366401]: Marginal citation: [S.I. 2019/1403](https://www.legislation.gov.uk/uksi/2019/1403).
 
-[^key-32f4be9ccf13d397a60f5585c9ed280b]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
+[^c-32f4be9ccf13d397a60f5585c9ed280b]: Commencement: Reg. 9 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1452/regulation/1/2/b)
 
 [^c24366411]: Marginal citation: [S.I. 2019/1409](https://www.legislation.gov.uk/uksi/2019/1409).

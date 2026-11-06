@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Application of other restrictions in relation to warrants[^key-ad2c32ba403e2c8df96accd7956c40e5]
+## 197. Application of other restrictions in relation to warrants[^c-ad2c32ba403e2c8df96accd7956c40e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Sections 132 to 134 (duty not to make unauthorised disclosures) apply in relatio
 
 ## Annotations
 
-[^key-ad2c32ba403e2c8df96accd7956c40e5]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2016/25/section/197) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/b)
+[^c-ad2c32ba403e2c8df96accd7956c40e5]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2016/25/section/197) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/b)

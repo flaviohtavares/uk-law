@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Offence of purporting to act as authorised to exercise enforcement function[^key-27290776f6fc324ac9c8089b6d23b61d][^key-3b09dcaa34497c07e8cda8bfcef8fac9]
+## 49. Offence of purporting to act as authorised to exercise enforcement function[^c-27290776f6fc324ac9c8089b6d23b61d][^c-3b09dcaa34497c07e8cda8bfcef8fac9]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27290776f6fc324ac9c8089b6d23b61d]: Commencement: S. 49 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-27290776f6fc324ac9c8089b6d23b61d]: Commencement: S. 49 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-3b09dcaa34497c07e8cda8bfcef8fac9]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2022/46/section/49) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-3b09dcaa34497c07e8cda8bfcef8fac9]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2022/46/section/49) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

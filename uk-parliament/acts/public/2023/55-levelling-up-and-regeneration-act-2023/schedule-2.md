@@ -22,11 +22,11 @@ summary: ''
 
 Section 27
 
-### 1. Interpretation[^key-7272c719ed9fa7eb889a825a0f72d872]
+### 1. Interpretation[^c-7272c719ed9fa7eb889a825a0f72d872]
 
 In this Schedule references to a mayor are references to a mayor for the area of a CCA.
 
-### 2. Timing of elections[^key-67ea28c7e663a58cd21dcf8bf9a74836]
+### 2. Timing of elections[^c-67ea28c7e663a58cd21dcf8bf9a74836]
 
 (1) The term of office of a mayor is to be four years.
 
@@ -36,25 +36,25 @@ In this Schedule references to a mayor are references to a mayor for the area of
 
 (4) But this paragraph has effect subject to any provision made under paragraph 3.
 
-**3.**[^key-03b9f8fd797dc35391989a3cab414b26] The Secretary of State may by regulations make provision—
+**3.**[^c-03b9f8fd797dc35391989a3cab414b26] The Secretary of State may by regulations make provision—
 
 - (a) as to the dates on which and years in which elections for the return of a mayor may or must take place,
 - (b) as to the intervals between elections for the return of a mayor,
 - (c) as to the term of office of a mayor, and
 - (d) as to the filling of vacancies in the office of a mayor.
 
-### 4. Voting at elections of mayors[^key-8b749411e85f02e068492295843dc7ad]
+### 4. Voting at elections of mayors[^c-8b749411e85f02e068492295843dc7ad]
 
-(1) Each person entitled to vote as an elector at an election for the return of a mayor is to have one vote (a “mayoral vote”)[^key-20dcf8fba75fef6d224cd82e5ebb5ef4].
+(1) Each person entitled to vote as an elector at an election for the return of a mayor is to have one vote (a “mayoral vote”)[^c-20dcf8fba75fef6d224cd82e5ebb5ef4].
 
-(2) The mayor is to be returned under the simple majority system , unless there are three or more candidates[^key-1fe8cc7c28963d345e6e967b4aca9a11].
+(2) The mayor is to be returned under the simple majority system , unless there are three or more candidates[^c-1fe8cc7c28963d345e6e967b4aca9a11].
 
-(3)[^key-2d9ed15690e7dd28ec9a16ed618b788c] If there are three or more candidates to be the mayor—
+(3)[^c-2d9ed15690e7dd28ec9a16ed618b788c] If there are three or more candidates to be the mayor—
 
 - (a) the mayor is to be returned under the supplementary vote system in accordance with paragraph 4A, and
 - (b) a voter’s mayoral vote is accordingly a vote capable of being given to indicate the voter’s first and second preference from among the candidates.
 
-### 4A.[^key-cb81e1594edec7b9837987848e2a33bd]
+### 4A.[^c-cb81e1594edec7b9837987848e2a33bd]
 
 (1) This paragraph applies where there are three or more candidates to be a mayor.
 
@@ -81,22 +81,22 @@ In this Schedule references to a mayor are references to a mayor for the area of
 
 (11) In this paragraph “**mayoral vote**” has the meaning given by paragraph 4(1) (as read with sub-paragraph (3) of that paragraph).
 
-### 5. Entitlement to vote[^key-82c9e2228cf35dfe145b834ca7e76160]
+### 5. Entitlement to vote[^c-82c9e2228cf35dfe145b834ca7e76160]
 
 (1) The persons entitled to vote as electors at an election for the return of a mayor for the area of a CCA are those who on the day of the poll—
 
 - (a) would be entitled to vote as electors at an election of councillors for an electoral area situated wholly or partly within the area of the CCA, and
 - (b) are registered in the register of local government electors at an address within the CCA’s area.
 
-(2) A person is not entitled as an elector to cast more than one mayoral[^key-363b21518deef87c55dabb83472776a4] vote at an election for the return of a mayor.
+(2) A person is not entitled as an elector to cast more than one mayoral[^c-363b21518deef87c55dabb83472776a4] vote at an election for the return of a mayor.
 
 (3) In this paragraph—
 
 - “**electoral area**” has the meaning given by section 203(1) of the Representation of the People Act 1983;
 - “**local government elector**” has the meaning given by section 270(1) of the Local Government Act 1972;
-- “[^key-e54b63058b754a7f9ea9cd0435ce6c84]**mayoral vote**” has the meaning given by paragraph 4(1) (as read with sub-paragraph (3) of that paragraph).
+- “[^c-e54b63058b754a7f9ea9cd0435ce6c84]**mayoral vote**” has the meaning given by paragraph 4(1) (as read with sub-paragraph (3) of that paragraph).
 
-### 6. Election as mayor and councillor[^key-39d035633f4b579bcc8b8e7ef5068832]
+### 6. Election as mayor and councillor[^c-39d035633f4b579bcc8b8e7ef5068832]
 
 (1) If the person who is returned at an election as the mayor for the area of a CCA is also returned at an election held at the same time as a councillor of a constituent council, a vacancy arises in the office of councillor.
 
@@ -111,7 +111,7 @@ a vacancy arises in the office of councillor.
 
 (4) A person who is the mayor for the area of a CCA may be a candidate in an election for the return of a councillor or councillors of a constituent council if the election is held at the same time as an election for the return of the mayor, but sub-paragraph (1) applies if the person is a candidate in both such elections and is returned as the mayor and as a councillor.
 
-### 7. Qualification and disqualification[^key-41cf4a441b1680007728aec7a6982db8][^M_C_ccb0473d-95c3-4320-aa50-d717cb23cc16]
+### 7. Qualification and disqualification[^c-41cf4a441b1680007728aec7a6982db8][^M_C_ccb0473d-95c3-4320-aa50-d717cb23cc16]
 
 (1) In order to be qualified to be elected and to hold office as the mayor for the area of a CCA, a person must, on the relevant day, be—
 
@@ -144,7 +144,7 @@ a vacancy arises in the office of councillor.
 
 .
 
-**8.**[^key-e2a9d973f3c92712edaa96018d82f85b] (1) A person is disqualified for being elected or holding office as the mayor for the area of a CCA if the person—
+**8.**[^c-e2a9d973f3c92712edaa96018d82f85b] (1) A person is disqualified for being elected or holding office as the mayor for the area of a CCA if the person—
 
 - (a) holds any paid office or employment (other than the office of mayor or deputy mayor) appointments or elections to which are or may be made by or on behalf of the CCA or any of the constituent councils;
 - (b) is the subject of—
@@ -163,7 +163,7 @@ a vacancy arises in the office of councillor.
 
 (3) Until the coming into force of paragraph 6 of Schedule 5 to the Elections Act 2022 (amendment of paragraph 9(1) of Schedule 5B to the Local Democracy, Economic Development and Construction Act 2009 relating to undue influence), sub-paragraph (1) has effect as if paragraph (e) were omitted.
 
-**9.**[^key-e16d5b92ffa59b47c0751550711ade84] (1) A person is disqualified for being elected or holding office as the mayor for the area of a CCA if the person is subject to—
+**9.**[^c-e16d5b92ffa59b47c0751550711ade84] (1) A person is disqualified for being elected or holding office as the mayor for the area of a CCA if the person is subject to—
 
 - (a) any relevant notification requirements, or
 - (b) a relevant order.
@@ -208,7 +208,7 @@ a vacancy arises in the office of councillor.
 
 before the day on which this paragraph comes into force.
 
-**9A.**[^key-e00c71d586bd31cebdb00b867d7b3a6d] (1) A person is disqualified for holding office as the mayor for the area of a CCA if the person is an elected member of a legislature in the United Kingdom.
+**9A.**[^c-e00c71d586bd31cebdb00b867d7b3a6d] (1) A person is disqualified for holding office as the mayor for the area of a CCA if the person is an elected member of a legislature in the United Kingdom.
 
 (2) If a person—
 
@@ -233,16 +233,16 @@ the person is not disqualified under this paragraph for holding office as the ma
   - (d) the Northern Ireland Assembly;
 - “**first day of the mayoral term**”, in relation to a person who is elected as the mayor for the area of a CCA, means the day that would be the first day of the person’s term as the mayor if it is assumed that the person is not disqualified under this paragraph.
 
-**10.**[^key-a7b2459109714e685e0625a11fb5ef80] Paragraph 10 of Schedule 3 contains further provision about disqualification in the case of mayors who exercise PCC functions.
+**10.**[^c-a7b2459109714e685e0625a11fb5ef80] Paragraph 10 of Schedule 3 contains further provision about disqualification in the case of mayors who exercise PCC functions.
 
-**11.**[^key-66c94eaeacd48820d141a7dedeb94171] The acts of a person elected as a mayor for the area of a CCA who acts in that office are, despite any disqualification or lack of qualification—
+**11.**[^c-66c94eaeacd48820d141a7dedeb94171] The acts of a person elected as a mayor for the area of a CCA who acts in that office are, despite any disqualification or lack of qualification—
 
 - (a) in respect of being, or being elected as, a mayor, or
 - (b) in respect of being, or being elected as, the mayor for that area,
 
 as valid and effectual as if the person had not been so disqualified or as if the person had been qualified.
 
-### 12. Power to make further provision[^key-f9ef30b989d17427aa163736f7ea239c]
+### 12. Power to make further provision[^c-f9ef30b989d17427aa163736f7ea239c]
 
 (1) The Secretary of State may by regulations make provision as to—
 
@@ -272,42 +272,42 @@ as valid and effectual as if the person had not been so disqualified or as if th
 
 ## Annotations
 
-[^key-7272c719ed9fa7eb889a825a0f72d872]: Commencement: Sch. 2 para. 1 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-7272c719ed9fa7eb889a825a0f72d872]: Commencement: Sch. 2 para. 1 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-67ea28c7e663a58cd21dcf8bf9a74836]: Commencement: Sch. 2 para. 2 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-67ea28c7e663a58cd21dcf8bf9a74836]: Commencement: Sch. 2 para. 2 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-03b9f8fd797dc35391989a3cab414b26]: Commencement: Sch. 2 para. 3 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-03b9f8fd797dc35391989a3cab414b26]: Commencement: Sch. 2 para. 3 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-8b749411e85f02e068492295843dc7ad]: Commencement: Sch. 2 para. 4 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-8b749411e85f02e068492295843dc7ad]: Commencement: Sch. 2 para. 4 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-20dcf8fba75fef6d224cd82e5ebb5ef4]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4/1) substituted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 17(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/17/a); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-20dcf8fba75fef6d224cd82e5ebb5ef4]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4/1) substituted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 17(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/17/a); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-1fe8cc7c28963d345e6e967b4aca9a11]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4/2) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 17(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/17/b); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-1fe8cc7c28963d345e6e967b4aca9a11]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4/2) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 17(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/17/b); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-2d9ed15690e7dd28ec9a16ed618b788c]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4/3) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 17(c)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/17/c); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-2d9ed15690e7dd28ec9a16ed618b788c]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4/3) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 17(c)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/17/c); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-cb81e1594edec7b9837987848e2a33bd]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4A) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 18](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/18); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-cb81e1594edec7b9837987848e2a33bd]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4A) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 18](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/18); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-82c9e2228cf35dfe145b834ca7e76160]: Commencement: Sch. 2 para. 5 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-82c9e2228cf35dfe145b834ca7e76160]: Commencement: Sch. 2 para. 5 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-363b21518deef87c55dabb83472776a4]: Textual amendment: Word in [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/5/2) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 19(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/19/a); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-363b21518deef87c55dabb83472776a4]: Textual amendment: Word in [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/5/2) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 19(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/19/a); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-e54b63058b754a7f9ea9cd0435ce6c84]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/5/3) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 19(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/19/b); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-e54b63058b754a7f9ea9cd0435ce6c84]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/5/3) inserted (18.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 30 para. 19(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/19/b); [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-39d035633f4b579bcc8b8e7ef5068832]: Commencement: Sch. 2 para. 6 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-39d035633f4b579bcc8b8e7ef5068832]: Commencement: Sch. 2 para. 6 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-41cf4a441b1680007728aec7a6982db8]: Commencement: Sch. 2 para. 7 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-41cf4a441b1680007728aec7a6982db8]: Commencement: Sch. 2 para. 7 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
 [^M_C_ccb0473d-95c3-4320-aa50-d717cb23cc16]: Modification: Sch. 2 para. 7(3) modified (temp.) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [23](https://www.legislation.gov.uk/uksi/2024/131/regulation/23), [24](https://www.legislation.gov.uk/uksi/2024/131/regulation/24)
 
-[^key-e2a9d973f3c92712edaa96018d82f85b]: Commencement: Sch. 2 para. 8 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-e2a9d973f3c92712edaa96018d82f85b]: Commencement: Sch. 2 para. 8 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-e16d5b92ffa59b47c0751550711ade84]: Commencement: Sch. 2 para. 9 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-e16d5b92ffa59b47c0751550711ade84]: Commencement: Sch. 2 para. 9 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-e00c71d586bd31cebdb00b867d7b3a6d]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/9A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/3), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-e00c71d586bd31cebdb00b867d7b3a6d]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/9A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/3), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-a7b2459109714e685e0625a11fb5ef80]: Commencement: Sch. 2 para. 10 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-a7b2459109714e685e0625a11fb5ef80]: Commencement: Sch. 2 para. 10 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-66c94eaeacd48820d141a7dedeb94171]: Commencement: Sch. 2 para. 11 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-66c94eaeacd48820d141a7dedeb94171]: Commencement: Sch. 2 para. 11 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-f9ef30b989d17427aa163736f7ea239c]: Commencement: Sch. 2 para. 12 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-f9ef30b989d17427aa163736f7ea239c]: Commencement: Sch. 2 para. 12 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)

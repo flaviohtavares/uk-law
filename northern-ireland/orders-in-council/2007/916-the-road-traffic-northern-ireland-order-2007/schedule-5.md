@@ -47,8 +47,8 @@ Article 40
   - (ii) in head (ia) omit the words from “together” to the end; and
   - (iii) in head (ii) omit “and its counterpart (if any) issued to him”;
 - (b) in paragraph (1AA) omit–
-  - (i) “together with the counterpart[^key-f70672e3845a67b0e7d5c1ae692c0c98] mentioned in paragraph (ia)”; [^key-efcca97c2a88001f6867db7817f231ed]...
-  - (ii)[^key-efcca97c2a88001f6867db7817f231ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) “together with the counterpart[^c-f70672e3845a67b0e7d5c1ae692c0c98] mentioned in paragraph (ia)”; [^c-efcca97c2a88001f6867db7817f231ed]...
+  - (ii)[^c-efcca97c2a88001f6867db7817f231ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** In Article 14(1)(c) (form of licence) omit “or its counterpart”.
 
@@ -58,7 +58,7 @@ Article 40
   - (i) omit sub-paragraph (b);
   - (ii) in sub-paragraph (c) omit “or in its counterpart”; and
   - (iii) omit “and its counterpart”;
-- (aa)[^key-32448c8ca5dd0080fc4f5b97520062bf] in paragraph (5ZA), omit “and its counterpart”.
+- (aa)[^c-32448c8ca5dd0080fc4f5b97520062bf] in paragraph (5ZA), omit “and its counterpart”.
 - (b) in paragraph (6) omit “and its counterpart”;
 - (c) in paragraph (7A)–
   - (i) omit “and its counterpart”, in both places;
@@ -100,7 +100,7 @@ Article 40
 
 **12.** In Article 19D (interpretation)–
 
-- (a) in paragraph (1) omit the definition of “counterpart” [^key-d36e37569a07958aa3c649f1c4d4198f]...;
+- (a) in paragraph (1) omit the definition of “counterpart” [^c-d36e37569a07958aa3c649f1c4d4198f]...;
 - (b) omit paragraph (3).
 
 **13.** In Article 19E (provisions about Great Britain driver's licences) for paragraph (2) substitute–
@@ -127,11 +127,11 @@ Article 40
 
 - (a) in paragraph (1) omit the words from “together” to the end;
 - (b) in paragraph (2)–
-  - (i) in sub-paragraph (a) omit “together with its counterpart (if any) issued to him under this Part[^key-5aba5258d80e96d0fbdfee5e9a9db41c] ”; and
-  - (ii) in sub-paragraph (b) omit “and its counterpart (if any)[^key-8eb998f130582b8cdf561de1f159ce2f] ”;
-- (c) in paragraph (4) omit “and the counterpart (if any)[^key-d9f1dbda9b9cb9ca25c14a0a5a93a050] ”;
+  - (i) in sub-paragraph (a) omit “together with its counterpart (if any) issued to him under this Part[^c-5aba5258d80e96d0fbdfee5e9a9db41c] ”; and
+  - (ii) in sub-paragraph (b) omit “and its counterpart (if any)[^c-8eb998f130582b8cdf561de1f159ce2f] ”;
+- (c) in paragraph (4) omit “and the counterpart (if any)[^c-d9f1dbda9b9cb9ca25c14a0a5a93a050] ”;
 - (d) omit paragraph (5);
-- (e)[^key-b7ca5a5bb77480ed434e42fad6630786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-b7ca5a5bb77480ed434e42fad6630786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** In Article 73A(1) (community licence holders: cessation of authorisation, etc.) omit “and its counterpart (if any)”.
 
@@ -145,7 +145,7 @@ Article 40
 
 **19.** In Article 78 (interpretation) omit the definition of “counterpart”.
 
-**20.**[^key-b9288c40f2fba37e1f381067df1595aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-b9288c40f2fba37e1f381067df1595aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **21.** In Article 174 (false statements in connection with forgery of, and fraudulent use of, documents; issue of false insurance certificate and powers of seizure)–
 
@@ -378,7 +378,7 @@ Article 40
   >
   > - (a) a notice is sent to the Department under Article 49A for the endorsement of a person's driving record with any particulars or penalty points, and
   > - (b) the particulars contained in the notice include–
-  >   - (i) particulars of an offence in respect of which the holder of a Community licence, or a person normally resident in an[^key-b4f02105cd0fb60d5b6698f7852d5c53] EEA state who does not hold a licence, is disqualified by an order of a court, and
+  >   - (i) particulars of an offence in respect of which the holder of a Community licence, or a person normally resident in an[^c-b4f02105cd0fb60d5b6698f7852d5c53] EEA state who does not hold a licence, is disqualified by an order of a court, and
   >   - (ii) particulars of the disqualification,
   >
   >   the Department must send a notice containing the particulars mentioned in sub-paragraph (b)(i) and (ii) to the licensing authority in the EEA state in respect of which the Community licence was issued or, where the person disqualified is not the holder of a licence, the licensing authority in the EEA state where the person is normally resident.
@@ -488,22 +488,22 @@ Article 40
 
 ## Annotations
 
-[^key-f70672e3845a67b0e7d5c1ae692c0c98]: Textual amendment: Word in Sch. 5 para. 4(b) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(a)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/a/i)
+[^c-f70672e3845a67b0e7d5c1ae692c0c98]: Textual amendment: Word in Sch. 5 para. 4(b) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(a)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/a/i)
 
-[^key-efcca97c2a88001f6867db7817f231ed]: Textual amendment: Sch. 5 para. 4(b)(ii) and preceding word omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(a)(ii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/a/ii)
+[^c-efcca97c2a88001f6867db7817f231ed]: Textual amendment: Sch. 5 para. 4(b)(ii) and preceding word omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(a)(ii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/a/ii)
 
-[^key-32448c8ca5dd0080fc4f5b97520062bf]: Textual amendment: [Sch. 5 para. 6(aa)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/6/aa) inserted (14.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 65](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/65); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
+[^c-32448c8ca5dd0080fc4f5b97520062bf]: Textual amendment: [Sch. 5 para. 6(aa)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/6/aa) inserted (14.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 65](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/65); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
 
-[^key-d36e37569a07958aa3c649f1c4d4198f]: Textual amendment: Words in [Sch. 5 para. 12(a)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/12/a) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/b)
+[^c-d36e37569a07958aa3c649f1c4d4198f]: Textual amendment: Words in [Sch. 5 para. 12(a)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/12/a) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/b)
 
-[^key-5aba5258d80e96d0fbdfee5e9a9db41c]: Textual amendment: Words in [Sch. 5 para. 15(b)(i)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/15/b/i) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(c)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/c/i)
+[^c-5aba5258d80e96d0fbdfee5e9a9db41c]: Textual amendment: Words in [Sch. 5 para. 15(b)(i)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/15/b/i) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(c)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/c/i)
 
-[^key-8eb998f130582b8cdf561de1f159ce2f]: Textual amendment: Words in [Sch. 5 para. 15(b)(ii)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/15/b/ii) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(c)(ii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/c/ii)
+[^c-8eb998f130582b8cdf561de1f159ce2f]: Textual amendment: Words in [Sch. 5 para. 15(b)(ii)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/15/b/ii) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(c)(ii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/c/ii)
 
-[^key-d9f1dbda9b9cb9ca25c14a0a5a93a050]: Textual amendment: Words in [Sch. 5 para. 15(c)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/15/c) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(c)(iii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/c/iii)
+[^c-d9f1dbda9b9cb9ca25c14a0a5a93a050]: Textual amendment: Words in [Sch. 5 para. 15(c)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/15/c) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(c)(iii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/c/iii)
 
-[^key-b7ca5a5bb77480ed434e42fad6630786]: Textual amendment: [Sch. 5 para. 15(e)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/15/e) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(c)(iv)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/c/iv)
+[^c-b7ca5a5bb77480ed434e42fad6630786]: Textual amendment: [Sch. 5 para. 15(e)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/15/e) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(c)(iv)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/c/iv)
 
-[^key-b9288c40f2fba37e1f381067df1595aa]: Textual amendment: [Sch. 5 para. 20](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/20) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(d)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/d)
+[^c-b9288c40f2fba37e1f381067df1595aa]: Textual amendment: [Sch. 5 para. 20](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/20) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 14(d)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/14/d)
 
-[^key-b4f02105cd0fb60d5b6698f7852d5c53]: Textual amendment: Word in [Sch. 5 para. 53(e)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/53/e) substituted (31.12.2020) by [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/194/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4f02105cd0fb60d5b6698f7852d5c53]: Textual amendment: Word in [Sch. 5 para. 53(e)](https://www.legislation.gov.uk/nisi/2007/916/schedule/5/paragraph/53/e) substituted (31.12.2020) by [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/194/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

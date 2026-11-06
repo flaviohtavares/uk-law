@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30.1. Application of this Chapter[^key-16f1bba16b5ee01263bfa30a9daf37de]
+## 30.1. Application of this Chapter[^c-16f1bba16b5ee01263bfa30a9daf37de]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ This Chapter applies to an appeal under section 38 of the Sheriff Courts (Scotla
 
 ## Annotations
 
-[^key-16f1bba16b5ee01263bfa30a9daf37de]: Commencement: Para. 30.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-16f1bba16b5ee01263bfa30a9daf37de]: Commencement: Para. 30.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00034]: Footnote: [1971 c.58](https://www.legislation.gov.uk/ukpga/1971/58). Section 38 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73), section 18(4). It was also partly repealed by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), schedule 5(1), paragraph 6(2) which has effect subject to transitional provision specified in [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Expansion of financial duties of integrated care boards and their partners[^key-71c6682da420ae2e04847454f3d0530a]
+## 30. Expansion of financial duties of integrated care boards and their partners[^c-71c6682da420ae2e04847454f3d0530a]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71c6682da420ae2e04847454f3d0530a]: Commencement: S. 30 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-71c6682da420ae2e04847454f3d0530a]: Commencement: S. 30 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)

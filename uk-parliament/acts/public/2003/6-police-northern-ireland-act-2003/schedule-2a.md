@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2A — POWERS AND DUTIES OF COMMUNITY SUPPORT OFFICER[^key-85b16e9dcf38cb06e52c236886923f0e]
+## SCHEDULE 2A — POWERS AND DUTIES OF COMMUNITY SUPPORT OFFICER[^c-85b16e9dcf38cb06e52c236886923f0e]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ A CSO shall have the power of a constable in uniform to give a fixed penalty not
 - (a) an offence under section 3 of the Vagrancy (Ireland) Act 1847;
 - (b) an offence under section 24 of the Children and Young Persons Act (Northern Ireland) 1968;
 - (c) an offence under Article 18 of the Public Order (Northern Ireland) Order 1987;
-- (d) an offence under Article 3 [^key-33b6482f87d91ea900a886c59cc1eda2]... of the Litter (Northern Ireland) Order 1994;
+- (d) an offence under Article 3 [^c-33b6482f87d91ea900a886c59cc1eda2]... of the Litter (Northern Ireland) Order 1994;
 - (e) an offence under any of Articles 3, 30(9), 41, 50 or 60 to 64 of the Licensing (Northern Ireland) Order 1996;
 - (f) an offence under a relevant byelaw.
 
@@ -102,12 +102,12 @@ and that section shall have effect in relation to the exercise of those powers b
 
 (1) A CSO shall have the powers of a constable under section 1 of the Confiscation of Alcohol (Young Persons) Act 1997 (confiscation of intoxicating liquor)—
 
-- (a) to impose a requirement under subsection (1) or (1AA)[^key-2facc7144ef01a57e46490c2bac62727] of that section; and
+- (a) to impose a requirement under subsection (1) or (1AA)[^c-2facc7144ef01a57e46490c2bac62727] of that section; and
 - (b) to dispose under subsection (2) of that section of anything surrendered to him;
 
-and that section shall have effect in relation to the exercise of those powers by a CSO as if the references to a constable in subsections (1), (1AA) and (4) (but not the reference in subsection (1AB) (removal))[^key-10802f6d65bf0d6437a1a01bd12a548b] were references to the CSO.
+and that section shall have effect in relation to the exercise of those powers by a CSO as if the references to a constable in subsections (1), (1AA) and (4) (but not the reference in subsection (1AB) (removal))[^c-10802f6d65bf0d6437a1a01bd12a548b] were references to the CSO.
 
-(2) Paragraph 4 applies in the case of a requirement imposed by a CSO under section 1(1AA)[^key-61e0083d40581f2a9da20c4d63f34250] of that Act of 1997 on any person to state his name and address as it applies in the case of a requirement under paragraph 2(1).
+(2) Paragraph 4 applies in the case of a requirement imposed by a CSO under section 1(1AA)[^c-61e0083d40581f2a9da20c4d63f34250] of that Act of 1997 on any person to state his name and address as it applies in the case of a requirement under paragraph 2(1).
 
 ### 7. Confiscation of tobacco etc
 
@@ -175,7 +175,7 @@ and reasonably believes that it is unlawful for the person to be in possession o
 
 (6) In this paragraph, “**controlled drug**” has the same meaning as in the Misuse of Drugs Act 1971.
 
-### 9A. Powers to seize and retain: psychoactive substances[^key-4876143423c8f5b988747ca9af5b8b9a]
+### 9A. Powers to seize and retain: psychoactive substances[^c-4876143423c8f5b988747ca9af5b8b9a]
 
 (1) If a CSO—
 
@@ -245,16 +245,16 @@ A CSO shall have the power to carry out any road check the carrying out of which
 
 A CSO shall, in relation to any cordoned area have all the powers of a constable in uniform under section 36 of the Terrorism Act 2000 (c 11) (enforcement of cordoned area) to give orders, make arrangements or impose prohibitions or restrictions.
 
-### 16. Power to stop and search vehicles etc in authorised areas[^key-9e1484c761722d608cf9d27c8f6796ea]
+### 16. Power to stop and search vehicles etc in authorised areas[^c-9e1484c761722d608cf9d27c8f6796ea]
 
-(1) A CSO shall, in any authorised area, have all the powers of a constable in uniform by virtue of section 47A(2)(a) and (d), (3)(b) and (6)[^key-0ee5fcb73ce84eb870206d022b28e4f9] of the Terrorism Act 2000 (powers of stop and search)—
+(1) A CSO shall, in any authorised area, have all the powers of a constable in uniform by virtue of section 47A(2)(a) and (d), (3)(b) and (6)[^c-0ee5fcb73ce84eb870206d022b28e4f9] of the Terrorism Act 2000 (powers of stop and search)—
 
 - (a) to stop and search vehicles;
 - (b) to search anything in or on a vehicle or anything carried by the driver of a vehicle or any passenger in a vehicle;
 - (c) to search anything carried by a pedestrian; and
-- (d) to seize and retain anything which is[^key-6b2593a0d8f3b3e1ddeb907acd9ffe29] discovered in the course of a search carried out by him or by a constable by virtue of any provision of section 47A(2) or (3) of that Act and which he reasonably suspects may constitute evidence that the vehicle concerned is being used for the purposes of terrorism or (as the case may be) that the person concerned is a person falling within section 40(1)(b) of that Act[^key-4f22639f5147673943f29c528db72ee8] .
+- (d) to seize and retain anything which is[^c-6b2593a0d8f3b3e1ddeb907acd9ffe29] discovered in the course of a search carried out by him or by a constable by virtue of any provision of section 47A(2) or (3) of that Act and which he reasonably suspects may constitute evidence that the vehicle concerned is being used for the purposes of terrorism or (as the case may be) that the person concerned is a person falling within section 40(1)(b) of that Act[^c-4f22639f5147673943f29c528db72ee8] .
 
-(2) References to a constable in subsections (4) and (5) of section 47A of, and paragraphs 1 and 2 of Schedule 6B to,[^key-df057b7526901e2815e3dd51cec19a78] that Act (which relate to the exercise of those powers) shall have effect in relation to the exercise of any of those powers by a CSO as references to a CSO.
+(2) References to a constable in subsections (4) and (5) of section 47A of, and paragraphs 1 and 2 of Schedule 6B to,[^c-df057b7526901e2815e3dd51cec19a78] that Act (which relate to the exercise of those powers) shall have effect in relation to the exercise of any of those powers by a CSO as references to a CSO.
 
 (3) A CSO shall not exercise any power of stop, search or seizure by virtue of this paragraph except in the company, and under the supervision, of a constable.
 
@@ -276,24 +276,24 @@ A CSO shall have the powers of a constable under—
 
 ## Annotations
 
-[^key-85b16e9dcf38cb06e52c236886923f0e]: Textual amendment: Sch. 2A inserted (22.4.2007 for the insertion of Sch. 2A paras. 2, 6, 7, 10, 13, 15, 18) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [7(8)](https://www.legislation.gov.uk/nisi/2007/912/article/7/8), [Sch. 5](https://www.legislation.gov.uk/nisi/2007/912/schedule/5)
+[^c-85b16e9dcf38cb06e52c236886923f0e]: Textual amendment: Sch. 2A inserted (22.4.2007 for the insertion of Sch. 2A paras. 2, 6, 7, 10, 13, 15, 18) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [7(8)](https://www.legislation.gov.uk/nisi/2007/912/article/7/8), [Sch. 5](https://www.legislation.gov.uk/nisi/2007/912/schedule/5)
 
-[^key-33b6482f87d91ea900a886c59cc1eda2]: Textual amendment: Words in Sch. 2A para. 2(4)(d) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
+[^c-33b6482f87d91ea900a886c59cc1eda2]: Textual amendment: Words in Sch. 2A para. 2(4)(d) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
 
-[^key-2facc7144ef01a57e46490c2bac62727]: Textual amendment: Words in Sch. 2A para. 6(1) inserted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/28/2/a); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
+[^c-2facc7144ef01a57e46490c2bac62727]: Textual amendment: Words in Sch. 2A para. 6(1) inserted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/28/2/a); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
 
-[^key-10802f6d65bf0d6437a1a01bd12a548b]: Textual amendment: Words in Sch. 2A para. 6(1) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/28/2/b); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
+[^c-10802f6d65bf0d6437a1a01bd12a548b]: Textual amendment: Words in Sch. 2A para. 6(1) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/28/2/b); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
 
-[^key-61e0083d40581f2a9da20c4d63f34250]: Textual amendment: Words in Sch. 2A para. 6(2) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 28(3)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/28/3); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
+[^c-61e0083d40581f2a9da20c4d63f34250]: Textual amendment: Words in Sch. 2A para. 6(2) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 28(3)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/28/3); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
 
-[^key-4876143423c8f5b988747ca9af5b8b9a]: Textual amendment: Sch. 2A para. 9A inserted (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/4); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-4876143423c8f5b988747ca9af5b8b9a]: Textual amendment: Sch. 2A para. 9A inserted (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/4); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-9e1484c761722d608cf9d27c8f6796ea]: Modification: Sch. 2A para. 16 modified (18.3.2011) by [Terrorism Act 2000 (Remedial) Order 2011 (S.I. 2011/631)](https://www.legislation.gov.uk/uksi/2011/631), [art. 1](https://www.legislation.gov.uk/uksi/2011/631/article/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/631/schedule/2/paragraph/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/631/article/6))
+[^c-9e1484c761722d608cf9d27c8f6796ea]: Modification: Sch. 2A para. 16 modified (18.3.2011) by [Terrorism Act 2000 (Remedial) Order 2011 (S.I. 2011/631)](https://www.legislation.gov.uk/uksi/2011/631), [art. 1](https://www.legislation.gov.uk/uksi/2011/631/article/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/631/schedule/2/paragraph/6) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/631/article/6))
 
-[^key-0ee5fcb73ce84eb870206d022b28e4f9]: Textual amendment: Words in Sch. 2A para. 16(1) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 31(a)(i)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/31/a/i) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-0ee5fcb73ce84eb870206d022b28e4f9]: Textual amendment: Words in Sch. 2A para. 16(1) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 31(a)(i)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/31/a/i) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-6b2593a0d8f3b3e1ddeb907acd9ffe29]: Textual amendment: Words in Sch. 2A para. 16(d) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 31(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/31/a/ii) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-6b2593a0d8f3b3e1ddeb907acd9ffe29]: Textual amendment: Words in Sch. 2A para. 16(d) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 31(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/31/a/ii) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-4f22639f5147673943f29c528db72ee8]: Textual amendment: Words in Sch. 2A para. 16(d) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 31(a)(iii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/31/a/iii) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-4f22639f5147673943f29c528db72ee8]: Textual amendment: Words in Sch. 2A para. 16(d) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 31(a)(iii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/31/a/iii) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-df057b7526901e2815e3dd51cec19a78]: Textual amendment: Words in Sch. 2A para. 16(2) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 31(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/31/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-df057b7526901e2815e3dd51cec19a78]: Textual amendment: Words in Sch. 2A para. 16(2) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 31(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/31/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)

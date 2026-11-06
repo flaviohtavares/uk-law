@@ -30,24 +30,24 @@ summary: ''
 (2) Residence in a district is not of a person’s own choice for the purposes of subsection (1) if he became resident in it—
 
 - (a) because he or any person who might reasonably be expected to reside with him—
-  - (i)[^key-12d2a70d73e11a7a2331a30876810510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) was detained under the authority of any Act of Parliament, or[^key-40cf507afbac9b85ebb656a196309753]
+  - (i)[^c-12d2a70d73e11a7a2331a30876810510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) was detained under the authority of any Act of Parliament, or[^c-40cf507afbac9b85ebb656a196309753]
   - (iii) was resident in accommodation provided in pursuance of section 95 (provision of support for asylum-seekers and dependants) of the Immigration and Asylum Act 1999 (c. 33),
 - (b) in such other circumstances as the Secretary of State may by order specify.
 
 (3) A person is not employed in a district for the purposes of subsection (1)—
 
-- (a)[^key-b38687bad2ff1a6ab073ba442dd2d91d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) in such [^key-270384f57f229681050dfd08f0f7860f]... circumstances as the Secretary of State may by order specify.
+- (a)[^c-b38687bad2ff1a6ab073ba442dd2d91d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in such [^c-270384f57f229681050dfd08f0f7860f]... circumstances as the Secretary of State may by order specify.
 
 (4) An order under subsections (2) or (3) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ## Annotations
 
-[^key-12d2a70d73e11a7a2331a30876810510]: Textual amendment: S. 27(2)(a)(i) repealed (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 156(a)](https://www.legislation.gov.uk/asp/2010/17/section/156/a), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-12d2a70d73e11a7a2331a30876810510]: Textual amendment: S. 27(2)(a)(i) repealed (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 156(a)](https://www.legislation.gov.uk/asp/2010/17/section/156/a), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-40cf507afbac9b85ebb656a196309753]: Textual amendment: S. 27(2)(a)(iii) and word inserted (30.1.2004) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 7](https://www.legislation.gov.uk/asp/2003/10/section/7), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
+[^c-40cf507afbac9b85ebb656a196309753]: Textual amendment: S. 27(2)(a)(iii) and word inserted (30.1.2004) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 7](https://www.legislation.gov.uk/asp/2003/10/section/7), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2003/609](https://www.legislation.gov.uk/ssi/2003/609), [art. 2](https://www.legislation.gov.uk/ssi/2003/609/article/2)
 
-[^key-b38687bad2ff1a6ab073ba442dd2d91d]: Textual amendment: S. 27(3)(a) repealed (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 156(b)](https://www.legislation.gov.uk/asp/2010/17/section/156/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-b38687bad2ff1a6ab073ba442dd2d91d]: Textual amendment: S. 27(3)(a) repealed (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 156(b)](https://www.legislation.gov.uk/asp/2010/17/section/156/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-270384f57f229681050dfd08f0f7860f]: Textual amendment: Word in s. 27(3)(b) repealed (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 156(c)](https://www.legislation.gov.uk/asp/2010/17/section/156/c), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-270384f57f229681050dfd08f0f7860f]: Textual amendment: Word in s. 27(3)(b) repealed (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 156(c)](https://www.legislation.gov.uk/asp/2010/17/section/156/c), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

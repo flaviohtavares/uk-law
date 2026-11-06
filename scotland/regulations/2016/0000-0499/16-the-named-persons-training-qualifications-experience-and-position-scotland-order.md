@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons
 
-The Named Persons (Training, Qualifications, Experience and Position) (Scotland) Order 2016 (revoked)[^key-e22c11da873a66598b9c62dca8310ccc]
+The Named Persons (Training, Qualifications, Experience and Position) (Scotland) Order 2016 (revoked)[^c-e22c11da873a66598b9c62dca8310ccc]
 
 Made
 
@@ -46,15 +46,15 @@ Coming into force
 
 31st August 2016
 
-[^key-e22c11da873a66598b9c62dca8310ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e22c11da873a66598b9c62dca8310ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-e22c11da873a66598b9c62dca8310ccc]
+## 1. Citation, commencement and interpretation[^c-e22c11da873a66598b9c62dca8310ccc]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Training, qualifications, experience and position of named persons[^key-e22c11da873a66598b9c62dca8310ccc]
+## 2. Training, qualifications, experience and position of named persons[^c-e22c11da873a66598b9c62dca8310ccc]
 
 **Not yet in force.**
 
@@ -62,12 +62,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-e22c11da873a66598b9c62dca8310ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e22c11da873a66598b9c62dca8310ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e22c11da873a66598b9c62dca8310ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e22c11da873a66598b9c62dca8310ccc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e22c11da873a66598b9c62dca8310ccc]: Textual amendment: Order revoked (30.8.2016) by The Named Persons (Training, Qualifications, Experience and Position) and the Child’s [Plan (Scotland) Revocation Order 2016 (S.S.I. 2016/234)](https://www.legislation.gov.uk/ssi/2016/234), [arts. 1](https://www.legislation.gov.uk/ssi/2016/234/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2016/234/article/2/a)
+[^c-e22c11da873a66598b9c62dca8310ccc]: Textual amendment: Order revoked (30.8.2016) by The Named Persons (Training, Qualifications, Experience and Position) and the Child’s [Plan (Scotland) Revocation Order 2016 (S.S.I. 2016/234)](https://www.legislation.gov.uk/ssi/2016/234), [arts. 1](https://www.legislation.gov.uk/ssi/2016/234/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2016/234/article/2/a)

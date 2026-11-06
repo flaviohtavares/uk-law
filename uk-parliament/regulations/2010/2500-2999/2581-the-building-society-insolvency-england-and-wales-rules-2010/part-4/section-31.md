@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Expenses of statement of affairs[^key-f7aa33226ccf25740ca23967307ea1a7]
+## 31. Expenses of statement of affairs[^c-f7aa33226ccf25740ca23967307ea1a7]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.37 of the 1986 Rules[^f00017]. For “official receiver”, substit
 
 ## Annotations
 
-[^key-f7aa33226ccf25740ca23967307ea1a7]: Commencement: Rule 31 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-f7aa33226ccf25740ca23967307ea1a7]: Commencement: Rule 31 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00017]: Footnote: Rule 4.37 was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

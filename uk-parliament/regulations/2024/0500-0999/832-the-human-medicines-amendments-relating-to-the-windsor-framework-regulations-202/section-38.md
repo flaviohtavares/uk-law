@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Revocation of regulation 52A[^key-6a54fead43082c76f7f6a0f5e240b530]
+## 38. Revocation of regulation 52A[^c-6a54fead43082c76f7f6a0f5e240b530]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit regulation 52A (application for UKMA(GB) relating to certain medicinal prod
 
 ## Annotations
 
-[^key-6a54fead43082c76f7f6a0f5e240b530]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2024/832/regulation/38) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-6a54fead43082c76f7f6a0f5e240b530]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2024/832/regulation/38) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00049]: Footnote: Regulation 52A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

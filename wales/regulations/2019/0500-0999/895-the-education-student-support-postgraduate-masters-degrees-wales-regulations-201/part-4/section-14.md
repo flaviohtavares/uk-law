@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Reinstatement of eligibility after termination[^key-d84c0483465e22c704ea5b97f4d3cb6f]
+## 14. Reinstatement of eligibility after termination[^c-d84c0483465e22c704ea5b97f4d3cb6f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a student's period of eligibility terminates under regulation 12 or 13 dur
 
 ## Annotations
 
-[^key-d84c0483465e22c704ea5b97f4d3cb6f]: Commencement: Reg. 14 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-d84c0483465e22c704ea5b97f4d3cb6f]: Commencement: Reg. 14 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

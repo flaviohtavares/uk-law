@@ -34,7 +34,7 @@ This Schedule contains rules for the calculation of earnings in the assessment o
 
 ### 3. Valuation of beneficial interest in units in a unit trust scheme
 
-The amount of earnings which is comprised in any payment by way of the conferment of a beneficial interest in any units in a unit trust scheme (within the meaning of section 237 of the Financial Services and Markets Act 2000[^key-46eb2326cb324764a8a605ce7467d7a9] having a published selling price and which falls to be taken into account in the calculation of a person’s earnings shall be calculated or estimated by reference to the published selling price on the day in question.
+The amount of earnings which is comprised in any payment by way of the conferment of a beneficial interest in any units in a unit trust scheme (within the meaning of section 237 of the Financial Services and Markets Act 2000[^c-46eb2326cb324764a8a605ce7467d7a9] having a published selling price and which falls to be taken into account in the calculation of a person’s earnings shall be calculated or estimated by reference to the published selling price on the day in question.
 
 Here “published selling price” means the lowest selling price published on the date on which the payment in question is made, and where no such price is published on that date, it means the lowest selling price published on the last previous date on which such a price was published.
 
@@ -61,7 +61,7 @@ The amount shall be reduced by the amount or value, or, if variable, the least a
 
   and which is to be taken into account in computing a person’s earnings, shall be calculated in accordance with sub-paragraph (2) to (5).
 
-(2) In the case of an asset falling within paragraph 1 of Part III of Schedule 3 the amount is the best estimate which can reasonably be made of the amount of general earnings[^key-d78effd31da2296e192c6d2a818a0155] in respect of the provision of the asset.
+(2) In the case of an asset falling within paragraph 1 of Part III of Schedule 3 the amount is the best estimate which can reasonably be made of the amount of general earnings[^c-d78effd31da2296e192c6d2a818a0155] in respect of the provision of the asset.
 
 (3) In the case of an asset falling within paragraph 2 of Part III of Schedule 3, the amount is the best estimate that can reasonably be made of the amount of general earnings in respect of the enhancement of its value.
 
@@ -88,7 +88,7 @@ shall be calculated or estimated on the basis of the cost of the asset in questi
 
 Here “the cost of the asset” in relation to any voucher, stamp or similar document includes the cost of any asset for which that voucher, stamp or similar document is capable of being exchanged.
 
-### 7. Convertible and restricted interests in securities and convertible and restricted securities[^key-469434de537e2dd7ca6a3358c0f45a03]
+### 7. Convertible and restricted interests in securities and convertible and restricted securities[^c-469434de537e2dd7ca6a3358c0f45a03]
 
 (1) The amount of earnings comprised in any payment by way of the conferment of—
 
@@ -102,21 +102,21 @@ This is subject to the following qualification.
 
 (2) For the purpose of sub-paragraph (1) no account shall be taken of any relief obtained under sections 428A or 442A of ITEPA 2003 (relief for secondary Class 1 contributions met by employee).
 
-### 8. Convertible interest in shares[^key-628a6502e9a1088bdab67f15af83eefa]
+### 8. Convertible interest in shares[^c-628a6502e9a1088bdab67f15af83eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-628a6502e9a1088bdab67f15af83eefa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-628a6502e9a1088bdab67f15af83eefa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Assignment or release of right to acquire shares where neither right nor shares readily convertible[^key-628a6502e9a1088bdab67f15af83eefa]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Assignment or release of a right, acquired as director or employee before 6th April 1999, to acquire shares where neither right nor shares readily convertible[^key-628a6502e9a1088bdab67f15af83eefa]
+### 9. Assignment or release of right to acquire shares where neither right nor shares readily convertible[^c-628a6502e9a1088bdab67f15af83eefa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Exercise of a replacement right to acquire shares, obtained as an earner before 6th April 1999[^key-ca7d61e1548148950b06b030abcc44e9]
+### 10. Assignment or release of a right, acquired as director or employee before 6th April 1999, to acquire shares where neither right nor shares readily convertible[^c-628a6502e9a1088bdab67f15af83eefa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Exercise of a replacement right to acquire shares, obtained as an earner before 6th April 1999[^c-ca7d61e1548148950b06b030abcc44e9]
 
 (1) This paragraph applies if—
 
@@ -130,14 +130,14 @@ This is subject to the following qualification.
 
 (3) The basis for calculating the amount of a gain realised by the exercise of the replacement right shall be the best estimate that can reasonably be made of the amount found as follows.
 
-### 11A. Exercise, assignment or release of share option — market value of option or resulting shares increased by things done otherwise than for genuine commercial purposes[^key-453dd2384847f20cfa171accab8203f2]
+### 11A. Exercise, assignment or release of share option — market value of option or resulting shares increased by things done otherwise than for genuine commercial purposes[^c-453dd2384847f20cfa171accab8203f2]
 
 (1) This paragraph applies for calculating or estimating the amount of earnings which is comprised in a payment which—
 
 - (a) would be disregarded in the computation of earnings for the purposes of earnings-related contributions by virtue of paragraph 16 of Part 9 of Schedule 3; but
 - (b) is not disregarded because paragraph 17 of that Part applies to it.
 
-(2) If this paragraph applies, the amount of earnings to be taken into account for the purpose of earnings related contributions is the amount which would, but for paragraph 16 or 16A[^key-fa9b07802919ab0e574dc0490d718b2f] of Part 9 of Schedule 3, have been taken into account by virtue of section 4(4)(a) of the Act.
+(2) If this paragraph applies, the amount of earnings to be taken into account for the purpose of earnings related contributions is the amount which would, but for paragraph 16 or 16A[^c-fa9b07802919ab0e574dc0490d718b2f] of Part 9 of Schedule 3, have been taken into account by virtue of section 4(4)(a) of the Act.
 
 - This is subject to the following qualification.
 
@@ -154,7 +154,7 @@ This is subject to the following qualification.
 
 the deductible amount may be deducted from the amount otherwise to be taken into account by virtue of this paragraph.
 
-### 12. Interpretation of paragraphs 9, 10 and 11[^key-f92598c1936b989469a3b0ad9d96661d]
+### 12. Interpretation of paragraphs 9, 10 and 11[^c-f92598c1936b989469a3b0ad9d96661d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -169,7 +169,7 @@ In those paragraphs—
   - (i) a body corporate constituted under the law of a country or territory outside the United Kingdom; and
   - (ii) an unincorporated association wherever constituted.
 
-### 13. Apportionment of a payment to a retirement benefits scheme for the benefit of two or more people[^key-b2a36e3a8d0a743d74a4b71306b8a7f5]
+### 13. Apportionment of a payment to a retirement benefits scheme for the benefit of two or more people[^c-b2a36e3a8d0a743d74a4b71306b8a7f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -177,7 +177,7 @@ In those paragraphs—
 
 (1) The amount of earnings comprised in any payment by way of a non-cash voucher which is not otherwise disregarded by these Regulations and which falls to be taken into account in calculating an employed earner’s earnings shall be calculated on the basis set out in sub-paragraph (2).
 
-(1A)[^key-6b7057cb18c5be1927ded23b5816b2b4] This paragraph is subject to paragraph 14A (valuation of non-cash vouchers provided under optional remuneration arrangements).
+(1A)[^c-6b7057cb18c5be1927ded23b5816b2b4] This paragraph is subject to paragraph 14A (valuation of non-cash vouchers provided under optional remuneration arrangements).
 
 (2) The basis referred to in sub-paragraph (1) is that of an amount equal to the expense incurred (“the chargeable expense”)—
 
@@ -186,13 +186,13 @@ In those paragraphs—
 
 and any money, goods or services obtained by the employed earner or any other person in exchange for the voucher shall be disregarded.
 
-This is subject to the following qualifications[^key-f6c154639a5f061809afa4b8d5a44b66].
+This is subject to the following qualifications[^c-f6c154639a5f061809afa4b8d5a44b66].
 
-(3)[^key-47e76509fb23bb5f9321a7ea556dcdb0] For the purposes of sub-paragraph (2) the chargeable expense shall be reduced by any part of that which the employed earner makes good to the person incurring it.
+(3)[^c-47e76509fb23bb5f9321a7ea556dcdb0] For the purposes of sub-paragraph (2) the chargeable expense shall be reduced by any part of that which the employed earner makes good to the person incurring it.
 
-(4)[^key-ccc57cdd89b9d75e695a8be7373e2a09] The valuation of qualifying childcare vouchers is determined in accordance with paragraph 7 of Part 5 of Schedule 3.
+(4)[^c-ccc57cdd89b9d75e695a8be7373e2a09] The valuation of qualifying childcare vouchers is determined in accordance with paragraph 7 of Part 5 of Schedule 3.
 
-### 14A (Extent: E+W+S). Valuation of non-cash vouchers provided under optional remuneration arrangements (Extent: E+W+S)[^key-b03c09777187ef1a5060a6f70499af79]
+### 14A (Extent: E+W+S). Valuation of non-cash vouchers provided under optional remuneration arrangements (Extent: E+W+S)[^c-b03c09777187ef1a5060a6f70499af79]
 
 (1 (Extent: E+W+S)) This paragraph applies for calculating the amount of earnings comprised in any payment by way of a non-cash voucher which falls to be taken into account in calculating an employed earner’s earnings, if this is made pursuant to optional remuneration arrangements. *(Extent: E+W+S)*
 
@@ -239,30 +239,30 @@ This is subject to the following qualifications[^key-f6c154639a5f061809afa4b8d5a
 
 ## Annotations
 
-[^key-46eb2326cb324764a8a605ce7467d7a9]: Textual amendment: Words in Sch. 2 para. 3 substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments) (Taxes) Order 2001 (S.I. 2001/3629)](https://www.legislation.gov.uk/uksi/2001/3629), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b), [191](https://www.legislation.gov.uk/uksi/2001/3629/article/191)
+[^c-46eb2326cb324764a8a605ce7467d7a9]: Textual amendment: Words in Sch. 2 para. 3 substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments) (Taxes) Order 2001 (S.I. 2001/3629)](https://www.legislation.gov.uk/uksi/2001/3629), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b), [191](https://www.legislation.gov.uk/uksi/2001/3629/article/191)
 
-[^key-d78effd31da2296e192c6d2a818a0155]: Textual amendment: Words in Sch. 2 para. 5 substituted (1.9.2003) by [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/2)
+[^c-d78effd31da2296e192c6d2a818a0155]: Textual amendment: Words in Sch. 2 para. 5 substituted (1.9.2003) by [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/2)
 
-[^key-469434de537e2dd7ca6a3358c0f45a03]: Textual amendment: Sch. 2 para. 7 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2004 (S.I. 2004/2096)](https://www.legislation.gov.uk/uksi/2004/2096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/2096/regulation/5)
+[^c-469434de537e2dd7ca6a3358c0f45a03]: Textual amendment: Sch. 2 para. 7 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2004 (S.I. 2004/2096)](https://www.legislation.gov.uk/uksi/2004/2096), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2096/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/2096/regulation/5)
 
-[^key-628a6502e9a1088bdab67f15af83eefa]: Textual amendment: Sch. 2 paras. 8-10 omitted (1.9.2003) by virtue of [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/4)
+[^c-628a6502e9a1088bdab67f15af83eefa]: Textual amendment: Sch. 2 paras. 8-10 omitted (1.9.2003) by virtue of [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/4)
 
-[^key-ca7d61e1548148950b06b030abcc44e9]: Textual amendment: Sch. 2 para. 11 heading substituted (1.9.2003) by [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/5)
+[^c-ca7d61e1548148950b06b030abcc44e9]: Textual amendment: Sch. 2 para. 11 heading substituted (1.9.2003) by [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/5)
 
-[^key-453dd2384847f20cfa171accab8203f2]: Textual amendment: Sch. 2 para. 11A and cross-heading inserted (10.4.2003) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2003 (S.I. 2003/1059)](https://www.legislation.gov.uk/uksi/2003/1059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1059/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/1059/regulation/3/3)
+[^c-453dd2384847f20cfa171accab8203f2]: Textual amendment: Sch. 2 para. 11A and cross-heading inserted (10.4.2003) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2003 (S.I. 2003/1059)](https://www.legislation.gov.uk/uksi/2003/1059), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1059/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/1059/regulation/3/3)
 
-[^key-fa9b07802919ab0e574dc0490d718b2f]: Textual amendment: Words in Sch. 2 para. 11A(2) inserted (1.9.2003) by [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/6)
+[^c-fa9b07802919ab0e574dc0490d718b2f]: Textual amendment: Words in Sch. 2 para. 11A(2) inserted (1.9.2003) by [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/6)
 
-[^key-f92598c1936b989469a3b0ad9d96661d]: Textual amendment: Sch. 2 para. 12 omitted (1.9.2003) by virtue of [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(7)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/7)
+[^c-f92598c1936b989469a3b0ad9d96661d]: Textual amendment: Sch. 2 para. 12 omitted (1.9.2003) by virtue of [The Social Security (Contributions) (Amendment No. 5) Regulations 2003 (S.I. 2003/2085)](https://www.legislation.gov.uk/uksi/2003/2085), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2085/regulation/1), [7(7)](https://www.legislation.gov.uk/uksi/2003/2085/regulation/7/7)
 
-[^key-b2a36e3a8d0a743d74a4b71306b8a7f5]: Textual amendment: Sch. 2 para. 13 omitted (6.4.2006) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2006 (S.I. 2006/576)](https://www.legislation.gov.uk/uksi/2006/576), [regs. 1](https://www.legislation.gov.uk/uksi/2006/576/regulation/1), [7](https://www.legislation.gov.uk/uksi/2006/576/regulation/7)
+[^c-b2a36e3a8d0a743d74a4b71306b8a7f5]: Textual amendment: Sch. 2 para. 13 omitted (6.4.2006) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2006 (S.I. 2006/576)](https://www.legislation.gov.uk/uksi/2006/576), [regs. 1](https://www.legislation.gov.uk/uksi/2006/576/regulation/1), [7](https://www.legislation.gov.uk/uksi/2006/576/regulation/7)
 
-[^key-6b7057cb18c5be1927ded23b5816b2b4]: Textual amendment: Sch. 2 para. 14(1A) inserted (6.4.2018) by [The Social Security (Contributions) (Amendment) Regulations 2018 (S.I. 2018/120)](https://www.legislation.gov.uk/uksi/2018/120), [regs. 1](https://www.legislation.gov.uk/uksi/2018/120/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/120/regulation/5/2)
+[^c-6b7057cb18c5be1927ded23b5816b2b4]: Textual amendment: Sch. 2 para. 14(1A) inserted (6.4.2018) by [The Social Security (Contributions) (Amendment) Regulations 2018 (S.I. 2018/120)](https://www.legislation.gov.uk/uksi/2018/120), [regs. 1](https://www.legislation.gov.uk/uksi/2018/120/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/120/regulation/5/2)
 
-[^key-f6c154639a5f061809afa4b8d5a44b66]: Textual amendment: Word in Sch. 2 para. 14(2) substituted (6.4.2005) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2005/778/regulation/8/a)
+[^c-f6c154639a5f061809afa4b8d5a44b66]: Textual amendment: Word in Sch. 2 para. 14(2) substituted (6.4.2005) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2005/778/regulation/8/a)
 
-[^key-47e76509fb23bb5f9321a7ea556dcdb0]: Textual amendment: Sch. 2 para. 14(3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [39](https://www.legislation.gov.uk/uksi/2013/622/regulation/39)
+[^c-47e76509fb23bb5f9321a7ea556dcdb0]: Textual amendment: Sch. 2 para. 14(3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions) (Amendment and Application of Schedule 38 to the Finance Act 2012) Regulations 2013 (S.I. 2013/622)](https://www.legislation.gov.uk/uksi/2013/622), [regs. 1](https://www.legislation.gov.uk/uksi/2013/622/regulation/1), [39](https://www.legislation.gov.uk/uksi/2013/622/regulation/39)
 
-[^key-ccc57cdd89b9d75e695a8be7373e2a09]: Textual amendment: Sch. 2 para. 14(4) added (6.4.2005) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2005/778/regulation/8/b)
+[^c-ccc57cdd89b9d75e695a8be7373e2a09]: Textual amendment: Sch. 2 para. 14(4) added (6.4.2005) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2005/778/regulation/8/b)
 
-[^key-b03c09777187ef1a5060a6f70499af79]: Textual amendment: [Sch. 2 para. 14A](https://www.legislation.gov.uk/uksi/2001/1004/schedule/2/paragraph/14A) inserted (E.W.S.) (6.4.2018) by [The Social Security (Contributions) (Amendment) Regulations 2018 (S.I. 2018/120)](https://www.legislation.gov.uk/uksi/2018/120), [regs. 1](https://www.legislation.gov.uk/uksi/2018/120/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/120/regulation/5/3)
+[^c-b03c09777187ef1a5060a6f70499af79]: Textual amendment: [Sch. 2 para. 14A](https://www.legislation.gov.uk/uksi/2001/1004/schedule/2/paragraph/14A) inserted (E.W.S.) (6.4.2018) by [The Social Security (Contributions) (Amendment) Regulations 2018 (S.I. 2018/120)](https://www.legislation.gov.uk/uksi/2018/120), [regs. 1](https://www.legislation.gov.uk/uksi/2018/120/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/120/regulation/5/3)

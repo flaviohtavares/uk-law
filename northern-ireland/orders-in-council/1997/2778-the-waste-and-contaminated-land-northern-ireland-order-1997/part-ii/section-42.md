@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Duty to produce authority to transport controlled waste[^key-8d43f2366bf451dab93ba133d5374407]
+## 42. Duty to produce authority to transport controlled waste[^c-8d43f2366bf451dab93ba133d5374407]
 
 *Extent: N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d43f2366bf451dab93ba133d5374407]: Textual amendment: Arts. 42, 42A substituted (11.3.2013) for art. 42 by [The Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611)](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [15](https://www.legislation.gov.uk/nisi/2007/611/article/15); [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(d)](https://www.legislation.gov.uk/nisr/2013/33/article/2/d)
+[^c-8d43f2366bf451dab93ba133d5374407]: Textual amendment: Arts. 42, 42A substituted (11.3.2013) for art. 42 by [The Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611)](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [15](https://www.legislation.gov.uk/nisi/2007/611/article/15); [S.R. 2013/33](https://www.legislation.gov.uk/nisr/2013/33), [art. 2(d)](https://www.legislation.gov.uk/nisr/2013/33/article/2/d)

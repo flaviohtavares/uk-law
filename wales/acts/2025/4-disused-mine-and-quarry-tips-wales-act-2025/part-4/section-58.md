@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Meaning of “relevant public authority”[^key-efb8724cf7487211bd19a1f2340c9fb0]
+## 58. Meaning of “relevant public authority”[^c-efb8724cf7487211bd19a1f2340c9fb0]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efb8724cf7487211bd19a1f2340c9fb0]: Commencement: S. 58 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-efb8724cf7487211bd19a1f2340c9fb0]: Commencement: S. 58 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.51.1. Interpretation[^key-2dfd10a6725564d64ab53d0d2ba742df]
+## 3.51.1. Interpretation[^c-2dfd10a6725564d64ab53d0d2ba742df]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ unless the context otherwise requires, words and expressions used in this Part a
 
 ## Annotations
 
-[^key-2dfd10a6725564d64ab53d0d2ba742df]: Textual amendment: [Ch. 3 Pt. 51](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/51) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Drug Dealing Telecommunications Restriction Orders) 2017 (S.S.I. 2017/460)](https://www.legislation.gov.uk/ssi/2017/460), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/460/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/460/paragraph/2/2)
+[^c-2dfd10a6725564d64ab53d0d2ba742df]: Textual amendment: [Ch. 3 Pt. 51](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/51) inserted (19.1.2018) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Drug Dealing Telecommunications Restriction Orders) 2017 (S.S.I. 2017/460)](https://www.legislation.gov.uk/ssi/2017/460), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/460/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2017/460/paragraph/2/2)

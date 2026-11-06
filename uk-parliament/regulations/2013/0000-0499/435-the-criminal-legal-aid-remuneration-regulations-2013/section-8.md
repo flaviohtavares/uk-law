@@ -29,11 +29,11 @@ summary: ''
 
 (2) Claims for fees in cases to which this regulation applies must—
 
-- (a) be made and determined in accordance with the 2025 Standard Crime Contract[^key-57a128920d610670931083e7f49d397d]; and
+- (a) be made and determined in accordance with the 2025 Standard Crime Contract[^c-57a128920d610670931083e7f49d397d]; and
 - (b) be paid in accordance with the rates set out in Schedule 4.
 
 (3) In this regulation and in Schedule 4, “2025 Standard Crime Contract” means the contract so named between the Lord Chancellor and a person with whom the Lord Chancellor has made an arrangement under section 2(1) of the Act for the provision of advice, assistance and representation made available under sections 13, 15 and 16 of the Act.
 
 ## Annotations
 
-[^key-57a128920d610670931083e7f49d397d]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2013/435/regulation/8) substituted (1.10.2025) by [The Criminal Legal Aid (Standard Crime Contract) (Amendment) Regulations 2025 (S.I. 2025/1009)](https://www.legislation.gov.uk/uksi/2025/1009), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1009/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1009/regulation/3/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1009/regulation/5))
+[^c-57a128920d610670931083e7f49d397d]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2013/435/regulation/8) substituted (1.10.2025) by [The Criminal Legal Aid (Standard Crime Contract) (Amendment) Regulations 2025 (S.I. 2025/1009)](https://www.legislation.gov.uk/uksi/2025/1009), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1009/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1009/regulation/3/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1009/regulation/5))

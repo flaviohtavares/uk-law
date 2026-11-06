@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Surrender for non-disclosure[^key-4026d57239d7677e0762021efb201317]
+## 79. Surrender for non-disclosure[^c-4026d57239d7677e0762021efb201317]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4026d57239d7677e0762021efb201317]: Commencement: Rule 79 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-4026d57239d7677e0762021efb201317]: Commencement: Rule 79 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

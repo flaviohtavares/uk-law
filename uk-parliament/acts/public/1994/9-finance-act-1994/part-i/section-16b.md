@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16B. Temporary approvals etc pending review or appeal: process[^key-b47454a124af06c06f9bfb64a526325b]
+## 16B. Temporary approvals etc pending review or appeal: process[^c-b47454a124af06c06f9bfb64a526325b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,12 +34,12 @@ summary: ''
 (3) Subject to any provision made in regulations under section 16C, temporary approval has effect as an approval, registration or licence (as the case may be) under the relevant provision listed in section 16A(2) that—
 
 - (a) commences on the day on which the application for temporary approval is granted,
-- (b)[^key-3eb8fc112de8ce0ffaa4ab6a13c15420] expires—
+- (b)[^c-3eb8fc112de8ce0ffaa4ab6a13c15420] expires—
   - (i) on the expiry day determined in accordance with subsection (4), or
   - (ii) if HMRC are satisfied that it is appropriate in all the circumstances, on a later day determined by HMRC, and
 - (c) is subject to any conditions or restrictions imposed on the temporary approval.
 
-(4) For the purposes of subsection (3)(b)(i), the expiry day in relation to a temporary approval is[^key-7bf37af558b24915a2cc373c3720ab6d] —
+(4) For the purposes of subsection (3)(b)(i), the expiry day in relation to a temporary approval is[^c-7bf37af558b24915a2cc373c3720ab6d] —
 
 - (a) in a case where the approval decision is cancelled on a review, the day on which it is cancelled;
 - (b) in a case where the approval decision is upheld on a review, the last day on which an appeal could be brought against that decision (ignoring any possibility of an appeal brought out of time with permission), unless paragraph (4)(c) applies;
@@ -73,8 +73,8 @@ the appeal tribunal may order HMRC to make any decision that it would have been 
 
 ## Annotations
 
-[^key-b47454a124af06c06f9bfb64a526325b]: Textual amendment: Ss. 16A-16C inserted (5.7.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/1)[(3)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/3) (with [s. 131(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/2)); [S.I. 2021/799](https://www.legislation.gov.uk/uksi/2021/799), [reg. 2](https://www.legislation.gov.uk/uksi/2021/799/regulation/2)
+[^c-b47454a124af06c06f9bfb64a526325b]: Textual amendment: Ss. 16A-16C inserted (5.7.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/1)[(3)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/3) (with [s. 131(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/131/2)); [S.I. 2021/799](https://www.legislation.gov.uk/uksi/2021/799), [reg. 2](https://www.legislation.gov.uk/uksi/2021/799/regulation/2)
 
-[^key-3eb8fc112de8ce0ffaa4ab6a13c15420]: Textual amendment: S. 16B(3)(b) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 341(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/341/2)
+[^c-3eb8fc112de8ce0ffaa4ab6a13c15420]: Textual amendment: S. 16B(3)(b) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 341(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/341/2)
 
-[^key-7bf37af558b24915a2cc373c3720ab6d]: Textual amendment: Words in s. 16B(4) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 341(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/341/3)
+[^c-7bf37af558b24915a2cc373c3720ab6d]: Textual amendment: Words in s. 16B(4) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 341(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/341/3)

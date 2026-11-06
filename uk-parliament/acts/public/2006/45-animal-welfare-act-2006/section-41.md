@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Orders under section 33, 35, 37, 38 or 40: pending appeals[^key-be03dba49a85180fc41f5353c9983302][^key-a43e02096a00cb49ac66d7b10d4d60e8]
+## 41. Orders under section 33, 35, 37, 38 or 40: pending appeals[^c-be03dba49a85180fc41f5353c9983302][^c-a43e02096a00cb49ac66d7b10d4d60e8]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be03dba49a85180fc41f5353c9983302]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2006/45/section/41) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-be03dba49a85180fc41f5353c9983302]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2006/45/section/41) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-a43e02096a00cb49ac66d7b10d4d60e8]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2006/45/section/41) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-a43e02096a00cb49ac66d7b10d4d60e8]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2006/45/section/41) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

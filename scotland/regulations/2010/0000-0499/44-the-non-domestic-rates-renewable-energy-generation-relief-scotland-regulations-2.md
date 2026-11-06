@@ -44,20 +44,20 @@ Coming into force
 
 1st April 2010
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of The Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.[^key-b0c7e34ba1a84ffacfd32bd6f46a41bb][^key-a39c4abc5fe0929668942efaf12843fd]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of The Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.[^c-b0c7e34ba1a84ffacfd32bd6f46a41bb][^c-a39c4abc5fe0929668942efaf12843fd]
 
-## 1. Citation and commencement[^key-86bfed22ed2d3530ac2df8bbf311225d]
+## 1. Citation and commencement[^c-86bfed22ed2d3530ac2df8bbf311225d]
 
 These Regulations may be cited as the Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Regulations 2010 and come into force on 1st April 2010.
 
-## 2. Interpretation[^key-ae2bbf51e3a1b863e02ee2c0a38566c9]
+## 2. Interpretation[^c-ae2bbf51e3a1b863e02ee2c0a38566c9]
 
 In these Regulations:—
 
 - “the 1975 Act” means the Local Government (Scotland) Act 1975[^f00002];
 - “electronic communication” has the meaning given to it in section 15(1) of the Electronic Communications Act 2000[^f00003];
 - “lands and heritages” has the meaning prescribed by and under section 42 of the Lands Valuation (Scotland) Act 1854[^f00004];
-- “local authority” means the rating authority in whose valuation roll the entry for the lands and heritages appears;[^key-2494a33c0a24e6f9f7833b62c60bdeaa]
+- “local authority” means the rating authority in whose valuation roll the entry for the lands and heritages appears;[^c-2494a33c0a24e6f9f7833b62c60bdeaa]
 - “rateable value” means the rateable value entered in the valuation roll for that date in respect of the applicable lands and heritages and includes a rateable value so entered with retrospective effect;
 - “renewable heat or power” means heat or power produced from the following sources—
   - (a) biomass;
@@ -69,18 +69,18 @@ In these Regulations:—
   - (g) solar power;
   - (h) geothermal sources;
 
-  but heat or power produced by a combined heat and power system is not renewable unless that system uses only sources of energy described in sub-paragraphs (a) to (h) [^key-2d2fa428c07e1652c89f57bd8ab8d711]... ; and
+  but heat or power produced by a combined heat and power system is not renewable unless that system uses only sources of energy described in sub-paragraphs (a) to (h) [^c-2d2fa428c07e1652c89f57bd8ab8d711]... ; and
 - “valuation roll” means the roll made up under section 1 of the 1975 Act[^f00005].
 
-## 3. Amount payable as rates – lands and heritages used for renewable energy generation[^key-fa84f5a8b43b3c9cbd099e0fe3b2c7a8]
+## 3. Amount payable as rates – lands and heritages used for renewable energy generation[^c-fa84f5a8b43b3c9cbd099e0fe3b2c7a8]
 
 (1) This regulation grants relief to a person who is liable to pay rates levied under section 7B of the 1975 Act[^f00006] in respect of lands and heritages on a day where—
 
 - (a) that person uses the lands and heritages solely for the generation of renewable heat or power (or both);
-- (aa)[^key-4340a961f1b5b911a7a9028e22a661d3] the lands and heritages are used for a project falling within regulation 3A (whether that project is carried out wholly on those lands and heritages or partly on those, and partly on other, lands and heritages); and
-- (b) application for relief is made in accordance with regulation 4 on or after 1st April 2016[^key-e870497df55bbd93b67a19f0ad63e2c5].
+- (aa)[^c-4340a961f1b5b911a7a9028e22a661d3] the lands and heritages are used for a project falling within regulation 3A (whether that project is carried out wholly on those lands and heritages or partly on those, and partly on other, lands and heritages); and
+- (b) application for relief is made in accordance with regulation 4 on or after 1st April 2016[^c-e870497df55bbd93b67a19f0ad63e2c5].
 
-(2) [^key-73071af0287926f0306b961ea60084f1]... The relief granted by paragraph (1) shall be a reduction of the rates payable, by the percentage specified in the right hand column of the table below which corresponds to the range specified in the left hand column of that table into which the rateable value of the lands and heritages falls.
+(2) [^c-73071af0287926f0306b961ea60084f1]... The relief granted by paragraph (1) shall be a reduction of the rates payable, by the percentage specified in the right hand column of the table below which corresponds to the range specified in the left hand column of that table into which the rateable value of the lands and heritages falls.
 
 | *Rateable Value* | *Percentage of rates relief* |
 | --- | --- |
@@ -90,20 +90,20 @@ In these Regulations:—
 | More than £860,000 but not exceeding £4,000,000 | 10% |
 | More than £4,000,000 | 2.5% |
 
-(3)[^key-fdfd872a90e393132a29cc97e40e5b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fdfd872a90e393132a29cc97e40e5b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-fdfd872a90e393132a29cc97e40e5b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fdfd872a90e393132a29cc97e40e5b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Projects referred to in regulation 3(1)[^key-27209f60d04470d1fb3158623efea63c]
+## 3A. Projects referred to in regulation 3(1)[^c-27209f60d04470d1fb3158623efea63c]
 
 (1) A project falls within this regulation if there are arrangements in place which give to a community organisation or community organisations, in return for investment in the project by that organisation or those organisations, entitlement to a sum equivalent to—
 
 - (a) at least 15% of the annual profit of the project; or
-- (b) so much of the annual profit of the project as is attributable to 0.5 of a[^key-8494186432c789541bf98256a4e18ede] megawatt of the total installed capacity of the project (or more).
+- (b) so much of the annual profit of the project as is attributable to 0.5 of a[^c-8494186432c789541bf98256a4e18ede] megawatt of the total installed capacity of the project (or more).
 
 (2) In paragraph (1), “community organisation” has the same meaning as in article 11 of the Feed-in Tariffs Order 2012[^f00003].
 
-## 3B. Amount payable as rates - lands and heritages used for generation of renewable energy from water[^key-63914536a0769ffc01412edbc8b659ac]
+## 3B. Amount payable as rates - lands and heritages used for generation of renewable energy from water[^c-63914536a0769ffc01412edbc8b659ac]
 
 (1) This regulation grants relief to a person who is liable to pay rates levied under section 7B of the 1975 Act in respect of lands and heritages where—
 
@@ -118,13 +118,13 @@ In these Regulations:—
 
 (2) The amount of relief calculated under regulation 3 or 3B is to be applied before the calculation of any other relief.
 
-(2A)[^key-41bd467f61ff3a11d4a758c5e3c7f0a3] No relief is granted by regulation 3B for any day after the financial year ending with 31 March 2032.
+(2A)[^c-41bd467f61ff3a11d4a758c5e3c7f0a3] No relief is granted by regulation 3B for any day after the financial year ending with 31 March 2032.
 
-(3)[^key-8aaaa7b16251da7c0cfd200bcd51a39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8aaaa7b16251da7c0cfd200bcd51a39e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d41da9332959ca6e8601c9ae9db75008] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d41da9332959ca6e8601c9ae9db75008] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications for relief[^key-fe815a697d764e2a09b0ad15786db834]
+## 4. Applications for relief[^c-fe815a697d764e2a09b0ad15786db834]
 
 (1) An application under these Regulations for relief shall be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer, and—
 
@@ -139,7 +139,7 @@ In these Regulations:—
 - (a) addressing it to the authority; and
 - (b) delivering it or sending it to the authority’s office by post or electronic communication.
 
-## 5. Exemptions and discretionary reductions and remissions[^key-fa067399aed13557c934c0f1c9568f3d]
+## 5. Exemptions and discretionary reductions and remissions[^c-fa067399aed13557c934c0f1c9568f3d]
 
 Nothing in these Regulations shall—
 
@@ -172,13 +172,13 @@ Regulation 5 allows for exemptions and discretionary reductions.
 
 [^f00001]: Footnote: [c.39](https://www.legislation.gov.uk/ukpga/1994/39); the functions of the Secretary of State were transferred to the Scottish Ministers by virtue of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), section 53.
 
-[^key-b0c7e34ba1a84ffacfd32bd6f46a41bb]: Modification: Regulations restricted (1.4.2021 with application in accordance with reg. 1(2) of the amending S.S.I.) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3)
+[^c-b0c7e34ba1a84ffacfd32bd6f46a41bb]: Modification: Regulations restricted (1.4.2021 with application in accordance with reg. 1(2) of the amending S.S.I.) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3)
 
-[^key-a39c4abc5fe0929668942efaf12843fd]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2023 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3)
+[^c-a39c4abc5fe0929668942efaf12843fd]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2023 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3)
 
-[^key-86bfed22ed2d3530ac2df8bbf311225d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
+[^c-86bfed22ed2d3530ac2df8bbf311225d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
 
-[^key-ae2bbf51e3a1b863e02ee2c0a38566c9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/44/regulation/2) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
+[^c-ae2bbf51e3a1b863e02ee2c0a38566c9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/44/regulation/2) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
 
 [^f00002]: Footnote: [c.30](https://www.legislation.gov.uk/ukpga/1975/30).
 
@@ -186,39 +186,39 @@ Regulation 5 allows for exemptions and discretionary reductions.
 
 [^f00004]: Footnote: [c.91](https://www.legislation.gov.uk/ukpga/1854/91); section 42 was relevantly amended by the [Local Government etc. (Scotland) Act 1994(c.39)](https://www.legislation.gov.uk/ukpga/1994/39) (“the 1994 Act”), section 152.
 
-[^key-2494a33c0a24e6f9f7833b62c60bdeaa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/44/regulation/2) substituted (1.4.2011) by [The Non-Domestic Rates (Levying) (Scotland) (No. 2) Regulations 2010 (S.S.I. 2010/440)](https://www.legislation.gov.uk/ssi/2010/440), [regs. 1](https://www.legislation.gov.uk/ssi/2010/440/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2010/440/regulation/5/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2010/440/regulation/6))
+[^c-2494a33c0a24e6f9f7833b62c60bdeaa]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/44/regulation/2) substituted (1.4.2011) by [The Non-Domestic Rates (Levying) (Scotland) (No. 2) Regulations 2010 (S.S.I. 2010/440)](https://www.legislation.gov.uk/ssi/2010/440), [regs. 1](https://www.legislation.gov.uk/ssi/2010/440/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2010/440/regulation/5/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2010/440/regulation/6))
 
-[^key-2d2fa428c07e1652c89f57bd8ab8d711]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/44/regulation/2) omitted (1.4.2011) by virtue of [The Non-Domestic Rates (Levying) (Scotland) (No. 2) Regulations 2010 (S.S.I. 2010/440)](https://www.legislation.gov.uk/ssi/2010/440), [regs. 1](https://www.legislation.gov.uk/ssi/2010/440/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2010/440/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/ssi/2010/440/regulation/6))
+[^c-2d2fa428c07e1652c89f57bd8ab8d711]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/44/regulation/2) omitted (1.4.2011) by virtue of [The Non-Domestic Rates (Levying) (Scotland) (No. 2) Regulations 2010 (S.S.I. 2010/440)](https://www.legislation.gov.uk/ssi/2010/440), [regs. 1](https://www.legislation.gov.uk/ssi/2010/440/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2010/440/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/ssi/2010/440/regulation/6))
 
 [^f00005]: Footnote: Section 1 was repealed in part by the 1994 Act, Schedule 14 and the Local Government and Rating Act [1997 (c.29)](https://www.legislation.gov.uk/ukpga/1997/29), Schedule 4.
 
-[^key-fa84f5a8b43b3c9cbd099e0fe3b2c7a8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/44/regulation/3) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
+[^c-fa84f5a8b43b3c9cbd099e0fe3b2c7a8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/44/regulation/3) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
 
 [^f00006]: Footnote: Section 7B was inserted by the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14), section 110(2), and amended by the 1994 Act, Schedule 13 paragraph 100(4).
 
-[^key-4340a961f1b5b911a7a9028e22a661d3]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/1/aa) inserted (1.4.2016) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/121)](https://www.legislation.gov.uk/ssi/2016/121), [regs. 1](https://www.legislation.gov.uk/ssi/2016/121/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2016/121/regulation/3/a/i)
+[^c-4340a961f1b5b911a7a9028e22a661d3]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/1/aa) inserted (1.4.2016) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/121)](https://www.legislation.gov.uk/ssi/2016/121), [regs. 1](https://www.legislation.gov.uk/ssi/2016/121/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2016/121/regulation/3/a/i)
 
-[^key-e870497df55bbd93b67a19f0ad63e2c5]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/1/b) inserted (1.4.2016) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/121)](https://www.legislation.gov.uk/ssi/2016/121), [regs. 1](https://www.legislation.gov.uk/ssi/2016/121/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2016/121/regulation/3/a/ii)
+[^c-e870497df55bbd93b67a19f0ad63e2c5]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/1/b) inserted (1.4.2016) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/121)](https://www.legislation.gov.uk/ssi/2016/121), [regs. 1](https://www.legislation.gov.uk/ssi/2016/121/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2016/121/regulation/3/a/ii)
 
-[^key-73071af0287926f0306b961ea60084f1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/2) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2020/391/regulation/3/a)
+[^c-73071af0287926f0306b961ea60084f1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/2) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2020/391/regulation/3/a)
 
-[^key-fdfd872a90e393132a29cc97e40e5b10]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/3)[(4)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/4) omitted (1.4.2016) by virtue of [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/121)](https://www.legislation.gov.uk/ssi/2016/121), [regs. 1](https://www.legislation.gov.uk/ssi/2016/121/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2016/121/regulation/3/c)
+[^c-fdfd872a90e393132a29cc97e40e5b10]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/3)[(4)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3/4) omitted (1.4.2016) by virtue of [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/121)](https://www.legislation.gov.uk/ssi/2016/121), [regs. 1](https://www.legislation.gov.uk/ssi/2016/121/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2016/121/regulation/3/c)
 
-[^key-27209f60d04470d1fb3158623efea63c]: Textual amendment: [Regs. 3A-3C](https://www.legislation.gov.uk/ssi/2010/44/regulation/3A) inserted (1.4.2016) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/121)](https://www.legislation.gov.uk/ssi/2016/121), [regs. 1](https://www.legislation.gov.uk/ssi/2016/121/regulation/1), [4](https://www.legislation.gov.uk/ssi/2016/121/regulation/4)
+[^c-27209f60d04470d1fb3158623efea63c]: Textual amendment: [Regs. 3A-3C](https://www.legislation.gov.uk/ssi/2010/44/regulation/3A) inserted (1.4.2016) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/121)](https://www.legislation.gov.uk/ssi/2016/121), [regs. 1](https://www.legislation.gov.uk/ssi/2016/121/regulation/1), [4](https://www.legislation.gov.uk/ssi/2016/121/regulation/4)
 
-[^key-8494186432c789541bf98256a4e18ede]: Textual amendment: Words in [reg. 3A(1)(b)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3A/1/b) substituted (1.4.2017) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/60)](https://www.legislation.gov.uk/ssi/2017/60), [regs. 1](https://www.legislation.gov.uk/ssi/2017/60/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/60/regulation/2/2)
+[^c-8494186432c789541bf98256a4e18ede]: Textual amendment: Words in [reg. 3A(1)(b)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3A/1/b) substituted (1.4.2017) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/60)](https://www.legislation.gov.uk/ssi/2017/60), [regs. 1](https://www.legislation.gov.uk/ssi/2017/60/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/60/regulation/2/2)
 
-[^key-63914536a0769ffc01412edbc8b659ac]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/ssi/2010/44/regulation/3B) substituted (1.4.2018) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/64)](https://www.legislation.gov.uk/ssi/2018/64), [regs. 1](https://www.legislation.gov.uk/ssi/2018/64/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/64/regulation/2/2)
+[^c-63914536a0769ffc01412edbc8b659ac]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/ssi/2010/44/regulation/3B) substituted (1.4.2018) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/64)](https://www.legislation.gov.uk/ssi/2018/64), [regs. 1](https://www.legislation.gov.uk/ssi/2018/64/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/64/regulation/2/2)
 
-[^key-41bd467f61ff3a11d4a758c5e3c7f0a3]: Textual amendment: [Reg. 3C(2A)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3C/2A) inserted (1.4.2021) by [The Non-Domestic Rates (District Heating Relief and Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/64)](https://www.legislation.gov.uk/ssi/2021/64), [regs. 1](https://www.legislation.gov.uk/ssi/2021/64/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/64/regulation/3/2)
+[^c-41bd467f61ff3a11d4a758c5e3c7f0a3]: Textual amendment: [Reg. 3C(2A)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3C/2A) inserted (1.4.2021) by [The Non-Domestic Rates (District Heating Relief and Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/64)](https://www.legislation.gov.uk/ssi/2021/64), [regs. 1](https://www.legislation.gov.uk/ssi/2021/64/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/64/regulation/3/2)
 
-[^key-8aaaa7b16251da7c0cfd200bcd51a39e]: Textual amendment: [Reg. 3C(3)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3C/3) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2020/391/regulation/3/b)
+[^c-8aaaa7b16251da7c0cfd200bcd51a39e]: Textual amendment: [Reg. 3C(3)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3C/3) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2020/391/regulation/3/b)
 
-[^key-d41da9332959ca6e8601c9ae9db75008]: Textual amendment: [Reg. 3C(4)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3C/4) revoked (1.4.2017) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/60)](https://www.legislation.gov.uk/ssi/2017/60), [regs. 1](https://www.legislation.gov.uk/ssi/2017/60/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2017/60/regulation/2/5)
+[^c-d41da9332959ca6e8601c9ae9db75008]: Textual amendment: [Reg. 3C(4)](https://www.legislation.gov.uk/ssi/2010/44/regulation/3C/4) revoked (1.4.2017) by [The Non-Domestic Rates (Renewable Energy Generation Relief) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/60)](https://www.legislation.gov.uk/ssi/2017/60), [regs. 1](https://www.legislation.gov.uk/ssi/2017/60/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2017/60/regulation/2/5)
 
-[^key-fe815a697d764e2a09b0ad15786db834]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/44/regulation/4) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
+[^c-fe815a697d764e2a09b0ad15786db834]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/44/regulation/4) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
 
-[^key-fa067399aed13557c934c0f1c9568f3d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/44/regulation/5) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
+[^c-fa067399aed13557c934c0f1c9568f3d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/44/regulation/5) in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/44/regulation/1)
 
 [^f00008]: Footnote: [c.9](https://www.legislation.gov.uk/ukpga/1962/9). Section 4 is relevantly amended by the 1994 Act, Schedule 13, paragraph 57, the Local Government and Rating Act [1997 (c.29)](https://www.legislation.gov.uk/ukpga/1997/29), Schedule 3, paragraph 2(a) and the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), section 98(3).
 

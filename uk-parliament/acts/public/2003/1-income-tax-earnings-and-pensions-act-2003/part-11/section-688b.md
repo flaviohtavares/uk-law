@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 688B. Travel expenses of workers providing services through intermediaries: recovery of unpaid tax[^key-50f90b60b44c7def81f80bcdbbccbec7]
+## 688B. Travel expenses of workers providing services through intermediaries: recovery of unpaid tax[^c-50f90b60b44c7def81f80bcdbbccbec7]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50f90b60b44c7def81f80bcdbbccbec7]: Textual amendment: S. 688B inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/3)
+[^c-50f90b60b44c7def81f80bcdbbccbec7]: Textual amendment: S. 688B inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/3)

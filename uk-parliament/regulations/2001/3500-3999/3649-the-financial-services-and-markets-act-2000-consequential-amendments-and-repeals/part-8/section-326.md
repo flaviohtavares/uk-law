@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 326. Judicial pensions: transfer of accrued benefits[^key-67063124b1924c01f22b79b971693e29]
+## 326. Judicial pensions: transfer of accrued benefits[^c-67063124b1924c01f22b79b971693e29]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67063124b1924c01f22b79b971693e29]: Commencement: Art. 326 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-67063124b1924c01f22b79b971693e29]: Commencement: Art. 326 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00244]: Footnote: Schedule 1A is to be inserted in the Judicial Pensions Act [1981 (c. 20)](https://www.legislation.gov.uk/ukpga/1981/20), from a date not yet appointed on the date when this Order comes in to force.

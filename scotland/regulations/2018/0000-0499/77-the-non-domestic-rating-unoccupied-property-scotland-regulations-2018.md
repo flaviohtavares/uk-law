@@ -83,19 +83,19 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 - (a) all relevant lands and heritages, other than—
   - (i) industrial lands and heritages;
-  - (ii) except where paragraph (1B) applies,[^key-1932f08f6538bd8503df947f0f2051e0] lands and heritages to which any of the conditions specified in Parts 1 or 3 of the schedule applies;
-  - (iii)[^key-f19529154f91c30f35a65c722f54265d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) except where paragraph (1B) applies,[^c-1932f08f6538bd8503df947f0f2051e0] lands and heritages to which any of the conditions specified in Parts 1 or 3 of the schedule applies;
+  - (iii)[^c-f19529154f91c30f35a65c722f54265d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) lands and heritages that are by virtue of regulation 4 to be treated as unoccupied for the purposes of section 24 of the 1966 Act.
 - (b) all relevant lands and heritages which—
   - (i) are industrial lands and heritages;
   - (ii) have been unoccupied for a continuous period of more than 6 months; and
   - (iii) are not—
     - (aa) lands and heritages to which any of the conditions specified in Parts 1 or 3 of the schedule applies;
-    - (bb)[^key-d505e32f9df5a99d3c607dbdfaa6659f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb)[^c-d505e32f9df5a99d3c607dbdfaa6659f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (cc) lands and heritages that are by virtue of regulation 4 to be treated as unoccupied for the purposes of section 24 of the 1966 Act; and
 - (c) all lands and heritages that are by virtue of regulation 4(b) to be treated as unoccupied for the purposes of section 24 of the 1966 Act.
 
-(1A)[^key-de2fc1bfef449ad5e80b984b2797c893] Paragraph (1B) applies only to lands and heritages which are let under a lease agreement and which subsequently—
+(1A)[^c-de2fc1bfef449ad5e80b984b2797c893] Paragraph (1B) applies only to lands and heritages which are let under a lease agreement and which subsequently—
 
 - (a) become unoccupied within the period of 6 months beginning with the date on which the lands and heritages first became occupied under that lease, and
 - (b) become unoccupied on or after 1 April 2022.
@@ -112,9 +112,9 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 - (a) they are to be regarded as having been occupied in any period during which—
   - (i) any of the conditions in Parts 1 or 3 of the schedule applied to them; or
-  - (ii)[^key-4af46619c14d49480e7d56a606760fa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-4af46619c14d49480e7d56a606760fa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) they are to be regarded as having been unoccupied during any period of occupation—
-  - (i) that ends within 6 months[^key-adf0c5904cfc0ef366e37f7ebf287524] of beginning; or
+  - (i) that ends within 6 months[^c-adf0c5904cfc0ef366e37f7ebf287524] of beginning; or
   - (ii) in which they were by virtue of regulation 4 of these Regulations or regulation 4 of the 1994 Regulations treated as unoccupied.
 
 (3) 90% is the percentage prescribed under section 24(3) of the 1966 Act in relation to lands and heritages—
@@ -128,13 +128,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 - (a) all relevant lands and heritages, other than—
   - (i) industrial lands and heritages; or
-  - (ii) except where paragraph (1B) applies,[^key-e2c23bd5656d21c45d8ad66baa7b0de9] lands and heritages to which any of the conditions specified in Parts 1 or 4 of the schedule applies; and
+  - (ii) except where paragraph (1B) applies,[^c-e2c23bd5656d21c45d8ad66baa7b0de9] lands and heritages to which any of the conditions specified in Parts 1 or 4 of the schedule applies; and
 - (b) all relevant lands and heritages—
   - (i) which are industrial lands and heritages;
   - (ii) part of which has been unoccupied for a continuous period of more than 6 months; and
   - (iii) which are not lands and heritages to which any of the conditions specified in Parts 1 or 4 of the schedule applies.
 
-(1A)[^key-ffc0da516fe8a6b9b6cf1afa0582d094] Paragraph (1B) applies only to lands and heritages which are let under a lease agreement and which subsequently—
+(1A)[^c-ffc0da516fe8a6b9b6cf1afa0582d094] Paragraph (1B) applies only to lands and heritages which are let under a lease agreement and which subsequently—
 
 - (a) become unoccupied within the period of 6 months beginning with the date on which the lands and heritages first became occupied under that lease, and
 - (b) become unoccupied on or after 1 April 2022.
@@ -147,7 +147,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (1C) Paragraphs (1A) and (1B) do not prevent a rating authority making, and are without prejudice to the application of, any scheme under section 3A of the Local Government (Financial Provisions etc.) (Scotland) Act 1962 (schemes for reduction and remission of rates) which provides for the rates leviable in respect of the lands and heritages to be reduced or remitted by virtue of the lands and heritages being unoccupied.
 
-(2) Where the part of the lands and heritages prescribed by virtue of paragraph (1) which has been unoccupied becomes occupied on any day and becomes unoccupied again on the expiration of a period of less than 6 months[^key-5668dfa952a7a456b0328de467a9abda] beginning with that day, then for the purposes of paragraphs (1)(b)(ii) and (3)(a) that part shall be treated as having been unoccupied on that day and throughout that period.
+(2) Where the part of the lands and heritages prescribed by virtue of paragraph (1) which has been unoccupied becomes occupied on any day and becomes unoccupied again on the expiration of a period of less than 6 months[^c-5668dfa952a7a456b0328de467a9abda] beginning with that day, then for the purposes of paragraphs (1)(b)(ii) and (3)(a) that part shall be treated as having been unoccupied on that day and throughout that period.
 
 (3) 90% is the percentage prescribed under section 24A(4)(b)(ii) of the 1966 Act in relation to lands and heritages—
 
@@ -160,7 +160,7 @@ The classes of lands and heritages prescribed under section 24B(3) are—
 
 - (a) all lands and heritages which have been continuously occupied since a date on or after 1 April 2018 in respect of which the following conditions are met—
   - (i) for a continuous period of 6 months immediately prior to being occupied the lands and heritages were unoccupied and the person or persons entitled to possession of the lands and heritages during that period were in receipt of relief under section 24 of the 1966 Act;
-  - (ii) the rateable value of the lands and heritages is no greater than £95,000,[^key-46a3819588c920142bf5819ae414e91c]
+  - (ii) the rateable value of the lands and heritages is no greater than £95,000,[^c-46a3819588c920142bf5819ae414e91c]
   - (iii) no longer than 12 months have elapsed since the lands and heritages became occupied;
   - (iv) the lands and heritages are not used for payday lending; and
   - (v) the person entitled to possession of the lands and heritages has submitted an application to the rating authority in whose roll the entry for the lands and heritages appear, requesting that they are treated as unoccupied, along with such information as is necessary for that authority to establish that the conditions in this paragraph are met.
@@ -169,7 +169,7 @@ The classes of lands and heritages prescribed under section 24B(3) are—
   - (ii) either—
     - (aa) when last previously occupied, the lands and heritages were in use as office premises or in use as shop premises or were used as a restaurant, public house or hotel; or
     - (bb) where the lands and heritages have never previously been occupied, they are in use as office premises or in use as shop premises or are being used as a restaurant, public house or hotel;
-  - (iii) the rateable value of the lands and heritages is no greater than £95,000,[^key-40201fceb9afcd66127567039289175c]
+  - (iii) the rateable value of the lands and heritages is no greater than £95,000,[^c-40201fceb9afcd66127567039289175c]
   - (iv) no other reduction is being made to the liability of the person entitled to possession of the lands and heritages to pay rates;
   - (v) no longer than 12 months have elapsed since the lands and heritages became occupied;
   - (vi) the lands and heritages are not used for payday lending; and
@@ -179,7 +179,7 @@ The classes of lands and heritages prescribed under section 24B(3) are—
 
 (1) The 1994 Regulations [^c22966961] are revoked.
 
-(2) Despite their revocation the 1994 Regulations continue to have effect for the purpose of regulation 2(2)(b)(ii) [^key-1fc95390bab54c4adb9d17c22114bb4e]... of these Regulations.
+(2) Despite their revocation the 1994 Regulations continue to have effect for the purpose of regulation 2(2)(b)(ii) [^c-1fc95390bab54c4adb9d17c22114bb4e]... of these Regulations.
 
 DEREK MACKAY
 
@@ -212,11 +212,11 @@ The conditions specified in this Part are that—
   - (i) remains subject to an administration order made under Part II of the 1986 Act; or
   - (ii) is in administration within the meaning of paragraph 1 of schedule B1 of that Act.
 
-### PART 2[^key-361088ba885edd0ab54a122577bcd8e3]
+### PART 2[^c-361088ba885edd0ab54a122577bcd8e3]
 
 **No longer in force.**
 
-[^key-361088ba885edd0ab54a122577bcd8e3]
+[^c-361088ba885edd0ab54a122577bcd8e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -267,34 +267,34 @@ Regulation 4(a) creates a new Fresh Start relief for all properties that were un
 
 [^c22966951]: Marginal citation: [Section 1](https://www.legislation.gov.uk/ssi/2018/77/section/1) was amended by section 34 and schedule 6 of the [Abolition of Domestic Rates etc. (Scotland) Act 1987 (c.47)](https://www.legislation.gov.uk/ukpga/1987/47), [paragraph 1](https://www.legislation.gov.uk/ukpga/1987/47/paragraph/1) of schedule 14 of the Local Government etc. (Scotland) Act 1994 and paragraph 1 of schedule 4 of the [Local Government and Rating Act 1997 (c.29)](https://www.legislation.gov.uk/ukpga/1997/29).
 
-[^key-1932f08f6538bd8503df947f0f2051e0]: Textual amendment: Words in [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/1/a/ii) inserted (1.4.2022) by [The Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/51)](https://www.legislation.gov.uk/ssi/2022/51), [regs. 1](https://www.legislation.gov.uk/ssi/2022/51/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/51/regulation/2/2/a)
+[^c-1932f08f6538bd8503df947f0f2051e0]: Textual amendment: Words in [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/1/a/ii) inserted (1.4.2022) by [The Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/51)](https://www.legislation.gov.uk/ssi/2022/51), [regs. 1](https://www.legislation.gov.uk/ssi/2022/51/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/51/regulation/2/2/a)
 
-[^key-f19529154f91c30f35a65c722f54265d]: Textual amendment: [Reg. 2(1)(a)(iii)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/1/a/iii) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/2/a)
+[^c-f19529154f91c30f35a65c722f54265d]: Textual amendment: [Reg. 2(1)(a)(iii)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/1/a/iii) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/2/a)
 
-[^key-d505e32f9df5a99d3c607dbdfaa6659f]: Textual amendment: [Reg. 2(1)(b)(iii)(bb)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/1/b/iii/bb) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/2/a)
+[^c-d505e32f9df5a99d3c607dbdfaa6659f]: Textual amendment: [Reg. 2(1)(b)(iii)(bb)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/1/b/iii/bb) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/2/a)
 
-[^key-de2fc1bfef449ad5e80b984b2797c893]: Textual amendment: [Reg. 2(1A)-(1C)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/1A) inserted (1.4.2022) by [The Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/51)](https://www.legislation.gov.uk/ssi/2022/51), [regs. 1](https://www.legislation.gov.uk/ssi/2022/51/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/51/regulation/2/2/b)
+[^c-de2fc1bfef449ad5e80b984b2797c893]: Textual amendment: [Reg. 2(1A)-(1C)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/1A) inserted (1.4.2022) by [The Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/51)](https://www.legislation.gov.uk/ssi/2022/51), [regs. 1](https://www.legislation.gov.uk/ssi/2022/51/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/51/regulation/2/2/b)
 
-[^key-4af46619c14d49480e7d56a606760fa5]: Textual amendment: [Reg. 2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/2/a/ii) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/2/b)
+[^c-4af46619c14d49480e7d56a606760fa5]: Textual amendment: [Reg. 2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/2/a/ii) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/2/b)
 
-[^key-adf0c5904cfc0ef366e37f7ebf287524]: Textual amendment: Words in [reg. 2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/2/b/i) substituted (1.4.2020) by [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/2/c)
+[^c-adf0c5904cfc0ef366e37f7ebf287524]: Textual amendment: Words in [reg. 2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2018/77/regulation/2/2/b/i) substituted (1.4.2020) by [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/2/c)
 
-[^key-e2c23bd5656d21c45d8ad66baa7b0de9]: Textual amendment: Words in [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/77/regulation/3/1/a/ii) inserted (1.4.2022) by [The Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/51)](https://www.legislation.gov.uk/ssi/2022/51), [regs. 1](https://www.legislation.gov.uk/ssi/2022/51/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2022/51/regulation/2/3/a)
+[^c-e2c23bd5656d21c45d8ad66baa7b0de9]: Textual amendment: Words in [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/77/regulation/3/1/a/ii) inserted (1.4.2022) by [The Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/51)](https://www.legislation.gov.uk/ssi/2022/51), [regs. 1](https://www.legislation.gov.uk/ssi/2022/51/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2022/51/regulation/2/3/a)
 
-[^key-ffc0da516fe8a6b9b6cf1afa0582d094]: Textual amendment: [Reg. 3(1A)-(1C)](https://www.legislation.gov.uk/ssi/2018/77/regulation/3/1A) inserted (1.4.2022) by [The Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/51)](https://www.legislation.gov.uk/ssi/2022/51), [regs. 1](https://www.legislation.gov.uk/ssi/2022/51/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2022/51/regulation/2/3/b)
+[^c-ffc0da516fe8a6b9b6cf1afa0582d094]: Textual amendment: [Reg. 3(1A)-(1C)](https://www.legislation.gov.uk/ssi/2018/77/regulation/3/1A) inserted (1.4.2022) by [The Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/51)](https://www.legislation.gov.uk/ssi/2022/51), [regs. 1](https://www.legislation.gov.uk/ssi/2022/51/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2022/51/regulation/2/3/b)
 
-[^key-5668dfa952a7a456b0328de467a9abda]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/77/regulation/3/2) substituted (1.4.2020) by [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/3)
+[^c-5668dfa952a7a456b0328de467a9abda]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/77/regulation/3/2) substituted (1.4.2020) by [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/3)
 
-[^key-46a3819588c920142bf5819ae414e91c]: Textual amendment: Sum in reg. 4(a)(ii) substituted (1.4.2021) by [The Non-Domestic Rates (Levying and Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/65)](https://www.legislation.gov.uk/ssi/2021/65), [regs. 1](https://www.legislation.gov.uk/ssi/2021/65/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/ssi/2021/65/regulation/11/2/a)
+[^c-46a3819588c920142bf5819ae414e91c]: Textual amendment: Sum in reg. 4(a)(ii) substituted (1.4.2021) by [The Non-Domestic Rates (Levying and Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/65)](https://www.legislation.gov.uk/ssi/2021/65), [regs. 1](https://www.legislation.gov.uk/ssi/2021/65/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/ssi/2021/65/regulation/11/2/a)
 
-[^key-40201fceb9afcd66127567039289175c]: Textual amendment: Sum in reg. 4(b)(iii) substituted (1.4.2021) by [The Non-Domestic Rates (Levying and Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/65)](https://www.legislation.gov.uk/ssi/2021/65), [regs. 1](https://www.legislation.gov.uk/ssi/2021/65/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/ssi/2021/65/regulation/11/2/b)
+[^c-40201fceb9afcd66127567039289175c]: Textual amendment: Sum in reg. 4(b)(iii) substituted (1.4.2021) by [The Non-Domestic Rates (Levying and Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/65)](https://www.legislation.gov.uk/ssi/2021/65), [regs. 1](https://www.legislation.gov.uk/ssi/2021/65/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/ssi/2021/65/regulation/11/2/b)
 
 [^c22966961]: Marginal citation: [S.I. 1994/3200](https://www.legislation.gov.uk/uksi/1994/3200).
 
-[^key-1fc95390bab54c4adb9d17c22114bb4e]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2018/77/regulation/5/2) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/4)
+[^c-1fc95390bab54c4adb9d17c22114bb4e]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2018/77/regulation/5/2) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/4)
 
 [^c22966971]: Marginal citation: Section 1 was amended by section 22(2) and paragraph 2 of schedule 3 of the [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19).
 
 [^c22966981]: Marginal citation: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46); section 1 was amended by paragraph 25 of schedule 4 of the [National Heritage Act 1983 (c.47)](https://www.legislation.gov.uk/ukpga/1983/47) and paragraph 2 of Part 2 of schedule 2 of the Historic Environment Scotland Act 2014.
 
-[^key-361088ba885edd0ab54a122577bcd8e3]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/77/schedule/part/2) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/5)
+[^c-361088ba885edd0ab54a122577bcd8e3]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/77/schedule/part/2) omitted (1.4.2020) by virtue of [Non-Domestic Rating (Unoccupied Property) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/43)](https://www.legislation.gov.uk/ssi/2020/43), [regs. 1](https://www.legislation.gov.uk/ssi/2020/43/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/43/regulation/2/5)

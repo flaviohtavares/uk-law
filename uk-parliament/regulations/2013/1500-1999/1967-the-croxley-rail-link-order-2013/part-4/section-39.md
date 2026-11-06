@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Disclosure of confidential information[^key-fdede79bfaa3b70eeabf2cb5e81ea046]
+## 39. Disclosure of confidential information[^c-fdede79bfaa3b70eeabf2cb5e81ea046]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-fdede79bfaa3b70eeabf2cb5e81ea046]: Commencement: Art. 39 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-fdede79bfaa3b70eeabf2cb5e81ea046]: Commencement: Art. 39 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

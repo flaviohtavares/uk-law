@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Consequential and supplementary amendments[^key-88905c3f0fcf168b190a7d7ab69b3e71]
+## 5. Consequential and supplementary amendments[^c-88905c3f0fcf168b190a7d7ab69b3e71]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 to these Regulations contains consequential and supplementary amendme
 
 ## Annotations
 
-[^key-88905c3f0fcf168b190a7d7ab69b3e71]: Commencement: Reg. 5 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
+[^c-88905c3f0fcf168b190a7d7ab69b3e71]: Commencement: Reg. 5 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)

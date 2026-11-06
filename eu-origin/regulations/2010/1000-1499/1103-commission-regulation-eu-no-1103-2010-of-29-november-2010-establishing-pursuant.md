@@ -33,7 +33,7 @@ establishing, pursuant to Directive 2006/66/EC of the European Parliament and of
 
 (Text with EEA relevance)
 
-[^key-098ed01db54c6982536bd201664eb8b4]
+[^c-098ed01db54c6982536bd201664eb8b4]
 
 THE EUROPEAN COMMISSION,
 
@@ -81,15 +81,15 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Scope and interpretation[^key-865aab70e63569c902b1daf16a4ac73e]
+## Article 1. Scope and interpretation[^c-865aab70e63569c902b1daf16a4ac73e]
 
-1. This Regulation shall apply to portable secondary (rechargeable) and automotive batteries and accumulators placed on the market for the first time 18 months after 30th November 2010[^key-30a3f4ea1c6f7aca5da43b81c7a8f9a6] .
+1. This Regulation shall apply to portable secondary (rechargeable) and automotive batteries and accumulators placed on the market for the first time 18 months after 30th November 2010[^c-30a3f4ea1c6f7aca5da43b81c7a8f9a6] .
 
-(1A) In paragraph 1, ‘placed on the market’ means supplied or made available, whether in return for payment or free of charge, to a third party within the[^key-23aca2e6fdc55597cbd56823e7e8ffa7] Great Britain[^key-ddf32fbca701d36d2b303d32cc5ca655] and includes import into the Great Britain.
+(1A) In paragraph 1, ‘placed on the market’ means supplied or made available, whether in return for payment or free of charge, to a third party within the[^c-23aca2e6fdc55597cbd56823e7e8ffa7] Great Britain[^c-ddf32fbca701d36d2b303d32cc5ca655] and includes import into the Great Britain.
 
 2. This Regulation shall not apply to portable secondary (rechargeable) batteries and accumulators as listed in Annex I.
 
-(3.) In this Regulation, “appliance” means any electrical or electronic equipment, as defined by Article 3(1)(a) of[^key-e0cd32878c903beab268c84f8b1bc7a3] [Directive 2012/19/EU](https://www.legislation.gov.uk/european/directive/2012/0019) of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE), which is fully or partly powered by batteries or accumulators or is capable of being so.
+(3.) In this Regulation, “appliance” means any electrical or electronic equipment, as defined by Article 3(1)(a) of[^c-e0cd32878c903beab268c84f8b1bc7a3] [Directive 2012/19/EU](https://www.legislation.gov.uk/european/directive/2012/0019) of the European Parliament and of the Council on waste electrical and electronic equipment (WEEE), which is fully or partly powered by batteries or accumulators or is capable of being so.
 
 ## Article 2. Determination of capacity
 
@@ -111,11 +111,11 @@ HAS ADOPTED THIS REGULATION:
 
 2. All automotive batteries and accumulators shall be marked with a label containing the information set out in Annex III, Part B. The minimum size of the label shall be determined according to the type of the battery and accumulator as specified in Annex IV, Part B.
 
-## Article 5. Entry into force[^key-bc1683b256fd098e3267908d26355455]
+## Article 5. Entry into force[^c-bc1683b256fd098e3267908d26355455]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d70135b80c9634047e0fcf88dbd557cb]...
+[^c-d70135b80c9634047e0fcf88dbd557cb]...
 
 Done at Brussels, 29 November 2010.
 
@@ -129,9 +129,9 @@ José Manuel Barroso
 
 (1)
 
-Portable secondary (rechargeable) batteries and accumulators incorporated or designed to be incorporated in appliances before being provided to end-users, and not intended to be removed pursuant to regulation 7 of the Batteries and Accumulators (Placing on the Market) Regulations 2008[^key-3ad35d70251227b4a14ff331ff480987] or Article 11 of[^key-60b381a7d5e1f5f60ba7da4373b183ba] [Regulation (EU) 2023/1542](https://www.legislation.gov.uk/european/regulation/2023/1542) are exempt from the scope of application of this Regulation.
+Portable secondary (rechargeable) batteries and accumulators incorporated or designed to be incorporated in appliances before being provided to end-users, and not intended to be removed pursuant to regulation 7 of the Batteries and Accumulators (Placing on the Market) Regulations 2008[^c-3ad35d70251227b4a14ff331ff480987] or Article 11 of[^c-60b381a7d5e1f5f60ba7da4373b183ba] [Regulation (EU) 2023/1542](https://www.legislation.gov.uk/european/regulation/2023/1542) are exempt from the scope of application of this Regulation.
 
-(2)[^key-ccb52a20e2da9a633431f941765e3bb5]
+(2)[^c-ccb52a20e2da9a633431f941765e3bb5]
 
 In point (1), “**Regulation (EU) 2023/1542**” means [Regulation (EU) 2023/1542](https://www.legislation.gov.uk/european/regulation/2023/1542) of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) and [Regulation (EU) 2019/1020](https://www.legislation.gov.uk/european/regulation/2019/1020) and repealing [Directive 2006/66/EC](https://www.legislation.gov.uk/european/directive/2006/0066).
 
@@ -211,30 +211,30 @@ The capacity labels of automotive batteries and accumulators shall comply with t
 
 ## Annotations
 
-[^key-098ed01db54c6982536bd201664eb8b4]: Modification: Regulation: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/13/1)[(2)](https://www.legislation.gov.uk/uksi/2022/190/regulation/13/2)
+[^c-098ed01db54c6982536bd201664eb8b4]: Modification: Regulation: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/13/1)[(2)](https://www.legislation.gov.uk/uksi/2022/190/regulation/13/2)
 
 [^f00001]: Footnote: [OJ L 266, 26.9.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.266.01.0001.01.ENG).
 
 [^f00002]: Footnote: [OJ L 114, 27.4.2006, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.114.01.0009.01.ENG).
 
-[^key-865aab70e63569c902b1daf16a4ac73e]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2010/1103/article/1) heading substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(2)(za)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/2/za) (as inserted by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/4/a/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-865aab70e63569c902b1daf16a4ac73e]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2010/1103/article/1) heading substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(2)(za)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/2/za) (as inserted by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/4/a/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-30a3f4ea1c6f7aca5da43b81c7a8f9a6]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2010/1103/article/1/1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30a3f4ea1c6f7aca5da43b81c7a8f9a6]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2010/1103/article/1/1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-23aca2e6fdc55597cbd56823e7e8ffa7]: Textual amendment: [Art. 1(1A)](https://www.legislation.gov.uk/eur/2010/1103/article/1/1A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 14(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/4/a/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23aca2e6fdc55597cbd56823e7e8ffa7]: Textual amendment: [Art. 1(1A)](https://www.legislation.gov.uk/eur/2010/1103/article/1/1A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 14(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/4/a/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ddf32fbca701d36d2b303d32cc5ca655]: Annotation text not found in the source document.
+[^c-ddf32fbca701d36d2b303d32cc5ca655]: Annotation text not found in the source document.
 
-[^key-e0cd32878c903beab268c84f8b1bc7a3]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eur/2010/1103/article/1/3) inserted by y [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(2)(c)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/2/c) (as inserted by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/4/a/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0cd32878c903beab268c84f8b1bc7a3]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eur/2010/1103/article/1/3) inserted by y [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(2)(c)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/2/c) (as inserted by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/4/a/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc1683b256fd098e3267908d26355455]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2010/1103/article/5) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc1683b256fd098e3267908d26355455]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2010/1103/article/5) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(3)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d70135b80c9634047e0fcf88dbd557cb]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/1103/signature) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d70135b80c9634047e0fcf88dbd557cb]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/1103/signature) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(4)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ad35d70251227b4a14ff331ff480987]: Textual amendment: Words in Annex 1 point (1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(5)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/5) (as substituted by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(4)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ad35d70251227b4a14ff331ff480987]: Textual amendment: Words in Annex 1 point (1) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [8(5)](https://www.legislation.gov.uk/uksi/2019/620/regulation/8/5) (as substituted by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(4)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-60b381a7d5e1f5f60ba7da4373b183ba]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2010/1103/annex/I) point (1) inserted (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [23(2)(a)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/23/2/a)
+[^c-60b381a7d5e1f5f60ba7da4373b183ba]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2010/1103/annex/I) point (1) inserted (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [23(2)(a)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/23/2/a)
 
-[^key-ccb52a20e2da9a633431f941765e3bb5]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2010/1103/annex/I) point (2) inserted (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [23(2)(b)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/23/2/b)
+[^c-ccb52a20e2da9a633431f941765e3bb5]: Textual amendment: [Annex 1](https://www.legislation.gov.uk/eur/2010/1103/annex/I) point (2) inserted (17.10.2026) by [The Batteries (Placing on the Market) (Northern Ireland) Regulations 2026 (S.I. 2026/1053)](https://www.legislation.gov.uk/uksi/2026/1053), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/1/2), [23(2)(b)](https://www.legislation.gov.uk/uksi/2026/1053/regulation/23/2/b)
 
 [^f00003]: Footnote: Height (H); Length (L).

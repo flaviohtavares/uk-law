@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-The registrar may release any document retained under rule 203(1) [^key-9b7824c4152728fdee3d596ac03ffa41]... upon such terms, if any, for its return as he considers appropriate.
+The registrar may release any document retained under rule 203(1) [^c-9b7824c4152728fdee3d596ac03ffa41]... upon such terms, if any, for its return as he considers appropriate.
 
 ## Annotations
 
-[^key-9b7824c4152728fdee3d596ac03ffa41]: Textual amendment: Words in [rule 205](https://www.legislation.gov.uk/uksi/2003/1417/rule/205) omitted (6.4.2018) by virtue of [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/32)
+[^c-9b7824c4152728fdee3d596ac03ffa41]: Textual amendment: Words in [rule 205](https://www.legislation.gov.uk/uksi/2003/1417/rule/205) omitted (6.4.2018) by virtue of [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/32)

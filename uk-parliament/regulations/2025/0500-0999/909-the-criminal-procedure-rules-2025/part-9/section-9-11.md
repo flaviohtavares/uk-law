@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.11. Adult defendant: allocation for magistrates’ court trial[^key-f653c4afff23e291bb25159f0988afe3]
+## 9.11. Adult defendant: allocation for magistrates’ court trial[^c-f653c4afff23e291bb25159f0988afe3]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f653c4afff23e291bb25159f0988afe3]: Commencement: [Rule 9.11](https://www.legislation.gov.uk/uksi/2025/909/rule/9.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f653c4afff23e291bb25159f0988afe3]: Commencement: [Rule 9.11](https://www.legislation.gov.uk/uksi/2025/909/rule/9.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00280]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 20 was amended by section 100 of, and paragraph 25 of Schedule 11 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), paragraph 63 of Schedule 9 to the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) and paragraphs 1 and 6 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

@@ -45,7 +45,7 @@ In accordance with section 58(2) of the 1972 Act, more than 6 weeks have elapsed
 
 The Welsh Ministers make the following Order in exercise of their powers conferred on the Secretary of State by section 58(2) of the 1972 Act, and now vested in them, so far as exercisable in relation to Wales.
 
-## 1. Title and commencement[^key-e788df93e442617f69bebd79fb4e8980][^key-eb7d8abf999fd0e158744e261bd4d5c2]
+## 1. Title and commencement[^c-e788df93e442617f69bebd79fb4e8980][^c-eb7d8abf999fd0e158744e261bd4d5c2]
 
 (1) The title of this Order is the Monmouthshire (Communities) Order 2022.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Order in exercise of their powers conferr
 
 (3) For all other purposes, this Order comes into force immediately after 23.59 hours on the day before the ordinary day of election of councillors in 2022[^f00004].
 
-## 2. Interpretation[^key-a95cd949fe5a5978aa52f99f77fc826d][^key-7c2f65d714a7c815781e33fcb301f1f6]
+## 2. Interpretation[^c-a95cd949fe5a5978aa52f99f77fc826d][^c-7c2f65d714a7c815781e33fcb301f1f6]
 
 (1) In this Order—
 
@@ -63,9 +63,9 @@ The Welsh Ministers make the following Order in exercise of their powers conferr
 
   where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-(2) The provisions in this Order take precedence over any conflicting provision in any previous order made under section 58(2) of the Local Government Act 1972 or order made under section 38(1) or 39(1) of the Democracy and Boundary Commission Cymru etc. Act 2013[^key-7b6f697daab9d26ea807bb5435c950fd][^f00006].
+(2) The provisions in this Order take precedence over any conflicting provision in any previous order made under section 58(2) of the Local Government Act 1972 or order made under section 38(1) or 39(1) of the Democracy and Boundary Commission Cymru etc. Act 2013[^c-7b6f697daab9d26ea807bb5435c950fd][^f00006].
 
-## 3. Community of Caldicot — changes in community ward boundaries and consequential changes to electoral wards[^key-796eba437402cbd28f30bd0d662be82d][^key-1e1f6619e4a394dc8fb85a59b0bbcf11]
+## 3. Community of Caldicot — changes in community ward boundaries and consequential changes to electoral wards[^c-796eba437402cbd28f30bd0d662be82d][^c-1e1f6619e4a394dc8fb85a59b0bbcf11]
 
 The area shown hatched on the map—
 
@@ -100,22 +100,22 @@ Prints of the map to which this Order relates are deposited in the office of the
 
 [^f00003]: Footnote: The powers of the Secretary of State were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and are now vested in the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-e788df93e442617f69bebd79fb4e8980]: Commencement: Art. 1 in force at 15.3.2022 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/279/article/1/2)
+[^c-e788df93e442617f69bebd79fb4e8980]: Commencement: Art. 1 in force at 15.3.2022 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/279/article/1/2)
 
-[^key-eb7d8abf999fd0e158744e261bd4d5c2]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2022/279/article/1) in force at 4.5.2022 immediately after 23.59, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2022/279/article/1/3)
+[^c-eb7d8abf999fd0e158744e261bd4d5c2]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2022/279/article/1) in force at 4.5.2022 immediately after 23.59, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2022/279/article/1/3)
 
 [^f00004]: Footnote: The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 ([S.I. 2019/1269 (W. 220)](https://www.legislation.gov.uk/wsi/2019/1269)) amends section 26(1) of the 1972 Act to provide that the year in which the ordinary elections of councillors of local authorities shall take place is 2022 instead of 2021.
 
-[^key-a95cd949fe5a5978aa52f99f77fc826d]: Commencement: Art. 2 in force at 15.3.2022 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/279/article/1/2)
+[^c-a95cd949fe5a5978aa52f99f77fc826d]: Commencement: Art. 2 in force at 15.3.2022 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/279/article/1/2)
 
-[^key-7c2f65d714a7c815781e33fcb301f1f6]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2022/279/article/2) in force at 4.5.2022 immediately after 23.59, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2022/279/article/1/3)
+[^c-7c2f65d714a7c815781e33fcb301f1f6]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2022/279/article/2) in force at 4.5.2022 immediately after 23.59, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2022/279/article/1/3)
 
 [^f00005]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246), to which there are amendments not relevant to this Order.
 
-[^key-7b6f697daab9d26ea807bb5435c950fd]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/wsi/2022/279/article/2/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 32](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/32)
+[^c-7b6f697daab9d26ea807bb5435c950fd]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/wsi/2022/279/article/2/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 32](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/32)
 
 [^f00006]: Footnote: [2013 anaw 4](https://www.legislation.gov.uk/anaw/2013/4).
 
-[^key-796eba437402cbd28f30bd0d662be82d]: Commencement: Art. 3 in force at 15.3.2022 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/279/article/1/2)
+[^c-796eba437402cbd28f30bd0d662be82d]: Commencement: Art. 3 in force at 15.3.2022 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/279/article/1/2)
 
-[^key-1e1f6619e4a394dc8fb85a59b0bbcf11]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2022/279/article/3) in force at 4.5.2022 immediately after 23.59, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2022/279/article/1/3)
+[^c-1e1f6619e4a394dc8fb85a59b0bbcf11]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2022/279/article/3) in force at 4.5.2022 immediately after 23.59, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2022/279/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.5. Record of examination[^key-4fd04b27e186655c97d4099f3ed40c67]
+## 9.5. Record of examination[^c-4fd04b27e186655c97d4099f3ed40c67]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fd04b27e186655c97d4099f3ed40c67]: Commencement: [Rule 9.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/9.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4fd04b27e186655c97d4099f3ed40c67]: Commencement: [Rule 9.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/9.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

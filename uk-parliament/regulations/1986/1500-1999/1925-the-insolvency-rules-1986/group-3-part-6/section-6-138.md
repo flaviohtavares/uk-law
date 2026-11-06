@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.138. Fixing of remuneration[^key-74cbc2e90bec1b739efeeb0e1ba7dab1]
+## 6.138. Fixing of remuneration[^c-74cbc2e90bec1b739efeeb0e1ba7dab1]
 
 *Extent: E+W*
 
@@ -38,10 +38,10 @@ summary: ''
 
 (5) If there is no creditors' committee, or the committee does not make the requisite determination, the trustee's remuneration may be fixed (in accordance with paragraph (2)) by a resolution of a meeting of creditors; and paragraph (4) applies to them as it does to the creditors' committee.
 
-(6)[^key-fbb7d007e14f2787e4a9513e0526e9e1] Where the trustee is not the official receiver and his remuneration is not fixed as above, the trustee shall be entitled to remuneration calculated in accordance with Rule 6.138A.
+(6)[^c-fbb7d007e14f2787e4a9513e0526e9e1] Where the trustee is not the official receiver and his remuneration is not fixed as above, the trustee shall be entitled to remuneration calculated in accordance with Rule 6.138A.
 
 ## Annotations
 
-[^key-74cbc2e90bec1b739efeeb0e1ba7dab1]: Commencement: [Rule 6.138](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.138) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-74cbc2e90bec1b739efeeb0e1ba7dab1]: Commencement: [Rule 6.138](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.138) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-fbb7d007e14f2787e4a9513e0526e9e1]: Textual amendment: [Rule 6.138(6)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.138/6) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [33](https://www.legislation.gov.uk/uksi/2004/584/article/33) (with [rule 3](https://www.legislation.gov.uk/uksi/2004/584/article/3))
+[^c-fbb7d007e14f2787e4a9513e0526e9e1]: Textual amendment: [Rule 6.138(6)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.138/6) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [33](https://www.legislation.gov.uk/uksi/2004/584/article/33) (with [rule 3](https://www.legislation.gov.uk/uksi/2004/584/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 155. First excepted case[^key-0ee982fc7769e680c91a77278b5bcc79]
+## 155. First excepted case[^c-0ee982fc7769e680c91a77278b5bcc79]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ee982fc7769e680c91a77278b5bcc79]: Commencement: Rule 155 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0ee982fc7769e680c91a77278b5bcc79]: Commencement: Rule 155 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

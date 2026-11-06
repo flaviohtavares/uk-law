@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Recovery[^key-bd81582233fe5d3cd8b0ce24ddbcce86]
+## 32. Recovery[^c-bd81582233fe5d3cd8b0ce24ddbcce86]
 
 *Extent: E+W+S+N.I.*
 
-(1) In respect of any WEEE for which it is responsible under these Regulations, an operator of a scheme must[^key-7d8551b54a44ca7348fb03372ad15254] ensure—
+(1) In respect of any WEEE for which it is responsible under these Regulations, an operator of a scheme must[^c-7d8551b54a44ca7348fb03372ad15254] ensure—
 
 - (a) that systems are set up to provide for the recovery of such WEEE; and
 - (b) that such WEEE is—
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd81582233fe5d3cd8b0ce24ddbcce86]: Commencement: Reg. 32 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-bd81582233fe5d3cd8b0ce24ddbcce86]: Commencement: Reg. 32 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-7d8551b54a44ca7348fb03372ad15254]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/32/1) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
+[^c-7d8551b54a44ca7348fb03372ad15254]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/32/1) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)

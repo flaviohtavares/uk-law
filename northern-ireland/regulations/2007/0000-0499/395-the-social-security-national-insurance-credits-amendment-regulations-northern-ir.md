@@ -43,11 +43,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 Regulation 4 is made with the concurrence of the Commissioners for Her Majesty’s Revenue and Customs.
 
-## 1. Citation and commencement[^key-2a05f08fab7e22fcd8115a0ecb95c5f6]
+## 1. Citation and commencement[^c-2a05f08fab7e22fcd8115a0ecb95c5f6]
 
 (1) These Regulations may be cited as the Social Security (National Insurance Credits) (Amendment) Regulations (Northern Ireland) 2007 and shall come into operation on 1st October 2007.
 
-## 2. Amendment of the Social Security (Credits) Regulations[^key-67e1409fa8216c208af8bbbc9f01ee38]
+## 2. Amendment of the Social Security (Credits) Regulations[^c-67e1409fa8216c208af8bbbc9f01ee38]
 
 After regulation 8C of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00004], insert—
 
@@ -110,7 +110,7 @@ After regulation 8C of the Social Security (Credits) Regulations (Northern Irela
 
 .
 
-## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-36a5cefd08bf17875b786d2a5319b552]
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-36a5cefd08bf17875b786d2a5319b552]
 
 In regulation 3 of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00008] (revision of decisions)—
 
@@ -138,7 +138,7 @@ In regulation 3 of the Social Security and Child Support (Decisions and Appeals)
 
   .
 
-## 4. Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations[^key-627c324d7de4af726441dc75fa796643]
+## 4. Amendment of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations[^c-627c324d7de4af726441dc75fa796643]
 
 (1) The Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001[^f00009] are amended in accordance with paragraphs (2) to (4).
 
@@ -161,7 +161,7 @@ In regulation 3 of the Social Security and Child Support (Decisions and Appeals)
 
 (3) In regulation 4 (treatment for the purpose of any contributory benefit of late paid contributions)—
 
-- (a)[^key-8bd58cb64ab4886f9363defa02674216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8bd58cb64ab4886f9363defa02674216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after paragraph (1) insert—
 
   > (1A) Any relevant contribution which is paid—
@@ -233,9 +233,9 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-2a05f08fab7e22fcd8115a0ecb95c5f6]: Commencement: Reg. 1 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/395/regulation/1/1)
+[^c-2a05f08fab7e22fcd8115a0ecb95c5f6]: Commencement: Reg. 1 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/395/regulation/1/1)
 
-[^key-67e1409fa8216c208af8bbbc9f01ee38]: Commencement: Reg. 2 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/395/regulation/1/1)
+[^c-67e1409fa8216c208af8bbbc9f01ee38]: Commencement: Reg. 2 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/395/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulation 8C was inserted by regulation 3(7) of [S.R. 2001 No.108](https://www.legislation.gov.uk/nisr/2001/108)
 
@@ -245,14 +245,14 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00007]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 4(1) was amended by paragraph 4 of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)). Sub-paragraph (b) was modified by regulations 159 and 166 of [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198) as amended by regulation 13(9) and (10) of [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359)
 
-[^key-36a5cefd08bf17875b786d2a5319b552]: Commencement: Reg. 3 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/395/regulation/1/1)
+[^c-36a5cefd08bf17875b786d2a5319b552]: Commencement: Reg. 3 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/395/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); to which there are amendments not relevant to these Regulations
 
-[^key-627c324d7de4af726441dc75fa796643]: Commencement: Reg. 4 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/395/regulation/1/1)
+[^c-627c324d7de4af726441dc75fa796643]: Commencement: Reg. 4 in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/395/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2001 No. 102](https://www.legislation.gov.uk/nisr/2001/102); relevant amending Regulations are [S.R. 2004 No. 223](https://www.legislation.gov.uk/nisr/2004/223)
 
-[^key-8bd58cb64ab4886f9363defa02674216]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2007/395/regulation/4/3/a) revoked (6.4.2009) by [The Social Security (Additional Class 3 National Insurance Contributions) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/105)](https://www.legislation.gov.uk/nisr/2009/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/105/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2009/105/regulation/4)
+[^c-8bd58cb64ab4886f9363defa02674216]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/nisr/2007/395/regulation/4/3/a) revoked (6.4.2009) by [The Social Security (Additional Class 3 National Insurance Contributions) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/105)](https://www.legislation.gov.uk/nisr/2009/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/105/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2009/105/regulation/4)
 
 [^f00011]: Footnote: Regulation 6A was inserted by regulation 2(b) of [S.R. 2004 No. 223](https://www.legislation.gov.uk/nisr/2004/223)

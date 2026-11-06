@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Mutual credits and set-off[^key-2b65a4e65ba33ef6a66baae2d3a20530]
+## 72. Mutual credits and set-off[^c-2b65a4e65ba33ef6a66baae2d3a20530]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b65a4e65ba33ef6a66baae2d3a20530]: Commencement: Rule 72 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2b65a4e65ba33ef6a66baae2d3a20530]: Commencement: Rule 72 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

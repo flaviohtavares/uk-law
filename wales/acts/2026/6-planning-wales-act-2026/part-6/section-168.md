@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 168. Appeals relating to applications to modify or discharge planning obligations[^key-ccac0d9710ef5b0a31decb4fbfeeb91f]
+## 168. Appeals relating to applications to modify or discharge planning obligations[^c-ccac0d9710ef5b0a31decb4fbfeeb91f]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccac0d9710ef5b0a31decb4fbfeeb91f]: Commencement: S. 168 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ccac0d9710ef5b0a31decb4fbfeeb91f]: Commencement: S. 168 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

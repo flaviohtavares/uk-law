@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.6. Custody of case materials[^key-e6b9088254f2560d052f98470a482f19]
+## 5.6. Custody of case materials[^c-e6b9088254f2560d052f98470a482f19]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Unless the court otherwise directs, in respect of each case the court officer mu
 
 ## Annotations
 
-[^key-e6b9088254f2560d052f98470a482f19]: Commencement: [Rule 5.6](https://www.legislation.gov.uk/uksi/2025/909/rule/5.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e6b9088254f2560d052f98470a482f19]: Commencement: [Rule 5.6](https://www.legislation.gov.uk/uksi/2025/909/rule/5.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

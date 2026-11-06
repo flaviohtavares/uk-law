@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Negotiable instruments, etc.[^key-7682837e92901a62d541a7d2363d7f40]
+## 69. Negotiable instruments, etc.[^c-7682837e92901a62d541a7d2363d7f40]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.87 of the 1986 Rules.
 
 ## Annotations
 
-[^key-7682837e92901a62d541a7d2363d7f40]: Commencement: Rule 69 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-7682837e92901a62d541a7d2363d7f40]: Commencement: Rule 69 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

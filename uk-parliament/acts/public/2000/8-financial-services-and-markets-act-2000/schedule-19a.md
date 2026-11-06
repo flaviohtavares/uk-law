@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19A — The manager of a write-down order[^key-b29e958e9789e9aeddbcd68792500b81]
+## SCHEDULE 19A — The manager of a write-down order[^c-b29e958e9789e9aeddbcd68792500b81]
 
 *Extent: E+W+S+N.I.*
 
@@ -129,4 +129,4 @@ The manager may apply to the court for directions about the carrying out of the 
 
 ## Annotations
 
-[^key-b29e958e9789e9aeddbcd68792500b81]: Textual amendment: [Sch. 19A](https://www.legislation.gov.uk/ukpga/2000/8/schedule/19A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/2)
+[^c-b29e958e9789e9aeddbcd68792500b81]: Textual amendment: [Sch. 19A](https://www.legislation.gov.uk/ukpga/2000/8/schedule/19A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/2)

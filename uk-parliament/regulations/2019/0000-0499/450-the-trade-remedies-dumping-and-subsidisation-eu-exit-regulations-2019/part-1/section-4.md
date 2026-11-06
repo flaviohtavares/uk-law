@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Meaning of “negligible” in relation to dumped goods[^key-66ff1c2e1e2a52b7db7eff104a26c5f3]
+## 4. Meaning of “negligible” in relation to dumped goods[^c-66ff1c2e1e2a52b7db7eff104a26c5f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purpose of these Regulations, the volume of dumped goods is negligible w
 
 ## Annotations
 
-[^key-66ff1c2e1e2a52b7db7eff104a26c5f3]: Commencement: Reg. 4 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-66ff1c2e1e2a52b7db7eff104a26c5f3]: Commencement: Reg. 4 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Compensation for pigs killed and things seized[^key-866b866e7b6542802a5fdfd3813b0fd7]
+## 37. Compensation for pigs killed and things seized[^c-866b866e7b6542802a5fdfd3813b0fd7]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-866b866e7b6542802a5fdfd3813b0fd7]: Commencement: Reg. 37 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-866b866e7b6542802a5fdfd3813b0fd7]: Commencement: Reg. 37 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

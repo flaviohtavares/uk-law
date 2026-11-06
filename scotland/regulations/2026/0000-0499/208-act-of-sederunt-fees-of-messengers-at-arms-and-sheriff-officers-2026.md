@@ -54,7 +54,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 ## CHAPTER 1 — CITATION, APPLICATION AND INTERPRETATION ETC.
 
-### 1. Citation and commencement, etc.[^key-0059b58eb12480bef3c856e51f5627a4]
+### 1. Citation and commencement, etc.[^c-0059b58eb12480bef3c856e51f5627a4]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) 2026.
 
@@ -62,7 +62,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-### 2. Interpretation[^key-9713a197d8aa8dbbc6c449d3560b0610]
+### 2. Interpretation[^c-9713a197d8aa8dbbc6c449d3560b0610]
 
 In this Act of Sederunt—
 
@@ -72,7 +72,7 @@ In this Act of Sederunt—
 - “**the 2007 Act**” means the Bankruptcy and Diligence etc. (Scotland) Act 2007[^f00006];
 - “**apprehension**” means apprehending, detaining and taking to and from court or prison;
 - “**arranging**” means accepting instructions, checking for competency, reserving time, advising instructing agent, making all necessary arrangements, intimation and service (where necessary) prior to execution;
-- “**first class recorded delivery service[^key-163bcc604163fafa5187c5edbc1a72d6]**” means a postal service (within the meaning of section 27(1) of the Postal Services Act 2011[^f00007]) which seeks to deliver documents or other things by post no later than the next working day in all or the majority of cases and which provides for the delivery of the document or other thing by post to be recorded;
+- “**first class recorded delivery service[^c-163bcc604163fafa5187c5edbc1a72d6]**” means a postal service (within the meaning of section 27(1) of the Postal Services Act 2011[^f00007]) which seeks to deliver documents or other things by post no later than the next working day in all or the majority of cases and which provides for the delivery of the document or other thing by post to be recorded;
 - “**officer of court**” means a messenger-at-arms or a sheriff officer;
 - “**possession**” means searching, taking possession and delivery;
 - “**postal diligence**” means service of any diligence, which may be served by post, by registered post or a first class recorded delivery service;
@@ -86,11 +86,11 @@ In this Act of Sederunt—
 - “**the relevant court**” means the Court of Session, the Sheriff Appeal Court or the sheriff court;
 - “**unit**” has the meaning given by paragraph 4 (the unit).
 
-### 3. Fees of officers of court[^key-c399a64c50dde78b06a928b0758384d7]
+### 3. Fees of officers of court[^c-c399a64c50dde78b06a928b0758384d7]
 
 Chapter 2 (fees for work carried out by officers of court) and schedule 1 (table of charges for work carried out by officers of court) have effect in respect of work carried out by an officer of court in relation to causes or proceedings in, or work authorised by, the relevant court and the fees so calculated are the fees which are payable to that officer.
 
-### 4. The unit[^key-07c2bba992cdac531513a0904b71da88]
+### 4. The unit[^c-07c2bba992cdac531513a0904b71da88]
 
 (1) In this Act of Sederunt, references to a “unit” are to a measure of monetary charge with the relevant value.
 
@@ -100,13 +100,13 @@ Chapter 2 (fees for work carried out by officers of court) and schedule 1 (table
 - (b) from 1st April 2027, £6.22;
 - (c) from 1st April 2028, £6.35.
 
-### 5. Application and revocation[^key-d4f5bda688f5e50be3d816dd9ec4b756]
+### 5. Application and revocation[^c-d4f5bda688f5e50be3d816dd9ec4b756]
 
 (1) This Act of Sederunt applies to work carried out by an officer of court on or after the date on which this Act of Sederunt comes into force.
 
 (2) The Acts of Sederunt specified in schedule 2 (revocations) are revoked.
 
-### 6. Saving and transitional provision[^key-896c0bd08ab1e5ee2f625884fd42362f]
+### 6. Saving and transitional provision[^c-896c0bd08ab1e5ee2f625884fd42362f]
 
 (1) Notwithstanding paragraph 5(2) (revocations), this Act of Sederunt has no effect on the fees payable in respect of work carried out by an officer of court before 25th September 2026.
 
@@ -114,9 +114,9 @@ Chapter 2 (fees for work carried out by officers of court) and schedule 1 (table
 
 ## CHAPTER 2 — FEES FOR WORK CARRIED OUT BY OFFICERS OF COURT
 
-### 7. Calculation of fees[^key-afc28e235e61d4395e6b73ab904d5e47]
+### 7. Calculation of fees[^c-afc28e235e61d4395e6b73ab904d5e47]
 
-[^key-47aedb50dfbd4a8cdcac1e462fbf208b]... Unless otherwise provided for in this Act of Sederunt, the fees payable to an officer of court must be calculated in accordance with the Table of Charges and are payable in respect of—
+[^c-47aedb50dfbd4a8cdcac1e462fbf208b]... Unless otherwise provided for in this Act of Sederunt, the fees payable to an officer of court must be calculated in accordance with the Table of Charges and are payable in respect of—
 
 - (a) all forms of service or intimation of a document;
 - (b) citation of a person or execution of diligence;
@@ -125,7 +125,7 @@ Chapter 2 (fees for work carried out by officers of court) and schedule 1 (table
 
 executed by an officer of court during the normal business hours of 9.00 a.m. to 5.00 p.m.
 
-### 8. Reductions on fees[^key-18fe1b1a04347ad9adf682bcfcbccfb7]
+### 8. Reductions on fees[^c-18fe1b1a04347ad9adf682bcfcbccfb7]
 
 (1) In a case set out in sub-paragraph (2), the fee charged for any work carried out by a sheriff officer in respect of items 1(a) to 1(c), 2(a) and 2(b) in the Table of Charges must be reduced by 20%.
 
@@ -143,9 +143,9 @@ executed by an officer of court during the normal business hours of 9.00 a.m. to
 
 (4) Where personal service is required to be carried out by a sheriff officer for item 1(a)(i) in the Table of Charges and more than one visit is required, each additional visit must be charged at 50% of the relevant fee.
 
-### 9. Surcharges on fees[^key-488eceb83fd7032947a7c9398d8ebd2c]
+### 9. Surcharges on fees[^c-488eceb83fd7032947a7c9398d8ebd2c]
 
-(1) The fee which an officer of court[^key-cd663aa6feb83b5431368760670f8abe] can charge for—
+(1) The fee which an officer of court[^c-cd663aa6feb83b5431368760670f8abe] can charge for—
 
 - (a) the service or intimation of a document, citation of a person, or diligence which is necessary to execute outside of normal business hours must be surcharged by the levying of an additional charge of—
   - (i) 33% of the relevant fee, for any work which is carried out on a weekday between the hours of 5.00 p.m. and 10.00 p.m.;
@@ -164,7 +164,7 @@ executed by an officer of court during the normal business hours of 9.00 a.m. to
 - (a) a bank holiday in Scotland, as set out in paragraph 2 of schedule 1 of the Banking and Financial Dealings Act 1971[^f00012];
 - (b) any other day which is designated as a public holiday by a local authority for the local authority area in which the officer of court’s place of work is located.
 
-### 10. Additional fees[^key-6c37d14669c965d6c84085a679a97a4b]
+### 10. Additional fees[^c-6c37d14669c965d6c84085a679a97a4b]
 
 An additional fee may be negotiated between an officer of court and the instructing agent by prior agreement in the following circumstances—
 
@@ -172,11 +172,11 @@ An additional fee may be negotiated between an officer of court and the instruct
 - (b) where that officer has to instruct a huissier or other officer of court outside Scotland to serve a document;
 - (c) where there is no prescribed fee and the importance, urgency or value of the work involved necessitates an additional fee.
 
-### 11. Outlays[^key-e69d0afa8ccc19a17fb9ae718cc95adf]
+### 11. Outlays[^c-e69d0afa8ccc19a17fb9ae718cc95adf]
 
 All reasonable outlays, including postage, that were necessarily incurred by an officer of court in carrying out lawful instructions in respect of items 1(b) and (c) in the Table of Charges must be charged in addition to the relevant fee.
 
-### 12. Fee notes[^key-990c54ba7deb52c1ed84a52458105435]
+### 12. Fee notes[^c-990c54ba7deb52c1ed84a52458105435]
 
 (1) Every fee note rendered by an officer of court must set out in detail—
 
@@ -190,15 +190,15 @@ so that fee note may be easily checked against the fees which an officer of cour
 
 (2) The fee note must be reviewed by another officer of court to ensure that it is fair and reasonable in the circumstances and must be adjusted by that officer if necessary.
 
-### 13. Discounting[^key-48a5afb18ae9ab7cff688b51889fce06]
+### 13. Discounting[^c-48a5afb18ae9ab7cff688b51889fce06]
 
 Discounting of fees is permitted between officers of court only.
 
-### 14. Restrictions or modifications[^key-c31c2702f96bdb61885280d14035f257]
+### 14. Restrictions or modifications[^c-c31c2702f96bdb61885280d14035f257]
 
 Any restriction or modification made by an officer of court in respect of fees that are recoverable from a person must be passed on to that person only.
 
-### 15. Charging by time[^key-9dc1a05b872b4de6fe16305e8e79dce3]
+### 15. Charging by time[^c-9dc1a05b872b4de6fe16305e8e79dce3]
 
 (1) Work carried out by an officer of court that is to be charged on a time basis is to be calculated in intervals of 6 minutes.
 
@@ -206,26 +206,26 @@ Any restriction or modification made by an officer of court in respect of fees t
 
 (3) For a sheriff officer, in respect of items 3, 6(b), 7(c) and (d), 8(b), 9(b), 10(b), 11(b) and 12(b) in the Table of Charges, charging on a time basis is to apply from the end of the first hour at the place of execution until completion.
 
-(4) For a messenger-at-arms[^key-7e599cb675104209af7834262a9629d0], [^key-9693cd9e36ff880c8dd5dee25faa200e]... charging on a time basis is to apply from—
+(4) For a messenger-at-arms[^c-7e599cb675104209af7834262a9629d0], [^c-9693cd9e36ff880c8dd5dee25faa200e]... charging on a time basis is to apply from—
 
 - (a) the end of the first hour at the place of execution until completion; or
 - (b) after the messenger-at-arms has travelled a distance of 30 miles from the messenger’s place of business until the messenger returns to a distance of 30 miles from that place.
 
-(5)[^key-8c9ac5d9eb49133fa53129591a63d86a] Sub-paragraphs (3) and (4) are subject to paragraphs 16 (use of ferry) to 19 (realising of money attachment).
+(5)[^c-8c9ac5d9eb49133fa53129591a63d86a] Sub-paragraphs (3) and (4) are subject to paragraphs 16 (use of ferry) to 19 (realising of money attachment).
 
-### 16. Use of a ferry[^key-2f59454d46ab0363bf284ce7a31f9ac9]
+### 16. Use of a ferry[^c-2f59454d46ab0363bf284ce7a31f9ac9]
 
 Where an officer of court has to use a ferry, that officer, and any witness, must be allowed the necessary cost of the ferry, all reasonable subsistence and the time for boarding, crossing and returning, which must be charged on a time basis.
 
-### 17. Notary public, commissioner or other person or attending as a witness[^key-863fb2b69586bb5d40eec93e2d36d3c8]
+### 17. Notary public, commissioner or other person or attending as a witness[^c-863fb2b69586bb5d40eec93e2d36d3c8]
 
 Where an officer of court is required to attend before a notary public, commissioner or other person or as a witness, a fee for such attendance by that officer and any other witness must be charged on a time basis.
 
-### 18. Enquiries[^key-5b595546c9afb98fcb1405753dbae605]
+### 18. Enquiries[^c-5b595546c9afb98fcb1405753dbae605]
 
 Where an officer of court makes enquiries that are necessary to execute service, intimation, citation, diligence or any other work authorised by the relevant court, a fee for those enquiries must be charged on a time basis.
 
-### 19. Realising of money attachment[^key-d336d8f39132037b5230626ef59bda7d]
+### 19. Realising of money attachment[^c-d336d8f39132037b5230626ef59bda7d]
 
 Where, in respect of a money attachment, an officer of court is required to—
 
@@ -234,7 +234,7 @@ Where, in respect of a money attachment, an officer of court is required to—
 
 the fee for such work must be charged on a time basis.
 
-### 20. Value of attachment[^key-69c39c3432b32c41d17936d14e5f9004]
+### 20. Value of attachment[^c-69c39c3432b32c41d17936d14e5f9004]
 
 (1) Where, in respect of an attachment, the appraised value of an article exceeds the sum recoverable, the relevant fee payable to an officer of court must be calculated in accordance with the sum recoverable.
 
@@ -258,9 +258,9 @@ an officer of court may attach the money.
 
 (6) Where sub-paragraph (5) applies, an officer of court must add a note on the schedule of the attachment stating that the debtor claims that the money is the property of someone other than the debtor.
 
-### 21. Value Added Tax[^key-1024a04bd347d4575880a20c2cc7566b]
+### 21. Value Added Tax[^c-1024a04bd347d4575880a20c2cc7566b]
 
-(1) Where an officer of court is a taxable person and makes a taxable supply to any other person[^key-eca867344c58ab0572c29e1ef3240dae], that officer must charge that person—
+(1) Where an officer of court is a taxable person and makes a taxable supply to any other person[^c-eca867344c58ab0572c29e1ef3240dae], that officer must charge that person—
 
 - (a) the relevant fee for supplying that service; and
 - (b) an additional amount equal to any value added tax which that person must pay for the supply of that service.
@@ -280,7 +280,7 @@ Edinburgh
 
 17th June 2026
 
-## SCHEDULE 1 — TABLE OF CHARGES FOR WORK CARRIED OUT BY OFFICERS OF COURT[^key-1cf4fcffcc8a13a5fa3bad8353b266bd]
+## SCHEDULE 1 — TABLE OF CHARGES FOR WORK CARRIED OUT BY OFFICERS OF COURT[^c-1cf4fcffcc8a13a5fa3bad8353b266bd]
 
 Paragraph 3
 
@@ -371,7 +371,7 @@ Paragraph 3
 
 [^f00015][^f00016]
 
-## SCHEDULE 2 — REVOCATIONS[^key-d918dc8533c18cb60f23afd6a3919411]
+## SCHEDULE 2 — REVOCATIONS[^c-d918dc8533c18cb60f23afd6a3919411]
 
 Paragraph 5(2)
 
@@ -425,9 +425,9 @@ This Act of Sederunt also introduces a new charging model in which fees by offic
 
 [^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18). Sections 105 and 106 were modified by [S.S.I. 2018/158](https://www.legislation.gov.uk/ssi/2018/158).
 
-[^key-0059b58eb12480bef3c856e51f5627a4]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-0059b58eb12480bef3c856e51f5627a4]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-9713a197d8aa8dbbc6c449d3560b0610]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2026/208/paragraph/2) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-9713a197d8aa8dbbc6c449d3560b0610]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2026/208/paragraph/2) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
 [^f00003]: Footnote: [1987 c. 18](https://www.legislation.gov.uk/ukpga/1987/18).
 
@@ -437,7 +437,7 @@ This Act of Sederunt also introduces a new charging model in which fees by offic
 
 [^f00006]: Footnote: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3).
 
-[^key-163bcc604163fafa5187c5edbc1a72d6]: Textual amendment: Word in [para. 2](https://www.legislation.gov.uk/ssi/2026/208/paragraph/2) substituted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/2)
+[^c-163bcc604163fafa5187c5edbc1a72d6]: Textual amendment: Word in [para. 2](https://www.legislation.gov.uk/ssi/2026/208/paragraph/2) substituted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/2)
 
 [^f00007]: Footnote: [2011 c. 5](https://www.legislation.gov.uk/ukpga/2011/5).
 
@@ -447,68 +447,68 @@ This Act of Sederunt also introduces a new charging model in which fees by offic
 
 [^f00010]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-c399a64c50dde78b06a928b0758384d7]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2026/208/paragraph/3) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-c399a64c50dde78b06a928b0758384d7]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2026/208/paragraph/3) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-07c2bba992cdac531513a0904b71da88]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2026/208/paragraph/4) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-07c2bba992cdac531513a0904b71da88]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2026/208/paragraph/4) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-d4f5bda688f5e50be3d816dd9ec4b756]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2026/208/paragraph/5) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-d4f5bda688f5e50be3d816dd9ec4b756]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2026/208/paragraph/5) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-896c0bd08ab1e5ee2f625884fd42362f]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2026/208/paragraph/6) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-896c0bd08ab1e5ee2f625884fd42362f]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2026/208/paragraph/6) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-afc28e235e61d4395e6b73ab904d5e47]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2026/208/paragraph/7) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-afc28e235e61d4395e6b73ab904d5e47]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2026/208/paragraph/7) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-47aedb50dfbd4a8cdcac1e462fbf208b]: Textual amendment: Words in [para. 7](https://www.legislation.gov.uk/ssi/2026/208/paragraph/7) omitted (25.9.2026) by virtue of [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/3)
+[^c-47aedb50dfbd4a8cdcac1e462fbf208b]: Textual amendment: Words in [para. 7](https://www.legislation.gov.uk/ssi/2026/208/paragraph/7) omitted (25.9.2026) by virtue of [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/3)
 
-[^key-18fe1b1a04347ad9adf682bcfcbccfb7]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2026/208/paragraph/8) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-18fe1b1a04347ad9adf682bcfcbccfb7]: Commencement: [Para. 8](https://www.legislation.gov.uk/ssi/2026/208/paragraph/8) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
 [^f00011]: Footnote: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58). Section 35(1)(c) was amended by [S.S.I. 2007/507](https://www.legislation.gov.uk/ssi/2007/507).
 
-[^key-488eceb83fd7032947a7c9398d8ebd2c]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2026/208/paragraph/9) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-488eceb83fd7032947a7c9398d8ebd2c]: Commencement: [Para. 9](https://www.legislation.gov.uk/ssi/2026/208/paragraph/9) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-cd663aa6feb83b5431368760670f8abe]: Textual amendment: Words in [para. 9(1)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/9/1) substituted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/4)
+[^c-cd663aa6feb83b5431368760670f8abe]: Textual amendment: Words in [para. 9(1)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/9/1) substituted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/4)
 
 [^f00012]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). Paragraph 2 of schedule 1 was amended by section 1 of the St Andrew’s Day Bank Holiday (Scotland) Act [2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
-[^key-6c37d14669c965d6c84085a679a97a4b]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2026/208/paragraph/10) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-6c37d14669c965d6c84085a679a97a4b]: Commencement: [Para. 10](https://www.legislation.gov.uk/ssi/2026/208/paragraph/10) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-e69d0afa8ccc19a17fb9ae718cc95adf]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2026/208/paragraph/11) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-e69d0afa8ccc19a17fb9ae718cc95adf]: Commencement: [Para. 11](https://www.legislation.gov.uk/ssi/2026/208/paragraph/11) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-990c54ba7deb52c1ed84a52458105435]: Commencement: [Para. 12](https://www.legislation.gov.uk/ssi/2026/208/paragraph/12) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-990c54ba7deb52c1ed84a52458105435]: Commencement: [Para. 12](https://www.legislation.gov.uk/ssi/2026/208/paragraph/12) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-48a5afb18ae9ab7cff688b51889fce06]: Commencement: [Para. 13](https://www.legislation.gov.uk/ssi/2026/208/paragraph/13) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-48a5afb18ae9ab7cff688b51889fce06]: Commencement: [Para. 13](https://www.legislation.gov.uk/ssi/2026/208/paragraph/13) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-c31c2702f96bdb61885280d14035f257]: Commencement: [Para. 14](https://www.legislation.gov.uk/ssi/2026/208/paragraph/14) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-c31c2702f96bdb61885280d14035f257]: Commencement: [Para. 14](https://www.legislation.gov.uk/ssi/2026/208/paragraph/14) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-9dc1a05b872b4de6fe16305e8e79dce3]: Commencement: [Para. 15](https://www.legislation.gov.uk/ssi/2026/208/paragraph/15) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-9dc1a05b872b4de6fe16305e8e79dce3]: Commencement: [Para. 15](https://www.legislation.gov.uk/ssi/2026/208/paragraph/15) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-7e599cb675104209af7834262a9629d0]: Textual amendment: Words in [para. 15(4)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/15/4) substituted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/5/a/i)
+[^c-7e599cb675104209af7834262a9629d0]: Textual amendment: Words in [para. 15(4)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/15/4) substituted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/5/a/i)
 
-[^key-9693cd9e36ff880c8dd5dee25faa200e]: Textual amendment: Words in [para. 15(4)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/15/4) omitted (25.9.2026) by virtue of [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/5/a/ii)
+[^c-9693cd9e36ff880c8dd5dee25faa200e]: Textual amendment: Words in [para. 15(4)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/15/4) omitted (25.9.2026) by virtue of [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/5/a/ii)
 
-[^key-8c9ac5d9eb49133fa53129591a63d86a]: Textual amendment: [Para. 15(5)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/15/5) inserted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(5)(b)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/5/b)
+[^c-8c9ac5d9eb49133fa53129591a63d86a]: Textual amendment: [Para. 15(5)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/15/5) inserted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(5)(b)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/5/b)
 
-[^key-2f59454d46ab0363bf284ce7a31f9ac9]: Commencement: [Para. 16](https://www.legislation.gov.uk/ssi/2026/208/paragraph/16) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-2f59454d46ab0363bf284ce7a31f9ac9]: Commencement: [Para. 16](https://www.legislation.gov.uk/ssi/2026/208/paragraph/16) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-863fb2b69586bb5d40eec93e2d36d3c8]: Commencement: [Para. 17](https://www.legislation.gov.uk/ssi/2026/208/paragraph/17) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-863fb2b69586bb5d40eec93e2d36d3c8]: Commencement: [Para. 17](https://www.legislation.gov.uk/ssi/2026/208/paragraph/17) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-5b595546c9afb98fcb1405753dbae605]: Commencement: [Para. 18](https://www.legislation.gov.uk/ssi/2026/208/paragraph/18) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-5b595546c9afb98fcb1405753dbae605]: Commencement: [Para. 18](https://www.legislation.gov.uk/ssi/2026/208/paragraph/18) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-d336d8f39132037b5230626ef59bda7d]: Commencement: [Para. 19](https://www.legislation.gov.uk/ssi/2026/208/paragraph/19) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-d336d8f39132037b5230626ef59bda7d]: Commencement: [Para. 19](https://www.legislation.gov.uk/ssi/2026/208/paragraph/19) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
 [^f00013]: Footnote: Section 184 was amended by the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), schedule 4, paragraph 24.
 
-[^key-69c39c3432b32c41d17936d14e5f9004]: Commencement: [Para. 20](https://www.legislation.gov.uk/ssi/2026/208/paragraph/20) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-69c39c3432b32c41d17936d14e5f9004]: Commencement: [Para. 20](https://www.legislation.gov.uk/ssi/2026/208/paragraph/20) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-1024a04bd347d4575880a20c2cc7566b]: Commencement: [Para. 21](https://www.legislation.gov.uk/ssi/2026/208/paragraph/21) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-1024a04bd347d4575880a20c2cc7566b]: Commencement: [Para. 21](https://www.legislation.gov.uk/ssi/2026/208/paragraph/21) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
-[^key-eca867344c58ab0572c29e1ef3240dae]: Textual amendment: Words in [para. 21(1)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/21/1) substituted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/6)
+[^c-eca867344c58ab0572c29e1ef3240dae]: Textual amendment: Words in [para. 21(1)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/21/1) substituted (25.9.2026) by [Act of Sederunt (Fees of Messengers-at-Arms and Sheriff Officers) (Amendment) 2026 (S.S.I. 2026/252)](https://www.legislation.gov.uk/ssi/2026/252), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2026/252/paragraph/2/6)
 
 [^f00014]: Footnote: Section 3 was last amended by the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), schedule 2, paragraph 3.
 
-[^key-1cf4fcffcc8a13a5fa3bad8353b266bd]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/208/schedule/1) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-1cf4fcffcc8a13a5fa3bad8353b266bd]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/208/schedule/1) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
 
 [^f00015]: Footnote: [1997 c. 40](https://www.legislation.gov.uk/ukpga/1997/40).
 
 [^f00016]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).
 
-[^key-d918dc8533c18cb60f23afd6a3919411]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/208/schedule/2) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)
+[^c-d918dc8533c18cb60f23afd6a3919411]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/208/schedule/2) in force at 25.9.2026, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2026/208/paragraph/1/2)

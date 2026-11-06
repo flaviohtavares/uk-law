@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Part of calculation A referable to Northern Ireland[^key-d17619b76d69c1755f726ac4089ec9fc]
+## 7. Part of calculation A referable to Northern Ireland[^c-d17619b76d69c1755f726ac4089ec9fc]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d17619b76d69c1755f726ac4089ec9fc]: Commencement: Art. 7 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-d17619b76d69c1755f726ac4089ec9fc]: Commencement: Art. 7 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

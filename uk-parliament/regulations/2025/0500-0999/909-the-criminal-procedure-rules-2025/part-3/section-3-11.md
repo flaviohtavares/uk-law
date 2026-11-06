@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.11. Hearing to inform the court of sensitive material[^key-00085abbd783b7413fb073a2aca89be0]
+## 3.11. Hearing to inform the court of sensitive material[^c-00085abbd783b7413fb073a2aca89be0]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00085abbd783b7413fb073a2aca89be0]: Commencement: [Rule 3.11](https://www.legislation.gov.uk/uksi/2025/909/rule/3.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-00085abbd783b7413fb073a2aca89be0]: Commencement: [Rule 3.11](https://www.legislation.gov.uk/uksi/2025/909/rule/3.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

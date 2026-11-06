@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Mandatory and advanced mandatory services[^key-d670825412133461e48384a150c4d1db]
+## 13. Mandatory and advanced mandatory services[^c-d670825412133461e48384a150c4d1db]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d670825412133461e48384a150c4d1db]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/wsi/2006/489/regulation/13) substituted (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [Sch. 6 para. 2(4)](https://www.legislation.gov.uk/wsi/2026/37/schedule/6/paragraph/2/4) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))
+[^c-d670825412133461e48384a150c4d1db]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/wsi/2006/489/regulation/13) substituted (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [Sch. 6 para. 2(4)](https://www.legislation.gov.uk/wsi/2026/37/schedule/6/paragraph/2/4) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))

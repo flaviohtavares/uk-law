@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Review of Part 1[^key-e231409b43bbb10fa4f2e269fc959757]
+## 10. Review of Part 1[^c-e231409b43bbb10fa4f2e269fc959757]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e231409b43bbb10fa4f2e269fc959757]: Commencement: S. 10 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-e231409b43bbb10fa4f2e269fc959757]: Commencement: S. 10 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

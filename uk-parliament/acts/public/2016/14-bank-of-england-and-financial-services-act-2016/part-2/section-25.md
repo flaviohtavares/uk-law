@@ -20,36 +20,36 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ded4b0fa7a72176fca338cae531af8d3] The Financial Services and Markets Act 2000 is amended as follows.
+(1)[^c-ded4b0fa7a72176fca338cae531af8d3] The Financial Services and Markets Act 2000 is amended as follows.
 
 (2) In section 66A (misconduct: action by FCA)—
 
-- (a)[^key-611283b28a5f79bd9a3c8360b67d07cb] omit the “or” at the end of subsection (2)(b)(i);
-- (b)[^key-611283b28a5f79bd9a3c8360b67d07cb] at the end of subsection (2)(b)(ii) insert
+- (a)[^c-611283b28a5f79bd9a3c8360b67d07cb] omit the “or” at the end of subsection (2)(b)(i);
+- (b)[^c-611283b28a5f79bd9a3c8360b67d07cb] at the end of subsection (2)(b)(ii) insert
 
   > , or
   >
   > - (iii) a director of an authorised person.
 
   ;
-- (c)[^key-611283b28a5f79bd9a3c8360b67d07cb] omit the “or” at the end of subsection (3)(b)(i);
-- (d)[^key-611283b28a5f79bd9a3c8360b67d07cb] at the end of subsection (3)(b)(ii) insert
+- (c)[^c-611283b28a5f79bd9a3c8360b67d07cb] omit the “or” at the end of subsection (3)(b)(i);
+- (d)[^c-611283b28a5f79bd9a3c8360b67d07cb] at the end of subsection (3)(b)(ii) insert
 
   > , or
   >
   > - (iii) a director of the authorised person.
 
   ;
-- (e)[^key-ded4b0fa7a72176fca338cae531af8d3] omit the “and” at the end of subsection (5)(b);
-- (f)[^key-ded4b0fa7a72176fca338cae531af8d3] at the end of subsection (5)(c) insert
+- (e)[^c-ded4b0fa7a72176fca338cae531af8d3] omit the “and” at the end of subsection (5)(b);
+- (f)[^c-ded4b0fa7a72176fca338cae531af8d3] at the end of subsection (5)(c) insert
 
   > , and
   >
   > - (d) the senior manager did not take such steps as a person in the senior manager's position could reasonably be expected to take to avoid the contravention occurring (or continuing).
 
   ;
-- (g)[^key-ded4b0fa7a72176fca338cae531af8d3] omit subsection (6);
-- (h)[^key-611283b28a5f79bd9a3c8360b67d07cb] in subsection (8) after the definition of “approved person” insert—
+- (g)[^c-ded4b0fa7a72176fca338cae531af8d3] omit subsection (6);
+- (h)[^c-611283b28a5f79bd9a3c8360b67d07cb] in subsection (8) after the definition of “approved person” insert—
 
   > “**director**”, in relation to an authorised person, has the same meaning as in section 64A;
 
@@ -57,32 +57,32 @@ summary: ''
 
 (3) In section 66B (misconduct: action by PRA)—
 
-- (a)[^key-611283b28a5f79bd9a3c8360b67d07cb] omit the “or” at the end of subsection (2)(b)(i);
-- (b)[^key-611283b28a5f79bd9a3c8360b67d07cb] at the end of subsection (2)(b)(ii) insert
+- (a)[^c-611283b28a5f79bd9a3c8360b67d07cb] omit the “or” at the end of subsection (2)(b)(i);
+- (b)[^c-611283b28a5f79bd9a3c8360b67d07cb] at the end of subsection (2)(b)(ii) insert
 
   > , or
   >
   > - (iii) a director of a PRA-authorised person.
 
   ;
-- (c)[^key-611283b28a5f79bd9a3c8360b67d07cb] omit the “or” at the end of subsection (3)(b)(i);
-- (d)[^key-611283b28a5f79bd9a3c8360b67d07cb] at the end of subsection (3)(b)(ii) insert
+- (c)[^c-611283b28a5f79bd9a3c8360b67d07cb] omit the “or” at the end of subsection (3)(b)(i);
+- (d)[^c-611283b28a5f79bd9a3c8360b67d07cb] at the end of subsection (3)(b)(ii) insert
 
   > , or
   >
   > - (iii) a director of the PRA-authorised person.
 
   ;
-- (e)[^key-ded4b0fa7a72176fca338cae531af8d3] omit the “and” at the end of subsection (5)(b);
-- (f)[^key-ded4b0fa7a72176fca338cae531af8d3] at the end of subsection (5)(c) insert
+- (e)[^c-ded4b0fa7a72176fca338cae531af8d3] omit the “and” at the end of subsection (5)(b);
+- (f)[^c-ded4b0fa7a72176fca338cae531af8d3] at the end of subsection (5)(c) insert
 
   > , and
   >
   > - (d) the senior manager did not take such steps as a person in the senior manager's position could reasonably be expected to take to avoid the contravention occurring (or continuing).
 
   ;
-- (g)[^key-ded4b0fa7a72176fca338cae531af8d3] omit subsection (6);
-- (h)[^key-611283b28a5f79bd9a3c8360b67d07cb] in subsection (8) after the definition of “approved person” insert—
+- (g)[^c-ded4b0fa7a72176fca338cae531af8d3] omit subsection (6);
+- (h)[^c-611283b28a5f79bd9a3c8360b67d07cb] in subsection (8) after the definition of “approved person” insert—
 
   > “**director**”, in relation to an authorised person, has the same meaning as in section 64A;
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ded4b0fa7a72176fca338cae531af8d3]: Commencement: S. 25(1)(2)(e)(f)(g)(3)(e)(f)(g) in force at 10.5.2016 by [S.I. 2016/569](https://www.legislation.gov.uk/uksi/2016/569), [reg. 2](https://www.legislation.gov.uk/uksi/2016/569/regulation/2)
+[^c-ded4b0fa7a72176fca338cae531af8d3]: Commencement: S. 25(1)(2)(e)(f)(g)(3)(e)(f)(g) in force at 10.5.2016 by [S.I. 2016/569](https://www.legislation.gov.uk/uksi/2016/569), [reg. 2](https://www.legislation.gov.uk/uksi/2016/569/regulation/2)
 
-[^key-611283b28a5f79bd9a3c8360b67d07cb]: Commencement: S. 25(2)(a)-(d)(h)(3)(a)-(d)(h) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/s)
+[^c-611283b28a5f79bd9a3c8360b67d07cb]: Commencement: S. 25(2)(a)-(d)(h)(3)(a)-(d)(h) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/s)

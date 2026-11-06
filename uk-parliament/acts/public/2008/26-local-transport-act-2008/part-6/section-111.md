@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Consultation and inquiries for English schemes[^key-3c6ae367e2e3e6558a4e0cf57f1c69a5][^key-58ba369f67e59575bedcf30987f17bd0]
+## 111. Consultation and inquiries for English schemes[^c-3c6ae367e2e3e6558a4e0cf57f1c69a5][^c-58ba369f67e59575bedcf30987f17bd0]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c6ae367e2e3e6558a4e0cf57f1c69a5]: Commencement: S. 111 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/6))
+[^c-3c6ae367e2e3e6558a4e0cf57f1c69a5]: Commencement: S. 111 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/6))
 
-[^key-58ba369f67e59575bedcf30987f17bd0]: Commencement: S. 111 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(l)](https://www.legislation.gov.uk/uksi/2009/579/article/2/l)
+[^c-58ba369f67e59575bedcf30987f17bd0]: Commencement: S. 111 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(l)](https://www.legislation.gov.uk/uksi/2009/579/article/2/l)

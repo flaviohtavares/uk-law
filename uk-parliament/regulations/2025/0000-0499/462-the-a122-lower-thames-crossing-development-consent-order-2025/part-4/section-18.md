@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Powers in relation to relevant navigations or watercourses[^key-de76a3bd88b73a702622229f019774fc]
+## 18. Powers in relation to relevant navigations or watercourses[^c-de76a3bd88b73a702622229f019774fc]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ in such manner and to such extent as is reasonably necessary in connection with 
 
 ## Annotations
 
-[^key-de76a3bd88b73a702622229f019774fc]: Commencement: Art. 18 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-de76a3bd88b73a702622229f019774fc]: Commencement: Art. 18 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

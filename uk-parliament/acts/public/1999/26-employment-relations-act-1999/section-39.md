@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Minimum wage: information.[^key-32714a5f6e30a3b8740754a5ed5db857]
+## 39. Minimum wage: information.[^c-32714a5f6e30a3b8740754a5ed5db857]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-32714a5f6e30a3b8740754a5ed5db857]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1999/26/section/39) restricted (7.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2005/11/schedule/2/paragraph/16) (with [s. 22](https://www.legislation.gov.uk/ukpga/2005/11/section/22)); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-32714a5f6e30a3b8740754a5ed5db857]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/1999/26/section/39) restricted (7.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2005/11/schedule/2/paragraph/16) (with [s. 22](https://www.legislation.gov.uk/ukpga/2005/11/section/22)); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
 
 [^c12486561]: Marginal citation: [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39).
 

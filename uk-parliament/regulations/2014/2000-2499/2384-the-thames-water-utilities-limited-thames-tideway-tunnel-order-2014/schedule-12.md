@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 12 — PUBLIC RIGHTS OF NAVIGATION TO BE AFFECTED BY THE AUTHORISED PROJECT[^key-9001ac01a7a038bc6fc6ba71859ef199]
+## SCHEDULE 12 — PUBLIC RIGHTS OF NAVIGATION TO BE AFFECTED BY THE AUTHORISED PROJECT[^c-9001ac01a7a038bc6fc6ba71859ef199]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ Article 47
 
 ## Annotations
 
-[^key-9001ac01a7a038bc6fc6ba71859ef199]: Commencement: Sch. 12 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-9001ac01a7a038bc6fc6ba71859ef199]: Commencement: Sch. 12 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

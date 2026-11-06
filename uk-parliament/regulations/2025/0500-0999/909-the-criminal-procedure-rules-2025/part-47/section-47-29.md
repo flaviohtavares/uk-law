@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.29. Application for warrant under section 2 of the Criminal Justice Act 1987[^key-58293bdd55be3ef12f9959269d4177f0]
+## 47.29. Application for warrant under section 2 of the Criminal Justice Act 1987[^c-58293bdd55be3ef12f9959269d4177f0]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-58293bdd55be3ef12f9959269d4177f0]: Commencement: Rule 47.29 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-58293bdd55be3ef12f9959269d4177f0]: Commencement: Rule 47.29 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01203]: Footnote: [1987 c. 38](https://www.legislation.gov.uk/ukpga/1987/38); section 2 was amended by sections 143 and 170 of, and paragraph 113 of Schedule 15 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 164 of the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), paragraph 20 of Schedule 3 to the Youth Justice and Criminal Evidence Act [1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), paragraph 23 of Schedule 2 to the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), paragraphs 11 and 12 of Schedule 5 to the Crime (International Co-operation) Act [2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32) and section 12 of, and paragraphs 11, 12 and 13 of Schedule 1 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

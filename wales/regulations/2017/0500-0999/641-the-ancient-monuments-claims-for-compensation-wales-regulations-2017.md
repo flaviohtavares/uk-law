@@ -31,7 +31,7 @@ summary: ''
 
 Ancient Monuments, Wales
 
-The Ancient Monuments (Claims for Compensation) (Wales) Regulations 2017 (revoked)[^key-ba5edec8fbe4b29846063696cdf78c0a]
+The Ancient Monuments (Claims for Compensation) (Wales) Regulations 2017 (revoked)[^c-ba5edec8fbe4b29846063696cdf78c0a]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 31 May 2017
 
-[^key-ba5edec8fbe4b29846063696cdf78c0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba5edec8fbe4b29846063696cdf78c0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-ba5edec8fbe4b29846063696cdf78c0a]
+## 1. Title, commencement, application and interpretation[^c-ba5edec8fbe4b29846063696cdf78c0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Claims for compensation[^key-ba5edec8fbe4b29846063696cdf78c0a]
+## 2. Claims for compensation[^c-ba5edec8fbe4b29846063696cdf78c0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and saving provision[^key-ba5edec8fbe4b29846063696cdf78c0a]
+## 3. Revocation and saving provision[^c-ba5edec8fbe4b29846063696cdf78c0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba5edec8fbe4b29846063696cdf78c0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba5edec8fbe4b29846063696cdf78c0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ba5edec8fbe4b29846063696cdf78c0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba5edec8fbe4b29846063696cdf78c0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba5edec8fbe4b29846063696cdf78c0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/641) revoked (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [137(1)(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/137/1/b)
+[^c-ba5edec8fbe4b29846063696cdf78c0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/641) revoked (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [137(1)(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/137/1/b)

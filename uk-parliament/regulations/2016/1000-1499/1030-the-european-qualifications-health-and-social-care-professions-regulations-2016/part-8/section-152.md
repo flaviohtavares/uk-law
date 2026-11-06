@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Introductory[^key-ecd418d60cd9d5f4d7ef4fe8b2996c51]
+## 152. Introductory[^c-ecd418d60cd9d5f4d7ef4fe8b2996c51]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Health and Care Professions Council (Registration and Fees) Rules 2003, whic
 
 ## Annotations
 
-[^key-ecd418d60cd9d5f4d7ef4fe8b2996c51]: Commencement: Reg. 152 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-ecd418d60cd9d5f4d7ef4fe8b2996c51]: Commencement: Reg. 152 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00104]: Footnote: [S.I. 2003/1572](https://www.legislation.gov.uk/uksi/2003/1572).

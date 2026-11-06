@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 7
 
-**1.**[^key-b1f4d474fe7532ff0f1173b7c0b08c5c] (1) The Cosmetic Products Enforcement Regulations 2013 are amended as follows.
+**1.**[^c-b1f4d474fe7532ff0f1173b7c0b08c5c] (1) The Cosmetic Products Enforcement Regulations 2013 are amended as follows.
 
 (2) In regulation 2(1) in the definition of “enforcement authority” omit sub-paragraph (i).
 
@@ -40,7 +40,7 @@ Regulation 7
 
 (6) Omit regulations 17(3), 21 and 22(1) and (2).
 
-(6A)[^key-7dff2c8ea89897837fd25e132b7b2635] In regulation 20—
+(6A)[^c-7dff2c8ea89897837fd25e132b7b2635] In regulation 20—
 
 - (a) in paragraph (1) omit “England and Wales or”;
 - (b) omit paragraph (5)(a);
@@ -54,6 +54,6 @@ Regulation 7
 
 ## Annotations
 
-[^key-b1f4d474fe7532ff0f1173b7c0b08c5c]: Commencement: Sch. 6 para. 1 in force at 31.12.2020, see reg. 1(b)
+[^c-b1f4d474fe7532ff0f1173b7c0b08c5c]: Commencement: Sch. 6 para. 1 in force at 31.12.2020, see reg. 1(b)
 
-[^key-7dff2c8ea89897837fd25e132b7b2635]: Textual amendment: [Sch. 6 para. 1(6A)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/6/paragraph/1/6A) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety (Toys and Cosmetics) and Metrology (Measuring and Non-automatic Weighing Instruments) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1486)](https://www.legislation.gov.uk/uksi/2020/1486), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1486/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2020/1486/regulation/3/a)
+[^c-7dff2c8ea89897837fd25e132b7b2635]: Textual amendment: [Sch. 6 para. 1(6A)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/6/paragraph/1/6A) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety (Toys and Cosmetics) and Metrology (Measuring and Non-automatic Weighing Instruments) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1486)](https://www.legislation.gov.uk/uksi/2020/1486), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1486/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2020/1486/regulation/3/a)

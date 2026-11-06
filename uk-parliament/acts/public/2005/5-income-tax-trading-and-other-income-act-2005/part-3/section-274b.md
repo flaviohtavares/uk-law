@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274B. Reduction for accumulated or discretionary trust income: entitlement[^key-7f8c0459e816b628d7ea77ab90a69b19]
+## 274B. Reduction for accumulated or discretionary trust income: entitlement[^c-7f8c0459e816b628d7ea77ab90a69b19]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ in which event the current-year amount of the trustees of the settlement for tha
 
 ## Annotations
 
-[^key-7f8c0459e816b628d7ea77ab90a69b19]: Textual amendment: Ss. 274A-274C substituted for s. 274A (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/26/1)
+[^c-7f8c0459e816b628d7ea77ab90a69b19]: Textual amendment: Ss. 274A-274C substituted for s. 274A (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/26/1)

@@ -55,7 +55,7 @@ In the Harbours Act (Northern Ireland) 1970—
   ;
 - (b) in section 33 (miscellaneous financial provisions) after “section 3” insert “ and the Department of Agriculture and Rural Development to make grants under section 4A ”.
 
-## 3. Rating of owners instead of occupiers in certain cases[^key-02d7a82dde9c9f73390afaa572d131e9]
+## 3. Rating of owners instead of occupiers in certain cases[^c-02d7a82dde9c9f73390afaa572d131e9]
 
 In Article 20 of the Rates (Northern Ireland) Order 1977 (rating of owners instead of occupiers in certain cases)—
 
@@ -69,11 +69,11 @@ In Article 20 of the Rates (Northern Ireland) Order 1977 (rating of owners inste
     ;
 - (b) in paragraph (1A), for the words from “both conditions” to the end of that paragraph substitute “the conditions in sub-paragraphs (b) and (c)(ii) of paragraph (1) must be satisfied, but the condition set out in sub-paragraph (c)(i) of that paragraph does not apply in relation to such a hereditament.
 
-## 4. Repeal of Articles 23 and 24 of the Rates (Northern Ireland) Order 1977[^key-4f9a3736c2357f64e5be2c91f2bc1c24]
+## 4. Repeal of Articles 23 and 24 of the Rates (Northern Ireland) Order 1977[^c-4f9a3736c2357f64e5be2c91f2bc1c24]
 
 Articles 23 (liability of occupier for rates unpaid by owner) and 24 (recovery of rates from tenants and lodgers) of the Rates (Northern Ireland) Order 1977 are repealed.
 
-## 5. Power of Department of Finance and Personnel to require information[^key-7cb324a545b3df0067aa3d99f2d6d940]
+## 5. Power of Department of Finance and Personnel to require information[^c-7cb324a545b3df0067aa3d99f2d6d940]
 
 (1) Article 26 of the Rates (Northern Ireland) Order 1977 (power of Department to require information as to ownership, etc.) is amended as follows.
 
@@ -97,7 +97,7 @@ Articles 23 (liability of occupier for rates unpaid by owner) and 24 (recovery o
 
 (4) In paragraph (2B)(a) after “(1)” insert “ , (1A) ”.
 
-## 6. Discount on rates on dwellings[^key-16bb2f54f4aa04ccab9de46a2680b7c2]
+## 6. Discount on rates on dwellings[^c-16bb2f54f4aa04ccab9de46a2680b7c2]
 
 (1) Article 30 of the Rates (Northern Ireland) Order 1977 (discount on rates on dwellings) is amended as follows.
 
@@ -124,7 +124,7 @@ In Article 31C of the Rates (Northern Ireland) Order 1977 (temporary reduction o
 - (a) in paragraph (1) after “percentage” insert “ or a specified amount ”;
 - (b) in sub-paragraph (a) of that paragraph for “exceed a” substitute “ exceed such other ”.
 
-## 8. Provision as to payment of interest on funds in court[^key-8f99a537d5820d8306c09dabf7600a90]
+## 8. Provision as to payment of interest on funds in court[^c-8f99a537d5820d8306c09dabf7600a90]
 
 In section 82 of the Judicature (Northern Ireland) Act 1978 (rules as to funds in court) in subsection (1)—
 
@@ -141,7 +141,7 @@ In Article 88 of the Housing (Northern Ireland) Order 1981 (disposal of land by 
 
 .
 
-## 10. Accounts and audit: health and social care bodies[^key-f7560ed86d9d8669ba1e534f1d1e00d1]
+## 10. Accounts and audit: health and social care bodies[^c-f7560ed86d9d8669ba1e534f1d1e00d1]
 
 In Article 4D of the Audit and Accountability (Northern Ireland) Order 2003 (disclosure of results of data matching, etc.), in paragraph (6)(b) for head (i) substitute—
 
@@ -198,14 +198,14 @@ This Act may be cited as the Financial Provisions Act (Northern Ireland) 2014.
 
 ## Annotations
 
-[^key-02d7a82dde9c9f73390afaa572d131e9]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/6/section/3) in operation at 1.4.2015 by [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/305/article/2/2)
+[^c-02d7a82dde9c9f73390afaa572d131e9]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/6/section/3) in operation at 1.4.2015 by [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/305/article/2/2)
 
-[^key-4f9a3736c2357f64e5be2c91f2bc1c24]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/6/section/4) in operation at 1.4.2015 by [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/305/article/2/2)
+[^c-4f9a3736c2357f64e5be2c91f2bc1c24]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/6/section/4) in operation at 1.4.2015 by [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/305/article/2/2)
 
-[^key-7cb324a545b3df0067aa3d99f2d6d940]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/6/section/5) in operation at 11.12.2014 by [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/305/article/2/1)
+[^c-7cb324a545b3df0067aa3d99f2d6d940]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/6/section/5) in operation at 11.12.2014 by [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305), [art. 2(1)](https://www.legislation.gov.uk/nisr/2014/305/article/2/1)
 
-[^key-16bb2f54f4aa04ccab9de46a2680b7c2]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/6/section/6) in operation at 1.4.2015 by [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/305/article/2/2)
+[^c-16bb2f54f4aa04ccab9de46a2680b7c2]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/6/section/6) in operation at 1.4.2015 by [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/305/article/2/2)
 
-[^key-8f99a537d5820d8306c09dabf7600a90]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2014/6/section/8) in operation at 22.8.2016 by [S.R. 2016/312](https://www.legislation.gov.uk/nisr/2016/312), [art. 2](https://www.legislation.gov.uk/nisr/2016/312/article/2)
+[^c-8f99a537d5820d8306c09dabf7600a90]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2014/6/section/8) in operation at 22.8.2016 by [S.R. 2016/312](https://www.legislation.gov.uk/nisr/2016/312), [art. 2](https://www.legislation.gov.uk/nisr/2016/312/article/2)
 
-[^key-f7560ed86d9d8669ba1e534f1d1e00d1]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/6/section/10) in operation at 4.6.2014 by [S.R. 2014/155](https://www.legislation.gov.uk/nisr/2014/155), [art. 2](https://www.legislation.gov.uk/nisr/2014/155/article/2)
+[^c-f7560ed86d9d8669ba1e534f1d1e00d1]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/6/section/10) in operation at 4.6.2014 by [S.R. 2014/155](https://www.legislation.gov.uk/nisr/2014/155), [art. 2](https://www.legislation.gov.uk/nisr/2014/155/article/2)

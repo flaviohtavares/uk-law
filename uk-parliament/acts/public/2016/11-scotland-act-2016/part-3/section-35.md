@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Extension of unauthorised disclosure offence[^key-a991946b2bebe86a0e77eb5445d1d7b1]
+## 35. Extension of unauthorised disclosure offence[^c-a991946b2bebe86a0e77eb5445d1d7b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a991946b2bebe86a0e77eb5445d1d7b1]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2016/11/section/35) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/l)
+[^c-a991946b2bebe86a0e77eb5445d1d7b1]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2016/11/section/35) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/l)

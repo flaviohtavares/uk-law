@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 260. Disclosure by the regulator, inspectors etc.[^key-9f54b4ded0e2584d74507798d19abcd8]
+## 260. Disclosure by the regulator, inspectors etc.[^c-9f54b4ded0e2584d74507798d19abcd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ under the Act or any regulations made under the Act.
 
 ## Annotations
 
-[^key-9f54b4ded0e2584d74507798d19abcd8]: Commencement: Reg. 260 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9f54b4ded0e2584d74507798d19abcd8]: Commencement: Reg. 260 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

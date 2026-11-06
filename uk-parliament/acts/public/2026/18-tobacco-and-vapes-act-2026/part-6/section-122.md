@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Causing publication, designing, printing or distribution[^key-fc59a7c713b39c27934c7cdafe249a90]
+## 122. Causing publication, designing, printing or distribution[^c-fc59a7c713b39c27934c7cdafe249a90]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc59a7c713b39c27934c7cdafe249a90]: Commencement: S. 122 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-fc59a7c713b39c27934c7cdafe249a90]: Commencement: S. 122 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Power to inspect documents, etc.[^key-f4069d2022b97dbdfeb5645de49f1d44][^key-666fb2cf6669db92878255198ba58319]
+## 145. Power to inspect documents, etc.[^c-f4069d2022b97dbdfeb5645de49f1d44][^c-666fb2cf6669db92878255198ba58319]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4069d2022b97dbdfeb5645de49f1d44]: Commencement: S. 145 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-f4069d2022b97dbdfeb5645de49f1d44]: Commencement: S. 145 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
-[^key-666fb2cf6669db92878255198ba58319]: Modification: [S. 145](https://www.legislation.gov.uk/ukpga/2006/40/section/145) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/4)
+[^c-666fb2cf6669db92878255198ba58319]: Modification: [S. 145](https://www.legislation.gov.uk/ukpga/2006/40/section/145) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/4)

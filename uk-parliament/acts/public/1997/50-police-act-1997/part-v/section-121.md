@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Performance by constables on central service in Scotland of functions under this Part.[^key-0dc124b2cabef52f90206456c5787f1b]
+## 121. Performance by constables on central service in Scotland of functions under this Part.[^c-0dc124b2cabef52f90206456c5787f1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dc124b2cabef52f90206456c5787f1b]: Textual amendment: S. 121 repealed (11.1.2008) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 38](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/38) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564), [art. 2](https://www.legislation.gov.uk/ssi/2007/564/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/564/schedule)
+[^c-0dc124b2cabef52f90206456c5787f1b]: Textual amendment: S. 121 repealed (11.1.2008) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 38](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/38) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564), [art. 2](https://www.legislation.gov.uk/ssi/2007/564/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/564/schedule)

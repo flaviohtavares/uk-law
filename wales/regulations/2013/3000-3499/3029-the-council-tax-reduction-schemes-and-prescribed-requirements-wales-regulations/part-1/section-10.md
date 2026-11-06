@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Remunerative work[^key-4bbcdae8b0ca6161fbb62d3d39ab4b65]
+## 10. Remunerative work[^c-4bbcdae8b0ca6161fbb62d3d39ab4b65]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) A person on income support, an income-based jobseeker’s allowance or an income-related employment and support allowance for more than 3 days in any reduction week must be treated as not being in remunerative work in that week.
 
-(7) A person must not be treated as engaged in remunerative work on any day on which that person is on maternity leave, paternity leave , shared parental leave[^key-98b39df59e23412b7372c574e76a50ec] , parental bereavement leave[^key-2034bfb8bfe114d802ad0415e3b0619c] , neonatal care leave[^key-23f3895301ec4f6367c68c38d373945b] or adoption leave, or is absent from work because that person is ill.
+(7) A person must not be treated as engaged in remunerative work on any day on which that person is on maternity leave, paternity leave , shared parental leave[^c-98b39df59e23412b7372c574e76a50ec] , parental bereavement leave[^c-2034bfb8bfe114d802ad0415e3b0619c] , neonatal care leave[^c-23f3895301ec4f6367c68c38d373945b] or adoption leave, or is absent from work because that person is ill.
 
 (8) A person must not be treated as engaged in remunerative work on any day on which that person is engaged in an activity in respect of which—
 
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4bbcdae8b0ca6161fbb62d3d39ab4b65]: Commencement: Reg. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-4bbcdae8b0ca6161fbb62d3d39ab4b65]: Commencement: Reg. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-98b39df59e23412b7372c574e76a50ec]: Textual amendment: Words in reg. 10(7) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/44/regulation/4)
+[^c-98b39df59e23412b7372c574e76a50ec]: Textual amendment: Words in reg. 10(7) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/44/regulation/4)
 
-[^key-2034bfb8bfe114d802ad0415e3b0619c]: Textual amendment: Words in reg. 10(7) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2020 (S.I. 2020/16)](https://www.legislation.gov.uk/wsi/2020/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/16/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2020/16/regulation/5)
+[^c-2034bfb8bfe114d802ad0415e3b0619c]: Textual amendment: Words in reg. 10(7) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2020 (S.I. 2020/16)](https://www.legislation.gov.uk/wsi/2020/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/16/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2020/16/regulation/5)
 
-[^key-23f3895301ec4f6367c68c38d373945b]: Textual amendment: Words in reg. 10(7) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [5](https://www.legislation.gov.uk/wsi/2026/13/regulation/5)
+[^c-23f3895301ec4f6367c68c38d373945b]: Textual amendment: Words in reg. 10(7) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [5](https://www.legislation.gov.uk/wsi/2026/13/regulation/5)

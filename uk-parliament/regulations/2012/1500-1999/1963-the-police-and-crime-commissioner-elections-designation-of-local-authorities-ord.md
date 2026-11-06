@@ -31,7 +31,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police and Crime Commissioner Elections (Designation of Local Authorities) Order 2012 (revoked)[^key-149c7816821a9e108498cdc11a6e1546]
+The Police and Crime Commissioner Elections (Designation of Local Authorities) Order 2012 (revoked)[^c-149c7816821a9e108498cdc11a6e1546]
 
 Made
 
@@ -39,31 +39,31 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-149c7816821a9e108498cdc11a6e1546]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-149c7816821a9e108498cdc11a6e1546]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-149c7816821a9e108498cdc11a6e1546]
+## 1. Citation, commencement and interpretation[^c-149c7816821a9e108498cdc11a6e1546]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of appropriate officers[^key-149c7816821a9e108498cdc11a6e1546]
+## 2. Designation of appropriate officers[^c-149c7816821a9e108498cdc11a6e1546]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-149c7816821a9e108498cdc11a6e1546]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-149c7816821a9e108498cdc11a6e1546]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-149c7816821a9e108498cdc11a6e1546]SCHEDULES
+[^c-149c7816821a9e108498cdc11a6e1546]SCHEDULES
 
-## SCHEDULE 1 — Appropriate officers: England[^key-149c7816821a9e108498cdc11a6e1546]
+## SCHEDULE 1 — Appropriate officers: England[^c-149c7816821a9e108498cdc11a6e1546]
 
 Article 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Appropriate officers: Wales[^key-149c7816821a9e108498cdc11a6e1546]
+## SCHEDULE 2 — Appropriate officers: Wales[^c-149c7816821a9e108498cdc11a6e1546]
 
 Article 2(3)
 
@@ -71,8 +71,8 @@ Article 2(3)
 
 **May not be in force at this date. Check the source.**
 
-[^key-149c7816821a9e108498cdc11a6e1546]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-149c7816821a9e108498cdc11a6e1546]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-149c7816821a9e108498cdc11a6e1546]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1963) revoked (10.8.2012) by [The Police and Crime Commissioner Elections (Designation of Local Authorities) (No.2) Order 2012 (S.I. 2012/2084)](https://www.legislation.gov.uk/uksi/2012/2084), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2084/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/2084/article/2)
+[^c-149c7816821a9e108498cdc11a6e1546]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1963) revoked (10.8.2012) by [The Police and Crime Commissioner Elections (Designation of Local Authorities) (No.2) Order 2012 (S.I. 2012/2084)](https://www.legislation.gov.uk/uksi/2012/2084), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2084/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/2084/article/2)

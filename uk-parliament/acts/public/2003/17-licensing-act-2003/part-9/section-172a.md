@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 172A. Power to make early morning alcohol restriction order[^key-bcc51c55539c3a3caf93fd5b4224a2c3]
+## 172A. Power to make early morning alcohol restriction order[^c-bcc51c55539c3a3caf93fd5b4224a2c3]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcc51c55539c3a3caf93fd5b4224a2c3]: Textual amendment: Ss. 172A-172E substituted (31.10.2012) for ss. 172A-172E as inserted by Crime and Security Act 2010 (c. 17), s. 55(2) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 119(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/119/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/a) (as amended by S.I. 2012/1659, art. 1(2), Sch. 3 para. 22 (with arts. 4-6))
+[^c-bcc51c55539c3a3caf93fd5b4224a2c3]: Textual amendment: Ss. 172A-172E substituted (31.10.2012) for ss. 172A-172E as inserted by Crime and Security Act 2010 (c. 17), s. 55(2) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 119(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/119/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/a) (as amended by S.I. 2012/1659, art. 1(2), Sch. 3 para. 22 (with arts. 4-6))

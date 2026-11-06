@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. “Event of concern” and “period of concern”[^key-3da6f872ca27484d7d3fd377ce1827d9]
+## 86. “Event of concern” and “period of concern”[^c-3da6f872ca27484d7d3fd377ce1827d9]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3da6f872ca27484d7d3fd377ce1827d9]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-3da6f872ca27484d7d3fd377ce1827d9]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

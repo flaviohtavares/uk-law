@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — ACCESS TO WORKS[^key-07f8844a49edd73f34676dc38caafd43]
+## SCHEDULE 5 — ACCESS TO WORKS[^c-07f8844a49edd73f34676dc38caafd43]
 
 *Extent: E+W*
 
@@ -88,10 +88,10 @@ Article 13
 </tbody>
 </table>
 
-[^key-f6fb18020f232e29841dcf828fd4480f]
+[^c-f6fb18020f232e29841dcf828fd4480f]
 
 ## Annotations
 
-[^key-07f8844a49edd73f34676dc38caafd43]: Commencement: Sch. 5 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-07f8844a49edd73f34676dc38caafd43]: Commencement: Sch. 5 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
 
-[^key-f6fb18020f232e29841dcf828fd4480f]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1561/schedule/5) substituted (22.12.2015) by [The Preesall Underground Gas Storage Facility (Correction) Order 2015 (S.I. 2015/2071)](https://www.legislation.gov.uk/uksi/2015/2071), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2071/article/1), [2](https://www.legislation.gov.uk/uksi/2015/2071/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/2071/schedule)
+[^c-f6fb18020f232e29841dcf828fd4480f]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1561/schedule/5) substituted (22.12.2015) by [The Preesall Underground Gas Storage Facility (Correction) Order 2015 (S.I. 2015/2071)](https://www.legislation.gov.uk/uksi/2015/2071), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2071/article/1), [2](https://www.legislation.gov.uk/uksi/2015/2071/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/2071/schedule)

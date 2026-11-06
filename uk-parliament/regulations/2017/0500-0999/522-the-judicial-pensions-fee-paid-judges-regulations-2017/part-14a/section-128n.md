@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128N. Refund of contributions: family benefits[^key-73af1ad52439faa59a794455bec473bf]
+## 128N. Refund of contributions: family benefits[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,13 +28,13 @@ summary: ''
 
 where—
 
-- A is the family benefits percentage figure set out in Schedule 4[^key-bac1503f90ae2d6393b673cc193c4046] which corresponds to the length of time between the assumed contribution commencement date and the assumed retirement date
+- A is the family benefits percentage figure set out in Schedule 4[^c-bac1503f90ae2d6393b673cc193c4046] which corresponds to the length of time between the assumed contribution commencement date and the assumed retirement date
 - B is the length of time referred to in the definition of A, in years and fractions of a year.
 
 (3) Where a refund is payable under this regulation it must be paid together with interest.
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
 
-[^key-bac1503f90ae2d6393b673cc193c4046]: Textual amendment: Words in [reg. 128N(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128N/2) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2024/1358/regulation/32)
+[^c-bac1503f90ae2d6393b673cc193c4046]: Textual amendment: Words in [reg. 128N(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128N/2) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2024/1358/regulation/32)

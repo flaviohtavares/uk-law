@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1084A. Recording of optional information on register[^key-13d306d0a1249d1a984cb9a41e0dec7e][^key-e79e0737d2932006b9360561fcf8e53d]
+## 1084A. Recording of optional information on register[^c-13d306d0a1249d1a984cb9a41e0dec7e][^c-e79e0737d2932006b9360561fcf8e53d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13d306d0a1249d1a984cb9a41e0dec7e]: Modification: [S. 1084A](https://www.legislation.gov.uk/ukpga/2006/46/section/1084A) applied (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 60](https://www.legislation.gov.uk/uksi/2009/1804/regulation/60) (as amended by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/234/regulation/26); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-13d306d0a1249d1a984cb9a41e0dec7e]: Modification: [S. 1084A](https://www.legislation.gov.uk/ukpga/2006/46/section/1084A) applied (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 60](https://www.legislation.gov.uk/uksi/2009/1804/regulation/60) (as amended by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2024/234/regulation/26); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-e79e0737d2932006b9360561fcf8e53d]: Textual amendment: S. 1084A inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 95(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/95/1), [164(3)(h)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/h/i)
+[^c-e79e0737d2932006b9360561fcf8e53d]: Textual amendment: S. 1084A inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 95(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/95/1), [164(3)(h)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/h/i)

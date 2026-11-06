@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Except so far as different provision is made by an order under section 17 of the Local Government Act 1992,[^c16037321] or Part 1 of the Local Government and Public Involvement in Health Act 2007 (orders constituting new local government areas[^key-4e916af3a25e3083b697b56a55254523] etc) the registration areas for the purpose of this Part of this Act are—[^c16037331]
+(1) Except so far as different provision is made by an order under section 17 of the Local Government Act 1992,[^c16037321] or Part 1 of the Local Government and Public Involvement in Health Act 2007 (orders constituting new local government areas[^c-4e916af3a25e3083b697b56a55254523] etc) the registration areas for the purpose of this Part of this Act are—[^c16037331]
 
 - (a) counties and county boroughs[^c16037341];
 - (b) London boroughs; and
@@ -35,7 +35,7 @@ summary: ''
 
 [^c16037321]: Textual amendment: Words in s. 62(1) inserted (13.10.1995) by [S.I. 1995/2451](https://www.legislation.gov.uk/uksi/1995/2451), [reg. 3](https://www.legislation.gov.uk/uksi/1995/2451/regulation/3)
 
-[^key-4e916af3a25e3083b697b56a55254523]: Textual amendment: Words in s. 62(1) inserted (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/13); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)
+[^c-4e916af3a25e3083b697b56a55254523]: Textual amendment: Words in s. 62(1) inserted (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/13); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)
 
 [^c16037331]: Textual amendment: Words substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 16](https://www.legislation.gov.uk/ukpga/1985/51/section/16), [Sch. 8 para. 13(1)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/8/paragraph/13/1)
 

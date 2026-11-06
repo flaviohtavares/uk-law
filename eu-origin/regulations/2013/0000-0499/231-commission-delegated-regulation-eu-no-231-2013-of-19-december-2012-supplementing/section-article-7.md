@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The exposure of an AIF calculated in accordance with the gross method shall be the sum of the absolute values of all positions valued in accordance with section 3.9 of the Investment Funds sourcebook, and all delegated acts adopted pursuant to Article 19 of Directive 2011/61/EU which form part of[^key-df5e3366e753e62ccee60bf0a3aee587] assimilated[^key-d4c4918d74d69f70020863190b9de10e] law.
+The exposure of an AIF calculated in accordance with the gross method shall be the sum of the absolute values of all positions valued in accordance with section 3.9 of the Investment Funds sourcebook, and all delegated acts adopted pursuant to Article 19 of Directive 2011/61/EU which form part of[^c-df5e3366e753e62ccee60bf0a3aee587] assimilated[^c-d4c4918d74d69f70020863190b9de10e] law.
 
 For the calculation of the exposure of an AIF in accordance with the gross method an AIFM shall:
 
@@ -32,6 +32,6 @@ For the calculation of the exposure of an AIF in accordance with the gross metho
 
 ## Annotations
 
-[^key-df5e3366e753e62ccee60bf0a3aee587]: Textual amendment: Words in Art. 7 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(9)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df5e3366e753e62ccee60bf0a3aee587]: Textual amendment: Words in Art. 7 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(9)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d4c4918d74d69f70020863190b9de10e]: Textual amendment: Word in [Art. 7](https://www.legislation.gov.uk/eur/2013/231/article/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 37(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/37/a)
+[^c-d4c4918d74d69f70020863190b9de10e]: Textual amendment: Word in [Art. 7](https://www.legislation.gov.uk/eur/2013/231/article/7) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 37(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/37/a)

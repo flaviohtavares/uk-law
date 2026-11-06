@@ -48,15 +48,15 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 6A(1D) that Act [^c23571571] they have consulted such associations of local authorities and such other persons as they think appropriate.
 
-## 1. Citation and commencement[^key-88969d57fddc0118e3ff4c81c4e71b49]
+## 1. Citation and commencement[^c-88969d57fddc0118e3ff4c81c4e71b49]
 
 This Order may be cited as the Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2019 and comes into force on 1 April 2019.
 
-## 2. Amendment of the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005[^key-c9d10724c1d684a826de1c62402e3337]
+## 2. Amendment of the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005[^c-c9d10724c1d684a826de1c62402e3337]
 
 The Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005 [^c23571581] is amended in accordance with articles 3 to 6.
 
-## 3.[^key-26914bb47e6fa6e35f6194a3219e68fc]
+## 3.[^c-26914bb47e6fa6e35f6194a3219e68fc]
 
 For article 2(1)(b)(ii) (electricity generation) substitute—
 
@@ -64,15 +64,15 @@ For article 2(1)(b)(ii) (electricity generation) substitute—
 
 .
 
-## 4.[^key-869a81d1628332f23ea9313e6c764d61]
+## 4.[^c-869a81d1628332f23ea9313e6c764d61]
 
 In the definition of “a Company” in article 3(2) (electricity transmission and distribution), in sub-paragraph (b)(iii) for “SP Transmission Limited” substitute “ SP Transmission PLC ”.
 
-## 5.[^key-181e568d4d5c2d4a0a451bfa5f95633d]
+## 5.[^c-181e568d4d5c2d4a0a451bfa5f95633d]
 
 In the definition of “Company” in article 4(3) (gas), omit “at the date of this Order” in both places where it occurs.
 
-## 6.[^key-fc485ee5d4bee53270b5c28f640a978d]
+## 6.[^c-fc485ee5d4bee53270b5c28f640a978d]
 
 For article 7A(2) (fixed line telecommunications) substitute—
 
@@ -83,7 +83,7 @@ For article 7A(2) (fixed line telecommunications) substitute—
 > | AtlasConnect Limited | SC241790 |
 > | British Telecommunications Public Limited Company | 01800000 |
 > | Cityfibre Limited | 09759465 |
-> | Centurylink Communications UK Limited | 02495998[^key-ae8a189f9f5cdf77831bbd7a58b1ec39] |
+> | Centurylink Communications UK Limited | 02495998[^c-ae8a189f9f5cdf77831bbd7a58b1ec39] |
 > | Easynet Limited | 02954343 |
 > | Entanet International Limited | 03274237 |
 > | Everything Everywhere Limited | 08263590 |
@@ -95,15 +95,15 @@ For article 7A(2) (fixed line telecommunications) substitute—
 > | NEOS Networks Limited | 03477297 |
 > | NTL Business Limited | 03076222 |
 > | Oath (UK) Limited | 03462696 |
-> | [^key-4022151784d6e95332bc0fff99005d6e]. . . | [^key-4022151784d6e95332bc0fff99005d6e]. . . |
-> | [^key-4febab26c5872eddeb3fe2bb62cbdcd6]. . . | [^key-4febab26c5872eddeb3fe2bb62cbdcd6]. . . |
+> | [^c-4022151784d6e95332bc0fff99005d6e]. . . | [^c-4022151784d6e95332bc0fff99005d6e]. . . |
+> | [^c-4febab26c5872eddeb3fe2bb62cbdcd6]. . . | [^c-4febab26c5872eddeb3fe2bb62cbdcd6]. . . |
 > | Pipex Communications Services Limited | 03059016 |
 > | Pulsant (Scotland) Limited | SC236128 |
 > | Sky Home Communications Limited | 05262862 |
-> | Sky Telecommunications Services Limited[^key-451901e60e927fc347f1d563c8d45cb1] | 02883980 |
+> | Sky Telecommunications Services Limited[^c-451901e60e927fc347f1d563c8d45cb1] | 02883980 |
 > | Smallworld Cable Limited | 05679836 |
 > | SSE Telecommunications Limited | SC213457 |
-> | Talktalk Communications Limited[^key-a8255d5301a6bd1a50f8eea629bfca2b] | 03849133 |
+> | Talktalk Communications Limited[^c-a8255d5301a6bd1a50f8eea629bfca2b] | 03849133 |
 > | Telefonica UK Limited | 01743099 |
 > | Thus Group Holdings Limited | SC192666 |
 > | Tiscali UK Limited | 03408171 |
@@ -141,26 +141,26 @@ Article 6 replaces a table which details companies to be regarded as “**fixed 
 
 [^c23571571]: Marginal citation: [Section 6A(1D)](https://www.legislation.gov.uk/ssi/2019/45/section/6A/1D) was inserted by section 32(1)(b) of the 2003 Act.
 
-[^key-88969d57fddc0118e3ff4c81c4e71b49]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
+[^c-88969d57fddc0118e3ff4c81c4e71b49]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
 
-[^key-c9d10724c1d684a826de1c62402e3337]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2019/45/article/2) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
+[^c-c9d10724c1d684a826de1c62402e3337]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2019/45/article/2) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
 
 [^c23571581]: Marginal citation: [S.S.I. 2005/127](https://www.legislation.gov.uk/ssi/2005/127), amended by [S.S.I. 2005/320](https://www.legislation.gov.uk/ssi/2005/320), [S.S.I. 2009/196](https://www.legislation.gov.uk/ssi/2009/196), [S.S.I. 2010/78](https://www.legislation.gov.uk/ssi/2010/78), [S.S.I. 2011/75](https://www.legislation.gov.uk/ssi/2011/75), S.S.I 2013/36, [S.S.I. 2014/64](https://www.legislation.gov.uk/ssi/2014/64), [S.S.I. 2015/50](https://www.legislation.gov.uk/ssi/2015/50) and [S.S.I. 2017/42](https://www.legislation.gov.uk/ssi/2017/42).
 
-[^key-26914bb47e6fa6e35f6194a3219e68fc]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2019/45/article/3) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
+[^c-26914bb47e6fa6e35f6194a3219e68fc]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2019/45/article/3) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
 
-[^key-869a81d1628332f23ea9313e6c764d61]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2019/45/article/4) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
+[^c-869a81d1628332f23ea9313e6c764d61]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2019/45/article/4) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
 
-[^key-181e568d4d5c2d4a0a451bfa5f95633d]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2019/45/article/5) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
+[^c-181e568d4d5c2d4a0a451bfa5f95633d]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2019/45/article/5) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
 
-[^key-fc485ee5d4bee53270b5c28f640a978d]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
+[^c-fc485ee5d4bee53270b5c28f640a978d]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) in force at 1.4.2019, see [art. 1](https://www.legislation.gov.uk/ssi/2019/45/article/1)
 
-[^key-ae8a189f9f5cdf77831bbd7a58b1ec39]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) substituted (31.3.2019) by [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/a)
+[^c-ae8a189f9f5cdf77831bbd7a58b1ec39]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) substituted (31.3.2019) by [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/a)
 
-[^key-4022151784d6e95332bc0fff99005d6e]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) omitted (31.3.2019) by virtue of [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/b)
+[^c-4022151784d6e95332bc0fff99005d6e]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) omitted (31.3.2019) by virtue of [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/b)
 
-[^key-4febab26c5872eddeb3fe2bb62cbdcd6]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) omitted (31.3.2019) by virtue of [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/c)
+[^c-4febab26c5872eddeb3fe2bb62cbdcd6]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) omitted (31.3.2019) by virtue of [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/c)
 
-[^key-451901e60e927fc347f1d563c8d45cb1]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) substituted (31.3.2019) by [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/d)
+[^c-451901e60e927fc347f1d563c8d45cb1]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) substituted (31.3.2019) by [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/d)
 
-[^key-a8255d5301a6bd1a50f8eea629bfca2b]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) substituted (31.3.2019) by [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(e)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/e)
+[^c-a8255d5301a6bd1a50f8eea629bfca2b]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/ssi/2019/45/article/6) substituted (31.3.2019) by [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2019 (S.S.I. 2019/77)](https://www.legislation.gov.uk/ssi/2019/77), [arts. 1](https://www.legislation.gov.uk/ssi/2019/77/article/1), [2(2)(e)](https://www.legislation.gov.uk/ssi/2019/77/article/2/2/e)

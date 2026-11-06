@@ -28,7 +28,7 @@ summary: ''
 
 (4) In relation to the following provisions—
 
-- (za)[^key-9a14cedfa0570a52c1103ed52d2febd1] [^key-98c64c209991854e63c812d09b363394]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (za)[^c-9a14cedfa0570a52c1103ed52d2febd1] [^c-98c64c209991854e63c812d09b363394]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (a) Part 3 (public health protection), including Schedule 11, and Part 3 of Schedule 15 so far as they relate to Wales (and section 166 so far as it relates to that Part of Schedule 15 in its application to Wales),
 - (b) section 140 (pharmaceutical services), so far as relating to Part 2 of Schedule 12, together with that Part of that Schedule,
 - (c) section 141(2) (remuneration for persons providing pharmaceutical services: appointment of determining authorities in relation to Wales),
@@ -45,6 +45,6 @@ the appropriate authority is the Welsh Ministers.
 
 ## Annotations
 
-[^key-9a14cedfa0570a52c1103ed52d2febd1]: Textual amendment: S. 171(4)(za) inserted (E.W.) (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 48](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/48); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-9a14cedfa0570a52c1103ed52d2febd1]: Textual amendment: S. 171(4)(za) inserted (E.W.) (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 48](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/48); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
 
-[^key-98c64c209991854e63c812d09b363394]: Textual amendment: S. 171(4)(za) repealed (E.W.) (3.4.2017) by virtue of [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 58(e)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/58/e); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-98c64c209991854e63c812d09b363394]: Textual amendment: S. 171(4)(za) repealed (E.W.) (3.4.2017) by virtue of [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 58(e)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/58/e); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

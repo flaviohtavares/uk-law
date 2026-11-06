@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35A. Interception of communications[^key-02a6c087da8dbfd7f2c9ca84bab59948]
+## 35A. Interception of communications[^c-02a6c087da8dbfd7f2c9ca84bab59948]
 
 *Extent: E+W*
 
@@ -30,14 +30,14 @@ summary: ''
 - (a) necessary on grounds specified in paragraph (4) below; and
 - (b) proportionate to what is sought to be achieved.
 
-(2A)[^key-27aabb18e69879e3bee02dc3062ef501] The governor may not make arrangements for interception of any communication between a prisoner and
+(2A)[^c-27aabb18e69879e3bee02dc3062ef501] The governor may not make arrangements for interception of any communication between a prisoner and
 
 - (a) the prisoner’s legal adviser; or
 - (b) any body or organisation with which the Secretary of State has made arrangements for the confidential handling of correspondence,
 
-unless either the condition in paragraph (2B) or the condition in paragraph (2C) is satisfied[^key-e047cc8111383acf4c39617ef7c40b7c].
+unless either the condition in paragraph (2B) or the condition in paragraph (2C) is satisfied[^c-e047cc8111383acf4c39617ef7c40b7c].
 
-(2B)[^key-70e135486b6bc837efdff8272f7adbd9] The condition in this paragraph is that—
+(2B)[^c-70e135486b6bc837efdff8272f7adbd9] The condition in this paragraph is that—
 
 - (a) the governor has reasonable cause to believe that the communication is being made with the intention of furthering a criminal purpose; and
 - (b) the arrangements for interception of the communication are authorised by—
@@ -58,7 +58,7 @@ unless either the condition in paragraph (2B) or the condition in paragraph (2C)
 - (a) necessary on grounds specified in paragraph (4) below; and
 - (b) proportionate to what is sought to be achieved by the termination.
 
-(4) The grounds referred to in paragraphs (1)(a), (2)(a) , (2C)(c)(i)[^key-fd53333bd823f8e27a41c076b56f17bf] and (3)(a) above are—
+(4) The grounds referred to in paragraphs (1)(a), (2)(a) , (2C)(c)(i)[^c-fd53333bd823f8e27a41c076b56f17bf] and (3)(a) above are—
 
 - (a) the interests of national security;
 - (b) the prevention, detection, investigation or prosecution of crime;
@@ -76,12 +76,12 @@ unless either the condition in paragraph (2B) or the condition in paragraph (2C)
 
 ## Annotations
 
-[^key-02a6c087da8dbfd7f2c9ca84bab59948]: Textual amendment: Rules 35A-35D inserted (24.10.2000) by [The Prison (Amendment) (No. 2) Rules 2000 (S.I. 2000/2641)](https://www.legislation.gov.uk/uksi/2000/2641), [rules 1](https://www.legislation.gov.uk/uksi/2000/2641/rule/1), [5](https://www.legislation.gov.uk/uksi/2000/2641/rule/5)
+[^c-02a6c087da8dbfd7f2c9ca84bab59948]: Textual amendment: Rules 35A-35D inserted (24.10.2000) by [The Prison (Amendment) (No. 2) Rules 2000 (S.I. 2000/2641)](https://www.legislation.gov.uk/uksi/2000/2641), [rules 1](https://www.legislation.gov.uk/uksi/2000/2641/rule/1), [5](https://www.legislation.gov.uk/uksi/2000/2641/rule/5)
 
-[^key-27aabb18e69879e3bee02dc3062ef501]: Textual amendment: Rule 35A(2A) inserted (1.1.2010) by [The Prison and Young Offender Institution (Amendment) Rules 2009 (S.I. 2009/3082)](https://www.legislation.gov.uk/uksi/2009/3082), [rule 1](https://www.legislation.gov.uk/uksi/2009/3082/rule/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2009/3082/schedule/1/paragraph/5)
+[^c-27aabb18e69879e3bee02dc3062ef501]: Textual amendment: Rule 35A(2A) inserted (1.1.2010) by [The Prison and Young Offender Institution (Amendment) Rules 2009 (S.I. 2009/3082)](https://www.legislation.gov.uk/uksi/2009/3082), [rule 1](https://www.legislation.gov.uk/uksi/2009/3082/rule/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2009/3082/schedule/1/paragraph/5)
 
-[^key-e047cc8111383acf4c39617ef7c40b7c]: Textual amendment: Words in [art. 35A(2A)](https://www.legislation.gov.uk/uksi/1999/728/article/35A/2A) substituted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1217/rule/2/2/a)
+[^c-e047cc8111383acf4c39617ef7c40b7c]: Textual amendment: Words in [art. 35A(2A)](https://www.legislation.gov.uk/uksi/1999/728/article/35A/2A) substituted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1217/rule/2/2/a)
 
-[^key-70e135486b6bc837efdff8272f7adbd9]: Textual amendment: [Art. 35A(2B)](https://www.legislation.gov.uk/uksi/1999/728/article/35A/2B)[(2C)](https://www.legislation.gov.uk/uksi/1999/728/article/35A/2C) inserted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1217/rule/2/2/b)
+[^c-70e135486b6bc837efdff8272f7adbd9]: Textual amendment: [Art. 35A(2B)](https://www.legislation.gov.uk/uksi/1999/728/article/35A/2B)[(2C)](https://www.legislation.gov.uk/uksi/1999/728/article/35A/2C) inserted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1217/rule/2/2/b)
 
-[^key-fd53333bd823f8e27a41c076b56f17bf]: Textual amendment: Word in [art. 35A(4)](https://www.legislation.gov.uk/uksi/1999/728/article/35A/4) inserted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/1217/rule/2/2/c)
+[^c-fd53333bd823f8e27a41c076b56f17bf]: Textual amendment: Word in [art. 35A(4)](https://www.legislation.gov.uk/uksi/1999/728/article/35A/4) inserted (6.1.2025) by [The Prison and Young Offender Institution (Interception of Communications) (Amendment) Rules 2024 (S.I. 2024/1217)](https://www.legislation.gov.uk/uksi/2024/1217), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1217/rule/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/1217/rule/2/2/c)

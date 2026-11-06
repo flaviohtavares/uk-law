@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Sustainable development[^key-c4573a4112ba64a88a02cbf98d3b1384]
+## 10. Sustainable development[^c-c4573a4112ba64a88a02cbf98d3b1384]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4573a4112ba64a88a02cbf98d3b1384]: Commencement: S. 10 in force at 6.4.2009 by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 2](https://www.legislation.gov.uk/uksi/2009/400/article/2)
+[^c-c4573a4112ba64a88a02cbf98d3b1384]: Commencement: S. 10 in force at 6.4.2009 by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 2](https://www.legislation.gov.uk/uksi/2009/400/article/2)

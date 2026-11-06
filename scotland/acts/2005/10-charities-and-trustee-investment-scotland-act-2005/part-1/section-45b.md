@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45B. Public access to charity accounts kept by OSCR[^key-8e6a4fb03233b1d102e31a5486419adb]
+## 45B. Public access to charity accounts kept by OSCR[^c-8e6a4fb03233b1d102e31a5486419adb]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e6a4fb03233b1d102e31a5486419adb]: Textual amendment: S. 45B and cross-heading inserted (5.3.2026) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 10(3)](https://www.legislation.gov.uk/asp/2023/5/section/10/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/b)
+[^c-8e6a4fb03233b1d102e31a5486419adb]: Textual amendment: S. 45B and cross-heading inserted (5.3.2026) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 10(3)](https://www.legislation.gov.uk/asp/2023/5/section/10/3), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2026/98](https://www.legislation.gov.uk/ssi/2026/98), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2026/98/regulation/2/b)

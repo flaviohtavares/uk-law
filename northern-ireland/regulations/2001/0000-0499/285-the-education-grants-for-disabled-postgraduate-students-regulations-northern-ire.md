@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of Higher and Further Education, Training and Employment, in exercise of the powers conferred by Article 3(1) and (2) of the Education (Student Support) (Northern Ireland) Order 1998[^f00001] and now vested in it[^f00002] and of every other power enabling it in that behalf, hereby make the following Regulations:—
 
-## 1. Citation and commencement[^key-492d064822ff1a7f9e6931815d3abc35]
+## 1. Citation and commencement[^c-492d064822ff1a7f9e6931815d3abc35]
 
 These Regulations may be cited as the Education (Grants for Disabled Postgraduate Students) Regulations (Northern Ireland) 2001 and shall come into operation on 1st September 2001.
 
-## 2. Interpretation[^key-679019b0b2d4bc3d295909de5a076615]
+## 2. Interpretation[^c-679019b0b2d4bc3d295909de5a076615]
 
 (1) In these Regulations—
 
@@ -103,7 +103,7 @@ shall be considered to have always been part of the European Community or Europe
   - the Arts and Humanities Research Board,
   - the British Academy.
 
-## 3. Eligible students[^key-6c77cb801c76bf8073984ef7ec349b73]
+## 3. Eligible students[^c-6c77cb801c76bf8073984ef7ec349b73]
 
 (1) Subject to and in accordance with these Regulations a person shall be eligible for a grant in connection with his undertaking a designated course and in respect of an academic year which begins on or after 1st September 2001 if:
 
@@ -125,7 +125,7 @@ shall be considered to have always been part of the European Community or Europe
 
 (4) Where a person who meets the requirements of this regulation is notified of that fact by the Department under regulation 5(4) he shall henceforth be an eligible student for the purposes of these Regulations unless, in relation to the second and any subsequent academic year of his course, he is not ordinarily resident in Northern Ireland on the first day of that academic year.
 
-## 4. Designated courses[^key-9a52a0041bc718c90ba9cc718439cc96]
+## 4. Designated courses[^c-9a52a0041bc718c90ba9cc718439cc96]
 
 (1) A course shall be designated for the purposes of Article 3 of the Order and regulations 3 and 6 if—
 
@@ -142,7 +142,7 @@ shall be considered to have always been part of the European Community or Europe
 
 (4) For the purposes of Article 3 of the Order and regulations 3(1) and 6(2) the Department may designate courses under these Regulations which are not designated under paragraph (1).
 
-## 5. Applications for grant[^key-432fc1af911bfdaa546752dffec2a413]
+## 5. Applications for grant[^c-432fc1af911bfdaa546752dffec2a413]
 
 (1) A person shall apply for a grant in respect of an academic year of a designated course by completing and submitting to the Department an application in such form as it may require, but which shall include a declaration signed by the student that:
 
@@ -159,7 +159,7 @@ shall be considered to have always been part of the European Community or Europe
 - (a) where the application is the first to be made in connection with the applicant’s undertaking the course, notify him of the fact that the applicant is an eligible student and the amount to which the Department considers he is entitled; and
 - (b) in respect of any subsequent application, notify him of the amount to which the Department considers he is entitled.
 
-## 6. Transfers of eligibility[^key-7281cf7a8a7acf692e92a374fb1ad8d0]
+## 6. Transfers of eligibility[^c-7281cf7a8a7acf692e92a374fb1ad8d0]
 
 (1) An eligible student may request that the Department transfer his eligibility in any case where—
 
@@ -172,7 +172,7 @@ shall be considered to have always been part of the European Community or Europe
 
 (4) An eligible student’s eligibility for a grant may not be transferred after it has expired or has been terminated under regulation 7.
 
-## 7. Termination of eligibility[^key-c78ec9ac8ded90fa3306328952c3dce4]
+## 7. Termination of eligibility[^c-c78ec9ac8ded90fa3306328952c3dce4]
 
 (1) Subject to paragraph (2), an eligible student shall cease to be eligible for a grant on the expiry of the period ordinarily required for the completion of the course, and accordingly he shall then cease to be an eligible student.
 
@@ -182,7 +182,7 @@ shall be considered to have always been part of the European Community or Europe
 
 (4) Where an eligible student has shown himself by his conduct to be unfitted to receive a grant the Department may determine that he is no longer eligible for a grant, and on such determination he shall then cease to be an eligible student.
 
-## 8. Information[^key-693cad13b49d48bf43b2414e9fc44b61]
+## 8. Information[^c-693cad13b49d48bf43b2414e9fc44b61]
 
 (1) Every applicant and every eligible student shall as soon as reasonably practicable after he is requested to do so provide the Department with such information as the Department considers necessary for the exercise of its functions under these Regulations.
 
@@ -200,19 +200,19 @@ shall be considered to have always been part of the European Community or Europe
 - (a) no longer be eligible for a grant; or
 - (b) not be eligible for any particular amount of grant as it considers appropriate in the circumstances.
 
-## 9. Amount of grant[^key-3640226d1eaa36a12c841c437a0e38ec]
+## 9. Amount of grant[^c-3640226d1eaa36a12c841c437a0e38ec]
 
 (1) An eligible student shall be eligible for a grant equal to additional expenditure which the Department is satisfied he is obliged to incur in respect of his undertaking the course by reason of a disability to which he is subject; but the amount of grant shall not exceed the amount referred to in paragraph (2).
 
 (2) The amount referred to in this paragraph is such amount as the Department considers appropriate not exceeding £5,120 in respect of each academic year.
 
-## 10. Payment of grant[^key-a1eb67e7e9e388916b68ecb1048bcef3]
+## 10. Payment of grant[^c-a1eb67e7e9e388916b68ecb1048bcef3]
 
 (1) Subject to the following paragraph, the Department shall pay a grant for which a student is eligible in such instalments (if any) and at such times as it considers appropriate; and in the exercise of its functions under this paragraph it may make provisional payments pending the final calculation of the amount of grant for which the student is eligible.
 
 (2) Payments shall be made in such manner as the Department considers appropriate, and it may make it a condition of entitlement to payment that the eligible student shall provide it with particulars of a bank or building society account in the United Kingdom into which payments may be made by electronic transfer.
 
-## 11. Overpayments[^key-fc313cc0d9ffbfe06343bc2a4d80ff9f]
+## 11. Overpayments[^c-fc313cc0d9ffbfe06343bc2a4d80ff9f]
 
 Any overpayment of grant shall be recovered in such one or more of the following ways as the Department considers appropriate in all the circumstances:
 
@@ -231,14 +231,14 @@ Department of Higher and Further Education, Training and Employment
 
 Regulation 3
 
-**1.**[^key-5d5dcb51793a5166131dabdd09a31535] A person who on the first day of the first academic year of the course—
+**1.**[^c-5d5dcb51793a5166131dabdd09a31535] A person who on the first day of the first academic year of the course—
 
 - (a) is settled in the United Kingdom within the meaning of the Immigration Act 1971[^f00013], and
 - (b) meets the residence conditions referred to in paragraph 7.
 
-**2.**[^key-b606c5bb2740430c82cd3a3fe544e622] A person who is a refugee, ordinarily resident in the United Kingdom and Islands, who has not ceased to be so resident since he was recognised as a refugee, or who is the spouse, child or stepchild of such a refugee, in each case who meets the residence condition in paragraph 7(*a*).
+**2.**[^c-b606c5bb2740430c82cd3a3fe544e622] A person who is a refugee, ordinarily resident in the United Kingdom and Islands, who has not ceased to be so resident since he was recognised as a refugee, or who is the spouse, child or stepchild of such a refugee, in each case who meets the residence condition in paragraph 7(*a*).
 
-**3.**[^key-947c8ee8ddfef54dbfadcb3a656ff56b] A person who—
+**3.**[^c-947c8ee8ddfef54dbfadcb3a656ff56b] A person who—
 
 - (a)
   - (i) has been informed by a person acting under the authority of the Secretary of State for the Home Department that, although he is considered not to qualify for recognition as a refugee, it is thought right to allow him to enter or remain in the United Kingdom, or
@@ -248,24 +248,24 @@ Regulation 3
 
 or who is the spouse, child or stepchild of such a person, where the person, or as the case may be the spouse, child or stepchild meets the residence conditions referred to in paragraph 7.
 
-**4.**[^key-c0d9eb44d058077045d5b5ca0c03f789] A person who is an EEA migrant worker who—
+**4.**[^c-c0d9eb44d058077045d5b5ca0c03f789] A person who is an EEA migrant worker who—
 
 - (a) is entitled to support by virtue of Article 7(2) or (3) of Council Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) on freedom of movement of workers within the Community, as extended by the EEA Agreement[^f00014] or, where he is a national of the United Kingdom, by virtue of an enforceable Community right to be treated no less favourably than a national of another member State in relation to matters which are the subject of Article 7(2) and (3); and
 - (b) meets the residence conditions referred to in paragraph 7.
 
-**5.**[^key-8d4978c995ce6635da0ed4c670e52ddc] A person who is the spouse of an EEA migrant worker and who—
+**5.**[^c-8d4978c995ce6635da0ed4c670e52ddc] A person who is the spouse of an EEA migrant worker and who—
 
 - (a) is installed in the United Kingdom with his spouse, and
 - (b) meets the residence conditions referred to in paragraph 7.
 
-**6.**[^key-fea12c6095f3a168344158d58faf3129] (1) A person who is the child of an EEA migrant worker and who—
+**6.**[^c-fea12c6095f3a168344158d58faf3129] (1) A person who is the child of an EEA migrant worker and who—
 
 - (a) is entitled to support by virtue of Article 12 of the above mentioned Council Regulation, or, where his migrant worker parent is a national of the United Kingdom, by virtue of an enforceable Community right to be treated no less favourably than the child of a national of another member State in relation to matters which are the subject of Article 12, and
 - (b) meets the residence conditions referred to in paragraph 7.
 
 (2) For the purposes of this paragraph “parent” includes a guardian, any other person having parental responsibility for a child and any person having care of a child, and “child” shall be construed accordingly.
 
-**7.**[^key-07e334ebf404922e9ce1063fcc0b227f] The residence conditions referred to above are that—
+**7.**[^c-07e334ebf404922e9ce1063fcc0b227f] The residence conditions referred to above are that—
 
 - (a) the person is ordinarily resident in Northern Ireland on the first day of the first academic year of the course;
 - (b) the person has been ordinarily resident throughout the three year period preceding the first day of the first academic year of the course, in the case of a person mentioned in paragraphs 1 or 3, in the United Kingdom and Islands, or, in the case of a person mentioned in paragraph 4, 5 or 6 in the European Economic Area; and
@@ -295,9 +295,9 @@ Provision is made for the recovery of overpayments (*regulation 11*).
 
 [^f00002]: Footnote: [S.R.1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-492d064822ff1a7f9e6931815d3abc35]: Commencement: Reg. 1 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-492d064822ff1a7f9e6931815d3abc35]: Commencement: Reg. 1 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-679019b0b2d4bc3d295909de5a076615]: Commencement: Reg. 2 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-679019b0b2d4bc3d295909de5a076615]: Commencement: Reg. 2 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
 [^f00003]: Footnote: Cmnd. 2073
 
@@ -313,7 +313,7 @@ Provision is made for the recovery of overpayments (*regulation 11*).
 
 [^f00009]: Footnote: O.J. No. L257, 19.10.68, p. 2
 
-[^key-6c77cb801c76bf8073984ef7ec349b73]: Commencement: Reg. 3 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-6c77cb801c76bf8073984ef7ec349b73]: Commencement: Reg. 3 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
 [^f00010]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
 
@@ -321,36 +321,36 @@ Provision is made for the recovery of overpayments (*regulation 11*).
 
 [^f00012]: Footnote: S.I. [1992/580](https://www.legislation.gov.uk/uksi/1992/580)
 
-[^key-9a52a0041bc718c90ba9cc718439cc96]: Commencement: Reg. 4 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-9a52a0041bc718c90ba9cc718439cc96]: Commencement: Reg. 4 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-432fc1af911bfdaa546752dffec2a413]: Commencement: Reg. 5 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-432fc1af911bfdaa546752dffec2a413]: Commencement: Reg. 5 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-7281cf7a8a7acf692e92a374fb1ad8d0]: Commencement: Reg. 6 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-7281cf7a8a7acf692e92a374fb1ad8d0]: Commencement: Reg. 6 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-c78ec9ac8ded90fa3306328952c3dce4]: Commencement: Reg. 7 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-c78ec9ac8ded90fa3306328952c3dce4]: Commencement: Reg. 7 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-693cad13b49d48bf43b2414e9fc44b61]: Commencement: Reg. 8 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-693cad13b49d48bf43b2414e9fc44b61]: Commencement: Reg. 8 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-3640226d1eaa36a12c841c437a0e38ec]: Commencement: Reg. 9 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-3640226d1eaa36a12c841c437a0e38ec]: Commencement: Reg. 9 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-a1eb67e7e9e388916b68ecb1048bcef3]: Commencement: Reg. 10 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-a1eb67e7e9e388916b68ecb1048bcef3]: Commencement: Reg. 10 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-fc313cc0d9ffbfe06343bc2a4d80ff9f]: Commencement: Reg. 11 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-fc313cc0d9ffbfe06343bc2a4d80ff9f]: Commencement: Reg. 11 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-5d5dcb51793a5166131dabdd09a31535]: Commencement: Sch. para. 1 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-5d5dcb51793a5166131dabdd09a31535]: Commencement: Sch. para. 1 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
 [^f00013]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); as amended by the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61), section 39 and Schedule 4; by the Immigration Act [1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14), sections 1, 3, 4, 6 and 10 and the Schedule, by the Asylum and Immigration Appeals Act [1993 (c. 23)](https://www.legislation.gov.uk/ukpga/1993/23), sections 10 to 12
 
-[^key-b606c5bb2740430c82cd3a3fe544e622]: Commencement: Sch. para. 2 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-b606c5bb2740430c82cd3a3fe544e622]: Commencement: Sch. para. 2 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-947c8ee8ddfef54dbfadcb3a656ff56b]: Commencement: Sch. para. 3 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-947c8ee8ddfef54dbfadcb3a656ff56b]: Commencement: Sch. para. 3 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-c0d9eb44d058077045d5b5ca0c03f789]: Commencement: Sch. para. 4 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-c0d9eb44d058077045d5b5ca0c03f789]: Commencement: Sch. para. 4 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
 [^f00014]: Footnote: O.J. No. L257, 19.10.68, p. 2
 
-[^key-8d4978c995ce6635da0ed4c670e52ddc]: Commencement: Sch. para. 5 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-8d4978c995ce6635da0ed4c670e52ddc]: Commencement: Sch. para. 5 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-fea12c6095f3a168344158d58faf3129]: Commencement: Sch. para. 6 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-fea12c6095f3a168344158d58faf3129]: Commencement: Sch. para. 6 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
 
-[^key-07e334ebf404922e9ce1063fcc0b227f]: Commencement: Sch. para. 7 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)
+[^c-07e334ebf404922e9ce1063fcc0b227f]: Commencement: Sch. para. 7 in operation at 1.9.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/285/regulation/1)

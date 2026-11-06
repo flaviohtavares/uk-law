@@ -33,7 +33,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Amendment) Order 2014 (revoked)[^key-1259d9ccfb997fdaa180984de2992ea5]
+The Air Navigation (Amendment) Order 2014 (revoked)[^c-1259d9ccfb997fdaa180984de2992ea5]
 
 Made
 
@@ -53,44 +53,44 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-1259d9ccfb997fdaa180984de2992ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1259d9ccfb997fdaa180984de2992ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-1259d9ccfb997fdaa180984de2992ea5]
+## 1. Citation and Commencement[^c-1259d9ccfb997fdaa180984de2992ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Air Navigation Order 2009[^key-1259d9ccfb997fdaa180984de2992ea5]
+## 2. Amendment of the Air Navigation Order 2009[^c-1259d9ccfb997fdaa180984de2992ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on carriage, where valuable consideration is given or promised, in aircraft registered elsewhere than in the United Kingdom[^key-1259d9ccfb997fdaa180984de2992ea5]
+## 3. Restriction on carriage, where valuable consideration is given or promised, in aircraft registered elsewhere than in the United Kingdom[^c-1259d9ccfb997fdaa180984de2992ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Filing and approval of tariffs[^key-1259d9ccfb997fdaa180984de2992ea5]
+## 4. Filing and approval of tariffs[^c-1259d9ccfb997fdaa180984de2992ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restriction on aerial photography, aerial survey and aerial work in aircraft registered elsewhere than in an EEA State[^key-1259d9ccfb997fdaa180984de2992ea5]
+## 5. Restriction on aerial photography, aerial survey and aerial work in aircraft registered elsewhere than in an EEA State[^c-1259d9ccfb997fdaa180984de2992ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation, suspension and variation of certificates, licences and other documents[^key-1259d9ccfb997fdaa180984de2992ea5]
+## 6. Revocation, suspension and variation of certificates, licences and other documents[^c-1259d9ccfb997fdaa180984de2992ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation, suspension and variation of permissions, etc granted under article 223 or article 225[^key-1259d9ccfb997fdaa180984de2992ea5]
+## 7. Revocation, suspension and variation of permissions, etc granted under article 223 or article 225[^c-1259d9ccfb997fdaa180984de2992ea5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1259d9ccfb997fdaa180984de2992ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1259d9ccfb997fdaa180984de2992ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1259d9ccfb997fdaa180984de2992ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1259d9ccfb997fdaa180984de2992ea5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1259d9ccfb997fdaa180984de2992ea5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/508) revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-1259d9ccfb997fdaa180984de2992ea5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/508) revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))

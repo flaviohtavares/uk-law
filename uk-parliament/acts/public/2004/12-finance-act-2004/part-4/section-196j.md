@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196J. Employer asset-backed contributions: further events which cause section 196I to apply[^key-17f65825320ae06f84166b7b416a6737]
+## 196J. Employer asset-backed contributions: further events which cause section 196I to apply[^c-17f65825320ae06f84166b7b416a6737]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17f65825320ae06f84166b7b416a6737]: Textual amendment: Ss. 196B-196L inserted (with effect in accordance with Sch. 13 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/15) (with [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/4)) (and see also, as to denial of relief for contributions paid during the period 29.11.2011 to 21.2.2012, the ss. 196B-196J inserted by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 paras. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/3) (with [Sch. 13 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/2)))
+[^c-17f65825320ae06f84166b7b416a6737]: Textual amendment: Ss. 196B-196L inserted (with effect in accordance with Sch. 13 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/15) (with [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/4)) (and see also, as to denial of relief for contributions paid during the period 29.11.2011 to 21.2.2012, the ss. 196B-196J inserted by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 paras. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/3) (with [Sch. 13 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/2)))

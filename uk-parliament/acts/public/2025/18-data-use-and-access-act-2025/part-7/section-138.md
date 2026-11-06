@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Creating, or requesting the creation of, purported intimate image of adult[^key-9624d4e866bc49f86e2669c5fb431436][^key-7864a509c96c9e3c30a6fabc8adc46aa]
+## 138. Creating, or requesting the creation of, purported intimate image of adult[^c-9624d4e866bc49f86e2669c5fb431436][^c-7864a509c96c9e3c30a6fabc8adc46aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -169,6 +169,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9624d4e866bc49f86e2669c5fb431436]: Commencement: S. 138 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-9624d4e866bc49f86e2669c5fb431436]: Commencement: S. 138 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-7864a509c96c9e3c30a6fabc8adc46aa]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2025/18/section/138) in force at 6.2.2026 by [S.I. 2026/31](https://www.legislation.gov.uk/uksi/2026/31), [reg. 2](https://www.legislation.gov.uk/uksi/2026/31/regulation/2)
+[^c-7864a509c96c9e3c30a6fabc8adc46aa]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2025/18/section/138) in force at 6.2.2026 by [S.I. 2026/31](https://www.legislation.gov.uk/uksi/2026/31), [reg. 2](https://www.legislation.gov.uk/uksi/2026/31/regulation/2)

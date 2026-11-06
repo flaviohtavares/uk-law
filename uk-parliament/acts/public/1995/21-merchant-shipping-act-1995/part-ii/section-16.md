@@ -24,7 +24,7 @@ summary: ''
 
 (2) Schedule 1 does not apply in relation to ships which are excluded from its application by registration regulations under section 10(4)(a).
 
-(3)[^key-a7dc82ae7d4891e55ac1e4ed76a1a57c] Where any person is beneficially interested, otherwise than as mortgagee, in any ship or share in a ship registered in the name of some other person as owner, the person so interested shall, as well as the registered owner, be liable to any pecuniary penalties imposed by or under this Act or any other Act on the owners of registered ships.
+(3)[^c-a7dc82ae7d4891e55ac1e4ed76a1a57c] Where any person is beneficially interested, otherwise than as mortgagee, in any ship or share in a ship registered in the name of some other person as owner, the person so interested shall, as well as the registered owner, be liable to any pecuniary penalties imposed by or under this Act or any other Act on the owners of registered ships.
 
 (4) Where the registration of any ship terminates by virtue of any provision of registration regulations, the termination of that registration shall not affect any entry made in the register so far as relating to any undischarged registered mortgage of that ship or of any share in it.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7dc82ae7d4891e55ac1e4ed76a1a57c]: Modification: [S. 16(3)](https://www.legislation.gov.uk/ukpga/1995/21/section/16/3) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)
+[^c-a7dc82ae7d4891e55ac1e4ed76a1a57c]: Modification: [S. 16(3)](https://www.legislation.gov.uk/ukpga/1995/21/section/16/3) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)

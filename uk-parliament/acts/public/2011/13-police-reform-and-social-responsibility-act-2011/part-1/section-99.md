@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Police reform: minor and consequential amendments[^key-117082fe22be4956d7f0779b44278e41][^key-a466c2dbf229dfc062692592c6517906]
+## 99. Police reform: minor and consequential amendments[^c-117082fe22be4956d7f0779b44278e41][^c-a466c2dbf229dfc062692592c6517906]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 16 (police reform: minor and consequential amendments) has effect.
 
 ## Annotations
 
-[^key-117082fe22be4956d7f0779b44278e41]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2011/13/section/99) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (as amended by [S.I. 2012/75](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/c))
+[^c-117082fe22be4956d7f0779b44278e41]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2011/13/section/99) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (as amended by [S.I. 2012/75](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/c))
 
-[^key-a466c2dbf229dfc062692592c6517906]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2011/13/section/99) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-a466c2dbf229dfc062692592c6517906]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2011/13/section/99) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Calculation of “retirement index adjustment”[^key-28d9eaa11d46acd70468d5479744bd3c]
+## 32. Calculation of “retirement index adjustment”[^c-28d9eaa11d46acd70468d5479744bd3c]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to regulation 32A,[^key-b32707fcb3a170f42524498d64d917c0] the retirement index adjustment for an amount of accrued pension is—
+(1) Subject to regulation 32A,[^c-b32707fcb3a170f42524498d64d917c0] the retirement index adjustment for an amount of accrued pension is—
 
 - amount of accrued pension × retirement index percentage
 
@@ -42,6 +42,6 @@ where—
 
 ## Annotations
 
-[^key-28d9eaa11d46acd70468d5479744bd3c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/1964/regulation/32) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-28d9eaa11d46acd70468d5479744bd3c]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/1964/regulation/32) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-b32707fcb3a170f42524498d64d917c0]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/32/1) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [11(1)](https://www.legislation.gov.uk/uksi/2018/537/regulation/11/1)
+[^c-b32707fcb3a170f42524498d64d917c0]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/32/1) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [11(1)](https://www.legislation.gov.uk/uksi/2018/537/regulation/11/1)

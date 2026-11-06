@@ -24,8 +24,8 @@ summary: ''
 
 (2) If the stock is sold to a person who—
 
-- (a) carries on, or intends to carry on, a trade, profession or vocation[^key-e9b1e297eb2ba09c9954281d7ae0eb7c] in the United Kingdom, and
-- (b) is entitled to deduct the cost of the stock as an expense in calculating the profits of that trade , profession or vocation[^key-d48266002175f411b6eb08bdcf155613] for income or corporation tax purposes,
+- (a) carries on, or intends to carry on, a trade, profession or vocation[^c-e9b1e297eb2ba09c9954281d7ae0eb7c] in the United Kingdom, and
+- (b) is entitled to deduct the cost of the stock as an expense in calculating the profits of that trade , profession or vocation[^c-d48266002175f411b6eb08bdcf155613] for income or corporation tax purposes,
 
 the value is determined in accordance with section 176 (sale to unconnected person), 177 (sale to connected person) or 178 (election by connected persons).
 
@@ -38,6 +38,6 @@ the value is determined in accordance with section 176 (sale to unconnected pers
 
 ## Annotations
 
-[^key-e9b1e297eb2ba09c9954281d7ae0eb7c]: Textual amendment: Words in s. 175(2)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 605(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/605/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e9b1e297eb2ba09c9954281d7ae0eb7c]: Textual amendment: Words in s. 175(2)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 605(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/605/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-d48266002175f411b6eb08bdcf155613]: Textual amendment: Words in s. 175(2)(b) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 605(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/605/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-d48266002175f411b6eb08bdcf155613]: Textual amendment: Words in s. 175(2)(b) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 605(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/605/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

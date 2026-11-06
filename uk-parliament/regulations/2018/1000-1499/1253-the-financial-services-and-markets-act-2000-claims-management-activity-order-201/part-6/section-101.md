@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 101. Legal Services Act 2007 (Disclosure of Restricted Information) Order 2011[^key-49b888b6e2cd5233ee02dc5e4f128180][^key-631cebe7f8e70dca8ab30b9bd37bed72]
+## 101. Legal Services Act 2007 (Disclosure of Restricted Information) Order 2011[^c-49b888b6e2cd5233ee02dc5e4f128180][^c-631cebe7f8e70dca8ab30b9bd37bed72]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ In the Legal Services Act 2007 (Disclosure of Restricted Information) Order 2011
 
 ## Annotations
 
-[^key-49b888b6e2cd5233ee02dc5e4f128180]: Commencement: Art. 101 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-49b888b6e2cd5233ee02dc5e4f128180]: Commencement: Art. 101 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-631cebe7f8e70dca8ab30b9bd37bed72]: Commencement: [Art. 101](https://www.legislation.gov.uk/uksi/2018/1253/article/101) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-631cebe7f8e70dca8ab30b9bd37bed72]: Commencement: [Art. 101](https://www.legislation.gov.uk/uksi/2018/1253/article/101) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00141]: Footnote: [S.I. 2011/122](https://www.legislation.gov.uk/uksi/2011/122).

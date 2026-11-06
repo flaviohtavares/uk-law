@@ -31,7 +31,7 @@ summary: ''
 
 Local Government, Wales
 
-The Local Authority Elections (Wales) Order 2014 (revoked)[^key-79f22db32d6dca0791c4bb5db4c42fb5]
+The Local Authority Elections (Wales) Order 2014 (revoked)[^c-79f22db32d6dca0791c4bb5db4c42fb5]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 9 December 2014
 
-[^key-79f22db32d6dca0791c4bb5db4c42fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79f22db32d6dca0791c4bb5db4c42fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-79f22db32d6dca0791c4bb5db4c42fb5]
+## 1. Title, commencement, application and interpretation[^c-79f22db32d6dca0791c4bb5db4c42fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Change of year of ordinary elections[^key-79f22db32d6dca0791c4bb5db4c42fb5]
+## 2. Change of year of ordinary elections[^c-79f22db32d6dca0791c4bb5db4c42fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Term of office of existing councillors[^key-79f22db32d6dca0791c4bb5db4c42fb5]
+## 3. Term of office of existing councillors[^c-79f22db32d6dca0791c4bb5db4c42fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-79f22db32d6dca0791c4bb5db4c42fb5]
+## 4. Revocation[^c-79f22db32d6dca0791c4bb5db4c42fb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-79f22db32d6dca0791c4bb5db4c42fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79f22db32d6dca0791c4bb5db4c42fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-79f22db32d6dca0791c4bb5db4c42fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79f22db32d6dca0791c4bb5db4c42fb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-79f22db32d6dca0791c4bb5db4c42fb5]: Textual amendment: Order revoked (6.11.2019) by [The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 (S.I. 2019/1269)](https://www.legislation.gov.uk/uksi/2019/1269), [arts 1(2)](https://www.legislation.gov.uk/uksi/2019/1269/article/1/2), [5](https://www.legislation.gov.uk/uksi/2019/1269/article/5)
+[^c-79f22db32d6dca0791c4bb5db4c42fb5]: Textual amendment: Order revoked (6.11.2019) by [The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 (S.I. 2019/1269)](https://www.legislation.gov.uk/uksi/2019/1269), [arts 1(2)](https://www.legislation.gov.uk/uksi/2019/1269/article/1/2), [5](https://www.legislation.gov.uk/uksi/2019/1269/article/5)

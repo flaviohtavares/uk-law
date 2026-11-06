@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Entitlement to enhanced upper tier ill-health pension following periodic review[^key-3e648b04319ecacd4da88cf8bf87d96d]
+## 103. Entitlement to enhanced upper tier ill-health pension following periodic review[^c-3e648b04319ecacd4da88cf8bf87d96d]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e648b04319ecacd4da88cf8bf87d96d]: Commencement: Reg. 103 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-3e648b04319ecacd4da88cf8bf87d96d]: Commencement: Reg. 103 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

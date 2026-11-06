@@ -36,13 +36,13 @@ An Act to make provision for a Panel to determine the salaries, allowances, pens
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## PART 1 — THE INDEPENDENT REMUNERATION BOARD[^key-bb50d5cb1645655b8592c28bf3943707]
+## PART 1 — THE INDEPENDENT REMUNERATION BOARD[^c-bb50d5cb1645655b8592c28bf3943707]
 
 ### Establishment and functions
 
-#### 1. Establishment and membership of the Board[^key-27f0f9ff73ddacaf6a3db8f9e67de2b1]
+#### 1. Establishment and membership of the Board[^c-27f0f9ff73ddacaf6a3db8f9e67de2b1]
 
-(1) There shall be a body known as the Independent Remuneration Board[^key-fe45c5d36597c3e8e4976809bfd69466].
+(1) There shall be a body known as the Independent Remuneration Board[^c-fe45c5d36597c3e8e4976809bfd69466].
 
 (2) The members of the Board are the Chair and two other members.
 
@@ -50,18 +50,18 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (1) The functions of the Board are to make determinations as to—
 
-- (a) the salaries [^key-943ffa1fcc4239e3bb28c47f2348d096]... payable to members of the Assembly under section 47 of the 1998 Act; and
-- (b) the pensions and gratuities[^key-d73633c1fccefa9c84d05ad57858493b] payable under section 48 of that Act.
+- (a) the salaries [^c-943ffa1fcc4239e3bb28c47f2348d096]... payable to members of the Assembly under section 47 of the 1998 Act; and
+- (b) the pensions and gratuities[^c-d73633c1fccefa9c84d05ad57858493b] payable under section 48 of that Act.
 
 (2) The Board shall exercise its functions with a view to achieving the objectives of—
 
 - (a) ensuring probity, accountability and value for money with respect to the expenditure of public funds;
 - (b) securing for members of the Assembly a level of remuneration which—
   - (i) fairly reflects the complexity and importance of their functions as members of the Assembly; and
-  - (ii) does not, on financial grounds, deter people with the necessary commitment and ability from seeking election to the Assembly; [^key-c96d86e6c166724d2f5e17a3ac110593]...
-- (c)[^key-c96d86e6c166724d2f5e17a3ac110593] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) does not, on financial grounds, deter people with the necessary commitment and ability from seeking election to the Assembly; [^c-c96d86e6c166724d2f5e17a3ac110593]...
+- (c)[^c-c96d86e6c166724d2f5e17a3ac110593] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-c4c3f961da16dd2c14140ab294755474] In exercising its function under subsection (1)(a), the Board must have regard to the salaries payable to members of—
+(2A)[^c-c4c3f961da16dd2c14140ab294755474] In exercising its function under subsection (1)(a), the Board must have regard to the salaries payable to members of—
 
 - (a) the House of Commons;
 - (b) the Scottish Parliament;
@@ -112,7 +112,7 @@ if, in the opinion of the Board, the nature of that matter makes it appropriate 
 
 (3) A person may not be appointed to be a Board member if that person has already been appointed to be a Board member on two occasions.
 
-(4)[^key-96b50a73ca0ee7f1eb2e26783cdada5b] At any one time no more than one Board member may be a former member of the Assembly.
+(4)[^c-96b50a73ca0ee7f1eb2e26783cdada5b] At any one time no more than one Board member may be a former member of the Assembly.
 
 #### 5. Disqualification from membership of the Board
 
@@ -134,11 +134,11 @@ if, in the opinion of the Board, the nature of that matter makes it appropriate 
 (2) The Commission may dismiss a person from office as a Board member if it is satisfied that—
 
 - (a) the person has been convicted of a criminal offence;
-- (b) the person has become bankrupt or is the subject of a bankruptcy restrictions order[^key-ed20280024c91a4644b37ecd8417626b] or has had a debt relief order made in respect[^key-b9edf22df4d3a376efb790bc8de56bee] of them[^key-4234558ff6f6989093334749e9560b5b] or is the subject of a debt relief restrictions order or made an arrangement or composition with the person's creditors;
+- (b) the person has become bankrupt or is the subject of a bankruptcy restrictions order[^c-ed20280024c91a4644b37ecd8417626b] or has had a debt relief order made in respect[^c-b9edf22df4d3a376efb790bc8de56bee] of them[^c-4234558ff6f6989093334749e9560b5b] or is the subject of a debt relief restrictions order or made an arrangement or composition with the person's creditors;
 - (c) the person has without reasonable excuse failed to discharge the functions of a Board member for a continuous period of 3 months beginning not earlier than 6 months before the day of dismissal;
 - (d) the person is unfit or unable to carry out those functions.
 
-#### 6A. Temporary appointments[^key-f2f5490a1b428eb54fc8b841ca295424]
+#### 6A. Temporary appointments[^c-f2f5490a1b428eb54fc8b841ca295424]
 
 (1) The Commission may appoint a temporary Chair where a person ceases to be Chair (whether at the end of their term of appointment or otherwise) and—
 
@@ -196,7 +196,7 @@ The Board shall, as soon as practicable after the end of each financial year, pr
 
 (1) Subject to section 11, the Board shall determine its own procedure and when it is to meet.
 
-(2) The validity of the Board’s[^key-9e702e65556f10ef5ce214622efe9618] proceedings and determinations shall not be affected by—
+(2) The validity of the Board’s[^c-9e702e65556f10ef5ce214622efe9618] proceedings and determinations shall not be affected by—
 
 - (a) a vacancy among the Board members; or
 - (b) a defect in the appointment of any Board member.
@@ -221,11 +221,11 @@ The Board shall, as soon as practicable after the end of each financial year, pr
 
 as the case may be.
 
-(4) Subject to subsection (6), the Board shall, so far as reasonably practicable, make the determinations referred to in section 2(1) at least 6 months before the date of the poll[^key-03f06daaf21947a4dc5e4fb4b22acb8e] for the election of the Assembly in respect of which the determination is made.
+(4) Subject to subsection (6), the Board shall, so far as reasonably practicable, make the determinations referred to in section 2(1) at least 6 months before the date of the poll[^c-03f06daaf21947a4dc5e4fb4b22acb8e] for the election of the Assembly in respect of which the determination is made.
 
 (5) The Board shall, as soon as reasonably practicable after its establishment, make the determinations referred to in section 2(1) in respect of the Assembly existing at that time.
 
-(5A)[^key-858f4515aebffb92b8b930d16021936f] Before making a determination under section 2(1) the Board shall—
+(5A)[^c-858f4515aebffb92b8b930d16021936f] Before making a determination under section 2(1) the Board shall—
 
 - (a) publish a draft determination;
 - (b) consult the following on the draft—
@@ -243,7 +243,7 @@ as the case may be.
 
 (8) For the purposes of subsection (3)(b), the occurrence of an election for which the poll is directed under section 32(4) of the 1998 Act does not in itself give rise to exceptional circumstances.
 
-(8A)[^key-74746d93f6027f2e34daacf70c851c00] Before forming such an opinion as is referred to in subsection (3)(b), the Board must consult the Commission.
+(8A)[^c-74746d93f6027f2e34daacf70c851c00] Before forming such an opinion as is referred to in subsection (3)(b), the Board must consult the Commission.
 
 (9) If the Board forms such an opinion as is referred to in subsection (3), it shall—
 
@@ -254,13 +254,13 @@ at the same time as it communicates to the Commission the determination to which
 
 (10) The Commission shall publish any statement made under subsection (9) as if it were a determination.
 
-#### 12. Contents of determinations: salaries ...[^key-688b1067c966adf37c5b67a08a58c799][^key-ad063faa0f4adc7aab7bd00f43f99581][^key-516dab98e3d47e11d8658c79dd937b0f]
+#### 12. Contents of determinations: salaries ...[^c-688b1067c966adf37c5b67a08a58c799][^c-ad063faa0f4adc7aab7bd00f43f99581][^c-516dab98e3d47e11d8658c79dd937b0f]
 
 (1) This section applies to any determination made under section 2(1)(a).
 
 (2) A determination to which this section applies may make different provision for different cases (for example, provision for higher salaries to be payable to Ministers or other office holders).
 
-(3) A determination to which this section applies shall ensure that, if a salary is payable to a member of the Assembly (“M”) as a member of the House of Lords[^key-5b15a6e6878095591253a5f4625c41b8] or as a member of the European Parliament—
+(3) A determination to which this section applies shall ensure that, if a salary is payable to a member of the Assembly (“M”) as a member of the House of Lords[^c-5b15a6e6878095591253a5f4625c41b8] or as a member of the European Parliament—
 
 - (a) if M does not hold an office within subsection (6), no salary is payable to M under section 47 of the 1998 Act;
 - (b) if M holds an office within subsection (6), the salary which would otherwise be payable to M under section 47 of the 1998 Act is reduced by the appropriate amount.
@@ -285,13 +285,13 @@ at the same time as it communicates to the Commission the determination to which
 - “**junior Minister**” means a person appointed as a junior Minister under section 19 of the 1998 Act;
 - “**Minister**” has the meaning given by section 7(3) of the 1998 Act.
 
-#### 13. Contents of determinations: pensions and gratuities[^key-903e2c35e58da704e1bcf0b5cf38f4f5]
+#### 13. Contents of determinations: pensions and gratuities[^c-903e2c35e58da704e1bcf0b5cf38f4f5]
 
 (1) This section applies to any determination made under section 2(1)(b).
 
 (2) A determination to which this section applies may include provision for—
 
-- (a) contributions or payments towards provision for pensions or gratuities[^key-801b35cd8ea4152c7f776288b316f93f];
+- (a) contributions or payments towards provision for pensions or gratuities[^c-801b35cd8ea4152c7f776288b316f93f];
 - (b) the establishment and administration (whether by the Commission or otherwise) of one or more pension schemes.
 
 (3) Where any salary payable to a person under section 47 of the 1998 Act is not payable because of either or both of sections 47A and 47B of that Act, any provision made under this section for the payment of pensions which has effect in relation to that person shall apply as if the salary were payable.
@@ -309,7 +309,7 @@ at the same time as it communicates to the Commission the determination to which
 
 #### 15. Meaning of “the Board”
 
-In this Part “**the Board**” means the Independent Remuneration Board[^key-0edd7bc47746c2cf35ad4bbe04c0e9aa] established by section 1(1).
+In this Part “**the Board**” means the Independent Remuneration Board[^c-0edd7bc47746c2cf35ad4bbe04c0e9aa] established by section 1(1).
 
 ## PART 2 — THE NORTHERN IRELAND ASSEMBLY COMMISSIONER FOR STANDARDS
 
@@ -321,18 +321,18 @@ In this Part “**the Board**” means the Independent Remuneration Board[^key-0
 
 (2) The person for the time being holding office as Northern Ireland Assembly Commissioner for Standards shall be, by the name of that office, a corporation sole.
 
-#### 17. Functions of the Commissioner[^key-18409b624eae158b353f62612e317b7b]
+#### 17. Functions of the Commissioner[^c-18409b624eae158b353f62612e317b7b]
 
 (1) The functions of the Commissioner are—
 
-- (a) where a person has made a complaint or referral to which subsection (2) applies, to investigate the complaint or referral in accordance with the provisions of this Part, provided the Commissioner is satisfied in the case of a complaint that it is not frivolous or vexatious or otherwise an abuse of the complaints process[^key-fedb29768678a22d573e43f7c8b249bc];
-- (b) to initiate an investigation in accordance with the provisions of this Part if the Commissioner believes that, at a relevant time, a breach of the Code of Conduct or the Ministerial Code, or both,[^key-06af91f2df7eadd77310c1de8e99c0a2] may have occurred;
+- (a) where a person has made a complaint or referral to which subsection (2) applies, to investigate the complaint or referral in accordance with the provisions of this Part, provided the Commissioner is satisfied in the case of a complaint that it is not frivolous or vexatious or otherwise an abuse of the complaints process[^c-fedb29768678a22d573e43f7c8b249bc];
+- (b) to initiate an investigation in accordance with the provisions of this Part if the Commissioner believes that, at a relevant time, a breach of the Code of Conduct or the Ministerial Code, or both,[^c-06af91f2df7eadd77310c1de8e99c0a2] may have occurred;
 - (c) to report to the Assembly on the outcome of any investigation under this section; and
-- (d) on the Commissioner's own initiative, or if requested by the Assembly, to give advice on any matter of general principle relating to standards of conduct of members of the Assembly including Ministers[^key-58c77ba8af4dbb47d808e9da987e5294].
+- (d) on the Commissioner's own initiative, or if requested by the Assembly, to give advice on any matter of general principle relating to standards of conduct of members of the Assembly including Ministers[^c-58c77ba8af4dbb47d808e9da987e5294].
 
 (2) This subsection applies to—
 
-- (a) a complaint to the Commissioner that, at a relevant time, a breach of the Code of Conduct or the Ministerial Code, or both,[^key-065733f24a275433416b63903221f6f3] has occurred;
+- (a) a complaint to the Commissioner that, at a relevant time, a breach of the Code of Conduct or the Ministerial Code, or both,[^c-065733f24a275433416b63903221f6f3] has occurred;
 - (b) a referral to the Commissioner made by any person specified in the standing orders as being a person who may make referrals in relation to any matter specified in the standing orders as being a matter in respect of which the Commissioner must carry out an investigation.
 
 (3) In this section—
@@ -342,8 +342,8 @@ In this Part “**the Board**” means the Independent Remuneration Board[^key-0
   - (b) any guide to the rules relating to the conduct of members of the Assembly,
 
   which has been agreed to by the Assembly; and
-- the Ministerial Code” means the Ministerial Code of Conduct set out in Schedule 4 to the 1998 Act;[^key-00575b73600c6b1d9765649bc7a1f153]
-- a “**relevant time**” means a time (whether before or after this section comes into operation) when a requirement to comply with the Code of Conduct or the Ministerial Code, or both,[^key-30354c29599ae477530ddd633ab21697] was in force.
+- the Ministerial Code” means the Ministerial Code of Conduct set out in Schedule 4 to the 1998 Act;[^c-00575b73600c6b1d9765649bc7a1f153]
+- a “**relevant time**” means a time (whether before or after this section comes into operation) when a requirement to comply with the Code of Conduct or the Ministerial Code, or both,[^c-30354c29599ae477530ddd633ab21697] was in force.
 
 ### Independent status
 
@@ -437,23 +437,23 @@ Schedule 4 makes further provision about the Commissioner.
 
 ### Investigations
 
-#### 25. Investigations by the Commissioner[^key-d90d5c2f4e09dc75e35ae9f565f32349]
+#### 25. Investigations by the Commissioner[^c-d90d5c2f4e09dc75e35ae9f565f32349]
 
 The Commissioner shall determine the procedure for and timing of—
 
 - (a) any specific investigation; and
 - (b) the report to the Assembly on the outcome of that investigation.
 
-#### 26. Further investigations[^key-47a2cc3b8a7e9e524d338b6374d8144f]
+#### 26. Further investigations[^c-47a2cc3b8a7e9e524d338b6374d8144f]
 
 Following receipt of a report from the Commissioner the Assembly may request the Commissioner to carry out such further investigation as may be specified in the request, and the Commissioner shall report to the Assembly—
 
 - (a) on the outcome of the further investigation; or
 - (b) that on considering the request the Commissioner has concluded that the further investigation would be unnecessary and the reasons for that conclusion.
 
-#### 27. Reports[^key-769355e8bc59a81c4b51a3e490f72c79]
+#### 27. Reports[^c-769355e8bc59a81c4b51a3e490f72c79]
 
-(1) A report made by the Commissioner under this Part may not include any specific recommendation for the imposition of a sanction on a member of the Assembly or Minister[^key-26aa5b7e004744c17a585c6699105b16] but may otherwise make such recommendations as the Commissioner thinks fit.
+(1) A report made by the Commissioner under this Part may not include any specific recommendation for the imposition of a sanction on a member of the Assembly or Minister[^c-26aa5b7e004744c17a585c6699105b16] but may otherwise make such recommendations as the Commissioner thinks fit.
 
 (2) A report made by the Commissioner under this Part shall be in writing.
 
@@ -466,7 +466,7 @@ Following receipt of a report from the Commissioner the Assembly may request the
 
 ### Investigatory powers of the Commissioner
 
-#### 28. Power to call for witnesses and documents[^key-2e152a05ab3944b76f59dfa8bf18d2b8]
+#### 28. Power to call for witnesses and documents[^c-2e152a05ab3944b76f59dfa8bf18d2b8]
 
 (1) In carrying out any investigation under this Part the Commissioner may require any person—
 
@@ -487,7 +487,7 @@ relating to the investigation.
 
 (5) The Commissioner may agree the payment to persons giving evidence, or producing documents relating to an investigation (whether or not as the result of a requirement imposed under this section), of such reasonable allowances and expenses as the Commissioner may determine.
 
-#### 29. Witnesses and documents: notice[^key-ebdce0d766d910b16fd513dc32ff4660]
+#### 29. Witnesses and documents: notice[^c-ebdce0d766d910b16fd513dc32ff4660]
 
 (1) The Commissioner shall impose any requirement under section 28 on a person by giving that person notice in writing specifying—
 
@@ -504,14 +504,14 @@ relating to the investigation.
 - (a) by a registered post service (within the meaning of the Postal Services Act 2000 (c. 26)); or
 - (b) by a postal service which provides for its delivery by post to be recorded.
 
-#### 30. Witnesses: oaths[^key-089d45e2f44efd7cb8370b815396c736]
+#### 30. Witnesses: oaths[^c-089d45e2f44efd7cb8370b815396c736]
 
 The Commissioner may—
 
 - (a) administer an oath to any person giving evidence to the Commissioner; and
 - (b) require that person to take an oath.
 
-#### 31. Offences[^key-ab505e8eb2c1771aae539d3dca64665d]
+#### 31. Offences[^c-ab505e8eb2c1771aae539d3dca64665d]
 
 (1) Subject to section 28(3), a person to whom a notice has been given under section 29(1) who—
 
@@ -531,7 +531,7 @@ is guilty of an offence.
 - (a) to a fine not exceeding level 5 on the standard scale; or
 - (b) to imprisonment for a period not exceeding 3 months.
 
-#### 32. Protection from defamation actions[^key-89e074b1e8ad5982eda5cd08cafc8d98]
+#### 32. Protection from defamation actions[^c-89e074b1e8ad5982eda5cd08cafc8d98]
 
 (1) For the purposes of the law of defamation, any statement made in pursuance of the purposes of this Part—
 
@@ -540,7 +540,7 @@ is guilty of an offence.
 
 (2) In subsection (1), “**statement**” has the same meaning as in the Defamation Act 1996 (c. 31).
 
-#### 33. Restriction on disclosure of information[^key-0d8121b95f88731f2981bdd5ed7ca4c3]
+#### 33. Restriction on disclosure of information[^c-0d8121b95f88731f2981bdd5ed7ca4c3]
 
 (1) Subject to subsection (2), the Commissioner, or any person who has (at any time and in any capacity) assisted the Commissioner in the discharge of functions under this Act, shall not disclose any information contained in any complaint or referral, or any information which is furnished to or obtained by the Commissioner or such person in the course of, or for the purposes of, an investigation under this Part.
 
@@ -618,7 +618,7 @@ Section 5.
 - (a) a member of the Assembly;
 - (b) a family member of a member of the Assembly;
 - (c) a candidate for election to the Assembly;
-- (d)[^key-3aeab69025eca692fa8e9a4c46e1ad1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3aeab69025eca692fa8e9a4c46e1ad1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a member of the European Parliament, the House of Commons, the House of Lords, the Scottish Parliament, the National Assembly for Wales, Dáil Éireann (House of Representatives of Ireland) or the Seanad Éireann (Senate of Ireland);
 - (f) a councillor;
 - (g) a person employed by a political party;
@@ -639,7 +639,7 @@ Section 5.
 **3.** In this Schedule—
 
 - “**civil partner**” has the same meaning as in section 1 of the Civil Partnership Act 2004 (c. 33);
-- “**cohabitant**” means either member of a couple consisting of two people who are living together as if spouses of each other[^key-5a7bcb02fa4da891337604bbcecdcd76];
+- “**cohabitant**” means either member of a couple consisting of two people who are living together as if spouses of each other[^c-5a7bcb02fa4da891337604bbcecdcd76];
 - “**councillor**” means a member of a district council;
 - “**family member**” means—
   - (a) parent, child, grandparent or grandchild;
@@ -702,7 +702,7 @@ Section 20.
 **3.** In this Schedule—
 
 - “**civil partner**” has the same meaning as in section 1 of the Civil Partnership Act 2004 (c. 33);
-- “**cohabitant**” means either member of a couple consisting of two people who are living together as if spouses of each other[^key-280fa7f258185bbc703813776c9eb802];
+- “**cohabitant**” means either member of a couple consisting of two people who are living together as if spouses of each other[^c-280fa7f258185bbc703813776c9eb802];
 - “**councillor**” means a member of a district council;
 - “**family member**” means—
   - (a) parent, child, grandparent or grandchild;
@@ -789,7 +789,7 @@ Section 36.
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**2.**[^key-4ea7e3480e56e32181c698e0535853cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4ea7e3480e56e32181c698e0535853cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Freedom of Information Act 2000 (c. 36)
 
@@ -797,90 +797,90 @@ Section 36.
 
 ## Annotations
 
-[^key-bb50d5cb1645655b8592c28bf3943707]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/nia/2011/17/part/1) heading substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(a)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-bb50d5cb1645655b8592c28bf3943707]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/nia/2011/17/part/1) heading substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(a)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-27f0f9ff73ddacaf6a3db8f9e67de2b1]: Textual amendment: Words in Act (except Sch. 5) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(b)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/b), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-27f0f9ff73ddacaf6a3db8f9e67de2b1]: Textual amendment: Words in Act (except Sch. 5) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(b)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/b), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-fe45c5d36597c3e8e4976809bfd69466]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/nia/2011/17/section/1/1) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(a)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-fe45c5d36597c3e8e4976809bfd69466]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/nia/2011/17/section/1/1) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(a)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-943ffa1fcc4239e3bb28c47f2348d096]: Textual amendment: Words in [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2011/17/section/2/1/a) omitted (17.9.2025) by virtue of [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/5/section/2/1/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-943ffa1fcc4239e3bb28c47f2348d096]: Textual amendment: Words in [s. 2(1)(a)](https://www.legislation.gov.uk/nia/2011/17/section/2/1/a) omitted (17.9.2025) by virtue of [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(1)(a)](https://www.legislation.gov.uk/nia/2025/5/section/2/1/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-d73633c1fccefa9c84d05ad57858493b]: Textual amendment: Words in [s. 2(1)(b)](https://www.legislation.gov.uk/nia/2011/17/section/2/1/b) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(1)(b)](https://www.legislation.gov.uk/nia/2025/5/section/2/1/b), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-d73633c1fccefa9c84d05ad57858493b]: Textual amendment: Words in [s. 2(1)(b)](https://www.legislation.gov.uk/nia/2011/17/section/2/1/b) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(1)(b)](https://www.legislation.gov.uk/nia/2025/5/section/2/1/b), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-c96d86e6c166724d2f5e17a3ac110593]: Textual amendment: [S. 2(1)(c)](https://www.legislation.gov.uk/nia/2011/17/section/2/1/c) and word omitted (17.9.2025) by virtue of [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(1)(c)](https://www.legislation.gov.uk/nia/2025/5/section/2/1/c), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-c96d86e6c166724d2f5e17a3ac110593]: Textual amendment: [S. 2(1)(c)](https://www.legislation.gov.uk/nia/2011/17/section/2/1/c) and word omitted (17.9.2025) by virtue of [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(1)(c)](https://www.legislation.gov.uk/nia/2025/5/section/2/1/c), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-c4c3f961da16dd2c14140ab294755474]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/nia/2011/17/section/2/2A) inserted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 3](https://www.legislation.gov.uk/nia/2025/5/section/3), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-c4c3f961da16dd2c14140ab294755474]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/nia/2011/17/section/2/2A) inserted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 3](https://www.legislation.gov.uk/nia/2025/5/section/3), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-96b50a73ca0ee7f1eb2e26783cdada5b]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/nia/2011/17/section/4/4) added (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 5(2)](https://www.legislation.gov.uk/nia/2025/5/section/5/2), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-96b50a73ca0ee7f1eb2e26783cdada5b]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/nia/2011/17/section/4/4) added (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 5(2)](https://www.legislation.gov.uk/nia/2025/5/section/5/2), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-ed20280024c91a4644b37ecd8417626b]: Textual amendment: Words in s. 6(2)(b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 20](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/20)
+[^c-ed20280024c91a4644b37ecd8417626b]: Textual amendment: Words in s. 6(2)(b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 20](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/20)
 
-[^key-b9edf22df4d3a376efb790bc8de56bee]: Textual amendment: Words in [s. 6(2)(b)](https://www.legislation.gov.uk/nia/2011/17/section/6/2/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 26](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/26)
+[^c-b9edf22df4d3a376efb790bc8de56bee]: Textual amendment: Words in [s. 6(2)(b)](https://www.legislation.gov.uk/nia/2011/17/section/6/2/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 26](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/26)
 
-[^key-4234558ff6f6989093334749e9560b5b]: Textual amendment: Words in [s. 6(2)(b)](https://www.legislation.gov.uk/nia/2011/17/section/6/2/b) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(1)](https://www.legislation.gov.uk/nia/2025/5/section/7/1), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-4234558ff6f6989093334749e9560b5b]: Textual amendment: Words in [s. 6(2)(b)](https://www.legislation.gov.uk/nia/2011/17/section/6/2/b) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(1)](https://www.legislation.gov.uk/nia/2025/5/section/7/1), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-f2f5490a1b428eb54fc8b841ca295424]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/nia/2011/17/section/6A) inserted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 4](https://www.legislation.gov.uk/nia/2025/5/section/4), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-f2f5490a1b428eb54fc8b841ca295424]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/nia/2011/17/section/6A) inserted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 4](https://www.legislation.gov.uk/nia/2025/5/section/4), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-9e702e65556f10ef5ce214622efe9618]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/nia/2011/17) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(c)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/c), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-9e702e65556f10ef5ce214622efe9618]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/nia/2011/17) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(c)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/c), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-03f06daaf21947a4dc5e4fb4b22acb8e]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/nia/2011/17/section/11/4) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 6(2)](https://www.legislation.gov.uk/nia/2025/5/section/6/2), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-03f06daaf21947a4dc5e4fb4b22acb8e]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/nia/2011/17/section/11/4) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 6(2)](https://www.legislation.gov.uk/nia/2025/5/section/6/2), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-858f4515aebffb92b8b930d16021936f]: Textual amendment: [S. 11(5A)](https://www.legislation.gov.uk/nia/2011/17/section/11/5A) inserted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 6(3)](https://www.legislation.gov.uk/nia/2025/5/section/6/3), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-858f4515aebffb92b8b930d16021936f]: Textual amendment: [S. 11(5A)](https://www.legislation.gov.uk/nia/2011/17/section/11/5A) inserted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 6(3)](https://www.legislation.gov.uk/nia/2025/5/section/6/3), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-74746d93f6027f2e34daacf70c851c00]: Textual amendment: [S. 11(8A)](https://www.legislation.gov.uk/nia/2011/17/section/11/8A) inserted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 6(4)](https://www.legislation.gov.uk/nia/2025/5/section/6/4), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-74746d93f6027f2e34daacf70c851c00]: Textual amendment: [S. 11(8A)](https://www.legislation.gov.uk/nia/2011/17/section/11/8A) inserted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 6(4)](https://www.legislation.gov.uk/nia/2025/5/section/6/4), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-688b1067c966adf37c5b67a08a58c799]: Modification: [S. 12](https://www.legislation.gov.uk/nia/2011/17/section/12) applied (28.3.2018) by [Northern Ireland Assembly Members (Pay) Act 2018 (c. 7)](https://www.legislation.gov.uk/ukpga/2018/7), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2018/7/section/1/6), [2(2)](https://www.legislation.gov.uk/ukpga/2018/7/section/2/2)
+[^c-688b1067c966adf37c5b67a08a58c799]: Modification: [S. 12](https://www.legislation.gov.uk/nia/2011/17/section/12) applied (28.3.2018) by [Northern Ireland Assembly Members (Pay) Act 2018 (c. 7)](https://www.legislation.gov.uk/ukpga/2018/7), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2018/7/section/1/6), [2(2)](https://www.legislation.gov.uk/ukpga/2018/7/section/2/2)
 
-[^key-ad063faa0f4adc7aab7bd00f43f99581]: Modification: [S. 12](https://www.legislation.gov.uk/nia/2011/17/section/12) applied (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2022/48/section/10/4), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-ad063faa0f4adc7aab7bd00f43f99581]: Modification: [S. 12](https://www.legislation.gov.uk/nia/2011/17/section/12) applied (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2022/48/section/10/4), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-516dab98e3d47e11d8658c79dd937b0f]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/nia/2011/17/part/1/crossheading/determinations) heading omitted (17.9.2025) by virtue of [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(2)](https://www.legislation.gov.uk/nia/2025/5/section/2/2), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-516dab98e3d47e11d8658c79dd937b0f]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/nia/2011/17/part/1/crossheading/determinations) heading omitted (17.9.2025) by virtue of [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(2)](https://www.legislation.gov.uk/nia/2025/5/section/2/2), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-5b15a6e6878095591253a5f4625c41b8]: Textual amendment: Words in [s. 12(3)](https://www.legislation.gov.uk/nia/2011/17/section/12/3) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(2)](https://www.legislation.gov.uk/nia/2025/5/section/7/2), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-5b15a6e6878095591253a5f4625c41b8]: Textual amendment: Words in [s. 12(3)](https://www.legislation.gov.uk/nia/2011/17/section/12/3) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(2)](https://www.legislation.gov.uk/nia/2025/5/section/7/2), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-903e2c35e58da704e1bcf0b5cf38f4f5]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/nia/2011/17/part/1/crossheading/determinations) heading substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(3)(a)](https://www.legislation.gov.uk/nia/2025/5/section/2/3/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-903e2c35e58da704e1bcf0b5cf38f4f5]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/nia/2011/17/part/1/crossheading/determinations) heading substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(3)(a)](https://www.legislation.gov.uk/nia/2025/5/section/2/3/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-801b35cd8ea4152c7f776288b316f93f]: Textual amendment: Words in [s. 13(2)(a)](https://www.legislation.gov.uk/nia/2011/17/section/13/2/a) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(3)(b)](https://www.legislation.gov.uk/nia/2025/5/section/2/3/b), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-801b35cd8ea4152c7f776288b316f93f]: Textual amendment: Words in [s. 13(2)(a)](https://www.legislation.gov.uk/nia/2011/17/section/13/2/a) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 2(3)(b)](https://www.legislation.gov.uk/nia/2025/5/section/2/3/b), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-0edd7bc47746c2cf35ad4bbe04c0e9aa]: Textual amendment: Words in [s. 15](https://www.legislation.gov.uk/nia/2011/17/section/15) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(a)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-0edd7bc47746c2cf35ad4bbe04c0e9aa]: Textual amendment: Words in [s. 15](https://www.legislation.gov.uk/nia/2011/17/section/15) substituted (17.9.2025) by [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 7(3)(a)](https://www.legislation.gov.uk/nia/2025/5/section/7/3/a), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-18409b624eae158b353f62612e317b7b]: Commencement: S. 17 in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/334/article/2/a)
+[^c-18409b624eae158b353f62612e317b7b]: Commencement: S. 17 in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/334/article/2/a)
 
-[^key-fedb29768678a22d573e43f7c8b249bc]: Textual amendment: Words in [s. 17(1)(a)](https://www.legislation.gov.uk/nia/2011/17/section/17/1/a) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(2)](https://www.legislation.gov.uk/nia/2021/3/section/5/2), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-fedb29768678a22d573e43f7c8b249bc]: Textual amendment: Words in [s. 17(1)(a)](https://www.legislation.gov.uk/nia/2011/17/section/17/1/a) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(2)](https://www.legislation.gov.uk/nia/2021/3/section/5/2), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-06af91f2df7eadd77310c1de8e99c0a2]: Textual amendment: Words in [s. 17(1)(b)](https://www.legislation.gov.uk/nia/2011/17/section/17/1/b) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(3)](https://www.legislation.gov.uk/nia/2021/3/section/5/3), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-06af91f2df7eadd77310c1de8e99c0a2]: Textual amendment: Words in [s. 17(1)(b)](https://www.legislation.gov.uk/nia/2011/17/section/17/1/b) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(3)](https://www.legislation.gov.uk/nia/2021/3/section/5/3), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-58c77ba8af4dbb47d808e9da987e5294]: Textual amendment: Words in [s. 17(1)(d)](https://www.legislation.gov.uk/nia/2011/17/section/17/1/d) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(4)](https://www.legislation.gov.uk/nia/2021/3/section/5/4), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-58c77ba8af4dbb47d808e9da987e5294]: Textual amendment: Words in [s. 17(1)(d)](https://www.legislation.gov.uk/nia/2011/17/section/17/1/d) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(4)](https://www.legislation.gov.uk/nia/2021/3/section/5/4), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-065733f24a275433416b63903221f6f3]: Textual amendment: Words in [s. 17(2)(a)](https://www.legislation.gov.uk/nia/2011/17/section/17/2/a) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(5)](https://www.legislation.gov.uk/nia/2021/3/section/5/5), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-065733f24a275433416b63903221f6f3]: Textual amendment: Words in [s. 17(2)(a)](https://www.legislation.gov.uk/nia/2011/17/section/17/2/a) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(5)](https://www.legislation.gov.uk/nia/2021/3/section/5/5), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-00575b73600c6b1d9765649bc7a1f153]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/nia/2011/17/section/17/3) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(6)](https://www.legislation.gov.uk/nia/2021/3/section/5/6), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-00575b73600c6b1d9765649bc7a1f153]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/nia/2011/17/section/17/3) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(6)](https://www.legislation.gov.uk/nia/2021/3/section/5/6), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-30354c29599ae477530ddd633ab21697]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/nia/2011/17/section/17/3) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(7)](https://www.legislation.gov.uk/nia/2021/3/section/5/7), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-30354c29599ae477530ddd633ab21697]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/nia/2011/17/section/17/3) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(7)](https://www.legislation.gov.uk/nia/2021/3/section/5/7), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-d90d5c2f4e09dc75e35ae9f565f32349]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2011/17/section/25) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/334/article/2/b)
+[^c-d90d5c2f4e09dc75e35ae9f565f32349]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2011/17/section/25) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/334/article/2/b)
 
-[^key-47a2cc3b8a7e9e524d338b6374d8144f]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2011/17/section/26) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/334/article/2/b)
+[^c-47a2cc3b8a7e9e524d338b6374d8144f]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2011/17/section/26) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/334/article/2/b)
 
-[^key-769355e8bc59a81c4b51a3e490f72c79]: Commencement: S. 27 in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/334/article/2/b)
+[^c-769355e8bc59a81c4b51a3e490f72c79]: Commencement: S. 27 in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/334/article/2/b)
 
-[^key-26aa5b7e004744c17a585c6699105b16]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/nia/2011/17/section/27/1) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(8)](https://www.legislation.gov.uk/nia/2021/3/section/5/8), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
+[^c-26aa5b7e004744c17a585c6699105b16]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/nia/2011/17/section/27/1) inserted (22.3.2021) by [Functioning of Government (Miscellaneous Provisions) Act (Northern Ireland) 2021 (c. 3)](https://www.legislation.gov.uk/nia/2021/3), [ss. 5(8)](https://www.legislation.gov.uk/nia/2021/3/section/5/8), [14(2)](https://www.legislation.gov.uk/nia/2021/3/section/14/2)
 
-[^key-2e152a05ab3944b76f59dfa8bf18d2b8]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2011/17/section/28) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
+[^c-2e152a05ab3944b76f59dfa8bf18d2b8]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2011/17/section/28) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
 
-[^key-ebdce0d766d910b16fd513dc32ff4660]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2011/17/section/29) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
+[^c-ebdce0d766d910b16fd513dc32ff4660]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2011/17/section/29) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
 
-[^key-089d45e2f44efd7cb8370b815396c736]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2011/17/section/30) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
+[^c-089d45e2f44efd7cb8370b815396c736]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2011/17/section/30) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
 
-[^key-ab505e8eb2c1771aae539d3dca64665d]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2011/17/section/31) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
+[^c-ab505e8eb2c1771aae539d3dca64665d]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2011/17/section/31) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
 
-[^key-89e074b1e8ad5982eda5cd08cafc8d98]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2011/17/section/32) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
+[^c-89e074b1e8ad5982eda5cd08cafc8d98]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2011/17/section/32) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
 
-[^key-0d8121b95f88731f2981bdd5ed7ca4c3]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2011/17/section/33) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
+[^c-0d8121b95f88731f2981bdd5ed7ca4c3]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2011/17/section/33) in operation at 17.9.2012 by [S.R. 2012/334](https://www.legislation.gov.uk/nisr/2012/334), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/334/article/2/c)
 
-[^key-3aeab69025eca692fa8e9a4c46e1ad1a]: Textual amendment: [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/nia/2011/17/schedule/1/paragraph/1/d) omitted (17.9.2025) by virtue of [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 5(1)](https://www.legislation.gov.uk/nia/2025/5/section/5/1), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
+[^c-3aeab69025eca692fa8e9a4c46e1ad1a]: Textual amendment: [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/nia/2011/17/schedule/1/paragraph/1/d) omitted (17.9.2025) by virtue of [Assembly Members (Independent Remuneration Board) Act (Northern Ireland) 2025 (c. 5)](https://www.legislation.gov.uk/nia/2025/5), [ss. 5(1)](https://www.legislation.gov.uk/nia/2025/5/section/5/1), [10](https://www.legislation.gov.uk/nia/2025/5/section/10)
 
-[^key-5a7bcb02fa4da891337604bbcecdcd76]: Textual amendment: Words in Sch. 1 para. 3 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [166(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/166/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-5a7bcb02fa4da891337604bbcecdcd76]: Textual amendment: Words in Sch. 1 para. 3 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [166(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/166/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-280fa7f258185bbc703813776c9eb802]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2011/17/schedule/3/paragraph/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [166(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/166/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-280fa7f258185bbc703813776c9eb802]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2011/17/schedule/3/paragraph/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [166(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/166/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-4ea7e3480e56e32181c698e0535853cb]: Textual amendment: Sch. 5 para. 2 repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with ss. 23, 50(3))
+[^c-4ea7e3480e56e32181c698e0535853cb]: Textual amendment: Sch. 5 para. 2 repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with ss. 23, 50(3))

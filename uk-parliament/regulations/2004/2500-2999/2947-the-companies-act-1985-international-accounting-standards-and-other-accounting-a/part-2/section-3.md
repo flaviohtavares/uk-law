@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Consequential amendments[^key-f5dbd65324f2094c37b6091472e08080]
+## 3. Consequential amendments[^c-f5dbd65324f2094c37b6091472e08080]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 1 (IAS accounts: consequential amendments to the 1985 Act) has effect.
 
 ## Annotations
 
-[^key-f5dbd65324f2094c37b6091472e08080]: Commencement: Reg. 3 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-f5dbd65324f2094c37b6091472e08080]: Commencement: Reg. 3 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)

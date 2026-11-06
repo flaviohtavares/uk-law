@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Powers of entry, inspection and seizure[^key-b0df0bdbfc1117e2c6202ce4417ccd91][^M_F_92ac7084-a57e-4dd4-8e4c-66259242d7de]
+## 15. Powers of entry, inspection and seizure[^c-b0df0bdbfc1117e2c6202ce4417ccd91][^M_F_92ac7084-a57e-4dd4-8e4c-66259242d7de]
 
 *Extent: S*
 
@@ -82,7 +82,7 @@ commits an offence.
 
 ## Annotations
 
-[^key-b0df0bdbfc1117e2c6202ce4417ccd91]: Commencement: S. 15 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-b0df0bdbfc1117e2c6202ce4417ccd91]: Commencement: S. 15 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^M_F_92ac7084-a57e-4dd4-8e4c-66259242d7de]: Textual amendment: S. 15 heading substituted (29.6.2018) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 197(2)](https://www.legislation.gov.uk/asp/2010/13/section/197/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(b)](https://www.legislation.gov.uk/ssi/2018/102/article/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2018/102/article/4))
 

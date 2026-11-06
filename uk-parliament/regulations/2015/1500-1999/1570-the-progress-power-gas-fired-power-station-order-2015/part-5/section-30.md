@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Apparatus and rights of statutory undertakers in streets subject to temporary prohibition or restriction[^key-927e4168038e21c77e9103f13534fc19]
+## 30. Apparatus and rights of statutory undertakers in streets subject to temporary prohibition or restriction[^c-927e4168038e21c77e9103f13534fc19]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a street is temporarily altered or diverted or its use is temporarily proh
 
 ## Annotations
 
-[^key-927e4168038e21c77e9103f13534fc19]: Commencement: Art. 30 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-927e4168038e21c77e9103f13534fc19]: Commencement: Art. 30 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

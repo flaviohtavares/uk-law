@@ -674,7 +674,7 @@ Section 237.
 </tbody>
 </table>
 
-[^c9691011][^c9691011][^c9691011][^key-c9ba1373910de1889fb0fafad4e8643d][^key-c9ba1373910de1889fb0fafad4e8643d][^key-c9ba1373910de1889fb0fafad4e8643d][^c9691041][^c9691041][^c9691061]
+[^c9691011][^c9691011][^c9691011][^c-c9ba1373910de1889fb0fafad4e8643d][^c-c9ba1373910de1889fb0fafad4e8643d][^c-c9ba1373910de1889fb0fafad4e8643d][^c9691041][^c9691041][^c9691061]
 
 ## Annotations
 
@@ -682,7 +682,7 @@ Section 237.
 
 [^c9691011]: Textual amendment: Entries repealed by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [Sch. 7](https://www.legislation.gov.uk/ukpga/1975/30/schedule/7)
 
-[^key-c9ba1373910de1889fb0fafad4e8643d]: Textual amendment: Words in [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
+[^c-c9ba1373910de1889fb0fafad4e8643d]: Textual amendment: Words in [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
 
 [^c9691041]: Textual amendment: Entry repealed by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [Sch. 7](https://www.legislation.gov.uk/ukpga/1975/30/schedule/7)
 

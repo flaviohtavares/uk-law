@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Grant or refusal of applications[^key-262c2e16b13dc6640b3f5faa323f24b0]
+## 73. Grant or refusal of applications[^c-262c2e16b13dc6640b3f5faa323f24b0]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6c9c53b40ffc82b6e7f4f96a04961dfb] Where the registration officer grants an application to sign the petition by post, the registration officer must notify the applicant of—
+(1)[^c-6c9c53b40ffc82b6e7f4f96a04961dfb] Where the registration officer grants an application to sign the petition by post, the registration officer must notify the applicant of—
 
 - (a) that decision,
 - (b) where the entitlement to sign by post is for a particular petition, the date on which the signing period for that petition ends, and
@@ -46,7 +46,7 @@ the officer must notify the applicant of this.
 
 (8) The registration officer must send to the petition officer details of any application to sign the petition by post which has been granted under this Chapter as soon as practicable after it is granted.
 
-(9)[^key-79ba1fb7a44af31a794053da1d2b4b2c] Paragraphs (10) to (12) apply where—
+(9)[^c-79ba1fb7a44af31a794053da1d2b4b2c] Paragraphs (10) to (12) apply where—
 
 - (a) regulation 61 applies to an application to sign by post, or would have applied if paragraph (3) of that regulation were ignored, or
 - (b) regulation 62 applies to such an application, or would have applied if paragraph (3) of that regulation were ignored.
@@ -82,8 +82,8 @@ the officer must notify the applicant of this.
 
 ## Annotations
 
-[^key-262c2e16b13dc6640b3f5faa323f24b0]: Commencement: Reg. 73 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-262c2e16b13dc6640b3f5faa323f24b0]: Commencement: Reg. 73 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-6c9c53b40ffc82b6e7f4f96a04961dfb]: Textual amendment: Reg. 73(1) substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(14)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/14/a) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-6c9c53b40ffc82b6e7f4f96a04961dfb]: Textual amendment: Reg. 73(1) substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(14)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/14/a) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
 
-[^key-79ba1fb7a44af31a794053da1d2b4b2c]: Textual amendment: Reg. 73(9)-(13) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(14)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/14/b) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-79ba1fb7a44af31a794053da1d2b4b2c]: Textual amendment: Reg. 73(9)-(13) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(14)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/14/b) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))

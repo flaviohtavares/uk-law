@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Company ceasing to be member of group: pre-appointed day cases.[^key-706ddd723a8e450228340057d87da481]
+## 178. Company ceasing to be member of group: pre-appointed day cases.[^c-706ddd723a8e450228340057d87da481]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-706ddd723a8e450228340057d87da481]: Textual amendment: S. 178 repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 29 para. 26](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/26), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12) (with [Sch. 29 para. 46(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/46/5))
+[^c-706ddd723a8e450228340057d87da481]: Textual amendment: S. 178 repealed (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 29 para. 26](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/26), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12) (with [Sch. 29 para. 46(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/46/5))

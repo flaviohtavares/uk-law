@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2 — Powers of entry, search and seizure[^key-52a0111d285305dd64f9740b3b21a941]
+## Schedule 2 — Powers of entry, search and seizure[^c-52a0111d285305dd64f9740b3b21a941]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Section 23
 
 ### Part 1 — England and Wales and Northern Ireland
 
-#### 1. Introductory[^key-5b81e3819a3a805f0a976bfb4a27d80c][^key-6ddbb736fbbd98c4869255bc0f384374]
+#### 1. Introductory[^c-5b81e3819a3a805f0a976bfb4a27d80c][^c-6ddbb736fbbd98c4869255bc0f384374]
 
 (1) This Part of this Schedule applies in England and Wales and in Northern Ireland.
 
@@ -39,7 +39,7 @@ Section 23
   - (vi) Schedule 4 (customer information orders);
 - (b) an act or threat within section 33(3)(b) or (c).
 
-#### 2. Material other than confidential material: search, seizure and retention[^key-bbf808cfc8f3c811e6c8ff34775909b9][^key-7d55a883aad1ab85db6d12e544d9de11]
+#### 2. Material other than confidential material: search, seizure and retention[^c-bbf808cfc8f3c811e6c8ff34775909b9][^c-7d55a883aad1ab85db6d12e544d9de11]
 
 (1) A constable may make an application for the issue of a warrant under this paragraph—
 
@@ -76,7 +76,7 @@ Section 23
 - (a) one or more sets of premises specified in the application (in which case the application is for a “specific premises warrant”), or
 - (b) any premises occupied or controlled by a person specified in the application, including such sets of premises as are so specified (in which case the application is for an “all premises warrant”).
 
-#### 3. Confidential material: production orders[^key-593267c5cfc9d4993b7fc1bfcba9f8b1][^key-59317d03a64f9aedd7966967667ca647]
+#### 3. Confidential material: production orders[^c-593267c5cfc9d4993b7fc1bfcba9f8b1][^c-59317d03a64f9aedd7966967667ca647]
 
 (1) A constable may apply to a judge for an order under this paragraph.
 
@@ -105,7 +105,7 @@ Section 23
 
 (8) The specified period is to be the period of 7 days beginning with the date of the order, unless it appears to the judge that a different period would be appropriate in the particular circumstances of the application.
 
-**4.**[^key-390974676cebe6938c71289a9f8316d2][^key-ec47b99baa0f7c4ce77ecb405823ae72] (1) A constable may apply to a judge for an order under this paragraph.
+**4.**[^c-390974676cebe6938c71289a9f8316d2][^c-ec47b99baa0f7c4ce77ecb405823ae72] (1) A constable may apply to a judge for an order under this paragraph.
 
 (2) The judge may grant the application if satisfied that conditions 1 to 5 are met.
 
@@ -135,11 +135,11 @@ Section 23
 
 (9) The specified period is to be the period of 7 days beginning with the date of the notification required by sub-paragraph (8)(a), unless it appears to the judge that a different period would be appropriate in the particular circumstances of the application.
 
-#### 5. Production orders: supplementary provision[^key-a871a07dc9d0f85959f10d5284b09cd5][^key-13e4772cefa79660da447ea7f18804a6]
+#### 5. Production orders: supplementary provision[^c-a871a07dc9d0f85959f10d5284b09cd5][^c-13e4772cefa79660da447ea7f18804a6]
 
 An application for an order under paragraph 3 or 4 may be made without notice to a judge in chambers.
 
-**6.**[^key-4b5bad4edd551fcefded250d5a7f267a][^key-839ddb164cf5f0f85f3d0704a10a7194] (1) An order under paragraph 3 or 4—
+**6.**[^c-4b5bad4edd551fcefded250d5a7f267a][^c-839ddb164cf5f0f85f3d0704a10a7194] (1) An order under paragraph 3 or 4—
 
 - (a) does not confer any right to production of, or access to, items subject to legal privilege, and
 - (b) has effect despite any restriction on the disclosure of information imposed by an enactment or otherwise.
@@ -149,7 +149,7 @@ An application for an order under paragraph 3 or 4 may be made without notice to
 - (a) an order under paragraph 3(7)(a) or 4(8)(b) has effect as an order to produce the material in a form in which it can be taken away and in which it is visible and legible, or from which it can readily be produced in a visible and legible form, and
 - (b) an order under paragraph 3(7)(b) or 4(8)(c) has effect as an order to give a constable access to the material in a form in which it is visible and legible.
 
-**7.**[^key-1890d6bb54c57fdb6557f2c77b575036][^key-21bc3ca2c272ffd06644b260f3a1d0e7] (1) An order under paragraph 3 or 4 may be made in relation to material in the possession, custody or control of a government department or a Northern Ireland department.
+**7.**[^c-1890d6bb54c57fdb6557f2c77b575036][^c-21bc3ca2c272ffd06644b260f3a1d0e7] (1) An order under paragraph 3 or 4 may be made in relation to material in the possession, custody or control of a government department or a Northern Ireland department.
 
 (2) Where an order is made by virtue of sub-paragraph (1)—
 
@@ -158,9 +158,9 @@ An application for an order under paragraph 3 or 4 may be made without notice to
 
 (3) In this paragraph “**government department**” means an authorised government department for the purposes of the Crown Proceedings Act 1947.
 
-**8.**[^key-6b49f2393f151cbbf1c9ac3ce9a3c2e3][^key-60778b7097b6f28e500a0b93004357f8] An order under paragraph 3 or 4 has effect as if it were an order of the court.
+**8.**[^c-6b49f2393f151cbbf1c9ac3ce9a3c2e3][^c-60778b7097b6f28e500a0b93004357f8] An order under paragraph 3 or 4 has effect as if it were an order of the court.
 
-#### 9. Confidential material: search, seizure and retention[^key-9fd9ff8d005a8a97daf28fe63dfaadec][^key-30331013fbc32868dd532931c21fa964]
+#### 9. Confidential material: search, seizure and retention[^c-9fd9ff8d005a8a97daf28fe63dfaadec][^c-30331013fbc32868dd532931c21fa964]
 
 (1) A constable may apply to a judge for the issue of a warrant under this paragraph.
 
@@ -210,7 +210,7 @@ An application for an order under paragraph 3 or 4 may be made without notice to
 - (a) one or more sets of premises specified in the application (in which case the application is for a “specific premises warrant”), or
 - (b) any premises occupied or controlled by a person specified in the application, including such sets of premises as are so specified (in which case the application is for an “all premises warrant”).
 
-#### 10. Explanations[^key-f7d7ad6924c417da8d57413ec37aedd1][^key-f8e4ce2a0a9941b31753efe43945716d]
+#### 10. Explanations[^c-f7d7ad6924c417da8d57413ec37aedd1][^c-f8e4ce2a0a9941b31753efe43945716d]
 
 (1) A constable may apply to a judge for an order under this paragraph requiring any person specified in the order to provide an explanation of material—
 
@@ -230,7 +230,7 @@ An application for an order under paragraph 3 or 4 may be made without notice to
 
 (6) An order under this paragraph has effect as if it were an order of the court.
 
-**11.**[^key-6c15eb0e645f0393b339e526d3aac6c4][^key-c6537be27cf9e0c89acd8f8b9df9da18] (1) A person commits an offence if, in purported compliance with an order under paragraph 10, they—
+**11.**[^c-6c15eb0e645f0393b339e526d3aac6c4][^c-c6537be27cf9e0c89acd8f8b9df9da18] (1) A person commits an offence if, in purported compliance with an order under paragraph 10, they—
 
 - (a) make a statement which they know to be false or misleading in a material particular, or
 - (b) recklessly make a statement which is false or misleading in a material particular.
@@ -241,7 +241,7 @@ An application for an order under paragraph 3 or 4 may be made without notice to
 - (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both).
 
-#### 12. Urgent cases[^key-369ee1a08f0c6332e25609b1ad2a5c02][^key-a1c44610c1cc4fa606590c2a0078f243]
+#### 12. Urgent cases[^c-369ee1a08f0c6332e25609b1ad2a5c02][^c-a1c44610c1cc4fa606590c2a0078f243]
 
 (1) A police officer of at least the rank of superintendent may by a written order signed by them give to any constable the authority which may be given by—
 
@@ -263,7 +263,7 @@ but subject to sub-paragraph (2).
 
 (6) A person who commits an offence under sub-paragraph (5) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale (or both).
 
-**13.**[^key-02dc607664c6209226542a061eb70d1f][^key-2bd23c24542f0f464376f1d520b55e36] (1) This paragraph applies where confidential journalistic material is seized by virtue of an order under paragraph 12 giving the authority which may be given by a warrant under paragraph 9.
+**13.**[^c-02dc607664c6209226542a061eb70d1f][^c-2bd23c24542f0f464376f1d520b55e36] (1) This paragraph applies where confidential journalistic material is seized by virtue of an order under paragraph 12 giving the authority which may be given by a warrant under paragraph 9.
 
 (2) A constable may apply to a judge for the issue of a warrant under this paragraph.
 
@@ -286,7 +286,7 @@ but subject to sub-paragraph (2).
 - (a) returned to the person from whom it was seized, or
 - (b) destroyed.
 
-**14.**[^key-4d04c683a3822194606e34fe5c226e84][^key-18cc86590d372a4ba6b4e786afc8c19b] (1) If a police officer of at least the rank of superintendent has reasonable grounds for believing that the case is one of great emergency the officer may by a written notice signed by them require any person specified in the notice to provide an explanation of any material seized in pursuance of an order under paragraph 12.
+**14.**[^c-4d04c683a3822194606e34fe5c226e84][^c-18cc86590d372a4ba6b4e786afc8c19b] (1) If a police officer of at least the rank of superintendent has reasonable grounds for believing that the case is one of great emergency the officer may by a written notice signed by them require any person specified in the notice to provide an explanation of any material seized in pursuance of an order under paragraph 12.
 
 (2) Paragraph 10(3) to (5) and paragraph 11 apply to a notice under this paragraph as they apply to an order under paragraph 10.
 
@@ -304,7 +304,7 @@ but subject to sub-paragraph (2).
 - (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the maximum term for summary offences or a fine (or both);
 - (b) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
 
-#### 15. Application of PACE[^key-def501948c4083d392efddde07da6049][^key-fd43e83f15ed92f5b1fea9912f97cf72]
+#### 15. Application of PACE[^c-def501948c4083d392efddde07da6049][^c-fd43e83f15ed92f5b1fea9912f97cf72]
 
 (1) For the purposes of the provisions mentioned in sub-paragraph (2)—
 
@@ -318,7 +318,7 @@ but subject to sub-paragraph (2).
 
 (seized material: access, copying and retention).
 
-#### 16. Procedure rules[^key-6ae49653b8746d30e1acecd15a1d26b5][^key-49cb9d630268a9d63d06d3e57991eed0]
+#### 16. Procedure rules[^c-6ae49653b8746d30e1acecd15a1d26b5][^c-49cb9d630268a9d63d06d3e57991eed0]
 
 (1) Criminal Procedure Rules may make provision about proceedings in England and Wales relating to a warrant or order under this Part of this Schedule (other than an order under paragraph 12).
 
@@ -326,7 +326,7 @@ but subject to sub-paragraph (2).
 
 (3) The provision which may be made by virtue of this paragraph includes in particular provision about the variation or discharge of an order.
 
-#### 17. Interpretation[^key-1e1295dba05dc558d2a0fcdaedc19dcd][^key-9265a6baf81b397e53c4817dd865bdd8]
+#### 17. Interpretation[^c-1e1295dba05dc558d2a0fcdaedc19dcd][^c-9265a6baf81b397e53c4817dd865bdd8]
 
 (1) This paragraph applies for the interpretation of this Part of this Schedule.
 
@@ -360,7 +360,7 @@ but subject to sub-paragraph (2).
 
 ### Part 2 — Scotland
 
-#### 18. Introductory[^key-212278cd4c40a9f7370d058c21952782][^key-8ab13c9993daba9744140aa80a8ca759]
+#### 18. Introductory[^c-212278cd4c40a9f7370d058c21952782][^c-8ab13c9993daba9744140aa80a8ca759]
 
 (1) This Part of this Schedule applies in Scotland.
 
@@ -375,7 +375,7 @@ but subject to sub-paragraph (2).
   - (vi) Schedule 4 (customer information orders);
 - (b) an act or threat within section 33(3)(b) or (c).
 
-#### 19. Production orders[^key-7fcdf1ef944fa342d6db4d945f8955bf][^key-b1f9b9a955b378e4ea00c29e8e26d708]
+#### 19. Production orders[^c-7fcdf1ef944fa342d6db4d945f8955bf][^c-b1f9b9a955b378e4ea00c29e8e26d708]
 
 (1) The procurator fiscal may apply to a sheriff for an order under this paragraph.
 
@@ -402,7 +402,7 @@ but subject to sub-paragraph (2).
 
 (9) Where the sheriff makes an order under sub-paragraph (7)(b) in relation to material on any premises, they may, on the application of the procurator fiscal, order any person who appears to them to be entitled to grant entry to the premises to allow any constable to enter the premises to obtain access to the material.
 
-**20.**[^key-63e1de00adfc406f195a86232fbf2717][^key-77a1c95ff85057327a5e3e54819a3fa3] (1) The procurator fiscal may apply to a sheriff for an order under this paragraph.
+**20.**[^c-63e1de00adfc406f195a86232fbf2717][^c-77a1c95ff85057327a5e3e54819a3fa3] (1) The procurator fiscal may apply to a sheriff for an order under this paragraph.
 
 (2) The sheriff may grant the application if satisfied that conditions 1 to 5 are met.
 
@@ -430,18 +430,18 @@ but subject to sub-paragraph (2).
 
 (10) Where the sheriff makes an order under sub-paragraph (8)(c) in relation to material on any premises, they may, on the application of the procurator fiscal, order any person who appears to them to be entitled to grant entry to the premises to allow any constable to enter the premises to obtain access to the material.
 
-#### 21. Production orders: supplementary[^key-ad5222d7a012c30a26b76655d05f1e8f][^key-0625116be8e1047044f3a63d02f12781]
+#### 21. Production orders: supplementary[^c-ad5222d7a012c30a26b76655d05f1e8f][^c-0625116be8e1047044f3a63d02f12781]
 
 An application for an order under paragraph 19 or 20 may be made without notice to a sheriff in chambers.
 
-**22.**[^key-1ef2a790c80db5113befce3261919d67][^key-f64ceb987c564b154d97e07d608e77e7] (1) An order under paragraph 19 or 20 has effect despite any obligation as to secrecy or other restriction on the disclosure of information imposed by an enactment or otherwise.
+**22.**[^c-1ef2a790c80db5113befce3261919d67][^c-f64ceb987c564b154d97e07d608e77e7] (1) An order under paragraph 19 or 20 has effect despite any obligation as to secrecy or other restriction on the disclosure of information imposed by an enactment or otherwise.
 
 (2) Where the material consists of information stored in electronic form—
 
 - (a) an order under paragraph 19(7)(a) or 20(8)(b) has effect as an order to produce the material in a form in which it can be taken away and in which it is visible and legible, or from which it can readily be produced in a visible and legible form, and
 - (b) an order under paragraph 19(7)(b) or 20(8)(c) has effect as an order to give a constable access to the material in a form in which it is visible and legible.
 
-**23.**[^key-62a5cbe5ade0af9bd4e17d59c9d07459][^key-5bde93cfb8b79504c362b91b87acef45] (1) An order under paragraph 19 or 20 may be made in relation to material in the possession, custody or control of a government department.
+**23.**[^c-62a5cbe5ade0af9bd4e17d59c9d07459][^c-5bde93cfb8b79504c362b91b87acef45] (1) An order under paragraph 19 or 20 may be made in relation to material in the possession, custody or control of a government department.
 
 (2) Where an order is made by virtue of sub-paragraph (1)—
 
@@ -453,7 +453,7 @@ An application for an order under paragraph 19 or 20 may be made without notice 
 - (a) a public department within the meaning of the Crown Suits (Scotland) Act 1857, and
 - (b) any part of the Scottish Administration.
 
-**24.**[^key-6b90b39d28c4183d030df7010d14ca18][^key-33ec9c8f4103b6fcd749076dcd0327d1] (1) Without prejudice to section 305 of the Criminal Procedure (Scotland) Act 1995, provision may be made by the High Court of Justiciary by Act of Adjournal as to—
+**24.**[^c-6b90b39d28c4183d030df7010d14ca18][^c-33ec9c8f4103b6fcd749076dcd0327d1] (1) Without prejudice to section 305 of the Criminal Procedure (Scotland) Act 1995, provision may be made by the High Court of Justiciary by Act of Adjournal as to—
 
 - (a) the recall and variation of orders under paragraph 19 or 20; and
 - (b) proceedings relating to such orders.
@@ -463,7 +463,7 @@ An application for an order under paragraph 19 or 20 may be made without notice 
 - (a) an order under paragraph 19 or 20 may be recalled or varied by a sheriff on a written application made to the sheriff by any person subject to the order;
 - (b) unless the sheriff otherwise directs on grounds of urgency, the applicant must, not less than 48 hours before making the application, send a copy of it and a notice in writing of the time and place where the application is to be made to the procurator fiscal on whose application the order was made.
 
-#### 25. Search, seizure and retention[^key-4892ddaee3cdeb2307ede83af5e57c9b][^key-31485cc0173664b012f1ae55579295af]
+#### 25. Search, seizure and retention[^c-4892ddaee3cdeb2307ede83af5e57c9b][^c-31485cc0173664b012f1ae55579295af]
 
 (1) The procurator fiscal may apply to a sheriff for the issue of a warrant under this paragraph.
 
@@ -504,7 +504,7 @@ An application for an order under paragraph 19 or 20 may be made without notice 
 - (a) one or more sets of premises specified in the application (in which case the application is for a “specific premises warrant”), or
 - (b) any premises occupied or controlled by a person specified in the application, including such sets of premises as are so specified (in which case the application is for an “all premises warrant”).
 
-#### 26. Explanations[^key-73c127a0e5ba95bdf81a9882c23ed9d6][^key-d3f877b62ffe34e633bd09c1549688d9]
+#### 26. Explanations[^c-73c127a0e5ba95bdf81a9882c23ed9d6][^c-d3f877b62ffe34e633bd09c1549688d9]
 
 (1) The procurator fiscal may apply to a sheriff for an order under this paragraph requiring any person specified in the order to provide an explanation of material—
 
@@ -522,7 +522,7 @@ An application for an order under paragraph 19 or 20 may be made without notice 
 
 (5) Paragraphs 23 and 24 apply to orders under this paragraph as they apply to orders made under paragraph 19 or 20.
 
-#### 27. Urgent cases[^key-e36d67ba8b69387a83e45849f2e8f183][^key-26a1c2290fa8e4f650f4168c2a67f1ec]
+#### 27. Urgent cases[^c-e36d67ba8b69387a83e45849f2e8f183][^c-26a1c2290fa8e4f650f4168c2a67f1ec]
 
 (1) A police officer of at least the rank of superintendent may by a written order signed by them give to any constable the authority which may be given by a warrant under paragraph 25 (subject to sub-paragraph (2)).
 
@@ -541,7 +541,7 @@ An application for an order under paragraph 19 or 20 may be made without notice 
 
 (7) “**Confidential journalistic material**” has the same meaning as in the Investigatory Powers Act 2016 (see section 264(6) and (7) of that Act).
 
-**28.**[^key-46d61b783189e95ee859db45280dce36][^key-ddb1417cd47bc54a04f18b6c87f9324c] (1) This paragraph applies where confidential journalistic material is seized by virtue of an order under paragraph 27.
+**28.**[^c-46d61b783189e95ee859db45280dce36][^c-ddb1417cd47bc54a04f18b6c87f9324c] (1) This paragraph applies where confidential journalistic material is seized by virtue of an order under paragraph 27.
 
 (2) The procurator fiscal may apply to a sheriff for the issue of a warrant under this paragraph.
 
@@ -566,7 +566,7 @@ An application for an order under paragraph 19 or 20 may be made without notice 
 
 (11) “**Confidential journalistic material**” has the same meaning as in paragraph 27.
 
-**29.**[^key-87987ed533ce894a137cc60804e700a0][^key-8955a5b8b170d79f40094f991163bd9b] (1) If a police officer of at least the rank of superintendent has reasonable grounds for believing that the case is one of great emergency the officer may by a written notice signed by them require any person specified in the notice to provide an explanation of any material seized in pursuance of an order under paragraph 27.
+**29.**[^c-87987ed533ce894a137cc60804e700a0][^c-8955a5b8b170d79f40094f991163bd9b] (1) If a police officer of at least the rank of superintendent has reasonable grounds for believing that the case is one of great emergency the officer may by a written notice signed by them require any person specified in the notice to provide an explanation of any material seized in pursuance of an order under paragraph 27.
 
 (2) Paragraph 26(3) and (4) apply to a notice under this paragraph as they apply to an order under that paragraph.
 
@@ -581,7 +581,7 @@ An application for an order under paragraph 19 or 20 may be made without notice 
 
 (6) A person guilty of an offence under sub-paragraph (3) is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
 
-#### 30. Supplementary[^key-2f215c4c366825281812b7a8f70487c0][^key-84d02c8eb6b9de6ab876275f9cf9a5ca]
+#### 30. Supplementary[^c-2f215c4c366825281812b7a8f70487c0][^c-84d02c8eb6b9de6ab876275f9cf9a5ca]
 
 (1) This Part of this Schedule is without prejudice to any rule of law under which—
 
@@ -596,124 +596,124 @@ are in legal proceedings protected from disclosure on the ground of confidential
 
 ## Annotations
 
-[^key-52a0111d285305dd64f9740b3b21a941]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2) applied (20.12.2023) by 1989 c. 6, s. 11(3) (as substituted by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/6/3/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f))
+[^c-52a0111d285305dd64f9740b3b21a941]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2) applied (20.12.2023) by 1989 c. 6, s. 11(3) (as substituted by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/6/3/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f))
 
-[^key-5b81e3819a3a805f0a976bfb4a27d80c]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see 100(1)
+[^c-5b81e3819a3a805f0a976bfb4a27d80c]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-6ddbb736fbbd98c4869255bc0f384374]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-6ddbb736fbbd98c4869255bc0f384374]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-bbf808cfc8f3c811e6c8ff34775909b9]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see 100(1)
+[^c-bbf808cfc8f3c811e6c8ff34775909b9]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-7d55a883aad1ab85db6d12e544d9de11]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-7d55a883aad1ab85db6d12e544d9de11]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-593267c5cfc9d4993b7fc1bfcba9f8b1]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see 100(1)
+[^c-593267c5cfc9d4993b7fc1bfcba9f8b1]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see 100(1)
 
-[^key-59317d03a64f9aedd7966967667ca647]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-59317d03a64f9aedd7966967667ca647]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-390974676cebe6938c71289a9f8316d2]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see 100(1)
+[^c-390974676cebe6938c71289a9f8316d2]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see 100(1)
 
-[^key-ec47b99baa0f7c4ce77ecb405823ae72]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-ec47b99baa0f7c4ce77ecb405823ae72]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-a871a07dc9d0f85959f10d5284b09cd5]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see 100(1)
+[^c-a871a07dc9d0f85959f10d5284b09cd5]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see 100(1)
 
-[^key-13e4772cefa79660da447ea7f18804a6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-13e4772cefa79660da447ea7f18804a6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-4b5bad4edd551fcefded250d5a7f267a]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see 100(1)
+[^c-4b5bad4edd551fcefded250d5a7f267a]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see 100(1)
 
-[^key-839ddb164cf5f0f85f3d0704a10a7194]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-839ddb164cf5f0f85f3d0704a10a7194]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-1890d6bb54c57fdb6557f2c77b575036]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see 100(1)
+[^c-1890d6bb54c57fdb6557f2c77b575036]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see 100(1)
 
-[^key-21bc3ca2c272ffd06644b260f3a1d0e7]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-21bc3ca2c272ffd06644b260f3a1d0e7]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-6b49f2393f151cbbf1c9ac3ce9a3c2e3]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see 100(1)
+[^c-6b49f2393f151cbbf1c9ac3ce9a3c2e3]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see 100(1)
 
-[^key-60778b7097b6f28e500a0b93004357f8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-60778b7097b6f28e500a0b93004357f8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-9fd9ff8d005a8a97daf28fe63dfaadec]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see 100(1)
+[^c-9fd9ff8d005a8a97daf28fe63dfaadec]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see 100(1)
 
-[^key-30331013fbc32868dd532931c21fa964]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/9) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-30331013fbc32868dd532931c21fa964]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/9) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-f7d7ad6924c417da8d57413ec37aedd1]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see 100(1)
+[^c-f7d7ad6924c417da8d57413ec37aedd1]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see 100(1)
 
-[^key-f8e4ce2a0a9941b31753efe43945716d]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-f8e4ce2a0a9941b31753efe43945716d]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-6c15eb0e645f0393b339e526d3aac6c4]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see 100(1)
+[^c-6c15eb0e645f0393b339e526d3aac6c4]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see 100(1)
 
-[^key-c6537be27cf9e0c89acd8f8b9df9da18]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-c6537be27cf9e0c89acd8f8b9df9da18]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-369ee1a08f0c6332e25609b1ad2a5c02]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see 100(1)
+[^c-369ee1a08f0c6332e25609b1ad2a5c02]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see 100(1)
 
-[^key-a1c44610c1cc4fa606590c2a0078f243]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/12) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-a1c44610c1cc4fa606590c2a0078f243]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/12) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-02dc607664c6209226542a061eb70d1f]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see 100(1)
+[^c-02dc607664c6209226542a061eb70d1f]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see 100(1)
 
-[^key-2bd23c24542f0f464376f1d520b55e36]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/13) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-2bd23c24542f0f464376f1d520b55e36]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/13) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-4d04c683a3822194606e34fe5c226e84]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see 100(1)
+[^c-4d04c683a3822194606e34fe5c226e84]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see 100(1)
 
-[^key-18cc86590d372a4ba6b4e786afc8c19b]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/14) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-18cc86590d372a4ba6b4e786afc8c19b]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/14) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-def501948c4083d392efddde07da6049]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see 100(1)
+[^c-def501948c4083d392efddde07da6049]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see 100(1)
 
-[^key-fd43e83f15ed92f5b1fea9912f97cf72]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/15) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-fd43e83f15ed92f5b1fea9912f97cf72]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/15) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-6ae49653b8746d30e1acecd15a1d26b5]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see 100(1)
+[^c-6ae49653b8746d30e1acecd15a1d26b5]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see 100(1)
 
-[^key-49cb9d630268a9d63d06d3e57991eed0]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/16) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-49cb9d630268a9d63d06d3e57991eed0]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/16) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-1e1295dba05dc558d2a0fcdaedc19dcd]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see 100(1)
+[^c-1e1295dba05dc558d2a0fcdaedc19dcd]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see 100(1)
 
-[^key-9265a6baf81b397e53c4817dd865bdd8]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/17) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-9265a6baf81b397e53c4817dd865bdd8]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/17) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-212278cd4c40a9f7370d058c21952782]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see 100(1)
+[^c-212278cd4c40a9f7370d058c21952782]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see 100(1)
 
-[^key-8ab13c9993daba9744140aa80a8ca759]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/18) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-8ab13c9993daba9744140aa80a8ca759]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/18) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-7fcdf1ef944fa342d6db4d945f8955bf]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see 100(1)
+[^c-7fcdf1ef944fa342d6db4d945f8955bf]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see 100(1)
 
-[^key-b1f9b9a955b378e4ea00c29e8e26d708]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/19) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-b1f9b9a955b378e4ea00c29e8e26d708]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/19) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-63e1de00adfc406f195a86232fbf2717]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see 100(1)
+[^c-63e1de00adfc406f195a86232fbf2717]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see 100(1)
 
-[^key-77a1c95ff85057327a5e3e54819a3fa3]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/20) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-77a1c95ff85057327a5e3e54819a3fa3]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/20) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-ad5222d7a012c30a26b76655d05f1e8f]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see 100(1)
+[^c-ad5222d7a012c30a26b76655d05f1e8f]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see 100(1)
 
-[^key-0625116be8e1047044f3a63d02f12781]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/21) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-0625116be8e1047044f3a63d02f12781]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/21) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-1ef2a790c80db5113befce3261919d67]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see 100(1)
+[^c-1ef2a790c80db5113befce3261919d67]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see 100(1)
 
-[^key-f64ceb987c564b154d97e07d608e77e7]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/22) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-f64ceb987c564b154d97e07d608e77e7]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/22) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-62a5cbe5ade0af9bd4e17d59c9d07459]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see 100(1)
+[^c-62a5cbe5ade0af9bd4e17d59c9d07459]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see 100(1)
 
-[^key-5bde93cfb8b79504c362b91b87acef45]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/23) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-5bde93cfb8b79504c362b91b87acef45]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/23) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-6b90b39d28c4183d030df7010d14ca18]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see 100(1)
+[^c-6b90b39d28c4183d030df7010d14ca18]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see 100(1)
 
-[^key-33ec9c8f4103b6fcd749076dcd0327d1]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/24) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-33ec9c8f4103b6fcd749076dcd0327d1]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/24) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-4892ddaee3cdeb2307ede83af5e57c9b]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see 100(1)
+[^c-4892ddaee3cdeb2307ede83af5e57c9b]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see 100(1)
 
-[^key-31485cc0173664b012f1ae55579295af]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/25) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-31485cc0173664b012f1ae55579295af]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/25) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-73c127a0e5ba95bdf81a9882c23ed9d6]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see 100(1)
+[^c-73c127a0e5ba95bdf81a9882c23ed9d6]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see 100(1)
 
-[^key-d3f877b62ffe34e633bd09c1549688d9]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/26) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-d3f877b62ffe34e633bd09c1549688d9]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/26) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-e36d67ba8b69387a83e45849f2e8f183]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see 100(1)
+[^c-e36d67ba8b69387a83e45849f2e8f183]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see 100(1)
 
-[^key-26a1c2290fa8e4f650f4168c2a67f1ec]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/27) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-26a1c2290fa8e4f650f4168c2a67f1ec]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/27) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-46d61b783189e95ee859db45280dce36]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see 100(1)
+[^c-46d61b783189e95ee859db45280dce36]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see 100(1)
 
-[^key-ddb1417cd47bc54a04f18b6c87f9324c]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/28) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-ddb1417cd47bc54a04f18b6c87f9324c]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/28) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-87987ed533ce894a137cc60804e700a0]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see 100(1)
+[^c-87987ed533ce894a137cc60804e700a0]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see 100(1)
 
-[^key-8955a5b8b170d79f40094f991163bd9b]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/29) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-8955a5b8b170d79f40094f991163bd9b]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/29) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-2f215c4c366825281812b7a8f70487c0]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see 100(1)
+[^c-2f215c4c366825281812b7a8f70487c0]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see 100(1)
 
-[^key-84d02c8eb6b9de6ab876275f9cf9a5ca]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/30) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-84d02c8eb6b9de6ab876275f9cf9a5ca]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2023/32/schedule/2/paragraph/30) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

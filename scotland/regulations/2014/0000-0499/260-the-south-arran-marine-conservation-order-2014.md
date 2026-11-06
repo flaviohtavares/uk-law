@@ -34,7 +34,7 @@ Environmental Protection
 
 Marine Management
 
-The South Arran Marine Conservation Order 2014 (revoked)[^key-52e81175c6168e79211410f48640b188]
+The South Arran Marine Conservation Order 2014 (revoked)[^c-52e81175c6168e79211410f48640b188]
 
 Made
 
@@ -48,58 +48,58 @@ Coming into force
 
 1st October 2014
 
-[^key-52e81175c6168e79211410f48640b188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52e81175c6168e79211410f48640b188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and duration in force[^key-52e81175c6168e79211410f48640b188]
+## 1. Citation, commencement and duration in force[^c-52e81175c6168e79211410f48640b188]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-52e81175c6168e79211410f48640b188]
+## 2. Interpretation[^c-52e81175c6168e79211410f48640b188]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The protected area[^key-52e81175c6168e79211410f48640b188]
+## 3. The protected area[^c-52e81175c6168e79211410f48640b188]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibited and regulated activities[^key-52e81175c6168e79211410f48640b188]
+## 4. Prohibited and regulated activities[^c-52e81175c6168e79211410f48640b188]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Authorisation of things prohibited by this Order[^key-52e81175c6168e79211410f48640b188]
+## 5. Authorisation of things prohibited by this Order[^c-52e81175c6168e79211410f48640b188]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Disapplication of exception to the offences under sections 94 and 95 of the Marine (Scotland) Act 2010[^key-52e81175c6168e79211410f48640b188]
+## 6. Disapplication of exception to the offences under sections 94 and 95 of the Marine (Scotland) Act 2010[^c-52e81175c6168e79211410f48640b188]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52e81175c6168e79211410f48640b188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52e81175c6168e79211410f48640b188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Protected area – boundary lines[^key-52e81175c6168e79211410f48640b188]
+## SCHEDULE — Protected area – boundary lines[^c-52e81175c6168e79211410f48640b188]
 
 Article 3(2)
 
-### PART 1[^key-52e81175c6168e79211410f48640b188]
+### PART 1[^c-52e81175c6168e79211410f48640b188]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-52e81175c6168e79211410f48640b188]
+### PART 2[^c-52e81175c6168e79211410f48640b188]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3[^key-52e81175c6168e79211410f48640b188]
+### PART 3[^c-52e81175c6168e79211410f48640b188]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-52e81175c6168e79211410f48640b188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52e81175c6168e79211410f48640b188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52e81175c6168e79211410f48640b188]: Textual amendment: Order revoked (8.2.2016) by [The South Arran Marine Conservation Order 2015 (S.S.I. 2015/437)](https://www.legislation.gov.uk/ssi/2015/437), [arts. 1](https://www.legislation.gov.uk/ssi/2015/437/article/1), [7](https://www.legislation.gov.uk/ssi/2015/437/article/7), [sch. 4](https://www.legislation.gov.uk/ssi/2015/437/schedule/4)
+[^c-52e81175c6168e79211410f48640b188]: Textual amendment: Order revoked (8.2.2016) by [The South Arran Marine Conservation Order 2015 (S.S.I. 2015/437)](https://www.legislation.gov.uk/ssi/2015/437), [arts. 1](https://www.legislation.gov.uk/ssi/2015/437/article/1), [7](https://www.legislation.gov.uk/ssi/2015/437/article/7), [sch. 4](https://www.legislation.gov.uk/ssi/2015/437/schedule/4)

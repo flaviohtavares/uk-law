@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Power to require removal of waste unlawfully deposited[^key-c43273bce81365fcdfd2dc6d9ac92599]
+## 28. Power to require removal of waste unlawfully deposited[^c-c43273bce81365fcdfd2dc6d9ac92599]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ and in any other case shall either modify the requirement or dismiss the appeal.
 
 ## Annotations
 
-[^key-c43273bce81365fcdfd2dc6d9ac92599]: Textual amendment: [Arts. 28-28B](https://www.legislation.gov.uk/nisi/1997/2778/article/28A) substituted for [art. 20, 28A](https://www.legislation.gov.uk/nisi/1997/2778/article/28A) (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 4](https://www.legislation.gov.uk/nia/2011/5/section/4), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/289/article/2/a)
+[^c-c43273bce81365fcdfd2dc6d9ac92599]: Textual amendment: [Arts. 28-28B](https://www.legislation.gov.uk/nisi/1997/2778/article/28A) substituted for [art. 20, 28A](https://www.legislation.gov.uk/nisi/1997/2778/article/28A) (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 4](https://www.legislation.gov.uk/nia/2011/5/section/4), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/289/article/2/a)

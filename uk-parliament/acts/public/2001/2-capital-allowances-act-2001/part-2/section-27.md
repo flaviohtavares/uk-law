@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Application of Part to thermal insulation and personal security[^key-4f5ed3f3824865258466c626bcd90023]
+## 27. Application of Part to thermal insulation and personal security[^c-4f5ed3f3824865258466c626bcd90023]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subsection (2) has effect in relation to expenditure if—
 
-- (a) it is expenditure to which section 28 or 33[^key-90a1bed877046a762c4d4edd39be9414] applies, and
+- (a) it is expenditure to which section 28 or 33[^c-90a1bed877046a762c4d4edd39be9414] applies, and
 - (b) an allowance under Part 2 or a deduction in respect of the expenditure could not, in the absence of this section, be made in calculating the income from the qualifying activity in question.
 
 (2) This Part (including in particular section 11(4)) applies as if—
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f5ed3f3824865258466c626bcd90023]: Textual amendment: Words in s. 27 heading substituted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/3/b)
+[^c-4f5ed3f3824865258466c626bcd90023]: Textual amendment: Words in s. 27 heading substituted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/3/b)
 
-[^key-90a1bed877046a762c4d4edd39be9414]: Textual amendment: Words in s. 27(1)(a) substituted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/3/a)
+[^c-90a1bed877046a762c4d4edd39be9414]: Textual amendment: Words in s. 27(1)(a) substituted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/3/a)

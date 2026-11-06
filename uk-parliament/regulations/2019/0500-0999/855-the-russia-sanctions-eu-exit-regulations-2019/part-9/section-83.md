@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Procedure for offences by unincorporated bodies[^key-d7cbe5989b77e1ce6c34f0e3b4201428]
+## 83. Procedure for offences by unincorporated bodies[^c-d7cbe5989b77e1ce6c34f0e3b4201428]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d7cbe5989b77e1ce6c34f0e3b4201428]: Commencement: Reg. 83 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-d7cbe5989b77e1ce6c34f0e3b4201428]: Commencement: Reg. 83 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23949261]: Marginal citation: [1925 c.8](https://www.legislation.gov.uk/ukpga/1925/8), as amended by [Statute Law (Repeals) Act 2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), [section 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1) and (3) and Schedule 1(17)(11), para. 1. Other amendments have been made to section 33 that are not relevant to these Regulations.
 

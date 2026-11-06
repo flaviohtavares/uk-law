@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Breach, revocation or amendment of reparation order[^key-2daf707a4094c4022f11c1f3634abc75]
+## 115. Breach, revocation or amendment of reparation order[^c-2daf707a4094c4022f11c1f3634abc75]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5 makes provision about breach, revocation and amendment of reparation 
 
 ## Annotations
 
-[^key-2daf707a4094c4022f11c1f3634abc75]: Commencement: S. 115 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2daf707a4094c4022f11c1f3634abc75]: Commencement: S. 115 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

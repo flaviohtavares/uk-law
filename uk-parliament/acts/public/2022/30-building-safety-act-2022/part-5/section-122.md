@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Remediation costs under qualifying leases etc[^key-95475f806b7deb5edd7148e720f58a19]
+## 122. Remediation costs under qualifying leases etc[^c-95475f806b7deb5edd7148e720f58a19]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Schedule 8—
 
 ## Annotations
 
-[^key-95475f806b7deb5edd7148e720f58a19]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2022/30/section/122) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
+[^c-95475f806b7deb5edd7148e720f58a19]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2022/30/section/122) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)

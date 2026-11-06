@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 182. Application for leave under Article 180(3) before passing of full payment resolution[^key-84e7ef8dc5deeb4b4727f11f13e3df91]
+## 182. Application for leave under Article 180(3) before passing of full payment resolution[^c-84e7ef8dc5deeb4b4727f11f13e3df91]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where an application for leave under Article 180(3) is made before a full paymen
 
 ## Annotations
 
-[^key-84e7ef8dc5deeb4b4727f11f13e3df91]: Commencement: Rule 182 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-84e7ef8dc5deeb4b4727f11f13e3df91]: Commencement: Rule 182 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

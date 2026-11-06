@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Extension of financial year of Police and Crime Commissioner and Chief Constable for South Yorkshire[^key-93e8e936a5a5d2b32188bbcd72d0f722]
+## 11. Extension of financial year of Police and Crime Commissioner and Chief Constable for South Yorkshire[^c-93e8e936a5a5d2b32188bbcd72d0f722]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-93e8e936a5a5d2b32188bbcd72d0f722]: Commencement: Art. 11 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-93e8e936a5a5d2b32188bbcd72d0f722]: Commencement: Art. 11 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
 
 [^f00017]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
 

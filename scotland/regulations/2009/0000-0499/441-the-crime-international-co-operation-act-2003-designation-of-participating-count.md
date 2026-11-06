@@ -42,20 +42,20 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 50(5)(b) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-8fd915c4aa67a13e93a320a552ee855e]
+## 1. Citation and commencement[^c-8fd915c4aa67a13e93a320a552ee855e]
 
 This Order may be cited as the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) (No. 3) Order 2009 and comes into force on the first day of the month following the expiry of a period of 3 months after the date on which the United Kingdom deposits an instrument of ratification in respect of the Second Additional Protocol to the European Convention on Mutual Assistance in Criminal Matters[^f00002] with the Secretary General of the Council of Europe[^f00003].
 
-## 2. Designation of participating countries[^key-2f94de0659e88f93461c321588fa900b]
+## 2. Designation of participating countries[^c-2f94de0659e88f93461c321588fa900b]
 
-Albania, Bosnia and Herzegovina, [^key-fb9bd84228723f15da8bc42f86537392]... Israel, Montenegro, Serbia [^key-1b334d7fc2130567e44111c0557ea81e]... and the former Yugoslav Republic of Macedonia are designated as participating countries in relation to the following provisions of the Crime (International Co-operation) Act 2003—
+Albania, Bosnia and Herzegovina, [^c-fb9bd84228723f15da8bc42f86537392]... Israel, Montenegro, Serbia [^c-1b334d7fc2130567e44111c0557ea81e]... and the former Yugoslav Republic of Macedonia are designated as participating countries in relation to the following provisions of the Crime (International Co-operation) Act 2003—
 
 - (a) section 31 (hearing witnesses in the UK by telephone);
 - (b) section 47 (transfer of UK prisoner to assist investigation abroad);
 - (c) section 48 (transfer of EU etc. prisoner to assist UK investigation)[^f00004]; and
 - (d) paragraph 15 of Schedule 2 (evidence given by television link or telephone).
 
-**3.**[^key-0ee44275b12481be7834054b4f28c727] Albania, Bosnia and Herzegovina, [^M_F_e3380f7d-acf5-469c-e644-2a3c4726bae8]... Israel, Montenegro, Serbia and the former Yugoslav Republic of Macedonia are designated as participating countries in relation to section 6 (effecting Scottish citation etc. otherwise than by post) of the Crime (International Co-operation) Act 2003.
+**3.**[^c-0ee44275b12481be7834054b4f28c727] Albania, Bosnia and Herzegovina, [^M_F_e3380f7d-acf5-469c-e644-2a3c4726bae8]... Israel, Montenegro, Serbia and the former Yugoslav Republic of Macedonia are designated as participating countries in relation to section 6 (effecting Scottish citation etc. otherwise than by post) of the Crime (International Co-operation) Act 2003.
 
 **4.**[^M_F_033b8072-7b21-4fee-ca18-1616643f2ea4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -85,21 +85,21 @@ The designation of Albania, Bosnia and Herzegovina, Croatia, Israel, Montenegro,
 
 [^f00001]: Footnote: [2003 c.32](https://www.legislation.gov.uk/ukpga/2003/32).
 
-[^key-8fd915c4aa67a13e93a320a552ee855e]: Commencement: Art. 1 comes into force in accordance with art. 1
+[^c-8fd915c4aa67a13e93a320a552ee855e]: Commencement: Art. 1 comes into force in accordance with art. 1
 
 [^f00002]: Footnote: Cmnd 5603.
 
 [^f00003]: Footnote: The Council of Europe provides notification as to the ratification of Council of Europe instruments on its Treaty Office website at http://conventions.coe.int.
 
-[^key-2f94de0659e88f93461c321588fa900b]: Commencement: Art. 2 comes into force in accordance with art. 1
+[^c-2f94de0659e88f93461c321588fa900b]: Commencement: Art. 2 comes into force in accordance with art. 1
 
-[^key-fb9bd84228723f15da8bc42f86537392]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2009/441/article/2) omitted (31.7.2017) by virtue of [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/uksi/2017/730/schedule/3/paragraph/13/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
+[^c-fb9bd84228723f15da8bc42f86537392]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2009/441/article/2) omitted (31.7.2017) by virtue of [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/uksi/2017/730/schedule/3/paragraph/13/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
 
-[^key-1b334d7fc2130567e44111c0557ea81e]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2009/441/article/2) omitted (6.4.2023) by virtue of [The Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) Order 2023 (S.S.I. 2023/119)](https://www.legislation.gov.uk/ssi/2023/119), [arts. 1](https://www.legislation.gov.uk/ssi/2023/119/article/1), [4(2)](https://www.legislation.gov.uk/ssi/2023/119/article/4/2)
+[^c-1b334d7fc2130567e44111c0557ea81e]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2009/441/article/2) omitted (6.4.2023) by virtue of [The Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) Order 2023 (S.S.I. 2023/119)](https://www.legislation.gov.uk/ssi/2023/119), [arts. 1](https://www.legislation.gov.uk/ssi/2023/119/article/1), [4(2)](https://www.legislation.gov.uk/ssi/2023/119/article/4/2)
 
 [^f00004]: Footnote: Section 48 was amended by paragraph 52 of Schedule 26 to the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4).
 
-[^key-0ee44275b12481be7834054b4f28c727]: Commencement: Art. 3 comes into force in accordance with art. 1
+[^c-0ee44275b12481be7834054b4f28c727]: Commencement: Art. 3 comes into force in accordance with art. 1
 
 [^M_F_e3380f7d-acf5-469c-e644-2a3c4726bae8]: Textual amendment: Word in art.3 omitted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [reg. 92(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/92/2) (with [reg. 98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)), (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 

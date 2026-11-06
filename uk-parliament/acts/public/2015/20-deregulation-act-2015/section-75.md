@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Motor racing: consequential amendments[^c22548111][^key-01aa4ff2a79e5df8e6e7dc8ae48ec16a]
+## 75. Motor racing: consequential amendments[^c22548111][^c-01aa4ff2a79e5df8e6e7dc8ae48ec16a]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c22548111]: Extent: [S. 75(1)-(5)](https://www.legislation.gov.uk/ukpga/2015/20/section/75/1) extends to England and Wales and Scotland; [s. 75(6)-(9)](https://www.legislation.gov.uk/ukpga/2015/20/section/75/6) exends to England and Wales only; [s. 75(10)-(13)](https://www.legislation.gov.uk/ukpga/2015/20/section/75/10) extends to Scotland only
 
-[^key-01aa4ff2a79e5df8e6e7dc8ae48ec16a]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2015/20/section/75) in force at 10.3.2017 by [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/273/article/2/c)
+[^c-01aa4ff2a79e5df8e6e7dc8ae48ec16a]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2015/20/section/75) in force at 10.3.2017 by [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/273/article/2/c)

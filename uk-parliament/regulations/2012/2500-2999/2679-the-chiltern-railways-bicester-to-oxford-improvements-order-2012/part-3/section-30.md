@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Temporary use of land for maintenance of works[^key-68df57575e5499c18c8782ee921a343d]
+## 30. Temporary use of land for maintenance of works[^c-68df57575e5499c18c8782ee921a343d]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68df57575e5499c18c8782ee921a343d]: Commencement: Art. 30 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-68df57575e5499c18c8782ee921a343d]: Commencement: Art. 30 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

@@ -32,7 +32,7 @@ summary: ''
 
 (3) “**Salary**” does not include any description of payment that the Secretary of State has determined is not to be treated as salary.
 
-(4)[^key-fd4bf795640fa97ad3519dd3f73c1cc1] In relation to a member or former member who is (or was) serving on flexible terms for any period, the amounts to be used for any calculation under this article in respect of that period of flexible service are to be determined as though the member or former member had not served on flexible terms for that period.
+(4)[^c-fd4bf795640fa97ad3519dd3f73c1cc1] In relation to a member or former member who is (or was) serving on flexible terms for any period, the amounts to be used for any calculation under this article in respect of that period of flexible service are to be determined as though the member or former member had not served on flexible terms for that period.
 
 (5) In this article—
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd4bf795640fa97ad3519dd3f73c1cc1]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/2011/517/article/4/4)[(5)](https://www.legislation.gov.uk/uksi/2011/517/article/4/5) inserted (1.4.2019) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment No. 2) Order 2018 (S.I. 2018/1099)](https://www.legislation.gov.uk/uksi/2018/1099), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2018/1099/article/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2018/1099/article/2/2)
+[^c-fd4bf795640fa97ad3519dd3f73c1cc1]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/2011/517/article/4/4)[(5)](https://www.legislation.gov.uk/uksi/2011/517/article/4/5) inserted (1.4.2019) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment No. 2) Order 2018 (S.I. 2018/1099)](https://www.legislation.gov.uk/uksi/2018/1099), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2018/1099/article/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2018/1099/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Extension of financial year of Police and Crime Commissioner and Chief Constable for North Yorkshire[^key-027de2036c83ba64fd13397cbbc7ac94]
+## 39. Extension of financial year of Police and Crime Commissioner and Chief Constable for North Yorkshire[^c-027de2036c83ba64fd13397cbbc7ac94]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-027de2036c83ba64fd13397cbbc7ac94]: Commencement: Art. 39 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-027de2036c83ba64fd13397cbbc7ac94]: Commencement: Art. 39 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00099]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
 

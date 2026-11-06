@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13AD. Penalties for contravention of section 13AC[^key-e134ec12bf2c0b7a797163d67231d545]
+## 13AD. Penalties for contravention of section 13AC[^c-e134ec12bf2c0b7a797163d67231d545]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,16 +31,16 @@ summary: ''
 
 (4) For the purposes of that section, if this section applies by virtue of subsection (1)(b)—
 
-- (a)[^key-6e28e00b009fe7d8e36fe3bfb083a8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c532ef6e5c50b57928d0873b1a30886b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6e28e00b009fe7d8e36fe3bfb083a8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c532ef6e5c50b57928d0873b1a30886b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the failure also attracts daily penalties.
 
 (5) If this section applies by virtue of subsection (1)(a), for the purpose of subsection (2) the reference in section 13AC(4) to the time of the declaration is to be read as the time of use.
 
 ## Annotations
 
-[^key-e134ec12bf2c0b7a797163d67231d545]: Textual amendment: Ss. 13AC, 13AD inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/11), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-e134ec12bf2c0b7a797163d67231d545]: Textual amendment: Ss. 13AC, 13AD inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/11), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
 
-[^key-6e28e00b009fe7d8e36fe3bfb083a8fe]: Textual amendment: S. 13AD(4)(a) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(d)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/d/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-6e28e00b009fe7d8e36fe3bfb083a8fe]: Textual amendment: S. 13AD(4)(a) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(d)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/d/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
 
-[^key-c532ef6e5c50b57928d0873b1a30886b]: Textual amendment: S. 13AD(4)(b) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(d)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/d/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-c532ef6e5c50b57928d0873b1a30886b]: Textual amendment: S. 13AD(4)(b) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(d)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/d/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))

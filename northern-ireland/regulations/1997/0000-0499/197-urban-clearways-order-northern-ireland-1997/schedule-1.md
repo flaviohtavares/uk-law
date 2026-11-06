@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1[^key-fb7c06a4424907cda899445ff71cb699]
+## SCHEDULE 1[^c-fb7c06a4424907cda899445ff71cb699]
 
 *Extent: N.I.*
 
@@ -203,4 +203,4 @@ Articles 1 and 2
 
 ## Annotations
 
-[^key-fb7c06a4424907cda899445ff71cb699]: Commencement: Sch. 1 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)
+[^c-fb7c06a4424907cda899445ff71cb699]: Commencement: Sch. 1 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)

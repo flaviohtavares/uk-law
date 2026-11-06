@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Quorum[^key-960c65d2c5c4c92c6eb8d61b95895be1]
+## 72. Quorum[^c-960c65d2c5c4c92c6eb8d61b95895be1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A meeting of the creditors’ committee is duly constituted if due notice of it 
 
 ## Annotations
 
-[^key-960c65d2c5c4c92c6eb8d61b95895be1]: Commencement: [Rule 72](https://www.legislation.gov.uk/nisr/2026/11/rule/72) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-960c65d2c5c4c92c6eb8d61b95895be1]: Commencement: [Rule 72](https://www.legislation.gov.uk/nisr/2026/11/rule/72) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

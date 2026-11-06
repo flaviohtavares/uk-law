@@ -32,7 +32,7 @@ summary: ''
 
 (3) A person who fails to comply with—
 
-- (a) a direction contained in a travel restriction order to deliver up a passport[^key-f42ed104e9b686ceedea5dcd34a6d7f9] to a court, or to cause such a passport to be delivered up, or
+- (a) a direction contained in a travel restriction order to deliver up a passport[^c-f42ed104e9b686ceedea5dcd34a6d7f9] to a court, or to cause such a passport to be delivered up, or
 - (b) any duty imposed on him by section 35(5)(b) to surrender a passport to the Secretary of State,
 
 shall be guilty of an offence and liable, on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
@@ -41,4 +41,4 @@ shall be guilty of an offence and liable, on summary conviction, to imprisonment
 
 ## Annotations
 
-[^key-f42ed104e9b686ceedea5dcd34a6d7f9]: Textual amendment: Word in s. 36 substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/17)
+[^c-f42ed104e9b686ceedea5dcd34a6d7f9]: Textual amendment: Word in s. 36 substituted (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/17)

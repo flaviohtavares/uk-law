@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Death of a registered person[^key-380584261a0cc8c13767de71bdd9b243]
+## 42. Death of a registered person[^c-380584261a0cc8c13767de71bdd9b243]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ the other registered person must notify the CIECSS of the death in writing witho
 
 ## Annotations
 
-[^key-380584261a0cc8c13767de71bdd9b243]: Commencement: Reg. 42 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-380584261a0cc8c13767de71bdd9b243]: Commencement: Reg. 42 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

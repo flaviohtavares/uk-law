@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Amendment of regulation 214 (sale or supply of prescription only medicines)[^key-7064ac2520ba2bdd885d2a4c6818df59]
+## 180. Amendment of regulation 214 (sale or supply of prescription only medicines)[^c-7064ac2520ba2bdd885d2a4c6818df59]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7064ac2520ba2bdd885d2a4c6818df59]: Commencement: Reg. 180 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7064ac2520ba2bdd885d2a4c6818df59]: Commencement: Reg. 180 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885181]: Marginal citation: Regulation 214 was amended [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855), 2014/490, 2016/186 and 2018/199.

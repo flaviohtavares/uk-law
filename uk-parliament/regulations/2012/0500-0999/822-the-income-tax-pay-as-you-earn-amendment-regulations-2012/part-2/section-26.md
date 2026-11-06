@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. UK resident pensioner’s code treated as issued by HMRC[^key-5b4046bb4d4a7f68fe775d59065e01dd]
+## 26. UK resident pensioner’s code treated as issued by HMRC[^c-5b4046bb4d4a7f68fe775d59065e01dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 59(2) (UK resident pensioner’s code treated as issued by HMRC), 
 
 ## Annotations
 
-[^key-5b4046bb4d4a7f68fe775d59065e01dd]: Commencement: Reg. 26 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-5b4046bb4d4a7f68fe775d59065e01dd]: Commencement: Reg. 26 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

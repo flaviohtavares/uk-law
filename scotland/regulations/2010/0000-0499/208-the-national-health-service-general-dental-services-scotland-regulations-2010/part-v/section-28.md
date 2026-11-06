@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Surveys of the provision of general dental services[^key-21ff94ef4b42182100736e0bf2aa5b02]
+## 28. Surveys of the provision of general dental services[^c-21ff94ef4b42182100736e0bf2aa5b02]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The SDPB may conduct or commission surveys or other research relating to the pro
 
 ## Annotations
 
-[^key-21ff94ef4b42182100736e0bf2aa5b02]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2010/208/regulation/28) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-21ff94ef4b42182100736e0bf2aa5b02]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2010/208/regulation/28) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

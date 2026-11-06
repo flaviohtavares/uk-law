@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Small amounts of state pension credit[^key-01b2938d4433395f862c324b57854e9b]
+## 13. Small amounts of state pension credit[^c-01b2938d4433395f862c324b57854e9b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where the amount of state pension credit payable is less than 10p per week, the 
 
 ## Annotations
 
-[^key-01b2938d4433395f862c324b57854e9b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/28/regulation/13) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-01b2938d4433395f862c324b57854e9b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2003/28/regulation/13) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)

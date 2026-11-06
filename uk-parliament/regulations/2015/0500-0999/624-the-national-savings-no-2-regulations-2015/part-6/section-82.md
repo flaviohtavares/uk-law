@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Obligation of secrecy[^key-ebf60ae15605769edd8aa6d17b3d89a6]
+## 82. Obligation of secrecy[^c-ebf60ae15605769edd8aa6d17b3d89a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ and that person, for those purposes, is subject to the prohibition in paragraph 
 
 ## Annotations
 
-[^key-ebf60ae15605769edd8aa6d17b3d89a6]: Commencement: Reg. 82 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-ebf60ae15605769edd8aa6d17b3d89a6]: Commencement: Reg. 82 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00026]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9); Schedule 36 was amended by the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10) section 95, Schedule 47, paragraphs 1 to 4, the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) section 86(2), Schedule 24, paragraphs1 and 2, the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) section 224(7) and [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
 

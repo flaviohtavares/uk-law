@@ -31,10 +31,10 @@ summary: ''
 
 of 10 February 1997 on the definition of a methodology for the transition between the European System of National and Regional Accounts in the Community (ESA 95) and the European System of Integrated Economic Accounts (ESA second edition) (Text with EEA relevance) (revoked)
 
-[^key-33f5ca18bc09a6d8e114c0c50c8b1584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33f5ca18bc09a6d8e114c0c50c8b1584]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-33f5ca18bc09a6d8e114c0c50c8b1584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-33f5ca18bc09a6d8e114c0c50c8b1584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33f5ca18bc09a6d8e114c0c50c8b1584]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/16)
+[^c-33f5ca18bc09a6d8e114c0c50c8b1584]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83ZF. Investigations: general[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+## 83ZF. Investigations: general[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]: Textual amendment: Pt. 1 Ch. 4 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [97](https://www.legislation.gov.uk/uksi/2014/3329/article/97)
+[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]: Textual amendment: Pt. 1 Ch. 4 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [97](https://www.legislation.gov.uk/uksi/2014/3329/article/97)

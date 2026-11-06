@@ -52,7 +52,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 There shall be paid out of money provided by Parliament—
 
-- (a) such sums as the Secretary of State may with the consent of the Treasury determine in respect of expenditure by the Mayor's Office for Policing and Crime[^key-12ca9c8c0429ba14881194ed1a51cf3a] on the investigation by officers of the Metropolitan Police (with or without other officers) of offences to which section 1 above applies; and
+- (a) such sums as the Secretary of State may with the consent of the Treasury determine in respect of expenditure by the Mayor's Office for Policing and Crime[^c-12ca9c8c0429ba14881194ed1a51cf3a] on the investigation by officers of the Metropolitan Police (with or without other officers) of offences to which section 1 above applies; and
 - (b) any increase attributable to this Act in the sums payable out of such money under any other Act.
 
 ## 3. Short title, consequential amendments, commencement and extent.
@@ -126,7 +126,7 @@ and where his release on bail is conditional on his providing one or more sureti
 
 (4) Where a notice of transfer is given after a person to whom it relates has been remanded on bail to appear before a magistrates’ court on an appointed day, the requirement that he shall so appear shall cease on the giving of the notice unless the notice states that it is to continue.
 
-(5) Where that requirement ceases by virtue of sub-paragraph (4) above, it shall be the duty of the person in question to appear before the Crown Court at the place specified by the notice of transfer as the proposed place of trial or at any place substituted for it by a direction under section 76 of the Senior Courts Act 1981[^key-5fb10013812cb2ceafa6630afe0cd7b1] .
+(5) Where that requirement ceases by virtue of sub-paragraph (4) above, it shall be the duty of the person in question to appear before the Crown Court at the place specified by the notice of transfer as the proposed place of trial or at any place substituted for it by a direction under section 76 of the Senior Courts Act 1981[^c-5fb10013812cb2ceafa6630afe0cd7b1] .
 
 (6) If, in a case where the notice states that the requirement mentioned in sub-paragraph (4) above is to continue, a person to whom the notice relates appears before the magistrates’ court, the court shall have—
 
@@ -268,7 +268,7 @@ and where his release on bail is conditional on his providing one or more sureti
 
 [^c10440901]: Textual amendment: Words in [s. 1(4)](https://www.legislation.gov.uk/ukpga/1991/13/section/1/4) repealed (E.W.) (4.7.1996) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [ss. 44](https://www.legislation.gov.uk/ukpga/1996/25/section/44), [46(1)(a)](https://www.legislation.gov.uk/ukpga/1996/25/section/46/1/a), [80](https://www.legislation.gov.uk/ukpga/1996/25/section/80), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/1996/25/schedule/5/paragraph/2) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1))
 
-[^key-12ca9c8c0429ba14881194ed1a51cf3a]: Textual amendment: Words in s. 2(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 211](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/211); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-12ca9c8c0429ba14881194ed1a51cf3a]: Textual amendment: Words in s. 2(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 211](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/211); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
 [^c10440941]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1991/13/section/3/2) repealed (E.W.N.I.) (4.7.1996) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [s. 80](https://www.legislation.gov.uk/ukpga/1996/25/section/80), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/1996/25/schedule/5/paragraph/2) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1))
 
@@ -296,7 +296,7 @@ and where his release on bail is conditional on his providing one or more sureti
 
 [^c10441071]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-5fb10013812cb2ceafa6630afe0cd7b1]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-5fb10013812cb2ceafa6630afe0cd7b1]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c10441091]: Textual amendment: [Sch. Pt. I](https://www.legislation.gov.uk/ukpga/1991/13/schedule/part/I) repealed (E.W.N.I.) (4.7.1996) by [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25), [ss. 46(1)(b)](https://www.legislation.gov.uk/ukpga/1996/25/section/46/1/b), [s. 80](https://www.legislation.gov.uk/ukpga/1996/25/section/80), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/1996/25/schedule/5/paragraph/2) (with [s. 78(1)](https://www.legislation.gov.uk/ukpga/1996/25/section/78/1))
 

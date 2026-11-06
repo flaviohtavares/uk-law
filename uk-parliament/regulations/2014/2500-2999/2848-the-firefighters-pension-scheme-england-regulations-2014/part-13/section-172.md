@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Forfeiture of pensions: offences committed by other persons[^key-5f5aa2ffe131f7d047564aa506ccd409]
+## 172. Forfeiture of pensions: offences committed by other persons[^c-5f5aa2ffe131f7d047564aa506ccd409]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f5aa2ffe131f7d047564aa506ccd409]: Commencement: [Reg. 172](https://www.legislation.gov.uk/uksi/2014/2848/regulation/172) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-5f5aa2ffe131f7d047564aa506ccd409]: Commencement: [Reg. 172](https://www.legislation.gov.uk/uksi/2014/2848/regulation/172) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00065]: Footnote: Pension Schemes Act [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).

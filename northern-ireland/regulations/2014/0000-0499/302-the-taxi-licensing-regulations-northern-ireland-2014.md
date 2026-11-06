@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic And Vehicles
 
-The Taxi Licensing Regulations (Northern Ireland) 2014 (revoked)[^key-349c8ccb22505e71d1e4ec0303b3600b]
+The Taxi Licensing Regulations (Northern Ireland) 2014 (revoked)[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 Made
 
@@ -40,188 +40,188 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-349c8ccb22505e71d1e4ec0303b3600b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-349c8ccb22505e71d1e4ec0303b3600b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Preliminary[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## PART 1 — Preliminary[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
-### 1. Citation and commencement[^key-349c8ccb22505e71d1e4ec0303b3600b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 1. Citation and commencement[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Taxi Licences[^key-349c8ccb22505e71d1e4ec0303b3600b]
-
-### 3. Application for a taxi licence[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 2. Interpretation[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Inspection of taxi[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## PART 2 — Taxi Licences[^c-349c8ccb22505e71d1e4ec0303b3600b]
+
+### 3. Application for a taxi licence[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Classes of use[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 4. Inspection of taxi[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Grant of licence[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 5. Classes of use[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Use of licensed taxi[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 6. Grant of licence[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Further application for a taxi licence[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 7. Use of licensed taxi[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Refund of fees[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 8. Further application for a taxi licence[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Conditions of licence[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 9. Refund of fees[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Display of plates and signs[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 10. Conditions of licence[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Duplicate licence, plate or sign[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 11. Display of plates and signs[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Change of address of owner[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 12. Duplicate licence, plate or sign[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Fitness of taxis[^key-349c8ccb22505e71d1e4ec0303b3600b]
-
-### 14. Length of taxi[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 13. Change of address of owner[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Fuel tanks and apparatus[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## PART 3 — Fitness of taxis[^c-349c8ccb22505e71d1e4ec0303b3600b]
+
+### 14. Length of taxi[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Exhaust system[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 15. Fuel tanks and apparatus[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Steps and rails[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 16. Exhaust system[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Calculation of maximum seating capacity[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 17. Steps and rails[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. General construction and condition[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 18. Calculation of maximum seating capacity[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Access to doors[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 19. General construction and condition[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Luggage[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 20. Access to doors[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Equipment[^key-349c8ccb22505e71d1e4ec0303b3600b]
-
-### 22. Fire extinguishers[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 21. Luggage[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Repair outfit[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## PART 4 — Equipment[^c-349c8ccb22505e71d1e4ec0303b3600b]
+
+### 22. Fire extinguishers[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Roof sign[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 23. Repair outfit[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Wheelchair sign[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 24. Roof sign[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Use of taxis[^key-349c8ccb22505e71d1e4ec0303b3600b]
-
-### 26. Display of roof sign[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 25. Wheelchair sign[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Front and rear seats[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## PART 5 — Use of taxis[^c-349c8ccb22505e71d1e4ec0303b3600b]
+
+### 26. Display of roof sign[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Body maintenance[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 27. Front and rear seats[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Filling of fuel tank[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 28. Body maintenance[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Carriage of flammable or dangerous substances[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 29. Filling of fuel tank[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — General[^key-349c8ccb22505e71d1e4ec0303b3600b]
-
-### 31. Certificate of exemption[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 30. Carriage of flammable or dangerous substances[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Transitional provisions[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## PART 6 — General[^c-349c8ccb22505e71d1e4ec0303b3600b]
+
+### 31. Certificate of exemption[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Transitional provisions: Classes of use[^key-349c8ccb22505e71d1e4ec0303b3600b]
+### 32. Transitional provisions[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-349c8ccb22505e71d1e4ec0303b3600b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 33. Transitional provisions: Classes of use[^c-349c8ccb22505e71d1e4ec0303b3600b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-349c8ccb22505e71d1e4ec0303b3600b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Fees for Taxi Licences[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## SCHEDULE 1 — Fees for Taxi Licences[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 Regulations 3, 8(2) and 12
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Items Included in Inspection[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## SCHEDULE 2 — Items Included in Inspection[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 Regulation 4(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Wheelchair Facilities – Class B Licensed Taxis[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## SCHEDULE 3 — Wheelchair Facilities – Class B Licensed Taxis[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 Regulation 6(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Fire Extinguishing Apparatus[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## SCHEDULE 4 — Fire Extinguishing Apparatus[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 Regulation 22
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Certificate of Exemption[^key-349c8ccb22505e71d1e4ec0303b3600b]
+## SCHEDULE 5 — Certificate of Exemption[^c-349c8ccb22505e71d1e4ec0303b3600b]
 
 Regulation 31
 
-[^key-349c8ccb22505e71d1e4ec0303b3600b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-349c8ccb22505e71d1e4ec0303b3600b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-349c8ccb22505e71d1e4ec0303b3600b]: Textual amendment: Regulations revoked (31.5.2016) by [The Taxi Licensing Regulations (Northern Ireland) 2015 (S.R. 2015/393)](https://www.legislation.gov.uk/nisr/2015/393), [reg. 36](https://www.legislation.gov.uk/nisr/2015/393/regulation/36)
+[^c-349c8ccb22505e71d1e4ec0303b3600b]: Textual amendment: Regulations revoked (31.5.2016) by [The Taxi Licensing Regulations (Northern Ireland) 2015 (S.R. 2015/393)](https://www.legislation.gov.uk/nisr/2015/393), [reg. 36](https://www.legislation.gov.uk/nisr/2015/393/regulation/36)

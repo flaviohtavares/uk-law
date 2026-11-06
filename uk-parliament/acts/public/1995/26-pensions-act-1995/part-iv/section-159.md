@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Disclosing information.[^key-0c319a0e8f207938eb31e890d05f8bab]
+## 159. Disclosing information.[^c-0c319a0e8f207938eb31e890d05f8bab]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c319a0e8f207938eb31e890d05f8bab]: Commencement: S. 159 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-0c319a0e8f207938eb31e890d05f8bab]: Commencement: S. 159 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
 [^c2136365]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

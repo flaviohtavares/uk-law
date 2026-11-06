@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 148A of the Government of Wales Act 2006[^f00002] the Secretary of State has consulted the Welsh Ministers before making these Regulations.
 
-## 1. Citation, commencement and extent[^key-d0df5c536d4766f8553f1d884a7c9956]
+## 1. Citation, commencement and extent[^c-d0df5c536d4766f8553f1d884a7c9956]
 
 (1) These Regulations may be cited as the Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2024.
 
@@ -56,11 +56,11 @@ In accordance with section 148A of the Government of Wales Act 2006[^f00002] the
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Amendments to the Boiler Upgrade Scheme (England and Wales) Regulations 2022[^key-23e871a01f0693ddf87e05592370e3eb]
+## 2. Amendments to the Boiler Upgrade Scheme (England and Wales) Regulations 2022[^c-23e871a01f0693ddf87e05592370e3eb]
 
 The Boiler Upgrade Scheme (England and Wales) Regulations 2022[^f00003] are amended in accordance with the following provisions.
 
-## 3. Regulation 2 amended (interpretation)[^key-8fe505a786b806c14b2b8f6d25ad8c7f]
+## 3. Regulation 2 amended (interpretation)[^c-8fe505a786b806c14b2b8f6d25ad8c7f]
 
 (1) Regulation 2(1) is amended as follows.
 
@@ -98,7 +98,7 @@ The Boiler Upgrade Scheme (England and Wales) Regulations 2022[^f00003] are amen
 
 .
 
-## 4. Regulation 4 amended (approval of standards or schemes by the Secretary of State)[^key-4661415d3dda2b2fcd307bebf9426b6e]
+## 4. Regulation 4 amended (approval of standards or schemes by the Secretary of State)[^c-4661415d3dda2b2fcd307bebf9426b6e]
 
 In regulation 4(1)—
 
@@ -110,7 +110,7 @@ In regulation 4(1)—
 
   .
 
-## 5. Regulation 5 amended (eligible properties)[^key-64d367d1a0a3ba2eddbce9033743d98f]
+## 5. Regulation 5 amended (eligible properties)[^c-64d367d1a0a3ba2eddbce9033743d98f]
 
 In regulation 5—
 
@@ -135,11 +135,11 @@ In regulation 5—
 
   .
 
-## 6. Regulation 6 omitted (insulation requirements)[^key-01123d01e9a56266aaa4e907d93a28ea]
+## 6. Regulation 6 omitted (insulation requirements)[^c-01123d01e9a56266aaa4e907d93a28ea]
 
 Omit regulation 6 (insulation requirements).
 
-## 7. Regulation 7 amended (requirements for new-build properties)[^key-837ea4d8dc77c7959c0b5805b89a14b8]
+## 7. Regulation 7 amended (requirements for new-build properties)[^c-837ea4d8dc77c7959c0b5805b89a14b8]
 
 In regulation 7—
 
@@ -159,7 +159,7 @@ In regulation 7—
 
   .
 
-## 8. Regulation 8 amended (eligible plant)[^key-3bd90028bbcf5c6d8e8438f0b48db8fd]
+## 8. Regulation 8 amended (eligible plant)[^c-3bd90028bbcf5c6d8e8438f0b48db8fd]
 
 In regulation 8—
 
@@ -178,7 +178,7 @@ In regulation 8—
 
   .
 
-## 9. Regulation 9 amended (requirements for heat pumps)[^key-41e5169347340e4112b29744f1f8f9e6]
+## 9. Regulation 9 amended (requirements for heat pumps)[^c-41e5169347340e4112b29744f1f8f9e6]
 
 (1) In regulation 9—
 
@@ -186,7 +186,7 @@ In regulation 8—
 - (b) in paragraph (2), omit “, or a property to which regulation 14(1)(b) applies,”;
 - (c) in paragraph (4), omit “, or property to which regulation 14(1)(b) applies,”.
 
-## 10. Regulation 10 amended (requirements for biomass boilers)[^key-4407ae4f8c68fc7a0592950ee7914bac]
+## 10. Regulation 10 amended (requirements for biomass boilers)[^c-4407ae4f8c68fc7a0592950ee7914bac]
 
 In regulation 10—
 
@@ -197,7 +197,7 @@ In regulation 10—
   ;
 - (b) in paragraph (2), omit “, or a property where regulation 14(1)(b) applies,”.
 
-## 11. Regulation 13 amended (determination and publication of boiler upgrade grant values)[^key-e3a0e25dafd0c99dff189b8adfe3baba]
+## 11. Regulation 13 amended (determination and publication of boiler upgrade grant values)[^c-e3a0e25dafd0c99dff189b8adfe3baba]
 
 In regulation 13—
 
@@ -227,7 +227,7 @@ In regulation 13—
 
   .
 
-## 12. Regulation 14 amended (grant applications)[^key-159e014f4f8402473b18a87025eaf93e]
+## 12. Regulation 14 amended (grant applications)[^c-159e014f4f8402473b18a87025eaf93e]
 
 In regulation 14—
 
@@ -254,7 +254,7 @@ In regulation 14—
 
   .
 
-## 13. Regulation 15 amended (determination of grant applications)[^key-cc9d210567ed35aa78ce989a6d801aa0]
+## 13. Regulation 15 amended (determination of grant applications)[^c-cc9d210567ed35aa78ce989a6d801aa0]
 
 In regulation 15—
 
@@ -267,7 +267,7 @@ In regulation 15—
 - (c) in paragraph (3), for “or (4)”, substitute “, (4) or (5)”;
 - (d) in paragraph (7), in sub-paragraph (c), for “2024” substitute “2027”.
 
-## 14. Regulation 16 amended (redemption applications)[^key-fa2664b0dcd06769731868868fdc0d4a]
+## 14. Regulation 16 amended (redemption applications)[^c-fa2664b0dcd06769731868868fdc0d4a]
 
 In regulation 16—
 
@@ -279,15 +279,15 @@ In regulation 16—
 
   .
 
-## 15. Regulation 17 amended (obligations on installers)[^key-ef433e5392265ca27c2cf9f4a5908764]
+## 15. Regulation 17 amended (obligations on installers)[^c-ef433e5392265ca27c2cf9f4a5908764]
 
 In regulation 17(1), for “been issued a boiler upgrade voucher”, substitute “made a grant application that has not been refused by the Authority, or been issued a boiler upgrade voucher”.
 
-## 16. Regulation 18 amended (inspection of property)[^key-986c7b66bea1b8e846869315be9c96bb]
+## 16. Regulation 18 amended (inspection of property)[^c-986c7b66bea1b8e846869315be9c96bb]
 
 In regulation 18(1)(b), omit “or a property to which regulation 14(1)(b) applies”.
 
-## 17. Regulation 19 amended (power to temporarily withhold grant payment during investigation)[^key-85056d9436fc8acdb57fa5a26d0ac87c]
+## 17. Regulation 19 amended (power to temporarily withhold grant payment during investigation)[^c-85056d9436fc8acdb57fa5a26d0ac87c]
 
 In regulation 19(1)—
 
@@ -295,7 +295,7 @@ In regulation 19(1)—
 - (b) at the end of sub-paragraph (c), insert “, or”;
 - (c) omit sub-paragraph (d).
 
-## 18. Regulation 20 amended (power to withhold grant payment in the case of non-compliance)[^key-8845f1eeb46b8277563e2836fc7fae32]
+## 18. Regulation 20 amended (power to withhold grant payment in the case of non-compliance)[^c-8845f1eeb46b8277563e2836fc7fae32]
 
 In regulation 20(1)—
 
@@ -303,7 +303,7 @@ In regulation 20(1)—
 - (b) at the end of sub-paragraph (c), insert “, or”;
 - (c) omit sub-paragraph (d).
 
-## 19. Regulation 21 amended (revocation of vouchers)[^key-70c18ab544f4b8de8d4596b5169a7426]
+## 19. Regulation 21 amended (revocation of vouchers)[^c-70c18ab544f4b8de8d4596b5169a7426]
 
 In regulation 21(1)(d)—
 
@@ -311,15 +311,15 @@ In regulation 21(1)(d)—
 - (b) at the end of sub-paragraph (ii), insert “, or”;
 - (c) omit sub-paragraph (iii).
 
-## 20. Regulation 24 amended (application of this Part in relation to persons who are not or cease to be installers)[^key-ed0eb3f348ca230de6c202dc74bbe12b]
+## 20. Regulation 24 amended (application of this Part in relation to persons who are not or cease to be installers)[^c-ed0eb3f348ca230de6c202dc74bbe12b]
 
 In regulation 24(1), after “If a person”, insert “who has made a grant application that has not been refused by the Authority, or”.
 
-## 21. Regulation 30 amended (reporting obligations)[^key-2416cc864c212a22b41843698e2cb9a7]
+## 21. Regulation 30 amended (reporting obligations)[^c-2416cc864c212a22b41843698e2cb9a7]
 
 In regulation 30(4), for “2025” substitute “2028”.
 
-## 22. Schedule 1A inserted (sets of grant categories)[^key-9d93c5005208c3645fc14fe3ff0ac541]
+## 22. Schedule 1A inserted (sets of grant categories)[^c-9d93c5005208c3645fc14fe3ff0ac541]
 
 After Schedule 1, insert—
 
@@ -409,7 +409,7 @@ After Schedule 1, insert—
 >
 > **2.** For the purposes of this Schedule, a “**fossil fuel hybrid system**” means a heating system that comprises of two or more plants that are all powered by fossil fuel.
 
-## 23. Schedule 2 amended (information required for grant applications)[^key-f1940744859abfef02b311eb197fe59b]
+## 23. Schedule 2 amended (information required for grant applications)[^c-f1940744859abfef02b311eb197fe59b]
 
 In Schedule 2, in paragraph 2—
 
@@ -426,7 +426,7 @@ In Schedule 2, in paragraph 2—
   ;
 - (h) in sub-paragraph (j), after “first occupied or used” insert, “or has had any heating system installed”.
 
-## 24. Schedule 3 amended (information required for redemption application)[^key-f96b785ff21bfda4cc25398ad8577e5f]
+## 24. Schedule 3 amended (information required for redemption application)[^c-f96b785ff21bfda4cc25398ad8577e5f]
 
 In Schedule 3, in paragraph 2—
 
@@ -438,11 +438,11 @@ In Schedule 3, in paragraph 2—
   ;
 - (c) omit sub-paragraph (e).
 
-## 25. Transitional and saving provision[^key-2b1f834404b5b1f14506a2ac7b0f04c5]
+## 25. Transitional and saving provision[^c-2b1f834404b5b1f14506a2ac7b0f04c5]
 
-(1)[^key-aabf580a0a8945e7cc61ed0fe0917cf3] In relation to a grant application that was properly made before these Regulations come into force, the Boiler Upgrade Scheme (England and Wales) Regulations 2022 shall continue to have effect as if they had not been amended by these Regulations.
+(1)[^c-aabf580a0a8945e7cc61ed0fe0917cf3] In relation to a grant application that was properly made before these Regulations come into force, the Boiler Upgrade Scheme (England and Wales) Regulations 2022 shall continue to have effect as if they had not been amended by these Regulations.
 
-(2)[^key-6b296a6b6fe0034574da6c801b43da27] For the purpose of these Regulations—
+(2)[^c-6b296a6b6fe0034574da6c801b43da27] For the purpose of these Regulations—
 
 - “**grant application**” has the meaning given in regulation 14(1) of the Boiler Upgrade Scheme (England and Wales) Regulations 2022.
 - “**properly made**” has the meaning given in regulation 2(1) of the Boiler Upgrade Scheme (England and Wales) Regulations 2022.
@@ -487,60 +487,60 @@ Schedule 3 is amended to make consequential amendments to the information requir
 
 [^f00002]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 148A was inserted by the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), section 55(1).
 
-[^key-d0df5c536d4766f8553f1d884a7c9956]: Commencement: Reg. 1 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-d0df5c536d4766f8553f1d884a7c9956]: Commencement: Reg. 1 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-23e871a01f0693ddf87e05592370e3eb]: Commencement: Reg. 2 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-23e871a01f0693ddf87e05592370e3eb]: Commencement: Reg. 2 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2022/565](https://www.legislation.gov.uk/uksi/2022/565).
 
-[^key-8fe505a786b806c14b2b8f6d25ad8c7f]: Commencement: Reg. 3 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-8fe505a786b806c14b2b8f6d25ad8c7f]: Commencement: Reg. 3 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
 [^f00004]: Footnote: See section 100(3) of the Energy Act 2008 for the definition of “Authority”.
 
-[^key-4661415d3dda2b2fcd307bebf9426b6e]: Commencement: Reg. 4 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-4661415d3dda2b2fcd307bebf9426b6e]: Commencement: Reg. 4 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-64d367d1a0a3ba2eddbce9033743d98f]: Commencement: Reg. 5 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-64d367d1a0a3ba2eddbce9033743d98f]: Commencement: Reg. 5 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-01123d01e9a56266aaa4e907d93a28ea]: Commencement: Reg. 6 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-01123d01e9a56266aaa4e907d93a28ea]: Commencement: Reg. 6 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-837ea4d8dc77c7959c0b5805b89a14b8]: Commencement: Reg. 7 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-837ea4d8dc77c7959c0b5805b89a14b8]: Commencement: Reg. 7 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-3bd90028bbcf5c6d8e8438f0b48db8fd]: Commencement: Reg. 8 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-3bd90028bbcf5c6d8e8438f0b48db8fd]: Commencement: Reg. 8 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-41e5169347340e4112b29744f1f8f9e6]: Commencement: Reg. 9 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-41e5169347340e4112b29744f1f8f9e6]: Commencement: Reg. 9 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-4407ae4f8c68fc7a0592950ee7914bac]: Commencement: Reg. 10 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-4407ae4f8c68fc7a0592950ee7914bac]: Commencement: Reg. 10 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-e3a0e25dafd0c99dff189b8adfe3baba]: Commencement: Reg. 11 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-e3a0e25dafd0c99dff189b8adfe3baba]: Commencement: Reg. 11 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-159e014f4f8402473b18a87025eaf93e]: Commencement: Reg. 12 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-159e014f4f8402473b18a87025eaf93e]: Commencement: Reg. 12 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-cc9d210567ed35aa78ce989a6d801aa0]: Commencement: Reg. 13 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-cc9d210567ed35aa78ce989a6d801aa0]: Commencement: Reg. 13 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-fa2664b0dcd06769731868868fdc0d4a]: Commencement: Reg. 14 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-fa2664b0dcd06769731868868fdc0d4a]: Commencement: Reg. 14 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-ef433e5392265ca27c2cf9f4a5908764]: Commencement: Reg. 15 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-ef433e5392265ca27c2cf9f4a5908764]: Commencement: Reg. 15 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-986c7b66bea1b8e846869315be9c96bb]: Commencement: Reg. 16 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-986c7b66bea1b8e846869315be9c96bb]: Commencement: Reg. 16 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-85056d9436fc8acdb57fa5a26d0ac87c]: Commencement: Reg. 17 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-85056d9436fc8acdb57fa5a26d0ac87c]: Commencement: Reg. 17 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-8845f1eeb46b8277563e2836fc7fae32]: Commencement: Reg. 18 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-8845f1eeb46b8277563e2836fc7fae32]: Commencement: Reg. 18 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-70c18ab544f4b8de8d4596b5169a7426]: Commencement: Reg. 19 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-70c18ab544f4b8de8d4596b5169a7426]: Commencement: Reg. 19 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-ed0eb3f348ca230de6c202dc74bbe12b]: Commencement: Reg. 20 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-ed0eb3f348ca230de6c202dc74bbe12b]: Commencement: Reg. 20 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-2416cc864c212a22b41843698e2cb9a7]: Commencement: Reg. 21 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-2416cc864c212a22b41843698e2cb9a7]: Commencement: Reg. 21 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-9d93c5005208c3645fc14fe3ff0ac541]: Commencement: Reg. 22 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-9d93c5005208c3645fc14fe3ff0ac541]: Commencement: Reg. 22 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-f1940744859abfef02b311eb197fe59b]: Commencement: Reg. 23 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-f1940744859abfef02b311eb197fe59b]: Commencement: Reg. 23 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-f96b785ff21bfda4cc25398ad8577e5f]: Commencement: Reg. 24 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-f96b785ff21bfda4cc25398ad8577e5f]: Commencement: Reg. 24 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-2b1f834404b5b1f14506a2ac7b0f04c5]: Commencement: Reg. 25 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
+[^c-2b1f834404b5b1f14506a2ac7b0f04c5]: Commencement: Reg. 25 in force at 8.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/1/2)
 
-[^key-aabf580a0a8945e7cc61ed0fe0917cf3]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25) renumbered as reg. 25(1) (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2026/390/regulation/20/a)
+[^c-aabf580a0a8945e7cc61ed0fe0917cf3]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2024/524/regulation/25) renumbered as reg. 25(1) (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2026/390/regulation/20/a)
 
-[^key-6b296a6b6fe0034574da6c801b43da27]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/25/2) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/20/b)
+[^c-6b296a6b6fe0034574da6c801b43da27]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2024/524/regulation/25/2) inserted (28.4.2026) by [The Boiler Upgrade Scheme (England and Wales) (Amendment) Regulations 2026 (S.I. 2026/390)](https://www.legislation.gov.uk/uksi/2026/390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/390/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2026/390/regulation/20/b)

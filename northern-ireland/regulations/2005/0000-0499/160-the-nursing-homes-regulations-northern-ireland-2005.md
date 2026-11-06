@@ -43,19 +43,19 @@ The Department of Health, Social Services and Public Safety in exercise of the p
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and extent[^key-4b6cf100fdcdd5a3d71b902464787eab]
+### 1. Citation, commencement and extent[^c-4b6cf100fdcdd5a3d71b902464787eab]
 
 These Regulations may be cited as the Nursing Homes Regulations (Northern Ireland) 2005 and shall come into operation on 1st April 2005.
 
-### 2. Interpretation[^key-9566b1c5dc684829997b8ed20722dfd2]
+### 2. Interpretation[^c-9566b1c5dc684829997b8ed20722dfd2]
 
 (1) In these Regulations –
 
-- “[^key-ef1394d58ebab6cb8293abbcc04ea39d]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
+- “[^c-ef1394d58ebab6cb8293abbcc04ea39d]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
 - “clinical trial” has the same meaning as in the Medicines for Human Use (Clinical Trials) Regulations 2004[^f00002];
-- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^key-097f3c68a787fdf89eb01060eef8e6dc]
+- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^c-097f3c68a787fdf89eb01060eef8e6dc]
 - “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989, or Schedule 4ZB to the Insolvency Act 1986;
-- “[^key-a81c1affb802b945a15bfac5448a396f]**ethics committee**” means a group of persons which assesses the ethics of research involving individuals and which is recognised for that purpose by or on behalf of the Department of Health, Social Services and Public Safety;
+- “[^c-a81c1affb802b945a15bfac5448a396f]**ethics committee**” means a group of persons which assesses the ethics of research involving individuals and which is recognised for that purpose by or on behalf of the Department of Health, Social Services and Public Safety;
 - “Fire Authority” means the Fire Authority for Northern Ireland within the meaning of the Fire Services (Northern Ireland) Order 1984[^f00003];
 - “general medical practitioner” means a medical practitioner providing primary medical services;
 - “health care professional” means a person who is registered as a member of any profession which is regulated by a body mentioned in Section 25(3) of the National Health Service Reform and Health Care Professions Act 2002[^f00004] or who is a clinical psychologist or child psychotherapist;
@@ -66,7 +66,7 @@ These Regulations may be cited as the Nursing Homes Regulations (Northern Irelan
 - “patient” means a person for whom nursing is provided in, or for the purposes of the nursing home;
 - “patient’s guide” means the guide compiled in accordance with regulation 4 (1);
 - “patient’s plan” means the written plan prepared in accordance with regulation 16(1);
-- “[^key-3a0d4eaa3a901302cc1002686d49d67a]**the register**” means the register of social care workers maintained by the Northern Ireland Social Care Council under section 3(1) of the 2001 Act;
+- “[^c-3a0d4eaa3a901302cc1002686d49d67a]**the register**” means the register of social care workers maintained by the Northern Ireland Social Care Council under section 3(1) of the 2001 Act;
 - “registered manager” in relation to a nursing home, means a person who is registered under Part III of the Order as the manager of the nursing home;
 - “registered person” in relation to a nursing home, means any person who is the registered provider or registered manager in respect of the nursing home;
 - “registered provider” in relation to a nursing home, means a person who is registered under Part III of the Order as a person carrying on the nursing home;
@@ -85,7 +85,7 @@ These Regulations may be cited as the Nursing Homes Regulations (Northern Irelan
 
 (2) In these Regulations, references to employing a person include employing a person whether or not for payment and whether under a contract of service or a contract for services and allowing a person to work as a volunteer.
 
-### 3. Statement of purpose[^key-94595a9af40694741a4f721e09170cf6]
+### 3. Statement of purpose[^c-94595a9af40694741a4f721e09170cf6]
 
 (1) The registered person shall compile in relation to the nursing home a written statement which shall consist of –
 
@@ -100,7 +100,7 @@ These Regulations may be cited as the Nursing Homes Regulations (Northern Irelan
 - (a) any other provision of these Regulations; or
 - (b) the conditions for the time being in force in relation to the registration of the registered person under Part III of the Order.
 
-### 4. Patient’s guide[^key-4c75c34fad626922a912a9c40d33a194]
+### 4. Patient’s guide[^c-4c75c34fad626922a912a9c40d33a194]
 
 (1) The registered person shall produce a written guide to the nursing home which shall include –
 
@@ -116,7 +116,7 @@ These Regulations may be cited as the Nursing Homes Regulations (Northern Irelan
 
 (4) Where a HSS Trust has made arrangements for the provision of accommodation and nursing to the patient at the nursing home, the registered person shall supply to the patient a copy of the agreement specifying the arrangements made.
 
-### 5. Information about fees[^key-5de252256c2ce63056739936e2fd5930]
+### 5. Information about fees[^c-5de252256c2ce63056739936e2fd5930]
 
 (1) The registered person shall provide to each patient, by not later than the day on which he becomes a patient, a statement specifying –
 
@@ -142,7 +142,7 @@ These Regulations may be cited as the Nursing Homes Regulations (Northern Irelan
 - (a) the HSS Trust has made arrangements for the provision of accommodation to the patient; and
 - (b) the payment relates to any period for which under those arrangements accommodation is provided to the patient.
 
-### 6. Review of statement of purpose and patient’s guide[^key-22523e7e133eefe28accd4fabbeedef3]
+### 6. Review of statement of purpose and patient’s guide[^c-22523e7e133eefe28accd4fabbeedef3]
 
 The registered person shall –
 
@@ -151,7 +151,7 @@ The registered person shall –
 
 ## PART II — REGISTERED PERSONS
 
-### 7. Fitness of registered provider[^key-c788c8daeff5c5feba20edf1999806e8]
+### 7. Fitness of registered provider[^c-c788c8daeff5c5feba20edf1999806e8]
 
 (1) A person shall not carry on a nursing home unless he is fit to do so.
 
@@ -174,11 +174,11 @@ The registered person shall –
 (4) A person shall not carry on a nursing home if –
 
 - (a) he has been adjudged bankrupt or sequestration of his estate has been awarded and (in either case) he has not been discharged and the bankruptcy order has not been annulled or rescinded; or
-- (ab)[^key-0e4d061c6476eb85276337279e4f58b1] he is the subject of a bankruptcy restrictions order; or
-- (ac)[^key-389ed518982bdc240e3b0961f929b93a] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order; or
+- (ab)[^c-0e4d061c6476eb85276337279e4f58b1] he is the subject of a bankruptcy restrictions order; or
+- (ac)[^c-389ed518982bdc240e3b0961f929b93a] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order; or
 - (b) he has made a composition or arrangement with his creditors and has not been discharged in respect of it.
 
-### 8. Appointment of manager[^key-e70fc084e3769b1d4e69275a2b0d59f1]
+### 8. Appointment of manager[^c-e70fc084e3769b1d4e69275a2b0d59f1]
 
 (1) The registered provider shall appoint an individual to manage the nursing home where –
 
@@ -193,7 +193,7 @@ The registered person shall –
 - (a) the name of the person so appointed; and
 - (b) the date on which the appointment is to take effect.
 
-### 9. Fitness of registered manager[^key-fda7ffc1b261588503f563e6aad723c0]
+### 9. Fitness of registered manager[^c-fda7ffc1b261588503f563e6aad723c0]
 
 (1) A person shall not manage a nursing home unless he is fit to do so.
 
@@ -206,7 +206,7 @@ The registered person shall –
   - (iii) he is physically and mentally fit to manage the nursing home; and
 - (c) full and satisfactory information is available in relation to him in respect of the matters specified in paragraphs 1 to 7 of Schedule 2.
 
-### 10. Registered person: general requirements[^key-0185d3acb46fadf41090cb76149842f8]
+### 10. Registered person: general requirements[^c-0185d3acb46fadf41090cb76149842f8]
 
 (1) The registered provider and the registered manager shall, having regard to the size of the nursing home, the statement of purpose, and the number and needs of the patients, carry on or manage the nursing home (as the case may be) with sufficient care, competence and skill.
 
@@ -220,7 +220,7 @@ from time to time such training as is appropriate to ensure that he has the expe
 
 (3) The registered manager shall undertake from time to time such training as is appropriate to ensure that he has the experience and skills necessary for managing the nursing home.
 
-### 11. Registered person: notification of offences[^key-9093d46a22de74eccc5540b7d428f244]
+### 11. Registered person: notification of offences[^c-9093d46a22de74eccc5540b7d428f244]
 
 Where the registered person or the responsible individual is convicted of any criminal offence, in Northern Ireland or elsewhere, he shall forthwith give notice in writing to the Regulation and Improvement Authority of –
 
@@ -230,7 +230,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 ## PART III — CONDUCT OF THE NURSING HOME
 
-### 12. Requirements to ensure quality of nursing and other service provision[^key-7852f3d01bc4baafd823c22423c91031]
+### 12. Requirements to ensure quality of nursing and other service provision[^c-7852f3d01bc4baafd823c22423c91031]
 
 (1) The registered person shall provide treatment, and any other services to patients in accordance with the statement of purpose, and shall ensure that the treatment and other services provided to each patient –
 
@@ -256,7 +256,7 @@ Where the registered person or the responsible individual is convicted of any cr
 - (d) provide choice for the patients; and
 - (e) that the menu is varied at suitable intervals.
 
-### 13. Health and welfare of patients[^key-5bc31ba42dc123f8443a3338916232fc]
+### 13. Health and welfare of patients[^c-5bc31ba42dc123f8443a3338916232fc]
 
 (1) The registered person shall ensure that the nursing home is conducted so as –
 
@@ -281,7 +281,7 @@ Where the registered person or the responsible individual is convicted of any cr
 (6) In this regulation, “prescribed” means –
 
 - (a) ordered for a patient for provision to him under Part VI of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00007]; or
-- (b) prescribed for a patient under regulation 214 or 215 of the Human Medicines Regulations 2012[^key-aff6ddb275d31a2fccd7b2d447006b2a]
+- (b) prescribed for a patient under regulation 214 or 215 of the Human Medicines Regulations 2012[^c-aff6ddb275d31a2fccd7b2d447006b2a]
 
 (7) The registered person shall make suitable arrangements to minimise the risk of infection and toxic conditions and the spread of infection between patients and staff.
 
@@ -295,7 +295,7 @@ Where the registered person or the responsible individual is convicted of any cr
 - (a) maintain good personal and professional relationships with each other and with patients and staff; and
 - (b) encourage and assist staff to maintain good personal and professional relationships with patients.
 
-### 14. Further requirements as to health and welfare[^key-a96e2f1279ae5862c30155f13995acfd]
+### 14. Further requirements as to health and welfare[^c-a96e2f1279ae5862c30155f13995acfd]
 
 (1) The registered person shall make arrangements for patients –
 
@@ -317,7 +317,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 (6) On any occasion on which a patient is subject to restraint, the registered person shall record the circumstances, including the nature of the restraint. These details should also be reported to the Regulation and Improvement Authority as soon as is practicable.
 
-### 15. Assessment of patients[^key-12f4a2a98384ce423770e7c7b359c9d0]
+### 15. Assessment of patients[^c-12f4a2a98384ce423770e7c7b359c9d0]
 
 (1) The registered person shall not provide accommodation to a patient at the nursing home unless –
 
@@ -332,7 +332,7 @@ Where the registered person or the responsible individual is convicted of any cr
 - (a) kept under review; and
 - (b) revised at any time when it is necessary to do so having regard to any change of circumstances and in any case not less than annually.
 
-### 16. Patient’s plan[^key-ecdf5d4c34f9bda908cd61abb8ec9b61]
+### 16. Patient’s plan[^c-ecdf5d4c34f9bda908cd61abb8ec9b61]
 
 (1) The registered person shall ensure that a written nursing plan is prepared by a nurse in consultation with the patient or patient’s representative as to how the patient’s needs in respect of his health and welfare are to be met.
 
@@ -343,7 +343,7 @@ Where the registered person or the responsible individual is convicted of any cr
 - (c) where appropriate and, unless it is impracticable to carry out such consultation, after consultation with the patient or a representative of his, revise the patient’s plan; and
 - (d) notify the patient of any such revision.
 
-### 17. Review of quality of nursing and other service provision[^key-a18b606445786d5a5b0da1ff2702a2bf]
+### 17. Review of quality of nursing and other service provision[^c-a18b606445786d5a5b0da1ff2702a2bf]
 
 (1) The registered person shall introduce and ensure systems are maintained for reviewing at appropriate intervals the quality of nursing and other service provision in or for the purposes of the nursing home and that any such review is undertaken not less than annually.
 
@@ -351,7 +351,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 (3) The system referred to in paragraph (1) shall provide for consultation with patients and their representatives.
 
-### 18. Facilities and services[^key-78352bfb3f3c76b7983a6301f8c93592]
+### 18. Facilities and services[^c-78352bfb3f3c76b7983a6301f8c93592]
 
 (1) Subject to regulation 3(3), the registered person shall provide facilities and services to patients in accordance with the statement of purpose required by regulation 3(1)(b) in respect of the nursing home.
 
@@ -376,7 +376,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 (3) The registered person shall ensure that so far as practicable patients have the opportunity to attend religious services of their choice.
 
-### 19. Records[^key-d56a9d6ea19b1ca07d7ef7baf4ad0d3d]
+### 19. Records[^c-d56a9d6ea19b1ca07d7ef7baf4ad0d3d]
 
 (1) The registered person shall –
 
@@ -394,7 +394,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 (5) The registered person shall ensure that information about a patient’s health and treatment is handled confidentially and is only disclosed to those persons who need to be aware of that information in order to treat the patient effectively or minimise any risk of the patient harming himself or another person, or for the purpose of the proper administration of the nursing home.
 
-### 20. Staffing[^key-8bf8fcc435f08df086b70fb67e7f3da1]
+### 20. Staffing[^c-8bf8fcc435f08df086b70fb67e7f3da1]
 
 (1) The registered person shall, having regard to the size of the nursing home, the statement of purpose and the number and needs of patients –
 
@@ -410,45 +410,45 @@ Where the registered person or the responsible individual is convicted of any cr
 
 (3) The registered person shall ensure that at all times a nurse is working at the nursing home and that the registered manager carries out a competency and a capability assessment with any nurse who is given the responsibility of being in charge of the home for any period of time in his absence.
 
-### 21. Fitness of workers[^key-334e6504646ad7c7f7b80cdc9e6e13dd]
+### 21. Fitness of workers[^c-334e6504646ad7c7f7b80cdc9e6e13dd]
 
 (1) The registered person shall not employ a person to work at the nursing home unless –
 
 - (a) the person is fit to work at the nursing home;
-- (b)[^key-297dab09a8d0d27fc3629145d25e2b17] subject to paragraph (5), he has obtained in respect of that person the information and documents specified in paragraphs 1 to 7 of Schedule 2;
+- (b)[^c-297dab09a8d0d27fc3629145d25e2b17] subject to paragraph (5), he has obtained in respect of that person the information and documents specified in paragraphs 1 to 7 of Schedule 2;
 - (c) he is satisfied on reasonable grounds as to the authenticity of the references referred to in paragraph 3 of Schedule 2 in respect of that person.
 
-but this is subject to paragraphs (7) to (10).[^key-5af719e307d615e6303a7a860b4e61b4]
+but this is subject to paragraphs (7) to (10).[^c-5af719e307d615e6303a7a860b4e61b4]
 
-(2) This paragraph[^key-93fa86fb46273684ade80d60dc957481] applies to a person who is employed by a person (“the employer”) other than the registered person.
+(2) This paragraph[^c-93fa86fb46273684ade80d60dc957481] applies to a person who is employed by a person (“the employer”) other than the registered person.
 
-(3) This paragraph[^key-1f7ab1d591a01016afa19f7e3c9bbd1b] applies to a position in which a person may in the course of his duties have regular contact with patients at the nursing home.
+(3) This paragraph[^c-1f7ab1d591a01016afa19f7e3c9bbd1b] applies to a position in which a person may in the course of his duties have regular contact with patients at the nursing home.
 
-(4) [^key-ec9998fc350e40d58518b3a33fed7b61]... The registered person shall not allow a person to whom paragraph (2) applies to work at the nursing home in a position to which paragraph (3) applies, unless –
+(4) [^c-ec9998fc350e40d58518b3a33fed7b61]... The registered person shall not allow a person to whom paragraph (2) applies to work at the nursing home in a position to which paragraph (3) applies, unless –
 
 - (a) the person is fit to work at the nursing home;
 - (b) the employer has obtained in respect of that person the information and documents specified in –
   - (i) paragraphs 1 to 7 of Schedule 2; and has confirmed in writing to the registered person that he has done so; and
 - (c) the employer is satisfied on reasonable grounds as to the authenticity of the references referred to in paragraph 3 of Schedule 2 in respect of that person, and has confirmed in writing to the registered person that he is so satisfied.
 
-but this is subject to paragraphs (7) to (10).[^key-90be3555a40753522545b1a7e036e2ae]
+but this is subject to paragraphs (7) to (10).[^c-90be3555a40753522545b1a7e036e2ae]
 
-(4A)[^key-3b3c2b4c8dea8f7aa5e5cc9a241a17d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-3b3c2b4c8dea8f7aa5e5cc9a241a17d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For the purposes of paragraphs (1) and (4), a person is not fit to work at a nursing home unless –
 
 - (a) he is of integrity and good character;
 - (b) he has qualifications or training suitable to the work that he is to perform, and the skills and experience necessary for such work;
 - (c) he is physically and mentally fit for the purposes of the work he is to perform at the nursing home;
-- (d) [^key-fde57f6bbfada67ca5e58efa62f636a5]...full and satisfactory information is available in relation to him in respect of the following matters –
+- (d) [^c-fde57f6bbfada67ca5e58efa62f636a5]...full and satisfactory information is available in relation to him in respect of the following matters –
   - (i) each of the matters specified in paragraphs 1 to 7 of Schedule 2;
-- (e)[^key-41840b7bb7bcb9340e94c1696429b32b] subject to sub-paragraphs (f) and (g)[^key-109672e3e427b90a4059c9fafb40a317] he is registered in the relevant part of the register;
-- (f) sub-paragraph (e) does not apply to a person who, in order to perform the duties for which the person is so employed is required by any statutory provision, other than this statutory provision to be registered with any person or body other than the Northern Ireland Social Care Council and is so registered;[^key-35b6d31762075f7ccffafbca4cca5474]
-- (g)[^key-3fd6c6e770c18a02c0641a15135ea90f] sub-paragraph (e) does not apply to persons allowed to work as volunteers.
+- (e)[^c-41840b7bb7bcb9340e94c1696429b32b] subject to sub-paragraphs (f) and (g)[^c-109672e3e427b90a4059c9fafb40a317] he is registered in the relevant part of the register;
+- (f) sub-paragraph (e) does not apply to a person who, in order to perform the duties for which the person is so employed is required by any statutory provision, other than this statutory provision to be registered with any person or body other than the Northern Ireland Social Care Council and is so registered;[^c-35b6d31762075f7ccffafbca4cca5474]
+- (g)[^c-3fd6c6e770c18a02c0641a15135ea90f] sub-paragraph (e) does not apply to persons allowed to work as volunteers.
 
 (6) The registered person shall ensure that all health care professionals are covered by appropriate professional indemnity.
 
-(7)[^key-54075c8c8fe0b8d9444fab418915653d] Where the conditions set out in paragraph (8) are satisfied and the registered person complies with the requirements set out in paragraph (9), the registered person may—
+(7)[^c-54075c8c8fe0b8d9444fab418915653d] Where the conditions set out in paragraph (8) are satisfied and the registered person complies with the requirements set out in paragraph (9), the registered person may—
 
 - (a) employ a person (“P”) to work at a nursing home, or
 - (b) allow a person to whom paragraph (2) applies (“P”) to work at a nursing home in a positon to which paragraph (3) applies,
@@ -470,7 +470,7 @@ even though the information and documents mentioned in paragraphs 2 to 7 of Sche
 
 (10) In paragraph (8) the reference to regulated activity relating to vulnerable adults has the same meaning as in the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
 
-### 22. Restrictions on acting for patients[^key-ddd15eda0b7337bc0821ee744b94af4f]
+### 22. Restrictions on acting for patients[^c-ddd15eda0b7337bc0821ee744b94af4f]
 
 (1) Subject to paragraph (2), the registered person shall not pay money belonging to any patient into a bank account unless –
 
@@ -481,13 +481,13 @@ even though the information and documents mentioned in paragraphs 2 to 7 of Sche
 
 (3) The registered person shall ensure a record is kept of persons working at the nursing home acting as the appointee or agent of a patient.
 
-### 23. Staff views as to conduct of the nursing home[^key-cbb2dd3abb97e7f7f4bb0a16d4fe97a0]
+### 23. Staff views as to conduct of the nursing home[^c-cbb2dd3abb97e7f7f4bb0a16d4fe97a0]
 
 (1) This regulation applies to any matter relating to the conduct of the nursing home so far as it may affect the health or welfare of patients.
 
 (2) The registered person shall make arrangements to enable staff to inform the registered person, and the Regulation and Improvement Authority, and the HSS Trust in the area of which the nursing home is situated, in confidence of their views about any matter to which this regulation applies.
 
-### 24. Complaints[^key-ac0829cfae29a187ad526124be00245e]
+### 24. Complaints[^c-ac0829cfae29a187ad526124be00245e]
 
 (1) The registered person shall establish a procedure (“the complaints procedure”) for receiving, managing and responding to complaints made to the registered person by a patient or person acting on the patient’s behalf.
 
@@ -508,7 +508,7 @@ even though the information and documents mentioned in paragraphs 2 to 7 of Sche
 
 (8) The registered person shall supply to the Regulation and Improvement Authority at its request a statement containing a summary of the complaints made during the preceding twelve months and the action that was taken in response.
 
-### 25. Guidance for nurses and health care professionals[^key-95e7e12b558a3b1db1109d6eb146f387]
+### 25. Guidance for nurses and health care professionals[^c-95e7e12b558a3b1db1109d6eb146f387]
 
 The registered person shall ensure that –
 
@@ -516,7 +516,7 @@ The registered person shall ensure that –
 - (b) staff are supported to meet and maintain the standards and requirements of their relevant codes of practice; and
 - (c) appropriate action is taken when staff do not meet the expected standards of conduct in line with the relevant codes of practice.
 
-### 26. Clinical trials and research[^key-3d020ce6e915595953b969bdfcad9924]
+### 26. Clinical trials and research[^c-3d020ce6e915595953b969bdfcad9924]
 
 The registered person shall ensure that –
 
@@ -525,7 +525,7 @@ The registered person shall ensure that –
 
 ## PART IV — PREMISES
 
-### 27. Fitness of premises[^key-56335148530d095bd719e5876963250f]
+### 27. Fitness of premises[^c-56335148530d095bd719e5876963250f]
 
 (1) Subject to regulation 3(3), the registered person shall not use the premises for the purposes of a nursing home unless the premises are suitable for the purpose of achieving the aims and objectives set out in the statement of purpose.
 
@@ -576,7 +576,7 @@ The registered person shall ensure that –
 
 ## PART V — MANAGEMENT
 
-### 28. Financial position[^key-d03f33702cf80a8e9c55a346fc73efdf]
+### 28. Financial position[^c-d03f33702cf80a8e9c55a346fc73efdf]
 
 (1) The registered provider shall carry on the nursing home in such a manner as is likely to ensure that the home will be financially viable for the purpose of achieving the aims and objectives set out in the statement of purpose.
 
@@ -596,7 +596,7 @@ The registered person shall ensure that –
 
 (4) In this regulation a company is an associated company of another if one of them has control of the other or both are under the control of the same person.
 
-### 29. Visits by registered provider[^key-c7d5870d0a363d1cde4fb6a4b3f37ba0]
+### 29. Visits by registered provider[^c-c7d5870d0a363d1cde4fb6a4b3f37ba0]
 
 (1) Where the registered provider is an individual, but not in day-to-day charge of the nursing home, he shall visit the home in accordance with this regulation.
 
@@ -628,7 +628,7 @@ The registered person shall ensure that –
 
 ## PART VI — MISCELLANEOUS
 
-### 30. Notification of death, illness and other events[^key-781a1ab5fd29a74e63eb4376c086268a]
+### 30. Notification of death, illness and other events[^c-781a1ab5fd29a74e63eb4376c086268a]
 
 (1) The registered person shall give notice to the Regulation and Improvement Authority without delay of the occurrence of –
 
@@ -642,7 +642,7 @@ The registered person shall ensure that –
 
 (2) Any notification made in accordance with this regulation which is given orally shall be confirmed in writing within 3 days of the oral report.
 
-### 31. Notice of absence[^key-473c26334205e891f80afff62ccd6541]
+### 31. Notice of absence[^c-473c26334205e891f80afff62ccd6541]
 
 (1) Where –
 
@@ -670,7 +670,7 @@ has been absent from the nursing home for a continuous period of 28 days or more
 
 (5) The registered person shall notify the Regulation and Improvement Authority of the return to duty of the registered provider or (as the case may be) the registered manager not later than 7 days after the date of his return.
 
-### 32. Notice of changes[^key-2a8a54059c24c9b77b950728770e5555]
+### 32. Notice of changes[^c-2a8a54059c24c9b77b950728770e5555]
 
 The registered person shall give notice in writing to the Regulation and Improvement Authority as soon as it is practicable to do so, if any of the following events takes place or is proposed to take place –
 
@@ -683,11 +683,11 @@ The registered person shall give notice in writing to the Regulation and Improve
   - (ii) there is any change of director, manager, secretary or other similar officer of the organisation;
   - (iii) there is to be any change of responsible individual;
 - (f) where the registered provider is an individual, a trustee in bankruptcy is appointed;
-- (fa)[^key-65201f21e708d3cb7d4663acd73edc89] where the registered provider is an individual, a debt relief order is made in respect of him; or
+- (fa)[^c-65201f21e708d3cb7d4663acd73edc89] where the registered provider is an individual, a debt relief order is made in respect of him; or
 - (g) where the registered provider is a company or partnership, a receiver, manager, liquidator or provisional liquidator is appointed; or
 - (h) the premises of the nursing home are significantly altered or extended, or additional premises are acquired.
 
-### 33. Notice of termination of accommodation[^key-df7fc682c9b4faf57f7ed93f79fdcdf5]
+### 33. Notice of termination of accommodation[^c-df7fc682c9b4faf57f7ed93f79fdcdf5]
 
 (1) Subject to paragraph (2), the registered person shall not terminate the arrangements for the accommodation of a patient unless he has given reasonable notice of his intention to do so to –
 
@@ -700,7 +700,7 @@ The registered person shall give notice in writing to the Regulation and Improve
 - (a) he shall do so as soon as it is practicable to do so; and
 - (b) he shall provide to the Regulation and Improvement Authority a statement as to the circumstances which made it impracticable for him to comply with the requirement.
 
-### 34. Appointment of liquidators etc.[^key-4913b194282f6ece97fb101336e567c6]
+### 34. Appointment of liquidators etc.[^c-4913b194282f6ece97fb101336e567c6]
 
 (1) Any person to whom paragraph (2) applies must –
 
@@ -714,7 +714,7 @@ The registered person shall give notice in writing to the Regulation and Improve
 - (b) a liquidator or provisional liquidator of a company which is a registered provider of a nursing home; or
 - (c) the trustee in bankruptcy of a registered provider of a nursing home.
 
-### 35. Death of registered person[^key-cb23c541dcdbd0dc856309286c5b51c2]
+### 35. Death of registered person[^c-cb23c541dcdbd0dc856309286c5b51c2]
 
 (1) If more than one person is registered in respect of a nursing home, and a registered person dies, the surviving registered person shall without delay notify the Regulation and Improvement Authority of the death in writing.
 
@@ -732,7 +732,7 @@ The registered person shall give notice in writing to the Regulation and Improve
 
 (5) The personal representatives shall appoint a person to take full-time day-to-day charge of the home during any period in which, in accordance with paragraph (3), they carry on the nursing home without being registered in respect of it.
 
-### 36. Offences[^key-6794ce64a9ee676126a0634559849aef]
+### 36. Offences[^c-6794ce64a9ee676126a0634559849aef]
 
 (1) A contravention of any of the provisions of regulations 3, 4, 5, 11, 12, 13(1) to (4) and (7) to (9), 14, 15 to 17, 18(1), (2)(a) to (i) and (k) to (n) and (3), 19 to 24, and 27 to 33, shall be an offence.
 
@@ -751,11 +751,11 @@ The registered person shall give notice in writing to the Regulation and Improve
 
 (4) The Regulation and Improvement Authority may bring proceedings against a person who was once, but no longer is, a registered person, in respect of a failure to comply with regulation 19 and for this purpose, references in paragraphs (2) and (3) to a registered person shall be taken to include such a person.
 
-### 37. Compliance with regulations[^key-d508ec4c60bdb4338aa301ecea5b09a4]
+### 37. Compliance with regulations[^c-d508ec4c60bdb4338aa301ecea5b09a4]
 
 Where there is more than one registered person in respect of a nursing home, anything which is required under these regulations to be done by the registered person shall, if done by one of the registered persons, not be required to be done by any of the other registered persons.
 
-### 38. Revocation[^key-1ab58c6d0304c02b3b6b1dd85a128f24]
+### 38. Revocation[^c-1ab58c6d0304c02b3b6b1dd85a128f24]
 
 The Nursing Homes Regulations (Northern Ireland) 1993[^f00010] and the Nursing Homes (Amendment) Regulations (Northern Ireland) 1998[^f00011], are hereby revoked.
 
@@ -771,79 +771,79 @@ Department of Health, Social Services and Public Safety
 
 Regulation 3(1)(c)
 
-**1.**[^key-65ed88f64e7d935c68f76572f3fb5aa7] The name and address of the registered provider and of any registered manager.
+**1.**[^c-65ed88f64e7d935c68f76572f3fb5aa7] The name and address of the registered provider and of any registered manager.
 
-**2.**[^key-4a48286a01a9ec1b07ed24ed563f9183] The relevant qualifications and experience of the registered provider and any registered manager.
+**2.**[^c-4a48286a01a9ec1b07ed24ed563f9183] The relevant qualifications and experience of the registered provider and any registered manager.
 
-**3.**[^key-52884c2390c0997a60add2f96b486fb7] The number, relevant qualifications and experience of the staff working at the nursing home.
+**3.**[^c-52884c2390c0997a60add2f96b486fb7] The number, relevant qualifications and experience of the staff working at the nursing home.
 
-**4.**[^key-2078d460e4f52f8ef2ea82d0dfe1b66a] The philosophy of care.
+**4.**[^c-2078d460e4f52f8ef2ea82d0dfe1b66a] The philosophy of care.
 
-**5.**[^key-efbf26e54668feab55c4eb8d9c5d6969] The status and constitution of the nursing home.
+**5.**[^c-efbf26e54668feab55c4eb8d9c5d6969] The status and constitution of the nursing home.
 
-**6.**[^key-1a46dce6983505ea237645460953cc62] The organisational structure of the nursing home.
+**6.**[^c-1a46dce6983505ea237645460953cc62] The organisational structure of the nursing home.
 
-**7.**[^key-1233312c394807faaead2ed979e00f3b] The number of patients to be accommodated or provided with services.
+**7.**[^c-1233312c394807faaead2ed979e00f3b] The number of patients to be accommodated or provided with services.
 
-**8.**[^key-8540debd6e01791221dda0286f69b571] The range of needs, (categories of nursing) that the nursing home is intended to meet and the number in each category.
+**8.**[^c-8540debd6e01791221dda0286f69b571] The range of needs, (categories of nursing) that the nursing home is intended to meet and the number in each category.
 
-**9.**[^key-bad445c56033e7afbed06979fee30896] Any criteria used for admission to the nursing home, including the nursing home’s policy and procedures (if any) for emergency admissions.
+**9.**[^c-bad445c56033e7afbed06979fee30896] Any criteria used for admission to the nursing home, including the nursing home’s policy and procedures (if any) for emergency admissions.
 
-**10.**[^key-dea8827e1cbc34a00bf0569824c8be2f] The arrangements for patients to engage in social activities, hobbies and leisure interests.
+**10.**[^c-dea8827e1cbc34a00bf0569824c8be2f] The arrangements for patients to engage in social activities, hobbies and leisure interests.
 
-**11.**[^key-e7ea2005a6c863405a4da0734799749d] The arrangements made for consultation with patients about the operation of the nursing home.
+**11.**[^c-e7ea2005a6c863405a4da0734799749d] The arrangements made for consultation with patients about the operation of the nursing home.
 
-**12.**[^key-05b007eb83c8be2e84004dae5609d830] The fire precautions and associated emergency procedures in the nursing home.
+**12.**[^c-05b007eb83c8be2e84004dae5609d830] The fire precautions and associated emergency procedures in the nursing home.
 
-**13.**[^key-1c85d471a9e9092933d35303baaedbd1] The arrangements made, so far as it is practicable, that patients have the opportunity to attend religious services of their choice.
+**13.**[^c-1c85d471a9e9092933d35303baaedbd1] The arrangements made, so far as it is practicable, that patients have the opportunity to attend religious services of their choice.
 
-**14.**[^key-872211ca90985b48f600066b6eea6985] The arrangements made for contact between patients and their relatives, friends and representatives and the local community, where practicable.
+**14.**[^c-872211ca90985b48f600066b6eea6985] The arrangements made for contact between patients and their relatives, friends and representatives and the local community, where practicable.
 
-**15.**[^key-2b9467963dd8b92009fcca0faa548782] The arrangements for dealing with complaints.
+**15.**[^c-2b9467963dd8b92009fcca0faa548782] The arrangements for dealing with complaints.
 
-**16.**[^key-76d37ea3e53c99f5bda3d6df950643e0] The arrangements made for dealing with reviews of the patient’s plan referred to in regulation 16(1).
+**16.**[^c-76d37ea3e53c99f5bda3d6df950643e0] The arrangements made for dealing with reviews of the patient’s plan referred to in regulation 16(1).
 
-**17.**[^key-9e26858cd06ea615aa39db37dd836293] The number and size of rooms in the nursing home.
+**17.**[^c-9e26858cd06ea615aa39db37dd836293] The number and size of rooms in the nursing home.
 
-**18.**[^key-a996ba70afffb13cc20666fe052ce925] Details of any specific therapeutic techniques used in the nursing home and arrangements made for their supervision.
+**18.**[^c-a996ba70afffb13cc20666fe052ce925] Details of any specific therapeutic techniques used in the nursing home and arrangements made for their supervision.
 
-**19.**[^key-b9d0704e542ef71f3d5e810a98e8e7a2] The arrangements made for respecting the privacy and dignity of patients.
+**19.**[^c-b9d0704e542ef71f3d5e810a98e8e7a2] The arrangements made for respecting the privacy and dignity of patients.
 
 ## SCHEDULE 2 — INFORMATION AND DOCUMENTS TO BE OBTAINED IN RESPECT OF PERSONS, CARRYING ON, MANAGING OR WORKING AT A NURSING HOME
 
 Regulations 7, 9, 21
 
-**1.**[^key-7bc146451f7bb9398217a0561f70aa26] Proof of the person’s identity, including a recent photograph.
+**1.**[^c-7bc146451f7bb9398217a0561f70aa26] Proof of the person’s identity, including a recent photograph.
 
-**2.**[^key-e5e395177f4042f6b338dfa00bb8b070] Either—
+**2.**[^c-e5e395177f4042f6b338dfa00bb8b070] Either—
 
 - (a) where a certificate is required for a purpose which is prescribed by regulations under section 113B of the Police Act 1997, an enhanced criminal record certificate issued under that section; or
 - (b) in any other case, a criminal record certificate issued under section 113A of that Act,
 
 and an application for either certificate shall be accompanied, where applicable, by an adults’ suitability statement under section 113D of that Act.
 
-**3.**[^key-901e51fdf462d15771a94c5ab70dbb6a] Two written references relating to the person, including a reference from the person’s present or most recent employer, (if any).
+**3.**[^c-901e51fdf462d15771a94c5ab70dbb6a] Two written references relating to the person, including a reference from the person’s present or most recent employer, (if any).
 
-**4.**[^key-feb512349e161b6bd283dcf7d3a019e0] Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as it is reasonably practicable, verification of the reason why the employment or position ended.
+**4.**[^c-feb512349e161b6bd283dcf7d3a019e0] Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as it is reasonably practicable, verification of the reason why the employment or position ended.
 
-**5.**[^key-b0f50c8b48a38b36b29826a6e5b0b1b2] Details and documentary evidence of any relevant qualifications or accredited training of the person and if applicable, registration with an appropriate professional regulatory body.
+**5.**[^c-b0f50c8b48a38b36b29826a6e5b0b1b2] Details and documentary evidence of any relevant qualifications or accredited training of the person and if applicable, registration with an appropriate professional regulatory body.
 
-**6.**[^key-6d67b7915629737618c3d86c8356641f] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+**6.**[^c-6d67b7915629737618c3d86c8356641f] A full employment history, together with a satisfactory written explanation of any gaps in employment.
 
-**7.**[^key-d62c620d0b4fc10b2336bdad4153797d] Evidence that the person is physically and mentally fit for the purposes of the work which he is to perform with regard to or at the nursing home or, where it is impracticable for the person to obtain such evidence, a declaration signed by the person that he is so fit.
+**7.**[^c-d62c620d0b4fc10b2336bdad4153797d] Evidence that the person is physically and mentally fit for the purposes of the work which he is to perform with regard to or at the nursing home or, where it is impracticable for the person to obtain such evidence, a declaration signed by the person that he is so fit.
 
 ## SCHEDULE 3 — RECORDS TO BE KEPT IN A NURSING HOME IN RESPECT OF EACH PATIENT
 
 Regulation 19(1)(a)
 
-**1.**[^key-7d40729b7fdbeb3570bb98d2da6bb531] The following documents in respect of each patient –
+**1.**[^c-7d40729b7fdbeb3570bb98d2da6bb531] The following documents in respect of each patient –
 
 - (a) the assessment of needs referred to in regulation 15(1)(a);
 - (b) the patient’s plan referred to in regulation 16(1).
 
-**2.**[^key-caa78b8f075db6e3fca800562b0e9743] A recent photograph of the patient.
+**2.**[^c-caa78b8f075db6e3fca800562b0e9743] A recent photograph of the patient.
 
-**3.**[^key-8154f79be9857c0830a3affd1b3d99cf] A record of the following matters in respect of each patient –
+**3.**[^c-8154f79be9857c0830a3affd1b3d99cf] A record of the following matters in respect of each patient –
 
 - (a) the name, address, date of birth and marital status of each patient;
 - (b) the name, address and telephone number of the patient’s next of kin or of any person authorised to act on his behalf;
@@ -864,23 +864,23 @@ Regulation 19(1)(a)
 - (q) a record of any restraint used in relation to the patient;
 - (r) a record of any limitations agreed with the patient as to the patient’s freedom of choice, liberty of movement and power to make decisions.
 
-**4.**[^key-e520d406bc3918745410a4b233e27ece] A copy of correspondence relating to each patient.
+**4.**[^c-e520d406bc3918745410a4b233e27ece] A copy of correspondence relating to each patient.
 
 ## SCHEDULE 4 — OTHER RECORDS TO BE KEPT IN A NURSING HOME
 
 Regulation 19(2)
 
-**1.**[^key-98b176a6b151e28887e6fa9b476895c5] A copy of the statement of purpose.
+**1.**[^c-98b176a6b151e28887e6fa9b476895c5] A copy of the statement of purpose.
 
-**2.**[^key-6717543fff02eddae1fd3d01b008adee] A copy of the patient’s guide.
+**2.**[^c-6717543fff02eddae1fd3d01b008adee] A copy of the patient’s guide.
 
-**3.**[^key-8deb737ad18321b5516ab5ce4225ad53] A record of all accounts relating to the home, including a record of patient’s fees and financial arrangements that are handled by the nursing home and a record of persons working at the home acting as the appointee or agent of a patient.
+**3.**[^c-8deb737ad18321b5516ab5ce4225ad53] A record of all accounts relating to the home, including a record of patient’s fees and financial arrangements that are handled by the nursing home and a record of persons working at the home acting as the appointee or agent of a patient.
 
-**4.**[^key-174fd0886f4c20e33aa9fe401aa9ad5b] A copy of all inspection reports.
+**4.**[^c-174fd0886f4c20e33aa9fe401aa9ad5b] A copy of all inspection reports.
 
-**5.**[^key-7b8ea2f6bc271659ee7d593572b0ad83] A copy of any report made under regulation 29(4)(c) and a copy of any written record or report made under regulation 30.
+**5.**[^c-7b8ea2f6bc271659ee7d593572b0ad83] A copy of any report made under regulation 29(4)(c) and a copy of any written record or report made under regulation 30.
 
-**6.**[^key-d780b65aee86873e9c2ee287f76cd8d6] A record of all persons employed at the nursing home, including in respect of each person so employed, including –
+**6.**[^c-d780b65aee86873e9c2ee287f76cd8d6] A record of all persons employed at the nursing home, including in respect of each person so employed, including –
 
 - (a) his full name, address, date of birth, qualifications, experience and if applicable, confirmation of his registration status with an appropriate professional regulatory body;
 - (b) a copy of his birth certificate and passport (if any);
@@ -890,20 +890,20 @@ Regulation 19(2)
 - (f) correspondence, reports, records of disciplinary action and any other records in relation to his employment including the recruitment process under which he was appointed;
 - (g) the training and development activities completed by him.
 
-**7.**[^key-1bd3fa72dc8fd063dc79d6d2feec92c0] A copy of the duty roster of persons working at the nursing home, and a record of whether the roster was actually worked.
+**7.**[^c-1bd3fa72dc8fd063dc79d6d2feec92c0] A copy of the duty roster of persons working at the nursing home, and a record of whether the roster was actually worked.
 
-**8.**[^key-cdebefe08e04ff1b45d4befbcfba7b65] A record of the nursing home’s charges to patients, including any extra amounts payable for additional services not covered by those charges, and the amounts paid by or in respect of each patient.
+**8.**[^c-cdebefe08e04ff1b45d4befbcfba7b65] A record of the nursing home’s charges to patients, including any extra amounts payable for additional services not covered by those charges, and the amounts paid by or in respect of each patient.
 
-**9.**[^key-78f903d3ad172700abac75e158f79f00] A record of all money or other valuables deposited by a patient for safekeeping or received on the patient’s behalf, which –
+**9.**[^c-78f903d3ad172700abac75e158f79f00] A record of all money or other valuables deposited by a patient for safekeeping or received on the patient’s behalf, which –
 
 - (a) shall state the date on which the money or valuables were deposited or received, the date on which any money or valuables were returned to a patient or used, at the request of the patient, on his behalf and, where applicable, the purpose for which the money or valuables were used; and
 - (b) shall include the written acknowledgement of the return of the money or valuables.
 
-**10.**[^key-675e73356b1a1dafb55dcaa3df0a8299] A record of furniture and personal possessions brought by a patient into the room occupied by him.
+**10.**[^c-675e73356b1a1dafb55dcaa3df0a8299] A record of furniture and personal possessions brought by a patient into the room occupied by him.
 
-**11.**[^key-7f4c0143a8f5b6d4c5abff1a41962e6d] A record of all complaints made by patients or representatives or relatives of patients or by persons working at the nursing home about the operation of the nursing home, and the action taken by the registered person in respect of any such complaint.
+**11.**[^c-7f4c0143a8f5b6d4c5abff1a41962e6d] A record of all complaints made by patients or representatives or relatives of patients or by persons working at the nursing home about the operation of the nursing home, and the action taken by the registered person in respect of any such complaint.
 
-**12.**[^key-46c2a7e43f286215f6f18933aa3a8092] A record of any of the following events that occur in the nursing home –
+**12.**[^c-46c2a7e43f286215f6f18933aa3a8092] A record of any of the following events that occur in the nursing home –
 
 - (a) any accident;
 - (b) any incident which is detrimental to the health or welfare of a patient, including the outbreak of infectious disease in the home;
@@ -912,28 +912,28 @@ Regulation 19(2)
 - (e) except where a record to which paragraph 14 refers is to be made, any occasion on which the fire alarm equipment is operated;
 - (f) any theft or burglary.
 
-**13.**[^key-a763d8fa461c30fd1ea3bdb5009cffaf] Records of the food provided for patients in sufficient detail to enable any person inspecting the record to determine whether the diet is satisfactory, in relation to nutrition and otherwise, and of any special diets prepared for individual patients.
+**13.**[^c-a763d8fa461c30fd1ea3bdb5009cffaf] Records of the food provided for patients in sufficient detail to enable any person inspecting the record to determine whether the diet is satisfactory, in relation to nutrition and otherwise, and of any special diets prepared for individual patients.
 
-**14.**[^key-f50f6944b8d523fb3e960826711590b9] A record of every fire practice, drill or test of fire equipment (including fire alarm equipment) conducted in the nursing home and of any action taken to remedy defects in the fire equipment.
+**14.**[^c-f50f6944b8d523fb3e960826711590b9] A record of every fire practice, drill or test of fire equipment (including fire alarm equipment) conducted in the nursing home and of any action taken to remedy defects in the fire equipment.
 
-**15.**[^key-79bdfa3df3c34061f728952f3e58e518] A statement of the procedure to be followed in the event of a fire, or where a fire alarm is activated.
+**15.**[^c-79bdfa3df3c34061f728952f3e58e518] A statement of the procedure to be followed in the event of a fire, or where a fire alarm is activated.
 
-**16.**[^key-51f7632a4765b3ddf68aa2eb652bf6f0] A statement of the procedure to be followed in the event of accidents or in the event of a patient becoming missing.
+**16.**[^c-51f7632a4765b3ddf68aa2eb652bf6f0] A statement of the procedure to be followed in the event of accidents or in the event of a patient becoming missing.
 
-**17.**[^key-af5fe54a1e55b7d91e6bd02aaa873005] A record of charges made to patients for transport and the amounts paid by or in respect of each patient.
+**17.**[^c-af5fe54a1e55b7d91e6bd02aaa873005] A record of charges made to patients for transport and the amounts paid by or in respect of each patient.
 
-**18.**[^key-1f0f50c06ba3536d43ab0d25bac03853] Where patients collectively own the vehicles –
+**18.**[^c-1f0f50c06ba3536d43ab0d25bac03853] Where patients collectively own the vehicles –
 
 - (a) a record is kept with the amounts paid by or in respect of each patient running the vehicle;
 - (b) a record is kept of journeys made and names of patients being transported.
 
-**19.**[^key-044f12abe1e56c7620af2dc09ba81253] A record of the programme of events and activities that includes the name of the person leading the activity and the names of those who participated.
+**19.**[^c-044f12abe1e56c7620af2dc09ba81253] A record of the programme of events and activities that includes the name of the person leading the activity and the names of those who participated.
 
-**20.**[^key-5df389ff37d8be35be1ca9eb6e68cf4e] A record of all staff meetings held and the names of all those attending.
+**20.**[^c-5df389ff37d8be35be1ca9eb6e68cf4e] A record of all staff meetings held and the names of all those attending.
 
-**21.**[^key-5c14992f53553f5031daeb3d969606f4] A record of training undertaken as referred to in regulation 20(1)(c)(i).
+**21.**[^c-5c14992f53553f5031daeb3d969606f4] A record of training undertaken as referred to in regulation 20(1)(c)(i).
 
-**22.**[^key-85aa64916b5666063bc26c13d57b4c89] A record of all visitors to the nursing home, including the names of all visitors.
+**22.**[^c-85aa64916b5666063bc26c13d57b4c89] A record of all visitors to the nursing home, including the names of all visitors.
 
 (This note is not part of the Regulations.)
 
@@ -955,17 +955,17 @@ Part VI deals with miscellaneous matters including the giving of notices to the 
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-4b6cf100fdcdd5a3d71b902464787eab]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-4b6cf100fdcdd5a3d71b902464787eab]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-9566b1c5dc684829997b8ed20722dfd2]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-9566b1c5dc684829997b8ed20722dfd2]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-ef1394d58ebab6cb8293abbcc04ea39d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 34(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/34/2)
+[^c-ef1394d58ebab6cb8293abbcc04ea39d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 34(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/34/2)
 
 [^f00002]: Footnote: S.I. [2004/1031](https://www.legislation.gov.uk/uksi/2004/1031)
 
-[^key-097f3c68a787fdf89eb01060eef8e6dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 41(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/41/2)
+[^c-097f3c68a787fdf89eb01060eef8e6dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 41(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/41/2)
 
-[^key-a81c1affb802b945a15bfac5448a396f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/2/1) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/4) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
+[^c-a81c1affb802b945a15bfac5448a396f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/2/1) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/4) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
 
 [^f00003]: Footnote: S.I. [1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821)
 
@@ -973,224 +973,224 @@ Part VI deals with miscellaneous matters including the giving of notices to the 
 
 [^f00005]: Footnote: S.I. [2002/253](https://www.legislation.gov.uk/uksi/2002/253)
 
-[^key-3a0d4eaa3a901302cc1002686d49d67a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/2/1) inserted (21.10.2013) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers Regulations (Northern Ireland) 2013 (S.R. 2013/225)](https://www.legislation.gov.uk/nisr/2013/225), [regs. 1](https://www.legislation.gov.uk/nisr/2013/225/regulation/1), [10(2)](https://www.legislation.gov.uk/nisr/2013/225/regulation/10/2)
+[^c-3a0d4eaa3a901302cc1002686d49d67a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/2/1) inserted (21.10.2013) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers Regulations (Northern Ireland) 2013 (S.R. 2013/225)](https://www.legislation.gov.uk/nisr/2013/225), [regs. 1](https://www.legislation.gov.uk/nisr/2013/225/regulation/1), [10(2)](https://www.legislation.gov.uk/nisr/2013/225/regulation/10/2)
 
 [^f00006]: Footnote: [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
 
-[^key-94595a9af40694741a4f721e09170cf6]: Commencement: Reg. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-94595a9af40694741a4f721e09170cf6]: Commencement: Reg. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-4c75c34fad626922a912a9c40d33a194]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-4c75c34fad626922a912a9c40d33a194]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-5de252256c2ce63056739936e2fd5930]: Commencement: Reg. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-5de252256c2ce63056739936e2fd5930]: Commencement: Reg. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-22523e7e133eefe28accd4fabbeedef3]: Commencement: Reg. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-22523e7e133eefe28accd4fabbeedef3]: Commencement: Reg. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-c788c8daeff5c5feba20edf1999806e8]: Commencement: Reg. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-c788c8daeff5c5feba20edf1999806e8]: Commencement: Reg. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-0e4d061c6476eb85276337279e4f58b1]: Textual amendment: [Reg. 7(4)(ab)](https://www.legislation.gov.uk/nisr/2005/160/regulation/7/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 34(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/34/3)
+[^c-0e4d061c6476eb85276337279e4f58b1]: Textual amendment: [Reg. 7(4)(ab)](https://www.legislation.gov.uk/nisr/2005/160/regulation/7/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 34(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/34/3)
 
-[^key-389ed518982bdc240e3b0961f929b93a]: Textual amendment: [Reg. 7(4)(ac)](https://www.legislation.gov.uk/nisr/2005/160/regulation/7/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 41(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/41/3)
+[^c-389ed518982bdc240e3b0961f929b93a]: Textual amendment: [Reg. 7(4)(ac)](https://www.legislation.gov.uk/nisr/2005/160/regulation/7/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 41(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/41/3)
 
-[^key-e70fc084e3769b1d4e69275a2b0d59f1]: Commencement: Reg. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-e70fc084e3769b1d4e69275a2b0d59f1]: Commencement: Reg. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-fda7ffc1b261588503f563e6aad723c0]: Commencement: Reg. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-fda7ffc1b261588503f563e6aad723c0]: Commencement: Reg. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-0185d3acb46fadf41090cb76149842f8]: Commencement: Reg. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-0185d3acb46fadf41090cb76149842f8]: Commencement: Reg. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-9093d46a22de74eccc5540b7d428f244]: Commencement: Reg. 11 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-9093d46a22de74eccc5540b7d428f244]: Commencement: Reg. 11 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-7852f3d01bc4baafd823c22423c91031]: Commencement: Reg. 12 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-7852f3d01bc4baafd823c22423c91031]: Commencement: Reg. 12 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-5bc31ba42dc123f8443a3338916232fc]: Commencement: Reg. 13 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-5bc31ba42dc123f8443a3338916232fc]: Commencement: Reg. 13 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
 [^f00007]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-aff6ddb275d31a2fccd7b2d447006b2a]: Textual amendment: Words in [reg. 13(6)(b)](https://www.legislation.gov.uk/nisr/2005/160/regulation/13/6/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 114](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/114) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-aff6ddb275d31a2fccd7b2d447006b2a]: Textual amendment: Words in [reg. 13(6)(b)](https://www.legislation.gov.uk/nisr/2005/160/regulation/13/6/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 114](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/114) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-a96e2f1279ae5862c30155f13995acfd]: Commencement: Reg. 14 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-a96e2f1279ae5862c30155f13995acfd]: Commencement: Reg. 14 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-12f4a2a98384ce423770e7c7b359c9d0]: Commencement: Reg. 15 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-12f4a2a98384ce423770e7c7b359c9d0]: Commencement: Reg. 15 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-ecdf5d4c34f9bda908cd61abb8ec9b61]: Commencement: Reg. 16 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-ecdf5d4c34f9bda908cd61abb8ec9b61]: Commencement: Reg. 16 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-a18b606445786d5a5b0da1ff2702a2bf]: Commencement: Reg. 17 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-a18b606445786d5a5b0da1ff2702a2bf]: Commencement: Reg. 17 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-78352bfb3f3c76b7983a6301f8c93592]: Commencement: Reg. 18 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-78352bfb3f3c76b7983a6301f8c93592]: Commencement: Reg. 18 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-d56a9d6ea19b1ca07d7ef7baf4ad0d3d]: Commencement: Reg. 19 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-d56a9d6ea19b1ca07d7ef7baf4ad0d3d]: Commencement: Reg. 19 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-8bf8fcc435f08df086b70fb67e7f3da1]: Commencement: Reg. 20 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-8bf8fcc435f08df086b70fb67e7f3da1]: Commencement: Reg. 20 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-334e6504646ad7c7f7b80cdc9e6e13dd]: Commencement: Reg. 21 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-334e6504646ad7c7f7b80cdc9e6e13dd]: Commencement: Reg. 21 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-297dab09a8d0d27fc3629145d25e2b17]: Textual amendment: [Reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/1/b) substituted (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/145/regulation/3)
+[^c-297dab09a8d0d27fc3629145d25e2b17]: Textual amendment: [Reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/1/b) substituted (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/145/regulation/3)
 
-[^key-5af719e307d615e6303a7a860b4e61b4]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/1) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/60/regulation/2/2)
+[^c-5af719e307d615e6303a7a860b4e61b4]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/1) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/60/regulation/2/2)
 
-[^key-93fa86fb46273684ade80d60dc957481]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/2) substituted (13.8.2008) by [The Establishments and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2008 (S.R. 2008/346)](https://www.legislation.gov.uk/nisr/2008/346), [regs. 1](https://www.legislation.gov.uk/nisr/2008/346/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2008/346/regulation/2/2/b)
+[^c-93fa86fb46273684ade80d60dc957481]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/2) substituted (13.8.2008) by [The Establishments and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2008 (S.R. 2008/346)](https://www.legislation.gov.uk/nisr/2008/346), [regs. 1](https://www.legislation.gov.uk/nisr/2008/346/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2008/346/regulation/2/2/b)
 
-[^key-1f7ab1d591a01016afa19f7e3c9bbd1b]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/3) substituted (13.8.2008) by [The Establishments and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2008 (S.R. 2008/346)](https://www.legislation.gov.uk/nisr/2008/346), [regs. 1](https://www.legislation.gov.uk/nisr/2008/346/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2008/346/regulation/2/2/c)
+[^c-1f7ab1d591a01016afa19f7e3c9bbd1b]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/3) substituted (13.8.2008) by [The Establishments and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2008 (S.R. 2008/346)](https://www.legislation.gov.uk/nisr/2008/346), [regs. 1](https://www.legislation.gov.uk/nisr/2008/346/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2008/346/regulation/2/2/c)
 
-[^key-ec9998fc350e40d58518b3a33fed7b61]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/4) revoked (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/145/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/145/schedule)
+[^c-ec9998fc350e40d58518b3a33fed7b61]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/4) revoked (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/145/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/145/schedule)
 
-[^key-90be3555a40753522545b1a7e036e2ae]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/4) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/60/regulation/2/3)
+[^c-90be3555a40753522545b1a7e036e2ae]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/4) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/60/regulation/2/3)
 
-[^key-3b3c2b4c8dea8f7aa5e5cc9a241a17d2]: Textual amendment: [Reg. 21(4A)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/4A) revoked (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/145/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/145/schedule)
+[^c-3b3c2b4c8dea8f7aa5e5cc9a241a17d2]: Textual amendment: [Reg. 21(4A)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/4A) revoked (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/145/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/145/schedule)
 
-[^key-fde57f6bbfada67ca5e58efa62f636a5]: Textual amendment: Words in [reg. 21(5)(d)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/d) revoked (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/145/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/145/schedule)
+[^c-fde57f6bbfada67ca5e58efa62f636a5]: Textual amendment: Words in [reg. 21(5)(d)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/d) revoked (6.4.2009) by [The Establishments and Agencies (Fitness of Workers) (Amendment No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/145)](https://www.legislation.gov.uk/nisr/2009/145), [regs. 1](https://www.legislation.gov.uk/nisr/2009/145/regulation/1), [2](https://www.legislation.gov.uk/nisr/2009/145/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/145/schedule)
 
-[^key-41840b7bb7bcb9340e94c1696429b32b]: Textual amendment: [Reg. 21(5)(e)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/e)[(f)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/f) inserted (21.10.2013) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers Regulations (Northern Ireland) 2013 (S.R. 2013/225)](https://www.legislation.gov.uk/nisr/2013/225), [regs. 1](https://www.legislation.gov.uk/nisr/2013/225/regulation/1), [10(3)](https://www.legislation.gov.uk/nisr/2013/225/regulation/10/3)
+[^c-41840b7bb7bcb9340e94c1696429b32b]: Textual amendment: [Reg. 21(5)(e)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/e)[(f)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/f) inserted (21.10.2013) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers Regulations (Northern Ireland) 2013 (S.R. 2013/225)](https://www.legislation.gov.uk/nisr/2013/225), [regs. 1](https://www.legislation.gov.uk/nisr/2013/225/regulation/1), [10(3)](https://www.legislation.gov.uk/nisr/2013/225/regulation/10/3)
 
-[^key-109672e3e427b90a4059c9fafb40a317]: Textual amendment: Words in [reg. 21(5)(e)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/e) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/9/2/a)
+[^c-109672e3e427b90a4059c9fafb40a317]: Textual amendment: Words in [reg. 21(5)(e)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/e) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/9/2/a)
 
-[^key-35b6d31762075f7ccffafbca4cca5474]: Textual amendment: [Reg. 21(5)(f)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/f) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [9(2)(b)(i)](https://www.legislation.gov.uk/nisr/2017/207/regulation/9/2/b/i)
+[^c-35b6d31762075f7ccffafbca4cca5474]: Textual amendment: [Reg. 21(5)(f)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/f) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [9(2)(b)(i)](https://www.legislation.gov.uk/nisr/2017/207/regulation/9/2/b/i)
 
-[^key-3fd6c6e770c18a02c0641a15135ea90f]: Textual amendment: [Reg. 21(5)(g)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/g) added (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/nisr/2017/207/regulation/9/2/c)
+[^c-3fd6c6e770c18a02c0641a15135ea90f]: Textual amendment: [Reg. 21(5)(g)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/5/g) added (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/nisr/2017/207/regulation/9/2/c)
 
-[^key-54075c8c8fe0b8d9444fab418915653d]: Textual amendment: [Reg. 21(7)-(10)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/7) (reg. 21(7)-(9) previously omitted by virtue of S.R. 2009/145, Sch.) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2020/60/regulation/2/4)
+[^c-54075c8c8fe0b8d9444fab418915653d]: Textual amendment: [Reg. 21(7)-(10)](https://www.legislation.gov.uk/nisr/2005/160/regulation/21/7) (reg. 21(7)-(9) previously omitted by virtue of S.R. 2009/145, Sch.) inserted (2.4.2020) by [The Establishment and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2020 (S.R. 2020/60)](https://www.legislation.gov.uk/nisr/2020/60), [regs. 1](https://www.legislation.gov.uk/nisr/2020/60/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2020/60/regulation/2/4)
 
-[^key-ddd15eda0b7337bc0821ee744b94af4f]: Commencement: Reg. 22 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-ddd15eda0b7337bc0821ee744b94af4f]: Commencement: Reg. 22 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-cbb2dd3abb97e7f7f4bb0a16d4fe97a0]: Commencement: Reg. 23 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-cbb2dd3abb97e7f7f4bb0a16d4fe97a0]: Commencement: Reg. 23 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-ac0829cfae29a187ad526124be00245e]: Commencement: Reg. 24 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-ac0829cfae29a187ad526124be00245e]: Commencement: Reg. 24 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-95e7e12b558a3b1db1109d6eb146f387]: Commencement: Reg. 25 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-95e7e12b558a3b1db1109d6eb146f387]: Commencement: Reg. 25 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-3d020ce6e915595953b969bdfcad9924]: Commencement: Reg. 26 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-3d020ce6e915595953b969bdfcad9924]: Commencement: Reg. 26 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
 [^f00009]: Footnote: S.I. [2004/1031](https://www.legislation.gov.uk/uksi/2004/1031)
 
-[^key-56335148530d095bd719e5876963250f]: Commencement: Reg. 27 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-56335148530d095bd719e5876963250f]: Commencement: Reg. 27 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-d03f33702cf80a8e9c55a346fc73efdf]: Commencement: Reg. 28 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-d03f33702cf80a8e9c55a346fc73efdf]: Commencement: Reg. 28 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-c7d5870d0a363d1cde4fb6a4b3f37ba0]: Commencement: Reg. 29 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-c7d5870d0a363d1cde4fb6a4b3f37ba0]: Commencement: Reg. 29 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-781a1ab5fd29a74e63eb4376c086268a]: Commencement: Reg. 30 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-781a1ab5fd29a74e63eb4376c086268a]: Commencement: Reg. 30 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-473c26334205e891f80afff62ccd6541]: Commencement: Reg. 31 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-473c26334205e891f80afff62ccd6541]: Commencement: Reg. 31 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-2a8a54059c24c9b77b950728770e5555]: Commencement: Reg. 32 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-2a8a54059c24c9b77b950728770e5555]: Commencement: Reg. 32 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-65201f21e708d3cb7d4663acd73edc89]: Textual amendment: [Reg. 32(fa)](https://www.legislation.gov.uk/nisr/2005/160/regulation/32/fa) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 41(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/41/4)
+[^c-65201f21e708d3cb7d4663acd73edc89]: Textual amendment: [Reg. 32(fa)](https://www.legislation.gov.uk/nisr/2005/160/regulation/32/fa) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 41(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/41/4)
 
-[^key-df7fc682c9b4faf57f7ed93f79fdcdf5]: Commencement: Reg. 33 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-df7fc682c9b4faf57f7ed93f79fdcdf5]: Commencement: Reg. 33 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-4913b194282f6ece97fb101336e567c6]: Commencement: Reg. 34 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-4913b194282f6ece97fb101336e567c6]: Commencement: Reg. 34 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-cb23c541dcdbd0dc856309286c5b51c2]: Commencement: Reg. 35 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-cb23c541dcdbd0dc856309286c5b51c2]: Commencement: Reg. 35 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-6794ce64a9ee676126a0634559849aef]: Commencement: Reg. 36 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-6794ce64a9ee676126a0634559849aef]: Commencement: Reg. 36 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-d508ec4c60bdb4338aa301ecea5b09a4]: Commencement: Reg. 37 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-d508ec4c60bdb4338aa301ecea5b09a4]: Commencement: Reg. 37 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-1ab58c6d0304c02b3b6b1dd85a128f24]: Commencement: Reg. 38 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-1ab58c6d0304c02b3b6b1dd85a128f24]: Commencement: Reg. 38 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
 [^f00010]: Footnote: [S.R. 1993 No. 92](https://www.legislation.gov.uk/nisr/1993/92)
 
 [^f00011]: Footnote: [S.R. 1998 No. 140](https://www.legislation.gov.uk/nisr/1998/140)
 
-[^key-65ed88f64e7d935c68f76572f3fb5aa7]: Commencement: Sch. 1 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-65ed88f64e7d935c68f76572f3fb5aa7]: Commencement: Sch. 1 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-4a48286a01a9ec1b07ed24ed563f9183]: Commencement: Sch. 1 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-4a48286a01a9ec1b07ed24ed563f9183]: Commencement: Sch. 1 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-52884c2390c0997a60add2f96b486fb7]: Commencement: Sch. 1 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-52884c2390c0997a60add2f96b486fb7]: Commencement: Sch. 1 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-2078d460e4f52f8ef2ea82d0dfe1b66a]: Commencement: Sch. 1 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-2078d460e4f52f8ef2ea82d0dfe1b66a]: Commencement: Sch. 1 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-efbf26e54668feab55c4eb8d9c5d6969]: Commencement: Sch. 1 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-efbf26e54668feab55c4eb8d9c5d6969]: Commencement: Sch. 1 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-1a46dce6983505ea237645460953cc62]: Commencement: Sch. 1 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-1a46dce6983505ea237645460953cc62]: Commencement: Sch. 1 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-1233312c394807faaead2ed979e00f3b]: Commencement: Sch. 1 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-1233312c394807faaead2ed979e00f3b]: Commencement: Sch. 1 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-8540debd6e01791221dda0286f69b571]: Commencement: Sch. 1 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-8540debd6e01791221dda0286f69b571]: Commencement: Sch. 1 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-bad445c56033e7afbed06979fee30896]: Commencement: Sch. 1 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-bad445c56033e7afbed06979fee30896]: Commencement: Sch. 1 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-dea8827e1cbc34a00bf0569824c8be2f]: Commencement: Sch. 1 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-dea8827e1cbc34a00bf0569824c8be2f]: Commencement: Sch. 1 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-e7ea2005a6c863405a4da0734799749d]: Commencement: Sch. 1 para. 11 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-e7ea2005a6c863405a4da0734799749d]: Commencement: Sch. 1 para. 11 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-05b007eb83c8be2e84004dae5609d830]: Commencement: Sch. 1 para. 12 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-05b007eb83c8be2e84004dae5609d830]: Commencement: Sch. 1 para. 12 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-1c85d471a9e9092933d35303baaedbd1]: Commencement: Sch. 1 para. 13 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-1c85d471a9e9092933d35303baaedbd1]: Commencement: Sch. 1 para. 13 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-872211ca90985b48f600066b6eea6985]: Commencement: Sch. 1 para. 14 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-872211ca90985b48f600066b6eea6985]: Commencement: Sch. 1 para. 14 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-2b9467963dd8b92009fcca0faa548782]: Commencement: Sch. 1 para. 15 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-2b9467963dd8b92009fcca0faa548782]: Commencement: Sch. 1 para. 15 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-76d37ea3e53c99f5bda3d6df950643e0]: Commencement: Sch. 1 para. 16 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-76d37ea3e53c99f5bda3d6df950643e0]: Commencement: Sch. 1 para. 16 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-9e26858cd06ea615aa39db37dd836293]: Commencement: Sch. 1 para. 17 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-9e26858cd06ea615aa39db37dd836293]: Commencement: Sch. 1 para. 17 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-a996ba70afffb13cc20666fe052ce925]: Commencement: Sch. 1 para. 18 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-a996ba70afffb13cc20666fe052ce925]: Commencement: Sch. 1 para. 18 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-b9d0704e542ef71f3d5e810a98e8e7a2]: Commencement: Sch. 1 para. 19 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-b9d0704e542ef71f3d5e810a98e8e7a2]: Commencement: Sch. 1 para. 19 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-7bc146451f7bb9398217a0561f70aa26]: Commencement: Sch. 2 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-7bc146451f7bb9398217a0561f70aa26]: Commencement: Sch. 2 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-e5e395177f4042f6b338dfa00bb8b070]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/160/schedule/2/paragraph/2) substituted (13.8.2008) by [The Establishments and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2008 (S.R. 2008/346)](https://www.legislation.gov.uk/nisr/2008/346), [regs. 1](https://www.legislation.gov.uk/nisr/2008/346/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/346/regulation/2/3)
+[^c-e5e395177f4042f6b338dfa00bb8b070]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/160/schedule/2/paragraph/2) substituted (13.8.2008) by [The Establishments and Agencies (Fitness of Workers) Regulations (Northern Ireland) 2008 (S.R. 2008/346)](https://www.legislation.gov.uk/nisr/2008/346), [regs. 1](https://www.legislation.gov.uk/nisr/2008/346/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/346/regulation/2/3)
 
-[^key-901e51fdf462d15771a94c5ab70dbb6a]: Commencement: Sch. 2 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-901e51fdf462d15771a94c5ab70dbb6a]: Commencement: Sch. 2 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-feb512349e161b6bd283dcf7d3a019e0]: Commencement: Sch. 2 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-feb512349e161b6bd283dcf7d3a019e0]: Commencement: Sch. 2 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-b0f50c8b48a38b36b29826a6e5b0b1b2]: Commencement: Sch. 2 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-b0f50c8b48a38b36b29826a6e5b0b1b2]: Commencement: Sch. 2 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-6d67b7915629737618c3d86c8356641f]: Commencement: Sch. 2 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-6d67b7915629737618c3d86c8356641f]: Commencement: Sch. 2 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-d62c620d0b4fc10b2336bdad4153797d]: Commencement: Sch. 2 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-d62c620d0b4fc10b2336bdad4153797d]: Commencement: Sch. 2 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-7d40729b7fdbeb3570bb98d2da6bb531]: Commencement: Sch. 3 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-7d40729b7fdbeb3570bb98d2da6bb531]: Commencement: Sch. 3 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-caa78b8f075db6e3fca800562b0e9743]: Commencement: Sch. 3 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-caa78b8f075db6e3fca800562b0e9743]: Commencement: Sch. 3 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-8154f79be9857c0830a3affd1b3d99cf]: Commencement: Sch. 3 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-8154f79be9857c0830a3affd1b3d99cf]: Commencement: Sch. 3 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-e520d406bc3918745410a4b233e27ece]: Commencement: Sch. 3 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-e520d406bc3918745410a4b233e27ece]: Commencement: Sch. 3 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-98b176a6b151e28887e6fa9b476895c5]: Commencement: Sch. 4 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-98b176a6b151e28887e6fa9b476895c5]: Commencement: Sch. 4 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-6717543fff02eddae1fd3d01b008adee]: Commencement: Sch. 4 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-6717543fff02eddae1fd3d01b008adee]: Commencement: Sch. 4 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-8deb737ad18321b5516ab5ce4225ad53]: Commencement: Sch. 4 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-8deb737ad18321b5516ab5ce4225ad53]: Commencement: Sch. 4 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-174fd0886f4c20e33aa9fe401aa9ad5b]: Commencement: Sch. 4 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-174fd0886f4c20e33aa9fe401aa9ad5b]: Commencement: Sch. 4 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-7b8ea2f6bc271659ee7d593572b0ad83]: Commencement: Sch. 4 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-7b8ea2f6bc271659ee7d593572b0ad83]: Commencement: Sch. 4 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-d780b65aee86873e9c2ee287f76cd8d6]: Commencement: Sch. 4 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-d780b65aee86873e9c2ee287f76cd8d6]: Commencement: Sch. 4 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-1bd3fa72dc8fd063dc79d6d2feec92c0]: Commencement: Sch. 4 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-1bd3fa72dc8fd063dc79d6d2feec92c0]: Commencement: Sch. 4 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-cdebefe08e04ff1b45d4befbcfba7b65]: Commencement: Sch. 4 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-cdebefe08e04ff1b45d4befbcfba7b65]: Commencement: Sch. 4 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-78f903d3ad172700abac75e158f79f00]: Commencement: Sch. 4 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-78f903d3ad172700abac75e158f79f00]: Commencement: Sch. 4 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-675e73356b1a1dafb55dcaa3df0a8299]: Commencement: Sch. 4 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-675e73356b1a1dafb55dcaa3df0a8299]: Commencement: Sch. 4 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-7f4c0143a8f5b6d4c5abff1a41962e6d]: Commencement: Sch. 4 para. 11 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-7f4c0143a8f5b6d4c5abff1a41962e6d]: Commencement: Sch. 4 para. 11 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-46c2a7e43f286215f6f18933aa3a8092]: Commencement: Sch. 4 para. 12 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-46c2a7e43f286215f6f18933aa3a8092]: Commencement: Sch. 4 para. 12 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-a763d8fa461c30fd1ea3bdb5009cffaf]: Commencement: Sch. 4 para. 13 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-a763d8fa461c30fd1ea3bdb5009cffaf]: Commencement: Sch. 4 para. 13 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-f50f6944b8d523fb3e960826711590b9]: Commencement: Sch. 4 para. 14 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-f50f6944b8d523fb3e960826711590b9]: Commencement: Sch. 4 para. 14 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-79bdfa3df3c34061f728952f3e58e518]: Commencement: Sch. 4 para. 15 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-79bdfa3df3c34061f728952f3e58e518]: Commencement: Sch. 4 para. 15 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-51f7632a4765b3ddf68aa2eb652bf6f0]: Commencement: Sch. 4 para. 16 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-51f7632a4765b3ddf68aa2eb652bf6f0]: Commencement: Sch. 4 para. 16 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-af5fe54a1e55b7d91e6bd02aaa873005]: Commencement: Sch. 4 para. 17 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-af5fe54a1e55b7d91e6bd02aaa873005]: Commencement: Sch. 4 para. 17 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-1f0f50c06ba3536d43ab0d25bac03853]: Commencement: Sch. 4 para. 18 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-1f0f50c06ba3536d43ab0d25bac03853]: Commencement: Sch. 4 para. 18 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-044f12abe1e56c7620af2dc09ba81253]: Commencement: Sch. 4 para. 19 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-044f12abe1e56c7620af2dc09ba81253]: Commencement: Sch. 4 para. 19 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-5df389ff37d8be35be1ca9eb6e68cf4e]: Commencement: Sch. 4 para. 20 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-5df389ff37d8be35be1ca9eb6e68cf4e]: Commencement: Sch. 4 para. 20 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-5c14992f53553f5031daeb3d969606f4]: Commencement: Sch. 4 para. 21 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-5c14992f53553f5031daeb3d969606f4]: Commencement: Sch. 4 para. 21 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
 
-[^key-85aa64916b5666063bc26c13d57b4c89]: Commencement: Sch. 4 para. 22 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)
+[^c-85aa64916b5666063bc26c13d57b4c89]: Commencement: Sch. 4 para. 22 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/160/regulation/1)

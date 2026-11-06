@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Gibraltar-based persons carrying on activities in the UK[^key-4ec4dd49ca98d571ca9a2529266370ff]
+## SCHEDULE 6 — Gibraltar-based persons carrying on activities in the UK[^c-4ec4dd49ca98d571ca9a2529266370ff]
 
 *Extent: E+W+S+N.I.*
 
 Section 22
 
-[^key-4ec4dd49ca98d571ca9a2529266370ff]
+[^c-4ec4dd49ca98d571ca9a2529266370ff]
 
 After Schedule 2 to the Financial Services and Markets Act 2000 insert—
 
@@ -1045,7 +1045,7 @@ After Schedule 2 to the Financial Services and Markets Act 2000 insert—
 >   - (a) in the case of a PRA-authorised person, the PRA, and
 >   - (b) in any other case, the FCA;
 > - “**enactment**” includes—
->   - (a) assimilated direct[^key-c74ade250b3e1a2b1b7ac28f565f978a] legislation,
+>   - (a) assimilated direct[^c-c74ade250b3e1a2b1b7ac28f565f978a] legislation,
 >   - (b) an enactment comprised in subordinate legislation,
 >   - (c) an enactment comprised in, or in an instrument made under, a Measure or Act of Senedd Cymru,
 >   - (d) an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament, and
@@ -1463,6 +1463,6 @@ After Schedule 2 to the Financial Services and Markets Act 2000 insert—
 
 ## Annotations
 
-[^key-4ec4dd49ca98d571ca9a2529266370ff]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/6) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/a)
+[^c-4ec4dd49ca98d571ca9a2529266370ff]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/6) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/a)
 
-[^key-c74ade250b3e1a2b1b7ac28f565f978a]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 100(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/100/3/b)
+[^c-c74ade250b3e1a2b1b7ac28f565f978a]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 100(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/100/3/b)

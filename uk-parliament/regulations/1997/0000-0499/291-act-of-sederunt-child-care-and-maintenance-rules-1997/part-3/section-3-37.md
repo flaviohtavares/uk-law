@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.37. Orders[^key-fc636eaaf2e19c2ade93942c7fc0fc0a]
+## 3.37. Orders[^c-fc636eaaf2e19c2ade93942c7fc0fc0a]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc636eaaf2e19c2ade93942c7fc0fc0a]: Commencement: Rule 3.37 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-fc636eaaf2e19c2ade93942c7fc0fc0a]: Commencement: Rule 3.37 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

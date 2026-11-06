@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20. Introduction[^key-3e6555d3b1614bb2386298792446d49a]
+## 20. Introduction[^c-3e6555d3b1614bb2386298792446d49a]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ This Part contains provisions relating to the procedure for making pastoral chur
 
 ## Annotations
 
-[^key-3e6555d3b1614bb2386298792446d49a]: Commencement: S. 20 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-3e6555d3b1614bb2386298792446d49a]: Commencement: S. 20 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

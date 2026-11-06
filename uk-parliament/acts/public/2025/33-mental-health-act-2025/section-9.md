@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Remission or release of prisoners etc from hospital: treatment condition[^key-f16a3edb4c5828927233009371554e78]
+## 9. Remission or release of prisoners etc from hospital: treatment condition[^c-f16a3edb4c5828927233009371554e78]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In the Mental Health Act 1983, in the following places, for “effective” subs
 
 ## Annotations
 
-[^key-f16a3edb4c5828927233009371554e78]: Commencement: S. 9 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-f16a3edb4c5828927233009371554e78]: Commencement: S. 9 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

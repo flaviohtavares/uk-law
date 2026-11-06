@@ -65,7 +65,7 @@ summary: ''
 - (h) the power to make an order under Article 210 modifying a scheme, giving directions or imposing a schedule of contributions;
 - (i) the power to make an order under Article 3(1) of the 1995 Order prohibiting a person from being a trustee;
 - (j) the power to make an order under Article 3(3) of that Order revoking such an order;
-- (ja)[^key-09ccac7c86b3495750caf8fc4d1915cc] the power under Article 3A(3) of that Order to give a notice waiving a prohibition;
+- (ja)[^c-09ccac7c86b3495750caf8fc4d1915cc] the power under Article 3A(3) of that Order to give a notice waiving a prohibition;
 - (k) the power to make an order under Article 4(1) of that Order suspending a trustee;
 - (l) the power to make an order under Article 4(5) of that Order revoking such an order;
 - (m) the power to make an order under Article 7 of that Order appointing a trustee;
@@ -77,12 +77,12 @@ summary: ''
 - (s) the power to make an order under Article 67G(2) of that Order by virtue of which any modification of, or grant of rights under, an occupational pension scheme is void to any extent;
 - (t) the power to make an order under Article 67H(2) of that Order prohibiting, or specifying steps to be taken in relation to, the exercise of a power to modify an occupational pension scheme;
 - (ta)[^c21188731] a power under section 20H of the Pension Schemes Act;
-- (tb)[^key-ca78a0b0fe0f3f05fd64b6a31abaf177] the power under section 81 of the Pension Schemes Act 2021 to withdraw authorisation of a collective money purchase scheme;
+- (tb)[^c-ca78a0b0fe0f3f05fd64b6a31abaf177] the power under section 81 of the Pension Schemes Act 2021 to withdraw authorisation of a collective money purchase scheme;
 - (tc) the power to make a pause order under section 95 of that Act;
 - (td) the power to make an order under paragraph 2(2) of Schedule 5 to that Act extending the period for which a pause order has effect;
 - (te) the power to make an order under paragraph 3 of that Schedule validating action taken in contravention of a pause order;
 - (tf) the power to make an order under paragraph 4(3) of that Schedule directing the notification of members or employers;
-- (tg)[^key-a90f2a8d34e0376fb6a6feadbda2edfd] the power to withdraw authorisation of a Master Trust scheme under section 19 of the Pension Schemes Act (Northern Ireland) 2021;
+- (tg)[^c-a90f2a8d34e0376fb6a6feadbda2edfd] the power to withdraw authorisation of a Master Trust scheme under section 19 of the Pension Schemes Act (Northern Ireland) 2021;
 - (th) the power to make a pause order under section 31 of that Act;
 - (ti) the power to make an order under paragraph 2(2) of Schedule 1 to that Act extending the period for which a pause order has effect;
 - (tj) the power to make an order under paragraph 3 of that Schedule validating action taken in contravention of a pause order;
@@ -92,10 +92,10 @@ summary: ''
 
 ## Annotations
 
-[^key-09ccac7c86b3495750caf8fc4d1915cc]: Textual amendment: [Art. 92(5)(ja)](https://www.legislation.gov.uk/nisi/2005/255/article/92/5/ja) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 9](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/9); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
+[^c-09ccac7c86b3495750caf8fc4d1915cc]: Textual amendment: [Art. 92(5)(ja)](https://www.legislation.gov.uk/nisi/2005/255/article/92/5/ja) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 9](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/9); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
 
 [^c21188731]: Textual amendment: Art. 92(5)(ta) inserted (3.3.2009 for certain purposes otherwise 6.4.2009) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 12(6)](https://www.legislation.gov.uk/nia/2008/1/section/12/6), [21(1)(a)](https://www.legislation.gov.uk/nia/2008/1/section/21/1/a); [S.R. 2009/75](https://www.legislation.gov.uk/nisr/2009/75), [art. 2](https://www.legislation.gov.uk/nisr/2009/75/article/2)
 
-[^key-ca78a0b0fe0f3f05fd64b6a31abaf177]: Textual amendment: [Art. 92(5)(tb)-(tf)](https://www.legislation.gov.uk/nisi/2005/255/article/92/5/tb) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/16); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-ca78a0b0fe0f3f05fd64b6a31abaf177]: Textual amendment: [Art. 92(5)(tb)-(tf)](https://www.legislation.gov.uk/nisi/2005/255/article/92/5/tb) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/16); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-a90f2a8d34e0376fb6a6feadbda2edfd]: Textual amendment: [Art. 92(5)(tg)-(tk)](https://www.legislation.gov.uk/nisi/2005/255/article/92/5/tg) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/17); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-a90f2a8d34e0376fb6a6feadbda2edfd]: Textual amendment: [Art. 92(5)(tg)-(tk)](https://www.legislation.gov.uk/nisi/2005/255/article/92/5/tg) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/17); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)

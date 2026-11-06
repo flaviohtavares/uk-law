@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Part 1 of the 1998 Act: procedural matters[^c2181322][^key-2681b915ff36f915b5376bfd4b6cfba6]
+## 42. Part 1 of the 1998 Act: procedural matters[^c2181322][^c-2681b915ff36f915b5376bfd4b6cfba6]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,4 +107,4 @@ summary: ''
 
 [^c2181322]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2013/24/section/42) partly in force; [s. 42](https://www.legislation.gov.uk/ukpga/2013/24/section/42) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-2681b915ff36f915b5376bfd4b6cfba6]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2013/24/section/42) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-2681b915ff36f915b5376bfd4b6cfba6]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2013/24/section/42) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

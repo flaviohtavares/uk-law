@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.35. Limited disclosure[^key-a326a3f2dde866a355dd806cd4a33245]
+## 4.35. Limited disclosure[^c-a326a3f2dde866a355dd806cd4a33245]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a326a3f2dde866a355dd806cd4a33245]: Commencement: [Rule 4.35](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.35) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a326a3f2dde866a355dd806cd4a33245]: Commencement: [Rule 4.35](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.35) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

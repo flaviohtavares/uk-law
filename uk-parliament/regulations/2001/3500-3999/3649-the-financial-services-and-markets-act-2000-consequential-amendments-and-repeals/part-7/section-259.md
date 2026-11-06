@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259. Limits on investments and other definitions[^key-409d788fb20ed171f1717dc4e1e5f54b]
+## 259. Limits on investments and other definitions[^c-409d788fb20ed171f1717dc4e1e5f54b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-409d788fb20ed171f1717dc4e1e5f54b]: Commencement: Art. 259 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-409d788fb20ed171f1717dc4e1e5f54b]: Commencement: Art. 259 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

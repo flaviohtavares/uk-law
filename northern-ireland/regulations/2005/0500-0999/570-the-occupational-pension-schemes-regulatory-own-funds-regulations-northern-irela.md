@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to personal and occupational pensions, in exercise of the powers conferred on it by that section and Articles 55(2)(h), 202(1)(b), 211 and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-b22406a4abfb6d3515a9b6f4926e1238]
+## 1. Citation and commencement[^c-b22406a4abfb6d3515a9b6f4926e1238]
 
 These Regulations may be cited as the Occupational Pension Schemes (Regulatory Own Funds) Regulations (Northern Ireland) 2005 and shall come into operation on 30th December 2005.
 
-## 2. Interpretation[^key-311e3fb83f39a068975a0b552cf2de0e]
+## 2. Interpretation[^c-311e3fb83f39a068975a0b552cf2de0e]
 
 (1) In these Regulations—
 
@@ -55,8 +55,8 @@ These Regulations may be cited as the Occupational Pension Schemes (Regulatory O
 - “the actuary”, in relation to a scheme, means the actuary appointed under Article 47(1)(b) of the 1995 Order (professional advisers) in relation to that scheme;
 - “biometric risk”[^f00005] means liability risks linked to death, disability and longevity;
 - “the commencement date” means 30th December 2005;
-- “[^key-917dce5670614c5b314e1d4f3fce867c]EEA agreement” means the agreement on the European Economic Area signed at Oporto on 2nd May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17th March 1993, as modified or supplemented from time to time;
-- [^key-044880818a94523fe602da91076fb987]...
+- “[^c-917dce5670614c5b314e1d4f3fce867c]EEA agreement” means the agreement on the European Economic Area signed at Oporto on 2nd May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17th March 1993, as modified or supplemented from time to time;
+- [^c-044880818a94523fe602da91076fb987]...
   - (a)
   - (b)
 - “the effective date” of an actuarial valuation is the date by reference to which the assets are valued and the technical provisions and regulatory own funds requirement calculated;
@@ -75,7 +75,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Regulatory O
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Regulatory own funds requirement[^key-83f6469bbf3c72f1f7d75421704d847e]
+## 3. Regulatory own funds requirement[^c-83f6469bbf3c72f1f7d75421704d847e]
 
 (1) An occupational pension scheme to which paragraph (3) applies must hold, on a permanent basis, additional assets above the aggregate of the scheme’s technical provisions in order to absorb discrepancies between the anticipated and actual expenses and profits of the scheme (“the regulatory own funds requirement”).
 
@@ -92,7 +92,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Regulatory O
 
 (4) Where any requirement of this regulation is not complied with, Article 10(3) to (9) of the 1995 Order[^f00011] (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
 
-## 4. Calculation of the amount of the regulatory own funds requirement[^key-83830cfc3a52e0558a52bcf0778dd56f]
+## 4. Calculation of the amount of the regulatory own funds requirement[^c-83830cfc3a52e0558a52bcf0778dd56f]
 
 (1) The amount of the regulatory own funds requirement is the aggregate of—
 
@@ -108,7 +108,7 @@ less the scheme’s technical provisions in relation to those members.
 
 (3) Where any requirement of this regulation is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
 
-## 5. Modification of Part IV of the Order and the Scheme Funding Regulations[^key-99b292c03229893e9195bf2e9a941361]
+## 5. Modification of Part IV of the Order and the Scheme Funding Regulations[^c-99b292c03229893e9195bf2e9a941361]
 
 (1) Part IV of the Order (scheme funding) shall be modified in its application to an occupational pension scheme that is subject to the regulatory own funds requirement so that it applies as if—
 
@@ -140,7 +140,7 @@ less the scheme’s technical provisions in relation to those members.
   - (iii) in paragraph (4) for “give effect to a recovery plan” there were substituted “comply with Article 205 (recovery plan) or any regulatory own funds requirement”, and
 - (d) regulations 17 (exemptions – general) and 18 (exemption connected with winding up) were omitted.
 
-## 6. Certification of additional assets requirement[^key-b3e71f773bd46a85491fb58387b884b0]
+## 6. Certification of additional assets requirement[^c-b3e71f773bd46a85491fb58387b884b0]
 
 (1) If an occupational pension scheme is subject to the regulatory own funds requirement, the calculation of the amount of the regulatory own funds requirement must be certified by the actuary.
 
@@ -150,7 +150,7 @@ less the scheme’s technical provisions in relation to those members.
 
 (4) Where the actuary fails to take all reasonable steps to ensure compliance with this regulation, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply as if this regulation were made under Part II of that Order (occupational pensions).
 
-## 7. Restoration of regulatory own funds[^key-226ae711ae77f11a5db311b4518ddda7]
+## 7. Restoration of regulatory own funds[^c-226ae711ae77f11a5db311b4518ddda7]
 
 (1) If, having obtained an actuarial valuation and certification of the calculation of the regulatory own funds requirement for an occupational pension scheme, it appears to the trustees or managers of that scheme that the regulatory own funds requirement was not met as at the effective date of the actuarial valuation, the trustees or managers must take such steps as are necessary to ensure that the regulatory own funds requirement is met within two years after the effective date of that valuation.
 
@@ -165,23 +165,23 @@ less the scheme’s technical provisions in relation to those members.
 
 (4) Where paragraph (1) or (2) is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
 
-## 8. Certification of schedule of contributions[^key-f4db4611a04808fc2cbdc3190861efd2]
+## 8. Certification of schedule of contributions[^c-f4db4611a04808fc2cbdc3190861efd2]
 
 (1) If an occupational pension scheme is subject to the regulatory own funds requirement, the certification of the schedule of contributions for the scheme must also include certification of the schedule of contributions in respect of the additional assets requirement in the form set out in the Schedule.
 
 (2) Where paragraph (1) is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
 
-## 9. Statement of funding principles[^key-51ff9e6dbc1f63468c93e72a30bbf370]
+## 9. Statement of funding principles[^c-51ff9e6dbc1f63468c93e72a30bbf370]
 
 The policy of the trustees or managers of a scheme for securing that the regulatory own funds requirement in relation to the scheme is met is a prescribed matter for the purposes of Article 202(1)(b) (statement of funding principles).
 
-## 10. Postponement[^key-0f9b26f4b5d0213442fd5cb6a966fd60]
+## 10. Postponement[^c-0f9b26f4b5d0213442fd5cb6a966fd60]
 
 (1) If an occupational pension scheme had insufficient assets on 23rd September 2005 to comply with the regulatory own funds requirement, compliance with regulation 3(1) is postponed until 22nd September 2010 (“the postponement period”) after which date compliance with the regulatory own funds requirement cannot be further postponed.
 
 (2) If compliance with regulation 3(1) is postponed in accordance with paragraph (1), the trustees or managers must notify the Regulator of the postponement and the postponement period within a reasonable period after the effective date of the first valuation under Part IV of the Order (scheme funding).
 
-(3)[^key-51823f78b8747a2611bf56b4960b67bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-51823f78b8747a2611bf56b4960b67bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If, at any time during the postponement period, the trustees or managers are satisfied, having taken actuarial advice, that the scheme has sufficient assets to meet the regulatory own funds requirement, they may resolve or determine that the regulatory own funds requirement applies to the scheme.
 
@@ -191,13 +191,13 @@ The policy of the trustees or managers of a scheme for securing that the regulat
 
 (7) Where any requirement of this regulation is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager who has failed to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
 
-(8)[^key-194968550363c7a4a2e85b7f8db6aa58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-194968550363c7a4a2e85b7f8db6aa58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Meaning of “European employer”[^key-154a40abfb85906104e1d04b259dc392]
+## 11. Meaning of “European employer”[^c-154a40abfb85906104e1d04b259dc392]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Scheme annual report, accounts and actuarial valuation[^key-a32779f565308b0ac532568970ce3cf6]
+## 12. Scheme annual report, accounts and actuarial valuation[^c-a32779f565308b0ac532568970ce3cf6]
 
 (1) If an occupational pension scheme (other than a scheme to which paragraph (3) applies) is subject to the regulatory own funds requirement, the scheme’s annual report, relevant accounts and annual actuarial valuation must—
 
@@ -212,15 +212,15 @@ The policy of the trustees or managers of a scheme for securing that the regulat
 
 (4) Where any requirement of this regulation is not complied with, Article 10(3) to (9) of the 1995 Order (civil penalties) shall apply to a trustee or manager if he fails to take all reasonable steps to ensure compliance as if this regulation were made under Part II of that Order (occupational pensions).
 
-## 13. Improvement notices and third party notices[^key-2b5ce1e916a5bd02c2a50d4a30add309]
+## 13. Improvement notices and third party notices[^c-2b5ce1e916a5bd02c2a50d4a30add309]
 
 For the purposes of compliance with these Regulations, Articles 9(7) (improvement notices), 10(8) (third party notices) and 85(6) (codes of practice) shall be read as if the definition of “pensions legislation” included these Regulations.
 
-## 14. Registrable information[^key-00d556b055b8bac08d8bc4db855301a8]
+## 14. Registrable information[^c-00d556b055b8bac08d8bc4db855301a8]
 
 Whether the regulatory own funds requirement applies to the scheme and, if it applies, the date from which it applies, is prescribed registrable information for the purposes of Article 55(2)(h) (registrable information).
 
-## 15. Exemptions[^key-c11bc819843f8094833155cb8e0e3b92]
+## 15. Exemptions[^c-c11bc819843f8094833155cb8e0e3b92]
 
 (1) These Regulations do not apply to—
 
@@ -230,25 +230,25 @@ Whether the regulatory own funds requirement applies to the scheme and, if it ap
 - (b) a pay-as-you-go scheme;
 - (c) a scheme which is established under section 48 of the Northern Ireland Act 1998[^f00012] (pensions of members), or which was established under Part II of the Ministerial Salaries and Members' Pensions Act (Northern Ireland) 1965[^f00013] or Article 3 of the Assembly Pensions (Northern Ireland) Order 1976[^f00014];
 - (d) a section or part of a scheme which is treated as a scheme by virtue of paragraph 4 or 5, as the case may be, of Schedule 2 to the Scheme Funding Regulations (modifications of the Order and the Scheme Funding Regulations) and—
-  - (i)[^key-adc1cf876d71e69607f30398c44056fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) in the cases described in paragraphs 4(2) and (3) and 5(2)(a) and (b)[^key-ba4c10d7e789a10eff040984628e0b0c] of that Schedule, applies to members in employment outside the United Kingdom;
+  - (i)[^c-adc1cf876d71e69607f30398c44056fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) in the cases described in paragraphs 4(2) and (3) and 5(2)(a) and (b)[^c-ba4c10d7e789a10eff040984628e0b0c] of that Schedule, applies to members in employment outside the United Kingdom;
 - (e) a scheme which—
   - (i) provides relevant benefits;
   - (ii) is neither a relevant statutory scheme nor a tax approved scheme, or, from 6th April 2006, is not a tax registered scheme, and
   - (iii) has fewer than 100 members;
 - (f) a section 615(6) scheme which has fewer than 100 members;
 - (g) a scheme which has fewer than two members;
-- (h) a scheme with[^key-0d376eb800dd7784ed9715a58a0a8e59] fewer than 12 members, where all the members are trustees of the scheme and either—
-  - (i) the provisions of the scheme provide that any decision made by the trustees is[^key-49ca15720491c0a949af6bb5bc83dd67] made by the unanimous agreement of the trustees who are members of the scheme, or
-  - (ii) the scheme has a trustee who is independent[^key-155134ae70c35551d5a2180e8abafc1a] in relation to the scheme for the purposes of Article 23 of the 1995 Order[^f00015] (power to appoint independent trustees) and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article;
-- (i) a scheme with[^key-48c9f07326c7e76a6b2414aa9f7655d5] fewer than 12 members, where a company is the sole trustee[^key-b3da897b9923bdc8b74e4e231779bddf] of the scheme and all the members of the scheme are directors of the company and either—
-  - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement[^key-f7024c7679824f20ae78c42cf9b61191] of the directors who are members of the scheme, or
-  - (ii) one of the directors of the company[^key-c201420733ceb2ae4e0079f28adc77e4] is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article;
+- (h) a scheme with[^c-0d376eb800dd7784ed9715a58a0a8e59] fewer than 12 members, where all the members are trustees of the scheme and either—
+  - (i) the provisions of the scheme provide that any decision made by the trustees is[^c-49ca15720491c0a949af6bb5bc83dd67] made by the unanimous agreement of the trustees who are members of the scheme, or
+  - (ii) the scheme has a trustee who is independent[^c-155134ae70c35551d5a2180e8abafc1a] in relation to the scheme for the purposes of Article 23 of the 1995 Order[^f00015] (power to appoint independent trustees) and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article;
+- (i) a scheme with[^c-48c9f07326c7e76a6b2414aa9f7655d5] fewer than 12 members, where a company is the sole trustee[^c-b3da897b9923bdc8b74e4e231779bddf] of the scheme and all the members of the scheme are directors of the company and either—
+  - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement[^c-f7024c7679824f20ae78c42cf9b61191] of the directors who are members of the scheme, or
+  - (ii) one of the directors of the company[^c-c201420733ceb2ae4e0079f28adc77e4] is independent in relation to the scheme for the purposes of Article 23 of the 1995 Order and is registered in the register maintained by the Regulator in accordance with regulations made under paragraph (4) of that Article;
 - (j) a scheme which is subject to the regulatory own funds requirement merely because it provides for the payment of death benefits under the scheme, but only if the death benefits are secured by insurance policies or annuity contracts;
 - (k) a scheme which is the subject of a scheme failure notice under Article 106 (insolvency practitioner’s duty to issue notices confirming status of scheme) or 114 (Board’s duty where application or notification received under Article 113), or
 - (l) subject to regulation 16, a scheme which is being wound up.
 
-(2)[^key-d0e772dfdfa749d14906f4200aab03cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d0e772dfdfa749d14906f4200aab03cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this regulation—
 
@@ -260,7 +260,7 @@ Whether the regulatory own funds requirement applies to the scheme and, if it ap
 - “relevant benefits” has the meaning given in section 612(1) of the Taxes Act[^f00017] (other interpretative provisions, and regulations for purposes of Chapter I of Part XIV of the Taxes Act) or, from 6th April 2006, section 393B of the Income Tax (Earnings and Pensions) Act 2003[^f00018] (relevant benefits);
 - “relevant statutory scheme” has the meaning given in section 611A(1) of the Taxes Act[^f00019] (definition of relevant statutory scheme);
 - “section 615(6) scheme” means a scheme with such a superannuation fund as is mentioned in section 615(6) of the Taxes Act[^f00020] (funds for the provision of benefits in respect of employment outside the United Kingdom);
-- [^key-d325660cec85a1a1628266a989a2dcb7]...
+- [^c-d325660cec85a1a1628266a989a2dcb7]...
   - (a)
   - (b)
 - “tax approved scheme” means a scheme which is approved, or was formerly approved, under section 590[^f00021] or 591[^f00022] of the Taxes Act (approval of retirement benefit schemes), or in respect of which an application for such approval has been duly made but has not been determined;
@@ -270,7 +270,7 @@ Whether the regulatory own funds requirement applies to the scheme and, if it ap
 
 (5) Where these Regulations cease to apply to a scheme to which they previously applied, because the scheme is of a kind referred to in paragraph (1), that does not affect any rights or obligations arising before these Regulations ceased to apply.
 
-## 16. Exemption connected with winding up[^key-bef07a01472c936026bc19cb4412ee22]
+## 16. Exemption connected with winding up[^c-bef07a01472c936026bc19cb4412ee22]
 
 (1) Where the winding up of a scheme begins on or after the commencement date, the exemption provided for in regulation 15(1)(l) is subject to the condition set out in paragraph (2).
 
@@ -301,7 +301,7 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE — ACTUARY'S CERTIFICATES[^key-e517dc155ace0ad11cc74fa2e9da6e0d]
+## SCHEDULE — ACTUARY'S CERTIFICATES[^c-e517dc155ace0ad11cc74fa2e9da6e0d]
 
 Regulations 6(2) and 8(1)
 
@@ -361,17 +361,17 @@ The transposition of Article 17 of the Directive is detailed in a Transposition 
 
 [^f00003]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-b22406a4abfb6d3515a9b6f4926e1238]: Commencement: Reg. 1 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-b22406a4abfb6d3515a9b6f4926e1238]: Commencement: Reg. 1 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-311e3fb83f39a068975a0b552cf2de0e]: Commencement: Reg. 2 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-311e3fb83f39a068975a0b552cf2de0e]: Commencement: Reg. 2 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
 [^f00004]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
 [^f00005]: Footnote: Under Article 6 of Directive [2003/41/EC](https://www.legislation.gov.uk/european/directive/2003/0041) of 3rd June 2003 on the activities and supervision of institutions for occupational retirement provision “biometrical risks” are defined as meaning risks linked to death, disability and longevity; there is no definition in the Directive of the term “biometric risk” which appears in Article 17 of the Directive
 
-[^key-917dce5670614c5b314e1d4f3fce867c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/570/regulation/2/1) inserted (26.11.2007) by [The Occupational Pension Schemes (EEA States) Regulations (Northern Ireland) 2007 (S.R. 2007/457)](https://www.legislation.gov.uk/nisr/2007/457), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/457/regulation/1/1), [11(2)](https://www.legislation.gov.uk/nisr/2007/457/regulation/11/2)
+[^c-917dce5670614c5b314e1d4f3fce867c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/570/regulation/2/1) inserted (26.11.2007) by [The Occupational Pension Schemes (EEA States) Regulations (Northern Ireland) 2007 (S.R. 2007/457)](https://www.legislation.gov.uk/nisr/2007/457), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/457/regulation/1/1), [11(2)](https://www.legislation.gov.uk/nisr/2007/457/regulation/11/2)
 
-[^key-044880818a94523fe602da91076fb987]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/570/regulation/2/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-044880818a94523fe602da91076fb987]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/570/regulation/2/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: *See* section 1 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35)
 
@@ -383,37 +383,37 @@ The transposition of Article 17 of the Directive is detailed in a Transposition 
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-83f6469bbf3c72f1f7d75421704d847e]: Commencement: Reg. 3 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-83f6469bbf3c72f1f7d75421704d847e]: Commencement: Reg. 3 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
 [^f00011]: Footnote: Article 10 was amended by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)) and Schedule 11 to the Pensions (Northern Ireland) Order 2005
 
-[^key-83830cfc3a52e0558a52bcf0778dd56f]: Commencement: Reg. 4 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-83830cfc3a52e0558a52bcf0778dd56f]: Commencement: Reg. 4 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-99b292c03229893e9195bf2e9a941361]: Commencement: Reg. 5 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-99b292c03229893e9195bf2e9a941361]: Commencement: Reg. 5 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-b3e71f773bd46a85491fb58387b884b0]: Commencement: Reg. 6 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-b3e71f773bd46a85491fb58387b884b0]: Commencement: Reg. 6 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-226ae711ae77f11a5db311b4518ddda7]: Commencement: Reg. 7 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-226ae711ae77f11a5db311b4518ddda7]: Commencement: Reg. 7 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-f4db4611a04808fc2cbdc3190861efd2]: Commencement: Reg. 8 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-f4db4611a04808fc2cbdc3190861efd2]: Commencement: Reg. 8 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-51ff9e6dbc1f63468c93e72a30bbf370]: Commencement: Reg. 9 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-51ff9e6dbc1f63468c93e72a30bbf370]: Commencement: Reg. 9 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-0f9b26f4b5d0213442fd5cb6a966fd60]: Commencement: Reg. 10 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-0f9b26f4b5d0213442fd5cb6a966fd60]: Commencement: Reg. 10 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-51823f78b8747a2611bf56b4960b67bf]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2005/570/regulation/10/3) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51823f78b8747a2611bf56b4960b67bf]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/nisr/2005/570/regulation/10/3) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-194968550363c7a4a2e85b7f8db6aa58]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/nisr/2005/570/regulation/10/8) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-194968550363c7a4a2e85b7f8db6aa58]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/nisr/2005/570/regulation/10/8) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-154a40abfb85906104e1d04b259dc392]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/570/regulation/11) omitted (6.4.2007) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(3)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/3)
+[^c-154a40abfb85906104e1d04b259dc392]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/570/regulation/11) omitted (6.4.2007) by virtue of [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(3)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/3)
 
-[^key-a32779f565308b0ac532568970ce3cf6]: Commencement: Reg. 12 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-a32779f565308b0ac532568970ce3cf6]: Commencement: Reg. 12 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-2b5ce1e916a5bd02c2a50d4a30add309]: Commencement: Reg. 13 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-2b5ce1e916a5bd02c2a50d4a30add309]: Commencement: Reg. 13 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-00d556b055b8bac08d8bc4db855301a8]: Commencement: Reg. 14 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-00d556b055b8bac08d8bc4db855301a8]: Commencement: Reg. 14 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
-[^key-c11bc819843f8094833155cb8e0e3b92]: Commencement: Reg. 15 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-c11bc819843f8094833155cb8e0e3b92]: Commencement: Reg. 15 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
 [^f00012]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
 
@@ -421,27 +421,27 @@ The transposition of Article 17 of the Directive is detailed in a Transposition 
 
 [^f00014]: Footnote: S.I. [1976/1779](https://www.legislation.gov.uk/uksi/1976/1779)
 
-[^key-adc1cf876d71e69607f30398c44056fe]: Textual amendment: [Reg. 15(1)(d)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/d/i) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-adc1cf876d71e69607f30398c44056fe]: Textual amendment: [Reg. 15(1)(d)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/d/i) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ba4c10d7e789a10eff040984628e0b0c]: Textual amendment: Words in [reg. 15(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/d/ii) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba4c10d7e789a10eff040984628e0b0c]: Textual amendment: Words in [reg. 15(1)(d)(ii)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/d/ii) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d376eb800dd7784ed9715a58a0a8e59]: Textual amendment: Words in [reg. 15(1)(h)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/h) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(a)(i)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/a/i)
+[^c-0d376eb800dd7784ed9715a58a0a8e59]: Textual amendment: Words in [reg. 15(1)(h)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/h) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(a)(i)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/a/i)
 
-[^key-49ca15720491c0a949af6bb5bc83dd67]: Textual amendment: Words in [reg. 15(1)(h)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/h/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/a/ii)
+[^c-49ca15720491c0a949af6bb5bc83dd67]: Textual amendment: Words in [reg. 15(1)(h)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/h/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/a/ii)
 
-[^key-155134ae70c35551d5a2180e8abafc1a]: Textual amendment: Words in [reg. 15(1)(h)(ii)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/h/ii) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/a/iii)
+[^c-155134ae70c35551d5a2180e8abafc1a]: Textual amendment: Words in [reg. 15(1)(h)(ii)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/h/ii) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/a/iii)
 
 [^f00015]: Footnote: Article 23 was substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005 (S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
 
-[^key-48c9f07326c7e76a6b2414aa9f7655d5]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(i)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/i)
+[^c-48c9f07326c7e76a6b2414aa9f7655d5]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(i)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/i)
 
-[^key-b3da897b9923bdc8b74e4e231779bddf]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/l/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/ii)
+[^c-b3da897b9923bdc8b74e4e231779bddf]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/l/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/ii)
 
-[^key-f7024c7679824f20ae78c42cf9b61191]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/iii)
+[^c-f7024c7679824f20ae78c42cf9b61191]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/i) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(iii)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/iii)
 
-[^key-c201420733ceb2ae4e0079f28adc77e4]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/ii) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(iv)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/iv)
+[^c-c201420733ceb2ae4e0079f28adc77e4]: Textual amendment: Words in [reg. 15(1)(i)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/1/ii) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/185)](https://www.legislation.gov.uk/nisr/2007/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/185/regulation/1/1), [15(4)(b)(iv)](https://www.legislation.gov.uk/nisr/2007/185/regulation/15/4/b/iv)
 
-[^key-d0e772dfdfa749d14906f4200aab03cf]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(b)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0e772dfdfa749d14906f4200aab03cf]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(b)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00016]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26)
 
@@ -453,7 +453,7 @@ The transposition of Article 17 of the Directive is detailed in a Transposition 
 
 [^f00020]: Footnote: Section 615(6) was amended by paragraph 11 of Schedule 10 to the Finance Act 1999
 
-[^key-d325660cec85a1a1628266a989a2dcb7]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/3) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(c)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d325660cec85a1a1628266a989a2dcb7]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2005/570/regulation/15/3) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [26(4)(c)](https://www.legislation.gov.uk/uksi/2019/193/regulation/26/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00021]: Footnote: Section 590 was amended by paragraph 18 of Schedule 3 to the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), paragraphs 3 and 18 of Schedule 6 to the Finance Act 1989, sections 34 and 36(2) of the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), paragraph 2 of Schedule 10 to the Finance Act 1999 and Article 2 of S.I. [2005/723](https://www.legislation.gov.uk/uksi/2005/723), and is repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006
 
@@ -461,8 +461,8 @@ The transposition of Article 17 of the Directive is detailed in a Transposition 
 
 [^f00023]: Footnote: S.I. [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 
-[^key-bef07a01472c936026bc19cb4412ee22]: Commencement: Reg. 16 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-bef07a01472c936026bc19cb4412ee22]: Commencement: Reg. 16 in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
 
 [^f00024]: Footnote: Article 74(3)(c) was amended by Article 60 of S.I. [2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
 
-[^key-e517dc155ace0ad11cc74fa2e9da6e0d]: Commencement: Sch. in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)
+[^c-e517dc155ace0ad11cc74fa2e9da6e0d]: Commencement: Sch. in operation at 30.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/570/regulation/1)

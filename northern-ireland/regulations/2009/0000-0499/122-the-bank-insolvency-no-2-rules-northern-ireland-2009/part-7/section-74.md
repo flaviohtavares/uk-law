@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Debt in foreign Currency[^key-48f487aef18fa0a9501311cd63f3f26f]
+## 74. Debt in foreign Currency[^c-48f487aef18fa0a9501311cd63f3f26f]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48f487aef18fa0a9501311cd63f3f26f]: Commencement: Rule 74 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-48f487aef18fa0a9501311cd63f3f26f]: Commencement: Rule 74 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

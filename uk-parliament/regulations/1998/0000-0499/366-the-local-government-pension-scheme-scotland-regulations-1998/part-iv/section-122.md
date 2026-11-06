@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 122. Right to count credited period[^key-850798357588d722ae1201d26650a569]
+## 122. Right to count credited period[^c-850798357588d722ae1201d26650a569]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-850798357588d722ae1201d26650a569]: Commencement: Reg. 122 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-850798357588d722ae1201d26650a569]: Commencement: Reg. 122 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Consent orders[^key-40f9c81743bb6f693eb083013e5b5efa]
+## 187. Consent orders[^c-40f9c81743bb6f693eb083013e5b5efa]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40f9c81743bb6f693eb083013e5b5efa]: Commencement: [Art. 187](https://www.legislation.gov.uk/uksi/2005/3181/article/187) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-40f9c81743bb6f693eb083013e5b5efa]: Commencement: [Art. 187](https://www.legislation.gov.uk/uksi/2005/3181/article/187) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

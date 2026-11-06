@@ -36,460 +36,460 @@ concerning statistics on interest rates applied by monetary financial institutio
 
 (ECB/2013/34) (revoked)
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## Article 1. Definitions[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Actual reporting population[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## Article 2. Actual reporting population[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Statistical reporting requirements[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## Article 3. Statistical reporting requirements[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Derogations[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## Article 4. Derogations[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Verification and compulsory collection[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## Article 5. Verification and compulsory collection[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. First reporting[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## Article 6. First reporting[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Repeal[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## Article 7. Repeal[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Final provision[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## Article 8. Final provision[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — REPORTING SCHEME FOR MONETARY FINANCIAL INSTITUTION INTEREST RATE STATISTICS[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## ANNEX I — REPORTING SCHEME FOR MONETARY FINANCIAL INSTITUTION INTEREST RATE STATISTICS[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 1
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 1
 
 **Type of rate**
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]I.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]I.
 
 ***Annualised agreed rate***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]*General principle*
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]*General principle*
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]1.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]2.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]2.
 
 If interest payments agreed between the reporting agent and the household or non-financial corporation are capitalised at regular intervals within a year, for example per month or quarter rather than per annum, the agreed rate is annualised by means of the following formula to derive the annualised agreed rate:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]3.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]*Treatment of taxes, subsidies and regulatory arrangements*
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]*Treatment of taxes, subsidies and regulatory arrangements*
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]4.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]5.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]6.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]7.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]8.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]II.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]8.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]II.
 
 ***Annual percentage rate of charge***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]9.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]9.
 
 In addition to AARs, the reporting agents provide the APRC for new business in respect of consumer credit and loans to households for house purchases, i.e.:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]10.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]11.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]III.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]III.
 
 ***Convention***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]12.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 2
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 2
 
 **Business coverage**
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]13.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]13.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]IV.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]IV.
 
 ***Interest rates on outstanding amounts***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]14.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]14.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]15.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]15.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]V.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]V.
 
 ***New business on overnight deposits, deposits redeemable at notice, credit card debt and revolving loans and overdrafts***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]16.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]16.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]17.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]17.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]18.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]18.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]VI.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]VI.
 
 ***New business in instrument categories other than overnight deposits, deposits redeemable at notice, credit card debt and revolving loans and overdrafts***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]19.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]19.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]20.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]20.
 
 *New business* is defined as any new agreement between the household or non-financial corporation and the reporting agent. New agreements comprise:
 
 - all financial contracts, that specify for the first time the interest rate of the deposit or loan, and
 - all renegotiations of existing deposit and loan contracts as defined in paragraph 21.
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]21.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]21.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]22.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]22.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]23.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]23.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]24.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]24.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]25.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]25.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]26.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]26.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]27.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]27.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]VII.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]VII.
 
 ***Treatment of bad loans and loans for debt restructuring below market conditions***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]28.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]28.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 3
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 3
 
 **Time reference point**
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]VIII.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]VIII.
 
 ***Time reference point for MFI interest rates on outstanding amounts***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]29.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]29.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]30.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]30.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]31.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]31.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]IX.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]IX.
 
 ***Time reference point for new business on overnight deposits, deposits redeemable at notice, extended credit card credit and revolving loans and overdrafts***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]32.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]32.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]33.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]33.
 
 Analogous to the compilation of the interest rates on outstanding amounts contained in Appendix 1, the interest rates on overnight deposits, deposits redeemable at notice, extended credit card credit and revolving loans and overdrafts are compiled in either of the following manners:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]34.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]34.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]X.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]X.
 
 ***Time reference point for new business (other than overnight deposits, deposit redeemable at notice, credit card debt and revolving loans and overdrafts)***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]35.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]35.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]36.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]36.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]37.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]37.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 4
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 4
 
 **Instrument categories**
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]XI.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]XI.
 
 ***General provisions***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]38.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]38.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]39.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]39.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]40.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]40.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]41.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]41.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]XII.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]XII.
 
 ***Breakdown by currency***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]42.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]42.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]XIII.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]XIII.
 
 ***Breakdown by sector***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]43.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]43.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]44.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]44.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]45.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]45.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]XIV.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]XIV.
 
 ***Breakdown by type of instrument***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]46.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]46.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]47.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]47.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]48.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]48.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]49.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]49.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]50.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]50.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]51.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]51.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]52.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]52.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]53.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]53.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]54.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]54.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]55.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]55.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]XV.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]XV.
 
 ***Breakdown by amount category***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]56.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]56.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]XVI.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]XVI.
 
 ***Breakdown by original and residual maturity, notice and interest rate reset period or initial rate fixation***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]57.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]57.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]58.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]58.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]59.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]59.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]60.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]60.
 
 The following periods of initial rate fixation are distinguished for loans to households:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]61.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]61.
 
 The following periods of initial rate fixation are distinguished for loans to non-financial corporations up to EUR 0,25 million, over EUR 0,25 million up to EUR 1 million and over EUR 1 million:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]62.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]62.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]XVII.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]XVII.
 
 ***Breakdown by secured loans with collateral and/or guarantees***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]63.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]63.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]64.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]64.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 5
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]PART 5
 
 **Reporting obligations**
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]65.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]65.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]XVIII.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]XVIII.
 
 ***Statistical information at the level of the reporting agents***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]66.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]66.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]67.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]67.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]68.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]68.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]69.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]69.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]70.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]70.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]71.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]71.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]72.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]72.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]XIX.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]XIX.
 
 ***National weighted average interest rates and Aggregated results for the euro area Member States***
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]73.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]73.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]Appendix 1
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]Appendix 1
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]**Instrument categories for rates on outstanding amounts**
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]**Instrument categories for rates on outstanding amounts**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]Appendix 2
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]Appendix 2
 
 **Instrument categories for interest rates on new business**
 
@@ -503,44 +503,44 @@ Table 5 refers only to APRC. Loans recorded in Table 5 are also be recorded in T
 
 The concept of new business is extended to the whole stock, i.e. to outstanding amounts in the case of overnight deposits, deposits redeemable at notice, revolving loans and overdrafts and extended credit card credit, i.e. indicators 1, 5, 6, 7, 12, 23, 32, 36.
 
-## ANNEX II — MINIMUM STANDARDS TO BE APPLIED BY THE ACTUAL REPORTING POPULATION[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## ANNEX II — MINIMUM STANDARDS TO BE APPLIED BY THE ACTUAL REPORTING POPULATION[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 Reporting agents must fulfil the following minimum standards to meet the European Central Bank’s (ECB’s) statistical reporting requirements.
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]1.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]1.
 
 Minimum standards for transmission:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]2.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]2.
 
 Minimum standards for accuracy:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]3.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]3.
 
 Minimum standards for compliance with concepts:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]4.
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]4.
 
 Minimum standards for revisions:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — REPEALED REGULATION WITH LIST OF SUCCESSIVE AMENDMENTS — (referred to in Article 7)[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## ANNEX III — REPEALED REGULATION WITH LIST OF SUCCESSIVE AMENDMENTS — (referred to in Article 7)[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]
+## ANNEX IV[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b1bae3cd0ea0efbe06560a7baccbb3c]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/68)
+[^c-8b1bae3cd0ea0efbe06560a7baccbb3c]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/68)

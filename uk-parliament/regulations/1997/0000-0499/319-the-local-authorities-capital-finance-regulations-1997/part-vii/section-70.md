@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Payments in respect of disposal of premises transferred to grant-maintained school[^key-00af12402afad8c295e5ae4834b42f29]
+## 70. Payments in respect of disposal of premises transferred to grant-maintained school[^c-00af12402afad8c295e5ae4834b42f29]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ the reserved part shall be that lesser amount.
 
 ## Annotations
 
-[^key-00af12402afad8c295e5ae4834b42f29]: Commencement: Reg. 70 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-00af12402afad8c295e5ae4834b42f29]: Commencement: Reg. 70 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00069]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Right of eligible service operators to participate in travel concession schemes.[^c19482911][^c19472431][^c10881521][^key-7a9e5cde7b253da2b646069be3b2092e][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 96. Right of eligible service operators to participate in travel concession schemes.[^c19482911][^c19472431][^c10881521][^c-7a9e5cde7b253da2b646069be3b2092e][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ whichever last occurs.
 
 (2) The Secretary of State may, on the application of the authority or authorities responsible for administration of any such scheme, exempt the authority or authorities in question from the obligation under subsection (1) above in relation to any service or description of services; and the Secretary of State may at any time withdraw or vary any exemption granted under this subsection.
 
-(3) An exemption may not be granted under subsection (2) above on the application of a Passenger Transport Executive, or on the joint application of authorities who include such an Executive, unless the application is made with the consent of the Integrated Transport Authority or, as the case may be, *(Extent: E+W)*[^key-76a22531775558d876b6d3c8bd4a48b2] the Passenger Transport Authority for that Executive’s area.
+(3) An exemption may not be granted under subsection (2) above on the application of a Passenger Transport Executive, or on the joint application of authorities who include such an Executive, unless the application is made with the consent of the Integrated Transport Authority or, as the case may be, *(Extent: E+W)*[^c-76a22531775558d876b6d3c8bd4a48b2] the Passenger Transport Authority for that Executive’s area.
 
 (4) Subject to any regulations under section 94(1)(d) of this Act, where it appears to the authority or authorities responsible for administration of any such scheme, in the case of any operator or prospective operator of an eligible service who applies to be admitted to participate in the scheme in respect of that service, that fares currently charged or proposed to be charged by that operator for relevant journeys on that service include a special amenity element, the authority or authorities in question shall not be required by subsection (1) above to admit that operator to participation in the scheme in respect of that service unless that operator agrees to appropriate modifications of the current reimbursement arrangements for eligible service operators participating in the scheme.
 
@@ -61,8 +61,8 @@ whichever last occurs.
 
     Ss. 93-102 applied (24.7.2001) by [S.I. 2001/3627](https://www.legislation.gov.uk/uksi/2001/3627), [art. 51](https://www.legislation.gov.uk/uksi/2001/3627/article/51)
 
-[^key-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
+[^c-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
-[^key-76a22531775558d876b6d3c8bd4a48b2]: Textual amendment: Words in s. 96(3) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/34); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-76a22531775558d876b6d3c8bd4a48b2]: Textual amendment: Words in s. 96(3) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/34); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

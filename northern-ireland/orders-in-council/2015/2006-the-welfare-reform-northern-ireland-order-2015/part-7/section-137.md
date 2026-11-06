@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137. Payments to persons suffering financial disadvantage[^key-4ef6d5d8751bc3a8768aa68e830c199f]
+## 137. Payments to persons suffering financial disadvantage[^c-4ef6d5d8751bc3a8768aa68e830c199f]
 
 *Extent: N.I.*
 
-(1) The purpose of this Article is to enable the Department to make payments to persons who suffer financial disadvantage as a result of the changes to social security benefits and tax credits contained in this Order , the Welfare Reform and Work (Northern Ireland) Order 2016[^key-5c5700b4ab81c1ccbda93ee674e80d2f] and the Welfare Reform Act 2012.
+(1) The purpose of this Article is to enable the Department to make payments to persons who suffer financial disadvantage as a result of the changes to social security benefits and tax credits contained in this Order , the Welfare Reform and Work (Northern Ireland) Order 2016[^c-5c5700b4ab81c1ccbda93ee674e80d2f] and the Welfare Reform Act 2012.
 
 (2) The Department may by regulations make provision for the purpose mentioned in paragraph (1).
 
@@ -36,12 +36,12 @@ summary: ''
 - (f) imposing conditions on persons claiming or receiving payments, including conditions requiring them to provide to the Department such information as may be prescribed;
 - (g) for payments to cease to be made in prescribed circumstances;
 - (h) for the disclosure of information relating to payments in prescribed circumstances or to prescribed persons;
-- (i)[^key-2b8e78f12701eb23ff2e625a71777158] for the recovery by the Department in prescribed circumstances and by prescribed means (which may include any of the means mentioned in section 69ZB(7) of the Administration Act) of any amount of payments made in excess of entitlement ;
-- (j) requiring or authorising reviews (whether by the Department or by prescribed persons) of decisions made by the Department with respect to the making or recovery of payments and for appeals against such decisions[^key-d56a96b1cbc9cb546ee648bc609aac6f] ;
-- (k) imposing functions (including functions as to the disclosure of information)[^key-cfe14ac2e042fc65ed832eb6bcc195ef] on a statutory body other than the Department in connection with the administration of the regulations;
+- (i)[^c-2b8e78f12701eb23ff2e625a71777158] for the recovery by the Department in prescribed circumstances and by prescribed means (which may include any of the means mentioned in section 69ZB(7) of the Administration Act) of any amount of payments made in excess of entitlement ;
+- (j) requiring or authorising reviews (whether by the Department or by prescribed persons) of decisions made by the Department with respect to the making or recovery of payments and for appeals against such decisions[^c-d56a96b1cbc9cb546ee648bc609aac6f] ;
+- (k) imposing functions (including functions as to the disclosure of information)[^c-cfe14ac2e042fc65ed832eb6bcc195ef] on a statutory body other than the Department in connection with the administration of the regulations;
 - (l) for such other matters as appear to the Department to be necessary or appropriate in connection with the making of payments including provision creating criminal offences and provision amending or applying (with or without modification) any statutory provision.
 
-(3A)[^key-4fb2e37a56aa9afb4deb553ee8004f51] Without prejudice to the generality of paragraphs (2) and (3), regulations may make any provision referred to in those paragraphs by applying to, or in relation to, payments (with or without prescribed modifications) any statutory provision which applies to, or in relation to, a particular social security benefit or a class or description of such benefits.
+(3A)[^c-4fb2e37a56aa9afb4deb553ee8004f51] Without prejudice to the generality of paragraphs (2) and (3), regulations may make any provision referred to in those paragraphs by applying to, or in relation to, payments (with or without prescribed modifications) any statutory provision which applies to, or in relation to, a particular social security benefit or a class or description of such benefits.
 
 (4) The Department shall, in respect of each financial year in which payments are made, prepare and lay before the Assembly a report on the payments made in that year.
 
@@ -62,14 +62,14 @@ summary: ''
 
 ## Annotations
 
-[^key-4ef6d5d8751bc3a8768aa68e830c199f]: Commencement: Art. 137 in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(g)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/g)
+[^c-4ef6d5d8751bc3a8768aa68e830c199f]: Commencement: Art. 137 in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(g)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/g)
 
-[^key-5c5700b4ab81c1ccbda93ee674e80d2f]: Textual amendment: Words in art. 137(1) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(a)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/a)
+[^c-5c5700b4ab81c1ccbda93ee674e80d2f]: Textual amendment: Words in art. 137(1) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(a)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/a)
 
-[^key-2b8e78f12701eb23ff2e625a71777158]: Textual amendment: Art. 137(3)(i) substituted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/b)
+[^c-2b8e78f12701eb23ff2e625a71777158]: Textual amendment: Art. 137(3)(i) substituted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(b)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/b)
 
-[^key-d56a96b1cbc9cb546ee648bc609aac6f]: Textual amendment: Words in art. 137(3)(j) added (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(c)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/c)
+[^c-d56a96b1cbc9cb546ee648bc609aac6f]: Textual amendment: Words in art. 137(3)(j) added (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(c)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/c)
 
-[^key-cfe14ac2e042fc65ed832eb6bcc195ef]: Textual amendment: Words in art. 137(3)(k) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/d)
+[^c-cfe14ac2e042fc65ed832eb6bcc195ef]: Textual amendment: Words in art. 137(3)(k) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/d)
 
-[^key-4fb2e37a56aa9afb4deb553ee8004f51]: Textual amendment: Art. 137(3A) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(e)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/e)
+[^c-4fb2e37a56aa9afb4deb553ee8004f51]: Textual amendment: Art. 137(3A) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [18(2)(e)](https://www.legislation.gov.uk/nisi/2016/999/article/18/2/e)

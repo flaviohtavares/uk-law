@@ -47,19 +47,19 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 ## PART I — Introduction
 
-### 1. Title, commencement and application[^key-f758bc17f273e7d77e0f1a45bd596cc6]
+### 1. Title, commencement and application[^c-f758bc17f273e7d77e0f1a45bd596cc6]
 
 (1) The title of these Regulations is the School Teacher Appraisal (Wales) Regulations 2011 and they come into force on 1 January 2012.
 
 (2) These Regulations apply in relation to Wales.
 
-### 2. Revocation, savings and transitional provisions[^key-93db7f953278ef93bd27afcf320279ae]
+### 2. Revocation, savings and transitional provisions[^c-93db7f953278ef93bd27afcf320279ae]
 
 (1) Subject to paragraph (2), the School Teacher Appraisal (Wales) Regulations 2002[^f00002] (as amended), the School Teacher Appraisal (Amendment) (Wales) Regulations 2009[^f00003], the School Teacher Appraisal (Wales) (Amendment No. 2) Regulations 2009[^f00004] and the School Government (Terms of Reference) (Amendment) (Wales) Regulations 2002[^f00005] are revoked.
 
 (2) The savings and transitional provisions in regulations 19, 33 and 46 and in the Schedule have effect.
 
-### 3. Interpretation[^key-06d2210ae59bb032a434da9d45f62ac8]
+### 3. Interpretation[^c-06d2210ae59bb032a434da9d45f62ac8]
 
 (1) Except where the context otherwise requires, in these Regulations—
 
@@ -74,7 +74,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 - “the relevant date” (“*y dyddiad perthnasol*”) means 1 September 2012;
 - “school” (“*ysgol*”) means a community, voluntary, foundation, community special or foundation special school or maintained nursery school;
 - “school day” (“*diwrnod ysgol*”) means a day on which the school meets;
-- “School Development Plan” (“[^key-01d98c322f4a9f1ebeb39d7430fa8ce5]*Cynllun Datblygu’r Ysgol*”) means a plan prepared by the governing body in accordance with the Education (School Development Plan) (Wales) Regulations 2014;
+- “School Development Plan” (“[^c-01d98c322f4a9f1ebeb39d7430fa8ce5]*Cynllun Datblygu’r Ysgol*”) means a plan prepared by the governing body in accordance with the Education (School Development Plan) (Wales) Regulations 2014;
 - “School Performance Information” (“*Gwybodaeth am Berfformiad Ysgolion*”) means information about the performance of schools in Wales as specified by the Welsh Ministers from time to time;
 - “School Performance Management Policy” (“*Polisi Rheoli Perfformiad yr Ysgol*”) means the written policy setting out how the staff appraisal policy in the school will be implemented;
 - “school teacher” (“*athro neu athrawes ysgol*”) means a teacher employed by a local authority or by the governing body of a foundation, voluntary aided or foundation special school, but does not include a teacher employed under a short term contract;
@@ -96,7 +96,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 - (b) a numbered paragraph is a reference to the paragraph bearing that number in the regulation in which the reference appears; and
 - (c) the Schedule is a reference to the Schedule to these Regulations.
 
-### 4. Duty to appraise[^key-b2c202bf94e90d73674b2949dcc724bb]
+### 4. Duty to appraise[^c-b2c202bf94e90d73674b2949dcc724bb]
 
 (1) It is the duty of the governing body and head teacher of a school to exercise their functions under these Regulations with a view to securing that the performance of school teachers and head teachers in discharging their duties at the school is regularly appraised in accordance with these Regulations.
 
@@ -106,7 +106,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 (4) It is the duty of the authority to exercise their functions under these Regulations with a view to securing that the performance of unattached teachers in discharging their duties to the authority is regularly appraised in accordance with these Regulations.
 
-### 5. School Performance Management Policy[^key-3c441561f7924eca76cd1655a048559a]
+### 5. School Performance Management Policy[^c-3c441561f7924eca76cd1655a048559a]
 
 (1) Prior to commencement of the appraisal cycle the governing body, the local authority and the head teacher must establish and maintain a School Performance Management Policy.
 
@@ -120,17 +120,17 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 (6) The governing body and the head teacher must implement the School Performance Management Policy.
 
-(7) At least once during each school year the head teacher must make a written report to the governing body about the operation of the School Performance Management Policy under these Regulations, the effectiveness of the school’s appraisal procedures, and the training and professional learning[^key-fd3e9a2af71ac302a740534dd57c4a60] needs of the school teachers and the head teacher.
+(7) At least once during each school year the head teacher must make a written report to the governing body about the operation of the School Performance Management Policy under these Regulations, the effectiveness of the school’s appraisal procedures, and the training and professional learning[^c-fd3e9a2af71ac302a740534dd57c4a60] needs of the school teachers and the head teacher.
 
 (8) The governing body must make a copy of the School Performance Management Policy available for inspection at the school on school days.
 
 ## PART II — Appraisal of Head Teachers
 
-### 6. Application of Part II[^key-00e1ce8b3792b80491884f6fe32fa22f]
+### 6. Application of Part II[^c-00e1ce8b3792b80491884f6fe32fa22f]
 
 Regulations 7 to 19 apply to the appraisal of head teachers only.
 
-### 7. Appointment of appraisers[^key-ac94d4715c5bff7adc402fa014507b62]
+### 7. Appointment of appraisers[^c-ac94d4715c5bff7adc402fa014507b62]
 
 (1) The governing body of a school must appoint as appraisers of a head teacher at least two governors, at least one of whom must be a foundation governor of the school if it is a school which has a religious character or a voluntary aided school which does not have a religious character.
 
@@ -144,7 +144,7 @@ Regulations 7 to 19 apply to the appraisal of head teachers only.
 
 (6) Where the appraisal is of a head teacher of a school which has a religious character, the Diocesan Authority may appoint an appraiser of the head teacher.
 
-### 8. The appraisal cycle[^key-df3f34f4fe47006330d58292fd1eabc5]
+### 8. The appraisal cycle[^c-df3f34f4fe47006330d58292fd1eabc5]
 
 (1) Subject to the following provisions of this regulation, and to regulation 9, the governing body must determine the timing of the appraisal cycle for the head teacher of the school.
 
@@ -156,7 +156,7 @@ Regulations 7 to 19 apply to the appraisal of head teachers only.
 
 (5) The appointment of a new appraiser does not cause a head teacher’s appraisal cycle to begin again.
 
-### 9. New appraisal cycle[^key-e3d6df0843052f6f52ac28ee0e0ae1c7]
+### 9. New appraisal cycle[^c-e3d6df0843052f6f52ac28ee0e0ae1c7]
 
 (1) If a head teacher moves to a post as head teacher in another school, the appraisal cycle begins again.
 
@@ -164,22 +164,22 @@ Regulations 7 to 19 apply to the appraisal of head teachers only.
 
 (3) Where the appraisal cycle of a head teacher begins again under paragraph (1), or is determined afresh under paragraph (2), the governing body may determine that the length of the head teacher’s first appraisal cycle in the new post will be a period of less than one year.
 
-### 10. First appraisal cycle[^key-4a1fb6c57c7645dc6050ad8903ce6e29]
+### 10. First appraisal cycle[^c-4a1fb6c57c7645dc6050ad8903ce6e29]
 
 The governing body must take all reasonable steps to secure that the first appraisal cycle for a head teacher of the school in post on the date on which these Regulations come into force begins no later than 31 December 2012.
 
-### 11. School performance management policy[^key-ab86acef471460f126dacf5909d2c12b]
+### 11. School performance management policy[^c-ab86acef471460f126dacf5909d2c12b]
 
 The appraisal of the head teacher must be in accordance with the provisions of the School Performance Management Policy.
 
-### 12. Planning of appraisal and setting of objectives[^key-ee25ddcbe508ea2d6cfecba592d2312a]
+### 12. Planning of appraisal and setting of objectives[^c-ee25ddcbe508ea2d6cfecba592d2312a]
 
 (1) Before or at the start of the appraisal cycle, all the appraisers and the head teacher must meet to plan and prepare for the appraisal and to seek to agree the head teacher’s objectives which must take account of such relevant evidence as the appraisers and the head teacher agree (or, in the absence of agreement, such relevant evidence as the appraisers decide) but which will include the School Performance Information, and must relate to—
 
 - (a) school leadership and management;
 - (b) the head teacher’s job description;
 - (c) any relevant pay progression criteria;
-- (d) any relevant whole-school or team objectives specified in the School Development Plan[^key-3e248060a36cfbf752f930f49f3409ec];
+- (d) any relevant whole-school or team objectives specified in the School Development Plan[^c-3e248060a36cfbf752f930f49f3409ec];
 - (e) the professional standards for head teachers as specified by the Welsh Ministers from time to time; and
 - (f) any national priorities for school improvement set by the Welsh Ministers from time to time.
 
@@ -196,12 +196,12 @@ The appraisal of the head teacher must be in accordance with the provisions of t
 (7) The head teacher must during the course of the appraisal cycle keep an up-to-date record of—
 
 - (a) the head teacher’s own assessment of performance against the objectives recorded in the statement of objectives;
-- (b) particulars of any professional learning[^key-1bdf06bad870b7ea79c3bb83fd0b01ee] activities undertaken or other support provided and how this is contributing to achievement of the objectives; and
+- (b) particulars of any professional learning[^c-1bdf06bad870b7ea79c3bb83fd0b01ee] activities undertaken or other support provided and how this is contributing to achievement of the objectives; and
 - (c) particulars of any factors which the head teacher considers are affecting performance against the recorded objectives.
 
 (8) Her Majesty’s Inspectorate for Education and Training in Wales[^f00007] may request, and upon receipt of such request the chair of the governing body must provide it with, a copy of the head teacher’s statement of objectives.
 
-### 13. Revising objectives[^key-8ef090a7cefe962c5ccbb6f99f1127e8]
+### 13. Revising objectives[^c-8ef090a7cefe962c5ccbb6f99f1127e8]
 
 (1) A head teacher’s objectives may be revised by the appraisers at any time during the appraisal cycle.
 
@@ -211,7 +211,7 @@ The appraisal of the head teacher must be in accordance with the provisions of t
 - (b) references in these Regulations to the head teacher’s objectives will be read as references to the revised objectives; and
 - (c) references in these Regulations to the head teacher’s statement of objectives will be read as references to the amended statement of objectives.
 
-### 14. Monitoring progress[^key-010fed93384b5f7e2582225f61f7ca35]
+### 14. Monitoring progress[^c-010fed93384b5f7e2582225f61f7ca35]
 
 (1) All the appraisers and the head teacher must seek to agree at a meeting held under regulation 12(1) on the procedures for monitoring the head teacher’s performance against the objectives agreed under regulation 12(1) or where objectives have not been agreed the objectives set out in writing under regulation 12(4).
 
@@ -221,19 +221,19 @@ The appraisal of the head teacher must be in accordance with the provisions of t
 
 (4) Paragraph (3) does not apply to any information which an appraiser is entitled to receive under any other provision of these Regulations.
 
-### 15. The appraisal review and the appraisal statement[^key-9dfd135bf6ef9f18b08371a220795af9]
+### 15. The appraisal review and the appraisal statement[^c-9dfd135bf6ef9f18b08371a220795af9]
 
 (1) At or near the end of the appraisal cycle all the appraisers and the head teacher must hold an appraisal review, with the object of—
 
 - (a) determining whether there has been successful overall performance as considered against the professional standards for head teachers as specified by the Welsh Ministers from time to time;
 - (b) assessing the extent to which the head teacher has met the objectives recorded in the statement of objectives as set out in regulation 12(1), taking into account relevant evidence gathered through the monitoring process set out at regulation 14 and the record kept by the head teacher in accordance with regulation 12(7); and
-- (c) identifying the need for additional support, training or professional learning[^key-f6a4ca7c3144ef2fb1ec4dc8e59409a4] and how such needs may be met, taking account the record described in regulation 12(7).
+- (c) identifying the need for additional support, training or professional learning[^c-f6a4ca7c3144ef2fb1ec4dc8e59409a4] and how such needs may be met, taking account the record described in regulation 12(7).
 
 (2) The date on which an appraisal review is to be held must be determined by the appraisers, but at least 10 school days notice (in writing) must be given to the head teacher of that date.
 
 (3) The head teacher must, at least five school days before the appraisal review, submit to the appraisers the record maintained under regulation 12(7) and the record must be considered at the appraisal review.
 
-(4) Within 10 school days after each appraisal review all the appraisers must prepare a written statement recording the main points made by the appraisers and the head teacher at the review and the conclusions reached, and there must be recorded in an annex to the statement (which will form part of the statement) the training and professional learning[^key-e3a3c7607ca2dcfb7d233ee26be2cbb0] needs and ways of meeting such needs identified at the review.
+(4) Within 10 school days after each appraisal review all the appraisers must prepare a written statement recording the main points made by the appraisers and the head teacher at the review and the conclusions reached, and there must be recorded in an annex to the statement (which will form part of the statement) the training and professional learning[^c-e3a3c7607ca2dcfb7d233ee26be2cbb0] needs and ways of meeting such needs identified at the review.
 
 (5) An appraisal review under paragraph (1) may be combined with a meeting under regulation 12 in relation to the following appraisal cycle.
 
@@ -241,7 +241,7 @@ The appraisal of the head teacher must be in accordance with the provisions of t
 
 (7) The head teacher may, within 10 school days of receiving a copy of that statement, add to it comments in writing, and such comments will form part of the statement prepared under that paragraph.
 
-### 16. Appeals[^key-7be7aaad4ca9ffc5eed1cd7709c5fdc0]
+### 16. Appeals[^c-7be7aaad4ca9ffc5eed1cd7709c5fdc0]
 
 (1) A head teacher is entitled to appeal against an appraisal under these Regulations within 10 school days of receiving a copy of an appraisal statement under regulation 15(6).
 
@@ -274,7 +274,7 @@ The appraisal of the head teacher must be in accordance with the provisions of t
 
 (12) References in this regulation and regulations 17 and 18 to an appraisal statement are references to a statement prepared under regulation 15(4), including, in the case of regulations 17 and 18, any observations added by the appeals officers under paragraph (8)(a).
 
-### 17. Provision and retention of appraisal statements[^key-224a1161150dfea5c663a60dca108030]
+### 17. Provision and retention of appraisal statements[^c-224a1161150dfea5c663a60dca108030]
 
 (1) The appraisers must provide a copy of the appraisal statement to—
 
@@ -290,35 +290,35 @@ The appraisal of the head teacher must be in accordance with the provisions of t
 
 (4) Where a new appraiser is appointed otherwise than at the beginning of an appraisal cycle, the chair of the governing body must provide that person with a copy of any current statement of objectives.
 
-(5) The chair of the governing body must provide a copy of the annex to the appraisal statement referred to in regulation 15(4) to the person or persons responsible for planning the training and professional learning[^key-d3eaed1b49facf79a2765c68f32f366b] of the head teacher in the school.
+(5) The chair of the governing body must provide a copy of the annex to the appraisal statement referred to in regulation 15(4) to the person or persons responsible for planning the training and professional learning[^c-d3eaed1b49facf79a2765c68f32f366b] of the head teacher in the school.
 
 (6) A head teacher must keep a copy of an appraisal statement until at least three years after the next appraisal statement has been finalised.
 
 (7) The governing body must keep a copy of the head teacher’s appraisal statement until at least three years after the next appraisal statement has been finalised.
 
-### 18. Information from appraisal statements[^key-179b90372ae2828afda7f9bccae0b43f]
+### 18. Information from appraisal statements[^c-179b90372ae2828afda7f9bccae0b43f]
 
 (1) Relevant information from appraisal statements may be taken into account by school governing bodies (including committees of governing bodies), Chief Education Officers or any officers or advisers specifically designated by a Chief Education Officer under regulation 17(1)(e) or (2) in taking decisions, and in advising those responsible for taking decisions, about the promotion, dismissal or discipline of head teachers or the use of any discretion in relation to pay.
 
 (2) Appraisal procedures in respect of a head teacher as described in these Regulations will not constitute any steps that must be taken in disciplinary or dismissal procedures brought against a head teacher.
 
-### 19. Transitional provision[^key-f2e673c61ff21c8cf6535fa6e92d3175]
+### 19. Transitional provision[^c-f2e673c61ff21c8cf6535fa6e92d3175]
 
 Regulations 17 and 18 apply in relation to appraisal records produced and maintained under the Education (School Teacher Appraisal) (Wales) Regulations 1999[^f00009] or under the School Teacher Appraisal (Wales) Regulations 2002 as they apply in relation to appraisal statements.
 
 ## PART III — Appraisal of School Teachers other than Head Teachers
 
-### 20. Application of Part III[^key-37b75ae41097ca853dd02da024bd0217]
+### 20. Application of Part III[^c-37b75ae41097ca853dd02da024bd0217]
 
 Regulations 21 to 33 apply to the appraisal of school teachers other than head teachers.
 
-### 21. Appointment of appraisers for school teachers[^key-48069e93bbcb71ce5c21ccefff3153a5]
+### 21. Appointment of appraisers for school teachers[^c-48069e93bbcb71ce5c21ccefff3153a5]
 
 (1) Subject to regulation 30(8) the head teacher must appoint as appraiser for every school teacher at the school, a school teacher at the school or the head teacher.
 
 (2) The head teacher may appoint a new appraiser in place of an existing appraiser at any time.
 
-### 22. The appraisal cycle[^key-d4c95f581d79092d716d542cf4a6619a]
+### 22. The appraisal cycle[^c-d4c95f581d79092d716d542cf4a6619a]
 
 (1) Subject to the following provisions of this regulation, and to regulation 23, the head teacher must determine the timing of the appraisal cycle for every school teacher at the school.
 
@@ -338,7 +338,7 @@ Regulations 21 to 33 apply to the appraisal of school teachers other than head t
 
 (9) The appointment of a new appraiser will not cause a school teacher’s appraisal cycle to begin again.
 
-### 23. New appraisal cycle[^key-1b080df247376c3351349a6516be80b9]
+### 23. New appraisal cycle[^c-1b080df247376c3351349a6516be80b9]
 
 (1) If a school teacher moves to a post as a school teacher in another school, the appraisal cycle will begin again.
 
@@ -346,22 +346,22 @@ Regulations 21 to 33 apply to the appraisal of school teachers other than head t
 
 (3) Where a school teacher’s appraisal cycle begins again under paragraph (1) or (2), the head teacher may determine that the length of the school teacher’s first appraisal cycle in the new post will be a period of less than one year.
 
-### 24. First appraisal cycle[^key-32557fd6eb19e367068b9213d6aa5626]
+### 24. First appraisal cycle[^c-32557fd6eb19e367068b9213d6aa5626]
 
 The governing body must take all reasonable steps to secure that the first appraisal cycle for every school teacher at the school in post on the date on which these Regulations come into force begins no later than 31 December 2012.
 
-### 25. School Performance Management Policy[^key-5195142b9f2f098e84df3375da6025ae]
+### 25. School Performance Management Policy[^c-5195142b9f2f098e84df3375da6025ae]
 
 The appraisal of school teachers at a school must be in accordance with the provisions of the School Performance Management Policy.
 
-### 26. Planning of appraisal and setting of objectives[^key-5b6716068c766dd97e697feaaf7d1a4c]
+### 26. Planning of appraisal and setting of objectives[^c-5b6716068c766dd97e697feaaf7d1a4c]
 
 (1) Before or at the start of the appraisal cycle, the appraiser and the school teacher must meet to plan and prepare for the appraisal and to seek to agree the school teacher’s objectives which must take account of such relevant evidence as the appraiser and the school teacher agree (or, in the absence of agreement, such relevant evidence as the appraiser decides) but which will include the Pupil Performance Information and must relate to—
 
 - (a) developing and improving the school teacher’s professional practice;
 - (b) the school teacher’s job description;
 - (c) any relevant pay progression criteria;
-- (d) any relevant whole-school or team objectives specified in the School Development Plan[^key-5db40fd067a629e1862b792cf080b19c]; and
+- (d) any relevant whole-school or team objectives specified in the School Development Plan[^c-5db40fd067a629e1862b792cf080b19c]; and
 - (e) the professional standards for school teachers as specified by the Welsh Ministers from time to time.
 
 (2) The school teacher’s objectives described in paragraph (1) may also take into account—
@@ -380,10 +380,10 @@ The appraisal of school teachers at a school must be in accordance with the prov
 (7) The school teacher must during the course of the appraisal cycle keep an up-to-date record of—
 
 - (a) the school teacher’s own assessment of performance against the objectives recorded in the statement of objectives;
-- (b) particulars of any professional learning[^key-bcd7386d3fd7c00d1ed010cdb062b020] activities undertaken or other support provided and how this is contributing to achievement of the objectives; and
+- (b) particulars of any professional learning[^c-bcd7386d3fd7c00d1ed010cdb062b020] activities undertaken or other support provided and how this is contributing to achievement of the objectives; and
 - (c) particulars of any factors which the school teacher considers are affecting performance against the recorded objectives.
 
-### 27. Revising objectives[^key-e309ea8c28ab13179c86269ef1d6f505]
+### 27. Revising objectives[^c-e309ea8c28ab13179c86269ef1d6f505]
 
 (1) A school teacher’s objectives may be revised by the appraiser at any time during the appraisal cycle.
 
@@ -393,7 +393,7 @@ The appraisal of school teachers at a school must be in accordance with the prov
 - (b) references in these Regulations to the school teacher’s objectives will be read as references to the revised objectives; and
 - (c) references in these Regulations to the school teacher’s statement of objectives will be read as references to the amended statement of objectives.
 
-### 28. Monitoring progress[^key-4653bb6c6c4d89062860b48b0a2c71aa]
+### 28. Monitoring progress[^c-4653bb6c6c4d89062860b48b0a2c71aa]
 
 (1) The appraiser and the school teacher must seek to agree at a meeting held under regulation 26(1) on the procedures for monitoring the school teacher’s performance against the objectives agreed under regulation 26(1) or where objectives have not been agreed the objectives set out in writing under regulation 26(5).
 
@@ -405,19 +405,19 @@ The appraisal of school teachers at a school must be in accordance with the prov
 
 (5) Paragraph (4) does not apply to any information which an appraiser is entitled to receive under any other provision of these Regulations.
 
-### 29. The appraisal review and the appraisal statement[^key-39e3e1a3e622c29c1006642a730a9e1d]
+### 29. The appraisal review and the appraisal statement[^c-39e3e1a3e622c29c1006642a730a9e1d]
 
 (1) At or near the end of the appraisal cycle the appraiser and the school teacher must hold an appraisal review, with the object of—
 
 - (a) assessing the extent to which the school teacher has met the objectives recorded in the statement of objectives as set out in regulation 26(1), taking account of the record that the school teacher must keep in accordance with regulation 26(7);
 - (b) determining whether there has been successful overall performance as considered against the professional standards for school teachers as specified by the Welsh Ministers from time to time; and
-- (c) identifying the need for additional support, training or professional learning[^key-28ede22b2f8ff1e4285e756ffce8c94c] and ways of meeting such needs also taking account of the record described in regulation 26(7).
+- (c) identifying the need for additional support, training or professional learning[^c-28ede22b2f8ff1e4285e756ffce8c94c] and ways of meeting such needs also taking account of the record described in regulation 26(7).
 
 (2) The date on which an appraisal review is to be held will be determined by the appraiser, but at least 10 school days notice (in writing) must be given to the school teacher of that date.
 
 (3) The school teacher must, at least five school days before the appraisal review, submit to the appraiser the record maintained under regulation 26(7) and the record must be considered at the appraisal review.
 
-(4) Within 10 school days after each appraisal review, the appraiser must prepare a written statement recording the main points made by the appraiser and the school teacher at the review and the conclusions reached, and there must be recorded in an annex to the statement (which will form part of the statement) the training and professional learning[^key-0c517dcb8d21255b7950a8b6cd66972c] needs and ways of meeting such needs identified at the review.
+(4) Within 10 school days after each appraisal review, the appraiser must prepare a written statement recording the main points made by the appraiser and the school teacher at the review and the conclusions reached, and there must be recorded in an annex to the statement (which will form part of the statement) the training and professional learning[^c-0c517dcb8d21255b7950a8b6cd66972c] needs and ways of meeting such needs identified at the review.
 
 (5) An appraisal review under paragraph (1) may be combined with a meeting under regulation 26 in relation to the following appraisal cycle.
 
@@ -425,7 +425,7 @@ The appraisal of school teachers at a school must be in accordance with the prov
 
 (7) The school teacher may, within 10 school days of receiving a copy of that statement add to it comments in writing, and such comments will form part of the statement prepared under that paragraph.
 
-### 30. Appeals[^key-07c8e7531197bfd6867bd4408d502289]
+### 30. Appeals[^c-07c8e7531197bfd6867bd4408d502289]
 
 (1) A school teacher is entitled to appeal against an appraisal under these Regulations within 10 school days of receiving a copy of the appraisal statement under regulation 29(6).
 
@@ -458,7 +458,7 @@ The appraisal of school teachers at a school must be in accordance with the prov
 
 (12) References in this regulation and in regulations 31 and 32 to an appraisal statement are references to a statement prepared under regulation 29(4), including, in the case of regulations 31 and 32, any observations added by an appeals officer under paragraph (6)(a).
 
-### 31. Provision and retention of appraisal statements[^key-cfbc90470e6d5e52f56798cbf3e1041c]
+### 31. Provision and retention of appraisal statements[^c-cfbc90470e6d5e52f56798cbf3e1041c]
 
 (1) The appraiser must give a copy of the appraisal statement to the head teacher.
 
@@ -471,31 +471,31 @@ The appraisal of school teachers at a school must be in accordance with the prov
 
 (3) Where the school teacher is eligible for pay progression under the Document, the appraiser must provide to the head teacher a recommendation on pay progression, having regard to the school teacher’s appraisal statement.
 
-(4) The head teacher must provide a copy of the annex to the appraisal statement referred to in regulation 29(4) to the person or persons responsible for planning the training and professional learning[^key-c691ccb6eed8b6fd28727f261fcd9b3b] of school teachers at the school.
+(4) The head teacher must provide a copy of the annex to the appraisal statement referred to in regulation 29(4) to the person or persons responsible for planning the training and professional learning[^c-c691ccb6eed8b6fd28727f261fcd9b3b] of school teachers at the school.
 
 (5) The head teacher must make a school teacher’s current statement of objectives available to a new appraiser appointed otherwise than at the beginning of an appraisal cycle.
 
 (6) A school teacher’s appraisal statement must be kept by the head teacher until at least three years after the next appraisal statement has been finalised.
 
-### 32. Information from appraisal statements[^key-5b5d630ba81eda85674e5832a9b24045]
+### 32. Information from appraisal statements[^c-5b5d630ba81eda85674e5832a9b24045]
 
 (1) Relevant information from appraisal statements may be taken into account by head teachers, school governing bodies (including committees of governing bodies), Chief Education Officers or any officers or advisers specifically designated by a Chief Education Officer under regulation 31(2)(d) in taking decisions, and in advising those responsible for taking decisions, about the promotion, dismissal or discipline of school teachers or the use of any discretion in relation to pay.
 
 (2) Appraisal procedures in respect of a school teacher as described in these Regulations will not constitute any steps that must be taken in disciplinary or dismissal procedures brought against the school teacher.
 
-### 33. Transitional provision[^key-411d5be6d78f2e933fed3d8ab8bcea7b]
+### 33. Transitional provision[^c-411d5be6d78f2e933fed3d8ab8bcea7b]
 
 Regulations 31 and 32 apply in relation to appraisal records produced and maintained under the Education (School Teacher Appraisal) (Wales) Regulations 1999 or under the School Teacher Appraisal (Wales) Regulations 2002 as they apply in relation to appraisal statements.
 
 ## PART IV — Appraisal of Unattached Teachers
 
-### 34. Application of Part IV[^key-108042103d6ef11ac189dc48bf025beb]
+### 34. Application of Part IV[^c-108042103d6ef11ac189dc48bf025beb]
 
 (1) Regulations 35 to 45 apply to the appraisal of unattached teachers.
 
 (2) In this Part IV “school” (“*ysgol*”) includes a pupil referral unit and references to a head teacher include reference to a teacher in charge of a pupil referral unit.
 
-### 35. Requirement on authority to produce a performance management policy[^key-f0abf0e15e18707732d1550a29c653d9]
+### 35. Requirement on authority to produce a performance management policy[^c-f0abf0e15e18707732d1550a29c653d9]
 
 (1) The authority must have a written policy (“the performance management policy”) setting out how the appraisal of unattached teachers is to be implemented.
 
@@ -513,7 +513,7 @@ Regulations 31 and 32 apply in relation to appraisal records produced and mainta
 - (b) any person involved in the inspection of the operation of the unattached teacher appraisal system;
 - (c) any appraiser appointed in accordance with these Regulations.
 
-### 36. Appointment of appraisers for unattached teachers[^key-e0f774034df4131e906386c036164e39]
+### 36. Appointment of appraisers for unattached teachers[^c-e0f774034df4131e906386c036164e39]
 
 (1) Subject to the following paragraphs the authority is the appraiser for every unattached teacher.
 
@@ -521,7 +521,7 @@ Regulations 31 and 32 apply in relation to appraisal records produced and mainta
 
 (3) The authority may appoint a new appraiser in place of an existing appraiser at any time or they may perform those duties themselves.
 
-### 37. The appraisal cycle[^key-7e1b9c93316324d1f2852400fe0b35a3]
+### 37. The appraisal cycle[^c-7e1b9c93316324d1f2852400fe0b35a3]
 
 (1) Subject to the following provisions of this regulation the authority must determine the timing of the appraisal cycle for every unattached teacher employed by it.
 
@@ -541,20 +541,20 @@ Regulations 31 and 32 apply in relation to appraisal records produced and mainta
 
 (9) Where an unattached teacher transfers to a new post within the authority part way through an appraisal cycle, the authority must determine whether the cycle is to begin again and if so whether to appoint a new appraiser.
 
-### 38. Appraisal procedures[^key-4227e40f239c38cc35bf3cee67c45baf]
+### 38. Appraisal procedures[^c-4227e40f239c38cc35bf3cee67c45baf]
 
 (1) Subject to paragraph (2) and to regulations 39 to 43 the authority must determine the procedures for the appraisal of unattached teachers.
 
 (2) If some or all of the authority’s duties in respect of an unattached teacher have been delegated to a teacher at a school in accordance with regulation 36(2) then subject to regulations 39 to 43 the procedures for the appraisal of that unattached teacher must be those determined by the school’s governing body pursuant to regulation 25.
 
-### 39. Planning of appraisal and setting of objectives[^key-c3a381162949d3179e64b55d70f0f274]
+### 39. Planning of appraisal and setting of objectives[^c-c3a381162949d3179e64b55d70f0f274]
 
 (1) Before or at the start of the appraisal cycle, the appraiser and the unattached teacher must meet to plan and prepare for the appraisal and to seek to agree the unattached teacher’s objectives which must take account of such relevant evidence as the appraiser and the unattached teacher agree (or, in the absence of agreement, such relevant evidence as the appraiser decides) but which will include the Pupil Performance Information and must relate to—
 
 - (a) developing and improving the unattached teacher’s professional practice;
 - (b) the unattached teacher’s job description;
 - (c) any relevant pay progression criteria;
-- (d) any relevant whole-school or team objectives specified in the School Development Plan[^key-5981e332448be9864feb6a9273ff97cf]; and
+- (d) any relevant whole-school or team objectives specified in the School Development Plan[^c-5981e332448be9864feb6a9273ff97cf]; and
 - (e) the professional standards for school teachers as specified by the Welsh Ministers from time to time.
 
 (2) The unattached teacher’s objectives described in (1) may also take into account—
@@ -573,10 +573,10 @@ Regulations 31 and 32 apply in relation to appraisal records produced and mainta
 (7) The unattached teacher must during the course of the appraisal cycle keep an up-to-date record of—
 
 - (a) the unattached teacher’s own assessment of performance against the objectives recorded in the statement of objectives;
-- (b) particulars of any professional learning[^key-cb1150a085237ac11efe52d118d5e6f5] activities undertaken or other support provided and how this is contributing to achievement of the objectives; and
+- (b) particulars of any professional learning[^c-cb1150a085237ac11efe52d118d5e6f5] activities undertaken or other support provided and how this is contributing to achievement of the objectives; and
 - (c) particulars of any factors which the unattached teacher considers are affecting performance against the recorded objectives.
 
-### 40. Revising objectives[^key-d7e324ea3dd9772aa2c1b574a775ae13]
+### 40. Revising objectives[^c-d7e324ea3dd9772aa2c1b574a775ae13]
 
 (1) An unattached teacher’s objectives may be revised by the appraiser at any time during the appraisal cycle.
 
@@ -586,7 +586,7 @@ Regulations 31 and 32 apply in relation to appraisal records produced and mainta
 - (b) references in these Regulations to the unattached teacher’s objectives will be read as references to the revised objectives; and
 - (c) references in these Regulations to the unattached teacher’s statement of objectives will be read as references to the amended statement of objectives.
 
-### 41. Monitoring progress[^key-258575102804393b81f941d6762205f6]
+### 41. Monitoring progress[^c-258575102804393b81f941d6762205f6]
 
 (1) The appraiser and the unattached teacher must seek to agree at a meeting held under regulation 39 on the procedures for monitoring the unattached teacher’s performance against the objectives agreed under regulation 39(1) or where objectives have not been agreed, the objectives set out in writing under regulation 39(4).
 
@@ -601,19 +601,19 @@ Regulations 31 and 32 apply in relation to appraisal records produced and mainta
 
 (5) Paragraph (4) does not apply to any information which the appraiser is entitled to receive under any other provision of these Regulations.
 
-### 42. The appraisal review and the appraisal statement[^key-7b6a2276de6a6545d0e83ec960f5a38d]
+### 42. The appraisal review and the appraisal statement[^c-7b6a2276de6a6545d0e83ec960f5a38d]
 
 (1) At or near the end of the appraisal cycle the appraiser and the unattached teacher must hold an appraisal review, with the object of—
 
 - (a) assessing the extent to which the unattached teacher has met the objectives recorded in the statement of objectives as set out in regulation 39(1), taking account of the record that the unattached teacher must keep in accordance with regulation 39(7);
 - (b) determining whether there has been successful overall performance as considered against the professional standards for school teachers as specified by the Welsh Ministers from time to time; and
-- (c) identifying the need for additional support, training or learning[^key-fdebe19e6c661fb48099e8d913b9b71f] and ways of meeting such needs also taking account of the record described in regulation 39(7).
+- (c) identifying the need for additional support, training or learning[^c-fdebe19e6c661fb48099e8d913b9b71f] and ways of meeting such needs also taking account of the record described in regulation 39(7).
 
 (2) The date on which an appraisal review is to be held will be determined by the appraiser, but at least 10 school days notice (in writing) must be given to the unattached teacher of that date.
 
 (3) The unattached teacher must, at least five school days before the appraisal review, submit to the appraiser the record maintained under regulation 39(7) and the record must be considered at the appraisal review.
 
-(4) Within 10 school days after each appraisal review, the appraiser must prepare a written statement recording the main points made by the appraiser and the unattached teacher at the review and the conclusions reached, and there must be recorded in an annex to the statement (which will form part of the statement) the training and professional learning[^key-41e473149ca917d89df0a1cf4a1c942c] needs and ways of meeting such needs identified at the review.
+(4) Within 10 school days after each appraisal review, the appraiser must prepare a written statement recording the main points made by the appraiser and the unattached teacher at the review and the conclusions reached, and there must be recorded in an annex to the statement (which will form part of the statement) the training and professional learning[^c-41e473149ca917d89df0a1cf4a1c942c] needs and ways of meeting such needs identified at the review.
 
 (5) An appraisal review under paragraph (1) may be combined with a meeting under regulation 39 in relation to the following appraisal cycle.
 
@@ -625,7 +625,7 @@ Regulations 31 and 32 apply in relation to appraisal records produced and mainta
 
 (9) Where the authority is the appraiser, the authority must send a copy of the appraisal statement to the head teacher of any school at which the unattached teacher regularly spends part of their working time.
 
-### 43. Appeals[^key-7e62468d62d3f73322982c2a5fad432d]
+### 43. Appeals[^c-7e62468d62d3f73322982c2a5fad432d]
 
 (1) An unattached teacher is entitled to appeal against an appraisal under these Regulations within 10 school days of receiving a copy of the appraisal statement under regulation 42(6).
 
@@ -654,7 +654,7 @@ Regulations 31 and 32 apply in relation to appraisal records produced and mainta
 
 (10) References in this regulation and in regulations 44 and 45 to an appraisal statement are references to a statement prepared under regulation 42(4), including, in the case of regulations 44 and 45, any observations added by an appeals officer under paragraph (5)(a).
 
-### 44. Provision and retention of appraisal statements[^key-d7104c2d8a7b26c2f7d3416c5a09f6b2]
+### 44. Provision and retention of appraisal statements[^c-d7104c2d8a7b26c2f7d3416c5a09f6b2]
 
 (1) The appraiser must give a copy of the appraisal statement to—
 
@@ -669,23 +669,23 @@ Regulations 31 and 32 apply in relation to appraisal records produced and mainta
 
 (3) Where the unattached teacher is eligible for pay progression under the Document, the appraiser must provide to the authority a recommendation on pay progression, having regard to the unattached teacher’s appraisal statement.
 
-(4) The authority must provide a copy of the annex to the appraisal statement referred to in regulation 42(4) to the person or persons responsible for planning the training and professional learning[^key-74ff81cbfe6fb4e79e0fbc24f778f5da] of school teachers at any school at which the unattached teacher regularly spends part of their working time.
+(4) The authority must provide a copy of the annex to the appraisal statement referred to in regulation 42(4) to the person or persons responsible for planning the training and professional learning[^c-74ff81cbfe6fb4e79e0fbc24f778f5da] of school teachers at any school at which the unattached teacher regularly spends part of their working time.
 
 (5) The authority must make an unattached teacher’s current statement of objectives available to a new appraiser appointed otherwise than at the beginning of an appraisal cycle.
 
 (6) An unattached teacher’s appraisal statement must be kept by the authority until at least three years after the next appraisal statement has been finalised.
 
-### 45. Information from appraisal statements[^key-61b290277c80157f222b38bbbe72e09c]
+### 45. Information from appraisal statements[^c-61b290277c80157f222b38bbbe72e09c]
 
 (1) Relevant information from appraisal statements may be taken into account by an authority, Chief Education Officers or any officers or advisers specifically designated by a Chief Education Officer under regulation 44(2)(c) in taking decisions, and in advising those responsible for taking decisions, about the promotion, dismissal or discipline of unattached teachers or the use of any discretion in relation to pay.
 
 (2) Appraisal procedures in respect of an unattached teacher as set out in these Regulations will not constitute any steps that must be taken in disciplinary or dismissal procedures brought against an unattached teacher.
 
-### 46. Transitional provision[^key-80d6ccca23bb115cdbfd33a50b232c03]
+### 46. Transitional provision[^c-80d6ccca23bb115cdbfd33a50b232c03]
 
 Regulations 44 and 45 apply in relation to appraisal records produced and maintained under the School Teacher Appraisal (Wales) Regulations 2002 as they apply in relation to appraisal statements.
 
-### 47. Amendment to the School Government (Terms of Reference) (Wales) Regulations 2000[^key-48863804fcf18fab81f2badcdf0c4eca]
+### 47. Amendment to the School Government (Terms of Reference) (Wales) Regulations 2000[^c-48863804fcf18fab81f2badcdf0c4eca]
 
 (1) In regulation 2(1) omit the definitions of “school teacher”, “school term” and “short term contract”.
 
@@ -703,13 +703,13 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 ## SCHEDULE — Savings and General Transitional Provisions
 
-### 1. The Appraisal Cycle[^key-92964a3e1d41e26fac00fea2602646d1]
+### 1. The Appraisal Cycle[^c-92964a3e1d41e26fac00fea2602646d1]
 
 Where a head teacher, school teacher or unattached teacher has completed an appraisal cycle under the provisions of the 2002 Regulations, then any appeal against the appraisal must be made in accordance with the appeals procedures set out in the 2002 Regulations.
 
-**2.**[^key-fdb44dad5371c7dbb09de201ade2b989] Where a head teacher, school teacher or unattached teacher is part-way through an appraisal cycle under the 2002 Regulations on the date upon which these Regulations come into force, then (subject to paragraph 3) that appraisal cycle must continue under the provisions of the 2002 Regulations until such time as a new appraisal cycle begins under these Regulations.
+**2.**[^c-fdb44dad5371c7dbb09de201ade2b989] Where a head teacher, school teacher or unattached teacher is part-way through an appraisal cycle under the 2002 Regulations on the date upon which these Regulations come into force, then (subject to paragraph 3) that appraisal cycle must continue under the provisions of the 2002 Regulations until such time as a new appraisal cycle begins under these Regulations.
 
-**3.**[^key-731accac366f08b759bad1cf6c1e6856] Where a head teacher, school teacher or unattached teacher has completed or is part-way through an appraisal cycle under the provisions of the 2002 Regulations, any appraisal review meeting in respect of that appraisal cycle that is due under the provisions of the 2002 Regulations after the date that these Regulations come into force, may be conducted by the appraiser or appraisers (as appropriate) appointed in respect of that head teacher, school teacher or unattached teacher under the provisions of these Regulations (“the new appraisers”), if the new appraisers elect to do so. Such appraisal review meeting may be subject to the provisions of regulations 15(5), 29(5) and 42(5) (as appropriate) at the discretion of the new appraisers.
+**3.**[^c-731accac366f08b759bad1cf6c1e6856] Where a head teacher, school teacher or unattached teacher has completed or is part-way through an appraisal cycle under the provisions of the 2002 Regulations, any appraisal review meeting in respect of that appraisal cycle that is due under the provisions of the 2002 Regulations after the date that these Regulations come into force, may be conducted by the appraiser or appraisers (as appropriate) appointed in respect of that head teacher, school teacher or unattached teacher under the provisions of these Regulations (“the new appraisers”), if the new appraisers elect to do so. Such appraisal review meeting may be subject to the provisions of regulations 15(5), 29(5) and 42(5) (as appropriate) at the discretion of the new appraisers.
 
 (This note is not part of the Regulations)
 
@@ -789,9 +789,9 @@ The Schedule has savings and general transitional provisions. Paragraph 1 provid
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32); conferred upon the National Assembly for Wales in the Education Act 2002 and transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-f758bc17f273e7d77e0f1a45bd596cc6]: Commencement: Reg. 1 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-f758bc17f273e7d77e0f1a45bd596cc6]: Commencement: Reg. 1 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-93db7f953278ef93bd27afcf320279ae]: Commencement: Reg. 2 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-93db7f953278ef93bd27afcf320279ae]: Commencement: Reg. 2 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2002/1394 (W.137)](https://www.legislation.gov.uk/wsi/2002/1394). The School Teacher Appraisal (Wales) Regulations 2002 were amended by the Staffing of Maintained Schools (Miscellaneous Amendments) (Wales) Regulations 2007 ([S.I. 2007/944) (W.80)](https://www.legislation.gov.uk/wsi/2007/944), the School Teacher Appraisal (Amendment) (Wales) Regulations 2009 ([S.I. 2009/2159) (W.183)](https://www.legislation.gov.uk/wsi/2009/2159), the School Teacher Appraisal (Wales) (Amendment No, 2) Regulations 2009 ([S.I. 2009/2864) (W.251)](https://www.legislation.gov.uk/wsi/2009/2864) and the Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 ([S.I. 2010/1142) (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142).
 
@@ -801,140 +801,140 @@ The Schedule has savings and general transitional provisions. Paragraph 1 provid
 
 [^f00005]: Footnote: [S.I. 2002/1396 (W.138)](https://www.legislation.gov.uk/wsi/2002/1396)
 
-[^key-06d2210ae59bb032a434da9d45f62ac8]: Commencement: Reg. 3 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-06d2210ae59bb032a434da9d45f62ac8]: Commencement: Reg. 3 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
 [^f00006]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
 
-[^key-01d98c322f4a9f1ebeb39d7430fa8ce5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/3/1) substituted (27.10.2014) by [The Education (School Development Plans) (Wales) Regulations 2014 (S.I. 2014/2677)](https://www.legislation.gov.uk/wsi/2014/2677), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/1/1), [12(a)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/12/a)
+[^c-01d98c322f4a9f1ebeb39d7430fa8ce5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/3/1) substituted (27.10.2014) by [The Education (School Development Plans) (Wales) Regulations 2014 (S.I. 2014/2677)](https://www.legislation.gov.uk/wsi/2014/2677), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/1/1), [12(a)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/12/a)
 
-[^key-b2c202bf94e90d73674b2949dcc724bb]: Commencement: Reg. 4 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-b2c202bf94e90d73674b2949dcc724bb]: Commencement: Reg. 4 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-3c441561f7924eca76cd1655a048559a]: Commencement: Reg. 5 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-3c441561f7924eca76cd1655a048559a]: Commencement: Reg. 5 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-fd3e9a2af71ac302a740534dd57c4a60]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/5/7) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/a)
+[^c-fd3e9a2af71ac302a740534dd57c4a60]: Textual amendment: Words in [reg. 5(7)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/5/7) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/a)
 
-[^key-00e1ce8b3792b80491884f6fe32fa22f]: Commencement: Reg. 6 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-00e1ce8b3792b80491884f6fe32fa22f]: Commencement: Reg. 6 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-ac94d4715c5bff7adc402fa014507b62]: Commencement: Reg. 7 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-ac94d4715c5bff7adc402fa014507b62]: Commencement: Reg. 7 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-df3f34f4fe47006330d58292fd1eabc5]: Commencement: Reg. 8 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-df3f34f4fe47006330d58292fd1eabc5]: Commencement: Reg. 8 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-e3d6df0843052f6f52ac28ee0e0ae1c7]: Commencement: Reg. 9 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-e3d6df0843052f6f52ac28ee0e0ae1c7]: Commencement: Reg. 9 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-4a1fb6c57c7645dc6050ad8903ce6e29]: Commencement: Reg. 10 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-4a1fb6c57c7645dc6050ad8903ce6e29]: Commencement: Reg. 10 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-ab86acef471460f126dacf5909d2c12b]: Commencement: Reg. 11 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-ab86acef471460f126dacf5909d2c12b]: Commencement: Reg. 11 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-ee25ddcbe508ea2d6cfecba592d2312a]: Commencement: Reg. 12 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-ee25ddcbe508ea2d6cfecba592d2312a]: Commencement: Reg. 12 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-3e248060a36cfbf752f930f49f3409ec]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/12/1/d) substituted (27.10.2014) by [The Education (School Development Plans) (Wales) Regulations 2014 (S.I. 2014/2677)](https://www.legislation.gov.uk/wsi/2014/2677), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/1/1), [12(b)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/12/b)
+[^c-3e248060a36cfbf752f930f49f3409ec]: Textual amendment: Words in [reg. 12(1)(d)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/12/1/d) substituted (27.10.2014) by [The Education (School Development Plans) (Wales) Regulations 2014 (S.I. 2014/2677)](https://www.legislation.gov.uk/wsi/2014/2677), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/1/1), [12(b)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/12/b)
 
-[^key-1bdf06bad870b7ea79c3bb83fd0b01ee]: Textual amendment: Word in [reg. 12(7)(b)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/12/7/b) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/3/a)
+[^c-1bdf06bad870b7ea79c3bb83fd0b01ee]: Textual amendment: Word in [reg. 12(7)(b)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/12/7/b) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/3/a)
 
 [^f00007]: Footnote: Commonly known as “Estyn”.
 
-[^key-8ef090a7cefe962c5ccbb6f99f1127e8]: Commencement: Reg. 13 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-8ef090a7cefe962c5ccbb6f99f1127e8]: Commencement: Reg. 13 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-010fed93384b5f7e2582225f61f7ca35]: Commencement: Reg. 14 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-010fed93384b5f7e2582225f61f7ca35]: Commencement: Reg. 14 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-9dfd135bf6ef9f18b08371a220795af9]: Commencement: Reg. 15 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-9dfd135bf6ef9f18b08371a220795af9]: Commencement: Reg. 15 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-f6a4ca7c3144ef2fb1ec4dc8e59409a4]: Textual amendment: Words in [reg. 15(1)(c)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/15/1/c) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/b)
+[^c-f6a4ca7c3144ef2fb1ec4dc8e59409a4]: Textual amendment: Words in [reg. 15(1)(c)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/15/1/c) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/b)
 
-[^key-e3a3c7607ca2dcfb7d233ee26be2cbb0]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/15/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/4/a)
+[^c-e3a3c7607ca2dcfb7d233ee26be2cbb0]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/15/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/4/a)
 
-[^key-7be7aaad4ca9ffc5eed1cd7709c5fdc0]: Commencement: Reg. 16 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-7be7aaad4ca9ffc5eed1cd7709c5fdc0]: Commencement: Reg. 16 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-224a1161150dfea5c663a60dca108030]: Commencement: Reg. 17 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-224a1161150dfea5c663a60dca108030]: Commencement: Reg. 17 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2006/873 (W. 81)](https://www.legislation.gov.uk/wsi/2006/873).
 
-[^key-d3eaed1b49facf79a2765c68f32f366b]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/17/5) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/c)
+[^c-d3eaed1b49facf79a2765c68f32f366b]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/17/5) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/c)
 
-[^key-179b90372ae2828afda7f9bccae0b43f]: Commencement: Reg. 18 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-179b90372ae2828afda7f9bccae0b43f]: Commencement: Reg. 18 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-f2e673c61ff21c8cf6535fa6e92d3175]: Commencement: Reg. 19 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-f2e673c61ff21c8cf6535fa6e92d3175]: Commencement: Reg. 19 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1999/2888 (W. 25)](https://www.legislation.gov.uk/wsi/1999/2888).
 
-[^key-37b75ae41097ca853dd02da024bd0217]: Commencement: Reg. 20 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-37b75ae41097ca853dd02da024bd0217]: Commencement: Reg. 20 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-48069e93bbcb71ce5c21ccefff3153a5]: Commencement: Reg. 21 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-48069e93bbcb71ce5c21ccefff3153a5]: Commencement: Reg. 21 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-d4c95f581d79092d716d542cf4a6619a]: Commencement: Reg. 22 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-d4c95f581d79092d716d542cf4a6619a]: Commencement: Reg. 22 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-1b080df247376c3351349a6516be80b9]: Commencement: Reg. 23 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-1b080df247376c3351349a6516be80b9]: Commencement: Reg. 23 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-32557fd6eb19e367068b9213d6aa5626]: Commencement: Reg. 24 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-32557fd6eb19e367068b9213d6aa5626]: Commencement: Reg. 24 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-5195142b9f2f098e84df3375da6025ae]: Commencement: Reg. 25 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-5195142b9f2f098e84df3375da6025ae]: Commencement: Reg. 25 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-5b6716068c766dd97e697feaaf7d1a4c]: Commencement: Reg. 26 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-5b6716068c766dd97e697feaaf7d1a4c]: Commencement: Reg. 26 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-5db40fd067a629e1862b792cf080b19c]: Textual amendment: Words in [reg. 26(1)(d)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/26/1/d) substituted (27.10.2014) by [The Education (School Development Plans) (Wales) Regulations 2014 (S.I. 2014/2677)](https://www.legislation.gov.uk/wsi/2014/2677), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/1/1), [12(b)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/12/b)
+[^c-5db40fd067a629e1862b792cf080b19c]: Textual amendment: Words in [reg. 26(1)(d)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/26/1/d) substituted (27.10.2014) by [The Education (School Development Plans) (Wales) Regulations 2014 (S.I. 2014/2677)](https://www.legislation.gov.uk/wsi/2014/2677), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/1/1), [12(b)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/12/b)
 
-[^key-bcd7386d3fd7c00d1ed010cdb062b020]: Textual amendment: Word in [reg. 26(7)(b)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/26/7/b) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/3/b)
+[^c-bcd7386d3fd7c00d1ed010cdb062b020]: Textual amendment: Word in [reg. 26(7)(b)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/26/7/b) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/3/b)
 
-[^key-e309ea8c28ab13179c86269ef1d6f505]: Commencement: Reg. 27 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-e309ea8c28ab13179c86269ef1d6f505]: Commencement: Reg. 27 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-4653bb6c6c4d89062860b48b0a2c71aa]: Commencement: Reg. 28 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-4653bb6c6c4d89062860b48b0a2c71aa]: Commencement: Reg. 28 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-39e3e1a3e622c29c1006642a730a9e1d]: Commencement: Reg. 29 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-39e3e1a3e622c29c1006642a730a9e1d]: Commencement: Reg. 29 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-28ede22b2f8ff1e4285e756ffce8c94c]: Textual amendment: Words in [reg. 29(1)(c)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/29/1/c) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(d)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/d)
+[^c-28ede22b2f8ff1e4285e756ffce8c94c]: Textual amendment: Words in [reg. 29(1)(c)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/29/1/c) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(d)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/d)
 
-[^key-0c517dcb8d21255b7950a8b6cd66972c]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/29/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/4/b)
+[^c-0c517dcb8d21255b7950a8b6cd66972c]: Textual amendment: Words in [reg. 29(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/29/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/4/b)
 
-[^key-07c8e7531197bfd6867bd4408d502289]: Commencement: Reg. 30 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-07c8e7531197bfd6867bd4408d502289]: Commencement: Reg. 30 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-cfbc90470e6d5e52f56798cbf3e1041c]: Commencement: Reg. 31 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-cfbc90470e6d5e52f56798cbf3e1041c]: Commencement: Reg. 31 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-c691ccb6eed8b6fd28727f261fcd9b3b]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/31/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(e)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/e)
+[^c-c691ccb6eed8b6fd28727f261fcd9b3b]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/31/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(e)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/e)
 
-[^key-5b5d630ba81eda85674e5832a9b24045]: Commencement: Reg. 32 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-5b5d630ba81eda85674e5832a9b24045]: Commencement: Reg. 32 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-411d5be6d78f2e933fed3d8ab8bcea7b]: Commencement: Reg. 33 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-411d5be6d78f2e933fed3d8ab8bcea7b]: Commencement: Reg. 33 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-108042103d6ef11ac189dc48bf025beb]: Commencement: Reg. 34 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-108042103d6ef11ac189dc48bf025beb]: Commencement: Reg. 34 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-f0abf0e15e18707732d1550a29c653d9]: Commencement: Reg. 35 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-f0abf0e15e18707732d1550a29c653d9]: Commencement: Reg. 35 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-e0f774034df4131e906386c036164e39]: Commencement: Reg. 36 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-e0f774034df4131e906386c036164e39]: Commencement: Reg. 36 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-7e1b9c93316324d1f2852400fe0b35a3]: Commencement: Reg. 37 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-7e1b9c93316324d1f2852400fe0b35a3]: Commencement: Reg. 37 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-4227e40f239c38cc35bf3cee67c45baf]: Commencement: Reg. 38 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-4227e40f239c38cc35bf3cee67c45baf]: Commencement: Reg. 38 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-c3a381162949d3179e64b55d70f0f274]: Commencement: Reg. 39 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-c3a381162949d3179e64b55d70f0f274]: Commencement: Reg. 39 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-5981e332448be9864feb6a9273ff97cf]: Textual amendment: Words in [reg. 39(1)(d)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/39/1/d) substituted (27.10.2014) by [The Education (School Development Plans) (Wales) Regulations 2014 (S.I. 2014/2677)](https://www.legislation.gov.uk/wsi/2014/2677), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/1/1), [12(b)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/12/b)
+[^c-5981e332448be9864feb6a9273ff97cf]: Textual amendment: Words in [reg. 39(1)(d)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/39/1/d) substituted (27.10.2014) by [The Education (School Development Plans) (Wales) Regulations 2014 (S.I. 2014/2677)](https://www.legislation.gov.uk/wsi/2014/2677), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/1/1), [12(b)](https://www.legislation.gov.uk/wsi/2014/2677/regulation/12/b)
 
-[^key-cb1150a085237ac11efe52d118d5e6f5]: Textual amendment: Word in [reg. 39(7)(b)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/39/7/b) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/3/c)
+[^c-cb1150a085237ac11efe52d118d5e6f5]: Textual amendment: Word in [reg. 39(7)(b)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/39/7/b) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(3)(c)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/3/c)
 
-[^key-d7e324ea3dd9772aa2c1b574a775ae13]: Commencement: Reg. 40 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-d7e324ea3dd9772aa2c1b574a775ae13]: Commencement: Reg. 40 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-258575102804393b81f941d6762205f6]: Commencement: Reg. 41 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-258575102804393b81f941d6762205f6]: Commencement: Reg. 41 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-7b6a2276de6a6545d0e83ec960f5a38d]: Commencement: Reg. 42 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-7b6a2276de6a6545d0e83ec960f5a38d]: Commencement: Reg. 42 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-fdebe19e6c661fb48099e8d913b9b71f]: Textual amendment: Word in [reg. 42(1)(c)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/42/1/c) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(3)(d)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/3/d)
+[^c-fdebe19e6c661fb48099e8d913b9b71f]: Textual amendment: Word in [reg. 42(1)(c)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/42/1/c) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(3)(d)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/3/d)
 
-[^key-41e473149ca917d89df0a1cf4a1c942c]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/42/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/4/c)
+[^c-41e473149ca917d89df0a1cf4a1c942c]: Textual amendment: Words in [reg. 42(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/42/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/4/c)
 
-[^key-7e62468d62d3f73322982c2a5fad432d]: Commencement: Reg. 43 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-7e62468d62d3f73322982c2a5fad432d]: Commencement: Reg. 43 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-d7104c2d8a7b26c2f7d3416c5a09f6b2]: Commencement: Reg. 44 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-d7104c2d8a7b26c2f7d3416c5a09f6b2]: Commencement: Reg. 44 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-74ff81cbfe6fb4e79e0fbc24f778f5da]: Textual amendment: Words in [reg. 44(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/44/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(f)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/f)
+[^c-74ff81cbfe6fb4e79e0fbc24f778f5da]: Textual amendment: Words in [reg. 44(4)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/44/4) substituted (31.7.2018) by [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [7(2)(f)](https://www.legislation.gov.uk/wsi/2018/766/regulation/7/2/f)
 
-[^key-61b290277c80157f222b38bbbe72e09c]: Commencement: Reg. 45 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-61b290277c80157f222b38bbbe72e09c]: Commencement: Reg. 45 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-80d6ccca23bb115cdbfd33a50b232c03]: Commencement: Reg. 46 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-80d6ccca23bb115cdbfd33a50b232c03]: Commencement: Reg. 46 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-48863804fcf18fab81f2badcdf0c4eca]: Commencement: Reg. 47 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-48863804fcf18fab81f2badcdf0c4eca]: Commencement: Reg. 47 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-92964a3e1d41e26fac00fea2602646d1]: Commencement: Sch. para. 1 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-92964a3e1d41e26fac00fea2602646d1]: Commencement: Sch. para. 1 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-fdb44dad5371c7dbb09de201ade2b989]: Commencement: Sch. para. 2 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-fdb44dad5371c7dbb09de201ade2b989]: Commencement: Sch. para. 2 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
 
-[^key-731accac366f08b759bad1cf6c1e6856]: Commencement: Sch. para. 3 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)
+[^c-731accac366f08b759bad1cf6c1e6856]: Commencement: Sch. para. 3 in force at 1.1.2012, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1)

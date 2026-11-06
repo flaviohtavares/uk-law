@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where the reference amount calculated in any of regulations 4.B.2 to 4.B.7A[^key-84ed4b5af5144f2d504211395407eece] is greater than the base amount, a top-up amount is payable.
+(1) Where the reference amount calculated in any of regulations 4.B.2 to 4.B.7A[^c-84ed4b5af5144f2d504211395407eece] is greater than the base amount, a top-up amount is payable.
 
 (2) The top-up amount is equal to the aggregate of the amounts by which the reference amount is greater than the base amount in each of regulations 8.B.2 to 4.B.7A (where applicable).
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84ed4b5af5144f2d504211395407eece]: Textual amendment: Word in [reg. 4.C.1(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.C.1/1)[(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.C.1/2) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [102](https://www.legislation.gov.uk/uksi/2009/2446/regulation/102)
+[^c-84ed4b5af5144f2d504211395407eece]: Textual amendment: Word in [reg. 4.C.1(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.C.1/1)[(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.C.1/2) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [102](https://www.legislation.gov.uk/uksi/2009/2446/regulation/102)
 
 [^f00139]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).

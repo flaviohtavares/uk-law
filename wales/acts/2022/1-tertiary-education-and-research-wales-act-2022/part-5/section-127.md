@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Complaints procedures[^key-bd06cf0cb31d1a926defefdfa1f5db21][^key-cca96fc4947ab0963c8aca21e4a4d202]
+## 127. Complaints procedures[^c-bd06cf0cb31d1a926defefdfa1f5db21][^c-cca96fc4947ab0963c8aca21e4a4d202]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd06cf0cb31d1a926defefdfa1f5db21]: Commencement: S. 127 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-bd06cf0cb31d1a926defefdfa1f5db21]: Commencement: S. 127 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-cca96fc4947ab0963c8aca21e4a4d202]: Commencement: [S. 127](https://www.legislation.gov.uk/asc/2022/1/section/127) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(mm)](https://www.legislation.gov.uk/wsi/2026/62/article/2/mm)
+[^c-cca96fc4947ab0963c8aca21e4a4d202]: Commencement: [S. 127](https://www.legislation.gov.uk/asc/2022/1/section/127) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(mm)](https://www.legislation.gov.uk/wsi/2026/62/article/2/mm)

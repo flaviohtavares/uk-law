@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**11.**[^key-c372cbbe466170eedfb62364b885ee2c] (1) In section 12 (persons serving again after retirement), paragraph (a) is amended as follows.
+**11.**[^c-c372cbbe466170eedfb62364b885ee2c] (1) In section 12 (persons serving again after retirement), paragraph (a) is amended as follows.
 
 (2) After “marrying” insert “or forming a civil partnership”.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c372cbbe466170eedfb62364b885ee2c]: Commencement: Art. 11 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-c372cbbe466170eedfb62364b885ee2c]: Commencement: Art. 11 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

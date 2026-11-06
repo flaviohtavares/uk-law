@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116C. Economic life of goods[^key-ade96dfc3a1d2c4b745a5e9303bf6432]
+## 116C. Economic life of goods[^c-ade96dfc3a1d2c4b745a5e9303bf6432]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Goods held or used for the purposes of a business have an economic life being (s
 
 ## Annotations
 
-[^key-ade96dfc3a1d2c4b745a5e9303bf6432]: Textual amendment: Pt. 15A inserted (1.11.2007) by [The Value Added Tax (Amendment) (No. 7) Regulations 2007 (S.I. 2007/3099)](https://www.legislation.gov.uk/uksi/2007/3099), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/3099/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2007/3099/regulation/4)
+[^c-ade96dfc3a1d2c4b745a5e9303bf6432]: Textual amendment: Pt. 15A inserted (1.11.2007) by [The Value Added Tax (Amendment) (No. 7) Regulations 2007 (S.I. 2007/3099)](https://www.legislation.gov.uk/uksi/2007/3099), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/3099/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2007/3099/regulation/4)

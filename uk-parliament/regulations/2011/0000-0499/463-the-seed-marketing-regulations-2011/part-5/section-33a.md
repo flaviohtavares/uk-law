@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 33A. Review[^key-47199bf605d173d733f695b87fa5dca1]
+## 33A. Review[^c-47199bf605d173d733f695b87fa5dca1]
 
 *Extent: E+W+S+NI*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47199bf605d173d733f695b87fa5dca1]: Textual amendment: Reg. 33A omitted (24.7.2020) by virtue of [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/682/regulation/4/2)
+[^c-47199bf605d173d733f695b87fa5dca1]: Textual amendment: Reg. 33A omitted (24.7.2020) by virtue of [The Marketing of Seed, Plant and Propagating Material (England) Regulations 2020 (S.I. 2020/682)](https://www.legislation.gov.uk/uksi/2020/682), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/682/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/682/regulation/4/2)

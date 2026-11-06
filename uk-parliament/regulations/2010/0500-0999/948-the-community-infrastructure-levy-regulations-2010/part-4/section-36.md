@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Default of liability[^key-96fd8247e620f8d4733613b1280d7b41]
+## 36. Default of liability[^c-96fd8247e620f8d4733613b1280d7b41]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96fd8247e620f8d4733613b1280d7b41]: Commencement: Reg. 36 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-96fd8247e620f8d4733613b1280d7b41]: Commencement: Reg. 36 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Regulations about members[^key-e949369d9ea7214ff34c2ab6230ea71b]
+## 13. Regulations about members[^c-e949369d9ea7214ff34c2ab6230ea71b]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (2) The provision that may be made by regulations under subsection (1) includes, in particular, provision about—
 
-- (a) the cases in which a decision of a CCA requires a majority, or a particular kind of majority, of the votes of members of a particular kind (including provision disapplying or modifying the effect of section 13A)[^key-b98f988e2c093bef73a9d9d751d5da42];
+- (a) the cases in which a decision of a CCA requires a majority, or a particular kind of majority, of the votes of members of a particular kind (including provision disapplying or modifying the effect of section 13A)[^c-b98f988e2c093bef73a9d9d751d5da42];
 - (b) the process for the designation of a nominating body or the removal of such a designation;
 - (c) the number of nominating bodies that may be designated by a CCA;
 - (d) the number of non-constituent members that may be appointed by a nominating body of a CCA;
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e949369d9ea7214ff34c2ab6230ea71b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/55/section/13) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-e949369d9ea7214ff34c2ab6230ea71b]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/55/section/13) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-b98f988e2c093bef73a9d9d751d5da42]: Textual amendment: Words in s. 13(2)(a) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/6/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-b98f988e2c093bef73a9d9d751d5da42]: Textual amendment: Words in s. 13(2)(a) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/6/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

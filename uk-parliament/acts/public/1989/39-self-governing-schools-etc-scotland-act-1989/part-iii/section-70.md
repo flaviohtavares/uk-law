@@ -23,7 +23,7 @@ summary: ''
 (1) The Secretary of State may by regulations require—
 
 - (a) education authorities;
-- (b)[^key-e6229683b0a870f6e0548ead94c65a2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e6229683b0a870f6e0548ead94c65a2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) managers of grant-aided schools; and
 - (d)[^c1019410] the boards of management of colleges of further education within the meaning of Part I of the Further and Higher Education (Scotland) Act 1992,
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6229683b0a870f6e0548ead94c65a2c]: Textual amendment: [S. 70(1)(b)](https://www.legislation.gov.uk/ukpga/1989/39/section/70/1/b) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-e6229683b0a870f6e0548ead94c65a2c]: Textual amendment: [S. 70(1)(b)](https://www.legislation.gov.uk/ukpga/1989/39/section/70/1/b) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
 
 [^c1019410]: Textual amendment: S. 70(1)(d) substituted (1. 4. 1993) by [Further and Higher Education (Scotland) Act 1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), [s. 62(2)](https://www.legislation.gov.uk/ukpga/1992/37/section/62/2), [Sch. 9 para.11](https://www.legislation.gov.uk/ukpga/1992/37/schedule/9/paragraph/11); [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Sch.4](https://www.legislation.gov.uk/uksi/1992/817/schedule/4).

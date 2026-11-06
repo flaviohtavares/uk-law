@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Definitions relating to parties etc[^key-bdfc691aaee29971908a48a760f4a7ff][^key-210256297a974420a7371da8a0bddc8b]
+## 40. Definitions relating to parties etc[^c-bdfc691aaee29971908a48a760f4a7ff][^c-210256297a974420a7371da8a0bddc8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdfc691aaee29971908a48a760f4a7ff]: Commencement: S. 40 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-bdfc691aaee29971908a48a760f4a7ff]: Commencement: S. 40 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-210256297a974420a7371da8a0bddc8b]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/37/section/40) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-210256297a974420a7371da8a0bddc8b]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/37/section/40) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

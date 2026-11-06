@@ -31,7 +31,7 @@ summary: ''
 
 Social Care, Wales
 
-The National Independent Safeguarding Board (Wales) Regulations 2015 (revoked)[^key-393d42a6c7fdf6493898a39c38be8d28]
+The National Independent Safeguarding Board (Wales) Regulations 2015 (revoked)[^c-393d42a6c7fdf6493898a39c38be8d28]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 1 October 2015
 
-[^key-393d42a6c7fdf6493898a39c38be8d28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-393d42a6c7fdf6493898a39c38be8d28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, Commencement and Application[^key-393d42a6c7fdf6493898a39c38be8d28]
+## 1. Title, Commencement and Application[^c-393d42a6c7fdf6493898a39c38be8d28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-393d42a6c7fdf6493898a39c38be8d28]
+## 2. Interpretation[^c-393d42a6c7fdf6493898a39c38be8d28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Constitution[^key-393d42a6c7fdf6493898a39c38be8d28]
+## 3. Constitution[^c-393d42a6c7fdf6493898a39c38be8d28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Proceedings at meetings[^key-393d42a6c7fdf6493898a39c38be8d28]
+## 4. Proceedings at meetings[^c-393d42a6c7fdf6493898a39c38be8d28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supplementary groups set up by the National Board[^key-393d42a6c7fdf6493898a39c38be8d28]
+## 5. Supplementary groups set up by the National Board[^c-393d42a6c7fdf6493898a39c38be8d28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Meetings between members of the National Board and chairs of Safeguarding Boards[^key-393d42a6c7fdf6493898a39c38be8d28]
+## 6. Meetings between members of the National Board and chairs of Safeguarding Boards[^c-393d42a6c7fdf6493898a39c38be8d28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consultation with people affected[^key-393d42a6c7fdf6493898a39c38be8d28]
+## 7. Consultation with people affected[^c-393d42a6c7fdf6493898a39c38be8d28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Annual Report[^key-393d42a6c7fdf6493898a39c38be8d28]
+## 8. Annual Report[^c-393d42a6c7fdf6493898a39c38be8d28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-393d42a6c7fdf6493898a39c38be8d28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-393d42a6c7fdf6493898a39c38be8d28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-393d42a6c7fdf6493898a39c38be8d28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-393d42a6c7fdf6493898a39c38be8d28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-393d42a6c7fdf6493898a39c38be8d28]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/1358) revoked (25.11.2015) by [The National Independent Safeguarding Board (Wales) (No. 2) Regulations 2015 (S.I. 2015/1803)](https://www.legislation.gov.uk/wsi/2015/1803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1803/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2015/1803/regulation/9)
+[^c-393d42a6c7fdf6493898a39c38be8d28]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/1358) revoked (25.11.2015) by [The National Independent Safeguarding Board (Wales) (No. 2) Regulations 2015 (S.I. 2015/1803)](https://www.legislation.gov.uk/wsi/2015/1803), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1803/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2015/1803/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Amendment to the Small Companies (Micro-Entities’ Accounts) Regulations 2013[^key-39da9114f14e5de531d0cad3ce5d2612]
+## 63. Amendment to the Small Companies (Micro-Entities’ Accounts) Regulations 2013[^c-39da9114f14e5de531d0cad3ce5d2612]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39da9114f14e5de531d0cad3ce5d2612]: Commencement: Reg. 63 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-39da9114f14e5de531d0cad3ce5d2612]: Commencement: Reg. 63 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00050]: Footnote: [S.I. 2013/3008](https://www.legislation.gov.uk/uksi/2013/3008).

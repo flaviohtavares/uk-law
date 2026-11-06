@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Advisers[^key-2af508d0ad6be3ea03fa6550c096d662][^key-10055670946d6469fa770d174d883ef6]
+## 100. Advisers[^c-2af508d0ad6be3ea03fa6550c096d662][^c-10055670946d6469fa770d174d883ef6]
 
 *Extent: E+W*
 
-(1) The Secretary of State may appoint persons to advise whether, in any case referred to them by the Secretary of State—[^key-799a2233ccfe0a668a2d9e7be579e618]
+(1) The Secretary of State may appoint persons to advise whether, in any case referred to them by the Secretary of State—[^c-799a2233ccfe0a668a2d9e7be579e618]
 
 - (a) the caution or conviction is of a kind mentioned in section 92(1), or
-- (b)[^key-65aa540aebd6b13f1e49a50599c25a4c] the Secretary of State should decide as mentioned in condition A in that section[^key-ef41dede3305dc399aee40d258569fc8].
+- (b)[^c-65aa540aebd6b13f1e49a50599c25a4c] the Secretary of State should decide as mentioned in condition A in that section[^c-ef41dede3305dc399aee40d258569fc8].
 
 (2) The Secretary of State may disclose to a person so appointed such information (including anything within section 94(1)(a) or (b)) as the Secretary of State considers relevant to the provision of such advice.
 
@@ -31,12 +31,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2af508d0ad6be3ea03fa6550c096d662]: Commencement: S. 100 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(k)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/k)
+[^c-2af508d0ad6be3ea03fa6550c096d662]: Commencement: S. 100 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(k)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/k)
 
-[^key-10055670946d6469fa770d174d883ef6]: Modification: Pt. 5 Ch. 4: power to amend conferred (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 166](https://www.legislation.gov.uk/ukpga/2017/3/section/166), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 167](https://www.legislation.gov.uk/ukpga/2017/3/section/167))
+[^c-10055670946d6469fa770d174d883ef6]: Modification: Pt. 5 Ch. 4: power to amend conferred (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 166](https://www.legislation.gov.uk/ukpga/2017/3/section/166), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 167](https://www.legislation.gov.uk/ukpga/2017/3/section/167))
 
-[^key-799a2233ccfe0a668a2d9e7be579e618]: Textual amendment: Words in [s. 100(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/100/1) substituted (13.6.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 194(9)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/9/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 194(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/11)); [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/641/regulation/3))
+[^c-799a2233ccfe0a668a2d9e7be579e618]: Textual amendment: Words in [s. 100(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/100/1) substituted (13.6.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 194(9)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/9/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 194(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/11)); [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/641/regulation/3))
 
-[^key-65aa540aebd6b13f1e49a50599c25a4c]: Textual amendment: Words in [s. 100(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/100/1) renumbered as s. 100(1)(b) (13.6.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 194(9)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/9/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 194(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/11)); [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/641/regulation/3))
+[^c-65aa540aebd6b13f1e49a50599c25a4c]: Textual amendment: Words in [s. 100(1)](https://www.legislation.gov.uk/ukpga/2012/9/section/100/1) renumbered as s. 100(1)(b) (13.6.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 194(9)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/9/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 194(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/11)); [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/641/regulation/3))
 
-[^key-ef41dede3305dc399aee40d258569fc8]: Textual amendment: Words in [s. 100(1)(b)](https://www.legislation.gov.uk/ukpga/2012/9/section/100/1/b) substituted (13.6.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 194(9)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/9/c), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 194(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/11)); [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/641/regulation/3))
+[^c-ef41dede3305dc399aee40d258569fc8]: Textual amendment: Words in [s. 100(1)(b)](https://www.legislation.gov.uk/ukpga/2012/9/section/100/1/b) substituted (13.6.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 194(9)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/9/c), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 194(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/194/11)); [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/641/regulation/3))

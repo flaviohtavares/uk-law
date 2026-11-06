@@ -35,9 +35,9 @@ summary: ''
 | controlled reservoir being restored to use | section 32(7)(b) (see also section 32(3)) |
 | controlled reservoirs register | section 9 |
 | emergency response information | section 57 |
-| [^key-bf2ceb6e37babe3207893c2c139945ad]. . . | [^key-bf2ceb6e37babe3207893c2c139945ad]. . . |
+| [^c-bf2ceb6e37babe3207893c2c139945ad]. . . | [^c-bf2ceb6e37babe3207893c2c139945ad]. . . |
 | final certificate | section 39 |
-| [^key-bf2ceb6e37babe3207893c2c139945ad]. . . | [^key-bf2ceb6e37babe3207893c2c139945ad]. . . |
+| [^c-bf2ceb6e37babe3207893c2c139945ad]. . . | [^c-bf2ceb6e37babe3207893c2c139945ad]. . . |
 | flood plan | section 55 |
 | further enforcement measure | section 82(4) |
 | high-risk reservoir | section 26(1) |
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf2ceb6e37babe3207893c2c139945ad]: Textual amendment: Words in Sch. repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(13)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/13); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-bf2ceb6e37babe3207893c2c139945ad]: Textual amendment: Words in Sch. repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(13)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/13); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

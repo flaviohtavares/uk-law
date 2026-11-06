@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 74(2) and (3)
 
-### PART 1 — Revocations[^key-d38260e0272cddae939c8127641dcad4]
+### PART 1 — Revocations[^c-d38260e0272cddae939c8127641dcad4]
 
 - The Mines and Quarries Acts 1954 to 1971 (Repeals and Modifications) Regulations 1975[^f00033]
 - The Mines and Quarries (Metrication) Regulations 1976[^f00034]
@@ -42,7 +42,7 @@ Regulation 74(2) and (3)
 - The Mines (Control of Ground Movement) Regulations 1999
 - The Coal Mines (Control of Inhalable Dust) Regulations 2007
 
-### PART 2 — Partial revocations[^key-c63cac29bfcba25fb95026c70356eb1d]
+### PART 2 — Partial revocations[^c-c63cac29bfcba25fb95026c70356eb1d]
 
 | Instrument | Extent of revocation |
 | --- | --- |
@@ -57,7 +57,7 @@ Regulation 74(2) and (3)
 
 ## Annotations
 
-[^key-d38260e0272cddae939c8127641dcad4]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/1) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-d38260e0272cddae939c8127641dcad4]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/1) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00033]: Footnote: [S.I. 1975/1102](https://www.legislation.gov.uk/uksi/1975/1102).
 
@@ -85,7 +85,7 @@ Regulation 74(2) and (3)
 
 [^f00045]: Footnote: [S.I. 1995/2005](https://www.legislation.gov.uk/uksi/1995/2005).
 
-[^key-c63cac29bfcba25fb95026c70356eb1d]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-c63cac29bfcba25fb95026c70356eb1d]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00046]: Footnote: [S.I. 1974/2013](https://www.legislation.gov.uk/uksi/1974/2013).
 

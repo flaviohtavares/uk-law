@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — BEST AVAILABLE TECHNIQUES[^key-3e4eded244085ee8c17d89062bc5bc5f]
+## SCHEDULE 3 — BEST AVAILABLE TECHNIQUES[^c-3e4eded244085ee8c17d89062bc5bc5f]
 
 *Extent: S*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulations 4 and 25
 
-**1.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3e4eded244085ee8c17d89062bc5bc5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e4eded244085ee8c17d89062bc5bc5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/360) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3e4eded244085ee8c17d89062bc5bc5f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/360) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -51,8 +51,8 @@ summary: ''
 
 (10) The reference in subsection (2) to a house of residence includes a reference to the buildings, gardens and other land held with the house.
 
-(11)[^key-1e8afa66684cbde1c55722b945dfa5d3] In the case of a lay residentiary canon who is provided with a house of residence under section 4 of the Ecclesiastical Offices (Terms of Service) Measure 2009, the reference in subsection (2)(a) to a residentiary canon includes a reference to that lay residentiary canon.
+(11)[^c-1e8afa66684cbde1c55722b945dfa5d3] In the case of a lay residentiary canon who is provided with a house of residence under section 4 of the Ecclesiastical Offices (Terms of Service) Measure 2009, the reference in subsection (2)(a) to a residentiary canon includes a reference to that lay residentiary canon.
 
 ## Annotations
 
-[^key-1e8afa66684cbde1c55722b945dfa5d3]: Textual amendment: [S. 22(11)](https://www.legislation.gov.uk/ukcm/2021/2/section/22/11) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/22)
+[^c-1e8afa66684cbde1c55722b945dfa5d3]: Textual amendment: [S. 22(11)](https://www.legislation.gov.uk/ukcm/2021/2/section/22/11) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/22)

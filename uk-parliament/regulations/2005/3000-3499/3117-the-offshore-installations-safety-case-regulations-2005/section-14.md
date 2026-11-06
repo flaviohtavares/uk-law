@@ -38,11 +38,11 @@ summary: ''
 
 - (a) no well operation shall constitute a material change;
 - (b) no revision prepared or made pursuant to regulation 27 shall constitute a material change;
-- (c) the movement of a production installation to a new location within internal waters[^key-432b7b6183c7f96bb24ccd1a5a7a532b] to be operated there shall constitute a material change; and
+- (c) the movement of a production installation to a new location within internal waters[^c-432b7b6183c7f96bb24ccd1a5a7a532b] to be operated there shall constitute a material change; and
 - (d) the conversion of a production installation to enable it to be operated as a non-production installation shall constitute a material change,
 
 to the current safety case for the purposes of paragraph (2).
 
 ## Annotations
 
-[^key-432b7b6183c7f96bb24ccd1a5a7a532b]: Textual amendment: Words in reg. 14(3)(c) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 39](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/39) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-432b7b6183c7f96bb24ccd1a5a7a532b]: Textual amendment: Words in reg. 14(3)(c) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 39](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/39) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

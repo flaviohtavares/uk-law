@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Powers of entry to survey land[^key-59c6231bd8d08fcb6cc3320742f28cb0][^key-0424f891acaf5afcadf4f1d064f5ec7c]
+## 125. Powers of entry to survey land[^c-59c6231bd8d08fcb6cc3320742f28cb0][^c-0424f891acaf5afcadf4f1d064f5ec7c]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ a person suffering the damage may recover compensation from the person exercisin
 
 ## Annotations
 
-[^key-59c6231bd8d08fcb6cc3320742f28cb0]: Commencement: S. 125 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-59c6231bd8d08fcb6cc3320742f28cb0]: Commencement: S. 125 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-0424f891acaf5afcadf4f1d064f5ec7c]: Commencement: [S. 125](https://www.legislation.gov.uk/asc/2024/3/section/125) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)
+[^c-0424f891acaf5afcadf4f1d064f5ec7c]: Commencement: [S. 125](https://www.legislation.gov.uk/asc/2024/3/section/125) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)

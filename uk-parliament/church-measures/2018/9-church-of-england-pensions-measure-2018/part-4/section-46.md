@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 46. Investment of money held in pension funds[^key-8dc6beeb0c94057dd5a9a59a74c5f391]
+## 46. Investment of money held in pension funds[^c-8dc6beeb0c94057dd5a9a59a74c5f391]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dc6beeb0c94057dd5a9a59a74c5f391]: Commencement: [S. 46](https://www.legislation.gov.uk/ukcm/2018/9/section/46) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-8dc6beeb0c94057dd5a9a59a74c5f391]: Commencement: [S. 46](https://www.legislation.gov.uk/ukcm/2018/9/section/46) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

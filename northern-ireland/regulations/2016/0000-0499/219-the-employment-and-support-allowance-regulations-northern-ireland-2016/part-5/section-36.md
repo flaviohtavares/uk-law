@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Matters to be taken into account in determining good cause in relation to regulation 34 or 35[^key-bd71ccf27c8625f58e5e57338238beec]
+## 36. Matters to be taken into account in determining good cause in relation to regulation 34 or 35[^c-bd71ccf27c8625f58e5e57338238beec]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The matters to be taken into account in determining whether a claimant has good 
 
 ## Annotations
 
-[^key-bd71ccf27c8625f58e5e57338238beec]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2016/219/regulation/36) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-bd71ccf27c8625f58e5e57338238beec]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2016/219/regulation/36) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

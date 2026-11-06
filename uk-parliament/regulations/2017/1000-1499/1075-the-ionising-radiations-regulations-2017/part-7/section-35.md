@@ -36,16 +36,16 @@ summary: ''
 
 (6) Where an employee has reasonable cause to believe that—
 
-- (a) they or some other person has received an overexposure; or[^key-c343b6803b06cafcd972a74f3e0d47a7]
-- (b) an occurrence mentioned in paragraph (1) or (3) of regulation 31 has occurred; [^key-654b4a2c65173bddd35fd4b2ba3a0183]...
-- (c)[^key-98f57df28721ea7996b32de944164e4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) they or some other person has received an overexposure; or[^c-c343b6803b06cafcd972a74f3e0d47a7]
+- (b) an occurrence mentioned in paragraph (1) or (3) of regulation 31 has occurred; [^c-654b4a2c65173bddd35fd4b2ba3a0183]...
+- (c)[^c-98f57df28721ea7996b32de944164e4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 they must immediately notify their employer of that belief.
 
 ## Annotations
 
-[^key-c343b6803b06cafcd972a74f3e0d47a7]: Textual amendment: Word in [reg. 35(6)(a)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/35/6/a) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(5)(a)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/5/a)
+[^c-c343b6803b06cafcd972a74f3e0d47a7]: Textual amendment: Word in [reg. 35(6)(a)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/35/6/a) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(5)(a)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/5/a)
 
-[^key-654b4a2c65173bddd35fd4b2ba3a0183]: Textual amendment: Word in [reg. 35(6)(b)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/35/6/b) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(5)(b)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/5/b)
+[^c-654b4a2c65173bddd35fd4b2ba3a0183]: Textual amendment: Word in [reg. 35(6)(b)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/35/6/b) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(5)(b)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/5/b)
 
-[^key-98f57df28721ea7996b32de944164e4d]: Textual amendment: [Reg. 35(6)(c)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/35/6/c) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(5)(c)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/5/c)
+[^c-98f57df28721ea7996b32de944164e4d]: Textual amendment: [Reg. 35(6)(c)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/35/6/c) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 3(5)(c)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/3/5/c)

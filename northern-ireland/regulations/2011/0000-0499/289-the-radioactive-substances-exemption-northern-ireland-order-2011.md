@@ -43,11 +43,11 @@ The Department of the Environment in exercise of the powers conferred by Section
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-7d5b95f2329cd14fbd6a9ee49b756b54]
+### 1. Citation and commencement[^c-7d5b95f2329cd14fbd6a9ee49b756b54]
 
 This Order may be cited as the Radioactive Substances Exemption (Northern Ireland) Order 2011 and comes into operation on 1st October 2011.
 
-### 2. Interpretation[^key-3cfad7e4d18fcccecc8d3e0edd6ad23f]
+### 2. Interpretation[^c-3cfad7e4d18fcccecc8d3e0edd6ad23f]
 
 (1) In this Order—
 
@@ -113,7 +113,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 (4) References in this Order to a section are to that section of the Act.
 
-### 3. Interpretation: NORM[^key-a99be9143377cf899c7e47421670b8f3]
+### 3. Interpretation: NORM[^c-a99be9143377cf899c7e47421670b8f3]
 
 (1) In this Order, “NORM waste” means a substance or article which is solid radioactive waste under—
 
@@ -133,7 +133,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 - (b) U-235; and
 - (c) Th-232.
 
-### 4. Tables of radionuclides and descriptions of radioactive material and radioactive waste[^key-1a5dd4bb1b8434da5ee6a929303ca508]
+### 4. Tables of radionuclides and descriptions of radioactive material and radioactive waste[^c-1a5dd4bb1b8434da5ee6a929303ca508]
 
 (1) Schedule 1 (tables of radionuclides and descriptions of radioactive material and radioactive waste) has effect.
 
@@ -141,7 +141,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 ## PART 2 — Exemption from registration under section 7 and authorisation under section 14
 
-### 5. Exemption from registration under section 7[^key-da6c78ebd421c21261ad245a40602806]
+### 5. Exemption from registration under section 7[^c-da6c78ebd421c21261ad245a40602806]
 
 (1) A person (“A”) is exempt from registration under section 7 (registration of users of radioactive material) in respect of—
 
@@ -150,7 +150,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 (2) A is not exempt from registration under paragraph (1)(a) in respect of a high-activity source where A takes possession of it.
 
-### 6. Exemption from authorisation under section 14[^key-b9a162eef0c8d25d672fa800ed58eb58]
+### 6. Exemption from authorisation under section 14[^c-b9a162eef0c8d25d672fa800ed58eb58]
 
 (1) A person (“A”) is exempt from authorisation under section 14 (accumulation of radioactive waste) in respect of—
 
@@ -169,7 +169,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 - (a) under paragraph (1)(a) or (b) in respect of a high-activity source where A accumulates it and it is waste when A takes possession of it; or
 - (b) under paragraph (1)(b) where A has received the waste for the purpose of A disposing of it.
 
-### 7. Radioactive substances exempted under articles 5 and 6[^key-e2a28e7acd15f5f755eeac64312e5a09]
+### 7. Radioactive substances exempted under articles 5 and 6[^c-e2a28e7acd15f5f755eeac64312e5a09]
 
 (1) Subject to paragraph (2), articles 5 and 6 apply to—
 
@@ -178,7 +178,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 (2) Paragraph (1) does not apply to NORM waste with a NORM waste concentration which is less than or equal to 10 Bq/g.
 
-### 8. Conditions in respect of the total quantity or concentration of radioactive substances on any premises[^key-46a58ff9081354e179ed1a7f0b6630c9]
+### 8. Conditions in respect of the total quantity or concentration of radioactive substances on any premises[^c-46a58ff9081354e179ed1a7f0b6630c9]
 
 (1) Paragraph (2) applies to a person (“A”) to whom article 5(1)(a) or 6(1)(a) applies in respect of an article described in article 7(1)(a).
 
@@ -191,7 +191,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 - (a) in respect of the total amount of such substances and articles on the premises, the quantity of radioactivity does not exceed the value specified in column 2 of Table 1; or
 - (b) no such substance or article on the premises contains a concentration of radioactivity that exceeds the value specified in column 3 of Table 1.
 
-### 9. Exemption from authorisation under section 14 for NORM waste[^key-93877fc1b1ce4e176a6f459a76ad49f1]
+### 9. Exemption from authorisation under section 14 for NORM waste[^c-93877fc1b1ce4e176a6f459a76ad49f1]
 
 (1) Subject to paragraph (2), a person (“A”) is exempt from authorisation under section 14 in respect of the accumulation on premises of NORM waste with a NORM waste concentration that does not exceed 10Bq/g where—
 
@@ -204,7 +204,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 ## PART 3 — Exemption from registration under section 10
 
-### 10. Exemption from registration under section 10[^key-aa5765912f94650be927767e8cf5aabd]
+### 10. Exemption from registration under section 10[^c-aa5765912f94650be927767e8cf5aabd]
 
 (1) A person (“A”) is exempt from registration under section 10 (registration of mobile radioactive apparatus) in respect of—
 
@@ -218,7 +218,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 ## PART 4 — Exemption from authorisation under section 13: solid radioactive waste
 
-### 11. Exemption from authorisation under section 13: solid radioactive waste[^key-50728dca2df99828654f258210960f9a]
+### 11. Exemption from authorisation under section 13: solid radioactive waste[^c-50728dca2df99828654f258210960f9a]
 
 (1) A person (“A”) is exempt from authorisation under section 13 (disposal of radioactive waste) in respect of the disposal on premises of solid radioactive waste described in article 12(1)(a) where—
 
@@ -228,7 +228,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 (2) A person (“B”) to whom paragraph (1) does not apply is exempt from authorisation under section 13 in respect of the disposal from premises of solid radioactive waste described in article 12 where B complies with the conditions in article 13 that apply in respect of that waste.
 
-### 12. Solid radioactive waste[^key-7c8858d118b8d06c4e694b4f698ee045]
+### 12. Solid radioactive waste[^c-7c8858d118b8d06c4e694b4f698ee045]
 
 (1) Solid radioactive waste referred to in article 11 means—
 
@@ -240,7 +240,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 - (a) where, prior to the disposal of that waste, a person has diluted it with the intention of ensuring that sub-paragraph (1)(a) is met; or
 - (b) which is NORM waste with a NORM waste concentration which is less than or equal to 10 Bq/g.
 
-### 13. Conditions in respect of solid radioactive waste[^key-97ac1c3124e6aea994805a6f4e8c88ec]
+### 13. Conditions in respect of solid radioactive waste[^c-97ac1c3124e6aea994805a6f4e8c88ec]
 
 (1) A person to whom article 11(2) applies in respect of a waste which is—
 
@@ -270,7 +270,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 ## PART 5 — Exemption from authorisation under section 13: aqueous radioactive waste
 
-### 14. Exemption from authorisation under section 13: aqueous radioactive waste in Table 3[^key-b569bf6656cdf1e3db47bbcca68bfe25]
+### 14. Exemption from authorisation under section 13: aqueous radioactive waste in Table 3[^c-b569bf6656cdf1e3db47bbcca68bfe25]
 
 (1) Subject to paragraph (2), a person (“A”) is exempt from authorisation under section 13 in respect of an aqueous radioactive waste described in an entry in column 1 of Table 3, where A complies with the conditions in paragraph (3).
 
@@ -283,7 +283,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 - (c) keep an adequate record of the waste which A disposes of from the premises under that paragraph; and
 - (d) allow the chief inspector access to such records or such premises as the chief inspector may request in order to determine that all of the conditions in this paragraph are complied with.
 
-### 15. Exemption from authorisation under section 13: other aqueous radioactive waste[^key-cbcf01774c7213406c896330985d116c]
+### 15. Exemption from authorisation under section 13: other aqueous radioactive waste[^c-cbcf01774c7213406c896330985d116c]
 
 (1) Subject to paragraph (2), a person (“A”) is exempt from authorisation under section 13 in respect of the waste described in paragraph (3) where A disposes of that waste in accordance with the conditions in article 16 that apply to A.
 
@@ -301,7 +301,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
   - (ii) the condition in article 16(3)(a) or 16(4)(b) is complied with in respect of that waste; or
 - (b) where the person who generated that waste did not take all practicable measures available to minimise the quantity of radionuclides generated as waste.
 
-### 16. Conditions in respect of aqueous radioactive waste in article 15[^key-596f528787eabfe106ba7e8e3637c859]
+### 16. Conditions in respect of aqueous radioactive waste in article 15[^c-596f528787eabfe106ba7e8e3637c859]
 
 (1) A person (“A”) to whom article 15(1) applies must—
 
@@ -337,7 +337,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 ## PART 6 — Exemption from authorisation under section 13: gaseous radioactive waste
 
-### 17. Exemption from authorisation under section 13: gaseous radioactive waste[^key-9f84c5396789f40b96e0a8f37d43ed40]
+### 17. Exemption from authorisation under section 13: gaseous radioactive waste[^c-9f84c5396789f40b96e0a8f37d43ed40]
 
 (1) Subject to paragraph (2), a person (“A”) is exempt from authorisation under section 13 in respect of—
 
@@ -352,7 +352,7 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 (3) Paragraph (1)(b) does not apply in respect of any gas which arises as a result of a process applied by a person to the contained radioactive material
 
-### 18. Conditions in respect of gaseous radioactive waste[^key-f93fa2603ac99c4b7eb84e4db4bc24b7]
+### 18. Conditions in respect of gaseous radioactive waste[^c-f93fa2603ac99c4b7eb84e4db4bc24b7]
 
 (1) A person to whom article 17(1)(a) applies must ensure that in respect of the total amount of waste described in that sub-paragraph which is disposed of from the premises in a year, the total quantity of radioactivity does not exceed 10<sup>11</sup> Bq.
 
@@ -365,23 +365,23 @@ This Order may be cited as the Radioactive Substances Exemption (Northern Irelan
 
 ## PART 7 — Exemption from authorisation under section 13: NORM waste
 
-### 19. Exemption from authorisation under section 13 for NORM waste[^key-90e57bc3f2d84174fd83973ca8dbd1c7]
+### 19. Exemption from authorisation under section 13 for NORM waste[^c-90e57bc3f2d84174fd83973ca8dbd1c7]
 
-(1) A person (“A”) is exempt from authorisation under section 13 in respect of the disposal on premises of NORM waste [^key-e09076248c089da49047777ac348cc45]... where A receives the waste—
+(1) A person (“A”) is exempt from authorisation under section 13 in respect of the disposal on premises of NORM waste [^c-e09076248c089da49047777ac348cc45]... where A receives the waste—
 
 - (a) from another person under a disposal permit held by that person or under an exemption from holding such a permit that applied in respect of the transfer from that person and;
 - (b) for the purpose of its disposal by A on those premises.
 
 (2) A person (“B”) to whom paragraph (1) does not apply is exempt from authorisation under section 13 in respect of the disposal on or from premises of—
 
-- (a) NORM waste [^key-34beeab9c72f16fa1274bd6a0d6b5647]... where—
-  - (i) the quantity of radionuclides in the total amount of such NORM waste disposed of per year by B on or from those premises does not exceed the value specified in column 3 of Table 4A[^key-6bf06b713be391b724179044d157036f] and B complies with the conditions in article 20(1); or
+- (a) NORM waste [^c-34beeab9c72f16fa1274bd6a0d6b5647]... where—
+  - (i) the quantity of radionuclides in the total amount of such NORM waste disposed of per year by B on or from those premises does not exceed the value specified in column 3 of Table 4A[^c-6bf06b713be391b724179044d157036f] and B complies with the conditions in article 20(1); or
   - (ii) subject to paragraph (3), the quantity exceeds that number and B complies with the conditions in article 20 which apply to B; or
 - (b)[^M_F_081a6704-3bd3-41cc-d4ee-383dcf651268] subject to paragraph (3), NORM waste with a NORM waste concentration that exceeds 5 Bq/g but does not exceed 10 Bq/g where B complies with the conditions in article 20.
 
-(3) The exemptions in paragraphs (1), (2)(a)(ii) and (2)(b) do not apply to a person in respect of premises in respect of which that person holds an authorisation under section 13 for the disposal on or from those premises of NORM waste.[^key-d8fd9d7b12d7e60a2684fb56573f5bde] [^key-a954df16fbbcb6230f4407897f6b4746]...
+(3) The exemptions in paragraphs (1), (2)(a)(ii) and (2)(b) do not apply to a person in respect of premises in respect of which that person holds an authorisation under section 13 for the disposal on or from those premises of NORM waste.[^c-d8fd9d7b12d7e60a2684fb56573f5bde] [^c-a954df16fbbcb6230f4407897f6b4746]...
 
-### 20. Conditions in respect of NORM waste[^key-afea1a5d15af5ebe2dddb8cfba2895dd]
+### 20. Conditions in respect of NORM waste[^c-afea1a5d15af5ebe2dddb8cfba2895dd]
 
 A person (“A”) to whom article 19(2)(a) or (b) applies must—
 
@@ -389,7 +389,7 @@ A person (“A”) to whom article 19(2)(a) or (b) applies must—
 - (b) where the disposal route in paragraph (c)(i) or (ii) is used, ensure that where practicable any marking or labelling of the waste or its container is removed before A disposes of that waste;
 - (c) dispose of the NORM waste in respect of which that article applies—
   - (i) subject to paragraph (3) where it applies, by burial or landfill (or transfer to a person for such burial);
-  - (ii)[^key-e4e1aa8dadbf190e356f3ab91a1ee22b] by incineration (or transfer to a person for such incineration or treatment which is preparatory to the incineration of the waste), but not in respect of—
+  - (ii)[^c-e4e1aa8dadbf190e356f3ab91a1ee22b] by incineration (or transfer to a person for such incineration or treatment which is preparatory to the incineration of the waste), but not in respect of—
     - (aa) type 1 NORM waste, where in respect of the total amount of that waste that is incinerated (or transferred to a person for preparation or incineration) per year the quantity of radionuclides in the total amount of that waste exceeds the value in column 4 of Table 4A; or
     - (bb) type 2 NORM waste; or
   - (iii) to a waste permitted person; and
@@ -406,13 +406,13 @@ A person (“A”) to whom article 19(2)(a) or (b) applies must—
 - (c) provide that assessment to the chief inspector at least 28 days before the first disposal is made; and
 - (d) not dispose of that waste or continue to do so if the chief inspector objects in writing to that assessment.
 
-### 19A. Exemption for disposing of gaseous NORM waste from oil and gas production[^key-4aaa5a75c57aceb5a788e1fe4eae4dd3]
+### 19A. Exemption for disposing of gaseous NORM waste from oil and gas production[^c-4aaa5a75c57aceb5a788e1fe4eae4dd3]
 
 A person is exempt from authorisation under section 13 in respect of the disposal on premises of NORM waste where the only radioactive waste disposed of is gaseous NORM waste released in the production of oil and gas.
 
 ## PART 8 — Transitional Provisions
 
-### 21. Previously exempt activity in relation to keeping or using radioactive material[^key-a06cea0e595e1bb9a78fda83a8d8bdfa]
+### 21. Previously exempt activity in relation to keeping or using radioactive material[^c-a06cea0e595e1bb9a78fda83a8d8bdfa]
 
 (1) This article applies to a person (“A”) carrying on an activity immediately before 1<sup>st</sup> October 2011 in relation to radioactive material (the “continuing activity”) where—
 
@@ -441,7 +441,7 @@ A person is exempt from authorisation under section 13 in respect of the disposa
 
 - then paragraph (3) applies to A in relation to the calculation of the duration of the exemption, but with references in that paragraph to an application for a variation of a registration under section 12 (cancellation and variation of registrations) substituted for references to an application for registration under section 7.
 
-### 22. Previously exempt activity in relation to mobile radioactive apparatus[^key-4037092678187327ffd424cb1cb658bf]
+### 22. Previously exempt activity in relation to mobile radioactive apparatus[^c-4037092678187327ffd424cb1cb658bf]
 
 (1) This article applies to a person (“A”) carrying on an activity immediately before 1<sup>st</sup> October 2011 in relation to mobile radioactive apparatus (the “continuing activity”) where—
 
@@ -470,7 +470,7 @@ A person is exempt from authorisation under section 13 in respect of the disposa
 
 - then paragraph (3) applies to A in relation to the calculation of the duration of the exemption, but with references in that paragraph to an application for a variation of a registration under section 12 substituted for references to an application for a registration under section 10.
 
-### 23. Previously excluded activity in relation to disposal of radioactive waste[^key-7ed899e43891f37a37350e5e3a397877]
+### 23. Previously excluded activity in relation to disposal of radioactive waste[^c-7ed899e43891f37a37350e5e3a397877]
 
 (1) This article applies to a person (“A”) carrying on an activity immediately before 1<sup>st</sup> October 2011 in relation to radioactive waste (the “continuing activity”) where—
 
@@ -499,7 +499,7 @@ A person is exempt from authorisation under section 13 in respect of the disposa
 
 - then paragraph (3) applies to A in relation to the calculation of the duration of the exclusion, but with references in that paragraph to an application for a variation of an authorisation under section 17 (revocation and variation of authorisations) substituted for references to an application for an authorisation under section 13.
 
-### 24. Previously excluded activity in relation to accumulation of radioactive waste[^key-519d7bcfefccb71063b5669d7abbfcbc]
+### 24. Previously excluded activity in relation to accumulation of radioactive waste[^c-519d7bcfefccb71063b5669d7abbfcbc]
 
 (1) This article applies to a person (“A”) carrying on an activity immediately before 1<sup>st</sup> October 2011 in relation to radioactive waste (the “continuing activity”) where—
 
@@ -530,11 +530,11 @@ A person is exempt from authorisation under section 13 in respect of the disposa
 
 ## PART 9 — Revocations and savings
 
-### 25. Revocations[^key-19038819869c778b3ffc6f7e8e706f71]
+### 25. Revocations[^c-19038819869c778b3ffc6f7e8e706f71]
 
 The instruments in Schedule 3 are revoked on 1<sup>st</sup> October 2011.
 
-### 26. Savings[^key-1af257bc8c752e391066b66368ea7026]
+### 26. Savings[^c-1af257bc8c752e391066b66368ea7026]
 
 Despite their revocation, the instruments in Schedule 3 continue in force for the purposes of, and to the extent provided by, Part 8 of this Order.
 
@@ -544,7 +544,7 @@ Wesley Shannon
 
 A senior officer of the Department of the Environment
 
-## SCHEDULE 1 — Tables of radionuclides and descriptions of radioactive material and radioactive waste[^key-4a0e02d6b8f80b7a4a36744fb6fd415f]
+## SCHEDULE 1 — Tables of radionuclides and descriptions of radioactive material and radioactive waste[^c-4a0e02d6b8f80b7a4a36744fb6fd415f]
 
 Article 4
 
@@ -862,7 +862,7 @@ Radionuclides: values of quantities and concentrations
 </tbody>
 </table>
 
-[^key-0b61068b0eeabcfeb0991d369b6b1efc][^f00007]
+[^c-0b61068b0eeabcfeb0991d369b6b1efc][^f00007]
 
 Table 2
 
@@ -882,7 +882,7 @@ Radioactive material and accumulated radioactive waste: values of maximum quanti
 | A Ba-137m eluting source. | 4 x 10<sup>4</sup> Bq Cs-137+ | 4 x 10<sup>5</sup> Bq Cs-137+ |
 | A substance or article which is or contains magnesium alloy or thoriated tungsten in which the thorium concentration does not exceed 4% by mass. | No limit | No limit |
 | A uranium or thorium compound. | Up to a total of 5 kg of uranium and thorium. | Up to a total of 5 kg of uranium and thorium. |
-| A substance or article (other than a sealed source) which is intended for use for medical or veterinary diagnosis or treatment or clinical or veterinary trials. | 1 x 10<sup>9</sup> Bq Tc-99m<br>and<br>2 x 10[^key-3a6650d101b0859ebfe5f27c708e77cc]<sup>8</sup> Bq of all other radionuclides (no more than 1 x 10<sup>8</sup> Bq of which is contained in radioactive material) | 1 x 10<sup>9</sup> Bq Tc-99m<br>and<br>2 x 10<sup>8</sup> Bq of all other radionuclides, (no more than 1 x 10<sup>8</sup> Bq of which is contained in radioactive material). |
+| A substance or article (other than a sealed source) which is intended for use for medical or veterinary diagnosis or treatment or clinical or veterinary trials. | 1 x 10<sup>9</sup> Bq Tc-99m<br>and<br>2 x 10[^c-3a6650d101b0859ebfe5f27c708e77cc]<sup>8</sup> Bq of all other radionuclides (no more than 1 x 10<sup>8</sup> Bq of which is contained in radioactive material) | 1 x 10<sup>9</sup> Bq Tc-99m<br>and<br>2 x 10<sup>8</sup> Bq of all other radionuclides, (no more than 1 x 10<sup>8</sup> Bq of which is contained in radioactive material). |
 
 Table 3
 
@@ -1199,7 +1199,7 @@ Aqueous radioactive waste values
 
 [^f00008]
 
-Table 4A[^key-d5469df43fe650db42d6dcd8a671f977]
+Table 4A[^c-d5469df43fe650db42d6dcd8a671f977]
 
 NORM waste concentrations and maximum disposal quantities
 
@@ -1242,7 +1242,7 @@ Radionuclides in secular equilibrium
 | Rn-222+ | Po-218, Pb-214, Bi-214, Po-214 |
 | Ra-223+ | Rn-219, Po-215, Pb-211, Bi-211, Tl-207 |
 | Ra-224+ | Where Ra-224+ is referred to in table 1: Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212<br>Where Ra-224+ is referred to in table 4: Pb-212 |
-| Ra-226+ | Where Ra-226+ is referred to in table 1 and Table 4A[^key-3b9e6e5d4cfe8a6f4a834d0ed3633126] : Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210[^key-3490d032dbd8710f263223755f203e5b]<br>Where Ra-226+ is referred to in table 4: Rn-222, Po-218, Pb-214, Bi-214, Po-214 |
+| Ra-226+ | Where Ra-226+ is referred to in table 1 and Table 4A[^c-3b9e6e5d4cfe8a6f4a834d0ed3633126] : Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210[^c-3490d032dbd8710f263223755f203e5b]<br>Where Ra-226+ is referred to in table 4: Rn-222, Po-218, Pb-214, Bi-214, Po-214 |
 | Ra-228+ | Ac-228 |
 | Th-226+ | Ra-222, Rn-218, Po-214 |
 | Th-228+ | Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Po-212, Tl-208 |
@@ -1253,7 +1253,7 @@ Radionuclides in secular equilibrium
 | U-232+ | Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208, Po-212 |
 | U-235+ | Th-231 |
 | U-238+ | Th-234, Pa-234m, Pa-234 |
-| U-238 sec | Th-234, Pa-234m, U-234, Th-230, Ra-226, Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210[^key-6a3c4c384b4560efb54635680b05bcd6] |
+| U-238 sec | Th-234, Pa-234m, U-234, Th-230, Ra-226, Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210[^c-6a3c4c384b4560efb54635680b05bcd6] |
 | U-240+ | Np-240 |
 | Np-237+ | Pa-233 |
 | Am-242m+ | Am-242 |
@@ -1263,11 +1263,11 @@ Radionuclides in secular equilibrium
 
 Article 4
 
-### 1. Introduction[^key-538e0ac56ea466a31ddd79df8ff1ae48]
+### 1. Introduction[^c-538e0ac56ea466a31ddd79df8ff1ae48]
 
 In this Schedule, “radioactive substances” means radioactive material, mobile radioactive apparatus and radioactive waste, and “exempt radioactive substances” means such radioactive substances in respect of which an exemption in Part 2 or 3 of this Order applies.
 
-### 2. Relevant standard conditions[^key-f66831747c6c47d6c43636ca2b17f8ee]
+### 2. Relevant standard conditions[^c-f66831747c6c47d6c43636ca2b17f8ee]
 
 (1) In respect of a person (“A”) to whom—
 
@@ -1279,7 +1279,7 @@ In this Schedule, “radioactive substances” means radioactive material, mobil
 
 (2) In respect of an article referred to in sub-paragraph (1), A is not required to comply with a condition in this Part unless that condition is a relevant standard condition for the purposes of that article.
 
-### 3. General conditions[^key-076a79c200b897f9313d6135f303dba4]
+### 3. General conditions[^c-076a79c200b897f9313d6135f303dba4]
 
 A must—
 
@@ -1296,7 +1296,7 @@ A must—
   - (i) not modify or mutilate that container; and
   - (ii) prevent any uncontrolled or unintended release of radioactive material or radioactive waste from the container.
 
-### 4. Loss or theft conditions[^key-4260f2d6a2b69b2979ee4a31d42d33fb]
+### 4. Loss or theft conditions[^c-4260f2d6a2b69b2979ee4a31d42d33fb]
 
 (1) A must, subject to sub-paragraph (2), in respect of an incident of loss or theft (or suspected loss or theft) of exempt radioactive substances (except mobile radioactive apparatus) from the premises where it is held—
 
@@ -1305,7 +1305,7 @@ A must—
 
 (2) In respect of an incident described in sub-paragraph (1), a notification to the chief inspector is only necessary where in respect of the aggregated total amount of exempt radioactive substances (excluding mobile radioactive apparatus) lost or stolen (or suspected to have been lost or stolen) from the premises in the incident and in all other such incidents in the 12 months preceding it, the quantity of radioactivity exceeds the value that is ten times the value in column 2 of Table 1.
 
-### 5. Loss or theft conditions: mobile radioactive apparatus[^key-34fb92369cf79a51d7fa3bfceba37bf2]
+### 5. Loss or theft conditions: mobile radioactive apparatus[^c-34fb92369cf79a51d7fa3bfceba37bf2]
 
 (1) A must, subject to sub-paragraph (2), in respect of an incident of loss or theft (or suspected loss or theft) of mobile radioactive apparatus from A—
 
@@ -1314,11 +1314,11 @@ A must—
 
 (2) In respect of an incident described in sub-paragraph (1), a notification to the chief inspector is only necessary where in respect of the aggregated total amount of mobile radioactive apparatus lost or stolen (or suspected to have been lost or stolen) from A in the incident and in all other such incidents in the 12 months preceding it, the quantity of radioactivity exceeds the value that is ten times the value in column 2 of Table 1.
 
-### 6. Condition to dispose of accumulated waste[^key-aff8faaab5423fbea35d099ae1500cd8]
+### 6. Condition to dispose of accumulated waste[^c-aff8faaab5423fbea35d099ae1500cd8]
 
 A must dispose of radioactive waste in respect of which the exemption in article 6(1)(a)(ii) or (b) or 9(1)(b) (as appropriate) applies as soon as practicable after it has become waste, and additionally in the case of such waste where it is a sealed source, a tritium foil source or an electrodeposited source, in any event within 26 weeks of that time unless the chief inspector advises in writing that a longer period of accumulation may take place.
 
-## SCHEDULE 3 — Revocations[^key-0577c850d1812218538003d934790efd]
+## SCHEDULE 3 — Revocations[^c-0577c850d1812218538003d934790efd]
 
 Article 25
 
@@ -1367,9 +1367,9 @@ A Business and Regularity Impact Assessment has been prepared and placed in the 
 
 [^f00001]: Footnote: [1993 c.12](https://www.legislation.gov.uk/ukpga/1993/12)
 
-[^key-7d5b95f2329cd14fbd6a9ee49b756b54]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-7d5b95f2329cd14fbd6a9ee49b756b54]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-3cfad7e4d18fcccecc8d3e0edd6ad23f]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2011/289/article/2) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-3cfad7e4d18fcccecc8d3e0edd6ad23f]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2011/289/article/2) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
 [^f00002]: Footnote: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675)
 
@@ -1379,103 +1379,103 @@ A Business and Regularity Impact Assessment has been prepared and placed in the 
 
 [^f00005]: Footnote: The Water and Sewerage Services (Northern Ireland) Order 2006.
 
-[^key-a99be9143377cf899c7e47421670b8f3]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2011/289/article/3) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-a99be9143377cf899c7e47421670b8f3]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2011/289/article/3) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
 [^f00006]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57).
 
-[^key-1a5dd4bb1b8434da5ee6a929303ca508]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2011/289/article/4) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-1a5dd4bb1b8434da5ee6a929303ca508]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2011/289/article/4) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-da6c78ebd421c21261ad245a40602806]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2011/289/article/5) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-da6c78ebd421c21261ad245a40602806]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2011/289/article/5) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-b9a162eef0c8d25d672fa800ed58eb58]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2011/289/article/6) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-b9a162eef0c8d25d672fa800ed58eb58]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2011/289/article/6) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-e2a28e7acd15f5f755eeac64312e5a09]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2011/289/article/7) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-e2a28e7acd15f5f755eeac64312e5a09]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2011/289/article/7) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-46a58ff9081354e179ed1a7f0b6630c9]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2011/289/article/8) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-46a58ff9081354e179ed1a7f0b6630c9]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2011/289/article/8) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-93877fc1b1ce4e176a6f459a76ad49f1]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2011/289/article/9) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-93877fc1b1ce4e176a6f459a76ad49f1]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2011/289/article/9) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-aa5765912f94650be927767e8cf5aabd]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2011/289/article/10) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-aa5765912f94650be927767e8cf5aabd]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2011/289/article/10) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-50728dca2df99828654f258210960f9a]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2011/289/article/11) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-50728dca2df99828654f258210960f9a]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2011/289/article/11) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-7c8858d118b8d06c4e694b4f698ee045]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2011/289/article/12) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-7c8858d118b8d06c4e694b4f698ee045]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2011/289/article/12) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-97ac1c3124e6aea994805a6f4e8c88ec]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2011/289/article/13) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-97ac1c3124e6aea994805a6f4e8c88ec]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2011/289/article/13) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-b569bf6656cdf1e3db47bbcca68bfe25]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2011/289/article/14) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-b569bf6656cdf1e3db47bbcca68bfe25]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2011/289/article/14) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-cbcf01774c7213406c896330985d116c]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2011/289/article/15) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-cbcf01774c7213406c896330985d116c]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2011/289/article/15) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-596f528787eabfe106ba7e8e3637c859]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2011/289/article/16) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-596f528787eabfe106ba7e8e3637c859]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2011/289/article/16) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-9f84c5396789f40b96e0a8f37d43ed40]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2011/289/article/17) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-9f84c5396789f40b96e0a8f37d43ed40]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2011/289/article/17) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-f93fa2603ac99c4b7eb84e4db4bc24b7]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2011/289/article/18) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-f93fa2603ac99c4b7eb84e4db4bc24b7]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2011/289/article/18) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-90e57bc3f2d84174fd83973ca8dbd1c7]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2011/289/article/19) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-90e57bc3f2d84174fd83973ca8dbd1c7]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2011/289/article/19) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-e09076248c089da49047777ac348cc45]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisr/2011/289/article/19/1) omitted (1.6.2018) by virtue of [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/a)
+[^c-e09076248c089da49047777ac348cc45]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisr/2011/289/article/19/1) omitted (1.6.2018) by virtue of [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/a)
 
-[^key-34beeab9c72f16fa1274bd6a0d6b5647]: Textual amendment: Words in [art. 19(2)(a)](https://www.legislation.gov.uk/nisr/2011/289/article/19/2/a) omitted (1.6.2018) by virtue of [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(b)(i)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/b/i)
+[^c-34beeab9c72f16fa1274bd6a0d6b5647]: Textual amendment: Words in [art. 19(2)(a)](https://www.legislation.gov.uk/nisr/2011/289/article/19/2/a) omitted (1.6.2018) by virtue of [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(b)(i)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/b/i)
 
-[^key-6bf06b713be391b724179044d157036f]: Textual amendment: Words in [art. 19(2)(a)(i)](https://www.legislation.gov.uk/nisr/2011/289/article/19/2/a/i) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(b)(ii)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/b/ii)
+[^c-6bf06b713be391b724179044d157036f]: Textual amendment: Words in [art. 19(2)(a)(i)](https://www.legislation.gov.uk/nisr/2011/289/article/19/2/a/i) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(b)(ii)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/b/ii)
 
 [^M_F_081a6704-3bd3-41cc-d4ee-383dcf651268]: Textual amendment: By [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [reg 3(9)(b)(iii)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/b/iii) it is provided that (1.6.2018) for sub-paragraph (b) substitute “the quantity of radionuclides exceeds the value specified in column 3 of Table 4A."
 
-[^key-d8fd9d7b12d7e60a2684fb56573f5bde]: Textual amendment: [Art. 19(3)](https://www.legislation.gov.uk/nisr/2011/289/article/19/3) full stop inserted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(c)(i)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/c/i)
+[^c-d8fd9d7b12d7e60a2684fb56573f5bde]: Textual amendment: [Art. 19(3)](https://www.legislation.gov.uk/nisr/2011/289/article/19/3) full stop inserted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(c)(i)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/c/i)
 
-[^key-a954df16fbbcb6230f4407897f6b4746]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/nisr/2011/289/article/19/3) omitted (1.6.2018) by virtue of [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/c/ii)
+[^c-a954df16fbbcb6230f4407897f6b4746]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/nisr/2011/289/article/19/3) omitted (1.6.2018) by virtue of [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(9)(c)(ii)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/9/c/ii)
 
-[^key-afea1a5d15af5ebe2dddb8cfba2895dd]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2011/289/article/20) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-afea1a5d15af5ebe2dddb8cfba2895dd]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2011/289/article/20) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-e4e1aa8dadbf190e356f3ab91a1ee22b]: Textual amendment: [Art. 20(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2011/289/article/20/1/c/ii) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/11/a)
+[^c-e4e1aa8dadbf190e356f3ab91a1ee22b]: Textual amendment: [Art. 20(1)(c)(ii)](https://www.legislation.gov.uk/nisr/2011/289/article/20/1/c/ii) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/11/a)
 
-[^key-4aaa5a75c57aceb5a788e1fe4eae4dd3]: Textual amendment: [Art. 19A](https://www.legislation.gov.uk/nisr/2011/289/article/19A) inserted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(10)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/10)
+[^c-4aaa5a75c57aceb5a788e1fe4eae4dd3]: Textual amendment: [Art. 19A](https://www.legislation.gov.uk/nisr/2011/289/article/19A) inserted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(10)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/10)
 
-[^key-a06cea0e595e1bb9a78fda83a8d8bdfa]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2011/289/article/21) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-a06cea0e595e1bb9a78fda83a8d8bdfa]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2011/289/article/21) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-4037092678187327ffd424cb1cb658bf]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2011/289/article/22) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-4037092678187327ffd424cb1cb658bf]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2011/289/article/22) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-7ed899e43891f37a37350e5e3a397877]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2011/289/article/23) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-7ed899e43891f37a37350e5e3a397877]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2011/289/article/23) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-519d7bcfefccb71063b5669d7abbfcbc]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2011/289/article/24) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-519d7bcfefccb71063b5669d7abbfcbc]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2011/289/article/24) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-19038819869c778b3ffc6f7e8e706f71]: Commencement: [Art. 25](https://www.legislation.gov.uk/nisr/2011/289/article/25) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-19038819869c778b3ffc6f7e8e706f71]: Commencement: [Art. 25](https://www.legislation.gov.uk/nisr/2011/289/article/25) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-1af257bc8c752e391066b66368ea7026]: Commencement: [Art. 26](https://www.legislation.gov.uk/nisr/2011/289/article/26) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-1af257bc8c752e391066b66368ea7026]: Commencement: [Art. 26](https://www.legislation.gov.uk/nisr/2011/289/article/26) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-4a0e02d6b8f80b7a4a36744fb6fd415f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-4a0e02d6b8f80b7a4a36744fb6fd415f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-0b61068b0eeabcfeb0991d369b6b1efc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/a)
+[^c-0b61068b0eeabcfeb0991d369b6b1efc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/a)
 
 [^f00007]: Footnote: NRPB- R306 - Exempt Concentrations and Quantities for Radionuclides not Included in the European Basic Safety Standards Directive (April 1999), ISBN 0-85951-429-3
 
-[^key-3a6650d101b0859ebfe5f27c708e77cc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(b)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/b)
+[^c-3a6650d101b0859ebfe5f27c708e77cc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(b)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/b)
 
 [^f00008]: Footnote: The concentrations in this table were calculated using methods adopted by the Health Protection Agency in their document HPA-CRCE-005 - Derivation of Liquid Exclusion or Exemption Levels to Support the RSA93 Exemption Order Review, published in August 2010 (ISBN 0-978-85951-673-0).
 
-[^key-d5469df43fe650db42d6dcd8a671f977]: Textual amendment: [Table](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) inserted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(c)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/c)
+[^c-d5469df43fe650db42d6dcd8a671f977]: Textual amendment: [Table](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) inserted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(c)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/c)
 
-[^key-3b9e6e5d4cfe8a6f4a834d0ed3633126]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) inserted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(aa)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/aa)[(d)(i)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/d/i)
+[^c-3b9e6e5d4cfe8a6f4a834d0ed3633126]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) inserted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(aa)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/aa)[(d)(i)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/d/i)
 
-[^key-3490d032dbd8710f263223755f203e5b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(bb)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/bb)[(d)(i)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/d/i)
+[^c-3490d032dbd8710f263223755f203e5b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(bb)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/bb)[(d)(i)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/d/i)
 
-[^key-6a3c4c384b4560efb54635680b05bcd6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(d)(ii)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/d/ii)
+[^c-6a3c4c384b4560efb54635680b05bcd6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/1) substituted (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [3(12)(d)(ii)](https://www.legislation.gov.uk/nisr/2018/116/regulation/3/12/d/ii)
 
-[^key-538e0ac56ea466a31ddd79df8ff1ae48]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/1) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-538e0ac56ea466a31ddd79df8ff1ae48]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/1) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-f66831747c6c47d6c43636ca2b17f8ee]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/2) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-f66831747c6c47d6c43636ca2b17f8ee]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/2) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-076a79c200b897f9313d6135f303dba4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/3) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-076a79c200b897f9313d6135f303dba4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/3) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-4260f2d6a2b69b2979ee4a31d42d33fb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/4) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-4260f2d6a2b69b2979ee4a31d42d33fb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/4) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-34fb92369cf79a51d7fa3bfceba37bf2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/5) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-34fb92369cf79a51d7fa3bfceba37bf2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/5) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-aff8faaab5423fbea35d099ae1500cd8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/6) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-aff8faaab5423fbea35d099ae1500cd8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2011/289/schedule/2/paragraph/6) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
-[^key-0577c850d1812218538003d934790efd]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2011/289/schedule/3) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
+[^c-0577c850d1812218538003d934790efd]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2011/289/schedule/3) in operation at 1.10.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/289/article/1)
 
 [^f00009]: Footnote: 8 & 9 Eliz. 2 c.34
 

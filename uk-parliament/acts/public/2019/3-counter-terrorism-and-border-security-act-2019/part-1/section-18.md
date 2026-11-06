@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Detention of terrorist suspects: hospital treatment[^key-2009d9632c3d49d4a40920dd45ed4479]
+## 18. Detention of terrorist suspects: hospital treatment[^c-2009d9632c3d49d4a40920dd45ed4479]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2009d9632c3d49d4a40920dd45ed4479]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2019/3/section/18) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/c)
+[^c-2009d9632c3d49d4a40920dd45ed4479]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2019/3/section/18) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/c)

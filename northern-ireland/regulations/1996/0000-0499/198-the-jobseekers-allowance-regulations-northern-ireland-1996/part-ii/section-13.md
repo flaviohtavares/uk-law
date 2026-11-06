@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Additional restrictions on availability for certain groups[^key-d15b2e0ae5ed0312e10d605c1d4370bb]
+## 13. Additional restrictions on availability for certain groups[^c-d15b2e0ae5ed0312e10d605c1d4370bb]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d15b2e0ae5ed0312e10d605c1d4370bb]: Commencement: Reg. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-d15b2e0ae5ed0312e10d605c1d4370bb]: Commencement: Reg. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Section 173: supplementary[^key-07b1ec852c747f81b57a081b416d7c9c]
+## 174. Section 173: supplementary[^c-07b1ec852c747f81b57a081b416d7c9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07b1ec852c747f81b57a081b416d7c9c]: Commencement: S. 174 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-07b1ec852c747f81b57a081b416d7c9c]: Commencement: S. 174 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

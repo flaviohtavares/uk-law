@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-4bb9f356a4c4f0e07d761c3abad797b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4bb9f356a4c4f0e07d761c3abad797b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 33 of that Act (miscellaneous duties of prison governor) shall cease to have effect.
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bb9f356a4c4f0e07d761c3abad797b0]: Textual amendment: [S. 116(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/116/1) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 3(4)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/3/4)
+[^c-4bb9f356a4c4f0e07d761c3abad797b0]: Textual amendment: [S. 116(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/116/1) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 3(4)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/3/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Power of local authority to vary conditions of site licence[^key-6e69959ce52bd0aa9367ca5dec1bb1f0]
+## 13. Power of local authority to vary conditions of site licence[^c-6e69959ce52bd0aa9367ca5dec1bb1f0]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e69959ce52bd0aa9367ca5dec1bb1f0]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2013/6/section/13) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-6e69959ce52bd0aa9367ca5dec1bb1f0]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2013/6/section/13) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

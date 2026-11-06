@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. False representations for obtaining benefit etc[^key-2e8364badd21a00976a9ca1f33f43a16][^key-850a51cd007bec5be4e3e5ad8ef89a3c][^M_C_fd4831ad-558d-4aff-eefd-a3e3002e87d2]
+## 112. False representations for obtaining benefit etc[^c-2e8364badd21a00976a9ca1f33f43a16][^c-850a51cd007bec5be4e3e5ad8ef89a3c][^M_C_fd4831ad-558d-4aff-eefd-a3e3002e87d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 he shall be guilty of an offence.
 
-(1ZA)[^key-857e8920ce5e401eec3c0f2009ba2359] A person is guilty of an offence if, for the purpose of obtaining a non-benefit payment for themselves or another person, they—
+(1ZA)[^c-857e8920ce5e401eec3c0f2009ba2359] A person is guilty of an offence if, for the purpose of obtaining a non-benefit payment for themselves or another person, they—
 
 - (a) make a statement or representation which they know to be false, or
 - (b) produce or furnish, or knowingly cause or knowingly allow to be produced or furnished, any document or information which they know to be false in a material particular.
@@ -62,7 +62,7 @@ he shall be guilty of an offence.
 
 (1F) For the purposes of subsections (1A) to (1D) above a notification of a change is prompt if, and only if, it is given as soon as reasonably practicable after the change occurs.
 
-(1G)[^key-b337623a397e21af0f55e4312de2c451] For the purposes of subsections (1A) to (1F), references to—
+(1G)[^c-b337623a397e21af0f55e4312de2c451] For the purposes of subsections (1A) to (1F), references to—
 
 - (a) a person being entitled to, or having a right to receive, a payment under a provision of the relevant social security legislation include references to a person being entitled to, or having a right to receive, or qualifying for, a non-benefit payment, and
 - (b) a person’s entitlement to a payment under a provision of the relevant social security legislation include references to a person’s entitlement to, or qualification for, a non-benefit payment.
@@ -73,9 +73,9 @@ he shall be guilty of an offence.
 
 ## Annotations
 
-[^key-2e8364badd21a00976a9ca1f33f43a16]: Modification: S. 112 applied (with modifications) (12.8.2019) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2019/193/regulation/17) (as amended by [S.S.I. 2019/232](https://www.legislation.gov.uk/ssi/2019/232), [regs. 1](https://www.legislation.gov.uk/ssi/2019/232/regulation/1), [4](https://www.legislation.gov.uk/ssi/2019/232/regulation/4))
+[^c-2e8364badd21a00976a9ca1f33f43a16]: Modification: S. 112 applied (with modifications) (12.8.2019) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2019/193/regulation/17) (as amended by [S.S.I. 2019/232](https://www.legislation.gov.uk/ssi/2019/232), [regs. 1](https://www.legislation.gov.uk/ssi/2019/232/regulation/1), [4](https://www.legislation.gov.uk/ssi/2019/232/regulation/4))
 
-[^key-850a51cd007bec5be4e3e5ad8ef89a3c]: Modification: S. 112 applied (with modifications) (21.3.2021) by [The Milk and Healthy Snack Scheme (Scotland) Regulations 2021 (S.S.I. 2021/82)](https://www.legislation.gov.uk/ssi/2021/82), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2), [21](https://www.legislation.gov.uk/ssi/2021/82/regulation/21)
+[^c-850a51cd007bec5be4e3e5ad8ef89a3c]: Modification: S. 112 applied (with modifications) (21.3.2021) by [The Milk and Healthy Snack Scheme (Scotland) Regulations 2021 (S.S.I. 2021/82)](https://www.legislation.gov.uk/ssi/2021/82), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2), [21](https://www.legislation.gov.uk/ssi/2021/82/regulation/21)
 
 [^M_C_fd4831ad-558d-4aff-eefd-a3e3002e87d2]: Modification: S. 112 applied (with modifications) by [The Welfare Food Regulations 1996 (S.I. 1996/1434)](https://www.legislation.gov.uk/uksi/1996/1434), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1434/regulation/1), [22(1)](https://www.legislation.gov.uk/uksi/1996/1434/regulation/22/1), [Sch. 6](https://www.legislation.gov.uk/uksi/1996/1434/schedule/6) (as amended (28.11.2005) by [S.I. 2005/3262](https://www.legislation.gov.uk/uksi/2005/3262), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3262/regulation/1), [16(d)(i)](https://www.legislation.gov.uk/uksi/2005/3262/regulation/16/d/i)[(e)(ii)](https://www.legislation.gov.uk/uksi/2005/3262/regulation/16/e/ii))
 
@@ -83,11 +83,11 @@ he shall be guilty of an offence.
 
 [^c24146321]: Textual amendment: Words in s. 112(1) substituted (1.7.1997) by [Social Security Administration (Fraud) Act 1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1997/47/section/25/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/4/2); [S.I. 1997/1577](https://www.legislation.gov.uk/uksi/1997/1577), [art. 2](https://www.legislation.gov.uk/uksi/1997/1577/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1577/schedule)
 
-[^key-857e8920ce5e401eec3c0f2009ba2359]: Textual amendment: [S. 112(1ZA)](https://www.legislation.gov.uk/ukpga/1992/5/section/112/1ZA) inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 101(3)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/101/3/a), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)
+[^c-857e8920ce5e401eec3c0f2009ba2359]: Textual amendment: [S. 112(1ZA)](https://www.legislation.gov.uk/ukpga/1992/5/section/112/1ZA) inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 101(3)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/101/3/a), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)
 
 [^c24146341]: Textual amendment: S. 112(1A)-(1F) substituted for s. 112(1A) (26.9.2001 for specified purposes, 18.10.2001 in so far as not already in force) by [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2001/11/section/16/3), [20(1)](https://www.legislation.gov.uk/ukpga/2001/11/section/20/1); [S.I. 2001/3251](https://www.legislation.gov.uk/uksi/2001/3251), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3251/article/2/1)
 
-[^key-b337623a397e21af0f55e4312de2c451]: Textual amendment: [S. 112(1G)](https://www.legislation.gov.uk/ukpga/1992/5/section/112/1G) inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 101(3)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/101/3/b), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)
+[^c-b337623a397e21af0f55e4312de2c451]: Textual amendment: [S. 112(1G)](https://www.legislation.gov.uk/ukpga/1992/5/section/112/1G) inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 101(3)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/101/3/b), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/e)
 
 [^c24146361]: Textual amendment: Words in s. 112(2) substituted (1.7.1997) by [Social Security Administration (Fraud) Act 1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1997/47/section/25/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/ukpga/1997/47/schedule/1/paragraph/4/3); [S.I. 1997/1577](https://www.legislation.gov.uk/uksi/1997/1577), [art. 2](https://www.legislation.gov.uk/uksi/1997/1577/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1577/schedule)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Power to extend superfunds legislation to similar structures[^key-838db9b71ae6d4d60a47efbd6a58c8b0]
+## 96. Power to extend superfunds legislation to similar structures[^c-838db9b71ae6d4d60a47efbd6a58c8b0]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-838db9b71ae6d4d60a47efbd6a58c8b0]: Commencement: S. 96 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-838db9b71ae6d4d60a47efbd6a58c8b0]: Commencement: S. 96 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

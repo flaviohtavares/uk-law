@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44D. Ongoing obligations on RI: provision of information[^key-f6d1b004e476e052a8f3f0e7a38e17cc]
+## 44D. Ongoing obligations on RI: provision of information[^c-f6d1b004e476e052a8f3f0e7a38e17cc]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ whether or not copies of that documentation have been supplied to the Authority.
 
 ## Annotations
 
-[^key-f6d1b004e476e052a8f3f0e7a38e17cc]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2014/928/part/7A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/610/regulation/17)
+[^c-f6d1b004e476e052a8f3f0e7a38e17cc]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2014/928/part/7A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/610/regulation/17)

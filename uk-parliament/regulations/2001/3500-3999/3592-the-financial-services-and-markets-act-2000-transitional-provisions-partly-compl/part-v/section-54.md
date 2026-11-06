@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Public statements under section 60 of the Financial Services Act[^key-dff7e8584bb3f824d22d7b384eacdc20]
+## 54. Public statements under section 60 of the Financial Services Act[^c-dff7e8584bb3f824d22d7b384eacdc20]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the Authority must proceed in the manner described in paragraph (3).
 
 ## Annotations
 
-[^key-dff7e8584bb3f824d22d7b384eacdc20]: Commencement: Art. 54 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-dff7e8584bb3f824d22d7b384eacdc20]: Commencement: Art. 54 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

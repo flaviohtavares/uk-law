@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Power to acquire new rights, etc.[^key-6e3b0890a3a4c0bddb662786cc6ed4c6]
+## 26. Power to acquire new rights, etc.[^c-6e3b0890a3a4c0bddb662786cc6ed4c6]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6e3b0890a3a4c0bddb662786cc6ed4c6]: Commencement: Art. 26 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-6e3b0890a3a4c0bddb662786cc6ed4c6]: Commencement: Art. 26 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
 [^f00036]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 

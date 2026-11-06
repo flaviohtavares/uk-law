@@ -25,7 +25,7 @@ summary: ''
 - (a) in subsection (1)—
   - (i) for “Licence holders” there were substituted “ An infrastructure manager, allocation body, charging body, applicant, service provider or any other party ”;
   - (ii) for “he, they or it” in both places there were substituted “ it ”; and
-  - (iii) for “functions of the Secretary of State, the Scottish Ministers or (as the case may be) that Office under this Part, the Transport Act 2000 or the Railways Act 2005 or any other function or activity of his, theirs or its in relation to railway services.” there were substituted “ of its functions under the Railways (Access, Management and Licensing Railway Undertakings) Regulations 2016[^key-065598524f081c46fefd90b7a6bb0bec]. ”;
+  - (iii) for “functions of the Secretary of State, the Scottish Ministers or (as the case may be) that Office under this Part, the Transport Act 2000 or the Railways Act 2005 or any other function or activity of his, theirs or its in relation to railway services.” there were substituted “ of its functions under the Railways (Access, Management and Licensing Railway Undertakings) Regulations 2016[^c-065598524f081c46fefd90b7a6bb0bec]. ”;
 - (b) after subsection (1A) there were added—
 
   > (1B) In subsection (1) “**allocation body**”, “**charging body**”, “**applicant**”, “**infrastructure manager**” and “**service provider**” have the same meanings as in the Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 [^c23154401].
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-065598524f081c46fefd90b7a6bb0bec]: Textual amendment: Words in [reg. 36(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/645/regulation/36/1/a/iii) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [19](https://www.legislation.gov.uk/uksi/2019/518/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-065598524f081c46fefd90b7a6bb0bec]: Textual amendment: Words in [reg. 36(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/645/regulation/36/1/a/iii) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [19](https://www.legislation.gov.uk/uksi/2019/518/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23154401]: Marginal citation: [S. I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645).

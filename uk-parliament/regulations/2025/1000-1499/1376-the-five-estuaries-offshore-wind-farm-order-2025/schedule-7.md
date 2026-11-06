@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Land in which only new rights etc. may be acquired[^key-9e481317f352c91465c762ffaff5d5d1]
+## SCHEDULE 7 — Land in which only new rights etc. may be acquired[^c-9e481317f352c91465c762ffaff5d5d1]
 
 *Extent: E+W*
 
 Article 23
 
-[^key-9e481317f352c91465c762ffaff5d5d1]
+[^c-9e481317f352c91465c762ffaff5d5d1]
 
 In the District of Tendring—
 
@@ -39,4 +39,4 @@ In the District of Tendring—
 
 ## Annotations
 
-[^key-9e481317f352c91465c762ffaff5d5d1]: Commencement: Sch. 7 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-9e481317f352c91465c762ffaff5d5d1]: Commencement: Sch. 7 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

@@ -39,27 +39,27 @@ Section 36.
 
 ### Part II — MANDATORY LEASEBACK
 
-#### Flats etc. let under secure tenancies or secure contracts[^key-517412738417db37da31002a1d0cfb72]
+#### Flats etc. let under secure tenancies or secure contracts[^c-517412738417db37da31002a1d0cfb72]
 
-**2.** (1) This paragraph applies where immediately before the appropriate time any flat falling within sub-paragraph (1A)[^c17028181] is let under a secure tenancy or an introductory tenancy[^c17028191] or a secure contract (or an introductory standard contract)[^key-15e388acb2278912c68c36befc109768] and either—
+**2.** (1) This paragraph applies where immediately before the appropriate time any flat falling within sub-paragraph (1A)[^c17028181] is let under a secure tenancy or an introductory tenancy[^c17028191] or a secure contract (or an introductory standard contract)[^c-15e388acb2278912c68c36befc109768] and either—
 
 - (a) the freeholder is the tenant’s immediate landlord, or
-- (b) the freeholder is a public sector landlord and every intermediate landlord of the flat (as well as the immediate landlord under the secure tenancy or the introductory tenancy or the secure contract (or the introductory standard contract)[^key-e4e5a133512a64edee0c5bbe6c5ddf2c]) is also a public sector landlord.
+- (b) the freeholder is a public sector landlord and every intermediate landlord of the flat (as well as the immediate landlord under the secure tenancy or the introductory tenancy or the secure contract (or the introductory standard contract)[^c-e4e5a133512a64edee0c5bbe6c5ddf2c]) is also a public sector landlord.
 
 (1A)[^c17028211] A flat falls within this sub-paragraph if—
 
 - (a) the freehold of the whole of it is owned by the same person, and
 - (b) it is contained in the specified premises.
 
-(2) Sub-paragraph (1)(b) has effect whether any such intermediate landlord, or the immediate landlord under the secure tenancy or the introductory tenancy[^c17028221] or the secure contract (or the introductory standard contract)[^key-28b01ab00b89f03d433867ec928ea316], is or is not a qualifying tenant of the flat.
+(2) Sub-paragraph (1)(b) has effect whether any such intermediate landlord, or the immediate landlord under the secure tenancy or the introductory tenancy[^c17028221] or the secure contract (or the introductory standard contract)[^c-28b01ab00b89f03d433867ec928ea316], is or is not a qualifying tenant of the flat.
 
 (3) Where this paragraph applies, the nominee purchaser shall grant to the freeholder a lease of the flat in accordance with section 36 and paragraph 4 below.
 
 (4) In this paragraph any reference to a flat includes a reference to a unit (other than a flat) which is used as a dwelling.
 
-#### Flats etc. let by housing associations under tenancies other than secure tenancies or secure contracts[^key-c20e25adb938d575ac5d214f4cc54f27]
+#### Flats etc. let by housing associations under tenancies other than secure tenancies or secure contracts[^c-c20e25adb938d575ac5d214f4cc54f27]
 
-**3.** (1) This paragraph applies where immediately before the appropriate time any flat falling within sub-paragraph (1A)[^c17028231] is let by a housing association under a tenancy other than a secure tenancy or secure contract[^key-2632a7d95fe196f9628ca607719e6bbe] and—
+**3.** (1) This paragraph applies where immediately before the appropriate time any flat falling within sub-paragraph (1A)[^c17028231] is let by a housing association under a tenancy other than a secure tenancy or secure contract[^c-2632a7d95fe196f9628ca607719e6bbe] and—
 
 - (a) the housing association is the freeholder, and
 - (b) the tenant is not a qualifying tenant of the flat.
@@ -75,15 +75,15 @@ Section 36.
 
 #### Provisions as to terms of lease
 
-**4.** (1) Any lease granted to the freeholder in pursuance of paragraph 2 or 3, and any agreement collateral to it, shall conform with the provisions of Part IV of this Schedule except to the extent that any departure from those provisions is agreed to by the nominee purchaser and the freeholder with the approval of the appropriate tribunal[^key-ff12b0bfaaf16b4f78764b9478c73841].
+**4.** (1) Any lease granted to the freeholder in pursuance of paragraph 2 or 3, and any agreement collateral to it, shall conform with the provisions of Part IV of this Schedule except to the extent that any departure from those provisions is agreed to by the nominee purchaser and the freeholder with the approval of the appropriate tribunal[^c-ff12b0bfaaf16b4f78764b9478c73841].
 
-(2) The appropriate tribunal[^key-f5bbf11e38965525ac4ddad3f21f395e] shall not approve any such departure from those provisions unless it appears to the tribunal that it is reasonable in the circumstances.
+(2) The appropriate tribunal[^c-f5bbf11e38965525ac4ddad3f21f395e] shall not approve any such departure from those provisions unless it appears to the tribunal that it is reasonable in the circumstances.
 
-(3) In determining whether any such departure is reasonable in the circumstances, the tribunal shall have particular regard to the interests of the tenant under the secure tenancy or introductory tenancy[^c17028251] or the secure contract (or introductory standard contract)[^key-c004d4ac6e10cf71d37dec6d45c4af61] referred to in paragraph 2(1) or (as the case may be) under the housing association tenancy referred to in paragraph 3(1).
+(3) In determining whether any such departure is reasonable in the circumstances, the tribunal shall have particular regard to the interests of the tenant under the secure tenancy or introductory tenancy[^c17028251] or the secure contract (or introductory standard contract)[^c-c004d4ac6e10cf71d37dec6d45c4af61] referred to in paragraph 2(1) or (as the case may be) under the housing association tenancy referred to in paragraph 3(1).
 
 (4) Subject to the preceding provisions of this paragraph, any such lease or agreement as is mentioned in sub-paragraph (1) may include such terms as are reasonable in the circumstances.
 
-**4A.**[^key-20087f7ca752bab6f215dca84d456756] In this Part of this Schedule, the following terms have the same meaning as in the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1)—
+**4A.**[^c-20087f7ca752bab6f215dca84d456756] In this Part of this Schedule, the following terms have the same meaning as in the Renting Homes (Wales) Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1)—
 
 - (a) “**introductory standard contract**” (see section 16 of that Act);
 - (b) “**secure contract**” (see section 8 of that Act).
@@ -119,9 +119,9 @@ Section 36.
 **7.** (1) Any lease granted to the freeholder in pursuance of paragraph 5 or 6, and any agreement collateral to it, shall conform with the provisions of Part IV of this Schedule except to the extent that any departure from those provisions—
 
 - (a) is agreed to by the nominee purchaser and the freeholder; or
-- (b) is directed by the appropriate tribunal[^key-f18fdc08e71f3d429d1d4290be030df5] on an application made by either of those persons.
+- (b) is directed by the appropriate tribunal[^c-f18fdc08e71f3d429d1d4290be030df5] on an application made by either of those persons.
 
-(2) The appropriate tribunal[^key-b48bdce82f81da950d79d4361be7382d] shall not direct any such departure from those provisions unless it appears to the tribunal that it is reasonable in the circumstances.
+(2) The appropriate tribunal[^c-b48bdce82f81da950d79d4361be7382d] shall not direct any such departure from those provisions unless it appears to the tribunal that it is reasonable in the circumstances.
 
 (3) In determining whether any such departure is reasonable in the circumstances, the tribunal shall have particular regard to the interests of any person who will be the tenant of the flat or other unit in question under a lease inferior to the lease to be granted to the freeholder.
 
@@ -225,39 +225,39 @@ without the prior written consent of the lessor (such consent not to be unreason
 
 [^c17028151]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
-[^key-517412738417db37da31002a1d0cfb72]: Textual amendment: Words in [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/part/II/crossheading/flats-etc-let-under-secure-tenancies) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/a)
+[^c-517412738417db37da31002a1d0cfb72]: Textual amendment: Words in [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/part/II/crossheading/flats-etc-let-under-secure-tenancies) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(a)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/a)
 
 [^c17028181]: Textual amendment: Words in [Sch. 9 para. 2(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/1) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para. 20(3)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/20/3); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with saving in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
 [^c17028191]: Textual amendment: Words in [Sch. 9 para. 2(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/1) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 9(d)(i)](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/9/d/i)
 
-[^key-15e388acb2278912c68c36befc109768]: Textual amendment: Words in [Sch. 9 para. 2(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/b)
+[^c-15e388acb2278912c68c36befc109768]: Textual amendment: Words in [Sch. 9 para. 2(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/b)
 
-[^key-e4e5a133512a64edee0c5bbe6c5ddf2c]: Textual amendment: Words in [Sch. 9 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/1/b) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/c)
+[^c-e4e5a133512a64edee0c5bbe6c5ddf2c]: Textual amendment: Words in [Sch. 9 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/1/b) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/c)
 
 [^c17028211]: Textual amendment: [Sch. 9 para. 2(1A)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/1A) inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para. 20(3)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/20/3); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
 [^c17028221]: Textual amendment: Words in [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/2) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 9(d)(ii)](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/9/d/ii)
 
-[^key-28b01ab00b89f03d433867ec928ea316]: Textual amendment: Words in [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/2) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(d)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/d)
+[^c-28b01ab00b89f03d433867ec928ea316]: Textual amendment: Words in [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/2/2) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(d)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/d)
 
-[^key-c20e25adb938d575ac5d214f4cc54f27]: Textual amendment: Words in [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/part/II/crossheading/flats-etc-let-by-housing-associations-under-tenancies-other-than-secure-tenancies) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(e)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/e)
+[^c-c20e25adb938d575ac5d214f4cc54f27]: Textual amendment: Words in [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/part/II/crossheading/flats-etc-let-by-housing-associations-under-tenancies-other-than-secure-tenancies) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(e)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/e)
 
 [^c17028231]: Textual amendment: Words in [Sch. 9 para. 3(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/3/1) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para. 20(4)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/20/4); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-2632a7d95fe196f9628ca607719e6bbe]: Textual amendment: Words in [Sch. 9 para. 3(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/3/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(f)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/f)
+[^c-2632a7d95fe196f9628ca607719e6bbe]: Textual amendment: Words in [Sch. 9 para. 3(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/3/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(f)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/f)
 
 [^c17028241]: Textual amendment: [Sch. 9 para. 3(1A)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/3/1A) inserted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para. 20(4)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/20/4); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-ff12b0bfaaf16b4f78764b9478c73841]: Textual amendment: Words in [Sch. 9 para. 4(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/4/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 126(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/126/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-ff12b0bfaaf16b4f78764b9478c73841]: Textual amendment: Words in [Sch. 9 para. 4(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/4/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 126(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/126/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-f5bbf11e38965525ac4ddad3f21f395e]: Textual amendment: Words in [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/4/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 126(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/126/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f5bbf11e38965525ac4ddad3f21f395e]: Textual amendment: Words in [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/4/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 126(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/126/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c17028251]: Textual amendment: Words in Sch. 9 para. 4(3) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 9(d)(iii)](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/9/d/iii)
 
-[^key-c004d4ac6e10cf71d37dec6d45c4af61]: Textual amendment: Words in [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/4/3) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(g)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/g)
+[^c-c004d4ac6e10cf71d37dec6d45c4af61]: Textual amendment: Words in [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/4/3) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(g)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/g)
 
-[^key-20087f7ca752bab6f215dca84d456756]: Textual amendment: [Sch. 9 para. 4A](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/4A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(h)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/h)
+[^c-20087f7ca752bab6f215dca84d456756]: Textual amendment: [Sch. 9 para. 4A](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/4A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [22(5)(h)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/22/5/h)
 
 [^c17028261]: Textual amendment: Words in [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/5/1) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para. 20(5)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/20/5); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
@@ -267,9 +267,9 @@ without the prior written consent of the lessor (such consent not to be unreason
 
 [^c17028291]: Textual amendment: Words in [Sch. 9 para. 6(3)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/6/3) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 107](https://www.legislation.gov.uk/ukpga/1996/52/section/107), [Sch. 10 para. 20(7)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/10/paragraph/20/7); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-f18fdc08e71f3d429d1d4290be030df5]: Textual amendment: Words in [Sch. 9 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/7/1/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 126(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/126/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f18fdc08e71f3d429d1d4290be030df5]: Textual amendment: Words in [Sch. 9 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/7/1/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 126(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/126/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-b48bdce82f81da950d79d4361be7382d]: Textual amendment: Words in [Sch. 9 para. 7(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/7/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 126(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/126/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-b48bdce82f81da950d79d4361be7382d]: Textual amendment: Words in [Sch. 9 para. 7(2)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/9/paragraph/7/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 126(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/126/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c17028301]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 

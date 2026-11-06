@@ -34,7 +34,7 @@ MERCHANT SHIPPING
 
 SAFETY
 
-The Merchant Shipping (Additional Safety Measures for Bulk Carriers) (Amendment) Regulations 2004 (revoked)[^key-6f5ea3b81e2e20f11e55b3481fe91908]
+The Merchant Shipping (Additional Safety Measures for Bulk Carriers) (Amendment) Regulations 2004 (revoked)[^c-6f5ea3b81e2e20f11e55b3481fe91908]
 
 Made
 
@@ -48,27 +48,27 @@ Coming into force
 
 1st October 2004
 
-[^key-6f5ea3b81e2e20f11e55b3481fe91908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f5ea3b81e2e20f11e55b3481fe91908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6f5ea3b81e2e20f11e55b3481fe91908]
+## 1. Citation and commencement[^c-6f5ea3b81e2e20f11e55b3481fe91908]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 1999[^key-6f5ea3b81e2e20f11e55b3481fe91908]
+## 2. Amendment of the Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 1999[^c-6f5ea3b81e2e20f11e55b3481fe91908]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Merchant Shipping (Cargo Ship Construction) Regulations 1997[^key-6f5ea3b81e2e20f11e55b3481fe91908]
+## 3. Amendment of the Merchant Shipping (Cargo Ship Construction) Regulations 1997[^c-6f5ea3b81e2e20f11e55b3481fe91908]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f5ea3b81e2e20f11e55b3481fe91908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f5ea3b81e2e20f11e55b3481fe91908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — NEW REGULATIONS[^key-6f5ea3b81e2e20f11e55b3481fe91908]
+## SCHEDULE — NEW REGULATIONS[^c-6f5ea3b81e2e20f11e55b3481fe91908]
 
 Regulation 2(5)
 
@@ -76,8 +76,8 @@ Regulation 2(5)
 
 **May not be in force at this date. Check the source.**
 
-[^key-6f5ea3b81e2e20f11e55b3481fe91908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f5ea3b81e2e20f11e55b3481fe91908]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f5ea3b81e2e20f11e55b3481fe91908]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/2151) revoked (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1218/schedule)
+[^c-6f5ea3b81e2e20f11e55b3481fe91908]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/2151) revoked (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1218/schedule)

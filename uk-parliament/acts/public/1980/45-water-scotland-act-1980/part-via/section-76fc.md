@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76FC. Effect, confirmation and variation of a notice under section 76FB[^key-6a7eef6cfa6e9c810cdfbdf260c417e4]
+## 76FC. Effect, confirmation and variation of a notice under section 76FB[^c-6a7eef6cfa6e9c810cdfbdf260c417e4]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a7eef6cfa6e9c810cdfbdf260c417e4]: Textual amendment: Ss. 76FA-76FC inserted (20.4.2010) by [The Water Quality (Scotland) Regulations 2010 (S.S.I. 2010/95)](https://www.legislation.gov.uk/ssi/2010/95), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/95/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2010/95/regulation/2)
+[^c-6a7eef6cfa6e9c810cdfbdf260c417e4]: Textual amendment: Ss. 76FA-76FC inserted (20.4.2010) by [The Water Quality (Scotland) Regulations 2010 (S.S.I. 2010/95)](https://www.legislation.gov.uk/ssi/2010/95), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/95/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2010/95/regulation/2)

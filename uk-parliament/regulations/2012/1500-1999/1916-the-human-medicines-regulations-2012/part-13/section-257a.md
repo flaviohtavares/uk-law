@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257A. Packaging Requirements: medicinal products required to bear safety features[^key-8240b00caa9963a76d95fdccc2abed0f]
+## 257A. Packaging Requirements: medicinal products required to bear safety features[^c-8240b00caa9963a76d95fdccc2abed0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8240b00caa9963a76d95fdccc2abed0f]: Textual amendment: [Reg. 257A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [112](https://www.legislation.gov.uk/uksi/2024/832/regulation/112)
+[^c-8240b00caa9963a76d95fdccc2abed0f]: Textual amendment: [Reg. 257A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257A) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [112](https://www.legislation.gov.uk/uksi/2024/832/regulation/112)

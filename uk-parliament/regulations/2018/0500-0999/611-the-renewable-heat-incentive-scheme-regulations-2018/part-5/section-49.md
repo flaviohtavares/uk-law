@@ -43,8 +43,8 @@ summary: ''
 - (a) solid biomass used was waste or wholly derived from waste;
 - (b) biogas used or biomethane produced was made from feedstock which was waste;
 - (c) solid biomass or biogas used or biomethane produced met the greenhouse gas criteria;
-- (d) solid biomass used met the land criteria; [^key-6c709c98fb9262541d40d5cedd568b10]...
-- (da)[^key-a96cc298821aeb2715e826edee3f79ed] on or after 1st April 2022, solid biomass used met the fuel quality criteria; or
+- (d) solid biomass used met the land criteria; [^c-6c709c98fb9262541d40d5cedd568b10]...
+- (da)[^c-a96cc298821aeb2715e826edee3f79ed] on or after 1st April 2022, solid biomass used met the fuel quality criteria; or
 - (e) biogas used or biomethane produced was made from feedstock which was solid biomass which met the land criteria.
 
 (5) Where a participant declares in accordance with paragraph (4)(c) that solid biomass, biogas or biomethane met the greenhouse gas criteria, the declaration must specify the lifecycle greenhouse gas emissions for that solid biomass, biogas or biomethane calculated in accordance with paragraph 2 of Schedule 3.
@@ -62,6 +62,6 @@ the participant must provide the information in Schedule 5 in relation to that s
 
 ## Annotations
 
-[^key-6c709c98fb9262541d40d5cedd568b10]: Textual amendment: Word in [reg. 49(4)(d)](https://www.legislation.gov.uk/uksi/2018/611/regulation/49/4/d) omitted (1.4.2022) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/3/a), [20(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/20/a)
+[^c-6c709c98fb9262541d40d5cedd568b10]: Textual amendment: Word in [reg. 49(4)(d)](https://www.legislation.gov.uk/uksi/2018/611/regulation/49/4/d) omitted (1.4.2022) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/3/a), [20(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/20/a)
 
-[^key-a96cc298821aeb2715e826edee3f79ed]: Textual amendment: [Reg. 49(4)(da)](https://www.legislation.gov.uk/uksi/2018/611/regulation/49/4/da) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/3/a), [20(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/20/b)
+[^c-a96cc298821aeb2715e826edee3f79ed]: Textual amendment: [Reg. 49(4)(da)](https://www.legislation.gov.uk/uksi/2018/611/regulation/49/4/da) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/3/a), [20(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/20/b)

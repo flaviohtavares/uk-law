@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 97. Suspension of access to Kyoto units in the case of a suspected fraudulent transaction[^key-d663f0204b1fc76a0d5cc0ed960a2148]
+## Article 97. Suspension of access to Kyoto units in the case of a suspected fraudulent transaction[^c-d663f0204b1fc76a0d5cc0ed960a2148]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The national administrator, acting on request of the Secretary of State, may sus
 
 ## Annotations
 
-[^key-d663f0204b1fc76a0d5cc0ed960a2148]: Textual amendment: [Art. 97](https://www.legislation.gov.uk/eur/2013/389/article/97) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/8)
+[^c-d663f0204b1fc76a0d5cc0ed960a2148]: Textual amendment: [Art. 97](https://www.legislation.gov.uk/eur/2013/389/article/97) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(8)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/8)

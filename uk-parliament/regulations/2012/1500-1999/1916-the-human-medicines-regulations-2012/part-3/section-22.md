@@ -28,7 +28,7 @@ summary: ''
 - (d) the qualifications of the persons under whose supervision the operations will be carried out; and
 - (e) the arrangements made or to be made for securing the safekeeping of, and the maintenance of adequate records in respect of, medicinal products manufactured or assembled in pursuance of the licence.
 
-(1A)[^key-d65dba98bcfb7c602dad61f8b948d44c] In dealing with an application for a manufacturer’s licence (MM) the licensing authority must, in addition to the matters specified in paragraph (1), take into consideration the arrangements made, or to be made, for—
+(1A)[^c-d65dba98bcfb7c602dad61f8b948d44c] In dealing with an application for a manufacturer’s licence (MM) the licensing authority must, in addition to the matters specified in paragraph (1), take into consideration the arrangements made, or to be made, for—
 
 - (a) supervising and controlling operations at a modular unit specified in the application; and
 - (b) ensuring that manufacture or assembly is under appropriate control so that the MM medicinal product consistently meets the requirements in the MM master file when manufactured at that modular unit.
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d65dba98bcfb7c602dad61f8b948d44c]: Textual amendment: [Reg. 22(1A)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/22/1A)[(1B)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/22/1B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/87/regulation/8)
+[^c-d65dba98bcfb7c602dad61f8b948d44c]: Textual amendment: [Reg. 22(1A)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/22/1A)[(1B)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/22/1B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/87/regulation/8)

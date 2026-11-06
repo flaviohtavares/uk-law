@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Review by children's hearing where order prevents removal of child[^key-e84615382b19976b2e9c1fe0eefd7d2b]
+## 46. Review by children's hearing where order prevents removal of child[^c-e84615382b19976b2e9c1fe0eefd7d2b]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e84615382b19976b2e9c1fe0eefd7d2b]: Commencement: S. 46 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-e84615382b19976b2e9c1fe0eefd7d2b]: Commencement: S. 46 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

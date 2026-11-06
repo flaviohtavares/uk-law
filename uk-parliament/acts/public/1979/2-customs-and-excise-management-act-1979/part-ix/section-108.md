@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Making of entries.[^key-b4058be5c7968e2d78cf986e5fce95af]
+## 108. Making of entries.[^c-b4058be5c7968e2d78cf986e5fce95af]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ as the Commissioners may direct.
 
 ## Annotations
 
-[^key-b4058be5c7968e2d78cf986e5fce95af]: Modification: [S. 108](https://www.legislation.gov.uk/ukpga/1979/2/section/108) applied (1.7.2005) by [The Denatured Alcohol Regulations 2005 (S.I. 2005/1524)](https://www.legislation.gov.uk/uksi/2005/1524), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1524/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2005/1524/regulation/9/5)
+[^c-b4058be5c7968e2d78cf986e5fce95af]: Modification: [S. 108](https://www.legislation.gov.uk/ukpga/1979/2/section/108) applied (1.7.2005) by [The Denatured Alcohol Regulations 2005 (S.I. 2005/1524)](https://www.legislation.gov.uk/uksi/2005/1524), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1524/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2005/1524/regulation/9/5)
 
 [^c14777671]: Textual amendment: Words in [s. 108(4)](https://www.legislation.gov.uk/ukpga/1979/2/section/108/4) substituted (1.1.1995) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 9(9)](https://www.legislation.gov.uk/ukpga/1994/9/section/9/9), [Sch. 4 Pt. I para. 7](https://www.legislation.gov.uk/ukpga/1994/9/schedule/4/part/I/paragraph/7) (with [s. 19(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/19/3)); [S.I. 1994/2679](https://www.legislation.gov.uk/uksi/1994/2679), [art. 3](https://www.legislation.gov.uk/uksi/1994/2679/article/3) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/2679/article/4/3))

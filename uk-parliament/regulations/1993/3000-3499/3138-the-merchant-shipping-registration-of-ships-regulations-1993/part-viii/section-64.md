@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Provisional registration[^key-11d93bed876f4aed32f4d1e8637bc233]
+## 64. Provisional registration[^c-11d93bed876f4aed32f4d1e8637bc233]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a ship which the owner intends should be registered on Part I or Part II o
 
 ## Annotations
 
-[^key-11d93bed876f4aed32f4d1e8637bc233]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1993/3138/regulation/64) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-11d93bed876f4aed32f4d1e8637bc233]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1993/3138/regulation/64) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

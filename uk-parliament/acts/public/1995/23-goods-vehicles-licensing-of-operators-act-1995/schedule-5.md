@@ -62,7 +62,7 @@ and in this sub-paragraph “**small trailer**” means a trailer having an unla
 - (a) to the carriage of goods on any journey or on a vehicle of any class exempted from that sub-paragraph by regulations; or
 - (b) to any carriage of goods which is lawful without the authority of an operator’s licence.
 
-(3) Subject to the provisions of regulations, a traffic commissioner may dispense with the observance, as respects the carriage of goods under an operator’s licence [^key-a4437b8c27d122fdb690afe8e83b48c7]..., of any requirement of sub-paragraph (1), where he is satisfied that it is not reasonably practicable for that requirement to be observed.
+(3) Subject to the provisions of regulations, a traffic commissioner may dispense with the observance, as respects the carriage of goods under an operator’s licence [^c-a4437b8c27d122fdb690afe8e83b48c7]..., of any requirement of sub-paragraph (1), where he is satisfied that it is not reasonably practicable for that requirement to be observed.
 
 (4) Such a dispensation may be granted—
 
@@ -86,7 +86,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 - (a) any document which is required by or under paragraph 2 to be carried by that person as driver of a vehicle; or
 - (b) any document which that person is required by or under that paragraph to preserve;
 
-and that document shall, if the officer so requires by notice in writing served on that person, be produced to a traffic commissioner at an office[^key-26db493f0013f25d9f5395857d0800d1] specified in the notice within such time (not being less than 10 days) from the service of the notice as may be so specified.
+and that document shall, if the officer so requires by notice in writing served on that person, be produced to a traffic commissioner at an office[^c-26db493f0013f25d9f5395857d0800d1] specified in the notice within such time (not being less than 10 days) from the service of the notice as may be so specified.
 
 (2) An officer may at any time enter any large goods vehicle and inspect that vehicle and any goods carried on it.
 
@@ -136,6 +136,6 @@ is guilty of an offence.
 
 [^c10975921]: Marginal citation: [1960 c. 16](https://www.legislation.gov.uk/ukpga/1960/16).
 
-[^key-a4437b8c27d122fdb690afe8e83b48c7]: Textual amendment: Words in [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/1995/23/schedule/5/paragraph/2/3) omitted (3.7.2013) by virtue of [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-a4437b8c27d122fdb690afe8e83b48c7]: Textual amendment: Words in [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/1995/23/schedule/5/paragraph/2/3) omitted (3.7.2013) by virtue of [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-26db493f0013f25d9f5395857d0800d1]: Textual amendment: Words in [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/23/schedule/5/paragraph/3/1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-26db493f0013f25d9f5395857d0800d1]: Textual amendment: Words in [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/23/schedule/5/paragraph/3/1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

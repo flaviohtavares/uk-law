@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57N. Offences[^key-70ac39a0d3fc814d66486839ff5f9ea5]
+## 57N. Offences[^c-70ac39a0d3fc814d66486839ff5f9ea5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,10 +30,10 @@ summary: ''
 
 (5) A person who contravenes the prohibition in regulation 57L(6) (disclosure of direction) commits an offence.
 
-(6)[^key-1c48ae144610c258829b70ce27fa6002] In paragraph (1), “**Russian aircraft**” has the same meaning as in regulation 57J.
+(6)[^c-1c48ae144610c258829b70ce27fa6002] In paragraph (1), “**Russian aircraft**” has the same meaning as in regulation 57J.
 
 ## Annotations
 
-[^key-70ac39a0d3fc814d66486839ff5f9ea5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/6A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9)
+[^c-70ac39a0d3fc814d66486839ff5f9ea5]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/6A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9)
 
-[^key-1c48ae144610c258829b70ce27fa6002]: Textual amendment: [Reg. 57N(6)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57N/6) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2022/395/regulation/20)
+[^c-1c48ae144610c258829b70ce27fa6002]: Textual amendment: [Reg. 57N(6)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57N/6) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2022/395/regulation/20)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Brokering services: non-UK activity relating to restricted goods and restricted technology[^key-94863684ebc54850c47e9ce6f367a11d][^key-01e6968d8fa4b9fc7e7915667f65b626]
+## 27. Brokering services: non-UK activity relating to restricted goods and restricted technology[^c-94863684ebc54850c47e9ce6f367a11d][^c-01e6968d8fa4b9fc7e7915667f65b626]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,16 +47,16 @@ summary: ''
 
 (4) In this regulation—
 
-- [^key-e2046e9485cc1d658f15e3a5c10bd8ce]...
+- [^c-e2046e9485cc1d658f15e3a5c10bd8ce]...
 - “**non-UK country**” means a country that is not the United Kingdom or the Isle of Man;
-- [^key-e2046e9485cc1d658f15e3a5c10bd8ce]...
+- [^c-e2046e9485cc1d658f15e3a5c10bd8ce]...
 
 (5) For the purposes of this regulation, the definition of “country” in section 62(1) of the Act does not apply.
 
 ## Annotations
 
-[^key-94863684ebc54850c47e9ce6f367a11d]: Commencement: Reg. 27 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-94863684ebc54850c47e9ce6f367a11d]: Commencement: Reg. 27 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-01e6968d8fa4b9fc7e7915667f65b626]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/461/regulation/27) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01e6968d8fa4b9fc7e7915667f65b626]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/461/regulation/27) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2046e9485cc1d658f15e3a5c10bd8ce]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/uksi/2019/461/regulation/27/4) omitted (29.9.2026) by virtue of [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/d)
+[^c-e2046e9485cc1d658f15e3a5c10bd8ce]: Textual amendment: Words in [reg. 27(4)](https://www.legislation.gov.uk/uksi/2019/461/regulation/27/4) omitted (29.9.2026) by virtue of [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(d)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/d)

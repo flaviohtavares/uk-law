@@ -32,7 +32,7 @@ summary: ''
 
 Water Resources, England And Wales
 
-The Surface Waters (Shellfish) (Classification) (Amendment) Regulations 2009 (revoked)[^key-64c118847d73133eadda28c67fd38220]
+The Surface Waters (Shellfish) (Classification) (Amendment) Regulations 2009 (revoked)[^c-64c118847d73133eadda28c67fd38220]
 
 Made
 
@@ -50,23 +50,23 @@ Coming into force
 
 1st July 2009
 
-[^key-64c118847d73133eadda28c67fd38220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64c118847d73133eadda28c67fd38220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-64c118847d73133eadda28c67fd38220]
+## 1. Citation and commencement[^c-64c118847d73133eadda28c67fd38220]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Surface Waters (Shellfish) (Classification) Regulations 1997[^key-64c118847d73133eadda28c67fd38220]
+## 2. Amendment of the Surface Waters (Shellfish) (Classification) Regulations 1997[^c-64c118847d73133eadda28c67fd38220]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64c118847d73133eadda28c67fd38220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64c118847d73133eadda28c67fd38220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-64c118847d73133eadda28c67fd38220]EXPLANATORY NOTE
+[^c-64c118847d73133eadda28c67fd38220]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -76,4 +76,4 @@ No impact assessment has been produced for this instrument as no impact on busin
 
 ## Annotations
 
-[^key-64c118847d73133eadda28c67fd38220]: Textual amendment: Regulations revoked (3.3.2016) by [The Water Environment (Water Framework Directive) (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/138)](https://www.legislation.gov.uk/uksi/2016/138), regs. 1, [11(b)](https://www.legislation.gov.uk/uksi/2016/138/regulation/11/b)
+[^c-64c118847d73133eadda28c67fd38220]: Textual amendment: Regulations revoked (3.3.2016) by [The Water Environment (Water Framework Directive) (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/138)](https://www.legislation.gov.uk/uksi/2016/138), regs. 1, [11(b)](https://www.legislation.gov.uk/uksi/2016/138/regulation/11/b)

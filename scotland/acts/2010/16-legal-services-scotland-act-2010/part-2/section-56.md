@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Disqualification from position[^key-7664c0d430f4290c1c5d9f9ce04404b7][^key-aba9818016b36bfe12250cf9960b329e]
+## 56. Disqualification from position[^c-7664c0d430f4290c1c5d9f9ce04404b7][^c-aba9818016b36bfe12250cf9960b329e]
 
 *Extent: S*
 
@@ -59,6 +59,6 @@ in relation to a person (“P”) who holds within any of its licensed providers
 
 ## Annotations
 
-[^key-7664c0d430f4290c1c5d9f9ce04404b7]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2010/16/section/56) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-7664c0d430f4290c1c5d9f9ce04404b7]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2010/16/section/56) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-aba9818016b36bfe12250cf9960b329e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2010/16/section/56) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-aba9818016b36bfe12250cf9960b329e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2010/16/section/56) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

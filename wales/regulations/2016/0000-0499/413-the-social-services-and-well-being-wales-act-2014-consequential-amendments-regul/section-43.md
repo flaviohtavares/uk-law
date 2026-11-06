@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**43.**[^key-7f810bce407075e2950e944cb69484e5] The Transport Act 1985 is amended as follows.
+**43.**[^c-7f810bce407075e2950e944cb69484e5] The Transport Act 1985 is amended as follows.
 
 ## Annotations
 
-[^key-7f810bce407075e2950e944cb69484e5]: Commencement: Reg. 43 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7f810bce407075e2950e944cb69484e5]: Commencement: Reg. 43 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Exclusion of right to apply for registration[^c22543091][^key-9d33a851e9c7f4e3ae2fe799280f83aa]
+## 53. Exclusion of right to apply for registration[^c22543091][^c-9d33a851e9c7f4e3ae2fe799280f83aa]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c22543091]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2015/4/section/53) partly in force; [s. 53](https://www.legislation.gov.uk/anaw/2015/4/section/53) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-9d33a851e9c7f4e3ae2fe799280f83aa]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2015/4/section/53) in force at 22.10.2018 in so far as not already in force by [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/1022/article/3))
+[^c-9d33a851e9c7f4e3ae2fe799280f83aa]: Commencement: [S. 53](https://www.legislation.gov.uk/anaw/2015/4/section/53) in force at 22.10.2018 in so far as not already in force by [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/1022/article/3))

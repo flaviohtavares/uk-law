@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Referrals from Scottish Criminal Cases Review Commission: grounds for appeal[^key-ac0340b7e8e8c3c2e0466f71b00937bf]
+## 83. Referrals from Scottish Criminal Cases Review Commission: grounds for appeal[^c-ac0340b7e8e8c3c2e0466f71b00937bf]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ In section 194D of the 1995 Act (further provisions as to references to the High
 
 ## Annotations
 
-[^key-ac0340b7e8e8c3c2e0466f71b00937bf]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2010/13/section/83) in force at 5.11.2010 by [S.S.I. 2010/385](https://www.legislation.gov.uk/ssi/2010/385), [art. 2](https://www.legislation.gov.uk/ssi/2010/385/article/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2010/385/article/3), [4](https://www.legislation.gov.uk/ssi/2010/385/article/4))
+[^c-ac0340b7e8e8c3c2e0466f71b00937bf]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2010/13/section/83) in force at 5.11.2010 by [S.S.I. 2010/385](https://www.legislation.gov.uk/ssi/2010/385), [art. 2](https://www.legislation.gov.uk/ssi/2010/385/article/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2010/385/article/3), [4](https://www.legislation.gov.uk/ssi/2010/385/article/4))

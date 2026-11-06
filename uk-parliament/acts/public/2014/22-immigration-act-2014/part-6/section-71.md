@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Duty regarding the welfare of children[^key-fbe6c307404fea7a218ca0ba9fe43f29]
+## 71. Duty regarding the welfare of children[^c-fbe6c307404fea7a218ca0ba9fe43f29]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the avoidance of doubt, this Act does not limit any duty imposed on the Secr
 
 ## Annotations
 
-[^key-fbe6c307404fea7a218ca0ba9fe43f29]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2014/22/section/71) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(w)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/w)
+[^c-fbe6c307404fea7a218ca0ba9fe43f29]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2014/22/section/71) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(w)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/w)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Power to discharge surface water into the river[^key-8b9dbb6021123c9007cbcb2ce8f88679]
+## 54. Power to discharge surface water into the river[^c-8b9dbb6021123c9007cbcb2ce8f88679]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b9dbb6021123c9007cbcb2ce8f88679]: Commencement: Art. 54 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-8b9dbb6021123c9007cbcb2ce8f88679]: Commencement: Art. 54 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00029]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).

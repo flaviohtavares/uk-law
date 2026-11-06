@@ -156,7 +156,7 @@ Omit paragraphs 9 and 10 of Schedule 2 to the Environment Act 1995 (Consequentia
 
 #### 11. The Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999
 
-In Schedule 1 to the Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999 *(Extent: W)* *(affected by repeal, see note)*[^key-bf14c14f6671a931c27e1facabfdeacb] [^c2081419], in each of paragraphs 9 and 10, for “Annex IIA to Council Directive *(Extent: W)* *(affected by repeal, see note)*[^key-bf14c14f6671a931c27e1facabfdeacb] [75/442/ *(Extent: W)* *(affected by repeal, see note)*EEC *(Extent: W)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1975/0442)[^key-bf14c14f6671a931c27e1facabfdeacb][^key-bf14c14f6671a931c27e1facabfdeacb]” substitute *(Extent: W)* *(affected by repeal, see note)*[^key-bf14c14f6671a931c27e1facabfdeacb] “Annex I to Directive *(Extent: W)* *(affected by repeal, see note)*[^key-bf14c14f6671a931c27e1facabfdeacb] [2008/98/ *(Extent: W)* *(affected by repeal, see note)*EC *(Extent: W)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2008/0098)[^key-bf14c14f6671a931c27e1facabfdeacb][^key-bf14c14f6671a931c27e1facabfdeacb]” *(Extent: W)* *(affected by repeal, see note)*[^key-bf14c14f6671a931c27e1facabfdeacb]. *(Extent: W)* *(affected by repeal, see note)*[^key-bf14c14f6671a931c27e1facabfdeacb]
+In Schedule 1 to the Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999 *(Extent: W)* *(affected by repeal, see note)*[^c-bf14c14f6671a931c27e1facabfdeacb] [^c2081419], in each of paragraphs 9 and 10, for “Annex IIA to Council Directive *(Extent: W)* *(affected by repeal, see note)*[^c-bf14c14f6671a931c27e1facabfdeacb] [75/442/ *(Extent: W)* *(affected by repeal, see note)*EEC *(Extent: W)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1975/0442)[^c-bf14c14f6671a931c27e1facabfdeacb][^c-bf14c14f6671a931c27e1facabfdeacb]” substitute *(Extent: W)* *(affected by repeal, see note)*[^c-bf14c14f6671a931c27e1facabfdeacb] “Annex I to Directive *(Extent: W)* *(affected by repeal, see note)*[^c-bf14c14f6671a931c27e1facabfdeacb] [2008/98/ *(Extent: W)* *(affected by repeal, see note)*EC *(Extent: W)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2008/0098)[^c-bf14c14f6671a931c27e1facabfdeacb][^c-bf14c14f6671a931c27e1facabfdeacb]” *(Extent: W)* *(affected by repeal, see note)*[^c-bf14c14f6671a931c27e1facabfdeacb]. *(Extent: W)* *(affected by repeal, see note)*[^c-bf14c14f6671a931c27e1facabfdeacb]
 
 #### 12. The Town and Country Planning (Development Plan) (England) Regulations 1999
 
@@ -201,7 +201,7 @@ In regulation 6 (regard to be had to certain matters and statement of regard) of
 
 #### 15. The Packaging (Essential Requirements) Regulations 2003
 
-[^key-42d9f8c8972f035c912c54f458c7283f]...
+[^c-42d9f8c8972f035c912c54f458c7283f]...
 
 #### 16. The End-of-Life Vehicles Regulations 2003
 
@@ -219,11 +219,11 @@ In regulation 2 of the End-of-Life Vehicles Regulations 2003 [^c2081424]—
 
   .
 
-#### 17. The Town and Country Planning (Local Development) (England) Regulations 2004[^key-a538fb004bf42f88e471fd213e17ef00]
+#### 17. The Town and Country Planning (Local Development) (England) Regulations 2004[^c-a538fb004bf42f88e471fd213e17ef00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. The Landfill Allowances and Trading Scheme (England) Regulations 2004[^key-f4b9cc59e6068f31a5a550c4fd99f82e]
+#### 18. The Landfill Allowances and Trading Scheme (England) Regulations 2004[^c-f4b9cc59e6068f31a5a550c4fd99f82e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -386,7 +386,7 @@ In Schedule 1 to the Infrastructure Planning (Environmental Impact Assessment) R
 
 [^c2081418]: Marginal citation: [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593).
 
-[^key-bf14c14f6671a931c27e1facabfdeacb]: Textual amendment: Sch. 4 para. 11 revoked (W.) (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 8](https://www.legislation.gov.uk/wsi/2016/58/schedule/8) (with [regs. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59), [60(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/60/2))
+[^c-bf14c14f6671a931c27e1facabfdeacb]: Textual amendment: Sch. 4 para. 11 revoked (W.) (1.3.2016) by [The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016 (S.I. 2016/58)](https://www.legislation.gov.uk/wsi/2016/58), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/1/2), [Sch. 8](https://www.legislation.gov.uk/wsi/2016/58/schedule/8) (with [regs. 59](https://www.legislation.gov.uk/wsi/2016/58/regulation/59), [60(2)](https://www.legislation.gov.uk/wsi/2016/58/regulation/60/2))
 
 [^c2081419]: Marginal citation: [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293); relevant amending instruments are [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), [S.I](https://www.legislation.gov.uk/uksi/2005/894/section/I). 2005/1806 (W. 138).
 
@@ -396,13 +396,13 @@ In Schedule 1 to the Infrastructure Planning (Environmental Impact Assessment) R
 
 [^c2081422]: Marginal citation: [S.I. 2000/1491](https://www.legislation.gov.uk/uksi/2000/1491), to which there are amendments not relevant to these Regulations.
 
-[^key-42d9f8c8972f035c912c54f458c7283f]: Textual amendment: Sch. 4 para. 15 revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-42d9f8c8972f035c912c54f458c7283f]: Textual amendment: Sch. 4 para. 15 revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
 
 [^c2081424]: Marginal citation: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635), amended by [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538). There are other amendments but none is relevant.
 
-[^key-a538fb004bf42f88e471fd213e17ef00]: Textual amendment: Sch. 4 para. 17 revoked (E.) (6.4.2012) by [The Town and Country Planning (Local Planning) (England) Regulations 2012 (S.I. 2012/767)](https://www.legislation.gov.uk/uksi/2012/767), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/767/regulation/1/1), [37(e)](https://www.legislation.gov.uk/uksi/2012/767/regulation/37/e) (with [regs. 2(2)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/3), [38](https://www.legislation.gov.uk/uksi/2012/767/regulation/38))
+[^c-a538fb004bf42f88e471fd213e17ef00]: Textual amendment: Sch. 4 para. 17 revoked (E.) (6.4.2012) by [The Town and Country Planning (Local Planning) (England) Regulations 2012 (S.I. 2012/767)](https://www.legislation.gov.uk/uksi/2012/767), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/767/regulation/1/1), [37(e)](https://www.legislation.gov.uk/uksi/2012/767/regulation/37/e) (with [regs. 2(2)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/3), [38](https://www.legislation.gov.uk/uksi/2012/767/regulation/38))
 
-[^key-f4b9cc59e6068f31a5a550c4fd99f82e]: Textual amendment: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/18) revoked (31.3.2013) by [The Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013 (S.I. 2013/141)](https://www.legislation.gov.uk/uksi/2013/141), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/141/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2013/141/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/141/regulation/8))
+[^c-f4b9cc59e6068f31a5a550c4fd99f82e]: Textual amendment: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/18) revoked (31.3.2013) by [The Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013 (S.I. 2013/141)](https://www.legislation.gov.uk/uksi/2013/141), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/141/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2013/141/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/141/regulation/8))
 
 [^c2081427]: Marginal citation: [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263), to which there are amendments not relevant to these Regulations.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1159. Limitation on relief under Chapter 2[^key-c1df90bae53c029eaf89fda89be0cccf]
+## 1159. Limitation on relief under Chapter 2[^c-c1df90bae53c029eaf89fda89be0cccf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1df90bae53c029eaf89fda89be0cccf]: Textual amendment: S. 1159 and cross-heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 196](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/196)
+[^c-c1df90bae53c029eaf89fda89be0cccf]: Textual amendment: S. 1159 and cross-heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 196](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/196)

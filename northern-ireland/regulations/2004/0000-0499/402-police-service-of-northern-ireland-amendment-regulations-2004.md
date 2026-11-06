@@ -31,7 +31,7 @@ summary: ''
 
 POLICE
 
-Police Service of Northern Ireland (Amendment) Regulations 2004 (revoked)[^key-8770a1fe8021cb27c2515e83accebf1b]
+Police Service of Northern Ireland (Amendment) Regulations 2004 (revoked)[^c-8770a1fe8021cb27c2515e83accebf1b]
 
 Made
 
@@ -43,56 +43,56 @@ Coming into operation
 
 12th November 2004
 
-[^key-8770a1fe8021cb27c2515e83accebf1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8770a1fe8021cb27c2515e83accebf1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8770a1fe8021cb27c2515e83accebf1b]
+## 1. Citation, commencement and interpretation[^c-8770a1fe8021cb27c2515e83accebf1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the amending regulations[^key-8770a1fe8021cb27c2515e83accebf1b]
+## 2. Amendments to the amending regulations[^c-8770a1fe8021cb27c2515e83accebf1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the principal regulations[^key-8770a1fe8021cb27c2515e83accebf1b]
+## 5. Amendments to the principal regulations[^c-8770a1fe8021cb27c2515e83accebf1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-8770a1fe8021cb27c2515e83accebf1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8770a1fe8021cb27c2515e83accebf1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8770a1fe8021cb27c2515e83accebf1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8770a1fe8021cb27c2515e83accebf1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8770a1fe8021cb27c2515e83accebf1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8770a1fe8021cb27c2515e83accebf1b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/402) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [art. 2(i)](https://www.legislation.gov.uk/nisr/2005/547/article/2/i), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-8770a1fe8021cb27c2515e83accebf1b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/402) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [art. 2(i)](https://www.legislation.gov.uk/nisr/2005/547/article/2/i), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)

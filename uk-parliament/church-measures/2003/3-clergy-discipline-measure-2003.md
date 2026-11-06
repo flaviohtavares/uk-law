@@ -35,15 +35,15 @@ A Measure passed by the General Synod of the Church of England to amend the law 
 
 ## Introductory
 
-### 1. Duty to have regard to bishop’s role[^key-64974280ccd1724dcfeea7b1be52c5d0]
+### 1. Duty to have regard to bishop’s role[^c-64974280ccd1724dcfeea7b1be52c5d0]
 
 Any body or person on whom functions in connection with the discipline of persons in Holy Orders are conferred by this Measure shall, in exercising those functions, have due regard to the role in that connection of the bishop or archbishop who, by virtue of his office and consecration, is required to administer discipline.
 
-### 2. Disciplinary tribunals[^key-32faa6a0c40bc28722354a8a6dfbd708]
+### 2. Disciplinary tribunals[^c-32faa6a0c40bc28722354a8a6dfbd708]
 
 Where a complaint is to be referred under this Measure to a disciplinary tribunal the tribunal (to be called the bishop’s disciplinary tribunal) shall be constituted for the diocese in question in accordance with section 22 below to deal with the complaint.
 
-### 3. Clergy Discipline Commission[^key-84b10b07e44ec8e809b14669cf4c058d]
+### 3. Clergy Discipline Commission[^c-84b10b07e44ec8e809b14669cf4c058d]
 
 (1) There shall be a body (to be called the Clergy Discipline Commission) consisting of not more than twelve persons appointed by the Appointments Committee of the Church of England including at least—
 
@@ -58,7 +58,7 @@ Where a complaint is to be referred under this Measure to a disciplinary tribuna
 - (b) to issue codes of practice and general policy guidance to persons exercising functions in connection with clergy discipline;
 - (c) to make annually to the General Synod through the House of Bishops thereof a report on the exercise of its functions during the previous year.
 
-### 4. President of tribunals[^key-4feeee6fc42bbf7e8b9f841359e71af4]
+### 4. President of tribunals[^c-4feeee6fc42bbf7e8b9f841359e71af4]
 
 (1) The chairman and deputy chairman of the Commission shall be the president of tribunals and the deputy president respectively for the purposes of this Measure.
 
@@ -68,17 +68,17 @@ Where a complaint is to be referred under this Measure to a disciplinary tribuna
 - (b) to act as the chairman of a disciplinary tribunal where, in his opinion, important points of law or principle are involved;
 - (c) to exercise such other functions as may be prescribed.
 
-(3) Subject to subsection (4) below,[^key-fe786eb2ab984ff92e76d5142e0767ad] The deputy president of tribunals shall act for the president when the president is absent or is unable or unwilling to act.
+(3) Subject to subsection (4) below,[^c-fe786eb2ab984ff92e76d5142e0767ad] The deputy president of tribunals shall act for the president when the president is absent or is unable or unwilling to act.
 
-(4)[^key-104169f072b52ac592be1efde071ad7f] The president or deputy president of tribunals may select any person who may be appointed as the chairman of a disciplinary tribunal under section 22(1) below to act in his place when he is absent or unable or unwilling to act.
+(4)[^c-104169f072b52ac592be1efde071ad7f] The president or deputy president of tribunals may select any person who may be appointed as the chairman of a disciplinary tribunal under section 22(1) below to act in his place when he is absent or unable or unwilling to act.
 
-### 5. Registrar of tribunals[^key-16738f44b3b974eee843678c32f91258]
+### 5. Registrar of tribunals[^c-16738f44b3b974eee843678c32f91258]
 
 (1) The archbishops of Canterbury and York shall each for his province, after consultation with the president of tribunals, appoint a person to be the registrar of tribunals for the province for the purposes of this Measure.
 
 (2) A person so appointed shall be a person who has a general qualification within the meaning of the Courts and Legal Services Act 1990 (c. 41).
 
-(3) The person holding the office of registrar of tribunals for a province shall vacate that office on the date on which he attains the age of seventy years or such earlier age as may be prescribed by regulations made by the House of Bishops of the General Synod under section 32(1) of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^key-13ffcea96ec7163f9f727ba9a6617d57].
+(3) The person holding the office of registrar of tribunals for a province shall vacate that office on the date on which he attains the age of seventy years or such earlier age as may be prescribed by regulations made by the House of Bishops of the General Synod under section 32(1) of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^c-13ffcea96ec7163f9f727ba9a6617d57].
 
 (4) The registrar of tribunals for a province may resign his office by instrument in writing under his hand addressed to, and served on, the archbishop of the province and the instrument shall specify the date, being a date not less than twelve months after the service of the instrument or such earlier date as the archbishop may allow, on which the resignation is to take effect.
 
@@ -89,14 +89,14 @@ Where a complaint is to be referred under this Measure to a disciplinary tribuna
 - (a) to direct and supervise the general administration of disciplinary tribunals in the province;
 - (b) to exercise such other functions as may be prescribed.
 
-(7) If the person holding the office of registrar of tribunals for a province is for any reason unable or unwilling to perform the duties of a registrar or it would be inappropriate for him to perform those duties, the registrar of tribunals for the other province or, where a person has been selected under subsection (8), that person[^key-c417b2acaa0c1c950a6bd25dd885b7b0] shall perform those duties and, for that purpose, shall have all the powers and duties of the registrar of the first-mentioned province.
+(7) If the person holding the office of registrar of tribunals for a province is for any reason unable or unwilling to perform the duties of a registrar or it would be inappropriate for him to perform those duties, the registrar of tribunals for the other province or, where a person has been selected under subsection (8), that person[^c-c417b2acaa0c1c950a6bd25dd885b7b0] shall perform those duties and, for that purpose, shall have all the powers and duties of the registrar of the first-mentioned province.
 
-(8)[^key-e17494a51c3db9a8b7b570ede402b586] The registrar of tribunals for a province—
+(8)[^c-e17494a51c3db9a8b7b570ede402b586] The registrar of tribunals for a province—
 
 - (a) may select a person to perform the duties of the registrar in the circumstances mentioned in subsection (7), but
 - (b) may not do so without having obtained the written approval of the president of tribunals.
 
-### 6. Jurisdiction in disciplinary proceedings[^key-7cfbcda5da67835fb23f8d40d2c3e5ac]
+### 6. Jurisdiction in disciplinary proceedings[^c-7cfbcda5da67835fb23f8d40d2c3e5ac]
 
 (1) A disciplinary tribunal constituted for a diocese has jurisdiction to hear and determine disciplinary proceedings under this Measure against a priest or deacon—
 
@@ -127,27 +127,27 @@ no such proceedings in respect of the same matter shall be instituted in any oth
 
 ## Disciplinary proceedings concerning matters not involving doctrine, ritual or ceremonial
 
-### 7. Application[^key-7f15d7cc8d04d513dafbac96321dec12]
+### 7. Application[^c-7f15d7cc8d04d513dafbac96321dec12]
 
 (1) The following provisions of this Measure shall have effect for the purpose of regulating proceedings against a clerk in Holy Orders who is alleged to have committed an act or omission other than one relating to matters involving doctrine, ritual or ceremonial, and references to misconduct shall be construed accordingly.
 
 (2) Proceedings in relation to matters involving doctrine, ritual or ceremonial shall continue to be conducted in accordance with the 1963 Measure.
 
-### 8. Misconduct[^key-10569efea6348aeb2da38155f4ae5e05]
+### 8. Misconduct[^c-10569efea6348aeb2da38155f4ae5e05]
 
 (1) Disciplinary proceedings under this Measure may be instituted against any archbishop, bishop, priest or deacon alleging any of the following acts or omissions—
 
 - (a) doing any act in contravention of the laws ecclesiastical;
-- (aa)[^key-b457e2e5eea7194460236bcb9f2c61b7] failing to comply with a requirement imposed by the code under section 5A of the Safeguarding and Clergy Discipline Measure 2016;
-- (b) failing to do any other[^key-04150330f6d9fb8d20cb9b9f3c8195e1] act required by the laws ecclesiastical;
+- (aa)[^c-b457e2e5eea7194460236bcb9f2c61b7] failing to comply with a requirement imposed by the code under section 5A of the Safeguarding and Clergy Discipline Measure 2016;
+- (b) failing to do any other[^c-04150330f6d9fb8d20cb9b9f3c8195e1] act required by the laws ecclesiastical;
 - (c) neglect or inefficiency in the performance of the duties of his office;
 - (d) conduct unbecoming or inappropriate to the office and work of a clerk in Holy Orders.
 
 (2) In the case of a minister licensed to serve in a diocese by the bishop thereof, the licence shall not be terminated by reason of that person’s misconduct otherwise than by way of such proceedings.
 
-(3) Subject to subsection (4) below,[^key-451e3f3bc6aea54b0c0eb321e78a3cfe] No proceedings in respect of unbecoming or inappropriate conduct shall be taken in respect of the lawful political opinions or activities of any archbishop, bishop, priest or deacon.
+(3) Subject to subsection (4) below,[^c-451e3f3bc6aea54b0c0eb321e78a3cfe] No proceedings in respect of unbecoming or inappropriate conduct shall be taken in respect of the lawful political opinions or activities of any archbishop, bishop, priest or deacon.
 
-(4)[^key-711d6cf77bc6da0dc98abb4770ec0f58] Notwithstanding subsection (3) above, it shall be unbecoming or inappropriate conduct for any archbishop, bishop, priest or deacon to be a member of, or to promote, or express or solicit support for, a political party or other organisation whose constitution, policies, objectives, activities or public statements are declared in writing by the House of Bishops to be incompatible with the teaching of the Church of England in relation to the equality of persons or groups of different races.
+(4)[^c-711d6cf77bc6da0dc98abb4770ec0f58] Notwithstanding subsection (3) above, it shall be unbecoming or inappropriate conduct for any archbishop, bishop, priest or deacon to be a member of, or to promote, or express or solicit support for, a political party or other organisation whose constitution, policies, objectives, activities or public statements are declared in writing by the House of Bishops to be incompatible with the teaching of the Church of England in relation to the equality of persons or groups of different races.
 
 (5) It shall be the duty of the House of Bishops to take appropriate steps to publish any declaration made under subsection (4) above.
 
@@ -161,21 +161,21 @@ no such proceedings in respect of the same matter shall be instituted in any oth
 
 (10) In subsection (4) above “**races**” shall be construed in accordance with section 9 of the Equality Act 2010.
 
-### 9. Limitation of time for institution of proceedings[^key-00b41c116a13672f486c5ee8d23d5bfc]
+### 9. Limitation of time for institution of proceedings[^c-00b41c116a13672f486c5ee8d23d5bfc]
 
-(1)[^key-be674fa6c5d4deb4da7a696b40724f00] No disciplinary proceedings under this Measure shall be instituted unless the misconduct in question, or the last instance of it in the case of a series of acts or omissions, occurred within the period of one year ending with the date on which proceedings are instituted:
+(1)[^c-be674fa6c5d4deb4da7a696b40724f00] No disciplinary proceedings under this Measure shall be instituted unless the misconduct in question, or the last instance of it in the case of a series of acts or omissions, occurred within the period of one year ending with the date on which proceedings are instituted:
 
 Provided that, when the misconduct is one for which the person concerned has been convicted either on indictment or summarily, proceedings may be instituted within twelve months of the conviction becoming conclusive, notwithstanding that the aforesaid period of one year has elapsed:
 
 And provided further that the president of tribunals may, if he considers that there was good reason why the complainant did not institute proceedings at an earlier date, after consultation with the complainant and the respondent, give his written permission for the proceedings to be instituted after the expiry of the said period of one year.
 
-(2)[^key-050c51acf1497051c37142c01c0f52e3] Subsection (1) does not apply where the misconduct in question is conduct of a sexual nature towards a child.
+(2)[^c-050c51acf1497051c37142c01c0f52e3] Subsection (1) does not apply where the misconduct in question is conduct of a sexual nature towards a child.
 
 (3) Subsection (1) does not apply where the misconduct in question is conduct of a sexual nature towards an adult if the president of tribunals considers that the adult was a vulnerable adult at the time of the conduct, having taken into account such representations as the complainant and respondent each make on the issue of vulnerability.
 
 (4) Where, in a case within subsection (3), the president of tribunals does not consider that the adult was a vulnerable adult at the time of the conduct in question, the president may at the same time decide whether nonetheless to give permission under subsection (1) for the proceedings to continue; and for that purpose, the second proviso to subsection (1) has effect as if for “to be instituted” there were substituted “ to continue despite having been instituted ”.
 
-### 10. Institution of proceedings[^key-76fbdb03e169651d34d1e1225038308c]
+### 10. Institution of proceedings[^c-76fbdb03e169651d34d1e1225038308c]
 
 (1) Disciplinary proceedings under this Measure may be instituted against any person who is subject to the jurisdiction of a disciplinary tribunal or the Vicar-General’s court by virtue of section 6 above, by way of complaint made in writing, only as follows—
 
@@ -200,7 +200,7 @@ and references in the following provisions of this Measure to the bishop by whom
 
 (3) A complaint made under this section shall be accompanied by written particulars of the alleged misconduct, and written evidence in support of the complaint shall be sent to the bishop or archbishop, as the case may be, either with the complaint or at such later time as he may allow.
 
-### 11. Preliminary scrutiny of complaint[^key-a672f0ad8a6491730e069a9f882abe35]
+### 11. Preliminary scrutiny of complaint[^c-a672f0ad8a6491730e069a9f882abe35]
 
 (1) When a complaint in writing has been made in accordance with section 10 above it shall be referred in the first instance to the registrar of the diocese or province concerned, as the case may be, who shall thereupon scrutinise the complaint in consultation with the complainant with a view to—
 
@@ -215,18 +215,18 @@ Provided that the period of twenty-eight days referred to above shall not be ext
 
 (3) On receipt of the registrar’s report the bishop may dismiss the complaint and, if he does so, he shall give written notice of the dismissal to the complainant and the respondent, together with a copy of the report.
 
-(4) On receipt of a notice of dismissal the complainant may request the president of tribunals to review the dismissal, and the president may then uphold the dismissal or, if he considers the dismissal to be plainly wrong,he may—[^key-e8f797f3138e4fdcb7ed17f11e1dba24]
+(4) On receipt of a notice of dismissal the complainant may request the president of tribunals to review the dismissal, and the president may then uphold the dismissal or, if he considers the dismissal to be plainly wrong,he may—[^c-e8f797f3138e4fdcb7ed17f11e1dba24]
 
-- (a) reverse it and direct the bishop to deal with the complaint in accordance with section 12 below, or[^key-494e06312700479503f4ba9915a3d203]
+- (a) reverse it and direct the bishop to deal with the complaint in accordance with section 12 below, or[^c-494e06312700479503f4ba9915a3d203]
 - (b) remit the complaint to the bishop and direct the bishop to reconsider the dismissal.
 
-(4A)[^key-f949e06284b2579f7e61dbc2c04d529c] On a reconsideration following a direction under subsection (4)(b), the bishop may nonetheless exercise the power under subsection (3) and, if the bishop does so, must give notice in accordance with that subsection; and subsection (4) and this subsection apply accordingly.
+(4A)[^c-f949e06284b2579f7e61dbc2c04d529c] On a reconsideration following a direction under subsection (4)(b), the bishop may nonetheless exercise the power under subsection (3) and, if the bishop does so, must give notice in accordance with that subsection; and subsection (4) and this subsection apply accordingly.
 
 (5) Where the registrar proposes to extend the period of twenty-eight days referred to in subsection (2) above, he shall, before doing so, consult the complainant and the respondent.
 
 (6) The registrar may delegate any or all of his functions under this section to such person as he may designate.
 
-### 12. Courses available to bishop[^key-0b661e30fc51fbf5e7dee1dce102749d]
+### 12. Courses available to bishop[^c-0b661e30fc51fbf5e7dee1dce102749d]
 
 (1) If the complaint is not dismissed under section 11(3) above the bishop shall, within the period of twenty-eight days following the receipt by him of the registrar’s report under section 11(2) above or the president of tribunal’s direction under section 11(4), as the case may be, or such longer period as he considers to be justified in the particular circumstances of the case, determine which of the following courses is to be pursued—
 
@@ -238,20 +238,20 @@ Provided that the period of twenty-eight days referred to above shall not be ext
 
 (2) Where the bishop proposes to extend the period of twenty-eight days referred to in subsection (1) above he shall, before doing so, consult the complainant and the respondent.
 
-### 13. No further action[^key-881c321029bf7ffa43d0662d41b4355d]
+### 13. No further action[^c-881c321029bf7ffa43d0662d41b4355d]
 
 (1) Where the bishop determines that there is to be no further action the following provisions of this section shall apply.
 
 (2) The bishop shall reduce his determination to writing and shall give a copy of it to the complainant and the respondent.
 
-(3) The complainant may refer the complaint to the president of tribunals and, if the president considers that the bishop’s determination was plainly wrong, he may—[^key-0f06c4e3224935cf607d350084246218]
+(3) The complainant may refer the complaint to the president of tribunals and, if the president considers that the bishop’s determination was plainly wrong, he may—[^c-0f06c4e3224935cf607d350084246218]
 
-- (a) direct the bishop to pursue such of the courses specified in section 12(1)(b) to (e) above as he considers appropriate, in which case the bishop shall proceed accordingly, or[^key-cc4f0c0be83b2567365954fc156ad3fc]
+- (a) direct the bishop to pursue such of the courses specified in section 12(1)(b) to (e) above as he considers appropriate, in which case the bishop shall proceed accordingly, or[^c-cc4f0c0be83b2567365954fc156ad3fc]
 - (b) remit the complaint to the bishop and direct the bishop to reconsider the determination that there is to be no further action.
 
-(4)[^key-8a148ca00d1540edb15d2a86a0da5722] On a reconsideration following a direction under subsection (3)(b), the bishop may nonetheless decide under section 12(1)(a) to take no further action; and, if the bishop does so, this section applies accordingly.
+(4)[^c-8a148ca00d1540edb15d2a86a0da5722] On a reconsideration following a direction under subsection (3)(b), the bishop may nonetheless decide under section 12(1)(a) to take no further action; and, if the bishop does so, this section applies accordingly.
 
-### 14. Conditional deferment[^key-690ed66a478601505e636c334d94c3a6]
+### 14. Conditional deferment[^c-690ed66a478601505e636c334d94c3a6]
 
 (1) Where the bishop, with the consent of the respondent, determines that the matter is to be recorded conditionally the following provisions of this section shall apply.
 
@@ -261,7 +261,7 @@ Provided that the period of twenty-eight days referred to above shall not be ext
 
 (4) The bishop shall reduce his determination to writing and give a copy of it to the complainant and the respondent. He shall also supply them with a statement explaining the effect of subsections (2) and (3) above.
 
-### 15. Conciliation[^key-87a72242d49e9f13ac62e640ad7b4ec5]
+### 15. Conciliation[^c-87a72242d49e9f13ac62e640ad7b4ec5]
 
 (1) Where the bishop determines that an attempt to bring about conciliation is to be made he shall afford the complainant and the respondent an opportunity to make representations and, if both of them agree to the appointment of a conciliator, an appointment shall be made under subsection (2) below.
 
@@ -282,7 +282,7 @@ Provided that the period of twenty-eight days referred to above shall not be ext
 
 the bishop shall proceed to deal with the complaint under paragraph (a), (b), (d) or (e) of section 12(1) above.
 
-### 16. Penalty by consent[^key-c2ebe5b933306155f383f71ca8d1e36f][^key-497521fdd2b785ed28089f2c6d5ae6bc]
+### 16. Penalty by consent[^c-c2ebe5b933306155f383f71ca8d1e36f][^c-497521fdd2b785ed28089f2c6d5ae6bc]
 
 (1) Where the bishop considers that the imposition of a penalty by consent might be appropriate, he shall afford the complainant and the respondent an opportunity to make representations and, if the respondent consents to the imposition of a penalty under this section and he and the bishop agree as to the penalty, the bishop shall, subject to subsection (2) below, proceed accordingly and thereafter no further step shall be taken in regard thereto.
 
@@ -290,11 +290,11 @@ the bishop shall proceed to deal with the complaint under paragraph (a), (b), (d
 
 (3) If the consent of the respondent to the imposition of a penalty under this section is not obtained or he and the bishop are unable to reach agreement as to the nature of the penalty, the bishop shall proceed to deal with the complaint under paragraph (e) of section 12(1) above.
 
-(3A)[^key-132e86fb4866cc327bfe08cfa9c5e869] At any time after the bishop has directed, under section 12(1)(e) above, that the complaint be formally investigated in accordance with section 17 below or after the president of tribunals has referred the complaint to a disciplinary tribunal, the bishop and the respondent may, if the respondent admits the misconduct which is the subject of the complaint, agree to the imposition of a penalty under this section and the bishop shall, subject to subsection (2) above, proceed accordingly and thereafter no further step shall be taken in regard thereto.
+(3A)[^c-132e86fb4866cc327bfe08cfa9c5e869] At any time after the bishop has directed, under section 12(1)(e) above, that the complaint be formally investigated in accordance with section 17 below or after the president of tribunals has referred the complaint to a disciplinary tribunal, the bishop and the respondent may, if the respondent admits the misconduct which is the subject of the complaint, agree to the imposition of a penalty under this section and the bishop shall, subject to subsection (2) above, proceed accordingly and thereafter no further step shall be taken in regard thereto.
 
 (4) The bishop shall notify the complainant of any action taken in pursuance of this section and shall also notify the archbishop of the province concerned and the registrar of the diocese concerned of any penalty agreed in pursuance of subsection (1) above.
 
-### 17. Formal investigation[^key-eb3b13725737ba4a979e43f27ef297b9]
+### 17. Formal investigation[^c-eb3b13725737ba4a979e43f27ef297b9]
 
 (1) Where the bishop directs that the complaint is to be formally investigated, he shall refer the matter to the designated officer and it shall then be the duty of that officer to cause inquiries to be made into the complaint.
 
@@ -306,7 +306,7 @@ the bishop shall proceed to deal with the complaint under paragraph (a), (b), (d
 
 (5) The president of tribunals shall reduce his decision to writing and shall give a copy of it to the complainant, the respondent, the bishop and the designated officer.
 
-### 18. Conduct of proceedings[^key-26b24a17cc76fde0d06600ceab125167]
+### 18. Conduct of proceedings[^c-26b24a17cc76fde0d06600ceab125167]
 
 (1) In disciplinary proceedings under this Measure it shall be the duty of the designated officer or a person duly authorised by him to conduct the case for the complainant.
 
@@ -321,7 +321,7 @@ the bishop shall proceed to deal with the complaint under paragraph (a), (b), (d
 - (b) the determination of any matter before the tribunal or court shall be according to the opinion of the majority of the members thereof and shall be pronounced in public together with its reasons therefor;
 - (c) the hearing shall be in private, except that the tribunal or court, if satisfied that it is in the interests of justice so to do or the respondent so requests, shall direct that the hearing shall be in public in which case the tribunal or court may, during any part of the proceedings, exclude such person or persons as it may determine.
 
-### 19. Imposition of penalty[^key-daaf076ff0523c2da68cac95894ee216]
+### 19. Imposition of penalty[^c-daaf076ff0523c2da68cac95894ee216]
 
 (1) Upon a finding by a disciplinary tribunal or the Vicar-General’s court in disciplinary proceedings that the respondent committed the misconduct complained of, the tribunal or court may—
 
@@ -340,30 +340,30 @@ Provided that, if the bishop or archbishop has given evidence in the proceedings
 
 (3) In this section any reference to a penalty includes a reference to an order for conditional discharge under section 25 below.
 
-### 20. Right of appeal[^key-7e70b06f09bea79c7e1db5d28fc3b868]
+### 20. Right of appeal[^c-7e70b06f09bea79c7e1db5d28fc3b868]
 
-(1) Subject to the following provisions of this section,[^key-2964cc5a6a02affb1a87a3712784404e] In disciplinary proceedings under this Measure—
+(1) Subject to the following provisions of this section,[^c-2964cc5a6a02affb1a87a3712784404e] In disciplinary proceedings under this Measure—
 
 - (a) the respondent may appeal against any penalty imposed on him, and
 - (b) the respondent on a question of law or fact, and the designated officer, on a question of law, may appeal against any finding of the disciplinary tribunal or the Vicar-General’s court,
 
 to the Arches Court of Canterbury (where the proceedings take place in the province of Canterbury) or the Chancery Court of York (where the proceedings take place in the province of York).
 
-(1A)[^key-a94bb6531eb230c918ad2a3fd9524812] An appeal by the respondent or the designated officer may only be brought with the leave of the disciplinary tribunal or the Vicar-General's court, as the case may be, or the appeal court.
+(1A)[^c-a94bb6531eb230c918ad2a3fd9524812] An appeal by the respondent or the designated officer may only be brought with the leave of the disciplinary tribunal or the Vicar-General's court, as the case may be, or the appeal court.
 
 (1B) Any application for leave of the appeal court under subsection (1A)—
 
-- (a)[^key-f713063b54fa24d77ffd2e27cf64fe25] shall, at the direction of the Dean of the Arches and Auditor, be heard either—
+- (a)[^c-f713063b54fa24d77ffd2e27cf64fe25] shall, at the direction of the Dean of the Arches and Auditor, be heard either—
   - (i) by the Dean of the Arches and Auditor sitting alone, or
   - (ii) if the Dean is unable to hear the application, by a single person appointed by the Dean from among those nominated under section 21(2)(c) to serve on the relevant provincial panel,
 - (b) may, if the Dean of the Arches and Auditor so directs, be determined without a hearing; and
-- (c) shall be granted if the person hearing the application[^key-6ba647038529285f01a6f04496d83e01] considers either that the appeal would have a real prospect of success or that there is some other compelling reason why the appeal should be heard.
+- (c) shall be granted if the person hearing the application[^c-6ba647038529285f01a6f04496d83e01] considers either that the appeal would have a real prospect of success or that there is some other compelling reason why the appeal should be heard.
 
 (1C) If the disciplinary tribunal or the court grants the application for leave, it may direct that the issues to be heard on the appeal be limited in such way as the tribunal or the court may specify.
 
-(2)[^key-8310eb5e6483192d50a36ba69edaedcc][^key-da5c972dddb90237489130d071fd6c9d] Subject to subsection (3) below, proceedings on an appeal under subsection (1) above shall be heard and disposed of by the Dean of the Arches and Auditor sitting with two persons in Holy Orders and two lay persons appointed by the president of tribunals for the purpose of those proceedings from among the persons nominated to serve on the provincial panel of the relevant province otherwise than by the bishop of the diocese concerned.
+(2)[^c-8310eb5e6483192d50a36ba69edaedcc][^c-da5c972dddb90237489130d071fd6c9d] Subject to subsection (3) below, proceedings on an appeal under subsection (1) above shall be heard and disposed of by the Dean of the Arches and Auditor sitting with two persons in Holy Orders and two lay persons appointed by the president of tribunals for the purpose of those proceedings from among the persons nominated to serve on the provincial panel of the relevant province otherwise than by the bishop of the diocese concerned.
 
-(3)[^key-8310eb5e6483192d50a36ba69edaedcc] In the case of an appeal from a decision of the Vicar-General's court—
+(3)[^c-8310eb5e6483192d50a36ba69edaedcc] In the case of an appeal from a decision of the Vicar-General's court—
 
 - (a) one of the persons in Holy Orders shall be in Episcopal Orders, whether or not that person has been nominated to serve on the provincial panel mentioned in subsection (2) above, and
 - (b) where the appeal is by an archbishop, subsection (2) shall have effect as if the reference to persons nominated to serve on the provincial panel otherwise than by the bishop of the diocese concerned were a reference to persons (other than the person in Episcopal Orders) nominated to serve on the provincial panel of the other province.
@@ -374,7 +374,7 @@ to the Arches Court of Canterbury (where the proceedings take place in the provi
 
 ## Composition of tribunal and Vicar-General’s court
 
-### 21. Provincial panels[^key-3bb9cd3184941842f57ad397fc5078c3]
+### 21. Provincial panels[^c-3bb9cd3184941842f57ad397fc5078c3]
 
 (1) It shall be the duty of the Clergy Discipline Commission to compile and maintain for each province, in accordance with the provisions of subsection (2) below, a list (hereinafter referred to as “**the provincial panel**”) of persons available for appointment under the following provisions of this Measure as members of a disciplinary tribunal or of the Vicar-General’s court.
 
@@ -382,7 +382,7 @@ to the Arches Court of Canterbury (where the proceedings take place in the provi
 
 - (a) two lay persons from each diocese nominated by the bishop of the diocese after consultation with the bishop’s council, being persons who are resident in the diocese and are on the electoral roll of a parish in the diocese or on the community roll of a cathedral which is not a parish church;
 - (b) two persons in Holy Orders from each diocese nominated by the bishop of the diocese after consultation with the bishop’s council, being persons who have served in Holy Orders for at least seven years and are resident in the diocese;
-- (c) ten persons nominated by the archbishop of the relevant province, being persons who—[^key-279febd8aa14aaead815db8596147236]
+- (c) ten persons nominated by the archbishop of the relevant province, being persons who—[^c-279febd8aa14aaead815db8596147236]
   - (i) hold or have held high judicial office, or
   - (ii) hold or have held the office of circuit judge or have the qualifications required for holding that office;
 - (d) such persons as may be nominated under subsection (3) below.
@@ -392,9 +392,9 @@ to the Arches Court of Canterbury (where the proceedings take place in the provi
 - (a) not more than five persons who are resident in the province and are on the electoral roll of a parish in the province or on the community roll of a cathedral which is not a parish church; and
 - (b) not more than five persons who have served in Holy Orders for at least seven years and reside in the province.
 
-(4) No lay person[^key-d50b3927eaa862b3f47b7f41d5c9ad37] who is not an actual communicant, within the meaning of Rule 83(2)[^key-09e4a2433d906e3a58b256d8cdf51c4f] of the Church Representation Rules (1969 No. 2 Sch. 3), shall be nominated to serve on the provincial panel.
+(4) No lay person[^c-d50b3927eaa862b3f47b7f41d5c9ad37] who is not an actual communicant, within the meaning of Rule 83(2)[^c-09e4a2433d906e3a58b256d8cdf51c4f] of the Church Representation Rules (1969 No. 2 Sch. 3), shall be nominated to serve on the provincial panel.
 
-(5) Persons nominated to serve on the provincial panel shall so serve for a period of six years, and on retiring from the panel , a person nominated under subsection (2)(a) or (b) or (3)[^key-2d0881b31b4ca850254421094fb10e12] shall be eligible to be nominated to serve for not more than one further period of six years , and a person nominated under subsection (2)(c) shall be eligible to be nominated to serve for one or more further periods of six years[^key-d788c77d4b78166cdfba9f7961b70675]:
+(5) Persons nominated to serve on the provincial panel shall so serve for a period of six years, and on retiring from the panel , a person nominated under subsection (2)(a) or (b) or (3)[^c-2d0881b31b4ca850254421094fb10e12] shall be eligible to be nominated to serve for not more than one further period of six years , and a person nominated under subsection (2)(c) shall be eligible to be nominated to serve for one or more further periods of six years[^c-d788c77d4b78166cdfba9f7961b70675]:
 
 Provided that, of the persons nominated to serve on the provincial panel on the first occasion after the passing of this Measure, half of those nominated under paragraph (a) of subsection (2) above, half of those nominated under paragraph (b), half of those nominated under paragraph (c) and half of those nominated under subsection (3) above shall retire from the panel after serving for a period of three years, those retiring being determined by lot.
 
@@ -404,7 +404,7 @@ Provided that, of the persons nominated to serve on the provincial panel on the 
 
 (8) Any person nominated to fill a casual vacancy shall serve only for the unexpired term of service of the person whose place he takes on the panel.
 
-### 22. Disciplinary tribunals[^key-0a1bfbf9838eb48611f1c5a97244f3fd]
+### 22. Disciplinary tribunals[^c-0a1bfbf9838eb48611f1c5a97244f3fd]
 
 (1) A disciplinary tribunal shall consist of five members as follows—
 
@@ -414,25 +414,25 @@ Provided that, of the persons nominated to serve on the provincial panel on the 
 
 (2) The president of tribunals shall not appoint any person to be a member of a disciplinary tribunal unless he is satisfied that there is no reason to question the impartiality of that person, and before doing so he shall afford an opportunity to the respondent to make representations as to the suitability of that person to be appointed.
 
-### 23. Vicar-General’s court[^key-b789cd0a9c01de993c042b5cb83da356]
+### 23. Vicar-General’s court[^c-b789cd0a9c01de993c042b5cb83da356]
 
 (1) The Vicar-General’s court, when exercising its jurisdiction in disciplinary proceedings under this Measure against a bishop, shall consist of five members as follows—
 
-- (a) the chairman, who shall be the Vicar-General of the relevant province unless he declares himself to be personally acquainted with the complainant or the respondent or he is otherwise unable to act[^key-4092a6986d743e328c4a7035c36fdb9b], in which case the president of tribunals shall appoint a person to be the chairman from those nominated under section 21(2)(c) above to serve on the provincial panel of either province;
-- (b)[^key-ae277a478ecef5df54a955bd2ffb4c5c] two persons in Holy Orders appointed by the president of tribunals, of whom one shall be in Episcopal Orders and the other shall be appointed from among those nominated to serve on the provincial panel of the province other than that in which the bishop serves;
+- (a) the chairman, who shall be the Vicar-General of the relevant province unless he declares himself to be personally acquainted with the complainant or the respondent or he is otherwise unable to act[^c-4092a6986d743e328c4a7035c36fdb9b], in which case the president of tribunals shall appoint a person to be the chairman from those nominated under section 21(2)(c) above to serve on the provincial panel of either province;
+- (b)[^c-ae277a478ecef5df54a955bd2ffb4c5c] two persons in Holy Orders appointed by the president of tribunals, of whom one shall be in Episcopal Orders and the other shall be appointed from among those nominated to serve on the provincial panel of the province other than that in which the bishop serves;
 - (c) two lay persons appointed by the president of tribunals from among those nominated under section 21(2)(a) or (3)(a) above to serve on the provincial panel of the province other than that in which the bishop serves.
 
 (2) The Vicar-General’s court, when exercising its jurisdiction in disciplinary proceedings under this Measure against an archbishop of a province, shall consist of five members as follows—
 
-- (a) the chairman, who shall be the Vicar-General of the other province unless he declares himself to be personally acquainted with the complainant or the respondent or he is otherwise unable to act[^key-a8eb443d12c1ee7792ef536aa0bc7bd3], in which case the president of tribunals shall appoint a person to be chairman from those nominated under section 21(2)(c) above to serve on the provincial panel of the other province;
-- (b)[^key-7d1e329a3f3e27733a19ae2abd449350] two persons in Holy Orders appointed by the president of tribunals, of whom one shall be in Episcopal Orders and the other shall be appointed from among those nominated to serve on the provincial panel of the other province;
+- (a) the chairman, who shall be the Vicar-General of the other province unless he declares himself to be personally acquainted with the complainant or the respondent or he is otherwise unable to act[^c-a8eb443d12c1ee7792ef536aa0bc7bd3], in which case the president of tribunals shall appoint a person to be chairman from those nominated under section 21(2)(c) above to serve on the provincial panel of the other province;
+- (b)[^c-7d1e329a3f3e27733a19ae2abd449350] two persons in Holy Orders appointed by the president of tribunals, of whom one shall be in Episcopal Orders and the other shall be appointed from among those nominated to serve on the provincial panel of the other province;
 - (c) two lay persons appointed by the president of tribunals from among those nominated under section 21(2)(a) or 3(a) above to serve on the provincial panel of the other province.
 
 (3) The president of tribunals shall not appoint any person to be a member of the Vicar-General’s court of a province unless he is satisfied that there is no reason to question the impartiality of that person, and before doing so he shall afford an opportunity to the respondent to make representations as to the suitability of that person to be appointed.
 
 ## Penalties
 
-### 24. Types of penalty[^key-971c31f1e01315757ffc3a4a925e959b][^key-34ab72458629480eb62fcdd41d7dc9df]
+### 24. Types of penalty[^c-971c31f1e01315757ffc3a4a925e959b][^c-34ab72458629480eb62fcdd41d7dc9df]
 
 (1) One or more of the following penalties may be imposed on a respondent upon a finding that he has committed any misconduct, namely—
 
@@ -445,7 +445,7 @@ Provided that, of the persons nominated to serve on the provincial panel on the 
 
 (2) No penalty of removal from office imposed on an archbishop or bishop or on any person holding any preferment the right to appoint to which is vested in Her Majesty (not being a parochial benefice) shall have effect unless and until Her Majesty by Order in Council confirms the penalty.
 
-### 25. Conditional discharge[^key-19c5a43ffcd31123d74653740584dab2]
+### 25. Conditional discharge[^c-19c5a43ffcd31123d74653740584dab2]
 
 (1) Where, upon a finding that the respondent has committed any misconduct, the disciplinary tribunal or Vicar-General’s court, as the case may be, is of opinion, having regard to the circumstances including the nature of the misconduct and the character of the respondent, that it is inexpedient to impose a penalty it may make an order discharging him subject to the condition that he commits no misconduct during such period not exceeding two years from the date of the order as may be specified in the order.
 
@@ -455,7 +455,7 @@ Provided that, of the persons nominated to serve on the provincial panel on the 
 
 (4) If a person in whose case an order has been made under subsection (1) above is found, in disciplinary proceedings under this Measure, to have committed misconduct during the period specified in the order, the disciplinary tribunal or the Vicar-General’s court, as the case may be, may deal with him for the misconduct for which the order was made in any manner in which it could deal with him if it had just found that he had committed that misconduct.
 
-### 26. Removal of prohibition for life and deposition[^key-9a633d540e857b88ed66eff8f486070e]
+### 26. Removal of prohibition for life and deposition[^c-9a633d540e857b88ed66eff8f486070e]
 
 (1) Where by virtue of anything done under this Measure or the 1963 Measure a priest or deacon is prohibited for life or deposed he may make an application to the archbishop concerned for the prohibition or deposition to be nullified on the grounds—
 
@@ -469,39 +469,39 @@ Provided that, of the persons nominated to serve on the provincial panel on the 
 - (a) in the case of an archbishop, the references to the archbishop concerned shall be read as references to the Dean of the Arches and Auditor and the reference to consultation with him shall be omitted;
 - (b) in the case of a bishop, the references to the archbishop concerned shall be read as references to the archbishop of the other province.
 
-### 27. Removal of limited prohibition[^key-6a9a1c743c4d37c43c5744fd6f6e65a9][^key-4502f321a11b467e0adbcfa70d028da6][^key-6608899c1274679da441a1aec98db353]
+### 27. Removal of limited prohibition[^c-6a9a1c743c4d37c43c5744fd6f6e65a9][^c-4502f321a11b467e0adbcfa70d028da6][^c-6608899c1274679da441a1aec98db353]
 
 Where by virtue of anything done under this Measure or the 1963 Measure an archbishop, bishop, priest or deacon is prohibited from exercising functions for a specific time he and the archbishop or bishop of the province or diocese concerned (or his successor in office) acting jointly may make an application to the Dean of the Arches and Auditor sitting with the two Vicars-General for the removal of the prohibition; and on receiving such an application they may make an order removing the prohibition, whereupon he shall be eligible for any preferment.
 
-### 28. Restoration on pardon[^key-8eee2eb5b6bf0503c44cabe25148be41]
+### 28. Restoration on pardon[^c-8eee2eb5b6bf0503c44cabe25148be41]
 
 Where by virtue of anything done under this Measure an archbishop, bishop, priest or deacon is prohibited from exercising functions or removed from office his incapacities shall cease if he receives a free pardon from the Crown and he shall be restored to any preferment he previously held if it has not in the meantime been filled.
 
-### 29. Disobedience to penalty etc.[^key-8dd01dc7eb4bdaebc8109b2d39d12baa]
+### 29. Disobedience to penalty etc.[^c-8dd01dc7eb4bdaebc8109b2d39d12baa]
 
 Any person (including a person deposed from Holy Orders under the 1963 Measure) who performs in the Church of England any function which, under a penalty imposed on him under this Measure or a censure imposed on him under the 1963 Measure, he is not permitted to perform commits an act of misconduct under this Measure and, in the case of a person deposed from Holy Orders, disciplinary proceedings under this Measure may be instituted against him in respect of the misconduct as if he had not been deposed.
 
 ## Proceedings in secular courts
 
-### 30. Convictions for criminal offences and matrimonial orders, etc. : priests and deacons[^key-c48dee86cdec6ebc30c8779666464977][^key-48ba130296264262ff120e825ba99e9c]
+### 30. Convictions for criminal offences and matrimonial orders, etc. : priests and deacons[^c-c48dee86cdec6ebc30c8779666464977][^c-48ba130296264262ff120e825ba99e9c]
 
 (1) If a person who is a priest or deacon—
 
-- (a)[^key-f954e35df81ff81c09aea3382e2db4ce] is convicted—
+- (a)[^c-f954e35df81ff81c09aea3382e2db4ce] is convicted—
   - (i) whether in England or elsewhere, of any offence for which a sentence of imprisonment (including one which is not implemented immediately) is passed on him, or
   - (ii) of any offence, other than a summary offence, committed in England and Wales, or
-- (b) has a decree of divorce or an order of judicial[^key-d658f0187b8d81bc93bf86a77a9b9468] separation made against him following a finding of adultery, behaviour in such a way that the petitioner cannot reasonably be expected to live with the respondent or desertion and, in the case of divorce, the decree has been made absolute, or[^key-147a18bcb64fca582de9cde3d914ee92]
+- (b) has a decree of divorce or an order of judicial[^c-d658f0187b8d81bc93bf86a77a9b9468] separation made against him following a finding of adultery, behaviour in such a way that the petitioner cannot reasonably be expected to live with the respondent or desertion and, in the case of divorce, the decree has been made absolute, or[^c-147a18bcb64fca582de9cde3d914ee92]
 - (c) is included in a barred list,
 
 he shall be liable without further proceedings to a penalty of removal from office or prohibition (whether for life or limited) or both.
 
-(1A)[^key-d3e04f510dc18deb39e263ea4b812810] In this Measure “**barred list**” means the children's barred list or the adults' barred list established in accordance with section 2(1) of and Schedule 3 to the Safeguarding Vulnerable Groups Act 2006.
+(1A)[^c-d3e04f510dc18deb39e263ea4b812810] In this Measure “**barred list**” means the children's barred list or the adults' barred list established in accordance with section 2(1) of and Schedule 3 to the Safeguarding Vulnerable Groups Act 2006.
 
 (2) Where a person is liable to a penalty of removal from office or prohibition or both by virtue of subsection (1) above and the bishop of the relevant diocese proposes to impose such a penalty, he shall, after consultation with the president of tribunals, inform that person in writing of the proposal, together with an invitation to send representations in writing to the bishop within the period of twenty-eight days. On the expiry of that period the bishop shall decide whether or not to impose the penalty and shall inform that person in writing of the decision. If the decision is to impose the penalty, that person may request the archbishop of the relevant province to review the decision and upon such a review the archbishop may uphold or reverse the decision after consideration of all the circumstances, including any representations made under this subsection.
 
-(3) Subject to subsection (3A) below,[^key-414ef9596622ac67524fe9221b6ebcb3] A penalty shall not be imposed under subsection (1)(a) or (b)[^key-9adcdb36d82b7cd0d4ddc42037c89cbd] after the expiry of the period of two years beginning with the date on which the conviction becomes conclusive or, as the case may be, the decree absolute or order is made.
+(3) Subject to subsection (3A) below,[^c-414ef9596622ac67524fe9221b6ebcb3] A penalty shall not be imposed under subsection (1)(a) or (b)[^c-9adcdb36d82b7cd0d4ddc42037c89cbd] after the expiry of the period of two years beginning with the date on which the conviction becomes conclusive or, as the case may be, the decree absolute or order is made.
 
-(3A)[^key-33d00702614e7ce4f9bb166a51b83485] The president of tribunals may, on application by the bishop of the relevant diocese, extend the period of two years referred to in subsection (3) above if, after consultation with the priest or deacon concerned, he is satisfied that the bishop did not know of the existence of the conviction or, as the case may be, of the decree absolute or order.
+(3A)[^c-33d00702614e7ce4f9bb166a51b83485] The president of tribunals may, on application by the bishop of the relevant diocese, extend the period of two years referred to in subsection (3) above if, after consultation with the priest or deacon concerned, he is satisfied that the bishop did not know of the existence of the conviction or, as the case may be, of the decree absolute or order.
 
 (4) Where a penalty is to be imposed under this section, it shall be imposed by the bishop of the relevant diocese, and before imposing it the bishop shall require the registrar of his diocese to give (if it is practicable to do so) not less than fourteen days notice in writing to the priest or deacon concerned of the time and place at which the penalty will be imposed and if the priest or deacon appears at that time and place he shall be entitled to be present when the penalty is imposed.
 
@@ -511,16 +511,16 @@ he shall be liable without further proceedings to a penalty of removal from offi
 
 (7) In this section “**relevant diocese**” means—
 
-- (a) the diocese in which the priest or deacon, in relation to whom a penalty may be imposed under this section, holds preferment at the date on which the conviction[^key-390f708e072a0c4bf6c1c327facb819b] which justifies the imposition of the penalty becomes conclusive or, as the case may be, the date of the decree absolute of divorce or the date of the order of judicial separation[^key-4dcaec3f6e5c88abfa95094e7ea5aad7];
+- (a) the diocese in which the priest or deacon, in relation to whom a penalty may be imposed under this section, holds preferment at the date on which the conviction[^c-390f708e072a0c4bf6c1c327facb819b] which justifies the imposition of the penalty becomes conclusive or, as the case may be, the date of the decree absolute of divorce or the date of the order of judicial separation[^c-4dcaec3f6e5c88abfa95094e7ea5aad7];
 - (b) if at that date he is not holding preferment, but is residing in a diocese, the diocese in which he is residing at that date; or
 - (c) if at that date he neither holds preferment nor resides in a diocese, the diocese in which he last held preferment before that date or, in the case of a priest or deacon who has not held preferment in any diocese, the diocese in which he was ordained.
 
-### 31. Convictions for criminal offences and matrimonial orders, etc.: bishops and archbishops[^key-009320615c6560db6a3eba0f7de75b7a][^key-b9c2b96c5fdd0cae04b13619ee80e1c0]
+### 31. Convictions for criminal offences and matrimonial orders, etc.: bishops and archbishops[^c-009320615c6560db6a3eba0f7de75b7a][^c-b9c2b96c5fdd0cae04b13619ee80e1c0]
 
 (1) If a person who is a bishop or archbishop—
 
-- (a) is convicted (whether in England or elsewhere) of an offence mentioned in section 30(1)(a)(i) or (ii) above[^key-e11ea36dd3f208e2e9380995fce38898].
-- (b) has a decree of divorce or an order of judicial[^key-27f74bc489683fc660f3f6f037c6f596] separation made against him following a finding of adultery, behaviour in such a way that the petitioner cannot reasonably be expected to live with the respondent or desertion and, in the case of divorce, the decree has been made absolute, or[^key-61978130f3e24fd3b6300ac5021c0dca]
+- (a) is convicted (whether in England or elsewhere) of an offence mentioned in section 30(1)(a)(i) or (ii) above[^c-e11ea36dd3f208e2e9380995fce38898].
+- (b) has a decree of divorce or an order of judicial[^c-27f74bc489683fc660f3f6f037c6f596] separation made against him following a finding of adultery, behaviour in such a way that the petitioner cannot reasonably be expected to live with the respondent or desertion and, in the case of divorce, the decree has been made absolute, or[^c-61978130f3e24fd3b6300ac5021c0dca]
 - (c) is included in a barred list,
 
 he shall be liable without further proceedings to a penalty of removal from office or prohibition (whether for life or limited) or both.
@@ -532,9 +532,9 @@ he shall be liable without further proceedings to a penalty of removal from offi
 
 to review the decision and upon such a review the archbishop or the president of tribunals, as the case may be, may uphold or reverse the decision after consideration of all the circumstances, including any representations made under this subsection.
 
-(3) Subject to subsection (3A) below,[^key-ecd2504b05a2d1dbe4259baf712f5bf0] A penalty shall not be imposed under this section after the expiry of the period of two years beginning with the date on which the conviction[^key-9773fe039744ab7747f09106931eccdf] becomes conclusive or, as the case may be, the decree absolute or order is made.
+(3) Subject to subsection (3A) below,[^c-ecd2504b05a2d1dbe4259baf712f5bf0] A penalty shall not be imposed under this section after the expiry of the period of two years beginning with the date on which the conviction[^c-9773fe039744ab7747f09106931eccdf] becomes conclusive or, as the case may be, the decree absolute or order is made.
 
-(3A)[^key-81eee0536a660d3eae2175c8811349a6] The president of tribunals may, on application by the archbishop, if the person liable to a penalty under this section is a bishop, or the other archbishop, if the person liable is an archbishop, extend the period of two years referred to in subsection (3) above if, after consultation with the bishop or archbishop concerned, he is satisfied that the archbishop or the other archbishop, as the case may be, did not know of the existence of the conviction or, as the case may be, of the decree absolute or order.
+(3A)[^c-81eee0536a660d3eae2175c8811349a6] The president of tribunals may, on application by the archbishop, if the person liable to a penalty under this section is a bishop, or the other archbishop, if the person liable is an archbishop, extend the period of two years referred to in subsection (3) above if, after consultation with the bishop or archbishop concerned, he is satisfied that the archbishop or the other archbishop, as the case may be, did not know of the existence of the conviction or, as the case may be, of the decree absolute or order.
 
 (4) Where a penalty is to be imposed under this section it shall be imposed—
 
@@ -547,11 +547,11 @@ to review the decision and upon such a review the archbishop or the president of
 
 (7) In this section “**bishop**” means any diocesan bishop, any suffragan bishop and any other bishop.
 
-### 32. Consequences of penalties imposed under section 30 or 31[^key-55b0326c8c06484b9d177a8a23178ea1]
+### 32. Consequences of penalties imposed under section 30 or 31[^c-55b0326c8c06484b9d177a8a23178ea1]
 
 Where a penalty of removal from office or prohibition is imposed on any person pursuant to the provisions of section 30 or 31 above the penalty shall have effect subject to the provisions of sections 24 to 29 above, and the like consequences shall ensue in all respects as if such person had been found to have committed misconduct under this Measure and such a penalty had been imposed on him.
 
-### 33. Duty to disclose criminal convictions and arrests[^key-d8bddeef08d60b5ff72907237ffe11f7]
+### 33. Duty to disclose criminal convictions and arrests[^c-d8bddeef08d60b5ff72907237ffe11f7]
 
 (1) A person in Holy Orders who (whether in England or elsewhere) is convicted of an offence or is arrested on suspicion of committing an offence shall be under a duty, within the period of twenty-eight days following the conviction or arrest,—
 
@@ -563,7 +563,7 @@ of the conviction or arrest.
 
 (2) Failure to comply with the requirements of subsection (1) above shall be regarded as a failure to do an act required by the laws ecclesiastical for the purposes of section 8(1) above.
 
-### 34. Duty to disclose details of divorce and separation orders[^key-65857d2553cb19d5ee256ed5aede3fb4]
+### 34. Duty to disclose details of divorce and separation orders[^c-65857d2553cb19d5ee256ed5aede3fb4]
 
 (1) A person in Holy Orders in respect of whose marriage a decree nisi of divorce has been made absolute or an order of judicial separation has been made shall be under a duty, within the period of twenty-eight days following the decree or order—
 
@@ -576,7 +576,7 @@ of the conviction or arrest.
 
 (2) Failure to comply with the requirements of subsection (1) above shall be regarded as a failure to do an act required by the laws ecclesiastical for the purposes of section 8(1) above.
 
-### 34A. Duty to disclose inclusion in a barred list[^key-f8bf088a606d6b046eba624f6765f380]
+### 34A. Duty to disclose inclusion in a barred list[^c-f8bf088a606d6b046eba624f6765f380]
 
 (1) A person in Holy Orders who is included in a barred list shall be under a duty, within the period of twenty-eight days following his inclusion—
 
@@ -590,7 +590,7 @@ of the conviction or arrest.
 
 ## Miscellaneous
 
-### 35. Application of 1963 Measure’s provisions[^key-45fa3f4aacef684adf3ec7b23cc181ae]
+### 35. Application of 1963 Measure’s provisions[^c-45fa3f4aacef684adf3ec7b23cc181ae]
 
 (1) The following provisions of the 1963 Measure shall apply for the purpose of this Measure as they apply for the purposes of that Measure, with the adaptations specified in subsection (2) below—
 
@@ -620,14 +620,14 @@ of the conviction or arrest.
 - (f) for any reference to suspension or inhibition there shall be substituted a reference to prohibition;
 - (g) for any reference to a censure there shall be substituted a reference to a penalty.
 
-### 36. Suspension of priest or deacon[^key-56443e0aa29170e7f69d166fac0ed23d][^key-8a91fb3da6451a323ece67e61c5352c6]
+### 36. Suspension of priest or deacon[^c-56443e0aa29170e7f69d166fac0ed23d][^c-8a91fb3da6451a323ece67e61c5352c6]
 
 (1) Where—
 
 - (a) a complaint in writing is made under section 10(1) above against a priest or deacon holding any preferment in a diocese, or
-- (b) a priest or deacon holding any preferment in a diocese is arrested (whether in England or elsewhere)[^key-1cf584958ceb5929264466d9e781fa3f] on suspicion of committing a criminal offence, or[^key-141f6b67ea00a789daedf87f058bbc1c]
+- (b) a priest or deacon holding any preferment in a diocese is arrested (whether in England or elsewhere)[^c-1cf584958ceb5929264466d9e781fa3f] on suspicion of committing a criminal offence, or[^c-141f6b67ea00a789daedf87f058bbc1c]
 - (c) a priest or deacon holding any preferment in a diocese is convicted of any offence mentioned in section 30(1)(a) above, or
-- (d) a priest or deacon holding any preferment in a diocese is included in a barred list,or[^key-3618583129f5198d050c603ec53ed2e9]
+- (d) a priest or deacon holding any preferment in a diocese is included in a barred list,or[^c-3618583129f5198d050c603ec53ed2e9]
 - (e) the bishop of the diocese is satisfied, on the basis of information provided by a local authority or the police, that a priest or deacon holding any preferment in the diocese presents a significant risk of harm,
 
 the bishop of the diocese may, by notice in writing served on him, suspend him from exercising or performing without the leave of the bishop any right or duty of or incidental to his office:
@@ -636,7 +636,7 @@ Provided that, in the case of a complaint made as aforesaid, the priest or deaco
 
 (2) The bishop may at any time, by notice in writing served on the priest or deacon concerned, revoke a notice of suspension served under subsection (1) above.
 
-(2A)[^key-9841d47174a40c05db61b72d0f366fd6] For the purposes of subsection (1)(e), a person presents a significant risk of harm if there is a significant risk that the person may—
+(2A)[^c-9841d47174a40c05db61b72d0f366fd6] For the purposes of subsection (1)(e), a person presents a significant risk of harm if there is a significant risk that the person may—
 
 - (a) harm a child or vulnerable adult,
 - (b) cause a child or vulnerable adult to be harmed,
@@ -644,16 +644,16 @@ Provided that, in the case of a complaint made as aforesaid, the priest or deaco
 - (d) attempt to harm a child or vulnerable adult, or
 - (e) incite another person to harm a child or vulnerable adult.
 
-(2B)[^key-c30c48146b56942ec05429579a0f5f53] Before deciding whether to serve a notice under subsection (1)(e) or whether to revoke[^key-b098e528f1842d2f34cf2cfa254d892c] a notice served under subsection (1)(e), the bishop must consult—
+(2B)[^c-c30c48146b56942ec05429579a0f5f53] Before deciding whether to serve a notice under subsection (1)(e) or whether to revoke[^c-b098e528f1842d2f34cf2cfa254d892c] a notice served under subsection (1)(e), the bishop must consult—
 
 - (a) the diocesan safeguarding advisor, and
 - (b) such other persons as the bishop considers appropriate.
 
-(3) Where a notice of suspension is served under subsection (1)(a) or (b)[^key-246708bf4e5657e398979aa8f347b635] above and it has not been revoked under subsection (2) the suspension shall continue until the expiry of the period of three months following service of the notice or until the proceedings under this Measure or for the criminal offence are concluded, whichever occurs earlier, but if the proceedings are not concluded before the expiry of that period a further notice of suspension under subsection (1)(a) or (b) above may be served, and this subsection shall apply in relation to the further suspension as it applied to the earlier suspension or suspensions.
+(3) Where a notice of suspension is served under subsection (1)(a) or (b)[^c-246708bf4e5657e398979aa8f347b635] above and it has not been revoked under subsection (2) the suspension shall continue until the expiry of the period of three months following service of the notice or until the proceedings under this Measure or for the criminal offence are concluded, whichever occurs earlier, but if the proceedings are not concluded before the expiry of that period a further notice of suspension under subsection (1)(a) or (b) above may be served, and this subsection shall apply in relation to the further suspension as it applied to the earlier suspension or suspensions.
 
-(3A)[^key-6a033f10674d91af88df258748e9f08c] Where a notice of suspension is served under subsection (1)(c) or (d) above and it has not been revoked under subsection (2), the suspension shall continue until the expiry of the period of three months following service of the notice or until a penalty is imposed on the priest or deacon under section 30(1) above, whichever occurs earlier, save that a further notice of suspension under subsection (1)(c) or (d) may be served pending conclusion of any step taken under section 30(2) or (4), and this subsection shall apply in relation to the further suspension as it applied to the earlier suspension or suspensions.
+(3A)[^c-6a033f10674d91af88df258748e9f08c] Where a notice of suspension is served under subsection (1)(c) or (d) above and it has not been revoked under subsection (2), the suspension shall continue until the expiry of the period of three months following service of the notice or until a penalty is imposed on the priest or deacon under section 30(1) above, whichever occurs earlier, save that a further notice of suspension under subsection (1)(c) or (d) may be served pending conclusion of any step taken under section 30(2) or (4), and this subsection shall apply in relation to the further suspension as it applied to the earlier suspension or suspensions.
 
-(3B)[^key-c88e3b2feed658cd826eceb6b8c1b5f3] Where a notice of suspension is served under subsection (1)(e) and it has not been revoked under subsection (2), the suspension shall continue until the expiry of the period of three months following service of the notice; and a further notice of suspension under subsection (1)(e) may be served, and this subsection shall apply to the further suspension as it applied to the earlier suspension or suspensions.
+(3B)[^c-c88e3b2feed658cd826eceb6b8c1b5f3] Where a notice of suspension is served under subsection (1)(e) and it has not been revoked under subsection (2), the suspension shall continue until the expiry of the period of three months following service of the notice; and a further notice of suspension under subsection (1)(e) may be served, and this subsection shall apply to the further suspension as it applied to the earlier suspension or suspensions.
 
 (4) Where a notice of suspension is served under subsection (1) above the bishop may, after consultation with the churchwardens and with the incumbent or priest in charge concerned, make such arrangements as he thinks fit for the ministrations of the church or churches concerned while the suspension remains in force.
 
@@ -661,7 +661,7 @@ Provided that, in the case of a complaint made as aforesaid, the priest or deaco
 
 (6) A priest or deacon on whom a notice of suspension is served under subsection (1) above may appeal against the suspension to the president of tribunals and on any such appeal the president of tribunals may, within twenty-eight days following the lodging of the appeal, either confirm or revoke the suspension.
 
-### 36A. Suspension of priest or deacon pending determination of application to bring proceedings out of time[^key-418fa99d93cad65aefb4cb2f482accca]
+### 36A. Suspension of priest or deacon pending determination of application to bring proceedings out of time[^c-418fa99d93cad65aefb4cb2f482accca]
 
 (1) This section applies where a complainant applies to the president of tribunals for permission under section 9 for disciplinary proceedings against a priest or deacon holding any preferment in a diocese to be instituted after the expiry of the period provided for by that section.
 
@@ -669,7 +669,7 @@ Provided that, in the case of a complaint made as aforesaid, the priest or deaco
 
 (3) The bishop may not exercise the power under subsection (2) unless the bishop is satisfied that the suspension is necessary in all the circumstances of the case.
 
-(4) Before deciding whether to exercise[^key-79c19064a32aac76ea1fcd0c7ee30bee] the power under subsection (2), the bishop must refer the matter to the registrar of the diocese for advice on—
+(4) Before deciding whether to exercise[^c-79c19064a32aac76ea1fcd0c7ee30bee] the power under subsection (2), the bishop must refer the matter to the registrar of the diocese for advice on—
 
 - (a) whether or not the complainant has a proper interest in instituting the proceedings,
 - (b) whether or not there is sufficient substance in the complaint to justify proceeding with it in accordance with this Measure, and
@@ -704,14 +704,14 @@ Provided that, in the case of a complaint made as aforesaid, the priest or deaco
 
 (12) Subsections (4) to (6) of section 36 apply in relation to a notice of suspension under subsection (2) of this section as they apply in relation to a notice of suspension under subsection (1) of that section.
 
-### 37. Suspension of bishop or archbishop[^key-17ebf5d41b9f44a5e01c60d2dc61e924][^key-c432e2c6130c56e791dd06cddebec6ee]
+### 37. Suspension of bishop or archbishop[^c-17ebf5d41b9f44a5e01c60d2dc61e924][^c-c432e2c6130c56e791dd06cddebec6ee]
 
 (1) Where—
 
 - (a) a complaint in writing is made under section 10(1) above against a bishop or archbishop, or
-- (b) a bishop or archbishop is arrested (whether in England or elsewhere)[^key-00dd71a867d40858f22457c1655b5b34] on suspicion of committing a criminal offence, or[^key-7810dfc2bbc1dce463bfbfa1f75971dc]
+- (b) a bishop or archbishop is arrested (whether in England or elsewhere)[^c-00dd71a867d40858f22457c1655b5b34] on suspicion of committing a criminal offence, or[^c-7810dfc2bbc1dce463bfbfa1f75971dc]
 - (c) a bishop or archbishop is convicted of any offence mentioned in section 30(1)(a) above, or
-- (d) a bishop or archbishop is included in a barred list,or[^key-8cd5af6abbd4ee9db06cd3ac0f0ce6d6]
+- (d) a bishop or archbishop is included in a barred list,or[^c-8cd5af6abbd4ee9db06cd3ac0f0ce6d6]
 - (e) the archbishop of the province in which a bishop holds office or, in the case of an archbishop, the other archbishop, is satisfied, on the basis of information provided by a local authority or the police, that the bishop or archbishop presents a significant risk of harm,
 
 the archbishop of the province in which the bishop holds office or, in the case of an archbishop, the other archbishop, may with the consent of the two most senior diocesan bishops in that province or the province of the other archbishop, as the case may be, by notice in writing suspend him from exercising any right or duty of or incidental to his office:
@@ -720,7 +720,7 @@ Provided that, in the case of a complaint made as aforesaid, the bishop or archb
 
 (2) The archbishop may at any time, by notice in writing served on the bishop or archbishop concerned, revoke a notice of suspension served under subsection (1) above.
 
-(2A)[^key-38be33e4d8adec1c411fa780fec20f72] The reference in subsection (1)(e) to presenting a significant risk of harm is to be construed in accordance with section 36(2A).
+(2A)[^c-38be33e4d8adec1c411fa780fec20f72] The reference in subsection (1)(e) to presenting a significant risk of harm is to be construed in accordance with section 36(2A).
 
 (3) Where a notice of suspension is served under subsection (1) above the archbishop may, after consultation with the two most senior diocesan bishops of his province, make such arrangements as he thinks fit for the ministrations of the diocese or province concerned while the suspension remains in force.
 
@@ -728,9 +728,9 @@ Provided that, in the case of a complaint made as aforesaid, the bishop or archb
 
 (5) In this section “**bishop**” means any diocesan bishop, any suffragan bishop or any other bishop.
 
-(6)[^key-12ce6de2a253b4c397395cf46277484d] Subsections (2A) to (3B)[^key-0a251d4a1216fe4f677eb2d507ce0926] and (6) of section 36 above shall apply for the purposes of this section as they apply for the purposes of that section, but as if for any reference to a priest or deacon there were substituted a reference to the bishop or, as the case may be, the archbishop and as if, in subsection (3A), the references to sections 30(1) and 30(2) were references, respectively, to sections 31(1) and 31(2).
+(6)[^c-12ce6de2a253b4c397395cf46277484d] Subsections (2A) to (3B)[^c-0a251d4a1216fe4f677eb2d507ce0926] and (6) of section 36 above shall apply for the purposes of this section as they apply for the purposes of that section, but as if for any reference to a priest or deacon there were substituted a reference to the bishop or, as the case may be, the archbishop and as if, in subsection (3A), the references to sections 30(1) and 30(2) were references, respectively, to sections 31(1) and 31(2).
 
-### 37A. Suspension of bishop or archbishop pending determination of application to bring proceedings out of time[^key-fe9bc45ae8b6bf1c448fed3bef433411]
+### 37A. Suspension of bishop or archbishop pending determination of application to bring proceedings out of time[^c-fe9bc45ae8b6bf1c448fed3bef433411]
 
 (1) This section applies where a complainant applies to the president of tribunals for permission under section 9 for disciplinary proceedings against a bishop or archbishop to be instituted after the expiry of the period provided for by that section.
 
@@ -740,7 +740,7 @@ Provided that, in the case of a complaint made as aforesaid, the bishop or archb
 
 (4) The archbishop may not exercise the power under subsection (2) or (3) unless the archbishop is satisfied that the suspension is necessary in all the circumstances of the case.
 
-(5) Before deciding whether to exercise[^key-28ace448f56a32e86aa912b6bc99d21a] the power under subsection (2) or (3), the archbishop must refer the matter to the registrar of the province for advice on—
+(5) Before deciding whether to exercise[^c-28ace448f56a32e86aa912b6bc99d21a] the power under subsection (2) or (3), the archbishop must refer the matter to the registrar of the province for advice on—
 
 - (a) whether or not the complainant has a proper interest in instituting the proceedings,
 - (b) whether or not there is sufficient substance in the complaint to justify proceeding with it in accordance with this Measure, and
@@ -763,7 +763,7 @@ Provided that, in the case of a complaint made as aforesaid, the bishop or archb
 
 (10) In this section, “**bishop**” has the same meaning as in section 37.
 
-### 38. Archbishops' list[^key-6091c113aa33684686031aee8812a219]
+### 38. Archbishops' list[^c-6091c113aa33684686031aee8812a219]
 
 (1) Subject to the following provisions of this section, it shall be the duty of the archbishops acting jointly to compile and maintain a list of all clerks in Holy Orders—
 
@@ -771,24 +771,24 @@ Provided that, in the case of a complaint made as aforesaid, the bishop or archb
 - (b) who have been deposed from Holy Orders under the 1963 Measure; or
 - (c) who have executed a deed of relinquishment under the Clerical Disabilities Act 1870 (c. 31); or
 - (d) who have resigned preferment following the making of a complaint in writing against them under section 10(1) above or under the 1963 Measure; or
-- (dd)[^key-08e2ac3776279d8f9af08c1abadf6787] whose name is included in a barred list; or
+- (dd)[^c-08e2ac3776279d8f9af08c1abadf6787] whose name is included in a barred list; or
 - (e) who, in the opinion of the archbishops, have acted in a manner (not amounting to misconduct) which might affect their suitability for holding preferment.
 
-(2) Where the archbishops have[^key-2febaea07561d9d3214e1b39a3183d69] included a person falling within paragraphs (a) to (dd)[^key-421732f9d6413ccc9011e12bb7c50135] of subsection (1) above in the list the archbishop of the relevant province[^key-9c64a7ca2d92cf449f5a26236c0a72e7] shall take all reasonable steps to inform that person in writing that they have done so[^key-1ca0a820e238c291bd726605fee394c1] and of the particulars recorded in respect of that person. That person may request the president of tribunals to review the matter and upon such a review the president of tribunals shall direct that that person should continue to be included in the list or should be excluded therefrom and, in the former case, may also direct that the particulars relating to that person should be altered in such manner as may be specified.
+(2) Where the archbishops have[^c-2febaea07561d9d3214e1b39a3183d69] included a person falling within paragraphs (a) to (dd)[^c-421732f9d6413ccc9011e12bb7c50135] of subsection (1) above in the list the archbishop of the relevant province[^c-9c64a7ca2d92cf449f5a26236c0a72e7] shall take all reasonable steps to inform that person in writing that they have done so[^c-1ca0a820e238c291bd726605fee394c1] and of the particulars recorded in respect of that person. That person may request the president of tribunals to review the matter and upon such a review the president of tribunals shall direct that that person should continue to be included in the list or should be excluded therefrom and, in the former case, may also direct that the particulars relating to that person should be altered in such manner as may be specified.
 
-(3) Where the archbishops propose[^key-d8e8b0a8176e246dea9a8b2b75948938] to include a person falling within paragraph (e) of subsection (1) above in the list the archbishop of the relevant province shall take all reasonable steps to inform that person in writing of the proposal and the particulars to be recorded, together with an invitation to send comments or representations in writing to the archbishop within the period of twenty-one days. On the expiry of that period the archbishops shall decide whether or not to include that person in the list and the archbishop of the relevant province[^key-ef640f8f31959551cab576e91fca3451] shall inform that person in writing of their decision. If the decision is to include that person in the list that person may request the president of tribunals to review the decision and upon such a review the president of tribunals shall uphold or reverse the decision.
+(3) Where the archbishops propose[^c-d8e8b0a8176e246dea9a8b2b75948938] to include a person falling within paragraph (e) of subsection (1) above in the list the archbishop of the relevant province shall take all reasonable steps to inform that person in writing of the proposal and the particulars to be recorded, together with an invitation to send comments or representations in writing to the archbishop within the period of twenty-one days. On the expiry of that period the archbishops shall decide whether or not to include that person in the list and the archbishop of the relevant province[^c-ef640f8f31959551cab576e91fca3451] shall inform that person in writing of their decision. If the decision is to include that person in the list that person may request the president of tribunals to review the decision and upon such a review the president of tribunals shall uphold or reverse the decision.
 
-(4) It shall be the duty of the archbishops[^key-c5ef12523613b13413a0b761740978b9] to review the inclusion of a person in the list, in such manner as may be prescribed, on the expiry of the period of five years following the inclusion and also if requested to do so by that person or by the bishop of a diocese:
+(4) It shall be the duty of the archbishops[^c-c5ef12523613b13413a0b761740978b9] to review the inclusion of a person in the list, in such manner as may be prescribed, on the expiry of the period of five years following the inclusion and also if requested to do so by that person or by the bishop of a diocese:
 
 Provided that that person shall not be entitled to make a request under this subsection within the said period of five years nor within the period of five years following any previous review.
 
-### 39. Code of Practice[^key-d5ba1286318b9e9877fd7ab0f4f7fb8e]
+### 39. Code of Practice[^c-d5ba1286318b9e9877fd7ab0f4f7fb8e]
 
 (1) It shall be the duty of the Clergy Discipline Commission to formulate guidance for the purposes of the Measure generally and, with the approval of the Dean of the Arches and Auditor, to promulgate the guidance in a Code of Practice.
 
 (2) The Clergy Discipline Commission may at any time amend or replace a Code of Practice issued under subsection (1) above by a further Code of Practice issued in accordance with the provisions of this section.
 
-(3)[^key-45745d3cc90866f1a3958190d7a9603f] A Code of Practice shall be laid in draft before the General Synod and, if it is approved by the General Synod without amendment, the Code shall be issued by the Clergy Discipline Commission.
+(3)[^c-45745d3cc90866f1a3958190d7a9603f] A Code of Practice shall be laid in draft before the General Synod and, if it is approved by the General Synod without amendment, the Code shall be issued by the Clergy Discipline Commission.
 
 (3A) If the Code has been approved by the General Synod with amendment, it shall be referred to the Clergy Discipline Commission.
 
@@ -806,7 +806,7 @@ and the Code shall not come into force until it has been approved by the General
 
 the Code shall, for the purposes of subsection (3) above, be deemed to have been approved by the General Synod without amendment.
 
-### 40. When convictions etc. are to be deemed conclusive[^key-d7b6e13245e2fba5debb19a0b6a63f04]
+### 40. When convictions etc. are to be deemed conclusive[^c-d7b6e13245e2fba5debb19a0b6a63f04]
 
 (1) Proceedings under this Measure and a conviction by a secular court shall become conclusive for the purposes of this Measure—
 
@@ -818,11 +818,11 @@ the Code shall, for the purposes of subsection (3) above, be deemed to have been
 
 (3) In the event of any such conviction by a secular court as makes a clerk in Holy Orders subject to removal from any preferment, or renders him liable to proceedings under this Measure the court shall cause the prescribed certificate of the conviction to be sent to the bishop of the diocese in which the court sits, and such certificate shall be preserved in the registry of the diocese, or of any other diocese to which it may be sent by the direction of the bishop.
 
-### 41. Compensation[^key-36019aad467c81e9b297e5e314247791]
+### 41. Compensation[^c-36019aad467c81e9b297e5e314247791]
 
-Any person in respect of whom a penalty of removal from office or revocation of a licence to serve in a diocese is imposed under this Measure and subsequently revoked on appeal shall be entitled to compensation, and the provisions of Schedule 4 to the Mission and Pastoral Measure 2011[^key-f1a5d924d1727111ab4b95888c6f2747] shall apply in relation to such a person as they apply to an incumbent of a benefice deemed to be vacated by virtue of section 39 of that Measure[^key-1a69e64a03dd6cee1d13c6d1e0e44a94].
+Any person in respect of whom a penalty of removal from office or revocation of a licence to serve in a diocese is imposed under this Measure and subsequently revoked on appeal shall be entitled to compensation, and the provisions of Schedule 4 to the Mission and Pastoral Measure 2011[^c-f1a5d924d1727111ab4b95888c6f2747] shall apply in relation to such a person as they apply to an incumbent of a benefice deemed to be vacated by virtue of section 39 of that Measure[^c-1a69e64a03dd6cee1d13c6d1e0e44a94].
 
-### 42. Application of Measure in special cases[^key-632872ff292374a0d172775609ad2c71]
+### 42. Application of Measure in special cases[^c-632872ff292374a0d172775609ad2c71]
 
 (1) In the application of this Measure to the following—
 
@@ -836,7 +836,7 @@ it shall be read with the following adaptations.
 
 (2) In the case of a clerk in Holy Orders serving in a cathedral church, disciplinary proceedings may be instituted only by—
 
-- (a) a person nominated by the Chapter of the cathedral[^key-f094072c2dc239ca221fd7b144acfdb9]; or
+- (a) a person nominated by the Chapter of the cathedral[^c-f094072c2dc239ca221fd7b144acfdb9]; or
 - (b) any other person, if the diocesan bishop concerned determines that that person has a proper interest in making the complaint.
 
 (3) In the case of a chaplain of a prison, hospital, university, school or other institution, disciplinary proceedings may be instituted only by a person duly authorised by the diocesan bishop concerned to institute such proceedings.
@@ -856,30 +856,30 @@ it shall be read with the following adaptations.
 - (a) disciplinary proceedings may be instituted only by a person duly authorised by the archbishop of Canterbury to institute such proceedings;
 - (b) the complaint shall be laid before that archbishop and references to the diocesan bishop concerned shall be construed accordingly.
 
-### 43. Interpretation[^key-7a2cb0b9bba0fb94c7b096167b9406aa]
+### 43. Interpretation[^c-7a2cb0b9bba0fb94c7b096167b9406aa]
 
 (1) In this Measure, unless the context otherwise requires–
 
 - “**the 1963 Measure**” means the Ecclesiastical Jurisdiction Measure 1963 (1963 No. 1);
-- “[^key-82798ce3395555da8db64e8a5bb928b8]**barred list**” has the meaning assigned to it by section 30(1A) above;
-- “[^key-b69fedace46e224d9c580108bb1ef894]**child**” means a person aged under 18;
+- “[^c-82798ce3395555da8db64e8a5bb928b8]**barred list**” has the meaning assigned to it by section 30(1A) above;
+- “[^c-b69fedace46e224d9c580108bb1ef894]**child**” means a person aged under 18;
 - “**the Commission**” means the Clergy Discipline Commission;
 - “**designated officer**” means an officer of the legal office of the National Institutions of the Church of England designated by the Archbishops' Council for the purposes of this Measure;
 - “**diocese**” means a diocese in the province of Canterbury or a diocese in the province of York and “**diocesan**” shall be construed accordingly;
 - “**diocesan safeguarding advisor**” means the person appointed as such for the diocese in question in accordance with provision made by Canon;
 - “**disciplinary tribunal**” means a bishop’s disciplinary tribunal constituted in accordance with section 22 above;
-- “[^key-23950bfd16eeabd2077de8a9a65ea8d4] **high judicial office** ” means such office within the meaning of Part 3 of the Constitutional Reform Act 2005 or membership of the Judicial Committee of the Privy Council;
+- “[^c-23950bfd16eeabd2077de8a9a65ea8d4] **high judicial office** ” means such office within the meaning of Part 3 of the Constitutional Reform Act 2005 or membership of the Judicial Committee of the Privy Council;
 - “**limited prohibition**” has the meaning assigned to it by section 24(1)(b) above;
 - “**misconduct**” means any act or omission referred to in section 8(1) above.
 - “**preferment**” includes an archbishopric, a bishopric, archdeaconry, dignity or office in a cathedral or collegiate church, and a benefice, and every curacy, lectureship, readership, chaplaincy, office or place which requires the discharge of any spiritual duty;
-- “**prescribed**” means prescribed by rules made under section 83 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^key-00655c99f1e6444f1cd0ac5d19640669]);
+- “**prescribed**” means prescribed by rules made under section 83 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^c-00655c99f1e6444f1cd0ac5d19640669]);
 - “**prohibition for life**” has the meaning assigned to it by section 24(1)(a) above and “**prohibited for life**” shall be construed accordingly;
 - “**relevant province**” means, according to the context, the province of Canterbury or the Province of York;
 - “**resident**” means ordinarily resident;
 - “**Vicar-General’s court**” means the Vicar-General’s court constituted in accordance with section 23 above.
 - “**vulnerable adult**” has the same meaning as in the Safeguarding and Clergy Discipline Measure 2016.
 
-(1A)[^key-60cf26b210122b85ccfcff131bd46209] A reference in this Measure to being arrested for an offence includes a reference to being charged with an offence without being arrested.
+(1A)[^c-60cf26b210122b85ccfcff131bd46209] A reference in this Measure to being arrested for an offence includes a reference to being charged with an offence without being arrested.
 
 (2) For the purposes of this Measure an extra-diocesan place (including any place exempt or peculiar other than a Royal Peculiar) which is surrounded by one diocese shall be deemed to be situate within that diocese, and an extra-diocesan place which is surrounded by two or more dioceses shall be deemed to be situate within such one of them as the archbishop of the relevant province may direct.
 
@@ -887,28 +887,28 @@ it shall be read with the following adaptations.
 
 ### 44. Amendment of Measures
 
-(1)[^key-604fab316ce693d8ee455a45a5392f1d][^key-b32ed72bb4fccc4f106354f95c6284bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-604fab316ce693d8ee455a45a5392f1d][^c-b32ed72bb4fccc4f106354f95c6284bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-b32ed72bb4fccc4f106354f95c6284bb] The 1963 Measure shall have effect subject to the amendments specified in Schedule 1 to this Measure.
+(2)[^c-b32ed72bb4fccc4f106354f95c6284bb] The 1963 Measure shall have effect subject to the amendments specified in Schedule 1 to this Measure.
 
-(3)[^key-991035c51c3c91387dafb29d40c1483b][^key-266fa65eee0893ba6cf7850a221b0645] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-991035c51c3c91387dafb29d40c1483b][^c-266fa65eee0893ba6cf7850a221b0645] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-991035c51c3c91387dafb29d40c1483b][^key-266fa65eee0893ba6cf7850a221b0645] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-991035c51c3c91387dafb29d40c1483b][^c-266fa65eee0893ba6cf7850a221b0645] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-b32ed72bb4fccc4f106354f95c6284bb] In the first column of the table in Schedule 1 to the Church of England (Legal Aid) Measure 1994 (1994 No. 3)—
+(5)[^c-b32ed72bb4fccc4f106354f95c6284bb] In the first column of the table in Schedule 1 to the Church of England (Legal Aid) Measure 1994 (1994 No. 3)—
 
 - (a) in item 1 after the words “before any” there shall be inserted the words “ disciplinary tribunal ”, and at the end there shall be inserted the words “ or of misconduct under the Clergy Discipline Measure 2003 ”;
 - (b) in item 3 after the word “committee” there shall be inserted the words “ and including also that Schedule as applied by section 41 of the Clergy Discipline Measure 2003 ”.
 
-### 45. Rules[^key-e544e65917976a44e62fcdd0315641b5]
+### 45. Rules[^c-e544e65917976a44e62fcdd0315641b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 46. Repeals[^key-81626119702e29de647b06376896d450]
+### 46. Repeals[^c-81626119702e29de647b06376896d450]
 
 The enactments specified in Schedule 2 to this Measure are hereby repealed to the extent specified in the second column of the Schedule .
 
-### 47. Transitional provisions[^key-4fe344f4264cf29cc81bd4c79e710676]
+### 47. Transitional provisions[^c-4fe344f4264cf29cc81bd4c79e710676]
 
 (1) Nothing in this Measure shall affect any proceedings instituted under Part III of the 1963 Measure or declaration made under Part IX thereof before the date on which section 8 above comes into operation, and the provisions of that Measure shall continue to apply in relation to any such proceedings or declaration as if this Measure had not been passed.
 
@@ -920,7 +920,7 @@ Provided that the provisions of the 1963 Measure shall continue to apply in rela
 
 (4) Sections 30 and 31 above shall apply in relation to sentences of imprisonment passed before, as well as after, the date on which those sections come into operation.
 
-### 48. Citation, commencement and extent[^key-25c37a24bf78a29ff2c14c95a5aa6d04]
+### 48. Citation, commencement and extent[^c-25c37a24bf78a29ff2c14c95a5aa6d04]
 
 (1) This Measure may be cited as the Clergy Discipline Measure 2003.
 
@@ -934,18 +934,18 @@ SCHEDULES
 
 Section 44(2).
 
-**1.**[^key-735d39de920c80e29cd5e61b6065cff8] The Ecclesiastical Jurisdiction Measure 1963 (1963 No. 1) shall be amended as follows.
+**1.**[^c-735d39de920c80e29cd5e61b6065cff8] The Ecclesiastical Jurisdiction Measure 1963 (1963 No. 1) shall be amended as follows.
 
-**2.**[^key-c099859316dd6893132c25dbefaa60d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c099859316dd6893132c25dbefaa60d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ab9c7a164b13a4ec031efeb320c9056e] In section 3—
+**3.**[^c-ab9c7a164b13a4ec031efeb320c9056e] In section 3—
 
 - (a) in subsection (2)(b) for the words “prolocutor of the Lower House of the Convocation” there shall be substituted the words “ president of tribunals from among the persons serving on the provincial panel ”;
 - (b) in subsection (2)(c) for the words from “Chairman” to “appropriate” there shall be substituted the words “ president of tribunals from among the persons serving on the provincial panel of the relevant province ”;
 - (c) in subsection (4) for the words from “Chairman” to “Courts” there shall be substituted the words “ president of tribunals appoints a person to be a judge of either of the said Courts under paragraph (c) of subsection (2) of this section ”;
 - (d) in subsection (5)(b)(ii) for the words from “Upper” to “resolves” there shall be substituted the words “ president of tribunals determines ”.
 
-**4.**[^key-e5038e2441eb99a9653b101e509689af] In section 7—
+**4.**[^c-e5038e2441eb99a9653b101e509689af] In section 7—
 
 - (a) in subsection (1A) after the word “York” there shall be inserted the words “ (including that Court as constituted in accordance with the Clergy Discipline Measure 2003 ”);
 - (b) after subsection (1A) there shall be inserted the following subsection—
@@ -958,35 +958,35 @@ Section 44(2).
   > - (a) in a disciplinary case, at the instance of any party to the proceedings on a question of law and the defendant on a question of fact;
   > - (b) in any other case, at the instance of any party to the proceedings but only with the leave of the consistory court or the Vicar-General’s Court as the case may be or, if leave is refused by that court, of the Dean of the Arches and Auditor.
 
-**5.**[^key-8de667523ddcb46f370aba766dee91b1] In section 12—
+**5.**[^c-8de667523ddcb46f370aba766dee91b1] In section 12—
 
 - (a) after the words “consistory court” there shall be inserted the words “ , Vicar-General’s court or disciplinary tribunal ”;
 - (b) for the words “or officers of any such court” there shall be substituted the words “ , members or officers of any such court or tribunal ”.
 
-**6.**[^key-fb173fa4b3999ad4e2f062aaf2d22088] In section 47—
+**6.**[^c-fb173fa4b3999ad4e2f062aaf2d22088] In section 47—
 
 - (a) in subsection (1) for the words from “shall” to “in any other case,” there shall be substituted the words “ under this Measure shall be heard and disposed of ”;
 - (b) in subsection (2) for the words from the beginning to “proceedings” there shall be substituted the words “ Proceedings under this Measure ”.
 
-**7.**[^key-5d2ae482c4693488a327f49ae2a3345e] In section 49(3) for the words from the beginning to “ceremonial” there shall be substituted the words “ In proceedings under this Measure ”.
+**7.**[^c-5d2ae482c4693488a327f49ae2a3345e] In section 49(3) for the words from the beginning to “ceremonial” there shall be substituted the words “ In proceedings under this Measure ”.
 
-**8.**[^key-7b905ebec7565335907a370fd2310f6e] In section 50 after the word “pronounced” there shall be inserted the words “ in pursuance of proceedings under this Measure ”.
+**8.**[^c-7b905ebec7565335907a370fd2310f6e] In section 50 after the word “pronounced” there shall be inserted the words “ in pursuance of proceedings under this Measure ”.
 
-**9.**[^key-2b3788a2dc6ae1178e2a8c05d6d7dbc8] In section 52 after the word “deposed” there shall be inserted the words “ under this Measure ”.
+**9.**[^c-2b3788a2dc6ae1178e2a8c05d6d7dbc8] In section 52 after the word “deposed” there shall be inserted the words “ under this Measure ”.
 
-**10.**[^key-c99729c945279664bebf80acbf683406] In section 66(1) at the end there shall be inserted the words—
+**10.**[^c-c99729c945279664bebf80acbf683406] In section 66(1) at the end there shall be inserted the words—
 
 > “**disciplinary tribunal**”, “**president of tribunals**” and “**provincial panel**” have the same meanings as in the Clergy Discipline Measure 2003.
 
-**11.**[^key-7a5bb511b2f8e8666f6905b5472518d3] In section 67 the words from “shall be determined in accordance” to “between each other” shall be omitted.
+**11.**[^c-7a5bb511b2f8e8666f6905b5472518d3] In section 67 the words from “shall be determined in accordance” to “between each other” shall be omitted.
 
-**12.**[^key-12acbef0c94d1a5dc84b7f33244c964f] In section 69 for the words “Parts IV, V and VI” there shall be substituted the words “ Part VI ”.
+**12.**[^c-12acbef0c94d1a5dc84b7f33244c964f] In section 69 for the words “Parts IV, V and VI” there shall be substituted the words “ Part VI ”.
 
-**13.**[^key-3a3a378de0bf258422a74bbef52ffc92] In section 74(1) after the words “this Measure” there shall be inserted the words “ for a specified time ”.
+**13.**[^c-3a3a378de0bf258422a74bbef52ffc92] In section 74(1) after the words “this Measure” there shall be inserted the words “ for a specified time ”.
 
-**14.**[^key-7e033bb1c72301feeceb7a01409ceb74] In section 76(1) after the words “this Measure” there shall be inserted the words “ for a specified time ”.
+**14.**[^c-7e033bb1c72301feeceb7a01409ceb74] In section 76(1) after the words “this Measure” there shall be inserted the words “ for a specified time ”.
 
-## SCHEDULE 2 — Repeals[^key-e45b52f897742f05f1e809bd383bfbc7]
+## SCHEDULE 2 — Repeals[^c-e45b52f897742f05f1e809bd383bfbc7]
 
 Section 46.
 
@@ -996,320 +996,320 @@ Section 46.
 
 ## Annotations
 
-[^key-64974280ccd1724dcfeea7b1be52c5d0]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2003/3/section/1) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-64974280ccd1724dcfeea7b1be52c5d0]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2003/3/section/1) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-32faa6a0c40bc28722354a8a6dfbd708]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2003/3/section/2) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-32faa6a0c40bc28722354a8a6dfbd708]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2003/3/section/2) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-84b10b07e44ec8e809b14669cf4c058d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2003/3/section/3) in force at 1.10.2003 by [S.I. 2003/3](https://www.legislation.gov.uk/ukci/2003/3), Instrument made by Archbishops
+[^c-84b10b07e44ec8e809b14669cf4c058d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2003/3/section/3) in force at 1.10.2003 by [S.I. 2003/3](https://www.legislation.gov.uk/ukci/2003/3), Instrument made by Archbishops
 
-[^key-4feeee6fc42bbf7e8b9f841359e71af4]: Commencement: S. 4 in force at 8.9.2005 by [S.I. 2005/5](https://www.legislation.gov.uk/ukci/2005/5), Instrument made by Archbishops
+[^c-4feeee6fc42bbf7e8b9f841359e71af4]: Commencement: S. 4 in force at 8.9.2005 by [S.I. 2005/5](https://www.legislation.gov.uk/ukci/2005/5), Instrument made by Archbishops
 
-[^key-fe786eb2ab984ff92e76d5142e0767ad]: Textual amendment: Words in s. 4(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-fe786eb2ab984ff92e76d5142e0767ad]: Textual amendment: Words in s. 4(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-104169f072b52ac592be1efde071ad7f]: Textual amendment: S. 4(4) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/3); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-104169f072b52ac592be1efde071ad7f]: Textual amendment: S. 4(4) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/3); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-16738f44b3b974eee843678c32f91258]: Commencement: S. 5 in force at 8.9.2005 by [S.I. 2005/5](https://www.legislation.gov.uk/ukci/2005/5), Instrument made by Archbishops
+[^c-16738f44b3b974eee843678c32f91258]: Commencement: S. 5 in force at 8.9.2005 by [S.I. 2005/5](https://www.legislation.gov.uk/ukci/2005/5), Instrument made by Archbishops
 
-[^key-13ffcea96ec7163f9f727ba9a6617d57]: Textual amendment: Words in s. 5(3) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/12) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-13ffcea96ec7163f9f727ba9a6617d57]: Textual amendment: Words in s. 5(3) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/12) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-c417b2acaa0c1c950a6bd25dd885b7b0]: Textual amendment: Words in s. 5(7) inserted (16.5.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 9(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/9/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
+[^c-c417b2acaa0c1c950a6bd25dd885b7b0]: Textual amendment: Words in s. 5(7) inserted (16.5.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 9(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/9/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
 
-[^key-e17494a51c3db9a8b7b570ede402b586]: Textual amendment: S. 5(8) inserted (16.5.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 9(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/9/2), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
+[^c-e17494a51c3db9a8b7b570ede402b586]: Textual amendment: S. 5(8) inserted (16.5.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 9(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/9/2), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
 
-[^key-7cfbcda5da67835fb23f8d40d2c3e5ac]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2003/3/section/6) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-7cfbcda5da67835fb23f8d40d2c3e5ac]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2003/3/section/6) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-7f15d7cc8d04d513dafbac96321dec12]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2003/3/section/7) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-7f15d7cc8d04d513dafbac96321dec12]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2003/3/section/7) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-10569efea6348aeb2da38155f4ae5e05]: Commencement: S. 8 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-10569efea6348aeb2da38155f4ae5e05]: Commencement: S. 8 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-b457e2e5eea7194460236bcb9f2c61b7]: Textual amendment: [S. 8(1)(aa)](https://www.legislation.gov.uk/ukcm/2003/3/section/8/1/aa) substituted (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(4)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/4), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2022/118/article/3/2))
+[^c-b457e2e5eea7194460236bcb9f2c61b7]: Textual amendment: [S. 8(1)(aa)](https://www.legislation.gov.uk/ukcm/2003/3/section/8/1/aa) substituted (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(4)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/4), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2022/118/article/3/2))
 
-[^key-04150330f6d9fb8d20cb9b9f3c8195e1]: Textual amendment: Word in [s. 8(1)(b)](https://www.legislation.gov.uk/ukcm/2003/3/section/8/1/b) inserted (1.10.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/5/3/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/938](https://www.legislation.gov.uk/uksi/2016/938), [art. 2](https://www.legislation.gov.uk/uksi/2016/938/article/2)
+[^c-04150330f6d9fb8d20cb9b9f3c8195e1]: Textual amendment: Word in [s. 8(1)(b)](https://www.legislation.gov.uk/ukcm/2003/3/section/8/1/b) inserted (1.10.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/5/3/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/938](https://www.legislation.gov.uk/uksi/2016/938), [art. 2](https://www.legislation.gov.uk/uksi/2016/938/article/2)
 
-[^key-451e3f3bc6aea54b0c0eb321e78a3cfe]: Textual amendment: Words in s. 8(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/1/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/1/4)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-451e3f3bc6aea54b0c0eb321e78a3cfe]: Textual amendment: Words in s. 8(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/1/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/1/4)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-711d6cf77bc6da0dc98abb4770ec0f58]: Textual amendment: S. 8(4)-(10) added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 1(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/1/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/1/4)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-711d6cf77bc6da0dc98abb4770ec0f58]: Textual amendment: S. 8(4)-(10) added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 1(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/1/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/1/4)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-00b41c116a13672f486c5ee8d23d5bfc]: Commencement: S. 9 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-00b41c116a13672f486c5ee8d23d5bfc]: Commencement: S. 9 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-be674fa6c5d4deb4da7a696b40724f00]: Textual amendment: S. 9(1): s. 9 renumbered as s. 9(1) (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/7/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3) (with [s. 7(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/7/2)); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-be674fa6c5d4deb4da7a696b40724f00]: Textual amendment: S. 9(1): s. 9 renumbered as s. 9(1) (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/7/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3) (with [s. 7(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/7/2)); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-050c51acf1497051c37142c01c0f52e3]: Textual amendment: S. 9(2)(3)(4) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/7/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3) (with [s. 7(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/7/2)); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-050c51acf1497051c37142c01c0f52e3]: Textual amendment: S. 9(2)(3)(4) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/7/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3) (with [s. 7(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/7/2)); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-76fbdb03e169651d34d1e1225038308c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2003/3/section/10) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-76fbdb03e169651d34d1e1225038308c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2003/3/section/10) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-a672f0ad8a6491730e069a9f882abe35]: Commencement: S. 11 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-a672f0ad8a6491730e069a9f882abe35]: Commencement: S. 11 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-e8f797f3138e4fdcb7ed17f11e1dba24]: Textual amendment: S. 11(4)(a) and words inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(1)(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/1/a), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-e8f797f3138e4fdcb7ed17f11e1dba24]: Textual amendment: S. 11(4)(a) and words inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(1)(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/1/a), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-494e06312700479503f4ba9915a3d203]: Textual amendment: S. 11(4)(b) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(1)(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/1/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-494e06312700479503f4ba9915a3d203]: Textual amendment: S. 11(4)(b) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(1)(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/1/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-f949e06284b2579f7e61dbc2c04d529c]: Textual amendment: S. 11(4A) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/2), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-f949e06284b2579f7e61dbc2c04d529c]: Textual amendment: S. 11(4A) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/2), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-0b661e30fc51fbf5e7dee1dce102749d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2003/3/section/12) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-0b661e30fc51fbf5e7dee1dce102749d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2003/3/section/12) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-881c321029bf7ffa43d0662d41b4355d]: Commencement: S. 13 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-881c321029bf7ffa43d0662d41b4355d]: Commencement: S. 13 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-0f06c4e3224935cf607d350084246218]: Textual amendment: S. 13(3) words renumbered as s. 13(3)(a) (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(3)(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/3/a), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-0f06c4e3224935cf607d350084246218]: Textual amendment: S. 13(3) words renumbered as s. 13(3)(a) (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(3)(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/3/a), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-cc4f0c0be83b2567365954fc156ad3fc]: Textual amendment: S. 13(3)(b) and word inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(3)(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/3/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-cc4f0c0be83b2567365954fc156ad3fc]: Textual amendment: S. 13(3)(b) and word inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(3)(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/3/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-8a148ca00d1540edb15d2a86a0da5722]: Textual amendment: S. 13(4) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(4)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/4), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-8a148ca00d1540edb15d2a86a0da5722]: Textual amendment: S. 13(4) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 10(4)](https://www.legislation.gov.uk/ukcm/2016/1/section/10/4), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-690ed66a478601505e636c334d94c3a6]: Commencement: [S. 14](https://www.legislation.gov.uk/ukcm/2003/3/section/14) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-690ed66a478601505e636c334d94c3a6]: Commencement: [S. 14](https://www.legislation.gov.uk/ukcm/2003/3/section/14) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-87a72242d49e9f13ac62e640ad7b4ec5]: Commencement: [S. 15](https://www.legislation.gov.uk/ukcm/2003/3/section/15) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-87a72242d49e9f13ac62e640ad7b4ec5]: Commencement: [S. 15](https://www.legislation.gov.uk/ukcm/2003/3/section/15) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-c2ebe5b933306155f383f71ca8d1e36f]: Commencement: S. 16 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-c2ebe5b933306155f383f71ca8d1e36f]: Commencement: S. 16 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-497521fdd2b785ed28089f2c6d5ae6bc]: Modification: S. 16 modified (1.1.2006) by [Clergy Discipline Rules 2005 (S.I. 2005/2022)](https://www.legislation.gov.uk/uksi/2005/2022), [rule 27(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/27/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/27/2)[107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-497521fdd2b785ed28089f2c6d5ae6bc]: Modification: S. 16 modified (1.1.2006) by [Clergy Discipline Rules 2005 (S.I. 2005/2022)](https://www.legislation.gov.uk/uksi/2005/2022), [rule 27(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/27/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/27/2)[107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-132e86fb4866cc327bfe08cfa9c5e869]: Textual amendment: [S. 16(3A)](https://www.legislation.gov.uk/ukcm/2003/3/section/16/3A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 2(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/2/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-132e86fb4866cc327bfe08cfa9c5e869]: Textual amendment: [S. 16(3A)](https://www.legislation.gov.uk/ukcm/2003/3/section/16/3A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 2(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/2/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-eb3b13725737ba4a979e43f27ef297b9]: Commencement: [S. 17](https://www.legislation.gov.uk/ukcm/2003/3/section/17) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-eb3b13725737ba4a979e43f27ef297b9]: Commencement: [S. 17](https://www.legislation.gov.uk/ukcm/2003/3/section/17) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-26b24a17cc76fde0d06600ceab125167]: Commencement: [S. 18](https://www.legislation.gov.uk/ukcm/2003/3/section/18) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-26b24a17cc76fde0d06600ceab125167]: Commencement: [S. 18](https://www.legislation.gov.uk/ukcm/2003/3/section/18) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-daaf076ff0523c2da68cac95894ee216]: Commencement: [S. 19](https://www.legislation.gov.uk/ukcm/2003/3/section/19) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-daaf076ff0523c2da68cac95894ee216]: Commencement: [S. 19](https://www.legislation.gov.uk/ukcm/2003/3/section/19) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-7e70b06f09bea79c7e1db5d28fc3b868]: Commencement: S. 20 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-7e70b06f09bea79c7e1db5d28fc3b868]: Commencement: S. 20 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-2964cc5a6a02affb1a87a3712784404e]: Textual amendment: Words in s. 20(1) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 3(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 3(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/5)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-2964cc5a6a02affb1a87a3712784404e]: Textual amendment: Words in s. 20(1) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 3(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 3(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/5)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-a94bb6531eb230c918ad2a3fd9524812]: Textual amendment: S. 20(1A)-(1C) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 3(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 3(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/5)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-a94bb6531eb230c918ad2a3fd9524812]: Textual amendment: S. 20(1A)-(1C) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 3(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 3(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/5)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-f713063b54fa24d77ffd2e27cf64fe25]: Textual amendment: [S. 20(1B)(a)](https://www.legislation.gov.uk/ukcm/2003/3/section/20/1B/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 11(3)(a)](https://www.legislation.gov.uk/ukcm/2024/1/section/11/3/a), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2024/631/article/3/2))
+[^c-f713063b54fa24d77ffd2e27cf64fe25]: Textual amendment: [S. 20(1B)(a)](https://www.legislation.gov.uk/ukcm/2003/3/section/20/1B/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 11(3)(a)](https://www.legislation.gov.uk/ukcm/2024/1/section/11/3/a), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2024/631/article/3/2))
 
-[^key-6ba647038529285f01a6f04496d83e01]: Textual amendment: Words in [s. 20(1B)(c)](https://www.legislation.gov.uk/ukcm/2003/3/section/20/1B/c) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 11(3)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/11/3/b), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2024/631/article/3/2))
+[^c-6ba647038529285f01a6f04496d83e01]: Textual amendment: Words in [s. 20(1B)(c)](https://www.legislation.gov.uk/ukcm/2003/3/section/20/1B/c) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 11(3)(b)](https://www.legislation.gov.uk/ukcm/2024/1/section/11/3/b), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2024/631/article/3/2))
 
-[^key-8310eb5e6483192d50a36ba69edaedcc]: Modification: [S. 20(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/20/2)[(3)](https://www.legislation.gov.uk/ukcm/2003/3/section/20/3) applied by 1963 No. 1, s. 3(2)(b) (as substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/6/3) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2))
+[^c-8310eb5e6483192d50a36ba69edaedcc]: Modification: [S. 20(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/20/2)[(3)](https://www.legislation.gov.uk/ukcm/2003/3/section/20/3) applied by 1963 No. 1, s. 3(2)(b) (as substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/1/paragraph/6/3) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2))
 
-[^key-da5c972dddb90237489130d071fd6c9d]: Textual amendment: S. 20(2)-(5) substituted for s. 20(2) (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 3(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 3(6)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/6)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-da5c972dddb90237489130d071fd6c9d]: Textual amendment: S. 20(2)-(5) substituted for s. 20(2) (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 3(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 3(6)](https://www.legislation.gov.uk/ukcm/2013/2/section/3/6)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-3bb9cd3184941842f57ad397fc5078c3]: Commencement: S. 21 in force at 8.9.2005 by [S.I. 2005/5](https://www.legislation.gov.uk/ukci/2005/5), Instrument made by Archbishops
+[^c-3bb9cd3184941842f57ad397fc5078c3]: Commencement: S. 21 in force at 8.9.2005 by [S.I. 2005/5](https://www.legislation.gov.uk/ukci/2005/5), Instrument made by Archbishops
 
-[^key-279febd8aa14aaead815db8596147236]: Textual amendment: [S. 21(2)(c)(i)(ii)](https://www.legislation.gov.uk/ukcm/2003/3/section/21/2/c/i/ii) and word substituted for words (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 9(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/9/3), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2024/631/article/3/1))
+[^c-279febd8aa14aaead815db8596147236]: Textual amendment: [S. 21(2)(c)(i)(ii)](https://www.legislation.gov.uk/ukcm/2003/3/section/21/2/c/i/ii) and word substituted for words (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 9(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/9/3), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2024/631/article/3/1))
 
-[^key-d50b3927eaa862b3f47b7f41d5c9ad37]: Textual amendment: Words in s. 21(4) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/4); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-d50b3927eaa862b3f47b7f41d5c9ad37]: Textual amendment: Words in s. 21(4) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/4); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-09e4a2433d906e3a58b256d8cdf51c4f]: Textual amendment: Words in [s. 21(4)](https://www.legislation.gov.uk/ukcm/2003/3/section/21/4) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/28/2); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-09e4a2433d906e3a58b256d8cdf51c4f]: Textual amendment: Words in [s. 21(4)](https://www.legislation.gov.uk/ukcm/2003/3/section/21/4) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/28/2); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-2d0881b31b4ca850254421094fb10e12]: Textual amendment: Words in s. 21(5) inserted (16.5.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 11(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/11/a), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
+[^c-2d0881b31b4ca850254421094fb10e12]: Textual amendment: Words in s. 21(5) inserted (16.5.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 11(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/11/a), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
 
-[^key-d788c77d4b78166cdfba9f7961b70675]: Textual amendment: Words in s. 21(5) inserted (16.5.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 11(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/11/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
+[^c-d788c77d4b78166cdfba9f7961b70675]: Textual amendment: Words in s. 21(5) inserted (16.5.2016) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 11(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/11/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
 
-[^key-0a1bfbf9838eb48611f1c5a97244f3fd]: Commencement: [S. 22](https://www.legislation.gov.uk/ukcm/2003/3/section/22) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-0a1bfbf9838eb48611f1c5a97244f3fd]: Commencement: [S. 22](https://www.legislation.gov.uk/ukcm/2003/3/section/22) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-b789cd0a9c01de993c042b5cb83da356]: Commencement: S. 23 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-b789cd0a9c01de993c042b5cb83da356]: Commencement: S. 23 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-4092a6986d743e328c4a7035c36fdb9b]: Textual amendment: Words in s. 23(1)(a) inserted and substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5/a); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-4092a6986d743e328c4a7035c36fdb9b]: Textual amendment: Words in s. 23(1)(a) inserted and substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5/a); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-ae277a478ecef5df54a955bd2ffb4c5c]: Textual amendment: S. 23(1)(b) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5/b); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-ae277a478ecef5df54a955bd2ffb4c5c]: Textual amendment: S. 23(1)(b) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5/b); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-a8eb443d12c1ee7792ef536aa0bc7bd3]: Textual amendment: Words in s. 23(2)(a) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 5(c)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5/c); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-a8eb443d12c1ee7792ef536aa0bc7bd3]: Textual amendment: Words in s. 23(2)(a) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 5(c)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5/c); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-7d1e329a3f3e27733a19ae2abd449350]: Textual amendment: S. 23(2)(b) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 5(d)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5/d); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-7d1e329a3f3e27733a19ae2abd449350]: Textual amendment: S. 23(2)(b) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 5(d)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/5/d); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-971c31f1e01315757ffc3a4a925e959b]: Commencement: [S. 24](https://www.legislation.gov.uk/ukcm/2003/3/section/24) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-971c31f1e01315757ffc3a4a925e959b]: Commencement: [S. 24](https://www.legislation.gov.uk/ukcm/2003/3/section/24) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-34ab72458629480eb62fcdd41d7dc9df]: Modification: [S. 24](https://www.legislation.gov.uk/ukcm/2003/3/section/24) extended (1.1.2006) by [Clergy Discipline Rules 2005 (S.I. 2005/2022)](https://www.legislation.gov.uk/uksi/2005/2022), [rule 27(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/27/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/27/2)[107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-34ab72458629480eb62fcdd41d7dc9df]: Modification: [S. 24](https://www.legislation.gov.uk/ukcm/2003/3/section/24) extended (1.1.2006) by [Clergy Discipline Rules 2005 (S.I. 2005/2022)](https://www.legislation.gov.uk/uksi/2005/2022), [rule 27(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/27/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/27/2)[107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-19c5a43ffcd31123d74653740584dab2]: Commencement: [S. 25](https://www.legislation.gov.uk/ukcm/2003/3/section/25) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-19c5a43ffcd31123d74653740584dab2]: Commencement: [S. 25](https://www.legislation.gov.uk/ukcm/2003/3/section/25) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-9a633d540e857b88ed66eff8f486070e]: Commencement: [S. 26](https://www.legislation.gov.uk/ukcm/2003/3/section/26) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-9a633d540e857b88ed66eff8f486070e]: Commencement: [S. 26](https://www.legislation.gov.uk/ukcm/2003/3/section/26) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-6a9a1c743c4d37c43c5744fd6f6e65a9]: Commencement: [S. 27](https://www.legislation.gov.uk/ukcm/2003/3/section/27) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-6a9a1c743c4d37c43c5744fd6f6e65a9]: Commencement: [S. 27](https://www.legislation.gov.uk/ukcm/2003/3/section/27) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-4502f321a11b467e0adbcfa70d028da6]: Modification: [S. 27](https://www.legislation.gov.uk/ukcm/2003/3/section/27) modified (1.1.2006) by [Clergy Discipline Rules 2005 (S.I. 2005/2022)](https://www.legislation.gov.uk/uksi/2005/2022), [rules 96(j)](https://www.legislation.gov.uk/uksi/2005/2022/rule/96/j), [107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-4502f321a11b467e0adbcfa70d028da6]: Modification: [S. 27](https://www.legislation.gov.uk/ukcm/2003/3/section/27) modified (1.1.2006) by [Clergy Discipline Rules 2005 (S.I. 2005/2022)](https://www.legislation.gov.uk/uksi/2005/2022), [rules 96(j)](https://www.legislation.gov.uk/uksi/2005/2022/rule/96/j), [107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-6608899c1274679da441a1aec98db353]: Modification: [S. 27](https://www.legislation.gov.uk/ukcm/2003/3/section/27) modified (1.1.2006) by [Clergy Discipline Rules 2005 (S.I. 2005/2022)](https://www.legislation.gov.uk/uksi/2005/2022), [rules 94(j)](https://www.legislation.gov.uk/uksi/2005/2022/rule/94/j), [107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-6608899c1274679da441a1aec98db353]: Modification: [S. 27](https://www.legislation.gov.uk/ukcm/2003/3/section/27) modified (1.1.2006) by [Clergy Discipline Rules 2005 (S.I. 2005/2022)](https://www.legislation.gov.uk/uksi/2005/2022), [rules 94(j)](https://www.legislation.gov.uk/uksi/2005/2022/rule/94/j), [107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-8eee2eb5b6bf0503c44cabe25148be41]: Commencement: [S. 28](https://www.legislation.gov.uk/ukcm/2003/3/section/28) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-8eee2eb5b6bf0503c44cabe25148be41]: Commencement: [S. 28](https://www.legislation.gov.uk/ukcm/2003/3/section/28) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-8dd01dc7eb4bdaebc8109b2d39d12baa]: Commencement: [S. 29](https://www.legislation.gov.uk/ukcm/2003/3/section/29) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-8dd01dc7eb4bdaebc8109b2d39d12baa]: Commencement: [S. 29](https://www.legislation.gov.uk/ukcm/2003/3/section/29) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-c48dee86cdec6ebc30c8779666464977]: Commencement: S. 30 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-c48dee86cdec6ebc30c8779666464977]: Commencement: S. 30 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-48ba130296264262ff120e825ba99e9c]: Textual amendment: S. 30 heading substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(7)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/7), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-48ba130296264262ff120e825ba99e9c]: Textual amendment: S. 30 heading substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(7)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/7), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-f954e35df81ff81c09aea3382e2db4ce]: Textual amendment: S. 30(1)(a) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(2)(a)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/2/a), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 4(8)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/8)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-f954e35df81ff81c09aea3382e2db4ce]: Textual amendment: S. 30(1)(a) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(2)(a)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/2/a), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 4(8)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/8)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-d658f0187b8d81bc93bf86a77a9b9468]: Textual amendment: Word in s. 30(1)(b) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(2)(b)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/2/b), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-d658f0187b8d81bc93bf86a77a9b9468]: Textual amendment: Word in s. 30(1)(b) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(2)(b)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/2/b), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-147a18bcb64fca582de9cde3d914ee92]: Textual amendment: S. 30(1)(c) and word added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(2)(c)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/2/c), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-147a18bcb64fca582de9cde3d914ee92]: Textual amendment: S. 30(1)(c) and word added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(2)(c)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/2/c), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-d3e04f510dc18deb39e263ea4b812810]: Textual amendment: S. 30(1A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-d3e04f510dc18deb39e263ea4b812810]: Textual amendment: S. 30(1A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-414ef9596622ac67524fe9221b6ebcb3]: Textual amendment: Words in s. 30(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-414ef9596622ac67524fe9221b6ebcb3]: Textual amendment: Words in s. 30(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-9adcdb36d82b7cd0d4ddc42037c89cbd]: Textual amendment: Words in s. 30(3) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-9adcdb36d82b7cd0d4ddc42037c89cbd]: Textual amendment: Words in s. 30(3) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-33d00702614e7ce4f9bb166a51b83485]: Textual amendment: S. 30(3A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/5), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-33d00702614e7ce4f9bb166a51b83485]: Textual amendment: S. 30(3A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/5), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-390f708e072a0c4bf6c1c327facb819b]: Textual amendment: Word in s. 30(7)(a) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(6)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/6), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-390f708e072a0c4bf6c1c327facb819b]: Textual amendment: Word in s. 30(7)(a) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(6)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/6), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-4dcaec3f6e5c88abfa95094e7ea5aad7]: Textual amendment: Words in s. 30(7)(a) added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(6)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/6), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-4dcaec3f6e5c88abfa95094e7ea5aad7]: Textual amendment: Words in s. 30(7)(a) added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 4(6)](https://www.legislation.gov.uk/ukcm/2013/2/section/4/6), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-009320615c6560db6a3eba0f7de75b7a]: Commencement: S. 31 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-009320615c6560db6a3eba0f7de75b7a]: Commencement: S. 31 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-b9c2b96c5fdd0cae04b13619ee80e1c0]: Textual amendment: S. 31 heading substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/5), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-b9c2b96c5fdd0cae04b13619ee80e1c0]: Textual amendment: S. 31 heading substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/5), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-e11ea36dd3f208e2e9380995fce38898]: Textual amendment: Words in s. 31(1)(a) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(2)(a)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/2/a), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 5(6)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/6)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-e11ea36dd3f208e2e9380995fce38898]: Textual amendment: Words in s. 31(1)(a) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(2)(a)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/2/a), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2) (with [s. 5(6)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/6)); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-27f74bc489683fc660f3f6f037c6f596]: Textual amendment: Word in s. 31(1)(b) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(2)(b)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/2/b), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-27f74bc489683fc660f3f6f037c6f596]: Textual amendment: Word in s. 31(1)(b) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(2)(b)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/2/b), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-61978130f3e24fd3b6300ac5021c0dca]: Textual amendment: S. 31(1)(c) and word added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(2)(c)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/2/c), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-61978130f3e24fd3b6300ac5021c0dca]: Textual amendment: S. 31(1)(c) and word added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(2)(c)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/2/c), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-ecd2504b05a2d1dbe4259baf712f5bf0]: Textual amendment: Words in s. 31(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-ecd2504b05a2d1dbe4259baf712f5bf0]: Textual amendment: Words in s. 31(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-9773fe039744ab7747f09106931eccdf]: Textual amendment: Word in s. 31(3) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-9773fe039744ab7747f09106931eccdf]: Textual amendment: Word in s. 31(3) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-81eee0536a660d3eae2175c8811349a6]: Textual amendment: S. 31(3A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-81eee0536a660d3eae2175c8811349a6]: Textual amendment: S. 31(3A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 5(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/5/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-55b0326c8c06484b9d177a8a23178ea1]: Commencement: S. 32 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-55b0326c8c06484b9d177a8a23178ea1]: Commencement: S. 32 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-d8bddeef08d60b5ff72907237ffe11f7]: Commencement: S. 33 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-d8bddeef08d60b5ff72907237ffe11f7]: Commencement: S. 33 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-65857d2553cb19d5ee256ed5aede3fb4]: Textual amendment: S. 34 substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/6); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-65857d2553cb19d5ee256ed5aede3fb4]: Textual amendment: S. 34 substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/6); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-f8bf088a606d6b046eba624f6765f380]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/ukcm/2003/3/section/34A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 7](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/7); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-f8bf088a606d6b046eba624f6765f380]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/ukcm/2003/3/section/34A) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 7](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/7); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-45fa3f4aacef684adf3ec7b23cc181ae]: Commencement: S. 35 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-45fa3f4aacef684adf3ec7b23cc181ae]: Commencement: S. 35 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-56443e0aa29170e7f69d166fac0ed23d]: Commencement: S. 36 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-56443e0aa29170e7f69d166fac0ed23d]: Commencement: S. 36 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-8a91fb3da6451a323ece67e61c5352c6]: Textual amendment: S. 36 heading substituted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-8a91fb3da6451a323ece67e61c5352c6]: Textual amendment: S. 36 heading substituted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-1cf584958ceb5929264466d9e781fa3f]: Textual amendment: Words in s. 36(1)(b) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 8](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/8); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-1cf584958ceb5929264466d9e781fa3f]: Textual amendment: Words in s. 36(1)(b) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 8](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/8); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-141f6b67ea00a789daedf87f058bbc1c]: Textual amendment: S. 36(1)(c)(d) and word added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 6(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/6/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-141f6b67ea00a789daedf87f058bbc1c]: Textual amendment: S. 36(1)(c)(d) and word added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 6(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/6/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-3618583129f5198d050c603ec53ed2e9]: Textual amendment: S. 36(1)(e) and word inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-3618583129f5198d050c603ec53ed2e9]: Textual amendment: S. 36(1)(e) and word inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-9841d47174a40c05db61b72d0f366fd6]: Textual amendment: S. 36(2A) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/2), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-9841d47174a40c05db61b72d0f366fd6]: Textual amendment: S. 36(2A) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/2), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-c30c48146b56942ec05429579a0f5f53]: Textual amendment: S. 36(2B) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/3), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-c30c48146b56942ec05429579a0f5f53]: Textual amendment: S. 36(2B) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/3), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-b098e528f1842d2f34cf2cfa254d892c]: Textual amendment: Words in [s. 36(2B)](https://www.legislation.gov.uk/ukcm/2003/3/section/36/2B) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 28(3)](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/28/3); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-b098e528f1842d2f34cf2cfa254d892c]: Textual amendment: Words in [s. 36(2B)](https://www.legislation.gov.uk/ukcm/2003/3/section/36/2B) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 28(3)](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/28/3); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-246708bf4e5657e398979aa8f347b635]: Textual amendment: Words in s. 36(3) added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 6(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/6/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-246708bf4e5657e398979aa8f347b635]: Textual amendment: Words in s. 36(3) added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 6(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/6/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-6a033f10674d91af88df258748e9f08c]: Textual amendment: S. 36(3A) added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 6(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/6/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-6a033f10674d91af88df258748e9f08c]: Textual amendment: S. 36(3A) added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 6(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/6/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-c88e3b2feed658cd826eceb6b8c1b5f3]: Textual amendment: S. 36(3B) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(4)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/4), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-c88e3b2feed658cd826eceb6b8c1b5f3]: Textual amendment: S. 36(3B) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(4)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/4), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-418fa99d93cad65aefb4cb2f482accca]: Textual amendment: S. 36A inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 8(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/8/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/8/3)); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-418fa99d93cad65aefb4cb2f482accca]: Textual amendment: S. 36A inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 8(1)](https://www.legislation.gov.uk/ukcm/2016/1/section/8/1), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/8/3)); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-79c19064a32aac76ea1fcd0c7ee30bee]: Textual amendment: Words in [s. 36A(4)](https://www.legislation.gov.uk/ukcm/2003/3/section/36A/4) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/28/4); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-79c19064a32aac76ea1fcd0c7ee30bee]: Textual amendment: Words in [s. 36A(4)](https://www.legislation.gov.uk/ukcm/2003/3/section/36A/4) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 28(4)](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/28/4); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-17ebf5d41b9f44a5e01c60d2dc61e924]: Commencement: S. 37 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-17ebf5d41b9f44a5e01c60d2dc61e924]: Commencement: S. 37 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-c432e2c6130c56e791dd06cddebec6ee]: Textual amendment: S. 37 heading substituted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(5)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/5), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-c432e2c6130c56e791dd06cddebec6ee]: Textual amendment: S. 37 heading substituted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(5)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/5), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-00dd71a867d40858f22457c1655b5b34]: Textual amendment: Words in s. 37(1)(b) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 9](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/9); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-00dd71a867d40858f22457c1655b5b34]: Textual amendment: Words in s. 37(1)(b) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 9](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/9); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-7810dfc2bbc1dce463bfbfa1f75971dc]: Textual amendment: S. 37(1)(c)(d) and word added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 7(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/7/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-7810dfc2bbc1dce463bfbfa1f75971dc]: Textual amendment: S. 37(1)(c)(d) and word added (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 7(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/7/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-8cd5af6abbd4ee9db06cd3ac0f0ce6d6]: Textual amendment: [S. 37(1)(e)](https://www.legislation.gov.uk/ukcm/2003/3/section/37/1/e) and word inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(5)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/5), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-8cd5af6abbd4ee9db06cd3ac0f0ce6d6]: Textual amendment: [S. 37(1)(e)](https://www.legislation.gov.uk/ukcm/2003/3/section/37/1/e) and word inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(5)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/5), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-38be33e4d8adec1c411fa780fec20f72]: Textual amendment: [S. 37(2A)](https://www.legislation.gov.uk/ukcm/2003/3/section/37/2A) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(6)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/6), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-38be33e4d8adec1c411fa780fec20f72]: Textual amendment: [S. 37(2A)](https://www.legislation.gov.uk/ukcm/2003/3/section/37/2A) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(6)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/6), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-12ce6de2a253b4c397395cf46277484d]: Textual amendment: S. 37(6) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 7(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/7/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-12ce6de2a253b4c397395cf46277484d]: Textual amendment: S. 37(6) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 7(3)](https://www.legislation.gov.uk/ukcm/2013/2/section/7/3), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-0a251d4a1216fe4f677eb2d507ce0926]: Textual amendment: Words in [s. 37(6)](https://www.legislation.gov.uk/ukcm/2003/3/section/37/6) substituted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(7)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/7), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-0a251d4a1216fe4f677eb2d507ce0926]: Textual amendment: Words in [s. 37(6)](https://www.legislation.gov.uk/ukcm/2003/3/section/37/6) substituted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(7)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/7), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-fe9bc45ae8b6bf1c448fed3bef433411]: Textual amendment: S. 37A inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 8(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/8/2), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/8/3)); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-fe9bc45ae8b6bf1c448fed3bef433411]: Textual amendment: S. 37A inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 8(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/8/2), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/8/3)); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-28ace448f56a32e86aa912b6bc99d21a]: Textual amendment: Words in [s. 37A(5)](https://www.legislation.gov.uk/ukcm/2003/3/section/37A/5) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 28(5)](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/28/5); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-28ace448f56a32e86aa912b6bc99d21a]: Textual amendment: Words in [s. 37A(5)](https://www.legislation.gov.uk/ukcm/2003/3/section/37A/5) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 28(5)](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/28/5); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-6091c113aa33684686031aee8812a219]: Commencement: S. 38 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-6091c113aa33684686031aee8812a219]: Commencement: S. 38 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-08e2ac3776279d8f9af08c1abadf6787]: Textual amendment: S. 38(1)(dd) and word inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-08e2ac3776279d8f9af08c1abadf6787]: Textual amendment: S. 38(1)(dd) and word inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/2), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-2febaea07561d9d3214e1b39a3183d69]: Textual amendment: Words in s. 38(2) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(3)(a)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/3/a), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-2febaea07561d9d3214e1b39a3183d69]: Textual amendment: Words in s. 38(2) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(3)(a)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/3/a), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-421732f9d6413ccc9011e12bb7c50135]: Textual amendment: Word in s. 38(2) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(3)(b)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/3/b), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-421732f9d6413ccc9011e12bb7c50135]: Textual amendment: Word in s. 38(2) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(3)(b)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/3/b), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-9c64a7ca2d92cf449f5a26236c0a72e7]: Textual amendment: Words in s. 38(2) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(3)(c)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/3/c), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-9c64a7ca2d92cf449f5a26236c0a72e7]: Textual amendment: Words in s. 38(2) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(3)(c)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/3/c), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-1ca0a820e238c291bd726605fee394c1]: Textual amendment: Words in s. 38(2) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(3)(d)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/3/d), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-1ca0a820e238c291bd726605fee394c1]: Textual amendment: Words in s. 38(2) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(3)(d)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/3/d), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-d8e8b0a8176e246dea9a8b2b75948938]: Textual amendment: Words in s. 38(3) substituted (1.2.2014) by virtue of [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-d8e8b0a8176e246dea9a8b2b75948938]: Textual amendment: Words in s. 38(3) substituted (1.2.2014) by virtue of [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-ef640f8f31959551cab576e91fca3451]: Textual amendment: Words in s. 38(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-ef640f8f31959551cab576e91fca3451]: Textual amendment: Words in s. 38(3) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(4)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/4), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-c5ef12523613b13413a0b761740978b9]: Textual amendment: Word in s. 38(4) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/5), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-c5ef12523613b13413a0b761740978b9]: Textual amendment: Word in s. 38(4) substituted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [ss. 8(5)](https://www.legislation.gov.uk/ukcm/2013/2/section/8/5), [10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-d5ba1286318b9e9877fd7ab0f4f7fb8e]: Commencement: S. 39 in force at 1.10.2003 by [S.I. 2003/3](https://www.legislation.gov.uk/ukci/2003/3), Instrument made by Archbishops
+[^c-d5ba1286318b9e9877fd7ab0f4f7fb8e]: Commencement: S. 39 in force at 1.10.2003 by [S.I. 2003/3](https://www.legislation.gov.uk/ukci/2003/3), Instrument made by Archbishops
 
-[^key-45745d3cc90866f1a3958190d7a9603f]: Textual amendment: S. 39(3)-(3B) substituted for s. 39(3) (1.7.2013) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 10](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/10); [S.I. 2013/2](https://www.legislation.gov.uk/ukci/2013/2), [art. 2](https://www.legislation.gov.uk/ukci/2013/2/article/2)
+[^c-45745d3cc90866f1a3958190d7a9603f]: Textual amendment: S. 39(3)-(3B) substituted for s. 39(3) (1.7.2013) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 10](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/10); [S.I. 2013/2](https://www.legislation.gov.uk/ukci/2013/2), [art. 2](https://www.legislation.gov.uk/ukci/2013/2/article/2)
 
-[^key-d7b6e13245e2fba5debb19a0b6a63f04]: Commencement: S. 40 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-d7b6e13245e2fba5debb19a0b6a63f04]: Commencement: S. 40 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-36019aad467c81e9b297e5e314247791]: Commencement: S. 41 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-36019aad467c81e9b297e5e314247791]: Commencement: S. 41 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-f1a5d924d1727111ab4b95888c6f2747]: Textual amendment: Words in s. 41 substituted (1.7.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [s. 14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3), [Sch. para. 7(a)](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/7/a); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-f1a5d924d1727111ab4b95888c6f2747]: Textual amendment: Words in s. 41 substituted (1.7.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [s. 14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3), [Sch. para. 7(a)](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/7/a); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
 
-[^key-1a69e64a03dd6cee1d13c6d1e0e44a94]: Textual amendment: Words in s. 41 substituted (1.7.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [s. 14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3), [Sch. para. 7(b)](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/7/b); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-1a69e64a03dd6cee1d13c6d1e0e44a94]: Textual amendment: Words in s. 41 substituted (1.7.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [s. 14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3), [Sch. para. 7(b)](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/7/b); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
 
-[^key-632872ff292374a0d172775609ad2c71]: Commencement: S. 42 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-632872ff292374a0d172775609ad2c71]: Commencement: S. 42 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-f094072c2dc239ca221fd7b144acfdb9]: Textual amendment: Words in s. 42(2)(a) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/26) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-f094072c2dc239ca221fd7b144acfdb9]: Textual amendment: Words in s. 42(2)(a) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/26) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-7a2cb0b9bba0fb94c7b096167b9406aa]: Commencement: S. 43 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-7a2cb0b9bba0fb94c7b096167b9406aa]: Commencement: S. 43 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-82798ce3395555da8db64e8a5bb928b8]: Textual amendment: Words in s. 43(1) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 11](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/11); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-82798ce3395555da8db64e8a5bb928b8]: Textual amendment: Words in s. 43(1) inserted (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 11](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/11); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-b69fedace46e224d9c580108bb1ef894]: Textual amendment: Words in s. 43(1) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(8)(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/8/a), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-b69fedace46e224d9c580108bb1ef894]: Textual amendment: Words in s. 43(1) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(8)(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/8/a), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-23950bfd16eeabd2077de8a9a65ea8d4]: Textual amendment: Words in s. 43(1) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 35](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/35); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e)
+[^c-23950bfd16eeabd2077de8a9a65ea8d4]: Textual amendment: Words in s. 43(1) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 35](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/35); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e)
 
-[^key-00655c99f1e6444f1cd0ac5d19640669]: Textual amendment: Words in s. 43(1) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/13) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-00655c99f1e6444f1cd0ac5d19640669]: Textual amendment: Words in s. 43(1) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/13) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-60cf26b210122b85ccfcff131bd46209]: Textual amendment: S. 43(1A) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(8)(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/8/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-60cf26b210122b85ccfcff131bd46209]: Textual amendment: S. 43(1A) inserted (1.1.2017) by [Safeguarding and Clergy Discipline Measure 2016 (No. 1)](https://www.legislation.gov.uk/ukcm/2016/1), [ss. 1(8)(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/1/8/b), [12(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/12/3); [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-604fab316ce693d8ee455a45a5392f1d]: Textual amendment: S. 44(1) repealed (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 12(a)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/12/a); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
+[^c-604fab316ce693d8ee455a45a5392f1d]: Textual amendment: S. 44(1) repealed (1.2.2014) by [Clergy Discipline (Amendment) Measure 2013 (No. 2)](https://www.legislation.gov.uk/ukcm/2013/2), [s. 10(2)](https://www.legislation.gov.uk/ukcm/2013/2/section/10/2), [Sch. para. 12(a)](https://www.legislation.gov.uk/ukcm/2013/2/schedule/paragraph/12/a); [2014 No. 1](https://www.legislation.gov.uk/ukci/2014/1), [art. 2](https://www.legislation.gov.uk/ukci/2014/1/article/2)
 
-[^key-b32ed72bb4fccc4f106354f95c6284bb]: Commencement: S. 44(1)(2)(5) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-b32ed72bb4fccc4f106354f95c6284bb]: Commencement: S. 44(1)(2)(5) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-991035c51c3c91387dafb29d40c1483b]: Textual amendment: [S. 44(3)](https://www.legislation.gov.uk/ukcm/2003/3/section/44/3)[(4)](https://www.legislation.gov.uk/ukcm/2003/3/section/44/4) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-991035c51c3c91387dafb29d40c1483b]: Textual amendment: [S. 44(3)](https://www.legislation.gov.uk/ukcm/2003/3/section/44/3)[(4)](https://www.legislation.gov.uk/ukcm/2003/3/section/44/4) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-266fa65eee0893ba6cf7850a221b0645]: Commencement: S. 44(3)(4) in force at 1.6.2005 by [S.I. 2005/1](https://www.legislation.gov.uk/ukci/2005/1), instrument made by Archbishops
+[^c-266fa65eee0893ba6cf7850a221b0645]: Commencement: S. 44(3)(4) in force at 1.6.2005 by [S.I. 2005/1](https://www.legislation.gov.uk/ukci/2005/1), instrument made by Archbishops
 
-[^key-e544e65917976a44e62fcdd0315641b5]: Textual amendment: S. 45 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-e544e65917976a44e62fcdd0315641b5]: Textual amendment: S. 45 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-81626119702e29de647b06376896d450]: Commencement: S. 46 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-81626119702e29de647b06376896d450]: Commencement: S. 46 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-4fe344f4264cf29cc81bd4c79e710676]: Commencement: S. 47 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-4fe344f4264cf29cc81bd4c79e710676]: Commencement: S. 47 in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-25c37a24bf78a29ff2c14c95a5aa6d04]: Commencement: S. 48 in force at 1.10.2003 by [S.I. 2003/3](https://www.legislation.gov.uk/ukci/2003/3), Instrument made by Archbishops
+[^c-25c37a24bf78a29ff2c14c95a5aa6d04]: Commencement: S. 48 in force at 1.10.2003 by [S.I. 2003/3](https://www.legislation.gov.uk/ukci/2003/3), Instrument made by Archbishops
 
-[^key-735d39de920c80e29cd5e61b6065cff8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/1) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-735d39de920c80e29cd5e61b6065cff8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/1) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-c099859316dd6893132c25dbefaa60d1]: Textual amendment: Sch. 1 para. 2 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c099859316dd6893132c25dbefaa60d1]: Textual amendment: Sch. 1 para. 2 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-ab9c7a164b13a4ec031efeb320c9056e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/3) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-ab9c7a164b13a4ec031efeb320c9056e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/3) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-e5038e2441eb99a9653b101e509689af]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/4) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-e5038e2441eb99a9653b101e509689af]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/4) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-8de667523ddcb46f370aba766dee91b1]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/5) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-8de667523ddcb46f370aba766dee91b1]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/5) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-fb173fa4b3999ad4e2f062aaf2d22088]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/6) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-fb173fa4b3999ad4e2f062aaf2d22088]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/6) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-5d2ae482c4693488a327f49ae2a3345e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/7) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-5d2ae482c4693488a327f49ae2a3345e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/7) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-7b905ebec7565335907a370fd2310f6e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/8) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-7b905ebec7565335907a370fd2310f6e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/8) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-2b3788a2dc6ae1178e2a8c05d6d7dbc8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/9) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-2b3788a2dc6ae1178e2a8c05d6d7dbc8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/9) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-c99729c945279664bebf80acbf683406]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/10) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-c99729c945279664bebf80acbf683406]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/10) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-7a5bb511b2f8e8666f6905b5472518d3]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/11) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-7a5bb511b2f8e8666f6905b5472518d3]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/11) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-12acbef0c94d1a5dc84b7f33244c964f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/12) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-12acbef0c94d1a5dc84b7f33244c964f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/12) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-3a3a378de0bf258422a74bbef52ffc92]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/13) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-3a3a378de0bf258422a74bbef52ffc92]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/13) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-7e033bb1c72301feeceb7a01409ceb74]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/14) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-7e033bb1c72301feeceb7a01409ceb74]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/14) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-e45b52f897742f05f1e809bd383bfbc7]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-e45b52f897742f05f1e809bd383bfbc7]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) in force at 1.1.2006 by [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

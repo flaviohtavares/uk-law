@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Amendment of procedure for dealing with applications for harbour orders[^key-64eede8fb4c82d008a2a48e5d3b8ef95]
+## 46. Amendment of procedure for dealing with applications for harbour orders[^c-64eede8fb4c82d008a2a48e5d3b8ef95]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ and the word “and” occurring between sub-paragraphs (1)(d) and (e) is repeal
 
 ## Annotations
 
-[^key-64eede8fb4c82d008a2a48e5d3b8ef95]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2005/12/section/46) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-64eede8fb4c82d008a2a48e5d3b8ef95]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2005/12/section/46) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

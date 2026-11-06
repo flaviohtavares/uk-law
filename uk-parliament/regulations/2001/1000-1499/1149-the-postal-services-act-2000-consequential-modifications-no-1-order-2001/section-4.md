@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Transitional and saving provisions[^key-1bebf94e6938acd71f8df5ed4a203369]
+## 4. Transitional and saving provisions[^c-1bebf94e6938acd71f8df5ed4a203369]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ or which would have so belonged, been held or used and not fallen if the work ha
 
 ## Annotations
 
-[^key-1bebf94e6938acd71f8df5ed4a203369]: Commencement: Art. 4 in force at 26.3.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)
+[^c-1bebf94e6938acd71f8df5ed4a203369]: Commencement: Art. 4 in force at 26.3.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)
 
 [^f00003]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

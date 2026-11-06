@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12 — AIR TRAFFIC SERVICE EQUIPMENT—RECORDS REQUIRED AND MATTERS TO WHICH THE CAA MAY HAVE REGARD[^key-b7b402064b21eb4ca8461de952b1beb3]
+## SCHEDULE 12 — AIR TRAFFIC SERVICE EQUIPMENT—RECORDS REQUIRED AND MATTERS TO WHICH THE CAA MAY HAVE REGARD[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,50 +24,50 @@ summary: ''
 
 Article 125
 
-### PART A — Records to be kept in accordance with article 125(1)[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART A — Records to be kept in accordance with article 125(1)[^c-b7b402064b21eb4ca8461de952b1beb3]
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-b7b402064b21eb4ca8461de952b1beb3]
+[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]
+[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Records required in accordance with article 125(4)(c)[^key-b7b402064b21eb4ca8461de952b1beb3]
-
-[^key-b7b402064b21eb4ca8461de952b1beb3]
+[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C — Matters to which the CAA may have regard in granting an approval of apparatus in accordance with article 125(5)[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART B — Records required in accordance with article 125(4)(c)[^c-b7b402064b21eb4ca8461de952b1beb3]
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-b7b402064b21eb4ca8461de952b1beb3]
+[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]
+### PART C — Matters to which the CAA may have regard in granting an approval of apparatus in accordance with article 125(5)[^c-b7b402064b21eb4ca8461de952b1beb3]
+
+[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]
+[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]
+[^c-b7b402064b21eb4ca8461de952b1beb3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b7b402064b21eb4ca8461de952b1beb3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b7b402064b21eb4ca8461de952b1beb3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7b402064b21eb4ca8461de952b1beb3]: Textual amendment: Order revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I.2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
+[^c-b7b402064b21eb4ca8461de952b1beb3]: Textual amendment: Order revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I.2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

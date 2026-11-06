@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Listed buildings in England: certificates of lawfulness[^c2181361][^key-1128398f0332c40ce8a0571e09d8276d]
+## 61. Listed buildings in England: certificates of lawfulness[^c2181361][^c-1128398f0332c40ce8a0571e09d8276d]
 
 *Extent: E+W*
 
@@ -128,4 +128,4 @@ In the Planning (Listed Buildings and Conservation Areas) Act 1990 after section
 
 [^c2181361]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2013/24/section/61) partly in force; [s. 61](https://www.legislation.gov.uk/ukpga/2013/24/section/61) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-1128398f0332c40ce8a0571e09d8276d]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2013/24/section/61) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/416/article/3/b)
+[^c-1128398f0332c40ce8a0571e09d8276d]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2013/24/section/61) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/416/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Power to require rectification of breach of condition[^key-8131ff0ea0ef78aab4a52639063da55e]
+## 35. Power to require rectification of breach of condition[^c-8131ff0ea0ef78aab4a52639063da55e]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8131ff0ea0ef78aab4a52639063da55e]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2016/22/section/35) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-8131ff0ea0ef78aab4a52639063da55e]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2016/22/section/35) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

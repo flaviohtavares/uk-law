@@ -32,7 +32,7 @@ summary: ''
 
 United Nations
 
-The North Korea (United Nations Sanctions) (Amendment) Order 2009 (revoked)[^key-5757961d297b536d692826cd8144ce31]
+The North Korea (United Nations Sanctions) (Amendment) Order 2009 (revoked)[^c-5757961d297b536d692826cd8144ce31]
 
 Made
 
@@ -46,43 +46,43 @@ Coming into force
 
 11th December 2009
 
-[^key-5757961d297b536d692826cd8144ce31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5757961d297b536d692826cd8144ce31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5757961d297b536d692826cd8144ce31]
+## 1. Citation and commencement[^c-5757961d297b536d692826cd8144ce31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Order[^key-5757961d297b536d692826cd8144ce31]
+## 2. Amendment of the principal Order[^c-5757961d297b536d692826cd8144ce31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-5757961d297b536d692826cd8144ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5757961d297b536d692826cd8144ce31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5757961d297b536d692826cd8144ce31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -90,4 +90,4 @@ Coming into force
 
 ## Annotations
 
-[^key-5757961d297b536d692826cd8144ce31]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3213) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-5757961d297b536d692826cd8144ce31]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3213) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

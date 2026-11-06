@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Transfers: supplementary provision[^key-d483f7ce81219f7b378de7c493dc3690]
+## 8. Transfers: supplementary provision[^c-d483f7ce81219f7b378de7c493dc3690]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ as they have effect in relation to the transfer made by this Order of land or ot
 
 ## Annotations
 
-[^key-d483f7ce81219f7b378de7c493dc3690]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/470/article/8) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-d483f7ce81219f7b378de7c493dc3690]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/470/article/8) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)

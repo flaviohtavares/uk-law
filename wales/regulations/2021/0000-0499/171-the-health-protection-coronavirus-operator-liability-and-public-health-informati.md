@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, Operator Liability and Public Health Information to Travellers) (Wales) (Amendment) Regulations 2021 (revoked)[^key-763e63b6f80883325bf8a16c4af790e4]
+The Health Protection (Coronavirus, Operator Liability and Public Health Information to Travellers) (Wales) (Amendment) Regulations 2021 (revoked)[^c-763e63b6f80883325bf8a16c4af790e4]
 
 Made
 
@@ -45,27 +45,27 @@ Coming into force
 
 at 4.00 a.m. on 20 February 2021
 
-[^key-763e63b6f80883325bf8a16c4af790e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-763e63b6f80883325bf8a16c4af790e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, coming into force and interpretation[^key-763e63b6f80883325bf8a16c4af790e4]
+## 1. Title, coming into force and interpretation[^c-763e63b6f80883325bf8a16c4af790e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Public Health Information Regulations[^key-763e63b6f80883325bf8a16c4af790e4]
+## 2. Amendment of the Public Health Information Regulations[^c-763e63b6f80883325bf8a16c4af790e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Operator Liability Regulations[^key-763e63b6f80883325bf8a16c4af790e4]
+## 3. Amendment of the Operator Liability Regulations[^c-763e63b6f80883325bf8a16c4af790e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-763e63b6f80883325bf8a16c4af790e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-763e63b6f80883325bf8a16c4af790e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-763e63b6f80883325bf8a16c4af790e4]EXPLANATORY NOTE
+[^c-763e63b6f80883325bf8a16c4af790e4]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -77,13 +77,13 @@ These Regulations also amend the Health Protection (Coronavirus, International T
 
 Regulation 3 amends the Operator Liability Regulations so as to—
 
-- (a)[^key-763e63b6f80883325bf8a16c4af790e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-763e63b6f80883325bf8a16c4af790e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-763e63b6f80883325bf8a16c4af790e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-763e63b6f80883325bf8a16c4af790e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-763e63b6f80883325bf8a16c4af790e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-763e63b6f80883325bf8a16c4af790e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-763e63b6f80883325bf8a16c4af790e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-763e63b6f80883325bf8a16c4af790e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, a regulatory impact assessment has not been prepared as to the likely cost and benefit of complying with these Regulations
 
 ## Annotations
 
-[^key-763e63b6f80883325bf8a16c4af790e4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/171) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/33)
+[^c-763e63b6f80883325bf8a16c4af790e4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/171) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/33)

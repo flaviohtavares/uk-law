@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Heavy oil used by horticultural producers.[^c11246771][^c11246781][^M_C_26be9b36-0946-419a-97a4-67ac4c2c6159][^key-901d8df40ae1c5d1d1cb2cc0f25e1da3]
+## 17. Heavy oil used by horticultural producers.[^c11246771][^c11246781][^M_C_26be9b36-0946-419a-97a4-67ac4c2c6159][^c-901d8df40ae1c5d1d1cb2cc0f25e1da3]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,7 +58,7 @@ the facts shall be deemed for the purposes of this section to be such as the Com
 
 [^M_C_26be9b36-0946-419a-97a4-67ac4c2c6159]: Modification: S. 17 modified by [S.I. 2004/2065](https://www.legislation.gov.uk/uksi/2004/2065), [reg. 3(3A)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/3/3A) (as inserted (1.4.2008) by [The Hydrocarbon Oil, Biofuels and Other Fuel Substitutes (Determination of Composition of a Substance and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/753)](https://www.legislation.gov.uk/uksi/2008/753), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/753/regulation/1/2), [8(2)(e)](https://www.legislation.gov.uk/uksi/2008/753/regulation/8/2/e)
 
-[^key-901d8df40ae1c5d1d1cb2cc0f25e1da3]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/1979/5/section/17) excluded (1.8.2021) by S.I. 1995/2518, regs. 133AB(b), 133L, 133N (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-901d8df40ae1c5d1d1cb2cc0f25e1da3]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/1979/5/section/17) excluded (1.8.2021) by S.I. 1995/2518, regs. 133AB(b), 133L, 133N (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
 
 [^c11246791]: Modification: S. 17(1) explained by [Finance Act 1981 (c. 35, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 6(4)](https://www.legislation.gov.uk/ukpga/1981/35/section/6/4)
 

@@ -26,7 +26,7 @@ summary: ''
 - (b) instruments denominated in such a currency, and
 - (c) the bringing into account of amounts expressed in, or by reference to, such a currency,
 
-of any enactment or subordinate legislation relating to any matter for which the Commissioners for Her Majesty’s Revenue and Customs are responsible and to which section 7 of the Commissioners for Revenue and Customs Act 2005 (former Inland Revenue matters) applies.[^key-30a8976b12ee7e8c994890d56cf0e440]
+of any enactment or subordinate legislation relating to any matter for which the Commissioners for Her Majesty’s Revenue and Customs are responsible and to which section 7 of the Commissioners for Revenue and Customs Act 2005 (former Inland Revenue matters) applies.[^c-30a8976b12ee7e8c994890d56cf0e440]
 
 (2) The matters falling within this subsection are—
 
@@ -57,7 +57,7 @@ of any enactment or subordinate legislation relating to any matter for which the
 
 ## Annotations
 
-[^key-30a8976b12ee7e8c994890d56cf0e440]: Textual amendment: Words in s. 163(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2005/11/schedule/2/paragraph/10); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/d)
+[^c-30a8976b12ee7e8c994890d56cf0e440]: Textual amendment: Words in s. 163(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2005/11/schedule/2/paragraph/10); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/d)
 
 [^c16423031]: Textual amendment: S. 163(3)(b)(c) repealed (24.7.2002 with effect as mentioned in Sch. 40 Pt. 3(11) Note of the amending Act) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 40 Pt. 3(11)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/3/11) Note
 

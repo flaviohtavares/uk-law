@@ -24,7 +24,7 @@ summary: ''
 
 In this section and sections 182 to 185 “**representative**”, in relation to a trade union, means an official or other person authorised by the union to carry on such collective bargaining.
 
-(2) The information to be disclosed is all information relating to the employer’s undertaking (including information relating to use of agency workers in that undertaking)[^key-dc5c9630e8cdd21c269ddf77f12a3868] which is in his possession, or that of an associated employer, and is information—
+(2) The information to be disclosed is all information relating to the employer’s undertaking (including information relating to use of agency workers in that undertaking)[^c-dc5c9630e8cdd21c269ddf77f12a3868] which is in his possession, or that of an associated employer, and is information—
 
 - (a) without which the trade union representatives would be to a material extent impeded in carrying on collective bargaining with him, and
 - (b) which it would be in accordance with good industrial relations practice that he should disclose to them for the purposes of collective bargaining.
@@ -45,4 +45,4 @@ In this section and sections 182 to 185 “**representative**”, in relation to
 
 [^c20414081]: Modification: Ss. 181-185 modified (W.) (12.5.2006) by [The Education (Modification of Enactments Relating to Employment) (Wales) Order 2006 (S.I. 2006/1073)](https://www.legislation.gov.uk/uksi/2006/1073), [art. 3](https://www.legislation.gov.uk/uksi/2006/1073/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1073/schedule)
 
-[^key-dc5c9630e8cdd21c269ddf77f12a3868]: Textual amendment: Words in [s. 181(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/181/2) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/3)
+[^c-dc5c9630e8cdd21c269ddf77f12a3868]: Textual amendment: Words in [s. 181(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/181/2) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/3)

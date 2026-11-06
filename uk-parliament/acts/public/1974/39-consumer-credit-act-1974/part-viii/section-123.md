@@ -33,10 +33,10 @@ summary: ''
 
 (5) This section does not apply where the regulated agreement is a non-commercial agreement.
 
-(6) The Treasury[^key-9d4c7700fb33ab5f50799d550388ae3e] may by order provide that this section shall not apply where the regulated agreement has a connection with a country outside the United Kingdom.
+(6) The Treasury[^c-9d4c7700fb33ab5f50799d550388ae3e] may by order provide that this section shall not apply where the regulated agreement has a connection with a country outside the United Kingdom.
 
 ## Annotations
 
 [^c2431861]: Marginal citation: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61).
 
-[^key-9d4c7700fb33ab5f50799d550388ae3e]: Textual amendment: Word in s. 123(6) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(10)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/10)
+[^c-9d4c7700fb33ab5f50799d550388ae3e]: Textual amendment: Word in s. 123(6) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(10)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/10)

@@ -34,7 +34,7 @@ Exiting The European Union
 
 Value Added Tax
 
-The Data-gathering Powers (Relevant Data) (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-4ed598ff4f9f3df92593ba3b6a9547fb]
+The Data-gathering Powers (Relevant Data) (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-4ed598ff4f9f3df92593ba3b6a9547fb]
 
 Made
 
@@ -46,15 +46,15 @@ Laid before the House of Commons
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-4ed598ff4f9f3df92593ba3b6a9547fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ed598ff4f9f3df92593ba3b6a9547fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-4ed598ff4f9f3df92593ba3b6a9547fb]
+## 1. Citation and commencement[^c-4ed598ff4f9f3df92593ba3b6a9547fb]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Data-gathering Powers (Relevant Data) Regulations 2012[^key-4ed598ff4f9f3df92593ba3b6a9547fb]
+## 2. Amendment of the Data-gathering Powers (Relevant Data) Regulations 2012[^c-4ed598ff4f9f3df92593ba3b6a9547fb]
 
 **Not yet in force.**
 
@@ -62,12 +62,12 @@ Coming into force in accordance with regulation 1(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ed598ff4f9f3df92593ba3b6a9547fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ed598ff4f9f3df92593ba3b6a9547fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ed598ff4f9f3df92593ba3b6a9547fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ed598ff4f9f3df92593ba3b6a9547fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ed598ff4f9f3df92593ba3b6a9547fb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1221) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/26/b); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-4ed598ff4f9f3df92593ba3b6a9547fb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1221) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/26/b); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

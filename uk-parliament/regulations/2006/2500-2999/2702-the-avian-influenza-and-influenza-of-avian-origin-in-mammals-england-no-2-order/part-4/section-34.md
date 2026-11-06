@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State must, in a declaration of a restricted zone under article 28(5), apply, in each zone so declared, such measures as he considers necessary to reduce the risk of the spread of avian influenza virus[^key-07c22b919d1dca7726d4796ed449cf45].
+(1) The Secretary of State must, in a declaration of a restricted zone under article 28(5), apply, in each zone so declared, such measures as he considers necessary to reduce the risk of the spread of avian influenza virus[^c-07c22b919d1dca7726d4796ed449cf45].
 
 (2) These measures may include some or all of the measures in Schedules 4 and 5 and article 35.
 
 ## Annotations
 
-[^key-07c22b919d1dca7726d4796ed449cf45]: Textual amendment: Word in [art. 34(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/34/1) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(20)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/20)
+[^c-07c22b919d1dca7726d4796ed449cf45]: Textual amendment: Word in [art. 34(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/34/1) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(20)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/20)

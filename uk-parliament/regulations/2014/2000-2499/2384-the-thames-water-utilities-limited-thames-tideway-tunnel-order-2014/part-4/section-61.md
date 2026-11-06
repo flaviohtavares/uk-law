@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Certification of plans etc[^key-ba844ec9b8473adb1d2fbaa18efdac0b]
+## 61. Certification of plans etc[^c-ba844ec9b8473adb1d2fbaa18efdac0b]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ for certification that they are true copies of the plans or documents referred t
 
 ## Annotations
 
-[^key-ba844ec9b8473adb1d2fbaa18efdac0b]: Commencement: Art. 61 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-ba844ec9b8473adb1d2fbaa18efdac0b]: Commencement: Art. 61 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-d5d6f5a0bb830079b8e1b115eb83e630]
+## 1. Citation and commencement[^c-d5d6f5a0bb830079b8e1b115eb83e630]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Charitable Incorporated Organisations (Gen
 
 ## Annotations
 
-[^key-d5d6f5a0bb830079b8e1b115eb83e630]: Commencement: Reg. 1 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-d5d6f5a0bb830079b8e1b115eb83e630]: Commencement: Reg. 1 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

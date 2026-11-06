@@ -29,7 +29,7 @@ summary: ''
 
 CIVIL AVIATION
 
-The Air Navigation (Environmental Standards For Non-Part 21[^key-84dcc40a581a23ac30ddc5ff85cd31f7] Aircraft) Order 2008
+The Air Navigation (Environmental Standards For Non-Part 21[^c-84dcc40a581a23ac30ddc5ff85cd31f7] Aircraft) Order 2008
 
 Made
 
@@ -51,7 +51,7 @@ Her Majesty, in exercise of the powers conferred upon Her by sections 60(1), (2)
 
 ### 1. Citation and Commencement
 
-This Order may be cited as the Air Navigation (Environmental Standards for Non-Part 21[^key-2e5414cf62456afcd3ba5fa3b78563ab] Aircraft) Order 2008 and comes into force on the tenth day after the day on which it is made.
+This Order may be cited as the Air Navigation (Environmental Standards for Non-Part 21[^c-2e5414cf62456afcd3ba5fa3b78563ab] Aircraft) Order 2008 and comes into force on the tenth day after the day on which it is made.
 
 ### 2. Revocation
 
@@ -63,14 +63,14 @@ The Air Navigation (Environmental Standards) Order 2002 [^c19509041] is revoked.
 
 - ‘adversely’ means, for the purpose of the definition of ‘derived version’, an increase by more than 0.3dB to any one of the noise certification levels specified in the noise type certificate;
 - ‘authorised person’ means any constable and any person authorised by the CAA (whether by name or by class or description) either generally or in relation to a particular case or class of cases;
-- [^key-d69eabcd16431b8e6277b61fbf362b87]...
-- “Basic Regulation” means[^key-e797007b40676f415399b5da17089398] [Regulation (EU) No 2018/1139](https://www.legislation.gov.uk/european/regulation/2018/1139) of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations [(EC) No 2111/2005](https://www.legislation.gov.uk/european/regulation/2005/2111), [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008), [(EU) No 996/2010](https://www.legislation.gov.uk/european/regulation/2010/0996), [(EU) No 376/2014](https://www.legislation.gov.uk/european/regulation/2014/0376) and Directives [2014/30/EU](https://www.legislation.gov.uk/european/directive/2014/0030) and [2014/53/EU](https://www.legislation.gov.uk/european/directive/2014/0053) of the European Parliament and of the Council, and repealing Regulations [(EC) No 552/2004](https://www.legislation.gov.uk/european/regulation/2004/0552) and [(EC) No 216/2008](https://www.legislation.gov.uk/european/regulation/2008/0216) of the European Parliament and of the Council and [Council Regulation (EEC) No 3922/91](https://www.legislation.gov.uk/european/regulation/1991/3922);
+- [^c-d69eabcd16431b8e6277b61fbf362b87]...
+- “Basic Regulation” means[^c-e797007b40676f415399b5da17089398] [Regulation (EU) No 2018/1139](https://www.legislation.gov.uk/european/regulation/2018/1139) of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations [(EC) No 2111/2005](https://www.legislation.gov.uk/european/regulation/2005/2111), [(EC) No 1008/2008](https://www.legislation.gov.uk/european/regulation/2008/1008), [(EU) No 996/2010](https://www.legislation.gov.uk/european/regulation/2010/0996), [(EU) No 376/2014](https://www.legislation.gov.uk/european/regulation/2014/0376) and Directives [2014/30/EU](https://www.legislation.gov.uk/european/directive/2014/0030) and [2014/53/EU](https://www.legislation.gov.uk/european/directive/2014/0053) of the European Parliament and of the Council, and repealing Regulations [(EC) No 552/2004](https://www.legislation.gov.uk/european/regulation/2004/0552) and [(EC) No 216/2008](https://www.legislation.gov.uk/european/regulation/2008/0216) of the European Parliament and of the Council and [Council Regulation (EEC) No 3922/91](https://www.legislation.gov.uk/european/regulation/1991/3922);
 - ‘derived version’ means, for the purposes of paragraph (2), an aircraft which is similar to the aircraft in respect of which a noise type certificate has been granted but incorporates changes in type design which may affect its noise characteristics adversely;
-- [^key-d69eabcd16431b8e6277b61fbf362b87]...
-- [^key-d69eabcd16431b8e6277b61fbf362b87]...
-- [^key-d69eabcd16431b8e6277b61fbf362b87]...
-- [^key-d69eabcd16431b8e6277b61fbf362b87]...
-- [^key-d69eabcd16431b8e6277b61fbf362b87]...
+- [^c-d69eabcd16431b8e6277b61fbf362b87]...
+- [^c-d69eabcd16431b8e6277b61fbf362b87]...
+- [^c-d69eabcd16431b8e6277b61fbf362b87]...
+- [^c-d69eabcd16431b8e6277b61fbf362b87]...
+- [^c-d69eabcd16431b8e6277b61fbf362b87]...
 - ‘Microlight aeroplane’ means an aeroplane designed to carry not more than two persons which has—
   - (a) a maximum total weight authorised not exceeding—
     - (i) 300 kg for a single seat landplane (or 390 kg for a single seat landplane in respect of which a United Kingdom permit to fly or certificate of airworthiness was in force prior to 1st January 2003);
@@ -80,7 +80,7 @@ The Air Navigation (Environmental Standards) Order 2002 [^c19509041] is revoked.
   - (b) either a wing loading at the maximum total weight authorised not exceeding 25 kg per square metre or a stalling speed at the maximum total weight authorised not exceeding 35 knots calibrated airspeed;
 - ‘noise certificate’ means a certificate issued by the CAA in accordance with article 8, 9 or 10 or a certificate or other document issued or validated in accordance with article 4(3);
 - ‘noise type certificate’ means a certificate indicating that the type of aircraft to which the certificate refers is acceptable for noise certification;
-- [^key-d69eabcd16431b8e6277b61fbf362b87]...
+- [^c-d69eabcd16431b8e6277b61fbf362b87]...
 - “non-Part 21 aircraft” means an aircraft which is not required by virtue of the Basic Regulation and any implementing rules adopted in accordance with that Regulation to hold—
   - (a) a Part 21 certificate of airworthiness,
   - (b) a Part 21 restricted certificate of airworthiness, or
@@ -95,7 +95,7 @@ The Air Navigation (Environmental Standards) Order 2002 [^c19509041] is revoked.
 - “Part 21 restricted certificate of airworthiness” means a restricted certificate of airworthiness issued in respect of a Part 21 aircraft under and in accordance with subpart H of Part 21;
 - ‘prescribed’ means prescribed by regulations made by the Secretary of State under this Order;
 - ‘rated output’ has the meaning specified in Part I, Chapter 1 of Volume II of Annex 16;
-- ‘Research aircraft’ means an aircraft which falls in category (b) of Annex II to the Basic [^key-0d299ed25cdbc978f045c059345e1ae2]... Regulation [^c19509071];
+- ‘Research aircraft’ means an aircraft which falls in category (b) of Annex II to the Basic [^c-0d299ed25cdbc978f045c059345e1ae2]... Regulation [^c19509071];
 - ‘smoke’ means the carbonaceous materials in exhaust emissions which obscure the transmission of light;
 - ‘State aircraft’ means an aircraft engaged in military, customs, police or similar services;
 - ‘subsonic aeroplane’ means an aeroplane which is incapable of sustaining level flight at a speed in excess of flight mach 1.0;
@@ -103,11 +103,11 @@ The Air Navigation (Environmental Standards) Order 2002 [^c19509041] is revoked.
 - ‘Volume I of Annex 16’ means the fourth edition - July 2005 - of Volume I of Annex 16 to the Chicago Convention as amended by the Supplement to the third edition dated 3rd March 2003 [^c19509081];
 - ‘Volume II of Annex 16’ means the second edition - July 1993 - of Volume II of Annex 16 to the Chicago Convention as amended by Amendment 3 dated 20th March 1997, Amendment 4 dated 19th July 1999, Amendment 5 dated 11th July 2005, the Supplement dated 3rd March 2003 and the Amendment to the Supplement dated 22nd October 2003.
 
-(2) An aircraft is one for which there is a Part 21 equivalent[^key-58a3ae669125344bfb52b804df5beb1e] type if, in the reasonable opinion of the CAA, it is of the same type as any Part 21 aircraft[^key-971363124d509764f03d548e16ef5c86] or is a derived version of such a type.
+(2) An aircraft is one for which there is a Part 21 equivalent[^c-58a3ae669125344bfb52b804df5beb1e] type if, in the reasonable opinion of the CAA, it is of the same type as any Part 21 aircraft[^c-971363124d509764f03d548e16ef5c86] or is a derived version of such a type.
 
 (3) Other expressions used in this Order and in the Air Navigation Order 2005 [^c19509091] have the same meaning in this Order as they have in the Air Navigation Order 2005.
 
-## PART 2 — Noise Certification for Non-Part 21 aircraft[^key-03eed3c6f4b45734279a92081655c077]
+## PART 2 — Noise Certification for Non-Part 21 aircraft[^c-03eed3c6f4b45734279a92081655c077]
 
 ### 4. Requirement for a noise certificate for a microlight aeroplane
 
@@ -132,9 +132,9 @@ The prohibition in article 4(1) does not apply to a microlight aeroplane—
 - (c) which is a self-propelled hang-glider; or
 - (d) for which a permit to fly was first in force prior to 1<sup>st</sup> July 1999 and which has a maximum authorised weight greater than 390 kg.
 
-### 6. Requirement for a noise certificate for United Kingdom registered State aircraft and Research aircraft for which there is a Part 21 equivalent type[^key-17374d4c9370d51cd540b315e282bf63]
+### 6. Requirement for a noise certificate for United Kingdom registered State aircraft and Research aircraft for which there is a Part 21 equivalent type[^c-17374d4c9370d51cd540b315e282bf63]
 
-(1) This article applies to any aircraft registered in the United Kingdom which is either a State aircraft or a Research aircraft for which there is a Part 21[^key-c1a03ae4db4dd559cacb3e517d908bc6] equivalent type.
+(1) This article applies to any aircraft registered in the United Kingdom which is either a State aircraft or a Research aircraft for which there is a Part 21[^c-c1a03ae4db4dd559cacb3e517d908bc6] equivalent type.
 
 (2) Subject to paragraph (3), an aircraft to which this article applies must not land or take off in the United Kingdom unless—
 
@@ -146,9 +146,9 @@ The prohibition in article 4(1) does not apply to a microlight aeroplane—
 - (a) an aircraft flying in accordance with the ‘A Conditions’ or the ‘B Conditions’ in Part A of Schedule 3 to the Air Navigation Order 2005; or
 - (b) an aircraft landing or taking off at a prescribed place.
 
-### 7. Requirement for a noise certificate for United Kingdom registered State aircraft and Research aircraft for which there is no Part 21 equivalent type[^key-34442fe7a243b8e05a62a6d7c482ddfd]
+### 7. Requirement for a noise certificate for United Kingdom registered State aircraft and Research aircraft for which there is no Part 21 equivalent type[^c-34442fe7a243b8e05a62a6d7c482ddfd]
 
-(1) This article applies to any aircraft registered in the United Kingdom which is either a State aircraft or a Research aircraft for which there is no Part 21[^key-ec8a68ef896e5cda8dd306440f50b2c8] equivalent type.
+(1) This article applies to any aircraft registered in the United Kingdom which is either a State aircraft or a Research aircraft for which there is no Part 21[^c-ec8a68ef896e5cda8dd306440f50b2c8] equivalent type.
 
 (2) Subject to paragraph (3), an aircraft to which this article applies must not land or take off in the United Kingdom unless—
 
@@ -166,20 +166,20 @@ The prohibition in article 4(1) does not apply to a microlight aeroplane—
 
 (2) For the purposes of paragraph (1) an applicant for a certificate must furnish such evidence and submit the aircraft to such flying trials and other tests as the CAA may require.
 
-### 9. Issue of noise certificate by the CAA for United Kingdom registered State aircraft or Research aircraft for which there is a Part 21 equivalent type[^key-4c9f38bf012b92536325d337abb813e8]
+### 9. Issue of noise certificate by the CAA for United Kingdom registered State aircraft or Research aircraft for which there is a Part 21 equivalent type[^c-4c9f38bf012b92536325d337abb813e8]
 
-(1) The CAA must issue a noise certificate in respect of any State aircraft or Research aircraft registered in the United Kingdom for which there is a Part 21[^key-7c212b318ebe79f13f809090350c6e2d] equivalent type if it is satisfied that the aircraft complies with the noise standards with which the aircraft would be required to comply if it were a Part 21 aircraft.
+(1) The CAA must issue a noise certificate in respect of any State aircraft or Research aircraft registered in the United Kingdom for which there is a Part 21[^c-7c212b318ebe79f13f809090350c6e2d] equivalent type if it is satisfied that the aircraft complies with the noise standards with which the aircraft would be required to comply if it were a Part 21 aircraft.
 
 (2) For the purposes of paragraph (1) an applicant for a certificate must furnish such evidence and submit the aircraft to such flying trials and other tests as the CAA may require.
 
 (3) The CAA must issue every noise certificate subject to a condition as to the maximum total weights at which the aircraft may land or take off and may issue such a certificate subject to such other conditions relating to standards as to noise as it thinks fit.
 
-### 10. Issue of noise certificate by the CAA for United Kingdom registered State aircraft or Research aircraft for which there is no Part 21 equivalent type[^key-32971889c0715c6afe482ff8b8bfbdd9]
+### 10. Issue of noise certificate by the CAA for United Kingdom registered State aircraft or Research aircraft for which there is no Part 21 equivalent type[^c-32971889c0715c6afe482ff8b8bfbdd9]
 
 (1) The CAA must issue a noise certificate in respect of any State aircraft or Research aircraft registered in the United Kingdom—
 
 - (a) for which a noise standard is included in Volume 1 of Annex 16; and
-- (b) for which there is no Part 21[^key-5ef7d2233a26724b4845f4b6ddde8da3] equivalent type,
+- (b) for which there is no Part 21[^c-5ef7d2233a26724b4845f4b6ddde8da3] equivalent type,
 
 if it is satisfied that the aircraft complies with the applicable noise standard in Volume 1 of Annex 16.
 
@@ -213,13 +213,13 @@ exceeds 5 years, the date on which the application for a type certificate or a c
 
 The CAA, after consultation with the Secretary of State, may exempt from any of the provisions of this Part any aircraft or persons or classes of aircraft or persons, either absolutely or subject to such conditions as it thinks fit.
 
-## PART 3 — Emissions Certification for Non-Part 21 aircraft[^key-e5efdca36463f2e9cc3003c9637bb854]
+## PART 3 — Emissions Certification for Non-Part 21 aircraft[^c-e5efdca36463f2e9cc3003c9637bb854]
 
 ### 14. Fuel venting requirements
 
 (1) This article applies to—
 
-- (a) every non-Part 21[^key-031ae90fc0a825c0e936a9a46f88812b] jet aircraft in respect of which a certificate of airworthiness was first issued on or after 18th February 1982; and
+- (a) every non-Part 21[^c-031ae90fc0a825c0e936a9a46f88812b] jet aircraft in respect of which a certificate of airworthiness was first issued on or after 18th February 1982; and
 - (b) every other non-Part 21 aircraft which is powered by one or more turbojet engines or turbofan engines where the date of manufacture of any such engine was on or after 18th February 1982.
 
 (2) Subject to article 18, an aircraft to which this article applies must not land or take off in the United Kingdom unless—
@@ -281,11 +281,11 @@ The requirement to be certified in accordance with this Part does not apply to�
 
 The CAA, after consultation with the Secretary of State, may exempt from any of the provisions of this Part any aircraft or engine or persons or classes of aircraft or engine or persons, either absolutely or subject to such conditions as it thinks fit.
 
-## PART 4 — Carriage of and Production and Revocation of Noise Certificate for Non-Part 21 aircraft[^key-b2c4548fd50e0a8a9c4731905951767a]
+## PART 4 — Carriage of and Production and Revocation of Noise Certificate for Non-Part 21 aircraft[^c-b2c4548fd50e0a8a9c4731905951767a]
 
 ### 20. Noise certificate to be carried
 
-(1) A non-Part 21[^key-3ef30b73345ec47aa7dcd25518747929] aircraft must not land or take off in the United Kingdom unless it carries every noise certificate which it is required to carry under the law of the country in which it is registered.
+(1) A non-Part 21[^c-3ef30b73345ec47aa7dcd25518747929] aircraft must not land or take off in the United Kingdom unless it carries every noise certificate which it is required to carry under the law of the country in which it is registered.
 
 (2) Subject to paragraph (3), a non-Part 21 aircraft registered in the United Kingdom must, when in flight, carry every noise certificate which is required by this Order to be in force in respect of that aircraft.
 
@@ -578,57 +578,57 @@ The noise evaluation measure must be the sound exposure level L*<sub>AE</sub>* a
 
 ## Annotations
 
-[^key-84dcc40a581a23ac30ddc5ff85cd31f7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/3133) title amended (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84dcc40a581a23ac30ddc5ff85cd31f7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/3133) title amended (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19509031]: Marginal citation: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16), [sections 60](https://www.legislation.gov.uk/ukpga/1982/16/section/60) and 61 have been amended by the [Airports Act 1986 (c.31)](https://www.legislation.gov.uk/ukpga/1986/31) Schedule 6 Part 11, and section 60 was further amended by the [Aviation and Maritime Security Act 1990 (c.31)](https://www.legislation.gov.uk/ukpga/1990/31), [section 47](https://www.legislation.gov.uk/ukpga/1990/31/section/47) and Schedule 4 and Schedule 13 has been amended by the Energy Act [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20), [section 101](https://www.legislation.gov.uk/ukpga/2004/20/section/101).
 
-[^key-2e5414cf62456afcd3ba5fa3b78563ab]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2008/3133/article/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e5414cf62456afcd3ba5fa3b78563ab]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2008/3133/article/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19509041]: Marginal citation: [S.I. 2002/798](https://www.legislation.gov.uk/uksi/2002/798).
 
-[^key-d69eabcd16431b8e6277b61fbf362b87]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d69eabcd16431b8e6277b61fbf362b87]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e797007b40676f415399b5da17089398]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/1) inserted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e797007b40676f415399b5da17089398]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/1) inserted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19509061]: Marginal citation: O.J. No. L 243, 27.9.2003 p.6, amended by Commission Regulation (EC) No 357/2007 O.J. No. L 94, 4.4.2007 p.3 and to which there are other amendments not relevant to this Order.
 
-[^key-0d299ed25cdbc978f045c059345e1ae2]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d299ed25cdbc978f045c059345e1ae2]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19509071]: Marginal citation: Category (b) of Annex II to the Basic EASA Regulation comprises aircraft specifically designed or modified for research, experimental or scientific purposes, and likely to be produced in very limited numbers.
 
 [^c19509081]: Marginal citation: This Annex was published by the International Civil Aviation Organisation.
 
-[^key-58a3ae669125344bfb52b804df5beb1e]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58a3ae669125344bfb52b804df5beb1e]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-971363124d509764f03d548e16ef5c86]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-971363124d509764f03d548e16ef5c86]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/3133/article/3/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19509091]: Marginal citation: [S.I. 2005/1970](https://www.legislation.gov.uk/uksi/2005/1970), to which there are amendments not relevant to this Order.
 
-[^key-03eed3c6f4b45734279a92081655c077]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2008/3133/part/2) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03eed3c6f4b45734279a92081655c077]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2008/3133/part/2) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-17374d4c9370d51cd540b315e282bf63]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2008/3133/article/6) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17374d4c9370d51cd540b315e282bf63]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2008/3133/article/6) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1a03ae4db4dd559cacb3e517d908bc6]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/6/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1a03ae4db4dd559cacb3e517d908bc6]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/6/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34442fe7a243b8e05a62a6d7c482ddfd]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2008/3133/article/7) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34442fe7a243b8e05a62a6d7c482ddfd]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2008/3133/article/7) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec8a68ef896e5cda8dd306440f50b2c8]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/7/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec8a68ef896e5cda8dd306440f50b2c8]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/7/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c9f38bf012b92536325d337abb813e8]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/2008/3133/article/9) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c9f38bf012b92536325d337abb813e8]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/uksi/2008/3133/article/9) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7c212b318ebe79f13f809090350c6e2d]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/9/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c212b318ebe79f13f809090350c6e2d]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/3133/article/9/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-32971889c0715c6afe482ff8b8bfbdd9]: Textual amendment: Words in [art. 10](https://www.legislation.gov.uk/uksi/2008/3133/article/10) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32971889c0715c6afe482ff8b8bfbdd9]: Textual amendment: Words in [art. 10](https://www.legislation.gov.uk/uksi/2008/3133/article/10) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ef7d2233a26724b4845f4b6ddde8da3]: Textual amendment: Words in [art. 10(1)(b)](https://www.legislation.gov.uk/uksi/2008/3133/article/10/1/b) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ef7d2233a26724b4845f4b6ddde8da3]: Textual amendment: Words in [art. 10(1)(b)](https://www.legislation.gov.uk/uksi/2008/3133/article/10/1/b) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e5efdca36463f2e9cc3003c9637bb854]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2008/3133/part/3) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(14)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5efdca36463f2e9cc3003c9637bb854]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2008/3133/part/3) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(14)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-031ae90fc0a825c0e936a9a46f88812b]: Textual amendment: Words in [arts. 14-17](https://www.legislation.gov.uk/uksi/2008/3133/article/14) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(15)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-031ae90fc0a825c0e936a9a46f88812b]: Textual amendment: Words in [arts. 14-17](https://www.legislation.gov.uk/uksi/2008/3133/article/14) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(15)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b2c4548fd50e0a8a9c4731905951767a]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2008/3133/part/4) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(16)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2c4548fd50e0a8a9c4731905951767a]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2008/3133/part/4) heading substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(16)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ef30b73345ec47aa7dcd25518747929]: Textual amendment: Words in [art. 20](https://www.legislation.gov.uk/uksi/2008/3133/article/20) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(17)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ef30b73345ec47aa7dcd25518747929]: Textual amendment: Words in [art. 20](https://www.legislation.gov.uk/uksi/2008/3133/article/20) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [3(17)](https://www.legislation.gov.uk/uksi/2019/643/regulation/3/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19509101]: Marginal citation: [1948 c.56](https://www.legislation.gov.uk/ukpga/1948/56). Section 3(1) limits the criminal liability of certain persons who are not citizens of the United Kingdom and colonies.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 275. Introductory[^key-eddcf7ee15fe7e9c4e9f3a9379f15aa3]
+## 275. Introductory[^c-eddcf7ee15fe7e9c4e9f3a9379f15aa3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part of the Rules has effect for their interpretation and application; and 
 
 ## Annotations
 
-[^key-eddcf7ee15fe7e9c4e9f3a9379f15aa3]: Commencement: Rule 275 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-eddcf7ee15fe7e9c4e9f3a9379f15aa3]: Commencement: Rule 275 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Procedure on giving directions under regulation 25 and varying them on Authority’s own initiative[^key-22dbe2cdd9d0c8647eed40f33bcdd9b6]
+## 27. Procedure on giving directions under regulation 25 and varying them on Authority’s own initiative[^c-22dbe2cdd9d0c8647eed40f33bcdd9b6]
 
 *Extent: N.I.*
 
@@ -75,10 +75,10 @@ it must give separate written notices to the company and its depositary.
 
 (14) For the purposes of paragraph (1)(c), whether a matter is open to review is to be determined in accordance with section 391(8) of the Act.
 
-(15) Section 395 of the Act (the[^key-6a77d95ee387e82b5691bf1563a1a167] FCA’s and PRA’s procedures) has effect as if subsection (13) included a reference to a notice given in accordance with paragraph (3), (8) or (9)(b).
+(15) Section 395 of the Act (the[^c-6a77d95ee387e82b5691bf1563a1a167] FCA’s and PRA’s procedures) has effect as if subsection (13) included a reference to a notice given in accordance with paragraph (3), (8) or (9)(b).
 
 ## Annotations
 
-[^key-22dbe2cdd9d0c8647eed40f33bcdd9b6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2004/335/regulation/27) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-22dbe2cdd9d0c8647eed40f33bcdd9b6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2004/335/regulation/27) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-6a77d95ee387e82b5691bf1563a1a167]: Textual amendment: Words in [reg. 27(15)](https://www.legislation.gov.uk/nisr/2004/335/regulation/27/15) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(7)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/7)
+[^c-6a77d95ee387e82b5691bf1563a1a167]: Textual amendment: Words in [reg. 27(15)](https://www.legislation.gov.uk/nisr/2004/335/regulation/27/15) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(7)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/7)

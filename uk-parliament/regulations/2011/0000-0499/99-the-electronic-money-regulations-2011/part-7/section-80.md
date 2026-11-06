@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Application to Gibraltar[^key-9de76972e19bbbe18ecaa6566aa1c73b]
+## 80. Application to Gibraltar[^c-9de76972e19bbbe18ecaa6566aa1c73b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5, which contains provisions concerning the application of these Regula
 
 ## Annotations
 
-[^key-9de76972e19bbbe18ecaa6566aa1c73b]: Textual amendment: Reg. 80 and cross-heading inserted (13.1.2018) by [The Payment Systems and Services and Electronic Money (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1173)](https://www.legislation.gov.uk/uksi/2017/1173), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4), [5(c)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/5/c)
+[^c-9de76972e19bbbe18ecaa6566aa1c73b]: Textual amendment: Reg. 80 and cross-heading inserted (13.1.2018) by [The Payment Systems and Services and Electronic Money (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1173)](https://www.legislation.gov.uk/uksi/2017/1173), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4), [5(c)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/5/c)

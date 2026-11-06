@@ -24,13 +24,13 @@ Section 27
 
 ### Introductory
 
-**1.**[^key-ad1d08e31b90304776f22bf07dad4d58] (1) The provisions of this Schedule apply where the court has power to remand a person under section 27(6) (injunctions in local authority proceedings: power of arrest and remand).
+**1.**[^c-ad1d08e31b90304776f22bf07dad4d58] (1) The provisions of this Schedule apply where the court has power to remand a person under section 27(6) (injunctions in local authority proceedings: power of arrest and remand).
 
 (2) In this Schedule “**the court**” has the same meaning as in section 27.
 
 ### Remand in custody or on bail
 
-**2.**[^key-f45ffe9163e638adc28916508c3c4ae1] (1) The court may—
+**2.**[^c-f45ffe9163e638adc28916508c3c4ae1] (1) The court may—
 
 - (a) remand the person in custody, that is, commit him to custody to be brought before the court at the end of the period of remand or at such earlier time as the court may require, or
 - (b) remand him on bail, in accordance with the following provisions.
@@ -42,7 +42,7 @@ Section 27
 
 (3) Where a person is brought before the court after remand, the court may further remand him.
 
-**3.**[^key-5da59c58b0565f0cbcb426fb0fb6fb1e] (1) Where a person is remanded on bail, the court may direct that his recognizance be conditioned for his appearance—
+**3.**[^c-5da59c58b0565f0cbcb426fb0fb6fb1e] (1) Where a person is remanded on bail, the court may direct that his recognizance be conditioned for his appearance—
 
 - (a) before that court at the end of the period of remand, or
 - (b) at every time and place to which during the course of the proceedings the hearing may from time to time be adjourned.
@@ -51,7 +51,7 @@ Section 27
 
 (3) Nothing in this paragraph affects the power of the court at any subsequent hearing to remand him afresh.
 
-**4.**[^key-53430a420d597dce97290e6e468f7181] (1) The court shall not remand a person for a period exceeding eight clear days except that—
+**4.**[^c-53430a420d597dce97290e6e468f7181] (1) The court shall not remand a person for a period exceeding eight clear days except that—
 
 - (a) if the court remands him on bail, it may remand him for a longer period if he and the other party consent, and
 - (b) if the court adjourns a case under section 27(9) (remand for medical examination and report) the court may remand him for the period of adjournment.
@@ -60,7 +60,7 @@ Section 27
 
 ### Further remand
 
-**5.**[^key-524a8b1d21f1bdf951fdf07656e36999] (1) If the court is satisfied that a person who has been remanded is unable by reason of illness or accident to appear or be brought before the court at the expiration of the period for which he was remanded, the court may, in his absence, remand him for a further time.
+**5.**[^c-524a8b1d21f1bdf951fdf07656e36999] (1) If the court is satisfied that a person who has been remanded is unable by reason of illness or accident to appear or be brought before the court at the expiration of the period for which he was remanded, the court may, in his absence, remand him for a further time.
 
 (2) The power mentioned in sub-paragraph (1) may, in the case of a person who was remanded on bail, be exercised by enlarging his recognizance and those of any sureties for him to a later time.
 
@@ -72,24 +72,24 @@ Section 27
 
 ### Postponement of taking recognizance
 
-**6.**[^key-043cd885bea8835586266fd7e80fd7b4] Where under paragraph 2(2)(b) the court fixes the amount in which the principal and his sureties, if any, are to be bound, the recognizance may afterwards be taken by such person as may be prescribed by rules of court, with the same consequences as if it had been entered into before the court.
+**6.**[^c-043cd885bea8835586266fd7e80fd7b4] Where under paragraph 2(2)(b) the court fixes the amount in which the principal and his sureties, if any, are to be bound, the recognizance may afterwards be taken by such person as may be prescribed by rules of court, with the same consequences as if it had been entered into before the court.
 
 ### Requirements imposed on remand on bail
 
-**7.**[^key-025a436cf080ee1275b251f799a190bf] The court may when remanding a person on bail under this Schedule require him to comply, before release on bail or later, with such requirements as appear to the court to be necessary to secure that he does not interfere with witnesses or otherwise obstruct the course of justice.
+**7.**[^c-025a436cf080ee1275b251f799a190bf] The court may when remanding a person on bail under this Schedule require him to comply, before release on bail or later, with such requirements as appear to the court to be necessary to secure that he does not interfere with witnesses or otherwise obstruct the course of justice.
 
 ## Annotations
 
-[^key-ad1d08e31b90304776f22bf07dad4d58]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/1) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
+[^c-ad1d08e31b90304776f22bf07dad4d58]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/1) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
 
-[^key-f45ffe9163e638adc28916508c3c4ae1]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/2) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
+[^c-f45ffe9163e638adc28916508c3c4ae1]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/2) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
 
-[^key-5da59c58b0565f0cbcb426fb0fb6fb1e]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/3) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
+[^c-5da59c58b0565f0cbcb426fb0fb6fb1e]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/3) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
 
-[^key-53430a420d597dce97290e6e468f7181]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/4) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
+[^c-53430a420d597dce97290e6e468f7181]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/4) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
 
-[^key-524a8b1d21f1bdf951fdf07656e36999]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/5) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
+[^c-524a8b1d21f1bdf951fdf07656e36999]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/5) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
 
-[^key-043cd885bea8835586266fd7e80fd7b4]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/6) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
+[^c-043cd885bea8835586266fd7e80fd7b4]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/6) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
 
-[^key-025a436cf080ee1275b251f799a190bf]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/7) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
+[^c-025a436cf080ee1275b251f799a190bf]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/10/paragraph/7) in force at 6.4.2007 for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/709/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))

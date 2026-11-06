@@ -43,15 +43,15 @@ The Office of Communications (“OFCOM”), in exercise of the powers conferred 
 
 Before making the Regulations OFCOM have given a notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act, and considered any representations made to them before the time specified in the notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation and commencement[^key-1db77370aeb75b083a87c520121a2fc9]
+## 1. Citation and commencement[^c-1db77370aeb75b083a87c520121a2fc9]
 
 These Regulations may be cited as the Wireless Telegraphy (Licensing Procedures) Regulations 2010 and shall come into force on 9<sup>th</sup> August 2010.
 
-## 2. Revocation[^key-10d6a9b82a6b5ee66dd6b50ecbe48642]
+## 2. Revocation[^c-10d6a9b82a6b5ee66dd6b50ecbe48642]
 
 The Wireless Telegraphy (Licensing Procedures) Regulations 2006[^f00002] are hereby revoked.
 
-## 3. Interpretation[^key-ebc34fc6cd4ab09c49ffcea88587aba5]
+## 3. Interpretation[^c-ebc34fc6cd4ab09c49ffcea88587aba5]
 
 In these Regulations—
 
@@ -63,14 +63,14 @@ In these Regulations—
 - “mobile station” means a station which transmits while in motion; and
 - “station” means a wireless telegraphy station.
 
-## 4. Time limits for dealing with the grant of licences[^key-aac2818cb0632e112902cb98a3640b2a]
+## 4. Time limits for dealing with the grant of licences[^c-aac2818cb0632e112902cb98a3640b2a]
 
 A decision on an application for the grant of a licence shall be made, notified to the applicant and published—
 
 - (a) in the case of any licence relating to radio frequencies allocated for particular wireless telegraphy for use in the United Kingdom Plan for Frequency Authorisation[^f00003], not more than six weeks after the day of the receipt of the application; and
 - (b) in any other case, as soon as possible after the day of the receipt of the application.
 
-## 5. Requirements that must be met for the grant of a licence[^key-9b767910386975fb315a3bbfaf50e81b]
+## 5. Requirements that must be met for the grant of a licence[^c-9b767910386975fb315a3bbfaf50e81b]
 
 (1) Licences shall be granted by OFCOM, either—
 
@@ -96,15 +96,15 @@ A decision on an application for the grant of a licence shall be made, notified 
   - (i) transmissions by the proposed station; and
   - (ii) any transmissions which are for the purpose of station recognition;
 - (i) the call sign desired by the applicant;
-- (j)[^key-457175113e3b957e397a6717fa51449c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-04e80170cc96b49a590ae80d2d1af512] in the case of an application in respect of a mobile station, an indication of whether or not the station is to be established on board—
+- (j)[^c-457175113e3b957e397a6717fa51449c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-04e80170cc96b49a590ae80d2d1af512] in the case of an application in respect of a mobile station, an indication of whether or not the station is to be established on board—
   - (i) an aircraft; or
   - (ii) a ship; and
-- (k)[^key-d94b539be37bd0ad913ccd55cbaaf393] if the application is in relation to more than one fixed station, the length and direction of proposed transmission signal paths between stations.
+- (k)[^c-d94b539be37bd0ad913ccd55cbaaf393] if the application is in relation to more than one fixed station, the length and direction of proposed transmission signal paths between stations.
 
-## 6. Particulars of the terms, provisions and limitations of licences[^key-13e6d4d071f8631269084586feb77c07]
+## 6. Particulars of the terms, provisions and limitations of licences[^c-13e6d4d071f8631269084586feb77c07]
 
-(1) Licences may be granted[^key-9b16d160344abdcebbad9fe16065776b] subject to—
+(1) Licences may be granted[^c-9b16d160344abdcebbad9fe16065776b] subject to—
 
 - (a) a limitation as to the type of equipment which is authorised;
 - (b) a limitation as to the circumstances of use;
@@ -115,7 +115,7 @@ A decision on an application for the grant of a licence shall be made, notified 
 - (g) terms as to the modification or restriction in use of equipment and the circumstances in which OFCOM may require any such equipment to be temporarily closed down; and
 - (h) terms, provisions and limitations as to strength and type of signal.
 
-(2)[^key-307d25eb939d4e914df349dd60a5a3d1] Licences may also be granted subject to the other terms, provisions and limitations in the case of any particular licence which are contained in the publication Wireless Telegraphy Act Licensing (Terms, Provisions and Limitations) 2016 published by OFCOM.
+(2)[^c-307d25eb939d4e914df349dd60a5a3d1] Licences may also be granted subject to the other terms, provisions and limitations in the case of any particular licence which are contained in the publication Wireless Telegraphy Act Licensing (Terms, Provisions and Limitations) 2016 published by OFCOM.
 
 Ed Richards
 
@@ -131,12 +131,12 @@ Regulation 5(2)(c)
 
 ### PART 1 — AERONAUTICAL
 
-**1.**[^key-ef3ad1a61eaeacaca412fd654d9e90a6] For the licence classes Aeronautical Ground Station (Air Traffic/Ground Movement Control), Aeronautical Ground Station (Air/Ground Communications Services), Aeronautical Ground Station (Airfield Flight Information Service), Aeronautical Ground Station (General Aviation), Aeronautical Ground Station (Fire), Aeronautical Ground Station (High Frequency), Aeronautical Ground Station (Offshore Platform), Aeronautical Navigation Aid Stations, Aeronautical Radar, Aeronautical Ground Station (Operations Control), Aeronautical Station (Aerodrome Surface and Operational Control), Aeronautical Station (Aeronautical Broadcast), Aeronautical Station (Aircraft Communications Addressing and Reporting System), Aeronautical Station (Air/Ground, Aerodrome Flight Information Service and Tower), Aeronautical Station (Approach), Aeronautical Station (Area Control), Aeronautical Station (High Frequency), Aeronautical Station (Fire and Emergency), Aeronautical Station (Offshore), Aeronautical Station (Recreational Aviation) and Aeronautical Station (Very High Frequency Data Link), the following information shall be provided—
+**1.**[^c-ef3ad1a61eaeacaca412fd654d9e90a6] For the licence classes Aeronautical Ground Station (Air Traffic/Ground Movement Control), Aeronautical Ground Station (Air/Ground Communications Services), Aeronautical Ground Station (Airfield Flight Information Service), Aeronautical Ground Station (General Aviation), Aeronautical Ground Station (Fire), Aeronautical Ground Station (High Frequency), Aeronautical Ground Station (Offshore Platform), Aeronautical Navigation Aid Stations, Aeronautical Radar, Aeronautical Ground Station (Operations Control), Aeronautical Station (Aerodrome Surface and Operational Control), Aeronautical Station (Aeronautical Broadcast), Aeronautical Station (Aircraft Communications Addressing and Reporting System), Aeronautical Station (Air/Ground, Aerodrome Flight Information Service and Tower), Aeronautical Station (Approach), Aeronautical Station (Area Control), Aeronautical Station (High Frequency), Aeronautical Station (Fire and Emergency), Aeronautical Station (Offshore), Aeronautical Station (Recreational Aviation) and Aeronautical Station (Very High Frequency Data Link), the following information shall be provided—
 
 - (a) whether authorisation of a temporary or permanent station is sought; and
 - (b) the type of air traffic service that the applicant intends to provide.
 
-**2.**[^key-2648041823a09f88b4775c6f1327cd12] For the licence classes Aircraft and Aircraft (Transportable) the following information shall be provided—
+**2.**[^c-2648041823a09f88b4775c6f1327cd12] For the licence classes Aircraft and Aircraft (Transportable) the following information shall be provided—
 
 - (a) the make, model and approval number (issued by either the European Aviation Safety Agency or by the Civil Aviation Authority) of the station or apparatus for which authorisation is sought;
 - (b) the registration number and make and model of the aircraft on which the station will be established or apparatus installed; and
@@ -144,7 +144,7 @@ Regulation 5(2)(c)
 
 ### PART 2 — MARITIME
 
-**3.**[^key-61093495f96299ae80f01e42eb36923e] For the licence class Ship Radio the following information shall be provided—
+**3.**[^c-61093495f96299ae80f01e42eb36923e] For the licence class Ship Radio the following information shall be provided—
 
 - (a) the current name and any previous name and registration number of the vessel on which a station will be established or apparatus installed;
 - (b) the type of vessel, its gross tonnage or approximate weight and the maximum number of persons the vessel is capable of carrying;
@@ -153,21 +153,21 @@ Regulation 5(2)(c)
 - (e) whether digital selective calling is to be used by the station; and
 - (f) for emergency position indicating radio beacon equipment and personal locator beacon equipment, the type of beacon equipment for which authorisation is sought, its code which identifies its country of authorisation, its manufacturer, its serial number, and whether or not it operates using a global positioning system.
 
-**4.**[^key-29c0e0b69812972833c3673141de02d2] For the licence class Ship Portable Radio, applicants shall specify—
+**4.**[^c-29c0e0b69812972833c3673141de02d2] For the licence class Ship Portable Radio, applicants shall specify—
 
 - (a) if authorisation of emergency position indicating radio beacon equipment or personal locator beacon equipment is sought and, if so, the type of beacon equipment for which authorisation is sought, its code which identifies its country of authorisation, its manufacturer, its serial number, and whether or not it operates using a global positioning system; and
 - (b) whether digital selective calling is to be used by the station.
 
 ### PART 3 — PROGRAMME MAKING AND SPECIAL EVENTS
 
-**5.**[^key-6b87db6880be057db498732ad82338b6] For the licence classes Programme Making and Special Events (Fixed Site), Programme Making and Special Events (Link), Programme Making and Special Events (Low Power),[^key-f5ad0e806c0353797a597d0e8dbcc601] UK Wireless Microphone (Annual), UK Wireless Microphone (Biennial) and Audio Distribution System, the following information shall be provided—
+**5.**[^c-6b87db6880be057db498732ad82338b6] For the licence classes Programme Making and Special Events (Fixed Site), Programme Making and Special Events (Link), Programme Making and Special Events (Low Power),[^c-f5ad0e806c0353797a597d0e8dbcc601] UK Wireless Microphone (Annual), UK Wireless Microphone (Biennial) and Audio Distribution System, the following information shall be provided—
 
 - (a) the location or proposed area of apparatus use; and
 - (b) the proposed dates and times of apparatus use.
 
 ### PART 4 — SATELLITE SERVICES
 
-**6.**[^key-8ecc14397fe79d8d4ae60352955a9ee0] For the licence class Satellite (Earth Station Network) the following information shall be provided—
+**6.**[^c-8ecc14397fe79d8d4ae60352955a9ee0] For the licence class Satellite (Earth Station Network) the following information shall be provided—
 
 - (a) the date when satellite network operations will start;
 - (b) the name of the satellite network which the earth station will use;
@@ -177,7 +177,7 @@ Regulation 5(2)(c)
 - (f) identification of any other earth stations which are associated with the station; and
 - (g) a postal address for the control centre for the satellite network and the name of the person controlling the network at that address.
 
-**7.**[^key-f4525bc4c113fbc59b99e3bafd052614] For the licence classes Satellite (Permanent Earth Station), Satellite (Earth Station – Non-Fixed Satellite Service), and Satellite (Earth Station – Non-Geostationary) the following information shall be provided—
+**7.**[^c-f4525bc4c113fbc59b99e3bafd052614] For the licence classes Satellite (Permanent Earth Station), Satellite (Earth Station – Non-Fixed Satellite Service), and Satellite (Earth Station – Non-Geostationary) the following information shall be provided—
 
 - (a) the name and location of the proposed earth stations;
 - (b) the range of frequencies;
@@ -188,7 +188,7 @@ Regulation 5(2)(c)
 
 ### PART 5 — SCIENCE AND TECHNOLOGY
 
-**8.**[^key-b0b4b27eecabc3da6c0027a4673c7e34] For the licence classes Non-Operational Temporary Use and[^key-ded9931b1438bc3bdd2f6074fc9b81ff] Non-Operational Development, [^key-086b542d2ecef8436c38d91008210fb4]... the applicant shall provide a description of the configuration of any apparatus for which authorisation is sought, the purpose for which it will transmit and the intended geographical range of operation.
+**8.**[^c-b0b4b27eecabc3da6c0027a4673c7e34] For the licence classes Non-Operational Temporary Use and[^c-ded9931b1438bc3bdd2f6074fc9b81ff] Non-Operational Development, [^c-086b542d2ecef8436c38d91008210fb4]... the applicant shall provide a description of the configuration of any apparatus for which authorisation is sought, the purpose for which it will transmit and the intended geographical range of operation.
 
 EXPLANATORY NOTE
 
@@ -224,52 +224,52 @@ A full regulatory impact assessment of the effect of these Regulations is availa
 
 [^f00001]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36). Schedule 1 of the Act was extended to the Bailiwick of Jersey by article 2 of the Wireless Telegraphy (Jersey) Order 2006 ([S.I. 2006/3324](https://www.legislation.gov.uk/uksi/2006/3324)); and to the Bailiwick of Guernsey by article 2 of the Wireless Telegraphy (Guernsey) Order 2006 ([S.I. 2006/3325](https://www.legislation.gov.uk/uksi/2006/3325)); and to the Isle of Man by article 2 of the Wireless Telegraphy (Isle of Man) Order 2007 ([S.I. 2007/278](https://www.legislation.gov.uk/uksi/2007/278))
 
-[^key-1db77370aeb75b083a87c520121a2fc9]: Commencement: Reg. 1 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-1db77370aeb75b083a87c520121a2fc9]: Commencement: Reg. 1 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
-[^key-10d6a9b82a6b5ee66dd6b50ecbe48642]: Commencement: Reg. 2 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-10d6a9b82a6b5ee66dd6b50ecbe48642]: Commencement: Reg. 2 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2006/2785](https://www.legislation.gov.uk/uksi/2006/2785)
 
-[^key-ebc34fc6cd4ab09c49ffcea88587aba5]: Commencement: Reg. 3 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-ebc34fc6cd4ab09c49ffcea88587aba5]: Commencement: Reg. 3 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
-[^key-aac2818cb0632e112902cb98a3640b2a]: Commencement: Reg. 4 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-aac2818cb0632e112902cb98a3640b2a]: Commencement: Reg. 4 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
 [^f00003]: Footnote: The United Kingdom Plan for Frequency Authorisation is published by OFCOM in accordance with section 2(1) of the Wireless Telegraphy Act [2006 (c.36)](https://www.legislation.gov.uk/ukpga/2006/36)
 
-[^key-9b767910386975fb315a3bbfaf50e81b]: Commencement: Reg. 5 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-9b767910386975fb315a3bbfaf50e81b]: Commencement: Reg. 5 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
-[^key-457175113e3b957e397a6717fa51449c]: Textual amendment: Reg. 5(3)(j) omitted (12.4.2016) by virtue of [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/418/regulation/3/a)
+[^c-457175113e3b957e397a6717fa51449c]: Textual amendment: Reg. 5(3)(j) omitted (12.4.2016) by virtue of [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/418/regulation/3/a)
 
-[^key-04e80170cc96b49a590ae80d2d1af512]: Textual amendment: Reg. 5(3)(j) substituted for [reg. 5(3)(k)](https://www.legislation.gov.uk/uksi/2010/1823/regulation/5/3/k) (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/418/regulation/3/b)
+[^c-04e80170cc96b49a590ae80d2d1af512]: Textual amendment: Reg. 5(3)(j) substituted for [reg. 5(3)(k)](https://www.legislation.gov.uk/uksi/2010/1823/regulation/5/3/k) (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/418/regulation/3/b)
 
-[^key-d94b539be37bd0ad913ccd55cbaaf393]: Textual amendment: Reg 5(3)(l) renumbered as reg. 5(3)(k) (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/418/regulation/3/c)
+[^c-d94b539be37bd0ad913ccd55cbaaf393]: Textual amendment: Reg 5(3)(l) renumbered as reg. 5(3)(k) (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/418/regulation/3/c)
 
-[^key-13e6d4d071f8631269084586feb77c07]: Commencement: Reg. 6 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-13e6d4d071f8631269084586feb77c07]: Commencement: Reg. 6 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
-[^key-9b16d160344abdcebbad9fe16065776b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2010/1823/regulation/6/1) substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2016/418/regulation/4/1)
+[^c-9b16d160344abdcebbad9fe16065776b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2010/1823/regulation/6/1) substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2016/418/regulation/4/1)
 
-[^key-307d25eb939d4e914df349dd60a5a3d1]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2010/1823/regulation/6/2) substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/418/regulation/4/2)
+[^c-307d25eb939d4e914df349dd60a5a3d1]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2010/1823/regulation/6/2) substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/418/regulation/4/2)
 
-[^key-ef3ad1a61eaeacaca412fd654d9e90a6]: Textual amendment: Sch. para. 1 substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/418/regulation/5)
+[^c-ef3ad1a61eaeacaca412fd654d9e90a6]: Textual amendment: Sch. para. 1 substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/418/regulation/5)
 
-[^key-2648041823a09f88b4775c6f1327cd12]: Commencement: Sch. para. 2 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-2648041823a09f88b4775c6f1327cd12]: Commencement: Sch. para. 2 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
-[^key-61093495f96299ae80f01e42eb36923e]: Commencement: Sch. para. 3 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-61093495f96299ae80f01e42eb36923e]: Commencement: Sch. para. 3 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
-[^key-29c0e0b69812972833c3673141de02d2]: Textual amendment: Sch. para. 4 substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/418/regulation/6)
+[^c-29c0e0b69812972833c3673141de02d2]: Textual amendment: Sch. para. 4 substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/418/regulation/6)
 
-[^key-6b87db6880be057db498732ad82338b6]: Commencement: Sch. para. 5 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-6b87db6880be057db498732ad82338b6]: Commencement: Sch. para. 5 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
-[^key-f5ad0e806c0353797a597d0e8dbcc601]: Textual amendment: Words in Sch. para. 5 substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/418/regulation/7)
+[^c-f5ad0e806c0353797a597d0e8dbcc601]: Textual amendment: Words in Sch. para. 5 substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/418/regulation/7)
 
-[^key-8ecc14397fe79d8d4ae60352955a9ee0]: Commencement: Sch. para. 6 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-8ecc14397fe79d8d4ae60352955a9ee0]: Commencement: Sch. para. 6 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
-[^key-f4525bc4c113fbc59b99e3bafd052614]: Commencement: Sch. para. 7 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-f4525bc4c113fbc59b99e3bafd052614]: Commencement: Sch. para. 7 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
 [^f00006]: Footnote: Edition of 2008. The Radio Regulations are published by the International Telecommunications Union and made under Article 13 of the Constitution of the International Telecommunication Union. The Constitution and Convention of the International Telecommunication Union were adopted in Geneva in 1992 and ratified by the United Kingdom in 1994 (Cm 3145). They were modified by the Plenipotentiary Conference in Kyoto in 1994 as ratified by the United Kingdom in 1997 (Cm 3779)
 
-[^key-b0b4b27eecabc3da6c0027a4673c7e34]: Commencement: Sch. para. 8 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
+[^c-b0b4b27eecabc3da6c0027a4673c7e34]: Commencement: Sch. para. 8 in force at 9.8.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1823/regulation/1)
 
-[^key-ded9931b1438bc3bdd2f6074fc9b81ff]: Textual amendment: Word in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/1823/schedule/paragraph/8) substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/418/regulation/8/a)
+[^c-ded9931b1438bc3bdd2f6074fc9b81ff]: Textual amendment: Word in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/1823/schedule/paragraph/8) substituted (12.4.2016) by [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/418/regulation/8/a)
 
-[^key-086b542d2ecef8436c38d91008210fb4]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/1823/schedule/paragraph/8) omitted (12.4.2016) by virtue of [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/418/regulation/8/b)
+[^c-086b542d2ecef8436c38d91008210fb4]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/1823/schedule/paragraph/8) omitted (12.4.2016) by virtue of [The Wireless Telegraphy (Licensing Procedures) (Amendment) Regulations 2016 (S.I. 2016/418)](https://www.legislation.gov.uk/uksi/2016/418), [regs. 1](https://www.legislation.gov.uk/uksi/2016/418/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/418/regulation/8/b)

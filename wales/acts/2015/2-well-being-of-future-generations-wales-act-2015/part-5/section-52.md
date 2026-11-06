@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Meaning of “public body”: further provision[^c2253095][^key-d5c05dfff1bff637c1db1a93b584be9b]
+## 52. Meaning of “public body”: further provision[^c2253095][^c-d5c05dfff1bff637c1db1a93b584be9b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c2253095]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2015/2/section/52) partly in force; [s. 52](https://www.legislation.gov.uk/anaw/2015/2/section/52) in force for specified purposes at 30.4.2015, see [s. 56(1)(b)](https://www.legislation.gov.uk/anaw/2015/2/section/56/1/b)
 
-[^key-d5c05dfff1bff637c1db1a93b584be9b]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2015/2/section/52) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(n)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/n)
+[^c-d5c05dfff1bff637c1db1a93b584be9b]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2015/2/section/52) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(n)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/n)

@@ -45,7 +45,7 @@ Coming into force
 
 The Archbishops’ Council, in exercise of the powers conferred by section 2 of the Church of England (Miscellaneous Provisions) Measure 2020[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3071759204f38e786c17c3bad1eae88d]
+## 1. Citation, commencement and interpretation[^c-3071759204f38e786c17c3bad1eae88d]
 
 (1) These Regulations may be cited as the National Ministry Register (Clergy) Regulations 2020.
 
@@ -55,7 +55,7 @@ The Archbishops’ Council, in exercise of the powers conferred by section 2 of 
 
 (4) A requirement in these Regulations to provide information (however it is expressed) is to be read as a requirement to do so in writing.
 
-## 2. Registration information[^key-a3801dd9299240bd8e2e53e1e8744b04]
+## 2. Registration information[^c-a3801dd9299240bd8e2e53e1e8744b04]
 
 (1) In these Regulations, the “registration information”, in relation to a clerk in Holy Orders, is—
 
@@ -71,7 +71,7 @@ The Archbishops’ Council, in exercise of the powers conferred by section 2 of 
 
 (4) In its application to the diocese of Sodor and Man, this regulation has effect as if the reference in paragraph (2) to section 99 of the Mission and Pastoral Measure 2011 were a reference to section 61 of the Dioceses, Pastoral and Mission Measure 2007[^f00004].
 
-## 3. Registration officer[^key-c1aabe823f21ed83de510f220cb98eb1]
+## 3. Registration officer[^c-c1aabe823f21ed83de510f220cb98eb1]
 
 (1) This regulation applies for the purpose of determining who under these Regulations is the registration officer for a clerk in Holy Orders.
 
@@ -95,9 +95,9 @@ The Archbishops’ Council, in exercise of the powers conferred by section 2 of 
 - (b) in the case of a diocesan bishop, the senior suffragan bishop of the diocese or, if there is no suffragan bishop, the senior archdeacon (with seniority for these purposes being determined for each office according to the length of service in that office in that diocese);
 - (c) in the case of the dean of a Royal Peculiar, the senior clerk in that Royal Peculiar (with seniority for these purposes being determined according to the length of service as a clerk in that Royal Peculiar) or, if there is no such clerk, the person who is for the time being the registration officer for clerks who have authority to exercise ministry in the diocese the area of which includes the Royal Peculiar.
 
-## 4. Requirements to provide information: existing or new authority[^key-8c4aa290da21e2f55044ca7cdff9b9fa]
+## 4. Requirements to provide information: existing or new authority[^c-8c4aa290da21e2f55044ca7cdff9b9fa]
 
-(1) The registration officer for a clerk in Holy Orders must, within five working days of the relevant commencement date[^key-c290e5600eece1db8c513461caca1794], provide the Council with the registration information about that clerk.
+(1) The registration officer for a clerk in Holy Orders must, within five working days of the relevant commencement date[^c-c290e5600eece1db8c513461caca1794], provide the Council with the registration information about that clerk.
 
 (2) Where a clerk in Holy Orders becomes authorised to exercise ministry, the registration officer for the clerk must, within five working days of the clerk becoming so authorised, provide the Archbishops’ Council with the registration information about the clerk.
 
@@ -105,11 +105,11 @@ The Archbishops’ Council, in exercise of the powers conferred by section 2 of 
 
 (4) Where the authority of a clerk in Holy Orders to exercise ministry is varied with the result that the registration information about the clerk is varied, the registration officer for the clerk must, within five working days of the variation taking effect, inform the Archbishops’ Council of the variation to the registration information.
 
-(5)[^key-ac2d5c8c6bb3691f0f1167403f77aeb0] The requirement imposed on the registration officer under paragraph (2) does not arise in the case of an authority to exercise ministry which is due to come to an end no more than 14 days after it begins.
+(5)[^c-ac2d5c8c6bb3691f0f1167403f77aeb0] The requirement imposed on the registration officer under paragraph (2) does not arise in the case of an authority to exercise ministry which is due to come to an end no more than 14 days after it begins.
 
-(6)[^key-a46a39a094c1d0619af4726c0915ed84] In paragraph (1), “**the relevant commencement date**” means the date on which this paragraph comes into force.
+(6)[^c-a46a39a094c1d0619af4726c0915ed84] In paragraph (1), “**the relevant commencement date**” means the date on which this paragraph comes into force.
 
-## 5. Requirements to provide information: termination or suspension of authority[^key-4d4c6b80554e147abf2ec8a85a244d57]
+## 5. Requirements to provide information: termination or suspension of authority[^c-4d4c6b80554e147abf2ec8a85a244d57]
 
 (1) Where the authority of a clerk in Holy Orders to exercise ministry is terminated, or ceases for a limited period, in circumstances of a kind mentioned in paragraph (2), the registration officer for the clerk must, within 24 hours of the termination or cessation taking effect, inform the Archbishops’ Council of the termination or cessation but not of the circumstances.
 
@@ -131,9 +131,9 @@ The Archbishops’ Council, in exercise of the powers conferred by section 2 of 
 
 (5) A reference in this regulation to a provision of a Measure which does not have effect in the Channel Islands or either of them is to be read as including a reference to the equivalent provision which does have effect there; and for this purpose, the references to the Channel Islands or either of them have the same meaning as references to the Bailiwicks or either of them have in the Channel Islands Measure 2020[^f00012].
 
-(6)[^key-026334537f49cb5c068e71d6aa3eaad3] In its application to the Isle of Man, this regulation has effect as if each reference in paragraph (2) to a Measure which extends to the Isle of Man were a reference to that Measure as it has effect in that island.
+(6)[^c-026334537f49cb5c068e71d6aa3eaad3] In its application to the Isle of Man, this regulation has effect as if each reference in paragraph (2) to a Measure which extends to the Isle of Man were a reference to that Measure as it has effect in that island.
 
-## 6. Publication etc. of registration information[^key-ac877bc69baf06ff87972edaddad767e]
+## 6. Publication etc. of registration information[^c-ac877bc69baf06ff87972edaddad767e]
 
 The Archbishops’ Council must publish and make available free of charge (in each case, whether in electronic form or otherwise) the registration information in relation to each clerk in Holy Orders, except the information referred to in regulation 2(1)(b) (contact details).
 
@@ -179,29 +179,29 @@ Regulation 6 requires the Archbishops’ Council to publish and make available t
 
 [^f00001]: Footnote: [2020 No.1](https://www.legislation.gov.uk/ukcm/2020/1).
 
-[^key-3071759204f38e786c17c3bad1eae88d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+[^c-3071759204f38e786c17c3bad1eae88d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
 
 [^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-a3801dd9299240bd8e2e53e1e8744b04]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1538/regulation/2) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+[^c-a3801dd9299240bd8e2e53e1e8744b04]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1538/regulation/2) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
 
 [^f00003]: Footnote: [2011 No.3](https://www.legislation.gov.uk/ukcm/2011/3).
 
 [^f00004]: Footnote: [2007 No.1](https://www.legislation.gov.uk/ukcm/2007/1).
 
-[^key-c1aabe823f21ed83de510f220cb98eb1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1538/regulation/3) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+[^c-c1aabe823f21ed83de510f220cb98eb1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1538/regulation/3) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
 
 [^f00005]: Footnote: [1986 No.1](https://www.legislation.gov.uk/ukcm/1986/1).
 
-[^key-8c4aa290da21e2f55044ca7cdff9b9fa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+[^c-8c4aa290da21e2f55044ca7cdff9b9fa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
 
-[^key-c290e5600eece1db8c513461caca1794]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4/1) substituted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/2)
+[^c-c290e5600eece1db8c513461caca1794]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4/1) substituted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/2)
 
-[^key-ac2d5c8c6bb3691f0f1167403f77aeb0]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4/5) inserted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/3)
+[^c-ac2d5c8c6bb3691f0f1167403f77aeb0]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4/5) inserted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/3)
 
-[^key-a46a39a094c1d0619af4726c0915ed84]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4/6) inserted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/4)
+[^c-a46a39a094c1d0619af4726c0915ed84]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/4/6) inserted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/4)
 
-[^key-4d4c6b80554e147abf2ec8a85a244d57]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1538/regulation/5) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+[^c-4d4c6b80554e147abf2ec8a85a244d57]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1538/regulation/5) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
 
 [^f00006]: Footnote: [2003 No.3](https://www.legislation.gov.uk/ukcm/2003/3).
 
@@ -217,6 +217,6 @@ Regulation 6 requires the Archbishops’ Council to publish and make available t
 
 [^f00012]: Footnote: [2020 No.2](https://www.legislation.gov.uk/ukcm/2020/2).
 
-[^key-026334537f49cb5c068e71d6aa3eaad3]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/5/6) inserted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/5)
+[^c-026334537f49cb5c068e71d6aa3eaad3]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/5/6) inserted (6.3.2026) by [The National Ministry Register Regulations 2026 (S.I. 2026/193)](https://www.legislation.gov.uk/uksi/2026/193), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/193/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2026/193/regulation/8/5)
 
-[^key-ac877bc69baf06ff87972edaddad767e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1538/regulation/6) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)
+[^c-ac877bc69baf06ff87972edaddad767e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1538/regulation/6) in force at 1.5.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1538/regulation/1/2)

@@ -32,7 +32,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Controls on Certain Azo Dyes and “Blue Colourant” (Amendment) Regulations 2004 (revoked)[^key-c2eb65dc51692b4c590844cef8d68317]
+The Controls on Certain Azo Dyes and “Blue Colourant” (Amendment) Regulations 2004 (revoked)[^c-c2eb65dc51692b4c590844cef8d68317]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st December 2004
 
-[^key-c2eb65dc51692b4c590844cef8d68317]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2eb65dc51692b4c590844cef8d68317]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-c2eb65dc51692b4c590844cef8d68317]
+## 1. Citation and Commencement[^c-c2eb65dc51692b4c590844cef8d68317]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-c2eb65dc51692b4c590844cef8d68317]
+## 2. Amendment[^c-c2eb65dc51692b4c590844cef8d68317]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2eb65dc51692b4c590844cef8d68317]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2eb65dc51692b4c590844cef8d68317]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c2eb65dc51692b4c590844cef8d68317]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2eb65dc51692b4c590844cef8d68317]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2eb65dc51692b4c590844cef8d68317]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [reg. 1](https://www.legislation.gov.uk/uksi/2008/2852/regulation/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)
+[^c-c2eb65dc51692b4c590844cef8d68317]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [reg. 1](https://www.legislation.gov.uk/uksi/2008/2852/regulation/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)

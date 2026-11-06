@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136A. Use of police stations as places of safety[^key-bfaaec77cd7fdcfb76bf33a1c270ac85]
+## 136A. Use of police stations as places of safety[^c-bfaaec77cd7fdcfb76bf33a1c270ac85]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfaaec77cd7fdcfb76bf33a1c270ac85]: Textual amendment: S. 136A inserted (31.1.2017 for specified purposes, 11.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 81(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/81/6), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))
+[^c-bfaaec77cd7fdcfb76bf33a1c270ac85]: Textual amendment: S. 136A inserted (31.1.2017 for specified purposes, 11.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 81(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/81/6), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))

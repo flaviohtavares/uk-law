@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Service of documents on contractors[^key-a1480f1de9bf38561455df6f961c9989]
+## 38. Service of documents on contractors[^c-a1480f1de9bf38561455df6f961c9989]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1480f1de9bf38561455df6f961c9989]: Commencement: Reg. 38 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-a1480f1de9bf38561455df6f961c9989]: Commencement: Reg. 38 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

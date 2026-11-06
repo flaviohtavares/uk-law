@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Planning Act 2008: right to enter and survey land[^key-ab00069d5279bf5d8c50fd21e2658519][^key-4970faf4b5304a0cd3dc5b3ea5f9d2fb]
+## 11. Planning Act 2008: right to enter and survey land[^c-ab00069d5279bf5d8c50fd21e2658519][^c-4970faf4b5304a0cd3dc5b3ea5f9d2fb]
 
 *Extent: E+W*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab00069d5279bf5d8c50fd21e2658519]: Commencement: S. 11 not in force at Royal Assent, see [s. 118(1)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/e)
+[^c-ab00069d5279bf5d8c50fd21e2658519]: Commencement: S. 11 not in force at Royal Assent, see [s. 118(1)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/e)
 
-[^key-4970faf4b5304a0cd3dc5b3ea5f9d2fb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/34/section/11) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/g)
+[^c-4970faf4b5304a0cd3dc5b3ea5f9d2fb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/34/section/11) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/g)

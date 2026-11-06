@@ -30,7 +30,7 @@ summary: ''
 - (a) 1 April 2012;
 - (b) each 1 April falling 5 years, or a multiple of 5 years, after 1 April 2012.
 
-(2A)[^key-a228d4860cdd9ca49fbbe94875c42ca2] But a day that is a valuation date only because of subsection (2)(b) (a “5-yearly valuation date”) is to be treated as if it were not a valuation date for the purpose of determining the taxable value of a single-dwelling interest on any day in the chargeable period beginning with that 5-yearly valuation date.
+(2A)[^c-a228d4860cdd9ca49fbbe94875c42ca2] But a day that is a valuation date only because of subsection (2)(b) (a “5-yearly valuation date”) is to be treated as if it were not a valuation date for the purpose of determining the taxable value of a single-dwelling interest on any day in the chargeable period beginning with that 5-yearly valuation date.
 
 (3) The following are also valuation dates in the case of any single-dwelling interest to which a company is entitled on the relevant day (otherwise than as a member of a partnership)—
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a228d4860cdd9ca49fbbe94875c42ca2]: Textual amendment: S. 102(2A) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 71](https://www.legislation.gov.uk/ukpga/2015/11/section/71)
+[^c-a228d4860cdd9ca49fbbe94875c42ca2]: Textual amendment: S. 102(2A) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 71](https://www.legislation.gov.uk/ukpga/2015/11/section/71)

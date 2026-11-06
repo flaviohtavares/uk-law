@@ -49,7 +49,7 @@ summary: ''
 | - (ii) having an engine exceeding 250 cc: | 30 watts minimum |
 | *Extent: E+W+S+N.I.*<br>**9.**[^M_I_ac353fdb-c108-42c9-8e16-32f6d1f3f739] Intensity: | No requirement |
 
-**10.**[^key-af581effb047312aee04021c564ff81d] Electrical connections–
+**10.**[^c-af581effb047312aee04021c564ff81d] Electrical connections–
 
 (a) Every main-beam headlamp shall be so constructed that the light emitted therefrom–
 
@@ -65,13 +65,13 @@ summary: ''
 | *Extent: E+W+S+N.I.*<br>**11.**[^M_I_d40b7397-c212-45c6-c6da-f2fc06121f7f] Tell-tale–<br>(a) Any vehicle not covered by sub-paragraph (b): | A circuit-closed tell-tale shall be fitted |
 | (b) A motor vehicle first used before 1st April 1986: | No requirement |
 
-**12.**[^key-4e5c5a61a8e80619e6a21790d9019d80] Other requirements–
+**12.**[^c-4e5c5a61a8e80619e6a21790d9019d80] Other requirements–
 
 (a) Every main-beam headlamp shall be so constructed that the direction of the beam of light emitted therefrom can be adjusted whilst the vehicle is stationary.
 
 (b) Except in the case of a bus first used before 1st October 1969, where two main-beam headlamps are required to be fitted they shall form a matched pair.
 
-**13.**[^key-a5f4f459b772cb5421412a7b7245f449] Definitions–
+**13.**[^c-a5f4f459b772cb5421412a7b7245f449] Definitions–
 
 - In this Schedule–
 - “approval mark” means–
@@ -79,7 +79,7 @@ summary: ''
   - (b) a marking designated as an approval mark by regulation 4 of the Designation of Approval Marks Regulations and shown at item 1A or 1B or 1F or 5A or 5B or 5F or 8C or 8D or 8E or 8F or 8M or 8N or 20C or 20D or 20E or 20F or 20M or 20N or 31A or 31D of Schedule 2 to those Regulations; and
 - “British Standard mark” means the specification for sealed beam headlamps published by the British Standards Institution under the reference BS AU 40: Part 4a: 1966 as amended by Amendment AMD 2188 published in December 1976, namely “B.S. AU40”.
 
-### PART II — Requirements relating to optional main-beam headlamps[^key-ebe1dceb190b5d67f85be59142b01995]
+### PART II — Requirements relating to optional main-beam headlamps[^c-ebe1dceb190b5d67f85be59142b01995]
 
 Any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 7, 10 and 12(a) of Part I and, in the case of a motor vehicle first used on or after 1st April 1991, paragraph 5 of Part I.
 
@@ -103,12 +103,12 @@ Any number may be fitted and the only requirements prescribed by these Regulatio
 
 [^M_I_ac353fdb-c108-42c9-8e16-32f6d1f3f739]: Commencement: [Sch. 5 Pt. I para. 9](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/paragraph/10) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-af581effb047312aee04021c564ff81d]: Commencement: [Sch. 5 Pt. I para. 10](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/paragraph/10) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-af581effb047312aee04021c564ff81d]: Commencement: [Sch. 5 Pt. I para. 10](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/paragraph/10) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^M_I_d40b7397-c212-45c6-c6da-f2fc06121f7f]: Commencement: [Sch. 5 Pt. I para. 11](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/paragraph/10) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-4e5c5a61a8e80619e6a21790d9019d80]: Commencement: [Sch. 5 Pt. I para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-4e5c5a61a8e80619e6a21790d9019d80]: Commencement: [Sch. 5 Pt. I para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-a5f4f459b772cb5421412a7b7245f449]: Commencement: [Sch. 5 Pt. I para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-a5f4f459b772cb5421412a7b7245f449]: Commencement: [Sch. 5 Pt. I para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-ebe1dceb190b5d67f85be59142b01995]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-ebe1dceb190b5d67f85be59142b01995]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

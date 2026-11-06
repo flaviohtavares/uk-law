@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Transitional[^key-e7e23464abe2d3804f10e21ba39fb32b]
+## 93. Transitional[^c-e7e23464abe2d3804f10e21ba39fb32b]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7e23464abe2d3804f10e21ba39fb32b]: Commencement: S. 93 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/32)
+[^c-e7e23464abe2d3804f10e21ba39fb32b]: Commencement: S. 93 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/32)

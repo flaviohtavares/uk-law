@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Revision of the postal administrator’s proposals[^key-2edbc5e372bc0f94cda4c6ef9d92e758]
+## 33. Revision of the postal administrator’s proposals[^c-2edbc5e372bc0f94cda4c6ef9d92e758]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2edbc5e372bc0f94cda4c6ef9d92e758]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2013/3208/rule/33) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2edbc5e372bc0f94cda4c6ef9d92e758]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2013/3208/rule/33) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

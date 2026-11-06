@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Health and safety document[^key-78d336e41aa803497da56e1b72fc40db]
+## 9. Health and safety document[^c-78d336e41aa803497da56e1b72fc40db]
 
 *Extent: N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78d336e41aa803497da56e1b72fc40db]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2016/427/regulation/9) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-78d336e41aa803497da56e1b72fc40db]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2016/427/regulation/9) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00015]: Footnote: Regulation 3 was amended by [S.R. 2001 No.348](https://www.legislation.gov.uk/nisr/2001/348)

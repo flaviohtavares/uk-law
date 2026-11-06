@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Power to charge for services[^key-9d3ecc9523cacaafb2ebb6555303d3eb][^key-d5e817ec83723a22e5b5dd0fadd238dc]
+## 22. Power to charge for services[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-d5e817ec83723a22e5b5dd0fadd238dc]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d3ecc9523cacaafb2ebb6555303d3eb]: Textual amendment: Pt. 1 Ch. 2 repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
+[^c-9d3ecc9523cacaafb2ebb6555303d3eb]: Textual amendment: Pt. 1 Ch. 2 repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
 
-[^key-d5e817ec83723a22e5b5dd0fadd238dc]: Commencement: S. 22 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-d5e817ec83723a22e5b5dd0fadd238dc]: Commencement: S. 22 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

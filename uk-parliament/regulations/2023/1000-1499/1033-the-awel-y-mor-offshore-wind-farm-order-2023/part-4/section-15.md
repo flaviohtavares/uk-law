@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Authority to survey and investigate the land[^key-eae5bc2be3fc96a440f6e3250a870a33]
+## 15. Authority to survey and investigate the land[^c-eae5bc2be3fc96a440f6e3250a870a33]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eae5bc2be3fc96a440f6e3250a870a33]: Commencement: Art. 15 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-eae5bc2be3fc96a440f6e3250a870a33]: Commencement: Art. 15 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

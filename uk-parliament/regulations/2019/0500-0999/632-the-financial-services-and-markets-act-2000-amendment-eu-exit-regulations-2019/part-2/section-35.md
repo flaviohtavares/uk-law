@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Section 137J (rules about recovery plans: duty to consult)[^key-55f8645beccd599cbb5516263b50bd88]
+## 35. Section 137J (rules about recovery plans: duty to consult)[^c-55f8645beccd599cbb5516263b50bd88]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ In section 137J [^c23657601] (rules about recovery plans: duty to consult), in s
 
 ## Annotations
 
-[^key-55f8645beccd599cbb5516263b50bd88]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-55f8645beccd599cbb5516263b50bd88]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657601]: Marginal citation: Part 9A of the Financial Services and Markets Act 2000 (consisting of sections 137A to 141A) was inserted by section 24(1) of the Financial Services Act 2012.
 

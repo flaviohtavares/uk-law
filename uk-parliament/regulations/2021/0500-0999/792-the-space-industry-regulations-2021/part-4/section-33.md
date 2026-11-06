@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Information to be provided to regulator about risk assessment[^key-a0ae0ecec4428ea5a4d96c8ff7469d58]
+## 33. Information to be provided to regulator about risk assessment[^c-a0ae0ecec4428ea5a4d96c8ff7469d58]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0ae0ecec4428ea5a4d96c8ff7469d58]: Commencement: Reg. 33 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a0ae0ecec4428ea5a4d96c8ff7469d58]: Commencement: Reg. 33 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

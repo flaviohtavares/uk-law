@@ -27,7 +27,7 @@ summary: ''
 
 is dealt with under Chapter 3 of Part 4.
 
-(1A)[^key-7bdbc06d82292bb0e1ca83f9a737ede4] Subsection (1) does not apply in the case of the long-term business of an insurance company.
+(1A)[^c-7bdbc06d82292bb0e1ca83f9a737ede4] Subsection (1) does not apply in the case of the long-term business of an insurance company.
 
 (2) Any receipt or other credit item, so far as it falls within—
 
@@ -38,4 +38,4 @@ is dealt with under Chapter 4 of Part 10.
 
 ## Annotations
 
-[^key-7bdbc06d82292bb0e1ca83f9a737ede4]: Textual amendment: S. 201(1A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 145](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/145)
+[^c-7bdbc06d82292bb0e1ca83f9a737ede4]: Textual amendment: S. 201(1A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 145](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/145)

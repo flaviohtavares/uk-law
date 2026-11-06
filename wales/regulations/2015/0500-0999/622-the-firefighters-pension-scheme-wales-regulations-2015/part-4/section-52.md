@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Application of Chapter[^key-2cfce38128721439960d47db3c5377da]
+## 52. Application of Chapter[^c-2cfce38128721439960d47db3c5377da]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cfce38128721439960d47db3c5377da]: Commencement: Reg. 52 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-2cfce38128721439960d47db3c5377da]: Commencement: Reg. 52 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

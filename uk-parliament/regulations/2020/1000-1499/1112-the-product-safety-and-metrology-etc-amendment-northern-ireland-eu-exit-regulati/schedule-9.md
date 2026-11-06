@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 10
 
-**1.**[^key-ae959418855e6dc7bcb9a29d10cca774] (1) The Simple Pressure Vessels (Safety) Regulations 2016 are amended as follows.
+**1.**[^c-ae959418855e6dc7bcb9a29d10cca774] (1) The Simple Pressure Vessels (Safety) Regulations 2016 are amended as follows.
 
 (2) In regulation 45(1)(b)—
 
@@ -39,4 +39,4 @@ Regulation 10
 
 ## Annotations
 
-[^key-ae959418855e6dc7bcb9a29d10cca774]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/9/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-ae959418855e6dc7bcb9a29d10cca774]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/9/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

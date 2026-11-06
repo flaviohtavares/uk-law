@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Notice by partnership[^key-904599d874af683cfa877224da94e8ba]
+## 7. Notice by partnership[^c-904599d874af683cfa877224da94e8ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-904599d874af683cfa877224da94e8ba]: Commencement: Reg. 7 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-904599d874af683cfa877224da94e8ba]: Commencement: Reg. 7 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
 [^f00003]: Footnote: [1890 c. 39](https://www.legislation.gov.uk/ukpga/1890/39) .

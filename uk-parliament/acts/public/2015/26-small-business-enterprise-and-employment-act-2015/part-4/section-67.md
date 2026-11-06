@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Information to Secretary of State[^key-9cb904797af2f08fa77fe87365808213]
+## 67. Information to Secretary of State[^c-9cb904797af2f08fa77fe87365808213]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Secretary of State may require the Adjudicator to provide information to ass
 
 ## Annotations
 
-[^key-9cb904797af2f08fa77fe87365808213]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2015/26/section/67) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-9cb904797af2f08fa77fe87365808213]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2015/26/section/67) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

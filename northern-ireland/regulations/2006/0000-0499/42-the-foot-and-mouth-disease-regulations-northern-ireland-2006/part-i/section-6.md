@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Dissemination of information concerning prohibitions and requirements[^key-e44926f9f98e7e243c51c3ba2f8bf401]
+## 6. Dissemination of information concerning prohibitions and requirements[^c-e44926f9f98e7e243c51c3ba2f8bf401]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ are publicised.
 
 ## Annotations
 
-[^key-e44926f9f98e7e243c51c3ba2f8bf401]: Commencement: Reg. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-e44926f9f98e7e243c51c3ba2f8bf401]: Commencement: Reg. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

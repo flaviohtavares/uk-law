@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Export price[^key-05fc5d154b1209f5eb4dc4928f9fc1db]
+## 15. Export price[^c-05fc5d154b1209f5eb4dc4928f9fc1db]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05fc5d154b1209f5eb4dc4928f9fc1db]: Commencement: Reg. 15 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-05fc5d154b1209f5eb4dc4928f9fc1db]: Commencement: Reg. 15 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
 [^c24288061]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248).

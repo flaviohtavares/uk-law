@@ -32,7 +32,7 @@ summary: ''
 
 Business Tenancies
 
-The Business Tenancies (Coronavirus) (Restriction on Forfeiture: Relevant Period) (Northern Ireland) Regulations 2021 (revoked)[^key-2c96a875b2bb7242e643f1dd5c8ece23]
+The Business Tenancies (Coronavirus) (Restriction on Forfeiture: Relevant Period) (Northern Ireland) Regulations 2021 (revoked)[^c-2c96a875b2bb7242e643f1dd5c8ece23]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 29th March 2021
 
-[^key-2c96a875b2bb7242e643f1dd5c8ece23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c96a875b2bb7242e643f1dd5c8ece23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2c96a875b2bb7242e643f1dd5c8ece23]
+## 1. Citation, commencement and interpretation[^c-2c96a875b2bb7242e643f1dd5c8ece23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of “relevant period”[^key-2c96a875b2bb7242e643f1dd5c8ece23]
+## 2. Extension of “relevant period”[^c-2c96a875b2bb7242e643f1dd5c8ece23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2c96a875b2bb7242e643f1dd5c8ece23]
+## 3. Revocation[^c-2c96a875b2bb7242e643f1dd5c8ece23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c96a875b2bb7242e643f1dd5c8ece23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c96a875b2bb7242e643f1dd5c8ece23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
 ## Annotations
 
-[^key-2c96a875b2bb7242e643f1dd5c8ece23]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2021/74) revoked (29.6.2021) by [The Business Tenancies (Coronavirus) (Restriction on Forfeiture: Relevant Period) (Northern Ireland) (No. 2) Regulations 2021 (revoked) 2021 (S.R. 2021/185)](https://www.legislation.gov.uk/nisr/2021/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/185/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/185/regulation/3)
+[^c-2c96a875b2bb7242e643f1dd5c8ece23]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2021/74) revoked (29.6.2021) by [The Business Tenancies (Coronavirus) (Restriction on Forfeiture: Relevant Period) (Northern Ireland) (No. 2) Regulations 2021 (revoked) 2021 (S.R. 2021/185)](https://www.legislation.gov.uk/nisr/2021/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/185/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2021/185/regulation/3)

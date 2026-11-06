@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Removal of requirement to appoint a medical officer etc[^key-e99a04b009e5e659853b4276e8e9042a]
+## 25. Removal of requirement to appoint a medical officer etc[^c-e99a04b009e5e659853b4276e8e9042a]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e99a04b009e5e659853b4276e8e9042a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2007/21/section/25) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/f)
+[^c-e99a04b009e5e659853b4276e8e9042a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2007/21/section/25) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/f)

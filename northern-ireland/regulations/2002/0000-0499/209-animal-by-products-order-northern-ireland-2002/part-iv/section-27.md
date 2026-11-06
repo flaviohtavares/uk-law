@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Cleansing and disinfection[^key-ad1bee8a3efab7ae7e569e53c223e737]
+## 27. Cleansing and disinfection[^c-ad1bee8a3efab7ae7e569e53c223e737]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad1bee8a3efab7ae7e569e53c223e737]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/209) revoked (3.12.2003) by [Animal By-Products Regulations (Northern Ireland) 2003 (S.R. 2003/495)](https://www.legislation.gov.uk/nisr/2003/495), [reg. 1](https://www.legislation.gov.uk/nisr/2003/495/regulation/1), [Sch. 5 reg. 51](https://www.legislation.gov.uk/nisr/2003/495/schedule/5/regulation/51)
+[^c-ad1bee8a3efab7ae7e569e53c223e737]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/209) revoked (3.12.2003) by [Animal By-Products Regulations (Northern Ireland) 2003 (S.R. 2003/495)](https://www.legislation.gov.uk/nisr/2003/495), [reg. 1](https://www.legislation.gov.uk/nisr/2003/495/regulation/1), [Sch. 5 reg. 51](https://www.legislation.gov.uk/nisr/2003/495/schedule/5/regulation/51)

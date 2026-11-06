@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Saving and transitional provision[^key-b5da4250918918c1fa66d71f91b6c94b]
+## 58. Saving and transitional provision[^c-b5da4250918918c1fa66d71f91b6c94b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5da4250918918c1fa66d71f91b6c94b]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2014/12/section/58) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-b5da4250918918c1fa66d71f91b6c94b]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2014/12/section/58) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

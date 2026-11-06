@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Arbitration[^key-4ffb1a5129c0acc76c344cbd7d42c7e2]
+## 54. Arbitration[^c-4ffb1a5129c0acc76c344cbd7d42c7e2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Unless otherwise agreed between the parties, any difference under any provision 
 
 ## Annotations
 
-[^key-4ffb1a5129c0acc76c344cbd7d42c7e2]: Commencement: Art. 54 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-4ffb1a5129c0acc76c344cbd7d42c7e2]: Commencement: Art. 54 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

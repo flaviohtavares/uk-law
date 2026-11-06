@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18.[^key-6d92456b564da702bd1896046f8009f8]
+## 18.[^c-6d92456b564da702bd1896046f8009f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 86 (trusts for benefit of employees), in subsection (1)(b), after “
 
 ## Annotations
 
-[^key-6d92456b564da702bd1896046f8009f8]: Commencement: Reg. 18 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-6d92456b564da702bd1896046f8009f8]: Commencement: Reg. 18 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Authorised investment funds with limited investment powers – stamp duty reserve tax[^key-a32c519b163c292a4ed06ac93a9b84d1]
+## 14A. Authorised investment funds with limited investment powers – stamp duty reserve tax[^c-a32c519b163c292a4ed06ac93a9b84d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ paragraph 2 of Schedule 19 to the Finance Act 1999 (“FA 1999”) shall not app
   - (b) a Bank Holiday in the United Kingdom under the Banking and Financial Dealings Act 1971.
 - “money” includes cash held on deposit but does not include securities of any kind.
 
-## 14A. Authorised investment funds with limited investment powers – stamp duty reserve tax[^key-f61679172af3a3c7b630cd40b4c4380b]
+## 14A. Authorised investment funds with limited investment powers – stamp duty reserve tax[^c-f61679172af3a3c7b630cd40b4c4380b]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ paragraph 2 of Schedule 19 to the Finance Act 1999 (“FA 1999”) shall not app
 
 ## Annotations
 
-[^key-a32c519b163c292a4ed06ac93a9b84d1]: Textual amendment: Reg. 14A inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2008/3159/regulation/10)
+[^c-a32c519b163c292a4ed06ac93a9b84d1]: Textual amendment: Reg. 14A inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2008/3159/regulation/10)
 
-[^key-f61679172af3a3c7b630cd40b4c4380b]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2006/964/regulation/14A) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Stamp Duty Reserve Tax (Finance Act 1999, Schedule 19) (Consequential Amendments) Regulations 2014 (S.I. 2014/1932)](https://www.legislation.gov.uk/uksi/2014/1932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1932/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/1932/regulation/4/2)
+[^c-f61679172af3a3c7b630cd40b4c4380b]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2006/964/regulation/14A) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Stamp Duty Reserve Tax (Finance Act 1999, Schedule 19) (Consequential Amendments) Regulations 2014 (S.I. 2014/1932)](https://www.legislation.gov.uk/uksi/2014/1932), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1932/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/1932/regulation/4/2)

@@ -38,9 +38,9 @@ summary: ''
 (5) The provisions of the Corporation Tax Acts relating to distributions apply to distributions made by the company only so far as the distributions are made out of—
 
 - (a) profits of the company which are brought into charge to corporation tax, or
-- (b)[^key-1f55ab89f8fab9586ac29bad8a1df43f] income of the company consisting of exempt ABGH distributions.
+- (b)[^c-1f55ab89f8fab9586ac29bad8a1df43f] income of the company consisting of exempt ABGH distributions.
 
-(5A)[^key-6740319741c1ab630eda3f66f73ff709] In subsection (5) “**exempt ABGH distribution**” means a distribution which—
+(5A)[^c-6740319741c1ab630eda3f66f73ff709] In subsection (5) “**exempt ABGH distribution**” means a distribution which—
 
 - (a) is a distribution for the purposes of the Corporation Tax Acts only because it falls within paragraph A, B, G or H in section 1000(1), and
 - (b) is exempt for the purposes of Part 9A of CTA 2009 (company distributions).
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f55ab89f8fab9586ac29bad8a1df43f]: Textual amendment: [S. 1071(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/1071/5/b) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 38(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/38/2)
+[^c-1f55ab89f8fab9586ac29bad8a1df43f]: Textual amendment: [S. 1071(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/1071/5/b) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 38(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/38/2)
 
-[^key-6740319741c1ab630eda3f66f73ff709]: Textual amendment: [S. 1071(5A)](https://www.legislation.gov.uk/ukpga/2010/4/section/1071/5A) inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 38(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/38/3)
+[^c-6740319741c1ab630eda3f66f73ff709]: Textual amendment: [S. 1071(5A)](https://www.legislation.gov.uk/ukpga/2010/4/section/1071/5A) inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 38(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/38/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59A. Shared powers[^key-d5a975fb1e9a9dfd64c69353f56b6990]
+## 59A. Shared powers[^c-d5a975fb1e9a9dfd64c69353f56b6990]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3A, which sets out functions of Ministers of the Crown and others that 
 
 ## Annotations
 
-[^key-d5a975fb1e9a9dfd64c69353f56b6990]: Textual amendment: S. 59A inserted (8.1.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/21/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/893](https://www.legislation.gov.uk/uksi/2017/893), [reg. 2](https://www.legislation.gov.uk/uksi/2017/893/regulation/2)
+[^c-d5a975fb1e9a9dfd64c69353f56b6990]: Textual amendment: S. 59A inserted (8.1.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/21/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/893](https://www.legislation.gov.uk/uksi/2017/893), [reg. 2](https://www.legislation.gov.uk/uksi/2017/893/regulation/2)

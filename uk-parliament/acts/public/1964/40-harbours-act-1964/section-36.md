@@ -22,7 +22,7 @@ summary: ''
 
 Sections 31 [^c7739671]. . . of this Act shall not apply to charges—
 
-- (a) imposed by [^c7739691]. . . [^c7739701]. . . the British Waterways Board[^c7739681] or Canal & River Trust[^key-32a22436acda05b1289dc3ef30c9ea8d] at a harbour not specified in Schedule 9 to the [^c7739711]Transport Act 1962;
+- (a) imposed by [^c7739691]. . . [^c7739701]. . . the British Waterways Board[^c7739681] or Canal & River Trust[^c-32a22436acda05b1289dc3ef30c9ea8d] at a harbour not specified in Schedule 9 to the [^c7739711]Transport Act 1962;
 - (b) imposed at a harbour owned or managed by a person carrying on an inland waterway undertaking to which provisions of section 43 of that Act apply by virtue of section 52(2) thereof; or
 - (c) imposed at a harbour owned or managed by a person carrying on an undertaking all or any of the charges of which are, under the statutory provisions relating to the undertaking, subject to revision by the Minister and some other Minister acting together or by the Scottish Ministers[^c7739721].
 
@@ -36,7 +36,7 @@ Sections 31 [^c7739671]. . . of this Act shall not apply to charges—
 
 [^c7739681]: Textual amendment: Words substituted by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [Sch. 16 para. 8(1)](https://www.legislation.gov.uk/ukpga/1968/73/schedule/16/paragraph/8/1)
 
-[^key-32a22436acda05b1289dc3ef30c9ea8d]: Textual amendment: Words in [s. 36(a)](https://www.legislation.gov.uk/ukpga/1964/40/section/36/a) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/2/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-32a22436acda05b1289dc3ef30c9ea8d]: Textual amendment: Words in [s. 36(a)](https://www.legislation.gov.uk/ukpga/1964/40/section/36/a) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/2/4) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c7739711]: Marginal citation: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
 

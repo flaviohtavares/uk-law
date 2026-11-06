@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment, in exercise of the powers conferred on it by Article 59(1) to (3) and (5) and (6) of the Energy (Northern Ireland) Order 2003[^f00001] and of every other power enabling it in that behalf, after having given notice in accordance with paragraph (4) of that Article and having considered any representations or objections which are duly made and not withdrawn, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-a5cd32931274413c3afbbfdf001a0e83]
+## 1. Citation, commencement and interpretation[^c-a5cd32931274413c3afbbfdf001a0e83]
 
 (1) This Order may be cited as the Gas (Designation of Pipelines) Order (Northern Ireland) 2004 and shall come into operation on 1st October 2004.
 
@@ -54,11 +54,11 @@ The Department of Enterprise, Trade and Investment, in exercise of the powers co
 - “the Insolvency Act” means the Insolvency Act 1986[^f00004]; and
 - “relevant licensee” shall be construed in accordance with Article 3(1)(a).
 
-## 2. Designated pipelines[^key-3005c153d5c9a018f0e83c984239e85c]
+## 2. Designated pipelines[^c-3005c153d5c9a018f0e83c984239e85c]
 
 Each pipeline specified in column (1) of the Schedule, being a high pressure pipeline, is hereby designated as a pipeline to which Article 60 of the Energy Order applies for the period beginning on and including the date of commencement of this Order and ending on the date specified opposite thereto in column (2) of the Schedule.
 
-## 3. Cessation of Designation[^key-1d1c41eba07ae7b0259242684d93320e]
+## 3. Cessation of Designation[^c-1d1c41eba07ae7b0259242684d93320e]
 
 (1) So much of this Order as designates any particular pipeline for the purposes of Article 60 of the Energy Order shall cease to have effect where –
 
@@ -85,7 +85,7 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE — DESCRIPTION OF THE PIPELINE[^key-1207eb2925f76c01fa3845c5b3853824]
+## SCHEDULE — DESCRIPTION OF THE PIPELINE[^c-1207eb2925f76c01fa3845c5b3853824]
 
 Articles 2 and 4
 
@@ -112,7 +112,7 @@ Each pipeline is described in the Schedule and the designation has effect from t
 
 [^f00001]: Footnote: S.I. [2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419)
 
-[^key-a5cd32931274413c3afbbfdf001a0e83]: Commencement: Art. 1 in operation at 1.10.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/404/article/1/1)
+[^c-a5cd32931274413c3afbbfdf001a0e83]: Commencement: Art. 1 in operation at 1.10.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/404/article/1/1)
 
 [^f00002]: Footnote: S.I. [1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275) as amended by [S.R. 2002 No. 291](https://www.legislation.gov.uk/nisr/2002/291) and the Energy Order (in particular Article 30)
 
@@ -120,12 +120,12 @@ Each pipeline is described in the Schedule and the designation has effect from t
 
 [^f00004]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45)
 
-[^key-3005c153d5c9a018f0e83c984239e85c]: Commencement: Art. 2 in operation at 1.10.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/404/article/1/1)
+[^c-3005c153d5c9a018f0e83c984239e85c]: Commencement: Art. 2 in operation at 1.10.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/404/article/1/1)
 
-[^key-1d1c41eba07ae7b0259242684d93320e]: Commencement: Art. 3 in operation at 1.10.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/404/article/1/1)
+[^c-1d1c41eba07ae7b0259242684d93320e]: Commencement: Art. 3 in operation at 1.10.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/404/article/1/1)
 
 [^f00005]: Footnote: Schedule B1 was substituted for sections 8 to 27 of the Insolvency Act by section 248(1) of the Enterprise Act 2002
 
-[^key-1207eb2925f76c01fa3845c5b3853824]: Commencement: Sch. in operation at 1.10.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/404/article/1/1)
+[^c-1207eb2925f76c01fa3845c5b3853824]: Commencement: Sch. in operation at 1.10.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/404/article/1/1)
 
 [^M_F_c3e3c1ac-33b4-4dd6-b962-35348003a350]: Textual amendment: Words in Sch. deleted (19.3.2005) by [The Gas (Designation of Pipelines) Order (Northern Ireland) 2005 (S.R. 2005/68)](https://www.legislation.gov.uk/nisr/2005/68), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2005/68/article/1/1), [4](https://www.legislation.gov.uk/nisr/2005/68/article/4)

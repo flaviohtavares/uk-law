@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Authentication by the overseas court[^key-dac952aac72c5e1e16d8e30dff7aca1e]
+## 105. Authentication by the overseas court[^c-dac952aac72c5e1e16d8e30dff7aca1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dac952aac72c5e1e16d8e30dff7aca1e]: Commencement: [Art. 105](https://www.legislation.gov.uk/uksi/2005/3181/article/105) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-dac952aac72c5e1e16d8e30dff7aca1e]: Commencement: [Art. 105](https://www.legislation.gov.uk/uksi/2005/3181/article/105) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

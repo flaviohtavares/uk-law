@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Shared ownership transactions.[^key-76c3222fddee8bdd87680ccdf5077608]
+## 54. Shared ownership transactions.[^c-76c3222fddee8bdd87680ccdf5077608]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76c3222fddee8bdd87680ccdf5077608]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/1987/16/section/54) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/1/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-76c3222fddee8bdd87680ccdf5077608]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/1987/16/section/54) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/1/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

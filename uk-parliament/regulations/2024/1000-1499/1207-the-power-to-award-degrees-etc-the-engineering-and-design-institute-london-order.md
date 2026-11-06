@@ -43,11 +43,11 @@ The Office for Students, in exercise of the powers conferred by section 42(1) of
 
 The Office for Students has requested advice from the relevant body regarding the quality of, and standards applied to, higher education provided by the provider, and has had regard to that advice, in accordance with sections 46(1)(a) and (7) of that Act.
 
-## 1. Citation and commencement[^key-37daf7636a5a42338cab4c3a3b17b411]
+## 1. Citation and commencement[^c-37daf7636a5a42338cab4c3a3b17b411]
 
 This Order may be cited as the Power to Award Degrees etc. (The Engineering and Design Institute London) Order 2024 and shall come into force on 1st December 2024.
 
-## 2. Authorisation to grant awards[^key-ffb2e5696343b09cd2e78a4f8b0d7340]
+## 2. Authorisation to grant awards[^c-ffb2e5696343b09cd2e78a4f8b0d7340]
 
 The Engineering and Design Institute London (registered company number 11979669) is authorised to grant the following specified taught awards of the kind mentioned in section 42(2)(b) of the said Act:
 
@@ -57,15 +57,15 @@ The Engineering and Design Institute London (registered company number 11979669)
 - (d) CertHE in Global Design Engineering; and
 - (e) DipHE in Global Design Engineering.
 
-## 3.[^key-d8e70a4b794421fc7dbcabafa6d85cca]
+## 3.[^c-d8e70a4b794421fc7dbcabafa6d85cca]
 
 The authorisation in article 2 is for a fixed period beginning on 1st December 2024 and expiring on 30th November 2025.
 
-## 4.[^key-8ed3043e7db01588437e1a9528bc6fec]
+## 4.[^c-8ed3043e7db01588437e1a9528bc6fec]
 
 The Engineering and Design Institute London shall only grant the awards specified in article 2 of this Order to persons enrolled with it at the time they complete the course of study for which the award is granted.
 
-## 5.[^key-0e799384dc409f39b47ee5377a80a069]
+## 5.[^c-0e799384dc409f39b47ee5377a80a069]
 
 The Engineering and Design Institute London is authorised to grant awards of the kind mentioned in section 42(2)(c) of the said Act for taught awards up to and including master’s level for subjects related to:
 
@@ -104,12 +104,12 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-37daf7636a5a42338cab4c3a3b17b411]: Commencement: Art. 1 in force at 1.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1207/article/1)
+[^c-37daf7636a5a42338cab4c3a3b17b411]: Commencement: Art. 1 in force at 1.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1207/article/1)
 
-[^key-ffb2e5696343b09cd2e78a4f8b0d7340]: Commencement: Art. 2 in force at 1.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1207/article/1)
+[^c-ffb2e5696343b09cd2e78a4f8b0d7340]: Commencement: Art. 2 in force at 1.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1207/article/1)
 
-[^key-d8e70a4b794421fc7dbcabafa6d85cca]: Commencement: Art. 3 in force at 1.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1207/article/1)
+[^c-d8e70a4b794421fc7dbcabafa6d85cca]: Commencement: Art. 3 in force at 1.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1207/article/1)
 
-[^key-8ed3043e7db01588437e1a9528bc6fec]: Commencement: Art. 4 in force at 1.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1207/article/1)
+[^c-8ed3043e7db01588437e1a9528bc6fec]: Commencement: Art. 4 in force at 1.12.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1207/article/1)
 
-[^key-0e799384dc409f39b47ee5377a80a069]: Textual amendment: [Arts. 5-7](https://www.legislation.gov.uk/uksi/2024/1207/article/5) inserted (1.8.2025) by [The Power to Award Degrees etc. (The Engineering and Design Institute London) (Amendment) Order 2025 (S.I. 2025/784)](https://www.legislation.gov.uk/uksi/2025/784), [arts. 1](https://www.legislation.gov.uk/uksi/2025/784/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/784/article/2/2)
+[^c-0e799384dc409f39b47ee5377a80a069]: Textual amendment: [Arts. 5-7](https://www.legislation.gov.uk/uksi/2024/1207/article/5) inserted (1.8.2025) by [The Power to Award Degrees etc. (The Engineering and Design Institute London) (Amendment) Order 2025 (S.I. 2025/784)](https://www.legislation.gov.uk/uksi/2025/784), [arts. 1](https://www.legislation.gov.uk/uksi/2025/784/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/784/article/2/2)

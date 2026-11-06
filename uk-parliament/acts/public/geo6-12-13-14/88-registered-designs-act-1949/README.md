@@ -31,7 +31,7 @@ Registered Designs Act 1949
 
 An Act to consolidate certain enactments relating to registered designs.
 
-\[16th December 1949\][^c9286][^c9287][^c9288][^c9289][^c9290][^key-9b6c2149c52985e26cc70de530445ec5][^key-dcebd7fe27db9085bfc20b68d6ccaaf8][^key-ac02568239a3758939f75446bb35e793]
+\[16th December 1949\][^c9286][^c9287][^c9288][^c9289][^c9290][^c-9b6c2149c52985e26cc70de530445ec5][^c-dcebd7fe27db9085bfc20b68d6ccaaf8][^c-ac02568239a3758939f75446bb35e793]
 
 ## Contents
 
@@ -89,7 +89,7 @@ An Act to consolidate certain enactments relating to registered designs.
 - [Section 15 — Extension of time for applications under s. 14 in certain cases.](section-15.md)
 - [Section 15ZA — Accession to the Hague Agreement](section-15za.md)
 
-### Property in and dealing with registered designs and applications[^key-d1980f94036a414d1c29a16fc87c2df9]
+### Property in and dealing with registered designs and applications[^c-d1980f94036a414d1c29a16fc87c2df9]
 
 - [Section 15A — The nature of registered designs](section-15a.md)
 - [Section 15B — Assignment, &c of registered designs and applications for registered designs](section-15b.md)
@@ -108,7 +108,7 @@ An Act to consolidate certain enactments relating to registered designs.
 - [Section 22 — Inspection of registered designs.](section-22.md)
 - [Section 23 — Information as to existence of right in registered design.](section-23.md)
 
-### Legal proceedings: general[^key-3ce26ce049a95fdb12adcddd8ccb3843]
+### Legal proceedings: general[^c-3ce26ce049a95fdb12adcddd8ccb3843]
 
 *Extent: E+W+S+N.I.*
 
@@ -123,7 +123,7 @@ An Act to consolidate certain enactments relating to registered designs.
 - [Section 25 — Certificate of contested validity of registration.](section-25.md)
 - [Section 25A — Privilege for communications with those on the special list of professional designs representatives](section-25a.md)
 
-### Unjustified threats[^key-f03aca406502417a22220873685e5a3b]
+### Unjustified threats[^c-f03aca406502417a22220873685e5a3b]
 
 - [Section 26 — Threats of infringement proceedings](section-26.md)
 - [Section 26A — Actionable threats](section-26a.md)
@@ -133,7 +133,7 @@ An Act to consolidate certain enactments relating to registered designs.
 - [Section 26E — Supplementary: pending registration](section-26e.md)
 - [Section 26F — Supplementary: proceedings for delivery up etc.](section-26f.md)
 
-### Meaning of “the court” and appeals[^key-7fa259318234a5f9654e8dd622c96ae2]
+### Meaning of “the court” and appeals[^c-7fa259318234a5f9654e8dd622c96ae2]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,7 +142,7 @@ An Act to consolidate certain enactments relating to registered designs.
 - [Section 27B — Persons appointed to hear and determine appeals](section-27b.md)
 - [Section 28 — The Appeal Tribunal.](section-28.md)
 
-### Opinions service[^key-fb2f0cd375c057d9ccdae07a2e7d0c7f]
+### Opinions service[^c-fb2f0cd375c057d9ccdae07a2e7d0c7f]
 
 - [Section 28A — Opinions on designs](section-28a.md)
 
@@ -217,18 +217,18 @@ SCHEDULES
 
 [^c9290]: Extent: Act extends to Isle of Man see s. 47
 
-[^key-9b6c2149c52985e26cc70de530445ec5]: Modification: Act extended (Isle of Man) (with modifications) (11.11.2013) by [The Registered Designs (Isle of Man) Order 2013 (S.I. 2013/2533)](https://www.legislation.gov.uk/uksi/2013/2533), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2533/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1) (as amended (31.12.2020) by [S.I. 2019/1335](https://www.legislation.gov.uk/uksi/2019/1335), [art. 2](https://www.legislation.gov.uk/uksi/2019/1335/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-9b6c2149c52985e26cc70de530445ec5]: Modification: Act extended (Isle of Man) (with modifications) (11.11.2013) by [The Registered Designs (Isle of Man) Order 2013 (S.I. 2013/2533)](https://www.legislation.gov.uk/uksi/2013/2533), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/2533/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2533/schedule/1) (as amended (31.12.2020) by [S.I. 2019/1335](https://www.legislation.gov.uk/uksi/2019/1335), [art. 2](https://www.legislation.gov.uk/uksi/2019/1335/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/1335/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-dcebd7fe27db9085bfc20b68d6ccaaf8]: Modification: Act applied in part (with modifications) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Designs (International Registration of Industrial Designs) Order 2018 (S.I. 2018/23)](https://www.legislation.gov.uk/uksi/2018/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/23/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/23/article/3), [Sch. 1 Pt. 1, Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2018/23/schedule/1/part/1/schedule/2/part/1)
+[^c-dcebd7fe27db9085bfc20b68d6ccaaf8]: Modification: Act applied in part (with modifications) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Designs (International Registration of Industrial Designs) Order 2018 (S.I. 2018/23)](https://www.legislation.gov.uk/uksi/2018/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/23/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/23/article/3), [Sch. 1 Pt. 1, Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2018/23/schedule/1/part/1/schedule/2/part/1)
 
-[^key-ac02568239a3758939f75446bb35e793]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-ac02568239a3758939f75446bb35e793]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-d1980f94036a414d1c29a16fc87c2df9]: Textual amendment: Ss. 15A-15C and cross-heading inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/2)
+[^c-d1980f94036a414d1c29a16fc87c2df9]: Textual amendment: Ss. 15A-15C and cross-heading inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/2)
 
-[^key-3ce26ce049a95fdb12adcddd8ccb3843]: Textual amendment: S. 24A cross-heading substituted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/4/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-3ce26ce049a95fdb12adcddd8ccb3843]: Textual amendment: S. 24A cross-heading substituted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/4/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-f03aca406502417a22220873685e5a3b]: Textual amendment: Ss. 26-26F and cross-heading substituted for s. 26 (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/4/3), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-f03aca406502417a22220873685e5a3b]: Textual amendment: Ss. 26-26F and cross-heading substituted for s. 26 (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/4/3), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-7fa259318234a5f9654e8dd622c96ae2]: Textual amendment: S. 27 cross-heading inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/4/4), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-7fa259318234a5f9654e8dd622c96ae2]: Textual amendment: S. 27 cross-heading inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/4/4), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-fb2f0cd375c057d9ccdae07a2e7d0c7f]: Textual amendment: S. 28A and cross-heading inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/11/1), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-fb2f0cd375c057d9ccdae07a2e7d0c7f]: Textual amendment: S. 28A and cross-heading inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/11/1), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

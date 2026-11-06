@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Notification of assessment[^key-5858e9afb19b66b4cea75be0dc4ed398]
+## 49. Notification of assessment[^c-5858e9afb19b66b4cea75be0dc4ed398]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5858e9afb19b66b4cea75be0dc4ed398]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/nisr/2008/280/regulation/49) omitted (12.7.2011) by virtue of [The Employment and Support Allowance (Work-related Activity) Regulations (Northern Ireland) 2011 (S.R. 2011/265)](https://www.legislation.gov.uk/nisr/2011/265), [regs. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/nisr/2011/265/regulation/10/3/c)
+[^c-5858e9afb19b66b4cea75be0dc4ed398]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/nisr/2008/280/regulation/49) omitted (12.7.2011) by virtue of [The Employment and Support Allowance (Work-related Activity) Regulations (Northern Ireland) 2011 (S.R. 2011/265)](https://www.legislation.gov.uk/nisr/2011/265), [regs. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/nisr/2011/265/regulation/10/3/c)

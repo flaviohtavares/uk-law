@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127. Payment of pension instead of lump sum for members who have reached 75[^key-aaa8ab39d516a2d619ae2c101249f060]
+## 127. Payment of pension instead of lump sum for members who have reached 75[^c-aaa8ab39d516a2d619ae2c101249f060]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaa8ab39d516a2d619ae2c101249f060]: Commencement: [Reg. 127](https://www.legislation.gov.uk/nisr/2014/290/regulation/127) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-aaa8ab39d516a2d619ae2c101249f060]: Commencement: [Reg. 127](https://www.legislation.gov.uk/nisr/2014/290/regulation/127) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

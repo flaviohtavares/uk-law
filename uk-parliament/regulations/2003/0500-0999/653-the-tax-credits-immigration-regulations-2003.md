@@ -43,7 +43,7 @@ Coming into force
 
 6th April 2003
 
-The Treasury, in exercise of the powers conferred upon them by sections 42 and 65(1), (3), (7) and (9) of the Tax Credits Act 2002 [^c6066531], hereby make the following Regulations:[^key-1c7f7bf40604621ae565e20669bec7ec]
+The Treasury, in exercise of the powers conferred upon them by sections 42 and 65(1), (3), (7) and (9) of the Tax Credits Act 2002 [^c6066531], hereby make the following Regulations:[^c-1c7f7bf40604621ae565e20669bec7ec]
 
 ## 1. Citation and commencement
 
@@ -55,11 +55,11 @@ In these Regulations–
 
 - “**the Act**” means the Tax Credits Act 2002;
 - “**the Child Tax Credit Regulations**” means the Child Tax Credit Regulations 2002 [^c6066541];
--  “couple” has the meaning given by section 3(5A) of the Act;[^key-d915f2103d7da98a3686cdfb337b6471]
+-  “couple” has the meaning given by section 3(5A) of the Act;[^c-d915f2103d7da98a3686cdfb337b6471]
 - “**immigration rules**” has the meaning given by section 33 of the Immigration Act 1971 [^c6066551];
 - “**joint claim**” has the meaning given by section 3(8) of the Act;
 - “**limited leave**” has the meaning given by section 33 of the Immigration Act 1971;
-- [^key-6f4df0a0a3eeb677223c29fd8e22e54b]...
+- [^c-6f4df0a0a3eeb677223c29fd8e22e54b]...
 - “**person subject to immigration control**” has the meaning in section 115(9) of the Immigration and Asylum Act 1999 [^c6066561];
 - “**refugee**” means a person who has been recorded by the Secretary of State as a refugee within the definition in Article 1 of the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967 [^c6066571];
 - “**tax credit**” refers to either child tax credit or working tax credit and references to tax credits are to both of them;
@@ -85,7 +85,7 @@ He is a person who—
 
 but the person giving the undertaking has died or, where the undertaking was given by more than one person, they have all died.
 
-*[^key-fb0710a0e0bee71d6227d0aedaf5b184]...*
+*[^c-fb0710a0e0bee71d6227d0aedaf5b184]...*
 
 *Case 4*
 
@@ -102,7 +102,7 @@ The Case so described also applies where—
 
 *Case 5*
 
-Where the claim is for child tax credit, he is a person who is lawfully working in the United Kingdom and—[^key-28b016e9db0feb2da33fd3af28d88916]
+Where the claim is for child tax credit, he is a person who is lawfully working in the United Kingdom and—[^c-28b016e9db0feb2da33fd3af28d88916]
 
 - (a) who—
   - (i) made a claim before 1st January 2021; and
@@ -111,7 +111,7 @@ Where the claim is for child tax credit, he is a person who is lawfully working 
   - (i) makes provision in the field of social security for the equal treatment of workers who are nationals of the State with which the agreement has been concluded and their families, or
   - (ii) makes provision for receipt of family allowances by members of a worker’s family who are legally resident in the United Kingdom.
 
-(2) Where one member of a [^key-1eb292b556ed3c47dc68fb1014fb891c]... couple is a person subject to immigration control, and the other member is not or is within any of Cases 1 to 5 or regulation 5—
+(2) Where one member of a [^c-1eb292b556ed3c47dc68fb1014fb891c]... couple is a person subject to immigration control, and the other member is not or is within any of Cases 1 to 5 or regulation 5—
 
 - (a) the calculation of the amount of tax credit under the Act, the Child Tax Credit Regulations and the Working Tax Credit Regulations (including any second adult element or other element in respect of, or determined by reference to, that person),
 - (b) the method of making (or proceeding with) a joint claim by the couple, and
@@ -125,8 +125,8 @@ shall, subject to paragraph (3), be determined in the same way as if that person
 
 (5) If that person—
 
-- (a) is notified that he has been recorded by the Secretary of State as a refugee or has been granted section 67 leave[^key-3e86e381b485e2e45a6f47455d15a263], and
-- (b) claims tax credit within one month[^key-d279f6aa368b194ed8a0f75ab46ee2a1] of receiving that notification,
+- (a) is notified that he has been recorded by the Secretary of State as a refugee or has been granted section 67 leave[^c-3e86e381b485e2e45a6f47455d15a263], and
+- (b) claims tax credit within one month[^c-d279f6aa368b194ed8a0f75ab46ee2a1] of receiving that notification,
 
 paragraphs (6) to (9) and regulation 4 shall apply to him.
 
@@ -137,7 +137,7 @@ paragraphs (6) to (9) and regulation 4 shall apply to him.
 
 rather than on the date on which he makes the claim referred to in paragraph (5)(b).
 
-(7) Regulations 7, 7A and 8[^key-d22a97af65faf1e48067679e6ec148b8] of the Tax Credits (Claims and Notifications) Regulations 2002 [^c6066611] shall not apply to claims treated as made by virtue of paragraph (6).
+(7) Regulations 7, 7A and 8[^c-d22a97af65faf1e48067679e6ec148b8] of the Tax Credits (Claims and Notifications) Regulations 2002 [^c6066611] shall not apply to claims treated as made by virtue of paragraph (6).
 
 (8) He shall have his claims for tax credits determined as if he had been recorded as a refugee on the date when he submitted his claim for asylum.
 
@@ -149,7 +149,7 @@ rather than on the date on which he makes the claim referred to in paragraph (5)
 
 (after allowing for any deduction for that amount under regulation 21ZB(3) of the Income Support (General) Regulations 1987 [^c6066621]) shall be deducted from any award of tax credits due to the claimant by virtue of paragraphs (6) and (8).
 
-(10)[^key-33fdd819f6274b493a2300d6d5272f9e] In this regulation “section 67 leave” means leave to remain in the United Kingdom granted by the Secretary of State to a person who has been relocated to the United Kingdom pursuant to arrangements made by the Secretary of State under section 67 of the Immigration Act 2016.
+(10)[^c-33fdd819f6274b493a2300d6d5272f9e] In this regulation “section 67 leave” means leave to remain in the United Kingdom granted by the Secretary of State to a person who has been relocated to the United Kingdom pursuant to arrangements made by the Secretary of State under section 67 of the Immigration Act 2016.
 
 ## 4. Modifications of Part 1 of the Act for refugees whose asylum claims have been accepted
 
@@ -227,15 +227,15 @@ Regulation 5 provides for transitional relief (on or after 6th April 2004) for c
 
 [^c6066531]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-1c7f7bf40604621ae565e20669bec7ec]: Modification: Regulations modified (6.4.2003) by [The Tax Credits (Polygamous Marriages) Regulations 2003 (S.I. 2003/742)](https://www.legislation.gov.uk/uksi/2003/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/1), [53-56](https://www.legislation.gov.uk/uksi/2003/742/regulation/53) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/2))
+[^c-1c7f7bf40604621ae565e20669bec7ec]: Modification: Regulations modified (6.4.2003) by [The Tax Credits (Polygamous Marriages) Regulations 2003 (S.I. 2003/742)](https://www.legislation.gov.uk/uksi/2003/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/1), [53-56](https://www.legislation.gov.uk/uksi/2003/742/regulation/53) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/2))
 
 [^c6066541]: Marginal citation: [S.I. 2002/2007](https://www.legislation.gov.uk/uksi/2002/2007).
 
-[^key-d915f2103d7da98a3686cdfb337b6471]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/653/regulation/2) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2005/2919/article/7/2/a)
+[^c-d915f2103d7da98a3686cdfb337b6471]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/653/regulation/2) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2005/2919/article/7/2/a)
 
 [^c6066551]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-6f4df0a0a3eeb677223c29fd8e22e54b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/653/regulation/2) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2005/2919/article/7/2/b)
+[^c-6f4df0a0a3eeb677223c29fd8e22e54b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/653/regulation/2) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2005/2919/article/7/2/b)
 
 [^c6066561]: Marginal citation: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
@@ -243,25 +243,25 @@ Regulation 5 provides for transitional relief (on or after 6th April 2004) for c
 
 [^c6066581]: Marginal citation: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
 
-[^key-fb0710a0e0bee71d6227d0aedaf5b184]: Textual amendment: Reg. 3(1) Case 3 omitted (6.4.2014) by virtue of [The Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/658)](https://www.legislation.gov.uk/uksi/2014/658), [regs. 1](https://www.legislation.gov.uk/uksi/2014/658/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/658/regulation/3)
+[^c-fb0710a0e0bee71d6227d0aedaf5b184]: Textual amendment: Reg. 3(1) Case 3 omitted (6.4.2014) by virtue of [The Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/658)](https://www.legislation.gov.uk/uksi/2014/658), [regs. 1](https://www.legislation.gov.uk/uksi/2014/658/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/658/regulation/3)
 
 [^c6066591]: Marginal citation: Cmd 9512.
 
-[^key-28b016e9db0feb2da33fd3af28d88916]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2003/653/regulation/3/1) substituted (1.1.2021) by [The Social Security, Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1505)](https://www.legislation.gov.uk/uksi/2020/1505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/4/2)
+[^c-28b016e9db0feb2da33fd3af28d88916]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2003/653/regulation/3/1) substituted (1.1.2021) by [The Social Security, Child Benefit and Child Tax Credit (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1505)](https://www.legislation.gov.uk/uksi/2020/1505), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1505/regulation/4/2)
 
-[^key-1eb292b556ed3c47dc68fb1014fb891c]: Textual amendment: Words in reg. 3(2) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2005/2919/article/7/3)
+[^c-1eb292b556ed3c47dc68fb1014fb891c]: Textual amendment: Words in reg. 3(2) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2005/2919/article/7/3)
 
-[^key-3e86e381b485e2e45a6f47455d15a263]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2003/653/regulation/3/5/a) inserted (20.7.2018) by [The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (S.I. 2018/788)](https://www.legislation.gov.uk/uksi/2018/788), [regs. 1](https://www.legislation.gov.uk/uksi/2018/788/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/788/regulation/5/2/a)
+[^c-3e86e381b485e2e45a6f47455d15a263]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2003/653/regulation/3/5/a) inserted (20.7.2018) by [The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (S.I. 2018/788)](https://www.legislation.gov.uk/uksi/2018/788), [regs. 1](https://www.legislation.gov.uk/uksi/2018/788/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/788/regulation/5/2/a)
 
-[^key-d279f6aa368b194ed8a0f75ab46ee2a1]: Textual amendment: Words in reg. 3(5)(b) substituted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/848/regulation/7)
+[^c-d279f6aa368b194ed8a0f75ab46ee2a1]: Textual amendment: Words in reg. 3(5)(b) substituted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2012/848/regulation/7)
 
-[^key-d22a97af65faf1e48067679e6ec148b8]: Textual amendment: Words in reg. 3(7) substituted (6.4.2015) by [The Tax Credits (Claims and Notifications) (Amendment) Regulations 2015 (S.I. 2015/669)](https://www.legislation.gov.uk/uksi/2015/669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/669/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/669/regulation/5)
+[^c-d22a97af65faf1e48067679e6ec148b8]: Textual amendment: Words in reg. 3(7) substituted (6.4.2015) by [The Tax Credits (Claims and Notifications) (Amendment) Regulations 2015 (S.I. 2015/669)](https://www.legislation.gov.uk/uksi/2015/669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/669/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/669/regulation/5)
 
 [^c6066611]: Marginal citation: [S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014).
 
 [^c6066621]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); regulation 21ZB was inserted by regulation 3(5) of [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636).
 
-[^key-33fdd819f6274b493a2300d6d5272f9e]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/uksi/2003/653/regulation/3/10) inserted (20.7.2018) by [The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (S.I. 2018/788)](https://www.legislation.gov.uk/uksi/2018/788), [regs. 1](https://www.legislation.gov.uk/uksi/2018/788/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/788/regulation/5/2/b)
+[^c-33fdd819f6274b493a2300d6d5272f9e]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/uksi/2003/653/regulation/3/10) inserted (20.7.2018) by [The Child Benefit, Tax Credits and Childcare Payments (Section 67 Immigration Act 2016 Leave) (Amendment) Regulations 2018 (S.I. 2018/788)](https://www.legislation.gov.uk/uksi/2018/788), [regs. 1](https://www.legislation.gov.uk/uksi/2018/788/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/788/regulation/5/2/b)
 
 [^c6066631]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 

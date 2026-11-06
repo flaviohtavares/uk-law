@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The Severn Bridges Tolls Order 2017 (revoked)[^key-cd8d74a9c54f405d34ff80e2b9618ea9]
+The Severn Bridges Tolls Order 2017 (revoked)[^c-cd8d74a9c54f405d34ff80e2b9618ea9]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st January 2018
 
-[^key-cd8d74a9c54f405d34ff80e2b9618ea9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd8d74a9c54f405d34ff80e2b9618ea9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cd8d74a9c54f405d34ff80e2b9618ea9]
+## 1. Citation and commencement[^c-cd8d74a9c54f405d34ff80e2b9618ea9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Level of Tolls[^key-cd8d74a9c54f405d34ff80e2b9618ea9]
+## 2. Level of Tolls[^c-cd8d74a9c54f405d34ff80e2b9618ea9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-cd8d74a9c54f405d34ff80e2b9618ea9]
+## 3. Revocation[^c-cd8d74a9c54f405d34ff80e2b9618ea9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd8d74a9c54f405d34ff80e2b9618ea9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd8d74a9c54f405d34ff80e2b9618ea9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cd8d74a9c54f405d34ff80e2b9618ea9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd8d74a9c54f405d34ff80e2b9618ea9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd8d74a9c54f405d34ff80e2b9618ea9]: Textual amendment: Order revoked (31.12.2018 at 11:59pm) by The M4 and M48 [Motorways (Severn Bridges Charging Scheme) (Amendment etc.) Order 2018 (S.I. 2018/1300)](https://www.legislation.gov.uk/uksi/2018/1300), [art. 6](https://www.legislation.gov.uk/uksi/2018/1300/article/6)
+[^c-cd8d74a9c54f405d34ff80e2b9618ea9]: Textual amendment: Order revoked (31.12.2018 at 11:59pm) by The M4 and M48 [Motorways (Severn Bridges Charging Scheme) (Amendment etc.) Order 2018 (S.I. 2018/1300)](https://www.legislation.gov.uk/uksi/2018/1300), [art. 6](https://www.legislation.gov.uk/uksi/2018/1300/article/6)

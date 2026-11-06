@@ -74,7 +74,7 @@ In this Schedule—
 - (a) a creditors' or contributories' meeting is to be held as a result of a notice issued before that date in relation to a meeting for which provision is made by the 1986 Rules or the 1986 Act;
 - (b) a meeting is to be held as a result of a requisition by a creditor or contributory made before that date;
 - (c) a meeting is to be held as a result of a statement made under paragraph 52(1)(b) of Schedule B1 and a request is made before that date which obliges the administrator to summon an initial creditors' meeting;
-- (d) a [^key-f0b09045c045ff661130417f862ce973]... meeting is required by sections 93 or 105[^key-f40f76cb63933625563b70412c37ebdb] of the 1986 Act [^c23177741] in the winding up of a company where the resolution to wind up was passed before 6th April 2010.
+- (d) a [^c-f0b09045c045ff661130417f862ce973]... meeting is required by sections 93 or 105[^c-f40f76cb63933625563b70412c37ebdb] of the 1986 Act [^c23177741] in the winding up of a company where the resolution to wind up was passed before 6th April 2010.
 
 (2) Where a meeting is to be held under sub-paragraph (1)(a) to (1)(d), Part 15 of these Rules does not apply and the 1986 Rules relating to the following continue to apply—
 
@@ -87,7 +87,7 @@ In this Schedule—
 - (g) the office-holder's resignation or removal at the meeting;
 - (h) the office-holder's release;
 - (i) fixing the office-holder's remuneration;
-- (j)[^key-9ea36cd7767460845ea9a85ce7aadaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-9ea36cd7767460845ea9a85ce7aadaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) hand-over of assets to a supervisor of a voluntary arrangement where the proposal is approved at the meeting;
 - (l) the notice of the appointment of a supervisor of a voluntary arrangement where the appointment is made at the meeting;
 - (m) the advertisement of appointment of a trustee in bankruptcy where the appointment is made at the meeting;
@@ -105,7 +105,7 @@ In this Schedule—
 - (a) before the commencement date—
   - (i) a final report to creditors has been sent under 1986 rule 4.49D (final report to creditors in liquidation),
   - (ii) a final report to creditors and bankrupt has been sent under 1986 rule 6.78B (final report to creditors and bankrupt), or
-  - (iii) a meeting has been called under sections 94, 106, 146 or 331[^key-ae7fcff99da85ea546917a2321985859] of the 1986 Act (final meeting [^key-6e772381cfe99f8a54dc21c728f66b05]...); and
+  - (iii) a meeting has been called under sections 94, 106, 146 or 331[^c-ae7fcff99da85ea546917a2321985859] of the 1986 Act (final meeting [^c-6e772381cfe99f8a54dc21c728f66b05]...); and
 - (b) a meeting under section 94, 106, 146 or 331 of the 1986 Act is held on or after the commencement date.
 
 (2) Where a meeting is held to which this paragraph applies, Part 15 of these Rules does not apply and the 1986 Rules relating to the following continue to apply—
@@ -132,7 +132,7 @@ In this Schedule—
 - (b) 1986 rules 4.49B and 4.49C (progress reports—winding up); and
 - (c) 1986 rule 6.78A (reports to creditors in bankruptcy).
 
-(2) Where before the commencement date, a conversion notice under paragraph 83 of Schedule B1 was sent to the registrar of companies [^key-cc7aba2d40772e20c870d637d030f0ff]..., 1986 rule 2.117A(1) continues to apply [^key-cc7aba2d40772e20c870d637d030f0ff]....
+(2) Where before the commencement date, a conversion notice under paragraph 83 of Schedule B1 was sent to the registrar of companies [^c-cc7aba2d40772e20c870d637d030f0ff]..., 1986 rule 2.117A(1) continues to apply [^c-cc7aba2d40772e20c870d637d030f0ff]....
 
 (3) The provisions of these Rules relating to progress reporting do not apply—
 
@@ -141,7 +141,7 @@ In this Schedule—
 
 (4) Where a voluntary winding up commenced before 6th April 2010, 1986 rule 4.223-CVL as it had effect immediately before that date, continues to apply.
 
-(5)[^key-5a0d3d94f85098ae0838968ba94e0068] Where rules 18.6, 18.7 or 18.8 prescribe the periods for which progress reports must be made but before the commencement date an office-holder has ceased to act , or an administrator has sent a progress report to creditors in support of a request for their consent to an extension of the administration,[^key-7b8459a72509e9fbba34d6d7f4c827da] resulting in a change in reporting period under 1986 rule 2.47(3A), 2.47(3B) 4.49B(5), 4.49C(3), or 6.78A(4), the period for which reports must be made is the period for which reports were required to be made under the 1986 Rules immediately before the commencement date.
+(5)[^c-5a0d3d94f85098ae0838968ba94e0068] Where rules 18.6, 18.7 or 18.8 prescribe the periods for which progress reports must be made but before the commencement date an office-holder has ceased to act , or an administrator has sent a progress report to creditors in support of a request for their consent to an extension of the administration,[^c-7b8459a72509e9fbba34d6d7f4c827da] resulting in a change in reporting period under 1986 rule 2.47(3A), 2.47(3B) 4.49B(5), 4.49C(3), or 6.78A(4), the period for which reports must be made is the period for which reports were required to be made under the 1986 Rules immediately before the commencement date.
 
 ### 8. Foreign currency
 
@@ -178,9 +178,9 @@ On the commencement date the official receiver becomes trustee of the bankrupt's
 
 ### 14. Applications before the court
 
-(1) Subject to paragraph (1A), where[^key-7d38a44aa8f6f25416dbcc6f061fbd84] an application to court is filed or a petition is presented under the Act or under the 1986 Rules before the commencement date and the court remains seised of that application or petition on the commencement date, the 1986 rules continue to apply to that application or petition.
+(1) Subject to paragraph (1A), where[^c-7d38a44aa8f6f25416dbcc6f061fbd84] an application to court is filed or a petition is presented under the Act or under the 1986 Rules before the commencement date and the court remains seised of that application or petition on the commencement date, the 1986 rules continue to apply to that application or petition.
 
-(1A)[^key-f312dfc0bd62a4d7144f184c89409775] Where the 1986 Rules apply by virtue of paragraph (1) they are to apply as though —
+(1A)[^c-f312dfc0bd62a4d7144f184c89409775] Where the 1986 Rules apply by virtue of paragraph (1) they are to apply as though —
 
 - (a) in rules 7.47(2)(a)(ii), (b)(iii) and (c) and 13.2(3A)(a) for “a Registrar in Bankruptcy of the High Court” there were substituted “an Insolvency and Companies Court Judge”, and
 - (b) in rule 7.47(5), for the words “Registrar in Bankruptcy of the High Court” both times they appear there were substituted “Insolvency and Companies Court Judge.
@@ -193,7 +193,7 @@ On the commencement date the official receiver becomes trustee of the bankrupt's
   - (ii) the court dismisses the petition, or
   - (iii) the petition is withdrawn.
 
-(3) Any application to the court to review, rescind , vary[^key-451987b5754e58e6d606b15ab0ea0ed3] or appeal an order made under paragraph 14(2)[^key-9b3cc9eb6d3806235835e73914a3d1f1] is to be made in accordance with Part 12 of these Rules.
+(3) Any application to the court to review, rescind , vary[^c-451987b5754e58e6d606b15ab0ea0ed3] or appeal an order made under paragraph 14(2)[^c-9b3cc9eb6d3806235835e73914a3d1f1] is to be made in accordance with Part 12 of these Rules.
 
 ### 15. Forms
 
@@ -231,9 +231,9 @@ Where before 1st April 2005 a company has entered administration or gone into li
 
 Rule 12.3 of the 1986 Rules applies, without the amendments made by rule 44 of the Insolvency (Amendment) Rules 2005 [^c23177761] to an obligation arising under an order made in family proceedings in any case where a bankruptcy order was made on or before 31 March 2005.
 
-### 21. Insolvency practitioner fees and expenses estimates[^key-95ecb0e9a721cf74a85cc7640e9336eb]
+### 21. Insolvency practitioner fees and expenses estimates[^c-95ecb0e9a721cf74a85cc7640e9336eb]
 
-(1) Rules 18.4(1)(e), 18.16(4) to (10), and 18.30 do not apply in a case where before 1st October 2015—[^key-7e28c5af64563d52ef335ec5188a312a]
+(1) Rules 18.4(1)(e), 18.16(4) to (10), and 18.30 do not apply in a case where before 1st October 2015—[^c-7e28c5af64563d52ef335ec5188a312a]
 
 - (a) the appointment of an administrator took effect;
 - (b) a liquidator was nominated under section 100(2), or 139(3) of the Act;
@@ -247,7 +247,7 @@ Rule 12.3 of the 1986 Rules applies, without the amendments made by rule 44 of t
 - (a) the company is wound up under paragraph 83 of Schedule B1 on or after the commencement date and the administrator becomes the liquidator; or
 - (b) a winding-up order is made upon the appointment of an administrator ceasing to have effect on or after the commencement date and the court under section 140(1) appoints as liquidator the person whose appointment as administrator has ceased to have effect.
 
-### 22. Transitional provision for companies entering administration before 6th April 2010 and moving to voluntary liquidation between 6th April 2010 and 8th December 2017 inclusive of those dates[^key-b1d5cbfa50da6ad6f678a590c85a19f9][^key-b5e91463beb8b73900f896266d722c41]
+### 22. Transitional provision for companies entering administration before 6th April 2010 and moving to voluntary liquidation between 6th April 2010 and 8th December 2017 inclusive of those dates[^c-b1d5cbfa50da6ad6f678a590c85a19f9][^c-b5e91463beb8b73900f896266d722c41]
 
 Where—
 
@@ -258,40 +258,40 @@ the 1986 Rules as amended by the Insolvency (Amendment) Rules 2010 apply to the 
 
 ## Annotations
 
-[^key-f0b09045c045ff661130417f862ce973]: Textual amendment: Word in Sch. 2 para. 5(1)(d) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [45(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/45/a)
+[^c-f0b09045c045ff661130417f862ce973]: Textual amendment: Word in Sch. 2 para. 5(1)(d) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [45(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/45/a)
 
-[^key-f40f76cb63933625563b70412c37ebdb]: Textual amendment: Words in Sch. 2 para. 5(1)(d) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [45(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/45/b)
+[^c-f40f76cb63933625563b70412c37ebdb]: Textual amendment: Words in Sch. 2 para. 5(1)(d) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [45(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/45/b)
 
 [^c23177741]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Article 12 of the Legislative Reform (Insolvency) (Miscellaneous Provisions) Order 2010 [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18) saves section 104A of the Act in relation to companies where the resolution to wind up was passed before 6th April 2010.
 
-[^key-9ea36cd7767460845ea9a85ce7aadaf9]: Textual amendment: Sch. 2 para. 5(2)(j) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [46](https://www.legislation.gov.uk/uksi/2017/366/rule/46)
+[^c-9ea36cd7767460845ea9a85ce7aadaf9]: Textual amendment: Sch. 2 para. 5(2)(j) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [46](https://www.legislation.gov.uk/uksi/2017/366/rule/46)
 
-[^key-ae7fcff99da85ea546917a2321985859]: Textual amendment: Words in [Sch. 2 para. 6(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/6/1/a/iii) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [47(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/47/a)
+[^c-ae7fcff99da85ea546917a2321985859]: Textual amendment: Words in [Sch. 2 para. 6(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/6/1/a/iii) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [47(a)](https://www.legislation.gov.uk/uksi/2017/366/rule/47/a)
 
-[^key-6e772381cfe99f8a54dc21c728f66b05]: Textual amendment: Words in [Sch. 2 para. 6(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/6/1/a/iii) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [47(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/47/b)
+[^c-6e772381cfe99f8a54dc21c728f66b05]: Textual amendment: Words in [Sch. 2 para. 6(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/6/1/a/iii) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [47(b)](https://www.legislation.gov.uk/uksi/2017/366/rule/47/b)
 
-[^key-cc7aba2d40772e20c870d637d030f0ff]: Textual amendment: Words in Sch. 2 para. 7(2) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [48](https://www.legislation.gov.uk/uksi/2017/366/rule/48)
+[^c-cc7aba2d40772e20c870d637d030f0ff]: Textual amendment: Words in Sch. 2 para. 7(2) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [48](https://www.legislation.gov.uk/uksi/2017/366/rule/48)
 
-[^key-5a0d3d94f85098ae0838968ba94e0068]: Textual amendment: Sch. 2 para. 7(5) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [49](https://www.legislation.gov.uk/uksi/2017/366/rule/49)
+[^c-5a0d3d94f85098ae0838968ba94e0068]: Textual amendment: Sch. 2 para. 7(5) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [49](https://www.legislation.gov.uk/uksi/2017/366/rule/49)
 
-[^key-7b8459a72509e9fbba34d6d7f4c827da]: Textual amendment: Words in [Sch. 2 para. 7(5)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/7/5) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/2)
+[^c-7b8459a72509e9fbba34d6d7f4c827da]: Textual amendment: Words in [Sch. 2 para. 7(5)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/7/5) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/2)
 
 [^c23177751]: Marginal citation: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-7d38a44aa8f6f25416dbcc6f061fbd84]: Textual amendment: Words in [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/14/1) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 14(c)(i)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/14/c/i)
+[^c-7d38a44aa8f6f25416dbcc6f061fbd84]: Textual amendment: Words in [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/14/1) substituted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 14(c)(i)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/14/c/i)
 
-[^key-f312dfc0bd62a4d7144f184c89409775]: Textual amendment: [Sch. 2 para. 14(1A)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/14/1A) inserted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 14(c)(ii)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/14/c/ii)
+[^c-f312dfc0bd62a4d7144f184c89409775]: Textual amendment: [Sch. 2 para. 14(1A)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/14/1A) inserted (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 14(c)(ii)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/14/c/ii)
 
-[^key-451987b5754e58e6d606b15ab0ea0ed3]: Textual amendment: Word in Sch. 2 para. 14(3) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/3)
+[^c-451987b5754e58e6d606b15ab0ea0ed3]: Textual amendment: Word in Sch. 2 para. 14(3) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/3)
 
-[^key-9b3cc9eb6d3806235835e73914a3d1f1]: Textual amendment: Word in Sch. 2 para. 14(3) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/3)
+[^c-9b3cc9eb6d3806235835e73914a3d1f1]: Textual amendment: Word in Sch. 2 para. 14(3) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/3)
 
 [^c23177761]: Marginal citation: [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527).
 
-[^key-95ecb0e9a721cf74a85cc7640e9336eb]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/21) heading substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(4)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/4)
+[^c-95ecb0e9a721cf74a85cc7640e9336eb]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/21) heading substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(4)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/4)
 
-[^key-7e28c5af64563d52ef335ec5188a312a]: Textual amendment: Words in [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/21/1) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/5)
+[^c-7e28c5af64563d52ef335ec5188a312a]: Textual amendment: Words in [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/21/1) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/5)
 
-[^key-b1d5cbfa50da6ad6f678a590c85a19f9]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/22) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(7)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/7)
+[^c-b1d5cbfa50da6ad6f678a590c85a19f9]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/22) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(7)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/7)
 
-[^key-b5e91463beb8b73900f896266d722c41]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/22) heading substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(6)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/6)
+[^c-b5e91463beb8b73900f896266d722c41]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2/paragraph/22) heading substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [13(6)](https://www.legislation.gov.uk/uksi/2017/1115/rule/13/6)

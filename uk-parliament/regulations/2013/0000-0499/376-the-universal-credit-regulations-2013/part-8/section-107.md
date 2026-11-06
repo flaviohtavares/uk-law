@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 107. Reduction period to continue where award terminates[^c2190884][^key-88421feadb56bf225bbead2972d9eb15]
+## 107. Reduction period to continue where award terminates[^c2190884][^c-88421feadb56bf225bbead2972d9eb15]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c2190884]: Modification: [Reg. 107](https://www.legislation.gov.uk/uksi/2013/376/regulation/107) excluded (29.4.2013) by [The Universal Credit (Transitional Provisions) Regulations 2013 (S.I. 2013/386)](https://www.legislation.gov.uk/uksi/2013/386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/386/regulation/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2013/386/regulation/34/a)
 
-[^key-88421feadb56bf225bbead2972d9eb15]: Modification: [Reg. 107](https://www.legislation.gov.uk/uksi/2013/376/regulation/107) disapplied (cond.) (16.6.2014) by [The Universal Credit (Transitional Provisions) Regulations 2014 (S.I. 2014/1230)](https://www.legislation.gov.uk/uksi/2014/1230), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2014/1230/regulation/34)
+[^c-88421feadb56bf225bbead2972d9eb15]: Modification: [Reg. 107](https://www.legislation.gov.uk/uksi/2013/376/regulation/107) disapplied (cond.) (16.6.2014) by [The Universal Credit (Transitional Provisions) Regulations 2014 (S.I. 2014/1230)](https://www.legislation.gov.uk/uksi/2014/1230), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2014/1230/regulation/34)

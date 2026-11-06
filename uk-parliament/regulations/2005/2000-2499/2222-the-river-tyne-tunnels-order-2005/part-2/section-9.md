@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Access to works[^key-c717162eaf81e99b2c73be3cab7196ba]
+## 9. Access to works[^c-c717162eaf81e99b2c73be3cab7196ba]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may, for the purpose of or in connection with the authorised work
 
 ## Annotations
 
-[^key-c717162eaf81e99b2c73be3cab7196ba]: Commencement: Art. 9 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-c717162eaf81e99b2c73be3cab7196ba]: Commencement: Art. 9 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

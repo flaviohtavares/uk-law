@@ -36,8 +36,8 @@ summary: ''
 
 (5) All such assessments and adjustments of assessments are to be made as are necessary to give effect to the election.
 
-(6)[^key-fb3448d43e0464caed08812a6d1b8ba1] This section is subject to section 267A.
+(6)[^c-fb3448d43e0464caed08812a6d1b8ba1] This section is subject to section 267A.
 
 ## Annotations
 
-[^key-fb3448d43e0464caed08812a6d1b8ba1]: Textual amendment: S. 267(6) inserted (with effect in accordance with s. 85(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 85(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/85/3)
+[^c-fb3448d43e0464caed08812a6d1b8ba1]: Textual amendment: S. 267(6) inserted (with effect in accordance with s. 85(5) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 85(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/85/3)

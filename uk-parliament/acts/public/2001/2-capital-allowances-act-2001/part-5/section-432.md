@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-17ae6086f15434f6acc59529ab1c7428] An allowance or charge to which a person is entitled or liable under this Part is to be given effect in calculating the profits of that person’s mineral extraction trade, by treating—
+(1)[^c-17ae6086f15434f6acc59529ab1c7428] An allowance or charge to which a person is entitled or liable under this Part is to be given effect in calculating the profits of that person’s mineral extraction trade, by treating—
 
 - (a) the allowance as an expense of the trade, and
 - (b) the charge as a receipt of the trade.
 
-(2)[^key-415aff0ff39e49e908bdec78ee38b196] This section is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
+(2)[^c-415aff0ff39e49e908bdec78ee38b196] This section is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
 
 ## Annotations
 
-[^key-17ae6086f15434f6acc59529ab1c7428]: Textual amendment: S. 432 renumbered as s. 432(1) (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/13/2)
+[^c-17ae6086f15434f6acc59529ab1c7428]: Textual amendment: S. 432 renumbered as s. 432(1) (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/13/2)
 
-[^key-415aff0ff39e49e908bdec78ee38b196]: Textual amendment: S. 432(2) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/13/3)
+[^c-415aff0ff39e49e908bdec78ee38b196]: Textual amendment: S. 432(2) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/13/3)

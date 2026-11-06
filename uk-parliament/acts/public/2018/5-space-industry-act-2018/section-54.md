@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Offences under regulations[^key-d92d8087aa6f1aff05769f28fb424b6b]
+## 54. Offences under regulations[^c-d92d8087aa6f1aff05769f28fb424b6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d92d8087aa6f1aff05769f28fb424b6b]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2018/5/section/54) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(tt)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/tt)
+[^c-d92d8087aa6f1aff05769f28fb424b6b]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2018/5/section/54) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(tt)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/tt)

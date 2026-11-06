@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19A. Power to confer non-rail functions on the Passengers’ Council[^key-3d0faf5008ac1c2f86d7e6d842aa8c65][^key-2a7ca003d7acb87810143acf86fcc386]
+## 19A. Power to confer non-rail functions on the Passengers’ Council[^c-3d0faf5008ac1c2f86d7e6d842aa8c65][^c-2a7ca003d7acb87810143acf86fcc386]
 
 *Extent: E+W+S*
 
-(1) The Secretary of State may by order make provision conferring functions on the Passengers’ Council[^key-610475d01407cb86cb030069e331182c] relating to—
+(1) The Secretary of State may by order make provision conferring functions on the Passengers’ Council[^c-610475d01407cb86cb030069e331182c] relating to—
 
 - (a) prescribed local services, or local services of a prescribed description, so far as operating in England;
 - (b) prescribed domestic coach services, or domestic coach services of a prescribed description, so far as operating in England;
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3d0faf5008ac1c2f86d7e6d842aa8c65]: Textual amendment: S. 19A inserted (26.11.2008 for specified purposes, 9.2.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/26/section/74), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-3d0faf5008ac1c2f86d7e6d842aa8c65]: Textual amendment: S. 19A inserted (26.11.2008 for specified purposes, 9.2.2009 in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/26/section/74), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-2a7ca003d7acb87810143acf86fcc386]: Textual amendment: Words in s. 19A heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(4)(b)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/4/b)
+[^c-2a7ca003d7acb87810143acf86fcc386]: Textual amendment: Words in s. 19A heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(4)(b)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/4/b)
 
-[^key-610475d01407cb86cb030069e331182c]: Textual amendment: Words in s. 19A substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/4/a)
+[^c-610475d01407cb86cb030069e331182c]: Textual amendment: Words in s. 19A substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/4/a)

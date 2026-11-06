@@ -44,8 +44,8 @@ summary: ''
 
 (5) Section 4 of the 1999 Act (accommodation) shall not apply in relation to designated persons.
 
-(6)[^key-0e1b42c485109eeae52549e175aef1c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0e1b42c485109eeae52549e175aef1c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e1b42c485109eeae52549e175aef1c6]: Textual amendment: S. 134(6) repealed (2.3.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/24), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)
+[^c-0e1b42c485109eeae52549e175aef1c6]: Textual amendment: S. 134(6) repealed (2.3.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/24), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)

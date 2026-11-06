@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Effect of plans certificate[^key-190fa3b25bf7198b431b66bb1185b963]
+## 11. Effect of plans certificate[^c-190fa3b25bf7198b431b66bb1185b963]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If an initial notice ceases to be in force as described in section 47(4)(b) of t
 
 ## Annotations
 
-[^key-190fa3b25bf7198b431b66bb1185b963]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2024/1268/regulation/11) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-190fa3b25bf7198b431b66bb1185b963]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2024/1268/regulation/11) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

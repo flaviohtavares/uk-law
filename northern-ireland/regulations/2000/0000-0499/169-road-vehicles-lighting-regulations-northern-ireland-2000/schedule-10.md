@@ -86,7 +86,7 @@ Regulations 21 and 23
 | (b) A motor vehicle first used before 1st January 1974 and a trailer, other than a trailer drawn by a cycle, manufactured before that date: | No requirement |
 | (c) A solo motor bicycle and a motor bicycle combination, in each case first used before 24th January 1996, and a trailer manufactured before 24th January 1996 and drawn by a solo motor bicycle or a motor bicycle combination: | No requirement |
 | (d) A cycle, a trailer drawn by a cycle, an invalid carriage having a maximum speed not exceeding 4 mph, a horse-drawn vehicle and a vehicle drawn or propelled by hand in each case manufactured before 24th January 1996: | An approval mark or a British Standard mark |
-| (e) A cycle, a trailer drawn by a cycle, an invalid carriage having a maximum speed not exceeding 4 mph, a horse-drawn vehicle and a vehicle drawn or propelled by hand in each case manufactured on or after 24th January 1996. | An approval mark or the British Standard mark which is specified in sub-paragraph (c), (d) or (e)[^key-85b5dac3ffb295f4c9e31fc8dd9e6085] of the definition of “British Standard mark” |
+| (e) A cycle, a trailer drawn by a cycle, an invalid carriage having a maximum speed not exceeding 4 mph, a horse-drawn vehicle and a vehicle drawn or propelled by hand in each case manufactured on or after 24th January 1996. | An approval mark or the British Standard mark which is specified in sub-paragraph (c), (d) or (e)[^c-85b5dac3ffb295f4c9e31fc8dd9e6085] of the definition of “British Standard mark” |
 | *Extent: E+W+S+N.I.*<br>**6.** Size of illuminated area: | No requirement |
 | *Extent: E+W+S+N.I.*<br>**7.** Colour: | Red |
 | *Extent: E+W+S+N.I.*<br>**8.** Wattage: | No requirement |
@@ -96,7 +96,7 @@ Regulations 21 and 23
 | *Extent: E+W+S+N.I.*<br>**10.** Electrical connections: | No individual requirement |
 | *Extent: E+W+S+N.I.*<br>**11.** Tell-tale: | No requirement |
 
-**12.**[^key-aee51e195a4b24f3522f6f5343943e74] Other requirements—
+**12.**[^c-aee51e195a4b24f3522f6f5343943e74] Other requirements—
 
 - (a) Except in the case of a motor vehicle first used before 24th January 1996, any other vehicle manufactured before 24th January 1996 and a motor bicycle combination, where two rear position lamps are required to be fitted they shall form a matched pair and where four rear position lamps are required to be fitted they shall form two matched pairs.
 - (b) In the case of a rear position lamp capable of emitting a flashing light which is fitted to—
@@ -105,7 +105,7 @@ Regulations 21 and 23
 
   the light shown by the lamp when flashing shall be displayed not less than 60 nor more than 240 equal times per minute and the intervals between each display of light shall be constant.
 
-**13.**[^key-366212278ae6f0ce5e391dc898225a0e] Definitions—
+**13.**[^c-366212278ae6f0ce5e391dc898225a0e] Definitions—
 
 In this Schedule “approval mark” means—
 
@@ -118,22 +118,22 @@ In this Schedule “approval mark” means—
 
 - (a) the mark indicated in the specification for cycle rear lamps published by the British Standards Institution under the reference 3648: 1963 as amended by Amendment PD 6137 published in May 1967 and by AMD 4753 published in July 1985;
 - (b) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the reference BS 6102: Part 3: 1986, namely “BS 6102/3”; or
-- (c) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the reference BS 6102: Part 3: 1986 as amended by AMD 5821 published on the 29th April 1988, namely “6102/3”; or[^key-59a6ea1657b011b1a83e9b65c533d7a4]
+- (c) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the reference BS 6102: Part 3: 1986 as amended by AMD 5821 published on the 29th April 1988, namely “6102/3”; or[^c-59a6ea1657b011b1a83e9b65c533d7a4]
 - (d) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the reference BS 6102: Part 3: 1986 as amended by AMD 8438 published on 15th April 1995, namely “6102/3”; or
 - (e) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the references BS 6102: Part 3: 1986 as amended by AMD 14621 published on 1st September 2003, namely “6102/3”.
 
-### Part II — REQUIREMENTS RELATING TO OPTIONAL REAR POSITION LAMPS[^key-4ca9b64fc52862d2bd01639c9c00813a]
+### Part II — REQUIREMENTS RELATING TO OPTIONAL REAR POSITION LAMPS[^c-4ca9b64fc52862d2bd01639c9c00813a]
 
 Any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 7 and 12(b) of Part I.
 
 ## Annotations
 
-[^key-85b5dac3ffb295f4c9e31fc8dd9e6085]: Textual amendment: Words in [Sch. 10 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/part/I) substituted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [10(2)](https://www.legislation.gov.uk/nisr/2007/239/regulation/10/2)
+[^c-85b5dac3ffb295f4c9e31fc8dd9e6085]: Textual amendment: Words in [Sch. 10 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/part/I) substituted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [10(2)](https://www.legislation.gov.uk/nisr/2007/239/regulation/10/2)
 
-[^key-aee51e195a4b24f3522f6f5343943e74]: Textual amendment: [Sch. 10 Pt. I para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/part/I/paragraph/12) substituted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2007/239/regulation/10/3)
+[^c-aee51e195a4b24f3522f6f5343943e74]: Textual amendment: [Sch. 10 Pt. I para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/part/I/paragraph/12) substituted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2007/239/regulation/10/3)
 
-[^key-366212278ae6f0ce5e391dc898225a0e]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-366212278ae6f0ce5e391dc898225a0e]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-59a6ea1657b011b1a83e9b65c533d7a4]: Textual amendment: Words in [Sch. 10 Pt. I para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/part/I/paragraph/13) inserted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [10(4)](https://www.legislation.gov.uk/nisr/2007/239/regulation/10/4)
+[^c-59a6ea1657b011b1a83e9b65c533d7a4]: Textual amendment: Words in [Sch. 10 Pt. I para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/part/I/paragraph/13) inserted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [10(4)](https://www.legislation.gov.uk/nisr/2007/239/regulation/10/4)
 
-[^key-4ca9b64fc52862d2bd01639c9c00813a]: Textual amendment: [Sch. 10 Pt. 2](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/part/2) substituted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2007/239/regulation/11)
+[^c-4ca9b64fc52862d2bd01639c9c00813a]: Textual amendment: [Sch. 10 Pt. 2](https://www.legislation.gov.uk/nisr/2000/169/schedule/10/part/2) substituted (5.7.2007) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/239)](https://www.legislation.gov.uk/nisr/2007/239), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/239/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2007/239/regulation/11)

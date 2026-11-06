@@ -281,7 +281,7 @@ This repeal has effect in accordance with section 208 of this Act.
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
-| 1968 c. 2. | The Provisional Collection of Taxes Act 1968. | In section 1, in subsection (1) the words “car tax”[^key-bd0cf346eb25bde7961ba9b9e71b9108]....<br>In section 5(1), paragraph (c) and the word “or” immediately preceding it. |
+| 1968 c. 2. | The Provisional Collection of Taxes Act 1968. | In section 1, in subsection (1) the words “car tax”[^c-bd0cf346eb25bde7961ba9b9e71b9108]....<br>In section 5(1), paragraph (c) and the word “or” immediately preceding it. |
 | 1988 c. 1. | The Income and Corporation Taxes Act 1988. | In section 8, subsections (4) to (6). |
 
 The repeals in the Provisional Collection of Taxes Act 1968 have effect in accordance with section 205 of this Act.
@@ -296,4 +296,4 @@ The repeals in the Provisional Collection of Taxes Act 1968 have effect in accor
 
 [^c15158801]: Commencement: Sch. 23 Pt. I partly in force; Sch. 23 Pt. I partly in force at Royal Assent, Sch. 23 Pt. I(7) in force at 1.2.1994 see S.I. 1993/2842, art. 3(3), otherwise in force in accordance with ss. 4, 11(5), 12(8).
 
-[^key-bd0cf346eb25bde7961ba9b9e71b9108]: Textual amendment: Words in Sch. 23 Pt. VI repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-bd0cf346eb25bde7961ba9b9e71b9108]: Textual amendment: Words in Sch. 23 Pt. VI repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

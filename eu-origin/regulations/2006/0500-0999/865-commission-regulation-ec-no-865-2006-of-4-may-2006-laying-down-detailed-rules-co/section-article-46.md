@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Certificates provided for in Articles [^key-3808ee05bb34b92582e03eec867cf891]... 5(3), 5(4), 8(3) and 9(2)(b) of Regulation (EC) No 338/97 may be issued by the management authority [^key-bda2a0d88e7991bffe1383203265a556]... on receiving an application in accordance with Article 50 of this Regulation.
+Certificates provided for in Articles [^c-3808ee05bb34b92582e03eec867cf891]... 5(3), 5(4), 8(3) and 9(2)(b) of Regulation (EC) No 338/97 may be issued by the management authority [^c-bda2a0d88e7991bffe1383203265a556]... on receiving an application in accordance with Article 50 of this Regulation.
 
 ## Annotations
 
-[^key-3808ee05bb34b92582e03eec867cf891]: Textual amendment: Word in [Art. 46](https://www.legislation.gov.uk/eur/2006/865/article/46) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(48)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/48)
+[^c-3808ee05bb34b92582e03eec867cf891]: Textual amendment: Word in [Art. 46](https://www.legislation.gov.uk/eur/2006/865/article/46) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(48)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/48)
 
-[^key-bda2a0d88e7991bffe1383203265a556]: Textual amendment: Words in [Art. 46](https://www.legislation.gov.uk/eur/2006/865/article/46) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(48)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/48)
+[^c-bda2a0d88e7991bffe1383203265a556]: Textual amendment: Words in [Art. 46](https://www.legislation.gov.uk/eur/2006/865/article/46) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(48)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/48)

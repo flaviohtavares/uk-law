@@ -47,7 +47,7 @@ shall cease to have effect.
 
 ### Section 747A
 
-**2.**[^key-d312149481a0c2e3255c06528de600e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d312149481a0c2e3255c06528de600e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Section 748
 
@@ -79,7 +79,7 @@ shall cease to have effect.
 
 (6) Subsection (2) (which relates to directions under section 747) shall cease to have effect.
 
-(7)[^key-f0c63ef6b84850421f344c764b1ea166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f0c63ef6b84850421f344c764b1ea166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Also in subsection (3), for “no direction may be given under section 747(1) with respect to that accounting period if it appears to the Board that" there shall be substituted “ no apportionment under section 747(3) falls to be made as regards that accounting period if it is the case that ”.
 
@@ -476,7 +476,7 @@ shall cease to have effect.
 
 ### Returns where it is not established whether acceptable distribution policy applies
 
-**10.**[^key-71a0e3d65afc63296c493a94fd04ae22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-71a0e3d65afc63296c493a94fd04ae22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Determinations requiring the sanction of the Board
 
@@ -701,13 +701,13 @@ shall cease to have effect.
 
 **17.** (1) In Schedule 24 to the Taxes Act 1988 (assumptions for calculating chargeable profits, creditable tax and corresponding United Kingdom tax of foreign companies) paragraph 1 shall be amended as follows.
 
-(2)[^key-989dddde67ddc03a32c138f4ee3e45f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-989dddde67ddc03a32c138f4ee3e45f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-989dddde67ddc03a32c138f4ee3e45f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-989dddde67ddc03a32c138f4ee3e45f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-989dddde67ddc03a32c138f4ee3e45f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-989dddde67ddc03a32c138f4ee3e45f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-989dddde67ddc03a32c138f4ee3e45f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-989dddde67ddc03a32c138f4ee3e45f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Sub-paragraph (4) (assumption for applying provisions of Schedule 24 which refer to the first accounting period for which a direction is given in cases where, as respects the accounting period in question and any earlier ones, no direction has been given) shall be amended in accordance with sub-paragraphs (7) to (9) below.
 
@@ -801,7 +801,7 @@ shall cease to have effect.
 
 ### Transfer pricing
 
-**24.**[^key-f74fc510b9370eeb21dff990b3eeab33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-f74fc510b9370eeb21dff990b3eeab33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Schedule 25
 
@@ -813,15 +813,15 @@ shall cease to have effect.
 
 ### Paragraph 1 of Schedule 25
 
-**26.**[^key-1e00154ff7a25cf4787e4df2391f5baa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-1e00154ff7a25cf4787e4df2391f5baa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Paragraph 2A of Schedule 25
 
-**27.**[^key-1e00154ff7a25cf4787e4df2391f5baa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-1e00154ff7a25cf4787e4df2391f5baa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Paragraph 3 of Schedule 25
 
-**28.**[^key-1e00154ff7a25cf4787e4df2391f5baa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-1e00154ff7a25cf4787e4df2391f5baa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Paragraph 5 of Schedule 25
 
@@ -837,18 +837,18 @@ shall cease to have effect.
 
 (4) In sub-paragraph (3) (local holding companies) in paragraph (b) (controlled companies which are not themselves holding companies but which are otherwise engaged in exempt activities)—
 
-- (a)[^key-590495b3f1184c4daddf5ef248541e99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-590495b3f1184c4daddf5ef248541e99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after “exempt activities" there shall be inserted “ or are, in terms of sub-paragraph (5A) below, exempt trading companies ”.
 
-(5)[^key-147bbb00299a9912c02b1abb6265cd52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-147bbb00299a9912c02b1abb6265cd52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-e22ef50b2600e50585a43e870c8abb08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e22ef50b2600e50585a43e870c8abb08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) After sub-paragraph (4B) there shall be inserted—
 
 > (4C) For the purposes of sub-paragraph (2)(b) above, a person has a 25 per cent. assessable interest in a controlled foreign company in the case of an accounting period of the company if, on an apportionment of the chargeable profits and creditable tax (if any) of the company for that accounting period under section 747(3), at least 25 per cent. of the controlled foreign company’s chargeable profits for the accounting period would be apportioned to that person.
 
-(8)[^key-da45bcdedc42a582ae4f98b2aa5d5bfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-da45bcdedc42a582ae4f98b2aa5d5bfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) After sub-paragraph (5) there shall be inserted—
 
@@ -862,22 +862,22 @@ shall cease to have effect.
 
 ### Paragraph 8 of Schedule 25
 
-**31.**[^key-457c30127708fb473d953094f40a8121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-457c30127708fb473d953094f40a8121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Paragraph 12 of Schedule 25
 
 **32.** (1) Paragraph 12 of Schedule 25 to the Taxes Act 1988 (meaning of “holding company" in paragraphs 6 and 8(3)) shall be amended as follows.
 
-(2)[^key-9eaf2b805bcb6ddbc724b34d7f4f4ef0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9eaf2b805bcb6ddbc724b34d7f4f4ef0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In sub-paragraph (5) (exclusion of income derived from certain sources) in paragraph (a)—
 
-- (a)[^key-be73bfed8357a6c01e2395f8ffdc3938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-be73bfed8357a6c01e2395f8ffdc3938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after “engaged in exempt activities" there shall be inserted “ or, in terms of sub-paragraph (5A) of that paragraph, is an exempt trading company ”.
 
 ### Superior holding companies: supplementary provisions
 
-**33.**[^key-b81dabf2cad1de4c41154de8fbf79e4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-b81dabf2cad1de4c41154de8fbf79e4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Paragraph 1 of Schedule 26
 
@@ -961,11 +961,11 @@ such separate determinations and computations shall be made as are necessary for
 
 ## Annotations
 
-[^key-d312149481a0c2e3255c06528de600e5]: Textual amendment: Sch. 17 para. 2 repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/6)
+[^c-d312149481a0c2e3255c06528de600e5]: Textual amendment: Sch. 17 para. 2 repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/6)
 
-[^key-f0c63ef6b84850421f344c764b1ea166]: Textual amendment: [Sch. 17 para. 3(7)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/17/paragraph/3/7) omitted (with effect in accordance with Sch. 12 para. 14(2) to the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 13(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/13/a)
+[^c-f0c63ef6b84850421f344c764b1ea166]: Textual amendment: [Sch. 17 para. 3(7)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/17/paragraph/3/7) omitted (with effect in accordance with Sch. 12 para. 14(2) to the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 13(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/13/a)
 
-[^key-71a0e3d65afc63296c493a94fd04ae22]: Textual amendment: Sch. 17 para. 10 omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/d) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
+[^c-71a0e3d65afc63296c493a94fd04ae22]: Textual amendment: Sch. 17 para. 10 omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/d) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
 
 [^c16424461]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 
@@ -977,27 +977,27 @@ such separate determinations and computations shall be made as are necessary for
 
 [^c16424501]: Marginal citation: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50).
 
-[^key-989dddde67ddc03a32c138f4ee3e45f1]: Textual amendment: Sch. 17 para. 17(2)-(5) omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/d) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
+[^c-989dddde67ddc03a32c138f4ee3e45f1]: Textual amendment: Sch. 17 para. 17(2)-(5) omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/d) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
 
-[^key-f74fc510b9370eeb21dff990b3eeab33]: Textual amendment: Sch. 17 para. 24 repealed (with effect in accordance with s. 37 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/1)
+[^c-f74fc510b9370eeb21dff990b3eeab33]: Textual amendment: Sch. 17 para. 24 repealed (with effect in accordance with s. 37 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/1)
 
-[^key-1e00154ff7a25cf4787e4df2391f5baa]: Textual amendment: Sch. 17 paras. 26-28 omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/d) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
+[^c-1e00154ff7a25cf4787e4df2391f5baa]: Textual amendment: Sch. 17 paras. 26-28 omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/d) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
 
-[^key-590495b3f1184c4daddf5ef248541e99]: Textual amendment: Sch. 17 para. 30(4)(a) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-590495b3f1184c4daddf5ef248541e99]: Textual amendment: Sch. 17 para. 30(4)(a) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
 
-[^key-147bbb00299a9912c02b1abb6265cd52]: Textual amendment: Sch. 17 para. 30(5) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-147bbb00299a9912c02b1abb6265cd52]: Textual amendment: Sch. 17 para. 30(5) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
 
-[^key-e22ef50b2600e50585a43e870c8abb08]: Textual amendment: Sch. 17 para. 30(6) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-e22ef50b2600e50585a43e870c8abb08]: Textual amendment: Sch. 17 para. 30(6) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
 
-[^key-da45bcdedc42a582ae4f98b2aa5d5bfa]: Textual amendment: Sch. 17 para. 30(8) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-da45bcdedc42a582ae4f98b2aa5d5bfa]: Textual amendment: Sch. 17 para. 30(8) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
 
-[^key-457c30127708fb473d953094f40a8121]: Textual amendment: Sch. 17 para. 31 omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-457c30127708fb473d953094f40a8121]: Textual amendment: Sch. 17 para. 31 omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
 
-[^key-9eaf2b805bcb6ddbc724b34d7f4f4ef0]: Textual amendment: Sch. 17 para. 32(2) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-9eaf2b805bcb6ddbc724b34d7f4f4ef0]: Textual amendment: Sch. 17 para. 32(2) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
 
-[^key-be73bfed8357a6c01e2395f8ffdc3938]: Textual amendment: Sch. 17 para. 32(3)(a) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-be73bfed8357a6c01e2395f8ffdc3938]: Textual amendment: Sch. 17 para. 32(3)(a) omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
 
-[^key-b81dabf2cad1de4c41154de8fbf79e4d]: Textual amendment: Sch. 17 para. 33 omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
+[^c-b81dabf2cad1de4c41154de8fbf79e4d]: Textual amendment: Sch. 17 para. 33 omitted (with effect in accordance with Sch. 16 para. 12 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/11/a) (with [Sch. 16 paras. 13-20](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/13))
 
 [^c16424511]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 

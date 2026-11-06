@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43.[^key-73ba47c5e3be5f1a4483e9b982fdf83d]
+## 43.[^c-73ba47c5e3be5f1a4483e9b982fdf83d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 22C(1), after “new means of transport” insert “ which involv
 
 ## Annotations
 
-[^key-73ba47c5e3be5f1a4483e9b982fdf83d]: Commencement: Reg. 43 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-73ba47c5e3be5f1a4483e9b982fdf83d]: Commencement: Reg. 43 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

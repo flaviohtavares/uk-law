@@ -22,12 +22,12 @@ summary: ''
 
 (1) Subject to paragraph (2) this regulation applies to a member—
 
-- (a) who, on 1st April 1995[^key-0e9a17d058af3015c7d9f57612bea716]—
-  - (i) was in[^key-c9a67fa02155eca7cb1de6370316dee8] pensionable employment as a nurse, physiotherapist, midwife or health visitor, or
-  - (ii) had accrued[^key-fe30ed3220b4efac4790d07acfde6ea4] rights to benefits under this Section of the scheme arising out of a previous period in which the member was engaged in such employment and at no time since the last occasion on which the member was so engaged has had a break in pensionable employment for any one period of 5 years or more, and
-- (b)[^key-3f5bed946517d6b2d8afcea525440f59] who spends the whole of the last 5 years of pensionable employment as a nurse, physiotherapist, midwife or health visitor.
+- (a) who, on 1st April 1995[^c-0e9a17d058af3015c7d9f57612bea716]—
+  - (i) was in[^c-c9a67fa02155eca7cb1de6370316dee8] pensionable employment as a nurse, physiotherapist, midwife or health visitor, or
+  - (ii) had accrued[^c-fe30ed3220b4efac4790d07acfde6ea4] rights to benefits under this Section of the scheme arising out of a previous period in which the member was engaged in such employment and at no time since the last occasion on which the member was so engaged has had a break in pensionable employment for any one period of 5 years or more, and
+- (b)[^c-3f5bed946517d6b2d8afcea525440f59] who spends the whole of the last 5 years of pensionable employment as a nurse, physiotherapist, midwife or health visitor.
 
-(2)[^key-3f5bed946517d6b2d8afcea525440f59] This regulation ceases to apply if the member has a break in pensionable employment of 5 years or more ending after the coming into force of the 1995 Regulations.
+(2)[^c-3f5bed946517d6b2d8afcea525440f59] This regulation ceases to apply if the member has a break in pensionable employment of 5 years or more ending after the coming into force of the 1995 Regulations.
 
 (3) Where this regulation applies—
 
@@ -51,10 +51,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0e9a17d058af3015c7d9f57612bea716]: Textual amendment: Words in reg. R2(1)(a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2016/98/regulation/4/a)
+[^c-0e9a17d058af3015c7d9f57612bea716]: Textual amendment: Words in reg. R2(1)(a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2016/98/regulation/4/a)
 
-[^key-c9a67fa02155eca7cb1de6370316dee8]: Textual amendment: Words in reg. R2(1)(a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2016/98/regulation/4/b)
+[^c-c9a67fa02155eca7cb1de6370316dee8]: Textual amendment: Words in reg. R2(1)(a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2016/98/regulation/4/b)
 
-[^key-fe30ed3220b4efac4790d07acfde6ea4]: Textual amendment: Words in reg. R2(1)(a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [4(c)](https://www.legislation.gov.uk/ssi/2016/98/regulation/4/c)
+[^c-fe30ed3220b4efac4790d07acfde6ea4]: Textual amendment: Words in reg. R2(1)(a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [4(c)](https://www.legislation.gov.uk/ssi/2016/98/regulation/4/c)
 
-[^key-3f5bed946517d6b2d8afcea525440f59]: Modification: Reg. R2(1)(b)(2) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [30(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/30/1)
+[^c-3f5bed946517d6b2d8afcea525440f59]: Modification: Reg. R2(1)(b)(2) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [30(1)](https://www.legislation.gov.uk/ssi/2015/95/regulation/30/1)

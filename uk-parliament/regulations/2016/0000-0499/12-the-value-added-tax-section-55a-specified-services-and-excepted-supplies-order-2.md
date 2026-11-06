@@ -61,7 +61,7 @@ In this Order—
 
 ## 3. Application of section 55A of the Act
 
-(1) Section 55A of the Act (customers to account for tax on supplies of goods or services of a kind used in missing trader [^key-f6cf962e10897bf4ff05fe96d392a838]... fraud) applies to services of a description specified in article 4.
+(1) Section 55A of the Act (customers to account for tax on supplies of goods or services of a kind used in missing trader [^c-f6cf962e10897bf4ff05fe96d392a838]... fraud) applies to services of a description specified in article 4.
 
 (2) The supplies specified in article 5 are excepted supplies for the purposes of section 55A of the Act.
 
@@ -72,7 +72,7 @@ In this Order—
 - (a) speech communication instantly or with only a negligible delay between the transmission and the receipt of signals; or
 - (b) the transmission of writing, images and sounds or information of any nature when provided in connection with services described in sub-paragraph (a).
 
-(2) In this article “**telecommunication services**” has the meaning given by paragraph 9E(2)[^key-ed5ab162bfb9000295abaa9eb96e3bea] of Schedule 4A to the Act [^c23116461].
+(2) In this article “**telecommunication services**” has the meaning given by paragraph 9E(2)[^c-ed5ab162bfb9000295abaa9eb96e3bea] of Schedule 4A to the Act [^c23116461].
 
 ## 5. Excepted Supplies
 
@@ -105,9 +105,9 @@ A Tax Information and Impact Note covering this instrument has been published an
 
 [^c23116451]: Marginal citation: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23); [section 55A](https://www.legislation.gov.uk/uksi/2016/12/section/55A) was inserted by section 19(1) of the [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and was amended by section 50(1) of the [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13) and section 203 of, and paragraphs 2 and 6 of Schedule 28 to, the [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14).
 
-[^key-f6cf962e10897bf4ff05fe96d392a838]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/12/article/3/1) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [87(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/87/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-f6cf962e10897bf4ff05fe96d392a838]: Textual amendment: Word in [art. 3(1)](https://www.legislation.gov.uk/uksi/2016/12/article/3/1) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [87(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/87/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-ed5ab162bfb9000295abaa9eb96e3bea]: Textual amendment: Word in art. 4(2) substituted (with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/778/article/1/2) of the amending S.I.) by [The Value Added Tax (Place of Supply of Services) (Telecommunication Services) Order 2017 (S.I. 2017/778)](https://www.legislation.gov.uk/uksi/2017/778), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/778/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/778/article/8)
+[^c-ed5ab162bfb9000295abaa9eb96e3bea]: Textual amendment: Word in art. 4(2) substituted (with effect in accordance with [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/778/article/1/2) of the amending S.I.) by [The Value Added Tax (Place of Supply of Services) (Telecommunication Services) Order 2017 (S.I. 2017/778)](https://www.legislation.gov.uk/uksi/2017/778), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/778/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/778/article/8)
 
 [^c23116461]: Marginal citation: Schedule 4A was inserted by section 76 of, and paragraphs 1 and 11 of Schedule 36 to, the [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 

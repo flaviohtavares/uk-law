@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-c5e4d1abe3dd24c9f5c0bc8209b9df33]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-c5e4d1abe3dd24c9f5c0bc8209b9df33]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Article 2
 
 ### In the metropolitan districts of the City of Manchester and the City of Salford
 
-[^key-c5e4d1abe3dd24c9f5c0bc8209b9df33]
+[^c-c5e4d1abe3dd24c9f5c0bc8209b9df33]
 
 - *Work No. 1* — A railway comprising an elevated chord, 1,183 metres in length, commencing at a point on the Bolton Lines railway (on the existing Castlefield Manchester, South Junction & Altrincham Railway viaduct (“Castlefield MSJ&AR viaduct”)) 21 metres north-west of the bridge carrying that railway over Potato Wharf, passing north-west over Water Street, the 1830 Viaduct, Prince’s Bridge (to be removed), the River Irwell and over the Trinity Way, tying into the east side of the existing Middlewood Liverpool & Manchester Railway viaduct (“Middlewood L&MR viaduct”) carrying the Chat Moss Lines and terminating at a point on that railway 20 metres north-east of Bury Street.
 
@@ -43,11 +43,11 @@ Article 2
 
 ### In the metropolitan districts of the City of Manchester and the City of Salford
 
-[^key-c5e4d1abe3dd24c9f5c0bc8209b9df33]
+[^c-c5e4d1abe3dd24c9f5c0bc8209b9df33]
 
 - *Work No. 4 —* A bridge to carry a footpath and cycle track over the River Irwell (being a replacement for Prince’s Bridge) commencing at a point on Water Street and terminating at a point on Trinity Way.
 - *Work No. 5 —* A bridge to carry utility apparatus together with a footpath and cycle track over the River Irwell commencing at a point 39 metres north-west of Water Street and terminating at a point on Trinity Way.
 
 ## Annotations
 
-[^key-c5e4d1abe3dd24c9f5c0bc8209b9df33]: Commencement: Sch. 1 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-c5e4d1abe3dd24c9f5c0bc8209b9df33]: Commencement: Sch. 1 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

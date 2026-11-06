@@ -25,7 +25,7 @@ summary: ''
 - “adoption pay period” has the meaning given by section 167ZN(2) above;
 - “the Board” means the Commissioners of Inland Revenue
 - “the Department” means the Department for Employment and Learning;
-- “employer”, in relation to a person who is an employee, means a person who—[^key-4183ae956bfc049a481e309c0f6390ff]
+- “employer”, in relation to a person who is an employee, means a person who—[^c-4183ae956bfc049a481e309c0f6390ff]
   - (a) under section 6 above is liable to pay secondary Class 1 contributions in relation to any of the earnings of the person who is an employee; or
   - (b) would be liable to pay such contributions but for—
     - (i) the condition in section 6(1)(b); or
@@ -35,8 +35,8 @@ summary: ''
 
 (2) In this Part of this Act, “employee” means a person who is—
 
-- (a) gainfully employed in Northern Ireland either under a contract of service, or in an office (including elective office) with earnings (within the meaning of Parts 1 to 5 above)[^key-455f46005bd45c101dec5525444b17af]; [^key-e046d89f68ad87a4440aec5d3a86c6c7]...
-- (b)[^key-e046d89f68ad87a4440aec5d3a86c6c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) gainfully employed in Northern Ireland either under a contract of service, or in an office (including elective office) with earnings (within the meaning of Parts 1 to 5 above)[^c-455f46005bd45c101dec5525444b17af]; [^c-e046d89f68ad87a4440aec5d3a86c6c7]...
+- (b)[^c-e046d89f68ad87a4440aec5d3a86c6c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Regulations may provide—
 
@@ -77,8 +77,8 @@ summary: ''
 
 [^c19104611]: Textual amendment: Pt. XIIZB (ss. 167ZL-167ZT) inserted (8.12.2002) by [The Employment (Northern Ireland) Order 2002 (S.I. 2002/2836 (N.I. 2))](https://www.legislation.gov.uk/nisi/2002/2836), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2002/2836/article/1/2), [6](https://www.legislation.gov.uk/nisi/2002/2836/article/6); [S.R. 2002/356](https://www.legislation.gov.uk/nisr/2002/356), [art. 2(2)](https://www.legislation.gov.uk/nisr/2002/356/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2002/356/schedule/1/part/II)
 
-[^key-4183ae956bfc049a481e309c0f6390ff]: Textual amendment: Words in [s. 167ZS(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZS/1) substituted (1.10.2006) by [The Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [Sch. 7 para. 1(7)(a)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/7/a) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50), [Sch. 7 para. 1(8)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/8))
+[^c-4183ae956bfc049a481e309c0f6390ff]: Textual amendment: Words in [s. 167ZS(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZS/1) substituted (1.10.2006) by [The Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [Sch. 7 para. 1(7)(a)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/7/a) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50), [Sch. 7 para. 1(8)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/8))
 
-[^key-455f46005bd45c101dec5525444b17af]: Textual amendment: Words in [s. 167ZS(2)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZS/2/a) substituted (13.5.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 15(4)](https://www.legislation.gov.uk/ukpga/2014/7/section/15/4), [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2014/7/schedule/2/paragraph/12)
+[^c-455f46005bd45c101dec5525444b17af]: Textual amendment: Words in [s. 167ZS(2)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZS/2/a) substituted (13.5.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 15(4)](https://www.legislation.gov.uk/ukpga/2014/7/section/15/4), [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2014/7/schedule/2/paragraph/12)
 
-[^key-e046d89f68ad87a4440aec5d3a86c6c7]: Textual amendment: [S. 167ZS(2)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZS/2/b) and preceding word repealed (1.10.2006) by [The Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [Sch. 7 para. 1(7)(b)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/7/b), [Sch. 8(1)](https://www.legislation.gov.uk/nisr/2006/261/schedule/8/1) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50), [Sch. 7 para. 1(8)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/8))
+[^c-e046d89f68ad87a4440aec5d3a86c6c7]: Textual amendment: [S. 167ZS(2)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZS/2/b) and preceding word repealed (1.10.2006) by [The Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [Sch. 7 para. 1(7)(b)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/7/b), [Sch. 8(1)](https://www.legislation.gov.uk/nisr/2006/261/schedule/8/1) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50), [Sch. 7 para. 1(8)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/8))

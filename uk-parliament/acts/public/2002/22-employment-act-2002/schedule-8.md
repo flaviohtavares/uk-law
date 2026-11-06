@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Repeals and revocations[^c17967571][^key-0f99dbdddbf53e0b625cd996e8faf7bf]
+## SCHEDULE 8 — Repeals and revocations[^c17967571][^c-0f99dbdddbf53e0b625cd996e8faf7bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ Section 54
 
 [^c17967571]: Commencement: Sch. 8 in force for certain purposes at 9.9.2002 by [S.I. 2002/2256](https://www.legislation.gov.uk/uksi/2002/2256), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2002/2256/article/2/c/d), [Sch.](https://www.legislation.gov.uk/uksi/2002/2256/schedule); Sch. 8 in force for certain purposes at 24.11.2002 and 6.4.2003 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(4)(5)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/4/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/2) (with transitional and saving provision in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3/paragraph/4))
 
-[^key-0f99dbdddbf53e0b625cd996e8faf7bf]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8) in force at 1.11.2004 for specified purposes by [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)
+[^c-0f99dbdddbf53e0b625cd996e8faf7bf]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/22/schedule/8) in force at 1.11.2004 for specified purposes by [S.I. 2004/2822](https://www.legislation.gov.uk/uksi/2004/2822), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2822/article/2/b)

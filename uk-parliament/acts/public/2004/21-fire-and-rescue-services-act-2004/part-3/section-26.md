@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Information[^key-f8ac8c526f6b56b6a5e782b5c7d76956][^key-9f9d7731767a33d155991773300af1d2]
+## 26. Information[^c-f8ac8c526f6b56b6a5e782b5c7d76956][^c-9f9d7731767a33d155991773300af1d2]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ A fire and rescue authority must—
 
 ## Annotations
 
-[^key-f8ac8c526f6b56b6a5e782b5c7d76956]: Commencement: S. 26 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-f8ac8c526f6b56b6a5e782b5c7d76956]: Commencement: S. 26 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-9f9d7731767a33d155991773300af1d2]: Commencement: S. 26 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-9f9d7731767a33d155991773300af1d2]: Commencement: S. 26 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

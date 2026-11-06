@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT AND MAINTAINED BY THE HIGHWAY AUTHORITY[^key-f394040e89c4e38cd082e31d009e0150]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT AND MAINTAINED BY THE HIGHWAY AUTHORITY[^c-f394040e89c4e38cd082e31d009e0150]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of permanent alteration* |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Article 11
 | Parish of Great Stainton | Unnamed road to the west of The Green, Bishopton | Works for the provision of a permanent means of access to the authorised development from an unnamed road to the west of The Green, Bishopton, as shown as point E1 on sheet 9 of the street works, public rights of way and access plans. |
 | Parish of Great Stainton | Unnamed road adjacent to Bishopton Beck | Works for the provision of a permanent means of access to the authorised development from an unnamed road adjacent to Bishopton Beck, Bishopton, as shown as point F1 on sheet 10 of the street works, public rights of way and access plans. |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-4bc9a570b226979ba657fa813bb88e28]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-4bc9a570b226979ba657fa813bb88e28]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of permanent alteration* |
 | --- | --- | --- |
@@ -43,6 +43,6 @@ Article 11
 
 ## Annotations
 
-[^key-f394040e89c4e38cd082e31d009e0150]: Commencement: Sch. 4 Pt. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-f394040e89c4e38cd082e31d009e0150]: Commencement: Sch. 4 Pt. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
-[^key-4bc9a570b226979ba657fa813bb88e28]: Commencement: Sch. 4 Pt. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-4bc9a570b226979ba657fa813bb88e28]: Commencement: Sch. 4 Pt. 2 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 45
 
-### 1. Applications made under requirements[^key-f2423ea51294d0720ba6b7d717a61351]
+### 1. Applications made under requirements[^c-f2423ea51294d0720ba6b7d717a61351]
 
 (1) Where an application has been made to a relevant authority for any consent, agreement or approval required by a Requirement, the relevant authority must give notice to the undertaker of its decision on the application within a period of 35 days beginning with—
 
@@ -38,7 +38,7 @@ Article 45
 
 (5) If the relevant authority does not give the notification mentioned in sub-paragraph (3) or (4) it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 2. Fees[^key-10c6c6f065a1f632fa8a3b0eda56cc3b]
+### 2. Fees[^c-10c6c6f065a1f632fa8a3b0eda56cc3b]
 
 (1) Where an application is made to a relevant planning authority for any consent, agreement or approval required by a Requirement, a fee must be paid to the relevant planning authority as follows—
 
@@ -52,7 +52,7 @@ Article 45
 
 unless within that period the undertaker agrees in writing that the fee may be retained by the relevant planning authority and credited in respect of a future application.
 
-### 3. Appeals[^key-d97ddbb3fb3979f7b45d0afab60eda8e]
+### 3. Appeals[^c-d97ddbb3fb3979f7b45d0afab60eda8e]
 
 (1) The undertaker may appeal if—
 
@@ -83,7 +83,7 @@ unless within that period the undertaker agrees in writing that the fee may be r
 
 (6) Any such representations must be submitted to the appointed person and made available to all appeal parties within 10 business days of the date mentioned in sub-paragraph (3).
 
-### 4. Outcome of appeals[^key-2eacb206977a0f1484df673233bee616]
+### 4. Outcome of appeals[^c-2eacb206977a0f1484df673233bee616]
 
 (1) On an appeal under paragraph 3, the appointed person may—
 
@@ -108,7 +108,7 @@ and may deal with the application as if it had been made to the appointed person
 
 (9) In considering whether to make any such direction as to the costs of the appeal parties and the terms on which it is made, the appointed person must have regard to the Planning Practice Guidance or any guidance which may from time to time replace it.
 
-### 5. Interpretation of Schedule 4[^key-4d82de5438c4247ef687483116033a64]
+### 5. Interpretation of Schedule 4[^c-4d82de5438c4247ef687483116033a64]
 
 (1) In this Schedule—
 
@@ -118,12 +118,12 @@ and may deal with the application as if it had been made to the appointed person
 
 ## Annotations
 
-[^key-f2423ea51294d0720ba6b7d717a61351]: Commencement: Sch. 4 para. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-f2423ea51294d0720ba6b7d717a61351]: Commencement: Sch. 4 para. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-10c6c6f065a1f632fa8a3b0eda56cc3b]: Commencement: Sch. 4 para. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-10c6c6f065a1f632fa8a3b0eda56cc3b]: Commencement: Sch. 4 para. 2 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-d97ddbb3fb3979f7b45d0afab60eda8e]: Commencement: Sch. 4 para. 3 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-d97ddbb3fb3979f7b45d0afab60eda8e]: Commencement: Sch. 4 para. 3 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-2eacb206977a0f1484df673233bee616]: Commencement: Sch. 4 para. 4 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-2eacb206977a0f1484df673233bee616]: Commencement: Sch. 4 para. 4 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-4d82de5438c4247ef687483116033a64]: Commencement: Sch. 4 para. 5 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-4d82de5438c4247ef687483116033a64]: Commencement: Sch. 4 para. 5 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

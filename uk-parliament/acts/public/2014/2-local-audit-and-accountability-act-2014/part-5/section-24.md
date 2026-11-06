@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Reports and recommendations[^M_I_e33e0e45-39e8-47e9-ccb1-cfcebda2bcff][^key-2f625553a625b167c1c70522cb06ce47]
+## 24. Reports and recommendations[^M_I_e33e0e45-39e8-47e9-ccb1-cfcebda2bcff][^c-2f625553a625b167c1c70522cb06ce47]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 7 (reports and recommendations) has effect.
 
 [^M_I_e33e0e45-39e8-47e9-ccb1-cfcebda2bcff]: Commencement: S. 24 in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), art. 2(k)
 
-[^key-2f625553a625b167c1c70522cb06ce47]: Commencement: S. 24 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-2f625553a625b167c1c70522cb06ce47]: Commencement: S. 24 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(p)](https://www.legislation.gov.uk/uksi/2015/841/article/3/p) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

@@ -32,7 +32,7 @@ Articles 27(2) and 28
 
 **4.** Disinfectants shall be–
 
-- (a) approved for use for the purposes of this Order and the Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006 by the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^key-197a8f57f9786885ca14ad7e38a633eb];
+- (a) approved for use for the purposes of this Order and the Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006 by the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^c-197a8f57f9786885ca14ad7e38a633eb];
 - (b) used at the concentration specified in that Order; and
 - (c) used in accordance with the manufacturer's instructions or recommendations (if any) and in particular, if use is recommended before any date, used before that date.
 
@@ -104,4 +104,4 @@ Grease and dirt shall be removed from all surfaces by the application of a degre
 
 ## Annotations
 
-[^key-197a8f57f9786885ca14ad7e38a633eb]: Textual amendment: Words in [sch. 1 para. 4(a)](https://www.legislation.gov.uk/ssi/2006/44/schedule/1/paragraph/4/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/4)
+[^c-197a8f57f9786885ca14ad7e38a633eb]: Textual amendment: Words in [sch. 1 para. 4(a)](https://www.legislation.gov.uk/ssi/2006/44/schedule/1/paragraph/4/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(4)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/4)

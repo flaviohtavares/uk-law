@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-89b5ea8ae5b39051fc8d45710d71ddf7]
+### 1. Interpretation[^c-89b5ea8ae5b39051fc8d45710d71ddf7]
 
 In this Schedule—
 
@@ -34,7 +34,7 @@ In this Schedule—
     - (bb) making a medical diagnosis;
 - “**services**” means routine synthetic biology processes that are outsourced to specialist providers for completion before being re-integrated into the original work stream to assemble into an experiment or goods, including making a specific strand of DNA or running a proprietary algorithm on a dataset.
 
-### 2. Activities[^key-0fd2929d7f33eda4d87781f945008a8f]
+### 2. Activities[^c-0fd2929d7f33eda4d87781f945008a8f]
 
 Subject to the exceptions referred to in paragraphs 5 and 6, a qualifying entity carrying on activities that consist of or include any of the following—
 
@@ -44,11 +44,11 @@ Subject to the exceptions referred to in paragraphs 5 and 6, a qualifying entity
 - (d) the formulation of synthetic biology to enable the degradation of materials;
 - (e) the provision of services that enable the activities in paragraphs (a) to (d).
 
-### 3. Meaning of synthetic biology[^key-5dd72784a8e6216fd0f74c8f2cbc07a4]
+### 3. Meaning of synthetic biology[^c-5dd72784a8e6216fd0f74c8f2cbc07a4]
 
 In this Schedule, “**synthetic biology**” means the process of applying engineering principles to biology to design, redesign or make biological components or systems that do not exist in the natural world.
 
-**4.**[^key-03c3c9a360ccb0c2d9db0f06d61e370e] Synthetic biology includes but is not limited to—
+**4.**[^c-03c3c9a360ccb0c2d9db0f06d61e370e] Synthetic biology includes but is not limited to—
 
 - (a) the design and engineering of biological-based parts of—
   - (i) enzymes;
@@ -60,7 +60,7 @@ In this Schedule, “**synthetic biology**” means the process of applying engi
 - (e) gene editing and gene therapy;
 - (f) the use of DNA for data storage, encryption and bio-enabled computing.
 
-### 5. Exceptions - general[^key-c8e593e1bdf885fa50d6ce345c4ae4d6]
+### 5. Exceptions - general[^c-c8e593e1bdf885fa50d6ce345c4ae4d6]
 
 Exceptions to the activities described in paragraph 2 are—
 
@@ -72,7 +72,7 @@ Exceptions to the activities described in paragraph 2 are—
 - (f) gene therapy, where it is used solely for the purpose of replacing missing or defective genes to restore phenotypes to achieve a therapeutic effect;
 - (g) cell therapy, where cells are modified by genetic engineering and then introduced into a patient to treat disease.
 
-### 6. Exceptions – human or veterinary medicines or immunomodulatory approaches[^key-6e41e6a96f3d5f836ad8b98da4c19311]
+### 6. Exceptions – human or veterinary medicines or immunomodulatory approaches[^c-6e41e6a96f3d5f836ad8b98da4c19311]
 
 (1) Exceptions to the activities described in paragraph 2 are the ownership, ownership of intellectual property or development of the matters set out in sub-paragraph (2) that employ synthetic biology at any stage of the development or production, unless the circumstances set out in sub-paragraph (3) apply.
 
@@ -90,16 +90,16 @@ Exceptions to the activities described in paragraph 2 are—
 
 ## Annotations
 
-[^key-89b5ea8ae5b39051fc8d45710d71ddf7]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-89b5ea8ae5b39051fc8d45710d71ddf7]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-0fd2929d7f33eda4d87781f945008a8f]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-0fd2929d7f33eda4d87781f945008a8f]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-5dd72784a8e6216fd0f74c8f2cbc07a4]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-5dd72784a8e6216fd0f74c8f2cbc07a4]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-03c3c9a360ccb0c2d9db0f06d61e370e]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-03c3c9a360ccb0c2d9db0f06d61e370e]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-c8e593e1bdf885fa50d6ce345c4ae4d6]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/5) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-c8e593e1bdf885fa50d6ce345c4ae4d6]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/5) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-6e41e6a96f3d5f836ad8b98da4c19311]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/6) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-6e41e6a96f3d5f836ad8b98da4c19311]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/uksi/2021/1264/schedule/16/paragraph/6) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00071]: Footnote: Schedule 5 was amended by [S.I. 2007/929](https://www.legislation.gov.uk/uksi/2007/929) and [2012/1466](https://www.legislation.gov.uk/uksi/2012/1466).

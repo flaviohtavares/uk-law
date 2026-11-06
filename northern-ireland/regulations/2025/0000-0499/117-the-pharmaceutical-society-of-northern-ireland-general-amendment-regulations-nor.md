@@ -44,13 +44,13 @@ The Council of the Pharmaceutical Society of Northern Ireland, with the approval
 
 In accordance with Article 5(3) of that Order, the Department of Health has before approving these Regulations consulted the Department for the Economy[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-433ce0d13644d75db2ba31f433a11046]
+## 1. Citation, commencement and interpretation[^c-433ce0d13644d75db2ba31f433a11046]
 
 These Regulations may be cited as the Pharmaceutical Society of Northern Ireland (General) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 1st August 2025.
 
-**2.**[^key-d044c947079d4f6c5eb9e106923de3a5] In these Regulations “**the principal Regulations**” means the Pharmaceutical Society of Northern Ireland (General) Regulations (Northern Ireland) 1994[^f00005].
+**2.**[^c-d044c947079d4f6c5eb9e106923de3a5] In these Regulations “**the principal Regulations**” means the Pharmaceutical Society of Northern Ireland (General) Regulations (Northern Ireland) 1994[^f00005].
 
-## 3. Amendment of the principal Regulations[^key-a9d8e13b2bbc6fbba5c6ab0568fd02d1]
+## 3. Amendment of the principal Regulations[^c-a9d8e13b2bbc6fbba5c6ab0568fd02d1]
 
 In regulation 1 of the principal Regulations, in paragraph (2)—
 
@@ -68,9 +68,9 @@ In regulation 1 of the principal Regulations, in paragraph (2)—
 
   .
 
-**4.**[^key-9c664f0c61413bfe3fafff98ecb4045e] In regulation 8 of the principal Regulations, in paragraph (1)(b), after “Royal Pharmaceutical Society of Great Britain” insert “or the General Pharmaceutical Council”.
+**4.**[^c-9c664f0c61413bfe3fafff98ecb4045e] In regulation 8 of the principal Regulations, in paragraph (1)(b), after “Royal Pharmaceutical Society of Great Britain” insert “or the General Pharmaceutical Council”.
 
-**5.**[^key-ac382adebeb50e7edcc948eec1732465] In regulation 9 of the principal Regulations—
+**5.**[^c-ac382adebeb50e7edcc948eec1732465] In regulation 9 of the principal Regulations—
 
 - (a) for paragraph (2) substitute—
 
@@ -85,17 +85,17 @@ In regulation 1 of the principal Regulations, in paragraph (2)—
   - (i) omit sub-paragraph (a);
   - (ii) in sub-paragraph (c) after “the Society” insert “or the General Pharmaceutical Council”.
 
-**6.**[^key-0a20297f500922bec203c274b7c67b40] Regulation 10 of the principal Regulations is omitted.
+**6.**[^c-0a20297f500922bec203c274b7c67b40] Regulation 10 of the principal Regulations is omitted.
 
-**7.**[^key-ebcc1affe307fb239c4c05eb91f381e6] For Regulation 11 of the principal Regulations, substitute—
+**7.**[^c-ebcc1affe307fb239c4c05eb91f381e6] For Regulation 11 of the principal Regulations, substitute—
 
 > **11.** A pharmacist registered with the General Pharmaceutical Council may be registered as a pharmaceutical chemist under the provisions of Article 8(4) of the Order.
 
 .
 
-**8.**[^key-c54585efd64d5b9490e0d45370123af0] For Schedule 1 (Form of Declaration) to the principal Regulations, substitute the Schedule 1 (Conditions for pre-registration training) set out in Schedule 1 (Schedule to be inserted as Schedule 1 to the principal Regulations) to these Regulations.
+**8.**[^c-c54585efd64d5b9490e0d45370123af0] For Schedule 1 (Form of Declaration) to the principal Regulations, substitute the Schedule 1 (Conditions for pre-registration training) set out in Schedule 1 (Schedule to be inserted as Schedule 1 to the principal Regulations) to these Regulations.
 
-**9.**[^key-a9d0eb3e4ecf32b12f697592596fe853] For Schedule 2 (Conditions applicable to Registration Examination) to the principal Regulations, substitute the Schedule 2 (Conditions for registration examination) set out in Schedule 2 (Schedule to be inserted as Schedule 2 to the principal Regulations) to these Regulations.
+**9.**[^c-a9d0eb3e4ecf32b12f697592596fe853] For Schedule 2 (Conditions applicable to Registration Examination) to the principal Regulations, substitute the Schedule 2 (Conditions for registration examination) set out in Schedule 2 (Schedule to be inserted as Schedule 2 to the principal Regulations) to these Regulations.
 
 Sealed with the Common Seal of the Pharmaceutical Society of Northern Ireland on 25th June 2025.
 
@@ -115,7 +115,7 @@ Cathy Harrison
 
 A senior officer of the Department of Health
 
-## SCHEDULE 1 — Schedule to be inserted as Schedule 1 to the principal Regulations[^key-c32d7121ac79a775b8d7316ad08c2d69]
+## SCHEDULE 1 — Schedule to be inserted as Schedule 1 to the principal Regulations[^c-c32d7121ac79a775b8d7316ad08c2d69]
 
 Regulation 8
 
@@ -138,7 +138,7 @@ Regulation 8
 >
 > **2.** The approved provider, on behalf of and with the informed consent of the pre-registration trainee, shall notify the Council upon commencement of, and on the satisfactory completion of, the course of pre-registration training, including details of any registered person supervising the training and the date of commencement and completion of the training.
 
-## SCHEDULE 2 — Schedule to be inserted as Schedule 2 to the principal Regulations[^key-a0064f494aa709975e8906bfcb01dfc9]
+## SCHEDULE 2 — Schedule to be inserted as Schedule 2 to the principal Regulations[^c-a0064f494aa709975e8906bfcb01dfc9]
 
 Regulation 9
 
@@ -187,26 +187,26 @@ Regulations 8 and 9 substitute Schedules 1 and 2 to the principal Regulations to
 
 [^f00004]: Footnote: Article 5(3) references consultation with the Department of Education. Relevant Department of Education function subsequently transferred to Department for the Economy; see [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), [2001 c.15 (N.I.)](https://www.legislation.gov.uk/nia/2001/15), [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5), and S.R, [2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76).
 
-[^key-433ce0d13644d75db2ba31f433a11046]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-433ce0d13644d75db2ba31f433a11046]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
-[^key-d044c947079d4f6c5eb9e106923de3a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/117/regulation/2) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-d044c947079d4f6c5eb9e106923de3a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/117/regulation/2) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1994 No. 202](https://www.legislation.gov.uk/nisr/1994/202) as amended by [S.R. 1996 No. 187](https://www.legislation.gov.uk/nisr/1996/187), [S.R. 1999 No 217](https://www.legislation.gov.uk/nisr/1999/217), [S.R. 2002 No. 206](https://www.legislation.gov.uk/nisr/2002/206), [S.R. 2003 No. 356](https://www.legislation.gov.uk/nisr/2003/356), [S.R. 2004 No. 236](https://www.legislation.gov.uk/nisr/2004/236), [S.R. 2005 No. 63](https://www.legislation.gov.uk/nisr/2005/63), S.R. 2006 Nos. [207](https://www.legislation.gov.uk/nisr/2006/207) and [240](https://www.legislation.gov.uk/nisr/2006/240), [S.R. 2007 No. 287](https://www.legislation.gov.uk/nisr/2007/287), [S.R. 2008 No. 222](https://www.legislation.gov.uk/nisr/2008/222), [S.R. 2009 No. 166](https://www.legislation.gov.uk/nisr/2009/166), [S.R. 2016 No. 170](https://www.legislation.gov.uk/nisr/2016/170) and [S.R. 2017 No. 188](https://www.legislation.gov.uk/nisr/2017/188).
 
-[^key-a9d8e13b2bbc6fbba5c6ab0568fd02d1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/117/regulation/3) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-a9d8e13b2bbc6fbba5c6ab0568fd02d1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/117/regulation/3) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
-[^key-9c664f0c61413bfe3fafff98ecb4045e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/117/regulation/4) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-9c664f0c61413bfe3fafff98ecb4045e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/117/regulation/4) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
-[^key-ac382adebeb50e7edcc948eec1732465]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/117/regulation/5) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-ac382adebeb50e7edcc948eec1732465]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/117/regulation/5) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
-[^key-0a20297f500922bec203c274b7c67b40]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2025/117/regulation/6) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-0a20297f500922bec203c274b7c67b40]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2025/117/regulation/6) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
-[^key-ebcc1affe307fb239c4c05eb91f381e6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/117/regulation/7) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-ebcc1affe307fb239c4c05eb91f381e6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/117/regulation/7) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
-[^key-c54585efd64d5b9490e0d45370123af0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2025/117/regulation/8) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-c54585efd64d5b9490e0d45370123af0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2025/117/regulation/8) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
-[^key-a9d0eb3e4ecf32b12f697592596fe853]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2025/117/regulation/9) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-a9d0eb3e4ecf32b12f697592596fe853]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2025/117/regulation/9) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
-[^key-c32d7121ac79a775b8d7316ad08c2d69]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2025/117/schedule/1) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-c32d7121ac79a775b8d7316ad08c2d69]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2025/117/schedule/1) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
 
-[^key-a0064f494aa709975e8906bfcb01dfc9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2025/117/schedule/2) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)
+[^c-a0064f494aa709975e8906bfcb01dfc9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2025/117/schedule/2) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/117/regulation/1)

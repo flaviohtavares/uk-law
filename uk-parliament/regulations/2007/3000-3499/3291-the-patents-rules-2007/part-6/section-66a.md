@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Amendment of international application before grant[^key-89f8a6ec3967e49272c7a38886412271]
+## 66A. Amendment of international application before grant[^c-89f8a6ec3967e49272c7a38886412271]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89f8a6ec3967e49272c7a38886412271]: Textual amendment: [Rule 66A](https://www.legislation.gov.uk/uksi/2007/3291/rule/66A) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [12](https://www.legislation.gov.uk/uksi/2016/892/rule/12)
+[^c-89f8a6ec3967e49272c7a38886412271]: Textual amendment: [Rule 66A](https://www.legislation.gov.uk/uksi/2007/3291/rule/66A) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [12](https://www.legislation.gov.uk/uksi/2016/892/rule/12)

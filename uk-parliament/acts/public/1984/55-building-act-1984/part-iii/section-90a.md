@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90A. Functions under this Part: the regulator etc[^key-631da8e8d5c19c7f77b1cad22e479ce6]
+## 90A. Functions under this Part: the regulator etc[^c-631da8e8d5c19c7f77b1cad22e479ce6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-631da8e8d5c19c7f77b1cad22e479ce6]: Textual amendment: [S. 90A](https://www.legislation.gov.uk/ukpga/1984/55/section/90A) inserted (1.10.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 54](https://www.legislation.gov.uk/ukpga/2022/30/section/54), [170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/m)
+[^c-631da8e8d5c19c7f77b1cad22e479ce6]: Textual amendment: [S. 90A](https://www.legislation.gov.uk/ukpga/1984/55/section/90A) inserted (1.10.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 54](https://www.legislation.gov.uk/ukpga/2022/30/section/54), [170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/m)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Unauthorised acts causing, or creating risk of, serious damage[^key-b27a6923841fbf33039b03e6246ac595]
+## 41. Unauthorised acts causing, or creating risk of, serious damage[^c-b27a6923841fbf33039b03e6246ac595]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b27a6923841fbf33039b03e6246ac595]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2015/9/section/41) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)
+[^c-b27a6923841fbf33039b03e6246ac595]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2015/9/section/41) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/a)

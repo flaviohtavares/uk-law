@@ -34,102 +34,102 @@ of 11 September 2013
 
 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (revoked)
 
-[^key-66ee3e1cb02857b273307e449b994075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66ee3e1cb02857b273307e449b994075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Objectives and tasks[^key-66ee3e1cb02857b273307e449b994075]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-66ee3e1cb02857b273307e449b994075]
+## Article 1. Objectives and tasks[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. External investigations[^key-66ee3e1cb02857b273307e449b994075]
+## Article 2. Definitions[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Internal investigations[^key-66ee3e1cb02857b273307e449b994075]
+## Article 3. External investigations[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Opening of investigations[^key-66ee3e1cb02857b273307e449b994075]
+## Article 4. Internal investigations[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Access to information in databases prior to the opening of an investigation[^key-66ee3e1cb02857b273307e449b994075]
+## Article 5. Opening of investigations[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Investigations procedure[^key-66ee3e1cb02857b273307e449b994075]
+## Article 6. Access to information in databases prior to the opening of an investigation[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Duty to inform the Office[^key-66ee3e1cb02857b273307e449b994075]
+## Article 7. Investigations procedure[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Procedural guarantees[^key-66ee3e1cb02857b273307e449b994075]
+## Article 8. Duty to inform the Office[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Confidentiality and data protection[^key-66ee3e1cb02857b273307e449b994075]
+## Article 9. Procedural guarantees[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Investigation report and action to be taken following investigations[^key-66ee3e1cb02857b273307e449b994075]
+## Article 10. Confidentiality and data protection[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Exchange of information between the Office and the competent authorities of the Member States[^key-66ee3e1cb02857b273307e449b994075]
+## Article 11. Investigation report and action to be taken following investigations[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Cooperation of the Office with Eurojust and Europol[^key-66ee3e1cb02857b273307e449b994075]
+## Article 12. Exchange of information between the Office and the competent authorities of the Member States[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Cooperation with third countries and international organisations[^key-66ee3e1cb02857b273307e449b994075]
+## Article 13. Cooperation of the Office with Eurojust and Europol[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Supervisory Committee[^key-66ee3e1cb02857b273307e449b994075]
+## Article 14. Cooperation with third countries and international organisations[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Exchange of views with the institutions[^key-66ee3e1cb02857b273307e449b994075]
+## Article 15. Supervisory Committee[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Director-General[^key-66ee3e1cb02857b273307e449b994075]
+## Article 16. Exchange of views with the institutions[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Financing[^key-66ee3e1cb02857b273307e449b994075]
+## Article 17. Director-General[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Evaluation report[^key-66ee3e1cb02857b273307e449b994075]
+## Article 18. Financing[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 20. Repeal[^key-66ee3e1cb02857b273307e449b994075]
+## Article 19. Evaluation report[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 21. Entry into force and transitional provisions[^key-66ee3e1cb02857b273307e449b994075]
+## Article 20. Repeal[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-66ee3e1cb02857b273307e449b994075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — REPEALED REGULATIONS (REFERRED TO IN ARTICLE 20)[^key-66ee3e1cb02857b273307e449b994075]
+## Article 21. Entry into force and transitional provisions[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-66ee3e1cb02857b273307e449b994075]
+[^c-66ee3e1cb02857b273307e449b994075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — REPEALED REGULATIONS (REFERRED TO IN ARTICLE 20)[^c-66ee3e1cb02857b273307e449b994075]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-66ee3e1cb02857b273307e449b994075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-66ee3e1cb02857b273307e449b994075]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(e)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66ee3e1cb02857b273307e449b994075]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(e)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

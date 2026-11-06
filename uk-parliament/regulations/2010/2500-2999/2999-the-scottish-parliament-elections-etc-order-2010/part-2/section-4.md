@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Registration appeals[^key-d0d6165aad6757e33d6b328980399e37]
+## 4. Registration appeals[^c-d0d6165aad6757e33d6b328980399e37]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ as may be required to give effect to the decision.
 
 ## Annotations
 
-[^key-d0d6165aad6757e33d6b328980399e37]: Commencement: Art. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d0d6165aad6757e33d6b328980399e37]: Commencement: Art. 4 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00021]: Footnote: Sections 13, 13A and 13B were substituted by the 2000 Act, Schedule 1, paragraph 6. Section 13(5) was amended by the Political Parties and Elections Act [2009 (c.12)](https://www.legislation.gov.uk/ukpga/2009/12) (“the 2009 Act”), Schedule 6, paragraph 2. Section 13B(3B) was inserted by the 2006 Act, section 11(4). Section 13BB was inserted by the 2009 Act, section 23(1).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Amendments to the Extradition Act 2003 etc[^key-212cc3605e7a6a3d533bc3b9254ff654]
+## 42. Amendments to the Extradition Act 2003 etc[^c-212cc3605e7a6a3d533bc3b9254ff654]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 13 (which in Part 1 makes amendments to the Extradition Act 2003 (c. 41
 
 ## Annotations
 
-[^key-212cc3605e7a6a3d533bc3b9254ff654]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2006/48/section/42) in force at 15.1.2007 for specified purposes by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/d)
+[^c-212cc3605e7a6a3d533bc3b9254ff654]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2006/48/section/42) in force at 15.1.2007 for specified purposes by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/d)

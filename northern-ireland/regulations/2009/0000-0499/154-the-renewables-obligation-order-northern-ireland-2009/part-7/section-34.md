@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. General criteria for the issue of NIROCs[^key-b7505906256a67b0785738db2f813426]
+## 34. General criteria for the issue of NIROCs[^c-b7505906256a67b0785738db2f813426]
 
 *Extent: N.I.*
 
 (1) Once during each obligation period the person to whom a NIROC is to be issued must confirm to the Authority in writing, whether before or after the generation of the electricity to which the NIROC relates, that that electricity, to the best of the person’s knowledge and belief, has been or (as the case may be) will be—
 
-- (a) in the case of a NIROC certifying the matters within Article 54(3) or (4) of the Energy Order, supplied by a designated electricity supplier to customers in Northern Ireland or in the circumstances referred to in paragraph (9)[^key-1d35b4aec6d0bad897fa0ac063d7681b] ;
+- (a) in the case of a NIROC certifying the matters within Article 54(3) or (4) of the Energy Order, supplied by a designated electricity supplier to customers in Northern Ireland or in the circumstances referred to in paragraph (9)[^c-1d35b4aec6d0bad897fa0ac063d7681b] ;
 - (b) in the case of a NIROC certifying the matters within Article 54(5) or (6) of the Energy Order used in a permitted way.
 
 (2) The electricity in respect of which a NIROC is to be issued—
@@ -47,7 +47,7 @@ must be provided in the form and time requested and must be (in the Authority’
 - (a) the distance over which the fuel was transported; and
 - (b) the conditions under which the fuel was prepared and transported.
 
-(6)[^key-394506e382585eea4f8781202e1d23da] The operator of a generating station which generates electricity by burning fuel in a combustion unit may notify the Authority in writing that, until such time as the notification is withdrawn, the energy content of any biomass burned in that combustion unit will be less than 50% of the energy content of all of the energy sources burned in that combustion unit.
+(6)[^c-394506e382585eea4f8781202e1d23da] The operator of a generating station which generates electricity by burning fuel in a combustion unit may notify the Authority in writing that, until such time as the notification is withdrawn, the energy content of any biomass burned in that combustion unit will be less than 50% of the energy content of all of the energy sources burned in that combustion unit.
 
 (7) A notification under paragraph (9) constitutes sufficient evidence of the fact that the energy content of the biomass burned in the combustion unit referred to in the notification is less than 50% of the energy content of all the energy sources burned in that combustion unit.
 
@@ -56,13 +56,13 @@ must be provided in the form and time requested and must be (in the Authority’
 - (a) in writing from the operator of the generating station to the Authority, and
 - (b) which specifies a date from which the withdrawal of the notification is to take effect.
 
-(9)[^key-8b84c7f27872f6fa929726baefb9b60d] The circumstances referred to in Article 15 and paragraph (1)(a) are—
+(9)[^c-8b84c7f27872f6fa929726baefb9b60d] The circumstances referred to in Article 15 and paragraph (1)(a) are—
 
 - (a) the electricity in question is sold or intended to be sold by the operator or, as the case may be, by an intermediary acting on his behalf through the SEM Pool;
-- (b) there exists in relation to each unit of that electricity a relevant arrangement within the meaning of paragraph (10)[^key-fdb203c2fbfd0dc70a2e2c377da37a37] (and no more than one such arrangement);
+- (b) there exists in relation to each unit of that electricity a relevant arrangement within the meaning of paragraph (10)[^c-fdb203c2fbfd0dc70a2e2c377da37a37] (and no more than one such arrangement);
 - (c) the terms of that relevant arrangement shall be materially complied with by the parties thereto.
 
-(10) For the purposes of paragraph (9)[^key-b1fe95ce0c2cceecb863593f34294efe] , a relevant arrangement means an agreement between the operator of the generating station and an electricity supplier which provides that, in relation to the period to which the declaration relates, the electricity supplier—
+(10) For the purposes of paragraph (9)[^c-b1fe95ce0c2cceecb863593f34294efe] , a relevant arrangement means an agreement between the operator of the generating station and an electricity supplier which provides that, in relation to the period to which the declaration relates, the electricity supplier—
 
 - (a) shall purchase through the SEM Pool not less than an amount of electricity specified in or determined under the agreement being an amount that shall not exceed the amount of electricity sold through the SEM Pool by the operator or, as the case may be, the intermediary in that period;
 - (b) shall purchase through the SEM Pool a total amount of electricity which is not less than the aggregate of:
@@ -79,14 +79,14 @@ must be provided in the form and time requested and must be (in the Authority’
 
 ## Annotations
 
-[^key-b7505906256a67b0785738db2f813426]: Commencement: Art. 34 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-b7505906256a67b0785738db2f813426]: Commencement: Art. 34 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-1d35b4aec6d0bad897fa0ac063d7681b]: Textual amendment: Words in [art. 34(1)(a)](https://www.legislation.gov.uk/nisr/2009/154/article/34/1/a) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(2)](https://www.legislation.gov.uk/nisr/2013/116/article/25/2) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-1d35b4aec6d0bad897fa0ac063d7681b]: Textual amendment: Words in [art. 34(1)(a)](https://www.legislation.gov.uk/nisr/2009/154/article/34/1/a) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(2)](https://www.legislation.gov.uk/nisr/2013/116/article/25/2) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
 
-[^key-394506e382585eea4f8781202e1d23da]: Textual amendment: [Art. 34(6)-(8)](https://www.legislation.gov.uk/nisr/2009/154/article/34/6) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(3)](https://www.legislation.gov.uk/nisr/2013/116/article/25/3) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-394506e382585eea4f8781202e1d23da]: Textual amendment: [Art. 34(6)-(8)](https://www.legislation.gov.uk/nisr/2009/154/article/34/6) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(3)](https://www.legislation.gov.uk/nisr/2013/116/article/25/3) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
 
-[^key-8b84c7f27872f6fa929726baefb9b60d]: Textual amendment: Art. 34(6)(7)(8) renumbered as art. 34(9)(10)(11) (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(4)](https://www.legislation.gov.uk/nisr/2013/116/article/25/4) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-8b84c7f27872f6fa929726baefb9b60d]: Textual amendment: Art. 34(6)(7)(8) renumbered as art. 34(9)(10)(11) (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(4)](https://www.legislation.gov.uk/nisr/2013/116/article/25/4) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
 
-[^key-fdb203c2fbfd0dc70a2e2c377da37a37]: Textual amendment: Words in [art. 34(9)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/34/9/b) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(5)](https://www.legislation.gov.uk/nisr/2013/116/article/25/5) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-fdb203c2fbfd0dc70a2e2c377da37a37]: Textual amendment: Words in [art. 34(9)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/34/9/b) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(5)](https://www.legislation.gov.uk/nisr/2013/116/article/25/5) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
 
-[^key-b1fe95ce0c2cceecb863593f34294efe]: Textual amendment: Words in [art. 34(10)](https://www.legislation.gov.uk/nisr/2009/154/article/34/10) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(6)](https://www.legislation.gov.uk/nisr/2013/116/article/25/6) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-b1fe95ce0c2cceecb863593f34294efe]: Textual amendment: Words in [art. 34(10)](https://www.legislation.gov.uk/nisr/2009/154/article/34/10) substituted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [25(6)](https://www.legislation.gov.uk/nisr/2013/116/article/25/6) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

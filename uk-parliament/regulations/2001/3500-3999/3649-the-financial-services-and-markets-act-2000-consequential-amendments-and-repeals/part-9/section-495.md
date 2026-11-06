@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 495. Information to be supplied on request[^key-c1f1538dd23e8bf484f5e278dbcb4db7]
+## 495. Information to be supplied on request[^c-c1f1538dd23e8bf484f5e278dbcb4db7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In regulation 46 of the Credit Institutions (Protection of Depositors) Regulatio
 
 ## Annotations
 
-[^key-c1f1538dd23e8bf484f5e278dbcb4db7]: Commencement: Art. 495 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c1f1538dd23e8bf484f5e278dbcb4db7]: Commencement: Art. 495 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

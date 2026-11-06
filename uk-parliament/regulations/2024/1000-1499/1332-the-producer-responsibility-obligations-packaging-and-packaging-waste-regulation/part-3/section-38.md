@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Obligation to report data on plastic or paper bags supplied in England[^key-fcf00592af3e5e621f6881670c45ee9e]
+## 38. Obligation to report data on plastic or paper bags supplied in England[^c-fcf00592af3e5e621f6881670c45ee9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ must report to the Environment Agency every 12 months, in accordance with paragr
 
 ## Annotations
 
-[^key-fcf00592af3e5e621f6881670c45ee9e]: Commencement: Reg. 38 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-fcf00592af3e5e621f6881670c45ee9e]: Commencement: Reg. 38 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

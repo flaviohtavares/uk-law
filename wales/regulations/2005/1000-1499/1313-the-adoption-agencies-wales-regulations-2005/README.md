@@ -83,9 +83,9 @@ The National Assembly for Wales in exercise of the powers conferred by sections 
 - [Section 20 — Request to appoint a Welsh family proceedings officer or an officer of CAFCASS](part-3/section-20.md)
 - [Section 20A — Persons authorised to witness consent to placement for adoption](part-3/section-20a.md)
 
-### PART 4 — Duties of Adoption Agency in Respect of a Prospective Adopter[^key-7f90cd67511442ae5b44192f37dfdffe]
+### PART 4 — Duties of Adoption Agency in Respect of a Prospective Adopter[^c-7f90cd67511442ae5b44192f37dfdffe]
 
-#### Stage 1 – the pre-assessment process[^key-7f90cd67511442ae5b44192f37dfdffe]
+#### Stage 1 – the pre-assessment process[^c-7f90cd67511442ae5b44192f37dfdffe]
 
 - [Section 21 — Registration of interest in adoption](part-4/section-21.md)
 - [Section 22 — Prospective adopter stage one plan](part-4/section-22.md)
@@ -95,7 +95,7 @@ The National Assembly for Wales in exercise of the powers conferred by sections 
 - [Section 26 — Other pre-assessment information](part-4/section-26.md)
 - [Section 27 — Pre-assessment decision](part-4/section-27.md)
 
-#### Stage 2 – the assessment decision[^key-7f90cd67511442ae5b44192f37dfdffe]
+#### Stage 2 – the assessment decision[^c-7f90cd67511442ae5b44192f37dfdffe]
 
 - [Section 28 — Stage 2 assessment](part-4/section-28.md)
 - [Section 29 — Prospective adopter assessment plan](part-4/section-29.md)
@@ -191,6 +191,6 @@ Part 9 makes miscellaneous provisions.
 
 [^f00002]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 
-[^key-7f90cd67511442ae5b44192f37dfdffe]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2005/1313/part/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/163/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/wsi/2020/163/regulation/18))
+[^c-7f90cd67511442ae5b44192f37dfdffe]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2005/1313/part/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/163/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/wsi/2020/163/regulation/18))
 
 [^f00019]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

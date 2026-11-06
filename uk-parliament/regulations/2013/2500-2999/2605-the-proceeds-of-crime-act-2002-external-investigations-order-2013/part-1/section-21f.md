@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21F. Disclosure of information, copying of documents etc.[^key-edc9bff5ab79f1844fe87f371d901184]
+## 21F. Disclosure of information, copying of documents etc.[^c-edc9bff5ab79f1844fe87f371d901184]
 
 *Extent: E+W+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) But paragraphs (1) to (5) of article 20 (further provisions: rights in connection with privileged information, questions and material) apply in relation to requirements imposed by an unexplained wealth order as they apply in relation to requirements imposed under a disclosure order.
 
-(3) The enforcement authority may take copies of any documents produced by the respondent or any specified responsible officer[^key-fa257ae4d988344317b177552053499a] in connection with complying with the requirements imposed by an unexplained wealth order.
+(3) The enforcement authority may take copies of any documents produced by the respondent or any specified responsible officer[^c-fa257ae4d988344317b177552053499a] in connection with complying with the requirements imposed by an unexplained wealth order.
 
 (4) Documents so produced may also be retained for so long as it is necessary to retain them (as opposed to a copy of them) in connection with an external investigation in relation to the property in respect of which the unexplained wealth order is made.
 
@@ -39,6 +39,6 @@ they may be retained until the proceedings are concluded.
 
 ## Annotations
 
-[^key-edc9bff5ab79f1844fe87f371d901184]: Textual amendment: Arts. 21A-21G inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [7](https://www.legislation.gov.uk/uksi/2018/1078/article/7)
+[^c-edc9bff5ab79f1844fe87f371d901184]: Textual amendment: Arts. 21A-21G inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [7](https://www.legislation.gov.uk/uksi/2018/1078/article/7)
 
-[^key-fa257ae4d988344317b177552053499a]: Textual amendment: Words in [art. 21F(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/21F/3) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2024/1127/article/16/5)
+[^c-fa257ae4d988344317b177552053499a]: Textual amendment: Words in [art. 21F(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/21F/3) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2024/1127/article/16/5)

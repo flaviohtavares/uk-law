@@ -27,20 +27,20 @@ summary: ''
 
 (2) A person is a qualified independent person in relation to a ballot if—
 
-- (a) he satisfies such conditions as may be specified for the purposes of this section by order of the Secretary of State or is himself so specified; [^key-21fe77463706b544ad170aa407c6ed2c]...
-- (b) the trade union has no grounds for believing either that he will carry out any functions conferred on him in relation to the ballot otherwise than competently or that his independence in relation to the union, or in relation to the ballot, might reasonably be called into question ; and[^key-3e9cdf08127817457f0e5c5e0f8939f0]
+- (a) he satisfies such conditions as may be specified for the purposes of this section by order of the Secretary of State or is himself so specified; [^c-21fe77463706b544ad170aa407c6ed2c]...
+- (b) the trade union has no grounds for believing either that he will carry out any functions conferred on him in relation to the ballot otherwise than competently or that his independence in relation to the union, or in relation to the ballot, might reasonably be called into question ; and[^c-3e9cdf08127817457f0e5c5e0f8939f0]
 - (c) in the case of a ballot for which electronic voting or hybrid voting is a selected means of voting, the computer networks and systems which the person intends to use for conducting the ballot are covered by one or more qualifying Cyber Essentials Plus certificates awarded to the person.
 
 An order under paragraph (a) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2A)[^key-86cc8b7a9cee8d420212b4be4b68971c] For the purposes of subsection (2)—
+(2A)[^c-86cc8b7a9cee8d420212b4be4b68971c] For the purposes of subsection (2)—
 
 - (a) “**Cyber Essentials Plus certificate**” means a certificate awarded in accordance with Cyber Essentials Plus Test Specification v3.2, or a later version of that document, published by the Government Communications Headquarters;
 - (b) a Cyber Essentials Plus certificate awarded to a person is a “qualifying Cyber Essentials Plus certificate” if its expiry date is such that the certificate will remain valid for the duration of the ballot for which the person is appointed.
 
 (3) The scrutineer’s appointment shall require him—
 
-- (a)[^key-2e751e42c7e54bc248af0158b3a11b39] in relation to voting papers sent or to be sent in accordance with section 100CC (postal voting: voting paper and method of voting)—
+- (a)[^c-2e751e42c7e54bc248af0158b3a11b39] in relation to voting papers sent or to be sent in accordance with section 100CC (postal voting: voting paper and method of voting)—
   - (i) where someone other than the scrutineer is appointed under section 100D, to supervise the production and distribution of the voting papers;
   - (ii) otherwise, to supervise the production of the voting papers, undertake the distribution of the voting papers and be the person to whom the voting papers are returned;
 - (aza) in relation to voting papers sent or to be sent in accordance with paragraph 14(1) of Schedule A1A (hybrid voting), to supervise the production of the voting papers, undertake the distribution of the voting papers and be the person to whom the voting papers are returned;
@@ -55,7 +55,7 @@ An order under paragraph (a) shall be made by statutory instrument which shall b
 
   whenever it appears to him appropriate to do so and, in particular, when the conditions specified in subsection (4) are satisfied;
 - (c) to take such steps as appear to him to be appropriate for the purpose of enabling him to make his report (see section 100E);
-- (d) to make his report to the trade union as soon as reasonably practicable after the last voting day[^key-c7d146d05c04a664524ac84a89bd2ddc]; and
+- (d) to make his report to the trade union as soon as reasonably practicable after the last voting day[^c-c7d146d05c04a664524ac84a89bd2ddc]; and
 - (e) to retain custody of all voting papers returned for the purposes of the ballot and the copy of the register supplied to him in accordance with subsection (9)(a)—
   - (i) until the end of the period of one year beginning with the announcement by the union of the result of the ballot; and
   - (ii) if within that period a complaint is made under section 103 (complaint as regards passing of resolution), until the Certification Officer or Employment Appeal Tribunal authorises him to dispose of the papers or copy.
@@ -90,7 +90,7 @@ An order under paragraph (a) shall be made by statutory instrument which shall b
 
 (12) The trade union shall comply with all reasonable requests made by the scrutineer for the purposes of, or in connection with, the carrying out of his functions.
 
-(12A)[^key-bae6eb0f8e37c4d1476fd84404dccb6a] The trade union must, so far as reasonably practicable, send to the scrutineer at least one of the following in respect of each person who is eligible to vote by electronic voting—
+(12A)[^c-bae6eb0f8e37c4d1476fd84404dccb6a] The trade union must, so far as reasonably practicable, send to the scrutineer at least one of the following in respect of each person who is eligible to vote by electronic voting—
 
 - (a) an email address which meets the requirements in subsection (12B);
 - (b) a mobile telephone number which meets the requirements in subsection (12B).
@@ -103,7 +103,7 @@ An order under paragraph (a) shall be made by statutory instrument which shall b
 - (b) has not been provided to the scrutineer in respect of any other person for the purposes of the ballot, and
 - (c) has been provided by the person to the trade union for the purpose of communication between the person and the trade union.
 
-(13)[^key-399821cefbfa39bdc87935e08f402d22] In this section—
+(13)[^c-399821cefbfa39bdc87935e08f402d22] In this section—
 
 - “**last voting day**” means the later of the following days, so far as applicable—
   - (a) the last day for the return of voting papers;
@@ -119,16 +119,16 @@ An order under paragraph (a) shall be made by statutory instrument which shall b
 
 [^c14515581]: Textual amendment: [S. 100-100E](https://www.legislation.gov.uk/ukpga/1992/52/section/100) substituted (30.8.1993) for s. 100 by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.4](https://www.legislation.gov.uk/ukpga/1993/19/section/4); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-21fe77463706b544ad170aa407c6ed2c]: Textual amendment: Word in s. 100A(2) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(a)(i)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/a/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-21fe77463706b544ad170aa407c6ed2c]: Textual amendment: Word in s. 100A(2) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(a)(i)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/a/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-3e9cdf08127817457f0e5c5e0f8939f0]: Textual amendment: S. 100A(2)(c) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/a/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-3e9cdf08127817457f0e5c5e0f8939f0]: Textual amendment: S. 100A(2)(c) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/a/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-86cc8b7a9cee8d420212b4be4b68971c]: Textual amendment: S. 100A(2A) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-86cc8b7a9cee8d420212b4be4b68971c]: Textual amendment: S. 100A(2A) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-2e751e42c7e54bc248af0158b3a11b39]: Textual amendment: S. 100A(3)(a)-(azb) substituted for [s. 100A(3)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/100A/3/a) (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(c)(i)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/c/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-2e751e42c7e54bc248af0158b3a11b39]: Textual amendment: S. 100A(3)(a)-(azb) substituted for [s. 100A(3)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/100A/3/a) (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(c)(i)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/c/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-c7d146d05c04a664524ac84a89bd2ddc]: Textual amendment: Words in s. 100A(3)(d) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/c/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-c7d146d05c04a664524ac84a89bd2ddc]: Textual amendment: Words in s. 100A(3)(d) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/c/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-bae6eb0f8e37c4d1476fd84404dccb6a]: Textual amendment: S. 100A(12A)(12B) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(d)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/d) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-bae6eb0f8e37c4d1476fd84404dccb6a]: Textual amendment: S. 100A(12A)(12B) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(d)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/d) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-399821cefbfa39bdc87935e08f402d22]: Textual amendment: S. 100A(13) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(e)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/e) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-399821cefbfa39bdc87935e08f402d22]: Textual amendment: S. 100A(13) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(6)(e)](https://www.legislation.gov.uk/uksi/2026/881/article/5/6/e) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

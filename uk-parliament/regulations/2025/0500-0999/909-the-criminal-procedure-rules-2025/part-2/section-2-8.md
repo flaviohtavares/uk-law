@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.8. Exercise of functions of a magistrates’ court[^key-cc925181fbdc4102268b2b29421e958c]
+## 2.8. Exercise of functions of a magistrates’ court[^c-cc925181fbdc4102268b2b29421e958c]
 
 *Extent: E+W*
 
@@ -57,11 +57,11 @@ summary: ''
 - (w) make or withdraw an application for deductions to be made from a defendant’s benefit payments; and
 - (x) take any step listed in paragraph 38 of Schedule 5 to the Courts Act 2003[^f00067] (range of further steps available against defaulters).
 
-(3) In addition to the functions listed in paragraph (2), subject to rule 2.4 and to paragraph (12) of this rule an authorised court officer who is legally qualified may exercise a function of a magistrates’ court listed in any of[^key-8729ab424f9b8405a0e85c451a56cdad] paragraphs (4) to (11).
+(3) In addition to the functions listed in paragraph (2), subject to rule 2.4 and to paragraph (12) of this rule an authorised court officer who is legally qualified may exercise a function of a magistrates’ court listed in any of[^c-8729ab424f9b8405a0e85c451a56cdad] paragraphs (4) to (11).
 
-(4) Associated primarily[^key-04b0677468284cda5e786c62480164bf] with the rules about general matters (Parts 1 to 6)—
+(4) Associated primarily[^c-04b0677468284cda5e786c62480164bf] with the rules about general matters (Parts 1 to 6)—
 
-- (a) exercising the powers to which section 50 of the Crime and Disorder Act 1998[^f00068] (Early administrative hearings) refers [^key-e685f04535ddc23b84971283a32cdda7]...;
+- (a) exercising the powers to which section 50 of the Crime and Disorder Act 1998[^f00068] (Early administrative hearings) refers [^c-e685f04535ddc23b84971283a32cdda7]...;
 - (b) giving, varying or revoking a live link direction under sections 51 and 52 of the Criminal Justice Act 2003[^f00069] for the participation of a defendant in custody in a preliminary hearing, a sentencing hearing or an enforcement hearing;
 - (c) determining an application to extend a time limit set by a rule or by the court;
 - (d) giving, varying or revoking an order for separate or joint trials in respect of two or more defendants or two or more offences, if all parties agree;
@@ -69,14 +69,14 @@ summary: ''
   - (i) the timetable for the case,
   - (ii) the attendance of the parties,
   - (iii) the service of documents (including summaries of any legal arguments relied on by the parties),
-  - (iv) the manner in which evidence is to be given, insofar as this rule makes no other provision and except the making, varying or revocation of a witness anonymity order; and[^key-9abccc4a1f0a7fd892a82d5bb0f82cd0]
-  - (v)[^key-d1571d25843549dffc9cbc02d529ac49] giving a ruling to which section 8A of the Magistrates’ Courts Act 1980 (power to make rulings at pre-trial hearing) refers where there is no objection to the ruling;
+  - (iv) the manner in which evidence is to be given, insofar as this rule makes no other provision and except the making, varying or revocation of a witness anonymity order; and[^c-9abccc4a1f0a7fd892a82d5bb0f82cd0]
+  - (v)[^c-d1571d25843549dffc9cbc02d529ac49] giving a ruling to which section 8A of the Magistrates’ Courts Act 1980 (power to make rulings at pre-trial hearing) refers where there is no objection to the ruling;
 - (f) directing the correction of a court record under rule 5.4(4) (correction of inaccuracy in court record);
 - (g) where rule 5.10 applies (Request or application determined by the court)—
   - (i) directing service of a request under rule 5.10(2)(a)(ii) (service on a person not specified by the rule),
   - (ii) extending the period for objection under rule 5.10(3), and
   - (iii) determining a request referred to the court under rule 5.9(7) (Request for information by a party or person directly affected by a case) where no notice of objection is given within the time for which rule 5.10(3) provides;
-- (h)[^key-bc2b623299f6c5edbba8aa4a25265873] where there is no objection to the order, imposing a reporting restriction under—
+- (h)[^c-bc2b623299f6c5edbba8aa4a25265873] where there is no objection to the order, imposing a reporting restriction under—
   - (i) section 45 of the Youth Justice and Criminal Evidence Act 1999 (identity of a person under 18), or
   - (ii) section 8C of the Magistrates’ Courts Act 1980 (rulings and decisions under sections 8A and 8B of that Act);
 - (i) giving permission for proceedings to be recorded; and
@@ -110,9 +110,9 @@ summary: ''
 (8) Associated primarily with the rules about trial (Parts 24 to 27)—
 
 - (a) convicting a defendant who has pleaded guilty;
-- (b) requesting a pre-sentence report where a defendant pleads guilty; [^key-e7d12bb02eef76f07c7229a1827ec15e]...
-- (c) directing the commissioning of a medical report ; and[^key-4b32df52790006d4e572e176b391f3aa]
-- (d)[^key-c1d2416a02e4fd5329cf06369ac27b0f] ordering interim disqualification from driving under section 26 of the Road Traffic Offenders Act 1988, unless—
+- (b) requesting a pre-sentence report where a defendant pleads guilty; [^c-e7d12bb02eef76f07c7229a1827ec15e]...
+- (c) directing the commissioning of a medical report ; and[^c-4b32df52790006d4e572e176b391f3aa]
+- (d)[^c-c1d2416a02e4fd5329cf06369ac27b0f] ordering interim disqualification from driving under section 26 of the Road Traffic Offenders Act 1988, unless—
   - (i) the defendant has served on the court officer representations to which rule 29.1 refers (Representations about obligatory disqualification or endorsement), or
   - (ii) the defendant states an intention to make such representations at the sentencing hearing.
 
@@ -141,7 +141,7 @@ summary: ''
 
 *Under section 148 of the Magistrates’ Courts Act 1980*[^f00075]*, the expression ‘magistrates’ court’ means any justice or justices of the peace acting under any enactment or by virtue of their commission or under the common law. For a court’s power to try an allegation of an offence, see the note to rule 24.1 (Trial and sentence in a magistrates’ court; When this Part applies).*
 
-*Under section 50 of the Crime and Disorder Act 1998[^key-9ef0c64790b33e12b4d7f01761c50fbe]**, where a defendant has been charged with an offence at a police station, the magistrates’ court before which that defendant appears or is brought for the first time in relation to the charge may consist of a single justice; if the defendant is represented, or has been given an opportunity to apply for representation, then at such a hearing that justice may exercise such of the powers of a single justice as they think fit; and where on such an occasion the powers of a single justice are exercised by an authorised court officer that court officer may not remand the defendant in custody or, without the consent of the prosecutor and the defendant, remand the defendant on bail on conditions other than those (if any) previously imposed. The functions of a single justice include allocation and sending for trial: see section 17E of the Magistrates’ Courts Act 1980**and sections 51(13) and 51A(11) of the Crime and Disorder Act 1998.*
+*Under section 50 of the Crime and Disorder Act 1998[^c-9ef0c64790b33e12b4d7f01761c50fbe]**, where a defendant has been charged with an offence at a police station, the magistrates’ court before which that defendant appears or is brought for the first time in relation to the charge may consist of a single justice; if the defendant is represented, or has been given an opportunity to apply for representation, then at such a hearing that justice may exercise such of the powers of a single justice as they think fit; and where on such an occasion the powers of a single justice are exercised by an authorised court officer that court officer may not remand the defendant in custody or, without the consent of the prosecutor and the defendant, remand the defendant on bail on conditions other than those (if any) previously imposed. The functions of a single justice include allocation and sending for trial: see section 17E of the Magistrates’ Courts Act 1980**and sections 51(13) and 51A(11) of the Crime and Disorder Act 1998.*
 
 *Under section 8A of the Magistrates’ Courts Act 1980*, *at a pre-trial hearing a magistrates’ court may make a ruling as to any question as to the admissibility of evidence and any other question of law relating to the case. Under section 8B(3) of the 1980 Act**, a magistrates’ court may discharge or vary (or further vary) a pre-trial ruling within the meaning of section 8A of that Act if the court has given the parties an opportunity to be heard and if, among other things, there has been a material change of circumstances since the ruling was made or, if a previous application has been made, since the application (or last application) was made. Under section 8C of that Act, the court may impose restrictions on the reporting of such decisions.*
 
@@ -149,7 +149,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cc925181fbdc4102268b2b29421e958c]: Commencement: [Rule 2.8](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-cc925181fbdc4102268b2b29421e958c]: Commencement: [Rule 2.8](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00063]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 16B was inserted by section 48 of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 
@@ -161,21 +161,21 @@ summary: ''
 
 [^f00067]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); paragraph 38 of Schedule 5 was amended by articles 2, 4 and 26 of [S.I. 2006/1737](https://www.legislation.gov.uk/uksi/2006/1737), section 62 of, and paragraphs 148 and 149 of Schedule 13 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), section 80 of the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) and section 88 of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-8729ab424f9b8405a0e85c451a56cdad]: Textual amendment: Words in [rule 2.8(3)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/3) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/i)
+[^c-8729ab424f9b8405a0e85c451a56cdad]: Textual amendment: Words in [rule 2.8(3)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/3) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/i)
 
-[^key-04b0677468284cda5e786c62480164bf]: Textual amendment: Words in [rule 2.8](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/ii)
+[^c-04b0677468284cda5e786c62480164bf]: Textual amendment: Words in [rule 2.8](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/ii)
 
 [^f00068]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); section 50 was amended by section 106 of, and Schedule 15 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), sections 41 and 332 of, and paragraphs 15 and 16 of Schedule 3 and Part 4 of Schedule 37 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), regulation 8 of [S.I. 2006/2493](https://www.legislation.gov.uk/uksi/2006/2493) and section 39 of, and paragraphs 46 and 47 of Schedule 5 to, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10). It is further amended by section 3 of, and paragraphs 20 and 22 of the Schedule to, the Courts and Tribunals (Judiciary and Functions of Staff) Act [2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33).
 
-[^key-e685f04535ddc23b84971283a32cdda7]: Textual amendment: Words in [rule 2.8(4)(a)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/4/a) omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iii/aa)
+[^c-e685f04535ddc23b84971283a32cdda7]: Textual amendment: Words in [rule 2.8(4)(a)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/4/a) omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iii/aa)
 
 [^f00069]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 51 was substituted by section 200 of, and section 52 was substituted by paragraph 1 of Schedule 20 to, the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32).
 
-[^key-9abccc4a1f0a7fd892a82d5bb0f82cd0]: Textual amendment: Word in [rule 2.8(4)(e)(iv)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/4/e/iv) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iii/bb)
+[^c-9abccc4a1f0a7fd892a82d5bb0f82cd0]: Textual amendment: Word in [rule 2.8(4)(e)(iv)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/4/e/iv) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iii/bb)
 
-[^key-d1571d25843549dffc9cbc02d529ac49]: Textual amendment: [Rule 2.8(4)(e)(v)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/4/e/v) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iii/cc)
+[^c-d1571d25843549dffc9cbc02d529ac49]: Textual amendment: [Rule 2.8(4)(e)(v)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/4/e/v) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iii/cc)
 
-[^key-bc2b623299f6c5edbba8aa4a25265873]: Textual amendment: [Rule 2.8(4)(h)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/4/h) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iii)(dd)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iii/dd)
+[^c-bc2b623299f6c5edbba8aa4a25265873]: Textual amendment: [Rule 2.8(4)(h)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/4/h) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iii)(dd)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iii/dd)
 
 [^f00071]: Footnote: [1881 c. 24](https://www.legislation.gov.uk/ukpga/1881/24).
 
@@ -183,14 +183,14 @@ summary: ''
 
 [^f00073]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); sections 51B and 51C were inserted by paragraphs 15 and 18 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 51B was amended by section 50 of, and paragraph 69 of Schedule 4 to, the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), paragraphs 46 and 48 of Schedule 5 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) and article 3 of, and paragraphs 14 and 15 of Schedule 2 to, [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834). Section 51C was modified by section 63 of, and paragraph 36 of Schedule 6 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) and amended by regulations 8 and 9 of [S.I. 2016/244](https://www.legislation.gov.uk/uksi/2016/244).
 
-[^key-e7d12bb02eef76f07c7229a1827ec15e]: Textual amendment: Word in [rule 2.8(8)(b)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/8/b) omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iv/aa)
+[^c-e7d12bb02eef76f07c7229a1827ec15e]: Textual amendment: Word in [rule 2.8(8)(b)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/8/b) omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iv)(aa)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iv/aa)
 
-[^key-4b32df52790006d4e572e176b391f3aa]: Textual amendment: Word in [rule 2.8(8)(c)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/8/c) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iv)(bb)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iv/bb)
+[^c-4b32df52790006d4e572e176b391f3aa]: Textual amendment: Word in [rule 2.8(8)(c)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/8/c) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iv)(bb)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iv/bb)
 
-[^key-c1d2416a02e4fd5329cf06369ac27b0f]: Textual amendment: [Rule 2.8(8)(d)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/8/d) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iv)(cc)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iv/cc)
+[^c-c1d2416a02e4fd5329cf06369ac27b0f]: Textual amendment: [Rule 2.8(8)(d)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8/8/d) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(iv)(cc)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/iv/cc)
 
 [^f00074]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 114 was amended by section 90 of, and paragraphs 95 and 113 of Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22) and section 109 of, and paragraph 235 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39). It is further amended by section 3 of, and paragraphs 5 and 7 of the Schedule to, the Courts and Tribunals (Judiciary and Functions of Staff) Act [2018 (c 33)](https://www.legislation.gov.uk/ukpga/2018/33).
 
 [^f00075]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 148 was amended by section 109 of, and paragraph 248 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 
-[^key-9ef0c64790b33e12b4d7f01761c50fbe]: Textual amendment: Words in [rule 2.8](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8) Note substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(v)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/v)
+[^c-9ef0c64790b33e12b4d7f01761c50fbe]: Textual amendment: Words in [rule 2.8](https://www.legislation.gov.uk/uksi/2025/909/rule/2.8) Note substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(b)(v)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/b/v)

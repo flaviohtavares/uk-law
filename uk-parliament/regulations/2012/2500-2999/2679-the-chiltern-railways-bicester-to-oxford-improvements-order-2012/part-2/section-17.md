@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Accommodation crossings[^key-ced287dd2e6d20c44940afcf421f2a0c]
+## 17. Accommodation crossings[^c-ced287dd2e6d20c44940afcf421f2a0c]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ced287dd2e6d20c44940afcf421f2a0c]: Commencement: Art. 17 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-ced287dd2e6d20c44940afcf421f2a0c]: Commencement: Art. 17 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
 [^f00016]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20).
 

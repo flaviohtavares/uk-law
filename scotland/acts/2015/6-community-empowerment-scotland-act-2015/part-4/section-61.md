@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Duty to provide information about community right to buy[^key-cd8b9e32e449024ed3dcb310c6a9bc39]
+## 61. Duty to provide information about community right to buy[^c-cd8b9e32e449024ed3dcb310c6a9bc39]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ After section 67A of the 2003 Act (inserted by section 60), insert—
 
 ## Annotations
 
-[^key-cd8b9e32e449024ed3dcb310c6a9bc39]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2015/6/section/61) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-cd8b9e32e449024ed3dcb310c6a9bc39]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2015/6/section/61) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

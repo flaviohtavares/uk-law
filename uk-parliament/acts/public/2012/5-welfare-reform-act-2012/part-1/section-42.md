@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Regulations: general[^key-104a6562bf7b9d7cc8e90c5d76d16ce6]
+## 42. Regulations: general[^c-104a6562bf7b9d7cc8e90c5d76d16ce6]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-104a6562bf7b9d7cc8e90c5d76d16ce6]: Commencement: S. 42 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/20)
+[^c-104a6562bf7b9d7cc8e90c5d76d16ce6]: Commencement: S. 42 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/20)

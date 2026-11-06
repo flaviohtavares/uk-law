@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 174. Benefits not assignable[^key-b41ff55dd1e178995f96ca0302b720ca]
+## 174. Benefits not assignable[^c-b41ff55dd1e178995f96ca0302b720ca]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b41ff55dd1e178995f96ca0302b720ca]: Commencement: [Reg. 174](https://www.legislation.gov.uk/ssi/2014/292/regulation/174) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-b41ff55dd1e178995f96ca0302b720ca]: Commencement: [Reg. 174](https://www.legislation.gov.uk/ssi/2014/292/regulation/174) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00030]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66).
 

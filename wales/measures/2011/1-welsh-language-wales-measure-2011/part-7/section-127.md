@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Staff, accommodation and other resources of Tribunal[^key-2a0cfbb4f9a3d52b84e4baea0aacb5f8]
+## 127. Staff, accommodation and other resources of Tribunal[^c-2a0cfbb4f9a3d52b84e4baea0aacb5f8]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ that are appropriate for the Tribunal to exercise its functions.
 
 ## Annotations
 
-[^key-2a0cfbb4f9a3d52b84e4baea0aacb5f8]: Commencement: [S. 127](https://www.legislation.gov.uk/mwa/2011/1/section/127) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(g)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/g)
+[^c-2a0cfbb4f9a3d52b84e4baea0aacb5f8]: Commencement: [S. 127](https://www.legislation.gov.uk/mwa/2011/1/section/127) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(g)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/g)

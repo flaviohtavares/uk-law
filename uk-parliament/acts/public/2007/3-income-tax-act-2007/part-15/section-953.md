@@ -38,8 +38,8 @@ summary: ''
 
 (6) Income tax suffered which is taken into account in a set-off claim may not also be taken into account for the purposes of—
 
-- (a) section 967 of CTA 2010[^key-9cec450906d6cbbae339707ea1eeabfd] (income tax deducted from payments to UK resident company to be set off against corporation tax), or
-- (b) section 968[^key-d356aeaec2d1cca0c3c2525a018971a7] of that Act (income tax deducted from payments to non-UK resident company to be set off against corporation tax).
+- (a) section 967 of CTA 2010[^c-9cec450906d6cbbae339707ea1eeabfd] (income tax deducted from payments to UK resident company to be set off against corporation tax), or
+- (b) section 968[^c-d356aeaec2d1cca0c3c2525a018971a7] of that Act (income tax deducted from payments to non-UK resident company to be set off against corporation tax).
 
 (7) Income tax suffered by a deposit-taker is to be taken into account in a set-off claim only if the payment on which the income tax is suffered is to be taken into account in calculating the deposit-taker's liability to corporation tax.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9cec450906d6cbbae339707ea1eeabfd]: Textual amendment: Words in s. 953(6)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 558(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/558/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9cec450906d6cbbae339707ea1eeabfd]: Textual amendment: Words in s. 953(6)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 558(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/558/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d356aeaec2d1cca0c3c2525a018971a7]: Textual amendment: Words in s. 953(6)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 558(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/558/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d356aeaec2d1cca0c3c2525a018971a7]: Textual amendment: Words in s. 953(6)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 558(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/558/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

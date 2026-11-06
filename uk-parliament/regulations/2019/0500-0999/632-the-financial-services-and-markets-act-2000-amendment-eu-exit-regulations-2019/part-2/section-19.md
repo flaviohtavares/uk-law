@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Section 55PA (imposition and variation of requirements)[^key-9bc4a34378aea10ccc4976462725bcda]
+## 19. Section 55PA (imposition and variation of requirements)[^c-9bc4a34378aea10ccc4976462725bcda]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit section 55PA [^c23657451] (assets requirements imposed on insurance underta
 
 ## Annotations
 
-[^key-9bc4a34378aea10ccc4976462725bcda]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9bc4a34378aea10ccc4976462725bcda]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657451]: Marginal citation: Section 55PA was inserted by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).

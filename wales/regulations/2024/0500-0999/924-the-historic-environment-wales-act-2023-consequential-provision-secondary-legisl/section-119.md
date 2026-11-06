@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**119.**[^key-220a9acdb9f4e00301a3e2e30654142f] In regulation 7(2)(c), for “section 1AA of the 1979 Act” substitute “section 5 of the 2023 Act”.
+**119.**[^c-220a9acdb9f4e00301a3e2e30654142f] In regulation 7(2)(c), for “section 1AA of the 1979 Act” substitute “section 5 of the 2023 Act”.
 
 ## Annotations
 
-[^key-220a9acdb9f4e00301a3e2e30654142f]: Commencement: [Reg. 119](https://www.legislation.gov.uk/wsi/2024/924/regulation/119) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-220a9acdb9f4e00301a3e2e30654142f]: Commencement: [Reg. 119](https://www.legislation.gov.uk/wsi/2024/924/regulation/119) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

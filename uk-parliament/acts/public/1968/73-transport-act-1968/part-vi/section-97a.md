@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Provisions supplementary to section 97.[^key-bdaaf7071ec0cdcc6457181d28450a02]
+## 97A. Provisions supplementary to section 97.[^c-bdaaf7071ec0cdcc6457181d28450a02]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdaaf7071ec0cdcc6457181d28450a02]: Textual amendment: S. 97A omitted (5.2.2008) by virtue of [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2008/198/regulation/4/c)
+[^c-bdaaf7071ec0cdcc6457181d28450a02]: Textual amendment: S. 97A omitted (5.2.2008) by virtue of [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2008/198/regulation/4/c)

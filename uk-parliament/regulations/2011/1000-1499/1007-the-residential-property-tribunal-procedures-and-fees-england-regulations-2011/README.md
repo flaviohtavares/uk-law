@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England
 
-The Residential Property Tribunal Procedures and Fees (England) Regulations 2011 (revoked)[^key-3a2171332623b72aa2ab103b0e25c7d4]
+The Residential Property Tribunal Procedures and Fees (England) Regulations 2011 (revoked)[^c-3a2171332623b72aa2ab103b0e25c7d4]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 30th April 2011
 
-[^key-3a2171332623b72aa2ab103b0e25c7d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a2171332623b72aa2ab103b0e25c7d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-3a2171332623b72aa2ab103b0e25c7d4]
+### PART 1 — GENERAL[^c-3a2171332623b72aa2ab103b0e25c7d4]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 1 — Citation, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — RESIDENTIAL PROPERTY TRIBUNAL PROCEDURES[^key-3a2171332623b72aa2ab103b0e25c7d4]
+### PART 2 — RESIDENTIAL PROPERTY TRIBUNAL PROCEDURES[^c-3a2171332623b72aa2ab103b0e25c7d4]
 
 *Extent: E+W*
 
@@ -108,7 +108,7 @@ Coming into force
 - [Section 43 — Irregularities](part-2/section-43.md)
 - [Section 44 — Signature of documents](part-2/section-44.md)
 
-### PART 3 — RESIDENTIAL PROPERTY TRIBUNAL FEES[^key-3a2171332623b72aa2ab103b0e25c7d4]
+### PART 3 — RESIDENTIAL PROPERTY TRIBUNAL FEES[^c-3a2171332623b72aa2ab103b0e25c7d4]
 
 *Extent: E+W*
 
@@ -128,14 +128,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-3a2171332623b72aa2ab103b0e25c7d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a2171332623b72aa2ab103b0e25c7d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-3a2171332623b72aa2ab103b0e25c7d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a2171332623b72aa2ab103b0e25c7d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a2171332623b72aa2ab103b0e25c7d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/1007) revoked (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/49) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-3a2171332623b72aa2ab103b0e25c7d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/1007) revoked (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/49) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

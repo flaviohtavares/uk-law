@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Power for Commissioner to bring or intervene in proceedings[^key-dac746aea77f26e1eb648b8875296307]
+## 11. Power for Commissioner to bring or intervene in proceedings[^c-dac746aea77f26e1eb648b8875296307]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dac746aea77f26e1eb648b8875296307]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/1/section/11) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-dac746aea77f26e1eb648b8875296307]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/1/section/11) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

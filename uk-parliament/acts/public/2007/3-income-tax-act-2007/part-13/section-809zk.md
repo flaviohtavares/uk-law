@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809ZK. Circumstances in which financial advantage deemed to be obtained[^key-46256bd9afb83cd6ec808a391b362d20]
+## 809ZK. Circumstances in which financial advantage deemed to be obtained[^c-46256bd9afb83cd6ec808a391b362d20]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46256bd9afb83cd6ec808a391b362d20]: Textual amendment: S. 809ZK omitted (with effect in accordance with s. 56(8) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/5)
+[^c-46256bd9afb83cd6ec808a391b362d20]: Textual amendment: S. 809ZK omitted (with effect in accordance with s. 56(8) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/5)

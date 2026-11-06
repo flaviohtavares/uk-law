@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Spoilt ballot papers[^key-3aad8ca7627b32221bfbef89a98aa34b]
+## 41. Spoilt ballot papers[^c-3aad8ca7627b32221bfbef89a98aa34b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3aad8ca7627b32221bfbef89a98aa34b]: Commencement: Reg. 41 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-3aad8ca7627b32221bfbef89a98aa34b]: Commencement: Reg. 41 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

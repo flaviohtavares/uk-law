@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34C. Article 34 contribution notice: meaning of “employer insolvency test”[^key-43f3807ed7feeada3cfd2852ae5ff517]
+## 34C. Article 34 contribution notice: meaning of “employer insolvency test”[^c-43f3807ed7feeada3cfd2852ae5ff517]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ and, in the case of acts or failures to act forming part of a series, any refere
 
 ## Annotations
 
-[^key-43f3807ed7feeada3cfd2852ae5ff517]: Textual amendment: [Arts. 34C](https://www.legislation.gov.uk/nisi/2005/255/article/34C), [34D](https://www.legislation.gov.uk/nisi/2005/255/article/34D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/2/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(a)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/a) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/2))
+[^c-43f3807ed7feeada3cfd2852ae5ff517]: Textual amendment: [Arts. 34C](https://www.legislation.gov.uk/nisi/2005/255/article/34C), [34D](https://www.legislation.gov.uk/nisi/2005/255/article/34D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 2(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/2/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(a)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/a) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/2))

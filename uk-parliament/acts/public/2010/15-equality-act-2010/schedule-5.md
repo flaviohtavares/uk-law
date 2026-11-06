@@ -89,7 +89,7 @@ Section 38
 - (f) brother or sister (whether of full blood or half-blood), or
 - (g) a relative within paragraph (c), (d), (e) or (f) whose relationship arises as a result of marriage or civil partnership.
 
-(6) In sub-paragraph (5), a reference to an unmarried partner is a reference to the other member of a couple consisting of two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners.[^key-48fbe6a8b14d71b65634dc59f6a8c94a]
+(6) In sub-paragraph (5), a reference to an unmarried partner is a reference to the other member of a couple consisting of two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners.[^c-48fbe6a8b14d71b65634dc59f6a8c94a]
 
 **4.** (1) Section 36(1) does not apply if—
 
@@ -108,4 +108,4 @@ Section 38
 
 ## Annotations
 
-[^key-48fbe6a8b14d71b65634dc59f6a8c94a]: Textual amendment: Words in [Sch. 5 para. 3(6)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/5/paragraph/3/6) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 32(4)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/32/4)
+[^c-48fbe6a8b14d71b65634dc59f6a8c94a]: Textual amendment: Words in [Sch. 5 para. 3(6)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/5/paragraph/3/6) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 32(4)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/32/4)

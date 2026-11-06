@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Amendment of the Statutory Auditors and Third Country Auditors Regulations 2013[^key-2def1bf5e7d4af44b0f2d9eb5fd723bd]
+## 58. Amendment of the Statutory Auditors and Third Country Auditors Regulations 2013[^c-2def1bf5e7d4af44b0f2d9eb5fd723bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Statutory Auditors and Third Country Auditors Regulations 2013 [^c23587031] 
 
 ## Annotations
 
-[^key-2def1bf5e7d4af44b0f2d9eb5fd723bd]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-2def1bf5e7d4af44b0f2d9eb5fd723bd]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23587031]: Marginal citation: [S.I. 2013/1672](https://www.legislation.gov.uk/uksi/2013/1672).

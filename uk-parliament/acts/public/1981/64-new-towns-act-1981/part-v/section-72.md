@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any property—
 
-- (a) vested in any person by virtue of an order under section 40 or section 41 above transferring that property from a development corporation [^key-f33c97864161c014206701d521daf450]..., or[^c253266]
+- (a) vested in any person by virtue of an order under section 40 or section 41 above transferring that property from a development corporation [^c-f33c97864161c014206701d521daf450]..., or[^c253266]
 - (b) of a new town corporation vested in a district council by a transfer scheme under Part III of this Act,
 
 shall not be treated as so vested by way of sale for the purpose of section 12 of the [^c253267]Finance Act 1895 (stamp duty on certain statutory transfers by way of sale).
@@ -31,7 +31,7 @@ shall not be treated as so vested by way of sale for the purpose of section 12 o
 
 ## Annotations
 
-[^key-f33c97864161c014206701d521daf450]: Textual amendment: Words in s. 72(1)(a) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/25), [16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2)[5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-f33c97864161c014206701d521daf450]: Textual amendment: Words in s. 72(1)(a) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/25), [16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2)[5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c253266]: Textual amendment: S. 72(1)(*b*) and the word “or” immediately preceding it repealed (*prosp.*) by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [ss. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [195(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/195/2), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II)
 

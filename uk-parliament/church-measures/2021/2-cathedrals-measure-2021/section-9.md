@@ -28,7 +28,7 @@ summary: ''
 
 (3) The bishop must attend the special meeting of the Chapter held under section 11(2).
 
-(4) It is for the bishop, with the approval of the dean, to appoint each residentiary canon who is not appointed by the Crown ; and that, accordingly, includes a lay residentiary canon.[^key-ba8a6f2d7c2c627b151d7e56d354453b]
+(4) It is for the bishop, with the approval of the dean, to appoint each residentiary canon who is not appointed by the Crown ; and that, accordingly, includes a lay residentiary canon.[^c-ba8a6f2d7c2c627b151d7e56d354453b]
 
 (5) The bishop may seek the advice of the Chapter on any matter.
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba8a6f2d7c2c627b151d7e56d354453b]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/9/4) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/17)
+[^c-ba8a6f2d7c2c627b151d7e56d354453b]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/9/4) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/17)

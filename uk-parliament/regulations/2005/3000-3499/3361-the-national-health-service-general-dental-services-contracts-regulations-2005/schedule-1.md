@@ -37,7 +37,7 @@ Regulation 15
 
 #### 2. Referral services
 
-(1) A contractor which provides one or more of the additional services specified in paragraph 1 as a referral service shall, at the time of the first examination of the patient, ensure that the patient is provided with a referral treatment plan on a form supplied for that purpose by NHS England[^key-b28b1bbfa1e4e2e4b3d10e1a627c8660] which shall specify—
+(1) A contractor which provides one or more of the additional services specified in paragraph 1 as a referral service shall, at the time of the first examination of the patient, ensure that the patient is provided with a referral treatment plan on a form supplied for that purpose by NHS England[^c-b28b1bbfa1e4e2e4b3d10e1a627c8660] which shall specify—
 
 - (a) the name of the patient;
 - (b) the name of the contractor;
@@ -168,7 +168,7 @@ it shall be entitled to exercise its powers under paragraph 73 of Schedule 3 on 
 
 ## Annotations
 
-[^key-b28b1bbfa1e4e2e4b3d10e1a627c8660]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-b28b1bbfa1e4e2e4b3d10e1a627c8660]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c12418081]: Marginal citation: The Standing Dental Advisory Committee is a statutory body established under section 6 of the Act. A copy of the Report can be obtained at www.dh.gov.uk/PublicationsAndStatistics/Publications/PublicationsPolicyAndGuidance/PublicationsPolicyAndGuidanceArticle.
 

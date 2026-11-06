@@ -43,15 +43,15 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 189(2) of the Tax Collection and Management (Wales) Act 2016, a draft of these Regulations was laid before, and approved by resolution of, Senedd Cymru[^f00003].
 
-## 1. Title and commencement[^key-5ca5c1105b77f08ee640fecef2ad5f38]
+## 1. Title and commencement[^c-5ca5c1105b77f08ee640fecef2ad5f38]
 
 The title of these Regulations is the Landfill Disposals Tax (Tax Rates) (Amendment) and Tax Collection and Management (Wales) Act 2016 (Miscellaneous Amendments) (Wales) Regulations 2024 and they come into force on 1 April 2024.
 
-## 2. Application[^key-a0e9a2360fac30c1c0fcd8b085e10f7c]
+## 2. Application[^c-a0e9a2360fac30c1c0fcd8b085e10f7c]
 
-Regulation 3 has effect in relation to a taxable disposal (within the meaning of Part 2 of the Landfill Disposals Tax (Wales) Act 2017) made on or after 1 April 2024 but before 1 April 2025[^key-f76091cbfe6175d7757cd3ab122aa37f].
+Regulation 3 has effect in relation to a taxable disposal (within the meaning of Part 2 of the Landfill Disposals Tax (Wales) Act 2017) made on or after 1 April 2024 but before 1 April 2025[^c-f76091cbfe6175d7757cd3ab122aa37f].
 
-## 3. Rates of landfill disposals tax[^key-6dc6e0e95395c72ea96bf0edc536554e]
+## 3. Rates of landfill disposals tax[^c-6dc6e0e95395c72ea96bf0edc536554e]
 
 The following rates are prescribed in accordance with sections 14(3) and (6), and 46(4), of the Landfill Disposals Tax (Wales) Act 2017 respectively—
 
@@ -59,11 +59,11 @@ The following rates are prescribed in accordance with sections 14(3) and (6), an
 - (b) the lower rate is £3.30 per tonne, and
 - (c) the unauthorised disposals rate is £155.55 per tonne.
 
-## 4. Amendment of the Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2022[^key-3a3a7231de5f72e53533ef2f6767b899]
+## 4. Amendment of the Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2022[^c-3a3a7231de5f72e53533ef2f6767b899]
 
 In regulation 2 of the Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2022[^f00004], after “1 April 2023” insert “but before 1 April 2024”.
 
-## 5. Amendment of the Tax Collection and Management (Wales) Act 2016[^key-48f18d69a59381eec9c37ab9f8cebf33]
+## 5. Amendment of the Tax Collection and Management (Wales) Act 2016[^c-48f18d69a59381eec9c37ab9f8cebf33]
 
 In section 122(3) of the Tax Collection and Management (Wales) Act 2016, in Table A1, in the column headed “Amount of Tax” for item 10, for “48 or 49” substitute “49 or 50.”
 
@@ -95,16 +95,16 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: The reference in section 189(2) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-5ca5c1105b77f08ee640fecef2ad5f38]: Commencement: Reg. 1 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)
+[^c-5ca5c1105b77f08ee640fecef2ad5f38]: Commencement: Reg. 1 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)
 
-[^key-a0e9a2360fac30c1c0fcd8b085e10f7c]: Commencement: Reg. 2 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)
+[^c-a0e9a2360fac30c1c0fcd8b085e10f7c]: Commencement: Reg. 2 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)
 
-[^key-f76091cbfe6175d7757cd3ab122aa37f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2024/367/regulation/2) inserted (1.4.2025) by [The Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2025 (S.I. 2025/152)](https://www.legislation.gov.uk/wsi/2025/152), [regs. 1](https://www.legislation.gov.uk/wsi/2025/152/regulation/1), [4](https://www.legislation.gov.uk/wsi/2025/152/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2025/152/regulation/2))
+[^c-f76091cbfe6175d7757cd3ab122aa37f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2024/367/regulation/2) inserted (1.4.2025) by [The Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2025 (S.I. 2025/152)](https://www.legislation.gov.uk/wsi/2025/152), [regs. 1](https://www.legislation.gov.uk/wsi/2025/152/regulation/1), [4](https://www.legislation.gov.uk/wsi/2025/152/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2025/152/regulation/2))
 
-[^key-6dc6e0e95395c72ea96bf0edc536554e]: Commencement: Reg. 3 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)
+[^c-6dc6e0e95395c72ea96bf0edc536554e]: Commencement: Reg. 3 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)
 
-[^key-3a3a7231de5f72e53533ef2f6767b899]: Commencement: Reg. 4 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)
+[^c-3a3a7231de5f72e53533ef2f6767b899]: Commencement: Reg. 4 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2022/1316 (W. 265)](https://www.legislation.gov.uk/wsi/2022/1316)
 
-[^key-48f18d69a59381eec9c37ab9f8cebf33]: Commencement: Reg. 5 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)
+[^c-48f18d69a59381eec9c37ab9f8cebf33]: Commencement: Reg. 5 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2024/367/regulation/1)

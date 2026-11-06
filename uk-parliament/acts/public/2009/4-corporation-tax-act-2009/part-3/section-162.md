@@ -25,12 +25,12 @@ summary: ''
 - (a) trading stock belonging to the trade at the time of the cessation must be valued, and
 - (b) the value must be determined in accordance with sections 164 to 167 (bases of valuation).
 
-(2) But no valuation of the stock is required under this Chapter if section 147(3) or (5) of TIOPA 2010[^key-b37a03158545d6ccf3cdedaa5405d653] (provision not at arm's length) has effect in relation to any provision which—
+(2) But no valuation of the stock is required under this Chapter if section 147(3) or (5) of TIOPA 2010[^c-b37a03158545d6ccf3cdedaa5405d653] (provision not at arm's length) has effect in relation to any provision which—
 
 - (a) is made or imposed in relation to the stock, and
 - (b) has effect in connection with the cessation.
 
-(2A)[^key-0281b75630995364c0d20cbe29c75f02] Subsection (2B) applies if—
+(2A)[^c-0281b75630995364c0d20cbe29c75f02] Subsection (2B) applies if—
 
 - (a) by virtue of subsection (2), no valuation of the stock under this Chapter is required, and
 - (b) the market value of the stock is greater than the Part 4 TIOPA amount.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b37a03158545d6ccf3cdedaa5405d653]: Textual amendment: Words in s. 162(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 125](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/125) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-b37a03158545d6ccf3cdedaa5405d653]: Textual amendment: Words in s. 162(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 125](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/125) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-0281b75630995364c0d20cbe29c75f02]: Textual amendment: S. 162(2A)-(2C) inserted (with application in accordance with s. 41(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/41/1)
+[^c-0281b75630995364c0d20cbe29c75f02]: Textual amendment: S. 162(2A)-(2C) inserted (with application in accordance with s. 41(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/41/1)

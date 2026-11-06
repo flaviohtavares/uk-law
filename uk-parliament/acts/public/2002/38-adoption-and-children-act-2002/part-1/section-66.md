@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Meaning of adoption in Chapter 4[^key-37319c75b4c057fa3d8094bfa35460ab]
+## 66. Meaning of adoption in Chapter 4[^c-37319c75b4c057fa3d8094bfa35460ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ and related expressions are to be interpreted accordingly.
 
 ## Annotations
 
-[^key-37319c75b4c057fa3d8094bfa35460ab]: Commencement: S. 66 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-37319c75b4c057fa3d8094bfa35460ab]: Commencement: S. 66 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Power to survey and investigate land[^key-8c1d0462dfad475e88fd7d90dc38919e]
+## 19. Power to survey and investigate land[^c-8c1d0462dfad475e88fd7d90dc38919e]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-8c1d0462dfad475e88fd7d90dc38919e]: Commencement: Art. 19 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-8c1d0462dfad475e88fd7d90dc38919e]: Commencement: Art. 19 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

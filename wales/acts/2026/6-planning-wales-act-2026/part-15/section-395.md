@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 395. Contributions towards costs incurred by authorities[^key-7f5f7a86684bb58a483389d3aa5c2b90]
+## 395. Contributions towards costs incurred by authorities[^c-7f5f7a86684bb58a483389d3aa5c2b90]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f5f7a86684bb58a483389d3aa5c2b90]: Commencement: S. 395 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7f5f7a86684bb58a483389d3aa5c2b90]: Commencement: S. 395 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84A. Limitations on acting under supervision: sanctions under this Part[^key-c8ff9b56cf31c3598be7b261fedad669]
+## 84A. Limitations on acting under supervision: sanctions under this Part[^c-c8ff9b56cf31c3598be7b261fedad669]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8ff9b56cf31c3598be7b261fedad669]: Textual amendment: [Ss. 84A](https://www.legislation.gov.uk/ukpga/1999/33/section/84A), [84B](https://www.legislation.gov.uk/ukpga/1999/33/section/84B) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/8)
+[^c-c8ff9b56cf31c3598be7b261fedad669]: Textual amendment: [Ss. 84A](https://www.legislation.gov.uk/ukpga/1999/33/section/84A), [84B](https://www.legislation.gov.uk/ukpga/1999/33/section/84B) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/8)

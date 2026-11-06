@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 401A. Recovery of overpaid tax credit etc[^key-da14bffd136a0831750c1713a62c7ec0]
+## 401A. Recovery of overpaid tax credit etc[^c-da14bffd136a0831750c1713a62c7ec0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da14bffd136a0831750c1713a62c7ec0]: Textual amendment: S. 401A omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/13)
+[^c-da14bffd136a0831750c1713a62c7ec0]: Textual amendment: S. 401A omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/13)

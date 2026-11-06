@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Enforcement of information requirements[^key-a6e007243018d9248a4ba33f2a598e92][^key-c5ed49f7a981fcada2fbd6b3918a2269]
+## 32. Enforcement of information requirements[^c-a6e007243018d9248a4ba33f2a598e92][^c-c5ed49f7a981fcada2fbd6b3918a2269]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6e007243018d9248a4ba33f2a598e92]: Commencement: S. 32 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-a6e007243018d9248a4ba33f2a598e92]: Commencement: S. 32 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-c5ed49f7a981fcada2fbd6b3918a2269]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2023/4/section/32) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)
+[^c-c5ed49f7a981fcada2fbd6b3918a2269]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2023/4/section/32) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)

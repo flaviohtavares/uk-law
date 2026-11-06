@@ -32,7 +32,7 @@ summary: ''
 
 Local Government, England
 
-The Local Government (Transparency Requirements) (England) Regulations 2014 (revoked)[^key-7f2b69130300cf900b9f6cdf3dac7b6a]
+The Local Government (Transparency Requirements) (England) Regulations 2014 (revoked)[^c-7f2b69130300cf900b9f6cdf3dac7b6a]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st October 2014
 
-[^key-7f2b69130300cf900b9f6cdf3dac7b6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f2b69130300cf900b9f6cdf3dac7b6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7f2b69130300cf900b9f6cdf3dac7b6a]
+## 1. Citation and commencement[^c-7f2b69130300cf900b9f6cdf3dac7b6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Requirement to publish information[^key-7f2b69130300cf900b9f6cdf3dac7b6a]
+## 2. Requirement to publish information[^c-7f2b69130300cf900b9f6cdf3dac7b6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7f2b69130300cf900b9f6cdf3dac7b6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f2b69130300cf900b9f6cdf3dac7b6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7f2b69130300cf900b9f6cdf3dac7b6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f2b69130300cf900b9f6cdf3dac7b6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7f2b69130300cf900b9f6cdf3dac7b6a]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government (Transparency Requirements) (England) Regulations 2015 (S.I. 2015/480)](https://www.legislation.gov.uk/uksi/2015/480), [regs. 1](https://www.legislation.gov.uk/uksi/2015/480/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/480/regulation/3)
+[^c-7f2b69130300cf900b9f6cdf3dac7b6a]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government (Transparency Requirements) (England) Regulations 2015 (S.I. 2015/480)](https://www.legislation.gov.uk/uksi/2015/480), [regs. 1](https://www.legislation.gov.uk/uksi/2015/480/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/480/regulation/3)

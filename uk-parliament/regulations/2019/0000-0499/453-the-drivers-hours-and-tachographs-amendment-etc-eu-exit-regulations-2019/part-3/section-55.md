@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/eur/2006/561) of the European Parliament and of the Council[^key-d9c9b85992c9d3a0392e1078509f47b3]
+## 55. Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/eur/2006/561) of the European Parliament and of the Council[^c-d9c9b85992c9d3a0392e1078509f47b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/eur/2006/561) of th
 
 ## Annotations
 
-[^key-d9c9b85992c9d3a0392e1078509f47b3]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d9c9b85992c9d3a0392e1078509f47b3]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

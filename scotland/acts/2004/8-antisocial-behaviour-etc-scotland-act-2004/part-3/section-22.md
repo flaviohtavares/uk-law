@@ -33,10 +33,10 @@ summary: ''
 
 or to both.
 
-(3)[^key-da98c134d7936021ccf6c82c20ad1ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-da98c134d7936021ccf6c82c20ad1ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-da98c134d7936021ccf6c82c20ad1ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-da98c134d7936021ccf6c82c20ad1ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da98c134d7936021ccf6c82c20ad1ef6]: Textual amendment: [S. 22(3)](https://www.legislation.gov.uk/asp/2004/8/section/22/3)[(4)](https://www.legislation.gov.uk/asp/2004/8/section/22/4) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 18(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/18/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-da98c134d7936021ccf6c82c20ad1ef6]: Textual amendment: [S. 22(3)](https://www.legislation.gov.uk/asp/2004/8/section/22/3)[(4)](https://www.legislation.gov.uk/asp/2004/8/section/22/4) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 18(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/18/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

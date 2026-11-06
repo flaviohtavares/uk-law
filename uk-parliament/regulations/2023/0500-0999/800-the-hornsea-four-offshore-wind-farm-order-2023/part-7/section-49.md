@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Compensation provisions[^key-b54c282ff6c9ed869773b1a0dba18f6a]
+## 49. Compensation provisions[^c-b54c282ff6c9ed869773b1a0dba18f6a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 16 (compensation to protect the coherence of the national site network)
 
 ## Annotations
 
-[^key-b54c282ff6c9ed869773b1a0dba18f6a]: Commencement: Art. 49 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-b54c282ff6c9ed869773b1a0dba18f6a]: Commencement: Art. 49 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

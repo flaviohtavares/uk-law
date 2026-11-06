@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Registrar’s power to strike off company registered on false basis[^key-41650b0ae919a84038ac00f4727d7631][^key-198e9fde00ca55101ec39a863ee8386a]
+## 70. Registrar’s power to strike off company registered on false basis[^c-41650b0ae919a84038ac00f4727d7631][^c-198e9fde00ca55101ec39a863ee8386a]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41650b0ae919a84038ac00f4727d7631]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-41650b0ae919a84038ac00f4727d7631]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-198e9fde00ca55101ec39a863ee8386a]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/56/section/70) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/c)
+[^c-198e9fde00ca55101ec39a863ee8386a]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/56/section/70) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/c)

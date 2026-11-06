@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**69.**[^key-185944217b8bfc4f50f249b7484afad9] In section 22 (general duty of local authority in relation to children looked after by them)—
+**69.**[^c-185944217b8bfc4f50f249b7484afad9] In section 22 (general duty of local authority in relation to children looked after by them)—
 
 - (a) in subsection (1)[^f00078] for “In this Act” substitute “In this section”;
 - (b) in subsection (3B)[^f00079] omit “in England”;
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-185944217b8bfc4f50f249b7484afad9]: Commencement: Reg. 69 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-185944217b8bfc4f50f249b7484afad9]: Commencement: Reg. 69 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00078]: Footnote: Section 22(1) was amended by the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), Schedule 5, paragraph 19; by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2, and by the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), section 116(2).
 

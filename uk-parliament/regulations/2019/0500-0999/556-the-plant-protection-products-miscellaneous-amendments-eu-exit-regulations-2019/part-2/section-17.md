@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Commission Regulation (EU) No 545/2011 implementing Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council as regards the data requirements for plant protection products[^key-91705b1a6344573b7a0d13f1205078d6]
+## 17. Commission Regulation (EU) No 545/2011 implementing Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council as regards the data requirements for plant protection products[^c-91705b1a6344573b7a0d13f1205078d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 >
 > This Regulation applies—
 >
-> - (a) in relation to an application under Article 7 of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market as it had effect immediately before IP completion day[^key-1c8bc5183bd1209d34a93d4ef44b1e5d] where—
+> - (a) in relation to an application under Article 7 of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market as it had effect immediately before IP completion day[^c-1c8bc5183bd1209d34a93d4ef44b1e5d] where—
 >   - (i) paragraph 6 of Schedule 1 to the Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 applies to that application, and
 >   - (ii) on or before 31st December 2013 dossiers were submitted in accordance with Article 8(1) and (2) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) as it had effect immediately before IP completion day ;
 > - (b) in relation to an application under Article 15 of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market as it had effect immediately before IP completion day where—
@@ -70,7 +70,7 @@ summary: ''
 - (b) in point 1.3, for “Member States” substitute “ competent authorities ”;
 - (c) in point 1.6, for “Council Directive [86/609/EEC](https://www.legislation.gov.uk/eudr/1986/609)” substitute “ the Animals (Scientific Procedures) Act 1986 ”;
 - (d) in point 2.1, after “laid down in” insert “ Annex 1 to ”;
-- (e)[^key-11a98a442ca149040df2f92baf322839] in point 2.2, in the seventh indent, for “the Union” substitute “Great Britain”;
+- (e)[^c-11a98a442ca149040df2f92baf322839] in point 2.2, in the seventh indent, for “the Union” substitute “Great Britain”;
 - (f) in point 2.3—
   - (i) in the first indent, for “to the relevant national authority” substitute “ in accordance with the official recognition scheme ”;
   - (ii) in the second indent—
@@ -84,7 +84,7 @@ summary: ''
 
 (7) In Part A—
 
-- (a) in point 1.1, in the second paragraph, for the words from “the Member State[^key-71aa3f7aa57682bb0a823b3f52274a96]” to “sought” substitute “Great Britain[^key-575b282b631a401545fda25487971893]”;
+- (a) in point 1.1, in the second paragraph, for the words from “the Member State[^c-71aa3f7aa57682bb0a823b3f52274a96]” to “sought” substitute “Great Britain[^c-575b282b631a401545fda25487971893]”;
 - (b) in point 1.4.1, for “Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45)” substitute “ Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council ”;
 - (c) in point 6.5, after the heading “Test guideline”, in the second paragraph—
   - (i) for “Member State” in the first place it occurs substitute “ competent authority ”;
@@ -100,7 +100,7 @@ summary: ''
 
 (8) In Part B—
 
-- (a) in point 1.1, in the second paragraph, for the words from “ the Member State[^key-44a7729444d4211ba011bd0880abea04] ” to “sought” substitute “ Great Britain[^key-709705ec9c745b75198e903830ab7686] ”;
+- (a) in point 1.1, in the second paragraph, for the words from “ the Member State[^c-44a7729444d4211ba011bd0880abea04] ” to “sought” substitute “ Great Britain[^c-709705ec9c745b75198e903830ab7686] ”;
 - (b) in point 1.4(ii), in the third subparagraph, for “Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45)” substitute “ Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council ”;
 - (c) in point 6.5, after the heading “Test guideline”, in the second paragraph—
   - (i) for “Member State” in the first place it occurs substitute “ competent authority ”;
@@ -110,18 +110,18 @@ summary: ''
 
 ## Annotations
 
-[^key-91705b1a6344573b7a0d13f1205078d6]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-91705b1a6344573b7a0d13f1205078d6]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-1c8bc5183bd1209d34a93d4ef44b1e5d]: Textual amendment: Words in reg. 17(2) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/a)
+[^c-1c8bc5183bd1209d34a93d4ef44b1e5d]: Textual amendment: Words in reg. 17(2) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/a)
 
-[^key-11a98a442ca149040df2f92baf322839]: Textual amendment: Reg. 17(6)(e) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/b)
+[^c-11a98a442ca149040df2f92baf322839]: Textual amendment: Reg. 17(6)(e) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/b)
 
-[^key-71aa3f7aa57682bb0a823b3f52274a96]: Textual amendment: Words in reg. 17(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/c/i)
+[^c-71aa3f7aa57682bb0a823b3f52274a96]: Textual amendment: Words in reg. 17(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/c/i)
 
-[^key-575b282b631a401545fda25487971893]: Textual amendment: Words in reg. 17(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/c/ii)
+[^c-575b282b631a401545fda25487971893]: Textual amendment: Words in reg. 17(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/c/ii)
 
 [^c23680891]: Marginal citation: In respect of Directive 2004/37/EC, see for example: [S.I. 2007/3100](https://www.legislation.gov.uk/uksi/2007/3100), 2012/632 and 2013/1471; and in relation to Northern Ireland, S.R. [2012 No. 179](https://www.legislation.gov.uk/ukcm/2012/179).
 
-[^key-44a7729444d4211ba011bd0880abea04]: Textual amendment: Words in reg. 17(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/c/i)
+[^c-44a7729444d4211ba011bd0880abea04]: Textual amendment: Words in reg. 17(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/c/i)
 
-[^key-709705ec9c745b75198e903830ab7686]: Textual amendment: Words in reg. 17(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/c/ii)
+[^c-709705ec9c745b75198e903830ab7686]: Textual amendment: Words in reg. 17(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(15)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/15/c/ii)

@@ -43,11 +43,11 @@ The Department for Regional Development and the Department of the Environment ar
 
 The Department for Regional Development and the Department of the Environment, acting jointly, in exercise of the powers conferred on each Department by that section make the following Regulations:
 
-## 1. Citation and commencement[^key-faed611c20cb468e999b4b2506d81c43]
+## 1. Citation and commencement[^c-faed611c20cb468e999b4b2506d81c43]
 
 These Regulations may be cited as the Urban Waste Water Treatment Regulations (Northern Ireland) 2007 and shall come into operation on 1st April 2007.
 
-## 2. Interpretation[^key-8ac5b6abea2c3162b7cbc68f6b39760f]
+## 2. Interpretation[^c-8ac5b6abea2c3162b7cbc68f6b39760f]
 
 (1) In these Regulations—
 
@@ -58,7 +58,7 @@ These Regulations may be cited as the Urban Waste Water Treatment Regulations (N
 - “coastal waters” means the waters outside the low-water line or the outer limit of an estuary;
 - “collecting system” means a system of conduits which collects and conducts urban waste water;
 - “the Department” means the Department of the Environment;
-- “the Directive” means Council[^key-97efa2931200a67d80fba05d34ac4ab3] [Directive 91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271) concerning urban waste water treatment as last amended by Council [Directive 2013/64/EU](https://www.legislation.gov.uk/european/directive/2013/0064);
+- “the Directive” means Council[^c-97efa2931200a67d80fba05d34ac4ab3] [Directive 91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271) concerning urban waste water treatment as last amended by Council [Directive 2013/64/EU](https://www.legislation.gov.uk/european/directive/2013/0064);
 - “domestic waste water” means waste water from residential settlements and services which originates predominantly from the human metabolism and from household activities;
 - “estuary” means the transitional area at the mouth of a river between fresh water and coastal waters, the outer (seaward) limits of which are shown on the maps kept in accordance with regulation 14;
 - “eutrophication” means the enrichment of water by nutrients, especially compounds of nitrogen and/or phosphorus, causing an accelerated growth of algae and higher forms of plant life to produce an undesirable disturbance to the balance of organisms present in the water and to the quality of the water concerned;
@@ -77,7 +77,7 @@ These Regulations may be cited as the Urban Waste Water Treatment Regulations (N
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Sensitive areas and high natural dispersion areas[^key-db7a036022c14ee8b005feae4e9e34a0]
+## 3. Sensitive areas and high natural dispersion areas[^c-db7a036022c14ee8b005feae4e9e34a0]
 
 (1) In these Regulations—
 
@@ -86,7 +86,7 @@ These Regulations may be cited as the Urban Waste Water Treatment Regulations (N
 
 (2) The Department shall review the identification of sensitive areas and high natural dispersion areas, in accordance with the relevant criteria in Schedule 1 no later than 31st December 2009 and thereafter at intervals of no more than 4 years.
 
-## 4. Decisions taken on a review of sensitive areas or high natural dispersion areas[^key-a7cb48dd645940c995f55a90e34ef1cb]
+## 4. Decisions taken on a review of sensitive areas or high natural dispersion areas[^c-a7cb48dd645940c995f55a90e34ef1cb]
 
 (1) Where the Department decides on a review under regulation 3(2)—
 
@@ -107,7 +107,7 @@ it shall act in accordance with the provisions set out in paragraph (2).
 
 (3) A decision on a review under regulation 3(2) takes effect from the date stated in the Department’s notice under paragraph (2)(a) and shall continue in force until a subsequent decision changing it following such a review takes effect.
 
-## 5. Duty to maintain up to date information about sensitive areas and high natural dispersion areas[^key-7fbaec427d58b6fbee3a098f9cd61efb]
+## 5. Duty to maintain up to date information about sensitive areas and high natural dispersion areas[^c-7fbaec427d58b6fbee3a098f9cd61efb]
 
 (1) The Department shall ensure that its website—
 
@@ -119,7 +119,7 @@ it shall act in accordance with the provisions set out in paragraph (2).
 - (a) the maps showing sensitive areas and high natural dispersion areas deposited with it for the purposes of regulation (3) and,
 - (b) the information mentioned in paragraph (1)(b).
 
-## 6. Duty to provide and maintain collecting systems and treatment plants[^key-c34a04b53b20c72ec185eb299555652e]
+## 6. Duty to provide and maintain collecting systems and treatment plants[^c-c34a04b53b20c72ec185eb299555652e]
 
 (1) This regulation supplements the duty imposed on every sewerage undertaker by Article 149(1) of the 2006 Order to provide sewerage systems and any contravention of the requirements of this regulation shall be treated for the purposes of that Order as a breach of that duty.
 
@@ -138,7 +138,7 @@ and individual systems or other appropriate systems are provided that the Depart
 - (b) treated waste water and sludge arising from waste water treatment are reused whenever appropriate; and
 - (c) disposal routes for treated waste water and sludge minimise the adverse effects on the environment.
 
-## 7. Requirements as to provision of treatment[^key-c11211a0ca9f1197bf5248794d5f11e8]
+## 7. Requirements as to provision of treatment[^c-c11211a0ca9f1197bf5248794d5f11e8]
 
 (1) Subject to paragraph (5), treatment plants which provide secondary treatment or an equivalent treatment shall be provided—
 
@@ -151,7 +151,7 @@ and individual systems or other appropriate systems are provided that the Depart
 
 (4) Where, following a review of the identification of waters as sensitive areas or high natural dispersion areas under regulation 3, an area ceases to be identified as a high natural dispersion area or becomes identified as a sensitive area, then, as respects that area, paragraph (1) or, as the case may be, paragraph (2) shall have effect from the seventh anniversary of the change of identification.
 
-(5) Discharges of urban waste water from agglomerations with a population equivalent of between 10,000 and 150,000 (or, in an exceptional case [^key-df5a1cf70bece32837c4608c92c06bd5]..., of more than 150,000), to coastal waters which are in high natural dispersion areas, and discharges from agglomerations with a population equivalent of between 2,000 and 10,000 into estuaries which are in high natural dispersion areas, may be subjected to less stringent treatment than that described in paragraph (1) so long as—
+(5) Discharges of urban waste water from agglomerations with a population equivalent of between 10,000 and 150,000 (or, in an exceptional case [^c-df5a1cf70bece32837c4608c92c06bd5]..., of more than 150,000), to coastal waters which are in high natural dispersion areas, and discharges from agglomerations with a population equivalent of between 2,000 and 10,000 into estuaries which are in high natural dispersion areas, may be subjected to less stringent treatment than that described in paragraph (1) so long as—
 
 - (a) the discharges receive at least primary treatment in conformity with the control procedures set out in Part II of Schedule 3; and
 - (b) the Department is satisfied that comprehensive studies have indicated that such discharges will not adversely affect the environment.
@@ -163,10 +163,10 @@ and individual systems or other appropriate systems are provided that the Depart
 
 (7) In this regulation—
 
-- (a) “appropriate treatment” means treatment of urban waste water by any process and/or disposal system which after discharge allows the receiving waters to meet the relevant quality objectives and the relevant provisions of these Regulations and[^key-dc687afbb4333a34f7ffde31340d99fd] assimilated[^key-710b67b73ae80da09931344a0848b631] law; and
+- (a) “appropriate treatment” means treatment of urban waste water by any process and/or disposal system which after discharge allows the receiving waters to meet the relevant quality objectives and the relevant provisions of these Regulations and[^c-dc687afbb4333a34f7ffde31340d99fd] assimilated[^c-710b67b73ae80da09931344a0848b631] law; and
 - (b) “primary treatment” means treatment of urban waste water by a physical and/or chemical process involving settlement of suspended solids, or other processes in which the BOD<sub>5</sub> of the incoming waste water is reduced by at least 20% before discharge and the total suspended solids of the incoming waste water are reduced by at least 50%.
 
-## 8. Discharges of treated urban waste water[^key-099e366e80d38c503ddd35a14dae7012]
+## 8. Discharges of treated urban waste water[^c-099e366e80d38c503ddd35a14dae7012]
 
 (1) Discharges from urban waste water treatment plants described in paragraphs (1) or (2) of regulation 7 or from any such plant which provides treatment in accordance with paragraph (5) of that regulation, (including any such plants which are provided other than by a sewerage undertaker) shall satisfy the relevant requirements of Part I of Schedule 3.
 
@@ -181,7 +181,7 @@ and individual systems or other appropriate systems are provided that the Depart
 
 (4) Nothing in paragraph 6 of Schedule 1 to the 1999 Order shall restrict the power of the Department to modify or revoke a consent in pursuance of the duty imposed by this regulation.
 
-## 9. Discharges of industrial waste water to collecting systems or treatment plants[^key-e7164f3519bca8b69282ed243f07c4f2]
+## 9. Discharges of industrial waste water to collecting systems or treatment plants[^c-e7164f3519bca8b69282ed243f07c4f2]
 
 (1) It shall be the duty of every sewerage undertaker and the relevant enforcement authority in exercising their functions under Chapter III of Part VI of the 2006 Order (trade effluent) with respect to any discharge of industrial waste water, to secure that the requirements of Schedule 4 are met in respect of that discharge.
 
@@ -198,7 +198,7 @@ and individual systems or other appropriate systems are provided that the Depart
 - (a) restrict the power of a sewerage undertaker to vary a consent, direction or condition in pursuance of the duty imposed by this regulation; or
 - (b) render a sewerage undertaker or the Department for Regional Development liable to pay compensation as a consequence of any such variation made in pursuance of that duty.
 
-## 10. Discharges of certain industrial waste water into receiving waters[^key-c81771dd9d12db8319bba01fcf0a9ab9]
+## 10. Discharges of certain industrial waste water into receiving waters[^c-c81771dd9d12db8319bba01fcf0a9ab9]
 
 (1) This regulation applies to discharges of biodegradable industrial waste water from plants representing 4,000 p.e. or more belonging to the industrial sectors listed in Schedule 5 which does not enter urban waste water treatment plants before discharge to receiving waters.
 
@@ -206,11 +206,11 @@ and individual systems or other appropriate systems are provided that the Depart
 
 (3) Nothing in paragraph 6 of Schedule 1 to the 1999 Order shall restrict the power of the Department to modify or revoke a consent in pursuance of the duty imposed by this regulation.
 
-## 11. Dumping of sludge from ships[^key-eca09eb320215be4f0515a92ada3cdaa]
+## 11. Dumping of sludge from ships[^c-eca09eb320215be4f0515a92ada3cdaa]
 
 It shall be the duty of the Department being the licensing authority (within the meaning of sections 24 and 25(3) of the Food and Environment Protection Act 1985), in the exercise of its functions under Part II of that Act (deposits in the sea), to secure that no sludge is dumped from ships to surface waters.
 
-## 12. Samples and records[^key-81c591f58df1fb26a6ca344e431448cd]
+## 12. Samples and records[^c-81c591f58df1fb26a6ca344e431448cd]
 
 (1) In this regulation—
 
@@ -237,7 +237,7 @@ that fact shall be admissible as evidence that that condition, or as the case ma
 
 (6) For the purposes of Part II of the 1999 Order a sample of waste water which is taken and analysed by the operator in compliance with a relevant condition shall not be treated as being taken on behalf of the Department.
 
-## 13. Monitoring[^key-4c213c96ed70007d0588debed7ad9f48]
+## 13. Monitoring[^c-4c213c96ed70007d0588debed7ad9f48]
 
 It shall be the duty of the Department—
 
@@ -245,11 +245,11 @@ It shall be the duty of the Department—
 - (b) to monitor or procure the monitoring by a competent authority or appropriate body of waters subject to discharges from urban waste water treatment plants provided in accordance with regulation 7 in cases where it can be expected that the receiving environment will be significantly affected;
 - (c) to carry out or procure the carrying out by a competent authority or appropriate body of monitoring and any other relevant studies to verify that discharges to which regulation 7(5) applies do not adversely affect the environment.
 
-## 14. Deposit of maps[^key-86117d10b337d2b377988febd2128aeb]
+## 14. Deposit of maps[^c-86117d10b337d2b377988febd2128aeb]
 
 The Department shall keep available at its offices at 17 Antrim Road, Lisburn, Co. Antrim BT28 3AL, at all reasonable times, for inspection by the public free of charge the maps referred to in the definition of “estuary” in regulation 2(1).
 
-## 15.[^key-71b1541e39eeec363c7f944b6846c9ad]
+## 15.[^c-71b1541e39eeec363c7f944b6846c9ad]
 
 (1) The Department and the Department for Infrastructure must, acting jointly, publish a situation report on the disposal of urban waste water and sludge.
 
@@ -265,7 +265,7 @@ The Department shall keep available at its offices at 17 Antrim Road, Lisburn, C
 
 (5) Subsequent reports must be published at intervals not exceeding two years.
 
-## 16. Revocation of Regulations[^key-496ba122e3480aea5f6ed9443bd84b9a]
+## 16. Revocation of Regulations[^c-496ba122e3480aea5f6ed9443bd84b9a]
 
 On 1st April 2007 the Urban Waste Water Treatment Regulations (Northern Ireland) 1995 and the Urban Waste Water Treatment (Amendment) Regulations (Northern Ireland) 2003 shall be revoked.
 
@@ -289,17 +289,17 @@ Department of the Environment
 
 Regulation 3
 
-### PART I — CRITERIA FOR IDENTIFICATION OF SENSITIVE AREAS[^key-ab7eeeccf10b0041eaf6680117cbe6b7]
+### PART I — CRITERIA FOR IDENTIFICATION OF SENSITIVE AREAS[^c-ab7eeeccf10b0041eaf6680117cbe6b7]
 
 A water body must be identified as a sensitive area if it falls into one of the following groups—
 
 - (a) natural freshwater lakes, other freshwater bodies, estuaries and coastal waters which are found to be eutrophic or which in the near future may become eutrophic if protective action is not taken. The following elements might be taken into account when considering which nutrient should be reduced by further treatment—
   - (i) lakes and streams reaching lakes/reservoirs/closed bays which are found to have a poor water exchange, whereby accumulation may take place. In these areas, the removal of phosphorus should be included unless it can be demonstrated that the removal will have no effect on the level of eutrophication. Where discharges from large agglomerations are made, the removal of nitrogen may also be considered;
   - (ii) estuaries, bays and other coastal waters which are found to have a poor water exchange, or which receive large quantities of nutrients. Discharges from small agglomerations are usually of minor importance in those areas, but for large agglomerations, the removal of phosphorus and/or nitrogen should be included unless it can be demonstrated that the removal will have no effect on the level of eutrophication;
-- (b) surface fresh waters intended for the abstraction of drinking water which could contain more than 50mg/l of nitrates in 95% of the samples[^key-e8d73429f71ac2a183128525296bd89d] if action is not taken;
-- (c) areas where further treatment than secondary or equivalent treatment is necessary to fulfil assimilated[^key-92f57d1913de1f7683d02163b5f82793][^key-d2f1dc8f8c9261a9fe89e23113672355] law.
+- (b) surface fresh waters intended for the abstraction of drinking water which could contain more than 50mg/l of nitrates in 95% of the samples[^c-e8d73429f71ac2a183128525296bd89d] if action is not taken;
+- (c) areas where further treatment than secondary or equivalent treatment is necessary to fulfil assimilated[^c-92f57d1913de1f7683d02163b5f82793][^c-d2f1dc8f8c9261a9fe89e23113672355] law.
 
-### PART II — CRITERIA FOR IDENTIFICATION OF HIGH NATURAL DISPERSION AREAS[^key-0dad0e27c419d24e0d45fcfc9d8a2fae]
+### PART II — CRITERIA FOR IDENTIFICATION OF HIGH NATURAL DISPERSION AREAS[^c-0dad0e27c419d24e0d45fcfc9d8a2fae]
 
 A marine water body or area can be identified as a high natural dispersion area if the discharge of waste water does not adversely affect the environment as a result of morphology, hydrology or specific hydraulic conditions which exist in that area.
 
@@ -313,9 +313,9 @@ The following elements shall be taken into consideration when identifying high n
 
 Regulation 6
 
-**1.**[^key-6c04a017dd372dddabfaa7ce4f064207] Collecting systems shall take into account waste water treatment requirements.
+**1.**[^c-6c04a017dd372dddabfaa7ce4f064207] Collecting systems shall take into account waste water treatment requirements.
 
-**2.**[^key-ea1fc6e2b8c6ae32f91f1d988352ff35] The design, construction and maintenance of collecting systems shall be undertaken in accordance with the best technical knowledge not entailing excessive costs, notably regarding—
+**2.**[^c-ea1fc6e2b8c6ae32f91f1d988352ff35] The design, construction and maintenance of collecting systems shall be undertaken in accordance with the best technical knowledge not entailing excessive costs, notably regarding—
 
 - (a) volume and characteristics of urban waste water;
 - (b) prevention of leaks; and
@@ -327,15 +327,15 @@ Regulations 7, 8 and 13
 
 ### PART I — REQUIREMENTS FOR DISCHARGES FROM TREATMENT PLANTS
 
-**1.**[^key-832b73747be9aaa5edf34886f0ce0451] Treatment plants shall be designed or modified so that representative samples of the incoming waste water and of treated effluent can be obtained before discharge to receiving waters.
+**1.**[^c-832b73747be9aaa5edf34886f0ce0451] Treatment plants shall be designed or modified so that representative samples of the incoming waste water and of treated effluent can be obtained before discharge to receiving waters.
 
-**2.**[^key-36a897f5e5bac162c26a125f6d3c3c1b] Discharges from urban waste water treatment plants subject to treatment in accordance with regulation 7(1) and (2) shall, subject to paragraphs 4 and 5 of Part II, meet the requirements shown in Table 1.
+**2.**[^c-36a897f5e5bac162c26a125f6d3c3c1b] Discharges from urban waste water treatment plants subject to treatment in accordance with regulation 7(1) and (2) shall, subject to paragraphs 4 and 5 of Part II, meet the requirements shown in Table 1.
 
-**3.**[^key-29056506d60fe9998d77e56783a4b0e6] Discharges from urban waste water treatment plants to those sensitive areas which are subject to eutrophication as identified in sub-paragraph (a) of Part I of Schedule 1 shall, subject to paragraphs 4 and 5 of Part II, also meet the requirements in Table 2.
+**3.**[^c-29056506d60fe9998d77e56783a4b0e6] Discharges from urban waste water treatment plants to those sensitive areas which are subject to eutrophication as identified in sub-paragraph (a) of Part I of Schedule 1 shall, subject to paragraphs 4 and 5 of Part II, also meet the requirements in Table 2.
 
-**4.**[^key-e39017c03be7e893897028bcc56bb05c] More stringent requirements than those shown in Table 1 and/or Table 2 shall be applied where required to ensure that the receiving waters satisfy assimilated[^key-04ed83e2c49aceed89a3b04471776fca][^key-f0d482a0d85c948fce1c6ff8bc619b1c] law.
+**4.**[^c-e39017c03be7e893897028bcc56bb05c] More stringent requirements than those shown in Table 1 and/or Table 2 shall be applied where required to ensure that the receiving waters satisfy assimilated[^c-04ed83e2c49aceed89a3b04471776fca][^c-f0d482a0d85c948fce1c6ff8bc619b1c] law.
 
-**5.**[^key-33e6eda0166eed43f73889d55e17938e] The points of discharge of urban waste water shall be chosen, as far as possible, so as to minimize the effects on receiving waters.
+**5.**[^c-33e6eda0166eed43f73889d55e17938e] The points of discharge of urban waste water shall be chosen, as far as possible, so as to minimize the effects on receiving waters.
 
 TABLE 1
 
@@ -385,17 +385,17 @@ One or both parameters may be applied depending on the local situation. The valu
 
 ### PART III — REFERENCE METHODS FOR MONITORING AND EVALUATION OF RESULTS
 
-**1.**[^key-3ea84aeaa9f337c8ddf06572b43dff87]
+**1.**[^c-3ea84aeaa9f337c8ddf06572b43dff87]
 
 - (a) The Department shall apply a monitoring method which corresponds at least with the level of requirements described below.
 - (b) Alternative methods to those mentioned in paragraphs 2, 3 and 4 may be used provided it can be demonstrated that equivalent results are obtained.
 
-**2.**[^key-ba2075fa9c6faefd2d6a97e9bdc27f3a]
+**2.**[^c-ba2075fa9c6faefd2d6a97e9bdc27f3a]
 
 - (a) Flow-proportioned or time-based 24-hour samples shall be collected at the same well-defined point in the outlet and if necessary in the inlet of the treatment plant in order to monitor compliance with the requirements for discharged waste water laid down in these Regulations.
 - (b) Good international laboratory practices aiming at minimising the degradation of samples between collection and analysis shall be applied.
 
-**3.**[^key-671e660fa3237b30380f2508711f7a7b] The minimum annual number of samples shall be determined according to the size of the treatment plant and be collected at regular intervals during the year:
+**3.**[^c-671e660fa3237b30380f2508711f7a7b] The minimum annual number of samples shall be determined according to the size of the treatment plant and be collected at regular intervals during the year:
 
 |  |  |
 | --- | --- |
@@ -403,13 +403,13 @@ One or both parameters may be applied depending on the local situation. The valu
 | —10,000 to 49,999 p.e.: | 12 samples; |
 | —50,000 p.e. or over: | 24 samples. |
 
-**4.**[^key-01e94a2d36e485678580ccca878684e9] The treated waste water shall be assumed to conform to the relevant parameters if, for each relevant parameter considered individually, samples of the water show that it complies with the relevant parametric value in the following way—
+**4.**[^c-01e94a2d36e485678580ccca878684e9] The treated waste water shall be assumed to conform to the relevant parameters if, for each relevant parameter considered individually, samples of the water show that it complies with the relevant parametric value in the following way—
 
 - (a) for the parameters specified in Table 1 and sub-paragraph (b) of regulation 7(7), a maximum number of samples which are allowed to fail the requirements, expressed in concentrations and/or percentage reductions in that Table and that sub-paragraph, is specified in Table 3;
 - (b) for the parameters of Table 1 expressed in concentrations, the failing samples taken under normal operating conditions must not deviate from the parametric values by more than 100%;
 - (c) for those parameters specified in Table 2 the annual mean of the samples for each parameter shall conform to the relevant parametric values.
 
-**5.**[^key-344fc7238f29ab85a2b1a1195449a124] Extreme values for the water quality in question shall not be taken into consideration when they are the result of unusual situations such as those due to heavy rain.
+**5.**[^c-344fc7238f29ab85a2b1a1195449a124] Extreme values for the water quality in question shall not be taken into consideration when they are the result of unusual situations such as those due to heavy rain.
 
 TABLE 3
 
@@ -441,43 +441,43 @@ TABLE 3
 | 335-350 | 24 |
 | 351-365 | 25 |
 
-## SCHEDULE 4 — INDUSTRIAL WASTE WATER[^key-90b88987f03c57d222730a89b421057d]
+## SCHEDULE 4 — INDUSTRIAL WASTE WATER[^c-90b88987f03c57d222730a89b421057d]
 
 Regulation 9
 
-[^key-90b88987f03c57d222730a89b421057d]Industrial waste water entering collecting systems and urban waste water treatment plants shall be subject to such pre-treatment as is required in order to—
+[^c-90b88987f03c57d222730a89b421057d]Industrial waste water entering collecting systems and urban waste water treatment plants shall be subject to such pre-treatment as is required in order to—
 
 - protect the health of staff working in collecting systems and treatment plants;
 - ensure that collecting systems, waste water treatment plants and associated equipment are not damaged;
 - ensure that the operation of the waste water treatment plant and the treatment of sludge are not impeded;
-- ensure that discharges from the treatment plants do not adversely affect the environment, or prevent receiving water from complying with assimilated[^key-91ac50ba43eb8241b0ec6f180a11d4d2][^key-04c612ea1e7956fa2e79ff13253e4389] law; and
+- ensure that discharges from the treatment plants do not adversely affect the environment, or prevent receiving water from complying with assimilated[^c-91ac50ba43eb8241b0ec6f180a11d4d2][^c-04c612ea1e7956fa2e79ff13253e4389] law; and
 - ensure that sludge can be disposed of safely in an environmentally acceptable manner.
 
 ## SCHEDULE 5 — INDUSTRIAL SECTORS REFERRED TO IN REGULATION 10
 
 Regulation 10
 
-**1.**[^key-9684d99b21f999c6579de4fd1eacb42e] Milk processing.
+**1.**[^c-9684d99b21f999c6579de4fd1eacb42e] Milk processing.
 
-**2.**[^key-a26a77169eebb960cf6d191252d9676d] Manufacture of fruit and vegetable products.
+**2.**[^c-a26a77169eebb960cf6d191252d9676d] Manufacture of fruit and vegetable products.
 
-**3.**[^key-e2d03aa5022f438c0602a227c73da96b] Manufacture and bottling of soft drinks.
+**3.**[^c-e2d03aa5022f438c0602a227c73da96b] Manufacture and bottling of soft drinks.
 
-**4.**[^key-0d1df9b3b8f7b3485db49e0839c7a4e7] Potato processing.
+**4.**[^c-0d1df9b3b8f7b3485db49e0839c7a4e7] Potato processing.
 
-**5.**[^key-a07e9be06c7f3a28c4210cbe52584ae9] Meat industry.
+**5.**[^c-a07e9be06c7f3a28c4210cbe52584ae9] Meat industry.
 
-**6.**[^key-9bfd2f8b3d3b768874d97708f67c8984] Breweries.
+**6.**[^c-9bfd2f8b3d3b768874d97708f67c8984] Breweries.
 
-**7.**[^key-b478474a8cc29fc7169e6d77d80c1ba8] Production of alcohol and alcoholic beverages.
+**7.**[^c-b478474a8cc29fc7169e6d77d80c1ba8] Production of alcohol and alcoholic beverages.
 
-**8.**[^key-b0719f2e5bfce2d7d1a4345a346590b9] Manufacturer of animal feed from plant products.
+**8.**[^c-b0719f2e5bfce2d7d1a4345a346590b9] Manufacturer of animal feed from plant products.
 
-**9.**[^key-89525de829ca64aaedbf9eb8cf8b9d3e] Manufacture of gelatine and of glue from hides, skin and bones.
+**9.**[^c-89525de829ca64aaedbf9eb8cf8b9d3e] Manufacture of gelatine and of glue from hides, skin and bones.
 
-**10.**[^key-739597b3723c109036b407b7615ae872] Malt-houses.
+**10.**[^c-739597b3723c109036b407b7615ae872] Malt-houses.
 
-**11.**[^key-cff0ee341edece9cba2db26dfa2b4643] Fish-processing industry.
+**11.**[^c-cff0ee341edece9cba2db26dfa2b4643] Fish-processing industry.
 
 EXPLANATORY NOTE
 
@@ -521,79 +521,79 @@ Copies of the Directive may be obtained from Her Majesty’s Stationery Office, 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-faed611c20cb468e999b4b2506d81c43]: Commencement: Reg. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-faed611c20cb468e999b4b2506d81c43]: Commencement: Reg. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-8ac5b6abea2c3162b7cbc68f6b39760f]: Commencement: Reg. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-8ac5b6abea2c3162b7cbc68f6b39760f]: Commencement: Reg. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1999 No. 662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662) as amended by [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
 
 [^f00004]: Footnote: [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
 
-[^key-97efa2931200a67d80fba05d34ac4ab3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/187/regulation/2/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/3)
+[^c-97efa2931200a67d80fba05d34ac4ab3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/187/regulation/2/1) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/3)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-db7a036022c14ee8b005feae4e9e34a0]: Commencement: Reg. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-db7a036022c14ee8b005feae4e9e34a0]: Commencement: Reg. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-a7cb48dd645940c995f55a90e34ef1cb]: Commencement: Reg. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-a7cb48dd645940c995f55a90e34ef1cb]: Commencement: Reg. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-7fbaec427d58b6fbee3a098f9cd61efb]: Commencement: Reg. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-7fbaec427d58b6fbee3a098f9cd61efb]: Commencement: Reg. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-c34a04b53b20c72ec185eb299555652e]: Commencement: Reg. 6 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-c34a04b53b20c72ec185eb299555652e]: Commencement: Reg. 6 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-c11211a0ca9f1197bf5248794d5f11e8]: Commencement: Reg. 7 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-c11211a0ca9f1197bf5248794d5f11e8]: Commencement: Reg. 7 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-df5a1cf70bece32837c4608c92c06bd5]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/nisr/2007/187/regulation/7/5) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df5a1cf70bece32837c4608c92c06bd5]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/nisr/2007/187/regulation/7/5) omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dc687afbb4333a34f7ffde31340d99fd]: Textual amendment: Words in [reg. 7(7)(a)](https://www.legislation.gov.uk/nisr/2007/187/regulation/7/7/a) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc687afbb4333a34f7ffde31340d99fd]: Textual amendment: Words in [reg. 7(7)(a)](https://www.legislation.gov.uk/nisr/2007/187/regulation/7/7/a) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-710b67b73ae80da09931344a0848b631]: Textual amendment: Word in [reg. 7(7)(a)](https://www.legislation.gov.uk/nisr/2007/187/regulation/7/7/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 11(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/11/a)
+[^c-710b67b73ae80da09931344a0848b631]: Textual amendment: Word in [reg. 7(7)(a)](https://www.legislation.gov.uk/nisr/2007/187/regulation/7/7/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 11(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/11/a)
 
-[^key-099e366e80d38c503ddd35a14dae7012]: Commencement: Reg. 8 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-099e366e80d38c503ddd35a14dae7012]: Commencement: Reg. 8 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-e7164f3519bca8b69282ed243f07c4f2]: Commencement: Reg. 9 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-e7164f3519bca8b69282ed243f07c4f2]: Commencement: Reg. 9 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-c81771dd9d12db8319bba01fcf0a9ab9]: Commencement: Reg. 10 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-c81771dd9d12db8319bba01fcf0a9ab9]: Commencement: Reg. 10 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-eca09eb320215be4f0515a92ada3cdaa]: Commencement: Reg. 11 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-eca09eb320215be4f0515a92ada3cdaa]: Commencement: Reg. 11 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-81c591f58df1fb26a6ca344e431448cd]: Commencement: Reg. 12 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-81c591f58df1fb26a6ca344e431448cd]: Commencement: Reg. 12 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-4c213c96ed70007d0588debed7ad9f48]: Commencement: Reg. 13 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-4c213c96ed70007d0588debed7ad9f48]: Commencement: Reg. 13 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-86117d10b337d2b377988febd2128aeb]: Commencement: Reg. 14 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-86117d10b337d2b377988febd2128aeb]: Commencement: Reg. 14 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-71b1541e39eeec363c7f944b6846c9ad]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2007/187/regulation/15) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71b1541e39eeec363c7f944b6846c9ad]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2007/187/regulation/15) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-496ba122e3480aea5f6ed9443bd84b9a]: Commencement: Reg. 16 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-496ba122e3480aea5f6ed9443bd84b9a]: Commencement: Reg. 16 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-ab7eeeccf10b0041eaf6680117cbe6b7]: Commencement: Sch. 1 Pt. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-ab7eeeccf10b0041eaf6680117cbe6b7]: Commencement: Sch. 1 Pt. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-e8d73429f71ac2a183128525296bd89d]: Textual amendment: Words in [Sch. 1 Pt. 1(b)](https://www.legislation.gov.uk/nisr/2007/187/schedule/1/part/I/b) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/4)
+[^c-e8d73429f71ac2a183128525296bd89d]: Textual amendment: Words in [Sch. 1 Pt. 1(b)](https://www.legislation.gov.uk/nisr/2007/187/schedule/1/part/I/b) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2018/200/schedule/2/paragraph/4)
 
-[^key-92f57d1913de1f7683d02163b5f82793]: Textual amendment: Word in [Sch. 1 Pt. 1(c)](https://www.legislation.gov.uk/nisr/2007/187/schedule/1/part/I/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 11(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/11/b)
+[^c-92f57d1913de1f7683d02163b5f82793]: Textual amendment: Word in [Sch. 1 Pt. 1(c)](https://www.legislation.gov.uk/nisr/2007/187/schedule/1/part/I/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 11(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/11/b)
 
-[^key-d2f1dc8f8c9261a9fe89e23113672355]: Textual amendment: Words in [Sch. 1 Pt.1(c)](https://www.legislation.gov.uk/nisr/2007/187/schedule/1/paragraph) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2f1dc8f8c9261a9fe89e23113672355]: Textual amendment: Words in [Sch. 1 Pt.1(c)](https://www.legislation.gov.uk/nisr/2007/187/schedule/1/paragraph) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0dad0e27c419d24e0d45fcfc9d8a2fae]: Commencement: Sch. 1 Pt. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-0dad0e27c419d24e0d45fcfc9d8a2fae]: Commencement: Sch. 1 Pt. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-6c04a017dd372dddabfaa7ce4f064207]: Commencement: Sch. 2 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-6c04a017dd372dddabfaa7ce4f064207]: Commencement: Sch. 2 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-ea1fc6e2b8c6ae32f91f1d988352ff35]: Commencement: Sch. 2 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-ea1fc6e2b8c6ae32f91f1d988352ff35]: Commencement: Sch. 2 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-832b73747be9aaa5edf34886f0ce0451]: Commencement: Sch. 3 Pt. 1 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-832b73747be9aaa5edf34886f0ce0451]: Commencement: Sch. 3 Pt. 1 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-36a897f5e5bac162c26a125f6d3c3c1b]: Commencement: Sch. 3 Pt. 1 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-36a897f5e5bac162c26a125f6d3c3c1b]: Commencement: Sch. 3 Pt. 1 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-29056506d60fe9998d77e56783a4b0e6]: Commencement: Sch. 3 Pt. 1 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-29056506d60fe9998d77e56783a4b0e6]: Commencement: Sch. 3 Pt. 1 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-e39017c03be7e893897028bcc56bb05c]: Commencement: Sch. 3 Pt. 1 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-e39017c03be7e893897028bcc56bb05c]: Commencement: Sch. 3 Pt. 1 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-04ed83e2c49aceed89a3b04471776fca]: Textual amendment: Word in [Sch. 3 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2007/187/schedule/3/part/I/paragraph/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 11(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/11/c)
+[^c-04ed83e2c49aceed89a3b04471776fca]: Textual amendment: Word in [Sch. 3 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2007/187/schedule/3/part/I/paragraph/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 11(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/11/c)
 
-[^key-f0d482a0d85c948fce1c6ff8bc619b1c]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2007/187/schedule/3/paragraph/4) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0d482a0d85c948fce1c6ff8bc619b1c]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2007/187/schedule/3/paragraph/4) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-33e6eda0166eed43f73889d55e17938e]: Commencement: Sch. 3 Pt. 1 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-33e6eda0166eed43f73889d55e17938e]: Commencement: Sch. 3 Pt. 1 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
 [^f01001]: Footnote: (001)
 
@@ -615,40 +615,40 @@ Copies of the Directive may be obtained from Her Majesty’s Stationery Office, 
 
     These values for concentration are annual means as referred to in Schedule 3, Part II, paragraph 4(c). However, the requirements for nitrogen may be checked using daily averages when it is proved, in accordance with Schedule 3, Part II, paragraph 1, that the same level of protection is obtained. In this case, the daily average must not exceed 20 mg/l of total nitrogen for all the samples when the temperature from the effluent in the biological reactor is superior or equal to 12 °C. The conditions concerning temperature could be replaced by a limitation on the time of operation to take account of regional climatic conditions.
 
-[^key-3ea84aeaa9f337c8ddf06572b43dff87]: Commencement: Sch. 3 Pt. 3 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-3ea84aeaa9f337c8ddf06572b43dff87]: Commencement: Sch. 3 Pt. 3 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-ba2075fa9c6faefd2d6a97e9bdc27f3a]: Commencement: Sch. 3 Pt. 3 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-ba2075fa9c6faefd2d6a97e9bdc27f3a]: Commencement: Sch. 3 Pt. 3 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-671e660fa3237b30380f2508711f7a7b]: Commencement: Sch. 3 Pt. 3 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-671e660fa3237b30380f2508711f7a7b]: Commencement: Sch. 3 Pt. 3 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-01e94a2d36e485678580ccca878684e9]: Commencement: Sch. 3 Pt. 3 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-01e94a2d36e485678580ccca878684e9]: Commencement: Sch. 3 Pt. 3 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-344fc7238f29ab85a2b1a1195449a124]: Commencement: Sch. 3 Pt. 3 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-344fc7238f29ab85a2b1a1195449a124]: Commencement: Sch. 3 Pt. 3 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-90b88987f03c57d222730a89b421057d]: Commencement: Sch. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-90b88987f03c57d222730a89b421057d]: Commencement: Sch. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-91ac50ba43eb8241b0ec6f180a11d4d2]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/nisr/2007/187/schedule/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 11(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/11/d)
+[^c-91ac50ba43eb8241b0ec6f180a11d4d2]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/nisr/2007/187/schedule/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 11(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/11/d)
 
-[^key-04c612ea1e7956fa2e79ff13253e4389]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2007/187/schedule/4) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-04c612ea1e7956fa2e79ff13253e4389]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisr/2007/187/schedule/4) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2019/112/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9684d99b21f999c6579de4fd1eacb42e]: Commencement: Sch. 5 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-9684d99b21f999c6579de4fd1eacb42e]: Commencement: Sch. 5 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-a26a77169eebb960cf6d191252d9676d]: Commencement: Sch. 5 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-a26a77169eebb960cf6d191252d9676d]: Commencement: Sch. 5 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-e2d03aa5022f438c0602a227c73da96b]: Commencement: Sch. 5 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-e2d03aa5022f438c0602a227c73da96b]: Commencement: Sch. 5 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-0d1df9b3b8f7b3485db49e0839c7a4e7]: Commencement: Sch. 5 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-0d1df9b3b8f7b3485db49e0839c7a4e7]: Commencement: Sch. 5 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-a07e9be06c7f3a28c4210cbe52584ae9]: Commencement: Sch. 5 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-a07e9be06c7f3a28c4210cbe52584ae9]: Commencement: Sch. 5 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-9bfd2f8b3d3b768874d97708f67c8984]: Commencement: Sch. 5 para. 6 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-9bfd2f8b3d3b768874d97708f67c8984]: Commencement: Sch. 5 para. 6 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-b478474a8cc29fc7169e6d77d80c1ba8]: Commencement: Sch. 5 para. 7 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-b478474a8cc29fc7169e6d77d80c1ba8]: Commencement: Sch. 5 para. 7 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-b0719f2e5bfce2d7d1a4345a346590b9]: Commencement: Sch. 5 para. 8 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-b0719f2e5bfce2d7d1a4345a346590b9]: Commencement: Sch. 5 para. 8 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-89525de829ca64aaedbf9eb8cf8b9d3e]: Commencement: Sch. 5 para. 9 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-89525de829ca64aaedbf9eb8cf8b9d3e]: Commencement: Sch. 5 para. 9 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-739597b3723c109036b407b7615ae872]: Commencement: Sch. 5 para. 10 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-739597b3723c109036b407b7615ae872]: Commencement: Sch. 5 para. 10 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
 
-[^key-cff0ee341edece9cba2db26dfa2b4643]: Commencement: Sch. 5 para. 11 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)
+[^c-cff0ee341edece9cba2db26dfa2b4643]: Commencement: Sch. 5 para. 11 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/187/regulation/1)

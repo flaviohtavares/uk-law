@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure makes the following Regulations in exercise of the powers conferred by sections 223(1), (9) and 247(1) of the Planning Act (Northern Ireland) 2011[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-111686dc61df1a161a120c36a8253ae1]
+## 1. Citation and commencement[^c-111686dc61df1a161a120c36a8253ae1]
 
 These Regulations may be cited as the Planning (Fees) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 1<sup>st</sup> April 2025.
 
-## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 2015[^key-cf05da783732155c3c82b1a4022fdb0b]
+## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 2015[^c-cf05da783732155c3c82b1a4022fdb0b]
 
 (1) The Planning (Fees) Regulations (Northern Ireland) 2015[^f00003] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -72,7 +72,7 @@ These Regulations may be cited as the Planning (Fees) (Amendment) Regulations (N
 - (b) for “£508” substitute “£518”; and
 - (c) for “£810” substitute “£827”.
 
-## 3. Revocations[^key-38e53b5bac0a9cad8747674f70589295]
+## 3. Revocations[^c-38e53b5bac0a9cad8747674f70589295]
 
 The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2024[^f00004] are revoked.
 
@@ -82,7 +82,7 @@ Rosemary Daly
 
 A senior officer of the Department for Infrastructure
 
-## SCHEDULE — SUBSTITUTION OF PART 2 OF SCHEDULE 1 TO THE PLANNING (FEES) REGULATIONS (NORTHERN IRELAND) 2015[^key-cdc78145281200ed3c97b1481e60055f]
+## SCHEDULE — SUBSTITUTION OF PART 2 OF SCHEDULE 1 TO THE PLANNING (FEES) REGULATIONS (NORTHERN IRELAND) 2015[^c-cdc78145281200ed3c97b1481e60055f]
 
 Regulation 2(6)(b)
 
@@ -118,14 +118,14 @@ The Explanatory Memorandum is available alongside the instrument on the Governme
 
 [^f00002]: Footnote: [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76) – see Article 8 and Part 2 of Schedule 5 of the Departments (Transfer of Functions) Order (Northern Ireland) 2016
 
-[^key-111686dc61df1a161a120c36a8253ae1]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1)
+[^c-111686dc61df1a161a120c36a8253ae1]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1)
 
-[^key-cf05da783732155c3c82b1a4022fdb0b]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1)
+[^c-cf05da783732155c3c82b1a4022fdb0b]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2015 No. 73](https://www.legislation.gov.uk/nisr/2015/73) as amended by [S.R. 2015 No. 398](https://www.legislation.gov.uk/nisr/2015/398) and [S.R. 2019 No. 112](https://www.legislation.gov.uk/nisr/2019/112) and [S.R. 2023 No. 37](https://www.legislation.gov.uk/nisr/2023/37) and [S.R. 2024 No. 108](https://www.legislation.gov.uk/nisr/2024/108)
 
-[^key-38e53b5bac0a9cad8747674f70589295]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1)
+[^c-38e53b5bac0a9cad8747674f70589295]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2024 No. 108](https://www.legislation.gov.uk/nisr/2024/108)
 
-[^key-cdc78145281200ed3c97b1481e60055f]: Commencement: Sch. in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1)
+[^c-cdc78145281200ed3c97b1481e60055f]: Commencement: Sch. in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/49/regulation/1)

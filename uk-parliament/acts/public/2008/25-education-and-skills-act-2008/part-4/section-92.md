@@ -16,34 +16,34 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Independent educational institutions (affected by repeal, see note) Independent educational institutions in England[^key-b0d377078fab59ba7ab3ef90f100f5ca][^key-5a79fa8f6c3769fcaffaaafaa9d98333][^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+## 92. Independent educational institutions (affected by repeal, see note) Independent educational institutions in England[^c-b0d377078fab59ba7ab3ef90f100f5ca][^c-5a79fa8f6c3769fcaffaaafaa9d98333][^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
 *Extent: E+W*
 
-(1)[^key-c5a2ef0e1e4486a973cc840288eafe74] For the purposes of this Chapter, “ *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]**an independent educational institution *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]**” means— *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+(1)[^c-c5a2ef0e1e4486a973cc840288eafe74] For the purposes of this Chapter, “ *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]**an independent educational institution *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]**” means— *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
-- (a) an independent school, or *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
-- (b) an institution other than an independent school which— *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
-  - (i) provides part-time education for one or more persons of compulsory school age (“part-time students”) whether or not it also provides full-time education for any person, and *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
-  - (ii (affected by repeal, see note))[^key-5a79fa8f6c3769fcaffaaafaa9d98333] would be an independent school but for the fact that the education provided for the part-time student or students is part-time rather than full-time. *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+- (a) an independent school, or *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
+- (b) an institution other than an independent school which— *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
+  - (i) provides part-time education for one or more persons of compulsory school age (“part-time students”) whether or not it also provides full-time education for any person, and *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
+  - (ii (affected by repeal, see note))[^c-5a79fa8f6c3769fcaffaaafaa9d98333] would be an independent school but for the fact that the education provided for the part-time student or students is part-time rather than full-time. *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
-(2) For the purposes of this section, an institution provides “part-time” education for a person if it provides education for the person— *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+(2) For the purposes of this section, an institution provides “part-time” education for a person if it provides education for the person— *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
-- (a) for at least 12.5 hours a week, for at least 28 weeks, during an academic year at the end of which the person is under the age of 12, or *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
-- (b) for at least 15 hours a week, for at least 28 weeks, during an academic year at the end of which the person is aged 12 or over, *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+- (a) for at least 12.5 hours a week, for at least 28 weeks, during an academic year at the end of which the person is under the age of 12, or *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
+- (b) for at least 15 hours a week, for at least 28 weeks, during an academic year at the end of which the person is aged 12 or over, *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
-which does not amount to full-time education. *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+which does not amount to full-time education. *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
-(3) Regulations may— *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+(3) Regulations may— *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
-- (a) provide that a specified institution or an institution of a specified description is not an independent educational institution by virtue of subsection (1)(b); *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
-- (b) provide that time spent on a specified activity or on an activity of a specified description is or is not to be treated as time during which education is being provided for the purposes of this section; *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
-- (c) amend subsection (2)(a) or (b) so as to substitute a different number of weeks for the number of weeks for the time being mentioned there. *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+- (a) provide that a specified institution or an institution of a specified description is not an independent educational institution by virtue of subsection (1)(b); *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
+- (b) provide that time spent on a specified activity or on an activity of a specified description is or is not to be treated as time during which education is being provided for the purposes of this section; *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
+- (c) amend subsection (2)(a) or (b) so as to substitute a different number of weeks for the number of weeks for the time being mentioned there. *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
-(4) In this section— *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+(4) In this section— *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
-- “**an academic year *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]**” means a period of 12 months ending with 31 August; *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
-- “**specified *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]**” means specified in regulations under this section. *(affected by repeal, see note)*[^key-5a79fa8f6c3769fcaffaaafaa9d98333]
+- “**an academic year *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]**” means a period of 12 months ending with 31 August; *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
+- “**specified *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]**” means specified in regulations under this section. *(affected by repeal, see note)*[^c-5a79fa8f6c3769fcaffaaafaa9d98333]
 
 (1) The following are independent educational institutions for the purposes of this Chapter—
 
@@ -92,8 +92,8 @@ which does not amount to full-time education. *(affected by repeal, see note)*[^
 
 ## Annotations
 
-[^key-b0d377078fab59ba7ab3ef90f100f5ca]: Commencement: S. 92 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
+[^c-b0d377078fab59ba7ab3ef90f100f5ca]: Commencement: S. 92 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
 
-[^key-5a79fa8f6c3769fcaffaaafaa9d98333]: Textual amendment: S. 92 substituted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/43/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-5a79fa8f6c3769fcaffaaafaa9d98333]: Textual amendment: S. 92 substituted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/43/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-c5a2ef0e1e4486a973cc840288eafe74]: Commencement: S. 92(1) in force at 1.9.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3)
+[^c-c5a2ef0e1e4486a973cc840288eafe74]: Commencement: S. 92(1) in force at 1.9.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Meaning of “savings income”[^key-d6f245019d264206c526c309b2c65502]
+## 18. Meaning of “savings income”[^c-d6f245019d264206c526c309b2c65502]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,12 +37,12 @@ summary: ''
 (4) Income is within this subsection if—
 
 - (a) it is chargeable under Chapter 9 of Part 4 of ITTOIA 2005 (gains from contracts for life insurance etc), and
-- (b) an individual is, or personal representatives or trustees[^key-2762d9cbeb1a371e3d575254b653352d] are, liable for income tax on it (under section 465 , 466 or 467[^key-c1e0cd9c9e96ff9014a6aeb30cca951f] of that Act).
+- (b) an individual is, or personal representatives or trustees[^c-2762d9cbeb1a371e3d575254b653352d] are, liable for income tax on it (under section 465 , 466 or 467[^c-c1e0cd9c9e96ff9014a6aeb30cca951f] of that Act).
 
 ## Annotations
 
-[^key-d6f245019d264206c526c309b2c65502]: Modification: S. 18 excluded by [Taxes Management Act 1970 (c. 9)](https://www.legislation.gov.uk/ukpga/1970/9), s. 18E(2)(b) (as inserted (with effect in accordance with s. 381(1)) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), s. 381(1), Sch. 7 para. 103 (with Sch. 9 paras. 1-9, 22))
+[^c-d6f245019d264206c526c309b2c65502]: Modification: S. 18 excluded by [Taxes Management Act 1970 (c. 9)](https://www.legislation.gov.uk/ukpga/1970/9), s. 18E(2)(b) (as inserted (with effect in accordance with s. 381(1)) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), s. 381(1), Sch. 7 para. 103 (with Sch. 9 paras. 1-9, 22))
 
-[^key-2762d9cbeb1a371e3d575254b653352d]: Textual amendment: Words in s. 18(4)(b) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/17/a)
+[^c-2762d9cbeb1a371e3d575254b653352d]: Textual amendment: Words in s. 18(4)(b) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/17/a)
 
-[^key-c1e0cd9c9e96ff9014a6aeb30cca951f]: Textual amendment: Words in s. 18(4)(b) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/17/b)
+[^c-c1e0cd9c9e96ff9014a6aeb30cca951f]: Textual amendment: Words in s. 18(4)(b) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/17/b)

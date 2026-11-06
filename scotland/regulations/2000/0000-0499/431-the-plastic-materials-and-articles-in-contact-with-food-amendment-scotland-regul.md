@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-The Plastic Materials and Articles in Contact with Food (Amendment) (Scotland) Regulations 2000 (revoked)[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+The Plastic Materials and Articles in Contact with Food (Amendment) (Scotland) Regulations 2000 (revoked)[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 Made
 
@@ -44,116 +44,116 @@ Coming into force
 
 31st December 2000
 
-[^key-6323066d66f4fe2bd308a1caa1b93ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6323066d66f4fe2bd308a1caa1b93ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 1. Citation, commencement and extent[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 2. Amendment of the principal Regulations[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 3.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 4.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 5.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 6.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 7.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 8.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 9.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 10.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 11.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 12.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## 13.[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6323066d66f4fe2bd308a1caa1b93ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6323066d66f4fe2bd308a1caa1b93ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## SCHEDULE 1[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 Regulation 10
 
-### PART I — LIST OF MONOMERS TO BE ADDED TO SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+### PART I — LIST OF MONOMERS TO BE ADDED TO SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — LIST OF MONOMERS IN SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS FOR WHICH THE CONTENT OF THE COLUMN “RESTRICTION AND SPECIFICATIONS” IS MODIFIED[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+### PART II — LIST OF MONOMERS IN SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS FOR WHICH THE CONTENT OF THE COLUMN “RESTRICTION AND SPECIFICATIONS” IS MODIFIED[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — LIST OF MONOMERS IN SECTION B OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS FOR WHICH THE CONTENT OF THE COLUMN “RESTRICTIONS AND SPECIFICATIONS” IS MODIFIED[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+### PART III — LIST OF MONOMERS IN SECTION B OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS FOR WHICH THE CONTENT OF THE COLUMN “RESTRICTIONS AND SPECIFICATIONS” IS MODIFIED[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — MONOMER TO BE ADDED TO SECTION B OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+### PART IV — MONOMER TO BE ADDED TO SECTION B OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — LIST OF MONOMERS TRANSFERRED FROM SECTION B TO SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+### PART V — LIST OF MONOMERS TRANSFERRED FROM SECTION B TO SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — LIST OF ADDITIVES TO BE INSERTED IN PART I OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## SCHEDULE 2 — LIST OF ADDITIVES TO BE INSERTED IN PART I OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 Regulation 11
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## SCHEDULE 3[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 Regulation 12
 
-[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+## SCHEDULE 4[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 Regulations 8 and 12
 
-[^key-6323066d66f4fe2bd308a1caa1b93ba1]
+[^c-6323066d66f4fe2bd308a1caa1b93ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6323066d66f4fe2bd308a1caa1b93ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6323066d66f4fe2bd308a1caa1b93ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6323066d66f4fe2bd308a1caa1b93ba1]: Textual amendment: Regulations revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2006 (S.S.I. 2006/314)](https://www.legislation.gov.uk/ssi/2006/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/314/regulation/1/1), [24(b)](https://www.legislation.gov.uk/ssi/2006/314/regulation/24/b)
+[^c-6323066d66f4fe2bd308a1caa1b93ba1]: Textual amendment: Regulations revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2006 (S.S.I. 2006/314)](https://www.legislation.gov.uk/ssi/2006/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/314/regulation/1/1), [24(b)](https://www.legislation.gov.uk/ssi/2006/314/regulation/24/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Detention after charge.[^c18891111][^key-79f942aa48f621d6996a1879232543d1]
+## 46. Detention after charge.[^c18891111][^c-79f942aa48f621d6996a1879232543d1]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ the designated officer[^c18891851] shall arrange for a magistrates’ court to s
 
 [^c18891111]: Modification: S. 46 excluded (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 88(2)](https://www.legislation.gov.uk/ukpga/2003/44/section/88/2), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/5) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as amended by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), [art. 2](https://www.legislation.gov.uk/uksi/2005/2122/article/2))
 
-[^key-79f942aa48f621d6996a1879232543d1]: Modification: S. 46 applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
+[^c-79f942aa48f621d6996a1879232543d1]: Modification: S. 46 applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
 
 [^c18891261]: Textual amendment: Words in s. 46(2) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 282(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/282/2); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 

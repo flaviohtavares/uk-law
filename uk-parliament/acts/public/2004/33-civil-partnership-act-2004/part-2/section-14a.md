@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Notice of proposed civil partnership: false information or evidence[^key-e23fa776f2cc18e7451ee943133a8012]
+## 14A. Notice of proposed civil partnership: false information or evidence[^c-e23fa776f2cc18e7451ee943133a8012]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e23fa776f2cc18e7451ee943133a8012]: Textual amendment: S. 14A inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/2) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-e23fa776f2cc18e7451ee943133a8012]: Textual amendment: S. 14A inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 26(2)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/26/2) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)

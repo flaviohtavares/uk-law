@@ -48,7 +48,7 @@ plus, in either case, if the member had made an additional pension election unde
 (8) If paragraph (7) applies—
 
 - (a) the annual amount of the pension payable under regulation 112 is equal to the guaranteed minimum pension; but
-- (b)[^key-b2b18960659abad7def3326b738a3e17] sub-paragraph (a) does not apply if—
+- (b)[^c-b2b18960659abad7def3326b738a3e17] sub-paragraph (a) does not apply if—
   - (i) the Scottish Ministers’ liability to provide a guaranteed minimum pension in respect of the surviving adult dependent is discharged by the payment of a contributions equivalent premium under section 55(2) of the 1993 Act; or
   - (ii) a surviving widow, widower or civil partner has been convicted of an offence specified in paragraph 12 of schedule 3 and the Scottish Ministers directed, as a consequence of that conviction, that the person’s rights to a payment in respect of the member’s death is forfeit.
 
@@ -65,4 +65,4 @@ plus, in either case, if the member had made an additional pension election unde
 
 ## Annotations
 
-[^key-b2b18960659abad7def3326b738a3e17]: Textual amendment: [Reg. 114(8)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/114/8/b) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2017/28/regulation/14)
+[^c-b2b18960659abad7def3326b738a3e17]: Textual amendment: [Reg. 114(8)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/114/8/b) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2017/28/regulation/14)

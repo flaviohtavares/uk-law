@@ -29,7 +29,7 @@ Section 160.
 - (a) is a day of incapacity for work in relation to any contract of service; and
 - (b) falls within a period of entitlement (whether or not it is also a qualifying day),
 
-shall not be treated for the purposes of this Act as a day of incapacity for work for the purposes of determining whether a period is [^key-a7ec14b6a6ab523d7bd5fd48ba919a3b]... a period of incapacity for work for the purposes of incapacity benefit[^key-205303740e0d71ca0dadc686ff8bf5cd].
+shall not be treated for the purposes of this Act as a day of incapacity for work for the purposes of determining whether a period is [^c-a7ec14b6a6ab523d7bd5fd48ba919a3b]... a period of incapacity for work for the purposes of incapacity benefit[^c-205303740e0d71ca0dadc686ff8bf5cd].
 
 ### Contractual remuneration
 
@@ -72,9 +72,9 @@ that day shall, except in prescribed cases, be or form part of a period of incap
 
 ## Annotations
 
-[^key-a7ec14b6a6ab523d7bd5fd48ba919a3b]: Textual amendment: Words in Sch. 12 para. 1 repealed (7.10.1996) by [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [s. 41(2)](https://www.legislation.gov.uk/ukpga/1994/18/section/41/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/18/schedule/3); [S.I. 1996/2208](https://www.legislation.gov.uk/uksi/1996/2208), [art. 2(b)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/b)
+[^c-a7ec14b6a6ab523d7bd5fd48ba919a3b]: Textual amendment: Words in Sch. 12 para. 1 repealed (7.10.1996) by [Jobseekers Act 1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), [s. 41(2)](https://www.legislation.gov.uk/ukpga/1994/18/section/41/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/18/schedule/3); [S.I. 1996/2208](https://www.legislation.gov.uk/uksi/1996/2208), [art. 2(b)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/b)
 
-[^key-205303740e0d71ca0dadc686ff8bf5cd]: Textual amendment: Words in Sch. 12 para. 1 inserted (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3), [Sch. 1 para. 44(2)](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1/paragraph/44/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
+[^c-205303740e0d71ca0dadc686ff8bf5cd]: Textual amendment: Words in Sch. 12 para. 1 inserted (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3), [Sch. 1 para. 44(2)](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1/paragraph/44/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
 
 [^M_F_14f4abc4-e5fb-4de2-e71e-4364b52c8053]: Textual amendment: Sch. 12 paras. 3, 4 and cross-heading substituted (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3), [Sch. 1 para. 44(3)](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1/paragraph/44/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33B. Acceptable forms of payment: meaning of “bank or building society account”[^key-ee0cf2ceca1217fda6cca60c7dffa60e]
+## 33B. Acceptable forms of payment: meaning of “bank or building society account”[^c-ee0cf2ceca1217fda6cca60c7dffa60e]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee0cf2ceca1217fda6cca60c7dffa60e]: Textual amendment: S. 33A - S. 33B inserted (1.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 69](https://www.legislation.gov.uk/asp/2015/10/section/69), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)
+[^c-ee0cf2ceca1217fda6cca60c7dffa60e]: Textual amendment: S. 33A - S. 33B inserted (1.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 69](https://www.legislation.gov.uk/asp/2015/10/section/69), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)

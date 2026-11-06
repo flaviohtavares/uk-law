@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 11 — Amendments[^key-f63c80a43c296ab662fc98491d25ecd7]
+## SCHEDULE 11 — Amendments[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 *Extent: S*
 
@@ -24,24 +24,24 @@ summary: ''
 
 Regulation 58
 
-### 1. Amendments to the Town and Country Planning (Scotland) Act 1997[^key-f63c80a43c296ab662fc98491d25ecd7]
+### 1. Amendments to the Town and Country Planning (Scotland) Act 1997[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendments to the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^key-f63c80a43c296ab662fc98491d25ecd7]
+### 2. Amendments to the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment to the Environmental Impact Assessment (Scotland) Regulations 1999[^key-f63c80a43c296ab662fc98491d25ecd7]
+### 3. Amendment to the Environmental Impact Assessment (Scotland) Regulations 1999[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f63c80a43c296ab662fc98491d25ecd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Savings Provision[^key-f63c80a43c296ab662fc98491d25ecd7]
+### 5. Savings Provision[^c-f63c80a43c296ab662fc98491d25ecd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f63c80a43c296ab662fc98491d25ecd7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/209) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f63c80a43c296ab662fc98491d25ecd7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/209) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

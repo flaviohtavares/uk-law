@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65A. Temporary certified direct access instructors[^key-fc4e48ff8a488683248032ca2dc87432]
+## 65A. Temporary certified direct access instructors[^c-fc4e48ff8a488683248032ca2dc87432]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc4e48ff8a488683248032ca2dc87432]: Textual amendment: [Reg. 65A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/65A) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 4(8)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/4/8)
+[^c-fc4e48ff8a488683248032ca2dc87432]: Textual amendment: [Reg. 65A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/65A) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 4(8)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/4/8)

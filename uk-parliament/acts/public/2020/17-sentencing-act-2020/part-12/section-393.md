@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 393. Power of magistrates' court to dispense with recognizance[^key-7ee07f24e7071a7b35fb7f112041a9c9]
+## 393. Power of magistrates' court to dispense with recognizance[^c-7ee07f24e7071a7b35fb7f112041a9c9]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ee07f24e7071a7b35fb7f112041a9c9]: Commencement: S. 393 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7ee07f24e7071a7b35fb7f112041a9c9]: Commencement: S. 393 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

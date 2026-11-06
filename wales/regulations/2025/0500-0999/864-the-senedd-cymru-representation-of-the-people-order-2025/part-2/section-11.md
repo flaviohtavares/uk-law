@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Electors’ signatures and use of personal identifier information[^key-1d3802c0722555ec644f7c048ea6c9c1]
+## 11. Electors’ signatures and use of personal identifier information[^c-1d3802c0722555ec644f7c048ea6c9c1]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1d3802c0722555ec644f7c048ea6c9c1]: Commencement: Art. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-1d3802c0722555ec644f7c048ea6c9c1]: Commencement: Art. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00032]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 

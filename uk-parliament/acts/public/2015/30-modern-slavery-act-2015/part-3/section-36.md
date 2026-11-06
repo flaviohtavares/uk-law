@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Enforcement powers in relation to ships: Scotland[^key-145d0f15ffdb3ae2350f34b34e21c006]
+## 36. Enforcement powers in relation to ships: Scotland[^c-145d0f15ffdb3ae2350f34b34e21c006]
 
 *Extent: S*
 
@@ -48,11 +48,11 @@ summary: ''
 
 (8) For the purposes of subsection (2)(a), “**listed offence**” means an offence under—
 
-- (a)[^key-b772cd751b2eb01dce70745454689e0b] section 1 of the Human Trafficking and Exploitation (Scotland) Act [2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12) (offence of human trafficking);
+- (a)[^c-b772cd751b2eb01dce70745454689e0b] section 1 of the Human Trafficking and Exploitation (Scotland) Act [2015 (asp 12)](https://www.legislation.gov.uk/asp/2015/12) (offence of human trafficking);
 - (b) section 4 of that Act (slavery, servitude and forced or compulsory labour).
 
 ## Annotations
 
-[^key-145d0f15ffdb3ae2350f34b34e21c006]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2015/30/section/36) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/b)
+[^c-145d0f15ffdb3ae2350f34b34e21c006]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2015/30/section/36) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/b)
 
-[^key-b772cd751b2eb01dce70745454689e0b]: Textual amendment: [S. 36(8)(a)](https://www.legislation.gov.uk/ukpga/2015/30/section/36/8/a)[(b)](https://www.legislation.gov.uk/ukpga/2015/30/section/36/8/b) substituted for s. 36(8)(a)-(c) (17.12.2016) by [The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031)](https://www.legislation.gov.uk/uksi/2016/1031), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/1031/article/1/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2016/1031/schedule/paragraph/3/3) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2016/1031/article/4/4))
+[^c-b772cd751b2eb01dce70745454689e0b]: Textual amendment: [S. 36(8)(a)](https://www.legislation.gov.uk/ukpga/2015/30/section/36/8/a)[(b)](https://www.legislation.gov.uk/ukpga/2015/30/section/36/8/b) substituted for s. 36(8)(a)-(c) (17.12.2016) by [The Human Trafficking and Exploitation (Scotland) Act 2015 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1031)](https://www.legislation.gov.uk/uksi/2016/1031), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/1031/article/1/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2016/1031/schedule/paragraph/3/3) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2016/1031/article/4/4))

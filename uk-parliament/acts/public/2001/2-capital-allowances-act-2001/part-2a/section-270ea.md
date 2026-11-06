@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270EA. Proportionate adjustment in certain cases[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+## 270EA. Proportionate adjustment in certain cases[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ the allowance is proportionately reduced.
 
 ## Annotations
 
-[^key-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
+[^c-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
 
 [^M_F_a3a32353-80eb-4100-904d-45b15e125bcf]: Textual amendment: Word in s. 270EA(3)(a) substituted (1.4.2020 for corporation tax purposes and 6.4.2020 for income tax purposes) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 29(3)(a)(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/29/3/a) (with [s. 29(7)](https://www.legislation.gov.uk/ukpga/2020/14/section/29/7))
 

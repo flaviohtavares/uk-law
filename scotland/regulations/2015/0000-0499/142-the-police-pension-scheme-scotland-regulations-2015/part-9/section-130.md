@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Annual rate of surviving adult’s pensions payable on death of deferred member[^key-312eb3523c04bd17743833f069f6bd53]
+## 130. Annual rate of surviving adult’s pensions payable on death of deferred member[^c-312eb3523c04bd17743833f069f6bd53]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-312eb3523c04bd17743833f069f6bd53]: Commencement: Reg. 130 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-312eb3523c04bd17743833f069f6bd53]: Commencement: Reg. 130 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

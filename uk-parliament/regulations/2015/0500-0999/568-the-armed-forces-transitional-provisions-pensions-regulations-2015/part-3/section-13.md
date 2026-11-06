@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Insertion of new Schedule into the AFPS Order 2005[^key-4ab71f8f231a2a47568b0c4a6d14e205]
+## 13. Insertion of new Schedule into the AFPS Order 2005[^c-4ab71f8f231a2a47568b0c4a6d14e205]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The AFPS Order 2005 is amended by the insertion after Schedule 1 to the new Sche
 
 ## Annotations
 
-[^key-4ab71f8f231a2a47568b0c4a6d14e205]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-4ab71f8f231a2a47568b0c4a6d14e205]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00016]: Footnote: The former Schedule 2 to the AFPS Order 2005 was revoked by [S.I. 2006/717](https://www.legislation.gov.uk/uksi/2006/717).

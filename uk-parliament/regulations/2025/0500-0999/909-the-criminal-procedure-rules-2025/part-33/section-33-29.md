@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.29. Appeal about property detention decision[^key-2336b2a8157bee2537b6cf3eea272a1a]
+## 33.29. Appeal about property detention decision[^c-2336b2a8157bee2537b6cf3eea272a1a]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2336b2a8157bee2537b6cf3eea272a1a]: Commencement: [Rule 33.29](https://www.legislation.gov.uk/uksi/2025/909/rule/33.29) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2336b2a8157bee2537b6cf3eea272a1a]: Commencement: [Rule 33.29](https://www.legislation.gov.uk/uksi/2025/909/rule/33.29) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00834]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 47O was inserted by section 55 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19B. Prices determined in accordance with law[^key-034fc8e0c3fd3a42656a30ead6e16a26]
+## 19B. Prices determined in accordance with law[^c-034fc8e0c3fd3a42656a30ead6e16a26]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-034fc8e0c3fd3a42656a30ead6e16a26]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/3) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/420/regulation/24)
+[^c-034fc8e0c3fd3a42656a30ead6e16a26]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3337/part/3/chapter/3) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/420/regulation/24)

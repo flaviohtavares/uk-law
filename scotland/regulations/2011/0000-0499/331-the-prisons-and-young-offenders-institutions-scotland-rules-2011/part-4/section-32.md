@@ -24,9 +24,9 @@ summary: ''
 
 (2) Paragraph (1) does not apply if—
 
-- (a) the prisoner has received a punishment under rule 114(1)(e); [^key-dacf39150cae34bc4150e6059eca2a88]...
-- (b) the Governor has ordered the prisoner to wear other appropriate clothing for any of the reasons specified in paragraph (4) or[^key-165f47e7ff4c8351a65d77810c10a9b8]
-- (c)[^key-17eefc5c88ca4ded5e6376676817332e] the Governor has ordered the prisoner to wear other appropriate clothing so as to comply with the terms of a direction made under paragraph (5).
+- (a) the prisoner has received a punishment under rule 114(1)(e); [^c-dacf39150cae34bc4150e6059eca2a88]...
+- (b) the Governor has ordered the prisoner to wear other appropriate clothing for any of the reasons specified in paragraph (4) or[^c-165f47e7ff4c8351a65d77810c10a9b8]
+- (c)[^c-17eefc5c88ca4ded5e6376676817332e] the Governor has ordered the prisoner to wear other appropriate clothing so as to comply with the terms of a direction made under paragraph (5).
 
 (3) The Governor may revoke any order under paragraph 2(b) when it is appropriate to do so.
 
@@ -39,9 +39,9 @@ summary: ''
 - (b) the Governor receives advice from a healthcare professional that—
   - (i) the prisoner's clothing is prejudicial to the prisoner's health; or
   - (ii) special clothing is required on health grounds;
-- (c) special or protective clothing is required for particular work or activities being undertaken by the prisoner or[^key-e116698441d257442ee4f6115dec380b];
-- (d) particular clothing is or may be required for the purposes of legal proceedings.[^key-4d70ac41a403e3416e543d02d1364c69]
-- (e)[^key-2402acfd4ea409f77d0cd6db064ea258] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) special or protective clothing is required for particular work or activities being undertaken by the prisoner or[^c-e116698441d257442ee4f6115dec380b];
+- (d) particular clothing is or may be required for the purposes of legal proceedings.[^c-4d70ac41a403e3416e543d02d1364c69]
+- (e)[^c-2402acfd4ea409f77d0cd6db064ea258] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The Scottish Ministers may make a direction for the purposes of specifying—
 
@@ -52,14 +52,14 @@ summary: ''
 
 ## Annotations
 
-[^key-dacf39150cae34bc4150e6059eca2a88]: Textual amendment: Word in rule 32(2)(a) omitted (19.3.2012) by virtue of [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/a)
+[^c-dacf39150cae34bc4150e6059eca2a88]: Textual amendment: Word in rule 32(2)(a) omitted (19.3.2012) by virtue of [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/a)
 
-[^key-165f47e7ff4c8351a65d77810c10a9b8]: Textual amendment: Word in rule 32(2)(b) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/b)
+[^c-165f47e7ff4c8351a65d77810c10a9b8]: Textual amendment: Word in rule 32(2)(b) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/b)
 
-[^key-17eefc5c88ca4ded5e6376676817332e]: Textual amendment: Rule 32(2)(c) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(c)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/c)
+[^c-17eefc5c88ca4ded5e6376676817332e]: Textual amendment: Rule 32(2)(c) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(c)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/c)
 
-[^key-e116698441d257442ee4f6115dec380b]: Textual amendment: Word in rule 32(4)(c) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(d)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/d)
+[^c-e116698441d257442ee4f6115dec380b]: Textual amendment: Word in rule 32(4)(c) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(d)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/d)
 
-[^key-4d70ac41a403e3416e543d02d1364c69]: Textual amendment: Word in rule 32(4)(d) substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(e)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/e)
+[^c-4d70ac41a403e3416e543d02d1364c69]: Textual amendment: Word in rule 32(4)(d) substituted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(e)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/e)
 
-[^key-2402acfd4ea409f77d0cd6db064ea258]: Textual amendment: Rule 32(4)(e) revoked (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(f)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/f)
+[^c-2402acfd4ea409f77d0cd6db064ea258]: Textual amendment: Rule 32(4)(e) revoked (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(7)(f)](https://www.legislation.gov.uk/ssi/2012/26/article/2/7/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Possession of prohibited images of children[^key-2de87faf6c5228fcb97aa030b1c96ca1]
+## 62. Possession of prohibited images of children[^c-2de87faf6c5228fcb97aa030b1c96ca1]
 
 *Extent: E+W+N.I.*
 
@@ -65,4 +65,4 @@ the image may, by virtue of being part of that narrative, be found not to be por
 
 ## Annotations
 
-[^key-2de87faf6c5228fcb97aa030b1c96ca1]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2009/25/section/62) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)
+[^c-2de87faf6c5228fcb97aa030b1c96ca1]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2009/25/section/62) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Ecclesiastical Law, England And Wales
 
-The Grants to the Churches Conservation Trust Order 2021 (revoked)[^key-1a1bbda4b114c03470c1ddd7a87710f9]
+The Grants to the Churches Conservation Trust Order 2021 (revoked)[^c-1a1bbda4b114c03470c1ddd7a87710f9]
 
 Made
 
@@ -42,30 +42,30 @@ Coming into force
 
 1st April 2021
 
-[^key-1a1bbda4b114c03470c1ddd7a87710f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a1bbda4b114c03470c1ddd7a87710f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1a1bbda4b114c03470c1ddd7a87710f9]
+## 1. Citation and commencement[^c-1a1bbda4b114c03470c1ddd7a87710f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Period for grants to the Churches Conservation Trust[^key-1a1bbda4b114c03470c1ddd7a87710f9]
+## 2. Period for grants to the Churches Conservation Trust[^c-1a1bbda4b114c03470c1ddd7a87710f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Aggregate amount of grants[^key-1a1bbda4b114c03470c1ddd7a87710f9]
+## 3. Aggregate amount of grants[^c-1a1bbda4b114c03470c1ddd7a87710f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of previous Order[^key-1a1bbda4b114c03470c1ddd7a87710f9]
+## 4. Revocation of previous Order[^c-1a1bbda4b114c03470c1ddd7a87710f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a1bbda4b114c03470c1ddd7a87710f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a1bbda4b114c03470c1ddd7a87710f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a1bbda4b114c03470c1ddd7a87710f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a1bbda4b114c03470c1ddd7a87710f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a1bbda4b114c03470c1ddd7a87710f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/409) revoked (1.4.2022) by [The Grants to the Churches Conservation Trust Order 2022 (S.I. 2022/408)](https://www.legislation.gov.uk/uksi/2022/408), [arts. 1](https://www.legislation.gov.uk/uksi/2022/408/article/1), [4](https://www.legislation.gov.uk/uksi/2022/408/article/4)
+[^c-1a1bbda4b114c03470c1ddd7a87710f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/409) revoked (1.4.2022) by [The Grants to the Churches Conservation Trust Order 2022 (S.I. 2022/408)](https://www.legislation.gov.uk/uksi/2022/408), [arts. 1](https://www.legislation.gov.uk/uksi/2022/408/article/1), [4](https://www.legislation.gov.uk/uksi/2022/408/article/4)

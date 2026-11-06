@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Amount of the grant for travel[^key-af62f1dd98e1ecf1815c56bb99841d42]
+## 33. Amount of the grant for travel[^c-af62f1dd98e1ecf1815c56bb99841d42]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af62f1dd98e1ecf1815c56bb99841d42]: Commencement: Reg. 33 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-af62f1dd98e1ecf1815c56bb99841d42]: Commencement: Reg. 33 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Extinguishment of navigation rights etc. in the Aire and Calder Navigation[^key-dfa8c5bf1c3ed994c74a2ec48867cb59]
+## 17. Extinguishment of navigation rights etc. in the Aire and Calder Navigation[^c-dfa8c5bf1c3ed994c74a2ec48867cb59]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfa8c5bf1c3ed994c74a2ec48867cb59]: Commencement: Art. 17 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-dfa8c5bf1c3ed994c74a2ec48867cb59]: Commencement: Art. 17 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
 
 [^f00021]: Footnote: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).

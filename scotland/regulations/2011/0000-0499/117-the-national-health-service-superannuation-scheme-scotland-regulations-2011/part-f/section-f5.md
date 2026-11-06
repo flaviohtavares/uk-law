@@ -77,7 +77,7 @@ but is not entitled to specify one or more persons referred to in sub-paragraph�
 
 (11) In paragraph (10), “**the specified amount**” means £5,000 or any higher amount specified in an order made under section 6(1) of the Administration of Estates (Small Payments) Act 1965 [^c21042031] as the amount to be treated as substituted for references to £500 in section 1 of that Act.
 
-(12)[^key-9b5747b6b7c4bf57883ac7fd57474a7e] In this regulation “surviving partner” means—
+(12)[^c-9b5747b6b7c4bf57883ac7fd57474a7e] In this regulation “surviving partner” means—
 
 - (a) a surviving scheme partner; or
 - (b) one of the following, who survives the member—
@@ -91,4 +91,4 @@ but is not entitled to specify one or more persons referred to in sub-paragraph�
 
 [^c21042031]: Marginal citation: [1965 c. 32](https://www.legislation.gov.uk/ukpga/1965/32).
 
-[^key-9b5747b6b7c4bf57883ac7fd57474a7e]: Textual amendment: [Reg. F5(12)](https://www.legislation.gov.uk/ssi/2011/117/regulation/F5/12) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2021/102/regulation/5)
+[^c-9b5747b6b7c4bf57883ac7fd57474a7e]: Textual amendment: [Reg. F5(12)](https://www.legislation.gov.uk/ssi/2011/117/regulation/F5/12) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2021/102/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. 1991 Act tenancies: rent review[^key-7e1129561f1cf0ebe0378f7c6d43ef24]
+## 101. 1991 Act tenancies: rent review[^c-7e1129561f1cf0ebe0378f7c6d43ef24]
 
 *Extent: S*
 
@@ -234,4 +234,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e1129561f1cf0ebe0378f7c6d43ef24]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2016/18/section/101) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-7e1129561f1cf0ebe0378f7c6d43ef24]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2016/18/section/101) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

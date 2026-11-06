@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-3f7f08bf4ed7be652cee2a9813d87933]
+Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-3f7f08bf4ed7be652cee2a9813d87933]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 1st April 2000
 
-[^key-3f7f08bf4ed7be652cee2a9813d87933]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f7f08bf4ed7be652cee2a9813d87933]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3f7f08bf4ed7be652cee2a9813d87933]
+## 1. Citation and commencement[^c-3f7f08bf4ed7be652cee2a9813d87933]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas Regulations 1997[^key-3f7f08bf4ed7be652cee2a9813d87933]
+## 2. Amendment of the Dairy Produce Quotas Regulations 1997[^c-3f7f08bf4ed7be652cee2a9813d87933]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3f7f08bf4ed7be652cee2a9813d87933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f7f08bf4ed7be652cee2a9813d87933]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f7f08bf4ed7be652cee2a9813d87933]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3f7f08bf4ed7be652cee2a9813d87933]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f7f08bf4ed7be652cee2a9813d87933]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3f7f08bf4ed7be652cee2a9813d87933]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/83) revoked (31.3.2002) by [Dairy Produce Quotas Regulations (Northern Ireland) 2002 (S.R. 2002/88)](https://www.legislation.gov.uk/nisr/2002/88), [regs. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1), [35](https://www.legislation.gov.uk/nisr/2002/88/regulation/35), [Sch. 4](https://www.legislation.gov.uk/nisr/2002/88/schedule/4)
+[^c-3f7f08bf4ed7be652cee2a9813d87933]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/83) revoked (31.3.2002) by [Dairy Produce Quotas Regulations (Northern Ireland) 2002 (S.R. 2002/88)](https://www.legislation.gov.uk/nisr/2002/88), [regs. 1](https://www.legislation.gov.uk/nisr/2002/88/regulation/1), [35](https://www.legislation.gov.uk/nisr/2002/88/regulation/35), [Sch. 4](https://www.legislation.gov.uk/nisr/2002/88/schedule/4)

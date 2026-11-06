@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Transitional provision[^key-3cbdabca961ac236a92d0ceec9595f93]
+## 177. Transitional provision[^c-3cbdabca961ac236a92d0ceec9595f93]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cbdabca961ac236a92d0ceec9595f93]: Commencement: S. 177 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-3cbdabca961ac236a92d0ceec9595f93]: Commencement: S. 177 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

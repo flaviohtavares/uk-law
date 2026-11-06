@@ -28,7 +28,7 @@ In this Act—
 - “**the Consequential Provisions Act**” means the [^c21369731]Social Security (Consequential Provisions) Act 1992;
 - “**the Northern Ireland Contributions and Benefits Act**” [^c21369741]means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - “**the Old Cases Act**” means the [^c21369751]Industrial Injuries and Diseases (Old Cases) Act 1975; and
-- “**the Pensions Act**” means the Pension Schemes Act 1993[^key-58dbeb0fe83a394a6673c57acaea48a2].
+- “**the Pensions Act**” means the Pension Schemes Act 1993[^c-58dbeb0fe83a394a6673c57acaea48a2].
 
 ## Annotations
 
@@ -44,4 +44,4 @@ In this Act—
 
 [^c21369751]: Marginal citation: [1975 c.16](https://www.legislation.gov.uk/ukpga/1975/16).
 
-[^key-58dbeb0fe83a394a6673c57acaea48a2]: Textual amendment: Words in s. 174 substituted (7.2.1994) by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2), [Sch. 8 para. 41](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/41) (with [s. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189), [Schs. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6), [9](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86)
+[^c-58dbeb0fe83a394a6673c57acaea48a2]: Textual amendment: Words in s. 174 substituted (7.2.1994) by [Pension Schemes Act 1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48), [s. 193(2)](https://www.legislation.gov.uk/ukpga/1993/48/section/193/2), [Sch. 8 para. 41](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/41) (with [s. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189), [Schs. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6), [9](https://www.legislation.gov.uk/ukpga/1993/48/schedule/9)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86)

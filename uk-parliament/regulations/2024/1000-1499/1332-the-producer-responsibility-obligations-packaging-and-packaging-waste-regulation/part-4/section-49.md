@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Withdrawal of approval of a compliance scheme[^key-75bfe4b5491763916002f812704c999a]
+## 49. Withdrawal of approval of a compliance scheme[^c-75bfe4b5491763916002f812704c999a]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75bfe4b5491763916002f812704c999a]: Commencement: Reg. 49 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-75bfe4b5491763916002f812704c999a]: Commencement: Reg. 49 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Enforcement notice to have effect against subsequent development.[^c14022941][^key-3dbf5740c70c6d9488d3668ba201d8c2][^key-c1a0a56e43c51ca61f628f7d94fc2f60][^c14022931]
+## 181. Enforcement notice to have effect against subsequent development.[^c14022941][^c-3dbf5740c70c6d9488d3668ba201d8c2][^c-c1a0a56e43c51ca61f628f7d94fc2f60][^c14022931]
 
 *Extent: E+W*
 
@@ -52,9 +52,9 @@ the local planning authority shall, not less than 28 days before taking any such
 
     S. 181: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(a)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/a); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-3dbf5740c70c6d9488d3668ba201d8c2]: Modification: Ss. 178-181 applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/627/regulation/15), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-3dbf5740c70c6d9488d3668ba201d8c2]: Modification: Ss. 178-181 applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/627/regulation/15), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-c1a0a56e43c51ca61f628f7d94fc2f60]: Modification: Ss. 178-181 applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [18](https://www.legislation.gov.uk/wsi/2015/1597/regulation/18), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/2) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+[^c-c1a0a56e43c51ca61f628f7d94fc2f60]: Modification: Ss. 178-181 applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [18](https://www.legislation.gov.uk/wsi/2015/1597/regulation/18), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/2) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
 
 [^c14022931]: Modification: S. 181: power to modify conferred (11.3.1992 so far as to confer on the Secretary of State a power or impose on him a duty to make regulations, or make provision with respect to the exercise of any such power or duty, 1.6.1992 so far not already in force) by [Planning (Hazardous Substances) Act 1990 (c. 10, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/10), [s. 25(1)(c)](https://www.legislation.gov.uk/ukpga/1990/10/section/25/1/c); [S.I. 1992/725](https://www.legislation.gov.uk/uksi/1992/725), [arts. 2](https://www.legislation.gov.uk/uksi/1992/725/article/2), [3](https://www.legislation.gov.uk/uksi/1992/725/article/3)
 

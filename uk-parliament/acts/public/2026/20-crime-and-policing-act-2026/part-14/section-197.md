@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Accelerated investigation procedure in respect of criminal conduct[^key-66f1a01ce373d68d163895d008fc2554][^key-0abba4c904807e2655f372edd5e3284e]
+## 197. Accelerated investigation procedure in respect of criminal conduct[^c-66f1a01ce373d68d163895d008fc2554][^c-0abba4c904807e2655f372edd5e3284e]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ Here, “the appropriate authority” and “the Director General” have the me
 
 ## Annotations
 
-[^key-66f1a01ce373d68d163895d008fc2554]: Commencement: S. 197 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-66f1a01ce373d68d163895d008fc2554]: Commencement: S. 197 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0abba4c904807e2655f372edd5e3284e]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2026/20/section/197) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/c)
+[^c-0abba4c904807e2655f372edd5e3284e]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2026/20/section/197) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/c)

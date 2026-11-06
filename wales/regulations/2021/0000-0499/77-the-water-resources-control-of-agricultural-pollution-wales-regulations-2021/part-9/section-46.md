@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Offences and penalties[^key-d2b53e4c24b5935f8f2cf4c8fa045aad]
+## 46. Offences and penalties[^c-d2b53e4c24b5935f8f2cf4c8fa045aad]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ that person, as well as the body corporate, is guilty of the offence and liable 
 
 ## Annotations
 
-[^key-d2b53e4c24b5935f8f2cf4c8fa045aad]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2021/77/regulation/46) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-d2b53e4c24b5935f8f2cf4c8fa045aad]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2021/77/regulation/46) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

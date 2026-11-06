@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Right to require leaseback by freeholder after collective enfranchisement[^key-f1c7c54aea4685f6cbf52fa50e01a730]
+## 32. Right to require leaseback by freeholder after collective enfranchisement[^c-f1c7c54aea4685f6cbf52fa50e01a730]
 
 *Extent: E+W*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1c7c54aea4685f6cbf52fa50e01a730]: Commencement: S. 32 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f1c7c54aea4685f6cbf52fa50e01a730]: Commencement: S. 32 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

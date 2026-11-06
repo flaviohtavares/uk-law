@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Defence to proceedings in respect of statutory nuisance[^key-2c4e5840d8f8cf1d5c59dc08aac21826]
+## 31. Defence to proceedings in respect of statutory nuisance[^c-2c4e5840d8f8cf1d5c59dc08aac21826]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ do not apply where the consent relates to the use of premises by the Council for
 
 ## Annotations
 
-[^key-2c4e5840d8f8cf1d5c59dc08aac21826]: Commencement: Art. 31 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-2c4e5840d8f8cf1d5c59dc08aac21826]: Commencement: Art. 31 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
 
 [^f00020]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

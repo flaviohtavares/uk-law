@@ -48,7 +48,7 @@ In accordance with paragraph 2(2) of schedule 2 of the European Communities Act 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement and extent[^key-6dae4dd89909fced64fb4ed55ddf170c]
+### 1. Citation and commencement and extent[^c-6dae4dd89909fced64fb4ed55ddf170c]
 
 (1) These Regulations may be cited as the INSPIRE (EU Exit) (Scotland) (Amendment) Regulations 2019.
 
@@ -61,17 +61,17 @@ In accordance with paragraph 2(2) of schedule 2 of the European Communities Act 
 
 ## PART 2 — Amendment to subordinate legislation to update a reference to an EU instrument
 
-### 2. Amendment of the INSPIRE (Scotland) Regulations 2009[^key-d8a49f2ae296c7ba9cf372678651aac7]
+### 2. Amendment of the INSPIRE (Scotland) Regulations 2009[^c-d8a49f2ae296c7ba9cf372678651aac7]
 
 In the INSPIRE (Scotland) Regulations 2009 [^c23650021], in regulation 9(3)(b), for the words from “Commission” to “Network Services”, substitute “ Commission Regulation [(EC) No 976/2009](https://www.legislation.gov.uk/european/regulation/2009/0976) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) of the European Parliament and of the Council as regards the Network Services [^c23650031] ”.
 
 ## PART 3 — Amendments to subordinate legislation to address deficiencies arising from the withdrawal of the United Kingdom from the European Union
 
-### 3. Amendment of the INSPIRE (Scotland) Regulations 2009[^key-f58a728d8d9a4e6280250176caa92192]
+### 3. Amendment of the INSPIRE (Scotland) Regulations 2009[^c-f58a728d8d9a4e6280250176caa92192]
 
 The INSPIRE (Scotland) Regulations 2009 are amended in accordance with regulations 4 to 10.
 
-### 4. Amendment of regulation 2 (interpretation)[^key-47245f1acffc4361958ad3084e159099]
+### 4. Amendment of regulation 2 (interpretation)[^c-47245f1acffc4361958ad3084e159099]
 
 (1) Regulation 2 is amended as follows.
 
@@ -89,7 +89,7 @@ The INSPIRE (Scotland) Regulations 2009 are amended in accordance with regulatio
 
 (4) Omit paragraph (4).
 
-### 5. Amendment of regulation 7 (metadata)[^key-3141f816d7ccc8e7ddfee1bdbc1c470d]
+### 5. Amendment of regulation 7 (metadata)[^c-3141f816d7ccc8e7ddfee1bdbc1c470d]
 
 (1) Regulation 7 is amended as follows.
 
@@ -106,7 +106,7 @@ The INSPIRE (Scotland) Regulations 2009 are amended in accordance with regulatio
 
 (4) Omit paragraph (5).
 
-### 6. Amendment of regulation 7A (interoperability)[^key-63e6ddc088790ee7e7a559f609f19fea]
+### 6. Amendment of regulation 7A (interoperability)[^c-63e6ddc088790ee7e7a559f609f19fea]
 
 (1) Regulation 7A is amended as follows.
 
@@ -120,7 +120,7 @@ The INSPIRE (Scotland) Regulations 2009 are amended in accordance with regulatio
 
 (4) Omit paragraph (4).
 
-### 7. Amendment of regulation 8 (network services)[^key-03e1a91b23548bbde0a27493648498a5]
+### 7. Amendment of regulation 8 (network services)[^c-03e1a91b23548bbde0a27493648498a5]
 
 (1) Regulation 8 is amended as follows.
 
@@ -130,11 +130,11 @@ The INSPIRE (Scotland) Regulations 2009 are amended in accordance with regulatio
 
 (4) In paragraph (3A), for “Annex I to the Directive” substitute “ Annex 1 of the Metadata Regulation ”.
 
-### 8. Amendment of regulation 9 (linking to a network)[^key-78e6b4bf5b3cedf9a45400d9753ae41d]
+### 8. Amendment of regulation 9 (linking to a network)[^c-78e6b4bf5b3cedf9a45400d9753ae41d]
 
 In regulation 9(3)(c), for “Annex I to the Directive” substitute “ Annex 1 of the Metadata Regulation ”.
 
-### 9. Amendment of regulation 13 (data sharing between public authorities etc)[^key-b42333a32a218a318d0ed168111d5fc8]
+### 9. Amendment of regulation 13 (data sharing between public authorities etc)[^c-b42333a32a218a318d0ed168111d5fc8]
 
 (1) Regulation 13 is amended as follows.
 
@@ -148,7 +148,7 @@ In regulation 9(3)(c), for “Annex I to the Directive” substitute “ Annex 1
 - (a) omit sub-paragraphs (b) and (c), and
 - (b) in sub-paragraph (d), for “EU and the United Kingdom are parties” substitute “ United Kingdom is a party ”.
 
-### 10. Substitution of regulation 15 (enforcement and monitoring)[^key-3b021e48f6f230d975423d483a41cb27]
+### 10. Substitution of regulation 15 (enforcement and monitoring)[^c-3b021e48f6f230d975423d483a41cb27]
 
 For regulation 15 substitute—
 
@@ -161,7 +161,7 @@ For regulation 15 substitute—
 > (3) The Scottish Ministers must—
 >
 > - (a) ensure that Scottish public authorities and third parties comply with these Regulations and the Implementing Rules,
-> - (b) monitor the implementation and use of the infrastructure for spatial information for the purposes of these Regulations, and make the findings available to the public in accordance with Commission Implementing Decision (EU) 2019/1372 (“Commission Implementing Decision (EU) 2019/1372”)[^key-13bd61586a1fc732352b89c1d80693d8] implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards monitoring and reporting [^key-6e6cadda697b72798ba4365eb584cac4]..., and
+> - (b) monitor the implementation and use of the infrastructure for spatial information for the purposes of these Regulations, and make the findings available to the public in accordance with Commission Implementing Decision (EU) 2019/1372 (“Commission Implementing Decision (EU) 2019/1372”)[^c-13bd61586a1fc732352b89c1d80693d8] implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards monitoring and reporting [^c-6e6cadda697b72798ba4365eb584cac4]..., and
 > - (c) issue guidance to Scottish public authorities and third parties which are responsible for spatial data sets or spatial data services about the implementation of these Regulations.
 >
 > (4) Guidance issued under paragraph (3)(c) must include provision relating to the internal complaints procedure which Scottish public authorities and third parties are required to establish under regulation 14.
@@ -172,7 +172,7 @@ For regulation 15 substitute—
 >
 > (7) In this regulation—
 >
-> - (a) “**Implementing Rules**” means the requirements of the Metadata Regulation, [^key-d156ed691e35cc2292670a2e8f18fe66]... Commission Regulation [(EC) No 976/2009](https://www.legislation.gov.uk/eur/2009/976) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards the Network Services, Commission Regulation (EU) 1089/2010 and Commission Implementing Decision (EU) 2019/1372[^key-ecd6d9940b656846035efaa3f334be6f],
+> - (a) “**Implementing Rules**” means the requirements of the Metadata Regulation, [^c-d156ed691e35cc2292670a2e8f18fe66]... Commission Regulation [(EC) No 976/2009](https://www.legislation.gov.uk/eur/2009/976) implementing Directive [2007/2/EC](https://www.legislation.gov.uk/eudr/2007/2) of the European Parliament and of the Council as regards the Network Services, Commission Regulation (EU) 1089/2010 and Commission Implementing Decision (EU) 2019/1372[^c-ecd6d9940b656846035efaa3f334be6f],
 > - (b) “**infrastructure for spatial information**” means metadata, spatial data sets and spatial data services; network services and technologies; agreements on sharing, access and use; and coordination and monitoring mechanisms, processes and procedures, established, operated or made available in accordance with, and for the purposes of, these Regulations and the Implementing Rules.
 
 .
@@ -205,34 +205,34 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23650011]: Marginal citation: [Paragraph 2(2)](https://www.legislation.gov.uk/ssi/2019/103/paragraph/2/2) has been modified by paragraph 5 of schedule 3 of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-6dae4dd89909fced64fb4ed55ddf170c]: Commencement: Reg. 1 in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/103/regulation/1/2/a)
+[^c-6dae4dd89909fced64fb4ed55ddf170c]: Commencement: Reg. 1 in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/103/regulation/1/2/a)
 
-[^key-d8a49f2ae296c7ba9cf372678651aac7]: Commencement: Reg. 2 in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/103/regulation/1/2/a)
+[^c-d8a49f2ae296c7ba9cf372678651aac7]: Commencement: Reg. 2 in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/103/regulation/1/2/a)
 
 [^c23650021]: Marginal citation: [S.S.I. 2009/440](https://www.legislation.gov.uk/ssi/2009/440), amended by [S.S.I. 2012/284](https://www.legislation.gov.uk/ssi/2012/284) and the [Data Protection Act 2018 (c.12)](https://www.legislation.gov.uk/ukpga/2018/12), [Schedule 19](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19), [paragraph 344](https://www.legislation.gov.uk/ukpga/2018/12/paragraph/344).
 
 [^c23650031]: Marginal citation: OJ L 274, 20.10.2009, p.9, as last amended by Commission Regulation (EU) No 1311/2014 (OJ L 354, 11.12.2014, p.6).
 
-[^key-f58a728d8d9a4e6280250176caa92192]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-f58a728d8d9a4e6280250176caa92192]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-47245f1acffc4361958ad3084e159099]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-47245f1acffc4361958ad3084e159099]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-3141f816d7ccc8e7ddfee1bdbc1c470d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-3141f816d7ccc8e7ddfee1bdbc1c470d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-63e6ddc088790ee7e7a559f609f19fea]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-63e6ddc088790ee7e7a559f609f19fea]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-03e1a91b23548bbde0a27493648498a5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-03e1a91b23548bbde0a27493648498a5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-78e6b4bf5b3cedf9a45400d9753ae41d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-78e6b4bf5b3cedf9a45400d9753ae41d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-b42333a32a218a318d0ed168111d5fc8]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-b42333a32a218a318d0ed168111d5fc8]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-3b021e48f6f230d975423d483a41cb27]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-3b021e48f6f230d975423d483a41cb27]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-13bd61586a1fc732352b89c1d80693d8]: Textual amendment: Words in reg. 10 substituted (31.12.2020 immediately before IP completion day) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/4/2/a/i)
+[^c-13bd61586a1fc732352b89c1d80693d8]: Textual amendment: Words in reg. 10 substituted (31.12.2020 immediately before IP completion day) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/4/2/a/i)
 
-[^key-6e6cadda697b72798ba4365eb584cac4]: Textual amendment: Words in reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/4/2/a/ii)
+[^c-6e6cadda697b72798ba4365eb584cac4]: Textual amendment: Words in reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/4/2/a/ii)
 
-[^key-d156ed691e35cc2292670a2e8f18fe66]: Textual amendment: Words in reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/4/2/b/i)
+[^c-d156ed691e35cc2292670a2e8f18fe66]: Textual amendment: Words in reg. 10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/4/2/b/i)
 
-[^key-ecd6d9940b656846035efaa3f334be6f]: Textual amendment: Words in reg. 10 substituted (31.12.2020 immediately before IP completion day) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/4/2/b/ii)
+[^c-ecd6d9940b656846035efaa3f334be6f]: Textual amendment: Words in reg. 10 substituted (31.12.2020 immediately before IP completion day) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/2), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/4/2/b/ii)

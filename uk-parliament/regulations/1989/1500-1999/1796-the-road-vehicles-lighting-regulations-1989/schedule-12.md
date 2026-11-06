@@ -52,7 +52,7 @@ summary: ''
 | (b) Any other stop lamp: | 15 to 36 watts |
 | *Extent: E+W+S+N.I.*<br>**9.**[^M_I_d1f32d35-ce30-4428-fc1b-182c7c7383d6] Intensity: | No requirement |
 
-**10.**[^key-f40d4925b45d8a5f709df83cb9799e93] Electrical connections–
+**10.**[^c-f40d4925b45d8a5f709df83cb9799e93] Electrical connections–
 
 (a) Every stop lamp fitted to–
 
@@ -65,11 +65,11 @@ summary: ''
 | --- | --- |
 | *Extent: E+W+S+N.I.*<br>**11.**[^M_I_7c9ca512-a3d6-4606-b61a-57e2d65e28ab] Tell-tale: | No requirement |
 
-**12.**[^key-340e1a241da548f86ff05f3bdbade8aa] Other requirements–
+**12.**[^c-340e1a241da548f86ff05f3bdbade8aa] Other requirements–
 
 - Where two stop lamps are required to be fitted, they shall form a pair.
 
-**13.**[^key-1facd76e42008ca07b4d320f58e48ad1] Definitions–
+**13.**[^c-1facd76e42008ca07b4d320f58e48ad1] Definitions–
 
 - In this Schedule “approval mark” means–
   - (a) in relation to a solo motor bicycle, a motor bicycle combination or a trailer drawn by a solo motor bicycle or a motor bicycle combination, a marking designated as an approval mark by regulation 4 of the Designation of Approval Marks Regulations and shown at item 50A of Schedule 2 to those Regulations; and
@@ -77,7 +77,7 @@ summary: ''
     - (i) a marking designated as an approval mark by regulation 5 of the Designation of Approval Marks Regulations and shown at item 7 or, if combined with a rear position lamp, at item 8 of Schedule 4 to those Regulations; or
     - (ii) a marking designated as an approval mark by regulation 4 of the Designation of Approval Marks Regulations and shown at item 7B or, if combined with a rear position lamp, at item 7C of Schedule 2 to those Regulations.
 
-### PART II — Rrequirements relating to optional stop lamps[^key-5cf1a6f4e936f79914b01d31bcc267d8]
+### PART II — Rrequirements relating to optional stop lamps[^c-5cf1a6f4e936f79914b01d31bcc267d8]
 
 Any number may be fitted, and the requirements prescribed by these Regulations in respect of any which are fitted are all those specified in Part I except–
 
@@ -107,12 +107,12 @@ Any number may be fitted, and the requirements prescribed by these Regulations i
 
 [^M_I_d1f32d35-ce30-4428-fc1b-182c7c7383d6]: Commencement: [Sch. 12 Pt. I para. 9](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/paragraph/10) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-f40d4925b45d8a5f709df83cb9799e93]: Commencement: [Sch. 12 Pt. I para. 10](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/paragraph/10) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-f40d4925b45d8a5f709df83cb9799e93]: Commencement: [Sch. 12 Pt. I para. 10](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/paragraph/10) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^M_I_7c9ca512-a3d6-4606-b61a-57e2d65e28ab]: Commencement: [Sch. 12 Pt. I para. 11](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/paragraph/10) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-340e1a241da548f86ff05f3bdbade8aa]: Commencement: [Sch. 12 Pt. I para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-340e1a241da548f86ff05f3bdbade8aa]: Commencement: [Sch. 12 Pt. I para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-1facd76e42008ca07b4d320f58e48ad1]: Commencement: [Sch. 12 Pt. I para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-1facd76e42008ca07b4d320f58e48ad1]: Commencement: [Sch. 12 Pt. I para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-5cf1a6f4e936f79914b01d31bcc267d8]: Commencement: [Sch. 12 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-5cf1a6f4e936f79914b01d31bcc267d8]: Commencement: [Sch. 12 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/12/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

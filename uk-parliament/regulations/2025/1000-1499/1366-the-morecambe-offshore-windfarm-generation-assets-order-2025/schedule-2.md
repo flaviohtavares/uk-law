@@ -22,15 +22,15 @@ summary: ''
 
 Article 2
 
-### 1. Time limits[^key-f3c2808c6467a4c4a709ab7fdd2b7720]
+### 1. Time limits[^c-f3c2808c6467a4c4a709ab7fdd2b7720]
 
 The authorised project must commence no later than the expiration of seven years beginning with the date this Order comes into force.
 
-### 2. Design parameters[^key-901bfa0c37f1a8d4ac75524228a1bc9d]
+### 2. Design parameters[^c-901bfa0c37f1a8d4ac75524228a1bc9d]
 
 (1) The wind turbine generators to be constructed and operated as part of the authorised project must be located within the area shown on the offshore works plan.
 
-(2) No part of any wind turbine generator to be constructed as part of the authorised project shall oversail or extend beyond the Order limits[^key-9ea85f27351ebc3f6393afe485a0462d].
+(2) No part of any wind turbine generator to be constructed as part of the authorised project shall oversail or extend beyond the Order limits[^c-9ea85f27351ebc3f6393afe485a0462d].
 
 (3) The authorised project must be constructed in accordance with the parameters set out in Table 2.
 
@@ -73,9 +73,9 @@ Table 2
 
 (4) The wind turbine generators to be constructed or operated as part of the authorised project must have the same height and rotor diameter, unless otherwise agreed by the Secretary of State.
 
-### 3. Aviation safety[^key-0660bb2d8192cf5ec4b7887e335bded4]
+### 3. Aviation safety[^c-0660bb2d8192cf5ec4b7887e335bded4]
 
-(1) The undertaker must exhibit such lights, with such shape, colour and character and at such times as are required by the 2016 Order (with any reference in that Order[^key-82520f7e607c152d8bbaafbae459c109] to the territorial sea being read as a reference to the Renewable Energy Zone established under section 84 of the Energy Act 2004[^f00021]) and/or determined necessary for aviation safety as directed in writing by the Civil Aviation Authority, in consultation with the Defence Infrastructure Organisation Safeguarding. Lighting installed specifically to meet Ministry of Defence aviation safety requirements must remain operational for the lifetime of the authorised project unless otherwise agreed with the Ministry of Defence.
+(1) The undertaker must exhibit such lights, with such shape, colour and character and at such times as are required by the 2016 Order (with any reference in that Order[^c-82520f7e607c152d8bbaafbae459c109] to the territorial sea being read as a reference to the Renewable Energy Zone established under section 84 of the Energy Act 2004[^f00021]) and/or determined necessary for aviation safety as directed in writing by the Civil Aviation Authority, in consultation with the Defence Infrastructure Organisation Safeguarding. Lighting installed specifically to meet Ministry of Defence aviation safety requirements must remain operational for the lifetime of the authorised project unless otherwise agreed with the Ministry of Defence.
 
 (2) The undertaker must notify the Defence Infrastructure Organisation Safeguarding, at least 14 days prior to the commencement of the construction of the authorised project, of the following—
 
@@ -89,7 +89,7 @@ the Defence Infrastructure Organisation Safeguarding must be notified of any cha
 
 (3) The lights installed in accordance with paragraph (1) shall be operated at the lowest permissible lighting intensity level.
 
-### 4. Great Dun Fell, Lowther Hill and St Annes Primary Surveillance Radars[^key-bf1fc92413edc70d6d0c2e080a0aa39a]
+### 4. Great Dun Fell, Lowther Hill and St Annes Primary Surveillance Radars[^c-bf1fc92413edc70d6d0c2e080a0aa39a]
 
 (1) No part of any wind turbine generator (excluding foundations) shall be erected as part of the authorised development until a primary radar mitigation scheme agreed in advance with the operator has been submitted to and approved by the Secretary of State in order to avoid the impact of the authorised development on the primary radars of the operator located at Great Dun Fell, Lowther Hill and St Annes and associated air traffic management operations.
 
@@ -100,7 +100,7 @@ the Defence Infrastructure Organisation Safeguarding must be notified of any cha
 - “**operator**” means NATS (En Route) plc, incorporated under the Companies Act 2006 (4129273) whose registered office is 4000 Parkway, Whiteley, Fareham, Hants PO15 7FL or such other organisation licensed from time to time under sections 5 and 6 of the Transport Act 2000[^f00022] to provide air traffic services to the relevant managed area (within the meaning of section 40 of that Act); and
 - “primary radar mitigation scheme” or “**scheme**” means a detailed scheme agreed with the operator which sets out the measures to be taken to avoid at all times the impact of the authorised development on the Great Dun Fell, Lowther Hill and St Annes primary radars and air traffic management operations of the operator.
 
-### 5. Operation of Blackpool Airport[^key-9d4a70e294d3d7c94cf65a0e4c8d7afe]
+### 5. Operation of Blackpool Airport[^c-9d4a70e294d3d7c94cf65a0e4c8d7afe]
 
 (1) No part of any wind turbine generator or offshore substation platform (excluding foundations) shall be erected as part of the authorised development until the Secretary of State, having consulted with the operator and the CAA, has confirmed that he is satisfied that—
 
@@ -115,7 +115,7 @@ the Defence Infrastructure Organisation Safeguarding must be notified of any cha
 
 (3) The undertaker shall thereafter comply with all obligations contained within the approved mitigation throughout the lifetime of the authorised development and for as long as any above waterline structures forming part of the authorised development remain in situ.
 
-### 6. Operation of Walney Aerodrome (Air Traffic Services)[^key-410917a27b4f619d866c4f9665c466ac]
+### 6. Operation of Walney Aerodrome (Air Traffic Services)[^c-410917a27b4f619d866c4f9665c466ac]
 
 (1) No part of any wind turbine generator or any offshore substation platform shall be erected as part of the authorised development until the Secretary of State has, having consulted with the CAA and the operator—
 
@@ -141,7 +141,7 @@ the Defence Infrastructure Organisation Safeguarding must be notified of any cha
 - (b) thereafter maintaining, repairing and replacing, including without limitation resolving any failure (howsoever caused) of, the approved ATS mitigation scheme throughout the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10); and
 - (c) in the event of any amendment being made to the authorised development which gives rise to adverse impacts on the operation of Walney Aerodrome which are new or different to those identified by the environmental statement, working with the CAA and the operator in good faith to agree any additional mitigation measures required to prevent or remove such adverse impacts throughout the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10), together with the costs of implementing and maintaining on an ongoing basis those additional mitigation measures.
 
-### 7. Operation of Warton Aerodrome (Air Traffic Services)[^key-53780d3ae6dd5693dc1ce042a993d2ef]
+### 7. Operation of Warton Aerodrome (Air Traffic Services)[^c-53780d3ae6dd5693dc1ce042a993d2ef]
 
 (1) No part of any wind turbine generator or any offshore substation platform shall be erected as part of the authorised development until the Secretary of State has, having consulted with the CAA and the operator—
 
@@ -167,7 +167,7 @@ the Defence Infrastructure Organisation Safeguarding must be notified of any cha
 - (b) thereafter maintaining, repairing and replacing, including without limitation resolving any failure (howsoever caused) of, the approved ATS mitigation scheme throughout the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10); and
 - (c) in the event of any amendment being made to the authorised development which gives rise to adverse impacts on the operation of Warton Aerodrome which are new or different to those identified by the environmental statement, working with the CAA and the operator in good faith to agree any additional mitigation measures required to prevent or remove such adverse impacts throughout the lifetime of the authorised development (including the period during which the authorised development is being decommissioned in accordance with the decommissioning programme approved pursuant to requirement 10), together with the costs of implementing and maintaining on an ongoing basis those additional mitigation measures.
 
-### 8. Warton Aerodrome Primary Surveillance Radar[^key-32c2a30d47a59b0791e406bbbda5101e]
+### 8. Warton Aerodrome Primary Surveillance Radar[^c-32c2a30d47a59b0791e406bbbda5101e]
 
 (1) No part of any wind turbine generator shall be erected as part of the authorised development until a radar mitigation scheme has been submitted to and approved by the Secretary of State, in consultation with the Ministry of Defence and the operator.
 
@@ -194,7 +194,7 @@ the Defence Infrastructure Organisation Safeguarding must be notified of any cha
 - (b) thereafter maintaining, repairing and replacing, including without limitation resolving any failure (howsoever caused) of, the approved radar mitigation scheme for so long as any of the wind turbine generators erected as part of the authorised development are operational and provided that the PSR remains an operational requirement of the Ministry of Defence or the operator or both; and
 - (c) in the event of any amendment being made to the authorised development which gives rise to new or different adverse impacts to those identified in the environmental statement on the operation of the PSR or the PSR air traffic control operations , working with the Ministry of Defence and the operator in good faith to agree any additional mitigation measures required to prevent or remove such adverse impacts for so long as any of the wind turbine generators erected as part of the authorised development are operational and provided that the PSR remains an operational requirement of the Ministry of Defence or the operator or both, together with the costs of implementing and maintaining on an ongoing basis those additional mitigation measures.
 
-### 9. Air traffic services at Isle of Man Airport[^key-64ff1cff2df842a72d65dde1a19ccfe6]
+### 9. Air traffic services at Isle of Man Airport[^c-64ff1cff2df842a72d65dde1a19ccfe6]
 
 (1) No part of any wind turbine generator (excluding foundations) shall be erected as part of the authorised development until the Secretary of State, having consulted with the operator and the Isle of Man Civil Aviation Administration, confirms that either—
 
@@ -211,11 +211,11 @@ the Defence Infrastructure Organisation Safeguarding must be notified of any cha
 
 (3) The undertaker shall thereafter comply with all obligations contained within the approved mitigation for the lifetime of the authorised development.
 
-### 10. Decommissioning[^key-7c048b037bbd55ed5be2ef58f7abdb70]
+### 10. Decommissioning[^c-7c048b037bbd55ed5be2ef58f7abdb70]
 
-No part of the authorised development may commence until a written decommissioning programme in compliance with any notice served upon the undertaker by the Secretary of State pursuant to section 105(2) (requirement to prepare decommissioning programmes) of the 2004 Act has been submitted to [^key-473db18bae8481f2daa42d9742f3935a]... the Secretary of State for approval[^key-5359fe01db28296bcfe95dff223f23de].
+No part of the authorised development may commence until a written decommissioning programme in compliance with any notice served upon the undertaker by the Secretary of State pursuant to section 105(2) (requirement to prepare decommissioning programmes) of the 2004 Act has been submitted to [^c-473db18bae8481f2daa42d9742f3935a]... the Secretary of State for approval[^c-5359fe01db28296bcfe95dff223f23de].
 
-### 11. Port Access and Transport Plan[^key-9ce2a4cd4f4bfaefab8632e8ef013bdb]
+### 11. Port Access and Transport Plan[^c-9ce2a4cd4f4bfaefab8632e8ef013bdb]
 
 (1) Where a port in England or Wales is selected as a port to be used to facilitate the transport of wind turbine generators, offshore substation platforms or foundations (including scour protection) in connection with the construction, operation or maintenance of the authorised development, over land to the site of the authorised development, no part of the authorised development may commence until a port access and transport plan (which accords with the outline port access and transport plan) for the onshore port-related traffic to and from the port or ports and relating to that part of the authorised development has been submitted to and approved by the relevant highway authority in consultation with the relevant planning authority.
 
@@ -225,7 +225,7 @@ No part of the authorised development may commence until a written decommissioni
 
 (4) For the purposes of this requirement, “relevant planning authority” and “relevant highway authority” mean the planning or highway authority or authorities in whose area the relevant port is located.
 
-### 12. Skills and Employment Plan[^key-5a8edd01262e311a4ffe49c07b065871]
+### 12. Skills and Employment Plan[^c-5a8edd01262e311a4ffe49c07b065871]
 
 (1) No part of the authorised development may commence until a skills and employment plan has been submitted to and approved by the relevant authorities.
 
@@ -235,7 +235,7 @@ No part of the authorised development may commence until a written decommissioni
 
 - (a) any planning authority in whose area a port selected under Requirement 11 is located.
 
-### 13. Wake Effects[^key-bd0d302ada388af6dd4649cec8be8488]
+### 13. Wake Effects[^c-bd0d302ada388af6dd4649cec8be8488]
 
 (1) No part of any WTG may be erected as part of the authorised development until either—
 
@@ -262,54 +262,54 @@ No part of the authorised development may commence until a written decommissioni
   - (e) Walney 2 Offshore Windfarm;
   - (f) Walney Extension 3 Offshore Windfarm;
   - (g) Walney Extension 4 Offshore Windfarm; and
-  - (h) West of Duddon[^key-46660740cbf916ee05e770b379e12e1d] Sands Offshore Windfarm
+  - (h) West of Duddon[^c-46660740cbf916ee05e770b379e12e1d] Sands Offshore Windfarm
 
 provided that such wind farm remains operational on the date on which the application to discharge this requirement is made.
 
 ## Annotations
 
-[^key-f3c2808c6467a4c4a709ab7fdd2b7720]: Commencement: Sch. 2 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-f3c2808c6467a4c4a709ab7fdd2b7720]: Commencement: Sch. 2 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-901bfa0c37f1a8d4ac75524228a1bc9d]: Commencement: Sch. 2 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-901bfa0c37f1a8d4ac75524228a1bc9d]: Commencement: Sch. 2 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-9ea85f27351ebc3f6393afe485a0462d]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/2/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-9ea85f27351ebc3f6393afe485a0462d]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/2/2) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-0660bb2d8192cf5ec4b7887e335bded4]: Commencement: Sch. 2 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-0660bb2d8192cf5ec4b7887e335bded4]: Commencement: Sch. 2 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-82520f7e607c152d8bbaafbae459c109]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/3/1) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-82520f7e607c152d8bbaafbae459c109]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/3/1) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
 [^f00021]: Footnote: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-bf1fc92413edc70d6d0c2e080a0aa39a]: Commencement: Sch. 2 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-bf1fc92413edc70d6d0c2e080a0aa39a]: Commencement: Sch. 2 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
 [^f00022]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-9d4a70e294d3d7c94cf65a0e4c8d7afe]: Commencement: Sch. 2 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-9d4a70e294d3d7c94cf65a0e4c8d7afe]: Commencement: Sch. 2 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-410917a27b4f619d866c4f9665c466ac]: Commencement: Sch. 2 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-410917a27b4f619d866c4f9665c466ac]: Commencement: Sch. 2 para. 6 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
 [^f00023]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-53780d3ae6dd5693dc1ce042a993d2ef]: Commencement: Sch. 2 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-53780d3ae6dd5693dc1ce042a993d2ef]: Commencement: Sch. 2 para. 7 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
 [^f00024]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-32c2a30d47a59b0791e406bbbda5101e]: Commencement: Sch. 2 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-32c2a30d47a59b0791e406bbbda5101e]: Commencement: Sch. 2 para. 8 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
 [^f00025]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-64ff1cff2df842a72d65dde1a19ccfe6]: Commencement: Sch. 2 para. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-64ff1cff2df842a72d65dde1a19ccfe6]: Commencement: Sch. 2 para. 9 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-7c048b037bbd55ed5be2ef58f7abdb70]: Commencement: Sch. 2 para. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-7c048b037bbd55ed5be2ef58f7abdb70]: Commencement: Sch. 2 para. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-473db18bae8481f2daa42d9742f3935a]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/10) omitted (8.6.2026) by virtue of [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-473db18bae8481f2daa42d9742f3935a]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/10) omitted (8.6.2026) by virtue of [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-5359fe01db28296bcfe95dff223f23de]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/10) inserted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-5359fe01db28296bcfe95dff223f23de]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/10) inserted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
 
-[^key-9ce2a4cd4f4bfaefab8632e8ef013bdb]: Commencement: Sch. 2 para. 11 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-9ce2a4cd4f4bfaefab8632e8ef013bdb]: Commencement: Sch. 2 para. 11 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-5a8edd01262e311a4ffe49c07b065871]: Commencement: Sch. 2 para. 12 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-5a8edd01262e311a4ffe49c07b065871]: Commencement: Sch. 2 para. 12 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-bd0d302ada388af6dd4649cec8be8488]: Commencement: Sch. 2 para. 13 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-bd0d302ada388af6dd4649cec8be8488]: Commencement: Sch. 2 para. 13 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-46660740cbf916ee05e770b379e12e1d]: Textual amendment: Word in [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/13/4) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)
+[^c-46660740cbf916ee05e770b379e12e1d]: Textual amendment: Word in [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2025/1366/schedule/2/paragraph/13/4) substituted (8.6.2026) by [The Morecambe Offshore Windfarm Generation Assets (Correction) Order 2026 (S.I. 2026/608)](https://www.legislation.gov.uk/uksi/2026/608), [art. 1](https://www.legislation.gov.uk/uksi/2026/608/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/608/schedule)

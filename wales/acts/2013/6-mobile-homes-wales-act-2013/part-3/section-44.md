@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Provision for suspension of eviction orders[^key-ea6d54bbb2c36ecb6ad7c875878d117e]
+## 44. Provision for suspension of eviction orders[^c-ea6d54bbb2c36ecb6ad7c875878d117e]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ and where a site licence in respect of the site is expressed to expire at the en
 
 ## Annotations
 
-[^key-ea6d54bbb2c36ecb6ad7c875878d117e]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2013/6/section/44) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-ea6d54bbb2c36ecb6ad7c875878d117e]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2013/6/section/44) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

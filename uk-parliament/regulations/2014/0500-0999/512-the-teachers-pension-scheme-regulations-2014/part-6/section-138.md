@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-On the death of a member (D), where a death grant is to be paid, the payment must be made[^key-0e35eba8bc5cd8ccf237b135461d14f1]—
+On the death of a member (D), where a death grant is to be paid, the payment must be made[^c-0e35eba8bc5cd8ccf237b135461d14f1]—
 
 - (a) to D's death grant beneficiary;
 - (b) if there is more than one death grant beneficiary, to those beneficiaries in the shares determined in accordance with regulation 133(4) and (5); or
@@ -30,4 +30,4 @@ On the death of a member (D), where a death grant is to be paid, the payment mus
 
 ## Annotations
 
-[^key-0e35eba8bc5cd8ccf237b135461d14f1]: Textual amendment: Words in [reg. 138](https://www.legislation.gov.uk/uksi/2014/512/regulation/138) substituted (retrospective to 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/b), [3(2)](https://www.legislation.gov.uk/uksi/2018/218/regulation/3/2)
+[^c-0e35eba8bc5cd8ccf237b135461d14f1]: Textual amendment: Words in [reg. 138](https://www.legislation.gov.uk/uksi/2014/512/regulation/138) substituted (retrospective to 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/b), [3(2)](https://www.legislation.gov.uk/uksi/2018/218/regulation/3/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. International recognition of satellite frequency assignments: power of OFCOM to charge fees[^key-62b13b185fdaab9fdb6fef1aaf9ba5ed]
+## 101. International recognition of satellite frequency assignments: power of OFCOM to charge fees[^c-62b13b185fdaab9fdb6fef1aaf9ba5ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62b13b185fdaab9fdb6fef1aaf9ba5ed]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2017/30/section/101) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/cc)
+[^c-62b13b185fdaab9fdb6fef1aaf9ba5ed]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2017/30/section/101) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/cc)

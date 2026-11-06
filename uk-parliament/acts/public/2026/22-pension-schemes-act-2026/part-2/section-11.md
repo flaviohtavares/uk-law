@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Relevant schemes: value for money[^key-8c5ed0c378986a6b011b28c830edc8ea]
+## 11. Relevant schemes: value for money[^c-8c5ed0c378986a6b011b28c830edc8ea]
 
 *Extent: E+W+S*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c5ed0c378986a6b011b28c830edc8ea]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-8c5ed0c378986a6b011b28c830edc8ea]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

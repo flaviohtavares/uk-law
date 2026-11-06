@@ -34,7 +34,7 @@ Environmental Protection
 
 Marine Management
 
-The Wester Ross Marine Conservation Order 2015 (revoked)[^key-5d5427c98a6f8439160c34a7640cff2f]
+The Wester Ross Marine Conservation Order 2015 (revoked)[^c-5d5427c98a6f8439160c34a7640cff2f]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 18th August 2015
 
-[^key-5d5427c98a6f8439160c34a7640cff2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d5427c98a6f8439160c34a7640cff2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and duration[^key-5d5427c98a6f8439160c34a7640cff2f]
+## 1. Citation, commencement and duration[^c-5d5427c98a6f8439160c34a7640cff2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5d5427c98a6f8439160c34a7640cff2f]
+## 2. Interpretation[^c-5d5427c98a6f8439160c34a7640cff2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The protected area[^key-5d5427c98a6f8439160c34a7640cff2f]
+## 3. The protected area[^c-5d5427c98a6f8439160c34a7640cff2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibited and regulated activities[^key-5d5427c98a6f8439160c34a7640cff2f]
+## 4. Prohibited and regulated activities[^c-5d5427c98a6f8439160c34a7640cff2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Disapplication of exception to the offences under sections 94 and 95 of the Marine (Scotland) Act 2010[^key-5d5427c98a6f8439160c34a7640cff2f]
+## 5. Disapplication of exception to the offences under sections 94 and 95 of the Marine (Scotland) Act 2010[^c-5d5427c98a6f8439160c34a7640cff2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d5427c98a6f8439160c34a7640cff2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d5427c98a6f8439160c34a7640cff2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5d5427c98a6f8439160c34a7640cff2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d5427c98a6f8439160c34a7640cff2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d5427c98a6f8439160c34a7640cff2f]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/302) revoked (23.3.2016) by [The Wester Ross Marine Conservation Order 2016 (S.S.I. 2016/88)](https://www.legislation.gov.uk/ssi/2016/88), [arts. 1](https://www.legislation.gov.uk/ssi/2016/88/article/1), [7(2)](https://www.legislation.gov.uk/ssi/2016/88/article/7/2)
+[^c-5d5427c98a6f8439160c34a7640cff2f]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/302) revoked (23.3.2016) by [The Wester Ross Marine Conservation Order 2016 (S.S.I. 2016/88)](https://www.legislation.gov.uk/ssi/2016/88), [arts. 1](https://www.legislation.gov.uk/ssi/2016/88/article/1), [7(2)](https://www.legislation.gov.uk/ssi/2016/88/article/7/2)

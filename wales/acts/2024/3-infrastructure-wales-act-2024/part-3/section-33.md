@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Deciding on the validity of an application and notifying the applicant[^key-7572a933174276175e73781ff0d7ab20][^key-608d85323b6087986dc33a22a241eaab]
+## 33. Deciding on the validity of an application and notifying the applicant[^c-7572a933174276175e73781ff0d7ab20][^c-608d85323b6087986dc33a22a241eaab]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7572a933174276175e73781ff0d7ab20]: Commencement: S. 33 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-7572a933174276175e73781ff0d7ab20]: Commencement: S. 33 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-608d85323b6087986dc33a22a241eaab]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2024/3/section/33) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-608d85323b6087986dc33a22a241eaab]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2024/3/section/33) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS
 
-Foot-and-Mouth Disease (Controlled Area) Order (Northern Ireland) 2001 (revoked)[^key-c3425c74baa75f831f6ce6501a467052]
+Foot-and-Mouth Disease (Controlled Area) Order (Northern Ireland) 2001 (revoked)[^c-c3425c74baa75f831f6ce6501a467052]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 1st March 2001
 
-[^key-c3425c74baa75f831f6ce6501a467052]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3425c74baa75f831f6ce6501a467052]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c3425c74baa75f831f6ce6501a467052]
+## 1. Citation and commencement[^c-c3425c74baa75f831f6ce6501a467052]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Declaration of controlled area[^key-c3425c74baa75f831f6ce6501a467052]
+## 2. Declaration of controlled area[^c-c3425c74baa75f831f6ce6501a467052]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-c3425c74baa75f831f6ce6501a467052]
+## 3. Interpretation[^c-c3425c74baa75f831f6ce6501a467052]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3425c74baa75f831f6ce6501a467052]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3425c74baa75f831f6ce6501a467052]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c3425c74baa75f831f6ce6501a467052]
+## SCHEDULE[^c-c3425c74baa75f831f6ce6501a467052]
 
 Article 2
 
-**1.**[^key-c3425c74baa75f831f6ce6501a467052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c3425c74baa75f831f6ce6501a467052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c3425c74baa75f831f6ce6501a467052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c3425c74baa75f831f6ce6501a467052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c3425c74baa75f831f6ce6501a467052]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3425c74baa75f831f6ce6501a467052]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c3425c74baa75f831f6ce6501a467052]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/87) revoked (5.3.2001) by [Foot-and-Mouth Disease (Controlled Area) (No. 2) Order (Northern Ireland) 2001 (S.R. 2001/93)](https://www.legislation.gov.uk/nisr/2001/93), [arts. 1](https://www.legislation.gov.uk/nisr/2001/93/article/1), [4](https://www.legislation.gov.uk/nisr/2001/93/article/4)
+[^c-c3425c74baa75f831f6ce6501a467052]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/87) revoked (5.3.2001) by [Foot-and-Mouth Disease (Controlled Area) (No. 2) Order (Northern Ireland) 2001 (S.R. 2001/93)](https://www.legislation.gov.uk/nisr/2001/93), [arts. 1](https://www.legislation.gov.uk/nisr/2001/93/article/1), [4](https://www.legislation.gov.uk/nisr/2001/93/article/4)

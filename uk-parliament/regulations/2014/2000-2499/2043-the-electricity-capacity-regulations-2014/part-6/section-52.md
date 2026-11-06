@@ -22,14 +22,14 @@ summary: ''
 
 (1) Paragraphs (2) and (3) apply where a credit is withheld from a capacity provider (“C”) under regulation 51.
 
-(2) If, where the credit is withheld for the reason in regulation 51(1)(aa) or 51(1)(b)[^key-e075944d6b58ff1fa2a8a722e69d61ef], an invoice is due to be issued to C, the Settlement Body may deduct all or part of the withheld credit from the amount invoiced, and the amount so deducted is to be treated as having been paid to C.
+(2) If, where the credit is withheld for the reason in regulation 51(1)(aa) or 51(1)(b)[^c-e075944d6b58ff1fa2a8a722e69d61ef], an invoice is due to be issued to C, the Settlement Body may deduct all or part of the withheld credit from the amount invoiced, and the amount so deducted is to be treated as having been paid to C.
 
 (3) Except where the withheld credit has been deducted from an invoice in accordance with paragraph (2), the Settlement Body must pay the withheld credit on the next occasion which the Settlement Body considers practicable when—
 
 - (a) credit payments are made under this Part; and
 - (b) the Settlement Body is not required to withhold a credit from C under regulation 51.
 
-(4)[^key-658e001b03dcd03c17e8db4bc9d63e1b] Where credit is withheld from C under under regulation 51(1)(aa) and a relevant termination notice is subsequently withdrawn, the Settlement Body must pay the withheld credit in accordance with the formula—
+(4)[^c-658e001b03dcd03c17e8db4bc9d63e1b] Where credit is withheld from C under under regulation 51(1)(aa) and a relevant termination notice is subsequently withdrawn, the Settlement Body must pay the withheld credit in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2014/2043)
 
@@ -46,6 +46,6 @@ where—
 
 ## Annotations
 
-[^key-e075944d6b58ff1fa2a8a722e69d61ef]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/52/2) substituted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/uksi/2026/850/schedule/1/paragraph/8/a)
+[^c-e075944d6b58ff1fa2a8a722e69d61ef]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/52/2) substituted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/uksi/2026/850/schedule/1/paragraph/8/a)
 
-[^key-658e001b03dcd03c17e8db4bc9d63e1b]: Textual amendment: [Reg. 52(4)-(6)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/52/4) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/uksi/2026/850/schedule/1/paragraph/8/b)
+[^c-658e001b03dcd03c17e8db4bc9d63e1b]: Textual amendment: [Reg. 52(4)-(6)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/52/4) inserted (17.7.2026) by [The Electricity Capacity (Amendment and Transitional Provision) Regulations 2026 (S.I. 2026/850)](https://www.legislation.gov.uk/uksi/2026/850), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/850/regulation/1/2), [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/uksi/2026/850/schedule/1/paragraph/8/b)

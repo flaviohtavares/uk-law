@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Revocation and amendment of orders specifying minimum requirements[^key-8fb767edbd203b58c8736d39014fb203]
+## 144. Revocation and amendment of orders specifying minimum requirements[^c-8fb767edbd203b58c8736d39014fb203]
 
 *Extent: E+W+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fb767edbd203b58c8736d39014fb203]: Commencement: S. 144 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-8fb767edbd203b58c8736d39014fb203]: Commencement: S. 144 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

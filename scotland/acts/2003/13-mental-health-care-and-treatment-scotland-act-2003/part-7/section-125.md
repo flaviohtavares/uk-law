@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Transfer to hospital other than state hospital: appeal to Tribunal[^key-0e045c667c839758667d08c5413f429d]
+## 125. Transfer to hospital other than state hospital: appeal to Tribunal[^c-0e045c667c839758667d08c5413f429d]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ to any hospital other than a state hospital.
 
 ## Annotations
 
-[^key-0e045c667c839758667d08c5413f429d]: Commencement: S. 125 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-0e045c667c839758667d08c5413f429d]: Commencement: S. 125 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

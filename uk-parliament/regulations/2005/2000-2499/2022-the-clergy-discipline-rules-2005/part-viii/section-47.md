@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 47. Attendance at a hearing in private[^key-cea5f23ea37b3dc5efe9bc5646a0b20b]
+## 47. Attendance at a hearing in private[^c-cea5f23ea37b3dc5efe9bc5646a0b20b]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ Where the hearing is held in private, in addition to members and staff of the tr
 
 ## Annotations
 
-[^key-cea5f23ea37b3dc5efe9bc5646a0b20b]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2005/2022/rule/47) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-cea5f23ea37b3dc5efe9bc5646a0b20b]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2005/2022/rule/47) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

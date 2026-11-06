@@ -33,7 +33,7 @@ it is the duty of that relevant authority to notify the Public Guardian of the s
 (2) In this section a “**relevant authority**” means—
 
 - (a) an HSC trust;
-- (b) the Department[^key-e8e02a14e7f5faa1e0939f36a3bc613e] ;
+- (b) the Department[^c-e8e02a14e7f5faa1e0939f36a3bc613e] ;
 - (c) RQIA;
 - (d) the managing authority of an independent hospital;
 - (e) the managing authority of a care home.
@@ -41,12 +41,12 @@ it is the duty of that relevant authority to notify the Public Guardian of the s
 (3) In this section “**a person with whom the authority is concerned**” means—
 
 - (a) in relation to an HSC trust, a person within the area of the trust;
-- (b) in relation to the Department[^key-18d9045ad1dffdbce9e19995365b4b6f] , any person;
+- (b) in relation to the Department[^c-18d9045ad1dffdbce9e19995365b4b6f] , any person;
 - (c) in relation to RQIA, any person;
 - (d) in relation to the managing authority of an independent hospital or of a care home, an in-patient or resident in the hospital or care home.
 
 ## Annotations
 
-[^key-e8e02a14e7f5faa1e0939f36a3bc613e]: Textual amendment: Words in [s. 128(2)(b)](https://www.legislation.gov.uk/nia/2016/18/section/128/2/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(5)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/5); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-e8e02a14e7f5faa1e0939f36a3bc613e]: Textual amendment: Words in [s. 128(2)(b)](https://www.legislation.gov.uk/nia/2016/18/section/128/2/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(5)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/5); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-18d9045ad1dffdbce9e19995365b4b6f]: Textual amendment: Words in [s. 128(3)(b)](https://www.legislation.gov.uk/nia/2016/18/section/128/3/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(5)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/5); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-18d9045ad1dffdbce9e19995365b4b6f]: Textual amendment: Words in [s. 128(3)(b)](https://www.legislation.gov.uk/nia/2016/18/section/128/3/b) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(5)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/5); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

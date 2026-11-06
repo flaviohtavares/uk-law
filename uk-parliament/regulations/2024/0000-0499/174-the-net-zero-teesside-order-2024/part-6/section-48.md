@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Funding for compulsory acquisition compensation[^key-ac896ea46a960e520d877bde558da4a5]
+## 48. Funding for compulsory acquisition compensation[^c-ac896ea46a960e520d877bde558da4a5]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac896ea46a960e520d877bde558da4a5]: Commencement: Art. 48 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-ac896ea46a960e520d877bde558da4a5]: Commencement: Art. 48 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

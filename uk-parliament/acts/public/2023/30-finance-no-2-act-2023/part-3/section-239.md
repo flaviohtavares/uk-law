@@ -51,24 +51,24 @@ the entity is treated as located in that territory for that period.
 
 - (a) an entity is not (ignoring this subsection) subject to Pillar Two IIR tax within the meaning of section 128,
 - (b) it is tax resident based on its place of management, place of creation or similar criteria in the United Kingdom,
-- (c) as a result of the application of subsection [^key-63e58b6f9eeda12c366eb9fcd4bf1f85]... (4) it is treated as not being located in the United Kingdom, and
+- (c) as a result of the application of subsection [^c-63e58b6f9eeda12c366eb9fcd4bf1f85]... (4) it is treated as not being located in the United Kingdom, and
 - (d) if it were located in the United Kingdom, it would be a responsible member of a multinational group,
 
-the entity is instead to be treated as located in the United Kingdom for the purposes of sections 122 , 128 and 129[^key-010671e07859c78833851cca905a6285] of this Part (but not otherwise).
+the entity is instead to be treated as located in the United Kingdom for the purposes of sections 122 , 128 and 129[^c-010671e07859c78833851cca905a6285] of this Part (but not otherwise).
 
 (7) For the purposes of this Part—
 
-- (a)[^key-e7109b94d6161d11d3f0028aca4ea1c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e7109b94d6161d11d3f0028aca4ea1c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) where an entity’s location changes during an accounting period, it is to be treated as being located in the territory it was located, or was treated as being located, at the start of that period.
 
-(8)[^key-f0d40c616cb7de9b54741249679c3616] As regards stateless entities see also section 132(3)(b) (stateless member of group treated as located in its own nominal territory).
+(8)[^c-f0d40c616cb7de9b54741249679c3616] As regards stateless entities see also section 132(3)(b) (stateless member of group treated as located in its own nominal territory).
 
 ## Annotations
 
-[^key-63e58b6f9eeda12c366eb9fcd4bf1f85]: Textual amendment: Words in [s. 239(6)(c)](https://www.legislation.gov.uk/ukpga/2023/30/section/239/6/c) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/32/1/a)
+[^c-63e58b6f9eeda12c366eb9fcd4bf1f85]: Textual amendment: Words in [s. 239(6)(c)](https://www.legislation.gov.uk/ukpga/2023/30/section/239/6/c) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/32/1/a)
 
-[^key-010671e07859c78833851cca905a6285]: Textual amendment: Words in [s. 239(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/239/6) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/32/1/b)
+[^c-010671e07859c78833851cca905a6285]: Textual amendment: Words in [s. 239(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/239/6) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/32/1/b)
 
-[^key-e7109b94d6161d11d3f0028aca4ea1c6]: Textual amendment: [S. 239(7)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/239/7/a) omitted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 26(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/26/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-e7109b94d6161d11d3f0028aca4ea1c6]: Textual amendment: [S. 239(7)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/239/7/a) omitted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 26(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/26/a), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
 
-[^key-f0d40c616cb7de9b54741249679c3616]: Textual amendment: [S. 239(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/239/8) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 26(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/26/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-f0d40c616cb7de9b54741249679c3616]: Textual amendment: [S. 239(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/239/8) inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 26(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/26/b), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

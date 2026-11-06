@@ -30,7 +30,7 @@ Section 120.
 
 (2) The Secretary of State shall send a copy of any such warrant to—
 
-- (a) the Charity Commission[^key-07ea6ecf183b6684c5d846f0ee0c1c8f] ;
+- (a) the Charity Commission[^c-07ea6ecf183b6684c5d846f0ee0c1c8f] ;
 - (b)[^c8320221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Department of Health and Social Services for Northern Ireland; and
 - (d) a trustee of each charity in England and Wales or Northern Ireland, or a person concerned in the management or control of each recognised body, affected by the warrant by virtue of the following provisions of this Schedule.
@@ -43,7 +43,7 @@ Section 120.
 
 - “**disbanded unit**” means a unit for which a successor is designated under paragraph 1;
 
-  “charity” has the [^c8320231]same meaning (in relation to England and Wales) as it has under section 1(1) of the Charities Act 2011[^key-5ee485bf33b0c2da37a88a045440d984] and (in relation to Northern Ireland) as in the [^c8320241]Charities Act (Northern Ireland) 1964;
+  “charity” has the [^c8320231]same meaning (in relation to England and Wales) as it has under section 1(1) of the Charities Act 2011[^c-5ee485bf33b0c2da37a88a045440d984] and (in relation to Northern Ireland) as in the [^c8320241]Charities Act (Northern Ireland) 1964;
 
   “recognised body” has the same meaning as in Part I of the [^c8320251]Law Reform (Miscellaneous Provisions) (Scotland) Act 1990;
 
@@ -63,13 +63,13 @@ and references to disbandment of a body of a reserve force (however expressed) i
 
 #### Exclusion of charitable property from paragraph 3
 
-**4.** (1) If Charity Commission considers[^key-115abe64e781bd98fa7f3a5073ec76d1] that paragraph 3(1) should not apply to all or any of the charitable property held for the purposes of a disbanded unit, it[^key-14ad8e5af1a6a7ac713c23cb270181bc] may make an order providing that paragraph 3(1) shall not apply or shall cease to apply to that property or part.
+**4.** (1) If Charity Commission considers[^c-115abe64e781bd98fa7f3a5073ec76d1] that paragraph 3(1) should not apply to all or any of the charitable property held for the purposes of a disbanded unit, it[^c-14ad8e5af1a6a7ac713c23cb270181bc] may make an order providing that paragraph 3(1) shall not apply or shall cease to apply to that property or part.
 
 (2) An order under this paragraph may be made at any time within the period of 6 months beginning with the day on which the warrant is made.
 
 **5.** (1) If a charity affected by a warrant or any trustee of, or person interested in, such a charity considers that paragraph 3(1) should not apply to all or any of the property held by the charity for the purposes of the disbanded unit in question, then the charity, trustee or person interested, as the case may be, may apply to the court for an order providing that paragraph 3(1) shall cease to apply to that property or part.
 
-(2)[^key-d92699fc8f418be4b2adae168e94ae9f] An application under this paragraph—
+(2)[^c-d92699fc8f418be4b2adae168e94ae9f] An application under this paragraph—
 
 - (a) may be made at any time within the period of 6 months beginning with the day on which the warrant comes into force; and
 - (b) is subject to subsections (2) to (5) of section 115 of the Charities Act 2011 (proceedings not to be begun without the consent of the Charity Commission or leave of a judge of the High Court),
@@ -80,7 +80,7 @@ and for the purposes of subsection (5) of that section an application for an ord
 
 #### Application of property otherwise than under paragraph 3
 
-**6.**[^key-92dfcc17506b5adc5b06dde9b8e168fa] In any case where—
+**6.**[^c-92dfcc17506b5adc5b06dde9b8e168fa] In any case where—
 
 - (a) the Secretary of State requests the Charity Commission to make provision with respect to any charitable property which is held for the purposes of a unit of a reserve force that has been or is to be disbanded, or
 - (b) an order is made under paragraph 4 or 5 excluding any charitable property so held from the operation of paragraph 3(1),
@@ -192,25 +192,25 @@ the Department may, notwithstanding anything in subsection (1) of section 13 of 
 
 [^c8320211]: Modification: Sch. 5 para. 1: Functions of the Lord Advocate transferred to the Secretary of State, and all property, rights and liabilities to which the Lord Advocate is entitled or subject in connection with any such function transferred to the Secretary of State for Scotland (19.5.1999) by [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678), [arts. 2](https://www.legislation.gov.uk/uksi/1999/678/article/2), [3](https://www.legislation.gov.uk/uksi/1999/678/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/678/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/678/article/7))
 
-[^key-07ea6ecf183b6684c5d846f0ee0c1c8f]: Textual amendment: Words in Sch. 5 para. 1(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 181(2)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/181/2); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-07ea6ecf183b6684c5d846f0ee0c1c8f]: Textual amendment: Words in Sch. 5 para. 1(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 181(2)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/181/2); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
 [^c8320221]: Textual amendment: Sch. 5 para. 1(2)(b) repealed (19.5.1999) by [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678), [art. 5](https://www.legislation.gov.uk/uksi/1999/678/article/5) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/678/article/7))
 
 [^c8320231]: Marginal citation: [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10).
 
-[^key-5ee485bf33b0c2da37a88a045440d984]: Textual amendment: Words in Sch. 5 para. 2 substituted (14.3.2012 immediately before the commencement of Charities Act 2011 (c. 25), Sch. 7 para. 69(1)) by S.I. 2011/1396, art. 1, Sch. para. 36(b) (which substitution is subsequently superseded (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 69(1) (with s. 20(2), Sch. 8))
+[^c-5ee485bf33b0c2da37a88a045440d984]: Textual amendment: Words in Sch. 5 para. 2 substituted (14.3.2012 immediately before the commencement of Charities Act 2011 (c. 25), Sch. 7 para. 69(1)) by S.I. 2011/1396, art. 1, Sch. para. 36(b) (which substitution is subsequently superseded (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 69(1) (with s. 20(2), Sch. 8))
 
 [^c8320241]: Marginal citation: [1964 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1964/33).
 
 [^c8320251]: Marginal citation: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40).
 
-[^key-115abe64e781bd98fa7f3a5073ec76d1]: Textual amendment: Words in Sch. 5 para. 4(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 181(3)(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/181/3/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-115abe64e781bd98fa7f3a5073ec76d1]: Textual amendment: Words in Sch. 5 para. 4(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 181(3)(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/181/3/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-14ad8e5af1a6a7ac713c23cb270181bc]: Textual amendment: Word in Sch. 5 para. 4(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 181(3)(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/181/3/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-14ad8e5af1a6a7ac713c23cb270181bc]: Textual amendment: Word in Sch. 5 para. 4(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 181(3)(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/181/3/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-d92699fc8f418be4b2adae168e94ae9f]: Textual amendment: Sch. 5 para. 5(2)(3) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 69(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/69/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-d92699fc8f418be4b2adae168e94ae9f]: Textual amendment: Sch. 5 para. 5(2)(3) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 69(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/69/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-92dfcc17506b5adc5b06dde9b8e168fa]: Textual amendment: Sch. 5 para. 6 substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 69(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/69/3) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-92dfcc17506b5adc5b06dde9b8e168fa]: Textual amendment: Sch. 5 para. 6 substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 69(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/69/3) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c8320271]: Modification: Sch. 5 para. 10: Functions of the Lord Advocate transferred to the Secretary of State, and all property, rights and liabilities to which the Lord Advocate is entitled or subject in connection with any such function transferred to the Secretary of State for Scotland (19.5.1999) by [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678), [arts. 2](https://www.legislation.gov.uk/uksi/1999/678/article/2), [3](https://www.legislation.gov.uk/uksi/1999/678/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/678/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/678/article/7))
 

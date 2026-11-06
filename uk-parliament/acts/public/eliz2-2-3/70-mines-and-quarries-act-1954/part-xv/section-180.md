@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 180. Meaning of “mine”[^key-e375bad69cfb8984d326ec9d290459e9]
+## 180. Meaning of “mine”[^c-e375bad69cfb8984d326ec9d290459e9]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e375bad69cfb8984d326ec9d290459e9]: Textual amendment: [S. 180](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/180) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-e375bad69cfb8984d326ec9d290459e9]: Textual amendment: [S. 180](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/180) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

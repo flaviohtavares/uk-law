@@ -26,7 +26,7 @@ Regulation 25(1)(b)
 
 #### 1. Analysis of samples
 
-The food authority must ensure that each sample is analysed for indicative dose in accordance with [^key-d7b4ffa4c3d9e4b998fcd5ec036d197c]... this Part.
+The food authority must ensure that each sample is analysed for indicative dose in accordance with [^c-d7b4ffa4c3d9e4b998fcd5ec036d197c]... this Part.
 
 **2.** For each parameter and radionuclide specified in the first column of Table 1 in Part 2 of this Schedule, the derived concentration and dose coefficient for calculating the indicative dose is specified in the second column of that table.
 
@@ -106,4 +106,4 @@ Performance characteristics and methods of analysis
 
 ## Annotations
 
-[^key-d7b4ffa4c3d9e4b998fcd5ec036d197c]: Textual amendment: Words in [Sch. 11 para. 1](https://www.legislation.gov.uk/wsi/2015/1867/schedule/11/paragraph/1) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [8(13)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/8/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7b4ffa4c3d9e4b998fcd5ec036d197c]: Textual amendment: Words in [Sch. 11 para. 1](https://www.legislation.gov.uk/wsi/2015/1867/schedule/11/paragraph/1) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [8(13)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/8/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131C. Unaccompanied goods: making of declarations[^key-9197641df0e273aa4c9873c6a7fc7eb0]
+## 131C. Unaccompanied goods: making of declarations[^c-9197641df0e273aa4c9873c6a7fc7eb0]
 
 *Extent: E+W+S+N.I.*
 
 (1) A Customs declaration or a temporary storage declaration must be made in respect of the goods by the time the goods are loaded on to the through train.
 
-(1A)[^key-e47786dc627ba00a49906046c813e7c6] The customs declaration made under paragraph (1) is treated as withdrawn if the goods are not presented to Customs on import within the time specified in a notice published by HMRC.
+(1A)[^c-e47786dc627ba00a49906046c813e7c6] The customs declaration made under paragraph (1) is treated as withdrawn if the goods are not presented to Customs on import within the time specified in a notice published by HMRC.
 
 (1B) HMRC must publish a notice for the purposes of paragraph (1A).
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9197641df0e273aa4c9873c6a7fc7eb0]: Textual amendment: Pt. 13B inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [2(22)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/2/22); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9197641df0e273aa4c9873c6a7fc7eb0]: Textual amendment: Pt. 13B inserted (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [2(22)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/2/22); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-e47786dc627ba00a49906046c813e7c6]: Textual amendment: [Reg. 131C(1A)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131C/1A)[(1B)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131C/1B) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(15)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/15)
+[^c-e47786dc627ba00a49906046c813e7c6]: Textual amendment: [Reg. 131C(1A)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131C/1A)[(1B)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/131C/1B) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(15)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/15)

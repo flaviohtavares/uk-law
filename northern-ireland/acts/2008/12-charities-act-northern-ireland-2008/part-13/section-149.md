@@ -32,7 +32,7 @@ summary: ''
 - (a) for the purposes of an application made under section 137 or section 143, or
 - (b) for the purposes of section 135 or section 136,
 
-that person knowingly or recklessly provides[^key-115a0110a57a90cd2553a2638b223bfb] any information which is false or misleading in a material particular.
+that person knowingly or recklessly provides[^c-115a0110a57a90cd2553a2638b223bfb] any information which is false or misleading in a material particular.
 
 (3) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -40,4 +40,4 @@ that person knowingly or recklessly provides[^key-115a0110a57a90cd2553a2638b223b
 
 ## Annotations
 
-[^key-115a0110a57a90cd2553a2638b223bfb]: Textual amendment: Word in [s. 149(2)](https://www.legislation.gov.uk/nia/2008/12/section/149/2) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/3)
+[^c-115a0110a57a90cd2553a2638b223bfb]: Textual amendment: Word in [s. 149(2)](https://www.legislation.gov.uk/nia/2008/12/section/149/2) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/6/3)

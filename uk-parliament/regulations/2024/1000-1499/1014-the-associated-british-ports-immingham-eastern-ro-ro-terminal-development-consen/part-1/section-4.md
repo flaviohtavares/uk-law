@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Incorporation of the 1847 Act[^key-bec962a1c0896d9c9abe7f9c6dc64502]
+## 4. Incorporation of the 1847 Act[^c-bec962a1c0896d9c9abe7f9c6dc64502]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bec962a1c0896d9c9abe7f9c6dc64502]: Commencement: Art. 4 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-bec962a1c0896d9c9abe7f9c6dc64502]: Commencement: Art. 4 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

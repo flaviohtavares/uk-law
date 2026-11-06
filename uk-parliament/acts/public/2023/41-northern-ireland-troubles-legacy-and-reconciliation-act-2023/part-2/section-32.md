@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Identifying information that is subject to additional safeguards[^key-6b7fbe492ff5782a4a9ef4191fb0c65a][^key-e6cb955b325b33a6adbf6e9e9a4a4000]
+## 32. Identifying information that is subject to additional safeguards[^c-6b7fbe492ff5782a4a9ef4191fb0c65a][^c-e6cb955b325b33a6adbf6e9e9a4a4000]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 8 makes provision about the identification of sensitive, prejudicial or
 
 ## Annotations
 
-[^key-6b7fbe492ff5782a4a9ef4191fb0c65a]: Commencement: S. 32 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-6b7fbe492ff5782a4a9ef4191fb0c65a]: Commencement: S. 32 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-e6cb955b325b33a6adbf6e9e9a4a4000]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/41/section/32) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/w) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-e6cb955b325b33a6adbf6e9e9a4a4000]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/41/section/32) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/w) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

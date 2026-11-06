@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Qualifying sub-contracts[^key-4b593636e6b9055555fcd7ee3b6f1da7][^key-9e375d9dbade428bc5674925214793e8]
+## 28. Qualifying sub-contracts[^c-4b593636e6b9055555fcd7ee3b6f1da7][^c-9e375d9dbade428bc5674925214793e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b593636e6b9055555fcd7ee3b6f1da7]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2014/20/section/28) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(l)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/l)
+[^c-4b593636e6b9055555fcd7ee3b6f1da7]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2014/20/section/28) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(l)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/l)
 
-[^key-9e375d9dbade428bc5674925214793e8]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2014/20/section/28) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-9e375d9dbade428bc5674925214793e8]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2014/20/section/28) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)

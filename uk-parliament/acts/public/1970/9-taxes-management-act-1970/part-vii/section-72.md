@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Trustees, guardians, etc., of incapacitated persons.[^key-c8e4ac721096b11d41776fc655d59521]
+## 72. Trustees, guardians, etc., of incapacitated persons.[^c-c8e4ac721096b11d41776fc655d59521]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8e4ac721096b11d41776fc655d59521]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1970/9/section/72) omitted (with effect in accordance with s. 222(5) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/1/b)
+[^c-c8e4ac721096b11d41776fc655d59521]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/1970/9/section/72) omitted (with effect in accordance with s. 222(5) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/1/b)

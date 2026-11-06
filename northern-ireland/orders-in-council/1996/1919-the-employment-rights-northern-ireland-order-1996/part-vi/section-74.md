@@ -27,7 +27,7 @@ summary: ''
 - (a) before the end of the period of three months beginning with the date of the act or failure to which the complaint relates or, where that act or failure is part of a series of similar acts or failures (or both) the last of them, or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-d46fd0fdbb32341a3038dab98c123a53] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(2A)[^c-d46fd0fdbb32341a3038dab98c123a53] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 (3) For the purposes of paragraph (2)—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c17622851]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-d46fd0fdbb32341a3038dab98c123a53]: Textual amendment: [Art. 74(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/74/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 17](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/17); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-d46fd0fdbb32341a3038dab98c123a53]: Textual amendment: [Art. 74(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/74/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 17](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/17); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

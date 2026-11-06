@@ -36,7 +36,7 @@ and which relates only to a relevant investment which is issued or to be issued 
 
 (3) “**Relevant investment**” means—
 
-- (a) an investment falling within paragraph 14, 15 or 15A[^key-8063bf9de746fa9fb14cf28577bd6464] of Schedule 1;
+- (a) an investment falling within paragraph 14, 15 or 15A[^c-8063bf9de746fa9fb14cf28577bd6464] of Schedule 1;
 - (b) an investment falling within paragraph 17 or 18 of that Schedule so far as relating to any investments within sub-paragraph (a).
 
 (4) For the purposes of this article, an investment falling within paragraph 17 or 18 of Schedule 1 is treated as issued by the person (“P”) who issued the investment in respect of which the instrument confers rights if it is issued by—
@@ -46,4 +46,4 @@ and which relates only to a relevant investment which is issued or to be issued 
 
 ## Annotations
 
-[^key-8063bf9de746fa9fb14cf28577bd6464]: Textual amendment: Words in art. 43(3)(a) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 9(a)(iii)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/9/a/iii)
+[^c-8063bf9de746fa9fb14cf28577bd6464]: Textual amendment: Words in art. 43(3)(a) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 9(a)(iii)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/9/a/iii)

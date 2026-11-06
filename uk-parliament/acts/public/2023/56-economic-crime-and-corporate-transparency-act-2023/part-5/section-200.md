@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Fraud offences: supplementary[^key-78d9dcca42c91f3fa581fce8bb59533e][^key-413fe1a7b7ba14d4a3221979aef9a779]
+## 200. Fraud offences: supplementary[^c-78d9dcca42c91f3fa581fce8bb59533e][^c-413fe1a7b7ba14d4a3221979aef9a779]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78d9dcca42c91f3fa581fce8bb59533e]: Commencement: S. 200 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-78d9dcca42c91f3fa581fce8bb59533e]: Commencement: S. 200 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-413fe1a7b7ba14d4a3221979aef9a779]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/56/section/200) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)
+[^c-413fe1a7b7ba14d4a3221979aef9a779]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/56/section/200) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)

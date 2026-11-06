@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^M_E_4b0b50ea-db31-4038-cac3-fceb5c8fba9a][^key-1c62cf9c3926489b441759924aa6f8fd]
+## 2. Interpretation[^M_E_4b0b50ea-db31-4038-cac3-fceb5c8fba9a][^c-1c62cf9c3926489b441759924aa6f8fd]
 
 *Extent: E+W+S*
 
 (1) In these Regulations—
 
-- “ *(Extent: EWS)*[^key-1b432462d50ba2ef76dd5b1c3232876d]**the 2024 Regulation *(Extent: EWS)***” means *(Extent: EWS)* [Regulation (EU) 2024/1781 *(Extent: EWS)*](https://www.legislation.gov.uk/european/regulation/2024/1781) of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products *(Extent: EWS)*; *(Extent: EWS)*
+- “ *(Extent: EWS)*[^c-1b432462d50ba2ef76dd5b1c3232876d]**the 2024 Regulation *(Extent: EWS)***” means *(Extent: EWS)* [Regulation (EU) 2024/1781 *(Extent: EWS)*](https://www.legislation.gov.uk/european/regulation/2024/1781) of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products *(Extent: EWS)*; *(Extent: EWS)*
 - “**applicable implementing measure**” means in relation to an energy-related product mentioned in the left hand column of the table in paragraph 4 of Schedule 1, the corresponding implementing measure referred to in the right hand column of that table;
 - “**approved body**” has the meaning given to it in paragraph 1(1) of Schedule 1B;
 - “**authorised person**” means a person authorised by the market surveillance authority in accordance with regulation 12;
@@ -39,7 +39,7 @@ summary: ''
 - “**conformity assessment body**” means a body that performs conformity assessment activities;
 - “**designated standard**” has the meaning given to it by regulation 2A;
 - “**the Decision**” means Decision No [768/2008/EC](https://www.legislation.gov.uk/eudn/19768/2008) of the European Parliament and of the Council of 9 July 2008 on a common framework for the marketing of products, as it had effect immediately before IP completion day;
-- “**the Directive**” means Directive [2009/125/EC](https://www.legislation.gov.uk/eudr/2009/125) of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products [^key-98c4b4b603d3c05bef038590e749cff4]...;
+- “**the Directive**” means Directive [2009/125/EC](https://www.legislation.gov.uk/eudr/2009/125) of the European Parliament and of the Council of 21 October 2009 establishing a framework for the setting of ecodesign requirements for energy-related products [^c-98c4b4b603d3c05bef038590e749cff4]...;
 - “**ecodesign requirement**” means any requirement in relation to a product, or the design of a product, intended to improve its environmental performance, or any requirement for the supply of information with regard to the environmental aspects of a product;
 - “**ecological profile**” means a description, in accordance with the implementing measure applicable to the product, of the inputs and outputs (such as materials, emissions and waste) associated with a product throughout its life cycle which are significant from the point of view of its environmental impact, expressed in physical quantities that can be measured;
 - “**energy-related product**” means—
@@ -73,7 +73,7 @@ summary: ''
 - “**self-regulation**” includes voluntary agreements; and
 - “**technical specification**” means, except in regulation 2A, a document that prescribes technical requirements to be fulfilled by a product, process, service or system.
 
-(2)[^key-f43c48a49a8958a0bf8d4ed9eb453e3b] Expressions not defined in paragraph (1) which are used in these Regulations and—
+(2)[^c-f43c48a49a8958a0bf8d4ed9eb453e3b] Expressions not defined in paragraph (1) which are used in these Regulations and—
 
 - (a) in an implementing measure;
 - (b) in the Directive; or
@@ -91,7 +91,7 @@ have the meaning they bear in that implementing measure, Directive, or RAMS.
 - “authorised person” means a person authorised by the market surveillance authority in accordance with regulation 12;
 - “the Marketing Decision” means Decision No [768/2008/EC](https://www.legislation.gov.uk/european/decision/2008/0768) of the European Parliament and of the Council on a common framework for the marketing of products and repealing Council Decision [93/465/EEC](https://www.legislation.gov.uk/european/decision/1993/0465); and
 - “RAMS” means Regulation [EC) No 765/2008](https://www.legislation.gov.uk/european/regulation/2008/0765) of the European Parliament and of the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation EEC No 339/93 of the European Parliament and of the Council.
-- “UK(NI) indication” means the marking in the form set out in Schedule 1 to the Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020;[^key-98697502eb1197e9948bbdadebdb0ea0]
+- “UK(NI) indication” means the marking in the form set out in Schedule 1 to the Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020;[^c-98697502eb1197e9948bbdadebdb0ea0]
 
 (2) Expressions not defined in paragraph (1) which are used in these Regulations and—
 
@@ -106,14 +106,14 @@ have the meaning they bear in that implementing measure, Directive, RAMS or the 
 
 [^M_E_4b0b50ea-db31-4038-cac3-fceb5c8fba9a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1c62cf9c3926489b441759924aa6f8fd]: Textual amendment: Reg. 2(1) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(1)(2)(a)(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1/2/a/3/4/a), [7(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/a))
+[^c-1c62cf9c3926489b441759924aa6f8fd]: Textual amendment: Reg. 2(1) substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(1)(2)(a)(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/1/2/a/3/4/a), [7(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/7/a))
 
-[^key-1b432462d50ba2ef76dd5b1c3232876d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/2/1) inserted (E.W.S) (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/750/regulation/3)
+[^c-1b432462d50ba2ef76dd5b1c3232876d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/2/1) inserted (E.W.S) (27.7.2026) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2026 (S.I. 2026/750)](https://www.legislation.gov.uk/uksi/2026/750), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/750/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/750/regulation/3)
 
-[^key-98c4b4b603d3c05bef038590e749cff4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/2/1) omitted (E.W.S.) (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2024/696/regulation/6/1/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-98c4b4b603d3c05bef038590e749cff4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/2/1) omitted (E.W.S.) (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/uksi/2024/696/regulation/6/1/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
 
-[^key-f43c48a49a8958a0bf8d4ed9eb453e3b]: Textual amendment: Reg. 2(2) substituted (E.W.S) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f43c48a49a8958a0bf8d4ed9eb453e3b]: Textual amendment: Reg. 2(2) substituted (E.W.S) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_b9fbec67-3242-44d7-b283-85799862c8a2]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-98697502eb1197e9948bbdadebdb0ea0]: Textual amendment: Words in reg. 2(1) inserted (N.I.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2020/1528/regulation/12)
+[^c-98697502eb1197e9948bbdadebdb0ea0]: Textual amendment: Words in reg. 2(1) inserted (N.I.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2020/1528/regulation/12)

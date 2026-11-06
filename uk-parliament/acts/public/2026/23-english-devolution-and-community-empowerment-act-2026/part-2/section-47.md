@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. PCCs and police areas[^key-69db13dde73e98afd4b75b4660442ac7]
+## 47. PCCs and police areas[^c-69db13dde73e98afd4b75b4660442ac7]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69db13dde73e98afd4b75b4660442ac7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2026/23/section/47) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-69db13dde73e98afd4b75b4660442ac7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2026/23/section/47) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

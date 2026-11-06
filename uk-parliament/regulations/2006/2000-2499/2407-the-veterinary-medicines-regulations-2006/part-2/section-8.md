@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Administration of the product[^key-e3139a4d74b8332f5bc89c02389b5e25]
+## 8. Administration of the product[^c-e3139a4d74b8332f5bc89c02389b5e25]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3139a4d74b8332f5bc89c02389b5e25]: Commencement: Reg. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e3139a4d74b8332f5bc89c02389b5e25]: Commencement: Reg. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.59. Payment into court[^key-8883a23fd650a5fd2912aa21fb5ad918]
+## 7.59. Payment into court[^c-8883a23fd650a5fd2912aa21fb5ad918]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The CPR relating to payment into and out of court of money lodged in court as se
 
 ## Annotations
 
-[^key-8883a23fd650a5fd2912aa21fb5ad918]: Textual amendment: [Rule 7.59](https://www.legislation.gov.uk/uksi/1986/1925/article/7.59) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/7)
+[^c-8883a23fd650a5fd2912aa21fb5ad918]: Textual amendment: [Rule 7.59](https://www.legislation.gov.uk/uksi/1986/1925/article/7.59) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/7)

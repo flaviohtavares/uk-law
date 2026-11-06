@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Meaning of “damage to the environment” etc[^key-b4697f1ef7c211de046b461ef94d3172]
+## 4. Meaning of “damage to the environment” etc[^c-b4697f1ef7c211de046b461ef94d3172]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4697f1ef7c211de046b461ef94d3172]: Commencement: Reg. 4 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-b4697f1ef7c211de046b461ef94d3172]: Commencement: Reg. 4 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

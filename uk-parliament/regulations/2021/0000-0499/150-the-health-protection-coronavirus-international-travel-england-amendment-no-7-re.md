@@ -48,17 +48,17 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 45Q(3) of that Act, the Secretary of State is of the opinion that these Regulations do not contain any provision made by virtue of section 45C(3)(c) of the Act which imposes or enables the imposition of a special restriction or requirement or any other restriction or requirement which has or would have a significant effect on a person's rights.
 
-## 1. Citation, commencement and extent[^key-551ff75ece8276c732fe0f86a39a5c61]
+## 1. Citation, commencement and extent[^c-551ff75ece8276c732fe0f86a39a5c61]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 7) Regulations 2021 and come into force at 04.00 a.m. on 15th February 2021.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Amendment to the Health Protection (Coronavirus, International Travel) (England) Regulations 2020[^key-c17669aa3db9fec95ed0e8dad623bc95]
+## 2. Amendment to the Health Protection (Coronavirus, International Travel) (England) Regulations 2020[^c-c17669aa3db9fec95ed0e8dad623bc95]
 
 The Health Protection (Coronavirus, International Travel) (England) Regulations 2020 [^c24445651] are amended in accordance with regulations 3 to 19.
 
-## 3. Amendments to regulation 2[^key-191ef2d34d4399e2771d4f6649823246]
+## 3. Amendments to regulation 2[^c-191ef2d34d4399e2771d4f6649823246]
 
 Regulation 2 (interpretation) is amended as follows—
 
@@ -76,7 +76,7 @@ Regulation 2 (interpretation) is amended as follows—
 
   .
 
-## 4. Amendment of regulation 3[^key-47a4a904e59712c27b42baabce5d567a]
+## 4. Amendment of regulation 3[^c-47a4a904e59712c27b42baabce5d567a]
 
 In regulation 3 (requirement to provide information) after paragraph (10A) [^c24445671] insert—
 
@@ -84,7 +84,7 @@ In regulation 3 (requirement to provide information) after paragraph (10A) [^c24
 
 .
 
-## 5. Insertion of regulation 3B[^key-77cf480e553eed036d7ee4af45feafd9]
+## 5. Insertion of regulation 3B[^c-77cf480e553eed036d7ee4af45feafd9]
 
 After regulation 3A (requirement to possess notification of negative test result) insert—
 
@@ -134,7 +134,7 @@ After regulation 3A (requirement to possess notification of negative test result
 
 .
 
-## 6. Amendment to regulation 4[^key-a973f67191afc2f265c4071d00e01feb]
+## 6. Amendment to regulation 4[^c-a973f67191afc2f265c4071d00e01feb]
 
 In regulation 4—
 
@@ -183,7 +183,7 @@ In regulation 4—
   ;
 - (l) omit paragraphs (15) and (16).
 
-## 7. Amendment to regulation 4B[^key-78708ca343b66547d36773cd7660d6af]
+## 7. Amendment to regulation 4B[^c-78708ca343b66547d36773cd7660d6af]
 
 In regulation 4B(2) (prohibition of arrival of aircraft into England) at the end insert—
 
@@ -191,7 +191,7 @@ In regulation 4B(2) (prohibition of arrival of aircraft into England) at the end
 
 .
 
-## 8. Amendment to regulation 4C[^key-85eba0b6e306a160e4655cf027703d7a]
+## 8. Amendment to regulation 4C[^c-85eba0b6e306a160e4655cf027703d7a]
 
 In regulation 4C(2) (prohibition on arrival of vessels into England) at the end insert—
 
@@ -199,7 +199,7 @@ In regulation 4C(2) (prohibition on arrival of vessels into England) at the end 
 
 .
 
-## 9. Amendments to regulation 5[^key-9e953d23fe7e22b279db969190af1c78]
+## 9. Amendments to regulation 5[^c-9e953d23fe7e22b279db969190af1c78]
 
 In regulation 5 (enforcement of requirement to self-isolate)—
 
@@ -243,7 +243,7 @@ In regulation 5 (enforcement of requirement to self-isolate)—
 
   .
 
-## 10. Insertion of regulation 5A[^key-474fe9ef5024909786f7a1a576a059e1]
+## 10. Insertion of regulation 5A[^c-474fe9ef5024909786f7a1a576a059e1]
 
 After regulation 5 insert—
 
@@ -273,7 +273,7 @@ After regulation 5 insert—
 
 .
 
-## 11. Amendment to regulation 6[^key-19bc8a4aa68bcd273999de5c483d2df1]
+## 11. Amendment to regulation 6[^c-19bc8a4aa68bcd273999de5c483d2df1]
 
 In regulation 6 (offences and penalties)—
 
@@ -319,7 +319,7 @@ In regulation 6 (offences and penalties)—
 
   .
 
-## 12. Amendment to regulation 7[^key-53a6bac998e708bfb3cf9b5b39ceb3c4]
+## 12. Amendment to regulation 7[^c-53a6bac998e708bfb3cf9b5b39ceb3c4]
 
 In regulation 7 (fixed penalty notices)—
 
@@ -354,7 +354,7 @@ In regulation 7 (fixed penalty notices)—
   ;
 - (f) in paragraph (10)(b) for “regulation 6(1)(aa)” substitute “ 6(1)(a), 6(1)(aa), 6(1)(ab), 6(1)(b) (for failure to comply with a requirement under Schedule B1A), 6(1)(d), 6(2) and 6(3) ”.
 
-## 13. Amendment to regulation 9[^key-71a07a972d1eeff2105c480853936f94]
+## 13. Amendment to regulation 9[^c-71a07a972d1eeff2105c480853936f94]
 
 In regulation 9 (power to use and disclose information)—
 
@@ -394,7 +394,7 @@ In regulation 9 (power to use and disclose information)—
 
   .
 
-## 14. Amendment to regulation 10[^key-9aaa8f232961e5cd0fa876a379dbab05]
+## 14. Amendment to regulation 10[^c-9aaa8f232961e5cd0fa876a379dbab05]
 
 In regulation 10(3) (self-incrimination)—
 
@@ -405,7 +405,7 @@ In regulation 10(3) (self-incrimination)—
 
   .
 
-## 15. Insertion of Schedule B1A[^key-547a66d03d2dbeed36dbb542a1b6a426]
+## 15. Insertion of Schedule B1A[^c-547a66d03d2dbeed36dbb542a1b6a426]
 
 After Schedule B1 (countries and territories subject to additional measures) insert—
 
@@ -573,7 +573,7 @@ After Schedule B1 (countries and territories subject to additional measures) ins
 
 .
 
-## 16. Amendment to Schedule 1[^key-578871ab70756380df39484e0e9333e3]
+## 16. Amendment to Schedule 1[^c-578871ab70756380df39484e0e9333e3]
 
 In Schedule 1 (passenger information)—
 
@@ -589,7 +589,7 @@ In Schedule 1 (passenger information)—
 
   .
 
-## 17. Amendment to Schedule 2[^key-26250995ec9d00d95273ab9a97181256]
+## 17. Amendment to Schedule 2[^c-26250995ec9d00d95273ab9a97181256]
 
 For sub-paragraph (2) of paragraph 5 of Schedule 2 (transit passengers), substitute—
 
@@ -602,7 +602,7 @@ For sub-paragraph (2) of paragraph 5 of Schedule 2 (transit passengers), substit
 
 .
 
-## 18. Amendment to Schedule 2A[^key-16b5336020f9398ebc9c33ef61f5f656]
+## 18. Amendment to Schedule 2A[^c-16b5336020f9398ebc9c33ef61f5f656]
 
 Schedule 2A is amended as follows—
 
@@ -636,7 +636,7 @@ Schedule 2A is amended as follows—
   - (i) in the second paragraph for “your test date” substitute the day after your test date”;
   - (ii) in the third paragraph for “the day you” substitute “ the day after you ”.
 
-## 19. Insertion of Schedule 2C[^key-a8370b29f85830b964c9e042f2338012]
+## 19. Insertion of Schedule 2C[^c-a8370b29f85830b964c9e042f2338012]
 
 After Schedule 2B insert—
 
@@ -942,7 +942,7 @@ After Schedule 2B insert—
 
 .
 
-## 20. Amendment to the Health Protection (Notification) Regulations 2010[^key-6e332dedcf1ffd5e60f227f013f7f42c]
+## 20. Amendment to the Health Protection (Notification) Regulations 2010[^c-6e332dedcf1ffd5e60f227f013f7f42c]
 
 (1) The Health Protection (Notification) Regulations 2010 are amended as follows.
 
@@ -998,7 +998,7 @@ After Schedule 2B insert—
 
 (4) In regulation 7(1)(a) after “4(1)” insert “ , 4ZA ”.
 
-## 21. Amendment to the Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020[^key-66d82bed82b1fcff426a18dad3f03f76][^key-8a94958ab11c1c30521af9ba42b7f108]
+## 21. Amendment to the Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020[^c-66d82bed82b1fcff426a18dad3f03f76][^c-8a94958ab11c1c30521af9ba42b7f108]
 
 (1) The Health Protection (Coronavirus, Public Health Information for Passengers Travelling to England) Regulations 2020 [^c24445901] are amended as follows.
 
@@ -1046,7 +1046,7 @@ After Schedule 2B insert—
 
   .
 
-## 22. Amendment to the Health Protection (Coronavirus, Pre-Departure Testing and Operator Liability) (England) (Amendment) Regulations 2021[^key-ceee04e0a0a33792038f77f0efc19fc0]
+## 22. Amendment to the Health Protection (Coronavirus, Pre-Departure Testing and Operator Liability) (England) (Amendment) Regulations 2021[^c-ceee04e0a0a33792038f77f0efc19fc0]
 
 (1) The Health Protection (Coronavirus, Pre-Departure Testing and Operator Liability) (England) (Amendment) Regulations 2021 [^c24445911] are amended as follows.
 
@@ -1162,7 +1162,7 @@ After Schedule 2B insert—
 
 (9) In regulation 12 (review), for “and 7” substitute “ , 7 and 7A ”.
 
-## 23. Transitional provision and saving[^key-3fb4f549a03f3dd4d0f7dfd268687b0b][^key-e0c597f9d69ebce36609893bb26adcbd]
+## 23. Transitional provision and saving[^c-3fb4f549a03f3dd4d0f7dfd268687b0b][^c-e0c597f9d69ebce36609893bb26adcbd]
 
 (1) Nothing in these Regulations applies in relation to a person who arrived in England before 15th February 2021.
 
@@ -1200,41 +1200,41 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24445641]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-551ff75ece8276c732fe0f86a39a5c61]: Commencement: Reg. 1 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-551ff75ece8276c732fe0f86a39a5c61]: Commencement: Reg. 1 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
-[^key-c17669aa3db9fec95ed0e8dad623bc95]: Commencement: Reg. 2 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-c17669aa3db9fec95ed0e8dad623bc95]: Commencement: Reg. 2 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445651]: Marginal citation: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568); amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), [724](https://www.legislation.gov.uk/uksi/2020/724), [799](https://www.legislation.gov.uk/uksi/2020/799), [805](https://www.legislation.gov.uk/uksi/2020/805), [813](https://www.legislation.gov.uk/uksi/2020/813), [819](https://www.legislation.gov.uk/uksi/2020/819), [841](https://www.legislation.gov.uk/uksi/2020/841), [866](https://www.legislation.gov.uk/uksi/2020/866), [890](https://www.legislation.gov.uk/uksi/2020/890), [913](https://www.legislation.gov.uk/uksi/2020/913), [959](https://www.legislation.gov.uk/uksi/2020/959), [980](https://www.legislation.gov.uk/uksi/2020/980), [1013](https://www.legislation.gov.uk/uksi/2020/1013), [1039](https://www.legislation.gov.uk/uksi/2020/1039), [1070](https://www.legislation.gov.uk/uksi/2020/1070), [1076](https://www.legislation.gov.uk/uksi/2020/1076), [1094](https://www.legislation.gov.uk/uksi/2020/1094), [1129](https://www.legislation.gov.uk/uksi/2020/1129), [1161](https://www.legislation.gov.uk/uksi/2020/1161), [1190](https://www.legislation.gov.uk/uksi/2020/1190), [1227](https://www.legislation.gov.uk/uksi/2020/1227), [1238](https://www.legislation.gov.uk/uksi/2020/1238), [1277](https://www.legislation.gov.uk/uksi/2020/1277), [1292](https://www.legislation.gov.uk/uksi/2020/1292), [1323](https://www.legislation.gov.uk/uksi/2020/1323), [1337](https://www.legislation.gov.uk/uksi/2020/1337), [1360](https://www.legislation.gov.uk/uksi/2020/1360), [1424](https://www.legislation.gov.uk/uksi/2020/1424), [1517](https://www.legislation.gov.uk/uksi/2020/1517), [1595](https://www.legislation.gov.uk/uksi/2020/1595), [2021/18](https://www.legislation.gov.uk/uksi/2021/18), [25](https://www.legislation.gov.uk/uksi/2021/25), [38](https://www.legislation.gov.uk/uksi/2021/38), [47](https://www.legislation.gov.uk/uksi/2021/47), [49](https://www.legislation.gov.uk/uksi/2021/49), [68](https://www.legislation.gov.uk/uksi/2021/68), [98](https://www.legislation.gov.uk/uksi/2021/98) and [137](https://www.legislation.gov.uk/uksi/2021/137).
 
-[^key-191ef2d34d4399e2771d4f6649823246]: Commencement: Reg. 3 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-191ef2d34d4399e2771d4f6649823246]: Commencement: Reg. 3 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445661]: Marginal citation: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53); section 11 was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-47a4a904e59712c27b42baabce5d567a]: Commencement: Reg. 4 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-47a4a904e59712c27b42baabce5d567a]: Commencement: Reg. 4 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445671]: Marginal citation: Paragraph (10A) was inserted by regulation 3(2) of [S.I. 2020/1644](https://www.legislation.gov.uk/uksi/2020/1644).
 
-[^key-77cf480e553eed036d7ee4af45feafd9]: Commencement: Reg. 5 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-77cf480e553eed036d7ee4af45feafd9]: Commencement: Reg. 5 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
-[^key-a973f67191afc2f265c4071d00e01feb]: Commencement: Reg. 6 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-a973f67191afc2f265c4071d00e01feb]: Commencement: Reg. 6 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445681]: Marginal citation: The words omitted were inserted by regulation 5(4) of [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691).
 
-[^key-78708ca343b66547d36773cd7660d6af]: Commencement: Reg. 7 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-78708ca343b66547d36773cd7660d6af]: Commencement: Reg. 7 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
-[^key-85eba0b6e306a160e4655cf027703d7a]: Commencement: Reg. 8 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-85eba0b6e306a160e4655cf027703d7a]: Commencement: Reg. 8 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
-[^key-9e953d23fe7e22b279db969190af1c78]: Commencement: Reg. 9 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-9e953d23fe7e22b279db969190af1c78]: Commencement: Reg. 9 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445691]: Marginal citation: The words “A constable” were substituted by paragraph 2(3) of the Schedule to [S.I. 2020/1375](https://www.legislation.gov.uk/uksi/2020/1375).
 
-[^key-474fe9ef5024909786f7a1a576a059e1]: Commencement: Reg. 10 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-474fe9ef5024909786f7a1a576a059e1]: Commencement: Reg. 10 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
-[^key-19bc8a4aa68bcd273999de5c483d2df1]: Commencement: Reg. 11 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-19bc8a4aa68bcd273999de5c483d2df1]: Commencement: Reg. 11 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445701]: Marginal citation: Paragraph (1A) was inserted by regulation 2(4) of [S.I. 2020/1337](https://www.legislation.gov.uk/uksi/2020/1337) and was amended by regulation 3(4)(b) of [S.I. 2021/38](https://www.legislation.gov.uk/uksi/2021/38).
 
-[^key-53a6bac998e708bfb3cf9b5b39ceb3c4]: Commencement: Reg. 12 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-53a6bac998e708bfb3cf9b5b39ceb3c4]: Commencement: Reg. 12 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445711]: Marginal citation: The words “regulation 6(1)(2)” were substituted by [S.I. 2020/1070](https://www.legislation.gov.uk/uksi/2020/1070).
 
@@ -1242,13 +1242,13 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24445731]: Marginal citation: Paragraph (6A) was inserted by regulation 3(5)(b) of [S.I. 2021/38](https://www.legislation.gov.uk/uksi/2021/38).
 
-[^key-71a07a972d1eeff2105c480853936f94]: Commencement: Reg. 13 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-71a07a972d1eeff2105c480853936f94]: Commencement: Reg. 13 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
-[^key-9aaa8f232961e5cd0fa876a379dbab05]: Commencement: Reg. 14 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-9aaa8f232961e5cd0fa876a379dbab05]: Commencement: Reg. 14 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445741]: Marginal citation: [2006 c. 35](https://www.legislation.gov.uk/ukpga/2006/35); section 1(3)(a) is modified by paragraph 1 of Schedule 2 to that Act.
 
-[^key-547a66d03d2dbeed36dbb542a1b6a426]: Commencement: Reg. 15 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-547a66d03d2dbeed36dbb542a1b6a426]: Commencement: Reg. 15 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445751]: Marginal citation: Paragraph 1 was amended by [S.I. 2020/942](https://www.legislation.gov.uk/uksi/2020/942).
 
@@ -1262,17 +1262,17 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24445801]: Marginal citation: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47); paragraph 1(1B) of Schedule 4 was inserted by section 64(3) of the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9) and paragraph 7(3B) was substituted by section 66(2) of that Act.
 
-[^key-578871ab70756380df39484e0e9333e3]: Commencement: Reg. 16 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-578871ab70756380df39484e0e9333e3]: Commencement: Reg. 16 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445811]: Marginal citation: Paragraph 2(a) was substituted by regulation 2(5)(a) of [S.I. 2020/913](https://www.legislation.gov.uk/uksi/2020/913).
 
-[^key-26250995ec9d00d95273ab9a97181256]: Commencement: Reg. 17 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-26250995ec9d00d95273ab9a97181256]: Commencement: Reg. 17 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
-[^key-16b5336020f9398ebc9c33ef61f5f656]: Commencement: Reg. 18 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-16b5336020f9398ebc9c33ef61f5f656]: Commencement: Reg. 18 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445821]: Marginal citation: The target product profile was published on 20 January 2021 and is available at https://www.gov.uk/government/publications/how-tests-and-testing-kits-for-coronavirus-covid-19-work/target-product-profile-antibody-tests-to-help-determine-if-people-have-recent-infection-to-sars-cov-2-version-2
 
-[^key-a8370b29f85830b964c9e042f2338012]: Commencement: Reg. 19 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-a8370b29f85830b964c9e042f2338012]: Commencement: Reg. 19 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445831]: Marginal citation: [S.I. 2020/1045](https://www.legislation.gov.uk/uksi/2020/1045), amended by [S.I. 2020/1375](https://www.legislation.gov.uk/uksi/2020/1375), [2020/1518](https://www.legislation.gov.uk/uksi/2020/1518) and [2021/97](https://www.legislation.gov.uk/uksi/2021/97).
 
@@ -1282,22 +1282,22 @@ An impact assessment has not been produced for this instrument. An explanatory m
 
 [^c24445861]: Marginal citation: Paragraph 1 was amended by [S.I. 2020/942](https://www.legislation.gov.uk/uksi/2020/942).
 
-[^key-6e332dedcf1ffd5e60f227f013f7f42c]: Commencement: Reg. 20 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-6e332dedcf1ffd5e60f227f013f7f42c]: Commencement: Reg. 20 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445891]: Marginal citation: [S.I. 2020/568](https://www.legislation.gov.uk/uksi/2020/568), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), [724](https://www.legislation.gov.uk/uksi/2020/724), [799](https://www.legislation.gov.uk/uksi/2020/799), [805](https://www.legislation.gov.uk/uksi/2020/805), [813](https://www.legislation.gov.uk/uksi/2020/813), [819](https://www.legislation.gov.uk/uksi/2020/819), [841](https://www.legislation.gov.uk/uksi/2020/841), [866](https://www.legislation.gov.uk/uksi/2020/866), [890](https://www.legislation.gov.uk/uksi/2020/890), [913](https://www.legislation.gov.uk/uksi/2020/913), [959](https://www.legislation.gov.uk/uksi/2020/959), [980](https://www.legislation.gov.uk/uksi/2020/980), [1013](https://www.legislation.gov.uk/uksi/2020/1013), [1039](https://www.legislation.gov.uk/uksi/2020/1039), [1070](https://www.legislation.gov.uk/uksi/2020/1070), [1076](https://www.legislation.gov.uk/uksi/2020/1076), [1094](https://www.legislation.gov.uk/uksi/2020/1094), [1129](https://www.legislation.gov.uk/uksi/2020/1129), [1161](https://www.legislation.gov.uk/uksi/2020/1161), [1190](https://www.legislation.gov.uk/uksi/2020/1190), [1227](https://www.legislation.gov.uk/uksi/2020/1227), [1238](https://www.legislation.gov.uk/uksi/2020/1238), [1277](https://www.legislation.gov.uk/uksi/2020/1277), [1292](https://www.legislation.gov.uk/uksi/2020/1292), [1323](https://www.legislation.gov.uk/uksi/2020/1323), [1337](https://www.legislation.gov.uk/uksi/2020/1337), [1360](https://www.legislation.gov.uk/uksi/2020/1360), [1424](https://www.legislation.gov.uk/uksi/2020/1424), [1517](https://www.legislation.gov.uk/uksi/2020/1517), [1595](https://www.legislation.gov.uk/uksi/2020/1595), [2021/18](https://www.legislation.gov.uk/uksi/2021/18), [25](https://www.legislation.gov.uk/uksi/2021/25), [38](https://www.legislation.gov.uk/uksi/2021/38), [47](https://www.legislation.gov.uk/uksi/2021/47), [49](https://www.legislation.gov.uk/uksi/2021/49), [68](https://www.legislation.gov.uk/uksi/2021/68), [98](https://www.legislation.gov.uk/uksi/2021/98) and [137](https://www.legislation.gov.uk/uksi/2021/137).
 
-[^key-66d82bed82b1fcff426a18dad3f03f76]: Commencement: Reg. 21 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-66d82bed82b1fcff426a18dad3f03f76]: Commencement: Reg. 21 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
-[^key-8a94958ab11c1c30521af9ba42b7f108]: Modification: Reg. 21 modified (8.3.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) Regulations 2021 (S.I. 2021/252)](https://www.legislation.gov.uk/uksi/2021/252), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/252/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/252/regulation/14)
+[^c-8a94958ab11c1c30521af9ba42b7f108]: Modification: Reg. 21 modified (8.3.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) Regulations 2021 (S.I. 2021/252)](https://www.legislation.gov.uk/uksi/2021/252), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/252/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/252/regulation/14)
 
 [^c24445901]: Marginal citation: [S.I. 2020/567](https://www.legislation.gov.uk/uksi/2020/567), amended by [S.I. 2020/691](https://www.legislation.gov.uk/uksi/2020/691), [1090](https://www.legislation.gov.uk/uksi/2020/1090), [1517](https://www.legislation.gov.uk/uksi/2020/1517) and [2021/68](https://www.legislation.gov.uk/uksi/2021/68).
 
-[^key-ceee04e0a0a33792038f77f0efc19fc0]: Commencement: Reg. 22 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-ceee04e0a0a33792038f77f0efc19fc0]: Commencement: Reg. 22 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
 [^c24445911]: Marginal citation: [S.I. 2021/38](https://www.legislation.gov.uk/uksi/2021/38); to which there are amendments not relevant to these Regulations.
 
 [^c24445921]: Marginal citation: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765); to which there are amendments not relevant to these Regulations.
 
-[^key-3fb4f549a03f3dd4d0f7dfd268687b0b]: Commencement: Reg. 23 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
+[^c-3fb4f549a03f3dd4d0f7dfd268687b0b]: Commencement: Reg. 23 in force at 15.2.2021 at 4.00 a.m., see reg. 1(1)
 
-[^key-e0c597f9d69ebce36609893bb26adcbd]: Modification: Reg. 23 modified (8.3.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) Regulations 2021 (S.I. 2021/252)](https://www.legislation.gov.uk/uksi/2021/252), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/252/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/252/regulation/14)
+[^c-e0c597f9d69ebce36609893bb26adcbd]: Modification: Reg. 23 modified (8.3.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Information for Passengers) (England) (Amendment) Regulations 2021 (S.I. 2021/252)](https://www.legislation.gov.uk/uksi/2021/252), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/252/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2021/252/regulation/14)

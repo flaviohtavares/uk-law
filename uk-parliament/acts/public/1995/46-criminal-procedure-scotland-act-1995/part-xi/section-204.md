@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1) A court shall not pass a sentence of imprisonment or of detention in respect of any offence, nor impose imprisonment, or detention, under section 214(2) of this Act in respect of failure to pay a fine, on an accused who is not legally represented in that court and has not been previously sentenced to imprisonment or detention by a court in any part of the United Kingdom or[^c20919041] or, where the court passing sentence considers appropriate, by a court in any[^key-1bbc31a47e9cea7d6e9e162881ba4b71] member State of the European Union, unless the accused either—
+(1) A court shall not pass a sentence of imprisonment or of detention in respect of any offence, nor impose imprisonment, or detention, under section 214(2) of this Act in respect of failure to pay a fine, on an accused who is not legally represented in that court and has not been previously sentenced to imprisonment or detention by a court in any part of the United Kingdom or[^c20919041] or, where the court passing sentence considers appropriate, by a court in any[^c-1bbc31a47e9cea7d6e9e162881ba4b71] member State of the European Union, unless the accused either—
 
 - (a) applied for legal aid and the application was refused on the ground that he was not financially eligible; or
 - (b) having been informed of his right to apply for legal aid, and having had the opportunity, failed to do so.
 
-(2) A court shall not pass a sentence of imprisonment on a person of or over twenty-one years of age who has not been previously sentenced to imprisonment or detention by a court in any part of the United Kingdom or or, where the court passing sentence considers appropriate, by a court in any[^key-0f0b3626662f7d7d1ebf95b03043ae9c] member State of the European Union unless the court considers that no other method of dealing with him is appropriate; [^c14471641]. . ..
+(2) A court shall not pass a sentence of imprisonment on a person of or over twenty-one years of age who has not been previously sentenced to imprisonment or detention by a court in any part of the United Kingdom or or, where the court passing sentence considers appropriate, by a court in any[^c-0f0b3626662f7d7d1ebf95b03043ae9c] member State of the European Union unless the court considers that no other method of dealing with him is appropriate; [^c14471641]. . ..
 
 (2A)[^c14471651] For the purpose of determining under subsection (2) above whether any other method of dealing with such a person is appropriate, the court , unless it has made a risk assessment order in respect of the person,[^c19032611] shall take into account—
 
@@ -35,7 +35,7 @@ summary: ''
 
 (3) Where a court of summary jurisdiction passes a sentence of imprisonment on any such person as is mentioned in subsection (2) above, the court shall state the reason for its opinion that no other method of dealing with him is appropriate, and shall have that reason entered in the record of the proceedings.
 
-(3A)[^c20919831] A court must not pass a sentence of imprisonment for a term of 12[^key-21edd573e7a640e6811a92bda4f3d6af] months or less on a person unless the court considers that no other method of dealing with the person is appropriate.
+(3A)[^c20919831] A court must not pass a sentence of imprisonment for a term of 12[^c-21edd573e7a640e6811a92bda4f3d6af] months or less on a person unless the court considers that no other method of dealing with the person is appropriate.
 
 (3B) Where a court passes such a sentence, the court must—
 
@@ -46,7 +46,7 @@ summary: ''
 
 (3D) An order under subsection (3C) is not to be made unless a draft of the statutory instrument containing the order has been laid before and approved by resolution of the Scottish Parliament.
 
-(3E)[^key-2374658c3f986972bfa131c0f978d015] A modification of the number of months specified in subsection (3A), by an order made under subsection (3C), applies only to offences committed on or after the date on which the modification comes into force.
+(3E)[^c-2374658c3f986972bfa131c0f978d015] A modification of the number of months specified in subsection (3A), by an order made under subsection (3C), applies only to offences committed on or after the date on which the modification comes into force.
 
 (4) The court shall, for the purpose of determining whether a person has been previously sentenced to imprisonment or detention by a court in any part of the United Kingdom—
 
@@ -56,7 +56,7 @@ summary: ''
   - (ii) in relation to England and Wales a sentence of youth custody, borstal training or detention in a young offender institution or detention centre; and
   - (iii) in relation to Northern Ireland, detention in a young offenders centre.
 
-(4A)[^c20919071] The court shall, for the purpose of determining whether a person has been previously sentenced to imprisonment or detention by a court in a member State of the European Union [^key-95ae6602fda1239dfd2ccc98bb896bb0]...—
+(4A)[^c20919071] The court shall, for the purpose of determining whether a person has been previously sentenced to imprisonment or detention by a court in a member State of the European Union [^c-95ae6602fda1239dfd2ccc98bb896bb0]...—
 
 - (a) disregard any previous sentence of imprisonment which, being the equivalent of a suspended sentence, has not taken effect;
 - (b) construe detention as meaning an equivalent sentence to any of those mentioned in subsection (4)(b).
@@ -74,9 +74,9 @@ summary: ''
 
 [^c20919041]: Textual amendment: Words in s. 204(1)(2) inserted (13.12.2010 for all purposes in respect of offences committed on or after this date) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 71(1)](https://www.legislation.gov.uk/asp/2010/13/section/71/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/5/a); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-1bbc31a47e9cea7d6e9e162881ba4b71]: Textual amendment: Words in s. 204(1) substituted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(11)(a)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/11/a) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-1bbc31a47e9cea7d6e9e162881ba4b71]: Textual amendment: Words in s. 204(1) substituted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(11)(a)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/11/a) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
-[^key-0f0b3626662f7d7d1ebf95b03043ae9c]: Textual amendment: Words in s. 204(2) substituted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(11)(a)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/11/a) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-0f0b3626662f7d7d1ebf95b03043ae9c]: Textual amendment: Words in s. 204(2) substituted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(11)(a)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/11/a) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
 [^c14471641]: Textual amendment: Words in s. 204(2) repealed (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 62(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/62/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/48/schedule/3); [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule) (subject to [arts. 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4), [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5)) and expressed to be repealed (1.1.1998) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 6(3)(a)](https://www.legislation.gov.uk/ukpga/1997/48/section/6/3/a); [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 4](https://www.legislation.gov.uk/uksi/1997/2323/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/2323/schedule/2) (subject to [art. 7](https://www.legislation.gov.uk/uksi/1997/2323/article/7))
 
@@ -86,9 +86,9 @@ summary: ''
 
 [^c20919831]: Textual amendment: S. 204(3A)-(3D) inserted (1.2.2011for all purposes in respect of offences committed on or after this date) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 17](https://www.legislation.gov.uk/asp/2010/13/section/17), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-21edd573e7a640e6811a92bda4f3d6af]: Textual amendment: Word in s. 204(3A) substituted (4.7.2019) by [The Presumption Against Short Periods of Imprisonment (Scotland) Order 2019 (S.S.I. 2019/236)](https://www.legislation.gov.uk/ssi/2019/236), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2019/236/article/1/3), [2](https://www.legislation.gov.uk/ssi/2019/236/article/2)
+[^c-21edd573e7a640e6811a92bda4f3d6af]: Textual amendment: Word in s. 204(3A) substituted (4.7.2019) by [The Presumption Against Short Periods of Imprisonment (Scotland) Order 2019 (S.S.I. 2019/236)](https://www.legislation.gov.uk/ssi/2019/236), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2019/236/article/1/3), [2](https://www.legislation.gov.uk/ssi/2019/236/article/2)
 
-[^key-2374658c3f986972bfa131c0f978d015]: Textual amendment: S. 204(3E) inserted (3.7.2019) by [The Presumption Against Short Periods of Imprisonment (Scotland) Order 2019 (S.S.I. 2019/236)](https://www.legislation.gov.uk/ssi/2019/236), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2019/236/article/1/2), [3](https://www.legislation.gov.uk/ssi/2019/236/article/3)
+[^c-2374658c3f986972bfa131c0f978d015]: Textual amendment: S. 204(3E) inserted (3.7.2019) by [The Presumption Against Short Periods of Imprisonment (Scotland) Order 2019 (S.S.I. 2019/236)](https://www.legislation.gov.uk/ssi/2019/236), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2019/236/article/1/2), [3](https://www.legislation.gov.uk/ssi/2019/236/article/3)
 
 [^c14471661]: Marginal citation: [1973 c.62](https://www.legislation.gov.uk/ukpga/1973/62).
 
@@ -96,4 +96,4 @@ summary: ''
 
 [^c20919071]: Textual amendment: S. 204(4A)(4B) inserted (13.12.2010 for all purposes in respect of offences committed on or after this date) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 71(1)](https://www.legislation.gov.uk/asp/2010/13/section/71/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 4 para. 5(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/5/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-95ae6602fda1239dfd2ccc98bb896bb0]: Textual amendment: Words in s. 204(4A) omitted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(11)(b)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/11/b) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-95ae6602fda1239dfd2ccc98bb896bb0]: Textual amendment: Words in s. 204(4A) omitted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(11)(b)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/11/b) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))

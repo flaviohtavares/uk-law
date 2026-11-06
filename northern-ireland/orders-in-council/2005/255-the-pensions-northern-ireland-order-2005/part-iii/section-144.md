@@ -24,9 +24,9 @@ summary: ''
 
 (2)[^c17105101] The Board must give the trustees or managers a notice (a “transfer notice”).
 
-(3)[^c17105101] In a case to which Article 111 or 112 applies, a transfer notice may not be given until the determination made or valuation obtained under Article 127(2)[^key-e0e510ae68517ca121455aec53156504] is binding.
+(3)[^c17105101] In a case to which Article 111 or 112 applies, a transfer notice may not be given until the determination made or valuation obtained under Article 127(2)[^c-e0e510ae68517ca121455aec53156504] is binding.
 
-(4) In a case to which Article 142 applies, a transfer notice may not be given until the determination made or[^key-444722e078ff8a890782c71807cc7d1c] valuation obtained under paragraph (3) of that Article is binding.
+(4) In a case to which Article 142 applies, a transfer notice may not be given until the determination made or[^c-444722e078ff8a890782c71807cc7d1c] valuation obtained under paragraph (3) of that Article is binding.
 
 (5)[^c17105081][^c17105101][^c17105081] A transfer notice may not be given in relation to a scheme during any period when the issue of, or failure to issue, a withdrawal notice under or by virtue of Article 130 or 131 (refusal to assume responsibility) is reviewable (see Article 133(6)(b)).
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) the Regulator, and
 - (b) any insolvency practitioner in relation to the employer or, if there is no such insolvency practitioner, the employer.
 
-(7) This Article is subject to Article 156(2)[^key-584c5fc40b47dd8040ab9edd61d8e36a] (no transfer notice [^key-d42b6686d623847bf5a3fe16bf3c9379]... when fraud compensation application is pending).[^c17105081]
+(7) This Article is subject to Article 156(2)[^c-584c5fc40b47dd8040ab9edd61d8e36a] (no transfer notice [^c-d42b6686d623847bf5a3fe16bf3c9379]... when fraud compensation application is pending).[^c17105081]
 
 ## Annotations
 
@@ -45,10 +45,10 @@ summary: ''
 
 [^c17105101]: Textual amendment: mod. by SR 2005/91
 
-[^key-e0e510ae68517ca121455aec53156504]: Textual amendment: Words in [art. 144(3)](https://www.legislation.gov.uk/nisi/2005/255/article/144/3) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/12/2); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-e0e510ae68517ca121455aec53156504]: Textual amendment: Words in [art. 144(3)](https://www.legislation.gov.uk/nisi/2005/255/article/144/3) substituted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/12/2); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-444722e078ff8a890782c71807cc7d1c]: Textual amendment: Words in [art. 144(4)](https://www.legislation.gov.uk/nisi/2005/255/article/144/4) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/12/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-444722e078ff8a890782c71807cc7d1c]: Textual amendment: Words in [art. 144(4)](https://www.legislation.gov.uk/nisi/2005/255/article/144/4) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/12/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-584c5fc40b47dd8040ab9edd61d8e36a]: Textual amendment: Word in art. 144(7) substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 17(2)(a)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/17/2/a); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(ii)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/ii)
+[^c-584c5fc40b47dd8040ab9edd61d8e36a]: Textual amendment: Word in art. 144(7) substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 17(2)(a)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/17/2/a); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(ii)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/ii)
 
-[^key-d42b6686d623847bf5a3fe16bf3c9379]: Textual amendment: Words in art. 144(7) omitted (7.6.2012) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 17(2)(b)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/17/2/b); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(ii)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/ii)
+[^c-d42b6686d623847bf5a3fe16bf3c9379]: Textual amendment: Words in art. 144(7) omitted (7.6.2012) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 17(2)(b)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/17/2/b); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(ii)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Transfers with the consent of the transferor[^key-44c782747a2402ce1a5b01d1a715f483]
+## 40. Transfers with the consent of the transferor[^c-44c782747a2402ce1a5b01d1a715f483]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ of property, rights and liabilities falling within subsection (3) that are set o
 
 ## Annotations
 
-[^key-44c782747a2402ce1a5b01d1a715f483]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2004/20/section/40) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-44c782747a2402ce1a5b01d1a715f483]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2004/20/section/40) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

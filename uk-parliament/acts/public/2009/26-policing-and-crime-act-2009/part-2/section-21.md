@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Closure orders[^key-5422d9ec2b63b475f2c6ed01a73e01bc]
+## 21. Closure orders[^c-5422d9ec2b63b475f2c6ed01a73e01bc]
 
 *Extent: E+W+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5422d9ec2b63b475f2c6ed01a73e01bc]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/26/section/21) in force at 1.4.2010 for E.W. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(h)](https://www.legislation.gov.uk/uksi/2010/507/article/5/h)
+[^c-5422d9ec2b63b475f2c6ed01a73e01bc]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/26/section/21) in force at 1.4.2010 for E.W. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(h)](https://www.legislation.gov.uk/uksi/2010/507/article/5/h)

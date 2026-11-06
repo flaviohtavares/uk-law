@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Information and advice from the Commission and information from the Welsh Ministers[^key-227aafca39fa7ed5263e99e31d5ac63d][^key-f5f91d5dc671d127ff61aa5dec49b962]
+## 130. Information and advice from the Commission and information from the Welsh Ministers[^c-227aafca39fa7ed5263e99e31d5ac63d][^c-f5f91d5dc671d127ff61aa5dec49b962]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-227aafca39fa7ed5263e99e31d5ac63d]: Commencement: S. 130 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-227aafca39fa7ed5263e99e31d5ac63d]: Commencement: S. 130 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-f5f91d5dc671d127ff61aa5dec49b962]: Commencement: [S. 130](https://www.legislation.gov.uk/asc/2022/1/section/130) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(q)](https://www.legislation.gov.uk/wsi/2023/919/article/2/q)
+[^c-f5f91d5dc671d127ff61aa5dec49b962]: Commencement: [S. 130](https://www.legislation.gov.uk/asc/2022/1/section/130) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(q)](https://www.legislation.gov.uk/wsi/2023/919/article/2/q)

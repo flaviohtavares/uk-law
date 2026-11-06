@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Schedule 1ZA (the Financial Conduct Authority)[^key-4a4095bf29d529aff7a44024c31abfe3]
+## 93. Schedule 1ZA (the Financial Conduct Authority)[^c-4a4095bf29d529aff7a44024c31abfe3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In Schedule 1ZA [^c23658681] (the Financial Conduct Authority), in paragraph 23(
 
 ## Annotations
 
-[^key-4a4095bf29d529aff7a44024c31abfe3]: Commencement: Reg. 93 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-4a4095bf29d529aff7a44024c31abfe3]: Commencement: Reg. 93 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658681]: Marginal citation: Schedule 1ZA was inserted by section 6(2) of, and Schedule 3 to, the Financial Services Act 2012.
 

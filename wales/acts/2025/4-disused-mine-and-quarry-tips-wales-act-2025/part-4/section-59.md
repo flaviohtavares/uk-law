@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Authority’s power to require relevant public authorities to give information[^key-ce47497c3da950ca6a24f9eb4bf5f44f]
+## 59. Authority’s power to require relevant public authorities to give information[^c-ce47497c3da950ca6a24f9eb4bf5f44f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce47497c3da950ca6a24f9eb4bf5f44f]: Commencement: S. 59 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-ce47497c3da950ca6a24f9eb4bf5f44f]: Commencement: S. 59 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

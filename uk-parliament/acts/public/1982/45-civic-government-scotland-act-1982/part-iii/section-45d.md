@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45D. Deemed grant of applications[^key-8f276295c409ed1aecc69be01672bd72]
+## 45D. Deemed grant of applications[^c-8f276295c409ed1aecc69be01672bd72]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ the licence is deemed to have been granted, renewed or, as the case may be, vari
 
 ## Annotations
 
-[^key-8f276295c409ed1aecc69be01672bd72]: Textual amendment: S. 45D inserted (1.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 77(3)](https://www.legislation.gov.uk/asp/2015/10/section/77/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/307/article/4))
+[^c-8f276295c409ed1aecc69be01672bd72]: Textual amendment: S. 45D inserted (1.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 77(3)](https://www.legislation.gov.uk/asp/2015/10/section/77/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/307/article/4))

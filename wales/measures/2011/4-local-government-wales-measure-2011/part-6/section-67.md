@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. When appointments to be made by committee[^key-19087d633502dd7e816b967f2d6f02ab]
+## 67. When appointments to be made by committee[^c-19087d633502dd7e816b967f2d6f02ab]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19087d633502dd7e816b967f2d6f02ab]: Commencement: [S. 67](https://www.legislation.gov.uk/mwa/2011/4/section/67) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)
+[^c-19087d633502dd7e816b967f2d6f02ab]: Commencement: [S. 67](https://www.legislation.gov.uk/mwa/2011/4/section/67) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)

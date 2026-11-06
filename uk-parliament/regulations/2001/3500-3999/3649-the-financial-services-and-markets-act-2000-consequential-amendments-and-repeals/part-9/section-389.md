@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 389. Conversion of payments by an authorised institution[^key-cc38efc7a039d97bbf31562698a01922]
+## 389. Conversion of payments by an authorised institution[^c-cc38efc7a039d97bbf31562698a01922]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ In regulation 10 of the Social Security (Payments on account, Overpayments and R
 
 ## Annotations
 
-[^key-cc38efc7a039d97bbf31562698a01922]: Commencement: Art. 389 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cc38efc7a039d97bbf31562698a01922]: Commencement: Art. 389 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00283]: Footnote: Regulation 10 was amended by [S.I. 1988/688](https://www.legislation.gov.uk/uksi/1988/688), regulation 2(2), and modified, in relation to the reference to any institution authorised under the Banking Act 1987, by [S.I. 1992/3218](https://www.legislation.gov.uk/uksi/1992/3218), regulation 82(1), Schedule 10, paragraph 47.

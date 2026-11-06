@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Procedure for suspending, etc. a marketing authorisation or animal test certificate[^key-bbea71e53ee68810d41316fd5410aa0b]
+## 29. Procedure for suspending, etc. a marketing authorisation or animal test certificate[^c-bbea71e53ee68810d41316fd5410aa0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ he shall notify the applicant or holder of his intention.
 
 ## Annotations
 
-[^key-bbea71e53ee68810d41316fd5410aa0b]: Commencement: Reg. 29 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bbea71e53ee68810d41316fd5410aa0b]: Commencement: Reg. 29 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

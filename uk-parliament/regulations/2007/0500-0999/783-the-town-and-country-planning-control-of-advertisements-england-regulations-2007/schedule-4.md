@@ -145,7 +145,7 @@ Regulations 14 and 17
 
 (2) A person who has made an application for express consent may also appeal to the Secretary of State if within the period of 8 weeks from the date when the application was received by the local planning authority, that authority have neither given him notice of their decision on it nor given him notice that they have exercised their power under section 70A to decline to determine the application.
 
-(3)[^key-58f4bfa88cee1c6b67db8f1d8e007b69] An applicant who wishes to appeal under subsection (1) or (2) shall give notice of appeal to the Secretary of State by—
+(3)[^c-58f4bfa88cee1c6b67db8f1d8e007b69] An applicant who wishes to appeal under subsection (1) or (2) shall give notice of appeal to the Secretary of State by—
 
 - (a) serving on the Secretary of State within—
   - (i) 8 weeks from the date of receipt of the local planning authority’s decision, or, as the case may be, within 8 weeks from the expiry of the period mentioned in subsection (2); or
@@ -154,16 +154,16 @@ Regulations 14 and 17
   a completed appeal form, obtained from the Secretary of State; and
 - (b) serving on the local planning authority a copy of the completed appeal form mentioned in sub-paragraph (a) as soon as reasonably practicable.
 
-(3A) The appeal form mentioned in subsection (3)(a)[^key-223d94a6bd035583aff35209756424f5] shall be accompanied by a copy of each of the following documents—
+(3A) The appeal form mentioned in subsection (3)(a)[^c-223d94a6bd035583aff35209756424f5] shall be accompanied by a copy of each of the following documents—
 
 - (a) the application made to the local planning authority;
 - (b) all relevant plans and particulars submitted to them;
 - (c) the notice of the authority's decision (if any); and
 - (d) any other relevant correspondence with the authority.
 
-(4)[^key-acb530415e7a35ced80f48cbae0cbc1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-acb530415e7a35ced80f48cbae0cbc1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) For the purposes of the application of sections 79(1) , 288(10)(b) and 319A(7)(b)[^key-3ac076834ecaef7d9e14f948ba9ade25] in relation to an appeal under subsection (2), it shall be assumed that the authority decided to refuse the application in question.
+(5) For the purposes of the application of sections 79(1) , 288(10)(b) and 319A(7)(b)[^c-3ac076834ecaef7d9e14f948ba9ade25] in relation to an appeal under subsection (2), it shall be assumed that the authority decided to refuse the application in question.
 
 **79.** (1) On appeal under section 78 the Secretary of State may—
 
@@ -178,9 +178,9 @@ and may deal with the application as if it had been made to him in the first ins
 - (b) the factors referred to in regulation 3 of the Town and Country Planning (Control of Advertisements) (England) Regulations 2007; and
 - (c) any period specified in the application for consent.
 
-(2)[^key-5d1619940cbbe40d9b93ca8d61615131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5d1619940cbbe40d9b93ca8d61615131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5d1619940cbbe40d9b93ca8d61615131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5d1619940cbbe40d9b93ca8d61615131] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ...
 
@@ -266,15 +266,15 @@ he may decline to determine the appeal or to proceed with the determination.
 
 [^M_F_9a3f1cf2-5ba5-4f87-cd93-38b92364381b]: Textual amendment: Words in Sch. 4 Pt. 3 para. 2(b) substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/3) (with [reg. 5(4)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/5/4))
 
-[^key-58f4bfa88cee1c6b67db8f1d8e007b69]: Textual amendment: Words in Sch. 4 Pt. 4 substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(4)(a) (with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/4/a)
+[^c-58f4bfa88cee1c6b67db8f1d8e007b69]: Textual amendment: Words in Sch. 4 Pt. 4 substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(4)(a) (with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/4/a)
 
-[^key-223d94a6bd035583aff35209756424f5]: Textual amendment: Words in Sch. 4 Pt. 4 substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(4)(b) (with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/4/b)
+[^c-223d94a6bd035583aff35209756424f5]: Textual amendment: Words in Sch. 4 Pt. 4 substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(4)(b) (with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/4/b)
 
-[^key-acb530415e7a35ced80f48cbae0cbc1e]: Textual amendment: Words in Sch. 4 Pt. 4 omitted (1.10.2013) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(4)(c) (with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/4/c)
+[^c-acb530415e7a35ced80f48cbae0cbc1e]: Textual amendment: Words in Sch. 4 Pt. 4 omitted (1.10.2013) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(4)(c) (with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/4/c)
 
-[^key-3ac076834ecaef7d9e14f948ba9ade25]: Textual amendment: Words in Sch. 4 Pt. 4 substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(4)(d) (with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/4/d)
+[^c-3ac076834ecaef7d9e14f948ba9ade25]: Textual amendment: Words in Sch. 4 Pt. 4 substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(4)(d) (with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/4/d)
 
-[^key-5d1619940cbbe40d9b93ca8d61615131]: Textual amendment: Words in Sch. 4 Pt. 4 omitted (1.10.2013) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(5) with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/5)
+[^c-5d1619940cbbe40d9b93ca8d61615131]: Textual amendment: Words in Sch. 4 Pt. 4 omitted (1.10.2013) by virtue of [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(5) with reg. 5(4))](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/5)
 
 [^M_F_3330add3-bb11-4dac-93d9-2a60eca38a9e]: Textual amendment: Words in Sch. 4 Pt. 5 para. 1 substituted (1.10.2013) by [The Town and Country Planning (Appeals) (Written Representations Procedure and Advertisements) (England) (Amendment) Regulations 2013 (S.I. 2013/2114)](https://www.legislation.gov.uk/uksi/2013/2114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/3/6/a) (with [reg. 5(4)](https://www.legislation.gov.uk/uksi/2013/2114/regulation/5/4))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Track-laying vehicles: recognised category[^key-9324bb99fc4c9d685d59f262976e79e1]
+## 41. Track-laying vehicles: recognised category[^c-9324bb99fc4c9d685d59f262976e79e1]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9324bb99fc4c9d685d59f262976e79e1]: Commencement: Art. 41 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-9324bb99fc4c9d685d59f262976e79e1]: Commencement: Art. 41 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Functions of Youth Justice Board[^key-b52f8c9ff3005c7c51ba2fb041364d1b]
+## 32. Functions of Youth Justice Board[^c-b52f8c9ff3005c7c51ba2fb041364d1b]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b52f8c9ff3005c7c51ba2fb041364d1b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2007/21/section/32) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/i)
+[^c-b52f8c9ff3005c7c51ba2fb041364d1b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2007/21/section/32) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/i)

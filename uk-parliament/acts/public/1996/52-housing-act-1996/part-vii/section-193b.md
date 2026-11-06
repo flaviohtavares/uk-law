@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193B. Notices in cases of an applicant's deliberate and unreasonable refusal to co-operate[^key-c22242b08fa57234a482bb7e939ccf34]
+## 193B. Notices in cases of an applicant's deliberate and unreasonable refusal to co-operate[^c-c22242b08fa57234a482bb7e939ccf34]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c22242b08fa57234a482bb7e939ccf34]: Textual amendment: Ss. 193A-193C inserted (12.2.2018 for specified purposes, 3.4.2018 in so far as not already in force) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/7/1), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/a), [3(g)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/g)
+[^c-c22242b08fa57234a482bb7e939ccf34]: Textual amendment: Ss. 193A-193C inserted (12.2.2018 for specified purposes, 3.4.2018 in so far as not already in force) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2017/13/section/7/1), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/167/regulation/2/a), [3(g)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/g)

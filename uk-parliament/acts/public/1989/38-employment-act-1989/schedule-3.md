@@ -22,11 +22,11 @@ summary: ''
 
 Section 10.
 
-### Part I — Repeals relating to Restrictions with Respect to Hours of Employment and Holidays[^key-b88779b7119c72645a46e2a91c8ceaa9]
+### Part I — Repeals relating to Restrictions with Respect to Hours of Employment and Holidays[^c-b88779b7119c72645a46e2a91c8ceaa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Repeals Relating to Other Requirements[^key-48cb1ce56135946abf8bb80c23168588]
+### Part II — Repeals Relating to Other Requirements[^c-48cb1ce56135946abf8bb80c23168588]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,8 +139,8 @@ and the existing provisions of that section (as amended by sub-paragraph (a) abo
 
 ## Annotations
 
-[^key-b88779b7119c72645a46e2a91c8ceaa9]: Textual amendment: [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/3/part/I) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-b88779b7119c72645a46e2a91c8ceaa9]: Textual amendment: [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/3/part/I) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-48cb1ce56135946abf8bb80c23168588]: Textual amendment: [Sch. 3 Pt. II](https://www.legislation.gov.uk/ukpga/1989/38/schedule/3/part/II) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-48cb1ce56135946abf8bb80c23168588]: Textual amendment: [Sch. 3 Pt. II](https://www.legislation.gov.uk/ukpga/1989/38/schedule/3/part/II) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c1205592]: Textual amendment: [Sch. 3 Pt. III](https://www.legislation.gov.uk/ukpga/1989/38/schedule/3/part/III), [para. 2(c)](https://www.legislation.gov.uk/ukpga/1989/38/paragraph/2/c) repealed (E.W.) (26.8.1994) by [1994 c. 20](https://www.legislation.gov.uk/ukpga/1994/20), [s. 9(2)](https://www.legislation.gov.uk/ukpga/1994/20/section/9/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1994/20/schedule/5); [S.I. 1994/1841](https://www.legislation.gov.uk/uksi/1994/1841), [art. 2](https://www.legislation.gov.uk/uksi/1994/1841/article/2)

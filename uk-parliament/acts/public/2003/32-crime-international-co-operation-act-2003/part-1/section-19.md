@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Seized evidence[^key-ae62c5ea7f56d2a066f80fdb5012c934][^key-1f6d1f56d74db555438d6082fda2e540]
+## 19. Seized evidence[^c-ae62c5ea7f56d2a066f80fdb5012c934][^c-1f6d1f56d74db555438d6082fda2e540]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae62c5ea7f56d2a066f80fdb5012c934]: Commencement: S. 19 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-ae62c5ea7f56d2a066f80fdb5012c934]: Commencement: S. 19 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-1f6d1f56d74db555438d6082fda2e540]: Modification: S. 19 functions of Secretary of State made exercisable by the Commissioners (E.W.N.I.) (23.3.2005) by [Crime (International Co-operation) Act 2003 (Exercise of Functions) Order 2005 (S.I. 2005/425)](https://www.legislation.gov.uk/uksi/2005/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/425/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/425/article/3), [7,](https://www.legislation.gov.uk/uksi/2005/425/article/7) 11, 12
+[^c-1f6d1f56d74db555438d6082fda2e540]: Modification: S. 19 functions of Secretary of State made exercisable by the Commissioners (E.W.N.I.) (23.3.2005) by [Crime (International Co-operation) Act 2003 (Exercise of Functions) Order 2005 (S.I. 2005/425)](https://www.legislation.gov.uk/uksi/2005/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/425/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/425/article/3), [7,](https://www.legislation.gov.uk/uksi/2005/425/article/7) 11, 12

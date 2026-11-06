@@ -51,11 +51,11 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the appropriate National Assembly for Wales scrutiny procedure for these Regulations) have been satisfied.
 
-## 1. Title and commencement[^key-618381c48cda5a2eb68977dad4ccaf23]
+## 1. Title and commencement[^c-618381c48cda5a2eb68977dad4ccaf23]
 
 The title of these Regulations is the Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 and they come into force on exit day.
 
-## 2. Town and Country Planning (Control of Advertisements) Regulations 1992[^key-ae24586d22d09558e6e42daebdb7b8e4]
+## 2. Town and Country Planning (Control of Advertisements) Regulations 1992[^c-ae24586d22d09558e6e42daebdb7b8e4]
 
 In regulation 2(1) of the Town and Country Planning (Control of Advertisements) Regulations 1992 [^c24570521]—
 
@@ -64,7 +64,7 @@ In regulation 2(1) of the Town and Country Planning (Control of Advertisements) 
   - (i) for the words “European licence” substitute “ railway undertaking licence ”;
   - (ii) omit the words from “or pursuant” to “a single European railway area (recast)”.
 
-## 3. Town and Country Planning (Local Development Plan) (Wales) Regulations 2005[^key-dea9521a734b6f74712dd26e019154a7]
+## 3. Town and Country Planning (Local Development Plan) (Wales) Regulations 2005[^c-dea9521a734b6f74712dd26e019154a7]
 
 In regulation 13(1) of the Town and Country Planning (Local Development Plan) (Wales) Regulations 2005 [^c24570531]—
 
@@ -73,7 +73,7 @@ In regulation 13(1) of the Town and Country Planning (Local Development Plan) (W
 
   > - (iii) in the case of existing establishments, to facilitate and encourage operators to take all necessary measures to prevent major accidents and to limit their consequences for human health and the environment.
 
-## 4. The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^key-98300627ba94653f2fafb01aab0a6c6f]
+## 4. The Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^c-98300627ba94653f2fafb01aab0a6c6f]
 
 In Schedule 4 of the Town and Country Planning (Development Management Procedure) (Wales) Order 2012 [^c24570541]—
 
@@ -82,16 +82,16 @@ In Schedule 4 of the Town and Country Planning (Development Management Procedure
 
   > - (i) the expressions “major accident” and “establishment” as they appear in that paragraph have the same meaning as in regulation 2 of the Control of Major Accident Hazards Regulations 2015.
 
-## 5. The Planning (Hazardous Substances) (Wales) Regulations 2015[^key-44ea01d14c2709133357528c549e7e79]
+## 5. The Planning (Hazardous Substances) (Wales) Regulations 2015[^c-44ea01d14c2709133357528c549e7e79]
 
 (1) The Planning (Hazardous Substances) (Wales) Regulations 2015 [^c24570561] are amended as follows.
 
 (2) In regulation 2(1)—
 
-- (a) in the definition of “the Directive” after “dangerous substances” insert “ as it had effect immediately before IP completion day[^key-b7e72544f8f8386e640c3e74c123dc1b] ”;
+- (a) in the definition of “the Directive” after “dangerous substances” insert “ as it had effect immediately before IP completion day[^c-b7e72544f8f8386e640c3e74c123dc1b] ”;
 - (b) insert the following definitions in the appropriate places—
 
-  > - “**the EIA Directive**” (“***y Gyfarwyddeb AEA***”) means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as it had effect immediately before IP completion day[^key-c4d22abe827e2eeb82502ef3b3df6411] ;
+  > - “**the EIA Directive**” (“***y Gyfarwyddeb AEA***”) means Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment as it had effect immediately before IP completion day[^c-c4d22abe827e2eeb82502ef3b3df6411] ;
 
   ;
 
@@ -130,14 +130,14 @@ In Schedule 4 of the Town and Country Planning (Development Management Procedure
 
   .
 
-## 6. Transitional Provision[^key-5ab4885aefd7882062d2a45453710312]
+## 6. Transitional Provision[^c-5ab4885aefd7882062d2a45453710312]
 
-(1) For the period of 2 years beginning with IP completion day[^key-6d2c6fecd929f2d0a0e4a5839fd841a9], any reference in regulation 2 of the Town and Country Planning (Control of Advertisements) Regulations 1992 to a railway undertaking licence pursuant to the 2005 Regulations includes a reference to a relevant European licence.
+(1) For the period of 2 years beginning with IP completion day[^c-6d2c6fecd929f2d0a0e4a5839fd841a9], any reference in regulation 2 of the Town and Country Planning (Control of Advertisements) Regulations 1992 to a railway undertaking licence pursuant to the 2005 Regulations includes a reference to a relevant European licence.
 
 (2) Any act or omission—
 
 - (a) in relation to, or in reliance on, a relevant European licence, and
-- (b) that has effect immediately before IP completion day[^key-0007f30da479176dc6726dd35beddbe3],
+- (b) that has effect immediately before IP completion day[^c-0007f30da479176dc6726dd35beddbe3],
 
 continues to have effect on and after IP completion day.
 
@@ -171,29 +171,29 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24570511]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-618381c48cda5a2eb68977dad4ccaf23]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-618381c48cda5a2eb68977dad4ccaf23]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ae24586d22d09558e6e42daebdb7b8e4]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ae24586d22d09558e6e42daebdb7b8e4]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24570521]: Marginal citation: [S.I. 1992/666](https://www.legislation.gov.uk/uksi/1992/666), as amended by [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), 2016/645. There are other amending instruments but none is relevant.
 
-[^key-dea9521a734b6f74712dd26e019154a7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dea9521a734b6f74712dd26e019154a7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24570531]: Marginal citation: [S.I. 2005/2839](https://www.legislation.gov.uk/uksi/2005/2839) (W.203) as amended by S.I 2015/1597. There are other amendments but none are relevant.
 
-[^key-98300627ba94653f2fafb01aab0a6c6f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-98300627ba94653f2fafb01aab0a6c6f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24570541]: Marginal citation: [S.I. 2012/801](https://www.legislation.gov.uk/uksi/2012/801) (W.110) as amended by S.I 2016/59.
 
 [^c24570551]: Marginal citation: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483), to which there are amendments but none is relevant.
 
-[^key-44ea01d14c2709133357528c549e7e79]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-44ea01d14c2709133357528c549e7e79]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24570561]: Marginal citation: [S.I. 2015/1597](https://www.legislation.gov.uk/uksi/2015/1597) (W.196) to which there are amendments but none are relevant.
 
-[^key-b7e72544f8f8386e640c3e74c123dc1b]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/2/a) substituted (31.12.2020 immediately before IP completion day) by [The Environmental Assessments and Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1324)](https://www.legislation.gov.uk/wsi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/3/2/a)
+[^c-b7e72544f8f8386e640c3e74c123dc1b]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/2/a) substituted (31.12.2020 immediately before IP completion day) by [The Environmental Assessments and Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1324)](https://www.legislation.gov.uk/wsi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/3/2/a)
 
-[^key-c4d22abe827e2eeb82502ef3b3df6411]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Environmental Assessments and Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1324)](https://www.legislation.gov.uk/wsi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/3/2/b)
+[^c-c4d22abe827e2eeb82502ef3b3df6411]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/wsi/2019/456/regulation/5/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Environmental Assessments and Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1324)](https://www.legislation.gov.uk/wsi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/3/2/b)
 
 [^c24570571]: Marginal citation: Directive 2011/92/EU is implemented by the Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2017 ([S.I. 2017/567](https://www.legislation.gov.uk/uksi/2017/567) (W. 136)).
 
@@ -207,11 +207,11 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24570621]: Marginal citation: O.S. 2015/483 fel y'i diwygiwyd gan O.S. 2018/1370. Mae offerynnau diwygio eraill ond nid yw'r un ohonnynt yn berthnasol.
 
-[^key-5ab4885aefd7882062d2a45453710312]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5ab4885aefd7882062d2a45453710312]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6d2c6fecd929f2d0a0e4a5839fd841a9]: Textual amendment: Words in reg. 6(1) substituted (31.12.2020 immediately before IP completion day) by [The Environmental Assessments and Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1324)](https://www.legislation.gov.uk/wsi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/3/3/a)
+[^c-6d2c6fecd929f2d0a0e4a5839fd841a9]: Textual amendment: Words in reg. 6(1) substituted (31.12.2020 immediately before IP completion day) by [The Environmental Assessments and Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1324)](https://www.legislation.gov.uk/wsi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/3/3/a)
 
-[^key-0007f30da479176dc6726dd35beddbe3]: Textual amendment: Words in reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Environmental Assessments and Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1324)](https://www.legislation.gov.uk/wsi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/3/3/b)
+[^c-0007f30da479176dc6726dd35beddbe3]: Textual amendment: Words in reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Environmental Assessments and Town and Country Planning (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1324)](https://www.legislation.gov.uk/wsi/2020/1324), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2020/1324/regulation/3/3/b)
 
 [^c24570631]: Marginal citation: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050) to which there are amendments but none are relevant.
 

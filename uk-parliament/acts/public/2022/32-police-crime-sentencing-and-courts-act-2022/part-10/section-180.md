@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Enforcement of requirements of orders made in Scotland or Northern Ireland[^key-62419125b522490e757cae9fb3222df1]
+## 180. Enforcement of requirements of orders made in Scotland or Northern Ireland[^c-62419125b522490e757cae9fb3222df1]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-70cbeaa3e0e75a38ae03c48525a47592] The Sexual Offences Act 2003 is amended as follows.
+(1)[^c-70cbeaa3e0e75a38ae03c48525a47592] The Sexual Offences Act 2003 is amended as follows.
 
-(2)[^key-70cbeaa3e0e75a38ae03c48525a47592] In section 103I (offence: breach of SHPO or interim SHPO etc), after subsection (1) insert—
+(2)[^c-70cbeaa3e0e75a38ae03c48525a47592] In section 103I (offence: breach of SHPO or interim SHPO etc), after subsection (1) insert—
 
 > (1A) A person who, without reasonable excuse, fails to do something that the person is required to do by a sexual offences prevention order or an interim sexual offences prevention order commits an offence.
 >
@@ -38,7 +38,7 @@ summary: ''
 > - (a) a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act [2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), or
 > - (b) an interim sexual harm prevention order made under section 21 of that Act.
 
-(3)[^key-2ad00a2f402791a5a552a5c4d229737e] In section 113 (offence: breach of SOPO or interim SOPO etc), after subsection (1ZA) insert—
+(3)[^c-2ad00a2f402791a5a552a5c4d229737e] In section 113 (offence: breach of SOPO or interim SOPO etc), after subsection (1ZA) insert—
 
 > (1ZB) A person commits an offence if, without reasonable excuse, the person—
 >
@@ -52,7 +52,7 @@ summary: ''
 >   - (a) a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016, or
 >   - (b) an interim sexual harm prevention order made under section 21 of that Act.
 
-(4)[^key-2ad00a2f402791a5a552a5c4d229737e] In section 122(1) (offence: breach of foreign travel order)—
+(4)[^c-2ad00a2f402791a5a552a5c4d229737e] In section 122(1) (offence: breach of foreign travel order)—
 
 - (a) omit the “or” at the end of paragraph (a), and
 - (b) at the end of paragraph (b) insert
@@ -61,7 +61,7 @@ summary: ''
   >
   > - (c) he contravenes a prohibition on foreign travel imposed by a sexual harm prevention order made under section 11 or 12 of the Abusive Behaviour and Sexual Harm (Scotland) Act [2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22).
 
-(5)[^key-70cbeaa3e0e75a38ae03c48525a47592] In section 122H (offence: breach of sexual risk order or interim sexual risk order etc)—
+(5)[^c-70cbeaa3e0e75a38ae03c48525a47592] In section 122H (offence: breach of sexual risk order or interim sexual risk order etc)—
 
 - (a) in subsection (1) omit paragraphs (e) and (f), and
 - (b) after subsection (1) insert—
@@ -80,7 +80,7 @@ summary: ''
   > - (a) a sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act [2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), or
   > - (b) an interim sexual risk order made under section 31 of that Act.
 
-(6)[^key-70cbeaa3e0e75a38ae03c48525a47592] In section 128 (offence: breach of risk of sexual harm order or interim risk of sexual harm order etc)—
+(6)[^c-70cbeaa3e0e75a38ae03c48525a47592] In section 128 (offence: breach of risk of sexual harm order or interim risk of sexual harm order etc)—
 
 - (a) in subsection (1) omit paragraphs (e) and (f), and
 - (b) after subsection (1A) (inserted by section 177) insert—
@@ -97,7 +97,7 @@ summary: ''
   > - (a) a sexual risk order made under section 27 of the Abusive Behaviour and Sexual Harm (Scotland) Act [2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), or
   > - (b) an interim sexual risk order made under section 31 of that Act.
 
-(7)[^key-70cbeaa3e0e75a38ae03c48525a47592] In section 136ZA (application of orders throughout the United Kingdom) in subsection (1)—
+(7)[^c-70cbeaa3e0e75a38ae03c48525a47592] In section 136ZA (application of orders throughout the United Kingdom) in subsection (1)—
 
 - (a) after paragraph (i) insert—
 
@@ -111,8 +111,8 @@ summary: ''
 
 ## Annotations
 
-[^key-62419125b522490e757cae9fb3222df1]: Commencement: S. 180 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-62419125b522490e757cae9fb3222df1]: Commencement: S. 180 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-70cbeaa3e0e75a38ae03c48525a47592]: Commencement: [S. 180(1)(2)(5)-(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/180/1/2/5) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/c) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2023/387/regulation/4/1))
+[^c-70cbeaa3e0e75a38ae03c48525a47592]: Commencement: [S. 180(1)(2)(5)-(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/180/1/2/5) in force at 31.3.2023 by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/c) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2023/387/regulation/4/1))
 
-[^key-2ad00a2f402791a5a552a5c4d229737e]: Commencement: [S. 180(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/180/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/180/4) in force at 31.3.2023 for N.I. by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/c)
+[^c-2ad00a2f402791a5a552a5c4d229737e]: Commencement: [S. 180(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/180/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/180/4) in force at 31.3.2023 for N.I. by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/c)

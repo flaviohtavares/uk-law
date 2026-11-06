@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Creation of the new community ward of Nant-Y-Derry[^key-1e90f873d461d3c842f3e5629b871ca7][^key-ec5c1c9134fa53bb9cb3a243256aafc9]
+## 107. Creation of the new community ward of Nant-Y-Derry[^c-1e90f873d461d3c842f3e5629b871ca7][^c-ec5c1c9134fa53bb9cb3a243256aafc9]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The new community ward of Nant-Y-Derry is created in the community of Goetre Faw
 
 ## Annotations
 
-[^key-1e90f873d461d3c842f3e5629b871ca7]: Commencement: Art. 107 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-1e90f873d461d3c842f3e5629b871ca7]: Commencement: Art. 107 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-ec5c1c9134fa53bb9cb3a243256aafc9]: Commencement: [Art. 107](https://www.legislation.gov.uk/wsi/2021/1227/article/107) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-ec5c1c9134fa53bb9cb3a243256aafc9]: Commencement: [Art. 107](https://www.legislation.gov.uk/wsi/2021/1227/article/107) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

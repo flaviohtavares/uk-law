@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Charter for Budget Responsibility[^key-f73e03ee288959b74312b30fde61eb44]
+## 1. Charter for Budget Responsibility[^c-f73e03ee288959b74312b30fde61eb44]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f73e03ee288959b74312b30fde61eb44]: Commencement: S. 1 in force at 23.3.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)
+[^c-f73e03ee288959b74312b30fde61eb44]: Commencement: S. 1 in force at 23.3.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)

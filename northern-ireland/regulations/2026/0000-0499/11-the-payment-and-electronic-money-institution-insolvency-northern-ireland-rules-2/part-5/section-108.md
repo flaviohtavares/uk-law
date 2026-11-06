@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108. Exclusion of relevant funds claim by the court[^key-75f7d9d95256e7963f4c02993d3be548]
+## 108. Exclusion of relevant funds claim by the court[^c-75f7d9d95256e7963f4c02993d3be548]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75f7d9d95256e7963f4c02993d3be548]: Commencement: [Rule 108](https://www.legislation.gov.uk/nisr/2026/11/rule/108) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-75f7d9d95256e7963f4c02993d3be548]: Commencement: [Rule 108](https://www.legislation.gov.uk/nisr/2026/11/rule/108) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

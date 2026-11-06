@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Decisions made without a hearing[^key-c3e411b1230b0018f64ed23c91b5e3cc]
+## 58. Decisions made without a hearing[^c-c3e411b1230b0018f64ed23c91b5e3cc]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Decisions made without a hearing must be communicated in writing to the parties,
 
 ## Annotations
 
-[^key-c3e411b1230b0018f64ed23c91b5e3cc]: Commencement: [Rule 58](https://www.legislation.gov.uk/uksi/2024/1155/rule/58) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-c3e411b1230b0018f64ed23c91b5e3cc]: Commencement: [Rule 58](https://www.legislation.gov.uk/uksi/2024/1155/rule/58) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Chapter 11[^key-460e287ee6ba3f7d8d69fd5067bde7c0]
+## 13. Chapter 11[^c-460e287ee6ba3f7d8d69fd5067bde7c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ summary: ''
 >
 > **1G.**
 >
-> Anything done before IP completion day[^key-3ee76a5df590d0e62d13c2e322463e39] in relation to the application described in paragraph 1—
+> Anything done before IP completion day[^c-3ee76a5df590d0e62d13c2e322463e39] in relation to the application described in paragraph 1—
 >
 > - (a) by the United Kingdom —
 >   - (i) under Directive [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414), as the member State described in Article 6 of that Directive;
@@ -119,7 +119,7 @@ summary: ''
 > Regulation 544/2011 applies to the active substance, and is to be read as if, in Article A1(1) of that Regulation—
 >
 > - (a) point (a) were omitted;
-> - (b) for point (c)(i)[^key-98d34bdd291f20cd226a42753f9a601f] there were substituted—
+> - (b) for point (c)(i)[^c-98d34bdd291f20cd226a42753f9a601f] there were substituted—
 >
 >   > - (i) described in Article 80(2) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), and
 >
@@ -130,7 +130,7 @@ summary: ''
 > Regulation 545/2011 applies to the active substance, and is to be read as if, in Article A1(1) of that Regulation—
 >
 > - (a) point (a) were omitted;
-> - (b) in point (c)(ii)[^key-4cd5b58b0dfdf420aaf845441b26179b], for “to which point (a) applies” there were substituted “ described in Article 80(2) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) ”.
+> - (b) in point (c)(ii)[^c-4cd5b58b0dfdf420aaf845441b26179b], for “to which point (a) applies” there were substituted “ described in Article 80(2) of Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) ”.
 >
 > **2F.**
 >
@@ -179,10 +179,10 @@ summary: ''
 
 ## Annotations
 
-[^key-460e287ee6ba3f7d8d69fd5067bde7c0]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-460e287ee6ba3f7d8d69fd5067bde7c0]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3ee76a5df590d0e62d13c2e322463e39]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(11)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/11)
+[^c-3ee76a5df590d0e62d13c2e322463e39]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(11)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/11)
 
-[^key-98d34bdd291f20cd226a42753f9a601f]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/559/regulation/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98d34bdd291f20cd226a42753f9a601f]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/559/regulation/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4cd5b58b0dfdf420aaf845441b26179b]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/559/regulation/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4cd5b58b0dfdf420aaf845441b26179b]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/559/regulation/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

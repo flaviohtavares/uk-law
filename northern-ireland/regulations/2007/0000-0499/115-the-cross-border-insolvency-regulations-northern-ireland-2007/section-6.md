@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Notices delivered to the registrar of companies[^key-ac50cde630170d68ff611ae0100ecdf6]
+## 6. Notices delivered to the registrar of companies[^c-ac50cde630170d68ff611ae0100ecdf6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (which makes provision about notices delivered to the registrar of co
 
 ## Annotations
 
-[^key-ac50cde630170d68ff611ae0100ecdf6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/115/regulation/6) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-ac50cde630170d68ff611ae0100ecdf6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/115/regulation/6) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)

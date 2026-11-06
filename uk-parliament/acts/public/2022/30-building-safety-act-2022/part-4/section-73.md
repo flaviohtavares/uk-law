@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Meaning of “principal accountable person”[^key-2b24833a57e128ba45bf7327fdb9e569][^key-34882713960dbce4706c58aaea8ba0b1]
+## 73. Meaning of “principal accountable person”[^c-2b24833a57e128ba45bf7327fdb9e569][^c-34882713960dbce4706c58aaea8ba0b1]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b24833a57e128ba45bf7327fdb9e569]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-2b24833a57e128ba45bf7327fdb9e569]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-34882713960dbce4706c58aaea8ba0b1]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2022/30/section/73) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z1)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z1)
+[^c-34882713960dbce4706c58aaea8ba0b1]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2022/30/section/73) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z1)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z1)

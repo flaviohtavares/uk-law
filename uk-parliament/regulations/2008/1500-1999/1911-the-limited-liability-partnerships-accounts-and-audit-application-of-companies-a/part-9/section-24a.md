@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Accounting standards[^key-ac8cea4347e4ec3809038fa0cfe4ee85]
+## 24A. Accounting standards[^c-ac8cea4347e4ec3809038fa0cfe4ee85]
 
 *Extent: E+W+S+N.I.*
 
 Section 463 applies to LLPs, modified so that it reads as follows—
 
-> **463. Liability for false or misleading statements in strategic report or energy and carbon report[^key-2a8787e4b3f1d09bfbeb45cb5add7ff9]**
+> **463. Liability for false or misleading statements in strategic report or energy and carbon report[^c-2a8787e4b3f1d09bfbeb45cb5add7ff9]**
 >
 > (1) A member of an LLP is liable to compensate the LLP for any loss suffered by it as a result of—
 >
-> - (a) any untrue or misleading statement in a strategic report or energy and carbon report[^key-72ac43ac67d494a434c4a0a83287793b], or
+> - (a) any untrue or misleading statement in a strategic report or energy and carbon report[^c-72ac43ac67d494a434c4a0a83287793b], or
 > - (b) the omission from a strategic report or energy and carbon report of anything required to be included in it.
 >
 > (2) The member is so liable only if—
@@ -43,7 +43,7 @@ Section 463 applies to LLPs, modified so that it reads as follows—
 > - (a) liability for a civil penalty, or
 > - (b) liability for a criminal offence.
 
-**25.**[^key-eea7eade410b425b7bfba3b211b244e4] Section 464 applies to LLPs, modified so that it reads as follows—
+**25.**[^c-eea7eade410b425b7bfba3b211b244e4] Section 464 applies to LLPs, modified so that it reads as follows—
 
 > **464. Accounting standards**
 >
@@ -53,10 +53,10 @@ Section 463 applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-ac8cea4347e4ec3809038fa0cfe4ee85]: Textual amendment: Reg. 24A inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/9) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-ac8cea4347e4ec3809038fa0cfe4ee85]: Textual amendment: Reg. 24A inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/9) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-2a8787e4b3f1d09bfbeb45cb5add7ff9]: Textual amendment: Words in [reg. 24A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/24A) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [24(a)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/24/a)
+[^c-2a8787e4b3f1d09bfbeb45cb5add7ff9]: Textual amendment: Words in [reg. 24A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/24A) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [24(a)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/24/a)
 
-[^key-72ac43ac67d494a434c4a0a83287793b]: Textual amendment: Words in [reg. 24A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/24A/1) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [24(b)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/24/b)
+[^c-72ac43ac67d494a434c4a0a83287793b]: Textual amendment: Words in [reg. 24A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/24A/1) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [24(b)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/24/b)
 
-[^key-eea7eade410b425b7bfba3b211b244e4]: Textual amendment: Reg. 25 substituted (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2012/1741/schedule/paragraph/8)
+[^c-eea7eade410b425b7bfba3b211b244e4]: Textual amendment: Reg. 25 substituted (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2012/1741/schedule/paragraph/8)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2(3)
 
-### 1. Employment - general[^key-311d26802a16007843bee55fb905dea6]
+### 1. Employment - general[^c-311d26802a16007843bee55fb905dea6]
 
 In regulation B1—
 
@@ -68,7 +68,7 @@ In regulation B1—
 
   .
 
-### 2. Employment in an accepted school[^key-61a57ad6aa4bf8faf1e32bb58ccaac4f]
+### 2. Employment in an accepted school[^c-61a57ad6aa4bf8faf1e32bb58ccaac4f]
 
 After regulation B2 insert—
 
@@ -105,7 +105,7 @@ After regulation B2 insert—
 
 .
 
-### 3. Employment not pensionable[^key-ef59c23cf34f92506d0d5cf157c73be1]
+### 3. Employment not pensionable[^c-ef59c23cf34f92506d0d5cf157c73be1]
 
 In regulation B3—
 
@@ -117,7 +117,7 @@ In regulation B3—
   ,
 - (c) omit paragraph (3).
 
-### 4. Election not to be pensionable[^key-37b0cba053c14286841fa2da7dd41d69]
+### 4. Election not to be pensionable[^c-37b0cba053c14286841fa2da7dd41d69]
 
 In regulation B4—
 
@@ -129,7 +129,7 @@ In regulation B4—
 - (b) in paragraph (2) (b) omit “in any case,”,
 - (c) at the end of paragraph (4) insert “(without prejudice to the effect of paragraph (2)(a) in relation to any other employment in which the person is engaged at the time when the election has effect)”.
 
-### 5. Election to rejoin pensionable service[^key-937dd1910a864c697927dff02cedcc5d]
+### 5. Election to rejoin pensionable service[^c-937dd1910a864c697927dff02cedcc5d]
 
 In regulation B5—
 
@@ -145,7 +145,7 @@ In regulation B5—
   ,
 - (b) in paragraph (4) after “paragraph (1)(b)” insert “or (1A)(b)”.
 
-### 6. Ordinary contributions[^key-ffe2ece784e810f05d98139f233f070e]
+### 6. Ordinary contributions[^c-ffe2ece784e810f05d98139f233f070e]
 
 For regulation C2 substitute—
 
@@ -161,7 +161,7 @@ For regulation C2 substitute—
 >
 > (3) No contributions are to be paid by any person to whom regulation E32(2)(a) (restriction of reckonable service to 45 years) has become applicable.
 
-### 7. Election in respect of additional benefits[^key-0ec0e1ec6833e8f6fce7b1b9e2b6e824]
+### 7. Election in respect of additional benefits[^c-0ec0e1ec6833e8f6fce7b1b9e2b6e824]
 
 After regulation C2 insert—
 
@@ -175,11 +175,11 @@ After regulation C2 insert—
 
 .
 
-### 8. Additional contributions for past period[^key-0c29d7daa170593b0beb57f11d775154]
+### 8. Additional contributions for past period[^c-0c29d7daa170593b0beb57f11d775154]
 
 Omit regulations C3 and C4.
 
-### 9. Additional contributions for past period under earlier provisions[^key-a0b10f69a787dbdd28dec64f6e43b8a9]
+### 9. Additional contributions for past period under earlier provisions[^c-a0b10f69a787dbdd28dec64f6e43b8a9]
 
 For regulation C5 substitute—
 
@@ -191,11 +191,11 @@ For regulation C5 substitute—
 
 .
 
-### 10. Additional contributions for current period[^key-e494fcf7715c3ca8d287c739d2df17bf]
+### 10. Additional contributions for current period[^c-e494fcf7715c3ca8d287c739d2df17bf]
 
 Omit regulation C6.
 
-### 11. Additional contributions for current period: service in a reserve force[^key-96f214d825a3351211fd91634e7db86b]
+### 11. Additional contributions for current period: service in a reserve force[^c-96f214d825a3351211fd91634e7db86b]
 
 In regulation C7—
 
@@ -206,7 +206,7 @@ In regulation C7—
   .
 - (b) in paragraph (6) before “regulation C3” insert “old”.
 
-### 12. Contributions for family benefits[^key-bd9a5606ad55e27d4b253aacba3b9d2d]
+### 12. Contributions for family benefits[^c-bd9a5606ad55e27d4b253aacba3b9d2d]
 
 In regulation C8 after paragraph (3) insert—
 
@@ -214,23 +214,23 @@ In regulation C8 after paragraph (3) insert—
 
 .
 
-### 13. Right to repayment of balance of contributions[^key-c86de4f6ca8aae86e4ee29806a591159]
+### 13. Right to repayment of balance of contributions[^c-c86de4f6ca8aae86e4ee29806a591159]
 
 In regulation C9(1)(e) for “regulation C6 or C7” substitute “old regulation C6 or regulation C7”.
 
-### 14. Calculation of balance of contributions[^key-66cb9997326642e1f6f7f1ef761eb460]
+### 14. Calculation of balance of contributions[^c-66cb9997326642e1f6f7f1ef761eb460]
 
 In regulation C10(3)(a) for “regulations C2, C3, C6, C7 and C8” substitute “regulations C2 and C2A, old regulation C6, regulations C7 and C8 and under Part 1 of Schedule 4 as a result of an election under old regulation C3”.
 
-### 15. Return of repaid contributions[^key-342de50617a2d5fe277fc9dd80475423]
+### 15. Return of repaid contributions[^c-342de50617a2d5fe277fc9dd80475423]
 
 In regulation C13 in paragraph (11) for “regulation C6 or C7” substitute “old regulation C6 or regulation C7”.
 
-### 16. Uncompleted return by instalments of repaid contributions[^key-6b1aa92698e1634e860a094483b4f32d]
+### 16. Uncompleted return by instalments of repaid contributions[^c-6b1aa92698e1634e860a094483b4f32d]
 
 In regulation C14(6)(a) for “if he elects to pay additional contributions for a current period under regulation C6 or C7” substitute “if he has elected to pay additional contributions for a current period under old regulation C6 or if he elects to pay additional contributions for a current period under regulation C7”.
 
-### 17. Deduction, payment and recovery of contributions[^key-30031f035277daa9ff7b691bcbb39698]
+### 17. Deduction, payment and recovery of contributions[^c-30031f035277daa9ff7b691bcbb39698]
 
 In regulation C15—
 
@@ -243,11 +243,11 @@ In regulation C15—
   - (ii) in sub-paragraph (b) before “regulation C4” insert “old”,
 - (b) in paragraph (6) for “regulation C6, C7, C13 or C14” substitute “old regulation C6, or regulation C7, C13 or C14”.
 
-### 18. Current period for which additional contributions have been paid[^key-b11680900964113da309fcfa8f15fed9]
+### 18. Current period for which additional contributions have been paid[^c-b11680900964113da309fcfa8f15fed9]
 
 In regulation D4(1) before “regulation C6” insert “old”.
 
-### 19. Meaning of various terms[^key-fbf590ae66e67c7a27eb6c41c4df3f3e]
+### 19. Meaning of various terms[^c-fbf590ae66e67c7a27eb6c41c4df3f3e]
 
 Before regulation E1 insert—
 
@@ -290,11 +290,11 @@ Before regulation E1 insert—
 
 .
 
-### 20. Residual liability for guaranteed minimum pensions and for section 5(2B) rights[^key-de8383f40bec99e26a915a0b6d6cbc2a]
+### 20. Residual liability for guaranteed minimum pensions and for section 5(2B) rights[^c-de8383f40bec99e26a915a0b6d6cbc2a]
 
 In regulation E1A(2)(b) for “the age of 60” substitute “the normal pension age”.
 
-### 21. Nature of retirement benefits[^key-79e1499ed85bfe8abf740a02f73ce689]
+### 21. Nature of retirement benefits[^c-79e1499ed85bfe8abf740a02f73ce689]
 
 For regulation E2 substitute—
 
@@ -310,7 +310,7 @@ For regulation E2 substitute—
 
 .
 
-### 22. Entitlement to payment of retirement benefits[^key-e3ee283fb15c4845c0611faac11bfef3]
+### 22. Entitlement to payment of retirement benefits[^c-e3ee283fb15c4845c0611faac11bfef3]
 
 In regulation E4—
 
@@ -377,7 +377,7 @@ In regulation E4—
 
   .
 
-### 23. Retirement benefits – pension and lump sum[^key-929f0998a1e37e65b7ba4d734f33431c]
+### 23. Retirement benefits – pension and lump sum[^c-929f0998a1e37e65b7ba4d734f33431c]
 
 For regulations E5 and E6 substitute—
 
@@ -587,7 +587,7 @@ For regulations E5 and E6 substitute—
 
 .
 
-### 24. Limitation of retirement benefit in certain cases[^key-60b4a78f6989e40d359dbe2932542dcf]
+### 24. Limitation of retirement benefit in certain cases[^c-60b4a78f6989e40d359dbe2932542dcf]
 
 In regulation E7 after paragraph (5) insert—
 
@@ -595,7 +595,7 @@ In regulation E7 after paragraph (5) insert—
 
 .
 
-### 25. Enhancement of retirement benefits in case of incapacity[^key-a5d8ee08025975dc272107d63868d541]
+### 25. Enhancement of retirement benefits in case of incapacity[^c-a5d8ee08025975dc272107d63868d541]
 
 (1) At the end of the heading to regulation E8 insert “**where application is received before 6th April 2007**”.
 
@@ -645,7 +645,7 @@ In regulation E7 after paragraph (5) insert—
 
 .
 
-### 26. Avoidance of duplicate pensions[^key-6007d317e822bc2ce4938ccdc650a77d]
+### 26. Avoidance of duplicate pensions[^c-6007d317e822bc2ce4938ccdc650a77d]
 
 In regulation E9—
 
@@ -656,11 +656,11 @@ In regulation E9—
 
   .
 
-### 27. Allocation of part of retirement pension[^key-470e9efaf23269770f57f1f8992f5e23]
+### 27. Allocation of part of retirement pension[^c-470e9efaf23269770f57f1f8992f5e23]
 
 Omit regulation E11.
 
-### 28. Pensioner ceasing to be incapacitated[^key-a2664946eca694603923c07d3ca20551]
+### 28. Pensioner ceasing to be incapacitated[^c-a2664946eca694603923c07d3ca20551]
 
 (1) At the end of the heading to regulation E13 insert “**where application for payment was received before 6th April 2007”**.
 
@@ -701,7 +701,7 @@ Omit regulation E11.
 
 .
 
-### 29. Abatement of retirement pension during further employment[^key-5065bb8e5378282562a3d7aec0a82d4c]
+### 29. Abatement of retirement pension during further employment[^c-5065bb8e5378282562a3d7aec0a82d4c]
 
 In regulation E14—
 
@@ -744,14 +744,14 @@ In regulation E14—
 
   .
 
-### 30. Retirement benefits on cessation of further employment[^key-dc31964a9048b3603f9dd846bdd58834]
+### 30. Retirement benefits on cessation of further employment[^c-dc31964a9048b3603f9dd846bdd58834]
 
 In regulation E15—
 
 - (a) in paragraph (2) after “E8 (enhancement of retirement benefits in case of incapacity)” insert “or if a total incapacity pension has not been paid under regulation E8A”,
 - (b) in paragraph (4) after “regulation E8” insert “or if a total incapacity pension has been paid under regulation E8A”.
 
-### 31. Death grant[^key-bd6b3b0618aa6d67f914a89cfe9cab73]
+### 31. Death grant[^c-bd6b3b0618aa6d67f914a89cfe9cab73]
 
 In regulation E20—
 
@@ -772,7 +772,7 @@ In regulation E20—
   ,
 - (e) in paragraph (7)(c) for “or surviving civil partner” substitute “, surviving civil partner or surviving nominated partner”.
 
-### 32. Supplementary death grant[^key-9b12f306a4c42e55ef3b241dc223f8c3]
+### 32. Supplementary death grant[^c-9b12f306a4c42e55ef3b241dc223f8c3]
 
 In regulation E21—
 
@@ -805,14 +805,14 @@ In regulation E21—
   ,
 - (e) in paragraph (6)(c) for “or surviving civil partner” substitute “, surviving civil partner or surviving nominated partner”.
 
-### 33. Family benefits generally[^key-3fd096122d2ad3fea80e32998f835f03]
+### 33. Family benefits generally[^c-3fd096122d2ad3fea80e32998f835f03]
 
 In regulation E22—
 
 - (a) in paragraph (1) after “surviving civil partners,” insert “surviving nominated partners”,
 - (b) in paragraph (2)(a) and (b) for “regulation C6 or C7” substitute “old regulation C6 or regulation C7”.
 
-### 34. Nomination of partner[^key-be88dff56170605fb763da0a2d602d70]
+### 34. Nomination of partner[^c-be88dff56170605fb763da0a2d602d70]
 
 After regulation E22 insert—
 
@@ -845,7 +845,7 @@ After regulation E22 insert—
 
 .
 
-### 35. Nomination of other adult beneficiary[^key-e8276fff45bc2da9756a98ddc72bab63]
+### 35. Nomination of other adult beneficiary[^c-e8276fff45bc2da9756a98ddc72bab63]
 
 (1) For the heading to regulation E23 substitute “**Nomination of other adult beneficiary**”.
 
@@ -854,7 +854,7 @@ After regulation E22 insert—
 - (a) in paragraph (2) after “a previous nomination under this regulation” insert “or regulation E22A”,
 - (b) in paragraph (4)(b) after “appointor” insert “makes a nomination under regulation E22A,”.
 
-### 36. Entitlement to short-term family benefits[^key-ce1b716c79274bf106d2c193c0d6b02f]
+### 36. Entitlement to short-term family benefits[^c-ce1b716c79274bf106d2c193c0d6b02f]
 
 In regulation E24—
 
@@ -867,14 +867,14 @@ In regulation E24—
 - (c) omit paragraph (4)(b),
 - (d) in paragraph (4)(c) after “surviving civil partner,” insert “surviving nominated partner,”.
 
-### 37. Amount and duration of short-term family benefits[^key-954d4cec5f132bb5697bc5c70458745f]
+### 37. Amount and duration of short-term family benefits[^c-954d4cec5f132bb5697bc5c70458745f]
 
 In regulation E25—
 
 - (a) in paragraph (2) for “surviving spouse or surviving civil partner”, in both places, substitute “surviving spouse, surviving civil partner or surviving nominated partner”,
 - (b) in paragraph (3) and the Table for “spouse, civil partner”, in both places, substitute “surviving spouse, surviving civil partner, surviving nominated partner”.
 
-### 38. Entitlement to long-term family benefits[^key-b3009942a63141861b2302adb39d6663]
+### 38. Entitlement to long-term family benefits[^c-b3009942a63141861b2302adb39d6663]
 
 In regulation E26—
 
@@ -886,7 +886,7 @@ In regulation E26—
 
   .
 
-### 39. Relevant service[^key-c40375f3f0495790bab6b7e74505e7b5]
+### 39. Relevant service[^c-c40375f3f0495790bab6b7e74505e7b5]
 
 In regulation E27—
 
@@ -931,7 +931,7 @@ In regulation E27—
 
   .
 
-### 40. Amount of surviving spouse’s, surviving civil partner’s or nominated beneficiary’s long-term pension[^key-cd4c748497eff7f8a1aa156622a5e629]
+### 40. Amount of surviving spouse’s, surviving civil partner’s or nominated beneficiary’s long-term pension[^c-cd4c748497eff7f8a1aa156622a5e629]
 
 (1) For the heading to regulation E28 substitute “**Amount of surviving spouse’s, surviving civil partner’s, surviving nominated partner’s or nominated beneficiary’s long-term pension”.**
 
@@ -953,7 +953,7 @@ In regulation E27—
 - (f) in paragraph (8)(b) for “regulation C6 or 7” substitute “old regulation C6 or regulation C7”,
 - (g) in paragraph (9) for “paragraphs (3) to (5), (7) and (7A)”, in both places, substitute “paragraphs (3) to (5) and (7) to (7B)”.
 
-### 41. Amount of children’s long-term pensions[^key-038e97d88b05c118671066fdb3a110c1]
+### 41. Amount of children’s long-term pensions[^c-038e97d88b05c118671066fdb3a110c1]
 
 In regulation E29—
 
@@ -967,7 +967,7 @@ In regulation E29—
   - (i) after “family benefit contributions have been paid” insert “(where the adult pension is paid to a surviving civil partner)”, and
 - (d) after “made under Part IIA” insert “or (where the adult pension is paid to a surviving nominated partner) under Part IIB of Schedule 6 or are treated as having been paid under Part III of Schedule 6 in respect of an election made under Part IIB”.
 
-### 42. Additional dependant’s pension where election made under regulation C2A[^key-a4edabd3416dfd92a23bd16677bc9612]
+### 42. Additional dependant’s pension where election made under regulation C2A[^c-a4edabd3416dfd92a23bd16677bc9612]
 
 After regulation E29 insert—
 
@@ -979,14 +979,14 @@ After regulation E29 insert—
 
 .
 
-### 43. Commencement and duration of long-term family pensions[^key-7f6e7ab9bbb7c9dca6424f4fb894e116]
+### 43. Commencement and duration of long-term family pensions[^c-7f6e7ab9bbb7c9dca6424f4fb894e116]
 
 In regulation E30—
 
 - (a) in paragraph (1) after “surviving civil partner” insert “, surviving nominated partner”,
 - (b) in paragraph (3A) after “does not apply” insert “to any pension payable following the death of a person who was in pensionable employment after 31st March 2007 or who was paying or had paid additional contributions under old regulation C6 or regulation C7 in respect of a period after that date or”.
 
-### 44. Average salary[^key-ba4dc26d216ffc00f3868e7ceae2d1bb]
+### 44. Average salary[^c-ba4dc26d216ffc00f3868e7ceae2d1bb]
 
 In regulation E31—
 
@@ -1055,7 +1055,7 @@ In regulation E31—
 
   .
 
-**45.**[^key-e6ddc56b7780e7d3f3ed9b76e5b074a6] After regulation E31 insert—
+**45.**[^c-e6ddc56b7780e7d3f3ed9b76e5b074a6] After regulation E31 insert—
 
 > **E31A. Average salary – supplemental**
 >
@@ -1086,14 +1086,14 @@ In regulation E31—
 
 .
 
-### 46. Effective reckonable service[^key-bf530bef43a25612fc197dd5dc999e4b]
+### 46. Effective reckonable service[^c-bf530bef43a25612fc197dd5dc999e4b]
 
 In regulation E32—
 
 - (a) omit paragraph (2)(b),
 - (b) in paragraph (4) for “the age of 60” substitute “the normal pension age”.
 
-### 47. Payment of benefits[^key-d95b73b2ba54a8ba347b7e7e67ecb040]
+### 47. Payment of benefits[^c-d95b73b2ba54a8ba347b7e7e67ecb040]
 
 In regulation E33—
 
@@ -1107,26 +1107,26 @@ In regulation E33—
   .
 - (b) In paragraph (3) after “any relevant information” insert “(including medical evidence such as is mentioned in paragraph (2A))”.
 
-### 48. Benefits not assignable[^key-0481f59b5a89616aeaaec77eae779aac]
+### 48. Benefits not assignable[^c-0481f59b5a89616aeaaec77eae779aac]
 
 In regulation E34(2) omit “An allocation under regulation E11 is not an assignment, and”.
 
-### 49. Payment of transfer values[^key-f9517bc304e4a905fb0996c54f20e354]
+### 49. Payment of transfer values[^c-f9517bc304e4a905fb0996c54f20e354]
 
 In regulation F1(4)(b) after “his 60th birthday” insert “in the case of a pre-1st April 2007 entrant or his 65th birthday in any other case”.
 
-### 50. Acceptance of transfer values[^key-7c991d19c11dc5e73e960493d2c18100]
+### 50. Acceptance of transfer values[^c-7c991d19c11dc5e73e960493d2c18100]
 
 In regulation F4(7)(b) after “his 60th birthday” insert “in the case of a pre-1st April 2007 entrant or his 65th birthday in any other case”.
 
-### 51. Receipts etc. to be credited[^key-44caa8bb4f1940b225c077e78e2dc5ba]
+### 51. Receipts etc. to be credited[^c-44caa8bb4f1940b225c077e78e2dc5ba]
 
 In regulation G2—
 
 - (a) in paragraph (2)(a) for “regulations C2(1), C3, C4, C5, and C8” substitute “regulations C2(1), C2A, C11 and Schedules 4 and 5”,
 - (b) in paragraph (2)(b) for “regulation C6 or C7” substitute “old regulation C6 or regulation C7”.
 
-### 52. Employers’ Contributions[^key-b0e791a56292189a20cacb99c3b9e2df]
+### 52. Employers’ Contributions[^c-b0e791a56292189a20cacb99c3b9e2df]
 
 For regulation G5 substitute—
 
@@ -1147,7 +1147,7 @@ For regulation G5 substitute—
 
 .
 
-### 53. Employers’ additional contributions[^key-993f99708c58779474ef0a6ce19c2ccd]
+### 53. Employers’ additional contributions[^c-993f99708c58779474ef0a6ce19c2ccd]
 
 After regulation G6 insert—
 
@@ -1173,7 +1173,7 @@ After regulation G6 insert—
 
 .
 
-### 54. Modified application in case of employment at reduced salary[^key-0be541ba7cc9178d48e8618661e88728]
+### 54. Modified application in case of employment at reduced salary[^c-0be541ba7cc9178d48e8618661e88728]
 
 In regulation H1(1)—
 
@@ -1190,7 +1190,7 @@ In regulation H1(1)—
 
   .
 
-### 55. Declaration where lump sum payments are made[^key-714d5bcfd0b29043446d7617cc107f57]
+### 55. Declaration where lump sum payments are made[^c-714d5bcfd0b29043446d7617cc107f57]
 
 After regulation H4 insert—
 
@@ -1231,7 +1231,7 @@ After regulation H4 insert—
 
 .
 
-### 56. Pension sharing – normal pension age[^key-2429f507526aa2992e5503e97d5bbc9d]
+### 56. Pension sharing – normal pension age[^c-2429f507526aa2992e5503e97d5bbc9d]
 
 After regulation I2 insert—
 
@@ -1248,7 +1248,7 @@ After regulation I2 insert—
 
 .
 
-### 57. Pension credit benefits[^key-f50e1f185b1016b979f775eb9dc53233]
+### 57. Pension credit benefits[^c-f50e1f185b1016b979f775eb9dc53233]
 
 In regulation I3—
 
@@ -1261,11 +1261,11 @@ In regulation I3—
 - (c) at the beginning of paragraph (3) insert “Where this paragraph applies,”,
 - (d) in paragraph (5) for “the age of 60” substitute “the normal pension age”.
 
-### 58. Commutation[^key-e034896357a6e4b5c7d68b7727670a31]
+### 58. Commutation[^c-e034896357a6e4b5c7d68b7727670a31]
 
 In regulation I4(1) and (2) for “the age of 60” substitute “the normal pension age”.
 
-**59.**[^key-85e60d75993eb29562d045bf3b2f0e4e] After regulation I(4) insert—
+**59.**[^c-85e60d75993eb29562d045bf3b2f0e4e] After regulation I(4) insert—
 
 > **I4A. Commutation on election by pension credit member**
 >
@@ -1280,11 +1280,11 @@ In regulation I4(1) and (2) for “the age of 60” substitute “the normal pen
 
 .
 
-### 60. Death grant[^key-4345eedd5d9bf7f393bd7dfb71bf0fd9]
+### 60. Death grant[^c-4345eedd5d9bf7f393bd7dfb71bf0fd9]
 
 In regulation I6(3)(a), (3)(b) and (4)(b) for “the age of 60” substitute “the normal pension age”.
 
-### 61. Glossary of expressions[^key-9fd1316615b3c1b3657ab08b57c15987]
+### 61. Glossary of expressions[^c-9fd1316615b3c1b3657ab08b57c15987]
 
 In Schedule 1—
 
@@ -1337,22 +1337,22 @@ In Schedule 1—
 
   .
 
-### 62. Elections in respect of additional benefits[^key-2d699771bd8a3921f7fa0dcae72fd38b]
+### 62. Elections in respect of additional benefits[^c-2d699771bd8a3921f7fa0dcae72fd38b]
 
 After Schedule 2 insert as Schedule 2A the Schedule set out as Schedule 4 to these Regulations.
 
-### 63. Maximum length of additional periods[^key-a2a6034a512c07b621759acdc0128561]
+### 63. Maximum length of additional periods[^c-a2a6034a512c07b621759acdc0128561]
 
 In Schedule 3—
 
 - (a) omit paragraphs 1 and 2,
 - (b) in paragraph 3 before “regulation C3” insert “old”.
 
-### 64. Additional contributions for past period under old regulation C3[^key-0fdc919ff148a9f3b586d5c158aa2552]
+### 64. Additional contributions for past period under old regulation C3[^c-0fdc919ff148a9f3b586d5c158aa2552]
 
 At the end of the heading to Schedule 4 insert “**under old regulation C3**”
 
-**65.**[^key-71c98eb1f8e9df97b5722bf2dc289803] In Schedule 4—
+**65.**[^c-71c98eb1f8e9df97b5722bf2dc289803] In Schedule 4—
 
 - (a) for the definitions of “the principal election”, “the past period” and “the contribution period” substitute—
 
@@ -1372,7 +1372,7 @@ At the end of the heading to Schedule 4 insert “**under old regulation C3**”
   - (i) insert “and” at the end of sub-paragraph (2)(b) and omit “and” at the end of sub-paragraph(2)(c),
   - (ii) omit sub-paragraph (2)(d).
 
-### 66. Additional contributions for past periods under earlier provisions[^key-58833876d707eb45dd6848d6ece32c46]
+### 66. Additional contributions for past periods under earlier provisions[^c-58833876d707eb45dd6848d6ece32c46]
 
 In Schedule 5—
 
@@ -1385,7 +1385,7 @@ In Schedule 5—
   - (ii) for “regulation C3” substitute “Schedule 4”,
 - (d) omit paragraph 6(3).
 
-### 67. Family benefits[^key-ff8cc635b47bb260878378d2b24008b5]
+### 67. Family benefits[^c-ff8cc635b47bb260878378d2b24008b5]
 
 In Schedule 6—
 
@@ -1485,7 +1485,7 @@ In Schedule 6—
   - (iv) in sub-paragraph (3) for “the age of 60” substitute “the normal pension age, or in a case to which sub-paragraph (2B) applies”,
 - (n) in paragraph 16 after “surviving civil partner” insert “, surviving nominated partner”.
 
-### 68. Modified application in certain cases[^key-eb53d7753d51e67fbdea8e7252e21e9e]
+### 68. Modified application in certain cases[^c-eb53d7753d51e67fbdea8e7252e21e9e]
 
 In Schedule 9—
 
@@ -1496,160 +1496,160 @@ In Schedule 9—
   .
 - (b) in paragraph 16(1) for “regulation C3” substitute “Schedule 4”,
 
-### 69. Allocation of part of retirement pension[^key-f1d4b014648395a8147e4503ed381036]
+### 69. Allocation of part of retirement pension[^c-f1d4b014648395a8147e4503ed381036]
 
 Omit Schedule 10.
 
 ## Annotations
 
-[^key-311d26802a16007843bee55fb905dea6]: Commencement: Sch. 3 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-311d26802a16007843bee55fb905dea6]: Commencement: Sch. 3 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-61a57ad6aa4bf8faf1e32bb58ccaac4f]: Commencement: Sch. 3 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-61a57ad6aa4bf8faf1e32bb58ccaac4f]: Commencement: Sch. 3 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00013]: Footnote: The Education and Libraries (Northern Ireland) Order 1986 ([S.I. 1996/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1996/594)) as amended by Article 30 of [S.I. 1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274)
 
-[^key-ef59c23cf34f92506d0d5cf157c73be1]: Commencement: Sch. 3 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-ef59c23cf34f92506d0d5cf157c73be1]: Commencement: Sch. 3 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-37b0cba053c14286841fa2da7dd41d69]: Commencement: Sch. 3 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-37b0cba053c14286841fa2da7dd41d69]: Commencement: Sch. 3 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-937dd1910a864c697927dff02cedcc5d]: Commencement: Sch. 3 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-937dd1910a864c697927dff02cedcc5d]: Commencement: Sch. 3 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-ffe2ece784e810f05d98139f233f070e]: Commencement: Sch. 3 para. 6 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-ffe2ece784e810f05d98139f233f070e]: Commencement: Sch. 3 para. 6 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00014]: Footnote: [S.I. 1997/3001](https://www.legislation.gov.uk/uksi/1997/3001); regulation C3 was substituted by [S.I. 2006/3122](https://www.legislation.gov.uk/uksi/2006/3122), regulation 8.
 
-[^key-0ec0e1ec6833e8f6fce7b1b9e2b6e824]: Commencement: Sch. 3 para. 7 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-0ec0e1ec6833e8f6fce7b1b9e2b6e824]: Commencement: Sch. 3 para. 7 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-0c29d7daa170593b0beb57f11d775154]: Commencement: Sch. 3 para. 8 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-0c29d7daa170593b0beb57f11d775154]: Commencement: Sch. 3 para. 8 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-a0b10f69a787dbdd28dec64f6e43b8a9]: Commencement: Sch. 3 para. 9 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-a0b10f69a787dbdd28dec64f6e43b8a9]: Commencement: Sch. 3 para. 9 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-e494fcf7715c3ca8d287c739d2df17bf]: Commencement: Sch. 3 para. 10 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-e494fcf7715c3ca8d287c739d2df17bf]: Commencement: Sch. 3 para. 10 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-96f214d825a3351211fd91634e7db86b]: Commencement: Sch. 3 para. 11 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-96f214d825a3351211fd91634e7db86b]: Commencement: Sch. 3 para. 11 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-bd9a5606ad55e27d4b253aacba3b9d2d]: Commencement: Sch. 3 para. 12 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-bd9a5606ad55e27d4b253aacba3b9d2d]: Commencement: Sch. 3 para. 12 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-c86de4f6ca8aae86e4ee29806a591159]: Commencement: Sch. 3 para. 13 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-c86de4f6ca8aae86e4ee29806a591159]: Commencement: Sch. 3 para. 13 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-66cb9997326642e1f6f7f1ef761eb460]: Commencement: Sch. 3 para. 14 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-66cb9997326642e1f6f7f1ef761eb460]: Commencement: Sch. 3 para. 14 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-342de50617a2d5fe277fc9dd80475423]: Commencement: Sch. 3 para. 15 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-342de50617a2d5fe277fc9dd80475423]: Commencement: Sch. 3 para. 15 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-6b1aa92698e1634e860a094483b4f32d]: Commencement: Sch. 3 para. 16 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-6b1aa92698e1634e860a094483b4f32d]: Commencement: Sch. 3 para. 16 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-30031f035277daa9ff7b691bcbb39698]: Commencement: Sch. 3 para. 17 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-30031f035277daa9ff7b691bcbb39698]: Commencement: Sch. 3 para. 17 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-b11680900964113da309fcfa8f15fed9]: Commencement: Sch. 3 para. 18 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-b11680900964113da309fcfa8f15fed9]: Commencement: Sch. 3 para. 18 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-fbf590ae66e67c7a27eb6c41c4df3f3e]: Commencement: Sch. 3 para. 19 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-fbf590ae66e67c7a27eb6c41c4df3f3e]: Commencement: Sch. 3 para. 19 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-de8383f40bec99e26a915a0b6d6cbc2a]: Commencement: Sch. 3 para. 20 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-de8383f40bec99e26a915a0b6d6cbc2a]: Commencement: Sch. 3 para. 20 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-79e1499ed85bfe8abf740a02f73ce689]: Commencement: Sch. 3 para. 21 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-79e1499ed85bfe8abf740a02f73ce689]: Commencement: Sch. 3 para. 21 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-e3ee283fb15c4845c0611faac11bfef3]: Commencement: Sch. 3 para. 22 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-e3ee283fb15c4845c0611faac11bfef3]: Commencement: Sch. 3 para. 22 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-929f0998a1e37e65b7ba4d734f33431c]: Commencement: Sch. 3 para. 23 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-929f0998a1e37e65b7ba4d734f33431c]: Commencement: Sch. 3 para. 23 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00015]: Footnote: [1971 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35) to which there are amendments not relevant to this regulation.
 
-[^key-60b4a78f6989e40d359dbe2932542dcf]: Commencement: Sch. 3 para. 24 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-60b4a78f6989e40d359dbe2932542dcf]: Commencement: Sch. 3 para. 24 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-a5d8ee08025975dc272107d63868d541]: Commencement: Sch. 3 para. 25 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-a5d8ee08025975dc272107d63868d541]: Commencement: Sch. 3 para. 25 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-6007d317e822bc2ce4938ccdc650a77d]: Commencement: Sch. 3 para. 26 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-6007d317e822bc2ce4938ccdc650a77d]: Commencement: Sch. 3 para. 26 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-470e9efaf23269770f57f1f8992f5e23]: Commencement: Sch. 3 para. 27 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-470e9efaf23269770f57f1f8992f5e23]: Commencement: Sch. 3 para. 27 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-a2664946eca694603923c07d3ca20551]: Commencement: Sch. 3 para. 28 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-a2664946eca694603923c07d3ca20551]: Commencement: Sch. 3 para. 28 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-5065bb8e5378282562a3d7aec0a82d4c]: Commencement: Sch. 3 para. 29 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-5065bb8e5378282562a3d7aec0a82d4c]: Commencement: Sch. 3 para. 29 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-dc31964a9048b3603f9dd846bdd58834]: Commencement: Sch. 3 para. 30 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-dc31964a9048b3603f9dd846bdd58834]: Commencement: Sch. 3 para. 30 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-bd6b3b0618aa6d67f914a89cfe9cab73]: Commencement: Sch. 3 para. 31 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-bd6b3b0618aa6d67f914a89cfe9cab73]: Commencement: Sch. 3 para. 31 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-9b12f306a4c42e55ef3b241dc223f8c3]: Commencement: Sch. 3 para. 32 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-9b12f306a4c42e55ef3b241dc223f8c3]: Commencement: Sch. 3 para. 32 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-3fd096122d2ad3fea80e32998f835f03]: Commencement: Sch. 3 para. 33 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-3fd096122d2ad3fea80e32998f835f03]: Commencement: Sch. 3 para. 33 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-be88dff56170605fb763da0a2d602d70]: Commencement: Sch. 3 para. 34 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-be88dff56170605fb763da0a2d602d70]: Commencement: Sch. 3 para. 34 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-e8276fff45bc2da9756a98ddc72bab63]: Commencement: Sch. 3 para. 35 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-e8276fff45bc2da9756a98ddc72bab63]: Commencement: Sch. 3 para. 35 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-ce1b716c79274bf106d2c193c0d6b02f]: Commencement: Sch. 3 para. 36 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-ce1b716c79274bf106d2c193c0d6b02f]: Commencement: Sch. 3 para. 36 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-954d4cec5f132bb5697bc5c70458745f]: Commencement: Sch. 3 para. 37 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-954d4cec5f132bb5697bc5c70458745f]: Commencement: Sch. 3 para. 37 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-b3009942a63141861b2302adb39d6663]: Commencement: Sch. 3 para. 38 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-b3009942a63141861b2302adb39d6663]: Commencement: Sch. 3 para. 38 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-c40375f3f0495790bab6b7e74505e7b5]: Commencement: Sch. 3 para. 39 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-c40375f3f0495790bab6b7e74505e7b5]: Commencement: Sch. 3 para. 39 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-cd4c748497eff7f8a1aa156622a5e629]: Commencement: Sch. 3 para. 40 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-cd4c748497eff7f8a1aa156622a5e629]: Commencement: Sch. 3 para. 40 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-038e97d88b05c118671066fdb3a110c1]: Commencement: Sch. 3 para. 41 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-038e97d88b05c118671066fdb3a110c1]: Commencement: Sch. 3 para. 41 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-a4edabd3416dfd92a23bd16677bc9612]: Commencement: Sch. 3 para. 42 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-a4edabd3416dfd92a23bd16677bc9612]: Commencement: Sch. 3 para. 42 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-7f6e7ab9bbb7c9dca6424f4fb894e116]: Commencement: Sch. 3 para. 43 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-7f6e7ab9bbb7c9dca6424f4fb894e116]: Commencement: Sch. 3 para. 43 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-ba4dc26d216ffc00f3868e7ceae2d1bb]: Commencement: Sch. 3 para. 44 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-ba4dc26d216ffc00f3868e7ceae2d1bb]: Commencement: Sch. 3 para. 44 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-e6ddc56b7780e7d3f3ed9b76e5b074a6]: Commencement: Sch. 3 para. 45 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-e6ddc56b7780e7d3f3ed9b76e5b074a6]: Commencement: Sch. 3 para. 45 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00016]: Footnote: [1971 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35) to which there are amendments not relevant to this regulation.
 
-[^key-bf530bef43a25612fc197dd5dc999e4b]: Commencement: Sch. 3 para. 46 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-bf530bef43a25612fc197dd5dc999e4b]: Commencement: Sch. 3 para. 46 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-d95b73b2ba54a8ba347b7e7e67ecb040]: Commencement: Sch. 3 para. 47 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-d95b73b2ba54a8ba347b7e7e67ecb040]: Commencement: Sch. 3 para. 47 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-0481f59b5a89616aeaaec77eae779aac]: Commencement: Sch. 3 para. 48 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-0481f59b5a89616aeaaec77eae779aac]: Commencement: Sch. 3 para. 48 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-f9517bc304e4a905fb0996c54f20e354]: Commencement: Sch. 3 para. 49 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-f9517bc304e4a905fb0996c54f20e354]: Commencement: Sch. 3 para. 49 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-7c991d19c11dc5e73e960493d2c18100]: Commencement: Sch. 3 para. 50 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-7c991d19c11dc5e73e960493d2c18100]: Commencement: Sch. 3 para. 50 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-44caa8bb4f1940b225c077e78e2dc5ba]: Commencement: Sch. 3 para. 51 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-44caa8bb4f1940b225c077e78e2dc5ba]: Commencement: Sch. 3 para. 51 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-b0e791a56292189a20cacb99c3b9e2df]: Commencement: Sch. 3 para. 52 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-b0e791a56292189a20cacb99c3b9e2df]: Commencement: Sch. 3 para. 52 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-993f99708c58779474ef0a6ce19c2ccd]: Commencement: Sch. 3 para. 53 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-993f99708c58779474ef0a6ce19c2ccd]: Commencement: Sch. 3 para. 53 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-0be541ba7cc9178d48e8618661e88728]: Commencement: Sch. 3 para. 54 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-0be541ba7cc9178d48e8618661e88728]: Commencement: Sch. 3 para. 54 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-714d5bcfd0b29043446d7617cc107f57]: Commencement: Sch. 3 para. 55 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-714d5bcfd0b29043446d7617cc107f57]: Commencement: Sch. 3 para. 55 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00017]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); paragraph 3A of Schedule 29 was inserted by section 159 of the [Finance Act 2006 c .25](https://www.legislation.gov.uk/ukpga/2006/25).
 
-[^key-2429f507526aa2992e5503e97d5bbc9d]: Commencement: Sch. 3 para. 56 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-2429f507526aa2992e5503e97d5bbc9d]: Commencement: Sch. 3 para. 56 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00018]: Footnote: The Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-f50e1f185b1016b979f775eb9dc53233]: Commencement: Sch. 3 para. 57 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-f50e1f185b1016b979f775eb9dc53233]: Commencement: Sch. 3 para. 57 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-e034896357a6e4b5c7d68b7727670a31]: Commencement: Sch. 3 para. 58 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-e034896357a6e4b5c7d68b7727670a31]: Commencement: Sch. 3 para. 58 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-85e60d75993eb29562d045bf3b2f0e4e]: Commencement: Sch. 3 para. 59 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-85e60d75993eb29562d045bf3b2f0e4e]: Commencement: Sch. 3 para. 59 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-4345eedd5d9bf7f393bd7dfb71bf0fd9]: Commencement: Sch. 3 para. 60 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-4345eedd5d9bf7f393bd7dfb71bf0fd9]: Commencement: Sch. 3 para. 60 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-9fd1316615b3c1b3657ab08b57c15987]: Commencement: Sch. 3 para. 61 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-9fd1316615b3c1b3657ab08b57c15987]: Commencement: Sch. 3 para. 61 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00019]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-2d699771bd8a3921f7fa0dcae72fd38b]: Commencement: Sch. 3 para. 62 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-2d699771bd8a3921f7fa0dcae72fd38b]: Commencement: Sch. 3 para. 62 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-a2a6034a512c07b621759acdc0128561]: Commencement: Sch. 3 para. 63 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-a2a6034a512c07b621759acdc0128561]: Commencement: Sch. 3 para. 63 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-0fdc919ff148a9f3b586d5c158aa2552]: Commencement: Sch. 3 para. 64 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-0fdc919ff148a9f3b586d5c158aa2552]: Commencement: Sch. 3 para. 64 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-71c98eb1f8e9df97b5722bf2dc289803]: Commencement: Sch. 3 para. 65 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-71c98eb1f8e9df97b5722bf2dc289803]: Commencement: Sch. 3 para. 65 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-58833876d707eb45dd6848d6ece32c46]: Commencement: Sch. 3 para. 66 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-58833876d707eb45dd6848d6ece32c46]: Commencement: Sch. 3 para. 66 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-ff8cc635b47bb260878378d2b24008b5]: Commencement: Sch. 3 para. 67 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-ff8cc635b47bb260878378d2b24008b5]: Commencement: Sch. 3 para. 67 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-eb53d7753d51e67fbdea8e7252e21e9e]: Commencement: Sch. 3 para. 68 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-eb53d7753d51e67fbdea8e7252e21e9e]: Commencement: Sch. 3 para. 68 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-f1d4b014648395a8147e4503ed381036]: Commencement: Sch. 3 para. 69 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-f1d4b014648395a8147e4503ed381036]: Commencement: Sch. 3 para. 69 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)

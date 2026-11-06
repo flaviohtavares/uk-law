@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 263. Notices[^key-50dfc39fb820b642de5f5accbd990c94]
+## 263. Notices[^c-50dfc39fb820b642de5f5accbd990c94]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50dfc39fb820b642de5f5accbd990c94]: Commencement: Rule 263 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-50dfc39fb820b642de5f5accbd990c94]: Commencement: Rule 263 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

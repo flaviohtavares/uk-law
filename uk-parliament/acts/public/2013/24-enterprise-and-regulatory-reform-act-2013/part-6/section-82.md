@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Payments to directors: transitional provision[^key-20ab74b450a377e92df1652e47794f34]
+## 82. Payments to directors: transitional provision[^c-20ab74b450a377e92df1652e47794f34]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20ab74b450a377e92df1652e47794f34]: Commencement: S. 82 in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
+[^c-20ab74b450a377e92df1652e47794f34]: Commencement: S. 82 in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)

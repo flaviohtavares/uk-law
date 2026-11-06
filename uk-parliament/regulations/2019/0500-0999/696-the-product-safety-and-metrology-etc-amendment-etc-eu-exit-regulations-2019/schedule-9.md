@@ -22,11 +22,11 @@ summary: ''
 
 Regulation 12
 
-### 1. Introduction[^key-883055c35198738c47d937f484daa4c3]
+### 1. Introduction[^c-883055c35198738c47d937f484daa4c3]
 
 The General Product Safety Regulations 2005 are amended in accordance with paragraphs 2 to 10.
 
-### 2. Amendment of regulation 2[^key-7f1d70bfab9feb0f328c49f54054b66b]
+### 2. Amendment of regulation 2[^c-7f1d70bfab9feb0f328c49f54054b66b]
 
 In regulation 2—
 
@@ -34,7 +34,7 @@ In regulation 2—
 - (b) omit the definition of “the GPS Directive”;
 - (c) after the definition of “magistrates' court” insert—
 
-  > - “**the market**” means the market of Great Britain[^key-b6a93789896e61eeac30dd017a292b36];
+  > - “**the market**” means the market of Great Britain[^c-b6a93789896e61eeac30dd017a292b36];
 
   ;
 - (d) omit the definition of “Member State”;
@@ -43,11 +43,11 @@ In regulation 2—
   - (ii) in paragraph (b)(ii), for the words “importer of the product from a state that is not a Member State into a Member State” substitute “ person established in the United Kingdom that places a product from a country outside the United Kingdom on the market ”;
 - (f) after the definition of “record” insert—
 
-  > “**relevant enactment**” means any retained EU law (as it applies in Great Britain)[^key-f797673d47b9067e67a863fe82f9c2eb] derived from an EU instrument harmonising the conditions for the marketing of products in the EU but does not include Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765) of the European Parliament and the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/eur/1993/339);
+  > “**relevant enactment**” means any retained EU law (as it applies in Great Britain)[^c-f797673d47b9067e67a863fe82f9c2eb] derived from an EU instrument harmonising the conditions for the marketing of products in the EU but does not include Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765) of the European Parliament and the Council setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation [(EEC) No 339/93](https://www.legislation.gov.uk/eur/1993/339);
 
   .
 
-### 3. Amendment of regulation 3[^key-a7f2d34e6a77a3e9d66007e64d0345d2]
+### 3. Amendment of regulation 3[^c-a7f2d34e6a77a3e9d66007e64d0345d2]
 
 In regulation 3—
 
@@ -55,7 +55,7 @@ In regulation 3—
 - (b) omit “other than the GPS Directive”, in both places it occurs; and
 - (c) in paragraph (2)(a) for “rules” substitute “ provisions of the enactment ”.
 
-### 4. Amendment of regulation 6[^key-efc1ecb4f5e22be63f9f76f8bf0a5598]
+### 4. Amendment of regulation 6[^c-efc1ecb4f5e22be63f9f76f8bf0a5598]
 
 (1) Regulation 6 is amended as follows.
 
@@ -83,14 +83,14 @@ In regulation 3—
 - (b) in sub-paragraph (b) omit “other”; and
 - (c) in sub-paragraph (c), for “European Commission” substitute “ Secretary of State ”.
 
-### 5. Amendment of regulation 9[^key-87a017fe18959250466ebcf7edc338bf]
+### 5. Amendment of regulation 9[^c-87a017fe18959250466ebcf7edc338bf]
 
 In regulation 9—
 
 - (a) in paragraph (1)(a), omit “and”; and
 - (b) omit paragraph (1)(b).
 
-### 6. Amendment of regulation 33[^key-0e340d04b81ba3bf780234eea7817553]
+### 6. Amendment of regulation 33[^c-0e340d04b81ba3bf780234eea7817553]
 
 (1) Regulation 33 is amended as follows.
 
@@ -132,7 +132,7 @@ In regulation 9—
 
 .
 
-### 7. Amendment of regulation 34[^key-66049e5d797e7057a823dff8acad4942]
+### 7. Amendment of regulation 34[^c-66049e5d797e7057a823dff8acad4942]
 
 In regulation 34—
 
@@ -142,42 +142,42 @@ In regulation 34—
   - (iii) omit “be in writing and shall”; and
 - (b) omit paragraphs (2) and (3).
 
-### 8. Omission of regulation 35[^key-395f7f74a782853d64d4318d9a35ea24]
+### 8. Omission of regulation 35[^c-395f7f74a782853d64d4318d9a35ea24]
 
 Omit regulation 35.
 
-### 9. Amendment of regulation 36[^key-8040ccaf05492138a0dcc6bd1ce59483]
+### 9. Amendment of regulation 36[^c-8040ccaf05492138a0dcc6bd1ce59483]
 
 In regulation 36, omit “and competent authorities of other Member States”.
 
-### 10. Amendment of regulation 38[^key-77fe2166ad47d43b8e4b5d28aed23f83]
+### 10. Amendment of regulation 38[^c-77fe2166ad47d43b8e4b5d28aed23f83]
 
 In regulation 38, omit paragraph (2).
 
 ## Annotations
 
-[^key-883055c35198738c47d937f484daa4c3]: Commencement: Sch. 9 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-883055c35198738c47d937f484daa4c3]: Commencement: Sch. 9 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7f1d70bfab9feb0f328c49f54054b66b]: Commencement: Sch. 9 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7f1d70bfab9feb0f328c49f54054b66b]: Commencement: Sch. 9 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b6a93789896e61eeac30dd017a292b36]: Textual amendment: Words in Sch. 9 para. 2(c) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/2)
+[^c-b6a93789896e61eeac30dd017a292b36]: Textual amendment: Words in Sch. 9 para. 2(c) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/2)
 
-[^key-f797673d47b9067e67a863fe82f9c2eb]: Textual amendment: Words in Sch. 9 para. 2(f) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/6)
+[^c-f797673d47b9067e67a863fe82f9c2eb]: Textual amendment: Words in Sch. 9 para. 2(f) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/6)
 
-[^key-a7f2d34e6a77a3e9d66007e64d0345d2]: Commencement: Sch. 9 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a7f2d34e6a77a3e9d66007e64d0345d2]: Commencement: Sch. 9 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-efc1ecb4f5e22be63f9f76f8bf0a5598]: Commencement: Sch. 9 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-efc1ecb4f5e22be63f9f76f8bf0a5598]: Commencement: Sch. 9 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-87a017fe18959250466ebcf7edc338bf]: Commencement: Sch. 9 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-87a017fe18959250466ebcf7edc338bf]: Commencement: Sch. 9 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0e340d04b81ba3bf780234eea7817553]: Commencement: Sch. 9 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0e340d04b81ba3bf780234eea7817553]: Commencement: Sch. 9 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24326671]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), to which there are amendments not relevant to these Regulations.
 
-[^key-66049e5d797e7057a823dff8acad4942]: Commencement: Sch. 9 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-66049e5d797e7057a823dff8acad4942]: Commencement: Sch. 9 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-395f7f74a782853d64d4318d9a35ea24]: Commencement: Sch. 9 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-395f7f74a782853d64d4318d9a35ea24]: Commencement: Sch. 9 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8040ccaf05492138a0dcc6bd1ce59483]: Commencement: Sch. 9 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8040ccaf05492138a0dcc6bd1ce59483]: Commencement: Sch. 9 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-77fe2166ad47d43b8e4b5d28aed23f83]: Commencement: Sch. 9 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-77fe2166ad47d43b8e4b5d28aed23f83]: Commencement: Sch. 9 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

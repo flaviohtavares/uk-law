@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Power to require overseas entity to register if it owns certain land[^key-a76f4a9d215328d940b5e7010a26862b][^key-c50e8f0dd58dc7f55c525d4a15863612]
+## 34. Power to require overseas entity to register if it owns certain land[^c-a76f4a9d215328d940b5e7010a26862b][^c-c50e8f0dd58dc7f55c525d4a15863612]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,12 +37,12 @@ summary: ''
 
 (4) A person guilty of an offence under subsection (3) is liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-6f07c8bb5bc14d636add2472b86c8fa8] or a fine (or both);
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-6f07c8bb5bc14d636add2472b86c8fa8] or a fine (or both);
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both);
 - (d) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
 
-(5)[^key-c4b7349e11622350b7dcf5beb42ad8ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c4b7349e11622350b7dcf5beb42ad8ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this section “**exempt overseas entity**” means an overseas entity of such description as may be specified in regulations made by the Secretary of State for the purposes of this section.
 
@@ -50,10 +50,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a76f4a9d215328d940b5e7010a26862b]: Commencement: S. 34 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-a76f4a9d215328d940b5e7010a26862b]: Commencement: S. 34 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-c50e8f0dd58dc7f55c525d4a15863612]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/10/section/34) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/a)
+[^c-c50e8f0dd58dc7f55c525d4a15863612]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2022/10/section/34) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/a)
 
-[^key-6f07c8bb5bc14d636add2472b86c8fa8]: Textual amendment: Words in [s. 34(4)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/34/4/a) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 173(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/173/2/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z57)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z57)
+[^c-6f07c8bb5bc14d636add2472b86c8fa8]: Textual amendment: Words in [s. 34(4)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/34/4/a) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 173(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/173/2/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z57)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z57)
 
-[^key-c4b7349e11622350b7dcf5beb42ad8ab]: Textual amendment: [S. 34(5)](https://www.legislation.gov.uk/ukpga/2022/10/section/34/5) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 173(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/173/2/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z57)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z57)
+[^c-c4b7349e11622350b7dcf5beb42ad8ab]: Textual amendment: [S. 34(5)](https://www.legislation.gov.uk/ukpga/2022/10/section/34/5) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 173(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/173/2/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z57)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z57)

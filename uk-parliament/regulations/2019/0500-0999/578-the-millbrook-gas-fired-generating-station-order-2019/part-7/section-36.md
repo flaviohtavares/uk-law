@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Protective provisions[^key-b0b067ccdafc67d45cfd69c532dfb8d5]
+## 36. Protective provisions[^c-b0b067ccdafc67d45cfd69c532dfb8d5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 10 (protective provisions) (and Schedule 13 (arbitration rules)) has ef
 
 ## Annotations
 
-[^key-b0b067ccdafc67d45cfd69c532dfb8d5]: Commencement: Art. 36 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-b0b067ccdafc67d45cfd69c532dfb8d5]: Commencement: Art. 36 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

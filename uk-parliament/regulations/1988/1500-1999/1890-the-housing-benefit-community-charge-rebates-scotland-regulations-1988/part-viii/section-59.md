@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Time and manner in which claims are to be made[^key-8a6c8e791a550e696bf3b9fa3bdc04c2]
+## 59. Time and manner in which claims are to be made[^c-8a6c8e791a550e696bf3b9fa3bdc04c2]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Initial claims for housing benefit under these Regulations may be made at any time from 23rd November 1988.
 
-(2A)[^key-f29719e4968c6ebef5ced67b51390b69] Where—
+(2A)[^c-f29719e4968c6ebef5ced67b51390b69] Where—
 
 - (a) a person is liable for a personal community charge from 1st April 1989, and
 - (b) a claim for housing benefit in respect of that charge is received by the designated office of the appropriate authority either not more than 56 days after the day on which the claimant receives his first community charge demand notice issued in respect of that charge in accordance with paragraph 2 of Schedule 2 to the 1987 Act or, not more than 56 days after 1st April 1989, whichever is the later, and
@@ -77,7 +77,7 @@ the appropriate authority may, in a case to which sub-paragraph (a) applies, ref
 
 (14) Where a claim for housing benefit is received by the appropriate social security office or by the designated office on a date prior to 1st April 1989, paragraphs (6) and (12) of this regulation shall not apply in respect of that claim and the claim shall be treated as made on 1st April 1989.
 
-(14A)[^key-c3aec6901f30b73e48724b8329d5927a] Where a person becomes liable to pay the personal community charge of an appropriate authority but has yet to be shown in the authority’s community charges register as liable to pay that charge, he or his partner may nevertheless claim housing benefit in respect of that charge in advance of registration and, if the authority is of the opinion that, unless there is a change of circumstances, that person will satisfy all the conditions of entitlement for housing benefit from the day on which he is shown in the register as liable to pay that charge (the day of registration), the authority may treat that claim as having been made either on the date of claim or on the day of registration, whichever is the later, and award benefit accordingly.
+(14A)[^c-c3aec6901f30b73e48724b8329d5927a] Where a person becomes liable to pay the personal community charge of an appropriate authority but has yet to be shown in the authority’s community charges register as liable to pay that charge, he or his partner may nevertheless claim housing benefit in respect of that charge in advance of registration and, if the authority is of the opinion that, unless there is a change of circumstances, that person will satisfy all the conditions of entitlement for housing benefit from the day on which he is shown in the register as liable to pay that charge (the day of registration), the authority may treat that claim as having been made either on the date of claim or on the day of registration, whichever is the later, and award benefit accordingly.
 
 (14B) Where a person—
 
@@ -101,10 +101,10 @@ and any claim received following that invitation, if made within 4 weeks of the 
 
 ## Annotations
 
-[^key-8a6c8e791a550e696bf3b9fa3bdc04c2]: Commencement: Reg. 59 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-8a6c8e791a550e696bf3b9fa3bdc04c2]: Commencement: Reg. 59 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-f29719e4968c6ebef5ced67b51390b69]: Textual amendment: [Reg. 59(2A)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/59/2A) inserted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [14](https://www.legislation.gov.uk/uksi/1989/361/regulation/14)
+[^c-f29719e4968c6ebef5ced67b51390b69]: Textual amendment: [Reg. 59(2A)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/59/2A) inserted (1.4.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [14](https://www.legislation.gov.uk/uksi/1989/361/regulation/14)
 
-[^key-c3aec6901f30b73e48724b8329d5927a]: Textual amendment: [Reg. 59(14A)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/59/14A)[(14B)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/59/14B) inserted (10.7.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment (No. 2) Regulations 1989 (S.I. 1989/972)](https://www.legislation.gov.uk/uksi/1989/972), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/972/regulation/1/1/a), [4](https://www.legislation.gov.uk/uksi/1989/972/regulation/4)
+[^c-c3aec6901f30b73e48724b8329d5927a]: Textual amendment: [Reg. 59(14A)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/59/14A)[(14B)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/59/14B) inserted (10.7.1989) by [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment (No. 2) Regulations 1989 (S.I. 1989/972)](https://www.legislation.gov.uk/uksi/1989/972), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/972/regulation/1/1/a), [4](https://www.legislation.gov.uk/uksi/1989/972/regulation/4)
 
 [^f00060]: Footnote: Section 165A was substituted by paragraph 87 of Schedule 10 to the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50) and is applied to housing benefit by paragraph 48 of Schedule 10 to that Act.

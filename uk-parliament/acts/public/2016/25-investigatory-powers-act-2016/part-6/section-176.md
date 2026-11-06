@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Bulk equipment interference warrants: general[^key-70d06575fdeac92a9bba880c200f4ebf]
+## 176. Bulk equipment interference warrants: general[^c-70d06575fdeac92a9bba880c200f4ebf]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70d06575fdeac92a9bba880c200f4ebf]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2016/25/section/176) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/k)
+[^c-70d06575fdeac92a9bba880c200f4ebf]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2016/25/section/176) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/k)

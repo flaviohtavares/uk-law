@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Possession of a psychoactive substance in a custodial institution[^key-84764e9a80f8506e1a0fa054b0cac77a]
+## 9. Possession of a psychoactive substance in a custodial institution[^c-84764e9a80f8506e1a0fa054b0cac77a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84764e9a80f8506e1a0fa054b0cac77a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/2/section/9) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-84764e9a80f8506e1a0fa054b0cac77a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/2/section/9) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

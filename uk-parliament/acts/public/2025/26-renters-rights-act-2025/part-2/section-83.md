@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Entries relating to banning orders, offences, financial penalties, etc.[^key-027b3ca5343bb95f11d3488f1a2e1acf]
+## 83. Entries relating to banning orders, offences, financial penalties, etc.[^c-027b3ca5343bb95f11d3488f1a2e1acf]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-027b3ca5343bb95f11d3488f1a2e1acf]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-027b3ca5343bb95f11d3488f1a2e1acf]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

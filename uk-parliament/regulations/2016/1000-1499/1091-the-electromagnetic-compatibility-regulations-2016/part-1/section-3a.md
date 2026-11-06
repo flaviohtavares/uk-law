@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Disapplication where more specific obligations apply[^key-8e7cc66af291d1f584150d135e4155c8]
+## 3A. Disapplication where more specific obligations apply[^c-8e7cc66af291d1f584150d135e4155c8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e7cc66af291d1f584150d135e4155c8]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2016/1091/regulation/3A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 8 para. 2(5)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/8/paragraph/2/5)
+[^c-8e7cc66af291d1f584150d135e4155c8]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2016/1091/regulation/3A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 8 para. 2(5)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/8/paragraph/2/5)

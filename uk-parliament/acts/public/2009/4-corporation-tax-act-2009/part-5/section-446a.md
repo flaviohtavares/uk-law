@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446A. Non-market loans[^key-b05308e1ecef6fa52c98893926607df6]
+## 446A. Non-market loans[^c-b05308e1ecef6fa52c98893926607df6]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b05308e1ecef6fa52c98893926607df6]: Textual amendment: S. 446A and cross-heading inserted (with effect in accordance with Sch. 7 para. 12 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/7/paragraph/2)
+[^c-b05308e1ecef6fa52c98893926607df6]: Textual amendment: S. 446A and cross-heading inserted (with effect in accordance with Sch. 7 para. 12 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/7/paragraph/2)

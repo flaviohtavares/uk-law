@@ -35,89 +35,89 @@ specifying the technical items of data sets, establishing the technical formats 
 
 (Text with EEA relevance) (revoked)
 
-[^key-8b42d058c0b9078be52f2532f1419291]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b42d058c0b9078be52f2532f1419291]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 1. Subject matter[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 2. Definitions[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Statistical concepts and description of variables[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 3. Statistical concepts and description of variables[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Characteristics of the statistical populations and observation units and the rules on respondents[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 4. Characteristics of the statistical populations and observation units and the rules on respondents[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Reference periods[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 5. Reference periods[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Detailed sample characteristics[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 6. Detailed sample characteristics[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Data gathering periods and methods[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 7. Data gathering periods and methods[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Rules on follow-up[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 8. Rules on follow-up[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Common standards for data editing, imputation, weighting and estimation[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 9. Common standards for data editing, imputation, weighting and estimation[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Formats for transmitting information[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 10. Formats for transmitting information[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Quality reporting[^key-8b42d058c0b9078be52f2532f1419291]
+## Article 11. Quality reporting[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-8b42d058c0b9078be52f2532f1419291] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-8b42d058c0b9078be52f2532f1419291] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b42d058c0b9078be52f2532f1419291]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Definitions of statistical concepts[^key-8b42d058c0b9078be52f2532f1419291]
+## ANNEX I — Definitions of statistical concepts[^c-8b42d058c0b9078be52f2532f1419291]
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.
+[^c-8b42d058c0b9078be52f2532f1419291]1.
 
 GROSS INCOME COMPONENTS
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.1.
+[^c-8b42d058c0b9078be52f2532f1419291]1.1.
 
 **Employee income**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.2.
+[^c-8b42d058c0b9078be52f2532f1419291]1.2.
 
 **Self-employment income**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.3.
+[^c-8b42d058c0b9078be52f2532f1419291]1.3.
 
 **Property income**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.
 
 **Current transfers received**
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.
 
 *Social benefits*
 
@@ -156,7 +156,7 @@ Social benefits do not include:
 
 - benefits paid from schemes into which the recipient has made voluntary payments only, independently of his/her employer or government (which are included under ‘Pensions from individual private plans (other than those covered under ESSPROS)’ (PY080G)).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.1.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.1.
 
 Family/children- related allowance (HY050G)
 
@@ -179,7 +179,7 @@ The term does not include:
 - payments made by employers to an employee in lieu of wages and salaries through a social insurance scheme when the employee is unable to work because of maternity leave, where such payment cannot be separately and clearly identified as social benefits (these payments are included under ‘Gross cash or near-cash employee income’ (PY010G)),
 - additional payments made by employers to an employee to supplement the maternity leave pay entitlement from a social insurance schemes, where such payments cannot be separately and clearly identified as social benefits (these payments are included under ‘gross cash or near-cash employee income’ (PY010G)).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.2.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.2.
 
 Housing allowances (HY070G)
 
@@ -195,7 +195,7 @@ The term does not include:
 - social housing policy organised through the fiscal system (i.e. tax benefits),
 - all capital transfers (in particular investment grants).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.3.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.3.
 
 Unemployment benefits (PY090G)
 
@@ -216,7 +216,7 @@ It does not include:
 
 - family allowances paid for dependent children (included under ‘Family/children-related allowances’ (HY050G)).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.4.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.4.
 
 Old-age benefits (PY100G)
 
@@ -240,7 +240,7 @@ Old-age benefits do not include:
 - early retirement benefits paid for labour-market reasons or in the case of reduced capacity to work (they are included under ‘Unemployment benefits’ (PY090G) or ‘Disability benefits’ (PY130G) respectively),
 - benefits paid to old people who need frequent or constant assistance to help them meet the extra costs of attendance when the benefits are reimbursed against a certified expenditure.
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.5.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.5.
 
 Survivors’ benefits (PY110G)
 
@@ -262,7 +262,7 @@ It does not include:
 - funeral expenses,
 - additional payments made by employers to other eligible persons to supplement the survivors’ benefits pay entitlement from a social insurance scheme, where such payments cannot be separately and clearly identified as social benefits (those payments are included under ‘Gross cash or near-cash employee income’ (PY010G)).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.6.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.6.
 
 Sickness benefits (PY120G)
 
@@ -281,7 +281,7 @@ The term does not include:
 - payments made by employers to an employee in lieu of wages and salaries through a social insurance scheme when the employee is prevented from working through sickness, where such payment can not be separately and clearly identified as a social benefit (these payments are included under ‘Gross cash or near-cash employee income’ (PY010G)),
 - additional payments made by employers to an employee to supplement the sickness leave pay entitlement from a social insurance scheme, where such payments can not be separately and clearly identified as social benefits (those payments are included under ‘Gross cash or near-cash employee income’ (PY010G)).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.7.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.7.
 
 Disability benefits (PY130G)
 
@@ -308,13 +308,13 @@ Disability benefits do not include:
 - payments made by employers to an employee or former employee in lieu of wages and salaries through a social insurance scheme when that employee or former employee is unable to work as a result of disability, where such payment cannot be separately and clearly identified as social benefits (these payments are included under ‘Gross cash or near-cash employee income’ (PY010G)),
 - additional payments made for employers to an employee or former employee to supplement the disability leave pay entitlement from a social insurance scheme, where such payments cannot be separately and clearly identified as social benefits (those payments are included under ‘Gross cash or near-cash employee income’ (PY010G)).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.8.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.8.
 
 Education- related allowances (PY140G)
 
 Education allowances refer to grants, scholarships and other help for educational purposes received by students.
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.1.9.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.1.9.
 
 Social exclusion allowances/benefits not classified elsewhere (HY060G)
 
@@ -325,7 +325,7 @@ The term encompasses:
 - income support: periodic payments to people with insufficient resources. Conditions for entitlement may be related not only to personal resources but also to nationality, residence, age, availability for work and family status. Benefits may be of limited or unlimited duration; they may be paid to the individual or to the family and may be provided by central or local government,
 - other cash benefits: support for destitute and vulnerable persons to help alleviate poverty or assist in difficult situations. These benefits may be paid by private non-profit organisations.
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.2.
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.2.
 
 *Regular inter-household cash transfers received*
 
@@ -336,7 +336,7 @@ Regular inter-household cash transfers received refer to regular monetary amount
 - it could refer to an annual amount received every year or over several years,
 - alternatively, it could refer to periodic (e.g. monthly) receipts over a short period embedded in the income reference period (e.g. six months).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.2.1
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.2.1
 
 Regular inter-household cash transfers received (HY080G)
 
@@ -356,7 +356,7 @@ It does not include:
 - Gifts and other large, one-off and unexpected cash flows, such as lump sums to buy a car, a house, or the like, or to be saved for long-term consumption (more than one year ahead),
 - Alimonies or support paid by government (central or local) if, for some reason, the spouse does not pay alimony/child support. The amount paid by the government should be recorded in the family allowances (variable HY050).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.4.2.2
+[^c-8b42d058c0b9078be52f2532f1419291]1.4.2.2
 
 Alimonies (HY081G) received
 
@@ -376,11 +376,11 @@ Alimonies exclude:
 - Gifts and other large, one-off and unexpected cash flows, like lump sums to buy a car or a house, or to be saved for long term consumption (more than one year ahead);
 - Alimonies or support paid by government (central or local) if, for some reason, the spouse does not pay the alimony/child support. The amount paid by the government should be recorded in the family allowances (variable HY050).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.5.
+[^c-8b42d058c0b9078be52f2532f1419291]1.5.
 
 **Other income received**
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.5.1.
+[^c-8b42d058c0b9078be52f2532f1419291]1.5.1.
 
 *Income received by people aged under 16 (HY110G)*
 
@@ -391,11 +391,11 @@ It does not include:
 - transfers between household members,
 - income collected at household level (i.e. variables HY040G, HY050G, HY060G, HY070G, HY080G and HY090G).
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.6.
+[^c-8b42d058c0b9078be52f2532f1419291]1.6.
 
 **Interest payments**
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.6.1.
+[^c-8b42d058c0b9078be52f2532f1419291]1.6.1.
 
 *Interest paid on mortgage (HY100G)*
 
@@ -407,150 +407,150 @@ It does not include:
 - payments on re-mortgages to obtain money for housing purposes (e.g. repairs, renovations or maintenance) or for non-housing purposes,
 - re-payments of the principal or capital sum.
 
-[^key-8b42d058c0b9078be52f2532f1419291]1.7.
+[^c-8b42d058c0b9078be52f2532f1419291]1.7.
 
 **Current transfers paid**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]2.
+[^c-8b42d058c0b9078be52f2532f1419291]2.
 
 NET INCOME COMPONENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]3.
+[^c-8b42d058c0b9078be52f2532f1419291]3.
 
 TOTAL GROSS AND DISPOSABLE HOUSEHOLD INCOME
 
-[^key-8b42d058c0b9078be52f2532f1419291]3.1.
+[^c-8b42d058c0b9078be52f2532f1419291]3.1.
 
 **Total gross household income (HY010) is computed as:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]3.2.
+[^c-8b42d058c0b9078be52f2532f1419291]3.2.
 
 **Total disposable household income (HY020) shall be computed as:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]3.3.
+[^c-8b42d058c0b9078be52f2532f1419291]3.3.
 
 **Total disposable household income, before social transfers other than old-age and survivors’ benefits (HY022) is defined as:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]3.4.
+[^c-8b42d058c0b9078be52f2532f1419291]3.4.
 
 **Total disposable household income, before social transfers including old-age and survivors’ benefits (HY023), is defined as:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]3.5.
+[^c-8b42d058c0b9078be52f2532f1419291]3.5.
 
 **Equivalised disposable income is defined as:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]3.6.
+[^c-8b42d058c0b9078be52f2532f1419291]3.6.
 
 **Equivalent size**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]4.
+[^c-8b42d058c0b9078be52f2532f1419291]4.
 
 OTHER ITEMS NOT CONSIDERED AS PART OF INCOME
 
-[^key-8b42d058c0b9078be52f2532f1419291]4.1.
+[^c-8b42d058c0b9078be52f2532f1419291]4.1.
 
 **Contributions to individual private pension plans (PY035G)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Technical characteristics of variables[^key-8b42d058c0b9078be52f2532f1419291]
+## ANNEX II — Technical characteristics of variables[^c-8b42d058c0b9078be52f2532f1419291]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Identification of households and persons[^key-8b42d058c0b9078be52f2532f1419291]
+## ANNEX III — Identification of households and persons[^c-8b42d058c0b9078be52f2532f1419291]
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Household identification number**
+[^c-8b42d058c0b9078be52f2532f1419291]**Household identification number**
 
-[^key-8b42d058c0b9078be52f2532f1419291](1)
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-8b42d058c0b9078be52f2532f1419291](2)
+[^c-8b42d058c0b9078be52f2532f1419291](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291](3)
+[^c-8b42d058c0b9078be52f2532f1419291](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Personal identification number**
-
-[^key-8b42d058c0b9078be52f2532f1419291](1)
+[^c-8b42d058c0b9078be52f2532f1419291](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291](2)
+[^c-8b42d058c0b9078be52f2532f1419291]**Personal identification number**
+
+[^c-8b42d058c0b9078be52f2532f1419291](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291](3)
+[^c-8b42d058c0b9078be52f2532f1419291](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291](4)
+[^c-8b42d058c0b9078be52f2532f1419291](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Detailed arrangements and contents of quality reports[^key-8b42d058c0b9078be52f2532f1419291]
+[^c-8b42d058c0b9078be52f2532f1419291](4)
 
-[^key-8b42d058c0b9078be52f2532f1419291]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX IV — Detailed arrangements and contents of quality reports[^c-8b42d058c0b9078be52f2532f1419291]
+
+[^c-8b42d058c0b9078be52f2532f1419291]
 
 Member States shall include the following specific information in the quality report on the income and living conditions domain.
 
-[^key-8b42d058c0b9078be52f2532f1419291]STATISTICAL PROCESSING
+[^c-8b42d058c0b9078be52f2532f1419291]STATISTICAL PROCESSING
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Sample design**
+[^c-8b42d058c0b9078be52f2532f1419291]**Sample design**
 
 - Sample size by rotational group and allocation criteria
 - Weightings (design factor, non-response adjustments, adjustments to external data (level, variables used and sources))
 - Final cross-sectional and longitudinal weight
 - Substitutions if applied in cases of unit non-response, method of selection of substitutes, main characteristics of substituted units compared to original units, by region (NUTS 2), distribution of substituted units by record of contact at address, household questionnaire result and household interview acceptance of the original units for each rotational group and total
 
-[^key-8b42d058c0b9078be52f2532f1419291]*Sampling unit*
+[^c-8b42d058c0b9078be52f2532f1419291]*Sampling unit*
 
 Description of the sampling units.
 
-[^key-8b42d058c0b9078be52f2532f1419291]*Sources other than surveys*
+[^c-8b42d058c0b9078be52f2532f1419291]*Sources other than surveys*
 
 Description of each individual source and of how they are combined.
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Data collection**
+[^c-8b42d058c0b9078be52f2532f1419291]**Data collection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Data compilation**
+[^c-8b42d058c0b9078be52f2532f1419291]**Data compilation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]ACCURACY AND RELIABILITY
+[^c-8b42d058c0b9078be52f2532f1419291]ACCURACY AND RELIABILITY
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Sampling error**
+[^c-8b42d058c0b9078be52f2532f1419291]**Sampling error**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Measurement error**
+[^c-8b42d058c0b9078be52f2532f1419291]**Measurement error**
 
 The different sources of measurement errors likely to be found in the survey shall be described. This includes a description of the questionnaire design, the use of a cognitive laboratory (if applicable), field testing of the questionnaire, the effect of its design, content and wording, information on the intensity and efficiency of interview training: number of training days, skills testing before starting the fieldwork (rate of success and so on), information on studies to check the impact of the interviewer, such as re-interviews, record check studies, or split-sample experiments (if available), and results from models (if available). Proxy interview rates shall be provided.
 
-[^key-8b42d058c0b9078be52f2532f1419291]***Non-response error:***
+[^c-8b42d058c0b9078be52f2532f1419291]***Non-response error:***
 
-[^key-8b42d058c0b9078be52f2532f1419291]*Achieved (Net) sample size*
+[^c-8b42d058c0b9078be52f2532f1419291]*Achieved (Net) sample size*
 
 The following information shall be provided for the achieved sample size:
 
@@ -558,7 +558,7 @@ The following information shall be provided for the achieved sample size:
 - ((b)) For each wave, the number of persons aged 16 or older who are members of the households for which an interview is accepted for the database, and who underwent a personal interview, by rotational group breakdown and total,
 - ((c)) For each wave, the number of selected respondents (if applicable) who are members of the households for which an interview is accepted for the database, and who underwent a personal interview, by rotational group breakdown and total.
 
-[^key-8b42d058c0b9078be52f2532f1419291]*Unit non-response*
+[^c-8b42d058c0b9078be52f2532f1419291]*Unit non-response*
 
 For each wave, the following shall be reported: the distribution of households (original units and substituted units, if applicable) by ‘record of contact at address’, by ‘household questionnaire result’ and by ‘household interview acceptance’.
 
@@ -643,7 +643,7 @@ Evaluation of the impact of any such measures, i.e. how far they correct for non
 
 Evaluation of any difficulties such measures may indirectly involve (e.g. calibration involving high and volatile weights).
 
-[^key-8b42d058c0b9078be52f2532f1419291]*Item non-response*
+[^c-8b42d058c0b9078be52f2532f1419291]*Item non-response*
 
 For income variables the following information shall be provided for each wave:
 
@@ -651,7 +651,7 @@ For income variables the following information shall be provided for each wave:
 - Percentage of missing values for each income component collected or compiled at household/personal level,
 - Percentage of partial information for each income component collected or compiled at household/personal level.
 
-[^key-8b42d058c0b9078be52f2532f1419291]***Processing errors:***
+[^c-8b42d058c0b9078be52f2532f1419291]***Processing errors:***
 
 The data entry controls, coding controls and the editing system applied to the data shall be described. An account shall be given of the main errors detected in the post-data-collection process, and the list of editing rules for income for income variables shall be provided.
 
@@ -663,11 +663,11 @@ Re-interview rates (from wave t-1 to t) for people leaving their original househ
 
 Re-interview rates (from wave t-1 to t) for young people (16-35) leaving home, broken down by sex.
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Data revision – policy**
+[^c-8b42d058c0b9078be52f2532f1419291]**Data revision – policy**
 
 Information shall be provided about any policy designed to ensure the transparency of disseminated data, whereby the preliminary data compiled are subsequently revised. If data are revised, this shall be reported.
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Data revision -practice**
+[^c-8b42d058c0b9078be52f2532f1419291]**Data revision -practice**
 
 Schedule for revisions
 
@@ -679,26 +679,26 @@ Explanation of any difference between provisional and final data
 
 Date of dissemination of national results.
 
-[^key-8b42d058c0b9078be52f2532f1419291]COHERENCE AND COMPARABILITY
+[^c-8b42d058c0b9078be52f2532f1419291]COHERENCE AND COMPARABILITY
 
-[^key-8b42d058c0b9078be52f2532f1419291] **Coherence- Household Budget Survey (HBS**)
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-8b42d058c0b9078be52f2532f1419291]**Coherence- National Accounts**
+[^c-8b42d058c0b9078be52f2532f1419291] **Coherence- Household Budget Survey (HBS**)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Coherence- internal**
+[^c-8b42d058c0b9078be52f2532f1419291]**Coherence- National Accounts**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b42d058c0b9078be52f2532f1419291]COST AND BURDEN
+[^c-8b42d058c0b9078be52f2532f1419291]**Coherence- internal**
 
-[^key-8b42d058c0b9078be52f2532f1419291]**Respondent burden**
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8b42d058c0b9078be52f2532f1419291]COST AND BURDEN
+
+[^c-8b42d058c0b9078be52f2532f1419291]**Respondent burden**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b42d058c0b9078be52f2532f1419291]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/123)
+[^c-8b42d058c0b9078be52f2532f1419291]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 123](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/123)

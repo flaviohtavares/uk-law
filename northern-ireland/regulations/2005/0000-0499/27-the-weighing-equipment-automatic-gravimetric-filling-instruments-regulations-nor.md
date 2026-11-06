@@ -43,7 +43,7 @@ The Department of Enterprise, Trade and Investment[^f00001], in exercise of the 
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement, consequential disapplication and amendment[^key-a1733984da0d18087690c1bb8773bf91]
+### 1. Citation, commencement, consequential disapplication and amendment[^c-a1733984da0d18087690c1bb8773bf91]
 
 (1) These Regulations may be cited as the Weighing Equipment (Automatic Gravimetric Filling Instruments) Regulations (Northern Ireland) 2005 and shall come into operation on 1st March 2005.
 
@@ -55,7 +55,7 @@ The Department of Enterprise, Trade and Investment[^f00001], in exercise of the 
 
 .
 
-### 2. Interpretation[^key-4319af0e613bf3e15c6e914892d3f529]
+### 2. Interpretation[^c-4319af0e613bf3e15c6e914892d3f529]
 
 (1) In these Regulations –
 
@@ -88,15 +88,15 @@ The Department of Enterprise, Trade and Investment[^f00001], in exercise of the 
 - “weighing unit” means a device which provides information on the mass of the load being weighed by the filling instrument; and
 - “zero-setting device” means a device which allows the setting of that indicating device to zero when the load receptor is empty.
 
-### 3. Application[^key-9716f097713252a107b8ce344ae8f0b0]
+### 3. Application[^c-9716f097713252a107b8ce344ae8f0b0]
 
 (1) Subject to paragraphs (2) and (3) and regulation 4, these Regulations apply to filling instruments and such instruments are hereby prescribed for the purposes of Article 9(1) of the 1981 Order (weighing or measuring equipment for use for trade).
 
 (2) These Regulations shall not apply to any filling instrument which has been put into use for trade before these Regulations came into operation.
 
-(3)[^key-93c0b080f3a7566b6b8707e53ea61d7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-93c0b080f3a7566b6b8707e53ea61d7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Transitional exclusion[^key-61fd67acab8a9b12084f408acf8f3c39]
+### 4. Transitional exclusion[^c-61fd67acab8a9b12084f408acf8f3c39]
 
 (1) Subject to paragraph (2), these Regulations do not apply to a filling instrument –
 
@@ -107,7 +107,7 @@ The Department of Enterprise, Trade and Investment[^f00001], in exercise of the 
 
 ## PART II — GENERAL REQUIREMENTS FOR USE FOR TRADE
 
-### 5. General duties for use for trade[^key-79f9211e66d22d8fa28006589c711263]
+### 5. General duties for use for trade[^c-79f9211e66d22d8fa28006589c711263]
 
 A person shall not use for trade a filling instrument unless –
 
@@ -115,7 +115,7 @@ A person shall not use for trade a filling instrument unless –
 - (b) the requirements of Schedule 2 in respect of its use and manner of use are complied with; and
 - (c) in the case of a filling instrument of the description and maximum capacity set out, respectively, in columns 1 and 2 of Schedule 3, it is within the accuracy class specified for that filling instrument in column 3 of Schedule 3 or within an accuracy class of a higher level of precision than the specified class.
 
-### 6. Requirements to be satisfied for passing as fit for use for trade[^key-f38d874b861ffd9d87bafcea4d372ae2]
+### 6. Requirements to be satisfied for passing as fit for use for trade[^c-f38d874b861ffd9d87bafcea4d372ae2]
 
 Every filling instrument shall, before it is passed as fit for use for trade –
 
@@ -123,11 +123,11 @@ Every filling instrument shall, before it is passed as fit for use for trade –
 - (b) have affixed to it the applicable descriptive markings relating to that filling instrument and have provision for a place for the application of the specified verification marks, in accordance with the requirements of Schedule 4; and
 - (c) subject to regulations 5(c) and 9, have successfully undergone initial verification testing and, as part of that testing, an accuracy class has been determined in respect of it: for the purposes of these Regulations, initial verification testing means testing of a filling instrument carried out by an inspector in accordance with the procedure specified in clause 5.3 (initial verification) of Part 1 of OIML R 61.
 
-### 7. Supplementary indication[^key-e0805de0d07068f854e46ec8a9e8d3db]
+### 7. Supplementary indication[^c-e0805de0d07068f854e46ec8a9e8d3db]
 
-Where the indication of the exact quantity of material a filling instrument purports to weigh is given in metric units of measurement that indication may also be given by means of a supplementary indication [^key-27ac900d9edc95dbf14947667f722c61]....”.
+Where the indication of the exact quantity of material a filling instrument purports to weigh is given in metric units of measurement that indication may also be given by means of a supplementary indication [^c-27ac900d9edc95dbf14947667f722c61]....”.
 
-### 8. Supplementary requirements[^key-18d3180816d718dfbf08ede0857e06a2]
+### 8. Supplementary requirements[^c-18d3180816d718dfbf08ede0857e06a2]
 
 (1) Every filling instrument submitted for testing shall be completely assembled and in a clean condition.
 
@@ -137,16 +137,16 @@ Where the indication of the exact quantity of material a filling instrument purp
 
 (4) Where an inspector is satisfied that any dismantling and re-assembly or transportation of a filling instrument to its intended place of use could not in his opinion, affect the accuracy or functioning of that filling instrument, it may be examined, with a view to passing that filling instrument as fit for use for trade at a place other than the intended place of use, for the purposes of initial verification testing.
 
-### 9. Filling Instruments imported from an EEA State[^key-7a2b87dadbcba5b56b072800670d87f8][^key-2eaa3ee43a5d51b2c340338aa4c05103]
+### 9. Filling Instruments imported from an EEA State[^c-7a2b87dadbcba5b56b072800670d87f8][^c-2eaa3ee43a5d51b2c340338aa4c05103]
 
-(1) In relation to a filling instrument imported into Northern Ireland from an EEA State[^key-70e6a01bc01109a3d7dfca677ddc69a5], (whether directly or indirectly through Great Britain), an inspector shall not, subject to paragraph (4), carry out any test relating to initial verification testing if, together with the filling instrument being imported, he is presented with the requisite documentation.
+(1) In relation to a filling instrument imported into Northern Ireland from an EEA State[^c-70e6a01bc01109a3d7dfca677ddc69a5], (whether directly or indirectly through Great Britain), an inspector shall not, subject to paragraph (4), carry out any test relating to initial verification testing if, together with the filling instrument being imported, he is presented with the requisite documentation.
 
 (2) In this regulation and regulation 10(2) –
 
 - (a) “requisite documentation” means –
   - (i) the test report, in the format set out in Part 2 of OIML R 61, of an approved body that the filling instrument which is the subject of that report has been tested on the same basis as the procedure specified in clause 5.3 (initial verification) of Part 1 of OIML R 61, and stating which tests have been applied to it; and
   - (ii) the test results relating to those tests; and
-- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-10b37200083eea40ff69816e734704a6]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^c-10b37200083eea40ff69816e734704a6]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
 
 (3) A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of filling instruments or is a laboratory which has been accredited for the purposes of testing filling instruments in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000[^f00008].”
 
@@ -158,14 +158,14 @@ Where the indication of the exact quantity of material a filling instrument purp
 
 ## PART III — TESTING AND STAMPING
 
-### 10. Passing as fit for use for trade[^key-0becdbd5168550e68a913aa22162ee97]
+### 10. Passing as fit for use for trade[^c-0becdbd5168550e68a913aa22162ee97]
 
 (1) An inspector shall not pass as fit for use for trade a filling instrument unless –
 
 - (a) it complies with all the appropriate requirements of these Regulations; and
 - (b) on testing, it falls within the prescribed limits of error in relation to passing as fit for use for trade.
 
-(2) An inspector shall not pass as fit for use for trade a filling instrument imported from an EEA State[^key-4c88d3ba49b13f5abcb6d92b00cd25bf] unless –
+(2) An inspector shall not pass as fit for use for trade a filling instrument imported from an EEA State[^c-4c88d3ba49b13f5abcb6d92b00cd25bf] unless –
 
 - (a) where the requisite documentation is presented in accordance with regulation 9, the test report recites and the test data confirm to the satisfaction of the inspector that, on testing in accordance with the provisions of clause 5.3 (initial verification) of Part 1 of OIML R 61, that filling instrument fell within limits of error which afford in use an equivalent standard to the prescribed limits of error; and
 - (b) it otherwise complies with all the relevant requirements of these Regulations.
@@ -175,19 +175,19 @@ Where the indication of the exact quantity of material a filling instrument purp
 - (a) in accordance with the provisions of Schedule 5; and
 - (b) where test fills are required, on the basis of consecutive fills.
 
-### 11. Stamping[^key-9329c18b4278767b1973931b543bd817]
+### 11. Stamping[^c-9329c18b4278767b1973931b543bd817]
 
 (1) The stamp shall be placed on the verification mark support referred to in clause 3.11.2 of Part 1 of OIML R 61 which is set out in Schedule 4.
 
 (2) An inspector shall not stamp a filling instrument in accordance with paragraph (1) if it bears any mark which, in his opinion, might reasonably be mistaken for the stamp, or any statement or mark (other than an inspector’s stamp) which purports to be or, in the opinion of the inspector, might reasonably be mistaken for an expression of approval or guarantee of accuracy by any body or person.
 
-### 12. Manner of obliteration of stamps[^key-f61fe3cafe07ef3fd34972b5c7b00ff4]
+### 12. Manner of obliteration of stamps[^c-f61fe3cafe07ef3fd34972b5c7b00ff4]
 
 An inspector shall obliterate a stamp, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration –
 
 [image: see source](https://www.legislation.gov.uk/nisr/2005/27/images/nisr_20050027_en_001)
 
-### 13. Obliteration of stamps[^key-c7d42adf1bb9793bc299979f5ccb5093]
+### 13. Obliteration of stamps[^c-c7d42adf1bb9793bc299979f5ccb5093]
 
 (1) Subject to paragraph (2), an inspector shall obliterate the stamp on any filling instrument which –
 
@@ -196,11 +196,11 @@ An inspector shall obliterate a stamp, in accordance with the requirements of th
 
 (2) Except as provided by regulation 14, where any filling instrument does not fully comply with the requirements of these Regulations, but the nature or degree of the non-compliance is not, in the inspector’s opinion, such as to require the immediate obliteration of the stamp, he shall give to the proprietor or any person in control of the filling instrument a notice calling on him to have the instrument corrected within a stated period not exceeding 28 days, and shall obliterate the stamp if the correction has not been made within the stated period.
 
-### 14.[^key-52708bdcb8d9bb54ffa348904f8d22ef]
+### 14.[^c-52708bdcb8d9bb54ffa348904f8d22ef]
 
 An inspector shall obliterate the stamp on any filling instrument which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under regulation 10.
 
-### 15.[^key-84ce5d1625bb88a0c2ea4bf776442e68]
+### 15.[^c-84ce5d1625bb88a0c2ea4bf776442e68]
 
 An inspector may obliterate the stamp on any filling instrument which –
 
@@ -214,7 +214,7 @@ An inspector may obliterate the stamp on any filling instrument which –
   - (i) prevent the filling instrument operating consistently and correctly; or
   - (ii) are likely prematurely to degrade the metrological characteristics of the filling instrument.
 
-### 16.[^key-de4d007ae8417d7ae155a8c0bbdfe585]
+### 16.[^c-de4d007ae8417d7ae155a8c0bbdfe585]
 
 (1) For the purposes of these Regulations, the obliteration of any one stamp on any filling instrument shall, subject to paragraph (2), be deemed to be the obliteration of all other stamps on that instrument.
 
@@ -228,25 +228,25 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE 1 — (Manner of erection and installation)[^key-79408fcb2543668a35935207a1daf6e8]
+## SCHEDULE 1 — (Manner of erection and installation)[^c-79408fcb2543668a35935207a1daf6e8]
 
 Regulation 5(a)
 
 ### Cleaning and testing
 
-[^key-79408fcb2543668a35935207a1daf6e8]
+[^c-79408fcb2543668a35935207a1daf6e8]
 
 Every filling instrument shall be so positioned as to facilitate cleaning and testing.
 
 ### Feeding device (Extract from Clause 3.5 of Part 1 of OIML R 61)
 
-[^key-79408fcb2543668a35935207a1daf6e8]
+[^c-79408fcb2543668a35935207a1daf6e8]
 
 The feeding device shall be designed to provide sufficient and regular flowrate(s).
 
 ### Load receptor (Clause 3.6 of Part 1 of OIML R 61)
 
-[^key-79408fcb2543668a35935207a1daf6e8]
+[^c-79408fcb2543668a35935207a1daf6e8]
 
 The load receptor, and feed and discharge devices as appropriate, shall be designed to ensure that residual material retained after each discharge is negligible.
 
@@ -258,23 +258,23 @@ Manual discharge of the load receptor shall not be possible during automatic ope
 
 ### Equilibrium mechanism (Clause 3.8 of Part 1 of OIML R 61)
 
-[^key-79408fcb2543668a35935207a1daf6e8]
+[^c-79408fcb2543668a35935207a1daf6e8]
 
 The equilibrium mechanism may be provided with detachable masses which shall be either weights in accordance with OIML requirements or purpose designed masses of any nominal value, distinguishable by shape and identified with the filling instrument.
 
 ### Installation (Extract from Clause 5.3.1 of Part 1 of OIML R 61)
 
-[^key-79408fcb2543668a35935207a1daf6e8]
+[^c-79408fcb2543668a35935207a1daf6e8]
 
 The installation of a filling instrument shall be so designed that an automatic weighing operation will be the same whether for the purposes of testing or for use for a transaction.
 
-## SCHEDULE 2 — (Requirements relating to use)[^key-7173606df16468fb03b5380a6601eaee]
+## SCHEDULE 2 — (Requirements relating to use)[^c-7173606df16468fb03b5380a6601eaee]
 
 Regulation 5(b)
 
 ### Static temperatures (Clause 2.5.1 of Part 1 of OIML R 61)
 
-[^key-7173606df16468fb03b5380a6601eaee]
+[^c-7173606df16468fb03b5380a6601eaee]
 
 Instruments shall comply with the appropriate metrological and technical requirements at temperatures from –10°C to +40°C. However, for special applications the limits of the temperature range may differ from those given above but such a range shall not be less than 30°C and shall be specified in the descriptive markings as set out in Schedule 4.
 
@@ -282,7 +282,7 @@ Where a filling instrument is marked with a temperature range, it shall not be u
 
 ### Tilting (Clause 2.5.3 of Part 1 of OIML R 61)
 
-[^key-7173606df16468fb03b5380a6601eaee]
+[^c-7173606df16468fb03b5380a6601eaee]
 
 Instruments which are not intended for installation in a fixed position and which do not have a level indicator shall comply with the appropriate metrological and technical requirements when tilted by 5%.
 
@@ -290,13 +290,13 @@ Where a level indicator is present it shall enable the instrument to be set to a
 
 ### Suitability for use (Clause 3.1 of Part 1 of OIML R 61)
 
-[^key-7173606df16468fb03b5380a6601eaee]
+[^c-7173606df16468fb03b5380a6601eaee]
 
 A filling instrument shall be designed to suit the method of operation and the products for which it is intended. It shall be of adequately robust construction so that it maintains its metrological characteristics.
 
 ### Zero-setting and tare devices (Extract from Clause 3.7 of Part 1 of OIML R 61)
 
-[^key-7173606df16468fb03b5380a6601eaee]
+[^c-7173606df16468fb03b5380a6601eaee]
 
 Non-automatic or semi-automatic zero-setting and tare devices must be locked during automatic operation.
 
@@ -304,17 +304,17 @@ The weighing unit shall be in stable equilibrium when the zero-setting and tare 
 
 ### Specified purpose or manner of use
 
-[^key-7173606df16468fb03b5380a6601eaee]
+[^c-7173606df16468fb03b5380a6601eaee]
 
 Where a filling instrument is marked (in accordance with Schedule 4) with a mark which signifies the purpose or manner of use, it shall not be used for a purpose or in a manner which does not accord with that marking.
 
 ### Minimum or maximum capacity
 
-[^key-7173606df16468fb03b5380a6601eaee]
+[^c-7173606df16468fb03b5380a6601eaee]
 
 A filling instrument shall only be used for trade for the purpose of weighing material the values of which, expressed in units of measurement of mass, are neither less than the value of the minimum capacity nor more than the value of the maximum capacity.
 
-## SCHEDULE 3 — (Accuracy classes for filling instruments)[^key-bd1b4833d6376219e086291fceee06c8]
+## SCHEDULE 3 — (Accuracy classes for filling instruments)[^c-bd1b4833d6376219e086291fceee06c8]
 
 Regulation 5(c)
 
@@ -336,9 +336,9 @@ Regulation 5(c)
 </tbody>
 </table>
 
-[^f00009][^key-0a1829312d5161fa9c88ee051bf284ef][^f00011]
+[^f00009][^c-0a1829312d5161fa9c88ee051bf284ef][^f00011]
 
-## SCHEDULE 4 — (Descriptive markings and verification markings: Extract from Part 1 of OIML R 61 and additional marking)[^key-16546ccdb7d283097bbf33f3d8110da5]
+## SCHEDULE 4 — (Descriptive markings and verification markings: Extract from Part 1 of OIML R 61 and additional marking)[^c-16546ccdb7d283097bbf33f3d8110da5]
 
 Regulation 6(b)
 
@@ -411,13 +411,13 @@ When the mark is made with a stamp, this support may consist of a strip of lead 
 
 Filling instruments shall bear the additional descriptive marking “ R 61” which shall be presented in accordance with the provisions of clause 3.10.3 of Part 1 of OIML R 61 and, when a programmable display is used, the plate on the instrument shall bear that marking also.
 
-## SCHEDULE 5 — (Prescribed limits of error)[^key-92b1a357ff305f255a17eeb52a6ad0a2]
+## SCHEDULE 5 — (Prescribed limits of error)[^c-92b1a357ff305f255a17eeb52a6ad0a2]
 
 Regulation 9(3)
 
 ### Maximum permissible deviation of each fill (Clause 2.2.2 of Part 1 of OIML R 61)
 
-[^key-92b1a357ff305f255a17eeb52a6ad0a2]
+[^c-92b1a357ff305f255a17eeb52a6ad0a2]
 
 The instrument shall have a specified accuracy class X(x) for which the maximum permissible deviation of each fill from the average shall be equal to the limits specified in Table 1, multiplied by the class designation factor (x).
 
@@ -450,7 +450,7 @@ The instrument shall have a specified accuracy class X(x) for which the maximum 
 
 ### Maximum permissible preset value error (Clause 2.3 of Part 1 of OIML R 61)
 
-[^key-92b1a357ff305f255a17eeb52a6ad0a2]
+[^c-92b1a357ff305f255a17eeb52a6ad0a2]
 
 For instruments where it is possible to preset a fill weight the maximum difference between the preset value and the average mass of the fills shall not exceed 0.25 of the maximum permissible deviation of each fill from the average, as specified for in-service verification in 2.2.2. This limit will apply for initial verification and for in-service testing.
 
@@ -505,7 +505,7 @@ Contravention of Regulation 5 or 6 is an offence under Article 13(1) of the 1981
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Art. 4
 
-[^key-a1733984da0d18087690c1bb8773bf91]: Commencement: Reg. 1 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-a1733984da0d18087690c1bb8773bf91]: Commencement: Reg. 1 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1986 No.311](https://www.legislation.gov.uk/nisr/1986/311) as amended by [S.R. 1995 No.228](https://www.legislation.gov.uk/nisr/1995/228), [S.R. 1998 No. 374](https://www.legislation.gov.uk/nisr/1998/374), [S.R. 2002 No. 71](https://www.legislation.gov.uk/nisr/2002/71) and [S.R. 2005 No. 27](https://www.legislation.gov.uk/nisr/2005/27)
 
@@ -513,64 +513,64 @@ Contravention of Regulation 5 or 6 is an offence under Article 13(1) of the 1981
 
 [^f00006]: Footnote: [S.R. 2005 No. 27](https://www.legislation.gov.uk/nisr/2005/27)
 
-[^key-4319af0e613bf3e15c6e914892d3f529]: Commencement: Reg. 2 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-4319af0e613bf3e15c6e914892d3f529]: Commencement: Reg. 2 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
 [^f00007]: Footnote: [S.R.& O. 1969 No.11](https://www.legislation.gov.uk/nisro/1969/11) as amended by [S.R. 2002 No. 36](https://www.legislation.gov.uk/nisr/2002/36)
 
-[^key-9716f097713252a107b8ce344ae8f0b0]: Commencement: Reg. 3 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-9716f097713252a107b8ce344ae8f0b0]: Commencement: Reg. 3 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-93c0b080f3a7566b6b8707e53ea61d7b]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/27/regulation/3/3) revoked (1.11.2011) by [The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011/331)](https://www.legislation.gov.uk/nisr/2011/331), [reg. 1](https://www.legislation.gov.uk/nisr/2011/331/regulation/1), [Sch. 1 Pt. 2 para. 15](https://www.legislation.gov.uk/nisr/2011/331/schedule/1/paragraph/15) (with [regs. 3](https://www.legislation.gov.uk/nisr/2011/331/regulation/3), [21](https://www.legislation.gov.uk/nisr/2011/331/regulation/21))
+[^c-93c0b080f3a7566b6b8707e53ea61d7b]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/27/regulation/3/3) revoked (1.11.2011) by [The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011/331)](https://www.legislation.gov.uk/nisr/2011/331), [reg. 1](https://www.legislation.gov.uk/nisr/2011/331/regulation/1), [Sch. 1 Pt. 2 para. 15](https://www.legislation.gov.uk/nisr/2011/331/schedule/1/paragraph/15) (with [regs. 3](https://www.legislation.gov.uk/nisr/2011/331/regulation/3), [21](https://www.legislation.gov.uk/nisr/2011/331/regulation/21))
 
-[^key-61fd67acab8a9b12084f408acf8f3c39]: Commencement: Reg. 4 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-61fd67acab8a9b12084f408acf8f3c39]: Commencement: Reg. 4 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-79f9211e66d22d8fa28006589c711263]: Commencement: Reg. 5 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-79f9211e66d22d8fa28006589c711263]: Commencement: Reg. 5 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-f38d874b861ffd9d87bafcea4d372ae2]: Commencement: Reg. 6 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-f38d874b861ffd9d87bafcea4d372ae2]: Commencement: Reg. 6 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-e0805de0d07068f854e46ec8a9e8d3db]: Commencement: Reg. 7 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-e0805de0d07068f854e46ec8a9e8d3db]: Commencement: Reg. 7 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-27ac900d9edc95dbf14947667f722c61]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2005/27/regulation/7) omitted (6.12.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/366/regulation/3/3)
+[^c-27ac900d9edc95dbf14947667f722c61]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2005/27/regulation/7) omitted (6.12.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2010/366/regulation/3/3)
 
-[^key-18d3180816d718dfbf08ede0857e06a2]: Commencement: Reg. 8 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-18d3180816d718dfbf08ede0857e06a2]: Commencement: Reg. 8 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-7a2b87dadbcba5b56b072800670d87f8]: Commencement: Reg. 9 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-7a2b87dadbcba5b56b072800670d87f8]: Commencement: Reg. 9 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-2eaa3ee43a5d51b2c340338aa4c05103]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2005/27/regulation/9) heading substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2eaa3ee43a5d51b2c340338aa4c05103]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2005/27/regulation/9) heading substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70e6a01bc01109a3d7dfca677ddc69a5]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/9/1) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70e6a01bc01109a3d7dfca677ddc69a5]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/9/1) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-10b37200083eea40ff69816e734704a6]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2005/27/regulation/9/2/b) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/9/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10b37200083eea40ff69816e734704a6]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2005/27/regulation/9/2/b) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/9/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: BS EN ISO/IEC 17025:2000 is the international standard “General requirements for the competence of testing and calibration laboratories” (IBSN 0 580 34929 2)
 
-[^key-0becdbd5168550e68a913aa22162ee97]: Commencement: Reg. 10 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-0becdbd5168550e68a913aa22162ee97]: Commencement: Reg. 10 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-4c88d3ba49b13f5abcb6d92b00cd25bf]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2005/27/regulation/10/2) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c88d3ba49b13f5abcb6d92b00cd25bf]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2005/27/regulation/10/2) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9329c18b4278767b1973931b543bd817]: Commencement: Reg. 11 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-9329c18b4278767b1973931b543bd817]: Commencement: Reg. 11 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-f61fe3cafe07ef3fd34972b5c7b00ff4]: Commencement: Reg. 12 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-f61fe3cafe07ef3fd34972b5c7b00ff4]: Commencement: Reg. 12 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-c7d42adf1bb9793bc299979f5ccb5093]: Commencement: Reg. 13 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-c7d42adf1bb9793bc299979f5ccb5093]: Commencement: Reg. 13 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-52708bdcb8d9bb54ffa348904f8d22ef]: Commencement: Reg. 14 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-52708bdcb8d9bb54ffa348904f8d22ef]: Commencement: Reg. 14 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-84ce5d1625bb88a0c2ea4bf776442e68]: Commencement: Reg. 15 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-84ce5d1625bb88a0c2ea4bf776442e68]: Commencement: Reg. 15 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-de4d007ae8417d7ae155a8c0bbdfe585]: Commencement: Reg. 16 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-de4d007ae8417d7ae155a8c0bbdfe585]: Commencement: Reg. 16 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-79408fcb2543668a35935207a1daf6e8]: Commencement: Sch. 1 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-79408fcb2543668a35935207a1daf6e8]: Commencement: Sch. 1 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-7173606df16468fb03b5380a6601eaee]: Commencement: Sch. 2 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-7173606df16468fb03b5380a6601eaee]: Commencement: Sch. 2 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-bd1b4833d6376219e086291fceee06c8]: Commencement: Sch. 3 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-bd1b4833d6376219e086291fceee06c8]: Commencement: Sch. 3 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
 [^f00009]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
 
-[^key-0a1829312d5161fa9c88ee051bf284ef]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/27/schedule/3/paragraph/2) substituted (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 35](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/35)
+[^c-0a1829312d5161fa9c88ee051bf284ef]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/27/schedule/3/paragraph/2) substituted (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 35](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/35)
 
 [^f00011]: Footnote: [S.I.1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-16546ccdb7d283097bbf33f3d8110da5]: Commencement: Sch. 4 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-16546ccdb7d283097bbf33f3d8110da5]: Commencement: Sch. 4 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
 
-[^key-92b1a357ff305f255a17eeb52a6ad0a2]: Commencement: Sch. 5 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)
+[^c-92b1a357ff305f255a17eeb52a6ad0a2]: Commencement: Sch. 5 in operation at 1.3.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/27/regulation/1/1)

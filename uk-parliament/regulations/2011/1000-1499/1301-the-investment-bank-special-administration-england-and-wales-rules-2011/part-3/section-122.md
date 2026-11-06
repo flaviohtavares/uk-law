@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Content of progress report[^key-a6444200d35c5e6d6f61bdfc76107ff9]
+## 122. Content of progress report[^c-a6444200d35c5e6d6f61bdfc76107ff9]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
   irrespective in either case of whether payment was made in respect of that remuneration during the period of the report;
 - (g) a statement of the expenses incurred by the administrator during the period of the report, (irrespective of whether payment was made in respect of them during that period): the statement to contain a breakdown of expenses incurred in respect of the administrator pursuing Objective 1 of the Special Administration Objectives;
-- (h) whether the FCA or, where relevant, the PRA[^key-3db4e2201ad33efb5d4d13702a1130ab] have given a direction under regulation 16 and whether that direction has been withdrawn;
+- (h) whether the FCA or, where relevant, the PRA[^c-3db4e2201ad33efb5d4d13702a1130ab] have given a direction under regulation 16 and whether that direction has been withdrawn;
 - (i) details of progress during the period of the report, including a receipts and payments account (as detailed in paragraph (4) below);
 - (j) details of any assets of the investment bank that remain to be realised;
 - (k) in a special administration (bank administration), details of any amounts received from a scheme under a resolution fund order;
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6444200d35c5e6d6f61bdfc76107ff9]: Commencement: [Rule 122](https://www.legislation.gov.uk/uksi/2011/1301/rule/122) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a6444200d35c5e6d6f61bdfc76107ff9]: Commencement: [Rule 122](https://www.legislation.gov.uk/uksi/2011/1301/rule/122) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-3db4e2201ad33efb5d4d13702a1130ab]: Textual amendment: Words in [art. 122(1)(h)](https://www.legislation.gov.uk/uksi/2011/1301/article/122/1/h) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(xiii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/xiii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-3db4e2201ad33efb5d4d13702a1130ab]: Textual amendment: Words in [art. 122(1)(h)](https://www.legislation.gov.uk/uksi/2011/1301/article/122/1/h) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(xiii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/xiii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

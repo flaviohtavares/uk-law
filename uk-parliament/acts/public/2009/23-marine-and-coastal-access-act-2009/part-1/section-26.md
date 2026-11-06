@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Provision of information etc[^key-8d5189bf39beffd56b292e5a30cf0f55]
+## 26. Provision of information etc[^c-8d5189bf39beffd56b292e5a30cf0f55]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) publish documents or provide information about any matter relating to any of its functions or its general objective, or
 - (b) assist in the publication of such documents or the provision of such information.
 
-(1A)[^key-2614173fa7bb8b43abb6eea6a4d041a8] The MMO must, at the request of the Secretary of State—
+(1A)[^c-2614173fa7bb8b43abb6eea6a4d041a8] The MMO must, at the request of the Secretary of State—
 
 - (a) publish documents or provide information about any international marine matter, or
 - (b) assist in the publication of such documents or the provision of such information.
@@ -35,9 +35,9 @@ summary: ''
 - (a) to publish, or assist in the publication of, documents of a particular kind, or
 - (b) to provide, or assist in the provision of, information of a particular kind,
 
-is to be read as limiting the power conferred by subsection (1) or the duty imposed by subsection[^key-c8179abed281f1468c21b67d35ab9c3a] (1A).
+is to be read as limiting the power conferred by subsection (1) or the duty imposed by subsection[^c-c8179abed281f1468c21b67d35ab9c3a] (1A).
 
-(3)[^key-f0962516f16db4a1e175a00b61dccb24] For the purposes of this section a matter is an “international marine matter” if—
+(3)[^c-f0962516f16db4a1e175a00b61dccb24] For the purposes of this section a matter is an “international marine matter” if—
 
 - (a) it relates to an area outside the UK marine area, and
 - (b) the MMO has power under subsection (1)(a) to publish documents or provide information about a corresponding matter that relates to the UK marine area or an area within it.
@@ -46,10 +46,10 @@ is to be read as limiting the power conferred by subsection (1) or the duty impo
 
 ## Annotations
 
-[^key-8d5189bf39beffd56b292e5a30cf0f55]: Commencement: S. 26 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/4)
+[^c-8d5189bf39beffd56b292e5a30cf0f55]: Commencement: S. 26 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/4)
 
-[^key-2614173fa7bb8b43abb6eea6a4d041a8]: Textual amendment: [S. 26(1A)](https://www.legislation.gov.uk/ukpga/2009/23/section/26/1A) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 4(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/4/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-2614173fa7bb8b43abb6eea6a4d041a8]: Textual amendment: [S. 26(1A)](https://www.legislation.gov.uk/ukpga/2009/23/section/26/1A) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 4(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/4/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-c8179abed281f1468c21b67d35ab9c3a]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/26/2) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 4(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/4/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-c8179abed281f1468c21b67d35ab9c3a]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/26/2) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 4(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/4/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-f0962516f16db4a1e175a00b61dccb24]: Textual amendment: [S. 26(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/26/4) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 4(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/4/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-f0962516f16db4a1e175a00b61dccb24]: Textual amendment: [S. 26(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/23/section/26/4) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 4(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/4/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

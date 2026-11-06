@@ -78,7 +78,7 @@ In accordance with section 38(3) of the National Health Service Reform and Healt
 - “**approved qualification**” has the meaning given in regulation 20(2);
 - “**case examiner**” means an individual appointed under regulation 25(7)(b);
 - “**conditions of practice order**” has the meaning given in paragraph 13(1)(c) of Schedule 2;
-- “**custodial sentence**” has the meaning given in section 76 of the Powers of Criminal Courts (Sentencing) Act 2000 [^c23355391] or section 222 of the Sentencing Code[^key-e3a3a4881e92e2a4b1b6366bdd6430b9];
+- “**custodial sentence**” has the meaning given in section 76 of the Powers of Criminal Courts (Sentencing) Act 2000 [^c23355391] or section 222 of the Sentencing Code[^c-e3a3a4881e92e2a4b1b6366bdd6430b9];
 - “**education and training approval scheme**” has the meaning given in regulation 20(1);
 - “**fitness to practise proceedings**” has the meaning given in regulation 25(1)(a);
 - “**function**”, in relation to the regulator, has the meaning given in regulation 8(3);
@@ -92,7 +92,7 @@ In accordance with section 38(3) of the National Health Service Reform and Healt
 - “**register**” means the register described in section 39(1) [^c23355411] of the Act;
 - “**registrar**” means any person appointed under regulation 8(1);
 - “**regulatory body**” means a body, other than the regulator, which authorises a person to practise a health or social care profession which is regulated under any enactment, whether in the United Kingdom or elsewhere;
-- [^key-b948f0a6aeff76c8dd888ac894860e5e]...
+- [^c-b948f0a6aeff76c8dd888ac894860e5e]...
 - “**relevant institutions**” has the meaning given in regulation 20(5);
 - “**remedial direction**” has the meaning given in regulation 36(2)(b);
 - “**removal order**” has the meaning given in paragraph 13(1)(a) of Schedule 2;
@@ -100,9 +100,9 @@ In accordance with section 38(3) of the National Health Service Reform and Healt
 - “**suspension order**” has the meaning given in paragraph 13(1)(b) of Schedule 2; and
 - “**warning order**” has the meaning given in paragraph 13(1)(d) of Schedule 2.
 
-(2)[^key-61f1d63f8957e8ae0da89f351a7bfa8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-61f1d63f8957e8ae0da89f351a7bfa8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9ba75ddf13c7602089a5f96ad10d850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9ba75ddf13c7602089a5f96ad10d850f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of these Regulations, whether a person has a recognised qualification is determined in accordance with Schedule 1.
 
@@ -211,16 +211,16 @@ and must be published, and reviewed, at such intervals as the regulator consider
 (1) [^c23355491]The persons specified for the purposes of section 53(1)(d) of the Act are—
 
 - (a) public bodies or other persons concerned with —
-  - (i) the employment (whether or not under a contract of service) of social workers in England or elsewhere[^key-70c6af53385acbbf620d650b17192a9d],
-  - (ii) the education or training of social workers in England or elsewhere[^key-169d6a9adc457223859f24646c727a22] or health care professionals,
+  - (i) the employment (whether or not under a contract of service) of social workers in England or elsewhere[^c-70c6af53385acbbf620d650b17192a9d],
+  - (ii) the education or training of social workers in England or elsewhere[^c-169d6a9adc457223859f24646c727a22] or health care professionals,
   - (iii) the regulation of, or the co-ordination of the regulation of, health care professionals,
   - (iv) the regulation of providers of health services,
   - (v) the provision, supervision or management of health or education services,
   - (vi) the inspection of education, social services or health care in England,
-  - (vii) the regulation of social work in England or elsewhere[^key-c62ce93d7bd72c920dab55ed410ca4e2], and
+  - (vii) the regulation of social work in England or elsewhere[^c-c62ce93d7bd72c920dab55ed410ca4e2], and
   - (viii) the provision, supervision or management of the services of persons engaged in social work in England,
-- (b)[^key-61dab1e75ade05fd357c1f399192c830] NHS England, the body corporate established under section 1H of the National Health Service Act 2006,
-- (c) any integrated care board established under Chapter A3 of Part 2[^key-b62f656ad80c23aca0ba1e0edf77c6db] of the National Health Service Act 2006 [^c23355511],
+- (b)[^c-61dab1e75ade05fd357c1f399192c830] NHS England, the body corporate established under section 1H of the National Health Service Act 2006,
+- (c) any integrated care board established under Chapter A3 of Part 2[^c-b62f656ad80c23aca0ba1e0edf77c6db] of the National Health Service Act 2006 [^c23355511],
 - (d) any NHS trust established under section 25 of the National Health Service Act 2006,
 - (e) any NHS foundation trust within the meaning given in section 30 of the National Health Service Act 2006 [^c23355521],
 - (f) the Care Quality Commission established under section 1(1) of the Health and Social Care Act 2008 [^c23355531],
@@ -230,7 +230,7 @@ and must be published, and reviewed, at such intervals as the regulator consider
 
 (2) For the purposes of paragraph (1), “**health care professionals**” means persons regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 other than the regulator [^c23355571].
 
-### 7A. Disclosure of information relating to functions[^key-64c7904bc41b80545451ba609488a819]
+### 7A. Disclosure of information relating to functions[^c-64c7904bc41b80545451ba609488a819]
 
 (1) Where the regulator receives a request from any person (P) to disclose information to P, the regulator must disclose that information to P where the regulator considers such disclosure—
 
@@ -278,7 +278,7 @@ and must be published, and reviewed, at such intervals as the regulator consider
 
 is evidence of the matters certified.
 
-(8) On application by a social worker who wishes to practise in Iceland, Lichtenstein, Norway or Switzerland[^key-300b5e265e9ec69ea319d07cb60b39ad], the regulator must provide them with such documentary evidence as is required by the relevant provisions of Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7th September 2005 [^c23355591] on the recognition of professional qualifications, as those provisions are amended from time to time.
+(8) On application by a social worker who wishes to practise in Iceland, Lichtenstein, Norway or Switzerland[^c-300b5e265e9ec69ea319d07cb60b39ad], the regulator must provide them with such documentary evidence as is required by the relevant provisions of Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) of the European Parliament and of the Council of 7th September 2005 [^c23355591] on the recognition of professional qualifications, as those provisions are amended from time to time.
 
 (9) The regulator must publish the information recorded in the register in such manner and at such times as it considers appropriate, and make that information available for public inspection at all reasonable times, but it is not required to publish information which is—
 
@@ -294,15 +294,15 @@ where “**spent conviction**” means a conviction that is a spent conviction f
 
 - (a) their name,
 - (b) the reference number assigned to their entry,
-- (ba)[^key-5a09581f318172dd0eff2240890a8876] in the case of a social worker registered under regulation 12A (emergency registration) the fact that the social worker has been registered under that regulation,
-- (c)[^key-78e0dd37158835d3777f98e912b2e161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-5a09581f318172dd0eff2240890a8876] in the case of a social worker registered under regulation 12A (emergency registration) the fact that the social worker has been registered under that regulation,
+- (c)[^c-78e0dd37158835d3777f98e912b2e161] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) whether their registration is subject to a condition in accordance with regulation 11(3),
 - (e) the date of registration, and
 - (f) their social work qualification.
 
-(1A)[^key-13f3639c0d04c9ac089adeb3601d75a7] The information referred to in paragraph (1)(a), (b) or (ba) is not required to be recorded in the register in relation to a social worker registered under regulation 12A as a member of a specified group.
+(1A)[^c-13f3639c0d04c9ac089adeb3601d75a7] The information referred to in paragraph (1)(a), (b) or (ba) is not required to be recorded in the register in relation to a social worker registered under regulation 12A as a member of a specified group.
 
-(2)[^key-92cfc4eef43135a82407a63c387d8c04] Where a registered social worker is, or has been, subject to fitness to practise proceedings, details of the following must be recorded in their entry in the register—
+(2)[^c-92cfc4eef43135a82407a63c387d8c04] Where a registered social worker is, or has been, subject to fitness to practise proceedings, details of the following must be recorded in their entry in the register—
 
 - (a) any interim suspension order or interim conditions of practice order made by adjudicators under paragraph 8(2) or 11(1) of Schedule 2, including where the order is varied, revoked or replaced on a review under paragraph 14 of that Schedule or any action taken on appeal to the High Court under paragraph 16 of that Schedule,
 - (b) any order imposed, or advice given, by case examiners on a disposal without hearing under paragraph 9(3) of Schedule 2,
@@ -311,7 +311,7 @@ where “**spent conviction**” means a conviction that is a spent conviction f
 
 (3) The regulator may record any other information in the register it considers appropriate.
 
-(4) An order under paragraph 12(3)(b) of Schedule 2[^key-5679b4eb2eed4b2b7d042ae3454be6cb] may not be recorded until the expiry of the period within which an appeal against the order could be made, or where an appeal against the order has been made, before the appeal is withdrawn or otherwise finally disposed of.
+(4) An order under paragraph 12(3)(b) of Schedule 2[^c-5679b4eb2eed4b2b7d042ae3454be6cb] may not be recorded until the expiry of the period within which an appeal against the order could be made, or where an appeal against the order has been made, before the appeal is withdrawn or otherwise finally disposed of.
 
 (5) Any information recorded in accordance with paragraph (2) must remain on the register—
 
@@ -329,14 +329,14 @@ where “**spent conviction**” means a conviction that is a spent conviction f
 
 with the proviso that any period for which information mentioned in paragraph (5) must remain on the register under those rules must be proportionate in all the circumstances of each case.
 
-### 10. Procedure for registration[^key-851f3eed40f93a4625f7784b1e3bb579]
+### 10. Procedure for registration[^c-851f3eed40f93a4625f7784b1e3bb579]
 
 (1) A person who wishes to be registered as a social worker must apply to the regulator in accordance with this Part and rules made under paragraph (4).
 
 (2) Where a person who is eligible to be registered in accordance with regulation 11—
 
 - (a) applies to be registered following any procedure set by rules made under paragraph (4), and
-- (b)[^key-503a6f66ca1eca0f26b3091d3f66e5c5] pays any fee payable in accordance with rules made under regulation 17(3),
+- (b)[^c-503a6f66ca1eca0f26b3091d3f66e5c5] pays any fee payable in accordance with rules made under regulation 17(3),
 
 the regulator must register that person by recording the information set out in regulation 9(1) in the register, and must notify them accordingly.
 
@@ -347,7 +347,7 @@ the regulator must register that person by recording the information set out in 
 - (a) include the time within which any step must be taken,
 - (b) where they make provision for an application to be determined within a specified period which runs from the date on which the completed application is received, provide that an application is not to be regarded as incomplete only on the ground that information requested in accordance with regulation 11(4) (as to necessary knowledge of English) has not been provided.
 
-(5)[^key-bf94287ad197714a898c43bb4303ec8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bf94287ad197714a898c43bb4303ec8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 11. Determination of eligibility for registration
 
@@ -362,16 +362,16 @@ the regulator must register that person by recording the information set out in 
 - (c) have the necessary knowledge of English, and
 - (d) have not been convicted of a listed offence (other than a conviction that has been quashed).
 
-(3)[^key-f7aa86cdbcbf279f14c4234758570525] Where the regulator is satisfied that a person would be eligible to be registered (or to have their registration renewed, or their entry restored) if a condition were met the regulator may, with that person's consent, grant their application for registration, renewal or restoration (as the case may be) subject to that condition.
+(3)[^c-f7aa86cdbcbf279f14c4234758570525] Where the regulator is satisfied that a person would be eligible to be registered (or to have their registration renewed, or their entry restored) if a condition were met the regulator may, with that person's consent, grant their application for registration, renewal or restoration (as the case may be) subject to that condition.
 
-(4) In any case where the regulator is not satisfied, having considered any evidence, information or documents provided in support of their application for registration or renewal, that a person has the necessary knowledge of English to be eligible to be registered, or to continue to be registered, the regulator may [^key-aa6d4527e0603714bf227c33f0d6894e]...—
+(4) In any case where the regulator is not satisfied, having considered any evidence, information or documents provided in support of their application for registration or renewal, that a person has the necessary knowledge of English to be eligible to be registered, or to continue to be registered, the regulator may [^c-aa6d4527e0603714bf227c33f0d6894e]...—
 
 - (a) request the person to provide further evidence, information or documents, and
 - (b) require the person to undergo an examination or other assessment, and provide information in respect of that examination or assessment, provided that it notifies the person of their right to appeal under regulation 19(1)(b),
 
 within such period as is determined by the regulator in rules, and the regulator may draw such inferences as it deems appropriate if the person fails to undergo an examination or assessment, or fails to provide or disclose any evidence, under this paragraph.
 
-(5)[^key-d9553f0ae4fcb1aa174d10733a7d9189] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d9553f0ae4fcb1aa174d10733a7d9189] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The regulator must make rules in relation to determining eligibility, including in particular—
 
@@ -392,11 +392,11 @@ within such period as is determined by the regulator in rules, and the regulator
 - (a) for the social worker to be notified of their right to appeal under regulation 19(1)(c) or (d) (as the case may be), and
 - (b) that an entry may not be removed from the register before the expiry of the period within which such an appeal may be made, or if an appeal is made, the appeal is withdrawn or otherwise finally disposed of.
 
-(8)[^key-97e82ba608fbdb6eef3df6a1bebca8d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-97e82ba608fbdb6eef3df6a1bebca8d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12. Annotation of entries in the register
 
-(1)[^key-9183e7630431b1fbb516899ee025b716] Where a registered social worker who is eligible to have any other relevant qualification, specialism, accreditation, or competence recorded in their entry in the register—
+(1)[^c-9183e7630431b1fbb516899ee025b716] Where a registered social worker who is eligible to have any other relevant qualification, specialism, accreditation, or competence recorded in their entry in the register—
 
 - (a) applies to the regulator in accordance with rules made under paragraph (2) and rules made under regulation 9(6)(b)(i), and
 - (b) pays any fee payable in accordance with rules made under regulation 17(3),
@@ -405,7 +405,7 @@ the regulator must annotate their entry with that information, and must notify t
 
 (2) If the regulator makes rules under regulation 9(6)(b)(i), it must make rules setting out the procedure for dealing with annotation of the register with any information mentioned in paragraph (1) (including the period for which annotations must remain on the register and any evidence which must be provided by a registered social worker in support of such an application).
 
-### 12A. Temporary registration in emergencies involving loss of human life or human illness etc[^key-2f1e134842f527730970d2890a23db98]
+### 12A. Temporary registration in emergencies involving loss of human life or human illness etc[^c-2f1e134842f527730970d2890a23db98]
 
 (1) The regulator may register a person as a social worker, or the persons comprising a specified group of persons as social workers, if—
 
@@ -497,21 +497,21 @@ the regulator must renew their registration.
 
 (6) In any case where the regulator removes a person's entry from the register where they fail to renew their registration in accordance with paragraph (1), it must notify them accordingly, and of their right to appeal under regulation 19(1)(f).
 
-### 14. Removal from the register[^key-cda6658b22f7ec9ab648d99a9968da7e][^key-51e9fd171aca4eb42a647f1c119cc682]
+### 14. Removal from the register[^c-cda6658b22f7ec9ab648d99a9968da7e][^c-51e9fd171aca4eb42a647f1c119cc682]
 
 (1) A registered social worker's entry must be removed from the register where—
 
 - (a) the regulator is satisfied that their registration was fraudulently procured or incorrectly made, and determines to remove their entry from the register,
 - (b) a removal order is made in relation to them,
 - (c) they request the removal, provided that the regulator may not remove their entry—
-  - (i)[^key-8c681f9b65c224272335f3d1c3996c6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-8c681f9b65c224272335f3d1c3996c6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) if they have made an appeal under regulation 19(1) or (8) and the appeal has not been withdrawn or otherwise finally disposed of,
 - (d) the regulator is satisfied that they have failed to comply with any condition attached to their registration under regulation 11(3),
 - (e) the regulator is satisfied that regulation 13(2) applies (failure to renew registration),
 - (f) regulation 26(5) applies (automatic removal from the register),
 - (g) the regulator is satisfied that they have died.
 
-(1A)[^key-c3cdc23fdf730172cf9b4c48b6d9d824] Where a registered social worker—
+(1A)[^c-c3cdc23fdf730172cf9b4c48b6d9d824] Where a registered social worker—
 
 - (a) requests the removal of their entry from the register, and
 - (b) at the time of that request, is subject to fitness to practise proceedings,
@@ -546,19 +546,19 @@ the regulator may remove their entry from the register
 
 it may make any interim order it considers is necessary for the protection of the public or in the best interests of the registered social worker, and paragraphs 8(2) to (6), 14 and 16 of Schedule 2 apply to such an order as they apply to an interim order made in fitness to practise proceedings.
 
-(8) The regulator must maintain a list of all entries removed from the register under paragraph (1) or (1A)[^key-66fcdf0c7998430a487970d3af5aa653] which includes, in relation to each removed entry—
+(8) The regulator must maintain a list of all entries removed from the register under paragraph (1) or (1A)[^c-66fcdf0c7998430a487970d3af5aa653] which includes, in relation to each removed entry—
 
 - (a) the information previously recorded in the register pursuant to regulation 9(1)(a), (b) and (e), and
 - (b) the date of, and the reason for, the removal of the entry,
 
 and must publish and make that list available for inspection in accordance with regulation 8(9).
 
-(9)[^key-38f20b3774fa188d88e5fc4bbcee1942] Where an entry relating to a registered social worker is removed from the register pursuant to paragraph (1A), the list referred to in paragraph (8)—
+(9)[^c-38f20b3774fa188d88e5fc4bbcee1942] Where an entry relating to a registered social worker is removed from the register pursuant to paragraph (1A), the list referred to in paragraph (8)—
 
 - (a) may include the particulars of the removal;
 - (b) must not include any information relating to the registered social worker’s physical or mental health.
 
-### 15. Restoration to the register[^key-786ec49fbf9fa3b07ee4ceab9282da38][^key-4d51708cf05d6028226a319f3283966d][^key-16db8bda5fef4093ab61ed31332fea60]
+### 15. Restoration to the register[^c-786ec49fbf9fa3b07ee4ceab9282da38][^c-4d51708cf05d6028226a319f3283966d][^c-16db8bda5fef4093ab61ed31332fea60]
 
 (1) A person whose entry in the register has been removed, and who wishes to have their entry restored to the register, may make an application for restoration to the regulator in accordance with this regulation and rules made under paragraph (11).
 
@@ -597,7 +597,7 @@ in accordance with rules made under paragraph (11).
 (9) Where a person falling within paragraph (7) or (8) is eligible to be restored to the register and—
 
 - (a) applies to be restored to the register in accordance with rules made under paragraph (11), and
-- (b)[^key-9a2fb8a04e3e96d492b6e98196cfa3a6][^key-2381eed9de03cfb344e1322d52fc42f4] pays any fee payable in accordance with rules made under regulation 17(3),
+- (b)[^c-9a2fb8a04e3e96d492b6e98196cfa3a6][^c-2381eed9de03cfb344e1322d52fc42f4] pays any fee payable in accordance with rules made under regulation 17(3),
 
 the regulator must restore that person's registration by recording the information set out in regulation 9(1) in relation to them in the register, and must notify them accordingly.
 
@@ -662,23 +662,23 @@ they may make a suspension order or a removal order, and paragraphs 12(4), 13, 1
 
 (4) The regulator must pay any fee income received under this regulation to the Secretary of State, unless the Secretary of State with the consent of the Treasury directs otherwise.
 
-### 18. Visiting social work professionals from relevant European States[^key-d6a1912ee22816160c6ffca44963f93a]
+### 18. Visiting social work professionals from relevant European States[^c-d6a1912ee22816160c6ffca44963f93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 19. Registration appeals
 
-(1)[^key-7934b40e53f54d7b7ed60dba3f21de96] A person may appeal, in accordance with rules made under paragraph (5), against—
+(1)[^c-7934b40e53f54d7b7ed60dba3f21de96] A person may appeal, in accordance with rules made under paragraph (5), against—
 
 - (a) a decision to refuse to register a person under regulation 10(3),
 - (b) a decision to require a person to undergo an examination or other assessment under regulation 11(4)(b) on the ground that the regulator was not satisfied that the person had the necessary knowledge of English,
 - (c) a decision to remove a person from the register for failure to meet a condition attached to their registration in accordance with rules made under regulation 11(6)(e),
 - (d) a decision to remove a person from the register for failure to comply with a requirement to meet the professional standards relating to continuing professional training and development in accordance with rules made under regulation 11(6)(f),
-- (e)[^key-62d53fcd5a3464f5b1a46adad57b7e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-62d53fcd5a3464f5b1a46adad57b7e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) a decision to remove a person's entry from the register under regulation 13(6),
 - (g) a decision to remove an entry from the register, where the regulator is satisfied that their registration was fraudulently procured or incorrectly made, under regulation 14(1)(a),
 - (h) a decision to refuse to restore registration under regulation 15(10),
-- (i)[^key-a3910ba583b9f1398a4244a3c49cf2e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-a3910ba583b9f1398a4244a3c49cf2e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) failure by the regulator to issue a decision under this Part within any relevant time limit, and
 - (k) any other decision the regulator specifies in rules.
 
@@ -687,7 +687,7 @@ they may make a suspension order or a removal order, and paragraphs 12(4), 13, 1
 - (a) failed to pay any fee payable in accordance with rules made under regulation 17(3), or
 - (b) failed to apply in accordance with any procedure set by relevant rules.
 
-(2A)[^key-9b5ed63a929f789939ddc5c4e6a5224e] Paragraph (1) does not apply to—
+(2A)[^c-9b5ed63a929f789939ddc5c4e6a5224e] Paragraph (1) does not apply to—
 
 - (a) a decision by the regulator to refuse to register a person under regulation 12A, or
 - (b) a decision by the regulator to revoke a person's registration under that regulation.
@@ -731,9 +731,9 @@ the regulator must inform the appellant of their right to appeal to the County C
 
 and may make any order as to costs as it thinks fit.
 
-(9)[^key-3947cfbbfd078ffc95a304b3da595e1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-3947cfbbfd078ffc95a304b3da595e1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-72646f04c7bcac612940470b5301a29a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-72646f04c7bcac612940470b5301a29a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Education and training
 
@@ -746,14 +746,14 @@ and may make any order as to costs as it thinks fit.
 - (c) such tests of knowledge of English, operated and delivered in England, as it may require, and
 - (d) courses for persons who are, or wish to become, approved to act as approved mental health professionals by a local social services authority whose area is in England, referred to in section 114ZA(1) of the Mental Health Act 1983 [^c23355641] (“AMHPs courses”).
 
-(2)[^key-fd09e8d90abcf67a65ecef3cc71bef11] In these Regulations “approved course of initial education or training” and “approved qualification” mean a course of initial education or training, or a qualification (as the case may be), approved under the education and training approval scheme.
+(2)[^c-fd09e8d90abcf67a65ecef3cc71bef11] In these Regulations “approved course of initial education or training” and “approved qualification” mean a course of initial education or training, or a qualification (as the case may be), approved under the education and training approval scheme.
 
 (3) The regulator must keep the education and training approval scheme under review.
 
 (4) The regulator must maintain and publish a list of the courses of initial education and training, qualifications, tests of knowledge of English, and AMHPs courses—
 
-- (a)[^key-2ed16f3a6d78cc0750ec1be200b572b6] which are for the time being approved under the education and training approval scheme, and
-- (b)[^key-2ed16f3a6d78cc0750ec1be200b572b6] which were, but are no longer, approved under the education and training approval scheme, together with the periods in respect of which they were approved.
+- (a)[^c-2ed16f3a6d78cc0750ec1be200b572b6] which are for the time being approved under the education and training approval scheme, and
+- (b)[^c-2ed16f3a6d78cc0750ec1be200b572b6] which were, but are no longer, approved under the education and training approval scheme, together with the periods in respect of which they were approved.
 
 (5) Universities and other bodies concerned with the delivery of courses of initial education and training, qualifications, tests of knowledge of English, and AMHPs courses falling within paragraph (1) (“relevant institutions”) must provide the regulator with such information or assistance as the regulator may reasonably require in connection with the exercise of the regulator's functions under this Part, and within such period as may be specified in the request.
 
@@ -779,7 +779,7 @@ and may make any order as to costs as it thinks fit.
 
 (7) The regulator may operate the education and training approval scheme so as to provide for the approval of courses of education and training for people who are registered social workers.
 
-### 21. Inspections[^key-b6ecc1eb73d35c8f0b1540cc7dd7fe09]
+### 21. Inspections[^c-b6ecc1eb73d35c8f0b1540cc7dd7fe09]
 
 (1) The regulator may appoint an adviser, or a member of the regulator's staff, to inspect any relevant institution in connection with the approval or re-approval of any course, qualification or test mentioned in regulation 20(1) conducted, provided or facilitated, or proposed to be conducted, provided or facilitated, by that institution.
 
@@ -800,7 +800,7 @@ and may make any order as to costs as it thinks fit.
 
 (4) The regulator may make members of the regulator's staff, facilities and other assistance available to inspectors.
 
-### 22. Conditional approval[^key-b6ecc1eb73d35c8f0b1540cc7dd7fe09]
+### 22. Conditional approval[^c-b6ecc1eb73d35c8f0b1540cc7dd7fe09]
 
 (1) Subject to paragraphs (2) and (3), the regulator may attach conditions to the approval, and re-approval, of courses of initial education and training, tests of knowledge of English, and AMHPs courses where—
 
@@ -824,7 +824,7 @@ unless the regulator considers it is necessary to do so for the protection of th
 
 (4) If, taking into account the matters referred to in paragraph (1), and any observations received from the institution concerned, the regulator determines that it is appropriate to attach a condition to the approval or re-approval, the regulator must notify the institution of that decision and the reasons for it, including the date from which the condition will apply and the date by which the condition must be complied with.
 
-### 23. Refusal, and withdrawal, of approval[^key-b6ecc1eb73d35c8f0b1540cc7dd7fe09]
+### 23. Refusal, and withdrawal, of approval[^c-b6ecc1eb73d35c8f0b1540cc7dd7fe09]
 
 (1) Subject to paragraph (2), the regulator may refuse to approve, or withdraw approval of a course of initial education or training, a qualification, a test of knowledge of English, or an AMHPs course falling within regulation 20(1), where—
 
@@ -859,7 +859,7 @@ made before the date on which the decision under paragraph (3) has effect.
 
 the refusal to re-approve, or withdrawal of approval of, that course does not affect any entitlement of a registered social worker to have their entry in the register annotated with an award of that qualification made before the date on which the decision under paragraph (3) has effect.
 
-### 24. Fees in relation to approval[^key-b6ecc1eb73d35c8f0b1540cc7dd7fe09]
+### 24. Fees in relation to approval[^c-b6ecc1eb73d35c8f0b1540cc7dd7fe09]
 
 (1) The regulator may charge a fee in connection with approval, and re-approval, of courses of initial education and training, qualifications, tests of knowledge of English, and AMHPs courses falling within regulation 20(1).
 
@@ -882,7 +882,7 @@ the refusal to re-approve, or withdrawal of approval of, that course does not af
 
 (4) The regulator must pay any fee income received under this regulation to the Secretary of State, unless the Secretary of State with the consent of the Treasury directs otherwise.
 
-## PART 5 — Discipline and fitness to practise[^key-1751f7314238386bef89d669dbb6c1e2]
+## PART 5 — Discipline and fitness to practise[^c-1751f7314238386bef89d669dbb6c1e2]
 
 ### 25. Fitness to practise proceedings
 
@@ -959,7 +959,7 @@ for the purposes of each fitness to practise proceedings.
 
 (5) Where paragraph (4) does not apply the regulator must—
 
-- (a) remove the entry relating to that person (“P”) from the register, [^key-a9b462a8faa60e99f4fc1dc045ff85bd]...
+- (a) remove the entry relating to that person (“P”) from the register, [^c-a9b462a8faa60e99f4fc1dc045ff85bd]...
 - (b) notify the following of the removal, and of the date of the removal—
   - (i) P,
   - (ii) any person by whom P is employed, or with whom P has an arrangement, to provide services as a social worker or in relation to social work (where known),
@@ -970,12 +970,12 @@ for the purposes of each fitness to practise proceedings.
 
 (6) The regulator must make rules setting out the procedure for removing an entry from the register under this regulation including, in particular, the time within which any step must be taken.
 
-(7)[^key-ffe42815e9930444710f08c8006a6d43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ffe42815e9930444710f08c8006a6d43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In these Regulations “**listed offence**” means—
 
 - (a) an offence listed in any of paragraphs 1 to 7 of Schedule 3, or
-- (b) an offence listed in any of paragraphs 8 to 14[^key-263b4247ddcc316e33371d00a194c1b3] of Schedule 3 in respect of which a custodial sentence has been imposed.
+- (b) an offence listed in any of paragraphs 8 to 14[^c-263b4247ddcc316e33371d00a194c1b3] of Schedule 3 in respect of which a custodial sentence has been imposed.
 
 ### 27. Appeals against automatic removal from the register
 
@@ -1038,8 +1038,8 @@ A person commits an offence if they fraudulently procure, or attempt to procure,
 - (a) attend and give evidence or produce documents when required to do so by the regulator in accordance with regulation 14(3) (in connection with the removal of an entry under regulation 14(1)(a) on the grounds it was fraudulently procured or incorrectly made),
 - (b) attend and give evidence or produce documents when required to do so by adjudicators in accordance with regulation 15(5)(b) (in connection with an application for restoration by a person who was the subject of a removal order),
 - (c) attend and give evidence or produce documents when required to do so by the regulator, or adjudicators, in accordance with regulation 19(4) (in connection with a registration appeal),
-- (d) provide information when required to do so by the regulator under paragraph 1(1A) or (3)(a)[^key-4cd226c9659176ac7285b872125de605], or by investigators under paragraph 4(1)(b), of Schedule 2 (in connection with fitness to practise proceedings), or
-- (e) attend and give evidence or produce documents when required to do so by the regulator or[^key-46d9fbda90c0020232c4062e2dec88bd] investigators in accordance with paragraph 5(1) of Schedule 2 (in connection with fitness to practise proceedings).
+- (d) provide information when required to do so by the regulator under paragraph 1(1A) or (3)(a)[^c-4cd226c9659176ac7285b872125de605], or by investigators under paragraph 4(1)(b), of Schedule 2 (in connection with fitness to practise proceedings), or
+- (e) attend and give evidence or produce documents when required to do so by the regulator or[^c-46d9fbda90c0020232c4062e2dec88bd] investigators in accordance with paragraph 5(1) of Schedule 2 (in connection with fitness to practise proceedings).
 
 ### 33. Offences under this Part
 
@@ -1052,12 +1052,12 @@ A person guilty of an offence under this Part is liable on summary conviction to
 [^c23355691]The following decisions are specified for the purposes of section 29(2A) of the National Health Service Reform and Health Care Professions Act 2002—
 
 - (a) a decision made under regulation 14(1)(a) (removal from the register where registration fraudulently procured or incorrectly made),
-- (b)[^key-76a129983c74a1a9fe93a54f1be1e7f0] a decision made under regulation 15(6) (to restore a person to the register after a previous removal order),
+- (b)[^c-76a129983c74a1a9fe93a54f1be1e7f0] a decision made under regulation 15(6) (to restore a person to the register after a previous removal order),
 - (c) a decision made under regulation 26(5) (automatic removal from the register),
 - (d) a decision made under paragraph 12(1) of Schedule 2 (that fitness to practise is not impaired),
 - (e) a decision made under paragraph 12(3)(a) or (c) of Schedule 2 (that fitness to practise is impaired, but imposing no order)
 - (f) a decision made under paragraph 12(3)(b) of Schedule 2 (making a final order),
-- (g) a decision under paragraph 15(1) or (2)[^key-a56dd8fad696a7a85ab9ce4e1bdac491] of Schedule 2 (on a review of a final order).
+- (g) a decision under paragraph 15(1) or (2)[^c-a56dd8fad696a7a85ab9ce4e1bdac491] of Schedule 2 (on a review of a final order).
 
 ### 35. Power of the Secretary of State to investigate
 
@@ -1291,7 +1291,7 @@ Regulation 2(4)
 **1.** A person has a recognised qualification if they—
 
 - (a) have an approved qualification,
-- (b)[^key-468c24757deb96666714239cbeddce0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-468c24757deb96666714239cbeddce0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) have undergone training in the social work profession outside the United Kingdom, and either—
   - (i) hold a qualification which the regulator is satisfied attests to a standard comparable to that attested to by an approved qualification, or
   - (ii) do not hold such a qualification, but the person has undergone such additional training or experience, in the United Kingdom or elsewhere, as satisfies the regulator, following any test of competence as it may require them to take, that they meet the requisite standard for admission to the register, or
@@ -1299,7 +1299,7 @@ Regulation 2(4)
   - (i) the training is recognised by the regulator as meeting the standard which it requires for admission to the register, or
   - (ii) the training is not so recognised but they have undergone, whether in England or elsewhere, such additional training or professional experience as satisfies the regulator that they have the requisite standard of proficiency for admission to the register.
 
-**2.**[^key-e133cd6012daa4ea685b960fbea3868b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e133cd6012daa4ea685b960fbea3868b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** The regulator must make rules setting out procedures to—
 
@@ -1309,7 +1309,7 @@ Regulation 2(4)
 
 and it must, where it sees fit, keep a list of qualifications which are of a comparable standard which it must publish and keep under review.
 
-## SCHEDULE 2 — Fitness to practise proceedings[^key-68d7e8fc72e6f9f4fc87a60546905fec]
+## SCHEDULE 2 — Fitness to practise proceedings[^c-68d7e8fc72e6f9f4fc87a60546905fec]
 
 Regulation 25(1)(a)
 
@@ -1319,7 +1319,7 @@ Regulation 25(1)(a)
 
 (1) Subject to sub-paragraph (2), where a question arises as to whether a social worker's fitness to practise is impaired, the regulator must determine in accordance with criteria set out in rules made under regulation 25(5)(a) whether there are reasonable grounds for investigating whether the social worker's fitness to practise is impaired.
 
-(1A)[^key-933641417f9201dfc270136a11ba31ca] In order to make a determination under sub-paragraph (1), the regulator may require the supply of information or documents in accordance with paragraph 5(1).
+(1A)[^c-933641417f9201dfc270136a11ba31ca] In order to make a determination under sub-paragraph (1), the regulator may require the supply of information or documents in accordance with paragraph 5(1).
 
 (2) Where a question arises as to whether a social worker's fitness to practise is impaired—
 
@@ -1379,16 +1379,16 @@ in accordance with this Part.
 
 #### 5. Obtaining further information and referral to case examiners
 
-(1) Subject to sub-paragraph (2), the regulator or[^key-6be83f1c2b74ae4e85a390ebd01c90b0] the investigators may require any person who, in their opinion, is able to supply information or produce any document which appears relevant to the discharge of their functions or to those of case examiners or adjudicators under this Schedule, to attend and give evidence, or produce documents, in the fitness to practise proceedings.
+(1) Subject to sub-paragraph (2), the regulator or[^c-6be83f1c2b74ae4e85a390ebd01c90b0] the investigators may require any person who, in their opinion, is able to supply information or produce any document which appears relevant to the discharge of their functions or to those of case examiners or adjudicators under this Schedule, to attend and give evidence, or produce documents, in the fitness to practise proceedings.
 
 (2) Nothing in sub-paragraph (1)—
 
 - (a) requires or permits any disclosure of information which is prohibited by or under any other enactment, or
 - (b) requires the production of any document which a person could not be compelled to supply or produce in proceedings in the High Court on an appeal from a decision of case examiners or adjudicators under Part 5.
 
-(3) Any information required, and any representations made, under this Part must be provided to the regulator or[^key-2b846028753124748d34ee52067d54e7] the investigators within such period as is specified in rules made under regulation 25(5)(b), or such longer period as the regulator or the investigators may determine.
+(3) Any information required, and any representations made, under this Part must be provided to the regulator or[^c-2b846028753124748d34ee52067d54e7] the investigators within such period as is specified in rules made under regulation 25(5)(b), or such longer period as the regulator or the investigators may determine.
 
-(4)[^key-44e573be80cb43da86d48960fad7b2b0] The regulator or the investigators may take such steps as are reasonably practicable to obtain any further information relevant to carrying out their functions under this Schedule.
+(4)[^c-44e573be80cb43da86d48960fad7b2b0] The regulator or the investigators may take such steps as are reasonably practicable to obtain any further information relevant to carrying out their functions under this Schedule.
 
 (5) At any stage in fitness to practise proceedings, the regulator may—
 
@@ -1430,13 +1430,13 @@ in accordance with this Part.
 
 #### 8. Interim orders
 
-(1)[^key-1043ff5844c7726b4e53cfadd93622b4] If, at any stage, an investigator or the case examiners are of the opinion that an interim order may be necessary for the protection of the public or in the best interests of the social worker, they must notify the regulator of their opinion and the reasons for that opinion.
+(1)[^c-1043ff5844c7726b4e53cfadd93622b4] If, at any stage, an investigator or the case examiners are of the opinion that an interim order may be necessary for the protection of the public or in the best interests of the social worker, they must notify the regulator of their opinion and the reasons for that opinion.
 
 (1A) Where the regulator has been notified in accordance with sub-paragraph (1), the regulator may appoint two or more adjudicators to consider whether to make an interim order in accordance with this paragraph.
 
 (2) Subject to sub-paragraph (3), the adjudicators may make any interim order they consider is necessary for the protection of the public, or in the best interests of the social worker.
 
-(3)[^key-03432a194107b6fdd9f57721506326ea] The adjudicators may not make an interim order unless the conditions in sub-paragraphs (3A) and (3B) have been complied with.
+(3)[^c-03432a194107b6fdd9f57721506326ea] The adjudicators may not make an interim order unless the conditions in sub-paragraphs (3A) and (3B) have been complied with.
 
 (3A) The condition in this sub-paragraph is that the regulator has first informed the social worker—
 
@@ -1450,10 +1450,10 @@ in accordance with this Part.
 
 (3C) Where the adjudicators make an interim order under sub-paragraph (2), they must inform the regulator of the making of that order and its terms.
 
-(4) Where the regulator has been informed in accordance with sub-paragraph (3A), the regulator must—[^key-605b8702b73bf0dc7251e76abb702a0e]
+(4) Where the regulator has been informed in accordance with sub-paragraph (3A), the regulator must—[^c-605b8702b73bf0dc7251e76abb702a0e]
 
-- (a) inform the following of the terms of the interim[^key-bc3c9a9cc548dba5ea955944eaf9586c] order—
-  - (i)[^key-27a34aacd3bc7d94b072023c04737e56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) inform the following of the terms of the interim[^c-bc3c9a9cc548dba5ea955944eaf9586c] order—
+  - (i)[^c-27a34aacd3bc7d94b072023c04737e56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) the social worker,
   - (iii) any person by whom the social worker is employed, or with whom they have an arrangement, to provide services as a social worker or in relation to social work (where known),
   - (iv) any regulatory body with which the social worker is registered (where known), and
@@ -1467,14 +1467,14 @@ in accordance with this Part.
 
 for such period, not exceeding eighteen months, as is specified in the order.
 
-(5A)[^key-ccb1c8d83b5d3a344cc12b17ad03bf25] An interim order made under sub-paragraph (2) takes effect from the date on which it is made notwithstanding any appeal against the order.
+(5A)[^c-ccb1c8d83b5d3a344cc12b17ad03bf25] An interim order made under sub-paragraph (2) takes effect from the date on which it is made notwithstanding any appeal against the order.
 
 (6) An interim order made under sub-paragraph (2) ceases to have effect before the expiry of the period specified in the order, or such period as is substituted by the court pursuant to paragraph 14(3)(a) (as the case may be)—
 
-- (a) if the case examiners determine , in the case in respect of which the order was made,[^key-386dbb334c72dc8896891f6b1b15d16f] that there is no realistic prospect that adjudicators would determine that the social worker's fitness to practise is impaired,
-- (b) following a fitness to practise hearing, if the adjudicators determine , in the case in respect of which the order was made,[^key-a85b8e01dcb634e107f354dd2e900003] that the social worker's fitness to practise is not impaired,
-- (c) where the case in respect of which the order was made[^key-b4dc19f000b2529724304dc0559c71fd] is disposed of under paragraph 9(3) by either of the means mentioned in paragraph 9(2)(a) or (b),
-- (d) where a final order is made in respect of the social worker in the case in respect of which the interim order was made,[^key-0e24d2ba78f195fea8711831457a1b21]—
+- (a) if the case examiners determine , in the case in respect of which the order was made,[^c-386dbb334c72dc8896891f6b1b15d16f] that there is no realistic prospect that adjudicators would determine that the social worker's fitness to practise is impaired,
+- (b) following a fitness to practise hearing, if the adjudicators determine , in the case in respect of which the order was made,[^c-a85b8e01dcb634e107f354dd2e900003] that the social worker's fitness to practise is not impaired,
+- (c) where the case in respect of which the order was made[^c-b4dc19f000b2529724304dc0559c71fd] is disposed of under paragraph 9(3) by either of the means mentioned in paragraph 9(2)(a) or (b),
+- (d) where a final order is made in respect of the social worker in the case in respect of which the interim order was made,[^c-0e24d2ba78f195fea8711831457a1b21]—
   - (i) if there is no appeal against that order, when the period for appealing expires,
   - (ii) if there is an appeal against that order, when the appeal is withdrawn or otherwise finally disposed of, or
 - (e) where the social worker is removed from the register under regulation 26(5).
@@ -1502,9 +1502,9 @@ for such period, not exceeding eighteen months, as is specified in the order.
   - (iv) any regulatory body with which the social worker is registered (where known), and
   - (v) where the fitness to practise proceedings were instigated following a complaint against the social worker, the complainant.
 
-(4)[^key-14180c5031171921aec8cda0ef3a5e36] A decision to dispose of a case under sub-paragraph (3)(a) takes effect from the date on which the social worker is informed of the decision under sub-paragraph (3)(b)(ii) notwithstanding any review of that decision under paragraph 9A or 15(2).
+(4)[^c-14180c5031171921aec8cda0ef3a5e36] A decision to dispose of a case under sub-paragraph (3)(a) takes effect from the date on which the social worker is informed of the decision under sub-paragraph (3)(b)(ii) notwithstanding any review of that decision under paragraph 9A or 15(2).
 
-#### 9A. Review of decisions[^key-f28c5083e6ca276f13d895a79692c241]
+#### 9A. Review of decisions[^c-f28c5083e6ca276f13d895a79692c241]
 
 (1) Rules under regulation 25(5)(a) may make provision for enabling the regulator to review a decision of the case examiners to take any course of action allowed by paragraph 6, 7 or 9.
 
@@ -1531,9 +1531,9 @@ for such period, not exceeding eighteen months, as is specified in the order.
 
 (3) Any step in the fitness to practise hearing must be taken within such period as is specified in rules made under regulation 25(5)(b), or such longer period as the adjudicators may determine.
 
-(4) The regulator[^key-47a9576b0817a556b277cc5c7fcda09a] must—
+(4) The regulator[^c-47a9576b0817a556b277cc5c7fcda09a] must—
 
-- (a) notify the social worker, and where relevant the complainant, that the adjudicators[^key-39999f51da99e0e5f625cf508afa66a6] will conduct a fitness to practise hearing to determine whether the social worker's fitness to practise is impaired,
+- (a) notify the social worker, and where relevant the complainant, that the adjudicators[^c-39999f51da99e0e5f625cf508afa66a6] will conduct a fitness to practise hearing to determine whether the social worker's fitness to practise is impaired,
 - (b) invite the social worker to make written submissions, and
 - (c) inform the social worker that they may—
   - (i) attend the hearing, and be represented,
@@ -1549,7 +1549,7 @@ for such period, not exceeding eighteen months, as is specified in the order.
 - (a) have not yet made a determination under paragraph 12(1) or (3), or
 - (b) are making a final order under paragraph 12(3)(b).
 
-(2)[^key-224b31f5ad89deaa19342ec97bb17ebd] The adjudicators may not make an interim order under sub-paragraph (1)(a) unless the conditions in sub-paragraphs (2A) and (2B) have been complied with.
+(2)[^c-224b31f5ad89deaa19342ec97bb17ebd] The adjudicators may not make an interim order under sub-paragraph (1)(a) unless the conditions in sub-paragraphs (2A) and (2B) have been complied with.
 
 (2A) The condition in this sub-paragraph is that the regulator has first informed the social worker—
 
@@ -1570,9 +1570,9 @@ for such period, not exceeding eighteen months, as is specified in the order.
   - (i) where there is no appeal against the final order, when the period for appealing expires, or
   - (ii) where there is an appeal against the final order, when the appeal is withdrawn or otherwise finally disposed of.
 
-(3A)[^key-be04d4a34c405d196ed50f9b459e28b7] Where the adjudicators make an interim order under sub-paragraph (1), they must inform the regulator of the making of that order and its terms.
+(3A)[^c-be04d4a34c405d196ed50f9b459e28b7] Where the adjudicators make an interim order under sub-paragraph (1), they must inform the regulator of the making of that order and its terms.
 
-(4)[^key-75ac2cb553aeed5238d05e82a7f58558] Where the regulator has been informed in accordance with sub-paragraph (3A), the regulator must—
+(4)[^c-75ac2cb553aeed5238d05e82a7f58558] Where the regulator has been informed in accordance with sub-paragraph (3A), the regulator must—
 
 - (a) inform the persons specified in paragraph 8(4)(a)(ii) to (v) of the terms of the order, and
 - (b) notify the social worker of their right to appeal to the High Court under Part 5.
@@ -1597,12 +1597,12 @@ for such period, not exceeding eighteen months, as is specified in the order.
 - (b) make a final order,
 - (c) take no further action.
 
-(3A)[^key-e28713f9382753baf0ef788852e0df40] Where the adjudicators make a final order, they must inform the regulator of the terms of the order and the reasons for it.
+(3A)[^c-e28713f9382753baf0ef788852e0df40] Where the adjudicators make a final order, they must inform the regulator of the terms of the order and the reasons for it.
 
-(4) Where the regulator has been informed in accordance with sub-paragraph (3A), the regulator must—[^key-3bb980f0c9c965232c0e9ab1e165883f]
+(4) Where the regulator has been informed in accordance with sub-paragraph (3A), the regulator must—[^c-3bb980f0c9c965232c0e9ab1e165883f]
 
-- (a) inform the following of the terms of the final[^key-9cbd821a33441a0367184247c5b418d4] order and the reasons for it—
-  - (i)[^key-b2f3980574f697f6b05574c31ca37114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) inform the following of the terms of the final[^c-9cbd821a33441a0367184247c5b418d4] order and the reasons for it—
+  - (i)[^c-b2f3980574f697f6b05574c31ca37114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) the social worker,
   - (iii) any person by whom the social worker is employed, or with whom they have an arrangement, to provide services as a social worker or in relation to social work (where known),
   - (iv) any regulatory body with which the social worker is registered (where known), and
@@ -1611,7 +1611,7 @@ for such period, not exceeding eighteen months, as is specified in the order.
   - (i) to request a review under paragraph 15, and
   - (ii) to appeal to the High Court under Part 5.
 
-(5)[^key-0227be4c17c28c59976ebe1e52ae5ede] A final order does not take effect until the expiry of the period within which an appeal against the order could be made or, where an appeal against the order has been made, until the appeal is withdrawn or otherwise finally disposed of.
+(5)[^c-0227be4c17c28c59976ebe1e52ae5ede] A final order does not take effect until the expiry of the period within which an appeal against the order could be made or, where an appeal against the order has been made, until the appeal is withdrawn or otherwise finally disposed of.
 
 #### 13. Final orders
 
@@ -1622,7 +1622,7 @@ for such period, not exceeding eighteen months, as is specified in the order.
 - (c) impose a restriction or condition with which the social worker must comply for such period as is specified in the order (a “conditions of practice order”),
 - (d) give a warning to the social worker regarding their future conduct or performance (a “warning order”).
 
-(2)[^key-fddc21852543deaa359ec74890c979a2] A removal order may only be made in a case where—
+(2)[^c-fddc21852543deaa359ec74890c979a2] A removal order may only be made in a case where—
 
 - (a) the adjudicators found the social worker’s fitness to practise to be impaired on one or more of the grounds set out in regulation 25(2)(a), (c), (d), (f), or (g),
 - (b) the adjudicators found the social worker’s fitness to practise to be impaired on one or more of the grounds set out in regulation 25(2)(b), (e) or (h) and the social worker was either suspended from practice, or subject to a conditions of practice order, or a combination of both, for a continuous period of two years immediately preceding the day when the removal order took effect, or
@@ -1639,7 +1639,7 @@ for such period, not exceeding eighteen months, as is specified in the order.
 (1) The regulator must review any interim order made under paragraphs 8(2) or 11(1)(a) (including any such order as has been extended or varied)—
 
 - (a) within the period of six months beginning on the date on which the order was made,
-- (b) thereafter, before the end of the period of six[^key-e9643a37ea351b0e939c3caa98e82245] months, beginning on the date of the decision of the immediately preceding review, for so long as the order continues in force, and
+- (b) thereafter, before the end of the period of six[^c-e9643a37ea351b0e939c3caa98e82245] months, beginning on the date of the decision of the immediately preceding review, for so long as the order continues in force, and
 - (c) where new evidence relevant to the order has become available after the making of the order, or the last review.
 
 (2) The regulator may apply to the High Court to extend, or further extend, the period for which an interim order has effect.
@@ -1670,35 +1670,35 @@ for such period, not exceeding eighteen months, as is specified in the order.
 - (c) any other regulatory body with which the social worker is registered (where known), and
 - (d) where the fitness to practise proceedings were instigated following a complaint against the social worker, the complainant.
 
-(8)[^key-8ec77a72506e6184abe69c8b297b9bb9] Where sub-paragraph (5) applies, the action taken on a review under sub-paragraph (1) takes effect from the date on which the regulator completes the review notwithstanding any appeal against that decision.
+(8)[^c-8ec77a72506e6184abe69c8b297b9bb9] Where sub-paragraph (5) applies, the action taken on a review under sub-paragraph (1) takes effect from the date on which the regulator completes the review notwithstanding any appeal against that decision.
 
 #### 15. Review of final orders
 
 (1) The regulator must review a suspension order, or a conditions of practice order, before its expiry, and may—
 
-- (a) with effect from the date on which the order would have expired, extend or further extend the period for which the order has effect, provided that the extension or further extension does not exceed three years from the date on which it is extended or further extended[^key-91210b744a13fd2cd72b35de66db0460],
-- (b) with effect from the expiry of the order, make any order (“[^key-8e2b7267cd2e28d42115529a16a2be2b]**the new order**”) which the case examiners or the adjudicators (as the case may be) could have made at the time they made the order, provided that the period for which the new order has effect does not exceed three years from the date on which it is made[^key-108594a0c61d9da17d3762cab0ab1723],
+- (a) with effect from the date on which the order would have expired, extend or further extend the period for which the order has effect, provided that the extension or further extension does not exceed three years from the date on which it is extended or further extended[^c-91210b744a13fd2cd72b35de66db0460],
+- (b) with effect from the expiry of the order, make any order (“[^c-8e2b7267cd2e28d42115529a16a2be2b]**the new order**”) which the case examiners or the adjudicators (as the case may be) could have made at the time they made the order, provided that the period for which the new order has effect does not exceed three years from the date on which it is made[^c-108594a0c61d9da17d3762cab0ab1723],
 - (c) in the case of a suspension order, with effect from its expiry make a conditions of practice order with which the social worker must comply if they resume practice as a social worker at the end of the period of suspension specified in the order,
-- (d)[^key-403e88d8f16a6a09605e795decd86df8] revoke the order with effect from the date of the review for the remainder of the period for which it would have had effect.
+- (d)[^c-403e88d8f16a6a09605e795decd86df8] revoke the order with effect from the date of the review for the remainder of the period for which it would have had effect.
 
-(1A)[^key-af207cbd5bba692851162bcf8045adc0] Where a social worker appeals against a decision made under sub-paragraph (1), the decision being appealed takes effect from the date specified in that sub-paragraph notwithstanding any appeal against that decision.
+(1A)[^c-af207cbd5bba692851162bcf8045adc0] Where a social worker appeals against a decision made under sub-paragraph (1), the decision being appealed takes effect from the date specified in that sub-paragraph notwithstanding any appeal against that decision.
 
 (2) The regulator may review a final order where new evidence relevant to the order has become available after the making of the order, or when requested to do so by the social worker, and may—
 
 - (a) confirm the order,
-- (b) extend, or further extend, the period for which the order has effect, provided that the extended period does not exceed —[^key-2563b8a703170a5c028f73365ab75f9a]
+- (b) extend, or further extend, the period for which the order has effect, provided that the extended period does not exceed —[^c-2563b8a703170a5c028f73365ab75f9a]
   - (i) in the case of a suspension or a conditions of practice order, three years; or
   - (ii) in the case of a warning order, five years,
-- (c) reduce the period for which the order has effect, but in the case of a warning order, not so that it has effect for less than one year beginning on the date when the order was made [^key-aa58bd070a37c3247feecc6101f995bd]...,
-- (d)[^key-02a92326f0e3f1607f4478d2888e8f5e] substitute any order which the adjudicators or the case examiners could have made on the date on which they made the order,
+- (c) reduce the period for which the order has effect, but in the case of a warning order, not so that it has effect for less than one year beginning on the date when the order was made [^c-aa58bd070a37c3247feecc6101f995bd]...,
+- (d)[^c-02a92326f0e3f1607f4478d2888e8f5e] substitute any order which the adjudicators or the case examiners could have made on the date on which they made the order,
 - (e) revoke the order, and in the case of a suspension order may make the revocation subject to the social worker satisfying such requirements as to additional education or training and experience as apply to them,
 - (f) revoke or vary any condition imposed by the order.
 
-(2A)[^key-7c8562853047e63bb75aa413aac6dd7b] The decision on a review under sub-paragraph (2) takes effect from the date on which the regulator completes the review notwithstanding any appeal against that decision.
+(2A)[^c-7c8562853047e63bb75aa413aac6dd7b] The decision on a review under sub-paragraph (2) takes effect from the date on which the regulator completes the review notwithstanding any appeal against that decision.
 
-(3) A request by the social worker under sub-paragraph (2) must be made within such period as the regulator determines in rules made under regulation 25(5), and an order made under paragraph 12(3)(b)[^key-e1434c16c8ab7f3ac3acf4036d30e5c6] does not have effect until after the expiry of that period.
+(3) A request by the social worker under sub-paragraph (2) must be made within such period as the regulator determines in rules made under regulation 25(5), and an order made under paragraph 12(3)(b)[^c-e1434c16c8ab7f3ac3acf4036d30e5c6] does not have effect until after the expiry of that period.
 
-(4) Sub-paragraphs (1) and (2) apply in relation to an order made on a review under those paragraphs, as they apply to an order made under paragraph 9(2)(c) or[^key-7f0c5d189d3c5992a90cdcc3ace6a432] 12(3)(b).
+(4) Sub-paragraphs (1) and (2) apply in relation to an order made on a review under those paragraphs, as they apply to an order made under paragraph 9(2)(c) or[^c-7f0c5d189d3c5992a90cdcc3ace6a432] 12(3)(b).
 
 (5) The regulator may not take any action mentioned in sub-paragraphs (1) or (2) unless it has first informed the social worker of the proposed action and given them the opportunity—
 
@@ -1712,9 +1712,9 @@ for such period, not exceeding eighteen months, as is specified in the order.
 - (c) any regulatory body with which the social worker is registered (where known), and
 - (d) where the fitness to practise proceedings were instigated following a complaint against the social worker, the complainant.
 
-### PART 5 — Appeals[^key-68d7e8fc72e6f9f4fc87a60546905fec]
+### PART 5 — Appeals[^c-68d7e8fc72e6f9f4fc87a60546905fec]
 
-**16.**[^key-0da3f58079c9396979f441b7ccf35a34][^key-68d7e8fc72e6f9f4fc87a60546905fec] (1) A social worker may appeal to the High Court against—
+**16.**[^c-0da3f58079c9396979f441b7ccf35a34][^c-68d7e8fc72e6f9f4fc87a60546905fec] (1) A social worker may appeal to the High Court against—
 
 - (a) the decision of adjudicators—
   - (i) to make an interim order, other than an interim order made at the same time as a final order under paragraph 11(1)(b),
@@ -1722,7 +1722,7 @@ for such period, not exceeding eighteen months, as is specified in the order.
   - (iii) to make a final order,
 - (b) the decision of the regulator on review of an interim order, or a final order, other than a decision to revoke the order.
 
-(2)[^key-8e97cdfa055c0927ef547d474adf0a1c] An appeal must be filed before the end of the period of 28 days beginning with the day after the day on which the social worker is notified of the decision complained of.
+(2)[^c-8e97cdfa055c0927ef547d474adf0a1c] An appeal must be filed before the end of the period of 28 days beginning with the day after the day on which the social worker is notified of the decision complained of.
 
 (3) On an appeal the High Court may—
 
@@ -1789,7 +1789,7 @@ Regulation 26(8)
 
 **13.** An offence under section 3 of the Sexual Offences (Scotland) Act 2009 (sexual assault).
 
-**14.**[^key-eca146a65124679c97deb9922d4893bf] An offence under the following provisions of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015—
+**14.**[^c-eca146a65124679c97deb9922d4893bf] An offence under the following provisions of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015—
 
 - (a) section 1 (slavery, servitude and forced or compulsory labour);
 - (b) section 2 (human trafficking).
@@ -1832,17 +1832,17 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23355391]: Marginal citation: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6). Section 76 was amended by paragraph 108 of Schedule 32 to the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). There are other amendments but none is relevant.
 
-[^key-e3a3a4881e92e2a4b1b6366bdd6430b9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/1) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 440](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/440) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e3a3a4881e92e2a4b1b6366bdd6430b9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/1) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 440](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/440) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c23355401]: Marginal citation: Section 41(1) of the Act requires the regulator to determine and publish professional standards for social workers in England. By virtue of section 63(1) of the Act, “**professional standards**” includes standards relating to (a) proficiency, (b) performance, (c) conduct and ethics, and (d) continuing professional training and development
 
 [^c23355411]: Marginal citation: That is, a register of social workers in England.
 
-[^key-b948f0a6aeff76c8dd888ac894860e5e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/3/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b948f0a6aeff76c8dd888ac894860e5e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/1) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/3/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-61f1d63f8957e8ae0da89f351a7bfa8e]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/3/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61f1d63f8957e8ae0da89f351a7bfa8e]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/3/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ba75ddf13c7602089a5f96ad10d850f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/3) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/3/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ba75ddf13c7602089a5f96ad10d850f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/3) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/3/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23355421]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
 
@@ -1860,15 +1860,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23355491]: Marginal citation: Section 53(1) provides that the regulator must, where appropriate, co-operate with (a) Social Care Wales, (b) the Scottish Social Services Council, (c) the Northern Ireland Social Care Council, and (d) any other person specified in regulations made by the Secretary of State.
 
-[^key-70c6af53385acbbf620d650b17192a9d]: Textual amendment: Words in [reg. 7(1)(a)(i)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/a/i) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/2)
+[^c-70c6af53385acbbf620d650b17192a9d]: Textual amendment: Words in [reg. 7(1)(a)(i)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/a/i) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/2)
 
-[^key-169d6a9adc457223859f24646c727a22]: Textual amendment: Words in [reg. 7(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/a/ii) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/2)
+[^c-169d6a9adc457223859f24646c727a22]: Textual amendment: Words in [reg. 7(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/a/ii) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/2)
 
-[^key-c62ce93d7bd72c920dab55ed410ca4e2]: Textual amendment: Words in [reg. 7(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/a/vii) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/2)
+[^c-c62ce93d7bd72c920dab55ed410ca4e2]: Textual amendment: Words in [reg. 7(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/a/vii) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/2)
 
-[^key-61dab1e75ade05fd357c1f399192c830]: Textual amendment: [Reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [99(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/99/2)
+[^c-61dab1e75ade05fd357c1f399192c830]: Textual amendment: [Reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [99(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/99/2)
 
-[^key-b62f656ad80c23aca0ba1e0edf77c6db]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/c) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [95(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/95/2)
+[^c-b62f656ad80c23aca0ba1e0edf77c6db]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2018/893/regulation/7/1/c) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [95(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/95/2)
 
 [^c23355511]: Marginal citation: Section 14D was inserted by section 25(1) of the Health and Social Care Act 2012.
 
@@ -1884,93 +1884,93 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23355571]: Marginal citation: The bodies mentioned (other than the regulator) are the General Medical Council, the General Dental Council, the General Optical Council, the General Osteopathic Council, the General Chiropractic Council, the General Pharmaceutical Council, the Pharmaceutical Society of Northern Ireland, the Nursing and Midwifery Council, the Health and Care Professions Council, and any other regulatory body (within the meaning of Schedule 3 to the [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8)) established by an Order in Council under section 60 of that Act.
 
-[^key-64c7904bc41b80545451ba609488a819]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2018/893/regulation/7A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/3)
+[^c-64c7904bc41b80545451ba609488a819]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2018/893/regulation/7A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/3)
 
 [^c23355581]: Marginal citation: Paragraph 13(1) of Schedule 3 to the Act provides that the regulator may delegate functions to a committee, sub-committee, member or member of staff; paragraph 13(2) provides that the functions that may be delegated include the power to delegate functions under sub-paragraph (1), but do not include any power or duty to make rules.
 
-[^key-300b5e265e9ec69ea319d07cb60b39ad]: Textual amendment: Words in reg. 8(8) substituted (31.12.2020) by [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593), [Sch. 11 para. 4](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/4) (as substituted by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/a))
+[^c-300b5e265e9ec69ea319d07cb60b39ad]: Textual amendment: Words in reg. 8(8) substituted (31.12.2020) by [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593), [Sch. 11 para. 4](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/4) (as substituted by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/a))
 
 [^c23355591]: Marginal citation: OJ No. L 255, 30.09.2005, p.22, as amended by Council Directive 2006/100/EC of 20 November 2006, OJ No. L 363, 20.12.2006, p.141; Commission Regulation (EC) No 1430/2007 of 5 December 2007, OJ No. L 320, 6.12.2007, p.3; Commission Regulation (EC) No 755/2008 of 31 July 2008, OJ No. L 205, 1.8.2008, p.10; Regulation (EC) No 1137/2008 of the European Parliament and of the Council of 22 October 2008, OJ No. L 311, 21.11.2008, p.1; Commission Regulation (EC) No 279/2009 of 6 April 2009, OJ No. L 93, 7.4.2009, p.11; Commission Regulation (EU) No 213/2011 of 3 March 2011, OJ No. L 59, 4.3.2011, p.4; Commission Regulation (EU) No 623/2012 of 11 July 2012, OJ No. L 180, 12.7.2012, p.9; Council Directive 2013/25/EU of 13 May 2013, OJ No. L 158, 10.6.2013, p.368; Directive 2013/55/EU of the European Parliament and of the Council of 20 November 2013, OJ No. L 354, 28.12.2013, p.132; Commission Delegated Decision (EU) 2016/790 of 13 January 2016, OJ No. L 134, 24.5.2016, p.135; Commission Delegated Decision (EU) 2017/2113 of 11 September 2017, OJ No. L 317, 1.12.2017, p.119.
 
 [^c23355601]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
-[^key-5a09581f318172dd0eff2240890a8876]: Textual amendment: Reg. 9(1)(ba) inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 5 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/5/paragraph/1/2/a) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (subject to expiry in accordance with [s. 89(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/d) of the modifying Act)
+[^c-5a09581f318172dd0eff2240890a8876]: Textual amendment: Reg. 9(1)(ba) inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 5 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/5/paragraph/1/2/a) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (subject to expiry in accordance with [s. 89(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/d) of the modifying Act)
 
-[^key-78e0dd37158835d3777f98e912b2e161]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2018/893/regulation/9/1/c) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 5](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/5) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-78e0dd37158835d3777f98e912b2e161]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2018/893/regulation/9/1/c) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 5](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/5) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13f3639c0d04c9ac089adeb3601d75a7]: Textual amendment: Reg. 9(1A) inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 5 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/5/paragraph/1/2/b) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (subject to expiry in accordance with [s. 89(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/2/d) of the modifying Act)
+[^c-13f3639c0d04c9ac089adeb3601d75a7]: Textual amendment: Reg. 9(1A) inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 5 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/5/paragraph/1/2/b) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (subject to expiry in accordance with [s. 89(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/2/d) of the modifying Act)
 
-[^key-92cfc4eef43135a82407a63c387d8c04]: Modification: Reg. 9(2) modified (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/3/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-92cfc4eef43135a82407a63c387d8c04]: Modification: Reg. 9(2) modified (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/3/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-5679b4eb2eed4b2b7d042ae3454be6cb]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2018/893/regulation/9/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/4)
+[^c-5679b4eb2eed4b2b7d042ae3454be6cb]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2018/893/regulation/9/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/4)
 
-[^key-851f3eed40f93a4625f7784b1e3bb579]: Modification: Reg. 10 applied (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/4/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-851f3eed40f93a4625f7784b1e3bb579]: Modification: Reg. 10 applied (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/4/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-503a6f66ca1eca0f26b3091d3f66e5c5]: Modification: Reg. 10(2)(b) excluded (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/4/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-503a6f66ca1eca0f26b3091d3f66e5c5]: Modification: Reg. 10(2)(b) excluded (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/4/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-bf94287ad197714a898c43bb4303ec8f]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2018/893/regulation/10/5) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 6](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/6) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf94287ad197714a898c43bb4303ec8f]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2018/893/regulation/10/5) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 6](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/6) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7aa86cdbcbf279f14c4234758570525]: Modification: Reg. 11(3) applied (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/3/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-f7aa86cdbcbf279f14c4234758570525]: Modification: Reg. 11(3) applied (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/3/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-aa6d4527e0603714bf227c33f0d6894e]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2018/893/regulation/11/4) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 7(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/7/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa6d4527e0603714bf227c33f0d6894e]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2018/893/regulation/11/4) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 7(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/7/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9553f0ae4fcb1aa174d10733a7d9189]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2018/893/regulation/11/5) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/7/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9553f0ae4fcb1aa174d10733a7d9189]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2018/893/regulation/11/5) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/7/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-97e82ba608fbdb6eef3df6a1bebca8d1]: Textual amendment: [Reg. 11(8)](https://www.legislation.gov.uk/uksi/2018/893/regulation/11/8) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/7/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-97e82ba608fbdb6eef3df6a1bebca8d1]: Textual amendment: [Reg. 11(8)](https://www.legislation.gov.uk/uksi/2018/893/regulation/11/8) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/7/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9183e7630431b1fbb516899ee025b716]: Modification: Reg. 12(1) excluded (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [3(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/3/2/c/iii); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-9183e7630431b1fbb516899ee025b716]: Modification: Reg. 12(1) excluded (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [3(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/3/2/c/iii); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-2f1e134842f527730970d2890a23db98]: Textual amendment: Reg. 12A inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/5/paragraph/1/3) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (subject to expiry in accordance with [s. 89(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/2/d) of the modifying Act)
+[^c-2f1e134842f527730970d2890a23db98]: Textual amendment: Reg. 12A inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/5/paragraph/1/3) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (subject to expiry in accordance with [s. 89(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/2/d) of the modifying Act)
 
 [^c23355611]: Marginal citation: By virtue of section 29(7) of the National Health Service Reform and Health Care Professions Act 2002, where the Authority refers a case to the High Court under section 29(2A), the case is treated by the court as an appeal by the Authority against the relevant decision.
 
-[^key-cda6658b22f7ec9ab648d99a9968da7e]: Modification: Reg. 14 modified in part (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/19/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-cda6658b22f7ec9ab648d99a9968da7e]: Modification: Reg. 14 modified in part (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/19/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-51e9fd171aca4eb42a647f1c119cc682]: Modification: Reg. 14 modified in part (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/3/2/d); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-51e9fd171aca4eb42a647f1c119cc682]: Modification: Reg. 14 modified in part (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/3/2/d); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-8c681f9b65c224272335f3d1c3996c6e]: Textual amendment: [Reg. 14(1)(c)(i)](https://www.legislation.gov.uk/uksi/2018/893/regulation/14/1/c/i) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/5/a)
+[^c-8c681f9b65c224272335f3d1c3996c6e]: Textual amendment: [Reg. 14(1)(c)(i)](https://www.legislation.gov.uk/uksi/2018/893/regulation/14/1/c/i) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/5/a)
 
-[^key-c3cdc23fdf730172cf9b4c48b6d9d824]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2018/893/regulation/14/1A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/5/b)
+[^c-c3cdc23fdf730172cf9b4c48b6d9d824]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2018/893/regulation/14/1A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/5/b)
 
-[^key-66fcdf0c7998430a487970d3af5aa653]: Textual amendment: Words in [reg. 14(8)](https://www.legislation.gov.uk/uksi/2018/893/regulation/14/8) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/5/c)
+[^c-66fcdf0c7998430a487970d3af5aa653]: Textual amendment: Words in [reg. 14(8)](https://www.legislation.gov.uk/uksi/2018/893/regulation/14/8) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/5/c)
 
-[^key-38f20b3774fa188d88e5fc4bbcee1942]: Textual amendment: [Reg. 14(9)](https://www.legislation.gov.uk/uksi/2018/893/regulation/14/9) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(5)(d)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/5/d)
+[^c-38f20b3774fa188d88e5fc4bbcee1942]: Textual amendment: [Reg. 14(9)](https://www.legislation.gov.uk/uksi/2018/893/regulation/14/9) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(5)(d)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/5/d)
 
-[^key-786ec49fbf9fa3b07ee4ceab9282da38]: Modification: Reg. 15 applied in part (with modifications) (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/8/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-786ec49fbf9fa3b07ee4ceab9282da38]: Modification: Reg. 15 applied in part (with modifications) (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/8/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-4d51708cf05d6028226a319f3283966d]: Modification: Reg. 15 applied (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/5/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/b)
+[^c-4d51708cf05d6028226a319f3283966d]: Modification: Reg. 15 applied (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/5/2/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/893/regulation/2/b)
 
-[^key-16db8bda5fef4093ab61ed31332fea60]: Modification: Reg. 15 applied (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/6/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-16db8bda5fef4093ab61ed31332fea60]: Modification: Reg. 15 applied (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/6/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-9a2fb8a04e3e96d492b6e98196cfa3a6]: Modification: Reg. 15(9)(b) excluded (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/6/2/c); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-9a2fb8a04e3e96d492b6e98196cfa3a6]: Modification: Reg. 15(9)(b) excluded (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/6/2/c); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-2381eed9de03cfb344e1322d52fc42f4]: Modification: Reg. 15(9)(b) excluded (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/5/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-2381eed9de03cfb344e1322d52fc42f4]: Modification: Reg. 15(9)(b) excluded (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/5/2/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-d6a1912ee22816160c6ffca44963f93a]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/893/regulation/18) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 8](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/8) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6a1912ee22816160c6ffca44963f93a]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/893/regulation/18) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 8](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/8) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7934b40e53f54d7b7ed60dba3f21de96]: Modification: Reg. 19(1) modified (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/10/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-7934b40e53f54d7b7ed60dba3f21de96]: Modification: Reg. 19(1) modified (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/10/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-62d53fcd5a3464f5b1a46adad57b7e25]: Textual amendment: [Reg. 19(1)(e)](https://www.legislation.gov.uk/uksi/2018/893/regulation/19/1/e) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 9(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/9/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62d53fcd5a3464f5b1a46adad57b7e25]: Textual amendment: [Reg. 19(1)(e)](https://www.legislation.gov.uk/uksi/2018/893/regulation/19/1/e) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 9(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/9/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3910ba583b9f1398a4244a3c49cf2e4]: Textual amendment: [Reg. 19(1)(i)](https://www.legislation.gov.uk/uksi/2018/893/regulation/19/1/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 9(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/9/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3910ba583b9f1398a4244a3c49cf2e4]: Textual amendment: [Reg. 19(1)(i)](https://www.legislation.gov.uk/uksi/2018/893/regulation/19/1/i) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 9(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/9/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b5ed63a929f789939ddc5c4e6a5224e]: Textual amendment: Reg. 19(2A) inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 5 para. 1(4)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/5/paragraph/1/4) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (subject to expiry in accordance with [s. 89(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/2/d) of the modifying Act)
+[^c-9b5ed63a929f789939ddc5c4e6a5224e]: Textual amendment: Reg. 19(2A) inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 5 para. 1(4)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/5/paragraph/1/4) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (subject to expiry in accordance with [s. 89(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/7/section/89/2/d) of the modifying Act)
 
-[^key-3947cfbbfd078ffc95a304b3da595e1c]: Textual amendment: [Reg. 19(9)](https://www.legislation.gov.uk/uksi/2018/893/regulation/19/9) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/9/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3947cfbbfd078ffc95a304b3da595e1c]: Textual amendment: [Reg. 19(9)](https://www.legislation.gov.uk/uksi/2018/893/regulation/19/9) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/9/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-72646f04c7bcac612940470b5301a29a]: Textual amendment: [Reg. 19(10)](https://www.legislation.gov.uk/uksi/2018/893/regulation/19/10) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/9/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72646f04c7bcac612940470b5301a29a]: Textual amendment: [Reg. 19(10)](https://www.legislation.gov.uk/uksi/2018/893/regulation/19/10) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 9(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/9/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23355641]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20). Section 114ZA was inserted by section 217(2) of the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-fd09e8d90abcf67a65ecef3cc71bef11]: Modification: Reg. 20(2) modified (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/12/3/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-fd09e8d90abcf67a65ecef3cc71bef11]: Modification: Reg. 20(2) modified (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/12/3/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-2ed16f3a6d78cc0750ec1be200b572b6]: Modification: Reg. 20(4)(a)(b) modified (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/12/3/b)[(c)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/12/3/c); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-2ed16f3a6d78cc0750ec1be200b572b6]: Modification: Reg. 20(4)(a)(b) modified (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/12/3/b)[(c)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/12/3/c); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^c23355651]: Marginal citation: [S.I. 2008/1206](https://www.legislation.gov.uk/uksi/2008/1206). There are amendments to this instrument but none is relevant.
 
-[^key-b6ecc1eb73d35c8f0b1540cc7dd7fe09]: Modification: Regs. 21-24 excluded in part (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [12(3)(d)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/12/3/d); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-b6ecc1eb73d35c8f0b1540cc7dd7fe09]: Modification: Regs. 21-24 excluded in part (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [12(3)(d)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/12/3/d); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-1751f7314238386bef89d669dbb6c1e2]: Modification: Pt. 5 applied (with modifications) (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/1140/regulation/16); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-1751f7314238386bef89d669dbb6c1e2]: Modification: Pt. 5 applied (with modifications) (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/1140/regulation/16); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^c23355661]: Marginal citation: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
@@ -1978,21 +1978,21 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23355681]: Marginal citation: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-a9b462a8faa60e99f4fc1dc045ff85bd]: Textual amendment: Words in [reg. 26(5)(a)](https://www.legislation.gov.uk/uksi/2018/893/regulation/26/5/a) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/6/a)
+[^c-a9b462a8faa60e99f4fc1dc045ff85bd]: Textual amendment: Words in [reg. 26(5)(a)](https://www.legislation.gov.uk/uksi/2018/893/regulation/26/5/a) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/6/a)
 
-[^key-ffe42815e9930444710f08c8006a6d43]: Textual amendment: [Reg. 26(7)](https://www.legislation.gov.uk/uksi/2018/893/regulation/26/7) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/6/b)
+[^c-ffe42815e9930444710f08c8006a6d43]: Textual amendment: [Reg. 26(7)](https://www.legislation.gov.uk/uksi/2018/893/regulation/26/7) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/6/b)
 
-[^key-263b4247ddcc316e33371d00a194c1b3]: Textual amendment: Word in [reg. 26(8)(b)](https://www.legislation.gov.uk/uksi/2018/893/regulation/26/8/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/6/c)
+[^c-263b4247ddcc316e33371d00a194c1b3]: Textual amendment: Word in [reg. 26(8)(b)](https://www.legislation.gov.uk/uksi/2018/893/regulation/26/8/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/6/c)
 
-[^key-4cd226c9659176ac7285b872125de605]: Textual amendment: Words in [reg. 32(1)(d)](https://www.legislation.gov.uk/uksi/2018/893/regulation/32/1/d) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/7/a)
+[^c-4cd226c9659176ac7285b872125de605]: Textual amendment: Words in [reg. 32(1)(d)](https://www.legislation.gov.uk/uksi/2018/893/regulation/32/1/d) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/7/a)
 
-[^key-46d9fbda90c0020232c4062e2dec88bd]: Textual amendment: Words in [reg. 32(1)(e)](https://www.legislation.gov.uk/uksi/2018/893/regulation/32/1/e) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/7/b)
+[^c-46d9fbda90c0020232c4062e2dec88bd]: Textual amendment: Words in [reg. 32(1)(e)](https://www.legislation.gov.uk/uksi/2018/893/regulation/32/1/e) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/7/b)
 
 [^c23355691]: Marginal citation: By virtue of section 29(2A) and (4) of the National Health Service Reform and Health Care Professions Act 2002, the Professional Standards Authority for Health and Social Care may refer decisions of the regulator, of a description specified in regulations, to the High Court.
 
-[^key-76a129983c74a1a9fe93a54f1be1e7f0]: Textual amendment: [Reg. 34(b)](https://www.legislation.gov.uk/uksi/2018/893/regulation/34/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/8/a)
+[^c-76a129983c74a1a9fe93a54f1be1e7f0]: Textual amendment: [Reg. 34(b)](https://www.legislation.gov.uk/uksi/2018/893/regulation/34/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/8/a)
 
-[^key-a56dd8fad696a7a85ab9ce4e1bdac491]: Textual amendment: Words in [reg. 34(g)](https://www.legislation.gov.uk/uksi/2018/893/regulation/34/g) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/8/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1216/regulation/5))
+[^c-a56dd8fad696a7a85ab9ce4e1bdac491]: Textual amendment: Words in [reg. 34(g)](https://www.legislation.gov.uk/uksi/2018/893/regulation/34/g) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/8/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1216/regulation/5))
 
 [^c23355701]: Marginal citation: Part 1 of Schedule 19 was amended by paragraph 102 of Part 5 of Schedule 12 to the [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32) and by [S.I. 2011/1060](https://www.legislation.gov.uk/uksi/2011/1060) and [2017/353](https://www.legislation.gov.uk/uksi/2017/353). There are other amendments but none is relevant.
 
@@ -2006,95 +2006,95 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23355751]: Marginal citation: [S.I. 2017/353](https://www.legislation.gov.uk/uksi/2017/353).
 
-[^key-468c24757deb96666714239cbeddce0e]: Textual amendment: [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/1/paragraph/1/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/10/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-468c24757deb96666714239cbeddce0e]: Textual amendment: [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/1/paragraph/1/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/10/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e133cd6012daa4ea685b960fbea3868b]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/1/paragraph/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/10/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e133cd6012daa4ea685b960fbea3868b]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/1/paragraph/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/paragraph/10/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/11/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [19(b)-(e)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68d7e8fc72e6f9f4fc87a60546905fec]: Modification: Sch. 2 applied (with modifications) (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/1140/regulation/16); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-68d7e8fc72e6f9f4fc87a60546905fec]: Modification: Sch. 2 applied (with modifications) (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/1140/regulation/16); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-933641417f9201dfc270136a11ba31ca]: Textual amendment: [Sch. 2 para. 1(1A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/1/1A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/1)
+[^c-933641417f9201dfc270136a11ba31ca]: Textual amendment: [Sch. 2 para. 1(1A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/1/1A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/1)
 
-[^key-6be83f1c2b74ae4e85a390ebd01c90b0]: Textual amendment: Words in [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/5/1) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/2/2)
+[^c-6be83f1c2b74ae4e85a390ebd01c90b0]: Textual amendment: Words in [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/5/1) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/2/2)
 
-[^key-2b846028753124748d34ee52067d54e7]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/5/3) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/2/3)
+[^c-2b846028753124748d34ee52067d54e7]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/5/3) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/2/3)
 
-[^key-44e573be80cb43da86d48960fad7b2b0]: Textual amendment: [Sch. 2 para. 5(4)-(8)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/5/4) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/2) [para. 5(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/5/4) (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/2/4)
+[^c-44e573be80cb43da86d48960fad7b2b0]: Textual amendment: [Sch. 2 para. 5(4)-(8)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/5/4) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/2) [para. 5(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/5/4) (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/2/4)
 
-[^key-1043ff5844c7726b4e53cfadd93622b4]: Textual amendment: [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/1)[(1A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/1A) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/2) [para. 8(1)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/1) (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/2)
+[^c-1043ff5844c7726b4e53cfadd93622b4]: Textual amendment: [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/1)[(1A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/1A) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/2) [para. 8(1)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/1) (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/2)
 
-[^key-03432a194107b6fdd9f57721506326ea]: Textual amendment: [Sch. 2 para. 8(3)-(3C)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/3) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/2) [para. 8(3)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/3) (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/3)
+[^c-03432a194107b6fdd9f57721506326ea]: Textual amendment: [Sch. 2 para. 8(3)-(3C)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/3) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/2) [para. 8(3)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/3) (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/3)
 
-[^key-605b8702b73bf0dc7251e76abb702a0e]: Textual amendment: Words in [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(4)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/4/a)
+[^c-605b8702b73bf0dc7251e76abb702a0e]: Textual amendment: Words in [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(4)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/4/a)
 
-[^key-bc3c9a9cc548dba5ea955944eaf9586c]: Textual amendment: Word in [Sch. 2 para. 8(4)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/4/a) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/4/b/i)
+[^c-bc3c9a9cc548dba5ea955944eaf9586c]: Textual amendment: Word in [Sch. 2 para. 8(4)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/4/a) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/4/b/i)
 
-[^key-27a34aacd3bc7d94b072023c04737e56]: Textual amendment: [Sch. 2 para. 8(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/4/a/i) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/4/b/ii)
+[^c-27a34aacd3bc7d94b072023c04737e56]: Textual amendment: [Sch. 2 para. 8(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/4/a/i) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/4/b/ii)
 
-[^key-ccb1c8d83b5d3a344cc12b17ad03bf25]: Textual amendment: [Sch. 2 para. 8(5A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/5A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/5)
+[^c-ccb1c8d83b5d3a344cc12b17ad03bf25]: Textual amendment: [Sch. 2 para. 8(5A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/5A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/5)
 
-[^key-386dbb334c72dc8896891f6b1b15d16f]: Textual amendment: Words in [Sch. 2 para. 8(6)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/6/a) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(6)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/6/a)
+[^c-386dbb334c72dc8896891f6b1b15d16f]: Textual amendment: Words in [Sch. 2 para. 8(6)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/6/a) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(6)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/6/a)
 
-[^key-a85b8e01dcb634e107f354dd2e900003]: Textual amendment: Words in [Sch. 2 para. 8(6)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/6/b) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(6)(b)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/6/b)
+[^c-a85b8e01dcb634e107f354dd2e900003]: Textual amendment: Words in [Sch. 2 para. 8(6)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/6/b) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(6)(b)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/6/b)
 
-[^key-b4dc19f000b2529724304dc0559c71fd]: Textual amendment: Words in [Sch. 2 para. 8(6)(c)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/6/c) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(6)(c)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/6/c)
+[^c-b4dc19f000b2529724304dc0559c71fd]: Textual amendment: Words in [Sch. 2 para. 8(6)(c)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/6/c) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(6)(c)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/6/c)
 
-[^key-0e24d2ba78f195fea8711831457a1b21]: Textual amendment: Words in [Sch. 2 para. 8(6)(d)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/6/d) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(6)(d)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/6/d)
+[^c-0e24d2ba78f195fea8711831457a1b21]: Textual amendment: Words in [Sch. 2 para. 8(6)(d)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/8/6/d) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 3(6)(d)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/3/6/d)
 
-[^key-14180c5031171921aec8cda0ef3a5e36]: Textual amendment: [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/9/4) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/4)
+[^c-14180c5031171921aec8cda0ef3a5e36]: Textual amendment: [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/9/4) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/4)
 
-[^key-f28c5083e6ca276f13d895a79692c241]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/9A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/5)
+[^c-f28c5083e6ca276f13d895a79692c241]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/9A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/5)
 
-[^key-47a9576b0817a556b277cc5c7fcda09a]: Textual amendment: Word in [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/10/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/6/a)
+[^c-47a9576b0817a556b277cc5c7fcda09a]: Textual amendment: Word in [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/10/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/6/a)
 
-[^key-39999f51da99e0e5f625cf508afa66a6]: Textual amendment: Words in [Sch. 2 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/10/4/a) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/6/b)
+[^c-39999f51da99e0e5f625cf508afa66a6]: Textual amendment: Words in [Sch. 2 para. 10(4)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/10/4/a) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/6/b)
 
-[^key-224b31f5ad89deaa19342ec97bb17ebd]: Textual amendment: [Sch. 2 para. 11(2)-(2C)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/11/2) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/2) [para. 11(2)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/11/2) (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/7/2)
+[^c-224b31f5ad89deaa19342ec97bb17ebd]: Textual amendment: [Sch. 2 para. 11(2)-(2C)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/11/2) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2018/893/schedule/2) [para. 11(2)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/11/2) (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/7/2)
 
-[^key-be04d4a34c405d196ed50f9b459e28b7]: Textual amendment: [Sch. 2 para. 11(3A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/11/3A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/7/3)
+[^c-be04d4a34c405d196ed50f9b459e28b7]: Textual amendment: [Sch. 2 para. 11(3A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/11/3A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/7/3)
 
-[^key-75ac2cb553aeed5238d05e82a7f58558]: Textual amendment: [Sch. 2 para. 11(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/11/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/7/4)
+[^c-75ac2cb553aeed5238d05e82a7f58558]: Textual amendment: [Sch. 2 para. 11(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/11/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/7/4)
 
-[^key-e28713f9382753baf0ef788852e0df40]: Textual amendment: [Sch. 2 para. 12(3A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/3A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/2)
+[^c-e28713f9382753baf0ef788852e0df40]: Textual amendment: [Sch. 2 para. 12(3A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/3A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/2)
 
-[^key-3bb980f0c9c965232c0e9ab1e165883f]: Textual amendment: Words in [Sch. 2 para. 12(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/3/a)
+[^c-3bb980f0c9c965232c0e9ab1e165883f]: Textual amendment: Words in [Sch. 2 para. 12(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/4) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/3/a)
 
-[^key-9cbd821a33441a0367184247c5b418d4]: Textual amendment: Word in [Sch. 2 para. 12(4)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/4/a) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/3/b/i)
+[^c-9cbd821a33441a0367184247c5b418d4]: Textual amendment: Word in [Sch. 2 para. 12(4)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/4/a) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/3/b/i)
 
-[^key-b2f3980574f697f6b05574c31ca37114]: Textual amendment: [Sch. 2 para. 12(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/4/a/i) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/3/b/ii)
+[^c-b2f3980574f697f6b05574c31ca37114]: Textual amendment: [Sch. 2 para. 12(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/4/a/i) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/3/b/ii)
 
-[^key-0227be4c17c28c59976ebe1e52ae5ede]: Textual amendment: [Sch. 2 para. 12(5)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/5) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(4)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/4)
+[^c-0227be4c17c28c59976ebe1e52ae5ede]: Textual amendment: [Sch. 2 para. 12(5)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/12/5) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 8(4)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/8/4)
 
-[^key-fddc21852543deaa359ec74890c979a2]: Textual amendment: [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/13/2) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/9)
+[^c-fddc21852543deaa359ec74890c979a2]: Textual amendment: [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/13/2) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/9)
 
-[^key-e9643a37ea351b0e939c3caa98e82245]: Textual amendment: Word in [Sch. 2 para. 14(1)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/14/1/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/10/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1216/regulation/5))
+[^c-e9643a37ea351b0e939c3caa98e82245]: Textual amendment: Word in [Sch. 2 para. 14(1)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/14/1/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/10/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1216/regulation/5))
 
-[^key-8ec77a72506e6184abe69c8b297b9bb9]: Textual amendment: [Sch. 2 para. 14(8)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/14/8) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/10/3)
+[^c-8ec77a72506e6184abe69c8b297b9bb9]: Textual amendment: [Sch. 2 para. 14(8)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/14/8) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/10/3)
 
-[^key-91210b744a13fd2cd72b35de66db0460]: Textual amendment: Words in [Sch. 2 para. 15(1)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1/a) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/2/a)
+[^c-91210b744a13fd2cd72b35de66db0460]: Textual amendment: Words in [Sch. 2 para. 15(1)(a)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1/a) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(2)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/2/a)
 
-[^key-8e2b7267cd2e28d42115529a16a2be2b]: Textual amendment: Words in [Sch. 2 para. 15(1)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1/b) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/2/b/i)
+[^c-8e2b7267cd2e28d42115529a16a2be2b]: Textual amendment: Words in [Sch. 2 para. 15(1)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1/b) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(2)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/2/b/i)
 
-[^key-108594a0c61d9da17d3762cab0ab1723]: Textual amendment: Words in [Sch. 2 para. 15(1)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/2/b/ii)
+[^c-108594a0c61d9da17d3762cab0ab1723]: Textual amendment: Words in [Sch. 2 para. 15(1)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/2/b/ii)
 
-[^key-403e88d8f16a6a09605e795decd86df8]: Textual amendment: [Sch. 2 para. 15(1)(d)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1/d) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(2)(c)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/2/c)
+[^c-403e88d8f16a6a09605e795decd86df8]: Textual amendment: [Sch. 2 para. 15(1)(d)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1/d) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(2)(c)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/2/c)
 
-[^key-af207cbd5bba692851162bcf8045adc0]: Textual amendment: [Sch. 2 para. 15(1A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/3)
+[^c-af207cbd5bba692851162bcf8045adc0]: Textual amendment: [Sch. 2 para. 15(1A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/1A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/3)
 
-[^key-2563b8a703170a5c028f73365ab75f9a]: Textual amendment: Words in [Sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/2/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(4)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/4/a)
+[^c-2563b8a703170a5c028f73365ab75f9a]: Textual amendment: Words in [Sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/2/b) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(4)(a)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/4/a)
 
-[^key-aa58bd070a37c3247feecc6101f995bd]: Textual amendment: Words in [Sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/2/c) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(4)(b)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/4/b)
+[^c-aa58bd070a37c3247feecc6101f995bd]: Textual amendment: Words in [Sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/2/c) omitted (16.12.2022) by virtue of [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(4)(b)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/4/b)
 
-[^key-02a92326f0e3f1607f4478d2888e8f5e]: Textual amendment: [Sch. 2 para. 15(2)(d)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/2/d) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(4)(c)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1216/regulation/5))
+[^c-02a92326f0e3f1607f4478d2888e8f5e]: Textual amendment: [Sch. 2 para. 15(2)(d)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/2/d) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(4)(c)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/1216/regulation/5))
 
-[^key-7c8562853047e63bb75aa413aac6dd7b]: Textual amendment: [Sch. 2 para. 15(2A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/2A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(5)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/5)
+[^c-7c8562853047e63bb75aa413aac6dd7b]: Textual amendment: [Sch. 2 para. 15(2A)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/2A) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(5)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/5)
 
-[^key-e1434c16c8ab7f3ac3acf4036d30e5c6]: Textual amendment: Words in [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/3) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(6)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/6)
+[^c-e1434c16c8ab7f3ac3acf4036d30e5c6]: Textual amendment: Words in [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/3) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(6)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/6)
 
-[^key-7f0c5d189d3c5992a90cdcc3ace6a432]: Textual amendment: Words in [Sch. 2 para. 15(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/4) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(7)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/7)
+[^c-7f0c5d189d3c5992a90cdcc3ace6a432]: Textual amendment: Words in [Sch. 2 para. 15(4)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/15/4) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 11(7)](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/11/7)
 
-[^key-0da3f58079c9396979f441b7ccf35a34]: Modification: Sch. 2 para. 16 modified in part (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/21/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-0da3f58079c9396979f441b7ccf35a34]: Modification: Sch. 2 para. 16 modified in part (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/21/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-8e97cdfa055c0927ef547d474adf0a1c]: Textual amendment: [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/16/2) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/12)
+[^c-8e97cdfa055c0927ef547d474adf0a1c]: Textual amendment: [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2018/893/schedule/2/paragraph/16/2) substituted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2022/1216/schedule/paragraph/12)
 
 [^c23355771]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42). Section 47 was amended by [S.I. 2008/1779](https://www.legislation.gov.uk/uksi/2008/1779); sections 48, 49 and 50 were amended, respectively, by paragraphs (3), (4) and (5) of section 68 of the [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), and sections 47 to 50 were amended by [S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769).
 
@@ -2112,4 +2112,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23355841]: Marginal citation: [1969 c. 16](https://www.legislation.gov.uk/ukpga/1969/16).
 
-[^key-eca146a65124679c97deb9922d4893bf]: Textual amendment: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2018/893/schedule/3/paragraph/14) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/10)
+[^c-eca146a65124679c97deb9922d4893bf]: Textual amendment: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2018/893/schedule/3/paragraph/14) inserted (16.12.2022) by [The Social Workers (Amendment and Transitional Provision) Regulations 2022 (S.I. 2022/1216)](https://www.legislation.gov.uk/uksi/2022/1216), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2022/1216/regulation/2/10)

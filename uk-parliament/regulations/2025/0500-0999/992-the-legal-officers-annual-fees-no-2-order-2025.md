@@ -47,7 +47,7 @@ In accordance with section 86(11) of the Ecclesiastical Jurisdiction and Care of
 
 The Fees Advisory Commission, in exercise of the powers conferred by section 86(3) of that Measure, makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-59b4738b397a7e596f54f0bd96e2a3d4]
+## 1. Citation, commencement and interpretation[^c-59b4738b397a7e596f54f0bd96e2a3d4]
 
 (1) This Order may be cited as the Legal Officers (Annual Fees) (No. 2) Order 2025.
 
@@ -58,28 +58,28 @@ The Fees Advisory Commission, in exercise of the powers conferred by section 86(
 - “**diocesan board of finance**”, in relation to a diocese, means the board of that name constituted under the Diocesan Boards of Finance Measure 1925[^f00002], and
 - “**the Measure**” means the Ecclesiastical Jurisdiction and Care of Churches Measure 2018.
 
-## 2. Annual fees[^key-82fc16ae557f34fb92c76e758e1e8499]
+## 2. Annual fees[^c-82fc16ae557f34fb92c76e758e1e8499]
 
 Schedule 1 sets out the annual fees payable—
 
 - (a) to diocesan registrars in respect of the duties of their office specified in Schedule 2, and
 - (b) to provincial registrars in respect of the duties of their office, except the duties and professional services specified in Part B of Table 2 in Schedule 1.
 
-## 3. Payment of fees[^key-55b2f1c197aa503184e4a1dd64893fb2]
+## 3. Payment of fees[^c-55b2f1c197aa503184e4a1dd64893fb2]
 
 (1) The fees set out in the second column of Table 1 of Schedule 1 are to be paid by the diocesan board of finance.
 
 (2) The fees set out in the third column of Table 1 and in Table 2 of Schedule 1 are to be paid by the diocesan bishop or archbishop[^f00003].
 
-## 4. Revocation[^key-b7a90ab5a6feeb40455cb65d08835580]
+## 4. Revocation[^c-b7a90ab5a6feeb40455cb65d08835580]
 
 The Legal Officers (Annual Fees) Order 2025[^f00004] is revoked.
 
-## 5. Duties of the diocesan registrar[^key-aa62a7d16c04d8f753957f6ddcd2c029]
+## 5. Duties of the diocesan registrar[^c-aa62a7d16c04d8f753957f6ddcd2c029]
 
 A diocesan registrar is not entitled to receive any additional remuneration for the duties specified in Schedule 2 except as provided in article 6.
 
-## 6. Supplementary annual fee[^key-94a5935be3835a0c00b9748375b99202]
+## 6. Supplementary annual fee[^c-94a5935be3835a0c00b9748375b99202]
 
 (1) Subject to paragraph (2), nothing in this Order precludes a diocesan board of finance from agreeing to pay any sum to a diocesan registrar by way of annual fee or retainer which is additional to the annual fee payable under Table 1 of Schedule 1.
 
@@ -89,11 +89,11 @@ A diocesan registrar is not entitled to receive any additional remuneration for 
 - (b) be expressed to be an agreement made in accordance with this article, and
 - (c) state the period for which it is to run, or, if no such period is stated, remain binding until determined by not less than three months’ notice on either side.
 
-## 7. Travel, subsistence and accommodation[^key-e67736ee6da64be12e300f1de254c123]
+## 7. Travel, subsistence and accommodation[^c-e67736ee6da64be12e300f1de254c123]
 
 A fee specified in Schedule 1 is to be increased by a sum for reasonable expenses of travel, subsistence and accommodation.
 
-## 8. Value Added Tax[^key-5d54cda0ca1fc1f61d87887dc52ada42]
+## 8. Value Added Tax[^c-5d54cda0ca1fc1f61d87887dc52ada42]
 
 Where Value Added Tax is chargeable in respect of the provision of any service for which a fee is prescribed in this Order (including any fee specified in paragraph 4 of Schedule 2), the amount of Value Added Tax chargeable is payable in addition to that fee.
 
@@ -129,7 +129,7 @@ Registrar of the General Synod
 
 Schedules
 
-## Schedule 1 — Fees payable under this Order[^key-0825d8f1999237652dc29d851073325f]
+## Schedule 1 — Fees payable under this Order[^c-0825d8f1999237652dc29d851073325f]
 
 Article 2
 
@@ -203,7 +203,7 @@ Article 2
 
 Article 2
 
-### 1. Professional services to be provided by the diocesan registrar[^key-80bfc2115b9090ad7cc54f53c01ce1fb]
+### 1. Professional services to be provided by the diocesan registrar[^c-80bfc2115b9090ad7cc54f53c01ce1fb]
 
 Subject to the restrictions contained in paragraphs 2 and 3, the professional services provided by the diocesan registrar in respect of the annual fee paid to him or her under this Order include—
 
@@ -250,7 +250,7 @@ Subject to the restrictions contained in paragraphs 2 and 3, the professional se
   - (ii) searches in and making of extracts from the register, enquiries as to entries in the register and supplying certified copies of entries in the register, where the search, extract or enquiry is made or the certified copy is requested by or on behalf of a person or body referred to at the commencement of paragraph (m) or by the designated officer (within the meaning of section 7(5) of the 1986 Measure);
   - (iii) receipt and issue of notices and notification of representations under section 3(3) and (4) of the 1986 Measure.
 
-### 2. Restrictions on the provisions of paragraph 1[^key-0315d6935a33638dc3dc378c3152f96c]
+### 2. Restrictions on the provisions of paragraph 1[^c-0315d6935a33638dc3dc378c3152f96c]
 
 (1) Where the registrar receives a request for advice on any matter properly falling within paragraph (1)(e) to (h), the registrar—
 
@@ -262,11 +262,11 @@ Subject to the restrictions contained in paragraphs 2 and 3, the professional se
 
 (3) But the registrar may attend such meetings regularly to give general advice and assistance if requested to do so by the board, council or committee in question and in that case the registrar is entitled to be separately remunerated for this work.
 
-### 3. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^key-3ad54a59dc96ed6b7684468be4090d25]
+### 3. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^c-3ad54a59dc96ed6b7684468be4090d25]
 
 The provisions of paragraph 2(1) do not apply to advice and assistance given as legal secretary or diocesan registrar to the diocesan bishop, or as diocesan registrar to suffragan bishops or archdeacons.
 
-### 4. Work not falling within the scope of the annual fee[^key-caf6202d91aa223905c62666d4a913d5]
+### 4. Work not falling within the scope of the annual fee[^c-caf6202d91aa223905c62666d4a913d5]
 
 (1) For the avoidance of doubt work in connection with the following matters does not fall within the scope of the annual fee but a fee calculated in accordance with the Solicitors’ (Non-Contentious Business) Remuneration Order 2009 is payable—
 
@@ -303,7 +303,7 @@ The provisions of paragraph 2(1) do not apply to advice and assistance given as 
 
 (4) In the case of matters referred to in sub-paragraph (1)(n), the fees are payable out of cathedral revenues.
 
-### 5. Disbursements[^key-46b0146b68028033a94fc19d54c4cef0]
+### 5. Disbursements[^c-46b0146b68028033a94fc19d54c4cef0]
 
 If any disbursements other than expenses specified in article 7 of this Order are incurred in the course of providing any of the professional services in paragraph 1 of this Schedule the diocesan registrar is entitled to charge for them separately.
 
@@ -321,33 +321,33 @@ The Order will have effect from 1st January 2026.
 
 [^f00001]: Footnote: [2018 No. 3](https://www.legislation.gov.uk/ukcm/2018/3).
 
-[^key-59b4738b397a7e596f54f0bd96e2a3d4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/992/article/1) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-59b4738b397a7e596f54f0bd96e2a3d4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/992/article/1) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
 [^f00002]: Footnote: 15 & 16 Geo. 5 No. 3. Relevant amendments have been made by the Synodical Government Measure [1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2).
 
-[^key-82fc16ae557f34fb92c76e758e1e8499]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/992/article/2) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-82fc16ae557f34fb92c76e758e1e8499]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/992/article/2) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
-[^key-55b2f1c197aa503184e4a1dd64893fb2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/992/article/3) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-55b2f1c197aa503184e4a1dd64893fb2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/992/article/3) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
 [^f00003]: Footnote: Section 86(6) of the 2018 Measure provides that any sum paid by a bishop or archbishop by virtue of an order made under the 2018 Measure is to be reimbursed by the Church Commissioners.
 
-[^key-b7a90ab5a6feeb40455cb65d08835580]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2025/992/article/4) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-b7a90ab5a6feeb40455cb65d08835580]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2025/992/article/4) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2025/372](https://www.legislation.gov.uk/uksi/2025/372).
 
-[^key-aa62a7d16c04d8f753957f6ddcd2c029]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2025/992/article/5) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-aa62a7d16c04d8f753957f6ddcd2c029]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2025/992/article/5) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
-[^key-94a5935be3835a0c00b9748375b99202]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2025/992/article/6) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-94a5935be3835a0c00b9748375b99202]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2025/992/article/6) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
-[^key-e67736ee6da64be12e300f1de254c123]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2025/992/article/7) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-e67736ee6da64be12e300f1de254c123]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2025/992/article/7) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
-[^key-5d54cda0ca1fc1f61d87887dc52ada42]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2025/992/article/8) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-5d54cda0ca1fc1f61d87887dc52ada42]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2025/992/article/8) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
-[^key-0825d8f1999237652dc29d851073325f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2025/992/schedule/1) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-0825d8f1999237652dc29d851073325f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2025/992/schedule/1) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
 [^f00005]: Footnote: [2003 No. 3](https://www.legislation.gov.uk/ukcm/2003/3).
 
-[^key-80bfc2115b9090ad7cc54f53c01ce1fb]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/1) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-80bfc2115b9090ad7cc54f53c01ce1fb]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/1) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
 [^f00006]: Footnote: [1994 No. 3](https://www.legislation.gov.uk/ukcm/1994/3); amended by the Clergy Discipline Measure 2003.
 
@@ -369,11 +369,11 @@ The Order will have effect from 1st January 2026.
 
 [^f00015]: Footnote: [1986 No. 3](https://www.legislation.gov.uk/ukcm/1986/3).
 
-[^key-0315d6935a33638dc3dc378c3152f96c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/2) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-0315d6935a33638dc3dc378c3152f96c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/2) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
-[^key-3ad54a59dc96ed6b7684468be4090d25]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/3) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-3ad54a59dc96ed6b7684468be4090d25]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/3) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
-[^key-caf6202d91aa223905c62666d4a913d5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/4) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-caf6202d91aa223905c62666d4a913d5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/4) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
 
 [^f00016]: Footnote: A regulation passed by the General Synod, amended by the Vacancy in See Committees (Amendment) Regulation 2025.
 
@@ -387,4 +387,4 @@ The Order will have effect from 1st January 2026.
 
 [^f00021]: Footnote: [S.I. 2009/2108](https://www.legislation.gov.uk/uksi/2009/2108).
 
-[^key-46b0146b68028033a94fc19d54c4cef0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/5) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)
+[^c-46b0146b68028033a94fc19d54c4cef0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/992/schedule/2/paragraph/5) in force at 1.1.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/992/article/1/2)

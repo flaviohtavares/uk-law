@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Administration: payments to unsecured creditors[^key-91376da9fd7a76d79689ad9b776ad31f]
+## 89. Administration: payments to unsecured creditors[^c-91376da9fd7a76d79689ad9b776ad31f]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91376da9fd7a76d79689ad9b776ad31f]: Commencement: S. 89 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-91376da9fd7a76d79689ad9b776ad31f]: Commencement: S. 89 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -22,7 +22,7 @@ summary: ''
 
 Section 57
 
-### Part 1 — Repeals[^key-53b0566e01b39318264bd9cde47ec809][^key-d2f8d54795cbb577289080a87ababe97]
+### Part 1 — Repeals[^c-53b0566e01b39318264bd9cde47ec809][^c-d2f8d54795cbb577289080a87ababe97]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -35,7 +35,7 @@ Section 57
 | Human Fertilisation and Embryology Act 1990 (c. 37) | In Schedule 4, paragraphs 8 and 9. |
 | Health Authorities Act 1995 (c. 17) | In Schedule 1, paragraph 92. |
 
-### Part 2 — Revocations[^key-acb40e1f4ddb03394d80a5d0424c0ae9][^key-36429a2e7ff8a8c6c100e1175dee52e2]
+### Part 2 — Revocations[^c-acb40e1f4ddb03394d80a5d0424c0ae9][^c-36429a2e7ff8a8c6c100e1175dee52e2]
 
 | *Title* | *Extent of revocation* |
 | --- | --- |
@@ -46,10 +46,10 @@ Section 57
 
 ## Annotations
 
-[^key-53b0566e01b39318264bd9cde47ec809]: Commencement: Sch. 7 Pt. 1 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(f)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/f)
+[^c-53b0566e01b39318264bd9cde47ec809]: Commencement: Sch. 7 Pt. 1 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(f)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/f)
 
-[^key-d2f8d54795cbb577289080a87ababe97]: Commencement: Sch. 7 Pt. 1 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-d2f8d54795cbb577289080a87ababe97]: Commencement: Sch. 7 Pt. 1 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
 
-[^key-acb40e1f4ddb03394d80a5d0424c0ae9]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/2) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/g)
+[^c-acb40e1f4ddb03394d80a5d0424c0ae9]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/2) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/g)
 
-[^key-36429a2e7ff8a8c6c100e1175dee52e2]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/2) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-36429a2e7ff8a8c6c100e1175dee52e2]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/2) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))

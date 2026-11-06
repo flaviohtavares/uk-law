@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Determination of applications for registration[^key-a01731af9d47240567737c64c633be60]
+## 99. Determination of applications for registration[^c-a01731af9d47240567737c64c633be60]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ whether those standards are likely to be met in relation to the institution once
 
 ## Annotations
 
-[^key-a01731af9d47240567737c64c633be60]: Commencement: S. 99 in force at 1.1.2011 by [S.I. 2010/2906](https://www.legislation.gov.uk/uksi/2010/2906), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2906/article/2/b) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2906/article/3/2)) (which transitional provisions in art. 3 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)
+[^c-a01731af9d47240567737c64c633be60]: Commencement: S. 99 in force at 1.1.2011 by [S.I. 2010/2906](https://www.legislation.gov.uk/uksi/2010/2906), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2906/article/2/b) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2906/article/3/2)) (which transitional provisions in art. 3 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)

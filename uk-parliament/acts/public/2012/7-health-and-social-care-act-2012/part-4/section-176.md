@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Procedure etc.[^key-f606b2a874b945bc1950872a0a407343][^c2191331]
+## 176. Procedure etc.[^c-f606b2a874b945bc1950872a0a407343][^c2191331]
 
 *Extent: E+W*
 
@@ -102,6 +102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f606b2a874b945bc1950872a0a407343]: Commencement: S. 176 in force at 1.11.2012 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
+[^c-f606b2a874b945bc1950872a0a407343]: Commencement: S. 176 in force at 1.11.2012 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
 
 [^c2191331]: Commencement: S. 176 partly in force; s. 176 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

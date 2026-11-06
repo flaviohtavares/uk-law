@@ -35,162 +35,162 @@ laying down the methodological and technical specifications in accordance with R
 
 (Text with EEA relevance) (revoked)
 
-[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER 1 — GENERAL PROVISIONS[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+## CHAPTER 1 — GENERAL PROVISIONS[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
-### Article 1. Subject matter[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 1. Subject matter[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 2 — HARMONISED INDEX OF CONSUMER PRICES AND HARMONISED INDEX OF CONSUMER PRICES AT CONSTANT TAX RATES[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
-
-### Article 3. Weights[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 2. Definitions[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Sampling and representativity[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+## CHAPTER 2 — HARMONISED INDEX OF CONSUMER PRICES AND HARMONISED INDEX OF CONSUMER PRICES AT CONSTANT TAX RATES[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
+
+### Article 3. Weights[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Treatment of prices[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 4. Sampling and representativity[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Discounts and inducements[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 5. Treatment of prices[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Service charges proportional to transaction prices[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 6. Discounts and inducements[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Observation of prices[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 7. Service charges proportional to transaction prices[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Estimation of prices[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 8. Observation of prices[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Replacements[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 9. Estimation of prices[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Quality adjustment[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 10. Replacements[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Elementary price indices[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 11. Quality adjustment[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Integrating sub-indices after the index reference period[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 12. Elementary price indices[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Seasonal products[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 13. Integrating sub-indices after the index reference period[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Breakdown of the flash estimate[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 14. Seasonal products[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Finalisation of provisional data[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 15. Breakdown of the flash estimate[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Revisions due to mistakes[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 16. Finalisation of provisional data[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Other revisions[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 17. Revisions due to mistakes[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Release of revisions[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 18. Other revisions[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Revision of sub-index weights[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 19. Release of revisions[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Harmonised index of consumer prices at constant tax rates[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 20. Revision of sub-index weights[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 3 — OWNER-OCCUPIED HOUSING PRICE INDEX AND HOUSE PRICE INDEX[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
-
-### Article 22. Breakdown of the owner-occupied housing price index[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 21. Harmonised index of consumer prices at constant tax rates[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 23. Breakdown of the house price index[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+## CHAPTER 3 — OWNER-OCCUPIED HOUSING PRICE INDEX AND HOUSE PRICE INDEX[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
+
+### Article 22. Breakdown of the owner-occupied housing price index[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 24. Weights[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 23. Breakdown of the house price index[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 25. Owner-occupied housing price index compilation[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 24. Weights[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 4 — DATA AND METADATA EXCHANGE STANDARDS AND DEADLINES[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
-
-### Article 26. Data and metadata exchange standards[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 25. Owner-occupied housing price index compilation[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 27. Metadata exchange deadlines[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+## CHAPTER 4 — DATA AND METADATA EXCHANGE STANDARDS AND DEADLINES[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
+
+### Article 26. Data and metadata exchange standards[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 5 — FINAL PROVISIONS[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
-
-### Article 28. Repeal[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+### Article 27. Metadata exchange deadlines[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 29. Entry into force[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+## CHAPTER 5 — FINAL PROVISIONS[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
+
+### Article 28. Repeal[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 29. Entry into force[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Household final monetary consumption expenditure[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]
+## ANNEX — Household final monetary consumption expenditure[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]
 
-[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]1.
+[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]2.
+[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]2.
 
 In further specifying the quality of weights, the final monetary consumption expenditure shall include the following examples of household final consumption expenditure as defined in the following points in paragraph 3.95 of Annex A to ESA 2010:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]3.
+[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]3.
 
 The final monetary consumption expenditure shall exclude the following examples of household final consumption expenditure as defined in the following points in paragraph 3.95 of Annex A to ESA 2010:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]4.
+[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-623b4317d5ae0bc8f4fd9e3ffa94e226]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/131)
+[^c-623b4317d5ae0bc8f4fd9e3ffa94e226]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/131)

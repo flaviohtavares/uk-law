@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Recovery of expenses[^key-df911a599562f308550abba1be6ee5b9]
+## 35. Recovery of expenses[^c-df911a599562f308550abba1be6ee5b9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 9 makes provision for the recovery by an enforcing authority of certain
 
 ## Annotations
 
-[^key-df911a599562f308550abba1be6ee5b9]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2017/282/regulation/35) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-df911a599562f308550abba1be6ee5b9]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2017/282/regulation/35) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

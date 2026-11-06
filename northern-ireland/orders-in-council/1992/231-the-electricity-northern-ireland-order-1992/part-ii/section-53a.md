@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53A. Regional coordination centres[^key-c12ce360c8b8bd0b9e2e31a7dc041648]
+## 53A. Regional coordination centres[^c-c12ce360c8b8bd0b9e2e31a7dc041648]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c12ce360c8b8bd0b9e2e31a7dc041648]: Textual amendment: [Art. 53A](https://www.legislation.gov.uk/nisi/1992/231/article/53A) inserted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [16](https://www.legislation.gov.uk/nisr/2020/307/regulation/16)
+[^c-c12ce360c8b8bd0b9e2e31a7dc041648]: Textual amendment: [Art. 53A](https://www.legislation.gov.uk/nisi/1992/231/article/53A) inserted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [16](https://www.legislation.gov.uk/nisr/2020/307/regulation/16)

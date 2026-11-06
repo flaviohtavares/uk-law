@@ -32,7 +32,7 @@ summary: ''
 
 Savings Banks
 
-The National Savings Bank (Amendment of Obligation of Secrecy Provisions) Regulations 2010 (revoked)[^key-69ed27fd44fdc1341e9c0083162e8e1a]
+The National Savings Bank (Amendment of Obligation of Secrecy Provisions) Regulations 2010 (revoked)[^c-69ed27fd44fdc1341e9c0083162e8e1a]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 4th March 2010
 
-[^key-69ed27fd44fdc1341e9c0083162e8e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69ed27fd44fdc1341e9c0083162e8e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-69ed27fd44fdc1341e9c0083162e8e1a]
+## 1. Citation and commencement[^c-69ed27fd44fdc1341e9c0083162e8e1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of obligation of secrecy provisions[^key-69ed27fd44fdc1341e9c0083162e8e1a]
+## 2. Amendments of obligation of secrecy provisions[^c-69ed27fd44fdc1341e9c0083162e8e1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-69ed27fd44fdc1341e9c0083162e8e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-69ed27fd44fdc1341e9c0083162e8e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69ed27fd44fdc1341e9c0083162e8e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-69ed27fd44fdc1341e9c0083162e8e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69ed27fd44fdc1341e9c0083162e8e1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-69ed27fd44fdc1341e9c0083162e8e1a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/291) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)
+[^c-69ed27fd44fdc1341e9c0083162e8e1a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/291) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)

@@ -20,34 +20,34 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-aa5c7d6a3ab46128bce71e6a3fa63724] The amount of an award of a jobseeker's allowance is to be reduced in accordance with this section in the event of a failure by the claimant which is sanctionable under this section. *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+(1)[^c-aa5c7d6a3ab46128bce71e6a3fa63724] The amount of an award of a jobseeker's allowance is to be reduced in accordance with this section in the event of a failure by the claimant which is sanctionable under this section. *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-(2) It is a failure sanctionable under this section if a claimant— *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+(2) It is a failure sanctionable under this section if a claimant— *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-- (a) through misconduct loses employment as an employed earner; *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
-- (b) without a good reason voluntarily leaves such employment; *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
-- (c) without a good reason refuses or fails to apply for, or accept if offered, a situation in any employment which an employment officer has informed him is vacant or about to become vacant; *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
-- (d) without a good reason neglects to avail himself of a reasonable opportunity of employment; *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
-- (e) without a good reason fails to participate in any scheme within section 17A(1) which is prescribed for the purposes of this section. *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (a) through misconduct loses employment as an employed earner; *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (b) without a good reason voluntarily leaves such employment; *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (c) without a good reason refuses or fails to apply for, or accept if offered, a situation in any employment which an employment officer has informed him is vacant or about to become vacant; *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (d) without a good reason neglects to avail himself of a reasonable opportunity of employment; *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (e) without a good reason fails to participate in any scheme within section 17A(1) which is prescribed for the purposes of this section. *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-(3) For the purposes of subsection (2)(b), in such circumstances as may be prescribed, including in particular where a person has been dismissed by his employer by reason of redundancy within the meaning of section 139(1) of the Employment Rights Act 1996 after volunteering or agreeing to be so dismissed, a person who might otherwise be treated as having left his employment voluntarily is to be treated as not having left voluntarily. *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+(3) For the purposes of subsection (2)(b), in such circumstances as may be prescribed, including in particular where a person has been dismissed by his employer by reason of redundancy within the meaning of section 139(1) of the Employment Rights Act 1996 after volunteering or agreeing to be so dismissed, a person who might otherwise be treated as having left his employment voluntarily is to be treated as not having left voluntarily. *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-(4) Regulations are to provide for— *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+(4) Regulations are to provide for— *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-- (a) the amount of a reduction under this section; *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
-- (b) the period for which such a reduction has effect, not exceeding three years in relation to any failure sanctionable under this section. *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (a) the amount of a reduction under this section; *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (b) the period for which such a reduction has effect, not exceeding three years in relation to any failure sanctionable under this section. *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-(5) Regulations under subsection (4)(b) may in particular provide for the period of a reduction to depend on either or both of the following— *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+(5) Regulations under subsection (4)(b) may in particular provide for the period of a reduction to depend on either or both of the following— *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-- (a) the number of failures by the claimant sanctionable under this section; *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
-- (b) the period between such failures. *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (a) the number of failures by the claimant sanctionable under this section; *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (b) the period between such failures. *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-(6) Regulations may provide— *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+(6) Regulations may provide— *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-- (a) for cases in which no reduction is to be made under this section; *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
-- (b) for a reduction under this section made in relation to an award that is terminated to be applied to any new award made within a prescribed period of the termination. *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (a) for cases in which no reduction is to be made under this section; *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
+- (b) for a reduction under this section made in relation to an award that is terminated to be applied to any new award made within a prescribed period of the termination. *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
-(7) During any period for which the amount of a joint-claim jobseeker's allowance is reduced under this section by virtue of a failure by one of the claimants which is sanctionable under this section, the allowance is payable to the other member of the couple. *(affected by repeal, see note)*[^key-aa5c7d6a3ab46128bce71e6a3fa63724]
+(7) During any period for which the amount of a joint-claim jobseeker's allowance is reduced under this section by virtue of a failure by one of the claimants which is sanctionable under this section, the allowance is payable to the other member of the couple. *(affected by repeal, see note)*[^c-aa5c7d6a3ab46128bce71e6a3fa63724]
 
 ## Annotations
 
@@ -71,4 +71,4 @@ summary: ''
 
 [^c21712261]: Textual amendment: S. 17C and preceding cross-heading inserted (12.11.2009) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 11](https://www.legislation.gov.uk/ukpga/2009/24/section/11), [61(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2009/24/schedule/3/paragraph/1)
 
-[^key-aa5c7d6a3ab46128bce71e6a3fa63724]: Textual amendment: Ss. 19-19C repealed (29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/4); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(e)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/e) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2)) (as amended: (1.7.2013) by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511), art. 6)
+[^c-aa5c7d6a3ab46128bce71e6a3fa63724]: Textual amendment: Ss. 19-19C repealed (29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/4); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(e)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/e) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2)) (as amended: (1.7.2013) by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511), art. 6)

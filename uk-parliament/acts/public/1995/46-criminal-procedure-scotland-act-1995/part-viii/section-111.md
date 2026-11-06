@@ -24,7 +24,7 @@ summary: ''
 
 (2) Any period mentioned in section 109(1) or 110(1)(a) of this Act may be extended at any time by the High Court in respect of any convicted person; and an application for such extension may be made under this subsection and shall be in as nearly as may be the form prescribed by Act of Adjournal.
 
-(2ZA)[^key-75e3fbb159a9ea27dbaec4e0e9044157] Where an application under subsection (2) is received after the period to which it relates has expired, the High Court may extend the period only if it is satisfied that doing so is justified by exceptional circumstances.
+(2ZA)[^c-75e3fbb159a9ea27dbaec4e0e9044157] Where an application under subsection (2) is received after the period to which it relates has expired, the High Court may extend the period only if it is satisfied that doing so is justified by exceptional circumstances.
 
 (2ZB) In considering whether there are exceptional circumstances for the purpose of subsection (2ZA), the High Court must have regard to—
 
@@ -32,20 +32,20 @@ summary: ''
 - (b) the reasons stated in accordance with subsection (2A)(a)(i),
 - (c) the proposed grounds of appeal.
 
-(2A)[^c20903681] An application under subsection (2) [^key-c5157a14b4058fd64696d8d0653353dc]... must—
+(2A)[^c20903681] An application under subsection (2) [^c-c5157a14b4058fd64696d8d0653353dc]... must—
 
 - (a) state—
-  - (i) the reasons why the applicant failed , or expects to fail,[^key-a90a008bd34ac645080ddd3da6c2be4a] to comply with the time limit [^key-b69a6619866567de5c12aa5717ede452]..., and
+  - (i) the reasons why the applicant failed , or expects to fail,[^c-a90a008bd34ac645080ddd3da6c2be4a] to comply with the time limit [^c-b69a6619866567de5c12aa5717ede452]..., and
   - (ii) the proposed grounds of appeal, and
 - (b) be intimated in writing by the applicant to the Crown Agent.
 
 (2B) If the prosecutor so requests within 7 days of receipt of intimation of the application under subsection (2A)(b), the prosecutor must be given an opportunity to make representations before the application is determined.
 
-(2C)[^key-659ff38d1fcafb6c447920ca1b2c8820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2C)[^c-659ff38d1fcafb6c447920ca1b2c8820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-551c151613da30d1a4bf4841217fd95d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-551c151613da30d1a4bf4841217fd95d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-799d770703ca6346d7bf27c4dfae0d21] An application under subsection (2) is to be dealt with by the High Court—
+(4)[^c-799d770703ca6346d7bf27c4dfae0d21] An application under subsection (2) is to be dealt with by the High Court—
 
 - (a) in chambers, and
 - (b) unless the Court directs otherwise, without the parties being present.
@@ -57,18 +57,18 @@ summary: ''
 
 ## Annotations
 
-[^key-75e3fbb159a9ea27dbaec4e0e9044157]: Textual amendment: S. 111(2ZA)(2ZB) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(3)](https://www.legislation.gov.uk/asp/2016/1/section/90/3), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-75e3fbb159a9ea27dbaec4e0e9044157]: Textual amendment: S. 111(2ZA)(2ZB) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(3)](https://www.legislation.gov.uk/asp/2016/1/section/90/3), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
 
 [^c20903681]: Textual amendment: S. 111(2A)-(2C) inserted (30.10.2010) by [Criminal Procedure (Legal Assistance, Detention and Appeals) (Scotland) Act 2010 (asp 15)](https://www.legislation.gov.uk/asp/2010/15), [ss. 5(2)](https://www.legislation.gov.uk/asp/2010/15/section/5/2), [9](https://www.legislation.gov.uk/asp/2010/15/section/9) (with [s. 5(4)](https://www.legislation.gov.uk/asp/2010/15/section/5/4))
 
-[^key-c5157a14b4058fd64696d8d0653353dc]: Textual amendment: Words in s. 111(2A) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(4)(a)](https://www.legislation.gov.uk/asp/2016/1/section/90/4/a), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-c5157a14b4058fd64696d8d0653353dc]: Textual amendment: Words in s. 111(2A) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(4)(a)](https://www.legislation.gov.uk/asp/2016/1/section/90/4/a), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
 
-[^key-a90a008bd34ac645080ddd3da6c2be4a]: Textual amendment: Words in s. 111(2A)(a)(i) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(4)(b)(i)](https://www.legislation.gov.uk/asp/2016/1/section/90/4/b/i), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-a90a008bd34ac645080ddd3da6c2be4a]: Textual amendment: Words in s. 111(2A)(a)(i) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(4)(b)(i)](https://www.legislation.gov.uk/asp/2016/1/section/90/4/b/i), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
 
-[^key-b69a6619866567de5c12aa5717ede452]: Textual amendment: Words in s. 111(2A)(a)(i) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(4)(b)(ii)](https://www.legislation.gov.uk/asp/2016/1/section/90/4/b/ii), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-b69a6619866567de5c12aa5717ede452]: Textual amendment: Words in s. 111(2A)(a)(i) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(4)(b)(ii)](https://www.legislation.gov.uk/asp/2016/1/section/90/4/b/ii), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
 
-[^key-659ff38d1fcafb6c447920ca1b2c8820]: Textual amendment: S. 111(2C) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(5)](https://www.legislation.gov.uk/asp/2016/1/section/90/5), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-659ff38d1fcafb6c447920ca1b2c8820]: Textual amendment: S. 111(2C) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(5)](https://www.legislation.gov.uk/asp/2016/1/section/90/5), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
 
-[^key-551c151613da30d1a4bf4841217fd95d]: Textual amendment: S. 111(3) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 16](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/16) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2011/157/article/5/1))
+[^c-551c151613da30d1a4bf4841217fd95d]: Textual amendment: S. 111(3) repealed (28.2.2011) by [Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), [s. 101(2)](https://www.legislation.gov.uk/asp/2007/14/section/101/2), [sch. 4 para. 16](https://www.legislation.gov.uk/asp/2007/14/schedule/4/paragraph/16) (with [ss. 90](https://www.legislation.gov.uk/asp/2007/14/section/90), [99](https://www.legislation.gov.uk/asp/2007/14/section/99)); [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2011/157/article/5/1))
 
-[^key-799d770703ca6346d7bf27c4dfae0d21]: Textual amendment: S. 111(4)(5) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(6)](https://www.legislation.gov.uk/asp/2016/1/section/90/6), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-799d770703ca6346d7bf27c4dfae0d21]: Textual amendment: S. 111(4)(5) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(6)](https://www.legislation.gov.uk/asp/2016/1/section/90/6), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

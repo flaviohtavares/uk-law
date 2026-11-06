@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes these Regulations in exercise of the powers conferred by Articles 4(7), 19C(1), (1A)(a) and (f) and (2) and 218 of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-bff3ef770338293204602f1bb2c11093]
+## 1. Citation and commencement[^c-bff3ef770338293204602f1bb2c11093]
 
 These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 25th March 2024.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland)[^key-0fb14dfe113e1aa516ba1c6dc168ec23]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland)[^c-0fb14dfe113e1aa516ba1c6dc168ec23]
 
 After regulation 55 (persons who become resident in Northern Ireland) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00004], insert—
 
@@ -87,9 +87,9 @@ An Explanatory Memorandum has been produced and is available from Safe and Acces
 
 [^f00003]: Footnote: *See* Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-bff3ef770338293204602f1bb2c11093]: Commencement: Reg. 1 in operation at 25.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/22/regulation/1)
+[^c-bff3ef770338293204602f1bb2c11093]: Commencement: Reg. 1 in operation at 25.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/22/regulation/1)
 
-[^key-0fb14dfe113e1aa516ba1c6dc168ec23]: Commencement: Reg. 2 in operation at 25.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/22/regulation/1)
+[^c-0fb14dfe113e1aa516ba1c6dc168ec23]: Commencement: Reg. 2 in operation at 25.3.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/22/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542); relevant amending Regulations are [S.R. 1997 No. 383](https://www.legislation.gov.uk/nisr/1997/383) and [S.R. 2015 No. 357](https://www.legislation.gov.uk/nisr/2015/357)
 

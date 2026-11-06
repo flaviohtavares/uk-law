@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 156. General[^key-4961b31c6a4f313479ba66e2167dd1d2]
+## 156. General[^c-4961b31c6a4f313479ba66e2167dd1d2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The powers conferred on a marine enforcement officer by this Part are without pr
 
 ## Annotations
 
-[^key-4961b31c6a4f313479ba66e2167dd1d2]: Commencement: [S. 156](https://www.legislation.gov.uk/asp/2010/5/section/156) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(f)](https://www.legislation.gov.uk/ssi/2010/230/article/2/f)
+[^c-4961b31c6a4f313479ba66e2167dd1d2]: Commencement: [S. 156](https://www.legislation.gov.uk/asp/2010/5/section/156) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(f)](https://www.legislation.gov.uk/ssi/2010/230/article/2/f)

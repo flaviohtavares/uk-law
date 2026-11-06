@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Prohibition on winding up except in accordance with continuity option 1[^c24459201][^key-821281d7a0d2d2c35aa3b69ffe7e08c9]
+## 42. Prohibition on winding up except in accordance with continuity option 1[^c24459201][^c-821281d7a0d2d2c35aa3b69ffe7e08c9]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c24459201]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2021/1/section/42) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-821281d7a0d2d2c35aa3b69ffe7e08c9]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2021/1/section/42) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-821281d7a0d2d2c35aa3b69ffe7e08c9]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2021/1/section/42) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

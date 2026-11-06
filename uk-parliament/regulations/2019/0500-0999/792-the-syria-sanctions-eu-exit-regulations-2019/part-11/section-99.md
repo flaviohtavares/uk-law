@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Other amendments and revocations[^key-8debb98e17196cfc9e3055b639e3b51d]
+## 99. Other amendments and revocations[^c-8debb98e17196cfc9e3055b639e3b51d]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8debb98e17196cfc9e3055b639e3b51d]: Commencement: Reg. 99 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8debb98e17196cfc9e3055b639e3b51d]: Commencement: Reg. 99 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23698511]: Marginal citation: [S.I. 2012/129](https://www.legislation.gov.uk/uksi/2012/129), as modified by the [Wales Act 2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29), [section 4(4)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/4/a) and amended by [S.I. 2012/639](https://www.legislation.gov.uk/uksi/2012/639), [S.I](https://www.legislation.gov.uk/uksi/2012/639/section/I). 2012/2524, [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [S.I](https://www.legislation.gov.uk/uksi/2013/472/section/I). 2013/534, [S.I. 2013/877](https://www.legislation.gov.uk/uksi/2013/877), [S.I](https://www.legislation.gov.uk/uksi/2013/877/section/I). 2013/1876, [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560), [S.I](https://www.legislation.gov.uk/uksi/2017/560/section/I). 2017/754 and [S.I. 2018/682](https://www.legislation.gov.uk/uksi/2018/682) and as prospectively amended by [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149).
 

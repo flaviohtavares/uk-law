@@ -35,46 +35,46 @@ amending Implementing Regulation (EU) 2016/2070 as regards benchmark portfolios,
 
 (Text with EEA relevance) (revoked)
 
-[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-6618f5ee7fc2bd6e4e9dad1f939d4347] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6618f5ee7fc2bd6e4e9dad1f939d4347] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6618f5ee7fc2bd6e4e9dad1f939d4347] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6618f5ee7fc2bd6e4e9dad1f939d4347] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]
+## ANNEX I[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]
+## ANNEX II[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]
+## ANNEX III[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]
+## ANNEX IV[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]
+## ANNEX V[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]
+## ANNEX VI[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]
+## ANNEX VII[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6618f5ee7fc2bd6e4e9dad1f939d4347]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)
+[^c-6618f5ee7fc2bd6e4e9dad1f939d4347]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)

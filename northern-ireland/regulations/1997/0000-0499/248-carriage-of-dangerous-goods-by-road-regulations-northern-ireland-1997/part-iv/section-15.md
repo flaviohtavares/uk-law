@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Documentation to be available during carriage[^key-b8395af08abdcb94a63c9c700a5152d7]
+## 15. Documentation to be available during carriage[^c-b8395af08abdcb94a63c9c700a5152d7]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8395af08abdcb94a63c9c700a5152d7]: Commencement: Reg. 15 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-b8395af08abdcb94a63c9c700a5152d7]: Commencement: Reg. 15 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

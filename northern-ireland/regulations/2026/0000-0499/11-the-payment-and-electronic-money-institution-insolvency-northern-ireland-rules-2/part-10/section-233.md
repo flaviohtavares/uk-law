@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 233. Warrants under Article 200[^key-f5808665fd4ad250ce8e44176fea2aa9]
+## 233. Warrants under Article 200[^c-f5808665fd4ad250ce8e44176fea2aa9]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ as may be directed by the court.
 
 ## Annotations
 
-[^key-f5808665fd4ad250ce8e44176fea2aa9]: Commencement: [Rule 233](https://www.legislation.gov.uk/nisr/2026/11/rule/233) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-f5808665fd4ad250ce8e44176fea2aa9]: Commencement: [Rule 233](https://www.legislation.gov.uk/nisr/2026/11/rule/233) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Review of instruments of government[^key-3177c8343e859803f3526f295000c5d2]
+## 35. Review of instruments of government[^c-3177c8343e859803f3526f295000c5d2]
 
 *Extent: E+W*
 
-(1) The governing body or the local authority[^key-a944f274d91baf78f1ce6acb913f655b] may review the instrument of government at any time after it is made.
+(1) The governing body or the local authority[^c-a944f274d91baf78f1ce6acb913f655b] may review the instrument of government at any time after it is made.
 
 (2) Where on any review the governing body or the local authority decides that the instrument of government should be varied, the governing body or (as the case may be) the local authority must notify the other of its proposed variation together with its reasons for proposing such a variation.
 
@@ -60,6 +60,6 @@ and the instrument of government must be varied by it either in the manner agree
 
 ## Annotations
 
-[^key-3177c8343e859803f3526f295000c5d2]: Commencement: Reg. 35 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-3177c8343e859803f3526f295000c5d2]: Commencement: Reg. 35 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-a944f274d91baf78f1ce6acb913f655b]: Textual amendment: Words in [regs. 34-37](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(14)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/14)
+[^c-a944f274d91baf78f1ce6acb913f655b]: Textual amendment: Words in [regs. 34-37](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(14)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/14)

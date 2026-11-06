@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Earnings to be disregarded[^key-aae7da124ae0bbd2acee1d7b1c7900bb]
+## 14. Earnings to be disregarded[^c-aae7da124ae0bbd2acee1d7b1c7900bb]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-aae7da124ae0bbd2acee1d7b1c7900bb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1844/regulation/14) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-aae7da124ae0bbd2acee1d7b1c7900bb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1844/regulation/14) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213). Regulation 35 was amended by [S.I. 2007/2618](https://www.legislation.gov.uk/uksi/2007/2618), [2009/2655](https://www.legislation.gov.uk/uksi/2009/2655), [2014/591](https://www.legislation.gov.uk/uksi/2014/591) and [3255](https://www.legislation.gov.uk/uksi/2014/3255).
 

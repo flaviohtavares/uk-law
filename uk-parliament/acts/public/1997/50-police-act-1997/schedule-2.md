@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Other Provisions about Members of Service Authorities[^key-1dc27105c7a8f90c8010c0bcafb403a8]
+## SCHEDULE 2 — Other Provisions about Members of Service Authorities[^c-1dc27105c7a8f90c8010c0bcafb403a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,68 +24,68 @@ summary: ''
 
 Sections 1(7) and 47(7).
 
-### Disqualification[^key-1dc27105c7a8f90c8010c0bcafb403a8]
+### Disqualification[^c-1dc27105c7a8f90c8010c0bcafb403a8]
 
-**1.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Tenure of office[^key-1dc27105c7a8f90c8010c0bcafb403a8]
+### Tenure of office[^c-1dc27105c7a8f90c8010c0bcafb403a8]
 
-**4.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6.[^key-1dc27105c7a8f90c8010c0bcafb403a8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Chairman[^key-1dc27105c7a8f90c8010c0bcafb403a8]
-
-**11.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Eligibility for re-appointment[^key-1dc27105c7a8f90c8010c0bcafb403a8]
-
-**12.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Eligibility to vote[^key-1dc27105c7a8f90c8010c0bcafb403a8]
-
-**13.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Validity of acts[^key-1dc27105c7a8f90c8010c0bcafb403a8]
-
-**15.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Allowances[^key-1dc27105c7a8f90c8010c0bcafb403a8]
-
-**17.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 17A. Allowances for members etc.[^key-1dc27105c7a8f90c8010c0bcafb403a8]
+#### 6.[^c-1dc27105c7a8f90c8010c0bcafb403a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Co-opted Members[^key-1dc27105c7a8f90c8010c0bcafb403a8]
+**7.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-1dc27105c7a8f90c8010c0bcafb403a8]
+**9.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Chairman[^c-1dc27105c7a8f90c8010c0bcafb403a8]
+
+**11.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Eligibility for re-appointment[^c-1dc27105c7a8f90c8010c0bcafb403a8]
+
+**12.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Eligibility to vote[^c-1dc27105c7a8f90c8010c0bcafb403a8]
+
+**13.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Validity of acts[^c-1dc27105c7a8f90c8010c0bcafb403a8]
+
+**15.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Allowances[^c-1dc27105c7a8f90c8010c0bcafb403a8]
+
+**17.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17A. Allowances for members etc.[^c-1dc27105c7a8f90c8010c0bcafb403a8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Co-opted Members[^c-1dc27105c7a8f90c8010c0bcafb403a8]
+
+**18.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation[^c-1dc27105c7a8f90c8010c0bcafb403a8]
+
+**19.**[^c-1dc27105c7a8f90c8010c0bcafb403a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1dc27105c7a8f90c8010c0bcafb403a8]: Textual amendment: Schs. 1-2A repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 106](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/106), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-1dc27105c7a8f90c8010c0bcafb403a8]: Textual amendment: Schs. 1-2A repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 106](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/106), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)

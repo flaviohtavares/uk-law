@@ -121,11 +121,11 @@ In schedule 3 (requirements relating to use) of the Weighing Equipment (Automati
 
 In schedule 3 (requirements in respect of use and manner of use) of the Weighing Equipment (Automatic Catchweighing) Regulations 2003 [^c23325881] for “section 2 of the Radioactive Substances Act 1993” substitute “ paragraph 5 of schedule 8 of the Environmental Authorisations (Scotland) Regulations 2018 ”.
 
-#### 11. Waste Management Licensing (Scotland) Regulations 2011[^key-63f5c0a303bebde95e6b3986dd3939af]
+#### 11. Waste Management Licensing (Scotland) Regulations 2011[^c-63f5c0a303bebde95e6b3986dd3939af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-f7ceebae1673a2405325128428b94585]
+#### 12. Water Environment (Controlled Activities) (Scotland) Regulations 2011[^c-f7ceebae1673a2405325128428b94585]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -311,9 +311,9 @@ In entry 3(h) of the table in paragraph 2 of schedule 2 (descriptions of develop
 
 [^c23325881]: Marginal citation: [S.I. 2003/2761](https://www.legislation.gov.uk/uksi/2003/2761).
 
-[^key-63f5c0a303bebde95e6b3986dd3939af]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-63f5c0a303bebde95e6b3986dd3939af]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f7ceebae1673a2405325128428b94585]: Textual amendment: [Sch. 6 para. 12](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/12) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f7ceebae1673a2405325128428b94585]: Textual amendment: [Sch. 6 para. 12](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/12) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23325911]: Marginal citation: [S.S.I. 2014/324](https://www.legislation.gov.uk/ssi/2014/324).
 

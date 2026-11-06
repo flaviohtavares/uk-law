@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Short title of this Act.[^key-221491aa27c5326299e2752220b2f9c7][^M_C_162dc8d5-6ae0-4178-a440-dc48bbfee846]
+## 4. Short title of this Act.[^c-221491aa27c5326299e2752220b2f9c7][^M_C_162dc8d5-6ae0-4178-a440-dc48bbfee846]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In citing this Act in other Acts of Parliament, and in legal instruments, it sha
 
 ## Annotations
 
-[^key-221491aa27c5326299e2752220b2f9c7]: Modification: Ss. 1-4 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-221491aa27c5326299e2752220b2f9c7]: Modification: Ss. 1-4 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
 
 [^M_C_162dc8d5-6ae0-4178-a440-dc48bbfee846]: Modification: Ss. 2-4 incorporated (with modifications) (E.W.S.) (1.11.2015) by [The Great Yarmouth Port Authority (Constitution) Harbour Revision Order 2015 (S.I. 2015/1395)](https://www.legislation.gov.uk/uksi/2015/1395), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/1395/article/1/3), [2](https://www.legislation.gov.uk/uksi/2015/1395/article/2), [3](https://www.legislation.gov.uk/uksi/2015/1395/article/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2015/1395/schedule/3))

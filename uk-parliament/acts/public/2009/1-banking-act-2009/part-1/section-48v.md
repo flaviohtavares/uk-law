@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48V. Onward transfer[^key-e08285c6098396b69338da688e9dbcc0]
+## 48V. Onward transfer[^c-e08285c6098396b69338da688e9dbcc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (4) An onward transfer resolution instrument may not transfer securities to the transferor under the original instrument.
 
-(5) Section 7 does[^key-19eafa9f93caacc387ba6d0f1f2275f3] not apply to an onward transfer resolution instrument (but it is to be treated in the same way as any other resolution instrument for all other purposes, including for the purposes of the application of a power under this Part).
+(5) Section 7 does[^c-19eafa9f93caacc387ba6d0f1f2275f3] not apply to an onward transfer resolution instrument (but it is to be treated in the same way as any other resolution instrument for all other purposes, including for the purposes of the application of a power under this Part).
 
 (6) Before making an onward transfer resolution instrument the Bank of England must consult—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e08285c6098396b69338da688e9dbcc0]: Textual amendment: Ss. 48B-48W and cross-heading inserted (1.3.2014 for the insertion of s. 48P for specified purposes, 31.12.2014 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-e08285c6098396b69338da688e9dbcc0]: Textual amendment: Ss. 48B-48W and cross-heading inserted (1.3.2014 for the insertion of s. 48P for specified purposes, 31.12.2014 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-19eafa9f93caacc387ba6d0f1f2275f3]: Textual amendment: Words in s. 48V(5) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [59](https://www.legislation.gov.uk/uksi/2014/3329/article/59)
+[^c-19eafa9f93caacc387ba6d0f1f2275f3]: Textual amendment: Words in s. 48V(5) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [59](https://www.legislation.gov.uk/uksi/2014/3329/article/59)

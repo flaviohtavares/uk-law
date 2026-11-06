@@ -25,7 +25,7 @@ summary: ''
 - (a) a person (“P”) was a Category 2 eligible student (see Schedule 2) in connection with an application for support—
   - (i) for an earlier year of the present course,
   - (ii) for a full-time course in relation to which the present course is a full-time end-on course, or
-  - (iii) for a course from which P's status as an eligible student has been transferred to the present course under regulation 28 [^key-0bc7fb05ef25222dccc9ad8f77995c81]..., and
+  - (iii) for a course from which P's status as an eligible student has been transferred to the present course under regulation 28 [^c-0bc7fb05ef25222dccc9ad8f77995c81]..., and
 - (b) as at the end of the day before the first day of the academic year in respect of which P is applying for support, the refugee status of—
   - (i) P, or
   - (ii) the person whose status as a refugee meant that P was a Category 2 eligible student,
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc7fb05ef25222dccc9ad8f77995c81]: Textual amendment: Words in [reg. 22(1)(a)(iii)](https://www.legislation.gov.uk/wsi/2018/191/regulation/22/1/a/iii) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [29](https://www.legislation.gov.uk/wsi/2026/3/regulation/29)
+[^c-0bc7fb05ef25222dccc9ad8f77995c81]: Textual amendment: Words in [reg. 22(1)(a)(iii)](https://www.legislation.gov.uk/wsi/2018/191/regulation/22/1/a/iii) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [29](https://www.legislation.gov.uk/wsi/2026/3/regulation/29)
 
 [^c23554541]: Marginal citation: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41). Section 104 was amended by the [Asylum and Immigration (Treatment of Claimants etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [Schedules 2](https://www.legislation.gov.uk/ukpga/2004/19/schedule/2) and 4, the [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [section 9](https://www.legislation.gov.uk/ukpga/2006/13/section/9), [S.I](https://www.legislation.gov.uk/ukpga/2006/13/section/I). 2010/21, the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [Schedule 9](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Meaning of “community-controlled body”[^key-150e857a8951549976e99595f6a00a9b]
+## 19. Meaning of “community-controlled body”[^c-150e857a8951549976e99595f6a00a9b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In this Part, a “**community-controlled body**” means a body (whether corpor
 
 ## Annotations
 
-[^key-150e857a8951549976e99595f6a00a9b]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2015/6/section/19) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/363/article/3/a)
+[^c-150e857a8951549976e99595f6a00a9b]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2015/6/section/19) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/363/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8C. Compensatory payment disregard as capital[^key-9c2be56cd9ef290ca8e0430c2aa49c28]
+## 8C. Compensatory payment disregard as capital[^c-9c2be56cd9ef290ca8e0430c2aa49c28]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ the payment is to be disregarded from the calculation of the claimant’s capita
 
 ## Annotations
 
-[^key-9c2be56cd9ef290ca8e0430c2aa49c28]: Textual amendment: [Reg. 8C](https://www.legislation.gov.uk/nisr/2016/226/regulation/8C) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2020/108/regulation/9)
+[^c-9c2be56cd9ef290ca8e0430c2aa49c28]: Textual amendment: [Reg. 8C](https://www.legislation.gov.uk/nisr/2016/226/regulation/8C) inserted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2020/108/regulation/9)

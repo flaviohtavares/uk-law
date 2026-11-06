@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Functions of Special Health Authorities[^key-7d9ba1e01055307827337c709fca7c23][^c2191277]
+## 21. Functions of Special Health Authorities[^c-7d9ba1e01055307827337c709fca7c23][^c2191277]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d9ba1e01055307827337c709fca7c23]: Commencement: S. 21 in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2012/1831/article/12))
+[^c-7d9ba1e01055307827337c709fca7c23]: Commencement: S. 21 in force at 1.10.2012 in so far as not already in force by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2012/1831/article/12))
 
 [^c2191277]: Commencement: S. 21 partly in force; s. 21 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

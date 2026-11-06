@@ -29,7 +29,7 @@ summary: ''
 
 (3) The court or sheriff hearing an appeal may consider any evidence or other matter, whether or not it was available when the decision of the chief officer was taken.
 
-(3A)[^key-840814b8d2662bcbb4c447c5d53e03c7] The court or sheriff hearing an appeal must have regard to any guidance issued under section 55A that is relevant to the appeal.
+(3A)[^c-840814b8d2662bcbb4c447c5d53e03c7] The court or sheriff hearing an appeal must have regard to any guidance issued under section 55A that is relevant to the appeal.
 
 (4) In relation to an appeal specified in the first column of Part I of Schedule 5 to this Act, the third column shows the sheriff having jurisdiction to entertain the appeal.
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c9812231]: Textual amendment: S. 44 substituted (1.7.1997) by [1997 c. 5](https://www.legislation.gov.uk/ukpga/1997/5), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1997/5/section/41/1); [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [art. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
 
-[^key-840814b8d2662bcbb4c447c5d53e03c7]: Textual amendment: S. 44(3A) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 133(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/133/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/32)
+[^c-840814b8d2662bcbb4c447c5d53e03c7]: Textual amendment: S. 44(3A) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 133(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/133/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/32)

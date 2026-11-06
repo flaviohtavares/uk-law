@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25BA. Facilitation offences: application to rescuers[^key-cd4ad3a25fa9f337cd83c101d56df874]
+## 25BA. Facilitation offences: application to rescuers[^c-cd4ad3a25fa9f337cd83c101d56df874]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd4ad3a25fa9f337cd83c101d56df874]: Textual amendment: [Ss. 25BA](https://www.legislation.gov.uk/ukpga/1971/77/section/25BA), [25BB](https://www.legislation.gov.uk/ukpga/1971/77/section/25BB) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 41(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/41/4), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/21) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/7))
+[^c-cd4ad3a25fa9f337cd83c101d56df874]: Textual amendment: [Ss. 25BA](https://www.legislation.gov.uk/ukpga/1971/77/section/25BA), [25BB](https://www.legislation.gov.uk/ukpga/1971/77/section/25BB) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 41(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/41/4), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/21) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/7))

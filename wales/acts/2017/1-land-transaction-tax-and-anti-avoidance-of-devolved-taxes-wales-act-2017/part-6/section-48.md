@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Contingency ceases or consideration ascertained: repayment of tax[^key-ce10b1c19408bf1a2e204fcf54fb805b]
+## 48. Contingency ceases or consideration ascertained: repayment of tax[^c-ce10b1c19408bf1a2e204fcf54fb805b]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce10b1c19408bf1a2e204fcf54fb805b]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2017/1/section/48) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ce10b1c19408bf1a2e204fcf54fb805b]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2017/1/section/48) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

@@ -27,7 +27,7 @@ summary: ''
   - (i) that does not exceed 5 years; and
   - (ii) during which the employment relationship continues.
 
-(1A)[^key-f12a4d7f989f9397f426a9509e17b1b2] For the purpose of determining entitlement to payment of benefits to or in respect of a member of this scheme who falls within regulations 4(1)(b), 4(1)(c) or 4(1)(d), the member is taken to be an active member of this scheme during any other period of unpaid leave—
+(1A)[^c-f12a4d7f989f9397f426a9509e17b1b2] For the purpose of determining entitlement to payment of benefits to or in respect of a member of this scheme who falls within regulations 4(1)(b), 4(1)(c) or 4(1)(d), the member is taken to be an active member of this scheme during any other period of unpaid leave—
 
 - (i) that does not exceed 5 years; and
 - (ii) during which the employment relationship continues.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f12a4d7f989f9397f426a9509e17b1b2]: Textual amendment: [Reg. 19(1A)](https://www.legislation.gov.uk/nisr/2015/113/regulation/19/1A) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [7](https://www.legislation.gov.uk/nisr/2024/38/regulation/7)
+[^c-f12a4d7f989f9397f426a9509e17b1b2]: Textual amendment: [Reg. 19(1A)](https://www.legislation.gov.uk/nisr/2015/113/regulation/19/1A) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [7](https://www.legislation.gov.uk/nisr/2024/38/regulation/7)

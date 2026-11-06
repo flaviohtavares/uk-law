@@ -31,7 +31,7 @@ Aviation Security Act 1982
 
 An Act to consolidate certain enactments relating to aviation security.
 
-\[23rd July, 1982\] [^c794521][^key-d2871e7d5fd9dbbbb4c939534d6c02ea]
+\[23rd July, 1982\] [^c794521][^c-d2871e7d5fd9dbbbb4c939534d6c02ea]
 
 ## Contents
 
@@ -49,7 +49,7 @@ An Act to consolidate certain enactments relating to aviation security.
 - [Section 8 — Prosecution of offences and proceedings.](part-i/section-8.md)
 - [Section 9 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-9.md)
 
-### Part II — Protection of Aircraft, Aerodromes and Air Navigation Installations Against Acts of Violence[^key-9c3cd7c3819d574c17c4e7d7e32bf014][^key-9b5a232104f7ab7e1500bbc326441b4b][^M_C_68c9d49f-bd87-4e8f-f52a-f59ef2535a41][^key-32232a5bff15a56d03c05e3adf884223]
+### Part II — Protection of Aircraft, Aerodromes and Air Navigation Installations Against Acts of Violence[^c-9c3cd7c3819d574c17c4e7d7e32bf014][^c-9b5a232104f7ab7e1500bbc326441b4b][^M_C_68c9d49f-bd87-4e8f-f52a-f59ef2535a41][^c-32232a5bff15a56d03c05e3adf884223]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,11 +61,11 @@ An Act to consolidate certain enactments relating to aviation security.
 
 - [Section 11 — Power for Secretary of State to require information.](part-ii/section-11.md)
 
-#### Designation of security restricted areas[^key-83f3a5df7fc50175f5675a522bb0904e]
+#### Designation of security restricted areas[^c-83f3a5df7fc50175f5675a522bb0904e]
 
 - [Section 11A — Designation of security restricted areas.](part-ii/section-11a.md)
 
-#### Directions[^key-9bb5f4bd811f53b3bfcb5708912e7b5c]
+#### Directions[^c-9bb5f4bd811f53b3bfcb5708912e7b5c]
 
 - [Section 12 — Power to impose restrictions in relation to aircraft.](part-ii/section-12.md)
 - [Section 13 — Power to require aerodrome managers to promote searches at aerodromes.](part-ii/section-13.md)
@@ -119,7 +119,7 @@ An Act to consolidate certain enactments relating to aviation security.
 
 - [Section 21G — Duty to report certain occurrences.](part-ii/section-21g.md)
 
-#### Advice and assistance[^key-fd563dd6604c5a099d845c1d59e331f3]
+#### Advice and assistance[^c-fd563dd6604c5a099d845c1d59e331f3]
 
 - [Section 21H — Provision of advice and assistance to Secretary of State](part-ii/section-21h.md)
 - [Section 21I — Provision of advice and assistance to other persons](part-ii/section-21i.md)
@@ -134,21 +134,21 @@ An Act to consolidate certain enactments relating to aviation security.
 - [Section 24 — Service of documents.](part-ii/section-24.md)
 - [Section 24A — Interpretation of Part II.](part-ii/section-24a.md)
 
-### Part 2A — Security planning for aerodromes[^key-bbfe29ed293fa98abff3c91079910722][^key-60eb6c2fea269d569f8c613a4608a22d]
+### Part 2A — Security planning for aerodromes[^c-bbfe29ed293fa98abff3c91079910722][^c-60eb6c2fea269d569f8c613a4608a22d]
 
 *Extent: E+W+S+N.I.*
 
-#### Aerodromes to which Part 2A applies[^key-60eb6c2fea269d569f8c613a4608a22d]
+#### Aerodromes to which Part 2A applies[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 - [Section 24AA — Aerodromes to which Part 2A applies](part-2a/section-24aa.md)
 
-#### Risk assessment at aerodromes[^key-60eb6c2fea269d569f8c613a4608a22d]
+#### Risk assessment at aerodromes[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 - [Section 24AB — Risk advisory groups](part-2a/section-24ab.md)
 - [Section 24AC — Functions of risk advisory groups](part-2a/section-24ac.md)
 - [Section 24AD — Discharge of functions by risk advisory groups](part-2a/section-24ad.md)
 
-#### Aerodrome security planning[^key-60eb6c2fea269d569f8c613a4608a22d]
+#### Aerodrome security planning[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 - [Section 24AE — Aerodrome security plans](part-2a/section-24ae.md)
 - [Section 24AF — Aerodrome security plans: duration etc.](part-2a/section-24af.md)
@@ -157,12 +157,12 @@ An Act to consolidate certain enactments relating to aviation security.
 - [Section 24AI — Objections to proposals by security executive groups](part-2a/section-24ai.md)
 - [Section 24AJ — Discharge of functions by security executive groups](part-2a/section-24aj.md)
 
-#### Aerodrome security groups: general[^key-60eb6c2fea269d569f8c613a4608a22d]
+#### Aerodrome security groups: general[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 - [Section 24AK — Aerodrome groups: supplemental](part-2a/section-24ak.md)
 - [Section 24AL — Period for establishment of aerodrome groups](part-2a/section-24al.md)
 
-#### Disputes about security planning[^key-60eb6c2fea269d569f8c613a4608a22d]
+#### Disputes about security planning[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 - [Section 24AM — Meaning of dispute about security planning](part-2a/section-24am.md)
 - [Section 24AN — Power to refer dispute to Secretary of State](part-2a/section-24an.md)
@@ -171,12 +171,12 @@ An Act to consolidate certain enactments relating to aviation security.
 - [Section 24AQ — Dispute resolution: powers](part-2a/section-24aq.md)
 - [Section 24AR — Dispute resolution: appeals and enforcement etc.](part-2a/section-24ar.md)
 
-#### General and supplemental[^key-60eb6c2fea269d569f8c613a4608a22d]
+#### General and supplemental[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 - [Section 24AS — Power to except or modify](part-2a/section-24as.md)
 - [Section 24AT — Interpretation](part-2a/section-24at.md)
 
-### Part III — Policing of Aerodromes[^key-a9f0506fd7e219dda41b064630905def][^key-71e379d589d8856371371fe77777b578][^key-b42df5dba17eac7c513648ec38e71893]
+### Part III — Policing of Aerodromes[^c-a9f0506fd7e219dda41b064630905def][^c-71e379d589d8856371371fe77777b578][^c-b42df5dba17eac7c513648ec38e71893]
 
 *Extent: E+W+S+N.I.*
 
@@ -186,14 +186,14 @@ An Act to consolidate certain enactments relating to aviation security.
 
 - [Section 24B — Power of constable to stop and search persons, vehicles etc](part-iii/section-24b.md)
 
-#### Policing of designated airports[^key-7035b176ad2f1063c4e8e6853056c4b6]
+#### Policing of designated airports[^c-7035b176ad2f1063c4e8e6853056c4b6]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 25 — Designated airports.](part-iii/section-25.md)
 - [Section 25A — Consultation about policing of designated airports.](part-iii/section-25a.md)
 
-#### Policing of aerodromes to which Part 2A applies[^key-cb863626c4a1546d1a4feef489ca3d89]
+#### Policing of aerodromes to which Part 2A applies[^c-cb863626c4a1546d1a4feef489ca3d89]
 
 *Extent: E+W+S+N.I.*
 
@@ -244,21 +244,21 @@ SCHEDULES
 
 [^c794521]: Commencement: Act wholly in force at 23.10.1982, see s. 41(2)
 
-[^key-d2871e7d5fd9dbbbb4c939534d6c02ea]: Textual amendment: Ss. 29A-29D inserted (21.11.2005 retrospectively for specified purposes) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2006/34/section/14/2), [Sch. 1 paras. 4, 6](https://www.legislation.gov.uk/ukpga/2006/34/schedule/1/paragraph/4)
+[^c-d2871e7d5fd9dbbbb4c939534d6c02ea]: Textual amendment: Ss. 29A-29D inserted (21.11.2005 retrospectively for specified purposes) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2006/34/section/14/2), [Sch. 1 paras. 4, 6](https://www.legislation.gov.uk/ukpga/2006/34/schedule/1/paragraph/4)
 
 [^c794522]: Modification: Pt. I applied (with modifications) (6.12.2000) by [S.I. 2000/3059](https://www.legislation.gov.uk/uksi/2000/3059) , [art. 3(1)](https://www.legislation.gov.uk/uksi/2000/3059/article/3/1) , [Schs. 2](https://www.legislation.gov.uk/uksi/2000/3059/schedule/2) , [3](https://www.legislation.gov.uk/uksi/2000/3059/schedule/3) (as amended (1.5.2016) by [The Aviation Security and Piracy (Overseas Territories) (Amendment) Order 2016 (S.I. 2016/369)](https://www.legislation.gov.uk/uksi/2016/369), [arts. 3, 4](https://www.legislation.gov.uk/uksi/2016/369/article/3))
 
-[^key-9c3cd7c3819d574c17c4e7d7e32bf014]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1982/36/part/2) power to apply (with modifications) conferred (in part) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/2/2/a) (with [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/4/1)); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)
+[^c-9c3cd7c3819d574c17c4e7d7e32bf014]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1982/36/part/2) power to apply (with modifications) conferred (in part) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/2/2/a) (with [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/4/1)); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)
 
-[^key-9b5a232104f7ab7e1500bbc326441b4b]: Modification: Pt. 2 applied (with modifications) (1.9.1993) by [S.I. 1993/1073](https://www.legislation.gov.uk/uksi/1993/1073), [reg. 11](https://www.legislation.gov.uk/uksi/1993/1073/regulation/11) (as amended (21.7.2023) by [The Aviation Security (Air Cargo Agents) (Amendment) Regulations 2023 (S.I. 2023/727)](https://www.legislation.gov.uk/uksi/2023/727), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/727/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/727/regulation/2))
+[^c-9b5a232104f7ab7e1500bbc326441b4b]: Modification: Pt. 2 applied (with modifications) (1.9.1993) by [S.I. 1993/1073](https://www.legislation.gov.uk/uksi/1993/1073), [reg. 11](https://www.legislation.gov.uk/uksi/1993/1073/regulation/11) (as amended (21.7.2023) by [The Aviation Security (Air Cargo Agents) (Amendment) Regulations 2023 (S.I. 2023/727)](https://www.legislation.gov.uk/uksi/2023/727), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/727/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/727/regulation/2))
 
 [^M_C_68c9d49f-bd87-4e8f-f52a-f59ef2535a41]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1982/36/part/2) applied (with modifications) (6.12.2000) by [S.I. 2000/3059](https://www.legislation.gov.uk/uksi/2000/3059), [art. 3(1)](https://www.legislation.gov.uk/uksi/2000/3059/article/3/1), [Schs. 2](https://www.legislation.gov.uk/uksi/2000/3059/schedule/2), [3](https://www.legislation.gov.uk/uksi/2000/3059/schedule/3) (as amended (1.5.2016) by [The Aviation Security and Piracy (Overseas Territories) (Amendment) Order 2016 (S.I. 2016/369)](https://www.legislation.gov.uk/uksi/2016/369), [arts. 3](https://www.legislation.gov.uk/uksi/2016/369/article/3), [4](https://www.legislation.gov.uk/uksi/2016/369/article/4))
 
-[^key-32232a5bff15a56d03c05e3adf884223]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1982/36/part/2) applied in part (with modifications) (21.3.2024) by [The Aviation Security (Air Cargo Agents) Regulations 2024 (S.I. 2024/228)](https://www.legislation.gov.uk/uksi/2024/228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/228/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/228/regulation/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/228/regulation/12))
+[^c-32232a5bff15a56d03c05e3adf884223]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1982/36/part/2) applied in part (with modifications) (21.3.2024) by [The Aviation Security (Air Cargo Agents) Regulations 2024 (S.I. 2024/228)](https://www.legislation.gov.uk/uksi/2024/228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/228/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/228/regulation/10) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/228/regulation/12))
 
-[^key-83f3a5df7fc50175f5675a522bb0904e]: Textual amendment: S. 11A cross-heading inserted (1.4.2014) by virtue of [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/7) (with [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12)[17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-83f3a5df7fc50175f5675a522bb0904e]: Textual amendment: S. 11A cross-heading inserted (1.4.2014) by virtue of [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/7) (with [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12)[17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
-[^key-9bb5f4bd811f53b3bfcb5708912e7b5c]: Textual amendment: S. 12 cross-heading inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/9) (with [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12)[17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-9bb5f4bd811f53b3bfcb5708912e7b5c]: Textual amendment: S. 12 cross-heading inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/9) (with [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12)[17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
 [^c794643]: Textual amendment: S. 20B and preceding crossheading inserted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24) , [s. 86(1)](https://www.legislation.gov.uk/ukpga/2001/24/section/86/1)
 
@@ -268,18 +268,18 @@ SCHEDULES
 
 [^c794687]: Textual amendment: Ss. 21A-21G inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [ss. 5-7](https://www.legislation.gov.uk/ukpga/1990/31/section/5)
 
-[^key-fd563dd6604c5a099d845c1d59e331f3]: Textual amendment: Ss. 21H-21I and cross-heading inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 80](https://www.legislation.gov.uk/ukpga/2012/19/section/80), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/262/article/3/c)
+[^c-fd563dd6604c5a099d845c1d59e331f3]: Textual amendment: Ss. 21H-21I and cross-heading inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 80](https://www.legislation.gov.uk/ukpga/2012/19/section/80), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/262/article/3/c)
 
-[^key-bbfe29ed293fa98abff3c91079910722]: Modification: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1982/36/part/2A) power to apply (with modifications) conferred (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/2/2/b) (with [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/4/1)); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)
+[^c-bbfe29ed293fa98abff3c91079910722]: Modification: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1982/36/part/2A) power to apply (with modifications) conferred (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/2/2/b) (with [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/4/1)); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)
 
-[^key-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
+[^c-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
 
-[^key-a9f0506fd7e219dda41b064630905def]: Modification: Pt. III modified (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 18](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/18) (with [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12)[17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-a9f0506fd7e219dda41b064630905def]: Modification: Pt. III modified (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 18](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/18) (with [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12)[17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
-[^key-71e379d589d8856371371fe77777b578]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1982/36/part/III) power to apply (with modifications) conferred (in part) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/2/2/c) (with [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/4/1)); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)
+[^c-71e379d589d8856371371fe77777b578]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1982/36/part/III) power to apply (with modifications) conferred (in part) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 5 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/2/2/c) (with [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/5/paragraph/4/1)); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ddd)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ddd)
 
-[^key-b42df5dba17eac7c513648ec38e71893]: Textual amendment: Words in Pt. III heading inserted (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) , [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1) , [Sch. 14 para. 8(2)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/8/2) ; [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709) , [art. 3(p)](https://www.legislation.gov.uk/uksi/2007/709/article/3/p) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6) )
+[^c-b42df5dba17eac7c513648ec38e71893]: Textual amendment: Words in Pt. III heading inserted (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) , [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1) , [Sch. 14 para. 8(2)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/8/2) ; [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709) , [art. 3(p)](https://www.legislation.gov.uk/uksi/2007/709/article/3/p) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6) )
 
-[^key-7035b176ad2f1063c4e8e6853056c4b6]: Textual amendment: S. 25 cross-heading repealed (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/2) , [Sch. 8 Pt. 7](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/7) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s/u)
+[^c-7035b176ad2f1063c4e8e6853056c4b6]: Textual amendment: S. 25 cross-heading repealed (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/2) , [Sch. 8 Pt. 7](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/7) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s/u)
 
-[^key-cb863626c4a1546d1a4feef489ca3d89]: Textual amendment: S. 25AA and cross-heading inserted (29.1.2010 for E.W.S., 1.4.2010 for N.I.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/4) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s) ; S.I. 2010/507, art. 5(u)
+[^c-cb863626c4a1546d1a4feef489ca3d89]: Textual amendment: S. 25AA and cross-heading inserted (29.1.2010 for E.W.S., 1.4.2010 for N.I.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/4) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s) ; S.I. 2010/507, art. 5(u)

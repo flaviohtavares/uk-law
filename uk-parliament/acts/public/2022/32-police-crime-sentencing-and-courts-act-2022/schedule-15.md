@@ -22,9 +22,9 @@ summary: ''
 
 Section 154
 
-**1.**[^key-6c64423485b7c0f508d0f733ddb42ab8] The Sentencing Code is amended as follows.
+**1.**[^c-6c64423485b7c0f508d0f733ddb42ab8] The Sentencing Code is amended as follows.
 
-**2.**[^key-f1965f511312229fa83c8fc7fe5a3a36] In section 201 (community order: community order requirements table), after the entry in the table relating to the drug rehabilitation requirement, insert—
+**2.**[^c-f1965f511312229fa83c8fc7fe5a3a36] In section 201 (community order: community order requirements table), after the entry in the table relating to the drug rehabilitation requirement, insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -32,13 +32,13 @@ Section 154
 
 .
 
-**3.**[^key-409b81b705d89f370248c1ecf859d770] In section 207 (community order: availability of particular requirements), after subsection (3) insert—
+**3.**[^c-409b81b705d89f370248c1ecf859d770] In section 207 (community order: availability of particular requirements), after subsection (3) insert—
 
 > Drug testing requirement
 >
 > (3A) A drug testing requirement is not an available requirement if the offender was convicted of the offence before the day on which section 154 of the Police, Crime, Sentencing and Courts Act 2022 came into force.
 
-**4.**[^key-190cd0c6d7dd70eacc4d74cae70f6437] In section 287 (suspended sentence order: community requirements table), after the entry in the table relating to the drug rehabilitation requirement, insert—
+**4.**[^c-190cd0c6d7dd70eacc4d74cae70f6437] In section 287 (suspended sentence order: community requirements table), after the entry in the table relating to the drug rehabilitation requirement, insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -46,13 +46,13 @@ Section 154
 
 .
 
-**5.**[^key-d330e3221a1a91c777e2585f548bb0b0] In section 291 (suspended sentence order: availability of particular requirements), after subsection (3) insert—
+**5.**[^c-d330e3221a1a91c777e2585f548bb0b0] In section 291 (suspended sentence order: availability of particular requirements), after subsection (3) insert—
 
 > Drug testing requirement
 >
 > (3A) A drug testing requirement is not an available requirement if the offender was convicted of the offence before the day on which section 154 of the Police, Crime, Sentencing and Courts Act 2022 came into force.
 
-**6.**[^key-c58fe9faa56a3b6a2669ae3578898804] In Schedule 9 (community orders and suspended sentence orders: requirements), after Part 10 insert—
+**6.**[^c-c58fe9faa56a3b6a2669ae3578898804] In Schedule 9 (community orders and suspended sentence orders: requirements), after Part 10 insert—
 
 > **PART 10A — Drug testing requirement**
 >
@@ -96,14 +96,14 @@ Section 154
 
 ## Annotations
 
-[^key-6c64423485b7c0f508d0f733ddb42ab8]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/1) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
+[^c-6c64423485b7c0f508d0f733ddb42ab8]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/1) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
 
-[^key-f1965f511312229fa83c8fc7fe5a3a36]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/2) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
+[^c-f1965f511312229fa83c8fc7fe5a3a36]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/2) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
 
-[^key-409b81b705d89f370248c1ecf859d770]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/3) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
+[^c-409b81b705d89f370248c1ecf859d770]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/3) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
 
-[^key-190cd0c6d7dd70eacc4d74cae70f6437]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/4) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
+[^c-190cd0c6d7dd70eacc4d74cae70f6437]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/4) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
 
-[^key-d330e3221a1a91c777e2585f548bb0b0]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/5) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
+[^c-d330e3221a1a91c777e2585f548bb0b0]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/5) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
 
-[^key-c58fe9faa56a3b6a2669ae3578898804]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/6) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)
+[^c-c58fe9faa56a3b6a2669ae3578898804]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/15/paragraph/6) in force at 28.6.2022, see [s. 208(5)(s)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/s)

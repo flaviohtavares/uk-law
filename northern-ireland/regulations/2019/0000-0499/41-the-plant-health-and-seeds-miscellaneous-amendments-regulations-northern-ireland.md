@@ -128,13 +128,13 @@ The Department of Agriculture, Environment and Rural Affairs is designated for t
 
 ## PART 4 — Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 2006
 
-### 6. The Plant Health (Wood and Bark) Order (Northern Ireland) 2006[^key-6cd5fd011d6c666525e214fb8c6bc610]
+### 6. The Plant Health (Wood and Bark) Order (Northern Ireland) 2006[^c-6cd5fd011d6c666525e214fb8c6bc610]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Amendment of the Plant Health Order (Northern Ireland) 2018
 
-### 7. The Plant Health Order (Northern Ireland) 2018[^key-d75b8980e0a8c7931a89e33deb85967f]
+### 7. The Plant Health Order (Northern Ireland) 2018[^c-d75b8980e0a8c7931a89e33deb85967f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -176,6 +176,6 @@ An Explanatory Memorandum for this instrument is available alongside the instrum
 
 [^c23617301]: Marginal citation: S.R. [2017 No. 119](https://www.legislation.gov.uk/ukcm/2017/119)
 
-[^key-6cd5fd011d6c666525e214fb8c6bc610]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2019/41/regulation/6) revoked (23.12.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [55(1)(c)](https://www.legislation.gov.uk/nisr/2020/293/regulation/55/1/c)
+[^c-6cd5fd011d6c666525e214fb8c6bc610]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2019/41/regulation/6) revoked (23.12.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [55(1)(c)](https://www.legislation.gov.uk/nisr/2020/293/regulation/55/1/c)
 
-[^key-d75b8980e0a8c7931a89e33deb85967f]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2019/41/regulation/7) revoked (23.12.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [55(1)(c)](https://www.legislation.gov.uk/nisr/2020/293/regulation/55/1/c)
+[^c-d75b8980e0a8c7931a89e33deb85967f]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2019/41/regulation/7) revoked (23.12.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [55(1)(c)](https://www.legislation.gov.uk/nisr/2020/293/regulation/55/1/c)

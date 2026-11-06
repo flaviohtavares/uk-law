@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Effect of right of access on rights and liabilities of owners.[^key-ec22743954e2555a447deb8c6da5e052][^key-cc6f72c635415694bc0d33e292df8acb]
+## 12. Effect of right of access on rights and liabilities of owners.[^c-ec22743954e2555a447deb8c6da5e052][^c-cc6f72c635415694bc0d33e292df8acb]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec22743954e2555a447deb8c6da5e052]: Commencement: S. 12 in force at 19.9.2004 for E. by [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/b)
+[^c-ec22743954e2555a447deb8c6da5e052]: Commencement: S. 12 in force at 19.9.2004 for E. by [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/b)
 
-[^key-cc6f72c635415694bc0d33e292df8acb]: Commencement: S. 12 in force at 28.5.2005 for W. by [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/423/article/2/b)
+[^c-cc6f72c635415694bc0d33e292df8acb]: Commencement: S. 12 in force at 28.5.2005 for W. by [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/423/article/2/b)

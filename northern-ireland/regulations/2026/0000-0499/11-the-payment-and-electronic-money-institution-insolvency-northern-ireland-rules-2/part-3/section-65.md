@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Complaint[^key-6679cdee84623e84640d12cf891d5fe5]
+## 65. Complaint[^c-6679cdee84623e84640d12cf891d5fe5]
 
 *Extent: N.I.*
 
@@ -66,4 +66,4 @@ and, where satisfied that there has been prejudice, take such action as the rele
 
 ## Annotations
 
-[^key-6679cdee84623e84640d12cf891d5fe5]: Commencement: Rule 65 not in operation at made date, see [rule 2(2)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/2)
+[^c-6679cdee84623e84640d12cf891d5fe5]: Commencement: Rule 65 not in operation at made date, see [rule 2(2)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Notice of meeting by advertisement only[^key-fdc2e13a922e0506050435ac1b3d2373]
+## 72. Notice of meeting by advertisement only[^c-fdc2e13a922e0506050435ac1b3d2373]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdc2e13a922e0506050435ac1b3d2373]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2011/1301/rule/72) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-fdc2e13a922e0506050435ac1b3d2373]: Commencement: [Rule 72](https://www.legislation.gov.uk/uksi/2011/1301/rule/72) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -43,7 +43,7 @@ Section 67(1).
 **7.** In section 33 (effect of order of judge in probate proceedings)—
 
 - (a) omit “a judge of”; and
-- (b)[^key-81470d741bbdd7dc476f969331280cad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-81470d741bbdd7dc476f969331280cad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In section 58(1) (persons who may take affidavits for use in county courts)—
 
@@ -56,4 +56,4 @@ Section 67(1).
 
 [^c2579641]: Textual amendment: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/1985/61/schedule/7/paragraph/4) repealed by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 125(7)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/7), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/41/schedule/20)
 
-[^key-81470d741bbdd7dc476f969331280cad]: Textual amendment: [Sch. 7 para. 7(b)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/7/paragraph/7/b) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-81470d741bbdd7dc476f969331280cad]: Textual amendment: [Sch. 7 para. 7(b)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/7/paragraph/7/b) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

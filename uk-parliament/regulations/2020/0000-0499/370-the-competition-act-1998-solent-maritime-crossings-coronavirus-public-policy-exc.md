@@ -32,7 +32,7 @@ summary: ''
 
 Competition
 
-The Competition Act 1998 (Solent Maritime Crossings) (Coronavirus) (Public Policy Exclusion) Order 2020 (revoked)[^key-541e4dd240b0165fdc60acfa5699a4fa]
+The Competition Act 1998 (Solent Maritime Crossings) (Coronavirus) (Public Policy Exclusion) Order 2020 (revoked)[^c-541e4dd240b0165fdc60acfa5699a4fa]
 
 Made
 
@@ -44,44 +44,44 @@ at 2.45 p.m. on 27th March 2020
 
 Coming into force in accordance with article 1
 
-[^key-541e4dd240b0165fdc60acfa5699a4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-541e4dd240b0165fdc60acfa5699a4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-541e4dd240b0165fdc60acfa5699a4fa]
+## 1. Citation and commencement[^c-541e4dd240b0165fdc60acfa5699a4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-541e4dd240b0165fdc60acfa5699a4fa]
+## 2. Interpretation[^c-541e4dd240b0165fdc60acfa5699a4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Qualifying activities[^key-541e4dd240b0165fdc60acfa5699a4fa]
+## 3. Qualifying activities[^c-541e4dd240b0165fdc60acfa5699a4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exclusion from the Chapter I prohibition[^key-541e4dd240b0165fdc60acfa5699a4fa]
+## 4. Exclusion from the Chapter I prohibition[^c-541e4dd240b0165fdc60acfa5699a4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. ...[^key-541e4dd240b0165fdc60acfa5699a4fa]
+## 5. ...[^c-541e4dd240b0165fdc60acfa5699a4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Notification to the Secretary of State[^key-541e4dd240b0165fdc60acfa5699a4fa]
+## 6. Notification to the Secretary of State[^c-541e4dd240b0165fdc60acfa5699a4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Register of agreements[^key-541e4dd240b0165fdc60acfa5699a4fa]
+## 7. Register of agreements[^c-541e4dd240b0165fdc60acfa5699a4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-541e4dd240b0165fdc60acfa5699a4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-541e4dd240b0165fdc60acfa5699a4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-541e4dd240b0165fdc60acfa5699a4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-541e4dd240b0165fdc60acfa5699a4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-541e4dd240b0165fdc60acfa5699a4fa]: Textual amendment: Order revoked (29.7.2021) by [The Competition Act 1998 (Coronavirus) (Public Policy Exclusions) (Revocations) Order 2021 (S.I. 2021/773)](https://www.legislation.gov.uk/uksi/2021/773), [art. 1](https://www.legislation.gov.uk/uksi/2021/773/article/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2021/773/schedule/paragraph/1/b)
+[^c-541e4dd240b0165fdc60acfa5699a4fa]: Textual amendment: Order revoked (29.7.2021) by [The Competition Act 1998 (Coronavirus) (Public Policy Exclusions) (Revocations) Order 2021 (S.I. 2021/773)](https://www.legislation.gov.uk/uksi/2021/773), [art. 1](https://www.legislation.gov.uk/uksi/2021/773/article/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2021/773/schedule/paragraph/1/b)

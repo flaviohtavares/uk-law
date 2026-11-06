@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Code of practice: Authority[^key-07ccd6c035830a62d6c8388bccb1ea8c]
+## 47. Code of practice: Authority[^c-07ccd6c035830a62d6c8388bccb1ea8c]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ccd6c035830a62d6c8388bccb1ea8c]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2003/20/section/47) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(dd)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/dd)
+[^c-07ccd6c035830a62d6c8388bccb1ea8c]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2003/20/section/47) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(dd)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/dd)

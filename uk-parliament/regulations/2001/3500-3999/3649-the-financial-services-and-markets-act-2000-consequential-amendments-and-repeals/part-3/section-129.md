@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Discharge of guaranteed minimum pension secured by insurance policies or annuity contracts[^key-ad95e023c12998b7ce472120cafedb35]
+## 129. Discharge of guaranteed minimum pension secured by insurance policies or annuity contracts[^c-ad95e023c12998b7ce472120cafedb35]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad95e023c12998b7ce472120cafedb35]: Commencement: Art. 129 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ad95e023c12998b7ce472120cafedb35]: Commencement: Art. 129 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

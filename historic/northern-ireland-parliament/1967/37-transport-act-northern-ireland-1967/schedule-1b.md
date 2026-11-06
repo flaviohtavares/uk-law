@@ -57,7 +57,7 @@ Section 67K.
 
 (1) Subject to sub‐paragraph (2), a penalty fare—
 
-- (a) shall be an amount equal to the full single fare for the journey the person has made plus £50[^key-b202b99cb11e037c01ddce207cc15f6c]; and
+- (a) shall be an amount equal to the full single fare for the journey the person has made plus £50[^c-b202b99cb11e037c01ddce207cc15f6c]; and
 - (b) shall be payable to the person providing the service on which the requirement to pay the penalty fare is made before the expiration of the period of 21 days beginning with the day following the day on which the journey is completed.
 
 (2) The Department may by order, made subject to negative resolution, alter the amount of the penalty fare specified in sub‐paragraph (1)( *a*).
@@ -121,4 +121,4 @@ Section 67K.
 
 [^c17019431]: Textual amendment: [1990 NI 7](https://www.legislation.gov.uk/nisi/1990)
 
-[^key-b202b99cb11e037c01ddce207cc15f6c]: Textual amendment: Sum in Sch. 1B para. 4(1)(a) substituted (13.6.2016) by [The Penalty Fares (Increase) Order (Northern Ireland) 2016 (S.R. 2016/194)](https://www.legislation.gov.uk/nisr/2016/194), [arts. 1](https://www.legislation.gov.uk/nisr/2016/194/article/1), [2](https://www.legislation.gov.uk/nisr/2016/194/article/2)
+[^c-b202b99cb11e037c01ddce207cc15f6c]: Textual amendment: Sum in Sch. 1B para. 4(1)(a) substituted (13.6.2016) by [The Penalty Fares (Increase) Order (Northern Ireland) 2016 (S.R. 2016/194)](https://www.legislation.gov.uk/nisr/2016/194), [arts. 1](https://www.legislation.gov.uk/nisr/2016/194/article/1), [2](https://www.legislation.gov.uk/nisr/2016/194/article/2)

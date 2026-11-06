@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Order for examination, etc[^key-9d94c86fad43781f7e50550455fa3300]
+## 91. Order for examination, etc[^c-9d94c86fad43781f7e50550455fa3300]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d94c86fad43781f7e50550455fa3300]: Commencement: [Rule 91](https://www.legislation.gov.uk/uksi/2007/3141/rule/91) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-9d94c86fad43781f7e50550455fa3300]: Commencement: [Rule 91](https://www.legislation.gov.uk/uksi/2007/3141/rule/91) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

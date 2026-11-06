@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Animal By-Products (Amendment) Regulations 2009 (revoked)[^key-5cef8ad50d601dd826390de3ecefe07d]
+The Animal By-Products (Amendment) Regulations 2009 (revoked)[^c-5cef8ad50d601dd826390de3ecefe07d]
 
 Made
 
@@ -48,23 +48,23 @@ Coming into force
 
 2nd May 2009
 
-[^key-5cef8ad50d601dd826390de3ecefe07d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5cef8ad50d601dd826390de3ecefe07d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-5cef8ad50d601dd826390de3ecefe07d]
+## 1. Citation, application and commencement[^c-5cef8ad50d601dd826390de3ecefe07d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Animal By-Products Regulations 2005[^key-5cef8ad50d601dd826390de3ecefe07d]
+## 2. Amendment of the Animal By-Products Regulations 2005[^c-5cef8ad50d601dd826390de3ecefe07d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5cef8ad50d601dd826390de3ecefe07d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5cef8ad50d601dd826390de3ecefe07d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-5cef8ad50d601dd826390de3ecefe07d]EXPLANATORY NOTE
+[^c-5cef8ad50d601dd826390de3ecefe07d]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -76,4 +76,4 @@ An impact assessment has not been prepared for these Regulations, due to the nee
 
 ## Annotations
 
-[^key-5cef8ad50d601dd826390de3ecefe07d]: Textual amendment: Regulations revoked (E.) (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), regs. 1, [28](https://www.legislation.gov.uk/uksi/2011/881/regulation/28)
+[^c-5cef8ad50d601dd826390de3ecefe07d]: Textual amendment: Regulations revoked (E.) (23.3.2011) by [The Animal By-Products (Enforcement) (England) Regulations 2011 (S.I. 2011/881)](https://www.legislation.gov.uk/uksi/2011/881), regs. 1, [28](https://www.legislation.gov.uk/uksi/2011/881/regulation/28)

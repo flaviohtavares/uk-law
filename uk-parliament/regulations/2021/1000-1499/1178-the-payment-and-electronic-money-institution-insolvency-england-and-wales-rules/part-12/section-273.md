@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 273. Application of Chapter 4[^key-7aa5aef3db66aa4e36e333765d24ffba]
+## 273. Application of Chapter 4[^c-7aa5aef3db66aa4e36e333765d24ffba]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies where a return, notice, document or other information is to
 
 ## Annotations
 
-[^key-7aa5aef3db66aa4e36e333765d24ffba]: Commencement: Rule 273 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-7aa5aef3db66aa4e36e333765d24ffba]: Commencement: Rule 273 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Interpretation[^key-4f3212775b67a6f43fa295920ea0641d]
+## 115. Interpretation[^c-4f3212775b67a6f43fa295920ea0641d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Part, “claim date” has the meaning given in regulation 117 (claim fo
 
 ## Annotations
 
-[^key-4f3212775b67a6f43fa295920ea0641d]: Commencement: Reg. 115 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-4f3212775b67a6f43fa295920ea0641d]: Commencement: Reg. 115 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

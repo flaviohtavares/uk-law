@@ -72,8 +72,8 @@ In accordance with section 317(1) of the Pensions Act 2004 the Secretary of Stat
   - (a) by some or all of the members of the scheme (otherwise than wholly or mainly by members who are directors of companies which are employers in relation to the scheme); or
   - (b) by an organisation which represents some or all of the members of the scheme (other than wholly or mainly members who are such directors);
 - “insurer” (subject to paragraph (5), means—
-  - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 [^c1544635] (permission to carry on regulated activities) to effect or carry out contracts of long-term insurance;[^key-f4054f8efbc181a3816240b8505b2897]...
-  - (b) [^key-f4054f8efbc181a3816240b8505b2897]...
+  - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 [^c1544635] (permission to carry on regulated activities) to effect or carry out contracts of long-term insurance;[^c-f4054f8efbc181a3816240b8505b2897]...
+  - (b) [^c-f4054f8efbc181a3816240b8505b2897]...
 - “**registered pension scheme**” has the meaning given in section 150(2) of the Finance Act 2004 [^c1544636] (meaning of pension scheme);
 - “**relevant centralised scheme**” means a scheme in which—
   - (a) membership is open to employees of more than one employer under a single scheme;
@@ -89,7 +89,7 @@ In accordance with section 317(1) of the Pensions Act 2004 the Secretary of Stat
 - “**relevant executive pension scheme**” means a scheme—
   - (a) in relation to which the company is the only employer and the sole trustee; and
   - (b) the members of which are either current or former directors of the company and which includes at least one-third of the current directors;
-- “relevant small occupational pension scheme” means a scheme with fewer than twelve members, where—[^key-8e4eace82183571887b465d106875f28]
+- “relevant small occupational pension scheme” means a scheme with fewer than twelve members, where—[^c-8e4eace82183571887b465d106875f28]
   - (a) all the members are trustees of the scheme and either—
     - (i) the provisions of the scheme provide that any decision made by the trustees is made by the unanimous agreement of the trustees who are members of the scheme, or
     - (ii) the scheme has a trustee who is independent in relation to the scheme for the purposes of section 23 of the 1995 Act (power to appoint independent trustees), and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section; or
@@ -135,16 +135,16 @@ For the purposes of section 241(8)(c) of the Act (requirement for member-nominat
 - (g) is a former old code scheme;
 - (h) is a section 615(6) scheme;
 - (i) is set up under section 2 of the Parliamentary and other Pensions Act 1987 [^c1544643] (power to provide for pensions for Members of the House of Commons etc.);
-- (ia)[^key-b61d72339c175cfdba0d2cb15f1ec3dd] is a scheme, provision for which is made by virtue of section 81(3) of the Scotland Act 1998 (remuneration of members of the Parliament and Executive);
+- (ia)[^c-b61d72339c175cfdba0d2cb15f1ec3dd] is a scheme, provision for which is made by virtue of section 81(3) of the Scotland Act 1998 (remuneration of members of the Parliament and Executive);
 - (j) has been modified under Schedule 5 to the Coal Industry Act 1994 [^c1544644] (pension provision in connection with restructuring);
 - (k) is a scheme where the sole trustee, or all the trustees are independent within the meaning given by section 23(3) of the 1995 Act;
 - (l) is a stakeholder pension scheme within the meaning of section 1 of the Welfare Reform and Pensions Act 1999 [^c1544645] (meaning of “stakeholder pension scheme”);
 - (m) is a small insured scheme;
-- (n) is independent of the employer by virtue of the employer having been dissolved or liquidated prior to 6th April 2005; [^key-91634c42858689831f65bb086cfb6ccb]...
+- (n) is independent of the employer by virtue of the employer having been dissolved or liquidated prior to 6th April 2005; [^c-91634c42858689831f65bb086cfb6ccb]...
 - (o) is a scheme where the trustee is a body governed by church legislation.
-- (p)[^key-bde0b5aa0879ba3f0ec728fd810140c3] is set up under section 18 of the Government of Wales Act 1998;
+- (p)[^c-bde0b5aa0879ba3f0ec728fd810140c3] is set up under section 18 of the Government of Wales Act 1998;
 - (q) is designated as an existing scheme by virtue of article 15 of the Railway Pensions (Protection and Designation of Schemes) Order 1994 (designation of existing schemes).
-- (r)[^key-9317633902f7cf26d19235b7816294b0] is established under section 67 of the Pensions Act 2008.
+- (r)[^c-9317633902f7cf26d19235b7816294b0] is established under section 67 of the Pensions Act 2008.
 
 ## 3. Prescribed exemptions from requirement to have member-nominated directors of corporate trustees
 
@@ -162,12 +162,12 @@ For the purposes of section 242(10) of the Act (requirement for member-nominated
 - (j) has been modified under Schedule 5 to the Coal Industry Act 1994;
 - (k) is a stakeholder pension scheme within the meaning of section 1 of the Welfare Reform and Pensions Act 1999;
 - (l) is a scheme which is a relevant executive pension scheme in relation to the company;
-- (m) is a scheme where all the directors (or the sole director) of the trustee (or trustees)[^key-62fee8c8a9c70da2f6aed7c03f49d56f] are independent within the meaning given by section 23(3) of the 1995 Act;
+- (m) is a scheme where all the directors (or the sole director) of the trustee (or trustees)[^c-62fee8c8a9c70da2f6aed7c03f49d56f] are independent within the meaning given by section 23(3) of the 1995 Act;
 - (n) is a small insured scheme;
 - (o) is independent of the employer by virtue of the employer having been dissolved or liquidated prior to 6th April 2005;
-- (p) is a scheme which is a relevant wholly insured scheme;[^key-1066adaf5877e6e56a6d97a2c49921d1]...
+- (p) is a scheme which is a relevant wholly insured scheme;[^c-1066adaf5877e6e56a6d97a2c49921d1]...
 - (q) is a scheme where the trustee is a body governed by church legislation.
-- (r)[^key-6043643cb09e72ec620d82e4b9005a20] is set up under section 18 of the Government of Wales Act 1998;
+- (r)[^c-6043643cb09e72ec620d82e4b9005a20] is set up under section 18 of the Government of Wales Act 1998;
 - (s) is designated as an existing scheme by virtue of article 15 of the Railway Pensions (Protection and Designation of Schemes) Order 1994.
 
 ## 4. Transitional
@@ -181,7 +181,7 @@ whichever is the earlier.
 
 ## 5. Modifications of sections 241 and 242 of the Act
 
-(1) Sections 241 (requirement for member-nominated trustees) and 242 (requirement for member-nominated directors of corporate trustees) of the Act are modified in their application to the cases prescribed in paragraphs (2) to (7)[^key-6ffb3b491263fd833248884a827d427a].
+(1) Sections 241 (requirement for member-nominated trustees) and 242 (requirement for member-nominated directors of corporate trustees) of the Act are modified in their application to the cases prescribed in paragraphs (2) to (7)[^c-6ffb3b491263fd833248884a827d427a].
 
 (2) In relation to a scheme where the scheme rules contain provisions requiring that there be more than one-third member-nominated trustees or directors as the case may be, sections 241 and 242 of the Act are modified as if—
 
@@ -230,7 +230,7 @@ whichever is the earlier.
 
 .
 
-(7)[^key-16f5569510dde5f5da8b316988dc64aa] In relation to a scheme where—
+(7)[^c-16f5569510dde5f5da8b316988dc64aa] In relation to a scheme where—
 
 - (a) every trustee is a company,
 - (b) at least one trustee only has directors who are independent (or a sole director who is independent) within the meaning given by section 23(3) of the 1995 Act, and
@@ -265,8 +265,8 @@ Regulation 6
 | The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 | S.I. 1997/786 | Paragraph 5 of Schedule 1, and Schedule 2 to the Regulations (in so far as it relates to the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996) |
 | The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 | S.I. 1999/3198 | Regulation 7 |
 | The Stakeholder Pension Schemes Regulations 2000 | S.I. 2000/1403 | Regulation 30 |
-| The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 | [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) [^key-cb4dd020f89739bc11562faeaa518115] | Article 524 |
-| The Occupational Pension Schemes (Member-nominated Trustees and Directors) Amendment Regulations 2002 | [S.I. 2002/2327](https://www.legislation.gov.uk/uksi/2002/2327) [^key-42a7492479208d51ca67a2c8eb443507] | The whole of the Regulations |
+| The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 | [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) [^c-cb4dd020f89739bc11562faeaa518115] | Article 524 |
+| The Occupational Pension Schemes (Member-nominated Trustees and Directors) Amendment Regulations 2002 | [S.I. 2002/2327](https://www.legislation.gov.uk/uksi/2002/2327) [^c-42a7492479208d51ca67a2c8eb443507] | The whole of the Regulations |
 
 *(This note is not part of the Regulations)*
 
@@ -294,11 +294,11 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1544635]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-f4054f8efbc181a3816240b8505b2897]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4054f8efbc181a3816240b8505b2897]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/32/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1544636]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-8e4eace82183571887b465d106875f28]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/2) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/2)
+[^c-8e4eace82183571887b465d106875f28]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/2) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/2)
 
 [^c1544638]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1). Section 615(6) was amended by paragraph 11 of Schedule 10 to the [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16).
 
@@ -312,27 +312,27 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1544643]: Marginal citation: [1987 c. 45](https://www.legislation.gov.uk/ukpga/1987/45). Section 2 was amended by section 2(1) of the Ministerial and other [Pensions and Salaries Act 1991 (c. 5)](https://www.legislation.gov.uk/ukpga/1991/5).
 
-[^key-b61d72339c175cfdba0d2cb15f1ec3dd]: Textual amendment: Reg. 2(ia) inserted (1.9.2009) by [Occupational Pension Schemes (Scottish Parliamentary Pensions Act 2009) Regulations 2009 (S.I. 2009/1906)](https://www.legislation.gov.uk/uksi/2009/1906), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1906/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/1906/schedule/paragraph/9)
+[^c-b61d72339c175cfdba0d2cb15f1ec3dd]: Textual amendment: Reg. 2(ia) inserted (1.9.2009) by [Occupational Pension Schemes (Scottish Parliamentary Pensions Act 2009) Regulations 2009 (S.I. 2009/1906)](https://www.legislation.gov.uk/uksi/2009/1906), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1906/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/1906/schedule/paragraph/9)
 
 [^c1544644]: Marginal citation: [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21). Schedule 5 was amended by paragraph 64 of Schedule 1 to the [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18).
 
 [^c1544645]: Marginal citation: 1999\. c.30. Section 1 was amended by sections 285 of, and paragraphs 11 and 12 of Schedule 12 to, the Act.
 
-[^key-91634c42858689831f65bb086cfb6ccb]: Textual amendment: Word in reg. 2(n) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(3)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/3/a)
+[^c-91634c42858689831f65bb086cfb6ccb]: Textual amendment: Word in reg. 2(n) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(3)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/3/a)
 
-[^key-bde0b5aa0879ba3f0ec728fd810140c3]: Textual amendment: Reg. 2(p)(q) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(3)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/3/b)
+[^c-bde0b5aa0879ba3f0ec728fd810140c3]: Textual amendment: Reg. 2(p)(q) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(3)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/3/b)
 
-[^key-9317633902f7cf26d19235b7816294b0]: Textual amendment: Reg. 2(r) added (5.7.2010) by [National Employment Savings Trust (Consequential Provisions) Order 2010 (S.I. 2010/9)](https://www.legislation.gov.uk/uksi/2010/9), [regs. 1](https://www.legislation.gov.uk/uksi/2010/9/article/1),[3](https://www.legislation.gov.uk/uksi/2010/9/regulation/3)
+[^c-9317633902f7cf26d19235b7816294b0]: Textual amendment: Reg. 2(r) added (5.7.2010) by [National Employment Savings Trust (Consequential Provisions) Order 2010 (S.I. 2010/9)](https://www.legislation.gov.uk/uksi/2010/9), [regs. 1](https://www.legislation.gov.uk/uksi/2010/9/article/1),[3](https://www.legislation.gov.uk/uksi/2010/9/regulation/3)
 
-[^key-62fee8c8a9c70da2f6aed7c03f49d56f]: Textual amendment: Words in [reg. 3(m)](https://www.legislation.gov.uk/uksi/2006/714/regulation/3/m) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/22/2)
+[^c-62fee8c8a9c70da2f6aed7c03f49d56f]: Textual amendment: Words in [reg. 3(m)](https://www.legislation.gov.uk/uksi/2006/714/regulation/3/m) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/22/2)
 
-[^key-1066adaf5877e6e56a6d97a2c49921d1]: Textual amendment: Word in reg. 3(p) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(4)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/4/a)
+[^c-1066adaf5877e6e56a6d97a2c49921d1]: Textual amendment: Word in reg. 3(p) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(4)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/4/a)
 
-[^key-6043643cb09e72ec620d82e4b9005a20]: Textual amendment: Reg. 3(r)(s) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(4)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/4/b)
+[^c-6043643cb09e72ec620d82e4b9005a20]: Textual amendment: Reg. 3(r)(s) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(4)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/4/b)
 
 [^c1544646]: Marginal citation: [S.I. 1996/1216](https://www.legislation.gov.uk/uksi/1996/1216), the relevant amending instruments are [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and [S.I. 2002/2327](https://www.legislation.gov.uk/uksi/2002/2327).
 
-[^key-6ffb3b491263fd833248884a827d427a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/5/1) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/22/3/a)
+[^c-6ffb3b491263fd833248884a827d427a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/5/1) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/22/3/a)
 
 [^c1544647]: Marginal citation: Section 16 is repealed by Part 1 of Schedule 13 to the Act.
 
@@ -340,8 +340,8 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1544649]: Marginal citation: [S.I. 1996/1216](https://www.legislation.gov.uk/uksi/1996/1216).
 
-[^key-16f5569510dde5f5da8b316988dc64aa]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2006/714/regulation/5/7) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/22/3/b)
+[^c-16f5569510dde5f5da8b316988dc64aa]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2006/714/regulation/5/7) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/22/3/b)
 
-[^key-cb4dd020f89739bc11562faeaa518115]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(5)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/5/a)
+[^c-cb4dd020f89739bc11562faeaa518115]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(5)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/5/a)
 
-[^key-42a7492479208d51ca67a2c8eb443507]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(5)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/5/b)
+[^c-42a7492479208d51ca67a2c8eb443507]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [21(5)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/21/5/b)

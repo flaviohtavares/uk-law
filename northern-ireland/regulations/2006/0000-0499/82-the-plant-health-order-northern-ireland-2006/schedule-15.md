@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 15 — Special measures for the control of European populations of Potato Cyst Nematode[^key-d1582697420cbc312935f90ee9f87c1d]
+## SCHEDULE 15 — Special measures for the control of European populations of Potato Cyst Nematode[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Article 38(7)
 
-### 1. Interpretation and application of Schedule 15[^key-d1582697420cbc312935f90ee9f87c1d]
+### 1. Interpretation and application of Schedule 15[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Demarcation of the field[^key-d1582697420cbc312935f90ee9f87c1d]
+### 2. Demarcation of the field[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Prohibition on planting of potatoes[^key-d1582697420cbc312935f90ee9f87c1d]
+### 3. Prohibition on planting of potatoes[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Suppression of Potato Cyst Nematode[^key-d1582697420cbc312935f90ee9f87c1d]
+### 4. Suppression of Potato Cyst Nematode[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Controls on contaminated seed potatoes etc.[^key-d1582697420cbc312935f90ee9f87c1d]
+### 5. Controls on contaminated seed potatoes etc.[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Controls on contaminated bulbs etc.[^key-d1582697420cbc312935f90ee9f87c1d]
+### 6. Controls on contaminated bulbs etc.[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)
+[^c-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Duty to report the appointment of manager to service provider[^key-edade6c95bf909662cc8faa01895d974]
+## 53. Duty to report the appointment of manager to service provider[^c-edade6c95bf909662cc8faa01895d974]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ On the appointment of a manager in accordance with regulation 50(1), the respons
 
 ## Annotations
 
-[^key-edade6c95bf909662cc8faa01895d974]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2019/169/regulation/53) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-edade6c95bf909662cc8faa01895d974]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2019/169/regulation/53) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Vacancy in the office of President[^key-97a1007e26e4f7ad97954ad1902cbfdd]
+## 131. Vacancy in the office of President[^c-97a1007e26e4f7ad97954ad1902cbfdd]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97a1007e26e4f7ad97954ad1902cbfdd]: Commencement: [S. 131](https://www.legislation.gov.uk/mwa/2011/1/section/131) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(i)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/i)
+[^c-97a1007e26e4f7ad97954ad1902cbfdd]: Commencement: [S. 131](https://www.legislation.gov.uk/mwa/2011/1/section/131) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(i)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/i)

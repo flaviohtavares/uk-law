@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Universal credit: costs of claimants who rent accommodation[^key-c3dae0cf05d4acd5aef508f0f7b7b573]
+## 29. Universal credit: costs of claimants who rent accommodation[^c-c3dae0cf05d4acd5aef508f0f7b7b573]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the Secretary of State may by regulations made by statutory instrument amend the
 
 ## Annotations
 
-[^key-c3dae0cf05d4acd5aef508f0f7b7b573]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2016/11/section/29) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/f)
+[^c-c3dae0cf05d4acd5aef508f0f7b7b573]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2016/11/section/29) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/f)

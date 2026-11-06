@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Time limits for prosecutions[^key-8994c1101cf9d0c9c2ecc3758c038651][^key-13483510af836edc7aa72b3090cf507f]
+## 31. Time limits for prosecutions[^c-8994c1101cf9d0c9c2ecc3758c038651][^c-13483510af836edc7aa72b3090cf507f]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8994c1101cf9d0c9c2ecc3758c038651]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/45/section/31) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-8994c1101cf9d0c9c2ecc3758c038651]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/45/section/31) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-13483510af836edc7aa72b3090cf507f]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/45/section/31) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-13483510af836edc7aa72b3090cf507f]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/45/section/31) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

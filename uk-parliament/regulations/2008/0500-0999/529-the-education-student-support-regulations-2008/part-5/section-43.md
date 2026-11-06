@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Childcare grant[^key-ca591f895df9c3a10bcfcd5ec4d3b0cf]
+## 43. Childcare grant[^c-ca591f895df9c3a10bcfcd5ec4d3b0cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ except that the student does not qualify for any such grant in respect of each w
 
 ## Annotations
 
-[^key-ca591f895df9c3a10bcfcd5ec4d3b0cf]: Commencement: Reg. 43 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-ca591f895df9c3a10bcfcd5ec4d3b0cf]: Commencement: Reg. 43 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00048]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); section 312 was amended by the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), Schedule 7, paragraph 23, the Schools Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), section 140, Schedule 30, paragraph 71 and Schedule 31, the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraph 56 and the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 1, paragraph 3.
 

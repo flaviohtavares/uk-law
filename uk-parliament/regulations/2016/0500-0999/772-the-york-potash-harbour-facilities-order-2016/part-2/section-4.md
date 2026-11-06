@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Parameters of authorised development[^key-526970f322b4524b0454c19058f5f354]
+## 4. Parameters of authorised development[^c-526970f322b4524b0454c19058f5f354]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-526970f322b4524b0454c19058f5f354]: Commencement: Art. 4 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-526970f322b4524b0454c19058f5f354]: Commencement: Art. 4 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

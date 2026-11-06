@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Cartel offence[^c2181324][^key-c4f5a735b2e9c2ba1e62ad3d1732a604]
+## 47. Cartel offence[^c2181324][^c-c4f5a735b2e9c2ba1e62ad3d1732a604]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,4 +94,4 @@ summary: ''
 
 [^c2181324]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2013/24/section/47) partly in force; [s. 47](https://www.legislation.gov.uk/ukpga/2013/24/section/47) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-c4f5a735b2e9c2ba1e62ad3d1732a604]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2013/24/section/47) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c4f5a735b2e9c2ba1e62ad3d1732a604]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2013/24/section/47) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Repeal of Part 3[^key-8205de557dc7a32ef642a5160bc77466]
+## 142. Repeal of Part 3[^c-8205de557dc7a32ef642a5160bc77466]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8205de557dc7a32ef642a5160bc77466]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2023/52/section/142) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-8205de557dc7a32ef642a5160bc77466]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2023/52/section/142) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

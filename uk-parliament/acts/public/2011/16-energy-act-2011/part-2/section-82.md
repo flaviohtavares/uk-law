@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Acquisition of rights to use upstream petroleum infrastructure[^key-4eb7433da207439008a43d1a128043b0][^key-e25467f9f1e60484588d95be34c20b1c]
+## 82. Acquisition of rights to use upstream petroleum infrastructure[^c-4eb7433da207439008a43d1a128043b0][^c-e25467f9f1e60484588d95be34c20b1c]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ And references in this section to “the access application” are to the applic
 
 but an upstream petroleum pipeline which is so situated is not “relevant” if it is a pipeline to which section 17GA of the Petroleum Act 1998 applies (petroleum pipelines subject to Norwegian access system).
 
-(4) If the applicant and the owner do not reach agreement on the access application, the applicant may apply to the OGA[^key-e1426a41facea5298a8f1cff090d0187] for a notice under subsection (11) which would secure to the applicant the right sought in the access application.
+(4) If the applicant and the owner do not reach agreement on the access application, the applicant may apply to the OGA[^c-e1426a41facea5298a8f1cff090d0187] for a notice under subsection (11) which would secure to the applicant the right sought in the access application.
 
 (5) The OGA may not consider an application under subsection (4) unless satisfied that the applicant and the owner have had a reasonable time in which to reach agreement.
 
@@ -88,7 +88,7 @@ but an upstream petroleum pipeline which is so situated is not “relevant” if
 (13) A notice under subsection (11) may also—
 
 - (a) contain provision authorising the owner to recover from the applicant payments by way of consideration for any right secured by the notice of amounts specified in the notice or determined in accordance with the notice;
-- (b)[^key-9444d47c399503b661c8c4da1c2fefc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9444d47c399503b661c8c4da1c2fefc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) A notice under subsection (11) is to be given to the owner and the applicant.
 
@@ -113,10 +113,10 @@ but an upstream petroleum pipeline which is so situated is not “relevant” if
 
 ## Annotations
 
-[^key-4eb7433da207439008a43d1a128043b0]: Commencement: S. 82 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-4eb7433da207439008a43d1a128043b0]: Commencement: S. 82 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
 
-[^key-e25467f9f1e60484588d95be34c20b1c]: Modification: S. 82 modified by 1962 c. 58, s. 9(9)(a) (as amended) (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 paras. 2(b)](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/2/b)(3)(b); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-e25467f9f1e60484588d95be34c20b1c]: Modification: S. 82 modified by 1962 c. 58, s. 9(9)(a) (as amended) (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [s. 121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1), [Sch. 2 paras. 2(b)](https://www.legislation.gov.uk/ukpga/2011/16/schedule/2/paragraph/2/b)(3)(b); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
 
-[^key-e1426a41facea5298a8f1cff090d0187]: Textual amendment: Words in s. 82 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 64](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/64); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-e1426a41facea5298a8f1cff090d0187]: Textual amendment: Words in s. 82 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 64](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/64); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-9444d47c399503b661c8c4da1c2fefc7]: Textual amendment: S. 82(13)(b) omitted (1.10.2016) by virtue of [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/71/2), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-9444d47c399503b661c8c4da1c2fefc7]: Textual amendment: S. 82(13)(b) omitted (1.10.2016) by virtue of [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/71/2), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

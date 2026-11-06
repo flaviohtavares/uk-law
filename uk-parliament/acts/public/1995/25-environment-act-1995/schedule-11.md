@@ -27,7 +27,7 @@ Section 90.
 **1.** (1) A local authority in carrying out its functions in relation to—
 
 - (a) any air quality review,
-- (b) any assessment under section 82 [^key-cf760fb28584c525e53abc1d744bd6e6]... of this Act, or
+- (b) any assessment under section 82 [^c-cf760fb28584c525e53abc1d744bd6e6]... of this Act, or
 - (c) the preparation of an action plan or any revision of an action plan,
 
 shall consult such other persons as fall within sub-paragraph (2) below.
@@ -37,7 +37,7 @@ shall consult such other persons as fall within sub-paragraph (2) below.
 - (a) the Secretary of State;
 - (b) the appropriate new Agency;
 - (c) in England and Wales, the highway authority for any highway in the area to which the review or, as the case may be, the action plan or revision relates;
-- (d)[^key-1d1330d91d910e2977c61e97b192c010] every neighbouring authority;
+- (d)[^c-1d1330d91d910e2977c61e97b192c010] every neighbouring authority;
 - (e) any county council in England whose area consists of or includes the whole or any part of the authority’s area;
 - (f) any National Park authority for a National Park whose area consists of or includes the whole or any part of the authority’s area;
 - (g) such public authorities exercising functions in, or in the vicinity of, the authority’s area as the authority may consider appropriate;
@@ -107,7 +107,7 @@ in relation to functions under or by virtue of this Part.
 (2) The documents mentioned in sub-paragraph (1)(a) above are—
 
 - (a) a report of the results of any air quality review which the authority has caused to be conducted;
-- (b) a report of the results of any assessment which the authority has caused to be made under section 82 [^key-1f89d992592d7279e5754cca2d952c0d]... of this Act;
+- (b) a report of the results of any assessment which the authority has caused to be made under section 82 [^c-1f89d992592d7279e5754cca2d952c0d]... of this Act;
 - (c) any order made by the authority under section 83 of this Act;
 - (d) any action plan prepared by the authority;
 - (e) any proposals or statements submitted to the authority pursuant to subsection (3) or (4) of section 86 of this Act;
@@ -170,9 +170,9 @@ in relation to functions under or by virtue of this Part.
 (6) In this paragraph—
 
 - “**fixed penalty**” means—
-  - ((a)) [^key-2949d8425dc652f90a2b6aa09421aa03]a penalty of such amount as may be prescribed (whether by being specified in, or made calculable under, regulations) , or *(Extent: W)*[^key-c19bcd7103a2f921d409ec3e725f84b4]
+  - ((a)) [^c-2949d8425dc652f90a2b6aa09421aa03]a penalty of such amount as may be prescribed (whether by being specified in, or made calculable under, regulations) , or *(Extent: W)*[^c-c19bcd7103a2f921d409ec3e725f84b4]
   - ((b)) a penalty of such amount falling within a range prescribed in regulations as is specified in a fixed penalty notice; *(Extent: W)*
-- “**fixed penalty notice**” means a notice offering a person an opportunity to discharge any liability to conviction for a fixed penalty offence by payment of a penalty of a prescribed amount or an amount falling within a range prescribed in regulations *(Extent: W)*[^key-3e4fc8f83ae8124de9110038a8bed07a];
+- “**fixed penalty notice**” means a notice offering a person an opportunity to discharge any liability to conviction for a fixed penalty offence by payment of a penalty of a prescribed amount or an amount falling within a range prescribed in regulations *(Extent: W)*[^c-3e4fc8f83ae8124de9110038a8bed07a];
 - “**fixed penalty offence**” means, subject to sub-paragraph (2) above, any offence (whether under or by virtue of this Part or any other enactment) which is for the time being prescribed as a fixed penalty offence;
 - “**the fixed penalty system**” means the system implementing regulations made under or by virtue of paragraph (o) of subsection (2) of section 87 of this Act;
 - “**the period for paying**”, in relation to any fixed penalty, means such period as may be prescribed for the purpose;
@@ -180,13 +180,13 @@ in relation to functions under or by virtue of this Part.
 
 *Extent: S*
 
-(7)[^key-f6e2a59e25e78a0531501d5396bd557c] In the definition of “fixed penalty offence” in sub-paragraph (6) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(7)[^c-f6e2a59e25e78a0531501d5396bd557c] In the definition of “fixed penalty offence” in sub-paragraph (6) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ## Annotations
 
-[^key-cf760fb28584c525e53abc1d744bd6e6]: Textual amendment: Words in Sch. 11 para. 1(1)(b) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(8)(a)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/8/a); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2) and omitted (E.W.) (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(q)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/q), [Sch. 13 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/8/2/c)
+[^c-cf760fb28584c525e53abc1d744bd6e6]: Textual amendment: Words in Sch. 11 para. 1(1)(b) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(8)(a)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/8/a); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2) and omitted (E.W.) (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(q)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/q), [Sch. 13 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/8/2/c)
 
-[^key-1d1330d91d910e2977c61e97b192c010]: Textual amendment: [Sch. 11 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/11/paragraph/1/2/d) substituted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/14) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
+[^c-1d1330d91d910e2977c61e97b192c010]: Textual amendment: [Sch. 11 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/11/paragraph/1/2/d) substituted (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/11/paragraph/14) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/c)
 
 [^c14545251]: Textual amendment: Sch. 11 para. 1(2A)(2B) inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 369](https://www.legislation.gov.uk/ukpga/1999/29/section/369), (with Sch. 12 para. 9(1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
@@ -202,14 +202,14 @@ in relation to functions under or by virtue of this Part.
 
 [^c14545321]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-1f89d992592d7279e5754cca2d952c0d]: Textual amendment: Words in Sch. 11 para. 4(2)(b) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(8)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/8/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2) and omitted (E.W.) (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(q)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/q), [Sch. 13 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/8/2/c)
+[^c-1f89d992592d7279e5754cca2d952c0d]: Textual amendment: Words in Sch. 11 para. 4(2)(b) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 29(8)(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/29/8/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2) and omitted (E.W.) (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(q)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/q), [Sch. 13 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/8/2/c)
 
 [^c14545331]: Marginal citation: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 
-[^key-2949d8425dc652f90a2b6aa09421aa03]: Textual amendment: Words in Sch. 11 para. 5(6) renumbered (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(3)(a)(i)](https://www.legislation.gov.uk/asc/2024/2/section/24/3/a/i), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
+[^c-2949d8425dc652f90a2b6aa09421aa03]: Textual amendment: Words in Sch. 11 para. 5(6) renumbered (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(3)(a)(i)](https://www.legislation.gov.uk/asc/2024/2/section/24/3/a/i), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
 
-[^key-c19bcd7103a2f921d409ec3e725f84b4]: Textual amendment: Words in Sch. 11 para. 5(6) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(3)(a)(ii)](https://www.legislation.gov.uk/asc/2024/2/section/24/3/a/ii), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
+[^c-c19bcd7103a2f921d409ec3e725f84b4]: Textual amendment: Words in Sch. 11 para. 5(6) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(3)(a)(ii)](https://www.legislation.gov.uk/asc/2024/2/section/24/3/a/ii), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
 
-[^key-3e4fc8f83ae8124de9110038a8bed07a]: Textual amendment: Words in Sch. 11 para. 5(6) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(3)(b)](https://www.legislation.gov.uk/asc/2024/2/section/24/3/b), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
+[^c-3e4fc8f83ae8124de9110038a8bed07a]: Textual amendment: Words in Sch. 11 para. 5(6) inserted (W.) (14.4.2024) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 24(3)(b)](https://www.legislation.gov.uk/asc/2024/2/section/24/3/b), [30(2)(g)](https://www.legislation.gov.uk/asc/2024/2/section/30/2/g)
 
-[^key-f6e2a59e25e78a0531501d5396bd557c]: Textual amendment: Sch. 11 para. 5(7) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(14)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/14); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-f6e2a59e25e78a0531501d5396bd557c]: Textual amendment: Sch. 11 para. 5(7) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(14)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/14); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)

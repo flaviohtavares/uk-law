@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Application and modification of legislative provisions[^key-ffa055404be44b5d6c1fb44260a8fe76][^key-d8a926528672a76514d14147fb296687]
+## 6. Application and modification of legislative provisions[^c-ffa055404be44b5d6c1fb44260a8fe76][^c-d8a926528672a76514d14147fb296687]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ Regulation 6 of the Hedgerows Regulations 1997[^f00020] is modified so as to rea
 
 ## Annotations
 
-[^key-ffa055404be44b5d6c1fb44260a8fe76]: Commencement: Art. 6 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-ffa055404be44b5d6c1fb44260a8fe76]: Commencement: Art. 6 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-d8a926528672a76514d14147fb296687]: Textual amendment: Art. 6(1) renumbered as art. 6 (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)
+[^c-d8a926528672a76514d14147fb296687]: Textual amendment: Art. 6(1) renumbered as art. 6 (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)
 
 [^f00020]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).

@@ -46,31 +46,31 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 7 and 41(4) of the Employment Tribunals Act 1996[^f00001], makes the following Regulations.
 
-## 1. Citation and commencement[^key-d163b8aae4925c65add77aafffc4e303]
+## 1. Citation and commencement[^c-d163b8aae4925c65add77aafffc4e303]
 
 These Regulations may be cited as the Employment Tribunals (Constitution and Rules of Procedure) (Amendment) Regulations 2014 and come into force on 6th April 2014.
 
-## 2. Amendments to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^key-402370f97ba2957f655ab50f97cc69c6]
+## 2. Amendments to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^c-402370f97ba2957f655ab50f97cc69c6]
 
-In regulation 6(5) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^key-539661b3ec471010ca90d385e92ef88c] for “full-time” substitute “salaried”.
+In regulation 6(5) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^c-539661b3ec471010ca90d385e92ef88c] for “full-time” substitute “salaried”.
 
-**3.**[^key-a55ca237957f0b9849fb3246b3635919] In regulation 8(2)(a) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^key-1e0abe135073dfb675c5f822132b7caa]—
+**3.**[^c-a55ca237957f0b9849fb3246b3635919] In regulation 8(2)(a) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^c-1e0abe135073dfb675c5f822132b7caa]—
 
 - (a) for “chairmen” substitute “Employment Judges”;
 - (b) omit “(in these Regulations (including the Schedules) referred to as “Employment Judges”)”.
 
-## 4. Amendments to Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^key-a7bc0236a52f81290cc4399f388c76aa]
+## 4. Amendments to Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^c-a7bc0236a52f81290cc4399f388c76aa]
 
 Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013 is amended as follows.
 
-**5.**[^key-bb493c28125b7b8ba80b877ec3999b3f] In rule 1(1) in the appropriate places insert the following definitions—
+**5.**[^c-bb493c28125b7b8ba80b877ec3999b3f] In rule 1(1) in the appropriate places insert the following definitions—
 
 > - “early conciliation certificate” means a certificate issued by ACAS in accordance with the Employment Tribunals (Early Conciliation: Exemptions and Rules of Procedure) Regulations 2013[^f00002];
 > - “early conciliation exemption” means an exemption contained in regulation 3(1) of the Employment Tribunals (Early Conciliation: Exemptions and Rules of Procedure) Regulations 2014;
 > - “early conciliation number” means the unique reference number which appears on an early conciliation certificate;
 > - “relevant proceedings” means those proceedings listed in section 18(1) of the Employment Tribunals Act 1996[^f00003];
 
-**6.**[^key-12b21435829f88495e943a8397b263a5] In rule 1(3)(b)—
+**6.**[^c-12b21435829f88495e943a8397b263a5] In rule 1(3)(b)—
 
 - (a) at the end of sub-paragraph (i) omit “or”;
 - (b) after sub-paragraph (ii) insert—
@@ -79,7 +79,7 @@ Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Reg
 
   .
 
-**7.**[^key-69045c2c97843c9ace437594b9254a48] In rule 10(1)—
+**7.**[^c-69045c2c97843c9ace437594b9254a48] In rule 10(1)—
 
 - (a) in sub-paragraph (a) delete “or”;
 - (b) at the end of paragraph (iv) of sub-paragraph (b) insert “or”;
@@ -90,7 +90,7 @@ Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Reg
   >   - (ii) confirmation that the claim does not institute any relevant proceedings; or
   >   - (iii) confirmation that one of the early conciliation exemptions applies.
 
-**8.**[^key-834720798ff9a785ae5bd5860651016d] In rule 12—
+**8.**[^c-834720798ff9a785ae5bd5860651016d] In rule 12—
 
 - (a) in sub-paragraph (a) of paragraph (1) omit “or”;
 - (b) after sub-paragraph (b) of paragraph (1) after “process” insert—
@@ -106,13 +106,13 @@ Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Reg
 
   > (2A) The claim, or part of it, shall be rejected if the Judge considers that the claim, or part of it, is of a kind described in sub-paragraph (e) or (f) of paragraph (1) unless the Judge considers that the claimant made a minor error in relation to a name or address and it would not be in the interests of justice to reject the claim.
 
-**9.**[^key-9b350fba60b463d7ef400f503d35dd95] In rule 33 for “1026/2001” substitute “1206/2001”.
+**9.**[^c-9b350fba60b463d7ef400f503d35dd95] In rule 33 for “1026/2001” substitute “1206/2001”.
 
-## 10. Amendments to Schedule 2 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^key-f32f98a127bcdaedbcd2af41275c0567]
+## 10. Amendments to Schedule 2 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013[^c-f32f98a127bcdaedbcd2af41275c0567]
 
 In rule 5 of Schedule 2 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2013 omit paragraph (2).
 
-## 11. Transitional provision[^key-b0612c000f779dc6dd9bba5c863e2a7a]
+## 11. Transitional provision[^c-b0612c000f779dc6dd9bba5c863e2a7a]
 
 Regulations 5, 7 and 8 have effect in relation to—
 
@@ -143,34 +143,34 @@ A regulatory impact assessment on the introduction of early conciliation is avai
 
 [^f00001]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17); by virtue of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8) industrial tribunals were renamed employment tribunals and references to “industrial tribunal” and “industrial tribunals” in any enactment were substituted with “employment tribunal” and “employment tribunals”.
 
-[^key-d163b8aae4925c65add77aafffc4e303]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-d163b8aae4925c65add77aafffc4e303]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
-[^key-402370f97ba2957f655ab50f97cc69c6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/271/regulation/2) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-402370f97ba2957f655ab50f97cc69c6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/271/regulation/2) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
-[^key-539661b3ec471010ca90d385e92ef88c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/271/regulation/2) inserted (5.4.2014) by [The Employment Tribunals (Constitution and Rules of Procedure) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/787)](https://www.legislation.gov.uk/uksi/2014/787), [regs. 1](https://www.legislation.gov.uk/uksi/2014/787/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/787/regulation/3)
+[^c-539661b3ec471010ca90d385e92ef88c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/271/regulation/2) inserted (5.4.2014) by [The Employment Tribunals (Constitution and Rules of Procedure) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/787)](https://www.legislation.gov.uk/uksi/2014/787), [regs. 1](https://www.legislation.gov.uk/uksi/2014/787/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/787/regulation/3)
 
-[^key-a55ca237957f0b9849fb3246b3635919]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/271/regulation/3) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-a55ca237957f0b9849fb3246b3635919]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/271/regulation/3) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
-[^key-1e0abe135073dfb675c5f822132b7caa]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2014/271/regulation/3) inserted (5.4.2014) by [The Employment Tribunals (Constitution and Rules of Procedure) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/787)](https://www.legislation.gov.uk/uksi/2014/787), [regs. 1](https://www.legislation.gov.uk/uksi/2014/787/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/787/regulation/4)
+[^c-1e0abe135073dfb675c5f822132b7caa]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2014/271/regulation/3) inserted (5.4.2014) by [The Employment Tribunals (Constitution and Rules of Procedure) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/787)](https://www.legislation.gov.uk/uksi/2014/787), [regs. 1](https://www.legislation.gov.uk/uksi/2014/787/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/787/regulation/4)
 
-[^key-a7bc0236a52f81290cc4399f388c76aa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/271/regulation/4) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-a7bc0236a52f81290cc4399f388c76aa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/271/regulation/4) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
-[^key-bb493c28125b7b8ba80b877ec3999b3f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/271/regulation/5) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-bb493c28125b7b8ba80b877ec3999b3f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/271/regulation/5) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2014/254](https://www.legislation.gov.uk/uksi/2014/254).
 
 [^f00003]: Footnote: Section 18(1) was amended by the Enterprise and Regulatory Reform Act 2013, Schedule 1, paragraphs 2 and 5(1) and (3).
 
-[^key-12b21435829f88495e943a8397b263a5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/271/regulation/6) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-12b21435829f88495e943a8397b263a5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/271/regulation/6) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
-[^key-69045c2c97843c9ace437594b9254a48]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/271/regulation/7) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-69045c2c97843c9ace437594b9254a48]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/271/regulation/7) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
-[^key-834720798ff9a785ae5bd5860651016d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/271/regulation/8) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-834720798ff9a785ae5bd5860651016d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/271/regulation/8) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
-[^key-9b350fba60b463d7ef400f503d35dd95]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/271/regulation/9) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-9b350fba60b463d7ef400f503d35dd95]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/271/regulation/9) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
-[^key-f32f98a127bcdaedbcd2af41275c0567]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/271/regulation/10) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-f32f98a127bcdaedbcd2af41275c0567]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/271/regulation/10) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
-[^key-b0612c000f779dc6dd9bba5c863e2a7a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/271/regulation/11) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
+[^c-b0612c000f779dc6dd9bba5c863e2a7a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/271/regulation/11) in force at 6.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/271/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253).

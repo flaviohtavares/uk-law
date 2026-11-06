@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151Z. Diminishing shared ownership arrangements: further provision in respect of refinancing[^key-00e0eaf541a002c59d8183b1791d4daf]
+## 151Z. Diminishing shared ownership arrangements: further provision in respect of refinancing[^c-00e0eaf541a002c59d8183b1791d4daf]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the disposal of the asset mentioned in paragraph (a) and the acquisition of the 
 
 ## Annotations
 
-[^key-00e0eaf541a002c59d8183b1791d4daf]: Textual amendment: [S. 151Z](https://www.legislation.gov.uk/ukpga/1992/12/section/151Z) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 3(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/3/8), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-00e0eaf541a002c59d8183b1791d4daf]: Textual amendment: [S. 151Z](https://www.legislation.gov.uk/ukpga/1992/12/section/151Z) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 3(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/3/8), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)

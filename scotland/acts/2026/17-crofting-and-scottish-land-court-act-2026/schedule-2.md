@@ -26,7 +26,7 @@ introduced by section 63
 
 **Not yet in force.**
 
-#### 1. Crofters (Scotland) Act 1993[^key-6b1877b0f03a493a4628a433082f1f52]
+#### 1. Crofters (Scotland) Act 1993[^c-6b1877b0f03a493a4628a433082f1f52]
 
 (1) The Crofters (Scotland) Act 1993 is modified as follows.
 
@@ -234,7 +234,7 @@ introduced by section 63
 
 (25) In schedule 2 (the statutory conditions), in paragraph 5(c), after “put to” insert “any environmental use (within the meaning of section 5C(8A) or to”.
 
-#### 2. Crofting Reform (Scotland) Act 2010[^key-ea5e928e7bc9e50cee6ec6265fa3fcd1]
+#### 2. Crofting Reform (Scotland) Act 2010[^c-ea5e928e7bc9e50cee6ec6265fa3fcd1]
 
 (1) The Crofting Reform (Scotland) Act 2010 is modified as follows.
 
@@ -274,7 +274,7 @@ introduced by section 63
 
 ### Part 2 — Scottish Land Court
 
-#### 3. Lands Tribunal Act 1949[^key-eced98ed4410ae811f679e92689733dc]
+#### 3. Lands Tribunal Act 1949[^c-eced98ed4410ae811f679e92689733dc]
 
 **Not yet in force.**
 
@@ -296,7 +296,7 @@ introduced by section 63
 
 (5) The title to section 4 becomes “**Power to add to jurisdiction of Upper Tribunal**”.
 
-#### 4. Succession (Scotland) Act 1964[^key-b324fe37bacb26d568fd7707026c7e27]
+#### 4. Succession (Scotland) Act 1964[^c-b324fe37bacb26d568fd7707026c7e27]
 
 **Not yet in force.**
 
@@ -307,13 +307,13 @@ introduced by section 63
 - (a) in subsection (3)(b), for “relevant court” substitute “Scottish Land Court”,
 - (b) subsection (8A) is repealed.
 
-#### 5. Scottish Land Court Act 1993[^key-56830ed1bf3ad7e644182f0dbd8ab2bc]
+#### 5. Scottish Land Court Act 1993[^c-56830ed1bf3ad7e644182f0dbd8ab2bc]
 
 **Not yet in force.**
 
 The Scottish Land Court Act 1993 is repealed.
 
-#### 6. Land Reform (Scotland) Act 2003[^key-f5c485abdd1426e839d2d747d842bc28]
+#### 6. Land Reform (Scotland) Act 2003[^c-f5c485abdd1426e839d2d747d842bc28]
 
 **Not yet in force.**
 
@@ -364,7 +364,7 @@ The Scottish Land Court Act 1993 is repealed.
 - (d) subsection (7) is repealed,
 - (e) in subsection (9), for “sheriff” substitute “Land Court”.
 
-#### 7. Judiciary and Courts (Scotland) Act 2008[^key-e654cac2833071eb3442af68a32e2d1b]
+#### 7. Judiciary and Courts (Scotland) Act 2008[^c-e654cac2833071eb3442af68a32e2d1b]
 
 **Not yet in force.**
 
@@ -407,7 +407,7 @@ The Scottish Land Court Act 1993 is repealed.
 
 .
 
-#### 8. Scottish Civil Justice Council and Criminal Legal Assistance Act 2013[^key-1a04082f06b8a64966ee1d0a0a9a27a4]
+#### 8. Scottish Civil Justice Council and Criminal Legal Assistance Act 2013[^c-1a04082f06b8a64966ee1d0a0a9a27a4]
 
 **Not yet in force.**
 
@@ -426,11 +426,11 @@ The Scottish Land Court Act 1993 is repealed.
 
     .
 
-#### 9. Tribunals (Scotland) Act 2014[^key-47a6a90493c6f6c54a76f92616bdc0e3]
+#### 9. Tribunals (Scotland) Act 2014[^c-47a6a90493c6f6c54a76f92616bdc0e3]
 
-(1)[^key-e01cc4b0791a7835fd9a69f3da68cc38] The Tribunals (Scotland) Act 2014 is modified as follows.
+(1)[^c-e01cc4b0791a7835fd9a69f3da68cc38] The Tribunals (Scotland) Act 2014 is modified as follows.
 
-(2)[^key-e01cc4b0791a7835fd9a69f3da68cc38] In section 17 (sheriffs and judges)—
+(2)[^c-e01cc4b0791a7835fd9a69f3da68cc38] In section 17 (sheriffs and judges)—
 
 - (a) in subsection (2)—
   - (i) in paragraph (b), for “Chairman” substitute “Chair”,
@@ -449,7 +449,7 @@ The Scottish Land Court Act 1993 is repealed.
 
   .
 
-(3)[^key-e01cc4b0791a7835fd9a69f3da68cc38] The title of section 17 becomes “**Sheriffs, judges and other holders of judicial office**”.
+(3)[^c-e01cc4b0791a7835fd9a69f3da68cc38] The title of section 17 becomes “**Sheriffs, judges and other holders of judicial office**”.
 
 (4) In schedule 1 (listed tribunals)—
 
@@ -458,7 +458,7 @@ The Scottish Land Court Act 1993 is repealed.
 
 (5) In schedule 2 (transfer-in of members), in paragraph 1(3), sub-paragraph (b) and the “or” immediately preceding it are repealed.
 
-#### 10. Land Reform (Scotland) Act 2016[^key-56af2ea80f7d9ce6ded8130bdf481b6f]
+#### 10. Land Reform (Scotland) Act 2016[^c-56af2ea80f7d9ce6ded8130bdf481b6f]
 
 **Not yet in force.**
 
@@ -478,24 +478,24 @@ The Scottish Land Court Act 1993 is repealed.
 
 ## Annotations
 
-[^key-6b1877b0f03a493a4628a433082f1f52]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-6b1877b0f03a493a4628a433082f1f52]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-ea5e928e7bc9e50cee6ec6265fa3fcd1]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-ea5e928e7bc9e50cee6ec6265fa3fcd1]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-eced98ed4410ae811f679e92689733dc]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-eced98ed4410ae811f679e92689733dc]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-b324fe37bacb26d568fd7707026c7e27]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-b324fe37bacb26d568fd7707026c7e27]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-56830ed1bf3ad7e644182f0dbd8ab2bc]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-56830ed1bf3ad7e644182f0dbd8ab2bc]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-f5c485abdd1426e839d2d747d842bc28]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-f5c485abdd1426e839d2d747d842bc28]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-e654cac2833071eb3442af68a32e2d1b]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-e654cac2833071eb3442af68a32e2d1b]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-1a04082f06b8a64966ee1d0a0a9a27a4]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-1a04082f06b8a64966ee1d0a0a9a27a4]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-47a6a90493c6f6c54a76f92616bdc0e3]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-47a6a90493c6f6c54a76f92616bdc0e3]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-e01cc4b0791a7835fd9a69f3da68cc38]: Commencement: [Sch. 2 para. 9(1)-(3)](https://www.legislation.gov.uk/asp/2026/17/schedule/2/paragraph/9/1) in force at 26.10.2026 for specified purposes by [S.S.I. 2026/283](https://www.legislation.gov.uk/ssi/2026/283), [reg. 2](https://www.legislation.gov.uk/ssi/2026/283/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/283/schedule)
+[^c-e01cc4b0791a7835fd9a69f3da68cc38]: Commencement: [Sch. 2 para. 9(1)-(3)](https://www.legislation.gov.uk/asp/2026/17/schedule/2/paragraph/9/1) in force at 26.10.2026 for specified purposes by [S.S.I. 2026/283](https://www.legislation.gov.uk/ssi/2026/283), [reg. 2](https://www.legislation.gov.uk/ssi/2026/283/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/283/schedule)
 
-[^key-56af2ea80f7d9ce6ded8130bdf481b6f]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-56af2ea80f7d9ce6ded8130bdf481b6f]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

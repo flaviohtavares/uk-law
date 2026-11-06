@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Emergency action[^key-42c91e38b17b27f6ecf3ba9f180b1f51]
+## 78. Emergency action[^c-42c91e38b17b27f6ecf3ba9f180b1f51]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ After section 32Y of the 1960 Act (inserted by section 77), insert—
 
 ## Annotations
 
-[^key-42c91e38b17b27f6ecf3ba9f180b1f51]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2014/14/section/78) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-42c91e38b17b27f6ecf3ba9f180b1f51]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2014/14/section/78) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

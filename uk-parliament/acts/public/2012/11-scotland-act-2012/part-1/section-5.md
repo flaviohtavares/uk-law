@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Scottish Parliamentary Corporate Body[^key-ab24aa15c73414cf8051d46b017dd7b8]
+## 5. Scottish Parliamentary Corporate Body[^c-ab24aa15c73414cf8051d46b017dd7b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 21 of the 1998 Act (Scottish Parliamentary Corporate Body) in subsect
 
 ## Annotations
 
-[^key-ab24aa15c73414cf8051d46b017dd7b8]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2012/11/section/5) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/b)
+[^c-ab24aa15c73414cf8051d46b017dd7b8]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2012/11/section/5) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/b)

@@ -38,8 +38,8 @@ summary: ''
 
 (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-(6)[^key-834e18cae808a49ac5f36bdb2e608728] The duty in paragraph (1) does not apply to regulation 36A (compensatory measures: relevant offshore wind plans or projects).
+(6)[^c-834e18cae808a49ac5f36bdb2e608728] The duty in paragraph (1) does not apply to regulation 36A (compensatory measures: relevant offshore wind plans or projects).
 
 ## Annotations
 
-[^key-834e18cae808a49ac5f36bdb2e608728]: Textual amendment: [Reg. 82(6)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/82/6) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/508/regulation/18)
+[^c-834e18cae808a49ac5f36bdb2e608728]: Textual amendment: [Reg. 82(6)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/82/6) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/508/regulation/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80B. Modification of regulation 80 and further enactments relating to licences in respect of certain licences issued in EEA States[^key-fee18859285bddfdc324602a06197858]
+## 80B. Modification of regulation 80 and further enactments relating to licences in respect of certain licences issued in EEA States[^c-fee18859285bddfdc324602a06197858]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fee18859285bddfdc324602a06197858]: Textual amendment: [Reg. 80B](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80B) inserted (11.4.2024) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2024 (S.I. 2024/381)](https://www.legislation.gov.uk/uksi/2024/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/381/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/381/regulation/3)
+[^c-fee18859285bddfdc324602a06197858]: Textual amendment: [Reg. 80B](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80B) inserted (11.4.2024) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2024 (S.I. 2024/381)](https://www.legislation.gov.uk/uksi/2024/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/381/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/381/regulation/3)

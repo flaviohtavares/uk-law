@@ -32,7 +32,7 @@ summary: ''
 
 National Debt
 
-The Premium Savings Bonds (Amendment etc) Regulations 2010 (revoked)[^key-8a47d0b54a7a9e083e042f6722a6e428]
+The Premium Savings Bonds (Amendment etc) Regulations 2010 (revoked)[^c-8a47d0b54a7a9e083e042f6722a6e428]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 2nd November 2010
 
-[^key-8a47d0b54a7a9e083e042f6722a6e428]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a47d0b54a7a9e083e042f6722a6e428]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8a47d0b54a7a9e083e042f6722a6e428]
+## 1. Citation and commencement[^c-8a47d0b54a7a9e083e042f6722a6e428]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Premium Savings Bonds Regulations 1972[^key-8a47d0b54a7a9e083e042f6722a6e428]
+## 2. Amendments to the Premium Savings Bonds Regulations 1972[^c-8a47d0b54a7a9e083e042f6722a6e428]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8a47d0b54a7a9e083e042f6722a6e428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Repeals[^key-8a47d0b54a7a9e083e042f6722a6e428]
+## 14. Repeals[^c-8a47d0b54a7a9e083e042f6722a6e428]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8a47d0b54a7a9e083e042f6722a6e428]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a47d0b54a7a9e083e042f6722a6e428]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8a47d0b54a7a9e083e042f6722a6e428]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a47d0b54a7a9e083e042f6722a6e428]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a47d0b54a7a9e083e042f6722a6e428]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2479) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)
+[^c-8a47d0b54a7a9e083e042f6722a6e428]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2479) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)

@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 17
 
-**1.**[^key-afa264c59bf3c5eda3b635ab6e50933f] The Radio Equipment Regulations 2017 are amended in accordance with paragraphs 2 to 8.
+**1.**[^c-afa264c59bf3c5eda3b635ab6e50933f] The Radio Equipment Regulations 2017 are amended in accordance with paragraphs 2 to 8.
 
-### 2. Amendment to Part 1[^key-d060b32b6e6d3b7e300449aa5d7e5ca1]
+### 2. Amendment to Part 1[^c-d060b32b6e6d3b7e300449aa5d7e5ca1]
 
 (1) In regulation 2(1)—
 
@@ -61,7 +61,7 @@ Regulation 17
 
 (3) Omit regulation 2(6).
 
-### 3. Amendment to Part 2[^key-7b9221c2189b5f11112a53ff6fe3b41b]
+### 3. Amendment to Part 2[^c-7b9221c2189b5f11112a53ff6fe3b41b]
 
 (1) In regulation 5 for “the United Kingdom” substitute “ Northern Ireland ” (twice).
 
@@ -113,11 +113,11 @@ Regulation 17
 - (a) for “Member State” substitute “ relevant state ”;
 - (b) for “the United Kingdom” substitute “ Northern Ireland ”.
 
-### 4. Amendment to Part 3[^key-8615a86789eb0df98f55028c0eaa83e9]
+### 4. Amendment to Part 3[^c-8615a86789eb0df98f55028c0eaa83e9]
 
 In regulation 45 for “Member State” substitute “ relevant state ”.
 
-### 5. Amendment to Part 4[^key-a7acdfd03e5a007212f879748e81d9c7]
+### 5. Amendment to Part 4[^c-a7acdfd03e5a007212f879748e81d9c7]
 
 (1) In regulation 46(1)—
 
@@ -138,7 +138,7 @@ In regulation 45 for “Member State” substitute “ relevant state ”.
 
 (3) In regulation 52(5) for “Member States” substitute “ relevant states ”.
 
-### 6. Amendment to Part 5[^key-bc869f845424333a3f717db4bea75db7]
+### 6. Amendment to Part 5[^c-bc869f845424333a3f717db4bea75db7]
 
 (1) In regulation 60—
 
@@ -183,11 +183,11 @@ In regulation 45 for “Member State” substitute “ relevant state ”.
 - (a) in paragraphs (1)(b) and (c) after “equipment” insert “ from Northern Ireland ”;
 - (b) in paragraph (3) for “Member States” substitute “ relevant states ”.
 
-### 7. Amendment to Part 6[^key-8ca47ec6ca52c10f8348625a9be51810]
+### 7. Amendment to Part 6[^c-8ca47ec6ca52c10f8348625a9be51810]
 
 In regulation 76(4) for “Member States” substitute “ relevant states ”.
 
-### 8. Amendment to Schedules[^key-6f959d3653da034a781f7e5a6dce0e13]
+### 8. Amendment to Schedules[^c-6f959d3653da034a781f7e5a6dce0e13]
 
 (1) In paragraph 8(3) of Schedule 3 for “Member States” substitute “ relevant states ” (three times).
 
@@ -199,18 +199,18 @@ In regulation 76(4) for “Member States” substitute “ relevant states ”.
 
 ## Annotations
 
-[^key-afa264c59bf3c5eda3b635ab6e50933f]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-afa264c59bf3c5eda3b635ab6e50933f]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-d060b32b6e6d3b7e300449aa5d7e5ca1]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-d060b32b6e6d3b7e300449aa5d7e5ca1]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/2) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-7b9221c2189b5f11112a53ff6fe3b41b]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-7b9221c2189b5f11112a53ff6fe3b41b]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/3) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-8615a86789eb0df98f55028c0eaa83e9]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-8615a86789eb0df98f55028c0eaa83e9]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/4) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-a7acdfd03e5a007212f879748e81d9c7]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-a7acdfd03e5a007212f879748e81d9c7]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/5) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-bc869f845424333a3f717db4bea75db7]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-bc869f845424333a3f717db4bea75db7]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/6) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-8ca47ec6ca52c10f8348625a9be51810]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-8ca47ec6ca52c10f8348625a9be51810]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/7) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
-[^key-6f959d3653da034a781f7e5a6dce0e13]: Commencement: [Sch. 16 para. 8](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/8) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-6f959d3653da034a781f7e5a6dce0e13]: Commencement: [Sch. 16 para. 8](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/8) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

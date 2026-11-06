@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. The transitional element - total legacy amount[^key-90e3de9c82961a5746b71bf6175c0696]
+## 53. The transitional element - total legacy amount[^c-90e3de9c82961a5746b71bf6175c0696]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ then, notwithstanding section 4(8) to (11) of the Jobseekers Act 1995 and sectio
 
 (9) In paragraphs (7) and (8) “rent free period” has the meaning in regulation 81 of the Housing Benefit Regulations 2006.
 
-(10) In a case where regulation 8(3) (continuation of housing benefit in respect of specified accommodation or temporary accommodation) applies, no amount is to be included in the total legacy amount for housing benefit in respect of specified or temporary accommodation[^key-56254d8a988a27bd8a15d842a73bfc4e].
+(10) In a case where regulation 8(3) (continuation of housing benefit in respect of specified accommodation or temporary accommodation) applies, no amount is to be included in the total legacy amount for housing benefit in respect of specified or temporary accommodation[^c-56254d8a988a27bd8a15d842a73bfc4e].
 
 - **The benefit cap**
 
@@ -85,6 +85,6 @@ the total legacy amount is reduced by the excess (minus the amount for childcare
 
 ## Annotations
 
-[^key-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))
+[^c-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))
 
-[^key-56254d8a988a27bd8a15d842a73bfc4e]: Textual amendment: Words in [reg. 53(10)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/53/10) substituted (29.6.2023) by [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/4)
+[^c-56254d8a988a27bd8a15d842a73bfc4e]: Textual amendment: Words in [reg. 53(10)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/53/10) substituted (29.6.2023) by [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/4)

@@ -50,11 +50,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 The Secretary of State has consulted such persons in the United Kingdom as the Secretary of State considers will be affected by the exercise of powers in this instrument in accordance with section 86(4) of the Merchant Shipping Act 1995.
 
-These Regulations are made with the consent of the Treasury in so far as is required under section 302(1) of the Merchant Shipping Act 1995.[^key-56dd8631036b9a6d0271a9cfcd6f71e9]
+These Regulations are made with the consent of the Treasury in so far as is required under section 302(1) of the Merchant Shipping Act 1995.[^c-56dd8631036b9a6d0271a9cfcd6f71e9]
 
 ## PART 1 — General
 
-### 1. Citation, commencement, amendments and revocations[^key-854358f90834000f4c8cf4bedc72b194]
+### 1. Citation, commencement, amendments and revocations[^c-854358f90834000f4c8cf4bedc72b194]
 
 (1) These Regulations may be cited as the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 and come into force on 1st March 2019.
 
@@ -62,14 +62,14 @@ These Regulations are made with the consent of the Treasury in so far as is requ
 
 (3) The Regulations listed in the first column of the Table in Part 2 of the Schedule are revoked to the extent specified in the third column of that Table.
 
-### 2. Transitional provision[^key-ab5210592779943950fed1f8a259164e]
+### 2. Transitional provision[^c-ab5210592779943950fed1f8a259164e]
 
 Except in circumstances determined by the Secretary of State, an IOPP or UKOPP certificate issued or endorsed by an appropriate Certifying Authority [^c23683811] under Part 2 of the Merchant Shipping (Prevention of Oil Pollution) Regulations 1996 [^c23683821] which is valid immediately before the day on which these Regulations come into force—
 
 - (a) has effect on and after that date as if it were issued or endorsed under these Regulations; and
 - (b) subject to the provisions of these Regulations, continues to be valid until the date of expiry of that certificate.
 
-### 3. Interpretation[^key-8c855145c7737166f809abedc054249d]
+### 3. Interpretation[^c-8c855145c7737166f809abedc054249d]
 
 (1) In these Regulations—
 
@@ -119,7 +119,7 @@ Except in circumstances determined by the Secretary of State, an IOPP or UKOPP c
 
 (3) Any reference to a ship or oil tanker delivered on, before, or after a specified date takes the meaning which corresponds to a ship or oil tanker delivered on, before, or after that specified date in regulation 1.28 of Annex I.
 
-### 4. Ambulatory reference[^key-b576dd62af5e5e4430b8369ff2c224d7]
+### 4. Ambulatory reference[^c-b576dd62af5e5e4430b8369ff2c224d7]
 
 (1) Any reference in these Regulations to a specific provision in the Convention, an Annex of that Convention, the Polar Code or the RO Code is to be construed as—
 
@@ -148,7 +148,7 @@ has effect at the time that such modification or replacement comes into force in
 
 such modification has effect at the time specified in any Resolution described in sub-paragraph (c).
 
-### 5. Application[^key-4cc2d9d8d19ef938d10b20b9af04add9]
+### 5. Application[^c-4cc2d9d8d19ef938d10b20b9af04add9]
 
 (1) Subject to paragraphs (2) and (3), these Regulations and the Convention apply to—
 
@@ -167,7 +167,7 @@ such modification has effect at the time specified in any Resolution described i
 
 (5) Where the aggregate capacity of a cargo space referred to in paragraph (4) is less than 1,000 cubic metres, regulation 34.6 of Annex I applies instead of regulations 29, 31 and 32 of that Annex.
 
-### 6. Compliance with Survey and Certification Requirements[^key-df238f55fcab1b7e3bf43906c40ded76]
+### 6. Compliance with Survey and Certification Requirements[^c-df238f55fcab1b7e3bf43906c40ded76]
 
 (1) Subject to any exemption conferred by or under these Regulations, a ship must not be enabled to—
 
@@ -181,7 +181,7 @@ unless the requirements in paragraph (2) are met.
 - (a) has been surveyed in accordance with the requirements of these Regulations which apply to that ship; and
 - (b) is the subject of a valid IOPP Certificate or, in the case of a ship not engaged in international voyages, a UKOPP Certificate.
 
-### 7. Exemptions[^key-cb0fe392a979e30aa25f5191df1cd030]
+### 7. Exemptions[^c-cb0fe392a979e30aa25f5191df1cd030]
 
 (1) The Secretary of State may exempt a ship which has constructional features which render the application of any of the provisions of—
 
@@ -197,11 +197,11 @@ relating to construction or equipment unreasonable or impractical, provided the 
 (4) An exemption by the Secretary of State is valid only if given in writing and may be—
 
 - (a) given subject to such conditions and limitations as the Secretary of State may specify; and
-- (b) on the giving of reasonable notice,[^key-1a5b9cd7f3aa16fdea6e35106eef16e3] altered or cancelled by a notice given in writing by the Secretary of State.
+- (b) on the giving of reasonable notice,[^c-1a5b9cd7f3aa16fdea6e35106eef16e3] altered or cancelled by a notice given in writing by the Secretary of State.
 
 (5) An exemption under paragraph (3) may be granted only if the exemption is compatible with requirements under Annex I.
 
-(5A)[^key-d8c63875aeb1165e3a26b06bb80fbf53] Where an exemption is granted under paragraph (3) in respect of a UNSP barge which is a United Kingdom ship, in relation to regulation 10 (surveys), 12 (issue and endorsement of IOPP Certificates) or 13 (issue of UKOPP Certificates), the Secretary of State must issue a UNSP Exemption Certificate.
+(5A)[^c-d8c63875aeb1165e3a26b06bb80fbf53] Where an exemption is granted under paragraph (3) in respect of a UNSP barge which is a United Kingdom ship, in relation to regulation 10 (surveys), 12 (issue and endorsement of IOPP Certificates) or 13 (issue of UKOPP Certificates), the Secretary of State must issue a UNSP Exemption Certificate.
 
 (5B) Where an exemption is altered or cancelled under paragraph (4)(b), the Secretary of State must indicate this on the UNSP Exemption Certificate.
 
@@ -216,7 +216,7 @@ relating to construction or equipment unreasonable or impractical, provided the 
 
 (5F) A UNSP Exemption Certificate must not be issued in respect of a ship entitled to fly the flag of a State which is not a Convention Country.
 
-(6)[^key-b66bd98f55285761a09a182bdc08c5c3] In this regulation—
+(6)[^c-b66bd98f55285761a09a182bdc08c5c3] In this regulation—
 
 - “UNSP” barge means an unmanned non-self-propelled barge that—
   - (a) is not propelled by mechanical means;
@@ -226,7 +226,7 @@ relating to construction or equipment unreasonable or impractical, provided the 
   - (e) has neither persons nor living animals on board; and
 - “**UNSP Exemption Certificate**” means the certificate described as “International Oil Pollution Prevention Exemption Certificate for Unmanned Non-self-propelled (UNSP) Barges” in appendix IV to Annex I.
 
-### 8. Equivalents[^key-51186f294725d5e1972cae13907a48bd]
+### 8. Equivalents[^c-51186f294725d5e1972cae13907a48bd]
 
 (1) Subject to paragraph (2), any fitting, material, appliance or apparatus may be fitted in a ship as an alternative to one that complies with Annex I if it has been approved by the Secretary of State and—
 
@@ -240,7 +240,7 @@ relating to construction or equipment unreasonable or impractical, provided the 
 
 (3) For the purposes of these Regulations a fitting, material, appliance or apparatus fitted to a ship as an alternative to any of the requirements in Annex I meets the requirements of Annex I providing it has been approved in accordance with the procedure specified in paragraph (1).
 
-### 9. Authorisation of Certifying Authorities[^key-36bfe3f5e5d3f5327bdb0e64effe2aef]
+### 9. Authorisation of Certifying Authorities[^c-36bfe3f5e5d3f5327bdb0e64effe2aef]
 
 A person authorised by the Secretary of State as a Certifying Authority must be authorised in accordance with—
 
@@ -249,7 +249,7 @@ A person authorised by the Secretary of State as a Certifying Authority must be 
 
 ## PART 2 — Surveys, Certificates and Oil Record Book
 
-### 10. Surveys[^key-b64e42e31ed25f07948a5e6289916d43]
+### 10. Surveys[^c-b64e42e31ed25f07948a5e6289916d43]
 
 (1) This regulation applies to—
 
@@ -283,7 +283,7 @@ A person authorised by the Secretary of State as a Certifying Authority must be 
 
 (7) A repair or renewal is to be regarded as not being an important repair or renewal for those purposes unless the Secretary of State advises to the contrary within 21 days of receipt of a request under paragraph (6).
 
-### 11. Responsibilities of owner and master[^key-71601d6bfadf9394037ca8fed9de0399]
+### 11. Responsibilities of owner and master[^c-71601d6bfadf9394037ca8fed9de0399]
 
 (1) The owner and master of a ship must ensure the condition of the ship and its equipment is maintained to conform—
 
@@ -319,7 +319,7 @@ which substantially affects the integrity of the ship or the efficiency or compl
 
 (7) In paragraph (2) “**direct replacement**” means direct replacement of equipment and fittings with equipment and fittings that conform with the requirements under Annex I which apply to that ship.
 
-### 12. Issue and endorsement of IOPP Certificates[^key-f5734c3edad53de3c8f0f1d41d779fa1]
+### 12. Issue and endorsement of IOPP Certificates[^c-f5734c3edad53de3c8f0f1d41d779fa1]
 
 (1) This regulation applies to—
 
@@ -367,7 +367,7 @@ an IOPP Certificate in respect of that ship, in accordance with the requirements
 
 (11) In this regulation “**Contracting State**” means a State which has consented to be bound by the Convention.
 
-### 13. Issue of UKOPP certificates[^key-69c5af76464e6907a6ef476bfbe26464]
+### 13. Issue of UKOPP certificates[^c-69c5af76464e6907a6ef476bfbe26464]
 
 (1) This regulation applies to—
 
@@ -385,7 +385,7 @@ which is not engaged in international voyages.
 - (a) references to an “IOPP Certificate” are substituted by a reference to a “UKOPP Certificate”;
 - (b) provisions relating to the “endorsement for annual and intermediate surveys”, or an “annual/ intermediate survey in accordance with regulation 10.8.3” are omitted.
 
-### 14. Duration and validity of certificates[^key-1c4d0a1ac11f3453ad7a1af38ae2c87b]
+### 14. Duration and validity of certificates[^c-1c4d0a1ac11f3453ad7a1af38ae2c87b]
 
 (1) Subject to paragraphs (2) to (6), an IOPP or UKOPP Certificate must be issued for a period specified by the Certifying Authority which must not exceed five years.
 
@@ -407,7 +407,7 @@ which is not engaged in international voyages.
 - (b) if the IOPP certificate is not endorsed following an intermediate or annual survey; or
 - (c) upon transfer of the ship to the flag of another State.
 
-### 15. Extension of validity of certificates[^key-80a73daa0636c77cb56b9ef4834afb8b]
+### 15. Extension of validity of certificates[^c-80a73daa0636c77cb56b9ef4834afb8b]
 
 (1) If an IOPP certificate is issued for a period of validity of less than five years, the Certifying Authority which issued the certificate may extend the period of validity of that certificate to a maximum of five years provided annual and intermediate surveys have been completed as appropriate.
 
@@ -455,7 +455,7 @@ may be issued as being valid to a date not exceeding five years from the date of
 
 and for the purposes of this definition, no account is to be taken of any deviation by a ship from its intended voyage due solely to stress of weather or any other circumstances that neither the master nor the owner nor the charterer (if any) of the ship could have prevented or forestalled.
 
-### 16. Miscellaneous provisions relating to certificates[^key-55436b149ca3992c44bef2085be69655]
+### 16. Miscellaneous provisions relating to certificates[^c-55436b149ca3992c44bef2085be69655]
 
 (1) The Secretary of State may cancel an IOPP or UKOPP certificate issued in respect of a United Kingdom ship where the Secretary of State has reason to believe that—
 
@@ -475,7 +475,7 @@ and for the purposes of this definition, no account is to be taken of any deviat
 
 (4) The owner and the master of a United Kingdom ship in respect of which an IOPP or UKOPP certificate has been issued must ensure that the certificate is readily available on board the ship for inspection at all times.
 
-### 17. Procedure to be adopted when a ship is deficient[^key-ccaca91505566fa4c514069ea025f60e]
+### 17. Procedure to be adopted when a ship is deficient[^c-ccaca91505566fa4c514069ea025f60e]
 
 (1) Where the Certifying Authority determines that the condition of a United Kingdom ship or its equipment—
 
@@ -495,7 +495,7 @@ the Certifying Authority must inform the owner or master of the corrective actio
 
 (5) Where notification has been received under paragraph (4), the Secretary of State must take such steps as are necessary to ensure that the ship will not sail until it can proceed to sea, or leave the port for the purposes of proceeding to the nearest appropriate repair yard, without presenting an unreasonable threat of harm to the marine environment.
 
-### 18. Arbitration[^key-e070dd85220099ca9a46ade0598c5a5f]
+### 18. Arbitration[^c-e070dd85220099ca9a46ade0598c5a5f]
 
 (1) If an applicant is dissatisfied for any reason with the outcome of a survey carried out in respect of a United Kingdom ship by virtue of these Regulations, the applicant may serve a written notice on the responsible person within 21 days of receiving notification of that outcome—
 
@@ -543,7 +543,7 @@ but this paragraph does not apply in Scotland.
   - (ii) in the case of a dispute relating to a relevant additional survey required by regulation 10(4)(e), the Certifying Authority which issued the appropriate certificate in respect of the ship;
 - (d) “**the STCW Convention**” means the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as amended [^c23683951], and any subsequent amendment to that Convention.
 
-### 19. Prohibition on non-United Kingdom ships proceeding to sea[^key-e5d004a41a4e467a602b5116bdfec1a7]
+### 19. Prohibition on non-United Kingdom ships proceeding to sea[^c-e5d004a41a4e467a602b5116bdfec1a7]
 
 A ship which is not a United Kingdom ship and which, by virtue of regulation 7 of Annex I, is required to be issued with an IOPP certificate must not be enabled to proceed to sea from a port in the United Kingdom unless—
 
@@ -556,13 +556,13 @@ A ship which is not a United Kingdom ship and which, by virtue of regulation 7 o
   - (i) is satisfied that the ship can proceed to sea for the purpose of proceeding to the nearest appropriate repair yard without presenting an unreasonable threat of harm to the marine environment; and
   - (ii) has permitted the ship to proceed.
 
-### 20. Oil Record Book[^key-92e6d1e94381d2210aa66ba37d39d30b]
+### 20. Oil Record Book[^c-92e6d1e94381d2210aa66ba37d39d30b]
 
 (1) Every oil tanker of 150 GT and above, and every ship of 400 GT and above other than an oil tanker, must be provided with an Oil Record Book Part I (Machinery Space Operations).
 
 (2) Every oil tanker of 150 GT and above must be provided with an Oil Record Book Part II (Cargo/ Ballast Operations).
 
-(3)[^key-e89df6ae5f875d00d35393338792bdda] The Oil Record Books referred to in paragraphs (1) and (2) must be in—
+(3)[^c-e89df6ae5f875d00d35393338792bdda] The Oil Record Books referred to in paragraphs (1) and (2) must be in—
 
 - (a) the format specified in—
   - (i) regulation 17.1 of Annex I (oil record book, part I (machinery space operations)); or
@@ -580,7 +580,7 @@ A ship which is not a United Kingdom ship and which, by virtue of regulation 7 o
 
 (7) Each operation referred to in paragraph (5) must be fully recorded without delay in the Oil Record Book and all entries in the book appropriate to that operation must be completed.
 
-(8) Once an operation recorded under paragraph (7) is complete, the entry in the Oil Record Book for that operation must be signed-off by the officer or officers in charge of that operation, and each completed page or group of electronic entries[^key-8573bf4f2148c31aea3b661b8929e98c] must be signed by the master.
+(8) Once an operation recorded under paragraph (7) is complete, the entry in the Oil Record Book for that operation must be signed-off by the officer or officers in charge of that operation, and each completed page or group of electronic entries[^c-8573bf4f2148c31aea3b661b8929e98c] must be signed by the master.
 
 (9) Any failure of the—
 
@@ -605,7 +605,7 @@ A ship which is not a United Kingdom ship and which, by virtue of regulation 7 o
 
 ## PART 3 — Requirements for Control of Operational Pollution—Control of Discharge of Oil
 
-### 21. General exceptions[^key-175e064db318bc1f90088e10af1c50ec]
+### 21. General exceptions[^c-175e064db318bc1f90088e10af1c50ec]
 
 (1) Regulations 25, 26, and paragraph 1.1.1 of part II-A of the Polar Code do not apply to—
 
@@ -617,7 +617,7 @@ A ship which is not a United Kingdom ship and which, by virtue of regulation 7 o
 
 (2) For the purposes of paragraph (1)(c) “**approved**” means approved by the Government in whose jurisdiction the discharge is expected to be made.
 
-### 22. Exceptions for damage to a ship or its equipment in internal or controlled waters[^key-11b010139c06120371a937022917a0dd]
+### 22. Exceptions for damage to a ship or its equipment in internal or controlled waters[^c-11b010139c06120371a937022917a0dd]
 
 The provisions of regulations 25 and 26 do not apply to any discharge of oil or oily mixture from an excepted ship into a part of the sea which is within the United Kingdom or its controlled waters which results from damage to a ship or its equipment if—
 
@@ -630,7 +630,7 @@ The provisions of regulations 25 and 26 do not apply to any discharge of oil or 
   - (i) with intent to cause damage; or
   - (ii) recklessly and with knowledge that damage would probably result.
 
-### 23. Exceptions for damage to a ship or its equipment in other waters[^key-4bfe0d705f73a5799d09ae8a730a15cb]
+### 23. Exceptions for damage to a ship or its equipment in other waters[^c-4bfe0d705f73a5799d09ae8a730a15cb]
 
 (1) The provisions of regulations 25 and 26 do not apply to any discharge of oil or oily mixture from a United Kingdom excepted ship into a part of the sea outside the United Kingdom or its controlled waters which results from damage to a ship or its equipment if—
 
@@ -650,7 +650,7 @@ The provisions of regulations 25 and 26 do not apply to any discharge of oil or 
   - (i) with intent to cause damage; or
   - (ii) recklessly and with knowledge that damage would probably result.
 
-### 24. Definitions for the purposes of regulations 21 to 23[^key-8c4db24afdbeb013ceeb677fa150d307]
+### 24. Definitions for the purposes of regulations 21 to 23[^c-8c4db24afdbeb013ceeb677fa150d307]
 
 In regulations 21 to 23—
 
@@ -664,7 +664,7 @@ In regulations 21 to 23—
   - (iv) an owner of cargo carried on the ship; and
   - (v) a classification society which has issued a class certificate showing that the ship conforms to the class standards stipulated by that society.
 
-### 25. Control of discharge of oil from ships[^key-fd93b037679d8c4fd7e5ebe48bc725e8]
+### 25. Control of discharge of oil from ships[^c-fd93b037679d8c4fd7e5ebe48bc725e8]
 
 (1) Subject to regulations 21 to 23, and paragraph (2), the discharge into the sea of oil or oily mixture from the machinery space of any ship is prohibited.
 
@@ -697,7 +697,7 @@ is prohibited.
 
 (7) Oil residues which cannot be discharged into the sea in compliance with regulation 15 of Annex I must be retained on board for subsequent discharge to reception facilities.
 
-### 26. Control of discharge of oil from oil tankers[^key-bb08d103dba0430f88a1b80873b830e6]
+### 26. Control of discharge of oil from oil tankers[^c-bb08d103dba0430f88a1b80873b830e6]
 
 (1) Subject to regulations 21 to 23, and paragraphs (2) and (4), the discharge into the sea of oil or oily mixtures from the cargo area of an oil tanker is prohibited.
 
@@ -732,11 +732,11 @@ is prohibited.
 
 (9) In this regulation “clean ballast” and “segregated ballast” have the meaning given in regulation 1 of Annex I.
 
-### 27. Control of discharge of oil in certain special areas[^key-b9995752d5c2fec1c1c532a48b0556f4]
+### 27. Control of discharge of oil in certain special areas[^c-b9995752d5c2fec1c1c532a48b0556f4]
 
 (1) An area referred to in paragraph (2) is not a special area for the purposes of regulations 25 and 26 until such date as the IMO—
 
-- (a) establishes, in accordance with regulation 38.8.1[^key-ad83490793891e3bf90a2daba22a6a9e] of Annex I, the date from which the requirements of regulations 15 and 34 of that Annex will take effect in respect of the area in question; and
+- (a) establishes, in accordance with regulation 38.8.1[^c-ad83490793891e3bf90a2daba22a6a9e] of Annex I, the date from which the requirements of regulations 15 and 34 of that Annex will take effect in respect of the area in question; and
 - (b) publishes a notice to that effect on the website of the IMO [^c23683961].
 
 (2) The areas are—
@@ -749,7 +749,7 @@ as defined in regulation 1.11.4, 1.11.6 and 1.11.9 of Annex I.
 
 (3) Until such time as notification is given under paragraph (1), ships navigating in the areas described in paragraph (2) must comply with the discharge requirements in regulations 25 and 26 as if those areas were not special areas.
 
-### 28. Special requirements for the use or carriage of oils in the Antarctic Area[^key-a322cc8d93ab134fb4a63a1ffba96f87]
+### 28. Special requirements for the use or carriage of oils in the Antarctic Area[^c-a322cc8d93ab134fb4a63a1ffba96f87]
 
 (1) With the exception of vessels engaged in ensuring the safety of ships, or in a search and rescue operation, the—
 
@@ -761,7 +761,7 @@ of any of the substances listed in regulation 43.1 of Annex I is prohibited in t
 
 (2) When prior operations have included the carriage or use of substances referred to in paragraph (1), the cleaning or flushing of tanks or pipelines is not required.
 
-### 28A. Special requirements for the use and carriage of oils as fuel in Arctic waters[^key-958a2a705521b36ca60dffbdbdf3f39f]
+### 28A. Special requirements for the use and carriage of oils as fuel in Arctic waters[^c-958a2a705521b36ca60dffbdbdf3f39f]
 
 (1) This regulation does not apply to ships—
 
@@ -784,7 +784,7 @@ apply.
 
 ## PART 4 — Machinery Spaces on Ships
 
-### 29. Requirements for Machinery Spaces on all Ships[^key-453d2d2ad4123bc67fcd9402c80caedb]
+### 29. Requirements for Machinery Spaces on all Ships[^c-453d2d2ad4123bc67fcd9402c80caedb]
 
 (1) Subject to paragraphs (3) and (4), the—
 
@@ -810,13 +810,13 @@ of any ship to which these Regulations apply must comply with such of the requir
 (4) The Secretary of State may waive the requirements specified in regulation 14.1 and 14.2 of Annex I for—
 
 - (a) any ship engaged exclusively on voyages within special areas or Arctic waters; and
-- (b) any ship compliant with the provisions of regulation 9 of the Merchant Shipping (High Speed Craft) Regulations 2022[^key-e98d09a45b7c9c2d3d33973e5eb14882] relevant to that ship which is engaged on a scheduled service with a turn-around time not exceeding 24 hours, including non-passenger or cargo carrying relocation voyages for these ships,
+- (b) any ship compliant with the provisions of regulation 9 of the Merchant Shipping (High Speed Craft) Regulations 2022[^c-e98d09a45b7c9c2d3d33973e5eb14882] relevant to that ship which is engaged on a scheduled service with a turn-around time not exceeding 24 hours, including non-passenger or cargo carrying relocation voyages for these ships,
 
 provided the conditions in regulation 14.5.3 of Annex I are satisfied.
 
 ## PART 5 — Oil Tankers
 
-### 30. Requirements for Cargo Areas of Oil Tankers[^key-3505bb85581acc1f0ba5f166043d2dd8]
+### 30. Requirements for Cargo Areas of Oil Tankers[^c-3505bb85581acc1f0ba5f166043d2dd8]
 
 (1) Subject to paragraphs (3) and (4) the—
 
@@ -847,7 +847,7 @@ of any oil tanker to which these Regulations apply must comply with such of the 
 
 (6) The ship-to-ship transfer of heavy grade oil within the territorial waters of the United Kingdom involving a ship operating in accordance with the provisions referred to in in paragraph (5)(b) is prohibited unless it is necessary to secure the safety of a ship or to save life at sea.
 
-### 31. Retention of oil on board[^key-3231e65bd4d105d4e8b9a04b34910b28]
+### 31. Retention of oil on board[^c-3231e65bd4d105d4e8b9a04b34910b28]
 
 (1) Subject to paragraphs (2) to (4), oil tankers of 150 GT and above must comply with the requirements of regulations 29, 31 and 32 of Annex I.
 
@@ -887,7 +887,7 @@ of any oil tanker to which these Regulations apply must comply with such of the 
 
 (8) In this regulation “**nearest land**” has the meaning given in regulation 1 of Annex I.
 
-### 32. Crude oil washing operations[^key-e2e33ad8d6581527ab9bd168bcb6af83]
+### 32. Crude oil washing operations[^c-e2e33ad8d6581527ab9bd168bcb6af83]
 
 (1) Every oil tanker operating with crude oil washing systems as required by regulation 33 of Annex I must be provided with an Operations and Equipment Manual [^c23683991] describing the system and equipment in detail and specifying the operational procedures to be followed.
 
@@ -904,7 +904,7 @@ of any oil tanker to which these Regulations apply must comply with such of the 
 
 ## PART 6 — Offshore Installations
 
-### 33. Requirements for Offshore Installations[^key-5c9d3e885e2fc18a2d4be0085e9df2ac]
+### 33. Requirements for Offshore Installations[^c-5c9d3e885e2fc18a2d4be0085e9df2ac]
 
 (1) Subject to paragraph (2), offshore installations engaged in the exploration, exploitation or associated offshore processing of sea-bed mineral resources must comply with such requirements of these Regulations and Annex I as are applicable to ships (other than oil tankers) of 400 GT and above except that—
 
@@ -948,7 +948,7 @@ the Secretary of State must, in assessing compliance with paragraph (1), take ac
 
 ## PART 7 — Prevention of Pollution arising from an Oil Pollution Incident
 
-### 34. Shipboard oil pollution emergency plan[^key-dc30938a2819f13b3322b7e20023acdb]
+### 34. Shipboard oil pollution emergency plan[^c-dc30938a2819f13b3322b7e20023acdb]
 
 (1) Every—
 
@@ -961,7 +961,7 @@ must carry on board a shipboard oil pollution emergency plan approved by the Sec
 
 (3) The plan must include—
 
-- (a) the procedure to be followed by the master or other persons having charge of the ship to report an oil pollution incident, as required by the Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024[^key-5a6e1930d34a49fa06dc62c2d74d254d];
+- (a) the procedure to be followed by the master or other persons having charge of the ship to report an oil pollution incident, as required by the Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024[^c-5a6e1930d34a49fa06dc62c2d74d254d];
 - (b) the list of persons (including national and local authorities) to be contacted in the event of an oil pollution incident;
 - (c) a detailed description of the action to be taken immediately by persons on board to reduce or control the discharge of oil following the incident; and
 - (d) the procedures and point of contact on the ship for co-ordinating shipboard action with national and local authorities in combating the pollution.
@@ -976,7 +976,7 @@ must carry on board a shipboard oil pollution emergency plan approved by the Sec
 
 ## PART 8 — Polar Code
 
-### 35. Application of the Polar Code[^key-dfe6c7697a298e501c6fd1352ae63f5a]
+### 35. Application of the Polar Code[^c-dfe6c7697a298e501c6fd1352ae63f5a]
 
 (1) This regulation applies to all ships operating in polar waters.
 
@@ -993,7 +993,7 @@ of the Polar Code.
 
 ## PART 9 — Enforcement
 
-### 36. Inspection of ships[^key-03dfe98908f521c93baf539c783ed1e8]
+### 36. Inspection of ships[^c-03dfe98908f521c93baf539c783ed1e8]
 
 (1) In so far as sections 258 (powers to inspect ships and their equipment, etc.) and 259 (powers of inspectors in relation to premises and ships) of the 1995 Act [^c23684061] apply in relation to a ship to which these Regulations apply, for the purpose of checking compliance with these Regulations those sections have effect subject to the following modifications.
 
@@ -1029,7 +1029,7 @@ except where there are clear grounds for believing that the condition of the shi
 
 (7) In this regulation “**oil residue (sludge)**” has the meaning given in regulation 1 of Annex I.
 
-### 37. Investigation of alleged violations by United Kingdom ships[^key-c903729eba519e39d317e01368ff3726]
+### 37. Investigation of alleged violations by United Kingdom ships[^c-c903729eba519e39d317e01368ff3726]
 
 Upon receiving evidence that a substance has been discharged from a United Kingdom ship in violation of these Regulations the Secretary of State must—
 
@@ -1037,7 +1037,7 @@ Upon receiving evidence that a substance has been discharged from a United Kingd
 - (b) inform the IMO of the action taken; and
 - (c) where another State has reported the violation, inform that State of the action taken.
 
-### 38. General provisions on detention[^key-cd95655644bbea1b6d89c2a35e5224de]
+### 38. General provisions on detention[^c-cd95655644bbea1b6d89c2a35e5224de]
 
 (1) Where a determination is made of the kind mentioned in regulation 16(1) in relation to a ship, or a surveyor of ships has clear grounds for believing that—
 
@@ -1051,7 +1051,7 @@ the ship is liable to be detained until a surveyor of ships is satisfied that it
 
 (2) Notwithstanding paragraph (1) a person having powers to detain a ship may permit a ship which is liable to be detained under that paragraph to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard available.
 
-(3) Where a surveyor of ships has clear grounds for believing that an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^key-6849d93b10fc03615d393c91d773b54c] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 has been committed in respect of a ship, the ship is liable to be detained.
+(3) Where a surveyor of ships has clear grounds for believing that an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^c-6849d93b10fc03615d393c91d773b54c] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 has been committed in respect of a ship, the ship is liable to be detained.
 
 (4) The power under this regulation to detain a ship may only be exercised if the ship in question is—
 
@@ -1072,7 +1072,7 @@ the ship is liable to be detained until a surveyor of ships is satisfied that it
 
 (8) Where a ship is detained under paragraph (3), a person having power to detain the ship must, at the request of the owner, manager, demise charterer or master, immediately release the ship—
 
-- (a) if no proceedings for an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^key-54f1a310d1e06361a5985dc14b40a6eb] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 are instituted within the period of seven days beginning with the day on which the ship is detained;
+- (a) if no proceedings for an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^c-54f1a310d1e06361a5985dc14b40a6eb] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 are instituted within the period of seven days beginning with the day on which the ship is detained;
 - (b) if proceedings for any such offence having been instituted within that period are concluded without the owner, manager, demise charterer or master being convicted;
 - (c) if either—
   - (i) the sum of £30,000 is paid to the Secretary of State by way of security; or
@@ -1084,10 +1084,10 @@ the ship is liable to be detained until a surveyor of ships is satisfied that it
 
 (9) The Secretary of State must repay any sum paid in pursuance of paragraph (8)(c) or release any security so given—
 
-- (a) if no proceedings for an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^key-83c779b7f2123d4cee20f0284ff7fe19] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 are instituted within the period of seven days beginning with the day on which the sum is paid; or
+- (a) if no proceedings for an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^c-83c779b7f2123d4cee20f0284ff7fe19] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 are instituted within the period of seven days beginning with the day on which the sum is paid; or
 - (b) if proceedings for any such offence, having been instituted within that period, are concluded without the owner, manager, demise charterer or master being convicted.
 
-(10) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (8)(c) and the owner, manager, demise charterer or master is convicted of an offence comprising a contravention of any of regulations 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^key-311837a6afa1b63c6a5d9cf0e46c19a3] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32, the sum so paid or the amount made available under the security must be applied as follows—
+(10) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (8)(c) and the owner, manager, demise charterer or master is convicted of an offence comprising a contravention of any of regulations 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^c-311837a6afa1b63c6a5d9cf0e46c19a3] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32, the sum so paid or the amount made available under the security must be applied as follows—
 
 - (a) first, in payment of any costs or expenses ordered by the court to be paid by the owner, manager, demise charterer or master; and
 - (b) next, in payment of any fine imposed by the court,
@@ -1097,11 +1097,11 @@ and any balance must be repaid to the first-mentioned person.
 (11) Section 145 of the 1995 Act [^c23684081] (interpretation of section 144) applies for the purposes of paragraphs (8) to (10) as if—
 
 - (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master; and
-- (b) references to an offence under section 131 were references to an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1) or 28A(2) or (3)[^key-e36679aa5e64369f4e66e8f21763a928].
+- (b) references to an offence under section 131 were references to an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1) or 28A(2) or (3)[^c-e36679aa5e64369f4e66e8f21763a928].
 
-### 39. Power for harbour master to detain[^key-e8fb8473dffb9e2d68c298f680ee9f0e]
+### 39. Power for harbour master to detain[^c-e8fb8473dffb9e2d68c298f680ee9f0e]
 
-(1) Where the harbour master of a harbour in the United Kingdom has clear grounds for believing that an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^key-4b76b7cb7ec32e1aca8476dcb92da085] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 has been committed the harbour master may detain that ship.
+(1) Where the harbour master of a harbour in the United Kingdom has clear grounds for believing that an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^c-4b76b7cb7ec32e1aca8476dcb92da085] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 has been committed the harbour master may detain that ship.
 
 (2) Section 144(2) and (3) of the 1995 Act (harbour master's power to detain ships for certain offences) applies to a detention under paragraph (1) as it applies to a detention under section 144(1) of the 1995 Act.
 
@@ -1112,7 +1112,7 @@ and any balance must be repaid to the first-mentioned person.
 
 (4) Where a ship is detained under paragraph (1), the harbour master must immediately release the ship—
 
-- (a) if no proceedings for an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^key-ee2556ab81fffe61bcd22fb2e8e6e083] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 are instituted within the period of seven days beginning with the day on which the ship is detained;
+- (a) if no proceedings for an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^c-ee2556ab81fffe61bcd22fb2e8e6e083] 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 are instituted within the period of seven days beginning with the day on which the ship is detained;
 - (b) if proceedings for any such offence, having been instituted within that period, are concluded without the owner, manager, demise charterer or master being convicted;
 - (c) if either—
   - (i) the sum of £30,000 is paid to the harbour authority by way of security; or
@@ -1127,7 +1127,7 @@ and any balance must be repaid to the first-mentioned person.
 - (a) if no proceedings for an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27, 28, 29(1) to (3), 30(1) to (3), (5) and (6), 31 or 32 are instituted within the period of seven days beginning with the day on which the sum is paid; or
 - (b) if proceedings for any such offence, having been instituted within that period, are concluded without the owner, manager, demise charterer or master being convicted.
 
-(6) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (4)(c) and the owner, manager, demise charterer or master is convicted of an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^key-4a7a0afcc931aa873c2d3d86d36ea50c] 29(1) to (3), 30(1) to (3), (5) to (6), 31 or 32, the sum so paid or the amount made available under the security must be applied as follows—
+(6) Where a sum has been paid, or security has been given, by any person in pursuance of paragraph (4)(c) and the owner, manager, demise charterer or master is convicted of an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1), 28A(2) or (3),[^c-4a7a0afcc931aa873c2d3d86d36ea50c] 29(1) to (3), 30(1) to (3), (5) to (6), 31 or 32, the sum so paid or the amount made available under the security must be applied as follows—
 
 - (a) first, in payment of any costs or expenses ordered by the court to be paid by the owner, manager, demise charterer or master; and
 - (b) next, in payment of any fine imposed by the court,
@@ -1137,35 +1137,35 @@ and any balance must be repaid to the first-mentioned person.
 (7) Section 145 of the 1995 Act (interpretation of section 144) applies for the purposes of paragraphs (4) to (6) as if—
 
 - (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master; and
-- (b) references to any offence under section 131 were references to an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1) or 28A(2) or (3)[^key-3e3d35dc3d112bd4ea79bf22554ae266].
+- (b) references to any offence under section 131 were references to an offence comprising a contravention of any of regulation 25(1) to (3), 25(6) and (7), 26(1) to (3), 26(8), 27(3), 28(1) or 28A(2) or (3)[^c-3e3d35dc3d112bd4ea79bf22554ae266].
 
-### 40. Duty of harbour master to report deficient ships[^key-1fa629975123a777c31f1fb5c811d687]
+### 40. Duty of harbour master to report deficient ships[^c-1fa629975123a777c31f1fb5c811d687]
 
 If the harbour master of a harbour in the United Kingdom has reason to believe that a ship is about to enter or leave the harbour and does not comply with the requirements of these Regulations, the harbour master must immediately report the matter to the Secretary of State.
 
-### 41. Right of appeal and compensation[^key-29b4a019bef5283f66c297d9b617c586]
+### 41. Right of appeal and compensation[^c-29b4a019bef5283f66c297d9b617c586]
 
-(1) Regulations 20 and 21 of the Merchant Shipping (Port State Control) Regulations 2026 (arbitration and compensation for unjustified detention)[^key-bb81a9a4afb6f28e7db807bb7e8a50b3] apply in relation to the exercise of the powers of detention under these Regulations as they apply in relation to the exercise of those powers under [^key-9ef05c26e10d8677f64a99197c9445ee]... those Regulations, subject to the modifications in paragraph (2).
+(1) Regulations 20 and 21 of the Merchant Shipping (Port State Control) Regulations 2026 (arbitration and compensation for unjustified detention)[^c-bb81a9a4afb6f28e7db807bb7e8a50b3] apply in relation to the exercise of the powers of detention under these Regulations as they apply in relation to the exercise of those powers under [^c-9ef05c26e10d8677f64a99197c9445ee]... those Regulations, subject to the modifications in paragraph (2).
 
 (2) The modifications are—
 
 - (a) references to “inspector” are to be read as references to the authority detaining the ship or the harbour master, as the case may be;
 - (b) references to—
-  - (i) “issue of a refusal of access notice” (regulation 21(1)[^key-7cc2881e1ffbd6ab2bf57655531d7839]);
-  - (ii)[^key-f88f89888741722491069cfeccdcc48f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii) “refusal of access notice” (regulations 20 and 21[^key-8023ee0a280ebc1e3bcd4990947ce6fa]);
-  - (iv) “served with a refusal of access notice” (regulation 20(4)[^key-388651aebd696603643c62481ca11494]); and
-  - (v) “service of a refusal of access notice” (regulation 20(7)[^key-bee2802323db1bd8bedf707f31a7e1a3]),
+  - (i) “issue of a refusal of access notice” (regulation 21(1)[^c-7cc2881e1ffbd6ab2bf57655531d7839]);
+  - (ii)[^c-f88f89888741722491069cfeccdcc48f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) “refusal of access notice” (regulations 20 and 21[^c-8023ee0a280ebc1e3bcd4990947ce6fa]);
+  - (iv) “served with a refusal of access notice” (regulation 20(4)[^c-388651aebd696603643c62481ca11494]); and
+  - (v) “service of a refusal of access notice” (regulation 20(7)[^c-bee2802323db1bd8bedf707f31a7e1a3]),
 
   are omitted; and
-- (c) in regulation 21(3)[^key-0ca415e0836f0d277a69d34d7a1fc1e9] after the word “State”, insert “ , except where the ship is detained by a harbour master, in which case any compensation awarded under this section is payable by the harbour authority. ”.
+- (c) in regulation 21(3)[^c-0ca415e0836f0d277a69d34d7a1fc1e9] after the word “State”, insert “ , except where the ship is detained by a harbour master, in which case any compensation awarded under this section is payable by the harbour authority. ”.
 
-### 42. Offences[^key-ee43d5c1fa6f703eb04976469f764498]
+### 42. Offences[^c-ee43d5c1fa6f703eb04976469f764498]
 
 (1) Any contravention of—
 
 - (a) regulation 6, 11(1) to (4), 16(2) or (4), 19, 34(6) or 35 is an offence by the owner and by the master of the ship in question;
-- (b) regulation 15(4), 20, 25, 26, 27(3), 28(1), 28A(2) or (3),[^key-d716edaa53d4a2e706b761620b8a61b0] 29, 30, 31, 32, 33 or 34(1) to (3) is an offence by the owner, manager, demise charterer and master of the ship in question;
+- (b) regulation 15(4), 20, 25, 26, 27(3), 28(1), 28A(2) or (3),[^c-d716edaa53d4a2e706b761620b8a61b0] 29, 30, 31, 32, 33 or 34(1) to (3) is an offence by the owner, manager, demise charterer and master of the ship in question;
 - (c) regulation 16(3) is an offence by the person in question.
 
 (2) Any failure by a master to comply with a requirement under regulation 36(5)(b) is an offence.
@@ -1177,7 +1177,7 @@ If the harbour master of a harbour in the United Kingdom has reason to believe t
   - (ii) in Scotland and Northern Ireland by a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment by a fine.
 
-### 43. Service of documents on foreign companies[^key-c23467bcdb286a3beb8cc13ae95d4e60]
+### 43. Service of documents on foreign companies[^c-c23467bcdb286a3beb8cc13ae95d4e60]
 
 Section 143(6) of the 1995 Act [^c23684101] (service of documents on foreign companies required or authorised by any statutory provision in connection with proceedings for an offence under section 131 of the 1995 Act) applies to proceedings for an offence under these Regulations as it applies to proceedings for an offence under section 131 as if—
 
@@ -1187,16 +1187,16 @@ Section 143(6) of the 1995 Act [^c23684101] (service of documents on foreign com
   - (i) the owner of the ship was a reference to the owner of the offshore installation; and
   - (ii) the master of the ship was a reference to the manager of the offshore installation.
 
-### 44. Enforcement and application of fines[^key-c2f090b472ea17e09779fbe3424f6684]
+### 44. Enforcement and application of fines[^c-c2f090b472ea17e09779fbe3424f6684]
 
 Section 146 of the 1995 Act (enforcement and application of fines) applies to any fine for an offence comprising a contravention of any of regulations 25 to 35 as if—
 
 - (a) in subsection (1) of that section the reference to proceedings against the owner or master of a ship for an offence under Chapter 2 of the 1995 Act were a reference to proceedings against the owner, manager, demise charterer or master for an offence comprising a contravention of any of regulations 25 to 35; and
-- (b) in subsection (2) of that section, the reference to an offence under section 131 were a reference to an offence comprising a contravention of any of regulations 25 to 28A[^key-6babca48ffe52a775cb7199e7ae4408a].
+- (b) in subsection (2) of that section, the reference to an offence under section 131 were a reference to an offence comprising a contravention of any of regulations 25 to 28A[^c-6babca48ffe52a775cb7199e7ae4408a].
 
-### 45. Restriction on jurisdiction over offences outside United Kingdom limits[^key-3fdcaba811dba9842c010b3aaac7abdd]
+### 45. Restriction on jurisdiction over offences outside United Kingdom limits[^c-3fdcaba811dba9842c010b3aaac7abdd]
 
-(1) In the case of a contravention of any of regulations 25 to 28A[^key-9be10d1ab89692da691f04b590a01328] in respect of a ship which is not a United Kingdom ship in the internal waters, territorial sea or exclusive economic zone of a foreign State, proceedings in respect of that offence must not be instituted in the United Kingdom unless—
+(1) In the case of a contravention of any of regulations 25 to 28A[^c-9be10d1ab89692da691f04b590a01328] in respect of a ship which is not a United Kingdom ship in the internal waters, territorial sea or exclusive economic zone of a foreign State, proceedings in respect of that offence must not be instituted in the United Kingdom unless—
 
 - (a) that foreign State, the flag State of the ship in question or a State polluted or threatened with pollution as a result of the offence requests that proceedings be taken; or
 - (b) the offence has caused or is likely to cause oil pollution in controlled waters or United Kingdom waters.
@@ -1208,30 +1208,30 @@ Section 146 of the 1995 Act (enforcement and application of fines) applies to an
 - “**exclusive economic zone**”, in relation to a foreign state, means the area beyond and adjacent to the territorial sea of that State, but not extending beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured; and
 - “**foreign State**” means a State other than the United Kingdom.
 
-### 46. Suspension of proceedings at flag State request[^key-5341e8c5cf33800c5b235bc39969bf31]
+### 46. Suspension of proceedings at flag State request[^c-5341e8c5cf33800c5b235bc39969bf31]
 
-(1) This regulation applies to proceedings instituted but not concluded in the United Kingdom in respect of a contravention of any of regulations 25 to 28A[^key-30366cf30b0806a47cbc0f1a3be7d082] committed outside United Kingdom waters by a ship which is not a United Kingdom ship.
+(1) This regulation applies to proceedings instituted but not concluded in the United Kingdom in respect of a contravention of any of regulations 25 to 28A[^c-30366cf30b0806a47cbc0f1a3be7d082] committed outside United Kingdom waters by a ship which is not a United Kingdom ship.
 
 (2) Subject to paragraph (3), any proceedings must be suspended if the court is satisfied that the flag State in question has instituted proceedings corresponding to the proceedings in the United Kingdom in respect of the contravention of that provision within six months of the institution of the proceedings by the United Kingdom.
 
 (3) Paragraph (2) does not apply—
 
-- (a) where the contravention of any of regulations 25 to 28A[^key-4957b61b1c8f49606956de1e79482d17] resulted in serious pollution to the United Kingdom; or
+- (a) where the contravention of any of regulations 25 to 28A[^c-4957b61b1c8f49606956de1e79482d17] resulted in serious pollution to the United Kingdom; or
 - (b) if the Secretary of State certifies that the flag State in question has repeatedly disregarded its obligation to enforce effectively the requirements of the Convention in respect of its ships.
 
 (4) Where proceedings instituted by the flag State have been brought to a conclusion, the suspended proceedings must be terminated.
 
-### 47. Defences[^key-c78ceddb371d5927202f58f378fd5f08]
+### 47. Defences[^c-c78ceddb371d5927202f58f378fd5f08]
 
 (1) In any proceedings for an offence under these Regulations, it is a defence for the person charged to prove that person took all reasonable steps and exercised all due diligence to ensure that the regulation in question was complied with.
 
-(2) Without prejudice to paragraph (1), in any proceedings for an offence comprising a contravention of any of regulations 25 to 28A[^key-53e38390e62bc9d7fb3d28e3562ff0fc] it is a defence for the person charged to prove that—
+(2) Without prejudice to paragraph (1), in any proceedings for an offence comprising a contravention of any of regulations 25 to 28A[^c-53e38390e62bc9d7fb3d28e3562ff0fc] it is a defence for the person charged to prove that—
 
 - (a) the ship was not a United Kingdom ship;
 - (b) the discharge took place in waters that were neither controlled waters nor United Kingdom waters; and
 - (c) the ship was in a port in the United Kingdom at the time of the institution of the proceedings by reason only of stress of weather or any other reason beyond the control of the master or owner or any charterer or manager.
 
-### 48. Review[^key-5106a612e0b326192b0a1685ef1a0c5a]
+### 48. Review[^c-5106a612e0b326192b0a1685ef1a0c5a]
 
 (1) The Secretary of State must from time to time—
 
@@ -1273,21 +1273,21 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 
 Regulation 1(2) and (3)
 
-### 1. The Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995[^key-057b7e48d2f01a85184a5e3b81a160a1]
+### 1. The Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995[^c-057b7e48d2f01a85184a5e3b81a160a1]
 
 In regulation 2(2) (interpretation and revocation) of the Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995 [^c23684121], in the definition of “permitted level”—
 
 - (a) omit “the Merchant Shipping (Prevention of Oil Pollution) Regulations 1996 or”; and
 - (b) at the end insert “ or the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 ”.
 
-### 2. The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^key-3d024f0da6050adba0e3cba4d27656cf]
+### 2. The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^c-3d024f0da6050adba0e3cba4d27656cf]
 
 In regulation 12(10)(ca) (reporting of incidents and accidents at sea) of the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004 [^c23684131], in the definition of “permitted level”—
 
 - (a) omit “the Merchant Shipping (Prevention of Oil Pollution) Regulations 1996 or”; and
 - (b) after “the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018” insert “ or the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 ”.
 
-### 3. The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^key-083b891727564f0df85f42d822c8af8f]
+### 3. The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^c-083b891727564f0df85f42d822c8af8f]
 
 In regulation 3 (discharge permits) of the Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005 [^c23684141], for paragraph (2) substitute—
 
@@ -1302,7 +1302,7 @@ In regulation 3 (discharge permits) of the Offshore Petroleum Activities (Oil Po
 
 .
 
-### 4. The Marine Strategy Regulations 2010[^key-3bf0aac661878005be673ccaaafc9fc8]
+### 4. The Marine Strategy Regulations 2010[^c-3bf0aac661878005be673ccaaafc9fc8]
 
 In Schedule 2 (enactments in relation to which duty in regulation 4 applies) to the Marine Strategy Regulations 2010 [^c23684171]—
 
@@ -1313,7 +1313,7 @@ In Schedule 2 (enactments in relation to which duty in regulation 4 applies) to 
 
   .
 
-### 5. The Environmental Regulation (Significant Environmental Harm) (Scotland) Order 2014[^key-9fcf7ffc738efd8d22ac21d0276eb21e]
+### 5. The Environmental Regulation (Significant Environmental Harm) (Scotland) Order 2014[^c-9fcf7ffc738efd8d22ac21d0276eb21e]
 
 In the Schedule (specified enactments) to the Environmental Regulation (Significant Environmental Harm) (Scotland) Order 2014 [^c23684181]—
 
@@ -1324,15 +1324,15 @@ In the Schedule (specified enactments) to the Environmental Regulation (Signific
 
   .
 
-### 6. The Conservation of Offshore Marine Habitats and Species Regulations 2017[^key-3b774906a680e9e204a2cbaf23f1ed17]
+### 6. The Conservation of Offshore Marine Habitats and Species Regulations 2017[^c-3b774906a680e9e204a2cbaf23f1ed17]
 
 In regulation 6(2) (duty of competent authorities) of the Conservation of Offshore Marine Habitats and Species Regulations 2017 [^c23684191], for the entry in sub-paragraph (j) substitute “ the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 ”.
 
-### 7. The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^key-bea7791cbe0299f56ad2994a7a5ffba8]
+### 7. The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^c-bea7791cbe0299f56ad2994a7a5ffba8]
 
 In regulation 30(3) (marine pollution emergency plan) of the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 [^c23684201] for “regulation 33 of the Merchant Shipping (Prevention of Oil Pollution) Regulations 1996” substitute “ regulation 34 of the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 ”.
 
-### 8. The Merchant Shipping (Fees) Regulations 2018[^key-73628f4c19f9b7b450e72dbe8246b9c1]
+### 8. The Merchant Shipping (Fees) Regulations 2018[^c-73628f4c19f9b7b450e72dbe8246b9c1]
 
 In the Table in paragraph 5 of Part 1 of Schedule 1 (fees under the Merchant Shipping Act 1995) to the Merchant Shipping (Fees) Regulations 2018 [^c23684211], for the entry under heading J (prevention and control of pollution) relating to the Merchant Shipping (Prevention of Oil Pollution) Regulations 1996—
 
@@ -1340,7 +1340,7 @@ In the Table in paragraph 5 of Part 1 of Schedule 1 (fees under the Merchant Shi
 - (b) in column 2, substitute “ S.I. 2019/42 ”; and
 - (c) in column 3, substitute “ None ”.
 
-### Part 2: Revocations[^key-8ad687d04f1cc37d7caa6c083941838e]
+### Part 2: Revocations[^c-8ad687d04f1cc37d7caa6c083941838e]
 
 | *Regulations revoked* | *References* | *Extent of revocation* |
 | --- | --- | --- |
@@ -1353,7 +1353,7 @@ In the Table in paragraph 5 of Part 1 of Schedule 1 (fees under the Merchant Shi
 | The Merchant Shipping (Implementation of Ship-Source Pollution Directive) Regulations 2009 | S.I. 2009/1210 | Regulation 4 |
 | The Merchant Shipping (Prevention of Pollution) (Limits) Regulations 2014 | S.I. 2014/3306 | Schedule 2, paragraph 2 |
 | The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 | S.I. 2015/664 | Schedule 4, paragraph 55 |
-| [^key-45937c7758634e033b5d3f0b35616eae]. . . | [^key-45937c7758634e033b5d3f0b35616eae]. . . | [^key-45937c7758634e033b5d3f0b35616eae]. . . |
+| [^c-45937c7758634e033b5d3f0b35616eae]. . . | [^c-45937c7758634e033b5d3f0b35616eae]. . . | [^c-45937c7758634e033b5d3f0b35616eae]. . . |
 
 *(This note is not part of the Regulations)*
 
@@ -1393,17 +1393,17 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^c23683801]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 are amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [sections 8](https://www.legislation.gov.uk/ukpga/1997/28/section/8) and 29(2) and Schedule 7, Part 1. Section 85 is amended by the [British Overseas Territories Act 2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), [section 2(3)](https://www.legislation.gov.uk/ukpga/2002/8/section/2/3). Section 306A was inserted by the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [section 106](https://www.legislation.gov.uk/ukpga/2015/20/section/106). There are other amendments but none is relevant.
 
-[^key-56dd8631036b9a6d0271a9cfcd6f71e9]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e))
+[^c-56dd8631036b9a6d0271a9cfcd6f71e9]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e))
 
-[^key-854358f90834000f4c8cf4bedc72b194]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/42/regulation/1) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-854358f90834000f4c8cf4bedc72b194]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/42/regulation/1) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-ab5210592779943950fed1f8a259164e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-ab5210592779943950fed1f8a259164e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23683811]: Marginal citation: The terms “Certifying Authority”, “**IOPP certificate**” and “**UKOPP certificate**” are defined in regulation 3.
 
 [^c23683821]: Marginal citation: [S.I. 1996/2154](https://www.legislation.gov.uk/uksi/1996/2154), amended by [S.I. 1997/1910](https://www.legislation.gov.uk/uksi/1997/1910), [S.I](https://www.legislation.gov.uk/uksi/1997/1910/section/I). 2000/483, [S.I. 2004/303](https://www.legislation.gov.uk/uksi/2004/303), [S.I](https://www.legislation.gov.uk/uksi/2004/303/section/I). 2004/2110, [S.I. 2005/1916](https://www.legislation.gov.uk/uksi/2005/1916), [S.I](https://www.legislation.gov.uk/uksi/2005/1916/section/I). 2009/1210, [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306), [S.I](https://www.legislation.gov.uk/uksi/2014/3306/section/I). 2015/664 and [S.I. 2016/1025](https://www.legislation.gov.uk/uksi/2016/1025). The relevant provisions in these instruments are revoked by these Regulations.
 
-[^key-8c855145c7737166f809abedc054249d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/42/regulation/3) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-8c855145c7737166f809abedc054249d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/42/regulation/3) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23683831]: Marginal citation: Regulations for the Prevention of Pollution by Oil. See footnote (f) for further information.
 
@@ -1419,47 +1419,47 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^c23683891]: Marginal citation: Resolutions MEPC.237(65) and MEPC.238(65) were adopted on 17th May 2013. The Code is contained in MSC.349(92), adopted on 21st June 2013. The Resolutions and the RO Code are available from the IMO Library at www.imo.org.en/MediaCentre/Pages/Default.aspx or in hard copy from the Maritime and Coastguard Agency.
 
-[^key-b576dd62af5e5e4430b8369ff2c224d7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/42/regulation/4) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-b576dd62af5e5e4430b8369ff2c224d7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/42/regulation/4) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-4cc2d9d8d19ef938d10b20b9af04add9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-4cc2d9d8d19ef938d10b20b9af04add9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23683901]: Marginal citation: “United Kingdom waters” is defined in section 313(2)(a) of the Merchant Shipping Act 1995.
 
-[^key-df238f55fcab1b7e3bf43906c40ded76]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/42/regulation/6) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-df238f55fcab1b7e3bf43906c40ded76]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/42/regulation/6) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-cb0fe392a979e30aa25f5191df1cd030]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/42/regulation/7) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-cb0fe392a979e30aa25f5191df1cd030]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/42/regulation/7) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-1a5b9cd7f3aa16fdea6e35106eef16e3]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/7/4/b) inserted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/2/2/a)
+[^c-1a5b9cd7f3aa16fdea6e35106eef16e3]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/7/4/b) inserted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/2/2/a)
 
-[^key-d8c63875aeb1165e3a26b06bb80fbf53]: Textual amendment: [Reg. 7(5A)-(5F)](https://www.legislation.gov.uk/uksi/2019/42/regulation/7/5A) inserted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/2/2/b)
+[^c-d8c63875aeb1165e3a26b06bb80fbf53]: Textual amendment: [Reg. 7(5A)-(5F)](https://www.legislation.gov.uk/uksi/2019/42/regulation/7/5A) inserted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/2/2/b)
 
-[^key-b66bd98f55285761a09a182bdc08c5c3]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2019/42/regulation/7/6) substituted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/2/2/c)
+[^c-b66bd98f55285761a09a182bdc08c5c3]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2019/42/regulation/7/6) substituted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/2/2/c)
 
-[^key-51186f294725d5e1972cae13907a48bd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/42/regulation/8) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-51186f294725d5e1972cae13907a48bd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/42/regulation/8) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-36bfe3f5e5d3f5327bdb0e64effe2aef]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/42/regulation/9) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-36bfe3f5e5d3f5327bdb0e64effe2aef]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/42/regulation/9) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23683911]: Marginal citation: The requirements of the RO Code are implemented by way of Regulation (EC) No. 391/2009 of the European Parliament and of the Council of 23rd April 2009 on common rules and standards for ship inspection and survey organisations, and related tertiary legislation.
 
-[^key-b64e42e31ed25f07948a5e6289916d43]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/42/regulation/10) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-b64e42e31ed25f07948a5e6289916d43]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/42/regulation/10) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-71601d6bfadf9394037ca8fed9de0399]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/42/regulation/11) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-71601d6bfadf9394037ca8fed9de0399]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/42/regulation/11) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-f5734c3edad53de3c8f0f1d41d779fa1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/42/regulation/12) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-f5734c3edad53de3c8f0f1d41d779fa1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/42/regulation/12) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23683921]: Marginal citation: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104). There are amending instruments but none is relevant.
 
-[^key-69c5af76464e6907a6ef476bfbe26464]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/42/regulation/13) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-69c5af76464e6907a6ef476bfbe26464]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/42/regulation/13) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-1c4d0a1ac11f3453ad7a1af38ae2c87b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/42/regulation/14) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-1c4d0a1ac11f3453ad7a1af38ae2c87b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/42/regulation/14) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-80a73daa0636c77cb56b9ef4834afb8b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2019/42/regulation/15) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-80a73daa0636c77cb56b9ef4834afb8b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2019/42/regulation/15) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-55436b149ca3992c44bef2085be69655]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/42/regulation/16) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-55436b149ca3992c44bef2085be69655]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/42/regulation/16) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-ccaca91505566fa4c514069ea025f60e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/42/regulation/17) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-ccaca91505566fa4c514069ea025f60e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/42/regulation/17) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-e070dd85220099ca9a46ade0598c5a5f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/42/regulation/18) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-e070dd85220099ca9a46ade0598c5a5f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/42/regulation/18) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23683931]: Marginal citation: Issued by, and available from, the Maritime and Coastguard Agency.
 
@@ -1467,157 +1467,157 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^c23683951]: Marginal citation: Cmnd. 9266. The Command Paper is available electronically at http://treaties.fco.gov.uk/docs/pdf/1984/TS0050.pdf. Hard copies of the Command Paper are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW. Following a review of the Convention amendments were adopted by a Conference of Parties to the STCW Convention in Manilla from 21st to 25th June 2010 and a consolidated text produced. The 2017 Consolidated version of the Convention, including the Final Act of the 2010 Manilla Conference of Parties to the STCW Convention, is available from IMO Publishing, ISBN 978-92-801-16359.
 
-[^key-e5d004a41a4e467a602b5116bdfec1a7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/42/regulation/19) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-e5d004a41a4e467a602b5116bdfec1a7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/42/regulation/19) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-92e6d1e94381d2210aa66ba37d39d30b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/42/regulation/20) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-92e6d1e94381d2210aa66ba37d39d30b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2019/42/regulation/20) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-e89df6ae5f875d00d35393338792bdda]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/2019/42/regulation/20/3) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/3/2/a)
+[^c-e89df6ae5f875d00d35393338792bdda]: Textual amendment: [Reg. 20(3)](https://www.legislation.gov.uk/uksi/2019/42/regulation/20/3) substituted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/818/regulation/3/2/a)
 
-[^key-8573bf4f2148c31aea3b661b8929e98c]: Textual amendment: Words in [reg. 20(8)](https://www.legislation.gov.uk/uksi/2019/42/regulation/20/8) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/3/2/b)
+[^c-8573bf4f2148c31aea3b661b8929e98c]: Textual amendment: Words in [reg. 20(8)](https://www.legislation.gov.uk/uksi/2019/42/regulation/20/8) inserted (3.8.2021) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk and Prevention of Oil Pollution) (Amendment) Regulations 2021 (S.I. 2021/818)](https://www.legislation.gov.uk/uksi/2021/818), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/818/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/818/regulation/3/2/b)
 
-[^key-175e064db318bc1f90088e10af1c50ec]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/42/regulation/21) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-175e064db318bc1f90088e10af1c50ec]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/42/regulation/21) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-11b010139c06120371a937022917a0dd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/42/regulation/22) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-11b010139c06120371a937022917a0dd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2019/42/regulation/22) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-4bfe0d705f73a5799d09ae8a730a15cb]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/42/regulation/23) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-4bfe0d705f73a5799d09ae8a730a15cb]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/42/regulation/23) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-8c4db24afdbeb013ceeb677fa150d307]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/42/regulation/24) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-8c4db24afdbeb013ceeb677fa150d307]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/42/regulation/24) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-fd93b037679d8c4fd7e5ebe48bc725e8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/42/regulation/25) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-fd93b037679d8c4fd7e5ebe48bc725e8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/42/regulation/25) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-bb08d103dba0430f88a1b80873b830e6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/42/regulation/26) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-bb08d103dba0430f88a1b80873b830e6]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/42/regulation/26) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-b9995752d5c2fec1c1c532a48b0556f4]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/42/regulation/27) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-b9995752d5c2fec1c1c532a48b0556f4]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2019/42/regulation/27) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-ad83490793891e3bf90a2daba22a6a9e]: Textual amendment: Word in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/27/1/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/2)
+[^c-ad83490793891e3bf90a2daba22a6a9e]: Textual amendment: Word in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/27/1/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/2)
 
 [^c23683961]: Marginal citation: http://www.imo.org/en/OurWork/Environment/SpecialAreasUnderMARPOL/Pages/Default.aspx. Information may also be obtained from the IMO Library and the Maritime and Coastguard Agency.
 
-[^key-a322cc8d93ab134fb4a63a1ffba96f87]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/42/regulation/28) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-a322cc8d93ab134fb4a63a1ffba96f87]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/42/regulation/28) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-958a2a705521b36ca60dffbdbdf3f39f]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2019/42/regulation/28A) inserted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/3)
+[^c-958a2a705521b36ca60dffbdbdf3f39f]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2019/42/regulation/28A) inserted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/3)
 
-[^key-453d2d2ad4123bc67fcd9402c80caedb]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/42/regulation/29) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-453d2d2ad4123bc67fcd9402c80caedb]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/42/regulation/29) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-e98d09a45b7c9c2d3d33973e5eb14882]: Textual amendment: Words in [reg. 29(4)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/29/4/b) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/24) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-e98d09a45b7c9c2d3d33973e5eb14882]: Textual amendment: Words in [reg. 29(4)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/29/4/b) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/24) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-3505bb85581acc1f0ba5f166043d2dd8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/42/regulation/30) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-3505bb85581acc1f0ba5f166043d2dd8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2019/42/regulation/30) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23683981]: Marginal citation: See the operational guidance provided in Part 2 of the Guidelines for Verification of Damage Stability Requirements for Tankers (MSC.1/Circ.1461). A copy of the guidance may be obtained from the IMO Library at www.imo.org.en/MediaCentre/Pages/Default.aspx or in hard copy from the Maritime and Coastguard Agency.
 
-[^key-3231e65bd4d105d4e8b9a04b34910b28]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2019/42/regulation/31) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-3231e65bd4d105d4e8b9a04b34910b28]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2019/42/regulation/31) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-e2e33ad8d6581527ab9bd168bcb6af83]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2019/42/regulation/32) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-e2e33ad8d6581527ab9bd168bcb6af83]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2019/42/regulation/32) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23683991]: Marginal citation: See the standard format of the Crude Oil Washing Operation and Equipment Manual adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.3(12) adopted on 30th November 1979, amended by resolution MEPC.81(43) and adopted on 1st July 1999. A copy may be obtained from the IMO Library at www.imo.org.en/MediaCentre/Pages/Default.aspx or in hard copy from the Maritime and Coastguard Agency.
 
-[^key-5c9d3e885e2fc18a2d4be0085e9df2ac]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2019/42/regulation/33) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-5c9d3e885e2fc18a2d4be0085e9df2ac]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2019/42/regulation/33) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684001]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) is amended by the [Oil and Gas (Enterprise) Act 1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), [Schedule 3](https://www.legislation.gov.uk/ukpga/1982/23/schedule/3), [paragraph 1](https://www.legislation.gov.uk/ukpga/1982/23/paragraph/1) and the [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [section 103](https://www.legislation.gov.uk/ukpga/2011/16/section/103). [See the Continental Shelf (Designation of Areas) Order 2013 (S.I. 2013/3162)](https://www.legislation.gov.uk/uksi/2013/3162).
 
 [^c23684011]: Marginal citation: Adopted by the Marine Environment Protection Committee of the IMO on 22nd July 2005 by Resolution MEPC.139(53), amended by Resolution MEPC.142(54) adopted on 24th March 2006. Copies of the resolutions may be obtained from the IMO Library and in hard copy from the Maritime and Coastguard Agency.
 
-[^key-dc30938a2819f13b3322b7e20023acdb]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2019/42/regulation/34) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-dc30938a2819f13b3322b7e20023acdb]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2019/42/regulation/34) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684021]: Marginal citation: See Resolution MEPC.54(32) adopted on 6 March 1992, as amended by Resolution MEPC.86(44) adopted on 13 March 2000. Copies of the resolutions may be obtained from the IMO Library at www.imo.org.en/MediaCentre/Pages/Default.aspx and in hard copy from the Maritime and Coastguard Agency.
 
-[^key-5a6e1930d34a49fa06dc62c2d74d254d]: Textual amendment: Words in [reg. 34(3)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/34/3/a) substituted (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+[^c-5a6e1930d34a49fa06dc62c2d74d254d]: Textual amendment: Words in [reg. 34(3)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/34/3/a) substituted (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2024/636/schedule/1/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
 
 [^c23684051]: Marginal citation: Regulations for the Control of Pollution by Noxious Liquid Substances in Bulk.
 
-[^key-dfe6c7697a298e501c6fd1352ae63f5a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2019/42/regulation/35) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-dfe6c7697a298e501c6fd1352ae63f5a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2019/42/regulation/35) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-03dfe98908f521c93baf539c783ed1e8]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2019/42/regulation/36) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-03dfe98908f521c93baf539c783ed1e8]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2019/42/regulation/36) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684061]: Marginal citation: [Section 258](https://www.legislation.gov.uk/uksi/2019/42/section/258) is amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 1](https://www.legislation.gov.uk/ukpga/1997/28/schedule/1), [paragraph 4](https://www.legislation.gov.uk/ukpga/1997/28/paragraph/4), and Schedule 7, Part 1, and the [Protection of Freedoms Act 2012 (2012 c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [Schedule 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2), [Part 1 paragraph 2](https://www.legislation.gov.uk/ukpga/2012/9/part/1/paragraph/2) and Schedule 10, Part 2.
 
-[^key-c903729eba519e39d317e01368ff3726]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2019/42/regulation/37) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-c903729eba519e39d317e01368ff3726]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2019/42/regulation/37) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-cd95655644bbea1b6d89c2a35e5224de]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2019/42/regulation/38) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-cd95655644bbea1b6d89c2a35e5224de]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2019/42/regulation/38) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-6849d93b10fc03615d393c91d773b54c]: Textual amendment: Words in [reg. 38(3)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/3) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/a)
+[^c-6849d93b10fc03615d393c91d773b54c]: Textual amendment: Words in [reg. 38(3)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/3) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/a)
 
 [^c23684071]: Marginal citation: [Section 284](https://www.legislation.gov.uk/uksi/2019/42/section/284) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 1](https://www.legislation.gov.uk/ukpga/1997/28/schedule/1), [paragraph 5](https://www.legislation.gov.uk/ukpga/1997/28/paragraph/5), and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
-[^key-54f1a310d1e06361a5985dc14b40a6eb]: Textual amendment: Words in [reg. 38(8)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/8/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/b)
+[^c-54f1a310d1e06361a5985dc14b40a6eb]: Textual amendment: Words in [reg. 38(8)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/8/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/b)
 
-[^key-83c779b7f2123d4cee20f0284ff7fe19]: Textual amendment: Words in [reg. 38(9)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/9/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/c)
+[^c-83c779b7f2123d4cee20f0284ff7fe19]: Textual amendment: Words in [reg. 38(9)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/9/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/c)
 
-[^key-311837a6afa1b63c6a5d9cf0e46c19a3]: Textual amendment: Words in [reg. 38(10)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/10) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/d)
+[^c-311837a6afa1b63c6a5d9cf0e46c19a3]: Textual amendment: Words in [reg. 38(10)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/10) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/d)
 
 [^c23684081]: Marginal citation: [Section 145](https://www.legislation.gov.uk/uksi/2019/42/section/145) was amended by the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [Schedule 36](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36), [Part 2](https://www.legislation.gov.uk/ukpga/2003/44/part/2), [paragraph 13](https://www.legislation.gov.uk/ukpga/2003/44/paragraph/13), and by the [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [Schedule 11](https://www.legislation.gov.uk/ukpga/2015/2/schedule/11), [paragraph 16](https://www.legislation.gov.uk/ukpga/2015/2/paragraph/16).
 
-[^key-e36679aa5e64369f4e66e8f21763a928]: Textual amendment: Words in [reg. 38(11)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/11/b) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/e)
+[^c-e36679aa5e64369f4e66e8f21763a928]: Textual amendment: Words in [reg. 38(11)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/38/11/b) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(4)(e)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/4/e)
 
-[^key-e8fb8473dffb9e2d68c298f680ee9f0e]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2019/42/regulation/39) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-e8fb8473dffb9e2d68c298f680ee9f0e]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2019/42/regulation/39) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-4b76b7cb7ec32e1aca8476dcb92da085]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/39/1) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/5/a)
+[^c-4b76b7cb7ec32e1aca8476dcb92da085]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/39/1) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/5/a)
 
-[^key-ee2556ab81fffe61bcd22fb2e8e6e083]: Textual amendment: Words in [reg. 39(4)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/39/4/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/5/b)
+[^c-ee2556ab81fffe61bcd22fb2e8e6e083]: Textual amendment: Words in [reg. 39(4)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/39/4/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/5/b)
 
-[^key-4a7a0afcc931aa873c2d3d86d36ea50c]: Textual amendment: Words in [reg. 39(6)](https://www.legislation.gov.uk/uksi/2019/42/regulation/39/6) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/5/c)
+[^c-4a7a0afcc931aa873c2d3d86d36ea50c]: Textual amendment: Words in [reg. 39(6)](https://www.legislation.gov.uk/uksi/2019/42/regulation/39/6) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/5/c)
 
-[^key-3e3d35dc3d112bd4ea79bf22554ae266]: Textual amendment: Words in [reg. 39(7)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/39/7/b) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/5/d)
+[^c-3e3d35dc3d112bd4ea79bf22554ae266]: Textual amendment: Words in [reg. 39(7)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/39/7/b) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/5/d)
 
-[^key-1fa629975123a777c31f1fb5c811d687]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2019/42/regulation/40) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-1fa629975123a777c31f1fb5c811d687]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2019/42/regulation/40) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-29b4a019bef5283f66c297d9b617c586]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/42/regulation/41) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-29b4a019bef5283f66c297d9b617c586]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/42/regulation/41) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-bb81a9a4afb6f28e7db807bb7e8a50b3]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-bb81a9a4afb6f28e7db807bb7e8a50b3]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-9ef05c26e10d8677f64a99197c9445ee]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/1) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-9ef05c26e10d8677f64a99197c9445ee]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/1) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-7cc2881e1ffbd6ab2bf57655531d7839]: Textual amendment: Word in [reg. 41(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/i) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-7cc2881e1ffbd6ab2bf57655531d7839]: Textual amendment: Word in [reg. 41(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/i) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-f88f89888741722491069cfeccdcc48f]: Textual amendment: [Reg. 41(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/ii) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-f88f89888741722491069cfeccdcc48f]: Textual amendment: [Reg. 41(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/ii) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-8023ee0a280ebc1e3bcd4990947ce6fa]: Textual amendment: Words in [reg. 41(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/iii) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-8023ee0a280ebc1e3bcd4990947ce6fa]: Textual amendment: Words in [reg. 41(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/iii) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-388651aebd696603643c62481ca11494]: Textual amendment: Word in [reg. 41(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/iv) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-388651aebd696603643c62481ca11494]: Textual amendment: Word in [reg. 41(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/iv) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-bee2802323db1bd8bedf707f31a7e1a3]: Textual amendment: Word in [reg. 41(2)(b)(v)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/v) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-bee2802323db1bd8bedf707f31a7e1a3]: Textual amendment: Word in [reg. 41(2)(b)(v)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/b/v) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-0ca415e0836f0d277a69d34d7a1fc1e9]: Textual amendment: Word in [reg. 41(2)(c)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/c) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-0ca415e0836f0d277a69d34d7a1fc1e9]: Textual amendment: Word in [reg. 41(2)(c)](https://www.legislation.gov.uk/uksi/2019/42/regulation/41/2/c) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-ee43d5c1fa6f703eb04976469f764498]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2019/42/regulation/42) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-ee43d5c1fa6f703eb04976469f764498]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2019/42/regulation/42) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-d716edaa53d4a2e706b761620b8a61b0]: Textual amendment: Words in [reg. 42(1)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/42/1/b) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/6)
+[^c-d716edaa53d4a2e706b761620b8a61b0]: Textual amendment: Words in [reg. 42(1)(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/42/1/b) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/6)
 
-[^key-c23467bcdb286a3beb8cc13ae95d4e60]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2019/42/regulation/43) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-c23467bcdb286a3beb8cc13ae95d4e60]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2019/42/regulation/43) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684101]: Marginal citation: [Section 143(6)](https://www.legislation.gov.uk/uksi/2019/42/section/143/6) is amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-c2f090b472ea17e09779fbe3424f6684]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2019/42/regulation/44) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-c2f090b472ea17e09779fbe3424f6684]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2019/42/regulation/44) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-6babca48ffe52a775cb7199e7ae4408a]: Textual amendment: Word in [reg. 44(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/44/b) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/7)
+[^c-6babca48ffe52a775cb7199e7ae4408a]: Textual amendment: Word in [reg. 44(b)](https://www.legislation.gov.uk/uksi/2019/42/regulation/44/b) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/7)
 
-[^key-3fdcaba811dba9842c010b3aaac7abdd]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2019/42/regulation/45) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-3fdcaba811dba9842c010b3aaac7abdd]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2019/42/regulation/45) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-9be10d1ab89692da691f04b590a01328]: Textual amendment: Word in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/45/1) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/8)
+[^c-9be10d1ab89692da691f04b590a01328]: Textual amendment: Word in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/45/1) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/8)
 
-[^key-5341e8c5cf33800c5b235bc39969bf31]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2019/42/regulation/46) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-5341e8c5cf33800c5b235bc39969bf31]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2019/42/regulation/46) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-30366cf30b0806a47cbc0f1a3be7d082]: Textual amendment: Word in [reg. 46(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/46/1) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/9/a)
+[^c-30366cf30b0806a47cbc0f1a3be7d082]: Textual amendment: Word in [reg. 46(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/46/1) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/9/a)
 
-[^key-4957b61b1c8f49606956de1e79482d17]: Textual amendment: Word in [reg. 46(3)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/46/3/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/9/b)
+[^c-4957b61b1c8f49606956de1e79482d17]: Textual amendment: Word in [reg. 46(3)(a)](https://www.legislation.gov.uk/uksi/2019/42/regulation/46/3/a) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/9/b)
 
-[^key-c78ceddb371d5927202f58f378fd5f08]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2019/42/regulation/47) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-c78ceddb371d5927202f58f378fd5f08]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2019/42/regulation/47) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-53e38390e62bc9d7fb3d28e3562ff0fc]: Textual amendment: Word in [reg. 47(2)](https://www.legislation.gov.uk/uksi/2019/42/regulation/47/2) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/10)
+[^c-53e38390e62bc9d7fb3d28e3562ff0fc]: Textual amendment: Word in [reg. 47(2)](https://www.legislation.gov.uk/uksi/2019/42/regulation/47/2) substituted (3.1.2025) by [The Merchant Shipping (Prevention of Oil Pollution) (Amendment) Regulations 2024 (S.I. 2024/1296)](https://www.legislation.gov.uk/uksi/2024/1296), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2024/1296/regulation/2/10)
 
-[^key-5106a612e0b326192b0a1685ef1a0c5a]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2019/42/regulation/48) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-5106a612e0b326192b0a1685ef1a0c5a]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2019/42/regulation/48) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684111]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [section 19](https://www.legislation.gov.uk/ukpga/2016/12/section/19) and the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [Schedule 8](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8), [Part 2](https://www.legislation.gov.uk/ukpga/2018/16/part/2), [paragraph 36](https://www.legislation.gov.uk/ukpga/2018/16/paragraph/36).
 
-[^key-057b7e48d2f01a85184a5e3b81a160a1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/1) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-057b7e48d2f01a85184a5e3b81a160a1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/1) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684121]: Marginal citation: [S.I. 1995/2498](https://www.legislation.gov.uk/uksi/1995/2498). The definition of “permitted level” was inserted by [S.I. 1999/2121](https://www.legislation.gov.uk/uksi/1999/2121) and amended by [S.I. 2018/68](https://www.legislation.gov.uk/uksi/2018/68). There are other amending instruments but none is relevant.
 
-[^key-3d024f0da6050adba0e3cba4d27656cf]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/2) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-3d024f0da6050adba0e3cba4d27656cf]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/2) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684131]: Marginal citation: [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110). The definition of “permitted level” was inserted by [S.I. 2005/1092](https://www.legislation.gov.uk/uksi/2005/1092) and amended by [S.I. 2018/68](https://www.legislation.gov.uk/uksi/2018/68). There are other amending instruments but none is relevant.
 
-[^key-083b891727564f0df85f42d822c8af8f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/3) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-083b891727564f0df85f42d822c8af8f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/3) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684141]: Marginal citation: [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055). Paragraph (2) was amended by S.I 2011/983. There are other amending instruments but none is relevant.
 
@@ -1625,26 +1625,26 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^c23684161]: Marginal citation: [S.I. 2008/3257](https://www.legislation.gov.uk/uksi/2008/3257), amended by [S.I. 2010/897](https://www.legislation.gov.uk/uksi/2010/897); [S.I. 2011/3056](https://www.legislation.gov.uk/uksi/2011/3056); [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306); [S.I. 2016/1025](https://www.legislation.gov.uk/uksi/2016/1025) and [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104).
 
-[^key-3bf0aac661878005be673ccaaafc9fc8]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/4) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-3bf0aac661878005be673ccaaafc9fc8]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/4) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684171]: Marginal citation: [S.I. 2010/1627](https://www.legislation.gov.uk/uksi/2010/1627). There are amendments to this Schedule but none is relevant.
 
-[^key-9fcf7ffc738efd8d22ac21d0276eb21e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/5) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-9fcf7ffc738efd8d22ac21d0276eb21e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/5) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684181]: Marginal citation: [S.S.I. 2014/324](https://www.legislation.gov.uk/ssi/2014/324). New paragraph 19 is inserted by [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219). There are other amendments to this Schedule but none is relevant.
 
-[^key-3b774906a680e9e204a2cbaf23f1ed17]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/6) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-3b774906a680e9e204a2cbaf23f1ed17]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/6) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684191]: Marginal citation: [S.I. 2017/1013](https://www.legislation.gov.uk/uksi/2017/1013).
 
-[^key-bea7791cbe0299f56ad2994a7a5ffba8]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/7) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-bea7791cbe0299f56ad2994a7a5ffba8]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/7) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684201]: Marginal citation: [S.I. 2018/68](https://www.legislation.gov.uk/uksi/2018/68).
 
-[^key-73628f4c19f9b7b450e72dbe8246b9c1]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/8) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-73628f4c19f9b7b450e72dbe8246b9c1]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/8) in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
 [^c23684211]: Marginal citation: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104).
 
-[^key-8ad687d04f1cc37d7caa6c083941838e]: Commencement: Sch. Pt. 2 in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
+[^c-8ad687d04f1cc37d7caa6c083941838e]: Commencement: Sch. Pt. 2 in force at 1.3.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1)
 
-[^key-45937c7758634e033b5d3f0b35616eae]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/part/2) Table omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/12) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-45937c7758634e033b5d3f0b35616eae]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/part/2) Table omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/12) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))

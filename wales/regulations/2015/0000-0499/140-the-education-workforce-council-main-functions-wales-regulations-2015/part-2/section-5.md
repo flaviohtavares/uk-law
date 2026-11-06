@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Applications for registration[^key-0d6f6b6692447afb131a00f4ecca7ba8]
+## 5. Applications for registration[^c-0d6f6b6692447afb131a00f4ecca7ba8]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Council may make provision as to—
 
 ## Annotations
 
-[^key-0d6f6b6692447afb131a00f4ecca7ba8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/140/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-0d6f6b6692447afb131a00f4ecca7ba8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/140/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

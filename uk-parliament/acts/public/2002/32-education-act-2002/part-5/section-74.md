@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Proposals for establishment of federated school[^key-c2da5c52f481cdcfe5cf6069f9cff839]
+## 74. Proposals for establishment of federated school[^c-c2da5c52f481cdcfe5cf6069f9cff839]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2da5c52f481cdcfe5cf6069f9cff839]: Textual amendment: S. 74 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/2); [S.I. 2006/2129](https://www.legislation.gov.uk/uksi/2006/2129), [art. 4](https://www.legislation.gov.uk/uksi/2006/2129/article/4)
+[^c-c2da5c52f481cdcfe5cf6069f9cff839]: Textual amendment: S. 74 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/2); [S.I. 2006/2129](https://www.legislation.gov.uk/uksi/2006/2129), [art. 4](https://www.legislation.gov.uk/uksi/2006/2129/article/4)

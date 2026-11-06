@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Participation in Scheme[^key-862132fe05737b163007f351c90e55c4][^key-d0188832d4d59bb40c21cf2b0aba075d][^key-2c573d169c1d48af0ff2422be30c9b2b][^key-e81c739e2a6697cff7bb14e4e18d0227][^key-d0188832d4d59bb40c21cf2b0aba075d][^key-2c573d169c1d48af0ff2422be30c9b2b]
+## 45. Participation in Scheme[^c-862132fe05737b163007f351c90e55c4][^c-d0188832d4d59bb40c21cf2b0aba075d][^c-2c573d169c1d48af0ff2422be30c9b2b][^c-e81c739e2a6697cff7bb14e4e18d0227][^c-d0188832d4d59bb40c21cf2b0aba075d][^c-2c573d169c1d48af0ff2422be30c9b2b]
 
 *Extent: S*
 
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-862132fe05737b163007f351c90e55c4]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2007/14/section/45) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-862132fe05737b163007f351c90e55c4]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2007/14/section/45) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
 
-[^key-d0188832d4d59bb40c21cf2b0aba075d]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [22](https://www.legislation.gov.uk/uksi/2010/2660/article/22)
+[^c-d0188832d4d59bb40c21cf2b0aba075d]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [22](https://www.legislation.gov.uk/uksi/2010/2660/article/22)
 
-[^key-2c573d169c1d48af0ff2422be30c9b2b]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [21](https://www.legislation.gov.uk/uksi/2010/2660/article/21)
+[^c-2c573d169c1d48af0ff2422be30c9b2b]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [21](https://www.legislation.gov.uk/uksi/2010/2660/article/21)
 
-[^key-e81c739e2a6697cff7bb14e4e18d0227]: Textual amendment: [S. 45](https://www.legislation.gov.uk/asp/2007/14/section/45) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 70](https://www.legislation.gov.uk/asp/2020/13/section/70), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-e81c739e2a6697cff7bb14e4e18d0227]: Textual amendment: [S. 45](https://www.legislation.gov.uk/asp/2007/14/section/45) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 70](https://www.legislation.gov.uk/asp/2020/13/section/70), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

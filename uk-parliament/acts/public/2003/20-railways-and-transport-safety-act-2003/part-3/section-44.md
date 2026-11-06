@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Equipment regulations[^key-afa9760e026bd9279f52c5234da435d6]
+## 44. Equipment regulations[^c-afa9760e026bd9279f52c5234da435d6]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afa9760e026bd9279f52c5234da435d6]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2003/20/section/44) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/aa)
+[^c-afa9760e026bd9279f52c5234da435d6]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2003/20/section/44) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/aa)

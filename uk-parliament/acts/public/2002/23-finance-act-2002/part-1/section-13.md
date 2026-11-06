@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. General betting duty: spread bets[^key-3d9a4bbe7d10febd5fa04fc137ef482c]
+## 13. General betting duty: spread bets[^c-3d9a4bbe7d10febd5fa04fc137ef482c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d9a4bbe7d10febd5fa04fc137ef482c]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/2002/23/section/13) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
+[^c-3d9a4bbe7d10febd5fa04fc137ef482c]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/2002/23/section/13) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)

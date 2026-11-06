@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Amendment of schedule 4 (provisions relating to appeals)[^key-857a1304ff00a9a740c32a21298434f8]
+## 38. Amendment of schedule 4 (provisions relating to appeals)[^c-857a1304ff00a9a740c32a21298434f8]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In schedule 4 (provisions relating to appeals)—
 
 ## Annotations
 
-[^key-857a1304ff00a9a740c32a21298434f8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2025/165/regulation/38) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-857a1304ff00a9a740c32a21298434f8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2025/165/regulation/38) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

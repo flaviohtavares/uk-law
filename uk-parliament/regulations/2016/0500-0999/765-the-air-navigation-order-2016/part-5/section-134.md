@@ -35,11 +35,11 @@ summary: ''
   - (ii) Part-CAT and Part-ORO as though the flight were a commercial air transport operation; or
 - (d) a permission given by the CAA.
 
-(5)[^key-f7deebc670dd493fa17217155cec72d6] The CAA must grant a police air operator’s certificate if it is satisfied that the applicant is competent to secure that the operation of aircraft of the types specified in the certificate will be as safe as is appropriate when flying on flights of the description and for the purposes specified, having regard in particular to the applicant’s—
+(5)[^c-f7deebc670dd493fa17217155cec72d6] The CAA must grant a police air operator’s certificate if it is satisfied that the applicant is competent to secure that the operation of aircraft of the types specified in the certificate will be as safe as is appropriate when flying on flights of the description and for the purposes specified, having regard in particular to the applicant’s—
 
 - (a) previous conduct and experience; and
 - (b) equipment, organisation, staffing, maintenance and other arrangements.
 
 ## Annotations
 
-[^key-f7deebc670dd493fa17217155cec72d6]: Textual amendment: [Art. 134(5)](https://www.legislation.gov.uk/uksi/2016/765/article/134/5) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [29](https://www.legislation.gov.uk/uksi/2017/1112/article/29)
+[^c-f7deebc670dd493fa17217155cec72d6]: Textual amendment: [Art. 134(5)](https://www.legislation.gov.uk/uksi/2016/765/article/134/5) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [29](https://www.legislation.gov.uk/uksi/2017/1112/article/29)

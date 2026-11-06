@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING, WALES
 
-The Allocation of Housing (Wales) Regulations 2000 (revoked)[^key-e554e685f830105f8d8d4af2ade43e18]
+The Allocation of Housing (Wales) Regulations 2000 (revoked)[^c-e554e685f830105f8d8d4af2ade43e18]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st April 2000
 
-[^key-e554e685f830105f8d8d4af2ade43e18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e554e685f830105f8d8d4af2ade43e18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-e554e685f830105f8d8d4af2ade43e18]
+## 1. Citation, commencement and application[^c-e554e685f830105f8d8d4af2ade43e18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Eligibility for allocation of Housing Accommodation[^key-e554e685f830105f8d8d4af2ade43e18]
+## 2. Eligibility for allocation of Housing Accommodation[^c-e554e685f830105f8d8d4af2ade43e18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-e554e685f830105f8d8d4af2ade43e18]
+## 3. Revocation[^c-e554e685f830105f8d8d4af2ade43e18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e554e685f830105f8d8d4af2ade43e18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e554e685f830105f8d8d4af2ade43e18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e554e685f830105f8d8d4af2ade43e18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e554e685f830105f8d8d4af2ade43e18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e554e685f830105f8d8d4af2ade43e18]: Textual amendment: Regulations revoked (29.1.2003) by [The Allocation of Housing (Wales) Regulations 2003 (S.I. 2003/239)](https://www.legislation.gov.uk/uksi/2003/239), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/239/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/239/regulation/6)
+[^c-e554e685f830105f8d8d4af2ade43e18]: Textual amendment: Regulations revoked (29.1.2003) by [The Allocation of Housing (Wales) Regulations 2003 (S.I. 2003/239)](https://www.legislation.gov.uk/uksi/2003/239), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/239/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/239/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Early payment of retirement pension to deferred member[^key-aa3adf62384498e1c74a84daddec298a]
+## 67. Early payment of retirement pension to deferred member[^c-aa3adf62384498e1c74a84daddec298a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A deferred member who has not reached deferred pension age is entitled to immedi
 
 ## Annotations
 
-[^key-aa3adf62384498e1c74a84daddec298a]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2014/2848/regulation/67) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-aa3adf62384498e1c74a84daddec298a]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2014/2848/regulation/67) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

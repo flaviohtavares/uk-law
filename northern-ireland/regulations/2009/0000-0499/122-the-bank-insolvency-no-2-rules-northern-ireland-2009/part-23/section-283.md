@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 283. “Give notice”, etc[^key-53d10cbf406582aac6d2ad2e5e67bb74]
+## 283. “Give notice”, etc[^c-53d10cbf406582aac6d2ad2e5e67bb74]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 0.3 of the 1991 Rules. In paragraph (3) after “personal service of 
 
 ## Annotations
 
-[^key-53d10cbf406582aac6d2ad2e5e67bb74]: Commencement: Rule 283 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-53d10cbf406582aac6d2ad2e5e67bb74]: Commencement: Rule 283 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

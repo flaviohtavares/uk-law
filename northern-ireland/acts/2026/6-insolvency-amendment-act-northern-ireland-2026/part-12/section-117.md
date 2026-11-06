@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Amendments to the Schedules to the 1995 Order[^key-be03f4db0c34e3e32ff86f75848a7c45]
+## 117. Amendments to the Schedules to the 1995 Order[^c-be03f4db0c34e3e32ff86f75848a7c45]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Schedule 4 to this Act contains amendments to Schedules 1 to 10 to the 1995 Orde
 
 ## Annotations
 
-[^key-be03f4db0c34e3e32ff86f75848a7c45]: Commencement: S. 117 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-be03f4db0c34e3e32ff86f75848a7c45]: Commencement: S. 117 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

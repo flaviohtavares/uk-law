@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and extent[^key-4c10138fd31ad42baf64e4ad5b907403]
+### 1. Citation, commencement and extent[^c-4c10138fd31ad42baf64e4ad5b907403]
 
 (1) These Regulations may be cited as the Marketing of Horticultural Produce and Bananas (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force—
 
@@ -59,13 +59,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — AMENDMENT OF REFERENCES IN SECONDARY LEGISLATION
 
-### 2. Amendment of the Marketing of Bananas (Scotland) Regulations 2012[^key-558b33bd1a024647af4065be950b7650]
+### 2. Amendment of the Marketing of Bananas (Scotland) Regulations 2012[^c-558b33bd1a024647af4065be950b7650]
 
 In regulation 2(1) (interpretation) of the Marketing of Bananas (Scotland) Regulations 2012 [^c23750701], in the definition of “Council Regulation 2013”, for “the Regulation of the European Parliament and of the Council adopted on 16 December 2013” substitute “ Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 ”.
 
 ## PART 3 — AMENDMENT OF SECONDARY LEGISLATION RELATING TO WITHDRAWAL FROM THE EUROPEAN UNION
 
-### 3. Amendment of the Marketing of Horticultural Produce (Scotland) Regulations 2009[^key-1af057f71491eebf3271887eeedfe015]
+### 3. Amendment of the Marketing of Horticultural Produce (Scotland) Regulations 2009[^c-1af057f71491eebf3271887eeedfe015]
 
 (1) The Marketing of Horticultural Produce (Scotland) Regulations 2009 [^c23750711] are amended as follows.
 
@@ -115,12 +115,12 @@ In regulation 2(1) (interpretation) of the Marketing of Bananas (Scotland) Regul
 - (d) in paragraph (5) omit “EU”,
 - (e) in paragraph (6)(a) omit “EU” in both places it occurs,
 - (f) in paragraph (7)—
-  - (i)[^key-97f0c9d1e320f278364c08eec3e2160b] for “the European Union” substitute “Great Britain”
+  - (i)[^c-97f0c9d1e320f278364c08eec3e2160b] for “the European Union” substitute “Great Britain”
   - (ii) omit “EU”.
 
 (12) In regulation 18(1)(c) (obstruction) omit “EU” in both places it occurs.
 
-(13)[^key-351914e6610466351764615430130062] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-351914e6610466351764615430130062] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) In schedule 1 (form and completion of labels), for the non compliance label in Part 1 (form of non compliance label), substitute—
 
@@ -128,7 +128,7 @@ In regulation 2(1) (interpretation) of the Marketing of Bananas (Scotland) Regul
 
 .
 
-### 4. Amendment of the Marketing of Bananas (Scotland) Regulations 2012[^key-a6ffa027b1bf5f6d9efda4c722dc6b77]
+### 4. Amendment of the Marketing of Bananas (Scotland) Regulations 2012[^c-a6ffa027b1bf5f6d9efda4c722dc6b77]
 
 (1) The Marketing of Bananas (Scotland) Regulations 2012 are amended as follows.
 
@@ -159,7 +159,7 @@ In regulation 2(1) (interpretation) of the Marketing of Bananas (Scotland) Regul
 - (e) in paragraph (5) omit “EU”,
 - (f) in paragraph (6) omit “EU” in both places it occurs,
 - (g) in paragraph (7)—
-  - (i)[^key-1423b29b179fa095c7c2ef140b80bc3f] for “the European Union” substitute “Great Britain”
+  - (i)[^c-1423b29b179fa095c7c2ef140b80bc3f] for “the European Union” substitute “Great Britain”
   - (ii) omit “EU”.
 
 (5) In regulation 7(1)(f) (other powers) omit “EU”.
@@ -214,20 +214,20 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23750691]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-4c10138fd31ad42baf64e4ad5b907403]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/169/regulation/1) in force at 1.7.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/169/regulation/1/1/a)
+[^c-4c10138fd31ad42baf64e4ad5b907403]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/169/regulation/1) in force at 1.7.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/169/regulation/1/1/a)
 
-[^key-558b33bd1a024647af4065be950b7650]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/169/regulation/2) in force at 1.7.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/169/regulation/1/1/a)
+[^c-558b33bd1a024647af4065be950b7650]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/169/regulation/2) in force at 1.7.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/169/regulation/1/1/a)
 
 [^c23750701]: Marginal citation: [S.S.I. 2012/349](https://www.legislation.gov.uk/ssi/2012/349), amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235).
 
-[^key-1af057f71491eebf3271887eeedfe015]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-1af057f71491eebf3271887eeedfe015]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23750711]: Marginal citation: [S.S.I. 2009/225](https://www.legislation.gov.uk/ssi/2009/225), amended by [S.S.I. 2011/324](https://www.legislation.gov.uk/ssi/2011/324), [S.I](https://www.legislation.gov.uk/ssi/2011/324/section/I). 2011/1043, [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
-[^key-97f0c9d1e320f278364c08eec3e2160b]: Textual amendment: Reg. 3(11)(f)(i) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/4/2)
+[^c-97f0c9d1e320f278364c08eec3e2160b]: Textual amendment: Reg. 3(11)(f)(i) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/4/2)
 
-[^key-351914e6610466351764615430130062]: Textual amendment: Reg. 3(13) revoked (31.12.2020 immediately before IP completion day) by [The Seed, Propagating Material and Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/289)](https://www.legislation.gov.uk/ssi/2019/289), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/b), [7](https://www.legislation.gov.uk/ssi/2019/289/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-351914e6610466351764615430130062]: Textual amendment: Reg. 3(13) revoked (31.12.2020 immediately before IP completion day) by [The Seed, Propagating Material and Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/289)](https://www.legislation.gov.uk/ssi/2019/289), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/b), [7](https://www.legislation.gov.uk/ssi/2019/289/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a6ffa027b1bf5f6d9efda4c722dc6b77]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-a6ffa027b1bf5f6d9efda4c722dc6b77]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
-[^key-1423b29b179fa095c7c2ef140b80bc3f]: Textual amendment: Reg. 4(4)(g)(i) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/4/3)
+[^c-1423b29b179fa095c7c2ef140b80bc3f]: Textual amendment: Reg. 4(4)(g)(i) substituted (31.12.2020 immediately before IP completion day) by [The Agriculture (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/368)](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/4/3)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 6
 
-**1.**[^key-ce0d419342fb86afde7331be9847bf54] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
+**1.**[^c-ce0d419342fb86afde7331be9847bf54] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
 
 - (a) Stowe, Sturton and Bransby Inclosures Act 1803[^f00049];
 - (b) Great Grimsby and Sheffield Junction Railway Act 1845[^f00050];
@@ -40,7 +40,7 @@ Article 6
 
 ## Annotations
 
-[^key-ce0d419342fb86afde7331be9847bf54]: Commencement: Sch. 3 para. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-ce0d419342fb86afde7331be9847bf54]: Commencement: Sch. 3 para. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
 [^f00049]: Footnote: [1803 c. xlii](https://www.legislation.gov.uk/ukla/1803/42).
 

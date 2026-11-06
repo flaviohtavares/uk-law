@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Privilege not to exempt from jurisdiction.[^key-57c6ef3b7f9ac4823b2cf9edefa2c78f]
+## 10. Privilege not to exempt from jurisdiction.[^c-57c6ef3b7f9ac4823b2cf9edefa2c78f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57c6ef3b7f9ac4823b2cf9edefa2c78f]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/10) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 4(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/b); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)(3)](https://www.legislation.gov.uk/ssi/2015/77/paragraph/2/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-57c6ef3b7f9ac4823b2cf9edefa2c78f]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Edw7/7/51/section/10) repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 4(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/b); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)(3)](https://www.legislation.gov.uk/ssi/2015/77/paragraph/2/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

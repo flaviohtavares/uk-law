@@ -25,13 +25,13 @@ summary: ''
 - (a) the price payable under the contract—
   - (i) has been determined by the firm pricing method, the fixed pricing method or the volume-driven pricing method; and
   - (ii) the total value of the contract is of or above that amount; or
-- (b) the price payable under one or more [^key-6307cfca3295240f2f1d7d8c1aad49bb]... components of the contract—
+- (b) the price payable under one or more [^c-6307cfca3295240f2f1d7d8c1aad49bb]... components of the contract—
   - (i) has been determined by the firm pricing method, the fixed pricing method or the volume-driven pricing method; and
-  - (ii) the total value of the [^key-411b1d87571465fe306c0d39130ce252]... component or components the price of which has been so determined is of or above that amount.
+  - (ii) the total value of the [^c-411b1d87571465fe306c0d39130ce252]... component or components the price of which has been so determined is of or above that amount.
 
 (2) The amount specified for the purposes of section 21(5)(b) (value below which direction excluding final price adjustment may be made) is £50,000,000.
 
-(2A)[^key-522cf89c7822ddc96ca036e5aa520d69] Where the price payable under the contract includes one or more [^key-b95659426902fadbdb802dfb21738e27]... components which use a contract[^key-882477a240b91b1314c93a8998e33446] pricing method other than the firm pricing method, fixed pricing method, or volume-driven pricing method, the value of such component or components shall be disregarded for the purposes of paragraph (2).
+(2A)[^c-522cf89c7822ddc96ca036e5aa520d69] Where the price payable under the contract includes one or more [^c-b95659426902fadbdb802dfb21738e27]... components which use a contract[^c-882477a240b91b1314c93a8998e33446] pricing method other than the firm pricing method, fixed pricing method, or volume-driven pricing method, the value of such component or components shall be disregarded for the purposes of paragraph (2).
 
 (3) The matter specified for the purposes of section 21(6) (matters to which the Secretary of State must have regard in deciding whether to make such a direction) is the effect that making a direction might have on the terms of any subsequent contract that the Secretary of State expects to enter into with that primary contractor.
 
@@ -50,8 +50,8 @@ whichever is the sooner, notify the primary contractor that the Secretary of Sta
 
 (8) A reference under paragraph (7) may be made—
 
-- (a) after the contract completion date or, where the reference relates to a component, after the component completion date[^key-2e859dd3b3819fe8ce8ddcdb7dac68aa]; but
-- (b) no later than two years after the contract completion date or, where the reference relates to a component, after the component completion date[^key-7430a77da2d8c30b7901723b1a78e5a7].
+- (a) after the contract completion date or, where the reference relates to a component, after the component completion date[^c-2e859dd3b3819fe8ce8ddcdb7dac68aa]; but
+- (b) no later than two years after the contract completion date or, where the reference relates to a component, after the component completion date[^c-7430a77da2d8c30b7901723b1a78e5a7].
 
 (9) In making a determination, the SSRO must have regard to—
 
@@ -62,16 +62,16 @@ whichever is the sooner, notify the primary contractor that the Secretary of Sta
 
 ## Annotations
 
-[^key-6307cfca3295240f2f1d7d8c1aad49bb]: Textual amendment: Word in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/1/b) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/a)
+[^c-6307cfca3295240f2f1d7d8c1aad49bb]: Textual amendment: Word in [reg. 16(1)(b)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/1/b) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/a)
 
-[^key-411b1d87571465fe306c0d39130ce252]: Textual amendment: Word in [reg. 16(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/1/b/ii) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/a)
+[^c-411b1d87571465fe306c0d39130ce252]: Textual amendment: Word in [reg. 16(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/1/b/ii) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/a)
 
-[^key-522cf89c7822ddc96ca036e5aa520d69]: Textual amendment: [Reg. 16(2A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/2A) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/1106/regulation/6)
+[^c-522cf89c7822ddc96ca036e5aa520d69]: Textual amendment: [Reg. 16(2A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/2A) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/1106/regulation/6)
 
-[^key-b95659426902fadbdb802dfb21738e27]: Textual amendment: Word in [reg. 16(2A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/2A) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(b)(i)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/b/i)
+[^c-b95659426902fadbdb802dfb21738e27]: Textual amendment: Word in [reg. 16(2A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/2A) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(b)(i)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/b/i)
 
-[^key-882477a240b91b1314c93a8998e33446]: Textual amendment: Word in [reg. 16(2A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/2A) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/b/ii)
+[^c-882477a240b91b1314c93a8998e33446]: Textual amendment: Word in [reg. 16(2A)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/2A) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/b/ii)
 
-[^key-2e859dd3b3819fe8ce8ddcdb7dac68aa]: Textual amendment: Words in [reg. 16(8)(a)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/8/a) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(c)(i)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/c/i)
+[^c-2e859dd3b3819fe8ce8ddcdb7dac68aa]: Textual amendment: Words in [reg. 16(8)(a)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/8/a) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(c)(i)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/c/i)
 
-[^key-7430a77da2d8c30b7901723b1a78e5a7]: Textual amendment: Words in [reg. 16(8)(b)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/8/b) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(c)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/c/ii)
+[^c-7430a77da2d8c30b7901723b1a78e5a7]: Textual amendment: Words in [reg. 16(8)(b)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/16/8/b) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [20(c)(ii)](https://www.legislation.gov.uk/uksi/2024/420/regulation/20/c/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Matters to be included in the annual infrastructure funding statement[^key-024f25c3c8ae5fb52089f24702b7373f]
+## SCHEDULE 2 — Matters to be included in the annual infrastructure funding statement[^c-024f25c3c8ae5fb52089f24702b7373f]
 
 *Extent: E+W*
 
@@ -92,4 +92,4 @@ Regulation 121A
 
 ## Annotations
 
-[^key-024f25c3c8ae5fb52089f24702b7373f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/948/schedule/2) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/1103/schedule/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-024f25c3c8ae5fb52089f24702b7373f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/948/schedule/2) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/1103/schedule/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

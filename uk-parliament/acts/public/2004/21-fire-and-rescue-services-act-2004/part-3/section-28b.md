@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28B. Publication of inspection reports etc: England[^key-a8d0424e432f382fb4a5be046d6829cc]
+## 28B. Publication of inspection reports etc: England[^c-a8d0424e432f382fb4a5be046d6829cc]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8d0424e432f382fb4a5be046d6829cc]: Textual amendment: S. 28B inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/11/5), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/b)
+[^c-a8d0424e432f382fb4a5be046d6829cc]: Textual amendment: S. 28B inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/11/5), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/b)

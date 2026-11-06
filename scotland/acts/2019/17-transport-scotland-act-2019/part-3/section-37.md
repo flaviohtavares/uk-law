@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Registration of local services and functions of traffic commissioner[^key-7c97bd311f3c190558e07408c049c7bd][^key-029f0f83997f127d2e7bf2ed85abe6f2]
+## 37. Registration of local services and functions of traffic commissioner[^c-7c97bd311f3c190558e07408c049c7bd][^c-029f0f83997f127d2e7bf2ed85abe6f2]
 
 *Extent: S*
 
@@ -124,6 +124,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c97bd311f3c190558e07408c049c7bd]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2019/17/section/37) in force at 4.12.2023 for specified purposes by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-7c97bd311f3c190558e07408c049c7bd]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2019/17/section/37) in force at 4.12.2023 for specified purposes by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-029f0f83997f127d2e7bf2ed85abe6f2]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2019/17/section/37) in force at 26.12.2024 in so far as not already in force by [S.S.I. 2024/375](https://www.legislation.gov.uk/ssi/2024/375), [reg. 2](https://www.legislation.gov.uk/ssi/2024/375/regulation/2)
+[^c-029f0f83997f127d2e7bf2ed85abe6f2]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2019/17/section/37) in force at 26.12.2024 in so far as not already in force by [S.S.I. 2024/375](https://www.legislation.gov.uk/ssi/2024/375), [reg. 2](https://www.legislation.gov.uk/ssi/2024/375/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Application to court to alter constitution of internet domain registry[^key-4f828e21166e771663ce615dbdffd8c0]
+## 21. Application to court to alter constitution of internet domain registry[^c-4f828e21166e771663ce615dbdffd8c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ After section 124Q of the Communications Act 2003 insert—
 
 ## Annotations
 
-[^key-4f828e21166e771663ce615dbdffd8c0]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2010/24/section/21) in force at 6.4.2024 by [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(c)](https://www.legislation.gov.uk/uksi/2023/792/article/3/c)
+[^c-4f828e21166e771663ce615dbdffd8c0]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2010/24/section/21) in force at 6.4.2024 by [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(c)](https://www.legislation.gov.uk/uksi/2023/792/article/3/c)

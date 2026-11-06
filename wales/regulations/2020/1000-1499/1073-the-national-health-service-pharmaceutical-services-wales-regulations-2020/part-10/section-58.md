@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Reward scheme[^key-370d9013fc0fe1c3471b5e38e76b4b8d]
+## 58. Reward scheme[^c-370d9013fc0fe1c3471b5e38e76b4b8d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-370d9013fc0fe1c3471b5e38e76b4b8d]: Commencement: Reg. 58 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-370d9013fc0fe1c3471b5e38e76b4b8d]: Commencement: Reg. 58 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

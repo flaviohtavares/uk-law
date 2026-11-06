@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Application for reconsideration[^key-c4cfbf239c2c1176d1aa1917e216ed74]
+## 10. Application for reconsideration[^c-c4cfbf239c2c1176d1aa1917e216ed74]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4cfbf239c2c1176d1aa1917e216ed74]: Commencement: Reg. 10 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-c4cfbf239c2c1176d1aa1917e216ed74]: Commencement: Reg. 10 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

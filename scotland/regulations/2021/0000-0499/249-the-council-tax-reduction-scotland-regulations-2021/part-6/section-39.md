@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Average weekly employed earnings[^key-9c62f86bb7c5e4967f44ddef2eba55e1]
+## 39. Average weekly employed earnings[^c-9c62f86bb7c5e4967f44ddef2eba55e1]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c62f86bb7c5e4967f44ddef2eba55e1]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2021/249/regulation/39) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-9c62f86bb7c5e4967f44ddef2eba55e1]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2021/249/regulation/39) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

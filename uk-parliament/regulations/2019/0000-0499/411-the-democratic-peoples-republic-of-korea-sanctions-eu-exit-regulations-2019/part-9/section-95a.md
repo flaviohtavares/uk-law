@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. Director disqualification: licensing offences[^key-2a02294dfdf1002ee71a75b8f0d8e3dd]
+## 95A. Director disqualification: licensing offences[^c-2a02294dfdf1002ee71a75b8f0d8e3dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 ## Annotations
 
-[^key-2a02294dfdf1002ee71a75b8f0d8e3dd]: Textual amendment: [Reg. 95A](https://www.legislation.gov.uk/uksi/2019/411/regulation/95A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/7)
+[^c-2a02294dfdf1002ee71a75b8f0d8e3dd]: Textual amendment: [Reg. 95A](https://www.legislation.gov.uk/uksi/2019/411/regulation/95A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/7)

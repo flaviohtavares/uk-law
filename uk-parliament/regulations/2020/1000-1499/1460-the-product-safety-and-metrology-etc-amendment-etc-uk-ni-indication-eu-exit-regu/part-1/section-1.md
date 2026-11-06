@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-89656841cdafe640dfd8d59801e1a34e]
+## 1. Citation and commencement[^c-89656841cdafe640dfd8d59801e1a34e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-89656841cdafe640dfd8d59801e1a34e]: Commencement: Reg. 1 in force at 31.12.2020 immediately before the coming into force of regulation 2(1) of the Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020, see reg. 1(3)
+[^c-89656841cdafe640dfd8d59801e1a34e]: Commencement: Reg. 1 in force at 31.12.2020 immediately before the coming into force of regulation 2(1) of the Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020, see reg. 1(3)
 
 [^c24373151]: Marginal citation: [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852).
 

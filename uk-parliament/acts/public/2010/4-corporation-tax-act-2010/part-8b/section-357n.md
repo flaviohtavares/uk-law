@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357N. Introductory[^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357N. Introductory[^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
-(1) This Chapter applies to a company that is a Northern Ireland company in an accounting period by virtue of the[^key-a80a79b62c637cf47cbd0d5fc391bc31] SME (election) condition or the large company condition in section 357KA.
+(1) This Chapter applies to a company that is a Northern Ireland company in an accounting period by virtue of the[^c-a80a79b62c637cf47cbd0d5fc391bc31] SME (election) condition or the large company condition in section 357KA.
 
 (2) In this Chapter—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-a80a79b62c637cf47cbd0d5fc391bc31]: Textual amendment: Words in [s. 357N(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/357N/1) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/9)
+[^c-a80a79b62c637cf47cbd0d5fc391bc31]: Textual amendment: Words in [s. 357N(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/357N/1) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/9)

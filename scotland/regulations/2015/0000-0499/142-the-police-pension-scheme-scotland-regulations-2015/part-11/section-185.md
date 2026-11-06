@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 185. Transfers out[^key-59c96e81c51d9c5b18f7828a42e31b55]
+## 185. Transfers out[^c-59c96e81c51d9c5b18f7828a42e31b55]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59c96e81c51d9c5b18f7828a42e31b55]: Commencement: Reg. 185 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-59c96e81c51d9c5b18f7828a42e31b55]: Commencement: Reg. 185 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

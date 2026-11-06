@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Concealing identity at protests: designating localities and giving notice[^key-025c99b10b0ff88c4e0d97fe22301f75][^key-1c86c92f1f26a16030712cd87eac3df1]
+## 158. Concealing identity at protests: designating localities and giving notice[^c-025c99b10b0ff88c4e0d97fe22301f75][^c-1c86c92f1f26a16030712cd87eac3df1]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-025c99b10b0ff88c4e0d97fe22301f75]: Commencement: S. 158 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-025c99b10b0ff88c4e0d97fe22301f75]: Commencement: S. 158 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-1c86c92f1f26a16030712cd87eac3df1]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2026/20/section/158) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/l)
+[^c-1c86c92f1f26a16030712cd87eac3df1]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2026/20/section/158) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/l)

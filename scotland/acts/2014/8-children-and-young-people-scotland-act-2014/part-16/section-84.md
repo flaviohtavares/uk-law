@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Power to determine that deeming of person as relevant person to end[^key-370fcb2c51ee312c32e1ac3d349db891]
+## 84. Power to determine that deeming of person as relevant person to end[^c-370fcb2c51ee312c32e1ac3d349db891]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-370fcb2c51ee312c32e1ac3d349db891]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2014/8/section/84) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-370fcb2c51ee312c32e1ac3d349db891]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2014/8/section/84) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

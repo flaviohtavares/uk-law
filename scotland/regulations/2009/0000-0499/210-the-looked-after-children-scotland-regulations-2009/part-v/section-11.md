@@ -22,7 +22,7 @@ summary: ''
 
 (1) A local authority must not place a child with a kinship carer where–
 
-- (a)[^key-8e1d3af0cd730413c3e542a67f39cfbd] the placement is, or would be, contrary to the terms of any—
+- (a)[^c-8e1d3af0cd730413c3e542a67f39cfbd] the placement is, or would be, contrary to the terms of any—
   - (i) order or warrant made by the children’s hearing or the sheriff under the 2011 Act;
   - (ii) permanence order; or
   - (iii) exclusion order; or
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e1d3af0cd730413c3e542a67f39cfbd]: Textual amendment: Reg. 11(1)(a) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 11(7)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/11/7); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-8e1d3af0cd730413c3e542a67f39cfbd]: Textual amendment: Reg. 11(1)(a) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 11(7)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/11/7); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### PART 1 — THOSE PARTS OF ACCESSES TO BE MAINTAINED AT THE PUBLIC EXPENSE[^key-73cad781309c2376c04dfb27be12257d]
+### PART 1 — THOSE PARTS OF ACCESSES TO BE MAINTAINED AT THE PUBLIC EXPENSE[^c-73cad781309c2376c04dfb27be12257d]
 
 Table 5
 
@@ -30,7 +30,7 @@ Table 5
 | --- | --- | --- |
 | In the District of Rhondda Cynon Taf | Main Avenue | Those parts of the modified accesses at Main Avenue providing permanent access to numbered work 2 and shown on the rights of way, streets and access plan hatched blue between points marked D and E, F and G. |
 
-### PART 2 — THOSE PARTS OF ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^key-abc6e2f211e558939a611bd3d89854af]
+### PART 2 — THOSE PARTS OF ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^c-abc6e2f211e558939a611bd3d89854af]
 
 Table 6
 
@@ -41,6 +41,6 @@ Table 6
 
 ## Annotations
 
-[^key-73cad781309c2376c04dfb27be12257d]: Commencement: Sch. 4 Pt. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-73cad781309c2376c04dfb27be12257d]: Commencement: Sch. 4 Pt. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-abc6e2f211e558939a611bd3d89854af]: Commencement: Sch. 4 Pt. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-abc6e2f211e558939a611bd3d89854af]: Commencement: Sch. 4 Pt. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

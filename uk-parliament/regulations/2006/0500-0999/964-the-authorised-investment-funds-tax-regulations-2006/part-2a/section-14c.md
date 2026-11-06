@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14C. The genuine diversity of ownership condition[^key-0272f7a0cdbf16ba83ef305e3401d914]
+## 14C. The genuine diversity of ownership condition[^c-0272f7a0cdbf16ba83ef305e3401d914]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0272f7a0cdbf16ba83ef305e3401d914]: Textual amendment: [Reg. 14C](https://www.legislation.gov.uk/uksi/2006/964/regulation/14C) omitted (1.9.2009) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/2036/regulation/9)
+[^c-0272f7a0cdbf16ba83ef305e3401d914]: Textual amendment: [Reg. 14C](https://www.legislation.gov.uk/uksi/2006/964/regulation/14C) omitted (1.9.2009) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/2036/regulation/9)

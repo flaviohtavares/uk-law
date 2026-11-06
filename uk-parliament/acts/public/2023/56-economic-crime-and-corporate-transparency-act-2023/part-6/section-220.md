@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Transitional provision[^key-8b53024cdf2fdfaa59022dfef26bd830]
+## 220. Transitional provision[^c-8b53024cdf2fdfaa59022dfef26bd830]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b53024cdf2fdfaa59022dfef26bd830]: Commencement: S. 220 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)
+[^c-8b53024cdf2fdfaa59022dfef26bd830]: Commencement: S. 220 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)

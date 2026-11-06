@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. Children in youth detention accommodation, prison or bail accommodation etc[^key-f79012121a3a72c9f1db215d0a4969b2]
+## 186. Children in youth detention accommodation, prison or bail accommodation etc[^c-f79012121a3a72c9f1db215d0a4969b2]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ the child is to be treated for the purposes of this Act as being within that loc
 
 ## Annotations
 
-[^key-f79012121a3a72c9f1db215d0a4969b2]: Commencement: S. 186 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-f79012121a3a72c9f1db215d0a4969b2]: Commencement: S. 186 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

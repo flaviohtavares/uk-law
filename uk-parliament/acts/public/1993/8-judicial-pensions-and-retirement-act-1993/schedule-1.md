@@ -39,10 +39,10 @@ Section 1.
 - Recorder of London[^c19085561]
 - Common Serjeant
 - Circuit judge
-- Sheriff Principal, sheriff or summary sheriff in Scotland[^key-c360f67b7153c0cf90ce02e77d3a5653]
+- Sheriff Principal, sheriff or summary sheriff in Scotland[^c-c360f67b7153c0cf90ce02e77d3a5653]
 - County Court Judge in Northern Ireland
 - District Judge (Magistrates’ Courts)[^c13955241]
-- Stipendiary Magistrate (in England and Wales or Scotland)[^key-029b0df89d417c8342f6a6e69b010b64]
+- Stipendiary Magistrate (in England and Wales or Scotland)[^c-029b0df89d417c8342f6a6e69b010b64]
 - Resident Magistrate appointed under the [^c13955251]Magistrates’ Courts Act (Northern Ireland) 1964.
 
 ### Part II — Other appointments
@@ -53,7 +53,7 @@ Section 1.
 - Queen’s Coroner and Attorney and Master of the Crown Office and Registrar of Criminal Appeals
 - Admiralty Registrar
 - Master, Chancery Division
-- Registrar in Bankruptcy of the High Court *(Extent: E+W)* *(affected by repeal, see note)*[^key-d63fc57a73a89899898693fc0a3049bc] Insolvency and Companies Court Judge *(Extent: E+W)*
+- Registrar in Bankruptcy of the High Court *(Extent: E+W)* *(affected by repeal, see note)*[^c-d63fc57a73a89899898693fc0a3049bc] Insolvency and Companies Court Judge *(Extent: E+W)*
 - Taxing Master of the Senior Courts[^c20865801]
 - District Judge of the Principal Registry of the Family Division
 - Registrar of civil appeals
@@ -77,7 +77,7 @@ Section 1.
 - President of the Employment Tribunals[^c13956461] (England and Wales)
 - President of the Employment Tribunals (Scotland)
 - President or Vice-President of the Industrial Tribunals and the Fair Employment Tribunal, appointed under Article 82 of the Fair Employment and Treatment (Northern Ireland) Order 1998[^c13956481]
-- Employment Judge[^key-db4ac678aa68ad12a1a5755dbf9647ca] appointed in pursuance of regulations under section 1(1) of the[^c13956501] Employment Tribunals Act 1996[^c13956511]
+- Employment Judge[^c-db4ac678aa68ad12a1a5755dbf9647ca] appointed in pursuance of regulations under section 1(1) of the[^c13956501] Employment Tribunals Act 1996[^c13956511]
 - Chairman of industrial tribunals or of the Fair Employment Tribunal appointed in pursuance of regulations under Article 3 of the Industrial Tribunals (Northern Ireland) Order 1996[^c13956521] or appointed under Article 82(1)(c) of the Fair Employment and Treatment (Northern Ireland) Order 1998[^c13956531]
 - President or other member of [^c20865931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . the Lands Tribunal for Scotland or the Lands Tribunal for Northern Ireland
 - President of the Competition Commission Appeal Tribunals[^c13956541]
@@ -113,7 +113,7 @@ Section 1.
 - [^c20866171]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - Member of a panel constituted under section 6(1) of the[^c13956761] [^c13956771]Social Security Act 1998 [^c20862811]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - Member of a panel constituted under Article 7(1) of the [^c13956791]Social Security (Northern Ireland) Order 1998 [^c20862831]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-f6d6d54bb8e0740e929fb8888338154b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-f6d6d54bb8e0740e929fb8888338154b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Other offices
 
@@ -121,7 +121,7 @@ Section 1.
 - Chairman of the Foreign Compensation Commission
 - Chairman of the Scottish Land Court
 - President of the Industrial Court appointed in pursuance of Article 91 of the [^c13956811]Industrial Relations (Northern Ireland) Order 1992
-- [^key-a2a8b189c97da43e88bd8db9f2c43a49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-a2a8b189c97da43e88bd8db9f2c43a49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -131,15 +131,15 @@ Section 1.
 
 [^c19085561]: Textual amendment: Entries in Sch. 1 Pt. I inserted (31.3.1995) by [S.I. 1995/633](https://www.legislation.gov.uk/uksi/1995/633), [art. 3](https://www.legislation.gov.uk/uksi/1995/633/article/3) (with [art. 11](https://www.legislation.gov.uk/uksi/1995/633/article/11))
 
-[^key-c360f67b7153c0cf90ce02e77d3a5653]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1993/8/schedule/1/part/I) substituted (2.3.2015) by [The Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) Order 2015 (S.I. 2015/109)](https://www.legislation.gov.uk/uksi/2015/109), [arts. 1](https://www.legislation.gov.uk/uksi/2015/109/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/109/article/2/a)
+[^c-c360f67b7153c0cf90ce02e77d3a5653]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1993/8/schedule/1/part/I) substituted (2.3.2015) by [The Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) Order 2015 (S.I. 2015/109)](https://www.legislation.gov.uk/uksi/2015/109), [arts. 1](https://www.legislation.gov.uk/uksi/2015/109/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/109/article/2/a)
 
 [^c13955241]: Textual amendment: Entry in Sch. 1 Pt. I inserted (31.8.2000) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 78](https://www.legislation.gov.uk/ukpga/1999/22/section/78), [Sch. 11 paras. 39](https://www.legislation.gov.uk/ukpga/1999/22/schedule/11/paragraph/39), [40](https://www.legislation.gov.uk/ukpga/1999/22/schedule/11/paragraph/40) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 2000/1920](https://www.legislation.gov.uk/uksi/2000/1920), [art. 3(a)](https://www.legislation.gov.uk/uksi/2000/1920/article/3/a)
 
-[^key-029b0df89d417c8342f6a6e69b010b64]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1993/8/schedule/1/part/I) substituted (2.3.2015) by [The Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) Order 2015 (S.I. 2015/109)](https://www.legislation.gov.uk/uksi/2015/109), [arts. 1](https://www.legislation.gov.uk/uksi/2015/109/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/109/article/2/b)
+[^c-029b0df89d417c8342f6a6e69b010b64]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1993/8/schedule/1/part/I) substituted (2.3.2015) by [The Judicial Pensions and Retirement Act 1993 (Addition of Qualifying Judicial Offices) Order 2015 (S.I. 2015/109)](https://www.legislation.gov.uk/uksi/2015/109), [arts. 1](https://www.legislation.gov.uk/uksi/2015/109/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/109/article/2/b)
 
 [^c13955251]: Marginal citation: [1964 c. 21 (N.I.)](https://www.legislation.gov.uk/apni/1964/21).
 
-[^key-d63fc57a73a89899898693fc0a3049bc]: Textual amendment: Words in [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1993/8/schedule/1/part/II) substituted (E.W.) (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/9/a)
+[^c-d63fc57a73a89899898693fc0a3049bc]: Textual amendment: Words in [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1993/8/schedule/1/part/II) substituted (E.W.) (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/9/a)
 
 [^c20865801]: Textual amendment: Words in Sch. 1 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)
 
@@ -175,7 +175,7 @@ Section 1.
 
 [^c13956481]: Textual amendment: Words in Sch. 1 Pt. II substituted (1.3.1999) by [S.I.1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162), [art. 105(1)](https://www.legislation.gov.uk/nisi/1998/3162/article/105/1), [Sch. 3](https://www.legislation.gov.uk/nisi/1998/3162/schedule/3); [S.R. 1999/81](https://www.legislation.gov.uk/nisr/1999/81), [art. 3(1)](https://www.legislation.gov.uk/nisr/1999/81/article/3/1)
 
-[^key-db4ac678aa68ad12a1a5755dbf9647ca]: Textual amendment: Words in Sch. 1 substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
+[^c-db4ac678aa68ad12a1a5755dbf9647ca]: Textual amendment: Words in Sch. 1 substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 14 para. 13(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/14/paragraph/13/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(g)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/g)
 
 [^c13956501]: Textual amendment: Words in Sch. 1 Pt. II substituted (E.W.S) (22.8.1996) by [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17), [ss. 43](https://www.legislation.gov.uk/ukpga/1996/17/section/43), [46](https://www.legislation.gov.uk/ukpga/1996/17/section/46), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/1996/17/schedule/1/paragraph/10/2) (with [s. 38](https://www.legislation.gov.uk/ukpga/1996/17/section/38))
 
@@ -235,10 +235,10 @@ Section 1.
 
 [^c20862831]: Textual amendment: Sch. 1 Pt. 2: words in entry omitted (8.12.2003) by virtue of [The Judicial Pensions and Retirement Act 1993 (Qualifying Judicial Offices) (Amendment) Order 2003 (S.I. 2003/2775)](https://www.legislation.gov.uk/uksi/2003/2775), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/2775/article/2/b)
 
-[^key-f6d6d54bb8e0740e929fb8888338154b]: Textual amendment: Words in Sch. 5 omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 223(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/223/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f6d6d54bb8e0740e929fb8888338154b]: Textual amendment: Words in Sch. 5 omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 223(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/223/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c13956801]: Marginal citation: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).
 
 [^c13956811]: Marginal citation: [S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807).
 
-[^key-a2a8b189c97da43e88bd8db9f2c43a49]: Textual amendment: Words in Sch. 5 omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 223(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/223/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a2a8b189c97da43e88bd8db9f2c43a49]: Textual amendment: Words in Sch. 5 omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 223(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/223/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

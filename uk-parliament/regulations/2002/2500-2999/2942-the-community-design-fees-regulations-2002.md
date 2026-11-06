@@ -31,7 +31,7 @@ summary: ''
 
 FEES AND CHARGES
 
-The Community Design (Fees) Regulations 2002 (revoked)[^key-7733d6045359283d7b428ae1a9063910]
+The Community Design (Fees) Regulations 2002 (revoked)[^c-7733d6045359283d7b428ae1a9063910]
 
 Made
 
@@ -45,20 +45,20 @@ Coming into force
 
 1st January 2003
 
-[^key-7733d6045359283d7b428ae1a9063910]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7733d6045359283d7b428ae1a9063910]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-7733d6045359283d7b428ae1a9063910] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7733d6045359283d7b428ae1a9063910] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7733d6045359283d7b428ae1a9063910] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7733d6045359283d7b428ae1a9063910] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7733d6045359283d7b428ae1a9063910] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7733d6045359283d7b428ae1a9063910] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7733d6045359283d7b428ae1a9063910]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7733d6045359283d7b428ae1a9063910]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7733d6045359283d7b428ae1a9063910]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7733d6045359283d7b428ae1a9063910]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7733d6045359283d7b428ae1a9063910]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/2942) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-7733d6045359283d7b428ae1a9063910]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/2942) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

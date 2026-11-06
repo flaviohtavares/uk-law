@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Claims certified as clearly unfounded: removal of right of appeal[^key-ecb80ceb16b19c6bb04b511a5d3aaa3c]
+## 28. Claims certified as clearly unfounded: removal of right of appeal[^c-ecb80ceb16b19c6bb04b511a5d3aaa3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecb80ceb16b19c6bb04b511a5d3aaa3c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/36/section/28) in force at 28.6.2022, see [s. 87(5)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/a)
+[^c-ecb80ceb16b19c6bb04b511a5d3aaa3c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/36/section/28) in force at 28.6.2022, see [s. 87(5)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/a)

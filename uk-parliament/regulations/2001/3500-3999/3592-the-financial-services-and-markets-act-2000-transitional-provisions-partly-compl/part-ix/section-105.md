@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Transitional reference to Financial Services Tribunal[^key-fde1e6a50d722789f66c751ad06ca836]
+## 105. Transitional reference to Financial Services Tribunal[^c-fde1e6a50d722789f66c751ad06ca836]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fde1e6a50d722789f66c751ad06ca836]: Commencement: Art. 105 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-fde1e6a50d722789f66c751ad06ca836]: Commencement: Art. 105 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

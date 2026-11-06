@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Borrowing powers[^key-3451859624e3dc0af77d0beab39fc347]
+## 33. Borrowing powers[^c-3451859624e3dc0af77d0beab39fc347]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3451859624e3dc0af77d0beab39fc347]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2009/23/section/33) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)
+[^c-3451859624e3dc0af77d0beab39fc347]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2009/23/section/33) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)

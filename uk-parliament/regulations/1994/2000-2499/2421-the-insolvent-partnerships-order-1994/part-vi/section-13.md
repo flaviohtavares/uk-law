@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Deposit on petitions[^key-945138a481f5c0749adf754dbeef41d5]
+## 13. Deposit on petitions[^c-945138a481f5c0749adf754dbeef41d5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-945138a481f5c0749adf754dbeef41d5]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/1994/2421/article/13) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-945138a481f5c0749adf754dbeef41d5]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/1994/2421/article/13) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)

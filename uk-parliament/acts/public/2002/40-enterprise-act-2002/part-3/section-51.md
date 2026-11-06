@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Time-limits for investigations and reports by CMA[^key-6c7c1623ca753ad32e09b061c8ad5442]
+## 51. Time-limits for investigations and reports by CMA[^c-6c7c1623ca753ad32e09b061c8ad5442]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) within the period of 24 weeks beginning with the date of the reference; or *(affected by repeal, see note)*[^c19486131]
 - (b) if it is a shorter period, within such period as is necessary to ensure compliance with that article. *(affected by repeal, see note)*[^c19486131]
 
-(2A)[^key-5db0842de0520e8d265af80f79bae12b] Where —
+(2A)[^c-5db0842de0520e8d265af80f79bae12b] Where —
 
 - (a) the CMA and the persons carrying on the enterprises concerned agree—
   - (i) that the period within which a report under section 50 is to be prepared and published (the “original period”) should be extended, and
@@ -48,9 +48,9 @@ the CMA may extend the original period by the extension period.
 
 (6) For the purposes of subsection (5) a person or group of persons able, directly or indirectly, to control or materially to influence the policy of a body of persons corporate or unincorporate, but without having a controlling interest in that body of persons, may be treated as having control of it.
 
-(7) An extension under subsection (2A),[^key-c7ee4498f8aca69a59279856d79873dc] (3) or (4) shall come into force when published under section 107.
+(7) An extension under subsection (2A),[^c-c7ee4498f8aca69a59279856d79873dc] (3) or (4) shall come into force when published under section 107.
 
-(7A)[^key-e8f37bfb35e69a3eaecd49b1097af444] An extension under subsection (2A) continues in force until—
+(7A)[^c-e8f37bfb35e69a3eaecd49b1097af444] An extension under subsection (2A) continues in force until—
 
 - (a) the end of the extension period, or
 - (b) an earlier time if, before the end of that period—
@@ -60,23 +60,23 @@ the CMA may extend the original period by the extension period.
 
 (8) An extension under subsection (4) shall continue in force until—
 
-- (a) the person concerned provides the information or documents to the satisfaction of the CMA[^key-8f0e39ffff6e7451a6345998424691da] or (as the case may be) appears as a witness in accordance with the requirements of the CMA; or
+- (a) the person concerned provides the information or documents to the satisfaction of the CMA[^c-8f0e39ffff6e7451a6345998424691da] or (as the case may be) appears as a witness in accordance with the requirements of the CMA; or
 - (b) the CMA publishes its decision to cancel the extension.
 
 (9) This section is subject to sections 52 and 53.
 
 ## Annotations
 
-[^key-6c7c1623ca753ad32e09b061c8ad5442]: Textual amendment: Word in s. 51 heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 93(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/93/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-6c7c1623ca753ad32e09b061c8ad5442]: Textual amendment: Word in s. 51 heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 93(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/93/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^M_F_c1b7c4d1-cf8e-4cf1-d37e-2242f74eabef]: Textual amendment: Word in s. 51(1)-(4) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), s. 26(3), Sch. 5 para. 93(2) (with s. 28), [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), art. 2(1)(d) (with Sch.)
 
 [^c19486131]: Textual amendment: S. 51(2) ceased to have effect (1.5.2004) by virtue of [The EC Merger Control (Consequential Amendments) Regulations 2004 (S.I. 2004/1079)](https://www.legislation.gov.uk/uksi/2004/1079), [reg. 2](https://www.legislation.gov.uk/uksi/2004/1079/regulation/2), [Sch. para. 2(16)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/2/16)
 
-[^key-5db0842de0520e8d265af80f79bae12b]: Textual amendment: S. 51(2A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 132(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/132/2/a), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(4)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-5db0842de0520e8d265af80f79bae12b]: Textual amendment: S. 51(2A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 132(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/132/2/a), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(4)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-c7ee4498f8aca69a59279856d79873dc]: Textual amendment: Word in s. 51(7) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 132(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/132/2/b), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(4)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-c7ee4498f8aca69a59279856d79873dc]: Textual amendment: Word in s. 51(7) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 132(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/132/2/b), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(4)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-e8f37bfb35e69a3eaecd49b1097af444]: Textual amendment: S. 51(7A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 132(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/132/2/c), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(4)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-e8f37bfb35e69a3eaecd49b1097af444]: Textual amendment: S. 51(7A) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 132(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/132/2/c), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(4)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-8f0e39ffff6e7451a6345998424691da]: Textual amendment: Word in s. 51(8) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 93(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/93/2) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8f0e39ffff6e7451a6345998424691da]: Textual amendment: Word in s. 51(8) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 93(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/93/2) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

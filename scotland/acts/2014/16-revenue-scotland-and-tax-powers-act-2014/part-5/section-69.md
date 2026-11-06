@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Final notice to taxpayer of counteraction of tax advantage[^key-a5167905834e5a8219bdaacd46dd4005]
+## 69. Final notice to taxpayer of counteraction of tax advantage[^c-a5167905834e5a8219bdaacd46dd4005]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5167905834e5a8219bdaacd46dd4005]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2014/16/section/69) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-a5167905834e5a8219bdaacd46dd4005]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2014/16/section/69) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

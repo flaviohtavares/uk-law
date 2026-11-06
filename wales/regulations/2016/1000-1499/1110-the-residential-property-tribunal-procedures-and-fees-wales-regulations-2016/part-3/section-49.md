@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Payment of fees[^key-e1fe12f16cc04d84804e866b26ba136f]
+## 49. Payment of fees[^c-e1fe12f16cc04d84804e866b26ba136f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any fee payable under regulation 44, 45, 46, 47 or 48 must accompany the applica
 
 ## Annotations
 
-[^key-e1fe12f16cc04d84804e866b26ba136f]: Commencement: Reg. 49 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-e1fe12f16cc04d84804e866b26ba136f]: Commencement: Reg. 49 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

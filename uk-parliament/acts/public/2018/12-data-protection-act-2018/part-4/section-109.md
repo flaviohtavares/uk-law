@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Transfers of personal data outside the United Kingdom[^key-deba1ccec93c5dcf33f3a26797f2173c]
+## 109. Transfers of personal data outside the United Kingdom[^c-deba1ccec93c5dcf33f3a26797f2173c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ unless the transfer falls within subsection (2).
 
 ## Annotations
 
-[^key-deba1ccec93c5dcf33f3a26797f2173c]: Commencement: S. 109 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-deba1ccec93c5dcf33f3a26797f2173c]: Commencement: S. 109 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)

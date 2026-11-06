@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Transitory provision: prior to full commencement of regulation 38(1) to (7)[^key-9f6e59c322091a9a19ce097379038c30]
+## 112. Transitory provision: prior to full commencement of regulation 38(1) to (7)[^c-9f6e59c322091a9a19ce097379038c30]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f6e59c322091a9a19ce097379038c30]: Commencement: [Reg. 112](https://www.legislation.gov.uk/ssi/2016/49/regulation/112) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-9f6e59c322091a9a19ce097379038c30]: Commencement: [Reg. 112](https://www.legislation.gov.uk/ssi/2016/49/regulation/112) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

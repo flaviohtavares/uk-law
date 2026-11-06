@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Requirements on Commission when securing further education and training[^key-13383190510b0510e9f7139a4b1cf02f][^key-764aa61bbcee20cdffdfe8de943e7294]
+## 96. Requirements on Commission when securing further education and training[^c-13383190510b0510e9f7139a4b1cf02f][^c-764aa61bbcee20cdffdfe8de943e7294]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13383190510b0510e9f7139a4b1cf02f]: Commencement: S. 96 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-13383190510b0510e9f7139a4b1cf02f]: Commencement: S. 96 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-764aa61bbcee20cdffdfe8de943e7294]: Commencement: [S. 96](https://www.legislation.gov.uk/asc/2022/1/section/96) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(v)](https://www.legislation.gov.uk/wsi/2026/62/article/2/v)
+[^c-764aa61bbcee20cdffdfe8de943e7294]: Commencement: [S. 96](https://www.legislation.gov.uk/asc/2022/1/section/96) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(v)](https://www.legislation.gov.uk/wsi/2026/62/article/2/v)

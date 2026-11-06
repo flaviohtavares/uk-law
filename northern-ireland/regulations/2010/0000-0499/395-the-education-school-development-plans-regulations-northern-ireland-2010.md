@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Education (School Development Plans) Regulations (Northern Ireland) 2010 (revoked)[^key-53f9bc756d745679133699b7539929ca]
+The Education (School Development Plans) Regulations (Northern Ireland) 2010 (revoked)[^c-53f9bc756d745679133699b7539929ca]
 
 Made
 
@@ -42,64 +42,64 @@ Coming into operation
 
 24th January 2011
 
-[^key-53f9bc756d745679133699b7539929ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53f9bc756d745679133699b7539929ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-53f9bc756d745679133699b7539929ca]
+## 1. Citation and commencement[^c-53f9bc756d745679133699b7539929ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-53f9bc756d745679133699b7539929ca]
+## 2. Revocation[^c-53f9bc756d745679133699b7539929ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-53f9bc756d745679133699b7539929ca]
+## 3. Application[^c-53f9bc756d745679133699b7539929ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Matters to be addressed in school development plans[^key-53f9bc756d745679133699b7539929ca]
+## 4. Matters to be addressed in school development plans[^c-53f9bc756d745679133699b7539929ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. The period for which a school development plan is to have effect[^key-53f9bc756d745679133699b7539929ca]
+## 5. The period for which a school development plan is to have effect[^c-53f9bc756d745679133699b7539929ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Publication of a school development plan[^key-53f9bc756d745679133699b7539929ca]
+## 6. Publication of a school development plan[^c-53f9bc756d745679133699b7539929ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Monitoring, review and revision of school development plan[^key-53f9bc756d745679133699b7539929ca]
+## 7. Monitoring, review and revision of school development plan[^c-53f9bc756d745679133699b7539929ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53f9bc756d745679133699b7539929ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53f9bc756d745679133699b7539929ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — MATTERS TO BE ADDRESSED IN SCHOOL DEVELOPMENT PLANS[^key-53f9bc756d745679133699b7539929ca]
+## SCHEDULE — MATTERS TO BE ADDRESSED IN SCHOOL DEVELOPMENT PLANS[^c-53f9bc756d745679133699b7539929ca]
 
 Regulation 4
 
-**1.**[^key-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-53f9bc756d745679133699b7539929ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-53f9bc756d745679133699b7539929ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53f9bc756d745679133699b7539929ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53f9bc756d745679133699b7539929ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/395) revoked (1.8.2026) by [The Education (School Development Plans) Regulations (Northern Ireland) 2026 (S.R. 2026/106)](https://www.legislation.gov.uk/nisr/2026/106), [regs. 1](https://www.legislation.gov.uk/nisr/2026/106/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2026/106/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2026/106/regulation/2/2))
+[^c-53f9bc756d745679133699b7539929ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/395) revoked (1.8.2026) by [The Education (School Development Plans) Regulations (Northern Ireland) 2026 (S.R. 2026/106)](https://www.legislation.gov.uk/nisr/2026/106), [regs. 1](https://www.legislation.gov.uk/nisr/2026/106/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2026/106/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2026/106/regulation/2/2))

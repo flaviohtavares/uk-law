@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Keeping and publication of lists of applications[^key-a277b2ad8ec21fa91bfcb28170731e88][^key-c30d0beee853a9635f43a3450d34aca8]
+## 13. Keeping and publication of lists of applications[^c-a277b2ad8ec21fa91bfcb28170731e88][^c-c30d0beee853a9635f43a3450d34aca8]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ After section 36 of the principal Act insert—
 
 ## Annotations
 
-[^key-a277b2ad8ec21fa91bfcb28170731e88]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2006/17/section/13) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-a277b2ad8ec21fa91bfcb28170731e88]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2006/17/section/13) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-c30d0beee853a9635f43a3450d34aca8]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2006/17/section/13) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-c30d0beee853a9635f43a3450d34aca8]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2006/17/section/13) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

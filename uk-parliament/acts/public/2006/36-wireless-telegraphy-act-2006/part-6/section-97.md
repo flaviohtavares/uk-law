@@ -31,7 +31,7 @@ summary: ''
 - (b) to search the premises, vehicle, ship or aircraft;
 - (c) to examine and test any apparatus found there.
 
-(3) In subsection (2) “**the relevant period**” means the period beginning with the grant of the warrant and ending three months after the end of the day on which the warrant is granted[^key-8de56409834ac3ec562acc62de2b9f9d] .
+(3) In subsection (2) “**the relevant period**” means the period beginning with the grant of the warrant and ending three months after the end of the day on which the warrant is granted[^c-8de56409834ac3ec562acc62de2b9f9d] .
 
 (4) In the application of subsection (3) to Scotland or Northern Ireland the reference to three months is to be read as a reference to one month.
 
@@ -57,4 +57,4 @@ must give him whatever assistance he may reasonably require in the examination o
 
 [^c1910548]: Modification: S. 97 applied by [Wireless Telegraphy Act 1967 (c. 72)](https://www.legislation.gov.uk/ukpga/1967/72), [s. 5(6)](https://www.legislation.gov.uk/ukpga/1967/72/section/5/6) (as inserted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [ss. 123](https://www.legislation.gov.uk/ukpga/2006/36/section/123), [126](https://www.legislation.gov.uk/ukpga/2006/36/section/126), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/2/4))
 
-[^key-8de56409834ac3ec562acc62de2b9f9d]: Textual amendment: Words in s. 97(3) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/11/1), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 11(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/11/2))
+[^c-8de56409834ac3ec562acc62de2b9f9d]: Textual amendment: Words in s. 97(3) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/11/1), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 11(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/11/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61.6. Security in claim in rem[^key-15c3c276e68ba8db6c1696646926b71b]
+## 61.6. Security in claim in rem[^c-15c3c276e68ba8db6c1696646926b71b]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) obtain the release of property under arrest; or
 - (b) prevent the arrest of property.
 
-(2)[^key-82a600777103e0fb838d247e2a326587] Unless the terms on which security has been given provide otherwise, the court may order that—
+(2)[^c-82a600777103e0fb838d247e2a326587] Unless the terms on which security has been given provide otherwise, the court may order that—
 
 - (a) the amount of security be reduced, and may stay the claim until the order is complied with; or
 - (b) the amount of security be increased, and may give the claimant permission to arrest or re-arrest the property proceeded against to obtain further security.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15c3c276e68ba8db6c1696646926b71b]: Textual amendment: Pt. 61 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/4015/schedule/5)
+[^c-15c3c276e68ba8db6c1696646926b71b]: Textual amendment: Pt. 61 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/4015/schedule/5)
 
-[^key-82a600777103e0fb838d247e2a326587]: Textual amendment: [Rule 61.6(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.6/2) substituted (6.4.2019) by [The Civil Procedure (Amendment) Rules 2019 (S.I. 2019/342)](https://www.legislation.gov.uk/uksi/2019/342), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/342/rule/1/1), [13](https://www.legislation.gov.uk/uksi/2019/342/rule/13)
+[^c-82a600777103e0fb838d247e2a326587]: Textual amendment: [Rule 61.6(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.6/2) substituted (6.4.2019) by [The Civil Procedure (Amendment) Rules 2019 (S.I. 2019/342)](https://www.legislation.gov.uk/uksi/2019/342), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/342/rule/1/1), [13](https://www.legislation.gov.uk/uksi/2019/342/rule/13)

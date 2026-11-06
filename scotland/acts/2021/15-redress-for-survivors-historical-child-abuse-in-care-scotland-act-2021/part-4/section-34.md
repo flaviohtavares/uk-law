@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Prioritisation of applications[^key-bdd77cdcdcb392fffcafc489dcea0622]
+## 34. Prioritisation of applications[^c-bdd77cdcdcb392fffcafc489dcea0622]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdd77cdcdcb392fffcafc489dcea0622]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2021/15/section/34) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-bdd77cdcdcb392fffcafc489dcea0622]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2021/15/section/34) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

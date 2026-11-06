@@ -128,8 +128,8 @@ In Article 3—
 - (b) in paragraph 4, for “Directive [2001/14/EC](https://www.legislation.gov.uk/eudr/2001/14)” substitute “ Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area ”;
 - (c) in paragraph 5, for “a Member State” substitute “ the United Kingdom ”;
 - (d) in paragraph 6, for “Article 2, points (2) and (3) of Directive [90/314/EEC](https://www.legislation.gov.uk/eudr/1990/314)”, substitute “ Article 3, points (8) and (9) of Directive (EU) 2015/2302 of the European Parliament and of the Council of 25 November 2015 on package travel and linked travel arrangements, amending Regulation [(EC) No 2006/2004](https://www.legislation.gov.uk/eur/2004/2006) and Directive 2011/84/EU of the European Parliament and of the Council and repealing Council Directive [90/314/EEC](https://www.legislation.gov.uk/eudr/1990/314) ”;
-- (e) in paragraph 11, for “a Member State” substitute “the United Kingdom”; [^key-7a879711ebb5223ba78ab62e96eea2ba]...
-- (f) in paragraph 16, for “each Member State” substitute “the United Kingdom” ; and *(Extent: E+W+S)*[^key-925e817d75b0a73963df547a5a739662]
+- (e) in paragraph 11, for “a Member State” substitute “the United Kingdom”; [^c-7a879711ebb5223ba78ab62e96eea2ba]...
+- (f) in paragraph 16, for “each Member State” substitute “the United Kingdom” ; and *(Extent: E+W+S)*[^c-925e817d75b0a73963df547a5a739662]
 - (g (Extent: E+W+S)) after paragraph 17 insert— *(Extent: E+W+S)*
 
   > (18 (Extent: E+W+S)) “NTSN” has the meaning set out in regulation 2(1) of the Railways (Interoperability) Regulations 2011. *(Extent: E+W+S)*
@@ -140,7 +140,7 @@ In Article 3—
 
 In Article 10—
 
-- (a (Extent: E+W+S))[^key-94ce17150729bab64bf61f8dd5c64daf] for paragraph 2 substitute— *(Extent: E+W+S)*
+- (a (Extent: E+W+S))[^c-94ce17150729bab64bf61f8dd5c64daf] for paragraph 2 substitute— *(Extent: E+W+S)*
 
   > **2 (Extent: E+W+S).** The NTSN relating to the subsystem ‘telematics applications for passenger services’ (the TAP NTSN) applies for the purposes of this Regulation. *(Extent: E+W+S)*
 
@@ -148,8 +148,8 @@ In Article 10—
 
 *Extent: E+W+S*
 
-- (aa)[^key-9de4a896d535be9d90557a842ae103c1] omit paragraph 3;
-- (b (Extent: E+W+S))[^key-4edb891a3e14334dc72061abb2ef15f1] in paragraph 4, for “the TSI” substitute “the TAP NTSN”. *(Extent: E+W+S)*
+- (aa)[^c-9de4a896d535be9d90557a842ae103c1] omit paragraph 3;
+- (b (Extent: E+W+S))[^c-4edb891a3e14334dc72061abb2ef15f1] in paragraph 4, for “the TSI” substitute “the TAP NTSN”. *(Extent: E+W+S)*
 - (c) in paragraph 5, for “Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46)” substitute “ Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46) (General Data Protection Regulation) and the Data Protection Act 2018 [^c23432581] ”.
 
 ### 9.[^c23439411]
@@ -181,7 +181,7 @@ In Article 17—
 - (a) in paragraph 1, in the final sentence for “the territories in which the Treaty establishing the European Community is applied” substitute “ the United Kingdom ”,
 - (b) in paragraph 3, for “EUR 4” substitute “ £3.50 ”.
 
-### 13.[^c23439451][^key-fef3e939b90e3dc3b53f2bd339236ad7]
+### 13.[^c23439451][^c-fef3e939b90e3dc3b53f2bd339236ad7]
 
 In Article 21—
 
@@ -305,17 +305,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23439391]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-7a879711ebb5223ba78ab62e96eea2ba]: Textual amendment: Word in reg. 7(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/2/a)
+[^c-7a879711ebb5223ba78ab62e96eea2ba]: Textual amendment: Word in reg. 7(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/2/a)
 
-[^key-925e817d75b0a73963df547a5a739662]: Textual amendment: Reg. 7(g) and word inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/2/b)
+[^c-925e817d75b0a73963df547a5a739662]: Textual amendment: Reg. 7(g) and word inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/2/b)
 
 [^c23439401]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-94ce17150729bab64bf61f8dd5c64daf]: Textual amendment: Reg. 8(a) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/3/a)
+[^c-94ce17150729bab64bf61f8dd5c64daf]: Textual amendment: Reg. 8(a) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/3/a)
 
-[^key-9de4a896d535be9d90557a842ae103c1]: Textual amendment: Reg. 8(aa) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/3/b)
+[^c-9de4a896d535be9d90557a842ae103c1]: Textual amendment: Reg. 8(aa) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/3/b)
 
-[^key-4edb891a3e14334dc72061abb2ef15f1]: Textual amendment: Reg. 8(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/3/c)
+[^c-4edb891a3e14334dc72061abb2ef15f1]: Textual amendment: Reg. 8(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/3/c)
 
 [^c23432581]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
 
@@ -329,7 +329,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23439451]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-fef3e939b90e3dc3b53f2bd339236ad7]: Textual amendment: Reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(4)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/4)
+[^c-fef3e939b90e3dc3b53f2bd339236ad7]: Textual amendment: Reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [3(4)](https://www.legislation.gov.uk/uksi/2020/318/regulation/3/4)
 
 [^c23439461]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 

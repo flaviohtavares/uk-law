@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Duty to sell right of burial[^key-07ac6b843a5a53d17bba289c9c92a84d]
+## 13. Duty to sell right of burial[^c-07ac6b843a5a53d17bba289c9c92a84d]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ac6b843a5a53d17bba289c9c92a84d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/20/section/13) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)
+[^c-07ac6b843a5a53d17bba289c9c92a84d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/20/section/13) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)

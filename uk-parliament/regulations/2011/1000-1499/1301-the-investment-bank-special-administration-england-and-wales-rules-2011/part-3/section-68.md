@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Meetings generally[^key-ea00011936428b171336e2087e744e9b]
+## 68. Meetings generally[^c-ea00011936428b171336e2087e744e9b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ or following a request or a direction from the court under paragraph 56 (further
 
 ## Annotations
 
-[^key-ea00011936428b171336e2087e744e9b]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2011/1301/rule/68) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ea00011936428b171336e2087e744e9b]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2011/1301/rule/68) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

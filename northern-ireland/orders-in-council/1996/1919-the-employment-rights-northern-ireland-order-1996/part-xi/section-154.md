@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The amount of the basic award (before any reduction under Article 156) shall not be less than £9,512[^key-44a3ae92c007fa7311c30cab42f7f67e] where the reason (or, if more than one, the principal reason)—
+(1) The amount of the basic award (before any reduction under Article 156) shall not be less than £9,512[^c-44a3ae92c007fa7311c30cab42f7f67e] where the reason (or, if more than one, the principal reason)—
 
 - (a) in a redundancy case, for selecting the employee for dismissal, or
 - (b) otherwise, for the dismissal,
@@ -37,13 +37,13 @@ the industrial tribunal shall, subject to paragraph (1B), increase the award und
 
 (1B) An industrial tribunal shall not be required by paragraph (1A) to increase the amount of an award if it considers that the increase would result in injustice to the employer.
 
-(1C)[^key-b1536d6d7bb18f9dcdefa4aa54e90c1f] Where an employee is regarded as unfairly dismissed by virtue of Article 135F (blacklists) (whether or not the dismissal is unfair or regarded as unfair for any other reason), the amount of the basic award of compensation (before any reduction is made under Article 156) shall not be less than £5,700.
+(1C)[^c-b1536d6d7bb18f9dcdefa4aa54e90c1f] Where an employee is regarded as unfairly dismissed by virtue of Article 135F (blacklists) (whether or not the dismissal is unfair or regarded as unfair for any other reason), the amount of the basic award of compensation (before any reduction is made under Article 156) shall not be less than £5,700.
 
 *Para. (2) rep. by 1999 NI 9*
 
 ## Annotations
 
-[^key-44a3ae92c007fa7311c30cab42f7f67e]: Textual amendment: Sum in [art. 154(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/154/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))
+[^c-44a3ae92c007fa7311c30cab42f7f67e]: Textual amendment: Sum in [art. 154(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/154/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))
 
 [^c17626571]: Textual amendment: SR 1998/386
 
@@ -51,4 +51,4 @@ the industrial tribunal shall, subject to paragraph (1B), increase the award und
 
 [^c22541761]: Textual amendment: Words in art. 154(1A)(a) omitted (6.4.2011) by virtue of [Employment Equality (Repeal of Retirement Age Provisions) Regulations (Northern Ireland) 2011 (S.R. 2011/168)](https://www.legislation.gov.uk/nisr/2011/168), [reg. 3(7)](https://www.legislation.gov.uk/nisr/2011/168/regulation/3/7) (with [regs. 4](https://www.legislation.gov.uk/nisr/2011/168/regulation/4), [5](https://www.legislation.gov.uk/nisr/2011/168/regulation/5), [7](https://www.legislation.gov.uk/nisr/2011/168/regulation/7))
 
-[^key-b1536d6d7bb18f9dcdefa4aa54e90c1f]: Textual amendment: Art. 154(1C) inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(6)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/6)
+[^c-b1536d6d7bb18f9dcdefa4aa54e90c1f]: Textual amendment: Art. 154(1C) inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(6)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/6)

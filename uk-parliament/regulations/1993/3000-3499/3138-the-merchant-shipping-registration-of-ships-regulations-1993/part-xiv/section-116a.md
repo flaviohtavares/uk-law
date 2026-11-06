@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116A. Continuation in force of old certificates[^key-925ce5a6e8720e55cc87b8370426007a]
+## 116A. Continuation in force of old certificates[^c-925ce5a6e8720e55cc87b8370426007a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ but any new certificate shall commence at that date.
 
 ## Annotations
 
-[^key-925ce5a6e8720e55cc87b8370426007a]: Textual amendment: [Reg. 116A](https://www.legislation.gov.uk/uksi/1993/3138/regulation/116A) added (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [24](https://www.legislation.gov.uk/uksi/1998/2976/regulation/24)
+[^c-925ce5a6e8720e55cc87b8370426007a]: Textual amendment: [Reg. 116A](https://www.legislation.gov.uk/uksi/1993/3138/regulation/116A) added (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [24](https://www.legislation.gov.uk/uksi/1998/2976/regulation/24)

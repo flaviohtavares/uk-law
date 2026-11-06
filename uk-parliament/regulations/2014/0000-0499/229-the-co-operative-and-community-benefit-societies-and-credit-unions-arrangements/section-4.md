@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The following provisions of the 1986 Act, so far as they have effect for the purposes of Part A1,[^key-a365f0d3cbd7b53b7dcd89f2f1afd87f] Part 1 or Part 2 of that Act as applied in relation to a relevant society, apply with the modifications set out in Schedule 3—
+The following provisions of the 1986 Act, so far as they have effect for the purposes of Part A1,[^c-a365f0d3cbd7b53b7dcd89f2f1afd87f] Part 1 or Part 2 of that Act as applied in relation to a relevant society, apply with the modifications set out in Schedule 3—
 
 - (a) Part 6 (miscellaneous provisions applying to companies which are insolvent or in liquidation);
 - (b) Part 7 (interpretation for first group of Parts); and
@@ -28,4 +28,4 @@ The following provisions of the 1986 Act, so far as they have effect for the pur
 
 ## Annotations
 
-[^key-a365f0d3cbd7b53b7dcd89f2f1afd87f]: Textual amendment: Words in art. 4 inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [8](https://www.legislation.gov.uk/uksi/2020/744/article/8)
+[^c-a365f0d3cbd7b53b7dcd89f2f1afd87f]: Textual amendment: Words in art. 4 inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [8](https://www.legislation.gov.uk/uksi/2020/744/article/8)

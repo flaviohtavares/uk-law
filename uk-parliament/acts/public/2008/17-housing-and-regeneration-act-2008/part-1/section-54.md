@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Validity of transactions[^key-60c0dd4f47080bd3e4ff6b7c246e706d]
+## 54. Validity of transactions[^c-60c0dd4f47080bd3e4ff6b7c246e706d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ in relation to any land need not be concerned as to whether any consent required
 
 ## Annotations
 
-[^key-60c0dd4f47080bd3e4ff6b7c246e706d]: Commencement: S. 54 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
+[^c-60c0dd4f47080bd3e4ff6b7c246e706d]: Commencement: S. 54 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)

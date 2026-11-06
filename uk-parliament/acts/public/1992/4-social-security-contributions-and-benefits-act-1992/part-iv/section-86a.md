@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86A. Incapacity benefit: increase for adult dependants.[^key-0ebecc12a085629a5f24a03fdae2dd66]
+## 86A. Incapacity benefit: increase for adult dependants.[^c-0ebecc12a085629a5f24a03fdae2dd66]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ebecc12a085629a5f24a03fdae2dd66]: Textual amendment: S. 86A inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 2(5)](https://www.legislation.gov.uk/ukpga/1994/18/section/2/5), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2)
+[^c-0ebecc12a085629a5f24a03fdae2dd66]: Textual amendment: S. 86A inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 2(5)](https://www.legislation.gov.uk/ukpga/1994/18/section/2/5), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Compensation for damage caused by works etc.[^key-4406f312788ef3df00c4f4335b48d2ef]
+## 180. Compensation for damage caused by works etc.[^c-4406f312788ef3df00c4f4335b48d2ef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 to this Act shall have effect for making provision for imposing obli
 
 ## Annotations
 
-[^key-4406f312788ef3df00c4f4335b48d2ef]: Modification: [S. 180](https://www.legislation.gov.uk/ukpga/1991/56/section/180) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-4406f312788ef3df00c4f4335b48d2ef]: Modification: [S. 180](https://www.legislation.gov.uk/ukpga/1991/56/section/180) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))

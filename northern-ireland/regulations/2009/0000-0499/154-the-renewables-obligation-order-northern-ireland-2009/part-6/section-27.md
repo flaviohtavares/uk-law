@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Microgenerators and qualifying new small scale generators[^key-efe6acfd7cf86103ba95c0de35ff3b2a]
+## 27. Microgenerators and qualifying new small scale generators[^c-efe6acfd7cf86103ba95c0de35ff3b2a]
 
 *Extent: N.I.*
 
@@ -84,4 +84,4 @@ is [formula: see source](https://www.legislation.gov.uk/nisr/2009/154) of a mega
 
 ## Annotations
 
-[^key-efe6acfd7cf86103ba95c0de35ff3b2a]: Textual amendment: [Art. 27](https://www.legislation.gov.uk/nisr/2009/154/article/27) substituted (1.7.2015) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/287)](https://www.legislation.gov.uk/nisr/2015/287), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2015/287/article/1/1), [2](https://www.legislation.gov.uk/nisr/2015/287/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2015/287/article/4))
+[^c-efe6acfd7cf86103ba95c0de35ff3b2a]: Textual amendment: [Art. 27](https://www.legislation.gov.uk/nisr/2009/154/article/27) substituted (1.7.2015) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2015 (S.R. 2015/287)](https://www.legislation.gov.uk/nisr/2015/287), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2015/287/article/1/1), [2](https://www.legislation.gov.uk/nisr/2015/287/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2015/287/article/4))

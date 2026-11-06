@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. EU law relating to VAT[^key-0f57aa7b32d04a56f3ac707a43316e47]
+## 42. EU law relating to VAT[^c-0f57aa7b32d04a56f3ac707a43316e47]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) One of the consequences of the provision made by that Act is that the principle of EU law preventing the abuse of the VAT system (see, for example, the cases of *Halifax* and *Kittel*) continues to be relevant, in accordance with that Act, for the purposes of the law relating to value added tax.
 
-(4A)[^key-467afb7b26a0898789943137b6319696] Accordingly, that principle may continue to be relied upon in determining any matter relating to value added tax (including in determining the effect of any provision made by or under an enactment).
+(4A)[^c-467afb7b26a0898789943137b6319696] Accordingly, that principle may continue to be relied upon in determining any matter relating to value added tax (including in determining the effect of any provision made by or under an enactment).
 
 (5) Where the principal VAT directive remains relevant for determining the meaning and effect of the law relating to value added tax, that directive is to be read for that purpose in the light of the provision made by the implementing VAT regulation but ignoring such of its provisions as are excluded by regulations made by the Treasury by statutory instrument.
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f57aa7b32d04a56f3ac707a43316e47]: Commencement: S. 42 in force at 31.12.2020 by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-0f57aa7b32d04a56f3ac707a43316e47]: Commencement: S. 42 in force at 31.12.2020 by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-467afb7b26a0898789943137b6319696]: Textual amendment: S. 42(4A) inserted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 98(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/98/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/98/2)
+[^c-467afb7b26a0898789943137b6319696]: Textual amendment: S. 42(4A) inserted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 98(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/98/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/98/2)

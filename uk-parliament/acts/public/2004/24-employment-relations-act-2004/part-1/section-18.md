@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Power to make provision about effect of amalgamations etc.[^key-83b3db0f65de51ec4e3be4553f072341]
+## 18. Power to make provision about effect of amalgamations etc.[^c-83b3db0f65de51ec4e3be4553f072341]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ After paragraph 169 of Schedule A1 to the 1992 Act insert—
 
 ## Annotations
 
-[^key-83b3db0f65de51ec4e3be4553f072341]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2004/24/section/18) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)
+[^c-83b3db0f65de51ec4e3be4553f072341]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2004/24/section/18) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)

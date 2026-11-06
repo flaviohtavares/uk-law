@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Guidance[^key-0bd2d8dce68a5dca487a549f557e82f2]
+## 44. Guidance[^c-0bd2d8dce68a5dca487a549f557e82f2]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bd2d8dce68a5dca487a549f557e82f2]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2016/20/section/44) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-0bd2d8dce68a5dca487a549f557e82f2]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2016/20/section/44) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

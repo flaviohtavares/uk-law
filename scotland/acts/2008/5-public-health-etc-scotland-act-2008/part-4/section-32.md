@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Relevant actions[^key-b1d70e7d906d1d6dbc5a848fe85947f8]
+## 32. Relevant actions[^c-b1d70e7d906d1d6dbc5a848fe85947f8]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ The actions referred to in section 31(1) are—
 
 ## Annotations
 
-[^key-b1d70e7d906d1d6dbc5a848fe85947f8]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2008/5/section/32) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-b1d70e7d906d1d6dbc5a848fe85947f8]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2008/5/section/32) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

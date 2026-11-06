@@ -57,7 +57,7 @@ The Secretary of State and the Department for Social Development concur in the m
 
 SSCR shall be amended as follows.
 
-## 3.[^key-ec6692023680ea5585d3765287add7ac]
+## 3.[^c-ec6692023680ea5585d3765287add7ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -162,7 +162,7 @@ An impact assessment has not been prepared in respect of this instrument as no i
 
 [^c1915657]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004). Relevant amending instruments are [S.I. 2002/307](https://www.legislation.gov.uk/uksi/2002/307), 2004/770, 2005/778 and 3130 and 2006/2924. Regulation 156(3) contains a rule of construction which provides that in the application of these Regulations to Northern Ireland, a reference to an enactment applying only in Great Britain is to be construed as a reference to the corresponding enactment having effect there.
 
-[^key-ec6692023680ea5585d3765287add7ac]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/607/regulation/3) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
+[^c-ec6692023680ea5585d3765287add7ac]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/607/regulation/3) omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
 
 [^c1915659]: Marginal citation: [Paragraph 7D](https://www.legislation.gov.uk/uksi/2008/607/paragraph/7D) was inserted by regulation 7 of [S.I. 2002/307](https://www.legislation.gov.uk/uksi/2002/307).
 

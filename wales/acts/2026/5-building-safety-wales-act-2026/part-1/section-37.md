@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Preparation and revision of safety case report by principal accountable person[^key-6dc188413f8247d8a02e48160f132b43]
+## 37. Preparation and revision of safety case report by principal accountable person[^c-6dc188413f8247d8a02e48160f132b43]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dc188413f8247d8a02e48160f132b43]: Commencement: S. 37 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-6dc188413f8247d8a02e48160f132b43]: Commencement: S. 37 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

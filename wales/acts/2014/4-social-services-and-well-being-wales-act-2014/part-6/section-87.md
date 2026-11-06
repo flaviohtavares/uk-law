@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Regulations about looked after children[^key-071c0c0e770268444a1dfb642cd38ba3]
+## 87. Regulations about looked after children[^c-071c0c0e770268444a1dfb642cd38ba3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulations may make further provision about children looked after by local auth
 
 ## Annotations
 
-[^key-071c0c0e770268444a1dfb642cd38ba3]: Commencement: S. 87 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-071c0c0e770268444a1dfb642cd38ba3]: Commencement: S. 87 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

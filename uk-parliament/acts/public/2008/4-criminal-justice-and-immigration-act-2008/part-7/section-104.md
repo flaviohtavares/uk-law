@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Interim violent offender orders[^key-4958058d961438aa107a345e95fc8f9e]
+## 104. Interim violent offender orders[^c-4958058d961438aa107a345e95fc8f9e]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ the court may make an interim violent offender order in respect of P that contai
 
 ## Annotations
 
-[^key-4958058d961438aa107a345e95fc8f9e]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2008/4/section/104) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(g)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/g)
+[^c-4958058d961438aa107a345e95fc8f9e]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2008/4/section/104) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(g)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/g)

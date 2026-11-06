@@ -37,19 +37,19 @@ Made
 
 The Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 91(9), 315(5) and 322(1) of the Pensions Act 2004[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-b8f3a056c3670f71e9e1ea756626cd9c]
+## 1. Citation and interpretation[^c-b8f3a056c3670f71e9e1ea756626cd9c]
 
 (1) This Order may be cited as the Pensions Act 2004 (Commencement No. 4 and Amendment) Order 2005.
 
 (2) In this Order “the Act” means the Pensions Act 2004.
 
-## 2. Appointed days[^key-7719662712e3d1cbf5f81e69554e6286]
+## 2. Appointed days[^c-7719662712e3d1cbf5f81e69554e6286]
 
-(1) The day appointed for the purposes of section 91(9) of *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b7050223c83696662d309b31f1589d19] the Act *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b7050223c83696662d309b31f1589d19] (procedure for the issue and publication of codes of practice) for the coming into effect of the Pensions Regulator Code of Practice *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b7050223c83696662d309b31f1589d19] No. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b7050223c83696662d309b31f1589d19] 1: Reporting breaches of the Law is 6th April 2005. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b7050223c83696662d309b31f1589d19]
+(1) The day appointed for the purposes of section 91(9) of *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-b7050223c83696662d309b31f1589d19] the Act *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-b7050223c83696662d309b31f1589d19] (procedure for the issue and publication of codes of practice) for the coming into effect of the Pensions Regulator Code of Practice *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-b7050223c83696662d309b31f1589d19] No. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-b7050223c83696662d309b31f1589d19] 1: Reporting breaches of the Law is 6th April 2005. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-b7050223c83696662d309b31f1589d19]
 
 (2) The day appointed for the coming into force of the provisions of the Act specified in the Schedule is 6th April 2005.
 
-## 3. Amendment of the Pensions Act 2004 (Commencement No. 3, Transitional Provisions and Amendment) Order 2005[^key-f0102e463c4b0592f8c1e0803927353c]
+## 3. Amendment of the Pensions Act 2004 (Commencement No. 3, Transitional Provisions and Amendment) Order 2005[^c-f0102e463c4b0592f8c1e0803927353c]
 
 The Pensions Act 2004 (Commencement No. 3, Transitional Provisions and Amendment) Order 2005[^f00002] shall be amended in accordance with the following paragraphs of this article—
 
@@ -77,7 +77,7 @@ Department for Work and Pensions
 
 5th April 2005
 
-## SCHEDULE — PROVISIONS OF THE ACT COMING INTO FORCE ON 6TH APRIL 2005[^key-c41b8e7b516e2c02b8d14f10c63432fe]
+## SCHEDULE — PROVISIONS OF THE ACT COMING INTO FORCE ON 6TH APRIL 2005[^c-c41b8e7b516e2c02b8d14f10c63432fe]
 
 Article 2(2)
 
@@ -430,13 +430,13 @@ The following provisions of the Pensions Act 2004 have been brought into force o
 
 [^f00001]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-b8f3a056c3670f71e9e1ea756626cd9c]: Commencement: Art. 1 in force at made date
+[^c-b8f3a056c3670f71e9e1ea756626cd9c]: Commencement: Art. 1 in force at made date
 
-[^key-7719662712e3d1cbf5f81e69554e6286]: Commencement: Art. 2 in force at made date
+[^c-7719662712e3d1cbf5f81e69554e6286]: Commencement: Art. 2 in force at made date
 
-[^key-b7050223c83696662d309b31f1589d19]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1108/article/2/1) omitted (E.W.S.) (28.3.2024) by virtue of [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 3](https://www.legislation.gov.uk/uksi/2024/431/article/3)
+[^c-b7050223c83696662d309b31f1589d19]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1108/article/2/1) omitted (E.W.S.) (28.3.2024) by virtue of [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 3](https://www.legislation.gov.uk/uksi/2024/431/article/3)
 
-[^key-f0102e463c4b0592f8c1e0803927353c]: Commencement: Art. 3 in force at made date
+[^c-f0102e463c4b0592f8c1e0803927353c]: Commencement: Art. 3 in force at made date
 
 [^f00002]: Footnote: S.I. [2005/695 (C.29)](https://www.legislation.gov.uk/uksi/2005/695).
 
@@ -446,4 +446,4 @@ The following provisions of the Pensions Act 2004 have been brought into force o
 
 [^f00005]: Footnote: Regulation 12(1) was substituted and regulation 12(2) was deleted by regulation 17 of S.I. [1997/786](https://www.legislation.gov.uk/uksi/1997/786).
 
-[^key-c41b8e7b516e2c02b8d14f10c63432fe]: Commencement: Sch. in force at made date
+[^c-c41b8e7b516e2c02b8d14f10c63432fe]: Commencement: Sch. in force at made date

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Offence of trespassing on designated site[^key-adec8bf7855d1d0c688e9697e51d0755][^key-9811bf860e4de86aa2be0ec8aae90909]
+## 128. Offence of trespassing on designated site[^c-adec8bf7855d1d0c688e9697e51d0755][^c-9811bf860e4de86aa2be0ec8aae90909]
 
 *Extent: E+W+N.I.*
 
-(1) A person commits an offence if he enters, or is on, any protected[^key-42eae5c1607b1f997d095d6dcc925c78] site in England and Wales or Northern Ireland as a trespasser.
+(1) A person commits an offence if he enters, or is on, any protected[^c-42eae5c1607b1f997d095d6dcc925c78] site in England and Wales or Northern Ireland as a trespasser.
 
-(1A)[^key-10a7db79f592d00a6dbbd208b211ae0f] In this section “protected site” means—
+(1A)[^c-10a7db79f592d00a6dbbd208b211ae0f] In this section “protected site” means—
 
 - (a) a nuclear site; or
 - (b) a designated site.
@@ -48,7 +48,7 @@ summary: ''
 - (b) it is comprised in land belonging to Her Majesty in Her private capacity or to the immediate heir to the Throne in his private capacity; or
 - (c) it appears to the Secretary of State that it is appropriate to designate the site in the interests of national security.
 
-(4) It is a defence for a person charged with an offence under this section to prove that he did not know, and had no reasonable cause to suspect, that the site in relation to which the offence is alleged to have been committed was a protected[^key-ad123c62e410a1274db62eaa43b56acb] site.
+(4) It is a defence for a person charged with an offence under this section to prove that he did not know, and had no reasonable cause to suspect, that the site in relation to which the offence is alleged to have been committed was a protected[^c-ad123c62e410a1274db62eaa43b56acb] site.
 
 (5) A person guilty of an offence under this section is liable on summary conviction—
 
@@ -62,7 +62,7 @@ or to both.
 - (a) in England and Wales, except by or with the consent of the Attorney General, or
 - (b) in Northern Ireland, except by or with the consent of the Attorney General for Northern Ireland.
 
-(7) For the purposes of this section a person who is on any protected[^key-a762c1f521c6061a0a0710b9ba9c04cb] site as a trespasser does not cease to be a trespasser by virtue of being allowed time to leave the site.
+(7) For the purposes of this section a person who is on any protected[^c-a762c1f521c6061a0a0710b9ba9c04cb] site as a trespasser does not cease to be a trespasser by virtue of being allowed time to leave the site.
 
 (8) In this section—
 
@@ -78,14 +78,14 @@ or to both.
 
 ## Annotations
 
-[^key-adec8bf7855d1d0c688e9697e51d0755]: Commencement: S. 128 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(n)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/n)
+[^c-adec8bf7855d1d0c688e9697e51d0755]: Commencement: S. 128 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(n)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/n)
 
-[^key-9811bf860e4de86aa2be0ec8aae90909]: Modification: S. 128 extended (N.I.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 130(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/130/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(n)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/n)
+[^c-9811bf860e4de86aa2be0ec8aae90909]: Modification: S. 128 extended (N.I.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 130(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/130/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(n)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/n)
 
-[^key-42eae5c1607b1f997d095d6dcc925c78]: Textual amendment: Word in s. 128(1) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/12/2), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-42eae5c1607b1f997d095d6dcc925c78]: Textual amendment: Word in s. 128(1) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/12/2), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-10a7db79f592d00a6dbbd208b211ae0f]: Textual amendment: S. 128(1A)-(1C) inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2006/11/section/12/3), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-10a7db79f592d00a6dbbd208b211ae0f]: Textual amendment: S. 128(1A)-(1C) inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2006/11/section/12/3), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-ad123c62e410a1274db62eaa43b56acb]: Textual amendment: Word in s. 128(4) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/12/2), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-ad123c62e410a1274db62eaa43b56acb]: Textual amendment: Word in s. 128(4) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/12/2), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-a762c1f521c6061a0a0710b9ba9c04cb]: Textual amendment: Word in s. 128(7) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/12/2), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-a762c1f521c6061a0a0710b9ba9c04cb]: Textual amendment: Word in s. 128(7) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/12/2), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)

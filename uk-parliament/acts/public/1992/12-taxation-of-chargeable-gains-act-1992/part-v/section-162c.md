@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162C. Disincorporation relief: post-FA 2002 goodwill[^key-7733d78063235d49ffecedbc97a687c3]
+## 162C. Disincorporation relief: post-FA 2002 goodwill[^c-7733d78063235d49ffecedbc97a687c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7733d78063235d49ffecedbc97a687c3]: Textual amendment: Ss. 162B, 162C and cross-heading inserted (with effect in accordance with s. 61(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/61/1)
+[^c-7733d78063235d49ffecedbc97a687c3]: Textual amendment: Ss. 162B, 162C and cross-heading inserted (with effect in accordance with s. 61(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/61/1)

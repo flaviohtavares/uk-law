@@ -30,7 +30,7 @@ summary: ''
 - (b) submit such arrangements to the Secretary of State who may [^c10749731]. . . approve the same with or without modifications; and
 - (c)[^c10749741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-8dbc58530109242ed62480f763ca78e3] Subsection (3B) applies where the assessor and the proprietor, tenant or occupier of lands and heritages have reached an agreement in writing as to the details to be included in the entry in the valuation roll for the lands and heritages (whether that agreement was reached before or after the draft valuation roll was published under section 1B(1)).
+(3A)[^c-8dbc58530109242ed62480f763ca78e3] Subsection (3B) applies where the assessor and the proprietor, tenant or occupier of lands and heritages have reached an agreement in writing as to the details to be included in the entry in the valuation roll for the lands and heritages (whether that agreement was reached before or after the draft valuation roll was published under section 1B(1)).
 
 (3B) The assessor must include those details in the entry for the lands and heritages, unless, since the agreement was reached, there has been an alteration in the value of the lands and heritages due to a material change of circumstances.
 
@@ -64,7 +64,7 @@ summary: ''
 
 [^c10749741]: Textual amendment: S. 1(3)(c) repealed (1.4.1996) by [1996 c. 39](https://www.legislation.gov.uk/ukpga/1996/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1996/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1996/39/schedule/14) (with [s. 128(2)](https://www.legislation.gov.uk/ukpga/1996/39/section/128/2)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/323/schedule/2)
 
-[^key-8dbc58530109242ed62480f763ca78e3]: Textual amendment: S. 1(3A)(3B) inserted (5.11.2020) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 7](https://www.legislation.gov.uk/asp/2020/4/section/7), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-8dbc58530109242ed62480f763ca78e3]: Textual amendment: S. 1(3A)(3B) inserted (5.11.2020) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 7](https://www.legislation.gov.uk/asp/2020/4/section/7), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
 [^c10749751]: Marginal citation: [1854 c. 91](https://www.legislation.gov.uk/ukpga/1854/91).
 

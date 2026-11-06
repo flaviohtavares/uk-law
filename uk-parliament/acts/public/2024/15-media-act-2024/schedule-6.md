@@ -22,9 +22,9 @@ summary: ''
 
 Section 37(7)
 
-**1.**[^key-c7912ac37fc3dcc049cdd844e20067e4][^key-d6cf3eaedc8abaf23f859d2b932d333d] Part 4A of the Communications Act 2003 is amended as follows.
+**1.**[^c-c7912ac37fc3dcc049cdd844e20067e4][^c-d6cf3eaedc8abaf23f859d2b932d333d] Part 4A of the Communications Act 2003 is amended as follows.
 
-**2.**[^key-059fd471581a47731eef01359824f062][^key-81ae1ece164c37ada8df55c41a1e27f0] Before section 368I insert—
+**2.**[^c-059fd471581a47731eef01359824f062][^c-81ae1ece164c37ada8df55c41a1e27f0] Before section 368I insert—
 
 > Chapter 4
 >
@@ -32,7 +32,7 @@ Section 37(7)
 
 .
 
-**3.**[^key-58d638000e82b588e086f1b1a03b7097][^key-3510bf1e67d8b636acd0eb7dcee25966] (1) Section 368I (enforcement of sections 368CB and 368D) is amended as follows.
+**3.**[^c-58d638000e82b588e086f1b1a03b7097][^c-3510bf1e67d8b636acd0eb7dcee25966] (1) Section 368I (enforcement of sections 368CB and 368D) is amended as follows.
 
 (2) For the heading substitute “Enforcement of service providers’ principal duties”.
 
@@ -60,9 +60,9 @@ Section 37(7)
 - (a) after “an on-demand programme service” insert “, or a non-UK on-demand programme service that is a Tier 1 service,”;
 - (b) after “subsection (1)” insert “, (1A)”.
 
-**4.**[^key-0653eb0a96114505fa494257cc79a40c][^key-a63e1a02c3e42af7e0546504d83341fc] In section 368IA (enforcement of section 368E(4)), in subsection (1), in the words before paragraph (a), after “an on-demand programme service” insert “, or a non-UK on-demand programme service that is a Tier 1 service,”.
+**4.**[^c-0653eb0a96114505fa494257cc79a40c][^c-a63e1a02c3e42af7e0546504d83341fc] In section 368IA (enforcement of section 368E(4)), in subsection (1), in the words before paragraph (a), after “an on-demand programme service” insert “, or a non-UK on-demand programme service that is a Tier 1 service,”.
 
-**5.**[^key-bb80e2f1b212e6bca3bf18124c2b63d4][^key-4df7232151c3205600c496c53359e4d5] (1) Section 368K (suspension or restriction of service for contraventions or failures) is amended as follows.
+**5.**[^c-bb80e2f1b212e6bca3bf18124c2b63d4][^c-4df7232151c3205600c496c53359e4d5] (1) Section 368K (suspension or restriction of service for contraventions or failures) is amended as follows.
 
 (2) In subsection (1), in the words before paragraph (a), after “an on-demand programme service” insert “or a non-UK on-demand programme service that is a Tier 1 service”.
 
@@ -85,7 +85,7 @@ Section 37(7)
 - (a) in the words before paragraph (a), after “subsection (1)(c)” insert “or (1A)(c)”;
 - (b) in paragraph (a), after “an on-demand programme service” insert “or a non-UK on-demand programme service that is a Tier 1 service”.
 
-**6.**[^key-0ee3bc1b469a5569e271cf18402277fd][^key-b1fe6e2dd816bbf0c67a11fbb3c77163] (1) Section 368L (suspension or restriction of service for inciting crime or disorder) is amended as follows.
+**6.**[^c-0ee3bc1b469a5569e271cf18402277fd][^c-b1fe6e2dd816bbf0c67a11fbb3c77163] (1) Section 368L (suspension or restriction of service for inciting crime or disorder) is amended as follows.
 
 (2) In subsection (1), in the words before paragraph (a), after “an on-demand programme service” insert “or a non-UK on-demand programme service that is a Tier 1 service”.
 
@@ -93,7 +93,7 @@ Section 37(7)
 
 (4) In subsection (5), in paragraph (a), after “an on-demand programme service” insert “or a non-UK on-demand programme service that is a Tier 1 service”.
 
-**7.**[^key-2f554cac0be3663646b22677db7a05a3][^key-244438ea5b4475be396d112f788ce9ed] (1) Section 368M (supplementary provisions about directions) is amended as follows.
+**7.**[^c-2f554cac0be3663646b22677db7a05a3][^c-244438ea5b4475be396d112f788ce9ed] (1) Section 368M (supplementary provisions about directions) is amended as follows.
 
 (2) In subsection (2), after “any on-demand programme service” insert “, or to any non-UK on-demand programme service that is a Tier 1 service,”.
 
@@ -101,9 +101,9 @@ Section 37(7)
 
 > (2A) A direction has effect in relation to a non-UK on-demand programme service that is a Tier 1 service only so far as the service is made available for use by members of the public in the United Kingdom.
 
-**8.**[^key-192d47ae9d51f3ddfb77598d6610e472][^key-90f3563a4e228d76c1fe8992172d6e89] In section 368N (enforcement of directions under section 368K or 368L), in subsection (1), in the words before paragraph (a), after “an on-demand programme service” insert “or a non-UK on-demand programme service that is a Tier 1 service”.
+**8.**[^c-192d47ae9d51f3ddfb77598d6610e472][^c-90f3563a4e228d76c1fe8992172d6e89] In section 368N (enforcement of directions under section 368K or 368L), in subsection (1), in the words before paragraph (a), after “an on-demand programme service” insert “or a non-UK on-demand programme service that is a Tier 1 service”.
 
-**9.**[^key-4a7e483ca060cf9f2ec5771c8882ed69][^key-5b161cb411b66107edc6751bf63359df] Before section 368NA insert—
+**9.**[^c-4a7e483ca060cf9f2ec5771c8882ed69][^c-5b161cb411b66107edc6751bf63359df] Before section 368NA insert—
 
 > Chapter 5
 >
@@ -111,7 +111,7 @@ Section 37(7)
 
 .
 
-**10.**[^key-43761e94b264bb2aae2d9bd9178a23a4][^key-00fcb4f652f89a4d127721ff45cd0736] (1) Section 368NA (fees) is amended as follows.
+**10.**[^c-43761e94b264bb2aae2d9bd9178a23a4][^c-00fcb4f652f89a4d127721ff45cd0736] (1) Section 368NA (fees) is amended as follows.
 
 (2) In subsection (2), after “an on-demand programme service” insert “or a non-UK on-demand programme service that is a Tier 1 service”.
 
@@ -130,7 +130,7 @@ Section 37(7)
 > - (b) the Tier 1 service in question was an on-demand programme service that the person continues to provide, and
 > - (c) the person gave a notification under section 368HC(4) that the person had ceased to provide the Tier 1 service.
 
-**11.**[^key-d65abcebad16769717cbdd2af1c2e69c][^key-168297f35b4be26705b15ee0c47fd060] (1) For section 368O (power to demand information) substitute—
+**11.**[^c-d65abcebad16769717cbdd2af1c2e69c][^c-168297f35b4be26705b15ee0c47fd060] (1) For section 368O (power to demand information) substitute—
 
 > **368O. Power to require information**
 >
@@ -205,7 +205,7 @@ Section 37(7)
 
 (2) In consequence of the amendment made by sub-paragraph (1), in section 368D, in subsection (3)(b), for “section 368O(2) or (3)” substitute “section 368O(2) or (6)”.
 
-**12.**[^key-9d158caaecafd935cb93bc32c426071f][^key-e52966bde9a549058c1c766e9fb6eb87] (1) Section 368R (interpretation of Part 4A) is amended as follows.
+**12.**[^c-9d158caaecafd935cb93bc32c426071f][^c-e52966bde9a549058c1c766e9fb6eb87] (1) Section 368R (interpretation of Part 4A) is amended as follows.
 
 (2) In subsection (1), in the definition of “children’s programme”, in paragraph (a), after “an on-demand programme service” insert “or a non-UK on-demand programme service that is a Tier 1 service”.
 
@@ -217,50 +217,50 @@ Section 37(7)
 
 ## Annotations
 
-[^key-c7912ac37fc3dcc049cdd844e20067e4]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-c7912ac37fc3dcc049cdd844e20067e4]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-d6cf3eaedc8abaf23f859d2b932d333d]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/1) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-d6cf3eaedc8abaf23f859d2b932d333d]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/1) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-059fd471581a47731eef01359824f062]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-059fd471581a47731eef01359824f062]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-81ae1ece164c37ada8df55c41a1e27f0]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/2) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-81ae1ece164c37ada8df55c41a1e27f0]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/2) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-58d638000e82b588e086f1b1a03b7097]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-58d638000e82b588e086f1b1a03b7097]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-3510bf1e67d8b636acd0eb7dcee25966]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/3) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-3510bf1e67d8b636acd0eb7dcee25966]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/3) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-0653eb0a96114505fa494257cc79a40c]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-0653eb0a96114505fa494257cc79a40c]: Commencement: Sch. 6 para. 4 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-a63e1a02c3e42af7e0546504d83341fc]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/4) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-a63e1a02c3e42af7e0546504d83341fc]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/4) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-bb80e2f1b212e6bca3bf18124c2b63d4]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-bb80e2f1b212e6bca3bf18124c2b63d4]: Commencement: Sch. 6 para. 5 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-4df7232151c3205600c496c53359e4d5]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/5) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-4df7232151c3205600c496c53359e4d5]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/5) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-0ee3bc1b469a5569e271cf18402277fd]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-0ee3bc1b469a5569e271cf18402277fd]: Commencement: Sch. 6 para. 6 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-b1fe6e2dd816bbf0c67a11fbb3c77163]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/6) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-b1fe6e2dd816bbf0c67a11fbb3c77163]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/6) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-2f554cac0be3663646b22677db7a05a3]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-2f554cac0be3663646b22677db7a05a3]: Commencement: Sch. 6 para. 7 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-244438ea5b4475be396d112f788ce9ed]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/7) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-244438ea5b4475be396d112f788ce9ed]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/7) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-192d47ae9d51f3ddfb77598d6610e472]: Commencement: Sch. 6 para. 8 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-192d47ae9d51f3ddfb77598d6610e472]: Commencement: Sch. 6 para. 8 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-90f3563a4e228d76c1fe8992172d6e89]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/8) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-90f3563a4e228d76c1fe8992172d6e89]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/8) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-4a7e483ca060cf9f2ec5771c8882ed69]: Commencement: Sch. 6 para. 9 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-4a7e483ca060cf9f2ec5771c8882ed69]: Commencement: Sch. 6 para. 9 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-5b161cb411b66107edc6751bf63359df]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/9) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-5b161cb411b66107edc6751bf63359df]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/9) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-43761e94b264bb2aae2d9bd9178a23a4]: Commencement: Sch. 6 para. 10 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-43761e94b264bb2aae2d9bd9178a23a4]: Commencement: Sch. 6 para. 10 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-00fcb4f652f89a4d127721ff45cd0736]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/10) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-00fcb4f652f89a4d127721ff45cd0736]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/10) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-d65abcebad16769717cbdd2af1c2e69c]: Commencement: Sch. 6 para. 11 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-d65abcebad16769717cbdd2af1c2e69c]: Commencement: Sch. 6 para. 11 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-168297f35b4be26705b15ee0c47fd060]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/11) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-168297f35b4be26705b15ee0c47fd060]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/11) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-9d158caaecafd935cb93bc32c426071f]: Commencement: Sch. 6 para. 12 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-9d158caaecafd935cb93bc32c426071f]: Commencement: Sch. 6 para. 12 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-e52966bde9a549058c1c766e9fb6eb87]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/12) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-e52966bde9a549058c1c766e9fb6eb87]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/12) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)

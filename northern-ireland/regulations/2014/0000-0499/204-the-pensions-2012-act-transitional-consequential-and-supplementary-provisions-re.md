@@ -1551,11 +1551,11 @@ Where, immediately before the appointed day, the conditions specified in regulat
 
 (5) In this regulation “**connected proceedings**” means proceedings in relation to pension sharing or attachment on divorce or dissolution of a civil partnership involving the same parties and the same benefits as earlier proceedings.
 
-## PART 16 — Cross-border Schemes[^key-59ad79726b0e91e69588f6b166c2e5f4]
+## PART 16 — Cross-border Schemes[^c-59ad79726b0e91e69588f6b166c2e5f4]
 
 **No longer in force.**
 
-### 71. Cross-border schemes treated as money purchase schemes[^key-59ad79726b0e91e69588f6b166c2e5f4]
+### 71. Cross-border schemes treated as money purchase schemes[^c-59ad79726b0e91e69588f6b166c2e5f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1595,7 +1595,7 @@ Where, immediately before the appointed day, the conditions specified in regulat
 
 (1) The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 are amended in accordance with paragraphs (2) to (8).
 
-(2)[^key-ec4a4ce3877d64ef472492322a53e398] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ec4a4ce3877d64ef472492322a53e398] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After regulation 16 (statements of benefits: non money purchase benefits) insert—
 
@@ -1613,7 +1613,7 @@ Where, immediately before the appointed day, the conditions specified in regulat
 
 .
 
-(4)[^key-ca7a9c55486c87a43781960875b5eabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ca7a9c55486c87a43781960875b5eabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In regulation 25 (occupational pension schemes after winding up for individual members) for paragraph (2)(a) substitute—
 
@@ -1932,7 +1932,7 @@ An assessment of the impact of these Regulations is detailed in a Regulatory Imp
 
 [^c22156731]: Marginal citation: [Part 4A](https://www.legislation.gov.uk/nisr/2014/204/part/4A) was inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-59ad79726b0e91e69588f6b166c2e5f4]: Textual amendment: [Pt. 16](https://www.legislation.gov.uk/nisr/2014/204/part/16) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [31(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/31/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59ad79726b0e91e69588f6b166c2e5f4]: Textual amendment: [Pt. 16](https://www.legislation.gov.uk/nisr/2014/204/part/16) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [31(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/31/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22156821]: Marginal citation: [Regulation 11](https://www.legislation.gov.uk/nisr/2014/204/regulation/11) was substituted by regulation 17 of S.R. [2005 No. 170](https://www.legislation.gov.uk/ukcm/2005/170) and amended by regulation 9 of S.R. [2009 No. 115](https://www.legislation.gov.uk/ukcm/2009/115) before revocation by Schedule 10 to S.R. [2014 No. 79](https://www.legislation.gov.uk/ukcm/2014/79)
 
@@ -1952,6 +1952,6 @@ An assessment of the impact of these Regulations is detailed in a Regulatory Imp
 
 [^c22156901]: Marginal citation: Paragraph (1) of regulation 7 was amended by paragraph 6 of Schedule 3 to S.R. [2005 No. 568](https://www.legislation.gov.uk/ukcm/2005/568) and regulation 3 of [2006 No. 297](https://www.legislation.gov.uk/ukcm/2006/297)
 
-[^key-ec4a4ce3877d64ef472492322a53e398]: Textual amendment: [Reg. 73(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/73/2) revoked (6.4.2015) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2015/154/regulation/15)
+[^c-ec4a4ce3877d64ef472492322a53e398]: Textual amendment: [Reg. 73(2)](https://www.legislation.gov.uk/nisr/2014/204/regulation/73/2) revoked (6.4.2015) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2015/154/regulation/15)
 
-[^key-ca7a9c55486c87a43781960875b5eabc]: Textual amendment: [Reg. 73(4)](https://www.legislation.gov.uk/nisr/2014/204/regulation/73/4) revoked (6.4.2015) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2015/154/regulation/15)
+[^c-ca7a9c55486c87a43781960875b5eabc]: Textual amendment: [Reg. 73(4)](https://www.legislation.gov.uk/nisr/2014/204/regulation/73/4) revoked (6.4.2015) by [The Occupational and Personal Pension Schemes (DisclosureofInformation) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2015/154/regulation/15)

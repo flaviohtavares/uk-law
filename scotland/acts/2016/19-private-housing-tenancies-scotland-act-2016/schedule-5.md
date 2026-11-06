@@ -26,7 +26,7 @@ summary: ''
 
 #### No new assured tenancies
 
-**1.**[^key-1f0ca511bef13ec70c8973969ce0b282] (1) Section 12 of the Housing (Scotland) Act 1988 is amended as follows.
+**1.**[^c-1f0ca511bef13ec70c8973969ce0b282] (1) Section 12 of the Housing (Scotland) Act 1988 is amended as follows.
 
 (2) In subsection (1), after the word “subsection” there is inserted “ (1A) or ”.
 
@@ -44,7 +44,7 @@ summary: ''
 
 #### No new short assured tenancies
 
-**2.**[^key-c55c46a43d837cd6ccf1eda84d8b4678] (1) The Housing (Scotland) Act 1988 is amended as follows.
+**2.**[^c-c55c46a43d837cd6ccf1eda84d8b4678] (1) The Housing (Scotland) Act 1988 is amended as follows.
 
 (2) In section 32––
 
@@ -64,7 +64,7 @@ summary: ''
 
 #### Change of tenancy status by agreement
 
-**3.**[^key-b7af9b58f0f175047192e272af708888] (1) The Housing (Scotland) Act 1988 is amended as follows.
+**3.**[^c-b7af9b58f0f175047192e272af708888] (1) The Housing (Scotland) Act 1988 is amended as follows.
 
 (2) After section 12(2) there is inserted—
 
@@ -91,7 +91,7 @@ summary: ''
 
 #### Change of tenancy status on succession
 
-**4.**[^key-effe4f549d91d8cfd49ac6e9ec02e5f9] After section 3A of the Rent (Scotland) Act 1984 there is inserted—
+**4.**[^c-effe4f549d91d8cfd49ac6e9ec02e5f9] After section 3A of the Rent (Scotland) Act 1984 there is inserted—
 
 > **3B. Succession after the Private Housing (Tenancies) (Scotland) Act 2016 comes into force**
 >
@@ -107,7 +107,7 @@ summary: ''
 
 .
 
-**5.**[^key-814274045f51b0ef569ce420e4fae8dc] After section 31 of the Housing (Scotland) Act 1988 there is inserted—
+**5.**[^c-814274045f51b0ef569ce420e4fae8dc] After section 31 of the Housing (Scotland) Act 1988 there is inserted—
 
 > **31A. Succession after the Private Housing (Tenancies) (Scotland) Act 2016 comes into force**
 >
@@ -125,12 +125,12 @@ summary: ''
 
 ## Annotations
 
-[^key-1f0ca511bef13ec70c8973969ce0b282]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/1) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))
+[^c-1f0ca511bef13ec70c8973969ce0b282]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/1) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))
 
-[^key-c55c46a43d837cd6ccf1eda84d8b4678]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/2) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))
+[^c-c55c46a43d837cd6ccf1eda84d8b4678]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/2) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))
 
-[^key-b7af9b58f0f175047192e272af708888]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/3) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))
+[^c-b7af9b58f0f175047192e272af708888]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/3) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))
 
-[^key-effe4f549d91d8cfd49ac6e9ec02e5f9]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/4) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-effe4f549d91d8cfd49ac6e9ec02e5f9]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/4) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-814274045f51b0ef569ce420e4fae8dc]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/5) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-814274045f51b0ef569ce420e4fae8dc]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/5) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

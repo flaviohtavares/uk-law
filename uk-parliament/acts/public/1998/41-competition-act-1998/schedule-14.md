@@ -22,7 +22,7 @@ summary: ''
 
 Section 74(3).
 
-### Part I — Repeals[^c8784661][^key-a00d60180020a83be1890837e5090694]
+### Part I — Repeals[^c8784661][^c-a00d60180020a83be1890837e5090694]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -156,6 +156,6 @@ Section 74(3).
 
 [^c8784661]: Commencement: Sch. 14 Pt. I partly in force; Sch. 14 Pt. I not in force at Royal Assent see s. 76(3); Sch. 14 Pt. I in force for certain purposes at 11.1.1999 by [S.I. 1998/3166](https://www.legislation.gov.uk/uksi/1998/3166), [art. 2](https://www.legislation.gov.uk/uksi/1998/3166/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/3166/schedule); Sch. 14 Pt. I in force for certain purposes at 1.4.1999 by [S.I. 1999/505](https://www.legislation.gov.uk/uksi/1999/505), [art. 2](https://www.legislation.gov.uk/uksi/1999/505/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/505/schedule/2); Sch. 14 Pt. I in force for certain purposes at 10.11.1999 by [S.I. 1999/2859](https://www.legislation.gov.uk/uksi/1999/2859), [art. 2](https://www.legislation.gov.uk/uksi/1999/2859/article/2); Sch. 14 Pt. I (except the repeal of Restrictive Practices Court Act 1976) in force at 1.3.2000 by [S.I. 2000/344](https://www.legislation.gov.uk/uksi/2000/344), [art. 2](https://www.legislation.gov.uk/uksi/2000/344/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/344/schedule)
 
-[^key-a00d60180020a83be1890837e5090694]: Commencement: Sch. 14 Pt. I in force at 10.3.2013 in so far as not already in force by [S.I. 2013/284](https://www.legislation.gov.uk/uksi/2013/284), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/284/article/2/c)
+[^c-a00d60180020a83be1890837e5090694]: Commencement: Sch. 14 Pt. I in force at 10.3.2013 in so far as not already in force by [S.I. 2013/284](https://www.legislation.gov.uk/uksi/2013/284), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/284/article/2/c)
 
 [^c8784671]: Commencement: Sch. 14 Pt. II wholly in force; Sch. 14 Pt. II not in force at Royal Assent see s. 76(3); Sch. 14 Pt. II in force for certain purposes at 1.4.1999 by [S.I. 1999/505](https://www.legislation.gov.uk/uksi/1999/505), [art. 2](https://www.legislation.gov.uk/uksi/1999/505/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/505/schedule/2); Sch. 14 Pt. II fully in force at 1.3.2000 by [S.I. 2000/344](https://www.legislation.gov.uk/uksi/2000/344), [art. 2](https://www.legislation.gov.uk/uksi/2000/344/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/344/schedule)

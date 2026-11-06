@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 12. Deputy Dean of the Arches and Auditor: appointment and term of office[^key-245c26013e57746ccb5f94ea6c3e6d8e]
+## 12. Deputy Dean of the Arches and Auditor: appointment and term of office[^c-245c26013e57746ccb5f94ea6c3e6d8e]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-245c26013e57746ccb5f94ea6c3e6d8e]: Commencement: S. 12 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-245c26013e57746ccb5f94ea6c3e6d8e]: Commencement: S. 12 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

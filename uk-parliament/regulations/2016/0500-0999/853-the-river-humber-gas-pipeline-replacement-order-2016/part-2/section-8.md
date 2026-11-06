@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Defence to proceedings in respect of statutory nuisance[^key-bcde8ffce92556ff571d3e155b3159c2]
+## 8. Defence to proceedings in respect of statutory nuisance[^c-bcde8ffce92556ff571d3e155b3159c2]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bcde8ffce92556ff571d3e155b3159c2]: Commencement: Art. 8 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-bcde8ffce92556ff571d3e155b3159c2]: Commencement: Art. 8 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
 [^f00015]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43); section 82 is amended by section 5 of the Noise and Statutory Nuisance Act [1993 (c.40)](https://www.legislation.gov.uk/ukpga/1993/40), Schedule 17 to the Environmental Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) and section 103 of the Clean Neighbourhoods and Environment Act [2005 (c.16)](https://www.legislation.gov.uk/ukpga/2005/16).
 

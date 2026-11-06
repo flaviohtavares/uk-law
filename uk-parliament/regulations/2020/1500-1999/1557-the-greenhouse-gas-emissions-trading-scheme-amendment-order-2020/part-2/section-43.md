@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Schedule 11 amended (transitional provisions: installations)[^key-a10b9ae38a0ff5448d643889cfb1f62a]
+## 43. Schedule 11 amended (transitional provisions: installations)[^c-a10b9ae38a0ff5448d643889cfb1f62a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a10b9ae38a0ff5448d643889cfb1f62a]: Commencement: Art. 43 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-a10b9ae38a0ff5448d643889cfb1f62a]: Commencement: Art. 43 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Statutory sick pay: modification of regulation making powers: Northern Ireland[^key-9e34de1bbdcd6c8f257bd0b400d51575]
+## 44. Statutory sick pay: modification of regulation making powers: Northern Ireland[^c-9e34de1bbdcd6c8f257bd0b400d51575]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e34de1bbdcd6c8f257bd0b400d51575]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2020/7/section/44) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-9e34de1bbdcd6c8f257bd0b400d51575]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2020/7/section/44) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

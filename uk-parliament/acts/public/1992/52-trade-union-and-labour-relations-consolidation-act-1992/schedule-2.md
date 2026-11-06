@@ -30,9 +30,9 @@ Section 300(2).
 
 **2.**[^c14524861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-272e2388d2507349cb4be810b85ea247]
+### ...[^c-272e2388d2507349cb4be810b85ea247]
 
-**3.**[^key-f0ed7a4883d827daa1628f03b5d58683] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f0ed7a4883d827daa1628f03b5d58683] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### House of Commons Disqualification Act 1975 (c.24)
 
@@ -86,7 +86,7 @@ Section 300(2).
 
 ### Aircraft and Shipbuilding Industries Act 1977 (c.3)
 
-**8.**[^key-bc632178f61e22626149cb2f7c0f96f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bc632178f61e22626149cb2f7c0f96f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Patents Act 1977 (c.37)
 
@@ -192,7 +192,7 @@ and in subsection (2) for “Paragraph 4 of Schedule 3 to this Act extends" subs
 
 ### Income and Corporation Taxes Act 1988 (c.1)
 
-**37.**[^key-469fe587d0d8a3718e619dfbe629d7fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-469fe587d0d8a3718e619dfbe629d7fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government Act 1988 (c.9)
 
@@ -244,15 +244,15 @@ and in subsection (2) for “Paragraph 4 of Schedule 3 to this Act extends" subs
 
 [^c14524861]: Textual amendment: Sch. 2 para. 2 repealed (1.1.1996) by [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23), [s. 60(2)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1995/23/schedule/8/part/I) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1995/23/section/54), [55](https://www.legislation.gov.uk/ukpga/1995/23/section/55)); [S.I. 1995/2181](https://www.legislation.gov.uk/uksi/1995/2181), [art. 2](https://www.legislation.gov.uk/uksi/1995/2181/article/2)
 
-[^key-272e2388d2507349cb4be810b85ea247]: Textual amendment: [Sch. 2 para. 3 crossheading](https://www.legislation.gov.uk/ukpga/1992/52/schedule/2/crossheading/equal-pay-act-1970-c41) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-272e2388d2507349cb4be810b85ea247]: Textual amendment: [Sch. 2 para. 3 crossheading](https://www.legislation.gov.uk/ukpga/1992/52/schedule/2/crossheading/equal-pay-act-1970-c41) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
 
-[^key-f0ed7a4883d827daa1628f03b5d58683]: Textual amendment: [Sch. 2 para. 3(1)-(3)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/2/paragraph/3/1) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-f0ed7a4883d827daa1628f03b5d58683]: Textual amendment: [Sch. 2 para. 3(1)-(3)](https://www.legislation.gov.uk/ukpga/1992/52/schedule/2/paragraph/3/1) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
 
 [^c14524901]: Textual amendment: Sch. 2 para. 4(4) repealed (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 44](https://www.legislation.gov.uk/ukpga/1999/26/section/44), [Sch. 9(6)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/9/6); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/2/part/I) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/4))
 
 [^c14524911]: Textual amendment: Sch. 2 para. 5 repealed (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [s. 188](https://www.legislation.gov.uk/ukpga/1993/48/section/188), [Sch. 5 Pt.I](https://www.legislation.gov.uk/ukpga/1993/48/schedule/5/part/I) (with [s. 43(3)](https://www.legislation.gov.uk/ukpga/1993/48/section/43/3)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-bc632178f61e22626149cb2f7c0f96f3]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1992/52/schedule/2/paragraph/8) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/13)
+[^c-bc632178f61e22626149cb2f7c0f96f3]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1992/52/schedule/2/paragraph/8) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/13)
 
 [^c14524921]: Textual amendment: Sch. 2 para. 11 repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
@@ -302,6 +302,6 @@ and in subsection (2) for “Paragraph 4 of Schedule 3 to this Act extends" subs
 
 [^c14525191]: Textual amendment: Sch. 2 para. 34(3) repealed (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 51](https://www.legislation.gov.uk/ukpga/1993/19/section/51), [Sch. 10](https://www.legislation.gov.uk/ukpga/1993/19/schedule/10); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-469fe587d0d8a3718e619dfbe629d7fa]: Textual amendment: Sch. 2 para. 37 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-469fe587d0d8a3718e619dfbe629d7fa]: Textual amendment: Sch. 2 para. 37 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14525201]: Textual amendment: Sch. 2 para. 40(5)-(9) repealed (1.10.1995) by [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980), [art. 150(4)](https://www.legislation.gov.uk/nisi/1995/1980/article/150/4), [Sch. 4](https://www.legislation.gov.uk/nisi/1995/1980/schedule/4); [S.R. 1995/354](https://www.legislation.gov.uk/nisr/1995/354), [art. 2(1)](https://www.legislation.gov.uk/nisr/1995/354/article/2/1)

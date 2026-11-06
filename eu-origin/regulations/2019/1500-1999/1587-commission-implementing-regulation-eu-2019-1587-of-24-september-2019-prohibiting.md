@@ -33,29 +33,29 @@ of 24 September 2019
 
 prohibiting the introduction into Great Britain of specimens of certain species of wild fauna and flora in accordance with Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein (revoked)
 
-[^key-04b91174903e8b8a860db6e5dd8bb32d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04b91174903e8b8a860db6e5dd8bb32d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-04b91174903e8b8a860db6e5dd8bb32d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-04b91174903e8b8a860db6e5dd8bb32d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-04b91174903e8b8a860db6e5dd8bb32d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-04b91174903e8b8a860db6e5dd8bb32d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-04b91174903e8b8a860db6e5dd8bb32d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-04b91174903e8b8a860db6e5dd8bb32d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04b91174903e8b8a860db6e5dd8bb32d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04b91174903e8b8a860db6e5dd8bb32d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-04b91174903e8b8a860db6e5dd8bb32d]
+## ANNEX[^c-04b91174903e8b8a860db6e5dd8bb32d]
 
-[^key-04b91174903e8b8a860db6e5dd8bb32d](1)
+[^c-04b91174903e8b8a860db6e5dd8bb32d](1)
 
 Specimens of species included in Annex A to Regulation (EC) No 338/97 whose introduction into the United Kingdom is prohibited
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-04b91174903e8b8a860db6e5dd8bb32d](2)
+[^c-04b91174903e8b8a860db6e5dd8bb32d](2)
 
 Specimens of species included in Annex B to Regulation (EC) No 338/97 whose introduction into the United Kingdom is prohibited
 
@@ -63,4 +63,4 @@ Specimens of species included in Annex B to Regulation (EC) No 338/97 whose intr
 
 ## Annotations
 
-[^key-04b91174903e8b8a860db6e5dd8bb32d]: Textual amendment: Regulation revoked (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/627/regulation/6)
+[^c-04b91174903e8b8a860db6e5dd8bb32d]: Textual amendment: Regulation revoked (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/627/regulation/6)

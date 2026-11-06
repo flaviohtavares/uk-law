@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Notice to employers of industrial action[^key-e2285b3c1db6226cb04b06c30e424340]
+## 74. Notice to employers of industrial action[^c-e2285b3c1db6226cb04b06c30e424340]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2285b3c1db6226cb04b06c30e424340]: Commencement: S. 74 in force at 18.2.2026, see [s. 159(2)(k)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/k) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/10))
+[^c-e2285b3c1db6226cb04b06c30e424340]: Commencement: S. 74 in force at 18.2.2026, see [s. 159(2)(k)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/k) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/10))

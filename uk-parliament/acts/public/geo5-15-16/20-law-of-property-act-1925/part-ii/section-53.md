@@ -24,7 +24,7 @@ summary: ''
 
 - (a) no interest in land can be created or disposed of except by writing signed by the person creating or conveying the same, or by his agent thereunto lawfully authorised in writing, or by will, or by operation of law;
 - (b) a declaration of trust respecting any land or any interest therein must be manifested and proved by some writing signed by some person who is able to declare such trust or by his will;
-- (c)[^c2382761][^c20590691][^key-0284cb0f8c62bc46133f7818fc0d8d2c] a disposition of an equitable interest or trust subsisting at the time of the disposition, must be in writing signed by the person disposing of the same, or by his agent thereunto lawfully authorised in writing or by will.
+- (c)[^c2382761][^c20590691][^c-0284cb0f8c62bc46133f7818fc0d8d2c] a disposition of an equitable interest or trust subsisting at the time of the disposition, must be in writing signed by the person disposing of the same, or by his agent thereunto lawfully authorised in writing or by will.
 
 (2) This section does not affect the creation or operation of resulting, implied or constructive trusts.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c20590691]: Modification: [S. 53(1)(c)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53/1/c) excluded (6.3.2009) by The Unit Trusts (Electronic Communications) Order ([S.I. 2009/555](https://www.legislation.gov.uk/uksi/2009/555)), {art. 3}
 
-[^key-0284cb0f8c62bc46133f7818fc0d8d2c]: Modification: [S. 53(1)(c)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53/1/c) excluded (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/21/2) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-0284cb0f8c62bc46133f7818fc0d8d2c]: Modification: [S. 53(1)(c)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/53/1/c) excluded (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/21/2) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))

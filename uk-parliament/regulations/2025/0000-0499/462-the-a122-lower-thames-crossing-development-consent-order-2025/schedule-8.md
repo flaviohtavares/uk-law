@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — LAND OF WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-0346bd9b28fa267c9e845dbde2a3157a]
+## SCHEDULE 8 — LAND OF WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-0346bd9b28fa267c9e845dbde2a3157a]
 
 *Extent: E+W*
 
@@ -398,4 +398,4 @@ Articles 28 and 35
 
 ## Annotations
 
-[^key-0346bd9b28fa267c9e845dbde2a3157a]: Commencement: Sch. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-0346bd9b28fa267c9e845dbde2a3157a]: Commencement: Sch. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

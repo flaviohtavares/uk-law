@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Supervisor of voluntary arrangement[^key-9270858fade870b1cc227f6283c5a20a]
+## 20. Supervisor of voluntary arrangement[^c-9270858fade870b1cc227f6283c5a20a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 20(2)(a) (supervisor of the voluntary arrangement), for “given at o
 
 ## Annotations
 
-[^key-9270858fade870b1cc227f6283c5a20a]: Commencement: S. 20 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-9270858fade870b1cc227f6283c5a20a]: Commencement: S. 20 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

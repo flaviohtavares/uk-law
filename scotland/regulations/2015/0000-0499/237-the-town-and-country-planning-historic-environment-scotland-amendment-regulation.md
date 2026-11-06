@@ -70,19 +70,19 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
   ; and
 - (b) omit paragraph (c)(i).
 
-## 3. Amendment of the Town and Country Planning (Development Planning) (Scotland) Regulations 2008[^key-dac2cb485243c7c1455cdcc8eaf27917]
+## 3. Amendment of the Town and Country Planning (Development Planning) (Scotland) Regulations 2008[^c-dac2cb485243c7c1455cdcc8eaf27917]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Amendment of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011
 
-(1)[^key-fac6be4bb1e4b2421d7eb1182b181147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fac6be4bb1e4b2421d7eb1182b181147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-fac6be4bb1e4b2421d7eb1182b181147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fac6be4bb1e4b2421d7eb1182b181147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-fac6be4bb1e4b2421d7eb1182b181147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fac6be4bb1e4b2421d7eb1182b181147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-fac6be4bb1e4b2421d7eb1182b181147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fac6be4bb1e4b2421d7eb1182b181147] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Historic Environment Scotland are not to be treated as a consultation body for the purposes of—
 
@@ -155,9 +155,9 @@ Regulation 5 amends the Town and Country Planning (Development Management Proced
 
 [^c22583481]: Marginal citation: [S.S.I. 1999/1](https://www.legislation.gov.uk/ssi/1999/1) to which there are amendments which are not relevant to these Regulations.
 
-[^key-dac2cb485243c7c1455cdcc8eaf27917]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/237/regulation/3) revoked (19.5.2023) by [The Town and Country Planning (Development Planning) (Scotland) Regulations 2023 (S.S.I. 2023/101)](https://www.legislation.gov.uk/ssi/2023/101), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2023/101/schedule/4)
+[^c-dac2cb485243c7c1455cdcc8eaf27917]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/237/regulation/3) revoked (19.5.2023) by [The Town and Country Planning (Development Planning) (Scotland) Regulations 2023 (S.S.I. 2023/101)](https://www.legislation.gov.uk/ssi/2023/101), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2023/101/schedule/4)
 
-[^key-fac6be4bb1e4b2421d7eb1182b181147]: Textual amendment: [Reg. 4(1)-(4)](https://www.legislation.gov.uk/ssi/2015/237/regulation/4/1) revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-fac6be4bb1e4b2421d7eb1182b181147]: Textual amendment: [Reg. 4(1)-(4)](https://www.legislation.gov.uk/ssi/2015/237/regulation/4/1) revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
 [^c22583521]: Marginal citation: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155) to which there are amendments which are not relevant to these Regulations.
 

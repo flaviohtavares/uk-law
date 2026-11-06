@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Schedule 2[^key-ce4bc5b14c77b8b0aa93d47dacd61344]
+## 16. Schedule 2[^c-ce4bc5b14c77b8b0aa93d47dacd61344]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 is amended in accordance with regulations 17 to 22.
 
 ## Annotations
 
-[^key-ce4bc5b14c77b8b0aa93d47dacd61344]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-ce4bc5b14c77b8b0aa93d47dacd61344]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)

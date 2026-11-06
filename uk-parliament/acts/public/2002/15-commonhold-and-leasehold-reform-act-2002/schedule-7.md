@@ -48,7 +48,7 @@ were to the RTM company.
 
 (3) The reference to the material time is to the acquisition date.
 
-### 3. Repairing obligations : England[^c21533211][^key-11dc87433552210d9a4d00fd1ed0402e]
+### 3. Repairing obligations : England[^c21533211][^c-11dc87433552210d9a4d00fd1ed0402e]
 
 (1) The obligations imposed on a lessor by virtue of section 11 (repairing obligations in short leases) of the Landlord and Tenant Act 1985 (c. 70) (referred to in this Part as “**the 1985 Act**”) are, so far as relating to any lease of any flat or other unit contained in the premises, instead obligations of the RTM company.
 
@@ -64,7 +64,7 @@ were to the RTM company.
 
 (7) The reference to the lessor in section 12(1)(a) of the 1985 Act (restriction on contracting out of section 11) includes the RTM company.
 
-### 3A. Repairing obligations: Wales[^key-d46b51c07085b43e841358059da77616]
+### 3A. Repairing obligations: Wales[^c-d46b51c07085b43e841358059da77616]
 
 (1) The obligations imposed on a landlord by virtue of section 91 (landlord’s obligation: fitness for human habitation), section 92 (landlord’s obligation to keep dwelling in repair) and section 93 (obligations under sections 91 and 92: supplementary) of the Renting Homes Wales Act [2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1) (referred to in this paragraph as “**the 2016 Act**”) are, so far as relating to any occupation contract of any flat or other unit contained in the premises, instead obligations of the RTM company.
 
@@ -115,7 +115,7 @@ Where section 5 of the 1987 Act (right of first refusal: requirement that landlo
 
 ### 8. Appointment of manager[^c21533261]
 
-(1) Part 2 of the 1987 Act (appointment of manager by [^key-a743a8cf05264141932aaae8e9553dfe]... tribunal) has effect with the modifications provided by this paragraph.
+(1) Part 2 of the 1987 Act (appointment of manager by [^c-a743a8cf05264141932aaae8e9553dfe]... tribunal) has effect with the modifications provided by this paragraph.
 
 (2) References to the landlord are to the RTM company.
 
@@ -125,7 +125,7 @@ Where section 5 of the 1987 Act (right of first refusal: requirement that landlo
 
 (5) The references in paragraph (a)(i) of subsection (2) of section 24 to any obligation owed by the RTM company to the tenant under his tenancy include any obligations of the RTM company under this Act.
 
-(6) And the circumstances in which the appropriate tribunal[^key-811f76378d13f23d0a32acc2990c415d] may make an order under paragraph (b) of that subsection include any in which the RTM company no longer wishes the right to manage the premises to be exercisable by it.
+(6) And the circumstances in which the appropriate tribunal[^c-811f76378d13f23d0a32acc2990c415d] may make an order under paragraph (b) of that subsection include any in which the RTM company no longer wishes the right to manage the premises to be exercisable by it.
 
 (7) The power in section 24 to make an order appointing a manager to carry out functions includes a power (in the circumstances specified in subsection (2) of that section) to make an order that the right to manage the premises is to cease to be exercisable by the RTM company.
 
@@ -197,9 +197,9 @@ Schedule 11 to this Act has effect as if references to the landlord (or a party 
 
 [^c21533211]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) wholly in force at 30.3.2004; [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) not in force at Royal Assent see [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-11dc87433552210d9a4d00fd1ed0402e]: Textual amendment: Word in [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/3) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [27(2)(a)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/27/2/a)
+[^c-11dc87433552210d9a4d00fd1ed0402e]: Textual amendment: Word in [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/3) heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/uksi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/1/1), [27(2)(a)](https://www.legislation.gov.uk/uksi/2022/1166/regulation/27/2/a)
 
-[^key-d46b51c07085b43e841358059da77616]: Textual amendment: [Sch. 7 para. 3A](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/3A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/27/2/b)
+[^c-d46b51c07085b43e841358059da77616]: Textual amendment: [Sch. 7 para. 3A](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/3A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/27/2/b)
 
 [^c21533221]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) wholly in force at 30.3.2004; [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) not in force at Royal Assent see [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
@@ -211,9 +211,9 @@ Schedule 11 to this Act has effect as if references to the landlord (or a party 
 
 [^c21533261]: Commencement: Sch. 7 wholly in force at 30.3.2004; Sch. 7 not in force at Royal Assent see s. 181(1); Sch. 7 in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); Sch. 7 in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-a743a8cf05264141932aaae8e9553dfe]: Textual amendment: Words in [Sch. 7 para. 8(1)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/8/1) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 146(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/146/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a743a8cf05264141932aaae8e9553dfe]: Textual amendment: Words in [Sch. 7 para. 8(1)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/8/1) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 146(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/146/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-811f76378d13f23d0a32acc2990c415d]: Textual amendment: Words in [Sch. 7 para. 8(6)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/8/6) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 146(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/146/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-811f76378d13f23d0a32acc2990c415d]: Textual amendment: Words in [Sch. 7 para. 8(6)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/8/6) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 146(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/146/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c21533271]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) wholly in force at 30.3.2004; [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) not in force at Royal Assent see [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [Sch. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7) in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 

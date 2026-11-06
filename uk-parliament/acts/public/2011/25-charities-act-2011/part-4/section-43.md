@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Duty of charity trustees on receiving direction under s.42[^key-aa287c5acff4dc68601a17c20519425c]
+## 43. Duty of charity trustees on receiving direction under s.42[^c-aa287c5acff4dc68601a17c20519425c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa287c5acff4dc68601a17c20519425c]: Modification: S. 43 applied (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [37(6)](https://www.legislation.gov.uk/uksi/2012/3013/regulation/37/6)
+[^c-aa287c5acff4dc68601a17c20519425c]: Modification: S. 43 applied (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [37(6)](https://www.legislation.gov.uk/uksi/2012/3013/regulation/37/6)

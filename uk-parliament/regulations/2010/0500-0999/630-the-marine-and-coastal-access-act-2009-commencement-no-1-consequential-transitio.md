@@ -52,7 +52,7 @@ The Secretary of State in relation to England and the Welsh Ministers in relatio
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-be14539ab89754ca5d291f8e85bb7952]
+### 1. Title, commencement and application[^c-be14539ab89754ca5d291f8e85bb7952]
 
 (1) The title of this Order is the Marine and Coastal Access Act 2009 (Commencement No. 1, Consequential, Transitional and Savings Provisions) (England and Wales) Order 2010.
 
@@ -62,7 +62,7 @@ The Secretary of State in relation to England and the Welsh Ministers in relatio
 
 (4) Save as provided in paragraph (3), this Order applies in relation to Wales.
 
-### 2. Interpretation[^key-94c8ecdfd841c5196035294c8cc829e0]
+### 2. Interpretation[^c-94c8ecdfd841c5196035294c8cc829e0]
 
 (1) In this Order—
 
@@ -94,23 +94,23 @@ The Secretary of State in relation to England and the Welsh Ministers in relatio
     - (gg) Traeth Lafan Project Officer, or
     - (hh) Marine Biodiversity Officer.
 
-### 3. Appointed day[^key-778e7181df1a8623bd7dceded4e3ff14]
+### 3. Appointed day[^c-778e7181df1a8623bd7dceded4e3ff14]
 
 1st April 2010 is the day appointed for the coming into force in relation to Wales of the following provisions of the Marine and Coastal Access Act 2009—
 
 - (a) section 187 (abolition of local fisheries committees); and
 - (b) Part 4 (management of inshore fisheries) of Schedule 22 (repeals) and section 321 (repeals) so far as relating to those provisions.
 
-### 4. Consequential amendments to, and revocations of, existing enactments[^key-13458469049462dd446264124f0a7af2]
+### 4. Consequential amendments to, and revocations of, existing enactments[^c-13458469049462dd446264124f0a7af2]
 
 On the transfer date—
 
-- (a)[^key-455843b02f96c886c33a8c8a32d09940] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-455843b02f96c886c33a8c8a32d09940] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the enactments specified in Part 2 of Schedule 1 are revoked in relation to Wales.
 
 ## PART 2 — South Wales Sea Fisheries Committee
 
-### 5. Transfer of employees[^key-4c5a5c221169e995de1288ede4df6880]
+### 5. Transfer of employees[^c-4c5a5c221169e995de1288ede4df6880]
 
 (1) Subject to the provisions of this article, all relevant employees transfer to and become, on the transfer date, members of the staff of the Welsh Assembly Government.
 
@@ -140,7 +140,7 @@ On the transfer date—
 - (a) that employee’s contract of employment is terminated on the transfer date; and
 - (b) that employee is not to be treated for any purposes as having been dismissed.
 
-### 6. Transfer of property, rights and liabilities[^key-0843b73c43a3bd4c14452ce8e03c1ed8]
+### 6. Transfer of property, rights and liabilities[^c-0843b73c43a3bd4c14452ce8e03c1ed8]
 
 (1) Save as provided by articles 5 and 7, on the transfer date—
 
@@ -155,7 +155,7 @@ are transferred to and vest in the Welsh Ministers.
 
 (4) The liabilities falling within paragraph (1)(b) include liabilities in respect of persons formerly employed by or on behalf of the South Wales Sea Fisheries Committee.
 
-### 7. The Burry Inlet Cockle Fishery Order 1965[^key-b459bde5edfe083a969314e5c43754c6]
+### 7. The Burry Inlet Cockle Fishery Order 1965[^c-b459bde5edfe083a969314e5c43754c6]
 
 (1) Article 6(1) does not apply to any functions, property, rights or liabilities transferred by paragraph (2).
 
@@ -173,7 +173,7 @@ pursuant to the Burry Inlet Cockle Fishery Order 1965[^f00008] are transferred t
 
 (4) Paragraph (2) has effect in relation to the functions, property, rights and liabilities to which it applies in spite of any provision (of whatever nature) which would prevent or restrict the transfer of those functions, property, rights or liabilities otherwise than by that paragraph.
 
-### 8. Transitional provisions[^key-2b5b76cb916de5b6391340a82916c3c9]
+### 8. Transitional provisions[^c-2b5b76cb916de5b6391340a82916c3c9]
 
 (1) Nothing in article 3, 5, 6 or 7 affects the validity of anything done by or in relation to the South Wales Sea Fisheries Committee before the transfer date.
 
@@ -207,7 +207,7 @@ has effect on and after the transfer date as if done by the Environment Agency t
 
 ## PART 3 — North Western and North Wales Sea Fisheries Committee
 
-### 9. Transfer of employees[^key-e1586e8ff4fec8cf82355e3ab36a4445]
+### 9. Transfer of employees[^c-e1586e8ff4fec8cf82355e3ab36a4445]
 
 (1) Subject to the provisions of this article, all relevant employees transfer to and become, on the transfer date, members of the staff of the Welsh Assembly Government.
 
@@ -237,7 +237,7 @@ has effect on and after the transfer date as if done by the Environment Agency t
 - (a) that employee’s contract of employment is terminated on the transfer date; and
 - (b) that employee is not to be treated for any purposes as having been dismissed.
 
-### 10. Transfer of property, rights and liabilities[^key-b4a862a0e5fcc5a9bb5f269ce77165d1]
+### 10. Transfer of property, rights and liabilities[^c-b4a862a0e5fcc5a9bb5f269ce77165d1]
 
 (1) On the transfer date—
 
@@ -274,7 +274,7 @@ in relation to the assets mentioned in paragraph (3), transfer to and vest in th
 - (a) that person was formerly employed by or on behalf of the North Western and North Wales Sea Fisheries Committee; and
 - (b) that person was entirely or substantially employed in carrying out the functions of the North Western and North Wales Sea Fisheries Committee in relation to Wales.
 
-### 11. The Menai Strait Oyster and Mussel Fishery Order 1962[^key-3ea71d5ffe5dea3e9223462c88113e34]
+### 11. The Menai Strait Oyster and Mussel Fishery Order 1962[^c-3ea71d5ffe5dea3e9223462c88113e34]
 
 (1) Article 10 does not apply to any functions, property, rights or liabilities transferred by paragraph (2).
 
@@ -305,7 +305,7 @@ pursuant to the Menai Strait Oyster and Mussel Fishery Order 1962[^f00011] are t
 
 (4) Paragraph (2) has effect in relation to the functions, property, rights and liabilities to which it applies in spite of any provision (of whatever nature) which would prevent or restrict the transfer of those functions, property, rights or liabilities otherwise than by that paragraph.
 
-### 12. Transitional provisions[^key-dd9098e84d824c40e978eb3833f82dbf]
+### 12. Transitional provisions[^c-dd9098e84d824c40e978eb3833f82dbf]
 
 (1) Nothing in article 3, 9, 10 or 11 affects the validity of anything done by or in relation to the North Western and North Wales Sea Fisheries Committee in relation to Wales before the transfer date.
 
@@ -339,7 +339,7 @@ has effect on and after the transfer date as if done by the Menai Strait Fishery
 
 ## PART 4 — Byelaws
 
-### 13. Byelaws of the South Wales Sea Fisheries Committee, the North Western and North Wales Sea Fisheries Committee and the Environment Agency whilst exercising the powers of a local fisheries committee[^key-37fb061a3bddf8705786be3f12aae8bd]
+### 13. Byelaws of the South Wales Sea Fisheries Committee, the North Western and North Wales Sea Fisheries Committee and the Environment Agency whilst exercising the powers of a local fisheries committee[^c-37fb061a3bddf8705786be3f12aae8bd]
 
 (1) Any provision of the byelaws of the South Wales Sea Fisheries Committee listed at Schedule 3 which—
 
@@ -398,56 +398,56 @@ Article 4
 
 ### PART 1 — Amendments to Subordinate Legislation
 
-#### 1. The Tribunals and Inquiries (Discretionary Inquiries) Order 1975[^key-8a965c3fdcd7c03cfc71389e66cca714]
+#### 1. The Tribunals and Inquiries (Discretionary Inquiries) Order 1975[^c-8a965c3fdcd7c03cfc71389e66cca714]
 
 In Part II of the Schedule to the Tribunals and Inquiries (Discretionary Inquiries) Order 1975[^f00015], omit paragraph 97.
 
-#### 2. The Transfer of Functions (Wales) (No 1) Order 1978[^key-4605285559166e16256fd249de78ebb2]
+#### 2. The Transfer of Functions (Wales) (No 1) Order 1978[^c-4605285559166e16256fd249de78ebb2]
 
 In the Transfer of Functions (Wales) (No 1) Order 1978[^f00016]—
 
 - (a) in Schedule 1 (enactments conferring functions transferred by article 2), omit the words “Sea Fisheries Regulation Act [1966 (c 38)](https://www.legislation.gov.uk/ukpga/1966/38) except section 15.”; and
 - (b) in Schedule 2 (enactments conferring functions transferred by article 4), omit the words “Section 15 of the Sea Fisheries Regulation Act [1966 (c 38)](https://www.legislation.gov.uk/ukpga/1966/38).”.
 
-#### 3. The Sea Fisheries Districts (Variation) Order 1993[^key-562ac9c978c50c1b59e450808f934d99]
+#### 3. The Sea Fisheries Districts (Variation) Order 1993[^c-562ac9c978c50c1b59e450808f934d99]
 
 In the Sea Fisheries Districts (Variation) Order 1993[^f00017]—
 
 - (a) omit article 9 (North Western and North Wales Sea Fisheries District); and
 - (b) omit article 11 (South Wales Sea Fisheries District).
 
-#### 4. The National Assembly for Wales (Transfer of Functions) Order 1999[^key-389337cfba6f9058f4e02932bb1dc77e]
+#### 4. The National Assembly for Wales (Transfer of Functions) Order 1999[^c-389337cfba6f9058f4e02932bb1dc77e]
 
 In Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999[^f00018] omit the words “Sea Fisheries Regulation Act [1966 (c 38)](https://www.legislation.gov.uk/ukpga/1966/38) in respect of the functions transferred to the Secretary of State by the 1978 transfer order.”.
 
-#### 5. The Sea Fishing (Enforcement of Measures for the Recovery of the Stock of Cod) (Irish Sea) (Wales) Order 2000[^key-5072ed1882702a91871b2ffaf1a2a75b]
+#### 5. The Sea Fishing (Enforcement of Measures for the Recovery of the Stock of Cod) (Irish Sea) (Wales) Order 2000[^c-5072ed1882702a91871b2ffaf1a2a75b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. The Sea Fishing (Enforcement of Community Conservation Measures) (Wales) Order 2000[^key-086cb2e80f5358f3ee81a036686c8211]
+#### 6. The Sea Fishing (Enforcement of Community Conservation Measures) (Wales) Order 2000[^c-086cb2e80f5358f3ee81a036686c8211]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. The Water Environment (Water Framework Directive) (England and Wales) Regulations 2003[^key-bffe39491c36ff60f24c75d07f6bcc17]
+#### 7. The Water Environment (Water Framework Directive) (England and Wales) Regulations 2003[^c-bffe39491c36ff60f24c75d07f6bcc17]
 
 In regulation 12 (river basin management plans: public participation) of the Water Environment (Water Framework Directive) (England and Wales) Regulations 2003[^f00021]—
 
 - (a) in paragraph (4), omit sub-paragraph (j); and
 - (b) in paragraph (5), omit sub-paragraph (d).
 
-#### 8. The Local Authorities (Alternative Arrangements) (Wales) Regulations 2007[^key-0370b78b7a3c8472f6960824610ef884]
+#### 8. The Local Authorities (Alternative Arrangements) (Wales) Regulations 2007[^c-0370b78b7a3c8472f6960824610ef884]
 
 In Part I (miscellaneous functions) of Schedule 1 (functions not to be the responsibility of an authority’s board) to the Local Authorities (Alternative Arrangements) (Wales) Regulations 2007[^f00022] omit paragraph 2.
 
-#### 9. The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) Regulations 2007[^key-954fcb91cd5e5f04987e814e635d8868]
+#### 9. The Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) Regulations 2007[^c-954fcb91cd5e5f04987e814e635d8868]
 
 In Part I (miscellaneous functions) of Schedule 1 (functions not to be the responsibility of an authority’s executive) to the Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) Regulations 2007[^f00023] omit paragraph 2.
 
-#### 10. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^key-ec15f38d9d500604a724fffc50100730]
+#### 10. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^c-ec15f38d9d500604a724fffc50100730]
 
 In Part 3 of the Schedule to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00024] omit the words “Sea Fisheries Regulation Act 1966”.
 
-#### 11. The Sea Fishing (Enforcement of Community Measures) (Penalty Notices) Order 2008[^key-3ab4be7d0ebfc0ec23afc226fdbf267c]
+#### 11. The Sea Fishing (Enforcement of Community Measures) (Penalty Notices) Order 2008[^c-3ab4be7d0ebfc0ec23afc226fdbf267c]
 
 In article 3(1) of the Sea Fishing (Enforcement of Community Measures) (Penalty Notices) Order 2008[^f00025], replace the definition of “authorised officer” with—
 
@@ -460,7 +460,7 @@ In article 3(1) of the Sea Fishing (Enforcement of Community Measures) (Penalty 
 
 ### PART 2 — Revocations
 
-**12.**[^key-217f081b1a6c8489c704cf582fe2f3d7] The enactments specified in this Part are revoked—
+**12.**[^c-217f081b1a6c8489c704cf582fe2f3d7] The enactments specified in this Part are revoked—
 
 - (a) the Order of the Board of Agriculture and Fisheries on 27th June 1912 (which created the South Wales Sea Fisheries District and constituted a local fisheries committee for the regulation of sea fisheries within that district[^f00026]);
 - (b) the South Wales Sea Fisheries District (Expenses) Order 1953[^f00027];
@@ -479,61 +479,61 @@ Article 10
 
 ### PART 1 — North Western and North Wales Sea Fisheries Committee : premises located in Wales.
 
-**1.**[^key-63adf2d66500c6aaa5cc9a4da28cdc7f] Office at Room 234 at the School of Ocean Sciences, Westbury Mount, Menai Bridge, Anglesey, more particularly described in the Licence to Occupy made on 1st August 2008 between Bangor University and North Western and North Wales Sea Fisheries Committee.
+**1.**[^c-63adf2d66500c6aaa5cc9a4da28cdc7f] Office at Room 234 at the School of Ocean Sciences, Westbury Mount, Menai Bridge, Anglesey, more particularly described in the Licence to Occupy made on 1st August 2008 between Bangor University and North Western and North Wales Sea Fisheries Committee.
 
-**2.**[^key-f089c6f20a0bebfe44af47cab2360fbc] Storage Unit at Colwyn Bay, Wales pursuant to an agreement between M & M Construction (N.W.) Ltd (Company Registration Number 02264163) and the North Western and North Wales Sea Fisheries Committee.
+**2.**[^c-f089c6f20a0bebfe44af47cab2360fbc] Storage Unit at Colwyn Bay, Wales pursuant to an agreement between M & M Construction (N.W.) Ltd (Company Registration Number 02264163) and the North Western and North Wales Sea Fisheries Committee.
 
-**3.**[^key-343d2b01e1b8b0efbd4157df20f65147] Storage Unit at Conwy Marina, Wales pursuant to an agreement between Quay Marinas Limited (Company Registration Number 01094247) and the North Western and North Wales Sea Fisheries Committee.
+**3.**[^c-343d2b01e1b8b0efbd4157df20f65147] Storage Unit at Conwy Marina, Wales pursuant to an agreement between Quay Marinas Limited (Company Registration Number 01094247) and the North Western and North Wales Sea Fisheries Committee.
 
-**4.**[^key-b1701e8229271e3251b6394e15b42858] Storage Unit at Hendy, Llanbedrog, Pwllheli, Gwynedd, Wales pursuant to an agreement between Mr Jones (of Hendy, Llanbedrog, Pwllheli, Gwynedd, Wales, LL53 7UA) and the North Western and North Wales Sea Fisheries Committee.
+**4.**[^c-b1701e8229271e3251b6394e15b42858] Storage Unit at Hendy, Llanbedrog, Pwllheli, Gwynedd, Wales pursuant to an agreement between Mr Jones (of Hendy, Llanbedrog, Pwllheli, Gwynedd, Wales, LL53 7UA) and the North Western and North Wales Sea Fisheries Committee.
 
-**5.**[^key-a15112e25a6edd405c990d201c61bd7a] Vessel berth known as “A Leg Hammerhead” at Conwy Marina, Conwy, Wales, pursuant to an agreement between Quay Marinas Limited (Company Registration Number 01094247) and the North Western and North Wales Sea Fisheries Committee.
+**5.**[^c-a15112e25a6edd405c990d201c61bd7a] Vessel berth known as “A Leg Hammerhead” at Conwy Marina, Conwy, Wales, pursuant to an agreement between Quay Marinas Limited (Company Registration Number 01094247) and the North Western and North Wales Sea Fisheries Committee.
 
 ### PART 2 — North Western and North Wales Sea Fisheries Committee : specified assets.
 
-**6.**[^key-78a56249bbddc93deed51b38f53328ac] The Fishery Patrol Vessel “Aegis” 16m Arun class (Lloyds Build Certification : Lloyds HCC – SOU511003) and all associated motors, radar and other equipment.
+**6.**[^c-78a56249bbddc93deed51b38f53328ac] The Fishery Patrol Vessel “Aegis” 16m Arun class (Lloyds Build Certification : Lloyds HCC – SOU511003) and all associated motors, radar and other equipment.
 
-**7.**[^key-964c1c72adb88344bbdeaadc817597f0] Three Honda All Terrain Vehicles (including those with serial numbers 1HFTE25U464505424 and LFL6H28HNW200201087) and three associated trailers.
+**7.**[^c-964c1c72adb88344bbdeaadc817597f0] Three Honda All Terrain Vehicles (including those with serial numbers 1HFTE25U464505424 and LFL6H28HNW200201087) and three associated trailers.
 
-**8.**[^key-85755c822db2024657096a72890472c3] Three Zodiac Grand Raid III Rigid Inflatable Boats (serial numbers 3432, 3433 and 3434) and all associated motors (including three Yamaha 40 HP outboard motors (serial numbers 6H4S 193699, 6H4S 190308 and 6H4S 109271) and three Yamaha Malta Outboard motors (serial numbers 6L5S 055626X, 6L5S 053555 and 6L5S 032634)), three trailers and other associated equipment.
+**8.**[^c-85755c822db2024657096a72890472c3] Three Zodiac Grand Raid III Rigid Inflatable Boats (serial numbers 3432, 3433 and 3434) and all associated motors (including three Yamaha 40 HP outboard motors (serial numbers 6H4S 193699, 6H4S 190308 and 6H4S 109271) and three Yamaha Malta Outboard motors (serial numbers 6L5S 055626X, 6L5S 053555 and 6L5S 032634)), three trailers and other associated equipment.
 
-**9.**[^key-3edccd693e23b4e390fdfc2d3a304fca] Two road vehicles, as follows—
+**9.**[^c-3edccd693e23b4e390fdfc2d3a304fca] Two road vehicles, as follows—
 
 - (a) Ford Fiesta Van, registration number Y685XCW; and
 - (b) Land Rover Defender, registration number PE58XKF.
 
-**10.**[^key-adfc58ce2d4d1cc5cbd4c03aa4dddeb3] The following vehicles, in accordance with the specified lease agreements between the North Western and North Wales Sea Fisheries Committee and ARVAL Ltd (Company Registration Number 03171162)—
+**10.**[^c-adfc58ce2d4d1cc5cbd4c03aa4dddeb3] The following vehicles, in accordance with the specified lease agreements between the North Western and North Wales Sea Fisheries Committee and ARVAL Ltd (Company Registration Number 03171162)—
 
 - (a) Nissan Terrano 4x4 vehicle, registration number WN55 WEA, by virtue of lease agreement dated 23rd November 2005;
 - (b) Vauxhall Astra Car, registration number AU06 UMJ, by virtue of lease agreement dated 2nd May 2006;
 - (c) Citroen Berlingo Van, registration number WM07 GJY, by virtue of lease agreement dated 20th July 2007; and
 - (d) Renault Clio Car, registration number RE58 EZT, by virtue of lease agreement dated 3rd October 2008.
 
-## SCHEDULE 3 — Byelaws of the South Wales Sea Fisheries Committee[^key-f925858b4a68d6813e48861e64d3339b]
+## SCHEDULE 3 — Byelaws of the South Wales Sea Fisheries Committee[^c-f925858b4a68d6813e48861e64d3339b]
 
 Article 13(1)
 
 | Byelaw Number | Title |
 | --- | --- |
 | Byelaw 2 | Application |
-| [^key-4f9dbf07719293374d3dacba2d145582]. . . | [^key-4f9dbf07719293374d3dacba2d145582]. . . |
-| [^key-4f9dbf07719293374d3dacba2d145582]. . . | [^key-4f9dbf07719293374d3dacba2d145582]. . . |
-| [^key-4f9dbf07719293374d3dacba2d145582]. . . | [^key-4f9dbf07719293374d3dacba2d145582]. . . |
-| [^key-4f9dbf07719293374d3dacba2d145582]. . . | [^key-4f9dbf07719293374d3dacba2d145582]. . . |
+| [^c-4f9dbf07719293374d3dacba2d145582]. . . | [^c-4f9dbf07719293374d3dacba2d145582]. . . |
+| [^c-4f9dbf07719293374d3dacba2d145582]. . . | [^c-4f9dbf07719293374d3dacba2d145582]. . . |
+| [^c-4f9dbf07719293374d3dacba2d145582]. . . | [^c-4f9dbf07719293374d3dacba2d145582]. . . |
+| [^c-4f9dbf07719293374d3dacba2d145582]. . . | [^c-4f9dbf07719293374d3dacba2d145582]. . . |
 | Byelaw 8 | Bass – Minimum Size |
 | Byelaw 9 | Thick Lipped Grey Mullet – Minimum size |
 | Byelaw 10 | Skate and Ray – Minimum size |
-| [^key-e25d25e1e63b1a3ee3ec6e99c8ae1c02]. . . | [^key-e25d25e1e63b1a3ee3ec6e99c8ae1c02]. . . |
+| [^c-e25d25e1e63b1a3ee3ec6e99c8ae1c02]. . . | [^c-e25d25e1e63b1a3ee3ec6e99c8ae1c02]. . . |
 | Byelaw 12 | Winkles |
 | Byelaw 13 | Shellfish – Minimum Sizes |
 | Byelaw 14 | Scallops – Minimum Size |
-| [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
-| [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
-| [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
-| [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
-| [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^key-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
+| [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
+| [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
+| [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
+| [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
+| [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . | [^c-4ed280f49c0b7b47f5559ef311d3e79e]. . . |
 | Byelaw 20 | Protection of Shellfish Beds – Burry Inlet |
-| [^key-316c35fe2abb36378a3c503cd37b2e3e]. . . | [^key-316c35fe2abb36378a3c503cd37b2e3e]. . . |
+| [^c-316c35fe2abb36378a3c503cd37b2e3e]. . . | [^c-316c35fe2abb36378a3c503cd37b2e3e]. . . |
 | Byelaw 22 | Allowances for Weighing |
 | Byelaw 23 | Shellfish – Re-Deposit of |
 | Byelaw 24 | Temporary Closure of Shellfish fisheries |
@@ -557,11 +557,11 @@ Article 13(1)
 | Byelaw 43 | Foul Hooking of Sea fish |
 | Byelaw 44 | Marking of Fishing Gear and Keep Pots |
 | Byelaw 45 | Restriction on fishing for Scallops |
-| [^key-4f9dbf07719293374d3dacba2d145582]. . . | [^key-4f9dbf07719293374d3dacba2d145582]. . . |
-| [^key-316c35fe2abb36378a3c503cd37b2e3e]. . . | [^key-316c35fe2abb36378a3c503cd37b2e3e]. . . |
+| [^c-4f9dbf07719293374d3dacba2d145582]. . . | [^c-4f9dbf07719293374d3dacba2d145582]. . . |
+| [^c-316c35fe2abb36378a3c503cd37b2e3e]. . . | [^c-316c35fe2abb36378a3c503cd37b2e3e]. . . |
 | Byelaw 48 | Vehicle Usage within the Three Rivers Estuary |
 
-## SCHEDULE 4 — Byelaws of the North Western and North Wales Sea Fisheries Committee[^key-e2ce17e151ac9534815499abed449c25]
+## SCHEDULE 4 — Byelaws of the North Western and North Wales Sea Fisheries Committee[^c-e2ce17e151ac9534815499abed449c25]
 
 Article 13(3)
 
@@ -571,7 +571,7 @@ Article 13(3)
 | Byelaw 2 | Attachments to Nets |
 | Byelaw 3 | Prohibition of Seine Netting |
 | Byelaw 4 | Mesh Size – Trawl Nets |
-| [^key-fc57963263271f9fce0e0c0a89f9d2fb]. . . | [^key-fc57963263271f9fce0e0c0a89f9d2fb]. . . |
+| [^c-fc57963263271f9fce0e0c0a89f9d2fb]. . . | [^c-fc57963263271f9fce0e0c0a89f9d2fb]. . . |
 | Byelaw 6 | Shrimp and Prawns – Restriction on Fishing |
 | Byelaw 7 | Mesh Sizes – Nets other than Trawl Nets |
 | Byelaw 8 | Small Mesh Nets – Other than Trawl Nets – Restrictions |
@@ -588,15 +588,15 @@ Article 13(3)
 | Byelaw 18 | Foul Hooking of Sea Fish |
 | Byelaw 19 | Specified Fish Sizes |
 | Byelaw 20 | Restriction of Fishing for Escallop in Cardigan Bay |
-| [^key-b8f5ee9c35ef28aa5f5915b905d57266]. . . | [^key-b8f5ee9c35ef28aa5f5915b905d57266]. . . |
+| [^c-b8f5ee9c35ef28aa5f5915b905d57266]. . . | [^c-b8f5ee9c35ef28aa5f5915b905d57266]. . . |
 | Byelaw 24 | Fixed Engines – Prohibitions (Wales) |
 | Byelaw 25 | Drift Nets – Prohibitions (Wales) |
 | Byelaw 28 | Application of Byelaws |
-| [^key-3a970579b0acafe91a503992cd488ca7]. . . | [^key-3a970579b0acafe91a503992cd488ca7]. . . |
+| [^c-3a970579b0acafe91a503992cd488ca7]. . . | [^c-3a970579b0acafe91a503992cd488ca7]. . . |
 | Byelaw 30 | Fishing for Lobster, Crawfish, Crab Prawn and Whelk |
-| [^key-3a970579b0acafe91a503992cd488ca7]. . . | [^key-3a970579b0acafe91a503992cd488ca7]. . . |
+| [^c-3a970579b0acafe91a503992cd488ca7]. . . | [^c-3a970579b0acafe91a503992cd488ca7]. . . |
 
-## SCHEDULE 5 — Byelaws of the Environment Agency, or its predecessors, made whilst exercising the powers of a local fisheries committee.[^key-6533ef50e96967b972b1b9dc4fd80f86]
+## SCHEDULE 5 — Byelaws of the Environment Agency, or its predecessors, made whilst exercising the powers of a local fisheries committee.[^c-6533ef50e96967b972b1b9dc4fd80f86]
 
 Article 13(4)
 
@@ -722,9 +722,9 @@ The following provisions of the Marine and Coastal Access Act 2009 have been or 
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-be14539ab89754ca5d291f8e85bb7952]: Commencement: Art. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-be14539ab89754ca5d291f8e85bb7952]: Commencement: Art. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-94c8ecdfd841c5196035294c8cc829e0]: Commencement: Art. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-94c8ecdfd841c5196035294c8cc829e0]: Commencement: Art. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00002]: Footnote: [1966 c. 38](https://www.legislation.gov.uk/ukpga/1966/38).
 
@@ -736,39 +736,39 @@ The following provisions of the Marine and Coastal Access Act 2009 have been or 
 
 [^f00006]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). The boundary between the sea adjacent to Wales and that adjacent to England is described by article 6 of and Schedule 3 to the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). By virtue of section 162 of and paragraph 26 of Schedule 11 to the 2006 Act, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) continues to have effect.
 
-[^key-778e7181df1a8623bd7dceded4e3ff14]: Commencement: Art. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-778e7181df1a8623bd7dceded4e3ff14]: Commencement: Art. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-13458469049462dd446264124f0a7af2]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-13458469049462dd446264124f0a7af2]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-455843b02f96c886c33a8c8a32d09940]: Textual amendment: [Art. 4(a)](https://www.legislation.gov.uk/uksi/2010/630/article/4/a) revoked (6.3.2015 for specified purposes) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-455843b02f96c886c33a8c8a32d09940]: Textual amendment: [Art. 4(a)](https://www.legislation.gov.uk/uksi/2010/630/article/4/a) revoked (6.3.2015 for specified purposes) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
 
-[^key-4c5a5c221169e995de1288ede4df6880]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-4c5a5c221169e995de1288ede4df6880]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00007]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-0843b73c43a3bd4c14452ce8e03c1ed8]: Commencement: Art. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-0843b73c43a3bd4c14452ce8e03c1ed8]: Commencement: Art. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-b459bde5edfe083a969314e5c43754c6]: Commencement: Art. 7 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-b459bde5edfe083a969314e5c43754c6]: Commencement: Art. 7 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00008]: Footnote: [S.I. 1965/1235](https://www.legislation.gov.uk/uksi/1965/1235).
 
-[^key-2b5b76cb916de5b6391340a82916c3c9]: Commencement: Art. 8 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-2b5b76cb916de5b6391340a82916c3c9]: Commencement: Art. 8 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-e1586e8ff4fec8cf82355e3ab36a4445]: Commencement: Art. 9 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-e1586e8ff4fec8cf82355e3ab36a4445]: Commencement: Art. 9 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00009]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-b4a862a0e5fcc5a9bb5f269ce77165d1]: Commencement: Art. 10 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-b4a862a0e5fcc5a9bb5f269ce77165d1]: Commencement: Art. 10 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-3ea71d5ffe5dea3e9223462c88113e34]: Commencement: Art. 11 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-3ea71d5ffe5dea3e9223462c88113e34]: Commencement: Art. 11 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00010]: Footnote: The local fisheries committee in respect of the Lancashire and Western Sea Fisheries District was the original Grantee in relation to the Menai Strait Oyster and Mussel Fishery Order 1962. The name of the Lancashire and Western Sea Fisheries District was changed to the North Western and North Wales Sea Fisheries District, and the corresponding local fisheries committee underwent a similar change of name, by virtue of The North Western and North Wales Sea Fisheries District Order 1986 ([S.I. 1986/1201](https://www.legislation.gov.uk/uksi/1986/1201)). [S.I. 1986/1201](https://www.legislation.gov.uk/uksi/1986/1201) was revoked and replaced by the North Western and North Wales Sea Fisheries District Order 1999 ([S.I. 1999/1043](https://www.legislation.gov.uk/uksi/1999/1043)).
 
 [^f00011]: Footnote: [S.I. 1962/705](https://www.legislation.gov.uk/uksi/1962/705) as amended by [S.I. 1964/550](https://www.legislation.gov.uk/uksi/1964/550).
 
-[^key-dd9098e84d824c40e978eb3833f82dbf]: Commencement: Art. 12 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-dd9098e84d824c40e978eb3833f82dbf]: Commencement: Art. 12 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-37fb061a3bddf8705786be3f12aae8bd]: Commencement: Art. 13 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-37fb061a3bddf8705786be3f12aae8bd]: Commencement: Art. 13 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00012]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
 
@@ -776,47 +776,47 @@ The following provisions of the Marine and Coastal Access Act 2009 have been or 
 
 [^f00014]: Footnote: Section 18(1) of the Sea Fisheries Regulation Act [1966 (c. 38)](https://www.legislation.gov.uk/ukpga/1966/38) enabled the Minister, when defining a sea fisheries district, to draw a line at or near the mouth of every river, stream or estuary within that district, which would constitute the boundary of the district, and provide that above that line the relevant river authority would have the powers of a local fisheries committee. In reliance upon section 18(1) of the 1966 Act, [S.I. 1980/823](https://www.legislation.gov.uk/uksi/1980/823) amended the order made by the Board of Agriculture and Fisheries on 27th June 1912 (which created the South Wales Sea Fisheries District) to insert a new article 1 which gave the Severn-Trent Water Authority and the Welsh Water Authority the powers of a local fisheries committee in the rivers, streams and estuaries beyond the area of the South Wales Sea Fisheries District. Since that enactment, powers exercisable by those river authorities have passed to the Environment Agency (see sections 2 and 55 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25)). Also in reliance upon section 18(1) of the 1966 Act, article 2(3) of [S.I. 1999/1043](https://www.legislation.gov.uk/uksi/1999/1043) gave the Environment Agency the powers of a local fisheries committee in the rivers, streams and estuaries beyond the area of the North Western and North Wales Sea Fisheries District.
 
-[^key-8a965c3fdcd7c03cfc71389e66cca714]: Commencement: Sch. 1 para. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-8a965c3fdcd7c03cfc71389e66cca714]: Commencement: Sch. 1 para. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00015]: Footnote: [S.I. 1975/1379](https://www.legislation.gov.uk/uksi/1975/1379). Part II of the Schedule has been amended by [S.I. 1983/1287](https://www.legislation.gov.uk/uksi/1983/1287), article 3 and [S.I. 1990/526](https://www.legislation.gov.uk/uksi/1990/526), article 2 and Schedule. There are further amendments to the 1975 Order which are not relevant to this Order.
 
-[^key-4605285559166e16256fd249de78ebb2]: Commencement: Sch. 1 para. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-4605285559166e16256fd249de78ebb2]: Commencement: Sch. 1 para. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00016]: Footnote: [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272). Schedule 1 has been amended by [S.I. 2000/2031](https://www.legislation.gov.uk/uksi/2000/2031), article 5.
 
-[^key-562ac9c978c50c1b59e450808f934d99]: Commencement: Sch. 1 para. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-562ac9c978c50c1b59e450808f934d99]: Commencement: Sch. 1 para. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00017]: Footnote: [S.I. 1993/2532](https://www.legislation.gov.uk/uksi/1993/2532).
 
-[^key-389337cfba6f9058f4e02932bb1dc77e]: Commencement: Sch. 1 para. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-389337cfba6f9058f4e02932bb1dc77e]: Commencement: Sch. 1 para. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00018]: Footnote: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) to which there are amendments not relevant to this Order.
 
-[^key-5072ed1882702a91871b2ffaf1a2a75b]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/630/schedule/1/paragraph/5) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-5072ed1882702a91871b2ffaf1a2a75b]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/630/schedule/1/paragraph/5) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
 
-[^key-086cb2e80f5358f3ee81a036686c8211]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/630/schedule/1/paragraph/6) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-086cb2e80f5358f3ee81a036686c8211]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/630/schedule/1/paragraph/6) revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
 
-[^key-bffe39491c36ff60f24c75d07f6bcc17]: Commencement: Sch. 1 para. 7 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-bffe39491c36ff60f24c75d07f6bcc17]: Commencement: Sch. 1 para. 7 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00021]: Footnote: [S.I. 2003/3242](https://www.legislation.gov.uk/uksi/2003/3242). Regulation 12 has been amended by [S.I. 2005/2035](https://www.legislation.gov.uk/uksi/2005/2035), regulation 22. There are further amendments to the 2003 Regulations which are not relevant to this Order.
 
-[^key-0370b78b7a3c8472f6960824610ef884]: Commencement: Sch. 1 para. 8 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-0370b78b7a3c8472f6960824610ef884]: Commencement: Sch. 1 para. 8 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00022]: Footnote: [S.I. 2007/397 (W.43)](https://www.legislation.gov.uk/wsi/2007/397). Schedule 1 has been amended by [S.I. 2009/2993 (W.262)](https://www.legislation.gov.uk/wsi/2009/2993), regulations 2 and 3. There are further amendments to the 2007 Regulations which are not relevant to this Order.
 
-[^key-954fcb91cd5e5f04987e814e635d8868]: Commencement: Sch. 1 para. 9 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-954fcb91cd5e5f04987e814e635d8868]: Commencement: Sch. 1 para. 9 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00023]: Footnote: [S.I. 2007/399 (W.45)](https://www.legislation.gov.uk/wsi/2007/399). Schedule 1 has been amended by [S.I. 2009/2983 (W.260)](https://www.legislation.gov.uk/wsi/2009/2983), regulations 2 and 3. There are further amendments to the 2007 Regulations which are not relevant to this Order.
 
-[^key-ec15f38d9d500604a724fffc50100730]: Commencement: Sch. 1 para. 10 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-ec15f38d9d500604a724fffc50100730]: Commencement: Sch. 1 para. 10 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00024]: Footnote: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544). Part 3 of the Schedule has been amended by [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), regulation 30(1), (3), Schedule 2, Part 2, paragraph 115(1), (2)(a) and (b), Schedule 4, Part 2; [S.I. 2008/1284](https://www.legislation.gov.uk/uksi/2008/1284), regulation 26; [S.I. 2008/1597](https://www.legislation.gov.uk/uksi/2008/1597), regulation 26, Schedule 7, paragraph 7; [S.I. 2008/1816](https://www.legislation.gov.uk/uksi/2008/1816), regulations 3, 4, Schedule 1, paragraph 6, Schedule 2; [S.I. 2009/2824](https://www.legislation.gov.uk/uksi/2009/2824), regulation 7, Schedule, paragraph 5 and [S.I. 2009/2981](https://www.legislation.gov.uk/uksi/2009/2981), articles 2, 4(4)(a)-(f), 4(4)(g)(i) and (ii) and 4(4)(h). There are further amendments to the 2007 Order which are not relevant to this Order.
 
-[^key-3ab4be7d0ebfc0ec23afc226fdbf267c]: Commencement: Sch. 1 para. 11 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-3ab4be7d0ebfc0ec23afc226fdbf267c]: Commencement: Sch. 1 para. 11 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00025]: Footnote: [S.I. 2008/984](https://www.legislation.gov.uk/uksi/2008/984).
 
-[^key-217f081b1a6c8489c704cf582fe2f3d7]: Commencement: Sch. 1 para. 12 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-217f081b1a6c8489c704cf582fe2f3d7]: Commencement: Sch. 1 para. 12 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
 [^f00026]: Footnote: S.R. & O. 1926/1121.
 
@@ -838,44 +838,44 @@ The following provisions of the Marine and Coastal Access Act 2009 have been or 
 
 [^f00035]: Footnote: [S.I. 2003/3072 (W.294)](https://www.legislation.gov.uk/wsi/2003/3072).
 
-[^key-63adf2d66500c6aaa5cc9a4da28cdc7f]: Commencement: Sch. 2 para. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-63adf2d66500c6aaa5cc9a4da28cdc7f]: Commencement: Sch. 2 para. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-f089c6f20a0bebfe44af47cab2360fbc]: Commencement: Sch. 2 para. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-f089c6f20a0bebfe44af47cab2360fbc]: Commencement: Sch. 2 para. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-343d2b01e1b8b0efbd4157df20f65147]: Commencement: Sch. 2 para. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-343d2b01e1b8b0efbd4157df20f65147]: Commencement: Sch. 2 para. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-b1701e8229271e3251b6394e15b42858]: Commencement: Sch. 2 para. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-b1701e8229271e3251b6394e15b42858]: Commencement: Sch. 2 para. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-a15112e25a6edd405c990d201c61bd7a]: Commencement: Sch. 2 para. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-a15112e25a6edd405c990d201c61bd7a]: Commencement: Sch. 2 para. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-78a56249bbddc93deed51b38f53328ac]: Commencement: Sch. 2 para. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-78a56249bbddc93deed51b38f53328ac]: Commencement: Sch. 2 para. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-964c1c72adb88344bbdeaadc817597f0]: Commencement: Sch. 2 para. 7 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-964c1c72adb88344bbdeaadc817597f0]: Commencement: Sch. 2 para. 7 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-85755c822db2024657096a72890472c3]: Commencement: Sch. 2 para. 8 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-85755c822db2024657096a72890472c3]: Commencement: Sch. 2 para. 8 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-3edccd693e23b4e390fdfc2d3a304fca]: Commencement: Sch. 2 para. 9 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-3edccd693e23b4e390fdfc2d3a304fca]: Commencement: Sch. 2 para. 9 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-adfc58ce2d4d1cc5cbd4c03aa4dddeb3]: Commencement: Sch. 2 para. 10 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-adfc58ce2d4d1cc5cbd4c03aa4dddeb3]: Commencement: Sch. 2 para. 10 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-f925858b4a68d6813e48861e64d3339b]: Commencement: Sch. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-f925858b4a68d6813e48861e64d3339b]: Commencement: Sch. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-4f9dbf07719293374d3dacba2d145582]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/630/schedule/3) Table deleted (1.2.2016) by [The Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015 (S.I. 2015/2076)](https://www.legislation.gov.uk/wsi/2015/2076), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1), [7(6)(a)](https://www.legislation.gov.uk/wsi/2015/2076/article/7/6/a)
+[^c-4f9dbf07719293374d3dacba2d145582]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/630/schedule/3) Table deleted (1.2.2016) by [The Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015 (S.I. 2015/2076)](https://www.legislation.gov.uk/wsi/2015/2076), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1), [7(6)(a)](https://www.legislation.gov.uk/wsi/2015/2076/article/7/6/a)
 
-[^key-e25d25e1e63b1a3ee3ec6e99c8ae1c02]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/630/schedule/3) Table deleted (4.7.2019) by [The Whelk Fishing (Wales) Order 2019 (S.I. 2019/1042)](https://www.legislation.gov.uk/uksi/2019/1042), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1042/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/1042/article/7/3)
+[^c-e25d25e1e63b1a3ee3ec6e99c8ae1c02]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/630/schedule/3) Table deleted (4.7.2019) by [The Whelk Fishing (Wales) Order 2019 (S.I. 2019/1042)](https://www.legislation.gov.uk/uksi/2019/1042), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1042/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/1042/article/7/3)
 
-[^key-4ed280f49c0b7b47f5559ef311d3e79e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/630/schedule/3) Table deleted (16.6.2025) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/b), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/5/2)
+[^c-4ed280f49c0b7b47f5559ef311d3e79e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/630/schedule/3) Table deleted (16.6.2025) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/wsi/2024/767), [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2024/767/article/1/2/b), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/wsi/2024/767/schedule/3/paragraph/5/2)
 
-[^key-316c35fe2abb36378a3c503cd37b2e3e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/630/schedule/3) Table deleted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/uksi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/767/article/1/2/a), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2024/767/schedule/3/paragraph/1/2)
+[^c-316c35fe2abb36378a3c503cd37b2e3e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/630/schedule/3) Table deleted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/uksi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/767/article/1/2/a), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2024/767/schedule/3/paragraph/1/2)
 
-[^key-e2ce17e151ac9534815499abed449c25]: Commencement: Sch. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-e2ce17e151ac9534815499abed449c25]: Commencement: Sch. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
 
-[^key-fc57963263271f9fce0e0c0a89f9d2fb]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2010/630/schedule/4) Table deleted (1.9.2011) by [The Cockles and Mussels (Specified Area) (Wales) Order 2011 (S.I. 2011/1988)](https://www.legislation.gov.uk/uksi/2011/1988), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1988/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2011/1988/article/9/2)
+[^c-fc57963263271f9fce0e0c0a89f9d2fb]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2010/630/schedule/4) Table deleted (1.9.2011) by [The Cockles and Mussels (Specified Area) (Wales) Order 2011 (S.I. 2011/1988)](https://www.legislation.gov.uk/uksi/2011/1988), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1988/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2011/1988/article/9/2)
 
 [^M_F_0795be87-d927-40d4-fb75-3f95cf0cbac3]: Textual amendment: Words in Sch. 4 Table deleted (10.7.2024) by [The Cockle Fishing Management and Permitting (Specified Area) (Wales) Order 2024 (S.I. 2024/767)](https://www.legislation.gov.uk/uksi/2024/767), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/767/article/1/2/a), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/2024/767/schedule/3/paragraph/1/3)
 
-[^key-b8f5ee9c35ef28aa5f5915b905d57266]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2010/630/schedule/4) Table deleted (1.11.2012) by [The Sea Fish (Specified Sea Areas) (Prohibition of Fishing Method) (Wales) Order 2012 (S.I. 2012/2571)](https://www.legislation.gov.uk/wsi/2012/2571), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2012/2571/article/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2012/2571/article/4/2)
+[^c-b8f5ee9c35ef28aa5f5915b905d57266]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2010/630/schedule/4) Table deleted (1.11.2012) by [The Sea Fish (Specified Sea Areas) (Prohibition of Fishing Method) (Wales) Order 2012 (S.I. 2012/2571)](https://www.legislation.gov.uk/wsi/2012/2571), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2012/2571/article/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2012/2571/article/4/2)
 
-[^key-3a970579b0acafe91a503992cd488ca7]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2010/630/schedule/4) Table deleted (1.2.2016) by [The Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015 (S.I. 2015/2076)](https://www.legislation.gov.uk/wsi/2015/2076), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1), [7(6)(b)](https://www.legislation.gov.uk/wsi/2015/2076/article/7/6/b)
+[^c-3a970579b0acafe91a503992cd488ca7]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2010/630/schedule/4) Table deleted (1.2.2016) by [The Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015 (S.I. 2015/2076)](https://www.legislation.gov.uk/wsi/2015/2076), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/2076/article/1/1), [7(6)(b)](https://www.legislation.gov.uk/wsi/2015/2076/article/7/6/b)
 
-[^key-6533ef50e96967b972b1b9dc4fd80f86]: Commencement: Sch. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)
+[^c-6533ef50e96967b972b1b9dc4fd80f86]: Commencement: Sch. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/630/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Restrictions on section 61 expenses: corporation tax receipts under ICTA[^key-8335231cb192c38b4661fd492b849958]
+## 67. Restrictions on section 61 expenses: corporation tax receipts under ICTA[^c-8335231cb192c38b4661fd492b849958]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (3) There is a corporation tax receipt in respect of a lease if—
 
-- (a) there is a receipt of a Schedule A business or an overseas property business (within the meaning of section 70A(4) of ICTA) as a result of section 34 or 35 of ICTA (treatment of premiums etc. as rent and assignments for profit of lease granted at an undervalue) in respect of the lease for an accounting period ending after 5th April 2005 but before 1st April 2009[^key-56db7bb8f366b62fa9c15c54e30d9dce], or
+- (a) there is a receipt of a Schedule A business or an overseas property business (within the meaning of section 70A(4) of ICTA) as a result of section 34 or 35 of ICTA (treatment of premiums etc. as rent and assignments for profit of lease granted at an undervalue) in respect of the lease for an accounting period ending after 5th April 2005 but before 1st April 2009[^c-56db7bb8f366b62fa9c15c54e30d9dce], or
 - (b) there would be such a receipt, but for the operation of section 37(2) or (3) of ICTA (reductions in certain receipts under section 34 or 35 of ICTA).
 
 (4) References to a reduction under section 37(2) or (3) of ICTA in a corporation tax receipt by reference to the amount chargeable on the superior interest are to the difference between—
@@ -48,6 +48,6 @@ so far as attributable to the amount chargeable on the superior interest for the
 
 ## Annotations
 
-[^key-8335231cb192c38b4661fd492b849958]: Textual amendment: Words in s. 67 title inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 595(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/595/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-8335231cb192c38b4661fd492b849958]: Textual amendment: Words in s. 67 title inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 595(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/595/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-56db7bb8f366b62fa9c15c54e30d9dce]: Textual amendment: Words in s. 67(3)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 595(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/595/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-56db7bb8f366b62fa9c15c54e30d9dce]: Textual amendment: Words in s. 67(3)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 595(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/595/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

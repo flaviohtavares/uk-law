@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-a36996f4593f9032f33ebcaba2723728][^key-b24b1c22da74ec4e16a529f4483d9201]
+## 2. Interpretation[^c-a36996f4593f9032f33ebcaba2723728][^c-b24b1c22da74ec4e16a529f4483d9201]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ In these Regulations—
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
 - “**the Committee**” means the Committee of the Security Council established in accordance with paragraph 16 of resolution 2206;
 - “**conduct**” includes acts and omissions;
-- “[^key-30feb33c711f862e50da727b596e5abc]**director disqualification licence**” means a licence under regulation 33A;
+- “[^c-30feb33c711f862e50da727b596e5abc]**director disqualification licence**” means a licence under regulation 33A;
 - “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include producing a copy of the information in legible form;
 - “**the EU South Sudan Regulation**” means Council Regulation (EU) No 2015/735 of 7 May 2015, concerning restrictive measures in respect of the situation in South Sudan, and repealing Regulation (EU) No 748/2014 [^c23619601], as it has effect in EU law;
 - “**resolution 2206**” means resolution 2206 (2015) adopted by the Security Council on 3 March 2015;
@@ -43,15 +43,15 @@ In these Regulations—
 
 ## Annotations
 
-[^key-a36996f4593f9032f33ebcaba2723728]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-a36996f4593f9032f33ebcaba2723728]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-b24b1c22da74ec4e16a529f4483d9201]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/438/regulation/2) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/1/b)
+[^c-b24b1c22da74ec4e16a529f4483d9201]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/438/regulation/2) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/1/b)
 
 [^c23619581]: Marginal citation: A copy of the text of the Agreement on the Resolution of the Conflict in the Republic of South Sudan is available online at https://peacemaker.un.org/node/2676.
 
 [^c23619591]: Marginal citation: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2). Amendments have been made to this Act and are cited, where relevant, in respect of the applicable regulations.
 
-[^key-30feb33c711f862e50da727b596e5abc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/438/regulation/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/4/2)
+[^c-30feb33c711f862e50da727b596e5abc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/438/regulation/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/4/2)
 
 [^c23619601]: Marginal citation: OJ L 117 8.5.2015, p.13.
 

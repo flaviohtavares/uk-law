@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Amount of grants[^key-a4a99c07cb467aa05988d4c85d241be8]
+## 132. Amount of grants[^c-a4a99c07cb467aa05988d4c85d241be8]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4a99c07cb467aa05988d4c85d241be8]: Commencement: [Reg. 132](https://www.legislation.gov.uk/nisr/2007/195/regulation/132) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-a4a99c07cb467aa05988d4c85d241be8]: Commencement: [Reg. 132](https://www.legislation.gov.uk/nisr/2007/195/regulation/132) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

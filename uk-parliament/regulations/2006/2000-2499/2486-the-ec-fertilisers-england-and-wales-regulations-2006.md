@@ -58,7 +58,7 @@ These Regulations may be cited as the EC Fertilisers (England and Wales) Regulat
 
 (1) In these Regulations—
 
-- “the Community Regulation” means Regulation [(EC) 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) of the European Parliament and the Council relating to fertilisers[^f00003] , as last amended by Commission Regulation (EU) 2016/1618[^key-4e34f4f53d5b0a7152d24c794d13d83f]; and
+- “the Community Regulation” means Regulation [(EC) 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) of the European Parliament and the Council relating to fertilisers[^f00003] , as last amended by Commission Regulation (EU) 2016/1618[^c-4e34f4f53d5b0a7152d24c794d13d83f]; and
 - “premises” includes any place, any vehicle or trailer, any container, any stall or moveable structure, and any ship or aircraft.
 
 (2) In these Regulations—
@@ -68,12 +68,12 @@ These Regulations may be cited as the EC Fertilisers (England and Wales) Regulat
 
 ## PART 2 — Composition, labelling and records
 
-### 3. Types of fertiliser for which designation “UK fertiliser” can be used[^key-93845ba1bba2c0fc24a8c3184e08eed1]
+### 3. Types of fertiliser for which designation “UK fertiliser” can be used[^c-93845ba1bba2c0fc24a8c3184e08eed1]
 
-(1) No manufacturer shall place on the market a fertiliser designated as a “UK[^key-a0f07a2128457f9a65f58c3ff194f1f5] fertiliser” unless—
+(1) No manufacturer shall place on the market a fertiliser designated as a “UK[^c-a0f07a2128457f9a65f58c3ff194f1f5] fertiliser” unless—
 
 - (a) it is of a type listed in Annex I; and
-- (b) he is established in accordance with Article 4 (establishment within United Kingdom[^key-bac81bdf2b0c3974cb3a4275b9616d40]).
+- (b) he is established in accordance with Article 4 (establishment within United Kingdom[^c-bac81bdf2b0c3974cb3a4275b9616d40]).
 
 (2) Any person who contravenes paragraph (1) shall be guilty of an offence.
 
@@ -81,14 +81,14 @@ These Regulations may be cited as the EC Fertilisers (England and Wales) Regulat
 
 Any manufacturer who—
 
-- (a) places on the market a fertiliser designated as a UK fertiliser[^key-255d398836dfcd4b3b24c0c89404b26d] the content of which does not comply with the tolerances specified in paragraphs (1) and (3) of Article 13 (tolerances); or
+- (a) places on the market a fertiliser designated as a UK fertiliser[^c-255d398836dfcd4b3b24c0c89404b26d] the content of which does not comply with the tolerances specified in paragraphs (1) and (3) of Article 13 (tolerances); or
 - (b) fails to comply with Article 13(2),
 
 shall be guilty of an offence.
 
-### 5. General provisions relating to identification, marking, labelling and packaging of UK fertilisers[^key-6d48de9150b84a861895c218d5530890]
+### 5. General provisions relating to identification, marking, labelling and packaging of UK fertilisers[^c-6d48de9150b84a861895c218d5530890]
 
-(1) Any manufacturer who places on the market a fertiliser designated as a UK[^key-57b2c48fa7957b64570670d058a0ae4b] fertiliser shall be guilty of an offence unless the identification markings relating to it—
+(1) Any manufacturer who places on the market a fertiliser designated as a UK[^c-57b2c48fa7957b64570670d058a0ae4b] fertiliser shall be guilty of an offence unless the identification markings relating to it—
 
 - (a) are borne as specified in paragraph (1) of Article 9 (markings);
 - (b) comply with Article 9(2);
@@ -96,14 +96,14 @@ shall be guilty of an offence.
 - (d) include the additional instructions called for by Article 9(3) if it is a fluid fertiliser; and
 - (e) have been provided as specified in paragraph (1) of Article 7 (identification).
 
-(2) Any manufacturer who places on the market a packaged fertiliser designated as a UK[^key-516da446738e811e2bb5e29678fc643b] fertiliser shall be guilty of an offence unless—
+(2) Any manufacturer who places on the market a packaged fertiliser designated as a UK[^c-516da446738e811e2bb5e29678fc643b] fertiliser shall be guilty of an offence unless—
 
 - (a) the identification markings appear as specified in the first sentence of Article 7(2);
 - (b) the packaging and labelling of the fertiliser complies with paragraphs (1) and (2) of Article 10 (labelling);
 - (c) the packaging complies with Article 12 (packaging); and
 - (d) the language in which the identification markings appear complies with Article 11 (languages).
 
-(3) Any manufacturer who places on the market a bulk fertiliser designated as a UK[^key-f956ef961be3ecf19f0107fb3d49c87e] fertiliser shall be guilty of an offence unless—
+(3) Any manufacturer who places on the market a bulk fertiliser designated as a UK[^c-f956ef961be3ecf19f0107fb3d49c87e] fertiliser shall be guilty of an offence unless—
 
 - (a) the identification markings appear as specified in the second sentence of Article 7(2);
 - (b) a copy of the documents containing them meets the requirements of Article 10(3); and
@@ -113,7 +113,7 @@ shall be guilty of an offence.
 
 Any manufacturer who places on the market a fertiliser—
 
-- (a) that is designated as a UK[^key-94ef92d414cd101f2bc21a6130ec76ab] fertiliser;
+- (a) that is designated as a UK[^c-94ef92d414cd101f2bc21a6130ec76ab] fertiliser;
 - (b) that is a fertiliser of the type described in Article 16 (scope); and
 - (c) for which a declaration of calcium, magnesium, sodium and sulphur content is made other than—
   - (i) in accordance with Articles 17 (declaration of secondary nutrients in primary nutrient fertilisers), 18 (calcium, magnesium, sodium and sulphur) and 19 (identification), and
@@ -125,7 +125,7 @@ shall be guilty of an offence.
 
 Any manufacturer who places on the market a fertiliser—
 
-- (a) that is designated as a UK[^key-94bb3b355a2f0766db02a46c7ada3589] fertiliser;
+- (a) that is designated as a UK[^c-94bb3b355a2f0766db02a46c7ada3589] fertiliser;
 - (b) that is a fertiliser of the type described in Article 20 (scope);
 - (c) that is not marked in accordance with Article 21 (identification); and
 - (d) for which a declaration of calcium, magnesium, sodium and sulphur content is made otherwise than as specified in Article 6(2)(c),
@@ -136,7 +136,7 @@ shall be guilty of an offence.
 
 Any manufacturer who places on the market a fertiliser that is—
 
-- (a) designated as a UK[^key-6af9f3955ee66a88ab469ac895d69e1b] fertiliser;
+- (a) designated as a UK[^c-6af9f3955ee66a88ab469ac895d69e1b] fertiliser;
 - (b) a fertiliser of the type described in Article 22 (scope);
 - (c) not marked in accordance with Article 23 (identification); and
 - (d) not packaged in accordance with Article 24 (packaging),
@@ -149,11 +149,11 @@ Any manufacturer who fails to comply with the requirements of Article 8 (traceab
 
 ### 10. Compliance notices
 
-(1) This regulation applies where either or both the Secretary of State (in England) and the Welsh Ministers[^key-36e1ed5aa3c6962aa93fff2208138597] (in Wales) is of the opinion that a person is a manufacturer placing on the market fertiliser that does not comply with the Community Regulation, but that person has not committed an offence under regulations 3 to 9.
+(1) This regulation applies where either or both the Secretary of State (in England) and the Welsh Ministers[^c-36e1ed5aa3c6962aa93fff2208138597] (in Wales) is of the opinion that a person is a manufacturer placing on the market fertiliser that does not comply with the Community Regulation, but that person has not committed an offence under regulations 3 to 9.
 
-(2) The Secretary of State and the Welsh Ministers may each serve a notice in writing on the person in question giving reasons why he, or as the case may be, they[^key-74a4c26acc562826d266912f98724d54], is of that opinion and requiring him to take such steps as are specified in the notice within such period (being not less than 14 days except in an emergency) as is so specified.
+(2) The Secretary of State and the Welsh Ministers may each serve a notice in writing on the person in question giving reasons why he, or as the case may be, they[^c-74a4c26acc562826d266912f98724d54], is of that opinion and requiring him to take such steps as are specified in the notice within such period (being not less than 14 days except in an emergency) as is so specified.
 
-(3) The steps to be so specified are steps that the Secretary of State, or the Welsh Ministers, as the case may be, regards as appropriate to cause him, or them[^key-4f1fddca92979704c8d0ee14d52e636d], no longer to be of the opinion in paragraph (1).
+(3) The steps to be so specified are steps that the Secretary of State, or the Welsh Ministers, as the case may be, regards as appropriate to cause him, or them[^c-4f1fddca92979704c8d0ee14d52e636d], no longer to be of the opinion in paragraph (1).
 
 (4) Failure to comply with such a notice is an offence unless the notice has been withdrawn.
 
@@ -184,8 +184,8 @@ Any manufacturer who fails to comply with the requirements of Article 8 (traceab
 
 (2) He may take with him—
 
-- (a) such other persons as he considers necessary; [^key-ed43395fe033f9b8b67588f659928ec9]...
-- (b)[^key-ed43395fe033f9b8b67588f659928ec9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) such other persons as he considers necessary; [^c-ed43395fe033f9b8b67588f659928ec9]...
+- (b)[^c-ed43395fe033f9b8b67588f659928ec9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Admission to any premises used only as a private dwellinghouse shall not be demanded as of right unless 24 hours notice of the intended entry has been given to the occupier, or the entry is in accordance with a warrant granted under this regulation.
 
@@ -222,7 +222,7 @@ the justice may by warrant signed by him authorise the inspector to enter the pr
 
 ### 14. Special provisions relating to compliance notices
 
-(1) The local authority shall give the Secretary of State (in England) and the Welsh Ministers[^key-571b8f0af36f7b35fa8cbda87a779e87] (in Wales) on demand such information as the Secretary of State, or as the case may be, the Welsh Ministers requires in order to exercise any function under regulation 10.
+(1) The local authority shall give the Secretary of State (in England) and the Welsh Ministers[^c-571b8f0af36f7b35fa8cbda87a779e87] (in Wales) on demand such information as the Secretary of State, or as the case may be, the Welsh Ministers requires in order to exercise any function under regulation 10.
 
 (2) Paragraph (3) applies where—
 
@@ -250,7 +250,7 @@ shall be guilty of an offence.
 
 ## PART 4 — Competent laboratories, treatment of samples and further controls
 
-### 16. Competent laboratories[^key-76fcbe663def78e6ee7fcb1174dfda48]
+### 16. Competent laboratories[^c-76fcbe663def78e6ee7fcb1174dfda48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -260,14 +260,14 @@ In any proceedings for an offence under these Regulations in relation to which t
 
 - (a) a court shall not conclude that a sample is representative of the fertiliser unless—
   - (i) the sample has been taken in accordance with Annex IV; and
-  - (ii) it has been subjected to analysis in accordance with Annex IV in a laboratory listed in accordance with [^key-6473288b72d459bdde706e2374c9affc]... Article 30 (laboratories);
+  - (ii) it has been subjected to analysis in accordance with Annex IV in a laboratory listed in accordance with [^c-6473288b72d459bdde706e2374c9affc]... Article 30 (laboratories);
 - (b) a certificate given by a person that he is an inspector and took the sample in accordance with Annex IV shall, unless the contrary is proved, be taken as evidence of his being one and having done so;
-- (c) a certificate given on behalf of a laboratory that it is authorised under Article 30[^key-2fdafaa020399fe24ec2761721156434] and that it analysed the sample in question in accordance with Annex IV shall, unless the contrary is proved, be evidence of it being so authorised and having done so; and
+- (c) a certificate given on behalf of a laboratory that it is authorised under Article 30[^c-2fdafaa020399fe24ec2761721156434] and that it analysed the sample in question in accordance with Annex IV shall, unless the contrary is proved, be evidence of it being so authorised and having done so; and
 - (d) the combination of those certificates shall, unless the contrary is proved, be taken as evidence that the sample is representative of the fertiliser.
 
 ### 18. Remedial action and seizure
 
-(1) Where an inspector has reasonable grounds to believe that a fertiliser designated as a UK[^key-1a0d68df38f9cafef366e169437e7a45] fertiliser is one in relation to which an offence under these Regulations has been committed he may—
+(1) Where an inspector has reasonable grounds to believe that a fertiliser designated as a UK[^c-1a0d68df38f9cafef366e169437e7a45] fertiliser is one in relation to which an offence under these Regulations has been committed he may—
 
 - (a) give to the person whom he considers to be in charge of the fertiliser a notice requiring him to take such action as is specified in the notice; or
 - (b) seize the fertiliser in order to have it dealt with by a justice of the peace.
@@ -290,7 +290,7 @@ In any proceedings for an offence under these Regulations in relation to which t
 
 ### 19. Safeguard measures
 
-(1) Where a risk identified in Article 15 (safeguard clause) applies in relation to a fertiliser covered by that Article, the Secretary of State (in England) and the Welsh Ministers[^key-55c0be5a979d8edc67896e0159e20993] (in Wales), or both, may direct any person whom he or it considers to be in charge of the fertiliser to take such action to mitigate or eliminate the risk as is specified in the direction.
+(1) Where a risk identified in Article 15 (safeguard clause) applies in relation to a fertiliser covered by that Article, the Secretary of State (in England) and the Welsh Ministers[^c-55c0be5a979d8edc67896e0159e20993] (in Wales), or both, may direct any person whom he or it considers to be in charge of the fertiliser to take such action to mitigate or eliminate the risk as is specified in the direction.
 
 (2) A direction shall be given by notice served on the person in question.
 
@@ -380,49 +380,49 @@ No regulatory impact assessment has been prepared in respect of these Regulation
 
 [^f00003]: Footnote: OJ No L304, 21.11.2003, p. 1.
 
-[^key-4e34f4f53d5b0a7152d24c794d13d83f]: Textual amendment: Words in reg. 2(1) inserted (E.) (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2018/942/regulation/44); and inserted (W.) (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [2](https://www.legislation.gov.uk/wsi/2019/463/regulation/2)
+[^c-4e34f4f53d5b0a7152d24c794d13d83f]: Textual amendment: Words in reg. 2(1) inserted (E.) (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2018/942/regulation/44); and inserted (W.) (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [2](https://www.legislation.gov.uk/wsi/2019/463/regulation/2)
 
-[^key-93845ba1bba2c0fc24a8c3184e08eed1]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2006/2486/regulation/3) heading substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93845ba1bba2c0fc24a8c3184e08eed1]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2006/2486/regulation/3) heading substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a0f07a2128457f9a65f58c3ff194f1f5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/3/1) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a0f07a2128457f9a65f58c3ff194f1f5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/3/1) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bac81bdf2b0c3974cb3a4275b9616d40]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/3/1/b) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bac81bdf2b0c3974cb3a4275b9616d40]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/3/1/b) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-255d398836dfcd4b3b24c0c89404b26d]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/4/a) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-255d398836dfcd4b3b24c0c89404b26d]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/4/a) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d48de9150b84a861895c218d5530890]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2006/2486/regulation/5) heading substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d48de9150b84a861895c218d5530890]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2006/2486/regulation/5) heading substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57b2c48fa7957b64570670d058a0ae4b]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/5/1) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57b2c48fa7957b64570670d058a0ae4b]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/5/1) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-516da446738e811e2bb5e29678fc643b]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/5/2) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-516da446738e811e2bb5e29678fc643b]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/5/2) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f956ef961be3ecf19f0107fb3d49c87e]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/5/3) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f956ef961be3ecf19f0107fb3d49c87e]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/5/3) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94ef92d414cd101f2bc21a6130ec76ab]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/6/a) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94ef92d414cd101f2bc21a6130ec76ab]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/6/a) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94bb3b355a2f0766db02a46c7ada3589]: Textual amendment: Words in [reg. 7(a)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/7/a) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94bb3b355a2f0766db02a46c7ada3589]: Textual amendment: Words in [reg. 7(a)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/7/a) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6af9f3955ee66a88ab469ac895d69e1b]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/8/a) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6af9f3955ee66a88ab469ac895d69e1b]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/8/a) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-36e1ed5aa3c6962aa93fff2208138597]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/2486/regulation/10) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/2/a)
+[^c-36e1ed5aa3c6962aa93fff2208138597]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/2486/regulation/10) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/2/a)
 
-[^key-74a4c26acc562826d266912f98724d54]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/10/2) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/3/a)
+[^c-74a4c26acc562826d266912f98724d54]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/10/2) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/3/a)
 
-[^key-4f1fddca92979704c8d0ee14d52e636d]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/10/3) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/3/b)
+[^c-4f1fddca92979704c8d0ee14d52e636d]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/10/3) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/3/b)
 
-[^key-ed43395fe033f9b8b67588f659928ec9]: Textual amendment: [Reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/12/2/b) and word omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed43395fe033f9b8b67588f659928ec9]: Textual amendment: [Reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/12/2/b) and word omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-571b8f0af36f7b35fa8cbda87a779e87]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2006/2486/regulation/14) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/2/b)
+[^c-571b8f0af36f7b35fa8cbda87a779e87]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2006/2486/regulation/14) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/2/b)
 
-[^key-76fcbe663def78e6ee7fcb1174dfda48]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/2486/regulation/16) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/4)
+[^c-76fcbe663def78e6ee7fcb1174dfda48]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2006/2486/regulation/16) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/4)
 
-[^key-6473288b72d459bdde706e2374c9affc]: Textual amendment: Words in [reg. 17(a)(ii)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/17/a/ii) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6473288b72d459bdde706e2374c9affc]: Textual amendment: Words in [reg. 17(a)(ii)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/17/a/ii) omitted (31.12.2020) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2fdafaa020399fe24ec2761721156434]: Textual amendment: Word in [reg. 17(c)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/17/c) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/5)
+[^c-2fdafaa020399fe24ec2761721156434]: Textual amendment: Word in [reg. 17(c)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/17/c) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/5)
 
-[^key-1a0d68df38f9cafef366e169437e7a45]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/18/1) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a0d68df38f9cafef366e169437e7a45]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/2486/regulation/18/1) substituted (31.12.2020) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2019/601/regulation/10/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55c0be5a979d8edc67896e0159e20993]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2006/2486/regulation/19) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/2/c)
+[^c-55c0be5a979d8edc67896e0159e20993]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2006/2486/regulation/19) substituted (15.3.2019) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2019/601/regulation/4/2/c)
 
 [^f00004]: Footnote: [1970 c.40](https://www.legislation.gov.uk/ukpga/1970/40).
 

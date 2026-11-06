@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Persons who may establish scheme.[^key-69897fd94802a4f6e1da3a2f376f3778]
+## 22. Persons who may establish scheme.[^c-69897fd94802a4f6e1da3a2f376f3778]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69897fd94802a4f6e1da3a2f376f3778]: Textual amendment: S. 22 repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 85(3)(b)](https://www.legislation.gov.uk/nia/2008/13/section/85/3/b), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a/c)
+[^c-69897fd94802a4f6e1da3a2f376f3778]: Textual amendment: S. 22 repealed (6.4.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 85(3)(b)](https://www.legislation.gov.uk/nia/2008/13/section/85/3/b), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(a)(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/a/c)

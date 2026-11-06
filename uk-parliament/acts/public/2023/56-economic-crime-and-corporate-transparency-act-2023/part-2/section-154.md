@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Power to amend disqualification legislation in relation to relevant entities: GB[^key-1f76620d830ee77ef85fef9fce201b53]
+## 154. Power to amend disqualification legislation in relation to relevant entities: GB[^c-1f76620d830ee77ef85fef9fce201b53]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ After section 22H of the Company Directors Disqualification Act 1986 insert—
 
 ## Annotations
 
-[^key-1f76620d830ee77ef85fef9fce201b53]: Commencement: S. 154 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-1f76620d830ee77ef85fef9fce201b53]: Commencement: S. 154 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

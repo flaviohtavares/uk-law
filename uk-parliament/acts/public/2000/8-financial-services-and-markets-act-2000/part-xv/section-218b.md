@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218B. Treasury's power to require information from scheme manager[^key-d81e223b9ed5942b3cf7c6066dbb316f]
+## 218B. Treasury's power to require information from scheme manager[^c-d81e223b9ed5942b3cf7c6066dbb316f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d81e223b9ed5942b3cf7c6066dbb316f]: Textual amendment: [S. 218B](https://www.legislation.gov.uk/ukpga/2000/8/section/218B) omitted (29.8.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/62/3), [86(2)(h)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/h)
+[^c-d81e223b9ed5942b3cf7c6066dbb316f]: Textual amendment: [S. 218B](https://www.legislation.gov.uk/ukpga/2000/8/section/218B) omitted (29.8.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/62/3), [86(2)(h)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/h)

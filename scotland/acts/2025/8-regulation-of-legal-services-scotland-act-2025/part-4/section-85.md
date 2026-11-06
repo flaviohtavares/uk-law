@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Removal of requirement to act for fee, gain or reward[^key-deddbb2b8391d42cd210acf543491671]
+## 85. Removal of requirement to act for fee, gain or reward[^c-deddbb2b8391d42cd210acf543491671]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In section 47 (licensed providers) of the 2010 Act, in subsection (1), the follo
 
 ## Annotations
 
-[^key-deddbb2b8391d42cd210acf543491671]: Commencement: S. 85 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-deddbb2b8391d42cd210acf543491671]: Commencement: S. 85 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

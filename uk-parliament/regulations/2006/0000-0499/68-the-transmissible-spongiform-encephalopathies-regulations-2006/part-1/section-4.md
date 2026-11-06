@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Exception for research[^key-3b26edd0ac5161404d2627067b454431]
+## 4. Exception for research[^c-3b26edd0ac5161404d2627067b454431]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b26edd0ac5161404d2627067b454431]: Commencement: Reg. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-3b26edd0ac5161404d2627067b454431]: Commencement: Reg. 4 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
 [^f00009]: Footnote: OJ No. L273, 10.2.2002, p. 1 as last amended by Commission Regulation [(EC) No. 93/2005](https://www.legislation.gov.uk/european/regulation/2005/0093), OJ No. L19, 21.1.2005, p. 34.

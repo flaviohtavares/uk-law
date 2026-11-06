@@ -46,15 +46,15 @@ The Treasury make the following Order in exercise of the powers conferred by par
 
 In accordance with paragraph 21A(7) of Schedule 24 to that Act, a draft of this instrument was laid before the House of Commons and approved by a resolution of that House.
 
-## 1. Citation and commencement[^key-30554df2475298e441a65b6e07594753]
+## 1. Citation and commencement[^c-30554df2475298e441a65b6e07594753]
 
 This Order may be cited as the Penalties, Offshore Income etc. (Designation of Territories) Order 2011 and comes into force on 6th April 2011.
 
-## 2. Designation of territories[^key-c9fb4c21e15deb9569b54a41c58f43cd]
+## 2. Designation of territories[^c-c9fb4c21e15deb9569b54a41c58f43cd]
 
 The territories specified in the left hand column of the Table in the Schedule to this Order are designated as category 1 territories for the purposes of Schedule 24 to the Finance Act 2007[^f00002] (penalties for errors).
 
-**3.**[^key-798dc03b710310c7f1190c0697308fb7] The territories specified in the right hand column of the Table in the Schedule to this Order are designated as category 3 territories for the purposes of Schedule 24 to the Finance Act 2007.
+**3.**[^c-798dc03b710310c7f1190c0697308fb7] The territories specified in the right hand column of the Table in the Schedule to this Order are designated as category 3 territories for the purposes of Schedule 24 to the Finance Act 2007.
 
 Michael Fabricant
 
@@ -64,7 +64,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 28th March 2011
 
-## SCHEDULE[^key-0151e728b780767957344844f9f86441]
+## SCHEDULE[^c-0151e728b780767957344844f9f86441]
 
 Articles 2 and 3
 
@@ -72,7 +72,7 @@ Designated Territories
 
 | Category 1 territories | Category 3 territories |
 | --- | --- |
-| Anguilla<br>Aruba<br>Australia<br>Belgium<br>Bulgaria<br>Canada<br>Cayman Islands<br>Cyprus<br>Czech Republic<br>Denmark (not including Faroe Islands and Greenland)<br>Estonia<br>Finland<br>France<br>Germany<br>Greece<br>Guernsey<br>Hungary<br>Ireland<br>Isle of Man<br>Italy<br>Japan<br>Korea, South<br>Latvia<br>Liechtenstein[^key-86a47b0ef9ace9bfc7a922d38c785fc2]<br>Lithuania<br>Malta<br>Montserrat<br>Netherlands (not including Bonaire, Sint Eustatius and Saba)<br>New Zealand (not including Tokelau)<br>Norway<br>Poland<br>Portugal<br>Romania<br>Slovakia<br>Slovenia<br>Spain<br>Sweden<br>Switzerland<br>United States of America (not including overseas territories and possessions) | Albania<br>Algeria<br>Andorra<br>[^key-d2248026333b598179928823f4f8fb10]...<br>[^key-d2248026333b598179928823f4f8fb10]...<br>[^key-d2248026333b598179928823f4f8fb10]...<br>[^key-d2248026333b598179928823f4f8fb10]...<br>[^key-d2248026333b598179928823f4f8fb10]...<br>Bonaire, Sint Eustatius and Saba<br>Brazil<br>Cameroon<br>Cape Verde<br>Colombia<br>Congo, Republic of the<br>Cook Islands<br>Costa Rica<br>Curaçao<br>Cuba<br>Democratic People’s Republic of Korea<br>[^key-d2248026333b598179928823f4f8fb10]...<br>Dominican Republic<br>Ecuador<br>El Salvador<br>Gabon<br>[^key-d2248026333b598179928823f4f8fb10]...<br>Guatemala<br>Honduras<br>Iran<br>Iraq<br>Jamaica<br>Kyrgyzstan<br>Lebanon<br>Macau<br>Marshall Islands<br>[^key-d2248026333b598179928823f4f8fb10]...<br>Micronesia, Federated States of<br>Monaco<br>Nauru<br>Nicaragua<br>Niue<br>Palau<br>Panama<br>Paraguay<br>Peru<br>[^key-d2248026333b598179928823f4f8fb10]...<br>[^key-d2248026333b598179928823f4f8fb10]...<br>[^key-d2248026333b598179928823f4f8fb10]...<br>[^key-d2248026333b598179928823f4f8fb10]...<br>Seychelles<br>Sint Maarten<br>Suriname<br>Syria<br>Tokelau<br>Tonga<br>Trinidad and Tobago<br>United Arab Emirates<br>Uruguay |
+| Anguilla<br>Aruba<br>Australia<br>Belgium<br>Bulgaria<br>Canada<br>Cayman Islands<br>Cyprus<br>Czech Republic<br>Denmark (not including Faroe Islands and Greenland)<br>Estonia<br>Finland<br>France<br>Germany<br>Greece<br>Guernsey<br>Hungary<br>Ireland<br>Isle of Man<br>Italy<br>Japan<br>Korea, South<br>Latvia<br>Liechtenstein[^c-86a47b0ef9ace9bfc7a922d38c785fc2]<br>Lithuania<br>Malta<br>Montserrat<br>Netherlands (not including Bonaire, Sint Eustatius and Saba)<br>New Zealand (not including Tokelau)<br>Norway<br>Poland<br>Portugal<br>Romania<br>Slovakia<br>Slovenia<br>Spain<br>Sweden<br>Switzerland<br>United States of America (not including overseas territories and possessions) | Albania<br>Algeria<br>Andorra<br>[^c-d2248026333b598179928823f4f8fb10]...<br>[^c-d2248026333b598179928823f4f8fb10]...<br>[^c-d2248026333b598179928823f4f8fb10]...<br>[^c-d2248026333b598179928823f4f8fb10]...<br>[^c-d2248026333b598179928823f4f8fb10]...<br>Bonaire, Sint Eustatius and Saba<br>Brazil<br>Cameroon<br>Cape Verde<br>Colombia<br>Congo, Republic of the<br>Cook Islands<br>Costa Rica<br>Curaçao<br>Cuba<br>Democratic People’s Republic of Korea<br>[^c-d2248026333b598179928823f4f8fb10]...<br>Dominican Republic<br>Ecuador<br>El Salvador<br>Gabon<br>[^c-d2248026333b598179928823f4f8fb10]...<br>Guatemala<br>Honduras<br>Iran<br>Iraq<br>Jamaica<br>Kyrgyzstan<br>Lebanon<br>Macau<br>Marshall Islands<br>[^c-d2248026333b598179928823f4f8fb10]...<br>Micronesia, Federated States of<br>Monaco<br>Nauru<br>Nicaragua<br>Niue<br>Palau<br>Panama<br>Paraguay<br>Peru<br>[^c-d2248026333b598179928823f4f8fb10]...<br>[^c-d2248026333b598179928823f4f8fb10]...<br>[^c-d2248026333b598179928823f4f8fb10]...<br>[^c-d2248026333b598179928823f4f8fb10]...<br>Seychelles<br>Sint Maarten<br>Suriname<br>Syria<br>Tokelau<br>Tonga<br>Trinidad and Tobago<br>United Arab Emirates<br>Uruguay |
 
 EXPLANATORY NOTE
 
@@ -94,16 +94,16 @@ A full Impact Assessment has not been produced for this instrument as a negligib
 
 [^f00001]: Footnote: [2007 c. 11](https://www.legislation.gov.uk/ukpga/2007/11). Paragraph 21A of Schedule 24 to the Finance Act 2007 is inserted by paragraphs 1 and 5 of Schedule 10 to the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13) from a day to be appointed.
 
-[^key-30554df2475298e441a65b6e07594753]: Commencement: Art. 1 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/976/article/1)
+[^c-30554df2475298e441a65b6e07594753]: Commencement: Art. 1 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/976/article/1)
 
-[^key-c9fb4c21e15deb9569b54a41c58f43cd]: Commencement: Art. 2 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/976/article/1)
+[^c-c9fb4c21e15deb9569b54a41c58f43cd]: Commencement: Art. 2 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/976/article/1)
 
 [^f00002]: Footnote: See also paragraph 6A(7) of Schedule 41 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) (penalties: failure to notify and certain VAT and excise wrongdoing) and paragraph 6A(7) of Schedule 55 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10) (penalties for failure to make returns etc). Paragraph 6A(7) of Schedule 41 to the Finance Act 2008 and paragraph 6A(7) of Schedule 55 to the Finance Act 2009 are inserted by paragraphs 8 and 12, respectively, of Schedule 10 to the Finance Act 2010 from a day to be appointed.
 
-[^key-798dc03b710310c7f1190c0697308fb7]: Commencement: Art. 3 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/976/article/1)
+[^c-798dc03b710310c7f1190c0697308fb7]: Commencement: Art. 3 in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/976/article/1)
 
-[^key-0151e728b780767957344844f9f86441]: Commencement: Sch. in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/976/article/1)
+[^c-0151e728b780767957344844f9f86441]: Commencement: Sch. in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/976/article/1)
 
-[^key-86a47b0ef9ace9bfc7a922d38c785fc2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2011/976/schedule) Table inserted (24.7.2013) by [The Penalties, Offshore Income etc. (Designation of Territories) (Amendment) Order 2013 (S.I. 2013/1618)](https://www.legislation.gov.uk/uksi/2013/1618), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1618/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/1618/article/2/a)
+[^c-86a47b0ef9ace9bfc7a922d38c785fc2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2011/976/schedule) Table inserted (24.7.2013) by [The Penalties, Offshore Income etc. (Designation of Territories) (Amendment) Order 2013 (S.I. 2013/1618)](https://www.legislation.gov.uk/uksi/2013/1618), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1618/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2013/1618/article/2/a)
 
-[^key-d2248026333b598179928823f4f8fb10]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2011/976/schedule) Table omitted (24.7.2013) by virtue of [The Penalties, Offshore Income etc. (Designation of Territories) (Amendment) Order 2013 (S.I. 2013/1618)](https://www.legislation.gov.uk/uksi/2013/1618), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1618/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/1618/article/2/b)
+[^c-d2248026333b598179928823f4f8fb10]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2011/976/schedule) Table omitted (24.7.2013) by virtue of [The Penalties, Offshore Income etc. (Designation of Territories) (Amendment) Order 2013 (S.I. 2013/1618)](https://www.legislation.gov.uk/uksi/2013/1618), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1618/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/1618/article/2/b)

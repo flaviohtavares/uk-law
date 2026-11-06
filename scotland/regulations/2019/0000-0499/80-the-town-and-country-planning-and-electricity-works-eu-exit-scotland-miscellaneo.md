@@ -50,15 +50,15 @@ Coming into force in accordance with regulation 1
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act 2018 [^c23617451] and all other powers enabling them to do so.
 
-## 1. Citation and Commencement[^key-d9625a8cdcd7edc094cb59544788ec87]
+## 1. Citation and Commencement[^c-d9625a8cdcd7edc094cb59544788ec87]
 
-These Regulations may be cited as the Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 and come into force on IP completion day.[^key-1ce8ab42cb7ba779ded1e4593c81c701]
+These Regulations may be cited as the Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 and come into force on IP completion day.[^c-1ce8ab42cb7ba779ded1e4593c81c701]
 
-## 2. Amendment of the Town and Country Planning (Development Planning) (Scotland) Regulations 2008[^key-64cece50111683f81b330235874aa228]
+## 2. Amendment of the Town and Country Planning (Development Planning) (Scotland) Regulations 2008[^c-64cece50111683f81b330235874aa228]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013[^key-f0d33c0f04af1abebc159ad3e7fd2e5a]
+## 3. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013[^c-f0d33c0f04af1abebc159ad3e7fd2e5a]
 
 (1) The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 [^c23617481] are amended as follows.
 
@@ -66,10 +66,10 @@ These Regulations may be cited as the Town and Country Planning and Electricity 
 
 (3) In schedule 5 (consultation by the planning authority)—
 
-- (a) in paragraph 4(b) at the end insert “ , as Directive 2012/18/EU had effect immediately before IP completion day[^key-22fa9c78a3a94537299fd12c7b0d43e1] ”,
-- (b) in paragraph (2) of the text under the heading “Interpretation of Schedule 5”, at the end insert “ , as it had effect immediately before IP completion day[^key-f5d2093fecb08761276209283d782049] ”.
+- (a) in paragraph 4(b) at the end insert “ , as Directive 2012/18/EU had effect immediately before IP completion day[^c-22fa9c78a3a94537299fd12c7b0d43e1] ”,
+- (b) in paragraph (2) of the text under the heading “Interpretation of Schedule 5”, at the end insert “ , as it had effect immediately before IP completion day[^c-f5d2093fecb08761276209283d782049] ”.
 
-## 4. Amendment of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015[^key-922eeb9c76aae7c616e6959874bcc538]
+## 4. Amendment of the Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015[^c-922eeb9c76aae7c616e6959874bcc538]
 
 (1) The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 [^c23617491] are amended as follows.
 
@@ -81,8 +81,8 @@ These Regulations may be cited as the Town and Country Planning and Electricity 
     > “**the 2015 Regulations**” means the Control of Major Accident Hazards Regulations 2015;
 
     ,
-  - (ii) in the definition of “the Directive” at the end insert “ , as Directive 2012/18/EU had effect immediately before IP completion day[^key-e69630d20a4a5ff8e67e6b5dbad42ec5] ”,
-- (b) in paragraph (2), for “amended from time to time” substitute “ as it had effect immediately before IP completion day[^key-a9d29054c20334bd5ae0e4a37cce4e74] ”.
+  - (ii) in the definition of “the Directive” at the end insert “ , as Directive 2012/18/EU had effect immediately before IP completion day[^c-e69630d20a4a5ff8e67e6b5dbad42ec5] ”,
+- (b) in paragraph (2), for “amended from time to time” substitute “ as it had effect immediately before IP completion day[^c-a9d29054c20334bd5ae0e4a37cce4e74] ”.
 
 (3) In regulation 6(2)(e) (applications for hazardous substances consent), from “consultations” to the end substitute “ a requirement to provide information by virtue of regulation 20 of the 2015 Regulations ”.
 
@@ -96,20 +96,20 @@ These Regulations may be cited as the Town and Country Planning and Electricity 
 
 (8) In regulation 23(2)(a)(ii) (other planning approvals for projects), from “consultations” to the end substitute “ a requirement to provide information by virtue of regulation 20 of the 2015 Regulations ”.
 
-(9) In regulation 57 (access to review procedure before a court), after “Directive” insert “ as it had effect immediately before IP completion day[^key-cdfe6ed62b18766645c9b66ccd9c2eaf] .”.
+(9) In regulation 57 (access to review procedure before a court), after “Directive” insert “ as it had effect immediately before IP completion day[^c-cdfe6ed62b18766645c9b66ccd9c2eaf] .”.
 
-(10) In regulation 60(2) (applications made before the commencement date) for “consultations between Member States in accordance with Article 14(3) of the Directive” substitute “ a requirement to provide information by virtue of Article 14(3) of the Directive as it had effect immediately before IP completion day[^key-c02b904c87d0584990e87c7cf69e9e6f] ”.
+(10) In regulation 60(2) (applications made before the commencement date) for “consultations between Member States in accordance with Article 14(3) of the Directive” substitute “ a requirement to provide information by virtue of Article 14(3) of the Directive as it had effect immediately before IP completion day[^c-c02b904c87d0584990e87c7cf69e9e6f] ”.
 
-(11) In Part 2 of schedule 1 (hazardous substances and controlled quantities), in paragraph 12(1) of the Notes to Parts 1 and 2, after “relating to aerosol dispensers” insert “ , as that Directive had effect immediately before IP completion day[^key-745462a3634fef982289924f57ba4588] ”.
+(11) In Part 2 of schedule 1 (hazardous substances and controlled quantities), in paragraph 12(1) of the Notes to Parts 1 and 2, after “relating to aerosol dispensers” insert “ , as that Directive had effect immediately before IP completion day[^c-745462a3634fef982289924f57ba4588] ”.
 
-## 5. Amendment of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017[^key-6ef83024562fe1c8d6923d6503b1d45d]
+## 5. Amendment of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017[^c-6ef83024562fe1c8d6923d6503b1d45d]
 
 (1) The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 [^c23617501] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
-- (a) at the end of the definition of “the CCS Directive” insert “ , as Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) had effect immediately before IP completion day[^key-fec05194d50d81637ed2803232caf4a1] ”,
-- (b) at the end of the definition of “the Directive” insert “ , as it had effect immediately before IP completion day[^key-2675b44fbeaf88edf59399335782fd46] ”,
+- (a) at the end of the definition of “the CCS Directive” insert “ , as Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) had effect immediately before IP completion day[^c-fec05194d50d81637ed2803232caf4a1] ”,
+- (b) at the end of the definition of “the Directive” insert “ , as it had effect immediately before IP completion day[^c-2675b44fbeaf88edf59399335782fd46] ”,
 - (c) after the definition of “site of special scientific interest” insert “ and ”,
 - (d) omit the definition of “Union legislation” and “and” immediately preceding it.
 
@@ -150,8 +150,8 @@ These Regulations may be cited as the Town and Country Planning and Electricity 
   > (6A) The 2011 regulations are to be read as if—
   >
   > - (a) in regulation 2(1) (interpretation)—
-  >   - (i) at the end of the definition of “the CCS Directive” the words “, as Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) had effect immediately before IP completion day[^key-11160ffb98cfc661c94398ee5072bd5d] ” were inserted,
-  >   - (ii) at the end of the definition of “the Directive” the words “, as it had effect immediately before IP completion day[^key-5e275ec87f11408e535cf12ec12cf3cd] ” were inserted,
+  >   - (i) at the end of the definition of “the CCS Directive” the words “, as Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) had effect immediately before IP completion day[^c-11160ffb98cfc661c94398ee5072bd5d] ” were inserted,
+  >   - (ii) at the end of the definition of “the Directive” the words “, as it had effect immediately before IP completion day[^c-5e275ec87f11408e535cf12ec12cf3cd] ” were inserted,
   > - (b) in regulation 5(4) (general provisions relating to screening), for “, in accordance with Article 2(4) of the Directive (but without prejudice to Article 7 of the Directive),” there were substituted “ in exceptional cases ”,
   > - (c) in regulation 36 (development in Scotland likely to have significant effects in an EEA other than the United Kingdom)—
   >   - (i) in the heading, the words “other than the United Kingdom” were omitted,
@@ -182,9 +182,9 @@ These Regulations may be cited as the Town and Country Planning and Electricity 
 
 - (a) in paragraph 9—
   - (i) after “certain Directives” insert “ , as that Directive had effect immediately before IP completion day , ”,
-  - (ii) after “of that Directive” insert “ , as it had effect immediately before IP completion day[^key-bf905976e701e956b4369af9d9a0fa9a] ”,
-- (b) in paragraph 10 after Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)” insert “ , as that Directive had effect immediately before IP completion day[^key-b55b6c6c8b841854910665d7ebdbe73e] , ”,
-- (c) in paragraph 13 after “urban waste-water treatment” insert “ , as that Directive had effect immediately before IP completion day[^key-e8b28cab015348252af6f7778e8ec853] ”,
+  - (ii) after “of that Directive” insert “ , as it had effect immediately before IP completion day[^c-bf905976e701e956b4369af9d9a0fa9a] ”,
+- (b) in paragraph 10 after Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)” insert “ , as that Directive had effect immediately before IP completion day[^c-b55b6c6c8b841854910665d7ebdbe73e] , ”,
+- (c) in paragraph 13 after “urban waste-water treatment” insert “ , as that Directive had effect immediately before IP completion day[^c-e8b28cab015348252af6f7778e8ec853] ”,
 - (d) in paragraph 22 after “pursuant to” insert “ Chapter 3 of Part 1 of the Energy Act 2008 and any law of any part of the United Kingdom that implemented ”,
 - (e) in paragraph 23 for “pursuant to the CCS Directive” insert “ (pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and any law of any part of the United Kingdom that implemented the CCS Directive) ”.
 
@@ -195,19 +195,19 @@ These Regulations may be cited as the Town and Country Planning and Electricity 
 (14) In schedule 4 (information for inclusion in environmental impact assessment reports)—
 
 - (a) in paragraph 5—
-  - (i) for “or Member State level” substitute “ level (as they had effect immediately before IP completion day[^key-6f2f475b49fb5ce1a834c0c056a31aec]) or United Kingdom level[^key-ceabe69e8460b494efe862d31270b089] ",
+  - (i) for “or Member State level” substitute “ level (as they had effect immediately before IP completion day[^c-6f2f475b49fb5ce1a834c0c056a31aec]) or United Kingdom level[^c-ceabe69e8460b494efe862d31270b089] ",
   - (ii) after “those established under” insert “ the law of any part of the United Kingdom that implemented ”.
 - (b) in paragraph 8—
   - (i) for “legislation of the European Union such as” substitute “ retained EU law such as any law that implemented ”,
   - (ii) after “requirements of” insert “ any law that implemented ”.
 
-## 6. Amendment of the Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017[^key-ab9e20ef70d2f1bd15b8d851f9f786df]
+## 6. Amendment of the Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017[^c-ab9e20ef70d2f1bd15b8d851f9f786df]
 
 (1) The Electricity Works (Environmental Impact Assessment) (Scotland) Regulations 2017 [^c23617521] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
-- (a) at the end of the definition of “the Directive” add “, as it had effect immediately before IP completion day[^key-6b4ced3e14ace58c32d626699ac42156]”,
+- (a) at the end of the definition of “the Directive” add “, as it had effect immediately before IP completion day[^c-6b4ced3e14ace58c32d626699ac42156]”,
 - (b) after the definition of “supplementary information” insert “ and ”,
 - (c) omit the definition of “Union legislation” and “and” immediately following it.
 
@@ -247,7 +247,7 @@ These Regulations may be cited as the Town and Country Planning and Electricity 
 (11) In schedule 4 (information for inclusion in environmental impact assessment reports)—
 
 - (a) in paragraph 5—
-  - (i) for “or Member State level” substitute “ level (as they had effect immediately before IP completion day[^key-c783e6859a99bebc6335e0cb5798cc7d]) or United Kingdom level[^key-a69412c8423e8bf7a1f9bcc00c7a99f5]",
+  - (i) for “or Member State level” substitute “ level (as they had effect immediately before IP completion day[^c-c783e6859a99bebc6335e0cb5798cc7d]) or United Kingdom level[^c-a69412c8423e8bf7a1f9bcc00c7a99f5]",
   - (ii) after “those established under” insert “ the law of any part of the United Kingdom that implemented ”,
 - (b) in paragraph 8—
   - (i) for “legislation of the European Union such as” substitute “ retained EU law such as any law that implemented ”,
@@ -275,64 +275,64 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23617451]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-d9625a8cdcd7edc094cb59544788ec87]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
+[^c-d9625a8cdcd7edc094cb59544788ec87]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
 
-[^key-1ce8ab42cb7ba779ded1e4593c81c701]: Textual amendment: Words in reg. 1 substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2)
+[^c-1ce8ab42cb7ba779ded1e4593c81c701]: Textual amendment: Words in reg. 1 substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2)
 
-[^key-64cece50111683f81b330235874aa228]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/80/regulation/2) revoked (19.5.2023) by [The Town and Country Planning (Development Planning) (Scotland) Regulations 2023 (S.S.I. 2023/101)](https://www.legislation.gov.uk/ssi/2023/101), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2023/101/schedule/4)
+[^c-64cece50111683f81b330235874aa228]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/80/regulation/2) revoked (19.5.2023) by [The Town and Country Planning (Development Planning) (Scotland) Regulations 2023 (S.S.I. 2023/101)](https://www.legislation.gov.uk/ssi/2023/101), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/101/regulation/1/1), [sch. 4](https://www.legislation.gov.uk/ssi/2023/101/schedule/4)
 
-[^key-f0d33c0f04af1abebc159ad3e7fd2e5a]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
+[^c-f0d33c0f04af1abebc159ad3e7fd2e5a]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
 
 [^c23617481]: Marginal citation: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155); relevant amending instrument is [S.S.I. 2015/181](https://www.legislation.gov.uk/ssi/2015/181).
 
-[^key-22fa9c78a3a94537299fd12c7b0d43e1]: Textual amendment: Words in reg. 3(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/4)
+[^c-22fa9c78a3a94537299fd12c7b0d43e1]: Textual amendment: Words in reg. 3(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/4)
 
-[^key-f5d2093fecb08761276209283d782049]: Textual amendment: Words in reg. 3(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/4)
+[^c-f5d2093fecb08761276209283d782049]: Textual amendment: Words in reg. 3(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/4)
 
-[^key-922eeb9c76aae7c616e6959874bcc538]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
+[^c-922eeb9c76aae7c616e6959874bcc538]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
 
 [^c23617491]: Marginal citation: [S.S.I. 2015/181](https://www.legislation.gov.uk/ssi/2015/181) to which there are amendments which are not relevant to these Regulations.
 
-[^key-e69630d20a4a5ff8e67e6b5dbad42ec5]: Textual amendment: Words in reg. 4(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
+[^c-e69630d20a4a5ff8e67e6b5dbad42ec5]: Textual amendment: Words in reg. 4(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
 
-[^key-a9d29054c20334bd5ae0e4a37cce4e74]: Textual amendment: Words in reg. 4(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
+[^c-a9d29054c20334bd5ae0e4a37cce4e74]: Textual amendment: Words in reg. 4(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
 
-[^key-cdfe6ed62b18766645c9b66ccd9c2eaf]: Textual amendment: Words in reg. 4(9) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
+[^c-cdfe6ed62b18766645c9b66ccd9c2eaf]: Textual amendment: Words in reg. 4(9) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
 
-[^key-c02b904c87d0584990e87c7cf69e9e6f]: Textual amendment: Words in reg. 4(10) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
+[^c-c02b904c87d0584990e87c7cf69e9e6f]: Textual amendment: Words in reg. 4(10) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
 
-[^key-745462a3634fef982289924f57ba4588]: Textual amendment: Words in reg. 4(11) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
+[^c-745462a3634fef982289924f57ba4588]: Textual amendment: Words in reg. 4(11) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/5)
 
-[^key-6ef83024562fe1c8d6923d6503b1d45d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
+[^c-6ef83024562fe1c8d6923d6503b1d45d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
 
 [^c23617501]: Marginal citation: [S.S.I. 2017/102](https://www.legislation.gov.uk/ssi/2017/102) as amended by [S.S.I. 2017/168](https://www.legislation.gov.uk/ssi/2017/168).
 
-[^key-fec05194d50d81637ed2803232caf4a1]: Textual amendment: Words in reg. 5(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
+[^c-fec05194d50d81637ed2803232caf4a1]: Textual amendment: Words in reg. 5(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
 
-[^key-2675b44fbeaf88edf59399335782fd46]: Textual amendment: Words in reg. 5(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
+[^c-2675b44fbeaf88edf59399335782fd46]: Textual amendment: Words in reg. 5(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
 
-[^key-11160ffb98cfc661c94398ee5072bd5d]: Textual amendment: Words in reg. 5(10)(c) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/274)](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11160ffb98cfc661c94398ee5072bd5d]: Textual amendment: Words in reg. 5(10)(c) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/274)](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e275ec87f11408e535cf12ec12cf3cd]: Textual amendment: Words in reg. 5(10)(c) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
+[^c-5e275ec87f11408e535cf12ec12cf3cd]: Textual amendment: Words in reg. 5(10)(c) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
 
 [^c23617511]: Marginal citation: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-bf905976e701e956b4369af9d9a0fa9a]: Textual amendment: Words in reg. 5(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
+[^c-bf905976e701e956b4369af9d9a0fa9a]: Textual amendment: Words in reg. 5(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
 
-[^key-b55b6c6c8b841854910665d7ebdbe73e]: Textual amendment: Words in reg. 5(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
+[^c-b55b6c6c8b841854910665d7ebdbe73e]: Textual amendment: Words in reg. 5(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
 
-[^key-e8b28cab015348252af6f7778e8ec853]: Textual amendment: Words in reg. 5(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
+[^c-e8b28cab015348252af6f7778e8ec853]: Textual amendment: Words in reg. 5(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
 
-[^key-6f2f475b49fb5ce1a834c0c056a31aec]: Textual amendment: Words in reg. 5(14)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
+[^c-6f2f475b49fb5ce1a834c0c056a31aec]: Textual amendment: Words in reg. 5(14)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/6)
 
-[^key-ceabe69e8460b494efe862d31270b089]: Textual amendment: Word in reg. 5(14)(a)(i) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/274)](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ceabe69e8460b494efe862d31270b089]: Textual amendment: Word in reg. 5(14)(a)(i) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/274)](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab9e20ef70d2f1bd15b8d851f9f786df]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
+[^c-ab9e20ef70d2f1bd15b8d851f9f786df]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see reg. 1 (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2))
 
 [^c23617521]: Marginal citation: [S.S.I. 2017/101](https://www.legislation.gov.uk/ssi/2017/101), as amended by [S.S.I. 2017/168](https://www.legislation.gov.uk/ssi/2017/168) and [S.S.I. 2017/451](https://www.legislation.gov.uk/ssi/2017/451).
 
-[^key-6b4ced3e14ace58c32d626699ac42156]: Textual amendment: Words in reg. 6(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/7)
+[^c-6b4ced3e14ace58c32d626699ac42156]: Textual amendment: Words in reg. 6(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/7)
 
-[^key-c783e6859a99bebc6335e0cb5798cc7d]: Textual amendment: Words in reg. 6(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/7)
+[^c-c783e6859a99bebc6335e0cb5798cc7d]: Textual amendment: Words in reg. 6(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/7)
 
-[^key-a69412c8423e8bf7a1f9bcc00c7a99f5]: Textual amendment: Word in reg. 6(11)(a)(i) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/274)](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a69412c8423e8bf7a1f9bcc00c7a99f5]: Textual amendment: Word in reg. 6(11)(a)(i) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/274)](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to subsection (2) below, any amendment of the rules of a society or branch as for the time being registered under this Act shall not be valid until the amendment has been so registered, and for this purpose copies of the amendment, signed by three members and the secretary of the society or of the branch, as the case may be, shall be sent to the FCA[^key-e8186ed70f77b08822fb06838b294fe9].
+(1) Subject to subsection (2) below, any amendment of the rules of a society or branch as for the time being registered under this Act shall not be valid until the amendment has been so registered, and for this purpose copies of the amendment, signed by three members and the secretary of the society or of the branch, as the case may be, shall be sent to the FCA[^c-e8186ed70f77b08822fb06838b294fe9].
 
 (2) Subsection (1) above shall not apply to a change in the situation of the registered office of a society or branch, but—
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8186ed70f77b08822fb06838b294fe9]: Textual amendment: Words in s. 18 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(d)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/d) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-e8186ed70f77b08822fb06838b294fe9]: Textual amendment: Words in s. 18 substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(d)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/d) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^M_F_b61fbd09-5ad5-4516-ef9d-a7806cce7f75]: Textual amendment: Words in s. 18(2)(b) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. I para. 6(b)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/I/paragraph/6/b) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)

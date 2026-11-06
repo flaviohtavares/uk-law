@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, commencement and interpretation[^key-4731d8b423f5d8a4b088ea24bc18eddb]
+## 1. Title, commencement and interpretation[^c-4731d8b423f5d8a4b088ea24bc18eddb]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4731d8b423f5d8a4b088ea24bc18eddb]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2005/3238/article/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
+[^c-4731d8b423f5d8a4b088ea24bc18eddb]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2005/3238/article/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)

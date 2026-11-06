@@ -31,10 +31,10 @@ summary: ''
 
 of 29 July 1983 relating to a proceeding under Article 86 of the EEC Treaty (IV/30.698 - ECS/AKZO: interim measures) (Only the English text is authentic) (repealed)
 
-[^key-dc1ce7ad8dc3b1e58b82cdf99809ad1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc1ce7ad8dc3b1e58b82cdf99809ad1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-dc1ce7ad8dc3b1e58b82cdf99809ad1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-dc1ce7ad8dc3b1e58b82cdf99809ad1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc1ce7ad8dc3b1e58b82cdf99809ad1d]: Textual amendment: Decision terminated (14.12.1985) by virtue of Art. 8 and [85/609/EEC: Commission Decision of 14 December 1985 relating to a proceeding under Article 86 of the EEC Treaty (IV/30.698 - ECS/AKZO) (Only the Dutch text is authentic)](https://www.legislation.gov.uk/eudn/1985/609), Art. 7; and Decision expressed to be revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc1ce7ad8dc3b1e58b82cdf99809ad1d]: Textual amendment: Decision terminated (14.12.1985) by virtue of Art. 8 and [85/609/EEC: Commission Decision of 14 December 1985 relating to a proceeding under Article 86 of the EEC Treaty (IV/30.698 - ECS/AKZO) (Only the Dutch text is authentic)](https://www.legislation.gov.uk/eudn/1985/609), Art. 7; and Decision expressed to be revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

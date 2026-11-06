@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Service of notices[^key-4d0cce9d6c2fb309841d96b4f762b775]
+## 46. Service of notices[^c-4d0cce9d6c2fb309841d96b4f762b775]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d0cce9d6c2fb309841d96b4f762b775]: Commencement: Art. 46 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-4d0cce9d6c2fb309841d96b4f762b775]: Commencement: Art. 46 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
 [^f00054]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

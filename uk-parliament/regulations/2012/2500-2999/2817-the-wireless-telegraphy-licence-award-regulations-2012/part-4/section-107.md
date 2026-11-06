@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Notification of results of assignment stage[^key-76009c31c81bac1928cf11b8069e12f5]
+## 107. Notification of results of assignment stage[^c-76009c31c81bac1928cf11b8069e12f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Following the determination of the winning assignment stage bids, and the determ
 
 ## Annotations
 
-[^key-76009c31c81bac1928cf11b8069e12f5]: Commencement: Reg. 107 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-76009c31c81bac1928cf11b8069e12f5]: Commencement: Reg. 107 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

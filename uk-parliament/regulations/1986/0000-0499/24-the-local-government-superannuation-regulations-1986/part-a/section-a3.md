@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## A3. Application of regulations to Isles of Scilly[^key-a329964529cd431ffe8c3ec64719d436]
+## A3. Application of regulations to Isles of Scilly[^c-a329964529cd431ffe8c3ec64719d436]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These regulations apply to the Isles of Scilly as if the Isles of Scilly were a 
 
 ## Annotations
 
-[^key-a329964529cd431ffe8c3ec64719d436]: Commencement: [Reg. A3](https://www.legislation.gov.uk/uksi/1986/24/regulation/A3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-a329964529cd431ffe8c3ec64719d436]: Commencement: [Reg. A3](https://www.legislation.gov.uk/uksi/1986/24/regulation/A3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -41,7 +41,7 @@ the local authority may by notice require the owner of the site or land to take 
 
 (4) This section does not apply to an advertisement as defined in section 336(1) of the Town and Country Planning Act 1990[^c927991].
 
-(5)[^c928001] This section has effect subject to section 79A and to[^key-e1014f8e7bc6a1aa085f179f718072db] the provisions of the Planning (Listed Buildings and Conservation Areas) Act 1990[^c928011] relating to listed buildings, buildings subject to building preservation notices and buildings in conservation areas.
+(5)[^c928001] This section has effect subject to section 79A and to[^c-e1014f8e7bc6a1aa085f179f718072db] the provisions of the Planning (Listed Buildings and Conservation Areas) Act 1990[^c928011] relating to listed buildings, buildings subject to building preservation notices and buildings in conservation areas.
 
 ## Annotations
 
@@ -53,6 +53,6 @@ the local authority may by notice require the owner of the site or land to take 
 
 [^c928001]: Textual amendment: [S. 79(5)](https://www.legislation.gov.uk/ukpga/1984/55/section/79/5) inserted by [Housing and Planning Act 1986 (c. 63, SIF 15)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 40](https://www.legislation.gov.uk/ukpga/1986/63/section/40), [Sch. 9 para. 6(2)](https://www.legislation.gov.uk/ukpga/1986/63/schedule/9/paragraph/6/2)
 
-[^key-e1014f8e7bc6a1aa085f179f718072db]: Textual amendment: Words in [s. 79(5)](https://www.legislation.gov.uk/ukpga/1984/55/section/79/5) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 64](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/64) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-e1014f8e7bc6a1aa085f179f718072db]: Textual amendment: Words in [s. 79(5)](https://www.legislation.gov.uk/ukpga/1984/55/section/79/5) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 64](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/64) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c928011]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 67(4)(b)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/67/4/b)

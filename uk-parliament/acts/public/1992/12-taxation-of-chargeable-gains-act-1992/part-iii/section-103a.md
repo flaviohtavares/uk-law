@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103A. Application of Act to certain offshore funds[^key-2e5db58e2699a420c3a8f7709ce200fb]
+## 103A. Application of Act to certain offshore funds[^c-2e5db58e2699a420c3a8f7709ce200fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e5db58e2699a420c3a8f7709ce200fb]: Textual amendment: Ss. 103A, 103B omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/1204/regulation/5)
+[^c-2e5db58e2699a420c3a8f7709ce200fb]: Textual amendment: Ss. 103A, 103B omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/1204/regulation/5)

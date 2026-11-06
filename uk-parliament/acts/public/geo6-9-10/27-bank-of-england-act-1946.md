@@ -66,15 +66,15 @@ An Act to bring the capital stock of the Bank of England into public ownership a
 
 (1) The Treasury may from time to time give such directions to the Bank as, after consultation with the Governor of the Bank, they think necessary in the public interest , except in relation to—[^c592252]
 
-- (a)[^key-f4d9a6a9851226cf668a65dd6b6f06a7] monetary policy.
-- (b)[^key-17e038888358a27f111a843ebd801059] the exercise by the Bank of its functions as the Prudential Regulation Authority (see section 2A of the Financial Services and Markets Act 2000).
-- (c)[^key-a63713032077f521fcb05a9b5f7b08f6] the exercise by the Bank of its functions under any enactment in relation to the following bodies—
+- (a)[^c-f4d9a6a9851226cf668a65dd6b6f06a7] monetary policy.
+- (b)[^c-17e038888358a27f111a843ebd801059] the exercise by the Bank of its functions as the Prudential Regulation Authority (see section 2A of the Financial Services and Markets Act 2000).
+- (c)[^c-a63713032077f521fcb05a9b5f7b08f6] the exercise by the Bank of its functions under any enactment in relation to the following bodies—
   - (i) recognised central counterparties;
   - (ii) recognised CSDs;
   - (iii) third country central counterparties;
   - (iv) third country CSDs.
 
-(2A)[^key-df1723ac1556ea1499015ce9d010c185] Expressions used in subsection (1)(c) have the same meaning as in section 285 of the Financial Services and Markets Act 2000 (exemption for recognised bodies etc).
+(2A)[^c-df1723ac1556ea1499015ce9d010c185] Expressions used in subsection (1)(c) have the same meaning as in section 285 of the Financial Services and Markets Act 2000 (exemption for recognised bodies etc).
 
 (2)[^c592253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -118,7 +118,7 @@ Section 1.
 
 **3.** The interest on the Government stock shall be payable on the fifth day of April and the fifth day of October in each year.
 
-**4.**[^key-b4219d6599bd9d3a6e67baf1159adaa8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b4219d6599bd9d3a6e67baf1159adaa8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c592261]
 
@@ -212,13 +212,13 @@ Not more than four of the directors may be employed to give their exclusive serv
 
 [^c592252]: Textual amendment: Words in s. 4(1) inserted (1.6.1998) by [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11), [s.10](https://www.legislation.gov.uk/ukpga/1998/11/section/10); [S.I. 1998/1120](https://www.legislation.gov.uk/uksi/1998/1120), [art.2](https://www.legislation.gov.uk/uksi/1998/1120/article/2)
 
-[^key-f4d9a6a9851226cf668a65dd6b6f06a7]: Textual amendment: Words in [s. 4(1)(a)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/section/4/1/a) renumbered as s. 4(1)(a) (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 23(a)](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/23/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
+[^c-f4d9a6a9851226cf668a65dd6b6f06a7]: Textual amendment: Words in [s. 4(1)(a)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/section/4/1/a) renumbered as s. 4(1)(a) (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 23(a)](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/23/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
 
-[^key-17e038888358a27f111a843ebd801059]: Textual amendment: [S. 4(1)(b)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/section/4/1/b) inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 23(b)](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/23/b) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
+[^c-17e038888358a27f111a843ebd801059]: Textual amendment: [S. 4(1)(b)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/section/4/1/b) inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 23(b)](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/23/b) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
 
-[^key-a63713032077f521fcb05a9b5f7b08f6]: Textual amendment: [S. 4(1)(c)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/section/4/1/c) inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/12/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/c)
+[^c-a63713032077f521fcb05a9b5f7b08f6]: Textual amendment: [S. 4(1)(c)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/section/4/1/c) inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/12/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/c)
 
-[^key-df1723ac1556ea1499015ce9d010c185]: Textual amendment: [S. 4(2A)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/section/4/2A) inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/12/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/c)
+[^c-df1723ac1556ea1499015ce9d010c185]: Textual amendment: [S. 4(2A)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/section/4/2A) inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/12/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/c)
 
 [^c592253]: Textual amendment: S. 4(2) repealed (1.6.1998) by [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11), [s. 43](https://www.legislation.gov.uk/ukpga/1998/11/section/43), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1998/11/schedule/9/part/I); [S.I. 1998/1120](https://www.legislation.gov.uk/uksi/1998/1120), [art.2](https://www.legislation.gov.uk/uksi/1998/1120/article/2)
 
@@ -234,7 +234,7 @@ Not more than four of the directors may be employed to give their exclusive serv
 
 [^c592260]: Textual amendment: [Sch. 1 Paras. 2](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/schedule/1/paragraph/2), [12](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/schedule/1/paragraph/12) repealed with savings by [National Loans Act 1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13), [s. 24(2)](https://www.legislation.gov.uk/ukpga/1968/13/section/24/2), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1968/13/schedule/6/part/I)
 
-[^key-b4219d6599bd9d3a6e67baf1159adaa8]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-b4219d6599bd9d3a6e67baf1159adaa8]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
 
 [^c592261]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/Geo6/9-10/27/schedule/1/paragraph/5) repealed by [Finance Act 1954 (c. 44)](https://www.legislation.gov.uk/ukpga/1954/44), [Sch. 6](https://www.legislation.gov.uk/ukpga/1954/44/schedule/6)
 

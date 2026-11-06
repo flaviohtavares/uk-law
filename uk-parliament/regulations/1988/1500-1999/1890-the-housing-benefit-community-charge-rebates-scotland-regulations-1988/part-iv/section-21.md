@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Calculation of net profit of self-employed earners[^key-c92f0b6108ed7f74b039ef9e8451b0b0]
+## 21. Calculation of net profit of self-employed earners[^c-c92f0b6108ed7f74b039ef9e8451b0b0]
 
 *Extent: E+W+S*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c92f0b6108ed7f74b039ef9e8451b0b0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1988/1890/regulation/21) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-c92f0b6108ed7f74b039ef9e8451b0b0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1988/1890/regulation/21) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00047]: Footnote: S.I. [1975/529](https://www.legislation.gov.uk/uksi/1975/529).

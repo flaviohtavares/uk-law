@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37.[^key-b89c8fb522d5f80049cd719d4b145b78]
+## 37.[^c-b89c8fb522d5f80049cd719d4b145b78]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 209 (succession in Scotland), in subsections (2) and (3), after “le
 
 ## Annotations
 
-[^key-b89c8fb522d5f80049cd719d4b145b78]: Commencement: Reg. 37 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b89c8fb522d5f80049cd719d4b145b78]: Commencement: Reg. 37 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

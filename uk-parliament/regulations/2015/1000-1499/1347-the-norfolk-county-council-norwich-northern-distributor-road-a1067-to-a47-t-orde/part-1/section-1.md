@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-ffb3d3f3ebf7b71905d0dd43cb4169e7]
+## 1. Citation and commencement[^c-ffb3d3f3ebf7b71905d0dd43cb4169e7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Norfolk County Council (Norwich Northern Distribu
 
 ## Annotations
 
-[^key-ffb3d3f3ebf7b71905d0dd43cb4169e7]: Commencement: Art. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-ffb3d3f3ebf7b71905d0dd43cb4169e7]: Commencement: Art. 1 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

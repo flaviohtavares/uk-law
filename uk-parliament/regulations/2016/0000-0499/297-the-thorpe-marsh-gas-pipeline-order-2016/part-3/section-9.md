@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Application and modification of the 1997 Regulations[^key-9881c9f86478813ec97b3ed8b1cfdc88]
+## 9. Application and modification of the 1997 Regulations[^c-9881c9f86478813ec97b3ed8b1cfdc88]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Regulation 6(1) of the 1997 Regulations is modified so as to read for the purpos
 
 ## Annotations
 
-[^key-9881c9f86478813ec97b3ed8b1cfdc88]: Commencement: Art. 9 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-9881c9f86478813ec97b3ed8b1cfdc88]: Commencement: Art. 9 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

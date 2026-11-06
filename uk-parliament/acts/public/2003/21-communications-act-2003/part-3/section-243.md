@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Powers where frequencies reserved for qualifying services[^key-19f20d72f5cc116b8abf56bf931cd0ac]
+## 243. Powers where frequencies reserved for qualifying services[^c-19f20d72f5cc116b8abf56bf931cd0ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,13 +50,13 @@ the holder of that licence will use digital capacity reserved in accordance with
 - (a) the holder of a licence to provide a Channel 3 service;
 - (b) C4C;
 - (c) the holder of a licence to provide Channel 5;
-- (d) S4C[^key-94097b3e2a0a8aeb226cef76bb92db35];
-- (e)[^key-b4b4f333a049fd160d06b16b14a5b7c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) S4C[^c-94097b3e2a0a8aeb226cef76bb92db35];
+- (e)[^c-b4b4f333a049fd160d06b16b14a5b7c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19f20d72f5cc116b8abf56bf931cd0ac]: Commencement: S. 243 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-19f20d72f5cc116b8abf56bf931cd0ac]: Commencement: S. 243 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-94097b3e2a0a8aeb226cef76bb92db35]: Textual amendment: Word in [s. 243(7)(d)](https://www.legislation.gov.uk/ukpga/2003/21/section/243/7/d) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/34); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-94097b3e2a0a8aeb226cef76bb92db35]: Textual amendment: Word in [s. 243(7)(d)](https://www.legislation.gov.uk/ukpga/2003/21/section/243/7/d) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/34); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-b4b4f333a049fd160d06b16b14a5b7c6]: Textual amendment: [S. 243(7)(e)](https://www.legislation.gov.uk/ukpga/2003/21/section/243/7/e) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/35); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-b4b4f333a049fd160d06b16b14a5b7c6]: Textual amendment: [S. 243(7)(e)](https://www.legislation.gov.uk/ukpga/2003/21/section/243/7/e) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/35); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

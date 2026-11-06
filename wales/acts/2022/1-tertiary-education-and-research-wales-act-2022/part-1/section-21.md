@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. The Welsh Ministers’ power to give general directions[^key-3440a5d4527457e9f7c1c55618bcfe23][^key-dc604658bdcc8b8493a78b0793a49bcf]
+## 21. The Welsh Ministers’ power to give general directions[^c-3440a5d4527457e9f7c1c55618bcfe23][^c-dc604658bdcc8b8493a78b0793a49bcf]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3440a5d4527457e9f7c1c55618bcfe23]: Commencement: S. 21 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-3440a5d4527457e9f7c1c55618bcfe23]: Commencement: S. 21 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-dc604658bdcc8b8493a78b0793a49bcf]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2022/1/section/21) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/919/article/2/g)
+[^c-dc604658bdcc8b8493a78b0793a49bcf]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2022/1/section/21) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/919/article/2/g)

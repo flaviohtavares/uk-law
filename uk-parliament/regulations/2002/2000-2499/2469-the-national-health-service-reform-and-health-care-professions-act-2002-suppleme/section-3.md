@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Change of name of Health Authorities[^key-66c3e72b08712ec70d79d0802f45421b]
+## 3. Change of name of Health Authorities[^c-66c3e72b08712ec70d79d0802f45421b]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ and all instruments and other documents which refer to the Authorities under the
 
 ## Annotations
 
-[^key-66c3e72b08712ec70d79d0802f45421b]: Commencement: Reg. 3 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-66c3e72b08712ec70d79d0802f45421b]: Commencement: Reg. 3 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2002/553](https://www.legislation.gov.uk/uksi/2002/553).

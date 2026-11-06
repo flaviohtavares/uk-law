@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Regulations under this Part[^key-1c7cb44ac07c6f84089b5f1d51301e33][^key-20ad86c1463966267e869bd56845cd19]
+## 60. Regulations under this Part[^c-1c7cb44ac07c6f84089b5f1d51301e33][^c-20ad86c1463966267e869bd56845cd19]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c7cb44ac07c6f84089b5f1d51301e33]: Commencement: S. 60 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-1c7cb44ac07c6f84089b5f1d51301e33]: Commencement: S. 60 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-20ad86c1463966267e869bd56845cd19]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/37/section/60) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-20ad86c1463966267e869bd56845cd19]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/37/section/60) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

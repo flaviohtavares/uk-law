@@ -34,7 +34,7 @@ summary: ''
 
 (5) The liabilities which may be transferred by virtue of this section, section 272(8) and section 273(1) to an NHS body on the abolition of a Special Health Authority include criminal liabilities.
 
-(6)[^key-13e8b6765932f694ae9b3bf0a57c30ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-13e8b6765932f694ae9b3bf0a57c30ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The Secretary of State must, before he makes an order under this section, consult with respect to the order such bodies as he may recognise as representing officers who in his opinion are likely to be transferred or affected by transfers in pursuance of the order.
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13e8b6765932f694ae9b3bf0a57c30ba]: Textual amendment: [S. 28(6)](https://www.legislation.gov.uk/ukpga/2006/41/section/28/6) omitted (1.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/13); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-13e8b6765932f694ae9b3bf0a57c30ba]: Textual amendment: [S. 28(6)](https://www.legislation.gov.uk/ukpga/2006/41/section/28/6) omitted (1.10.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/13); [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)

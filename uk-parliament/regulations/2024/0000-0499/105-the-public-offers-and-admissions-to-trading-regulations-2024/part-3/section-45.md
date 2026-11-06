@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Reporting of infringements[^key-64bbc1d2922b7f999520334dce0f7b73]
+## 45. Reporting of infringements[^c-64bbc1d2922b7f999520334dce0f7b73]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-64bbc1d2922b7f999520334dce0f7b73]: Commencement: Reg. 45 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-64bbc1d2922b7f999520334dce0f7b73]: Commencement: Reg. 45 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00037]: Footnote: Section 417(1) of the Financial Services and Markets Act 2000 contains definitions of “recognised investment exchange”, “recognised clearing house” and “**recognised CSD**” for the purposes of that Act. Section 285(1)(d) of that Act defines “**third country central counterparty**” for the purposes of that Act.
 

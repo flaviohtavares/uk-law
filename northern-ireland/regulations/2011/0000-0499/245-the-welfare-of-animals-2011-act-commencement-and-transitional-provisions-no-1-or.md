@@ -41,21 +41,21 @@ Coming into operation
 
 The Department of Agriculture and Rural Development[^f00001], makes the following Order in exercise of the powers conferred on it by section 59 of the Welfare of Animals Act (Northern Ireland) 2011[^f00002].
 
-## 1. Citation and interpretation[^key-bb76dcf6a17a2c4ad1e80c38c200441d]
+## 1. Citation and interpretation[^c-bb76dcf6a17a2c4ad1e80c38c200441d]
 
 (1) This Order may be cited as the Welfare of Animals (2011 Act) (Commencement and Transitional Provisions No.1) Order (Northern Ireland) 2011.
 
 (2) In this Order “the Act” means the Welfare of Animals Act (Northern Ireland) 2011.
 
-## 2. Appointed Day[^key-813d291ed78b8f094d1f08882e41acf6]
+## 2. Appointed Day[^c-813d291ed78b8f094d1f08882e41acf6]
 
 The day appointed for the coming into operation of the provisions of the Act listed in Schedule 1 is the 11th day of July 2011.
 
-## 3. Repeals[^key-89ebb3b9bbd891697aec93f47397ce02]
+## 3. Repeals[^c-89ebb3b9bbd891697aec93f47397ce02]
 
 The Welfare of Animals Act (Northern Ireland) 1972[^f00003] is hereby repealed to the extent specified in Schedule 2.
 
-## 4. Transitional Provision[^key-241c777e24db2550c0fb451dcfdf1452]
+## 4. Transitional Provision[^c-241c777e24db2550c0fb451dcfdf1452]
 
 (1) Section 30 of the Act shall only apply in respect of offences committed after the coming into operation of that section.
 
@@ -67,7 +67,7 @@ Colette McMaster
 
 A senior officer of the Department of Agriculture and Rural Development
 
-## SCHEDULE 1[^key-20217e2e0ec0855676eacc37a52d86b3]
+## SCHEDULE 1[^c-20217e2e0ec0855676eacc37a52d86b3]
 
 Article 2
 
@@ -133,7 +133,7 @@ Article 2
 | Schedule 5 | Repeals |
 | The entries in Schedule 5 relating to the Welfare of Animals Act (Northern Ireland) 1972 are repealed to the extent specified in Schedule 2 of this Order |  |
 
-## SCHEDULE 2 — Extent of repeal of the Welfare of Animals Act (Northern Ireland) 1972[^key-a7f47481121ac23a2c6bef8241ad375b]
+## SCHEDULE 2 — Extent of repeal of the Welfare of Animals Act (Northern Ireland) 1972[^c-a7f47481121ac23a2c6bef8241ad375b]
 
 Article 3
 
@@ -161,16 +161,16 @@ This Order provides for the coming into operation of the provisions of the Welfa
 
 [^f00002]: Footnote: [2011 c. 16](https://www.legislation.gov.uk/nia/2011/16)
 
-[^key-bb76dcf6a17a2c4ad1e80c38c200441d]: Commencement: Art. 1 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
+[^c-bb76dcf6a17a2c4ad1e80c38c200441d]: Commencement: Art. 1 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
 
-[^key-813d291ed78b8f094d1f08882e41acf6]: Commencement: Art. 2 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
+[^c-813d291ed78b8f094d1f08882e41acf6]: Commencement: Art. 2 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
 
-[^key-89ebb3b9bbd891697aec93f47397ce02]: Commencement: Art. 3 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
+[^c-89ebb3b9bbd891697aec93f47397ce02]: Commencement: Art. 3 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
 
 [^f00003]: Footnote: [1972 c. 7](https://www.legislation.gov.uk/apni/1972/7)
 
-[^key-241c777e24db2550c0fb451dcfdf1452]: Commencement: Art. 4 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
+[^c-241c777e24db2550c0fb451dcfdf1452]: Commencement: Art. 4 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
 
-[^key-20217e2e0ec0855676eacc37a52d86b3]: Commencement: Sch. 1 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
+[^c-20217e2e0ec0855676eacc37a52d86b3]: Commencement: Sch. 1 in operation at 11.7.2011, see [art. 2](https://editorial.legislation.gov.uk/nisr/2011/245/article/2)
 
-[^key-a7f47481121ac23a2c6bef8241ad375b]: Commencement: Sch. 2 in operation at 11.7.2011, see art. 2
+[^c-a7f47481121ac23a2c6bef8241ad375b]: Commencement: Sch. 2 in operation at 11.7.2011, see art. 2

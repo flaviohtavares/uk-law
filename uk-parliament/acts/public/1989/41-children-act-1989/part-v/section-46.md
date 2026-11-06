@@ -66,7 +66,7 @@ of the steps that he has taken under this section with respect to the child, the
 - (a) the child’s parents;
 - (b) any person who is not a parent of the child but who has parental responsibility for him;
 - (c) any person with whom the child was living immediately before he was taken into police protection;
-- (d)[^key-947eda6641c0e5d6874665c03f98605d] any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact;
+- (d)[^c-947eda6641c0e5d6874665c03f98605d] any person named in a child arrangements order as a person with whom the child is to spend time or otherwise have contact;
 - (e) any person who is allowed to have contact with the child by virtue of an order under section 34; and
 - (f) any person acting on behalf of any of those persons,
 
@@ -78,4 +78,4 @@ to have such contact (if any) with the child as, in the opinion of the designate
 
 [^c15165771]: Commencement: S. 46 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-947eda6641c0e5d6874665c03f98605d]: Textual amendment: [S. 46(10)(d)](https://www.legislation.gov.uk/ukpga/1989/41/section/46/10/d) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/36); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-947eda6641c0e5d6874665c03f98605d]: Textual amendment: [S. 46(10)(d)](https://www.legislation.gov.uk/ukpga/1989/41/section/46/10/d) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/36); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

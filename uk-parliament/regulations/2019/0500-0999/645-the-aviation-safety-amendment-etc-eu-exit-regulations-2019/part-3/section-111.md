@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Amendment of Article 34 of Regulation (EU) No 2018/1139[^key-e4752a0d81ffb6b9f03068545fd763c5]
+## 111. Amendment of Article 34 of Regulation (EU) No 2018/1139[^c-e4752a0d81ffb6b9f03068545fd763c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 34 (aerodrome certification), in each place the words occur, for “i
 
 ## Annotations
 
-[^key-e4752a0d81ffb6b9f03068545fd763c5]: Commencement: Reg. 111 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e4752a0d81ffb6b9f03068545fd763c5]: Commencement: Reg. 111 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

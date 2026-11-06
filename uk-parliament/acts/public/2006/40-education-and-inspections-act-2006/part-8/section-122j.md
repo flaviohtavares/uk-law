@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122J. Interpretation of Chapter 2A[^key-da26bb6584eb33870516a80b810cd311]
+## 122J. Interpretation of Chapter 2A[^c-da26bb6584eb33870516a80b810cd311]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ and references to the order designating the Academy as having a religious charac
 
 ## Annotations
 
-[^key-da26bb6584eb33870516a80b810cd311]: Textual amendment: Pt. 8 Ch. 2A inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/57/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-da26bb6584eb33870516a80b810cd311]: Textual amendment: Pt. 8 Ch. 2A inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/57/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Nuclear regulations[^key-c382e7cbe18b033602a965221fd60d87]
+## 74. Nuclear regulations[^c-c382e7cbe18b033602a965221fd60d87]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the nuclear safety purposes;
 - (b) the nuclear security purposes;
-- (c)[^key-1b727ea9524b18fc08ad322723f07a1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1b727ea9524b18fc08ad322723f07a1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the transport purposes.
 
 (2) Schedule 6 (which gives examples of particular kinds of provision that may be made by nuclear regulations) has effect.
@@ -68,13 +68,13 @@ summary: ''
 
 (8) Subsection (7)(a) does not apply if the regulations give effect, without modification, to proposals submitted by the ONR under section 81(1)(a)(i).
 
-(9) Nuclear regulations which include any provisions to which [^key-01a2ec0c25facd7df575bb7fd3d35edf]... subsection (10) applies must identify those provisions as such.
+(9) Nuclear regulations which include any provisions to which [^c-01a2ec0c25facd7df575bb7fd3d35edf]... subsection (10) applies must identify those provisions as such.
 
 (10) This subsection applies to any provisions of nuclear regulations which are made for—
 
 - (a) the nuclear security purposes,
-- (b)[^key-895bd1f68eec589ed154b1d5d58ef12d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-895bd1f68eec589ed154b1d5d58ef12d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-895bd1f68eec589ed154b1d5d58ef12d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-895bd1f68eec589ed154b1d5d58ef12d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and for no other purpose.
 
@@ -82,10 +82,10 @@ and for no other purpose.
 
 ## Annotations
 
-[^key-c382e7cbe18b033602a965221fd60d87]: Commencement: S. 74 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-c382e7cbe18b033602a965221fd60d87]: Commencement: S. 74 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-1b727ea9524b18fc08ad322723f07a1c]: Textual amendment: [S. 74(1)(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/74/1/c) omitted (31.12.2020) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/2/a); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-1b727ea9524b18fc08ad322723f07a1c]: Textual amendment: [S. 74(1)(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/74/1/c) omitted (31.12.2020) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/2/a); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-01a2ec0c25facd7df575bb7fd3d35edf]: Textual amendment: Words in [s. 74(9)](https://www.legislation.gov.uk/ukpga/2013/32/section/74/9) omitted (31.12.2020) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/2/b); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-01a2ec0c25facd7df575bb7fd3d35edf]: Textual amendment: Words in [s. 74(9)](https://www.legislation.gov.uk/ukpga/2013/32/section/74/9) omitted (31.12.2020) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/2/b); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-895bd1f68eec589ed154b1d5d58ef12d]: Textual amendment: [S. 74(10)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/74/10/b)[(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/74/10/c) omitted (31.12.2020) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/2/c); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-895bd1f68eec589ed154b1d5d58ef12d]: Textual amendment: [S. 74(10)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/74/10/b)[(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/74/10/c) omitted (31.12.2020) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/2/c); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)

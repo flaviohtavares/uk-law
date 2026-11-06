@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Modification of the 2004 Act[^key-e910f97366bd07ec227b4a4d235b3d1a]
+## 15. Modification of the 2004 Act[^c-e910f97366bd07ec227b4a4d235b3d1a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e910f97366bd07ec227b4a4d235b3d1a]: Textual amendment: Art. 15 revoked (27.1.2022) by [The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74)](https://www.legislation.gov.uk/uksi/2022/74), [art. 1](https://www.legislation.gov.uk/uksi/2022/74/article/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2022/74/schedule/2/paragraph/2/3)
+[^c-e910f97366bd07ec227b4a4d235b3d1a]: Textual amendment: Art. 15 revoked (27.1.2022) by [The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74)](https://www.legislation.gov.uk/uksi/2022/74), [art. 1](https://www.legislation.gov.uk/uksi/2022/74/article/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2022/74/schedule/2/paragraph/2/3)

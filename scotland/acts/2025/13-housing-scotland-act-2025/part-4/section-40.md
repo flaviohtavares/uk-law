@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Revocation of registration: where agent no longer exists[^key-68cc7a730670bd16fc1baa8c18017207][^key-94bcfd90ffd975ff46ae4503b7b21305]
+## 40. Revocation of registration: where agent no longer exists[^c-68cc7a730670bd16fc1baa8c18017207][^c-94bcfd90ffd975ff46ae4503b7b21305]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68cc7a730670bd16fc1baa8c18017207]: Commencement: S. 40 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-68cc7a730670bd16fc1baa8c18017207]: Commencement: S. 40 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-94bcfd90ffd975ff46ae4503b7b21305]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2025/13/section/40) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-94bcfd90ffd975ff46ae4503b7b21305]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2025/13/section/40) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

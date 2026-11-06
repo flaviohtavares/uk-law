@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Fee for scientific or other advice[^key-ccfbca0f45664b476091d8c9d2722c66]
+## 3A. Fee for scientific or other advice[^c-ccfbca0f45664b476091d8c9d2722c66]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccfbca0f45664b476091d8c9d2722c66]: Textual amendment: Reg. 3A inserted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/317/regulation/3)
+[^c-ccfbca0f45664b476091d8c9d2722c66]: Textual amendment: Reg. 3A inserted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/317/regulation/3)

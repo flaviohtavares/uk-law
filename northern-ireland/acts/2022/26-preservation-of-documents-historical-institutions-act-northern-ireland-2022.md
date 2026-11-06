@@ -36,7 +36,7 @@ An Act to make provision for the preservation of documents relating to certain i
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Preservation of relevant documents[^key-d56c815d540b3be466686cf03cdbe54d]
+## 1. Preservation of relevant documents[^c-d56c815d540b3be466686cf03cdbe54d]
 
 (1) A person (“**P**”) who has in P’s custody or under P’s control a relevant document—
 
@@ -57,7 +57,7 @@ is guilty of an offence.
 
 (5) A person who is guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 3 on the standard scale or to imprisonment for a term not exceeding six months, or to both.
 
-## 2. Meaning of “relevant document”[^key-1dcaafe37e9e6126a565328a449c9559]
+## 2. Meaning of “relevant document”[^c-1dcaafe37e9e6126a565328a449c9559]
 
 (1) A document is a relevant document if it satisfies the conditions in subsections (2) to (4), but this is subject to subsection (5) and such exceptions as may be prescribed.
 
@@ -78,7 +78,7 @@ is guilty of an offence.
 
 (6) In this section and in section 3, “**the relevant period**” means the period between 1922 and 1995 (both inclusive).
 
-## 3. Meaning of “relevant information”[^key-714fd445d95583afc3a25ab3f8dbaef0]
+## 3. Meaning of “relevant information”[^c-714fd445d95583afc3a25ab3f8dbaef0]
 
 (1) Information is relevant information if it falls within subsection (2), (3) or (4).
 
@@ -114,7 +114,7 @@ is guilty of an offence.
 
 (5) For the purposes of subsection (4)(b), a mother and child were separated if the child was provided with care and accommodation by a person other than the mother, but this is subject to such exceptions as may be prescribed.
 
-## 4. Meaning of “relevant institution” etc.[^key-0f0a666b9b7a3c6c37bfd8032400edae]
+## 4. Meaning of “relevant institution” etc.[^c-0f0a666b9b7a3c6c37bfd8032400edae]
 
 (1) An institution is a relevant institution if it falls within subsection (2) or (3), but this is subject to such exceptions as may be prescribed.
 
@@ -134,7 +134,7 @@ is guilty of an offence.
 - (a) the public body or voluntary organisation which provided residential accommodation for the woman or child in the institution, or
 - (b) a person authorised by that body or organisation.
 
-## 5. Offences by bodies corporate etc.[^key-7891c964e3493811c43d17449bf3e3d2]
+## 5. Offences by bodies corporate etc.[^c-7891c964e3493811c43d17449bf3e3d2]
 
 (1) For the purposes of this Act, section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with the functions of management as if that member were a director of the body corporate.
 
@@ -170,11 +170,11 @@ the officer or member as well as the association is guilty of the offence and li
 
 ## General
 
-### 6. Regulations[^key-571b71c27b2dad871dac0ee8c022456d]
+### 6. Regulations[^c-571b71c27b2dad871dac0ee8c022456d]
 
 Regulations made under this Act are subject to negative resolution.
 
-### 7. Interpretation[^key-2a32e5c7e375a46d56c1dd0efe417aea]
+### 7. Interpretation[^c-2a32e5c7e375a46d56c1dd0efe417aea]
 
 In this Act—
 
@@ -189,30 +189,30 @@ In this Act—
 - “**statutory provision**” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954;
 - “**voluntary organisation**” means a body (other than a public body) the activities of which are not carried on for profit.
 
-### 8. Commencement[^key-87b3fa080b043b8f80ab1410f8e10a71]
+### 8. Commencement[^c-87b3fa080b043b8f80ab1410f8e10a71]
 
 This Act comes into operation on the day after the day on which this Act receives Royal Assent.
 
-### 9. Short title[^key-aff6f87d1b3466685a1491df461b6fc8]
+### 9. Short title[^c-aff6f87d1b3466685a1491df461b6fc8]
 
 This Act may be cited as the Preservation of Documents (Historical Institutions) Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-d56c815d540b3be466686cf03cdbe54d]: Commencement: S. 1 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
+[^c-d56c815d540b3be466686cf03cdbe54d]: Commencement: S. 1 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
 
-[^key-1dcaafe37e9e6126a565328a449c9559]: Commencement: S. 2 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
+[^c-1dcaafe37e9e6126a565328a449c9559]: Commencement: S. 2 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
 
-[^key-714fd445d95583afc3a25ab3f8dbaef0]: Commencement: S. 3 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
+[^c-714fd445d95583afc3a25ab3f8dbaef0]: Commencement: S. 3 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
 
-[^key-0f0a666b9b7a3c6c37bfd8032400edae]: Commencement: S. 4 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
+[^c-0f0a666b9b7a3c6c37bfd8032400edae]: Commencement: S. 4 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
 
-[^key-7891c964e3493811c43d17449bf3e3d2]: Commencement: S. 5 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
+[^c-7891c964e3493811c43d17449bf3e3d2]: Commencement: S. 5 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
 
-[^key-571b71c27b2dad871dac0ee8c022456d]: Commencement: S. 6 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
+[^c-571b71c27b2dad871dac0ee8c022456d]: Commencement: S. 6 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
 
-[^key-2a32e5c7e375a46d56c1dd0efe417aea]: Commencement: S. 7 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
+[^c-2a32e5c7e375a46d56c1dd0efe417aea]: Commencement: S. 7 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
 
-[^key-87b3fa080b043b8f80ab1410f8e10a71]: Commencement: S. 8 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
+[^c-87b3fa080b043b8f80ab1410f8e10a71]: Commencement: S. 8 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
 
-[^key-aff6f87d1b3466685a1491df461b6fc8]: Commencement: S. 9 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)
+[^c-aff6f87d1b3466685a1491df461b6fc8]: Commencement: S. 9 in operation at 13.5.2022, see [s. 8](https://www.legislation.gov.uk/nia/2022/26/section/8)

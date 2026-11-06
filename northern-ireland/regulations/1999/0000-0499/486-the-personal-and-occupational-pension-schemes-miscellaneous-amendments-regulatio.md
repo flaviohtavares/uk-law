@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 3(2), 5(2B), (2C), (3) and (6)(*a*), 6(2), 7(5), 8C(1)(*a*) and (*b*), 15(4), 24(2), 109, 164(4) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 17(4), 19(4), 21(5), 47(9), 49(1), 50(3), 58(2), 59(1), 67(5), 73(7), 75(10), 85(3), 86(1) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-37bc57e1b2cb3199b2a960080ed8a33a]
+## 1. Citation, commencement and interpretation[^c-37bc57e1b2cb3199b2a960080ed8a33a]
 
 (1) These Regulations may be cited as the Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 and shall come into operation on 30th December 1999.
 
@@ -49,7 +49,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations[^key-4a96069374f313bb81f4416fafb217e9]
+## 2. Amendment of the Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations[^c-4a96069374f313bb81f4416fafb217e9]
 
 (1) The Occupational Pension Schemes (Internal Dispute Resolution Procedures) Regulations (Northern Ireland) 1996[^f00006] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -70,7 +70,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (b) for the words from “difficulties” to “scheme” there shall be substituted “any difficulty with the scheme which remains unresolved”;
 - (c) for “it” there shall be substituted “OPAS”.
 
-## 3. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations[^key-b54273ae65357265d72508e4e0857e1a]
+## 3. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations[^c-b54273ae65357265d72508e4e0857e1a]
 
 (1) The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 1996[^f00008] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -94,7 +94,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (a) in paragraph 2(4) for “regulation 10(2)(*b*)(i)” there shall be substituted “regulation 10(2)(*a*) and (*b*)(i)”;
 - (b) in paragraph 3(4) for “regulation 16(2)(*b*)(i)” there shall be substituted “regulation 16(2)(*a*) and (*b*)(i)”.
 
-## 4. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-5624675588d9d53d09fe3e7aba44dfff]
+## 4. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^c-5624675588d9d53d09fe3e7aba44dfff]
 
 (1) The Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00011] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -107,11 +107,11 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (4) In regulation 48(7) (special provision for overseas schemes) for “any members who are resident in Northern Ireland” there shall be substituted “rights which have accrued as a result of contracted-out employment in the scheme in Northern Ireland”.
 
-## 5. Amendment of the Protected Rights (Transfer Payment) Regulations[^key-de59e1148b44e13759def375a4fd7939]
+## 5. Amendment of the Protected Rights (Transfer Payment) Regulations[^c-de59e1148b44e13759def375a4fd7939]
 
 In regulation 1(2) of the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^f00014] (interpretation), in the definition of “section 5(2B) rights”, in paragraph (*b*)(ii) “contracted-out” shall be omitted.
 
-## 6. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-7df8370555a733f6063bd40d759e5bb1]
+## 6. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^c-7df8370555a733f6063bd40d759e5bb1]
 
 (1) The Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996[^f00015] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -130,7 +130,7 @@ In regulation 1(2) of the Protected Rights (Transfer Payment) Regulations (North
   ;
 - (c) in paragraph (3) for “for the purposes of paragraphs (1) and (2)” there shall be substituted “for the purposes of paragraphs (1) to (2)”.
 
-## 7. Amendment of the Occupational Pension Schemes (Deficiency on Winding Up etc.) Regulations[^key-3b455dc6ec252549c233d49202cca6fe]
+## 7. Amendment of the Occupational Pension Schemes (Deficiency on Winding Up etc.) Regulations[^c-3b455dc6ec252549c233d49202cca6fe]
 
 (1) The Occupational Pension Schemes (Deficiency on Winding Up etc.) Regulations (Northern Ireland) 1996[^f00016] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -152,11 +152,11 @@ In regulation 1(2) of the Protected Rights (Transfer Payment) Regulations (North
 
 .
 
-## 8. Amendment of the Contracting-out (Transfer and Transfer Payment) Regulations[^key-c85b7c57857355f87353f7fb53b772c6]
+## 8. Amendment of the Contracting-out (Transfer and Transfer Payment) Regulations[^c-c85b7c57857355f87353f7fb53b772c6]
 
 In regulation 1(2) of the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996[^f00017] (interpretation), in the definition of “section 5(2B) rights”, in paragraph (*b*)(ii) “contracted-out” shall be omitted.
 
-## 9. Amendment of the Occupational Pension Schemes (Winding Up) Regulations 1996[^key-6bb94463a355f46a4cba3279d98f21ce]
+## 9. Amendment of the Occupational Pension Schemes (Winding Up) Regulations 1996[^c-6bb94463a355f46a4cba3279d98f21ce]
 
 In regulation 3 of the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00018] (modification of Article 73)—
 
@@ -170,11 +170,11 @@ In regulation 3 of the Occupational Pension Schemes (Winding Up) Regulations (No
 
   .
 
-## 10. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^key-186a6630553f4f83fd546bef46a97d99]
+## 10. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^c-186a6630553f4f83fd546bef46a97d99]
 
 In regulation 1(2) of the Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1997[^f00019] (interpretation), in the definition of “section 5(2B) rights”, in paragraph (*b*)(ii) “contracted-out” shall be omitted.
 
-## 11. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-825d2e0849eec0e170ca5af9dfa82964]
+## 11. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^c-825d2e0849eec0e170ca5af9dfa82964]
 
 (1) The Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^f00020] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -215,7 +215,7 @@ In regulation 1(2) of the Personal and Occupational Pension Schemes (Protected R
 
 .
 
-## 12. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations[^key-b65ca0ae2a6b27b733e382f9a924c68f]
+## 12. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations[^c-b65ca0ae2a6b27b733e382f9a924c68f]
 
 In the Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 1997[^f00022] for regulation 6 (restriction on powers to modify schemes: exception) there shall be substituted the following regulation—
 
@@ -235,7 +235,7 @@ In the Occupational Pension Schemes (Modification of Schemes) Regulations (North
 
 .
 
-## 13. Amendment of the Disclosure Regulations[^key-0148e98d09ca0e1a6a780e8759f0456f]
+## 13. Amendment of the Disclosure Regulations[^c-0148e98d09ca0e1a6a780e8759f0456f]
 
 (1) The Disclosure Regulations shall be amended in accordance with paragraphs (2) to (4).
 
@@ -254,7 +254,7 @@ In the Occupational Pension Schemes (Modification of Schemes) Regulations (North
 
 .
 
-## 14. Amendment of the Occupational Pension Schemes (Discharge of Liability) Regulations[^key-f2079f25d1040b34e16921f104e9c66f]
+## 14. Amendment of the Occupational Pension Schemes (Discharge of Liability) Regulations[^c-f2079f25d1040b34e16921f104e9c66f]
 
 (1) The Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1997[^f00026] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -278,7 +278,7 @@ In the Occupational Pension Schemes (Modification of Schemes) Regulations (North
 
 .
 
-## 15. Transitional provision[^key-3c4ae306bd2df511fe7cb1948361db88]
+## 15. Transitional provision[^c-3c4ae306bd2df511fe7cb1948361db88]
 
 (1) Nothing in regulation 13, or in the Disclosure Regulations as amended by regulation 13(4), shall require the information specified in paragraph 26 of Schedule 1 to those Regulations, as amended by regulation 13(4), to be supplied to a person or trade union if the condition in paragraph (2) is met.
 
@@ -331,19 +331,19 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-37bc57e1b2cb3199b2a960080ed8a33a]: Commencement: Reg. 1 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-37bc57e1b2cb3199b2a960080ed8a33a]: Commencement: Reg. 1 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00004]: Footnote: [1997 No. 98](https://www.legislation.gov.uk/nisr/1997/98); relevant amending regulations are [S.R. 1997 No. 544](https://www.legislation.gov.uk/nisr/1997/544)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4a96069374f313bb81f4416fafb217e9]: Commencement: Reg. 2 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-4a96069374f313bb81f4416fafb217e9]: Commencement: Reg. 2 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 203](https://www.legislation.gov.uk/nisr/1996/203)
 
 [^f00007]: Footnote: OPAS’s address for correspondence is 11 Belgrave Road, London SW1V 1RB
 
-[^key-b54273ae65357265d72508e4e0857e1a]: Commencement: Reg. 3 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-b54273ae65357265d72508e4e0857e1a]: Commencement: Reg. 3 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1996 No. 431](https://www.legislation.gov.uk/nisr/1996/431); amended by [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
@@ -351,7 +351,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00010]: Footnote: 7th April is the date of commencement of S.I. [1998/728](https://www.legislation.gov.uk/uksi/1998/728), which amended S.I. [1991/1614](https://www.legislation.gov.uk/uksi/1991/1614), and of S.I. [1998/729](https://www.legislation.gov.uk/uksi/1998/729)
 
-[^key-5624675588d9d53d09fe3e7aba44dfff]: Commencement: Reg. 4 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-5624675588d9d53d09fe3e7aba44dfff]: Commencement: Reg. 4 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160). *See also* Article 3(2) of, and Schedule 2 to, S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671) which relates to the transfer of functions of the Department to the Commissioners of Inland Revenue
 
@@ -359,37 +359,37 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00013]: Footnote: The definition of “section 5(2B) rights” was substituted by paragraph 5(2) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-de59e1148b44e13759def375a4fd7939]: Commencement: Reg. 5 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-de59e1148b44e13759def375a4fd7939]: Commencement: Reg. 5 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1996 No. 509](https://www.legislation.gov.uk/nisr/1996/509), the definition of “section 5(2B) rights” was substituted by paragraph 6(2) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-7df8370555a733f6063bd40d759e5bb1]: Commencement: Reg. 6 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-7df8370555a733f6063bd40d759e5bb1]: Commencement: Reg. 6 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570), to which there are amendments not relevant to these regulations
 
-[^key-3b455dc6ec252549c233d49202cca6fe]: Commencement: Reg. 7 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-3b455dc6ec252549c233d49202cca6fe]: Commencement: Reg. 7 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 1996 No. 585](https://www.legislation.gov.uk/nisr/1996/585), to which there are amendments not relevant to these regulations
 
-[^key-c85b7c57857355f87353f7fb53b772c6]: Commencement: Reg. 8 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-c85b7c57857355f87353f7fb53b772c6]: Commencement: Reg. 8 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1996 No. 618](https://www.legislation.gov.uk/nisr/1996/618); the definition of “section 5(2B) rights” was substituted by paragraph 10(2) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-6bb94463a355f46a4cba3279d98f21ce]: Commencement: Reg. 9 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-6bb94463a355f46a4cba3279d98f21ce]: Commencement: Reg. 9 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621); to which there are amendments not relevant to these regulations
 
-[^key-186a6630553f4f83fd546bef46a97d99]: Commencement: Reg. 10 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-186a6630553f4f83fd546bef46a97d99]: Commencement: Reg. 10 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1997 No. 56](https://www.legislation.gov.uk/nisr/1997/56); the definition of “section 5(2B) rights” was substituted by paragraph 15(2) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160). *See also* Article 3(2) of, and Schedule 2 to, S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671) which relates to the transfer of functions of the Department to the Commissioners of Inland Revenue
 
-[^key-825d2e0849eec0e170ca5af9dfa82964]: Commencement: Reg. 11 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-825d2e0849eec0e170ca5af9dfa82964]: Commencement: Reg. 11 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); to which there are amendments not relevant to these regulations
 
 [^f00021]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22)
 
-[^key-b65ca0ae2a6b27b733e382f9a924c68f]: Commencement: Reg. 12 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-b65ca0ae2a6b27b733e382f9a924c68f]: Commencement: Reg. 12 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00022]: Footnote: [S.R. 1997 No. 97](https://www.legislation.gov.uk/nisr/1997/97); to which there are amendments not relevant to these regulations
 
@@ -397,14 +397,14 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00024]: Footnote: *See* [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153), amended by S.R [1999 No. 309](https://www.legislation.gov.uk/nisr/1999/309)
 
-[^key-0148e98d09ca0e1a6a780e8759f0456f]: Commencement: Reg. 13 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-0148e98d09ca0e1a6a780e8759f0456f]: Commencement: Reg. 13 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00025]: Footnote: Regulation 4(2) of the Disclosure Regulations, which is relevant to paragraph 26 of Schedule 1, was amended by [S.R. 1997 No. 544](https://www.legislation.gov.uk/nisr/1997/544)
 
-[^key-f2079f25d1040b34e16921f104e9c66f]: Commencement: Reg. 14 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-f2079f25d1040b34e16921f104e9c66f]: Commencement: Reg. 14 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 1997 No. 159](https://www.legislation.gov.uk/nisr/1997/159)
 
 [^f00027]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-3c4ae306bd2df511fe7cb1948361db88]: Commencement: Reg. 15 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)
+[^c-3c4ae306bd2df511fe7cb1948361db88]: Commencement: Reg. 15 in operation at 30.12.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/486/regulation/1/1)

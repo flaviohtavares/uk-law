@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 275. Advance statements: making and withdrawal[^key-088ad28f2f1d1e264f274bc78e02a9f6][^key-dc9de3962d353e67b0eaf40bb7f6134b]
+## 275. Advance statements: making and withdrawal[^c-088ad28f2f1d1e264f274bc78e02a9f6][^c-dc9de3962d353e67b0eaf40bb7f6134b]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ in the event of the person’s becoming mentally disordered and the person’s a
 
 ## Annotations
 
-[^key-088ad28f2f1d1e264f274bc78e02a9f6]: Commencement: S. 275 in force at 1.9.2004 for specified purposes by [S.S.I. 2004/367](https://www.legislation.gov.uk/ssi/2004/367), [art. 2](https://www.legislation.gov.uk/ssi/2004/367/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/367/schedule/1)
+[^c-088ad28f2f1d1e264f274bc78e02a9f6]: Commencement: S. 275 in force at 1.9.2004 for specified purposes by [S.S.I. 2004/367](https://www.legislation.gov.uk/ssi/2004/367), [art. 2](https://www.legislation.gov.uk/ssi/2004/367/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/367/schedule/1)
 
-[^key-dc9de3962d353e67b0eaf40bb7f6134b]: Commencement: S. 275 in force at 4.10.2004 in so far as not already in force by [S.S.I. 2004/367](https://www.legislation.gov.uk/ssi/2004/367), [art. 3](https://www.legislation.gov.uk/ssi/2004/367/article/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2004/367/schedule/2)
+[^c-dc9de3962d353e67b0eaf40bb7f6134b]: Commencement: S. 275 in force at 4.10.2004 in so far as not already in force by [S.S.I. 2004/367](https://www.legislation.gov.uk/ssi/2004/367), [art. 3](https://www.legislation.gov.uk/ssi/2004/367/article/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2004/367/schedule/2)

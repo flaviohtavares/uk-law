@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Inspection of documents open to public inspection[^key-ad8e12c8160c6f0ef396a5e5b29f891e][^key-e2a6f4d300a4781511e154277ac05e69]
+## 118. Inspection of documents open to public inspection[^c-ad8e12c8160c6f0ef396a5e5b29f891e][^c-e2a6f4d300a4781511e154277ac05e69]
 
 *Extent: S*
 
-(1) Any person is entitled to request that the counting officer[^key-9c0b0e343cf8b35ff626e615f43237c1] make available for inspection a copy of any of the following documents (referred to in this regulation and in regulation 119 as “the documents open to public inspection”)–
+(1) Any person is entitled to request that the counting officer[^c-9c0b0e343cf8b35ff626e615f43237c1] make available for inspection a copy of any of the following documents (referred to in this regulation and in regulation 119 as “the documents open to public inspection”)–
 
 - (a) the marked register or lists;
 - (b) such other documents relating to an election as the counting officer is required by or under any enactment to retain for any period except–
   - (i) ballot papers;
   - (ii) completed corresponding number lists;
   - (iii) certificates as to employment on the day of the election.
-  - (iv)[^key-b857aaa84894762312f5673f1c8bbf97] the lists required to be compiled under regulation 87(4) and (6), and any extracts produced from those lists;
+  - (iv)[^c-b857aaa84894762312f5673f1c8bbf97] the lists required to be compiled under regulation 87(4) and (6), and any extracts produced from those lists;
   - (v) return of postal voting documents forms.
 
 (2) A request under paragraph (1) shall be made in writing and shall specify–
@@ -66,19 +66,19 @@ shall apply to such use.
 
 except that a person who inspects a copy of the marked register or lists may make hand written notes.
 
-(8)[^key-1096ccdd7ad5f1617d82217993d193a8] The counting officer shall, on request, supply free of charge copies of any documents open to public inspection—
+(8)[^c-1096ccdd7ad5f1617d82217993d193a8] The counting officer shall, on request, supply free of charge copies of any documents open to public inspection—
 
 - (a) to each of the departments mentioned in regulation 107A;
 - (b) to a person who has inspected those documents and who is entitled to be supplied with a copy of the marked register or lists by virtue of being a person to whom regulation 108 applies.
 
 ## Annotations
 
-[^key-ad8e12c8160c6f0ef396a5e5b29f891e]: Modification: [Reg. 118](https://www.legislation.gov.uk/uksi/2001/497/regulation/118) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 62](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/62)
+[^c-ad8e12c8160c6f0ef396a5e5b29f891e]: Modification: [Reg. 118](https://www.legislation.gov.uk/uksi/2001/497/regulation/118) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 62](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/62)
 
-[^key-e2a6f4d300a4781511e154277ac05e69]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2001/497/part/7) inserted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2007/925/regulation/47)
+[^c-e2a6f4d300a4781511e154277ac05e69]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2001/497/part/7) inserted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2007/925/regulation/47)
 
-[^key-9c0b0e343cf8b35ff626e615f43237c1]: Textual amendment: Words in [reg. 118](https://www.legislation.gov.uk/uksi/2001/497/regulation/118) substituted (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 63](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/63)
+[^c-9c0b0e343cf8b35ff626e615f43237c1]: Textual amendment: Words in [reg. 118](https://www.legislation.gov.uk/uksi/2001/497/regulation/118) substituted (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 63](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/63)
 
-[^key-b857aaa84894762312f5673f1c8bbf97]: Textual amendment: [Reg. 118(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2001/497/regulation/118/1/b/iv)[(v)](https://www.legislation.gov.uk/uksi/2001/497/regulation/118/1/b/v) substituted for [reg. 118(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2001/497/regulation/118/1/b/iv) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 3(13)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/3/13)
+[^c-b857aaa84894762312f5673f1c8bbf97]: Textual amendment: [Reg. 118(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2001/497/regulation/118/1/b/iv)[(v)](https://www.legislation.gov.uk/uksi/2001/497/regulation/118/1/b/v) substituted for [reg. 118(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2001/497/regulation/118/1/b/iv) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 3(13)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/3/13)
 
-[^key-1096ccdd7ad5f1617d82217993d193a8]: Textual amendment: [Reg. 118(8)](https://www.legislation.gov.uk/uksi/2001/497/regulation/118/8) substituted (24.12.2008) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 1 para. 3(8)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1/paragraph/3/8) (with [s. 101(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/5)); [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-1096ccdd7ad5f1617d82217993d193a8]: Textual amendment: [Reg. 118(8)](https://www.legislation.gov.uk/uksi/2001/497/regulation/118/8) substituted (24.12.2008) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 1 para. 3(8)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1/paragraph/3/8) (with [s. 101(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/5)); [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)

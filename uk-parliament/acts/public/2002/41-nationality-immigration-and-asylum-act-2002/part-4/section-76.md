@@ -28,8 +28,8 @@ summary: ''
 (2) The Secretary of State may revoke a person’s indefinite leave to enter or remain in the United Kingdom if—
 
 - (a) the leave was obtained by deception,
-- (b)[^key-cd39e601062fef06cec2453206935ac2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-cd39e601062fef06cec2453206935ac2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-cd39e601062fef06cec2453206935ac2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-cd39e601062fef06cec2453206935ac2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Secretary of State may revoke a person’s indefinite leave to enter or remain in the United Kingdom if the person, or someone of whom he is a dependant, ceases to be a refugee as a result of—
 
@@ -43,7 +43,7 @@ summary: ''
 - “**indefinite leave**” has the meaning given by section 33(1) of the Immigration Act 1971 (c. 77) (interpretation),
 - “**liable to deportation**” has the meaning given by section 3(5) and (6) of that Act (deportation),
 - “**refugee**” has the meaning given by the Convention relating to the Status of Refugees done at Geneva on 28th July 1951 and its Protocol, and
-- [^key-51de75246ed4d27061dc114e1af6a8be]...
+- [^c-51de75246ed4d27061dc114e1af6a8be]...
 
 (5) A power under subsection (1) or (2) to revoke leave may be exercised—
 
@@ -55,12 +55,12 @@ summary: ''
 - (a) in respect of leave granted before this section comes into force, but
 - (b) only in reliance on action taken after this section comes into force.
 
-(7)[^key-cc3166f3f984988bad4ba5300b97c50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-cc3166f3f984988bad4ba5300b97c50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd39e601062fef06cec2453206935ac2]: Textual amendment: S. 76(2)(b)(c) omitted (20.10.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/3/3/a); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+[^c-cd39e601062fef06cec2453206935ac2]: Textual amendment: S. 76(2)(b)(c) omitted (20.10.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/3/3/a); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
 
-[^key-51de75246ed4d27061dc114e1af6a8be]: Textual amendment: Words in s. 76(4) omitted (20.10.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/3/3/b); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+[^c-51de75246ed4d27061dc114e1af6a8be]: Textual amendment: Words in s. 76(4) omitted (20.10.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/3/3/b); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
 
-[^key-cc3166f3f984988bad4ba5300b97c50a]: Textual amendment: S. 76(7) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/7) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+[^c-cc3166f3f984988bad4ba5300b97c50a]: Textual amendment: S. 76(7) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/7) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))

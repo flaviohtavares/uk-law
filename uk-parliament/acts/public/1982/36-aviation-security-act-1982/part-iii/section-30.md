@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Supplementary orders.[^key-f17307c365f6cfa9e9c40cb0ffe3247b]
+## 30. Supplementary orders.[^c-f17307c365f6cfa9e9c40cb0ffe3247b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f17307c365f6cfa9e9c40cb0ffe3247b]: Textual amendment: S. 30 repealed (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/11) , [Sch. 8 Pt. 7](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/7) (with [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/15) ); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s/u)
+[^c-f17307c365f6cfa9e9c40cb0ffe3247b]: Textual amendment: S. 30 repealed (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/11) , [Sch. 8 Pt. 7](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/7) (with [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/15) ); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)(u)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s/u)

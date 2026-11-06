@@ -22,7 +22,7 @@ summary: ''
 
 Article 46
 
-### 1. Applications made under requirement[^key-b470e11b664a9bdbadbec604ad04e048]
+### 1. Applications made under requirement[^c-b470e11b664a9bdbadbec604ad04e048]
 
 (1) Where an application has been made to a discharging authority for any agreement or approval required by a requirement included in this Order the discharging authority shall give notice to the undertaker of its decision on the application before the end of the decision period.
 
@@ -37,7 +37,7 @@ Article 46
   - (ii) where further information is requested under paragraph 2, 5 weeks from the day immediately following that on which further information has been supplied by the undertaker under paragraph 2; or
   - (iii) such longer period as may be agreed by the undertaker and the discharging authority in writing before the end of the period in sub-paragraph (i) or (ii).
 
-### 2. Further information[^key-f3c97605d80799693c511a51233b4d54]
+### 2. Further information[^c-f3c97605d80799693c511a51233b4d54]
 
 (1) In relation to any application to which this Schedule applies, the discharging authority shall have the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -47,7 +47,7 @@ Article 46
 
 (4) If the discharging authority does not give notification as specified in sub-paragraph (2) or (3), it shall be deemed to have sufficient information to consider the application and shall not thereafter be entitled to request further information without the prior agreement of the undertaker.
 
-### 3. Fees[^key-c61a644591db4bce996e5343d8c73ff8]
+### 3. Fees[^c-c61a644591db4bce996e5343d8c73ff8]
 
 (1) Where an application is made to the discharging authority for agreement or approval in respect of a requirement, a fee shall be paid to that authority as follows—
 
@@ -71,7 +71,7 @@ Article 46
 
 - (a) the area shall be taken as consisting of the area of land to which the application relates;
 - (b) where the application relates to development within Category 1, the area of gross floor space created by the development shall be ascertained by external measurement of the floor space, whether or not it is bounded (wholly or partly) by external walls of a building;
-- (c) where the application relates to development within Category 1 and the gross floor space to be created by the development exceeds 75 square metres and is not an exact multiple of 75 square metres, the area remaining after division of the total number of square metres of gross floor space[^key-306e6740dddf38c810517c045917b833] by the figure of 75 shall be treated as being 75 metres; and
+- (c) where the application relates to development within Category 1 and the gross floor space to be created by the development exceeds 75 square metres and is not an exact multiple of 75 square metres, the area remaining after division of the total number of square metres of gross floor space[^c-306e6740dddf38c810517c045917b833] by the figure of 75 shall be treated as being 75 metres; and
 - (d) where the application relates to development within Category 2 and the site area exceeds 0.1 hectares and is not an exact multiple of 0.1 hectares, the area remaining after division of the total number of hectares by the figure of 0.1 hectares shall be treated as being 0.1 hectares.
 
 (3) Any fee paid under this Schedule shall be refunded to the undertaker within 8 weeks of—
@@ -81,7 +81,7 @@ Article 46
 
 unless within that period the undertaker agrees, in writing, that the fee shall be retained by the discharging authority and credited in respect of a future application.
 
-### 4. Appeals[^key-ad8773623dbd3fee63237f030257fe18]
+### 4. Appeals[^c-ad8773623dbd3fee63237f030257fe18]
 
 (1) The undertaker may appeal in the event that—
 
@@ -92,7 +92,7 @@ unless within that period the undertaker agrees, in writing, that the fee shall 
 
 (2) The appeal process shall be as follows—
 
-- (a) the undertaker shall submit to the Secretary of State[^key-9fd4210802f7af489eca060ef8324c3d] a copy of the application submitted to the discharging authority and any supporting documentation which the undertaker may wish to provide (“the appeal documentation”);
+- (a) the undertaker shall submit to the Secretary of State[^c-9fd4210802f7af489eca060ef8324c3d] a copy of the application submitted to the discharging authority and any supporting documentation which the undertaker may wish to provide (“the appeal documentation”);
 - (b) the undertaker shall on the same day provide copies of the appeal documentation to the discharging authority and the requirement consultee (if applicable);
 - (c) as soon as is practicable after receiving the appeal documentation, the Secretary of State shall appoint a person to determine the appeal (“the appointed person”) and shall notify the appeal parties of the identity of the appointed person and the address to which all correspondence for that person’s attention should be sent;
 - (d) the discharging authority and the requirement consultee (if applicable) shall submit written representations to the appointed person in respect of the appeal within 10 business days of the date on which the appeal parties are notified of the appointment of a person under paragraph (c) and shall ensure that copies of their written representations are sent to each other and to the undertaker on the day on which they are submitted to the appointed person;
@@ -122,32 +122,32 @@ and may deal with the application as if it had been made to the appointed person
 
 (11) On application by the discharging authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it shall be made, the appointed person shall have regard to Communities and Local Government Circular 03/2009 or any circular or guidance which may from time to time replace it.
 
-### 5. Interpretation of Schedule 14[^key-70427410a8c53bcdaa49b76524c17801]
+### 5. Interpretation of Schedule 14[^c-70427410a8c53bcdaa49b76524c17801]
 
 In this paragraph—
 
 - “the appeal parties” means the discharging authority, the requirement consultee and the undertaker;
 - “business day” means a day other than Saturday or Sunday which is not Christmas Day, Good Friday or a bank holiday under section 1 of the Banking and Financial Dealings Act 1971;
-- “major detailed requirements” means requirements: PW3, PW4, PW7, P10, MS16, MS17, MS18, MS19, MS20, MS21, MS22, MS25, MS26, MS28, MS30, CW1, CW2, OS3, BRIA5, [^key-a3897e5919b0d61767b8259650612a15]... CP6, C8, J23-5, J24-4, and WP4[^key-c45fdedbb119af557425c7b28995b9da];
+- “major detailed requirements” means requirements: PW3, PW4, PW7, P10, MS16, MS17, MS18, MS19, MS20, MS21, MS22, MS25, MS26, MS28, MS30, CW1, CW2, OS3, BRIA5, [^c-a3897e5919b0d61767b8259650612a15]... CP6, C8, J23-5, J24-4, and WP4[^c-c45fdedbb119af557425c7b28995b9da];
 - “minor detailed requirements” means requirements, other than major detailed requirements, which require any agreement or approval of a discharging authority or permit the discharging authority to agree or approve matters otherwise than provided for in the requirement; and
 - “requirement consultee” means any body named in a requirement which is the subject of an appeal as a body to be consulted by the discharging authority in discharging that requirement.
 
 ## Annotations
 
-[^key-b470e11b664a9bdbadbec604ad04e048]: Commencement: Sch. 14 para. 1 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-b470e11b664a9bdbadbec604ad04e048]: Commencement: Sch. 14 para. 1 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-f3c97605d80799693c511a51233b4d54]: Commencement: Sch. 14 para. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-f3c97605d80799693c511a51233b4d54]: Commencement: Sch. 14 para. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-c61a644591db4bce996e5343d8c73ff8]: Commencement: Sch. 14 para. 3 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-c61a644591db4bce996e5343d8c73ff8]: Commencement: Sch. 14 para. 3 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-306e6740dddf38c810517c045917b833]: Textual amendment: Words in [Sch. 14 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2013/648/schedule/14/paragraph/3/2/c) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 4
+[^c-306e6740dddf38c810517c045917b833]: Textual amendment: Words in [Sch. 14 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2013/648/schedule/14/paragraph/3/2/c) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 4
 
-[^key-ad8773623dbd3fee63237f030257fe18]: Commencement: Sch. 14 para. 4 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-ad8773623dbd3fee63237f030257fe18]: Commencement: Sch. 14 para. 4 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-9fd4210802f7af489eca060ef8324c3d]: Textual amendment: Words in [Sch. 14 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/648/schedule/14/paragraph/4/2/a) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 4
+[^c-9fd4210802f7af489eca060ef8324c3d]: Textual amendment: Words in [Sch. 14 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/648/schedule/14/paragraph/4/2/a) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 4
 
-[^key-70427410a8c53bcdaa49b76524c17801]: Commencement: Sch. 14 para. 5 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-70427410a8c53bcdaa49b76524c17801]: Commencement: Sch. 14 para. 5 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-a3897e5919b0d61767b8259650612a15]: Textual amendment: Word in [Sch. 14 para. 5](https://www.legislation.gov.uk/uksi/2013/648/schedule/14/paragraph/5) omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [12](https://www.legislation.gov.uk/uksi/2017/843/article/12)
+[^c-a3897e5919b0d61767b8259650612a15]: Textual amendment: Word in [Sch. 14 para. 5](https://www.legislation.gov.uk/uksi/2013/648/schedule/14/paragraph/5) omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [12](https://www.legislation.gov.uk/uksi/2017/843/article/12)
 
-[^key-c45fdedbb119af557425c7b28995b9da]: Textual amendment: Words in [Sch. 14 para. 5](https://www.legislation.gov.uk/uksi/2013/648/schedule/14/paragraph/5) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 4
+[^c-c45fdedbb119af557425c7b28995b9da]: Textual amendment: Words in [Sch. 14 para. 5](https://www.legislation.gov.uk/uksi/2013/648/schedule/14/paragraph/5) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 4

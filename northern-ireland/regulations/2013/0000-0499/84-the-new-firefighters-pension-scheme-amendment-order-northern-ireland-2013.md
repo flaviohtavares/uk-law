@@ -56,7 +56,7 @@ The Annex to the New Firefighters' Pension Scheme Order (Northern Ireland) 2007 
 
 In Chapter 1 of Part 11 (pensionable pay, pension contributions and purchase of additional service), in article 63(1) (pension contributions) insert “ percentage ” before “rate”.
 
-## 4.[^key-18430d48c6bc52f1056e48a9f5b1cf6c]
+## 4.[^c-18430d48c6bc52f1056e48a9f5b1cf6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -96,4 +96,4 @@ In addition, a new band of pensionable pay has been created so that those firefi
 
 [^c21725601]: Marginal citation: S.R. [2007 No. 215](https://www.legislation.gov.uk/ukcm/2007/215) relevant amendment is SR [2012 No. 162](https://www.legislation.gov.uk/ukcm/2012/162).
 
-[^key-18430d48c6bc52f1056e48a9f5b1cf6c]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2013/84/article/4) revoked (1.4.2014) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/57)](https://www.legislation.gov.uk/nisr/2014/57), [arts. 1](https://www.legislation.gov.uk/nisr/2014/57/article/1), [4](https://www.legislation.gov.uk/nisr/2014/57/article/4)
+[^c-18430d48c6bc52f1056e48a9f5b1cf6c]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2013/84/article/4) revoked (1.4.2014) by [The New Firefighters' Pension Scheme (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/57)](https://www.legislation.gov.uk/nisr/2014/57), [arts. 1](https://www.legislation.gov.uk/nisr/2014/57/article/1), [4](https://www.legislation.gov.uk/nisr/2014/57/article/4)

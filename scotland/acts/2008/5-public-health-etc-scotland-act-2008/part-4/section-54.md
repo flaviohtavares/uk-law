@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Duty to keep quarantine orders under review[^key-8b64ec2d2dc2b702d279a91ca2a0416a]
+## 54. Duty to keep quarantine orders under review[^c-8b64ec2d2dc2b702d279a91ca2a0416a]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ the competent person must revoke the order.
 
 ## Annotations
 
-[^key-8b64ec2d2dc2b702d279a91ca2a0416a]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2008/5/section/54) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-8b64ec2d2dc2b702d279a91ca2a0416a]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2008/5/section/54) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

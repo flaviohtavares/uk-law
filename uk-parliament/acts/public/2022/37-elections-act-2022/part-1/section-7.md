@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Requirement of secrecy[^key-fb3897367138914e2cd8c02a110c32e4][^key-40ac3965340505fa3f1db44d3b4a4f5c]
+## 7. Requirement of secrecy[^c-fb3897367138914e2cd8c02a110c32e4][^c-40ac3965340505fa3f1db44d3b4a4f5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb3897367138914e2cd8c02a110c32e4]: Commencement: S. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-fb3897367138914e2cd8c02a110c32e4]: Commencement: S. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-40ac3965340505fa3f1db44d3b4a4f5c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/37/section/7) in force at 12.12.2023 by [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-40ac3965340505fa3f1db44d3b4a4f5c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/37/section/7) in force at 12.12.2023 by [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))

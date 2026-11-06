@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**139.**[^key-c3a04ebc894f1c4668b14a8ab375f594] In section 171ZZ4(1)[^f00156] (Part 12ZC: supplementary) in the definition of “local authority foster parent”, for “section 22C(12)” substitute “section 105(1)”.
+**139.**[^c-c3a04ebc894f1c4668b14a8ab375f594] In section 171ZZ4(1)[^f00156] (Part 12ZC: supplementary) in the definition of “local authority foster parent”, for “section 22C(12)” substitute “section 105(1)”.
 
 ## Annotations
 
-[^key-c3a04ebc894f1c4668b14a8ab375f594]: Commencement: Reg. 139 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-c3a04ebc894f1c4668b14a8ab375f594]: Commencement: Reg. 139 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00156]: Footnote: Section 171ZZ4 was inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 119(1).

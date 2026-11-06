@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Detention of seized cash: meaning of “48 hours”[^key-3d8c37cb0e211f3df87b03faa7630950]
+## 100. Detention of seized cash: meaning of “48 hours”[^c-3d8c37cb0e211f3df87b03faa7630950]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d8c37cb0e211f3df87b03faa7630950]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2005/15/section/100) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/c)
+[^c-3d8c37cb0e211f3df87b03faa7630950]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2005/15/section/100) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/1521/article/2/1/c)

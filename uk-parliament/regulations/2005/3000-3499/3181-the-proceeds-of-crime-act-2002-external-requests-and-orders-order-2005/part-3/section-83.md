@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Management administrators: discharge[^key-87142613d6fa5191f149fb5fbc8e0a69]
+## 83. Management administrators: discharge[^c-87142613d6fa5191f149fb5fbc8e0a69]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87142613d6fa5191f149fb5fbc8e0a69]: Commencement: [Art. 83](https://www.legislation.gov.uk/uksi/2005/3181/article/83) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-87142613d6fa5191f149fb5fbc8e0a69]: Commencement: [Art. 83](https://www.legislation.gov.uk/uksi/2005/3181/article/83) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health and Social Services, and the Department of Agriculture being the Departments concerned[^f00001] in exercise of the powers conferred on them by Articles 15(1)(a), 16(1), 25(1) and (3), 26(3) and 47(2) of, and paragraph 1 of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling them in that behalf and after consultation in accordance with Article 47(3) of that Order with such organisations as appear to them to be representative of interests likely to be substantially affected by these Regulations, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-cb5747d09959759545fe40959be34a9b]
+## 1. Citation and commencement[^c-cb5747d09959759545fe40959be34a9b]
 
 These Regulations may be cited as the Colours in Food Regulations (Northern Ireland) 1996, and shall come into operation on 22nd April 1996.
 
-## 2. Interpretation[^key-bd511c054e228aa48036ffabb763dc46]
+## 2. Interpretation[^c-bd511c054e228aa48036ffabb763dc46]
 
 (1) In these Regulations—
 
@@ -87,7 +87,7 @@ and other expressions used in these Regulations and in Directive 94/36/EC have t
 - (a) a maximum level of permitted colour in or on a food is to the maximum amount, in milligrams, of colouring principle contained in that permitted colour per kilogram or, as the case may be, per litre of food which is ready to eat having been prepared according to any instructions for use;
 - (b) *quantum satis,* means that no maximum level of permitted colour in or on a corresponding food is specified but that in or on such food a permitted colour may be used in accordance with good manufacturing practice at a level not higher than is necessary to achieve the intended purpose and provided that such use does not mislead the consumer.
 
-## 3. Use of colours in or on food[^key-14ffe7edfbde1006238e22e5ecf9ea2e]
+## 3. Use of colours in or on food[^c-14ffe7edfbde1006238e22e5ecf9ea2e]
 
 (1) No person shall use in or on any food any colour other than a permitted colour.
 
@@ -103,7 +103,7 @@ and other expressions used in these Regulations and in Directive 94/36/EC have t
 
 (4) No person shall use any permitted colour listed in column 1 of Schedule 4 in or on any food other than the food or foods listed in relation to that permitted colour in column 2 of that Schedule.
 
-## 4. Health marking etc. of certain meat and meat products[^key-80f3da8dcf26d546d98932341a216082]
+## 4. Health marking etc. of certain meat and meat products[^c-80f3da8dcf26d546d98932341a216082]
 
 No person shall use any colour for the purpose of any health marking or any other marking required on any meat or meat product, other than the permitted colours—
 
@@ -112,7 +112,7 @@ No person shall use any colour for the purpose of any health marking or any othe
 - (c) E 129 Allura Red AC; or
 - (d) an appropriate mixture of (b) and (c).
 
-## 5. Use of colours on eggshells[^key-ea9969234f758751350eda346441e33d]
+## 5. Use of colours on eggshells[^c-ea9969234f758751350eda346441e33d]
 
 No person shall use any colour for—
 
@@ -121,7 +121,7 @@ No person shall use any colour for—
 
 of eggshells, other than a permitted colour.
 
-## 6. Use of colours in or on compound foods[^key-15ba9e36630b1d9e40173467b18c9922]
+## 6. Use of colours in or on compound foods[^c-15ba9e36630b1d9e40173467b18c9922]
 
 (1) Subject to paragraph (3), any food in or on which a permitted colour is used without contravening any of the provisions of paragraphs (2), (3) and (4) of regulation 3 may itself be used as an ingredient in a compound food in or on which the use of such colour is not otherwise permitted, and the presence in or on that compound food of such colour as a result of its containing such an ingredient shall not constitute a contravention of any of the provisions of those paragraphs of regulation 3.
 
@@ -129,7 +129,7 @@ of eggshells, other than a permitted colour.
 
 (3) Paragraph (1) shall not apply in the case of any compound food listed in Schedule 2.
 
-## 7. Sale of colours and food containing colours[^key-fd174ef826eda8cd27bd2a93e8de89bc]
+## 7. Sale of colours and food containing colours[^c-fd174ef826eda8cd27bd2a93e8de89bc]
 
 (1) No person shall sell any colour for use in or on food unless such colour is a permitted colour.
 
@@ -148,11 +148,11 @@ of eggshells, other than a permitted colour.
 
 (4) No person shall sell any food having in it or on it any added colour other than a permitted colour that has been used in or on that food without contravening any of the provisions of regulations 3, 4, 5 and 6.
 
-## 8. Condemnation of food[^key-1236f8a6725aa9efbdc83c4ecbbdb327]
+## 8. Condemnation of food[^c-1236f8a6725aa9efbdc83c4ecbbdb327]
 
 Where any food is certified by a food analyst as being food which it is an offence against these Regulations to sell, that food may be treated for the purposes of Article 8 of the Order (under which food may be seized and destroyed on the order of a justice of the peace) as failing to comply with food safety requirements, and Article 7(2) of the Order shall apply for the purposes of these Regulations as it applies for the purposes of the Order.
 
-## 9. Offences, penalties and enforcement[^key-a1daf336fe9ada57a263309fddfaa4c2]
+## 9. Offences, penalties and enforcement[^c-a1daf336fe9ada57a263309fddfaa4c2]
 
 (1) If any person contravenes any of the provisions of these Regulations he shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -160,14 +160,14 @@ Where any food is certified by a food analyst as being food which it is an offen
 
 (3) The Department of Agriculture shall enforce and execute these Regulations in relation to milk in liquid milk plants.
 
-## 10. Defence in relation to exports[^key-657bb01d68074e3fcc7cf3b712517537]
+## 10. Defence in relation to exports[^c-657bb01d68074e3fcc7cf3b712517537]
 
 In any proceedings for an offence under these Regulations it shall be a defence for the person charged to prove—
 
 - (a) that the food or, as the case may be, the colour in respect of which the offence is alleged to have been committed was intended for export to a country which has legislation analogous to these Regulations and that such food or colour complies with that legislation; and
 - (b) in the case of export to another member State, that the legislation complies with Council Directive [89/107/EEC](https://www.legislation.gov.uk/european/directive/1989/0107)[^f00006] on the approximation of the laws of the member States concerning food additives authorised for use in foodstuffs intended for human consumption, Directive 94/36/EC and Directive 95/45/EC.
 
-## 11. Application of various provisions of the Order[^key-a1badf749c7ea9673e12c1deb5beeb17]
+## 11. Application of various provisions of the Order[^c-a1badf749c7ea9673e12c1deb5beeb17]
 
 The following provisions of the Order shall apply for the purposes of these Regulations as they apply for the purposes of Articles 7, 13 and 14 of the Order and any reference in them to the Order shall be construed as a reference to these Regulations:
 
@@ -179,7 +179,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 - (f) Article 30(8) (which relates to documentary evidence);
 - (g) Article 34 (obstruction, etc., of officers).
 
-## 12. Revocations and amendments[^key-773fba95da14663ee2ce8de5959114c5]
+## 12. Revocations and amendments[^c-773fba95da14663ee2ce8de5959114c5]
 
 (1) The Regulations and order specified in columns 1 and 2 of Schedule 6 shall be revoked to the extent specified in column 3 of that Schedule.
 
@@ -212,7 +212,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 
   .
 
-## 13. Transitional provision and exemption[^key-2686fe42010bd6ede50187df3da5c17c]
+## 13. Transitional provision and exemption[^c-2686fe42010bd6ede50187df3da5c17c]
 
 (1) In any proceedings for an offence against these Regulations it shall be a defence to prove that—
 
@@ -244,7 +244,7 @@ Assistant Secretary
 
 28th February 1996.
 
-## SCHEDULE 1 — Permitted Colours[^key-d41df343b3e4d8dd80b72d864979cfcf][^f01000]
+## SCHEDULE 1 — Permitted Colours[^c-d41df343b3e4d8dd80b72d864979cfcf][^f01000]
 
 Regulation 2(1)
 
@@ -318,73 +318,73 @@ Foods which may not contain added colours, except where specifically provided fo
 
 Regulations 3(2) and (3)(b) and 6(3)
 
-**1.**[^key-82b1c0fac381921014f363ff068de70b] Unprocessed foodstuffs
+**1.**[^c-82b1c0fac381921014f363ff068de70b] Unprocessed foodstuffs
 
-**2.**[^key-eb03c622ea57733e68c0bb1be28509cb] All bottled or packed waters
+**2.**[^c-eb03c622ea57733e68c0bb1be28509cb] All bottled or packed waters
 
-**3.**[^key-cc7ddddf7a87fd7f705b252829ffe6e5] Milk, semi-skimmed and skimmed milk, pasteurised or sterilised (including UHT sterilisation) (unflavoured)
+**3.**[^c-cc7ddddf7a87fd7f705b252829ffe6e5] Milk, semi-skimmed and skimmed milk, pasteurised or sterilised (including UHT sterilisation) (unflavoured)
 
-**4.**[^key-96af58824159afb352f7043449579d86] Chocolate milk
+**4.**[^c-96af58824159afb352f7043449579d86] Chocolate milk
 
-**5.**[^key-745fc006149c9a565997eb68b3532b68] Fermented milk (unflavoured)
+**5.**[^c-745fc006149c9a565997eb68b3532b68] Fermented milk (unflavoured)
 
-**6.**[^key-c7d3735c20e8317529fe3df0bb19be98] Preserved milks as mentioned in Directive [76/118/EEC](https://www.legislation.gov.uk/european/directive/1976/0118)[^f00011]
+**6.**[^c-c7d3735c20e8317529fe3df0bb19be98] Preserved milks as mentioned in Directive [76/118/EEC](https://www.legislation.gov.uk/european/directive/1976/0118)[^f00011]
 
-**7.**[^key-949abb0f8fccb43e210e6d6f2abba870] Butter-milk (unflavoured)
+**7.**[^c-949abb0f8fccb43e210e6d6f2abba870] Butter-milk (unflavoured)
 
-**8.**[^key-b0992578bb552fafb8c9421521a98f44] Cream and cream powder (unflavoured)
+**8.**[^c-b0992578bb552fafb8c9421521a98f44] Cream and cream powder (unflavoured)
 
-**9.**[^key-cf05fe7b38664026a1b8ca102027dd77] Oils and fats of animal or vegetable origin
+**9.**[^c-cf05fe7b38664026a1b8ca102027dd77] Oils and fats of animal or vegetable origin
 
-**10.**[^key-ed69f2dafe9c7a94775a265d7eda17eb] Eggs and egg products as defined in Article 2(1) of Directive [89/437/EEC](https://www.legislation.gov.uk/european/directive/1989/0437)[^f00012]
+**10.**[^c-ed69f2dafe9c7a94775a265d7eda17eb] Eggs and egg products as defined in Article 2(1) of Directive [89/437/EEC](https://www.legislation.gov.uk/european/directive/1989/0437)[^f00012]
 
-**11.**[^key-06651d4d59485a495eca52a72df8fe2f] Flour and other milled products and starches
+**11.**[^c-06651d4d59485a495eca52a72df8fe2f] Flour and other milled products and starches
 
-**12.**[^key-1e4240b45656182d6495dcb31ccc7968] Bread and similar products
+**12.**[^c-1e4240b45656182d6495dcb31ccc7968] Bread and similar products
 
-**13.**[^key-7c5896c8d25e4451060598a75df3927c] Pasta and gnocchi
+**13.**[^c-7c5896c8d25e4451060598a75df3927c] Pasta and gnocchi
 
-**14.**[^key-263b1c196ee42cdd6cca5e5b2ad52bbd] Sugar, including all mono- and disaccharides
+**14.**[^c-263b1c196ee42cdd6cca5e5b2ad52bbd] Sugar, including all mono- and disaccharides
 
-**15.**[^key-8be9741ce9e1547758bf8177aa0eaad0] Tomato paste and canned and bottled tomatoes
+**15.**[^c-8be9741ce9e1547758bf8177aa0eaad0] Tomato paste and canned and bottled tomatoes
 
-**16.**[^key-460c9f9cd126408ac86053e1642aa63a] Tomato-based sauces
+**16.**[^c-460c9f9cd126408ac86053e1642aa63a] Tomato-based sauces
 
-**17.**[^key-e6d4f16a3276e752efcde0e3b008bd85] Fruit juice and fruit nectar as mentioned in Directive [93/77/EEC](https://www.legislation.gov.uk/european/directive/1993/0077)[^f00013] and vegetable juice
+**17.**[^c-e6d4f16a3276e752efcde0e3b008bd85] Fruit juice and fruit nectar as mentioned in Directive [93/77/EEC](https://www.legislation.gov.uk/european/directive/1993/0077)[^f00013] and vegetable juice
 
-**18.**[^key-b6682fd6982e42ef590ad50a0a65a4a9] Fruit, vegetables (including potatoes) and mushrooms — canned, bottled or dried; processed fruit, vegetables (including potatoes) and mushrooms
+**18.**[^c-b6682fd6982e42ef590ad50a0a65a4a9] Fruit, vegetables (including potatoes) and mushrooms — canned, bottled or dried; processed fruit, vegetables (including potatoes) and mushrooms
 
-**19.**[^key-274536d4e801c6de285b001da4b57b86] Extra jam, extra jelly, and chestnut purée as mentioned in Directive [79/693/EEC](https://www.legislation.gov.uk/european/directive/1979/0693)[^f00014]; crème de pruneaux
+**19.**[^c-274536d4e801c6de285b001da4b57b86] Extra jam, extra jelly, and chestnut purée as mentioned in Directive [79/693/EEC](https://www.legislation.gov.uk/european/directive/1979/0693)[^f00014]; crème de pruneaux
 
-**20.**[^key-5014ed8e30f04f78593519521ee1241c] Fish, molluscs and crustaceans, meat, poultry and game as well as their preparations, but not including prepared meals containing these ingredients
+**20.**[^c-5014ed8e30f04f78593519521ee1241c] Fish, molluscs and crustaceans, meat, poultry and game as well as their preparations, but not including prepared meals containing these ingredients
 
-**21.**[^key-8165a93fa322b51f9abdbb01bceb2f18] Cocoa products and chocolate components in chocolate products as mentioned in Directive [73/241/EEC](https://www.legislation.gov.uk/european/directive/1973/0241)[^f00015]
+**21.**[^c-8165a93fa322b51f9abdbb01bceb2f18] Cocoa products and chocolate components in chocolate products as mentioned in Directive [73/241/EEC](https://www.legislation.gov.uk/european/directive/1973/0241)[^f00015]
 
-**22.**[^key-740663e5c708f97420127f45da05b6bb] Roasted coffee, tea, chicory; tea and chicory extracts; tea, plant, fruit and cereal preparations for infusions, as well as mixes and instant mixes of these products
+**22.**[^c-740663e5c708f97420127f45da05b6bb] Roasted coffee, tea, chicory; tea and chicory extracts; tea, plant, fruit and cereal preparations for infusions, as well as mixes and instant mixes of these products
 
-**23.**[^key-c2664fb6c1194612d4b152a2dc76b635] Salt, salt substitutes, spices and mixtures of spices
+**23.**[^c-c2664fb6c1194612d4b152a2dc76b635] Salt, salt substitutes, spices and mixtures of spices
 
-**24.**[^key-fb58ce6e3da73400b933227798701cba] Wine and other products defined by Regulation [(EEC) No. 822/87](https://www.legislation.gov.uk/european/regulation/1987/0822)[^f00016]
+**24.**[^c-fb58ce6e3da73400b933227798701cba] Wine and other products defined by Regulation [(EEC) No. 822/87](https://www.legislation.gov.uk/european/regulation/1987/0822)[^f00016]
 
-**25.**[^key-93b6879433543c70607708f0ab42cc37] Korn, Kornbrand, fruit spirit drinks, fruit spirits, Ouzo, Grappa, Tsikoudia from Crete, Tsipouro from Macedonia, Tsipouro from Thessaly, Tsipouro from Tyrnavos, Eau de vie de marc Marque nationale luxembourgeoise, Eau de vie de seigle Marque nationale luxembourgeoise, London gin, as defined in Regulation [(EEC) No. 1576/89](https://www.legislation.gov.uk/european/regulation/1989/1576)[^f00017]
+**25.**[^c-93b6879433543c70607708f0ab42cc37] Korn, Kornbrand, fruit spirit drinks, fruit spirits, Ouzo, Grappa, Tsikoudia from Crete, Tsipouro from Macedonia, Tsipouro from Thessaly, Tsipouro from Tyrnavos, Eau de vie de marc Marque nationale luxembourgeoise, Eau de vie de seigle Marque nationale luxembourgeoise, London gin, as defined in Regulation [(EEC) No. 1576/89](https://www.legislation.gov.uk/european/regulation/1989/1576)[^f00017]
 
-**26.**[^key-4b6884c5c9a0fefa530d9b4b5af29755] Sambuca, Maraschino and Mistra as defined in Regulation [(EEC) No. 1180/91](https://www.legislation.gov.uk/european/regulation/1991/1180)[^f00018]
+**26.**[^c-4b6884c5c9a0fefa530d9b4b5af29755] Sambuca, Maraschino and Mistra as defined in Regulation [(EEC) No. 1180/91](https://www.legislation.gov.uk/european/regulation/1991/1180)[^f00018]
 
-**27.**[^key-59d7b7d5311e359c61c73ccbdf0c6ff7] Sangria, Clarea and Zurra as mentioned in Regulation [(EEC) No. 1601/91](https://www.legislation.gov.uk/european/regulation/1991/1601)[^f00019]
+**27.**[^c-59d7b7d5311e359c61c73ccbdf0c6ff7] Sangria, Clarea and Zurra as mentioned in Regulation [(EEC) No. 1601/91](https://www.legislation.gov.uk/european/regulation/1991/1601)[^f00019]
 
-**28.**[^key-7be8d572a0e4884f176b269dc1a73c40] Wine vinegar
+**28.**[^c-7be8d572a0e4884f176b269dc1a73c40] Wine vinegar
 
-**29.**[^key-fdea8fa3614c08a6c15a9df1c170c025] Foods for infants and young children as mentioned in Directive [89/398/EEC](https://www.legislation.gov.uk/european/directive/1989/0398)[^f00020] including foods for infants and young children not in good health
+**29.**[^c-fdea8fa3614c08a6c15a9df1c170c025] Foods for infants and young children as mentioned in Directive [89/398/EEC](https://www.legislation.gov.uk/european/directive/1989/0398)[^f00020] including foods for infants and young children not in good health
 
-**30.**[^key-5bfb69cb4f0f49a3b2c4072af9624354] Honey
+**30.**[^c-5bfb69cb4f0f49a3b2c4072af9624354] Honey
 
-**31.**[^key-0b43e1be1bcf884769ba674f4a5ddfcf] Malt and malt products
+**31.**[^c-0b43e1be1bcf884769ba674f4a5ddfcf] Malt and malt products
 
-**32.**[^key-1030c0946fd5fa4930b120fda65ffa41] Ripened and unripened cheese (unflavoured)
+**32.**[^c-1030c0946fd5fa4930b120fda65ffa41] Ripened and unripened cheese (unflavoured)
 
-**33.**[^key-2cadbb216844aef822ac2fec8d64a50f] Butter from sheep and goats' milk
+**33.**[^c-2cadbb216844aef822ac2fec8d64a50f] Butter from sheep and goats' milk
 
-## SCHEDULE 3 — Foods to which only certain permitted colours may be added[^key-940fa96454ede6b45adb4d3940052d42]
+## SCHEDULE 3 — Foods to which only certain permitted colours may be added[^c-940fa96454ede6b45adb4d3940052d42]
 
 Regulation 3(3)
 
@@ -534,7 +534,7 @@ Regulation 3(3)
 </tbody>
 </table>
 
-## SCHEDULE 4 — Colours permitted for use in certain foods only[^key-26d568f213d1415d0e70503f50f772e1]
+## SCHEDULE 4 — Colours permitted for use in certain foods only[^c-26d568f213d1415d0e70503f50f772e1]
 
 Regulation 3(3) and (4)
 
@@ -584,7 +584,7 @@ Regulation 3(3) and (4)
 
 Regulation 3(3)
 
-### Part I[^key-d1cc8d6ff5a6a67fc671e84c7aa1ddd0]
+### Part I[^c-d1cc8d6ff5a6a67fc671e84c7aa1ddd0]
 
 The following colours may be used, in each case at *quantum satis,* in foods listed in Part III of this Schedule and in any food other than one listed in Schedules 2 and 3.
 
@@ -605,7 +605,7 @@ The following colours may be used, in each case at *quantum satis,* in foods lis
 - E 171 Titanium dioxide
 - E 172 Iron oxides and hydroxides
 
-### Part II[^key-42146b38fbd1db919c9fd4f09f6bb40b]
+### Part II[^c-42146b38fbd1db919c9fd4f09f6bb40b]
 
 The following colours may be used singly or in combination in the foods listed in Part III of this Schedule, in each case up to the maximum level specified for such food. However, for non-alcoholic flavoured drinks, edible ices, desserts, fine bakery wares and confectionery, the colours may be used up to the limit indicated in Part III but the quantities of each of the colours E 110, E 122, E 124 and E 155 may not exceed 50 mg/kg or mg/l:
 
@@ -629,7 +629,7 @@ The following colours may be used singly or in combination in the foods listed i
 - E 160f Ethyl ester of Beta-apo-8'-carotenic acid (C 30)
 - E 161b Lutein
 
-### Part III[^key-cfcbe2a9b6f1d3f33e0fe3e3f6b72af4]
+### Part III[^c-cfcbe2a9b6f1d3f33e0fe3e3f6b72af4]
 
 | Food | Maximum level |
 | --- | --- |
@@ -664,7 +664,7 @@ The following colours may be used singly or in combination in the foods listed i
 | Aromatized wines, aromatized wine-based drinks and aromatized wine-product cocktails as mentioned in Regulation [(EEC) No. 1601/91](https://www.legislation.gov.uk/european/regulation/1991/1601), except any mentioned in Schedule 2 or 3 | 200 mg/l |
 | Fruit wines (still or sparkling) Cider (except cidre bouché) and perry Aromatized fruit wines, cider and perry | 200 mg/l |
 
-## SCHEDULE 6 — Revocations[^key-1f48752ae175e658ff454a7930fa9a2b]
+## SCHEDULE 6 — Revocations[^c-1f48752ae175e658ff454a7930fa9a2b]
 
 Regulation 12(1)
 
@@ -721,37 +721,37 @@ The Regulations also—
 
 [^f00002]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762)
 
-[^key-cb5747d09959759545fe40959be34a9b]: Commencement: Reg. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-cb5747d09959759545fe40959be34a9b]: Commencement: Reg. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-bd511c054e228aa48036ffabb763dc46]: Commencement: Reg. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-bd511c054e228aa48036ffabb763dc46]: Commencement: Reg. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L237, 10.9.94, p. 13
 
 [^f00004]: Footnote: O.J. No. L226, 22.9.95, p. 1
 
-[^key-14ffe7edfbde1006238e22e5ecf9ea2e]: Commencement: Reg. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-14ffe7edfbde1006238e22e5ecf9ea2e]: Commencement: Reg. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-80f3da8dcf26d546d98932341a216082]: Commencement: Reg. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-80f3da8dcf26d546d98932341a216082]: Commencement: Reg. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-ea9969234f758751350eda346441e33d]: Commencement: Reg. 5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-ea9969234f758751350eda346441e33d]: Commencement: Reg. 5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00005]: Footnote: O.J. No. L121, 16.5.91, p. 11
 
-[^key-15ba9e36630b1d9e40173467b18c9922]: Commencement: Reg. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-15ba9e36630b1d9e40173467b18c9922]: Commencement: Reg. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-fd174ef826eda8cd27bd2a93e8de89bc]: Commencement: Reg. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-fd174ef826eda8cd27bd2a93e8de89bc]: Commencement: Reg. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-1236f8a6725aa9efbdc83c4ecbbdb327]: Commencement: Reg. 8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-1236f8a6725aa9efbdc83c4ecbbdb327]: Commencement: Reg. 8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-a1daf336fe9ada57a263309fddfaa4c2]: Commencement: Reg. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-a1daf336fe9ada57a263309fddfaa4c2]: Commencement: Reg. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-657bb01d68074e3fcc7cf3b712517537]: Commencement: Reg. 10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-657bb01d68074e3fcc7cf3b712517537]: Commencement: Reg. 10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00006]: Footnote: O.J. No. L40, 11.2.89, p. 27
 
-[^key-a1badf749c7ea9673e12c1deb5beeb17]: Commencement: Reg. 11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-a1badf749c7ea9673e12c1deb5beeb17]: Commencement: Reg. 11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-773fba95da14663ee2ce8de5959114c5]: Commencement: Reg. 12 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-773fba95da14663ee2ce8de5959114c5]: Commencement: Reg. 12 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1976 No. 165](https://www.legislation.gov.uk/nisr/1976/165), to which there are amendments not relevant to these Regulations
 
@@ -761,9 +761,9 @@ The Regulations also—
 
 [^f00010]: Footnote: [S.R. 1992 No. 417](https://www.legislation.gov.uk/nisr/1992/417)
 
-[^key-2686fe42010bd6ede50187df3da5c17c]: Commencement: Reg. 13 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-2686fe42010bd6ede50187df3da5c17c]: Commencement: Reg. 13 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-d41df343b3e4d8dd80b72d864979cfcf]: Commencement: Sch. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-d41df343b3e4d8dd80b72d864979cfcf]: Commencement: Sch. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f01000]: Footnote: Aluminium lakes prepared from colours listed in this Schedule are also permitted.
 
@@ -771,100 +771,100 @@ The Regulations also—
 
 [^f01002]: Footnote: The term caramel relates to products of a more or less intense brown colour which are intended for colouring. It does not correspond to the sugary aromatic product obtained from heating sugars and which is used for flavouring food (e.g. confectionery, pastry, alcoholic drinks).
 
-[^key-82b1c0fac381921014f363ff068de70b]: Commencement: Sch. 2 para. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-82b1c0fac381921014f363ff068de70b]: Commencement: Sch. 2 para. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-eb03c622ea57733e68c0bb1be28509cb]: Commencement: Sch. 2 para. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-eb03c622ea57733e68c0bb1be28509cb]: Commencement: Sch. 2 para. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-cc7ddddf7a87fd7f705b252829ffe6e5]: Commencement: Sch. 2 para. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-cc7ddddf7a87fd7f705b252829ffe6e5]: Commencement: Sch. 2 para. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-96af58824159afb352f7043449579d86]: Commencement: Sch. 2 para. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-96af58824159afb352f7043449579d86]: Commencement: Sch. 2 para. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-745fc006149c9a565997eb68b3532b68]: Commencement: Sch. 2 para. 5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-745fc006149c9a565997eb68b3532b68]: Commencement: Sch. 2 para. 5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-c7d3735c20e8317529fe3df0bb19be98]: Commencement: Sch. 2 para. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-c7d3735c20e8317529fe3df0bb19be98]: Commencement: Sch. 2 para. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00011]: Footnote: O.J. No. L24, 30.1.76, p. 49
 
-[^key-949abb0f8fccb43e210e6d6f2abba870]: Commencement: Sch. 2 para. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-949abb0f8fccb43e210e6d6f2abba870]: Commencement: Sch. 2 para. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-b0992578bb552fafb8c9421521a98f44]: Commencement: Sch. 2 para. 8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-b0992578bb552fafb8c9421521a98f44]: Commencement: Sch. 2 para. 8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-cf05fe7b38664026a1b8ca102027dd77]: Commencement: Sch. 2 para. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-cf05fe7b38664026a1b8ca102027dd77]: Commencement: Sch. 2 para. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-ed69f2dafe9c7a94775a265d7eda17eb]: Commencement: Sch. 2 para. 10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-ed69f2dafe9c7a94775a265d7eda17eb]: Commencement: Sch. 2 para. 10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00012]: Footnote: O.J. No. L212, 27.7.89, p. 87
 
-[^key-06651d4d59485a495eca52a72df8fe2f]: Commencement: Sch. 2 para. 11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-06651d4d59485a495eca52a72df8fe2f]: Commencement: Sch. 2 para. 11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-1e4240b45656182d6495dcb31ccc7968]: Commencement: Sch. 2 para. 12 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-1e4240b45656182d6495dcb31ccc7968]: Commencement: Sch. 2 para. 12 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-7c5896c8d25e4451060598a75df3927c]: Commencement: Sch. 2 para. 13 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-7c5896c8d25e4451060598a75df3927c]: Commencement: Sch. 2 para. 13 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-263b1c196ee42cdd6cca5e5b2ad52bbd]: Commencement: Sch. 2 para. 14 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-263b1c196ee42cdd6cca5e5b2ad52bbd]: Commencement: Sch. 2 para. 14 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-8be9741ce9e1547758bf8177aa0eaad0]: Commencement: Sch. 2 para. 15 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-8be9741ce9e1547758bf8177aa0eaad0]: Commencement: Sch. 2 para. 15 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-460c9f9cd126408ac86053e1642aa63a]: Commencement: Sch. 2 para. 16 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-460c9f9cd126408ac86053e1642aa63a]: Commencement: Sch. 2 para. 16 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-e6d4f16a3276e752efcde0e3b008bd85]: Commencement: Sch. 2 para. 17 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-e6d4f16a3276e752efcde0e3b008bd85]: Commencement: Sch. 2 para. 17 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00013]: Footnote: O.J. No. L224, 30.9.93, p. 23
 
-[^key-b6682fd6982e42ef590ad50a0a65a4a9]: Commencement: Sch. 2 para. 18 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-b6682fd6982e42ef590ad50a0a65a4a9]: Commencement: Sch. 2 para. 18 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-274536d4e801c6de285b001da4b57b86]: Commencement: Sch. 2 para. 19 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-274536d4e801c6de285b001da4b57b86]: Commencement: Sch. 2 para. 19 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00014]: Footnote: O.J. No. L205, 13.8.79, p. 5
 
-[^key-5014ed8e30f04f78593519521ee1241c]: Commencement: Sch. 2 para. 20 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-5014ed8e30f04f78593519521ee1241c]: Commencement: Sch. 2 para. 20 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-8165a93fa322b51f9abdbb01bceb2f18]: Commencement: Sch. 2 para. 21 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-8165a93fa322b51f9abdbb01bceb2f18]: Commencement: Sch. 2 para. 21 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00015]: Footnote: O.J. No. L228, 16.8.73, p. 23
 
-[^key-740663e5c708f97420127f45da05b6bb]: Commencement: Sch. 2 para. 22 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-740663e5c708f97420127f45da05b6bb]: Commencement: Sch. 2 para. 22 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-c2664fb6c1194612d4b152a2dc76b635]: Commencement: Sch. 2 para. 23 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-c2664fb6c1194612d4b152a2dc76b635]: Commencement: Sch. 2 para. 23 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-fb58ce6e3da73400b933227798701cba]: Commencement: Sch. 2 para. 24 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-fb58ce6e3da73400b933227798701cba]: Commencement: Sch. 2 para. 24 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00016]: Footnote: O.J. No. L84, 27.3.87, p. 1
 
-[^key-93b6879433543c70607708f0ab42cc37]: Commencement: Sch. 2 para. 25 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-93b6879433543c70607708f0ab42cc37]: Commencement: Sch. 2 para. 25 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00017]: Footnote: O.J. No. L160, 12.6.89, p. 1
 
-[^key-4b6884c5c9a0fefa530d9b4b5af29755]: Commencement: Sch. 2 para. 26 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-4b6884c5c9a0fefa530d9b4b5af29755]: Commencement: Sch. 2 para. 26 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00018]: Footnote: O.J. No. L115, 8.5.91, p. 5
 
-[^key-59d7b7d5311e359c61c73ccbdf0c6ff7]: Commencement: Sch. 2 para. 27 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-59d7b7d5311e359c61c73ccbdf0c6ff7]: Commencement: Sch. 2 para. 27 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00019]: Footnote: O.J. No. L149, 14.6.91, p. 1
 
-[^key-7be8d572a0e4884f176b269dc1a73c40]: Commencement: Sch. 2 para. 28 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-7be8d572a0e4884f176b269dc1a73c40]: Commencement: Sch. 2 para. 28 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-fdea8fa3614c08a6c15a9df1c170c025]: Commencement: Sch. 2 para. 29 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-fdea8fa3614c08a6c15a9df1c170c025]: Commencement: Sch. 2 para. 29 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
 [^f00020]: Footnote: O.J. No. L186, 30.6.89, p. 27
 
-[^key-5bfb69cb4f0f49a3b2c4072af9624354]: Commencement: Sch. 2 para. 30 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-5bfb69cb4f0f49a3b2c4072af9624354]: Commencement: Sch. 2 para. 30 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-0b43e1be1bcf884769ba674f4a5ddfcf]: Commencement: Sch. 2 para. 31 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-0b43e1be1bcf884769ba674f4a5ddfcf]: Commencement: Sch. 2 para. 31 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-1030c0946fd5fa4930b120fda65ffa41]: Commencement: Sch. 2 para. 32 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-1030c0946fd5fa4930b120fda65ffa41]: Commencement: Sch. 2 para. 32 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-2cadbb216844aef822ac2fec8d64a50f]: Commencement: Sch. 2 para. 33 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-2cadbb216844aef822ac2fec8d64a50f]: Commencement: Sch. 2 para. 33 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-940fa96454ede6b45adb4d3940052d42]: Commencement: Sch. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-940fa96454ede6b45adb4d3940052d42]: Commencement: Sch. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-26d568f213d1415d0e70503f50f772e1]: Commencement: Sch. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-26d568f213d1415d0e70503f50f772e1]: Commencement: Sch. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-d1cc8d6ff5a6a67fc671e84c7aa1ddd0]: Commencement: Sch. 5 Pt. I in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-d1cc8d6ff5a6a67fc671e84c7aa1ddd0]: Commencement: Sch. 5 Pt. I in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-42146b38fbd1db919c9fd4f09f6bb40b]: Commencement: Sch. 5 Pt. II in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-42146b38fbd1db919c9fd4f09f6bb40b]: Commencement: Sch. 5 Pt. II in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-cfcbe2a9b6f1d3f33e0fe3e3f6b72af4]: Commencement: Sch. 5 Pt. III in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-cfcbe2a9b6f1d3f33e0fe3e3f6b72af4]: Commencement: Sch. 5 Pt. III in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
 
-[^key-1f48752ae175e658ff454a7930fa9a2b]: Commencement: Sch. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)
+[^c-1f48752ae175e658ff454a7930fa9a2b]: Commencement: Sch. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/49/regulation/1)

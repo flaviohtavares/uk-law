@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10E — FORMS OF CERTIFICATE AND STATEMENT OF FAILURE OF LARGE VEHICLE OFF ROAD MANOEUVRES TEST RESULT[^key-5ab815998eec0407df56b959f6af53dd]
+## SCHEDULE 10E — FORMS OF CERTIFICATE AND STATEMENT OF FAILURE OF LARGE VEHICLE OFF ROAD MANOEUVRES TEST RESULT[^c-5ab815998eec0407df56b959f6af53dd]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Regulation 3
 
 ## Annotations
 
-[^key-5ab815998eec0407df56b959f6af53dd]: Textual amendment: Sch. 10E inserted (15.11.2021 at 1.00 a.m.) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1154/schedule/2)
+[^c-5ab815998eec0407df56b959f6af53dd]: Textual amendment: Sch. 10E inserted (15.11.2021 at 1.00 a.m.) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1154)](https://www.legislation.gov.uk/uksi/2021/1154), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1154/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1154/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Use of STS designation[^key-32b185e47cd90703df99b9e051b09264]
+## 12. Use of STS designation[^c-32b185e47cd90703df99b9e051b09264]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,10 +36,10 @@ summary: ''
 
 (4) In paragraph (3), any reference to a provision of the EU Securitisation Regulation 2017 is a reference to that provision as it had or has effect in relation to the European Union at any time on or after the date of the notification and before the relevant time.
 
-(5) In paragraph (3)(b) and (4) “**the relevant time**” means 11 p.m. on 30th June 2026[^key-32334c6740113dd3f95397abf8a367a4].
+(5) In paragraph (3)(b) and (4) “**the relevant time**” means 11 p.m. on 30th June 2026[^c-32334c6740113dd3f95397abf8a367a4].
 
 ## Annotations
 
-[^key-32b185e47cd90703df99b9e051b09264]: Commencement: Reg. 12 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-32b185e47cd90703df99b9e051b09264]: Commencement: Reg. 12 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
 
-[^key-32334c6740113dd3f95397abf8a367a4]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2024/102/regulation/12/5) substituted (22.11.2024) by [The Securitisation (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1202)](https://www.legislation.gov.uk/uksi/2024/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1202/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/1202/regulation/2)
+[^c-32334c6740113dd3f95397abf8a367a4]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2024/102/regulation/12/5) substituted (22.11.2024) by [The Securitisation (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1202)](https://www.legislation.gov.uk/uksi/2024/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1202/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/1202/regulation/2)

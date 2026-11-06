@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Diminishing notional capital rule[^key-9cbc3ab1b3876d86cbde0cb68555b829]
+## 114. Diminishing notional capital rule[^c-9cbc3ab1b3876d86cbde0cb68555b829]
 
 *Extent: N.I.*
 
@@ -76,6 +76,6 @@ and in such a case, the amount of the reduction for the purposes of paragraph (1
 
 ## Annotations
 
-[^key-9cbc3ab1b3876d86cbde0cb68555b829]: Commencement: Reg. 114 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-9cbc3ab1b3876d86cbde0cb68555b829]: Commencement: Reg. 114 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00106]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461), to which there are amendments not relevant to these Regulations

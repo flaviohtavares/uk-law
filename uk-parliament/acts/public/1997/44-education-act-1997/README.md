@@ -33,7 +33,7 @@ An Act to amend the law relating to education in schools and further education i
 
 \[21st March 1997\]
 
-[^c11259371][^c11259381]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c91f52fdf275e51658f40fbff46ab8b2][^key-6dc3f6943d433132c798fc5f480c3c36][^key-5ae595ac944001323d082e2d94054d27]
+[^c11259371][^c11259381]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c91f52fdf275e51658f40fbff46ab8b2][^c-6dc3f6943d433132c798fc5f480c3c36][^c-5ae595ac944001323d082e2d94054d27]
 
 ## Contents
 
@@ -101,7 +101,7 @@ An Act to amend the law relating to education in schools and further education i
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter I — Baseline assessments[^key-7aff5d4f99c40d7b9e9f8d18c42b2ac5]
+#### Chapter I — Baseline assessments[^c-7aff5d4f99c40d7b9e9f8d18c42b2ac5]
 
 *Extent: E+W*
 
@@ -142,17 +142,17 @@ An Act to amend the law relating to education in schools and further education i
 - [Section 26 — Supplementary provisions relating to discharge by Authority of their functions.](part-v/section-26.md)
 - [Section 26A — Power of Authority to give directions](part-v/section-26a.md)
 
-#### Chapter II — Functions of the National Assembly for Wales[^key-c4ce42a71c69adbc0bfb6dc70b8d7131]
+#### Chapter II — Functions of the National Assembly for Wales[^c-c4ce42a71c69adbc0bfb6dc70b8d7131]
 
 *Extent: E+W+S+N.I.*
 
-##### ...[^key-49b70da8f48316d72d704a083a60c8ff]
+##### ...[^c-49b70da8f48316d72d704a083a60c8ff]
 
 *Extent: E+W*
 
 - [Section 27 — The Qualifications, Curriculum and Assessment Authority for Wales.](part-v/section-27.md)
 
-##### Functions of the National Assembly for Wales[^key-12522b7f89adfa347d27f921c26ed663]
+##### Functions of the National Assembly for Wales[^c-12522b7f89adfa347d27f921c26ed663]
 
 *Extent: E+W*
 
@@ -196,9 +196,9 @@ An Act to amend the law relating to education in schools and further education i
 
 - [Section 37 — Requirement for approval of certain publicly-funded and school courses leading to external qualifications.](part-v/section-37.md)
 
-### Part VI — Inspection of local authorities and school inspections[^key-ceb00244a7e53e94eb1fe9e53ab84a50]
+### Part VI — Inspection of local authorities and school inspections[^c-ceb00244a7e53e94eb1fe9e53ab84a50]
 
-#### Chapter I — Inspection of local authorities in Wales[^key-ceb00244a7e53e94eb1fe9e53ab84a50][^key-75f623678ccc5e99762f1f36326afb9a]
+#### Chapter I — Inspection of local authorities in Wales[^c-ceb00244a7e53e94eb1fe9e53ab84a50][^c-75f623678ccc5e99762f1f36326afb9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -286,20 +286,20 @@ SCHEDULES
 
     Act applied (E.W.) (1.6.2001) by [S.I. 2001/1507](https://www.legislation.gov.uk/uksi/2001/1507), [reg. 2](https://www.legislation.gov.uk/uksi/2001/1507/regulation/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/1507/schedule/2/paragraph/2)
 
-[^key-c91f52fdf275e51658f40fbff46ab8b2]: Modification: Act applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-c91f52fdf275e51658f40fbff46ab8b2]: Modification: Act applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-6dc3f6943d433132c798fc5f480c3c36]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
+[^c-6dc3f6943d433132c798fc5f480c3c36]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
 
-[^key-5ae595ac944001323d082e2d94054d27]: Modification: Education Acts modified (*temp.*) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-5ae595ac944001323d082e2d94054d27]: Modification: Education Acts modified (*temp.*) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
-[^key-7aff5d4f99c40d7b9e9f8d18c42b2ac5]: Textual amendment: Pt. IV Ch. I repealed (2.9.2002 for E., 1.9.2011 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 204](https://www.legislation.gov.uk/ukpga/2002/32/section/204), [216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 4](https://www.legislation.gov.uk/uksi/2002/2002/article/4); [S.I. 2011/1952](https://www.legislation.gov.uk/wsi/2011/1952), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/2/a)[(c)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/2/c)
+[^c-7aff5d4f99c40d7b9e9f8d18c42b2ac5]: Textual amendment: Pt. IV Ch. I repealed (2.9.2002 for E., 1.9.2011 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [ss. 204](https://www.legislation.gov.uk/ukpga/2002/32/section/204), [216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 4](https://www.legislation.gov.uk/uksi/2002/2002/article/4); [S.I. 2011/1952](https://www.legislation.gov.uk/wsi/2011/1952), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/2/a)[(c)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/2/c)
 
-[^key-c4ce42a71c69adbc0bfb6dc70b8d7131]: Textual amendment: Pt. V Ch. II heading substituted (1.4.2006) by [Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/uksi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3239/article/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2005/3239/schedule/1/paragraph/8) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3239/article/7))
+[^c-c4ce42a71c69adbc0bfb6dc70b8d7131]: Textual amendment: Pt. V Ch. II heading substituted (1.4.2006) by [Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/uksi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3239/article/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2005/3239/schedule/1/paragraph/8) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3239/article/7))
 
-[^key-49b70da8f48316d72d704a083a60c8ff]: Textual amendment: S. 27 crossheading omitted (1.4.2006) by virtue of [Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/uksi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3239/article/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2005/3239/schedule/1/paragraph/9) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3239/article/7))
+[^c-49b70da8f48316d72d704a083a60c8ff]: Textual amendment: S. 27 crossheading omitted (1.4.2006) by virtue of [Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/uksi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3239/article/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2005/3239/schedule/1/paragraph/9) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3239/article/7))
 
-[^key-12522b7f89adfa347d27f921c26ed663]: Textual amendment: Words in s. 28 cross-heading substituted (1.4.2006) by [Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/uksi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3239/article/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2005/3239/schedule/1/paragraph/10) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3239/article/7))
+[^c-12522b7f89adfa347d27f921c26ed663]: Textual amendment: Words in s. 28 cross-heading substituted (1.4.2006) by [Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)](https://www.legislation.gov.uk/uksi/2005/3239), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3239/article/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2005/3239/schedule/1/paragraph/10) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3239/article/7))
 
-[^key-ceb00244a7e53e94eb1fe9e53ab84a50]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8/3)
+[^c-ceb00244a7e53e94eb1fe9e53ab84a50]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8/3)
 
-[^key-75f623678ccc5e99762f1f36326afb9a]: Textual amendment: Words in Pt. 6 Ch. 1 heading inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/9/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(vi)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/vi)
+[^c-75f623678ccc5e99762f1f36326afb9a]: Textual amendment: Words in Pt. 6 Ch. 1 heading inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/9/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(vi)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/vi)

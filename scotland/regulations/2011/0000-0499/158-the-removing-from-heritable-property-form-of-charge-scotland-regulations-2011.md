@@ -48,11 +48,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 216(6) of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-b612c213518ec63ad194e45f34a07b9f]
+## 1. Citation and commencement[^c-b612c213518ec63ad194e45f34a07b9f]
 
 These Regulations may be cited as the Removing from Heritable Property (Form of Charge) (Scotland) Regulations 2011 and come into force on 4th April 2011.
 
-## 2. Form of Charge[^key-92e441761bdadaf203d649de699704cc]
+## 2. Form of Charge[^c-92e441761bdadaf203d649de699704cc]
 
 Subject to regulation 3, the form of charge prescribed for the purposes of section 216(1) (service of charge before removing) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 is set out in schedule 1.
 
@@ -68,11 +68,11 @@ Edinburgh
 
 23rd February 2011
 
-## SCHEDULE[^key-65081ed86038c9f92a7e316f4ba06d24][^key-291d88a8d95b96c900d0dd952533af37][^key-54ac1618805473a722c85b55ccb99625][^key-decb3928ed4b428d8f68079394dd1d6d][^key-233124a818b573d0beacd1f3fdfc62c6][^key-a74f69a14a81c50db1acada5d3f8300f]
+## SCHEDULE[^c-65081ed86038c9f92a7e316f4ba06d24][^c-291d88a8d95b96c900d0dd952533af37][^c-54ac1618805473a722c85b55ccb99625][^c-decb3928ed4b428d8f68079394dd1d6d][^c-233124a818b573d0beacd1f3fdfc62c6][^c-a74f69a14a81c50db1acada5d3f8300f]
 
 Regulation 2
 
-## SCHEDULE 2[^key-eb368e732dbe2085f2d01e30e7ac565d]
+## SCHEDULE 2[^c-eb368e732dbe2085f2d01e30e7ac565d]
 
 Regulation 3
 
@@ -90,20 +90,20 @@ This charge and the procedures for removal are prescribed under Part 15 of the B
 
 [^f00001]: Footnote: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3) (“the Act”). Section 216 is amended by section 152(3) of the Housing (Scotland) Act [2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17).
 
-[^key-b612c213518ec63ad194e45f34a07b9f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/158/regulation/1) in force at 4.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/158/regulation/1)
+[^c-b612c213518ec63ad194e45f34a07b9f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/158/regulation/1) in force at 4.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/158/regulation/1)
 
-[^key-92e441761bdadaf203d649de699704cc]: Textual amendment: Regs. 2, 3 substituted for reg. 2 (1.8.2026) by [The Removing from Heritable Property (Form of Charge) Amendment (Scotland) Regulations 2025 (S.S.I. 2025/402)](https://www.legislation.gov.uk/ssi/2025/402), [regs. 1](https://www.legislation.gov.uk/ssi/2025/402/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/402/regulation/2/2)
+[^c-92e441761bdadaf203d649de699704cc]: Textual amendment: Regs. 2, 3 substituted for reg. 2 (1.8.2026) by [The Removing from Heritable Property (Form of Charge) Amendment (Scotland) Regulations 2025 (S.S.I. 2025/402)](https://www.legislation.gov.uk/ssi/2025/402), [regs. 1](https://www.legislation.gov.uk/ssi/2025/402/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/402/regulation/2/2)
 
-[^key-65081ed86038c9f92a7e316f4ba06d24]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule) in force at 4.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/158/regulation/1)
+[^c-65081ed86038c9f92a7e316f4ba06d24]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule) in force at 4.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/158/regulation/1)
 
-[^key-291d88a8d95b96c900d0dd952533af37]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "or order" are inserted after the word "decree" in each place it occurs (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51)](https://www.legislation.gov.uk/ssi/2019/51), [regs. 1](https://www.legislation.gov.uk/ssi/2019/51/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2019/51/regulation/5/2/a)
+[^c-291d88a8d95b96c900d0dd952533af37]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "or order" are inserted after the word "decree" in each place it occurs (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51)](https://www.legislation.gov.uk/ssi/2019/51), [regs. 1](https://www.legislation.gov.uk/ssi/2019/51/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2019/51/regulation/5/2/a)
 
-[^key-54ac1618805473a722c85b55ccb99625]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "/First-tier Tribunal for Scotland Housing and Property Chamber" are inserted after the word "sheriff court" (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51)](https://www.legislation.gov.uk/ssi/2019/51), [regs. 1](https://www.legislation.gov.uk/ssi/2019/51/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2019/51/regulation/5/2/b)
+[^c-54ac1618805473a722c85b55ccb99625]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "/First-tier Tribunal for Scotland Housing and Property Chamber" are inserted after the word "sheriff court" (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51)](https://www.legislation.gov.uk/ssi/2019/51), [regs. 1](https://www.legislation.gov.uk/ssi/2019/51/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2019/51/regulation/5/2/b)
 
-[^key-decb3928ed4b428d8f68079394dd1d6d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "or First-tier Tribunal" are inserted after the words "the sheriff" in both places they occur (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51)](https://www.legislation.gov.uk/ssi/2019/51), [regs. 1](https://www.legislation.gov.uk/ssi/2019/51/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2019/51/regulation/5/2/c)
+[^c-decb3928ed4b428d8f68079394dd1d6d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "or First-tier Tribunal" are inserted after the words "the sheriff" in both places they occur (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51)](https://www.legislation.gov.uk/ssi/2019/51), [regs. 1](https://www.legislation.gov.uk/ssi/2019/51/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2019/51/regulation/5/2/c)
 
-[^key-233124a818b573d0beacd1f3fdfc62c6]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "or First-tier Tribunal" are inserted after the words "the court" (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51)](https://www.legislation.gov.uk/ssi/2019/51), [regs. 1](https://www.legislation.gov.uk/ssi/2019/51/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/ssi/2019/51/regulation/5/2/d)
+[^c-233124a818b573d0beacd1f3fdfc62c6]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "or First-tier Tribunal" are inserted after the words "the court" (6.3.2019) by [The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51)](https://www.legislation.gov.uk/ssi/2019/51), [regs. 1](https://www.legislation.gov.uk/ssi/2019/51/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/ssi/2019/51/regulation/5/2/d)
 
-[^key-a74f69a14a81c50db1acada5d3f8300f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "(REGULATION 2)" are inserted after the words "FORM OF CHARGE FOR REMOVING" (1.8.2026) by [The Removing from Heritable Property (Form of Charge) Amendment (Scotland) Regulations 2025 (S.S.I. 2025/402)](https://www.legislation.gov.uk/ssi/2025/402), [regs. 1](https://www.legislation.gov.uk/ssi/2025/402/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/402/regulation/2/3)
+[^c-a74f69a14a81c50db1acada5d3f8300f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2011/158/schedule): in the form, the words "(REGULATION 2)" are inserted after the words "FORM OF CHARGE FOR REMOVING" (1.8.2026) by [The Removing from Heritable Property (Form of Charge) Amendment (Scotland) Regulations 2025 (S.S.I. 2025/402)](https://www.legislation.gov.uk/ssi/2025/402), [regs. 1](https://www.legislation.gov.uk/ssi/2025/402/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/402/regulation/2/3)
 
-[^key-eb368e732dbe2085f2d01e30e7ac565d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2011/158/schedule/2) inserted (1.8.2026) by [The Removing from Heritable Property (Form of Charge) Amendment (Scotland) Regulations 2025 (S.S.I. 2025/402)](https://www.legislation.gov.uk/ssi/2025/402), [regs. 1](https://www.legislation.gov.uk/ssi/2025/402/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2025/402/regulation/2/4)
+[^c-eb368e732dbe2085f2d01e30e7ac565d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2011/158/schedule/2) inserted (1.8.2026) by [The Removing from Heritable Property (Form of Charge) Amendment (Scotland) Regulations 2025 (S.S.I. 2025/402)](https://www.legislation.gov.uk/ssi/2025/402), [regs. 1](https://www.legislation.gov.uk/ssi/2025/402/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2025/402/regulation/2/4)

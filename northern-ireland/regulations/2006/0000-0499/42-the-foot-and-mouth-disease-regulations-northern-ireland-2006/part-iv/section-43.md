@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Cleansing and disinfection of vehicles: provision of facilities, equipment and materials[^key-7f09ca39e3201b5d2dc8820f29c24b38]
+## 43. Cleansing and disinfection of vehicles: provision of facilities, equipment and materials[^c-7f09ca39e3201b5d2dc8820f29c24b38]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where cleansing and disinfection of vehicles is required at any premises by thes
 
 ## Annotations
 
-[^key-7f09ca39e3201b5d2dc8820f29c24b38]: Commencement: Reg. 43 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-7f09ca39e3201b5d2dc8820f29c24b38]: Commencement: Reg. 43 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

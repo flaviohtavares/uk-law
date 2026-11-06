@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Discharge of registration duties[^key-320b11635aa9f38155b33dafe17be2f0]
+## 28. Discharge of registration duties[^c-320b11635aa9f38155b33dafe17be2f0]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-320b11635aa9f38155b33dafe17be2f0]: Commencement: Art. 28 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-320b11635aa9f38155b33dafe17be2f0]: Commencement: Art. 28 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00044]: Footnote: The functions of the Secretary of State in section 52, insofar as they are exercisable within devolved competence, were transferred to the Welsh Ministers by article 45 of, and paragraph 1 of Schedule 1 to, the Welsh Ministers (Transfer of Functions) Order 2018 ([S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644)).
 

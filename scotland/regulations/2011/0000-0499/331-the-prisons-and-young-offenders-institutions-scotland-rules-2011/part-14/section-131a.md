@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131A. Healthcare assessment prior to transfer – coronavirus[^key-33d476bfa0129b14ec3a6d650417322b]
+## 131A. Healthcare assessment prior to transfer – coronavirus[^c-33d476bfa0129b14ec3a6d650417322b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33d476bfa0129b14ec3a6d650417322b]: Textual amendment: [Rule 131A](https://www.legislation.gov.uk/ssi/2011/331/rule/131A) omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(m)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/m)
+[^c-33d476bfa0129b14ec3a6d650417322b]: Textual amendment: [Rule 131A](https://www.legislation.gov.uk/ssi/2011/331/rule/131A) omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(m)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/m)

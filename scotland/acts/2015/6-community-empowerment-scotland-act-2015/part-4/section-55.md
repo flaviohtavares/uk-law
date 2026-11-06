@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Notification of application under section 57 of the 2003 Act[^key-9c35bb7187b9af0d4a55942280ad7b5c]
+## 55. Notification of application under section 57 of the 2003 Act[^c-9c35bb7187b9af0d4a55942280ad7b5c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In section 57 of the 2003 Act (powers of Lands Tribunal in event of failure or d
 
 ## Annotations
 
-[^key-9c35bb7187b9af0d4a55942280ad7b5c]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2015/6/section/55) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-9c35bb7187b9af0d4a55942280ad7b5c]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2015/6/section/55) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

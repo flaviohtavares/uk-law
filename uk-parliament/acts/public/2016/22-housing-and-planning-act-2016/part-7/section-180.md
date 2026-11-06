@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Timetable for confirmation of compulsory purchase order[^key-11e579a00b5516a067b95ecc45777d4a]
+## 180. Timetable for confirmation of compulsory purchase order[^c-11e579a00b5516a067b95ecc45777d4a]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ After section 14A of the Acquisition of Land Act 1981 (confirmation by acquiring
 
 ## Annotations
 
-[^key-11e579a00b5516a067b95ecc45777d4a]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2016/22/section/180) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/251/regulation/5))
+[^c-11e579a00b5516a067b95ecc45777d4a]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2016/22/section/180) in force at 6.4.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/251/regulation/5))

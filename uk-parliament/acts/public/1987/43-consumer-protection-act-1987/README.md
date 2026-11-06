@@ -33,7 +33,7 @@ An Act to make provision with respect to the liability of persons for damage cau
 
 \[15th May 1987\] [^c18755171]
 
-[^c9337151][^c9337161][^c9337171][^c9337181]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-bbcf1d51fa28a22ef64653b95e1c3bf6][^key-e4f69152ae2bc12846db12d4e42bf97c]
+[^c9337151][^c9337161][^c9337171][^c9337181]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-bbcf1d51fa28a22ef64653b95e1c3bf6][^c-e4f69152ae2bc12846db12d4e42bf97c]
 
 ## Contents
 
@@ -51,7 +51,7 @@ An Act to make provision with respect to the liability of persons for damage cau
 - [Section 8 — Power to modify Part I.](part-i/section-8.md)
 - [Section 9 — Application of Part I to Crown.](part-i/section-9.md)
 
-### Part II — Consumer Safety[^c9337391][^key-399ac2d0dd18d490724c70727042fd60]
+### Part II — Consumer Safety[^c9337391][^c-399ac2d0dd18d490724c70727042fd60]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,7 +78,7 @@ An Act to make provision with respect to the liability of persons for damage cau
 - [Section 25 — Code of practice.](part-iii/section-25.md)
 - [Section 26 — Power to make regulations.](part-iii/section-26.md)
 
-### Part IV — Enforcement of Parts II and III[^c9338651][^key-b4ff4241ae1b5e66b24e9dfae70a89fb]
+### Part IV — Enforcement of Parts II and III[^c9338651][^c-b4ff4241ae1b5e66b24e9dfae70a89fb]
 
 - [Section 27 — Enforcement.](part-iv/section-27.md)
 - [Section 28 — Test purchases.](part-iv/section-28.md)
@@ -90,7 +90,7 @@ An Act to make provision with respect to the liability of persons for damage cau
 - [Section 34 — Compensation for seizure and detention.](part-iv/section-34.md)
 - [Section 35 — Recovery of expenses of enforcement.](part-iv/section-35.md)
 
-### Part V — Miscellaneous and Supplemental[^key-6adea011e6eab24fd0e5f6d2424040fc]
+### Part V — Miscellaneous and Supplemental[^c-6adea011e6eab24fd0e5f6d2424040fc]
 
 - [Section 36 — Amendments of Part I of the Health and Safety at Work etc. Act 1974.](part-v/section-36.md)
 - [Section 37 — Power of Commissioners for Revenue and Customs to disclose information](part-v/section-37.md)
@@ -132,16 +132,16 @@ SCHEDULES
 
     Act applied (1.1.1995) by [S.I. 1994/3142](https://www.legislation.gov.uk/uksi/1994/3142), [reg. 18(6)](https://www.legislation.gov.uk/uksi/1994/3142/regulation/18/6)
 
-[^key-bbcf1d51fa28a22ef64653b95e1c3bf6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/43) continued (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 8(8)](https://www.legislation.gov.uk/uksi/2015/1630/article/8/8)
+[^c-bbcf1d51fa28a22ef64653b95e1c3bf6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/43) continued (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 8(8)](https://www.legislation.gov.uk/uksi/2015/1630/article/8/8)
 
-[^key-e4f69152ae2bc12846db12d4e42bf97c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/43) applied in part (with modifications) (20.5.2016) by [The Standardised Packaging of Tobacco Products Regulations 2015 (S.I. 2015/829)](https://www.legislation.gov.uk/uksi/2015/829), [reg. 18](https://www.legislation.gov.uk/uksi/2015/829/regulation/18) (with [regs. 14(5)](https://www.legislation.gov.uk/uksi/2015/829/regulation/14/5), [20](https://www.legislation.gov.uk/uksi/2015/829/regulation/20))
+[^c-e4f69152ae2bc12846db12d4e42bf97c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/43) applied in part (with modifications) (20.5.2016) by [The Standardised Packaging of Tobacco Products Regulations 2015 (S.I. 2015/829)](https://www.legislation.gov.uk/uksi/2015/829), [reg. 18](https://www.legislation.gov.uk/uksi/2015/829/regulation/18) (with [regs. 14(5)](https://www.legislation.gov.uk/uksi/2015/829/regulation/14/5), [20](https://www.legislation.gov.uk/uksi/2015/829/regulation/20))
 
 [^c9337391]: Modification: Part II : definition of "supply" applied (E.W.)(1.12.1991) by [Statutory Water Companies Act 1991 (c. 58, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/58), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/1991/58/section/1/6), [17(2)](https://www.legislation.gov.uk/ukpga/1991/58/section/17/2)
 
-[^key-399ac2d0dd18d490724c70727042fd60]: Modification: Pt. II applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)
+[^c-399ac2d0dd18d490724c70727042fd60]: Modification: Pt. II applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)
 
 [^c9338651]: Modification: [Pt. IV](https://www.legislation.gov.uk/ukpga/1987/43/part/IV) (ss. 27-35) applied (1.1.1993) by [S.I. 1992/3139](https://www.legislation.gov.uk/uksi/1992/3139), [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/1992/3139/regulation/3/2/c) (which said [S.I. 1992/3139](https://www.legislation.gov.uk/uksi/1992/3139) was revoked (15.5.2002) by [S.I. 2002/1144](https://www.legislation.gov.uk/uksi/2002/1144), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/1144/regulation/1/2), [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2002/1144/schedule/11/paragraph/1))
 
-[^key-b4ff4241ae1b5e66b24e9dfae70a89fb]: Modification: [Pt. IV](https://www.legislation.gov.uk/ukpga/1987/43/part/IV) applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)
+[^c-b4ff4241ae1b5e66b24e9dfae70a89fb]: Modification: [Pt. IV](https://www.legislation.gov.uk/ukpga/1987/43/part/IV) applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)
 
-[^key-6adea011e6eab24fd0e5f6d2424040fc]: Modification: [Pt. V](https://www.legislation.gov.uk/ukpga/1987/43/part/V) applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)
+[^c-6adea011e6eab24fd0e5f6d2424040fc]: Modification: [Pt. V](https://www.legislation.gov.uk/ukpga/1987/43/part/V) applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)

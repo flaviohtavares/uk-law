@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Nomination of individuals[^key-8528a0b5d21d43a0e1ce751dedd66b17]
+## 15. Nomination of individuals[^c-8528a0b5d21d43a0e1ce751dedd66b17]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8528a0b5d21d43a0e1ce751dedd66b17]: Commencement: S. 15 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-8528a0b5d21d43a0e1ce751dedd66b17]: Commencement: S. 15 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

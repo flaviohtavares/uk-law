@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 99. Suspension of processes[^key-9fbe0e44603b0042fc0ce7ce73bfb707]
+## Article 99. Suspension of processes[^c-9fbe0e44603b0042fc0ce7ce73bfb707]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fbe0e44603b0042fc0ce7ce73bfb707]: Textual amendment: [Arts. 98-99a](https://www.legislation.gov.uk/eur/2013/389/article/98) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(9)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/9)
+[^c-9fbe0e44603b0042fc0ce7ce73bfb707]: Textual amendment: [Arts. 98-99a](https://www.legislation.gov.uk/eur/2013/389/article/98) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(9)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/9)

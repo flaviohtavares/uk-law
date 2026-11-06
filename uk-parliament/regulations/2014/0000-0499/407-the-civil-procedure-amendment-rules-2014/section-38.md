@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**38.**[^key-87bb33ffd7711f8542c905cbd55f6afa] In Schedule 2 to the Rules, omit—
+**38.**[^c-87bb33ffd7711f8542c905cbd55f6afa] In Schedule 2 to the Rules, omit—
 
 - (a) CCR Order 22;
 - (b) CCR Order 24;
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87bb33ffd7711f8542c905cbd55f6afa]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2014/407/rule/38) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-87bb33ffd7711f8542c905cbd55f6afa]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2014/407/rule/38) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)

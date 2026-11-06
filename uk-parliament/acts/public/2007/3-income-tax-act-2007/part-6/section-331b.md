@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 331B. Knowledge-intensive company reaching turnover of £200,000[^key-61397116ae833d9a9525703e6691f969]
+## 331B. Knowledge-intensive company reaching turnover of £200,000[^c-61397116ae833d9a9525703e6691f969]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ the company is treated as reaching an annual turnover of £200,000 or more by re
 
 ## Annotations
 
-[^key-61397116ae833d9a9525703e6691f969]: Textual amendment: S. 331B inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/9), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)
+[^c-61397116ae833d9a9525703e6691f969]: Textual amendment: S. 331B inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/9), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/b)

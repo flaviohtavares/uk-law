@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Application of sums by Director of Agency’s receivers[^key-5636a35a71caa30d5daa0c70683de5c7]
+## 121. Application of sums by Director of Agency’s receivers[^c-5636a35a71caa30d5daa0c70683de5c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5636a35a71caa30d5daa0c70683de5c7]: Textual amendment: [Arts. 121](https://www.legislation.gov.uk/uksi/2005/3181/article/121), [122](https://www.legislation.gov.uk/uksi/2005/3181/article/122) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(28)](https://www.legislation.gov.uk/uksi/2008/302/article/2/28)
+[^c-5636a35a71caa30d5daa0c70683de5c7]: Textual amendment: [Arts. 121](https://www.legislation.gov.uk/uksi/2005/3181/article/121), [122](https://www.legislation.gov.uk/uksi/2005/3181/article/122) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(28)](https://www.legislation.gov.uk/uksi/2008/302/article/2/28)

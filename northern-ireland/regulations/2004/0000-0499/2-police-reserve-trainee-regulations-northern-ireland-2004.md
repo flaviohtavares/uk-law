@@ -43,13 +43,13 @@ Coming into operation
 
 The Secretary of State, in exercise of the powers conferred upon him by section 26 of the Police (Northern Ireland) Act 1998[^f00001] and sections 37 and 41 of the Police (Northern Ireland) Act 2000[^f00002], and after consulting the Northern Ireland Policing Board and the Police Association for Northern Ireland, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-6f43b5a5eefe83627210e91132de1c17]
+## 1. Citation and commencement[^c-6f43b5a5eefe83627210e91132de1c17]
 
 (1) These regulations may be cited as the Police Reserve Trainee Regulations (Northern Ireland) 2004.
 
 (2) These regulations shall come into operation on 8th February 2004.
 
-## 1A. Interpretation[^key-816eb5146b1308133be30bb6bc415455]
+## 1A. Interpretation[^c-816eb5146b1308133be30bb6bc415455]
 
 In these regulations—
 
@@ -62,7 +62,7 @@ In these regulations—
 
 (1) To be qualified for appointment as a police reserve trainee, an applicant—
 
-- (a) must be a national of the United Kingdom or an EEA State[^key-56b5f20937e07f5972afb78f94c40d14] , or have leave to enter or remain in the United Kingdom for an indefinite period;
+- (a) must be a national of the United Kingdom or an EEA State[^c-56b5f20937e07f5972afb78f94c40d14] , or have leave to enter or remain in the United Kingdom for an indefinite period;
 - (b) must have attained the age of 18 years;
 - (c) must demonstrate by such tests or assessments as may be determined by the Chief Constable or carried out by the police recruitment agent in accordance with arrangements prescribed under section 44(3)(c) of the Police (Northern Ireland) Act 2000 that—
   - (i) he is sufficiently competent in written and spoken English, and
@@ -76,7 +76,7 @@ In these regulations—
 
 (3) The Chief Constable may specify the matters which he may take into account in determining whether a person has a connection to an area for the purposes of paragraph (2).
 
-(4)[^key-22d7cfbdd611d37c23bd439994de24d0] In this regulation—
+(4)[^c-22d7cfbdd611d37c23bd439994de24d0] In this regulation—
 
 - “**EEA state**”, in relation to a time, means—
   - (a) a state which at that time is a member State, or
@@ -130,17 +130,17 @@ as may be required by the Chief Constable or, in accordance with arrangements pr
 
 (6) In paragraph (5) “relative”, in relation to an applicant, has the same meaning as it has under regulation 4 in relation to a police reserve trainee.
 
-## 2. Conditions for appointment as reserve constable[^key-c69354580368e16d541830b922dcbd85]
+## 2. Conditions for appointment as reserve constable[^c-c69354580368e16d541830b922dcbd85]
 
-(1)[^key-717a6619be26db46801f8c73f79ee450] A person shall not be appointed as a reserve constable unless he has –
+(1)[^c-717a6619be26db46801f8c73f79ee450] A person shall not be appointed as a reserve constable unless he has –
 
 - (a) completed such period of service as a police reserve trainee as may be specified by the Chief Constable;
 - (b) completed, to the satisfaction of the Chief Constable, such training for service as a reserve constable as may be specified by the Chief Constable; and
 - (c) demonstrated during his period of service as a police reserve trainee, by such tests or assessments as may be determined by the Chief Constable, that he possesses the physical competence to perform the duties of a reserve constable.
 
-(2)[^key-836fd1fb0231b9d8bb6a9807a1e20195] Police reserve trainees shall be appointed to serve as part–time members of the Police Service of Northern Ireland Reserve.
+(2)[^c-836fd1fb0231b9d8bb6a9807a1e20195] Police reserve trainees shall be appointed to serve as part–time members of the Police Service of Northern Ireland Reserve.
 
-## 3. Restrictions on the private life of police reserve trainees[^key-7986db842fcbdf96470c28c3c6d5daa2]
+## 3. Restrictions on the private life of police reserve trainees[^c-7986db842fcbdf96470c28c3c6d5daa2]
 
 (1) No restriction on the private life of police reserve trainees shall be imposed by the Chief Constable, except such restrictions as are set out in this regulation or as may be necessary in the interests of the safety of police reserve trainees.
 
@@ -150,9 +150,9 @@ as may be required by the Chief Constable or, in accordance with arrangements pr
 
 (4) A police reserve trainee shall not wilfully refuse or neglect to discharge any lawful debt.
 
-## 4. Prohibited business interests[^key-34994f145eb92372a844ec206dc4e9f7]
+## 4. Prohibited business interests[^c-34994f145eb92372a844ec206dc4e9f7]
 
-(1)[^key-1e3f9d904fa73fdc776679afe766c204] The Chief Constable may give notice in writing to a police reserve trainee that a business interest is incompatible with him remaining a police reserve trainee if—
+(1)[^c-1e3f9d904fa73fdc776679afe766c204] The Chief Constable may give notice in writing to a police reserve trainee that a business interest is incompatible with him remaining a police reserve trainee if—
 
 - (a) the police reserve trainee—
   - (i) holds any office or employment for hire or gain (otherwise than as a police reserve trainee), or
@@ -185,21 +185,21 @@ and the Board shall send to the police reserve trainee concerned copies of such 
 
 the Chief Constable may terminate the period of service of that police reserve trainee by giving him one week’s notice in writing.
 
-(7)[^key-3afe2e7f960d5cdb622e48e10c3ad0f8] Any reference in this regulation to a relative, in relation to a police reserve trainee, means—
+(7)[^c-3afe2e7f960d5cdb622e48e10c3ad0f8] Any reference in this regulation to a relative, in relation to a police reserve trainee, means—
 
 - (a) the father, mother, stepfather, stepmother, son, daughter, stepson, stepdaughter, grandmother, grandfather, grandson or granddaughter of that police reserve trainee or the spouse or former spouse of that police reserve trainee, or
 - (b) the brother, sister, uncle, aunt, niece or nephew (whether of the full blood or the half blood or by affinity) of that police reserve trainee or of the spouse or former spouse of that police reserve trainee,
 
 and includes, in relation to an police reserve trainee who is living or has lived with another person as husband and wife, any person who would fall within sub-paragraph (a) or (b) if the parties were married to each other.
 
-(8)[^key-40382741486decf4cb6e0ab4296537f4] The Chief Constable may give guidance to police reserve trainees and applicants for appointment as police reserve trainees in connection with business interests which—
+(8)[^c-40382741486decf4cb6e0ab4296537f4] The Chief Constable may give guidance to police reserve trainees and applicants for appointment as police reserve trainees in connection with business interests which—
 
 - (a) may make a person unsuitable for appointment as a police reserve trainee, and
 - (b) may be incompatible with a person remaining a police reserve trainee.
 
 (9) The Chief Constable shall publish any guidance issued under paragraph (8).
 
-## 4A. Testing for evidence of drugs and alcohol[^key-dbc4b78eaa6588ba220862fb9365cd1b]
+## 4A. Testing for evidence of drugs and alcohol[^c-dbc4b78eaa6588ba220862fb9365cd1b]
 
 (1) The Chief Constable may require any police reserve trainee to give a sample of saliva, urine, blood, or hair (other than pubic hair) to be tested for evidence of controlled drugs in accordance with procedures determined by the Secretary of State.
 
@@ -215,9 +215,9 @@ shall face such consequences as are specified in regulation 9(3) or in standing 
 
 (4) A determination under paragraph (1) or (2) may make different provision for different cases and circumstances.
 
-(5)[^key-f1c21f396191f9a68b483951949d1dd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f1c21f396191f9a68b483951949d1dd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Pay[^key-48d2f7635c0edae48ee4f57fc1639d40]
+## 5. Pay[^c-48d2f7635c0edae48ee4f57fc1639d40]
 
 (1) Subject to the following provisions of this regulation, the Secretary of State shall determine the hourly rate at which police reserve trainees are to be paid for participating in training, tests or assessments in accordance with regulation 2.
 
@@ -233,7 +233,7 @@ shall face such consequences as are specified in regulation 9(3) or in standing 
 
 (7) The pay of a police reserve trainee for a quarter of an hour shall be calculated for all purposes at a rate determined by dividing by four the hourly rate determined under paragraph (1).
 
-## 6. Allowances: general[^key-e034ae1d9bf598c3f978fa6e08fd0c69]
+## 6. Allowances: general[^c-e034ae1d9bf598c3f978fa6e08fd0c69]
 
 (1) No allowances shall be paid to a police reserve trainee except as provided by these regulations or approved by the Secretary of State, and the amounts and conditions of payment of such allowances shall be as provided by or under these regulations or as approved by the Secretary of State.
 
@@ -241,7 +241,7 @@ shall face such consequences as are specified in regulation 9(3) or in standing 
 
 (3) Nothing in this regulation shall apply to the reimbursement of expenses incurred by a person in connection with his service as a police reserve trainee, being expenses authorised either generally or specifically by the Chief Constable in respect of which no allowance is payable under these regulations.
 
-## 7. Allowance in respect of medical charges[^key-9524858ced383f3840e59ee2aad44546]
+## 7. Allowance in respect of medical charges[^c-9524858ced383f3840e59ee2aad44546]
 
 (1) Where a police reserve trainee –
 
@@ -266,13 +266,13 @@ he may be reimbursed the charges.
 - (a) “injury” includes any injury or disease, whether of body or mind; and
 - (b) an injury shall be treated as received without the default of the police reserve trainee concerned unless the injury is wholly or mainly due to his own serious and culpable negligence or misconduct.
 
-## 8. Motor vehicle allowance[^key-f9287cf773fea98ed451d94c878461f2]
+## 8. Motor vehicle allowance[^c-f9287cf773fea98ed451d94c878461f2]
 
 (1) Where the Chief Constable specifies a place as a qualifying site for the purposes of this regulation, and authorises a police reserve trainee to use a motor vehicle for the purposes of attending training, tests or assessments at a qualifying site, the police reserve trainee shall be paid an allowance.
 
 (2) An allowance under paragraph (1) shall be payable on such conditions and at such rate as may be specified in standing orders made under regulation 10.
 
-## 9. Termination of service of a police reserve trainee[^key-410aa934ffd38f23c8d9e9bf02341f73]
+## 9. Termination of service of a police reserve trainee[^c-410aa934ffd38f23c8d9e9bf02341f73]
 
 (1) A person shall cease to be a police reserve trainee on his appointment as a reserve constable.
 
@@ -289,14 +289,14 @@ the Chief Constable may terminate his service as a police reserve trainee by giv
 - (b) if, following an examination by a medical practitioner appointed or approved by the Chief Constable, the Chief Constable considers that he –
   - (i) is not fit, physically or mentally, to be a police reserve trainee, or
   - (ii) is not likely to be fit, physically or mentally, to be a reserve constable on completion of his period of service as a police reserve trainee; or
-- (c) if the police reserve trainee refuses, without reasonable excuse, to undergo an examination by a medical practitioner appointed or approved by the Chief Constable; or[^key-25b14dce18aa6b2400648cc063cc1159]
+- (c) if the police reserve trainee refuses, without reasonable excuse, to undergo an examination by a medical practitioner appointed or approved by the Chief Constable; or[^c-25b14dce18aa6b2400648cc063cc1159]
 - (d) if he is found to have taken a controlled drug under regulation 4A(3)(b), or fails to give a sample as required under regulation 4A(1).
 
 (4) Any termination of a period of service under paragraph 9(2) or (3) shall be carried out in accordance with any such provision as may be made by standing orders under regulation 10.
 
 (5) A police reserve trainee may end his period of service as a police reserve trainee by giving one week’s notice in writing to the Chief Constable.
 
-## 10. Standing Orders[^key-ff0e4f650be2b3c90f93a1c392281853]
+## 10. Standing Orders[^c-ff0e4f650be2b3c90f93a1c392281853]
 
 (1) The Chief Constable may make provision in standing orders as to the government, administration and conditions of service of police reserve trainees.
 
@@ -307,7 +307,7 @@ the Chief Constable may terminate his service as a police reserve trainee by giv
 - (a) shall issue a copy of any standing orders made under paragraph (1) to every police reserve trainee on or before the day on which he begins his period of service as a police reserve trainee, and
 - (b) shall issue details of any change to such standing orders to every police reserve trainee to whom that change may apply as soon as reasonably practicable.
 
-## 11. Functions of the Chief Constable[^key-4a69c2cd63008bcf10a8ee27d2e894f8]
+## 11. Functions of the Chief Constable[^c-4a69c2cd63008bcf10a8ee27d2e894f8]
 
 (1) Any power conferred on the Chief Constable by these regulations to make provision by –
 
@@ -358,50 +358,50 @@ Regulation 11 allows the Chief Constable to delegate his functions under the reg
 
 [^f00002]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-6f43b5a5eefe83627210e91132de1c17]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/2/regulation/1) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-6f43b5a5eefe83627210e91132de1c17]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/2/regulation/1) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
-[^key-816eb5146b1308133be30bb6bc415455]: Textual amendment: [Regs. 1A-1D](https://www.legislation.gov.uk/nisr/2004/2/regulation/1A) inserted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2009/391/regulation/2)
+[^c-816eb5146b1308133be30bb6bc415455]: Textual amendment: [Regs. 1A-1D](https://www.legislation.gov.uk/nisr/2004/2/regulation/1A) inserted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2009/391/regulation/2)
 
-[^key-56b5f20937e07f5972afb78f94c40d14]: Textual amendment: Words in [reg. 1B(1)(a)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1B/1/a) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [31(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/31/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56b5f20937e07f5972afb78f94c40d14]: Textual amendment: Words in [reg. 1B(1)(a)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1B/1/a) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [31(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/31/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22d7cfbdd611d37c23bd439994de24d0]: Textual amendment: [Reg. 1B(4)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1B/4) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/31/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22d7cfbdd611d37c23bd439994de24d0]: Textual amendment: [Reg. 1B(4)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1B/4) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/31/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: [S.R. 2001 No. 140](https://www.legislation.gov.uk/nisr/2001/140). Regulation 2A was inserted by the Police (Recruitment) (Northern Ireland) (Amendment) Regulations 2004 ([S.R. 2004 No. 1](https://www.legislation.gov.uk/nisr/2004/1)). Other amendments have been made by [S.R. 2002 No. 385](https://www.legislation.gov.uk/nisr/2002/385) and [S.R. 2003 No. 372](https://www.legislation.gov.uk/nisr/2003/372)
 
-[^key-c69354580368e16d541830b922dcbd85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/2/regulation/2) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-c69354580368e16d541830b922dcbd85]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/2/regulation/2) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
-[^key-717a6619be26db46801f8c73f79ee450]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/2/regulation/2/1): reg. 2 words renumbered as reg. 2(1) (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/3/2)
+[^c-717a6619be26db46801f8c73f79ee450]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2004/2/regulation/2/1): reg. 2 words renumbered as reg. 2(1) (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/3/2)
 
-[^key-836fd1fb0231b9d8bb6a9807a1e20195]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/2/2) inserted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2009/391/regulation/3/3)
+[^c-836fd1fb0231b9d8bb6a9807a1e20195]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/2/2) inserted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2009/391/regulation/3/3)
 
-[^key-7986db842fcbdf96470c28c3c6d5daa2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/2/regulation/3) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-7986db842fcbdf96470c28c3c6d5daa2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/2/regulation/3) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
-[^key-34994f145eb92372a844ec206dc4e9f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/2/regulation/4) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-34994f145eb92372a844ec206dc4e9f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/2/regulation/4) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
-[^key-1e3f9d904fa73fdc776679afe766c204]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4/1) substituted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/4/2)
+[^c-1e3f9d904fa73fdc776679afe766c204]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4/1) substituted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/4/2)
 
-[^key-3afe2e7f960d5cdb622e48e10c3ad0f8]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4/7) substituted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2009/391/regulation/4/3)
+[^c-3afe2e7f960d5cdb622e48e10c3ad0f8]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4/7) substituted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2009/391/regulation/4/3)
 
-[^key-40382741486decf4cb6e0ab4296537f4]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4/8)[(9)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4/9) inserted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [4(4)](https://www.legislation.gov.uk/nisr/2009/391/regulation/4/4)
+[^c-40382741486decf4cb6e0ab4296537f4]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4/8)[(9)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4/9) inserted (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [4(4)](https://www.legislation.gov.uk/nisr/2009/391/regulation/4/4)
 
-[^key-dbc4b78eaa6588ba220862fb9365cd1b]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2004/2/regulation/4A) and heading inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [6(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/6/2)
+[^c-dbc4b78eaa6588ba220862fb9365cd1b]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2004/2/regulation/4A) and heading inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [6(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/6/2)
 
-[^key-f1c21f396191f9a68b483951949d1dd2]: Textual amendment: [Reg. 4A(5)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4A/5) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [5(1)](https://www.legislation.gov.uk/nisr/2009/391/regulation/5/1)
+[^c-f1c21f396191f9a68b483951949d1dd2]: Textual amendment: [Reg. 4A(5)](https://www.legislation.gov.uk/nisr/2004/2/regulation/4A/5) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [5(1)](https://www.legislation.gov.uk/nisr/2009/391/regulation/5/1)
 
-[^key-48d2f7635c0edae48ee4f57fc1639d40]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/2/regulation/5) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-48d2f7635c0edae48ee4f57fc1639d40]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/2/regulation/5) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
-[^key-e034ae1d9bf598c3f978fa6e08fd0c69]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/2/regulation/6) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-e034ae1d9bf598c3f978fa6e08fd0c69]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/2/regulation/6) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
-[^key-9524858ced383f3840e59ee2aad44546]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/2/regulation/7) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-9524858ced383f3840e59ee2aad44546]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/2/regulation/7) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
 [^f00004]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as modified by S.I. [1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907)
 
-[^key-f9287cf773fea98ed451d94c878461f2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/2/regulation/8) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-f9287cf773fea98ed451d94c878461f2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/2/regulation/8) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
-[^key-410aa934ffd38f23c8d9e9bf02341f73]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/2/regulation/9) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-410aa934ffd38f23c8d9e9bf02341f73]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/2/regulation/9) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
-[^key-25b14dce18aa6b2400648cc063cc1159]: Textual amendment: [Reg. 9(3)(d)](https://www.legislation.gov.uk/nisr/2004/2/regulation/9/3/d) and word inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2008/325/regulation/6/3)
+[^c-25b14dce18aa6b2400648cc063cc1159]: Textual amendment: [Reg. 9(3)(d)](https://www.legislation.gov.uk/nisr/2004/2/regulation/9/3/d) and word inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2008/325/regulation/6/3)
 
-[^key-ff0e4f650be2b3c90f93a1c392281853]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/2/regulation/10) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-ff0e4f650be2b3c90f93a1c392281853]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/2/regulation/10) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
 
-[^key-4a69c2cd63008bcf10a8ee27d2e894f8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2004/2/regulation/11) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)
+[^c-4a69c2cd63008bcf10a8ee27d2e894f8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2004/2/regulation/11) in operation at 8.2.2004, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2004/2/regulation/1/2)

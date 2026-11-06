@@ -31,7 +31,7 @@ summary: ''
 
 environmental protection
 
-Phosphorous (Use in Agriculture) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-f439551e09b862d95698e512739b07a1]
+Phosphorous (Use in Agriculture) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-f439551e09b862d95698e512739b07a1]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st June 2007
 
-[^key-f439551e09b862d95698e512739b07a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f439551e09b862d95698e512739b07a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f439551e09b862d95698e512739b07a1]
+## 1. Citation and commencement[^c-f439551e09b862d95698e512739b07a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f439551e09b862d95698e512739b07a1]
+## 2. Interpretation[^c-f439551e09b862d95698e512739b07a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Principal Regulations[^key-f439551e09b862d95698e512739b07a1]
+## 3. Amendment of the Principal Regulations[^c-f439551e09b862d95698e512739b07a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f439551e09b862d95698e512739b07a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f439551e09b862d95698e512739b07a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f439551e09b862d95698e512739b07a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f439551e09b862d95698e512739b07a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f439551e09b862d95698e512739b07a1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/273) revoked (1.1.2015) by [The Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2014 (revoked) 2014 (S.R. 2014/308)](https://www.legislation.gov.uk/nisr/2014/308), [reg. 3(b)](https://www.legislation.gov.uk/nisr/2014/308/regulation/3/b)
+[^c-f439551e09b862d95698e512739b07a1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/273) revoked (1.1.2015) by [The Phosphorus (Use in Agriculture) Regulations (Northern Ireland) 2014 (revoked) 2014 (S.R. 2014/308)](https://www.legislation.gov.uk/nisr/2014/308), [reg. 3(b)](https://www.legislation.gov.uk/nisr/2014/308/regulation/3/b)

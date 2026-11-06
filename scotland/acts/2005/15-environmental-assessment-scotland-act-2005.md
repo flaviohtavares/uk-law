@@ -32,11 +32,11 @@ Environmental Assessment (Scotland) Act 2005
 
 An Act of the Scottish Parliament to make provision for the assessment of the environmental effects of certain plans and programmes, including plans and programmes to which Directive [2001/42/EC](https://www.legislation.gov.uk/european/directive/2001/0042) of the European Parliament and of the Council relates; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 9th November 2005 and received Royal Assent on 14th December 2005[^key-a51e28a73a1e9973aacbbe5eebf7fefa]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 9th November 2005 and received Royal Assent on 14th December 2005[^c-a51e28a73a1e9973aacbbe5eebf7fefa]
 
 ## Part 1 — Environmental assessment for plans and programmes
 
-### 1. Requirement for environmental assessment[^key-a6b48f04cd2aaeacc9b2b08e3d9b681c]
+### 1. Requirement for environmental assessment[^c-a6b48f04cd2aaeacc9b2b08e3d9b681c]
 
 (1) The responsible authority shall—
 
@@ -53,7 +53,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 in accordance with Part 2 of this Act.
 
-### 2. Responsible authorities[^key-9aa8e7b2287ca8c56130d30d1e0f32bb]
+### 2. Responsible authorities[^c-9aa8e7b2287ca8c56130d30d1e0f32bb]
 
 (1) In this Act, a responsible authority is any person, body or office-holder exercising functions of a public character.
 
@@ -73,19 +73,19 @@ in accordance with Part 2 of this Act.
 - (e) a Scottish public authority with mixed functions or no reserved functions;
 - (f) any other person, body or office-holder of a description (and to such extent) as may be specified by the Scottish Ministers by order.
 
-### 3. Consultation authorities[^key-ede1da23f723bb33f56e675876f97847]
+### 3. Consultation authorities[^c-ede1da23f723bb33f56e675876f97847]
 
 (1) In this Act, the consultation authorities are—
 
-- (a)[^key-f59ea2f1f9ff04033f0740338fdfcaf5] Historic Environment Scotland;
+- (a)[^c-f59ea2f1f9ff04033f0740338fdfcaf5] Historic Environment Scotland;
 - (b) the Scottish Environment Protection Agency; and
 - (c) Scottish Natural Heritage.
 
 (2) Where an authority mentioned in subsection (1) is the responsible authority as regards a plan or programme, the authority shall not be a consultation authority in relation to that plan or programme.
 
-### 4. Plans and programmes[^key-d207138107e3ebe22efcf8348336e030]
+### 4. Plans and programmes[^c-d207138107e3ebe22efcf8348336e030]
 
-(1) This Act applies to plans and programmes (including those co-financed by the European Union[^key-e5deb9f487ec6eee7495410c74d8ccd5]) which—
+(1) This Act applies to plans and programmes (including those co-financed by the European Union[^c-e5deb9f487ec6eee7495410c74d8ccd5]) which—
 
 - (a) are—
   - (i) subject to preparation or adoption (or both) by a responsible authority at national, regional or local level; or
@@ -102,7 +102,7 @@ in accordance with Part 2 of this Act.
 
 (4) In this Act, any reference to plans or programmes includes strategies.
 
-### 5. Qualifying plans and programmes[^key-c03fef4863be346ca1c4a5288d6dd297]
+### 5. Qualifying plans and programmes[^c-c03fef4863be346ca1c4a5288d6dd297]
 
 (1) In this Act, qualifying plans and programmes are plans and programmes of a description set out in subsection (3) or (4)—
 
@@ -116,7 +116,7 @@ in accordance with Part 2 of this Act.
 - (a) which—
   - (i) is prepared for agriculture, forestry, fisheries, energy, industry, transport, waste management, water management, telecommunications, tourism, town and country planning or land use; and
   - (ii) sets the framework for future development consent of projects listed in schedule 1;
-- (b) which, in view of the likely effect on sites, has been determined to require an assessment pursuant to any[^key-3cdad01dbf5b21361e96a1dce0c24502] assimilated[^key-21dde1f387d5676695876643f5ba50bf] law extending to Scotland which implemented Article 6 or 7 of Council Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) on the conservation of natural habitats and of wild flora and fauna (as last amended by Council[^key-a1049439cba789908ff9b0da74a8da4e] [Directive 2013/17/EU](https://www.legislation.gov.uk/eudr/2013/0017)); or
+- (b) which, in view of the likely effect on sites, has been determined to require an assessment pursuant to any[^c-3cdad01dbf5b21361e96a1dce0c24502] assimilated[^c-21dde1f387d5676695876643f5ba50bf] law extending to Scotland which implemented Article 6 or 7 of Council Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) on the conservation of natural habitats and of wild flora and fauna (as last amended by Council[^c-a1049439cba789908ff9b0da74a8da4e] [Directive 2013/17/EU](https://www.legislation.gov.uk/eudr/2013/0017)); or
 - (c) which does not fall within paragraph (a) or (b) but sets the framework for future development consent of projects.
 
 (4) The description set out in this subsection is a plan or programme (to which this Act applies)—
@@ -128,7 +128,7 @@ in accordance with Part 2 of this Act.
 
 (5) The Scottish Ministers may by order modify schedule 1.
 
-### 6. Types of excluded plans and programmes[^key-979899c82ed2c3358527454359c4edd7]
+### 6. Types of excluded plans and programmes[^c-979899c82ed2c3358527454359c4edd7]
 
 (1) The types of plan or programme referred to in section 5(4)(b)(ii) are those which—
 
@@ -146,7 +146,7 @@ in relation to the environment.
 
 (4) In this section, “**school**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980 (c. 44).
 
-### 7. Exemptions: pre-screening[^key-7342804227f48947f9a28481a0c99293]
+### 7. Exemptions: pre-screening[^c-7342804227f48947f9a28481a0c99293]
 
 (1) A plan or programme of a description set out in section 5(4) is exempt if the responsible authority is of the opinion that the plan or programme will have—
 
@@ -178,7 +178,7 @@ in relation to the environment.
 
 (8) The Scottish Ministers may by order modify schedule 2.
 
-### 8. Exemptions: screening[^key-f80c131816af9a9bcf13540f23f8e2bc]
+### 8. Exemptions: screening[^c-f80c131816af9a9bcf13540f23f8e2bc]
 
 (1) The responsible authority shall determine whether or not—
 
@@ -198,7 +198,7 @@ is likely to have significant environmental effects.
 
 (4) The statement of reasons under subsection (2)(b) shall, in particular, state how the criteria mentioned in subsection (3) were applied when making the determination.
 
-### 9. Screening: procedure[^key-7b553d10f5cf2512bf744a29d78a2454]
+### 9. Screening: procedure[^c-7b553d10f5cf2512bf744a29d78a2454]
 
 (1) Before making a determination under section 8(1), the responsible authority shall prepare a summary of its views as to whether or not the plan or programme is likely to have significant environmental effects.
 
@@ -214,7 +214,7 @@ is likely to have significant environmental effects.
 
 (7) A determination of the Scottish Ministers under subsection (6) shall have effect as if made by the responsible authority under section 8(1); and, where the determination is that the plan or programme is unlikely to have significant environmental effects, section 8(2)(b) shall apply to the Scottish Ministers as it would to the responsible authority.
 
-### 10. Screening: publicity for determinations[^key-f228564e771d8f0dbddd8e183d98716d]
+### 10. Screening: publicity for determinations[^c-f228564e771d8f0dbddd8e183d98716d]
 
 (1) Within 28 days of a determination having been made under section 8(1), the responsible authority shall send to the consultation authorities—
 
@@ -233,7 +233,7 @@ is likely to have significant environmental effects.
 
 (3) Nothing in subsection (2)(c)(iv) shall require the responsible authority to provide a copy of any document free of charge; but where a charge is made, it shall be of a reasonable amount.
 
-### 11. Directions as regards plans and programmes[^key-6eaa6f15d278f3ec1e2167bd8f7b1593]
+### 11. Directions as regards plans and programmes[^c-6eaa6f15d278f3ec1e2167bd8f7b1593]
 
 (1) The Scottish Ministers may at any time direct a responsible authority to send to them a copy of any plan or programme which—
 
@@ -254,7 +254,7 @@ by that responsible authority.
 
 (5) A responsible authority shall comply with any direction given to it under subsection (1) or (3).
 
-### 12. Restriction on adoption or submission[^key-51898d5ca647fdd59ee8224456a49eaf]
+### 12. Restriction on adoption or submission[^c-51898d5ca647fdd59ee8224456a49eaf]
 
 (1) A qualifying plan or programme shall not be—
 
@@ -268,15 +268,15 @@ before the requirements of such provisions of Part 2 of this Act as apply in rel
 - (a) the requirements of subsection (1) have been met; or
 - (b) the determination under section 8(1) is that the plan or programme is unlikely to have significant environmental effects.
 
-### 13. Relationship with other assimilated law requirements[^key-8b4d5ed4e4118261eff97e6b637e056b][^key-459dcb59598c3b553ed9dc655540271d][^key-45aa01f774c49634244b6375779bc880]
+### 13. Relationship with other assimilated law requirements[^c-8b4d5ed4e4118261eff97e6b637e056b][^c-459dcb59598c3b553ed9dc655540271d][^c-45aa01f774c49634244b6375779bc880]
 
-(1) An environmental assessment carried out under this Act shall be without prejudice to any requirement under other[^M_F_45d7e2a7-901c-4ec3-f2ef-cdb80d664064] assimilated[^key-b9db788ead7da26394c4cdf18d841259] law.
+(1) An environmental assessment carried out under this Act shall be without prejudice to any requirement under other[^M_F_45d7e2a7-901c-4ec3-f2ef-cdb80d664064] assimilated[^c-b9db788ead7da26394c4cdf18d841259] law.
 
-(2) Where a qualifying plan or programme is co-financed by the European Union, the responsible authority, in carrying out the environmental assessment required by this Act, shall do so in conformity with any relevant provision of other[^key-95fab9d826ecee52af4b973fb0a8a97c] assimilated[^key-f979e2b4079519c4550fca107198de7d] law that is applicable by reason of that co-financing.
+(2) Where a qualifying plan or programme is co-financed by the European Union, the responsible authority, in carrying out the environmental assessment required by this Act, shall do so in conformity with any relevant provision of other[^c-95fab9d826ecee52af4b973fb0a8a97c] assimilated[^c-f979e2b4079519c4550fca107198de7d] law that is applicable by reason of that co-financing.
 
 ## Part 2 — Environmental reports and consultation
 
-### 14. Preparation of environmental report[^key-43ec14afffb429f24160754e46954820]
+### 14. Preparation of environmental report[^c-43ec14afffb429f24160754e46954820]
 
 (1) In relation to any qualifying plan or programme, the responsible authority shall secure the preparation of an environmental report.
 
@@ -294,11 +294,11 @@ taking into account the objectives and the geographical scope of the plan or pro
 - (c) the stage of the plan or programme in the decision-making process; and
 - (d) the extent to which any matters to which the report relates would be more appropriately assessed at different levels in that process in order to avoid duplication of the assessment.
 
-(4) Information referred to in schedule 3 may be included in the report by reference to relevant information obtained at other levels of decision-making or through other[^key-21d6cd3b8ddf88fcb1807d145e874051] assimilated[^key-d8dc4a8b6f7d98a372e967acdc28cd66] law.
+(4) Information referred to in schedule 3 may be included in the report by reference to relevant information obtained at other levels of decision-making or through other[^c-21d6cd3b8ddf88fcb1807d145e874051] assimilated[^c-d8dc4a8b6f7d98a372e967acdc28cd66] law.
 
 (5) The Scottish Ministers may by order modify schedule 3.
 
-### 15. Scoping[^key-35429f0d43384b4ba6da924b29882df6]
+### 15. Scoping[^c-35429f0d43384b4ba6da924b29882df6]
 
 (1) Before deciding on—
 
@@ -334,7 +334,7 @@ an early and effective opportunity to express their opinion on the plan or progr
 
 (6) Where the Scottish Ministers are the responsible authority in relation to a qualifying plan or programme, subsections (3)(b), (4) and (5) do not apply.
 
-### 16. Consultation procedures[^key-d23e6a09c133910c9537d9037b677c96]
+### 16. Consultation procedures[^c-d23e6a09c133910c9537d9037b677c96]
 
 (1) As soon as reasonably practicable, and in any event within 14 days of the preparation of the environmental report, the responsible authority shall—
 
@@ -362,7 +362,7 @@ the plan or programme.
 
 (5) Nothing in subsection (2)(a)(ii) shall require the responsible authority to provide a copy of any document free of charge; but where a charge is made, it shall be of a reasonable amount.
 
-### 17. Account to be taken of environmental report etc.[^key-22a469c4e9f6c40219bb0341ebbe3612]
+### 17. Account to be taken of environmental report etc.[^c-22a469c4e9f6c40219bb0341ebbe3612]
 
 In the preparation of a qualifying plan or programme, the responsible authority shall take account of—
 
@@ -372,7 +372,7 @@ In the preparation of a qualifying plan or programme, the responsible authority 
 
 ## Part 3 — Post-adoption procedures
 
-### 18. Information as to adoption of a qualifying plan or programme[^key-cf01b293c4387bf3af4c6c2c5a40b252]
+### 18. Information as to adoption of a qualifying plan or programme[^c-cf01b293c4387bf3af4c6c2c5a40b252]
 
 (1) As soon as reasonably practicable after the adoption of a qualifying plan or programme, the responsible authority shall—
 
@@ -410,7 +410,7 @@ In the preparation of a qualifying plan or programme, the responsible authority 
 
 (4) Nothing in subsection (1)(b)(iii) shall require the responsible authority to provide a copy of any document free of charge; but where a charge is made, it shall be of a reasonable amount.
 
-### 19. Monitoring of implementation of qualifying plans and programmes[^key-07d1a3f59fdb14bab629e42bcb6306e3]
+### 19. Monitoring of implementation of qualifying plans and programmes[^c-07d1a3f59fdb14bab629e42bcb6306e3]
 
 (1) The responsible authority shall monitor the significant environmental effects of the implementation of every qualifying plan or programme for which it has carried out an environmental assessment.
 
@@ -421,7 +421,7 @@ In the preparation of a qualifying plan or programme, the responsible authority 
 
 ## Part 4 — Miscellaneous
 
-### 20. Annual reports[^key-6ddc277bd22836a8bd1c5377301a2f35]
+### 20. Annual reports[^c-6ddc277bd22836a8bd1c5377301a2f35]
 
 (1) The Scottish Ministers must, as soon practicable after the end of each calendar year referred to in subsection (2)—
 
@@ -464,7 +464,7 @@ is subject to annulment in pursuance of a resolution of the Parliament.
 
 The Scottish Ministers may by order make such incidental, supplemental, consequential, transitional, transitory or saving provision as the Scottish Ministers consider necessary or expedient for the purposes or in consequence of this Act.
 
-### 24. Environmental Assessment of Plans and Programmes (Scotland) Regulations 2004[^key-8105fd7c6e0dd04e14dec249b8697f9c]
+### 24. Environmental Assessment of Plans and Programmes (Scotland) Regulations 2004[^c-8105fd7c6e0dd04e14dec249b8697f9c]
 
 The Environmental Assessment of Plans and Programmes (Scotland) Regulations 2004 (S.S.I. 2004/258) are revoked.
 
@@ -493,15 +493,15 @@ The Environmental Assessment of Plans and Programmes (Scotland) Regulations 2004
 
 #### Particular projects
 
-**1.**[^key-006d084dc8b5124d80776a19da92d310] (1) Crude oil refineries except undertakings whose sole function is the manufacture of lubricants from crude oil.
+**1.**[^c-006d084dc8b5124d80776a19da92d310] (1) Crude oil refineries except undertakings whose sole function is the manufacture of lubricants from crude oil.
 
 (2) Installations for the gasification and liquefaction of 500 tonnes or more of coal or bituminous shale per day.
 
-**2.**[^key-0bca10d3a4edf5980c64bd5cd91514c5] (1) Thermal power stations and other combustion installations with a heat output of 300 megawatts or more.
+**2.**[^c-0bca10d3a4edf5980c64bd5cd91514c5] (1) Thermal power stations and other combustion installations with a heat output of 300 megawatts or more.
 
 (2) Nuclear power stations and other nuclear reactors including the dismantling or decommissioning of such power stations or reactors (except research installations for the production and conversion of fissionable and fertile materials whose maximum power does not exceed 1 kilowatt continuous thermal load).
 
-**3.**[^key-f98ba6eb3611fdf6ffd0b1849d9fc232] (1) Installations for the reprocessing of irradiated nuclear fuel.
+**3.**[^c-f98ba6eb3611fdf6ffd0b1849d9fc232] (1) Installations for the reprocessing of irradiated nuclear fuel.
 
 (2) Installations designed—
 
@@ -511,18 +511,18 @@ The Environmental Assessment of Plans and Programmes (Scotland) Regulations 2004
 - (d) solely for the final disposal of radioactive waste; or
 - (e) solely for the storage (planned for more than 10 years) of irradiated nuclear fuels or radioactive waste in a different site other than the production site.
 
-**4.**[^key-80bc3138a4562bb66ecaa955f5ceb7d9] (1) Integrated works for the initial smelting of cast-iron and steel.
+**4.**[^c-80bc3138a4562bb66ecaa955f5ceb7d9] (1) Integrated works for the initial smelting of cast-iron and steel.
 
 (2) Installations for the production of non-ferrous crude metals from ore, concentrates or secondary raw materials by metallurgical, chemical or electrolytic processes.
 
-**5.**[^key-258d20f0eb1238a7b2644a28ff532ecb] Installations for—
+**5.**[^c-258d20f0eb1238a7b2644a28ff532ecb] Installations for—
 
 - (a) the extraction of asbestos and for the processing and transformation of asbestos and products containing asbestos;
 - (b) asbestos-cement products with an annual production of more than 20,000 tonnes of finished products;
 - (c) friction material with an annual production of more than 50 tonnes of finished products; or
 - (d) other uses of asbestos having utilisation of more than 200 tonnes per year.
 
-**6.**[^key-d6dd59724ddd6024fc94607547b77707] Integrated chemical installations, that is to say, installations—
+**6.**[^c-d6dd59724ddd6024fc94607547b77707] Integrated chemical installations, that is to say, installations—
 
 - (a) for the manufacture on an industrial scale of substances using chemical conversion processes; and
 - (b) in which several units are juxtaposed and are functionally linked to one another and which are for the production of—
@@ -533,7 +533,7 @@ The Environmental Assessment of Plans and Programmes (Scotland) Regulations 2004
   - (v) basic pharmaceutical products using a chemical or biological process; or
   - (vi) explosives.
 
-**7.**[^key-d1fda4d09cec3928580e539ad06bebd6] (1) Construction of—
+**7.**[^c-d1fda4d09cec3928580e539ad06bebd6] (1) Construction of—
 
 - (a) lines for long-distance railway traffic; or
 - (b) airports with a basic runway length of 2100 metres or more.
@@ -547,69 +547,69 @@ The Environmental Assessment of Plans and Programmes (Scotland) Regulations 2004
 
 where such new road, or realigned or widened section of the road, would be 10 kilometres or more in a continuous length.
 
-**8.**[^key-0609d884c3b810cff6e4e380984d5b7f] (1) Inland waterways and ports for inland-waterway traffic which permit the passage of vessels of over 1,350 tonnes.
+**8.**[^c-0609d884c3b810cff6e4e380984d5b7f] (1) Inland waterways and ports for inland-waterway traffic which permit the passage of vessels of over 1,350 tonnes.
 
 (2) Trading ports, piers for loading and unloading connected to land and outside ports (excluding ferry piers) which can take vessels of over 1,350 tonnes.
 
-**9.**[^key-06215ca9e5648f6cc079b562a9e32e4d] Waste disposal installations for—
+**9.**[^c-06215ca9e5648f6cc079b562a9e32e4d] Waste disposal installations for—
 
 - (a) the incineration;
-- (b) chemical treatment as defined in Annex 1 of[^key-18f3c742354098cfb20b139f3d400668] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council under heading D9; or
+- (b) chemical treatment as defined in Annex 1 of[^c-18f3c742354098cfb20b139f3d400668] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council under heading D9; or
 - (c) landfill,
 
-of hazardous waste as defined in Article 3.2 of that Directive[^key-e0f6ef17917567d4338ff7da88ac32c3].
+of hazardous waste as defined in Article 3.2 of that Directive[^c-e0f6ef17917567d4338ff7da88ac32c3].
 
-**10.**[^key-06ca13d59e0dc7ef6c7a7af2f4f21341] Waste disposal installations for—
+**10.**[^c-06ca13d59e0dc7ef6c7a7af2f4f21341] Waste disposal installations for—
 
 - (a) the incineration; or
-- (b) chemical treatment as defined in Annex 1 of[^key-9a0299aa412d77c3a622af23bbce45cf] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council under heading D9,
+- (b) chemical treatment as defined in Annex 1 of[^c-9a0299aa412d77c3a622af23bbce45cf] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council under heading D9,
 
 of non-hazardous waste with a capacity exceeding 100 tonnes per day.
 
-**11.**[^key-4b3daa459a96c78521d70544d53ddeb0] Groundwater abstraction or artificial groundwater recharge schemes where the annual volume of water abstracted or recharged is equivalent to or exceeds 10 million cubic metres.
+**11.**[^c-4b3daa459a96c78521d70544d53ddeb0] Groundwater abstraction or artificial groundwater recharge schemes where the annual volume of water abstracted or recharged is equivalent to or exceeds 10 million cubic metres.
 
-**12.**[^key-06cbabc9187ee9d2a4cc82fdf3417913] (1) Works for the transfer of water resources between river basins where this transfer aims at preventing possible shortages of water and where the amount of water transferred exceeds 100 million cubic metres per year.
+**12.**[^c-06cbabc9187ee9d2a4cc82fdf3417913] (1) Works for the transfer of water resources between river basins where this transfer aims at preventing possible shortages of water and where the amount of water transferred exceeds 100 million cubic metres per year.
 
 (2) Works for the transfer of water resources between river basins where the multi-annual average flow of the basin of abstraction exceeds 2,000 million cubic metres per year and where the amount of water transferred exceeds 5 per cent of this flow.
 
 (3) In sub-paragraphs (1) and (2), transfers of piped drinking water are excluded.
 
-**13.**[^key-4a92629592bed3284c86cf6c83f82c23] Waste water treatment plants with a capacity exceeding 150,000 population equivalent as defined in Article 2.6 of Council[^key-5dab737faf4d92d729ddf44e25e5fd64] [Directive 91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271).
+**13.**[^c-4a92629592bed3284c86cf6c83f82c23] Waste water treatment plants with a capacity exceeding 150,000 population equivalent as defined in Article 2.6 of Council[^c-5dab737faf4d92d729ddf44e25e5fd64] [Directive 91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271).
 
-**14.**[^key-68f7aed4f34f6f60165f74184d035af7] Extraction of petroleum and natural gas for commercial purposes where the amount extracted exceeds 500 tonnes per day in the case of petroleum and 500,000 cubic metres per day in the case of gas.
+**14.**[^c-68f7aed4f34f6f60165f74184d035af7] Extraction of petroleum and natural gas for commercial purposes where the amount extracted exceeds 500 tonnes per day in the case of petroleum and 500,000 cubic metres per day in the case of gas.
 
-**15.**[^key-194f7b5e641b5ce4617b4ba59f8ccbcb] Dams and other installations designed for the holding back or permanent storage of water where a new or additional amount of water held back or stored exceeds 10 million cubic metres.
+**15.**[^c-194f7b5e641b5ce4617b4ba59f8ccbcb] Dams and other installations designed for the holding back or permanent storage of water where a new or additional amount of water held back or stored exceeds 10 million cubic metres.
 
-**16.**[^key-465bddc71c398c40afe9fcd441f1bdae] Pipelines for the transport of gas, oil or chemicals with a diameter of more than 800 millimetres and a length of more than 40 kilometres.
+**16.**[^c-465bddc71c398c40afe9fcd441f1bdae] Pipelines for the transport of gas, oil or chemicals with a diameter of more than 800 millimetres and a length of more than 40 kilometres.
 
-**17.**[^key-4808e291b4f0733191fdff4f0e22fa7c] Installations for the intensive rearing of poultry or pigs with more than—
+**17.**[^c-4808e291b4f0733191fdff4f0e22fa7c] Installations for the intensive rearing of poultry or pigs with more than—
 
 - (a) 85,000 places for broilers, 60,000 places for hens;
 - (b) 3,000 places for production pigs (that is, pigs weighing over 30 kilograms); or
 - (c) 900 places for sows.
 
-**18.**[^key-0527f6257311fbe607fac3f038f9e5fc] Industrial plants for the—
+**18.**[^c-0527f6257311fbe607fac3f038f9e5fc] Industrial plants for the—
 
 - (a) production of pulp from timber or similar fibrous materials; or
 - (b) production of paper and board with a production capacity exceeding 200 tonnes per day.
 
-**19.**[^key-996e0d3804da407bd67a51455e460512] (1) Quarries and open-cast mining where the surface of the site exceeds 25 hectares.
+**19.**[^c-996e0d3804da407bd67a51455e460512] (1) Quarries and open-cast mining where the surface of the site exceeds 25 hectares.
 
 (2) Peat extraction where the surface of the site exceeds 150 hectares.
 
-**20.**[^key-27750decc65ba19e9cefe526a06a8908] Construction of overhead electrical power lines with a voltage of 220 kilovolts or more and a length of more than 15 kilometres.
+**20.**[^c-27750decc65ba19e9cefe526a06a8908] Construction of overhead electrical power lines with a voltage of 220 kilovolts or more and a length of more than 15 kilometres.
 
-**21.**[^key-61824761f9cf087162539e7691ec40d6] Installations for storage of petroleum, petrochemical, or chemical products with a capacity of 200,000 tonnes or more.
+**21.**[^c-61824761f9cf087162539e7691ec40d6] Installations for storage of petroleum, petrochemical, or chemical products with a capacity of 200,000 tonnes or more.
 
 #### General
 
-**22.**[^key-9cc8fa999394baeae53dbe6af4764789] Any change to or extension of projects listed in this Part of this schedule where the change or extension in itself meets the thresholds (if any) set out in this Part of this schedule.
+**22.**[^c-9cc8fa999394baeae53dbe6af4764789] Any change to or extension of projects listed in this Part of this schedule where the change or extension in itself meets the thresholds (if any) set out in this Part of this schedule.
 
 ### Part 2
 
 #### Agriculture, silviculture and aquaculture
 
-**23.**[^key-e05e4f726b5a930add91eee8b8569c1d] (1) Projects for the restructuring of rural land holdings.
+**23.**[^c-e05e4f726b5a930add91eee8b8569c1d] (1) Projects for the restructuring of rural land holdings.
 
 (2) Projects for the use of uncultivated land or semi-natural areas for intensive agricultural purposes.
 
@@ -625,7 +625,7 @@ of non-hazardous waste with a capacity exceeding 100 tonnes per day.
 
 #### Extractive industry
 
-**24.**[^key-a0778f9cd75197cef6ac130d57e7b26a] (1) Quarries, open-cast mining and peat extraction.
+**24.**[^c-a0778f9cd75197cef6ac130d57e7b26a] (1) Quarries, open-cast mining and peat extraction.
 
 (2) Underground mining.
 
@@ -643,7 +643,7 @@ except drillings for investigating the stability of the soil.
 
 #### Energy industry
 
-**25.**[^key-5303ec5572213652439f1f26ee8d672d] (1) Industrial installations for the production of electricity, steam and hot water.
+**25.**[^c-5303ec5572213652439f1f26ee8d672d] (1) Industrial installations for the production of electricity, steam and hot water.
 
 (2) Industrial installations for—
 
@@ -666,7 +666,7 @@ except drillings for investigating the stability of the soil.
 
 #### Production and processing of metals
 
-**26.**[^key-33959e8965b13b8f1024cda3c78abf95] (1) Installations for the production of pig iron or steel (that is, primary or secondary fusion) including continuous casting.
+**26.**[^c-33959e8965b13b8f1024cda3c78abf95] (1) Installations for the production of pig iron or steel (that is, primary or secondary fusion) including continuous casting.
 
 (2) Installations for the processing of ferrous metals, that is to say—
 
@@ -694,7 +694,7 @@ except drillings for investigating the stability of the soil.
 
 #### Mineral industry
 
-**27.**[^key-c87b3a2684a5e9b1fa14350e999928fb] (1) Coke ovens (that is to say, dry coal distillation).
+**27.**[^c-c87b3a2684a5e9b1fa14350e999928fb] (1) Coke ovens (that is to say, dry coal distillation).
 
 (2) Installations for the manufacture of cement.
 
@@ -711,7 +711,7 @@ except drillings for investigating the stability of the soil.
 
 #### Chemical industry
 
-**28.**[^key-905e2050ce1fa76ea40358ab5db3c614] (1) Treatment of intermediate chemical products.
+**28.**[^c-905e2050ce1fa76ea40358ab5db3c614] (1) Treatment of intermediate chemical products.
 
 (2) Production of chemicals.
 
@@ -727,7 +727,7 @@ except drillings for investigating the stability of the soil.
 
 #### Food industry
 
-**29.**[^key-0f5da4aab1f1f5fa69f4fcb583d049d0] (1) Manufacture of vegetable and animal oils and fats.
+**29.**[^c-0f5da4aab1f1f5fa69f4fcb583d049d0] (1) Manufacture of vegetable and animal oils and fats.
 
 (2) Packing and canning of animal and vegetable products.
 
@@ -747,7 +747,7 @@ except drillings for investigating the stability of the soil.
 
 #### Textile, leather, wood and paper industries
 
-**30.**[^key-15efb7caaf7d3a7c41cb0b98eba9cf6e] (1) Industrial plants for the production of paper and board.
+**30.**[^c-15efb7caaf7d3a7c41cb0b98eba9cf6e] (1) Industrial plants for the production of paper and board.
 
 (2) Plants for the—
 
@@ -762,11 +762,11 @@ of fibres or textiles.
 
 #### Rubber industry
 
-**31.**[^key-c2d109fb8f4b507f2e6b0d5bce7bbf1e] Manufacture and treatment of elastomer-based products.
+**31.**[^c-c2d109fb8f4b507f2e6b0d5bce7bbf1e] Manufacture and treatment of elastomer-based products.
 
 #### Infrastructure projects
 
-**32.**[^key-ee31650abc7ced4ab1dfa2834523f5fb] (1) Industrial estate development projects.
+**32.**[^c-ee31650abc7ced4ab1dfa2834523f5fb] (1) Industrial estate development projects.
 
 (2) Urban development projects, including the construction of shopping centres and car parks.
 
@@ -796,7 +796,7 @@ of fibres or textiles.
 
 #### Tourism and leisure
 
-**33.**[^key-622a04827c751277af24c6ce5e037732] (1) Ski-runs, ski-lifts and cable-cars and associated developments.
+**33.**[^c-622a04827c751277af24c6ce5e037732] (1) Ski-runs, ski-lifts and cable-cars and associated developments.
 
 (2) Marinas.
 
@@ -810,27 +810,27 @@ of fibres or textiles.
 
 #### Miscellaneous projects
 
-**34.**[^key-5ccb712aecc0596c74b0c8c4da887d0d] Permanent racing and test tracks for motorized vehicles.
+**34.**[^c-5ccb712aecc0596c74b0c8c4da887d0d] Permanent racing and test tracks for motorized vehicles.
 
-**35.**[^key-5c5d8727b0ac0bd94993fa8efeebe7ea] Installations for the disposal of waste.
+**35.**[^c-5c5d8727b0ac0bd94993fa8efeebe7ea] Installations for the disposal of waste.
 
-**36.**[^key-e6b7f9578dd9bd008b64084e6b18e0ba] Waste-water treatment plants.
+**36.**[^c-e6b7f9578dd9bd008b64084e6b18e0ba] Waste-water treatment plants.
 
-**37.**[^key-6a444aa211596b56f677e75fe3b8b9e0] Sludge-deposition sites.
+**37.**[^c-6a444aa211596b56f677e75fe3b8b9e0] Sludge-deposition sites.
 
-**38.**[^key-58ce55634dc05b8fd110d442bdfe09d7] Storage of scrap iron, including scrap vehicles.
+**38.**[^c-58ce55634dc05b8fd110d442bdfe09d7] Storage of scrap iron, including scrap vehicles.
 
-**39.**[^key-26443d3790f72367074a5aeae8e89fd2] Test benches for engines, turbines or reactors.
+**39.**[^c-26443d3790f72367074a5aeae8e89fd2] Test benches for engines, turbines or reactors.
 
-**40.**[^key-7d93545a6b03e82c6b026c8a4802227d] Installations for the manufacture of artificial mineral fibres.
+**40.**[^c-7d93545a6b03e82c6b026c8a4802227d] Installations for the manufacture of artificial mineral fibres.
 
-**41.**[^key-b81cb33e4e24b7d1881bb9575d8d8668] Installations for the recovery or destruction of explosive substances.
+**41.**[^c-b81cb33e4e24b7d1881bb9575d8d8668] Installations for the recovery or destruction of explosive substances.
 
-**42.**[^key-56d534e91d5cf14c79a22f57393221f2] Knackers' yards.
+**42.**[^c-56d534e91d5cf14c79a22f57393221f2] Knackers' yards.
 
 #### General
 
-**43.**[^key-536a127998f72e70ba729994ad24e692] (1) Any change to or extension of projects listed in Part 1 or this Part of this schedule which—
+**43.**[^c-536a127998f72e70ba729994ad24e692] (1) Any change to or extension of projects listed in Part 1 or this Part of this schedule which—
 
 - (a) have already been authorised or executed; or
 - (b) are in the process of being executed,
@@ -841,7 +841,7 @@ and which may have significant adverse effects on the environment.
 
 #### Interpretation
 
-**44.**[^key-b8c8eb4f25a38e1cf82fa42044dbd4c7] (1) Expressions used in both this schedule and in [Directive 2011/92/EU](https://www.legislation.gov.uk/eudr/2011/0092)[^key-26193731c9c25fbc537d7ebe3f53cf7b] of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^key-a0e72c1c28b7b23e879546208db29e83]... shall be construed in accordance with that Directive , as those expressions were construed immediately before exit day[^key-0827a2f8e1f42be97b3bd71c65dbab76].
+**44.**[^c-b8c8eb4f25a38e1cf82fa42044dbd4c7] (1) Expressions used in both this schedule and in [Directive 2011/92/EU](https://www.legislation.gov.uk/eudr/2011/0092)[^c-26193731c9c25fbc537d7ebe3f53cf7b] of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c-a0e72c1c28b7b23e879546208db29e83]... shall be construed in accordance with that Directive , as those expressions were construed immediately before exit day[^c-0827a2f8e1f42be97b3bd71c65dbab76].
 
 (2) References in this Part of this schedule to a project are references to the project in so far as it is not included in Part 1 of this schedule.
 
@@ -849,15 +849,15 @@ and which may have significant adverse effects on the environment.
 
 (introduced by section 7(2))
 
-**1.**[^key-a6e4ef624f9158ee44702bdd66a3792c] The characteristics of plans and programmes, having regard, in particular to—
+**1.**[^c-a6e4ef624f9158ee44702bdd66a3792c] The characteristics of plans and programmes, having regard, in particular to—
 
 - (a) the degree to which the plan or programme sets a framework for projects and other activities, either with regard to the location, nature, size and operating conditions or by allocating resources;
 - (b) the degree to which the plan or programme influences other plans and programmes including those in a hierarchy;
 - (c) the relevance of the plan or programme for the integration of environmental considerations in particular with a view to promoting sustainable development;
 - (d) environmental problems relevant to the plan or programme; and
-- (e) the relevance of the plan or programme for the implementation of assimilated[^key-b181a20670da50041ff615630df1991e][^key-41380d15f98978d4f2e4e77997636f33] law on the environment (for example, plans and programmes linked to waste management or water protection).
+- (e) the relevance of the plan or programme for the implementation of assimilated[^c-b181a20670da50041ff615630df1991e][^c-41380d15f98978d4f2e4e77997636f33] law on the environment (for example, plans and programmes linked to waste management or water protection).
 
-**2.**[^key-4b82fc0e0e188039d2c69d74fc8c65c9] Characteristics of the effects and of the area likely to be affected, having regard, in particular, to—
+**2.**[^c-4b82fc0e0e188039d2c69d74fc8c65c9] Characteristics of the effects and of the area likely to be affected, having regard, in particular, to—
 
 - (a) the probability, duration, frequency and reversibility of the effects;
 - (b) the cumulative nature of the effects;
@@ -868,23 +868,23 @@ and which may have significant adverse effects on the environment.
   - (i) special natural characteristics or cultural heritage;
   - (ii) exceeded environmental quality standards or limit values; or
   - (iii) intensive land-use; and
-- (g) the effects on areas or landscapes which have a recognised national [^key-8415968e7c1b13071f85ee96d84e7b58]... or international protection status.
+- (g) the effects on areas or landscapes which have a recognised national [^c-8415968e7c1b13071f85ee96d84e7b58]... or international protection status.
 
 ## SCHEDULE 3 — Information for environmental reports
 
 (introduced by section 14)
 
-**1.**[^key-7cb7b6559c1b3728757536fe1091fa9a] An outline of the contents and main objectives of the plan or programme, and of its relationship (if any) with other qualifying plans and programmes.
+**1.**[^c-7cb7b6559c1b3728757536fe1091fa9a] An outline of the contents and main objectives of the plan or programme, and of its relationship (if any) with other qualifying plans and programmes.
 
-**2.**[^key-794b5e8b0d648fdff747e3bdb28060cf] The relevant aspects of the current state of the environment and the likely evolution thereof without implementation of the plan or programme.
+**2.**[^c-794b5e8b0d648fdff747e3bdb28060cf] The relevant aspects of the current state of the environment and the likely evolution thereof without implementation of the plan or programme.
 
-**3.**[^key-09389e650bf4f525f056cc72ea60ded9] The environmental characteristics of areas likely to be significantly affected.
+**3.**[^c-09389e650bf4f525f056cc72ea60ded9] The environmental characteristics of areas likely to be significantly affected.
 
-**4.**[^key-8210b665f074aa7ced4089f57c9157ee] Any existing environmental problems which are relevant to the plan or programme including, in particular, those relating to any areas of a particular environmental importance, such as areas designated pursuant to any[^key-8fed41086b0f43504c1a6ee7d67e0a98] assimilated[^key-93d1053d21b36dc35e43477089a8d22d] law extending to Scotland which implemented Council Directive [79/409/EEC](https://www.legislation.gov.uk/eudr/1979/409) on the conservation of wild birds,[^key-e292fdef3906b06662b71efa5c392d88] [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) of the European Parliament and of the Council on the conservation of wild birds, and Council Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) on the conservation of natural habitats and of wild flora and fauna (as last amended by Council Directive 2013/17/EU[^key-169ef18be4403c25a2520635bbf01b9c]).
+**4.**[^c-8210b665f074aa7ced4089f57c9157ee] Any existing environmental problems which are relevant to the plan or programme including, in particular, those relating to any areas of a particular environmental importance, such as areas designated pursuant to any[^c-8fed41086b0f43504c1a6ee7d67e0a98] assimilated[^c-93d1053d21b36dc35e43477089a8d22d] law extending to Scotland which implemented Council Directive [79/409/EEC](https://www.legislation.gov.uk/eudr/1979/409) on the conservation of wild birds,[^c-e292fdef3906b06662b71efa5c392d88] [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) of the European Parliament and of the Council on the conservation of wild birds, and Council Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) on the conservation of natural habitats and of wild flora and fauna (as last amended by Council Directive 2013/17/EU[^c-169ef18be4403c25a2520635bbf01b9c]).
 
-**5.**[^key-949437e1c93da7f44b96d10b1afa6809] The environmental protection objectives, established at international or national[^key-e7bc481f916a9eb060593672136eb5d8] level, which are relevant to the plan or programme and the way those objectives and any environmental considerations have been taken into account during its preparation.
+**5.**[^c-949437e1c93da7f44b96d10b1afa6809] The environmental protection objectives, established at international or national[^c-e7bc481f916a9eb060593672136eb5d8] level, which are relevant to the plan or programme and the way those objectives and any environmental considerations have been taken into account during its preparation.
 
-**6.**[^key-967b420cd7b8e3c57d2a5236f8a8326c] The likely significant effects on the environment, including—
+**6.**[^c-967b420cd7b8e3c57d2a5236f8a8326c] The likely significant effects on the environment, including—
 
 - (a) on issues such as—
   - (i) biodiversity;
@@ -905,224 +905,224 @@ and which may have significant adverse effects on the environment.
 - (d) positive and negative effects; and
 - (e) secondary, cumulative and synergistic effects.
 
-**7.**[^key-8e3b276df0fa6885ca79b84b76fa13c1] The measures envisaged to prevent, reduce and as fully as possible offset any significant adverse effects on the environment of implementing the plan or programme.
+**7.**[^c-8e3b276df0fa6885ca79b84b76fa13c1] The measures envisaged to prevent, reduce and as fully as possible offset any significant adverse effects on the environment of implementing the plan or programme.
 
-**8.**[^key-e58c2d16fbb5c41d45d8f5cc8e116e9a] An outline of the reasons for selecting the alternatives dealt with, and a description of how the assessment was undertaken including any difficulties (such as technical deficiencies or lack of expertise) encountered in compiling the required information.
+**8.**[^c-e58c2d16fbb5c41d45d8f5cc8e116e9a] An outline of the reasons for selecting the alternatives dealt with, and a description of how the assessment was undertaken including any difficulties (such as technical deficiencies or lack of expertise) encountered in compiling the required information.
 
-**9.**[^key-69a18f2e8b76536c37455461a0f9291e] A description of the measures envisaged concerning monitoring in accordance with section 19.
+**9.**[^c-69a18f2e8b76536c37455461a0f9291e] A description of the measures envisaged concerning monitoring in accordance with section 19.
 
-**10.**[^key-65ead53d4e7208b958911dd018b60869] A non-technical summary of the information provided under paragraphs 1 to 9.
+**10.**[^c-65ead53d4e7208b958911dd018b60869] A non-technical summary of the information provided under paragraphs 1 to 9.
 
 ## Annotations
 
-[^key-a51e28a73a1e9973aacbbe5eebf7fefa]: Modification: Act: power to amend or repeal conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-a51e28a73a1e9973aacbbe5eebf7fefa]: Modification: Act: power to amend or repeal conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-a6b48f04cd2aaeacc9b2b08e3d9b681c]: Commencement: S. 1 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-a6b48f04cd2aaeacc9b2b08e3d9b681c]: Commencement: S. 1 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-9aa8e7b2287ca8c56130d30d1e0f32bb]: Commencement: S. 2 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-9aa8e7b2287ca8c56130d30d1e0f32bb]: Commencement: S. 2 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-ede1da23f723bb33f56e675876f97847]: Commencement: S. 3 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-ede1da23f723bb33f56e675876f97847]: Commencement: S. 3 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-f59ea2f1f9ff04033f0740338fdfcaf5]: Textual amendment: [S. 3(1)(a)](https://www.legislation.gov.uk/asp/2005/15/section/3/1/a) substituted (1.10.2015) by [The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271)](https://www.legislation.gov.uk/ssi/2015/271), [arts. 1](https://www.legislation.gov.uk/ssi/2015/271/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2015/271/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2015/271/article/5/2))
+[^c-f59ea2f1f9ff04033f0740338fdfcaf5]: Textual amendment: [S. 3(1)(a)](https://www.legislation.gov.uk/asp/2005/15/section/3/1/a) substituted (1.10.2015) by [The Historic Environment Scotland Act 2014 (Ancillary Provision) Order 2015 (S.S.I. 2015/271)](https://www.legislation.gov.uk/ssi/2015/271), [arts. 1](https://www.legislation.gov.uk/ssi/2015/271/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2015/271/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2015/271/article/5/2))
 
-[^key-d207138107e3ebe22efcf8348336e030]: Commencement: S. 4 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-d207138107e3ebe22efcf8348336e030]: Commencement: S. 4 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-e5deb9f487ec6eee7495410c74d8ccd5]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-e5deb9f487ec6eee7495410c74d8ccd5]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-c03fef4863be346ca1c4a5288d6dd297]: Commencement: S. 5 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-c03fef4863be346ca1c4a5288d6dd297]: Commencement: S. 5 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-3cdad01dbf5b21361e96a1dce0c24502]: Textual amendment: Words in [s. 5(3)(b)](https://www.legislation.gov.uk/asp/2005/15/section/5/3/b) inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(2)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cdad01dbf5b21361e96a1dce0c24502]: Textual amendment: Words in [s. 5(3)(b)](https://www.legislation.gov.uk/asp/2005/15/section/5/3/b) inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(2)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21dde1f387d5676695876643f5ba50bf]: Textual amendment: Word in [s. 5(3)(b)](https://www.legislation.gov.uk/asp/2005/15/section/5/3/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/2)
+[^c-21dde1f387d5676695876643f5ba50bf]: Textual amendment: Word in [s. 5(3)(b)](https://www.legislation.gov.uk/asp/2005/15/section/5/3/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/2)
 
-[^key-a1049439cba789908ff9b0da74a8da4e]: Textual amendment: Words in s. 5(3)(b) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/2)
+[^c-a1049439cba789908ff9b0da74a8da4e]: Textual amendment: Words in s. 5(3)(b) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/2)
 
-[^key-979899c82ed2c3358527454359c4edd7]: Commencement: S. 6 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-979899c82ed2c3358527454359c4edd7]: Commencement: S. 6 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-7342804227f48947f9a28481a0c99293]: Commencement: S. 7 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-7342804227f48947f9a28481a0c99293]: Commencement: S. 7 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-f80c131816af9a9bcf13540f23f8e2bc]: Commencement: S. 8 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-f80c131816af9a9bcf13540f23f8e2bc]: Commencement: S. 8 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-7b553d10f5cf2512bf744a29d78a2454]: Commencement: S. 9 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-7b553d10f5cf2512bf744a29d78a2454]: Commencement: S. 9 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-f228564e771d8f0dbddd8e183d98716d]: Commencement: S. 10 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-f228564e771d8f0dbddd8e183d98716d]: Commencement: S. 10 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-6eaa6f15d278f3ec1e2167bd8f7b1593]: Commencement: S. 11 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-6eaa6f15d278f3ec1e2167bd8f7b1593]: Commencement: S. 11 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-51898d5ca647fdd59ee8224456a49eaf]: Commencement: S. 12 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-51898d5ca647fdd59ee8224456a49eaf]: Commencement: S. 12 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-8b4d5ed4e4118261eff97e6b637e056b]: Commencement: S. 13 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-8b4d5ed4e4118261eff97e6b637e056b]: Commencement: S. 13 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-459dcb59598c3b553ed9dc655540271d]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/asp/2005/15/section/13) heading inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-459dcb59598c3b553ed9dc655540271d]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/asp/2005/15/section/13) heading inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(3)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-45aa01f774c49634244b6375779bc880]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/asp/2005/15/section/13) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/3)
+[^c-45aa01f774c49634244b6375779bc880]: Textual amendment: Words in [s. 13](https://www.legislation.gov.uk/asp/2005/15/section/13) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/3)
 
 [^M_F_45d7e2a7-901c-4ec3-f2ef-cdb80d664064]: Textual amendment: Words in s. 13(1) inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(3)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b9db788ead7da26394c4cdf18d841259]: Textual amendment: Word in [s. 13(1)](https://www.legislation.gov.uk/asp/2005/15/section/13/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/4)
+[^c-b9db788ead7da26394c4cdf18d841259]: Textual amendment: Word in [s. 13(1)](https://www.legislation.gov.uk/asp/2005/15/section/13/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/4)
 
-[^key-95fab9d826ecee52af4b973fb0a8a97c]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/asp/2005/15/section/13/2) inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(3)(c)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95fab9d826ecee52af4b973fb0a8a97c]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/asp/2005/15/section/13/2) inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(3)(c)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f979e2b4079519c4550fca107198de7d]: Textual amendment: Word in [s. 13(2)](https://www.legislation.gov.uk/asp/2005/15/section/13/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(5)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/5)
+[^c-f979e2b4079519c4550fca107198de7d]: Textual amendment: Word in [s. 13(2)](https://www.legislation.gov.uk/asp/2005/15/section/13/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(5)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/5)
 
-[^key-43ec14afffb429f24160754e46954820]: Commencement: S. 14 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-43ec14afffb429f24160754e46954820]: Commencement: S. 14 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-21d6cd3b8ddf88fcb1807d145e874051]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/asp/2005/15/section/14/4) substituted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(4)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21d6cd3b8ddf88fcb1807d145e874051]: Textual amendment: Words in [s. 14(4)](https://www.legislation.gov.uk/asp/2005/15/section/14/4) substituted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(4)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d8dc4a8b6f7d98a372e967acdc28cd66]: Textual amendment: Word in [s. 14(4)](https://www.legislation.gov.uk/asp/2005/15/section/14/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(6)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/6)
+[^c-d8dc4a8b6f7d98a372e967acdc28cd66]: Textual amendment: Word in [s. 14(4)](https://www.legislation.gov.uk/asp/2005/15/section/14/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(6)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/6)
 
-[^key-35429f0d43384b4ba6da924b29882df6]: Commencement: S. 15 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-35429f0d43384b4ba6da924b29882df6]: Commencement: S. 15 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-d23e6a09c133910c9537d9037b677c96]: Commencement: S. 16 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-d23e6a09c133910c9537d9037b677c96]: Commencement: S. 16 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-22a469c4e9f6c40219bb0341ebbe3612]: Commencement: S. 17 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-22a469c4e9f6c40219bb0341ebbe3612]: Commencement: S. 17 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-cf01b293c4387bf3af4c6c2c5a40b252]: Commencement: S. 18 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-cf01b293c4387bf3af4c6c2c5a40b252]: Commencement: S. 18 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-07d1a3f59fdb14bab629e42bcb6306e3]: Commencement: S. 19 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-07d1a3f59fdb14bab629e42bcb6306e3]: Commencement: S. 19 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-6ddc277bd22836a8bd1c5377301a2f35]: Commencement: S. 20 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-6ddc277bd22836a8bd1c5377301a2f35]: Commencement: S. 20 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-8105fd7c6e0dd04e14dec249b8697f9c]: Commencement: S. 24 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/19/article/3))
+[^c-8105fd7c6e0dd04e14dec249b8697f9c]: Commencement: S. 24 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/19/article/3))
 
-[^key-006d084dc8b5124d80776a19da92d310]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/1) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-006d084dc8b5124d80776a19da92d310]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/1) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-0bca10d3a4edf5980c64bd5cd91514c5]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/2) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-0bca10d3a4edf5980c64bd5cd91514c5]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/2) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-f98ba6eb3611fdf6ffd0b1849d9fc232]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/3) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-f98ba6eb3611fdf6ffd0b1849d9fc232]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/3) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-80bc3138a4562bb66ecaa955f5ceb7d9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/4) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-80bc3138a4562bb66ecaa955f5ceb7d9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/4) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-258d20f0eb1238a7b2644a28ff532ecb]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/5) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-258d20f0eb1238a7b2644a28ff532ecb]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/5) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-d6dd59724ddd6024fc94607547b77707]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/6) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-d6dd59724ddd6024fc94607547b77707]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/6) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-d1fda4d09cec3928580e539ad06bebd6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/7) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-d1fda4d09cec3928580e539ad06bebd6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/7) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-0609d884c3b810cff6e4e380984d5b7f]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/8) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-0609d884c3b810cff6e4e380984d5b7f]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/8) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-06215ca9e5648f6cc079b562a9e32e4d]: Commencement: Sch. 1 para. 9 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-06215ca9e5648f6cc079b562a9e32e4d]: Commencement: Sch. 1 para. 9 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-18f3c742354098cfb20b139f3d400668]: Textual amendment: Words in [sch. 1 para. 9](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/9) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/a/i)
+[^c-18f3c742354098cfb20b139f3d400668]: Textual amendment: Words in [sch. 1 para. 9](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/9) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/a/i)
 
-[^key-e0f6ef17917567d4338ff7da88ac32c3]: Textual amendment: Words in [sch. 1 para. 9](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/9) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/a/ii)
+[^c-e0f6ef17917567d4338ff7da88ac32c3]: Textual amendment: Words in [sch. 1 para. 9](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/9) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/a/ii)
 
-[^key-06ca13d59e0dc7ef6c7a7af2f4f21341]: Commencement: Sch. 1 para. 10 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-06ca13d59e0dc7ef6c7a7af2f4f21341]: Commencement: Sch. 1 para. 10 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-9a0299aa412d77c3a622af23bbce45cf]: Textual amendment: Words in [sch. 1 para. 10](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/10) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/b)
+[^c-9a0299aa412d77c3a622af23bbce45cf]: Textual amendment: Words in [sch. 1 para. 10](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/10) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/b)
 
-[^key-4b3daa459a96c78521d70544d53ddeb0]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/11) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-4b3daa459a96c78521d70544d53ddeb0]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/11) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-06cbabc9187ee9d2a4cc82fdf3417913]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/12) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-06cbabc9187ee9d2a4cc82fdf3417913]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/12) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-4a92629592bed3284c86cf6c83f82c23]: Commencement: Sch. 1 para. 13 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-4a92629592bed3284c86cf6c83f82c23]: Commencement: Sch. 1 para. 13 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-5dab737faf4d92d729ddf44e25e5fd64]: Textual amendment: Words in [sch. 1 para. 13](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/13) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(c)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/c)
+[^c-5dab737faf4d92d729ddf44e25e5fd64]: Textual amendment: Words in [sch. 1 para. 13](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/13) substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(c)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/c)
 
-[^key-68f7aed4f34f6f60165f74184d035af7]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/14) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-68f7aed4f34f6f60165f74184d035af7]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/14) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-194f7b5e641b5ce4617b4ba59f8ccbcb]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/15) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-194f7b5e641b5ce4617b4ba59f8ccbcb]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/15) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-465bddc71c398c40afe9fcd441f1bdae]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/16) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-465bddc71c398c40afe9fcd441f1bdae]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/16) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-4808e291b4f0733191fdff4f0e22fa7c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/17) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-4808e291b4f0733191fdff4f0e22fa7c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/17) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-0527f6257311fbe607fac3f038f9e5fc]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/18) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-0527f6257311fbe607fac3f038f9e5fc]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/18) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-996e0d3804da407bd67a51455e460512]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/19) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-996e0d3804da407bd67a51455e460512]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/19) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-27750decc65ba19e9cefe526a06a8908]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/20) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-27750decc65ba19e9cefe526a06a8908]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/20) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-61824761f9cf087162539e7691ec40d6]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/21) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-61824761f9cf087162539e7691ec40d6]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/21) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-9cc8fa999394baeae53dbe6af4764789]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/22) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-9cc8fa999394baeae53dbe6af4764789]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/22) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-e05e4f726b5a930add91eee8b8569c1d]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/23) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-e05e4f726b5a930add91eee8b8569c1d]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/23) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-a0778f9cd75197cef6ac130d57e7b26a]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/24) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-a0778f9cd75197cef6ac130d57e7b26a]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/24) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-5303ec5572213652439f1f26ee8d672d]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/25) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-5303ec5572213652439f1f26ee8d672d]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/25) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-33959e8965b13b8f1024cda3c78abf95]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/26) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-33959e8965b13b8f1024cda3c78abf95]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/26) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-c87b3a2684a5e9b1fa14350e999928fb]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/27) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-c87b3a2684a5e9b1fa14350e999928fb]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/27) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-905e2050ce1fa76ea40358ab5db3c614]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/28) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-905e2050ce1fa76ea40358ab5db3c614]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/28) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-0f5da4aab1f1f5fa69f4fcb583d049d0]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/29) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-0f5da4aab1f1f5fa69f4fcb583d049d0]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/29) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-15efb7caaf7d3a7c41cb0b98eba9cf6e]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/30) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-15efb7caaf7d3a7c41cb0b98eba9cf6e]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/30) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-c2d109fb8f4b507f2e6b0d5bce7bbf1e]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/31) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-c2d109fb8f4b507f2e6b0d5bce7bbf1e]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/31) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-ee31650abc7ced4ab1dfa2834523f5fb]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/32) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-ee31650abc7ced4ab1dfa2834523f5fb]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/32) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-622a04827c751277af24c6ce5e037732]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/33) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-622a04827c751277af24c6ce5e037732]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/33) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-5ccb712aecc0596c74b0c8c4da887d0d]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/34) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-5ccb712aecc0596c74b0c8c4da887d0d]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/34) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-5c5d8727b0ac0bd94993fa8efeebe7ea]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/35) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-5c5d8727b0ac0bd94993fa8efeebe7ea]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/35) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-e6b7f9578dd9bd008b64084e6b18e0ba]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/36) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-e6b7f9578dd9bd008b64084e6b18e0ba]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/36) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-6a444aa211596b56f677e75fe3b8b9e0]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/37) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-6a444aa211596b56f677e75fe3b8b9e0]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/37) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-58ce55634dc05b8fd110d442bdfe09d7]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/38) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-58ce55634dc05b8fd110d442bdfe09d7]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/38) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-26443d3790f72367074a5aeae8e89fd2]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/39) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-26443d3790f72367074a5aeae8e89fd2]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/39) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-7d93545a6b03e82c6b026c8a4802227d]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/40) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-7d93545a6b03e82c6b026c8a4802227d]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/40) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-b81cb33e4e24b7d1881bb9575d8d8668]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/41) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-b81cb33e4e24b7d1881bb9575d8d8668]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/41) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-56d534e91d5cf14c79a22f57393221f2]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/42) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-56d534e91d5cf14c79a22f57393221f2]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/42) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-536a127998f72e70ba729994ad24e692]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/43) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-536a127998f72e70ba729994ad24e692]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/43) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-b8c8eb4f25a38e1cf82fa42044dbd4c7]: Commencement: Sch. 1 para. 44 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-b8c8eb4f25a38e1cf82fa42044dbd4c7]: Commencement: Sch. 1 para. 44 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-26193731c9c25fbc537d7ebe3f53cf7b]: Textual amendment: Words in sch. 1 para. 44 substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(d)(i)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/d/i)
+[^c-26193731c9c25fbc537d7ebe3f53cf7b]: Textual amendment: Words in sch. 1 para. 44 substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(d)(i)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/d/i)
 
-[^key-a0e72c1c28b7b23e879546208db29e83]: Textual amendment: Words in sch. 1 para. 44 omitted (30.6.2019) by virtue of [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/d/ii)
+[^c-a0e72c1c28b7b23e879546208db29e83]: Textual amendment: Words in sch. 1 para. 44 omitted (30.6.2019) by virtue of [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(3)(d)(ii)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/3/d/ii)
 
-[^key-0827a2f8e1f42be97b3bd71c65dbab76]: Textual amendment: Words in [sch. 1 para. 44(1)](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/44/1) inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(5)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0827a2f8e1f42be97b3bd71c65dbab76]: Textual amendment: Words in [sch. 1 para. 44(1)](https://www.legislation.gov.uk/asp/2005/15/schedule/1/paragraph/44/1) inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(5)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a6e4ef624f9158ee44702bdd66a3792c]: Commencement: Sch. 2 para. 1 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-a6e4ef624f9158ee44702bdd66a3792c]: Commencement: Sch. 2 para. 1 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-b181a20670da50041ff615630df1991e]: Textual amendment: Word in [sch. 2 para. 1(e)](https://www.legislation.gov.uk/asp/2005/15/schedule/2/paragraph/1/e) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(7)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/7)
+[^c-b181a20670da50041ff615630df1991e]: Textual amendment: Word in [sch. 2 para. 1(e)](https://www.legislation.gov.uk/asp/2005/15/schedule/2/paragraph/1/e) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(7)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/7)
 
-[^key-41380d15f98978d4f2e4e77997636f33]: Textual amendment: Words in [sch. 2 para. 1(e)](https://www.legislation.gov.uk/asp/2005/15/schedule/2/paragraph/1/e) substituted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(6)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41380d15f98978d4f2e4e77997636f33]: Textual amendment: Words in [sch. 2 para. 1(e)](https://www.legislation.gov.uk/asp/2005/15/schedule/2/paragraph/1/e) substituted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(6)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b82fc0e0e188039d2c69d74fc8c65c9]: Commencement: Sch. 2 para. 2 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-4b82fc0e0e188039d2c69d74fc8c65c9]: Commencement: Sch. 2 para. 2 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-8415968e7c1b13071f85ee96d84e7b58]: Textual amendment: Word in [sch. 2 para. 2](https://www.legislation.gov.uk/asp/2005/15/schedule/2/paragraph/2) omitted (31.12.2020) by virtue of [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(6)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8415968e7c1b13071f85ee96d84e7b58]: Textual amendment: Word in [sch. 2 para. 2](https://www.legislation.gov.uk/asp/2005/15/schedule/2/paragraph/2) omitted (31.12.2020) by virtue of [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(6)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7cb7b6559c1b3728757536fe1091fa9a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/1) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-7cb7b6559c1b3728757536fe1091fa9a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/1) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-794b5e8b0d648fdff747e3bdb28060cf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/2) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-794b5e8b0d648fdff747e3bdb28060cf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/2) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-09389e650bf4f525f056cc72ea60ded9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/3) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-09389e650bf4f525f056cc72ea60ded9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/3) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-8210b665f074aa7ced4089f57c9157ee]: Commencement: Sch. 3 para. 4 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-8210b665f074aa7ced4089f57c9157ee]: Commencement: Sch. 3 para. 4 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-8fed41086b0f43504c1a6ee7d67e0a98]: Textual amendment: Words in [sch. 3 para. 4](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/4) inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(7)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8fed41086b0f43504c1a6ee7d67e0a98]: Textual amendment: Words in [sch. 3 para. 4](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/4) inserted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(7)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-93d1053d21b36dc35e43477089a8d22d]: Textual amendment: Word in [sch. 3 para. 4](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(8)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/8)
+[^c-93d1053d21b36dc35e43477089a8d22d]: Textual amendment: Word in [sch. 3 para. 4](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 5(8)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/5/8)
 
-[^key-e292fdef3906b06662b71efa5c392d88]: Textual amendment: Words in sch. 3 para. 4 inserted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(4)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/4/a)
+[^c-e292fdef3906b06662b71efa5c392d88]: Textual amendment: Words in sch. 3 para. 4 inserted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(4)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/4/a)
 
-[^key-169ef18be4403c25a2520635bbf01b9c]: Textual amendment: Words in sch. 3 para. 4 substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/4/b)
+[^c-169ef18be4403c25a2520635bbf01b9c]: Textual amendment: Words in sch. 3 para. 4 substituted (30.6.2019) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/a), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/2/4/b)
 
-[^key-949437e1c93da7f44b96d10b1afa6809]: Commencement: Sch. 3 para. 5 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-949437e1c93da7f44b96d10b1afa6809]: Commencement: Sch. 3 para. 5 in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-e7bc481f916a9eb060593672136eb5d8]: Textual amendment: Words in [sch. 3 para. 5](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/5) substituted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(7)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7bc481f916a9eb060593672136eb5d8]: Textual amendment: Words in [sch. 3 para. 5](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/5) substituted (31.12.2020) by [The Environmental Assessment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/178)](https://www.legislation.gov.uk/ssi/2019/178), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/1/2/b), [3(7)(b)](https://www.legislation.gov.uk/ssi/2019/178/regulation/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-967b420cd7b8e3c57d2a5236f8a8326c]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/6) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-967b420cd7b8e3c57d2a5236f8a8326c]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/6) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-8e3b276df0fa6885ca79b84b76fa13c1]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/7) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-8e3b276df0fa6885ca79b84b76fa13c1]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/7) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-e58c2d16fbb5c41d45d8f5cc8e116e9a]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/8) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-e58c2d16fbb5c41d45d8f5cc8e116e9a]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/8) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-69a18f2e8b76536c37455461a0f9291e]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/9) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-69a18f2e8b76536c37455461a0f9291e]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/9) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
 
-[^key-65ead53d4e7208b958911dd018b60869]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/10) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)
+[^c-65ead53d4e7208b958911dd018b60869]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asp/2005/15/schedule/3/paragraph/10) in force at 20.2.2006 by [S.S.I. 2006/19](https://www.legislation.gov.uk/ssi/2006/19), [art. 2](https://www.legislation.gov.uk/ssi/2006/19/article/2)

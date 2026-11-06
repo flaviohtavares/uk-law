@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.85. Notice of meetings by advertisement only[^key-63ca940a8adddeb6791f4e52b927214d]
+## 6.85. Notice of meetings by advertisement only[^c-63ca940a8adddeb6791f4e52b927214d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63ca940a8adddeb6791f4e52b927214d]: Commencement: [Rule 6.85](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.85) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-63ca940a8adddeb6791f4e52b927214d]: Commencement: [Rule 6.85](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.85) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

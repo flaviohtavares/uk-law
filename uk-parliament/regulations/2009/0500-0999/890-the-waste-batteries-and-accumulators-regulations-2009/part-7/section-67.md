@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An approved battery treatment operator or approved battery exporter must maintain records that enable completion of the reports referred to in regulation 66(1) [^key-52dd2bda78a34bd272ca0f80c5072866]... in relation to a relevant approval period.
+(1) An approved battery treatment operator or approved battery exporter must maintain records that enable completion of the reports referred to in regulation 66(1) [^c-52dd2bda78a34bd272ca0f80c5072866]... in relation to a relevant approval period.
 
 (2) A record maintained under this regulation must be kept for four years from the date on which it is made and must be made available to the appropriate authority on demand.
 
 ## Annotations
 
-[^key-52dd2bda78a34bd272ca0f80c5072866]: Textual amendment: Words in reg. 67(1) omitted (1.1.2016) by virtue of [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/1935/regulation/9)
+[^c-52dd2bda78a34bd272ca0f80c5072866]: Textual amendment: Words in reg. 67(1) omitted (1.1.2016) by virtue of [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/1935/regulation/9)

@@ -40,25 +40,25 @@ Sections 28 and 54.
 
 **No longer in force (ended 2004-09-28).**
 
-### Part IA — Wales[^key-fe3c14c6aa6807add3784e92a8907760]
+### Part IA — Wales[^c-fe3c14c6aa6807add3784e92a8907760]
 
 **No longer in force.**
 
-#### Continuation of structure, local and old development plans[^key-fe3c14c6aa6807add3784e92a8907760]
+#### Continuation of structure, local and old development plans[^c-fe3c14c6aa6807add3784e92a8907760]
 
-**1.**[^key-fe3c14c6aa6807add3784e92a8907760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fe3c14c6aa6807add3784e92a8907760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Revocation of structure plan[^key-fe3c14c6aa6807add3784e92a8907760]
+#### Revocation of structure plan[^c-fe3c14c6aa6807add3784e92a8907760]
 
-**2.**[^key-fe3c14c6aa6807add3784e92a8907760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fe3c14c6aa6807add3784e92a8907760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Incorporation of current policy in unitary development plan[^key-fe3c14c6aa6807add3784e92a8907760]
+#### Incorporation of current policy in unitary development plan[^c-fe3c14c6aa6807add3784e92a8907760]
 
-**3.**[^key-fe3c14c6aa6807add3784e92a8907760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fe3c14c6aa6807add3784e92a8907760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Meaning of ”local plan”[^key-fe3c14c6aa6807add3784e92a8907760]
+#### Meaning of ”local plan”[^c-fe3c14c6aa6807add3784e92a8907760]
 
-**4.**[^key-fe3c14c6aa6807add3784e92a8907760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fe3c14c6aa6807add3784e92a8907760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Greater London[^c19204791][^c19204791]
 
@@ -186,7 +186,7 @@ Before making an order with respect to a development plan under paragraph 7 or 9
 
 [^c15002251]: Textual amendment: Sch. 2 Pt. I para. 6 repealed (25.11.1991 for certain purposes and otherwise 10.2.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 27](https://www.legislation.gov.uk/ukpga/1991/34/section/27) , [84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 4 Pt. II para. 36(1)(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/4/part/II/paragraph/36/1/a), [Sch. 19 Pt.I](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/I)(with s. 84(5)); [S.I. 1991/2728](https://www.legislation.gov.uk/uksi/1991/2728), [art. 2](https://www.legislation.gov.uk/uksi/1991/2728/article/2); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.4](https://www.legislation.gov.uk/uksi/1991/2905/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/1991/2905/schedule/3)
 
-[^key-fe3c14c6aa6807add3784e92a8907760]: Textual amendment: Sch. 2 Pt. 1A omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/18)
+[^c-fe3c14c6aa6807add3784e92a8907760]: Textual amendment: Sch. 2 Pt. 1A omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/18)
 
 [^c19204791]: Textual amendment: Sch. 2 Pts. 1, 2, 3 repealed (28.9.2004 for E. and 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 118](https://www.legislation.gov.uk/ukpga/2004/5/section/118), [120](https://www.legislation.gov.uk/ukpga/2004/5/section/120), [121](https://www.legislation.gov.uk/ukpga/2004/5/section/121), [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2004/5/schedule/6/paragraph/17), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111))
 

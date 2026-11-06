@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Before issuing a statement of policy under section 124, the FCA[^key-26cb191e674edf25be714f7d89730519] must publish a draft of the proposed statement in the way appearing to the FCA to be best calculated to bring it to the attention of the public.
+(1) Before issuing a statement of policy under section 124, the FCA[^c-26cb191e674edf25be714f7d89730519] must publish a draft of the proposed statement in the way appearing to the FCA to be best calculated to bring it to the attention of the public.
 
 (2) The draft must be accompanied by notice that representations about the proposal may be made to the FCA within a specified time.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26cb191e674edf25be714f7d89730519]: Textual amendment: Word in ss. 121-130A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-26cb191e674edf25be714f7d89730519]: Textual amendment: Word in ss. 121-130A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

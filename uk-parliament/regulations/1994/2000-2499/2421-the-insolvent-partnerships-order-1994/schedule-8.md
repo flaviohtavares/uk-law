@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — MODIFIED PROVISIONS OF COMPANY DIRECTORS DISQUALIFICATION ACT 1986 FOR THE PURPOSES OF ARTICLE 16[^key-b31bb1b375d3328028ec17dfd7b9dba5]
+## SCHEDULE 8 — MODIFIED PROVISIONS OF COMPANY DIRECTORS DISQUALIFICATION ACT 1986 FOR THE PURPOSES OF ARTICLE 16[^c-b31bb1b375d3328028ec17dfd7b9dba5]
 
 *Extent: E+W*
 
 Article 16
 
-[^key-b31bb1b375d3328028ec17dfd7b9dba5]
+[^c-b31bb1b375d3328028ec17dfd7b9dba5]
 
 The following provisions of the Company Directors Disqualification Act 1986[^f00031] are modified so as to read as follows—
 
-> **5A. Section 5A: Disqualification for certain convictions abroad[^key-e68e63ba2d4388714a9d2c021ec2a703]**
+> **5A. Section 5A: Disqualification for certain convictions abroad[^c-e68e63ba2d4388714a9d2c021ec2a703]**
 >
 > (1) If it appears to the Secretary of State that it is expedient in the public interest that a disqualification order under this section should be made against a person, the Secretary of State may apply to the court for such an order.
 >
@@ -48,7 +48,7 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 >
 > (6) The maximum period of disqualification under an order under this section is 15 years.
 >
-> **6. Section 6: Duty of court to disqualify unfit officers of certain partnerships[^key-b2caeff5471520279bf5992a9b34aa9b]**
+> **6. Section 6: Duty of court to disqualify unfit officers of certain partnerships[^c-b2caeff5471520279bf5992a9b34aa9b]**
 >
 > (1) The court shall make a disqualification order against a person in any case where, on an application under this section, it is satisfied—
 >
@@ -107,7 +107,7 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 >
 > (5) Subsections (1A) and (2) of section 6 apply for the purposes of this section as they apply for the purposes of that section.
 >
-> **7A. Section 7A: Office-holder’s report on conduct of officers of the partnership[^key-123fbf681131b101e615361dd8b10785]**
+> **7A. Section 7A: Office-holder’s report on conduct of officers of the partnership[^c-123fbf681131b101e615361dd8b10785]**
 >
 > (1) The office-holder in respect of a partnership which is insolvent must prepare a report (a “conduct report”) about the conduct of each person who was an officer of the partnership—
 >
@@ -149,7 +149,7 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 >
 > (12) In this section “court” has the same meaning as in section 6.
 >
-> **8. Section 8: Disqualification of officer on finding of unfitness[^key-3d31292c5463a6a8d7c226e91b03c2f4]**
+> **8. Section 8: Disqualification of officer on finding of unfitness[^c-3d31292c5463a6a8d7c226e91b03c2f4]**
 >
 > (1) If it appears to the Secretary of State that it is expedient in the public interest that a disqualification order should be made against a person who is or has been an officer of an insolvent partnership, he may apply to the court for such an order.
 >
@@ -168,7 +168,7 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 >
 > (4) The maximum period of disqualification under this section is 15 years.
 >
-> **8ZA. Section 8ZA: Persons instructing unfit officers[^key-c0ea6945b7dbfc9e1f74165fce7673a0]**
+> **8ZA. Section 8ZA: Persons instructing unfit officers[^c-c0ea6945b7dbfc9e1f74165fce7673a0]**
 >
 > (1) The court may make a disqualification order against a person (“P”) if, on an application under section 8ZB, it is satisfied—
 >
@@ -280,11 +280,11 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 >
 > (3) But P does not exercise the requisite amount of influence over the main transgressor by reason only that the main transgressor acts on advice given by P in a professional capacity.
 >
-> **9. Section 9: Matters for determining unfitness of officers of partnerships[^key-8b42f6f762a67d436ed28b70075bfd60]**
+> **9. Section 9: Matters for determining unfitness of officers of partnerships[^c-8b42f6f762a67d436ed28b70075bfd60]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12C. Section 12C: Determining unfitness etc.: matters to be taken into account[^key-e315eb7e6e23c1cad0e7511a9bf590f2]**
+> **12C. Section 12C: Determining unfitness etc.: matters to be taken into account[^c-e315eb7e6e23c1cad0e7511a9bf590f2]**
 >
 > (1) This section applies where a court must determine—
 >
@@ -304,7 +304,7 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 >
 > (6) Subsection (1A) of section 6 applies for the purposes of this section as it applies for the purposes of that section.
 >
-> **13. Section 13: Criminal penalties[^key-e312d450fb1a161112eb9814c1e16527]**
+> **13. Section 13: Criminal penalties[^c-e312d450fb1a161112eb9814c1e16527]**
 >
 > If a person acts in contravention of a disqualification order or disqualification undertaking he is liable—
 >
@@ -335,7 +335,7 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 >
 > (5) For the purposes of this section a person who, as a person involved in the management of a company, has at any time acted on instructions given without the leave of the court by a person whom he knew at that time to be the subject of a disqualification order or disqualification undertaking or a disqualification order under Part II of the Companies (Northern Ireland) Order 1989 or to be an undischarged bankrupt is presumed, unless the contrary is shown, to have been willing at any time thereafter to act on any instructions given by that person.
 >
-> **15A. Section 15A: Compensation orders and undertakings[^key-1fd5d30b8024bae6b8fc063c420689e6]**
+> **15A. Section 15A: Compensation orders and undertakings[^c-1fd5d30b8024bae6b8fc063c420689e6]**
 >
 > (1) The court may make a compensation order against a person on the application of the Secretary of State if it is satisfied that the conditions mentioned in subsection (3) are met.
 >
@@ -383,7 +383,7 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 >
 > (5) An amount payable under a compensation order or compensation undertaking is provable as a bankruptcy debt.
 >
-> **17. Section 17: Application for leave under an order or undertaking[^key-c3d1d3f7e06e7181223833fcb89fa83e]**
+> **17. Section 17: Application for leave under an order or undertaking[^c-c3d1d3f7e06e7181223833fcb89fa83e]**
 >
 > (1) Where a person is subject to a disqualification order made by a court having jurisdiction to wind up partnerships, any application for leave for the purposes of section 1(1)(a) shall be made to that court.
 >
@@ -399,7 +399,7 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 >
 > (5) On the hearing of an application for leave for the purposes of section 1(1)(a) or 1A(1)(a), the Secretary of State shall appear and call the attention of the court to any matters which seem to him to be relevant, and may himself give evidence or call witnesses.
 >
-> **SCHEDULE 1 — DETERMINING UNFITNESS ETC.: MATTERS TO BE TAKEN INTO ACCOUNT[^key-bf32e0933e2bb5dd1fdb3721a333cab7]**
+> **SCHEDULE 1 — DETERMINING UNFITNESS ETC.: MATTERS TO BE TAKEN INTO ACCOUNT[^c-bf32e0933e2bb5dd1fdb3721a333cab7]**
 >
 > Section 9
 >
@@ -434,28 +434,28 @@ The following provisions of the Company Directors Disqualification Act 1986[^f00
 
 ## Annotations
 
-[^key-b31bb1b375d3328028ec17dfd7b9dba5]: Commencement: Sch. 8 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-b31bb1b375d3328028ec17dfd7b9dba5]: Commencement: Sch. 8 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
 [^f00031]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
 
-[^key-e68e63ba2d4388714a9d2c021ec2a703]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/2) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-e68e63ba2d4388714a9d2c021ec2a703]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/2) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
-[^key-b2caeff5471520279bf5992a9b34aa9b]: Textual amendment: Words in Sch. 8 substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/3) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-b2caeff5471520279bf5992a9b34aa9b]: Textual amendment: Words in Sch. 8 substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/3) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
-[^key-123fbf681131b101e615361dd8b10785]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/4) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-123fbf681131b101e615361dd8b10785]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/4) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
-[^key-3d31292c5463a6a8d7c226e91b03c2f4]: Textual amendment: Words in Sch. 8 substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/5) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-3d31292c5463a6a8d7c226e91b03c2f4]: Textual amendment: Words in Sch. 8 substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/5) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
-[^key-c0ea6945b7dbfc9e1f74165fce7673a0]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(6)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/6) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-c0ea6945b7dbfc9e1f74165fce7673a0]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(6)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/6) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
-[^key-8b42f6f762a67d436ed28b70075bfd60]: Textual amendment: Words in Sch. 8 omitted (8.12.2017) by virtue of [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(7)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/7) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-8b42f6f762a67d436ed28b70075bfd60]: Textual amendment: Words in Sch. 8 omitted (8.12.2017) by virtue of [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(7)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/7) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
-[^key-e315eb7e6e23c1cad0e7511a9bf590f2]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(8)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/8) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-e315eb7e6e23c1cad0e7511a9bf590f2]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(8)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/8) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
-[^key-e312d450fb1a161112eb9814c1e16527]: Textual amendment: Words in Sch. 8 inserted (2.4.2001) by [The Insolvent Partnerships (Amendment) Order 2001 (S.I. 2001/767)](https://www.legislation.gov.uk/uksi/2001/767), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/767/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2001/767/article/3/6)
+[^c-e312d450fb1a161112eb9814c1e16527]: Textual amendment: Words in Sch. 8 inserted (2.4.2001) by [The Insolvent Partnerships (Amendment) Order 2001 (S.I. 2001/767)](https://www.legislation.gov.uk/uksi/2001/767), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/767/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2001/767/article/3/6)
 
-[^key-1fd5d30b8024bae6b8fc063c420689e6]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(9)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/9) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-1fd5d30b8024bae6b8fc063c420689e6]: Textual amendment: Words in Sch. 8 inserted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(9)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/9) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
-[^key-c3d1d3f7e06e7181223833fcb89fa83e]: Textual amendment: Words in Sch. 8 substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(10)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/10) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-c3d1d3f7e06e7181223833fcb89fa83e]: Textual amendment: Words in Sch. 8 substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(10)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/10) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
-[^key-bf32e0933e2bb5dd1fdb3721a333cab7]: Textual amendment: Words in Sch. 8 substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(11)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/11) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-bf32e0933e2bb5dd1fdb3721a333cab7]: Textual amendment: Words in Sch. 8 substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 8(11)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/8/11) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))

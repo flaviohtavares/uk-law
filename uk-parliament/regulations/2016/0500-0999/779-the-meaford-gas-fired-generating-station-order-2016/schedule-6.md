@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^key-081072dfad289df5d6faf1c573c77436]
+## SCHEDULE 6 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^c-081072dfad289df5d6faf1c573c77436]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Table 6
 
 ## Annotations
 
-[^key-081072dfad289df5d6faf1c573c77436]: Commencement: Sch. 6 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-081072dfad289df5d6faf1c573c77436]: Commencement: Sch. 6 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

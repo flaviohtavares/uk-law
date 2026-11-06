@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Composition of the Board[^key-519c10dccb1704f6d6d4cbd19d31f101]
+## 7. Composition of the Board[^c-519c10dccb1704f6d6d4cbd19d31f101]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-519c10dccb1704f6d6d4cbd19d31f101]: Commencement: Art. 7 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-519c10dccb1704f6d6d4cbd19d31f101]: Commencement: Art. 7 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

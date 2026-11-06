@@ -24,11 +24,11 @@ Article 51
 
 ### PART 1 — PRELIMINARY
 
-#### 1. Citation[^key-1a0ef4e10c7163282e9941c871f4d2c8]
+#### 1. Citation[^c-1a0ef4e10c7163282e9941c871f4d2c8]
 
 These byelaws may be cited as the Lower Thames Crossing Byelaws 2025 and are deemed to have been made by the undertaker under article 51(1) (byelaws relating to the tunnel area) of the A122 (Lower Thames Crossing) Development Consent Order 2025 and confirmed by the Secretary of State as provided for by article 51(2) of that Order.
 
-#### 2. Interpretation[^key-4bc5e40d984b631a2c78af5e8ace8bc3]
+#### 2. Interpretation[^c-4bc5e40d984b631a2c78af5e8ace8bc3]
 
 (1) In these byelaws unless the context otherwise requires—
 
@@ -56,7 +56,7 @@ These byelaws may be cited as the Lower Thames Crossing Byelaws 2025 and are dee
 
 ### PART 2 — RESTRICTIONS IN THE TUNNEL AREA
 
-#### 3. General safety[^key-dc7716bcc13fb0312c540a2e31143c80]
+#### 3. General safety[^c-dc7716bcc13fb0312c540a2e31143c80]
 
 (1) A person must not operate, obstruct, interfere with or stop any tunnel equipment except—
 
@@ -71,7 +71,7 @@ These byelaws may be cited as the Lower Thames Crossing Byelaws 2025 and are dee
 - (b) obstruct or in any way interfere with the tunnel area;
 - (c) without reasonable cause, activate, use or interfere with any emergency, safety or communications equipment within the tunnel area.
 
-#### 4. Traffic regulation[^key-c6211f941372cd7b584463b6a23c98a4]
+#### 4. Traffic regulation[^c-c6211f941372cd7b584463b6a23c98a4]
 
 (1) A person must not enter the tunnel area on foot without authorisation.
 
@@ -92,7 +92,7 @@ These byelaws may be cited as the Lower Thames Crossing Byelaws 2025 and are dee
 
 (5) A driver of a motor vehicle must not drive in the tunnel area at a speed of less than ten miles per hour except where the driver is prevented from driving at or above ten miles per hour on account of the traffic flow.
 
-#### 5. Breakdowns and falling loads[^key-ee53bc6586bb2cb55cfdb70e19f88811]
+#### 5. Breakdowns and falling loads[^c-ee53bc6586bb2cb55cfdb70e19f88811]
 
 (1) No driver of or passenger in a motor vehicle which has broken down may carry out repairs to or refuel a motor vehicle in the tunnel area without the permission of an authorised person.
 
@@ -107,7 +107,7 @@ These byelaws may be cited as the Lower Thames Crossing Byelaws 2025 and are dee
 - (b) immediately inform an authorised person of the loss of the load and of its approximate location; and
 - (c) immediately inform an authorised person of the identity of, and contact details for, the owner of the load.
 
-#### 6. Restrictions on conduct in the tunnel area[^key-855881d105709217b548da03f3f2027c]
+#### 6. Restrictions on conduct in the tunnel area[^c-855881d105709217b548da03f3f2027c]
 
 (1) A driver of a motor vehicle must not sleep within the tunnel area.
 
@@ -131,7 +131,7 @@ These byelaws may be cited as the Lower Thames Crossing Byelaws 2025 and are dee
 
 ### PART 3 — ENFORCEMENT
 
-#### 7. Compliance with instructions, etc.[^key-1179c0112f011f2dc694d1e37c6049e6]
+#### 7. Compliance with instructions, etc.[^c-1179c0112f011f2dc694d1e37c6049e6]
 
 (1) A person reasonably suspected by an authorised person of breaching or attempting to breach a byelaw must immediately give that person’s name and address when requested to do so by an authorised person.
 
@@ -143,15 +143,15 @@ These byelaws may be cited as the Lower Thames Crossing Byelaws 2025 and are dee
 
 (5) A person is not subject to a penalty for breach of a byelaw by disobeying a notice unless it is proved to the satisfaction of the Court before which the complaint is laid that the notice referred to in the particular byelaw was displayed.
 
-#### 8. Identification of authorised persons[^key-3663345df5315a71bac6bf24870f1644]
+#### 8. Identification of authorised persons[^c-3663345df5315a71bac6bf24870f1644]
 
 An authorised person who is exercising any power conferred on an authorised person by any of the byelaws must produce a form of identification which includes the name of the authorised person’s employer and a means of identifying the authorised person, when requested to do so.
 
-#### 9. Breaches by authorised persons[^key-255c145ea7417f0e3bbf6d64c41fc194]
+#### 9. Breaches by authorised persons[^c-255c145ea7417f0e3bbf6d64c41fc194]
 
 An authorised person acting in the course of the authorised person’s duties is not liable for a breach of a byelaw.
 
-#### 10. Attempted breach[^key-cf832c3711ee8f598427592dbcdcb292]
+#### 10. Attempted breach[^c-cf832c3711ee8f598427592dbcdcb292]
 
 (1) A person who attempts to breach a byelaw is liable to the same penalty as a person who breaches a byelaw.
 
@@ -159,26 +159,26 @@ An authorised person acting in the course of the authorised person’s duties is
 
 ## Annotations
 
-[^key-1a0ef4e10c7163282e9941c871f4d2c8]: Commencement: Sch. 13 para. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-1a0ef4e10c7163282e9941c871f4d2c8]: Commencement: Sch. 13 para. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-4bc5e40d984b631a2c78af5e8ace8bc3]: Commencement: Sch. 13 para. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-4bc5e40d984b631a2c78af5e8ace8bc3]: Commencement: Sch. 13 para. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00173]: Footnote: [1979 c. 7](https://www.legislation.gov.uk/ukpga/1979/7).
 
 [^f00174]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-dc7716bcc13fb0312c540a2e31143c80]: Commencement: Sch. 13 para. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-dc7716bcc13fb0312c540a2e31143c80]: Commencement: Sch. 13 para. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-c6211f941372cd7b584463b6a23c98a4]: Commencement: Sch. 13 para. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-c6211f941372cd7b584463b6a23c98a4]: Commencement: Sch. 13 para. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-ee53bc6586bb2cb55cfdb70e19f88811]: Commencement: Sch. 13 para. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-ee53bc6586bb2cb55cfdb70e19f88811]: Commencement: Sch. 13 para. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-855881d105709217b548da03f3f2027c]: Commencement: Sch. 13 para. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-855881d105709217b548da03f3f2027c]: Commencement: Sch. 13 para. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-1179c0112f011f2dc694d1e37c6049e6]: Commencement: Sch. 13 para. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-1179c0112f011f2dc694d1e37c6049e6]: Commencement: Sch. 13 para. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-3663345df5315a71bac6bf24870f1644]: Commencement: Sch. 13 para. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-3663345df5315a71bac6bf24870f1644]: Commencement: Sch. 13 para. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-255c145ea7417f0e3bbf6d64c41fc194]: Commencement: Sch. 13 para. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-255c145ea7417f0e3bbf6d64c41fc194]: Commencement: Sch. 13 para. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-cf832c3711ee8f598427592dbcdcb292]: Commencement: Sch. 13 para. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-cf832c3711ee8f598427592dbcdcb292]: Commencement: Sch. 13 para. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

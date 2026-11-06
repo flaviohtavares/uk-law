@@ -47,7 +47,7 @@ summary: ''
 
 (8) The Authority may attach such conditions as it considers appropriate in granting preliminary accreditation under this regulation.
 
-(9) Where a plant has been granted preliminary accreditation (and such preliminary accreditation has not been withdrawn) and an application for accreditation is made under this Part before Scheme closure[^key-fe06874bafe4cfd16e1314e68fbe0931], the Authority must, subject to paragraphs (3) and (12) to (14) of regulation 30, and regulations 31 and 81(4), grant that application unless it is satisfied that—
+(9) Where a plant has been granted preliminary accreditation (and such preliminary accreditation has not been withdrawn) and an application for accreditation is made under this Part before Scheme closure[^c-fe06874bafe4cfd16e1314e68fbe0931], the Authority must, subject to paragraphs (3) and (12) to (14) of regulation 30, and regulations 31 and 81(4), grant that application unless it is satisfied that—
 
 - (a) there has been a material change in circumstances since the preliminary accreditation was granted such that, had the application for preliminary accreditation been made after the change, it would have been refused;
 - (b) any condition attached to the preliminary accreditation has not been complied with;
@@ -85,4 +85,4 @@ specifying the date on which the granting or withdrawal of preliminary accredita
 
 ## Annotations
 
-[^key-fe06874bafe4cfd16e1314e68fbe0931]: Textual amendment: Words in reg. 33(9) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/iv), [15](https://www.legislation.gov.uk/uksi/2021/76/regulation/15)
+[^c-fe06874bafe4cfd16e1314e68fbe0931]: Textual amendment: Words in reg. 33(9) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/iv), [15](https://www.legislation.gov.uk/uksi/2021/76/regulation/15)

@@ -29,81 +29,81 @@ Restrictive Practices Court Act 1976 (repealed)
 
 1976 c.33
 
-[^key-c2b53190fde4ddb7e078c90b7d093221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2b53190fde4ddb7e078c90b7d093221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. The Court.[^key-c2b53190fde4ddb7e078c90b7d093221]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Judges of the Court.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 1. The Court.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Non-judicial members.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 2. Judges of the Court.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provision for additional judges or members.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 3. Non-judicial members.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Pay and pensions of non-judicial members.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 4. Provision for additional judges or members.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Administration.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 5. Pay and pensions of non-judicial members.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Hearing and judgment.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 6. Administration.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Right of audience.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 7. Hearing and judgment.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Procedure.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 8. Right of audience.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Appeal.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 9. Procedure.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Consequential amendment, savings and repeals.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 10. Appeal.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Short title, extent and commencement.[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 11. Consequential amendment, savings and repeals.[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — REPEALS[^key-c2b53190fde4ddb7e078c90b7d093221]
+## 12. Short title, extent and commencement.[^c-c2b53190fde4ddb7e078c90b7d093221]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE — REPEALS[^c-c2b53190fde4ddb7e078c90b7d093221]
 
 **No longer in force.**
 
@@ -113,4 +113,4 @@ Section 11.
 
 ## Annotations
 
-[^key-c2b53190fde4ddb7e078c90b7d093221]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1976/33) repealed (10.3.2013) by [Competition Act 1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/1998/41/section/1/a), [76(3)](https://www.legislation.gov.uk/ukpga/1998/41/section/76/3), [Sch. 14 Pt. I](https://www.legislation.gov.uk/ukpga/1998/41/schedule/14/part/I) (with [Sch. 13 paras. 8(3)](https://www.legislation.gov.uk/ukpga/1998/41/schedule/13/paragraph/8/3), [14(5)](https://www.legislation.gov.uk/ukpga/1998/41/schedule/13/paragraph/14/5), [42](https://www.legislation.gov.uk/ukpga/1998/41/schedule/13/paragraph/42), [44](https://www.legislation.gov.uk/ukpga/1998/41/schedule/13/paragraph/44)); [S.I. 2013/284](https://www.legislation.gov.uk/uksi/2013/284), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/284/article/2/a)
+[^c-c2b53190fde4ddb7e078c90b7d093221]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1976/33) repealed (10.3.2013) by [Competition Act 1998 (c. 41)](https://www.legislation.gov.uk/ukpga/1998/41), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/1998/41/section/1/a), [76(3)](https://www.legislation.gov.uk/ukpga/1998/41/section/76/3), [Sch. 14 Pt. I](https://www.legislation.gov.uk/ukpga/1998/41/schedule/14/part/I) (with [Sch. 13 paras. 8(3)](https://www.legislation.gov.uk/ukpga/1998/41/schedule/13/paragraph/8/3), [14(5)](https://www.legislation.gov.uk/ukpga/1998/41/schedule/13/paragraph/14/5), [42](https://www.legislation.gov.uk/ukpga/1998/41/schedule/13/paragraph/42), [44](https://www.legislation.gov.uk/ukpga/1998/41/schedule/13/paragraph/44)); [S.I. 2013/284](https://www.legislation.gov.uk/uksi/2013/284), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/284/article/2/a)

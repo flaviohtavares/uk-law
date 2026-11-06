@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 128G. Making statutory trust discharge orders[^key-83cbb7a9453827e1927fcdd2667c852d]
+## 128G. Making statutory trust discharge orders[^c-83cbb7a9453827e1927fcdd2667c852d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83cbb7a9453827e1927fcdd2667c852d]: Textual amendment: Ss. 128A-128H and cross-heading inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/69/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-83cbb7a9453827e1927fcdd2667c852d]: Textual amendment: Ss. 128A-128H and cross-heading inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/69/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

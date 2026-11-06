@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 64. Recording and publication of decisions[^key-6ec202fed18d7ca522907df6bac857c6]
+## 64. Recording and publication of decisions[^c-6ec202fed18d7ca522907df6bac857c6]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ec202fed18d7ca522907df6bac857c6]: Commencement: S. 64 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-6ec202fed18d7ca522907df6bac857c6]: Commencement: S. 64 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

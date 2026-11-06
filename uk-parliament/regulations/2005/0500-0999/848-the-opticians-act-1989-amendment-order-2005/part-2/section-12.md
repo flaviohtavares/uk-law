@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Insurance[^key-4defc13c1a766910d2cd09db0d474d61]
+## 12. Insurance[^c-4defc13c1a766910d2cd09db0d474d61]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ After section 10 insert—
 
 ## Annotations
 
-[^key-4defc13c1a766910d2cd09db0d474d61]: Commencement: Art. 12 comes into force in accordance with art. 1(3)-(6)
+[^c-4defc13c1a766910d2cd09db0d474d61]: Commencement: Art. 12 comes into force in accordance with art. 1(3)-(6)

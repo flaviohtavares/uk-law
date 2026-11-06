@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Prohibition of pyrotechnic articles at designated venues or events[^key-988935812e6bba654a8524da40f6a18f][^key-57223826d9e035b45d3504ade61e2fd0]
+## 36. Prohibition of pyrotechnic articles at designated venues or events[^c-988935812e6bba654a8524da40f6a18f][^c-57223826d9e035b45d3504ade61e2fd0]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-988935812e6bba654a8524da40f6a18f]: Commencement: S. 36 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-988935812e6bba654a8524da40f6a18f]: Commencement: S. 36 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-57223826d9e035b45d3504ade61e2fd0]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2022/9/section/36) in force at 6.6.2023 by [S.S.I. 2023/99](https://www.legislation.gov.uk/ssi/2023/99), [reg. 2](https://www.legislation.gov.uk/ssi/2023/99/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/99/schedule)
+[^c-57223826d9e035b45d3504ade61e2fd0]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2022/9/section/36) in force at 6.6.2023 by [S.S.I. 2023/99](https://www.legislation.gov.uk/ssi/2023/99), [reg. 2](https://www.legislation.gov.uk/ssi/2023/99/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/99/schedule)

@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Seed Potatoes (England) (Amendment) Regulations 2008 (revoked)[^key-4861706cf2fdd870945e176afa3a41ee]
+The Seed Potatoes (England) (Amendment) Regulations 2008 (revoked)[^c-4861706cf2fdd870945e176afa3a41ee]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2008
 
-[^key-4861706cf2fdd870945e176afa3a41ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4861706cf2fdd870945e176afa3a41ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-4861706cf2fdd870945e176afa3a41ee]
+## 1. Title and commencement[^c-4861706cf2fdd870945e176afa3a41ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-4861706cf2fdd870945e176afa3a41ee]
+## 2. Amendments[^c-4861706cf2fdd870945e176afa3a41ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4861706cf2fdd870945e176afa3a41ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4861706cf2fdd870945e176afa3a41ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4861706cf2fdd870945e176afa3a41ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4861706cf2fdd870945e176afa3a41ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4861706cf2fdd870945e176afa3a41ee]: Textual amendment: Regulations revoked (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/25/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3))
+[^c-4861706cf2fdd870945e176afa3a41ee]: Textual amendment: Regulations revoked (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/25/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3))

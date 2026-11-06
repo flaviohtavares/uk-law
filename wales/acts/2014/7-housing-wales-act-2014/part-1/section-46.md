@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Regulations about fees[^key-8809d1649b0b72eb53c85e5be60ac022][^key-4c4b7aa6f5bcd583bad1c9dbb03736e1]
+## 46. Regulations about fees[^c-8809d1649b0b72eb53c85e5be60ac022][^c-4c4b7aa6f5bcd583bad1c9dbb03736e1]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8809d1649b0b72eb53c85e5be60ac022]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2014/7/section/46) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-8809d1649b0b72eb53c85e5be60ac022]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2014/7/section/46) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-4c4b7aa6f5bcd583bad1c9dbb03736e1]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2014/7/section/46) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-4c4b7aa6f5bcd583bad1c9dbb03736e1]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2014/7/section/46) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

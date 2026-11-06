@@ -501,7 +501,7 @@ In paragraph 1(l) of the Schedule to the Data Protection (Subject Access Modific
 
 (4) This paragraph applies in relation to England only.
 
-#### 43. The Water Supply (Water Quality) Regulations 2000[^key-9121bbebb232dceff8d6092890d9c3df]
+#### 43. The Water Supply (Water Quality) Regulations 2000[^c-9121bbebb232dceff8d6092890d9c3df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1361,34 +1361,34 @@ In regulation 1(2) of the NHS Blood and Transplant (Gwaed a Thrawsblaniadau'r GI
 - (c) omit the definition of “NHS foundation trust”, and
 - (d) omit the definition of “Primary Care Trust”.
 
-(3 (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] In regulation 8A (provision of Healthy Start vitamins)— *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+(3 (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] In regulation 8A (provision of Healthy Start vitamins)— *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] in paragraph (1), for sub-paragraph (a) (together with the “and” following it) substitute— *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+- (a (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] in paragraph (1), for sub-paragraph (a) (together with the “and” following it) substitute— *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
 
-  > - (a (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] in relation to England, a clinical commissioning group, a local authority or the National Health Service Commissioning Board, if it provides, or arranges for the provision of, maternity services or a child health clinic; *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
-  > - (aa (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] in relation to Wales, a *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204] NHS *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204] trust or Local Health Board that provides a maternity or child health clinic; and *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+  > - (a (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] in relation to England, a clinical commissioning group, a local authority or the National Health Service Commissioning Board, if it provides, or arranges for the provision of, maternity services or a child health clinic; *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
+  > - (aa (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] in relation to Wales, a *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204] NHS *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204] trust or Local Health Board that provides a maternity or child health clinic; and *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
 
-  , *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
-- (b (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] in paragraph (2), after “providing” insert *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204] “ , or (in the case of a clinical commissioning group or the National Health Service Commissioning Board) arranging for the provision of, ” *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204], *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
-- (c (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] in paragraph (3), after “health service body” insert *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204] “ (other than a clinical commissioning group or the National Health Service Commissioning Board) ” *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204], *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
-- (d (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] after that paragraph insert— *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+  , *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
+- (b (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] in paragraph (2), after “providing” insert *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204] “ , or (in the case of a clinical commissioning group or the National Health Service Commissioning Board) arranging for the provision of, ” *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204], *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
+- (c (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] in paragraph (3), after “health service body” insert *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204] “ (other than a clinical commissioning group or the National Health Service Commissioning Board) ” *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204], *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
+- (d (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] after that paragraph insert— *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
 
-  > (3A (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] The arrangements made by a clinical commissioning group or the National Health Service Commissioning Board under paragraph (2) may be made with a pharmacist or other person or body. *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+  > (3A (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] The arrangements made by a clinical commissioning group or the National Health Service Commissioning Board under paragraph (2) may be made with a pharmacist or other person or body. *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
 
-  , *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
-- (e (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] in paragraph (4), after “paragraph (2)” insert *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204] “ or (3) ” *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204], *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
-- (f (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] in paragraph (7), after “health service body”, in the first place where it occurs, insert *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204] “ (other than a clinical commissioning group or the National Health Service Commissioning Board) ” *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204], and *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
-- (g (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] after that paragraph insert— *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+  , *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
+- (e (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] in paragraph (4), after “paragraph (2)” insert *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204] “ or (3) ” *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204], *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
+- (f (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] in paragraph (7), after “health service body”, in the first place where it occurs, insert *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204] “ (other than a clinical commissioning group or the National Health Service Commissioning Board) ” *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204], and *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
+- (g (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] after that paragraph insert— *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
 
-  > (8 (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] In the case of a clinical commissioning group— *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+  > (8 (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] In the case of a clinical commissioning group— *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
   >
-  > - (a (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] the Secretary of State may pay the clinical commissioning group an amount equal to the cost of the Healthy Start vitamins that the group has secured the provision of to a beneficiary, or *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
-  > - (b (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] that cost may be met from the sums paid to the group under section 223G of the National Health Service Act 2006. *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+  > - (a (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] the Secretary of State may pay the clinical commissioning group an amount equal to the cost of the Healthy Start vitamins that the group has secured the provision of to a beneficiary, or *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
+  > - (b (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] that cost may be met from the sums paid to the group under section 223G of the National Health Service Act 2006. *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
   >
-  > (9 (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] In the case of the National Health Service Commissioning Board— *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+  > (9 (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] In the case of the National Health Service Commissioning Board— *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
   >
-  > - (a (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] the Secretary of State may pay the Board an amount equal to the cost of the Healthy Start vitamins that the Board has secured the provision of to a beneficiary, or *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
-  > - (b (Extent: S) (affected by repeal, see note))[^key-988566d8e86b54c6470364705acb5204] that cost may be met from the sums paid to the Board under section 223B of the National Health Service Act 2006. *(Extent: S)* *(affected by repeal, see note)*[^key-988566d8e86b54c6470364705acb5204]
+  > - (a (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] the Secretary of State may pay the Board an amount equal to the cost of the Healthy Start vitamins that the Board has secured the provision of to a beneficiary, or *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
+  > - (b (Extent: S) (affected by repeal, see note))[^c-988566d8e86b54c6470364705acb5204] that cost may be met from the sums paid to the Board under section 223B of the National Health Service Act 2006. *(Extent: S)* *(affected by repeal, see note)*[^c-988566d8e86b54c6470364705acb5204]
 
 #### 92. The Health Service Commissioner for England (Special Health Authorities) (No. 2) Order 2005
 
@@ -2626,7 +2626,7 @@ In regulation 2 of the Children's Trust Board (Relevant Partners) (Exceptions) (
 
 In regulation 13(2)(f) of the Care Planning, Placement and Case Review (England) Regulations 2010 [^c2155865] (notification of placement), for “the Primary Care Trust” substitute “ the National Health Service Commissioning Board and the clinical commissioning group ”.
 
-#### 152. The Water Supply (Water Quality) Regulations 2010[^key-3b9bd364000297987053c2435585903c]
+#### 152. The Water Supply (Water Quality) Regulations 2010[^c-3b9bd364000297987053c2435585903c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2845,7 +2845,7 @@ In regulation 13(2)(f) of the Care Planning, Placement and Case Review (England)
 - (g) in paragraph (8), for “Secretary of State or after-care PCT” substitute “ pilot health body ”, and
 - (h) in paragraph (9), for “Secretary of State or after-care PCT”, in each place where it occurs, substitute “ pilot health body ”.
 
-#### 155. The Town and Country Planning (Development Management Procedure) (England) Order 2010[^key-adb3bb70646d875a5b764889e689de28]
+#### 155. The Town and Country Planning (Development Management Procedure) (England) Order 2010[^c-adb3bb70646d875a5b764889e689de28]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2936,11 +2936,11 @@ In regulation 16(b) of the Medical Profession (Responsible Officers) Regulations
 
   .
 
-#### 163. The Accounts and Audit (England) Regulations 2011[^key-bb71202fecea01693ba20f1d39da4ae3]
+#### 163. The Accounts and Audit (England) Regulations 2011[^c-bb71202fecea01693ba20f1d39da4ae3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 164. The National Health Service (Charges to Overseas Visitors) Regulations 2011[^key-107b011c23c2f5d9a21e87cb51f644b1]
+#### 164. The National Health Service (Charges to Overseas Visitors) Regulations 2011[^c-107b011c23c2f5d9a21e87cb51f644b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -3519,7 +3519,7 @@ The National Patient Safety Agency (Amendment) Regulations 2012 [^c2155918] are 
 
 [^c2155754]: Marginal citation: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617). Relevant amending instruments are [S.I. 2010/1000](https://www.legislation.gov.uk/uksi/2010/1000) and [S.I. 2012/3094](https://www.legislation.gov.uk/uksi/2012/3094).
 
-[^key-9121bbebb232dceff8d6092890d9c3df]: Textual amendment: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/43) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+[^c-9121bbebb232dceff8d6092890d9c3df]: Textual amendment: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/43) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
 
 [^c2155756]: Marginal citation: [S.I. 2000/3371](https://www.legislation.gov.uk/uksi/2000/3371). The relevant amending instrument is [S.I. 2009/3082](https://www.legislation.gov.uk/uksi/2009/3082).
 
@@ -3617,7 +3617,7 @@ The National Patient Safety Agency (Amendment) Regulations 2012 [^c2155918] are 
 
 [^c2155803]: Marginal citation: [S.I. 2005/3262](https://www.legislation.gov.uk/uksi/2005/3262). The relevant amending instrument is [S.I. 2006/2818](https://www.legislation.gov.uk/uksi/2006/2818).
 
-[^key-988566d8e86b54c6470364705acb5204]: Textual amendment: Sch. 2 para. 91(3) revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
+[^c-988566d8e86b54c6470364705acb5204]: Textual amendment: Sch. 2 para. 91(3) revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
 
 [^c2155804]: Marginal citation: [S.I. 2005/3428](https://www.legislation.gov.uk/uksi/2005/3428).
 
@@ -3743,13 +3743,13 @@ The National Patient Safety Agency (Amendment) Regulations 2012 [^c2155918] are 
 
 [^c2155865]: Marginal citation: [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959), to which there are amendments not relevant to this Order.
 
-[^key-3b9bd364000297987053c2435585903c]: Textual amendment: [Sch. 2 para. 152](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/152) revoked (15.6.2018) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2018/647/schedule/6)
+[^c-3b9bd364000297987053c2435585903c]: Textual amendment: [Sch. 2 para. 152](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/152) revoked (15.6.2018) by [The Water Supply (Water Quality) Regulations 2018 (S.I. 2018/647)](https://www.legislation.gov.uk/wsi/2018/647), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2018/647/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2018/647/schedule/6)
 
 [^c2155867]: Marginal citation: [S.I. 2010/995](https://www.legislation.gov.uk/uksi/2010/995).
 
 [^c2155868]: Marginal citation: [S.I. 2010/1000](https://www.legislation.gov.uk/uksi/2010/1000), to which there are amendments not relevant to this Order.
 
-[^key-adb3bb70646d875a5b764889e689de28]: Textual amendment: Sch. 2 para. 155 revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
+[^c-adb3bb70646d875a5b764889e689de28]: Textual amendment: Sch. 2 para. 155 revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
 
 [^c2155870]: Marginal citation: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955), to which there are amendments not relevant to this Order.
 
@@ -3765,9 +3765,9 @@ The National Patient Safety Agency (Amendment) Regulations 2012 [^c2155918] are 
 
 [^c2155876]: Marginal citation: [S.I. 2011/704](https://www.legislation.gov.uk/uksi/2011/704) (W. 108), to which there are amendments not relevant to this Order.
 
-[^key-bb71202fecea01693ba20f1d39da4ae3]: Textual amendment: [Sch. 2 para. 163](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/163) revoked (1.4.2015) by [The Accounts and Audit Regulations 2015 (S.I. 2015/234)](https://www.legislation.gov.uk/uksi/2015/234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/234/schedule/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/234/regulation/1/3), [22(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/22/2))
+[^c-bb71202fecea01693ba20f1d39da4ae3]: Textual amendment: [Sch. 2 para. 163](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/163) revoked (1.4.2015) by [The Accounts and Audit Regulations 2015 (S.I. 2015/234)](https://www.legislation.gov.uk/uksi/2015/234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/234/schedule/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/234/regulation/1/3), [22(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/22/2))
 
-[^key-107b011c23c2f5d9a21e87cb51f644b1]: Textual amendment: [Sch. 2 para. 164](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/164) revoked (6.4.2015) by [The National Health Service (Charges to Overseas Visitors) Regulations 2015 (S.I. 2015/238)](https://www.legislation.gov.uk/uksi/2015/238), [reg. 1](https://www.legislation.gov.uk/uksi/2015/238/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/238/schedule/4) (with [reg. 27](https://www.legislation.gov.uk/uksi/2015/238/regulation/27))
+[^c-107b011c23c2f5d9a21e87cb51f644b1]: Textual amendment: [Sch. 2 para. 164](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/164) revoked (6.4.2015) by [The National Health Service (Charges to Overseas Visitors) Regulations 2015 (S.I. 2015/238)](https://www.legislation.gov.uk/uksi/2015/238), [reg. 1](https://www.legislation.gov.uk/uksi/2015/238/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/238/schedule/4) (with [reg. 27](https://www.legislation.gov.uk/uksi/2015/238/regulation/27))
 
 [^c2155879]: Marginal citation: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986), to which there are amendments not relevant to this Order.
 

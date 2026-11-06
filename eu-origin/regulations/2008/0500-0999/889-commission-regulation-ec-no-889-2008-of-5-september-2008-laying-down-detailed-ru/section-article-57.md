@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 57. Organic logo of the EU[^key-4522f5f4e71b3aa93d00aa1f495cbe7a]
+## Article 57. Organic logo of the EU[^c-4522f5f4e71b3aa93d00aa1f495cbe7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4522f5f4e71b3aa93d00aa1f495cbe7a]: Textual amendment: [Art. 57](https://www.legislation.gov.uk/eur/2008/889/article/57) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(35)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4522f5f4e71b3aa93d00aa1f495cbe7a]: Textual amendment: [Art. 57](https://www.legislation.gov.uk/eur/2008/889/article/57) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(35)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

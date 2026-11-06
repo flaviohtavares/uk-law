@@ -34,7 +34,7 @@ Section 58
 - the[^c9347831] [^c9347841]Development of Rural Wales Act 1976;
 - the [^c9347851]New Towns Act 1981;
 - the [^c9347861]Acquisition of Land Act 1981; and
-- sections [^key-0953b7b1cdad67cc1f6b06a4c3d6a1fa]... 296 and 611 of the [^c9347871]Housing Act 1985;
+- sections [^c-0953b7b1cdad67cc1f6b06a4c3d6a1fa]... 296 and 611 of the [^c9347871]Housing Act 1985;
 
 [^c9347811]. . .
 
@@ -64,7 +64,7 @@ shall apply with the necessary modifications in relation to any works which stat
 (2) In sub-paragraph (1) “**statutory water undertakers**” means—
 
 - (a) in relation to England and Wales, statutory water undertakers within the meaning of the Water Act 1973 and includes a person authorised to construct works by an order under section 23 of the Water Act 1945; and
-- (b) in relation to Scotland, Scottish Water *(Extent: S)*[^key-171fc6a086602fa2ba7ca8d0df1ec7be] .
+- (b) in relation to Scotland, Scottish Water *(Extent: S)*[^c-171fc6a086602fa2ba7ca8d0df1ec7be] .
 
 **4.** A relevant airport operator shall be deemed to be a public undertaker for the purposes of section 56[^c9347971]125 of the [^c9347991]Housing (Scotland) Act 19661987 (demolition of obstructive buildings).
 
@@ -99,7 +99,7 @@ shall apply in relation to a relevant airport operator as they apply in relation
 
 [^c9347861]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-0953b7b1cdad67cc1f6b06a4c3d6a1fa]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1986/31/schedule/2/paragraph/1/1) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
+[^c-0953b7b1cdad67cc1f6b06a4c3d6a1fa]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1986/31/schedule/2/paragraph/1/1) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
 
 [^c9347871]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -117,7 +117,7 @@ shall apply in relation to a relevant airport operator as they apply in relation
 
 [^c9347961]: Marginal citation: [1980 c. 45](https://www.legislation.gov.uk/ukpga/1980/45).
 
-[^key-171fc6a086602fa2ba7ca8d0df1ec7be]: Textual amendment: Words in Sch. 2 para. 3(2)(b) substituted (S.) (14.7.2004) by [The Water Industry (Scotland) Act 2002 (Consequential Modifications) Order 2004 (S.I. 2004/1822)](https://www.legislation.gov.uk/uksi/2004/1822), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1822/article/1/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2004/1822/schedule/paragraph/13)
+[^c-171fc6a086602fa2ba7ca8d0df1ec7be]: Textual amendment: Words in Sch. 2 para. 3(2)(b) substituted (S.) (14.7.2004) by [The Water Industry (Scotland) Act 2002 (Consequential Modifications) Order 2004 (S.I. 2004/1822)](https://www.legislation.gov.uk/uksi/2004/1822), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/1822/article/1/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2004/1822/schedule/paragraph/13)
 
 [^c9347971]: Textual amendment: Words “125” and “1987” substituted (S.) for “56” and “1966” by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [s. 339](https://www.legislation.gov.uk/ukpga/1987/26/section/339), [Sch. 23 para. 32](https://www.legislation.gov.uk/ukpga/1987/26/schedule/23/paragraph/32)
 

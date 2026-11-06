@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Inspection etc. of local authority institutions, other than schools, and advice to Secretary of State.[^c11065241][^c17237071][^key-5ca14e1c5c9fb4ff32ae914fdd63af76]
+## 55. Inspection etc. of local authority institutions, other than schools, and advice to Secretary of State.[^c11065241][^c17237071][^c-5ca14e1c5c9fb4ff32ae914fdd63af76]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 [^c17237071]: Modification: S.55: functions of a local education authority made exercisable (E.) (1.4.2002) by authorised persons by [Contracting Out (Local Education Authority Functions) (England) Order 2002 (S.I. 2002/928)](https://www.legislation.gov.uk/uksi/2002/928), [art. 3](https://www.legislation.gov.uk/uksi/2002/928/article/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2002/928/schedule/3)
 
-[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
+[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
 
 [^c11065251]: Textual amendment: S. 55(1)-(3) repealed (1.4.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [ss. 149](https://www.legislation.gov.uk/ukpga/2000/21/section/149), [153](https://www.legislation.gov.uk/ukpga/2000/21/section/153), [Sch. 9 para. 32](https://www.legislation.gov.uk/ukpga/2000/21/schedule/9/paragraph/32), [Sch. 11](https://www.legislation.gov.uk/ukpga/2000/21/schedule/11); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2](https://www.legislation.gov.uk/uksi/2001/654/article/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3)); [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2](https://www.legislation.gov.uk/uksi/2001/1274/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I)
 

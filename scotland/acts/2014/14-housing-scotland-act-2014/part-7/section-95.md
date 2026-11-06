@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Private rented housing panel: disqualification from membership[^key-78f63a2bbcce081920cc22543063c083]
+## 95. Private rented housing panel: disqualification from membership[^c-78f63a2bbcce081920cc22543063c083]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ In Schedule 4 to the Rent (Scotland) Act 1984, after paragraph 1 insert—
 
 ## Annotations
 
-[^key-78f63a2bbcce081920cc22543063c083]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2014/14/section/95) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-78f63a2bbcce081920cc22543063c083]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2014/14/section/95) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

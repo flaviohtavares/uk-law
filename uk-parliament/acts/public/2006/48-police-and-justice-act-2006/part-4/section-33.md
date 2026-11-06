@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Transitional provision[^key-e3c35a000a80f7800287b7509734925d]
+## 33. Transitional provision[^c-e3c35a000a80f7800287b7509734925d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In relation to any time before the commencement of the provision in Part 8 of th
 
 ## Annotations
 
-[^key-e3c35a000a80f7800287b7509734925d]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/48/section/33) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(m)](https://www.legislation.gov.uk/uksi/2007/709/article/3/m) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-e3c35a000a80f7800287b7509734925d]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/48/section/33) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(m)](https://www.legislation.gov.uk/uksi/2007/709/article/3/m) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

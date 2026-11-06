@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Access to works[^key-7ce0338507f2c77fffd2e08044464032]
+## 10. Access to works[^c-7ce0338507f2c77fffd2e08044464032]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The Council may, for the purposes of the authorised works—
 
 ## Annotations
 
-[^key-7ce0338507f2c77fffd2e08044464032]: Commencement: Art. 10 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-7ce0338507f2c77fffd2e08044464032]: Commencement: Art. 10 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

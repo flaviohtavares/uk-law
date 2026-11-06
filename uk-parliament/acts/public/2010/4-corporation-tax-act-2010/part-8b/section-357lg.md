@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357LG. Application of 20% rule to collective investment schemes[^key-07b12b803f005ffa1a63e2abcd34f2ac][^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357LG. Application of 20% rule to collective investment schemes[^c-07b12b803f005ffa1a63e2abcd34f2ac][^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07b12b803f005ffa1a63e2abcd34f2ac]: Textual amendment: [Ss. 357LE-357LG](https://www.legislation.gov.uk/ukpga/2010/4/section/357LE) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 21(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/21/2), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-07b12b803f005ffa1a63e2abcd34f2ac]: Textual amendment: [Ss. 357LE-357LG](https://www.legislation.gov.uk/ukpga/2010/4/section/357LE) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 21(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/21/2), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)

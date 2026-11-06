@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47A. Matters which may be raised in an appeal under section 47(1)[^key-c0ea47a54a0180c92aa26a702e402eb8][^key-2d5bee9d6aadbd0b77f593705518025d]
+## 47A. Matters which may be raised in an appeal under section 47(1)[^c-c0ea47a54a0180c92aa26a702e402eb8][^c-2d5bee9d6aadbd0b77f593705518025d]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0ea47a54a0180c92aa26a702e402eb8]: Modification: Ss. 47-48 applied (with modifications) by S.I. 1984/467, reg. 21(1)(1A) (as substituted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3)))
+[^c-c0ea47a54a0180c92aa26a702e402eb8]: Modification: Ss. 47-48 applied (with modifications) by S.I. 1984/467, reg. 21(1)(1A) (as substituted (30.6.2013) by [The Town and Country Planning (Control of Advertisements) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/154)](https://www.legislation.gov.uk/ssi/2013/154), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/154/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2013/154/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/154/regulation/3)))
 
-[^key-2d5bee9d6aadbd0b77f593705518025d]: Textual amendment: S. 47A inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 19(2)](https://www.legislation.gov.uk/asp/2006/17/section/19/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(1)(b)](https://www.legislation.gov.uk/ssi/2009/222/article/9/1/b)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-2d5bee9d6aadbd0b77f593705518025d]: Textual amendment: S. 47A inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 19(2)](https://www.legislation.gov.uk/asp/2006/17/section/19/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(1)(b)](https://www.legislation.gov.uk/ssi/2009/222/article/9/1/b)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

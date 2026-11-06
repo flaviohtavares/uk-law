@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Asylum Support (Amendment) (No. 2) Regulations 2009 (revoked)[^key-e9a5f611e21b8829988304bb0888cd3e]
+The Asylum Support (Amendment) (No. 2) Regulations 2009 (revoked)[^c-e9a5f611e21b8829988304bb0888cd3e]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 6th July 2009
 
-[^key-e9a5f611e21b8829988304bb0888cd3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9a5f611e21b8829988304bb0888cd3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e9a5f611e21b8829988304bb0888cd3e]
+## 1. Citation and commencement[^c-e9a5f611e21b8829988304bb0888cd3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Kind and levels of support for essential living needs[^key-e9a5f611e21b8829988304bb0888cd3e]
+## 2. Kind and levels of support for essential living needs[^c-e9a5f611e21b8829988304bb0888cd3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Asylum Support (Amendment) Regulations 2008[^key-e9a5f611e21b8829988304bb0888cd3e]
+## 3. Revocation of the Asylum Support (Amendment) Regulations 2008[^c-e9a5f611e21b8829988304bb0888cd3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e9a5f611e21b8829988304bb0888cd3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9a5f611e21b8829988304bb0888cd3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e9a5f611e21b8829988304bb0888cd3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9a5f611e21b8829988304bb0888cd3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9a5f611e21b8829988304bb0888cd3e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1388) revoked (12.4.2010) by [The Asylum Support (Amendment) Regulations 2010 (S.I. 2010/784)](https://www.legislation.gov.uk/uksi/2010/784), [regs. 1](https://www.legislation.gov.uk/uksi/2010/784/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/784/regulation/3)
+[^c-e9a5f611e21b8829988304bb0888cd3e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1388) revoked (12.4.2010) by [The Asylum Support (Amendment) Regulations 2010 (S.I. 2010/784)](https://www.legislation.gov.uk/uksi/2010/784), [regs. 1](https://www.legislation.gov.uk/uksi/2010/784/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/784/regulation/3)

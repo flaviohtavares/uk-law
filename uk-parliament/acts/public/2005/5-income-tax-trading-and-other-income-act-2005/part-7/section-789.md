@@ -26,10 +26,10 @@ summary: ''
 
 (3) If the individual does not, the individual's limit for the tax year is half that amount.
 
-(4) The basic amount for a tax year is £7500[^key-b8556927b0482e6da9023627d1d01b17] .
+(4) The basic amount for a tax year is £7500[^c-b8556927b0482e6da9023627d1d01b17] .
 
 (5) The Treasury may by order amend the sum for the time being specified in subsection (4).
 
 ## Annotations
 
-[^key-b8556927b0482e6da9023627d1d01b17]: Textual amendment: Word in s. 789(4) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Limit for Rent-a-Room Relief) Order 2015 (S.I. 2015/1539)](https://www.legislation.gov.uk/uksi/2015/1539), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1539/article/1/1), [2](https://www.legislation.gov.uk/uksi/2015/1539/article/2)
+[^c-b8556927b0482e6da9023627d1d01b17]: Textual amendment: Word in s. 789(4) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Limit for Rent-a-Room Relief) Order 2015 (S.I. 2015/1539)](https://www.legislation.gov.uk/uksi/2015/1539), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1539/article/1/1), [2](https://www.legislation.gov.uk/uksi/2015/1539/article/2)

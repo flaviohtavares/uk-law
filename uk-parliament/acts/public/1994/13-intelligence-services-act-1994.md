@@ -76,12 +76,12 @@ An Act to make provision about the Secret Intelligence Service and the Governmen
 
 (1) There shall continue to be a Government Communications Headquarters under the authority of the Secretary of State; and, subject to subsection (2) below, its functions shall be—
 
-- (a) to monitor , make use of[^key-0894cbb199e8244ace2610bfd3a6c452] or interfere with electromagnetic, acoustic and other emissions and any equipment producing such emissions and to obtain and provide information derived from or related to such emissions or equipment and from encrypted material; and
+- (a) to monitor , make use of[^c-0894cbb199e8244ace2610bfd3a6c452] or interfere with electromagnetic, acoustic and other emissions and any equipment producing such emissions and to obtain and provide information derived from or related to such emissions or equipment and from encrypted material; and
 - (b) to provide advice and assistance about—
   - (i) languages, including terminology used for technical matters, and
   - (ii) cryptography and other matters relating to the protection of information and other material,
 
-  to the armed forces of the Crown, to Her Majesty’s Government in the United Kingdom or to a Northern Ireland Department or, in such cases as it considers appropriate, to other organisations or persons, or to the general public, in the United Kingdom or elsewhere.[^key-3d851e70601ca61396e4960978010120]
+  to the armed forces of the Crown, to Her Majesty’s Government in the United Kingdom or to a Northern Ireland Department or, in such cases as it considers appropriate, to other organisations or persons, or to the general public, in the United Kingdom or elsewhere.[^c-3d851e70601ca61396e4960978010120]
 
 (2) The functions referred to in subsection (1)(a) above shall be exercisable only—
 
@@ -113,7 +113,7 @@ An Act to make provision about the Secret Intelligence Service and the Governmen
 
 (1)[^c8617381] No entry on or interference with property or with wireless telegraphy shall be unlawful if it is authorised by a warrant issued by the Secretary of State under this section.
 
-(2) The Secretary of State may, on an application made by the Security Service, the Intelligence Service or GCHQ, issue a warrant under this section authorising the taking [^key-f76fbb6839981930a35c6e4d58d98474]... of such action as is specified in the warrant in respect of any property so specified or in respect of wireless telegraphy so specified if the Secretary of State—
+(2) The Secretary of State may, on an application made by the Security Service, the Intelligence Service or GCHQ, issue a warrant under this section authorising the taking [^c-f76fbb6839981930a35c6e4d58d98474]... of such action as is specified in the warrant in respect of any property so specified or in respect of wireless telegraphy so specified if the Secretary of State—
 
 - (a) thinks it necessary for the action to be taken for the purpose of[^c8617391] assisting, as the case may be,—
   - (i) the Security Service in carrying out any of its functions under the 1989 Act; or
@@ -124,9 +124,9 @@ An Act to make provision about the Secret Intelligence Service and the Governmen
 
 (2A)[^c8617411] The matters to be taken into account in considering whether the requirements of subsection (2)(a) and (b) are satisfied in the case of any warrant shall include whether what it is thought necessary to achieve by the conduct authorised by the warrant could reasonably be achieved by other means.
 
-(3)[^c8617421] [^key-87db3607fae5825b92a847f30c285299]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c8617421] [^c-87db3607fae5825b92a847f30c285299]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A) A warrant issued on the application of the Security Service for the purposes of the exercise of their function under section 1(4) of the [^c8617431]Security Service Act 1989 , or on the application of the Intelligence Service or[^key-27b94987244436c9eb4ba8ecc2588d4b] GCHQ for the purposes of the exercise of their functions by virtue of section 1(2)(c) or 3(2)(c), may not relate to property in the British Islands unless it authorises the taking of action in relation to conduct within subsection (3B) below.
+(3A) A warrant issued on the application of the Security Service for the purposes of the exercise of their function under section 1(4) of the [^c8617431]Security Service Act 1989 , or on the application of the Intelligence Service or[^c-27b94987244436c9eb4ba8ecc2588d4b] GCHQ for the purposes of the exercise of their functions by virtue of section 1(2)(c) or 3(2)(c), may not relate to property in the British Islands unless it authorises the taking of action in relation to conduct within subsection (3B) below.
 
 (3B) Conduct is within this subsection if it constitutes (or, if it took place in the United Kingdom, would constitute) one or more offences, and either—
 
@@ -146,17 +146,17 @@ An Act to make provision about the Secret Intelligence Service and the Governmen
 
 - (a) under the hand of the Secretary of State or in the case of a warrant by the Scottish Minister (by virtue of provision made under section 63 of the Scotland Act 1998), a member of the Scottish Executive[^c8617651] ; or
 - (b) in an urgent case where the Secretary of State has expressly authorised its issue and a statement of that fact is endorsed on it, under the hand of a senior official [^c8617661]. . . ; or[^c8617671]
-- (c) in an urgent case where, the Scottish Ministers have (by virtue of provision made under section 63 of the Scotland Act 1998) expressly authorised its issue and a statement of that fact is endorsed thereon, under the hand of a member of the staff of the Scottish Administration who is in the Senior Civil Service and is designated by the Scottish Ministers as a person under whose hand a warrant may be issued in such a case. or[^key-dfaa54fa9dee3cf16f637d1f6119b733]
+- (c) in an urgent case where, the Scottish Ministers have (by virtue of provision made under section 63 of the Scotland Act 1998) expressly authorised its issue and a statement of that fact is endorsed thereon, under the hand of a member of the staff of the Scottish Administration who is in the Senior Civil Service and is designated by the Scottish Ministers as a person under whose hand a warrant may be issued in such a case. or[^c-dfaa54fa9dee3cf16f637d1f6119b733]
 - (d) in an urgent case where the Secretary of State has expressly authorised the issue of warrants in accordance with this paragraph by specified senior officials and a statement of that fact is endorsed on the warrant, under the hand of any of the specified officials.
 
-(1A)[^key-4025b5d5f4195c7d19bdf31838e947b4] But a warrant issued in accordance with subsection (1)(d) may authorise the taking of an action only if the action is an action in relation to property which, immediately before the issue of the warrant, would, if done outside the British Islands, have been authorised by virtue of an authorisation under section 7 that was in force at that time.”
+(1A)[^c-4025b5d5f4195c7d19bdf31838e947b4] But a warrant issued in accordance with subsection (1)(d) may authorise the taking of an action only if the action is an action in relation to property which, immediately before the issue of the warrant, would, if done outside the British Islands, have been authorised by virtue of an authorisation under section 7 that was in force at that time.”
 
 (1B) A senior official who issues a warrant in accordance with subsection (1)(d) must inform the Secretary of State about the issue of the warrant as soon as practicable after issuing it.
 
 (2) A warrant shall, unless renewed under subsection (3) below, cease to have effect—
 
 - (a) if the warrant was under the hand of the Secretary of State or, in the case of a warrant issued by the Scottish Ministers (by virtue of provision made under section 63 of the Scotland Act 1998), a member of the Scottish Executive[^c8617681], at the end of the period of six months beginning with the day on which it was issued; and
-- (b) in any other case, at the end of the period ending with the fifth[^key-acb7ba3d9761d74997fd49927238085c] working day following that day.
+- (b) in any other case, at the end of the period ending with the fifth[^c-acb7ba3d9761d74997fd49927238085c] working day following that day.
 
 (3)[^c8617691] If at any time before the day on which a warrant would cease to have effect the Secretary of State considers it necessary for the warrant to continue to have effect for the purpose for which it was issued, he may by an instrument under his hand renew it for a period of six months beginning with that day.
 
@@ -197,7 +197,7 @@ An Act to make provision about the Secret Intelligence Service and the Governmen
 (6) An authorisation shall, unless renewed under subsection (7) below, cease to have effect—
 
 - (a) if the authorisation was given under the hand of the Secretary of State, at the end of the period of six months beginning with the day on which it was given;
-- (b) in any other case, at the end of the period ending with the fifth[^key-580530cce77f7477729893946e06f006] working day following the day on which it was given.
+- (b) in any other case, at the end of the period ending with the fifth[^c-580530cce77f7477729893946e06f006] working day following the day on which it was given.
 
 (7) If at any time before the day on which an authorisation would cease to have effect the Secretary of State considers it necessary for the authorisation to continue to have effect for the purpose for which it was given, he may by an instrument under his hand renew it for a period of six months beginning with that day.
 
@@ -210,7 +210,7 @@ An Act to make provision about the Secret Intelligence Service and the Governmen
 
 and in this subsection “**apparatus** ” has the same meaning as in the Regulation of Investigatory Powers Act 2000 (c. 23).
 
-(10)[^key-993112f5cbffe3ab5151ec719df32c92] Where—
+(10)[^c-993112f5cbffe3ab5151ec719df32c92] Where—
 
 - (a) a person is authorised by virtue of this section to do an act outside the British Islands in relation to property,
 - (b) the act is one which, in relation to property within the British Islands, is capable of being authorised by a warrant under section 5,
@@ -244,7 +244,7 @@ this section shall have effect as if the act were done outside the British Islan
 
 ## The Intelligence and Security Committee
 
-### 10. The Intelligence and Security Committee.[^key-1b23210886d2c4a5faa5845ef2cce923]
+### 10. The Intelligence and Security Committee.[^c-1b23210886d2c4a5faa5845ef2cce923]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -256,12 +256,12 @@ this section shall have effect as if the act were done outside the British Islan
 
 - (a) “**the 1989 Act** ” means the [^c8618281]Security Service Act 1989;
 - (b)[^c8618291] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-1148ae4ab4e34084c13031c8d3b2d8cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1148ae4ab4e34084c13031c8d3b2d8cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c8618311] “**senior official** ” has the same meaning as in the Regulation of Investigatory Powers Act 2000;
-- (e) “**wireless telegraphy** ” has the same meaning as in the Wireless Telegraphy Act 2006[^key-aff9f6b8eb6f918764d0a011b67509f0] and, in relation to wireless telegraphy, “**interfere** ” has the same meaning as in that Act;
+- (e) “**wireless telegraphy** ” has the same meaning as in the Wireless Telegraphy Act 2006[^c-aff9f6b8eb6f918764d0a011b67509f0] and, in relation to wireless telegraphy, “**interfere** ” has the same meaning as in that Act;
 - (f) “**working day** ” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the [^c8618331]Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
 
-(1A)[^c8618341] Section 81(5) of the Regulation of Investigatory Powers Act 2000 (meaning of “**prevention** ” and “**detection** ”), so far as it relates to serious crime, shall apply for the purposes of this Act as it applies for the purposes of that Act, except that for the purposes of section 3 above it shall not include a reference to gathering evidence for use in any legal proceedings (within the meaning of that Act).[^key-6e19e8cccb2e4883ffe211095ff62ea3]
+(1A)[^c8618341] Section 81(5) of the Regulation of Investigatory Powers Act 2000 (meaning of “**prevention** ” and “**detection** ”), so far as it relates to serious crime, shall apply for the purposes of this Act as it applies for the purposes of that Act, except that for the purposes of section 3 above it shall not include a reference to gathering evidence for use in any legal proceedings (within the meaning of that Act).[^c-6e19e8cccb2e4883ffe211095ff62ea3]
 
 (2) In consequence of the preceding provisions of this Act, the 1989 Act, the [^c8618361]Official Secrets Act 1989 and the [^c8618371]Official Secrets Act 1989 (Prescription) Order 1990 shall have effect subject to the amendments in Schedule 4 to this Act.
 
@@ -472,27 +472,27 @@ The functions of the Tribunal in relation to any complaint shall be capable of b
 
 (2) The same amendment shall be made in Part II of Schedule 1 to the [^c8618711]Northern Ireland Assembly Disqualification Act 1975.
 
-## SCHEDULE 3 — THE INTELLIGENCE AND SECURITY COMMITTEE[^key-231fb387b53736b94d5380df1d7735bf]
+## SCHEDULE 3 — THE INTELLIGENCE AND SECURITY COMMITTEE[^c-231fb387b53736b94d5380df1d7735bf]
 
 **No longer in force.**
 
 Section 10(4).
 
-### Tenure of office[^key-231fb387b53736b94d5380df1d7735bf]
+### Tenure of office[^c-231fb387b53736b94d5380df1d7735bf]
 
-**1.**[^key-231fb387b53736b94d5380df1d7735bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-231fb387b53736b94d5380df1d7735bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Procedure[^key-231fb387b53736b94d5380df1d7735bf]
+### Procedure[^c-231fb387b53736b94d5380df1d7735bf]
 
-**2.**[^key-231fb387b53736b94d5380df1d7735bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-231fb387b53736b94d5380df1d7735bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Access to information[^key-231fb387b53736b94d5380df1d7735bf]
+### Access to information[^c-231fb387b53736b94d5380df1d7735bf]
 
-**3.**[^key-231fb387b53736b94d5380df1d7735bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-231fb387b53736b94d5380df1d7735bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Sensitive information[^key-231fb387b53736b94d5380df1d7735bf]
+### Sensitive information[^c-231fb387b53736b94d5380df1d7735bf]
 
-**4.**[^key-231fb387b53736b94d5380df1d7735bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-231fb387b53736b94d5380df1d7735bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — CONSEQUENTIAL AMENDMENTS
 
@@ -539,9 +539,9 @@ Section 11(2).
 
 [^c8617241]: Commencement: S. 3 wholly in force at 15.12.1994; S. 3 not in force at Royal Assent, see s. 12(2); s. 3 in force at 2.11.1994 for certain purposes and wholly in force at 15.12.1994 by [S.I. 1994/2734](https://www.legislation.gov.uk/uksi/1994/2734), [art. 2](https://www.legislation.gov.uk/uksi/1994/2734/article/2)
 
-[^key-0894cbb199e8244ace2610bfd3a6c452]: Textual amendment: Words in [s. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1994/13/section/3/1/a) inserted (13.2.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(2)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/2/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
+[^c-0894cbb199e8244ace2610bfd3a6c452]: Textual amendment: Words in [s. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1994/13/section/3/1/a) inserted (13.2.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(2)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/2/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
 
-[^key-3d851e70601ca61396e4960978010120]: Textual amendment: Words in [s. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1994/13/section/3/1/b) substituted (13.2.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(2)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/2/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
+[^c-3d851e70601ca61396e4960978010120]: Textual amendment: Words in [s. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1994/13/section/3/1/b) substituted (13.2.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(2)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/2/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
 
 [^c8617251]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/1994/13/section/4) wholly in force at 15.12.1994; [S. 4](https://www.legislation.gov.uk/ukpga/1994/13/section/4) not in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/1994/13/section/12/2); [s. 4](https://www.legislation.gov.uk/ukpga/1994/13/section/4) in force at 2.11.1994 for certain purposes and wholly in force at 15.12.1994 by [S.I. 1994/2734](https://www.legislation.gov.uk/uksi/1994/2734), [art. 2](https://www.legislation.gov.uk/uksi/1994/2734/article/2)
 
@@ -557,7 +557,7 @@ Section 11(2).
 
 [^c8617381]: Modification: S. 5(1) extended (with modifications) (Jersey, Guernsey) (15.12.1994) by [S.I. 1994/2955](https://www.legislation.gov.uk/uksi/1994/2955), [art. 2](https://www.legislation.gov.uk/uksi/1994/2955/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1994/2955/schedule)
 
-[^key-f76fbb6839981930a35c6e4d58d98474]: Textual amendment: Words in s. 5(2) omitted (13.2.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(3)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/3/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
+[^c-f76fbb6839981930a35c6e4d58d98474]: Textual amendment: Words in s. 5(2) omitted (13.2.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(3)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/3/a), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
 
 [^c8617391]: Textual amendment: Words in s. 5(2)(a) substituted (25.9.2000) by [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23), [s. 74(1)(a)](https://www.legislation.gov.uk/ukpga/2000/23/section/74/1/a) (with [s. 82(3)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/3)); [S.I. 2000/2543](https://www.legislation.gov.uk/uksi/2000/2543), [art. 2](https://www.legislation.gov.uk/uksi/2000/2543/article/2)
 
@@ -567,11 +567,11 @@ Section 11(2).
 
 [^c8617421]: Textual amendment: S. 5(3)(3A)(3B) substituted for s. 5(3) (14.10.1996) by [1996 c. 35](https://www.legislation.gov.uk/ukpga/1996/35), [s. 2](https://www.legislation.gov.uk/ukpga/1996/35/section/2); [S.I. 1996/2454](https://www.legislation.gov.uk/uksi/1996/2454), [art. 2](https://www.legislation.gov.uk/uksi/1996/2454/article/2)
 
-[^key-87db3607fae5825b92a847f30c285299]: Textual amendment: S. 5(3) omitted (13.2.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(3)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/3/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
+[^c-87db3607fae5825b92a847f30c285299]: Textual amendment: S. 5(3) omitted (13.2.2017) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(3)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/3/b), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
 
 [^c8617431]: Marginal citation: [1989 c. 5](https://www.legislation.gov.uk/ukpga/1989/5).
 
-[^key-27b94987244436c9eb4ba8ecc2588d4b]: Textual amendment: Words in s. 5(3A) inserted (13.2.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(3)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/3/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
+[^c-27b94987244436c9eb4ba8ecc2588d4b]: Textual amendment: Words in s. 5(3A) inserted (13.2.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 251(3)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/251/3/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/r)
 
 [^c8617631]: Commencement: S. 6 wholly in force at 15.12.1994; S. 6 not in force at Royal Assent, see s. 12(2); s. 6 in force at 2.11.1994 for certain purposes and wholly in force at 15.12.1994 by [S.I. 1994/2734](https://www.legislation.gov.uk/uksi/1994/2734), [art. 2](https://www.legislation.gov.uk/uksi/1994/2734/article/2)
 
@@ -583,13 +583,13 @@ Section 11(2).
 
 [^c8617671]: Textual amendment: S. 6(1)(c) and word immediately before it inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 14(1)(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/14/1/2/a/ii)
 
-[^key-dfaa54fa9dee3cf16f637d1f6119b733]: Textual amendment: S. 6(1)(d) and word inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/2), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-dfaa54fa9dee3cf16f637d1f6119b733]: Textual amendment: S. 6(1)(d) and word inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/2), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-4025b5d5f4195c7d19bdf31838e947b4]: Textual amendment: S. 6(1A)(1B) inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(3)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/3), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-4025b5d5f4195c7d19bdf31838e947b4]: Textual amendment: S. 6(1A)(1B) inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(3)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/3), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
 [^c8617681]: Textual amendment: Words in s. 6(2) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 14(1)(2)(b)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/14/1/2/b)
 
-[^key-acb7ba3d9761d74997fd49927238085c]: Textual amendment: Word in s. 6(2)(b) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/4), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-acb7ba3d9761d74997fd49927238085c]: Textual amendment: Word in s. 6(2)(b) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/4), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
 [^c8617691]: Modification: S. 6: certain functions transferred (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1)
 
@@ -605,17 +605,17 @@ Section 11(2).
 
 [^c8617811]: Textual amendment: Words in s. 7(5)(b) repealed (25.9.2000) by [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23), [ss. 74(3)](https://www.legislation.gov.uk/ukpga/2000/23/section/74/3), [82(2)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2000/23/schedule/5) (with [s. 82(3)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/3)); [S.I. 2000/2543](https://www.legislation.gov.uk/uksi/2000/2543), [art. 2](https://www.legislation.gov.uk/uksi/2000/2543/article/2)
 
-[^key-580530cce77f7477729893946e06f006]: Textual amendment: Word in [s. 7(6)(b)](https://www.legislation.gov.uk/ukpga/1994/13/section/7/6/b) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/5), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-580530cce77f7477729893946e06f006]: Textual amendment: Word in [s. 7(6)(b)](https://www.legislation.gov.uk/ukpga/1994/13/section/7/6/b) substituted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/5), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
 [^c8617821]: Textual amendment: S. 7(9) inserted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 116(2)](https://www.legislation.gov.uk/ukpga/2001/24/section/116/2), [127(2)(h)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/h)
 
-[^key-993112f5cbffe3ab5151ec719df32c92]: Textual amendment: [S. 7(10)-(14)](https://www.legislation.gov.uk/ukpga/1994/13/section/7/10) inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/6), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-993112f5cbffe3ab5151ec719df32c92]: Textual amendment: [S. 7(10)-(14)](https://www.legislation.gov.uk/ukpga/1994/13/section/7/10) inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 31(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/31/6), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
 [^c8617921]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1994/13/section/8) repealed (2.10.2000) by [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23), [ss. 59(8)](https://www.legislation.gov.uk/ukpga/2000/23/section/59/8), [82(2)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2000/23/schedule/5) (with [s. 82(3)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/3)); [S.I. 2000/2543](https://www.legislation.gov.uk/uksi/2000/2543), [art. 3](https://www.legislation.gov.uk/uksi/2000/2543/article/3)
 
 [^c8617941]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1994/13/section/9) repealed (2.10.2000) by [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23), [ss. 70(2)(b)](https://www.legislation.gov.uk/ukpga/2000/23/section/70/2/b), [82(2)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2000/23/schedule/5) (with [s. 82(3)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/3)); [S.I. 2000/2543](https://www.legislation.gov.uk/uksi/2000/2543), [art. 3](https://www.legislation.gov.uk/uksi/2000/2543/article/3) (with transitional provisions in [art. 6](https://www.legislation.gov.uk/uksi/2000/2543/article/6))
 
-[^key-1b23210886d2c4a5faa5845ef2cce923]: Textual amendment: S. 10 repealed (25.6.2013) by [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/20/1), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/1/a); [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-1b23210886d2c4a5faa5845ef2cce923]: Textual amendment: S. 10 repealed (25.6.2013) by [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/20/1), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/1/a); [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
 [^c8618261]: Commencement: S. 11 wholly in force at 15.12.1994; S. 11 not in force at Royal Assent, see s. 12(2); s. 11 in force at 2.11.1994 for certain purposes and wholly in force at 15.12.1994 by [S.I. 1994/2734](https://www.legislation.gov.uk/uksi/1994/2734), [art. 2](https://www.legislation.gov.uk/uksi/1994/2734/article/2)
 
@@ -625,17 +625,17 @@ Section 11(2).
 
 [^c8618291]: Textual amendment: S. 11(1)(b) repealed (2.10.2000) by [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23), [s. 82(2)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2000/23/schedule/5) (with [s. 82(3)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/3)); [S.I. 2000/2543](https://www.legislation.gov.uk/uksi/2000/2543), [art. 3](https://www.legislation.gov.uk/uksi/2000/2543/article/3)
 
-[^key-1148ae4ab4e34084c13031c8d3b2d8cd]: Textual amendment: S. 11(1)(c) repealed (25.6.2013) by [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/20/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/1/b); [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-1148ae4ab4e34084c13031c8d3b2d8cd]: Textual amendment: S. 11(1)(c) repealed (25.6.2013) by [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/20/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/1/b); [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
 [^c8618311]: Textual amendment: S. 11(d) substituted (25.9.2000) by [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23), [s. 74(4)](https://www.legislation.gov.uk/ukpga/2000/23/section/74/4) (with [s. 82(3)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/3)); [S.I. 2000/2543](https://www.legislation.gov.uk/uksi/2000/2543), [art. 2](https://www.legislation.gov.uk/uksi/2000/2543/article/2)
 
-[^key-aff9f6b8eb6f918764d0a011b67509f0]: Textual amendment: Words in s. 11(1)(e) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/14)
+[^c-aff9f6b8eb6f918764d0a011b67509f0]: Textual amendment: Words in s. 11(1)(e) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/14)
 
 [^c8618331]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
 [^c8618341]: Textual amendment: S. 11(1A) inserted (25.9.2000) by [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23), [s. 82(1)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2000/23/schedule/4/paragraph/6) (with [s. 82(3)](https://www.legislation.gov.uk/ukpga/2000/23/section/82/3)); [S.I. 2000/2543](https://www.legislation.gov.uk/uksi/2000/2543), [art. 2](https://www.legislation.gov.uk/uksi/2000/2543/article/2)
 
-[^key-6e19e8cccb2e4883ffe211095ff62ea3]: Textual amendment: Words in s. 11(1A) substituted (27.12.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 38](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/38) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2018/940/regulation/5/d)
+[^c-6e19e8cccb2e4883ffe211095ff62ea3]: Textual amendment: Words in s. 11(1A) substituted (27.12.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 38](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/38) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2018/940/regulation/5/d)
 
 [^c8618361]: Marginal citation: [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6).
 
@@ -701,7 +701,7 @@ Section 11(2).
 
 [^c8618711]: Marginal citation: [1975 c. 25](https://www.legislation.gov.uk/ukpga/1975/25).
 
-[^key-231fb387b53736b94d5380df1d7735bf]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/13/schedule/3) repealed (25.6.2013) by [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/20/1), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/1/c); [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-231fb387b53736b94d5380df1d7735bf]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/13/schedule/3) repealed (25.6.2013) by [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/20/1), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/1/c); [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
 [^c8618761]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1994/13/schedule/4/paragraph/1) wholly in force at 15.12.1994; [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1994/13/schedule/4/paragraph/1) not in force at Royal Assent, see [s. 12(2)](https://www.legislation.gov.uk/ukpga/1994/13/section/12/2); [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1994/13/schedule/4/paragraph/1) in force at 2.11.1994 for certain purposes and wholly in force at 15.12.1994 by [S.I. 1994/2734](https://www.legislation.gov.uk/uksi/1994/2734), [art. 2](https://www.legislation.gov.uk/uksi/1994/2734/article/2)
 

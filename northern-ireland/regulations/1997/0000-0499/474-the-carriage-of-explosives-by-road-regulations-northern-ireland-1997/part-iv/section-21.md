@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Route of carriage and parking[^key-7df068289eb4d27b643aa2dac84ebd97]
+## 21. Route of carriage and parking[^c-7df068289eb4d27b643aa2dac84ebd97]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7df068289eb4d27b643aa2dac84ebd97]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/1997/474/regulation/21) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-7df068289eb4d27b643aa2dac84ebd97]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/1997/474/regulation/21) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

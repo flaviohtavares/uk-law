@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Paragraph 36 (fees)[^key-93ab18cef6dd4f27a384e00350f2234c]
+## 119. Paragraph 36 (fees)[^c-93ab18cef6dd4f27a384e00350f2234c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In paragraph 36 [^c23658951]—
 
 ## Annotations
 
-[^key-93ab18cef6dd4f27a384e00350f2234c]: Commencement: Reg. 119 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-93ab18cef6dd4f27a384e00350f2234c]: Commencement: Reg. 119 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658951]: Marginal citation: Sub-paragraph (1) was amended by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504), 2017/1064 and 2018/1184. Sub-paragraph (2)(b) was amended by [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115).

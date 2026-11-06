@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Recovery of tax and interest[^key-d6e8a6c3e0b9801676121dd54c8ce822]
+## 40. Recovery of tax and interest[^c-d6e8a6c3e0b9801676121dd54c8ce822]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 84 (recovery of tax and interest)—
 
 ## Annotations
 
-[^key-d6e8a6c3e0b9801676121dd54c8ce822]: Commencement: Reg. 40 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-d6e8a6c3e0b9801676121dd54c8ce822]: Commencement: Reg. 40 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

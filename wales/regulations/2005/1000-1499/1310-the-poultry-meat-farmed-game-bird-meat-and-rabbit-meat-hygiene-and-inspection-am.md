@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) (Amendment) (Wales) Regulations 2005 (revoked)[^key-98f5c7a9230c10894b09001720e3e4b7]
+The Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) (Amendment) (Wales) Regulations 2005 (revoked)[^c-98f5c7a9230c10894b09001720e3e4b7]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 20 May 2005
 
-[^key-98f5c7a9230c10894b09001720e3e4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98f5c7a9230c10894b09001720e3e4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-98f5c7a9230c10894b09001720e3e4b7]
+## 1. Title, commencement and application[^c-98f5c7a9230c10894b09001720e3e4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995[^key-98f5c7a9230c10894b09001720e3e4b7]
+## 2. Amendment to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995[^c-98f5c7a9230c10894b09001720e3e4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendment[^key-98f5c7a9230c10894b09001720e3e4b7]
+## 3. Consequential amendment[^c-98f5c7a9230c10894b09001720e3e4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-98f5c7a9230c10894b09001720e3e4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98f5c7a9230c10894b09001720e3e4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-98f5c7a9230c10894b09001720e3e4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98f5c7a9230c10894b09001720e3e4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98f5c7a9230c10894b09001720e3e4b7]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-98f5c7a9230c10894b09001720e3e4b7]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

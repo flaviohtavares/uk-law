@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Information for research about online safety matters[^key-0fc52fc8fa1d20f96fc461300ec626b1][^key-222fc9a984603a5d0751ab9fd81ddbc9]
+## 125. Information for research about online safety matters[^c-0fc52fc8fa1d20f96fc461300ec626b1][^c-222fc9a984603a5d0751ab9fd81ddbc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,6 +99,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0fc52fc8fa1d20f96fc461300ec626b1]: Commencement: S. 125 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-0fc52fc8fa1d20f96fc461300ec626b1]: Commencement: S. 125 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-222fc9a984603a5d0751ab9fd81ddbc9]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2025/18/section/125) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/s)
+[^c-222fc9a984603a5d0751ab9fd81ddbc9]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2025/18/section/125) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/s)

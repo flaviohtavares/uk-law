@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Extension of section 92 to filters[^key-1562b9f85507bde659b53d5b7d068f88]
+## 93. Extension of section 92 to filters[^c-1562b9f85507bde659b53d5b7d068f88]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1562b9f85507bde659b53d5b7d068f88]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2026/18/section/93) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-1562b9f85507bde659b53d5b7d068f88]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2026/18/section/93) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Enforcement and compliance[^key-3ae08dde0f5c60dea8fae285cb33072b]
+## 55. Enforcement and compliance[^c-3ae08dde0f5c60dea8fae285cb33072b]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ae08dde0f5c60dea8fae285cb33072b]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-3ae08dde0f5c60dea8fae285cb33072b]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

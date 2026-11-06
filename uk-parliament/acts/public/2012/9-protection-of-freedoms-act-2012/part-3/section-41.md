@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Rewriting powers of entry[^key-44abdae7ffa12ba2208e314018dd1214]
+## 41. Rewriting powers of entry[^c-44abdae7ffa12ba2208e314018dd1214]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ unless, on and after the changes made by the order, the safeguards in relation t
 
 ## Annotations
 
-[^key-44abdae7ffa12ba2208e314018dd1214]: Commencement: S. 41 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/k)
+[^c-44abdae7ffa12ba2208e314018dd1214]: Commencement: S. 41 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/k)

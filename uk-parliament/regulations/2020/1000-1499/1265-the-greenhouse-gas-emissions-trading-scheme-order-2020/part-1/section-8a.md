@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Meaning of registry administrator[^key-92bf2cc88c1af0f86b94458320496ffe]
+## 8A. Meaning of registry administrator[^c-92bf2cc88c1af0f86b94458320496ffe]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92bf2cc88c1af0f86b94458320496ffe]: Textual amendment: Art. 8A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [7](https://www.legislation.gov.uk/uksi/2020/1557/article/7)
+[^c-92bf2cc88c1af0f86b94458320496ffe]: Textual amendment: Art. 8A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [7](https://www.legislation.gov.uk/uksi/2020/1557/article/7)

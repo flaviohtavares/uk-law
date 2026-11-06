@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Defence to charge of failing to return donation from impermissible donor[^key-49fc3ac509bd1e0bebd33382c4e9339e]
+## 12. Defence to charge of failing to return donation from impermissible donor[^c-49fc3ac509bd1e0bebd33382c4e9339e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In section 56 of the 2000 Act (acceptance or return of donations: general), afte
 
 ## Annotations
 
-[^key-49fc3ac509bd1e0bebd33382c4e9339e]: Commencement: S. 12 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/a)
+[^c-49fc3ac509bd1e0bebd33382c4e9339e]: Commencement: S. 12 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/a)

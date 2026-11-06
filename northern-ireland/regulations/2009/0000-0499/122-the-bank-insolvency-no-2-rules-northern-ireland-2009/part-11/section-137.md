@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137. General qualification on powers[^key-0437dfd09aee7ebc930751c38e214320]
+## 137. General qualification on powers[^c-0437dfd09aee7ebc930751c38e214320]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In exercising any power conferred on the bank liquidator by this Part before a f
 
 ## Annotations
 
-[^key-0437dfd09aee7ebc930751c38e214320]: Commencement: Rule 137 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-0437dfd09aee7ebc930751c38e214320]: Commencement: Rule 137 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

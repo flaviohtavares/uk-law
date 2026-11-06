@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Miscellaneous[^key-2d52f5a706e0f4288c52ecd0fa1e8b14]
+## 73. Miscellaneous[^c-2d52f5a706e0f4288c52ecd0fa1e8b14]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d52f5a706e0f4288c52ecd0fa1e8b14]: Commencement: S. 73 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2d52f5a706e0f4288c52ecd0fa1e8b14]: Commencement: S. 73 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

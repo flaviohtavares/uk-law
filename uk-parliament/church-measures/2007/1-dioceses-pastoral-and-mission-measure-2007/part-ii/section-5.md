@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 5. Application for reorganisation scheme[^key-a17b402e11b8bd64ddd079e6fcbbb7bc]
+## 5. Application for reorganisation scheme[^c-a17b402e11b8bd64ddd079e6fcbbb7bc]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a17b402e11b8bd64ddd079e6fcbbb7bc]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2007/1/section/5) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-a17b402e11b8bd64ddd079e6fcbbb7bc]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2007/1/section/5) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

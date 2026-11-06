@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Application to armed forces[^key-5d7939234b89fa4865ad7f6adda474a8]
+## 84. Application to armed forces[^c-5d7939234b89fa4865ad7f6adda474a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d7939234b89fa4865ad7f6adda474a8]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2009/25/section/84) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/5)
+[^c-5d7939234b89fa4865ad7f6adda474a8]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2009/25/section/84) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/5)

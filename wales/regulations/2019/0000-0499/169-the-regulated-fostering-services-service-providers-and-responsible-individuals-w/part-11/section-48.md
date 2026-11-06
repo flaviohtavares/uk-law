@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Supporting children to manage their money[^key-4987ed04e31ca84093719cb8f0e76808]
+## 48. Supporting children to manage their money[^c-4987ed04e31ca84093719cb8f0e76808]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4987ed04e31ca84093719cb8f0e76808]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2019/169/regulation/48) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-4987ed04e31ca84093719cb8f0e76808]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2019/169/regulation/48) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

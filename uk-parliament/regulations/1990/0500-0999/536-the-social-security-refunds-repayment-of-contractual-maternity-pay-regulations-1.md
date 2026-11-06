@@ -78,9 +78,9 @@ the Secretary of State shall refund the whole of any primary or secondary Class 
 
 [^M_C_76352b39-c0cf-4981-e77d-17fe9b321015]
 
-Where there has been paid an amount by way of any of the contributory benefits (as described in section 12(1) of the Act) which would not have been paid had any of the contributions (in respect of which an application for their refund is duly made in accordance with regulation 2 above) not been paid in the first instance, the Secretary of State shall refund that part of the contributions remaining after the deduction of that amount[^key-6671b2d3053132ebd6d8f5ae272eb6d3] paid by way of such benefits.
+Where there has been paid an amount by way of any of the contributory benefits (as described in section 12(1) of the Act) which would not have been paid had any of the contributions (in respect of which an application for their refund is duly made in accordance with regulation 2 above) not been paid in the first instance, the Secretary of State shall refund that part of the contributions remaining after the deduction of that amount[^c-6671b2d3053132ebd6d8f5ae272eb6d3] paid by way of such benefits.
 
-## 4. Consequential amendment of Schedule 1 to the Contributions Regulations[^key-f49e0067153f561a6f8b2426f3568eba]
+## 4. Consequential amendment of Schedule 1 to the Contributions Regulations[^c-f49e0067153f561a6f8b2426f3568eba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -112,6 +112,6 @@ Regulation 4 effects consequential amendments to the Social Security (Contributi
 
 [^M_C_76352b39-c0cf-4981-e77d-17fe9b321015]: Modification: Reg. 3: transfer of functions (1.4.1999) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/1/2), [28(3)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/2/schedule/2); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 
-[^key-6671b2d3053132ebd6d8f5ae272eb6d3]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1990/536/regulation/3) substituted (5.12.1990) by [The Social Security (Miscellaneous Provisions)Amendment Regulations 1990 (S.I. 1990/2208)](https://www.legislation.gov.uk/uksi/1990/2208), [regs. 1](https://www.legislation.gov.uk/uksi/1990/2208/regulation/1), [19](https://www.legislation.gov.uk/uksi/1990/2208/regulation/19)
+[^c-6671b2d3053132ebd6d8f5ae272eb6d3]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1990/536/regulation/3) substituted (5.12.1990) by [The Social Security (Miscellaneous Provisions)Amendment Regulations 1990 (S.I. 1990/2208)](https://www.legislation.gov.uk/uksi/1990/2208), [regs. 1](https://www.legislation.gov.uk/uksi/1990/2208/regulation/1), [19](https://www.legislation.gov.uk/uksi/1990/2208/regulation/19)
 
-[^key-f49e0067153f561a6f8b2426f3568eba]: Annotation text not found in the source document.
+[^c-f49e0067153f561a6f8b2426f3568eba]: Annotation text not found in the source document.

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Meat (Enhanced Enforcement Powers) (England) Regulations 2000 (revoked)[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]
+The Meat (Enhanced Enforcement Powers) (England) Regulations 2000 (revoked)[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 1st March 2000
 
-[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]
+## 1. Title, extent and commencement[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]
+## 2. Amendments to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]
+## 3. Amendments to the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations 1995[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Meat Products (Hygiene) Regulations 1994[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]
+## 4. Amendments to the Meat Products (Hygiene) Regulations 1994[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]
+## 5. Amendments to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Meat Hygiene Appeals Tribunal (Procedure) Regulations 1992[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]
+## 6. Amendments to the Meat Hygiene Appeals Tribunal (Procedure) Regulations 1992[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to the Products of Animal Origin (Import and Export) Regulations 1996[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]
+## 7. Amendments to the Products of Animal Origin (Import and Export) Regulations 1996[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cf8ab0a9f8f1b1a33b4caa4bef76460]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/225) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-3cf8ab0a9f8f1b1a33b4caa4bef76460]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/225) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

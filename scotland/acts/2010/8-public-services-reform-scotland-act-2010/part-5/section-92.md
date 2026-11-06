@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Default powers of Scottish Ministers[^key-8cacb28d57ca7e1962c5307220bb6b11][^key-7ba804313b8fd8d058e0cee17e260e05]
+## 92. Default powers of Scottish Ministers[^c-8cacb28d57ca7e1962c5307220bb6b11][^c-7ba804313b8fd8d058e0cee17e260e05]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ they may take the action mentioned in subsection (2) in respect of the matter.
 
 ## Annotations
 
-[^key-8cacb28d57ca7e1962c5307220bb6b11]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2010/8/section/92) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-8cacb28d57ca7e1962c5307220bb6b11]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2010/8/section/92) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-7ba804313b8fd8d058e0cee17e260e05]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2010/8/section/92) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-7ba804313b8fd8d058e0cee17e260e05]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2010/8/section/92) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

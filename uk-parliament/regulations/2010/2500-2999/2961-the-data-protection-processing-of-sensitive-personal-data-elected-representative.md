@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon her by section 160(2)(b) of the Government of Wales Act 2006[^f00001], makes the following Order.
 
-## 1. Citation and commencement[^key-c37bd59745cc27c5974600531a029db5]
+## 1. Citation and commencement[^c-c37bd59745cc27c5974600531a029db5]
 
 This Order may be cited as the Data Protection (Processing of Sensitive Personal Data) (Elected Representatives) (Amendment) Order 2010 and comes into force on 17th January 2011.
 
-## 2. Amendments to the Data Protection (Processing of Sensitive Personal Data) (Elected Representatives) Order 2002[^key-60aa48b83b257f5e9600b5c49e539497]
+## 2. Amendments to the Data Protection (Processing of Sensitive Personal Data) (Elected Representatives) Order 2002[^c-60aa48b83b257f5e9600b5c49e539497]
 
 Paragraph 2 of the Schedule to the Data Protection (Processing of Sensitive Personal Data) (Elected Representatives) Order 2002[^f00002] is amended as follows:-
 
@@ -79,8 +79,8 @@ The 2002 Order referred to an Assembly member ceasing to be a member at the end 
 
 [^f00001]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-c37bd59745cc27c5974600531a029db5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2961/article/1) in force at 17.1.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2961/article/1)
+[^c-c37bd59745cc27c5974600531a029db5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2961/article/1) in force at 17.1.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2961/article/1)
 
-[^key-60aa48b83b257f5e9600b5c49e539497]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2961/article/2) in force at 17.1.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2961/article/1)
+[^c-60aa48b83b257f5e9600b5c49e539497]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2961/article/2) in force at 17.1.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2961/article/1)
 
 [^f00002]: Footnote: [S.I. 2002/2905](https://www.legislation.gov.uk/uksi/2002/2905).

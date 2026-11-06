@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Subsoil or new rights only to be acquired under or in certain lands[^key-dbee55346df308bf4ab0d38dda799dfb]
+## 28. Subsoil or new rights only to be acquired under or in certain lands[^c-dbee55346df308bf4ab0d38dda799dfb]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbee55346df308bf4ab0d38dda799dfb]: Commencement: Art. 28 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-dbee55346df308bf4ab0d38dda799dfb]: Commencement: Art. 28 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

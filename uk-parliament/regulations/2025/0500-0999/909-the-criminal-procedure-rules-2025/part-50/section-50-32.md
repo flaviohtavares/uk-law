@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.32. Application for consent to deal with another offence or for consent to further extradition[^key-c046c01fbc601737afc5b6326a188e2c]
+## 50.32. Application for consent to deal with another offence or for consent to further extradition[^c-c046c01fbc601737afc5b6326a188e2c]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c046c01fbc601737afc5b6326a188e2c]: Commencement: [Rule 50.32](https://www.legislation.gov.uk/uksi/2025/909/rule/50.32) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c046c01fbc601737afc5b6326a188e2c]: Commencement: [Rule 50.32](https://www.legislation.gov.uk/uksi/2025/909/rule/50.32) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01375]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41).
 

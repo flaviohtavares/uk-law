@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Entitlement to ill-health pension: active member with permanent serious ill-heath[^key-9046d8b014e571226f6cdd4b7e7a6f18]
+## 51. Entitlement to ill-health pension: active member with permanent serious ill-heath[^c-9046d8b014e571226f6cdd4b7e7a6f18]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,12 +30,12 @@ summary: ''
 
 (2) For the purpose of these Regulations, a member’s breakdown in health is “permanent” if the scheme manager is of the opinion that the breakdown will continue until the member reaches normal pension age.
 
-(3) A member entitled to immediate payment of an ill-health pension is entitled to an added pension of any description if the pensioner member’s account[^key-83f48c939b5b9866471376e7a3e9ef7e] specifies an accrued added pension of that description.
+(3) A member entitled to immediate payment of an ill-health pension is entitled to an added pension of any description if the pensioner member’s account[^c-83f48c939b5b9866471376e7a3e9ef7e] specifies an accrued added pension of that description.
 
 (4) The annual rate of an ill-health pension and any added pension payable under this regulation is calculated in accordance with regulation 54 (annual rate of ill-health pension: active members with permanent serious ill-health).
 
 ## Annotations
 
-[^key-9046d8b014e571226f6cdd4b7e7a6f18]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2014/2336/regulation/51) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-9046d8b014e571226f6cdd4b7e7a6f18]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2014/2336/regulation/51) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-83f48c939b5b9866471376e7a3e9ef7e]: Textual amendment: Words in [reg. 51(3)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/51/3) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/466/regulation/9)
+[^c-83f48c939b5b9866471376e7a3e9ef7e]: Textual amendment: Words in [reg. 51(3)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/51/3) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/466/regulation/9)

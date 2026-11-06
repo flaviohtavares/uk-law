@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 1. Dog theft[^key-ee74aa5afc62f06684c7cfbba700e6f3]
+### 1. Dog theft[^c-ee74aa5afc62f06684c7cfbba700e6f3]
 
 (1) A person (A) commits the offence of dog theft if they—
 
@@ -84,7 +84,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (i) causing or inducing the dog to remain with the person or anyone else, or
   - (ii) causing the dog to be kept.
 
-### 2. Theft of helper dogs[^key-29fd8af79dd1892dd239285527eb2ba2]
+### 2. Theft of helper dogs[^c-29fd8af79dd1892dd239285527eb2ba2]
 
 (1) An offence of dog theft is aggravated if a dog which is taken or kept is a helper dog.
 
@@ -115,7 +115,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 3. Report on operation of this Act[^key-753e109fd812470ddee7131a9dc5b2eb]
+### 3. Report on operation of this Act[^c-753e109fd812470ddee7131a9dc5b2eb]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of the reporting period—
 
@@ -149,7 +149,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Final provisions
 
-### 4. Ancillary provision[^key-15ea29fea390c08e388fa966165043a1]
+### 4. Ancillary provision[^c-15ea29fea390c08e388fa966165043a1]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
@@ -162,7 +162,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Any regulation which adds to, replaces or omits any part of the text of an Act is subject to the affirmative procedure.
 
-### 5. Commencement[^key-eaff39aeeac2e1d2db9ddcfffdbc7cde]
+### 5. Commencement[^c-eaff39aeeac2e1d2db9ddcfffdbc7cde]
 
 (1) This section and sections 4 and 6 come into force on the day after Royal Assent.
 
@@ -173,20 +173,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 6. Short title[^key-c17047b5374198efc7eb2f3b1d80202b]
+### 6. Short title[^c-c17047b5374198efc7eb2f3b1d80202b]
 
 The short title of this Act is the Dog Theft (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-ee74aa5afc62f06684c7cfbba700e6f3]: Commencement: S. 1 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/2/section/5/2)
+[^c-ee74aa5afc62f06684c7cfbba700e6f3]: Commencement: S. 1 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/2/section/5/2)
 
-[^key-29fd8af79dd1892dd239285527eb2ba2]: Commencement: S. 2 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/2/section/5/2)
+[^c-29fd8af79dd1892dd239285527eb2ba2]: Commencement: S. 2 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/2/section/5/2)
 
-[^key-753e109fd812470ddee7131a9dc5b2eb]: Commencement: S. 3 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/2/section/5/2)
+[^c-753e109fd812470ddee7131a9dc5b2eb]: Commencement: S. 3 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/2/section/5/2)
 
-[^key-15ea29fea390c08e388fa966165043a1]: Commencement: S. 4 in force at 11.2.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/2/section/5/1)
+[^c-15ea29fea390c08e388fa966165043a1]: Commencement: S. 4 in force at 11.2.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/2/section/5/1)
 
-[^key-eaff39aeeac2e1d2db9ddcfffdbc7cde]: Commencement: S. 5 in force at 11.2.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/2/section/5/1)
+[^c-eaff39aeeac2e1d2db9ddcfffdbc7cde]: Commencement: S. 5 in force at 11.2.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/2/section/5/1)
 
-[^key-c17047b5374198efc7eb2f3b1d80202b]: Commencement: S. 6 in force at 11.2.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/2/section/5/1)
+[^c-c17047b5374198efc7eb2f3b1d80202b]: Commencement: S. 6 in force at 11.2.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/2/section/5/1)

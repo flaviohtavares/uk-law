@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Joint buyers: enquiries and assessments[^key-c6622aadd2e9a69935692e6e7be3f03b]
+## 39. Joint buyers: enquiries and assessments[^c-c6622aadd2e9a69935692e6e7be3f03b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6622aadd2e9a69935692e6e7be3f03b]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2017/1/section/39) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c6622aadd2e9a69935692e6e7be3f03b]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2017/1/section/39) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

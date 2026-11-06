@@ -49,13 +49,13 @@ Coming into force
 
 We, the Fees Advisory Commission constituted in accordance with the provisions of section 4 of the Ecclesiastical Fees Measure 1986[^f00001], in exercise of the powers conferred by section 6 do hereby order as follows:
 
-## 1. Citation and commencment[^key-299dc33179bd6824be0a12bc14e4dda2]
+## 1. Citation and commencment[^c-299dc33179bd6824be0a12bc14e4dda2]
 
 (1) This Order may be cited as the Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2008.
 
 (2) This Order shall come into operation on the first day of January 2009.
 
-## 2. Establishment of fees[^key-cf5c32207969e161af81193bebb0e92a]
+## 2. Establishment of fees[^c-cf5c32207969e161af81193bebb0e92a]
 
 The fees appearing in the Tables of the Schedule to this Order are established and are substituted for the fees appearing in the Tables of the Schedule to the Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2007[^f00002]. The Tables of the Schedule to this Order contain particulars of the fees which are to be received, after the commencement of this Article—
 
@@ -63,11 +63,11 @@ The fees appearing in the Tables of the Schedule to this Order are established a
 
 (2) by diocesan boards of finance in respect of the matters specified in Part II of Table I of that Schedule.
 
-## 3. Revocation of 2007 Order[^key-ea4c8b3eec1bde7147a81eb7ed58e336]
+## 3. Revocation of 2007 Order[^c-ea4c8b3eec1bde7147a81eb7ed58e336]
 
 The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2007 is hereby revoked.
 
-## 4. Supplementary annual fee[^key-a9c1ff4c0b944c8eb6214ed03ef0cf85]
+## 4. Supplementary annual fee[^c-a9c1ff4c0b944c8eb6214ed03ef0cf85]
 
 (1) Subject to the provisions of this paragraph nothing in this Order shall preclude a diocesan board of finance from agreeing to pay an additional fee to a diocesan registrar by way of annual fee or retainer (hereinafter called a “supplementary annual fee”) which is in addition to the annual fee or fees prescribed by Order made under the Ecclesiastical Fees Measure 1986.
 
@@ -77,11 +77,11 @@ The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2007 is hereby
 
 (4) The body responsible for paying a supplementary annual fee shall be the diocesan board of finance.
 
-## 5. Travel, subsistence, accommodation and court hearings[^key-17fcff074e5d3d0d1559b3f3e0ba666c]
+## 5. Travel, subsistence, accommodation and court hearings[^c-17fcff074e5d3d0d1559b3f3e0ba666c]
 
 A fee specified in the Schedule to this Order (other than a fee specified in Part II of Table I of that Schedule) shall be increased by a sum for reasonable expenses of travel, subsistence, accommodation and the holding of court hearings.
 
-## 6. Value Added Tax[^key-c00a1dcda064d0f56ce0a696f6f4da3f]
+## 6. Value Added Tax[^c-c00a1dcda064d0f56ce0a696f6f4da3f]
 
 Where Value Added Tax is chargeable in respect of the provision of any service for which a fee is prescribed in this Order there shall be payable in addition to that fee the amount of the Value Added Tax.
 
@@ -119,7 +119,7 @@ Except where the contrary intention appears, this Table and Table II apply to th
 
 (3) Proceedings under section 4 of the Care of Cathedrals (Supplementary Provisions) Measure 1994[^f00003] (including appeals).
 
-#### PART I[^key-8f8837376fdbafaf30cfa22237e75c78]
+#### PART I[^c-8f8837376fdbafaf30cfa22237e75c78]
 
 <table>
 <thead>
@@ -149,7 +149,7 @@ Except where the contrary intention appears, this Table and Table II apply to th
 
 [^f00004][^f00005][^f00006][^f00007]
 
-#### PART II[^key-65486fffa83e22d2ebb378adbe77c435]
+#### PART II[^c-65486fffa83e22d2ebb378adbe77c435]
 
 On the lodging of a petition for a faculty in respect of any building or part of a building any curtilage of a building or any object or structure fixed to a building or part of a building or within its curtilage, which is subject to the faculty jurisdiction by virtue of section 3(2) of the Care of Places of Worship Measure 1999, a fee of £164 shall be payable to the Diocesan Board of Finance (within the meaning of the Diocesan Boards of Finance Measure 1925) of the diocese concerned (in this Order called “the Board”) in respect of work done in relation to the petition (before or after it is lodged) by the Diocesan Advisory Committee and any such work done by any archdeacon in the diocese.
 
@@ -159,7 +159,7 @@ Provided that—
 
 (5) No fee shall be payable under this part of this Table in respect of any faculty petition relating to a building, part of a building, curtilage, object or structure where the building concerned is one specified in section 1(2)(e) or section 3(5) of the Care of Places of Worship Measure 1999.
 
-### TABLE II — ADDITIONAL FEES PAYABLE IN CONNECTION WITH APPEALS[^key-e3e3293b2ac7bd0c2c6223fe6c8642d7]
+### TABLE II — ADDITIONAL FEES PAYABLE IN CONNECTION WITH APPEALS[^c-e3e3293b2ac7bd0c2c6223fe6c8642d7]
 
 <table>
 <thead>
@@ -183,7 +183,7 @@ Provided that—
 </tbody>
 </table>
 
-### TABLE III — FEES FOR PROCEEDINGS IN RESPECT OF ECCLESIASTICAL OFFENCES[^key-a0c1c36b79db8ae5e131af13ac6afb1d]
+### TABLE III — FEES FOR PROCEEDINGS IN RESPECT OF ECCLESIASTICAL OFFENCES[^c-a0c1c36b79db8ae5e131af13ac6afb1d]
 
 This Table applies to proceedings (including proceedings authorised to be taken and appeals) of the descriptions specified in sections 6(i)(a) or 10(i)(a) of the Ecclesiastical Jurisdiction Measure 1963.
 
@@ -205,7 +205,7 @@ This Table applies to proceedings (including proceedings authorised to be taken 
 </tbody>
 </table>
 
-### TABLE IV — FEES FOR PROCEEDINGS UNDER THE CLERGY DISCIPLINE MEASURE 2003[^key-ea07d5959d0844df1ff4250b7437fdc0][^f00008]
+### TABLE IV — FEES FOR PROCEEDINGS UNDER THE CLERGY DISCIPLINE MEASURE 2003[^c-ea07d5959d0844df1ff4250b7437fdc0][^f00008]
 
 This Table applies to proceedings (including appeals) instituted under section 10 of the Clergy Discipline Measure 2003.
 
@@ -226,7 +226,7 @@ This Table applies to proceedings (including appeals) instituted under section 1
 </tbody>
 </table>
 
-### TABLE V — FEES PAYABLE ON TAXATION OF COSTS[^key-7a9482959a1ccb28b3695962e8e8765a]
+### TABLE V — FEES PAYABLE ON TAXATION OF COSTS[^c-7a9482959a1ccb28b3695962e8e8765a]
 
 <table>
 <thead>
@@ -246,7 +246,7 @@ This Table applies to proceedings (including appeals) instituted under section 1
 </tbody>
 </table>
 
-### TABLE VI — FEES PAYABLE FOR PERMISSIONS UNDER THE OVERSEAS AND OTHER CLERGY (MINISTRY AND ORDINATION) MEASURE 1967 AND FOR ISSUE OF THE ARCHBISHOP’S LICENCE FOR SERVICE CHAPLAINS AND ANNUAL FEES PAYABLE TO SOME ECCLESIASTICAL JUDGES[^key-6ec21a1d3d93fed1dabd456a899cb3c7][^f00009]
+### TABLE VI — FEES PAYABLE FOR PERMISSIONS UNDER THE OVERSEAS AND OTHER CLERGY (MINISTRY AND ORDINATION) MEASURE 1967 AND FOR ISSUE OF THE ARCHBISHOP’S LICENCE FOR SERVICE CHAPLAINS AND ANNUAL FEES PAYABLE TO SOME ECCLESIASTICAL JUDGES[^c-6ec21a1d3d93fed1dabd456a899cb3c7][^f00009]
 
 <table>
 <thead>
@@ -280,11 +280,11 @@ except so far as the work is within the scope of the annual fee payable to the d
 
 Fees payable to the diocesan registrar to be calculated in accordance with the Solicitors’ (Non-Contentious Business) Remuneration Order 1994[^f00012] and to be payable by the person making the search or extract or requesting the certified copy.
 
-#### NOTE[^key-a605a1a48b57cf3533ef75d1a5ea54e1]
+#### NOTE[^c-a605a1a48b57cf3533ef75d1a5ea54e1]
 
 References to rules are to the Patronage (Benefices) Rules 1987.
 
-### TABLE VIII — FEES FOR ELECTIONS TO THE GENERAL SYNOD[^key-93723fd7160339a31c1046162bbf08e9]
+### TABLE VIII — FEES FOR ELECTIONS TO THE GENERAL SYNOD[^c-93723fd7160339a31c1046162bbf08e9]
 
 |  |  |
 | --- | --- |
@@ -306,23 +306,23 @@ The revised fees will come into force on 1st January 2009.
 
 [^f00001]: Footnote: [1986 No. 2](https://www.legislation.gov.uk/ukcm/1986/2); amended by the Care of Cathedrals and Ecclesiastical Jurisdiction Measure 1991 ([1991 No. 1](https://www.legislation.gov.uk/ukcm/1991/1)), Schedule 6, the Church of England (Miscellaneous Provisions) Measure 1995 ([1995 No. 2](https://www.legislation.gov.uk/ukcm/1995/2)), section 14, the Care of Places of Worship Measure 1999 ([1999 No. 2](https://www.legislation.gov.uk/ukcm/1999/2)), Schedule 2 and the Church of England (Miscellaneous Provisions) Measure 2000 ([2000 No. 1](https://www.legislation.gov.uk/ukcm/2000/1)), section 16.
 
-[^key-299dc33179bd6824be0a12bc14e4dda2]: Commencement: Art. 1 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-299dc33179bd6824be0a12bc14e4dda2]: Commencement: Art. 1 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
-[^key-cf5c32207969e161af81193bebb0e92a]: Commencement: Art. 2 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-cf5c32207969e161af81193bebb0e92a]: Commencement: Art. 2 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2007/2340](https://www.legislation.gov.uk/uksi/2007/2340).
 
-[^key-ea4c8b3eec1bde7147a81eb7ed58e336]: Commencement: Art. 3 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-ea4c8b3eec1bde7147a81eb7ed58e336]: Commencement: Art. 3 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
-[^key-a9c1ff4c0b944c8eb6214ed03ef0cf85]: Commencement: Art. 4 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-a9c1ff4c0b944c8eb6214ed03ef0cf85]: Commencement: Art. 4 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
-[^key-17fcff074e5d3d0d1559b3f3e0ba666c]: Commencement: Art. 5 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-17fcff074e5d3d0d1559b3f3e0ba666c]: Commencement: Art. 5 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
-[^key-c00a1dcda064d0f56ce0a696f6f4da3f]: Commencement: Art. 6 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-c00a1dcda064d0f56ce0a696f6f4da3f]: Commencement: Art. 6 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
 [^f00003]: Footnote: [1994 No. 2](https://www.legislation.gov.uk/ukcm/1994/2).
 
-[^key-8f8837376fdbafaf30cfa22237e75c78]: Commencement: Sch. Pt. 1 Ch. 1 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-8f8837376fdbafaf30cfa22237e75c78]: Commencement: Sch. Pt. 1 Ch. 1 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
 [^f00004]: Footnote: [1963 No. 1](https://www.legislation.gov.uk/ukcm/1963/1). Section 47 was amended by the Care of Churches and Ecclesiastical Jurisdiction Measure 1991, Schedule 4, paragraph 8.
 
@@ -332,19 +332,19 @@ The revised fees will come into force on 1st January 2009.
 
 [^f00007]: Footnote: [S.I. 2000/2048](https://www.legislation.gov.uk/uksi/2000/2048).
 
-[^key-65486fffa83e22d2ebb378adbe77c435]: Commencement: Sch. Pt. 1 Ch. 2 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-65486fffa83e22d2ebb378adbe77c435]: Commencement: Sch. Pt. 1 Ch. 2 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
-[^key-e3e3293b2ac7bd0c2c6223fe6c8642d7]: Commencement: Sch. Pt. 2 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-e3e3293b2ac7bd0c2c6223fe6c8642d7]: Commencement: Sch. Pt. 2 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
-[^key-a0c1c36b79db8ae5e131af13ac6afb1d]: Commencement: Sch. Pt. 3 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-a0c1c36b79db8ae5e131af13ac6afb1d]: Commencement: Sch. Pt. 3 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
-[^key-ea07d5959d0844df1ff4250b7437fdc0]: Commencement: Sch. Pt. 4 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-ea07d5959d0844df1ff4250b7437fdc0]: Commencement: Sch. Pt. 4 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
 [^f00008]: Footnote: [2003 No. 3](https://www.legislation.gov.uk/ukcm/2003/3).
 
-[^key-7a9482959a1ccb28b3695962e8e8765a]: Commencement: Sch. Pt. 5 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-7a9482959a1ccb28b3695962e8e8765a]: Commencement: Sch. Pt. 5 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
-[^key-6ec21a1d3d93fed1dabd456a899cb3c7]: Commencement: Sch. Pt. 6 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-6ec21a1d3d93fed1dabd456a899cb3c7]: Commencement: Sch. Pt. 6 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
 [^f00009]: Footnote: [1967 No. 3](https://www.legislation.gov.uk/ukcm/1967/3).
 
@@ -354,8 +354,8 @@ The revised fees will come into force on 1st January 2009.
 
 [^f00012]: Footnote: [S.I. 1994/2616](https://www.legislation.gov.uk/uksi/1994/2616).
 
-[^key-a605a1a48b57cf3533ef75d1a5ea54e1]: Commencement: Sch. Pt. 7 Ch. NOTE in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-a605a1a48b57cf3533ef75d1a5ea54e1]: Commencement: Sch. Pt. 7 Ch. NOTE in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
-[^key-93723fd7160339a31c1046162bbf08e9]: Commencement: Sch. Pt. 8 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
+[^c-93723fd7160339a31c1046162bbf08e9]: Commencement: Sch. Pt. 8 in force at 1.1.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1970/article/1/2)
 
 [^f00013]: Footnote: [1994 No. 2](https://www.legislation.gov.uk/ukcm/1994/2).

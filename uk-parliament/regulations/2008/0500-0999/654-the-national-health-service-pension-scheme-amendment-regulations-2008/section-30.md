@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Amendment of regulation H1[^key-e30e4b77a98519c36180bfc8a36bd15b]
+## 30. Amendment of regulation H1[^c-e30e4b77a98519c36180bfc8a36bd15b]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e30e4b77a98519c36180bfc8a36bd15b]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-e30e4b77a98519c36180bfc8a36bd15b]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00015]: Footnote: Sub-paragraph (c) was amended by [S.I.2005/3074](https://www.legislation.gov.uk/uksi/2005/3074).
 

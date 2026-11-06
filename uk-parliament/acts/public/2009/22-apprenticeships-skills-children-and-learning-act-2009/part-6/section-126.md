@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Removal of power to establish sixth form schools[^key-6fb4cc20868787a885316b1c9b3e33be]
+## 126. Removal of power to establish sixth form schools[^c-6fb4cc20868787a885316b1c9b3e33be]
 
 *Extent: E+W*
 
 (1) In section 16 of the Education Act 1996 (c. 56) (power to establish etc. primary and secondary schools) after subsection (3) insert—
 
-> (3A) A local authority[^key-539a148a152b679b0b2f5402f58a05e0] in England may not under subsection (1) establish a school which is principally concerned with the provision of full-time education suitable to the requirements of pupils who are over compulsory school age but under 19.
+> (3A) A local authority[^c-539a148a152b679b0b2f5402f58a05e0] in England may not under subsection (1) establish a school which is principally concerned with the provision of full-time education suitable to the requirements of pupils who are over compulsory school age but under 19.
 
 (2) The Education and Inspections Act 2006 (c. 40) is amended as follows.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fb4cc20868787a885316b1c9b3e33be]: Commencement: S. 126 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-6fb4cc20868787a885316b1c9b3e33be]: Commencement: S. 126 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

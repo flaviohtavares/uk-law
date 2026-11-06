@@ -27,7 +27,7 @@ summary: ''
 
 (2) Paragraph (1) does not apply so far as the pension or other benefit—
 
-- (a)[^key-6fde20767806c092fa67c18ca81ae893] is a guaranteed minimum pension, or
+- (a)[^c-6fde20767806c092fa67c18ca81ae893] is a guaranteed minimum pension, or
 - (b) arise out of a transfer payment.
 
 (3) If the Secretary of State proposes to exercise the power under paragraph (1), the Secretary of State must give the member a certificate specifying the amount of the loss to public funds and of the reduction in benefits.
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fde20767806c092fa67c18ca81ae893]: Textual amendment: [Reg. 2.J.6(2)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.6/2/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2016/245/regulation/35) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-6fde20767806c092fa67c18ca81ae893]: Textual amendment: [Reg. 2.J.6(2)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.6/2/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2016/245/regulation/35) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.14. Certificate of compliance[^key-c3af00bd4273abd647b247522ea04385]
+## 4.14. Certificate of compliance[^c-c3af00bd4273abd647b247522ea04385]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ A copy of the advertisement of the petition shall be filed in court with the cer
 
 ## Annotations
 
-[^key-c3af00bd4273abd647b247522ea04385]: Commencement: [Rule 4.14](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.14) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c3af00bd4273abd647b247522ea04385]: Commencement: [Rule 4.14](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.14) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00037]: Marginal citation: \[FORM 4.7\]

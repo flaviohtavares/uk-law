@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Employer’s payment following resolution to increase membership or award additional pension[^key-81f251b899fc37d6b3910d708b5d8503]
+## 40. Employer’s payment following resolution to increase membership or award additional pension[^c-81f251b899fc37d6b3910d708b5d8503]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81f251b899fc37d6b3910d708b5d8503]: Commencement: Reg. 40 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-81f251b899fc37d6b3910d708b5d8503]: Commencement: Reg. 40 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If the requirements of paragraph (2) are met, the financial promotion restriction does not apply to any non-real time communication which relates to a controlled activity falling within paragraph 1 of Schedule 1 except where that controlled activity relates to a structured deposit[^key-d594f9c9655581a6a60294707a1ac345].
+(1) If the requirements of paragraph (2) are met, the financial promotion restriction does not apply to any non-real time communication which relates to a controlled activity falling within paragraph 1 of Schedule 1 except where that controlled activity relates to a structured deposit[^c-d594f9c9655581a6a60294707a1ac345].
 
 (2) The requirements of this paragraph are that the communication is accompanied by an indication—
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) In this article—
 
-- [^key-d7d1835823504d6d890ff01282ba4a40]...
+- [^c-d7d1835823504d6d890ff01282ba4a40]...
 - “**liabilities**” includes provisions where such provisions have not been deducted from the value of the assets;
 - “**necessary capital information**” means—
   - (a) in relation to a deposit-taker which is a body corporate, either the amount of its paid up capital and reserves, described as such, or a statement that the amount of its paid up capital and reserves exceeds a particular amount (stating it);
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d594f9c9655581a6a60294707a1ac345]: Textual amendment: Words in art. 22(1) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 9(3)](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/9/3)
+[^c-d594f9c9655581a6a60294707a1ac345]: Textual amendment: Words in art. 22(1) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 9(3)](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/9/3)
 
-[^key-d7d1835823504d6d890ff01282ba4a40]: Textual amendment: Words in [art. 22(3)](https://www.legislation.gov.uk/uksi/2005/1529/article/22/3) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1411/article/4)
+[^c-d7d1835823504d6d890ff01282ba4a40]: Textual amendment: Words in [art. 22(3)](https://www.legislation.gov.uk/uksi/2005/1529/article/22/3) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1411/article/4)

@@ -31,42 +31,42 @@ Sexual Offences Act 1985 (repealed)
 
 1985 c. 44
 
-[^key-2e4d032bc0226728917a799243c98515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e4d032bc0226728917a799243c98515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Soliciting for the purpose of prostitution[^key-2e4d032bc0226728917a799243c98515]
+## Soliciting for the purpose of prostitution[^c-2e4d032bc0226728917a799243c98515]
 
-### 1. Kerb-crawling.[^key-2e4d032bc0226728917a799243c98515][^key-2e4d032bc0226728917a799243c98515]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Persistent soliciting .[^key-2e4d032bc0226728917a799243c98515][^key-2e4d032bc0226728917a799243c98515]
+### 1. Kerb-crawling.[^c-2e4d032bc0226728917a799243c98515][^c-2e4d032bc0226728917a799243c98515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Increase of penalties[^key-2e4d032bc0226728917a799243c98515]
-
-### 3. Penalties for certain sexual offences.[^key-2e4d032bc0226728917a799243c98515][^key-2e4d032bc0226728917a799243c98515]
+### 2. Persistent soliciting .[^c-2e4d032bc0226728917a799243c98515][^c-2e4d032bc0226728917a799243c98515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Supplementary[^key-2e4d032bc0226728917a799243c98515]
+## Increase of penalties[^c-2e4d032bc0226728917a799243c98515]
 
-### 4. Interpretation.[^key-2e4d032bc0226728917a799243c98515][^key-2e4d032bc0226728917a799243c98515]
+### 3. Penalties for certain sexual offences.[^c-2e4d032bc0226728917a799243c98515][^c-2e4d032bc0226728917a799243c98515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Short title, commencement et ceteralaetc.[^key-2e4d032bc0226728917a799243c98515][^key-2e4d032bc0226728917a799243c98515]
+## Supplementary[^c-2e4d032bc0226728917a799243c98515]
+
+### 4. Interpretation.[^c-2e4d032bc0226728917a799243c98515][^c-2e4d032bc0226728917a799243c98515]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Short title, commencement et ceteralaetc.[^c-2e4d032bc0226728917a799243c98515][^c-2e4d032bc0226728917a799243c98515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Repeals[^key-2e4d032bc0226728917a799243c98515]
+## SCHEDULE — Repeals[^c-2e4d032bc0226728917a799243c98515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e4d032bc0226728917a799243c98515]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/44) repealed (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/2); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/x)
+[^c-2e4d032bc0226728917a799243c98515]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/44) repealed (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/2); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/x)

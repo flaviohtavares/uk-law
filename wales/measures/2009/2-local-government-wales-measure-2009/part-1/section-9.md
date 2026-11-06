@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Powers to collaborate etc[^key-f3f26671e70bbe2732a5b7db7f10cfee]
+## 9. Powers to collaborate etc[^c-f3f26671e70bbe2732a5b7db7f10cfee]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3f26671e70bbe2732a5b7db7f10cfee]: Commencement: S. 9 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)
+[^c-f3f26671e70bbe2732a5b7db7f10cfee]: Commencement: S. 9 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)

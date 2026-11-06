@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Protection from personal liability[^key-b6344f4bab9415895a7bbe8b69db7a1c]
+## 246. Protection from personal liability[^c-b6344f4bab9415895a7bbe8b69db7a1c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6344f4bab9415895a7bbe8b69db7a1c]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2012/7/section/246) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-b6344f4bab9415895a7bbe8b69db7a1c]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2012/7/section/246) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

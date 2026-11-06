@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267A. Application of Chapter 6 to pre-4 April 2005 cases[^key-3c57c2c7140b24f751e2ea79b57bbdf6][^key-afbd7eb5ad23987c66adcc9992eafe55]
+## 267A. Application of Chapter 6 to pre-4 April 2005 cases[^c-3c57c2c7140b24f751e2ea79b57bbdf6][^c-afbd7eb5ad23987c66adcc9992eafe55]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 20A (which modifies certain provisions of this Chapter as they apply to
 
 ## Annotations
 
-[^key-3c57c2c7140b24f751e2ea79b57bbdf6]: Modification: S. 267A applied by Crime (Sentences) Act 1997 (c. 43), Sch. 1 paras. 8(2)(a)(4)(a), 9(2)(a)(4)(a) (as amended (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/7), 8; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n))
+[^c-3c57c2c7140b24f751e2ea79b57bbdf6]: Modification: S. 267A applied by Crime (Sentences) Act 1997 (c. 43), Sch. 1 paras. 8(2)(a)(4)(a), 9(2)(a)(4)(a) (as amended (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/7), 8; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n))
 
-[^key-afbd7eb5ad23987c66adcc9992eafe55]: Textual amendment: S. 267A inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/2); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
+[^c-afbd7eb5ad23987c66adcc9992eafe55]: Textual amendment: S. 267A inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/2); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)

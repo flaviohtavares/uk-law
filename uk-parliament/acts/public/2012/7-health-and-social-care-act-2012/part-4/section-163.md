@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-42576818a8a5f352baad6510ae222281] At the end of section 40 of the National Health Service Act 2006 (power of Secretary of State to give financial assistance to NHS foundation trusts), insert—
+(1)[^c-42576818a8a5f352baad6510ae222281] At the end of section 40 of the National Health Service Act 2006 (power of Secretary of State to give financial assistance to NHS foundation trusts), insert—
 
 > (5) As soon as is practicable after the end of each financial year, the Secretary of State must prepare a report on the exercise of the power under subsection (1).
 >
@@ -43,13 +43,13 @@ summary: ''
 >
 > (9) The Secretary of State must publish a report under subsection (5).
 
-(2)[^key-24cca91f3f0abf9c2f738272359e17e6] Omit section 41 of that Act (prudential borrowing code).
+(2)[^c-24cca91f3f0abf9c2f738272359e17e6] Omit section 41 of that Act (prudential borrowing code).
 
-(3)[^key-e166224f8a03e4b6ab31a0e878ce279e] In section 42 of that Act (public dividend capital), omit subsection (4) (dividend payable by NHS foundation trust to be same as that payable by NHS trust).
+(3)[^c-e166224f8a03e4b6ab31a0e878ce279e] In section 42 of that Act (public dividend capital), omit subsection (4) (dividend payable by NHS foundation trust to be same as that payable by NHS trust).
 
-(4)[^key-e166224f8a03e4b6ab31a0e878ce279e] Omit subsection (5) of that section (requirement for Secretary of State to consult the regulator).
+(4)[^c-e166224f8a03e4b6ab31a0e878ce279e] Omit subsection (5) of that section (requirement for Secretary of State to consult the regulator).
 
-(5)[^key-e166224f8a03e4b6ab31a0e878ce279e] At the end of that section insert—
+(5)[^c-e166224f8a03e4b6ab31a0e878ce279e] At the end of that section insert—
 
 > (7) The terms which may be decided under subsection (3) include terms to which the exercise of any power of an NHS foundation trust to do any of the following will be subject as a consequence—
 >
@@ -61,7 +61,7 @@ summary: ''
 > - (f) applying for dissolution (whether or not when also applying for the establishment of one or more other trusts),
 > - (g) applying to acquire another body.
 
-(6)[^key-e166224f8a03e4b6ab31a0e878ce279e] After that section insert—
+(6)[^c-e166224f8a03e4b6ab31a0e878ce279e] After that section insert—
 
 > **42A. Criteria for making loans etc.**
 >
@@ -89,11 +89,11 @@ summary: ''
 > - (b) the regulator, and
 > - (c) such other persons as the Secretary of State considers appropriate.
 
-(7)[^key-24cca91f3f0abf9c2f738272359e17e6] Omit section 45 of that Act (disposal of protected property).
+(7)[^c-24cca91f3f0abf9c2f738272359e17e6] Omit section 45 of that Act (disposal of protected property).
 
-(8)[^key-24cca91f3f0abf9c2f738272359e17e6] Omit section 46(2) and (3) of that Act (limitation on power of NHS foundation trusts to borrow money).
+(8)[^c-24cca91f3f0abf9c2f738272359e17e6] Omit section 46(2) and (3) of that Act (limitation on power of NHS foundation trusts to borrow money).
 
-(9)[^key-24cca91f3f0abf9c2f738272359e17e6] For section 50 of that Act (fees) substitute—
+(9)[^c-24cca91f3f0abf9c2f738272359e17e6] For section 50 of that Act (fees) substitute—
 
 > **50. Fees**
 >
@@ -104,8 +104,8 @@ summary: ''
 
 ## Annotations
 
-[^key-42576818a8a5f352baad6510ae222281]: Commencement: S. 163(1) in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-42576818a8a5f352baad6510ae222281]: Commencement: S. 163(1) in force at 1.4.2013 for specified purposes by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-24cca91f3f0abf9c2f738272359e17e6]: Commencement: S. 163(2)(7)-(9) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-24cca91f3f0abf9c2f738272359e17e6]: Commencement: S. 163(2)(7)-(9) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
 
-[^key-e166224f8a03e4b6ab31a0e878ce279e]: Commencement: S. 163(3)-(6) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-e166224f8a03e4b6ab31a0e878ce279e]: Commencement: S. 163(3)-(6) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

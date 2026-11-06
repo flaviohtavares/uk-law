@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-03e6816f1a0a19bb17528ac11006cc7b]
+## 48. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^c-03e6816f1a0a19bb17528ac11006cc7b]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ For regulation 16 of the Occupational Pension Schemes (Scheme Administration) Re
 
 > **16. Prescribed time in which an employer must make payments to trustees or managers**
 >
-> (1) Except as provided in paragraph (2), the prescribed period for the purposes of Article 49(8)[^f00021] (amount deducted from earnings to be paid to the trustees or managers of the scheme within a prescribed period) is—[^key-612d0512b305a14e98acc5862743598f]
+> (1) Except as provided in paragraph (2), the prescribed period for the purposes of Article 49(8)[^f00021] (amount deducted from earnings to be paid to the trustees or managers of the scheme within a prescribed period) is—[^c-612d0512b305a14e98acc5862743598f]
 >
 > - (a) where the contribution payable on behalf of an active member is paid to the trustees or managers of the scheme by means of an electronic communication, 22 days; or
 > - (b) in any other case, 19 days,
@@ -49,13 +49,13 @@ For regulation 16 of the Occupational Pension Schemes (Scheme Administration) Re
 
 ## Annotations
 
-[^key-03e6816f1a0a19bb17528ac11006cc7b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2010/122/regulation/48) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-03e6816f1a0a19bb17528ac11006cc7b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2010/122/regulation/48) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94); regulation 16 was amended by paragraph 16(4) of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and regulation 2(2) of [S.R. 2000 No. 69](https://www.legislation.gov.uk/nisr/2000/69)
 
 [^f00021]: Footnote: Article 49(8) was substituted by Article 11(1) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-612d0512b305a14e98acc5862743598f]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/nisr/2010/122/regulation/48) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(23)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/23)
+[^c-612d0512b305a14e98acc5862743598f]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/nisr/2010/122/regulation/48) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(23)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/23)
 
 [^f00022]: Footnote: [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13)
 

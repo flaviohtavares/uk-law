@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Offenders aged under 18: considerations of court not affected by Code[^key-37801cd7ecb00f6a193588a1ba7ff03f]
+## 58. Offenders aged under 18: considerations of court not affected by Code[^c-37801cd7ecb00f6a193588a1ba7ff03f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Nothing in this Code affects the duties of the court—
 
 ## Annotations
 
-[^key-37801cd7ecb00f6a193588a1ba7ff03f]: Commencement: S. 58 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-37801cd7ecb00f6a193588a1ba7ff03f]: Commencement: S. 58 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

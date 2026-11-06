@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 8A. Greater London strategic licensing policy[^key-bf7e7c19b107f9986df6fee8be064ab7]
+## 8A. Greater London strategic licensing policy[^c-bf7e7c19b107f9986df6fee8be064ab7]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf7e7c19b107f9986df6fee8be064ab7]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2003/17/section/8A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-bf7e7c19b107f9986df6fee8be064ab7]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2003/17/section/8A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

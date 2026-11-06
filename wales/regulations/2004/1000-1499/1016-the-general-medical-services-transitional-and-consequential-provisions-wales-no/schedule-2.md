@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — REVOCATIONS[^key-762be91fbb10bc7f8b151b5511c87cfe]
+## SCHEDULE 2 — REVOCATIONS[^c-762be91fbb10bc7f8b151b5511c87cfe]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ Article 96
 
 ## Annotations
 
-[^key-762be91fbb10bc7f8b151b5511c87cfe]: Commencement: Sch. 2 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-762be91fbb10bc7f8b151b5511c87cfe]: Commencement: Sch. 2 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

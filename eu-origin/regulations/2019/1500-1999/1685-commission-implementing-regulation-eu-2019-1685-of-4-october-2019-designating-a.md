@@ -36,14 +36,14 @@ designating a European Union Reference Centre for Animal Welfare for poultry and
 
 (Text with EEA relevance) (revoked)
 
-[^key-8f93f97ee97c1503db30a9d1450be233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f93f97ee97c1503db30a9d1450be233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-8f93f97ee97c1503db30a9d1450be233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8f93f97ee97c1503db30a9d1450be233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8f93f97ee97c1503db30a9d1450be233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8f93f97ee97c1503db30a9d1450be233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f93f97ee97c1503db30a9d1450be233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f93f97ee97c1503db30a9d1450be233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f93f97ee97c1503db30a9d1450be233]: Textual amendment: Regulation revoked (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1481/schedule/paragraph/5)
+[^c-8f93f97ee97c1503db30a9d1450be233]: Textual amendment: Regulation revoked (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1481/schedule/paragraph/5)

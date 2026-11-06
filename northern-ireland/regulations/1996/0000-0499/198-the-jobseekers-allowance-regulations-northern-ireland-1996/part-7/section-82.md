@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Income-based jobseeker’s allowance[^key-1156def5ff25a502897414cd8b6eb7d1]
+## 82. Income-based jobseeker’s allowance[^c-1156def5ff25a502897414cd8b6eb7d1]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulations 83 to 87 apply in the case of an income-based jobseeker’s allowanc
 
 ## Annotations
 
-[^key-1156def5ff25a502897414cd8b6eb7d1]: Commencement: Reg. 82 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-1156def5ff25a502897414cd8b6eb7d1]: Commencement: Reg. 82 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 275. Application of this Chapter[^key-49df1e5fcb5a9ad26c10437bab231257]
+## 275. Application of this Chapter[^c-49df1e5fcb5a9ad26c10437bab231257]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49df1e5fcb5a9ad26c10437bab231257]: Commencement: S. 275 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-49df1e5fcb5a9ad26c10437bab231257]: Commencement: S. 275 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

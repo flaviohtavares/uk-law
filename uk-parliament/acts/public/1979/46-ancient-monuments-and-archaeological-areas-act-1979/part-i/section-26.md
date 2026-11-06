@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Power of entry on land believed to contain an ancient monument.[^M_E_5d795349-3808-4de3-e5e1-ce6a749cf06b][^c250974][^key-d271d11427573a4b8c2801a9c97b1c63][^key-fc753355d3aab712815e8a23b42184c5][^key-f8c0898a67d2d757c7044475c1316aba]
+## 26. Power of entry on land believed to contain an ancient monument.[^M_E_5d795349-3808-4de3-e5e1-ce6a749cf06b][^c250974][^c-d271d11427573a4b8c2801a9c97b1c63][^c-fc753355d3aab712815e8a23b42184c5][^c-f8c0898a67d2d757c7044475c1316aba]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) No excavation shall be made in exercise of the power conferred by subsection (2) above except with the consent of every person whose consent to the making of the excavation would be required apart from this section.
 
-(4)[^key-2ee04bdac45af34982b0b3f77881c8be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2ee04bdac45af34982b0b3f77881c8be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 26. Power of entry on land believed to contain an ancient monument.[^M_E_8b59b5a9-4e11-42fd-8077-3aa0095bdb23][^V_S_ca2eae16-7857-374a-c593-aa6d88a1963c]
 
@@ -49,13 +49,13 @@ summary: ''
 
 [^c250974]: Modification: S. 26 restricted (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 12](https://www.legislation.gov.uk/ukpga/1996/61/section/12), [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/7/paragraph/4/3)
 
-[^key-d271d11427573a4b8c2801a9c97b1c63]: Modification: S. 26 restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/3)
+[^c-d271d11427573a4b8c2801a9c97b1c63]: Modification: S. 26 restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/3)
 
-[^key-fc753355d3aab712815e8a23b42184c5]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1979/46/section/26) restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/3)
+[^c-fc753355d3aab712815e8a23b42184c5]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1979/46/section/26) restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/3)
 
-[^key-f8c0898a67d2d757c7044475c1316aba]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1979/46/section/26) restricted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/3)
+[^c-f8c0898a67d2d757c7044475c1316aba]: Modification: [S. 26](https://www.legislation.gov.uk/ukpga/1979/46/section/26) restricted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/3)
 
-[^key-2ee04bdac45af34982b0b3f77881c8be]: Textual amendment: [S. 26(4)](https://www.legislation.gov.uk/ukpga/1979/46/section/26/4) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 32](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/32) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-2ee04bdac45af34982b0b3f77881c8be]: Textual amendment: [S. 26(4)](https://www.legislation.gov.uk/ukpga/1979/46/section/26/4) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 32](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/32) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^M_E_8b59b5a9-4e11-42fd-8077-3aa0095bdb23]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 

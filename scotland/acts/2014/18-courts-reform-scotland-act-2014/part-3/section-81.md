@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Expenses in simple procedure cases[^key-68c6779a6ae3958eb243ca08663c1170][^key-46d822a3f6925924351b3fbb29d05565]
+## 81. Expenses in simple procedure cases[^c-68c6779a6ae3958eb243ca08663c1170][^c-46d822a3f6925924351b3fbb29d05565]
 
 *Extent: S*
 
@@ -44,7 +44,7 @@ summary: ''
   - (i) has not stated a defence,
   - (ii) having stated a defence, has not proceeded with it, or
   - (iii) having stated and proceeded with a defence, has not acted in good faith as to its merits, or
-- (b) a party to the case has behaved in a manner which is manifestly unreasonable[^key-63ff1c9638e690c5e60bf31c6fa76d0b] in relation to the case.
+- (b) a party to the case has behaved in a manner which is manifestly unreasonable[^c-63ff1c9638e690c5e60bf31c6fa76d0b] in relation to the case.
 
 (6) Subsection (7) applies where the sheriff in a simple procedure case is of the opinion that a difficult question of law, or a question of fact of exceptional complexity, is involved.
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-68c6779a6ae3958eb243ca08663c1170]: Commencement: S. 81 in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-68c6779a6ae3958eb243ca08663c1170]: Commencement: S. 81 in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-46d822a3f6925924351b3fbb29d05565]: Commencement: S. 81 in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)
+[^c-46d822a3f6925924351b3fbb29d05565]: Commencement: S. 81 in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)
 
-[^key-63ff1c9638e690c5e60bf31c6fa76d0b]: Textual amendment: Words in [s. 81(5)(b)](https://www.legislation.gov.uk/asp/2014/18/section/81/5/b) substituted (30.6.2021) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [ss. 12(2)](https://www.legislation.gov.uk/asp/2018/10/section/12/2), [27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3); [S.S.I. 2021/125](https://www.legislation.gov.uk/ssi/2021/125), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/125/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/125/regulation/3))
+[^c-63ff1c9638e690c5e60bf31c6fa76d0b]: Textual amendment: Words in [s. 81(5)(b)](https://www.legislation.gov.uk/asp/2014/18/section/81/5/b) substituted (30.6.2021) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [ss. 12(2)](https://www.legislation.gov.uk/asp/2018/10/section/12/2), [27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3); [S.S.I. 2021/125](https://www.legislation.gov.uk/ssi/2021/125), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/125/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/125/regulation/3))

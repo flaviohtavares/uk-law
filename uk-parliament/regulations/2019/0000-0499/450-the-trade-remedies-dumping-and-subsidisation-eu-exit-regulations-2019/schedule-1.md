@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 50
 
-### 1. Content of an application for the initiation of a dumping investigation[^key-adf10926a038e80837171722aad848ca]
+### 1. Content of an application for the initiation of a dumping investigation[^c-adf10926a038e80837171722aad848ca]
 
 For the purpose of regulation 50(1), the information to be contained in an application for the initiation of a dumping investigation is—
 
@@ -46,7 +46,7 @@ For the purpose of regulation 50(1), the information to be contained in an appli
   - (iii) the impact of such importation on UK industry;
 - (j) information that the market share requirement is met.
 
-### 2. Content of an application for the initiation of a subsidisation investigation[^key-c66b470c4a94535198851fc2593dda97]
+### 2. Content of an application for the initiation of a subsidisation investigation[^c-c66b470c4a94535198851fc2593dda97]
 
 For the purpose of regulation 50(2), the information to be contained in an application for the initiation of a subsidisation investigation is—
 
@@ -72,6 +72,6 @@ For the purpose of regulation 50(2), the information to be contained in an appli
 
 ## Annotations
 
-[^key-adf10926a038e80837171722aad848ca]: Commencement: Sch. 1 para. 1 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-adf10926a038e80837171722aad848ca]: Commencement: Sch. 1 para. 1 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-c66b470c4a94535198851fc2593dda97]: Commencement: Sch. 1 para. 2 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-c66b470c4a94535198851fc2593dda97]: Commencement: Sch. 1 para. 2 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

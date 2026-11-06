@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 26.1. Filing of petition[^key-cd7ce7eff17fe155f5aff2a81c28c365]
+## 26.1. Filing of petition[^c-cd7ce7eff17fe155f5aff2a81c28c365]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd7ce7eff17fe155f5aff2a81c28c365]: Commencement: [Rule 26.1](https://www.legislation.gov.uk/uksi/2015/1568/article/26.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-cd7ce7eff17fe155f5aff2a81c28c365]: Commencement: [Rule 26.1](https://www.legislation.gov.uk/uksi/2015/1568/article/26.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Education makes the following Regulations in exercise of the powers conferred by Articles 70(1) and (2), 88A(1) and (2) and 134 of the Education and Libraries (Northern Ireland) Order 1986[^f00001], as read with Article 15(4) to (7) of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^f00002].
 
-## 1. Citation and Commencement[^key-57e1ffba61e060621676f460de28e06e]
+## 1. Citation and Commencement[^c-57e1ffba61e060621676f460de28e06e]
 
 These Regulations may be cited as the Education (Prohibition from Teaching and Working with Children) Regulations (Northern Ireland) 2007 and shall come into operation on 15th June 2007.
 
-## 2. Interpretation[^key-4c414508309cc00d53385b4a6164d144]
+## 2. Interpretation[^c-4c414508309cc00d53385b4a6164d144]
 
 (1) In these Regulations—
 
@@ -60,11 +60,11 @@ These Regulations may be cited as the Education (Prohibition from Teaching and W
 
 (3) Any reference in these Regulations to condition A, B, C, D, E or F is to the condition (or conditions) set out in paragraphs 1 to 9 of Part 1 of the Schedule bearing the letter A, B, C, D, E or F, as appropriate.
 
-## 3. Revocation[^key-15687d4b55fabddf268c8a7092ed5436]
+## 3. Revocation[^c-15687d4b55fabddf268c8a7092ed5436]
 
 The Education (Prohibition from Teaching or Working with Children) Regulations (Northern Ireland) 2006[^f00004] are revoked.
 
-## 4. Decision to prohibit from employment[^key-94e9fa70943ae1aed57fd8e94e55d1d1]
+## 4. Decision to prohibit from employment[^c-94e9fa70943ae1aed57fd8e94e55d1d1]
 
 (1) Where it appears to the Department that a person—
 
@@ -77,7 +77,7 @@ the Department shall decide whether he should be prohibited from teaching or wor
 
 (3) The Department shall notify the person concerned of the outcome of the decision made under paragraph (1).
 
-## 5. Representations, evidence and information[^key-8e1cb58176064a24c4a407ab44ca449a]
+## 5. Representations, evidence and information[^c-8e1cb58176064a24c4a407ab44ca449a]
 
 (1) Subject to paragraph (4), where the Department is considering making a decision under regulation 4, it shall—
 
@@ -90,7 +90,7 @@ the Department shall decide whether he should be prohibited from teaching or wor
 
 (4) Paragraph (1) shall not apply where service cannot be effected by reason of the inability of the Department to ascertain the whereabouts of the person concerned.
 
-## 6. Automatic prohibition[^key-4d1f4c5b9b1ecaf06b06a4f77d9752dc]
+## 6. Automatic prohibition[^c-4d1f4c5b9b1ecaf06b06a4f77d9752dc]
 
 (1) Subject to paragraph (3), this regulation applies if, in relation to a person—
 
@@ -106,7 +106,7 @@ the Department shall decide whether he should be prohibited from teaching or wor
 
 (3) This regulation does not apply if, in relation to an offence, the Department is aware that the court, having considered whether to make a disqualification order, decided not to.
 
-## 7. Automatic prohibition: right to make representations[^key-2f33e2ed2a2e61564533857d46b780cf]
+## 7. Automatic prohibition: right to make representations[^c-2f33e2ed2a2e61564533857d46b780cf]
 
 (1) This regulation applies if, on or after 15th June 2007 the Department has prohibited a person (“X”) from teaching or working with children by virtue of regulation 6 because condition D, E or F is satisfied.
 
@@ -118,11 +118,11 @@ the Department shall decide whether he should be prohibited from teaching or wor
 
 (5) Paragraph (2) does not apply where service cannot be effected by reason of the inability of the Department to ascertain X’s whereabouts.
 
-## 8. List of persons prohibited from employment[^key-3f291a4e52057a44b534c5d0987d287e]
+## 8. List of persons prohibited from employment[^c-3f291a4e52057a44b534c5d0987d287e]
 
 The Department shall keep a list of persons who are prohibited from teaching or working with children under regulation 4 (decision to prohibit from employment) or regulation 6 (automatic prohibition).
 
-## 9. Revocation of prohibition[^key-e896f350084b07154a16574450f0ee3a]
+## 9. Revocation of prohibition[^c-e896f350084b07154a16574450f0ee3a]
 
 (1) Save where a person has been prohibited from teaching or working with children—
 
@@ -142,7 +142,7 @@ the Department may revoke the prohibition on either or both of the grounds menti
 
 (5) Where the Department revokes a prohibition, the person shall be removed from the list kept under regulation 8.
 
-## 10. Appeals to the Care Tribunal[^key-49619aa2236e818a37665bc0f7f3b1b8]
+## 10. Appeals to the Care Tribunal[^c-49619aa2236e818a37665bc0f7f3b1b8]
 
 (1) Subject to paragraphs (2) and (3) a person who has been prohibited from teaching or working with children under these Regulations may appeal to the Care Tribunal—
 
@@ -154,7 +154,7 @@ the Department may revoke the prohibition on either or both of the grounds menti
 
 (3) Where a person has been convicted of any offence involving misconduct, no finding of fact on which the conviction must be taken to have been based shall be challenged on an appeal under these Regulations.
 
-## 11.[^key-2b4ec3fd25f0fd0c6b5fb9489aa07df5]
+## 11.[^c-2b4ec3fd25f0fd0c6b5fb9489aa07df5]
 
 (1) The Care Tribunal shall not consider—
 
@@ -177,20 +177,20 @@ Regulation 6
 
 ### PART 1 — Conditions for automatic prohibition
 
-**1.**[^key-9d8e61636b079e64ff050d60aca31043] Condition A (automatic bar: DHSSPS List) is that the person is included (otherwise than provisionally) in the list kept by the Department of Health, Social Services and Public Safety under Article 3 of the 2003 Order (list of persons unsuitable to work with children).
+**1.**[^c-9d8e61636b079e64ff050d60aca31043] Condition A (automatic bar: DHSSPS List) is that the person is included (otherwise than provisionally) in the list kept by the Department of Health, Social Services and Public Safety under Article 3 of the 2003 Order (list of persons unsuitable to work with children).
 
-**2.**[^key-5d5dfe1f2d8753097b4336d20d47a8f5] Condition B (automatic bar: disqualification order) is that—
+**2.**[^c-5d5dfe1f2d8753097b4336d20d47a8f5] Condition B (automatic bar: disqualification order) is that—
 
 - (a) on or after 3rd April 2006 the person has been made subject to a disqualification order; and
 - (b) if the order was made before 15th June 2007, the person was a teacher or a person to whom Article 88A of the 1986 Order applies before he was convicted of the offence to which the disqualification order relates.
 
-**3.**[^key-1a41f2c9c715f71c863db4aec203551f] Condition C (automatic bar: Part 2 offence committed in previous 10 years against child under 16) is that—
+**3.**[^c-1a41f2c9c715f71c863db4aec203551f] Condition C (automatic bar: Part 2 offence committed in previous 10 years against child under 16) is that—
 
 - (a) on or after the relevant specified date the person has been found to have committed an offence set out in Part 2;
 - (b) the offence was committed against or involving a child under 16; and
 - (c) the offence was committed not more than 10 years before the date on which the Department decides that he should be prohibited from teaching or working with children.
 
-**4.**[^key-70b5a7ab8439d99310e28415e613dd05] Condition D1 (automatic inclusion: Part 2 offence committed against person aged 16 or over or committed more than 10 years previously against child under 16, and related offences) is that—
+**4.**[^c-70b5a7ab8439d99310e28415e613dd05] Condition D1 (automatic inclusion: Part 2 offence committed against person aged 16 or over or committed more than 10 years previously against child under 16, and related offences) is that—
 
 - (a) on or after the relevant specified date the person has been found to have committed—
   - (i) an offence set out in Part 2; or
@@ -200,26 +200,26 @@ Regulation 6
   - (ii) if the finding is on or after 15th June 2007, a person aged 16 or over; and
 - (c) where both paragraphs (a)(i) and (b)(i) apply, the offence was committed more than 10 years before the date on which the Department decides that he should be prohibited from teaching or working with children.
 
-**5.**[^key-aafc4e619443c16ce8597f7be096841a] Condition D2 (automatic inclusion: Part 3 offence) is that—
+**5.**[^c-aafc4e619443c16ce8597f7be096841a] Condition D2 (automatic inclusion: Part 3 offence) is that—
 
 - (a) on or after the relevant specified date the person has been found to have committed an offence set out in Part 3 or an offence that is related to such an offence; and
 - (b) the offence was committed against or involving—
   - (i) a child under 16; or
   - (ii) if the finding is on or after 15th June 2007, a person aged 16 or over.
 
-**6.**[^key-32208839de75d49881990d9083e3ec0c] Condition D3 (automatic inclusion: Part 4 offence) is that—
+**6.**[^c-32208839de75d49881990d9083e3ec0c] Condition D3 (automatic inclusion: Part 4 offence) is that—
 
 - (a) on or after the relevant specified date the person has been found to have committed an offence set out in Part 4 or an offence that is related to such an offence; and
 - (b) the offence was committed against or involving—
   - (i) a child under 16; or
   - (ii) if the finding is on or after 15th June 2007, a child aged 16 or 17.
 
-**7.**[^key-78b2c04914a45522481952393e27baf6] Condition D4 (automatic inclusion: Part 5 offence) is that—
+**7.**[^c-78b2c04914a45522481952393e27baf6] Condition D4 (automatic inclusion: Part 5 offence) is that—
 
 - (a) on or after the relevant specified date the person has been found to have committed an offence set out in Part 5 or an offence that is related to such an offence; and
 - (b) the offence was committed against or involving a child under 16.
 
-**8.**[^key-c94fb6fd8f33b1183b6903f45c45155e] (1) Condition E (automatic inclusion: overseas offence) is that on or after 15th June 2007 the person has been found to have done an act which—
+**8.**[^c-c94fb6fd8f33b1183b6903f45c45155e] (1) Condition E (automatic inclusion: overseas offence) is that on or after 15th June 2007 the person has been found to have done an act which—
 
 - (a) constituted an offence under the law in force in a country outside the United Kingdom; and
 - (b) would constitute an offence mentioned in sub-paragraph (2) if it had been done in any part of the United Kingdom.
@@ -240,33 +240,33 @@ Regulation 6
 
 (4) An act punishable under the law in force in a country outside the United Kingdom constitutes an offence under that law for the purposes of sub-paragraphs (1) and (3) however it is described in that law.
 
-**9.**[^key-2076792cb8c084379e08bb5e00b690c8] Condition F (automatic inclusion: risk of sexual harm orders) is that on or after 15th June 2007 the person has been made subject to a risk of sexual harm order within the meaning of section 123 of the Sexual Offences Act 2003[^f00005] or section 2 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005[^f00006].
+**9.**[^c-2076792cb8c084379e08bb5e00b690c8] Condition F (automatic inclusion: risk of sexual harm orders) is that on or after 15th June 2007 the person has been made subject to a risk of sexual harm order within the meaning of section 123 of the Sexual Offences Act 2003[^f00005] or section 2 of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005[^f00006].
 
-**10.**[^key-62c99f81fe5620b9db789c98ccf2f656] Conditions C to E apply only if the person was aged 18 or over on the date the offence was committed.
+**10.**[^c-62c99f81fe5620b9db789c98ccf2f656] Conditions C to E apply only if the person was aged 18 or over on the date the offence was committed.
 
-**11.**[^key-6854e596f37da0f2bc4cec88a27e6864] If the person was convicted of the offence before 15th June 2007, conditions C and D only apply if the person was a teacher or a person to whom Article 88A of the 1986 Order applies before he was convicted.
+**11.**[^c-6854e596f37da0f2bc4cec88a27e6864] If the person was convicted of the offence before 15th June 2007, conditions C and D only apply if the person was a teacher or a person to whom Article 88A of the 1986 Order applies before he was convicted.
 
-**12.**[^key-7fb8aa2e8dc3e6e91a5be486b6e7cd2f][^key-b5b6083a1991b5a8169fbffcb4e5a798] In this Part a person has been “found to have committed” an offence if he has been—
+**12.**[^c-7fb8aa2e8dc3e6e91a5be486b6e7cd2f][^c-b5b6083a1991b5a8169fbffcb4e5a798] In this Part a person has been “found to have committed” an offence if he has been—
 
 - (a) convicted of an offence;
 - (b) cautioned by a police officer after he has admitted an offence;
 - (c) found not guilty of an offence by reason of insanity; or
 - (d) found to be under a disability and to have done the act charged against him in respect of such an offence.
 
-**13.**[^key-a4b49e42da11c078daba2b1bb2cd16a4] In this Part an offence is “related to” an offence if it is an offence of—
+**13.**[^c-a4b49e42da11c078daba2b1bb2cd16a4] In this Part an offence is “related to” an offence if it is an offence of—
 
 - (a) attempting, conspiring or incitement to commit that offence; or
 - (b) aiding, abetting, counselling or procuring the commission of that offence.
 
-**14.**[^key-3fbe6bbdcaddca2e96109595b23ca37e] In this Part “relevant specified date” means—
+**14.**[^c-3fbe6bbdcaddca2e96109595b23ca37e] In this Part “relevant specified date” means—
 
 - (a) in relation to a person who has been convicted of an offence set out in Parts 2 to 5 or an offence of attempting to commit such an offence, the relevant date specified in relation to the substantive offence in Part 2, 3, 4 or 5;
 - (b) in relation to a person who has been convicted of any other offence that is related to an offence set out in Parts 2 to 5, 15th June 2007;
 - (c) in relation to a person who has been found to have committed an offence set out in Parts 2 to 5 or an offence that is related to such an offence other than by having been convicted of the offence, 15th June 2007.
 
-**15.**[^key-a7cbf1149be7c98d1cf6d51338303003] In relation to an offence which is committed over a period of time, the references in paragraphs 3(c), 4(c) and 10 to the date on which the offence is committed are to be read as references to the last day of that period.
+**15.**[^c-a7cbf1149be7c98d1cf6d51338303003] In relation to an offence which is committed over a period of time, the references in paragraphs 3(c), 4(c) and 10 to the date on which the offence is committed are to be read as references to the last day of that period.
 
-### PART 2 — Offences for the purpose of conditions C and D1: offences against person of any age[^key-26a33dcd1b181d350f682d611e88d454]
+### PART 2 — Offences for the purpose of conditions C and D1: offences against person of any age[^c-26a33dcd1b181d350f682d611e88d454]
 
 Offences in England and Wales
 
@@ -296,7 +296,7 @@ Offences in Northern Ireland
 | An offence of rape, contrary to the common law | 3rd April 2006 |
 | An offence contrary to section 4 of the Criminal Law Amendment Act 1885 (unlawful carnal knowledge of a girl under 14)[^f00011] | 3rd April 2006 |
 
-### PART 3 — Offences for the purpose of condition D2: offences against person of any age[^key-961c0fbc318e9e808ba887c661a6681f]
+### PART 3 — Offences for the purpose of condition D2: offences against person of any age[^c-961c0fbc318e9e808ba887c661a6681f]
 
 Offences in England and Wales
 
@@ -318,7 +318,7 @@ Offences in Northern Ireland
 | An offence of murder, contrary to the common law | 3rd April 2006 |
 | An offence contrary to section 9(1)(a) of the Theft Act (Northern Ireland) 1969 (burglary) if the offence which the person intends to commit is rape[^f00013] | 15th June 2007 |
 
-### PART 4 — Offences for the purpose of condition D3: offences against or involving a child[^key-c508640c9ad57f5df59ef31207912da1]
+### PART 4 — Offences for the purpose of condition D3: offences against or involving a child[^c-c508640c9ad57f5df59ef31207912da1]
 
 Offences in England and Wales and, where relevant, Scotland and Northern Ireland
 
@@ -460,7 +460,7 @@ Offences in Northern Ireland
 | An offence contrary to Article 20 of the Criminal Justice (Northern Ireland) Order 2003 (assault with intent to commit buggery) | 15th June 2007 |
 | An offence contrary to Article 21 of the Criminal Justice (Northern Ireland) Order 2003 (indecent assault on a male) | 15th June 2007 |
 
-### PART 5 — Offences for the purpose of condition D4: offences against or involving a child under 16[^key-a83db015f71ebccd395611474c3c82ad]
+### PART 5 — Offences for the purpose of condition D4: offences against or involving a child under 16[^c-a83db015f71ebccd395611474c3c82ad]
 
 Offences in England and Wales
 
@@ -527,69 +527,69 @@ A person who has been convicted of an offence of misconduct cannot challenge on 
 
 [^f00002]: Footnote: [S.I. 2003/417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417).
 
-[^key-57e1ffba61e060621676f460de28e06e]: Commencement: Reg. 1 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-57e1ffba61e060621676f460de28e06e]: Commencement: Reg. 1 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-4c414508309cc00d53385b4a6164d144]: Commencement: Reg. 2 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-4c414508309cc00d53385b4a6164d144]: Commencement: Reg. 2 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431).
 
-[^key-15687d4b55fabddf268c8a7092ed5436]: Commencement: Reg. 3 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-15687d4b55fabddf268c8a7092ed5436]: Commencement: Reg. 3 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2006 No. 51](https://www.legislation.gov.uk/nisr/2006/51).
 
-[^key-94e9fa70943ae1aed57fd8e94e55d1d1]: Commencement: Reg. 4 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-94e9fa70943ae1aed57fd8e94e55d1d1]: Commencement: Reg. 4 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-8e1cb58176064a24c4a407ab44ca449a]: Commencement: Reg. 5 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-8e1cb58176064a24c4a407ab44ca449a]: Commencement: Reg. 5 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-4d1f4c5b9b1ecaf06b06a4f77d9752dc]: Commencement: Reg. 6 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-4d1f4c5b9b1ecaf06b06a4f77d9752dc]: Commencement: Reg. 6 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-2f33e2ed2a2e61564533857d46b780cf]: Commencement: Reg. 7 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-2f33e2ed2a2e61564533857d46b780cf]: Commencement: Reg. 7 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-3f291a4e52057a44b534c5d0987d287e]: Commencement: Reg. 8 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-3f291a4e52057a44b534c5d0987d287e]: Commencement: Reg. 8 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-e896f350084b07154a16574450f0ee3a]: Commencement: Reg. 9 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-e896f350084b07154a16574450f0ee3a]: Commencement: Reg. 9 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-49619aa2236e818a37665bc0f7f3b1b8]: Commencement: Reg. 10 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-49619aa2236e818a37665bc0f7f3b1b8]: Commencement: Reg. 10 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-2b4ec3fd25f0fd0c6b5fb9489aa07df5]: Commencement: Reg. 11 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-2b4ec3fd25f0fd0c6b5fb9489aa07df5]: Commencement: Reg. 11 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-9d8e61636b079e64ff050d60aca31043]: Commencement: Sch. para. 1 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-9d8e61636b079e64ff050d60aca31043]: Commencement: Sch. para. 1 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-5d5dfe1f2d8753097b4336d20d47a8f5]: Commencement: Sch. para. 2 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-5d5dfe1f2d8753097b4336d20d47a8f5]: Commencement: Sch. para. 2 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-1a41f2c9c715f71c863db4aec203551f]: Commencement: Sch. para. 3 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-1a41f2c9c715f71c863db4aec203551f]: Commencement: Sch. para. 3 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-70b5a7ab8439d99310e28415e613dd05]: Commencement: Sch. para. 4 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-70b5a7ab8439d99310e28415e613dd05]: Commencement: Sch. para. 4 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-aafc4e619443c16ce8597f7be096841a]: Commencement: Sch. para. 5 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-aafc4e619443c16ce8597f7be096841a]: Commencement: Sch. para. 5 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-32208839de75d49881990d9083e3ec0c]: Commencement: Sch. para. 6 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-32208839de75d49881990d9083e3ec0c]: Commencement: Sch. para. 6 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-78b2c04914a45522481952393e27baf6]: Commencement: Sch. para. 7 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-78b2c04914a45522481952393e27baf6]: Commencement: Sch. para. 7 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-c94fb6fd8f33b1183b6903f45c45155e]: Commencement: Sch. para. 8 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-c94fb6fd8f33b1183b6903f45c45155e]: Commencement: Sch. para. 8 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-2076792cb8c084379e08bb5e00b690c8]: Commencement: Sch. para. 9 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-2076792cb8c084379e08bb5e00b690c8]: Commencement: Sch. para. 9 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
 [^f00005]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42); section 123 extends to Northern Ireland (*see* section 142(2)(c)).
 
 [^f00006]: Footnote: [2005 asp 9](https://www.legislation.gov.uk/asp/2005/9).
 
-[^key-62c99f81fe5620b9db789c98ccf2f656]: Commencement: Sch. para. 10 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-62c99f81fe5620b9db789c98ccf2f656]: Commencement: Sch. para. 10 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-6854e596f37da0f2bc4cec88a27e6864]: Commencement: Sch. para. 11 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-6854e596f37da0f2bc4cec88a27e6864]: Commencement: Sch. para. 11 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-7fb8aa2e8dc3e6e91a5be486b6e7cd2f]: Commencement: Sch. para. 12 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-7fb8aa2e8dc3e6e91a5be486b6e7cd2f]: Commencement: Sch. para. 12 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-b5b6083a1991b5a8169fbffcb4e5a798]: Modification: [Sch. Pt. 1 para. 12](https://www.legislation.gov.uk/nisr/2007/288/schedule/part/1/paragraph/12) modified (13.3.2009) by [Safeguarding Vulnerable Groups (Transitory Provisions) Order (Northern Ireland) 2009 (S.R. 2009/38)](https://www.legislation.gov.uk/nisr/2009/38), [arts. 1](https://www.legislation.gov.uk/nisr/2009/38/article/1), [5](https://www.legislation.gov.uk/nisr/2009/38/article/5)
+[^c-b5b6083a1991b5a8169fbffcb4e5a798]: Modification: [Sch. Pt. 1 para. 12](https://www.legislation.gov.uk/nisr/2007/288/schedule/part/1/paragraph/12) modified (13.3.2009) by [Safeguarding Vulnerable Groups (Transitory Provisions) Order (Northern Ireland) 2009 (S.R. 2009/38)](https://www.legislation.gov.uk/nisr/2009/38), [arts. 1](https://www.legislation.gov.uk/nisr/2009/38/article/1), [5](https://www.legislation.gov.uk/nisr/2009/38/article/5)
 
-[^key-a4b49e42da11c078daba2b1bb2cd16a4]: Commencement: Sch. para. 13 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-a4b49e42da11c078daba2b1bb2cd16a4]: Commencement: Sch. para. 13 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-3fbe6bbdcaddca2e96109595b23ca37e]: Commencement: Sch. para. 14 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-3fbe6bbdcaddca2e96109595b23ca37e]: Commencement: Sch. para. 14 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-a7cbf1149be7c98d1cf6d51338303003]: Commencement: Sch. para. 15 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-a7cbf1149be7c98d1cf6d51338303003]: Commencement: Sch. para. 15 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
-[^key-26a33dcd1b181d350f682d611e88d454]: Commencement: Sch. Pt. 2 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-26a33dcd1b181d350f682d611e88d454]: Commencement: Sch. Pt. 2 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
 [^f00007]: Footnote: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69); section 1 was substituted by section 142 of the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) (“the 1994 Act”) and repealed by paragraph 11 of Schedule 6 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42) (“the 2003 Act”). Sections 4 to 7, 10 to 16, 22, 23, 25, 26, 28, 30 and 31 (referred to in this Part and in Part 4) were also repealed by this provision of the 2003 Act.
 
@@ -601,13 +601,13 @@ A person who has been convicted of an offence of misconduct cannot challenge on 
 
 [^f00011]: Footnote: [1885 c. 69](https://www.legislation.gov.uk/ukpga/1885/69); section 4 was amended by section 13(2) of the Children and Young Persons Act (Northern Ireland) [1950 (c. 5) (N.I.)](https://www.legislation.gov.uk/apni/1950/5).
 
-[^key-961c0fbc318e9e808ba887c661a6681f]: Commencement: Sch. Pt. 3 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-961c0fbc318e9e808ba887c661a6681f]: Commencement: Sch. Pt. 3 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
 [^f00012]: Footnote: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60); section 9, in relation to intent to commit rape, was repealed by paragraph 17 of Schedule 6 to the 2003 Act.
 
 [^f00013]: Footnote: [1969 c. 16 (N.I.)](https://www.legislation.gov.uk/apni/1969/16); section 9, in relation to intent to commit rape, was amended by the Criminal Justice (Northern Ireland) Order 2003 ([S.I. 2003/1247) (N.I. 13)](https://www.legislation.gov.uk/nisi/2003/1247).
 
-[^key-c508640c9ad57f5df59ef31207912da1]: Commencement: Sch. Pt. 4 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-c508640c9ad57f5df59ef31207912da1]: Commencement: Sch. Pt. 4 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
 [^f00014]: Footnote: [1938 c. 36](https://www.legislation.gov.uk/ukpga/1938/36).
 
@@ -701,6 +701,6 @@ A person who has been convicted of an offence of misconduct cannot challenge on 
 
 [^f00059]: Footnote: [S.I. 2003/1247 (N.I. 13)](https://www.legislation.gov.uk/nisi/2003/1247); Article 19 was amended by paragraph 52 of Schedule 6 to the 2003 Act.
 
-[^key-a83db015f71ebccd395611474c3c82ad]: Commencement: Sch. Pt. 5 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
+[^c-a83db015f71ebccd395611474c3c82ad]: Commencement: Sch. Pt. 5 in operation at 15.6.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/288/regulation/1)
 
 [^f00060]: Footnote: Sections 66 and 67 extend to Northern Ireland.

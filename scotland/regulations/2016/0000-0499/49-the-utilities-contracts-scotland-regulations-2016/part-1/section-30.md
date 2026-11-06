@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Notification of information[^key-8ac9151f119eba9c03fec0b25f24d221]
+## 30. Notification of information[^c-8ac9151f119eba9c03fec0b25f24d221]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ac9151f119eba9c03fec0b25f24d221]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/ssi/2016/49/regulation/30) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(19)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/19) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-8ac9151f119eba9c03fec0b25f24d221]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/ssi/2016/49/regulation/30) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(19)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/19) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

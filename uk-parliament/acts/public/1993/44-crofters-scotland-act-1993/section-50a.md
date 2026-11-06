@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50A. Joint forestry ventures etc.[^key-511da94b82c6a0b0929af06c0611cc52]
+## 50A. Joint forestry ventures etc.[^c-511da94b82c6a0b0929af06c0611cc52]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-511da94b82c6a0b0929af06c0611cc52]: Textual amendment: S. 50A, 50B inserted (25.6.2007 for the insertion of s. 50A, 28.1.2008 in force in so far as not already in force) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 26(2)](https://www.legislation.gov.uk/asp/2007/7/section/26/2), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), art. 2
+[^c-511da94b82c6a0b0929af06c0611cc52]: Textual amendment: S. 50A, 50B inserted (25.6.2007 for the insertion of s. 50A, 28.1.2008 in force in so far as not already in force) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 26(2)](https://www.legislation.gov.uk/asp/2007/7/section/26/2), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule); [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), art. 2

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Planning functions of new town development corporations[^key-27de3e6404a5514f5b24b82c4cd62389][^key-257fd1726f156c2851ced791835e00b6]
+## 175. Planning functions of new town development corporations[^c-27de3e6404a5514f5b24b82c4cd62389][^c-257fd1726f156c2851ced791835e00b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -125,6 +125,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27de3e6404a5514f5b24b82c4cd62389]: Commencement: S. 175 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-27de3e6404a5514f5b24b82c4cd62389]: Commencement: S. 175 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-257fd1726f156c2851ced791835e00b6]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2023/55/section/175) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/b)
+[^c-257fd1726f156c2851ced791835e00b6]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2023/55/section/175) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/b)

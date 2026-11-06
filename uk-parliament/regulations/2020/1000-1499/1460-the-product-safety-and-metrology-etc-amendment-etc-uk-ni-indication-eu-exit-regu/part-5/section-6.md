@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6.[^key-85fbc5d833009bbf0acaea763f970a93]
+## 6.[^c-85fbc5d833009bbf0acaea763f970a93]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit regulation 10(a) and (b) of the Product Safety, Metrology and Mutual Recogn
 
 ## Annotations
 
-[^key-85fbc5d833009bbf0acaea763f970a93]: Commencement: Reg. 6 in force at 31.12.2020 immediately before the coming into force of regulation 10 of the Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 , see reg. 1(5)
+[^c-85fbc5d833009bbf0acaea763f970a93]: Commencement: Reg. 6 in force at 31.12.2020 immediately before the coming into force of regulation 10 of the Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 , see reg. 1(5)

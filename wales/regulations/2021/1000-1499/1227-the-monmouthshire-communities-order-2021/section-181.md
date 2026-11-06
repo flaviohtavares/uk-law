@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**181.**[^key-fa6bef12b0095664914d652234daef2a][^key-ee947a36b1cce2b01d9405e53f665f3b] The number of councillors to be elected for the Magor East ward is 2.
+**181.**[^c-fa6bef12b0095664914d652234daef2a][^c-ee947a36b1cce2b01d9405e53f665f3b] The number of councillors to be elected for the Magor East ward is 2.
 
 ## Annotations
 
-[^key-fa6bef12b0095664914d652234daef2a]: Commencement: Art. 181 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-fa6bef12b0095664914d652234daef2a]: Commencement: Art. 181 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-ee947a36b1cce2b01d9405e53f665f3b]: Commencement: [Art. 181](https://www.legislation.gov.uk/wsi/2021/1227/article/181) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-ee947a36b1cce2b01d9405e53f665f3b]: Commencement: [Art. 181](https://www.legislation.gov.uk/wsi/2021/1227/article/181) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

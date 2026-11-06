@@ -31,7 +31,7 @@ summary: ''
 
 POLICE
 
-The International Joint Investigation Teams (International Agreement) Order 2004 (revoked)[^key-48a1005d2a89b8f90018931b0d0afd6a]
+The International Joint Investigation Teams (International Agreement) Order 2004 (revoked)[^c-48a1005d2a89b8f90018931b0d0afd6a]
 
 Made
 
@@ -45,18 +45,18 @@ Coming into force
 
 7th May 2004
 
-[^key-48a1005d2a89b8f90018931b0d0afd6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48a1005d2a89b8f90018931b0d0afd6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-48a1005d2a89b8f90018931b0d0afd6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-48a1005d2a89b8f90018931b0d0afd6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-48a1005d2a89b8f90018931b0d0afd6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-48a1005d2a89b8f90018931b0d0afd6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48a1005d2a89b8f90018931b0d0afd6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48a1005d2a89b8f90018931b0d0afd6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48a1005d2a89b8f90018931b0d0afd6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48a1005d2a89b8f90018931b0d0afd6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48a1005d2a89b8f90018931b0d0afd6a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2004/1127) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [71](https://www.legislation.gov.uk/uksi/2019/742/regulation/71) (with [regs. 2(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/2/3), [10](https://www.legislation.gov.uk/uksi/2019/742/regulation/10), [72](https://www.legislation.gov.uk/uksi/2019/742/regulation/72)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1408/regulation/8), [19](https://www.legislation.gov.uk/uksi/2020/1408/regulation/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48a1005d2a89b8f90018931b0d0afd6a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2004/1127) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [71](https://www.legislation.gov.uk/uksi/2019/742/regulation/71) (with [regs. 2(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/2/3), [10](https://www.legislation.gov.uk/uksi/2019/742/regulation/10), [72](https://www.legislation.gov.uk/uksi/2019/742/regulation/72)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1408/regulation/8), [19](https://www.legislation.gov.uk/uksi/2020/1408/regulation/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

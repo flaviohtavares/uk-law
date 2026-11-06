@@ -50,13 +50,13 @@ The Lord Chancellor, in exercise of the powers conferred by section 38(7) of the
 
 ## PART 1 — Preliminary, interpretation and general provisions
 
-### 1. Citation, commencement, revocation and transition[^key-67f60285ddcf820a1e36029525cec796]
+### 1. Citation, commencement, revocation and transition[^c-67f60285ddcf820a1e36029525cec796]
 
 (1) These Rules may be cited as the Court Funds Rules 2011 and shall come into force on 3rd October 2011.
 
 (2) The Rules specified in the schedule to these Rules are revoked, except that they continue to apply to such extent as may be necessary for giving effect to any order, direction or request made before 3rd October 2011.
 
-### 2. Application of the Rules[^key-4b1e924ac55d482f92d8c437207b29a4]
+### 2. Application of the Rules[^c-4b1e924ac55d482f92d8c437207b29a4]
 
 These Rules apply to funds deposited or to be deposited in court:
 
@@ -64,18 +64,18 @@ These Rules apply to funds deposited or to be deposited in court:
 - (b) in respect of proceedings in:
   - (i) a county court;
   - (ii) the High Court;
-  - (iii) the Civil Division of the Court of Appeal; [^key-a87040ca09590edf6676ee74b3f36d92]...
-  - (iv) the Court of Protection ; or[^key-ed5d25de408262e5634f5215e3a865c1]
-  - (v)[^key-7b4decc73686c32bd27c0b357799e8d1] the family court.
+  - (iii) the Civil Division of the Court of Appeal; [^c-a87040ca09590edf6676ee74b3f36d92]...
+  - (iv) the Court of Protection ; or[^c-ed5d25de408262e5634f5215e3a865c1]
+  - (v)[^c-7b4decc73686c32bd27c0b357799e8d1] the family court.
 
-### 3. Interpretation[^key-0314077b6a87b98e96ffa5e73b6f091c]
+### 3. Interpretation[^c-0314077b6a87b98e96ffa5e73b6f091c]
 
 (1) Expressions used in these Rules that are also used in the Civil Procedure Rules 1998[^f00002] shall have the same meaning as they have in those Rules.
 
 (2) In these Rules:
 
 - “**Accountant General**” means the Accountant General of the Senior Courts or a person appointed under rule 5;
-- “**Authenticated**” means authenticated with a stamp issued , or an electronic version approved,[^key-69f251a42fbe1e7036829b7ec2429179] by the Accountant General;
+- “**Authenticated**” means authenticated with a stamp issued , or an electronic version approved,[^c-69f251a42fbe1e7036829b7ec2429179] by the Accountant General;
 - “**Child**” means a person under 18;
 - “**Common investment fund**” means a fund established by a scheme made under section 42 of the Administration of Justice Act 1982;
 - “**Court**” means any court listed in rule 2(b);
@@ -84,7 +84,7 @@ These Rules apply to funds deposited or to be deposited in court:
 - “**Deputy**” means a person who makes decisions on behalf of a person who lacks capacity and who has been:
   - (a) appointed by a court under section 16(2)(b) of the Mental Capacity Act 2005[^f00003]; or
   - (b) deemed to be so appointed by virtue of paragraph 1 of schedule 5 to that Act;
-- “[^key-d95f4d54c11c75387f1af4c0596c54b5]**Electronic request**” means a request made in an electronic form approved by or using a digital platform maintained on behalf of the Accountant General to—
+- “[^c-d95f4d54c11c75387f1af4c0596c54b5]**Electronic request**” means a request made in an electronic form approved by or using a digital platform maintained on behalf of the Accountant General to—
   - (a) deposit funds in court;
   - (b) deal with a fund in court; or
   - (c) receive payment from a fund in court;
@@ -111,17 +111,17 @@ These Rules apply to funds deposited or to be deposited in court:
 
   includes a power to refuse to do so on the ground that, while the terms of appointment require the deputies to act jointly, the direction or request was not jointly made.
 
-### 4. Court Funds Office[^key-7b69caa171dd416974afbbcc2b768444]
+### 4. Court Funds Office[^c-7b69caa171dd416974afbbcc2b768444]
 
 The office of the Accountant General shall continue to be known as the Court Funds Office.
 
-### 5. Discharge of Accountant General’s functions[^key-b7ba0b493132a960a20a83e2303b818c]
+### 5. Discharge of Accountant General’s functions[^c-b7ba0b493132a960a20a83e2303b818c]
 
 The Accountant General may appoint one or more persons to do anything that may be done by the Accountant General under these Rules.
 
 ## PART 2 — Deposit of funds in court
 
-### 6. Documents accompanying deposit of funds in court[^key-00264341bfc52c806df23b79f3e4ba6b]
+### 6. Documents accompanying deposit of funds in court[^c-00264341bfc52c806df23b79f3e4ba6b]
 
 (1) The general rule is that the Accountant General shall only accept a deposit of a fund if provided with:
 
@@ -130,7 +130,7 @@ The Accountant General may appoint one or more persons to do anything that may b
   - (i) a written request; and
   - (ii) a sealed copy of the court order authorising the deposit.
 
-(2)[^key-986ab5b6ab0334527b4237e29e6a1fc4] The general rule—
+(2)[^c-986ab5b6ab0334527b4237e29e6a1fc4] The general rule—
 
 - (a) applies subject to rule 6A; and
 - (b) does not apply if a fund is deposited in court under one of the following paragraphs in this rule.
@@ -174,11 +174,11 @@ The Accountant General may appoint one or more persons to do anything that may b
   - (i) a written request; and
   - (ii) a sealed copy of the court order authorising the deposit of that currency.
 
-(10) A sealed copy of a court order is not required where the [^key-437c6c76d2a7e2a91bd779c4310dde0b]... request is made by the Admiralty Marshal.
+(10) A sealed copy of a court order is not required where the [^c-437c6c76d2a7e2a91bd779c4310dde0b]... request is made by the Admiralty Marshal.
 
-(11) A sealed copy of a court order is not required where the [^key-3b3d489cead2612df1df4bf12a09d5dc]... request has been sealed by the court that made the order.
+(11) A sealed copy of a court order is not required where the [^c-3b3d489cead2612df1df4bf12a09d5dc]... request has been sealed by the court that made the order.
 
-### 6A. Documents accompanying deposit of funds in court by electronic means[^key-61764d790c7b88e68ed0a80014ec8cea]
+### 6A. Documents accompanying deposit of funds in court by electronic means[^c-61764d790c7b88e68ed0a80014ec8cea]
 
 (1) A fund may be deposited by electronic means where the Accountant General has so directed.
 
@@ -196,7 +196,7 @@ The Accountant General may appoint one or more persons to do anything that may b
   - (ii) an electronic sealed copy of the claim form; and
   - (iii) an electronic copy of the defence;
 - (c) where rule 6(4) applies, an electronic copy of a request sealed by a court;
-- (d)[^key-f48e5daa7808aa989bcd4be8d2d41746] where rule 6(5) applies—
+- (d)[^c-f48e5daa7808aa989bcd4be8d2d41746] where rule 6(5) applies—
   - (i) an electronic sealed copy of a deposit schedule; and
   - (ii) an electronic copy of the witness statement or affidavit filed in accordance with CPR rule 37.4;
 - (e) where rule 6(6) applies, either—
@@ -216,20 +216,20 @@ The Accountant General may appoint one or more persons to do anything that may b
   - (i) an electronic request to deposit; and
   - (ii) an electronic sealed copy of the order authorising the deposit of that currency.
 
-### 7. Deposit of funds[^key-e149c3f1c90fa5e8f3f0aa68efb70c0a]
+### 7. Deposit of funds[^c-e149c3f1c90fa5e8f3f0aa68efb70c0a]
 
 (1) Where a fund is to be deposited in court, it shall be sent to the Court Funds Office unless:
 
 - (a) it is deposited in accordance with rule 8; or
 - (b) the Accountant General directs otherwise.
 
-(2) Where the fund to be deposited at the Court Funds Office is money, it shall be deposited by means of a cheque or banker’s draft , or by electronic transfer where rule 6A(1) applies[^key-aa7688d8dee0c0c893cab0feec4dbaef].
+(2) Where the fund to be deposited at the Court Funds Office is money, it shall be deposited by means of a cheque or banker’s draft , or by electronic transfer where rule 6A(1) applies[^c-aa7688d8dee0c0c893cab0feec4dbaef].
 
 (3) Any cheque or banker’s draft shall be made payable to the Accountant General of the Senior Courts.
 
-### 8. Deposit of funds at a District Registry or county court or the County Court at Central London[^key-bd72dd2ce8cd0f0eed1079134452c532][^key-b48592bb36ca826be018a7adf5c7b31c]
+### 8. Deposit of funds at a District Registry or county court or the County Court at Central London[^c-bd72dd2ce8cd0f0eed1079134452c532][^c-b48592bb36ca826be018a7adf5c7b31c]
 
-(1) A fund may be deposited at a District Registry or county court or the County Court at Central London[^key-7c8801aeacb6f887a3f31645b3533af6] in accordance with this rule.
+(1) A fund may be deposited at a District Registry or county court or the County Court at Central London[^c-7c8801aeacb6f887a3f31645b3533af6] in accordance with this rule.
 
 (2) A fund may be deposited at a District Registry or county court:
 
@@ -244,23 +244,23 @@ The Accountant General may appoint one or more persons to do anything that may b
 - (b) as securities; or
 - (c) as cash, if deposited by a person without a current account.
 
-(5) In addition, a fund may be deposited as cash at the County Court at Central London[^key-5319ea86e7b74c0586a98e3c3d4c412e]:
+(5) In addition, a fund may be deposited as cash at the County Court at Central London[^c-5319ea86e7b74c0586a98e3c3d4c412e]:
 
 - (a) in respect of proceedings at the Royal Courts of Justice, by a litigant in person without a current account; or
 - (b) by a person who is required by or under an enactment to give security for costs in respect of proceedings for an election petition.
 
-(6) The Accountant General shall only accept a deposit made under this rule if the documents required under rule 6 , or rule 6A as the case may be,[^key-3c0b81e8bf9c8a6011f25f45f1c6bac0] are provided with the deposit.
+(6) The Accountant General shall only accept a deposit made under this rule if the documents required under rule 6 , or rule 6A as the case may be,[^c-3c0b81e8bf9c8a6011f25f45f1c6bac0] are provided with the deposit.
 
-(7) The District Registry, county court or the County Court at Central London[^key-1fd01b834f0c5d68bffc7cd67e2f2701], as the case may be, shall forward the deposit to the Accountant General within one working day of receipt, together with:
+(7) The District Registry, county court or the County Court at Central London[^c-1fd01b834f0c5d68bffc7cd67e2f2701], as the case may be, shall forward the deposit to the Accountant General within one working day of receipt, together with:
 
-- (a) any document provided to comply with rule 6 , or rule 6A as the case may be[^key-a6c37e06df7cb12c007878ab3809cec7]; and
+- (a) any document provided to comply with rule 6 , or rule 6A as the case may be[^c-a6c37e06df7cb12c007878ab3809cec7]; and
 - (b) confirmation of the date of receipt.
 
-### 9. Promissory notes[^key-c6e7c100ba2569297d9f2187a32bfd72]
+### 9. Promissory notes[^c-c6e7c100ba2569297d9f2187a32bfd72]
 
 A fund may not be deposited by way of a promissory note.
 
-### 10. Refusal to accept a deposit[^key-918796df867179ecf861d881c6f6ed09]
+### 10. Refusal to accept a deposit[^c-918796df867179ecf861d881c6f6ed09]
 
 The Accountant General shall refuse to accept a deposit if:
 
@@ -269,31 +269,31 @@ The Accountant General shall refuse to accept a deposit if:
 
 ## PART 3 — Accounts and investments
 
-### 11. Interest bearing accounts[^key-9456989c257940b663850180bce34228]
+### 11. Interest bearing accounts[^c-9456989c257940b663850180bce34228]
 
-(A1)[^key-a3e3db37cbd66745d412f3a20c0c7e4b] Paragraphs (1) to (3) apply to funds deposited in sterling.
+(A1)[^c-a3e3db37cbd66745d412f3a20c0c7e4b] Paragraphs (1) to (3) apply to funds deposited in sterling.
 
 (1) The Accountant General shall maintain two interest bearing accounts; a basic account and a special account.
 
-(1A)[^key-2de71ec3235a9acea944d7203304744f] Money shall not be invested in a special account unless it is money to which a child or person who lacks capacity is entitled.
+(1A)[^c-2de71ec3235a9acea944d7203304744f] Money shall not be invested in a special account unless it is money to which a child or person who lacks capacity is entitled.
 
 (2) The Accountant General shall invest money in a basic account unless:
 
 - (a) a court directs otherwise;
-- (b) it is invested in a special account; or[^key-a85743ddeeabb0d4a58fa59f3010cfad]
-- (c) it is transferred to an account of unclaimed funds .[^key-b0c95f2f3e8c16bbf560af8f1c1e490a]
-- (d)[^key-415be6a5652f052a2faa431e6fc7f818] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) it is invested in a special account; or[^c-a85743ddeeabb0d4a58fa59f3010cfad]
+- (c) it is transferred to an account of unclaimed funds .[^c-b0c95f2f3e8c16bbf560af8f1c1e490a]
+- (d)[^c-415be6a5652f052a2faa431e6fc7f818] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Subject to rule 12(2), the Accountant General shall invest money to which a child or person who lacks capacity is entitled in a special account unless:
 
 - (a) a court directs otherwise;
-- (b) a deputy or investment manager directs otherwise; or[^key-f3c82e91d42b2812cba8cf926ef731d5]
-- (c) it is transferred to an account of unclaimed funds .[^key-d131f34d234a2004d94df87a15fba850]
-- (d)[^key-019b6045ff3c25f9bfb68239d914092c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a deputy or investment manager directs otherwise; or[^c-f3c82e91d42b2812cba8cf926ef731d5]
+- (c) it is transferred to an account of unclaimed funds .[^c-d131f34d234a2004d94df87a15fba850]
+- (d)[^c-019b6045ff3c25f9bfb68239d914092c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-95dad7d04656294aaf45f7b8704338d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-95dad7d04656294aaf45f7b8704338d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2191def52c11dff0d48870827d5c62dc] Paragraphs (6) to (8) apply to funds deposited in foreign currency.
+(5)[^c-2191def52c11dff0d48870827d5c62dc] Paragraphs (6) to (8) apply to funds deposited in foreign currency.
 
 (6) The Accountant General shall invest money in accordance with any:
 
@@ -304,11 +304,11 @@ The Accountant General shall refuse to accept a deposit if:
 
 (8) Where it is not possible to invest money in any currency in which the fund is required to be invested by virtue of paragraph (6) or (7), the Accountant General shall apply to the appropriate court for directions.
 
-### 12. Transfer between accounts[^key-db2dfd8567789113dcccb2c508e9208f]
+### 12. Transfer between accounts[^c-db2dfd8567789113dcccb2c508e9208f]
 
 (1) Paragraph (2) applies where a child or person who lacks capacity has become entitled to money held in a basic account.
 
-(2) The Accountant General shall only transfer the money to a special account if provided with a payment schedule signed and authenticated by the court directing such transfer , or if the case is one where the Accountant General has directed that electronic means may be used, an electronic authenticated copy of the payment schedule from that court[^key-13421a92a95d9ec8591bdbe0167e97eb].
+(2) The Accountant General shall only transfer the money to a special account if provided with a payment schedule signed and authenticated by the court directing such transfer , or if the case is one where the Accountant General has directed that electronic means may be used, an electronic authenticated copy of the payment schedule from that court[^c-13421a92a95d9ec8591bdbe0167e97eb].
 
 (3) The transfer under paragraph (2) shall only take effect from the date on which the payment schedule is received by the Court Funds Office.
 
@@ -322,7 +322,7 @@ The Accountant General shall refuse to accept a deposit if:
 
 (6) The transfer under paragraph (5) shall take effect from the date on which the person died or ceased to be a child or a person who lacks capacity.
 
-### 13. Accrual of interest[^key-9cf68d79dd65c8934642632fc7361fff]
+### 13. Accrual of interest[^c-9cf68d79dd65c8934642632fc7361fff]
 
 (1) In this rule, the effective date means:
 
@@ -331,11 +331,11 @@ The Accountant General shall refuse to accept a deposit if:
 - (c) in the case of a deposit made under rule 8, the date of its receipt in the court office; or
 - (d) such other date as the Accountant General may determine.
 
-(2) Subject to paragraph (3) [^key-4b1bd06ac2d3401e51d80cea475ddb0e]..., interest shall accrue [^key-d652dcb45f858703b9f21f0d34a05207]... from the effective date until the day before money is withdrawn from the account.
+(2) Subject to paragraph (3) [^c-4b1bd06ac2d3401e51d80cea475ddb0e]..., interest shall accrue [^c-d652dcb45f858703b9f21f0d34a05207]... from the effective date until the day before money is withdrawn from the account.
 
-(3) Interest shall cease to accrue from the date on which a claimant accepts an offer under CPR Part 36 that is to be satisfied, in whole or in part, out of a fund in court under CPR rule 37.3[^key-32394d673252f2c7f39d46fe9008db6a].
+(3) Interest shall cease to accrue from the date on which a claimant accepts an offer under CPR Part 36 that is to be satisfied, in whole or in part, out of a fund in court under CPR rule 37.3[^c-32394d673252f2c7f39d46fe9008db6a].
 
-(3A)[^key-71bc80945d84910d80b9432bc83abb7c] The Accountant General shall credit accrued interest without deducting income tax.
+(3A)[^c-71bc80945d84910d80b9432bc83abb7c] The Accountant General shall credit accrued interest without deducting income tax.
 
 (3B) Paragraphs (3C) and (4) apply to funds deposited in sterling.
 
@@ -343,16 +343,16 @@ The Accountant General shall refuse to accept a deposit if:
 
 (4) Unless the Accountant General directs otherwise, accrued interest shall be credited:
 
-- (a) to a basic account, on 31 March and 30 September[^key-162bbe495320899f79b5b04d154c82de];
-- (b) to a special account, on 31 May and 30 November[^key-eedeb61422740c28953de2aba37ef749];
-- (c)[^key-0daefcd1b9e9345f58058654ef3e6174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) to a basic account, on 31 March and 30 September[^c-162bbe495320899f79b5b04d154c82de];
+- (b) to a special account, on 31 May and 30 November[^c-eedeb61422740c28953de2aba37ef749];
+- (c)[^c-0daefcd1b9e9345f58058654ef3e6174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) when money is transferred from a basic account to a special account;
 - (e) when money is transferred from a special account to a basic account; and
 - (f) when an account is closed.
 
-(5)[^key-d22998fe6562d724cecd71f9ca1bf6f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d22998fe6562d724cecd71f9ca1bf6f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-76de477b44a790f2113e68a28c24f9ee] Paragraphs (7) to (10) apply to funds deposited in foreign currency.
+(6)[^c-76de477b44a790f2113e68a28c24f9ee] Paragraphs (7) to (10) apply to funds deposited in foreign currency.
 
 (7) Interest shall accrue under the terms of the foreign currency account.
 
@@ -366,9 +366,9 @@ The Accountant General shall refuse to accept a deposit if:
 
 (10) Unless a court, deputy or investment manager directs otherwise, the Accountant General shall convert dividend payments received in a foreign currency into sterling and invest the proceeds in accordance with this Part.
 
-### 14. Investment[^key-c12db6b9956d7e4d0ba32897814afb30]
+### 14. Investment[^c-c12db6b9956d7e4d0ba32897814afb30]
 
-(1) Except where rule 15 applies, the Accountant General may only invest or reinvest a fund in court in sterling[^key-afeff45932662c1074aa6f68a87f41f6] in:
+(1) Except where rule 15 applies, the Accountant General may only invest or reinvest a fund in court in sterling[^c-afeff45932662c1074aa6f68a87f41f6] in:
 
 - (a) a basic account;
 - (b) a special account; or
@@ -381,7 +381,7 @@ The Accountant General shall refuse to accept a deposit if:
   - (i) a child who, on the date on which the investment policy is approved by a court, has 5 years or more until their 18th birthday; or
   - (ii) a person who lacks capacity who a court, deputy or investment manager has reason to believe will require the investment to be held for 5 years or more.
 
-### 15. Investment in securities[^key-1da0fb47acf7531cad0cdfe90e247738]
+### 15. Investment in securities[^c-1da0fb47acf7531cad0cdfe90e247738]
 
 (1) This rule applies where a fund in court was invested by the Accountant General in any of the following ways before 3rd October 2011 and remained so invested immediately before that date:
 
@@ -394,21 +394,21 @@ The Accountant General shall refuse to accept a deposit if:
 
 (3) The Accountant General may not invest or reinvest the fund in court in accordance with paragraph (2) if the cost would be disproportionate to the amount to be invested or reinvested.
 
-### 16. Foreign currency[^key-01fd001ecea8f4df9a8406f95d77b3b2]
+### 16. Foreign currency[^c-01fd001ecea8f4df9a8406f95d77b3b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Authority to direct investment[^key-3876908540272a3dae29a330a868056c]
+### 17. Authority to direct investment[^c-3876908540272a3dae29a330a868056c]
 
-(1) Subject to paragraph (2), the Accountant General shall invest or reinvest a fund in court in accordance with a written request (or, if the case is one where the Accountant General has directed that electronic means may be used, an electronic request)[^key-2ccf8fa0dd2b83e28deacd6e1d2836f9] from a court.
+(1) Subject to paragraph (2), the Accountant General shall invest or reinvest a fund in court in accordance with a written request (or, if the case is one where the Accountant General has directed that electronic means may be used, an electronic request)[^c-2ccf8fa0dd2b83e28deacd6e1d2836f9] from a court.
 
-(2) The Accountant General shall invest or reinvest a fund in court that is subject to an order of the Court of Protection in accordance with written directions (or, if the case is one where the Accountant General has directed that electronic means may be used, an electronic version of such directions)[^key-7f01461c0893df198fdc1aba03ce3850] from:
+(2) The Accountant General shall invest or reinvest a fund in court that is subject to an order of the Court of Protection in accordance with written directions (or, if the case is one where the Accountant General has directed that electronic means may be used, an electronic version of such directions)[^c-7f01461c0893df198fdc1aba03ce3850] from:
 
 - (a) the Court of Protection;
 - (b) a deputy; or
 - (c) an investment manager.
 
-(3) If a deputy appoints an investment manager, the deputy must send in writing (which includes, if the case is one where the Accountant General has directed that electronic means may be used, an electronic version)[^key-e083a09187794dad493a8737ebfae453] to the Accountant General:
+(3) If a deputy appoints an investment manager, the deputy must send in writing (which includes, if the case is one where the Accountant General has directed that electronic means may be used, an electronic version)[^c-e083a09187794dad493a8737ebfae453] to the Accountant General:
 
 - (a) authority for the investment manager to give directions for the investment of a fund in court; and
 - (b) contact details of the investment manager.
@@ -427,15 +427,15 @@ The Accountant General shall refuse to accept a deposit if:
 - (d) the Court of Protection has made a contrary direction; or
 - (e) there is any other good reason for not complying.
 
-### 18. Timing of investment[^key-d2f4d920c9e7b77cac0d217281d6ee26]
+### 18. Timing of investment[^c-d2f4d920c9e7b77cac0d217281d6ee26]
 
 The Accountant General shall comply with any order, direction or request for investment as soon as is practicable.
 
-### 19. Payment of charges when dealing with securities[^key-85c2ac8c319711740d4c4f5ca47b0cac]
+### 19. Payment of charges when dealing with securities[^c-85c2ac8c319711740d4c4f5ca47b0cac]
 
 Unless a court directs otherwise, the Accountant General shall pay any charge incurred when dealing with securities from the fund in court of the person on whose behalf the Accountant General is dealing.
 
-### 20. Conversion and allotment of securities[^key-f9d0270f07a60908c18a68f0ef382543]
+### 20. Conversion and allotment of securities[^c-f9d0270f07a60908c18a68f0ef382543]
 
 (1) Where nobody else is able to give directions, the Accountant General may apply to the appropriate court for directions on how to deal with a conversion or allotment of securities.
 
@@ -449,17 +449,17 @@ Unless a court directs otherwise, the Accountant General shall pay any charge in
 - (b) sell the allotment and credit the whole, or a proportionate part, of the proceeds of sale to the appropriate account or otherwise as the court may direct if the allotment is not fully paid; or
 - (c) sell any non-apportionable security and credit the proceeds to the appropriate account.
 
-### 21. Securities of a dissolved company[^key-b2fede80ee161c9280851a397b5a2658]
+### 21. Securities of a dissolved company[^c-b2fede80ee161c9280851a397b5a2658]
 
 The Accountant General shall write off the securities of any company that has been struck off the company register in the country in which the company is incorporated.
 
 ## PART 4 — Payment out from a fund in court
 
-### 22. Documents required for payment[^key-207c64e349d4ea17db7697729b496a66]
+### 22. Documents required for payment[^c-207c64e349d4ea17db7697729b496a66]
 
 (1) The general rule is that the Accountant General shall make a payment from a fund in court if provided with a payment schedule signed and authenticated by a court.
 
-(2)[^key-34fb51fbae97597ab6fb5ddd17852580] The general rule—
+(2)[^c-34fb51fbae97597ab6fb5ddd17852580] The general rule—
 
 - (a) applies subject to rule 22A; and
 - (b) does not apply if payment is made under one of the following paragraphs in this rule.
@@ -488,7 +488,7 @@ The Accountant General shall write off the securities of any company that has be
   - (i) a written request; and
   - (ii) a sealed copy of the court order authorising the payment.
 
-### 22A. Documents required for payment where payment requested by electronic means[^key-e414ca57519b4db6d6ae9db510d55a1d]
+### 22A. Documents required for payment where payment requested by electronic means[^c-e414ca57519b4db6d6ae9db510d55a1d]
 
 (1) A payment from a fund in court may be requested by electronic means where the Accountant General has so directed.
 
@@ -511,18 +511,18 @@ The Accountant General shall write off the securities of any company that has be
   - (i) an electronic request for payment; and
   - (ii) an electronic sealed copy of the order authorising the payment (unless the electronic request is authenticated by the court, in which case the additional document is not required).
 
-### 23. Interest on payments[^key-4cb31c73e6797a97045a139609ead41a]
+### 23. Interest on payments[^c-4cb31c73e6797a97045a139609ead41a]
 
-Where rule 22 or 22A[^key-4dac9eb39d0af705b0653bdc6bf2d36f] applies, the Accountant General shall deal with any interest in accordance with:
+Where rule 22 or 22A[^c-4dac9eb39d0af705b0653bdc6bf2d36f] applies, the Accountant General shall deal with any interest in accordance with:
 
 - (a) the payment schedule; or
 - (b) the other authority for payment.
 
-### 24. Payment to a representative of a deceased person[^key-285ee34212e7f04124c7b35d3d1940a6]
+### 24. Payment to a representative of a deceased person[^c-285ee34212e7f04124c7b35d3d1940a6]
 
 (1) This rule applies where a person entitled to a fund in court dies.
 
-(2) Where a grant of representation has been obtained, the Accountant General shall pay out the fund in court to the personal representative of the deceased if provided with either—[^key-6a5d50f49f141efe51d86f3e372debc0]
+(2) Where a grant of representation has been obtained, the Accountant General shall pay out the fund in court to the personal representative of the deceased if provided with either—[^c-6a5d50f49f141efe51d86f3e372debc0]
 
 - (a)
   - (i) a written request; and
@@ -533,15 +533,15 @@ Where rule 22 or 22A[^key-4dac9eb39d0af705b0653bdc6bf2d36f] applies, the Account
 
 (3) Where a grant of representation has been obtained by two or more persons, the Accountant General shall only pay out the fund in court if provided with:
 
-- (a) the documents required under paragraph (2) and either—[^key-3042d99c0f3312daeaece0bddee496be]
-- (b)[^key-f4e4a65ee098c976a93491f97839d391]
+- (a) the documents required under paragraph (2) and either—[^c-3042d99c0f3312daeaece0bddee496be]
+- (b)[^c-f4e4a65ee098c976a93491f97839d391]
   - (i) the written consent of each living person named as a personal representative in the grant of representation; and
   - (ii) a copy of the death certificate of any deceased person who was named as a personal representative in the grant of representation; or
 - (c) where rule 22A(1) applies—
   - (i) the electronically completed consent of each living person named as a personal representative in the grant of representation; and
   - (ii) an electronic copy of the death certificate of any deceased person who was named as a personal representative in the grant of representation.
 
-(4) Where the value of the estate is less than £5,000 and the person dies testate, the Accountant General shall pay out the fund in court to the person who claims to have the right to a grant of probate if provided with either—[^key-58ceae1aaccdd106b625dd451afbb491]
+(4) Where the value of the estate is less than £5,000 and the person dies testate, the Accountant General shall pay out the fund in court to the person who claims to have the right to a grant of probate if provided with either—[^c-58ceae1aaccdd106b625dd451afbb491]
 
 - (a)
   - (i) a written request;
@@ -554,15 +554,15 @@ Where rule 22 or 22A[^key-4dac9eb39d0af705b0653bdc6bf2d36f] applies, the Account
 
 (5) Where the value of the estate is less than £5,000 and two or more persons have a right to a grant of probate, the Accountant General shall only pay out the fund in court if provided with:
 
-- (a) the documents required under paragraph (4) and either—[^key-8e49b20fc2aadb04cc775f1600152309]
-- (b)[^key-9fc59fa2fdfe8be6b735ef26a4f9509a]
+- (a) the documents required under paragraph (4) and either—[^c-8e49b20fc2aadb04cc775f1600152309]
+- (b)[^c-9fc59fa2fdfe8be6b735ef26a4f9509a]
   - (i) the written consent of each living person named as an executor in the deceased’s will; and
   - (ii) a copy of the death certificate of any deceased person who was named as an executor in the deceased’s will; or
 - (c) where rule 22A(1) applies—
   - (i) the electronically completed consent of each living person named as an executor in the deceased’s will; and
   - (ii) an electronic copy of the death certificate of any deceased person who was named as an executor in the deceased’s will.
 
-(6) Where the value of the estate is less than £5,000 and the person dies intestate, the Accountant General shall pay out the fund in court to the person who claims to have a prior right to a grant of letters of administration if provided with either—[^key-c7583577f1ae5e8100c45c700feabcc6]
+(6) Where the value of the estate is less than £5,000 and the person dies intestate, the Accountant General shall pay out the fund in court to the person who claims to have a prior right to a grant of letters of administration if provided with either—[^c-c7583577f1ae5e8100c45c700feabcc6]
 
 - (a)
   - (i) a written request;
@@ -575,8 +575,8 @@ Where rule 22 or 22A[^key-4dac9eb39d0af705b0653bdc6bf2d36f] applies, the Account
 
 (7) Where the value of the estate is less than £5,000 and two or more persons claim to have a prior right to a grant of letters of administration, the Accountant General shall only pay out the fund in court if provided with:
 
-- (a) the documents required under paragraph (6) and either—[^key-7dc595716c0cd87bdf2c98fa2a9efd2f]
-- (b)[^key-dbbd53e8d2e700ac20718f0c9a036736]
+- (a) the documents required under paragraph (6) and either—[^c-7dc595716c0cd87bdf2c98fa2a9efd2f]
+- (b)[^c-dbbd53e8d2e700ac20718f0c9a036736]
   - (i) the written consent of each person who appears to have a prior right to a grant of letters of administration; and
   - (ii) a written declaration of kinship of each such person; or
 - (c) where rule 22A(1) applies—
@@ -584,11 +584,11 @@ Where rule 22 or 22A[^key-4dac9eb39d0af705b0653bdc6bf2d36f] applies, the Account
   - (ii) an electronic copy of the declaration of kinship of each such person.
 - (c) a written declaration of kinship of each such person.
 
-### 25. Payment of funeral expenses[^key-2bd8836816be475b620869a6d6c7a347]
+### 25. Payment of funeral expenses[^c-2bd8836816be475b620869a6d6c7a347]
 
 (1) This rule applies where a person who is entitled to a fund in court and subject to an order of the Court of Protection dies.
 
-(2) The Accountant General shall make a payment from the fund in court of the deceased to a funeral director in respect of reasonable funeral expenses if provided with either—[^key-d20f13b6f62ea3df359a4eb1dbe64c67]
+(2) The Accountant General shall make a payment from the fund in court of the deceased to a funeral director in respect of reasonable funeral expenses if provided with either—[^c-d20f13b6f62ea3df359a4eb1dbe64c67]
 
 - (a)
   - (i) a funeral invoice; and
@@ -601,11 +601,11 @@ Where rule 22 or 22A[^key-4dac9eb39d0af705b0653bdc6bf2d36f] applies, the Account
     - (aa) an executor of the deceased’s estate; or
     - (bb) if the deceased died intestate, the person who arranged the funeral.
 
-### 26. Payment of inheritance tax[^key-bf398eb5c83370b2e99ff397fadd11e3]
+### 26. Payment of inheritance tax[^c-bf398eb5c83370b2e99ff397fadd11e3]
 
 (1) This rule applies where a person who is entitled to a fund in court and subject to an order of the Court of Protection dies.
 
-(2) The Accountant General shall make a payment from the fund in court of the deceased to Her Majesty’s Revenue and Customs in respect of all or part of the inheritance tax due on the deceased’s estate if provided with either—[^key-7b9718eb0d19cdf874b511541c393c13]
+(2) The Accountant General shall make a payment from the fund in court of the deceased to Her Majesty’s Revenue and Customs in respect of all or part of the inheritance tax due on the deceased’s estate if provided with either—[^c-7b9718eb0d19cdf874b511541c393c13]
 
 - (a)
   - (i) the completed relevant form from His Majesty’s Revenue and Customs; and
@@ -618,7 +618,7 @@ Where rule 22 or 22A[^key-4dac9eb39d0af705b0653bdc6bf2d36f] applies, the Account
     - (aa) an executor of the deceased’s estate; or
     - (bb) if the deceased died intestate, a person who appears to have a prior right to a grant of letters of administration of the estate.
 
-### 27. Payment under CPR rule 37.3 (payment out of money paid into court)[^key-24ba80536b0f04b821ef3418225070b5]
+### 27. Payment under CPR rule 37.3 (payment out of money paid into court)[^c-24ba80536b0f04b821ef3418225070b5]
 
 (1) This rule applies where—
 
@@ -643,38 +643,38 @@ Where rule 22 or 22A[^key-4dac9eb39d0af705b0653bdc6bf2d36f] applies, the Account
   - (i) the notice of discontinuance; and
   - (ii) the written consent to the discontinuance of each of those defendants.
 
-### 28. Payment where the claimant’s legal representation has been funded by the Legal Services Commission or provided under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-43a801a65aa7b981b599504c94a767f8][^key-eb3140b61ecdc84177ee1b247f79d08c]
+### 28. Payment where the claimant’s legal representation has been funded by the Legal Services Commission or provided under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-43a801a65aa7b981b599504c94a767f8][^c-eb3140b61ecdc84177ee1b247f79d08c]
 
 (1) This rule applies where:
 
-- (a) a payment is to be made to a claimant out of a fund in court under CPR rule 37.3[^key-e74c234ff6ce2526a754c5766fb5f95b];
-- (b) the claimant’s legal representation has been funded by the Legal Services Commission or provided under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-582ba9b0502c5d6815b44d398f6faf1b]; and
-- (c) regulation 18(1) of the Community Legal Services (Costs) Regulations 2000[^f00010] or regulation 13(1) of the Civil Legal Aid (Statutory Charge) Regulations 2013[^key-e2348bb002d6ec5db53bdddb734ca28e] applies to the fund in court.
+- (a) a payment is to be made to a claimant out of a fund in court under CPR rule 37.3[^c-e74c234ff6ce2526a754c5766fb5f95b];
+- (b) the claimant’s legal representation has been funded by the Legal Services Commission or provided under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-582ba9b0502c5d6815b44d398f6faf1b]; and
+- (c) regulation 18(1) of the Community Legal Services (Costs) Regulations 2000[^f00010] or regulation 13(1) of the Civil Legal Aid (Statutory Charge) Regulations 2013[^c-e2348bb002d6ec5db53bdddb734ca28e] applies to the fund in court.
 
-(2) Where the claimant is legally represented, the Accountant General shall pay the amount to be paid out under rule 27(2) [^key-cf5855db82cac22d17d46c6820c5a52c]... to the claimant’s legal representative.
+(2) Where the claimant is legally represented, the Accountant General shall pay the amount to be paid out under rule 27(2) [^c-cf5855db82cac22d17d46c6820c5a52c]... to the claimant’s legal representative.
 
-(3) Where the claimant is no longer legally represented, the Accountant General shall only make a payment from a fund in court if provided with a payment schedule signed and authenticated by a court , or if the case is one where the Accountant General has directed that electronic means may be used, an electronic authenticated copy of such schedule from that court[^key-0c1beb2b4903390948f6ed392324db5c].
+(3) Where the claimant is no longer legally represented, the Accountant General shall only make a payment from a fund in court if provided with a payment schedule signed and authenticated by a court , or if the case is one where the Accountant General has directed that electronic means may be used, an electronic authenticated copy of such schedule from that court[^c-0c1beb2b4903390948f6ed392324db5c].
 
-### 29. Remaining balance[^key-46c9d06603cd632e467bf2f118c9b623]
+### 29. Remaining balance[^c-46c9d06603cd632e467bf2f118c9b623]
 
-The remaining balance of a fund in court (if any) after a payment under rule 27 or 28(2) shall be paid out in accordance with rule 22 or 22A[^key-bb3fbb2cbbeae31768999d1f2a824a88].
+The remaining balance of a fund in court (if any) after a payment under rule 27 or 28(2) shall be paid out in accordance with rule 22 or 22A[^c-bb3fbb2cbbeae31768999d1f2a824a88].
 
-### 30. Time for making payments[^key-ced5e4d5da3ba6e00344ee9406859de9]
+### 30. Time for making payments[^c-ced5e4d5da3ba6e00344ee9406859de9]
 
 The Accountant General shall make any payment as soon as practicable after receipt of:
 
 - (a) the payment schedule; or
 - (b) the other authority for payment.
 
-### 31. Regular payments[^key-932d70c7e1b6ca802c24b20fe402b093]
+### 31. Regular payments[^c-932d70c7e1b6ca802c24b20fe402b093]
 
 Where a payment schedule directs that regular payments are to be made, the payment schedule shall state the dates on which the payments shall be made.
 
-### 32. Method of payment[^key-1447ce9bee0851dc2d4ed0a957438f95]
+### 32. Method of payment[^c-1447ce9bee0851dc2d4ed0a957438f95]
 
 (1) In this rule:
 
-- “BACS” means the method of payment known as “Bankers’[^key-ab2386243b9627f04a089bb5c851659a] Automated Clearing System” by which money is transferred from one bank in the United Kingdom to another; and
+- “BACS” means the method of payment known as “Bankers’[^c-ab2386243b9627f04a089bb5c851659a] Automated Clearing System” by which money is transferred from one bank in the United Kingdom to another; and
 - “**International money transfer**” means a method of payment in which money is transferred from a bank in the United Kingdom to a bank outside the United Kingdom by means of an automated system.
 
 (2) Unless the Accountant General directs otherwise, payment out from a fund in court shall be made by:
@@ -686,13 +686,13 @@ Where a payment schedule directs that regular payments are to be made, the payme
 
 (3) The Accountant General may deduct any charges incurred in paying money out of court from the fund in court from which the payment was made.
 
-### 33. Dealing with a fund in court before the receipt of a payment schedule[^key-31b963408fffb515533dc7442bcacada]
+### 33. Dealing with a fund in court before the receipt of a payment schedule[^c-31b963408fffb515533dc7442bcacada]
 
 (1) Paragraph 2 applies where the Accountant General has dealt with a fund in court after the date of a court order but before the receipt of the related payment schedule.
 
 (2) The Accountant General shall, if reasonably practicable, deal with an asset that is not mentioned in the payment schedule in accordance with the payment schedule.
 
-### 34. Refusal to make a payment[^key-f18dfa4ed92d9e0a9ee1a36a8ee562fa]
+### 34. Refusal to make a payment[^c-f18dfa4ed92d9e0a9ee1a36a8ee562fa]
 
 The Accountant General may not make a payment if:
 
@@ -701,7 +701,7 @@ The Accountant General may not make a payment if:
 - (c) the person requesting payment has not complied with these Rules; or
 - (d) there is any other good reason not to do so.
 
-### 35. Identification of payees[^key-78e01b0ec3f6aa600f354dc7abe331ca]
+### 35. Identification of payees[^c-78e01b0ec3f6aa600f354dc7abe331ca]
 
 (1) If the Accountant General, in accordance with rule 34(a), does not make a payment, the Accountant General may require the personal attendance of the person claiming to be entitled to the payment at a court in order to provide evidence of their identity or entitlement.
 
@@ -709,7 +709,7 @@ The Accountant General may not make a payment if:
 
 ## PART 5 — Unclaimed funds in court
 
-### 36. Transfer to the unclaimed funds account[^key-6610c6c47f7f5914922211a914537099]
+### 36. Transfer to the unclaimed funds account[^c-6610c6c47f7f5914922211a914537099]
 
 (1) The Accountant General may transfer an unclaimed fund in court to an account of unclaimed funds.
 
@@ -722,39 +722,39 @@ The Accountant General may not make a payment if:
 
 (3) Where a fund in court is held on behalf of a child and the child’s date of birth is known, paragraph (2)(a) shall not apply until the child’s 18th birthday.
 
-### 37. Disposal of unclaimed securities and effects[^key-7c58d017329e0bf289604e1c6cb7cd06]
+### 37. Disposal of unclaimed securities and effects[^c-7c58d017329e0bf289604e1c6cb7cd06]
 
 (1) The Accountant General may sell any unclaimed securities (including common investment fund units) or effects to be transferred under rule 36 and pay the proceeds into an account of unclaimed funds.
 
 (2) The Accountant General shall write off any securities or effects transferred under rule 36 which have no value.
 
-### 38. Converting unclaimed foreign currency[^key-b5fd58f4f21bbe2df34e0a1c8e091248]
+### 38. Converting unclaimed foreign currency[^c-b5fd58f4f21bbe2df34e0a1c8e091248]
 
 The Accountant General shall convert any foreign currency to be transferred under rule 36 into sterling and pay the proceeds into an account of unclaimed funds.
 
-### 39. Unclaimed county court money[^key-9422b07b7226cd7cf4acb0cb57f62f65]
+### 39. Unclaimed county court money[^c-9422b07b7226cd7cf4acb0cb57f62f65]
 
 (1) Money paid into a county court other than under rule 8 may be treated as unclaimed if it has not been dealt with for a period of one year immediately before 1st March in any year.
 
-(2) The Accountant General shall accept a deposit of money treated by a county court as unclaimed under paragraph (1) if provided with a written (or, if the case is one where the Accountant General has directed that electronic means may be used, electronic)[^key-17434dda6d7272b08f41d0c5952ed53e] request from an officer of that court.
+(2) The Accountant General shall accept a deposit of money treated by a county court as unclaimed under paragraph (1) if provided with a written (or, if the case is one where the Accountant General has directed that electronic means may be used, electronic)[^c-17434dda6d7272b08f41d0c5952ed53e] request from an officer of that court.
 
 (3) The Accountant General shall place money that has been deposited under paragraph (2) to an account of unclaimed funds.
 
 (4) Each county court shall maintain a list of monies deposited under paragraph (2), which may be inspected at that court’s office.
 
-### 40. List of unclaimed funds in court and money[^key-2a2b8dfce0025d4c1172e2512ca37428]
+### 40. List of unclaimed funds in court and money[^c-2a2b8dfce0025d4c1172e2512ca37428]
 
 The Accountant General shall maintain a list of funds in court transferred under rule 36(1) and of money deposited under rule 39(2).
 
-### 41. Payment out of an unclaimed funds account[^key-342f5b1879693dd538b7343c4dc8262f]
+### 41. Payment out of an unclaimed funds account[^c-342f5b1879693dd538b7343c4dc8262f]
 
-(1) The Accountant General shall make a payment out of an account of unclaimed funds if provided with a payment schedule signed and authenticated by a court , or if the case is one where the Accountant General has directed that electronic means may be used, an electronic authenticated copy of such schedule from that court[^key-e07d309d55a9ae6a4d5aaba7e8b17260].
+(1) The Accountant General shall make a payment out of an account of unclaimed funds if provided with a payment schedule signed and authenticated by a court , or if the case is one where the Accountant General has directed that electronic means may be used, an electronic authenticated copy of such schedule from that court[^c-e07d309d55a9ae6a4d5aaba7e8b17260].
 
 (2) Subject to paragraph (3), money paid out of an account of unclaimed funds shall be credited with simple interest at the rate of interest payable on a basic account at the date of payment, from the date on which the money was transferred to an account of unclaimed funds.
 
 (3) The Accountant General may not credit any interest to unclaimed money deposited under rule 39(2).
 
-### 41A. Transfer of unclaimed funds to the Consolidated Fund[^key-94b2fff7853948925be74be2d2627a78]
+### 41A. Transfer of unclaimed funds to the Consolidated Fund[^c-94b2fff7853948925be74be2d2627a78]
 
 (1) Subject to paragraphs (4) and (5), the Accountant General shall pay into the Consolidated Fund any fund which has been vested in the Accountant General under section 38(1) of the Administration of Justice Act 1982 for more than 30 years immediately preceding the date of payment, if the conditions in paragraph (2) are fulfilled in relation to that fund.
 
@@ -777,14 +777,14 @@ The Accountant General shall maintain a list of funds in court transferred under
 
 ## PART 6 — Miscellaneous provisions
 
-### 42. Information about a fund in court[^key-d4939f324f50e9e1fff7694303c5f57c]
+### 42. Information about a fund in court[^c-d4939f324f50e9e1fff7694303c5f57c]
 
 The Accountant General shall, on receipt of a request in writing, provide information about a fund in court to:
 
 - (a) a person who is entitled to the fund in court; or
 - (b) a person who the Accountant General considers to have a valid reason for requesting the information.
 
-### 43. Statement of account[^key-ce7a32422740d0fdc43e3bd9250ac47a]
+### 43. Statement of account[^c-ce7a32422740d0fdc43e3bd9250ac47a]
 
 (1) Paragraph (2) applies where a child or a person who lacks capacity is entitled to a fund in court.
 
@@ -793,7 +793,7 @@ The Accountant General shall, on receipt of a request in writing, provide inform
 - (a) on an annual basis; and
 - (b) at such other times as the Accountant General considers appropriate.
 
-### 44. Court’s obligations in respect of deposit and payment schedules[^key-f9a1741509e7b294b2bbd5940b21829d]
+### 44. Court’s obligations in respect of deposit and payment schedules[^c-f9a1741509e7b294b2bbd5940b21829d]
 
 (1) Where an order has been made in respect of a fund in court, an officer of the court which made the order shall:
 
@@ -805,11 +805,11 @@ The Accountant General shall, on receipt of a request in writing, provide inform
 - (a) sign and seal the amendment; and
 - (b) send it to the Accountant General.
 
-### 45. Transfer between courts[^key-3ec61dddbbe4e3b3cd2f4e07ac6c9df6]
+### 45. Transfer between courts[^c-3ec61dddbbe4e3b3cd2f4e07ac6c9df6]
 
 Where proceedings in which a fund has been deposited in court are transferred to another court, the court to which the proceedings are transferred must notify the Accountant General of the transfer.
 
-### 46. National Debt Commissioners[^key-cfeb318d79ad55663ada9899865441bc]
+### 46. National Debt Commissioners[^c-cfeb318d79ad55663ada9899865441bc]
 
 (1) The Accountant General shall transfer to the National Debt Commissioners:
 
@@ -842,7 +842,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 13th July 2011
 
-## SCHEDULE — Revocation Schedule[^key-6173729ca652241ee774634f9a9d9d38]
+## SCHEDULE — Revocation Schedule[^c-6173729ca652241ee774634f9a9d9d38]
 
 Rule 1
 
@@ -884,244 +884,244 @@ Part 6 contains miscellaneous provisions including how to obtain information on 
 
 [^f00001]: Footnote: [1982 c.53](https://www.legislation.gov.uk/ukpga/1982/53).
 
-[^key-67f60285ddcf820a1e36029525cec796]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2011/1734/rule/1) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-67f60285ddcf820a1e36029525cec796]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2011/1734/rule/1) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-4b1e924ac55d482f92d8c437207b29a4]: Commencement: Rule 2 in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-4b1e924ac55d482f92d8c437207b29a4]: Commencement: Rule 2 in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-a87040ca09590edf6676ee74b3f36d92]: Textual amendment: Word in rule 2(b)(iii) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [133(a)](https://www.legislation.gov.uk/uksi/2014/879/article/133/a)
+[^c-a87040ca09590edf6676ee74b3f36d92]: Textual amendment: Word in rule 2(b)(iii) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [133(a)](https://www.legislation.gov.uk/uksi/2014/879/article/133/a)
 
-[^key-ed5d25de408262e5634f5215e3a865c1]: Textual amendment: Word in rule 2(b)(iv) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [133(b)](https://www.legislation.gov.uk/uksi/2014/879/article/133/b)
+[^c-ed5d25de408262e5634f5215e3a865c1]: Textual amendment: Word in rule 2(b)(iv) substituted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [133(b)](https://www.legislation.gov.uk/uksi/2014/879/article/133/b)
 
-[^key-7b4decc73686c32bd27c0b357799e8d1]: Textual amendment: Rule 2(b)(v) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [133(c)](https://www.legislation.gov.uk/uksi/2014/879/article/133/c)
+[^c-7b4decc73686c32bd27c0b357799e8d1]: Textual amendment: Rule 2(b)(v) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [133(c)](https://www.legislation.gov.uk/uksi/2014/879/article/133/c)
 
-[^key-0314077b6a87b98e96ffa5e73b6f091c]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2011/1734/rule/3) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-0314077b6a87b98e96ffa5e73b6f091c]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2011/1734/rule/3) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
 [^f00002]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 
-[^key-69f251a42fbe1e7036829b7ec2429179]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/3/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/3/a)
+[^c-69f251a42fbe1e7036829b7ec2429179]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/3/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/3/a)
 
 [^f00003]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-d95f4d54c11c75387f1af4c0596c54b5]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/3/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/3/b)
+[^c-d95f4d54c11c75387f1af4c0596c54b5]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/3/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/3/b)
 
 [^f00004]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-7b69caa171dd416974afbbcc2b768444]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2011/1734/rule/4) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-7b69caa171dd416974afbbcc2b768444]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2011/1734/rule/4) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-b7ba0b493132a960a20a83e2303b818c]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2011/1734/rule/5) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-b7ba0b493132a960a20a83e2303b818c]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2011/1734/rule/5) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-00264341bfc52c806df23b79f3e4ba6b]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2011/1734/rule/6) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-00264341bfc52c806df23b79f3e4ba6b]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2011/1734/rule/6) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-986ab5b6ab0334527b4237e29e6a1fc4]: Textual amendment: [Rule 6(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/6/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/4/a)
+[^c-986ab5b6ab0334527b4237e29e6a1fc4]: Textual amendment: [Rule 6(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/6/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/4/a)
 
 [^f00005]: Footnote: [1896 c.8](https://www.legislation.gov.uk/ukpga/1896/8).
 
 [^f00006]: Footnote: [1925 c.19](https://www.legislation.gov.uk/ukpga/1925/19).
 
-[^key-437c6c76d2a7e2a91bd779c4310dde0b]: Textual amendment: Word in [rule 6(10)](https://www.legislation.gov.uk/uksi/2011/1734/rule/6/10) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/4/b)
+[^c-437c6c76d2a7e2a91bd779c4310dde0b]: Textual amendment: Word in [rule 6(10)](https://www.legislation.gov.uk/uksi/2011/1734/rule/6/10) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/4/b)
 
-[^key-3b3d489cead2612df1df4bf12a09d5dc]: Textual amendment: Word in [rule 6(11)](https://www.legislation.gov.uk/uksi/2011/1734/rule/6/11) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/4/c)
+[^c-3b3d489cead2612df1df4bf12a09d5dc]: Textual amendment: Word in [rule 6(11)](https://www.legislation.gov.uk/uksi/2011/1734/rule/6/11) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/4/c)
 
-[^key-61764d790c7b88e68ed0a80014ec8cea]: Textual amendment: [Rule 6A](https://www.legislation.gov.uk/uksi/2011/1734/rule/6A) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2023/987/rule/5)
+[^c-61764d790c7b88e68ed0a80014ec8cea]: Textual amendment: [Rule 6A](https://www.legislation.gov.uk/uksi/2011/1734/rule/6A) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2023/987/rule/5)
 
-[^key-f48e5daa7808aa989bcd4be8d2d41746]: Textual amendment: [Rule 6A(3)(d)](https://www.legislation.gov.uk/uksi/2011/1734/rule/6A/3/d) substituted (1.2.2024) by [The Court Funds (Amendment No. 2) Rules 2023 (S.I. 2023/1356)](https://www.legislation.gov.uk/uksi/2023/1356), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/1356/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1356/rule/2/2)
+[^c-f48e5daa7808aa989bcd4be8d2d41746]: Textual amendment: [Rule 6A(3)(d)](https://www.legislation.gov.uk/uksi/2011/1734/rule/6A/3/d) substituted (1.2.2024) by [The Court Funds (Amendment No. 2) Rules 2023 (S.I. 2023/1356)](https://www.legislation.gov.uk/uksi/2023/1356), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/1356/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1356/rule/2/2)
 
-[^key-e149c3f1c90fa5e8f3f0aa68efb70c0a]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2011/1734/rule/7) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-e149c3f1c90fa5e8f3f0aa68efb70c0a]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2011/1734/rule/7) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-aa7688d8dee0c0c893cab0feec4dbaef]: Textual amendment: Words in [rule 7(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/7/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2023/987/rule/6)
+[^c-aa7688d8dee0c0c893cab0feec4dbaef]: Textual amendment: Words in [rule 7(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/7/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2023/987/rule/6)
 
-[^key-bd72dd2ce8cd0f0eed1079134452c532]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2011/1734/rule/8) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-bd72dd2ce8cd0f0eed1079134452c532]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2011/1734/rule/8) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-b48592bb36ca826be018a7adf5c7b31c]: Textual amendment: Words in [rule 8](https://www.legislation.gov.uk/uksi/2011/1734/rule/8) heading substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/a/i)
+[^c-b48592bb36ca826be018a7adf5c7b31c]: Textual amendment: Words in [rule 8](https://www.legislation.gov.uk/uksi/2011/1734/rule/8) heading substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/a/i)
 
-[^key-7c8801aeacb6f887a3f31645b3533af6]: Textual amendment: Words in [rule 8(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/1) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/a/ii)
+[^c-7c8801aeacb6f887a3f31645b3533af6]: Textual amendment: Words in [rule 8(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/1) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/a/ii)
 
-[^key-5319ea86e7b74c0586a98e3c3d4c412e]: Textual amendment: Words in [rule 8(5)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/5) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/a/ii)
+[^c-5319ea86e7b74c0586a98e3c3d4c412e]: Textual amendment: Words in [rule 8(5)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/5) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/a/ii)
 
-[^key-3c0b81e8bf9c8a6011f25f45f1c6bac0]: Textual amendment: Words in [rule 8(6)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/6) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/b)
+[^c-3c0b81e8bf9c8a6011f25f45f1c6bac0]: Textual amendment: Words in [rule 8(6)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/6) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/b)
 
-[^key-1fd01b834f0c5d68bffc7cd67e2f2701]: Textual amendment: Words in [rule 8(7)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/7) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/a/ii)
+[^c-1fd01b834f0c5d68bffc7cd67e2f2701]: Textual amendment: Words in [rule 8(7)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/7) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/a/ii)
 
-[^key-a6c37e06df7cb12c007878ab3809cec7]: Textual amendment: Words in [rule 8(7)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/7) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/c)
+[^c-a6c37e06df7cb12c007878ab3809cec7]: Textual amendment: Words in [rule 8(7)](https://www.legislation.gov.uk/uksi/2011/1734/rule/8/7) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/7/c)
 
-[^key-c6e7c100ba2569297d9f2187a32bfd72]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2011/1734/rule/9) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-c6e7c100ba2569297d9f2187a32bfd72]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2011/1734/rule/9) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-918796df867179ecf861d881c6f6ed09]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2011/1734/rule/10) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-918796df867179ecf861d881c6f6ed09]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2011/1734/rule/10) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-9456989c257940b663850180bce34228]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2011/1734/rule/11) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-9456989c257940b663850180bce34228]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2011/1734/rule/11) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-a3e3db37cbd66745d412f3a20c0c7e4b]: Textual amendment: [Rule 11(A1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/A1) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/1275/rule/3/a)
+[^c-a3e3db37cbd66745d412f3a20c0c7e4b]: Textual amendment: [Rule 11(A1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/A1) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/1275/rule/3/a)
 
-[^key-2de71ec3235a9acea944d7203304744f]: Textual amendment: [Rule 11(1A)](https://www.legislation.gov.uk/uksi/2011/1734/article/11/1A) inserted (29.6.2026) by [The Court Funds (Amendment) Rules 2026 (S.I. 2026/593)](https://www.legislation.gov.uk/uksi/2026/593), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/593/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/593/rule/3/a)
+[^c-2de71ec3235a9acea944d7203304744f]: Textual amendment: [Rule 11(1A)](https://www.legislation.gov.uk/uksi/2011/1734/article/11/1A) inserted (29.6.2026) by [The Court Funds (Amendment) Rules 2026 (S.I. 2026/593)](https://www.legislation.gov.uk/uksi/2026/593), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/593/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/593/rule/3/a)
 
-[^key-a85743ddeeabb0d4a58fa59f3010cfad]: Textual amendment: Word in [rule 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/2/b) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(a)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/a/i)
+[^c-a85743ddeeabb0d4a58fa59f3010cfad]: Textual amendment: Word in [rule 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/2/b) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(a)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/a/i)
 
-[^key-b0c95f2f3e8c16bbf560af8f1c1e490a]: Textual amendment: [Rule 11(2)(c)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/2/c): full stop substituted for word (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/a/ii)
+[^c-b0c95f2f3e8c16bbf560af8f1c1e490a]: Textual amendment: [Rule 11(2)(c)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/2/c): full stop substituted for word (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/a/ii)
 
-[^key-415be6a5652f052a2faa431e6fc7f818]: Textual amendment: [Rule 11(2)(d)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/2/d) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(a)(iii)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/a/iii)
+[^c-415be6a5652f052a2faa431e6fc7f818]: Textual amendment: [Rule 11(2)(d)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/2/d) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(a)(iii)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/a/iii)
 
-[^key-f3c82e91d42b2812cba8cf926ef731d5]: Textual amendment: Word in [rule 11(3)(b)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/3/b) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/b/i)
+[^c-f3c82e91d42b2812cba8cf926ef731d5]: Textual amendment: Word in [rule 11(3)(b)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/3/b) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/b/i)
 
-[^key-d131f34d234a2004d94df87a15fba850]: Textual amendment: [Rule 11(3)(c)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/3/c): full stop substituted for word (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/b/ii)
+[^c-d131f34d234a2004d94df87a15fba850]: Textual amendment: [Rule 11(3)(c)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/3/c): full stop substituted for word (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/b/ii)
 
-[^key-019b6045ff3c25f9bfb68239d914092c]: Textual amendment: [Rule 11(3)(d)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/3/d) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(b)(iii)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/b/iii)
+[^c-019b6045ff3c25f9bfb68239d914092c]: Textual amendment: [Rule 11(3)(d)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/3/d) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(b)(iii)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/b/iii)
 
-[^key-95dad7d04656294aaf45f7b8704338d3]: Textual amendment: [Rule 11(4)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/4) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/c)
+[^c-95dad7d04656294aaf45f7b8704338d3]: Textual amendment: [Rule 11(4)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/4) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/8/c)
 
-[^key-2191def52c11dff0d48870827d5c62dc]: Textual amendment: [Rule 11(5)-(8)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/5) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/1275/rule/3/b)
+[^c-2191def52c11dff0d48870827d5c62dc]: Textual amendment: [Rule 11(5)-(8)](https://www.legislation.gov.uk/uksi/2011/1734/rule/11/5) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/1275/rule/3/b)
 
-[^key-db2dfd8567789113dcccb2c508e9208f]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2011/1734/rule/12) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-db2dfd8567789113dcccb2c508e9208f]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2011/1734/rule/12) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-13421a92a95d9ec8591bdbe0167e97eb]: Textual amendment: Words in [rule 12(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/12/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2023/987/rule/9)
+[^c-13421a92a95d9ec8591bdbe0167e97eb]: Textual amendment: Words in [rule 12(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/12/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2023/987/rule/9)
 
-[^key-9cf68d79dd65c8934642632fc7361fff]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2011/1734/rule/13) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-9cf68d79dd65c8934642632fc7361fff]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2011/1734/rule/13) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
 [^f00008]: Footnote: Section 38(2) of the Administration of Justice Act [1982 (c.53)](https://www.legislation.gov.uk/ukpga/1982/53) provides that one or more accounts shall be opened and kept in the name of the Accountant General at such bank or banks as may be designated by the Lord Chancellor with the concurrence of the Treasury.
 
-[^key-4b1bd06ac2d3401e51d80cea475ddb0e]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2011/1734/article/13/2) omitted (19.1.2026) by virtue of [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/a/i)
+[^c-4b1bd06ac2d3401e51d80cea475ddb0e]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2011/1734/article/13/2) omitted (19.1.2026) by virtue of [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/a/i)
 
-[^key-d652dcb45f858703b9f21f0d34a05207]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2011/1734/article/13/2) omitted (19.1.2026) by virtue of [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/a/ii)
+[^c-d652dcb45f858703b9f21f0d34a05207]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2011/1734/article/13/2) omitted (19.1.2026) by virtue of [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/a/ii)
 
-[^key-32394d673252f2c7f39d46fe9008db6a]: Textual amendment: Words in [rule 13(3)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13/3) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/10/a)
+[^c-32394d673252f2c7f39d46fe9008db6a]: Textual amendment: Words in [rule 13(3)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13/3) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/10/a)
 
-[^key-71bc80945d84910d80b9432bc83abb7c]: Textual amendment: [Rule 13(3A)(3C)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/b)
+[^c-71bc80945d84910d80b9432bc83abb7c]: Textual amendment: [Rule 13(3A)(3C)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/b)
 
-[^key-162bbe495320899f79b5b04d154c82de]: Textual amendment: Words in [rule 13(4)(a)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13/4/a) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [10(b)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/10/b/i)
+[^c-162bbe495320899f79b5b04d154c82de]: Textual amendment: Words in [rule 13(4)(a)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13/4/a) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [10(b)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/10/b/i)
 
-[^key-eedeb61422740c28953de2aba37ef749]: Textual amendment: Words in [rule 13(4)(b)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13/4/b) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/10/b/ii)
+[^c-eedeb61422740c28953de2aba37ef749]: Textual amendment: Words in [rule 13(4)(b)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13/4/b) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/10/b/ii)
 
-[^key-0daefcd1b9e9345f58058654ef3e6174]: Textual amendment: [Rule 13(4)(c)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13/4/c) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [10(b)(iii)](https://www.legislation.gov.uk/uksi/2023/987/rule/10/b/iii)
+[^c-0daefcd1b9e9345f58058654ef3e6174]: Textual amendment: [Rule 13(4)(c)](https://www.legislation.gov.uk/uksi/2011/1734/rule/13/4/c) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [10(b)(iii)](https://www.legislation.gov.uk/uksi/2023/987/rule/10/b/iii)
 
-[^key-d22998fe6562d724cecd71f9ca1bf6f3]: Textual amendment: [Rule 13(5)](https://www.legislation.gov.uk/uksi/2011/1734/article/13/5) omitted (19.1.2026) by virtue of [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/c)
+[^c-d22998fe6562d724cecd71f9ca1bf6f3]: Textual amendment: [Rule 13(5)](https://www.legislation.gov.uk/uksi/2011/1734/article/13/5) omitted (19.1.2026) by virtue of [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/c)
 
-[^key-76de477b44a790f2113e68a28c24f9ee]: Textual amendment: [Rule 13(6)-(10)](https://www.legislation.gov.uk/uksi/2011/1734/article/13/6) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/d)
+[^c-76de477b44a790f2113e68a28c24f9ee]: Textual amendment: [Rule 13(6)-(10)](https://www.legislation.gov.uk/uksi/2011/1734/article/13/6) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2025/1275/rule/4/d)
 
-[^key-c12db6b9956d7e4d0ba32897814afb30]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2011/1734/rule/14) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-c12db6b9956d7e4d0ba32897814afb30]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2011/1734/rule/14) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-afeff45932662c1074aa6f68a87f41f6]: Textual amendment: Words in [rule 14(1)](https://www.legislation.gov.uk/uksi/2011/1734/article/14/1) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2025/1275/rule/5)
+[^c-afeff45932662c1074aa6f68a87f41f6]: Textual amendment: Words in [rule 14(1)](https://www.legislation.gov.uk/uksi/2011/1734/article/14/1) inserted (19.1.2026) by [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2025/1275/rule/5)
 
-[^key-1da0fb47acf7531cad0cdfe90e247738]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2011/1734/rule/15) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-1da0fb47acf7531cad0cdfe90e247738]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2011/1734/rule/15) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
 [^f00009]: Footnote: [1961 c.62](https://www.legislation.gov.uk/ukpga/1961/62).
 
-[^key-01fd001ecea8f4df9a8406f95d77b3b2]: Textual amendment: [Rule 16](https://www.legislation.gov.uk/uksi/2011/1734/article/16) omitted (19.1.2026) by virtue of [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2025/1275/rule/6)
+[^c-01fd001ecea8f4df9a8406f95d77b3b2]: Textual amendment: [Rule 16](https://www.legislation.gov.uk/uksi/2011/1734/article/16) omitted (19.1.2026) by virtue of [The Court Funds (Amendment) Rules 2025 (S.I. 2025/1275)](https://www.legislation.gov.uk/uksi/2025/1275), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/1275/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2025/1275/rule/6)
 
-[^key-3876908540272a3dae29a330a868056c]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2011/1734/rule/17) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-3876908540272a3dae29a330a868056c]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2011/1734/rule/17) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-2ccf8fa0dd2b83e28deacd6e1d2836f9]: Textual amendment: Words in [rule 17(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/17/1) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/12/a)
+[^c-2ccf8fa0dd2b83e28deacd6e1d2836f9]: Textual amendment: Words in [rule 17(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/17/1) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/12/a)
 
-[^key-7f01461c0893df198fdc1aba03ce3850]: Textual amendment: Words in [rule 17(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/17/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/12/b)
+[^c-7f01461c0893df198fdc1aba03ce3850]: Textual amendment: Words in [rule 17(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/17/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/12/b)
 
-[^key-e083a09187794dad493a8737ebfae453]: Textual amendment: Words in [rule 17(3)](https://www.legislation.gov.uk/uksi/2011/1734/rule/17/3) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/12/c)
+[^c-e083a09187794dad493a8737ebfae453]: Textual amendment: Words in [rule 17(3)](https://www.legislation.gov.uk/uksi/2011/1734/rule/17/3) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/12/c)
 
-[^key-d2f4d920c9e7b77cac0d217281d6ee26]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2011/1734/rule/18) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-d2f4d920c9e7b77cac0d217281d6ee26]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2011/1734/rule/18) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-85c2ac8c319711740d4c4f5ca47b0cac]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2011/1734/rule/19) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-85c2ac8c319711740d4c4f5ca47b0cac]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2011/1734/rule/19) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-f9d0270f07a60908c18a68f0ef382543]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2011/1734/rule/20) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-f9d0270f07a60908c18a68f0ef382543]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2011/1734/rule/20) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-b2fede80ee161c9280851a397b5a2658]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2011/1734/rule/21) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-b2fede80ee161c9280851a397b5a2658]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2011/1734/rule/21) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-207c64e349d4ea17db7697729b496a66]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2011/1734/rule/22) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-207c64e349d4ea17db7697729b496a66]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2011/1734/rule/22) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-34fb51fbae97597ab6fb5ddd17852580]: Textual amendment: [Rule 22(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/22/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [13](https://www.legislation.gov.uk/uksi/2023/987/rule/13)
+[^c-34fb51fbae97597ab6fb5ddd17852580]: Textual amendment: [Rule 22(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/22/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [13](https://www.legislation.gov.uk/uksi/2023/987/rule/13)
 
-[^key-e414ca57519b4db6d6ae9db510d55a1d]: Textual amendment: [Rule 22A](https://www.legislation.gov.uk/uksi/2011/1734/rule/22A) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2023/987/rule/14)
+[^c-e414ca57519b4db6d6ae9db510d55a1d]: Textual amendment: [Rule 22A](https://www.legislation.gov.uk/uksi/2011/1734/rule/22A) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2023/987/rule/14)
 
-[^key-4cb31c73e6797a97045a139609ead41a]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2011/1734/rule/23) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-4cb31c73e6797a97045a139609ead41a]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2011/1734/rule/23) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-4dac9eb39d0af705b0653bdc6bf2d36f]: Textual amendment: Words in [rule 23](https://www.legislation.gov.uk/uksi/2011/1734/rule/23) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [15](https://www.legislation.gov.uk/uksi/2023/987/rule/15)
+[^c-4dac9eb39d0af705b0653bdc6bf2d36f]: Textual amendment: Words in [rule 23](https://www.legislation.gov.uk/uksi/2011/1734/rule/23) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [15](https://www.legislation.gov.uk/uksi/2023/987/rule/15)
 
-[^key-285ee34212e7f04124c7b35d3d1940a6]: Commencement: Rule 24 in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-285ee34212e7f04124c7b35d3d1940a6]: Commencement: Rule 24 in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-6a5d50f49f141efe51d86f3e372debc0]: Textual amendment: Words in rule 24(2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/a)
+[^c-6a5d50f49f141efe51d86f3e372debc0]: Textual amendment: Words in rule 24(2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/a)
 
-[^key-3042d99c0f3312daeaece0bddee496be]: Textual amendment: Words in rule 24(3)(a) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(b)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/b/i)
+[^c-3042d99c0f3312daeaece0bddee496be]: Textual amendment: Words in rule 24(3)(a) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(b)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/b/i)
 
-[^key-f4e4a65ee098c976a93491f97839d391]: Textual amendment: Rule 24(3)(b)(c) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(b)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/b/ii)
+[^c-f4e4a65ee098c976a93491f97839d391]: Textual amendment: Rule 24(3)(b)(c) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(b)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/b/ii)
 
-[^key-58ceae1aaccdd106b625dd451afbb491]: Textual amendment: Words in rule 24(4) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/c)
+[^c-58ceae1aaccdd106b625dd451afbb491]: Textual amendment: Words in rule 24(4) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/c)
 
-[^key-8e49b20fc2aadb04cc775f1600152309]: Textual amendment: Words in rule 24(5)(a) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(d)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/d/i)
+[^c-8e49b20fc2aadb04cc775f1600152309]: Textual amendment: Words in rule 24(5)(a) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(d)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/d/i)
 
-[^key-9fc59fa2fdfe8be6b735ef26a4f9509a]: Textual amendment: Rule 24(5)(b)(c) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(d)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/d/ii)
+[^c-9fc59fa2fdfe8be6b735ef26a4f9509a]: Textual amendment: Rule 24(5)(b)(c) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(d)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/d/ii)
 
-[^key-c7583577f1ae5e8100c45c700feabcc6]: Textual amendment: Words in rule 24(6) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(e)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/e)
+[^c-c7583577f1ae5e8100c45c700feabcc6]: Textual amendment: Words in rule 24(6) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(e)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/e)
 
-[^key-7dc595716c0cd87bdf2c98fa2a9efd2f]: Textual amendment: Words in rule 24(7)(a) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(f)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/f/i)
+[^c-7dc595716c0cd87bdf2c98fa2a9efd2f]: Textual amendment: Words in rule 24(7)(a) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(f)(i)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/f/i)
 
-[^key-dbbd53e8d2e700ac20718f0c9a036736]: Textual amendment: Rule 24(7)(b)(c) substituted for rule 24(7)(b) (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(f)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/f/ii)
+[^c-dbbd53e8d2e700ac20718f0c9a036736]: Textual amendment: Rule 24(7)(b)(c) substituted for rule 24(7)(b) (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [16(f)(ii)](https://www.legislation.gov.uk/uksi/2023/987/rule/16/f/ii)
 
-[^key-2bd8836816be475b620869a6d6c7a347]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2011/1734/rule/25) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-2bd8836816be475b620869a6d6c7a347]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2011/1734/rule/25) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-d20f13b6f62ea3df359a4eb1dbe64c67]: Textual amendment: Words in [rule 25(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/25/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [17](https://www.legislation.gov.uk/uksi/2023/987/rule/17)
+[^c-d20f13b6f62ea3df359a4eb1dbe64c67]: Textual amendment: Words in [rule 25(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/25/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [17](https://www.legislation.gov.uk/uksi/2023/987/rule/17)
 
-[^key-bf398eb5c83370b2e99ff397fadd11e3]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2011/1734/rule/26) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-bf398eb5c83370b2e99ff397fadd11e3]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2011/1734/rule/26) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-7b9718eb0d19cdf874b511541c393c13]: Textual amendment: Words in [rule 26(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/26/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [18](https://www.legislation.gov.uk/uksi/2023/987/rule/18)
+[^c-7b9718eb0d19cdf874b511541c393c13]: Textual amendment: Words in [rule 26(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/26/2) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [18](https://www.legislation.gov.uk/uksi/2023/987/rule/18)
 
-[^key-24ba80536b0f04b821ef3418225070b5]: Textual amendment: Rule 27 substituted (29.6.2026) by [The Court Funds (Amendment) Rules 2026 (S.I. 2026/593)](https://www.legislation.gov.uk/uksi/2026/593), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/593/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2026/593/rule/4)
+[^c-24ba80536b0f04b821ef3418225070b5]: Textual amendment: Rule 27 substituted (29.6.2026) by [The Court Funds (Amendment) Rules 2026 (S.I. 2026/593)](https://www.legislation.gov.uk/uksi/2026/593), [rules 1(1)](https://www.legislation.gov.uk/uksi/2026/593/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2026/593/rule/4)
 
-[^key-43a801a65aa7b981b599504c94a767f8]: Commencement: Rule 28 in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-43a801a65aa7b981b599504c94a767f8]: Commencement: Rule 28 in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-eb3140b61ecdc84177ee1b247f79d08c]: Textual amendment: Words in rule 28 heading inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/9/a)
+[^c-eb3140b61ecdc84177ee1b247f79d08c]: Textual amendment: Words in rule 28 heading inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/9/a)
 
-[^key-e74c234ff6ce2526a754c5766fb5f95b]: Textual amendment: Words in [rule 28(1)(a)](https://www.legislation.gov.uk/uksi/2011/1734/rule/28/1/a) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/20/a)
+[^c-e74c234ff6ce2526a754c5766fb5f95b]: Textual amendment: Words in [rule 28(1)(a)](https://www.legislation.gov.uk/uksi/2011/1734/rule/28/1/a) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2023/987/rule/20/a)
 
-[^key-582ba9b0502c5d6815b44d398f6faf1b]: Textual amendment: Words in rule 28(1)(b) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/9/b)
+[^c-582ba9b0502c5d6815b44d398f6faf1b]: Textual amendment: Words in rule 28(1)(b) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/9/b)
 
 [^f00010]: Footnote: [S.I. 2000/441](https://www.legislation.gov.uk/uksi/2000/441).
 
-[^key-e2348bb002d6ec5db53bdddb734ca28e]: Textual amendment: Words in rule28(1)(c) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/9/c)
+[^c-e2348bb002d6ec5db53bdddb734ca28e]: Textual amendment: Words in rule28(1)(c) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/9/c)
 
-[^key-cf5855db82cac22d17d46c6820c5a52c]: Textual amendment: Words in [rule 28(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/28/2) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/20/b)
+[^c-cf5855db82cac22d17d46c6820c5a52c]: Textual amendment: Words in [rule 28(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/28/2) omitted (27.10.2023) by virtue of [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [20(b)](https://www.legislation.gov.uk/uksi/2023/987/rule/20/b)
 
-[^key-0c1beb2b4903390948f6ed392324db5c]: Textual amendment: Words in [rule 28(3)](https://www.legislation.gov.uk/uksi/2011/1734/rule/28/3) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [20(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/20/c)
+[^c-0c1beb2b4903390948f6ed392324db5c]: Textual amendment: Words in [rule 28(3)](https://www.legislation.gov.uk/uksi/2011/1734/rule/28/3) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [20(c)](https://www.legislation.gov.uk/uksi/2023/987/rule/20/c)
 
-[^key-46c9d06603cd632e467bf2f118c9b623]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2011/1734/rule/29) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-46c9d06603cd632e467bf2f118c9b623]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2011/1734/rule/29) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-bb3fbb2cbbeae31768999d1f2a824a88]: Textual amendment: Words in [rule 29](https://www.legislation.gov.uk/uksi/2011/1734/rule/29) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [21](https://www.legislation.gov.uk/uksi/2023/987/rule/21)
+[^c-bb3fbb2cbbeae31768999d1f2a824a88]: Textual amendment: Words in [rule 29](https://www.legislation.gov.uk/uksi/2011/1734/rule/29) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [21](https://www.legislation.gov.uk/uksi/2023/987/rule/21)
 
-[^key-ced5e4d5da3ba6e00344ee9406859de9]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2011/1734/rule/30) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-ced5e4d5da3ba6e00344ee9406859de9]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2011/1734/rule/30) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-932d70c7e1b6ca802c24b20fe402b093]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2011/1734/rule/31) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-932d70c7e1b6ca802c24b20fe402b093]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2011/1734/rule/31) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-1447ce9bee0851dc2d4ed0a957438f95]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2011/1734/rule/32) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-1447ce9bee0851dc2d4ed0a957438f95]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2011/1734/rule/32) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-ab2386243b9627f04a089bb5c851659a]: Textual amendment: Word in [rule 32(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/32/1) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [22](https://www.legislation.gov.uk/uksi/2023/987/rule/22)
+[^c-ab2386243b9627f04a089bb5c851659a]: Textual amendment: Word in [rule 32(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/32/1) substituted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [22](https://www.legislation.gov.uk/uksi/2023/987/rule/22)
 
-[^key-31b963408fffb515533dc7442bcacada]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2011/1734/rule/33) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-31b963408fffb515533dc7442bcacada]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2011/1734/rule/33) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-f18dfa4ed92d9e0a9ee1a36a8ee562fa]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2011/1734/rule/34) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-f18dfa4ed92d9e0a9ee1a36a8ee562fa]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2011/1734/rule/34) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-78e01b0ec3f6aa600f354dc7abe331ca]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2011/1734/rule/35) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-78e01b0ec3f6aa600f354dc7abe331ca]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2011/1734/rule/35) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-6610c6c47f7f5914922211a914537099]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2011/1734/rule/36) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-6610c6c47f7f5914922211a914537099]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2011/1734/rule/36) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-7c58d017329e0bf289604e1c6cb7cd06]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2011/1734/rule/37) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-7c58d017329e0bf289604e1c6cb7cd06]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2011/1734/rule/37) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-b5fd58f4f21bbe2df34e0a1c8e091248]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2011/1734/rule/38) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-b5fd58f4f21bbe2df34e0a1c8e091248]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2011/1734/rule/38) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-9422b07b7226cd7cf4acb0cb57f62f65]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2011/1734/rule/39) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-9422b07b7226cd7cf4acb0cb57f62f65]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2011/1734/rule/39) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-17434dda6d7272b08f41d0c5952ed53e]: Textual amendment: Words in [rule 39(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/39/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [23](https://www.legislation.gov.uk/uksi/2023/987/rule/23)
+[^c-17434dda6d7272b08f41d0c5952ed53e]: Textual amendment: Words in [rule 39(2)](https://www.legislation.gov.uk/uksi/2011/1734/rule/39/2) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [23](https://www.legislation.gov.uk/uksi/2023/987/rule/23)
 
-[^key-2a2b8dfce0025d4c1172e2512ca37428]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2011/1734/rule/40) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-2a2b8dfce0025d4c1172e2512ca37428]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2011/1734/rule/40) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-342f5b1879693dd538b7343c4dc8262f]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2011/1734/rule/41) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-342f5b1879693dd538b7343c4dc8262f]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2011/1734/rule/41) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-e07d309d55a9ae6a4d5aaba7e8b17260]: Textual amendment: Words in [rule 41(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/41/1) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [24](https://www.legislation.gov.uk/uksi/2023/987/rule/24)
+[^c-e07d309d55a9ae6a4d5aaba7e8b17260]: Textual amendment: Words in [rule 41(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/41/1) inserted (27.10.2023) by [The Court Funds (Amendment) Rules 2023 (S.I. 2023/987)](https://www.legislation.gov.uk/uksi/2023/987), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/987/rule/1/1), [24](https://www.legislation.gov.uk/uksi/2023/987/rule/24)
 
-[^key-94b2fff7853948925be74be2d2627a78]: Textual amendment: [Rule 41A](https://www.legislation.gov.uk/uksi/2011/1734/rule/41A) inserted (1.2.2024) by [The Court Funds (Amendment No. 2) Rules 2023 (S.I. 2023/1356)](https://www.legislation.gov.uk/uksi/2023/1356), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/1356/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/1356/rule/2/3) (with [rule 3](https://www.legislation.gov.uk/uksi/2023/1356/rule/3))
+[^c-94b2fff7853948925be74be2d2627a78]: Textual amendment: [Rule 41A](https://www.legislation.gov.uk/uksi/2011/1734/rule/41A) inserted (1.2.2024) by [The Court Funds (Amendment No. 2) Rules 2023 (S.I. 2023/1356)](https://www.legislation.gov.uk/uksi/2023/1356), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/1356/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/1356/rule/2/3) (with [rule 3](https://www.legislation.gov.uk/uksi/2023/1356/rule/3))
 
-[^key-d4939f324f50e9e1fff7694303c5f57c]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2011/1734/rule/42) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-d4939f324f50e9e1fff7694303c5f57c]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2011/1734/rule/42) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-ce7a32422740d0fdc43e3bd9250ac47a]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2011/1734/rule/43) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-ce7a32422740d0fdc43e3bd9250ac47a]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2011/1734/rule/43) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-f9a1741509e7b294b2bbd5940b21829d]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2011/1734/rule/44) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-f9a1741509e7b294b2bbd5940b21829d]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2011/1734/rule/44) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-3ec61dddbbe4e3b3cd2f4e07ac6c9df6]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2011/1734/rule/45) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-3ec61dddbbe4e3b3cd2f4e07ac6c9df6]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2011/1734/rule/45) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-cfeb318d79ad55663ada9899865441bc]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2011/1734/rule/46) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-cfeb318d79ad55663ada9899865441bc]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2011/1734/rule/46) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
 
-[^key-6173729ca652241ee774634f9a9d9d38]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2011/1734/schedule) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)
+[^c-6173729ca652241ee774634f9a9d9d38]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2011/1734/schedule) in force at 3.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/1734/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87A. Orders amending Part 6[^key-1f7eb35c7add08fb4e30028df189a01c]
+## 87A. Orders amending Part 6[^c-1f7eb35c7add08fb4e30028df189a01c]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f7eb35c7add08fb4e30028df189a01c]: Textual amendment: S. 87A inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 91(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/91/1), [128(2)(d)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/d)
+[^c-1f7eb35c7add08fb4e30028df189a01c]: Textual amendment: S. 87A inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 91(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/91/1), [128(2)(d)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/d)

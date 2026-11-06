@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Legal assistance[^key-d2f87c3469144a157fb22cb92dfbde69]
+## 9. Legal assistance[^c-d2f87c3469144a157fb22cb92dfbde69]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2f87c3469144a157fb22cb92dfbde69]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2011/1/section/9) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)
+[^c-d2f87c3469144a157fb22cb92dfbde69]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2011/1/section/9) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)

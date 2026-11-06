@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-7e1727f24d5dd12479aba45eb45a83c1]
+### 1. Citation and commencement[^c-7e1727f24d5dd12479aba45eb45a83c1]
 
 (1) These Regulations may be cited as the Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019.
 
@@ -56,7 +56,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 2 — Amendments to secondary legislation
 
-### 2. Amendments to the Railways Interoperability Regulations 2011[^key-c575ebbb13c2f2465a9775c479cce5dc]
+### 2. Amendments to the Railways Interoperability Regulations 2011[^c-c575ebbb13c2f2465a9775c479cce5dc]
 
 (1) The Railways (Interoperability) Regulations 2011[^f00002] (“the Regulations”) are amended as follows.
 
@@ -64,11 +64,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 - (a) after the definition of “the 1974 Act”, insert—
 
-  > - “the 2016 Directive” means Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union;[^key-b805c3bc367a17dc46c3ff7a185408d6]
+  > - “the 2016 Directive” means Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union;[^c-b805c3bc367a17dc46c3ff7a185408d6]
   > - “approved body” has the meaning set out in regulation 30;
   > - “authorised representative” means—
   >   - (a) a person who—
-  >     - (i) immediately before IP completion day[^key-4413133b350aa89525ecf28ce8319c39] was established in an EEA state and appointed to act by a manufacturer or contracting entity to perform specified tasks for that manufacturer or contracting entity in relation to the Directive, and
+  >     - (i) immediately before IP completion day[^c-4413133b350aa89525ecf28ce8319c39] was established in an EEA state and appointed to act by a manufacturer or contracting entity to perform specified tasks for that manufacturer or contracting entity in relation to the Directive, and
   >     - (ii) on or after IP completion day continues to be so established and appointed by the manufacturer or contracting entity to perform those tasks; or
   >   - (b) a person who on or after IP completion day is appointed in accordance with regulation 3A;
 
@@ -88,11 +88,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (f) after the definition of “DFI”, insert—
 
   > - “EC certificate of verification” means a certificate drawn up by an EU notified body as part of the EC verification assessment procedure for a structural subsystem;
-- (g) in the definition of “EC declaration of conformity or suitability for use”, for “regulation 25”, substitute “Article 13 and Annex IV of the Directive or in accordance with Articles 9 and 10 of the 2016 Directive[^key-269b073644d052861919319969b40f37] ”;
+- (g) in the definition of “EC declaration of conformity or suitability for use”, for “regulation 25”, substitute “Article 13 and Annex IV of the Directive or in accordance with Articles 9 and 10 of the 2016 Directive[^c-269b073644d052861919319969b40f37] ”;
 - (h) after the definition of “EC declaration of conformity or suitability for use”, insert—
 
   > - “EC declaration of verification” means a declaration drawn up by a project entity in relation to a structural subsystem in accordance with Article 18 of and Annex V to the Directive;
-  > - “EC verification assessment procedure” means the procedure set out in Annex VI to the Directive or Annex IV to the 2016 Directive;[^key-98818d1ed3727145ce42f1243583896d]
+  > - “EC verification assessment procedure” means the procedure set out in Annex VI to the Directive or Annex IV to the 2016 Directive;[^c-98818d1ed3727145ce42f1243583896d]
 
   ;
 - (i) in the definition of “essential requirements”, for “Annex III to the Directive”, substitute “Schedule 2”;
@@ -102,13 +102,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   ;
 - (k) omit the definition of “European Railway Agency”;
-- (ka)[^key-ef07900984c9aa957578bba793c0361e] after the definition of “European specification” insert—
+- (ka)[^c-ef07900984c9aa957578bba793c0361e] after the definition of “European specification” insert—
 
   > - “European Union Agency for Railways” means the Agency established by Regulation (EU) 2016/796 of the European Parliament and of the Council of 11 May 2016 on the European Union Agency for Railways and repealing Regulation [(EC) No 881/2004](https://www.legislation.gov.uk/eur/2004/0881);
 
   ;
 - (l) omit the definition of “European specification”;
-- (m)[^key-b196ff879e3fd563392ab32eba2db14b] after the definition of “European vehicle number” insert—
+- (m)[^c-b196ff879e3fd563392ab32eba2db14b] after the definition of “European vehicle number” insert—
 
   > - “EU notified body” means a body which either—
   >   - (a) has been appointed by an EU Member State and notified by the EU Member State concerned to the European Commission and the other EU Member States pursuant to Article 20(1) of the Conventional Directive, Article 20(1) of the High-Speed Directive or Article 28(1) of the Directive; or
@@ -126,9 +126,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
   ;
 - (q) after the definition of “interoperability constituent”, insert—
 
-  > - “ISV” means an intermediate statement of verification issued by any one of the following[^key-d5558b71ba4c08475dbb08abc783f6c3]—
+  > - “ISV” means an intermediate statement of verification issued by any one of the following[^c-d5558b71ba4c08475dbb08abc783f6c3]—
   >   - (a) an approved body in relation to the design stage or the production stage of a subsystem in accordance with section 2 of Schedule 4;
-  >   - (b) an EU notified body in relation to the design stage or the production stage of a subsystem in accordance with section 2 of Annex VI to the Directive or in accordance with section 2 of Annex IV to the 2016 Directive[^key-5b19258fb4eddcc662ec51ecf410099d];
+  >   - (b) an EU notified body in relation to the design stage or the production stage of a subsystem in accordance with section 2 of Annex VI to the Directive or in accordance with section 2 of Annex IV to the 2016 Directive[^c-5b19258fb4eddcc662ec51ecf410099d];
   >   - (c) a designated body at an intermediate stage of the UK verification assessment procedure referred to in section 3 of Schedule 4;
   >   - (d) a designated body at an intermediate stage of the EC verification assessment procedure referred to in section 3 of Annex VI to the Directive;
   > - “NTRs” means National Technical Rules setting out standards, technical specifications and technical rules in relation to the rail system, as amended or varied from time to time, a list of which is published by the Secretary of State in accordance with regulation 3C;
@@ -136,7 +136,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   ;
 - (r) omit the definition of “notified body”;
-- (s) in the definition of “notified national technical rules”, for “have been notified by the Secretary of State to the Commission”, substitute “were notified by the Secretary of State to the European Commission before IP completion day[^key-23d67b5eba0272a080026af0ba5dc448]”;
+- (s) in the definition of “notified national technical rules”, for “have been notified by the Secretary of State to the Commission”, substitute “were notified by the Secretary of State to the European Commission before IP completion day[^c-23d67b5eba0272a080026af0ba5dc448]”;
 - (t) omit the definition of “Official Journal”;
 - (u) in the definition of “project entity”, omit “established in the EU”;
 - (v) for the definition of “rail system”, substitute—
@@ -150,10 +150,10 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (z) in the definition of “trans-European rail system”, omit “as those sections are amended from time to time”;
 - (aa) for the definition of “TSI”, substitute—
 
-  > - “TSI” means technical specifications for interoperability adopted from time to time by the European Commission pursuant to the Directive, or the Conventional Directive, or the High Speed Directive or the 2016 Directive[^key-84100405e01c2aaffb42f3276a64e55d], as those TSIs have effect in EU law, and as they are amended from time to time;
+  > - “TSI” means technical specifications for interoperability adopted from time to time by the European Commission pursuant to the Directive, or the Conventional Directive, or the High Speed Directive or the 2016 Directive[^c-84100405e01c2aaffb42f3276a64e55d], as those TSIs have effect in EU law, and as they are amended from time to time;
 
   ;
-- (ab)[^key-3f3b1233c4782537b05b8cc3e23fbab2] in the definition of “TSI conform authorisation”, after “placed in service” insert “or placed on the market”;
+- (ab)[^c-3f3b1233c4782537b05b8cc3e23fbab2] in the definition of “TSI conform authorisation”, after “placed in service” insert “or placed on the market”;
 - (bb) after the definition for “upgrading” insert—
 
   > - “UK certificate of verification” means a certificate drawn up by an approved body or designated body as part of the UK verification assessment procedure for a structural subsystem;
@@ -208,7 +208,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 >
 > (5) Regulations 39 and 40 apply to the enforcement of the standards set out in NTSNs as they apply to the enforcement of these Regulations.
 >
-> (6) When the Secretary of State publishes an NTSN for the first time, and the NTSN is intended to take the place of a particular TSI as it had effect immediately before IP completion day[^key-bca0085d4df2a3b4468ba5fe2d7cc96a], the NTSN must specify the TSI it replaces.
+> (6) When the Secretary of State publishes an NTSN for the first time, and the NTSN is intended to take the place of a particular TSI as it had effect immediately before IP completion day[^c-bca0085d4df2a3b4468ba5fe2d7cc96a], the NTSN must specify the TSI it replaces.
 >
 > (7) When the Secretary of State publishes an NTSN or a variation of an NTSN and that NTSN substantially reproduces the provisions of a TSI, the NTSN must specify the title of the TSI it substantially reproduces at the time of publication.
 >
@@ -218,7 +218,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 >
 > (2) Those standards may be set out in NTRs which supplement NTSNs.
 >
-> (3) On IP completion day[^key-8e96bc8caa65e907397f7d21bea4d801], the Secretary of State must publish a list of all NTRs applying in the United Kingdom.
+> (3) On IP completion day[^c-8e96bc8caa65e907397f7d21bea4d801], the Secretary of State must publish a list of all NTRs applying in the United Kingdom.
 >
 > (4) Where appropriate, the list must specify the notified national technical rule that an NTR replaces.
 >
@@ -237,7 +237,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (ii) at the end of sub-paragraph (b), omit “or”, and sub-paragraph (c);
 - (b) in paragraph (2), omit “in the United Kingdom”;
 - (c) in paragraph (3), before “verification assessment procedure”, insert “relevant EC or UK”;
-- (d)[^key-091e840f2bfaa8b335f1d257b667b108] after paragraph (3) insert—
+- (d)[^c-091e840f2bfaa8b335f1d257b667b108] after paragraph (3) insert—
 
   > (4) The requirements set out in paragraph (1) apply to a vehicle even if there is an extant authorisation granted in an EU Member State or by the European Union Agency for Railways. A person wishing to put a vehicle into use in the UK beyond the Channel Tunnel system which has such an authorisation must apply for an authorisation under regulation 6.
 
@@ -290,7 +290,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
     > - (vi) sufficient documentary evidence to satisfy the Safety Authority that the first authorisation has not been revoked;
 
     ,
-  - (viiia)[^key-42f8763787ce950b53e590912de0dfda] in sub-paragraph (d), after “the Directive”, insert “or Article 24 of the 2016 Directive”,
+  - (viiia)[^c-42f8763787ce950b53e590912de0dfda] in sub-paragraph (d), after “the Directive”, insert “or Article 24 of the 2016 Directive”,
   - (ix) in sub-paragraph (e), for “verification declaration”, substitute “UK declaration of verification”;
 - (d) for paragraph (4), substitute—
 
@@ -335,19 +335,19 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) in paragraph (5), for “changes to TSIs or notified national technical rules”, substitute “material changes to the applicable standards”;
 - (b) for paragraph (6), substitute—
 
-  > (6) The Safety Authority must publish and keep up to date a list of determinations of type for vehicles issued in accordance with this regulation (including those determinations issued by the Safety Authority before IP completion day[^key-030b392148590ec9a1420bac11af5235]) and any modification, suspension or withdrawal of such a determination.
+  > (6) The Safety Authority must publish and keep up to date a list of determinations of type for vehicles issued in accordance with this regulation (including those determinations issued by the Safety Authority before IP completion day[^c-030b392148590ec9a1420bac11af5235]) and any modification, suspension or withdrawal of such a determination.
   >
-  > (6A) In maintaining that list, the Safety Authority may have regard to the requirements set out in Annex II to Commission Implementing [Decision 2011/665/EU](https://www.legislation.gov.uk/eud/2011/0665) of 4 October 2011 on the European register of authorised types of railway vehicles[^f00004] as that Decision has been amended by Commission Implementing Regulation (EU) 2019/776 of 16 May 2019 amending Commission Regulations[^key-78bd6690ecd9169eac22a4b41762c4a7] [(EU) No 321/2013](https://www.legislation.gov.uk/eur/2013/0321), (EU) No 1299/2014, (EU) No 1301/2014, (EU) No 1302/2014, (EU) No 1303/2014 and (EU) 2016/919 and Commission Implementing [Decision 2011/665/EU](https://www.legislation.gov.uk/eud/2011/0665) as regards the alignment with Directive (EU) 2016/797 of the European Parliament and of the Council and the implementation of specific objectives set out in Commission Delegated Decision (EU) 2017/1474.
+  > (6A) In maintaining that list, the Safety Authority may have regard to the requirements set out in Annex II to Commission Implementing [Decision 2011/665/EU](https://www.legislation.gov.uk/eud/2011/0665) of 4 October 2011 on the European register of authorised types of railway vehicles[^f00004] as that Decision has been amended by Commission Implementing Regulation (EU) 2019/776 of 16 May 2019 amending Commission Regulations[^c-78bd6690ecd9169eac22a4b41762c4a7] [(EU) No 321/2013](https://www.legislation.gov.uk/eur/2013/0321), (EU) No 1299/2014, (EU) No 1301/2014, (EU) No 1302/2014, (EU) No 1303/2014 and (EU) 2016/919 and Commission Implementing [Decision 2011/665/EU](https://www.legislation.gov.uk/eud/2011/0665) as regards the alignment with Directive (EU) 2016/797 of the European Parliament and of the Council and the implementation of specific objectives set out in Commission Delegated Decision (EU) 2017/1474.
 
   ;
 - (c) after paragraph (8), insert—
 
   > (9) In regulations 8, 9 and 10, “applicable standards” means the applicable standards in force at the time when type was determined, which are—
   >
-  > - (a) before IP completion day[^key-9cb4bbb4b8d77f03f47e1c835bf2014b], standards set out in TSIs and notified national technical rules;
-  > - (b) on or after[^key-67db0e55f3d933d2a17fd5bc3387775c] IP completion day, standards set out in NTSNs and NTRs.
+  > - (a) before IP completion day[^c-9cb4bbb4b8d77f03f47e1c835bf2014b], standards set out in TSIs and notified national technical rules;
+  > - (b) on or after[^c-67db0e55f3d933d2a17fd5bc3387775c] IP completion day, standards set out in NTSNs and NTRs.
   >
-  > (10) In regulations 8, 9 and 10, any reference to “material” changes to standards does not include the replacement of the standards contained in TSIs or notified national technical rules by the standards published by the Secretary of State in accordance with regulations 3B and 3C on IP completion day[^key-cbfd73009993e8d8bfdde087cc27087c] and contained in NTSNs or NTRs.
+  > (10) In regulations 8, 9 and 10, any reference to “material” changes to standards does not include the replacement of the standards contained in TSIs or notified national technical rules by the standards published by the Secretary of State in accordance with regulations 3B and 3C on IP completion day[^c-cbfd73009993e8d8bfdde087cc27087c] and contained in NTSNs or NTRs.
 
   .
 
@@ -435,7 +435,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   > (1A) For the purposes of paragraph (1)(a), a project subsystem is deemed to conform with an applicable NTSN, save for any UK specific case set out in that NTSN, if—
   >
   > - (a) the person applying for an authorisation provides evidence that the project subsystem has been assessed under EU law as conforming with a TSI in force at the time when the application for authorisation is made; and
-  > - (b) the applicable NTSN specifies that it substantially reproduces the provisions of that TSI, in accordance with regulation 3B(7)[^key-2ccbabe0bdd7dd52c580639fc12da9bc].
+  > - (b) the applicable NTSN specifies that it substantially reproduces the provisions of that TSI, in accordance with regulation 3B(7)[^c-2ccbabe0bdd7dd52c580639fc12da9bc].
 
   ;
 - (d) in paragraph (2)—
@@ -568,16 +568,16 @@ The Secretary of State makes the following Regulations in exercise of the powers
 >
 > (2) A person may place an interoperability constituent on the market in reliance on an EC declaration of conformity or suitability for use drawn up in relation to that interoperability constituent where one of the following conditions applies—
 >
-> - (a) an EC declaration of conformity or suitability for use was drawn up before, on or before or after IP completion day[^key-7685792d7d7192c7e3530adb09cdea90], and there is no UK specific case applicable to the interoperability constituent; or
+> - (a) an EC declaration of conformity or suitability for use was drawn up before, on or before or after IP completion day[^c-7685792d7d7192c7e3530adb09cdea90], and there is no UK specific case applicable to the interoperability constituent; or
 > - (b) all of the following apply—
->   - (i) an EC declaration of conformity or suitability for use was drawn up before IP completion day[^key-ddc71c10026d19cb4c14fa8b78c7db27],
+>   - (i) an EC declaration of conformity or suitability for use was drawn up before IP completion day[^c-ddc71c10026d19cb4c14fa8b78c7db27],
 >   - (ii) there is a UK specific case applicable to the interoperability constituent,
 >   - (iii) there is no material difference between the technical specifications of the applicable UK specific case and a pre-exit specific case against which the interoperability constituent was previously assessed, and
 >   - (iv) there are no other applicable UK specific cases.
 >
-> (3) In this regulation, “a pre-exit specific case” means special provision in relation to the technical specifications for subsystems and interoperability constituents to allow for their compatibility with the rail system, which was applicable to the interoperability constituent and was set out and described in a TSI or notified national technical rule before IP completion day[^key-c552b062fd17c0201ebdc0a1b4b22ac7].
+> (3) In this regulation, “a pre-exit specific case” means special provision in relation to the technical specifications for subsystems and interoperability constituents to allow for their compatibility with the rail system, which was applicable to the interoperability constituent and was set out and described in a TSI or notified national technical rule before IP completion day[^c-c552b062fd17c0201ebdc0a1b4b22ac7].
 >
-> (4) In this regulation, a “material difference” in relation to technical specifications does not include the replacement of the standards contained in TSIs or notified national technical rules by the standards set by the Secretary of State in accordance with regulations 3B and 3C, and contained (on or after IP completion day[^key-b0beba15b4a1756e7fef64729550aad7]) in NTSNs or NTRs.
+> (4) In this regulation, a “material difference” in relation to technical specifications does not include the replacement of the standards contained in TSIs or notified national technical rules by the standards set by the Secretary of State in accordance with regulations 3B and 3C, and contained (on or after IP completion day[^c-b0beba15b4a1756e7fef64729550aad7]) in NTSNs or NTRs.
 
 .
 
@@ -614,7 +614,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (ii) for “an EC” substitute “a UK”;
 - (f) after paragraph (4), insert—
 
-  > (5) In this regulation, and in Schedule 7, the “manufacturer’s representative” means either an authorised representative or a person appointed by the manufacturer to perform specified tasks relating to the conformity or suitability for use of interoperability constituents, on or after IP completion day[^key-1f8937731d58fcc9507011a3d604c042].
+  > (5) In this regulation, and in Schedule 7, the “manufacturer’s representative” means either an authorised representative or a person appointed by the manufacturer to perform specified tasks relating to the conformity or suitability for use of interoperability constituents, on or after IP completion day[^c-1f8937731d58fcc9507011a3d604c042].
 
   .
 
@@ -643,7 +643,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (i) for “must immediately”, substitute “may”,
   - (ii) for “Commission and the other Member States”, substitute “European Commission and EU Member States”;
 - (c) in paragraph (2), for “must”, substitute “may”;
-- (d)[^key-2a4d245e139b8da946b329495b6dc159] after paragraph (2) insert—
+- (d)[^c-2a4d245e139b8da946b329495b6dc159] after paragraph (2) insert—
 
   > (3) This regulation does not apply in relation to the Channel Tunnel system.
 
@@ -658,7 +658,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 > (1) An approved body is a body which—
 >
 > - (a) has been approved by the Secretary of State pursuant to the procedure set out in regulation 31; or
-> - (b) immediately before IP completion day[^key-0b5b2e8dbfaac3e44a2b92fd21951881] was a notified body which has not received notice from the Secretary of State terminating its appointment as a notified body.
+> - (b) immediately before IP completion day[^c-0b5b2e8dbfaac3e44a2b92fd21951881] was a notified body which has not received notice from the Secretary of State terminating its appointment as a notified body.
 >
 > (2) In this Regulation, “a notified body” means a body which has been—
 >
@@ -689,7 +689,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   > (3A) A designated body must not confirm that a UK declaration of conformity or suitability for use can be drawn up in respect of an interoperability constituent unless satisfied that the constituent conforms to such of the UK specific cases as are required by regulation 25.
 
   ;
-- (ga)[^key-757d61dd198e4b23615ed1750ee8a89d] omit paragraph (4);
+- (ga)[^c-757d61dd198e4b23615ed1750ee8a89d] omit paragraph (4);
 - (h) in paragraph (5), for “notified body”, substitute “approved body”.
 
 (40) In regulation 33 (fees of notified bodies and designated bodies)—
@@ -728,7 +728,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-(41A)[^key-eaac3848a0181bc366edd8977a7e99d9] In regulation 35—
+(41A)[^c-eaac3848a0181bc366edd8977a7e99d9] In regulation 35—
 
 - (a) in paragraph (2)(c), for “a publicly accessible website” substitute “request by an applicant for authorisation under these Regulations, or by an approved body”;
 - (b) after paragraph (2) insert—
@@ -771,7 +771,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
       ;
 - (d) in paragraph (11), for “DRDNI”, substitute “DFI”;
-- (e)[^key-46855b26f0a86496f8b902e6f4beb690] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-46855b26f0a86496f8b902e6f4beb690] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (43) In regulation 37(10), for “DRDNI”, substitute “DFI”.
 
@@ -781,7 +781,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (46) In regulation 41(1) after “EC” insert “or UK”.
 
-(47)[^key-a4cdc8f3851a077e416ad3928dda4b08] In regulation 42—
+(47)[^c-a4cdc8f3851a077e416ad3928dda4b08] In regulation 42—
 
 - (a) in the heading, after “EC” insert “or UK”;
 - (b) in paragraph (1), for “regulation 25” substitute “relevant EU law, or the UK declaration of conformity or suitability for use has not been drawn up in accordance with the requirements of regulation 25 and Schedule 7”;
@@ -800,7 +800,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   ;
 - (b) in paragraph (d)—
   - (i) after “TSI replacing it,”, insert “or the NTSN”,
-  - (ii) in sub-paragraph (ii), for “has been granted under regulation 14”, substitute “was granted under regulation 14 before IP completion day[^key-a36699cecd3ed79cd7f397bb7d823fcf], or an exemption from part of it has been granted under regulations 14 and 14A”.
+  - (ii) in sub-paragraph (ii), for “has been granted under regulation 14”, substitute “was granted under regulation 14 before IP completion day[^c-a36699cecd3ed79cd7f397bb7d823fcf], or an exemption from part of it has been granted under regulations 14 and 14A”.
 
 (49) In regulation 46 (dispensations)—
 
@@ -811,7 +811,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 > **47A. Further savings and transitional arrangements**
 >
-> (1) Where a structural subsystem was authorised to be placed in service on the rail system in accordance with regulation 7 or regulation 9 as they had effect before IP completion day[^key-bea86dbd7682e8c91ac059a678b050d0] and that authorisation has not been revoked, it is treated as authorised under these Regulations as they have effect on or after IP completion day.
+> (1) Where a structural subsystem was authorised to be placed in service on the rail system in accordance with regulation 7 or regulation 9 as they had effect before IP completion day[^c-bea86dbd7682e8c91ac059a678b050d0] and that authorisation has not been revoked, it is treated as authorised under these Regulations as they have effect on or after IP completion day.
 >
 > (2) Where an application for authorisation was made pursuant to regulation 5 as it had effect before IP completion day and that authorisation was not issued before IP completion day, it is, on or after IP completion day, treated as a valid application under these Regulations and any EC declaration of verification and technical file submitted with that application are treated as a UK declaration of verification and technical file submitted in accordance with these Regulations as they have effect on or after IP completion day.
 >
@@ -837,7 +837,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (51) In the heading of the Schedule to the Regulations, after “Schedule” insert “1”.
 
-### 3. Consequential amendments[^key-d8d79873feba737f251f7910810f4a68]
+### 3. Consequential amendments[^c-d8d79873feba737f251f7910810f4a68]
 
 Schedule 8 has effect.
 
@@ -849,11 +849,11 @@ Parliamentary Under Secretary of State
 
 Department for Transport
 
-## SCHEDULE 1[^key-42be682da0305dcf4d1394309cc011b6]
+## SCHEDULE 1[^c-42be682da0305dcf4d1394309cc011b6]
 
 Regulation 2(3)
 
-[^key-42be682da0305dcf4d1394309cc011b6]After Schedule 1 to the Regulations insert—
+[^c-42be682da0305dcf4d1394309cc011b6]After Schedule 1 to the Regulations insert—
 
 > **SCHEDULE 2 — Essential Requirements**
 >
@@ -965,7 +965,7 @@ Regulation 2(3)
 > - The access doors must incorporate an opening and closing system which guarantees passenger safety.
 > - Emergency exits must be provided and indicated.
 > - Appropriate provisions must be laid down to take account of the particular safety conditions in very long tunnels.
-> - All trains must have an emergency lighting system of sufficient intensity and duration on board.[^key-93261950b3ed8c7200e1da78fb65028c]
+> - All trains must have an emergency lighting system of sufficient intensity and duration on board.[^c-93261950b3ed8c7200e1da78fb65028c]
 > - Trains must be equipped with a public address system which provides a means of communication to the public from on-board staff.
 >
 > (2.4.2) Reliability and availability
@@ -1044,11 +1044,11 @@ Regulation 2(3)
 >
 > - Appropriate steps must be taken to ensure that telematics applications for passengers subsystems provide for the necessary functionality required to ensure accessibility for persons with disabilities and persons with reduced mobility.
 
-## SCHEDULE 2[^key-f375fa1344d28a13015d574a6fee898c]
+## SCHEDULE 2[^c-f375fa1344d28a13015d574a6fee898c]
 
 Regulation 2(3)
 
-[^key-f375fa1344d28a13015d574a6fee898c]After Schedule 2 to the Regulations, insert—
+[^c-f375fa1344d28a13015d574a6fee898c]After Schedule 2 to the Regulations, insert—
 
 > **SCHEDULE 3 — Subsystems**
 >
@@ -1112,11 +1112,11 @@ Regulation 2(3)
 >
 > The procedures, associated equipment, logistics centres for maintenance work and reserves providing the mandatory corrective and preventive maintenance to ensure the interoperability of the rail system and guarantee the performance required.
 
-## SCHEDULE 3[^key-acc77a2d4903b0cbdf6bbd3b5e20235e]
+## SCHEDULE 3[^c-acc77a2d4903b0cbdf6bbd3b5e20235e]
 
 Regulation 2(10)
 
-[^key-acc77a2d4903b0cbdf6bbd3b5e20235e]After Schedule 3 to the Regulations, insert—
+[^c-acc77a2d4903b0cbdf6bbd3b5e20235e]After Schedule 3 to the Regulations, insert—
 
 > **SCHEDULE 4 — UK verification assessment procedure for subsystems**
 >
@@ -1160,11 +1160,11 @@ Regulation 2(10)
 >
 > **2.3.** UK certificate of verification
 >
-> (2.3.1) The approved bodies responsible for the UK verification must assess the design, production and final testing of the subsystem and must draw up the UK certificate of verification intended for the project entity. In turn, the project entity must draw up the UK declaration of verification.[^key-c2f044d0e17d60a5811cce5b8027d9f7] The UK certificate of verification must provide reference to the NTSNs with which the conformity has been assessed.
+> (2.3.1) The approved bodies responsible for the UK verification must assess the design, production and final testing of the subsystem and must draw up the UK certificate of verification intended for the project entity. In turn, the project entity must draw up the UK declaration of verification.[^c-c2f044d0e17d60a5811cce5b8027d9f7] The UK certificate of verification must provide reference to the NTSNs with which the conformity has been assessed.
 >
 > Where a subsystem has not been assessed for its conformity with all relevant NTSNs (e.g. in the case of an exemption, partial application of NTSNs for upgrade or renewal, transitional period in an NTSN or UK specific case), the UK certificate of verification shall give the precise reference to the NTSNs or their parts whose conformity has not been examined by the approved body during the UK verification assessment procedure.
 >
-> (2.3.2)[^key-e452c8fbdd9463bdf57a3f2f02fa836b] Where an ISV has been issued, whether by an approved body, an EU notified body, or a designated body, the approved body responsible for the verification of the subsystem must take the ISV into account, and before issuing its UK certificate of verification, must:
+> (2.3.2)[^c-e452c8fbdd9463bdf57a3f2f02fa836b] Where an ISV has been issued, whether by an approved body, an EU notified body, or a designated body, the approved body responsible for the verification of the subsystem must take the ISV into account, and before issuing its UK certificate of verification, must:
 >
 > - (a) verify that the ISV correctly covers the relevant requirements of the NTSNs,
 > - (b) check all aspects that are not covered by the ISV, and
@@ -1183,7 +1183,7 @@ Regulation 2(10)
 > - (c) the technical files compiled by each of the EU notified bodies or approved bodies involved in the verification of the subsystem, which shall include:
 >   - (i) copies of the EC or UK declarations of conformity or suitability for use established for interoperability constituents and accompanied, where appropriate, by the corresponding calculation notes and a copy of the records of the tests and examinations carried out by the approved body or EU notified body on the basis of the common technical specifications,
 >   - (ii) where available, the ISV that accompanies the certificate of verification, including the result of verification by the approved body or by the EU notified body of the ISV validity,
->   - (iii) the certificate of verification, accompanied by corresponding calculation notes and signed by the EU notified body responsible for the verification[^key-cc0fd2cd1be5e0d5725054335c235bf5], stating that the subsystem complies with the requirements of the relevant TSIs or by the approved body responsible for the verification, stating that the subsystem complies with the requirements of the relevant NTSNs, and mentioning any reservations recorded during performance of the activities and not withdrawn; the certificate of verification should also be accompanied by the inspection and audit reports drawn up by the same body in connection with its task, as specified in points 2.5.2 and 2.5.3;
+>   - (iii) the certificate of verification, accompanied by corresponding calculation notes and signed by the EU notified body responsible for the verification[^c-cc0fd2cd1be5e0d5725054335c235bf5], stating that the subsystem complies with the requirements of the relevant TSIs or by the approved body responsible for the verification, stating that the subsystem complies with the requirements of the relevant NTSNs, and mentioning any reservations recorded during performance of the activities and not withdrawn; the certificate of verification should also be accompanied by the inspection and audit reports drawn up by the same body in connection with its task, as specified in points 2.5.2 and 2.5.3;
 > - (d) any other certificates that may have been issued as part of a verification process in accordance with any other enactment or rule of law;
 > - (e) when verification of safe integration is required pursuant to the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^f00010], or the Railways (Safety Management) Regulations (Northern Ireland) 2006[^f00011] the relevant technical file shall include the assessors’ report(s) on the common safety methods (CSM) on risk assessment.
 >
@@ -1221,7 +1221,7 @@ Regulation 2(10)
 >
 > **3.2.** Certificate of verification
 >
-> The designated body must draw up the UK certificate of verification intended for the project entity.[^key-ecbadcfed5ad78ad8f6a3086fda8c7c4]
+> The designated body must draw up the UK certificate of verification intended for the project entity.[^c-ecbadcfed5ad78ad8f6a3086fda8c7c4]
 >
 > The certificate shall contain a precise reference to the UK specific rule(s) whose conformity has been examined by the designated body in the UK verification process.
 >
@@ -1235,11 +1235,11 @@ Regulation 2(10)
 >
 > If a UK certificate of verification is to be issued for certain parts of a subsystem, the provisions of this Schedule shall apply mutatis mutandis for those parts.
 
-## SCHEDULE 4[^key-8e1858bdebe3edcb43709befc2500724]
+## SCHEDULE 4[^c-8e1858bdebe3edcb43709befc2500724]
 
 Regulation 2(12)
 
-[^key-8e1858bdebe3edcb43709befc2500724]After Schedule 4 to the Regulations, insert—
+[^c-8e1858bdebe3edcb43709befc2500724]After Schedule 4 to the Regulations, insert—
 
 > **SCHEDULE 5 — UK declaration of verification of subsystems**
 >
@@ -1270,7 +1270,7 @@ Regulation 2(12)
 >
 > Where reference is made in Schedule 4 to the “intermediate statement of verification” (ISV), the provisions of this Section shall apply to that declaration.
 >
-> **2.** Modification of subsystems with EC or UK declaration of verification issued before IP completion day[^key-529afb11a712f185706903351e7d2bd7]
+> **2.** Modification of subsystems with EC or UK declaration of verification issued before IP completion day[^c-529afb11a712f185706903351e7d2bd7]
 >
 > In a case of a modification, which is not a substitution in the framework of maintenance, of a subsystem covered by a UK declaration of verification, or by an EC declaration of verification issued before IP completion day, without prejudice to regulations 12 and 13, the following provisions apply.
 >
@@ -1291,21 +1291,21 @@ Regulation 2(12)
 >
 > Where additional UK verifications are carried out an additional UK declaration of verification may be required, in particular when such additional verifications are necessary for an additional authorisation for placing in service. In this case the scope of the additional UK declaration of verification shall be limited to the scope of the additional verifications.
 
-## SCHEDULE 5[^key-002ff3b90ad317332e80afee3068b91c]
+## SCHEDULE 5[^c-002ff3b90ad317332e80afee3068b91c]
 
 Regulation 2(15)
 
-[^key-002ff3b90ad317332e80afee3068b91c]After Schedule 5 to the Regulations insert—
+[^c-002ff3b90ad317332e80afee3068b91c]After Schedule 5 to the Regulations insert—
 
 > **SCHEDULE 6 — Model declaration of conformity to an authorised type of vehicle**
 >
 > Regulation 9(5)
 
-## SCHEDULE 6[^key-eae3c2938d428b6b5c1e3f6932fb3546]
+## SCHEDULE 6[^c-eae3c2938d428b6b5c1e3f6932fb3546]
 
 Regulation 2(30)
 
-[^key-eae3c2938d428b6b5c1e3f6932fb3546]After Schedule 6 to the Regulations insert—
+[^c-eae3c2938d428b6b5c1e3f6932fb3546]After Schedule 6 to the Regulations insert—
 
 > **SCHEDULE 7 — UK declaration of conformity or suitability for use of interoperability constituents**
 >
@@ -1331,13 +1331,13 @@ Regulation 2(30)
 >
 > **2.** Scope
 >
-> The UK declaration of conformity or suitability for use must cover:[^key-d881a650ace1e46accae882253de3bde]
+> The UK declaration of conformity or suitability for use must cover:[^c-d881a650ace1e46accae882253de3bde]
 >
 > - (a) the assessment by an approved body or bodies or designated body or bodies of the intrinsic conformity of an interoperability constituent, considered in isolation, to the technical specifications to be met,
 > - (b) the assessment/judgement by an approved body or bodies or designated body or bodies of the suitability for use of an interoperability constituent, considered within its railway environment and, in particular in cases where the interfaces are involved, in relation to the technical specifications, particularly those of a functional nature, which are to be checked, or
-> - (c) the assessment by a designated body or bodies of the conformity or suitability for use of an interoperability constituent against applicable UK specific cases, where an EC declaration of conformity or suitability for use has been drawn up on or after IP completion day[^key-b79bed734af56e911b4b35d327fbc7a8] and there are applicable UK specific cases, or an EC declaration of conformity or suitability for use has been drawn up before IP completion day[^key-e12516933687065a6537da0ce9b0bde3] and any applicable UK specific cases are new or materially different to those against which the interoperability constituent was previously assessed.
+> - (c) the assessment by a designated body or bodies of the conformity or suitability for use of an interoperability constituent against applicable UK specific cases, where an EC declaration of conformity or suitability for use has been drawn up on or after IP completion day[^c-b79bed734af56e911b4b35d327fbc7a8] and there are applicable UK specific cases, or an EC declaration of conformity or suitability for use has been drawn up before IP completion day[^c-e12516933687065a6537da0ce9b0bde3] and any applicable UK specific cases are new or materially different to those against which the interoperability constituent was previously assessed.
 >
-> The assessment procedures implemented by the approved bodies or the designated bodies at the design and production stages must draw[^key-845c9358cb400bb59ec65360404814a4] upon the modules defined in the NTSN concerning modules for the procedures for assessment of conformity or suitability for use and UK verification, and in accordance with the conditions referred to in the NTSNs.
+> The assessment procedures implemented by the approved bodies or the designated bodies at the design and production stages must draw[^c-845c9358cb400bb59ec65360404814a4] upon the modules defined in the NTSN concerning modules for the procedures for assessment of conformity or suitability for use and UK verification, and in accordance with the conditions referred to in the NTSNs.
 >
 > **3.** Contents of the UK declaration of conformity or suitability for use
 >
@@ -1356,11 +1356,11 @@ Regulation 2(30)
 >
 > In this Schedule “examination certificate” means a certificate drawn up as part of an assessment of an interoperability constituent in accordance with one of the modules defined in the NTSN concerning modules for the procedures for assessment of conformity or suitability for use and UK verification.
 
-## SCHEDULE 7[^key-14daeabb077abc00879838e05a80cf2d]
+## SCHEDULE 7[^c-14daeabb077abc00879838e05a80cf2d]
 
 Regulation 2(38)
 
-[^key-14daeabb077abc00879838e05a80cf2d]After Schedule 7 to the Regulations, insert—
+[^c-14daeabb077abc00879838e05a80cf2d]After Schedule 7 to the Regulations, insert—
 
 > **SCHEDULE 8 — Minimum criteria which must be taken into account by the Secretary of State when approving bodies**
 >
@@ -1386,29 +1386,29 @@ Regulation 2(38)
 >
 > **6.** The body must take out civil liability insurance unless that liability is covered by the UK Government under the law of the UK or of any part of the UK or unless the checks are carried out directly by the UK Government.
 >
-> **7.** The staff of the body must be[^key-76639d20aeb007ad7878b421567cdc28] bound by professional secrecy with regard to everything they learn in the performance of their duties (with the exception of the competent administrative authorities and accident investigation bodies in the UK as well as accident investigation bodies responsible for the investigation of accidents caused by the failure of the interoperability constituents or subsystems checked) in pursuance of these Regulations.
+> **7.** The staff of the body must be[^c-76639d20aeb007ad7878b421567cdc28] bound by professional secrecy with regard to everything they learn in the performance of their duties (with the exception of the competent administrative authorities and accident investigation bodies in the UK as well as accident investigation bodies responsible for the investigation of accidents caused by the failure of the interoperability constituents or subsystems checked) in pursuance of these Regulations.
 
 ## SCHEDULE 8 — Consequential amendments
 
 Regulation 3
 
-**1.**[^key-703dadc89a6787c4c56c6330af8a53a2] In regulation 2 of the Rail Vehicle Accessibility (Non-Interoperable Rail System) Regulations 2010[^f00014] (Interpretation)—
+**1.**[^c-703dadc89a6787c4c56c6330af8a53a2] In regulation 2 of the Rail Vehicle Accessibility (Non-Interoperable Rail System) Regulations 2010[^f00014] (Interpretation)—
 
 - (a) omit the definition of “EU specifications”;
 - (b) after the definition for “reference wheelchair”, insert—
 
   > - “relevant specifications” means—
-  >   - (a) before IP completion day[^key-4fca4a2fc230ad894a6f5d98ca6642cc], section 4.2.2 of the technical specification for interoperability relating to “persons with reduced mobility” set out in the Annex to [Decision 2008/164/EC](https://www.legislation.gov.uk/eud/2008/0164) of the European Commission of 21 December 2007 (as modified in section 7.4.1.3.2 for GB rolling stock); or
+  >   - (a) before IP completion day[^c-4fca4a2fc230ad894a6f5d98ca6642cc], section 4.2.2 of the technical specification for interoperability relating to “persons with reduced mobility” set out in the Annex to [Decision 2008/164/EC](https://www.legislation.gov.uk/eud/2008/0164) of the European Commission of 21 December 2007 (as modified in section 7.4.1.3.2 for GB rolling stock); or
   >   - (b) on and after IP completion day, the corresponding section of the NTSN relating to “persons with reduced mobility” published by the Secretary of State under the Railways (Interoperability) Regulations 2011 as amended from time to time;
 
   ;
 
-**2.**[^key-2a53c86b4f644e79cc0a0b66bfe8e1e2] In regulation 3(4), (5) and (7), for “EU specifications”, substitute “relevant specifications”.
+**2.**[^c-2a53c86b4f644e79cc0a0b66bfe8e1e2] In regulation 3(4), (5) and (7), for “EU specifications”, substitute “relevant specifications”.
 
-**3.**[^key-d83e036f01bd1070a6e376756bd89a17] The Railways and Other Guided Transport Systems (Safety) Regulations 2006 are amended as follows—
+**3.**[^c-d83e036f01bd1070a6e376756bd89a17] The Railways and Other Guided Transport Systems (Safety) Regulations 2006 are amended as follows—
 
 - (a) in regulation 2—
-  - (i)[^key-4c3694abcc3fac06d37e86f5c11541cc] in the definition of “national safety rules”, for “covered by a TSI” substitute “covered by an NTSN”;
+  - (i)[^c-4c3694abcc3fac06d37e86f5c11541cc] in the definition of “national safety rules”, for “covered by a TSI” substitute “covered by an NTSN”;
   - (ii) after the definition of “national safety rules”, insert—
 
     > - “NTSN” means a National Technical Specification Notice published by the Secretary of State pursuant to regulation 3B of the Interoperability Regulations;
@@ -1437,71 +1437,71 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00001]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-7e1727f24d5dd12479aba45eb45a83c1]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-7e1727f24d5dd12479aba45eb45a83c1]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-c575ebbb13c2f2465a9775c479cce5dc]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c575ebbb13c2f2465a9775c479cce5dc]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2011/3066](https://www.legislation.gov.uk/uksi/2011/3066), amended by [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042), [2013/3023](https://www.legislation.gov.uk/uksi/2013/3023), [2014/3217](https://www.legislation.gov.uk/uksi/2014/3217), [2015/1682](https://www.legislation.gov.uk/uksi/2015/1682), [2015/2022](https://www.legislation.gov.uk/uksi/2015/2022), [2016/275](https://www.legislation.gov.uk/uksi/2016/275), and [2016/645](https://www.legislation.gov.uk/uksi/2016/645).
 
-[^key-b805c3bc367a17dc46c3ff7a185408d6]: Textual amendment: Words in reg. 2(2)(a) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/a)
+[^c-b805c3bc367a17dc46c3ff7a185408d6]: Textual amendment: Words in reg. 2(2)(a) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/a)
 
-[^key-4413133b350aa89525ecf28ce8319c39]: Textual amendment: Words in reg. 2(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/2/a)
+[^c-4413133b350aa89525ecf28ce8319c39]: Textual amendment: Words in reg. 2(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/2/a)
 
 [^f00003]: Footnote: [2016 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2016/8).
 
-[^key-269b073644d052861919319969b40f37]: Textual amendment: Words in reg. 2(2)(g) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/b)
+[^c-269b073644d052861919319969b40f37]: Textual amendment: Words in reg. 2(2)(g) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/b)
 
-[^key-98818d1ed3727145ce42f1243583896d]: Textual amendment: Words in reg. 2(2)(h) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/c)
+[^c-98818d1ed3727145ce42f1243583896d]: Textual amendment: Words in reg. 2(2)(h) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/c)
 
-[^key-ef07900984c9aa957578bba793c0361e]: Textual amendment: Reg. 2(2)(ka) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/d)
+[^c-ef07900984c9aa957578bba793c0361e]: Textual amendment: Reg. 2(2)(ka) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/d)
 
-[^key-b196ff879e3fd563392ab32eba2db14b]: Textual amendment: Reg. 2(2)(m) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(e)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/e)
+[^c-b196ff879e3fd563392ab32eba2db14b]: Textual amendment: Reg. 2(2)(m) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(e)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/e)
 
-[^key-d5558b71ba4c08475dbb08abc783f6c3]: Textual amendment: Words in reg. 2(2)(q) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(f)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/f/i)
+[^c-d5558b71ba4c08475dbb08abc783f6c3]: Textual amendment: Words in reg. 2(2)(q) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(f)(i)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/f/i)
 
-[^key-5b19258fb4eddcc662ec51ecf410099d]: Textual amendment: Words in reg. 2(2)(q) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/f/ii)
+[^c-5b19258fb4eddcc662ec51ecf410099d]: Textual amendment: Words in reg. 2(2)(q) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/f/ii)
 
-[^key-23d67b5eba0272a080026af0ba5dc448]: Textual amendment: Words in reg. 2(2)(s) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/2/b)
+[^c-23d67b5eba0272a080026af0ba5dc448]: Textual amendment: Words in reg. 2(2)(s) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/2/b)
 
-[^key-84100405e01c2aaffb42f3276a64e55d]: Textual amendment: Words in reg. 2(2)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(g)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/g)
+[^c-84100405e01c2aaffb42f3276a64e55d]: Textual amendment: Words in reg. 2(2)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(g)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/g)
 
-[^key-3f3b1233c4782537b05b8cc3e23fbab2]: Textual amendment: Reg. 2(2)(ab) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(h)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/h)
+[^c-3f3b1233c4782537b05b8cc3e23fbab2]: Textual amendment: Reg. 2(2)(ab) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(2)(h)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/2/h)
 
-[^key-bca0085d4df2a3b4468ba5fe2d7cc96a]: Textual amendment: Words in reg. 2(6) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/3/a)
+[^c-bca0085d4df2a3b4468ba5fe2d7cc96a]: Textual amendment: Words in reg. 2(6) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/3/a)
 
-[^key-8e96bc8caa65e907397f7d21bea4d801]: Textual amendment: Words in reg. 2(6) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/3/b)
+[^c-8e96bc8caa65e907397f7d21bea4d801]: Textual amendment: Words in reg. 2(6) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/3/b)
 
-[^key-091e840f2bfaa8b335f1d257b667b108]: Textual amendment: Reg. 2(7)(d) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/3)
+[^c-091e840f2bfaa8b335f1d257b667b108]: Textual amendment: Reg. 2(7)(d) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/3)
 
-[^key-42f8763787ce950b53e590912de0dfda]: Textual amendment: Reg. 2(9)(c)(viiia) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(4)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/4)
+[^c-42f8763787ce950b53e590912de0dfda]: Textual amendment: Reg. 2(9)(c)(viiia) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(4)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/4)
 
-[^key-030b392148590ec9a1420bac11af5235]: Textual amendment: Words in reg. 2(13)(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/4/a)
+[^c-030b392148590ec9a1420bac11af5235]: Textual amendment: Words in reg. 2(13)(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/4/a)
 
 [^f00004]: Footnote: OJ L 264, 8.10.2011, p.32.
 
-[^key-78bd6690ecd9169eac22a4b41762c4a7]: Textual amendment: Words in reg. 2(13)(b) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(5)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/5)
+[^c-78bd6690ecd9169eac22a4b41762c4a7]: Textual amendment: Words in reg. 2(13)(b) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(5)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/5)
 
-[^key-9cb4bbb4b8d77f03f47e1c835bf2014b]: Textual amendment: Words in reg. 2(13)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/4/b/i)
+[^c-9cb4bbb4b8d77f03f47e1c835bf2014b]: Textual amendment: Words in reg. 2(13)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/4/b/i)
 
-[^key-67db0e55f3d933d2a17fd5bc3387775c]: Textual amendment: Words in reg. 2(13)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67db0e55f3d933d2a17fd5bc3387775c]: Textual amendment: Words in reg. 2(13)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cbfd73009993e8d8bfdde087cc27087c]: Textual amendment: Words in reg. 2(13)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/4/b/ii)
+[^c-cbfd73009993e8d8bfdde087cc27087c]: Textual amendment: Words in reg. 2(13)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/4/b/ii)
 
-[^key-2ccbabe0bdd7dd52c580639fc12da9bc]: Textual amendment: Word in reg. 2(21)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(6)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/6)
+[^c-2ccbabe0bdd7dd52c580639fc12da9bc]: Textual amendment: Word in reg. 2(21)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(6)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/6)
 
-[^key-7685792d7d7192c7e3530adb09cdea90]: Textual amendment: Words in reg. 2(27) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/a/i)
+[^c-7685792d7d7192c7e3530adb09cdea90]: Textual amendment: Words in reg. 2(27) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/a/i)
 
-[^key-ddc71c10026d19cb4c14fa8b78c7db27]: Textual amendment: Words in reg. 2(27) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/a/ii)
+[^c-ddc71c10026d19cb4c14fa8b78c7db27]: Textual amendment: Words in reg. 2(27) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/a/ii)
 
-[^key-c552b062fd17c0201ebdc0a1b4b22ac7]: Textual amendment: Words in reg. 2(27) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/b)
+[^c-c552b062fd17c0201ebdc0a1b4b22ac7]: Textual amendment: Words in reg. 2(27) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/b)
 
-[^key-b0beba15b4a1756e7fef64729550aad7]: Textual amendment: Words in reg. 2(27) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(c)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/c)
+[^c-b0beba15b4a1756e7fef64729550aad7]: Textual amendment: Words in reg. 2(27) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(5)(c)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/5/c)
 
-[^key-1f8937731d58fcc9507011a3d604c042]: Textual amendment: Words in reg. 2(29)(f) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(6)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/6)
+[^c-1f8937731d58fcc9507011a3d604c042]: Textual amendment: Words in reg. 2(29)(f) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(6)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/6)
 
-[^key-2a4d245e139b8da946b329495b6dc159]: Textual amendment: Reg. 2(34)(d) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(7)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/7)
+[^c-2a4d245e139b8da946b329495b6dc159]: Textual amendment: Reg. 2(34)(d) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(7)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/7)
 
-[^key-0b5b2e8dbfaac3e44a2b92fd21951881]: Textual amendment: Words in reg. 2(36) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(7)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/7)
+[^c-0b5b2e8dbfaac3e44a2b92fd21951881]: Textual amendment: Words in reg. 2(36) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(7)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/7)
 
 [^f00005]: Footnote: Established under section 201 of the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38) and abolished by [S.I. 2006/2925](https://www.legislation.gov.uk/uksi/2006/2925).
 
@@ -1509,74 +1509,74 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00007]: Footnote: [S.I. 2006/397](https://www.legislation.gov.uk/uksi/2006/397), revoked with savings by [S.I. 2011/3066](https://www.legislation.gov.uk/uksi/2011/3066).
 
-[^key-757d61dd198e4b23615ed1750ee8a89d]: Textual amendment: Reg. 2(39)(ga) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(8)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/8)
+[^c-757d61dd198e4b23615ed1750ee8a89d]: Textual amendment: Reg. 2(39)(ga) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(8)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/8)
 
-[^key-eaac3848a0181bc366edd8977a7e99d9]: Textual amendment: Reg. 2(41A) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(9)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/9)
+[^c-eaac3848a0181bc366edd8977a7e99d9]: Textual amendment: Reg. 2(41A) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(9)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/9)
 
 [^f00008]: Footnote: The Rail Accident Investigation Branch was established by section 3 of the Railways and Transport Safety Act [2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20).
 
-[^key-46855b26f0a86496f8b902e6f4beb690]: Textual amendment: Reg. 2(42)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(10)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/10)
+[^c-46855b26f0a86496f8b902e6f4beb690]: Textual amendment: Reg. 2(42)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(10)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/10)
 
-[^key-a4cdc8f3851a077e416ad3928dda4b08]: Textual amendment: Reg. 2(47) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(11)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/11)
+[^c-a4cdc8f3851a077e416ad3928dda4b08]: Textual amendment: Reg. 2(47) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(11)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/11)
 
-[^key-a36699cecd3ed79cd7f397bb7d823fcf]: Textual amendment: Words in reg. 2(48)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(8)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/8)
+[^c-a36699cecd3ed79cd7f397bb7d823fcf]: Textual amendment: Words in reg. 2(48)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(8)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/8)
 
-[^key-bea86dbd7682e8c91ac059a678b050d0]: Textual amendment: Words in reg. 2(50) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(9)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/9)
+[^c-bea86dbd7682e8c91ac059a678b050d0]: Textual amendment: Words in reg. 2(50) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(9)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/9)
 
-[^key-d8d79873feba737f251f7910810f4a68]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d8d79873feba737f251f7910810f4a68]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-42be682da0305dcf4d1394309cc011b6]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-42be682da0305dcf4d1394309cc011b6]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-93261950b3ed8c7200e1da78fb65028c]: Textual amendment: Words in Sch. 1 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(12)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/12)
+[^c-93261950b3ed8c7200e1da78fb65028c]: Textual amendment: Words in Sch. 1 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(12)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/12)
 
-[^key-f375fa1344d28a13015d574a6fee898c]: Commencement: Sch. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f375fa1344d28a13015d574a6fee898c]: Commencement: Sch. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-acc77a2d4903b0cbdf6bbd3b5e20235e]: Commencement: Sch. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-acc77a2d4903b0cbdf6bbd3b5e20235e]: Commencement: Sch. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-c2f044d0e17d60a5811cce5b8027d9f7]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/a)
+[^c-c2f044d0e17d60a5811cce5b8027d9f7]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/a)
 
-[^key-e452c8fbdd9463bdf57a3f2f02fa836b]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/b)
+[^c-e452c8fbdd9463bdf57a3f2f02fa836b]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/b)
 
-[^key-cc0fd2cd1be5e0d5725054335c235bf5]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/c)
+[^c-cc0fd2cd1be5e0d5725054335c235bf5]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/c)
 
 [^f00010]: Footnote: [S.I. 2006/599](https://www.legislation.gov.uk/uksi/2006/599).
 
 [^f00011]: Footnote: [S.R. 2006 No. 237](https://www.legislation.gov.uk/nisr/2006/237), which has been amended by [S.R. 2011 No. 261](https://www.legislation.gov.uk/nisr/2011/261), [2013 No. 237](https://www.legislation.gov.uk/nisr/2013/237) and [2016 No. 267](https://www.legislation.gov.uk/nisr/2016/267).
 
-[^key-ecbadcfed5ad78ad8f6a3086fda8c7c4]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/d)
+[^c-ecbadcfed5ad78ad8f6a3086fda8c7c4]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/d)
 
-[^key-8e1858bdebe3edcb43709befc2500724]: Commencement: Sch. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-8e1858bdebe3edcb43709befc2500724]: Commencement: Sch. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-529afb11a712f185706903351e7d2bd7]: Textual amendment: Words in Sch. 4 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(10)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/10)
+[^c-529afb11a712f185706903351e7d2bd7]: Textual amendment: Words in Sch. 4 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(10)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/10)
 
-[^key-002ff3b90ad317332e80afee3068b91c]: Commencement: Sch. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-002ff3b90ad317332e80afee3068b91c]: Commencement: Sch. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-eae3c2938d428b6b5c1e3f6932fb3546]: Commencement: Sch. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-eae3c2938d428b6b5c1e3f6932fb3546]: Commencement: Sch. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-d881a650ace1e46accae882253de3bde]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(14)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/14/a)
+[^c-d881a650ace1e46accae882253de3bde]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(14)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/14/a)
 
-[^key-b79bed734af56e911b4b35d327fbc7a8]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(11)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/11/a)
+[^c-b79bed734af56e911b4b35d327fbc7a8]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(11)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/11/a)
 
-[^key-e12516933687065a6537da0ce9b0bde3]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(11)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/11/b)
+[^c-e12516933687065a6537da0ce9b0bde3]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(11)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/11/b)
 
-[^key-845c9358cb400bb59ec65360404814a4]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(14)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/14/b)
+[^c-845c9358cb400bb59ec65360404814a4]: Textual amendment: Words in Sch. 6 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(14)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/14/b)
 
-[^key-14daeabb077abc00879838e05a80cf2d]: Commencement: Sch. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-14daeabb077abc00879838e05a80cf2d]: Commencement: Sch. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050).
 
 [^f00013]: Footnote: [S.R. 2016 No.420](https://www.legislation.gov.uk/nisr/2016/420).
 
-[^key-76639d20aeb007ad7878b421567cdc28]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(15)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/15)
+[^c-76639d20aeb007ad7878b421567cdc28]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(15)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/15)
 
-[^key-703dadc89a6787c4c56c6330af8a53a2]: Commencement: Sch. 8 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-703dadc89a6787c4c56c6330af8a53a2]: Commencement: Sch. 8 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2010/432](https://www.legislation.gov.uk/uksi/2010/432).
 
-[^key-4fca4a2fc230ad894a6f5d98ca6642cc]: Textual amendment: Words in Sch. 8 para. 1(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(12)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/12)
+[^c-4fca4a2fc230ad894a6f5d98ca6642cc]: Textual amendment: Words in Sch. 8 para. 1(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(12)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/12)
 
-[^key-2a53c86b4f644e79cc0a0b66bfe8e1e2]: Commencement: Sch. 8 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2a53c86b4f644e79cc0a0b66bfe8e1e2]: Commencement: Sch. 8 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-d83e036f01bd1070a6e376756bd89a17]: Commencement: Sch. 8 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d83e036f01bd1070a6e376756bd89a17]: Commencement: Sch. 8 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-4c3694abcc3fac06d37e86f5c11541cc]: Textual amendment: Sch. 8 para. 3(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(16)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/16)
+[^c-4c3694abcc3fac06d37e86f5c11541cc]: Textual amendment: Sch. 8 para. 3(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(16)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/16)

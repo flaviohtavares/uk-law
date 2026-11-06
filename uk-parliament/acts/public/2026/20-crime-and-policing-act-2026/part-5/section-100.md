@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Taking down intimate image content[^key-84b2707292c84f9572d8a97b6a1ccbee][^key-8416d6f305acd9fff6a7a5932b7ee0fb]
+## 100. Taking down intimate image content[^c-84b2707292c84f9572d8a97b6a1ccbee][^c-8416d6f305acd9fff6a7a5932b7ee0fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,6 +150,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84b2707292c84f9572d8a97b6a1ccbee]: Commencement: S. 100 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-84b2707292c84f9572d8a97b6a1ccbee]: Commencement: S. 100 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-8416d6f305acd9fff6a7a5932b7ee0fb]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2026/20/section/100) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-8416d6f305acd9fff6a7a5932b7ee0fb]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2026/20/section/100) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)

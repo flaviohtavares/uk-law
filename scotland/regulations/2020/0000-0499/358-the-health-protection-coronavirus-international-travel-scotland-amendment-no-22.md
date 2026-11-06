@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 22) Regulations 2020 (revoked)[^key-361575ead0a9c55dd0cc05b614aee1a7]
+The Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 22) Regulations 2020 (revoked)[^c-361575ead0a9c55dd0cc05b614aee1a7]
 
 Approved by the Scottish Parliament
 
@@ -48,28 +48,28 @@ Coming into force
 
 at 4.00 a.m. on 7th November 2020
 
-[^key-361575ead0a9c55dd0cc05b614aee1a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-361575ead0a9c55dd0cc05b614aee1a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-361575ead0a9c55dd0cc05b614aee1a7]
+## 1. Citation and commencement[^c-361575ead0a9c55dd0cc05b614aee1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020[^key-361575ead0a9c55dd0cc05b614aee1a7]
+## 2. Amendment of the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020[^c-361575ead0a9c55dd0cc05b614aee1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving[^key-361575ead0a9c55dd0cc05b614aee1a7]
+## 3. Saving[^c-361575ead0a9c55dd0cc05b614aee1a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-361575ead0a9c55dd0cc05b614aee1a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-361575ead0a9c55dd0cc05b614aee1a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-361575ead0a9c55dd0cc05b614aee1a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-361575ead0a9c55dd0cc05b614aee1a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-361575ead0a9c55dd0cc05b614aee1a7]: Textual amendment: Regulations revoked (28.11.2020 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 24) Regulations 2020 (S.S.I. 2020/404)](https://www.legislation.gov.uk/ssi/2020/404), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/404/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/404/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/404/regulation/4))
+[^c-361575ead0a9c55dd0cc05b614aee1a7]: Textual amendment: Regulations revoked (28.11.2020 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 24) Regulations 2020 (S.S.I. 2020/404)](https://www.legislation.gov.uk/ssi/2020/404), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/404/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/404/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/404/regulation/4))

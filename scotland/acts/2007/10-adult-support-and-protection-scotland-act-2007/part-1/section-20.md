@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Criteria for granting banning order[^key-ed96e11d4857b5801a15eb5d58c49e58]
+## 20. Criteria for granting banning order[^c-ed96e11d4857b5801a15eb5d58c49e58]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ The sheriff may grant a banning order only if satisfied—
 
 ## Annotations
 
-[^key-ed96e11d4857b5801a15eb5d58c49e58]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2007/10/section/20) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-ed96e11d4857b5801a15eb5d58c49e58]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2007/10/section/20) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

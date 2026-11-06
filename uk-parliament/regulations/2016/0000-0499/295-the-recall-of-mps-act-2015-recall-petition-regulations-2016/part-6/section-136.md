@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Undue influence[^key-361dbd0479e6518b1d81e3e395b767a0]
+## 136. Undue influence[^c-361dbd0479e6518b1d81e3e395b767a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-361dbd0479e6518b1d81e3e395b767a0]: Textual amendment: Reg. 136 substituted (1.11.2023) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/8/4)
+[^c-361dbd0479e6518b1d81e3e395b767a0]: Textual amendment: Reg. 136 substituted (1.11.2023) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/8/4)

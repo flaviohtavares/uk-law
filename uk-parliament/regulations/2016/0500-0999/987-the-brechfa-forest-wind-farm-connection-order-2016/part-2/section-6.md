@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Benefit of Order[^key-f3d085c5cf7d50fabeb2775a20ee01fd]
+## 6. Benefit of Order[^c-f3d085c5cf7d50fabeb2775a20ee01fd]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3d085c5cf7d50fabeb2775a20ee01fd]: Commencement: Art. 6 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-f3d085c5cf7d50fabeb2775a20ee01fd]: Commencement: Art. 6 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

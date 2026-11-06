@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Postponing gain or loss under section 80(2): interests in UK land[^key-4ea5e32ff7aa9422ad7a0bd36db9168f]
+## 80A. Postponing gain or loss under section 80(2): interests in UK land[^c-4ea5e32ff7aa9422ad7a0bd36db9168f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ea5e32ff7aa9422ad7a0bd36db9168f]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/1992/12/section/80A) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/31)
+[^c-4ea5e32ff7aa9422ad7a0bd36db9168f]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/1992/12/section/80A) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/31)

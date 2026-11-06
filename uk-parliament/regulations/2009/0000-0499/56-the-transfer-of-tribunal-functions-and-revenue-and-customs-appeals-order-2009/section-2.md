@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The existing tribunals[^key-4b58b1a18839843d9aa47ba95f9c9a1a]
+## 2. The existing tribunals[^c-4b58b1a18839843d9aa47ba95f9c9a1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ In this Order “existing tribunals” means—
 
 ## Annotations
 
-[^key-4b58b1a18839843d9aa47ba95f9c9a1a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/56/article/2) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-4b58b1a18839843d9aa47ba95f9c9a1a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/56/article/2) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00003]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Sections 4 and 4A were substituted by section 127 of, and paragraphs 1 and 8 of Schedule 22 to, the [Finance Act 1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43).
 

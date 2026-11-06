@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Calculation of student income for an assessment period[^key-1a80843544fbe99a779d9d6674021f8b]
+## 62. Calculation of student income for an assessment period[^c-1a80843544fbe99a779d9d6674021f8b]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ the number of assessment periods for which the applicant is to be treated as hav
 
 Divide the amount produced by step 1 by the number of assessment periods produced by step 2.
 
-*Step 4[^key-0899185e5cc70b6f939ef2c0d0c83ffa]*
+*Step 4[^c-0899185e5cc70b6f939ef2c0d0c83ffa]*
 
 Where an applicant—
 
@@ -54,6 +54,6 @@ Where an applicant—
 
 ## Annotations
 
-[^key-1a80843544fbe99a779d9d6674021f8b]: Commencement: [Reg. 62](https://www.legislation.gov.uk/ssi/2021/249/regulation/62) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-1a80843544fbe99a779d9d6674021f8b]: Commencement: [Reg. 62](https://www.legislation.gov.uk/ssi/2021/249/regulation/62) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
-[^key-0899185e5cc70b6f939ef2c0d0c83ffa]: Textual amendment: Words in reg. 62 substituted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2022/52/regulation/14)
+[^c-0899185e5cc70b6f939ef2c0d0c83ffa]: Textual amendment: Words in reg. 62 substituted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2022/52/regulation/14)

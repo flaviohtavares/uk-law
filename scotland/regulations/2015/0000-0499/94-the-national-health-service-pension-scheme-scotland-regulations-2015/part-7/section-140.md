@@ -45,7 +45,7 @@ summary: ''
 - (b) a corresponding 1995 scheme; or
 - (c) a corresponding 2008 scheme.
 
-(5) In paragraph (1), “**buy-out policy**” means a policy of insurance or annuity contract that is appropriate for the purposes of section 19 of the 1993 Act (discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts)[^key-9a395f9f76e49a31fc666741a4b24084].
+(5) In paragraph (1), “**buy-out policy**” means a policy of insurance or annuity contract that is appropriate for the purposes of section 19 of the 1993 Act (discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts)[^c-9a395f9f76e49a31fc666741a4b24084].
 
 (6) In paragraph (4)—
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9a395f9f76e49a31fc666741a4b24084]: Textual amendment: Words in [reg. 140(5)](https://www.legislation.gov.uk/ssi/2015/94/regulation/140/5) substituted (13.3.2017) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [23](https://www.legislation.gov.uk/ssi/2017/28/regulation/23)
+[^c-9a395f9f76e49a31fc666741a4b24084]: Textual amendment: Words in [reg. 140(5)](https://www.legislation.gov.uk/ssi/2015/94/regulation/140/5) substituted (13.3.2017) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [23](https://www.legislation.gov.uk/ssi/2017/28/regulation/23)
 
 [^c22414831]: Marginal citation: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11)
 

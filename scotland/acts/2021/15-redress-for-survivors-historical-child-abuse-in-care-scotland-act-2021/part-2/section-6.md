@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Independence[^key-6e9c01b54b856b10d5111e04a817960e]
+## 6. Independence[^c-6e9c01b54b856b10d5111e04a817960e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e9c01b54b856b10d5111e04a817960e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/15/section/6) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-6e9c01b54b856b10d5111e04a817960e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/15/section/6) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

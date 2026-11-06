@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Collaboration between public services boards[^key-447c2fe7b2be28842baf1ae9461bba09]
+## 48. Collaboration between public services boards[^c-447c2fe7b2be28842baf1ae9461bba09]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-447c2fe7b2be28842baf1ae9461bba09]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2015/2/section/48) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-447c2fe7b2be28842baf1ae9461bba09]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2015/2/section/48) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

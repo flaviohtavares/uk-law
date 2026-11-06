@@ -33,7 +33,7 @@ AGRICULTURE
 
 PESTICIDES
 
-The Fees for Assessment of Active Substances (Third Stage Review) Regulations 2004 (revoked)[^key-319e741626a9907749e00157f848b03c]
+The Fees for Assessment of Active Substances (Third Stage Review) Regulations 2004 (revoked)[^c-319e741626a9907749e00157f848b03c]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 1st April 2004
 
-[^key-319e741626a9907749e00157f848b03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-319e741626a9907749e00157f848b03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-319e741626a9907749e00157f848b03c]
+## 1. Title, commencement and interpretation[^c-319e741626a9907749e00157f848b03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable for third stage reviews[^key-319e741626a9907749e00157f848b03c]
+## 2. Fees payable for third stage reviews[^c-319e741626a9907749e00157f848b03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-319e741626a9907749e00157f848b03c]
+## 3. Revocation[^c-319e741626a9907749e00157f848b03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-319e741626a9907749e00157f848b03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-319e741626a9907749e00157f848b03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-319e741626a9907749e00157f848b03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-319e741626a9907749e00157f848b03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-319e741626a9907749e00157f848b03c]: Textual amendment: Regulations revoked (17.2.2005) by [The Fees for Assessment of Active Substances (Third Stage Review) Regulations 2005 (S.I. 2005/117)](https://www.legislation.gov.uk/uksi/2005/117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/117/regulation/1), [5](https://www.legislation.gov.uk/uksi/2005/117/regulation/5)
+[^c-319e741626a9907749e00157f848b03c]: Textual amendment: Regulations revoked (17.2.2005) by [The Fees for Assessment of Active Substances (Third Stage Review) Regulations 2005 (S.I. 2005/117)](https://www.legislation.gov.uk/uksi/2005/117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/117/regulation/1), [5](https://www.legislation.gov.uk/uksi/2005/117/regulation/5)

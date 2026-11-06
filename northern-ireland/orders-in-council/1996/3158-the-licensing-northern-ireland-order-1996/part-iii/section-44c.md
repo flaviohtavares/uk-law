@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44C. Alignment of closing time for liquor and entertainment[^key-74f961f9ac9dd3b0bb250ea87341e1b6]
+## 44C. Alignment of closing time for liquor and entertainment[^c-74f961f9ac9dd3b0bb250ea87341e1b6]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74f961f9ac9dd3b0bb250ea87341e1b6]: Textual amendment: [Art. 44C](https://www.legislation.gov.uk/nisi/1996/3158/article/44C) inserted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 4](https://www.legislation.gov.uk/nia/2021/7/section/4), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-74f961f9ac9dd3b0bb250ea87341e1b6]: Textual amendment: [Art. 44C](https://www.legislation.gov.uk/nisi/1996/3158/article/44C) inserted (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 4](https://www.legislation.gov.uk/nia/2021/7/section/4), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

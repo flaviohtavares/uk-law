@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a lease has been granted out of the taxed lease,
 - (b) the lease does not extend to the whole of the premises subject to the taxed lease, and
-- (c)[^key-9e980a64b7cafe52d5106cfc1ff85891] the condition in subsection (1A) is met.
+- (c)[^c-9e980a64b7cafe52d5106cfc1ff85891] the condition in subsection (1A) is met.
 
 (1A) The condition is that—
 
@@ -50,4 +50,4 @@ sections 292 and 293 apply separately in relation to each part of the premises s
 
 ## Annotations
 
-[^key-9e980a64b7cafe52d5106cfc1ff85891]: Textual amendment: S. 294(1)(c)(1A) substituted for s. 294(1)(c) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 621](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/621) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9e980a64b7cafe52d5106cfc1ff85891]: Textual amendment: S. 294(1)(c)(1A) substituted for s. 294(1)(c) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 621](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/621) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

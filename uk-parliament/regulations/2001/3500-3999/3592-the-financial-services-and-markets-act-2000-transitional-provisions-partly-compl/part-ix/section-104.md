@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Effect of notification pursuant to article 103[^key-f6e5c2baf6efdf1427ebff488ead2674]
+## 104. Effect of notification pursuant to article 103[^c-f6e5c2baf6efdf1427ebff488ead2674]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6e5c2baf6efdf1427ebff488ead2674]: Commencement: Art. 104 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-f6e5c2baf6efdf1427ebff488ead2674]: Commencement: Art. 104 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

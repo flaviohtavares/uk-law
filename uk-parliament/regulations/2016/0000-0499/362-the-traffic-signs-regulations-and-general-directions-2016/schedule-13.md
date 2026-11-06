@@ -24,23 +24,23 @@ Regulation 3, Direction 3
 
 ### PART 1 — Provisions applying to signs in Part 2
 
-**1.**[^key-a8709814806fd00e2bcce3c0b0ee42bb] A warning of a description in column 2 of an item in the sign table in Part 2 must be conveyed by a triangular sign that is of—
+**1.**[^c-a8709814806fd00e2bcce3c0b0ee42bb] A warning of a description in column 2 of an item in the sign table in Part 2 must be conveyed by a triangular sign that is of—
 
 - (a) the colour and type provided for in the diagram in column 3; and
 - (b) the size shown in the diagram above the table.
 
-**2.**[^key-720dac79693fac2b72f322166f106f23] A plate containing a legend provided for in column 4 (“a first associated plate”) must—
+**2.**[^c-720dac79693fac2b72f322166f106f23] A plate containing a legend provided for in column 4 (“a first associated plate”) must—
 
 - (a) be of the colour and type; and
 - (b) comply with the requirements as to size,
 
 provided for in the diagram above the table.
 
-**3.**[^key-a484e11f05a2d461dd12cd8bc58346c4] If there is a number in column 5, the equivalent item number in the table in Part 4 is a supplementary associated plate for the triangular sign in question.
+**3.**[^c-a484e11f05a2d461dd12cd8bc58346c4] If there is a number in column 5, the equivalent item number in the table in Part 4 is a supplementary associated plate for the triangular sign in question.
 
-**4.**[^key-7f01761290c0df6bbba6c3cc69b01f69] The number in column 6 indicates that the equivalent numbered Schedule 13 General Direction applies to the triangular sign in question.
+**4.**[^c-7f01761290c0df6bbba6c3cc69b01f69] The number in column 6 indicates that the equivalent numbered Schedule 13 General Direction applies to the triangular sign in question.
 
-### PART 2 — Signs for use in temporary situations[^key-662723b344ffbe5f0b8bd408eb7fd7da]
+### PART 2 — Signs for use in temporary situations[^c-662723b344ffbe5f0b8bd408eb7fd7da]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_654)
 
@@ -50,7 +50,7 @@ Sign table — Schedule 13, Part 2
 | --- | --- | --- | --- | --- | --- |
 | 1 | Diagram 551.1<br>Migratory toad crossing ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_655) | “For” and a distance |  |  |
 | 2 | Diagram 554A<br>Worded warning sign<br>(Flood) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_656) | 1\. A distance with or without an arrow pointing to the left or to the right; or<br>2\. An arrow pointing to the left or to the right |  |  |
-| 3 | Diagram 554D<br>Worded warning sign<br>(No Smoking) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_657) | [^key-f90951d0b070fb7e10e40450102932ea] 1.[^key-23f380795c7167fe9a494404a36c3c7a] A distance with or without an arrow pointing to the left or to the right; or<br>2\. An arrow pointing to the left or to the right |  |  |
+| 3 | Diagram 554D<br>Worded warning sign<br>(No Smoking) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_657) | [^c-f90951d0b070fb7e10e40450102932ea] 1.[^c-23f380795c7167fe9a494404a36c3c7a] A distance with or without an arrow pointing to the left or to the right; or<br>2\. An arrow pointing to the left or to the right |  |  |
 | 4 | Diagram 554.2<br>Risk of ice or packed snow ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_658) | 1\. “Ice”;<br>2\. “Ice for” and a distance;<br>3\. “Snowdrifts”; or<br>4\. “Snowdrifts for” and a distance |  | 1 |
 | 5 | Diagram 556<br>Uneven road ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_659) | “For” and a distance | 1 |  |
 | 6 | Diagram 557<br>Slippery road ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_660) | “For” and a distance |  |  |
@@ -61,18 +61,18 @@ Sign table — Schedule 13, Part 2
 
 ### PART 3 — Provisions applying to plates in Part 4
 
-**1.**[^key-4ec9a87a9345c7bfdbf29365751eded6] A warning of a description in column 2 of an item in the sign table in Part 4 must be conveyed by a plate that—
+**1.**[^c-4ec9a87a9345c7bfdbf29365751eded6] A warning of a description in column 2 of an item in the sign table in Part 4 must be conveyed by a plate that—
 
 - (a) is of the colour and type; and
 - (b) complies with the requirements as to size,
 
 provided for in the diagram in column 3.
 
-**2.**[^key-c1a4eb0de2034243bb1fc50930199ab8] In relation to item 3, the warning is conveyed by both of the plates and paragraph 1 applies to each of those plates.
+**2.**[^c-c1a4eb0de2034243bb1fc50930199ab8] In relation to item 3, the warning is conveyed by both of the plates and paragraph 1 applies to each of those plates.
 
-**3.**[^key-a7525fba4ba536ec86d5cd56b4f6dd70] The plate provided for at item 2 may have a different numeral to that shown in the diagram.
+**3.**[^c-a7525fba4ba536ec86d5cd56b4f6dd70] The plate provided for at item 2 may have a different numeral to that shown in the diagram.
 
-### PART 4 — Optional supplementary plates used only in combination with signs shown in Part 2[^key-2d21aa03414bbb23838fc8cae29676bb]
+### PART 4 — Optional supplementary plates used only in combination with signs shown in Part 2[^c-2d21aa03414bbb23838fc8cae29676bb]
 
 Sign table — Schedule 13, Part 4
 
@@ -84,21 +84,21 @@ Sign table — Schedule 13, Part 4
 
 ### PART 5 — Provisions applying to signs in Part 6
 
-**1.**[^key-3cc20dbbef765268bc18d19ada6f0f16] A warning, requirement, restriction or prohibition of a description in column 2 of an item in the sign table in Part 6 must be conveyed by a sign that is of the colour and type, and complies with the requirements as to size, provided for in the diagram in column 3, or that diagram as varied in accordance with column 4.
+**1.**[^c-3cc20dbbef765268bc18d19ada6f0f16] A warning, requirement, restriction or prohibition of a description in column 2 of an item in the sign table in Part 6 must be conveyed by a sign that is of the colour and type, and complies with the requirements as to size, provided for in the diagram in column 3, or that diagram as varied in accordance with column 4.
 
-**2.**[^key-a914e00200aedc8dd53c16c7c6b70139] In respect of items 9 and 10, each lamp incorporated into the sign must show an intermittent amber light at a rate of flashing of not less than 60 nor more than 90 flashes per minute, and in such a manner that the lights of one horizontal pair are always shown when the lights of the other horizontal pair are not shown.
+**2.**[^c-a914e00200aedc8dd53c16c7c6b70139] In respect of items 9 and 10, each lamp incorporated into the sign must show an intermittent amber light at a rate of flashing of not less than 60 nor more than 90 flashes per minute, and in such a manner that the lights of one horizontal pair are always shown when the lights of the other horizontal pair are not shown.
 
-**3.**[^key-7bcc4199a7aa3a3cc247b239fb7553cf] If a number appears in column 5, the equivalent paragraph number in Part 7 applies to the sign in question.
+**3.**[^c-7bcc4199a7aa3a3cc247b239fb7553cf] If a number appears in column 5, the equivalent paragraph number in Part 7 applies to the sign in question.
 
-**4.**[^key-ea966655f8a11005f428ee3f4273c54d] The provisions of Part 8 apply to cones (item 4), delineators (item 5) and cylinders (item 6).
+**4.**[^c-ea966655f8a11005f428ee3f4273c54d] The provisions of Part 8 apply to cones (item 4), delineators (item 5) and cylinders (item 6).
 
-**5.**[^key-82fee05606a5f3f94844bea6722a8457] A number in column 6 indicates that the equivalent numbered Schedule 13 General Direction applies to the sign in question.
+**5.**[^c-82fee05606a5f3f94844bea6722a8457] A number in column 6 indicates that the equivalent numbered Schedule 13 General Direction applies to the sign in question.
 
-**6.**[^key-bf7d967bc47ebf72d2bab1d489436e25] Where provision is made in column 4 for a different logo to that shown in the diagram to be included, the logo may incorporate any image and lettering in any style and colour.
+**6.**[^c-bf7d967bc47ebf72d2bab1d489436e25] Where provision is made in column 4 for a different logo to that shown in the diagram to be included, the logo may incorporate any image and lettering in any style and colour.
 
-**7.**[^key-6fddb6520765a7fad726f056fa45c0df] Where provision is made in column 4 for the name of an organisation to be used instead of a logo, that is a reference to the name being used other than as part of a logo and is not to be taken as preventing the name of the organisation from being incorporated into a logo.
+**7.**[^c-6fddb6520765a7fad726f056fa45c0df] Where provision is made in column 4 for the name of an organisation to be used instead of a logo, that is a reference to the name being used other than as part of a logo and is not to be taken as preventing the name of the organisation from being incorporated into a logo.
 
-### PART 6 — Additional Temporary Signs[^key-b9df3a3a28c405d1182f99f44aa7f4c8]
+### PART 6 — Additional Temporary Signs[^c-b9df3a3a28c405d1182f99f44aa7f4c8]
 
 Sign table — Schedule 13, Part 6
 
@@ -107,8 +107,8 @@ Sign table — Schedule 13, Part 6
 | 1 | Diagram 7006.1<br>Information on telephone number to be used for enquiries about road works | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_668) | 1\. The Highways England logo may be varied to another logo used by Highways England or replaced by “Highways England”;<br>2\. The logo may be varied to “Scottish Government”, “Welsh Government” or a logo of the Scottish or Welsh Government;<br>3\. The logo may be varied to the name or logo of that part of the Scottish or Welsh Government that is, by virtue of the organisation of the government, responsible for the maintenance or improvement of the road;<br>4\. The logo may be varied to the name or logo of another traffic authority;<br>5\. The telephone number may be varied | 9 | 4 |
 | 2 | Diagram 7007.1<br>Relevant particulars of major construction or improvement scheme being carried out on road ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_669) | 1\. The Highways England logo may be varied to another logo used by Highways England or replaced by “Highways England”;<br>2\. The Department for Transport logo may be varied to another logo used by the Department or replaced by “Department for Transport”;<br>3\. The Department for Transport logo may be varied to the name or logo of another Department of Her Majesty’s Government;<br>3\. Either or both logos may be omitted;<br>4\. The Highways England or Department for Transport logo (or both) may be replaced by one or two of the following (provided that in total no more than two names or logos are shown)—<br>(a) “Welsh Government” or a logo used by the Welsh Government;<br>(b) “Scottish Government” or a logo used by the Scottish Government;<br>(c) the name or logo of that part of the Scottish or Welsh Government that is, by virtue of the organisation of the government, responsible for the maintenance or improvement of the road;<br>(d) the name or logo of another traffic authority;<br>5\. The particulars of the construction or improvement scheme may be varied | 10 | 4 |
 | 3 | Diagram 7008<br>Nature of street works, giving names of undertaker and contractor, emergency telephone number, and apology for in-convenience<br>(Sign for pedestrians) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_670) | 1\. The name of the undertaker (and logo) and contractor, the nature of the works, the completion date and telephone number may be varied;<br>2\. Each line of lettering may have a different x-height which must be smaller than the telephone number;<br>3\. The description of the works, the completion date and the name of the contractor may be omitted;<br>4\. The top and bottom panels may be in any colour and style of lettering;<br>5\. A logo indicating membership of a national street works good practice scheme may be added to the top or bottom panel;<br>6\. The bottom panel may be omitted;<br>7\. The top panel may be omitted provided the undertaker’s name is shown on the red panel | 10 | 4 |
-| 4 | Diagram 7101.1<br>Edge of a route for vehicle traffic through or past a temporary obstruction<br>(Traffic cone) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_671) | The colour of the base may be varied in accordance with Part 8, [^key-24a42e2ec1072123a61e1d6f472ac567]paragraph 1 *(Extent: E+W)*[^key-ecd2281d219aca78cc8d14854fd2f06f] | 12 | 4 |
-| 5 | Diagram 7102<br>Edge of a route for vehicular traffic through or past a temporary obstruction on a motorway or dual carriageway road<br>(Flat traffic delineator) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_672) | [^key-9d6d84d7c4abd976b243456f3d0dd7c4]1.[^key-61c409caa723eac29094e9e59d485572] The colour of the base may be varied in accordance with Part 8, [^key-0239be20b4660d02754ffb711a5fe24e]paragraph 3[^key-5e737101f171780329afda726cec6dda]<br>[^key-7defa44660113873beb10dc7d04ab00e]2. If the optional white reflective strip is not included, the minimum height is 450[^key-0a247c34f3802ecdc4049cbecae21b14] | 2, 12 | 4 |
+| 4 | Diagram 7101.1<br>Edge of a route for vehicle traffic through or past a temporary obstruction<br>(Traffic cone) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_671) | The colour of the base may be varied in accordance with Part 8, [^c-24a42e2ec1072123a61e1d6f472ac567]paragraph 1 *(Extent: E+W)*[^c-ecd2281d219aca78cc8d14854fd2f06f] | 12 | 4 |
+| 5 | Diagram 7102<br>Edge of a route for vehicular traffic through or past a temporary obstruction on a motorway or dual carriageway road<br>(Flat traffic delineator) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_672) | [^c-9d6d84d7c4abd976b243456f3d0dd7c4]1.[^c-61c409caa723eac29094e9e59d485572] The colour of the base may be varied in accordance with Part 8, [^c-0239be20b4660d02754ffb711a5fe24e]paragraph 3[^c-5e737101f171780329afda726cec6dda]<br>[^c-7defa44660113873beb10dc7d04ab00e]2. If the optional white reflective strip is not included, the minimum height is 450[^c-0a247c34f3802ecdc4049cbecae21b14] | 2, 12 | 4 |
 | 6 | Diagram 7103<br>Line of division of traffic flows on one carriageway, or to indicate the edge of a route for vehicular traffic through or past a temporary obstruction, or to mark a boundary between two carriageways of a dual carriageway road which may not be crossed except for fire and rescue authority, Scottish Fire and Rescue Service, ambulance or police purposes (Traffic cylinder) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_673) |  |  |  |
 | 7 | Diagram 7104<br>Sharp deviation of route at or near road works or other temporary obstructions | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_674) | The sign may be reversed to show a deviation to the right |  | 4, 8 |
 | 8 | Diagram 7105<br>Position of barrier to mark length of road closed to traffic or to guide traffic past an obstruction | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_675) |  |  | 4, 8 |
@@ -118,7 +118,7 @@ Sign table — Schedule 13, Part 6
 | 12 | Diagram 7404<br>Nature of work being done by vehicle working on the highway<br>(Sign attached to a road maintenance vehicle) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_679) | 1\. “HIGHWAY” may be varied to “MOTORWAY” or “ROAD”;<br>2\. The legend may be on one line | 9, 10 | 4, 6(3) |
 | 13 | Diagram 7202.1<br>Temporary lane availability<br>(Alternative types) | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_680) | 1\. The number of arrows and symbols indicating the number of lanes and those which are open or closed to traffic may be varied;<br>2\. Where the sign has a bottom panel, the legend may be varied to another distance or to “On slip road”, provided the legend appears on no more than three lines | 9 | 4 |
 | 14 | Diagram 7243<br>Temporary road layout with lane restrictions | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_681) | 1\. In the top panel the legend may be—<br>(a) varied to “REJOIN MAIN CARRIAGEWAY” or “NARROW LANES”;<br>(b) on one line;<br>2\. The top panel may be omitted;<br>3\. In the middle panel—<br>(a) the arrows and symbols may be varied to indicate the layout of the traffic lanes provided that the shape of an arrow head is not varied;<br>(b) an individual arrow may include more than one arrow head;<br>(c) the numerals on the width limit symbol may be varied;<br>(d) the width limit symbol may be omitted or varied to a symbol shown in column 3 of the sign table in Part 20 of Schedule 12 at items 24, 25, 28, 30, 33, and 35;<br>(e) the size of a symbol referred to in paragraph (d) may be varied from that shown for the symbol in Part 20 of Schedule 12;<br>(f) route numbers may be added with the x-height being 100, 125 or 150 mm;<br>(g) the route numbers referred to in paragraph (f) may be followed by “only” at the same x-height;<br>(h) a motorway junction number in white characters on a black patch may be added in a manner similar to the patch shown in the diagram at item 15, the x-height being 80, 100 or 120 mm;<br>(i) a horizontal bar may be added in the manner shown in the diagram at item 15 where two or more lanes are associated with the same route number;<br>(j) a white downward pointing arrow, as shown in the upper diagram at item 13, may be added to indicate a contraflow traffic lane<br>4\. In the bottom panel—<br>(a) the numerals indicating the maximum speed advised may be varied;<br>(b) the legend may be varied to a distance with an x-height of 100 mm, 125 mm or 150 mm;<br>(c) the distance referred to in paragraph (b) may be preceded by “For”;<br>5\. The bottom panel may be omitted | 9 | 4, 5 |
-| 15 | Diagram 7244<br>Temporary road layout, with an indication of destinations and route numbers, where the sign is placed on a motorway | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_682) | 1\. A panel with the legend “USE HARD SHOULDER”, “REJOIN MAIN CARRIAGEWAY”, “NARROW LANES”, “EVENT TRAFFIC” or other appropriate legend, may be added above the top panel in a manner similar to the top panel shown in the diagram at item 14 with an x-height of not less than 100 mm, nor more than 150 mm;<br>2\. In the top panel—<br>(a) the arrows may be varied to indicate the layout of the traffic lanes provided the shape of an arrow head is not varied;<br>(b) a white downward pointing arrow, as shown in the upper diagram at item 13, may be added to indicate a contraflow traffic lane;<br>(c) the symbol indicating a closed lane, as shown in the diagrams at item 13, may be added;<br>(d) where the sign is placed other than on a motorway, any route number must have characters of the form shown in Part 2 of Schedule 17 with an x- height of not less than 100 mm, nor more than 150 mm;<br>(e) a symbol shown in a diagram in Part 11 or 20 of Schedule 12 may be added and the size of the symbol may be varied from that shown;<br>(f) a destination or route number may be varied or omitted, and additional destinations and route numbers added;<br>(g) the junction number may be varied or omitted;<br>[^key-c9094d6b0259fa5cb68873f4ad62271f]3. In the bottom panel the distance may be—[^key-5ffe44f0afe8bbfdce1c94668472c607]<br>(a) varied;<br>(b) preceded by “For”;<br>4\. The bottom panel may be omitted | 9 | 4, 5 |
+| 15 | Diagram 7244<br>Temporary road layout, with an indication of destinations and route numbers, where the sign is placed on a motorway | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_682) | 1\. A panel with the legend “USE HARD SHOULDER”, “REJOIN MAIN CARRIAGEWAY”, “NARROW LANES”, “EVENT TRAFFIC” or other appropriate legend, may be added above the top panel in a manner similar to the top panel shown in the diagram at item 14 with an x-height of not less than 100 mm, nor more than 150 mm;<br>2\. In the top panel—<br>(a) the arrows may be varied to indicate the layout of the traffic lanes provided the shape of an arrow head is not varied;<br>(b) a white downward pointing arrow, as shown in the upper diagram at item 13, may be added to indicate a contraflow traffic lane;<br>(c) the symbol indicating a closed lane, as shown in the diagrams at item 13, may be added;<br>(d) where the sign is placed other than on a motorway, any route number must have characters of the form shown in Part 2 of Schedule 17 with an x- height of not less than 100 mm, nor more than 150 mm;<br>(e) a symbol shown in a diagram in Part 11 or 20 of Schedule 12 may be added and the size of the symbol may be varied from that shown;<br>(f) a destination or route number may be varied or omitted, and additional destinations and route numbers added;<br>(g) the junction number may be varied or omitted;<br>[^c-c9094d6b0259fa5cb68873f4ad62271f]3. In the bottom panel the distance may be—[^c-5ffe44f0afe8bbfdce1c94668472c607]<br>(a) varied;<br>(b) preceded by “For”;<br>4\. The bottom panel may be omitted | 9 | 4, 5 |
 | 16 | Diagram 7245 Temporary road layout | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_683) | 1\. In the top panel the legend may be-<br>(a) varied to “USE HARD SHOULDER” or “NARROW LANES”;<br>(b) on one line;<br>2\. The top panel may be omitted;<br>3\. In the middle panel—<br>(a) the arrows and symbols may be varied to indicate the layout of the traffic lanes provided the shape of an arrow head is not be varied;<br>(b) an individual arrow may include more than one arrow head;<br>(c) black symbols representing the division of traffic lanes may be added in a manner similar to that shown at item 14 of the sign table in Part 2 of Schedule 11 or at item 1 of the sign table in Part 28 of Schedule 12;<br>(d) a white downward pointing arrow as shown in the upper diagram at item 13 may be added to indicate a contraflow traffic lane;<br>(e) destinations and route numbers may be added with an x-height of 100, 125, 150 or 175 mm;<br>(f) a junction number panel may be added in a manner similar to that shown in the diagram at item 15, the x-height being 80, 100, 120 or 140 mm;<br>(g) symbols provided for in Parts 11, 12, 14, 15, 17 and 18 of Schedule 12 may be added;<br>4\. In the bottom panel—<br>(a) the numerals indicating the maximum speed advised may be varied;<br>(b) the legend may be varied to a distance with an x-height of 100, 125, 150 or 175 mm;<br>(c) the distance may be preceded by “For”;<br>5\. The bottom panel may be omitted | 9 | 4, 5 |
 | 17 | Diagram 633<br>Vehicular traffic must not proceed beyond the sign where displayed by a constable in uniform or by a traffic warden | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_684) | A red or transparent protective strip, with a visible width not exceeding 6 mm, may be applied to the perimeter of the sign |  | 10 |
 | 18 | Diagram 633.1<br>Vehicular traffic must not proceed beyond the sign | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_685) | A red or transparent protective strip, with a visible width not exceeding 6 mm, may be applied to the perimeter of the sign | 1, 9 | 9 |
@@ -140,9 +140,9 @@ Sign table — Schedule 13, Part 6
 | 34 | Diagram 7025 Vehicles to be escorted in through road works ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_701) |  |  | 4 |
 | 35 | Diagram 7026 Explanation of reason for escorting vehicles in convoys through road works | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_702) |  |  | 4 |
 | 36 | Diagram 7029 Vehicular traffic must not overtake the vehicle used to escort other vehicles through road works | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_703) | 1\. “NO OVERTAKING” may be omitted;<br>2\. “CONVOY VEHICLE” may be on one line | 1 (except if varied in accordance with entry 1 in column 4) | 4, 6(4) |
-| 37 | Diagram 7014<br>Permanent change in road layout ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_704) | 1\. “NEW ROUNDABOUT” may be varied to—<br>(a) “CHANGED PRIORITIES”;<br>(b) “GAP CLOSED”;<br>(c) “NEW ONE WAY SYSTEM”;<br>(d) “NEW ROAD LAYOUT”;<br>(e) “NEW TRAFFIC ISLANDS”;<br>(f) “NEW TRAFFIC SIGNALS”;<br>(g) “NEW ZEBRA CROSSING”;<br>(h) “SIGNAL PRIORITIES CHANGED”; or<br>(i) “SIGNAL [^key-213f41d7486b6169c5b81e23d3b61417]TIMINGS[^key-665891f2a0c4fc784c397e353b62eb3c] CHANGED”;<br>2\. A distance in yards to the nearest 10 yards may be substituted for, or added before, the word “AHEAD”, on a separate line where necessary, and must be expressed as “yards” or “yds” | 8 | 12 |
-| 38 | Diagram 7032<br>In relation to England,[^key-b3e2d3bee6612465a4fb648f8c721421] commencement point of a newly imposed 30 mph speed limit which is contiguous to an existing 30 mph speed limit | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_705) |  | 8 | 13 |
-| 38A[^key-0c73c5814b14c3971befdd6565bbe4dd] | Diagram 7032.1<br>In relation to Wales, commencement point or warning of the commencement point of a newly imposed 20 mph speed limit | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_019.gif) | 1\. “O’CH BLAEN” may be inserted after “MYA” in the Welsh text.<br>2\. “AHEAD” may be inserted after “LIMIT” in the English text. | 8 | 13A |
+| 37 | Diagram 7014<br>Permanent change in road layout ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_704) | 1\. “NEW ROUNDABOUT” may be varied to—<br>(a) “CHANGED PRIORITIES”;<br>(b) “GAP CLOSED”;<br>(c) “NEW ONE WAY SYSTEM”;<br>(d) “NEW ROAD LAYOUT”;<br>(e) “NEW TRAFFIC ISLANDS”;<br>(f) “NEW TRAFFIC SIGNALS”;<br>(g) “NEW ZEBRA CROSSING”;<br>(h) “SIGNAL PRIORITIES CHANGED”; or<br>(i) “SIGNAL [^c-213f41d7486b6169c5b81e23d3b61417]TIMINGS[^c-665891f2a0c4fc784c397e353b62eb3c] CHANGED”;<br>2\. A distance in yards to the nearest 10 yards may be substituted for, or added before, the word “AHEAD”, on a separate line where necessary, and must be expressed as “yards” or “yds” | 8 | 12 |
+| 38 | Diagram 7032<br>In relation to England,[^c-b3e2d3bee6612465a4fb648f8c721421] commencement point of a newly imposed 30 mph speed limit which is contiguous to an existing 30 mph speed limit | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_705) |  | 8 | 13 |
+| 38A[^c-0c73c5814b14c3971befdd6565bbe4dd] | Diagram 7032.1<br>In relation to Wales, commencement point or warning of the commencement point of a newly imposed 20 mph speed limit | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_epp_019.gif) | 1\. “O’CH BLAEN” may be inserted after “MYA” in the Welsh text.<br>2\. “AHEAD” may be inserted after “LIMIT” in the English text. | 8 | 13A |
 | 39 | Diagram 7014.1<br>Temporary or permanent reduction in bridge headroom ahead | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_706) | The numerals may be varied. | 8 | 14 |
 | 40 | Diagram 7291<br>Information on breakdown recovery services during road works | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_707) | “Await rescue” may be varied to “End”. | 9 | 4 |
 | 41 | Diagram 7294<br>Temporary maximum speed in mph advised | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_708) | The numerals may be varied to the appropriate advised maximum speed | 9 | 4 |
@@ -160,11 +160,11 @@ Sign table — Schedule 13, Part 6
 
 ### PART 7 — Provisions applying to signs in Part 6
 
-**1.**[^key-6d98450ea9c5145b906548b8607c8422] Section 36 of [^key-12a6875dfa2d67362054436c39c9fd23]the Road Traffic Act 1988[^key-56786b6571e0ce298a0d13ae1e7d1866] applies to the sign.
+**1.**[^c-6d98450ea9c5145b906548b8607c8422] Section 36 of [^c-12a6875dfa2d67362054436c39c9fd23]the Road Traffic Act 1988[^c-56786b6571e0ce298a0d13ae1e7d1866] applies to the sign.
 
-**2.**[^key-53cc7d8e1d93e8506a2bfac252e2f4e1] The sign must be of the size, colour and type shown in the two parts of the diagram in column 3.
+**2.**[^c-53cc7d8e1d93e8506a2bfac252e2f4e1] The sign must be of the size, colour and type shown in the two parts of the diagram in column 3.
 
-**3.**[^key-1de1c54fb353950d9f08672cc0bdb70c] (1) The sign must be a flexible sheet on which a triangle appears and the total area of the sheet, including the red triangle, must be not less than 0.8 square metres.
+**3.**[^c-1de1c54fb353950d9f08672cc0bdb70c] (1) The sign must be a flexible sheet on which a triangle appears and the total area of the sheet, including the red triangle, must be not less than 0.8 square metres.
 
 (2) The triangle must be equilateral.
 
@@ -176,7 +176,7 @@ Sign table — Schedule 13, Part 6
 
 (6) Any part of the sign coloured yellow must be fluorescent and may be reflectorised.
 
-**4.**[^key-dd075ba47a9728add43262e9d5007300] (1) The pyramid must consist of three visible sides, each of which is as specified in the diagram.
+**4.**[^c-dd075ba47a9728add43262e9d5007300] (1) The pyramid must consist of three visible sides, each of which is as specified in the diagram.
 
 (2) It must be made of rubber or flexible plastic material.
 
@@ -192,7 +192,7 @@ Sign table — Schedule 13, Part 6
 
 (8) The base may be of any colour, or omitted.
 
-**5.**[^key-09f40fc4d9867541618bf9f85d6ba353] (1) The pyramid must consist of three visible sides, each of which is as specified in the diagram.
+**5.**[^c-09f40fc4d9867541618bf9f85d6ba353] (1) The pyramid must consist of three visible sides, each of which is as specified in the diagram.
 
 (2) It must be made of rubber or flexible plastic material.
 
@@ -206,7 +206,7 @@ Sign table — Schedule 13, Part 6
 
 (7) The pyramid must not be illuminated through internal or external illumination.
 
-**6.**[^key-7cc8d44e0db13ac1dbb397a6aac41dbd] (1) The triangle must be legibly and permanently marked with the specification number of the British Standard for an Advance Warning Triangle to indicate a temporary obstruction, namely BS AU47: 1965[^f00106] or the specification number of a corresponding EEA standard.
+**6.**[^c-7cc8d44e0db13ac1dbb397a6aac41dbd] (1) The triangle must be legibly and permanently marked with the specification number of the British Standard for an Advance Warning Triangle to indicate a temporary obstruction, namely BS AU47: 1965[^f00106] or the specification number of a corresponding EEA standard.
 
 (2) The surface coloured red and marked A must be reflectorised.
 
@@ -229,7 +229,7 @@ Sign table — Schedule 13, Part 6
 
 (10) The triangle must not be illuminated through external illumination.
 
-**7.**[^key-a0701d52a886a551327ea3bd38d6809c] (1) The triangle must be legibly and permanently marked with the marking designated as an approval mark by regulation 4 of the Motor Vehicles (Designation of Approval Marks) Regulations 1979[^f00107] and shown in item 27 of Schedule 2 to those Regulations.
+**7.**[^c-a0701d52a886a551327ea3bd38d6809c] (1) The triangle must be legibly and permanently marked with the marking designated as an approval mark by regulation 4 of the Motor Vehicles (Designation of Approval Marks) Regulations 1979[^f00107] and shown in item 27 of Schedule 2 to those Regulations.
 
 (2) The surface coloured red and marked A must be reflectorised;
 
@@ -258,36 +258,36 @@ Sign table — Schedule 13, Part 6
 
 (11) The triangle must not be illuminated through external illumination.
 
-**8.**[^key-dab8169e875f7724de8c5d3d39bdf685] The sign must have, on its reverse, a date by which the person placing the sign reasonably believes the sign will have been removed.
+**8.**[^c-dab8169e875f7724de8c5d3d39bdf685] The sign must have, on its reverse, a date by which the person placing the sign reasonably believes the sign will have been removed.
 
-**9.**[^key-659d224e1e036a32501fb1dd7705ecb5] The yellow may be fluorescent.
+**9.**[^c-659d224e1e036a32501fb1dd7705ecb5] The yellow may be fluorescent.
 
-**10.**[^key-26f039ca28f003deb5fd360c10ba4c64] The sign need not be illuminated.
+**10.**[^c-26f039ca28f003deb5fd360c10ba4c64] The sign need not be illuminated.
 
-**11.**[^key-f2e2d1f30c8251fc7ac1c00cb1124227] A person who is in charge of, or accompanies, an emergency or a breakdown vehicle which is temporarily obstructing a road is authorised to place the sign for the purpose of warning vehicular traffic of the obstruction created by the vehicle and to indicate the way past the vehicle
+**11.**[^c-f2e2d1f30c8251fc7ac1c00cb1124227] A person who is in charge of, or accompanies, an emergency or a breakdown vehicle which is temporarily obstructing a road is authorised to place the sign for the purpose of warning vehicular traffic of the obstruction created by the vehicle and to indicate the way past the vehicle
 
-**12.**[^key-48353843fb44255a3ed8923a6633eed2] A person that, but for this paragraph, is not authorised to place the sign is authorised to do so for the purpose of warning traffic of a temporary obstruction in the road, other than one caused by the carrying out of works.
+**12.**[^c-48353843fb44255a3ed8923a6633eed2] A person that, but for this paragraph, is not authorised to place the sign is authorised to do so for the purpose of warning traffic of a temporary obstruction in the road, other than one caused by the carrying out of works.
 
 ### PART 8 — Requirements applying to cones, cylinders and delineators
 
-**1.**[^key-6e64fa52a0d5d2bca903c9b2d94dbef3] A cone is to consist of a conically shaped device—
+**1.**[^c-6e64fa52a0d5d2bca903c9b2d94dbef3] A cone is to consist of a conically shaped device—
 
 - (a) the base of which is—
   - (i) of any single colour; and
   - (ii) a polygon having not more than eight sides, which would be contained wholly within a circle with a diameter of three quarters of the height of the cone; and
 - (b) which conforms to the provisions of British Standard BS EN 13422:2004+A1:2009[^f00108] set out in paragraph 8.
 
-**2.**[^key-d3fd2857bd928e53c3d8f4828ae3c55a] A cylinder is to consist of a cylindrically shaped device which conforms to the provisions of British Standard BS EN 13422:2004+A1:2009 set out in paragraph 8.
+**2.**[^c-d3fd2857bd928e53c3d8f4828ae3c55a] A cylinder is to consist of a cylindrically shaped device which conforms to the provisions of British Standard BS EN 13422:2004+A1:2009 set out in paragraph 8.
 
-**3.**[^key-e8f8662c8cca8d94b14782635deeb846] A delineator is to consist of a flat device—
+**3.**[^c-e8f8662c8cca8d94b14782635deeb846] A delineator is to consist of a flat device—
 
-- (a) of which the side intended to be exposed to traffic is coloured as shown in the diagram at item [^key-63c4103811697987131f43651c0a7050]5[^key-060b331a1580e2338f3a29a85d40412d] of the table in Part 6 and the reverse side is either so coloured or coloured only grey or only red;
+- (a) of which the side intended to be exposed to traffic is coloured as shown in the diagram at item [^c-63c4103811697987131f43651c0a7050]5[^c-060b331a1580e2338f3a29a85d40412d] of the table in Part 6 and the reverse side is either so coloured or coloured only grey or only red;
 - (b) which conforms to the provisions of British Standard BS 8442:2015[^f00109]; and
 - (c) of which the base is of any single colour, except that a reflectorised white line 100 mm wide at an angle of not more than 60 degrees to the road surface may be marked on one side of the base at right angles to the face of the delineator.
 
-**4.**[^key-bb5adb2ec6220699af4f5716487667ea] The part of a cone, cylinder or delineator coloured white must, subject to paragraph 7, be illuminated with white retroreflecting material and the part coloured red (except, in the case of a delineator, on the reverse side when that side is coloured only red) may be illuminated with red retroreflecting material.
+**4.**[^c-bb5adb2ec6220699af4f5716487667ea] The part of a cone, cylinder or delineator coloured white must, subject to paragraph 7, be illuminated with white retroreflecting material and the part coloured red (except, in the case of a delineator, on the reverse side when that side is coloured only red) may be illuminated with red retroreflecting material.
 
-**5.**[^key-4d5f96a7d31b01083aa51159d5ee3979] Information about the ownership of a cone, cylinder or delineator may—
+**5.**[^c-4d5f96a7d31b01083aa51159d5ee3979] Information about the ownership of a cone, cylinder or delineator may—
 
 - (a) in the case of a cone, be moulded—
   - (i) into the base in characters not more than 80 mm high in the same colour as the base;
@@ -296,14 +296,14 @@ Sign table — Schedule 13, Part 6
 - (b) in the case of a cylinder, be moulded into the lower of the two red parts of the cylinder in red characters not more than 40 mm high; and
 - (c) in the case of a delineator, be moulded into the base in characters not more than 80 mm high and in the same colour as the base.
 
-**6.**[^key-61551d4f780d88f8c96dd29aa9486409] Information about the manufacture of a cone, cylinder or delineator required in order to comply with British Standard BS EN 13422:2004+A1:2009 or British Standard BS 8442:2015 (or, in either case, a corresponding EEA standard) and occupying an area not exceeding 30 square centimetres, may be indicated on the part coloured white in characters not exceeding 5 mm in height, leaving at least 90% of the remaining area of white colour illuminated with white retroreflecting material.
+**6.**[^c-61551d4f780d88f8c96dd29aa9486409] Information about the manufacture of a cone, cylinder or delineator required in order to comply with British Standard BS EN 13422:2004+A1:2009 or British Standard BS 8442:2015 (or, in either case, a corresponding EEA standard) and occupying an area not exceeding 30 square centimetres, may be indicated on the part coloured white in characters not exceeding 5 mm in height, leaving at least 90% of the remaining area of white colour illuminated with white retroreflecting material.
 
-**7.**[^key-93c3c5aca10d5719c7e5036c927c5dc1] There may be mounted on top of a cone a rotating device that—
+**7.**[^c-93c3c5aca10d5719c7e5036c927c5dc1] There may be mounted on top of a cone a rotating device that—
 
 - (a) is red and not reflectorised; and
 - (b) displays a sign provided for at item 2 of the sign table in Part 6 of Schedule 2 which must be coloured amber, intermittently whilst rotating and constantly whilst static.
 
-**8.**[^key-687a85d67705c34ec45a0006ef04fcd4] In relation to each aspect of performance specified in column 2 of an item in the table below, a cone or cylinder must comply with the requirement or test specification of British Standard BS EN 13422:2004+A1:2009 specified in column 3.
+**8.**[^c-687a85d67705c34ec45a0006ef04fcd4] In relation to each aspect of performance specified in column 2 of an item in the table below, a cone or cylinder must comply with the requirement or test specification of British Standard BS EN 13422:2004+A1:2009 specified in column 3.
 
 <table>
 <thead>
@@ -321,23 +321,23 @@ Sign table — Schedule 13, Part 6
 
 ### PART 9 — Other temporary signs
 
-**1.**[^key-cf2426cc53dadc02e54ffdd7b8c8d5c0] A sign that is not otherwise provided for by these Regulations may be placed to—
+**1.**[^c-cf2426cc53dadc02e54ffdd7b8c8d5c0] A sign that is not otherwise provided for by these Regulations may be placed to—
 
 - (a) convey a civil emergency warning or information;
 - (b) convey a temporary hazard warning;
 - (c) convey temporary information; or
 - (d) indicate the entrance to, or exit from, road works for vehicles involved in the carrying out of those works.
 
-**2.**[^key-f9f81ca65013c1bce4828c56b46ec42d] A sign referred to in paragraph 1 must be of a size, colour and type which complies with this Part.
+**2.**[^c-f9f81ca65013c1bce4828c56b46ec42d] A sign referred to in paragraph 1 must be of a size, colour and type which complies with this Part.
 
-**3.**[^key-8b054b7f170f5110fb5ebd68d93ec2b3] The sign must be—
+**3.**[^c-8b054b7f170f5110fb5ebd68d93ec2b3] The sign must be—
 
 - (a) rectangular but with the corners rounded; or
 - (b) as in sub-paragraph (a), but with a rounded point at one end.
 
-**4.**[^key-b5c7f9e2a9e008170aafa172601d1473] The sign must be of a size appropriate to the circumstances in which it is placed.
+**4.**[^c-b5c7f9e2a9e008170aafa172601d1473] The sign must be of a size appropriate to the circumstances in which it is placed.
 
-**5.**[^key-480ccbe1a550c473d97c46e29dfd331c] (1) The sign may incorporate—
+**5.**[^c-480ccbe1a550c473d97c46e29dfd331c] (1) The sign may incorporate—
 
 - (a) letters;
 - (b) numerals;
@@ -353,12 +353,12 @@ Sign table — Schedule 13, Part 6
 
 (2) The arms, badge or other device referred to in sub-paragraph (g) may be of any colour and design and consequently its components need not comply with requirements elsewhere in this Part as to size, colour or type that would otherwise be applicable.
 
-**6.**[^key-71ef16c85800d13b00fc725d9ef64c30] Letters, numerals or other characters must not have an x-height of—
+**6.**[^c-71ef16c85800d13b00fc725d9ef64c30] Letters, numerals or other characters must not have an x-height of—
 
 - (a) less than 35 mm, or
 - (b) more than 400 mm.
 
-**7.**[^key-d7a0414603b6ac57eb8467efc1aa13af] (1) The background of the sign must be yellow, white or blue.
+**7.**[^c-d7a0414603b6ac57eb8467efc1aa13af] (1) The background of the sign must be yellow, white or blue.
 
 (2) Letters, numerals, other characters, chevrons and borders must be—
 
@@ -368,80 +368,80 @@ Sign table — Schedule 13, Part 6
 
 (3) This paragraph is subject to paragraphs 8 to 11.
 
-**8.**[^key-bb9a0dcd3a1aa9c00c7220fff9bbc03a] (1) This paragraph applies if the sign—
+**8.**[^c-bb9a0dcd3a1aa9c00c7220fff9bbc03a] (1) This paragraph applies if the sign—
 
 - (a) conveys a temporary hazard warning;
-- (b) conveys only temporary information for pedestrians, cyclists , drivers of electric scooters being used in a trial[^key-ddab3d15d67505bfc26203fff551179a] or pedestrians; or
+- (b) conveys only temporary information for pedestrians, cyclists , drivers of electric scooters being used in a trial[^c-ddab3d15d67505bfc26203fff551179a] or pedestrians; or
 - (c) indicates the entrance to, or exit from, road works for vehicles involved in the carrying out of those works.
 
 (2) The background must be red and any letters, numerals, other characters, chevrons or borders must be white.
 
 (3) This paragraph is subject to paragraphs 10 and 11.
 
-**9.**[^key-ef8e388842fe09b30e60282559b20638] (1) This paragraph applies if the sign conveys—
+**9.**[^c-ef8e388842fe09b30e60282559b20638] (1) This paragraph applies if the sign conveys—
 
-- (a) temporary information (other than for pedestrians, cyclists , drivers of electric scooters being used in a trial[^key-ef99660ff192045976da430e7af5de67] or equestrians) in connection with road works; or
+- (a) temporary information (other than for pedestrians, cyclists , drivers of electric scooters being used in a trial[^c-ef99660ff192045976da430e7af5de67] or equestrians) in connection with road works; or
 - (b) information about check points at which goods vehicles or public service vehicles may be required to stop.
 
 (2) The background must be yellow and any letters, numerals, other characters, chevrons or borders must be black.
 
 (3) This paragraph is subject to paragraphs 10 and 11.
 
-**10.**[^key-aff9e08ba48bc38e90bcd910391b5867] A variable message sign may have a black background and, if it does, any letters, numerals, other characters or chevrons must be white or yellow.
+**10.**[^c-aff9e08ba48bc38e90bcd910391b5867] A variable message sign may have a black background and, if it does, any letters, numerals, other characters or chevrons must be white or yellow.
 
-**11.**[^key-bce0a1f1659f9cb6e6dddf91088880de] A variable message sign may have a yellow background and if it does, any letters, numerals, other characters or chevrons must be black.
+**11.**[^c-bce0a1f1659f9cb6e6dddf91088880de] A variable message sign may have a yellow background and if it does, any letters, numerals, other characters or chevrons must be black.
 
-**12.**[^key-2ac2139674dad59ee95b3d2d8ecb85a5] If a route symbol provided for in the sign table in Part 7 of Schedule 12 is incorporated in the sign, the requirements as to size that would otherwise apply to that symbol, do not apply.
+**12.**[^c-2ac2139674dad59ee95b3d2d8ecb85a5] If a route symbol provided for in the sign table in Part 7 of Schedule 12 is incorporated in the sign, the requirements as to size that would otherwise apply to that symbol, do not apply.
 
-**13.**[^key-9e255cc2995439e23e830944892d2605] (1) A sign provided for in this Part need not be illuminated.
+**13.**[^c-9e255cc2995439e23e830944892d2605] (1) A sign provided for in this Part need not be illuminated.
 
 (2) Paragraph (1) does not apply to a sign conveying—
 
-- (a) the route of a diversion (except routes exclusively for pedestrians, cyclists , drivers of electric scooters being used in a trial[^key-a12e8fc9aa7e3e5fb69c164ebf031e40] or equestrians);
+- (a) the route of a diversion (except routes exclusively for pedestrians, cyclists , drivers of electric scooters being used in a trial[^c-a12e8fc9aa7e3e5fb69c164ebf031e40] or equestrians);
 - (b) information about future or ongoing road works;
 - (c) information about check points at which goods vehicles or public service vehicles may be required to stop;
 - (d) a temporary hazard warning in connection with the execution of works, or a temporary obstruction; or
 - (e) temporary information for drivers of wide loads about action to be taken in respect of road works ahead.
 
-**14.**[^key-45809b5f44b067ac9f58324e230563f3] Schedule 13 General Direction 16 applies to a sign provided for in this Part.
+**14.**[^c-45809b5f44b067ac9f58324e230563f3] Schedule 13 General Direction 16 applies to a sign provided for in this Part.
 
 ### PART 10 — Amber and blue light beacons
 
-**1.**[^key-9a1b201054e5a0c19365048a6d6f4582] An amber or blue light beacon conveys the warning that special care is to be taken.
+**1.**[^c-9a1b201054e5a0c19365048a6d6f4582] An amber or blue light beacon conveys the warning that special care is to be taken.
 
-**2.**[^key-227294d13e51bc4c0dde3f810aa49aef] The beacon must comply with the requirements of paragraphs 3 to 5.
+**2.**[^c-227294d13e51bc4c0dde3f810aa49aef] The beacon must comply with the requirements of paragraphs 3 to 5.
 
-**3.**[^key-d9047a1c2437838597e199b02b1ba52f] The peak intensity of light emitted by the lens or lenses of each beacon must be—
+**3.**[^c-d9047a1c2437838597e199b02b1ba52f] The peak intensity of light emitted by the lens or lenses of each beacon must be—
 
 - (a) if the period between individual flashes does not exceed ¼ of a second, not less than 100 candela on the principal axis of the relevant lens;
 - (b) if the period between individual flashes exceeds ¼ of a second, not less than 2000 candela on the principal axis; or
 - (c) if the period between the cessation of a double flash and the start of the succeeding double flash exceeds ¼ of a second, not less than 1000 candela on the principal axis.
 
-**4.**[^key-091bda38837bc6d427d4d772f6af08c0] Each lens must be of such a shape and size that the perimeter of its area projected horizontally onto a vertical plane is capable of lying wholly inside a square having sides of 200 mm in length and wholly outside a square having sides of 100 mm in length.
+**4.**[^c-091bda38837bc6d427d4d772f6af08c0] Each lens must be of such a shape and size that the perimeter of its area projected horizontally onto a vertical plane is capable of lying wholly inside a square having sides of 200 mm in length and wholly outside a square having sides of 100 mm in length.
 
-**5.**[^key-af86d70559f54abb43099dad0f388ea5] The rate of flashing must not be less than 55 nor more than 150 individual or double flashes per minute.
+**5.**[^c-af86d70559f54abb43099dad0f388ea5] The rate of flashing must not be less than 55 nor more than 150 individual or double flashes per minute.
 
-**6.**[^key-6262156f019a4db4e1be68fbea82124b] General Directions 17 and 19 of the Schedule 13 General Directions apply to an amber light beacon.
+**6.**[^c-6262156f019a4db4e1be68fbea82124b] General Directions 17 and 19 of the Schedule 13 General Directions apply to an amber light beacon.
 
-**7.**[^key-315c05f6ddbb0350aa26a19e8694065a] General Directions 18 and 19 of the Schedule 13 General Directions apply to a blue light beacon.
+**7.**[^c-315c05f6ddbb0350aa26a19e8694065a] General Directions 18 and 19 of the Schedule 13 General Directions apply to a blue light beacon.
 
 ### PART 11 — Warning lights
 
-**1.**[^key-b94ab01bc23c6957f8812133d472c30c] A lamp for conveying to traffic the limits of a temporary obstruction of the road (“a warning light”) must comply with the requirements in paragraphs 2 to 6.
+**1.**[^c-b94ab01bc23c6957f8812133d472c30c] A lamp for conveying to traffic the limits of a temporary obstruction of the road (“a warning light”) must comply with the requirements in paragraphs 2 to 6.
 
-**2.**[^key-14ed257aa671d2d2e8e81f695088286e] The height of the centre of each lens of the warning light from the surface of the road in the immediate vicinity of the lamp must not exceed—
+**2.**[^c-14ed257aa671d2d2e8e81f695088286e] The height of the centre of each lens of the warning light from the surface of the road in the immediate vicinity of the lamp must not exceed—
 
 - (a) 1500 mm where the speed limit on the road is 40 mph or less; or
 - (b) 1200 mm where the speed limit on the road is more than 40 mph.
 
-**3.**[^key-0189101711c8d94af04f62762a6c5123] The warning light must—
+**3.**[^c-0189101711c8d94af04f62762a6c5123] The warning light must—
 
 - (a) be powered separately from any other object or device; and
 - (b) show a steady or intermittent amber light.
 
-**4.**[^key-34e1ded5d0c8051d58c22760ef1b7b0c] Subject to paragraphs 5 and 6, the whole of the warning light must conform to British Standard BS EN 12352:2006[^f00110].
+**4.**[^c-34e1ded5d0c8051d58c22760ef1b7b0c] Subject to paragraphs 5 and 6, the whole of the warning light must conform to British Standard BS EN 12352:2006[^f00110].
 
-**5.**[^key-996e691316b4914e07a812dc99aac2fa] In relation to each aspect of performance specified in column (2) of an item in the Table below, the warning light must comply the requirement or test specification of British Standard BS EN 12352:2006 specified in column (3).
+**5.**[^c-996e691316b4914e07a812dc99aac2fa] In relation to each aspect of performance specified in column (2) of an item in the Table below, the warning light must comply the requirement or test specification of British Standard BS EN 12352:2006 specified in column (3).
 
 | *(1)*<br>*Item* | *(2)*<br>*Aspect of performance* | *(3)*<br>*Requirement or test specification and class* |
 | --- | --- | --- |
@@ -456,27 +456,27 @@ Sign table — Schedule 13, Part 6
 
 NOTE: A light flashing at a rate of 900 flashes per minute or more is deemed to comply with class F1.
 
-**6.**[^key-efed0a4b2fd3a13bbb156b57b926b671] The external surface of the parts of the warning light which are not the lenses and are visible to road users must be of a colour having the colorimetric values of reference 355 Lemon, or reference 356 Golden yellow, in Table 1 (standard colours) of British Standard BS 381C:1996[^f00111].
+**6.**[^c-efed0a4b2fd3a13bbb156b57b926b671] The external surface of the parts of the warning light which are not the lenses and are visible to road users must be of a colour having the colorimetric values of reference 355 Lemon, or reference 356 Golden yellow, in Table 1 (standard colours) of British Standard BS 381C:1996[^f00111].
 
-**7.**[^key-bceb47a3559f8d5ab49259f4a6b47ddc] A person that, but for this paragraph, is not authorised to place a warning light is authorised to do so for the purpose of warning traffic of a temporary obstruction in the road, other than one caused by the carrying out of works.
+**7.**[^c-bceb47a3559f8d5ab49259f4a6b47ddc] A person that, but for this paragraph, is not authorised to place a warning light is authorised to do so for the purpose of warning traffic of a temporary obstruction in the road, other than one caused by the carrying out of works.
 
-**8.**[^key-ef51520a7ad696827a4fac0c1a7ee054] General Direction 15 of the Schedule 13 General Directions applies to a warning light.
+**8.**[^c-ef51520a7ad696827a4fac0c1a7ee054] General Direction 15 of the Schedule 13 General Directions applies to a warning light.
 
 ### PART 12 — The Schedule 13 General Directions
 
-**1.**[^key-185f612d3d2c642442b7bd527e2d40b3] The sign must not be placed unless in combination with its first associated plate.
+**1.**[^c-185f612d3d2c642442b7bd527e2d40b3] The sign must not be placed unless in combination with its first associated plate.
 
-**2.**[^key-379c0142ad225b2a89622a0213ad06c1] The sign may only be retained in place for so long as the hazard indicated by the sign continues to exist or is expected to recur in the near future.
+**2.**[^c-379c0142ad225b2a89622a0213ad06c1] The sign may only be retained in place for so long as the hazard indicated by the sign continues to exist or is expected to recur in the near future.
 
-**3.**[^key-fdbcff6f5b0774eff665eb9ed17db3d9] The sign may remain in place after the completion of the works for so long as the traffic authority thinks fit.
+**3.**[^c-fdbcff6f5b0774eff665eb9ed17db3d9] The sign may remain in place after the completion of the works for so long as the traffic authority thinks fit.
 
-**4.**[^key-8b47d163097e3ced98e8c5a05f7f1a48] The sign may only be placed in connection with the execution of works on or near a road, or a temporary obstruction.
+**4.**[^c-8b47d163097e3ced98e8c5a05f7f1a48] The sign may only be placed in connection with the execution of works on or near a road, or a temporary obstruction.
 
-**5.**[^key-93bec26162fcdd5e14b7b382174793b7] (1) The sign may only be placed to indicate the effect of an Act, order, regulation, bylaw, resolution or notice which prohibits or restricts the use of the road by traffic.
+**5.**[^c-93bec26162fcdd5e14b7b382174793b7] (1) The sign may only be placed to indicate the effect of an Act, order, regulation, bylaw, resolution or notice which prohibits or restricts the use of the road by traffic.
 
 (2) Sub-paragraph (1) does not apply to a sign provided for at item 14, 15 or 16 in the Part 6 sign table if it only conveys the warning that lanes are closed or narrow.
 
-**6.**[^key-c1ccd036f3f0f3413afbb7ab10599444] (1) The sign may be attached to the front or rear of a road maintenance vehicle when the vehicle is being used on a road which is subject to maximum speed limit of 30 mph or under.
+**6.**[^c-c1ccd036f3f0f3413afbb7ab10599444] (1) The sign may be attached to the front or rear of a road maintenance vehicle when the vehicle is being used on a road which is subject to maximum speed limit of 30 mph or under.
 
 (2) The sign may be attached to the rear of a road maintenance vehicle immediately ahead of a vehicle displaying the sign provided for at item 10 of the table in Part 6 when the vehicle is being used on a road which is subject to a maximum speed limit of more than 30 mph.
 
@@ -486,9 +486,9 @@ NOTE: A light flashing at a rate of 900 flashes per minute or more is deemed to 
 
 (5) The sign may be attached to a vehicle.
 
-**7.**[^key-8f588c02ca75fbffee700293a74fb65c] The sign may be attached on the front or rear of a police vehicle if travelling at 70 mph or under.
+**7.**[^c-8f588c02ca75fbffee700293a74fb65c] The sign may be attached on the front or rear of a police vehicle if travelling at 70 mph or under.
 
-**8.**[^key-435845c920c855e92193d15b39f25eb1] (1) The back of a sign must be coloured grey, red, white, black or yellow, except that—
+**8.**[^c-435845c920c855e92193d15b39f25eb1] (1) The back of a sign must be coloured grey, red, white, black or yellow, except that—
 
 - (a) information about sites for placing and the ownership of the sign may be indicated on the back of the sign in characters not exceeding—
   - (i) 50 mm in height, where they are shown in a contrasting colour; or
@@ -501,26 +501,26 @@ NOTE: A light flashing at a rate of 900 flashes per minute or more is deemed to 
 
 (2) The sign may be mounted on an object of the size, colour and type of the sign provided for at item 4 of the sign table in Part 6.
 
-**9.**[^key-4caed46f095abca231f3da864b1ebcba] (1) The sign may only be placed—
+**9.**[^c-4caed46f095abca231f3da864b1ebcba] (1) The sign may only be placed—
 
-- (a) in connection with a cycle race approved by or under regulations made under section 31 of [^key-cb3639c1c5019eaef765a9cdfde54bdd]the Road Traffic Act 1988[^key-dca7bab26b556f7a13087118a3e1db68] (regulation of cycle racing on public ways);
+- (a) in connection with a cycle race approved by or under regulations made under section 31 of [^c-cb3639c1c5019eaef765a9cdfde54bdd]the Road Traffic Act 1988[^c-dca7bab26b556f7a13087118a3e1db68] (regulation of cycle racing on public ways);
 - (b) by an accredited marshal acting under the instructions of the chief officer of police; and
 - (c) on a road which is subject to a speed limit of 60mph or less.
 
 (2) In sub-paragraph (1), “accredited marshal” means a person accredited to be a marshal by the British Cycling Federation [^f00113].
 
-**10.**[^key-b738f7face88f923c804eb2c44b60a03] The sign may only be placed by a constable in uniform or a person acting under the instructions or authority of the chief officer of police [^key-68388d2f85a6443d79feb43d110bc685](except that in the case of a sign provided for at item 19 or 21 in the Part 6 sign table, the sign may also be placed by the traffic authority)[^key-a16f6a4cf3708cb69dd3adf25cbb2c67].
+**10.**[^c-b738f7face88f923c804eb2c44b60a03] The sign may only be placed by a constable in uniform or a person acting under the instructions or authority of the chief officer of police [^c-68388d2f85a6443d79feb43d110bc685](except that in the case of a sign provided for at item 19 or 21 in the Part 6 sign table, the sign may also be placed by the traffic authority)[^c-a16f6a4cf3708cb69dd3adf25cbb2c67].
 
-**11.**[^key-d17fa678c1f3cec986454f1c7c35b653] The sign must not remain in place after the end of the period of six months that begins with the day the housing development to which the sign refers is complete.
+**11.**[^c-d17fa678c1f3cec986454f1c7c35b653] The sign must not remain in place after the end of the period of six months that begins with the day the housing development to which the sign refers is complete.
 
-**12.**[^key-ef480b357d9667349a4662eb9c9e7c47] The sign—
+**12.**[^c-ef480b357d9667349a4662eb9c9e7c47] The sign—
 
 - (a) may only be placed in connection with works involving—
   - (i) an alteration in the layout of the carriageway of a road; or
   - (ii) the placing, removal or alteration of signs on or near a road; and
 - (b) may be retained in place not later than the end of the period of three months beginning with the day of the completion of those works.
 
-**13.**[^key-62b6fded88f179ba7ad345372abe37e6] The sign may only be placed—
+**13.**[^c-62b6fded88f179ba7ad345372abe37e6] The sign may only be placed—
 
 - (a) to indicate the point at which a recently imposed speed limit of 30 mph begins on a road—
   - (i) on which there is a system of carriageway lighting furnished by lamps lit by electricity and placed not more than 183 metres apart in England and Wales or not more than 185 metres apart in Scotland; and
@@ -531,16 +531,16 @@ NOTE: A light flashing at a rate of 900 flashes per minute or more is deemed to 
 
 *Extent: E+W*
 
-**13A (Extent: W).**[^key-b4dc2b003caf5b8e1fe3cc42d0726329] The sign may only be placed— *(Extent: W)*
+**13A (Extent: W).**[^c-b4dc2b003caf5b8e1fe3cc42d0726329] The sign may only be placed— *(Extent: W)*
 
 - (a (Extent: W)) to indicate or give warning of the point at which a recently imposed speed limit of 20 mph begins on a road; and *(Extent: W)*
 - (b (Extent: W)) during the period of 12 months beginning with the day on which the 20 mph speed limit comes into force. *(Extent: W)*
 
-**14.**[^key-a37a2b43c523178c3354d18e09fb3ed6] (1) The sign may only be placed in connection with works involving a temporary or permanent reduction in the maximum height of vehicles able to pass under a bridge.
+**14.**[^c-a37a2b43c523178c3354d18e09fb3ed6] (1) The sign may only be placed in connection with works involving a temporary or permanent reduction in the maximum height of vehicles able to pass under a bridge.
 
 (2) Where the reduction is permanent, the sign may be retained in place for a period of six months beginning with the day on which the works are completed.
 
-**15.**[^key-c0fe61a1ee1bbc8bcf0e153d561da8ed] (1) The sign may only be placed in connection with a traffic census, if the taking of that census has been approved by—
+**15.**[^c-c0fe61a1ee1bbc8bcf0e153d561da8ed] (1) The sign may only be placed in connection with a traffic census, if the taking of that census has been approved by—
 
 - (a) the traffic authority;
 - (b) the chief officer of police; and
@@ -552,7 +552,7 @@ NOTE: A light flashing at a rate of 900 flashes per minute or more is deemed to 
 - (b) Scottish Ministers in relation to a road in Scotland; and
 - (c) Welsh Ministers in relation to a road in Wales.
 
-**16.**[^key-091ded0880e0f678285f0821662f0e4c] (1) Subject to sub-paragraphs (2) to (4), the sign may remain in place for a period of six months beginning with the day the sign is placed.
+**16.**[^c-091ded0880e0f678285f0821662f0e4c] (1) Subject to sub-paragraphs (2) to (4), the sign may remain in place for a period of six months beginning with the day the sign is placed.
 
 (2) The period may be extended with the approval of—
 
@@ -568,17 +568,17 @@ NOTE: A light flashing at a rate of 900 flashes per minute or more is deemed to 
 - (b) conveying information about check points at which goods vehicles or public service vehicles may be required to stop; or
 - (c) indicating diversions.
 
-**17.**[^key-d0ffd220962e83860799d6a71e76e51d] An amber light beacon may only be placed in combination with—
+**17.**[^c-d0ffd220962e83860799d6a71e76e51d] An amber light beacon may only be placed in combination with—
 
 - (a) another sign provided for in this Schedule; or
 - (b) a sign provided for elsewhere in the Regulations where the sign is placed to convey to traffic a civil emergency warning or information, temporary hazard warning or temporary information.
 
-**18.**[^key-b1893036a4a4dc5681f266f47cec7325] A blue light beacon may only be placed—
+**18.**[^c-b1893036a4a4dc5681f266f47cec7325] A blue light beacon may only be placed—
 
 - (a) in combination with a sign provided for at item 4, 5, 7, 8 or 9 of the sign table in Part 6; and
 - (b) by a police constable or a person acting under the instructions (whether general or specific) of the chief officer of police.
 
-**19.**[^key-49b8ef928114ff9f24fa7d36059acf36] Where an amber or blue light beacon or a warning light is mounted on a structure specially provided for the purpose, the structure must be coloured—
+**19.**[^c-49b8ef928114ff9f24fa7d36059acf36] Where an amber or blue light beacon or a warning light is mounted on a structure specially provided for the purpose, the structure must be coloured—
 
 - (a) grey, red, white, or yellow; or
 - (b) have alternate bands of—
@@ -587,246 +587,246 @@ NOTE: A light flashing at a rate of 900 flashes per minute or more is deemed to 
 
 ## Annotations
 
-[^key-a8709814806fd00e2bcce3c0b0ee42bb]: Commencement: [Sch. 13 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/1/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a8709814806fd00e2bcce3c0b0ee42bb]: Commencement: [Sch. 13 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/1/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-720dac79693fac2b72f322166f106f23]: Commencement: [Sch. 13 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/1/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-720dac79693fac2b72f322166f106f23]: Commencement: [Sch. 13 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/1/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-a484e11f05a2d461dd12cd8bc58346c4]: Commencement: [Sch. 13 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/1/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a484e11f05a2d461dd12cd8bc58346c4]: Commencement: [Sch. 13 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/1/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-7f01761290c0df6bbba6c3cc69b01f69]: Commencement: [Sch. 13 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/1/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7f01761290c0df6bbba6c3cc69b01f69]: Commencement: [Sch. 13 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/1/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-662723b344ffbe5f0b8bd408eb7fd7da]: Commencement: [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-662723b344ffbe5f0b8bd408eb7fd7da]: Commencement: [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-f90951d0b070fb7e10e40450102932ea]: Textual amendment: Word in [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/2) Table item 3 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(2)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/2)
+[^c-f90951d0b070fb7e10e40450102932ea]: Textual amendment: Word in [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/2) Table item 3 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(2)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/2)
 
-[^key-23f380795c7167fe9a494404a36c3c7a]: Textual amendment: Word in [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/2) Table item 3 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/2)
+[^c-23f380795c7167fe9a494404a36c3c7a]: Textual amendment: Word in [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/2) Table item 3 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/2)
 
-[^key-4ec9a87a9345c7bfdbf29365751eded6]: Commencement: [Sch. 13 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/3/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-4ec9a87a9345c7bfdbf29365751eded6]: Commencement: [Sch. 13 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/3/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-c1a4eb0de2034243bb1fc50930199ab8]: Commencement: [Sch. 13 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/3/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-c1a4eb0de2034243bb1fc50930199ab8]: Commencement: [Sch. 13 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/3/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-a7525fba4ba536ec86d5cd56b4f6dd70]: Commencement: [Sch. 13 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/3/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a7525fba4ba536ec86d5cd56b4f6dd70]: Commencement: [Sch. 13 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/3/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-2d21aa03414bbb23838fc8cae29676bb]: Commencement: [Sch. 13 Pt. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-2d21aa03414bbb23838fc8cae29676bb]: Commencement: [Sch. 13 Pt. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-3cc20dbbef765268bc18d19ada6f0f16]: Commencement: [Sch. 13 Pt. 5 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-3cc20dbbef765268bc18d19ada6f0f16]: Commencement: [Sch. 13 Pt. 5 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-a914e00200aedc8dd53c16c7c6b70139]: Commencement: [Sch. 13 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a914e00200aedc8dd53c16c7c6b70139]: Commencement: [Sch. 13 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-7bcc4199a7aa3a3cc247b239fb7553cf]: Commencement: [Sch. 13 Pt. 5 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7bcc4199a7aa3a3cc247b239fb7553cf]: Commencement: [Sch. 13 Pt. 5 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ea966655f8a11005f428ee3f4273c54d]: Commencement: [Sch. 13 Pt. 5 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ea966655f8a11005f428ee3f4273c54d]: Commencement: [Sch. 13 Pt. 5 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-82fee05606a5f3f94844bea6722a8457]: Commencement: [Sch. 13 Pt. 5 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-82fee05606a5f3f94844bea6722a8457]: Commencement: [Sch. 13 Pt. 5 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-bf7d967bc47ebf72d2bab1d489436e25]: Commencement: [Sch. 13 Pt. 5 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-bf7d967bc47ebf72d2bab1d489436e25]: Commencement: [Sch. 13 Pt. 5 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-6fddb6520765a7fad726f056fa45c0df]: Commencement: [Sch. 13 Pt. 5 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-6fddb6520765a7fad726f056fa45c0df]: Commencement: [Sch. 13 Pt. 5 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/5/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-b9df3a3a28c405d1182f99f44aa7f4c8]: Commencement: [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-b9df3a3a28c405d1182f99f44aa7f4c8]: Commencement: [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-24a42e2ec1072123a61e1d6f472ac567]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 4 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/a)
+[^c-24a42e2ec1072123a61e1d6f472ac567]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 4 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/a)
 
-[^key-ecd2281d219aca78cc8d14854fd2f06f]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 4 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/a)
+[^c-ecd2281d219aca78cc8d14854fd2f06f]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 4 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/a)
 
-[^key-9d6d84d7c4abd976b243456f3d0dd7c4]: Textual amendment: Word in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 inserted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(b)(i)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/b/i)
+[^c-9d6d84d7c4abd976b243456f3d0dd7c4]: Textual amendment: Word in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 inserted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(b)(i)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/b/i)
 
-[^key-61c409caa723eac29094e9e59d485572]: Textual amendment: Word in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 inserted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/b/i)
+[^c-61c409caa723eac29094e9e59d485572]: Textual amendment: Word in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 inserted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/b/i)
 
-[^key-0239be20b4660d02754ffb711a5fe24e]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/b/ii)
+[^c-0239be20b4660d02754ffb711a5fe24e]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/b/ii)
 
-[^key-5e737101f171780329afda726cec6dda]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/b/ii)
+[^c-5e737101f171780329afda726cec6dda]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/b/ii)
 
-[^key-7defa44660113873beb10dc7d04ab00e]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 inserted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/b/iii)
+[^c-7defa44660113873beb10dc7d04ab00e]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 inserted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/b/iii)
 
-[^key-0a247c34f3802ecdc4049cbecae21b14]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 inserted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/b/iii)
+[^c-0a247c34f3802ecdc4049cbecae21b14]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 5 inserted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/b/iii)
 
-[^key-c9094d6b0259fa5cb68873f4ad62271f]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 15 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(c)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/c)
+[^c-c9094d6b0259fa5cb68873f4ad62271f]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 15 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(c)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/c)
 
-[^key-5ffe44f0afe8bbfdce1c94668472c607]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 15 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(c)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/c)
+[^c-5ffe44f0afe8bbfdce1c94668472c607]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 15 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(c)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/c)
 
-[^key-213f41d7486b6169c5b81e23d3b61417]: Textual amendment: Word in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 37 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(d)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/d)
+[^c-213f41d7486b6169c5b81e23d3b61417]: Textual amendment: Word in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 37 substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(3)(d)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/3/d)
 
-[^key-665891f2a0c4fc784c397e353b62eb3c]: Textual amendment: Word in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 37 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(d)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/d)
+[^c-665891f2a0c4fc784c397e353b62eb3c]: Textual amendment: Word in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 37 substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(3)(d)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/3/d)
 
-[^key-b3e2d3bee6612465a4fb648f8c721421]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table inserted (17.9.2023) by [The Traffic Signs (Amendment) (Wales) Regulations and General Directions 2023 (S.I. 2023/783)](https://www.legislation.gov.uk/wsi/2023/783), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/783/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2023/783/regulation/6/a) (with [reg. 11](https://www.legislation.gov.uk/wsi/2023/783/regulation/11))
+[^c-b3e2d3bee6612465a4fb648f8c721421]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table inserted (17.9.2023) by [The Traffic Signs (Amendment) (Wales) Regulations and General Directions 2023 (S.I. 2023/783)](https://www.legislation.gov.uk/wsi/2023/783), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/783/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2023/783/regulation/6/a) (with [reg. 11](https://www.legislation.gov.uk/wsi/2023/783/regulation/11))
 
-[^key-0c73c5814b14c3971befdd6565bbe4dd]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 38A inserted (W.) (17.9.2023) by [The Traffic Signs (Amendment) (Wales) Regulations and General Directions 2023 (S.I. 2023/783)](https://www.legislation.gov.uk/wsi/2023/783), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/783/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2023/783/regulation/6/b) (with [reg. 11](https://www.legislation.gov.uk/wsi/2023/783/regulation/11))
+[^c-0c73c5814b14c3971befdd6565bbe4dd]: Textual amendment: Words in [Sch. 13 Pt. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/6) Table item 38A inserted (W.) (17.9.2023) by [The Traffic Signs (Amendment) (Wales) Regulations and General Directions 2023 (S.I. 2023/783)](https://www.legislation.gov.uk/wsi/2023/783), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/783/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2023/783/regulation/6/b) (with [reg. 11](https://www.legislation.gov.uk/wsi/2023/783/regulation/11))
 
 [^f00105]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Sections 67 and 68 were amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), sections 10 and 11 respectively.
 
-[^key-6d98450ea9c5145b906548b8607c8422]: Commencement: [Sch. 13 Pt. 7 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-6d98450ea9c5145b906548b8607c8422]: Commencement: [Sch. 13 Pt. 7 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-12a6875dfa2d67362054436c39c9fd23]: Textual amendment: Words in [Sch. 13 Pt. 7 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/1) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(4)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/4)
+[^c-12a6875dfa2d67362054436c39c9fd23]: Textual amendment: Words in [Sch. 13 Pt. 7 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/1) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(4)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/4)
 
-[^key-56786b6571e0ce298a0d13ae1e7d1866]: Textual amendment: Words in [Sch. 13 Pt. 7 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/1) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/4)
+[^c-56786b6571e0ce298a0d13ae1e7d1866]: Textual amendment: Words in [Sch. 13 Pt. 7 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/1) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/4)
 
-[^key-53cc7d8e1d93e8506a2bfac252e2f4e1]: Commencement: [Sch. 13 Pt. 7 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-53cc7d8e1d93e8506a2bfac252e2f4e1]: Commencement: [Sch. 13 Pt. 7 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-1de1c54fb353950d9f08672cc0bdb70c]: Commencement: [Sch. 13 Pt. 7 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-1de1c54fb353950d9f08672cc0bdb70c]: Commencement: [Sch. 13 Pt. 7 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-dd075ba47a9728add43262e9d5007300]: Commencement: [Sch. 13 Pt. 7 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-dd075ba47a9728add43262e9d5007300]: Commencement: [Sch. 13 Pt. 7 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-09f40fc4d9867541618bf9f85d6ba353]: Commencement: [Sch. 13 Pt. 7 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-09f40fc4d9867541618bf9f85d6ba353]: Commencement: [Sch. 13 Pt. 7 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-7cc8d44e0db13ac1dbb397a6aac41dbd]: Commencement: [Sch. 13 Pt. 7 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7cc8d44e0db13ac1dbb397a6aac41dbd]: Commencement: [Sch. 13 Pt. 7 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00106]: Footnote: Publication date 15th January 1965 (ISBN 0580045013); amended by amendment number 1 of 6th May 1966.
 
-[^key-a0701d52a886a551327ea3bd38d6809c]: Commencement: [Sch. 13 Pt. 7 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a0701d52a886a551327ea3bd38d6809c]: Commencement: [Sch. 13 Pt. 7 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00107]: Footnote: [S.I. 1979/1088](https://www.legislation.gov.uk/uksi/1979/1088), to which there are amendments not relevant to these Regulations.
 
-[^key-dab8169e875f7724de8c5d3d39bdf685]: Commencement: [Sch. 13 Pt. 7 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-dab8169e875f7724de8c5d3d39bdf685]: Commencement: [Sch. 13 Pt. 7 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-659d224e1e036a32501fb1dd7705ecb5]: Commencement: [Sch. 13 Pt. 7 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-659d224e1e036a32501fb1dd7705ecb5]: Commencement: [Sch. 13 Pt. 7 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-26f039ca28f003deb5fd360c10ba4c64]: Commencement: [Sch. 13 Pt. 7 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-26f039ca28f003deb5fd360c10ba4c64]: Commencement: [Sch. 13 Pt. 7 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-f2e2d1f30c8251fc7ac1c00cb1124227]: Commencement: [Sch. 13 Pt. 7 para. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-f2e2d1f30c8251fc7ac1c00cb1124227]: Commencement: [Sch. 13 Pt. 7 para. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-48353843fb44255a3ed8923a6633eed2]: Commencement: [Sch. 13 Pt. 7 para. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-48353843fb44255a3ed8923a6633eed2]: Commencement: [Sch. 13 Pt. 7 para. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/7/paragraph/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-6e64fa52a0d5d2bca903c9b2d94dbef3]: Commencement: [Sch. 13 Pt. 8 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-6e64fa52a0d5d2bca903c9b2d94dbef3]: Commencement: [Sch. 13 Pt. 8 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00108]: Footnote: Published 2nd November 2004 (ISBN 9780580595301).
 
-[^key-d3fd2857bd928e53c3d8f4828ae3c55a]: Commencement: [Sch. 13 Pt. 8 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d3fd2857bd928e53c3d8f4828ae3c55a]: Commencement: [Sch. 13 Pt. 8 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e8f8662c8cca8d94b14782635deeb846]: Commencement: [Sch. 13 Pt. 8 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e8f8662c8cca8d94b14782635deeb846]: Commencement: [Sch. 13 Pt. 8 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-63c4103811697987131f43651c0a7050]: Textual amendment: Word in [Sch. 13 Pt. 8 para. 3(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/3/a) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(5)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/5)
+[^c-63c4103811697987131f43651c0a7050]: Textual amendment: Word in [Sch. 13 Pt. 8 para. 3(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/3/a) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2018/161/part/1/regulation/1/2), [13(5)](https://www.legislation.gov.uk/ssi/2018/161/regulation/13/5)
 
-[^key-060b331a1580e2338f3a29a85d40412d]: Textual amendment: Word in [Sch. 13 Pt. 8 para. 3(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/3/a) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(5)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/5)
+[^c-060b331a1580e2338f3a29a85d40412d]: Textual amendment: Word in [Sch. 13 Pt. 8 para. 3(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/3/a) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1086/part/1/regulation/1/2), [13(5)](https://www.legislation.gov.uk/uksi/2017/1086/regulation/13/5)
 
 [^f00109]: Footnote: Publication date 30th November 2015 (ISBN 9780580773167).
 
-[^key-bb5adb2ec6220699af4f5716487667ea]: Commencement: [Sch. 13 Pt. 8 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-bb5adb2ec6220699af4f5716487667ea]: Commencement: [Sch. 13 Pt. 8 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-4d5f96a7d31b01083aa51159d5ee3979]: Commencement: [Sch. 13 Pt. 8 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-4d5f96a7d31b01083aa51159d5ee3979]: Commencement: [Sch. 13 Pt. 8 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-61551d4f780d88f8c96dd29aa9486409]: Commencement: [Sch. 13 Pt. 8 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-61551d4f780d88f8c96dd29aa9486409]: Commencement: [Sch. 13 Pt. 8 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-93c3c5aca10d5719c7e5036c927c5dc1]: Commencement: [Sch. 13 Pt. 8 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-93c3c5aca10d5719c7e5036c927c5dc1]: Commencement: [Sch. 13 Pt. 8 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-687a85d67705c34ec45a0006ef04fcd4]: Commencement: [Sch. 13 Pt. 8 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-687a85d67705c34ec45a0006ef04fcd4]: Commencement: [Sch. 13 Pt. 8 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/8/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-cf2426cc53dadc02e54ffdd7b8c8d5c0]: Commencement: [Sch. 13 Pt. 9 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-cf2426cc53dadc02e54ffdd7b8c8d5c0]: Commencement: [Sch. 13 Pt. 9 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-f9f81ca65013c1bce4828c56b46ec42d]: Commencement: [Sch. 13 Pt. 9 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-f9f81ca65013c1bce4828c56b46ec42d]: Commencement: [Sch. 13 Pt. 9 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-8b054b7f170f5110fb5ebd68d93ec2b3]: Commencement: [Sch. 13 Pt. 9 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-8b054b7f170f5110fb5ebd68d93ec2b3]: Commencement: [Sch. 13 Pt. 9 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-b5c7f9e2a9e008170aafa172601d1473]: Commencement: [Sch. 13 Pt. 9 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-b5c7f9e2a9e008170aafa172601d1473]: Commencement: [Sch. 13 Pt. 9 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-480ccbe1a550c473d97c46e29dfd331c]: Commencement: [Sch. 13 Pt. 9 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-480ccbe1a550c473d97c46e29dfd331c]: Commencement: [Sch. 13 Pt. 9 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-71ef16c85800d13b00fc725d9ef64c30]: Commencement: [Sch. 13 Pt. 9 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-71ef16c85800d13b00fc725d9ef64c30]: Commencement: [Sch. 13 Pt. 9 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-d7a0414603b6ac57eb8467efc1aa13af]: Commencement: [Sch. 13 Pt. 9 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d7a0414603b6ac57eb8467efc1aa13af]: Commencement: [Sch. 13 Pt. 9 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-bb9a0dcd3a1aa9c00c7220fff9bbc03a]: Commencement: [Sch. 13 Pt. 9 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-bb9a0dcd3a1aa9c00c7220fff9bbc03a]: Commencement: [Sch. 13 Pt. 9 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ddab3d15d67505bfc26203fff551179a]: Textual amendment: Words in [Sch. 13 Pt. 9 para. 8(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/8/1/b) inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/14)
+[^c-ddab3d15d67505bfc26203fff551179a]: Textual amendment: Words in [Sch. 13 Pt. 9 para. 8(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/8/1/b) inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/14)
 
-[^key-ef8e388842fe09b30e60282559b20638]: Commencement: [Sch. 13 Pt. 9 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ef8e388842fe09b30e60282559b20638]: Commencement: [Sch. 13 Pt. 9 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ef99660ff192045976da430e7af5de67]: Textual amendment: Words in [Sch. 13 Pt. 9 para. 9(1)(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/9/1/a) inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/14)
+[^c-ef99660ff192045976da430e7af5de67]: Textual amendment: Words in [Sch. 13 Pt. 9 para. 9(1)(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/9/1/a) inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/14)
 
-[^key-aff9e08ba48bc38e90bcd910391b5867]: Commencement: [Sch. 13 Pt. 9 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-aff9e08ba48bc38e90bcd910391b5867]: Commencement: [Sch. 13 Pt. 9 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-bce0a1f1659f9cb6e6dddf91088880de]: Commencement: [Sch. 13 Pt. 9 para. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-bce0a1f1659f9cb6e6dddf91088880de]: Commencement: [Sch. 13 Pt. 9 para. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-2ac2139674dad59ee95b3d2d8ecb85a5]: Commencement: [Sch. 13 Pt. 9 para. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-2ac2139674dad59ee95b3d2d8ecb85a5]: Commencement: [Sch. 13 Pt. 9 para. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-9e255cc2995439e23e830944892d2605]: Commencement: [Sch. 13 Pt. 9 para. 13](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/13) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-9e255cc2995439e23e830944892d2605]: Commencement: [Sch. 13 Pt. 9 para. 13](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/13) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-a12e8fc9aa7e3e5fb69c164ebf031e40]: Textual amendment: Words in [Sch. 13 Pt. 9 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/13/2/a) inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/14)
+[^c-a12e8fc9aa7e3e5fb69c164ebf031e40]: Textual amendment: Words in [Sch. 13 Pt. 9 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/13/2/a) inserted (E.) (4.7.2020) by [The Electric Scooter Trials and Traffic Signs (Coronavirus) Regulations and General Directions 2020 (S.I. 2020/663)](https://www.legislation.gov.uk/uksi/2020/663), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/663/part/1/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2020/663/regulation/5/14)
 
-[^key-45809b5f44b067ac9f58324e230563f3]: Commencement: [Sch. 13 Pt. 9 para. 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-45809b5f44b067ac9f58324e230563f3]: Commencement: [Sch. 13 Pt. 9 para. 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/9/paragraph/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-9a1b201054e5a0c19365048a6d6f4582]: Commencement: [Sch. 13 Pt. 10 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-9a1b201054e5a0c19365048a6d6f4582]: Commencement: [Sch. 13 Pt. 10 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-227294d13e51bc4c0dde3f810aa49aef]: Commencement: [Sch. 13 Pt. 10 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-227294d13e51bc4c0dde3f810aa49aef]: Commencement: [Sch. 13 Pt. 10 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-d9047a1c2437838597e199b02b1ba52f]: Commencement: [Sch. 13 Pt. 10 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d9047a1c2437838597e199b02b1ba52f]: Commencement: [Sch. 13 Pt. 10 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-091bda38837bc6d427d4d772f6af08c0]: Commencement: [Sch. 13 Pt. 10 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-091bda38837bc6d427d4d772f6af08c0]: Commencement: [Sch. 13 Pt. 10 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-af86d70559f54abb43099dad0f388ea5]: Commencement: [Sch. 13 Pt. 10 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-af86d70559f54abb43099dad0f388ea5]: Commencement: [Sch. 13 Pt. 10 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-6262156f019a4db4e1be68fbea82124b]: Commencement: [Sch. 13 Pt. 10 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-6262156f019a4db4e1be68fbea82124b]: Commencement: [Sch. 13 Pt. 10 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-315c05f6ddbb0350aa26a19e8694065a]: Commencement: [Sch. 13 Pt. 10 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-315c05f6ddbb0350aa26a19e8694065a]: Commencement: [Sch. 13 Pt. 10 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/10/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-b94ab01bc23c6957f8812133d472c30c]: Commencement: [Sch. 13 Pt. 11 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-b94ab01bc23c6957f8812133d472c30c]: Commencement: [Sch. 13 Pt. 11 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-14ed257aa671d2d2e8e81f695088286e]: Commencement: [Sch. 13 Pt. 11 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-14ed257aa671d2d2e8e81f695088286e]: Commencement: [Sch. 13 Pt. 11 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0189101711c8d94af04f62762a6c5123]: Commencement: [Sch. 13 Pt. 11 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0189101711c8d94af04f62762a6c5123]: Commencement: [Sch. 13 Pt. 11 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-34e1ded5d0c8051d58c22760ef1b7b0c]: Commencement: [Sch. 13 Pt. 11 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-34e1ded5d0c8051d58c22760ef1b7b0c]: Commencement: [Sch. 13 Pt. 11 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00110]: Footnote: Publication date 31st May 2006 (ISBN 9780580687884); corrigenda, July 2008, July 2009 and October 2010.
 
-[^key-996e691316b4914e07a812dc99aac2fa]: Commencement: [Sch. 13 Pt. 11 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-996e691316b4914e07a812dc99aac2fa]: Commencement: [Sch. 13 Pt. 11 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-efed0a4b2fd3a13bbb156b57b926b671]: Commencement: [Sch. 13 Pt. 11 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-efed0a4b2fd3a13bbb156b57b926b671]: Commencement: [Sch. 13 Pt. 11 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00111]: Footnote: Publication date 15th December 1996 (ISBN 0580267776).
 
-[^key-bceb47a3559f8d5ab49259f4a6b47ddc]: Commencement: [Sch. 13 Pt. 11 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-bceb47a3559f8d5ab49259f4a6b47ddc]: Commencement: [Sch. 13 Pt. 11 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ef51520a7ad696827a4fac0c1a7ee054]: Commencement: [Sch. 13 Pt. 11 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ef51520a7ad696827a4fac0c1a7ee054]: Commencement: [Sch. 13 Pt. 11 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/11/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-185f612d3d2c642442b7bd527e2d40b3]: Commencement: [Sch. 13 Pt. 12 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-185f612d3d2c642442b7bd527e2d40b3]: Commencement: [Sch. 13 Pt. 12 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-379c0142ad225b2a89622a0213ad06c1]: Commencement: [Sch. 13 Pt. 12 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-379c0142ad225b2a89622a0213ad06c1]: Commencement: [Sch. 13 Pt. 12 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-fdbcff6f5b0774eff665eb9ed17db3d9]: Commencement: [Sch. 13 Pt. 12 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-fdbcff6f5b0774eff665eb9ed17db3d9]: Commencement: [Sch. 13 Pt. 12 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-8b47d163097e3ced98e8c5a05f7f1a48]: Commencement: [Sch. 13 Pt. 12 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-8b47d163097e3ced98e8c5a05f7f1a48]: Commencement: [Sch. 13 Pt. 12 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-93bec26162fcdd5e14b7b382174793b7]: Commencement: [Sch. 13 Pt. 12 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-93bec26162fcdd5e14b7b382174793b7]: Commencement: [Sch. 13 Pt. 12 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-c1ccd036f3f0f3413afbb7ab10599444]: Commencement: [Sch. 13 Pt. 12 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-c1ccd036f3f0f3413afbb7ab10599444]: Commencement: [Sch. 13 Pt. 12 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-8f588c02ca75fbffee700293a74fb65c]: Commencement: [Sch. 13 Pt. 12 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-8f588c02ca75fbffee700293a74fb65c]: Commencement: [Sch. 13 Pt. 12 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-435845c920c855e92193d15b39f25eb1]: Commencement: [Sch. 13 Pt. 12 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-435845c920c855e92193d15b39f25eb1]: Commencement: [Sch. 13 Pt. 12 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00112]: Footnote: Publication date 30th April 2008, (ISBN 9780580813474): corrigenda May 2008, June 2009, October 2011 and May 2013.
 
-[^key-4caed46f095abca231f3da864b1ebcba]: Commencement: [Sch. 13 Pt. 12 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-4caed46f095abca231f3da864b1ebcba]: Commencement: [Sch. 13 Pt. 12 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-cb3639c1c5019eaef765a9cdfde54bdd]: Textual amendment: Words in [Sch. 13 Pt. 12 para. 9(1)(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/9/1/a) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [dirs. 1(2), 2(4)(a)](https://www.legislation.gov.uk/ssi/2018/161/part/2)
+[^c-cb3639c1c5019eaef765a9cdfde54bdd]: Textual amendment: Words in [Sch. 13 Pt. 12 para. 9(1)(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/9/1/a) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [dirs. 1(2), 2(4)(a)](https://www.legislation.gov.uk/ssi/2018/161/part/2)
 
-[^key-dca7bab26b556f7a13087118a3e1db68]: Textual amendment: Words in [Sch. 13 Pt. 12 para. 9(1)(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/9/1/a) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [dirs. 1(2), 2(4)(a)](https://www.legislation.gov.uk/uksi/2017/1086/part/2)
+[^c-dca7bab26b556f7a13087118a3e1db68]: Textual amendment: Words in [Sch. 13 Pt. 12 para. 9(1)(a)](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/9/1/a) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [dirs. 1(2), 2(4)(a)](https://www.legislation.gov.uk/uksi/2017/1086/part/2)
 
 [^f00113]: Footnote: Registered company number (England and Wales) 03943494.
 
-[^key-b738f7face88f923c804eb2c44b60a03]: Commencement: [Sch. 13 Pt. 12 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-b738f7face88f923c804eb2c44b60a03]: Commencement: [Sch. 13 Pt. 12 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-68388d2f85a6443d79feb43d110bc685]: Textual amendment: Words in [Sch. 13 Pt. 12 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/10) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [dirs. 1(2), 2(4)(b)](https://www.legislation.gov.uk/ssi/2018/161/part/2)
+[^c-68388d2f85a6443d79feb43d110bc685]: Textual amendment: Words in [Sch. 13 Pt. 12 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/10) substituted (S.) (28.6.2018) by [The Traffic Signs Amendment (Scotland) Regulations and General Directions 2018 (S.S.I. 2018/161)](https://www.legislation.gov.uk/ssi/2018/161), [dirs. 1(2), 2(4)(b)](https://www.legislation.gov.uk/ssi/2018/161/part/2)
 
-[^key-a16f6a4cf3708cb69dd3adf25cbb2c67]: Textual amendment: Words in [Sch. 13 Pt. 12 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/10) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [dirs. 1(2), 2(4)(b)](https://www.legislation.gov.uk/uksi/2017/1086/part/2)
+[^c-a16f6a4cf3708cb69dd3adf25cbb2c67]: Textual amendment: Words in [Sch. 13 Pt. 12 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/10) substituted (E.W.) (13.12.2017) by [The Traffic Signs (Amendment) (England and Wales) Regulations and General Directions 2017 (S.I. 2017/1086)](https://www.legislation.gov.uk/uksi/2017/1086), [dirs. 1(2), 2(4)(b)](https://www.legislation.gov.uk/uksi/2017/1086/part/2)
 
-[^key-d17fa678c1f3cec986454f1c7c35b653]: Commencement: [Sch. 13 Pt. 12 para. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d17fa678c1f3cec986454f1c7c35b653]: Commencement: [Sch. 13 Pt. 12 para. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ef480b357d9667349a4662eb9c9e7c47]: Commencement: [Sch. 13 Pt. 12 para. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ef480b357d9667349a4662eb9c9e7c47]: Commencement: [Sch. 13 Pt. 12 para. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-62b6fded88f179ba7ad345372abe37e6]: Commencement: [Sch. 13 Pt. 12 para. 13](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/13) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-62b6fded88f179ba7ad345372abe37e6]: Commencement: [Sch. 13 Pt. 12 para. 13](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/13) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-b4dc2b003caf5b8e1fe3cc42d0726329]: Textual amendment: [Sch. 13 Pt. 12 para. 13A](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/13A) inserted (W.) (17.9.2023) by [The Traffic Signs (Amendment) (Wales) Regulations and General Directions 2023 (S.I. 2023/783)](https://www.legislation.gov.uk/wsi/2023/783), [dirs. 7(2)](https://www.legislation.gov.uk/uksi/2023/783/regulation/7/2), [10](https://www.legislation.gov.uk/wsi/2023/783/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/wsi/2023/783/regulation/11))
+[^c-b4dc2b003caf5b8e1fe3cc42d0726329]: Textual amendment: [Sch. 13 Pt. 12 para. 13A](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/13A) inserted (W.) (17.9.2023) by [The Traffic Signs (Amendment) (Wales) Regulations and General Directions 2023 (S.I. 2023/783)](https://www.legislation.gov.uk/wsi/2023/783), [dirs. 7(2)](https://www.legislation.gov.uk/uksi/2023/783/regulation/7/2), [10](https://www.legislation.gov.uk/wsi/2023/783/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/wsi/2023/783/regulation/11))
 
-[^key-a37a2b43c523178c3354d18e09fb3ed6]: Commencement: [Sch. 13 Pt. 12 para. 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a37a2b43c523178c3354d18e09fb3ed6]: Commencement: [Sch. 13 Pt. 12 para. 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/part/12/paragraph/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-c0fe61a1ee1bbc8bcf0e153d561da8ed]: Commencement: [Sch. 13 para. 15](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/15) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-c0fe61a1ee1bbc8bcf0e153d561da8ed]: Commencement: [Sch. 13 para. 15](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/15) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-091ded0880e0f678285f0821662f0e4c]: Commencement: [Sch. 13 para. 16](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/16) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-091ded0880e0f678285f0821662f0e4c]: Commencement: [Sch. 13 para. 16](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/16) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-d0ffd220962e83860799d6a71e76e51d]: Commencement: [Sch. 13 para. 17](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/17) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d0ffd220962e83860799d6a71e76e51d]: Commencement: [Sch. 13 para. 17](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/17) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-b1893036a4a4dc5681f266f47cec7325]: Commencement: [Sch. 13 para. 18](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/18) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-b1893036a4a4dc5681f266f47cec7325]: Commencement: [Sch. 13 para. 18](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/18) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-49b8ef928114ff9f24fa7d36059acf36]: Commencement: [Sch. 13 para. 19](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/19) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-49b8ef928114ff9f24fa7d36059acf36]: Commencement: [Sch. 13 para. 19](https://www.legislation.gov.uk/uksi/2016/362/schedule/13/paragraph/19) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

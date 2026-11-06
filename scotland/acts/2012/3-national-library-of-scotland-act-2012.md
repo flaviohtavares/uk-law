@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## The National Library of Scotland
 
-### 1. The National Library of Scotland[^key-3d1fad7d0882b5c69caf383e02206f9f]
+### 1. The National Library of Scotland[^c-3d1fad7d0882b5c69caf383e02206f9f]
 
 (1) The body corporate known as The Trustees of the National Library of Scotland, established by section 1(1) of the 1925 Act, continues in existence and is renamed the National Library of Scotland or Leabharlann Nàiseanta na h-Alba (“NLS”).
 
@@ -44,7 +44,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Functions of NLS
 
-### 2. Functions of NLS[^key-8ad5ce6612eaf7d309f2dceb51bc5a4d]
+### 2. Functions of NLS[^c-8ad5ce6612eaf7d309f2dceb51bc5a4d]
 
 (1) NLS has the general function of managing the library established by section 1(1) of the 1925 Act as a national resource for reference, study, research and bibliography, having particular regard to Scotland.
 
@@ -73,7 +73,7 @@ provide the Scottish Ministers with advice, information and assistance on any ma
 
 ## Acquisitions, deposits, disposal and loan of objects
 
-### 3. Acquisitions, deposits and disposal of objects[^key-a720c0a05ede52f0d3eaee4723dcacaf]
+### 3. Acquisitions, deposits and disposal of objects[^c-a720c0a05ede52f0d3eaee4723dcacaf]
 
 (1) NLS may—
 
@@ -106,7 +106,7 @@ any object which it considers it is desirable to add to its collections.
 - (a) with the consent of the person having the right to enforce the prohibition or restriction, or
 - (b) in the circumstances mentioned in subsection (3)(c) or (d).
 
-### 4. Borrowing and lending of objects[^key-a497eb6b0b8c0c16ca59fa94b23abe41]
+### 4. Borrowing and lending of objects[^c-a497eb6b0b8c0c16ca59fa94b23abe41]
 
 (1) NLS may borrow or accept loans of objects for the purposes of exhibition, study or research.
 
@@ -131,7 +131,7 @@ any object which it considers it is desirable to add to its collections.
 
 ## Legal publications
 
-### 5. Legal publications[^key-002ed37947f2bed4fb89764b948a16f2]
+### 5. Legal publications[^c-002ed37947f2bed4fb89764b948a16f2]
 
 (1) Copies of legal publications delivered to NLS under section 1 of the 2003 Act—
 
@@ -153,7 +153,7 @@ is to be resolved by agreement between NLS and the Faculty or, if they cannot ag
 
 ## Joint arrangements etc. between NLS and the Faculty
 
-### 6. NLS and the Faculty: joint arrangements etc.[^key-798e38779ec14b6bceb5a23d5b23c289]
+### 6. NLS and the Faculty: joint arrangements etc.[^c-798e38779ec14b6bceb5a23d5b23c289]
 
 (1) NLS and the Faculty must enter into arrangements about—
 
@@ -172,7 +172,7 @@ is to be resolved by agreement between NLS and the Faculty or, if they cannot ag
 
 ## Grants and loans
 
-### 7. Grants and loans[^key-4b95d6abddf54e9daad29e3044f1ffac]
+### 7. Grants and loans[^c-4b95d6abddf54e9daad29e3044f1ffac]
 
 (1) The Scottish Ministers may make grants to NLS.
 
@@ -189,7 +189,7 @@ is to be resolved by agreement between NLS and the Faculty or, if they cannot ag
 
 ## Directions and guidance
 
-### 8. Directions and guidance[^key-6beebade0ce1c56b6530737d2887b714]
+### 8. Directions and guidance[^c-6beebade0ce1c56b6530737d2887b714]
 
 (1) The Scottish Ministers may give NLS directions (of a general or specific nature) as to the exercise of its functions.
 
@@ -209,7 +209,7 @@ is to be resolved by agreement between NLS and the Faculty or, if they cannot ag
 
 ## General
 
-### 9. Interpretation[^key-ca5536e2d0f8b6fc6f4607d24f1c1136]
+### 9. Interpretation[^c-ca5536e2d0f8b6fc6f4607d24f1c1136]
 
 In this Act—
 
@@ -222,15 +222,15 @@ In this Act—
 
 ### 10. Consequential modification of enactments and repeals[^c2130694]
 
-(1)[^key-e7e5d20047e005c5f62ef13e5aafc833] Schedule 2, which contains modifications of enactments, has effect.
+(1)[^c-e7e5d20047e005c5f62ef13e5aafc833] Schedule 2, which contains modifications of enactments, has effect.
 
-(2)[^key-5c3c50a910e5b39034d0945ea009a059] The Scottish Ministers may by order make such incidental or consequential provision as they consider appropriate for the purposes of, in consequence of, or for giving full effect to, any provision of this Act.
+(2)[^c-5c3c50a910e5b39034d0945ea009a059] The Scottish Ministers may by order make such incidental or consequential provision as they consider appropriate for the purposes of, in consequence of, or for giving full effect to, any provision of this Act.
 
-(3)[^key-5c3c50a910e5b39034d0945ea009a059] An order under subsection (2) may modify any enactment (including this Act).
+(3)[^c-5c3c50a910e5b39034d0945ea009a059] An order under subsection (2) may modify any enactment (including this Act).
 
-(4)[^key-5c3c50a910e5b39034d0945ea009a059] An order under subsection (2) which adds to, replaces or omits any part of the text of an Act is subject to the affirmative procedure.
+(4)[^c-5c3c50a910e5b39034d0945ea009a059] An order under subsection (2) which adds to, replaces or omits any part of the text of an Act is subject to the affirmative procedure.
 
-(5)[^key-5c3c50a910e5b39034d0945ea009a059] The enactments mentioned in the first column of schedule 3 are repealed to the extent specified in the second column of that schedule.
+(5)[^c-5c3c50a910e5b39034d0945ea009a059] The enactments mentioned in the first column of schedule 3 are repealed to the extent specified in the second column of that schedule.
 
 ### 11. Subordinate legislation
 
@@ -256,7 +256,7 @@ The short title of this Act is the National Library of Scotland Act 2012.
 
 ### Status
 
-**1.**[^key-2f1edd59bbb4d8ce18ebbfc863e8b391] (1) NLS is a body corporate.
+**1.**[^c-2f1edd59bbb4d8ce18ebbfc863e8b391] (1) NLS is a body corporate.
 
 (2) NLS—
 
@@ -269,7 +269,7 @@ The short title of this Act is the National Library of Scotland Act 2012.
 
 ### Membership
 
-**2.**[^key-a8709623a6cfef7103ff12f1ad2dfe3a] (1) NLS is to consist of—
+**2.**[^c-a8709623a6cfef7103ff12f1ad2dfe3a] (1) NLS is to consist of—
 
 - (a) a person appointed by the Scottish Ministers to chair NLS, and
 - (b) no fewer than 8 and no more than 13 other members appointed by the Scottish Ministers.
@@ -288,7 +288,7 @@ The short title of this Act is the National Library of Scotland Act 2012.
 
 ### Persons disqualified from membership of NLS
 
-**3.**[^key-c79546253059e931fdd7dede1ab9a6eb] A person is disqualified from appointment (and from holding office) as a member of NLS if the person is (or becomes)—
+**3.**[^c-c79546253059e931fdd7dede1ab9a6eb] A person is disqualified from appointment (and from holding office) as a member of NLS if the person is (or becomes)—
 
 - (a) a member of the House of Commons,
 - (b) a member of the Scottish Parliament, or
@@ -296,7 +296,7 @@ The short title of this Act is the National Library of Scotland Act 2012.
 
 ### Removal of members
 
-**4.**[^key-09fb2bfdd370dc11966f0aca6b45bd68] (1) The Scottish Ministers may, by written notice, revoke the appointment of a member if—
+**4.**[^c-09fb2bfdd370dc11966f0aca6b45bd68] (1) The Scottish Ministers may, by written notice, revoke the appointment of a member if—
 
 - (a) the member becomes insolvent,
 - (b) the member has been absent from 3 consecutive meetings without the permission of NLS,
@@ -311,7 +311,7 @@ The short title of this Act is the National Library of Scotland Act 2012.
 
 ### Remuneration, allowances and expenses of members
 
-**5.**[^key-fe9a6e47aaccf716347e4bf964697862] NLS must pay to each member—
+**5.**[^c-fe9a6e47aaccf716347e4bf964697862] NLS must pay to each member—
 
 - (a) such remuneration, and
 - (b) such allowances and expenses,
@@ -320,7 +320,7 @@ as the Scottish Ministers may determine.
 
 ### Chief executive and other staff
 
-**6.**[^key-d15940e46fd0be735cee36ea636ae8f0] (1) NLS is to employ a chief executive.
+**6.**[^c-d15940e46fd0be735cee36ea636ae8f0] (1) NLS is to employ a chief executive.
 
 (2) The chief executive may not be a member of NLS.
 
@@ -346,7 +346,7 @@ such pensions, allowances or gratuities to or in respect of any person who is or
 
 ### Committees
 
-**7.**[^key-2dead3671d9227bc7470b8865c9209b7] (1) NLS may establish committees for any purpose relating to its functions.
+**7.**[^c-2dead3671d9227bc7470b8865c9209b7] (1) NLS may establish committees for any purpose relating to its functions.
 
 (2) NLS is to determine the composition of its committees.
 
@@ -356,7 +356,7 @@ such pensions, allowances or gratuities to or in respect of any person who is or
 
 ### Procedure and meetings
 
-**8.**[^key-aade4b57e0c51ea6daeefffba1db2e7a] (1) NLS may determine its own procedure and that of its committees, including a quorum for meetings.
+**8.**[^c-aade4b57e0c51ea6daeefffba1db2e7a] (1) NLS may determine its own procedure and that of its committees, including a quorum for meetings.
 
 (2) The following persons may attend and take part in a meeting of NLS (or any of its committees)—
 
@@ -368,7 +368,7 @@ such pensions, allowances or gratuities to or in respect of any person who is or
 
 ### Delegation of functions
 
-**9.**[^key-cd5654857c0190795c4c08196e264012] (1) NLS may authorise—
+**9.**[^c-cd5654857c0190795c4c08196e264012] (1) NLS may authorise—
 
 - (a) the chief executive,
 - (b) any other employee,
@@ -385,7 +385,7 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 ### Validity of proceedings and actions
 
-**10.**[^key-8d8eb435d44812766ec93a89319cd05f] The validity of proceedings or actions of NLS (including proceedings or actions of any of its committees) is not affected by—
+**10.**[^c-8d8eb435d44812766ec93a89319cd05f] The validity of proceedings or actions of NLS (including proceedings or actions of any of its committees) is not affected by—
 
 - (a) any vacancy in the membership of NLS or any of its committees,
 - (b) any defect in the appointment of a member of NLS or any of its committees, or
@@ -393,7 +393,7 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 ### General powers
 
-**11.**[^key-84f4ea14e2a5964de569b3dd11c0ceaf] (1) NLS may do anything which appears to it—
+**11.**[^c-84f4ea14e2a5964de569b3dd11c0ceaf] (1) NLS may do anything which appears to it—
 
 - (a) to be necessary or expedient for the purpose of, or in connection with, the exercise of its functions,
 - (b) to be conducive to the exercise of its functions.
@@ -419,7 +419,7 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 ### Accounts
 
-**12.**[^key-4d532002601dc1a1114a02126518cb09] (1) NLS must—
+**12.**[^c-4d532002601dc1a1114a02126518cb09] (1) NLS must—
 
 - (a) keep proper accounts and accounting records,
 - (b) prepare in respect of each financial year a statement of accounts, and
@@ -431,7 +431,7 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 ### Reports
 
-**13.**[^key-33b25d47ada9a0675fae6ec02b2e8ecd] (1) As soon as practicable after the end of each financial year, NLS must prepare a report which is—
+**13.**[^c-33b25d47ada9a0675fae6ec02b2e8ecd] (1) As soon as practicable after the end of each financial year, NLS must prepare a report which is—
 
 - (a) to provide information on the exercise of its functions during that year, and
 - (b) to include a copy of the statement of accounts for that year audited by the Auditor General for Scotland.
@@ -457,14 +457,14 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 #### National Heritage (Scotland) Act 1985 (c.16)
 
-**2.**[^key-ce22070fef53ca32fdab6b58f27fba76] In section 22(2) of the National Heritage (Scotland) Act 1985 (finance)—
+**2.**[^c-ce22070fef53ca32fdab6b58f27fba76] In section 22(2) of the National Heritage (Scotland) Act 1985 (finance)—
 
 - (a) for “Edinburgh,” substitute “ Edinburgh and ”, and
 - (b) the words from “, and the” to the end are repealed.
 
 #### Museums and Galleries Act 1992 (c.44)
 
-**3.**[^key-ebf23f6e3bbf34873656a854ca9b2d96] In the Museums and Galleries Act 1992—
+**3.**[^c-ebf23f6e3bbf34873656a854ca9b2d96] In the Museums and Galleries Act 1992—
 
 - (a) in Part 1 of Schedule 5 (transfers to and from certain collections), for “The Board of Trustees of the National Library of Scotland” substitute “ The National Library of Scotland ”, and
 - (b) in Schedule 6 (bodies to whom land may be transferred)—
@@ -473,19 +473,19 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 #### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
 
-**4.**[^key-a39934d411d4ce58125afe0e6b54deb7] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), for the entry relating to The Trustees of the National Library of Scotland substitute “ The National Library of Scotland ”.
+**4.**[^c-a39934d411d4ce58125afe0e6b54deb7] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), for the entry relating to The Trustees of the National Library of Scotland substitute “ The National Library of Scotland ”.
 
 #### Scottish Public Services Ombudsman Act 2002 (asp 11)
 
-**5.**[^key-95df7ab232162d3ea14c581900a7e429] In the Scottish Public Services Ombudsman Act 2002, in paragraph 30 of Part 2 of schedule 2 (listed authorities), for “The Trustees of the National Library of Scotland” substitute “ The National Library of Scotland ”.
+**5.**[^c-95df7ab232162d3ea14c581900a7e429] In the Scottish Public Services Ombudsman Act 2002, in paragraph 30 of Part 2 of schedule 2 (listed authorities), for “The Trustees of the National Library of Scotland” substitute “ The National Library of Scotland ”.
 
 #### Freedom of Information (Scotland) Act 2002 (asp 13)
 
-**6.**[^key-4853d496f622610ca5629c8fc081c886] In the Freedom of Information (Scotland) Act 2002, in paragraph 105 of Part 7 of schedule 1 (Scottish public authorities), for “The Trustees of the National Library of Scotland” substitute “ The National Library of Scotland ”.
+**6.**[^c-4853d496f622610ca5629c8fc081c886] In the Freedom of Information (Scotland) Act 2002, in paragraph 105 of Part 7 of schedule 1 (Scottish public authorities), for “The Trustees of the National Library of Scotland” substitute “ The National Library of Scotland ”.
 
 #### Legal Deposit Libraries Act 2003 (c.28)
 
-**7.**[^key-8377c2c6a9a60469a63daddfd39b42ab] In the Legal Deposit Libraries Act 2003—
+**7.**[^c-8377c2c6a9a60469a63daddfd39b42ab] In the Legal Deposit Libraries Act 2003—
 
 - (a) in section 12 (regulations: Scotland and Wales)—
   - (i) in subsection (1)(a), the words “the authority controlling” are repealed,
@@ -498,23 +498,23 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 #### Holocaust (Return of Cultural Objects) Act 2009 (c.16)
 
-**8.**[^key-bc820e2eb487cf398e94a04371fd20b6] In the Holocaust (Return of Cultural Objects) Act 2009—
+**8.**[^c-bc820e2eb487cf398e94a04371fd20b6] In the Holocaust (Return of Cultural Objects) Act 2009—
 
 - (a) in section 1 (bodies to which this Act applies), for “The Trustees of the National Library of Scotland” substitute “ The National Library of Scotland ”, and
 - (b) in section 2(5) (power to return victims' property), for “The Trustees of the National Library of Scotland” substitute “ The National Library of Scotland ”.
 
 #### Public Services Reform (Scotland) Act 2010 (asp 8)
 
-**9.**[^key-b0f6630f0c75ecac0c9de07674efe929] In the Public Services Reform (Scotland) Act 2010—
+**9.**[^c-b0f6630f0c75ecac0c9de07674efe929] In the Public Services Reform (Scotland) Act 2010—
 
 - (a) in schedule 5 (improvement of public functions: listed bodies), for “The Trustees of the National Library of Scotland” substitute “ The National Library of Scotland ”, and
 - (b) in schedule 8 (information on exercise of public functions: listed public bodies), for “The Trustees of the National Library of Scotland” substitute “ The National Library of Scotland ”.
 
 #### Public Records (Scotland) Act 2011 (asp 12)
 
-**10.**[^key-c1623268c68dbaf4e154f897e1fce9db] In the schedule to the Public Records (Scotland) Act 2011, for “Trustees of the National Library of Scotland” substitute “ National Library of Scotland ”.
+**10.**[^c-c1623268c68dbaf4e154f897e1fce9db] In the schedule to the Public Records (Scotland) Act 2011, for “Trustees of the National Library of Scotland” substitute “ National Library of Scotland ”.
 
-## SCHEDULE 3 — REPEALS[^key-6b87ce2f7ba765476734a8ddd270442e]
+## SCHEDULE 3 — REPEALS[^c-6b87ce2f7ba765476734a8ddd270442e]
 
 (introduced by section 10(5))
 
@@ -527,74 +527,74 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 ## Annotations
 
-[^key-3d1fad7d0882b5c69caf383e02206f9f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/3/section/1) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-3d1fad7d0882b5c69caf383e02206f9f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/3/section/1) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-8ad5ce6612eaf7d309f2dceb51bc5a4d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2012/3/section/2) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-8ad5ce6612eaf7d309f2dceb51bc5a4d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2012/3/section/2) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-a720c0a05ede52f0d3eaee4723dcacaf]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2012/3/section/3) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-a720c0a05ede52f0d3eaee4723dcacaf]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2012/3/section/3) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-a497eb6b0b8c0c16ca59fa94b23abe41]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2012/3/section/4) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-a497eb6b0b8c0c16ca59fa94b23abe41]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2012/3/section/4) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-002ed37947f2bed4fb89764b948a16f2]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2012/3/section/5) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-002ed37947f2bed4fb89764b948a16f2]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2012/3/section/5) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-798e38779ec14b6bceb5a23d5b23c289]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2012/3/section/6) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-798e38779ec14b6bceb5a23d5b23c289]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2012/3/section/6) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-4b95d6abddf54e9daad29e3044f1ffac]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2012/3/section/7) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-4b95d6abddf54e9daad29e3044f1ffac]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2012/3/section/7) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-6beebade0ce1c56b6530737d2887b714]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2012/3/section/8) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-6beebade0ce1c56b6530737d2887b714]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2012/3/section/8) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-ca5536e2d0f8b6fc6f4607d24f1c1136]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2012/3/section/9) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-ca5536e2d0f8b6fc6f4607d24f1c1136]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2012/3/section/9) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
 [^c2130694]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2012/3/section/10) partly in force; [s. 10(1)](https://www.legislation.gov.uk/asp/2012/3/section/10/1) in force for specified purposes at 21.8.2012 see [s. 12(2)](https://www.legislation.gov.uk/asp/2012/3/section/12/2)
 
-[^key-e7e5d20047e005c5f62ef13e5aafc833]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/asp/2012/3/section/10/1) in force at 1.2.2013 in so far as not already in force by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-e7e5d20047e005c5f62ef13e5aafc833]: Commencement: [S. 10(1)](https://www.legislation.gov.uk/asp/2012/3/section/10/1) in force at 1.2.2013 in so far as not already in force by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-5c3c50a910e5b39034d0945ea009a059]: Commencement: [S. 10(2)-(5)](https://www.legislation.gov.uk/asp/2012/3/section/10/2) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-5c3c50a910e5b39034d0945ea009a059]: Commencement: [S. 10(2)-(5)](https://www.legislation.gov.uk/asp/2012/3/section/10/2) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-2f1edd59bbb4d8ce18ebbfc863e8b391]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/1) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-2f1edd59bbb4d8ce18ebbfc863e8b391]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/1) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-a8709623a6cfef7103ff12f1ad2dfe3a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/2) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-a8709623a6cfef7103ff12f1ad2dfe3a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/2) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-c79546253059e931fdd7dede1ab9a6eb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/3) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-c79546253059e931fdd7dede1ab9a6eb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/3) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-09fb2bfdd370dc11966f0aca6b45bd68]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/4) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-09fb2bfdd370dc11966f0aca6b45bd68]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/4) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-fe9a6e47aaccf716347e4bf964697862]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/5) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-fe9a6e47aaccf716347e4bf964697862]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/5) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-d15940e46fd0be735cee36ea636ae8f0]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/6) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-d15940e46fd0be735cee36ea636ae8f0]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/6) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-2dead3671d9227bc7470b8865c9209b7]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/7) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-2dead3671d9227bc7470b8865c9209b7]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/7) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-aade4b57e0c51ea6daeefffba1db2e7a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/8) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-aade4b57e0c51ea6daeefffba1db2e7a]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/8) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-cd5654857c0190795c4c08196e264012]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/9) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-cd5654857c0190795c4c08196e264012]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/9) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-8d8eb435d44812766ec93a89319cd05f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/10) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-8d8eb435d44812766ec93a89319cd05f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/10) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-84f4ea14e2a5964de569b3dd11c0ceaf]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/11) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-84f4ea14e2a5964de569b3dd11c0ceaf]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/11) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-4d532002601dc1a1114a02126518cb09]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/12) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-4d532002601dc1a1114a02126518cb09]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/12) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-33b25d47ada9a0675fae6ec02b2e8ecd]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/13) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-33b25d47ada9a0675fae6ec02b2e8ecd]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2012/3/schedule/1/paragraph/13) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
 [^c2130695]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/1) wholly in force; [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/1) wholly in force at 21.8.2012 see [s. 12(2)](https://www.legislation.gov.uk/asp/2012/3/section/12/2)
 
-[^key-ce22070fef53ca32fdab6b58f27fba76]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/2) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-ce22070fef53ca32fdab6b58f27fba76]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/2) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-ebf23f6e3bbf34873656a854ca9b2d96]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/3) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-ebf23f6e3bbf34873656a854ca9b2d96]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/3) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-a39934d411d4ce58125afe0e6b54deb7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/4) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-a39934d411d4ce58125afe0e6b54deb7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/4) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-95df7ab232162d3ea14c581900a7e429]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/5) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-95df7ab232162d3ea14c581900a7e429]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/5) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-4853d496f622610ca5629c8fc081c886]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/6) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-4853d496f622610ca5629c8fc081c886]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/6) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-8377c2c6a9a60469a63daddfd39b42ab]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-8377c2c6a9a60469a63daddfd39b42ab]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-bc820e2eb487cf398e94a04371fd20b6]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/8) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-bc820e2eb487cf398e94a04371fd20b6]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/8) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-b0f6630f0c75ecac0c9de07674efe929]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/9) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-b0f6630f0c75ecac0c9de07674efe929]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/9) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-c1623268c68dbaf4e154f897e1fce9db]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/10) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-c1623268c68dbaf4e154f897e1fce9db]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/10) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-6b87ce2f7ba765476734a8ddd270442e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/3) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-6b87ce2f7ba765476734a8ddd270442e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/3) in force at 1.2.2013 by [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)

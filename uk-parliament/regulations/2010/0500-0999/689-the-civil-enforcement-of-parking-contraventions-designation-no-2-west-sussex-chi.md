@@ -52,11 +52,11 @@ In accordance with the requirements of paragraph 8(3) of that Schedule 8 and par
 
 Accordingly, the Secretary of State[^f00002] makes this order.
 
-## 1. Citation and commencement[^key-f34a47ed13380d260365db151ed5f6bd]
+## 1. Citation and commencement[^c-f34a47ed13380d260365db151ed5f6bd]
 
 This order may be cited as the Civil Enforcement of Parking Contraventions Designation (No.2) (West Sussex) (Chichester and Crawley) Order 2010 and shall come into force on 12th April 2010.
 
-## 2. Designation of civil enforcement area and special enforcement area under the Traffic Management Act 2004[^key-310f8f2964a1cb443a30d86646089cfb]
+## 2. Designation of civil enforcement area and special enforcement area under the Traffic Management Act 2004[^c-310f8f2964a1cb443a30d86646089cfb]
 
 The Secretary of State designates the part of the area of The West Sussex County Council specified in the schedule as—
 
@@ -77,9 +77,9 @@ Department for Transport
 
 Article 2
 
-**1.**[^key-6a13544e17ab659e9a6abe7bdd7eca39] The district of Chichester , including the A27 Oving crossroads from the B2144 Oving Road (east) at Ordnance Survey National Grid reference SU8780404983, to the B2144 Oving Road (west) at Ordnance Survey National Grid reference SU8775004985, excepting the remainder of[^key-bd2beeda60670ea5fde99eb73f60d71b] the A27 trunk road and its slip roads.
+**1.**[^c-6a13544e17ab659e9a6abe7bdd7eca39] The district of Chichester , including the A27 Oving crossroads from the B2144 Oving Road (east) at Ordnance Survey National Grid reference SU8780404983, to the B2144 Oving Road (west) at Ordnance Survey National Grid reference SU8775004985, excepting the remainder of[^c-bd2beeda60670ea5fde99eb73f60d71b] the A27 trunk road and its slip roads.
 
-**2.**[^key-383dde8a5132aa8275a45c462f8c78de] The borough of Crawley except—
+**2.**[^c-383dde8a5132aa8275a45c462f8c78de] The borough of Crawley except—
 
 - (a) the following roads within the perimeter of Gatwick Airport—
   - (i) the R20 North Terminal Approach Road from the perimeter of Gatwick Airport (at Ordnance Survey National Grid reference point TQ2784241882) to its junction with the R21 Northway at the perimeter of Gatwick Airport (at Ordnance Survey National Grid reference point TQ2783041899),
@@ -120,12 +120,12 @@ An impact assessment has not been produced as no impact on the private or volunt
 
 [^f00002]: Footnote: The Secretary of State is, by virtue of section 92 of the Traffic Management Act 2004, the ‘appropriate national authority’ as regards England for the purposes of Part 6 of that Act.
 
-[^key-f34a47ed13380d260365db151ed5f6bd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1) in force at 12.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1)
+[^c-f34a47ed13380d260365db151ed5f6bd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1) in force at 12.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1)
 
-[^key-310f8f2964a1cb443a30d86646089cfb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/689/article/2) in force at 12.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1)
+[^c-310f8f2964a1cb443a30d86646089cfb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/689/article/2) in force at 12.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1)
 
-[^key-6a13544e17ab659e9a6abe7bdd7eca39]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/689/schedule/paragraph/1) in force at 12.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1)
+[^c-6a13544e17ab659e9a6abe7bdd7eca39]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/689/schedule/paragraph/1) in force at 12.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1)
 
-[^key-bd2beeda60670ea5fde99eb73f60d71b]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/689/schedule/paragraph/1) substituted (19.12.2023) by [The Civil Enforcement of Parking Contraventions Designation (No. 2) (West Sussex) (Chichester and Crawley) (Amendment) and the Civil Enforcement of Parking Contraventions Designation Order 2023 (S.I. 2023/1256)](https://www.legislation.gov.uk/uksi/2023/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1256/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/1256/article/4/2)
+[^c-bd2beeda60670ea5fde99eb73f60d71b]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/689/schedule/paragraph/1) substituted (19.12.2023) by [The Civil Enforcement of Parking Contraventions Designation (No. 2) (West Sussex) (Chichester and Crawley) (Amendment) and the Civil Enforcement of Parking Contraventions Designation Order 2023 (S.I. 2023/1256)](https://www.legislation.gov.uk/uksi/2023/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1256/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/1256/article/4/2)
 
-[^key-383dde8a5132aa8275a45c462f8c78de]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/689/schedule/paragraph/2) in force at 12.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1)
+[^c-383dde8a5132aa8275a45c462f8c78de]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/689/schedule/paragraph/2) in force at 12.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/689/article/1)

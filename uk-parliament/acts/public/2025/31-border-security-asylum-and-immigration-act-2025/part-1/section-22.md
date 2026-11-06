@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Meaning of key expressions[^key-edacddd3a222d0a8effbb1331ac9e628][^key-3f98dcfb321599b1258ba5b14cef1633]
+## 22. Meaning of key expressions[^c-edacddd3a222d0a8effbb1331ac9e628][^c-3f98dcfb321599b1258ba5b14cef1633]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-edacddd3a222d0a8effbb1331ac9e628]: Commencement: S. 22 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-edacddd3a222d0a8effbb1331ac9e628]: Commencement: S. 22 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-3f98dcfb321599b1258ba5b14cef1633]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/31/section/22) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)
+[^c-3f98dcfb321599b1258ba5b14cef1633]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/31/section/22) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Discharge of liability where guaranteed minimum pension secured by insurance policies or annuity contracts[^key-f95b2ca815107f6a7d100fcdd5814714]
+## 116. Discharge of liability where guaranteed minimum pension secured by insurance policies or annuity contracts[^c-f95b2ca815107f6a7d100fcdd5814714]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f95b2ca815107f6a7d100fcdd5814714]: Commencement: Art. 116 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f95b2ca815107f6a7d100fcdd5814714]: Commencement: Art. 116 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

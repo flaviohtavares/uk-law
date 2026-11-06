@@ -31,18 +31,18 @@ Sporting Events (Control of Alcohol etc.) (Amendment) Act 1992 (repealed)
 
 1992 c. 57
 
-[^key-9bae30f9c2f0ab72319636563509584f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bae30f9c2f0ab72319636563509584f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Amendment of Sporting Events (Control of Alcohol etc.) Act 1985.[^key-9bae30f9c2f0ab72319636563509584f]
+## 1. Amendment of Sporting Events (Control of Alcohol etc.) Act 1985.[^c-9bae30f9c2f0ab72319636563509584f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and extent.[^key-9bae30f9c2f0ab72319636563509584f]
+## 2. Short title and extent.[^c-9bae30f9c2f0ab72319636563509584f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bae30f9c2f0ab72319636563509584f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1992/57) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-9bae30f9c2f0ab72319636563509584f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1992/57) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

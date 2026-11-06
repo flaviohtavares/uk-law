@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Disqualification of member of a local authority in Wales for appointment to paid office[^key-f8ba5f923f09b696c8315a0020e24eac]
+## 21. Disqualification of member of a local authority in Wales for appointment to paid office[^c-f8ba5f923f09b696c8315a0020e24eac]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ After section 116 of the 1972 Act insert—
 
 ## Annotations
 
-[^key-f8ba5f923f09b696c8315a0020e24eac]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2021/1/section/21) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2021/1249/article/4))
+[^c-f8ba5f923f09b696c8315a0020e24eac]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2021/1/section/21) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2021/1249/article/4))

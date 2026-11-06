@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Sentencing powers of Court Martial where election for trial by that court instead of CO[^key-81e949164e2e66f50e8156ca7467994a]
+## 165. Sentencing powers of Court Martial where election for trial by that court instead of CO[^c-81e949164e2e66f50e8156ca7467994a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3A (sentencing powers of Court Martial where election for trial by that
 
 ## Annotations
 
-[^key-81e949164e2e66f50e8156ca7467994a]: Textual amendment: S. 165 substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/14/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/669/article/4/b)
+[^c-81e949164e2e66f50e8156ca7467994a]: Textual amendment: S. 165 substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/14/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/669/article/4/b)

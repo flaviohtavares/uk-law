@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Traffic regulation[^key-64361917f0517e3dc9b17512cd31f55c]
+## 18. Traffic regulation[^c-64361917f0517e3dc9b17512cd31f55c]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-64361917f0517e3dc9b17512cd31f55c]: Commencement: Art. 18 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-64361917f0517e3dc9b17512cd31f55c]: Commencement: Art. 18 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Final false information enforcement notice[^key-6019b5cfda5c3f9383ec86db9bce1ab4][^key-04435a89bbc5fa5571bd38f974a0f3b4]
+## 198. Final false information enforcement notice[^c-6019b5cfda5c3f9383ec86db9bce1ab4][^c-04435a89bbc5fa5571bd38f974a0f3b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6019b5cfda5c3f9383ec86db9bce1ab4]: Commencement: S. 198 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-6019b5cfda5c3f9383ec86db9bce1ab4]: Commencement: S. 198 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-04435a89bbc5fa5571bd38f974a0f3b4]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2024/13/section/198) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-04435a89bbc5fa5571bd38f974a0f3b4]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2024/13/section/198) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

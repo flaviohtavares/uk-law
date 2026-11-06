@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172C. Allocation of unallocated employer contributions[^key-84ebe3d1641ed692c3a01679e7932080]
+## 172C. Allocation of unallocated employer contributions[^c-84ebe3d1641ed692c3a01679e7932080]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ summary: ''
 
 (2) An arrangement is a relevant arrangement if it is—
 
-- (a) a money purchase arrangement that is not a cash balance arrangement or a collective money purchase arrangement[^key-fa905cd012fce7fd8391634dd3cd405d], or
-- (b) a hybrid arrangement under which the benefits that may be provided to or in respect of the member are, or include, money purchase benefits that are not cash balance benefits or collective money purchase benefits[^key-77a1efb624a8d3eb5e119ff0fc4392a1].
+- (a) a money purchase arrangement that is not a cash balance arrangement or a collective money purchase arrangement[^c-fa905cd012fce7fd8391634dd3cd405d], or
+- (b) a hybrid arrangement under which the benefits that may be provided to or in respect of the member are, or include, money purchase benefits that are not cash balance benefits or collective money purchase benefits[^c-77a1efb624a8d3eb5e119ff0fc4392a1].
 
 (3) “**The permitted maximum**” is—
 
@@ -51,14 +51,14 @@ N is the number of registered pension schemes of which he is a member.
 
 (6) The amount of the unauthorised payment is the amount by which the amount of the allocated contributions exceeds the permitted maximum.
 
-(7)[^key-c5dfc6267119b48d1a347026637bfc72] For the purposes of this section whether a person is connected with another person is determined in accordance with section 993 of ITA 2007.
+(7)[^c-c5dfc6267119b48d1a347026637bfc72] For the purposes of this section whether a person is connected with another person is determined in accordance with section 993 of ITA 2007.
 
 ## Annotations
 
-[^key-84ebe3d1641ed692c3a01679e7932080]: Textual amendment: Ss. 172A-172D inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 38](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/38), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
+[^c-84ebe3d1641ed692c3a01679e7932080]: Textual amendment: Ss. 172A-172D inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 38](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/38), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
 
-[^key-fa905cd012fce7fd8391634dd3cd405d]: Textual amendment: Words in [s. 172C(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/172C/2/a) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/5/2/a), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-fa905cd012fce7fd8391634dd3cd405d]: Textual amendment: Words in [s. 172C(2)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/172C/2/a) inserted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/5/2/a), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-77a1efb624a8d3eb5e119ff0fc4392a1]: Textual amendment: Words in [s. 172C(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/172C/2/b) substituted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/5/2/b), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-77a1efb624a8d3eb5e119ff0fc4392a1]: Textual amendment: Words in [s. 172C(2)(b)](https://www.legislation.gov.uk/ukpga/2004/12/section/172C/2/b) substituted (1.8.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 5 paras. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/5/2/b), [25(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/25/1); [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-c5dfc6267119b48d1a347026637bfc72]: Textual amendment: S. 172C(7) substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 471](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/471) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-c5dfc6267119b48d1a347026637bfc72]: Textual amendment: S. 172C(7) substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 471](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/471) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Amendments, repeals, revocations and savings[^key-4889517f421efe84b3fa07c5eaa521d0]
+## 3. Amendments, repeals, revocations and savings[^c-4889517f421efe84b3fa07c5eaa521d0]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4889517f421efe84b3fa07c5eaa521d0]: Commencement: [Para. 3](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/3) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)
+[^c-4889517f421efe84b3fa07c5eaa521d0]: Commencement: [Para. 3](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/3) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)
 
 [^f00002]: Footnote: [S.I. 1965/321](https://www.legislation.gov.uk/uksi/1965/321).

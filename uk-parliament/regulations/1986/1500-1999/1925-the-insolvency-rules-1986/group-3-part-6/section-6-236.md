@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.236. Consolidation of petitions[^key-66fa786aae2e6b00dae8ee270c2988c5]
+## 6.236. Consolidation of petitions[^c-66fa786aae2e6b00dae8ee270c2988c5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where two or more bankruptcy petitions are presented against the same debtor, th
 
 ## Annotations
 
-[^key-66fa786aae2e6b00dae8ee270c2988c5]: Commencement: [Rule 6.236](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.236) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-66fa786aae2e6b00dae8ee270c2988c5]: Commencement: [Rule 6.236](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.236) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

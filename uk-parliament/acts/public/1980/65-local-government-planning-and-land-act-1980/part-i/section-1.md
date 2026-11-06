@@ -37,9 +37,9 @@ shall cease to have effect.
 
 (3) The amendments specified in Schedule 3 to this Act shall have effect for the purpose of limiting the powers of Ministers to supervise local authorities in the discharge of their functions relating to amenity and connected matters.
 
-(4)[^key-749bd09981e2a4b495f10c787a924f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-749bd09981e2a4b495f10c787a924f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-929fca994a5476a50cdf263afdfa7bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-929fca994a5476a50cdf263afdfa7bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The amendments specified in Schedule 6 to this Act shall have effect for the purpose of limiting the powers of Ministers to control charges to be imposed by loacl authorities for the services provided by them and rates of interest to which local authorities may be entitled.
 
@@ -68,9 +68,9 @@ shall cease to have effect.
 
 (3) The amendments specified in Schedule 3 to this Act shall have effect for the purpose of limiting the powers of Ministers to supervise local authorities in the discharge of their functions relating to amenity and connected matters.
 
-(4)[^key-749bd09981e2a4b495f10c787a924f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-749bd09981e2a4b495f10c787a924f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-929fca994a5476a50cdf263afdfa7bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-929fca994a5476a50cdf263afdfa7bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The amendments specified in Schedule 6 to this Act shall have effect for the purpose of limiting the powers of Ministers to control charges to be imposed by loacl authorities for the services provided by them and rates of interest to which local authorities may be entitled.
 
@@ -84,9 +84,9 @@ shall cease to have effect.
 
 [^c13861721]: Textual amendment: Words repealed by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58), [Sch. 27 Pt. I](https://www.legislation.gov.uk/ukpga/1989/15/schedule/27/part/I)
 
-[^key-749bd09981e2a4b495f10c787a924f44]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/1980/65/section/1/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-749bd09981e2a4b495f10c787a924f44]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/1980/65/section/1/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
-[^key-929fca994a5476a50cdf263afdfa7bab]: Textual amendment: [S. 1(5)](https://www.legislation.gov.uk/ukpga/1980/65/section/1/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-929fca994a5476a50cdf263afdfa7bab]: Textual amendment: [S. 1(5)](https://www.legislation.gov.uk/ukpga/1980/65/section/1/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c13861681]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Circumstances in which a person is to be treated as responsible or not responsible for another[^key-ebbc5e68b40829b34740eaf27d0b4bc8]
+## 6. Circumstances in which a person is to be treated as responsible or not responsible for another[^c-ebbc5e68b40829b34740eaf27d0b4bc8]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebbc5e68b40829b34740eaf27d0b4bc8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/1814/regulation/6) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-ebbc5e68b40829b34740eaf27d0b4bc8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/1814/regulation/6) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

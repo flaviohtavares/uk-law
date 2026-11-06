@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The adoption agency must take into account the *(affected by repeal, see note)*[^key-24979a3bc438a93e47e7890bdb169d19] account any recommendation of the adoption panel in coming to a decision about whether the child should be placed for adoption with the particular prospective adopter.
+(1) The adoption agency must take into account the *(affected by repeal, see note)*[^c-24979a3bc438a93e47e7890bdb169d19] account any recommendation of the adoption panel in coming to a decision about whether the child should be placed for adoption with the particular prospective adopter.
 
 (2) No member of the adoption panel shall take part in any decision made by the adoption agency under paragraph (1).
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^M_C_b95a4a9b-ae40-40ab-9313-caccbb28d4f7]: Modification: Reg. 33 applied (with modifications) (30.12.2005) by The Adoptions with a [Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [45(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/45/1)
 
-[^key-24979a3bc438a93e47e7890bdb169d19]: Textual amendment: Words in reg. 33(1) substituted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2020/445/regulation/4/15) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-24979a3bc438a93e47e7890bdb169d19]: Textual amendment: Words in reg. 33(1) substituted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2020/445/regulation/4/15) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))

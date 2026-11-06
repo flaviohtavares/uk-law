@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Repeals, savings and consequential amendments[^key-45337b5b3680cf657e34cd0187a0749a]
+## 75. Repeals, savings and consequential amendments[^c-45337b5b3680cf657e34cd0187a0749a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45337b5b3680cf657e34cd0187a0749a]: Commencement: [S. 75](https://www.legislation.gov.uk/anaw/2019/3/section/75) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-45337b5b3680cf657e34cd0187a0749a]: Commencement: [S. 75](https://www.legislation.gov.uk/anaw/2019/3/section/75) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

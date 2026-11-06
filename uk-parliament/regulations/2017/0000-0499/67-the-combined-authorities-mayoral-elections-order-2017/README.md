@@ -44,7 +44,7 @@ The Secretary of State has consulted the Electoral Commission about this Order i
 
 The provisions of this Order which relate to the limitation of election expenses (and the creation of criminal offences in connection with the limitation of such expenses) are made in accordance with a recommendation of the Electoral Commission.
 
-In accordance with section 117(2) of the Local Democracy, Economic Development and Construction Act 2009, a draft of this Order has been laid before and approved by resolution of each House of Parliament.[^key-a1e6190bca978004dfce5bc32a659181]
+In accordance with section 117(2) of the Local Democracy, Economic Development and Construction Act 2009, a draft of this Order has been laid before and approved by resolution of each House of Parliament.[^c-a1e6190bca978004dfce5bc32a659181]
 
 ## Contents
 
@@ -100,4 +100,4 @@ A full impact assessment has not been produced for this instrument because no, o
 
 [^c22990841]: Marginal citation: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20). Section 117 was amended, and Schedule 5B inserted, by the [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
 
-[^key-a1e6190bca978004dfce5bc32a659181]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/67) modified (21.3.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/402/article/1/2), [16](https://www.legislation.gov.uk/uksi/2024/402/article/16) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-a1e6190bca978004dfce5bc32a659181]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/67) modified (21.3.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/402/article/1/2), [16](https://www.legislation.gov.uk/uksi/2024/402/article/16) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))

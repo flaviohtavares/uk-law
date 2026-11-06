@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 523A. Legacies: income tax liability and exemption[^key-e024756fc9e2b8a7e18d8ff92ee283ab]
+## 523A. Legacies: income tax liability and exemption[^c-e024756fc9e2b8a7e18d8ff92ee283ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e024756fc9e2b8a7e18d8ff92ee283ab]: Textual amendment: S. 523A inserted (with effect in accordance with s. 54(10) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/3)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)
+[^c-e024756fc9e2b8a7e18d8ff92ee283ab]: Textual amendment: S. 523A inserted (with effect in accordance with s. 54(10) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/3)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)

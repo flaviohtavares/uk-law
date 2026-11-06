@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33C. Removal of designation: application[^key-f8c57c901b82ed01e2f3393b1d86e588]
+## 33C. Removal of designation: application[^c-f8c57c901b82ed01e2f3393b1d86e588]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8c57c901b82ed01e2f3393b1d86e588]: Textual amendment: [Ss. 33C-33H](https://www.legislation.gov.uk/ukpga/2023/32/section/33C) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/3/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-f8c57c901b82ed01e2f3393b1d86e588]: Textual amendment: [Ss. 33C-33H](https://www.legislation.gov.uk/ukpga/2023/32/section/33C) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/3/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)

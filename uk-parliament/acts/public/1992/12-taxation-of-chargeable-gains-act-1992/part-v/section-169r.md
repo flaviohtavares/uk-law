@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169R. Reorganisations involving acquisition of qualifying corporate bonds[^key-31c1de9894434392ef5499d0cc1802db][^key-62210e0dd95858649d5b0850e81240b3]
+## 169R. Reorganisations involving acquisition of qualifying corporate bonds[^c-31c1de9894434392ef5499d0cc1802db][^c-62210e0dd95858649d5b0850e81240b3]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where the calculation under section 116(10)(a) would (apart from this section) have effect to produce a chargeable gain for an individual by reason of a relevant transaction.
 
-(2) If an election is made under this section, a claim for business asset disposal relief[^key-81bc625811da9cbe5b35aca85a72dfb8] may be made as if the relevant transaction involved a disposal of the old asset; and if such a claim is made section 116(10) does not apply.
+(2) If an election is made under this section, a claim for business asset disposal relief[^c-81bc625811da9cbe5b35aca85a72dfb8] may be made as if the relevant transaction involved a disposal of the old asset; and if such a claim is made section 116(10) does not apply.
 
 (3) An election under this section must be made—
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-31c1de9894434392ef5499d0cc1802db]: Textual amendment: S. 169R substituted (with effect in accordance with Sch. 1 para. 15 of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/8)
+[^c-31c1de9894434392ef5499d0cc1802db]: Textual amendment: S. 169R substituted (with effect in accordance with Sch. 1 para. 15 of the amending Act) by [Finance (No. 2) Act 2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2010/31/schedule/1/paragraph/8)
 
-[^key-62210e0dd95858649d5b0850e81240b3]: Textual amendment: Pt. 5 Ch. 3 inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/2) (with [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/6))
+[^c-62210e0dd95858649d5b0850e81240b3]: Textual amendment: Pt. 5 Ch. 3 inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/2) (with [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/6))
 
-[^key-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))
+[^c-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Breach of the consent provision[^key-396e1f0e1b408ffa541f178954bbd4ee]
+## 61. Breach of the consent provision[^c-396e1f0e1b408ffa541f178954bbd4ee]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A breach of the consent provision occurs where the improver has failed to obtain
 
 ## Annotations
 
-[^key-396e1f0e1b408ffa541f178954bbd4ee]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2012/2079/regulation/61) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-396e1f0e1b408ffa541f178954bbd4ee]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2012/2079/regulation/61) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

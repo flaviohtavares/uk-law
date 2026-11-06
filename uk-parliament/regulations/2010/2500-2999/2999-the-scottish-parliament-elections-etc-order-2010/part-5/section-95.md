@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Effect of demise of the Crown[^key-4f6907cfed4cd725cdb51d9680263d6b]
+## 95. Effect of demise of the Crown[^c-4f6907cfed4cd725cdb51d9680263d6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A proclamation dissolving the Parliament as mentioned in section 2(5) of the 199
 
 ## Annotations
 
-[^key-4f6907cfed4cd725cdb51d9680263d6b]: Commencement: Art. 95 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4f6907cfed4cd725cdb51d9680263d6b]: Commencement: Art. 95 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

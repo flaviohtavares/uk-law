@@ -70,10 +70,10 @@ In respect of the provisions in regulations 2, 3(2)(c), (12) and (13)(a), (b)(i)
 
 ## 2. Amendments to the Discretionary Financial Assistance Regulations 2001
 
-In the following provisions of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-401db7d51a0c81f03b42f92bffd985ba] [^c22916761]**, *(Extent: E)* *(affected by repeal, see note)*[^key-401db7d51a0c81f03b42f92bffd985ba]** for “paragraph 3(e)” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-401db7d51a0c81f03b42f92bffd985ba] “ paragraph 3(h) or (i) ” *(Extent: E)* *(affected by repeal, see note)*[^key-401db7d51a0c81f03b42f92bffd985ba][^c22916771]
+In the following provisions of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^c-401db7d51a0c81f03b42f92bffd985ba] [^c22916761]**, *(Extent: E)* *(affected by repeal, see note)*[^c-401db7d51a0c81f03b42f92bffd985ba]** for “paragraph 3(e)” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-401db7d51a0c81f03b42f92bffd985ba] “ paragraph 3(h) or (i) ” *(Extent: E)* *(affected by repeal, see note)*[^c-401db7d51a0c81f03b42f92bffd985ba][^c22916771]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-401db7d51a0c81f03b42f92bffd985ba] regulation 1(2), in the definition of “relevant award of universal credit”; *(Extent: E)* *(affected by repeal, see note)*[^key-401db7d51a0c81f03b42f92bffd985ba]
-- (b (Extent: E) (affected by repeal, see note))[^key-401db7d51a0c81f03b42f92bffd985ba] regulation 4(2)(b). *(Extent: E)* *(affected by repeal, see note)*[^key-401db7d51a0c81f03b42f92bffd985ba]
+- (a (Extent: E) (affected by repeal, see note))[^c-401db7d51a0c81f03b42f92bffd985ba] regulation 1(2), in the definition of “relevant award of universal credit”; *(Extent: E)* *(affected by repeal, see note)*[^c-401db7d51a0c81f03b42f92bffd985ba]
+- (b (Extent: E) (affected by repeal, see note))[^c-401db7d51a0c81f03b42f92bffd985ba] regulation 4(2)(b). *(Extent: E)* *(affected by repeal, see note)*[^c-401db7d51a0c81f03b42f92bffd985ba]
 
 ## 3. Amendments to the Universal Credit Regulations 2013[^c23353691]
 
@@ -604,7 +604,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c22916751]: Marginal citation: [Section 176(1)](https://www.legislation.gov.uk/uksi/2018/65/section/176/1) was amended by paragraph 3(4) of Schedule 13 to the [Housing Act 1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52) and section 69(6) of the Child Support, Pensions and Social Security Act 2000 and repealed for certain purposes by Part 1 of Schedule 14 to the Welfare Reform Act 2012.
 
-[^key-401db7d51a0c81f03b42f92bffd985ba]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/65/regulation/2) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-401db7d51a0c81f03b42f92bffd985ba]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/65/regulation/2) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^c22916761]: Marginal citation: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167); the relevant amending instrument is [S.I. 2013/1139](https://www.legislation.gov.uk/uksi/2013/1139).
 

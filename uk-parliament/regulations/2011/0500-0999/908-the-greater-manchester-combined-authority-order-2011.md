@@ -70,46 +70,46 @@ Accordingly, the Secretary of State makes the following Order:
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-30b559bbc7d660627d812b36ca95af0e]
+### 1. Citation and commencement[^c-30b559bbc7d660627d812b36ca95af0e]
 
 This Order may be cited as the Greater Manchester Combined Authority Order 2011 and shall come into force on 1st April 2011.
 
-### 2. Interpretation[^key-b85a7b630cbda562ff1261c479851107]
+### 2. Interpretation[^c-b85a7b630cbda562ff1261c479851107]
 
 In this Order—
 
 - “the 2009 Act” means the Local Democracy, Economic Development and Construction Act 2009;
-- [^key-9179647e323ac852f0d04d24cc6d77ba]...
+- [^c-9179647e323ac852f0d04d24cc6d77ba]...
 - “combined area” means the area consisting of the areas of the constituent councils;
 - “constituent councils” means the metropolitan district councils for the local government areas of Bolton, Bury, Manchester, Oldham, Rochdale, Salford, Stockport, Tameside, Trafford, and Wigan;
 - “the Executive” has the meaning given by article 9(1);
 - “financial year” means the period of 12 months ending with 31st March in any year;
 - “the GMCA” has the meaning given by article 3(2); and
-- [^key-79b6d650fc19acf823b38cb8b61b19c8]...
+- [^c-79b6d650fc19acf823b38cb8b61b19c8]...
 - “the ITA” means the Greater Manchester Integrated Transport Authority[^f00003].
-- “Mayor” means the mayor for the area of the GMCA[^key-ff254a40d582a75c28c0c790488fc735]
+- “Mayor” means the mayor for the area of the GMCA[^c-ff254a40d582a75c28c0c790488fc735]
 
 ## PART 2 — Establishment of a Combined Authority for Greater Manchester
 
-### 3. Establishment[^key-5ecbce93426964dd3fd4493d79f5b4d1]
+### 3. Establishment[^c-5ecbce93426964dd3fd4493d79f5b4d1]
 
 (1) There is established a combined authority for the combined area.
 
 (2) The combined authority is to be a body corporate and to be known as the Greater Manchester Combined Authority (“the GMCA”).
 
-(3) The functions of the GMCA are those functions conferred or imposed upon it by this Order or by any other enactment (whenever passed or made), or as may be delegated to it by or under[^key-6c2ebf31cf3eb59aa90725638cc5f206] this Order or any other enactment (whenever passed or made).
+(3) The functions of the GMCA are those functions conferred or imposed upon it by this Order or by any other enactment (whenever passed or made), or as may be delegated to it by or under[^c-6c2ebf31cf3eb59aa90725638cc5f206] this Order or any other enactment (whenever passed or made).
 
-### 4. Constitution[^key-619e8ea1a26ebb77299be9bb23cd7694]
+### 4. Constitution[^c-619e8ea1a26ebb77299be9bb23cd7694]
 
 Schedule 1 (which makes provision about the constitution of the GMCA) has effect.
 
-### 5. Funding[^key-3214e7237cfd96354b0b03d6aeb1ce07]
+### 5. Funding[^c-3214e7237cfd96354b0b03d6aeb1ce07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Transport
 
-### 6. Abolition and transfer of functions[^key-8edf802c1c6c7658ea7cc99178f527d6]
+### 6. Abolition and transfer of functions[^c-8edf802c1c6c7658ea7cc99178f527d6]
 
 (1) The Greater Manchester integrated transport area is dissolved and the ITA is abolished.
 
@@ -120,7 +120,7 @@ Schedule 1 (which makes provision about the constitution of the GMCA) has effect
 
 are transferred to the GMCA.
 
-### 7. Adaptation of enactments[^key-b7a49adbf47e1e5cef6f8c4cb93f9115]
+### 7. Adaptation of enactments[^c-b7a49adbf47e1e5cef6f8c4cb93f9115]
 
 (1) This article has effect in consequence of article 6.
 
@@ -140,7 +140,7 @@ is to be treated as including a reference to the GMCA.
 
 (4) Schedule 2 (which amends section 9 of the Transport Act 1968 in consequence of article 6) has effect, but this does not affect the generality of paragraphs (2) and (3).
 
-### 8. Delegation of certain transport functions[^key-e0bb84d2026cee8fa7864854924bf9e6]
+### 8. Delegation of certain transport functions[^c-e0bb84d2026cee8fa7864854924bf9e6]
 
 (1) There are delegated to the GMCA the functions of the constituent councils—
 
@@ -160,7 +160,7 @@ is to be treated as including a reference to the GMCA.
 
 (7) In the application of section 101 of the Local Government Act 1972[^f00010] (arrangements for the discharge of functions) to the GMCA the functions delegated to the GMCA by paragraph (1) are to be treated as if they were functions of the GMCA.
 
-### 9. Passenger Transport Executive[^key-d1f2aaee5e616265561995e10791c630]
+### 9. Passenger Transport Executive[^c-d1f2aaee5e616265561995e10791c630]
 
 (1) In this article “the Executive” means the Greater Manchester Passenger Transport Executive established by the South East Lancashire and North East Cheshire Passenger Transport Area (Designation) Order 1969[^f00011].
 
@@ -179,7 +179,7 @@ the Executive is to be treated as if it were an officer of the GMCA for the purp
 
 ## PART 4 — Additional Functions
 
-### 10. Economic development and regeneration functions[^key-dc20daf0d28643ec04638aa19ad7f79c]
+### 10. Economic development and regeneration functions[^c-dc20daf0d28643ec04638aa19ad7f79c]
 
 (1) The functions of the constituent councils set out in Schedule 3 to this Order are exercisable by the GMCA in relation to its area.
 
@@ -187,25 +187,25 @@ the Executive is to be treated as if it were an officer of the GMCA for the purp
 
 (3) Any requirement in any enactment for a constituent council to exercise such a function may be fulfilled by the exercise of that function by the GMCA.
 
-### 11. Incidental provisions[^key-28c6c3d57a33f230657687ea76d7e340]
+### 11. Incidental provisions[^c-28c6c3d57a33f230657687ea76d7e340]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-28c6c3d57a33f230657687ea76d7e340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-28c6c3d57a33f230657687ea76d7e340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-28c6c3d57a33f230657687ea76d7e340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-28c6c3d57a33f230657687ea76d7e340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-28c6c3d57a33f230657687ea76d7e340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-28c6c3d57a33f230657687ea76d7e340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Supplementary
 
-### 15. Transfer of the Commission for the New Economy etc[^key-32e4414d9492cd0ab1c4618150dcb123]
+### 15. Transfer of the Commission for the New Economy etc[^c-32e4414d9492cd0ab1c4618150dcb123]
 
 (1) The GMCA is to become a member of the Commission for the New Economy Limited and Manchester Investment and Development Agency Service Limited, companies limited by guarantee and registered in England with company numbers 05678007 and 3323710.
 
 (2) The constituent councils are to cease to be members of those companies.
 
-### 16. Scheme for transfer of property etc.[^key-791fbd7e6acb938d92b46816858a3008]
+### 16. Scheme for transfer of property etc.[^c-791fbd7e6acb938d92b46816858a3008]
 
 (1) Each constituent council must make a scheme for the transfer of its property, rights and liabilities to the GMCA or to the Executive, or to the GMCA and the Executive, as soon as reasonably practicable.
 
@@ -215,7 +215,7 @@ the Executive is to be treated as if it were an officer of the GMCA for the purp
 
 (4) The requirement in paragraph (1) may be fulfilled by a scheme or schemes made jointly by two or more of the constituent councils.
 
-### 17. Continuity[^key-620474a2b0ade37201f99b3ffddfcc5a]
+### 17. Continuity[^c-620474a2b0ade37201f99b3ffddfcc5a]
 
 (1) None of the following, that is to say—
 
@@ -261,7 +261,7 @@ SCHEDULES
 
 Article 4
 
-### 1. Membership[^key-798bf165df600eecb9593ee026488873]
+### 1. Membership[^c-798bf165df600eecb9593ee026488873]
 
 (1) Each constituent council is to appoint one of its elected members to be a member of the GMCA.
 
@@ -279,13 +279,13 @@ Article 4
 
 (8) For the purposes of this paragraph, an elected mayor of a constituent council is to be treated as a member of the constituent council.
 
-### 1A. Interim Mayor[^key-4955b772fec0e15a8a49b9373892b3eb]
+### 1A. Interim Mayor[^c-4955b772fec0e15a8a49b9373892b3eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Chair and vice-chair(s)[^key-571843d5de315132b9bc9cd99111b604]
+### 2. Chair and vice-chair(s)[^c-571843d5de315132b9bc9cd99111b604]
 
-(1)[^key-8b5452a9e70fe9f3880bd196b47bdab9] The GMCA may appoint one or more vice-chairs from among its members and any appointments are to be the first business transacted at the annual meeting of the GMCA.
+(1)[^c-8b5452a9e70fe9f3880bd196b47bdab9] The GMCA may appoint one or more vice-chairs from among its members and any appointments are to be the first business transacted at the annual meeting of the GMCA.
 
 from among its members and the appointments are to be the first business transacted at the annual meeting of the GMCA.
 
@@ -293,52 +293,52 @@ from among its members and the appointments are to be the first business transac
 
 (3) If a vacancy arises in the office of chair or vice chair, an appointment to fill the vacancy is to be made at the next ordinary meeting of the GMCA, or, if that meeting is to be held within 14 days of the vacancy arising, at the meeting following that meeting.
 
-### 2A. Chair and vice chair(s) – Interim Mayor[^key-b795520f8601dd1944be0f4ceb04d0c8]
+### 2A. Chair and vice chair(s) – Interim Mayor[^c-b795520f8601dd1944be0f4ceb04d0c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Proceedings[^key-1025b1f21528a367639bf7a0abef47ed]
+### 3. Proceedings[^c-1025b1f21528a367639bf7a0abef47ed]
 
-(1)[^key-550141a0f4cfee56b34e931136528e0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-550141a0f4cfee56b34e931136528e0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a5a067a4a77522099c4475c8b4e71f05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a5a067a4a77522099c4475c8b4e71f05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-4148c4759cb54dfcaf81c1b0fd93abfa] Questions relating to functions exercised pursuant to sections 335, 336, 337, and 341 of the Greater London Authority Act 1999 as applied by the Greater Manchester Combined Authority (Functions and Amendment) Order 2016 require a unanimous vote in favour by all members, or substitute members acting in place of those members, appointed by the constituent councils to be carried.
+(2A)[^c-4148c4759cb54dfcaf81c1b0fd93abfa] Questions relating to functions exercised pursuant to sections 335, 336, 337, and 341 of the Greater London Authority Act 1999 as applied by the Greater Manchester Combined Authority (Functions and Amendment) Order 2016 require a unanimous vote in favour by all members, or substitute members acting in place of those members, appointed by the constituent councils to be carried.
 
-(2B)[^key-cea69aed72ecaa1de12995895c3feb58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-cea69aed72ecaa1de12995895c3feb58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2C)[^key-cea69aed72ecaa1de12995895c3feb58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2C)[^c-cea69aed72ecaa1de12995895c3feb58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2D)[^key-cea69aed72ecaa1de12995895c3feb58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2D)[^c-cea69aed72ecaa1de12995895c3feb58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2E) In relation to functions conferred under Part 4 (waste disposal) of the Greater Manchester Combined Authority (Functions and Amendment) Order 2017—
 
 - (a) the member for the GMCA appointed by the district council for the local government area of Wigan, or any substitute member acting in place of that member, does not have a vote; and
 - (b) subject to sub-paragraph (a), decisions relating to levying and budgets require a vote in favour by at least 7 members, or substitute members acting in place of those members, present and voting on that question at a meeting of the GMCA.
 
-(2F)[^key-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2F)[^c-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4B)[^key-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4B)[^c-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4C)[^key-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4C)[^c-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c7eaa1b0e207a4a6bd7c5fa6f814faa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-633dff3946990a9731b6614ff8a7e4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-633dff3946990a9731b6614ff8a7e4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-633dff3946990a9731b6614ff8a7e4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-633dff3946990a9731b6614ff8a7e4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-633dff3946990a9731b6614ff8a7e4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-633dff3946990a9731b6614ff8a7e4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-633dff3946990a9731b6614ff8a7e4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-633dff3946990a9731b6614ff8a7e4dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3A. Committees– general[^key-d9ecc13a9d0f63d9e0fd7dff61a57dab]
+### 3A. Committees– general[^c-d9ecc13a9d0f63d9e0fd7dff61a57dab]
 
 (1) Save as provided in paragraph (2), the GMCA must, when appointing members of a committee or a sub-committee of the GMCA, appoint such number of members of each of the constituent councils, so that the members of the committee drawn from the constituent councils taken as a whole reflect so far as reasonably practicable the balance of political parties for the time being prevailing among the constituent councils when taken together.
 
@@ -348,8 +348,8 @@ from among its members and the appointments are to be the first business transac
 
 (1) The GMCA may establish an independent remuneration panel who may make recommendations to the GMCA and to the constituent councils regarding the allowances payable to—
 
-- (a) members appointed to the GMCA; [^key-6e6ed41efb8e833af7d42baecd1e90f7]...
-- (b) the Mayor; and[^key-290386b5968d851f3637930bce6df731]
+- (a) members appointed to the GMCA; [^c-6e6ed41efb8e833af7d42baecd1e90f7]...
+- (b) the Mayor; and[^c-290386b5968d851f3637930bce6df731]
 - (c) members of a committee or sub-committee of the GMCA.
 
 (2) An independent remuneration panel must consist of at least three members none of whom—
@@ -359,23 +359,23 @@ from among its members and the appointments are to be the first business transac
 
 (3) The GMCA may pay the expenses incurred by the independent remuneration panel established under paragraph (1) in carrying out its functions and may pay the members of the panel such allowances or expenses as the GMCA may determine.
 
-### 3C. Remuneration and pensions[^key-a8e144d7acfd6857ed069e3a3e9aaafb]
+### 3C. Remuneration and pensions[^c-a8e144d7acfd6857ed069e3a3e9aaafb]
 
-(1)[^key-7cd458fdfd600cf8d7cf61dbc9b061d2] Save as provided for in sub-paragraphs (2) to (5), no remuneration is to be payable by the GMCA to its members or a member of a committee or sub-committee of the GMCA other than—
+(1)[^c-7cd458fdfd600cf8d7cf61dbc9b061d2] Save as provided for in sub-paragraphs (2) to (5), no remuneration is to be payable by the GMCA to its members or a member of a committee or sub-committee of the GMCA other than—
 
 - (a) allowances for travel and subsistence;
 - (b) allowances payable in accordance with a scheme made under section 113E of the 2009 Act.
 
-(1A)[^key-19ba5be6c07c4f6e3c2eb4ef0f777b5a] Sub-paragraphs (2) and (3) apply in relation to allowances payable other than those specified in sub-paragraph (1)(a) and (b).
+(1A)[^c-19ba5be6c07c4f6e3c2eb4ef0f777b5a] Sub-paragraphs (2) and (3) apply in relation to allowances payable other than those specified in sub-paragraph (1)(a) and (b).
 
-(2) The GMCA may only pay an allowance to the Mayor or a member of a committee or sub-committee of the GMCA who is not an elected member of a constituent council[^key-eaf79f529706dd0a7a6e810c255b043c] or a member of a constituent council who is appointed to an overview and scrutiny committee or a sub-committee of that committee, or to the audit committee of the GMCA[^key-5fb7873f43e9d8f1b8b39482fb2003e7] if the GMCA has considered recommendations made by the independent remuneration panel established under paragraph 3B[^key-89d64a42c5e2662253072721b04b7b4f] which contains recommendations for the payment of such an allowance.
+(2) The GMCA may only pay an allowance to the Mayor or a member of a committee or sub-committee of the GMCA who is not an elected member of a constituent council[^c-eaf79f529706dd0a7a6e810c255b043c] or a member of a constituent council who is appointed to an overview and scrutiny committee or a sub-committee of that committee, or to the audit committee of the GMCA[^c-5fb7873f43e9d8f1b8b39482fb2003e7] if the GMCA has considered recommendations made by the independent remuneration panel established under paragraph 3B[^c-89d64a42c5e2662253072721b04b7b4f] which contains recommendations for the payment of such an allowance.
 
 (3) Where the independent remuneration panel recommends the payment of an allowance—
 
-- (a) the GMCA must pay an allowance not exceeding the allowance recommended by the independent remuneration panel to the Mayor or a member of a committee or sub-committee of the GMCA who is not an elected member of a constituent council[^key-7ad2cc2c454d7917d3cb0a20799cbd21]; and
-- (b)[^key-9389557ed826cb97f44e56f028fbed90] the GMCA may pay an allowance not exceeding the allowance recommended by the independent remuneration panel to elected members of constituent councils appointed to an overview and scrutiny committee, including to any sub-committee of that committee, or to the audit committee;
+- (a) the GMCA must pay an allowance not exceeding the allowance recommended by the independent remuneration panel to the Mayor or a member of a committee or sub-committee of the GMCA who is not an elected member of a constituent council[^c-7ad2cc2c454d7917d3cb0a20799cbd21]; and
+- (b)[^c-9389557ed826cb97f44e56f028fbed90] the GMCA may pay an allowance not exceeding the allowance recommended by the independent remuneration panel to elected members of constituent councils appointed to an overview and scrutiny committee, including to any sub-committee of that committee, or to the audit committee;
 
-(4)[^key-25c62707c1e12957b482c6e2036a7808] Sub-paragraph (5) applies in relation to pensions.
+(4)[^c-25c62707c1e12957b482c6e2036a7808] Sub-paragraph (5) applies in relation to pensions.
 
 (5) Where the GMCA pays a relevant allowance to a person—
 
@@ -383,12 +383,12 @@ from among its members and the appointments are to be the first business transac
 - (b) that allowance is to be treated as an amount in respect of which such a pension is payable in accordance with that scheme; and
 - (c) the GMCA must make such payments as may be required in respect of pension payable to a person in relation to that allowance.
 
-(6)[^key-7305ebefe79d1a6c789a3ddbfc5b7c28] In sub-paragraph (5), “a relevant allowance” means—
+(6)[^c-7305ebefe79d1a6c789a3ddbfc5b7c28] In sub-paragraph (5), “a relevant allowance” means—
 
 - (a) an allowance payable under sub-paragraph (2) to any person referred to in that sub-paragraph, which is not an allowance for travel and subsistence;
 - (b) an allowance payable in accordance with a scheme made under section 113E of the 2009 Act.
 
-### 4. Records[^key-e0e44d0f2424dbc1b9834385126de4db]
+### 4. Records[^c-e0e44d0f2424dbc1b9834385126de4db]
 
 (1) The GMCA must make arrangements for the names of members and substitute members present at any meeting to be recorded.
 
@@ -402,15 +402,15 @@ from among its members and the appointments are to be the first business transac
 
 (6) For the purposes of sub-paragraph (3) the next suitable meeting is the next following meeting or, where standing orders made by the GMCA provide for another meeting of the authority to be regarded as suitable, either the next following meeting or that other meeting.
 
-### 5. Standing Orders[^key-cf50262a54e2ca7986d76e139a51df96]
+### 5. Standing Orders[^c-cf50262a54e2ca7986d76e139a51df96]
 
 The GMCA may make standing orders for the regulation of its proceedings and business and may vary or revoke any such orders.
 
-### 5A. Overview and scrutiny committees[^key-b23e6da264c3d8231f37dbeb482e350c]
+### 5A. Overview and scrutiny committees[^c-b23e6da264c3d8231f37dbeb482e350c]
 
 The GMCA must ensure the appointment of an appropriate person (as defined by paragraph 3(5) of Schedule 5A to the 2009 Act) to be the chairman of any overview and scrutiny committee appointed by the GMCA or any sub-committee of such an overview and scrutiny committee.
 
-### 1. Remuneration[^key-9e086b9aee5ad99e9b4b11729e3874bc]
+### 1. Remuneration[^c-9e086b9aee5ad99e9b4b11729e3874bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -418,9 +418,9 @@ The GMCA must ensure the appointment of an appropriate person (as defined by par
 
 Article 7
 
-**1.**[^key-de0c6ee9810452ec4ff343e12d347a4a] Section 9 of the Transport Act 1968[^f00022] is amended as follows.
+**1.**[^c-de0c6ee9810452ec4ff343e12d347a4a] Section 9 of the Transport Act 1968[^f00022] is amended as follows.
 
-**2.**[^key-793d9387922d806dcd99e188af82fbe3] In subsection (1)(a)—
+**2.**[^c-793d9387922d806dcd99e188af82fbe3] In subsection (1)(a)—
 
 - (a) in subparagraph (i) after “metropolitan counties” there is inserted “except Greater Manchester”;
 - (b) the word “and” after subparagraph (i) is omitted; and
@@ -428,7 +428,7 @@ Article 7
 
   > - (ia) the metropolitan county of Greater Manchester shall be the area of a combined authority; and
 
-**3.**[^key-146f15f0d780985661f1a01d7b8c5ece] In subsection (1)(b)—
+**3.**[^c-146f15f0d780985661f1a01d7b8c5ece] In subsection (1)(b)—
 
 - (a) the word “and” after subparagraph (i) is omitted; and
 - (b) after subparagraph (i) there is inserted—
@@ -437,11 +437,11 @@ Article 7
 
   .
 
-**4.**[^key-f8bfa49e1fb3fb559471d531159f0d9f] In subsections (2) and (3) after “integrated transport area” there is in each case inserted “, the area of the Greater Manchester Combined Authority”.
+**4.**[^c-f8bfa49e1fb3fb559471d531159f0d9f] In subsections (2) and (3) after “integrated transport area” there is in each case inserted “, the area of the Greater Manchester Combined Authority”.
 
-**5.**[^key-165ba3fee0205aba54a951429f30286b] In subsection (5) after “integrated transport area” there is inserted “or the area of the Greater Manchester Combined Authority”.
+**5.**[^c-165ba3fee0205aba54a951429f30286b] In subsection (5) after “integrated transport area” there is inserted “or the area of the Greater Manchester Combined Authority”.
 
-**6.**[^key-6dbd1ba210601fbf268b58beabb0bf77] After subsection (5) there is inserted—
+**6.**[^c-6dbd1ba210601fbf268b58beabb0bf77] After subsection (5) there is inserted—
 
 > (5A) In this section “the Greater Manchester Combined Authority” means the body of that name constituted by the Greater Manchester Combined Authority Order 2011.
 
@@ -449,23 +449,23 @@ Article 7
 
 Article 10
 
-**1.**[^key-7ee52102fff2a35d1605ab8d85faf9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7ee52102fff2a35d1605ab8d85faf9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8aeab64a2cb81389a4239bbddb3bec66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8aeab64a2cb81389a4239bbddb3bec66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-65297e8e93dede9b8231517e67132568] The duties under section 82 of the Environment Act 1995[^f00024] (duty to cause a review to be conducted of quality for the time being, and the likely future quality within the relevant period, of air within the authority’s area and associated duties).
+**3.**[^c-65297e8e93dede9b8231517e67132568] The duties under section 82 of the Environment Act 1995[^f00024] (duty to cause a review to be conducted of quality for the time being, and the likely future quality within the relevant period, of air within the authority’s area and associated duties).
 
-**4.**[^key-687f98d09cef1af2995872f364b9972c] The duty under section 83 of the Environment Act 1995 (duty to designate air quality management areas).
+**4.**[^c-687f98d09cef1af2995872f364b9972c] The duty under section 83 of the Environment Act 1995 (duty to designate air quality management areas).
 
-**5.**[^key-babd90387d9697a75479a718f8b09955] The duties under section 84 of the Environment Act 1995 (duties in relation to designated area).
+**5.**[^c-babd90387d9697a75479a718f8b09955] The duties under section 84 of the Environment Act 1995 (duties in relation to designated area).
 
-**6.**[^key-7e9f038d9732c55f2fd2191b9a847dc4] The duties under sections [^key-a5cfed669a50119dc6b0be91af4a9e4f]... 17A and 18A(1)(b)[^key-69e9ea1f31f048008177a83fe5b4b21e] of the Education Act 1996 and the power under sections 514A and 560A of that Act[^f00025] (duties and powers related to the provision of education and training for persons over compulsory school age).
+**6.**[^c-7e9f038d9732c55f2fd2191b9a847dc4] The duties under sections [^c-a5cfed669a50119dc6b0be91af4a9e4f]... 17A and 18A(1)(b)[^c-69e9ea1f31f048008177a83fe5b4b21e] of the Education Act 1996 and the power under sections 514A and 560A of that Act[^f00025] (duties and powers related to the provision of education and training for persons over compulsory school age).
 
-**7.**[^key-48ae29124ce95ff7c21ce1e4e5b17d34] The power under section 2 of the Local Government Act 2000[^f00026] (promotion of well-being).
+**7.**[^c-48ae29124ce95ff7c21ce1e4e5b17d34] The power under section 2 of the Local Government Act 2000[^f00026] (promotion of well-being).
 
-**8.**[^key-9fcb917e7d378903bbf45dbb052d0e22] The duty under section 4(1) of the Local Government Act 2000 (duty to prepare a strategy for promoting or improving the economic, social and environmental well-being of their area and contributing to the achievement of sustainable development in the United Kingdom) and the power under section 4(2) of the Local Government Act 2000 (power to modify their sustainable communities strategy).
+**8.**[^c-9fcb917e7d378903bbf45dbb052d0e22] The duty under section 4(1) of the Local Government Act 2000 (duty to prepare a strategy for promoting or improving the economic, social and environmental well-being of their area and contributing to the achievement of sustainable development in the United Kingdom) and the power under section 4(2) of the Local Government Act 2000 (power to modify their sustainable communities strategy).
 
-**9.**[^key-92b79e4e2176a50adfdad56222aa44cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-92b79e4e2176a50adfdad56222aa44cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -499,31 +499,31 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00002]: Footnote: [2009 c.20](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-30b559bbc7d660627d812b36ca95af0e]: Commencement: Art. 1 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-30b559bbc7d660627d812b36ca95af0e]: Commencement: Art. 1 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-b85a7b630cbda562ff1261c479851107]: Commencement: Art. 2 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-b85a7b630cbda562ff1261c479851107]: Commencement: Art. 2 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-9179647e323ac852f0d04d24cc6d77ba]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/908/article/2) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(2)(a)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/2/a)
+[^c-9179647e323ac852f0d04d24cc6d77ba]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/908/article/2) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(2)(a)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/2/a)
 
-[^key-79b6d650fc19acf823b38cb8b61b19c8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/908/article/2) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(2)(b)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/2/b)
+[^c-79b6d650fc19acf823b38cb8b61b19c8]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/908/article/2) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(2)(b)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/2/b)
 
 [^f00003]: Footnote: This body was established as the Greater Manchester Passenger Transport Authority by section 28(1) of the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51). It was renamed by virtue of the Local Transport Act 2008, section 77(2) and paragraph 53 of Schedule 4 to that Act.
 
-[^key-ff254a40d582a75c28c0c790488fc735]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/908/article/2) inserted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(2)(c)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/2/c)
+[^c-ff254a40d582a75c28c0c790488fc735]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/908/article/2) inserted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(2)(c)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/2/c)
 
-[^key-5ecbce93426964dd3fd4493d79f5b4d1]: Commencement: Art. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-5ecbce93426964dd3fd4493d79f5b4d1]: Commencement: Art. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-6c2ebf31cf3eb59aa90725638cc5f206]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/908/article/3/3) inserted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/3)
+[^c-6c2ebf31cf3eb59aa90725638cc5f206]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/908/article/3/3) inserted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/3)
 
-[^key-619e8ea1a26ebb77299be9bb23cd7694]: Commencement: Art. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-619e8ea1a26ebb77299be9bb23cd7694]: Commencement: Art. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-3214e7237cfd96354b0b03d6aeb1ce07]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2011/908/article/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/2)
+[^c-3214e7237cfd96354b0b03d6aeb1ce07]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2011/908/article/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/2)
 
-[^key-8edf802c1c6c7658ea7cc99178f527d6]: Commencement: Art. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-8edf802c1c6c7658ea7cc99178f527d6]: Commencement: Art. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-b7a49adbf47e1e5cef6f8c4cb93f9115]: Commencement: Art. 7 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-b7a49adbf47e1e5cef6f8c4cb93f9115]: Commencement: Art. 7 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-e0bb84d2026cee8fa7864854924bf9e6]: Commencement: Art. 8 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-e0bb84d2026cee8fa7864854924bf9e6]: Commencement: Art. 8 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
 [^f00004]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 65 was amended by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42) section 153, by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22) Schedule 8, paragraph 48 and by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40) Schedule 4, paragraph 29.
 
@@ -539,7 +539,7 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00010]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 101 was amended by the Health and Social Services and Social Security Adjudications Act [1983 (c. 41)](https://www.legislation.gov.uk/ukpga/1983/41) Schedule 10; the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) Schedule 14, paragraph 15, Schedule 17; the Statute Law (Repeals) Act [1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12); the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42) Schedule 12; the Education Act [1993 (c. 35)](https://www.legislation.gov.uk/ukpga/1993/35) Schedules 19 and 21; the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19) Schedule 15, paragraph 26; the Police and Magistrates’ Courts Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29) Schedule 9; the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) Schedule 24; the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) section 332(1); the Licensing Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17) Schedule 6, paragraphs 56, 58; the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31) Schedule 5; the Local Government and Public Health Involvement Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), Schedule 13, paragraphs 1, 9; the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) section 224(1); the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20) Schedule 6, paragraphs 6, 10; the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) Schedule 22, Part 4; and by [S.I. 2001/1517](https://www.legislation.gov.uk/uksi/2001/1517), [2002/803](https://www.legislation.gov.uk/uksi/2002/803).
 
-[^key-d1f2aaee5e616265561995e10791c630]: Commencement: Art. 9 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-d1f2aaee5e616265561995e10791c630]: Commencement: Art. 9 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
 [^f00011]: Footnote: [S.I. 1969/95](https://www.legislation.gov.uk/uksi/1969/95), amended by [S.I. 1973/1727](https://www.legislation.gov.uk/uksi/1973/1727).
 
@@ -547,116 +547,116 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00013]: Footnote: [S.I. 2000/2851](https://www.legislation.gov.uk/uksi/2000/2851).
 
-[^key-dc20daf0d28643ec04638aa19ad7f79c]: Commencement: Art. 10 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-dc20daf0d28643ec04638aa19ad7f79c]: Commencement: Art. 10 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-28c6c3d57a33f230657687ea76d7e340]: Textual amendment: [Arts. 11-14](https://www.legislation.gov.uk/uksi/2011/908/article/11) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/3)
+[^c-28c6c3d57a33f230657687ea76d7e340]: Textual amendment: [Arts. 11-14](https://www.legislation.gov.uk/uksi/2011/908/article/11) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/3)
 
-[^key-32e4414d9492cd0ab1c4618150dcb123]: Commencement: Art. 15 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-32e4414d9492cd0ab1c4618150dcb123]: Commencement: Art. 15 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-791fbd7e6acb938d92b46816858a3008]: Commencement: Art. 16 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-791fbd7e6acb938d92b46816858a3008]: Commencement: Art. 16 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-620474a2b0ade37201f99b3ffddfcc5a]: Commencement: Art. 17 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-620474a2b0ade37201f99b3ffddfcc5a]: Commencement: Art. 17 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
 [^f00018]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 74 was amended by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 13, paragraph 72, the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), section 105(2), the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 305(a), the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), Schedule 1, paragraph 68(2), the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), Schedule 1, paragraph 16, the Local Democracy, Economic Development and Construction Act 2009, Schedule 6, paragraph 75 and by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825),
 
 [^f00019]: Footnote: [S.I. 1992/2789](https://www.legislation.gov.uk/uksi/1992/2789).
 
-[^key-798bf165df600eecb9593ee026488873]: Commencement: Sch. 1 para. 1 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-798bf165df600eecb9593ee026488873]: Commencement: Sch. 1 para. 1 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-4955b772fec0e15a8a49b9373892b3eb]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/1A) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(a)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/a)
+[^c-4955b772fec0e15a8a49b9373892b3eb]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/1A) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(a)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/a)
 
-[^key-571843d5de315132b9bc9cd99111b604]: Commencement: Sch. 1 para. 2 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-571843d5de315132b9bc9cd99111b604]: Commencement: Sch. 1 para. 2 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-8b5452a9e70fe9f3880bd196b47bdab9]: Textual amendment: [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/2/1) substituted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(b)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/b)
+[^c-8b5452a9e70fe9f3880bd196b47bdab9]: Textual amendment: [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/2/1) substituted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(b)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/b)
 
-[^key-b795520f8601dd1944be0f4ceb04d0c8]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/2A) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(c)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/c)
+[^c-b795520f8601dd1944be0f4ceb04d0c8]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/2A) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(c)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/c)
 
-[^key-1025b1f21528a367639bf7a0abef47ed]: Commencement: Sch. 1 para. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-1025b1f21528a367639bf7a0abef47ed]: Commencement: Sch. 1 para. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-550141a0f4cfee56b34e931136528e0c]: Textual amendment: [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/4/a)
+[^c-550141a0f4cfee56b34e931136528e0c]: Textual amendment: [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/4/a)
 
-[^key-a5a067a4a77522099c4475c8b4e71f05]: Textual amendment: [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/4/a)
+[^c-a5a067a4a77522099c4475c8b4e71f05]: Textual amendment: [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/4/a)
 
-[^key-4148c4759cb54dfcaf81c1b0fd93abfa]: Textual amendment: [Sch. 1 para. 3(2A)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2B) inserted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/d/ii)
+[^c-4148c4759cb54dfcaf81c1b0fd93abfa]: Textual amendment: [Sch. 1 para. 3(2A)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2B) inserted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/d/ii)
 
-[^key-cea69aed72ecaa1de12995895c3feb58]: Textual amendment: [Sch. 1 para. 3(2B)-(2D)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2B) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/4/b)
+[^c-cea69aed72ecaa1de12995895c3feb58]: Textual amendment: [Sch. 1 para. 3(2B)-(2D)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2B) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/4/b)
 
-[^key-c7eaa1b0e207a4a6bd7c5fa6f814faa2]: Textual amendment: [Sch. 1 para. 3(2F)-(5)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2F) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(4)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/4/c)
+[^c-c7eaa1b0e207a4a6bd7c5fa6f814faa2]: Textual amendment: [Sch. 1 para. 3(2F)-(5)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/2F) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(4)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/4/c)
 
-[^key-633dff3946990a9731b6614ff8a7e4dc]: Textual amendment: [Sch. 1 para. 3(6)-(9)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/6) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(d)(v)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/d/v)
+[^c-633dff3946990a9731b6614ff8a7e4dc]: Textual amendment: [Sch. 1 para. 3(6)-(9)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3/6) omitted (8.5.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/3), [17(4)(d)(v)](https://www.legislation.gov.uk/uksi/2016/1267/article/17/4/d/v)
 
-[^key-d9ecc13a9d0f63d9e0fd7dff61a57dab]: Textual amendment: [Sch. 1 paras. 3A-3C](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3A) inserted (27.4.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/612)](https://www.legislation.gov.uk/uksi/2017/612), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2017/612/article/16/3)
+[^c-d9ecc13a9d0f63d9e0fd7dff61a57dab]: Textual amendment: [Sch. 1 paras. 3A-3C](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3A) inserted (27.4.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/612)](https://www.legislation.gov.uk/uksi/2017/612), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2017/612/article/16/3)
 
-[^key-6e6ed41efb8e833af7d42baecd1e90f7]: Textual amendment: Word in [Sch. 1 para. 3B(1)(a)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3B/1/a) omitted (29.3.2018) by virtue of [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/444/article/3/3/a)
+[^c-6e6ed41efb8e833af7d42baecd1e90f7]: Textual amendment: Word in [Sch. 1 para. 3B(1)(a)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3B/1/a) omitted (29.3.2018) by virtue of [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/444/article/3/3/a)
 
-[^key-290386b5968d851f3637930bce6df731]: Textual amendment: [Sch. 1 para. 3B(1)(c)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3B/1/c) and word inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/444/article/3/3/b)
+[^c-290386b5968d851f3637930bce6df731]: Textual amendment: [Sch. 1 para. 3B(1)(c)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3B/1/c) and word inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/444/article/3/3/b)
 
-[^key-a8e144d7acfd6857ed069e3a3e9aaafb]: Textual amendment: Words in [Sch. 1 para. 3C](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C) heading inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/9/a)
+[^c-a8e144d7acfd6857ed069e3a3e9aaafb]: Textual amendment: Words in [Sch. 1 para. 3C](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C) heading inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/9/a)
 
-[^key-7cd458fdfd600cf8d7cf61dbc9b061d2]: Textual amendment: [Sch. 1 para. 3C(1)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/1) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/3/2/a)
+[^c-7cd458fdfd600cf8d7cf61dbc9b061d2]: Textual amendment: [Sch. 1 para. 3C(1)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/1) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/3/2/a)
 
-[^key-19ba5be6c07c4f6e3c2eb4ef0f777b5a]: Textual amendment: [Sch. 1 para. 3C(1A)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/1A) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/3/2/b)
+[^c-19ba5be6c07c4f6e3c2eb4ef0f777b5a]: Textual amendment: [Sch. 1 para. 3C(1A)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/1A) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/3/2/b)
 
-[^key-eaf79f529706dd0a7a6e810c255b043c]: Textual amendment: Words in [Sch. 1 para. 3C(2)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/2) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2018/444/article/3/4/c)
+[^c-eaf79f529706dd0a7a6e810c255b043c]: Textual amendment: Words in [Sch. 1 para. 3C(2)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/2) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2018/444/article/3/4/c)
 
-[^key-5fb7873f43e9d8f1b8b39482fb2003e7]: Textual amendment: Words in [Sch. 1 para. 3C(2)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/2) inserted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [19(b)](https://www.legislation.gov.uk/uksi/2024/430/regulation/19/b)
+[^c-5fb7873f43e9d8f1b8b39482fb2003e7]: Textual amendment: Words in [Sch. 1 para. 3C(2)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/2) inserted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [19(b)](https://www.legislation.gov.uk/uksi/2024/430/regulation/19/b)
 
-[^key-89d64a42c5e2662253072721b04b7b4f]: Textual amendment: Words in [Sch. 1 para. 3C(2)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/2) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2026/719/article/3/2/c)
+[^c-89d64a42c5e2662253072721b04b7b4f]: Textual amendment: Words in [Sch. 1 para. 3C(2)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/2) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2026/719/article/3/2/c)
 
-[^key-7ad2cc2c454d7917d3cb0a20799cbd21]: Textual amendment: Words in [Sch. 1 para. 3C(3)(a)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/3/a) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [3(4)(d)](https://www.legislation.gov.uk/uksi/2018/444/article/3/4/d)
+[^c-7ad2cc2c454d7917d3cb0a20799cbd21]: Textual amendment: Words in [Sch. 1 para. 3C(3)(a)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/3/a) inserted (29.3.2018) by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [3(4)(d)](https://www.legislation.gov.uk/uksi/2018/444/article/3/4/d)
 
-[^key-9389557ed826cb97f44e56f028fbed90]: Textual amendment: [Sch. 1 para. 3C(3)(b)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/3/b) substituted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [19(c)](https://www.legislation.gov.uk/uksi/2024/430/regulation/19/c)
+[^c-9389557ed826cb97f44e56f028fbed90]: Textual amendment: [Sch. 1 para. 3C(3)(b)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/3/b) substituted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [19(c)](https://www.legislation.gov.uk/uksi/2024/430/regulation/19/c)
 
-[^key-25c62707c1e12957b482c6e2036a7808]: Textual amendment: [Sch. 1 para. 3C(4)-(6)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/4) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2026/346/regulation/9/c)
+[^c-25c62707c1e12957b482c6e2036a7808]: Textual amendment: [Sch. 1 para. 3C(4)-(6)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/4) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2026/346/regulation/9/c)
 
-[^key-7305ebefe79d1a6c789a3ddbfc5b7c28]: Textual amendment: [Sch. 1 para. 3C(6)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/6) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2026/719/article/3/2/d)
+[^c-7305ebefe79d1a6c789a3ddbfc5b7c28]: Textual amendment: [Sch. 1 para. 3C(6)](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/3C/6) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2026/719/article/3/2/d)
 
-[^key-e0e44d0f2424dbc1b9834385126de4db]: Commencement: Sch. 1 para. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-e0e44d0f2424dbc1b9834385126de4db]: Commencement: Sch. 1 para. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-cf50262a54e2ca7986d76e139a51df96]: Commencement: Sch. 1 para. 5 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-cf50262a54e2ca7986d76e139a51df96]: Commencement: Sch. 1 para. 5 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-b23e6da264c3d8231f37dbeb482e350c]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/5A) inserted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/612)](https://www.legislation.gov.uk/uksi/2017/612), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3), [16(4)](https://www.legislation.gov.uk/uksi/2017/612/article/16/4)
+[^c-b23e6da264c3d8231f37dbeb482e350c]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/uksi/2011/908/schedule/1/paragraph/5A) inserted (8.5.2017) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/612)](https://www.legislation.gov.uk/uksi/2017/612), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/612/article/1/3), [16(4)](https://www.legislation.gov.uk/uksi/2017/612/article/16/4)
 
-[^key-9e086b9aee5ad99e9b4b11729e3874bc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/908/schedule/1): "paragraph 6" omitted (27.4.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/612)](https://www.legislation.gov.uk/uksi/2017/612), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2017/612/article/16/5)
+[^c-9e086b9aee5ad99e9b4b11729e3874bc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/908/schedule/1): "paragraph 6" omitted (27.4.2017) by virtue of [The Greater Manchester Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/612)](https://www.legislation.gov.uk/uksi/2017/612), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/612/article/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2017/612/article/16/5)
 
-[^key-de0c6ee9810452ec4ff343e12d347a4a]: Commencement: Sch. 2 para. 1 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-de0c6ee9810452ec4ff343e12d347a4a]: Commencement: Sch. 2 para. 1 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
 [^f00022]: Footnote: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73); section 9 was amended by the Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65) Schedule 18, paragraph 1; by the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) sections 57(1), 58(2), Schedule 3, paragraph 3, Schedule 8; by the Local Government (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39) Schedule 13, paragraph 80(2); and in relation to England and Wales only by the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26) section 98(4), Schedule 4, paragraph 2 and Schedule 7, Part 4.
 
-[^key-793d9387922d806dcd99e188af82fbe3]: Commencement: Sch. 2 para. 2 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-793d9387922d806dcd99e188af82fbe3]: Commencement: Sch. 2 para. 2 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-146f15f0d780985661f1a01d7b8c5ece]: Commencement: Sch. 2 para. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-146f15f0d780985661f1a01d7b8c5ece]: Commencement: Sch. 2 para. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-f8bfa49e1fb3fb559471d531159f0d9f]: Commencement: Sch. 2 para. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-f8bfa49e1fb3fb559471d531159f0d9f]: Commencement: Sch. 2 para. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-165ba3fee0205aba54a951429f30286b]: Commencement: Sch. 2 para. 5 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-165ba3fee0205aba54a951429f30286b]: Commencement: Sch. 2 para. 5 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-6dbd1ba210601fbf268b58beabb0bf77]: Commencement: Sch. 2 para. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-6dbd1ba210601fbf268b58beabb0bf77]: Commencement: Sch. 2 para. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-7ee52102fff2a35d1605ab8d85faf9f8]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/a)
+[^c-7ee52102fff2a35d1605ab8d85faf9f8]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/a)
 
-[^key-8aeab64a2cb81389a4239bbddb3bec66]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/a)
+[^c-8aeab64a2cb81389a4239bbddb3bec66]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/a)
 
-[^key-65297e8e93dede9b8231517e67132568]: Commencement: Sch. 3 para. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-65297e8e93dede9b8231517e67132568]: Commencement: Sch. 3 para. 3 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
 [^f00024]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-687f98d09cef1af2995872f364b9972c]: Commencement: Sch. 3 para. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-687f98d09cef1af2995872f364b9972c]: Commencement: Sch. 3 para. 4 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-babd90387d9697a75479a718f8b09955]: Commencement: Sch. 3 para. 5 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-babd90387d9697a75479a718f8b09955]: Commencement: Sch. 3 para. 5 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-7e9f038d9732c55f2fd2191b9a847dc4]: Commencement: Sch. 3 para. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-7e9f038d9732c55f2fd2191b9a847dc4]: Commencement: Sch. 3 para. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-a5cfed669a50119dc6b0be91af4a9e4f]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/6) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(b)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/b/i)
+[^c-a5cfed669a50119dc6b0be91af4a9e4f]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/6) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(b)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/b/i)
 
-[^key-69e9ea1f31f048008177a83fe5b4b21e]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/6) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/b/ii)
+[^c-69e9ea1f31f048008177a83fe5b4b21e]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/6) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/b/ii)
 
 [^f00025]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Sections 15ZA, 15ZB, 15ZC were inserted by section 41 of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), sections 17A and 18A(1)(b) by section 45 of that Act (not yet commenced), section 514A by section 46 of that Act and section 560A by section 47 of that Act.
 
-[^key-48ae29124ce95ff7c21ce1e4e5b17d34]: Commencement: Sch. 3 para. 7 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-48ae29124ce95ff7c21ce1e4e5b17d34]: Commencement: Sch. 3 para. 7 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
 [^f00026]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22), to which there are amendments not relevant to this Order.
 
-[^key-9fcb917e7d378903bbf45dbb052d0e22]: Commencement: Sch. 3 para. 8 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
+[^c-9fcb917e7d378903bbf45dbb052d0e22]: Commencement: Sch. 3 para. 8 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1)
 
-[^key-92b79e4e2176a50adfdad56222aa44cf]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/9) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/c)
+[^c-92b79e4e2176a50adfdad56222aa44cf]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/9) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [9(5)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/9/5/c)

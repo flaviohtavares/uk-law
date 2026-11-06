@@ -77,8 +77,8 @@ In regulation 2(1) (interpretation)—
 - (c) in the definition of “initial CPC”, after “qualification)” insert “reading that Article as if the references to Member States, and Member States' competent authorities, are also references to the competent authority”;
 - (d) in the definition of “initial CPC test”, after “Directive” insert “reading that Article as if the reference to a Member State is also a reference to the competent authority”;
 - (e) in the definition of “periodic CPC”, after “training)” insert “reading that Article as if references to Member States and Member States' competent authorities are also references to the competent authority”;
-- (f) in the definition of “periodic training”, after “Directive” insert “reading that Article as if the requirement placed on Member States is also a requirement placed on the competent authority”; [^key-5531d488f11d97cd3be892a53495f0ab]...
-- (fa)[^key-fe033db772c58114de9f4a6b8520c593] in the definition of “periodic training course”, after “Directive” insert “as if references to Member States in that Section were also references to the competent authority”; and
+- (f) in the definition of “periodic training”, after “Directive” insert “reading that Article as if the requirement placed on Member States is also a requirement placed on the competent authority”; [^c-5531d488f11d97cd3be892a53495f0ab]...
+- (fa)[^c-fe033db772c58114de9f4a6b8520c593] in the definition of “periodic training course”, after “Directive” insert “as if references to Member States in that Section were also references to the competent authority”; and
 - (g) in the definition of “third country”, at the end insert “or the United Kingdom”.
 
 ## 4.[^c23406001]
@@ -133,7 +133,7 @@ In regulation 9(4) (time limits for obtaining a CPC), in sub-paragraph (a) omit 
 
 In regulation 11(2) (requirement to carry and produce evidence of CPC or of training exemption in vehicle)—
 
-- (a)[^key-61c1af82dd1219a7b09464c3c175404c] in sub-paragraph (c), omit “other than the United Kingdom”; and
+- (a)[^c-61c1af82dd1219a7b09464c3c175404c] in sub-paragraph (c), omit “other than the United Kingdom”; and
 - (b) in sub-paragraph (d), omit “other than the United Kingdom”.
 
 Signed by authority of the Secretary of State for Transport
@@ -166,9 +166,9 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^c23405991]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5531d488f11d97cd3be892a53495f0ab]: Textual amendment: Word in [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/1004/regulation/3/f) omitted (22.7.2020) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/662/regulation/3/2/a/i)
+[^c-5531d488f11d97cd3be892a53495f0ab]: Textual amendment: Word in [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/1004/regulation/3/f) omitted (22.7.2020) by virtue of [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/662/regulation/3/2/a/i)
 
-[^key-fe033db772c58114de9f4a6b8520c593]: Textual amendment: [Reg. 3(fa)](https://www.legislation.gov.uk/uksi/2018/1004/regulation/3/fa) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/662/regulation/3/2/a/ii)
+[^c-fe033db772c58114de9f4a6b8520c593]: Textual amendment: [Reg. 3(fa)](https://www.legislation.gov.uk/uksi/2018/1004/regulation/3/fa) inserted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/662/regulation/3/2/a/ii)
 
 [^c23406001]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1004/regulation/4) in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
@@ -186,4 +186,4 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^c23406091]: Commencement: Reg. 11 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-61c1af82dd1219a7b09464c3c175404c]: Textual amendment: [Reg. 11(a)](https://www.legislation.gov.uk/uksi/2018/1004/regulation/11/a) substituted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/662/regulation/3/2/b)
+[^c-61c1af82dd1219a7b09464c3c175404c]: Textual amendment: [Reg. 11(a)](https://www.legislation.gov.uk/uksi/2018/1004/regulation/11/a) substituted (22.7.2020) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2020 (S.I. 2020/662)](https://www.legislation.gov.uk/uksi/2020/662), [regs. 1](https://www.legislation.gov.uk/uksi/2020/662/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/662/regulation/3/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 573. Assets of UNITA or persons connected with UNITA: definition of “investments”[^key-b51449f95d3ac0544a06408b0ffbe026]
+## 573. Assets of UNITA or persons connected with UNITA: definition of “investments”[^c-b51449f95d3ac0544a06408b0ffbe026]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In paragraph (4) of article 7 of the Angola (United Nations Sanctions) (Isle of 
 
 ## Annotations
 
-[^key-b51449f95d3ac0544a06408b0ffbe026]: Commencement: Art. 573 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b51449f95d3ac0544a06408b0ffbe026]: Commencement: Art. 573 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

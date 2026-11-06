@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23Q. Mismanagement by regional boards[^key-0940694e7116a5c887eff39441542000]
+## 23Q. Mismanagement by regional boards[^c-0940694e7116a5c887eff39441542000]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0940694e7116a5c887eff39441542000]: Textual amendment: S. 23Q inserted (1.5.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 12](https://www.legislation.gov.uk/asp/2013/12/section/12), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-0940694e7116a5c887eff39441542000]: Textual amendment: S. 23Q inserted (1.5.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 12](https://www.legislation.gov.uk/asp/2013/12/section/12), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)

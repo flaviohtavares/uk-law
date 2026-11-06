@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Financial oversight[^key-6b0c6f191d4b201a77a3057c25b31bdb][^key-017a70ada56469e9e673d044b409b150]
+## 16. Financial oversight[^c-6b0c6f191d4b201a77a3057c25b31bdb][^c-017a70ada56469e9e673d044b409b150]
 
 *Extent: E+W*
 
@@ -200,6 +200,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b0c6f191d4b201a77a3057c25b31bdb]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-6b0c6f191d4b201a77a3057c25b31bdb]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
 
-[^key-017a70ada56469e9e673d044b409b150]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2026/21/section/16) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/e)
+[^c-017a70ada56469e9e673d044b409b150]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2026/21/section/16) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/e)

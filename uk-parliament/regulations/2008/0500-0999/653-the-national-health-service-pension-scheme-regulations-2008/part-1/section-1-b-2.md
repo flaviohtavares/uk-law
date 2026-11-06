@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.B.2. Cost Sharing[^key-bed64f967daf4538fe76b21282bef547]
+## 1.B.2. Cost Sharing[^c-bed64f967daf4538fe76b21282bef547]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bed64f967daf4538fe76b21282bef547]: Textual amendment: [Reg. 1.B.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/1.B.2) omitted (1.4.2013) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2013/413/regulation/24)
+[^c-bed64f967daf4538fe76b21282bef547]: Textual amendment: [Reg. 1.B.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/1.B.2) omitted (1.4.2013) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2013/413/regulation/24)

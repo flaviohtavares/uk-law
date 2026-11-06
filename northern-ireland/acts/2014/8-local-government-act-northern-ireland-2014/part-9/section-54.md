@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Guidance[^key-71143e41ecac737c70961a98d2cebe70]
+## 54. Guidance[^c-71143e41ecac737c70961a98d2cebe70]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The Commissioner may—
 
 ## Annotations
 
-[^key-71143e41ecac737c70961a98d2cebe70]: Commencement: S. 54 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-71143e41ecac737c70961a98d2cebe70]: Commencement: S. 54 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

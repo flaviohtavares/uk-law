@@ -28,7 +28,7 @@ Provided that the assay office and the manufacturer or sponsor of an article may
 
 (3)
 
-- (a) Any sponsor’s mark which is registered under this section shall [^key-f76ebc4e5b1bf78a5bd631864e6bcfd2]... be of such design as may be approved by an assay office:
+- (a) Any sponsor’s mark which is registered under this section shall [^c-f76ebc4e5b1bf78a5bd631864e6bcfd2]... be of such design as may be approved by an assay office:
 
 Provided that nothing in this paragraph shall apply to the registration on or before 31st December 1975 by a manufacturer or sponsor (or to the renewal from time to time thereafter of that registration) of the same mark as until that date has been authorised for use by him in terms of subsection (2) of this section.
 
@@ -46,4 +46,4 @@ Provided that nothing in this paragraph shall apply to the registration on or be
 
 ## Annotations
 
-[^key-f76ebc4e5b1bf78a5bd631864e6bcfd2]: Textual amendment: Words in s. 3(3)(a) omitted (8.2.2013) by virtue of [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [4](https://www.legislation.gov.uk/uksi/2013/251/article/4)
+[^c-f76ebc4e5b1bf78a5bd631864e6bcfd2]: Textual amendment: Words in s. 3(3)(a) omitted (8.2.2013) by virtue of [The Legislative Reform (Hallmarking) Order 2013 (S.I. 2013/251)](https://www.legislation.gov.uk/uksi/2013/251), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/251/article/1/2), [4](https://www.legislation.gov.uk/uksi/2013/251/article/4)

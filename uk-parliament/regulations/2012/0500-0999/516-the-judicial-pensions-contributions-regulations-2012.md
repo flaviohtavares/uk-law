@@ -46,11 +46,11 @@ Coming into force
 
 The Lord Chancellor, and in relation to any judicial office whose jurisdiction is exercised exclusively in Scotland, the Secretary of State, in exercise of the powers conferred by sections 8A(1), (6) and (7) of the District Judges (Magistrates’ Courts) Pensions Act (Northern Ireland) 1960[^f00001], and sections 33ZA(1), (6) and (7) of the Judicial Pensions Act 1981[^f00002], and sections 9A(1) and 29 of the Judicial Pensions and Retirement Act 1993[^f00003], and with the concurrence of the Treasury, make the following Regulations:
 
-## 1. Citation and commencement[^key-e5db292ce71fb64bbdf39437158387f2]
+## 1. Citation and commencement[^c-e5db292ce71fb64bbdf39437158387f2]
 
 These Regulations may be cited as the Judicial Pensions (Contributions) Regulations 2012 and shall come into force on 1st April 2012.
 
-## 2. Interpretation[^key-b546df8ea9d65e9bba16893c29fdc523]
+## 2. Interpretation[^c-b546df8ea9d65e9bba16893c29fdc523]
 
 In these Regulations—
 
@@ -58,7 +58,7 @@ In these Regulations—
 - “the 1981 Act” means the Judicial Pensions Act 1981;
 - “the 1993 Act” means the Judicial Pensions and Retirement Act 1993.
 
-## 3. Rate of contributions[^key-9eb76d6b3c89d85ab840f44c82697937]
+## 3. Rate of contributions[^c-9eb76d6b3c89d85ab840f44c82697937]
 
 (1) Contributions under—
 
@@ -77,15 +77,15 @@ must be made as follows.
 
 for the time being as it becomes due.
 
-## 4. Periods for which no contributions are due[^key-b91ab61cdb7cf8c061da93095c24612e]
+## 4. Periods for which no contributions are due[^c-b91ab61cdb7cf8c061da93095c24612e]
 
 No contribution shall be made by a person in respect of any period of service where no salary is paid to him or her.
 
-## 5. Amendments to the Judicial Pensions (Additional Voluntary Contributions) Regulations 1995[^key-7d94c7109c47717a999d4ebb9cd31055]
+## 5. Amendments to the Judicial Pensions (Additional Voluntary Contributions) Regulations 1995[^c-7d94c7109c47717a999d4ebb9cd31055]
 
 Regulation 2.15 of the Judicial Pensions (Additional Voluntary Contributions) Regulations 1995[^f00004] shall be amended as follows.
 
-## 6.[^key-cb54c12aea17d7b219ed5dd607f6e29c]
+## 6.[^c-cb54c12aea17d7b219ed5dd607f6e29c]
 
 After paragraph (3) insert—
 
@@ -133,16 +133,16 @@ Regulation 6 amends the Judicial Pensions (Additional Voluntary Contributions) R
 
 [^f00003]: Footnote: [1993 c.8](https://www.legislation.gov.uk/ukpga/1993/8); amended by the Pensions Act [2011 (c.19)](https://www.legislation.gov.uk/ukpga/2011/19), section 34(1).
 
-[^key-e5db292ce71fb64bbdf39437158387f2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)
+[^c-e5db292ce71fb64bbdf39437158387f2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)
 
-[^key-b546df8ea9d65e9bba16893c29fdc523]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/516/regulation/2) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)
+[^c-b546df8ea9d65e9bba16893c29fdc523]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/516/regulation/2) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)
 
-[^key-9eb76d6b3c89d85ab840f44c82697937]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/516/regulation/3) substituted (5.2.2016) by [The Judicial Pensions (Contributions) (Amendment) Regulations 2016 (S.I. 2016/30)](https://www.legislation.gov.uk/uksi/2016/30), [regs. 1](https://www.legislation.gov.uk/uksi/2016/30/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/30/regulation/2/2)
+[^c-9eb76d6b3c89d85ab840f44c82697937]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/516/regulation/3) substituted (5.2.2016) by [The Judicial Pensions (Contributions) (Amendment) Regulations 2016 (S.I. 2016/30)](https://www.legislation.gov.uk/uksi/2016/30), [regs. 1](https://www.legislation.gov.uk/uksi/2016/30/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/30/regulation/2/2)
 
-[^key-b91ab61cdb7cf8c061da93095c24612e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/516/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)
+[^c-b91ab61cdb7cf8c061da93095c24612e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/516/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)
 
-[^key-7d94c7109c47717a999d4ebb9cd31055]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/516/regulation/5) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)
+[^c-7d94c7109c47717a999d4ebb9cd31055]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/516/regulation/5) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1995/639](https://www.legislation.gov.uk/uksi/1995/639) amended by [S.I. 2006/747](https://www.legislation.gov.uk/uksi/2006/747).
 
-[^key-cb54c12aea17d7b219ed5dd607f6e29c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/516/regulation/6) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)
+[^c-cb54c12aea17d7b219ed5dd607f6e29c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/516/regulation/6) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/516/regulation/1)

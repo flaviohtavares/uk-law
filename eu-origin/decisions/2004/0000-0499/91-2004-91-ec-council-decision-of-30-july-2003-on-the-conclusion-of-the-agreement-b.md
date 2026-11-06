@@ -31,10 +31,10 @@ summary: ''
 
 of 30 July 2003 on the conclusion of the agreement between the European Community and Canada on trade in wines and spirit drinks (revoked)
 
-[^key-b3b7331a7456fbecaca05202355a27d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3b7331a7456fbecaca05202355a27d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-b3b7331a7456fbecaca05202355a27d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-b3b7331a7456fbecaca05202355a27d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3b7331a7456fbecaca05202355a27d2]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3b7331a7456fbecaca05202355a27d2]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26A (Extent: E) (affected by repeal, see note). Discharge of suspension functions by chairman or deputy chairman (Extent: E) (affected by repeal, see note)[^key-e11fc4dca5e8b648fb379c8883c40c00][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
+## 26A (Extent: E) (affected by repeal, see note). Discharge of suspension functions by chairman or deputy chairman (Extent: E) (affected by repeal, see note)[^c-e11fc4dca5e8b648fb379c8883c40c00][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The functions of the Tribunal under section 49A or 49B of the Act may be carried
 
 ## Annotations
 
-[^key-e11fc4dca5e8b648fb379c8883c40c00]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/1992/664/regulation/26A) inserted (21.12.1995) by [The National Health Service (Service Committees and Tribunal) Amendment Regulations 1995 (S.I. 1995/3091)](https://www.legislation.gov.uk/uksi/1995/3091), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/1995/3091/regulation/9) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/15/2))
+[^c-e11fc4dca5e8b648fb379c8883c40c00]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/1992/664/regulation/26A) inserted (21.12.1995) by [The National Health Service (Service Committees and Tribunal) Amendment Regulations 1995 (S.I. 1995/3091)](https://www.legislation.gov.uk/uksi/1995/3091), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/1995/3091/regulation/9) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/1995/3091/regulation/15/2))
 
 [^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]: Textual amendment: Regulations revoked (E.) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/1/a)

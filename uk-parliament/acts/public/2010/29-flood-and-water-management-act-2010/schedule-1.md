@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — Risk Management: Designation of Features[^M_C_28470735-959f-47f2-8c03-204a0c6e0671][^key-5f7219ef6db31bc8ed9894c37a21e8bc]
+## SCHEDULE 1 — Risk Management: Designation of Features[^M_C_28470735-959f-47f2-8c03-204a0c6e0671][^c-5f7219ef6db31bc8ed9894c37a21e8bc]
 
 *Extent: E+W*
 
@@ -24,17 +24,17 @@ Section 30
 
 ### “Designating authority”
 
-**1.**[^key-864d55d6a7d7d1c7b88e62048cf881d8] In this Schedule “**designating authority**” means—
+**1.**[^c-864d55d6a7d7d1c7b88e62048cf881d8] In this Schedule “**designating authority**” means—
 
 - (a) the Environment Agency,
-- (aa)[^key-7ac231195e1c674cc6679d4bf22df2b3] the Natural Resources Body for Wales,
+- (aa)[^c-7ac231195e1c674cc6679d4bf22df2b3] the Natural Resources Body for Wales,
 - (b) a lead local flood authority,
 - (c) a district council (whether or not it is a lead local flood authority), and
 - (d) an internal drainage board.
 
 ### “Responsible authority”
 
-**2.**[^key-d321452aba2035b63a8fc8f30fce660b] (1) The responsible authority in relation to a structure or feature designated under this Schedule is the authority which made the designation, unless sub-paragraph (2) applies.
+**2.**[^c-d321452aba2035b63a8fc8f30fce660b] (1) The responsible authority in relation to a structure or feature designated under this Schedule is the authority which made the designation, unless sub-paragraph (2) applies.
 
 (2) If an authority has adopted a designation in accordance with sub-paragraph (3), the responsible authority in relation to the designated structure or feature is the adopting authority.
 
@@ -48,14 +48,14 @@ Section 30
 
 ### “Owner”
 
-**3.**[^key-e0a4aa1755906a7d7a36f869588551fc] In this Schedule “**owner**” in relation to anything which is or may be designated means—
+**3.**[^c-e0a4aa1755906a7d7a36f869588551fc] In this Schedule “**owner**” in relation to anything which is or may be designated means—
 
 - (a) the owner of the land on or in which the structure or feature is situated, or
 - (b) if different, the person responsible for managing or controlling the structure or feature.
 
 ### Designation
 
-**4.**[^key-fe84d28dfada12bfc1c2984cf117dd68] (1) If the following conditions are satisfied, a designating authority may designate for the purposes of this Schedule—
+**4.**[^c-fe84d28dfada12bfc1c2984cf117dd68] (1) If the following conditions are satisfied, a designating authority may designate for the purposes of this Schedule—
 
 - (a) a structure, or
 - (b) a natural or man-made feature of the environment.
@@ -73,13 +73,13 @@ Section 30
 
 ### Effect of designation
 
-**5.**[^key-db831ba4cc3b44167f24dcda864f0f56][^key-36107a85f27fb117f932520f75153535][^key-bb857d521bbff1f1ba3daad11e4e55de][^key-0c14792f4ddada79c188793d4a1b6506][^key-9e91b41164f3ec0e18a17d7b4e188191][^key-e664746a787234937c367f9cba2f4bd2][^key-678d9aa2d04b03565b09b234602de42d] (1) A person may not alter, remove or replace a designated structure or feature without the consent of the responsible authority.
+**5.**[^c-db831ba4cc3b44167f24dcda864f0f56][^c-36107a85f27fb117f932520f75153535][^c-bb857d521bbff1f1ba3daad11e4e55de][^c-0c14792f4ddada79c188793d4a1b6506][^c-9e91b41164f3ec0e18a17d7b4e188191][^c-e664746a787234937c367f9cba2f4bd2][^c-678d9aa2d04b03565b09b234602de42d] (1) A person may not alter, remove or replace a designated structure or feature without the consent of the responsible authority.
 
 (2) A designation is a local land charge.
 
 ### Consent to alteration, removal or replacement
 
-**6.**[^key-71e2dc4fabcbe31b478cc8183a750b74] (1) The responsible authority may by notice given to the owner—
+**6.**[^c-71e2dc4fabcbe31b478cc8183a750b74] (1) The responsible authority may by notice given to the owner—
 
 - (a) consent to specified alterations, or alterations of a specified kind, to a designated structure or feature;
 - (b) vary or withdraw consent under paragraph (a) (but not retrospectively).
@@ -96,7 +96,7 @@ Section 30
 - (a) general or specific;
 - (b) absolute or conditional.
 
-(4A)[^key-2b678d8bece5d607f151ab85dd743b19] Before exercising a function under this paragraph in relation to an alteration, removal or replacement which may affect a flood or coastal erosion risk in Wales, the Environment Agency must consult the Natural Resources Body for Wales.
+(4A)[^c-2b678d8bece5d607f151ab85dd743b19] Before exercising a function under this paragraph in relation to an alteration, removal or replacement which may affect a flood or coastal erosion risk in Wales, the Environment Agency must consult the Natural Resources Body for Wales.
 
 (4B) Before exercising a function under this paragraph in relation to an alteration, removal or replacement which may affect a flood or coastal erosion risk in England, the Natural Resources Body for Wales must consult the Environment Agency.
 
@@ -104,7 +104,7 @@ Section 30
 
 ### Provisional designation notice: procedure
 
-**7.**[^key-9ec71236a15b028530e8d63ea3b3520b] (1) A designating authority may make a provisional designation by giving notice to the owner.
+**7.**[^c-9ec71236a15b028530e8d63ea3b3520b] (1) A designating authority may make a provisional designation by giving notice to the owner.
 
 (2) The notice must specify—
 
@@ -122,7 +122,7 @@ Section 30
 
 ### Designation notice: procedure
 
-**8.**[^key-a58940934048b66d3967b01e667ff5f5] (1) A designating authority may make a designation by giving notice confirming a provisional designation to the owner.
+**8.**[^c-a58940934048b66d3967b01e667ff5f5] (1) A designating authority may make a designation by giving notice confirming a provisional designation to the owner.
 
 (2) In deciding whether to confirm a provisional designation the authority must have regard to any representations made in accordance with paragraph 7.
 
@@ -141,7 +141,7 @@ Section 30
 
 ### Cancellation
 
-**9.**[^key-ad693ad89d39c9c514802e7209e8a996] (1) The responsible authority may cancel a designation by giving notice to that effect to the owner.
+**9.**[^c-ad693ad89d39c9c514802e7209e8a996] (1) The responsible authority may cancel a designation by giving notice to that effect to the owner.
 
 (2) The authority may give notice under sub-paragraph (1)—
 
@@ -156,7 +156,7 @@ Section 30
 
 ### Notice to other authorities
 
-**10.**[^key-81901217fc51ca3f0a4329d9bfda4c1a] (1) This paragraph applies where an authority—
+**10.**[^c-81901217fc51ca3f0a4329d9bfda4c1a] (1) This paragraph applies where an authority—
 
 - (a) makes a designation, or
 - (b) cancels a designation.
@@ -165,7 +165,7 @@ Section 30
 
 ### Enforcement notice
 
-**11.**[^key-1af2026bbb69b605d4f926b2d7cd50e9] (1) If a person contravenes paragraph 5(1) the responsible authority may give an enforcement notice.
+**11.**[^c-1af2026bbb69b605d4f926b2d7cd50e9] (1) If a person contravenes paragraph 5(1) the responsible authority may give an enforcement notice.
 
 (2) The notice may be given to—
 
@@ -183,7 +183,7 @@ Section 30
 
 ### Emergency powers
 
-**12.**[^key-239a0f9841bebfb01261df72fd98d161] (1) This paragraph applies if—
+**12.**[^c-239a0f9841bebfb01261df72fd98d161] (1) This paragraph applies if—
 
 - (a) a person has contravened paragraph 5(1), and
 - (b) the responsible authority thinks the contravention may immediately and materially increase or alter a flood risk or coastal erosion risk.
@@ -196,7 +196,7 @@ Section 30
 
 ### Powers of entry
 
-**13.**[^key-55aff43fc30c99945b3e2e62c1b78f47] (1) A person authorised by the responsible authority may at any reasonable time enter land—
+**13.**[^c-55aff43fc30c99945b3e2e62c1b78f47] (1) A person authorised by the responsible authority may at any reasonable time enter land—
 
 - (a) to determine whether a person has contravened paragraph 5(1),
 - (b) to determine whether a person has complied with an enforcement notice,
@@ -221,7 +221,7 @@ Section 30
 
 ### Compensation for owners and third parties
 
-**14.**[^key-26f798e2f2caeedd94093c561ca9a5f3] (1) The relevant authority must pay compensation if, as a result of the exercise of the powers conferred by paragraph 13, a person (P)—
+**14.**[^c-26f798e2f2caeedd94093c561ca9a5f3] (1) The relevant authority must pay compensation if, as a result of the exercise of the powers conferred by paragraph 13, a person (P)—
 
 - (a) incurs loss as a result of anything done on P's land, or
 - (b) is disturbed in the enjoyment of P's land.
@@ -246,7 +246,7 @@ Section 30
 
 ### Appeals
 
-**15.**[^key-f82cd4b227acf882aacb094548cc3ace][^key-0e97025d2e0a7d5bdfc76e2fcc5f6b1c] (1) The Minister must by regulations provide a right of appeal against—
+**15.**[^c-f82cd4b227acf882aacb094548cc3ace][^c-0e97025d2e0a7d5bdfc76e2fcc5f6b1c] (1) The Minister must by regulations provide a right of appeal against—
 
 - (a) designations,
 - (b) a decision in connection with consent on an application under paragraph 6,
@@ -275,7 +275,7 @@ Section 30
 
 ### Notices and applications
 
-**16.**[^key-45e589cdab59847a2e4dc30490f6e714][^key-598093e4acbef114a74cf231824fdeae] The Minister may by regulations make provision about—
+**16.**[^c-45e589cdab59847a2e4dc30490f6e714][^c-598093e4acbef114a74cf231824fdeae] The Minister may by regulations make provision about—
 
 - (a) the form, content and method of service of a notice under this Schedule,
 - (b) the form and content of an application under this Schedule, and
@@ -283,7 +283,7 @@ Section 30
 
 ### “The Minister”
 
-**17.**[^key-50f916aa6595e9b8c917bcc9fde5c014] (1) This paragraph defines “the Minister” in this Schedule.
+**17.**[^c-50f916aa6595e9b8c917bcc9fde5c014] (1) This paragraph defines “the Minister” in this Schedule.
 
 (2) In relation to designations of structures or features in England, “**the Minister**” means the Secretary of State.
 
@@ -293,58 +293,58 @@ Section 30
 
 [^M_C_28470735-959f-47f2-8c03-204a0c6e0671]: Modification: Sch. 1 excluded (24.9.2014) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) Order 2014 (S.I. 2014/2384)](https://www.legislation.gov.uk/uksi/2014/2384), [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1), [Sch. 19 Pt. 1 para. 11](https://www.legislation.gov.uk/uksi/2014/2384/schedule/19/part/1/paragraph/11)
 
-[^key-5f7219ef6db31bc8ed9894c37a21e8bc]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 6](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/6)
+[^c-5f7219ef6db31bc8ed9894c37a21e8bc]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 6](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/6)
 
-[^key-864d55d6a7d7d1c7b88e62048cf881d8]: Commencement: Sch. 1 para. 1 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-864d55d6a7d7d1c7b88e62048cf881d8]: Commencement: Sch. 1 para. 1 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-7ac231195e1c674cc6679d4bf22df2b3]: Textual amendment: Sch. 1 para. 1(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 466(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/466/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7ac231195e1c674cc6679d4bf22df2b3]: Textual amendment: Sch. 1 para. 1(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 466(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/466/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-d321452aba2035b63a8fc8f30fce660b]: Commencement: Sch. 1 para. 2 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-d321452aba2035b63a8fc8f30fce660b]: Commencement: Sch. 1 para. 2 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-e0a4aa1755906a7d7a36f869588551fc]: Commencement: Sch. 1 para. 3 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-e0a4aa1755906a7d7a36f869588551fc]: Commencement: Sch. 1 para. 3 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-fe84d28dfada12bfc1c2984cf117dd68]: Commencement: Sch. 1 para. 4 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-fe84d28dfada12bfc1c2984cf117dd68]: Commencement: Sch. 1 para. 4 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-db831ba4cc3b44167f24dcda864f0f56]: Commencement: Sch. 1 para. 5 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-db831ba4cc3b44167f24dcda864f0f56]: Commencement: Sch. 1 para. 5 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-36107a85f27fb117f932520f75153535]: Modification: Sch. 1 para. 5 excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2017/7/schedule/21/paragraph/5)
+[^c-36107a85f27fb117f932520f75153535]: Modification: Sch. 1 para. 5 excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2017/7/schedule/21/paragraph/5)
 
-[^key-bb857d521bbff1f1ba3daad11e4e55de]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (25.2.2020) by [The Network Rail (East West Rail) (Bicester to Bedford Improvements) Order 2020 (S.I. 2020/114)](https://www.legislation.gov.uk/uksi/2020/114), [arts. 1](https://www.legislation.gov.uk/uksi/2020/114/article/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2020/114/article/5/1/c) (with [art. 37(2)](https://www.legislation.gov.uk/uksi/2020/114/article/37/2))
+[^c-bb857d521bbff1f1ba3daad11e4e55de]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (25.2.2020) by [The Network Rail (East West Rail) (Bicester to Bedford Improvements) Order 2020 (S.I. 2020/114)](https://www.legislation.gov.uk/uksi/2020/114), [arts. 1](https://www.legislation.gov.uk/uksi/2020/114/article/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2020/114/article/5/1/c) (with [art. 37(2)](https://www.legislation.gov.uk/uksi/2020/114/article/37/2))
 
-[^key-0c14792f4ddada79c188793d4a1b6506]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2021/2/schedule/21/paragraph/5)
+[^c-0c14792f4ddada79c188793d4a1b6506]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2021/2/schedule/21/paragraph/5)
 
-[^key-9e91b41164f3ec0e18a17d7b4e188191]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2022/1067/article/5/1/c)
+[^c-9e91b41164f3ec0e18a17d7b4e188191]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2022/1067/article/5/1/c)
 
-[^key-e664746a787234937c367f9cba2f4bd2]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (11.1.2023) by [The Network Rail (Cambridge South Infrastructure Enhancements) Order 2022 (S.I. 2022/1406)](https://www.legislation.gov.uk/uksi/2022/1406), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1406/article/1), [5](https://www.legislation.gov.uk/uksi/2022/1406/article/5) (with [art. 34(2)](https://www.legislation.gov.uk/uksi/2022/1406/article/34/2), [Sch. 12 paras. 5](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/5), [47](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/47), [79](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/79))
+[^c-e664746a787234937c367f9cba2f4bd2]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (11.1.2023) by [The Network Rail (Cambridge South Infrastructure Enhancements) Order 2022 (S.I. 2022/1406)](https://www.legislation.gov.uk/uksi/2022/1406), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1406/article/1), [5](https://www.legislation.gov.uk/uksi/2022/1406/article/5) (with [art. 34(2)](https://www.legislation.gov.uk/uksi/2022/1406/article/34/2), [Sch. 12 paras. 5](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/5), [47](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/47), [79](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/79))
 
-[^key-678d9aa2d04b03565b09b234602de42d]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (25.4.2024) by [The Network Rail (Church Fenton Level Crossing Reduction) Order 2024 (S.I. 2024/526)](https://www.legislation.gov.uk/uksi/2024/526), [arts. 1](https://www.legislation.gov.uk/uksi/2024/526/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2024/526/article/5/1)
+[^c-678d9aa2d04b03565b09b234602de42d]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/1/paragraph/5) excluded (25.4.2024) by [The Network Rail (Church Fenton Level Crossing Reduction) Order 2024 (S.I. 2024/526)](https://www.legislation.gov.uk/uksi/2024/526), [arts. 1](https://www.legislation.gov.uk/uksi/2024/526/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2024/526/article/5/1)
 
-[^key-71e2dc4fabcbe31b478cc8183a750b74]: Commencement: Sch. 1 para. 6 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-71e2dc4fabcbe31b478cc8183a750b74]: Commencement: Sch. 1 para. 6 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-2b678d8bece5d607f151ab85dd743b19]: Textual amendment: Sch. 1 para. 6(4A)(4B) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 466(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/466/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2b678d8bece5d607f151ab85dd743b19]: Textual amendment: Sch. 1 para. 6(4A)(4B) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 466(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/466/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9ec71236a15b028530e8d63ea3b3520b]: Commencement: Sch. 1 para. 7 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-9ec71236a15b028530e8d63ea3b3520b]: Commencement: Sch. 1 para. 7 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-a58940934048b66d3967b01e667ff5f5]: Commencement: Sch. 1 para. 8 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-a58940934048b66d3967b01e667ff5f5]: Commencement: Sch. 1 para. 8 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-ad693ad89d39c9c514802e7209e8a996]: Commencement: Sch. 1 para. 9 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-ad693ad89d39c9c514802e7209e8a996]: Commencement: Sch. 1 para. 9 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-81901217fc51ca3f0a4329d9bfda4c1a]: Commencement: Sch. 1 para. 10 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-81901217fc51ca3f0a4329d9bfda4c1a]: Commencement: Sch. 1 para. 10 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-1af2026bbb69b605d4f926b2d7cd50e9]: Commencement: Sch. 1 para. 11 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-1af2026bbb69b605d4f926b2d7cd50e9]: Commencement: Sch. 1 para. 11 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-239a0f9841bebfb01261df72fd98d161]: Commencement: Sch. 1 para. 12 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-239a0f9841bebfb01261df72fd98d161]: Commencement: Sch. 1 para. 12 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-55aff43fc30c99945b3e2e62c1b78f47]: Commencement: Sch. 1 para. 13 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-55aff43fc30c99945b3e2e62c1b78f47]: Commencement: Sch. 1 para. 13 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-26f798e2f2caeedd94093c561ca9a5f3]: Commencement: Sch. 1 para. 14 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-26f798e2f2caeedd94093c561ca9a5f3]: Commencement: Sch. 1 para. 14 in force at 1.8.2012 by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-f82cd4b227acf882aacb094548cc3ace]: Commencement: Sch. 1 para. 15 in force at 6.4.2011 for specified purposes by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/g)
+[^c-f82cd4b227acf882aacb094548cc3ace]: Commencement: Sch. 1 para. 15 in force at 6.4.2011 for specified purposes by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/g)
 
-[^key-0e97025d2e0a7d5bdfc76e2fcc5f6b1c]: Commencement: Sch. 1 para. 15 in force at 1.8.2012 in so far as not already in force by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-0e97025d2e0a7d5bdfc76e2fcc5f6b1c]: Commencement: Sch. 1 para. 15 in force at 1.8.2012 in so far as not already in force by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-45e589cdab59847a2e4dc30490f6e714]: Commencement: Sch. 1 para. 16 in force at 6.4.2011 for specified purposes by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/g)
+[^c-45e589cdab59847a2e4dc30490f6e714]: Commencement: Sch. 1 para. 16 in force at 6.4.2011 for specified purposes by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/g)
 
-[^key-598093e4acbef114a74cf231824fdeae]: Commencement: Sch. 1 para. 16 in force at 1.8.2012 in so far as not already in force by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
+[^c-598093e4acbef114a74cf231824fdeae]: Commencement: Sch. 1 para. 16 in force at 1.8.2012 in so far as not already in force by [S.I. 2012/2000](https://www.legislation.gov.uk/uksi/2012/2000), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2000/article/2/b)
 
-[^key-50f916aa6595e9b8c917bcc9fde5c014]: Commencement: Sch. 1 para. 17 in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(h)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/h)
+[^c-50f916aa6595e9b8c917bcc9fde5c014]: Commencement: Sch. 1 para. 17 in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(h)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/h)

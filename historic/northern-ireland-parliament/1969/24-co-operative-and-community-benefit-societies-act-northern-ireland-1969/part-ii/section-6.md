@@ -25,7 +25,7 @@ summary: ''
 - (a) a registered society; or
 - (b) an authority which acquired the holding by virtue of section 14(2) of the Housing (Ireland) Act 1919 [^m00001];
 
-shall have or claim any interest in the withdrawable[^key-2c98920af755bb767a49d4c1856434c8] shares of the society exceeding £100,000[^key-72e2ae13d4a3aaceb3f3b097020cdd7d].
+shall have or claim any interest in the withdrawable[^c-2c98920af755bb767a49d4c1856434c8] shares of the society exceeding £100,000[^c-72e2ae13d4a3aaceb3f3b097020cdd7d].
 
 (2) Where in the case of a society to which section 4 applies—
 
@@ -49,6 +49,6 @@ then, subject to subsection (4), the registered rules of the society shall have 
 
 [^m00001]: Marginal citation: 1919 c.45
 
-[^key-2c98920af755bb767a49d4c1856434c8]: Textual amendment: Word in s. 6(1) inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 10(2)](https://www.legislation.gov.uk/nia/2016/16/section/10/2), [17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1)
+[^c-2c98920af755bb767a49d4c1856434c8]: Textual amendment: Word in s. 6(1) inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 10(2)](https://www.legislation.gov.uk/nia/2016/16/section/10/2), [17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1)
 
-[^key-72e2ae13d4a3aaceb3f3b097020cdd7d]: Textual amendment: Sum in s. 6(1) substituted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 10(3)](https://www.legislation.gov.uk/nia/2016/16/section/10/3), [17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1) (with [s. 10(4)](https://www.legislation.gov.uk/nia/2016/16/section/10/3))
+[^c-72e2ae13d4a3aaceb3f3b097020cdd7d]: Textual amendment: Sum in s. 6(1) substituted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 10(3)](https://www.legislation.gov.uk/nia/2016/16/section/10/3), [17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1) (with [s. 10(4)](https://www.legislation.gov.uk/nia/2016/16/section/10/3))

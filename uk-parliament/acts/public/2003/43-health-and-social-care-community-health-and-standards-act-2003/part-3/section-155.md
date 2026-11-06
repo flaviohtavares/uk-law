@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Recovery of NHS charges[^key-e22055f45103bfc39724d6cce784de6b][^key-56244897bdb3e1d62f7b6136844910e3]
+## 155. Recovery of NHS charges[^c-e22055f45103bfc39724d6cce784de6b][^c-56244897bdb3e1d62f7b6136844910e3]
 
 *Extent: E+W+S*
 
@@ -50,7 +50,7 @@ and related expressions are to be read accordingly.
 
 (6) The Secretary of State or the Scottish Ministers may recover the amount for which a demand for payment is made under subsection (2) from the person who made the compensation payment.
 
-(7) If the person who made the compensation payment resides or carries on business in England or Wales and the county court[^key-1a7607fb12efaea12a3f2557d7ffa376] so orders, the amount demanded is recoverable under section 85 of the County Courts Act 1984[^key-4808bb15f9701f085041f3eacab2b94f] or otherwise as if it were payable under an order of that court.
+(7) If the person who made the compensation payment resides or carries on business in England or Wales and the county court[^c-1a7607fb12efaea12a3f2557d7ffa376] so orders, the amount demanded is recoverable under section 85 of the County Courts Act 1984[^c-4808bb15f9701f085041f3eacab2b94f] or otherwise as if it were payable under an order of that court.
 
 (8) If the person who made the compensation payment resides or carries on business in Scotland, the demand may be enforced as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
@@ -60,10 +60,10 @@ and related expressions are to be read accordingly.
 
 ## Annotations
 
-[^key-e22055f45103bfc39724d6cce784de6b]: Commencement: S. 155 in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
+[^c-e22055f45103bfc39724d6cce784de6b]: Commencement: S. 155 in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
 
-[^key-56244897bdb3e1d62f7b6136844910e3]: Commencement: S. 155 in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
+[^c-56244897bdb3e1d62f7b6136844910e3]: Commencement: S. 155 in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
 
-[^key-1a7607fb12efaea12a3f2557d7ffa376]: Textual amendment: Words in [s. 155(7)](https://www.legislation.gov.uk/ukpga/2003/43/section/155/7) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-1a7607fb12efaea12a3f2557d7ffa376]: Textual amendment: Words in [s. 155(7)](https://www.legislation.gov.uk/ukpga/2003/43/section/155/7) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-4808bb15f9701f085041f3eacab2b94f]: Textual amendment: Words in s. 155(7) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 152](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/152) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-4808bb15f9701f085041f3eacab2b94f]: Textual amendment: Words in s. 155(7) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 152](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/152) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

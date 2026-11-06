@@ -30,7 +30,7 @@ summary: ''
 (2) A place is not a designated public place or a part of such a place if it is—
 
 - (a) licensed premises or a place within the curtilage of such premises;
-- (aa)[^key-712b655f8d2ca19951fb6cf478f35502] a relevant pavement café area;
+- (aa)[^c-712b655f8d2ca19951fb6cf478f35502] a relevant pavement café area;
 - (b) a registered club or a place within the curtilage of such a club; or
 - (c) a place at which the sale of intoxicating liquor is for the time being authorised by an occasional licence.
 
@@ -50,7 +50,7 @@ has been associated with the consumption of intoxicating liquor in that place.
 
 (6) Regulations under paragraph (5) shall, in particular, include provision requiring councils to publicise the making and effect of orders under paragraph (3).
 
-(7)[^key-2c0f9a1136b0a105410374e3160b3934] In this Article “**a relevant pavement café area**” means a public area which—
+(7)[^c-2c0f9a1136b0a105410374e3160b3934] In this Article “**a relevant pavement café area**” means a public area which—
 
 - (a) is an area shown under section 5 of the Licensing of Pavement Cafés Act (Northern Ireland) 2014 on the plan in a pavement café licence which is in force;
 - (b) for the time being has temporary furniture on it that under the terms of that licence is permitted to be on that area at that time;
@@ -69,6 +69,6 @@ has been associated with the consumption of intoxicating liquor in that place.
 
 ## Annotations
 
-[^key-712b655f8d2ca19951fb6cf478f35502]: Textual amendment: Art. 70(2)(aa) inserted (1.10.2016) by [Licensing of Pavement Cafs Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/4/2); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2) (but this amendment cannot take effect until the commencement of S.I. 2008/1216, art. 70)
+[^c-712b655f8d2ca19951fb6cf478f35502]: Textual amendment: Art. 70(2)(aa) inserted (1.10.2016) by [Licensing of Pavement Cafs Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/4/2); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2) (but this amendment cannot take effect until the commencement of S.I. 2008/1216, art. 70)
 
-[^key-2c0f9a1136b0a105410374e3160b3934]: Textual amendment: Art. 70(7)(8) inserted (1.10.2016) by [Licensing of Pavement Cafs Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/4/3); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2) (but this amendment cannot take effect until the commencement of S.I. 2008/1216, art. 70)
+[^c-2c0f9a1136b0a105410374e3160b3934]: Textual amendment: Art. 70(7)(8) inserted (1.10.2016) by [Licensing of Pavement Cafs Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/4/3); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2) (but this amendment cannot take effect until the commencement of S.I. 2008/1216, art. 70)

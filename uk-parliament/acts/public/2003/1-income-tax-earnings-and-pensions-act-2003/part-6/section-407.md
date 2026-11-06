@@ -31,7 +31,7 @@ summary: ''
 
 (2) For this purpose “**tax-exempt pension scheme**” means—
 
-- (a)[^key-3402afc28b69713d76d54f3b32f3e0e5] a registered pension scheme,
+- (a)[^c-3402afc28b69713d76d54f3b32f3e0e5] a registered pension scheme,
 - (aa) a scheme set up by a government outside the United Kingdom for the benefit of employees or primarily for their benefit, or
 - (b) any such scheme or fund as was described in section 221(1) and (2) of ICTA 1970 (schemes to which payments could be made without charge to tax under section 220 of ICTA 1970).
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3402afc28b69713d76d54f3b32f3e0e5]: Textual amendment: S. 407(2)(a)(aa) substituted for s. 407(2)(a) (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 62(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/62/2) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-3402afc28b69713d76d54f3b32f3e0e5]: Textual amendment: S. 407(2)(a)(aa) substituted for s. 407(2)(a) (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 62(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/62/2) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

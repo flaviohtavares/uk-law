@@ -419,19 +419,19 @@ In this paragraph—
 
 *Para. 6 rep. by 1996 NI 25*
 
-### PART IV — RAILWAYS[^key-4ace164bacd16b56944468a90448c25b]
+### PART IV — RAILWAYS[^c-4ace164bacd16b56944468a90448c25b]
 
 **No longer in force.**
 
-**1.**[^key-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4ace164bacd16b56944468a90448c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART V — LAND USED FOR EXHIBITING ADVERTISEMENTS
 
@@ -473,25 +473,25 @@ the net annual value of the hereditament comprised of or including the land shal
 - (a) provide that paragraph 2 is to cease to have effect;
 - (b) make provision for determining, by such method as may be specified in the order, the net annual value of any hereditament to which this Part applies.
 
-### PART X — DOCKS[^key-73ac6dd32e6fe534e7a0c9330a7fdaac]
+### PART X — DOCKS[^c-73ac6dd32e6fe534e7a0c9330a7fdaac]
 
 **No longer in force.**
 
-**1.**[^key-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-73ac6dd32e6fe534e7a0c9330a7fdaac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART XI — CANALS
 
@@ -609,13 +609,13 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 [^c16886051]: Textual amendment: [2004 NI 4](https://www.legislation.gov.uk/2004/ni4)
 
-[^key-4ace164bacd16b56944468a90448c25b]: Textual amendment: Sch. 12 Pt. IV repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 8(3)(e)](https://www.legislation.gov.uk/nia/2009/8/section/8/3/e), [19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-4ace164bacd16b56944468a90448c25b]: Textual amendment: Sch. 12 Pt. IV repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 8(3)(e)](https://www.legislation.gov.uk/nia/2009/8/section/8/3/e), [19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
 
 [^c16886131]: Textual amendment: [2004 NI 4](https://www.legislation.gov.uk/2004/ni4)
 
 [^c16886151]: Textual amendment: [2004 NI 4](https://www.legislation.gov.uk/2004/ni4)
 
-[^key-73ac6dd32e6fe534e7a0c9330a7fdaac]: Textual amendment: [Sch. 12 Pt. X](https://www.legislation.gov.uk/nisi/1977/2157/schedule/12/part/X) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 8(3)(e)](https://www.legislation.gov.uk/nia/2009/8/section/8/3/e), [19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
+[^c-73ac6dd32e6fe534e7a0c9330a7fdaac]: Textual amendment: [Sch. 12 Pt. X](https://www.legislation.gov.uk/nisi/1977/2157/schedule/12/part/X) repealed (1.4.2015) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 8(3)(e)](https://www.legislation.gov.uk/nia/2009/8/section/8/3/e), [19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2014/306](https://www.legislation.gov.uk/nisr/2014/306), [art. 2](https://www.legislation.gov.uk/nisr/2014/306/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2014/306/schedule)
 
 [^c16885921]: Textual amendment: [1982 NI 2](https://www.legislation.gov.uk/1982/ni2)
 

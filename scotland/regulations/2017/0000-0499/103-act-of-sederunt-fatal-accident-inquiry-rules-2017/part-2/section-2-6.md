@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.6. The inquiry management powers[^key-3eacfac681b15884351d7ef03628cff6]
+## 2.6. The inquiry management powers[^c-3eacfac681b15884351d7ef03628cff6]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3eacfac681b15884351d7ef03628cff6]: Commencement: [Rule 2.6](https://www.legislation.gov.uk/ssi/2017/103/rule/2.6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-3eacfac681b15884351d7ef03628cff6]: Commencement: [Rule 2.6](https://www.legislation.gov.uk/ssi/2017/103/rule/2.6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

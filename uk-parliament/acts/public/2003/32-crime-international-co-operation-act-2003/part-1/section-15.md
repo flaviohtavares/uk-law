@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Nominating a court etc. to receive evidence[^key-419df0bf658fa84a0b6b748ad4c127ae][^key-d8350a33613790e884925d9f456be5ca]
+## 15. Nominating a court etc. to receive evidence[^c-419df0bf658fa84a0b6b748ad4c127ae][^c-d8350a33613790e884925d9f456be5ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-419df0bf658fa84a0b6b748ad4c127ae]: Commencement: S. 15 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-419df0bf658fa84a0b6b748ad4c127ae]: Commencement: S. 15 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-d8350a33613790e884925d9f456be5ca]: Modification: S. 15 functions of Secretary of State made exercisable by the Commissioners (E.W.N.I.) (23.3.2005) by [Crime (International Co-operation) Act 2003 (Exercise of Functions) Order 2005 (S.I. 2005/425)](https://www.legislation.gov.uk/uksi/2005/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/425/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/425/article/3), [6](https://www.legislation.gov.uk/uksi/2005/425/article/6)
+[^c-d8350a33613790e884925d9f456be5ca]: Modification: S. 15 functions of Secretary of State made exercisable by the Commissioners (E.W.N.I.) (23.3.2005) by [Crime (International Co-operation) Act 2003 (Exercise of Functions) Order 2005 (S.I. 2005/425)](https://www.legislation.gov.uk/uksi/2005/425), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/425/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/425/article/3), [6](https://www.legislation.gov.uk/uksi/2005/425/article/6)

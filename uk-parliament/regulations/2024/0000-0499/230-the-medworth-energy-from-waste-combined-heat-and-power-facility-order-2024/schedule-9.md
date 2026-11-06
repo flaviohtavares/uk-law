@@ -22,18 +22,18 @@ summary: ''
 
 Article 25
 
-### 1. Compensation enactments[^key-c15444e3814110fdde75e8c663eb0296]
+### 1. Compensation enactments[^c-c15444e3814110fdde75e8c663eb0296]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land are to apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or restrictive covenant as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-99db38e7d31111ea8dfece7dabba8708] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00037] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-99db38e7d31111ea8dfece7dabba8708] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00037] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5—
 
 - (a) for “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-**3.**[^key-1affec18c93aec8430ba92187b157747] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph 2(2).
+**3.**[^c-1affec18c93aec8430ba92187b157747] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph 2(2).
 
 (2) For section 5A (relevant valuation date) of the 1961 Act, after “if” substitute—
 
@@ -45,14 +45,14 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 4. Application of Part 1 of the 1965 Act[^key-a085f05aa487e539595637ec0867b3fa]
+### 4. Application of Part 1 of the 1965 Act[^c-a085f05aa487e539595637ec0867b3fa]
 
 Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 30 (modification of Part 1 of the 1965 Act)) to the acquisition of land under article 23 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right under article 25 (compulsory acquisition of rights and imposition of restrictive covenants)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-54db636897c5122fe9468c50b95c7bf6] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-54db636897c5122fe9468c50b95c7bf6] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -78,7 +78,7 @@ are modified to secure that, as against persons with interests in the land which
 
 (6) Section 20 (tenants at will, etc.) of the 1965 Act applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right or the enforcement of the restrictive covenant in question.
 
-(7) Section 22 (interests omitted from purchase) of the 1965 Act as modified by article 30(4)[^key-9554a3fbda612026c66929bb09801627] (modification of Part 1 of the Compulsory Purchase Act 1965) is so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, or enforce the restriction imposed, subject to compliance with that section as respects compensation.
+(7) Section 22 (interests omitted from purchase) of the 1965 Act as modified by article 30(4)[^c-9554a3fbda612026c66929bb09801627] (modification of Part 1 of the Compulsory Purchase Act 1965) is so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, or enforce the restriction imposed, subject to compliance with that section as respects compensation.
 
 (8) For Schedule 2A (counter–notice requiring purchase of land not in notice to treat) to the 1965 Act substitute—
 
@@ -141,16 +141,16 @@ are modified to secure that, as against persons with interests in the land which
 
 ## Annotations
 
-[^key-c15444e3814110fdde75e8c663eb0296]: Commencement: Sch. 9 para. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-c15444e3814110fdde75e8c663eb0296]: Commencement: Sch. 9 para. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-99db38e7d31111ea8dfece7dabba8708]: Commencement: Sch. 9 para. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-99db38e7d31111ea8dfece7dabba8708]: Commencement: Sch. 9 para. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
 [^f00037]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26)
 
-[^key-1affec18c93aec8430ba92187b157747]: Commencement: Sch. 9 para. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-1affec18c93aec8430ba92187b157747]: Commencement: Sch. 9 para. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-a085f05aa487e539595637ec0867b3fa]: Commencement: Sch. 9 para. 4 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-a085f05aa487e539595637ec0867b3fa]: Commencement: Sch. 9 para. 4 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-54db636897c5122fe9468c50b95c7bf6]: Commencement: Sch. 9 para. 5 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-54db636897c5122fe9468c50b95c7bf6]: Commencement: Sch. 9 para. 5 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-9554a3fbda612026c66929bb09801627]: Textual amendment: Words in [Sch. 9 para. 5(7)](https://www.legislation.gov.uk/uksi/2024/230/schedule/9/paragraph/5/7) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-9554a3fbda612026c66929bb09801627]: Textual amendment: Words in [Sch. 9 para. 5(7)](https://www.legislation.gov.uk/uksi/2024/230/schedule/9/paragraph/5/7) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)

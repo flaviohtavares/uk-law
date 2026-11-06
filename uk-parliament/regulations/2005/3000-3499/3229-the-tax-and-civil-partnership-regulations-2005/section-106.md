@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106.[^key-3ced99f2d932519cf0d2b0c1a41e0505]
+## 106.[^c-3ced99f2d932519cf0d2b0c1a41e0505]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 3A (reporting limits), in subsection (3)(b), for “(husband and wife
 
 ## Annotations
 
-[^key-3ced99f2d932519cf0d2b0c1a41e0505]: Commencement: Reg. 106 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-3ced99f2d932519cf0d2b0c1a41e0505]: Commencement: Reg. 106 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

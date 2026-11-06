@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where it is submitted to an inquiry panel, on behalf of the Crown, the Financial Conduct Authority, the Prudential Regulation Authority[^key-0bf0c99d1d89b99aaa2d4c93ad0c3ed5] or the Bank of England, that there is information held by any person which, in order to avoid a risk of damage to the economy, ought not to be revealed.
+(1) This section applies where it is submitted to an inquiry panel, on behalf of the Crown, the Financial Conduct Authority, the Prudential Regulation Authority[^c-0bf0c99d1d89b99aaa2d4c93ad0c3ed5] or the Bank of England, that there is information held by any person which, in order to avoid a risk of damage to the economy, ought not to be revealed.
 
 (2) The panel must not permit or require the information to be revealed, or cause it to be revealed, unless satisfied that the public interest in the information being revealed outweighs the public interest in avoiding a risk of damage to the economy.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bf0c99d1d89b99aaa2d4c93ad0c3ed5]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/23/1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 105](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/105) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-0bf0c99d1d89b99aaa2d4c93ad0c3ed5]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/23/1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 105](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/105) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

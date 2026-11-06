@@ -41,53 +41,53 @@ on harmonised conditions of spectrum use for the operation of mobile communicati
 
 (2008/294/EC) (revoked)
 
-[^key-14155668821491e419dc15a71c8be49e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14155668821491e419dc15a71c8be49e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-14155668821491e419dc15a71c8be49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-14155668821491e419dc15a71c8be49e]
+## ANNEX[^c-14155668821491e419dc15a71c8be49e]
 
-[^key-14155668821491e419dc15a71c8be49e] 1.
+[^c-14155668821491e419dc15a71c8be49e] 1.
 
 **Frequency bands and systems allowed for MCA Services**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14155668821491e419dc15a71c8be49e] 2.
+[^c-14155668821491e419dc15a71c8be49e] 2.
 
 **Prevention of connection of mobile terminals to ground networks**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14155668821491e419dc15a71c8be49e] 3.
+[^c-14155668821491e419dc15a71c8be49e] 3.
 
 **Technical parameters**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14155668821491e419dc15a71c8be49e] (a)
+[^c-14155668821491e419dc15a71c8be49e] (a)
 
 **Equivalent isotropic radiated power (e.i.r.p.), outside the aircraft, from the NCU/aircraft BTS/aircraft Node B**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14155668821491e419dc15a71c8be49e] (b)
+[^c-14155668821491e419dc15a71c8be49e] (b)
 
 **Equivalent isotropic radiated power (e.i.r.p.), outside the aircraft, from the on-board terminal**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14155668821491e419dc15a71c8be49e] (c)
+[^c-14155668821491e419dc15a71c8be49e] (c)
 
 **Operational requirements**
 
@@ -95,4 +95,4 @@ on harmonised conditions of spectrum use for the operation of mobile communicati
 
 ## Annotations
 
-[^key-14155668821491e419dc15a71c8be49e]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14155668821491e419dc15a71c8be49e]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

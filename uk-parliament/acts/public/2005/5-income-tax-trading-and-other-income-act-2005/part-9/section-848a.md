@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 848A. Bare trusts[^key-531d4d5fb3bd66ae329643c72ff74b53]
+## 848A. Bare trusts[^c-531d4d5fb3bd66ae329643c72ff74b53]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-531d4d5fb3bd66ae329643c72ff74b53]: Textual amendment: S. 848A inserted (with effect in accordance with Sch. 6 para. 4(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/1)
+[^c-531d4d5fb3bd66ae329643c72ff74b53]: Textual amendment: S. 848A inserted (with effect in accordance with Sch. 6 para. 4(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/1)

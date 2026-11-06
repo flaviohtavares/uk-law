@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**63.**[^key-6147e68636620f97c298bc180e510e4a] In paragraph 16(3), in the substituted section 17(7) of the 1972 Act—
+**63.**[^c-6147e68636620f97c298bc180e510e4a] In paragraph 16(3), in the substituted section 17(7) of the 1972 Act—
 
 - (a) in the substituted paragraph (a), for “a magistrates’ court” substitute “the family court in England and Wales or a magistrates’ court in Northern Ireland”; and
 - (b) in the substituted paragraph (b), for “a magistrates’ court” substitute “the family court in England and Wales or a magistrates’ court in Northern Ireland”.
 
 ## Annotations
 
-[^key-6147e68636620f97c298bc180e510e4a]: Commencement: Art. 63 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-6147e68636620f97c298bc180e510e4a]: Commencement: Art. 63 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

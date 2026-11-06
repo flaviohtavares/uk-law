@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Proceedings of Investigating Committees[^key-bc6ed14495163d89dcd7fdc77e879f31]
+## 28. Proceedings of Investigating Committees[^c-bc6ed14495163d89dcd7fdc77e879f31]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) afford the registered person an opportunity to submit evidence and make written representations; and
 - (c) consider such evidence and representations and any other evidence and material available to it.
 
-(2) An Investigating Committee may decide to discontinue an investigation at any time before a case is referred for determination by a Fitness to Practise[^key-a14784f8595f70c24685506dea86ea92] Committee.
+(2) An Investigating Committee may decide to discontinue an investigation at any time before a case is referred for determination by a Fitness to Practise[^c-a14784f8595f70c24685506dea86ea92] Committee.
 
 (3) When its investigation is complete the Investigating Committee must take one of the following steps—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc6ed14495163d89dcd7fdc77e879f31]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2015/140/regulation/28) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-bc6ed14495163d89dcd7fdc77e879f31]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2015/140/regulation/28) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
+[^c-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)

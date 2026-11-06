@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Reports to Commission by Controller of Audit.[^key-8d9d8ed73a454973c3145f4094b55f8e]
+## 102. Reports to Commission by Controller of Audit.[^c-8d9d8ed73a454973c3145f4094b55f8e]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the accounts of local authorities audited under this Part of this Act;
 - (b) any matters arising from the accounts of any of those authorities or from the auditing of those accounts being matters that the Controller considers should be considered by the local authority or brought to the attention of the public;
-- (c) the performance by a local authority of their duties under Part 1 (best value and accountability) [^key-00e2b41986cddef2c49f326311bf7397]... of the Local Government in Scotland Act 2003 (asp 1) and Part 2 of the Community Empowerment (Scotland) Act 2015 (community planning)[^key-2e21e24728dadbc351d5fd5fa0968b91] .
+- (c) the performance by a local authority of their duties under Part 1 (best value and accountability) [^c-00e2b41986cddef2c49f326311bf7397]... of the Local Government in Scotland Act 2003 (asp 1) and Part 2 of the Community Empowerment (Scotland) Act 2015 (community planning)[^c-2e21e24728dadbc351d5fd5fa0968b91] .
 
 (2) The Controller of Audit shall send a copy of a report made under subsection (1) above to—
 
@@ -66,13 +66,13 @@ he may[^c9677571] make to the Commission a special report with respect to the sa
 
 ## Annotations
 
-[^key-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c19247561]: Textual amendment: S. 102(1)(2) substituted (1.4.2003) by Local Government in [Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 56](https://www.legislation.gov.uk/asp/2003/1/section/56), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-00e2b41986cddef2c49f326311bf7397]: Textual amendment: Words in [s. 102(1)(c)](https://www.legislation.gov.uk/ukpga/1973/65/section/102/1/c) repealed (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 5(c)(i)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/5/c/i); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-00e2b41986cddef2c49f326311bf7397]: Textual amendment: Words in [s. 102(1)(c)](https://www.legislation.gov.uk/ukpga/1973/65/section/102/1/c) repealed (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 5(c)(i)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/5/c/i); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
 
-[^key-2e21e24728dadbc351d5fd5fa0968b91]: Textual amendment: Words in [s. 102(1)(c)](https://www.legislation.gov.uk/ukpga/1973/65/section/102/1/c) inserted (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 5(c)(ii)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/5/c/ii); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-2e21e24728dadbc351d5fd5fa0968b91]: Textual amendment: Words in [s. 102(1)(c)](https://www.legislation.gov.uk/ukpga/1973/65/section/102/1/c) inserted (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 5(c)(ii)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/5/c/ii); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
 
 [^c9677551]: Textual amendment: S. 102(2A) inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 185(b)](https://www.legislation.gov.uk/ukpga/1989/42/section/185/b)
 

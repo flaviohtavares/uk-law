@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 358. Assistance to acquire property where objection on Ground 4[^key-d39a5691aaec0c4e7349a3e25553808b]
+## 358. Assistance to acquire property where objection on Ground 4[^c-d39a5691aaec0c4e7349a3e25553808b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d39a5691aaec0c4e7349a3e25553808b]: Commencement: S. 358 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d39a5691aaec0c4e7349a3e25553808b]: Commencement: S. 358 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

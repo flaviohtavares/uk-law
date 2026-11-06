@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Procedure for determining the council tax requirements.[^key-a3321d90b92db948b1f25ad50da5c42f]
+## 87. Procedure for determining the council tax requirements.[^c-a3321d90b92db948b1f25ad50da5c42f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 6 to this Act (which contains procedural requirements for determining t
 
 ## Annotations
 
-[^key-a3321d90b92db948b1f25ad50da5c42f]: Textual amendment: Words in s. 87 substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 35](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/35); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-a3321d90b92db948b1f25ad50da5c42f]: Textual amendment: Words in s. 87 substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 35](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/35); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)

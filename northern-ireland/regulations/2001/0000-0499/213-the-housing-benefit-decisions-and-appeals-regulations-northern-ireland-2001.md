@@ -47,7 +47,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-03ddd66c908fd8da413637195e0bcae7]
+### 1. Citation, commencement and interpretation[^c-03ddd66c908fd8da413637195e0bcae7]
 
 (1) These Regulations may be cited as the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001 and shall come into operation on 2nd July 2001.
 
@@ -96,14 +96,14 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-### 2. Service of notices or documents[^key-06c668f8d805cd16b0bf2af573190215]
+### 2. Service of notices or documents[^c-06c668f8d805cd16b0bf2af573190215]
 
 Where, by or in consequence of, any provision of these Regulations or Schedule 7 to the Act—
 
 - (a) any notice or other document is required to be given or sent to the clerk to the appeal tribunal, the Department or the relevant authority, that notice or document shall be treated as having been so given or sent on the day that it is received by the clerk to the appeal tribunal, the Department or the relevant authority, as the case may be, and
 - (b) any notice (including notification of a decision of a relevant authority) or other document is required to be given or sent to any person other than the clerk to the appeal tribunal, the Department or the relevant authority, as the case may be, that notice or document shall, if sent by post to that person’s last known address, be treated as having been so given or sent on the day it was posted.
 
-### 3. Person treated as a person affected by a decision[^key-202d3495ab6acdb50c77d92208df448f]
+### 3. Person treated as a person affected by a decision[^c-202d3495ab6acdb50c77d92208df448f]
 
 (1) For the purposes of Schedule 7 to the Act and subject to paragraph (2), a person is to be treated as a person affected by a relevant decision of a relevant authority where that person is—
 
@@ -119,7 +119,7 @@ Where, by or in consequence of, any provision of these Regulations or Schedule 7
 
 ## Part II — Revisions and Supersessions
 
-### 4. Revision of decisions[^key-1be7c171b0f3b3dd07f7d30751278d3b]
+### 4. Revision of decisions[^c-1be7c171b0f3b3dd07f7d30751278d3b]
 
 (1) Subject to the provisions in this regulation, a relevant decision (“the original decision”) may be revised or further revised by the relevant authority which made the decision where—
 
@@ -159,7 +159,7 @@ logo[^f00014].
 
 (9) Paragraph (1) shall not apply in respect of a change of circumstances which occurred since the decision was made or where the relevant authority has evidence or information which indicates that a relevant change of circumstances will occur.
 
-### 5. Late application for a revision[^key-eb5c13291e339175750ce70be42effcf]
+### 5. Late application for a revision[^c-eb5c13291e339175750ce70be42effcf]
 
 (1) The time limit for making an application for a revision specified in regulation 4 may be extended where the conditions specified in paragraphs (2) to (8) are satisfied.
 
@@ -192,11 +192,11 @@ logo[^f00014].
 
 (8) In this regulation “Commissioner” includes a Commissioner within the meaning of section 39(1) of the Social Security Act 1998[^f00016].
 
-### 6. Date from which a revision takes effect[^key-0d51b08c7d833bad92e109f519bd423c]
+### 6. Date from which a revision takes effect[^c-0d51b08c7d833bad92e109f519bd423c]
 
 Where, on a revision under paragraph 3 of Schedule 7 to the Act, the relevant authority decides that the date from which a relevant decision (“the original decision”) took effect was erroneous, the decision under that paragraph shall take effect on the date the original decision would have taken effect had the error not been made.
 
-### 7. Decisions superseding earlier decisions[^key-fba685951b664006242bd46d29d1cfc5]
+### 7. Decisions superseding earlier decisions[^c-fba685951b664006242bd46d29d1cfc5]
 
 (1) Subject to the provisions in this regulation, the prescribed cases and circumstances in which a decision may be made under paragraph 4 of Schedule 7 to the Act (decisions superseding earlier decisions) are as set out in paragraph (2).
 
@@ -234,7 +234,7 @@ Where, on a revision under paragraph 3 of Schedule 7 to the Act, the relevant au
 
 logo.
 
-### 8. Date from which a decision superseding an earlier decision takes effect[^key-c8732bde82ff1aa589f162ad7b76c9c3]
+### 8. Date from which a decision superseding an earlier decision takes effect[^c-c8732bde82ff1aa589f162ad7b76c9c3]
 
 (1) A decision made by virtue of paragraph 4 of Schedule 7 to the Act (“the superseding decision”) shall take effect on a date other than the date on which it is made or the date on which the application was made in the cases or circumstances prescribed in paragraphs (2) to (6).
 
@@ -264,7 +264,7 @@ that superseding decision shall take effect on the date on which the appeal deci
 
 (7) A superseding decision made as a consequence of a determination which is a relevant determination for the purposes of paragraph 18 of Schedule 7 to the Act (restrictions on entitlement to benefit in certain cases of error) shall take effect from the date of the relevant determination.
 
-### 9. Effective date for late notification of change of circumstances[^key-671c44c0413391c6f2582a1292367e05]
+### 9. Effective date for late notification of change of circumstances[^c-671c44c0413391c6f2582a1292367e05]
 
 (1) For the purposes of making a decision under paragraph 4 of Schedule 7 to the Act a longer period of time may be allowed for the notification of a change of circumstances in so far as it affects the effective date of the change where the conditions specified in paragraphs (2) to (7) are satisfied.
 
@@ -290,7 +290,7 @@ that superseding decision shall take effect on the date on which the appeal deci
 
 (7) In this regulation “Commissioner” includes a Commissioner within the meaning of section 39(1) of the Social Security Act 1998.
 
-### 10. Notice of a decision against which an appeal lies[^key-f7d2700e1db73c3bce177ba836e18206]
+### 10. Notice of a decision against which an appeal lies[^c-f7d2700e1db73c3bce177ba836e18206]
 
 (1) A person affected who has a right of appeal against a relevant decision shall be given written notice—
 
@@ -302,7 +302,7 @@ that superseding decision shall take effect on the date on which the appeal deci
 
 ## Part III — Suspension and Termination of Benefit and Other Matters
 
-### 11. Cases where a relevant authority may suspend[^key-a19002b8ac7f6d6c29ef34adfc09b2b1]
+### 11. Cases where a relevant authority may suspend[^c-a19002b8ac7f6d6c29ef34adfc09b2b1]
 
 (1) A relevant authority may suspend, in whole or in part any payment of housing benefit in the circumstances prescribed in paragraph (2).
 
@@ -318,7 +318,7 @@ that superseding decision shall take effect on the date on which the appeal deci
 
 (3) In this regulation “Commissioner” includes a Commissioner within the meaning of section 39(1) of the Social Security Act 1998.
 
-### 12. Making or restoring of payments suspended[^key-eea528621e1c6490b6bedf4212881197]
+### 12. Making or restoring of payments suspended[^c-eea528621e1c6490b6bedf4212881197]
 
 (1) Subject to paragraph (2), the prescribed circumstances for the purposes of paragraph 13(1)(*b*) of Schedule 7 to the Act (the subsequent making or restoring of any or all of the payments so suspended) are—
 
@@ -327,7 +327,7 @@ that superseding decision shall take effect on the date on which the appeal deci
 
 (2) Where any of the circumstances in paragraph (1) is satisfied, the relevant authority shall, so far as practicable, make, or as the case may be, restore the payment within 14 days of the decision to make or restore that payment.
 
-### 13. Suspension for failure to furnish information etc.[^key-f666baab8f867868ecaaf8895141cfe4]
+### 13. Suspension for failure to furnish information etc.[^c-f666baab8f867868ecaaf8895141cfe4]
 
 (1) The relevant authority may suspend in whole or in part any payment of housing benefit in relation to persons who fail to comply with the information requirements (as defined in paragraph 14 of Schedule 7 to the Act) as provided for in regulations made pursuant to section 5(1)(hh) of the Administration Act (person required to satisfy the information provisions).
 
@@ -350,7 +350,7 @@ that superseding decision shall take effect on the date on which the appeal deci
 
 (5) Where a person satisfies the requirements in paragraph (4), the relevant authority shall, so far as practicable, make, or as the case may be, restore the payment within 14 days of the decision to make or restore that payment.
 
-### 14. Termination in cases of a failure to furnish information[^key-53864581bc3f54b92aebcc3c11a6e4ba]
+### 14. Termination in cases of a failure to furnish information[^c-53864581bc3f54b92aebcc3c11a6e4ba]
 
 (1) A person in respect of whom payment of benefit has been suspended—
 
@@ -364,7 +364,7 @@ shall cease to be entitled to the benefit from the date on which the payments we
 - (a) subject to sub-paragraph (*b*), where not more than one month has elapsed since the end of the period under regulation 13(4) for the provision of information;
 - (b) where payment of benefit has been suspended in part under regulation 11 or regulation 13.
 
-### 15. Decisions involving issues that arise on appeal in other cases[^key-d72d22cb2943ad8f853a03bbb36658f9]
+### 15. Decisions involving issues that arise on appeal in other cases[^c-d72d22cb2943ad8f853a03bbb36658f9]
 
 (1) For the purposes of paragraph 16(3)(*b*) of Schedule 7 to the Act (prescribed cases and circumstances in which a decision may be made) the prescribed cases and circumstances are those in which the claimant would be entitled to benefit to which the decision which falls to be made relates, even if the appeal in the other case referred to in paragraph 16(1)(*b*) of that Schedule were decided in the way which is most unfavourable to him.
 
@@ -375,7 +375,7 @@ shall cease to be entitled to the benefit from the date on which the payments we
 
 ## Part IV — Rights of appeal and procedure for bringing appeals
 
-### 16. Decisions against which no appeal lies[^key-49b00f523fdd12d7e07503d8f83b6c7e]
+### 16. Decisions against which no appeal lies[^c-49b00f523fdd12d7e07503d8f83b6c7e]
 
 (1) No appeal shall lie against a decision specified in the Schedule.
 
@@ -383,7 +383,7 @@ shall cease to be entitled to the benefit from the date on which the payments we
 
 (3) In this regulation references to a decision include references to a determination embodied in or necessary to a decision.
 
-### 17. Appeal against a decision which has been revised[^key-23dfa1cfdc0f878167c0f76bfa41c1f4]
+### 17. Appeal against a decision which has been revised[^c-23dfa1cfdc0f878167c0f76bfa41c1f4]
 
 (1) An appeal against a decision of the relevant authority shall not lapse where the decision is revised under paragraph 3 of Schedule 7 to the Act before the appeal is determined and the decision as revised is not more advantageous to the appellant than the decision before it was so revised.
 
@@ -400,7 +400,7 @@ shall cease to be entitled to the benefit from the date on which the payments we
 
 (5) After the expiration of the period specified in paragraph (4), or within that period if the appellant consents in writing, the appeal to the appeal tribunal shall proceed except where, in the light of further representations from the appellant, the relevant authority further revises its decision and that decision is more advantageous to the appellant than the decision before it was revised.
 
-### 18. Time within which an appeal is to be brought[^key-d3cec8069a191e9225809dbc40e8b240]
+### 18. Time within which an appeal is to be brought[^c-d3cec8069a191e9225809dbc40e8b240]
 
 (1) Subject to paragraphs (2) to (5) and regulation 19, an appeal which lies from a relevant decision must be brought within one month of the date of notification of that decision.
 
@@ -418,7 +418,7 @@ subject to paragraph (2), the period of one month shall begin to run from the da
 
 (5) The time limit specified in this regulation for bringing an appeal may be extended in accordance with regulation 19.
 
-### 19. Late appeals[^key-46dc67d15181f489e90e737f230adce8]
+### 19. Late appeals[^c-46dc67d15181f489e90e737f230adce8]
 
 (1) Subject to paragraphs (2) to (13), the time limit referred to in regulation 18 may be extended only if the conditions set out in this regulation are satisfied.
 
@@ -461,7 +461,7 @@ and as a result of those special circumstances, it was not practicable for the a
 
 (13) In this regulation “Commissioner” includes a Commissioner within the meaning of section 39(1) of the Social Security Act 1998.
 
-### 20. Making of appeals and applications[^key-40ea921cb9d95555514107a7373f799a]
+### 20. Making of appeals and applications[^c-40ea921cb9d95555514107a7373f799a]
 
 (1) An appeal or application for an extension of time must—
 
@@ -503,7 +503,7 @@ the form or further particulars shall also be forwarded to the legally qualified
 
 (9) The relevant authority may discontinue action on an appeal where the appeal has not been forwarded to the clerk to the appeal tribunal or to a legally qualified panel member and the appellant or an authorised representative of the appellant has given written notice that the appellant does not wish the appeal to continue.
 
-### 21. Death of a party to an appeal[^key-9a6a204c6a271fc162fc9cb555b0befa]
+### 21. Death of a party to an appeal[^c-9a6a204c6a271fc162fc9cb555b0befa]
 
 (1) In any proceedings, on the death of a party to those proceedings, the relevant authority may appoint such person as it thinks fit to proceed with the appeal in the place of the deceased.
 
@@ -513,7 +513,7 @@ the form or further particulars shall also be forwarded to the legally qualified
 
 ## Part V — Appeal Tribunals
 
-### 22. Composition of appeal tribunals[^key-30f1d88a74fe9b524ff47d1ba891663f]
+### 22. Composition of appeal tribunals[^c-30f1d88a74fe9b524ff47d1ba891663f]
 
 (1) Subject to paragraph (2), for the purposes of Schedule 7 to the Act and Regulations made thereunder, an appeal tribunal shall consist of—
 
@@ -527,7 +527,7 @@ the form or further particulars shall also be forwarded to the legally qualified
 
 (3) Subject to paragraph (2), an appeal tribunal determining a misconceived appeal as a preliminary issue in accordance with regulation 23(1) of these Regulations and regulation 48 of the Decisions and Appeals Regulations 1999 (misconceived appeals) shall consist of a legally qualified panel member.
 
-### 23. Procedure in connection with appeals[^key-bd023f16ce5d4b800febcf902259cb5d]
+### 23. Procedure in connection with appeals[^c-bd023f16ce5d4b800febcf902259cb5d]
 
 (1) Subject to paragraphs (2) to (4), the provisions in Chapters II to V of Part V of the Decisions and Appeals Regulations 1999[^f00023] as in operation on the date these Regulations are made shall apply in relation to the procedure to be followed in respect of appeals under Schedule 7 to the Act.
 
@@ -568,7 +568,7 @@ Department of Finance and Personnel
 
 Regulation 16(1)
 
-**1.**[^key-4e9a837f544322daeae836bd389b3976] No appeal shall lie against a decision made by virtue of, or as a consequence of, any of the provisions in regulation 10A[^f00032] (decisions), Part X (claims), Part XII (payments) and Part XIII (overpayments) of the Housing Benefit Regulations except a decision under—
+**1.**[^c-4e9a837f544322daeae836bd389b3976] No appeal shall lie against a decision made by virtue of, or as a consequence of, any of the provisions in regulation 10A[^f00032] (decisions), Part X (claims), Part XII (payments) and Part XIII (overpayments) of the Housing Benefit Regulations except a decision under—
 
 - (a) regulations 72(5)[^f00033], (10), (14)[^f00034], 72A(1) and (4)[^f00035] (date of claim);
 - (b) regulation 91(3) (adjustments to payments to take account of underpayment or overpayment on account of a rent allowance);
@@ -579,11 +579,11 @@ Regulation 16(1)
 - (g) regulation 103 (diminution of capital), or
 - (h) regulation 104 (sums to be deducted in calculating recoverable overpayments).
 
-**2.**[^key-c35b993e383ece209358f9f338483305] Subject to paragraph 1(*f*), no appeal shall lie against a decision as to the exercise of discretion to recover an overpayment of housing benefit.
+**2.**[^c-c35b993e383ece209358f9f338483305] Subject to paragraph 1(*f*), no appeal shall lie against a decision as to the exercise of discretion to recover an overpayment of housing benefit.
 
-**3.**[^key-12fced68bdd4a6dfb70ff113b1dcc475] No appeal shall lie against a decision of a relevant authority under paragraph 16(3)(*a*) or (*b*) and (4) of Schedule 7 to the Act (decisions involving issues that arise on appeal in other cases).
+**3.**[^c-12fced68bdd4a6dfb70ff113b1dcc475] No appeal shall lie against a decision of a relevant authority under paragraph 16(3)(*a*) or (*b*) and (4) of Schedule 7 to the Act (decisions involving issues that arise on appeal in other cases).
 
-**4.**[^key-ada859aeae93b19af339c5abe2f44f7a] No appeal shall lie against a decision under Part III of these Regulations of a relevant authority relating to—
+**4.**[^c-ada859aeae93b19af339c5abe2f44f7a] No appeal shall lie against a decision under Part III of these Regulations of a relevant authority relating to—
 
 - (a) suspension of a payment of benefit, or
 - (b) restoration following a suspension of payment of benefit,
@@ -622,7 +622,7 @@ These Regulations do not impose a charge on business.
 
 [^f00005]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 (S.I. [1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see* also Article 6(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-03ddd66c908fd8da413637195e0bcae7]: Commencement: Reg. 1 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-03ddd66c908fd8da413637195e0bcae7]: Commencement: Reg. 1 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
 
@@ -632,9 +632,9 @@ These Regulations do not impose a charge on business.
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-06c668f8d805cd16b0bf2af573190215]: Commencement: Reg. 2 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-06c668f8d805cd16b0bf2af573190215]: Commencement: Reg. 2 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-202d3495ab6acdb50c77d92208df448f]: Commencement: Reg. 3 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-202d3495ab6acdb50c77d92208df448f]: Commencement: Reg. 3 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00010]: Footnote: [1971 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1971/33)
 
@@ -644,7 +644,7 @@ These Regulations do not impose a charge on business.
 
 [^f00013]: Footnote: Regulation 94 was amended by regulation 10 of [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335), regulation 7 of [S.R. 1996 No. 181](https://www.legislation.gov.uk/nisr/1996/181), regulation 7(*g*) of [S.R. 1996 No. 448](https://www.legislation.gov.uk/nisr/1996/448), regulation 12 of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22) and regulation 3 of [S.R. 1997 No. 452](https://www.legislation.gov.uk/nisr/1997/452)
 
-[^key-1be7c171b0f3b3dd07f7d30751278d3b]: Commencement: Reg. 4 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-1be7c171b0f3b3dd07f7d30751278d3b]: Commencement: Reg. 4 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00014]: Footnote: The
 
@@ -656,59 +656,59 @@ These Regulations do not impose a charge on business.
 
     office is located at Crown Building, Thomas Street, Dungannon, Co. Tyrone BT 70 1EN
 
-[^key-eb5c13291e339175750ce70be42effcf]: Commencement: Reg. 5 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-eb5c13291e339175750ce70be42effcf]: Commencement: Reg. 5 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00015]: Footnote: The Work-focused Interviews Regulations apply to unemployed persons under the age of 60 living in an area identified in Schedule 1 to those Regulations who make a claim for income support, incapacity benefit or housing benefit
 
 [^f00016]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14); the definition of “Commissioner” was amended by section 18 of, and paragraph 35(*a*) of Schedule 7 to, the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2)
 
-[^key-0d51b08c7d833bad92e109f519bd423c]: Commencement: Reg. 6 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-0d51b08c7d833bad92e109f519bd423c]: Commencement: Reg. 6 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-fba685951b664006242bd46d29d1cfc5]: Commencement: Reg. 7 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-fba685951b664006242bd46d29d1cfc5]: Commencement: Reg. 7 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00017]: Footnote: Regulation 75(2) was amended by regulation 14 of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)
 
-[^key-c8732bde82ff1aa589f162ad7b76c9c3]: Commencement: Reg. 8 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-c8732bde82ff1aa589f162ad7b76c9c3]: Commencement: Reg. 8 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00018]: Footnote: Regulation 68 was amended by regulation 7(*b*), (*c*) and (*d*) of [S.R. 1992 No. 141](https://www.legislation.gov.uk/nisr/1992/141), regulation 10(*b*) of [S.R. 1994 No. 88](https://www.legislation.gov.uk/nisr/1994/88) and regulation 6 of [S.R. 1999 No. 416](https://www.legislation.gov.uk/nisr/1999/416)
 
 [^f00019]: Footnote: Regulation 68A was inserted by regulation 15(1) of, and paragraph 3(2) of Schedule 1 to, [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
-[^key-671c44c0413391c6f2582a1292367e05]: Commencement: Reg. 9 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-671c44c0413391c6f2582a1292367e05]: Commencement: Reg. 9 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-f7d2700e1db73c3bce177ba836e18206]: Commencement: Reg. 10 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-f7d2700e1db73c3bce177ba836e18206]: Commencement: Reg. 10 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-a19002b8ac7f6d6c29ef34adfc09b2b1]: Commencement: Reg. 11 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-a19002b8ac7f6d6c29ef34adfc09b2b1]: Commencement: Reg. 11 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00020]: Footnote: Section 73 was amended by Articles 15 and 19 of, and paragraph 2 of Schedule 1 and Schedule 2 to, the Social Security Administration (Fraud) (Northern Ireland) Order 1997 (S.I. [1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182))
 
-[^key-eea528621e1c6490b6bedf4212881197]: Commencement: Reg. 12 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-eea528621e1c6490b6bedf4212881197]: Commencement: Reg. 12 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-f666baab8f867868ecaaf8895141cfe4]: Commencement: Reg. 13 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-f666baab8f867868ecaaf8895141cfe4]: Commencement: Reg. 13 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00021]: Footnote: Regulation 73 was amended by regulation 7 of [S.R. 1988 No. 117](https://www.legislation.gov.uk/nisr/1988/117), regulation 8(*a*) and (*b*) of [S.R. 1992 No. 141](https://www.legislation.gov.uk/nisr/1992/141), regulation 4(6) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), regulation 10 of [S.R. 1992 No. 404](https://www.legislation.gov.uk/nisr/1992/404), regulation 4(4) of [S.R. 1993 No. 233](https://www.legislation.gov.uk/nisr/1993/233), regulation 3(7) of [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), and regulation 7(*e*) of [S.R. 1996 No. 448](https://www.legislation.gov.uk/nisr/1996/448)
 
-[^key-53864581bc3f54b92aebcc3c11a6e4ba]: Commencement: Reg. 14 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-53864581bc3f54b92aebcc3c11a6e4ba]: Commencement: Reg. 14 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-d72d22cb2943ad8f853a03bbb36658f9]: Commencement: Reg. 15 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-d72d22cb2943ad8f853a03bbb36658f9]: Commencement: Reg. 15 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-49b00f523fdd12d7e07503d8f83b6c7e]: Commencement: Reg. 16 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-49b00f523fdd12d7e07503d8f83b6c7e]: Commencement: Reg. 16 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-23dfa1cfdc0f878167c0f76bfa41c1f4]: Commencement: Reg. 17 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-23dfa1cfdc0f878167c0f76bfa41c1f4]: Commencement: Reg. 17 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-d3cec8069a191e9225809dbc40e8b240]: Commencement: Reg. 18 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-d3cec8069a191e9225809dbc40e8b240]: Commencement: Reg. 18 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-46dc67d15181f489e90e737f230adce8]: Commencement: Reg. 19 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-46dc67d15181f489e90e737f230adce8]: Commencement: Reg. 19 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-40ea921cb9d95555514107a7373f799a]: Commencement: Reg. 20 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-40ea921cb9d95555514107a7373f799a]: Commencement: Reg. 20 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-9a6a204c6a271fc162fc9cb555b0befa]: Commencement: Reg. 21 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-9a6a204c6a271fc162fc9cb555b0befa]: Commencement: Reg. 21 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-30f1d88a74fe9b524ff47d1ba891663f]: Commencement: Reg. 22 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-30f1d88a74fe9b524ff47d1ba891663f]: Commencement: Reg. 22 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00022]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-bd023f16ce5d4b800febcf902259cb5d]: Commencement: Reg. 23 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-bd023f16ce5d4b800febcf902259cb5d]: Commencement: Reg. 23 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00023]: Footnote: Relevant amending Regulations are [S.R. 1999 No. 272](https://www.legislation.gov.uk/nisr/1999/272), [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and [S.R. 2001 No. 29](https://www.legislation.gov.uk/nisr/2001/29)
 
@@ -728,7 +728,7 @@ These Regulations do not impose a charge on business.
 
 [^f00031]: Footnote: Regulation 53(3)(*b*) was amended by regulation 6(15)(*a*) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
-[^key-4e9a837f544322daeae836bd389b3976]: Commencement: Sch. para. 1 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-4e9a837f544322daeae836bd389b3976]: Commencement: Sch. para. 1 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
 [^f00032]: Footnote: Regulation 10A was inserted by regulation 6 of [S.R. 1996 No. 111](https://www.legislation.gov.uk/nisr/1996/111) and amended by regulation 3 of [S.R. 1996 No. 181](https://www.legislation.gov.uk/nisr/1996/181), regulation 2 of [S.R. 1996 No. 221](https://www.legislation.gov.uk/nisr/1996/221) and regulation 2(2) of [S.R. 1998 No. 114](https://www.legislation.gov.uk/nisr/1998/114)
 
@@ -746,8 +746,8 @@ These Regulations do not impose a charge on business.
 
 [^f00039]: Footnote: Regulation 101 was substituted by regulation 2(3) of [S.R. 2001 No. 179](https://www.legislation.gov.uk/nisr/2001/179)
 
-[^key-c35b993e383ece209358f9f338483305]: Commencement: Sch. para. 2 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-c35b993e383ece209358f9f338483305]: Commencement: Sch. para. 2 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-12fced68bdd4a6dfb70ff113b1dcc475]: Commencement: Sch. para. 3 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-12fced68bdd4a6dfb70ff113b1dcc475]: Commencement: Sch. para. 3 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
 
-[^key-ada859aeae93b19af339c5abe2f44f7a]: Commencement: Sch. para. 4 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)
+[^c-ada859aeae93b19af339c5abe2f44f7a]: Commencement: Sch. para. 4 in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/213/regulation/1/1)

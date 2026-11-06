@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Communication with relevant authorities[^key-cb636e48eb45c20c05a9a16287f8e431]
+## 45. Communication with relevant authorities[^c-cb636e48eb45c20c05a9a16287f8e431]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb636e48eb45c20c05a9a16287f8e431]: Commencement: Reg. 45 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-cb636e48eb45c20c05a9a16287f8e431]: Commencement: Reg. 45 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 134A. Offence of knowingly making a false statement in an application[^key-f1f86d089b7d72870e2482301d551465]
+## 134A. Offence of knowingly making a false statement in an application[^c-f1f86d089b7d72870e2482301d551465]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1f86d089b7d72870e2482301d551465]: Textual amendment: S. 134A inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 196](https://www.legislation.gov.uk/asp/2010/13/section/196), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-f1f86d089b7d72870e2482301d551465]: Textual amendment: S. 134A inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 196](https://www.legislation.gov.uk/asp/2010/13/section/196), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

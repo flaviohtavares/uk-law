@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Declaration of a temporary control zone[^key-6b2f6981ebeb5a94703f3bea68c00467]
+## 17. Declaration of a temporary control zone[^c-6b2f6981ebeb5a94703f3bea68c00467]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In a declaration of a temporary control zone, the Department must impose in rela
 
 ## Annotations
 
-[^key-6b2f6981ebeb5a94703f3bea68c00467]: Commencement: Reg. 17 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-6b2f6981ebeb5a94703f3bea68c00467]: Commencement: Reg. 17 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

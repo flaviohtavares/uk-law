@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Statutory undertakers[^key-fc2ab65074a438b63002fd8c63720286]
+## 26. Statutory undertakers[^c-fc2ab65074a438b63002fd8c63720286]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Subject to the provisions of Schedule 7 (protective provisions) the undertaker m
 
 ## Annotations
 
-[^key-fc2ab65074a438b63002fd8c63720286]: Commencement: Art. 26 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-fc2ab65074a438b63002fd8c63720286]: Commencement: Art. 26 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

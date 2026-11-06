@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A1 — Reusability, recycling and recovery[^key-b348198c6d8e190f1e7dfa9ba1c2710c]
+## SCHEDULE A1 — Reusability, recycling and recovery[^c-b348198c6d8e190f1e7dfa9ba1c2710c]
 
 *Extent: E+W+S+N.I.*
 
@@ -121,4 +121,4 @@ The component parts listed in Annex 6 to UNECE Regulation 133 must—
 
 ## Annotations
 
-[^key-b348198c6d8e190f1e7dfa9ba1c2710c]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2020/818/schedule/A1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2022/1273/regulation/17)
+[^c-b348198c6d8e190f1e7dfa9ba1c2710c]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2020/818/schedule/A1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2022/1273/regulation/17)

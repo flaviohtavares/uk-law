@@ -54,16 +54,16 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 regulation 7 shall have effect from the first day of the first benefit week to commence for that claimant on or after the day from which that award of child tax credit begins and regulation 2 and Schedule 1 shall have effect from the first day of the first benefit week to commence for that claimant on or after 6th April 2004.
 
-(3) Subject to paragraphs (4A) to (5)[^key-1c894a8967eb79c175eef5b1ede9d489], in a case where a claimant for income support–
+(3) Subject to paragraphs (4A) to (5)[^c-1c894a8967eb79c175eef5b1ede9d489], in a case where a claimant for income support–
 
 - (a) has a child or young person who is a member of his family for the purposes of his claim for income support, and
 - (b) has not been awarded, or his partner has not been awarded, a child tax credit for a period beginning before 6th April 2004,
 
 regulations 2 and 7 and Schedule 1 shall have effect from the first day of the first benefit week to commence for that claimant on or after the day on which his, or his partner's, award of child tax credit begins.
 
-(4) Subject to paragraphs (4A) to (5)[^key-d9bd186e84a552532dff2c553a31e561], in a case where paragraph (2)(a) or (3)(a) does not apply to a claimant for income support, regulation 2 and Schedule 1 shall have effect from the first day of the first benefit week to commence for that claimant on or after 6th April 2004.
+(4) Subject to paragraphs (4A) to (5)[^c-d9bd186e84a552532dff2c553a31e561], in a case where paragraph (2)(a) or (3)(a) does not apply to a claimant for income support, regulation 2 and Schedule 1 shall have effect from the first day of the first benefit week to commence for that claimant on or after 6th April 2004.
 
-(4A)[^key-2e0f8793ac4206aceddaa01b96d47eee] In the case of a person who makes a claim for income support on or after 8th September 2005, regulation 2 and Schedule 1 shall have effect from the date that claim is made.
+(4A)[^c-2e0f8793ac4206aceddaa01b96d47eee] In the case of a person who makes a claim for income support on or after 8th September 2005, regulation 2 and Schedule 1 shall have effect from the date that claim is made.
 
 (4B) Subject to paragraph (4C), in the case of a claimant for income support who applies on or after 8th September 2005 for an amount to be included in his applicable amount in respect of a child or young person, regulation 2 and Schedule 1 shall have effect from the date of that application.
 
@@ -81,16 +81,16 @@ regulations 2 and 7 and Schedule 1 shall have effect from the first day of the f
 
 regulation 8 shall have effect from the first day of the first benefit week to commence for that claimant on or after the day from which that award of child tax credit begins and regulation 3 and Schedule 2 shall have effect from the first day of the first benefit week to commence for that claimant on or after 6th April 2004.
 
-(7) Subject to paragraphs (8A) to (9)[^key-95c173abf7ef1343ab54301463cdc85f], in a case where a claimant for a jobseeker’s allowance–
+(7) Subject to paragraphs (8A) to (9)[^c-95c173abf7ef1343ab54301463cdc85f], in a case where a claimant for a jobseeker’s allowance–
 
 - (a) has a child or young person who is a member of his family for the purposes of his claim for jobseeker’s allowance, and
 - (b) has not been awarded, or his partner has not been awarded, a child tax credit for a period beginning before 6th April 2004,
 
 regulations 3 and 8 and Schedule 2 shall have effect from the first day of the first benefit week to commence for that claimant on or after the day on which his, or his partner's, award of child tax credit begins.
 
-(8) Subject to “paragraphs (8A) to (9)[^key-167a022a88dc1d0948ca6162064d9bda], in a case where paragraph (6)(a) or (7)(a) does not apply to a claimant for jobseeker’s allowance, regulation 3 and Schedule 2 shall have effect from the first day of the first benefit week to commence for that claimant on or after 6th April 2004.
+(8) Subject to “paragraphs (8A) to (9)[^c-167a022a88dc1d0948ca6162064d9bda], in a case where paragraph (6)(a) or (7)(a) does not apply to a claimant for jobseeker’s allowance, regulation 3 and Schedule 2 shall have effect from the first day of the first benefit week to commence for that claimant on or after 6th April 2004.
 
-(8A)[^key-06bdbda40fb2b4b142fffe2d3a1c1854] In the case of a person who makes a claim for a jobseeker’s allowance on or after 8th September 2005, regulation 3 and Schedule 2 shall have effect from the date that claim is made.
+(8A)[^c-06bdbda40fb2b4b142fffe2d3a1c1854] In the case of a person who makes a claim for a jobseeker’s allowance on or after 8th September 2005, regulation 3 and Schedule 2 shall have effect from the date that claim is made.
 
 (8B) Subject to paragraph (8C), in the case of a claimant for a jobseeker’s allowance who applies on or after 8th September 2005 for an amount to be included in his applicable amount in respect of a child or young person, regulation 3 and Schedule 2 shall have effect from the date of that application.
 
@@ -108,24 +108,24 @@ regulations 3 and 8 and Schedule 2 shall have effect from the first day of the f
 
 (12) In these Regulations–
 
-- [^key-3678644a944dcce11df6069eae0bbe34]...
-- [^key-3678644a944dcce11df6069eae0bbe34]...
+- [^c-3678644a944dcce11df6069eae0bbe34]...
+- [^c-3678644a944dcce11df6069eae0bbe34]...
 - “**the Income Support Regulations**” means the Income Support (General) Regulations 1987 [^c500372]; and
 - “**the Jobseeker’s Allowance Regulations**” means the Jobseeker’s Allowance Regulations 1996 [^c500373].
 
-## 2. Amendment of the Income Support Regulations[^c2199997][^key-9b8e4cfeafdd96826f919bd425ed2287]
+## 2. Amendment of the Income Support Regulations[^c2199997][^c-9b8e4cfeafdd96826f919bd425ed2287]
 
 The Income Support Regulations shall be amended in accordance with Schedule 1 and references in that Schedule to regulations and Schedules are to regulations of and Schedules to those Regulations.
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^c2200022][^key-95b2592ee63835c7fd29d362aca9dead]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c2200022][^c-95b2592ee63835c7fd29d362aca9dead]
 
 The Jobseeker’s Allowance Regulations shall be amended in accordance with Schedule 2 and references in that Schedule to regulations and Schedules are to regulations of and Schedules to those Regulations.
 
-## 4. Amendment of the Housing Benefit Regulations[^key-12bda3a10825b17180e94e137db8a86b]
+## 4. Amendment of the Housing Benefit Regulations[^c-12bda3a10825b17180e94e137db8a86b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Council Tax Benefit Regulations[^key-12bda3a10825b17180e94e137db8a86b]
+## 5. Amendment of the Council Tax Benefit Regulations[^c-12bda3a10825b17180e94e137db8a86b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -135,16 +135,16 @@ The consequential amendments to the regulations specified in Schedule 4 shall ha
 
 ## 7. Income Support – transitional arrangements[^c2200050]
 
-(1) Subject to paragraph (2) and regulation 31(3) of the Income Support Regulations,[^key-d478006a162f021005841d2120277fdb]in the case of a claimant for income support who makes a claim, or whose partner makes a claim, for a child tax credit, the Secretary of State shall treat that claimant’s income as including an amount equivalent to the amount of child tax credit to which he, or his partner, is entitled for the period specified in paragraph (3).
+(1) Subject to paragraph (2) and regulation 31(3) of the Income Support Regulations,[^c-d478006a162f021005841d2120277fdb]in the case of a claimant for income support who makes a claim, or whose partner makes a claim, for a child tax credit, the Secretary of State shall treat that claimant’s income as including an amount equivalent to the amount of child tax credit to which he, or his partner, is entitled for the period specified in paragraph (3).
 
 (2) In a case where a claimant for income support–
 
 - (a) has a child or young person who is a member of his family for the purposes of his claim for income support; and
 - (b) is, or has a partner who is, aged not less than 60,
 
-the Secretary of State shall, in the benefit week which begins on or includes 5th October 2003, disregard from his income an amount equivalent to the amount of child tax credit to which he is entitled.[^key-c4aa3d28427893c15c0bf90513a524f5]
+the Secretary of State shall, in the benefit week which begins on or includes 5th October 2003, disregard from his income an amount equivalent to the amount of child tax credit to which he is entitled.[^c-c4aa3d28427893c15c0bf90513a524f5]
 
-(3) For the purposes of paragraph (1)[^key-52f3f2b3c18bf012bffcaef91431b00d], the specified period begins on the first day of the first benefit week to commence for that claimant on or after 7th April 2003, or the date the award of child tax credit begins if later, and ends on the day before the first day of the first benefit week to commence for that claimant on or after 6th April 2004.
+(3) For the purposes of paragraph (1)[^c-52f3f2b3c18bf012bffcaef91431b00d], the specified period begins on the first day of the first benefit week to commence for that claimant on or after 7th April 2003, or the date the award of child tax credit begins if later, and ends on the day before the first day of the first benefit week to commence for that claimant on or after 6th April 2004.
 
 (4) In the case of a claimant for income support who applies for an applicable amount under regulation 17 or 18 of the Income Support Regulations on or after 7th April 2003 in respect of a child or young person who is a member of his family, the Secretary of State shall treat that claimant’s income as including an amount equivalent to the amount of child benefit to which he, or his partner, is entitled in respect of that child or young person for the period specified in paragraph (5).
 
@@ -154,13 +154,13 @@ the Secretary of State shall, in the benefit week which begins on or includes 5t
 - (b) in a case where the claimant, or his partner, is awarded child tax credit for a period beginning on or after 6th April 2004 the first day of the first benefit week to commence for that claimant on or after the day that award of child tax credit begins; or
 - (c) the first day of the first benefit week in which his applicable amount in respect of that child or young person ends, if earlier.
 
-(6)[^key-bf211b03bfbe02a5fb08dbfd620883c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-bf211b03bfbe02a5fb08dbfd620883c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-bf211b03bfbe02a5fb08dbfd620883c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-bf211b03bfbe02a5fb08dbfd620883c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 8. Jobseeker’s allowance – transitional arrangements[^c2200023]
 
-(1) Subject to regulation 96(3) of the Jobseeker’s Allowance Regulations,[^key-d5b0e66deb8d83b97bcfe0e6380675c1]in the case of a claimant for jobseeker’s allowance who makes a claim, or whose partner makes a claim, for a child tax credit, the Secretary of State shall treat that claimant’s income as including an amount equivalent to the amount of child tax credit to which he, or his partner, is entitled for the period specified in paragraph (2).
+(1) Subject to regulation 96(3) of the Jobseeker’s Allowance Regulations,[^c-d5b0e66deb8d83b97bcfe0e6380675c1]in the case of a claimant for jobseeker’s allowance who makes a claim, or whose partner makes a claim, for a child tax credit, the Secretary of State shall treat that claimant’s income as including an amount equivalent to the amount of child tax credit to which he, or his partner, is entitled for the period specified in paragraph (2).
 
 (2) For the purposes of paragraph (1) the specified period begins on the first day of the first benefit week to commence for that claimant on or after 7th April 2003, or the date that award of child tax credit begins if later, and ends on the day before the first day of the first benefit week to commence for that claimant on or after 6th April 2004.
 
@@ -172,9 +172,9 @@ the Secretary of State shall, in the benefit week which begins on or includes 5t
 - (b) in a case where the claimant, or his partner, is awarded child tax credit for a period beginning on or after 6th April 2004 the first day of the first benefit week to commence for that claimant on or after the day on which that award of child tax credit begins; or
 - (c) the first day of the first benefit week in which his applicable amount in respect of that child or young person ends, if earlier.
 
-(5)[^key-0e23ac1e16954e95c870fa9bb1f66d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0e23ac1e16954e95c870fa9bb1f66d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-0e23ac1e16954e95c870fa9bb1f66d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0e23ac1e16954e95c870fa9bb1f66d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -184,7 +184,7 @@ Parliamentary Under-Secretary of State,
 
 Department for Work and Pensions
 
-## SCHEDULE 1 — AMENDMENTS TO THE INCOME SUPPORT REGULATIONS[^key-b1b2458545a587a866c765589d35aaeb]
+## SCHEDULE 1 — AMENDMENTS TO THE INCOME SUPPORT REGULATIONS[^c-b1b2458545a587a866c765589d35aaeb]
 
 Regulation 2
 
@@ -271,7 +271,7 @@ Regulation 2
 
 **14.**[^c2200012] In regulation 54 [^c500386] (liable relatives interpretation) in the definition of “payment” paragraph (d) shall be omitted.
 
-**15.**[^key-ba03875953f4d8885a92edc4cca60a26][^c2200013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ba03875953f4d8885a92edc4cca60a26][^c2200013] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.**[^c2200014] In regulation 62 [^c500388] (calculation of grant income)–
 
@@ -286,7 +286,7 @@ Regulation 2
 
   ;
 - (c) in paragraph (3) before the word “dependants” there shall be inserted the word “ adult ” and the words “or intended for an older student under Part IV of that Schedule” shall be omitted;
-- (d) in paragraph (3A) for the word “dependants” in both places where it occurs there shall be substituted the words “ an adult dependant ”and the words “or for an older student” shall be omitted[^key-e509e62fe1c39a53e84f34b8157a1370], and
+- (d) in paragraph (3A) for the word “dependants” in both places where it occurs there shall be substituted the words “ an adult dependant ”and the words “or for an older student” shall be omitted[^c-e509e62fe1c39a53e84f34b8157a1370], and
 - (e) in paragraph (3B) for the word “dependants” there shall be substituted the words “ an adult dependant ”.
 
 **17.**[^c2200015] In regulation 66B(3) [^c500389] (treatment of payments from access funds) and in regulation 68(3) (income treated as capital)–
@@ -315,14 +315,14 @@ Regulation 2
 
 **21.**[^c2200018] In Schedule 7 [^c500395] (applicable amounts in special cases)–
 
-- (a)[^key-83a32a5228cad7e96413e5503282a6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-83a32a5228cad7e96413e5503282a6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-83a32a5228cad7e96413e5503282a6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-23ab5ba8116abd490d948dae38264145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-dab1303e35b877731fe92fbe315e1edf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-dab1303e35b877731fe92fbe315e1edf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-dab1303e35b877731fe92fbe315e1edf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-dab1303e35b877731fe92fbe315e1edf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-83a32a5228cad7e96413e5503282a6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-83a32a5228cad7e96413e5503282a6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-83a32a5228cad7e96413e5503282a6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-23ab5ba8116abd490d948dae38264145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-dab1303e35b877731fe92fbe315e1edf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-dab1303e35b877731fe92fbe315e1edf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-dab1303e35b877731fe92fbe315e1edf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-dab1303e35b877731fe92fbe315e1edf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) for paragraph 16A(a) and (b) in Column (2) there shall be substituted–
 
   > **16A.**  
@@ -371,7 +371,7 @@ Regulation 2
 - (a) in paragraph 7(b) after the words “family income supplement under the Family Income Supplements Act 1970” there shall be inserted the words “ ,working families' tax credit under section 128 of the Contributions and Benefits Act, disabled person’s tax credit under section 129 of that Act, child tax credit, working tax credit, ”, and
 - (b) in paragraph 20, the words “, 44(1)” and the words “, modifications in respect of children and young persons” shall be omitted.
 
-## SCHEDULE 2 — AMENDMENTS TO JOBSEEKER'S ALLOWANCE REGULATIONS[^key-a94b7a17c1e76cdd2fa8222cfc34a350]
+## SCHEDULE 2 — AMENDMENTS TO JOBSEEKER'S ALLOWANCE REGULATIONS[^c-a94b7a17c1e76cdd2fa8222cfc34a350]
 
 Regulation 3
 
@@ -380,12 +380,12 @@ Regulation 3
 **2.**[^c2200025] In regulation 83 [^c500400] (applicable amounts)–
 
 - (a) paragraphs (b) (amount in respect of children and young persons) and (d) (family premium) shall be omitted; and
-- (b)[^key-9c3882b81af499cbff0f302652955079] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9c3882b81af499cbff0f302652955079] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c2200026] In regulation 84 [^c500401] (polygamous marriages)–
 
 - (a) paragraph (1)(c) (amount in respect of children and young persons) and (e) (family premium) shall be omitted, and
-- (b)[^key-6e927aca71554a0f2aadef7b6eeb9f30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6e927aca71554a0f2aadef7b6eeb9f30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.**[^c2200027] In regulation 85 [^c500402] (special cases)–
 
@@ -453,7 +453,7 @@ Regulation 3
 
 **14.**[^c2200037] In regulation 117 (liable relatives interpretation) in the definition of “payment” paragraph (d) shall be omitted.
 
-**15.**[^key-c1ff11fb53c7abcb347367b7ebee70c1][^c2200038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-c1ff11fb53c7abcb347367b7ebee70c1][^c2200038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.**[^c2200039] In regulation 131 [^c500412] (calculation of grant income)–
 
@@ -468,7 +468,7 @@ Regulation 3
 
   ;
 - (c) in paragraph (4) before the word “dependants” there shall be inserted the word “ adult ” and the words “, or intended for an older student under Part IV of that Schedule,” shall be omitted;
-- (d) in paragraph (5) for the word “dependants” in both places where it occurs there shall be substituted the words “ an adult dependant ”and the words “or for an older student” shall be omitted[^key-912d87506619b901dad5125c18722285], and
+- (d) in paragraph (5) for the word “dependants” in both places where it occurs there shall be substituted the words “ an adult dependant ”and the words “or for an older student” shall be omitted[^c-912d87506619b901dad5125c18722285], and
 - (e) in paragraph (5A) for the word “dependants” there shall be substituted the words “ an adult dependant ”.
 
 **17.**[^c2200040] In regulation 136A(3) [^c500413] (treatment of payments from access funds) and regulation 138(3) [^c500414] (income treated as capital)–
@@ -495,15 +495,15 @@ Regulation 3
 
 **21.**[^c2200044] In Schedule 5 [^c500420] (applicable amounts in special cases)–
 
-- (a)[^key-4b568dbef2f3fc9d6815410dff3abf0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-225f864fbea622f7b00d35217b13c75f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4b568dbef2f3fc9d6815410dff3abf0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-225f864fbea622f7b00d35217b13c75f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for paragraph 13A(a) and (b) in Column (2) there shall be substituted–
 
   > **13A.**  
   >
   > - (a) the amount applicable in respect of the claimant only under regulation 83(a), plus any amount which may be applicable to him under regulation 83(e) or (f) plus the amount applicable to him under regulation 87(2) or (3) or, as the case may be, regulation 85;
   > - (b) the amount determined in accordance with that regulation or regulation 85 in respect of the claimant and any partners of his who are not subject to immigration control within the meaning of section 115(9) of the Immigration and Asylum Act and to whom section 115 of that Act does not apply for the purposes of exclusion from entitlement to jobseeker’s allowance;
-- (d)[^key-225f864fbea622f7b00d35217b13c75f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-225f864fbea622f7b00d35217b13c75f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.**[^c2200045] In Schedule 6 [^c500421] (sums to be disregarded in the calculation of earnings)–
 
@@ -543,35 +543,35 @@ Regulation 3
 - (a) in paragraph 12(b) at the end there shall be inserted “,working families' tax credit under section 128 of that Act, disabled person’s tax credit under section 129 of that Act, child tax credit, working tax credit,”, and
 - (b) in paragraph 25 the words “, 106(1)” and the words “, modifications in respect of children and young persons” shall be omitted.
 
-## SCHEDULE 3[^key-4318d7f64dd37b5aa8eaf863245c345d]
+## SCHEDULE 3[^c-4318d7f64dd37b5aa8eaf863245c345d]
 
 **No longer in force.**
 
 Regulations 4 and 5
 
-### PART I — AMENDMENT OF THE HOUSING BENEFIT REGULATIONS[^key-4318d7f64dd37b5aa8eaf863245c345d]
+### PART I — AMENDMENT OF THE HOUSING BENEFIT REGULATIONS[^c-4318d7f64dd37b5aa8eaf863245c345d]
 
-**1.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — AMENDMENT OF THE COUNCIL TAX BENEFIT REGULATIONS[^key-4318d7f64dd37b5aa8eaf863245c345d]
+### PART II — AMENDMENT OF THE COUNCIL TAX BENEFIT REGULATIONS[^c-4318d7f64dd37b5aa8eaf863245c345d]
 
-**1.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4318d7f64dd37b5aa8eaf863245c345d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — OTHER MISCELLANEOUS CONSEQUENTIAL AMENDMENTS
 
@@ -595,7 +595,7 @@ Regulation 6
   - (iii) in paragraph (3) for the words “working families' tax credit” in sub-paragraphs (a) and (c) there shall be substituted the words “ working tax credit ”, sub-paragraph (b) shall be omitted and the words “as equal” in sub-paragraph (c) shall be omitted, and
   - (iv) paragraph (5) shall be omitted.
 
-**2.**[^key-285365557459a9667f3ea68f4399d949] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-285365557459a9667f3ea68f4399d949] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** In regulation 6 [^c500448] (date of claim) of the Social Security (Claims and Payments) Regulations 1987–
 
@@ -632,17 +632,17 @@ These Regulations do not impose a charge on business.
 
 [^c500366]: Marginal citation: *See* section 170 and 173(1)(b) of the Social Security Administration Act 1992 and paragraph 67 of the Schedule 2 to the Jobseekers Act 1995 which added that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee.
 
-[^key-1c894a8967eb79c175eef5b1ede9d489]: Textual amendment: Words in reg. 1(3) substituted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/a)
+[^c-1c894a8967eb79c175eef5b1ede9d489]: Textual amendment: Words in reg. 1(3) substituted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/a)
 
-[^key-d9bd186e84a552532dff2c553a31e561]: Textual amendment: Words in reg. 1(4) substituted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/a)
+[^c-d9bd186e84a552532dff2c553a31e561]: Textual amendment: Words in reg. 1(4) substituted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/a)
 
-[^key-2e0f8793ac4206aceddaa01b96d47eee]: Textual amendment: Reg. 1(4A) to (4C) inserted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/b)
+[^c-2e0f8793ac4206aceddaa01b96d47eee]: Textual amendment: Reg. 1(4A) to (4C) inserted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/b)
 
-[^key-95c173abf7ef1343ab54301463cdc85f]: Textual amendment: Words in reg. 1(7) substituted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/c)
+[^c-95c173abf7ef1343ab54301463cdc85f]: Textual amendment: Words in reg. 1(7) substituted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/c)
 
-[^key-167a022a88dc1d0948ca6162064d9bda]: Textual amendment: Words in reg. 1(8) substituted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/c)
+[^c-167a022a88dc1d0948ca6162064d9bda]: Textual amendment: Words in reg. 1(8) substituted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/c)
 
-[^key-06bdbda40fb2b4b142fffe2d3a1c1854]: Textual amendment: Reg. 1(8A) to (8C) inserted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/d)
+[^c-06bdbda40fb2b4b142fffe2d3a1c1854]: Textual amendment: Reg. 1(8A) to (8C) inserted (8.9.2005) by [Social Security (Tax Credits) Amendment Regulations 2005 (S.I. 2005/2294)](https://www.legislation.gov.uk/uksi/2005/2294), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2294/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2005/2294/regulation/2/2/d)
 
 [^c500367]: Marginal citation: [S.I. 2002/2402](https://www.legislation.gov.uk/uksi/2002/2402).
 
@@ -650,7 +650,7 @@ These Regulations do not impose a charge on business.
 
 [^c500369]: Marginal citation: The relevant amending instruments are [S.I. 1996/1517](https://www.legislation.gov.uk/uksi/1996/1517) and 1996/2538.
 
-[^key-3678644a944dcce11df6069eae0bbe34]: Textual amendment: Words in [reg. 1(12)](https://www.legislation.gov.uk/uksi/2003/455/regulation/1/12) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-3678644a944dcce11df6069eae0bbe34]: Textual amendment: Words in [reg. 1(12)](https://www.legislation.gov.uk/uksi/2003/455/regulation/1/12) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c500372]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -658,33 +658,33 @@ These Regulations do not impose a charge on business.
 
 [^c2199997]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/455/regulation/2) coming in to force and having effect in accordance with {reg. 1(1)-(5)}
 
-[^key-9b8e4cfeafdd96826f919bd425ed2287]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/455/regulation/2) modified (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2017/376/regulation/5/1)
+[^c-9b8e4cfeafdd96826f919bd425ed2287]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/455/regulation/2) modified (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2017/376/regulation/5/1)
 
 [^c2200022]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/455/regulation/3) coming into force and having effect in accordance with {reg. 1(1)(6)-(9)}
 
-[^key-95b2592ee63835c7fd29d362aca9dead]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/455/regulation/3) modified (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/376/regulation/6/1)
+[^c-95b2592ee63835c7fd29d362aca9dead]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/455/regulation/3) modified (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/376/regulation/6/1)
 
-[^key-12bda3a10825b17180e94e137db8a86b]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/455/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-12bda3a10825b17180e94e137db8a86b]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/455/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c2200048]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/455/regulation/6) coming into force in accordance with {reg. 1(10)}
 
 [^c2200050]: Commencement: Reg. 7 coming into force in accordance with {reg. 1(1)-(3)}
 
-[^key-d478006a162f021005841d2120277fdb]: Textual amendment: Words in reg. 7(1) inserted (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/2/a)
+[^c-d478006a162f021005841d2120277fdb]: Textual amendment: Words in reg. 7(1) inserted (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/2/a)
 
-[^key-c4aa3d28427893c15c0bf90513a524f5]: Textual amendment: Words in reg. 7(2) substituted (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/2/b)
+[^c-c4aa3d28427893c15c0bf90513a524f5]: Textual amendment: Words in reg. 7(2) substituted (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/2/b)
 
-[^key-52f3f2b3c18bf012bffcaef91431b00d]: Textual amendment: Words in reg. 7(3) substituted (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/2/c)
+[^c-52f3f2b3c18bf012bffcaef91431b00d]: Textual amendment: Words in reg. 7(3) substituted (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/2/c)
 
-[^key-bf211b03bfbe02a5fb08dbfd620883c3]: Textual amendment: Reg. 7(6)(7) omitted (5.3.2011 for certain purposes and otherwise prosp.) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/674)](https://www.legislation.gov.uk/uksi/2011/674), [reg. 11(a)](https://www.legislation.gov.uk/uksi/2011/674/regulation/11/a)
+[^c-bf211b03bfbe02a5fb08dbfd620883c3]: Textual amendment: Reg. 7(6)(7) omitted (5.3.2011 for certain purposes and otherwise prosp.) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/674)](https://www.legislation.gov.uk/uksi/2011/674), [reg. 11(a)](https://www.legislation.gov.uk/uksi/2011/674/regulation/11/a)
 
 [^c2200023]: Commencement: Reg. 8 coming into force and having effect in accordance with {reg. 1(1)(6)(7)}
 
-[^key-d5b0e66deb8d83b97bcfe0e6380675c1]: Textual amendment: Words in reg. 8(1) inserted (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/3/a)
+[^c-d5b0e66deb8d83b97bcfe0e6380675c1]: Textual amendment: Words in reg. 8(1) inserted (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/3/a)
 
-[^key-0e23ac1e16954e95c870fa9bb1f66d59]: Textual amendment: Reg. 8(5)(6) omitted (5.3.2011 for certain purposes and otherwise prosp.) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/674)](https://www.legislation.gov.uk/uksi/2011/674), [reg. 11(b)](https://www.legislation.gov.uk/uksi/2011/674/regulation/11/b)
+[^c-0e23ac1e16954e95c870fa9bb1f66d59]: Textual amendment: Reg. 8(5)(6) omitted (5.3.2011 for certain purposes and otherwise prosp.) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/674)](https://www.legislation.gov.uk/uksi/2011/674), [reg. 11(b)](https://www.legislation.gov.uk/uksi/2011/674/regulation/11/b)
 
-[^key-b1b2458545a587a866c765589d35aaeb]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/455/schedule/1) modified (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2017/376/regulation/5/1)
+[^c-b1b2458545a587a866c765589d35aaeb]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/455/schedule/1) modified (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2017/376/regulation/5/1)
 
 [^c2199998]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2003/455/schedule/1/paragraph/1) coming into force and having effect in accordance with {reg. 1(1)-(4)}
 
@@ -740,7 +740,7 @@ These Regulations do not impose a charge on business.
 
 [^c500386]: Marginal citation: The relevant amending instrument is [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663).
 
-[^key-ba03875953f4d8885a92edc4cca60a26]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2003/455/schedule/1/paragraph/15) repealed (5.8.2008) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/4/2)
+[^c-ba03875953f4d8885a92edc4cca60a26]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2003/455/schedule/1/paragraph/15) repealed (5.8.2008) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/4/2)
 
 [^c2200013]: Commencement: Sch. 1 para. 15 coming into force and having effect in accordance with {reg. 1(1)-(4)}
 
@@ -748,7 +748,7 @@ These Regulations do not impose a charge on business.
 
 [^c500388]: Marginal citation: The relevant amending instruments are [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), 2000/1922, 2001/2319 and 2002/1589.
 
-[^key-e509e62fe1c39a53e84f34b8157a1370]: Textual amendment: Words in [Sch. 1 para. 16(d)](https://www.legislation.gov.uk/uksi/2003/455/schedule/1/paragraph/16/d) added (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/4/a)
+[^c-e509e62fe1c39a53e84f34b8157a1370]: Textual amendment: Words in [Sch. 1 para. 16(d)](https://www.legislation.gov.uk/uksi/2003/455/schedule/1/paragraph/16/d) added (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/4/a)
 
 [^c2200015]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2003/455/schedule/1/paragraph/17) coming into force and having effect in accordance with {reg. 1(1)-(4)}
 
@@ -772,11 +772,11 @@ These Regulations do not impose a charge on business.
 
 [^c500395]: Marginal citation: The relevant amending instruments are [S.I. 1988/2022](https://www.legislation.gov.uk/uksi/1988/2022), 1989/1678, 1995/516, 1996/1803, 2000/636, 2001/3767 and 2002/668.
 
-[^key-83a32a5228cad7e96413e5503282a6c4]: Textual amendment: Sch. 1 para. 21(a)(c) revoked (10.4.2006 for certain purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [reg. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-83a32a5228cad7e96413e5503282a6c4]: Textual amendment: Sch. 1 para. 21(a)(c) revoked (10.4.2006 for certain purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [reg. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
 
-[^key-23ab5ba8116abd490d948dae38264145]: Textual amendment: [Sch. 1 para. 21(d)](https://www.legislation.gov.uk/uksi/2003/455/schedule/1/paragraph/21/d) repealed (8.4.2007) by virtue of [Social Security (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/719)](https://www.legislation.gov.uk/uksi/2007/719), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/719/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2007/719/regulation/5/2)
+[^c-23ab5ba8116abd490d948dae38264145]: Textual amendment: [Sch. 1 para. 21(d)](https://www.legislation.gov.uk/uksi/2003/455/schedule/1/paragraph/21/d) repealed (8.4.2007) by virtue of [Social Security (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/719)](https://www.legislation.gov.uk/uksi/2007/719), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/719/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2007/719/regulation/5/2)
 
-[^key-dab1303e35b877731fe92fbe315e1edf]: Textual amendment: Sch. 1 para. 21(e)(f) (g) (h) repealed (8.8.2003) by virtue of [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/4/b)
+[^c-dab1303e35b877731fe92fbe315e1edf]: Textual amendment: Sch. 1 para. 21(e)(f) (g) (h) repealed (8.8.2003) by virtue of [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/4/b)
 
 [^c2200019]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2003/455/schedule/1/paragraph/22) coming into force and having effect in accordance with {reg. 1(1)-(4)}
 
@@ -790,7 +790,7 @@ These Regulations do not impose a charge on business.
 
 [^c500398]: Marginal citation: the relevant amending instruments are [S.I. 1990/1549](https://www.legislation.gov.uk/uksi/1990/1549), 1996/206 and 2002/2380.
 
-[^key-a94b7a17c1e76cdd2fa8222cfc34a350]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/455/schedule/2) modified (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/376/regulation/6/1)
+[^c-a94b7a17c1e76cdd2fa8222cfc34a350]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/455/schedule/2) modified (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/376/regulation/6/1)
 
 [^c2200024]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/1) coming into force and having effect in accordance with {reg. 1(1)(6)-(8)}
 
@@ -800,13 +800,13 @@ These Regulations do not impose a charge on business.
 
 [^c500400]: Marginal citation: The relevant amending instrument is [S.I. 2001/3767](https://www.legislation.gov.uk/uksi/2001/3767).
 
-[^key-9c3882b81af499cbff0f302652955079]: Textual amendment: [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/2/b) omitted (8.8.2003) by virtue of [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/5/b)
+[^c-9c3882b81af499cbff0f302652955079]: Textual amendment: [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/2/b) omitted (8.8.2003) by virtue of [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/5/b)
 
 [^c2200026]: Commencement: Sch. 2 para. 3 coming into force and having effect in accordance with {reg. 1(1)(6)-(8)}
 
 [^c500401]: Marginal citation: The relevant amending instrument is [S.I. 2001/3767](https://www.legislation.gov.uk/uksi/2001/3767).
 
-[^key-6e927aca71554a0f2aadef7b6eeb9f30]: Textual amendment: [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/3/b) omitted (8.8.2003) by virtue of [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/5/b)
+[^c-6e927aca71554a0f2aadef7b6eeb9f30]: Textual amendment: [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/3/b) omitted (8.8.2003) by virtue of [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/5/b)
 
 [^c2200027]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/4) coming into force and having effect in accordance with {reg. 1(1)(6)-(8)}
 
@@ -848,7 +848,7 @@ These Regulations do not impose a charge on business.
 
 [^c2200037]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/14) coming into force and having effect in accordance with {reg. 1(1)(6)-(8)}
 
-[^key-c1ff11fb53c7abcb347367b7ebee70c1]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/15) repealed (5.8.2008) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [reg. 4(3)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/4/3)
+[^c-c1ff11fb53c7abcb347367b7ebee70c1]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/15) repealed (5.8.2008) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [reg. 4(3)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/4/3)
 
 [^c2200038]: Commencement: Sch. 2 para. 15 coming into force and having effect in accordance with {reg. 1(1)(6)-(8)}
 
@@ -856,7 +856,7 @@ These Regulations do not impose a charge on business.
 
 [^c500412]: Marginal citation: The relevant amending instruments are [S.I. 2000/1922](https://www.legislation.gov.uk/uksi/2000/1922), 2001/2319, 2002/1589 and 2002/2207.
 
-[^key-912d87506619b901dad5125c18722285]: Textual amendment: Words in [Sch. 2 para. 16(d)](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/16/d) added (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/5/a)
+[^c-912d87506619b901dad5125c18722285]: Textual amendment: Words in [Sch. 2 para. 16(d)](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/16/d) added (8.8.2003) by [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/5/a)
 
 [^c2200040]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/17) coming into force and having effect in accordance with {reg. 1(1)(6)-(8)}
 
@@ -884,9 +884,9 @@ These Regulations do not impose a charge on business.
 
 [^c500420]: Marginal citation: The relevant amending instruments are [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), 1996/1803, 2000/636, 2001/3767 and 2002/668.
 
-[^key-4b568dbef2f3fc9d6815410dff3abf0a]: Textual amendment: [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/21/a) repealed (8.4.2007) by virtue of [Social Security (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/719)](https://www.legislation.gov.uk/uksi/2007/719), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/719/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2007/719/regulation/5/3)
+[^c-4b568dbef2f3fc9d6815410dff3abf0a]: Textual amendment: [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/21/a) repealed (8.4.2007) by virtue of [Social Security (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/719)](https://www.legislation.gov.uk/uksi/2007/719), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/719/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2007/719/regulation/5/3)
 
-[^key-225f864fbea622f7b00d35217b13c75f]: Textual amendment: Sch. 2 para. 21(b) and (d) omitted (8.8.2003) by virtue of [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/5/b)
+[^c-225f864fbea622f7b00d35217b13c75f]: Textual amendment: Sch. 2 para. 21(b) and (d) omitted (8.8.2003) by virtue of [Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No.3) Regulations 2003 (S.I. 2003/1731)](https://www.legislation.gov.uk/uksi/2003/1731), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/5/b)
 
 [^c2200045]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2003/455/schedule/2/paragraph/22) coming into force and having effect in accordance with {reg. 1(1)(6)-(8)}
 
@@ -900,7 +900,7 @@ These Regulations do not impose a charge on business.
 
 [^c500423]: Marginal citation: The relevant amending instrument is [S.I. 2002/2380](https://www.legislation.gov.uk/uksi/2002/2380).
 
-[^key-4318d7f64dd37b5aa8eaf863245c345d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2003/455/schedule/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-4318d7f64dd37b5aa8eaf863245c345d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2003/455/schedule/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2) [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3) [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c500437]: Marginal citation: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556). The relevant amending instrument is [S.I. 1999/2566](https://www.legislation.gov.uk/uksi/1999/2566).
 
@@ -910,7 +910,7 @@ These Regulations do not impose a charge on business.
 
 [^c500440]: Marginal citation: The relevant amending instruments are [S.I. 1995/2558](https://www.legislation.gov.uk/uksi/1995/2558), 1999/2566 and 2000/1483.
 
-[^key-285365557459a9667f3ea68f4399d949]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2003/455/schedule/4/paragraph/2) revoked (5.12.2005) by [Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
+[^c-285365557459a9667f3ea68f4399d949]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2003/455/schedule/4/paragraph/2) revoked (5.12.2005) by [Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
 
 [^c500448]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). The relevant amending instruments are [S.I. 1997/793](https://www.legislation.gov.uk/uksi/1997/793) and 1999/2572.
 

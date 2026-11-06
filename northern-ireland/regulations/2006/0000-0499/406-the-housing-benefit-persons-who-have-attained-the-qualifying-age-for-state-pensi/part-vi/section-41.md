@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Capital limit[^key-e3776f9aba54f870da319a68b33e2519]
+## 41. Capital limit[^c-e3776f9aba54f870da319a68b33e2519]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of section 130(1) of the Act as it applies to housing benefit (
 
 ## Annotations
 
-[^key-e3776f9aba54f870da319a68b33e2519]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/406/regulation/41) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-e3776f9aba54f870da319a68b33e2519]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/406/regulation/41) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

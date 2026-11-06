@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Enforcement of confiscation orders[^key-07866df618a46237492cd1784a5a7b37]
+## 19. Enforcement of confiscation orders[^c-07866df618a46237492cd1784a5a7b37]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07866df618a46237492cd1784a5a7b37]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2015/9/section/19) in force at 1.3.2016 by [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/11/regulation/3))
+[^c-07866df618a46237492cd1784a5a7b37]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2015/9/section/19) in force at 1.3.2016 by [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/11/regulation/3))

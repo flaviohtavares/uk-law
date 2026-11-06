@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 316ZA. Accommodation, supplies and services used in employment duties: payment or reimbursement of expenses[^key-3b8169b53dee3f217ef65142da5a3bf0]
+## 316ZA. Accommodation, supplies and services used in employment duties: payment or reimbursement of expenses[^c-3b8169b53dee3f217ef65142da5a3bf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b8169b53dee3f217ef65142da5a3bf0]: Textual amendment: [S. 316ZA](https://www.legislation.gov.uk/ukpga/2003/1/section/316ZA) inserted (for the tax year 2026-27 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 20(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/20/2)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/20/7)
+[^c-3b8169b53dee3f217ef65142da5a3bf0]: Textual amendment: [S. 316ZA](https://www.legislation.gov.uk/ukpga/2003/1/section/316ZA) inserted (for the tax year 2026-27 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 20(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/20/2)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/20/7)

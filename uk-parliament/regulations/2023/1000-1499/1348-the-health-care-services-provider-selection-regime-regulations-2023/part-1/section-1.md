@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement, extent and territorial application[^key-733a693182086e8ad356519616bfc6bd]
+## 1. Citation, commencement, extent and territorial application[^c-733a693182086e8ad356519616bfc6bd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-733a693182086e8ad356519616bfc6bd]: Commencement: Reg. 1 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-733a693182086e8ad356519616bfc6bd]: Commencement: Reg. 1 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

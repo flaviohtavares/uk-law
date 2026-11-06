@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Management orders following banning order[^key-21577525c1eb0fd664ee09757aea8b34][^key-df978faeaa4b40c85ac20bb8e652c28b]
+## 26. Management orders following banning order[^c-21577525c1eb0fd664ee09757aea8b34][^c-df978faeaa4b40c85ac20bb8e652c28b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 3 amends the Housing Act 2004 to allow interim and final management ord
 
 ## Annotations
 
-[^key-21577525c1eb0fd664ee09757aea8b34]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2016/22/section/26) in force at 3.11.2017 for specified purposes by [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(d)(e)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/d/e)
+[^c-21577525c1eb0fd664ee09757aea8b34]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2016/22/section/26) in force at 3.11.2017 for specified purposes by [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(d)(e)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/d/e)
 
-[^key-df978faeaa4b40c85ac20bb8e652c28b]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2016/22/section/26) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-df978faeaa4b40c85ac20bb8e652c28b]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2016/22/section/26) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

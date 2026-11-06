@@ -25,7 +25,7 @@ summary: ''
 - (a) an offence under Article 4 in respect of a contravention of paragraph (1) of that Article; or
 - (b) an offence under Article 5 in respect of a failure to comply with paragraph (1) of that Article.
 
-(2)[^key-d42f1071377fd642d716e5f90a694ae6] The court by or before which the offender is convicted may make an order requiring him to pay—
+(2)[^c-d42f1071377fd642d716e5f90a694ae6] The court by or before which the offender is convicted may make an order requiring him to pay—
 
 - (a) to the Department or a district council a sum which appears to the court not to exceed the costs arising from investigations of the Department or the district council which resulted in the conviction; and
 - (b) to the Department a sum which appears to the court not to exceed the costs arising from the seizure by the Department under Article 5E of a vehicle involved in the offence.
@@ -38,4 +38,4 @@ summary: ''
 
 [^c20492091]: Textual amendment: Art. 5B and preceding cross-heading inserted (25.6.2007) by [Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611 (N.I. 3))](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [6(1)](https://www.legislation.gov.uk/nisi/2007/611/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/nisi/2007/611/article/6/2)); [S.R. 2007/294](https://www.legislation.gov.uk/nisr/2007/294), [art. 2](https://www.legislation.gov.uk/nisr/2007/294/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/294/schedule)
 
-[^key-d42f1071377fd642d716e5f90a694ae6]: Textual amendment: [Art. 5B(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/5B/2) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(3)](https://www.legislation.gov.uk/nia/2011/5/section/5/3), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
+[^c-d42f1071377fd642d716e5f90a694ae6]: Textual amendment: [Art. 5B(2)](https://www.legislation.gov.uk/nisi/1997/2778/article/5B/2) substituted (2.1.2023) by [Waste and Contaminated Land (Amendment) Act (Northern Ireland) 2011 (c. 5)](https://www.legislation.gov.uk/nia/2011/5), [ss. 5(3)](https://www.legislation.gov.uk/nia/2011/5/section/5/3), [12](https://www.legislation.gov.uk/nia/2011/5/section/12); [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)

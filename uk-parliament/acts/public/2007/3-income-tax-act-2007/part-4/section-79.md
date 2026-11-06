@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Capital allowances restrictions: supplementary[^key-476db765a6242e6706fb3f2a8e2408b7][^key-99ded692b8a95c9ed0ff31c29d83b29e]
+## 79. Capital allowances restrictions: supplementary[^c-476db765a6242e6706fb3f2a8e2408b7][^c-99ded692b8a95c9ed0ff31c29d83b29e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ have the same meaning in those sections as in that Part.
 
 ## Annotations
 
-[^key-476db765a6242e6706fb3f2a8e2408b7]: Modification: Ss. 75-79 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 6 para. 1(11)(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/c)
+[^c-476db765a6242e6706fb3f2a8e2408b7]: Modification: Ss. 75-79 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 6 para. 1(11)(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/6/paragraph/1/11/c)
 
-[^key-99ded692b8a95c9ed0ff31c29d83b29e]: Modification: [Ss. 75-79](https://www.legislation.gov.uk/ukpga/2007/3/section/75) applied (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 2 para. 3(1)(d)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/2/paragraph/3/1/d)
+[^c-99ded692b8a95c9ed0ff31c29d83b29e]: Modification: [Ss. 75-79](https://www.legislation.gov.uk/ukpga/2007/3/section/75) applied (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 2 para. 3(1)(d)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/2/paragraph/3/1/d)

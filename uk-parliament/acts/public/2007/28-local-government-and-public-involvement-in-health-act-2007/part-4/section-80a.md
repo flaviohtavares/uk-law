@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Community governance applications[^key-a1ad6dbcd09fd8b553e91b47e6e09cc9]
+## 80A. Community governance applications[^c-a1ad6dbcd09fd8b553e91b47e6e09cc9]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1ad6dbcd09fd8b553e91b47e6e09cc9]: Textual amendment: S. 80A inserted (E.) (27.3.2015) by [The Legislative Reform (Community Governance Reviews) Order 2015 (S.I. 2015/998)](https://www.legislation.gov.uk/uksi/2015/998), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/998/article/1/3), [4](https://www.legislation.gov.uk/uksi/2015/998/article/4)
+[^c-a1ad6dbcd09fd8b553e91b47e6e09cc9]: Textual amendment: S. 80A inserted (E.) (27.3.2015) by [The Legislative Reform (Community Governance Reviews) Order 2015 (S.I. 2015/998)](https://www.legislation.gov.uk/uksi/2015/998), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/998/article/1/3), [4](https://www.legislation.gov.uk/uksi/2015/998/article/4)

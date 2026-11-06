@@ -47,7 +47,7 @@ In accordance with section 4 of the Scottish Civil Justice Council and Criminal 
 
 The Court of Session therefore makes this Act of Sederunt under the powers conferred by section 104(1) of the Courts Reform (Scotland) Act 2014[^f00002] and all other powers enabling it to do so.
 
-## 1. Citation and commencement etc.[^key-4459932c137b5c737073410b1ecc4294]
+## 1. Citation and commencement etc.[^c-4459932c137b5c737073410b1ecc4294]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Challenges to Validity of EU Instruments (EU Exit) in the Sheriff Appeal Court and Sheriff Court) 2019.
 
@@ -55,7 +55,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Interpretation[^key-1288e4d1b8337a5070ebbd30d5942e2f]
+## 2. Interpretation[^c-1288e4d1b8337a5070ebbd30d5942e2f]
 
 (1) In this Act of Sederunt—
 
@@ -69,13 +69,13 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (2) A reference in this Act of Sederunt to a Form is a reference to that Form in the schedule.
 
-## 3. Application[^key-88940a0a863f03f29c43e9603c933a0a]
+## 3. Application[^c-88940a0a863f03f29c43e9603c933a0a]
 
 This Act of Sederunt applies to challenges to the validity of an EU instrument, as provided for by regulation 3 of the 2019 Regulations, in proceedings before the court.
 
-## 4. Declarations from the court that an EU instrument was invalid – notices[^key-45420d579fe5b7b6602e842f2b3a8faa]
+## 4. Declarations from the court that an EU instrument was invalid – notices[^c-45420d579fe5b7b6602e842f2b3a8faa]
 
-(1) Where a party to the proceedings seeks a declaration from the court that an EU instrument was invalid on any of the grounds set out in the second paragraph of Article 263 TFEU as it has effect immediately before IP completion day[^key-20b7dac4f4df50a827ec5f74f0e4bae7] or the court is considering whether to make such a declaration at its own instance in the proceedings—
+(1) Where a party to the proceedings seeks a declaration from the court that an EU instrument was invalid on any of the grounds set out in the second paragraph of Article 263 TFEU as it has effect immediately before IP completion day[^c-20b7dac4f4df50a827ec5f74f0e4bae7] or the court is considering whether to make such a declaration at its own instance in the proceedings—
 
 - (a) notice in Form 1 is to be given to the relevant UK authorities no later than 21 days, or such other period as the court may direct, before the date on which the declaration is to be made—
   - (i) by the party seeking the declaration; or
@@ -94,7 +94,7 @@ Edinburgh
 
 I.P.D.
 
-## SCHEDULE[^key-720b3e48805249cd793bf7934afcdcb7]
+## SCHEDULE[^c-720b3e48805249cd793bf7934afcdcb7]
 
 Paragraph 2(2)
 
@@ -110,9 +110,9 @@ This Act of Sederunt makes provision for procedures to be followed in civil proc
 
 [^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-4459932c137b5c737073410b1ecc4294]: Commencement: Para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
+[^c-4459932c137b5c737073410b1ecc4294]: Commencement: Para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
 
-[^key-1288e4d1b8337a5070ebbd30d5942e2f]: Commencement: Para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
+[^c-1288e4d1b8337a5070ebbd30d5942e2f]: Commencement: Para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
 
 [^f00003]: Footnote: [S.I. 2019/673](https://www.legislation.gov.uk/uksi/2019/673).
 
@@ -120,10 +120,10 @@ This Act of Sederunt makes provision for procedures to be followed in civil proc
 
 [^f00005]: Footnote: OJ C 202, 7.6.2016, p.1-388.
 
-[^key-88940a0a863f03f29c43e9603c933a0a]: Commencement: Para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
+[^c-88940a0a863f03f29c43e9603c933a0a]: Commencement: Para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
 
-[^key-45420d579fe5b7b6602e842f2b3a8faa]: Commencement: Para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
+[^c-45420d579fe5b7b6602e842f2b3a8faa]: Commencement: Para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/paragraph/1/2)
 
-[^key-20b7dac4f4df50a827ec5f74f0e4bae7]: Textual amendment: Words in [para. 4(1)](https://www.legislation.gov.uk/ssi/2019/329/paragraph/4/1) substituted (31.12.2020 immediately before IP completion day) by [Act of Sederunt (Challenges to Validity of EU Instruments (EU Exit)) (Amendment) 2020 (S.S.I. 2020/472)](https://www.legislation.gov.uk/ssi/2020/472), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/472/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/472/paragraph/3/2)
+[^c-20b7dac4f4df50a827ec5f74f0e4bae7]: Textual amendment: Words in [para. 4(1)](https://www.legislation.gov.uk/ssi/2019/329/paragraph/4/1) substituted (31.12.2020 immediately before IP completion day) by [Act of Sederunt (Challenges to Validity of EU Instruments (EU Exit)) (Amendment) 2020 (S.S.I. 2020/472)](https://www.legislation.gov.uk/ssi/2020/472), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/472/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/472/paragraph/3/2)
 
-[^key-720b3e48805249cd793bf7934afcdcb7]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see para. 1
+[^c-720b3e48805249cd793bf7934afcdcb7]: Commencement: Sch. in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see para. 1

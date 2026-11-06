@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Arbitration in respect of removal of vessels[^key-101bbfcc5b9f771c74c88bcac9c47c4c]
+## 38. Arbitration in respect of removal of vessels[^c-101bbfcc5b9f771c74c88bcac9c47c4c]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ and any dispute under this article is to be determined in accordance with articl
 
 ## Annotations
 
-[^key-101bbfcc5b9f771c74c88bcac9c47c4c]: Commencement: Art. 38 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-101bbfcc5b9f771c74c88bcac9c47c4c]: Commencement: Art. 38 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

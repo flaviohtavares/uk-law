@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 192. Interpretation of Part[^key-cfd184da7739a2b2b398797a86348cde]
+## 192. Interpretation of Part[^c-cfd184da7739a2b2b398797a86348cde]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ In this Part—
 
 ## Annotations
 
-[^key-cfd184da7739a2b2b398797a86348cde]: Commencement: [Reg. 192](https://www.legislation.gov.uk/ssi/2014/292/regulation/192) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-cfd184da7739a2b2b398797a86348cde]: Commencement: [Reg. 192](https://www.legislation.gov.uk/ssi/2014/292/regulation/192) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

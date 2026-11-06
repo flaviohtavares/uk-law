@@ -22,7 +22,7 @@ summary: ''
 
 Article 1(1) and 2
 
-### PART I — GLOSSARY OF EXPRESSIONS[^key-2a1618b31cabab2fa97f5174cbb2be22]
+### PART I — GLOSSARY OF EXPRESSIONS[^c-2a1618b31cabab2fa97f5174cbb2be22]
 
 | Expression | Meaning |
 | --- | --- |
@@ -80,18 +80,18 @@ Article 1(1) and 2
 
 ### PART II — EXPRESSIONS RELATED TO NATIONAL INSURANCE AND SOCIAL SECURITY ACTS AND ORDERS
 
-**1.**[^key-4017a66317166c8f286e46bbd4d2f54d] In this Scheme “employed contributor’s employment”, “graduated contribution”, “graduated retirement benefit”, “non-participating employment”, and “payment in lieu of contributions” have the meaning which they had for the purposes of the National Insurance Act (Northern Ireland) 1966[^f00060] immediately before its repeal by the Social Security (Consequential Provisions) Act 1975[^f00061].
+**1.**[^c-4017a66317166c8f286e46bbd4d2f54d] In this Scheme “employed contributor’s employment”, “graduated contribution”, “graduated retirement benefit”, “non-participating employment”, and “payment in lieu of contributions” have the meaning which they had for the purposes of the National Insurance Act (Northern Ireland) 1966[^f00060] immediately before its repeal by the Social Security (Consequential Provisions) Act 1975[^f00061].
 
-**2.**[^key-25f8f829191f6b689e399fbf7c088066] In this Scheme “state pensionable age” means pensionable age as determined in accordance with the rules in paragraph 1 of Schedule 2 to the Pensions (Northern Ireland) Order 1995[^f00062].
+**2.**[^c-25f8f829191f6b689e399fbf7c088066] In this Scheme “state pensionable age” means pensionable age as determined in accordance with the rules in paragraph 1 of Schedule 2 to the Pensions (Northern Ireland) Order 1995[^f00062].
 
-**3.**[^key-7c2d23def2d4bd73f823ccbd81ebeaa9] In this Scheme a reference to a participating period of relevant employment is a reference to a period of employed contributor’s employment after 5th April 1961 and before state pensionable age other than —
+**3.**[^c-7c2d23def2d4bd73f823ccbd81ebeaa9] In this Scheme a reference to a participating period of relevant employment is a reference to a period of employed contributor’s employment after 5th April 1961 and before state pensionable age other than —
 
 - (a) service in the armed forces; and
 - (b) non-participating employment at the end of which no payment in lieu of contributions fell to be made,
 
 and for the purposes of this paragraph a period of employed contributor’s employment or of non-participating employment shall be treated as having continued during periods of holiday and temporary incapacity for work and similar temporary interruptions.
 
-**4.**[^key-e1d5f069f2f0958c647b955ed8bda716] (1) In this Scheme—
+**4.**[^c-e1d5f069f2f0958c647b955ed8bda716] (1) In this Scheme—
 
 - (a) any reference to the secured portion of a pension is a reference to the portion of it which equals the assumed graduated retirement benefit; and
 - (b) any reference to the unsecured portion of a pension shall be construed accordingly.
@@ -104,19 +104,19 @@ and for the purposes of this paragraph a period of employed contributor’s empl
 
 and for the purposes of this paragraph a period of non-participating employment shall be treated as having continued during periods of holiday and temporary incapacity for work and similar temporary interruptions.
 
-**5.**[^key-93d14f6a6d0e800d4acdeb090e4f09c0] For the purposes of this Scheme the annual rate of graduated retirement benefit shall be calculated as if there were 52 1/6th weeks in a year.
+**5.**[^c-93d14f6a6d0e800d4acdeb090e4f09c0] For the purposes of this Scheme the annual rate of graduated retirement benefit shall be calculated as if there were 52 1/6th weeks in a year.
 
-**6.**[^key-3a2286dd78d3114049ac445f8704b057] In this Scheme “contracted-out employment”, “contracted-out scheme”, “earnings factors”, “guaranteed minimum”, “guaranteed minimum pension” and “contributions equivalent premium” have the meanings which they have for the purposes of the Pension Schemes (Northern Ireland) Act 1993.
+**6.**[^c-3a2286dd78d3114049ac445f8704b057] In this Scheme “contracted-out employment”, “contracted-out scheme”, “earnings factors”, “guaranteed minimum”, “guaranteed minimum pension” and “contributions equivalent premium” have the meanings which they have for the purposes of the Pension Schemes (Northern Ireland) Act 1993.
 
-**7.**[^key-85b61fab7c295502b6b6fbcd1564b271] In this Scheme any reference to a case in which a contributions equivalent premium has been paid includes a reference to a case in which such a premium is payable but has not been paid by virtue of regulations under Schedule 1 to the Pension Schemes (Northern Ireland) Act 1993 dispensing with the payment of such a premium where its amount would be inconsiderable.
+**7.**[^c-85b61fab7c295502b6b6fbcd1564b271] In this Scheme any reference to a case in which a contributions equivalent premium has been paid includes a reference to a case in which such a premium is payable but has not been paid by virtue of regulations under Schedule 1 to the Pension Schemes (Northern Ireland) Act 1993 dispensing with the payment of such a premium where its amount would be inconsiderable.
 
-**8.**[^key-b972966732d2bfb2ee9218f93dc78206] In this Scheme any reference to the guaranteed minimum in relation to a pension under a pension scheme at a particular time is a reference to the amount certified by the Department for Social Development as that minimum at that time.
+**8.**[^c-b972966732d2bfb2ee9218f93dc78206] In this Scheme any reference to the guaranteed minimum in relation to a pension under a pension scheme at a particular time is a reference to the amount certified by the Department for Social Development as that minimum at that time.
 
-**9.**[^key-db5276cd464969baf6c857c2869effeb] In the case of a person entitled to reckon a period of pensionable service by virtue of service or employment in Great Britain in respect of which he was subject to superannuation arrangements, this Scheme has effect as if any reference to the National Insurance Act (Northern Ireland) 1966 or the Pension Schemes (Northern Ireland) Act 1993 included a reference to any enactment of the Parliament of the United Kingdom making provision for corresponding purposes.
+**9.**[^c-db5276cd464969baf6c857c2869effeb] In the case of a person entitled to reckon a period of pensionable service by virtue of service or employment in Great Britain in respect of which he was subject to superannuation arrangements, this Scheme has effect as if any reference to the National Insurance Act (Northern Ireland) 1966 or the Pension Schemes (Northern Ireland) Act 1993 included a reference to any enactment of the Parliament of the United Kingdom making provision for corresponding purposes.
 
 ## Annotations
 
-[^key-2a1618b31cabab2fa97f5174cbb2be22]: Commencement: Sch. 1 Pt. I in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-2a1618b31cabab2fa97f5174cbb2be22]: Commencement: Sch. 1 Pt. I in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00038]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919) Article 107B was inserted by [S.I. 2002/2386 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2386) Article 3
 
@@ -162,26 +162,26 @@ and for the purposes of this paragraph a period of non-participating employment 
 
 [^f00059]: Footnote: [1969 c. 13 (N.I.)](https://www.legislation.gov.uk/apni/1969/13)
 
-[^key-4017a66317166c8f286e46bbd4d2f54d]: Commencement: Sch. 1 Pt. 2 para. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-4017a66317166c8f286e46bbd4d2f54d]: Commencement: Sch. 1 Pt. 2 para. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00060]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6)
 
 [^f00061]: Footnote: [1975 c. 18](https://www.legislation.gov.uk/ukpga/1975/18)
 
-[^key-25f8f829191f6b689e399fbf7c088066]: Commencement: Sch. 1 Pt. 2 para. 2 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-25f8f829191f6b689e399fbf7c088066]: Commencement: Sch. 1 Pt. 2 para. 2 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
 [^f00062]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-7c2d23def2d4bd73f823ccbd81ebeaa9]: Commencement: Sch. 1 Pt. 2 para. 3 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-7c2d23def2d4bd73f823ccbd81ebeaa9]: Commencement: Sch. 1 Pt. 2 para. 3 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-e1d5f069f2f0958c647b955ed8bda716]: Commencement: Sch. 1 Pt. 2 para. 4 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-e1d5f069f2f0958c647b955ed8bda716]: Commencement: Sch. 1 Pt. 2 para. 4 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-93d14f6a6d0e800d4acdeb090e4f09c0]: Commencement: [Sch. 1 Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/5) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-93d14f6a6d0e800d4acdeb090e4f09c0]: Commencement: [Sch. 1 Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/5) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-3a2286dd78d3114049ac445f8704b057]: Commencement: [Sch. 1 Pt. 2 para. 6](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/6) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-3a2286dd78d3114049ac445f8704b057]: Commencement: [Sch. 1 Pt. 2 para. 6](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/6) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-85b61fab7c295502b6b6fbcd1564b271]: Commencement: [Sch. 1 Pt. 2 para. 7](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/7) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-85b61fab7c295502b6b6fbcd1564b271]: Commencement: [Sch. 1 Pt. 2 para. 7](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/7) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-b972966732d2bfb2ee9218f93dc78206]: Commencement: [Sch. 1 Pt. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/8) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-b972966732d2bfb2ee9218f93dc78206]: Commencement: [Sch. 1 Pt. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/8) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-db5276cd464969baf6c857c2869effeb]: Commencement: [Sch. 1 Pt. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/9) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-db5276cd464969baf6c857c2869effeb]: Commencement: [Sch. 1 Pt. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/144/schedule/1/part/2/paragraph/9) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)

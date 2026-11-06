@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (Miscellaneous Amendments) (England) Regulations 2012 (revoked)[^key-cf96b7a7ede30ec8a028cdb6a7c16601]
+The Plant Health (Miscellaneous Amendments) (England) Regulations 2012 (revoked)[^c-cf96b7a7ede30ec8a028cdb6a7c16601]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st April 2012
 
-[^key-cf96b7a7ede30ec8a028cdb6a7c16601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf96b7a7ede30ec8a028cdb6a7c16601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-cf96b7a7ede30ec8a028cdb6a7c16601]
+## 1. Title, commencement and interpretation[^c-cf96b7a7ede30ec8a028cdb6a7c16601]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Potatoes Originating in Egypt (England) Regulations 2004[^key-cf96b7a7ede30ec8a028cdb6a7c16601]
+## 2. Amendment of the Potatoes Originating in Egypt (England) Regulations 2004[^c-cf96b7a7ede30ec8a028cdb6a7c16601]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the PHO: information gateway[^key-cf96b7a7ede30ec8a028cdb6a7c16601]
+## 3. Amendment of the PHO: information gateway[^c-cf96b7a7ede30ec8a028cdb6a7c16601]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the PHO: Switzerland[^key-cf96b7a7ede30ec8a028cdb6a7c16601]
+## 4. Amendment of the PHO: Switzerland[^c-cf96b7a7ede30ec8a028cdb6a7c16601]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf96b7a7ede30ec8a028cdb6a7c16601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf96b7a7ede30ec8a028cdb6a7c16601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf96b7a7ede30ec8a028cdb6a7c16601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf96b7a7ede30ec8a028cdb6a7c16601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf96b7a7ede30ec8a028cdb6a7c16601]: Textual amendment: Regulations revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)
+[^c-cf96b7a7ede30ec8a028cdb6a7c16601]: Textual amendment: Regulations revoked (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)

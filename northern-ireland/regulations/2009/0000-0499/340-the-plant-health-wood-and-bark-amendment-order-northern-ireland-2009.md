@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Wood and Bark) (Amendment) Order (Northern Ireland) 2009 (revoked)[^key-dcb3c1e4efa31ffba4005de712f62ad8]
+The Plant Health (Wood and Bark) (Amendment) Order (Northern Ireland) 2009 (revoked)[^c-dcb3c1e4efa31ffba4005de712f62ad8]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 30th October 2009
 
-[^key-dcb3c1e4efa31ffba4005de712f62ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcb3c1e4efa31ffba4005de712f62ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dcb3c1e4efa31ffba4005de712f62ad8]
+## 1. Citation and commencement[^c-dcb3c1e4efa31ffba4005de712f62ad8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to The Plant Health (Wood and Bark) Order (Northern Ireland) 2006[^key-dcb3c1e4efa31ffba4005de712f62ad8]
+## 2. Amendments to The Plant Health (Wood and Bark) Order (Northern Ireland) 2006[^c-dcb3c1e4efa31ffba4005de712f62ad8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-dcb3c1e4efa31ffba4005de712f62ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dcb3c1e4efa31ffba4005de712f62ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-dcb3c1e4efa31ffba4005de712f62ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-dcb3c1e4efa31ffba4005de712f62ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcb3c1e4efa31ffba4005de712f62ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcb3c1e4efa31ffba4005de712f62ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcb3c1e4efa31ffba4005de712f62ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcb3c1e4efa31ffba4005de712f62ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dcb3c1e4efa31ffba4005de712f62ad8]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2009/340) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6)
+[^c-dcb3c1e4efa31ffba4005de712f62ad8]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2009/340) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6)

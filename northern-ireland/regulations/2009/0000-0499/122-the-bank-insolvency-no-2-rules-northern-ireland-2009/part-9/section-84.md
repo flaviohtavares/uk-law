@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Replacement of bank liquidator by creditors[^key-7e3dad563db00312b74fb49cbe7175dd]
+## 84. Replacement of bank liquidator by creditors[^c-7e3dad563db00312b74fb49cbe7175dd]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e3dad563db00312b74fb49cbe7175dd]: Commencement: Rule 84 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-7e3dad563db00312b74fb49cbe7175dd]: Commencement: Rule 84 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

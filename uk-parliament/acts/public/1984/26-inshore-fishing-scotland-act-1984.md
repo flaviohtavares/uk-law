@@ -85,7 +85,7 @@ No person may fish by means of a trawl, seine or other gear designed for fishing
 - (c) if the vehicle or equipment was subject to hire, the hirer; and
 - (d) any person who was in charge of the vehicle or equipment.
 
-(1B)[^key-64684d21377bae54ef68e640e749a401] A person commits an offence if—
+(1B)[^c-64684d21377bae54ef68e640e749a401] A person commits an offence if—
 
 - (a) the person is found in, or in the immediate vicinity of, the area specified in an order under section 1 of this Act;
 - (b) the person is found there at, or about, a time at which the prohibition under the order applies;
@@ -103,7 +103,7 @@ No person may fish by means of a trawl, seine or other gear designed for fishing
 
 and any fish or gear forfeited under this subsection shall be disposed of as the court may direct.
 
-## 4A. Contravention of orders under section 1: presumption[^key-d3e76e004ee50ff28a188958f7fec145][^key-2f88a0fc515f6cb378b99e9b3f2ea1b6]
+## 4A. Contravention of orders under section 1: presumption[^c-d3e76e004ee50ff28a188958f7fec145][^c-2f88a0fc515f6cb378b99e9b3f2ea1b6]
 
 (1) Subsection (2) applies in proceedings against a person (“the accused”) for an offence under section 4(1) of this Act involving fishing in contravention of a prohibition contained in an order under section 1 of this Act (other than a prohibition under section 1(2)(d)).
 
@@ -201,7 +201,7 @@ shall be guilty of an offence and liable on summary conviction to a fine of or n
 
 (2) A British sea-fishery officer shall not be liable in any civil or criminal proceedings for anything done in purported exercise of the powers conferred upon him by section 5, if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
 
-## 6A. Power to enter land[^key-01e6b98832cd2a3fb1e04959f1c6e3f3]
+## 6A. Power to enter land[^c-01e6b98832cd2a3fb1e04959f1c6e3f3]
 
 (1) The powers conferred by this section are exercisable by British sea-fisheries officers in relation to any land for the purposes of enforcing the provisions of any order under section 1 of this Act and the provisions of section 3 of this Act.
 
@@ -221,9 +221,9 @@ shall be guilty of an offence and liable on summary conviction to a fine of or n
 
 (5) It is a defence for a person charged with an offence under subsection (4)(b) above of failing to comply with a requirement mentioned in that subsection to show that the person had a reasonable excuse for failing to so comply.
 
-(6)[^key-efab2cd53f2c6a63f928f616e94ed6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-efab2cd53f2c6a63f928f616e94ed6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-efab2cd53f2c6a63f928f616e94ed6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-efab2cd53f2c6a63f928f616e94ed6c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) A person who commits an offence under subsection (4) above is liable—
 
@@ -234,11 +234,11 @@ shall be guilty of an offence and liable on summary conviction to a fine of or n
 
 ## 7. Powers of water bailiffs, etc.
 
-(1) This section applies where an order under section 1 of this Act imposes any prohibition or restriction on fishing for salmon or migratory trout within any waters which form part of the district of a district salmon fishery board within the meaning of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15) (“[^key-51db389f69e4ca15b3e0f1f1f8fa788f]**the 2003 Act**”)..
+(1) This section applies where an order under section 1 of this Act imposes any prohibition or restriction on fishing for salmon or migratory trout within any waters which form part of the district of a district salmon fishery board within the meaning of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15) (“[^c-51db389f69e4ca15b3e0f1f1f8fa788f]**the 2003 Act**”)..
 
-(2)[^key-8bd1d312bee576ba6bdd8adad29df0f7] The provisions of sections 52, 53, 54, 55, 57, 58 and 60(3) and (4) of the 2003 Act (which relate to enforcement and forfeiture) shall apply in relation to a contravention of an order referred to in subsection (1) above as they apply in relation to a contravention of that Act.
+(2)[^c-8bd1d312bee576ba6bdd8adad29df0f7] The provisions of sections 52, 53, 54, 55, 57, 58 and 60(3) and (4) of the 2003 Act (which relate to enforcement and forfeiture) shall apply in relation to a contravention of an order referred to in subsection (1) above as they apply in relation to a contravention of that Act.
 
-## 7A. Powers of water bailiffs in the Tweed district etc.[^key-e1d365d9761ca50149434767091cca2c]
+## 7A. Powers of water bailiffs in the Tweed district etc.[^c-e1d365d9761ca50149434767091cca2c]
 
 (1) This section applies where an order under section 1 of this Act imposes any prohibition or restriction on fishing for salmon or migratory trout within any waters which form part of the Tweed district (as defined in article 2(1) of the Scotland Act 1998 (River Tweed) Order 2006 ([S.I. 2006/2913](https://www.legislation.gov.uk/uksi/2006/2913))).
 
@@ -278,7 +278,7 @@ shall be guilty of an offence and liable on summary conviction to a fine of or n
 
 (2) The enactments specified in the first column of Schedule 2 to this Act, which include certain spent provisions, are repealed to the extent specified in the third column of that Schedule.
 
-## 10A. Crown application: Scotland[^key-6aed0ec9be9cd5169960f589b258e3df]
+## 10A. Crown application: Scotland[^c-6aed0ec9be9cd5169960f589b258e3df]
 
 (1) Section 6A binds the Crown and applies in relation to Crown land as it applies in relation to other land.
 
@@ -413,25 +413,25 @@ Section 10.
 
 [^c757570]: Textual amendment: S. 4(1A) inserted (8.8.1994) by [1994 c. 27](https://www.legislation.gov.uk/ukpga/1994/27), [s. 2](https://www.legislation.gov.uk/ukpga/1994/27/section/2); [S.I. 1994/2124](https://www.legislation.gov.uk/uksi/1994/2124), [art. 2](https://www.legislation.gov.uk/uksi/1994/2124/article/2)
 
-[^key-64684d21377bae54ef68e640e749a401]: Textual amendment: [S. 4(1B)](https://www.legislation.gov.uk/ukpga/1984/26/section/4/1B) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 49(2)](https://www.legislation.gov.uk/asp/2013/7/section/49/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-64684d21377bae54ef68e640e749a401]: Textual amendment: [S. 4(1B)](https://www.legislation.gov.uk/ukpga/1984/26/section/4/1B) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 49(2)](https://www.legislation.gov.uk/asp/2013/7/section/49/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-d3e76e004ee50ff28a188958f7fec145]: Modification: [S. 4A](https://www.legislation.gov.uk/ukpga/1984/26/section/4A) excluded (16.9.2013) by [The Aquaculture and Fisheries (Scotland) Act 2013 (Commencement and Transitional Provisions) Order 2013 (S.S.I. 2013/249)](https://www.legislation.gov.uk/ssi/2013/249), [art. 3](https://www.legislation.gov.uk/ssi/2013/249/article/3)
+[^c-d3e76e004ee50ff28a188958f7fec145]: Modification: [S. 4A](https://www.legislation.gov.uk/ukpga/1984/26/section/4A) excluded (16.9.2013) by [The Aquaculture and Fisheries (Scotland) Act 2013 (Commencement and Transitional Provisions) Order 2013 (S.S.I. 2013/249)](https://www.legislation.gov.uk/ssi/2013/249), [art. 3](https://www.legislation.gov.uk/ssi/2013/249/article/3)
 
-[^key-2f88a0fc515f6cb378b99e9b3f2ea1b6]: Textual amendment: S. 4A inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 49(3)](https://www.legislation.gov.uk/asp/2013/7/section/49/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/249/article/3))
+[^c-2f88a0fc515f6cb378b99e9b3f2ea1b6]: Textual amendment: S. 4A inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 49(3)](https://www.legislation.gov.uk/asp/2013/7/section/49/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/249/article/3))
 
 [^c757571]: Textual amendment: S. 5(1)-(4) substituted (8.8.1994) by [1994 c. 27](https://www.legislation.gov.uk/ukpga/1994/27), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1994/27/section/3/1); [S.I. 1994/2124](https://www.legislation.gov.uk/uksi/1994/2124), [art. 2](https://www.legislation.gov.uk/uksi/1994/2124/article/2)
 
 [^c757572]: Textual amendment: S. 5(5A) inserted (8.8.1994) by [1994 c. 27](https://www.legislation.gov.uk/ukpga/1994/27), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1994/27/section/3/2); [S.I. 1994/2124](https://www.legislation.gov.uk/uksi/1994/2124), [art. 2](https://www.legislation.gov.uk/uksi/1994/2124/article/2)
 
-[^key-01e6b98832cd2a3fb1e04959f1c6e3f3]: Textual amendment: S. 6A inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 50(2)](https://www.legislation.gov.uk/asp/2013/7/section/50/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-01e6b98832cd2a3fb1e04959f1c6e3f3]: Textual amendment: S. 6A inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 50(2)](https://www.legislation.gov.uk/asp/2013/7/section/50/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-efab2cd53f2c6a63f928f616e94ed6c4]: Textual amendment: [S. 6A(6)](https://www.legislation.gov.uk/ukpga/1984/26/section/6A/6)[(7)](https://www.legislation.gov.uk/ukpga/1984/26/section/6A/7) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 9](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/9)
+[^c-efab2cd53f2c6a63f928f616e94ed6c4]: Textual amendment: [S. 6A(6)](https://www.legislation.gov.uk/ukpga/1984/26/section/6A/6)[(7)](https://www.legislation.gov.uk/ukpga/1984/26/section/6A/7) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 9](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/9)
 
-[^key-51db389f69e4ca15b3e0f1f1f8fa788f]: Textual amendment: Words in s. 7(1) substituted (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [sch. 4 para. 2(2)](https://www.legislation.gov.uk/asp/2003/15/schedule/4/paragraph/2/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-51db389f69e4ca15b3e0f1f1f8fa788f]: Textual amendment: Words in s. 7(1) substituted (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [sch. 4 para. 2(2)](https://www.legislation.gov.uk/asp/2003/15/schedule/4/paragraph/2/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-8bd1d312bee576ba6bdd8adad29df0f7]: Textual amendment: S. 7(2) substituted (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [sch. 4 para. 2(3)](https://www.legislation.gov.uk/asp/2003/15/schedule/4/paragraph/2/3) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-8bd1d312bee576ba6bdd8adad29df0f7]: Textual amendment: S. 7(2) substituted (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [sch. 4 para. 2(3)](https://www.legislation.gov.uk/asp/2003/15/schedule/4/paragraph/2/3) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-e1d365d9761ca50149434767091cca2c]: Textual amendment: S. 7A inserted (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/paragraph/3)
+[^c-e1d365d9761ca50149434767091cca2c]: Textual amendment: S. 7A inserted (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/paragraph/3)
 
 [^c757576]: Textual amendment: Word substituted by [Debtors (Scotland) Act 1987 (c. 18, SIF 45:2)](https://www.legislation.gov.uk/ukpga/1987/18), [s. 108(1)(2)](https://www.legislation.gov.uk/ukpga/1987/18/section/108/1/2), [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/1987/18/schedule/6/paragraph/25), [Sch. 7 paras. 5](https://www.legislation.gov.uk/ukpga/1987/18/schedule/7/paragraph/5), [9(1)](https://www.legislation.gov.uk/ukpga/1987/18/schedule/7/paragraph/9/1)
 
@@ -459,7 +459,7 @@ Section 10.
 
 [^c757591]: Textual amendment: Words in s. 9(2) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para 72(4)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/72/4); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-6aed0ec9be9cd5169960f589b258e3df]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1984/26/section/10A) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 50(3)](https://www.legislation.gov.uk/asp/2013/7/section/50/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-6aed0ec9be9cd5169960f589b258e3df]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1984/26/section/10A) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 50(3)](https://www.legislation.gov.uk/asp/2013/7/section/50/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
 [^c757593]: Modification: Power of appointment conferred by s. 11(2) fully exercised: 26.7.1985 appointed by [S.I. 1985/961](https://www.legislation.gov.uk/uksi/1985/961)
 

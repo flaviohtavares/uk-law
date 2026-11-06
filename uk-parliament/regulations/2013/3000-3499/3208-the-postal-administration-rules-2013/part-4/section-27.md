@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Admission and rejection of claims[^key-f6cdb3e53b1e8a0ec663544aa0b06332]
+## 27. Admission and rejection of claims[^c-f6cdb3e53b1e8a0ec663544aa0b06332]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6cdb3e53b1e8a0ec663544aa0b06332]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2013/3208/rule/27) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f6cdb3e53b1e8a0ec663544aa0b06332]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2013/3208/rule/27) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

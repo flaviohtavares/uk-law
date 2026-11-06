@@ -50,13 +50,13 @@ Provided that except by virtue of paragraph (*d*) of this subsection the court s
 
 (2) In the foregoing subsection “**protective trusts**” means the trusts specified in paragraphs (i) and (ii) of subsection (1) of section thirty-three of the [^c618705]Trustee Act, 1925, or any like trusts, “**the principal beneficiary**” has the same meaning as in the said subsection (1) and “**discretionary interest**” means an interest arising under the trust specified in paragraph (ii) of the said subsection (1) or any like trust.
 
-(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c618706] the jurisdiction conferred by subsection (1) of this section shall be exercisable by the High Court, except that the question whether the carrying out of any arrangement would be for the benefit of a person falling within paragraph (*a*) of the said subsection (1) who lacks capacity (within the meaning of the Mental Capacity Act 2005) to give his assent is to be determined by the Court of Protection[^key-55818ae1a67882c24bf707f75eff27c7]
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c618706] the jurisdiction conferred by subsection (1) of this section shall be exercisable by the High Court, except that the question whether the carrying out of any arrangement would be for the benefit of a person falling within paragraph (*a*) of the said subsection (1) who lacks capacity (within the meaning of the Mental Capacity Act 2005) to give his assent is to be determined by the Court of Protection[^c-55818ae1a67882c24bf707f75eff27c7]
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c618710]
 
 (5) Nothing in the foregoing provisions of this section shall apply to trusts affecting property settled by Act of Parliament.
 
-(6) Nothing in this section shall be taken to limit the powers of the Court of Protection[^key-e4bf4c1879b2d4615d88758d94a3587d]
+(6) Nothing in this section shall be taken to limit the powers of the Court of Protection[^c-e4bf4c1879b2d4615d88758d94a3587d]
 
 ## 2. Extent and provisions as to Northern Ireland.
 
@@ -76,10 +76,10 @@ This Act may be cited as the Variation of Trusts Act, 1958.
 
 [^c618706]: Textual amendment: Words repealed by [County Courts Act 1959 (c. 22)](https://www.legislation.gov.uk/ukpga/1959/22), [Sch. 3](https://www.legislation.gov.uk/ukpga/1959/22/schedule/3)
 
-[^key-55818ae1a67882c24bf707f75eff27c7]: Textual amendment: Words in s. 1(3) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 9(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/9/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-55818ae1a67882c24bf707f75eff27c7]: Textual amendment: Words in s. 1(3) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 9(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/9/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c618710]: Textual amendment: S. 1(4) repealed by [County Courts Act 1959 (c. 22)](https://www.legislation.gov.uk/ukpga/1959/22), [Sch. 3](https://www.legislation.gov.uk/ukpga/1959/22/schedule/3)
 
-[^key-e4bf4c1879b2d4615d88758d94a3587d]: Textual amendment: Words in s. 1(6) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 9(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/9/b) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-e4bf4c1879b2d4615d88758d94a3587d]: Textual amendment: Words in s. 1(6) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 9(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/9/b) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c618715]: Textual amendment: Words repealed by [Northern Ireland Constitution Act 1973 (c. 36, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1973/36), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/41/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6)

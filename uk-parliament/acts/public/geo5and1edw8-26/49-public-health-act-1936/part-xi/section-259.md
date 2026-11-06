@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 259. Nuisances in connection with water-courses, ditches, ponds, &c.[^c611660][^c611661][^key-0d22f6694695547fe2d376ddc0ce72fa][^key-a61fc588436e08e55eac60caaddf656c]
+## 259. Nuisances in connection with water-courses, ditches, ponds, &c.[^c611660][^c611661][^c-0d22f6694695547fe2d376ddc0ce72fa][^c-a61fc588436e08e55eac60caaddf656c]
 
 *Extent: E+W*
 
@@ -37,9 +37,9 @@ summary: ''
 
 [^c611661]: Modification: Power to apply s. 259 conferred by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [s. 112(3)](https://www.legislation.gov.uk/ukpga/1968/73/section/112/3)
 
-[^key-0d22f6694695547fe2d376ddc0ce72fa]: Modification: [S. 259](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/259) modified by SI 2010/675 Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
+[^c-0d22f6694695547fe2d376ddc0ce72fa]: Modification: [S. 259](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/259) modified by SI 2010/675 Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
 
-[^key-a61fc588436e08e55eac60caaddf656c]: Modification: [S. 259](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/259) modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-a61fc588436e08e55eac60caaddf656c]: Modification: [S. 259](https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/section/259) modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c611662]: Textual amendment: Words substituted by [Environmental Protection Act 1990 (c. 43, SIF 46:4)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 162(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/162/1), [Sch. 15](https://www.legislation.gov.uk/ukpga/1990/43/schedule/15), [para. 4(3)](https://www.legislation.gov.uk/ukpga/1990/43/paragraph/4/3)
 

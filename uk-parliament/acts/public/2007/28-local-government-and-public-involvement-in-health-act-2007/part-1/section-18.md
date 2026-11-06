@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Staff commissions[^key-6f50c8b10e2753a97d73f7b77c5ebad1]
+## 18. Staff commissions[^c-6f50c8b10e2753a97d73f7b77c5ebad1]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f50c8b10e2753a97d73f7b77c5ebad1]: Commencement: S. 18 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-6f50c8b10e2753a97d73f7b77c5ebad1]: Commencement: S. 18 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

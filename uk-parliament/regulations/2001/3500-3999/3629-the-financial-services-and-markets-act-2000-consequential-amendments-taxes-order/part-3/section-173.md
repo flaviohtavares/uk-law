@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Qualifying investments for a cash component[^key-ba9f4c3a2bcc4c1360c26cf36fac1495]
+## 173. Qualifying investments for a cash component[^c-ba9f4c3a2bcc4c1360c26cf36fac1495]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ In regulation 8(2) (qualifying investments for a cash component)[^f00147]—
 
 ## Annotations
 
-[^key-ba9f4c3a2bcc4c1360c26cf36fac1495]: Commencement: Art. 173 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-ba9f4c3a2bcc4c1360c26cf36fac1495]: Commencement: Art. 173 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00147]: Footnote: Regulation 8(2) was relevantly amended by regulation 6 of S.I. [1998/3174](https://www.legislation.gov.uk/uksi/1998/3174).

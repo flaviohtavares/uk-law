@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Permits in relation to use of vehicles by educational and other bodies[^key-e6c08c0f0e867834daf5796a1d7e0926]
+## 57. Permits in relation to use of vehicles by educational and other bodies[^c-e6c08c0f0e867834daf5796a1d7e0926]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6c08c0f0e867834daf5796a1d7e0926]: Commencement: S. 57 in force at 6.4.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
+[^c-e6c08c0f0e867834daf5796a1d7e0926]: Commencement: S. 57 in force at 6.4.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)

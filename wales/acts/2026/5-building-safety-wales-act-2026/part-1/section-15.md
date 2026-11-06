@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Power to make further provision for the purposes of sections 8 and ‍9[^key-ccb82d2ff7f9cba118dd2a3795e4d01f]
+## 15. Power to make further provision for the purposes of sections 8 and ‍9[^c-ccb82d2ff7f9cba118dd2a3795e4d01f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccb82d2ff7f9cba118dd2a3795e4d01f]: Commencement: S. 15 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)
+[^c-ccb82d2ff7f9cba118dd2a3795e4d01f]: Commencement: S. 15 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)

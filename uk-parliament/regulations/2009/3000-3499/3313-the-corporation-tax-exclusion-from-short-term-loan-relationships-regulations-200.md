@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Corporation Tax (Exclusion from Short-Term Loan Relationships) Regulations 2009 (revoked)[^key-8b443caff41ee9cfd07cd3d77ee67256]
+The Corporation Tax (Exclusion from Short-Term Loan Relationships) Regulations 2009 (revoked)[^c-8b443caff41ee9cfd07cd3d77ee67256]
 
 Made
 
@@ -42,36 +42,36 @@ Coming into force
 
 1st January 2010
 
-[^key-8b443caff41ee9cfd07cd3d77ee67256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b443caff41ee9cfd07cd3d77ee67256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8b443caff41ee9cfd07cd3d77ee67256]
+## 1. Citation, commencement and interpretation[^c-8b443caff41ee9cfd07cd3d77ee67256]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exclusion from short-term loan relationship[^key-8b443caff41ee9cfd07cd3d77ee67256]
+## 2. Exclusion from short-term loan relationship[^c-8b443caff41ee9cfd07cd3d77ee67256]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Meaning of long-term funding purpose[^key-8b443caff41ee9cfd07cd3d77ee67256]
+## 3. Meaning of long-term funding purpose[^c-8b443caff41ee9cfd07cd3d77ee67256]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Anti-avoidance[^key-8b443caff41ee9cfd07cd3d77ee67256]
+## 4. Anti-avoidance[^c-8b443caff41ee9cfd07cd3d77ee67256]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Long-term aggregated loan relationship[^key-8b443caff41ee9cfd07cd3d77ee67256]
+## 5. Long-term aggregated loan relationship[^c-8b443caff41ee9cfd07cd3d77ee67256]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b443caff41ee9cfd07cd3d77ee67256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b443caff41ee9cfd07cd3d77ee67256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8b443caff41ee9cfd07cd3d77ee67256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b443caff41ee9cfd07cd3d77ee67256]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b443caff41ee9cfd07cd3d77ee67256]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3313) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/c)
+[^c-8b443caff41ee9cfd07cd3d77ee67256]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3313) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/c)

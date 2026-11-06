@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Grazings committees meetings[^key-eead878dd4ccbc47efa2b7cce69c13d9]
+## 23. Grazings committees meetings[^c-eead878dd4ccbc47efa2b7cce69c13d9]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eead878dd4ccbc47efa2b7cce69c13d9]: Commencement: S. 23 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-eead878dd4ccbc47efa2b7cce69c13d9]: Commencement: S. 23 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

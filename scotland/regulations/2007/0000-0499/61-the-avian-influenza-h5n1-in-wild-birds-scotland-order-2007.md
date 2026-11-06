@@ -57,14 +57,14 @@ In this Order–
 - “**the Act**” means the Animal Health Act 1981;
 - “**avian influenza**” means an infection of birds caused by an influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
 - “**Avian Influenza Order**” means the Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006 [^c18042111];
-- “**bird by product**” means entire bodies or parts of birds or products of avian origin not intended for human consumption included in Article[^key-efcc0576a9a7edb9656d9496bfb3bd29] 8, 9 or 10 of Regulation (EC) No 1069/2009;
+- “**bird by product**” means entire bodies or parts of birds or products of avian origin not intended for human consumption included in Article[^c-efcc0576a9a7edb9656d9496bfb3bd29] 8, 9 or 10 of Regulation (EC) No 1069/2009;
 - “**controlled meat**” means any fresh meat, minced meat, meat preparation, mechanically separated meat or meat product which has not undergone a heat treatment at a minimum temperature of 70°C (which must be reached throughout the meat) derived from poultry or wild game bird originating from within the wild bird control area;
 - “**day old chicks**” means poultry less than 72 hours old which have not yet fed and muscovy ducks (*Cairina moschata*) and their crosses less than 72 hours old, whether or not fed;
 - “**designated**” means designated in accordance with article 13, except where the context otherwise requires, and “**undesignated**” is to be construed accordingly;
 - “**fresh meat**” means meat that has not undergone any preserving process other than chilling, freezing or quick freezing, including meat that is vacuum wrapped or wrapped in a controlled atmosphere;
-- “[^key-70cd752509975a91f2829c189af2024e]**H5N1**” means a highly pathogenic avian influenza virus of the H5 subtype and neuraminidase N1 of significant risk to animal and human health,
+- “[^c-70cd752509975a91f2829c189af2024e]**H5N1**” means a highly pathogenic avian influenza virus of the H5 subtype and neuraminidase N1 of significant risk to animal and human health,
 - “**hatching egg**” means an egg for incubation laid by any poultry;
-- “[^key-c48cabf99ca536201ed1802e8334a6b7]**highly pathogenic avian influenza**” means—
+- “[^c-c48cabf99ca536201ed1802e8334a6b7]**highly pathogenic avian influenza**” means—
   - (a) a virus with genome sequences codifying for multiple basic amino acids at the cleavage site of the haemagglutinin molecule similar to that observed for other highly pathogenic avian influenza viruses, indicating that the haemagglutinin molecule can be cleaved by a host ubiquitous protease, or
   - (b) avian influenza viruses with an intravenous pathogenicity index in six-week old chickens greater than 1.2,
 - “**keeper**” means any person responsible for birds or animals, whether on a permanent or temporary basis, but does not include a person responsible for them solely because they are transporting them;
@@ -87,9 +87,9 @@ In this Order–
 - “**poultry**” means a bird reared or kept in captivity for the production of meat or eggs for consumption, or for the production of other products, for restocking supplies of game or for the purposes of any breeding programme for the production of such categories of bird;
 - “**premises**” includes any land, building or other place;
 - “**processed fresh meat**” means any minced meat, meat preparation or mechanically separated meat;
-- “**Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853)**” means Regulation (EC) No. 853/2004[^key-4fa09f6f6a0b06874c333d1c6eb57ec7] of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c18042141] , as last amended by Commission Regulation ([^key-b2141961229f12f0f4f7ba2860d7c4d6]EU) 2017/1981;
-- “Regulation ([^key-e79becf879268359e5c150ace88477dd]EC) No 1069/2009” means Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation), as last amended by Regulation (EU) 2017/625[^key-f1ae5bc9b4080fb30961a58c6495e1c5];
-- “Regulation (EU) No 142/2011” means Commission Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by‑products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) as regards certain samples and items exempt from veterinary checks at the border under that Directive [^key-a6688b9988afb84fbeb38be1107a43da] . . . as amended from time to time[^key-83a9c560041b7c23c30126fd595e51b1];
+- “**Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853)**” means Regulation (EC) No. 853/2004[^c-4fa09f6f6a0b06874c333d1c6eb57ec7] of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin [^c18042141] , as last amended by Commission Regulation ([^c-b2141961229f12f0f4f7ba2860d7c4d6]EU) 2017/1981;
+- “Regulation ([^c-e79becf879268359e5c150ace88477dd]EC) No 1069/2009” means Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation), as last amended by Regulation (EU) 2017/625[^c-f1ae5bc9b4080fb30961a58c6495e1c5];
+- “Regulation (EU) No 142/2011” means Commission Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by‑products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) as regards certain samples and items exempt from veterinary checks at the border under that Directive [^c-a6688b9988afb84fbeb38be1107a43da] . . . as amended from time to time[^c-83a9c560041b7c23c30126fd595e51b1];
 - “**slaughterhouse**” means premises used for slaughtering poultry, the meat of which is intended for human consumption;
 - “**SPF egg**” means a hatching egg for use for diagnostic procedures in laboratories for the production and testing of vaccines and for research or pharmaceutical purposes;
 - “**vehicle**” includes–
@@ -158,7 +158,7 @@ In this Order–
 
 ### 5. Confirmation or suspicion of H5N1 in wild birds
 
-(1)[^key-57ba2eb32e0fe60f9991e7d63c6836d8] This article applies if the Chief Veterinary Officer (Scotland) advises the Scottish Ministers that—
+(1)[^c-57ba2eb32e0fe60f9991e7d63c6836d8] This article applies if the Chief Veterinary Officer (Scotland) advises the Scottish Ministers that—
 
 - (a) a highly pathogenic avian influenza virus of the H5 subtype and neuraminidase N1 is present in a wild bird or the carcase of a wild bird in Great Britain, and
 - (b) the Chief Veterinary Officer (Scotland) suspects, or is of the opinion, that the virus is a significant risk to animal and human health.
@@ -309,7 +309,7 @@ do not apply in respect of that wild bird control area.
 
 ### 12. Maintenance of Areas
 
-(1) Subject to paragraph (4), where article 5 applies[^key-3549b823a3d11248e8995d15025e41b6], the Scottish Ministers must not–
+(1) Subject to paragraph (4), where article 5 applies[^c-3549b823a3d11248e8995d15025e41b6], the Scottish Ministers must not–
 
 - (a) amend any declaration made under article 5 so that the wild bird control area becomes part of the wild bird monitoring area until at least 21 days have elapsed from the date on which the sample showing the presence of the H5 virus was collected from that wild bird or carcase except where the conditions in paragraph (2) are fulfilled; or
 - (b) revoke any declaration made under article 5 until at least 30 days have elapsed from that date.
@@ -322,7 +322,7 @@ do not apply in respect of that wild bird control area.
 
 (3) The Scottish Ministers may amend any declaration so that a wild bird control area becomes part of the wild bird monitoring area before 21 days have elapsed from the date referred to in paragraph (1)(a), provided that where article 6(5) and (6) apply the wild bird control area remains of a size required under those provisions and provided that the wild bird monitoring area continues to meet the requirements of article 6(8).
 
-(4) If the Chief Veterinary Officer (Scotland) advises the Scottish Ministers that in the opinion of the Chief Veterinary Officer (Scotland) the avian influenza virus of sub type H5 and neuraminidase N1[^key-004ce73829bbfcaa1e4f43e1c2fc6669] present in the wild bird or carcase referred to in article 5 is not a significant risk to animal and human health[^key-1310cfccc250fbff6d7a970f4964fda9], the Scottish Ministers must revoke any declaration made under article 5 without delay.
+(4) If the Chief Veterinary Officer (Scotland) advises the Scottish Ministers that in the opinion of the Chief Veterinary Officer (Scotland) the avian influenza virus of sub type H5 and neuraminidase N1[^c-004ce73829bbfcaa1e4f43e1c2fc6669] present in the wild bird or carcase referred to in article 5 is not a significant risk to animal and human health[^c-1310cfccc250fbff6d7a970f4964fda9], the Scottish Ministers must revoke any declaration made under article 5 without delay.
 
 ## PART 3 — Miscellaneous
 
@@ -332,7 +332,7 @@ do not apply in respect of that wild bird control area.
 
 - (a) premises that are designated under article 70 (designation of premises to which things may be moved) of the Avian Influenza Order;
 - (b) premises that are deemed to be designated under article 4(7) (declarations, licences, notices and designations under this Order) of that Order; and
-- (c)[^key-d5b2791f4a78c6199a6c44b955842f97] the following plants, if approved under Article 24 of Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)—
+- (c)[^c-d5b2791f4a78c6199a6c44b955842f97] the following plants, if approved under Article 24 of Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)—
   - (i) incineration plants;
   - (ii) co-incineration plants;
   - (iii) processing plants;
@@ -402,7 +402,7 @@ do not apply in respect of that wild bird control area.
 
 (1) Any person who is required under this Order to carry out disinfection at any premises or of any thing must–
 
-- (a) use disinfectants approved by the Scottish Ministers under the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^key-1c08f0028e3eb767f81c52d51d383d0f] (“**the Disinfectants Order**”) for use under the Avian Influenza Order;
+- (a) use disinfectants approved by the Scottish Ministers under the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008[^c-1c08f0028e3eb767f81c52d51d383d0f] (“**the Disinfectants Order**”) for use under the Avian Influenza Order;
 - (b) use them at the concentrations approved under the Disinfectants Order; and
 - (c) use them–
   - (i) in accordance with the manufacturer's instructions (if any); or
@@ -583,7 +583,7 @@ The occupier of an undesignated hatchery to which hatching eggs are moved in acc
 
 (2) A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1) unless it is for the movement of–
 
-- (a) fresh meat from poultry that was produced in accordance with Annex II and Sections II and III of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) and has been subject to the official controls set out in Article 18 of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products[^key-d26451902271f33564e7c2fc49e394cb];
+- (a) fresh meat from poultry that was produced in accordance with Annex II and Sections II and III of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853) and has been subject to the official controls set out in Article 18 of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products[^c-d26451902271f33564e7c2fc49e394cb];
 - (b) processed fresh meat or meat products produced from such fresh meat from poultry that was produced in accordance with Sections V and VI of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/eur/2004/853);
 - (c) fresh meat from poultry, processed fresh meat from poultry or meat products from such fresh meat or processed fresh meat, other than the fresh meat, processed fresh meat and meat products referred to in sub paragraphs (2)(a) and (b), to other parts of the United Kingdom, provided–
   - (i) the meat or product is identified with the national mark described in paragraph 10(1) or with the mark described in paragraph 10(2); and
@@ -613,7 +613,7 @@ The occupier of an undesignated hatchery to which hatching eggs are moved in acc
 [image: see source](https://www.legislation.gov.uk/ssi/2007/61/images/ssi_20070061_en_sld_001)
 
 - (a) UK – letters 8 mm high;
-- (b) XXXX (where XXXX is the approval number of the premises, as referred to in point 6[^key-9ac7b0122ac72c50de4699467b0dfbca] of Part B of Section I of Annex II to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853)) – numbers 11 mm high;
+- (b) XXXX (where XXXX is the approval number of the premises, as referred to in point 6[^c-9ac7b0122ac72c50de4699467b0dfbca] of Part B of Section I of Annex II to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853)) – numbers 11 mm high;
 - (c) diameter (to outer edge of border) – not less than 30 mm;
 - (d) thickness of border – 3 mm.
 
@@ -638,7 +638,7 @@ The conditions referred to in paragraph 9(2)(c)(ii) are that the meat (or the me
 
 (1) No person may move from a wild bird control area, a bird by product deriving from poultry, other captive birds or wild game bird originating from within that control area, or product deriving from such by products except under the authority of a licence granted by a veterinary inspector or an inspector acting under the direction of a veterinary inspector.
 
-(2)[^key-703b01099c8dd41c37afd530ef8c4a36] A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1) unless it is for a movement of—
+(2)[^c-703b01099c8dd41c37afd530ef8c4a36] A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1) unless it is for a movement of—
 
 - (a) processed animal protein within the meaning of paragraph 5 of Annex I to Regulation (EU) No 142/2011 and which complies with the requirements of paragraph B of Section 1 of Chapter II of Annex X to that Regulation;
 - (b) blood products within the meaning of paragraph 4 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph B of Section 2 of Chapter II of Annex X to that Regulation;
@@ -659,13 +659,13 @@ The conditions referred to in paragraph 9(2)(c)(ii) are that the meat (or the me
 - (q) untreated feathers or parts of untreated feathers produced from poultry within the meaning of paragraph 30 of Annex I to Regulation (EU) No 142/2011 and which comply with the requirements of paragraph A of Chapter VII of Annex XIII to that Regulation; or
 - (r) poultry feathers, feathers from wild game bird or parts of such feathers which have been treated with a steam current or by another method which ensures inactivation of the avian influenza virus.
 
-(3) A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1) for the movement of the by products listed in sub paragraphs (2)(a) to (i) unless they have also been processed at a processing plant which complies with the requirements of Regulation[^key-9374c0d81b2c96c8d45197034b648b33] [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Annex IV to Regulation (EU) No 142/2011.
+(3) A veterinary inspector may not grant or direct the grant of a licence under sub paragraph (1) for the movement of the by products listed in sub paragraphs (2)(a) to (i) unless they have also been processed at a processing plant which complies with the requirements of Regulation[^c-9374c0d81b2c96c8d45197034b648b33] [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Annex IV to Regulation (EU) No 142/2011.
 
 (4) The prohibition in sub paragraph (1) does not apply to a movement permitted under paragraph 14 or 15.
 
-(5) The bird by products referred to in sub paragraph (2)(q) and (r)[^key-4d357bd1de8884e8bd36e570df1d841c] must be accompanied by the model commercial document in accordance with Chapter[^key-f583ae7134f0bcd945c146fc7464b325] III of Annex VIII to Regulation (EU) No 142/2011.
+(5) The bird by products referred to in sub paragraph (2)(q) and (r)[^c-4d357bd1de8884e8bd36e570df1d841c] must be accompanied by the model commercial document in accordance with Chapter[^c-f583ae7134f0bcd945c146fc7464b325] III of Annex VIII to Regulation (EU) No 142/2011.
 
-(6) The commercial document accompanying the bird by products referred to in sub paragraph (2)(r)[^key-3643c923356a9681e8d1a7f3c54aef52] must state, at paragraph 6.1 of that document, that they have been treated with a steam current or by another method to ensure no avian influenza pathogens remain.
+(6) The commercial document accompanying the bird by products referred to in sub paragraph (2)(r)[^c-3643c923356a9681e8d1a7f3c54aef52] must state, at paragraph 6.1 of that document, that they have been treated with a steam current or by another method to ensure no avian influenza pathogens remain.
 
 (7) Paragraph (5) does not apply to processed decorative feathers or processed feathers carried by travellers for their private use or consignments of processed feathers sent to private individuals for non industrial purposes.
 
@@ -675,7 +675,7 @@ The conditions referred to in paragraph 9(2)(c)(ii) are that the meat (or the me
 
 No person may move any manure from poultry or other captive birds from premises in a wild bird control area unless–
 
-- (a) the movement is to an establishment for treatment in accordance with Regulation 1069/2009 and Section 2 of Chapter I of Annex[^key-ebd75de715b5af6d55e9ac45ef94bcc3] XI to Regulation (EU) No 142/2011;
+- (a) the movement is to an establishment for treatment in accordance with Regulation 1069/2009 and Section 2 of Chapter I of Annex[^c-ebd75de715b5af6d55e9ac45ef94bcc3] XI to Regulation (EU) No 142/2011;
 - (b) the poultry manure has already been so treated and the movement is licensed in accordance with paragraph 13(2)(l); or
 - (c) it originates from premises from which poultry have been moved under the authority of a licence granted under paragraph 1(2)(a), (b) or (c).
 
@@ -683,7 +683,7 @@ No person may move any manure from poultry or other captive birds from premises 
 
 No person may spread any manure from poultry or other captive birds from premises in a wild bird control area unless–
 
-- (a) it has been treated in accordance with Regulation 1069/2009 and Section 2 of Chapter I of Annex[^key-4c984bdeac1659344ff4cc61a8d19a3e] XI to Regulation (EU) No 142/2011; or
+- (a) it has been treated in accordance with Regulation 1069/2009 and Section 2 of Chapter I of Annex[^c-4c984bdeac1659344ff4cc61a8d19a3e] XI to Regulation (EU) No 142/2011; or
 - (b) it originates from premises from which poultry have been moved under the authority of a licence granted under paragraph 1(2)(a), (b) or (c).
 
 #### 16. Prohibition on gatherings of poultry and other captive birds in a wild bird control area
@@ -781,58 +781,58 @@ No Regulatory Impact Assessment has been prepared in respect of this Order.
 
 [^c18042111]: Marginal citation: [S.S.I. 2006/336](https://www.legislation.gov.uk/ssi/2006/336).
 
-[^key-efcc0576a9a7edb9656d9496bfb3bd29]: Textual amendment: Words in art. 2 substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 39(a)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/39/a)
+[^c-efcc0576a9a7edb9656d9496bfb3bd29]: Textual amendment: Words in art. 2 substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 39(a)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/39/a)
 
-[^key-70cd752509975a91f2829c189af2024e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2007/61/article/2) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(2)(a)](https://www.legislation.gov.uk/ssi/2021/444/article/4/2/a), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+[^c-70cd752509975a91f2829c189af2024e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2007/61/article/2) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(2)(a)](https://www.legislation.gov.uk/ssi/2021/444/article/4/2/a), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
 
-[^key-c48cabf99ca536201ed1802e8334a6b7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2007/61/article/2) inserted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(2)(b)](https://www.legislation.gov.uk/ssi/2021/444/article/4/2/b), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+[^c-c48cabf99ca536201ed1802e8334a6b7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2007/61/article/2) inserted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(2)(b)](https://www.legislation.gov.uk/ssi/2021/444/article/4/2/b), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
 
 [^c18042131]: Marginal citation: [S.S.I. 2005/531](https://www.legislation.gov.uk/ssi/2005/531) as amended by [S.S.I. 2005/647](https://www.legislation.gov.uk/ssi/2005/647).
 
-[^key-4fa09f6f6a0b06874c333d1c6eb57ec7]: Textual amendment: Word in art. 2 substituted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [6](https://www.legislation.gov.uk/ssi/2019/71/regulation/6)
+[^c-4fa09f6f6a0b06874c333d1c6eb57ec7]: Textual amendment: Word in art. 2 substituted (28.3.2019) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [6](https://www.legislation.gov.uk/ssi/2019/71/regulation/6)
 
 [^c18042141]: Marginal citation: O.J. No. L 139, 30.4.2004, p.55. The revised text of the Regulation is contained in a corrigendum (O.J. No. L 226, 25.6.04, p.22).
 
-[^key-b2141961229f12f0f4f7ba2860d7c4d6]: Textual amendment: Words in art. 2 inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [29(2)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/29/2/a)
+[^c-b2141961229f12f0f4f7ba2860d7c4d6]: Textual amendment: Words in art. 2 inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [29(2)(a)](https://www.legislation.gov.uk/ssi/2018/391/regulation/29/2/a)
 
-[^key-e79becf879268359e5c150ace88477dd]: Textual amendment: Words in art. 2 substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 39(b)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/39/b)
+[^c-e79becf879268359e5c150ace88477dd]: Textual amendment: Words in art. 2 substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 39(b)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/39/b)
 
-[^key-f1ae5bc9b4080fb30961a58c6495e1c5]: Textual amendment: Words in art. 2 substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [20(2)](https://www.legislation.gov.uk/ssi/2019/412/regulation/20/2)
+[^c-f1ae5bc9b4080fb30961a58c6495e1c5]: Textual amendment: Words in art. 2 substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [20(2)](https://www.legislation.gov.uk/ssi/2019/412/regulation/20/2)
 
-[^key-a6688b9988afb84fbeb38be1107a43da]: Textual amendment: Words in art. 2 omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [29(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/29/2/c)
+[^c-a6688b9988afb84fbeb38be1107a43da]: Textual amendment: Words in art. 2 omitted (28.2.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [29(2)(c)](https://www.legislation.gov.uk/ssi/2018/391/regulation/29/2/c)
 
-[^key-83a9c560041b7c23c30126fd595e51b1]: Textual amendment: Words in art. 2 inserted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/12)
+[^c-83a9c560041b7c23c30126fd595e51b1]: Textual amendment: Words in art. 2 inserted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/12)
 
-[^key-57ba2eb32e0fe60f9991e7d63c6836d8]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/ssi/2007/61/article/5/1) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(3)](https://www.legislation.gov.uk/ssi/2021/444/article/4/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+[^c-57ba2eb32e0fe60f9991e7d63c6836d8]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/ssi/2007/61/article/5/1) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(3)](https://www.legislation.gov.uk/ssi/2021/444/article/4/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
 
-[^key-3549b823a3d11248e8995d15025e41b6]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/ssi/2007/61/article/12/1) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(4)(a)](https://www.legislation.gov.uk/ssi/2021/444/article/4/4/a), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+[^c-3549b823a3d11248e8995d15025e41b6]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/ssi/2007/61/article/12/1) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(4)(a)](https://www.legislation.gov.uk/ssi/2021/444/article/4/4/a), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
 
-[^key-004ce73829bbfcaa1e4f43e1c2fc6669]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/ssi/2007/61/article/12/4) inserted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(4)(b)(i)](https://www.legislation.gov.uk/ssi/2021/444/article/4/4/b/i), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+[^c-004ce73829bbfcaa1e4f43e1c2fc6669]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/ssi/2007/61/article/12/4) inserted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(4)(b)(i)](https://www.legislation.gov.uk/ssi/2021/444/article/4/4/b/i), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
 
-[^key-1310cfccc250fbff6d7a970f4964fda9]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/ssi/2007/61/article/12/4) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/444/article/4/4/b/ii), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
+[^c-1310cfccc250fbff6d7a970f4964fda9]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/ssi/2007/61/article/12/4) substituted (4.12.2021) by [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [art. 4(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2021/444/article/4/4/b/ii), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/regulation/1/1)
 
-[^key-d5b2791f4a78c6199a6c44b955842f97]: Textual amendment: [Art. 13(1)(c)](https://www.legislation.gov.uk/ssi/2007/61/article/13/1/c) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/13)
+[^c-d5b2791f4a78c6199a6c44b955842f97]: Textual amendment: [Art. 13(1)(c)](https://www.legislation.gov.uk/ssi/2007/61/article/13/1/c) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 13](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/13)
 
-[^key-1c08f0028e3eb767f81c52d51d383d0f]: Textual amendment: Words in [art. 18(1)(a)](https://www.legislation.gov.uk/ssi/2007/61/article/18/1/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [29(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/29/3)
+[^c-1c08f0028e3eb767f81c52d51d383d0f]: Textual amendment: Words in [art. 18(1)(a)](https://www.legislation.gov.uk/ssi/2007/61/article/18/1/a) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [29(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/29/3)
 
 [^c18042181]: Marginal citation: [S.S.I. 2006/196](https://www.legislation.gov.uk/ssi/2006/196) as amended by [S.S.I. 2006/277](https://www.legislation.gov.uk/ssi/2006/277).
 
 [^c18042191]: Marginal citation: O.J. No. L 139, 30.4.2004, p.55. The revised text of the Regulation is contained in a corrigendum (O.J. No. L 226, 25.6.04, p.22).
 
-[^key-d26451902271f33564e7c2fc49e394cb]: Textual amendment: Words in [sch. 1 para. 9(2)(a)](https://www.legislation.gov.uk/ssi/2007/61/schedule/1/paragraph/9/2/a) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [20(3)](https://www.legislation.gov.uk/ssi/2019/412/regulation/20/3)
+[^c-d26451902271f33564e7c2fc49e394cb]: Textual amendment: Words in [sch. 1 para. 9(2)(a)](https://www.legislation.gov.uk/ssi/2007/61/schedule/1/paragraph/9/2/a) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [20(3)](https://www.legislation.gov.uk/ssi/2019/412/regulation/20/3)
 
-[^key-9ac7b0122ac72c50de4699467b0dfbca]: Textual amendment: Words in [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2007/61/schedule/1/paragraph/10) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [18](https://www.legislation.gov.uk/ssi/2019/71/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ac7b0122ac72c50de4699467b0dfbca]: Textual amendment: Words in [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2007/61/schedule/1/paragraph/10) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [18](https://www.legislation.gov.uk/ssi/2019/71/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-703b01099c8dd41c37afd530ef8c4a36]: Textual amendment: Sch. 1 para. 13(2) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(a)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/a)
+[^c-703b01099c8dd41c37afd530ef8c4a36]: Textual amendment: Sch. 1 para. 13(2) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(a)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/a)
 
-[^key-9374c0d81b2c96c8d45197034b648b33]: Textual amendment: Words in sch. 1 para. 13(3) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(b)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/b)
+[^c-9374c0d81b2c96c8d45197034b648b33]: Textual amendment: Words in sch. 1 para. 13(3) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(b)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/b)
 
-[^key-4d357bd1de8884e8bd36e570df1d841c]: Textual amendment: Words in sch. 1 para. 13(5) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(c)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/c)
+[^c-4d357bd1de8884e8bd36e570df1d841c]: Textual amendment: Words in sch. 1 para. 13(5) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(c)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/c)
 
-[^key-f583ae7134f0bcd945c146fc7464b325]: Textual amendment: Words in sch. 1 para. 13(5) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 41(a)(ii)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/41/a/ii)
+[^c-f583ae7134f0bcd945c146fc7464b325]: Textual amendment: Words in sch. 1 para. 13(5) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 41(a)(ii)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/41/a/ii)
 
-[^key-3643c923356a9681e8d1a7f3c54aef52]: Textual amendment: Word in sch. 1 para. 13(6) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(d)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/d)
+[^c-3643c923356a9681e8d1a7f3c54aef52]: Textual amendment: Word in sch. 1 para. 13(6) substituted (1.12.2013) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2013 (S.S.I. 2013/307)](https://www.legislation.gov.uk/ssi/2013/307), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/307/regulation/1/1), [sch. 2 para. 14(d)](https://www.legislation.gov.uk/ssi/2013/307/schedule/2/paragraph/14/d)
 
-[^key-ebd75de715b5af6d55e9ac45ef94bcc3]: Textual amendment: Words in sch. 1 para. 14(a) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 41(b)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/41/b)
+[^c-ebd75de715b5af6d55e9ac45ef94bcc3]: Textual amendment: Words in sch. 1 para. 14(a) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 41(b)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/41/b)
 
-[^key-4c984bdeac1659344ff4cc61a8d19a3e]: Textual amendment: Words in sch. 1 para. 15(a) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 41(c)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/41/c)
+[^c-4c984bdeac1659344ff4cc61a8d19a3e]: Textual amendment: Words in sch. 1 para. 15(a) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 41(c)](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/41/c)

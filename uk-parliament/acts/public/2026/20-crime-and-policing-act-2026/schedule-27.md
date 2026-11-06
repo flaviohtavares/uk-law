@@ -22,7 +22,7 @@ summary: ''
 
 Section 235
 
-### 1. Prisoners and Criminal Proceedings (Scotland) Act [1993 (c. 9)](https://www.legislation.gov.uk/ukpga/1993/9)[^key-ec24a3d8a3a23c428789dab8d99e8065]
+### 1. Prisoners and Criminal Proceedings (Scotland) Act [1993 (c. 9)](https://www.legislation.gov.uk/ukpga/1993/9)[^c-ec24a3d8a3a23c428789dab8d99e8065]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ In [Schedule 1A](https://www.legislation.gov.uk/ukpga/1993/9/schedule/1A) to the
 > - (a) [section 54](https://www.legislation.gov.uk/ukpga/2008/28/section/54) (breach of police notification requirements etc);
 > - (b) [paragraph 15](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5/paragraph/15) of [Schedule 5](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5) (breach of foreign travel restriction order).
 
-### 2. Criminal Procedure (Scotland) Act [1995 (c. 46)](https://www.legislation.gov.uk/ukpga/1995/46)[^key-e71f0bc7281d8c9fe333998b127da673]
+### 2. Criminal Procedure (Scotland) Act [1995 (c. 46)](https://www.legislation.gov.uk/ukpga/1995/46)[^c-e71f0bc7281d8c9fe333998b127da673]
 
 *Extent: S*
 
@@ -50,7 +50,7 @@ In [Schedule 1A](https://www.legislation.gov.uk/ukpga/1993/9/schedule/1A) to the
 > - (a) [section 54](https://www.legislation.gov.uk/ukpga/2008/28/section/54) (breach of police notification requirements etc);
 > - (b) [paragraph 15](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5/paragraph/15) of [Schedule 5](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5) (breach of foreign travel restriction order).
 
-### 3. Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44)[^key-5de635833a49bc32dcd370baf28b4506]
+### 3. Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44)[^c-5de635833a49bc32dcd370baf28b4506]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ In [Schedule 1A](https://www.legislation.gov.uk/ukpga/1993/9/schedule/1A) to the
 > - (a) [section 54](https://www.legislation.gov.uk/ukpga/2008/28/section/54) (breach of police notification requirements etc);
 > - (b) [paragraph 15](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5/paragraph/15) of [Schedule 5](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5) (breach of foreign travel restriction order).
 
-### 4. Counter-Terrorism Act [2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28)[^key-aa16a6dd40bd69f658e057161cf7ca74]
+### 4. Counter-Terrorism Act [2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28)[^c-aa16a6dd40bd69f658e057161cf7ca74]
 
 In [Schedule 1A](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1A) to the [Counter-Terrorism Act 2008](https://www.legislation.gov.uk/ukpga/2008/28/contents) (offences where terrorism connection not required to be considered), in [paragraph 4](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1A/paragraph/4)—
 
@@ -76,7 +76,7 @@ In [Schedule 1A](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1A) to th
 
   > (2) An offence under paragraph 15 of Schedule 5 to that Act (breach of foreign travel restriction order) of which a person is convicted on or after the day on which paragraph 4 of Schedule 27 to the Crime and Policing Act 2026 comes into force.
 
-### 5. Criminal Justice (Northern Ireland) Order 2008 ([S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216))[^key-e81ca5ce3109fa3e705e81af99162f65]
+### 5. Criminal Justice (Northern Ireland) Order 2008 ([S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216))[^c-e81ca5ce3109fa3e705e81af99162f65]
 
 *Extent: N.I.*
 
@@ -97,7 +97,7 @@ In [Schedule 1A](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1A) to th
 > - (a) [section 54](https://www.legislation.gov.uk/ukpga/2008/28/section/54) (breach of police notification requirements etc);
 > - (b) [paragraph 15](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5/paragraph/15) of [Schedule 5](https://www.legislation.gov.uk/ukpga/2008/28/schedule/5) (breach of foreign travel restriction order).
 
-### 6. Sentencing Code[^key-df32867ad2b85776113542d4e95f0dba]
+### 6. Sentencing Code[^c-df32867ad2b85776113542d4e95f0dba]
 
 *Extent: E+W*
 
@@ -131,14 +131,14 @@ In [Schedule 1A](https://www.legislation.gov.uk/ukpga/2008/28/schedule/1A) to th
 
 ## Annotations
 
-[^key-ec24a3d8a3a23c428789dab8d99e8065]: Commencement: [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/1) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
+[^c-ec24a3d8a3a23c428789dab8d99e8065]: Commencement: [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/1) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
 
-[^key-e71f0bc7281d8c9fe333998b127da673]: Commencement: [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/2) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
+[^c-e71f0bc7281d8c9fe333998b127da673]: Commencement: [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/2) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
 
-[^key-5de635833a49bc32dcd370baf28b4506]: Commencement: [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/3) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
+[^c-5de635833a49bc32dcd370baf28b4506]: Commencement: [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/3) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
 
-[^key-aa16a6dd40bd69f658e057161cf7ca74]: Commencement: [Sch. 27 para. 4](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/4) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
+[^c-aa16a6dd40bd69f658e057161cf7ca74]: Commencement: [Sch. 27 para. 4](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/4) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
 
-[^key-e81ca5ce3109fa3e705e81af99162f65]: Commencement: [Sch. 27 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/5) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
+[^c-e81ca5ce3109fa3e705e81af99162f65]: Commencement: [Sch. 27 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/5) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
 
-[^key-df32867ad2b85776113542d4e95f0dba]: Commencement: [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/6) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)
+[^c-df32867ad2b85776113542d4e95f0dba]: Commencement: [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/6) in force at 29.6.2026, see [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l)

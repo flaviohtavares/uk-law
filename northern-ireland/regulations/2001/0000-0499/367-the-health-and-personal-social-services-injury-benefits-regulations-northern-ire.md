@@ -45,11 +45,11 @@ The Department of Health, Social Services and Public Safety[^f00001], in exercis
 
 ## Part I — Preliminary
 
-### 1. Citation and commencement[^key-56a15e39bd99532ef61e7da5dc8d6853]
+### 1. Citation and commencement[^c-56a15e39bd99532ef61e7da5dc8d6853]
 
 These Regulations may be cited as the Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 2001 and shall come into operation on 1st December 2001.
 
-### 2. Interpretation[^key-00806c4db40160fd13d34f886b5270f3]
+### 2. Interpretation[^c-00806c4db40160fd13d34f886b5270f3]
 
 (1) In these Regulations—
 
@@ -122,7 +122,7 @@ These Regulations may be cited as the Health and Personal Social Services (Injur
 
 ## Part II — Injury Benefits
 
-### 3. Persons to whom these Regulations apply[^key-23debcd864f51773ead0f748a3eccb5b]
+### 3. Persons to whom these Regulations apply[^c-23debcd864f51773ead0f748a3eccb5b]
 
 (1) Subject to paragraph (3), and regulation 17, these Regulations shall apply to any person who while he—
 
@@ -158,7 +158,7 @@ These Regulations may be cited as the Health and Personal Social Services (Injur
 
 (4) These Regulations shall not apply to any person in relation to any injury or disease wholly or mainly due to, or seriously aggravated by, his own culpable negligence or misconduct.
 
-### 4. Scale of benefit[^key-718bb46633084d67887251d2e6bc2bc4]
+### 4. Scale of benefit[^c-718bb46633084d67887251d2e6bc2bc4]
 
 (1) Subject to paragraph (5), benefits in accordance with this regulation shall be payable by the Department to any person to whom regulation 3(1) applies whose earning ability is permanently reduced by more than 10 per cent. by reason of the injury or disease.
 
@@ -235,7 +235,7 @@ TABLE
 </tbody>
 </table>
 
-### 5. Recovery of costs[^key-eed6a57d2b20b1b8ef99f35d807b59ee]
+### 5. Recovery of costs[^c-eed6a57d2b20b1b8ef99f35d807b59ee]
 
 (1) Where, during the period commencing 1st April 1992 and ending on 30th November 2001, an allowance or any part of an allowance, or lump sum, under paragraph (2), (3), (4) or (9) of regulation 4 or, regulation 7, 8, 9, or 11 of the previous Regulations, was paid to or in respect of a person to whom regulation 3(1) of the previous Regulations applied, that person’s employing authority shall be liable to pay a contribution to the Department in accordance with paragraph (5) representing—
 
@@ -272,7 +272,7 @@ together with the cost of providing pensions increases to it under Part I of the
 - (d) a registered medical practitioner who is a medical pilot scheme employee; and
 - (e) a dental pilot scheme employee who is employed as such otherwise than by a HSS Trust, as if he were an officer employed by the Health and Social Services Board in whose area he is providing services or, as the case may be, the Health and Social Services Board, with which the person providing piloted services has agreed to provide piloted services.
 
-### 6. Meaning of service[^key-6cc83d5ff72de7415418137cc0cabb06]
+### 6. Meaning of service[^c-6cc83d5ff72de7415418137cc0cabb06]
 
 A person’s service shall comprise all of the periods which at the date on which he ceased to hold an employment or appointment mentioned in regulation 3(1), or on which the emoluments of such employment or appointment were reduced, as the case may be, fell within any of the following descriptions, but no period shall be taken into account under more than one description—
 
@@ -282,11 +282,11 @@ A person’s service shall comprise all of the periods which at the date on whic
 
 ## Part III — Benefits on Death of Injured Person
 
-### 7. Grounds of entitlement[^key-73dbd96949529e65372893b6e39d3bd9]
+### 7. Grounds of entitlement[^c-73dbd96949529e65372893b6e39d3bd9]
 
 If a person to whom these Regulations apply dies as a result of, or his death was, in the opinion of the Department, substantially hastened by, the injury or disease, the Department shall pay in respect of that person (hereinafter referred to as “the deceased”) the benefits described in this Part, except that such benefits shall not be payable in respect of an injury or disease wholly or mainly due to, or seriously aggravated by, the culpable negligence or misconduct of the deceased.
 
-### 8. Widow’s or widower’s allowance[^key-126157bf359fabc1e9c89e42da4ec6b6]
+### 8. Widow’s or widower’s allowance[^c-126157bf359fabc1e9c89e42da4ec6b6]
 
 (1) Subject to the provisions of this regulation and to regulation 11 there shall be payable to the widow or widower of a person mentioned in regulation 7 an annual allowance of the amount, if any, which when added to the amount of any pension payable under a relevant pension scheme in respect of the deceased, to or for the benefit of the widow or widower, will provide an income of 45 per cent. of the deceased’s average remuneration.
 
@@ -302,7 +302,7 @@ Provided that this paragraph shall not apply where the aggregate of annual allow
 
 (4) Where the deceased died before 6th April 1988, a widower shall not be entitled to receive an allowance unless, at the date of the deceased’s death, he was incapable by reason of permanent ill-health or infirmity of mind or body of earning his own living and was wholly or mainly dependent upon the deceased.
 
-### 9. Child’s allowance[^key-25a4e11bdfc197cf46fd7af177fcbec4]
+### 9. Child’s allowance[^c-25a4e11bdfc197cf46fd7af177fcbec4]
 
 (1) Subject to the provisions of this regulation and to regulation 11, on the death of a person mentioned in regulation 7 or, where an allowance, is payable under regulation 8(2), on the termination of payment of that allowance. there shall be payable to any dependent child an annual allowance of the amount, if any, which, when added to the annual amount of any pension payable under a relevant pension scheme in respect of the deceased to, or for the benefit of, such child, will provide an income of 10 per cent of the deceased’s average remuneration multiplied by the number of children not exceeding four, or of twice that sum where there is no surviving parent:
 
@@ -337,7 +337,7 @@ and who satisfies the requirements of paragraph (3).
 
 Provided that the Department may, if it thinks fit, pay the allowance to such other person or persons as it may specify and such person or persons shall apply such allowance in accordance with any directions given by the Department for the benefit of the child entitled thereto.
 
-### 10. Dependent relative’s allowance[^key-3d5908c2d18314d89f25ec252e51162d]
+### 10. Dependent relative’s allowance[^c-3d5908c2d18314d89f25ec252e51162d]
 
 (1) Subject to paragraph (4) and to regulation 11, on the death of a person mentioned in regulation 7 or, where any allowance is payable under regulation 8(2), on the termination of payment of that allowance, an annual allowance calculated in accordance with paragraph (2) or (3), as the case may be, shall be payable to—
 
@@ -363,11 +363,11 @@ Provided that where the Department is satisfied that during any period that depe
 
 (6) In paragraph (1)(*a*), a reference to a parent includes a reference to a step-parent and an adoptive parent.
 
-### 11. Restriction of allowances[^key-e2075b9a7da0c659801f1176395bbd61]
+### 11. Restriction of allowances[^c-e2075b9a7da0c659801f1176395bbd61]
 
 Where, apart from this regulation, the aggregate of the annual rates of allowances payable under regulations 8 to 10 and of any pensions or benefits taken into account in calculating the allowances would exceed the rate of the deceased’s average remuneration, the individual allowances shall be reduced by such amounts as the Department may from time to time think fit so that such aggregate does not exceed the rate of the deceased’s average remuneration.
 
-### 12. Lump sum payment on death[^key-afac7f5e8157cfc53f7d9e84e4736974]
+### 12. Lump sum payment on death[^c-afac7f5e8157cfc53f7d9e84e4736974]
 
 (1) On the death of a person mentioned in regulation 7 a lump sum of one half of his average remuneration—
 
@@ -380,7 +380,7 @@ Provided that a lump sum shall not be paid under this regulation if a lump sum h
 
 (2) The provisions of regulations 9(7) or 10(5), as the case may be, shall apply in respect of a payment under paragraph (1)(*b*), (*c*) or (*d*).
 
-### 13. Incidental provisions[^key-478ab55ad096cdfde43c60ce119d47a1]
+### 13. Incidental provisions[^c-478ab55ad096cdfde43c60ce119d47a1]
 
 (1) For the purposes of this Part, the amount of a pension payable under a relevant pension scheme shall be deemed not to include any amount by which that pension is increased under the Pensions (Increase) Act (Northern Ireland) 1971 after the date at which the average remuneration used in the calculation of the allowance was calculated.
 
@@ -392,7 +392,7 @@ Provided that a lump sum shall not be paid under this regulation if a lump sum h
 
 ## Part IV — Review of Allowances and Miscellaneous
 
-### 14. Review and adjustment of allowance[^key-fbe5f29c196c7deb27a34e8dc57cd486]
+### 14. Review and adjustment of allowance[^c-fbe5f29c196c7deb27a34e8dc57cd486]
 
 (1) The Department shall review the amount of an allowance payable under Part II in the light of—
 
@@ -414,7 +414,7 @@ For the purposes of this paragraph—
 
 (5) Where, on review of an allowance under the previous Regulations, regulation 4(6)(*b*)(vi) of those Regulations did not apply by reason that the person to whom the allowance was payable was not in the employment of an employing authority on or after the 1st April 1991 then, on any further review of the allowance payable to that person under these Regulations, no account shall be taken of any amount mentioned in regulation 4(6)(*b*)(iv) or (v)[^f00030].
 
-### 15. Loss of rights to benefit[^key-40f842371888c3f4e30037367372387e]
+### 15. Loss of rights to benefit[^c-40f842371888c3f4e30037367372387e]
 
 The Department may direct that all or part of any benefit under these Regulations payable to or in respect of a person be forfeited if that person is convicted of any of the following offences committed before the benefit becomes payable—
 
@@ -422,7 +422,7 @@ The Department may direct that all or part of any benefit under these Regulation
 - (b) an offence of treason;
 - (c) one or more offences under the Official Secrets Acts 1911 to 1989[^f00031] for which the person has been sentenced on the same occasion to a term of imprisonment of, or to two or more consecutive terms amounting in the aggregate to, at least 10 years.
 
-### 16. Offset for crime, negligence or fraud[^key-bf205c1fc2dd2e447e70793ac953ed1e]
+### 16. Offset for crime, negligence or fraud[^c-bf205c1fc2dd2e447e70793ac953ed1e]
 
 (1) If a loss to public funds occurs as a result of the criminal, negligent or fraudulent act or omission of a person to whom these Regulations apply, the Department may reduce any benefit under these Regulations payable to, or in respect of, that person by an amount equal to the loss.
 
@@ -434,7 +434,7 @@ The Department may direct that all or part of any benefit under these Regulation
 
 (5) Where the loss referred to in paragraph (1) is suffered by an employing authority, the amount of the reduction in benefits will be paid to the employing authority.
 
-### 17. Officers transferred in consequence of reorganisation[^key-f412c5e064fb3b833389d6564e4ea822]
+### 17. Officers transferred in consequence of reorganisation[^c-f412c5e064fb3b833389d6564e4ea822]
 
 (1) This regulation shall apply to or in respect of any person who was transferred to the employment of an employing authority under the 1972 Order and who, having remained in the employment of that authority without a break of one day or more, suffers an injury or contacts a disease in respect of which, had he remained in his previous employment, he would have been eligible to receive benefits by virtue of any transferred provision, scheme or arrangement associated with that employment.
 
@@ -445,7 +445,7 @@ The Department may direct that all or part of any benefit under these Regulation
 
 the Department, having regard to the transferred provision or to the provisions of such scheme or arrangement, may make such payments, to or in respect of such person, supplementary to any benefits which otherwise might be payable under these Regulations, as the Department considers equitable so that the benefits, taken as a whole, are not less favourable than those which might have been payable under such provisions.
 
-### 18. Damages[^key-1133ed7bf6e0b140b99113bdb3ace18c]
+### 18. Damages[^c-1133ed7bf6e0b140b99113bdb3ace18c]
 
 (1) The Department shall take into account against the benefits provided in these Regulations any damages or compensation which are recovered by any person in respect of the injury or disease or in respect of the death of a person to whom these Regulations apply, and such benefits may be withheld or reduced accordingly.
 
@@ -468,27 +468,27 @@ the Department, having regard to the transferred provision or to the provisions 
 
 (6) A certificate issued by the Department and stating the date on which the final determination of a right to and of the amount of any damages or compensation first came to its knowledge shall be admissible in any proceedings as sufficient evidence of that date.
 
-### 19. Avoidance of duplicate benefits[^key-fdc69cae8d14b07bc30070311e4af68f]
+### 19. Avoidance of duplicate benefits[^c-fdc69cae8d14b07bc30070311e4af68f]
 
 If the department is of the opinion that an injury or disease has been, or will be, taken into account for the purpose of any corresponding scheme the benefits of which or contributions towards which, are payable out of public funds, it may make such deduction from the benefits under these Regulations as may appear to it to be equitable, in order to secure that there may not be payable in respect of the same injury or disease benefits under these Regulations as well as benefits under a corresponding scheme.
 
-### 20. Medical examination[^key-1ff501d19d3d04962c7d2d0135489b4a]
+### 20. Medical examination[^c-1ff501d19d3d04962c7d2d0135489b4a]
 
 The Department may require any person entitled, or claiming to be entitled, to an allowance under Part II, or under Part III on the grounds that he is incapable by reason of permanent ill-health or infirmity of mind or body of earning his own living, to submit to a medical examination by a registered medical practitioner selected by the Department, and in that event the Department shall also offer the person an opportunity of submitting a report from his own medical adviser as a result of an examination by him, and the Department shall take that report into consideration together with the report of the medical practitioner selected by the Department.
 
-### 21. Benefits not assignable[^key-3dfb4479ae92a2a018c5def3b3dcfc26]
+### 21. Benefits not assignable[^c-3dfb4479ae92a2a018c5def3b3dcfc26]
 
 Subject to the provisions of any transferred provision in that behalf, any benefit to which a person becomes entitled under these Regulations shall be payable to, or in trust for, that person and shall not be assignable.
 
-### 22. Payment to personal representatives[^key-3738de98407ad5d1d4423d31b06cc92a]
+### 22. Payment to personal representatives[^c-3738de98407ad5d1d4423d31b06cc92a]
 
 Where, on the death of any person, any sum not exceeding £5,000 or such higher amount as would for the time being be applicable in relation to the death if these Regulations were a transferred provision to which section 6(1) of the Administration of Estates (Small Payments) Act (Northern Ireland) 1967[^f00033] (maximum amount disposable on death without representation) applied, is due to or in respect of that person under these Regulations the Department may dispense with proof of the title of the personal representatives of that person and pay that sum to the personal representatives or to the person, or to or among any one or more of any persons, appearing to the Department on such evidence as it deems satisfactory to be entitled by law to a beneficial interest therein and any person to whom such a payment is made, and not the Department, shall thereafter be liable to account for any amount so paid.
 
-### 23. Determination of questions[^key-06fae241be832615e1dd524d9c00835f]
+### 23. Determination of questions[^c-06fae241be832615e1dd524d9c00835f]
 
 Any question arising under these Regulations as to the rights or liabilities of a person to whom the Regulations apply, or of a person claiming to be treated as such, or of the widow or widower or any dependant of such a person, shall be determined by the Department whose determination shall be final.
 
-### 24. Option to persons detrimentally affected by these Regulations[^key-664a45517a99d7a605a9a9163ff8d3d6]
+### 24. Option to persons detrimentally affected by these Regulations[^c-664a45517a99d7a605a9a9163ff8d3d6]
 
 (1) This regulation applies in relation to any benefit which is payable to or in respect of a person who, having served in an employment or office, has service which qualifies persons to participate in the benefits provided under the previous Regulations, and has ceased to serve therein before these Regulations came into operation.
 
@@ -498,7 +498,7 @@ Any question arising under these Regulations as to the rights or liabilities of 
 
 (4) An election pursuant to paragraph (2) shall have effect in relation to the benefit referred to in paragraph (1) only to the extent that such benefit has accrued by virtue of periods of service rendered prior to the cessation referred to in paragraph (1) (or, if there has been more than one such cessation, the last of them before the coming into operation of these Regulations) and in determining the entitlement to, and the amount of, the benefit to that extent, such person shall be treated as if he had never recommenced service at any time after that cessation (or, as the case may be, the last such cessation).
 
-### 25. Revocations[^key-3cea3763c3b3d353ba6af686cc392ad5]
+### 25. Revocations[^c-3cea3763c3b3d353ba6af686cc392ad5]
 
 The Regulations specified in column 1 of the Schedule are hereby revoked to the extent mentioned in column 2 of that Schedule.
 
@@ -520,7 +520,7 @@ Senior Officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE — Revocations[^key-eb2c96a7e34c8bcaa145e0966512bafd]
+## SCHEDULE — Revocations[^c-eb2c96a7e34c8bcaa145e0966512bafd]
 
 Regulation 25
 
@@ -558,9 +558,9 @@ Regulation 25 and the Schedule to the Regulations make consequential revocations
 
 [^f00002]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073) as amended by [S.I. 1990/1509 (N.I. 13)](https://www.legislation.gov.uk/nisi/1990/1509)
 
-[^key-56a15e39bd99532ef61e7da5dc8d6853]: Commencement: Reg. 1 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-56a15e39bd99532ef61e7da5dc8d6853]: Commencement: Reg. 1 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-00806c4db40160fd13d34f886b5270f3]: Commencement: Reg. 2 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-00806c4db40160fd13d34f886b5270f3]: Commencement: Reg. 2 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
 [^f00003]: Footnote: [S.R. & O. (N.I.) 1962 No. 237](https://www.legislation.gov.uk/nisro/1962/237) which was repealed by regulation 80 of the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1984 ([S.R. 1984 No. 336](https://www.legislation.gov.uk/nisr/1984/336))
 
@@ -592,9 +592,9 @@ Regulation 25 and the Schedule to the Regulations make consequential revocations
 
 [^f00017]: Footnote: [S.I. 1974/1267 (N.I. 2)](https://www.legislation.gov.uk/nisi/1974/1267)
 
-[^key-23debcd864f51773ead0f748a3eccb5b]: Commencement: Reg. 3 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-23debcd864f51773ead0f748a3eccb5b]: Commencement: Reg. 3 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-718bb46633084d67887251d2e6bc2bc4]: Commencement: Reg. 4 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-718bb46633084d67887251d2e6bc2bc4]: Commencement: Reg. 4 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
 [^f00018]: Footnote: [1971 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35); Part I of the Act was amended by Article 23(1) of, and paragraphs 8 to 10 of Schedule 6, to the Superannuation (Northern Ireland) Order 1972 ([S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)): Articles 5(2) and (3) of the Pensions (Increase) (Northern Ireland) Order 1974 ([S.I. 1974/1267 (N.I. 2)](https://www.legislation.gov.uk/nisi/1974/1267)): Article 74(2) of, and Schedule 6 to, the Social Security Pensions (Northern Ireland) Order 1975 ([S.I. 1975/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1975/1503)) and Article 2 of the Pensions Increase (Reduction of Qualifying Age) Order 1972 ([S.R. & O. (N.I.) 1972 No. 264](https://www.legislation.gov.uk/nisro/1972/264)). *See* also Articles 69 and 69A of the Social Security Pensions (Northern Ireland) Order 1975 which have effect as if they were contained in Part V of that Act. Article 69A was inserted by the Social Security (Northern Ireland) Order 1979 ([S.I. 1979/396 (N.I. 5)](https://www.legislation.gov.uk/nisi/1979/396) Article 10(3))
 
@@ -620,54 +620,54 @@ Regulation 25 and the Schedule to the Regulations make consequential revocations
 
 [^f00029]: Footnote: Paragraph 13 was amended by paragraph 19(3) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995
 
-[^key-eed6a57d2b20b1b8ef99f35d807b59ee]: Commencement: Reg. 5 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-eed6a57d2b20b1b8ef99f35d807b59ee]: Commencement: Reg. 5 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-6cc83d5ff72de7415418137cc0cabb06]: Commencement: Reg. 6 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-6cc83d5ff72de7415418137cc0cabb06]: Commencement: Reg. 6 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-73dbd96949529e65372893b6e39d3bd9]: Commencement: Reg. 7 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-73dbd96949529e65372893b6e39d3bd9]: Commencement: Reg. 7 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-126157bf359fabc1e9c89e42da4ec6b6]: Commencement: Reg. 8 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-126157bf359fabc1e9c89e42da4ec6b6]: Commencement: Reg. 8 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-25a4e11bdfc197cf46fd7af177fcbec4]: Commencement: Reg. 9 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-25a4e11bdfc197cf46fd7af177fcbec4]: Commencement: Reg. 9 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-3d5908c2d18314d89f25ec252e51162d]: Commencement: Reg. 10 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-3d5908c2d18314d89f25ec252e51162d]: Commencement: Reg. 10 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-e2075b9a7da0c659801f1176395bbd61]: Commencement: Reg. 11 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-e2075b9a7da0c659801f1176395bbd61]: Commencement: Reg. 11 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-afac7f5e8157cfc53f7d9e84e4736974]: Commencement: Reg. 12 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-afac7f5e8157cfc53f7d9e84e4736974]: Commencement: Reg. 12 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-478ab55ad096cdfde43c60ce119d47a1]: Commencement: Reg. 13 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-478ab55ad096cdfde43c60ce119d47a1]: Commencement: Reg. 13 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-fbe5f29c196c7deb27a34e8dc57cd486]: Commencement: Reg. 14 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-fbe5f29c196c7deb27a34e8dc57cd486]: Commencement: Reg. 14 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
 [^f00030]: Footnote: Paragraphs (6)(iv) and (v) were inserted into the previous Regulations by [S.R. 1986 No. 151](https://www.legislation.gov.uk/nisr/1986/151)
 
-[^key-40f842371888c3f4e30037367372387e]: Commencement: Reg. 15 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-40f842371888c3f4e30037367372387e]: Commencement: Reg. 15 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
 [^f00031]: Footnote: [1911 c. 28](https://www.legislation.gov.uk/ukpga/1911/28); [1920 c. 75](https://www.legislation.gov.uk/ukpga/1920/75); [1939 c. 121](https://www.legislation.gov.uk/ukpga/1939/121); [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6)
 
-[^key-bf205c1fc2dd2e447e70793ac953ed1e]: Commencement: Reg. 16 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-bf205c1fc2dd2e447e70793ac953ed1e]: Commencement: Reg. 16 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-f412c5e064fb3b833389d6564e4ea822]: Commencement: Reg. 17 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-f412c5e064fb3b833389d6564e4ea822]: Commencement: Reg. 17 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-1133ed7bf6e0b140b99113bdb3ace18c]: Commencement: Reg. 18 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-1133ed7bf6e0b140b99113bdb3ace18c]: Commencement: Reg. 18 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
 [^f00032]: Footnote: [S.I. 1977/1251 (N.I. 18)](https://www.legislation.gov.uk/nisi/1977/1251)
 
-[^key-fdc69cae8d14b07bc30070311e4af68f]: Commencement: Reg. 19 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-fdc69cae8d14b07bc30070311e4af68f]: Commencement: Reg. 19 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-1ff501d19d3d04962c7d2d0135489b4a]: Commencement: Reg. 20 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-1ff501d19d3d04962c7d2d0135489b4a]: Commencement: Reg. 20 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-3dfb4479ae92a2a018c5def3b3dcfc26]: Commencement: Reg. 21 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-3dfb4479ae92a2a018c5def3b3dcfc26]: Commencement: Reg. 21 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-3738de98407ad5d1d4423d31b06cc92a]: Commencement: Reg. 22 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-3738de98407ad5d1d4423d31b06cc92a]: Commencement: Reg. 22 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
 [^f00033]: Footnote: [1967 c. 5 (N.I.)](https://www.legislation.gov.uk/apni/1967/5)
 
-[^key-06fae241be832615e1dd524d9c00835f]: Commencement: Reg. 23 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-06fae241be832615e1dd524d9c00835f]: Commencement: Reg. 23 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-664a45517a99d7a605a9a9163ff8d3d6]: Commencement: Reg. 24 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-664a45517a99d7a605a9a9163ff8d3d6]: Commencement: Reg. 24 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-3cea3763c3b3d353ba6af686cc392ad5]: Commencement: Reg. 25 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-3cea3763c3b3d353ba6af686cc392ad5]: Commencement: Reg. 25 in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
 
-[^key-eb2c96a7e34c8bcaa145e0966512bafd]: Commencement: Sch. in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)
+[^c-eb2c96a7e34c8bcaa145e0966512bafd]: Commencement: Sch. in operation at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/367/regulation/1)

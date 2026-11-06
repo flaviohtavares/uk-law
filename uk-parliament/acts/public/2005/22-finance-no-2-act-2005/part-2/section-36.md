@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Notional transfers within a group[^key-6fa133e12cf6f1d80e19be0360d0bbc6]
+## 36. Notional transfers within a group[^c-6fa133e12cf6f1d80e19be0360d0bbc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fa133e12cf6f1d80e19be0360d0bbc6]: Textual amendment: S. 36 omitted (with effect in accordance with Sch. 12 para. 5 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 12 para. 4(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/12/paragraph/4/d)
+[^c-6fa133e12cf6f1d80e19be0360d0bbc6]: Textual amendment: S. 36 omitted (with effect in accordance with Sch. 12 para. 5 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 12 para. 4(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/12/paragraph/4/d)

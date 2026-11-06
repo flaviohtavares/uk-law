@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies to the following authorities, namely, the Boards and the new authorities, but in its application to the Scottish Group any reference to the Minister shall be construed as a reference to the Secretary of State[^c15316871].
 
-(1A)[^c15316881] In the application of this section to the Waterways Board [^key-202196594f92215acd7de6ad4517a1fa]..., any reference to the Minister shall be construed as a reference to the Scottish Ministers and, in subsection (6) the reference to section 27(8) shall be construed as a reference to section 27(8C) and[^key-468b894f09a09c17b1e49ac31064ea29] the words “and with the approval of the Treasury” shall be omitted.
+(1A)[^c15316881] In the application of this section to the Waterways Board [^c-202196594f92215acd7de6ad4517a1fa]..., any reference to the Minister shall be construed as a reference to the Scottish Ministers and, in subsection (6) the reference to section 27(8) shall be construed as a reference to section 27(8C) and[^c-468b894f09a09c17b1e49ac31064ea29] the words “and with the approval of the Treasury” shall be omitted.
 
 (2)[^c15316891] Each of the authorities to whom this section applies shall have power—
 
@@ -65,9 +65,9 @@ shall cease to have effect.
 
 [^c15316881]: Textual amendment: S. 48(1A) inserted (1.4.2001) by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2000/3251/article/1/2/b), [2](https://www.legislation.gov.uk/uksi/2000/3251/article/2), [Sch. 2 Pt. II para. 3(6)](https://www.legislation.gov.uk/uksi/2000/3251/schedule/2/part/II/paragraph/3/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2000/3251/article/4))
 
-[^key-202196594f92215acd7de6ad4517a1fa]: Textual amendment: Words in [s. 48(1A)](https://www.legislation.gov.uk/ukpga/1968/73/section/48/1A) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 35(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/35/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-202196594f92215acd7de6ad4517a1fa]: Textual amendment: Words in [s. 48(1A)](https://www.legislation.gov.uk/ukpga/1968/73/section/48/1A) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 35(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/35/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-468b894f09a09c17b1e49ac31064ea29]: Textual amendment: Words in [s. 48(1A)](https://www.legislation.gov.uk/ukpga/1968/73/section/48/1A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/35/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-468b894f09a09c17b1e49ac31064ea29]: Textual amendment: Words in [s. 48(1A)](https://www.legislation.gov.uk/ukpga/1968/73/section/48/1A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 35(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/35/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c15316891]: Modification: S. 48(2) extended by [Transport Act 1982 (c. 49, SIF 126)](https://www.legislation.gov.uk/ukpga/1982/49), [Sch. 5 para. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1982/49/schedule/5/paragraph/5/1/2)
 

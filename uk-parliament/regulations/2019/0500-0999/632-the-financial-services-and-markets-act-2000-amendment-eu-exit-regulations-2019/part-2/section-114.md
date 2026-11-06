@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Paragraph 10 (insurance business transfers effected outside the United Kingdom)[^key-350c7cea3b8eb04fdb845f34f8e32a18]
+## 114. Paragraph 10 (insurance business transfers effected outside the United Kingdom)[^c-350c7cea3b8eb04fdb845f34f8e32a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In paragraph 10 (insurance business transfers effected outside the United Kingdo
 
 ## Annotations
 
-[^key-350c7cea3b8eb04fdb845f34f8e32a18]: Commencement: Reg. 114 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-350c7cea3b8eb04fdb845f34f8e32a18]: Commencement: Reg. 114 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658881]: Marginal citation: Sub-paragraph (2) was amended by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253) and paragraph 19(2) of Schedule 6 to the Financial Services Act 2012; sub-paragraph (3) was substituted by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
 

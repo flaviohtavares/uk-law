@@ -48,11 +48,11 @@ The Tribunal Procedure Committee makes the following Rules, in exercise of the p
 
 The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of Schedule 5 to the Tribunals, Courts and Enforcement Act 2007.
 
-## 1. Citation and commencement[^key-a393ff28e65e37f5e51f4a2186a0eb7f]
+## 1. Citation and commencement[^c-a393ff28e65e37f5e51f4a2186a0eb7f]
 
 These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2022 and come into force on 6th April 2022.
 
-## 2. Amendments to the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^key-109c71149c59fdbccb2bd1079beaf9d5]
+## 2. Amendments to the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^c-109c71149c59fdbccb2bd1079beaf9d5]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^f00002] are amended as follows.
 
@@ -154,7 +154,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2022 and co
 
 (12) In rule 38(3) (bail applications), in sub-paragraph (h) after “was refused and” insert “, where the previous refusal took place less than 28 days before the application,”.
 
-## 3. Amendments to the Tribunal Procedure (Upper Tribunal) Rules 2008[^key-9c24d3565f29f8099239a1289120e16d]
+## 3. Amendments to the Tribunal Procedure (Upper Tribunal) Rules 2008[^c-9c24d3565f29f8099239a1289120e16d]
 
 (1) The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00003] are amended as follows.
 
@@ -193,7 +193,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2022 and co
 
   .
 - (c) in paragraph (3)—
-  - (i) in sub-paragraph (e) from “on which the respondent” in the second place it occurs[^key-850dcbba357b21f34807aaf1f52d68c1] to the end of that sub-paragraph substitute—
+  - (i) in sub-paragraph (e) from “on which the respondent” in the second place it occurs[^c-850dcbba357b21f34807aaf1f52d68c1] to the end of that sub-paragraph substitute—
 
     > - (i) to uphold the decision for reasons other than those given by the tribunal; or
     > - (ii) on which the respondent was unsuccessful in the proceedings which are the subject of the appeal;
@@ -205,7 +205,7 @@ These Rules may be cited as the Tribunal Procedure (Amendment) Rules 2022 and co
 
     .
 
-## 4. Amendments to the Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010[^key-3ab4f4a6e6828f287889a5177c49075e]
+## 4. Amendments to the Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010[^c-3ab4f4a6e6828f287889a5177c49075e]
 
 (1) The Tribunal Procedure (Upper Tribunal) (Lands Chamber) Rules 2010[^f00004] are amended as follows.
 
@@ -281,19 +281,19 @@ No impact assessment has been carried out for these amendments as no, or no sign
 
 [^f00001]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15). Paragraph 3 of Schedule 5 is amended and Paragraph 28A is inserted by Part 2 of Schedule 1 to the Courts and Tribunals (Judiciary and functions of Staff) Act [2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33). There are other amendments to the Act but none are relevant to this instrument.
 
-[^key-a393ff28e65e37f5e51f4a2186a0eb7f]: Commencement: Rule 1 in force at 6.4.2022, see [rule 1](https://www.legislation.gov.uk/uksi/2022/312/rule/1)
+[^c-a393ff28e65e37f5e51f4a2186a0eb7f]: Commencement: Rule 1 in force at 6.4.2022, see [rule 1](https://www.legislation.gov.uk/uksi/2022/312/rule/1)
 
-[^key-109c71149c59fdbccb2bd1079beaf9d5]: Commencement: Rule 2 in force at 6.4.2022, see [rule 1](https://www.legislation.gov.uk/uksi/2022/312/rule/1)
+[^c-109c71149c59fdbccb2bd1079beaf9d5]: Commencement: Rule 2 in force at 6.4.2022, see [rule 1](https://www.legislation.gov.uk/uksi/2022/312/rule/1)
 
 [^f00002]: Footnote: [S.I. 2014/2604](https://www.legislation.gov.uk/uksi/2014/2604); relevant amending instruments are [S.I. 2017/1168](https://www.legislation.gov.uk/uksi/2017/1168), [S.I. 2018/511](https://www.legislation.gov.uk/uksi/2018/511), [S.I. 2020/61](https://www.legislation.gov.uk/uksi/2020/61), [1213](https://www.legislation.gov.uk/uksi/2020/1213) and [1372](https://www.legislation.gov.uk/uksi/2020/1372).
 
-[^key-9c24d3565f29f8099239a1289120e16d]: Commencement: Rule 3 in force at 6.4.2022, see [rule 1](https://www.legislation.gov.uk/uksi/2022/312/rule/1)
+[^c-9c24d3565f29f8099239a1289120e16d]: Commencement: Rule 3 in force at 6.4.2022, see [rule 1](https://www.legislation.gov.uk/uksi/2022/312/rule/1)
 
 [^f00003]: Footnote: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698); relevant amending instruments are [S.I. 2009/274](https://www.legislation.gov.uk/uksi/2009/274), 1975, [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43), 44, [S.I. 2013/2067](https://www.legislation.gov.uk/uksi/2013/2067), [S.I. 2014/514](https://www.legislation.gov.uk/uksi/2014/514), 2128, [S.I. 2015/1510](https://www.legislation.gov.uk/uksi/2015/1510), [S.I. 2017/723](https://www.legislation.gov.uk/uksi/2017/723) and [S.I. 2020/651](https://www.legislation.gov.uk/uksi/2020/651).
 
-[^key-850dcbba357b21f34807aaf1f52d68c1]: Textual amendment: Words in [rule 3(5)(c)(i)](https://www.legislation.gov.uk/uksi/2022/312/rule/3/5/c/i) inserted (27.12.2024) by [The Tribunal Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/1283)](https://www.legislation.gov.uk/uksi/2024/1283), [rules 1](https://www.legislation.gov.uk/uksi/2024/1283/rule/1), [6(2)](https://www.legislation.gov.uk/uksi/2024/1283/rule/6/2)
+[^c-850dcbba357b21f34807aaf1f52d68c1]: Textual amendment: Words in [rule 3(5)(c)(i)](https://www.legislation.gov.uk/uksi/2022/312/rule/3/5/c/i) inserted (27.12.2024) by [The Tribunal Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/1283)](https://www.legislation.gov.uk/uksi/2024/1283), [rules 1](https://www.legislation.gov.uk/uksi/2024/1283/rule/1), [6(2)](https://www.legislation.gov.uk/uksi/2024/1283/rule/6/2)
 
-[^key-3ab4f4a6e6828f287889a5177c49075e]: Commencement: Rule 4 in force at 6.4.2022, see [rule 1](https://www.legislation.gov.uk/uksi/2022/312/rule/1)
+[^c-3ab4f4a6e6828f287889a5177c49075e]: Commencement: Rule 4 in force at 6.4.2022, see [rule 1](https://www.legislation.gov.uk/uksi/2022/312/rule/1)
 
 [^f00004]: Footnote: [S.I. 2010/2600](https://www.legislation.gov.uk/uksi/2010/2600); relevant amending instruments are [S.I. 2013/1188](https://www.legislation.gov.uk/uksi/2013/1188), [S.I. 2017/1168](https://www.legislation.gov.uk/uksi/2017/1168) and [S.I. 2018/511](https://www.legislation.gov.uk/uksi/2018/511).
 

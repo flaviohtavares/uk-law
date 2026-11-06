@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Amendment of section 58[^key-4cd7cb6f635fa190aa35066a6b30aa3d]
+## 102. Amendment of section 58[^c-4cd7cb6f635fa190aa35066a6b30aa3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4cd7cb6f635fa190aa35066a6b30aa3d]: Commencement: Reg. 102 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-4cd7cb6f635fa190aa35066a6b30aa3d]: Commencement: Reg. 102 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00083]: Footnote: There are amendments to section 58, but these are not relevant to these Regulations.

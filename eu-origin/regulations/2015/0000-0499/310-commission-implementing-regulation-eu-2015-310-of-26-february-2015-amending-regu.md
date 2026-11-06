@@ -120,14 +120,14 @@ HAS ADOPTED THIS REGULATION:
   > 4. Member States which decide to equip new transport type State aircraft entering into service after 1 January 2019 with data link capability relying upon standards which are not specific to military operational requirements, shall ensure that those aircraft have the capability to operate the data link services defined in Annex II.
 
   ;
-- ((3)) [^key-a104ff1677727a968a89c08f2c6c22ab]...
-- ((4)) [^key-b90790b5ba4a94bc39698cf3b8890b55]...
+- ((3)) [^c-a104ff1677727a968a89c08f2c6c22ab]...
+- ((4)) [^c-b90790b5ba4a94bc39698cf3b8890b55]...
 
 **Article 2.** Implementing Regulation (EU) No 441/2014 is repealed.
 
-**Article 3.**[^key-cbd77cf42557c742eeb3c1d9e000eea3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-cbd77cf42557c742eeb3c1d9e000eea3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-841781d990e6c7176ea9b77f00491660]...
+[^c-841781d990e6c7176ea9b77f00491660]...
 
 Done at Brussels, 26 February 2015.
 
@@ -155,10 +155,10 @@ Jean-Claude Juncker
 
 [^f00008]: Footnote: Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the single European sky (the framework Regulation) ([OJ L 96, 31.3.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.096.01.0001.01.ENG)).
 
-[^key-a104ff1677727a968a89c08f2c6c22ab]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eur/2015/310/article/1/3) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [347](https://www.legislation.gov.uk/uksi/2019/459/regulation/347); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a104ff1677727a968a89c08f2c6c22ab]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eur/2015/310/article/1/3) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [347](https://www.legislation.gov.uk/uksi/2019/459/regulation/347); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b90790b5ba4a94bc39698cf3b8890b55]: Textual amendment: [Art. 1(4)](https://www.legislation.gov.uk/eur/2015/310/article/1/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [347](https://www.legislation.gov.uk/uksi/2019/459/regulation/347); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b90790b5ba4a94bc39698cf3b8890b55]: Textual amendment: [Art. 1(4)](https://www.legislation.gov.uk/eur/2015/310/article/1/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [347](https://www.legislation.gov.uk/uksi/2019/459/regulation/347); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cbd77cf42557c742eeb3c1d9e000eea3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2015/310/article/3) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [348](https://www.legislation.gov.uk/uksi/2019/459/regulation/348); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbd77cf42557c742eeb3c1d9e000eea3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2015/310/article/3) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [348](https://www.legislation.gov.uk/uksi/2019/459/regulation/348); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-841781d990e6c7176ea9b77f00491660]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/310/signature) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [349](https://www.legislation.gov.uk/uksi/2019/459/regulation/349); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-841781d990e6c7176ea9b77f00491660]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/310/signature) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [349](https://www.legislation.gov.uk/uksi/2019/459/regulation/349); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

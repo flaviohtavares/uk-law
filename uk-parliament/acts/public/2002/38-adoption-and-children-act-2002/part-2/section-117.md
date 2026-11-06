@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Inquiries by local authorities into representations[^key-c81e130c0f19e1be4fe2225943aabe3c][^key-0049f31e43a5969a0ba395f83bec3651]
+## 117. Inquiries by local authorities into representations[^c-c81e130c0f19e1be4fe2225943aabe3c][^c-0049f31e43a5969a0ba395f83bec3651]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c81e130c0f19e1be4fe2225943aabe3c]: Commencement: S. 117 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(xi)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/xi)
+[^c-c81e130c0f19e1be4fe2225943aabe3c]: Commencement: S. 117 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(xi)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/xi)
 
-[^key-0049f31e43a5969a0ba395f83bec3651]: Commencement: S. 117 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-0049f31e43a5969a0ba395f83bec3651]: Commencement: S. 117 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

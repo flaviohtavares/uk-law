@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Mergers of energy network enterprises[^key-1ee264e1d880ed700699c20ffe29b80c]
+## 129. Mergers of energy network enterprises[^c-1ee264e1d880ed700699c20ffe29b80c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 makes provision amending Part 3 of EA 2002 (mergers) and Schedule 16 
 
 ## Annotations
 
-[^key-1ee264e1d880ed700699c20ffe29b80c]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2024/13/section/129) in force at 24.7.2024, see [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3)
+[^c-1ee264e1d880ed700699c20ffe29b80c]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2024/13/section/129) in force at 24.7.2024, see [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3)

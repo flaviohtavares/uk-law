@@ -31,7 +31,7 @@ summary: ''
 
 Civil Partnership, England And Wales
 
-The Civil Partnerships Records Regulations 2016 (revoked)[^key-3f5ff7b28a859be3cbf95dc55ee43467]
+The Civil Partnerships Records Regulations 2016 (revoked)[^c-3f5ff7b28a859be3cbf95dc55ee43467]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 7th November 2016
 
-[^key-3f5ff7b28a859be3cbf95dc55ee43467]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f5ff7b28a859be3cbf95dc55ee43467]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3f5ff7b28a859be3cbf95dc55ee43467]
+## 1. Citation, commencement and interpretation[^c-3f5ff7b28a859be3cbf95dc55ee43467]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provision of the information contained in a civil partnership record in portable document format[^key-3f5ff7b28a859be3cbf95dc55ee43467]
+## 2. Provision of the information contained in a civil partnership record in portable document format[^c-3f5ff7b28a859be3cbf95dc55ee43467]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f5ff7b28a859be3cbf95dc55ee43467]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f5ff7b28a859be3cbf95dc55ee43467]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3f5ff7b28a859be3cbf95dc55ee43467]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f5ff7b28a859be3cbf95dc55ee43467]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3f5ff7b28a859be3cbf95dc55ee43467]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/981) revoked (28.5.2024) by [The Civil Partnership Records (Revocation) Regulations 2024 (S.I. 2024/596)](https://www.legislation.gov.uk/uksi/2024/596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/596/regulation/2)
+[^c-3f5ff7b28a859be3cbf95dc55ee43467]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/981) revoked (28.5.2024) by [The Civil Partnership Records (Revocation) Regulations 2024 (S.I. 2024/596)](https://www.legislation.gov.uk/uksi/2024/596), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/596/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/596/regulation/2)

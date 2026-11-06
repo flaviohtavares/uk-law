@@ -61,7 +61,7 @@ In section 2 of the [^c922738] Extra-Parochial Ministry Measure 1967 (ministry a
 >
 > A person is housebound or is a detained person for the purposes of this subsection if he is housebound or a detained person for the purposes of the Marriage Act 1949.
 
-### 6. Change of name of see.[^key-d7677411d86560b3c4573f6f6d045438]
+### 6. Change of name of see.[^c-d7677411d86560b3c4573f6f6d045438]
 
 *Extent: E*
 
@@ -71,9 +71,9 @@ In section 2 of the [^c922738] Extra-Parochial Ministry Measure 1967 (ministry a
 
 *Extent: E*
 
-(1) Subject to subsection (1A) below,[^c922742]It shall be lawful for the General Synod to make provision by Canon with respect to the revocation by the bishop of a diocese of licences granted to deaconesses, lay workers and readers who are not subject to common tenure[^key-3b9138d14133b08e6f51a2557402acaf], and with respect to appeals from any such revocation.
+(1) Subject to subsection (1A) below,[^c922742]It shall be lawful for the General Synod to make provision by Canon with respect to the revocation by the bishop of a diocese of licences granted to deaconesses, lay workers and readers who are not subject to common tenure[^c-3b9138d14133b08e6f51a2557402acaf], and with respect to appeals from any such revocation.
 
-(1A)[^key-a98942466b4be0f596289b072fcf8266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-a98942466b4be0f596289b072fcf8266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The following provisions of the [^c922744] Pluralities Act 1838 shall cease to have effect—
 
@@ -84,7 +84,7 @@ In section 2 of the [^c922738] Extra-Parochial Ministry Measure 1967 (ministry a
 
 It shall be lawful for the General Synod by Canon to make provision with respect to the appointment of persons to act as organists and choirmasters (by whatever name called) and with respect to the termination of such appointments.
 
-### 9. Powers to deal with church land during vacancy in benefice.[^key-6eca69734e70849f66ba8f61b5a1c852]
+### 9. Powers to deal with church land during vacancy in benefice.[^c-6eca69734e70849f66ba8f61b5a1c852]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -109,7 +109,7 @@ In section 3(3) of the [^c922747] Pastoral Measure 1983 (definition of “intere
 
 “ Where a team ministry is established for the area of a benefice, the reference in paragraph (b) to the incumbents of benefices shall in relation to that benefice be construed as a reference to all the persons who constitute the team under section 20(1). ”
 
-### 12. Clergy (Widows and Dependants) Pensions Fund.[^key-2f832ec5e212cae4ca6d24c25c549951]
+### 12. Clergy (Widows and Dependants) Pensions Fund.[^c-2f832ec5e212cae4ca6d24c25c549951]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -162,7 +162,7 @@ Section 14.
 
 ### Pastoral Measure 1983[^c922759]
 
-**4.**[^key-2e7575105eaa21fd883748a55a3a88f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2e7575105eaa21fd883748a55a3a88f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — REPEALS
 
@@ -206,23 +206,23 @@ Measures
 
 [^c922738]: Marginal citation: [1967 No. 2](https://www.legislation.gov.uk/ukcm/1967/2).
 
-[^key-d7677411d86560b3c4573f6f6d045438]: Textual amendment: S. 6 repealed (1.9.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [S.I. 2008/1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-d7677411d86560b3c4573f6f6d045438]: Textual amendment: S. 6 repealed (1.9.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [S.I. 2008/1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
 [^c922742]: Textual amendment: Words in s. 7(1) inserted (1.5.1996) by [1995 No. 1](https://www.legislation.gov.uk/ukcm/1995/1), [s. 15(a)](https://www.legislation.gov.uk/ukcm/1995/1/section/15/a); [Instrument dated 12.2.1996 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1996-02-12)
 
-[^key-3b9138d14133b08e6f51a2557402acaf]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukcm/1988/1/section/7/1) substituted (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukcm/2009/1/schedule/2/paragraph/19) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-3b9138d14133b08e6f51a2557402acaf]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukcm/1988/1/section/7/1) substituted (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukcm/2009/1/schedule/2/paragraph/19) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-a98942466b4be0f596289b072fcf8266]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukcm/1988/1/section/7/1A) repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-a98942466b4be0f596289b072fcf8266]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukcm/1988/1/section/7/1A) repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
 [^c922744]: Marginal citation: [1838 c. 106](https://www.legislation.gov.uk/ukpga/1838/106).
 
-[^key-6eca69734e70849f66ba8f61b5a1c852]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukcm/1988/1/section/9) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-6eca69734e70849f66ba8f61b5a1c852]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukcm/1988/1/section/9) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
 [^c922746]: Marginal citation: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88).
 
 [^c922747]: Marginal citation: [1983 No. 1](https://www.legislation.gov.uk/ukcm/1983/1).
 
-[^key-2f832ec5e212cae4ca6d24c25c549951]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukcm/1988/1/section/12) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-2f832ec5e212cae4ca6d24c25c549951]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukcm/1988/1/section/12) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
 [^c922749]: Marginal citation: [1956 No. 3](https://www.legislation.gov.uk/ukcm/1956/3).
 
@@ -236,4 +236,4 @@ Measures
 
 [^c922759]: Marginal citation: [1983 No. 1](https://www.legislation.gov.uk/ukcm/1983/1).
 
-[^key-2e7575105eaa21fd883748a55a3a88f4]: Textual amendment: Sch. 2 para. 4 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-2e7575105eaa21fd883748a55a3a88f4]: Textual amendment: Sch. 2 para. 4 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

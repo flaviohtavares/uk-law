@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360. Meaning of “commanding officer”[^key-81d14e72ff719a5ea914516657fb31f2]
+## 360. Meaning of “commanding officer”[^c-81d14e72ff719a5ea914516657fb31f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The officer who is the “commanding officer” of a person for the purposes of 
 
 ## Annotations
 
-[^key-81d14e72ff719a5ea914516657fb31f2]: Commencement: S. 360 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
+[^c-81d14e72ff719a5ea914516657fb31f2]: Commencement: S. 360 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)

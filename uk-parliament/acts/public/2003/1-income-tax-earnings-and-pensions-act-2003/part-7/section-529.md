@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 529. Scope of tax advantages: option must be exercised by the specified anniversary[^key-c057517bc4934dc9076d67693d42c006]
+## 529. Scope of tax advantages: option must be exercised by the specified anniversary[^c-c057517bc4934dc9076d67693d42c006]
 
 *Extent: E+W+S+N.I.*
 
 (1) Sections 530 to 540 apply in connection with the exercise of a qualifying option.
 
-(2) But those sections only apply in cases where the option is exercised on or before the specified[^key-00df3dac4c338259aa553b62c8f4faaa] anniversary of—
+(2) But those sections only apply in cases where the option is exercised on or before the specified[^c-00df3dac4c338259aa553b62c8f4faaa] anniversary of—
 
 - (a) the date of the grant of the option, or
 - (b) if it is a replacement option, the date of the grant of the original option.
 
-(2A)[^key-d731e86a8e4e3375adb695d504cca8a3] In this section, “**specified anniversary**” means—
+(2A)[^c-d731e86a8e4e3375adb695d504cca8a3] In this section, “**specified anniversary**” means—
 
 - (a) in cases where the employer company is a specified Northern Ireland company, the tenth anniversary, and
 - (b) otherwise, the fifteenth anniversary.
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c057517bc4934dc9076d67693d42c006]: Textual amendment: Words in [s. 529 heading](https://www.legislation.gov.uk/ukpga/2003/1/part/7/chapter/9/crossheading/tax-advantages-exercise-of-option) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/1/a)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)
+[^c-c057517bc4934dc9076d67693d42c006]: Textual amendment: Words in [s. 529 heading](https://www.legislation.gov.uk/ukpga/2003/1/part/7/chapter/9/crossheading/tax-advantages-exercise-of-option) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/1/a)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)
 
-[^key-00df3dac4c338259aa553b62c8f4faaa]: Textual amendment: Word in [s. 529(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/529/2) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/1/b)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)
+[^c-00df3dac4c338259aa553b62c8f4faaa]: Textual amendment: Word in [s. 529(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/529/2) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/1/b)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)
 
-[^key-d731e86a8e4e3375adb695d504cca8a3]: Textual amendment: [S. 529(2A)](https://www.legislation.gov.uk/ukpga/2003/1/section/529/2A) inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(1)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/1/c)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)
+[^c-d731e86a8e4e3375adb695d504cca8a3]: Textual amendment: [S. 529(2A)](https://www.legislation.gov.uk/ukpga/2003/1/section/529/2A) inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(1)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/1/c)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)

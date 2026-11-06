@@ -261,7 +261,7 @@ references in sub-paragraphs (2) to (6) above to rateable value are to value rep
 
 (3) A relevant provision is a provision made by or under paragraphs 1 to 9 above or by regulations under paragraph 10 above.
 
-**12.** Without prejudice to the generality of sections 143 (1) and (2) and 143A(2)(b) and (3)[^key-a7977ee8d97b3205002157f273c886c1] and paragraphs 10 and 11 above, regulations under those paragraphs may include provision—
+**12.** Without prejudice to the generality of sections 143 (1) and (2) and 143A(2)(b) and (3)[^c-a7977ee8d97b3205002157f273c886c1] and paragraphs 10 and 11 above, regulations under those paragraphs may include provision—
 
 - (a) imposing duties and conferring powers on valuation officers (whether as regards determinations, certificates or otherwise) in relation to the ascertainment of rateable values;
 - (b) as to appeals relating to things done or not done by such officers.
@@ -336,4 +336,4 @@ references in sub-paragraphs (2) to (6) above to rateable value are to value rep
 
 [^c13079661]: Modification: Sch. 7A para. 9 modified by [S.I. 1990/608](https://www.legislation.gov.uk/uksi/1990/608), [reg. 5(2)](https://www.legislation.gov.uk/uksi/1990/608/regulation/5/2) and by [S.I. 1990/608](https://www.legislation.gov.uk/uksi/1990/608), [reg. 13](https://www.legislation.gov.uk/uksi/1990/608/regulation/13)
 
-[^key-a7977ee8d97b3205002157f273c886c1]: Textual amendment: Words in [Sch. 7A para. 12](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7A/paragraph/12) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g), [Sch. para. 19(6)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/19/6)
+[^c-a7977ee8d97b3205002157f273c886c1]: Textual amendment: Words in [Sch. 7A para. 12](https://www.legislation.gov.uk/ukpga/1988/41/schedule/7A/paragraph/12) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g), [Sch. para. 19(6)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/19/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Power to maintain authorised development[^key-6aca5ec514a5e3b8cb5bc23b5fad811c]
+## 4. Power to maintain authorised development[^c-6aca5ec514a5e3b8cb5bc23b5fad811c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6aca5ec514a5e3b8cb5bc23b5fad811c]: Commencement: Art. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-6aca5ec514a5e3b8cb5bc23b5fad811c]: Commencement: Art. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

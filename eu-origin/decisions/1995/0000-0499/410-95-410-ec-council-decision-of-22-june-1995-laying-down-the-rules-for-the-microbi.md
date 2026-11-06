@@ -32,10 +32,10 @@ summary: ''
 
 of 22 June 1995 laying down the rules for the microbiological testing by sampling in the establishment of origin of poultry for slaughter intended for Finland and Sweden (revoked)
 
-[^key-7028f3063123c1faca3c0821fefcfa4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7028f3063123c1faca3c0821fefcfa4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-7028f3063123c1faca3c0821fefcfa4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-7028f3063123c1faca3c0821fefcfa4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7028f3063123c1faca3c0821fefcfa4e]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/2)
+[^c-7028f3063123c1faca3c0821fefcfa4e]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/2)

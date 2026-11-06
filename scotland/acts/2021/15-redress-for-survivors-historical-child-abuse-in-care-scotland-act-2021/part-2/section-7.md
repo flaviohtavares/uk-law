@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Functions of Redress Scotland[^key-b3c3bd06e992f17a2f42406636c29d81]
+## 7. Functions of Redress Scotland[^c-b3c3bd06e992f17a2f42406636c29d81]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Redress Scotland has the general function of making determinations in connection
 
 ## Annotations
 
-[^key-b3c3bd06e992f17a2f42406636c29d81]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/15/section/7) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-b3c3bd06e992f17a2f42406636c29d81]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/15/section/7) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

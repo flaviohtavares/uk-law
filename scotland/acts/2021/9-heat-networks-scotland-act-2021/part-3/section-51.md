@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Variation of heat network zone by Scottish Ministers[^key-6ec455258cf75feb2c2e491d62cddaa0]
+## 51. Variation of heat network zone by Scottish Ministers[^c-6ec455258cf75feb2c2e491d62cddaa0]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ec455258cf75feb2c2e491d62cddaa0]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2021/9/section/51) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(f)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/f)
+[^c-6ec455258cf75feb2c2e491d62cddaa0]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2021/9/section/51) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(f)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/f)

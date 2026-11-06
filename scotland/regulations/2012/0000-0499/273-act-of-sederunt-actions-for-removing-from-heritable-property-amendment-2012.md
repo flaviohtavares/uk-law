@@ -45,19 +45,19 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], section 215 of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^f00002] and of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
 
-## 1. Citation, commencement and interpretation[^key-dce5de1289336430d5337a5d1cc30c88]
+## 1. Citation, commencement and interpretation[^c-dce5de1289336430d5337a5d1cc30c88]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 and comes into force on 12th November 2012.
 
 (2) A certified copy of this Act of Sederunt is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Act of Sederunt (Actions for removing from heritable property) 2012[^key-bb90853efa4ad61e47039834505d6d48]
+## 2. Amendment of the Act of Sederunt (Actions for removing from heritable property) 2012[^c-bb90853efa4ad61e47039834505d6d48]
 
 (1) The Act of Sederunt (Actions for removing from heritable property) 2012[^f00003] is amended as follows.
 
-(2) In paragraph[^key-346e033ea18d01c01ada54112488ef7a] 3 (charge for removing)—
+(2) In paragraph[^c-346e033ea18d01c01ada54112488ef7a] 3 (charge for removing)—
 
-- (a) in subparagraph[^key-4a025938b1318c0e350f31cd7a4d3bdc] 1(b) delete “and”;
+- (a) in subparagraph[^c-4a025938b1318c0e350f31cd7a4d3bdc] 1(b) delete “and”;
 - (b) in subparagraph 5(a) for “defender’s last known address” substitute “heritable property”;
 - (c) for subparagraph 7(a) substitute—
 
@@ -77,7 +77,7 @@ Edinburgh
 
 9th October 2012
 
-## SCHEDULE[^key-bc7ff85af48bd4f3a135a031cce20288]
+## SCHEDULE[^c-bc7ff85af48bd4f3a135a031cce20288]
 
 EXPLANATORY NOTE
 
@@ -91,14 +91,14 @@ This Act of Sederunt amends the Act of Sederunt (Actions of removing from herita
 
 [^f00002]: Footnote: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3).
 
-[^key-dce5de1289336430d5337a5d1cc30c88]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1) in force at 12.11.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1)
+[^c-dce5de1289336430d5337a5d1cc30c88]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1) in force at 12.11.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1)
 
-[^key-bb90853efa4ad61e47039834505d6d48]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2) in force at 12.11.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1)
+[^c-bb90853efa4ad61e47039834505d6d48]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2) in force at 12.11.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1)
 
 [^f00003]: Footnote: [S.S.I. 2012/136](https://www.legislation.gov.uk/ssi/2012/136).
 
-[^key-346e033ea18d01c01ada54112488ef7a]: Textual amendment: Words in [para. 2(2)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2/a)
+[^c-346e033ea18d01c01ada54112488ef7a]: Textual amendment: Words in [para. 2(2)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2/a)
 
-[^key-4a025938b1318c0e350f31cd7a4d3bdc]: Textual amendment: Word in [para. 2(2)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2/b)
+[^c-4a025938b1318c0e350f31cd7a4d3bdc]: Textual amendment: Word in [para. 2(2)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2) substituted (27.5.2013) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2013 (S.S.I. 2013/135)](https://www.legislation.gov.uk/ssi/2013/135), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/1/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2/b)
 
-[^key-bc7ff85af48bd4f3a135a031cce20288]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2012/273/schedule) in force at 12.11.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1)
+[^c-bc7ff85af48bd4f3a135a031cce20288]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2012/273/schedule) in force at 12.11.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1)

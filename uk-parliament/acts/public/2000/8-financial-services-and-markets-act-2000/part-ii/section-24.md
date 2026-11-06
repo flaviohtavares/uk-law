@@ -32,8 +32,8 @@ summary: ''
 
 (3) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale, or both.
 
-(4) But where the conduct constituting the offence involved or included the public display of any material, the maximum fine for the offence is level 5 on the standard scale multiplied by the number of days for which the display continued. *(Extent: E+W)* *(affected by repeal, see note)*[^key-74cf26759e85d5f6f684eaebe7775b13]
+(4) But where the conduct constituting the offence involved or included the public display of any material, the maximum fine for the offence is level 5 on the standard scale multiplied by the number of days for which the display continued. *(Extent: E+W)* *(affected by repeal, see note)*[^c-74cf26759e85d5f6f684eaebe7775b13]
 
 ## Annotations
 
-[^key-74cf26759e85d5f6f684eaebe7775b13]: Textual amendment: S. 24(4) omitted (E.W.) (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/7) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-74cf26759e85d5f6f684eaebe7775b13]: Textual amendment: S. 24(4) omitted (E.W.) (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/7) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

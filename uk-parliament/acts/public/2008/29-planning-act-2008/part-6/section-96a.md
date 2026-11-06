@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Representations from public authorities[^key-8be24358adf4044714501e3383067b11]
+## 96A. Representations from public authorities[^c-8be24358adf4044714501e3383067b11]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8be24358adf4044714501e3383067b11]: Textual amendment: S. 96A inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/8/3), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/e)
+[^c-8be24358adf4044714501e3383067b11]: Textual amendment: S. 96A inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/8/3), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/e)

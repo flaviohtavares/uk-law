@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Time[^key-c10a24ac059169be32e710f19b70dffd]
+## 40. Time[^c-c10a24ac059169be32e710f19b70dffd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c10a24ac059169be32e710f19b70dffd]: Commencement: Reg. 40 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-c10a24ac059169be32e710f19b70dffd]: Commencement: Reg. 40 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

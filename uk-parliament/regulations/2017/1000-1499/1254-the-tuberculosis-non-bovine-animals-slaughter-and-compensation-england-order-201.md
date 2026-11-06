@@ -48,15 +48,15 @@ Coming into force
 
 The Secretary of State, with the approval of the Treasury and in exercise of the powers conferred by sections 32(2) and (3) of the Animal Health Act 1981[^f00001] and now vested in the Secretary of State[^f00002], makes the following Order:
 
-## 1. Citation, commencement, application and expiry[^key-9e656d894dc990e2ce4be008a1c15592]
+## 1. Citation, commencement, application and expiry[^c-9e656d894dc990e2ce4be008a1c15592]
 
 (1) This Order may be cited as the Tuberculosis (Non-bovine animals) Slaughter and Compensation (England) Order 2017 and comes into force on 2nd January 2018.
 
 (2) This Order applies in England only.
 
-(3)[^key-4a6cca40bba4ed9454587966ea9767a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4a6cca40bba4ed9454587966ea9767a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-add97ea6d423b39bc4cc07980f42a3b5]
+## 2. Interpretation[^c-add97ea6d423b39bc4cc07980f42a3b5]
 
 In this Order—
 
@@ -66,21 +66,21 @@ In this Order—
 - “non-bovine animals” means camelids, deer, goats, pigs and sheep; and
 - “tuberculosis” means infection with *Mycobacterium bovis* (*M. bovis*).
 
-## 3. Power to slaughter animals affected with tuberculosis[^key-d6d00e188f5187c7ae636b72d244b503]
+## 3. Power to slaughter animals affected with tuberculosis[^c-d6d00e188f5187c7ae636b72d244b503]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Compensation payable for a slaughtered non-bovine animal[^key-03aaf5a050e8da1a56b7a5e0eec7faee]
+## 4. Compensation payable for a slaughtered non-bovine animal[^c-03aaf5a050e8da1a56b7a5e0eec7faee]
 
 Where the Secretary of State causes a non-bovine animal to be slaughtered under section 32(1) of the Act in its application to tuberculosis, the compensation payable under section 32(3) in respect of that non-bovine animal is as set out in the Schedule.
 
-## 5. Revocations[^key-7bd3e9c510cc35d045af9a830e1f6526]
+## 5. Revocations[^c-7bd3e9c510cc35d045af9a830e1f6526]
 
 (1) The Tuberculosis (Deer and Camelid) Slaughter and Compensation (England) Order 2014[^f00003] is revoked.
 
 (2) Article 18 of the Tuberculosis (Deer and Camelid) (England) Order 2014[^f00004] is revoked.
 
-## 6. Review[^key-99bb294bc851b8867059eb690fc8bd39]
+## 6. Review[^c-99bb294bc851b8867059eb690fc8bd39]
 
 (1) The Secretary of State must from time to time—
 
@@ -122,13 +122,13 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Article 4
 
-**1.**[^key-0a4c7792851b5f3ce311e0d7aaadb4ce] The Secretary of State must determine the species and category of animal, specified in columns 1 and 2 of the table in paragraph 5 into which the non-bovine animal falls.
+**1.**[^c-0a4c7792851b5f3ce311e0d7aaadb4ce] The Secretary of State must determine the species and category of animal, specified in columns 1 and 2 of the table in paragraph 5 into which the non-bovine animal falls.
 
-**2.**[^key-f6801f465d6e04210d5c312079e0a21c] The age of a non-bovine animal is its age at the date on which the notice of intention to slaughter is served.
+**2.**[^c-f6801f465d6e04210d5c312079e0a21c] The age of a non-bovine animal is its age at the date on which the notice of intention to slaughter is served.
 
-**3.**[^key-58671b6a19c45a3925af461a8c400f35] The weight of a pig is its weight at the date on which the notice of intention to slaughter is served.
+**3.**[^c-58671b6a19c45a3925af461a8c400f35] The weight of a pig is its weight at the date on which the notice of intention to slaughter is served.
 
-**4.**[^key-e332f2283223b6807baf4dcde4286e50] The compensation payable is the amount specified in column 3 of the table, by reference to the applicable species listed in column 1 and the applicable category listed in column 2 of the table.
+**4.**[^c-e332f2283223b6807baf4dcde4286e50] The compensation payable is the amount specified in column 3 of the table, by reference to the applicable species listed in column 1 and the applicable category listed in column 2 of the table.
 
 Table
 
@@ -156,30 +156,30 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: Functions conferred under the Animal Health Act 1981 on “the Ministers” (as defined in section 86 of that Act) are now exercisable by the Secretary of State. They were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141). Functions of the Minister of Agriculture, Fisheries and Food were then further transferred to the Secretary of State by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
 
-[^key-9e656d894dc990e2ce4be008a1c15592]: Commencement: Art. 1 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
+[^c-9e656d894dc990e2ce4be008a1c15592]: Commencement: Art. 1 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
 
-[^key-4a6cca40bba4ed9454587966ea9767a6]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/3) omitted (1.1.2025) by virtue of [The Tuberculosis (Non-bovine animals) Slaughter and Compensation (England) (Amendment) Order 2024 (S.I. 2024/1279)](https://www.legislation.gov.uk/uksi/2024/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1279/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1279/article/2/2)
+[^c-4a6cca40bba4ed9454587966ea9767a6]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/3) omitted (1.1.2025) by virtue of [The Tuberculosis (Non-bovine animals) Slaughter and Compensation (England) (Amendment) Order 2024 (S.I. 2024/1279)](https://www.legislation.gov.uk/uksi/2024/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1279/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1279/article/2/2)
 
-[^key-add97ea6d423b39bc4cc07980f42a3b5]: Commencement: Art. 2 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
+[^c-add97ea6d423b39bc4cc07980f42a3b5]: Commencement: Art. 2 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
 
-[^key-d6d00e188f5187c7ae636b72d244b503]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/1254/article/3) omitted (15.7.2025) by virtue of [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/748/article/2/2)
+[^c-d6d00e188f5187c7ae636b72d244b503]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2017/1254/article/3) omitted (15.7.2025) by virtue of [The Tuberculosis in Animals (England) (Amendment) Order 2025 (S.I. 2025/748)](https://www.legislation.gov.uk/uksi/2025/748), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/748/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/748/article/2/2)
 
-[^key-03aaf5a050e8da1a56b7a5e0eec7faee]: Commencement: Art. 4 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
+[^c-03aaf5a050e8da1a56b7a5e0eec7faee]: Commencement: Art. 4 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
 
-[^key-7bd3e9c510cc35d045af9a830e1f6526]: Commencement: Art. 5 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
+[^c-7bd3e9c510cc35d045af9a830e1f6526]: Commencement: Art. 5 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2014/2338](https://www.legislation.gov.uk/uksi/2014/2338).
 
 [^f00004]: Footnote: [S.I. 2014/2337](https://www.legislation.gov.uk/uksi/2014/2337).
 
-[^key-99bb294bc851b8867059eb690fc8bd39]: Commencement: Art. 6 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
+[^c-99bb294bc851b8867059eb690fc8bd39]: Commencement: Art. 6 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
 
 [^f00005]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-0a4c7792851b5f3ce311e0d7aaadb4ce]: Commencement: Sch. 1 para. 1 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
+[^c-0a4c7792851b5f3ce311e0d7aaadb4ce]: Commencement: Sch. 1 para. 1 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
 
-[^key-f6801f465d6e04210d5c312079e0a21c]: Commencement: Sch. 1 para. 2 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
+[^c-f6801f465d6e04210d5c312079e0a21c]: Commencement: Sch. 1 para. 2 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
 
-[^key-58671b6a19c45a3925af461a8c400f35]: Commencement: Sch. 1 para. 3 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
+[^c-58671b6a19c45a3925af461a8c400f35]: Commencement: Sch. 1 para. 3 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
 
-[^key-e332f2283223b6807baf4dcde4286e50]: Commencement: Sch. 1 para. 4 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)
+[^c-e332f2283223b6807baf4dcde4286e50]: Commencement: Sch. 1 para. 4 in force at 2.1.2018, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1254/article/1/1)

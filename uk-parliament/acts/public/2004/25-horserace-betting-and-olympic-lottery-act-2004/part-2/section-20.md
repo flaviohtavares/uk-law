@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Extent[^key-3f0d8f7afa8d422911658251c8b9a8be]
+## 20. Extent[^c-3f0d8f7afa8d422911658251c8b9a8be]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Part shall not extend to Northern Ireland.
 
 ## Annotations
 
-[^key-3f0d8f7afa8d422911658251c8b9a8be]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2004/25/section/20) in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-3f0d8f7afa8d422911658251c8b9a8be]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2004/25/section/20) in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)

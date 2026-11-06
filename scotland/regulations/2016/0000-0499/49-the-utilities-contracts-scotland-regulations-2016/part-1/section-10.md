@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Water[^key-87f9e4a0e6be779bd21e6329ad49360b]
+## 10. Water[^c-87f9e4a0e6be779bd21e6329ad49360b]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87f9e4a0e6be779bd21e6329ad49360b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/49/regulation/10) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-87f9e4a0e6be779bd21e6329ad49360b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/49/regulation/10) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

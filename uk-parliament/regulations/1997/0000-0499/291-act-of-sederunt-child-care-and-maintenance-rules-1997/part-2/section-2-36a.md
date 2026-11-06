@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.36A. Interpretation[^key-223575fc003d674ed411688bc09cdae0]
+## 2.36A. Interpretation[^c-223575fc003d674ed411688bc09cdae0]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-223575fc003d674ed411688bc09cdae0]: Textual amendment: Ch. 2 Pts. 2-5 revoked (28.9.2009) by [Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 (S.S.I. 2009/284)](https://www.legislation.gov.uk/ssi/2009/284), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/1/1), [4(1)(b)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/1/b) (with [para. 4(2)-(6)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/2))
+[^c-223575fc003d674ed411688bc09cdae0]: Textual amendment: Ch. 2 Pts. 2-5 revoked (28.9.2009) by [Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 (S.S.I. 2009/284)](https://www.legislation.gov.uk/ssi/2009/284), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/1/1), [4(1)(b)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/1/b) (with [para. 4(2)-(6)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/2))

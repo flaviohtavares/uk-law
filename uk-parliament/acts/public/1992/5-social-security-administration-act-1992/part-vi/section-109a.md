@@ -55,7 +55,7 @@ summary: ''
 
 (8) The powers conferred by sections 109B and 109C below shall be exercisable in relation to persons holding office under the Crown and persons in the service of the Crown, and in relation to premises owned or occupied by the Crown, as they are exercisable in relation to other persons and premises.
 
-(9)[^key-a265c99edfe819b038f2265822af4bc3] This section and sections 109B to 109C below apply as if—
+(9)[^c-a265c99edfe819b038f2265822af4bc3] This section and sections 109B to 109C below apply as if—
 
 - (a) the Tax Credits Act 2002 were relevant social security legislation, and
 - (b) accordingly, child tax credit and working tax credit were relevant social security benefits for the purposes of the definition of “benefit offence“.
@@ -64,4 +64,4 @@ summary: ''
 
 [^c24145641]: Textual amendment: Ss. 109A, 109B, 109C substituted for s. 110 (2.4.2001) by the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86](https://www.legislation.gov.uk/ukpga/2000/19/section/86), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2000/19/schedule/6/paragraph/2); [S.I. 2001/1252](https://www.legislation.gov.uk/uksi/2001/1252), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2001/1252/article/2/1/a)
 
-[^key-a265c99edfe819b038f2265822af4bc3]: Textual amendment: S. 109A(9) inserted (6.6.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 122](https://www.legislation.gov.uk/ukpga/2012/5/section/122), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/2) (as amended (31.5.2012) by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440), [art. 2](https://www.legislation.gov.uk/uksi/2012/1440/article/2))
+[^c-a265c99edfe819b038f2265822af4bc3]: Textual amendment: S. 109A(9) inserted (6.6.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 122](https://www.legislation.gov.uk/ukpga/2012/5/section/122), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/2) (as amended (31.5.2012) by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440), [art. 2](https://www.legislation.gov.uk/uksi/2012/1440/article/2))

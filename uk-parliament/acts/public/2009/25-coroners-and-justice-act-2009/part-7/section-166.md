@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Effect of conviction being quashed etc[^key-5cb4916c7d3ee9de26b6cca97423bf62]
+## 166. Effect of conviction being quashed etc[^c-5cb4916c7d3ee9de26b6cca97423bf62]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 - (a) references in this section to the Secretary of State are to be read as references to the Scottish Ministers, and
 - (b) the reference in subsection (8) to a rate determined by the court is to read as a reference to a rate set by rules of court.
 
-(9A)[^key-c6950a80dd9dae6eb6a6888e0de6f1da] In the case of an exploitation proceeds order made in Northern Ireland on the application of an enforcement authority other than the National Crime Agency[^key-201737258625728885548a686e3712ca], references in this section to the Secretary of State are to be read as references to the Department of Justice in Northern Ireland.
+(9A)[^c-c6950a80dd9dae6eb6a6888e0de6f1da] In the case of an exploitation proceeds order made in Northern Ireland on the application of an enforcement authority other than the National Crime Agency[^c-201737258625728885548a686e3712ca], references in this section to the Secretary of State are to be read as references to the Department of Justice in Northern Ireland.
 
 (10) In this section—
 
@@ -76,8 +76,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5cb4916c7d3ee9de26b6cca97423bf62]: Commencement: S. 166 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+[^c-5cb4916c7d3ee9de26b6cca97423bf62]: Commencement: S. 166 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
 
-[^key-c6950a80dd9dae6eb6a6888e0de6f1da]: Textual amendment: S. 166(9A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 100](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/100) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-c6950a80dd9dae6eb6a6888e0de6f1da]: Textual amendment: S. 166(9A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 100](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/100) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-201737258625728885548a686e3712ca]: Textual amendment: Words in [s. 166(9A)](https://www.legislation.gov.uk/ukpga/2009/25/section/166/9A) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/186); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-201737258625728885548a686e3712ca]: Textual amendment: Words in [s. 166(9A)](https://www.legislation.gov.uk/ukpga/2009/25/section/166/9A) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/186); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Provision of information to the Commissioner[^key-209c685bc32f2000ce55f272824b1ce8]
+## 74. Provision of information to the Commissioner[^c-209c685bc32f2000ce55f272824b1ce8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ as appear to the Commissioner to be required by the Commissioner for the purpose
 
 ## Annotations
 
-[^key-209c685bc32f2000ce55f272824b1ce8]: Commencement: Reg. 74 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-209c685bc32f2000ce55f272824b1ce8]: Commencement: Reg. 74 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

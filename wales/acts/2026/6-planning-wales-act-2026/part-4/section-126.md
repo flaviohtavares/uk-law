@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Offence of failing to comply with breach of condition notice[^key-5dfa3ed0b0a4df21d615fa68f9f99244]
+## 126. Offence of failing to comply with breach of condition notice[^c-5dfa3ed0b0a4df21d615fa68f9f99244]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dfa3ed0b0a4df21d615fa68f9f99244]: Commencement: S. 126 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5dfa3ed0b0a4df21d615fa68f9f99244]: Commencement: S. 126 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

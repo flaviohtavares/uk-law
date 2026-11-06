@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Application of landlord and tenant law[^key-96f771e3f6755885e74ee0c9dc79abd6]
+## 42. Application of landlord and tenant law[^c-96f771e3f6755885e74ee0c9dc79abd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96f771e3f6755885e74ee0c9dc79abd6]: Modification: [S. 42](https://www.legislation.gov.uk/ukpga/2008/18/section/42) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [6](https://www.legislation.gov.uk/uksi/2010/988/article/6) (with [arts. 12](https://www.legislation.gov.uk/uksi/2010/988/article/12), [13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-96f771e3f6755885e74ee0c9dc79abd6]: Modification: [S. 42](https://www.legislation.gov.uk/ukpga/2008/18/section/42) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [6](https://www.legislation.gov.uk/uksi/2010/988/article/6) (with [arts. 12](https://www.legislation.gov.uk/uksi/2010/988/article/12), [13](https://www.legislation.gov.uk/uksi/2010/988/article/13))

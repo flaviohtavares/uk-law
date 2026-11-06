@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95C. Related offences[^key-659db08d2e1d8991daa8fa2200f6da0a]
+## 95C. Related offences[^c-659db08d2e1d8991daa8fa2200f6da0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-659db08d2e1d8991daa8fa2200f6da0a]: Textual amendment: Ss. 95A-95F and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-659db08d2e1d8991daa8fa2200f6da0a]: Textual amendment: Ss. 95A-95F and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))

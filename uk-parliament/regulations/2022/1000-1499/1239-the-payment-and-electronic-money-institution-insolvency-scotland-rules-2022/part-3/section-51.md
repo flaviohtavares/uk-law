@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Calculation of voting rights (creditors)[^key-590f77b957b278bf4f3619b7062280c6]
+## 51. Calculation of voting rights (creditors)[^c-590f77b957b278bf4f3619b7062280c6]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-590f77b957b278bf4f3619b7062280c6]: Commencement: Rule 51 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-590f77b957b278bf4f3619b7062280c6]: Commencement: Rule 51 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

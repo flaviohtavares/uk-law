@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.8. Housing administrator’s proposals - additional content[^key-53d79e57fa573bd2dd37bded0a8116ae]
+## 3.8. Housing administrator’s proposals - additional content[^c-53d79e57fa573bd2dd37bded0a8116ae]
 
 *Extent: E+W*
 
@@ -92,6 +92,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53d79e57fa573bd2dd37bded0a8116ae]: Commencement: Rule 3.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-53d79e57fa573bd2dd37bded0a8116ae]: Commencement: Rule 3.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00015]: Footnote: Paragraph 49(4) is amended by paragraph 10(2) of Schedule 9 to the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14D. Recovery of debts: overall limit[^key-69cebfec5d07810c0324494b52477b9d]
+## 14D. Recovery of debts: overall limit[^c-69cebfec5d07810c0324494b52477b9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ TOTAL AMOUNT OF DEBT THAT MAY BE RECOVERED
 
 ## Annotations
 
-[^key-69cebfec5d07810c0324494b52477b9d]: Textual amendment: [Regs. 14C](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14C), [14D](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14D) inserted (with effect in accordance with art. 1(3) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2014 (S.I. 2014/2689)](https://www.legislation.gov.uk/uksi/2014/2689), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2689/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/2689/regulation/4)
+[^c-69cebfec5d07810c0324494b52477b9d]: Textual amendment: [Regs. 14C](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14C), [14D](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14D) inserted (with effect in accordance with art. 1(3) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2014 (S.I. 2014/2689)](https://www.legislation.gov.uk/uksi/2014/2689), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2689/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/2689/regulation/4)

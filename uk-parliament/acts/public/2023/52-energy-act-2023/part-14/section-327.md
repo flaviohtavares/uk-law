@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 327. Transfer schemes: provision of information or assistance[^key-9671a654637980bae4767e9e6b12e7f2]
+## 327. Transfer schemes: provision of information or assistance[^c-9671a654637980bae4767e9e6b12e7f2]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9671a654637980bae4767e9e6b12e7f2]: Commencement: S. 327 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-9671a654637980bae4767e9e6b12e7f2]: Commencement: S. 327 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

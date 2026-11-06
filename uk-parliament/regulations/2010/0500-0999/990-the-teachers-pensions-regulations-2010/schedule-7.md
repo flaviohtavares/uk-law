@@ -39,7 +39,7 @@ Regulation 60
 - (b) if P is not in pensionable or excluded employment on the day on which P makes an application under regulation 107, such day as P specifies in the application, which must be no earlier than 6 weeks after the day on which P's application is made;
 - (c) the date of P's 75th birthday.
 
-### 3. Case C: ill-health retirement[^key-0b3dca80a828ac190f4746d7859bde6a]
+### 3. Case C: ill-health retirement[^c-0b3dca80a828ac190f4746d7859bde6a]
 
 (1) Except as provided in paragraph 4, a person (P) falls within this paragraph if—
 
@@ -50,7 +50,7 @@ Regulation 60
 
 (3) Condition 2 is that P makes the application under regulation 107—
 
-- (a) before ending a period of non-pensionable sick leave, non-pensionable family leave or a career break[^key-49f764930c7dc551a575813b87802fc9], or
+- (a) before ending a period of non-pensionable sick leave, non-pensionable family leave or a career break[^c-49f764930c7dc551a575813b87802fc9], or
 - (b) within 2 years of the last day of pensionable employment.
 
 (4) Condition 3 is that immediately before making the application under regulation 107 P is incapacitated and is likely to be incapacitated permanently.
@@ -66,7 +66,7 @@ Regulation 60
 
 (2) Condition A applies if a death grant may be paid under regulation 83 (death grant: death in service) or 85 (death grant: death out of service) on P's death (because P dies before payment of an ill-health pension is initiated).
 
-(2A)[^key-12cf0796cc6ca409d5c11ca1cddfefca] But Condition A does not apply if—
+(2A)[^c-12cf0796cc6ca409d5c11ca1cddfefca] But Condition A does not apply if—
 
 - (a) D made an application to the Secretary of State before D’s death for retirement benefits on the basis that Case C, and no other case (apart from Case A), applied to D’s reckonable service;
 - (b) at the same time that D made the application mentioned in paragraph (a), D made an application for commutation of the ill-health pension (and any total incapacity pension payable under regulation 65) under regulation 118 (commutation: serious ill health); and
@@ -77,7 +77,7 @@ Regulation 60
 - (a) a direction under section 142 of EA 2002 given on a ground mentioned in subsection (4)(a), (b) or (c) of that section has effect in respect of P,
 - (b) the Secretary of State is considering giving such a direction in respect of P,
 - (c) P is included, or is being considered for inclusion, in any of the lists mentioned in sub-paragraph (5), or
-- (d) the General Teaching Council for England [^c20238291] or the General Teaching Council for Wales [^c20238301] or the Secretary of State has made, or the General Teaching Council for Wales or the Secretary of State[^key-a260870cd71344c5604990154bf3cab5] makes, or is considering making, a prohibition order in relation to P on the grounds of unacceptable professional conduct or that P has been convicted of a relevant offence.
+- (d) the General Teaching Council for England [^c20238291] or the General Teaching Council for Wales [^c20238301] or the Secretary of State has made, or the General Teaching Council for Wales or the Secretary of State[^c-a260870cd71344c5604990154bf3cab5] makes, or is considering making, a prohibition order in relation to P on the grounds of unacceptable professional conduct or that P has been convicted of a relevant offence.
 
 (4) But Condition B does not apply if the Secretary of State determines that the only reason for the direction or the direction being considered, for including, or considering including, P in any of the lists; or for making, or considering making, a prohibition order is unrelated to P's culpable behaviour.
 
@@ -100,7 +100,7 @@ Regulation 60
 - (b) the day after the day on which P ceases to be in pensionable employment, excluded employment, on non-pensionable sick leave, on non-pensionable family leave or on a career break;
 - (c) the day which occurs 6 months before the date of the medical report following consideration of which the Secretary of State determines that P satisfies Condition 1 (where P satisfies Conditions 1, 2 and 3) or Condition 4 (where P does not satisfy Conditions 1, 2 and 3).
 
-(1A)[^key-436d38a4b8699b02149503578b91f16d] The Secretary of State may only make the determination mentioned in sub-paragraph (1)(c) after consideration of a medical report produced no more than 18 months before the date on which P made the application under regulation 107 for retirement benefits.
+(1A)[^c-436d38a4b8699b02149503578b91f16d] The Secretary of State may only make the determination mentioned in sub-paragraph (1)(c) after consideration of a medical report produced no more than 18 months before the date on which P made the application under regulation 107 for retirement benefits.
 
 (2) But the entitlement day must not be before the date of any previous medical report following consideration of which the Secretary of State did not make the determination mentioned in sub-paragraph (1)(c).
 
@@ -112,11 +112,11 @@ Regulation 60
 - (b) P is 55 or over on the date when P falls within paragraph (a),
 - (c) P's employer gives written notice to the Secretary of State stating that—
   - (i) P's employment was terminated by reason of P's redundancy or in the interests of the efficient discharge of the employer's functions, and
-  - (ii) the employer agrees that retirement benefits should become payable to P by virtue of P falling within this paragraph (as a result of which P will become entitled to lump sum and annual compensation under regulation 9 of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015[^key-9f907dd374a1532f45ad726e2cf34e9f]),
+  - (ii) the employer agrees that retirement benefits should become payable to P by virtue of P falling within this paragraph (as a result of which P will become entitled to lump sum and annual compensation under regulation 9 of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015[^c-9f907dd374a1532f45ad726e2cf34e9f]),
 - (d) P receives no compensation under Part 3 of those Regulations as a result of the termination of the employment, and
 - (e) P makes an application under regulation 107 for retirement benefits on the basis that Case D, and no other Case (apart from Case A), applies to P's reckonable service.
 
-(2) Where P's employment falls within category A (as defined by regulation 34(1) of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015[^key-c654d8b6edd7089d1594ba3c05fd805c]) and the governing body of the school or institution mentioned in that provision requests the local authority to do so, the authority must notify the Secretary of State as mentioned in sub-paragraph (1)(c).
+(2) Where P's employment falls within category A (as defined by regulation 34(1) of the Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015[^c-c654d8b6edd7089d1594ba3c05fd805c]) and the governing body of the school or institution mentioned in that provision requests the local authority to do so, the authority must notify the Secretary of State as mentioned in sub-paragraph (1)(c).
 
 **8.** (1) Where a person (P) falls within paragraph 7, Case D applies to P's reckonable service.
 
@@ -149,7 +149,7 @@ Regulation 60
 - (a) where P continues to be in the employment for at least 6 months after the date on which P asks P's employer to agree, the day after the cessation of that employment;
 - (b) where P ceases to be in that employment before 6 months have expired since the date on which P asks P's employer to agree, such day as P specifies in the application, which must be no earlier than 6 weeks after the date on which P's application is made.
 
-(3A)[^key-b9aeccc0535213b8f12b16b43d8cb9f8] P does not fall within paragraph 10 if—
+(3A)[^c-b9aeccc0535213b8f12b16b43d8cb9f8] P does not fall within paragraph 10 if—
 
 - (a) P makes the application mentioned in paragraph 10(1)(e);
 - (b) P’s application is made in accordance with paragraph 12(1) or (3)(b); and
@@ -170,22 +170,22 @@ A Case does not apply to reckonable service taken into account in the calculatio
 
 ## Annotations
 
-[^key-0b3dca80a828ac190f4746d7859bde6a]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/3) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/7/a)
+[^c-0b3dca80a828ac190f4746d7859bde6a]: Textual amendment: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/3) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/7/a)
 
-[^key-49f764930c7dc551a575813b87802fc9]: Textual amendment: Words in [Sch. 7 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/3/3/a) substituted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/17/a)
+[^c-49f764930c7dc551a575813b87802fc9]: Textual amendment: Words in [Sch. 7 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/3/3/a) substituted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/17/a)
 
-[^key-12cf0796cc6ca409d5c11ca1cddfefca]: Textual amendment: [Sch. 7 para. 4(2A)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/4/2A) inserted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/7/b)
+[^c-12cf0796cc6ca409d5c11ca1cddfefca]: Textual amendment: [Sch. 7 para. 4(2A)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/4/2A) inserted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/7/b)
 
 [^c20238291]: Marginal citation: The General Teaching Council for England was established pursuant to section 1 of the [Teaching and Higher Education Act 1998 (c.30)](https://www.legislation.gov.uk/ukpga/1998/30).
 
 [^c20238301]: Marginal citation: The General Teaching Council for Wales was established pursuant to section 8 of the Teaching and Higher Education Act 1998 and [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940).
 
-[^key-a260870cd71344c5604990154bf3cab5]: Textual amendment: Words in [Sch. 7 para. 4(3)(d)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/4/3/d) inserted (1.4.2012) by [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [13](https://www.legislation.gov.uk/uksi/2012/673/regulation/13)
+[^c-a260870cd71344c5604990154bf3cab5]: Textual amendment: Words in [Sch. 7 para. 4(3)(d)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/4/3/d) inserted (1.4.2012) by [The Teachers’ Pensions (Amendment) Regulations 2012 (S.I. 2012/673)](https://www.legislation.gov.uk/uksi/2012/673), [regs. 1](https://www.legislation.gov.uk/uksi/2012/673/regulation/1), [13](https://www.legislation.gov.uk/uksi/2012/673/regulation/13)
 
-[^key-436d38a4b8699b02149503578b91f16d]: Textual amendment: [Sch. 7 para. 6(1A)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/6/1A) inserted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/17/b)
+[^c-436d38a4b8699b02149503578b91f16d]: Textual amendment: [Sch. 7 para. 6(1A)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/6/1A) inserted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/17/b)
 
-[^key-9f907dd374a1532f45ad726e2cf34e9f]: Textual amendment: Words in [Sch. 7 para. 7(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/7/1/c/ii) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(d)(i)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/d/i) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+[^c-9f907dd374a1532f45ad726e2cf34e9f]: Textual amendment: Words in [Sch. 7 para. 7(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/7/1/c/ii) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(d)(i)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/d/i) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
 
-[^key-c654d8b6edd7089d1594ba3c05fd805c]: Textual amendment: Words in [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/7/2) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(d)(ii)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/d/ii) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+[^c-c654d8b6edd7089d1594ba3c05fd805c]: Textual amendment: Words in [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/7/2) substituted (1.4.2015) by [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(d)(ii)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/d/ii) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
 
-[^key-b9aeccc0535213b8f12b16b43d8cb9f8]: Textual amendment: [Sch. 7 para. 12(3A)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/12/3A) inserted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/7/c)
+[^c-b9aeccc0535213b8f12b16b43d8cb9f8]: Textual amendment: [Sch. 7 para. 12(3A)](https://www.legislation.gov.uk/uksi/2010/990/schedule/7/paragraph/12/3A) inserted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/7/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34D. Prohibition on disposal of food waste to sewer[^key-b424e39219cf8525e3725932cdec31b3]
+## 34D. Prohibition on disposal of food waste to sewer[^c-b424e39219cf8525e3725932cdec31b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ into a public sewer or a sewer or drain communicating with a public sewer.
 
 ## Annotations
 
-[^key-b424e39219cf8525e3725932cdec31b3]: Textual amendment: [S. 34D](https://www.legislation.gov.uk/ukpga/1990/43/section/34D) and cross-heading inserted (6.4.2024) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 66(1)](https://www.legislation.gov.uk/anaw/2016/3/section/66/1), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 3](https://www.legislation.gov.uk/wsi/2023/1096/article/3)
+[^c-b424e39219cf8525e3725932cdec31b3]: Textual amendment: [S. 34D](https://www.legislation.gov.uk/ukpga/1990/43/section/34D) and cross-heading inserted (6.4.2024) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 66(1)](https://www.legislation.gov.uk/anaw/2016/3/section/66/1), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 3](https://www.legislation.gov.uk/wsi/2023/1096/article/3)

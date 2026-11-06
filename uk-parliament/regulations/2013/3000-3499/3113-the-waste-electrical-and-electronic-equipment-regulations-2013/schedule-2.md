@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Indicative list of types of EEE which fall under the categories in Schedule 1[^key-8b3af6a67ad03ccc5351d94cca11cbb0]
+## SCHEDULE 2 — Indicative list of types of EEE which fall under the categories in Schedule 1[^c-8b3af6a67ad03ccc5351d94cca11cbb0]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 5
 
-[^key-8b3af6a67ad03ccc5351d94cca11cbb0]
+[^c-8b3af6a67ad03ccc5351d94cca11cbb0]
 
 - 1) LARGE HOUSEHOLD APPLIANCES
 
@@ -241,4 +241,4 @@ Regulation 5
 
 ## Annotations
 
-[^key-8b3af6a67ad03ccc5351d94cca11cbb0]: Commencement: Sch. 2 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-8b3af6a67ad03ccc5351d94cca11cbb0]: Commencement: Sch. 2 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

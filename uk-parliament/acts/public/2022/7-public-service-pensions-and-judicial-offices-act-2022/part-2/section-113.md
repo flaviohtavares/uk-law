@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Protection against adverse treatment: transfer of rights[^key-e620230c55823edaebce55093bd4db40]
+## 113. Protection against adverse treatment: transfer of rights[^c-e620230c55823edaebce55093bd4db40]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e620230c55823edaebce55093bd4db40]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2022/7/section/113) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)
+[^c-e620230c55823edaebce55093bd4db40]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2022/7/section/113) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)

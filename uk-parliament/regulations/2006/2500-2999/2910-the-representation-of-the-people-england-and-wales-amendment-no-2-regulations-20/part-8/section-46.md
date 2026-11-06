@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Prescribed forms of official postal poll card sent to the elector or their proxy[^key-5bc49e3001dc56687f4c36537fe9b132]
+## 46. Prescribed forms of official postal poll card sent to the elector or their proxy[^c-5bc49e3001dc56687f4c36537fe9b132]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ For regulation 9 (Official poll card at parliamentary elections) insert—
 
 ## Annotations
 
-[^key-5bc49e3001dc56687f4c36537fe9b132]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2006/2910/regulation/46) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-5bc49e3001dc56687f4c36537fe9b132]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2006/2910/regulation/46) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00070]: Footnote: Rule 28(3) in Schedule 1 to the Representation of the People Act [1983 (c.2.)](https://www.legislation.gov.uk/ukpga/1983/2) was amended by paragraph 70 of Schedule 1 to the Electoral Administration Act [2006 (c.22.)](https://www.legislation.gov.uk/ukpga/2006/22).

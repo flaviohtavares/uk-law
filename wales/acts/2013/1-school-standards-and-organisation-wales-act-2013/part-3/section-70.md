@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Adoption of proposals[^key-e4aa1e0ea6ddb788787a2bc4901f92b8]
+## 70. Adoption of proposals[^c-e4aa1e0ea6ddb788787a2bc4901f92b8]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4aa1e0ea6ddb788787a2bc4901f92b8]: Commencement: S. 70 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/c)
+[^c-e4aa1e0ea6ddb788787a2bc4901f92b8]: Commencement: S. 70 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/c)

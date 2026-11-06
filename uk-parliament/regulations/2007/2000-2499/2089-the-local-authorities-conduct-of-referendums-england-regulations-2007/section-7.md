@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Notional referendum expenses[^key-eb5bb735f18944dcf5f6dc29729c10d6]
+## 7. Notional referendum expenses[^c-eb5bb735f18944dcf5f6dc29729c10d6]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ as is reasonably attributable to the use made of the property, services or facil
 
 ## Annotations
 
-[^key-eb5bb735f18944dcf5f6dc29729c10d6]: Commencement: Reg. 7 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-eb5bb735f18944dcf5f6dc29729c10d6]: Commencement: Reg. 7 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)

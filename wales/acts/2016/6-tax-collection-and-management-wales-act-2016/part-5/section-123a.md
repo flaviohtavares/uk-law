@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123A. Penalty for failure to pay amount payable in respect of tax credit on time[^key-6f6e0e11176d333fc22698532a741e64]
+## 123A. Penalty for failure to pay amount payable in respect of tax credit on time[^c-6f6e0e11176d333fc22698532a741e64]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f6e0e11176d333fc22698532a741e64]: Textual amendment: [S. 123A](https://www.legislation.gov.uk/anaw/2016/6/section/123A) and cross-heading inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/25)
+[^c-6f6e0e11176d333fc22698532a741e64]: Textual amendment: [S. 123A](https://www.legislation.gov.uk/anaw/2016/6/section/123A) and cross-heading inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 25](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/25)

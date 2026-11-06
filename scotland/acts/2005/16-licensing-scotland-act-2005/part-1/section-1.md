@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Prohibition of unlicensed sale of alcohol[^key-b1fa13357c1091e480179ec1421c7a3f]
+## 1. Prohibition of unlicensed sale of alcohol[^c-b1fa13357c1091e480179ec1421c7a3f]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ granted under this Act in respect of the premises.
 (3) A person who—
 
 - (a) sells alcohol, or
-- (b) [^key-d710d3cff309ca74a2a06d5801d57c9a]... allows alcohol to be sold,
+- (b) [^c-d710d3cff309ca74a2a06d5801d57c9a]... allows alcohol to be sold,
 
 in breach of subsection (1) commits an offence.
 
@@ -47,6 +47,6 @@ in breach of subsection (1) commits an offence.
 
 ## Annotations
 
-[^key-b1fa13357c1091e480179ec1421c7a3f]: Commencement: S. 1 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-b1fa13357c1091e480179ec1421c7a3f]: Commencement: S. 1 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
-[^key-d710d3cff309ca74a2a06d5801d57c9a]: Textual amendment: Word in s. 1(3)(b) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/195/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-d710d3cff309ca74a2a06d5801d57c9a]: Textual amendment: Word in s. 1(3)(b) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/195/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

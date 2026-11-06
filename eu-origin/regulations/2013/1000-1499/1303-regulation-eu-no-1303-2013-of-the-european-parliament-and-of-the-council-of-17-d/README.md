@@ -37,13 +37,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-b676935048cfd925335e1c66c82fd0d4]Regulation (EU) No 1303/2013 of the European Parliament and of the Council
+[^c-b676935048cfd925335e1c66c82fd0d4]Regulation (EU) No 1303/2013 of the European Parliament and of the Council
 
 of 17 December 2013
 
 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation (EC) No 1083/2006
 
-[^key-bd0ef492d3e0ffc719310c2654e0e4f6][^key-49e6121da4cddaf7353cca9a0c530042][^key-2c9282d70151c224b870fea9b1d5ef9f][^M_C_4768c982-278b-4afe-8fec-10fe7a6952bf][^key-0f888333a662f82a92296fb99c6243c8]
+[^c-bd0ef492d3e0ffc719310c2654e0e4f6][^c-49e6121da4cddaf7353cca9a0c530042][^c-2c9282d70151c224b870fea9b1d5ef9f][^M_C_4768c982-278b-4afe-8fec-10fe7a6952bf][^c-0f888333a662f82a92296fb99c6243c8]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -597,7 +597,7 @@ HAVE ADOPTED THIS REGULATION:
 
 ## Contents
 
-### PART ONE (affected by repeal, see note) — SUBJECT-MATTER AND DEFINITIONS (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+### PART ONE (affected by repeal, see note) — SUBJECT-MATTER AND DEFINITIONS (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -605,11 +605,11 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 2 — Definitions](section-article-2.md)
 - [Section Article 3 — Calculation of time limits for Commission decisions](section-article-3.md)
 
-### PART TWO — COMMON PROVISIONS APPLICABLE TO SUPPORT FOR RURAL DEVELOPMENT[^key-093971c59f66e9ec19be73f1f7bf04d0]
+### PART TWO — COMMON PROVISIONS APPLICABLE TO SUPPORT FOR RURAL DEVELOPMENT[^c-093971c59f66e9ec19be73f1f7bf04d0]
 
 *Extent: E+W+S+N.I.*
 
-#### TITLE I — PRINCIPLES OF SUPPORT FOR RURAL DEVELOPMENT[^key-a021ab18db5f11230a4c9f5c7fa1e9c5]
+#### TITLE I — PRINCIPLES OF SUPPORT FOR RURAL DEVELOPMENT[^c-a021ab18db5f11230a4c9f5c7fa1e9c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -619,11 +619,11 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 7 — Promotion of equality between men and women and non-discrimination](section-article-7.md)
 - [Section Article 8 — Sustainable development](section-article-8.md)
 
-#### TITLE II (Extent: W) (affected by repeal, see note) — STRATEGIC APPROACH (Extent: W) (affected by repeal, see note)[^key-5b4bdf7cefeb917bd7634ae1394956ca][^key-5b4bdf7cefeb917bd7634ae1394956ca]
+#### TITLE II (Extent: W) (affected by repeal, see note) — STRATEGIC APPROACH (Extent: W) (affected by repeal, see note)[^c-5b4bdf7cefeb917bd7634ae1394956ca][^c-5b4bdf7cefeb917bd7634ae1394956ca]
 
 *Extent: E+W+S+N.I.*
 
-##### CHAPTER I (Extent: W) (affected by repeal, see note) — Thematic objectives for the ESI Funds and Common Strategic Framework (Extent: W) (affected by repeal, see note)[^key-5b4bdf7cefeb917bd7634ae1394956ca][^key-5b4bdf7cefeb917bd7634ae1394956ca]
+##### CHAPTER I (Extent: W) (affected by repeal, see note) — Thematic objectives for the ESI Funds and Common Strategic Framework (Extent: W) (affected by repeal, see note)[^c-5b4bdf7cefeb917bd7634ae1394956ca][^c-5b4bdf7cefeb917bd7634ae1394956ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -633,7 +633,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 12 — Review](section-article-12.md)
 - [Section Article 13 — Guidance for beneficiaries](section-article-13.md)
 
-##### CHAPTER II (Extent: W) (affected by repeal, see note) — Partnership Agreement (Extent: W) (affected by repeal, see note)[^key-5b4bdf7cefeb917bd7634ae1394956ca][^key-5b4bdf7cefeb917bd7634ae1394956ca]
+##### CHAPTER II (Extent: W) (affected by repeal, see note) — Partnership Agreement (Extent: W) (affected by repeal, see note)[^c-5b4bdf7cefeb917bd7634ae1394956ca][^c-5b4bdf7cefeb917bd7634ae1394956ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -642,7 +642,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 16 — Adoption and amendment of the Partnership Agreement](section-article-16.md)
 - [Section Article 17 — Adoption of the revised Partnership Agreement in the event of delay in the entry into force of a Fund-specific Regulation](section-article-17.md)
 
-##### CHAPTER III (Extent: W) (affected by repeal, see note) — Thematic concentration, ex ante conditionalities and performance review (Extent: W) (affected by repeal, see note)[^key-5b4bdf7cefeb917bd7634ae1394956ca][^key-5b4bdf7cefeb917bd7634ae1394956ca]
+##### CHAPTER III (Extent: W) (affected by repeal, see note) — Thematic concentration, ex ante conditionalities and performance review (Extent: W) (affected by repeal, see note)[^c-5b4bdf7cefeb917bd7634ae1394956ca][^c-5b4bdf7cefeb917bd7634ae1394956ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -652,7 +652,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 21 — Performance review](section-article-21.md)
 - [Section Article 22 — Application of the performance framework](section-article-22.md)
 
-##### CHAPTER IV (Extent: W) (affected by repeal, see note) — Measures linked to sound economic governance (Extent: W) (affected by repeal, see note)[^key-5b4bdf7cefeb917bd7634ae1394956ca][^key-5b4bdf7cefeb917bd7634ae1394956ca]
+##### CHAPTER IV (Extent: W) (affected by repeal, see note) — Measures linked to sound economic governance (Extent: W) (affected by repeal, see note)[^c-5b4bdf7cefeb917bd7634ae1394956ca][^c-5b4bdf7cefeb917bd7634ae1394956ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -660,7 +660,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 24 — Increase in payments for Member State with temporary budgetary difficulties](section-article-24.md)
 - [Section Article 25 — Management of technical assistance for Member States](section-article-25.md)
 
-##### CHAPTER V (Extent: W) (affected by repeal, see note) — Exceptional measures for the use of the ESI Funds in response to the COVID-19 outbreak (Extent: W) (affected by repeal, see note)[^c000007][^key-5b4bdf7cefeb917bd7634ae1394956ca][^key-5b4bdf7cefeb917bd7634ae1394956ca]
+##### CHAPTER V (Extent: W) (affected by repeal, see note) — Exceptional measures for the use of the ESI Funds in response to the COVID-19 outbreak (Extent: W) (affected by repeal, see note)[^c000007][^c-5b4bdf7cefeb917bd7634ae1394956ca][^c-5b4bdf7cefeb917bd7634ae1394956ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -670,7 +670,7 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-##### CHAPTER I (Extent: W) (affected by repeal, see note) — General provisions on the ESI Funds (Extent: W) (affected by repeal, see note)[^key-45f0588b8a671a076579a96026205fe8][^key-45f0588b8a671a076579a96026205fe8]
+##### CHAPTER I (Extent: W) (affected by repeal, see note) — General provisions on the ESI Funds (Extent: W) (affected by repeal, see note)[^c-45f0588b8a671a076579a96026205fe8][^c-45f0588b8a671a076579a96026205fe8]
 
 *Extent: E+W+S+N.I.*
 
@@ -765,7 +765,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 60 — Determination of co-financing rates](section-article-60.md)
 - [Section Article 61 — Operations generating net revenue after completion](section-article-61.md)
 
-##### CHAPTER II — Special rules on support from the ESI Funds to PPPs (affected by repeal, see note)Special rules on support to PPPs[^key-814bb225f0b18305d61ab36c7040f5be]
+##### CHAPTER II — Special rules on support from the ESI Funds to PPPs (affected by repeal, see note)Special rules on support to PPPs[^c-814bb225f0b18305d61ab36c7040f5be]
 
 *Extent: W*
 
@@ -787,7 +787,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 70 — Eligibility of operations depending on location](section-article-70.md)
 - [Section Article 71 — Durability of operations](section-article-71.md)
 
-#### TITLE VIII — MANAGEMENT AND CONTROL[^key-4fc08615752e0c86dfe83283fea61ab9]
+#### TITLE VIII — MANAGEMENT AND CONTROL[^c-4fc08615752e0c86dfe83283fea61ab9]
 
 *Extent: E+W+S+N.I.*
 
@@ -815,7 +815,7 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-##### CHAPTER I — Financial management[^key-72cf4f981c2ba4e34614775056d25da4]
+##### CHAPTER I — Financial management[^c-72cf4f981c2ba4e34614775056d25da4]
 
 *Extent: E+W+S+N.I.*
 
@@ -828,7 +828,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 82 — Clearance of initial pre-financing](section-article-82.md)
 - [Section Article 83 — Interruption of the payment deadline](section-article-83.md)
 
-##### CHAPTER II — Examination and acceptance of accounts[^key-0ae999d25f6b9db1037657c5287f6833]
+##### CHAPTER II — Examination and acceptance of accounts[^c-0ae999d25f6b9db1037657c5287f6833]
 
 *Extent: E+W+S+N.I.*
 
@@ -848,7 +848,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 87 — Exception to the decommitment](section-article-87.md)
 - [Section Article 88 — Procedure](section-article-88.md)
 
-### PART THREE — GENERAL PROVISIONS APPLICABLE TO THE ERDF, THE ESF AND THE COHESION FUND[^key-127611f84b45a01fdd7b642b3bcf5a82]
+### PART THREE — GENERAL PROVISIONS APPLICABLE TO THE ERDF, THE ESF AND THE COHESION FUND[^c-127611f84b45a01fdd7b642b3bcf5a82]
 
 *Extent: E+W+S+N.I.*
 
@@ -970,21 +970,21 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 120 — Determination of co-financing rates](section-article-120.md)
 - [Section Article 121 — Modulation of the co-financing rates](section-article-121.md)
 
-### PART FOUR (affected by repeal, see note) — GENERAL PROVISIONS APPLICABLE TO THE FUNDS AND THE EMFF (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+### PART FOUR (affected by repeal, see note) — GENERAL PROVISIONS APPLICABLE TO THE FUNDS AND THE EMFF (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-#### TITLE I (affected by repeal, see note) — MANAGEMENT AND CONTROL (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+#### TITLE I (affected by repeal, see note) — MANAGEMENT AND CONTROL (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-##### CHAPTER I (affected by repeal, see note) — Management and control systems (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+##### CHAPTER I (affected by repeal, see note) — Management and control systems (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 122 — Responsibilities of Member States](section-article-122.md)
 
-##### CHAPTER II (affected by repeal, see note) — Management and control authorities (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+##### CHAPTER II (affected by repeal, see note) — Management and control authorities (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -994,17 +994,17 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 126 — Functions of the certifying authority](section-article-126.md)
 - [Section Article 127 — Functions of the audit authority](section-article-127.md)
 
-##### CHAPTER III (affected by repeal, see note) — Cooperation with audit authorities (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+##### CHAPTER III (affected by repeal, see note) — Cooperation with audit authorities (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 128 — Cooperation with audit authorities](section-article-128.md)
 
-#### TITLE II (affected by repeal, see note) — FINANCIAL MANAGEMENT, PREPARATION, EXAMINATION AND ACCEPTANCE OF ACCOUNTS AND FINANCIAL CORRECTIONS (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^c000002][^key-b676935048cfd925335e1c66c82fd0d4]
+#### TITLE II (affected by repeal, see note) — FINANCIAL MANAGEMENT, PREPARATION, EXAMINATION AND ACCEPTANCE OF ACCOUNTS AND FINANCIAL CORRECTIONS (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c000002][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-##### CHAPTER I (affected by repeal, see note) — Financial management (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+##### CHAPTER I (affected by repeal, see note) — Financial management (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -1017,11 +1017,11 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 135 — Deadlines for presentation of interim payment applications and for their payment](section-article-135.md)
 - [Section Article 136 — Decommitment](section-article-136.md)
 
-##### CHAPTER II (affected by repeal, see note) — Preparation, examination and acceptance of accounts and closure of operational programmes and suspension of payments (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+##### CHAPTER II (affected by repeal, see note) — Preparation, examination and acceptance of accounts and closure of operational programmes and suspension of payments (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-###### Section I (affected by repeal, see note) — Preparation, examination and acceptance of accounts (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+###### Section I (affected by repeal, see note) — Preparation, examination and acceptance of accounts (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -1030,29 +1030,29 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 139 — Examination and acceptance of accounts](section-article-139.md)
 - [Section Article 140 — Availability of documents](section-article-140.md)
 
-###### Section II (affected by repeal, see note) — Closure of operational programmes (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+###### Section II (affected by repeal, see note) — Closure of operational programmes (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 141 — Submission of closure documents and payment of the final balance](section-article-141.md)
 
-###### Section III (affected by repeal, see note) — Suspension of payments (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+###### Section III (affected by repeal, see note) — Suspension of payments (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 142 — Suspension of payments](section-article-142.md)
 
-##### CHAPTER III (affected by repeal, see note) — Financial corrections (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+##### CHAPTER III (affected by repeal, see note) — Financial corrections (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-###### Section I (affected by repeal, see note) — Financial corrections by Member States (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+###### Section I (affected by repeal, see note) — Financial corrections by Member States (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
 - [Section Article 143 — Financial corrections by Member States](section-article-143.md)
 
-###### Section II (affected by repeal, see note) — Financial corrections by the Commission (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+###### Section II (affected by repeal, see note) — Financial corrections by the Commission (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -1061,7 +1061,7 @@ HAVE ADOPTED THIS REGULATION:
 - [Section Article 146 — Obligations of Member States](section-article-146.md)
 - [Section Article 147 — Repayment](section-article-147.md)
 
-#### TITLE III (affected by repeal, see note) — PROPORTIONAL CONTROL OF OPERATIONAL PROGRAMMES (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+#### TITLE III (affected by repeal, see note) — PROPORTIONAL CONTROL OF OPERATIONAL PROGRAMMES (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -1105,7 +1105,7 @@ HAVE ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-c68da622452f2496e48f9a68b97d9d4e]...
+[^c-c68da622452f2496e48f9a68b97d9d4e]...
 
 *Extent: E+W+S+N.I.*
 
@@ -1134,17 +1134,17 @@ The European Parliament and the Council agree that:
 
 ## Annotations
 
-[^key-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
 
-[^key-bd0ef492d3e0ffc719310c2654e0e4f6]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2020/21/section/16), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
+[^c-bd0ef492d3e0ffc719310c2654e0e4f6]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 16](https://www.legislation.gov.uk/ukpga/2020/21/section/16), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-49e6121da4cddaf7353cca9a0c530042]: Modification: Regulation: power to modify conferred (N.I.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2020/21/schedule/6/paragraph/7)
+[^c-49e6121da4cddaf7353cca9a0c530042]: Modification: Regulation: power to modify conferred (N.I.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2020/21/schedule/6/paragraph/7)
 
-[^key-2c9282d70151c224b870fea9b1d5ef9f]: Modification: Regulation: power to modify conferred (W.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2020/21/schedule/5/paragraph/6) (with [s. 47](https://www.legislation.gov.uk/ukpga/2020/21/section/47))
+[^c-2c9282d70151c224b870fea9b1d5ef9f]: Modification: Regulation: power to modify conferred (W.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2020/21/schedule/5/paragraph/6) (with [s. 47](https://www.legislation.gov.uk/ukpga/2020/21/section/47))
 
 [^M_C_4768c982-278b-4afe-8fec-10fe7a6952bf]: Modification: Regulation: power to modify conferred (S.) (temp.) (5.11.2020) by [Agriculture (Retained EU Law and Data) (Scotland) Act 2020 (asp 17)](https://www.legislation.gov.uk/asp/2020/17), [ss. 2-4](https://www.legislation.gov.uk/asp/2020/17/section/2), [26(2)](https://www.legislation.gov.uk/asp/2020/17/section/26/2) (with [ss. 5](https://www.legislation.gov.uk/asp/2020/17/section/5), [25](https://www.legislation.gov.uk/asp/2020/17/section/25)); [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/b) (as amended (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22-25](https://www.legislation.gov.uk/asp/2024/11/section/22), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1))
 
-[^key-0f888333a662f82a92296fb99c6243c8]: Modification: Regulation: power to modify conferred (W.) (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 19](https://www.legislation.gov.uk/asc/2023/4/section/19), [56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c) (with [s. 20](https://www.legislation.gov.uk/asc/2023/4/section/20))
+[^c-0f888333a662f82a92296fb99c6243c8]: Modification: Regulation: power to modify conferred (W.) (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 19](https://www.legislation.gov.uk/asc/2023/4/section/19), [56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c) (with [s. 20](https://www.legislation.gov.uk/asc/2023/4/section/20))
 
 [^f00001]: Footnote: [OJ C 191, 29.6.2012, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2012.191.01.0030.01.ENG), [OJ C 44, 15.2.2013, p. 76](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2013.044.01.0076.01.ENG) and [OJ C 271, 19.9.2013, p. 101](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2013.271.01.0101.01.ENG).
 
@@ -1184,26 +1184,26 @@ The European Parliament and the Council agree that:
 
 [^f00019]: Footnote: Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers ([OJ L 55, 28.2.2011, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.055.01.0013.01.ENG)).
 
-[^key-093971c59f66e9ec19be73f1f7bf04d0]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1303/part/2) heading substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/785/regulation/5/1) (as amended by [S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/13/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-093971c59f66e9ec19be73f1f7bf04d0]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1303/part/2) heading substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/785/regulation/5/1) (as amended by [S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [13(3)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/13/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a021ab18db5f11230a4c9f5c7fa1e9c5]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1303/part/2) Title 1 heading substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/785/regulation/5/2) (as amended by [S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [13(3)(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/13/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a021ab18db5f11230a4c9f5c7fa1e9c5]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1303/part/2) Title 1 heading substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/785/regulation/5/2) (as amended by [S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [13(3)(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/13/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b4bdf7cefeb917bd7634ae1394956ca]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1303/part/2) Title 2 omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/uksi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/400/regulation/1/2), [6(7)](https://www.legislation.gov.uk/uksi/2021/400/regulation/6/7)
+[^c-5b4bdf7cefeb917bd7634ae1394956ca]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/eur/2013/1303/part/2) Title 2 omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/uksi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/400/regulation/1/2), [6(7)](https://www.legislation.gov.uk/uksi/2021/400/regulation/6/7)
 
 [^c000007]: Textual amendment: Inserted by [Regulation (EU) 2020/558 of the European Parliament and of the Council of 23 April 2020 amending Regulations (EU) No 1301/2013 and (EU) No 1303/2013 as regards specific measures to provide exceptional flexibility for the use of the European Structural and Investments Funds in response to the COVID-19 outbreak](https://www.legislation.gov.uk/eur/2020/558).
 
-[^key-45f0588b8a671a076579a96026205fe8]: Textual amendment: [Pt. 2 Title 3 Ch. 1](https://www.legislation.gov.uk/eur/2013/1303/title/3/chapter/1) omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(8)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/8)
+[^c-45f0588b8a671a076579a96026205fe8]: Textual amendment: [Pt. 2 Title 3 Ch. 1](https://www.legislation.gov.uk/eur/2013/1303/title/3/chapter/1) omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(8)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/8)
 
-[^key-814bb225f0b18305d61ab36c7040f5be]: Textual amendment: [Pt. 2 Title 7 Ch. 2](https://www.legislation.gov.uk/eur/2013/1303/title/7/chapter/2) heading substituted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(22)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/22)
+[^c-814bb225f0b18305d61ab36c7040f5be]: Textual amendment: [Pt. 2 Title 7 Ch. 2](https://www.legislation.gov.uk/eur/2013/1303/title/7/chapter/2) heading substituted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(22)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/22)
 
-[^key-4fc08615752e0c86dfe83283fea61ab9]: Textual amendment: [Pt. 2 Title 8](https://www.legislation.gov.uk/eur/2013/1303/part/2) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/785/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4fc08615752e0c86dfe83283fea61ab9]: Textual amendment: [Pt. 2 Title 8](https://www.legislation.gov.uk/eur/2013/1303/part/2) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/785/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-72cf4f981c2ba4e34614775056d25da4]: Textual amendment: [Pt. 2 Title 9 Ch. 1](https://www.legislation.gov.uk/eur/2013/1303/title/9/chapter/1) omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(30)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/30)
+[^c-72cf4f981c2ba4e34614775056d25da4]: Textual amendment: [Pt. 2 Title 9 Ch. 1](https://www.legislation.gov.uk/eur/2013/1303/title/9/chapter/1) omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(30)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/30)
 
-[^key-0ae999d25f6b9db1037657c5287f6833]: Textual amendment: [Pt. 2 Title 9 Ch. 2](https://www.legislation.gov.uk/eur/2013/1303/title/9/chapter/2) omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(30)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/30)
+[^c-0ae999d25f6b9db1037657c5287f6833]: Textual amendment: [Pt. 2 Title 9 Ch. 2](https://www.legislation.gov.uk/eur/2013/1303/title/9/chapter/2) omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(30)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/30)
 
-[^key-127611f84b45a01fdd7b642b3bcf5a82]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/eur/2013/1303/part/3) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [14](https://www.legislation.gov.uk/uksi/2019/785/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-127611f84b45a01fdd7b642b3bcf5a82]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/eur/2013/1303/part/3) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [14](https://www.legislation.gov.uk/uksi/2019/785/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation (EC) No 1083/2006 (Official Journal of the European Union L 347 of 20 December 2013)](https://www.legislation.gov.uk/eur/2013/1303/pdfs/eurcs_20131303_en_001.pdf).
 
-[^key-c68da622452f2496e48f9a68b97d9d4e]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/1303/signature) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/785/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c68da622452f2496e48f9a68b97d9d4e]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/1303/signature) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2019/785/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

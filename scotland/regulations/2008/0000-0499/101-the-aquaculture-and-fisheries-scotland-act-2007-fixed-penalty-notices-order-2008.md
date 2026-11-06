@@ -32,7 +32,7 @@ summary: ''
 
 SEA FISHERIES
 
-The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008 (revoked)[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2008 (revoked)[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 Made
 
@@ -46,39 +46,39 @@ Coming into force
 
 1st April 2008
 
-[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Specification of relevant offences[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+## 1. Citation, commencement and interpretation[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Specification of shorter period for paying fixed penalty notice[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+## 2. Specification of relevant offences[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Scale of fixed penalty[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+## 3. Specification of shorter period for paying fixed penalty notice[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Address at which and method by which fixed penalty is payable[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+## 4. Scale of fixed penalty[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Person to whom and address to which intimation of non payment of fixed penalty to be sent[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+## 5. Address at which and method by which fixed penalty is payable[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Person to whom and address to which intimation of non payment of fixed penalty to be sent[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 **No longer in force.**
 
@@ -86,23 +86,23 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1 — Relevant offences for the purposes of section 25(1) of the Aquaculture and Fisheries (Scotland) Act 2007[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+## SCHEDULE 1 — Relevant offences for the purposes of section 25(1) of the Aquaculture and Fisheries (Scotland) Act 2007[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 **No longer in force.**
 
 Article 2
 
-### PART 1 — Enactments under or by virtue of which relevant offences are created[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+### PART 1 — Enactments under or by virtue of which relevant offences are created[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Enactments under or by virtue of which relevant offences are created, proceedings in respect of which may be taken in Scotland by virtue of section 30(2A) of the Fisheries Act 1981[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+### PART 2 — Enactments under or by virtue of which relevant offences are created, proceedings in respect of which may be taken in Scotland by virtue of section 30(2A) of the Fisheries Act 1981[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Scale of fixed penalties[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]
+## SCHEDULE 2 — Scale of fixed penalties[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]
 
 **No longer in force.**
 
@@ -112,8 +112,8 @@ Article 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c8ab9db58fdc1d657bf3fcb7ca5d669]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/101) revoked (27.4.2015) by [The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2015 (S.S.I. 2015/113)](https://www.legislation.gov.uk/ssi/2015/113), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/113/article/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2015/113/article/6/a)
+[^c-5c8ab9db58fdc1d657bf3fcb7ca5d669]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2008/101) revoked (27.4.2015) by [The Aquaculture and Fisheries (Scotland) Act 2007 (Fixed Penalty Notices) Order 2015 (S.S.I. 2015/113)](https://www.legislation.gov.uk/ssi/2015/113), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/113/article/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2015/113/article/6/a)

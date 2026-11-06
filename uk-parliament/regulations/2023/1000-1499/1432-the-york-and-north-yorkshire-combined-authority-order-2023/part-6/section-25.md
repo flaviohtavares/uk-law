@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Assessment of economic conditions[^key-7d160e2cec4ca36e7ad0c55d7daaffa5]
+## 25. Assessment of economic conditions[^c-7d160e2cec4ca36e7ad0c55d7daaffa5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d160e2cec4ca36e7ad0c55d7daaffa5]: Textual amendment: Art. 25 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/6/a/ii)
+[^c-7d160e2cec4ca36e7ad0c55d7daaffa5]: Textual amendment: Art. 25 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/6/a/ii)

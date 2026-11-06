@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Publication of directions[^key-dcb9d41a959b5e92d461329ea34e6961]
+## 81. Publication of directions[^c-dcb9d41a959b5e92d461329ea34e6961]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) section 73(4);
 - (b) section 74(5);
-- (ba)[^key-6b5e4a921df22135edfbf1f7e9f03997] section 76A(4);
+- (ba)[^c-6b5e4a921df22135edfbf1f7e9f03997] section 76A(4);
 - (c) section 78(5).
 
 (2) As soon as practicable after giving the direction, the Treasury must—
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcb9d41a959b5e92d461329ea34e6961]: Commencement: S. 81 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-dcb9d41a959b5e92d461329ea34e6961]: Commencement: S. 81 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-6b5e4a921df22135edfbf1f7e9f03997]: Textual amendment: S. 81(1)(ba) inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 106(7)](https://www.legislation.gov.uk/ukpga/2013/33/section/106/9), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-6b5e4a921df22135edfbf1f7e9f03997]: Textual amendment: S. 81(1)(ba) inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 106(7)](https://www.legislation.gov.uk/ukpga/2013/33/section/106/9), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

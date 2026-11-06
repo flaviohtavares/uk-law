@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13K. Restoration of names to a register[^key-972a3774dc0bacc972bd8abfe5f33ba4]
+## 13K. Restoration of names to a register[^c-972a3774dc0bacc972bd8abfe5f33ba4]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ but in the case of an application for restoration of an entry relating to a spec
 
 ## Annotations
 
-[^key-972a3774dc0bacc972bd8abfe5f33ba4]: Textual amendment: Pt. 2A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 16](https://www.legislation.gov.uk/uksi/2005/848/article/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-972a3774dc0bacc972bd8abfe5f33ba4]: Textual amendment: Pt. 2A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 16](https://www.legislation.gov.uk/uksi/2005/848/article/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

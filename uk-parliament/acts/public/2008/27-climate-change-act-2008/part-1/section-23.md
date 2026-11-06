@@ -29,7 +29,7 @@ summary: ''
 
 (3) The power may not be exercised in such a way that any period falls outside a budgetary period.
 
-(4)[^key-a344cee894a02b4ca4b5d5a960b211c2] An order may make such consequential amendments of the provisions of this Act as appear to the Secretary of State to be necessary or expedient.
+(4)[^c-a344cee894a02b4ca4b5d5a960b211c2] An order may make such consequential amendments of the provisions of this Act as appear to the Secretary of State to be necessary or expedient.
 
 (5) Before making an order under this section the Secretary of State must consult the other national authorities.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a344cee894a02b4ca4b5d5a960b211c2]: Modification: S. 23(4) power to amend conferred (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 1(8)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/1/8/a), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
+[^c-a344cee894a02b4ca4b5d5a960b211c2]: Modification: S. 23(4) power to amend conferred (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 1(8)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/1/8/a), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)

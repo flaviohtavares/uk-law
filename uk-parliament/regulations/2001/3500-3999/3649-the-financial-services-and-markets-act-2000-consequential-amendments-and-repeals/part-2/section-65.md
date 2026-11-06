@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Production of documents subject to customer confidentiality[^key-144cd0224372da0914a2348e6537c7cb]
+## 65. Production of documents subject to customer confidentiality[^c-144cd0224372da0914a2348e6537c7cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-144cd0224372da0914a2348e6537c7cb]: Commencement: Art. 65 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-144cd0224372da0914a2348e6537c7cb]: Commencement: Art. 65 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00069]: Footnote: Paragraph (3) was amended by the Companies (No.2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504)), and by [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), Schedule 8, paragraph 14(4).

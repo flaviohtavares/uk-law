@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England.
 
-## 57. Appointment of Churches Conservation Trust[^key-c1c6ba3a8f55c682ef0091da5cec944e]
+## 57. Appointment of Churches Conservation Trust[^c-c1c6ba3a8f55c682ef0091da5cec944e]
 
 *Extent: E*
 
 (1) There shall be a body corporate called the Churches Conservation Trust, with perpetual succession and a common seal.
 
-(2) The Churches Conservation Trust shall consist of a person to be known as the “Chair” and not less than four nor more than eleven other members[^key-34c0c3c89ff6236fbf86f7fdfa6859a0], and the Chair and other members shall be appointed by Her Majesty, and before any such appointment the advice of the Archbishops of Canterbury and York shall be submitted to Her Majesty through the Prime Minister.
+(2) The Churches Conservation Trust shall consist of a person to be known as the “Chair” and not less than four nor more than eleven other members[^c-34c0c3c89ff6236fbf86f7fdfa6859a0], and the Chair and other members shall be appointed by Her Majesty, and before any such appointment the advice of the Archbishops of Canterbury and York shall be submitted to Her Majesty through the Prime Minister.
 
 (3) Schedule 5 shall apply to the constitution and procedure of the Churches Conservation Trust.
 
@@ -41,7 +41,7 @@ summary: ''
 - (i) to appoint a secretary and such other officers and agents as the Trust considers necessary for the proper discharge of its duties;
 - (j) to delegate functions to local trustees or bodies.
 
-(5A)[^key-4341637c24d89d0fbb78c6e725f1d582] The Churches Conservation Trust shall have power, with the consent of the Commissioners, to transfer, by way of grant, property or funds held by it, other than any church building, to such charitable foundations as it thinks fit.
+(5A)[^c-4341637c24d89d0fbb78c6e725f1d582] The Churches Conservation Trust shall have power, with the consent of the Commissioners, to transfer, by way of grant, property or funds held by it, other than any church building, to such charitable foundations as it thinks fit.
 
 (5B) The Churches Conservation Trust shall have power, with the consent of the Commissioners, to dispose of any fixtures, fittings or other contents of a church building vested in the Trust under this Part or acquired by the Trust under subsection (6).
 
@@ -95,8 +95,8 @@ Provided that the total amount of the grants made in any funding period shall no
 
 ## Annotations
 
-[^key-c1c6ba3a8f55c682ef0091da5cec944e]: Commencement: S. 57 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-c1c6ba3a8f55c682ef0091da5cec944e]: Commencement: S. 57 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-34c0c3c89ff6236fbf86f7fdfa6859a0]: Textual amendment: Words in s. 57(2) substituted (1.7.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 8](https://www.legislation.gov.uk/ukcm/2018/4/section/8), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/722/article/2/b)
+[^c-34c0c3c89ff6236fbf86f7fdfa6859a0]: Textual amendment: Words in s. 57(2) substituted (1.7.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 8](https://www.legislation.gov.uk/ukcm/2018/4/section/8), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/722/article/2/b)
 
-[^key-4341637c24d89d0fbb78c6e725f1d582]: Textual amendment: S. 57(5A)(5B) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(7)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/7); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-4341637c24d89d0fbb78c6e725f1d582]: Textual amendment: S. 57(5A)(5B) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(7)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/7); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)

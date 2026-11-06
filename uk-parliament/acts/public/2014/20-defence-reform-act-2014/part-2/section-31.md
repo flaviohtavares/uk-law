@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Compliance notice[^key-82114680d97450aea56d77d1dcf4b7de][^key-229afb1af47e8b7c1f366f40b3f99b89]
+## 31. Compliance notice[^c-82114680d97450aea56d77d1dcf4b7de][^c-229afb1af47e8b7c1f366f40b3f99b89]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,8 +40,8 @@ summary: ''
   - (ii) is reckless as to whether the report is misleading,
 - (c) P fails to comply with the duty under section 26 (duty to notify Secretary of State of occurrence etc of a relevant event),
 - (d) in circumstances where P is required to make an assessment under section 29(1) or (3) in respect of a proposed contract, P fails to make such an assessment,
-- (e) P makes a negative assessment under section 29(1) or (3) in respect of a proposed contract and the Secretary of State believes that that assessment is incorrect [^key-96c3b1ca12718744870071863a632476]...
-- (f) in circumstances where P is required to give the notice mentioned in section 29(2)(b) or (4)(b) in respect of a proposed contract, P fails to give such a notice , or[^key-bbd8e77dfb9d0c7926a7623a8f811fe2]
+- (e) P makes a negative assessment under section 29(1) or (3) in respect of a proposed contract and the Secretary of State believes that that assessment is incorrect [^c-96c3b1ca12718744870071863a632476]...
+- (f) in circumstances where P is required to give the notice mentioned in section 29(2)(b) or (4)(b) in respect of a proposed contract, P fails to give such a notice , or[^c-bbd8e77dfb9d0c7926a7623a8f811fe2]
 - (g) in circumstances where P is required to give the notice mentioned in section 29(2)(c) or (4)(c) in respect of a proposed contract, P fails to give such a notice.
 
 (4) In subsection (3)—
@@ -59,10 +59,10 @@ summary: ''
 
 ## Annotations
 
-[^key-82114680d97450aea56d77d1dcf4b7de]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/20/section/31) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(o)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/o)
+[^c-82114680d97450aea56d77d1dcf4b7de]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/20/section/31) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(o)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/o)
 
-[^key-229afb1af47e8b7c1f366f40b3f99b89]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/20/section/31) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-229afb1af47e8b7c1f366f40b3f99b89]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2014/20/section/31) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
 
-[^key-96c3b1ca12718744870071863a632476]: Textual amendment: Word in [s. 31(3)(e)](https://www.legislation.gov.uk/ukpga/2014/20/section/31/3/e) omitted (19.1.2024) by virtue of [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 17(a)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/17/a); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-96c3b1ca12718744870071863a632476]: Textual amendment: Word in [s. 31(3)(e)](https://www.legislation.gov.uk/ukpga/2014/20/section/31/3/e) omitted (19.1.2024) by virtue of [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 17(a)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/17/a); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-bbd8e77dfb9d0c7926a7623a8f811fe2]: Textual amendment: [S. 31(3)(g)](https://www.legislation.gov.uk/ukpga/2014/20/section/31/3/g) and word inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 17(b)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/17/b); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-bbd8e77dfb9d0c7926a7623a8f811fe2]: Textual amendment: [S. 31(3)(g)](https://www.legislation.gov.uk/ukpga/2014/20/section/31/3/g) and word inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 17(b)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/17/b); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))

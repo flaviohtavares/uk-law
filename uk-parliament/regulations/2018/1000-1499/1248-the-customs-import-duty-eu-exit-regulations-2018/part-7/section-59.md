@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Time periods for applications[^key-a57aa62a203ead0444528a18511b266d][^key-302606d159bff3b39c5b1dbf0584ce62][^key-9887b5ec47b0e7ee20527f9cfeaa88dc][^key-302606d159bff3b39c5b1dbf0584ce62]
+## 59. Time periods for applications[^c-a57aa62a203ead0444528a18511b266d][^c-302606d159bff3b39c5b1dbf0584ce62][^c-9887b5ec47b0e7ee20527f9cfeaa88dc][^c-302606d159bff3b39c5b1dbf0584ce62]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,16 +29,16 @@ summary: ''
 
 (3) Where the application concerns the reduced duty case described in regulation 53, the application must be made by no later than the date required to notify the withdrawal of the Customs declaration as provided by public notice made under paragraph 16(a) of Schedule 1 to the Act.
 
-(3A)[^key-0451569739a352b1f71bda80473c2342] Where the application concerns the reduced duty case described in regulation 53B, the application must be made by no later than three years beginning with the day following the day on which the public notice is published.
+(3A)[^c-0451569739a352b1f71bda80473c2342] Where the application concerns the reduced duty case described in regulation 53B, the application must be made by no later than three years beginning with the day following the day on which the public notice is published.
 
 (4) Where by virtue of force majeure or unforeseeable circumstances it would be unreasonable to expect a person to make an application in time, HMRC may, on written request by the person which gives reasons for the request, allow the person to make the application out of time.
 
 ## Annotations
 
-[^key-a57aa62a203ead0444528a18511b266d]: Commencement: Reg. 59 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a57aa62a203ead0444528a18511b266d]: Commencement: Reg. 59 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9887b5ec47b0e7ee20527f9cfeaa88dc]: Modification: [Regs. 55-65](https://www.legislation.gov.uk/uksi/2018/1248/regulation/55) applied (with modifications) (24.12.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 32A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32A) (as inserted by [The Customs (Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1265)](https://www.legislation.gov.uk/uksi/2024/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/1265/regulation/6))
+[^c-9887b5ec47b0e7ee20527f9cfeaa88dc]: Modification: [Regs. 55-65](https://www.legislation.gov.uk/uksi/2018/1248/regulation/55) applied (with modifications) (24.12.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 32A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32A) (as inserted by [The Customs (Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1265)](https://www.legislation.gov.uk/uksi/2024/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/1265/regulation/6))
 
-[^key-0451569739a352b1f71bda80473c2342]: Textual amendment: [Reg. 59(3A)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/59/3A) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(12)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/12)
+[^c-0451569739a352b1f71bda80473c2342]: Textual amendment: [Reg. 59(3A)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/59/3A) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(12)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/12)

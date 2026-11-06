@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Costs on applications, appeals and references[^c22543051][^key-a325601b040b9ee2b14e3eeefde3a6b1]
+## 49. Costs on applications, appeals and references[^c22543051][^c-a325601b040b9ee2b14e3eeefde3a6b1]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ In TCPA 1990, after section 322B insert—
 
 [^c22543051]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2015/4/section/49) partly in force; [s. 49](https://www.legislation.gov.uk/anaw/2015/4/section/49) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-a325601b040b9ee2b14e3eeefde3a6b1]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2015/4/section/49) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/52/article/2/b) (with [art. 16](https://www.legislation.gov.uk/wsi/2016/52/article/16))
+[^c-a325601b040b9ee2b14e3eeefde3a6b1]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2015/4/section/49) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/52/article/2/b) (with [art. 16](https://www.legislation.gov.uk/wsi/2016/52/article/16))

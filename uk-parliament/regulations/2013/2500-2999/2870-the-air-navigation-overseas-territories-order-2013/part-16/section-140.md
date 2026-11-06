@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Manual of Air Traffic Services[^key-28442a8fd3bb21981d027a808a7ac9a2]
+## 140. Manual of Air Traffic Services[^c-28442a8fd3bb21981d027a808a7ac9a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person must not provide an air traffic control service at any place unless—
 
 ## Annotations
 
-[^key-28442a8fd3bb21981d027a808a7ac9a2]: Commencement: [Art. 140](https://www.legislation.gov.uk/uksi/2013/2870/article/140) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-28442a8fd3bb21981d027a808a7ac9a2]: Commencement: [Art. 140](https://www.legislation.gov.uk/uksi/2013/2870/article/140) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

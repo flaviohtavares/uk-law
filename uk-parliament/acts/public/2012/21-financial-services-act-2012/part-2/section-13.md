@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Prohibition orders[^key-0f6b76dec93ef4d7117658cf090f80ae]
+## 13. Prohibition orders[^c-0f6b76dec93ef4d7117658cf090f80ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f6b76dec93ef4d7117658cf090f80ae]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2012/21/section/13) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-0f6b76dec93ef4d7117658cf090f80ae]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2012/21/section/13) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

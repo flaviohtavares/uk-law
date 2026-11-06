@@ -63,7 +63,7 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
 
 (2) These Regulations apply in relation to England only.
 
-(3)[^key-27c1683ef0a92d1134d4e8720d0d1f6b] In these Regulations, “the United Kingdom Health Security Agency[^key-3851ef992d85b05e7aa3666c75aa9ba3]” means the executive agency of the Department of Health and Social Care[^key-2210e97c96c0055545bf9311a7fb4c6a] known as the United Kingdom Health Security Agency.
+(3)[^c-27c1683ef0a92d1134d4e8720d0d1f6b] In these Regulations, “the United Kingdom Health Security Agency[^c-3851ef992d85b05e7aa3666c75aa9ba3]” means the executive agency of the Department of Health and Social Care[^c-2210e97c96c0055545bf9311a7fb4c6a] known as the United Kingdom Health Security Agency.
 
 ## 2. Duty to notify suspected disease, infection or contamination in patients
 
@@ -152,51 +152,51 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
 - “notifiable disease” has the same meaning it has in regulation 2; and
 - “**relevant local authority**” means the local authority within whose area R attended P on the occasion of forming a suspicion under paragraph (1).
 
-## 4. Duty on the operators of diagnostic laboratories to notify the United Kingdom Health Security Agency of causative agents found in human samples and of SARS-Cov-2 , respiratory syncytial virus or influenza virus tests processed[^key-8db11f3d5e92d1d3e72615cfae0c6fe8][^key-5d383dfb35e7e588ca6cbb70cdf54ca0][^key-4801f925d0b5247161110a08538a7778]
+## 4. Duty on the operators of diagnostic laboratories to notify the United Kingdom Health Security Agency of causative agents found in human samples and of SARS-Cov-2 , respiratory syncytial virus or influenza virus tests processed[^c-8db11f3d5e92d1d3e72615cfae0c6fe8][^c-5d383dfb35e7e588ca6cbb70cdf54ca0][^c-4801f925d0b5247161110a08538a7778]
 
-(1) The operator of a diagnostic laboratory must notify the United Kingdom Health Security Agency[^key-6eda205615bf061ab2f63332cf21d27c] in accordance with this regulation where the diagnostic laboratory —[^key-4405083833132697863acbbfd57f6988]
+(1) The operator of a diagnostic laboratory must notify the United Kingdom Health Security Agency[^c-6eda205615bf061ab2f63332cf21d27c] in accordance with this regulation where the diagnostic laboratory —[^c-4405083833132697863acbbfd57f6988]
 
-- (a)[^key-8f730dd69f4b8062ca81a99e2f66b4c9] identifies a causative agent in a human sample ; or[^key-a4047a1fc8e1cb6ba7fc8e2f62b71807]
-- (b) processes a test for the detection of SARS-CoV-2 [^key-1e0ece20985608b90b79db84ee7e371f]... and the test result is indeterminate.
+- (a)[^c-8f730dd69f4b8062ca81a99e2f66b4c9] identifies a causative agent in a human sample ; or[^c-a4047a1fc8e1cb6ba7fc8e2f62b71807]
+- (b) processes a test for the detection of SARS-CoV-2 [^c-1e0ece20985608b90b79db84ee7e371f]... and the test result is indeterminate.
 
-(1ZA)[^key-bad43577c9ee1eb63c4b5a03546756a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1ZA)[^c-bad43577c9ee1eb63c4b5a03546756a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-cdfd2a4bdfff3bfb69a630126b6979ae] The operator of a diagnostic laboratory must also notify the United Kingdom Health Security Agency[^key-3e0812361fbf9806d016e99b85834544] in accordance with this regulation where the diagnostic laboratory—
+(1A)[^c-cdfd2a4bdfff3bfb69a630126b6979ae] The operator of a diagnostic laboratory must also notify the United Kingdom Health Security Agency[^c-3e0812361fbf9806d016e99b85834544] in accordance with this regulation where the diagnostic laboratory—
 
-- (a) processes a test for the detection of respiratory syncytial virus or[^key-93b5510283495260c917cb82d8e2bf64] SARS-CoV-2 and the test result is negative or void; or
+- (a) processes a test for the detection of respiratory syncytial virus or[^c-93b5510283495260c917cb82d8e2bf64] SARS-CoV-2 and the test result is negative or void; or
 - (b) processes a test for the detection of influenza virus and the test result is indeterminate, negative or void.
 
 (2) The notification must include the following information insofar as it is known to the operator of the diagnostic laboratory—
 
 - (a) name and address of the diagnostic laboratory;
-- (aa)[^key-e481f25921500de629f084ffb9a6ca7c] the date and time the sample was received by the diagnostic laboratory;
-- (b)[^key-45121e92ac17fb3c9e0badbe34cbcdcd] where a causative agent is identified, the details of that agent;
-- (ba) where the test is for the detection of SARS-CoV-2 , respiratory syncytial virus[^key-03f45c6ed4faa949adb9a8f38f508e69] or influenza virus, the result of the test;
+- (aa)[^c-e481f25921500de629f084ffb9a6ca7c] the date and time the sample was received by the diagnostic laboratory;
+- (b)[^c-45121e92ac17fb3c9e0badbe34cbcdcd] where a causative agent is identified, the details of that agent;
+- (ba) where the test is for the detection of SARS-CoV-2 , respiratory syncytial virus[^c-03f45c6ed4faa949adb9a8f38f508e69] or influenza virus, the result of the test;
 - (c) date of the sample;
 - (d) nature of the sample;
-- (da)[^key-c5da29e5e4814536560c2b80f3c920f0] the results of any antimicrobial susceptibility test and any resistance mechanism identified in respect of the sample;
+- (da)[^c-c5da29e5e4814536560c2b80f3c920f0] the results of any antimicrobial susceptibility test and any resistance mechanism identified in respect of the sample;
 - (e) name of person (P) from whom the sample was taken;
 - (f) P's date of birth and sex;
 - (g) P's current home address including postcode;
 - (h) P's current residence (if not home address);
 - (i) P's ethnicity;
-- (j) P's NHS number; [^key-b5385980aa9c59dea29fb5ea4539d785]...
-- (k) the name, address and organisation of the person who solicited the test ; and[^key-0a15374c25e43543445a5fb70bb9aa44]
-- (l) where the result of a test for the detection of SARS-CoV-2 is positive or indeterminate[^key-ecd2fc59a7aeb5efef9c2cac022ec186], a telephone number and an email address—
+- (j) P's NHS number; [^c-b5385980aa9c59dea29fb5ea4539d785]...
+- (k) the name, address and organisation of the person who solicited the test ; and[^c-0a15374c25e43543445a5fb70bb9aa44]
+- (l) where the result of a test for the detection of SARS-CoV-2 is positive or indeterminate[^c-ecd2fc59a7aeb5efef9c2cac022ec186], a telephone number and an email address—
   - (i) where P is a child or a person with a disability who is unable for that reason to provide the information set out in sub-paragraphs (e) to (j), for an appropriate parent, guardian or carer of that person ;
   - (ii) otherwise, for P.
 
-(3) A notification under paragraph (1)(a) where the causative agent identified is not SARS-CoV-2[^key-9905f557150df407a61d5ac78bc82ced] must be provided in writing within 7 days beginning with the day on which the causative agent is identified.
+(3) A notification under paragraph (1)(a) where the causative agent identified is not SARS-CoV-2[^c-9905f557150df407a61d5ac78bc82ced] must be provided in writing within 7 days beginning with the day on which the causative agent is identified.
 
-(3A)[^key-11e796e307903d44684c5832cd849061] A notification[^key-ce761c500a567f01adc2b9bb0edc7368] under paragraph (1A) must be provided in writing within 7 days beginning with the day on which the diagnostic laboratory becomes aware of the test result.
+(3A)[^c-11e796e307903d44684c5832cd849061] A notification[^c-ce761c500a567f01adc2b9bb0edc7368] under paragraph (1A) must be provided in writing within 7 days beginning with the day on which the diagnostic laboratory becomes aware of the test result.
 
-(3B) A notification under paragraph (1)(a) where the causative agent identified is SARS-CoV-2, must [^key-7328f52d936329d54b9a025a4ee308f4]... be provided in writing within 24 hours of the causative agent being identified.
+(3B) A notification under paragraph (1)(a) where the causative agent identified is SARS-CoV-2, must [^c-7328f52d936329d54b9a025a4ee308f4]... be provided in writing within 24 hours of the causative agent being identified.
 
-(3C) A notification[^key-75b4d56026c05548d91f35d60af78f12] under paragraph (1)(b) must be provided in writing within 24 hours of the diagnostic laboratory becoming aware of the test result.
+(3C) A notification[^c-75b4d56026c05548d91f35d60af78f12] under paragraph (1)(b) must be provided in writing within 24 hours of the diagnostic laboratory becoming aware of the test result.
 
-(3D)[^key-ea1a06829c72cc51d6cb03fe36f5720e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3D)[^c-ea1a06829c72cc51d6cb03fe36f5720e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Without prejudice to paragraphs (3) and (3A)[^key-d1aedf0d8b49a1c780c589f0dc843604], if the operator of the diagnostic laboratory considers that a particular case to which one of those paragraphs applies[^key-38c130528a2ee8a0999e759ade3e0e28] is urgent, the notification must be provided orally as soon as reasonably practicable.
+(4) Without prejudice to paragraphs (3) and (3A)[^c-d1aedf0d8b49a1c780c589f0dc843604], if the operator of the diagnostic laboratory considers that a particular case to which one of those paragraphs applies[^c-38c130528a2ee8a0999e759ade3e0e28] is urgent, the notification must be provided orally as soon as reasonably practicable.
 
 (5) In determining whether the case is urgent, the operator of the diagnostic laboratory must have regard to —
 
@@ -206,24 +206,24 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
 - (d) the ways in which the spread of the causative agent can be prevented or controlled; and
 - (e) where known, P's circumstances (including age, sex and occupation).
 
-(6) This regulation does not apply where the operator of the diagnostic laboratory reasonably believes that the United Kingdom Health Security Agency[^key-6562559ff817337e900dc6b515efcaf9] has already been notified in accordance with this regulation by the operator of another diagnostic laboratory in relation to the same causative agent being found in a sample from the same person.
+(6) This regulation does not apply where the operator of the diagnostic laboratory reasonably believes that the United Kingdom Health Security Agency[^c-6562559ff817337e900dc6b515efcaf9] has already been notified in accordance with this regulation by the operator of another diagnostic laboratory in relation to the same causative agent being found in a sample from the same person.
 
-(7) For the purposes of paragraph (1)(a)[^key-a31d9b75ba2b04915aef0f98560a39ea], a diagnostic laboratory identifies a causative agent where—
+(7) For the purposes of paragraph (1)(a)[^c-a31d9b75ba2b04915aef0f98560a39ea], a diagnostic laboratory identifies a causative agent where—
 
 - (a) the diagnostic laboratory identifies the causative agent; or
 - (b) the causative agent is identified by another laboratory under an arrangement made with that diagnostic laboratory.
 
-(7A)[^key-0afc64d58f426d33b227406472986189] For the purposes of paragraphs (1)(b) and (1A), a diagnostic laboratory processes a test where—
+(7A)[^c-0afc64d58f426d33b227406472986189] For the purposes of paragraphs (1)(b) and (1A), a diagnostic laboratory processes a test where—
 
 - (a) the diagnostic laboratory processes the test; or
 - (b) the test is processed by another laboratory under an arrangement made with that diagnostic laboratory.
 
-(8) Where paragraph (7)(b) applies —[^key-e76a62430dc4e7141c6b0d6cd6d64710]
+(8) Where paragraph (7)(b) applies —[^c-e76a62430dc4e7141c6b0d6cd6d64710]
 
-- (a)[^key-66754916498d88fe17230058691b9838] the day on which the causative agent is identified for the purposes of paragraph (3), is the day on which the diagnostic laboratory became aware of the identification by the other laboratory;
-- (b)[^key-c3f9a61429149774670b58e8474a03dc] the time at which the causative agent is identified for the purposes of paragraph (3B), is the time at which the diagnostic laboratory became aware of the identification by the other laboratory.
+- (a)[^c-66754916498d88fe17230058691b9838] the day on which the causative agent is identified for the purposes of paragraph (3), is the day on which the diagnostic laboratory became aware of the identification by the other laboratory;
+- (b)[^c-c3f9a61429149774670b58e8474a03dc] the time at which the causative agent is identified for the purposes of paragraph (3B), is the time at which the diagnostic laboratory became aware of the identification by the other laboratory.
 
-(8A)[^key-341b00ebaf395107ce771d6be0abdd20] Where paragraph (7A)(b) applies—
+(8A)[^c-341b00ebaf395107ce771d6be0abdd20] Where paragraph (7A)(b) applies—
 
 - (a) the day on which the diagnostic laboratory becomes aware of the test result for the purposes of paragraph (3A), is the day on which the diagnostic laboratory became aware of the result of the test processed by that other laboratory;
 - (b) the time at which the diagnostic laboratory becomes aware of the test result for the purposes of paragraph (3C), is the time at which the diagnostic laboratory became aware of the result of the test processed by that other laboratory.
@@ -234,38 +234,38 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
 
 (11) In this regulation—
 
-- “[^key-f31f02f6aa89731455e5b6a8e1a5f571]**carer**” has the meaning given in section 10 of the Care Act 2014;
+- “[^c-f31f02f6aa89731455e5b6a8e1a5f571]**carer**” has the meaning given in section 10 of the Care Act 2014;
 - “**causative agent**” means—
   - (a) a causative agent listed in Schedule 2, or
   - (b) evidence of an infection caused by such an agent;
-- “[^key-21503c31522c3b71f26d197ff86c5fb5]**child**” has the meaning given in regulation 2(7);
+- “[^c-21503c31522c3b71f26d197ff86c5fb5]**child**” has the meaning given in regulation 2(7);
 - “**diagnostic laboratory**” means an institution (or facility within an institution) which is equipped with apparatus and reagents for the performance of diagnostic tests for human infections;
 - “**director of a diagnostic laboratory**” means—
   - (a) the clinical microbiologist, consultant pathologist or other registered medical practitioner or other person in charge of a diagnostic laboratory, or
-  - (b) any other person working in the diagnostic laboratory to whom the function of making a notification under this regulation has been delegated by the person mentioned in paragraph (a); [^key-70a53003c21a56923b468e357018d11b]...
-- “[^key-f2c020ce2ae1d5ac181883f82e114feb]**disability**” has the same meaning as in the Equality Act 2010 (see section 6 of, and Schedule 1 to, that Act);
+  - (b) any other person working in the diagnostic laboratory to whom the function of making a notification under this regulation has been delegated by the person mentioned in paragraph (a); [^c-70a53003c21a56923b468e357018d11b]...
+- “[^c-f2c020ce2ae1d5ac181883f82e114feb]**disability**” has the same meaning as in the Equality Act 2010 (see section 6 of, and Schedule 1 to, that Act);
 - “**guardian**” has the meaning given in section 107 of the Children and Young Persons Act 1933;
 - “**operator of a diagnostic laboratory**” means the corporate body that operates the diagnostic laboratory or, if there is no such body, the director of the diagnostic laboratory;
-- “[^key-73cff4a1c723f0fd020459ae0d0f18f5]**parent**” has the meaning given in regulation 2(7).
+- “[^c-73cff4a1c723f0fd020459ae0d0f18f5]**parent**” has the meaning given in regulation 2(7).
 
-## 4ZA. Duty to notify the United Kingdom Health Security Agency of the results of mandatory tests under the Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021[^key-a9132e5d1d0f0e6b06b49988ec3f5179]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4ZB. Duty to notify the UK Health Security Agency of the results of genomic sequencing of mandatory test samples under the Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021[^key-f6bb19dd4d3ee3792d963a1604a9904e]
+## 4ZA. Duty to notify the United Kingdom Health Security Agency of the results of mandatory tests under the Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021[^c-a9132e5d1d0f0e6b06b49988ec3f5179]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Duty on test providers to notify results of tests for the detection of SARS-CoV-2 or Influenza virus to the United Kingdom Health Security Agency[^key-b61181d62b45078c631a35b79a545560][^key-67a1a8da5eac5d7127c3cfd0c702e616]
+## 4ZB. Duty to notify the UK Health Security Agency of the results of genomic sequencing of mandatory test samples under the Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021[^c-f6bb19dd4d3ee3792d963a1604a9904e]
 
-(1) This regulation applies where a test provider carries out on a person (“P”) a valid point of care test for the detection of SARS-CoV-2 [^key-b79f83f00dd2b3604e1fa2299be66749]... or influenza virus.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4A. Duty on test providers to notify results of tests for the detection of SARS-CoV-2 or Influenza virus to the United Kingdom Health Security Agency[^c-b61181d62b45078c631a35b79a545560][^c-67a1a8da5eac5d7127c3cfd0c702e616]
+
+(1) This regulation applies where a test provider carries out on a person (“P”) a valid point of care test for the detection of SARS-CoV-2 [^c-b79f83f00dd2b3604e1fa2299be66749]... or influenza virus.
 
 (2) For the purposes of this regulation—
 
 - (a) a point of care test is a diagnostic test which is not carried out in a diagnostic laboratory; and
 - (b) a point of care test is valid if it is carried out in accordance with the instructions provided by the manufacturer of the testing equipment.
 
-(3) The test provider must notify the United Kingdom Health Security Agency[^key-ac29b843cd8f374c180230c31165b1bf] of the result of the test, in accordance with paragraphs (4) to (6).
+(3) The test provider must notify the United Kingdom Health Security Agency[^c-ac29b843cd8f374c180230c31165b1bf] of the result of the test, in accordance with paragraphs (4) to (6).
 
 (4) A notification must be provided in writing—
 
@@ -297,37 +297,37 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
   - (viii) date on which the test was carried out;
   - (ix) name of the testing equipment manufacturer.
 
-(6)[^key-1135a14b012a82ae939df0949749643f] Where P is a child, or a person with a disability who is unable for that reason to provide the information set out in paragraph (5)(a) to the test provider, the test provider must provide the United Kingdom Health Security Agency[^key-57b7c1b6b1d7da90c24f5cd4c74b2261] with, insofar as it is known to the test provider—
+(6)[^c-1135a14b012a82ae939df0949749643f] Where P is a child, or a person with a disability who is unable for that reason to provide the information set out in paragraph (5)(a) to the test provider, the test provider must provide the United Kingdom Health Security Agency[^c-57b7c1b6b1d7da90c24f5cd4c74b2261] with, insofar as it is known to the test provider—
 
-- (a) the information set out in paragraph (5)[^key-7d80a1a94c07195de6f6b482f8a16785](a)(i) to (vii) in relation to P, having obtained it from an appropriate parent, guardian or carer of P (“X”); and
+- (a) the information set out in paragraph (5)[^c-7d80a1a94c07195de6f6b482f8a16785](a)(i) to (vii) in relation to P, having obtained it from an appropriate parent, guardian or carer of P (“X”); and
 - (b) where the test is for the detection of SARS-CoV-2 and the result is positive or indeterminate, X’s telephone number and email address.
 
-(7)[^key-2b7b3de98c662317413f39845689cb49] It is an offence for a test provider to fail without reasonable excuse to comply with this regulation.
+(7)[^c-2b7b3de98c662317413f39845689cb49] It is an offence for a test provider to fail without reasonable excuse to comply with this regulation.
 
-(8)[^key-3027dbe631c7e77b68335e5e998e8672] A test provider that commits an offence under this regulation is liable on summary conviction to a fine.
+(8)[^c-3027dbe631c7e77b68335e5e998e8672] A test provider that commits an offence under this regulation is liable on summary conviction to a fine.
 
-(9)[^key-d804847d0148b359fc52537f77d446bd] In this regulation—
+(9)[^c-d804847d0148b359fc52537f77d446bd] In this regulation—
 
 - “carer”, “child”, “disability”, “guardian”, and “parent” have the meanings given in regulation 4;
 - “test provider” means a company, partnership, charity, corporation, unincorporated association, or other organisation or body, whether public or private, or sole trader, carrying out point of care tests for the detection of SARS-CoV-2 or influenza virus.
 
-## 4B. Duty to notify the United Kingdom Health Security Agency of the results of lateral flow device tests undertaken by eligible travellers[^key-8f794534220fae698177a383cb65d1a0]
+## 4B. Duty to notify the United Kingdom Health Security Agency of the results of lateral flow device tests undertaken by eligible travellers[^c-8f794534220fae698177a383cb65d1a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duty to provide information to the United Kingdom Health Security Agency[^key-4fc18eb4774f03f776c729c578645a6f]
+## 5. Duty to provide information to the United Kingdom Health Security Agency[^c-4fc18eb4774f03f776c729c578645a6f]
 
-(1) This regulation applies where a notification has been made by the operator of a diagnostic laboratory to the United Kingdom Health Security Agency[^key-1f3e64050616db75d0d3eb87a151a157] under regulation 4.
+(1) This regulation applies where a notification has been made by the operator of a diagnostic laboratory to the United Kingdom Health Security Agency[^c-1f3e64050616db75d0d3eb87a151a157] under regulation 4.
 
-(2) The United Kingdom Health Security Agency[^key-a6d810a493801d7c785e7be931bd0c6d] may request that the person (R) who solicited the laboratory test which identified the causative agent to which the notification relates, provide to it the information listed at regulation 4(2) insofar as that information was not included in the notification.
+(2) The United Kingdom Health Security Agency[^c-a6d810a493801d7c785e7be931bd0c6d] may request that the person (R) who solicited the laboratory test which identified the causative agent to which the notification relates, provide to it the information listed at regulation 4(2) insofar as that information was not included in the notification.
 
 (3) R must provide the information requested under paragraph (2) insofar as it is known to R.
 
 (4) The information must be provided in writing within 3 days beginning with the day on which the request is made.
 
-(5) Without prejudice to paragraph (4), if the United Kingdom Health Security Agency[^key-aa8f9fa3c9be676db86b1bf2232639b4] considers the case to be urgent and informs R of this fact when making the request, the information must be provided orally as soon as reasonably practicable.
+(5) Without prejudice to paragraph (4), if the United Kingdom Health Security Agency[^c-aa8f9fa3c9be676db86b1bf2232639b4] considers the case to be urgent and informs R of this fact when making the request, the information must be provided orally as soon as reasonably practicable.
 
-(6) In determining whether the case is urgent, the United Kingdom Health Security Agency[^key-a25a17d142611542efe53b0c6b7febb5] must have regard to—
+(6) In determining whether the case is urgent, the United Kingdom Health Security Agency[^c-a25a17d142611542efe53b0c6b7febb5] must have regard to—
 
 - (a) the nature of the causative agent to which the notification relates;
 - (b) the nature of the disease which the causative agent causes;
@@ -341,7 +341,7 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
 
 (2) The proper officer of the local authority must disclose the fact of the notification and its contents to—
 
-- (a)[^key-0292496404cf6688c1f6385bf40383e6] the United Kingdom Health Security Agency[^key-bbd5cd55583b9a2147a2cfef695ddc26];
+- (a)[^c-0292496404cf6688c1f6385bf40383e6] the United Kingdom Health Security Agency[^c-bbd5cd55583b9a2147a2cfef695ddc26];
 - (b) the proper officer of the local authority in whose area P usually resides (if different); and
 - (c) the proper officer of the port health authority or local authority in whose district or area a ship, hovercraft, aircraft or international train is or was situated from which P has disembarked (if known to the disclosing proper officer and if that officer considers disclosure appropriate).
 
@@ -360,7 +360,7 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
 
 (1) This regulation applies to—
 
-- (a) notifications provided under regulation 2(1), 3(1) , 4(1)[^key-65cea6bef369d2c9ea2ef9d07f317cad] and (1A)[^key-6e22c7f86581a63358446148588138ca] [^key-1a3c828dee8b3fb41003d7fa0319d5bb]... [^key-1a3c828dee8b3fb41003d7fa0319d5bb]... and 4A(3)[^key-a7c7f26cbe9591f86b2f4f601616fdd0];
+- (a) notifications provided under regulation 2(1), 3(1) , 4(1)[^c-65cea6bef369d2c9ea2ef9d07f317cad] and (1A)[^c-6e22c7f86581a63358446148588138ca] [^c-1a3c828dee8b3fb41003d7fa0319d5bb]... [^c-1a3c828dee8b3fb41003d7fa0319d5bb]... and 4A(3)[^c-a7c7f26cbe9591f86b2f4f601616fdd0];
 - (b) information provided under regulation 5(3);
 - (c) disclosures made under regulation 6(2);
 - (d) lists provided under regulation 3 of the Health Protection (Local Authority Powers) Regulations 2010 [^c20188351] (requirement to provide details of children attending school); and
@@ -390,7 +390,7 @@ Regulation 2(7)
 |  |
 | --- |
 | Acute encephalitis |
-| Acute flaccid paralysis or acute flaccid myelitis (AFP or AFM)[^key-c808c84669c4d41aace67aa5074bac05] |
+| Acute flaccid paralysis or acute flaccid myelitis (AFP or AFM)[^c-c808c84669c4d41aace67aa5074bac05] |
 | Acute meningitis |
 | Acute poliomyelitis |
 | Acute infectious hepatitis |
@@ -400,14 +400,14 @@ Regulation 2(7)
 | Chickenpox (varicella) |
 | Cholera |
 | Congenital syphilis |
-| COVID-19[^key-1d6903cbf77a2afb82b3ae745f321642] |
+| COVID-19[^c-1d6903cbf77a2afb82b3ae745f321642] |
 | Creutzfeldt-Jakob disease (CJD) |
 | Diphtheria |
 | Disseminated gonococcal infection (DGI) |
 | Enteric fever (typhoid or paratyphoid fever) |
 | Food poisoning |
 | Haemolytic uraemic syndrome (HUS) |
-| Hantavirus disease, including hantavirus pulmonary or cardiopulmonary syndrome and haemorrhagic fever with renal syndrome[^key-169dc69901275ce74a156fe598755c59] |
+| Hantavirus disease, including hantavirus pulmonary or cardiopulmonary syndrome and haemorrhagic fever with renal syndrome[^c-169dc69901275ce74a156fe598755c59] |
 | Infectious bloody diarrhoea |
 | Influenza of zoonotic origin |
 | Invasive group A streptococcal disease and scarlet fever |
@@ -417,7 +417,7 @@ Regulation 2(7)
 | Measles |
 | Meningococcal septicaemia |
 | Middle East respiratory syndrome coronavirus (MERS) |
-| Monkeypox[^key-b5a6f1663169df6a37bf01a5c7379531] |
+| Monkeypox[^c-b5a6f1663169df6a37bf01a5c7379531] |
 | Mumps |
 | Neonatal herpes |
 | Plague |
@@ -438,7 +438,7 @@ Regulation 4(11)
 
 |  |
 | --- |
-| Acquired carbapenemase-producing Gram-negative bacteria[^key-b6afd8a893ca88edd75cc55e1ce47424] |
+| Acquired carbapenemase-producing Gram-negative bacteria[^c-b6afd8a893ca88edd75cc55e1ce47424] |
 | *Bacillus anthracis* |
 | *Bacillus cereus* (only if associated with food poisoning) |
 | *Bordetella pertussis* |
@@ -447,7 +447,7 @@ Regulation 4(11)
 | *Burkholderia mallei* |
 | *Burkholderia pseudomallei* |
 | *Campylobacter spp* |
-| Candidozyma auris[^key-f06df16245b1414219091935d2b15c53] |
+| Candidozyma auris[^c-f06df16245b1414219091935d2b15c53] |
 | Chikungunya virus |
 | *Chlamydophila psittaci* |
 | *Clostridium botulinum* |
@@ -479,7 +479,7 @@ Regulation 4(11)
 | Marburg virus |
 | Measles virus |
 | Middle East respiratory syndrome coronavirus (MERS-CoV) |
-| Monkeypox virus[^key-70e84c6ccc94742c631f5a5225d13978] |
+| Monkeypox virus[^c-70e84c6ccc94742c631f5a5225d13978] |
 | Mumps virus |
 | *Mycobacterium tuberculosis* complex |
 | *Neisseria meningitidis* |
@@ -496,7 +496,7 @@ Regulation 4(11)
 | Sabia virus |
 | *Salmonella spp* |
 | SARS coronavirus |
-| SARS-CoV 2[^key-588114f60b6c11cda7c47a07b7ddd446] |
+| SARS-CoV 2[^c-588114f60b6c11cda7c47a07b7ddd446] |
 | *Shigella spp* |
 | *Streptococcus pneumoniae *(invasive) |
 | *Streptococcus pyogenes* (invasive) |
@@ -538,11 +538,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c20188291]: Marginal citation: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22). *See* section 45T(6) of that Act for the definition of “the appropriate Minister”. Sections 45C, 45F, 45P and 45T were inserted into that Act by section 129 of the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) (“**the 2008 Act**”) and section 60A was inserted into that Act by section 130 and Schedule 11, paragraph 16 of the 2008 Act.
 
-[^key-27c1683ef0a92d1134d4e8720d0d1f6b]: Textual amendment: Reg. 1(3) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 148(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/148/2)
+[^c-27c1683ef0a92d1134d4e8720d0d1f6b]: Textual amendment: Reg. 1(3) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 148(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/148/2)
 
-[^key-3851ef992d85b05e7aa3666c75aa9ba3]: Textual amendment: Words in reg. 1(3) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/2)
+[^c-3851ef992d85b05e7aa3666c75aa9ba3]: Textual amendment: Words in reg. 1(3) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/2)
 
-[^key-2210e97c96c0055545bf9311a7fb4c6a]: Textual amendment: Words in reg. 1(3) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(r)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/r) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-2210e97c96c0055545bf9311a7fb4c6a]: Textual amendment: Words in reg. 1(3) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(r)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/r) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^c20188301]: Marginal citation: *See* section 74 of the [Public Health (Control of Disease) Act 1984 (c.22)](https://www.legislation.gov.uk/ukpga/1984/22) (“**the 1984 Act**”) for the definition of “proper officer”.
 
@@ -552,151 +552,151 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c20188331]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-8db11f3d5e92d1d3e72615cfae0c6fe8]: Textual amendment: Reg. 4 heading substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/a)
+[^c-8db11f3d5e92d1d3e72615cfae0c6fe8]: Textual amendment: Reg. 4 heading substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/a)
 
-[^key-5d383dfb35e7e588ca6cbb70cdf54ca0]: Textual amendment: Words in reg. 4 heading substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/3)
+[^c-5d383dfb35e7e588ca6cbb70cdf54ca0]: Textual amendment: Words in reg. 4 heading substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/3)
 
-[^key-4801f925d0b5247161110a08538a7778]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/659/regulation/4) heading inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/291/regulation/3/a)
+[^c-4801f925d0b5247161110a08538a7778]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2010/659/regulation/4) heading inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2025/291/regulation/3/a)
 
-[^key-6eda205615bf061ab2f63332cf21d27c]: Textual amendment: Words in reg. 4(1) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/3)
+[^c-6eda205615bf061ab2f63332cf21d27c]: Textual amendment: Words in reg. 4(1) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/3)
 
-[^key-4405083833132697863acbbfd57f6988]: Textual amendment: Punctuation mark in reg. 4(1) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/b/i)
+[^c-4405083833132697863acbbfd57f6988]: Textual amendment: Punctuation mark in reg. 4(1) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/b/i)
 
-[^key-8f730dd69f4b8062ca81a99e2f66b4c9]: Textual amendment: Words in reg. 4(1) renumbered as reg. 4(1)(a) (23.11.2020) by virtue of [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/b/ii)
+[^c-8f730dd69f4b8062ca81a99e2f66b4c9]: Textual amendment: Words in reg. 4(1) renumbered as reg. 4(1)(a) (23.11.2020) by virtue of [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/b/ii)
 
-[^key-a4047a1fc8e1cb6ba7fc8e2f62b71807]: Textual amendment: Reg. 4(1)(b) and word inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/b/iii)
+[^c-a4047a1fc8e1cb6ba7fc8e2f62b71807]: Textual amendment: Reg. 4(1)(b) and word inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/b/iii)
 
-[^key-1e0ece20985608b90b79db84ee7e371f]: Textual amendment: Words in reg. 4(1)(b) omitted (3.3.2022) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/125)](https://www.legislation.gov.uk/uksi/2022/125), [regs. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/125/regulation/1/2/c/ii), [36(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/36/2) (with [reg. 37(1)(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/1))
+[^c-1e0ece20985608b90b79db84ee7e371f]: Textual amendment: Words in reg. 4(1)(b) omitted (3.3.2022) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/125)](https://www.legislation.gov.uk/uksi/2022/125), [regs. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/125/regulation/1/2/c/ii), [36(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/36/2) (with [reg. 37(1)(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/1))
 
-[^key-bad43577c9ee1eb63c4b5a03546756a1]: Textual amendment: Reg. 4(1ZA) omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/i)
+[^c-bad43577c9ee1eb63c4b5a03546756a1]: Textual amendment: Reg. 4(1ZA) omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/i)
 
-[^key-cdfd2a4bdfff3bfb69a630126b6979ae]: Textual amendment: Reg. 4(1A) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/c)
+[^c-cdfd2a4bdfff3bfb69a630126b6979ae]: Textual amendment: Reg. 4(1A) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/c)
 
-[^key-3e0812361fbf9806d016e99b85834544]: Textual amendment: Words in reg. 4(1A) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/3)
+[^c-3e0812361fbf9806d016e99b85834544]: Textual amendment: Words in reg. 4(1A) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/3)
 
-[^key-93b5510283495260c917cb82d8e2bf64]: Textual amendment: Words in [reg. 4(1A)(b)](https://www.legislation.gov.uk/uksi/2010/659/regulation/4/1A/b) inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2025/291/regulation/3/b)
+[^c-93b5510283495260c917cb82d8e2bf64]: Textual amendment: Words in [reg. 4(1A)(b)](https://www.legislation.gov.uk/uksi/2010/659/regulation/4/1A/b) inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2025/291/regulation/3/b)
 
-[^key-e481f25921500de629f084ffb9a6ca7c]: Textual amendment: Reg. 4(2)(aa) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/2/a/i)
+[^c-e481f25921500de629f084ffb9a6ca7c]: Textual amendment: Reg. 4(2)(aa) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/2/a/i)
 
-[^key-45121e92ac17fb3c9e0badbe34cbcdcd]: Textual amendment: Reg. 4(2)(b)(ba) substituted for reg. 4(2)(b) (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(d)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/d/i)
+[^c-45121e92ac17fb3c9e0badbe34cbcdcd]: Textual amendment: Reg. 4(2)(b)(ba) substituted for reg. 4(2)(b) (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(d)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/d/i)
 
-[^key-03f45c6ed4faa949adb9a8f38f508e69]: Textual amendment: Words in [reg. 4(2)(ba)](https://www.legislation.gov.uk/uksi/2010/659/regulation/4/2/ba) inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2025/291/regulation/3/c)
+[^c-03f45c6ed4faa949adb9a8f38f508e69]: Textual amendment: Words in [reg. 4(2)(ba)](https://www.legislation.gov.uk/uksi/2010/659/regulation/4/2/ba) inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2025/291/regulation/3/c)
 
-[^key-c5da29e5e4814536560c2b80f3c920f0]: Textual amendment: Reg. 4(2)(da) inserted (1.10.2020) by [The Health Protection (Notification) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/674)](https://www.legislation.gov.uk/uksi/2020/674), [regs. 1](https://www.legislation.gov.uk/uksi/2020/674/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/674/regulation/2/2)
+[^c-c5da29e5e4814536560c2b80f3c920f0]: Textual amendment: Reg. 4(2)(da) inserted (1.10.2020) by [The Health Protection (Notification) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/674)](https://www.legislation.gov.uk/uksi/2020/674), [regs. 1](https://www.legislation.gov.uk/uksi/2020/674/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/674/regulation/2/2)
 
-[^key-b5385980aa9c59dea29fb5ea4539d785]: Textual amendment: Word in reg. 4(2)(j) omitted (23.11.2020) by virtue of [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/d/ii)
+[^c-b5385980aa9c59dea29fb5ea4539d785]: Textual amendment: Word in reg. 4(2)(j) omitted (23.11.2020) by virtue of [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/d/ii)
 
-[^key-0a15374c25e43543445a5fb70bb9aa44]: Textual amendment: Reg. 4(2)(l) and word substituted for words in reg. 4(2)(k) (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/d/iii)
+[^c-0a15374c25e43543445a5fb70bb9aa44]: Textual amendment: Reg. 4(2)(l) and word substituted for words in reg. 4(2)(k) (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/d/iii)
 
-[^key-ecd2fc59a7aeb5efef9c2cac022ec186]: Textual amendment: Words in reg. 4(2)(l) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/2/a/ii)
+[^c-ecd2fc59a7aeb5efef9c2cac022ec186]: Textual amendment: Words in reg. 4(2)(l) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/2/a/ii)
 
-[^key-9905f557150df407a61d5ac78bc82ced]: Textual amendment: Words in reg. 4(3) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/e)
+[^c-9905f557150df407a61d5ac78bc82ced]: Textual amendment: Words in reg. 4(3) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/e)
 
-[^key-11e796e307903d44684c5832cd849061]: Textual amendment: Reg. 4(3A)-(3C) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/f)
+[^c-11e796e307903d44684c5832cd849061]: Textual amendment: Reg. 4(3A)-(3C) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/f)
 
-[^key-ce761c500a567f01adc2b9bb0edc7368]: Textual amendment: Words in reg. 4(3A) substituted (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/ii)
+[^c-ce761c500a567f01adc2b9bb0edc7368]: Textual amendment: Words in reg. 4(3A) substituted (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/ii)
 
-[^key-7328f52d936329d54b9a025a4ee308f4]: Textual amendment: Words in reg. 4(3B) omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/iii)
+[^c-7328f52d936329d54b9a025a4ee308f4]: Textual amendment: Words in reg. 4(3B) omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/iii)
 
-[^key-75b4d56026c05548d91f35d60af78f12]: Textual amendment: Words in reg. 4(3C) substituted (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(iv)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/iv)
+[^c-75b4d56026c05548d91f35d60af78f12]: Textual amendment: Words in reg. 4(3C) substituted (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(iv)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/iv)
 
-[^key-ea1a06829c72cc51d6cb03fe36f5720e]: Textual amendment: Reg. 4(3D) omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(v)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/v)
+[^c-ea1a06829c72cc51d6cb03fe36f5720e]: Textual amendment: Reg. 4(3D) omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(a)(v)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/a/v)
 
-[^key-d1aedf0d8b49a1c780c589f0dc843604]: Textual amendment: Words in reg. 4(4) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(g)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/g/i)
+[^c-d1aedf0d8b49a1c780c589f0dc843604]: Textual amendment: Words in reg. 4(4) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(g)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/g/i)
 
-[^key-38c130528a2ee8a0999e759ade3e0e28]: Textual amendment: Words in reg. 4(4) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(g)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/g/ii)
+[^c-38c130528a2ee8a0999e759ade3e0e28]: Textual amendment: Words in reg. 4(4) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(g)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/g/ii)
 
-[^key-6562559ff817337e900dc6b515efcaf9]: Textual amendment: Words in reg. 4(6) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/3)
+[^c-6562559ff817337e900dc6b515efcaf9]: Textual amendment: Words in reg. 4(6) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/3)
 
-[^key-a31d9b75ba2b04915aef0f98560a39ea]: Textual amendment: Words in reg. 4(7) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(h)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/h)
+[^c-a31d9b75ba2b04915aef0f98560a39ea]: Textual amendment: Words in reg. 4(7) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(h)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/h)
 
-[^key-0afc64d58f426d33b227406472986189]: Textual amendment: Reg. 4(7A) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/i)
+[^c-0afc64d58f426d33b227406472986189]: Textual amendment: Reg. 4(7A) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/i)
 
-[^key-e76a62430dc4e7141c6b0d6cd6d64710]: Textual amendment: Punctuation mark in reg. 4(8) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(j)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/j/i)
+[^c-e76a62430dc4e7141c6b0d6cd6d64710]: Textual amendment: Punctuation mark in reg. 4(8) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(j)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/j/i)
 
-[^key-66754916498d88fe17230058691b9838]: Textual amendment: Words in reg. 4(8) renumbered as reg. 4(8)(a) (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/j/ii)
+[^c-66754916498d88fe17230058691b9838]: Textual amendment: Words in reg. 4(8) renumbered as reg. 4(8)(a) (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/j/ii)
 
-[^key-c3f9a61429149774670b58e8474a03dc]: Textual amendment: Reg. 4(8)(b) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(j)(iii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/j/iii)
+[^c-c3f9a61429149774670b58e8474a03dc]: Textual amendment: Reg. 4(8)(b) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(j)(iii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/j/iii)
 
-[^key-341b00ebaf395107ce771d6be0abdd20]: Textual amendment: Reg. 4(8A) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(k)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/k)
+[^c-341b00ebaf395107ce771d6be0abdd20]: Textual amendment: Reg. 4(8A) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(k)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/k)
 
-[^key-f31f02f6aa89731455e5b6a8e1a5f571]: Textual amendment: Words in reg. 4(11) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/i)
+[^c-f31f02f6aa89731455e5b6a8e1a5f571]: Textual amendment: Words in reg. 4(11) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(i)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/i)
 
-[^key-21503c31522c3b71f26d197ff86c5fb5]: Textual amendment: Words in reg. 4(11) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/ii)
+[^c-21503c31522c3b71f26d197ff86c5fb5]: Textual amendment: Words in reg. 4(11) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(ii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/ii)
 
-[^key-70a53003c21a56923b468e357018d11b]: Textual amendment: Word in reg. 4(11) omitted (23.11.2020) by virtue of [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(iii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/iii)
+[^c-70a53003c21a56923b468e357018d11b]: Textual amendment: Word in reg. 4(11) omitted (23.11.2020) by virtue of [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(iii)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/iii)
 
-[^key-f2c020ce2ae1d5ac181883f82e114feb]: Textual amendment: Words in reg. 4(11) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(iv)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/iv)
+[^c-f2c020ce2ae1d5ac181883f82e114feb]: Textual amendment: Words in reg. 4(11) inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(iv)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/iv)
 
-[^key-73cff4a1c723f0fd020459ae0d0f18f5]: Textual amendment: Words in reg. 4(11) inserted (23.11.2020) by virtue of [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(v)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/v)
+[^c-73cff4a1c723f0fd020459ae0d0f18f5]: Textual amendment: Words in reg. 4(11) inserted (23.11.2020) by virtue of [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [3(l)(v)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/3/l/v)
 
-[^key-a9132e5d1d0f0e6b06b49988ec3f5179]: Textual amendment: Reg. 4ZA omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/b)
+[^c-a9132e5d1d0f0e6b06b49988ec3f5179]: Textual amendment: Reg. 4ZA omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/b)
 
-[^key-f6bb19dd4d3ee3792d963a1604a9904e]: Textual amendment: Reg. 4ZB omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/b)
+[^c-f6bb19dd4d3ee3792d963a1604a9904e]: Textual amendment: Reg. 4ZB omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/b)
 
-[^key-b61181d62b45078c631a35b79a545560]: Textual amendment: Reg. 4A inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1175/regulation/4)
+[^c-b61181d62b45078c631a35b79a545560]: Textual amendment: Reg. 4A inserted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1175/regulation/4)
 
-[^key-67a1a8da5eac5d7127c3cfd0c702e616]: Textual amendment: Words in reg. 4A heading substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/5)
+[^c-67a1a8da5eac5d7127c3cfd0c702e616]: Textual amendment: Words in reg. 4A heading substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/5)
 
-[^key-b79f83f00dd2b3604e1fa2299be66749]: Textual amendment: Words in reg. 4A(1) omitted (3.3.2022) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/125)](https://www.legislation.gov.uk/uksi/2022/125), [regs. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/125/regulation/1/2/c/ii), [36(5)](https://www.legislation.gov.uk/uksi/2022/125/regulation/36/5) (with [reg. 37(1)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/1)[(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/2))
+[^c-b79f83f00dd2b3604e1fa2299be66749]: Textual amendment: Words in reg. 4A(1) omitted (3.3.2022) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/125)](https://www.legislation.gov.uk/uksi/2022/125), [regs. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/125/regulation/1/2/c/ii), [36(5)](https://www.legislation.gov.uk/uksi/2022/125/regulation/36/5) (with [reg. 37(1)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/1)[(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/2))
 
-[^key-ac29b843cd8f374c180230c31165b1bf]: Textual amendment: Words in reg. 4A(3) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/5)
+[^c-ac29b843cd8f374c180230c31165b1bf]: Textual amendment: Words in reg. 4A(3) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/5)
 
-[^key-1135a14b012a82ae939df0949749643f]: Textual amendment: Reg. 4A(7) renumbered as reg. 4A(6) (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(a)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/a)
+[^c-1135a14b012a82ae939df0949749643f]: Textual amendment: Reg. 4A(7) renumbered as reg. 4A(6) (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(a)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/a)
 
-[^key-57b7c1b6b1d7da90c24f5cd4c74b2261]: Textual amendment: Words in reg. 4A(6) substituted (1.10.2021) by virtue of [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/5)
+[^c-57b7c1b6b1d7da90c24f5cd4c74b2261]: Textual amendment: Words in reg. 4A(6) substituted (1.10.2021) by virtue of [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/5)
 
-[^key-7d80a1a94c07195de6f6b482f8a16785]: Textual amendment: Word in reg. 4A(6)(a) substituted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(b)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/b)
+[^c-7d80a1a94c07195de6f6b482f8a16785]: Textual amendment: Word in reg. 4A(6)(a) substituted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(b)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/b)
 
-[^key-2b7b3de98c662317413f39845689cb49]: Textual amendment: Reg. 4A(8) renumbered as reg. 4A(7) (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(c)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/c)
+[^c-2b7b3de98c662317413f39845689cb49]: Textual amendment: Reg. 4A(8) renumbered as reg. 4A(7) (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(c)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/c)
 
-[^key-3027dbe631c7e77b68335e5e998e8672]: Textual amendment: Reg. 4A(9) renumbered as reg. 4A(8) (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(d)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/d)
+[^c-3027dbe631c7e77b68335e5e998e8672]: Textual amendment: Reg. 4A(9) renumbered as reg. 4A(8) (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(d)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/d)
 
-[^key-d804847d0148b359fc52537f77d446bd]: Textual amendment: Reg. 4A(10) renumbered as reg. 4A(9) (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(e)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/e)
+[^c-d804847d0148b359fc52537f77d446bd]: Textual amendment: Reg. 4A(10) renumbered as reg. 4A(9) (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(5)(e)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/5/e)
 
-[^key-8f794534220fae698177a383cb65d1a0]: Textual amendment: Reg. 4B omitted (3.3.2022) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/125)](https://www.legislation.gov.uk/uksi/2022/125), [regs. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/125/regulation/1/2/c/ii), [36(6)](https://www.legislation.gov.uk/uksi/2022/125/regulation/36/6) (with [reg. 37(1)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/1)[(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/2))
+[^c-8f794534220fae698177a383cb65d1a0]: Textual amendment: Reg. 4B omitted (3.3.2022) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/125)](https://www.legislation.gov.uk/uksi/2022/125), [regs. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/125/regulation/1/2/c/ii), [36(6)](https://www.legislation.gov.uk/uksi/2022/125/regulation/36/6) (with [reg. 37(1)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/1)[(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/2))
 
-[^key-4fc18eb4774f03f776c729c578645a6f]: Textual amendment: Words in reg. 5 heading substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
+[^c-4fc18eb4774f03f776c729c578645a6f]: Textual amendment: Words in reg. 5 heading substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
 
-[^key-1f3e64050616db75d0d3eb87a151a157]: Textual amendment: Words in reg. 5(1) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
+[^c-1f3e64050616db75d0d3eb87a151a157]: Textual amendment: Words in reg. 5(1) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
 
-[^key-a6d810a493801d7c785e7be931bd0c6d]: Textual amendment: Words in reg. 5(2) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
+[^c-a6d810a493801d7c785e7be931bd0c6d]: Textual amendment: Words in reg. 5(2) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
 
-[^key-aa8f9fa3c9be676db86b1bf2232639b4]: Textual amendment: Words in reg. 5(5) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
+[^c-aa8f9fa3c9be676db86b1bf2232639b4]: Textual amendment: Words in reg. 5(5) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
 
-[^key-a25a17d142611542efe53b0c6b7febb5]: Textual amendment: Words in reg. 5(6) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
+[^c-a25a17d142611542efe53b0c6b7febb5]: Textual amendment: Words in reg. 5(6) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/6)
 
-[^key-0292496404cf6688c1f6385bf40383e6]: Textual amendment: Reg. 6(2)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 148(5)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/148/5)
+[^c-0292496404cf6688c1f6385bf40383e6]: Textual amendment: Reg. 6(2)(a) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 148(5)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/148/5)
 
-[^key-bbd5cd55583b9a2147a2cfef695ddc26]: Textual amendment: Words in reg. 6(2)(a) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/7)
+[^c-bbd5cd55583b9a2147a2cfef695ddc26]: Textual amendment: Words in reg. 6(2)(a) substituted (1.10.2021) by [The Public Health England (Dissolution) (Consequential Amendments) Regulations 2021 (S.I. 2021/974)](https://www.legislation.gov.uk/uksi/2021/974), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/974/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2021/974/regulation/5/7)
 
-[^key-65cea6bef369d2c9ea2ef9d07f317cad]: Textual amendment: Words in reg. 7(1)(a) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/1175/regulation/5)
+[^c-65cea6bef369d2c9ea2ef9d07f317cad]: Textual amendment: Words in reg. 7(1)(a) substituted (23.11.2020) by [The Health Protection (Notification) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/1175)](https://www.legislation.gov.uk/uksi/2020/1175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1175/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/1175/regulation/5)
 
-[^key-6e22c7f86581a63358446148588138ca]: Textual amendment: Words in reg. 7(1)(a) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(6)(a)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/6/a)
+[^c-6e22c7f86581a63358446148588138ca]: Textual amendment: Words in reg. 7(1)(a) inserted (21.9.2021) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/966)](https://www.legislation.gov.uk/uksi/2021/966), [regs. 1(4)(h)](https://www.legislation.gov.uk/uksi/2021/966/regulation/1/4/h), [21(6)(a)](https://www.legislation.gov.uk/uksi/2021/966/regulation/21/6/a)
 
-[^key-1a3c828dee8b3fb41003d7fa0319d5bb]: Textual amendment: Words in reg. 7(1)(a) omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/c)
+[^c-1a3c828dee8b3fb41003d7fa0319d5bb]: Textual amendment: Words in reg. 7(1)(a) omitted (18.3.2022 at 4.00 a.m.) by virtue of [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2022/317/regulation/3/c)
 
-[^key-a7c7f26cbe9591f86b2f4f601616fdd0]: Textual amendment: Words in reg. 7(1)(a) substituted (3.3.2022) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/125)](https://www.legislation.gov.uk/uksi/2022/125), [regs. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/125/regulation/1/2/c/ii), [36(7)](https://www.legislation.gov.uk/uksi/2022/125/regulation/36/7) (with [reg. 37(1)(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/1))
+[^c-a7c7f26cbe9591f86b2f4f601616fdd0]: Textual amendment: Words in reg. 7(1)(a) substituted (3.3.2022) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/125)](https://www.legislation.gov.uk/uksi/2022/125), [regs. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/125/regulation/1/2/c/ii), [36(7)](https://www.legislation.gov.uk/uksi/2022/125/regulation/36/7) (with [reg. 37(1)(2)](https://www.legislation.gov.uk/uksi/2022/125/regulation/37/1))
 
 [^c20188351]: Marginal citation: [S.I. 2010/657](https://www.legislation.gov.uk/uksi/2010/657).
 
 [^c20188361]: Marginal citation: [S.I. 2010/658](https://www.legislation.gov.uk/uksi/2010/658).
 
-[^key-c808c84669c4d41aace67aa5074bac05]: Textual amendment: Words in Sch. 1 inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/291/regulation/4)
+[^c-c808c84669c4d41aace67aa5074bac05]: Textual amendment: Words in Sch. 1 inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2025/291/regulation/4)
 
-[^key-1d6903cbf77a2afb82b3ae745f321642]: Textual amendment: Sch. 1: entry inserted (5.3.2020 at 6.15 p.m.) by [The Health Protection (Notification) (Amendment) Regulations 2020 (S.I. 2020/237)](https://www.legislation.gov.uk/uksi/2020/237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/237/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/237/regulation/2/2)
+[^c-1d6903cbf77a2afb82b3ae745f321642]: Textual amendment: Sch. 1: entry inserted (5.3.2020 at 6.15 p.m.) by [The Health Protection (Notification) (Amendment) Regulations 2020 (S.I. 2020/237)](https://www.legislation.gov.uk/uksi/2020/237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/237/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/237/regulation/2/2)
 
-[^key-169dc69901275ce74a156fe598755c59]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/659/schedule/1) inserted (18.5.2026 at 6.00 p.m.) by [The Health Protection (Notification) (Amendment) Regulations 2026 (S.I. 2026/535)](https://www.legislation.gov.uk/uksi/2026/535), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/535/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/535/regulation/2)
+[^c-169dc69901275ce74a156fe598755c59]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/659/schedule/1) inserted (18.5.2026 at 6.00 p.m.) by [The Health Protection (Notification) (Amendment) Regulations 2026 (S.I. 2026/535)](https://www.legislation.gov.uk/uksi/2026/535), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/535/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/535/regulation/2)
 
-[^key-b5a6f1663169df6a37bf01a5c7379531]: Textual amendment: Words in Sch. 1 inserted (8.6.2022) by [The Health Protection (Notification) (Amendment) Regulations 2022 (S.I. 2022/616)](https://www.legislation.gov.uk/uksi/2022/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/616/regulation/2/2)
+[^c-b5a6f1663169df6a37bf01a5c7379531]: Textual amendment: Words in Sch. 1 inserted (8.6.2022) by [The Health Protection (Notification) (Amendment) Regulations 2022 (S.I. 2022/616)](https://www.legislation.gov.uk/uksi/2022/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/616/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/616/regulation/2/2)
 
-[^key-b6afd8a893ca88edd75cc55e1ce47424]: Textual amendment: Sch. 2: entry inserted (1.10.2020) by [The Health Protection (Notification) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/674)](https://www.legislation.gov.uk/uksi/2020/674), [regs. 1](https://www.legislation.gov.uk/uksi/2020/674/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/674/regulation/2/3)
+[^c-b6afd8a893ca88edd75cc55e1ce47424]: Textual amendment: Sch. 2: entry inserted (1.10.2020) by [The Health Protection (Notification) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/674)](https://www.legislation.gov.uk/uksi/2020/674), [regs. 1](https://www.legislation.gov.uk/uksi/2020/674/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/674/regulation/2/3)
 
-[^key-f06df16245b1414219091935d2b15c53]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/659/schedule/2) inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/291/regulation/5)
+[^c-f06df16245b1414219091935d2b15c53]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/659/schedule/2) inserted (6.4.2025) by [The Health Protection (Notification) (Amendment) Regulations 2025 (S.I. 2025/291)](https://www.legislation.gov.uk/uksi/2025/291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/291/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/291/regulation/5)
 
-[^key-70e84c6ccc94742c631f5a5225d13978]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/659/schedule/2) inserted (8.6.2022) by [The Health Protection (Notification) (Amendment) Regulations 2022 (S.I. 2022/616)](https://www.legislation.gov.uk/uksi/2022/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/616/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/616/regulation/2/3)
+[^c-70e84c6ccc94742c631f5a5225d13978]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/659/schedule/2) inserted (8.6.2022) by [The Health Protection (Notification) (Amendment) Regulations 2022 (S.I. 2022/616)](https://www.legislation.gov.uk/uksi/2022/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/616/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/616/regulation/2/3)
 
-[^key-588114f60b6c11cda7c47a07b7ddd446]: Textual amendment: Sch. 2: entry inserted (5.3.2020 at 6.15 p.m.) by [The Health Protection (Notification) (Amendment) Regulations 2020 (S.I. 2020/237)](https://www.legislation.gov.uk/uksi/2020/237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/237/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/237/regulation/2/3)
+[^c-588114f60b6c11cda7c47a07b7ddd446]: Textual amendment: Sch. 2: entry inserted (5.3.2020 at 6.15 p.m.) by [The Health Protection (Notification) (Amendment) Regulations 2020 (S.I. 2020/237)](https://www.legislation.gov.uk/uksi/2020/237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/237/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/237/regulation/2/3)
 
 [^c20188371]: Marginal citation: [S.I. 1925/757](https://www.legislation.gov.uk/uksi/1925/757).
 

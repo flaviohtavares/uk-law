@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Registration of birth of children of civil partners[^key-ac4eb806e9ccb564f43ea8311f0870ac]
+## 17. Registration of birth of children of civil partners[^c-ac4eb806e9ccb564f43ea8311f0870ac]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ac4eb806e9ccb564f43ea8311f0870ac]: Commencement: Reg. 17 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-ac4eb806e9ccb564f43ea8311f0870ac]: Commencement: Reg. 17 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00034]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20).
 

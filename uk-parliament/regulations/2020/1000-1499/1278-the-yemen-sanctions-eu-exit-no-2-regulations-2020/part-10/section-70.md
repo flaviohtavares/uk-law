@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Transitional provision: pending applications for trade licences[^key-948b52f00bf5fb47334a7b7518eda16f][^key-66b0aa8b50483fccbe2ab36bc0e03a92]
+## 70. Transitional provision: pending applications for trade licences[^c-948b52f00bf5fb47334a7b7518eda16f][^c-66b0aa8b50483fccbe2ab36bc0e03a92]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-948b52f00bf5fb47334a7b7518eda16f]: Commencement: Reg. 70 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-948b52f00bf5fb47334a7b7518eda16f]: Commencement: Reg. 70 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-66b0aa8b50483fccbe2ab36bc0e03a92]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2020/1278/regulation/70) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-66b0aa8b50483fccbe2ab36bc0e03a92]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2020/1278/regulation/70) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Recovery by parent etc. where child not placed or is a baby[^key-a7da755f44c3960fbefa3215f917bca8]
+## 31. Recovery by parent etc. where child not placed or is a baby[^c-a7da755f44c3960fbefa3215f917bca8]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ unless an application is, or has been, made for a placement order and the applic
 
 ## Annotations
 
-[^key-a7da755f44c3960fbefa3215f917bca8]: Commencement: S. 31 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-a7da755f44c3960fbefa3215f917bca8]: Commencement: S. 31 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

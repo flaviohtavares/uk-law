@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Life or endowment business.[^key-f1707a9bebb2e06a69a9955dcc1aed57]
+## 171. Life or endowment business.[^c-f1707a9bebb2e06a69a9955dcc1aed57]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1707a9bebb2e06a69a9955dcc1aed57]: Textual amendment: [S. 171](https://www.legislation.gov.uk/ukpga/1996/8/section/171) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(d)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/d)
+[^c-f1707a9bebb2e06a69a9955dcc1aed57]: Textual amendment: [S. 171](https://www.legislation.gov.uk/ukpga/1996/8/section/171) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(d)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/d)

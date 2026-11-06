@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of section 23[^key-e25e1e3293261f9399f59e151461af9f]
+## 11. Amendment of section 23[^c-e25e1e3293261f9399f59e151461af9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ In section 23 (erasure of names of deceased persons and of those who have ceased
 
 ## Annotations
 
-[^key-e25e1e3293261f9399f59e151461af9f]: Commencement: Art. 11 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-e25e1e3293261f9399f59e151461af9f]: Commencement: Art. 11 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00006]: Footnote: Subsection (4) was amended by S.I. [2001/3926](https://www.legislation.gov.uk/uksi/2001/3926).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356JHB. Carrying forward of unactivated allowance[^key-d4aa543b7323fe7fc3668e790aa4a9bb]
+## 356JHB. Carrying forward of unactivated allowance[^c-d4aa543b7323fe7fc3668e790aa4a9bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ T is the sum of any amounts transferred by the company under section 356JK in co
 
 ## Annotations
 
-[^key-d4aa543b7323fe7fc3668e790aa4a9bb]: Textual amendment: Pt. 8 Ch. 9 inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/13/paragraph/2)
+[^c-d4aa543b7323fe7fc3668e790aa4a9bb]: Textual amendment: Pt. 8 Ch. 9 inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2015/11/schedule/13/paragraph/2)

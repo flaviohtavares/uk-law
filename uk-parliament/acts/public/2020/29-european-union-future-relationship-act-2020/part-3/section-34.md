@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Funding of PEACE PLUS programme[^key-dd189e11040eb725933afd8debd17437]
+## 34. Funding of PEACE PLUS programme[^c-dd189e11040eb725933afd8debd17437]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd189e11040eb725933afd8debd17437]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2020/29/section/34) in force at 1.3.2021 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/3/c)
+[^c-dd189e11040eb725933afd8debd17437]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2020/29/section/34) in force at 1.3.2021 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/3/c)

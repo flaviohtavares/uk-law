@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Consents to prosecutions[^key-cd8553031f2ba01b85148d4415fe5194][^key-88a855e2cf28ac54f69c1b0ba1a61eaa]
+## 37. Consents to prosecutions[^c-cd8553031f2ba01b85148d4415fe5194][^c-88a855e2cf28ac54f69c1b0ba1a61eaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd8553031f2ba01b85148d4415fe5194]: Commencement: S. 37 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-cd8553031f2ba01b85148d4415fe5194]: Commencement: S. 37 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-88a855e2cf28ac54f69c1b0ba1a61eaa]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/32/section/37) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-88a855e2cf28ac54f69c1b0ba1a61eaa]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/32/section/37) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

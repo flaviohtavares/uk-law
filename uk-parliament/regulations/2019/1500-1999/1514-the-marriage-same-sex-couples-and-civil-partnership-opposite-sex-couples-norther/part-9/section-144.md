@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Employment (Northern Ireland) Order 2002[^key-45195b02149ff8acdc95fbe39a38d83a]
+## 144. Employment (Northern Ireland) Order 2002[^c-45195b02149ff8acdc95fbe39a38d83a]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In Article 11 of the Employment (Northern Ireland) Order 2002[^f00232] (power to
 
 ## Annotations
 
-[^key-45195b02149ff8acdc95fbe39a38d83a]: Commencement: Reg. 144 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-45195b02149ff8acdc95fbe39a38d83a]: Commencement: Reg. 144 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00232]: Footnote: [S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)

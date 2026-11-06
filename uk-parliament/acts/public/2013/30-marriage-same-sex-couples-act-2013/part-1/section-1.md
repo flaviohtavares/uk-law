@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Extension of marriage to same sex couples[^key-11272ee8c71617e8eea0c0a5d607dc7d]
+## 1. Extension of marriage to same sex couples[^c-11272ee8c71617e8eea0c0a5d607dc7d]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11272ee8c71617e8eea0c0a5d607dc7d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/30/section/1) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-11272ee8c71617e8eea0c0a5d607dc7d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/30/section/1) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)

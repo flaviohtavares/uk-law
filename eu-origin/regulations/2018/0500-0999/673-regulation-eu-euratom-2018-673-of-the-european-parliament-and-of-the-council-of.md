@@ -33,16 +33,16 @@ of 3 May 2018
 
 amending Regulation (EU, Euratom) No 1141/2014 on the statute and funding of European political parties and European political foundations (revoked) (revoked)
 
-[^key-2a033bc78bd9fb3d05b626966344be47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a033bc78bd9fb3d05b626966344be47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2a033bc78bd9fb3d05b626966344be47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2a033bc78bd9fb3d05b626966344be47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2a033bc78bd9fb3d05b626966344be47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2a033bc78bd9fb3d05b626966344be47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a033bc78bd9fb3d05b626966344be47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a033bc78bd9fb3d05b626966344be47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a033bc78bd9fb3d05b626966344be47]: Textual amendment: Regulation revoked (1.11.2022) by [The European Parliamentary Elections (Amendment and Revocation) (United Kingdom and Gibraltar) (EU Exit) Regulations 2022 (S.I. 2022/885)](https://www.legislation.gov.uk/uksi/2022/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2022/885/regulation/6/1/b)
+[^c-2a033bc78bd9fb3d05b626966344be47]: Textual amendment: Regulation revoked (1.11.2022) by [The European Parliamentary Elections (Amendment and Revocation) (United Kingdom and Gibraltar) (EU Exit) Regulations 2022 (S.I. 2022/885)](https://www.legislation.gov.uk/uksi/2022/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2022/885/regulation/6/1/b)

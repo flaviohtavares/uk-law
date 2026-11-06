@@ -46,19 +46,19 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 In accordance with section 178(5) of that Act, the Secretary of State has reviewed the general level of earnings obtaining in Great Britain during the period of 12 months ending with 31st July 2014. It appears to the Secretary of State that the general level of earnings has increased by 0.6% during that period.
 
-## 1. Citation, commencement and interpretation[^key-6102ce000cc3e58f1c44d25864e44b90]
+## 1. Citation, commencement and interpretation[^c-6102ce000cc3e58f1c44d25864e44b90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The earnings percentage[^key-6102ce000cc3e58f1c44d25864e44b90]
+## 2. The earnings percentage[^c-6102ce000cc3e58f1c44d25864e44b90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The levy ceiling[^key-6102ce000cc3e58f1c44d25864e44b90]
+## 3. The levy ceiling[^c-6102ce000cc3e58f1c44d25864e44b90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of articles 2 and 3 of the Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2014[^key-6102ce000cc3e58f1c44d25864e44b90]
+## 4. Revocation of articles 2 and 3 of the Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2014[^c-6102ce000cc3e58f1c44d25864e44b90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -88,4 +88,4 @@ This Order amends an existing regulatory regime by a pre-determined formula and 
 
 [^c2233648]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35). *See also* [S.I. 2014/10](https://www.legislation.gov.uk/uksi/2014/10) which sets the levy ceiling for the financial year beginning on 1st April 2014.
 
-[^key-6102ce000cc3e58f1c44d25864e44b90]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2015/66) revoked (1.4.2016) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2016 (S.I. 2016/82)](https://www.legislation.gov.uk/uksi/2016/82), [art. 5](https://www.legislation.gov.uk/uksi/2016/82/article/5)
+[^c-6102ce000cc3e58f1c44d25864e44b90]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2015/66) revoked (1.4.2016) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2016 (S.I. 2016/82)](https://www.legislation.gov.uk/uksi/2016/82), [art. 5](https://www.legislation.gov.uk/uksi/2016/82/article/5)

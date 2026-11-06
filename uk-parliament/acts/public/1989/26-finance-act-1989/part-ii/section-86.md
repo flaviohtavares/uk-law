@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Spreading of relief for acquisition expenses.[^key-ef78711fc503f220e7770d40186a06c0]
+## 86. Spreading of relief for acquisition expenses.[^c-ef78711fc503f220e7770d40186a06c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef78711fc503f220e7770d40186a06c0]: Textual amendment: S. 86 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 61](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/61)
+[^c-ef78711fc503f220e7770d40186a06c0]: Textual amendment: S. 86 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 61](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/61)

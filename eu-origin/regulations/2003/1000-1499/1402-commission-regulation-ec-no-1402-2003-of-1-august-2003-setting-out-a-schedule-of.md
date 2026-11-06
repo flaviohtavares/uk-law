@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1402/2003
 
 of 1 August 2003 setting out a schedule of tables and laying down the definitions relating to basic statistical surveys of areas under vines (revoked)
 
-[^key-a974c713d5b5b3b218bb44f67f2025d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a974c713d5b5b3b218bb44f67f2025d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-a974c713d5b5b3b218bb44f67f2025d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-a974c713d5b5b3b218bb44f67f2025d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a974c713d5b5b3b218bb44f67f2025d7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/41)
+[^c-a974c713d5b5b3b218bb44f67f2025d7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/41)

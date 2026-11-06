@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Notice of appeal[^key-7f04498d4ab3e9eda2946cbf6963a5f9][^key-816f9ebfa92d4716e4ca749a66323a50]
+## 58. Notice of appeal[^c-7f04498d4ab3e9eda2946cbf6963a5f9][^c-816f9ebfa92d4716e4ca749a66323a50]
 
 *Extent: S*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7f04498d4ab3e9eda2946cbf6963a5f9]: Commencement: Reg. 58 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-7f04498d4ab3e9eda2946cbf6963a5f9]: Commencement: Reg. 58 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-816f9ebfa92d4716e4ca749a66323a50]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/2001/497/regulation/58) applied (8.2.2008) by [The Absent Voting (Transitional Provisions) (Scotland) Regulations 2008 (S.I. 2008/48)](https://www.legislation.gov.uk/uksi/2008/48), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/48/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2008/48/regulation/5/2/b)
+[^c-816f9ebfa92d4716e4ca749a66323a50]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/2001/497/regulation/58) applied (8.2.2008) by [The Absent Voting (Transitional Provisions) (Scotland) Regulations 2008 (S.I. 2008/48)](https://www.legislation.gov.uk/uksi/2008/48), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/48/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2008/48/regulation/5/2/b)
 
 [^f00039]: Footnote: Section 56(1)(b) was amended by Schedule 2 to the 1985 Act.

@@ -31,10 +31,10 @@ Council Regulation (Euratom) No 2587/1999
 
 of 2 December 1999 defining the investment projects to be communicated to the Commission in accordance with Article 41 of the Treaty establishing the European Atomic Energy Community (revoked)
 
-[^key-626125142ebba670df9b74ff10ecf4b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-626125142ebba670df9b74ff10ecf4b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-626125142ebba670df9b74ff10ecf4b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-626125142ebba670df9b74ff10ecf4b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-626125142ebba670df9b74ff10ecf4b2]: Textual amendment: Regulation revoked (31.12.2020) by [The Communication of Investments (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1147)](https://www.legislation.gov.uk/uksi/2018/1147), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1147/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1147/regulation/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-626125142ebba670df9b74ff10ecf4b2]: Textual amendment: Regulation revoked (31.12.2020) by [The Communication of Investments (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1147)](https://www.legislation.gov.uk/uksi/2018/1147), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1147/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1147/regulation/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

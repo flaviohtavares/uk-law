@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2012 (revoked)[^key-ef38b6bc20199a95e8e92bc9337f7679]
+The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2012 (revoked)[^c-ef38b6bc20199a95e8e92bc9337f7679]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st September 2013
 
-[^key-ef38b6bc20199a95e8e92bc9337f7679]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef38b6bc20199a95e8e92bc9337f7679]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ef38b6bc20199a95e8e92bc9337f7679]
+## 1. Citation, commencement and interpretation[^c-ef38b6bc20199a95e8e92bc9337f7679]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed early years provision[^key-ef38b6bc20199a95e8e92bc9337f7679]
+## 2. Prescribed early years provision[^c-ef38b6bc20199a95e8e92bc9337f7679]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed description[^key-ef38b6bc20199a95e8e92bc9337f7679]
+## 3. Prescribed description[^c-ef38b6bc20199a95e8e92bc9337f7679]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Availability of early years provision[^key-ef38b6bc20199a95e8e92bc9337f7679]
+## 4. Availability of early years provision[^c-ef38b6bc20199a95e8e92bc9337f7679]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-ef38b6bc20199a95e8e92bc9337f7679]
+## 5. Revocations[^c-ef38b6bc20199a95e8e92bc9337f7679]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef38b6bc20199a95e8e92bc9337f7679]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef38b6bc20199a95e8e92bc9337f7679]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef38b6bc20199a95e8e92bc9337f7679]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef38b6bc20199a95e8e92bc9337f7679]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef38b6bc20199a95e8e92bc9337f7679]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2488) revoked (1.9.2014) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2013 (S.I. 2013/3193)](https://www.legislation.gov.uk/uksi/2013/3193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3193/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/3193/regulation/5)
+[^c-ef38b6bc20199a95e8e92bc9337f7679]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/2488) revoked (1.9.2014) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2013 (S.I. 2013/3193)](https://www.legislation.gov.uk/uksi/2013/3193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3193/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/3193/regulation/5)

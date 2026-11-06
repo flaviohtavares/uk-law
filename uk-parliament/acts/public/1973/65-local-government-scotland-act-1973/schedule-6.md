@@ -22,7 +22,7 @@ summary: ''
 
 Section 28.
 
-**1.** (1) This Schedule applies to the consideration by the Secretary of State or Boundaries Scotland[^key-6d39782ce85729719702a51083ecc1be] of the electoral arrangements for election of councillors of local government areas.
+**1.** (1) This Schedule applies to the consideration by the Secretary of State or Boundaries Scotland[^c-6d39782ce85729719702a51083ecc1be] of the electoral arrangements for election of councillors of local government areas.
 
 (2)[^c9686241] Having regard to any change in the number or distribution of electors of a local government area likely to take place within the period of five years immediately following the consideration , the number[^c9686251] calculated by dividing the number of local government electors in each electoral ward of that local government area by the number of councillors to be returned in that ward shall be, as nearly as may be, the same.[^c19262221]
 
@@ -37,7 +37,7 @@ but if, in any case, there is a conflict between those criteria, greater weight 
 
 ## Annotations
 
-[^key-6d39782ce85729719702a51083ecc1be]: Textual amendment: Words in Sch. 6 para. 1(1) substituted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. paras. 1(2)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1/2)[(l)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1/I); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-6d39782ce85729719702a51083ecc1be]: Textual amendment: Words in Sch. 6 para. 1(1) substituted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. paras. 1(2)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1/2)[(l)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1/I); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
 [^c9686241]: Modification: Sch. 6 para. 1(2): power to transfer or modify functions conferred (30.11.2000 for certain purposes only, otherwise*prosp.*) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/19/3), [163(2)(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/163/2/3)
 

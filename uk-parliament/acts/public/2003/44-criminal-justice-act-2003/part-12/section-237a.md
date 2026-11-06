@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237A. Public protection decisions[^key-0fe081c31b9d0ebd0775e8c38daac35e][^key-3973b9f3a2cac42531704f01b76ec1a5]
+## 237A. Public protection decisions[^c-0fe081c31b9d0ebd0775e8c38daac35e][^c-3973b9f3a2cac42531704f01b76ec1a5]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 (12) Subsection (2) has effect in relation to a decision made by the Board—
 
 - (a) under section 255B(4A) (automatic release) as if for the words “be confined” there were substituted “remain in prison until the end of the period mentioned in section 255B(1)(b)”;
-- (b) under section 255C(4A) (prisoners excluded from[^key-20ee18787d728213639022aa972a8579] automatic release) or 256A(4) (further review) as if for the words “be confined” there were substituted “remain in prison”.
+- (b) under section 255C(4A) (prisoners excluded from[^c-20ee18787d728213639022aa972a8579] automatic release) or 256A(4) (further review) as if for the words “be confined” there were substituted “remain in prison”.
 
 (13) The Secretary of State may by order amend Schedule 18B so as to—
 
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0fe081c31b9d0ebd0775e8c38daac35e]: Modification: [S. 237A](https://www.legislation.gov.uk/ukpga/2003/44/section/237A): power to amend conferred (3.4.2025) by [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10), [s. 128(3)(aaza)](https://www.legislation.gov.uk/ukpga/2012/10/section/128/3/aaza) (as inserted by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 60(2)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/60/2/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/441/regulation/2/a))
+[^c-0fe081c31b9d0ebd0775e8c38daac35e]: Modification: [S. 237A](https://www.legislation.gov.uk/ukpga/2003/44/section/237A): power to amend conferred (3.4.2025) by [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10), [s. 128(3)(aaza)](https://www.legislation.gov.uk/ukpga/2012/10/section/128/3/aaza) (as inserted by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 60(2)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/60/2/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/441/regulation/2/a))
 
-[^key-3973b9f3a2cac42531704f01b76ec1a5]: Textual amendment: [Ss. 237A](https://www.legislation.gov.uk/ukpga/2003/44/section/237A), [237B](https://www.legislation.gov.uk/ukpga/2003/44/section/237B) inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/59/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/b)
+[^c-3973b9f3a2cac42531704f01b76ec1a5]: Textual amendment: [Ss. 237A](https://www.legislation.gov.uk/ukpga/2003/44/section/237A), [237B](https://www.legislation.gov.uk/ukpga/2003/44/section/237B) inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/59/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/b)
 
-[^key-20ee18787d728213639022aa972a8579]: Textual amendment: Words in [s. 237A(12)(b)](https://www.legislation.gov.uk/ukpga/2003/44/section/237A/12/b) substituted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-20ee18787d728213639022aa972a8579]: Textual amendment: Words in [s. 237A(12)(b)](https://www.legislation.gov.uk/ukpga/2003/44/section/237A/12/b) substituted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

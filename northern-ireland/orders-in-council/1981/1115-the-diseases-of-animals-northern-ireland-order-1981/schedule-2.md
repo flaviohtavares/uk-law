@@ -37,16 +37,16 @@ Articles 2(3), 16(1), (2), 61(2)
 
 #### 2. Pleuro-pneumonia:
 
-(1) The Department shall cause to be slaughtered all susceptible animals[^key-8daeb95cebb0ebc47e490d464c2fe459] affected with pleuro-pneumonia.
+(1) The Department shall cause to be slaughtered all susceptible animals[^c-8daeb95cebb0ebc47e490d464c2fe459] affected with pleuro-pneumonia.
 
 (2) The Department may in any case cause to be slaughtered—
 
-- (a) any susceptible animal[^key-4c0fd8628e999a6be8acf56a1898316c] suspected of being affected with pleuro-pneumonia; and
+- (a) any susceptible animal[^c-4c0fd8628e999a6be8acf56a1898316c] suspected of being affected with pleuro-pneumonia; and
 - (b) any susceptible animal which are or which have been in contact with susceptible animal affected with pleuro-pneumonia, or which appear to the Department to have been in any way exposed to the infection of pleuro-pneumonia.
 
-(3) Where the Department has decided that any susceptible animal[^key-ade97fbf0c710e4003ffe30dd1ef2da0] is to be slaughtered under this paragraph, the Department shall, if the owner of such susceptible animal by notice so requires, cause the same to be slaughtered within twenty-one days after the receipt of the notice.
+(3) Where the Department has decided that any susceptible animal[^c-ade97fbf0c710e4003ffe30dd1ef2da0] is to be slaughtered under this paragraph, the Department shall, if the owner of such susceptible animal by notice so requires, cause the same to be slaughtered within twenty-one days after the receipt of the notice.
 
-(4)[^key-fb8262230eeb690871bd31343c7b3da9] In this paragraph, “**susceptible animal**” means animal of the genus *Ovis, Capra, Gazella, Bison, Bos or Bubalus,* or of the species *Syncerus cafer*.
+(4)[^c-fb8262230eeb690871bd31343c7b3da9] In this paragraph, “**susceptible animal**” means animal of the genus *Ovis, Capra, Gazella, Bison, Bos or Bubalus,* or of the species *Syncerus cafer*.
 
 #### 3. Foot-and-mouth Disease:
 
@@ -55,7 +55,7 @@ The Department may in any case cause to be slaughtered—
 - (a) any animals affected with foot-and-mouth disease, or suspected of being so affected; and
 - (b) any animals which are of have been in contact with animals affected with foot-and-mouth disease, or which appear to the Department to have been in any way exposed to the infection of foot-and-mouth disease.
 
-**3A.**[^c19892681] (1) This paragraph applies to any premises which are declared by the Department to be infected premises under any provision which gives effect in relation to Northern Ireland to Council Directive [2003/85/EC](https://www.legislation.gov.uk/eudr/2003/85) of 29 September 2003 on Community measures for the control of foot-and-mouth disease , as last amended by Commission Implementing Decision (EU) 2018/1099[^key-17297670fa7c5eee5fdec6e8fd155bab] .
+**3A.**[^c19892681] (1) This paragraph applies to any premises which are declared by the Department to be infected premises under any provision which gives effect in relation to Northern Ireland to Council Directive [2003/85/EC](https://www.legislation.gov.uk/eudr/2003/85) of 29 September 2003 on Community measures for the control of foot-and-mouth disease , as last amended by Commission Implementing Decision (EU) 2018/1099[^c-17297670fa7c5eee5fdec6e8fd155bab] .
 
 (2) Subject to sub-paragraphs (3) and (5), the Department must cause to be slaughtered all susceptible animals on the premises.
 
@@ -64,12 +64,12 @@ The Department may in any case cause to be slaughtered—
 - (a) a laboratory, zoo, wildlife park or other premises keeping animals principally for the purposes of display or education of the public, or an enclosed area principally used for shooting; or
 - (b) the premises of a body, institute or centre which—
   - (i) keeps animals only for the purposes of conservation, display and education of the public, or scientific research or breeding of such animals for research, and
-  - (ii) is approved by the Department in relation to those animals in accordance with any provision which gives effect in relation to Northern Ireland to Article 13(2) of Council Directive [92/65/EEC](https://www.legislation.gov.uk/eudr/1992/65) of 13 July 1992 laying down animal health requirements governing trade in certain animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(1) to Directive [1990/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) , as last amended by Commission Implementing Decision (EU) 2017/2174[^key-024d8474f3645fb1f35c827fbade2399] ; or
+  - (ii) is approved by the Department in relation to those animals in accordance with any provision which gives effect in relation to Northern Ireland to Article 13(2) of Council Directive [92/65/EEC](https://www.legislation.gov.uk/eudr/1992/65) of 13 July 1992 laying down animal health requirements governing trade in certain animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(1) to Directive [1990/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) , as last amended by Commission Implementing Decision (EU) 2017/2174[^c-024d8474f3645fb1f35c827fbade2399] ; or
 - (c) other premises keeping susceptible animals for scientific purposes or purposes related to conservation of species or farm animal genetic resources.
 
 (4) The Department shall not make a decision under sub-paragraph (3) unless it is satisfied that—
 
-- (a) basic European Community interests are not endangered (and in particular it shall take into account any threat of the spread of foot-and-mouth disease to [^key-2c32837f7fd542dc824159eca4fde77e]... member States); and
+- (a) basic European Community interests are not endangered (and in particular it shall take into account any threat of the spread of foot-and-mouth disease to [^c-2c32837f7fd542dc824159eca4fde77e]... member States); and
 - (b) the measures in place to prevent any risk of spreading foot-and-mouth disease virus are adequate.
 
 (5) If the premises consist of two or more separate production units (by virtue of a declaration under sub-paragraph (6)), the Department may decide not to slaughter susceptible animals on free units of those premises.
@@ -140,12 +140,12 @@ The Department may in any case cause to be slaughtered—
 
 #### 8. Glanders:
 
-(1)[^key-45749841a049369e039514226e1e6663] The Department may cause to be slaughtered—
+(1)[^c-45749841a049369e039514226e1e6663] The Department may cause to be slaughtered—
 
-- (a) any susceptible animal[^key-b1ad674209ffe31397bb73d6d455dd2b] affected with glanders, or suspected of being so affected; and
-- (b) any susceptible animal which is or has been in contact with susceptible animals[^key-a11f4f765c52b2840fe49f5d3048d97a] affected with glanders or which appears to the Department to have been in any way exposed to the infection of glanders.
+- (a) any susceptible animal[^c-b1ad674209ffe31397bb73d6d455dd2b] affected with glanders, or suspected of being so affected; and
+- (b) any susceptible animal which is or has been in contact with susceptible animals[^c-a11f4f765c52b2840fe49f5d3048d97a] affected with glanders or which appears to the Department to have been in any way exposed to the infection of glanders.
 
-(2)[^key-2693fdf547794af6e67020f43edc06f3] In this paragraph, “**susceptible animal**” means animal of the genus *Ovis, Capra, Gazella, Bison, Bos or Bubalus,* or of the species *Syncerus cafer*
+(2)[^c-2693fdf547794af6e67020f43edc06f3] In this paragraph, “**susceptible animal**” means animal of the genus *Ovis, Capra, Gazella, Bison, Bos or Bubalus,* or of the species *Syncerus cafer*
 
 #### 9. Rabies:
 
@@ -241,7 +241,7 @@ The compensation shall—
 
 The compensation shall—
 
-- (a) where the animal[^key-e45df9faf052d76dd299434074d9b198] was affected with glanders, be one-half of its value immediately before it became so affected; and
+- (a) where the animal[^c-e45df9faf052d76dd299434074d9b198] was affected with glanders, be one-half of its value immediately before it became so affected; and
 - (b) in every other case, be the value of the animal immediately before it was slaughtered.
 
 #### 9. Rabies:
@@ -284,21 +284,21 @@ The compensation for any poultry slaughtered shall be the value of the poultry i
 
 ## Annotations
 
-[^key-8daeb95cebb0ebc47e490d464c2fe459]: Textual amendment: Words in [Sch. 2 Pt. I para. 2(1)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/2/1) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/a/i)
+[^c-8daeb95cebb0ebc47e490d464c2fe459]: Textual amendment: Words in [Sch. 2 Pt. I para. 2(1)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/2/1) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/a/i)
 
-[^key-4c0fd8628e999a6be8acf56a1898316c]: Textual amendment: Words in [Sch. 2 Pt. I para. 2(2)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/2/2) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/a/i)
+[^c-4c0fd8628e999a6be8acf56a1898316c]: Textual amendment: Words in [Sch. 2 Pt. I para. 2(2)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/2/2) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(a)(i)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/a/i)
 
-[^key-ade97fbf0c710e4003ffe30dd1ef2da0]: Textual amendment: Words in [Sch. 2 Pt. I para. 2(3)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/2/3) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/a/ii)
+[^c-ade97fbf0c710e4003ffe30dd1ef2da0]: Textual amendment: Words in [Sch. 2 Pt. I para. 2(3)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/2/3) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/a/ii)
 
-[^key-fb8262230eeb690871bd31343c7b3da9]: Textual amendment: [Sch. 2 Pt. I para. 2(4)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/2/4) inserted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/a/iii)
+[^c-fb8262230eeb690871bd31343c7b3da9]: Textual amendment: [Sch. 2 Pt. I para. 2(4)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/2/4) inserted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/a/iii)
 
 [^c19892681]: Textual amendment: Sch. 2 Pt. 1 paras. 3A, 3B inserted (23.2.2006) by [Diseases of Animals (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/41)](https://www.legislation.gov.uk/nisr/2006/41), [reg. 3](https://www.legislation.gov.uk/nisr/2006/41/regulation/3)
 
-[^key-17297670fa7c5eee5fdec6e8fd155bab]: Textual amendment: Words in Sch. 2 para. 3A(1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/1/a)
+[^c-17297670fa7c5eee5fdec6e8fd155bab]: Textual amendment: Words in Sch. 2 para. 3A(1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/1/a)
 
-[^key-024d8474f3645fb1f35c827fbade2399]: Textual amendment: Words in Sch. 2 para. 3A(3)(b)(ii) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/1/b)
+[^c-024d8474f3645fb1f35c827fbade2399]: Textual amendment: Words in Sch. 2 para. 3A(3)(b)(ii) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/1/b)
 
-[^key-2c32837f7fd542dc824159eca4fde77e]: Textual amendment: Word in [Sch. 2 para. 3A(4)(a)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/paragraph/3A/4/a) omitted (31.12.2020) by virtue of [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2020/327/regulation/3/7)
+[^c-2c32837f7fd542dc824159eca4fde77e]: Textual amendment: Word in [Sch. 2 para. 3A(4)(a)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/paragraph/3A/4/a) omitted (31.12.2020) by virtue of [The Plant Health and Diseases of Animals (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/327)](https://www.legislation.gov.uk/nisr/2020/327), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/327/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2020/327/regulation/3/7)
 
 [^c19892841]: Modification: [Sch. 2 Pt. 1 para. 3B](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/1/paragraph/3B) modified (23.2.2006) by Foot-and-[Mouth Disease (Control of Vaccination) Regulations (Northern Ireland) 2006 (S.R. 2006/43)](https://www.legislation.gov.uk/nisr/2006/43), [reg. 35](https://www.legislation.gov.uk/nisr/2006/43/regulation/35)
 
@@ -306,13 +306,13 @@ The compensation for any poultry slaughtered shall be the value of the poultry i
 
 [^c21397221]: Textual amendment: SR 2004/362
 
-[^key-45749841a049369e039514226e1e6663]: Textual amendment: Sch. 2 Pt. 1 para. 8 renumbered as Sch. 2 Pt. 1 para. 8(1) (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(b)(i)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/b/i)
+[^c-45749841a049369e039514226e1e6663]: Textual amendment: Sch. 2 Pt. 1 para. 8 renumbered as Sch. 2 Pt. 1 para. 8(1) (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(b)(i)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/b/i)
 
-[^key-b1ad674209ffe31397bb73d6d455dd2b]: Textual amendment: Words in [Sch. 2 Pt. I para. 8(1)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/8/1) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/b/ii)
+[^c-b1ad674209ffe31397bb73d6d455dd2b]: Textual amendment: Words in [Sch. 2 Pt. I para. 8(1)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/8/1) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/b/ii)
 
-[^key-a11f4f765c52b2840fe49f5d3048d97a]: Textual amendment: Words in [Sch. 2 Pt. I para. 8(1)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/8/1) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/b/iii)
+[^c-a11f4f765c52b2840fe49f5d3048d97a]: Textual amendment: Words in [Sch. 2 Pt. I para. 8(1)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/8/1) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/b/iii)
 
-[^key-2693fdf547794af6e67020f43edc06f3]: Textual amendment: [Sch. 2 Pt. I para. 8(2)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/8/2) inserted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/b/iv)
+[^c-2693fdf547794af6e67020f43edc06f3]: Textual amendment: [Sch. 2 Pt. I para. 8(2)](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/I/paragraph/8/2) inserted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2023/179/article/4/2/b/iv)
 
 [^c16923861]: Textual amendment: SR 1995/368
 
@@ -332,7 +332,7 @@ The compensation for any poultry slaughtered shall be the value of the poultry i
 
 [^c21396981]: Textual amendment: SR 2004/362
 
-[^key-e45df9faf052d76dd299434074d9b198]: Textual amendment: Word in [Sch. 2 Pt. II para. 8](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/II/paragraph/8) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(3)](https://www.legislation.gov.uk/nisr/2023/179/article/4/3)
+[^c-e45df9faf052d76dd299434074d9b198]: Textual amendment: Word in [Sch. 2 Pt. II para. 8](https://www.legislation.gov.uk/nisi/1981/1115/schedule/2/part/II/paragraph/8) substituted (8.11.2023) by [The Specified Diseases (Notification) (Amendment) Order (Northern Ireland) 2023 (S.R. 2023/179)](https://www.legislation.gov.uk/nisr/2023/179), [arts. 1](https://www.legislation.gov.uk/nisr/2023/179/article/1), [4(3)](https://www.legislation.gov.uk/nisr/2023/179/article/4/3)
 
 [^c16923991]: Textual amendment: SR 1986/79
 

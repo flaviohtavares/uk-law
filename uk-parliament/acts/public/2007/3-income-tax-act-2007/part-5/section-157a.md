@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157A. Risk-to-capital condition[^key-90fd90cf5797c231954118f6af7e1d16]
+## 157A. Risk-to-capital condition[^c-90fd90cf5797c231954118f6af7e1d16]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90fd90cf5797c231954118f6af7e1d16]: Textual amendment: [S. 157A](https://www.legislation.gov.uk/ukpga/2007/3/section/157A) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 14(1)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/1/b)[(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/4); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/a)
+[^c-90fd90cf5797c231954118f6af7e1d16]: Textual amendment: [S. 157A](https://www.legislation.gov.uk/ukpga/2007/3/section/157A) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 14(1)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/1/b)[(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/4); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/a)

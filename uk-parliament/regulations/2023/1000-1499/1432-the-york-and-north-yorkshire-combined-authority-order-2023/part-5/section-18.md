@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Transport functions related to traffic signs and pedestrian crossings[^key-b9e0bf840fc394fd95ef07f2c4c5ebe8]
+## 18. Transport functions related to traffic signs and pedestrian crossings[^c-b9e0bf840fc394fd95ef07f2c4c5ebe8]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b9e0bf840fc394fd95ef07f2c4c5ebe8]: Commencement: Art. 18 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-b9e0bf840fc394fd95ef07f2c4c5ebe8]: Commencement: Art. 18 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00067]: Footnote: Section 23 was amended by Schedule 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 8 to the New Roads and Street Works Act 1991, Schedule 10 to the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20) and Schedule 8 to the Infrastructure Act 2015.
 

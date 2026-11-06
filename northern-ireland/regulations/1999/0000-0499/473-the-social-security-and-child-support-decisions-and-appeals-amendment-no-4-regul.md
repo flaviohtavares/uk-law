@@ -41,15 +41,15 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 8(6), 11(6) and 74(1), (3) and (6) of the Social Security (Northern Ireland) Order 1998[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-54448bc23902d8afef61f99824641a19]
+## 1. Citation and commencement[^c-54448bc23902d8afef61f99824641a19]
 
 These Regulations may be cited as the Social Security and Child Support (Decisions and Appeals) (Amendment No. 4) Regulations (Northern Ireland) 1999 and shall come into operation on 29th December 1999.
 
-## 2. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-8923f096a05ee54379ca5a36c37043e6]
+## 2. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-8923f096a05ee54379ca5a36c37043e6]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00002] shall be amended in accordance with paragraphs (2) to (4).
 
-(...)[^key-c96343e85833ab3d820af4b0e887432f][^key-c96343e85833ab3d820af4b0e887432f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(...)[^c-c96343e85833ab3d820af4b0e887432f][^c-c96343e85833ab3d820af4b0e887432f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the heading to Part V (appeal tribunals for social security, contracting-out of pensions and child support) after “Pensions” there shall be inserted “, Vaccine Damage”.
 
@@ -81,12 +81,12 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00001]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-54448bc23902d8afef61f99824641a19]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/473/regulation/1) in operation at 29.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/473/regulation/1)
+[^c-54448bc23902d8afef61f99824641a19]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/473/regulation/1) in operation at 29.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/473/regulation/1)
 
-[^key-8923f096a05ee54379ca5a36c37043e6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/473/regulation/2) in operation at 29.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/473/regulation/1)
+[^c-8923f096a05ee54379ca5a36c37043e6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/473/regulation/2) in operation at 29.12.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/473/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending regulations are [S.R. 1999 Nos. 242](https://www.legislation.gov.uk/nisr/1999/242) and [267](https://www.legislation.gov.uk/nisr/1999/267)
 
-[^key-c96343e85833ab3d820af4b0e887432f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/1999/473/regulation/2/2) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/168/schedule)
+[^c-c96343e85833ab3d820af4b0e887432f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/1999/473/regulation/2/2) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/168/schedule)
 
 [^f00004]: Footnote: Regulation 36(2) was substituted by regulation 2(*a*) of [S.R. 1999 No. 242](https://www.legislation.gov.uk/nisr/1999/242)

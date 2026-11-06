@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Effect of revising a determination[^key-f5767bd52b0fc130098fa19940c010ee]
+## 73. Effect of revising a determination[^c-f5767bd52b0fc130098fa19940c010ee]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a Review Board has decided that a determination or, as the case may be, a 
 
 ## Annotations
 
-[^key-f5767bd52b0fc130098fa19940c010ee]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1992/1814/regulation/73) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-f5767bd52b0fc130098fa19940c010ee]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1992/1814/regulation/73) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

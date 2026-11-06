@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Power to disapply duty to implement pupil choice[^key-071d7963aedec18433da7cfaa9080947][^key-d0bab09044b70dabd0c496aa48358c67]
+## 31. Power to disapply duty to implement pupil choice[^c-071d7963aedec18433da7cfaa9080947][^c-d0bab09044b70dabd0c496aa48358c67]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-071d7963aedec18433da7cfaa9080947]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2021/4/section/31) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-071d7963aedec18433da7cfaa9080947]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2021/4/section/31) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-d0bab09044b70dabd0c496aa48358c67]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2021/4/section/31) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-d0bab09044b70dabd0c496aa48358c67]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2021/4/section/31) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

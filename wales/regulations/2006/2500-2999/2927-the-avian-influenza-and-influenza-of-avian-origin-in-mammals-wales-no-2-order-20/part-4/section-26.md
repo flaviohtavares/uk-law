@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A veterinary inspector must serve a notice on the occupier of any premises if he or she suspects that highly pathogenic avian influenza virus[^key-27b124e46ba2dcca50521a74d6303b7b]—
+(1) A veterinary inspector must serve a notice on the occupier of any premises if he or she suspects that highly pathogenic avian influenza virus[^c-27b124e46ba2dcca50521a74d6303b7b]—
 
 - (a) may have been carried there from other premises; or
 - (b) may have been carried to other premises from there.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27b124e46ba2dcca50521a74d6303b7b]: Textual amendment: Word in [art. 26(1)](https://www.legislation.gov.uk/wsi/2006/2927/article/26/1) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [19](https://www.legislation.gov.uk/wsi/2025/1357/article/19)
+[^c-27b124e46ba2dcca50521a74d6303b7b]: Textual amendment: Word in [art. 26(1)](https://www.legislation.gov.uk/wsi/2006/2927/article/26/1) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [19](https://www.legislation.gov.uk/wsi/2025/1357/article/19)

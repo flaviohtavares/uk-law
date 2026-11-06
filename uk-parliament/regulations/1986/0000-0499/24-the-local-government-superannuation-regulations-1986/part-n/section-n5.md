@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## N5. Decisions by employing authorities as to benefits[^key-7cc869a8de904ee07c4597d7de97e114]
+## N5. Decisions by employing authorities as to benefits[^c-7cc869a8de904ee07c4597d7de97e114]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cc869a8de904ee07c4597d7de97e114]: Commencement: [Reg. N5](https://www.legislation.gov.uk/uksi/1986/24/regulation/N5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7cc869a8de904ee07c4597d7de97e114]: Commencement: [Reg. N5](https://www.legislation.gov.uk/uksi/1986/24/regulation/N5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Amendment of the National Health Service (Quality Accounts) Regulations 2010[^key-3fda6e0a340e6b670edbce3435db8d12]
+## 45. Amendment of the National Health Service (Quality Accounts) Regulations 2010[^c-3fda6e0a340e6b670edbce3435db8d12]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3fda6e0a340e6b670edbce3435db8d12]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2023/1071/regulation/45) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-3fda6e0a340e6b670edbce3435db8d12]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2023/1071/regulation/45) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00036]: Footnote: [S.I. 2010/279](https://www.legislation.gov.uk/uksi/2010/279), amended by [S.I. 2012/3081](https://www.legislation.gov.uk/uksi/2012/3081); there are other amending instruments but none is relevant.

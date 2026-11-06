@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Frontier workers[^key-d3ede0b46712f695bb375c4bc6ceabfb]
+## 8. Frontier workers[^c-d3ede0b46712f695bb375c4bc6ceabfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3ede0b46712f695bb375c4bc6ceabfb]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2020/1/section/8) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/b)
+[^c-d3ede0b46712f695bb375c4bc6ceabfb]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2020/1/section/8) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/b)

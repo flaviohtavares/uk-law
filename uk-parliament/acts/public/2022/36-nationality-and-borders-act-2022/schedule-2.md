@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Deprivation of Citizenship without notice: judicial oversight[^key-91cb9d2f8aef2a2ef5bbee91b9a41404][^key-a12e3d6ecf00cbf142f63b0fb1aa143c]
+## SCHEDULE 2 — Deprivation of Citizenship without notice: judicial oversight[^c-91cb9d2f8aef2a2ef5bbee91b9a41404][^c-a12e3d6ecf00cbf142f63b0fb1aa143c]
 
 *Extent: E+W+S+N.I.*
 
 Section 10(4)
 
-[^key-a12e3d6ecf00cbf142f63b0fb1aa143c]This is the Schedule to be inserted after Schedule 4 to the British Nationality Act 1981—
+[^c-a12e3d6ecf00cbf142f63b0fb1aa143c]This is the Schedule to be inserted after Schedule 4 to the British Nationality Act 1981—
 
 > **SCHEDULE 4A — Deprivation of Citizenship without notice: judicial oversight**
 >
@@ -90,6 +90,6 @@ Section 10(4)
 
 ## Annotations
 
-[^key-91cb9d2f8aef2a2ef5bbee91b9a41404]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-91cb9d2f8aef2a2ef5bbee91b9a41404]: Commencement: Sch. 2 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-a12e3d6ecf00cbf142f63b0fb1aa143c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/2) in force at 10.5.2023 by [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/b)
+[^c-a12e3d6ecf00cbf142f63b0fb1aa143c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/2) in force at 10.5.2023 by [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/b)

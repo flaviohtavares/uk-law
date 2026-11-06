@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Decisions inconsistent with section 25[^key-9c009fc484dbf6070d22d9d857e8d553]
+## 26. Decisions inconsistent with section 25[^c-9c009fc484dbf6070d22d9d857e8d553]
 
 *Extent: S*
 
 (1) A children's hearing or a court may make a decision that is inconsistent with the requirement imposed by section 25(2) if—
 
-- (a) the children's hearing, pre-hearing panel[^key-e55ff7135b523d42c40fdbe37ea0f14e] or court considers that, for the purpose of protecting members of the public from serious harm (whether physical or not), it is necessary that the decision be made, and
+- (a) the children's hearing, pre-hearing panel[^c-e55ff7135b523d42c40fdbe37ea0f14e] or court considers that, for the purpose of protecting members of the public from serious harm (whether physical or not), it is necessary that the decision be made, and
 - (b) in coming to the decision, the children's hearing, pre-hearing panel or court complies with subsection (2).
 
-(2) The children's hearing, pre-hearing panel[^key-ad3b2165fcd736c77dff63688d529df4] or court is to regard the need to safeguard and promote the welfare of the child throughout the child's childhood as a primary consideration rather than the paramount consideration.
+(2) The children's hearing, pre-hearing panel[^c-ad3b2165fcd736c77dff63688d529df4] or court is to regard the need to safeguard and promote the welfare of the child throughout the child's childhood as a primary consideration rather than the paramount consideration.
 
 ## Annotations
 
-[^key-9c009fc484dbf6070d22d9d857e8d553]: Commencement: S. 26 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-9c009fc484dbf6070d22d9d857e8d553]: Commencement: S. 26 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-e55ff7135b523d42c40fdbe37ea0f14e]: Textual amendment: Words in s. 26(1)(a)(b) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/3)
+[^c-e55ff7135b523d42c40fdbe37ea0f14e]: Textual amendment: Words in s. 26(1)(a)(b) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/3)
 
-[^key-ad3b2165fcd736c77dff63688d529df4]: Textual amendment: Words in s. 26(2) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/3)
+[^c-ad3b2165fcd736c77dff63688d529df4]: Textual amendment: Words in s. 26(2) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/3)

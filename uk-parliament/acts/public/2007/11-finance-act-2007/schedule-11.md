@@ -51,7 +51,7 @@ Section 42
 
 (6) A notice under sub-paragraph (2) must specify the time (which must not be less than 30 days) within which the general insurer is to comply with it.
 
-(7)[^key-6210c4a266fdf28fc71c8faa928c8618] The following provisions of Schedule 36 to FA 2008 (information and inspection powers) apply in relation to a notice under sub-paragraph (2) as they apply in relation to a taxpayer notice under that Schedule—
+(7)[^c-6210c4a266fdf28fc71c8faa928c8618] The following provisions of Schedule 36 to FA 2008 (information and inspection powers) apply in relation to a notice under sub-paragraph (2) as they apply in relation to a taxpayer notice under that Schedule—
 
 - (a) paragraphs 29 and 32 (right to appeal), and
 - (b) Part 7 (penalties).
@@ -61,13 +61,13 @@ Section 42
 **3.** (1) In paragraph 1 “**general insurer**” means—
 
 - (a) a company within the charge to corporation tax which carries on general business,
-- (b)[^key-f0e1e668f775d170062b891b7f32bd99] a CFC (within the meaning of Part 9A of the Taxation (International and Other Provisions) Act 2010) which carries on general business, or
+- (b)[^c-f0e1e668f775d170062b891b7f32bd99] a CFC (within the meaning of Part 9A of the Taxation (International and Other Provisions) Act 2010) which carries on general business, or
 - (c) members of a Lloyd's syndicate who carry on general business.
 
 (2) In paragraph 2 “**general insurer**” means—
 
 - (a) a company within the charge to corporation tax which carries on general business, or
-- (b)[^key-f63f89b46abd168c8e41cc272876149f] a company which for the purposes of Part 9A of the Taxation (International and Other Provisions) Act 2010 has an interest in a CFC (within the meaning of that Part) which carries on general business.
+- (b)[^c-f63f89b46abd168c8e41cc272876149f] a company which for the purposes of Part 9A of the Taxation (International and Other Provisions) Act 2010 has an interest in a CFC (within the meaning of that Part) which carries on general business.
 
 (3) For the purposes of sub-paragraphs (1) and (2) “**general business**” means business which consists of the effecting or carrying out of contracts that fall within Part 1 of Schedule 1 to the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544).
 
@@ -103,7 +103,7 @@ and in paragraph (b) “**closing year**” has the same meaning as in Chapter 3
 - “**Lloyd's syndicate**” means a syndicate of underwriting members of Lloyd's formed for an underwriting year, and
 - “**underwriting year**” means the calendar year.
 
-(10) In this paragraph references to provisions for claims outstanding, unearned premiums and unexpired risks have the same meaning as in Schedule 3 to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008[^key-6ae19eda9e47b96d6793942a9b6d6088].
+(10) In this paragraph references to provisions for claims outstanding, unearned premiums and unexpired risks have the same meaning as in Schedule 3 to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008[^c-6ae19eda9e47b96d6793942a9b6d6088].
 
 (11) The Commissioners for Her Majesty's Revenue and Customs may by regulations—
 
@@ -155,10 +155,10 @@ has effect so that no election may be made under that subsection in respect of t
 
 ## Annotations
 
-[^key-6210c4a266fdf28fc71c8faa928c8618]: Textual amendment: Sch. 11 para. 2(7) substituted for Sch. 11 para. 2(7)(8) (13.8.2009) by [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/53)
+[^c-6210c4a266fdf28fc71c8faa928c8618]: Textual amendment: Sch. 11 para. 2(7) substituted for Sch. 11 para. 2(7)(8) (13.8.2009) by [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 53](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/53)
 
-[^key-f0e1e668f775d170062b891b7f32bd99]: Textual amendment: Sch. 11 para. 3(1)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 23(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/23/2) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
+[^c-f0e1e668f775d170062b891b7f32bd99]: Textual amendment: Sch. 11 para. 3(1)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 23(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/23/2) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
 
-[^key-f63f89b46abd168c8e41cc272876149f]: Textual amendment: Sch. 11 para. 3(2)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 23(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/23/3) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
+[^c-f63f89b46abd168c8e41cc272876149f]: Textual amendment: Sch. 11 para. 3(2)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 23(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/23/3) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
 
-[^key-6ae19eda9e47b96d6793942a9b6d6088]: Textual amendment: Words in Sch. 11 para. 3(10) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [42](https://www.legislation.gov.uk/uksi/2008/954/article/42) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
+[^c-6ae19eda9e47b96d6793942a9b6d6088]: Textual amendment: Words in Sch. 11 para. 3(10) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [42](https://www.legislation.gov.uk/uksi/2008/954/article/42) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))

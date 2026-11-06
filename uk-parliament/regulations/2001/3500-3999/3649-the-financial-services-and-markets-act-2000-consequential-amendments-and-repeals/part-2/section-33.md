@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Disclosure of information: emoluments and other benefits of directors and others[^key-699e823be31f198cfc068dfd88f874d8]
+## 33. Disclosure of information: emoluments and other benefits of directors and others[^c-699e823be31f198cfc068dfd88f874d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-699e823be31f198cfc068dfd88f874d8]: Commencement: Art. 33 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-699e823be31f198cfc068dfd88f874d8]: Commencement: Art. 33 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00036]: Footnote: Schedule 6 was inserted by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), Schedule 4, paragraph 3; paragraph 1 of Schedule 6 was substituted by [S.I. 1997/570](https://www.legislation.gov.uk/uksi/1997/570), paragraph 4.

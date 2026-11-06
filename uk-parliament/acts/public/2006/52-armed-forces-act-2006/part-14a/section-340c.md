@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 340C. Decisions on service complaints[^key-90ae8b9d401b11d41781b0bdcd186097]
+## 340C. Decisions on service complaints[^c-90ae8b9d401b11d41781b0bdcd186097]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90ae8b9d401b11d41781b0bdcd186097]: Textual amendment: Pt. 14A inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/2/1), [7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-90ae8b9d401b11d41781b0bdcd186097]: Textual amendment: Pt. 14A inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/2/1), [7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))

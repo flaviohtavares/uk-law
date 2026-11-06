@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Ilston, and Pennard — abolition of communities and community councils[^key-feb62c85939659783682d14447b0e25d]
+## 52. Ilston, and Pennard — abolition of communities and community councils[^c-feb62c85939659783682d14447b0e25d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The community of Ilston is abolished.
 
 ## Annotations
 
-[^key-feb62c85939659783682d14447b0e25d]: Commencement: [Art. 52](https://www.legislation.gov.uk/wsi/2026/95/article/52) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-feb62c85939659783682d14447b0e25d]: Commencement: [Art. 52](https://www.legislation.gov.uk/wsi/2026/95/article/52) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

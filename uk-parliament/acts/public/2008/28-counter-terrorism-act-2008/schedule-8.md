@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Offences relating to information about members of armed forces etc: supplementary provisions[^key-869371fd6f73f85688b5685818ac4fa9]
+## SCHEDULE 8 — Offences relating to information about members of armed forces etc: supplementary provisions[^c-869371fd6f73f85688b5685818ac4fa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,4 +152,4 @@ The following Schedule is inserted after Schedule 8 to the Terrorism Act 2000 (c
 
 ## Annotations
 
-[^key-869371fd6f73f85688b5685818ac4fa9]: Commencement: Sch. 8 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/58/article/2/d)
+[^c-869371fd6f73f85688b5685818ac4fa9]: Commencement: Sch. 8 in force at 16.2.2009 by [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/58/article/2/d)

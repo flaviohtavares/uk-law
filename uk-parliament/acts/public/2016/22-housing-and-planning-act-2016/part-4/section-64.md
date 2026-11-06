@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Grants by Secretary of State[^key-551fdea79ba5876fe61694aa1b262fa2]
+## 64. Grants by Secretary of State[^c-551fdea79ba5876fe61694aa1b262fa2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-551fdea79ba5876fe61694aa1b262fa2]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2016/22/section/64) in force at 26.5.2016 by [S.I. 2016/609](https://www.legislation.gov.uk/uksi/2016/609), [reg. 2](https://www.legislation.gov.uk/uksi/2016/609/regulation/2)
+[^c-551fdea79ba5876fe61694aa1b262fa2]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2016/22/section/64) in force at 26.5.2016 by [S.I. 2016/609](https://www.legislation.gov.uk/uksi/2016/609), [reg. 2](https://www.legislation.gov.uk/uksi/2016/609/regulation/2)

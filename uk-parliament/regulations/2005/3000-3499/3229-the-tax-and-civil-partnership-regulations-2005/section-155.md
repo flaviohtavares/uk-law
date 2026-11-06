@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155.[^key-e14e26ea208514ff499c21e357ab48ce]
+## 155.[^c-e14e26ea208514ff499c21e357ab48ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 583 (unauthorised payments), in subsection (5)(b), after “ex-spouse
 
 ## Annotations
 
-[^key-e14e26ea208514ff499c21e357ab48ce]: Commencement: Reg. 155 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-e14e26ea208514ff499c21e357ab48ce]: Commencement: Reg. 155 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

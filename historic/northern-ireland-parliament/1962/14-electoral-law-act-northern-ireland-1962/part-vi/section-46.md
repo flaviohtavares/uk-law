@@ -41,7 +41,7 @@ summary: ''
   together with all bills or receipts relating to any such payments made in accordance with section 40(1A) or (2);
 - (b) a statement of all disputed claims of which the election agent is aware;
 - (c) a statement of all the unpaid claims, if any, of which the election agent is aware, in respect of which application has been or is about to be made to the High Court or county court;
-- (ca)[^key-4bd811924b3197e0d0bdbc7a62385dcc] a statement of the amount of the part of election expenses incurred by or on behalf of the candidate consisting of the candidate’s personal expenses;
+- (ca)[^c-4bd811924b3197e0d0bdbc7a62385dcc] a statement of the amount of the part of election expenses incurred by or on behalf of the candidate consisting of the candidate’s personal expenses;
 - (d) any declarations of value falling to be made by the candidate's election agent by virtue of section 40A(2) or 52B(2);
 - (e) a declaration of the amount of expenses which are to be regarded as election expenses incurred by or on behalf of the candidate by virtue of section 52A(5);
 - (f) a statement of donations made to the candidate or the candidate's election agent which complies with the requirements of paragraphs 11 and 12 of Schedule 3A; and
@@ -68,6 +68,6 @@ summary: ''
 
 [^c21916981]: Textual amendment: [S. 46(2)(3)](https://www.legislation.gov.uk/apni/1962/14/section/46/2/3) substituted (16.12.2010) for s. 46(2)-(4) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/13/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-4bd811924b3197e0d0bdbc7a62385dcc]: Textual amendment: [S. 46(3)(ca)](https://www.legislation.gov.uk/apni/1962/14/section/46/3/ca) inserted (14.3.2019) by [The Local Elections (Northern Ireland) (Election Expenses) Order 2019 (S.I. 2019/564)](https://www.legislation.gov.uk/uksi/2019/564), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/564/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/564/article/3)
+[^c-4bd811924b3197e0d0bdbc7a62385dcc]: Textual amendment: [S. 46(3)(ca)](https://www.legislation.gov.uk/apni/1962/14/section/46/3/ca) inserted (14.3.2019) by [The Local Elections (Northern Ireland) (Election Expenses) Order 2019 (S.I. 2019/564)](https://www.legislation.gov.uk/uksi/2019/564), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/564/article/1/2), [3](https://www.legislation.gov.uk/uksi/2019/564/article/3)
 
 [^c18657821]: Textual amendment: SI 1987/168

@@ -22,8 +22,8 @@ summary: ''
 
 (1) Subsections (2) and (3) apply to a complaint which the complainant—
 
-- (a) has made to the Commission , the Lord Chancellor, the Lord Chief Justice or the Senior President of Tribunals[^key-d4cac022ce7b50f8e5f0b330b1c92884] in accordance with arrangements under section 100, and
-- (b) makes to the Ombudsman not more than 28 days after being notified of the decision of the Commission, the Lord Chancellor, the Lord Chief Justice or the Senior President of Tribunals[^key-11ab9cd596ff08f7a7c3f5bb7abb5f73] on the complaint.
+- (a) has made to the Commission , the Lord Chancellor, the Lord Chief Justice or the Senior President of Tribunals[^c-d4cac022ce7b50f8e5f0b330b1c92884] in accordance with arrangements under section 100, and
+- (b) makes to the Ombudsman not more than 28 days after being notified of the decision of the Commission, the Lord Chancellor, the Lord Chief Justice or the Senior President of Tribunals[^c-11ab9cd596ff08f7a7c3f5bb7abb5f73] on the complaint.
 
 (2) If the Ombudsman considers that investigation of the complaint is not necessary, he must inform the complainant.
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The Ombudsman may investigate a complaint which the complainant—
 
-- (a) has made to the Commission , the Lord Chancellor, the Lord Chief Justice or the Senior President of Tribunals[^key-1a431d112eded67010741774b8e6a240] in accordance with arrangements under section 100, and
+- (a) has made to the Commission , the Lord Chancellor, the Lord Chief Justice or the Senior President of Tribunals[^c-1a431d112eded67010741774b8e6a240] in accordance with arrangements under section 100, and
 - (b) makes to the Ombudsman at any time.
 
 (5) The Ombudsman may investigate a transferred complaint made to him, and no such complaint may be made under the Judicial Appointments Order after the commencement of this section.
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d4cac022ce7b50f8e5f0b330b1c92884]: Textual amendment: Words in [s. 101(1)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/101/1/a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 73(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/73/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-d4cac022ce7b50f8e5f0b330b1c92884]: Textual amendment: Words in [s. 101(1)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/101/1/a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 73(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/73/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-11ab9cd596ff08f7a7c3f5bb7abb5f73]: Textual amendment: Words in [s. 101(1)(b)](https://www.legislation.gov.uk/ukpga/2005/4/section/101/1/b) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 73(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/73/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-11ab9cd596ff08f7a7c3f5bb7abb5f73]: Textual amendment: Words in [s. 101(1)(b)](https://www.legislation.gov.uk/ukpga/2005/4/section/101/1/b) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 73(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/73/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-1a431d112eded67010741774b8e6a240]: Textual amendment: Words in [s. 101(4)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/101/4/a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 73(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/73/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-1a431d112eded67010741774b8e6a240]: Textual amendment: Words in [s. 101(4)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/101/4/a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 73(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/73/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

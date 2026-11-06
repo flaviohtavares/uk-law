@@ -138,51 +138,51 @@ Section 67.
 
 ### Exercise of powers on behalf of local authorities
 
-**3.** For sections 110A and 110B (inspectors appointed by local authorities *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7] etc. *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7] for the purposes of housing benefit or council tax benefit), there shall be substituted— *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+**3.** For sections 110A and 110B (inspectors appointed by local authorities *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7] etc. *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7] for the purposes of housing benefit or council tax benefit), there shall be substituted— *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 
-> **110A. Authorisations by local authorities. (affected by repeal, see note)[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]**
+> **110A. Authorisations by local authorities. (affected by repeal, see note)[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]**
 >
-> (1) An individual who for the time being has the authorisation for the purposes of this Part of an authority administering housing benefit or council tax benefit (“ *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]**a local authority authorisation *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]**”) shall be entitled, for any one or more of the purposes mentioned in subsection (2) below, to exercise any of the powers which, subject to subsection (8) below, are conferred on an authorised officer by sections 109B and 109C above. *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> (1) An individual who for the time being has the authorisation for the purposes of this Part of an authority administering housing benefit or council tax benefit (“ *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]**a local authority authorisation *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]**”) shall be entitled, for any one or more of the purposes mentioned in subsection (2) below, to exercise any of the powers which, subject to subsection (8) below, are conferred on an authorised officer by sections 109B and 109C above. *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> (2) Those purposes are— *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> (2) Those purposes are— *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> - (a) ascertaining in relation to any case whether housing benefit or council tax benefit is or was payable in that case; *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (b) ascertaining whether provisions of the relevant social security legislation that relate to housing benefit or council tax benefit are being, have been or are likely to be contravened (whether by particular persons or more generally); *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (c) preventing, detecting and securing evidence of the commission (whether by particular persons or more generally) of benefit offences relating to housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (a) ascertaining in relation to any case whether housing benefit or council tax benefit is or was payable in that case; *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (b) ascertaining whether provisions of the relevant social security legislation that relate to housing benefit or council tax benefit are being, have been or are likely to be contravened (whether by particular persons or more generally); *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (c) preventing, detecting and securing evidence of the commission (whether by particular persons or more generally) of benefit offences relating to housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> (3) An individual has the authorisation for the purposes of this Part of an authority administering housing benefit or council tax benefit if, and only if, that authority have granted him an authorisation for those purposes and he is— *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> (3) An individual has the authorisation for the purposes of this Part of an authority administering housing benefit or council tax benefit if, and only if, that authority have granted him an authorisation for those purposes and he is— *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> - (a) an individual employed by that authority; *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (b) an individual employed by another authority or joint committee that carries out functions relating to housing benefit or council tax benefit on behalf of that authority; *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (c) an individual employed by a person authorised by or on behalf of— *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
->   - (i) the authority in question, *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
->   - (ii (affected by repeal, see note))[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7] any such authority or joint committee as is mentioned in paragraph (b) above, *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (a) an individual employed by that authority; *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (b) an individual employed by another authority or joint committee that carries out functions relating to housing benefit or council tax benefit on behalf of that authority; *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (c) an individual employed by a person authorised by or on behalf of— *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+>   - (i) the authority in question, *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+>   - (ii (affected by repeal, see note))[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7] any such authority or joint committee as is mentioned in paragraph (b) above, *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
->   to carry out functions relating to housing benefit or council tax benefit for that authority or committee; *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (d) an official of a Government department. *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+>   to carry out functions relating to housing benefit or council tax benefit for that authority or committee; *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (d) an official of a Government department. *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> (4) Subsection (4) of section 109A above shall apply in relation to a local authority authorisation as it applies in relation to an authorisation under that section. *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> (4) Subsection (4) of section 109A above shall apply in relation to a local authority authorisation as it applies in relation to an authorisation under that section. *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> (5) A local authority authorisation may be withdrawn at any time by the authority that granted it or by the Secretary of State. *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> (5) A local authority authorisation may be withdrawn at any time by the authority that granted it or by the Secretary of State. *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> (6) The certificate or other instrument containing the grant or withdrawal by any local authority of any local authority authorisation must be issued under the hand of either— *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> (6) The certificate or other instrument containing the grant or withdrawal by any local authority of any local authority authorisation must be issued under the hand of either— *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> - (a) the officer designated under section 4 of the *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7] [^c11422621]Local Government and Housing Act 1989 as the head of the authority’s paid service; or *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (b) the officer who is the authority’s chief finance officer (within the meaning of section 5 of that Act). *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (a) the officer designated under section 4 of the *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7] [^c11422621]Local Government and Housing Act 1989 as the head of the authority’s paid service; or *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (b) the officer who is the authority’s chief finance officer (within the meaning of section 5 of that Act). *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> (7) It shall be the duty of any authority with power to grant local authority authorisations to comply with any directions of the Secretary of State as to— *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> (7) It shall be the duty of any authority with power to grant local authority authorisations to comply with any directions of the Secretary of State as to— *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> - (a) whether or not such authorisations are to be granted by that authority; *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (b) the period for which authorisations granted by that authority are to have effect; *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (c) the number of persons who may be granted authorisations by that authority at any one time; and *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (d) the restrictions to be contained by virtue of subsection (4) above in the authorisations granted by that authority for those purposes. *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (a) whether or not such authorisations are to be granted by that authority; *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (b) the period for which authorisations granted by that authority are to have effect; *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (c) the number of persons who may be granted authorisations by that authority at any one time; and *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (d) the restrictions to be contained by virtue of subsection (4) above in the authorisations granted by that authority for those purposes. *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> (8) The powers conferred by sections 109B and 109C above shall have effect in the case of an individual who is an authorised officer by virtue of this section as if those sections had effect— *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> (8) The powers conferred by sections 109B and 109C above shall have effect in the case of an individual who is an authorised officer by virtue of this section as if those sections had effect— *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> - (a) with the substitution for every reference to the purposes mentioned in section 109A(2) above of a reference to the purposes mentioned in subsection (2) above; and *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
-> - (b) with the substitution for every reference to the relevant social security legislation of a reference to so much of it as relates to housing benefit or council tax benefit. *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (a) with the substitution for every reference to the purposes mentioned in section 109A(2) above of a reference to the purposes mentioned in subsection (2) above; and *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> - (b) with the substitution for every reference to the relevant social security legislation of a reference to so much of it as relates to housing benefit or council tax benefit. *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 >
-> (9) Nothing in this section conferring any power on an authorised officer in relation to housing benefit or council tax benefit shall require that power to be exercised only in relation to cases in which the authority administering the benefit is the authority by whom that officer’s authorisation was granted. *(affected by repeal, see note)*[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]
+> (9) Nothing in this section conferring any power on an authorised officer in relation to housing benefit or council tax benefit shall require that power to be exercised only in relation to cases in which the authority administering the benefit is the authority by whom that officer’s authorisation was granted. *(affected by repeal, see note)*[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]
 
 ### Consequential amendments
 
@@ -266,7 +266,7 @@ Section 67.
 
 [^c11422611]: Marginal citation: [1997 c. 27](https://www.legislation.gov.uk/ukpga/1997/27).
 
-[^key-d35acbc0d80e9d4103e3fa42fcdfd8b7]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2000/19/schedule/6/paragraph/3) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9) [10](https://www.legislation.gov.uk/uksi/2013/358/article/10) [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-d35acbc0d80e9d4103e3fa42fcdfd8b7]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2000/19/schedule/6/paragraph/3) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9) [10](https://www.legislation.gov.uk/uksi/2013/358/article/10) [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
 [^c11422621]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 

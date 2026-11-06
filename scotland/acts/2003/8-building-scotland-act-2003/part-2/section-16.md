@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Applications and grants: offences[^key-bad380484427f5122d5a5a5826701326]
+## 16. Applications and grants: offences[^c-bad380484427f5122d5a5a5826701326]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-bad380484427f5122d5a5a5826701326]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2003/8/section/16) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-bad380484427f5122d5a5a5826701326]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2003/8/section/16) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

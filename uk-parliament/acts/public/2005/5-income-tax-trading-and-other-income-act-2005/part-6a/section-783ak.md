@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 783AK. Deductible amount: splitting of trading allowance[^key-c13ce2b667f8763b52865d9dd8184352]
+## 783AK. Deductible amount: splitting of trading allowance[^c-c13ce2b667f8763b52865d9dd8184352]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c13ce2b667f8763b52865d9dd8184352]: Textual amendment: Pt. 6A inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/1)
+[^c-c13ce2b667f8763b52865d9dd8184352]: Textual amendment: Pt. 6A inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/1)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Application[^key-4218073616e6ae98bb1a3af11f8c119d]
+## 3. Application[^c-4218073616e6ae98bb1a3af11f8c119d]
 
 *Extent: S*
 
 (1) These Regulations apply to a person who—
 
 - (a) has not attained pensionable age, or
-- (b)[^key-4d8bf88b8fa1e0048c1a48224d0a2fa4] has attained pensionable age if that person, or any partner of that person—
+- (b)[^c-4d8bf88b8fa1e0048c1a48224d0a2fa4] has attained pensionable age if that person, or any partner of that person—
   - (i) is a person on a qualifying income-related benefit, or
   - (ii) is a person who has an award of universal credit, except as provided for by paragraphs (2) and (3), or who has made a claim for universal credit which is yet to be determined.
 
@@ -38,9 +38,9 @@ summary: ''
 
 ## Annotations
 
-[^key-4218073616e6ae98bb1a3af11f8c119d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-4218073616e6ae98bb1a3af11f8c119d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
-[^key-4d8bf88b8fa1e0048c1a48224d0a2fa4]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/ssi/2021/249/regulation/3/1/b) substituted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/38/regulation/3)
+[^c-4d8bf88b8fa1e0048c1a48224d0a2fa4]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/ssi/2021/249/regulation/3/1/b) substituted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/38/regulation/3)
 
 [^f00002]: Footnote: [S.I. 2013/381](https://www.legislation.gov.uk/uksi/2013/381). Paragraph 26 of schedule 1 was substituted by [S.I. 2020/655](https://www.legislation.gov.uk/uksi/2020/655).
 

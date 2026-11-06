@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 2(1) and 30
 
-**1.**[^key-0389325f40fba7a51eb6b7446d8910d0] In respect of each individual—
+**1.**[^c-0389325f40fba7a51eb6b7446d8910d0] In respect of each individual—
 
 - (a) full name;
 - (b) date of birth;
@@ -40,11 +40,11 @@ Regulations 2(1) and 30
   - (iii) placement plans;
 - (i) reviews of plans referred to in sub-paragraph (h).
 
-**2.**[^key-487048e5b9d024b569815a8141bc01be] A record of any charges by the service provider to individuals for the provision of support and any additional services.
+**2.**[^c-487048e5b9d024b569815a8141bc01be] A record of any charges by the service provider to individuals for the provision of support and any additional services.
 
-**3.**[^key-a3f6694725a7a789787963a2bc59c8df] A record of all complaints made by individuals or their representatives or by persons working at the service about the operation of the service, and the action taken by the service provider in respect of any such complaint.
+**3.**[^c-a3f6694725a7a789787963a2bc59c8df] A record of all complaints made by individuals or their representatives or by persons working at the service about the operation of the service, and the action taken by the service provider in respect of any such complaint.
 
-**4.**[^key-8f1ff1a62141c05f3987c1f0a468ba2f] A record of all persons working at the service, which must include the following matters—
+**4.**[^c-8f1ff1a62141c05f3987c1f0a468ba2f] A record of all persons working at the service, which must include the following matters—
 
 - (a) full name and home address;
 - (b) date of birth;
@@ -60,10 +60,10 @@ Regulations 2(1) and 30
 
 ## Annotations
 
-[^key-0389325f40fba7a51eb6b7446d8910d0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2019/762/schedule/2/paragraph/1) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-0389325f40fba7a51eb6b7446d8910d0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2019/762/schedule/2/paragraph/1) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-487048e5b9d024b569815a8141bc01be]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2019/762/schedule/2/paragraph/2) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-487048e5b9d024b569815a8141bc01be]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2019/762/schedule/2/paragraph/2) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-a3f6694725a7a789787963a2bc59c8df]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2019/762/schedule/2/paragraph/3) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-a3f6694725a7a789787963a2bc59c8df]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2019/762/schedule/2/paragraph/3) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
 
-[^key-8f1ff1a62141c05f3987c1f0a468ba2f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2019/762/schedule/2/paragraph/4) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-8f1ff1a62141c05f3987c1f0a468ba2f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2019/762/schedule/2/paragraph/4) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

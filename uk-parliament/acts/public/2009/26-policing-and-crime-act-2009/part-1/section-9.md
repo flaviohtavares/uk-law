@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Authorisations for surveillance etc[^key-3398289c28131feca69c3ef55a503d46]
+## 9. Authorisations for surveillance etc[^c-3398289c28131feca69c3ef55a503d46]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3398289c28131feca69c3ef55a503d46]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2009/26/section/9) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(d)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/d)
+[^c-3398289c28131feca69c3ef55a503d46]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2009/26/section/9) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(d)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/d)

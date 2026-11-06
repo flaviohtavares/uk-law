@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Duration of carriage and delivery[^key-d183a47c2cea6341deadb892ae6debae]
+## 27. Duration of carriage and delivery[^c-d183a47c2cea6341deadb892ae6debae]
 
 *Extent: N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d183a47c2cea6341deadb892ae6debae]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/1997/474/regulation/27) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-d183a47c2cea6341deadb892ae6debae]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/1997/474/regulation/27) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
 [^f00026]: Footnote: [S.R. 1995 No. 87](https://www.legislation.gov.uk/nisr/1995/87)

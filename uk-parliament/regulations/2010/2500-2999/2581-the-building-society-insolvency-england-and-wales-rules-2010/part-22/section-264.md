@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 264. Confidentiality of documents[^key-08be4483c5949ee7fbd9fb4110b8a9c7]
+## 264. Confidentiality of documents[^c-08be4483c5949ee7fbd9fb4110b8a9c7]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08be4483c5949ee7fbd9fb4110b8a9c7]: Commencement: Rule 264 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-08be4483c5949ee7fbd9fb4110b8a9c7]: Commencement: Rule 264 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00097]: Footnote: Rule 12.13 was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 108(2), 109(2) and 171(1) to (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 57(1), 60(1) and 165(1) and (4) of, and paragraph 2 of Schedule 3 to, the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3d2488c16574b7a7475d3cfe4660578d]
+## 1. Citation, commencement and interpretation[^c-3d2488c16574b7a7475d3cfe4660578d]
 
 (1) These Regulations may be cited as the Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 and shall come into operation on 9th April 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^key-135ca7911ed707cde0138cdaa86cc207]
+## 2. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations[^c-135ca7911ed707cde0138cdaa86cc207]
 
 (1) The Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986[^f00004] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -108,7 +108,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
     .
 
-## 3. Amendment of the Social Security (Adjudication) Regulations[^key-74d39ac9ab2238ce3f5c8fb34befaf5e]
+## 3. Amendment of the Social Security (Adjudication) Regulations[^c-74d39ac9ab2238ce3f5c8fb34befaf5e]
 
 (1) The Social Security (Adjudication) Regulations (Northern Ireland) 1995[^f00007] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -131,7 +131,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 4. Revocation[^key-15bd8777bd3b076df1cd105d6dbad19a]
+## 4. Revocation[^c-15bd8777bd3b076df1cd105d6dbad19a]
 
 Regulation 7 of the Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment No. 2) Regulations (Northern Ireland) 1993[^f00008] is hereby revoked.
 
@@ -161,11 +161,11 @@ These Regulations further amend the Social Security (Industrial Injuries) (Presc
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-3d2488c16574b7a7475d3cfe4660578d]: Commencement: Reg. 1 in operation at 9.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/158/regulation/1/1)
+[^c-3d2488c16574b7a7475d3cfe4660578d]: Commencement: Reg. 1 in operation at 9.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/158/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-135ca7911ed707cde0138cdaa86cc207]: Commencement: Reg. 2 in operation at 9.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/158/regulation/1/1)
+[^c-135ca7911ed707cde0138cdaa86cc207]: Commencement: Reg. 2 in operation at 9.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/158/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1986 No. 179](https://www.legislation.gov.uk/nisr/1986/179); relevant amending regulations are [S.R. 1986 No. 340](https://www.legislation.gov.uk/nisr/1986/340), [S.R. 1987 No. 116](https://www.legislation.gov.uk/nisr/1987/116) and [S.R. 1993 Nos. 148](https://www.legislation.gov.uk/nisr/1993/148) and [350](https://www.legislation.gov.uk/nisr/1993/350)
 
@@ -173,10 +173,10 @@ These Regulations further amend the Social Security (Industrial Injuries) (Presc
 
 [^f00006]: Footnote: Published at Oxford by Blackwell Scientific Publications Limited (ISBN 0-632-03926-9)
 
-[^key-74d39ac9ab2238ce3f5c8fb34befaf5e]: Commencement: Reg. 3 in operation at 9.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/158/regulation/1/1)
+[^c-74d39ac9ab2238ce3f5c8fb34befaf5e]: Commencement: Reg. 3 in operation at 9.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/158/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293), to which there are amendments not relevant to these regulations
 
-[^key-15bd8777bd3b076df1cd105d6dbad19a]: Commencement: Reg. 4 in operation at 9.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/158/regulation/1/1)
+[^c-15bd8777bd3b076df1cd105d6dbad19a]: Commencement: Reg. 4 in operation at 9.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/158/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1993 No. 350](https://www.legislation.gov.uk/nisr/1993/350)

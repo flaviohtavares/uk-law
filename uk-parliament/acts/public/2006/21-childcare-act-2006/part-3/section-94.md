@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Power to amend Part 3: applications in respect of multiple premises[^key-2be2e748e2c7926913b0f28f998af043]
+## 94. Power to amend Part 3: applications in respect of multiple premises[^c-2be2e748e2c7926913b0f28f998af043]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2be2e748e2c7926913b0f28f998af043]: Textual amendment: S. 94 omitted (1.1.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2015/26/schedule/2/paragraph/18); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/6/b)
+[^c-2be2e748e2c7926913b0f28f998af043]: Textual amendment: S. 94 omitted (1.1.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2015/26/schedule/2/paragraph/18); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 6(b)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/6/b)

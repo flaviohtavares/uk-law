@@ -42,7 +42,7 @@ Coming into force
 
 [^c19366631] [^c19366641] [^c19366651]The Secretary of State being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to consumer protection, in exercise of the powers conferred upon him by that section and section 59 of the Consumers, Estate Agents and Redress Act 2007 makes the following Regulations.
 
-In accordance with section 62(3)(f) of the Consumers, Estate Agents and Redress Act 2007 and paragraph 2(2) of Schedule 2 to the European Communities Act 1972, a draft of this instrument was laid before Parliament and approved by resolution of each House of Parliament.[^key-2efdb84bc67255d6309b9fd5fd33834c]
+In accordance with section 62(3)(f) of the Consumers, Estate Agents and Redress Act 2007 and paragraph 2(2) of Schedule 2 to the European Communities Act 1972, a draft of this instrument was laid before Parliament and approved by resolution of each House of Parliament.[^c-2efdb84bc67255d6309b9fd5fd33834c]
 
 ## 1. Citation and commencement
 
@@ -65,7 +65,7 @@ These Regulations may be cited as the Cancellation of Contracts made in a Consum
 - “**related credit agreement**” means a consumer credit agreement under which fixed sum credit which fully or partly covers the price under a contract which may be cancelled under regulation 7 is granted—
   - (i) by the trader; or
   - (ii) by another person, under an arrangement made between that person and the trader;
-- “regulated agreement” has the meaning given by section 189 of the 1974 Act;[^key-4931ad9852bc67f6d7d5fd63fd433a95]
+- “regulated agreement” has the meaning given by section 189 of the 1974 Act;[^c-4931ad9852bc67f6d7d5fd63fd433a95]
 - “**solicited visit**” has the meaning given in regulation 6(3);
 - “**specified contract**” has the meaning given in regulation 9; and
 - “**trader**” means a person who, in making a contract to which these Regulations apply, is acting in his commercial or professional capacity and anyone acting in the name or on behalf of a trader.
@@ -99,15 +99,15 @@ These Regulations apply to a contract, including a consumer credit agreement, be
 - (a) any contracts listed in Schedule 3 (Excepted Contracts);
 - (b) a cancellable agreement;
 - (c) a consumer credit agreement which may be cancelled by the consumer in accordance with the terms of the agreement conferring upon him similar rights as if the agreement were a cancellable agreement; or
-- (ca)[^key-30530f26c6a89c2d5038449531dfcc70] a consumer credit agreement which is a regulated agreement[^key-eee3b9f8bc1039aed100d9d2e6e17374] to which the right of withdrawal applies under section 66A of the[^key-d32acf321c33627c75a3dae65a4e22b8] 1974 Act
+- (ca)[^c-30530f26c6a89c2d5038449531dfcc70] a consumer credit agreement which is a regulated agreement[^c-eee3b9f8bc1039aed100d9d2e6e17374] to which the right of withdrawal applies under section 66A of the[^c-d32acf321c33627c75a3dae65a4e22b8] 1974 Act
 - (d) a contract made during a solicited visit or a contract made after an offer made by a consumer during a solicited visit where the contract is—
   - (i) a regulated mortgage, home purchase plan or home reversion plan if the making or performance of such a contract constitutes a regulated activity for the purposes of the Financial Services and Markets Act 2000 [^c19366691];
-  - (ii)[^key-70203d78dd9c58683a05faf205be724a] a consumer credit agreement secured on land which is—
+  - (ii)[^c-70203d78dd9c58683a05faf205be724a] a consumer credit agreement secured on land which is—
     - (aa) a regulated agreement;
     - (bb) an exempt agreement (within the meaning given by article 60B of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001); or
   - (iii) any other regulated agreement.
 
-(2) Where any agreement referred to in paragraph (1)(b), (c), (ca) or (d)(iii)[^key-cf5b02072e1af7ec3938af0e6fe3a0fa] is a related credit agreement the provisions of regulations 11 and 12 shall apply to the cancellation of that agreement.
+(2) Where any agreement referred to in paragraph (1)(b), (c), (ca) or (d)(iii)[^c-cf5b02072e1af7ec3938af0e6fe3a0fa] is a related credit agreement the provisions of regulations 11 and 12 shall apply to the cancellation of that agreement.
 
 (3) A solicited visit means a visit by a trader, whether or not he is the trader who supplies the goods or services, to a consumer's home or place of work or to the home of another individual, which is made at the express request of the consumer but does not include—
 
@@ -212,7 +212,7 @@ These Regulations apply to a contract, including a consumer credit agreement, be
 - (a) paragraph (2)(b) to (d) and regulation 12 shall not apply in respect of its cancellation; and
 - (b) regulations 13 and 14 shall not apply in respect of the cancellation of the related contract for goods or services.
 
-(5) Where a related credit agreement of a kind referred to in regulation 6(1)(ca) or 6(1)(d)(iii)[^key-7e24ca1532e0003073f7b02809767d07] is cancelled under paragraph (1)—
+(5) Where a related credit agreement of a kind referred to in regulation 6(1)(ca) or 6(1)(d)(iii)[^c-7e24ca1532e0003073f7b02809767d07] is cancelled under paragraph (1)—
 
 - (a) the provisions of this regulation and regulation 12 shall apply in respect of its cancellation; and
 - (b) the provisions of regulations 13 and 14 shall apply in respect of the cancellation of the related contract for goods or services.
@@ -479,7 +479,7 @@ Regulations 2(2) and 6(1)(a)
   - (i) dealing in investments, as principal or as agent;
   - (ii) arranging deals in investments;
   - (iii) operating a multilateral trading facility;
-  - (iiia)[^key-403e970042aea2267e6024c446abeb0f] operating an organised trading facility;
+  - (iiia)[^c-403e970042aea2267e6024c446abeb0f] operating an organised trading facility;
   - (iv) managing investments;
   - (v) safeguarding and administering investments;
   - (vi) establishing, operating or winding up a collective investment scheme; and
@@ -556,29 +556,29 @@ A transposition note and an impact assessment of the effect that these Regulatio
 
 [^c19366651]: Marginal citation: [2007 c.17](https://www.legislation.gov.uk/ukpga/2007/17).
 
-[^key-2efdb84bc67255d6309b9fd5fd33834c]: Modification: Regulations excluded (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+[^c-2efdb84bc67255d6309b9fd5fd33834c]: Modification: Regulations excluded (with application in accordance with reg. 1(2) of the amending S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
 
 [^c19366661]: Marginal citation: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
 [^c19366671]: Marginal citation: Section 10 of the Consumer Credit Act 1974 was amended by section 5(2) of the [Consumer Credit Act 2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14).
 
-[^key-4931ad9852bc67f6d7d5fd63fd433a95]: Textual amendment: Words in reg. 2(1) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 38(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/38/a)
+[^c-4931ad9852bc67f6d7d5fd63fd433a95]: Textual amendment: Words in reg. 2(1) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 38(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/38/a)
 
 [^c19366681]: Marginal citation: [S.I. 1987/2117](https://www.legislation.gov.uk/uksi/1987/2117) as amended by [S.I. 1988/958](https://www.legislation.gov.uk/uksi/1988/958), [S.I](https://www.legislation.gov.uk/uksi/1988/958/section/I). 1998/3050, [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [S.I](https://www.legislation.gov.uk/uksi/2001/3649/section/I). 2003/1400, [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
-[^key-30530f26c6a89c2d5038449531dfcc70]: Textual amendment: Reg. 6(1)(ca) inserted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 95(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/95/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+[^c-30530f26c6a89c2d5038449531dfcc70]: Textual amendment: Reg. 6(1)(ca) inserted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 95(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/95/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
 
-[^key-eee3b9f8bc1039aed100d9d2e6e17374]: Textual amendment: Words in reg. 6(1)(ca) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 38(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/38/b/i)
+[^c-eee3b9f8bc1039aed100d9d2e6e17374]: Textual amendment: Words in reg. 6(1)(ca) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 38(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/38/b/i)
 
-[^key-d32acf321c33627c75a3dae65a4e22b8]: Textual amendment: Words in reg. 6(1)(ca) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 38(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/38/b/i)
+[^c-d32acf321c33627c75a3dae65a4e22b8]: Textual amendment: Words in reg. 6(1)(ca) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 38(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/38/b/i)
 
 [^c19366691]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8) to which there are amendments not relevant to these Regulations.
 
-[^key-70203d78dd9c58683a05faf205be724a]: Textual amendment: Reg. 6(2)(d)(ii)(iii) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 38(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/38/b/i)
+[^c-70203d78dd9c58683a05faf205be724a]: Textual amendment: Reg. 6(2)(d)(ii)(iii) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 38(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/38/b/i)
 
-[^key-cf5b02072e1af7ec3938af0e6fe3a0fa]: Textual amendment: Words in reg. 6(2) substituted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 95(b)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/95/b), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+[^c-cf5b02072e1af7ec3938af0e6fe3a0fa]: Textual amendment: Words in reg. 6(2) substituted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 95(b)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/95/b), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
 
-[^key-7e24ca1532e0003073f7b02809767d07]: Textual amendment: Words in reg. 11(5) substituted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 96](https://www.legislation.gov.uk/uksi/2010/1010/regulation/96), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
+[^c-7e24ca1532e0003073f7b02809767d07]: Textual amendment: Words in reg. 11(5) substituted (with application in accordance with regs. 100, 101 of the amending S.I.) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 96](https://www.legislation.gov.uk/uksi/2010/1010/regulation/96), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1)
 
 [^c19366701]: Marginal citation: [S.I. 2003/1374](https://www.legislation.gov.uk/uksi/2003/1374) to which there are amendments not relevant to these Regulations.
 
@@ -590,4 +590,4 @@ A transposition note and an impact assessment of the effect that these Regulatio
 
 [^c19366741]: Marginal citation: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544) to which there are amendments not relevant to these Regulations.
 
-[^key-403e970042aea2267e6024c446abeb0f]: Textual amendment: Sch. 3 para. 8(1)(a)(iiia) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/10)
+[^c-403e970042aea2267e6024c446abeb0f]: Textual amendment: Sch. 3 para. 8(1)(a)(iiia) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/10)

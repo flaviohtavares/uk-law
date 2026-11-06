@@ -37,7 +37,7 @@ An Act to amend the Railway Fires Act 1905.
 
 ## 2. Conditions precedent to application of principal Act.[^c582917]
 
-The principal Act shall not apply in the case of any action for damage by fire brought against any railway company as defined in section 4 of that Act[^key-36072826664298441d8a6ede2fb1c958][^c582918](as defined in section 4 of that Act) unless (1) notice in writing of the fire having occurred and of intention to claim in respect thereof shall have been sent to the said railway company within seven days of the occurrence of the damage; and (2) particulars in writing of the damage showing the amount of the claim in money . . . [^c582919] shall have been sent to the said railway company within twenty-one days of the occurrence of the damage.
+The principal Act shall not apply in the case of any action for damage by fire brought against any railway company as defined in section 4 of that Act[^c-36072826664298441d8a6ede2fb1c958][^c582918](as defined in section 4 of that Act) unless (1) notice in writing of the fire having occurred and of intention to claim in respect thereof shall have been sent to the said railway company within seven days of the occurrence of the damage; and (2) particulars in writing of the damage showing the amount of the claim in money . . . [^c582919] shall have been sent to the said railway company within twenty-one days of the occurrence of the damage.
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c582920]
 
@@ -55,7 +55,7 @@ This Act may be cited as the Railway Fires Act (1905) Amendment Act 1923.
 
 [^c582917]: Modification: “The principal Act” means [Railway Fires Act 1905 (c. 11)](https://www.legislation.gov.uk/ukpga/1905/11)
 
-[^key-36072826664298441d8a6ede2fb1c958]: Textual amendment: Words in s. 2 inserted (N.I.) (3.1.2006) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) Regulations (Northern Ireland) 2005 (S.R. 2005/537)](https://www.legislation.gov.uk/nisr/2005/537), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/537/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2005/537/schedule/5/paragraph/2)
+[^c-36072826664298441d8a6ede2fb1c958]: Textual amendment: Words in s. 2 inserted (N.I.) (3.1.2006) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) Regulations (Northern Ireland) 2005 (S.R. 2005/537)](https://www.legislation.gov.uk/nisr/2005/537), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/537/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2005/537/schedule/5/paragraph/2)
 
 [^c582918]: Textual amendment: Words in s. 2 inserted (E.W.S.) (1.4.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [ss. 150(1)(o)](https://www.legislation.gov.uk/ukpga/1993/43/section/150/1/o), [152(1)](https://www.legislation.gov.uk/ukpga/1993/43/section/152/1), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1993/43/schedule/12/paragraph/3); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5)
 

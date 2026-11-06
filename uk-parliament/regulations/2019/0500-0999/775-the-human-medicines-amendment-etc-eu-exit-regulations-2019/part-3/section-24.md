@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendment of regulation 31 (certification of manufacturer's licence)[^key-3e8c482f5028b4e6a2976be70ddc4224]
+## 24. Amendment of regulation 31 (certification of manufacturer's licence)[^c-3e8c482f5028b4e6a2976be70ddc4224]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) In paragraph (1)(c), for “an EEA State” substitute “ the United Kingdom ”.
 
-(3)[^key-86e69252ad3f4ff4a189d869340054bc] In paragraphs (3)(b), (5)(a) and (5)(b) for “marketing authorisation” substitute “UK marketing authorisation, EU marketing authorisation, Article 126a authorisation”.
+(3)[^c-86e69252ad3f4ff4a189d869340054bc] In paragraphs (3)(b), (5)(a) and (5)(b) for “marketing authorisation” substitute “UK marketing authorisation, EU marketing authorisation, Article 126a authorisation”.
 
 ## Annotations
 
-[^key-3e8c482f5028b4e6a2976be70ddc4224]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3e8c482f5028b4e6a2976be70ddc4224]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-86e69252ad3f4ff4a189d869340054bc]: Textual amendment: Reg. 24(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/16)
+[^c-86e69252ad3f4ff4a189d869340054bc]: Textual amendment: Reg. 24(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-19dade4d1f9f698e34eb50d55926af66]
+## 1. Citation and commencement[^c-19dade4d1f9f698e34eb50d55926af66]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A14 Cambridge to Huntingdon Improvement Scheme De
 
 ## Annotations
 
-[^key-19dade4d1f9f698e34eb50d55926af66]: Commencement: Art. 1 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-19dade4d1f9f698e34eb50d55926af66]: Commencement: Art. 1 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

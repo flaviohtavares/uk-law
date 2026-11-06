@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Special continuity obligations: property transfers[^key-5d71507e0e4adaeb5e2fbddc9069e45a]
+## 64. Special continuity obligations: property transfers[^c-5d71507e0e4adaeb5e2fbddc9069e45a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) The Bank of England may—
 
-- (a) cancel a contract or other arrangement between the residual bank and a third party[^key-b60d7dd9a8750c5032977826025aa494] (whether or not rights or obligations under it have been transferred to a transferee);
-- (b) modify the terms of a contract or other arrangement between the residual bank and a third party[^key-de4b6de7889b4e815e43853350638e00] (whether or not rights or obligations under it have been transferred to a transferee);
-- (c) add or substitute a transferee as a party to a contract or other arrangement between the residual bank and a third party[^key-a929437a98f88667cc449ffd0ead0b73];
+- (a) cancel a contract or other arrangement between the residual bank and a third party[^c-b60d7dd9a8750c5032977826025aa494] (whether or not rights or obligations under it have been transferred to a transferee);
+- (b) modify the terms of a contract or other arrangement between the residual bank and a third party[^c-de4b6de7889b4e815e43853350638e00] (whether or not rights or obligations under it have been transferred to a transferee);
+- (c) add or substitute a transferee as a party to a contract or other arrangement between the residual bank and a third party[^c-a929437a98f88667cc449ffd0ead0b73];
 - (d) confer and impose rights and obligations on a group company and a transferee, which shall have effect as if created by contract between them;
 - (e) confer and impose rights and obligations on the residual bank and a transferee which shall have effect as if created by contract between them.
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) provision for reasonable consideration, and
 - (b) any other provision that would be expected in arrangements concluded between parties dealing at arm's length.
 
-(4)[^key-093dd7b0a5c3ccacf22ff75f40ef97c0] The power under subsection (2) must be exercised by way of provision in a property transfer instrument (or supplemental instrument).
+(4)[^c-093dd7b0a5c3ccacf22ff75f40ef97c0] The power under subsection (2) must be exercised by way of provision in a property transfer instrument (or supplemental instrument).
 
 (5) The power in subsection (2)(d) and (e) may be exercised only—
 
@@ -44,18 +44,18 @@ summary: ''
 
 (6) An obligation imposed on the residual bank or a group company under subsection (2)(d) or (e) continues to apply despite the residual bank or group company entering insolvency, and may not be disclaimed by a liquidator under section 178(2) of the Insolvency Act 1986 or Article 152(2) of the Insolvency (Northern Ireland) Order 1989.
 
-(7)[^key-5c205f6e960efc85345be25d6206e3cd] For the purposes of subsection (2), “third party” includes a group company.
+(7)[^c-5c205f6e960efc85345be25d6206e3cd] For the purposes of subsection (2), “third party” includes a group company.
 
 ## Annotations
 
-[^key-5d71507e0e4adaeb5e2fbddc9069e45a]: Commencement: S. 64 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-5d71507e0e4adaeb5e2fbddc9069e45a]: Commencement: S. 64 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-b60d7dd9a8750c5032977826025aa494]: Textual amendment: Words in s. 64(2)(a) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/2)
+[^c-b60d7dd9a8750c5032977826025aa494]: Textual amendment: Words in s. 64(2)(a) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/2)
 
-[^key-de4b6de7889b4e815e43853350638e00]: Textual amendment: Words in s. 64(2)(b) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/2)
+[^c-de4b6de7889b4e815e43853350638e00]: Textual amendment: Words in s. 64(2)(b) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/2)
 
-[^key-a929437a98f88667cc449ffd0ead0b73]: Textual amendment: Words in s. 64(2)(c) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/2)
+[^c-a929437a98f88667cc449ffd0ead0b73]: Textual amendment: Words in s. 64(2)(c) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/2)
 
-[^key-093dd7b0a5c3ccacf22ff75f40ef97c0]: Textual amendment: S. 64(4)-(6) substituted for s. 64(4) (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/3)
+[^c-093dd7b0a5c3ccacf22ff75f40ef97c0]: Textual amendment: S. 64(4)-(6) substituted for s. 64(4) (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/3)
 
-[^key-5c205f6e960efc85345be25d6206e3cd]: Textual amendment: S. 64(7) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(4)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/4)
+[^c-5c205f6e960efc85345be25d6206e3cd]: Textual amendment: S. 64(7) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [72(4)](https://www.legislation.gov.uk/uksi/2014/3329/article/72/4)

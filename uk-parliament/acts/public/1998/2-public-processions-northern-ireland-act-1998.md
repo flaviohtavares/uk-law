@@ -121,9 +121,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 6. Advance notice of public processions.[^c878008]
 
-(1) A person proposing to organise a public procession shall give notice of that proposal in accordance with subsections (1A) to (4A)[^key-dd00e5fa93f5288505f757812ee6d2a3] [^key-7c7ab7988dc8d4f2ee4f2532396587c9]....
+(1) A person proposing to organise a public procession shall give notice of that proposal in accordance with subsections (1A) to (4A)[^c-dd00e5fa93f5288505f757812ee6d2a3] [^c-7c7ab7988dc8d4f2ee4f2532396587c9]....
 
-(1A)[^key-0c035b6fd762a4aabd408ce2a678db9b] Notice under this section shall be—
+(1A)[^c-0c035b6fd762a4aabd408ce2a678db9b] Notice under this section shall be—
 
 - (a) left with a member of the Police Service of Northern Ireland not below the rank of sergeant at the police station nearest to the proposed starting place of the procession; or
 - (b) sent to the Police Service of Northern Ireland by permitted electronic means (see section 7A).
@@ -149,7 +149,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (g) where the notice is given as mentioned in paragraph (b) of subsection (2), the reason why it was not reasonably practicable to give notice in accordance with paragraph (a) of that subsection; and
 - (h) such other matters as appear to the Secretary of State to be necessary for, or appropriate for facilitating, the exercise by the Commission, the Secretary of State or members of the Royal Ulster Constabulary of any function in relation to the procession.
 
-(4A)[^key-000570c039b3e0c5ebdc322511804c28] Where notice is sent by permitted electronic means, the signature required by subsection (3)(b) is a permitted electronic signature (see section 7A).
+(4A)[^c-000570c039b3e0c5ebdc322511804c28] Where notice is sent by permitted electronic means, the signature required by subsection (3)(b) is a permitted electronic signature (see section 7A).
 
 (5) This section does not apply where the procession is—
 
@@ -177,9 +177,9 @@ shall be guilty of an offence.
 
 ### 7. Advance notice of protest meetings related to public processions.
 
-(1) Where notice has been given under section 6 in relation to a public procession, a person proposing to organise a related protest meeting shall give notice of that proposal in accordance with subsections (1A) to (4A)[^key-4a4da9440d8ba9aecf8d8a1da3ddcd98] [^key-8422ee7e228d5ea0355119333afdc73c]....
+(1) Where notice has been given under section 6 in relation to a public procession, a person proposing to organise a related protest meeting shall give notice of that proposal in accordance with subsections (1A) to (4A)[^c-4a4da9440d8ba9aecf8d8a1da3ddcd98] [^c-8422ee7e228d5ea0355119333afdc73c]....
 
-(1A)[^key-1818dfa5cdf07f5c30b8d2b2f3738deb] Notice under this section shall be—
+(1A)[^c-1818dfa5cdf07f5c30b8d2b2f3738deb] Notice under this section shall be—
 
 - (a) left with a member of the Police Service of Northern Ireland not below the rank of sergeant at the police station nearest to the place at which the meeting is to be held; or
 - (b) sent to the Police Service of Northern Ireland by permitted electronic means (see section 7A).
@@ -204,7 +204,7 @@ shall be guilty of an offence.
 - (f) where the notice is given as mentioned in paragraph (b) of subsection (2), the reason why it was not reasonably practicable to give notice in accordance with paragraph (a) of that subsection; and
 - (g) such other matters as appear to the Secretary of State to be necessary for, or appropriate for facilitating, the exercise by the Secretary of State or members of the Royal Ulster Constabulary of any function in relation to the meeting.
 
-(4A)[^key-be27daa4d010089263b9e3b4965c03d2] Where notice is sent by permitted electronic means, the signature required by subsection (3)(b) is a permitted electronic signature (see section 7A).
+(4A)[^c-be27daa4d010089263b9e3b4965c03d2] Where notice is sent by permitted electronic means, the signature required by subsection (3)(b) is a permitted electronic signature (see section 7A).
 
 (5) The Chief Constable shall ensure that a copy of a notice given under this section is immediately sent to the Commission.
 
@@ -225,7 +225,7 @@ shall be guilty of an offence.
 
 (9) A person guilty of an offence under subsection (6) shall be liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale, or to both.
 
-### 7A. Meaning of “permitted electronic means” and “permitted electronic signature”[^key-76c2daabf1d283ebb5384be4d45bf27a]
+### 7A. Meaning of “permitted electronic means” and “permitted electronic signature”[^c-76c2daabf1d283ebb5384be4d45bf27a]
 
 (1) A notice is sent by “permitted electronic means” for the purposes of sections 6 and 7 if—
 
@@ -686,7 +686,7 @@ appointed by the Secretary of State.
 (4) The Secretary of State may remove a person from office as a member or as chairman of the Commission if satisfied that—
 
 - (a) he has been convicted of a criminal offence;
-- (b) he has become bankrupt or has become the subject of a bankruptcy restrictions order[^key-543707a3b990066d28f9336b24281049] or a debt relief order (under Part 7A of the Insolvency Act 1986[^key-fdc67dec5b3b1fe447f0d378acee4970] or Part 7A of the Insolvency (Northern Ireland) Order 1989[^key-f8f7e1bca75697494890f118bb2561c4] ) has been made in respect of him or he has become the subject of a debt relief restriction order or he has made a composition or arrangement with his creditors;
+- (b) he has become bankrupt or has become the subject of a bankruptcy restrictions order[^c-543707a3b990066d28f9336b24281049] or a debt relief order (under Part 7A of the Insolvency Act 1986[^c-fdc67dec5b3b1fe447f0d378acee4970] or Part 7A of the Insolvency (Northern Ireland) Order 1989[^c-f8f7e1bca75697494890f118bb2561c4] ) has been made in respect of him or he has become the subject of a debt relief restriction order or he has made a composition or arrangement with his creditors;
 - (c) he has failed to comply with the terms of his appointment; or
 - (d) he is otherwise unable or unfit to discharge his functions.
 
@@ -896,27 +896,27 @@ Section 18(2).
 
 [^c878008]: Modification: S. 6 excluded (1.5.1998) by [S.I. 1998/956](https://www.legislation.gov.uk/uksi/1998/956), [art. 3](https://www.legislation.gov.uk/uksi/1998/956/article/3)
 
-[^key-dd00e5fa93f5288505f757812ee6d2a3]: Textual amendment: Words in s. 6(1) substituted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/235/article/2/2/a)
+[^c-dd00e5fa93f5288505f757812ee6d2a3]: Textual amendment: Words in s. 6(1) substituted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/235/article/2/2/a)
 
-[^key-7c7ab7988dc8d4f2ee4f2532396587c9]: Textual amendment: Words in s. 6(1) omitted (11.3.2015) by virtue of [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/235/article/2/2/b)
+[^c-7c7ab7988dc8d4f2ee4f2532396587c9]: Textual amendment: Words in s. 6(1) omitted (11.3.2015) by virtue of [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/235/article/2/2/b)
 
-[^key-0c035b6fd762a4aabd408ce2a678db9b]: Textual amendment: S. 6(1A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/235/article/2/3)
+[^c-0c035b6fd762a4aabd408ce2a678db9b]: Textual amendment: S. 6(1A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/235/article/2/3)
 
 [^c2033721]: Textual amendment: Words in s. 6(4)(c) inserted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by [The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2))](https://www.legislation.gov.uk/nisi/2005/857), [art. 3(3)](https://www.legislation.gov.uk/nisi/2005/857/article/3/3)
 
-[^key-000570c039b3e0c5ebdc322511804c28]: Textual amendment: S. 6(4A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/235/article/2/4)
+[^c-000570c039b3e0c5ebdc322511804c28]: Textual amendment: S. 6(4A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/235/article/2/4)
 
-[^key-4a4da9440d8ba9aecf8d8a1da3ddcd98]: Textual amendment: Words in s. 7(1) substituted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2015/235/article/3/2/a)
+[^c-4a4da9440d8ba9aecf8d8a1da3ddcd98]: Textual amendment: Words in s. 7(1) substituted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2015/235/article/3/2/a)
 
-[^key-8422ee7e228d5ea0355119333afdc73c]: Textual amendment: Words in s. 7(1) omitted (11.3.2015) by virtue of [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2015/235/article/3/2/b)
+[^c-8422ee7e228d5ea0355119333afdc73c]: Textual amendment: Words in s. 7(1) omitted (11.3.2015) by virtue of [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2015/235/article/3/2/b)
 
-[^key-1818dfa5cdf07f5c30b8d2b2f3738deb]: Textual amendment: S. 7(1A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/235/article/3/3)
+[^c-1818dfa5cdf07f5c30b8d2b2f3738deb]: Textual amendment: S. 7(1A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/235/article/3/3)
 
-[^key-be27daa4d010089263b9e3b4965c03d2]: Textual amendment: S. 7(4A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2015/235/article/3/4)
+[^c-be27daa4d010089263b9e3b4965c03d2]: Textual amendment: S. 7(4A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2015/235/article/3/4)
 
 [^c2033723]: Textual amendment: Words in s. 7(8)(b) substituted (23.3.2005 with application as mentioned in art. 1(2) of the amending S.I.) by [The Public Processions (Amendment) (Northern Ireland) Order 2005 (S.I. 2005/857 (N.I. 2))](https://www.legislation.gov.uk/nisi/2005/857), [art. 4(4)](https://www.legislation.gov.uk/nisi/2005/857/article/4/4)
 
-[^key-76c2daabf1d283ebb5384be4d45bf27a]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/1998/2/section/7A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [4](https://www.legislation.gov.uk/uksi/2015/235/article/4)
+[^c-76c2daabf1d283ebb5384be4d45bf27a]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/ukpga/1998/2/section/7A) inserted (11.3.2015) by [The Public Processions (Electronic Communication of Notices) (Northern Ireland) Order 2015 (S.I. 2015/235)](https://www.legislation.gov.uk/uksi/2015/235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/235/article/1/2), [4](https://www.legislation.gov.uk/uksi/2015/235/article/4)
 
 [^c878010]: Commencement: S. 8 wholly in force; s.8(6) wholly in force at Royal Assent see s. 8(2)(3) and s. 8(1)-(5)(7)-(9) in force 2.3.1998 by 1998/717, art. 2
 
@@ -954,11 +954,11 @@ Section 18(2).
 
 [^c878017]: Commencement: S. 19(2) power fully exercised (25.2.1998): 2.3.1998 appointed day where otherwise not in force by [S.I. 1998/717](https://www.legislation.gov.uk/uksi/1998/717)
 
-[^key-543707a3b990066d28f9336b24281049]: Textual amendment: Words in Sch. 1 para. 3(4)(b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/11)
+[^c-543707a3b990066d28f9336b24281049]: Textual amendment: Words in Sch. 1 para. 3(4)(b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/11)
 
-[^key-fdc67dec5b3b1fe447f0d378acee4970]: Textual amendment: Words in Sch. 1 para. 3(4)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/37) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-fdc67dec5b3b1fe447f0d378acee4970]: Textual amendment: Words in Sch. 1 para. 3(4)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/37) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
-[^key-f8f7e1bca75697494890f118bb2561c4]: Textual amendment: Words in [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/1998/2/schedule/1/paragraph/3/4/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/17)
+[^c-f8f7e1bca75697494890f118bb2561c4]: Textual amendment: Words in [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/ukpga/1998/2/schedule/1/paragraph/3/4/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/17)
 
 [^c878020]: Textual amendment: [Sch. 1 para. 12(5)](https://www.legislation.gov.uk/ukpga/1998/2/schedule/1/paragraph/12/5) substituted (30.3.2001) by [S.I. 2001/852](https://www.legislation.gov.uk/uksi/2001/852), [art. 2](https://www.legislation.gov.uk/uksi/2001/852/article/2)
 

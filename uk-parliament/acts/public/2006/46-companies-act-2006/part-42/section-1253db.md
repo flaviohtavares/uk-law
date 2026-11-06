@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A statutory auditor may transfer audit working papers and investigation reports[^key-9345ab46027d844e087e665cb1ad9d55] to an approved third country competent authority if the transfer is made—
+(1) A statutory auditor may transfer audit working papers and investigation reports[^c-9345ab46027d844e087e665cb1ad9d55] to an approved third country competent authority if the transfer is made—
 
 - (a) with the prior approval of the Secretary of State, and
 - (b) in accordance with rules of a recognised supervisory body meeting the requirements of paragraph 16AA of Schedule 10.
@@ -42,4 +42,4 @@ summary: ''
 
 [^c19704071]: Textual amendment: Ss. 1253D-1253F and cross-heading inserted (6.4.2008) by [The Statutory Auditors and Third Country Auditors Regulations 2007 (S.I. 2007/3494)](https://www.legislation.gov.uk/uksi/2007/3494), [reg. 15(1)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/15/1) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/15/2) (as amended by [S.I. 2008/499](https://www.legislation.gov.uk/uksi/2008/499)), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2008/499/regulation/2/4)))
 
-[^key-9345ab46027d844e087e665cb1ad9d55]: Textual amendment: Words in s. 1253DB substituted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 45(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/45/2) (with [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/2/b))
+[^c-9345ab46027d844e087e665cb1ad9d55]: Textual amendment: Words in s. 1253DB substituted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 45(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/45/2) (with [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/2/b))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 143. Reporting possible misconduct to approved regulators[^key-e65f12095f40ac78d18cc8684935be2d]
+## 143. Reporting possible misconduct to approved regulators[^c-e65f12095f40ac78d18cc8684935be2d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ the ombudsman may make a report to that effect to the Board.
 
 ## Annotations
 
-[^key-e65f12095f40ac78d18cc8684935be2d]: Commencement: S. 143 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-e65f12095f40ac78d18cc8684935be2d]: Commencement: S. 143 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

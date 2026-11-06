@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Release of prisoners recalled following release under Criminal Justice Act 1991[^key-1fcc5fa6a9af98fccd2105af90f7d2c4]
+## 32. Release of prisoners recalled following release under Criminal Justice Act 1991[^c-1fcc5fa6a9af98fccd2105af90f7d2c4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fcc5fa6a9af98fccd2105af90f7d2c4]: Textual amendment: S. 32 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 20(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/20/a); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
+[^c-1fcc5fa6a9af98fccd2105af90f7d2c4]: Textual amendment: S. 32 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 20(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/20/a); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)

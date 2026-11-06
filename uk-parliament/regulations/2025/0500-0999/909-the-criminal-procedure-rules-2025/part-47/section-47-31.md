@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.31. Application for warrant under Schedule 5 to the Terrorism Act 2000 or Schedule 2 to the National Security Act 2023[^key-9a42115a3a16021cdfa4e01832b1d294]
+## 47.31. Application for warrant under Schedule 5 to the Terrorism Act 2000 or Schedule 2 to the National Security Act 2023[^c-9a42115a3a16021cdfa4e01832b1d294]
 
 *Extent: E+W*
 
@@ -127,7 +127,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9a42115a3a16021cdfa4e01832b1d294]: Commencement: Rule 47.31 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9a42115a3a16021cdfa4e01832b1d294]: Commencement: Rule 47.31 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01211]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); paragraph 11 of Schedule 5 was amended by section 26 of the Terrorism Act [2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11) and section 82 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20). It is further amended by section 65 of, and paragraph 9 of Schedule 4 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), with effect from a date to be appointed.
 

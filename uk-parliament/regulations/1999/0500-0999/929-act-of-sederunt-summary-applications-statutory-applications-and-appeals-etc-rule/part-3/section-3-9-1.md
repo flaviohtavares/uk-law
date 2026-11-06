@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.1. Interpretation and application[^key-39c688aed2b472663ceda4c52ea19a24]
+## 3.9.1. Interpretation and application[^c-39c688aed2b472663ceda4c52ea19a24]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39c688aed2b472663ceda4c52ea19a24]: Commencement: Rule 3.9.1 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-39c688aed2b472663ceda4c52ea19a24]: Commencement: Rule 3.9.1 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
 [^f00046]: Footnote: [1995 c. 43](https://www.legislation.gov.uk/ukpga/1995/43).

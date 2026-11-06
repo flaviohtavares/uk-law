@@ -48,13 +48,13 @@ Coming into force
 
 The Criminal Procedure Rule Committee makes the following Rules under section 69 of the Courts Act 2003[^f00001], after consulting in accordance with section 72(1)(a) of that Act:
 
-## 1. Citation, commencement and interpretation[^key-d0e7d4ccbbe836a83a8d38bc9814d11b]
+## 1. Citation, commencement and interpretation[^c-d0e7d4ccbbe836a83a8d38bc9814d11b]
 
 These Rules may be cited as The Criminal Procedure (Amendment No. 2) Rules 2008 and shall come into force on 6th April 2009.
 
-**2.**[^key-53a7918b5bec69efb3a08f4442c7cac9] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in The Criminal Procedure Rules 2005[^f00002].
+**2.**[^c-53a7918b5bec69efb3a08f4442c7cac9] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in The Criminal Procedure Rules 2005[^f00002].
 
-## 3. Amendments to the Criminal Procedure Rules 2005[^key-c87aac8e87479689e155ea2984fcdd88]
+## 3. Amendments to the Criminal Procedure Rules 2005[^c-c87aac8e87479689e155ea2984fcdd88]
 
 After rule 2.1(12) (When the Rules apply), insert—
 
@@ -70,15 +70,15 @@ After rule 2.1(12) (When the Rules apply), insert—
 
 .
 
-**4.**[^key-66512bbe9fcd3c7b2d635478e3123a4b] In rule 2.2(1) (Definitions), after the definition of “court officer”, insert—
+**4.**[^c-66512bbe9fcd3c7b2d635478e3123a4b] In rule 2.2(1) (Definitions), after the definition of “court officer”, insert—
 
 > - “justices' legal adviser” means a justices' clerk or an assistant to a justices' clerk;
 
 .
 
-**5.**[^key-bf0b5288aed4924f629a0b234a8bf7d5] In the note after rule 7.2 (Information and written charge), before “The Practice Direction”, insert “See also Part 44 (Breach, revocation and amendment of community and other orders in a magistrates' court). Rule 44.2(2) (Application by responsible officer) applies rules 7.2 to 7.4 to the procedure with which that rule deals.”.
+**5.**[^c-bf0b5288aed4924f629a0b234a8bf7d5] In the note after rule 7.2 (Information and written charge), before “The Practice Direction”, insert “See also Part 44 (Breach, revocation and amendment of community and other orders in a magistrates' court). Rule 44.2(2) (Application by responsible officer) applies rules 7.2 to 7.4 to the procedure with which that rule deals.”.
 
-**6.**[^key-7e9fcd78008eb3e5667abf79c5ae3a02] For rule 7.4(1) (Summons, warrant and requisition), substitute—
+**6.**[^c-7e9fcd78008eb3e5667abf79c5ae3a02] For rule 7.4(1) (Summons, warrant and requisition), substitute—
 
 > (1) The court may issue or withdraw a summons or warrant—
 >
@@ -87,7 +87,7 @@ After rule 2.1(12) (When the Rules apply), insert—
 
 .
 
-**7.**[^key-3a85602a73fd8d60036faae0cab4dfbe] In Part 19 (Bail in magistrates' courts and the Crown Court)—
+**7.**[^c-3a85602a73fd8d60036faae0cab4dfbe] In Part 19 (Bail in magistrates' courts and the Crown Court)—
 
 - (a) in the table of contents—
   - (i) from the entry for rule 19.1, omit “police”,
@@ -136,15 +136,15 @@ After rule 2.1(12) (When the Rules apply), insert—
 
   .
 
-**8.**[^key-7977e05f2e918881509143d8f5288d7b] For Part 21 (Advance information), substitute the Part as set out in Schedule 1 to these Rules.
+**8.**[^c-7977e05f2e918881509143d8f5288d7b] For Part 21 (Advance information), substitute the Part as set out in Schedule 1 to these Rules.
 
-**9.**[^key-18b1bdb68c8f0783a4be2e961b7ee753] For Part 37 (Summary trial), substitute the Part as set out in Schedule 2 to these Rules.
+**9.**[^c-18b1bdb68c8f0783a4be2e961b7ee753] For Part 37 (Summary trial), substitute the Part as set out in Schedule 2 to these Rules.
 
-**10.**[^key-a2692cb34b2e01e5c49e7b60a1dbe6a4] Omit Part 38 (Trial of children and young persons).
+**10.**[^c-a2692cb34b2e01e5c49e7b60a1dbe6a4] Omit Part 38 (Trial of children and young persons).
 
-**11.**[^key-04969aed5658a769e5e188b1fad514a4] For Part 44 (Sentencing children and young persons), substitute the Part as set out in Schedule 3 to these Rules.
+**11.**[^c-04969aed5658a769e5e188b1fad514a4] For Part 44 (Sentencing children and young persons), substitute the Part as set out in Schedule 3 to these Rules.
 
-**12.**[^key-955477911c0cb7625312aac0e8a71856] In the Arrangement of Rules contained in The Criminal Procedure Rules 2005—
+**12.**[^c-955477911c0cb7625312aac0e8a71856] In the Arrangement of Rules contained in The Criminal Procedure Rules 2005—
 
 - (a) in the entry for Part 7, for “Commencing proceedings in a magistrates' court”, substitute “Starting a prosecution in a magistrates' court”;
 - (b) in the entry for Part 21, for “Advance information in magistrates' courts”, substitute “Initial details of the prosecution case”;
@@ -208,7 +208,7 @@ Lord Chancellor
 
 14th December 2008
 
-## SCHEDULE 1[^key-788f2b3aa9b6a56cbb0dcec3459d6a98]
+## SCHEDULE 1[^c-788f2b3aa9b6a56cbb0dcec3459d6a98]
 
 Rule 8
 
@@ -259,7 +259,7 @@ Rule 8
 > - (c) any combination of such a summary, statement, document or extract; and
 > - (d) the defendant’s previous convictions.
 
-## SCHEDULE 2[^key-4eb029863f691e248d2c5daa06cd63c9]
+## SCHEDULE 2[^c-4eb029863f691e248d2c5daa06cd63c9]
 
 Rule 9
 
@@ -840,7 +840,7 @@ Rule 9
 >
 > *Under Part 6, the magistrates' court officer must record in the court register details of a case and of the court’s decisions.\]*”
 
-## SCHEDULE 3[^key-b2569ceae82eb3ad8b0920f7b86edd97]
+## SCHEDULE 3[^c-b2569ceae82eb3ad8b0920f7b86edd97]
 
 Rule 11
 
@@ -948,37 +948,37 @@ The changes made by these Rules come into force on 6th April 2009.
 
 [^f00001]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); section 69 was amended by sections 15(1) and 146 of, and paragraphs 308 and 332 of Schedule 4 and Part 2 of Schedule 18 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-d0e7d4ccbbe836a83a8d38bc9814d11b]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-d0e7d4ccbbe836a83a8d38bc9814d11b]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-53a7918b5bec69efb3a08f4442c7cac9]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2008/3269/article/2) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-53a7918b5bec69efb3a08f4442c7cac9]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2008/3269/article/2) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
 [^f00002]: Footnote: [S.I. 2005/384](https://www.legislation.gov.uk/uksi/2005/384); amended by [S.I. 2006/353](https://www.legislation.gov.uk/uksi/2006/353), [2006/2636](https://www.legislation.gov.uk/uksi/2006/2636), [2007/699](https://www.legislation.gov.uk/uksi/2007/699), [2007/2317](https://www.legislation.gov.uk/uksi/2007/2317), [2007/3662](https://www.legislation.gov.uk/uksi/2007/3662) and [2008/2076](https://www.legislation.gov.uk/uksi/2008/2076).
 
-[^key-c87aac8e87479689e155ea2984fcdd88]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2008/3269/article/3) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-c87aac8e87479689e155ea2984fcdd88]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2008/3269/article/3) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-66512bbe9fcd3c7b2d635478e3123a4b]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2008/3269/article/4) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-66512bbe9fcd3c7b2d635478e3123a4b]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2008/3269/article/4) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-bf0b5288aed4924f629a0b234a8bf7d5]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2008/3269/article/5) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-bf0b5288aed4924f629a0b234a8bf7d5]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2008/3269/article/5) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-7e9fcd78008eb3e5667abf79c5ae3a02]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2008/3269/article/6) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-7e9fcd78008eb3e5667abf79c5ae3a02]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2008/3269/article/6) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-3a85602a73fd8d60036faae0cab4dfbe]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2008/3269/article/7) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-3a85602a73fd8d60036faae0cab4dfbe]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2008/3269/article/7) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
 [^f00003]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63); section 3(8) was amended by section 65 of, and Schedule 12 to, the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45). It was amended, in respect of cases sent for trial under section 51A(3)(d) of the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), by section 41 of, and paragraph 48 of Schedule 3 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). It is to be amended by section 41 of, and paragraph 48 of Schedule 3 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) for remaining purposes, from a date to be appointed.
 
 [^f00004]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63); section 4 was amended by section 154 of, and paragraph 145 of Schedule 7 to, the Magistrates' Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 168 of, and paragraphs 32 and 33 of Schedule 10 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), section 58 of the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43), sections 198 and 220 of, and Schedule 4 to, the Extradition Act [2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), section 304 of, and paragraphs 20 and 22 of Schedule 32 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 42 of, and paragraph 34 of Schedule 13 to, the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48). It is to be amended by sections 6 and 148 of, and paragraph 23 of Schedule 4 and Part 1 of Schedule 28 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 
-[^key-7977e05f2e918881509143d8f5288d7b]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2008/3269/article/8) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-7977e05f2e918881509143d8f5288d7b]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2008/3269/article/8) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-18b1bdb68c8f0783a4be2e961b7ee753]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2008/3269/article/9) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-18b1bdb68c8f0783a4be2e961b7ee753]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2008/3269/article/9) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-a2692cb34b2e01e5c49e7b60a1dbe6a4]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2008/3269/article/10) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-a2692cb34b2e01e5c49e7b60a1dbe6a4]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2008/3269/article/10) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-04969aed5658a769e5e188b1fad514a4]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2008/3269/article/11) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-04969aed5658a769e5e188b1fad514a4]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2008/3269/article/11) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-955477911c0cb7625312aac0e8a71856]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2008/3269/article/12) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-955477911c0cb7625312aac0e8a71856]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2008/3269/article/12) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
-[^key-788f2b3aa9b6a56cbb0dcec3459d6a98]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2008/3269/schedule/1) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-788f2b3aa9b6a56cbb0dcec3459d6a98]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2008/3269/schedule/1) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
 [^f00005]: Footnote: [S.I. 1985/601](https://www.legislation.gov.uk/uksi/1985/601).
 
@@ -986,7 +986,7 @@ The changes made by these Rules come into force on 6th April 2009.
 
 [^f00007]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30); Schedule 1 was amended by section 170 of, and paragraph 59 of Schedule 15 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33) and section 154 of, and Schedule 7 to, the Magistrates' Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43). Other amendments to Schedule 1 are not relevant to procedure in magistrates' courts.
 
-[^key-4eb029863f691e248d2c5daa06cd63c9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3269/schedule/2) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-4eb029863f691e248d2c5daa06cd63c9]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3269/schedule/2) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
 [^f00008]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 2 was substituted by section 44 of the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and amended by section 41 of, and paragraph 51 of Schedule 3 to, the Criminal Justice [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
@@ -1122,7 +1122,7 @@ The changes made by these Rules come into force on 6th April 2009.
 
 [^f00074]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 10 was amended by section 59 of, and paragraph 1 of Schedule 9 to, the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 68 of, and paragraph 6 of Schedule 8 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53) and section 47 of the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), section 12A was inserted by section 45 of, and paragraph 2 of Schedule 5 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) and section 109 of, and paragraph 204 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 
-[^key-b2569ceae82eb3ad8b0920f7b86edd97]: Commencement: [Sch. 3n2](https://www.legislation.gov.uk/uksi/2008/3269/schedule/3n2) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
+[^c-b2569ceae82eb3ad8b0920f7b86edd97]: Commencement: [Sch. 3n2](https://www.legislation.gov.uk/uksi/2008/3269/schedule/3n2) in force at 6.4.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2008/3269/article/1)
 
 [^f00075]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6); Schedule 3 is to be substituted by section 304 of, and paragraphs 90 and 125 of Schedule 32 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from 4 April 2009 and it is to be repealed by section 149 of, and Part 1 of Schedule 28 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) from a date to be appointed. Schedules 5 and 7 are to be repealed by section 149 of, and Part I of Schedule 28 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) from a date to be appointed. Paragraph 3(3) of Schedule 7 was amended by section 304 of, and paragraphs 90 and 128 of Schedule 32 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44); paragraph 6A is to be inserted into Schedule 8 by section 6 of, and paragraphs 106 and 108 of Schedule 4 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) from a date to be appointed. Other amendments to these Schedules do not affect the procedure prescribed by these rules.
 

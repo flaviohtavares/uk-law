@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Oxbridge college fee loans[^key-498bbca843d78c538730d0a2ee188651]
+## SCHEDULE 5 — Oxbridge college fee loans[^c-498bbca843d78c538730d0a2ee188651]
 
 *Extent: E+W*
 
@@ -24,50 +24,50 @@ summary: ''
 
 Regulation 99
 
-### 1. Oxbridge college fee loans[^key-498bbca843d78c538730d0a2ee188651]
+### 1. Oxbridge college fee loans[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Designated Oxbridge courses[^key-498bbca843d78c538730d0a2ee188651]
+### 2. Designated Oxbridge courses[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Eligible Oxbridge students[^key-498bbca843d78c538730d0a2ee188651]
+### 3. Eligible Oxbridge students[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Students becoming eligible during the course of an academic year[^key-498bbca843d78c538730d0a2ee188651]
+### 4. Students becoming eligible during the course of an academic year[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Period of eligibility[^key-498bbca843d78c538730d0a2ee188651]
+### 5. Period of eligibility[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amount of the college fee loan[^key-498bbca843d78c538730d0a2ee188651]
+### 6. Amount of the college fee loan[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Transfers[^key-498bbca843d78c538730d0a2ee188651]
+### 7. Transfers[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Payment[^key-498bbca843d78c538730d0a2ee188651]
+### 8. Payment[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Requirement to provide national insurance number[^key-498bbca843d78c538730d0a2ee188651]
+### 9. Requirement to provide national insurance number[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Information requirements and agreements for repayment[^key-498bbca843d78c538730d0a2ee188651]
+### 10. Information requirements and agreements for repayment[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Overpayment[^key-498bbca843d78c538730d0a2ee188651]
+### 11. Overpayment[^c-498bbca843d78c538730d0a2ee188651]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-498bbca843d78c538730d0a2ee188651]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/wsi/2018/191/schedule/5) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [28](https://www.legislation.gov.uk/wsi/2026/3/regulation/28)
+[^c-498bbca843d78c538730d0a2ee188651]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/wsi/2018/191/schedule/5) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [28](https://www.legislation.gov.uk/wsi/2026/3/regulation/28)

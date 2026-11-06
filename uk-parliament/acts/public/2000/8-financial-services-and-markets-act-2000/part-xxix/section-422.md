@@ -45,18 +45,18 @@ summary: ''
   - (ii) voting power held by a third party under an agreement concluded with H providing for the temporary transfer for consideration of the voting power in question;
   - (iii) voting power attaching to shares which are lodged as collateral with H, provided that H controls the voting power and declares an intention to exercise it;
   - (iv) voting power attaching to shares in which H has a life interest;
-  - (v) voting power which is held, or may be exercised within the meaning of subparagraphs (i) to (iv), by a controlled undertaking[^key-5a1b9459643f493d256ad20c37ef5dc7] of H;
+  - (v) voting power which is held, or may be exercised within the meaning of subparagraphs (i) to (iv), by a controlled undertaking[^c-5a1b9459643f493d256ad20c37ef5dc7] of H;
   - (vi) voting power attaching to shares deposited with H which H has discretion to exercise in the absence of specific instructions from the shareholders;
   - (vii) voting power held in the name of a third party on behalf of H;
   - (viii) voting power which H may exercise as a proxy where H has discretion about the exercise of the voting power in the absence of specific instructions from the shareholders; and
 - (b) in relation to an undertaking which does not have general meetings at which matters are decided by the exercise of voting rights, means the right under the constitution of the undertaking to direct the overall policy of the undertaking or alter the terms of its constitution.
 
-(6)[^key-c3fe744e0f99acf4cc988477ec1135e8] For the purposes of this section, an undertaking “B” is a controlled undertaking of H if any of the conditions in section 89J(4)(a) to (d) (read with section 89J(5)) is met (reading references in those provisions to A as references to H).
+(6)[^c-c3fe744e0f99acf4cc988477ec1135e8] For the purposes of this section, an undertaking “B” is a controlled undertaking of H if any of the conditions in section 89J(4)(a) to (d) (read with section 89J(5)) is met (reading references in those provisions to A as references to H).
 
 ## Annotations
 
 [^c2076852]: Textual amendment: Ss. 422, 422A substituted (21.3.2009) for s. 422 by virtue of [The Financial Services and Markets Act 2000 (Controllers) Regulations 2009 (S.I. 2009/534)](https://www.legislation.gov.uk/uksi/2009/534), [reg. 7](https://www.legislation.gov.uk/uksi/2009/534/regulation/7), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/534/schedule/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2009/534/regulation/8))
 
-[^key-5a1b9459643f493d256ad20c37ef5dc7]: Textual amendment: Words in s. 422(5)(a)(v) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 25(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/25/a)
+[^c-5a1b9459643f493d256ad20c37ef5dc7]: Textual amendment: Words in s. 422(5)(a)(v) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 25(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/25/a)
 
-[^key-c3fe744e0f99acf4cc988477ec1135e8]: Textual amendment: S. 422(6) inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/25/b)
+[^c-c3fe744e0f99acf4cc988477ec1135e8]: Textual amendment: S. 422(6) inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/25/b)

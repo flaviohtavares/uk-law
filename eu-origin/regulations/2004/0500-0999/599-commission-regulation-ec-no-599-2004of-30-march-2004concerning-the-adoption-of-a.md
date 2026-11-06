@@ -35,22 +35,22 @@ concerning the adoption of a harmonised model certificate and inspection report 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f6383953613c922c2ba1b50d1c7e7b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6383953613c922c2ba1b50d1c7e7b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-f6383953613c922c2ba1b50d1c7e7b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f6383953613c922c2ba1b50d1c7e7b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f6383953613c922c2ba1b50d1c7e7b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f6383953613c922c2ba1b50d1c7e7b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6383953613c922c2ba1b50d1c7e7b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6383953613c922c2ba1b50d1c7e7b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-f6383953613c922c2ba1b50d1c7e7b7a]
+## ANNEX[^c-f6383953613c922c2ba1b50d1c7e7b7a]
 
 [image: see source](https://www.legislation.gov.uk/eur/2004/599/images/eur_20040599_2004-03-30_en_001)[image: see source](https://www.legislation.gov.uk/eur/2004/599/images/eur_20040599_2004-03-30_en_002)[image: see source](https://www.legislation.gov.uk/eur/2004/599/images/eur_20040599_2004-03-30_en_003)[image: see source](https://www.legislation.gov.uk/eur/2004/599/images/eur_20040599_2004-03-30_en_004)[image: see source](https://www.legislation.gov.uk/eur/2004/599/images/eur_20040599_2004-03-30_en_005)[image: see source](https://www.legislation.gov.uk/eur/2004/599/images/eur_20040599_2004-03-30_en_006)[image: see source](https://www.legislation.gov.uk/eur/2004/599/images/eur_20040599_2004-03-30_en_007)[image: see source](https://www.legislation.gov.uk/eur/2004/599/images/eur_20040599_2004-03-30_en_008)
 
 ## Annotations
 
-[^key-f6383953613c922c2ba1b50d1c7e7b7a]: Textual amendment: Regulation revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1462/schedule)
+[^c-f6383953613c922c2ba1b50d1c7e7b7a]: Textual amendment: Regulation revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1462/schedule)

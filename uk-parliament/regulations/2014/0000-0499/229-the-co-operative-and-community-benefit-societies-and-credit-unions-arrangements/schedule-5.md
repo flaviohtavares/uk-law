@@ -29,7 +29,7 @@ The Insolvency Act 1986 (Prescribed Part) Order 2003 [^c22009621] applies in rel
 - (a) a reference to a company includes a reference to a relevant society; and
 - (b) a reference to section 176A of the 1986 Act (share of assets for unsecured creditors) [^c22009631] is a reference to that section as applied in relation to a relevant society by article 3 of this Order.
 
-### 1A. Modified application of the Insurers (Reorganisation and Winding Up) Regulations 2004[^key-5eef8a9481437d9a758bbc3eb3d012fb]
+### 1A. Modified application of the Insurers (Reorganisation and Winding Up) Regulations 2004[^c-5eef8a9481437d9a758bbc3eb3d012fb]
 
 The Insurers (Reorganisation and Winding Up) Regulations 2004 have effect in relation to a relevant society as if in regulation 2(3) (interpretation of references to the law of insolvency) the reference to the Co-operative and Community Benefit Societies Act 2014 included a reference to an order made under section 118 of that Act.
 
@@ -57,7 +57,7 @@ The Insurers (Reorganisation and Winding Up) Regulations 2004 have effect in rel
 - (a) before “Part 2” there were inserted “Subject to paragraph (1A),”;
 - (b) after paragraph (1) there were inserted—
 
-  > (1A) In the case of an insurer which is a relevant society (within the meaning given in article 1(2) of the Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014[^key-47d2270bc4453f005eddf54463f3b1c3]), the reference in paragraph (1) to the modifications specified in the Schedule to this Order is a reference to the modifications—
+  > (1A) In the case of an insurer which is a relevant society (within the meaning given in article 1(2) of the Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014[^c-47d2270bc4453f005eddf54463f3b1c3]), the reference in paragraph (1) to the modifications specified in the Schedule to this Order is a reference to the modifications—
   >
   > - (a) made by the Industrial and Provident Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 in applying Part 2 of the 1986 Act in relation to a relevant society; and
   > - (b) specified in the Schedule to this Order, except those specified in—
@@ -74,7 +74,7 @@ The Insurers (Reorganisation and Winding Up) Regulations 2004 have effect in rel
 
 [^c22009631]: Marginal citation: Section 176A was inserted by the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 252](https://www.legislation.gov.uk/ukpga/2002/40/section/252).
 
-[^key-5eef8a9481437d9a758bbc3eb3d012fb]: Textual amendment: Sch. 5 para. 1A inserted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2014/1822/article/8/a)
+[^c-5eef8a9481437d9a758bbc3eb3d012fb]: Textual amendment: Sch. 5 para. 1A inserted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2014/1822/article/8/a)
 
 [^c22009641]: Marginal citation: [S.I. 2005/590](https://www.legislation.gov.uk/uksi/2005/590); relevant amending instruments are [S.I. 2005/993](https://www.legislation.gov.uk/uksi/2005/993); 2005/2153 and 2009/451.
 
@@ -82,4 +82,4 @@ The Insurers (Reorganisation and Winding Up) Regulations 2004 have effect in rel
 
 [^c22009661]: Marginal citation: [S.I. 2001/2634](https://www.legislation.gov.uk/uksi/2001/2634).
 
-[^key-47d2270bc4453f005eddf54463f3b1c3]: Textual amendment: Words in Sch. 5 para. 3(2)(b) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2014/1822/article/8/b)
+[^c-47d2270bc4453f005eddf54463f3b1c3]: Textual amendment: Words in Sch. 5 para. 3(2)(b) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2014/1822/article/8/b)

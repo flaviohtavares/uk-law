@@ -27,7 +27,7 @@ summary: ''
 - (a) a notice under this Article may not specify as the date on which the Department intends to cease to maintain such a school a date falling less than two years after the date of the notice; and
 - (b) before giving such a notice the Department shall consult—
   - (i) the Board of Governors of the school;
-  - (ii) the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] for the area in which the school is situated; and
+  - (ii) the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] for the area in which the school is situated; and
   - (iii) the Council for Catholic Maintained Schools.
 
 (3) Paragraph (2) shall not apply where the Department is satisﬁed, in the case of any grant‐maintained integrated school, that the school as currently constituted or conducted is unsuitable to continue as a grant‐maintained integrated school on all or any of the following grounds—
@@ -35,7 +35,7 @@ summary: ''
 - (a) that the number of registered pupils at the school is too small for suﬃcient and suitable instruction to be provided for them at reasonable cost;
 - (b) that the Board of Governors has failed for a signiﬁcant period of time to carry out its duties under Part III;
 - (c) that the Board of Governors has been guilty of substantial or persistent failure to comply or secure compliance with any other requirement imposed by or under this Order or any other statutory provision;
-- (d) that the school is not provide integrated education[^key-cba85b4e617edd659041ed6e943ef5a9].
+- (d) that the school is not provide integrated education[^c-cba85b4e617edd659041ed6e943ef5a9].
 
 (4) In any case within paragraph (3), the Department may give to the Board of Governors of the school a notice stating the grounds on which it considers that the school as currently constituted or conducted is unsuitable to continue as a grant‐maintained integrated school together with full particulars of the matters relevant to each such ground.
 
@@ -75,6 +75,6 @@ summary: ''
 
 [^c17609921]: Textual amendment: prosp. rep. by [1998 NI 13](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-cba85b4e617edd659041ed6e943ef5a9]: Textual amendment: Words in [art. 81(3)(d)](https://www.legislation.gov.uk/nisi/1989/2406/article/81/3/d) substituted (26.10.2022) by [Integrated Education Act (Northern Ireland) 2022 (c. 15)](https://www.legislation.gov.uk/nia/2022/15), [ss. 13(5)](https://www.legislation.gov.uk/nia/2022/15/section/13/5), [15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-cba85b4e617edd659041ed6e943ef5a9]: Textual amendment: Words in [art. 81(3)(d)](https://www.legislation.gov.uk/nisi/1989/2406/article/81/3/d) substituted (26.10.2022) by [Integrated Education Act (Northern Ireland) 2022 (c. 15)](https://www.legislation.gov.uk/nia/2022/15), [ss. 13(5)](https://www.legislation.gov.uk/nia/2022/15/section/13/5), [15](https://www.legislation.gov.uk/nia/2022/15/section/15)

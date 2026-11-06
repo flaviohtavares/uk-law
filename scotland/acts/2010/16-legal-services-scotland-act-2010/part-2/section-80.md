@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Levy payable by regulators[^key-0358c46c4dd10f9dec178088144ad8b4]
+## 80. Levy payable by regulators[^c-0358c46c4dd10f9dec178088144ad8b4]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0358c46c4dd10f9dec178088144ad8b4]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2010/16/section/80) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/152/article/4))
+[^c-0358c46c4dd10f9dec178088144ad8b4]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2010/16/section/80) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/152/article/4))

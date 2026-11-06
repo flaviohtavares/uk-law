@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Evidence to be produced when seeking recognition or enforcement[^key-1568ffe9d6648648fea331595e9ad8ef]
+## 21. Evidence to be produced when seeking recognition or enforcement[^c-1568ffe9d6648648fea331595e9ad8ef]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1568ffe9d6648648fea331595e9ad8ef]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2010/1/section/21) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-1568ffe9d6648648fea331595e9ad8ef]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2010/1/section/21) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

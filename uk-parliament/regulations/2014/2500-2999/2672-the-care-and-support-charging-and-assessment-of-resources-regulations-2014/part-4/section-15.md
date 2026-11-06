@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Other sums to be disregarded[^key-e664359b7356b8e0c207875cae964a86]
+## 15. Other sums to be disregarded[^c-e664359b7356b8e0c207875cae964a86]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e664359b7356b8e0c207875cae964a86]: Commencement: Reg. 15 in force at 1.4.2015 in accordance with reg. 1
+[^c-e664359b7356b8e0c207875cae964a86]: Commencement: Reg. 15 in force at 1.4.2015 in accordance with reg. 1

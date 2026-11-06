@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36C. Power to direct a modification of the UNC[^key-fb8bda44b08b548a622ba151916a316e]
+## 36C. Power to direct a modification of the UNC[^c-fb8bda44b08b548a622ba151916a316e]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb8bda44b08b548a622ba151916a316e]: Textual amendment: S. 36C inserted (18.10.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 81(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/81/1), [121(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/4) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/81/2))
+[^c-fb8bda44b08b548a622ba151916a316e]: Textual amendment: S. 36C inserted (18.10.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 81(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/81/1), [121(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/4) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/81/2))

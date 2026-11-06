@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77E. Display of VAT registration numbers[^key-ccec30cf7e70479caf04fdc2b2a86d5c]
+## 77E. Display of VAT registration numbers[^c-ccec30cf7e70479caf04fdc2b2a86d5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,11 +49,11 @@ summary: ''
 
 (9) In this section—
 
-- [^key-6f7399d78476d9d3d6cbd8715b754541]...
+- [^c-6f7399d78476d9d3d6cbd8715b754541]...
 - “**VAT registration number**” means the number allocated by the Commissioners to a person registered under this Act.
 
 ## Annotations
 
-[^key-ccec30cf7e70479caf04fdc2b2a86d5c]: Textual amendment: S. 77E inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(8)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/8)
+[^c-ccec30cf7e70479caf04fdc2b2a86d5c]: Textual amendment: S. 77E inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 38(8)](https://www.legislation.gov.uk/ukpga/2018/3/section/38/8)
 
-[^key-6f7399d78476d9d3d6cbd8715b754541]: Textual amendment: Words in s. 77E(9) omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/12) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-6f7399d78476d9d3d6cbd8715b754541]: Textual amendment: Words in s. 77E(9) omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/12) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

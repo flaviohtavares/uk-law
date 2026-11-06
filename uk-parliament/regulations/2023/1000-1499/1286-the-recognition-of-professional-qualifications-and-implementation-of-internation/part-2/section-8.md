@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Refusal to recognise professional qualifications[^key-49ef902e15bf10c25dfec773c9699419]
+## 8. Refusal to recognise professional qualifications[^c-49ef902e15bf10c25dfec773c9699419]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49ef902e15bf10c25dfec773c9699419]: Commencement: Reg. 8 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-49ef902e15bf10c25dfec773c9699419]: Commencement: Reg. 8 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)

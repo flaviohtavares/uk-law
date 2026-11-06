@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Motor Cycle (EC Type Approval) (Amendment) Regulations 1997 (revoked)[^key-a1a14a5f0b42bafdb3074cbf48f6ca6f]
+The Motor Cycle (EC Type Approval) (Amendment) Regulations 1997 (revoked)[^c-a1a14a5f0b42bafdb3074cbf48f6ca6f]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 22nd October 1997
 
-[^key-a1a14a5f0b42bafdb3074cbf48f6ca6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1a14a5f0b42bafdb3074cbf48f6ca6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Commencement, citation and extent[^key-a1a14a5f0b42bafdb3074cbf48f6ca6f]
+## 1. Commencement, citation and extent[^c-a1a14a5f0b42bafdb3074cbf48f6ca6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Schedule[^key-a1a14a5f0b42bafdb3074cbf48f6ca6f]
+## 2. Amendment to Schedule[^c-a1a14a5f0b42bafdb3074cbf48f6ca6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1a14a5f0b42bafdb3074cbf48f6ca6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1a14a5f0b42bafdb3074cbf48f6ca6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a1a14a5f0b42bafdb3074cbf48f6ca6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1a14a5f0b42bafdb3074cbf48f6ca6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1a14a5f0b42bafdb3074cbf48f6ca6f]: Textual amendment: Regulations revoked (30.11.1999) by [The Motor Cycles Etc. (EC Type Approval) Regulations 1999 (S.I. 1999/2920)](https://www.legislation.gov.uk/uksi/1999/2920), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2920/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1999/2920/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2920/regulation/4))
+[^c-a1a14a5f0b42bafdb3074cbf48f6ca6f]: Textual amendment: Regulations revoked (30.11.1999) by [The Motor Cycles Etc. (EC Type Approval) Regulations 1999 (S.I. 1999/2920)](https://www.legislation.gov.uk/uksi/1999/2920), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2920/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1999/2920/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/2920/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Resignation[^key-5ddc8f8566e97098f0a1ea1ea62a3fec]
+## 74. Resignation[^c-5ddc8f8566e97098f0a1ea1ea62a3fec]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A member of the creditors’ committee may resign by notice in writing delivered
 
 ## Annotations
 
-[^key-5ddc8f8566e97098f0a1ea1ea62a3fec]: Commencement: [Rule 74](https://www.legislation.gov.uk/nisr/2026/11/rule/74) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-5ddc8f8566e97098f0a1ea1ea62a3fec]: Commencement: [Rule 74](https://www.legislation.gov.uk/nisr/2026/11/rule/74) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

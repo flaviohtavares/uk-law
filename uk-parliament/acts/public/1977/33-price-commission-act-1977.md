@@ -58,7 +58,7 @@ An Act to make further provision about the Price Commission and prices and charg
 (2) Accordingly—
 
 - (a) in subsection (2) of that section (which contains supplementary provisions relating to an order under that section), after the words “this section” there shall be inserted the words “may specify the kinds of goods or services to which and the circumstances in which the order applies and” and after the words “price” and “goods” wherever they occur there shall be inserted respectively the words “or charge” and “or services”; and
-- (b)[^key-b9fce429ddde29fdd1d9b85a8bde33aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b9fce429ddde29fdd1d9b85a8bde33aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5) of that section (which among other things provides that an order under that section made by the Department of Commerce for Northern Ireland shall be subject to negative resolution as provided by that subsection) before the word “subject” there shall be inserted the words “a statutory rule for the purposes of the Statutory Rules Act (Northern Ireland) 1958 and be”.
 
@@ -113,7 +113,7 @@ Section 15(4).
 
 [^c726101]: Marginal citation: [1974 c. 24](https://www.legislation.gov.uk/ukpga/1974/24).
 
-[^key-b9fce429ddde29fdd1d9b85a8bde33aa]: Textual amendment: [S. 16(2)(b)](https://www.legislation.gov.uk/ukpga/1977/33/section/16/2/b) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-b9fce429ddde29fdd1d9b85a8bde33aa]: Textual amendment: [S. 16(2)(b)](https://www.legislation.gov.uk/ukpga/1977/33/section/16/2/b) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c726102]: Marginal citation: [1974 c. 24](https://www.legislation.gov.uk/ukpga/1974/24).
 

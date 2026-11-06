@@ -22,21 +22,21 @@ summary: ''
 
 Regulation 9
 
-**1.**[^key-503f233e3ffd5b38f7a92a6ba5d4bc25] The Trade Marks Rules are amended as follows.
+**1.**[^c-503f233e3ffd5b38f7a92a6ba5d4bc25] The Trade Marks Rules are amended as follows.
 
-**2.**[^key-bab36f1980fb371382aaf0cecf55c31b] In rule 2, after paragraph (2) insert—
+**2.**[^c-bab36f1980fb371382aaf0cecf55c31b] In rule 2, after paragraph (2) insert—
 
 > (2A) Terms defined in Part 5 of Schedules 2A and 2B have the same meaning in these Rules.
 
 .
 
-**3.**[^key-65bdb96413bed383565e780898d0528e] Before rule 3 insert—
+**3.**[^c-65bdb96413bed383565e780898d0528e] Before rule 3 insert—
 
 > **2B. Comparable trade mark (IR)**
 >
 > These Rules apply to a comparable trade mark (IR) as they apply to other registered trade marks.
 
-**4.**[^key-54c5f606ca7645313bb8969c03700cf6] After rule 4 insert—
+**4.**[^c-54c5f606ca7645313bb8969c03700cf6] After rule 4 insert—
 
 > **4A. Prescribed comparable trade mark (IR) fees**
 >
@@ -44,7 +44,7 @@ Regulation 9
 
 .
 
-**5.**[^key-bde073acfe683568439687e3b07c33f2] Before rule 6 insert—
+**5.**[^c-bde073acfe683568439687e3b07c33f2] Before rule 6 insert—
 
 > **5B. Application for registration based upon an existing ITM application, existing request for EU extension or transformation application; Schedule 2B paragraph 28, 29 or 33**
 >
@@ -71,19 +71,19 @@ Regulation 9
 > - (a) the date referred to in paragraph (1)(b) in respect of the existing ITM application, existing request for EU extension or transformation application, the representation of the mark and the goods or services covered by that application; and
 > - (b) in relation to a priority claim, the date of filing of the overseas application, the country or registering or competent authority, the representation of the mark and the goods or services covered by the overseas application.
 
-**6.**[^key-dc6a6db8129197ec6c3ed2b45963240f] In rule 14, after paragraph (3) insert—
+**6.**[^c-dc6a6db8129197ec6c3ed2b45963240f] In rule 14, after paragraph (3) insert—
 
 > (3A) References in paragraph (2) to the proprietor of a trade mark also include a person who has applied for registration of a trade mark which, if registered, would be an earlier trade mark by virtue of section 6(1)(ab).
 
 .
 
-**7.**[^key-5a74fb7472c8e0b6fcbc7d43be8112b5] Before rule 30 insert—
+**7.**[^c-5a74fb7472c8e0b6fcbc7d43be8112b5] Before rule 30 insert—
 
 > **29B. Filing of regulations for International collective and certification marks; Schedule 2B, paragraph 4**
 >
 > Regulations governing the use of a comparable trade mark (IR) which is a collective mark or a certification mark and any translation required to be filed under paragraph 4 of Schedule 2B must be filed within a period of three months following the date of notice from the registrar.
 
-**8.**[^key-aa457d2c5c49ccedf42551be7bd3148c] (1) Rule 47 is amended as follows.
+**8.**[^c-aa457d2c5c49ccedf42551be7bd3148c] (1) Rule 47 is amended as follows.
 
 (2) After paragraph (a) insert—
 
@@ -116,18 +116,18 @@ Regulation 9
 
 ## Annotations
 
-[^key-503f233e3ffd5b38f7a92a6ba5d4bc25]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-503f233e3ffd5b38f7a92a6ba5d4bc25]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-bab36f1980fb371382aaf0cecf55c31b]: Commencement: Sch. 7 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-bab36f1980fb371382aaf0cecf55c31b]: Commencement: Sch. 7 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-65bdb96413bed383565e780898d0528e]: Commencement: Sch. 7 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-65bdb96413bed383565e780898d0528e]: Commencement: Sch. 7 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-54c5f606ca7645313bb8969c03700cf6]: Commencement: Sch. 7 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-54c5f606ca7645313bb8969c03700cf6]: Commencement: Sch. 7 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-bde073acfe683568439687e3b07c33f2]: Commencement: Sch. 7 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-bde073acfe683568439687e3b07c33f2]: Commencement: Sch. 7 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-dc6a6db8129197ec6c3ed2b45963240f]: Commencement: Sch. 7 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-dc6a6db8129197ec6c3ed2b45963240f]: Commencement: Sch. 7 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-5a74fb7472c8e0b6fcbc7d43be8112b5]: Commencement: Sch. 7 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-5a74fb7472c8e0b6fcbc7d43be8112b5]: Commencement: Sch. 7 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-aa457d2c5c49ccedf42551be7bd3148c]: Commencement: Sch. 7 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-aa457d2c5c49ccedf42551be7bd3148c]: Commencement: Sch. 7 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

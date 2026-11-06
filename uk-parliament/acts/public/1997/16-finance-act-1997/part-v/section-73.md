@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Tax advantages to include tax credits.[^key-e38dcca86c7bc04ae67d20c4ca74c6a0]
+## 73. Tax advantages to include tax credits.[^c-e38dcca86c7bc04ae67d20c4ca74c6a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e38dcca86c7bc04ae67d20c4ca74c6a0]: Textual amendment: [S. 73](https://www.legislation.gov.uk/ukpga/1997/16/section/73) omitted (with effect in accordance with s. 66(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/3/a)
+[^c-e38dcca86c7bc04ae67d20c4ca74c6a0]: Textual amendment: [S. 73](https://www.legislation.gov.uk/ukpga/1997/16/section/73) omitted (with effect in accordance with s. 66(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/3/a)

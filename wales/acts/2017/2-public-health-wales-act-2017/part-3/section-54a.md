@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54A. Power to extend this Chapter to other products[^key-cf30779266d26eb6087114c72d5d0e4f]
+## 54A. Power to extend this Chapter to other products[^c-cf30779266d26eb6087114c72d5d0e4f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf30779266d26eb6087114c72d5d0e4f]: Textual amendment: [S. 54A](https://www.legislation.gov.uk/anaw/2017/2/section/54A) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2026/18/schedule/5/paragraph/11)
+[^c-cf30779266d26eb6087114c72d5d0e4f]: Textual amendment: [S. 54A](https://www.legislation.gov.uk/anaw/2017/2/section/54A) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/5), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2026/18/schedule/5/paragraph/11)

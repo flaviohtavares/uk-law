@@ -43,7 +43,7 @@ summary: ''
 
 - (a) a former trustee or manager of the scheme;
 - (b) a former member of the scheme or his appointed representative;
-- (c) a surviving partner[^key-dc48d6fca59cb0fc8f4bd7b3236a483d] spouse or civil partner of a former member of the scheme who has died;
+- (c) a surviving partner[^c-dc48d6fca59cb0fc8f4bd7b3236a483d] spouse or civil partner of a former member of the scheme who has died;
 - (d) any former professional adviser in relation to the scheme; or
 - (e) any insurance company which is paying annuities to former members of that scheme.
 
@@ -52,12 +52,12 @@ summary: ''
 - (a) be notified in writing; and
 - (b) have been notified to the scheme manager—
   - (i) no earlier than 1<sup>st</sup> September 2005; but
-  - (ii) by no later than 28<sup>th</sup> February 2006 or by no later than such later date by which the scheme manager has indicated that it[^key-967705ccd4da4c290d16b155231fd661] may accept notification of those details in the case of any particular scheme.
+  - (ii) by no later than 28<sup>th</sup> February 2006 or by no later than such later date by which the scheme manager has indicated that it[^c-967705ccd4da4c290d16b155231fd661] may accept notification of those details in the case of any particular scheme.
 
 ## Annotations
 
 [^c1313072]: Marginal citation: Section 7 is amended by the Act, Schedule 12, paragraph 36. Section 23 is substituted by section 36(3) of the Act.
 
-[^key-dc48d6fca59cb0fc8f4bd7b3236a483d]: Textual amendment: Word in reg. 14(4)(c) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/1851/regulation/9) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-dc48d6fca59cb0fc8f4bd7b3236a483d]: Textual amendment: Word in reg. 14(4)(c) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [9](https://www.legislation.gov.uk/uksi/2009/1851/regulation/9) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-967705ccd4da4c290d16b155231fd661]: Textual amendment: Word in reg. 14(5)(b)(ii) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/1/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-967705ccd4da4c290d16b155231fd661]: Textual amendment: Word in reg. 14(5)(b)(ii) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/1/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))

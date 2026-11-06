@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Prosecution of children[^key-2455c67d160e6c99979859fc54e8954b]
+## 52. Prosecution of children[^c-2455c67d160e6c99979859fc54e8954b]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2455c67d160e6c99979859fc54e8954b]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2010/13/section/52) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-2455c67d160e6c99979859fc54e8954b]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2010/13/section/52) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

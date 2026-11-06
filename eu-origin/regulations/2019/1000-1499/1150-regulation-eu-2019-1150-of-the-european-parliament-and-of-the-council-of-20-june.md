@@ -267,15 +267,15 @@ HAVE ADOPTED THIS REGULATION:
 
 ## Article 1. Subject matter and scope
 
-1. The purpose of this Regulation is to lay[^key-a92ca46af7feaee62fa47ad39fcbf9f2] down rules to ensure that business users of online intermediation services and corporate website users in relation to online search engines are granted appropriate transparency, fairness and effective redress possibilities.
+1. The purpose of this Regulation is to lay[^c-a92ca46af7feaee62fa47ad39fcbf9f2] down rules to ensure that business users of online intermediation services and corporate website users in relation to online search engines are granted appropriate transparency, fairness and effective redress possibilities.
 
-2. This Regulation shall apply to online intermediation services and online search engines provided, or offered to be provided, to business users and corporate website users, respectively, that have their place of establishment or residence in the United Kingdom[^key-e67d999bfb50a40996eef706a6009971] and that, through those online intermediation services or online search engines, offer goods or services to consumers located in the United Kingdom, irrespective of the place of establishment or residence of the providers of those services and irrespective of the law otherwise applicable.
+2. This Regulation shall apply to online intermediation services and online search engines provided, or offered to be provided, to business users and corporate website users, respectively, that have their place of establishment or residence in the United Kingdom[^c-e67d999bfb50a40996eef706a6009971] and that, through those online intermediation services or online search engines, offer goods or services to consumers located in the United Kingdom, irrespective of the place of establishment or residence of the providers of those services and irrespective of the law otherwise applicable.
 
 3. This Regulation shall not apply to online payment services or to online advertising tools or online advertising exchanges, which are not provided with the aim of the facilitating the initiation of direct transactions and which do not involve a contractual relationship with consumers.
 
-4. This Regulation shall be without prejudice to law which prohibits or sanctions[^key-dd6d8ed3d4980cce07db65931c686e81] unilateral conduct or unfair commercial practices, to the extent that the relevant aspects are not covered by this Regulation. [^key-fcc3262fe3c86c3c5bd8468d36885665]...
+4. This Regulation shall be without prejudice to law which prohibits or sanctions[^c-dd6d8ed3d4980cce07db65931c686e81] unilateral conduct or unfair commercial practices, to the extent that the relevant aspects are not covered by this Regulation. [^c-fcc3262fe3c86c3c5bd8468d36885665]...
 
-5. This Regulation shall be without prejudice to assimilated[^key-67b56f0e5ba32643f20b9bda771d2ffa][^key-3ad833fe33913f8719c81a38fe21f86e] law applicable in the areas of judicial cooperation in civil matters, competition, data protection, trade secrets protection, consumer protection, electronic commerce and financial services.
+5. This Regulation shall be without prejudice to assimilated[^c-67b56f0e5ba32643f20b9bda771d2ffa][^c-3ad833fe33913f8719c81a38fe21f86e] law applicable in the areas of judicial cooperation in civil matters, competition, data protection, trade secrets protection, consumer protection, electronic commerce and financial services.
 
 ## Article 2. Definitions
 
@@ -292,10 +292,10 @@ For the purposes of this Regulation, the following definitions apply:
 - ((6)) ‘provider of online search engine’ means any natural or legal person which provides, or which offers to provide, online search engines to consumers;
 - ((7)) ‘corporate website user’ means any natural or legal person which uses an online interface, meaning any software, including a website or a part thereof and applications, including mobile applications, to offer goods or services to consumers for purposes relating to its trade, business, craft or profession;
 - ((8)) ‘ranking’ means the relative prominence given to the goods or services offered through online intermediation services, or the relevance given to search results by online search engines, as presented, organised or communicated by the providers of online intermediation services or by providers of online search engines, respectively, irrespective of the technological means used for such presentation, organisation or communication;
-- ((9)) ‘control’ means ownership of, or the ability to exercise decisive influence over, an undertaking, within the meaning of Article 3(2) of Council Regulation (EC) No 139/2004[^f00013] as that Regulation had effect in the United Kingdom immediately before IP completion day[^key-9cb1062a1c115b36ac68e2f9ee666589];
+- ((9)) ‘control’ means ownership of, or the ability to exercise decisive influence over, an undertaking, within the meaning of Article 3(2) of Council Regulation (EC) No 139/2004[^f00013] as that Regulation had effect in the United Kingdom immediately before IP completion day[^c-9cb1062a1c115b36ac68e2f9ee666589];
 - ((10)) ‘terms and conditions’ means all terms and conditions or specifications, irrespective of their name or form, which govern the contractual relationship between the provider of online intermediation services and its business users and are unilaterally determined by the provider of online intermediation services, that unilateral determination being evaluated on the basis of an overall assessment, for which the relative size of the parties concerned, the fact that a negotiation took place, or that certain provisions thereof might have been subject to such a negotiation and determined together by the relevant provider and business user is not, in itself, decisive;
 - ((11)) ‘ancillary goods and services’ means goods and services offered to the consumer prior to the completion of a transaction initiated on the online intermediation services in addition to and complementary to the primary good or service offered by the business user through the online intermediation services;
-- ((12)) ‘mediation’ means any structured process as defined in Article 3(a) of[^key-df7c86648ddb93a2bae66ac89ece88d6] [Directive 2008/52/EC](https://www.legislation.gov.uk/european/directive/2008/0052), except that for the purposes of construing that expression:
+- ((12)) ‘mediation’ means any structured process as defined in Article 3(a) of[^c-df7c86648ddb93a2bae66ac89ece88d6] [Directive 2008/52/EC](https://www.legislation.gov.uk/european/directive/2008/0052), except that for the purposes of construing that expression:
   - Article 3(a) of that Directive is to be read as if for “the law of a Member State” there were substituted “law”;
   - Article 3(b) of that Directive is to be read as if “in the Member State concerned” were omitted;
 - ((13)) ‘durable medium’ means any instrument which enables business users to store information addressed personally to them in a way accessible for future reference and for a period of time adequate for the purposes of the information and allows the unchanged reproduction of the information stored.
@@ -340,7 +340,7 @@ During the notice period, submitting new goods or services to the online interme
 4. The notice period in paragraph 2 shall not apply where a provider of online intermediation services:
 
 - (a) is subject to a legal or regulatory obligation which requires it to terminate the provision of the whole of its online intermediation services to a given business user in a manner which does not allow it to respect that notice period; or
-- (b) exercises a right of termination under an imperative reason pursuant to the law[^key-46cd684cd3d18cc2eb37145db412f226];
+- (b) exercises a right of termination under an imperative reason pursuant to the law[^c-46cd684cd3d18cc2eb37145db412f226];
 - (c) can demonstrate that the business user concerned has repeatedly infringed the applicable terms and conditions, resulting in the termination of the provision of the whole of the online intermediation services in question.
 
 In cases where the notice period in paragraph 2 does not apply, the provider of online intermediation services shall provide the business user concerned, without undue delay, with a statement of reasons for that decision on a durable medium.
@@ -365,9 +365,9 @@ A provider of online intermediation services does not have to provide a statemen
 - (b) the relevance of those characteristics for those consumers;
 - (c) as regards online search engines, the design characteristics of the website used by corporate website users.
 
-6. Providers of online intermediation services and providers of online search engines shall, when complying with the requirements of this Article, not be required to disclose algorithms or any information that, with reasonable certainty, would result in the enabling of deception of consumers or consumer harm through the manipulation of search results. [^key-93d0e6938e208bc0090ec22915717142]...
+6. Providers of online intermediation services and providers of online search engines shall, when complying with the requirements of this Article, not be required to disclose algorithms or any information that, with reasonable certainty, would result in the enabling of deception of consumers or consumer harm through the manipulation of search results. [^c-93d0e6938e208bc0090ec22915717142]...
 
-7.[^key-330a35fc10e8704e85b16239dbd02daf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.[^c-330a35fc10e8704e85b16239dbd02daf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 6. Ancillary goods and services
 
@@ -405,13 +405,13 @@ In order to ensure that contractual relations between providers of online interm
 - (c) in addition to point (b), whether a business user has access to personal data or other data, or both, including in aggregated form, provided by or generated through the provision of the online intermediation services to all of the business users and consumers thereof, and if so, to which categories of such data and under what conditions; and
 - (d) whether any data under point (a) is provided to third parties, along with, where the provision of such data to third parties is not necessary for the proper functioning of the online intermediation services, information specifying the purpose of such data sharing, as well as possibilities for business users to opt out from that data sharing.
 
-3. This Article shall be without prejudice to the application of data protection legislation within the meaning of section 3(9) of the Data Protection Act 2018[^key-9a39c04a5ccc37a4ec21d75a369985da].
+3. This Article shall be without prejudice to the application of data protection legislation within the meaning of section 3(9) of the Data Protection Act 2018[^c-9a39c04a5ccc37a4ec21d75a369985da].
 
 ## Article 10. Restrictions to offer different conditions through other means
 
 1. Where, in the provision of their services, providers of online intermediation services restrict the ability of business users to offer the same goods and services to consumers under different conditions through other means than through those services, they shall include the grounds for that restriction in their terms and conditions and make those grounds easily available to the public. Those grounds shall include the main economic, commercial or legal considerations for those restrictions.
 
-2. The obligation set out in paragraph 1 shall not affect any prohibitions or limitations in respect of the imposition of such restrictions that result from the application of other law[^key-b754284060aa2ca7f36fe989d6558a29] to which the providers of online intermediation services are subject.
+2. The obligation set out in paragraph 1 shall not affect any prohibitions or limitations in respect of the imposition of such restrictions that result from the application of other law[^c-b754284060aa2ca7f36fe989d6558a29] to which the providers of online intermediation services are subject.
 
 ## Article 11. Internal complaint-handling system
 
@@ -441,7 +441,7 @@ That information shall include the total number of complaints lodged, the main t
 
 1. Providers of online intermediation services shall identify in their terms and conditions two or more mediators with which they are willing to engage to attempt to reach an agreement with business users on the settlement, out of court, of any disputes between the provider and the business user arising in relation to the provision of the online intermediation services concerned, including complaints that could not be resolved by means of the internal complaint-handling system referred to in Article 11.
 
-Providers of online intermediation services may only identify mediators providing their mediation services from a location outside the United Kingdom[^key-aba8163670ac209b7176f91b8ab30da6] where it is ensured that the business users concerned are not effectively deprived of the benefit of any legal safeguards [^key-03866d09c27ed595d99964894784c178]... as a consequence of the mediators providing those services from outside the United Kingdom.
+Providers of online intermediation services may only identify mediators providing their mediation services from a location outside the United Kingdom[^c-aba8163670ac209b7176f91b8ab30da6] where it is ensured that the business users concerned are not effectively deprived of the benefit of any legal safeguards [^c-03866d09c27ed595d99964894784c178]... as a consequence of the mediators providing those services from outside the United Kingdom.
 
 2. The mediators referred to in paragraph 1 shall meet the following requirements:
 
@@ -462,63 +462,63 @@ Providers of online intermediation services may only identify mediators providin
 
 7. The obligation set out in paragraph 1 shall not apply to providers of online intermediation services that are small enterprises within the meaning of the Annex to Recommendation 2003/361/EC.
 
-## Article 13. Specialised mediators[^key-e6e55f4567d9e481b25fbcf89cf90b6f]
+## Article 13. Specialised mediators[^c-e6e55f4567d9e481b25fbcf89cf90b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 14. Judicial proceedings by representative organisations or associations and by public bodies
 
-1. Organisations and associations that have a legitimate interest in representing business users or in representing corporate website users have the right to take action before a court listed in paragraph 1A[^key-f9b49414b70c464248594d55372a64aa] to stop or prohibit any non-compliance by providers of online intermediation services or by providers of online search engines, with the relevant requirements laid down in this Regulation.
+1. Organisations and associations that have a legitimate interest in representing business users or in representing corporate website users have the right to take action before a court listed in paragraph 1A[^c-f9b49414b70c464248594d55372a64aa] to stop or prohibit any non-compliance by providers of online intermediation services or by providers of online search engines, with the relevant requirements laid down in this Regulation.
 
-1A.[^key-adb099f53dd81cf5bab3f430cca006a0] The courts referred to in paragraph 1 are:
+1A.[^c-adb099f53dd81cf5bab3f430cca006a0] The courts referred to in paragraph 1 are:
 
 - (a) in relation to England and Wales, the county court or the High Court;
 - (b) in relation to Northern Ireland, a county court or the High Court;
 - (c) in relation to Scotland, the sheriff court or the Court of Session.
 
-2.[^key-ab9d096c2a707d7ce244d137c203ee87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-ab9d096c2a707d7ce244d137c203ee87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 3. Organisations or associations shall have the right referred to in paragraph 1 only where they meet all of the following requirements:
 
-- (a) they are properly established in accordance with the law of the United Kingdom or any part of it[^key-d615cf366749888506ce7cf14235da79];
+- (a) they are properly established in accordance with the law of the United Kingdom or any part of it[^c-d615cf366749888506ce7cf14235da79];
 - (b) they pursue objectives that are in the collective interest of the group of business users or corporate website users that they represent on a sustained basis;
 - (c) they are of a non-profit making character;
 - (d) their decision-making is not unduly influenced by any third party providers of financing, in particular by providers of online intermediation services or of online search engines.
 
 To this end, organisations or associations shall fully and publicly disclose information on their membership and source of financing.
 
-4.[^key-700fe25609df604ad6f49eda2bb46e3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-700fe25609df604ad6f49eda2bb46e3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5. The Secretary of State[^key-144bd554869107fc755439e2ad5a4a8c] may designate:
+5. The Secretary of State[^c-144bd554869107fc755439e2ad5a4a8c] may designate:
 
-- (a) organisations or associations established in the United Kingdom[^key-b4b9c718808bb3e16cd92118f82b02f1] that meet at least the requirements of paragraph 3 at the request of those organisations or associations;
-- (b)[^key-ff96f3ad45ee38c6994f10ed512fda77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) organisations or associations established in the United Kingdom[^c-b4b9c718808bb3e16cd92118f82b02f1] that meet at least the requirements of paragraph 3 at the request of those organisations or associations;
+- (b)[^c-ff96f3ad45ee38c6994f10ed512fda77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-that are granted the right referred to in paragraph 1. [^key-85c16de846bf20da5cc73fc45af1ea1d]...
+that are granted the right referred to in paragraph 1. [^c-85c16de846bf20da5cc73fc45af1ea1d]...
 
-6.[^key-ccf6ab89a6b0de7ae1b0da5b35d545f6] The Secretary of State must publish a list of any organisations or associations designated in accordance with paragraph 5. The list must specify the purpose of those organisations and associations. Changes to the list must be published as soon as is reasonably practicable.
+6.[^c-ccf6ab89a6b0de7ae1b0da5b35d545f6] The Secretary of State must publish a list of any organisations or associations designated in accordance with paragraph 5. The list must specify the purpose of those organisations and associations. Changes to the list must be published as soon as is reasonably practicable.
 
-7. The court shall accept the list referred to in paragraph 6 as proof of the legal capacity of the organisation or association[^key-18033f990efcd5bb0e2285226830e720], without prejudice to the court’s right to examine whether the purpose of the claimant justifies its taking action in a specific case.
+7. The court shall accept the list referred to in paragraph 6 as proof of the legal capacity of the organisation or association[^c-18033f990efcd5bb0e2285226830e720], without prejudice to the court’s right to examine whether the purpose of the claimant justifies its taking action in a specific case.
 
-8.[^key-7737b679192d9cf3ab1fae001250f0bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8.[^c-7737b679192d9cf3ab1fae001250f0bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-9. The right referred to in paragraph 1 shall be without prejudice to the rights of business users and corporate website users to start any action [^key-b6486a25b13ec80bbe10f5a70dc96d97]... which is based on individual rights and aims to stop any non-compliance, by providers of online intermediation services or providers of online search engines, with the relevant requirements laid down in this Regulation.
+9. The right referred to in paragraph 1 shall be without prejudice to the rights of business users and corporate website users to start any action [^c-b6486a25b13ec80bbe10f5a70dc96d97]... which is based on individual rights and aims to stop any non-compliance, by providers of online intermediation services or providers of online search engines, with the relevant requirements laid down in this Regulation.
 
-## Article 15. Enforcement[^key-807b591997094a95163206669966e4ce]
+## Article 15. Enforcement[^c-807b591997094a95163206669966e4ce]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Monitoring[^key-807b591997094a95163206669966e4ce]
+## Article 16. Monitoring[^c-807b591997094a95163206669966e4ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Codes of conduct[^key-807b591997094a95163206669966e4ce]
+## Article 17. Codes of conduct[^c-807b591997094a95163206669966e4ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Review[^key-807b591997094a95163206669966e4ce]
+## Article 18. Review[^c-807b591997094a95163206669966e4ce]
 
 **No longer in force.**
 
@@ -530,7 +530,7 @@ that are granted the right referred to in paragraph 1. [^key-85c16de846bf20da5cc
 
 2. It shall apply from 12 July 2020.
 
-[^key-90a6e78fa7caa2af48738184cc3cace1]...
+[^c-90a6e78fa7caa2af48738184cc3cace1]...
 
 Done at Brussels, 20 June 2019.
 
@@ -570,68 +570,68 @@ G. CIAMBA
 
 [^f00011]: Footnote: Council Decision 2010/48/EC of 26 November 2009 concerning the conclusion, by the European Community, of the United Nations Convention on the Rights of Persons with Disabilities ([OJ L 23, 27.1.2010, p. 37](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.023.01.0037.01.ENG)).
 
-[^key-a92ca46af7feaee62fa47ad39fcbf9f2]: Textual amendment: Word in [Art. 1(1)](https://www.legislation.gov.uk/eur/2019/1150/article/1/1) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/a)
+[^c-a92ca46af7feaee62fa47ad39fcbf9f2]: Textual amendment: Word in [Art. 1(1)](https://www.legislation.gov.uk/eur/2019/1150/article/1/1) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/a)
 
-[^key-e67d999bfb50a40996eef706a6009971]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2019/1150/article/1/2) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/b)
+[^c-e67d999bfb50a40996eef706a6009971]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2019/1150/article/1/2) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/b)
 
-[^key-dd6d8ed3d4980cce07db65931c686e81]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2019/1150/article/1/4) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/c/i)
+[^c-dd6d8ed3d4980cce07db65931c686e81]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2019/1150/article/1/4) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/c/i)
 
-[^key-fcc3262fe3c86c3c5bd8468d36885665]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2019/1150/article/1/4) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/c/ii)
+[^c-fcc3262fe3c86c3c5bd8468d36885665]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2019/1150/article/1/4) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/c/ii)
 
-[^key-67b56f0e5ba32643f20b9bda771d2ffa]: Textual amendment: Word in [Art. 1(5)](https://www.legislation.gov.uk/eur/2019/1150/article/1/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 19](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/19)
+[^c-67b56f0e5ba32643f20b9bda771d2ffa]: Textual amendment: Word in [Art. 1(5)](https://www.legislation.gov.uk/eur/2019/1150/article/1/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 19](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/19)
 
-[^key-3ad833fe33913f8719c81a38fe21f86e]: Textual amendment: Words in [Art. 1(5)](https://www.legislation.gov.uk/eur/2019/1150/article/1/5) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/d)
+[^c-3ad833fe33913f8719c81a38fe21f86e]: Textual amendment: Words in [Art. 1(5)](https://www.legislation.gov.uk/eur/2019/1150/article/1/5) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2020/796/regulation/3/d)
 
 [^f00012]: Footnote: Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services ([OJ L 241, 17.9.2015, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.241.01.0001.01.ENG)).
 
 [^f00013]: Footnote: Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) ([OJ L 24, 29.1.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.024.01.0001.01.ENG)).
 
-[^key-9cb1062a1c115b36ac68e2f9ee666589]: Textual amendment: Words in [Art. 2(9)](https://www.legislation.gov.uk/eur/2019/1150/article/2/9) inserted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/4/a)
+[^c-9cb1062a1c115b36ac68e2f9ee666589]: Textual amendment: Words in [Art. 2(9)](https://www.legislation.gov.uk/eur/2019/1150/article/2/9) inserted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/4/a)
 
-[^key-df7c86648ddb93a2bae66ac89ece88d6]: Textual amendment: [Art. 2(12)](https://www.legislation.gov.uk/eur/2019/1150/article/2/12) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/4/b)
+[^c-df7c86648ddb93a2bae66ac89ece88d6]: Textual amendment: [Art. 2(12)](https://www.legislation.gov.uk/eur/2019/1150/article/2/12) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/4/b)
 
-[^key-46cd684cd3d18cc2eb37145db412f226]: Textual amendment: Words in [Art. 4(4)(b)](https://www.legislation.gov.uk/eur/2019/1150/article/4/4/b) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/796/regulation/5)
+[^c-46cd684cd3d18cc2eb37145db412f226]: Textual amendment: Words in [Art. 4(4)(b)](https://www.legislation.gov.uk/eur/2019/1150/article/4/4/b) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/796/regulation/5)
 
-[^key-93d0e6938e208bc0090ec22915717142]: Textual amendment: Words in [Art. 5(6)](https://www.legislation.gov.uk/eur/2019/1150/article/5/6) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/6/a)
+[^c-93d0e6938e208bc0090ec22915717142]: Textual amendment: Words in [Art. 5(6)](https://www.legislation.gov.uk/eur/2019/1150/article/5/6) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/6/a)
 
-[^key-330a35fc10e8704e85b16239dbd02daf]: Textual amendment: [Art. 5(7)](https://www.legislation.gov.uk/eur/2019/1150/article/5/7) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/6/b)
+[^c-330a35fc10e8704e85b16239dbd02daf]: Textual amendment: [Art. 5(7)](https://www.legislation.gov.uk/eur/2019/1150/article/5/7) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/6/b)
 
-[^key-9a39c04a5ccc37a4ec21d75a369985da]: Textual amendment: Words in [Art. 9(3)](https://www.legislation.gov.uk/eur/2019/1150/article/9/3) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/796/regulation/7)
+[^c-9a39c04a5ccc37a4ec21d75a369985da]: Textual amendment: Words in [Art. 9(3)](https://www.legislation.gov.uk/eur/2019/1150/article/9/3) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/796/regulation/7)
 
-[^key-b754284060aa2ca7f36fe989d6558a29]: Textual amendment: Word in [Art. 10(2)](https://www.legislation.gov.uk/eur/2019/1150/article/10/2) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/796/regulation/8)
+[^c-b754284060aa2ca7f36fe989d6558a29]: Textual amendment: Word in [Art. 10(2)](https://www.legislation.gov.uk/eur/2019/1150/article/10/2) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/796/regulation/8)
 
-[^key-aba8163670ac209b7176f91b8ab30da6]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2019/1150/article/12/1) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/9/a)
+[^c-aba8163670ac209b7176f91b8ab30da6]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2019/1150/article/12/1) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/9/a)
 
-[^key-03866d09c27ed595d99964894784c178]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2019/1150/article/12/1) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/9/b)
+[^c-03866d09c27ed595d99964894784c178]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2019/1150/article/12/1) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/9/b)
 
-[^key-e6e55f4567d9e481b25fbcf89cf90b6f]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2019/1150/article/13) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/796/regulation/10)
+[^c-e6e55f4567d9e481b25fbcf89cf90b6f]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2019/1150/article/13) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/796/regulation/10)
 
-[^key-f9b49414b70c464248594d55372a64aa]: Textual amendment: Words in [Art. 14(1)](https://www.legislation.gov.uk/eur/2019/1150/article/14/1) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/a)
+[^c-f9b49414b70c464248594d55372a64aa]: Textual amendment: Words in [Art. 14(1)](https://www.legislation.gov.uk/eur/2019/1150/article/14/1) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/a)
 
-[^key-adb099f53dd81cf5bab3f430cca006a0]: Textual amendment: [Art. 14(1A)](https://www.legislation.gov.uk/eur/2019/1150/article/14/1A) inserted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/b)
+[^c-adb099f53dd81cf5bab3f430cca006a0]: Textual amendment: [Art. 14(1A)](https://www.legislation.gov.uk/eur/2019/1150/article/14/1A) inserted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/b)
 
-[^key-ab9d096c2a707d7ce244d137c203ee87]: Textual amendment: [Art. 14(2)](https://www.legislation.gov.uk/eur/2019/1150/article/14/2) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/c)
+[^c-ab9d096c2a707d7ce244d137c203ee87]: Textual amendment: [Art. 14(2)](https://www.legislation.gov.uk/eur/2019/1150/article/14/2) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/c)
 
-[^key-d615cf366749888506ce7cf14235da79]: Textual amendment: Words in [Art. 14(3)(a)](https://www.legislation.gov.uk/eur/2019/1150/article/14/3/a) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/d)
+[^c-d615cf366749888506ce7cf14235da79]: Textual amendment: Words in [Art. 14(3)(a)](https://www.legislation.gov.uk/eur/2019/1150/article/14/3/a) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/d)
 
-[^key-700fe25609df604ad6f49eda2bb46e3c]: Textual amendment: [Art. 14(4)](https://www.legislation.gov.uk/eur/2019/1150/article/14/4) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/e)
+[^c-700fe25609df604ad6f49eda2bb46e3c]: Textual amendment: [Art. 14(4)](https://www.legislation.gov.uk/eur/2019/1150/article/14/4) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/e)
 
-[^key-144bd554869107fc755439e2ad5a4a8c]: Textual amendment: Words in [Art. 14(5)](https://www.legislation.gov.uk/eur/2019/1150/article/14/5) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(f)(i)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/f/i)
+[^c-144bd554869107fc755439e2ad5a4a8c]: Textual amendment: Words in [Art. 14(5)](https://www.legislation.gov.uk/eur/2019/1150/article/14/5) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(f)(i)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/f/i)
 
-[^key-b4b9c718808bb3e16cd92118f82b02f1]: Textual amendment: Words in [Art. 14(5)(a)](https://www.legislation.gov.uk/eur/2019/1150/article/14/5/a) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(f)(ii)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/f/ii)
+[^c-b4b9c718808bb3e16cd92118f82b02f1]: Textual amendment: Words in [Art. 14(5)(a)](https://www.legislation.gov.uk/eur/2019/1150/article/14/5/a) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(f)(ii)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/f/ii)
 
-[^key-ff96f3ad45ee38c6994f10ed512fda77]: Textual amendment: [Art. 14(5)(b)](https://www.legislation.gov.uk/eur/2019/1150/article/14/5/b) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(f)(iii)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/f/iii)
+[^c-ff96f3ad45ee38c6994f10ed512fda77]: Textual amendment: [Art. 14(5)(b)](https://www.legislation.gov.uk/eur/2019/1150/article/14/5/b) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(f)(iii)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/f/iii)
 
-[^key-85c16de846bf20da5cc73fc45af1ea1d]: Textual amendment: Words in [Art. 14(5)](https://www.legislation.gov.uk/eur/2019/1150/article/14/5) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(f)(iv)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/f/iv)
+[^c-85c16de846bf20da5cc73fc45af1ea1d]: Textual amendment: Words in [Art. 14(5)](https://www.legislation.gov.uk/eur/2019/1150/article/14/5) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(f)(iv)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/f/iv)
 
-[^key-ccf6ab89a6b0de7ae1b0da5b35d545f6]: Textual amendment: [Art. 14(6)](https://www.legislation.gov.uk/eur/2019/1150/article/14/6) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(g)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/g)
+[^c-ccf6ab89a6b0de7ae1b0da5b35d545f6]: Textual amendment: [Art. 14(6)](https://www.legislation.gov.uk/eur/2019/1150/article/14/6) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(g)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/g)
 
-[^key-18033f990efcd5bb0e2285226830e720]: Textual amendment: Words in [Art. 14(7)](https://www.legislation.gov.uk/eur/2019/1150/article/14/7) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(h)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/h)
+[^c-18033f990efcd5bb0e2285226830e720]: Textual amendment: Words in [Art. 14(7)](https://www.legislation.gov.uk/eur/2019/1150/article/14/7) substituted (31.12.2020) by [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(h)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/h)
 
-[^key-7737b679192d9cf3ab1fae001250f0bd]: Textual amendment: [Art. 14(8)](https://www.legislation.gov.uk/eur/2019/1150/article/14/8) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(i)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/i)
+[^c-7737b679192d9cf3ab1fae001250f0bd]: Textual amendment: [Art. 14(8)](https://www.legislation.gov.uk/eur/2019/1150/article/14/8) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(i)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/i)
 
-[^key-b6486a25b13ec80bbe10f5a70dc96d97]: Textual amendment: Words in [Art. 14(9)](https://www.legislation.gov.uk/eur/2019/1150/article/14/9) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(j)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/j)
+[^c-b6486a25b13ec80bbe10f5a70dc96d97]: Textual amendment: Words in [Art. 14(9)](https://www.legislation.gov.uk/eur/2019/1150/article/14/9) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [11(j)](https://www.legislation.gov.uk/uksi/2020/796/regulation/11/j)
 
-[^key-807b591997094a95163206669966e4ce]: Textual amendment: [Arts. 15-18](https://www.legislation.gov.uk/eur/2019/1150/article/15) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/796/regulation/12)
+[^c-807b591997094a95163206669966e4ce]: Textual amendment: [Arts. 15-18](https://www.legislation.gov.uk/eur/2019/1150/article/15) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/796/regulation/12)
 
-[^key-90a6e78fa7caa2af48738184cc3cace1]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1150/signature) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/796/regulation/13)
+[^c-90a6e78fa7caa2af48738184cc3cace1]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1150/signature) omitted (31.12.2020) by virtue of [The Online Intermediation Services for Business Users (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/796)](https://www.legislation.gov.uk/uksi/2020/796), [regs. 1](https://www.legislation.gov.uk/uksi/2020/796/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/796/regulation/13)

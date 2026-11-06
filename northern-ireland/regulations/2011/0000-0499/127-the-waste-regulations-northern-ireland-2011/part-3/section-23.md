@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Appeals[^key-23b57ffdda9933111e3c0610a17e4fdb]
+## 23. Appeals[^c-23b57ffdda9933111e3c0610a17e4fdb]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23b57ffdda9933111e3c0610a17e4fdb]: Commencement: Reg. 23 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-23b57ffdda9933111e3c0610a17e4fdb]: Commencement: Reg. 23 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)

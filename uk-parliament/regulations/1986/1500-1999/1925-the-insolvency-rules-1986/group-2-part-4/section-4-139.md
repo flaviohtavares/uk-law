@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.139. Appointment by the company[^key-64c3e00c821bfa91aa61747bf15160ea]
+## 4.139. Appointment by the company[^c-64c3e00c821bfa91aa61747bf15160ea]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64c3e00c821bfa91aa61747bf15160ea]: Commencement: [Rule 4.139](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.139) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-64c3e00c821bfa91aa61747bf15160ea]: Commencement: [Rule 4.139](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.139) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00084]: Marginal citation: \[FORM 4.27\] \[FORM 4.28\]

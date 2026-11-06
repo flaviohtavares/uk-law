@@ -26,7 +26,7 @@ summary: ''
 
 (2) \[[^c21054251]Paragraph (1) applies to\] The regulations specified in this paragraph are[^c21054261] regulations (whether made alone or with other regulations) under—
 
-- (a) Article 8, 13(2) or (3A)[^key-30f0983ce0f3452723a3892a83d51c9f] , 68 or 73; or
+- (a) Article 8, 13(2) or (3A)[^c-30f0983ce0f3452723a3892a83d51c9f] , 68 or 73; or
 - (b) paragraph 12 of Schedule 1, paragraph 9 of Schedule 2 or paragraph 2 of Schedule 4.
 
 (3)[^c17082451] Regulations made under this Order by the Department, other than regulations \[[^c21054271]to which paragraph (1) applies\] specified in paragraph (2)[^c21054281], shall be subject to negative resolution.
@@ -49,7 +49,7 @@ summary: ''
 
 [^c21054261]: Textual amendment: Words in art. 75(2) substituted (26.2.2003, 1.4.2003, 7.4.2003 for certain purposes and otherwise prosp.) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [ss. 51](https://www.legislation.gov.uk/ukpga/2002/21/section/51), [61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 4 para. 18(1)(4)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4/paragraph/18/1/4); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/392/article/3))
 
-[^key-30f0983ce0f3452723a3892a83d51c9f]: Textual amendment: Words in [art. 75(2)(a)](https://www.legislation.gov.uk/nisi/1998/1506/article/75/2/a) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [107(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/107/5); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/166/article/2/a)
+[^c-30f0983ce0f3452723a3892a83d51c9f]: Textual amendment: Words in [art. 75(2)(a)](https://www.legislation.gov.uk/nisi/1998/1506/article/75/2/a) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [107(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/107/5); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/166/article/2/a)
 
 [^c21054271]: Textual amendment: Words in art. 75(3) substituted (26.2.2003, 1.4.2003, 7.4.2003 for certain purposes and otherwise prosp.) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [ss. 51](https://www.legislation.gov.uk/ukpga/2002/21/section/51), [61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 4 para. 18(1)(5)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4/paragraph/18/1/5); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/392/article/3))
 

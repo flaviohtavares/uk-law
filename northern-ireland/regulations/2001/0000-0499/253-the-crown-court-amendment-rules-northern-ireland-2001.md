@@ -43,22 +43,22 @@ Coming into operation in accordance with Rule 1
 
 We, the Crown Court Rules Committee, in exercise of the powers conferred upon us by sections 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001], Articles 26(6) and (7) and 39(1) of the Criminal Evidence (Northern Ireland) Order 1999[^f00002] and of all other powers enabling us in that behalf, hereby with the concurrence of the Lord Chancellor make the following Rules:—
 
-## 1. Citation, commencement and interpretation[^key-8f841c457ef98c5804fd9eeaec289a5c]
+## 1. Citation, commencement and interpretation[^c-8f841c457ef98c5804fd9eeaec289a5c]
 
 (1) These Rules may be cited as the Crown Court (Amendment) Rules (Northern Ireland) 2001.
 
-(2)[^key-828fff3f0589456105d1a0e28f5d4424] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-828fff3f0589456105d1a0e28f5d4424] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Rule 2(*b*) shall come into operation on the same day as Article 4 of the Financial Investigations (Northern Ireland) Order 2001[^f00003] comes into operation.
 
 (4) In these Rules, “the principal Rules” shall mean the Crown Court Rules (Northern Ireland) 1979[^f00004] and a reference to a rule by number shall mean a rule so numbered in the principal Rules.
 
-## 2. Amendment to the principal Rules[^key-b0123e5acd5d64d15a1abf6242b58d58]
+## 2. Amendment to the principal Rules[^c-b0123e5acd5d64d15a1abf6242b58d58]
 
 The principal Rules shall be amended by—
 
-- (a)[^key-3a9b7bbc1bd15248205527dbcc336950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-b0123e5acd5d64d15a1abf6242b58d58] inserting in rule 54(2)(*b*) after the words “the constable”, the words “or the financial investigator”.
+- (a)[^c-3a9b7bbc1bd15248205527dbcc336950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b0123e5acd5d64d15a1abf6242b58d58] inserting in rule 54(2)(*b*) after the words “the constable”, the words “or the financial investigator”.
 
 R. D. Carswell
 
@@ -92,14 +92,14 @@ These Rules amend the Crown Court Rules (Northern Ireland) 1979 to—
 
 [^f00002]: Footnote: [S.I. 1999 No. 2789 (N.I. 8)](https://www.legislation.gov.uk/nisi/1999/2789)
 
-[^key-8f841c457ef98c5804fd9eeaec289a5c]: Commencement: Rule 1 in operation at 23.6.2001, see [rule 1](https://www.legislation.gov.uk/nisr/2001/253/rule/1)
+[^c-8f841c457ef98c5804fd9eeaec289a5c]: Commencement: Rule 1 in operation at 23.6.2001, see [rule 1](https://www.legislation.gov.uk/nisr/2001/253/rule/1)
 
-[^key-828fff3f0589456105d1a0e28f5d4424]: Textual amendment: [Rule 1(2)](https://www.legislation.gov.uk/nisr/2001/253/article/1/2) revoked (1.12.2003) by [The Crown Court (Amendment No. 3) Rules (Northern Ireland) 2003 (S.R. 2003/471)](https://www.legislation.gov.uk/nisr/2003/471), [rules 1(1)](https://www.legislation.gov.uk/nisr/2003/471/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2003/471/article/2/1/b)
+[^c-828fff3f0589456105d1a0e28f5d4424]: Textual amendment: [Rule 1(2)](https://www.legislation.gov.uk/nisr/2001/253/article/1/2) revoked (1.12.2003) by [The Crown Court (Amendment No. 3) Rules (Northern Ireland) 2003 (S.R. 2003/471)](https://www.legislation.gov.uk/nisr/2003/471), [rules 1(1)](https://www.legislation.gov.uk/nisr/2003/471/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2003/471/article/2/1/b)
 
 [^f00003]: Footnote: [S.I. 2001 No. 1866(N.I. 1)](https://www.legislation.gov.uk/nisi/2001/1866)
 
 [^f00004]: Footnote: [S.R. 1979 No. 90](https://www.legislation.gov.uk/nisr/1979/90); to which the most recent relevant amendments were made by [S.R. 1996 No. 71](https://www.legislation.gov.uk/nisr/1996/71), [S.R. 1996 No. 281](https://www.legislation.gov.uk/nisr/1996/281) and [S.R. 2000 No. 227](https://www.legislation.gov.uk/nisr/2000/227)
 
-[^key-b0123e5acd5d64d15a1abf6242b58d58]: Commencement: [Rule 2(b)](https://www.legislation.gov.uk/nisr/2001/253/rule/2/b) in operation at 24.2.2003, see [rule 1(3)](https://www.legislation.gov.uk/nisr/2001/253/rule/1/3)
+[^c-b0123e5acd5d64d15a1abf6242b58d58]: Commencement: [Rule 2(b)](https://www.legislation.gov.uk/nisr/2001/253/rule/2/b) in operation at 24.2.2003, see [rule 1(3)](https://www.legislation.gov.uk/nisr/2001/253/rule/1/3)
 
-[^key-3a9b7bbc1bd15248205527dbcc336950]: Textual amendment: [Rule 2(a)](https://www.legislation.gov.uk/nisr/2001/253/article/2/a) revoked (1.12.2003) by [The Crown Court (Amendment No. 3) Rules (Northern Ireland) 2003 (S.R. 2003/471)](https://www.legislation.gov.uk/nisr/2003/471), [rules 1(1)](https://www.legislation.gov.uk/nisr/2003/471/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2003/471/article/2/1/b)
+[^c-3a9b7bbc1bd15248205527dbcc336950]: Textual amendment: [Rule 2(a)](https://www.legislation.gov.uk/nisr/2001/253/article/2/a) revoked (1.12.2003) by [The Crown Court (Amendment No. 3) Rules (Northern Ireland) 2003 (S.R. 2003/471)](https://www.legislation.gov.uk/nisr/2003/471), [rules 1(1)](https://www.legislation.gov.uk/nisr/2003/471/article/1/1), [2(1)(b)](https://www.legislation.gov.uk/nisr/2003/471/article/2/1/b)

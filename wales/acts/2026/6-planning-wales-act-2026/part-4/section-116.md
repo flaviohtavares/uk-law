@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Powers to enter land for enforcement purposes[^key-6a77bf92d191e45fd96dec495b2b28f8]
+## 116. Powers to enter land for enforcement purposes[^c-6a77bf92d191e45fd96dec495b2b28f8]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a77bf92d191e45fd96dec495b2b28f8]: Commencement: S. 116 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6a77bf92d191e45fd96dec495b2b28f8]: Commencement: S. 116 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

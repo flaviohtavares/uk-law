@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 10 — Discharge consents[^key-0abce2dd348c8ab63eabb034aa73bcc8]
+## Schedule 10 — Discharge consents[^c-0abce2dd348c8ab63eabb034aa73bcc8]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0abce2dd348c8ab63eabb034aa73bcc8]: Textual amendment: Sch. 10 repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(q)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/q), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [109(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/109/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-0abce2dd348c8ab63eabb034aa73bcc8]: Textual amendment: Sch. 10 repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(q)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/q), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [109(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/109/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))

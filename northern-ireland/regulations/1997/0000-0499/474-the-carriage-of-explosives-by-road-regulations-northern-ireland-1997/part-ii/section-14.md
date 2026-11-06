@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Mixed loads[^key-56517dba4f9fdf5dbd900298b1565356]
+## 14. Mixed loads[^c-56517dba4f9fdf5dbd900298b1565356]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56517dba4f9fdf5dbd900298b1565356]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1997/474/regulation/14) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-56517dba4f9fdf5dbd900298b1565356]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1997/474/regulation/14) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

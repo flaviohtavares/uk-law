@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Animal welfare codes[^key-43c17ff3046c9a92bb162d2b73cafa25]
+## 7. Animal welfare codes[^c-43c17ff3046c9a92bb162d2b73cafa25]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ A person responsible for a farmed animal—
 
 ## Annotations
 
-[^key-43c17ff3046c9a92bb162d2b73cafa25]: Commencement: Reg. 7 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-43c17ff3046c9a92bb162d2b73cafa25]: Commencement: Reg. 7 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

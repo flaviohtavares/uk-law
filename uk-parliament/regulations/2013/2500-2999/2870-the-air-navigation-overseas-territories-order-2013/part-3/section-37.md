@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Minimum equipment requirements[^key-6d4045ab41ae8c28c2215f4a92d2d050]
+## 37. Minimum equipment requirements[^c-6d4045ab41ae8c28c2215f4a92d2d050]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d4045ab41ae8c28c2215f4a92d2d050]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2013/2870/article/37) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-6d4045ab41ae8c28c2215f4a92d2d050]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2013/2870/article/37) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

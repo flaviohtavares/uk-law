@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Reports where child placed by agency[^key-affad8737b5c826cf92de64cb88badce]
+## 40. Reports where child placed by agency[^c-affad8737b5c826cf92de64cb88badce]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ to be discharged by another adoption agency.
 
 ## Annotations
 
-[^key-affad8737b5c826cf92de64cb88badce]: Commencement: S. 40 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-affad8737b5c826cf92de64cb88badce]: Commencement: S. 40 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

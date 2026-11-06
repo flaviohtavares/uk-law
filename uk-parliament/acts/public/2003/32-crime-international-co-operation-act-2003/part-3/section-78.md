@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Prohibition on holding or obtaining Great Britain and Northern Ireland licences[^key-a2add2846fa8d77e0f9921aae3b49275]
+## 78. Prohibition on holding or obtaining Great Britain and Northern Ireland licences[^c-a2add2846fa8d77e0f9921aae3b49275]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2add2846fa8d77e0f9921aae3b49275]: Commencement: S. 78 in force at 11.10.2004 by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/a)
+[^c-a2add2846fa8d77e0f9921aae3b49275]: Commencement: S. 78 in force at 11.10.2004 by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/a)

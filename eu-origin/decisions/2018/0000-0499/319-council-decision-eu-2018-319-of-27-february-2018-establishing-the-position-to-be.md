@@ -33,61 +33,61 @@ of 27 February 2018
 
 establishing the position to be adopted on behalf of the European Union at the 26th session of the Revision Committee of the Intergovernmental Organisation for International Carriage by Rail as regards certain amendments to the Convention concerning International Carriage by Rail and to the Appendices thereto (revoked)
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5a760652bd27e1328be1164f4f3e9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-e5a760652bd27e1328be1164f4f3e9cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e5a760652bd27e1328be1164f4f3e9cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e5a760652bd27e1328be1164f4f3e9cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e5a760652bd27e1328be1164f4f3e9cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e5a760652bd27e1328be1164f4f3e9cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e5a760652bd27e1328be1164f4f3e9cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5a760652bd27e1328be1164f4f3e9cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ATTACHMENT[^key-e5a760652bd27e1328be1164f4f3e9cd]
+## ATTACHMENT[^c-e5a760652bd27e1328be1164f4f3e9cd]
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]1.
+[^c-e5a760652bd27e1328be1164f4f3e9cd]1.
 
 INTRODUCTION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]2.
+[^c-e5a760652bd27e1328be1164f4f3e9cd]2.
 
 COMMENTS ON AGENDA ITEMS
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 1 – Opening of the meeting and establishing the quorum**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 1 – Opening of the meeting and establishing the quorum**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 2 – Election of chair and vice chair**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 2 – Election of chair and vice chair**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 3 – Adoption of the agenda**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 3 – Adoption of the agenda**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 4 – Modification of the Rules of Procedure**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 4 – Modification of the Rules of Procedure**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 5 – Partial revision of the base Convention: amendment of the procedure for revising COTIF**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 5 – Partial revision of the base Convention: amendment of the procedure for revising COTIF**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 6 – Partial revision of the CIM UR – Secretary General's report**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 6 – Partial revision of the CIM UR – Secretary General's report**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 7 – Partial revision of the CUI UR**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 7 – Partial revision of the CUI UR**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 8 – New Appendix H regarding the safe operation of trains in international traffic**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 8 – New Appendix H regarding the safe operation of trains in international traffic**
 
 *Document(s)*: LAW-17130-CR26/8/9/10; LAW-17131-CR26/8.1; LAW-17132-CR 26/8.2
 
@@ -95,7 +95,7 @@ COMMENTS ON AGENDA ITEMS
 
 *Exercise of voting rights*: Union
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]*Position:*
+[^c-e5a760652bd27e1328be1164f4f3e9cd]*Position:*
 
 Support (LAW-17131-CR26/8.1) the inclusion of a new Appendix H to COTIF regarding the safe operation of trains in international traffic for decision of the General Assembly, subject to the following (deletion – strikethrough; addition – underlined, where appropriate):
 
@@ -117,26 +117,26 @@ Support (LAW-17131-CR26/8.2), for the purpose of the inclusion of the new Append
 
 The draft new Appendix H sets out provisions to regulate the safe operation of trains in international traffic with the objective to harmonise COTIF with the Union's *acquis* and support interoperability beyond the European Union. The proposed text is in line with the provisions of the new safety Directive (EU) 2016/798 and the related secondary legislation, save for minor issues which should be addressed in accordance with the above proposals. As indicated, it is also necessary to modify certain provisions of the COTIF Convention for the purpose of the inclusion of this new Appendix H.
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 9 – Partial revision of the ATMF UR**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 9 – Partial revision of the ATMF UR**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 10 – Partial revision of the APTU UR**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 10 – Partial revision of the APTU UR**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 11 – General discussion on the need to harmonise access conditions**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 11 – General discussion on the need to harmonise access conditions**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 12 – Any other business**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 12 – Any other business**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 13 – Partial revision of the CUV UR**
+[^c-e5a760652bd27e1328be1164f4f3e9cd]**Agenda Item 13 – Partial revision of the CUV UR**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5a760652bd27e1328be1164f4f3e9cd]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-e5a760652bd27e1328be1164f4f3e9cd]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

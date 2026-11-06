@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 19B — Investigatory powers of Commission[^key-b42e57b2c662dfa7cfa8c1c6398f2374]
+## SCHEDULE 19B — Investigatory powers of Commission[^c-b42e57b2c662dfa7cfa8c1c6398f2374]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,7 +97,7 @@ for inspection by the occupier of the premises that are specified in the warrant
 
 ### Powers in relation to suspected offences or contraventions
 
-**3.**[^key-889e5d8819d2f11784f1167592999e9f][^key-559a88a5f553070696486e8d9e7e4290][^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] (1) This paragraph applies where the Commission have reasonable grounds to suspect that—
+**3.**[^c-889e5d8819d2f11784f1167592999e9f][^c-559a88a5f553070696486e8d9e7e4290][^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] (1) This paragraph applies where the Commission have reasonable grounds to suspect that—
 
 - (a) a person has committed an offence under this Act, or
 - (b) a person has contravened (otherwise than by committing an offence) any restriction or other requirement imposed by or by virtue of this Act.
@@ -122,7 +122,7 @@ to attend before the investigator at a specified time and place and answer any q
 
 ### Court order for delivery of documents or provision of information etc
 
-**4.**[^key-889e5d8819d2f11784f1167592999e9f][^key-559a88a5f553070696486e8d9e7e4290][^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] (1) This paragraph applies where the Commission have given a notice under paragraph 3 requiring documents to be produced.
+**4.**[^c-889e5d8819d2f11784f1167592999e9f][^c-559a88a5f553070696486e8d9e7e4290][^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] (1) This paragraph applies where the Commission have given a notice under paragraph 3 requiring documents to be produced.
 
 (2) The High Court or (in Scotland) the Court of Session may make a document-disclosure order against a person (“**the respondent**”) if satisfied on an application by the Commission that—
 
@@ -138,7 +138,7 @@ to attend before the investigator at a specified time and place and answer any q
 
 (5) A person who fails to comply with a document-disclosure order may not, in respect of that failure, be both punished for contempt of court and convicted of an offence under paragraph 13(1).
 
-**5.**[^key-889e5d8819d2f11784f1167592999e9f][^key-559a88a5f553070696486e8d9e7e4290][^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] (1) This paragraph applies where the Commission have given a notice under paragraph 3 requiring any information or explanation to be provided.
+**5.**[^c-889e5d8819d2f11784f1167592999e9f][^c-559a88a5f553070696486e8d9e7e4290][^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] (1) This paragraph applies where the Commission have given a notice under paragraph 3 requiring any information or explanation to be provided.
 
 (2) The High Court or (in Scotland) the Court of Session may make an information-disclosure order against a person (“**the respondent**”) if satisfied on an application by the Commission that—
 
@@ -154,7 +154,7 @@ to attend before the investigator at a specified time and place and answer any q
 
 ### Retention of documents delivered under paragraph 4
 
-**6.**[^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] (1) The Commission may retain any documents delivered to them in compliance with an order under paragraph 4 for a period of three months (or for longer if any of following sub-paragraphs applies).
+**6.**[^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] (1) The Commission may retain any documents delivered to them in compliance with an order under paragraph 4 for a period of three months (or for longer if any of following sub-paragraphs applies).
 
 In this paragraph “the documents” and “the three-month period” mean the documents and the period mentioned above.
 
@@ -194,7 +194,7 @@ the documents may be retained until the end of the period allowed for bringing a
 
 ### Power to make copies and records
 
-**7.**[^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] The Commission or a person authorised by the Commission—
+**7.**[^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] The Commission or a person authorised by the Commission—
 
 - (a) may make copies of, or make records of any information contained in—
   - (i) any documents produced or inspected under this Schedule;
@@ -203,15 +203,15 @@ the documents may be retained until the end of the period allowed for bringing a
 
 ### Authorisation to be in writing
 
-**8.**[^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] An authorisation of a person by the Commission under this Schedule must be in writing.
+**8.**[^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] An authorisation of a person by the Commission under this Schedule must be in writing.
 
 ### Meaning of “documents”
 
-**9.**[^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] In this Schedule “**documents**” includes any books or records.
+**9.**[^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] In this Schedule “**documents**” includes any books or records.
 
 ### Documents in electronic form
 
-**10.**[^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] (1) In the case of documents kept in electronic form—
+**10.**[^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] (1) In the case of documents kept in electronic form—
 
 - (a) a power of the Commission under this Schedule to require documents to be produced for inspection includes power to require a copy of the documents to be made available for inspection in legible form;
 - (b) a power of a person (“the inspector”) under this Schedule to inspect documents includes power to require any person on the premises in question to give any assistance that the inspector reasonably requires to enable the inspector—
@@ -222,11 +222,11 @@ the documents may be retained until the end of the period allowed for bringing a
 
 ### Legal professional privilege
 
-**11.**[^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] Nothing in this Schedule requires a person to produce or provide, or authorises a person to inspect or take possession of, anything in respect of which a claim to legal professional privilege (in Scotland, to confidentiality of communications) could be maintained in legal proceedings.
+**11.**[^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] Nothing in this Schedule requires a person to produce or provide, or authorises a person to inspect or take possession of, anything in respect of which a claim to legal professional privilege (in Scotland, to confidentiality of communications) could be maintained in legal proceedings.
 
 ### Admissibility of statements
 
-**12.**[^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] (1) A statement made by a person (“P”) in compliance with a requirement imposed under this Schedule is admissible in evidence in any proceedings (as long as it also complies with any requirements governing the admissibility of evidence in the circumstances in question).
+**12.**[^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] (1) A statement made by a person (“P”) in compliance with a requirement imposed under this Schedule is admissible in evidence in any proceedings (as long as it also complies with any requirements governing the admissibility of evidence in the circumstances in question).
 
 (2) But in criminal proceedings in which P is charged with an offence other than one to which sub-paragraph (3) applies or in proceedings within sub-paragraph (4) to which both the Commission and P are parties—
 
@@ -246,7 +246,7 @@ unless evidence relating to it is adduced, or a question relating to it is asked
 
 ### Offences
 
-**13.**[^key-5ec44260f36d8ef67d5d0cb2a777308b][^key-d8d0299fb44dd9fd49b235f82a5258c2] (1) A person who fails, without reasonable excuse, to comply with any requirement imposed under or by virtue of this Schedule commits an offence.
+**13.**[^c-5ec44260f36d8ef67d5d0cb2a777308b][^c-d8d0299fb44dd9fd49b235f82a5258c2] (1) A person who fails, without reasonable excuse, to comply with any requirement imposed under or by virtue of this Schedule commits an offence.
 
 (2) A person who intentionally obstructs a person authorised by or by virtue of this Schedule in the carrying out of that person's functions under the authorisation commits an offence.
 
@@ -272,7 +272,7 @@ unless evidence relating to it is adduced, or a question relating to it is asked
 
 ### Information about use of investigatory powers in Commission's annual report
 
-**15.**[^key-815bac6ec41e8e20f38edcfb009faab0][^key-083a6b058b352118cc33ccbb7eb0a05b] (1) Each report by the Commission under paragraph 20 of Schedule 1 shall contain information about the use made by the Commission of their powers under this Schedule during the year in question.
+**15.**[^c-815bac6ec41e8e20f38edcfb009faab0][^c-083a6b058b352118cc33ccbb7eb0a05b] (1) Each report by the Commission under paragraph 20 of Schedule 1 shall contain information about the use made by the Commission of their powers under this Schedule during the year in question.
 
 (2) The report shall, in particular, specify—
 
@@ -290,16 +290,16 @@ unless evidence relating to it is adduced, or a question relating to it is asked
 
 ## Annotations
 
-[^key-b42e57b2c662dfa7cfa8c1c6398f2374]: Textual amendment: Sch. 19B inserted (1.12.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2009/12/section/2/2), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2009/12/schedule/1); [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(b)(e)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/b/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2866/article/5))
+[^c-b42e57b2c662dfa7cfa8c1c6398f2374]: Textual amendment: Sch. 19B inserted (1.12.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2009/12/section/2/2), [43(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2009/12/schedule/1); [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(b)(e)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/b/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2866/article/5))
 
-[^key-889e5d8819d2f11784f1167592999e9f]: Modification: [Sch. 19B paras. 3-5](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/9/4) (with [Sch. 9 para. 9(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/9/paragraph/9/6)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-889e5d8819d2f11784f1167592999e9f]: Modification: [Sch. 19B paras. 3-5](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/9/4) (with [Sch. 9 para. 9(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/9/paragraph/9/6)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-559a88a5f553070696486e8d9e7e4290]: Modification: [Sch. 19B paras. 3-5](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 44(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/4) (with [Sch. 1 para. 44(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/6)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-559a88a5f553070696486e8d9e7e4290]: Modification: [Sch. 19B paras. 3-5](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/3) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 44(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/4) (with [Sch. 1 para. 44(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/44/6)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-5ec44260f36d8ef67d5d0cb2a777308b]: Modification: [Sch. 19B paras. 3-13](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/3) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 53](https://www.legislation.gov.uk/ukpga/2022/37/section/53), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-5ec44260f36d8ef67d5d0cb2a777308b]: Modification: [Sch. 19B paras. 3-13](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/3) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 53](https://www.legislation.gov.uk/ukpga/2022/37/section/53), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
 
-[^key-d8d0299fb44dd9fd49b235f82a5258c2]: Modification: [Sch. 19B paras. 3-13](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/3) applied (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 57(3)](https://www.legislation.gov.uk/asp/2025/4/section/57/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-d8d0299fb44dd9fd49b235f82a5258c2]: Modification: [Sch. 19B paras. 3-13](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/3) applied (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 57(3)](https://www.legislation.gov.uk/asp/2025/4/section/57/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
 
-[^key-815bac6ec41e8e20f38edcfb009faab0]: Modification: [Sch. 19B para. 15](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/15) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 53](https://www.legislation.gov.uk/ukpga/2022/37/section/53), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-815bac6ec41e8e20f38edcfb009faab0]: Modification: [Sch. 19B para. 15](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/15) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 53](https://www.legislation.gov.uk/ukpga/2022/37/section/53), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
 
-[^key-083a6b058b352118cc33ccbb7eb0a05b]: Modification: [Sch. 19B para. 15](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/15) applied (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 57(3)](https://www.legislation.gov.uk/asp/2025/4/section/57/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-083a6b058b352118cc33ccbb7eb0a05b]: Modification: [Sch. 19B para. 15](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19B/paragraph/15) applied (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 57(3)](https://www.legislation.gov.uk/asp/2025/4/section/57/3), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

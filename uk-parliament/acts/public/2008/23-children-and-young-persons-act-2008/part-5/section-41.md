@@ -25,8 +25,8 @@ In this Act—
 - “**the 1989 Act**” means the Children Act 1989 (c. 41);
 - “**the 2000 Act**” means the Care Standards Act 2000 (c. 14).
 
-- “the 2014 Act” means the Social Services and Well-being (Wales) Act 2014 (anaw 4).[^key-effb66481eee2a80d23abad84c2a3d07]
+- “the 2014 Act” means the Social Services and Well-being (Wales) Act 2014 (anaw 4).[^c-effb66481eee2a80d23abad84c2a3d07]
 
 ## Annotations
 
-[^key-effb66481eee2a80d23abad84c2a3d07]: Textual amendment: Words in [s. 41](https://www.legislation.gov.uk/ukpga/2008/23/section/41) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [265](https://www.legislation.gov.uk/wsi/2016/413/regulation/265)
+[^c-effb66481eee2a80d23abad84c2a3d07]: Textual amendment: Words in [s. 41](https://www.legislation.gov.uk/ukpga/2008/23/section/41) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [265](https://www.legislation.gov.uk/wsi/2016/413/regulation/265)

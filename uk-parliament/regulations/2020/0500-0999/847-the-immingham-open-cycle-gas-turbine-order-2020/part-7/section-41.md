@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Amendment and modification of statutory provisions[^key-82b8e851d08551f4807c474dce34ebc6]
+## 41. Amendment and modification of statutory provisions[^c-82b8e851d08551f4807c474dce34ebc6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Able Marine Energy Park Development Consent Order 2014 is amended for the pu
 
 ## Annotations
 
-[^key-82b8e851d08551f4807c474dce34ebc6]: Commencement: Art. 41 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-82b8e851d08551f4807c474dce34ebc6]: Commencement: Art. 41 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

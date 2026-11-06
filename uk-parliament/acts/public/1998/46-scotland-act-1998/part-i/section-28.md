@@ -34,8 +34,8 @@ summary: ''
 
 (7) This section does not affect the power of the Parliament of the United Kingdom to make laws for Scotland.
 
-(8)[^key-4700b6b72cfdbbe9fe62b8209b59e66f] But it is recognised that the Parliament of the United Kingdom will not normally legislate with regard to devolved matters without the consent of the Scottish Parliament.
+(8)[^c-4700b6b72cfdbbe9fe62b8209b59e66f] But it is recognised that the Parliament of the United Kingdom will not normally legislate with regard to devolved matters without the consent of the Scottish Parliament.
 
 ## Annotations
 
-[^key-4700b6b72cfdbbe9fe62b8209b59e66f]: Textual amendment: S. 28(8) added (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 2](https://www.legislation.gov.uk/ukpga/2016/11/section/2), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-4700b6b72cfdbbe9fe62b8209b59e66f]: Textual amendment: S. 28(8) added (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 2](https://www.legislation.gov.uk/ukpga/2016/11/section/2), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)

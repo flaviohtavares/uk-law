@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Offences under section 71: fixed penalty notices[^key-51b4ab774f9a04b98dce76b99b71d825][^key-eb72f0b48e3803b71b8046e5e8af18b0][^key-22e869cd1e71ea8200e0dcca159267d5]
+## 73. Offences under section 71: fixed penalty notices[^c-51b4ab774f9a04b98dce76b99b71d825][^c-eb72f0b48e3803b71b8046e5e8af18b0][^c-22e869cd1e71ea8200e0dcca159267d5]
 
 *Extent: E+W*
 
@@ -62,8 +62,8 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-51b4ab774f9a04b98dce76b99b71d825]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2005/16/section/73) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-51b4ab774f9a04b98dce76b99b71d825]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2005/16/section/73) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-eb72f0b48e3803b71b8046e5e8af18b0]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2005/16/section/73) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-eb72f0b48e3803b71b8046e5e8af18b0]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2005/16/section/73) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-22e869cd1e71ea8200e0dcca159267d5]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2005/16/section/73) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(cc)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/cc)
+[^c-22e869cd1e71ea8200e0dcca159267d5]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2005/16/section/73) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(cc)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/cc)

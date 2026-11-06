@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Review[^key-aa7299a9bc6845498021a17725c7506d]
+## 87. Review[^c-aa7299a9bc6845498021a17725c7506d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7299a9bc6845498021a17725c7506d]: Commencement: S. 87 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-aa7299a9bc6845498021a17725c7506d]: Commencement: S. 87 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

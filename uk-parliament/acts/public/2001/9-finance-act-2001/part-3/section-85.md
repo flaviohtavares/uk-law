@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a0545627b07cb132b16f2dbccec9ca3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a0545627b07cb132b16f2dbccec9ca3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 98 of the Taxes Management Act 1970 (c. 9) (penalties for failing to make, or making incorrectly, certain returns etc.), after subsection (4) insert—
 
@@ -44,7 +44,7 @@ summary: ''
 
 .
 
-(3)[^key-302775b58277ed731f76f95c384f1422] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-302775b58277ed731f76f95c384f1422] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subsections (1) to (3) apply to payments made on or after 1st April 2001.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0545627b07cb132b16f2dbccec9ca3e]: Textual amendment: S. 85(1) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-a0545627b07cb132b16f2dbccec9ca3e]: Textual amendment: S. 85(1) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-302775b58277ed731f76f95c384f1422]: Textual amendment: S. 85(3) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-302775b58277ed731f76f95c384f1422]: Textual amendment: S. 85(3) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

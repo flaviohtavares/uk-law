@@ -49,7 +49,7 @@ Coming into force
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for certain references to provisions of EU instruments to be construed as references to those provisions as amended from time to time.
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A [^c23095181] of Schedule 2 to, the European Communities Act 1972.[^key-27a12e3f1110023c9fb31fa0f2c4e094]
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A [^c23095181] of Schedule 2 to, the European Communities Act 1972.[^c-27a12e3f1110023c9fb31fa0f2c4e094]
 
 ## Contents
 
@@ -135,7 +135,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - [Section 44B — Register of notified bodies established in the United Kingdom](part-3/section-44b.md)
 - [Section 45 — Technical documentation](part-3/section-45.md)
 
-### PART 4 — Notification of conformity assessment bodies (Extent: E+W+S) (affected by repeal, see note) Approval of conformity assessment bodies (Extent: E+W+S)[^key-d6e40bc42648058f214378e3512799f9]
+### PART 4 — Notification of conformity assessment bodies (Extent: E+W+S) (affected by repeal, see note) Approval of conformity assessment bodies (Extent: E+W+S)[^c-d6e40bc42648058f214378e3512799f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -250,6 +250,6 @@ A transposition note and full impact assessment of the impact that these Regulat
 
 [^c23095181]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2017/1206/paragraph/1A) of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008.
 
-[^key-27a12e3f1110023c9fb31fa0f2c4e094]: Modification: Regulations modified (E.W.S.) (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/730/regulation/4), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/9)
+[^c-27a12e3f1110023c9fb31fa0f2c4e094]: Modification: Regulations modified (E.W.S.) (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/730/regulation/4), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/9)
 
-[^key-d6e40bc42648058f214378e3512799f9]: Textual amendment: Pt. 4 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/36) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(iv)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/iv/v)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6e40bc42648058f214378e3512799f9]: Textual amendment: Pt. 4 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/36) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(iv)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/iv/v)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Further information[^key-893d77df802a3767d5ed7d2c68b65b52]
+## 9. Further information[^c-893d77df802a3767d5ed7d2c68b65b52]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-893d77df802a3767d5ed7d2c68b65b52]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/544/regulation/9) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-893d77df802a3767d5ed7d2c68b65b52]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/544/regulation/9) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

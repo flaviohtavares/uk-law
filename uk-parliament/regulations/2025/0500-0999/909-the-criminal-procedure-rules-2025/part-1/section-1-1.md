@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.1. The overriding objective[^key-458e50648d9d32e8dfe64dc412362f6c]
+## 1.1. The overriding objective[^c-458e50648d9d32e8dfe64dc412362f6c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-458e50648d9d32e8dfe64dc412362f6c]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/uksi/2025/909/rule/1.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-458e50648d9d32e8dfe64dc412362f6c]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/uksi/2025/909/rule/1.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

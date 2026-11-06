@@ -24,7 +24,7 @@ summary: ''
 
 (introduced by section 137(2))
 
-### 1. Existing fire risk assessments for regulated buildings[^key-a20c84f1058c7ada7268ba065f552f0f]
+### 1. Existing fire risk assessments for regulated buildings[^c-a20c84f1058c7ada7268ba065f552f0f]
 
 (1) This paragraph applies where—
 
@@ -40,7 +40,7 @@ summary: ''
 
 (5) The Welsh Ministers may by regulations amend this paragraph to vary the period for making a fire risk assessment for a regulated building.
 
-### 2. Existing HMO fire risk assessments for relevant HMOs[^key-23a758de2ff7ce7349069dc46551b025]
+### 2. Existing HMO fire risk assessments for relevant HMOs[^c-23a758de2ff7ce7349069dc46551b025]
 
 (1) This paragraph applies where—
 
@@ -52,14 +52,14 @@ summary: ''
 
 (3) Section 83(1) does not apply, but the landlord must ensure that an HMO fire risk assessment is made under section 81 no later than 12 months after the day on which the existing risk assessment was made or reviewed.
 
-### 3. Existing notices issued under the Fire Safety Order[^key-351401062eed2e4a4583e91f94c7d1d3]
+### 3. Existing notices issued under the Fire Safety Order[^c-351401062eed2e4a4583e91f94c7d1d3]
 
 The amendment made by paragraph 10 of Schedule 3 does not apply in relation to an alteration notice, an enforcement notice or a prohibition notice that was served on a person before that paragraph came into force (and, accordingly, the Fire Safety Order continues to apply in relation to such a notice as if that amendment had not been made).
 
 ## Annotations
 
-[^key-a20c84f1058c7ada7268ba065f552f0f]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-a20c84f1058c7ada7268ba065f552f0f]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-23a758de2ff7ce7349069dc46551b025]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-23a758de2ff7ce7349069dc46551b025]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-351401062eed2e4a4583e91f94c7d1d3]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-351401062eed2e4a4583e91f94c7d1d3]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

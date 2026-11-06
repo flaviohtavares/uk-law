@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Power of the Scottish Ministers to make provision about elections[^key-c85682e212b87ce35a8263019a40cec1]
+## 12. Power of the Scottish Ministers to make provision about elections[^c-c85682e212b87ce35a8263019a40cec1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (4) An order under subsection (1) may—
 
-- (a) apply, with or without modifications or exceptions, any provision made by or under the Representation of the People Acts [^key-f78464f4ccb8570f384a6bdcf8de8a26]... or by any other enactment relating to parliamentary elections [^key-eb71f24b507fe62a28db74e4d4d530f9]... or local government elections, and
+- (a) apply, with or without modifications or exceptions, any provision made by or under the Representation of the People Acts [^c-f78464f4ccb8570f384a6bdcf8de8a26]... or by any other enactment relating to parliamentary elections [^c-eb71f24b507fe62a28db74e4d4d530f9]... or local government elections, and
 - (b) so far as may be necessary in consequence of any provision made by an order under subsection (1), modify any provision made by any enactment relating to the registration of parliamentary electors or local government electors.
 
 (5) The return of a member of the Parliament at an election may be questioned only under Part 3 of the Representation of the People Act 1983 as applied by an order under subsection (1).
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c85682e212b87ce35a8263019a40cec1]: Textual amendment: Ss. 12, 12A substituted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/4/1), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/b)
+[^c-c85682e212b87ce35a8263019a40cec1]: Textual amendment: Ss. 12, 12A substituted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/4/1), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/b)
 
-[^key-f78464f4ccb8570f384a6bdcf8de8a26]: Textual amendment: Words in s. 12(4)(a) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/8/a) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-f78464f4ccb8570f384a6bdcf8de8a26]: Textual amendment: Words in s. 12(4)(a) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/8/a) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
 
-[^key-eb71f24b507fe62a28db74e4d4d530f9]: Textual amendment: Words in s. 12(4)(a) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 8(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/8/b) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-eb71f24b507fe62a28db74e4d4d530f9]: Textual amendment: Words in s. 12(4)(a) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 8(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/8/b) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))

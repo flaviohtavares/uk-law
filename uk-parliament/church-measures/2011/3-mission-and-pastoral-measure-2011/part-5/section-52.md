@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 52. Supplementary provisions of pastoral schemes and orders[^key-8e0bf307cccbf5d820c1c6bdf670d86e]
+## 52. Supplementary provisions of pastoral schemes and orders[^c-8e0bf307cccbf5d820c1c6bdf670d86e]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e0bf307cccbf5d820c1c6bdf670d86e]: Commencement: S. 52 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8e0bf307cccbf5d820c1c6bdf670d86e]: Commencement: S. 52 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

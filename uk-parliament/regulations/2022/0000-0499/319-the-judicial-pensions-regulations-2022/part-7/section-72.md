@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Option for pension credit member to commute part of pension[^key-91bb4a087687587d45d9381b0470d8ed]
+## 72. Option for pension credit member to commute part of pension[^c-91bb4a087687587d45d9381b0470d8ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91bb4a087687587d45d9381b0470d8ed]: Commencement: Reg. 72 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-91bb4a087687587d45d9381b0470d8ed]: Commencement: Reg. 72 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

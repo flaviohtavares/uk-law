@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Removal, resignation etc. of interim trustee[^key-7e6e7bc2374eb13097c96249da97c7f4]
+## 55. Removal, resignation etc. of interim trustee[^c-7e6e7bc2374eb13097c96249da97c7f4]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ then, on the application of the debtor, a creditor or AiB, the sheriff must remo
 
 ## Annotations
 
-[^key-7e6e7bc2374eb13097c96249da97c7f4]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2016/21/section/55) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7e6e7bc2374eb13097c96249da97c7f4]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2016/21/section/55) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

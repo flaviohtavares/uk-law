@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Traffic regulation[^key-98d56ec74eb6abe94cdd7e8785d9ba34]
+## 43. Traffic regulation[^c-98d56ec74eb6abe94cdd7e8785d9ba34]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-98d56ec74eb6abe94cdd7e8785d9ba34]: Commencement: Art. 43 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-98d56ec74eb6abe94cdd7e8785d9ba34]: Commencement: Art. 43 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

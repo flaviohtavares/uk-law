@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Signs to be placed only in combination with specified plates or other signs (affected by repeal, see note)[^key-58ac25dc21009f18149a89350a9412b0][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5]
+## 20. Signs to be placed only in combination with specified plates or other signs (affected by repeal, see note)[^c-58ac25dc21009f18149a89350a9412b0][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5]
 
 *Extent: E+W+S*
 
-(1) A sign shown in a diagram whose number appears and is placed in the circumstances (if any) specified in column (2) of an item in the Table may be placed on a road only in combination with a plate shown in the diagram whose number appears in column (3) of that item. *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]
+(1) A sign shown in a diagram whose number appears and is placed in the circumstances (if any) specified in column (2) of an item in the Table may be placed on a road only in combination with a plate shown in the diagram whose number appears in column (3) of that item. *(affected by repeal, see note)*[^c-719e96ccad5bb6f3737643df272d45a5]
 
-**Table *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]**
+**Table *(affected by repeal, see note)*[^c-719e96ccad5bb6f3737643df272d45a5]**
 
 <table>
 <thead>
@@ -50,17 +50,17 @@ summary: ''
 </tbody>
 </table>
 
-[^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5][^key-719e96ccad5bb6f3737643df272d45a5]
+[^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5][^c-719e96ccad5bb6f3737643df272d45a5]
 
-(2) The sign shown in diagram 545 may be placed on a road only if it is used either— *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]
+(2) The sign shown in diagram 545 may be placed on a road only if it is used either— *(affected by repeal, see note)*[^c-719e96ccad5bb6f3737643df272d45a5]
 
-- (a) in combination with the plate shown in diagram 546, 547.1, 547.2, 547.3 or 547.7; or *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]
-- (b) in combination with the plate shown in diagram 546, 547.1 or 547.7 and with the light signals shown in diagram 4004. *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]
+- (a) in combination with the plate shown in diagram 546, 547.1, 547.2, 547.3 or 547.7; or *(affected by repeal, see note)*[^c-719e96ccad5bb6f3737643df272d45a5]
+- (b) in combination with the plate shown in diagram 546, 547.1 or 547.7 and with the light signals shown in diagram 4004. *(affected by repeal, see note)*[^c-719e96ccad5bb6f3737643df272d45a5]
 
-(3) The sign shown in diagram 515 (when placed on the central island of a roundabout), 515.1A or 515.2 may be placed on a road only in combination with the sign shown in diagram 606. *(affected by repeal, see note)*[^key-719e96ccad5bb6f3737643df272d45a5]
+(3) The sign shown in diagram 515 (when placed on the central island of a roundabout), 515.1A or 515.2 may be placed on a road only in combination with the sign shown in diagram 606. *(affected by repeal, see note)*[^c-719e96ccad5bb6f3737643df272d45a5]
 
 ## Annotations
 
-[^key-58ac25dc21009f18149a89350a9412b0]: Commencement: Dir. 20 in force at 31.1.2003, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2002/3113/part/II/regulation/1/b)
+[^c-58ac25dc21009f18149a89350a9412b0]: Commencement: Dir. 20 in force at 31.1.2003, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2002/3113/part/II/regulation/1/b)
 
-[^key-719e96ccad5bb6f3737643df272d45a5]: Textual amendment: Pt. 2 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [dir. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1/1), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/2) (with [dirs. 12](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/12), [13](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/13))
+[^c-719e96ccad5bb6f3737643df272d45a5]: Textual amendment: Pt. 2 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [dir. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1/1), [Sch. 19 Pt. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/2) (with [dirs. 12](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/12), [13](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/13))

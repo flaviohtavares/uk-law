@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Security controls for supplies[^key-a44a80d9030141c9976430607662cbd0]
+## 177. Security controls for supplies[^c-a44a80d9030141c9976430607662cbd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a44a80d9030141c9976430607662cbd0]: Commencement: Reg. 177 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a44a80d9030141c9976430607662cbd0]: Commencement: Reg. 177 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

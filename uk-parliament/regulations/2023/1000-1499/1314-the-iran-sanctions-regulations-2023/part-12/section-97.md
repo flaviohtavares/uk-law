@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Savings[^key-567e6eafa1c9dfed4f6c3b7ff9dee8fc]
+## 97. Savings[^c-567e6eafa1c9dfed4f6c3b7ff9dee8fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ and such a designation is referred to in this regulation as “**an existing des
 
 ## Annotations
 
-[^key-567e6eafa1c9dfed4f6c3b7ff9dee8fc]: Commencement: Reg. 97 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-567e6eafa1c9dfed4f6c3b7ff9dee8fc]: Commencement: Reg. 97 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

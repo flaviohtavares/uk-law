@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64A. Meaning of “direct payment service” and “direct payment service provider”[^key-45b6f09201fede3aafa726a3555ab08e]
+## 64A. Meaning of “direct payment service” and “direct payment service provider”[^c-45b6f09201fede3aafa726a3555ab08e]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45b6f09201fede3aafa726a3555ab08e]: Textual amendment: [S. 64A](https://www.legislation.gov.uk/anaw/2019/3/section/64A) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(6)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/6); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-45b6f09201fede3aafa726a3555ab08e]: Textual amendment: [S. 64A](https://www.legislation.gov.uk/anaw/2019/3/section/64A) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(6)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/6); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)

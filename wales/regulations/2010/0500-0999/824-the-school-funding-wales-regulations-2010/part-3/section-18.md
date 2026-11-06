@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Additional factors or criteria[^key-21dce8663478c22564cc47b79b83b6c2]
+## 18. Additional factors or criteria[^c-21dce8663478c22564cc47b79b83b6c2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21dce8663478c22564cc47b79b83b6c2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2010/824/regulation/18) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-21dce8663478c22564cc47b79b83b6c2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2010/824/regulation/18) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

@@ -23,8 +23,8 @@ summary: ''
 (1) Corporal punishment given by, or on the authority of, a member of staff to a child—
 
 - (a) for whom education is provided at any school, or
-- (b) for whom education is provided, otherwise than at school, under any arrangements made by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], or
-- (c) for whom specified early years education[^key-9c749276d8a06b32952b854e7d7819d6] is provided otherwise than at school,
+- (b) for whom education is provided, otherwise than at school, under any arrangements made by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], or
+- (c) for whom specified early years education[^c-9c749276d8a06b32952b854e7d7819d6] is provided otherwise than at school,
 
 cannot be justified in any proceedings on the ground that it was given in pursuance of a right exercisable by the member of staff by virtue of his position as such.
 
@@ -52,10 +52,10 @@ any person (including the child himself).
 
 (7) “Child” (except in subsection (8)) means a person under the age of 18.
 
-(8)[^key-2adeb71d7bed4f1c64b396b4a7c5355e] “**Specified early years education**” means—
+(8)[^c-2adeb71d7bed4f1c64b396b4a7c5355e] “**Specified early years education**” means—
 
 - (a) in relation to England, early years provision as defined by section 20 of the Childcare Act 2006 which is
-  - (i) provided under arrangements made by a local authority in England in pursuance of the duty imposed by section 7 of that Act (whether or not the local authority provides the early years provision);[^key-7e000cf418e178288dad56da3a2fcd7b] or[^key-cfc2c21ed2175bf6f856c39c334f132f]
+  - (i) provided under arrangements made by a local authority in England in pursuance of the duty imposed by section 7 of that Act (whether or not the local authority provides the early years provision);[^c-7e000cf418e178288dad56da3a2fcd7b] or[^c-cfc2c21ed2175bf6f856c39c334f132f]
   - (ii) provided under arrangements made by a local authority in pursuance of any duty imposed under section 2 of the Childcare Act 2016 (whether or not the local authority provides the early years provision),
 - (b) in relation to Wales, full-time or part-time education suitable for children who have not attained compulsory school age which is provided—
   - (i) by a local authority in Wales, or
@@ -65,12 +65,12 @@ any person (including the child himself).
 
 [^c17947561]: Textual amendment: S. 548 substituted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [ss. 131(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/131/1) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
-[^key-9c749276d8a06b32952b854e7d7819d6]: Textual amendment: Words in s. 548(1)(c) substituted (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 2 para. 27(2)](https://www.legislation.gov.uk/ukpga/2006/21/schedule/2/paragraph/27/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-9c749276d8a06b32952b854e7d7819d6]: Textual amendment: Words in s. 548(1)(c) substituted (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 2 para. 27(2)](https://www.legislation.gov.uk/ukpga/2006/21/schedule/2/paragraph/27/2); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
 
-[^key-2adeb71d7bed4f1c64b396b4a7c5355e]: Textual amendment: S. 548(8) substituted (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 2 para. 27(3)](https://www.legislation.gov.uk/ukpga/2006/21/schedule/2/paragraph/27/3); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-2adeb71d7bed4f1c64b396b4a7c5355e]: Textual amendment: S. 548(8) substituted (1.9.2008 for E.) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 2 para. 27(3)](https://www.legislation.gov.uk/ukpga/2006/21/schedule/2/paragraph/27/3); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
 
-[^key-7e000cf418e178288dad56da3a2fcd7b]: Textual amendment: Words in s. 548(8)(a) renumbered as s. 548(8)(a)(i) (10.1.2017) by [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [40(4)(a)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/40/4/a)
+[^c-7e000cf418e178288dad56da3a2fcd7b]: Textual amendment: Words in s. 548(8)(a) renumbered as s. 548(8)(a)(i) (10.1.2017) by [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [40(4)(a)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/40/4/a)
 
-[^key-cfc2c21ed2175bf6f856c39c334f132f]: Textual amendment: [S. 548(8)(a)(ii)](https://www.legislation.gov.uk/ukpga/1996/56/section/548/8/a/ii) and word inserted (10.1.2017) by [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [40(4)(b)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/40/4/b)
+[^c-cfc2c21ed2175bf6f856c39c334f132f]: Textual amendment: [S. 548(8)(a)(ii)](https://www.legislation.gov.uk/ukpga/1996/56/section/548/8/a/ii) and word inserted (10.1.2017) by [The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016 (S.I. 2016/1257)](https://www.legislation.gov.uk/uksi/2016/1257), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/1/2), [40(4)(b)](https://www.legislation.gov.uk/uksi/2016/1257/regulation/40/4/b)

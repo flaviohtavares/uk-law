@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.20. Notice and settling of winding-up order[^key-b174bb23a05f70a4c254568b1c8cefb4]
+## 4.20. Notice and settling of winding-up order[^c-b174bb23a05f70a4c254568b1c8cefb4]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b174bb23a05f70a4c254568b1c8cefb4]: Commencement: [Rule 4.20](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.20) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b174bb23a05f70a4c254568b1c8cefb4]: Commencement: [Rule 4.20](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.20) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00041]: Marginal citation: \[FORM 4.11\]\[FORM 4.12\]\[FORM 4.13\]

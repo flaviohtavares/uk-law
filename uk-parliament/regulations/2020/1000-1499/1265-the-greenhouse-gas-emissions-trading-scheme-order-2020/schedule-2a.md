@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — MARITIME[^key-3599cab720b13f1c486ab4ef39411acb]
+## SCHEDULE 2A — MARITIME[^c-3599cab720b13f1c486ab4ef39411acb]
 
 *Extent: E+W+S+N.I.*
 
@@ -1739,4 +1739,4 @@ Table C3
 
 ## Annotations
 
-[^key-3599cab720b13f1c486ab4ef39411acb]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/2A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/392/schedule/1)
+[^c-3599cab720b13f1c486ab4ef39411acb]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/2A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/392/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93C. Creditor relationships and benefit derived by connected persons[^key-d2033ebf8312dce42c7410efe0557010]
+## 93C. Creditor relationships and benefit derived by connected persons[^c-d2033ebf8312dce42c7410efe0557010]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2033ebf8312dce42c7410efe0557010]: Textual amendment: [S. 93C](https://www.legislation.gov.uk/ukpga/1996/8/section/93C) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 426](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/426), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-d2033ebf8312dce42c7410efe0557010]: Textual amendment: [S. 93C](https://www.legislation.gov.uk/ukpga/1996/8/section/93C) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 426](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/426), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

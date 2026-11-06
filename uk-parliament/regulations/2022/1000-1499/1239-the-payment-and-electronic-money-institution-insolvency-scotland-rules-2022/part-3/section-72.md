@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Creditors’ committee members’ representatives[^key-638b45cb0f3821149ef1009b3fa3b6b6]
+## 72. Creditors’ committee members’ representatives[^c-638b45cb0f3821149ef1009b3fa3b6b6]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-638b45cb0f3821149ef1009b3fa3b6b6]: Commencement: Rule 72 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-638b45cb0f3821149ef1009b3fa3b6b6]: Commencement: Rule 72 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

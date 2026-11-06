@@ -31,11 +31,11 @@ summary: ''
 
 (2) Paragraph (1) applies to poultry moved to a slaughterhouse—
 
-- (a) from a border control[^key-0f744b2d1881f2e47e876f87a449beba] post in accordance with article 41(2), as if references to article 39 were to that article; and
+- (a) from a border control[^c-0f744b2d1881f2e47e876f87a449beba] post in accordance with article 41(2), as if references to article 39 were to that article; and
 - (b) on a vehicle in accordance with article 42, as if references to article 39 were to that article.
 
 (3) The occupier of a slaughterhouse where highly pathogenic avian influenza is confirmed must dispose of the things set out in paragraph (1)(b) in accordance with a veterinary inspector's instructions or assist him in removing those things from the premises.
 
 ## Annotations
 
-[^key-0f744b2d1881f2e47e876f87a449beba]: Textual amendment: Word in [art. 40(2)(a)](https://www.legislation.gov.uk/uksi/2006/2702/article/40/2/a) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(21)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/21)
+[^c-0f744b2d1881f2e47e876f87a449beba]: Textual amendment: Word in [art. 40(2)(a)](https://www.legislation.gov.uk/uksi/2006/2702/article/40/2/a) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(21)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/21)

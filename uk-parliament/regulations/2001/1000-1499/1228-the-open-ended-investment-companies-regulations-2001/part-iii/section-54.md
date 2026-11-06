@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Every open-ended investment company must disclose its name in characters that can be read with the naked eye in all letters of the company, in all other documents issued by the company in the course of business, and on its website.[^key-673b232b99914fb3d38ccc4ba463f6cf]
+(1) Every open-ended investment company must disclose its name in characters that can be read with the naked eye in all letters of the company, in all other documents issued by the company in the course of business, and on its website.[^c-673b232b99914fb3d38ccc4ba463f6cf]
 
-(2)[^key-f3aa813af680fee7d3300a07efcbd85a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f3aa813af680fee7d3300a07efcbd85a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-673b232b99914fb3d38ccc4ba463f6cf]: Textual amendment: Words in reg. 54(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/15/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-673b232b99914fb3d38ccc4ba463f6cf]: Textual amendment: Words in reg. 54(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/15/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
 
-[^key-f3aa813af680fee7d3300a07efcbd85a]: Textual amendment: Reg. 54(2) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/15/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-f3aa813af680fee7d3300a07efcbd85a]: Textual amendment: Reg. 54(2) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/15/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

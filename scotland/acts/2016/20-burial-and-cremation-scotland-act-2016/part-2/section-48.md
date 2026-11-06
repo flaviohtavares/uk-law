@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Application for cremation[^key-e6d1071d099caa67db23b43402f25a1b]
+## 48. Application for cremation[^c-e6d1071d099caa67db23b43402f25a1b]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6d1071d099caa67db23b43402f25a1b]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2016/20/section/48) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2018/380/regulation/4), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-e6d1071d099caa67db23b43402f25a1b]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2016/20/section/48) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2018/380/regulation/4), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

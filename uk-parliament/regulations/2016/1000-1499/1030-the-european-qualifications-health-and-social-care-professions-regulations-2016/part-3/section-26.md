@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Introductory[^key-41670ee54aa06b4e3da621b06b782163]
+## 26. Introductory[^c-41670ee54aa06b4e3da621b06b782163]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Registration of Pharmaceutical Chemists (Exempt Persons) Regulations (Northe
 
 ## Annotations
 
-[^key-41670ee54aa06b4e3da621b06b782163]: Commencement: Reg. 26 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-41670ee54aa06b4e3da621b06b782163]: Commencement: Reg. 26 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00024]: Footnote: [S.R. (N.I.) 2008 No. 193](https://www.legislation.gov.uk/nisr/2008/193).

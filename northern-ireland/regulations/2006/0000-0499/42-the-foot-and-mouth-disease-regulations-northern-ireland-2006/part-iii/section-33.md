@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Veterinary inspection of premises in protection zones and surveillance zones[^key-d2ddb3948cc34bce3443fc8e23e5c1b1]
+## 33. Veterinary inspection of premises in protection zones and surveillance zones[^c-d2ddb3948cc34bce3443fc8e23e5c1b1]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2ddb3948cc34bce3443fc8e23e5c1b1]: Commencement: Reg. 33 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-d2ddb3948cc34bce3443fc8e23e5c1b1]: Commencement: Reg. 33 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

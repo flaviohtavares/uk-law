@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — Anonymity of victims of forced marriage[^key-7cb81290a15d0e1ca3655cba62ae4224]
+## SCHEDULE 6A — Anonymity of victims of forced marriage[^c-7cb81290a15d0e1ca3655cba62ae4224]
 
 *Extent: E+W*
 
@@ -84,7 +84,7 @@ the senior officer or person (as well as the body corporate) is guilty of the of
 
 (5) In this paragraph, “the victim” means the person against whom the offence of forced marriage in question is alleged to have been committed.
 
-### 4. Special rules for providers of information society services[^key-a7667bbcde9f1edac6ad6049cc40a979]
+### 4. Special rules for providers of information society services[^c-a7667bbcde9f1edac6ad6049cc40a979]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -143,12 +143,12 @@ include the automatic, intermediate and transient storage of the information tra
 
 (1) In this Schedule—
 
-- [^key-ea99830eb8adc538bf64c05ce6514b01]...
+- [^c-ea99830eb8adc538bf64c05ce6514b01]...
 - “the E-Commerce Directive” means Directive [2000/31/EC](https://www.legislation.gov.uk/eudr/2000/31) of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (Directive on electronic commerce);
 - “information society services”—
   - (a) has the meaning given in Article 2(a) of the E-Commerce Directive (which refers to Article 1(2) of Directive [98/34/EC](https://www.legislation.gov.uk/eudr/1998/34) of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations), and
   - (b) is summarised in recital 17 of the E-Commerce Directive as covering “any service normally provided for remuneration, at a distance, by means of electronic equipment for the processing (including digital compression) and storage of data, and at the individual request of a recipient of a service”;
-- “non-UK service provider” means a service provider established in an EEA state[^key-774623bab14bf8e98f7bb4386100d65b]...;
+- “non-UK service provider” means a service provider established in an EEA state[^c-774623bab14bf8e98f7bb4386100d65b]...;
 - “offence of forced marriage” means an offence under section 121;
 - “programme service” has the same meaning as in the Broadcasting Act 1990 (see section 201(1) of that Act);
 - “prohibited material” means any material the publication of which contravenes paragraph 1(2);
@@ -162,26 +162,26 @@ include the automatic, intermediate and transient storage of the information tra
 - (a) an indictment or other document prepared for use in particular legal proceedings is not to be taken as coming within the definition;
 - (b) every relevant programme is to be taken as addressed to the public at large or to a section of the public.
 
-(3) For the purposes of the definition of “non-UK service provider”[^key-ea1ce258523613c8bae9ae4ac63a2a13] in sub-paragraph (1)—
+(3) For the purposes of the definition of “non-UK service provider”[^c-ea1ce258523613c8bae9ae4ac63a2a13] in sub-paragraph (1)—
 
-- (a) a service provider is established in a particular EEA state[^key-c3b4bbef8867fbe0fca59510ce69da3b] if the service provider—
-  - (i) effectively pursues an economic activity using a fixed establishment in that EEA state[^key-dbe8247ba58874530f88f20827dc5c5b] for an indefinite period, and
+- (a) a service provider is established in a particular EEA state[^c-c3b4bbef8867fbe0fca59510ce69da3b] if the service provider—
+  - (i) effectively pursues an economic activity using a fixed establishment in that EEA state[^c-dbe8247ba58874530f88f20827dc5c5b] for an indefinite period, and
   - (ii) is a national of an EEA state or a company or firm mentioned in Article 54 of the Treaty on the Functioning of the European Union;
 - (b) the presence or use in a particular place of equipment or other technical means of providing an information society service does not, of itself, constitute the establishment of a service provider;
 - (c) where it cannot be determined from which of a number of establishments a given information society service is provided, that service is to be regarded as provided from the establishment at the centre of the service provider’s activities relating to that service.
 
 ## Annotations
 
-[^key-7cb81290a15d0e1ca3655cba62ae4224]: Textual amendment: Sch. 6A inserted (31.1.2017 for specified purposes, 31.3.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 173(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/173/2), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [(6)(d)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/6/d)
+[^c-7cb81290a15d0e1ca3655cba62ae4224]: Textual amendment: Sch. 6A inserted (31.1.2017 for specified purposes, 31.3.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 173(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/173/2), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [(6)(d)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/6/d)
 
-[^key-a7667bbcde9f1edac6ad6049cc40a979]: Textual amendment: Sch. 6A para. 4 omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a7667bbcde9f1edac6ad6049cc40a979]: Textual amendment: Sch. 6A para. 4 omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea99830eb8adc538bf64c05ce6514b01]: Textual amendment: Words in Sch. 6A para. 9(1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea99830eb8adc538bf64c05ce6514b01]: Textual amendment: Words in Sch. 6A para. 9(1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-774623bab14bf8e98f7bb4386100d65b]: Textual amendment: Words in Sch. 6A para. 9(1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-774623bab14bf8e98f7bb4386100d65b]: Textual amendment: Words in Sch. 6A para. 9(1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea1ce258523613c8bae9ae4ac63a2a13]: Textual amendment: Words in Sch. 6A para. 9(3) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea1ce258523613c8bae9ae4ac63a2a13]: Textual amendment: Words in Sch. 6A para. 9(3) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3b4bbef8867fbe0fca59510ce69da3b]: Textual amendment: Words in Sch. 6A para. 9(3)(a) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3b4bbef8867fbe0fca59510ce69da3b]: Textual amendment: Words in Sch. 6A para. 9(3)(a) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dbe8247ba58874530f88f20827dc5c5b]: Textual amendment: Words in Sch. 6A para. 9(3)(a)(i) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dbe8247ba58874530f88f20827dc5c5b]: Textual amendment: Words in Sch. 6A para. 9(3)(a)(i) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [126(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/742/regulation/126/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

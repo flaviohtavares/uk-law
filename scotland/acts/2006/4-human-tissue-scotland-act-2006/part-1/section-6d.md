@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6D. Deemed authorisation for transplantation: adult[^key-40faf380b2a47274f910c71518d1789f]
+## 6D. Deemed authorisation for transplantation: adult[^c-40faf380b2a47274f910c71518d1789f]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40faf380b2a47274f910c71518d1789f]: Textual amendment: S. 6D inserted (11.10.2019 for specified purposes, 26.3.2021 in so far as not already in force) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 7(2)](https://www.legislation.gov.uk/asp/2019/11/section/7/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/b); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-40faf380b2a47274f910c71518d1789f]: Textual amendment: S. 6D inserted (11.10.2019 for specified purposes, 26.3.2021 in so far as not already in force) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 7(2)](https://www.legislation.gov.uk/asp/2019/11/section/7/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/b); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

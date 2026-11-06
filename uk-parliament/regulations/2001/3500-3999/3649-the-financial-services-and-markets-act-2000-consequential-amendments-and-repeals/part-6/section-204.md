@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Form of documents[^key-106fbfcd1e229ebf2c5c3f0e773126be]
+## 204. Form of documents[^c-106fbfcd1e229ebf2c5c3f0e773126be]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-106fbfcd1e229ebf2c5c3f0e773126be]: Commencement: Art. 204 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-106fbfcd1e229ebf2c5c3f0e773126be]: Commencement: Art. 204 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

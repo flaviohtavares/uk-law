@@ -28,7 +28,7 @@ summary: ''
 
 (1A)[^c17234751] In applying Article 66 for the purposes of paragraphs (1)(b), no account shall be taken of paragraph (3) of that Article.
 
-(1B) As respects an unlawful act of discrimination falling within Article 3A[^key-cb5d0fdd2e2926ff6c886943d74fa198] or Article 5(1)(b), if the respondent proves that the provision, criterion or practice[^c17234761] in question was not applied with the intention of treating the complainant unfavourably on the ground of his sex or (as the case may be) fulfilment of the condition in Article 5(2)[^c17234801], an order may be made under paragraph (1)(b) only if the industrial tribunal—
+(1B) As respects an unlawful act of discrimination falling within Article 3A[^c-cb5d0fdd2e2926ff6c886943d74fa198] or Article 5(1)(b), if the respondent proves that the provision, criterion or practice[^c17234761] in question was not applied with the intention of treating the complainant unfavourably on the ground of his sex or (as the case may be) fulfilment of the condition in Article 5(2)[^c17234801], an order may be made under paragraph (1)(b) only if the industrial tribunal—
 
 - (a) makes such order under paragraph (1)(a) and such recommendation under paragraph (1)(c) (if any) as it would have made if it had no power to make an order under paragraph (1)(b); and
 - (b) (where it makes an order under paragraph (1)(a) or a recommendation under paragraph (1)(c) or both) considers that it is just and equitable to make an order under paragraph (1)(b) as well.
@@ -46,7 +46,7 @@ summary: ''
 
 [^c17234751]: Textual amendment: SR 1996/418
 
-[^key-cb5d0fdd2e2926ff6c886943d74fa198]: Textual amendment: Words in [art. 65(1B)](https://www.legislation.gov.uk/nisi/1976/1042/article/65/1B) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2016/191/regulation/19)
+[^c-cb5d0fdd2e2926ff6c886943d74fa198]: Textual amendment: Words in [art. 65(1B)](https://www.legislation.gov.uk/nisi/1976/1042/article/65/1B) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2016/191/regulation/19)
 
 [^c17234761]: Textual amendment: SR 2001/282
 

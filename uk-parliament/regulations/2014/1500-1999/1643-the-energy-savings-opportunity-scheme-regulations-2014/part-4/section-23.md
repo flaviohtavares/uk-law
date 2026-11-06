@@ -56,11 +56,11 @@ and the amount of the supply is measured.
 
 (7) Where verifiable data is not available for all of the reference period—
 
-- (a) the calculation may be based on reasonable estimates of the amount of energy consumed, or the energy spend [^key-546a8867309fbb65259b4f1298f3a8d7]...
-- (b)[^key-8dbe372fc33a96fff1ac714e76231e43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the calculation may be based on reasonable estimates of the amount of energy consumed, or the energy spend [^c-546a8867309fbb65259b4f1298f3a8d7]...
+- (b)[^c-8dbe372fc33a96fff1ac714e76231e43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-546a8867309fbb65259b4f1298f3a8d7]: Textual amendment: Word in [reg. 23(7)(a)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/23/7/a) omitted (29.11.2023) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/12/a)
+[^c-546a8867309fbb65259b4f1298f3a8d7]: Textual amendment: Word in [reg. 23(7)(a)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/23/7/a) omitted (29.11.2023) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/12/a)
 
-[^key-8dbe372fc33a96fff1ac714e76231e43]: Textual amendment: [Reg. 23(7)(b)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/23/7/b) omitted (29.11.2023) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/12/b)
+[^c-8dbe372fc33a96fff1ac714e76231e43]: Textual amendment: [Reg. 23(7)(b)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/23/7/b) omitted (29.11.2023) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/12/b)

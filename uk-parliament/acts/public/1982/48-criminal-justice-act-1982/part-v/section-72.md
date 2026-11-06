@@ -27,10 +27,10 @@ summary: ''
 - (a) if it is one which he is required by law to make personally; or
 - (b) if he makes it by way of mitigation before the court passes sentence upon him.
 
-(3)[^key-652694dbf14d7a85dd05180269bf31a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-652694dbf14d7a85dd05180269bf31a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c19339441]: Textual amendment: Words in s. 72(1) inserted (24.7.2002) by [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23), [ss. 67](https://www.legislation.gov.uk/ukpga/1999/23/section/67), [68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3) Sch. 4 para. 10 (with Sch. 7 para. 5(2)); [S.I. 2002/1739](https://www.legislation.gov.uk/uksi/2002/1739), [art. 2(f)](https://www.legislation.gov.uk/uksi/2002/1739/article/2/f)
 
-[^key-652694dbf14d7a85dd05180269bf31a5]: Textual amendment: [S. 72(3)](https://www.legislation.gov.uk/ukpga/1982/48/section/72/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-652694dbf14d7a85dd05180269bf31a5]: Textual amendment: [S. 72(3)](https://www.legislation.gov.uk/ukpga/1982/48/section/72/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)

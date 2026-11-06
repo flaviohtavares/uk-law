@@ -31,7 +31,7 @@ summary: ''
 
 Environmental Protection, England And Wales
 
-The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2008 (revoked)[^key-d53f9abee88d6deb86d86d3c0ef4f8f6]
+The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2008 (revoked)[^c-d53f9abee88d6deb86d86d3c0ef4f8f6]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 6th October 2008
 
-[^key-d53f9abee88d6deb86d86d3c0ef4f8f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d53f9abee88d6deb86d86d3c0ef4f8f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-d53f9abee88d6deb86d86d3c0ef4f8f6]
+## 1. Citation, commencement and extent[^c-d53f9abee88d6deb86d86d3c0ef4f8f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation[^key-d53f9abee88d6deb86d86d3c0ef4f8f6]
+## 2. Designation[^c-d53f9abee88d6deb86d86d3c0ef4f8f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d53f9abee88d6deb86d86d3c0ef4f8f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d53f9abee88d6deb86d86d3c0ef4f8f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d53f9abee88d6deb86d86d3c0ef4f8f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d53f9abee88d6deb86d86d3c0ef4f8f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d53f9abee88d6deb86d86d3c0ef4f8f6]: Textual amendment: Order revoked (15.2.2010) by [The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2010 (S.I. 2010/75)](https://www.legislation.gov.uk/uksi/2010/75), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/75/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/75/article/2/b)
+[^c-d53f9abee88d6deb86d86d3c0ef4f8f6]: Textual amendment: Order revoked (15.2.2010) by [The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2010 (S.I. 2010/75)](https://www.legislation.gov.uk/uksi/2010/75), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/75/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/75/article/2/b)

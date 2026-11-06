@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.8. Filing and service of affidavits[^key-c2921f12346f5fb645833aa85785d896]
+## 7.8. Filing and service of affidavits[^c-c2921f12346f5fb645833aa85785d896]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2921f12346f5fb645833aa85785d896]: Commencement: [Rule 7.8](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.8) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c2921f12346f5fb645833aa85785d896]: Commencement: [Rule 7.8](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.8) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

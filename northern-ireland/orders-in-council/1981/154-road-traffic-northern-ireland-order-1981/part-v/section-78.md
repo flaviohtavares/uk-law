@@ -29,7 +29,7 @@ In this Article, Articles 70 to 77 and Article 180A[^c20403851]—
   including, in either case, such conduct in Great Britain;
 - “**counterpart**” in relation to a licence to drive under Part II or a Community licence has the same meaning as in that Part;
 - “**full licence**” means a large goods vehicle or passenger-carrying vehicle driver's licence other than a provisional licence;
-- “**large goods vehicle**” means a motor vehicle (not being a medium-sized goods vehicle within the meaning of Part II) which is designed and constructed for the carriage of no more than 8 passengers in addition to the driver and[^key-07e46edfd732b5fd5b8b6be1c2cc1b7c] which is constructed or adapted to carry or to haul goods and the permissable maximum weight of which exceeds 7.5 tonnes;
+- “**large goods vehicle**” means a motor vehicle (not being a medium-sized goods vehicle within the meaning of Part II) which is designed and constructed for the carriage of no more than 8 passengers in addition to the driver and[^c-07e46edfd732b5fd5b8b6be1c2cc1b7c] which is constructed or adapted to carry or to haul goods and the permissable maximum weight of which exceeds 7.5 tonnes;
 - “**passenger-carrying vehicle**” means—
   - (a) a large passenger-carrying vehicle, that is to say, a vehicle used for carrying passengers which is constructed or adapted to carry more than 16 passengers, or
   - (b) a small passenger-carrying vehicle, that is to say, a vehicle used for carrying passengers for hire or reward which is constructed or adapted to carry more than 8 but not more than 16 passengers and includes a combination of such a motor vehicle and a trailer;
@@ -50,4 +50,4 @@ In this Article, Articles 70 to 77 and Article 180A[^c20403851]—
 
 [^c17617281]: Textual amendment: SR 1996/426
 
-[^key-07e46edfd732b5fd5b8b6be1c2cc1b7c]: Textual amendment: Words in [art. 78](https://www.legislation.gov.uk/nisi/1981/154/article/78) inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/8)
+[^c-07e46edfd732b5fd5b8b6be1c2cc1b7c]: Textual amendment: Words in [art. 78](https://www.legislation.gov.uk/nisi/1981/154/article/78) inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/8)

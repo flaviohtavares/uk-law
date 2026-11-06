@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**87.**[^key-b4b47357484f8dba3fd671a2bb83d0ea] In section 25A(4)[^f00105] (appointment of independent reviewing officer) for “appropriate national authority” substitute “Secretary of State”.
+**87.**[^c-b4b47357484f8dba3fd671a2bb83d0ea] In section 25A(4)[^f00105] (appointment of independent reviewing officer) for “appropriate national authority” substitute “Secretary of State”.
 
 ## Annotations
 
-[^key-b4b47357484f8dba3fd671a2bb83d0ea]: Commencement: Reg. 87 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-b4b47357484f8dba3fd671a2bb83d0ea]: Commencement: Reg. 87 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00105]: Footnote: Section 25A was inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 10(1).

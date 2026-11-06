@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Money's worth[^key-e468bdceac8037285ee6f50e03dfb6d7]
+## 28A. Money's worth[^c-e468bdceac8037285ee6f50e03dfb6d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e468bdceac8037285ee6f50e03dfb6d7]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/ukpga/2005/5/section/28A) inserted (with effect in accordance with s. 71(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 71(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/71/2)
+[^c-e468bdceac8037285ee6f50e03dfb6d7]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/ukpga/2005/5/section/28A) inserted (with effect in accordance with s. 71(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 71(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/71/2)

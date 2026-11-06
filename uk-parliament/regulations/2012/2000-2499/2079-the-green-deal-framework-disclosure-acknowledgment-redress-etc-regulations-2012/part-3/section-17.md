@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Voluntary withdrawal of authorisation of green deal provider[^key-9a0f0c82c68ffd48cec6e8c0e2ca8d3c]
+## 17. Voluntary withdrawal of authorisation of green deal provider[^c-9a0f0c82c68ffd48cec6e8c0e2ca8d3c]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a0f0c82c68ffd48cec6e8c0e2ca8d3c]: Commencement: Reg. 17 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-9a0f0c82c68ffd48cec6e8c0e2ca8d3c]: Commencement: Reg. 17 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

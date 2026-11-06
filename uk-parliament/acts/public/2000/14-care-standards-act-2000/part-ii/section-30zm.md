@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZM. Power of Secretary of State to impose monetary penalties[^key-46f1a89494cb1fbbb0f7e2f1f94fcfb6]
+## 30ZM. Power of Secretary of State to impose monetary penalties[^c-46f1a89494cb1fbbb0f7e2f1f94fcfb6]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46f1a89494cb1fbbb0f7e2f1f94fcfb6]: Textual amendment: S. 30ZM inserted (15.7.2026 but only for the insertion of s. 30ZM(1)(a)(2)(3)) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/18/1), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(f)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/f/i)
+[^c-46f1a89494cb1fbbb0f7e2f1f94fcfb6]: Textual amendment: S. 30ZM inserted (15.7.2026 but only for the insertion of s. 30ZM(1)(a)(2)(3)) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/18/1), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(f)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/f/i)

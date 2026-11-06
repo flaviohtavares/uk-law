@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Old system students who are continuing students[^key-840d6497e95aca4afd31a0122feca6a7]
+## 22. Old system students who are continuing students[^c-840d6497e95aca4afd31a0122feca6a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ where
 
 ## Annotations
 
-[^key-840d6497e95aca4afd31a0122feca6a7]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-840d6497e95aca4afd31a0122feca6a7]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

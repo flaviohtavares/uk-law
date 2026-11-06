@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Relevant offences for purposes of Part 2 of 1989 Act[^key-d0da2ddb5ba3518683daa64d9aaab1f4]
+## 107. Relevant offences for purposes of Part 2 of 1989 Act[^c-d0da2ddb5ba3518683daa64d9aaab1f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 1 to the Football Spectators Act 1989 (c. 37) (offences) in paragrap
 
 ## Annotations
 
-[^key-d0da2ddb5ba3518683daa64d9aaab1f4]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2009/26/section/107) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)
+[^c-d0da2ddb5ba3518683daa64d9aaab1f4]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2009/26/section/107) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)

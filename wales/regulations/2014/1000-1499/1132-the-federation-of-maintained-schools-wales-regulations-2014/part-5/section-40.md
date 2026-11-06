@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Removal of appointed parent governors, partnership governors and associate pupil governors[^key-ac198041b356241ffac88ee9a867631f]
+## 40. Removal of appointed parent governors, partnership governors and associate pupil governors[^c-ac198041b356241ffac88ee9a867631f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any parent governor appointed by the governing body under paragraphs 9 to 11 of 
 
 ## Annotations
 
-[^key-ac198041b356241ffac88ee9a867631f]: Commencement: Reg. 40 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-ac198041b356241ffac88ee9a867631f]: Commencement: Reg. 40 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

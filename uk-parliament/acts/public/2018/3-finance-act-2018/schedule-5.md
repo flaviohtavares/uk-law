@@ -48,9 +48,9 @@ Section 17
 
 ### The 70% qualifying holdings condition
 
-**2.**[^key-6dbad8dd83e70f47631e5d8b10ec0e94] In section 274 of ITA 2007 (requirements for the giving of approval), in the fifth entry of the table in subsection (2) (the 70% qualifying holdings condition), for “70%” in the first and second columns substitute “ 80% ”.
+**2.**[^c-6dbad8dd83e70f47631e5d8b10ec0e94] In section 274 of ITA 2007 (requirements for the giving of approval), in the fifth entry of the table in subsection (2) (the 70% qualifying holdings condition), for “70%” in the first and second columns substitute “ 80% ”.
 
-**3.**[^key-dde1766e1105b4cd44b4d282893285fc] In consequence of the amendment made by paragraph 2, in each of the following provisions of ITA 2007, for “70%”, where it appears before “qualifying”, substitute “80%”—
+**3.**[^c-dde1766e1105b4cd44b4d282893285fc] In consequence of the amendment made by paragraph 2, in each of the following provisions of ITA 2007, for “70%”, where it appears before “qualifying”, substitute “80%”—
 
 - (a) in section 274, subsection (3)(c), (d) and (e);
 - (b) in section 275 (alternative requirements for the giving of approval), subsection (3)(b);
@@ -59,11 +59,11 @@ Section 17
 - (e) in section 280A (the 70% qualifying holdings condition: disposal of holding), in the heading and in subsection (2);
 - (f) in Schedule 4 (index of defined expressions), the entry for the qualifying holdings condition.
 
-**4.**[^key-b69c67390bae0748de687c17c7671506] In section 280A of ITA 2007, in subsection (2)(a), for “6” substitute “ 12 ”.
+**4.**[^c-b69c67390bae0748de687c17c7671506] In section 280A of ITA 2007, in subsection (2)(a), for “6” substitute “ 12 ”.
 
 ### The minimum investment on further issue condition
 
-**5.**[^key-3e2cd98a4b5174f001cba1db1235ab90] (1) Section 274 of ITA 2007 is amended as follows.
+**5.**[^c-3e2cd98a4b5174f001cba1db1235ab90] (1) Section 274 of ITA 2007 is amended as follows.
 
 (2) In the table in subsection (2), after the entry for “the investment limits condition” insert—
 
@@ -75,7 +75,7 @@ Section 17
 
 > - (fa) the minimum investment on further issue condition by section 280BA,
 
-**6.**[^key-e92a3a2ab27d94add72388e7274347bb] After section 280B of ITA 2007 insert—
+**6.**[^c-e92a3a2ab27d94add72388e7274347bb] After section 280B of ITA 2007 insert—
 
 > **280BA. The minimum investment on further issue condition**
 >
@@ -90,7 +90,7 @@ Section 17
 
 ### Non-qualifying loans
 
-**7.**[^key-c79633e30fe216d538ef97520bf08be0] (1) Section 285 of ITA 2007 (interpretation of Chapter 3 etc of Part 6) is amended as follows.
+**7.**[^c-c79633e30fe216d538ef97520bf08be0] (1) Section 285 of ITA 2007 (interpretation of Chapter 3 etc of Part 6) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -136,7 +136,7 @@ Section 17
 
 ### Qualifying holdings: exclusions
 
-**8.**[^key-7fdd0adfca3d7b807d5c773af2e15452] (1) Part 8 of Schedule 2 to ITA 2007 (transitional provision: venture capital trusts) is amended as follows.
+**8.**[^c-7fdd0adfca3d7b807d5c773af2e15452] (1) Part 8 of Schedule 2 to ITA 2007 (transitional provision: venture capital trusts) is amended as follows.
 
 (2) In paragraph 69 (the no guaranteed loan requirement), after “acquired” insert “ before 6 April 2018 ”.
 
@@ -144,11 +144,11 @@ Section 17
 
 (4) In paragraph 81 (meaning of “excluded activities”), after “acquired” insert “ before 6 April 2018 ”.
 
-**9.**[^key-b21bace6c81bac726c65de0b00e17e7f] In Part 1 of Schedule 16 to FA 2007 (venture capital trusts: limit on number of employees in company in which investment made), in paragraph 3(6)(b), after “(“the investing company”)” insert “ before 6 April 2018 ”.
+**9.**[^c-b21bace6c81bac726c65de0b00e17e7f] In Part 1 of Schedule 16 to FA 2007 (venture capital trusts: limit on number of employees in company in which investment made), in paragraph 3(6)(b), after “(“the investing company”)” insert “ before 6 April 2018 ”.
 
-**10.**[^key-1b2d676a7151c2701e5d09c84715826c] In Schedule 11 to FA 2008 (venture capital trusts), in paragraph 12(b), after “(“the investing company”)” insert “ before 6 April 2018 ”.
+**10.**[^c-1b2d676a7151c2701e5d09c84715826c] In Schedule 11 to FA 2008 (venture capital trusts), in paragraph 12(b), after “(“the investing company”)” insert “ before 6 April 2018 ”.
 
-**11.**[^key-388df35a420c7313cfa08a264a465432] (1) In Schedule 2 to F(No.3)A 2010 (venture capital trusts), in paragraph 6(2)(b), after “the investing company” insert “ before 6 April 2018 ”.
+**11.**[^c-388df35a420c7313cfa08a264a465432] (1) In Schedule 2 to F(No.3)A 2010 (venture capital trusts), in paragraph 6(2)(b), after “the investing company” insert “ before 6 April 2018 ”.
 
 (2) The 30% eligible shares condition does not apply in relation to an accounting period ending on or after 6 April 2018.
 
@@ -169,22 +169,22 @@ Section 17
 
 ## Annotations
 
-[^key-6dbad8dd83e70f47631e5d8b10ec0e94]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/2) in force at 6.4.2019 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
+[^c-6dbad8dd83e70f47631e5d8b10ec0e94]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/2) in force at 6.4.2019 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
 
-[^key-dde1766e1105b4cd44b4d282893285fc]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3) in force at 6.4.2019 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
+[^c-dde1766e1105b4cd44b4d282893285fc]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3) in force at 6.4.2019 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
 
-[^key-b69c67390bae0748de687c17c7671506]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/4) in force at 6.4.2019 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/b)
+[^c-b69c67390bae0748de687c17c7671506]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/4) in force at 6.4.2019 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/b)
 
-[^key-3e2cd98a4b5174f001cba1db1235ab90]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/5) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/c)
+[^c-3e2cd98a4b5174f001cba1db1235ab90]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/5) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/c)
 
-[^key-e92a3a2ab27d94add72388e7274347bb]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/6) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/c)
+[^c-e92a3a2ab27d94add72388e7274347bb]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/6) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/c)
 
-[^key-c79633e30fe216d538ef97520bf08be0]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/7) in force at 15.3.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/931/regulation/5))
+[^c-c79633e30fe216d538ef97520bf08be0]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/7) in force at 15.3.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/931/regulation/5))
 
-[^key-7fdd0adfca3d7b807d5c773af2e15452]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/8) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-7fdd0adfca3d7b807d5c773af2e15452]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/8) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
 
-[^key-b21bace6c81bac726c65de0b00e17e7f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/9) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-b21bace6c81bac726c65de0b00e17e7f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/9) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
 
-[^key-1b2d676a7151c2701e5d09c84715826c]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/10) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-1b2d676a7151c2701e5d09c84715826c]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/10) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
 
-[^key-388df35a420c7313cfa08a264a465432]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/11) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-388df35a420c7313cfa08a264a465432]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/11) in force at 6.4.2018 for the purposes of the amendments made by that paragraph by [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)

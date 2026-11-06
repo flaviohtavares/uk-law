@@ -61,7 +61,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 “implementation period" has the meaning given by section 34(1) of the 1999 Act;
 
-“normal pension age” has the meaning given by section 180 of the Pension Schemes Act 1993;[^key-5e7bc18aa89df90ea5f87cdcdb4a4b73]
+“normal pension age” has the meaning given by section 180 of the Pension Schemes Act 1993;[^c-5e7bc18aa89df90ea5f87cdcdb4a4b73]
 
 “notice of implementation" has the meaning given by regulation 1(2) of the Provision of Information Regulations;
 
@@ -79,7 +79,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 “person responsible for a pension arrangement" has the meaning given to that expression in section 46(2) of the 1999 Act;
 
-[^key-f17a7d4e196a941bce79674816b181ff]...
+[^c-f17a7d4e196a941bce79674816b181ff]...
 
 “the relevant date" has the meaning given by section 10(3) of the Family Law (Scotland) Act 1985 [^c1601126];
 
@@ -90,7 +90,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 (1) Subject to paragraph (8), a person responsible for a pension arrangement shall not recover any charges incurred in connection with—
 
 - (a) the provision of information under—
-  - (i) regulation 2 of the Provision of Information Regulations (basic information about pensions and divorce) or dissolution of a civil partnership[^key-9db049c30d2744e5c2ed01d4f16c334e];
+  - (i) regulation 2 of the Provision of Information Regulations (basic information about pensions and divorce) or dissolution of a civil partnership[^c-9db049c30d2744e5c2ed01d4f16c334e];
   - (ii) regulation 4 of those Regulations (provision of information in response to a notification that a pension sharing order or provision may be made); or
   - (iii) regulation 10 of those Regulations (provision of information after receipt of an earmarking order);
 - (b) complying with any order specified in section 24 of the 1999 Act (charges by pension arrangements in relation to earmarking orders); or
@@ -100,7 +100,7 @@ unless he has complied with the requirements of paragraphs (2) to (5).
 
 (2) The requirements mentioned in paragraph (1) are that the person responsible for a pension arrangement shall, before a pension sharing order or provision is made—
 
-- (a) inform the member or the member’s spouse or civil partner[^key-f02069bb5b4573af0dc1b07013c8330f], as the case may be, in writing of his intention to recover costs incurred in connection with any of the matters specified in sub-paragraph (a), (b) or (c) of paragraph (1); and
+- (a) inform the member or the member’s spouse or civil partner[^c-f02069bb5b4573af0dc1b07013c8330f], as the case may be, in writing of his intention to recover costs incurred in connection with any of the matters specified in sub-paragraph (a), (b) or (c) of paragraph (1); and
 - (b) provide the member or the member’s spouse or civil partner, as the case may be, with a written schedule of charges in accordance with paragraphs (3) and (4) in respect of those matters specified in sub-paragraph (a) or (c) of paragraph (1) for which a charge may be recoverable.
 
 (3) No charge shall be recoverable in respect of any of the items mentioned in paragraph (4) unless the person responsible for a pension arrangement has specified in the written schedule of charges mentioned in paragraph (2)(b) that a charge may be recoverable in respect of that item.
@@ -108,9 +108,9 @@ unless he has complied with the requirements of paragraphs (2) to (5).
 (4) The items referred to in paragraph (3) are—
 
 - (a) the provision of a cash equivalent other than one which is provided in accordance with the provisions of—
-  - (i) section 93A or 94 of the 1993 Act (right to statement of entitlement: benefits other than money purchase and right to cash equivalent)[^key-8592a8838d0caec963b4eeef92d2ada2];
+  - (i) section 93A or 94 of the 1993 Act (right to statement of entitlement: benefits other than money purchase and right to cash equivalent)[^c-8592a8838d0caec963b4eeef92d2ada2];
   - (ii) regulation 11(1) of the Occupational Pension Schemes (Transfer Values) Regulations 1996 [^c1601128] (disclosure); or
-  - (iii)[^key-2d214e8f44348d03a329116b858b51db] regulation 17 (statements of benefits: money purchase benefits) or any of the provisions of Part 6 (statements of benefits; lifestyling and accessing benefits) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013;
+  - (iii)[^c-2d214e8f44348d03a329116b858b51db] regulation 17 (statements of benefits: money purchase benefits) or any of the provisions of Part 6 (statements of benefits; lifestyling and accessing benefits) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013;
 - (b) subject to regulation 3(2)(b) or (c), as the case may be, the provision of a valuation in accordance with regulation 2(2) of the Provision of Information Regulations;
 - (c) whether a person responsible for a pension arrangement intends to recover the cost of providing membership of the pension arrangement to the person entitled to a pension credit, before or after the pension sharing order is implemented;
 - (d) whether the person responsible for a pension arrangement intends to recover additional charges in the circumstances prescribed in regulation 6 of these Regulations in respect of pension sharing activity described in regulation 5 of these Regulations;
@@ -128,9 +128,9 @@ unless he has complied with the requirements of paragraphs (2) to (5).
 
 (7) The requirements of paragraph (2) do not apply in connection with the recovery by a person responsible for a pension arrangement of costs incurred in relation to a pension sharing order having been made the subject of an application for leave to appeal out of time.
 
-(8)[^key-972093015b1f925fd9429eef8d018510] The information specified in regulation 2(2) and (3) of the Provision of Information Regulations shall be provided to the member or the member’s spouse or civil partner[^key-1b629d05dda1ae69e35b4fb1d0e23e1d] without charge unless—
+(8)[^c-972093015b1f925fd9429eef8d018510] The information specified in regulation 2(2) and (3) of the Provision of Information Regulations shall be provided to the member or the member’s spouse or civil partner[^c-1b629d05dda1ae69e35b4fb1d0e23e1d] without charge unless—
 
-- (a) the person responsible for the pension arrangement has furnished the information to the member, the member’s spouse, civil partner[^key-30f7e125714fa8683b7081676601aa64] or the court within a period of 12 months immediately prior to the date of the request or the court order for the provision of that information;
+- (a) the person responsible for the pension arrangement has furnished the information to the member, the member’s spouse, civil partner[^c-30f7e125714fa8683b7081676601aa64] or the court within a period of 12 months immediately prior to the date of the request or the court order for the provision of that information;
 - (b) the member has reached normal pension age on or before the date of the request or the court order for the provision of the information;
 - (c) the request or the court order for the provision of the information is made within 12 months prior to the member reaching normal pension age; or
 - (d) the circumstances referred to in regulation 3(2)(b)(i) apply.
@@ -155,11 +155,11 @@ unless he has complied with the requirements of paragraphs (2) to (5).
   - (ii) the valuation is requested by a member who is not entitled to a cash equivalent under any of the provisions referred to in regulation 2(4)(a);
   - (iii) a member has requested a cash equivalent in accordance with any of those provisions within 12 months immediately prior to the date of the request for a valuation under regulation 2(2) of the Provision of Information Regulations; or
   - (iv) the relevant date is more than 12 months immediately prior to the date the person responsible for the pension arrangement receives the request for the valuation;
-- (d)[^key-7847281f3e30c51a3603c53301c0d3ce] any costs incurred by the trustees or managers of an occupational or personal pension scheme in connection with the provision of information under regulation 6 (basic scheme information) or 7 (basic scheme information to be given by certain schemes) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013, that the trustees or managers provide to the member free of charge under those Regulations;
+- (d)[^c-7847281f3e30c51a3603c53301c0d3ce] any costs incurred by the trustees or managers of an occupational or personal pension scheme in connection with the provision of information under regulation 6 (basic scheme information) or 7 (basic scheme information to be given by certain schemes) of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013, that the trustees or managers provide to the member free of charge under those Regulations;
 - (e) any costs incurred by the trustees or managers of an occupational pension scheme, or a personal pension scheme, as the case may be, in connection with the provision of a transfer value in accordance with the provisions of—
   - (i) section 93A or 94 of the 1993 Act;
   - (ii) regulation 11(1) of the Occupational Pension Schemes (Transfer Values) Regulations 1996; or
-  - (iii)[^key-2a8b0d212e855eeeef1f69d8b6099622] regulation 17 or any of the provisions of Part 6 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013; or
+  - (iii)[^c-2a8b0d212e855eeeef1f69d8b6099622] regulation 17 or any of the provisions of Part 6 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013; or
 - (f) any costs not specified by the person responsible for a pension arrangement in the information on charges provided to the member pursuant to regulation 2 of the Provision of Information Regulations with the exception of any additional amounts under regulation 6(1)(a) of these Regulations.
 
 ## 4. Charges in respect of the provision of information — method of recovery
@@ -197,7 +197,7 @@ unless he has complied with the requirements of paragraphs (2) to (5).
 (2) For the purposes of section 41(2)(d) of the 1999 Act, the additional amounts are—
 
 - (a) in the circumstances described in paragraph (1)(a), interest calculated at a rate not exceeding increases in the retail prices index on the amounts of any charges not yet due, or of any charges requested but yet to be recovered, which are specified in the schedule of charges issued to the member in accordance with regulation 2(2)(b) of these Regulations; and
-- (b) in the circumstances described in paragraph (1)(b), an amount not exceeding an increase calculated by reference to increases in the retail prices index on the amounts which relate to the costs referred to in regulation 2(4)(d) and which are specified in the schedule of charges provided to the member and the member’s spouse or civil partner[^key-64aa9c2a60dbc4218afbfaa256a92a60] in accordance with regulation 2(2)(b).
+- (b) in the circumstances described in paragraph (1)(b), an amount not exceeding an increase calculated by reference to increases in the retail prices index on the amounts which relate to the costs referred to in regulation 2(4)(d) and which are specified in the schedule of charges provided to the member and the member’s spouse or civil partner[^c-64aa9c2a60dbc4218afbfaa256a92a60] in accordance with regulation 2(2)(b).
 
 (3) Where a person responsible for a pension arrangement intends to recover an additional amount specified in paragraph (2)(a) in the circumstances described in paragraph (1)(a), he shall set out this intention, the rate of interest to be used, and the total costs recoverable in the notice of implementation and final costs issued in accordance with regulation 7 of the Provision of Information Regulations (provision of information after receiving a pension sharing order or provision).
 
@@ -245,7 +245,7 @@ A payment in respect of charges recoverable under regulation 3, 5 or 6 made by o
 - (c) deduction from the accrued rights of the member;
 - (d) where a pension sharing order or provision is made in respect of a pension which is in payment, deduction from the member’s pension benefits;
 - (e) where liability in respect of a pension credit is discharged by the person responsible for the pension arrangement in accordance with paragraph 1(2), 2(2), or 3(2) of Schedule 5 to the 1999 Act (mode of discharge of liability for pension credits), deduction from payments of pension credit benefit; or
-- (f)[^key-73ec585c575f1e90d093a8d794026529] deduction from the amount of a transfer value which is calculated in accordance with regulation 24 of the Pension Sharing (Pension Credit Benefit) Regulations 2000 (manner of calculation and verification of cash equivalents).
+- (f)[^c-73ec585c575f1e90d093a8d794026529] deduction from the amount of a transfer value which is calculated in accordance with regulation 24 of the Pension Sharing (Pension Credit Benefit) Regulations 2000 (manner of calculation and verification of cash equivalents).
 
 (3) A person responsible for a pension arrangement shall not recover charges referred to in paragraph (1) by using any of the methods described in paragraph (2)(b), (c), (d), (e) or (f) unless—
 
@@ -324,41 +324,41 @@ An assessment of the cost to business of the provisions of the Welfare Reform an
 
 [^c1601124]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-5e7bc18aa89df90ea5f87cdcdb4a4b73]: Textual amendment: Words in reg. 1(2) inserted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/9/2)
+[^c-5e7bc18aa89df90ea5f87cdcdb4a4b73]: Textual amendment: Words in reg. 1(2) inserted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/9/2)
 
 [^c1601125]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 101B is inserted by section 37 of the Welfare Reform and Pensions Act 1999.
 
-[^key-f17a7d4e196a941bce79674816b181ff]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/1/2) omitted (6.4.2009) by virtue of [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/13/2)
+[^c-f17a7d4e196a941bce79674816b181ff]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/1/2) omitted (6.4.2009) by virtue of [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/13/2)
 
 [^c1601126]: Marginal citation: [1985 c. 37](https://www.legislation.gov.uk/ukpga/1985/37). Section 10 was amended by section 167(2) of the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), and is amended by paragraph 8 of Schedule 12 to the Welfare Reform and Pensions Act 1999.
 
-[^key-9db049c30d2744e5c2ed01d4f16c334e]: Textual amendment: Words in reg. 2(1)(a)(i) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-9db049c30d2744e5c2ed01d4f16c334e]: Textual amendment: Words in reg. 2(1)(a)(i) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-f02069bb5b4573af0dc1b07013c8330f]: Textual amendment: Words in reg. 2(2) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-f02069bb5b4573af0dc1b07013c8330f]: Textual amendment: Words in reg. 2(2) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-8592a8838d0caec963b4eeef92d2ada2]: Textual amendment: Words in [reg. 2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/2/4/a/i) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/2/a)
+[^c-8592a8838d0caec963b4eeef92d2ada2]: Textual amendment: Words in [reg. 2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/2/4/a/i) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/2/a)
 
 [^c1601128]: Marginal citation: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847) to which there are amendments not relevant to these Regulations.
 
-[^key-2d214e8f44348d03a329116b858b51db]: Textual amendment: [Reg. 2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/2/4/a/iii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/2/b)
+[^c-2d214e8f44348d03a329116b858b51db]: Textual amendment: [Reg. 2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/2/4/a/iii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/2/b)
 
 [^c1601130]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-972093015b1f925fd9429eef8d018510]: Textual amendment: Reg. 2(8) substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/9/3)
+[^c-972093015b1f925fd9429eef8d018510]: Textual amendment: Reg. 2(8) substituted (1.12.2000) by [The Pension Sharing (Consequential and Miscellaneous Amendments) Regulations 2000 (S.I. 2000/2691)](https://www.legislation.gov.uk/uksi/2000/2691), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2691/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2000/2691/regulation/9/3)
 
-[^key-1b629d05dda1ae69e35b4fb1d0e23e1d]: Textual amendment: Words in reg. 2(8) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/c/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-1b629d05dda1ae69e35b4fb1d0e23e1d]: Textual amendment: Words in reg. 2(8) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/c/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-30f7e125714fa8683b7081676601aa64]: Textual amendment: Words in reg. 2(8)(a) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/c/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-30f7e125714fa8683b7081676601aa64]: Textual amendment: Words in reg. 2(8)(a) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/2/c/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
 [^c1601131]: Marginal citation: [S.S.I. 2000/112](https://www.legislation.gov.uk/ssi/2000/112).
 
-[^key-7847281f3e30c51a3603c53301c0d3ce]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/3/2/d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/3/a)
+[^c-7847281f3e30c51a3603c53301c0d3ce]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/3/2/d) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/3/a)
 
-[^key-2a8b0d212e855eeeef1f69d8b6099622]: Textual amendment: [Reg. 3(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/3/2/e/iii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/3/b)
+[^c-2a8b0d212e855eeeef1f69d8b6099622]: Textual amendment: [Reg. 3(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/3/2/e/iii) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/3/b)
 
-[^key-64aa9c2a60dbc4218afbfaa256a92a60]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/6/2/b) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-64aa9c2a60dbc4218afbfaa256a92a60]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/6/2/b) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/1/paragraph/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-73ec585c575f1e90d093a8d794026529]: Textual amendment: [Reg. 9(2)(f)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/9/2/f) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/4)
+[^c-73ec585c575f1e90d093a8d794026529]: Textual amendment: [Reg. 9(2)(f)](https://www.legislation.gov.uk/uksi/2000/1049/regulation/9/2/f) substituted (6.4.2016) by [The Pension Sharing (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/289)](https://www.legislation.gov.uk/uksi/2016/289), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/289/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2016/289/regulation/3/4)
 
 [^c1601136]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18). Section 24D is inserted by paragraph 4 of Schedule 3 to the Welfare Reform and Pensions Act 1999.
 

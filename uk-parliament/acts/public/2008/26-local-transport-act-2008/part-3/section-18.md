@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Regulations about schemes which specify frequencies, timings or fares[^key-957f85778088d8f3193e94708790f1cc][^key-2d5c5993f423027fbdf48ec522d47e12]
+## 18. Regulations about schemes which specify frequencies, timings or fares[^c-957f85778088d8f3193e94708790f1cc][^c-2d5c5993f423027fbdf48ec522d47e12]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-957f85778088d8f3193e94708790f1cc]: Commencement: S. 18 in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
+[^c-957f85778088d8f3193e94708790f1cc]: Commencement: S. 18 in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
 
-[^key-2d5c5993f423027fbdf48ec522d47e12]: Commencement: S. 18 in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/b)
+[^c-2d5c5993f423027fbdf48ec522d47e12]: Commencement: S. 18 in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/b)

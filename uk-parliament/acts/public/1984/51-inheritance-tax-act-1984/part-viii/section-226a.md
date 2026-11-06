@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226A. Tax on notional pension property: withholding of benefits[^key-dc4449ca04fd809658250d6af029b41f]
+## 226A. Tax on notional pension property: withholding of benefits[^c-dc4449ca04fd809658250d6af029b41f]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc4449ca04fd809658250d6af029b41f]: Textual amendment: [Ss. 226A](https://www.legislation.gov.uk/ukpga/1984/51/section/226A), [226B](https://www.legislation.gov.uk/ukpga/1984/51/section/226B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 68](https://www.legislation.gov.uk/ukpga/2026/11/section/68), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-dc4449ca04fd809658250d6af029b41f]: Textual amendment: [Ss. 226A](https://www.legislation.gov.uk/ukpga/1984/51/section/226A), [226B](https://www.legislation.gov.uk/ukpga/1984/51/section/226B) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 68](https://www.legislation.gov.uk/ukpga/2026/11/section/68), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This Part needs to be read with section 25(1) to (3) of ITA 2007[^key-f23d0e4be87eb870b23b792b5581fd28] (general rule that deductions are to be allowed in the order resulting in the greatest reduction of liability to income tax).
+(1) This Part needs to be read with section 25(1) to (3) of ITA 2007[^c-f23d0e4be87eb870b23b792b5581fd28] (general rule that deductions are to be allowed in the order resulting in the greatest reduction of liability to income tax).
 
 (2) In the case of deductions under this Part, the general rule in that section is subject to—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f23d0e4be87eb870b23b792b5581fd28]: Textual amendment: Words in [s. 331(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/331/1) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 300](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/300) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f23d0e4be87eb870b23b792b5581fd28]: Textual amendment: Words in [s. 331(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/331/1) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 300](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/300) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

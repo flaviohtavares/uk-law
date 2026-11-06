@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Order of justice of the peace: notification[^key-7a18526625527fd394facae301ada3ec]
+## 122. Order of justice of the peace: notification[^c-7a18526625527fd394facae301ada3ec]
 
 *Extent: E+W*
 
@@ -29,13 +29,13 @@ summary: ''
 
 (3) In the case of an order made against the proprietor of a special institution, the Secretary of State must notify the following that the order has been made—
 
-- (a) the local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in whose area the institution is situated;
+- (a) the local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in whose area the institution is situated;
 - (b) any other local authority that the Secretary of State, after reasonable enquiry, is aware has specified the institution in a statement of special educational needs in respect of a student at the institution.
 
 (4) In this section “**a special institution**” means an institution that is specially organised to make special educational provision for students with special educational needs.
 
 ## Annotations
 
-[^key-7a18526625527fd394facae301ada3ec]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2008/25/section/122) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(q)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/q)
+[^c-7a18526625527fd394facae301ada3ec]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2008/25/section/122) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(q)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/q)
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

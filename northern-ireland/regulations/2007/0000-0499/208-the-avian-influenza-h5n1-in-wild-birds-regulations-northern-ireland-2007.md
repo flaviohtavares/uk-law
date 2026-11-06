@@ -45,17 +45,17 @@ The Department of Agriculture and Rural Development, being designated[^f00001] f
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-c239ea05ac0cfcc6e5228baa1576b938]
+### 1. Citation and commencement[^c-c239ea05ac0cfcc6e5228baa1576b938]
 
 These Regulations may be cited as the Avian Influenza (H5N1 in Wild Birds) Regulations (Northern Ireland) 2007 and shall come into operation on 24<sup>th</sup> March 2007.
 
-### 2. Interpretation[^key-d01ae972838fa40291fefcb46ba2d3f5]
+### 2. Interpretation[^c-d01ae972838fa40291fefcb46ba2d3f5]
 
 (1) In these Regulations—
 
 - “avian influenza” means an infection of birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
 - “the Avian Influenza Regulations” means the Avian Influenza and Influenza of Avian Origin in Mammals Regulations (Northern Ireland) 2007[^f00003];
-- “bird by-product” means entire bodies or parts of birds or products of avian origin, not intended for human consumption, included in Articles 8, 9 or 10 of Regulation[^key-94142df2f7433f01c4dfb9180cfe3e33] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) , as amended by Directive 2010/63 (EU) of the European Parliament and of the Council[^key-c39854fb848aaea20ec3714aa2fa0c86];
+- “bird by-product” means entire bodies or parts of birds or products of avian origin, not intended for human consumption, included in Articles 8, 9 or 10 of Regulation[^c-94142df2f7433f01c4dfb9180cfe3e33] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) , as amended by Directive 2010/63 (EU) of the European Parliament and of the Council[^c-c39854fb848aaea20ec3714aa2fa0c86];
 - “controlled meat” means any fresh meat, minced meat, meat preparation, mechanically separated meat or meat product which has not undergone a heat treatment at a minimum temperature of 70°C (which must be reached throughout the meat) derived from poultry or wild game birds originating from within a wild bird control area;
 - “day-old chicks” means poultry less than 72 hours old which have not yet fed and muscovy ducks (Cairina moschata) and their crosses less than 72 hours old, whether or not fed;
 - “the Department” means the Department of Agriculture and Rural Development;
@@ -71,7 +71,7 @@ These Regulations may be cited as the Avian Influenza (H5N1 in Wild Birds) Regul
 - “minced meat” means boned fresh meat that has been minced into fragments and contains less than 1% salt;
 - “the 1981 Order” means the Diseases of Animals (Northern Ireland) Order 1981;
 - “other captive bird” means a bird kept in captivity which is not poultry and includes a bird kept for shows, races, exhibitions or competitions, breeding, or sale but excludes—
-  - (a) pet animals of the bird species as referred to in Article 3(b) of Regulation (EU) No 576/2013[^key-4c064a8c2ee0431d728926048f2e9e29];
+  - (a) pet animals of the bird species as referred to in Article 3(b) of Regulation (EU) No 576/2013[^c-4c064a8c2ee0431d728926048f2e9e29];
   - (b) birds for zoos, circuses, amusement parks and experimental laboratories and sentinel birds placed by the competent authority in the frame of surveillance and research activities;
 - “outbreak point” has the meaning given by regulation 6(1);
 - “poultry” means all birds reared or kept in captivity for—
@@ -81,10 +81,10 @@ These Regulations may be cited as the Avian Influenza (H5N1 in Wild Birds) Regul
   - (d) the purposes of any breeding programme for the production of these categories of birds;
 - “premises” includes any land, building or other place;
 - “processed fresh meat” means any minced meat, meat preparation or mechanically separated meat;
-- “Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853)” means Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin , as last amended by Commission Regulation (EU) 2017/1981[^key-ad5facf5c6d17a7de56517c173026cbe];
-- [^key-ac2ebbe9bb559f9a519edd385b13082c]...
-- “Regulation[^key-66d0743885955269ba20edd9529caa5c] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)” means Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No. 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal by-products Regulation) , as last amended by[^key-e3b7c2c449da59ac23366e3a909dde25] Regulation (EU) 2019/1009[^key-30e07a2367529dfb1f53f25ff7235d56];
-- “Regulation ([^key-233bdef71a4fd089388d7ae143429832]EU) No. 142/2011” means Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive , as last amended by[^key-e2337778c583e8f4816dd56f488b1ab6] Commission Implementing Regulation (EU) 2019/1177[^key-7eae955c57b5046a1d4f3e9b7ad98dcd];
+- “Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853)” means Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin , as last amended by Commission Regulation (EU) 2017/1981[^c-ad5facf5c6d17a7de56517c173026cbe];
+- [^c-ac2ebbe9bb559f9a519edd385b13082c]...
+- “Regulation[^c-66d0743885955269ba20edd9529caa5c] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)” means Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No. 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal by-products Regulation) , as last amended by[^c-e3b7c2c449da59ac23366e3a909dde25] Regulation (EU) 2019/1009[^c-30e07a2367529dfb1f53f25ff7235d56];
+- “Regulation ([^c-233bdef71a4fd089388d7ae143429832]EU) No. 142/2011” means Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive , as last amended by[^c-e2337778c583e8f4816dd56f488b1ab6] Commission Implementing Regulation (EU) 2019/1177[^c-7eae955c57b5046a1d4f3e9b7ad98dcd];
 - “slaughterhouse” means a premises used for slaughtering poultry, the meat of which is intended for human consumption;
 - “vehicle” includes—
   - (a) a trailer, semi-trailer or other thing which is designed or adapted to be towed by another vehicle,
@@ -97,7 +97,7 @@ These Regulations may be cited as the Avian Influenza (H5N1 in Wild Birds) Regul
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-### 3. Declarations and notices[^key-fa5d6e2bdd2f22ce6ecc51f577ef614d]
+### 3. Declarations and notices[^c-fa5d6e2bdd2f22ce6ecc51f577ef614d]
 
 (1) A declaration of a wild bird control area or wild bird monitoring area—
 
@@ -115,7 +115,7 @@ These Regulations may be cited as the Avian Influenza (H5N1 in Wild Birds) Regul
 
 (3) The Department must ensure that the extent of any wild bird control area or wild bird monitoring area declared under these Regulations, the nature of the restrictions and requirements applicable within it and the dates of its declaration and withdrawal are publicised.
 
-### 4. Licences[^key-f78e0bbef57642ff5c9ded41bcb1a5a6]
+### 4. Licences[^c-f78e0bbef57642ff5c9ded41bcb1a5a6]
 
 (1) The Department shall not grant a licence under these Regulations for the movement of any poultry, other captive bird, hatching egg, controlled meat or bird by-product unless it has taken account of the relevant risk assessment.
 
@@ -150,7 +150,7 @@ These Regulations may be cited as the Avian Influenza (H5N1 in Wild Birds) Regul
 
 ## PART II — CONFIRMATION OR SUSPICION OF H5N1
 
-### 5. Confirmation or suspicion of H5N1 in wild birds[^key-98eed469e27772e69ea736cc6a9a8510]
+### 5. Confirmation or suspicion of H5N1 in wild birds[^c-98eed469e27772e69ea736cc6a9a8510]
 
 (1) This regulation applies if the Department is of the opinion that—
 
@@ -190,7 +190,7 @@ These Regulations may be cited as the Avian Influenza (H5N1 in Wild Birds) Regul
 
 (10) Nothing in this regulation or regulation 6 which requires the Department to declare the extent of an area has the effect of requiring the Department to include land in the Republic of Ireland in such a area.
 
-### 6. Extent of a wild bird control area and a wild bird monitoring area[^key-791ff2a070cf8f2317b31644a2dfa84b]
+### 6. Extent of a wild bird control area and a wild bird monitoring area[^c-791ff2a070cf8f2317b31644a2dfa84b]
 
 (1) A wild bird control area must—
 
@@ -227,11 +227,11 @@ These Regulations may be cited as the Avian Influenza (H5N1 in Wild Birds) Regul
 
 (9) A wild bird control area or a wild bird monitoring area declared under regulation 5(3)(a) must be of such size and shape as the Department considers necessary to prevent the spread of avian influenza.
 
-### 7. Wild bird or carcase found within a protection zone or surveillance zone[^key-e9cdcd3ea3b28e8d509878dea34c6483]
+### 7. Wild bird or carcase found within a protection zone or surveillance zone[^c-e9cdcd3ea3b28e8d509878dea34c6483]
 
 If the wild bird or carcase referred to in regulation 5(1) is found within a protection zone or surveillance zone declared under regulation 28(1) to (4) of the Avian Influenza Regulations, the Department must, when declaring a wild bird control area and a wild bird monitoring area, consider, on the basis of a risk assessment, whether the control and monitoring areas should include part or all of the protection or surveillance zone.
 
-### 8. Measures applicable in a wild bird control area or a wild bird monitoring area[^key-1b9dee877b605d594780b4bba7b0c210]
+### 8. Measures applicable in a wild bird control area or a wild bird monitoring area[^c-1b9dee877b605d594780b4bba7b0c210]
 
 (1) The measures in Schedule 1 apply in respect of a wild bird control area including movements from that area.
 
@@ -268,7 +268,7 @@ If the wild bird or carcase referred to in regulation 5(1) is found within a pro
 
 do not apply in respect of that wild bird control area.
 
-### 9. Additional measures[^key-066b22bc8d8170756078ebcaf5b26b7e]
+### 9. Additional measures[^c-066b22bc8d8170756078ebcaf5b26b7e]
 
 (1) The Department must, in its declaration of a wild bird control area or a wild bird monitoring area, impose such additional measures as it considers necessary to reduce the risk of the spread of avian influenza.
 
@@ -285,13 +285,13 @@ do not apply in respect of that wild bird control area.
 - (c) poultry or other captive birds are provided with feed and water to which wild birds have no access;
 - (d) keepers of poultry and other captive birds and others who come into contact with such birds cleanse and disinfect their footwear and take such other biosecurity measures as an inspector may require.
 
-### 10. Restrictions relating to things moved from Great Britain[^key-bda2cf2d24cf2f9667fa937c011aa26c]
+### 10. Restrictions relating to things moved from Great Britain[^c-bda2cf2d24cf2f9667fa937c011aa26c]
 
 (1) Measures in and under these Regulations applying in respect of any thing moved from a wild bird control area or a wild bird monitoring area apply in respect of any such thing moved from an equivalent area in Great Britain.
 
 (2) Paragraph (1) only applies if the person to whom the measure applies is aware, or should reasonably have been aware, that the thing moved is from such an equivalent area.
 
-### 11. Duty to inspect poultry premises[^key-87d0aee9f59810e51b6382aff6853306]
+### 11. Duty to inspect poultry premises[^c-87d0aee9f59810e51b6382aff6853306]
 
 (1) Subject to regulation 8(9), the Department must ensure that—
 
@@ -303,7 +303,7 @@ do not apply in respect of that wild bird control area.
 - (a) carry out a clinical inspection of poultry and any other captive birds that are on the premises and, if he is directed by the Department, collect samples for laboratory examination; and
 - (b) assess the extent to which the biosecurity measures referred to in Schedule 3 are being applied.
 
-### 12. Maintenance of areas[^key-ac06d8ebd2b8ebf17049211a3628073d]
+### 12. Maintenance of areas[^c-ac06d8ebd2b8ebf17049211a3628073d]
 
 (1) If the Department is of the opinion that the avian influenza virus of sub-type H5 present in the wild bird or carcase referred to in regulation 5(1)(a) is of neuraminidase N1, it must not—
 
@@ -322,12 +322,12 @@ do not apply in respect of that wild bird control area.
 
 ## PART III — MISCELLANEOUS
 
-### 13. Designation of premises to which things may be moved[^key-3dfbfad22a060e51fb79a21c1184300c]
+### 13. Designation of premises to which things may be moved[^c-3dfbfad22a060e51fb79a21c1184300c]
 
 (1) Unless the Department directs otherwise by notice served on the occupier of the premises, the following premises are deemed to be designated for the purpose of receiving poultry, eggs or bird by-products (as the case may be) which are moved in accordance with these Regulations—
 
 - (a) premises that are designated under regulation 71 of the Avian Influenza Regulations; and
-- (b)[^key-b5a5334288406f302c52f3f70c633336] the following plants if approved under Article 24 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)—
+- (b)[^c-b5a5334288406f302c52f3f70c633336] the following plants if approved under Article 24 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)—
   - (i) incineration plants;
   - (ii) co-incineration plants;
   - (iii) processing plants;
@@ -337,7 +337,7 @@ do not apply in respect of that wild bird control area.
 
 (2) A plant referred to in paragraph (1)(b) in England, Scotland or Wales which is designated respectively by the English Ministers, Scottish Ministers or the National Assembly for the same purposes as they are deemed to be designated under these Regulations are deemed to be designated for the purposes of these Regulations.
 
-### 14. General duties relating to execution of these Regulations[^key-811c898df3474fdee904b477f03913e9]
+### 14. General duties relating to execution of these Regulations[^c-811c898df3474fdee904b477f03913e9]
 
 (1) A person required to give assistance or information to an inspector must, unless he has reasonable cause, do so without delay.
 
@@ -348,7 +348,7 @@ do not apply in respect of that wild bird control area.
 - (a) comply with the requirement (unless otherwise authorised by licence); and
 - (b) comply with any reasonable requests which an inspector may make to him to ensure that the requirement is met.
 
-### 15. Record keeping[^key-82c1c500eecee7c1de69732cec021d31]
+### 15. Record keeping[^c-82c1c500eecee7c1de69732cec021d31]
 
 (1) A person moving poultry, other captive birds or their products under the authority of and in accordance with the conditions of a licence granted under these Regulations must—
 
@@ -372,7 +372,7 @@ do not apply in respect of that wild bird control area.
 - (b) require any computer record to be produced in a form which can be taken away; and
 - (c) remove any record and retain it until he has carried out his functions under these Regulations.
 
-### 16. Change of occupation of premises under restriction[^key-f5f5261f64540a9e73f4e08787f50ade]
+### 16. Change of occupation of premises under restriction[^c-f5f5261f64540a9e73f4e08787f50ade]
 
 (1) This regulation applies if the keeper of any poultry or other captive bird is unable to move the poultry or other captive bird from premises on the termination of his right of occupation because of a movement restriction imposed by or under these Regulations and continues to apply for seven days after any such restriction has been removed.
 
@@ -385,7 +385,7 @@ do not apply in respect of that wild bird control area.
 
 (4) The keeper is liable to pay the reasonable costs incurred by any person feeding or tending it, or providing facilities for feeding, tending or otherwise using it.
 
-### 17. Cleansing and disinfection[^key-aaf5e36cf47cc8757297091d3c448a06]
+### 17. Cleansing and disinfection[^c-aaf5e36cf47cc8757297091d3c448a06]
 
 (1) A person who is required under these Regulations to carry out disinfection at any premises or of any thing must—
 
@@ -397,7 +397,7 @@ do not apply in respect of that wild bird control area.
 
 (2) Where cleansing and disinfection of vehicles is required at any premises under these Regulations, the occupier of those premises must provide adequate facilities and proper equipment and materials for that cleansing and disinfection.
 
-### 18. Veterinary investigations and marking[^key-d3f7dceaff8fa5707a0a220dde8bde77]
+### 18. Veterinary investigations and marking[^c-d3f7dceaff8fa5707a0a220dde8bde77]
 
 (1) An inspector performing functions under these Regulations who enters any premises or inspects any vehicle may—
 
@@ -410,13 +410,13 @@ do not apply in respect of that wild bird control area.
 
 (3) A person shall not deface, obliterate or remove any mark applied under paragraph (1)(a) except with the written authority of an inspector.
 
-### 19. Duty to provide reasonable assistance[^key-28ddddf87596bfc7ea35dd9bdfde5297]
+### 19. Duty to provide reasonable assistance[^c-28ddddf87596bfc7ea35dd9bdfde5297]
 
 (1) The occupier of any premises from or to which he wishes any thing to be moved under licence under these Regulations must allow an inspector to enter those premises for the purposes of deciding whether or not such a licence should be granted or maintained.
 
 (2) The occupier must give all reasonable assistance to an inspector who visits the premises to examine the birds and to take samples.
 
-### 20. General powers of inspectors[^key-cefa262a45b385dabea2ace91f192554]
+### 20. General powers of inspectors[^c-cefa262a45b385dabea2ace91f192554]
 
 (1) An inspector may, when performing his functions under these Regulations, require by notice the person in charge of any vehicle or equipment to cleanse and disinfect it.
 
@@ -431,7 +431,7 @@ do not apply in respect of that wild bird control area.
 
 (3) An inspector may require, by notice, the detention and isolation of any vehicle, equipment or other thing to ascertain whether the provisions of these Regulations are being complied with.
 
-### 21. Powers of inspectors in case of default[^key-ce0715a521d67e702d954337f18f6c63]
+### 21. Powers of inspectors in case of default[^c-ce0715a521d67e702d954337f18f6c63]
 
 (1) If a person fails to comply with a requirement under these Regulations an inspector may take any steps he considers necessary to ensure the requirement is met or to prevent the spread of avian influenza, at the expense of that person.
 
@@ -440,14 +440,14 @@ do not apply in respect of that wild bird control area.
 - (a) require, by notice, any person to take or refrain from specified action in respect of any place, animal, bird, vehicle, or other thing;
 - (b) seize and detain any thing.
 
-### 22. Enforcement, offences and proceedings[^key-e632525a72de7c34db86aa56794acc01]
+### 22. Enforcement, offences and proceedings[^c-e632525a72de7c34db86aa56794acc01]
 
 The following provisions of the 1981 Order shall apply as if these Regulations were an order made under the 1981 Order—
 
 - (a) Article 6 (seizure and destruction of carcases, etc., liable to spread disease);
 - (b) Article 42 (functions of constables);
 - (c) Article 46 (general powers of inspectors);
-- (d) Article 46A (powers of inspectors relating to assimilated[^key-278d6c44b937977668692ffec52818cb][^key-a5aeab09bb97e5491a8d612228e45e8d] law or Protocol obligations);
+- (d) Article 46A (powers of inspectors relating to assimilated[^c-278d6c44b937977668692ffec52818cb][^c-a5aeab09bb97e5491a8d612228e45e8d] law or Protocol obligations);
 - (e) Article 48 (power to detain vessels and aircraft);
 - (f) Article 52 (offences);
 - (g) Article 54 (defences and evidence);
@@ -467,7 +467,7 @@ Regulation 8(1)
 
 ### PART I — MOVEMENT OF BIRDS
 
-#### 1. Prohibition on the movement of poultry or other captive birds from premises in a wild bird control area[^key-76b83a7f055b8d7c249a42d27cc19c8d]
+#### 1. Prohibition on the movement of poultry or other captive birds from premises in a wild bird control area[^c-76b83a7f055b8d7c249a42d27cc19c8d]
 
 (1) A person may not move poultry or other captive birds from premises in a wild bird control area except under the authority of and in accordance with the conditions of a licence granted by the Department.
 
@@ -486,7 +486,7 @@ Regulation 8(1)
 
 (4) The Department may not grant a licence under sub-paragraph (2)(f) unless it is satisfied that there was no contact, at the hatchery from which the day-old chicks are being moved, between the eggs from which the day old chicks were hatched and any other hatching eggs or day-old chicks originating from poultry within the wild bird control area or wild bird monitoring area.
 
-#### 2. Restriction on movement of poultry from premises of destination[^key-7cff3076562823aa70c52511537eab7c]
+#### 2. Restriction on movement of poultry from premises of destination[^c-7cff3076562823aa70c52511537eab7c]
 
 If the Department grants a licence for a movement of—
 
@@ -495,7 +495,7 @@ If the Department grants a licence for a movement of—
 
 the occupier of the premises to which they are moved must ensure that neither they nor any other poultry are moved off the premises for 21 days from the date when those ready to lay pullets, turkeys or day-old chicks arrived.
 
-#### 3. Slaughter of poultry[^key-bb900d9350097f01271bcdb1714d0b3b]
+#### 3. Slaughter of poultry[^c-bb900d9350097f01271bcdb1714d0b3b]
 
 (1) The occupier of a slaughterhouse to which poultry are moved in accordance with paragraph 1(2)(a) or 1(2)(c) must ensure that the poultry are slaughtered without delay.
 
@@ -512,7 +512,7 @@ must ensure that the conditions in sub-paragraph (3) are fulfilled.
 - (b) the poultry from within the area must be slaughtered separately or at different times from poultry from outside the area; and
 - (c) the part of the slaughterhouse, any equipment and any other thing which has been used for the slaughter or subsequent processing of poultry from within the area must be cleansed and disinfected in accordance with the instructions of an inspector before poultry from outside the wild bird control area are slaughtered in that part of the slaughterhouse, using that equipment or other thing.
 
-#### 4. Prohibition on the movement of poultry and other captive birds through a wild bird control area[^key-b38b8984d0f3af32a7bad530fbbf2a8a]
+#### 4. Prohibition on the movement of poultry and other captive birds through a wild bird control area[^c-b38b8984d0f3af32a7bad530fbbf2a8a]
 
 (1) A person shall not move poultry or other captive birds through a wild bird control area unless the movement is straight through the area on a major highway or railway.
 
@@ -520,7 +520,7 @@ must ensure that the conditions in sub-paragraph (3) are fulfilled.
 
 ### PART II — MOVEMENT OF HATCHING EGGS AND SPF EGGS
 
-#### 1. Prohibition on the movement of hatching eggs from a wild bird control area[^key-b5b67066aabfc07eaf101c5bf80e8d54]
+#### 1. Prohibition on the movement of hatching eggs from a wild bird control area[^c-b5b67066aabfc07eaf101c5bf80e8d54]
 
 (1) A person shall not move any hatching egg which was collected from premises within a wild bird control area from premises in that area except under the authority of and in accordance with the conditions of a licence granted by the Department.
 
@@ -538,20 +538,20 @@ must ensure that the conditions in sub-paragraph (3) are fulfilled.
 - (c) the tracing back of the eggs can be ensured; and
 - (d) the eggs are transported in sealed vehicles.
 
-#### 2. Prohibition on the movement of a SPF-egg from the wild bird control area[^key-90cb3fdf12caecb5200221c0dc425ff4]
+#### 2. Prohibition on the movement of a SPF-egg from the wild bird control area[^c-90cb3fdf12caecb5200221c0dc425ff4]
 
 (1) A person may not move a SPF-egg collected from premises in a wild bird control area from premises in that area except to a designated laboratory, institute or vaccine manufacturer for scientific, diagnostic or pharmaceutical uses except under the authority of and in accordance with the conditions of a licence.
 
 (2) In sub-paragraph (1), “SPF-egg” means a hatching egg for use for diagnostic procedures in laboratories for the production and testing of vaccines and for research or pharmaceutical purposes.
 
-#### 3. Cleansing and disinfection at undesignated hatcheries[^key-5e9e55b441d0cec97858541cb7e13509]
+#### 3. Cleansing and disinfection at undesignated hatcheries[^c-5e9e55b441d0cec97858541cb7e13509]
 
 The occupier of an undesignated hatchery to which hatching eggs are moved in accordance with paragraph 1(2)(a)must—
 
 - (a) ensure that trolleys and packaging trays used to transport hatching eggs to or from the hatchery are cleansed and disinfected before they leave the hatchery or are re-used; and
 - (b) keep a record of any cleaning and disinfection carried out under sub-paragraph (a).
 
-#### 4. Separation of hatching eggs[^key-12f7f3d1d1f65d6985d6869df3fae89a]
+#### 4. Separation of hatching eggs[^c-12f7f3d1d1f65d6985d6869df3fae89a]
 
 (1) A person moving hatching eggs out of the wild bird control area under paragraph 1(1) must ensure that those eggs do not come into contact with hatching eggs collected from premises outside that area.
 
@@ -559,13 +559,13 @@ The occupier of an undesignated hatchery to which hatching eggs are moved in acc
 
 ### PART III — MOVEMENT OF CONTROLLED MEAT
 
-#### 1. Restriction on the movement of controlled meat out of a wild bird control area[^key-0f0b31976da059e4548c6db5eba71e34]
+#### 1. Restriction on the movement of controlled meat out of a wild bird control area[^c-0f0b31976da059e4548c6db5eba71e34]
 
 (1) A person shall not move controlled meat out of a wild bird control area except under the authority of and in accordance with the conditions of a licence granted by the Department.
 
 (2) The Department may not grant a licence under sub-paragraph (1) unless it is for the movement of—
 
-- (a) fresh meat from poultry produced in accordance with Annex II and Sections II and III of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) and subject to the official controls set out in Article 18 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-0612b6add3b0bf1962a260c32dbeebf0];
+- (a) fresh meat from poultry produced in accordance with Annex II and Sections II and III of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) and subject to the official controls set out in Article 18 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^c-0612b6add3b0bf1962a260c32dbeebf0];
 - (b) processed fresh meat or meat products produced from the fresh meat referred to in paragraph (a) in accordance with Sections V and VI of Annex III to Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853);
 - (c) fresh meat from poultry, processed fresh meat from poultry or meat products from such fresh meat or processed fresh meat, other than the fresh meat, processed fresh meat and meat products referred to in sub-paragraphs (2)(a) and (b) to other parts of United Kingdom, provided—
   - (i) the meat or product is identified with the national mark described in paragraph 2(1) or with the mark described in paragraph 2(2); and
@@ -575,16 +575,16 @@ The occupier of an undesignated hatchery to which hatching eggs are moved in acc
 
 (3) A person other than the final consumer of meat marked with a mark referred to in sub-paragraph (2)(c) shall not deface, obliterate or remove that mark, unless licenced by the Department.
 
-#### 2. National mark[^key-6bee1bf77a6e9aee979b64138c261071][^key-f37f90681403ae21b939233d6be09fb3]
+#### 2. National mark[^c-6bee1bf77a6e9aee979b64138c261071][^c-f37f90681403ae21b939233d6be09fb3]
 
 (1) The national mark referred to in paragraph 1(2)(c)(i) must—
 
 - (a) be square;
 - (b) be clear and visible; and
 - (c) contain in legible form, the following—
-  - (i) on the upper part, the letters “UK(NI)[^key-0aaa6270990f776d0e91bbb8860535bc]”;
+  - (i) on the upper part, the letters “UK(NI)[^c-0aaa6270990f776d0e91bbb8860535bc]”;
   - (ii) in the centre, the slaughterhouse approval number;
-  - (iii)[^key-4a28a899885363d1be5ec6ad2c2a8ad6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-4a28a899885363d1be5ec6ad2c2a8ad6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The other identification mark referred to in paragraph 1(2)(c)(i) must be—
 
@@ -593,19 +593,19 @@ The occupier of an undesignated hatchery to which hatching eggs are moved in acc
 - (c) legible to the naked eye.
 
   [image: see source](https://www.legislation.gov.uk/nisr/2007/208/images/nisr_20070208_en_002)
-- (a) UK(NI)[^key-25bb280cf5a8d808e505afd1bb4bd136] – letters 8 mm high;
+- (a) UK(NI)[^c-25bb280cf5a8d808e505afd1bb4bd136] – letters 8 mm high;
 - (b) XXXX (where XXXX is the approval number of the premises, as referred to in point 7 of Part B of Section I of Annex II to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853)) – numbers 11 mm high;
 - (c) diameter (to outer edge of border) – not less than 30mm;
 - (d) thickness of border – 3 mm.
 
-#### 3. Conditions for the movement of meat and products[^key-f0b6ab3d0706b8166b479b0a390c9d83]
+#### 3. Conditions for the movement of meat and products[^c-f0b6ab3d0706b8166b479b0a390c9d83]
 
 The conditions referred to in paragraph 1(2)(c)(ii) are that the meat (or the meat from which the product was made) was obtained, cut and stored separately from—
 
 - (a) controlled meat being moved under paragraphs 1(2)(a), (b) or (d); and
 - (b) from meat from poultry from outside the wild bird control area.
 
-#### 4. Separation of controlled meat[^key-7ea310390dca5e53009e4ee7f86cca3b]
+#### 4. Separation of controlled meat[^c-7ea310390dca5e53009e4ee7f86cca3b]
 
 (1) A person moving controlled meat out of the wild bird control area under a licence granted in accordance with paragraph 1(2)(c) must ensure that it does not come into contact with controlled meat being moved under a licence granted in accordance with paragraphs 1(2)(a), (b) or (d) or any meat from poultry from outside that area.
 
@@ -615,11 +615,11 @@ The conditions referred to in paragraph 1(2)(c)(ii) are that the meat (or the me
 
 ### PART IV — MOVEMENT OF BY-PRODUCTS
 
-#### 1. Restriction on the movement of bird by-products or products derived from bird by-products from premises in a wild bird control area[^key-f166921df0ae255a80ec879015655ed0]
+#### 1. Restriction on the movement of bird by-products or products derived from bird by-products from premises in a wild bird control area[^c-f166921df0ae255a80ec879015655ed0]
 
 (1) A person may not move from a wild bird control area, a bird by-product derived from poultry, other captive birds or wild game birds originating from within that control area, or a product deriving from such by-products, except under the authority of and in accordance with the conditions of a licence granted by the Department.
 
-(2)[^key-1a67be267a9aaa09f56700b6144f5ce7] The Department may not grant or direct the grant of a licence under sub-paragraph (1) unless it is for a movement of—
+(2)[^c-1a67be267a9aaa09f56700b6144f5ce7] The Department may not grant or direct the grant of a licence under sub-paragraph (1) unless it is for a movement of—
 
 - (a) processed animal protein within the meaning of paragraph 5 of Annex 1 to Regulation (EU) No. 142/2011 and which complies with the requirements of paragraph B of Section 1 of Chapter II of Annex X to that Regulation;
 - (b) blood products within the meaning of paragraph 4 of Annex I to Regulation (EU) No. 142/2011 and which comply with the requirements of paragraph B of Section 2 of Chapter II of Annex X to that Regulation;
@@ -635,16 +635,16 @@ The conditions referred to in paragraph 1(2)(c)(ii) are that the meat (or the me
 - (l) dogchews within the meaning of paragraph 17 of Annex I to Regulation (EU) No. 142/2011 and which comply with the requirements of Chapter II of Annex XIII to that Regulation;
 - (m) processed manure and processed manure products which comply with the requirements of Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011;
 - (n) game trophies having undergone a complete taxidermy treatment ensuring their preservation at ambient temperatures within the meaning of Chapter VI of Annex XIII to Regulation (EU) No. 142/2011;
-- (o) those by-products which are transported to designated plants within regulation[^key-d070d0f499351074e5581ad9e98a1a99] 13(1)(b), processing plants for disposal, treatment, transformation or use which ensures inactivation of the avian influenza virus;
+- (o) those by-products which are transported to designated plants within regulation[^c-d070d0f499351074e5581ad9e98a1a99] 13(1)(b), processing plants for disposal, treatment, transformation or use which ensures inactivation of the avian influenza virus;
 - (p) those products which are transported to users or collection centres authorised and registered in accordance with Article 23 of Regulation (EU) No. 142/2011 for the feeding of animals after they have been treated by a method approved by the Department which ensures inactivation of the avian influenza virus;
 - (q) untreated feathers or parts of untreated feathers produced from poultry within the meaning of paragraph 30 of Annex 1 to Regulation (EU) No. 142/2011 and which comply with the requirements of paragraph A of Chapter VII of Annex XIII to that Regulation;
 - (r) poultry feathers, feathers from wild game birds or parts of such feathers which have been treated with a steam current or by another method which ensures inactivation of the avian influenza virus.
 
-(3) The Department may not grant a licence under sub-paragraph (1) for the movement of the by-products listed in sub-paragraph (2)(a) to (i) unless they have also been processed at a processing plant which complies with the requirements of Regulation[^key-f410cad074ba0146f8e981aef1c60d00] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Annex IV to Regulation (EU) No. 142/2011.
+(3) The Department may not grant a licence under sub-paragraph (1) for the movement of the by-products listed in sub-paragraph (2)(a) to (i) unless they have also been processed at a processing plant which complies with the requirements of Regulation[^c-f410cad074ba0146f8e981aef1c60d00] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) and Annex IV to Regulation (EU) No. 142/2011.
 
 (4) The prohibition in sub-paragraph (1) does not apply to a movement permitted under Part V paragraphs 1 or 2.
 
-(5) The bird by-products referred to in sub-paragraph (2)(p) and (q) must be accompanied by the model commercial document in accordance with Chapter[^key-79dd5e189688604309b2838fa19cb3dd] III of Annex VIII to Regulation (EU) No. 142/2011.
+(5) The bird by-products referred to in sub-paragraph (2)(p) and (q) must be accompanied by the model commercial document in accordance with Chapter[^c-79dd5e189688604309b2838fa19cb3dd] III of Annex VIII to Regulation (EU) No. 142/2011.
 
 (6) The commercial document accompanying the bird by-products referred to in sub-paragraph (2)(q) must state, at paragraph 6.1 of that document, that they have been treated with a steam current or with another method to ensure no virus causing avian influenza remains.
 
@@ -652,32 +652,32 @@ The conditions referred to in paragraph 1(2)(c)(ii) are that the meat (or the me
 
 ### PART V — OTHER MEASURES
 
-#### 1. Prohibition on movement of poultry manure[^key-35e03b7a2c986932be5259c20f0117af]
+#### 1. Prohibition on movement of poultry manure[^c-35e03b7a2c986932be5259c20f0117af]
 
 A person may not move any manure from poultry or other captive birds from premises in a wild bird control area unless—
 
-- (a) the movement is to an establishment for treatment in accordance with Regulation (EC) No. 1069/2009 and Section 2 of Chapter I of Annex[^key-2cf9644b8c2a85d623554da6199d7be3] XI to Regulation (EU) No. 142/2011;
+- (a) the movement is to an establishment for treatment in accordance with Regulation (EC) No. 1069/2009 and Section 2 of Chapter I of Annex[^c-2cf9644b8c2a85d623554da6199d7be3] XI to Regulation (EU) No. 142/2011;
 - (b) the poultry manure has already been so treated; or
 - (c) it originates from premises from which poultry have been moved under the authority of and in accordance with the conditions of a licence granted under Part I paragraph 1(2)(a), (b) or (c).
 
-#### 2. Prohibition on the spread of poultry manure[^key-3f5ad6ddc587541a276c5b0df9010578]
+#### 2. Prohibition on the spread of poultry manure[^c-3f5ad6ddc587541a276c5b0df9010578]
 
 A person may not spread any manure from poultry or other captive birds from premises in a wild bird control area unless—
 
-- (a) it has been treated in accordance with Regulation (EC) No. 1069/2009 and Section 2 of Chapter I of Annex[^key-9498defbb9f6246ff5e888c568e84699] XI to Regulation (EU) No. 142/2011; or
+- (a) it has been treated in accordance with Regulation (EC) No. 1069/2009 and Section 2 of Chapter I of Annex[^c-9498defbb9f6246ff5e888c568e84699] XI to Regulation (EU) No. 142/2011; or
 - (b) it originates from premises from which poultry have been moved under the authority of and in accordance with the conditions of a licence granted under Part I paragraph 1(2)(a), (b) or (c).
 
-#### 3. Prohibition on gatherings of poultry and other captive birds in a wild bird control area[^key-835c307aba0d0940454ffb55886d7485]
+#### 3. Prohibition on gatherings of poultry and other captive birds in a wild bird control area[^c-835c307aba0d0940454ffb55886d7485]
 
 (1) A person may not arrange any fair, market, show, exhibition or other gathering involving the collecting together of poultry or other captive birds.
 
 (2) A person may not bring any poultry or other captive birds to such a gathering.
 
-#### 4. Prohibition on hunting wild birds in a wild bird control area[^key-3a099008af7ffe7fcec96b26f2bca19f]
+#### 4. Prohibition on hunting wild birds in a wild bird control area[^c-3a099008af7ffe7fcec96b26f2bca19f]
 
 A person may not hunt wild birds or otherwise take them from the wild in a wild bird control area except under the authority of and in accordance with the conditions of a licence granted by the Department.
 
-#### 5. Prohibition on the release of game birds[^key-ac68991f0def50226dced945a7b546c9]
+#### 5. Prohibition on the release of game birds[^c-ac68991f0def50226dced945a7b546c9]
 
 A person may not release game birds in a wild bird control area.
 
@@ -685,7 +685,7 @@ A person may not release game birds in a wild bird control area.
 
 Regulation 8(2)
 
-### 1. Prohibition on the movement of poultry and other captive birds from a wild bird monitoring area[^key-e17bcd0fae3473becde26fd21b9dfe99]
+### 1. Prohibition on the movement of poultry and other captive birds from a wild bird monitoring area[^c-e17bcd0fae3473becde26fd21b9dfe99]
 
 (1) A person may not move poultry or other captive birds from premises in a wild bird monitoring area before 15 days have elapsed since the declaration of the area, except under the authority of and in accordance with the conditions of a licence granted by the Department.
 
@@ -701,25 +701,25 @@ Regulation 8(2)
 
 (4) The Department may not grant a licence for a movement under sub-paragraph (2)(e) unless it is satisfied that there was no contact, at the hatchery from which the day-old chicks are being moved, between the eggs from which the day-old chicks were hatched and any other hatching eggs or day-old chicks originating from poultry within the wild bird control area or the wild bird monitoring area.
 
-### 2. Slaughter of poultry[^key-864e35d9bc19c9152be611c56e205c63]
+### 2. Slaughter of poultry[^c-864e35d9bc19c9152be611c56e205c63]
 
 The occupier of a slaughterhouse to which poultry are moved in accordance with paragraph 1(2)(a) must ensure that the poultry are slaughtered without delay.
 
-### 3. Restriction on movement of poultry from premises of destination[^key-26cc76b74e74fdfc0580955d8f5a871a]
+### 3. Restriction on movement of poultry from premises of destination[^c-26cc76b74e74fdfc0580955d8f5a871a]
 
 (1) If the Department grants a licence for a movement of day-old chicks under paragraph 1(2)(d) to designated premises outside the wild bird monitoring area, or outside the wild bird control area centred on the same outbreak point**,** the occupier of the designated premises to which they are moved must ensure that neither they nor any other poultry are moved off the premises for 21 days from the date when those day-old chicks arrived.
 
-### 4. Prohibition on hunting wild birds in a wild bird monitoring area[^key-e2501494396d982b16e4566eb55f27ec]
+### 4. Prohibition on hunting wild birds in a wild bird monitoring area[^c-e2501494396d982b16e4566eb55f27ec]
 
 A person may not hunt wild birds or otherwise take them from the wild in a wild bird monitoring area except under the authority of and in accordance with the conditions a licence granted by the Department
 
-### 5. Prohibition on gatherings of poultry and other captive birds in a wild bird monitoring area[^key-6726eff934a4276d6dc1d5e9173e1cf4]
+### 5. Prohibition on gatherings of poultry and other captive birds in a wild bird monitoring area[^c-6726eff934a4276d6dc1d5e9173e1cf4]
 
 (1) A person may not arrange any fair, market, show, exhibition or other gathering involving the collecting together of poultry or other captive birds.
 
 (2) A person may not bring any poultry or other captive birds to such a gathering.
 
-### 6. Prohibition on the release of game birds[^key-848e25fdc1dd935402de6bbf0102d6f6]
+### 6. Prohibition on the release of game birds[^c-848e25fdc1dd935402de6bbf0102d6f6]
 
 A person may not release game birds in a wild bird monitoring area.
 
@@ -727,13 +727,13 @@ A person may not release game birds in a wild bird monitoring area.
 
 Regulation 8(3) and 11
 
-**1.**[^key-3450bfa955293ec95178ed6dc779d30e] This Schedule applies in respect of premises in the wild bird control area or a wild bird monitoring area where poultry or other captive birds are kept, other than slaughterhouses.
+**1.**[^c-3450bfa955293ec95178ed6dc779d30e] This Schedule applies in respect of premises in the wild bird control area or a wild bird monitoring area where poultry or other captive birds are kept, other than slaughterhouses.
 
-**2.**[^key-8f6f39019c6886b2200589ce201697d4] The occupier must provide and maintain means of disinfection at the entrances and exits of the premises and any buildings on the premises housing poultry or other captive birds.
+**2.**[^c-8f6f39019c6886b2200589ce201697d4] The occupier must provide and maintain means of disinfection at the entrances and exits of the premises and any buildings on the premises housing poultry or other captive birds.
 
-**3.**[^key-86217c70bf40c400bd37c6afa4bb5dca] A person entering or leaving premises must not wear clothing or footwear which is visibly soiled with mud, droppings, animal or bird faeces or any similar matter.
+**3.**[^c-86217c70bf40c400bd37c6afa4bb5dca] A person entering or leaving premises must not wear clothing or footwear which is visibly soiled with mud, droppings, animal or bird faeces or any similar matter.
 
-**4.**[^key-cd05ce3536d4185f8e801998733e26be] A person in charge of any vehicle entering or leaving premises must ensure that—
+**4.**[^c-cd05ce3536d4185f8e801998733e26be] A person in charge of any vehicle entering or leaving premises must ensure that—
 
 - (a) its wheels, wheel arches and mudflaps are cleansed and disinfected; and
 - (b) its outside is not visibly soiled with mud, animal or bird faeces or any similar matter (unless it is carrying poultry).
@@ -781,160 +781,160 @@ Schedule 3 sets out the biosecurity measures that are to apply in respect of pre
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-c239ea05ac0cfcc6e5228baa1576b938]: Commencement: Reg. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-c239ea05ac0cfcc6e5228baa1576b938]: Commencement: Reg. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-d01ae972838fa40291fefcb46ba2d3f5]: Commencement: Reg. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-d01ae972838fa40291fefcb46ba2d3f5]: Commencement: Reg. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2007 No. 68](https://www.legislation.gov.uk/nisr/2007/68)
 
-[^key-94142df2f7433f01c4dfb9180cfe3e33]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (19.3.2011) by virtue of [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 42(a)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/42)
+[^c-94142df2f7433f01c4dfb9180cfe3e33]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (19.3.2011) by virtue of [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 42(a)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/42)
 
-[^key-c39854fb848aaea20ec3714aa2fa0c86]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/a)
+[^c-c39854fb848aaea20ec3714aa2fa0c86]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/a)
 
-[^key-4c064a8c2ee0431d728926048f2e9e29]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/b)
+[^c-4c064a8c2ee0431d728926048f2e9e29]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/b)
 
-[^key-ad5facf5c6d17a7de56517c173026cbe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(c)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/c)
+[^c-ad5facf5c6d17a7de56517c173026cbe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(c)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/c)
 
-[^key-ac2ebbe9bb559f9a519edd385b13082c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [18(2)](https://www.legislation.gov.uk/nisr/2019/227/regulation/18/2)
+[^c-ac2ebbe9bb559f9a519edd385b13082c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [18(2)](https://www.legislation.gov.uk/nisr/2019/227/regulation/18/2)
 
-[^key-66d0743885955269ba20edd9529caa5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 42(b)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/42)
+[^c-66d0743885955269ba20edd9529caa5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 42(b)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/42)
 
-[^key-e3b7c2c449da59ac23366e3a909dde25]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(e)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/e)
+[^c-e3b7c2c449da59ac23366e3a909dde25]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(e)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/e)
 
-[^key-30e07a2367529dfb1f53f25ff7235d56]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (30.10.2019) by [The Animal Health and Welfare (Amendment) (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/197)](https://www.legislation.gov.uk/nisr/2019/197), [reg. 1](https://www.legislation.gov.uk/nisr/2019/197/regulation/1), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2019/197/schedule/1/paragraph/4/2/b)
+[^c-30e07a2367529dfb1f53f25ff7235d56]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (30.10.2019) by [The Animal Health and Welfare (Amendment) (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/197)](https://www.legislation.gov.uk/nisr/2019/197), [reg. 1](https://www.legislation.gov.uk/nisr/2019/197/regulation/1), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2019/197/schedule/1/paragraph/4/2/b)
 
-[^key-233bdef71a4fd089388d7ae143429832]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) inserted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 42(c)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/42)
+[^c-233bdef71a4fd089388d7ae143429832]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) inserted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 42(c)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/42)
 
-[^key-e2337778c583e8f4816dd56f488b1ab6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(f)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/f)
+[^c-e2337778c583e8f4816dd56f488b1ab6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 24(f)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/24/f)
 
-[^key-7eae955c57b5046a1d4f3e9b7ad98dcd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (30.10.2019) by [The Animal Health and Welfare (Amendment) (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/197)](https://www.legislation.gov.uk/nisr/2019/197), [reg. 1](https://www.legislation.gov.uk/nisr/2019/197/regulation/1), [Sch. 1 para. 4(2)(c)](https://www.legislation.gov.uk/nisr/2019/197/schedule/1/paragraph/4/2/c)
+[^c-7eae955c57b5046a1d4f3e9b7ad98dcd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/208/regulation/2/1) substituted (30.10.2019) by [The Animal Health and Welfare (Amendment) (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/197)](https://www.legislation.gov.uk/nisr/2019/197), [reg. 1](https://www.legislation.gov.uk/nisr/2019/197/regulation/1), [Sch. 1 para. 4(2)(c)](https://www.legislation.gov.uk/nisr/2019/197/schedule/1/paragraph/4/2/c)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fa5d6e2bdd2f22ce6ecc51f577ef614d]: Commencement: Reg. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-fa5d6e2bdd2f22ce6ecc51f577ef614d]: Commencement: Reg. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-f78e0bbef57642ff5c9ded41bcb1a5a6]: Commencement: Reg. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-f78e0bbef57642ff5c9ded41bcb1a5a6]: Commencement: Reg. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-98eed469e27772e69ea736cc6a9a8510]: Commencement: Reg. 5 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-98eed469e27772e69ea736cc6a9a8510]: Commencement: Reg. 5 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-791ff2a070cf8f2317b31644a2dfa84b]: Commencement: Reg. 6 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-791ff2a070cf8f2317b31644a2dfa84b]: Commencement: Reg. 6 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-e9cdcd3ea3b28e8d509878dea34c6483]: Commencement: Reg. 7 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-e9cdcd3ea3b28e8d509878dea34c6483]: Commencement: Reg. 7 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-1b9dee877b605d594780b4bba7b0c210]: Commencement: Reg. 8 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-1b9dee877b605d594780b4bba7b0c210]: Commencement: Reg. 8 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-066b22bc8d8170756078ebcaf5b26b7e]: Commencement: Reg. 9 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-066b22bc8d8170756078ebcaf5b26b7e]: Commencement: Reg. 9 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-bda2cf2d24cf2f9667fa937c011aa26c]: Commencement: Reg. 10 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-bda2cf2d24cf2f9667fa937c011aa26c]: Commencement: Reg. 10 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-87d0aee9f59810e51b6382aff6853306]: Commencement: Reg. 11 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-87d0aee9f59810e51b6382aff6853306]: Commencement: Reg. 11 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-ac06d8ebd2b8ebf17049211a3628073d]: Commencement: Reg. 12 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-ac06d8ebd2b8ebf17049211a3628073d]: Commencement: Reg. 12 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-3dfbfad22a060e51fb79a21c1184300c]: Commencement: Reg. 13 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-3dfbfad22a060e51fb79a21c1184300c]: Commencement: Reg. 13 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-b5a5334288406f302c52f3f70c633336]: Textual amendment: [Art. 13(1)(b)](https://www.legislation.gov.uk/nisr/2007/208/regulation/13/1/b) substituted (19.3.2011) by virtue of [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 43](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/43)
+[^c-b5a5334288406f302c52f3f70c633336]: Textual amendment: [Art. 13(1)(b)](https://www.legislation.gov.uk/nisr/2007/208/regulation/13/1/b) substituted (19.3.2011) by virtue of [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 43](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/43)
 
-[^key-811c898df3474fdee904b477f03913e9]: Commencement: Reg. 14 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-811c898df3474fdee904b477f03913e9]: Commencement: Reg. 14 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-82c1c500eecee7c1de69732cec021d31]: Commencement: Reg. 15 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-82c1c500eecee7c1de69732cec021d31]: Commencement: Reg. 15 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-f5f5261f64540a9e73f4e08787f50ade]: Commencement: Reg. 16 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-f5f5261f64540a9e73f4e08787f50ade]: Commencement: Reg. 16 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-aaf5e36cf47cc8757297091d3c448a06]: Commencement: Reg. 17 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-aaf5e36cf47cc8757297091d3c448a06]: Commencement: Reg. 17 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
 [^f00008]: Footnote: S.R. & O. [(N.I.) 1972 No 16](https://www.legislation.gov.uk/nisro/1972/16) as amended by [S.R. 1975 No. 69](https://www.legislation.gov.uk/nisr/1975/69), [S.R. 1995 No. 467](https://www.legislation.gov.uk/nisr/1995/467) and [S.R. 2006 No. 42](https://www.legislation.gov.uk/nisr/2006/42)
 
-[^key-d3f7dceaff8fa5707a0a220dde8bde77]: Commencement: Reg. 18 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-d3f7dceaff8fa5707a0a220dde8bde77]: Commencement: Reg. 18 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-28ddddf87596bfc7ea35dd9bdfde5297]: Commencement: Reg. 19 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-28ddddf87596bfc7ea35dd9bdfde5297]: Commencement: Reg. 19 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-cefa262a45b385dabea2ace91f192554]: Commencement: Reg. 20 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-cefa262a45b385dabea2ace91f192554]: Commencement: Reg. 20 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-ce0715a521d67e702d954337f18f6c63]: Commencement: Reg. 21 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-ce0715a521d67e702d954337f18f6c63]: Commencement: Reg. 21 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-e632525a72de7c34db86aa56794acc01]: Commencement: Reg. 22 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-e632525a72de7c34db86aa56794acc01]: Commencement: Reg. 22 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-278d6c44b937977668692ffec52818cb]: Textual amendment: Word in [reg. 22(d)](https://www.legislation.gov.uk/nisr/2007/208/regulation/22/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 13](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/13)
+[^c-278d6c44b937977668692ffec52818cb]: Textual amendment: Word in [reg. 22(d)](https://www.legislation.gov.uk/nisr/2007/208/regulation/22/d) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 13](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/13)
 
-[^key-a5aeab09bb97e5491a8d612228e45e8d]: Textual amendment: Words in [reg. 22(d)](https://www.legislation.gov.uk/nisr/2007/208/regulation/22/d) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [12](https://www.legislation.gov.uk/nisr/2020/324/regulation/12)
+[^c-a5aeab09bb97e5491a8d612228e45e8d]: Textual amendment: Words in [reg. 22(d)](https://www.legislation.gov.uk/nisr/2007/208/regulation/22/d) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [12](https://www.legislation.gov.uk/nisr/2020/324/regulation/12)
 
-[^key-76b83a7f055b8d7c249a42d27cc19c8d]: Commencement: Sch. 1 Pt. 1 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-76b83a7f055b8d7c249a42d27cc19c8d]: Commencement: Sch. 1 Pt. 1 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-7cff3076562823aa70c52511537eab7c]: Commencement: Sch. 1 Pt. 1 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-7cff3076562823aa70c52511537eab7c]: Commencement: Sch. 1 Pt. 1 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-bb900d9350097f01271bcdb1714d0b3b]: Commencement: Sch. 1 Pt. 1 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-bb900d9350097f01271bcdb1714d0b3b]: Commencement: Sch. 1 Pt. 1 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-b38b8984d0f3af32a7bad530fbbf2a8a]: Commencement: Sch. 1 Pt. 1 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-b38b8984d0f3af32a7bad530fbbf2a8a]: Commencement: Sch. 1 Pt. 1 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-b5b67066aabfc07eaf101c5bf80e8d54]: Commencement: Sch. 1 Pt. 2 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-b5b67066aabfc07eaf101c5bf80e8d54]: Commencement: Sch. 1 Pt. 2 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
 [^f00009]: Footnote: O.J. No. L 139, 30.4.2004, p. 55, as last amended by O.J. No. L 320, 18.11.2006, p. 1
 
-[^key-90cb3fdf12caecb5200221c0dc425ff4]: Commencement: Sch. 1 Pt. 2 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-90cb3fdf12caecb5200221c0dc425ff4]: Commencement: Sch. 1 Pt. 2 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-5e9e55b441d0cec97858541cb7e13509]: Commencement: Sch. 1 Pt. 2 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-5e9e55b441d0cec97858541cb7e13509]: Commencement: Sch. 1 Pt. 2 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-12f7f3d1d1f65d6985d6869df3fae89a]: Commencement: Sch. 1 Pt. 2 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-12f7f3d1d1f65d6985d6869df3fae89a]: Commencement: Sch. 1 Pt. 2 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-0f0b31976da059e4548c6db5eba71e34]: Commencement: Sch. 1 Pt. 3 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-0f0b31976da059e4548c6db5eba71e34]: Commencement: Sch. 1 Pt. 3 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-0612b6add3b0bf1962a260c32dbeebf0]: Textual amendment: Words in [Sch. 1 Pt. III para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/1/2/a) substituted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [18(3)](https://www.legislation.gov.uk/nisr/2019/227/regulation/18/3)
+[^c-0612b6add3b0bf1962a260c32dbeebf0]: Textual amendment: Words in [Sch. 1 Pt. III para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/1/2/a) substituted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [18(3)](https://www.legislation.gov.uk/nisr/2019/227/regulation/18/3)
 
-[^key-6bee1bf77a6e9aee979b64138c261071]: Commencement: Sch. 1 Pt. 3 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-6bee1bf77a6e9aee979b64138c261071]: Commencement: Sch. 1 Pt. 3 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-f37f90681403ae21b939233d6be09fb3]: Textual amendment: [Sch. 1 Pt. III para. 2](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/2): in the identification mark “UK(NI)” substituted for “UK” (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [3(c)](https://www.legislation.gov.uk/nisr/2020/353/regulation/3/c)
+[^c-f37f90681403ae21b939233d6be09fb3]: Textual amendment: [Sch. 1 Pt. III para. 2](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/2): in the identification mark “UK(NI)” substituted for “UK” (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [3(c)](https://www.legislation.gov.uk/nisr/2020/353/regulation/3/c)
 
-[^key-0aaa6270990f776d0e91bbb8860535bc]: Textual amendment: Word in [Sch. 1 Pt. III para. 2(1)(c)(i)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/2/1/c/i) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [3(a)](https://www.legislation.gov.uk/nisr/2020/353/regulation/3/a)
+[^c-0aaa6270990f776d0e91bbb8860535bc]: Textual amendment: Word in [Sch. 1 Pt. III para. 2(1)(c)(i)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/2/1/c/i) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [3(a)](https://www.legislation.gov.uk/nisr/2020/353/regulation/3/a)
 
-[^key-4a28a899885363d1be5ec6ad2c2a8ad6]: Textual amendment: [Sch. 1 Pt. III para. 2(1)(c)(iii)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/2/1/c/iii) omitted (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [3(b)](https://www.legislation.gov.uk/nisr/2020/353/regulation/3/b)
+[^c-4a28a899885363d1be5ec6ad2c2a8ad6]: Textual amendment: [Sch. 1 Pt. III para. 2(1)(c)(iii)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/2/1/c/iii) omitted (31.12.2020) by virtue of [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [3(b)](https://www.legislation.gov.uk/nisr/2020/353/regulation/3/b)
 
-[^key-25bb280cf5a8d808e505afd1bb4bd136]: Textual amendment: Word in [Sch. 1 Pt. III para. 2](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/2) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [3(c)](https://www.legislation.gov.uk/nisr/2020/353/regulation/3/c)
+[^c-25bb280cf5a8d808e505afd1bb4bd136]: Textual amendment: Word in [Sch. 1 Pt. III para. 2](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/III/paragraph/2) substituted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [3(c)](https://www.legislation.gov.uk/nisr/2020/353/regulation/3/c)
 
-[^key-f0b6ab3d0706b8166b479b0a390c9d83]: Commencement: Sch. 1 Pt. 3 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-f0b6ab3d0706b8166b479b0a390c9d83]: Commencement: Sch. 1 Pt. 3 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-7ea310390dca5e53009e4ee7f86cca3b]: Commencement: Sch. 1 Pt. 3 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-7ea310390dca5e53009e4ee7f86cca3b]: Commencement: Sch. 1 Pt. 3 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-f166921df0ae255a80ec879015655ed0]: Commencement: Sch. 1 Pt. 4 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-f166921df0ae255a80ec879015655ed0]: Commencement: Sch. 1 Pt. 4 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-1a67be267a9aaa09f56700b6144f5ce7]: Textual amendment: [Sch. 1 Pt. IV para. 1(2)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/IV/paragraph/1/2) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(a)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
+[^c-1a67be267a9aaa09f56700b6144f5ce7]: Textual amendment: [Sch. 1 Pt. IV para. 1(2)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/IV/paragraph/1/2) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(a)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
 
-[^key-d070d0f499351074e5581ad9e98a1a99]: Textual amendment: Word in [Sch. 1 Pt. IV para. 1(2)(o)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/IV/paragraph/1/2/o) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/25)
+[^c-d070d0f499351074e5581ad9e98a1a99]: Textual amendment: Word in [Sch. 1 Pt. IV para. 1(2)(o)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/IV/paragraph/1/2/o) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/25)
 
-[^key-f410cad074ba0146f8e981aef1c60d00]: Textual amendment: Words in [Sch. 1 Pt. IV para. 1(3)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/IV/paragraph/1/3) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(b)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
+[^c-f410cad074ba0146f8e981aef1c60d00]: Textual amendment: Words in [Sch. 1 Pt. IV para. 1(3)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/IV/paragraph/1/3) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(b)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
 
-[^key-79dd5e189688604309b2838fa19cb3dd]: Textual amendment: Words in [Sch. 1 Pt. IV para. 1(5)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/IV/paragraph/1/5) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(c)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
+[^c-79dd5e189688604309b2838fa19cb3dd]: Textual amendment: Words in [Sch. 1 Pt. IV para. 1(5)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/IV/paragraph/1/5) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(c)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
 
-[^key-35e03b7a2c986932be5259c20f0117af]: Commencement: Sch. 1 Pt. 5 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-35e03b7a2c986932be5259c20f0117af]: Commencement: Sch. 1 Pt. 5 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-2cf9644b8c2a85d623554da6199d7be3]: Textual amendment: Words in [Sch. 1 Pt. V para. 1(a)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/V/paragraph/1/a) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(d)(i)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
+[^c-2cf9644b8c2a85d623554da6199d7be3]: Textual amendment: Words in [Sch. 1 Pt. V para. 1(a)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/V/paragraph/1/a) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(d)(i)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
 
-[^key-3f5ad6ddc587541a276c5b0df9010578]: Commencement: Sch. 1 Pt. 5 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-3f5ad6ddc587541a276c5b0df9010578]: Commencement: Sch. 1 Pt. 5 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-9498defbb9f6246ff5e888c568e84699]: Textual amendment: Words in [Sch. 1 Pt. V para. 2(a)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/V/paragraph/2/a) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(d)(ii)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
+[^c-9498defbb9f6246ff5e888c568e84699]: Textual amendment: Words in [Sch. 1 Pt. V para. 2(a)](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/V/paragraph/2/a) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 44(d)(ii)](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/paragraph/44)
 
-[^key-835c307aba0d0940454ffb55886d7485]: Commencement: Sch. 1 Pt. 5 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-835c307aba0d0940454ffb55886d7485]: Commencement: Sch. 1 Pt. 5 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-3a099008af7ffe7fcec96b26f2bca19f]: Commencement: Sch. 1 Pt. 5 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-3a099008af7ffe7fcec96b26f2bca19f]: Commencement: Sch. 1 Pt. 5 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-ac68991f0def50226dced945a7b546c9]: Commencement: [Sch. 1 Pt. 5 para. 5](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/5/paragraph/5) in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-ac68991f0def50226dced945a7b546c9]: Commencement: [Sch. 1 Pt. 5 para. 5](https://www.legislation.gov.uk/nisr/2007/208/schedule/1/part/5/paragraph/5) in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-e17bcd0fae3473becde26fd21b9dfe99]: Commencement: Sch. 2 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-e17bcd0fae3473becde26fd21b9dfe99]: Commencement: Sch. 2 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-864e35d9bc19c9152be611c56e205c63]: Commencement: Sch. 2 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-864e35d9bc19c9152be611c56e205c63]: Commencement: Sch. 2 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-26cc76b74e74fdfc0580955d8f5a871a]: Commencement: Sch. 2 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-26cc76b74e74fdfc0580955d8f5a871a]: Commencement: Sch. 2 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-e2501494396d982b16e4566eb55f27ec]: Commencement: Sch. 2 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-e2501494396d982b16e4566eb55f27ec]: Commencement: Sch. 2 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-6726eff934a4276d6dc1d5e9173e1cf4]: Commencement: Sch. 2 para. 5 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-6726eff934a4276d6dc1d5e9173e1cf4]: Commencement: Sch. 2 para. 5 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-848e25fdc1dd935402de6bbf0102d6f6]: Commencement: Sch. 2 para. 6 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-848e25fdc1dd935402de6bbf0102d6f6]: Commencement: Sch. 2 para. 6 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-3450bfa955293ec95178ed6dc779d30e]: Commencement: Sch. 3 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-3450bfa955293ec95178ed6dc779d30e]: Commencement: Sch. 3 para. 1 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-8f6f39019c6886b2200589ce201697d4]: Commencement: Sch. 3 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-8f6f39019c6886b2200589ce201697d4]: Commencement: Sch. 3 para. 2 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-86217c70bf40c400bd37c6afa4bb5dca]: Commencement: Sch. 3 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-86217c70bf40c400bd37c6afa4bb5dca]: Commencement: Sch. 3 para. 3 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
 
-[^key-cd05ce3536d4185f8e801998733e26be]: Commencement: Sch. 3 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)
+[^c-cd05ce3536d4185f8e801998733e26be]: Commencement: Sch. 3 para. 4 in operation at 24.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/208/regulation/1)

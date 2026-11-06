@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59.[^key-403fa3e29210fcb7de8dc18314f63762]
+## 59.[^c-403fa3e29210fcb7de8dc18314f63762]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 17 (permitted disclosure) has effect as if—
 
 ## Annotations
 
-[^key-403fa3e29210fcb7de8dc18314f63762]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2019/449/regulation/59) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-403fa3e29210fcb7de8dc18314f63762]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2019/449/regulation/59) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

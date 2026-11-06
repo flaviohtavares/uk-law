@@ -24,11 +24,11 @@ Section 57
 
 ### Introductory
 
-**1.**[^key-89084781eb882f7bd8138ef7098c51fc] A “notification order” is an order applying the notification requirements of this Part to a person who has been dealt with outside the United Kingdom in respect of a corresponding foreign offence.
+**1.**[^c-89084781eb882f7bd8138ef7098c51fc] A “notification order” is an order applying the notification requirements of this Part to a person who has been dealt with outside the United Kingdom in respect of a corresponding foreign offence.
 
 ### Corresponding foreign offences
 
-**2.**[^key-c1bb41869a9e81e4a6f73e3fd73c4182] (1) A “**corresponding foreign offence**” means an act that—
+**2.**[^c-c1bb41869a9e81e4a6f73e3fd73c4182] (1) A “**corresponding foreign offence**” means an act that—
 
 - (a) constituted an offence under the law in force in a country outside the United Kingdom, and
 - (b) corresponds to an offence to which this Part applies.
@@ -52,7 +52,7 @@ Section 57
 
 ### Conditions for making a notification order
 
-**3.**[^key-5395e5ffb74126987df03da58c1ac9ca] (1) The conditions for making a notification order in respect of a person are as follows.
+**3.**[^c-5395e5ffb74126987df03da58c1ac9ca] (1) The conditions for making a notification order in respect of a person are as follows.
 
 (2) The first condition is that under the law in force in a country outside the United Kingdom—
 
@@ -77,7 +77,7 @@ Section 57
 
 ### Application for notification order
 
-**4.**[^key-e7c6b029390c2508d524e5818fa505e6] (1) In England and Wales an application for a notification order in respect of a person may only be made by a chief officer of police.
+**4.**[^c-e7c6b029390c2508d524e5818fa505e6] (1) In England and Wales an application for a notification order in respect of a person may only be made by a chief officer of police.
 
 (2) An application may only be made if—
 
@@ -86,16 +86,16 @@ Section 57
 
 (3) The application must be made to the High Court.
 
-**5.**[^key-2580aedd1b4bcdd9de70f33190caec42] (1) In Scotland an application for a notification order in respect of a person may only be made by the chief constable of the Police Service of Scotland[^key-879a9be8fa1aa35b0348a2f041949e6a] .
+**5.**[^c-2580aedd1b4bcdd9de70f33190caec42] (1) In Scotland an application for a notification order in respect of a person may only be made by the chief constable of the Police Service of Scotland[^c-879a9be8fa1aa35b0348a2f041949e6a] .
 
 (2) An application may only be made if—
 
-- (a) the person resides in Scotland[^key-e762e59ae28b7552ceed13d7bac2a3b1] , or
-- (b) the chief constable believes that the person is in, or is intending to come to, Scotland[^key-8f12ff6ea6db25927998d8b32e60ae03] .
+- (a) the person resides in Scotland[^c-e762e59ae28b7552ceed13d7bac2a3b1] , or
+- (b) the chief constable believes that the person is in, or is intending to come to, Scotland[^c-8f12ff6ea6db25927998d8b32e60ae03] .
 
 (3) The application must be made to the Court of Session.
 
-**6.**[^key-6133215de315588cbfce21a365e7cd31] (1) In Northern Ireland an application for a notification order in respect of a person may only be made by the Chief Constable of the Police Service of Northern Ireland.
+**6.**[^c-6133215de315588cbfce21a365e7cd31] (1) In Northern Ireland an application for a notification order in respect of a person may only be made by the Chief Constable of the Police Service of Northern Ireland.
 
 (2) An application may only be made if—
 
@@ -106,11 +106,11 @@ Section 57
 
 ### Effect of notification order
 
-**7.**[^key-0ca4e5851cb44844de3f358a5e17ed9a] The effect of a notification order is that the notification requirements of this Part apply to the person in respect of whom it is made.
+**7.**[^c-0ca4e5851cb44844de3f358a5e17ed9a] The effect of a notification order is that the notification requirements of this Part apply to the person in respect of whom it is made.
 
 ### Adaptation of provisions of this Part in relation to foreign proceedings
 
-**8.**[^key-1d15a2ef0701a215fdc228589e3e8369] The provisions of this Part have effect with the following adaptations in relation to foreign proceedings and cases where the notification requirements apply because a notification order has been made—
+**8.**[^c-1d15a2ef0701a215fdc228589e3e8369] The provisions of this Part have effect with the following adaptations in relation to foreign proceedings and cases where the notification requirements apply because a notification order has been made—
 
 - (a) in section 61(1) (references to dealing with an offence) for “being sentenced, or made subject to a hospital order” substitute “being made subject by the foreign court to a sentence or order within paragraph 3(2)(a) or (b) of Schedule 4”;
 - (b) in section 61(2) (references to time when person dealt with for an offence) for paragraphs (a) to (c) substitute “by the foreign court of first instance”;
@@ -120,24 +120,24 @@ Section 57
 
 ## Annotations
 
-[^key-89084781eb882f7bd8138ef7098c51fc]: Commencement: Sch. 4 para. 1 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
+[^c-89084781eb882f7bd8138ef7098c51fc]: Commencement: Sch. 4 para. 1 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
 
-[^key-c1bb41869a9e81e4a6f73e3fd73c4182]: Commencement: Sch. 4 para. 2 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
+[^c-c1bb41869a9e81e4a6f73e3fd73c4182]: Commencement: Sch. 4 para. 2 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
 
-[^key-5395e5ffb74126987df03da58c1ac9ca]: Commencement: Sch. 4 para. 3 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
+[^c-5395e5ffb74126987df03da58c1ac9ca]: Commencement: Sch. 4 para. 3 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
 
-[^key-e7c6b029390c2508d524e5818fa505e6]: Commencement: Sch. 4 para. 4 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
+[^c-e7c6b029390c2508d524e5818fa505e6]: Commencement: Sch. 4 para. 4 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
 
-[^key-2580aedd1b4bcdd9de70f33190caec42]: Commencement: Sch. 4 para. 5 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
+[^c-2580aedd1b4bcdd9de70f33190caec42]: Commencement: Sch. 4 para. 5 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
 
-[^key-879a9be8fa1aa35b0348a2f041949e6a]: Textual amendment: Words in Sch. 4 para. 5(1) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(7)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/7/a)
+[^c-879a9be8fa1aa35b0348a2f041949e6a]: Textual amendment: Words in Sch. 4 para. 5(1) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(7)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/7/a)
 
-[^key-e762e59ae28b7552ceed13d7bac2a3b1]: Textual amendment: Word in Sch. 4 para. 5(2)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(7)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/7/b)
+[^c-e762e59ae28b7552ceed13d7bac2a3b1]: Textual amendment: Word in Sch. 4 para. 5(2)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(7)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/7/b)
 
-[^key-8f12ff6ea6db25927998d8b32e60ae03]: Textual amendment: Word in Sch. 4 para. 5(2)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(7)(c)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/7/c)
+[^c-8f12ff6ea6db25927998d8b32e60ae03]: Textual amendment: Word in Sch. 4 para. 5(2)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(7)(c)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/7/c)
 
-[^key-6133215de315588cbfce21a365e7cd31]: Commencement: Sch. 4 para. 6 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
+[^c-6133215de315588cbfce21a365e7cd31]: Commencement: Sch. 4 para. 6 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
 
-[^key-0ca4e5851cb44844de3f358a5e17ed9a]: Commencement: Sch. 4 para. 7 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
+[^c-0ca4e5851cb44844de3f358a5e17ed9a]: Commencement: Sch. 4 para. 7 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
 
-[^key-1d15a2ef0701a215fdc228589e3e8369]: Commencement: Sch. 4 para. 8 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)
+[^c-1d15a2ef0701a215fdc228589e3e8369]: Commencement: Sch. 4 para. 8 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/b)

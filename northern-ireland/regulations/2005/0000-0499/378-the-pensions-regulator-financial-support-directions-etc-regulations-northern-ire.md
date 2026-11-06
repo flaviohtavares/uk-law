@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 2(5)(a), 39(1)(b), (3)(c) and (9), 40(3)(a) and (4), 41(2)(b), (c) and (d), 280(1)(b) and 287(2) of the Pensions (Northern Ireland) Order 2005[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-a8c75e54276b5fee4b07f0874504bca7]
+## 1. Citation and commencement[^c-a8c75e54276b5fee4b07f0874504bca7]
 
 These Regulations may be cited as the Pensions Regulator (Financial Support Directions, etc.) Regulations (Northern Ireland) 2005 and shall come into operation on 1st September 2005.
 
-## 2. Interpretation[^key-d65e84cb36d499a7d92119f0b8299685]
+## 2. Interpretation[^c-d65e84cb36d499a7d92119f0b8299685]
 
 (1) In these Regulations—
 
@@ -77,11 +77,11 @@ These Regulations may be cited as the Pensions Regulator (Financial Support Dire
 
 (2) In these Regulations, any reference to a numbered Article is a reference to the Article of the Order bearing that number.
 
-## 3. Prescribed schemes[^key-cceaaa9ee1bbd73c09fc6569fc20dd4d]
+## 3. Prescribed schemes[^c-cceaaa9ee1bbd73c09fc6569fc20dd4d]
 
 For the purposes of Article 39(1)(b) (schemes to which Article 39 (financial support directions) does not apply), a prescribed scheme or a scheme of a prescribed description is as prescribed for the purposes of Articles 34 and 48 (contribution notices and restoration orders) in regulation 2 of the Pensions Regulator (Contribution Notices and Restoration Orders) Regulations (Northern Ireland) 2005[^f00004].
 
-## 4. Prescribed events[^key-b452263cb73d5addb24055b3fd50546b]
+## 4. Prescribed events[^c-b452263cb73d5addb24055b3fd50546b]
 
 An event prescribed for the purposes of Article 39(3)(c) (financial support directions – content of direction) is—
 
@@ -89,7 +89,7 @@ An event prescribed for the purposes of Article 39(3)(c) (financial support dire
 - (b) any insolvency event, as defined in Article 105(2) to (5) (insolvency events) as the case may be, in relation to any person named in a financial support direction;
 - (c) any failure to abide by, or any alteration to, an arrangement falling within Article 41(2) (meaning of “financial support” – arrangements) and approved by the Regulator in a notice issued under Article 41(1) (meaning of “financial support”).
 
-## 5. Prescribed period[^key-1c3eae049172a40904c7f9571cb612d6]
+## 5. Prescribed period[^c-1c3eae049172a40904c7f9571cb612d6]
 
 (1) Subject to paragraph (2), the period prescribed for the purposes of Article 39(9) (financial support directions – prescription of relevant time) is 24 months.
 
@@ -97,17 +97,17 @@ An event prescribed for the purposes of Article 39(3)(c) (financial support dire
 
 (3) For the purposes of paragraph (2), a complete month means a period from and including the sixth day of a month to and including the fifth day of the following month.
 
-## 6. Prescribed percentage[^key-5d11cf1277dcaa5f2d212fd51b47e2e5]
+## 6. Prescribed percentage[^c-5d11cf1277dcaa5f2d212fd51b47e2e5]
 
 The percentage of the estimated Article 75 debt in relation to a scheme, prescribed for the purposes of Article 40(3)(a) (meaning of “insufficiently resourced” – percentage of Article 75 debt), is 50 per cent.
 
-## 7. Resources[^key-1035cdb6bddb38a164250ce992bb609e]
+## 7. Resources[^c-1035cdb6bddb38a164250ce992bb609e]
 
 (1) The resources of an entity shall constitute all those aspects of the entity that would be taken into account when arriving at the entity value.
 
 (2) The resources of a person to whom regulation 11 applies shall constitute all that person’s property.
 
-## 8. Value of resources - business[^key-3a3aea54d4128e765676d679efe94351]
+## 8. Value of resources - business[^c-3a3aea54d4128e765676d679efe94351]
 
 (1) Paragraphs (2) and (3) are subject to regulation 9(2) and (3).
 
@@ -115,7 +115,7 @@ The percentage of the estimated Article 75 debt in relation to a scheme, prescri
 
 (3) The value of the resources of a business associate shall be its entity value excluding relevant pension scheme related balances and any employer investment balances together with any related fair value differences as verified in accordance with regulation 10.
 
-## 9. Calculation of value of resources – business[^key-90cd2be97426a7fa5c45bdf92b53a2e5]
+## 9. Calculation of value of resources – business[^c-90cd2be97426a7fa5c45bdf92b53a2e5]
 
 (1) The value of the resources of an entity shall be calculated in accordance with the provisions of this regulation.
 
@@ -140,7 +140,7 @@ that entity may seek the agreement of the Regulator that the value of that entit
 
 (7) Stage three of the calculation is to calculate the EVD and add that to the amount that resulted from the stage two calculation.
 
-## 10. Verification of value of resources – business[^key-f64caf6ce13d28926d4c942f6ae223b2]
+## 10. Verification of value of resources – business[^c-f64caf6ce13d28926d4c942f6ae223b2]
 
 (1) If—
 
@@ -170,7 +170,7 @@ the relevant entity (either the employer referred to in sub-paragraph (a) or the
 - (a) in the case of an entity which is required to have its accounts audited, a person eligible under Article 28 of the Companies (Northern Ireland) Order 1990[^f00006] (eligibility for appointment) at the time of the report for appointment as a company auditor;
 - (b) in the case of any other entity, an independent accountant.
 
-## 11. Value of resources – individual – calculation and verification[^key-939e218151d648522efa7455de583d31]
+## 11. Value of resources – individual – calculation and verification[^c-939e218151d648522efa7455de583d31]
 
 (1) This regulation applies to an individual to whom Article 39(6)(b) (persons to whom the Regulator may issue a financial support direction – individuals) applies who is an associate of the employer under—
 
@@ -191,7 +191,7 @@ the relevant entity (either the employer referred to in sub-paragraph (a) or the
 
 (5) The Regulator may at its discretion require the individual to obtain independent valuations undertaken by a relevantly qualified independent person, of any specified asset or liability included in the declaration of resources.
 
-## 12. Verification – Regulator’s power to deem value of resources[^key-8721f8a6246ca1d4bea54b197112b20f]
+## 12. Verification – Regulator’s power to deem value of resources[^c-8721f8a6246ca1d4bea54b197112b20f]
 
 (1) If any relevant person fails to provide to the Regulator any of the required information or documentation within a reasonable time, specified in writing by the Regulator, the Regulator may deem the value of that person’s resources to be an amount determined by the Regulator.
 
@@ -202,21 +202,21 @@ the relevant entity (either the employer referred to in sub-paragraph (a) or the
 - “relevant person” means a person the value of whose resources the Regulator is seeking to have verified in accordance with regulation 10 or 11 (as the case may be), and
 - “required information or documentation” means any information or documentation required by regulation 10 or 11 (as the case may be).
 
-## 13. Prescribed requirements[^key-739e4b74c9e1356ee80d0313e4f14f82]
+## 13. Prescribed requirements[^c-739e4b74c9e1356ee80d0313e4f14f82]
 
 The requirements prescribed for the purposes of Article 41(2)(b) and (c) are that—
 
 - (a) the party or parties to the arrangement consent to the jurisdiction of the courts of Northern Ireland, and
 - (b) where there is more than one party to the arrangement, those parties enter into a legally enforceable agreement.
 
-## 14. Prescribed arrangements[^key-d771daf2bebc22c26786e1e7281e7125]
+## 14. Prescribed arrangements[^c-d771daf2bebc22c26786e1e7281e7125]
 
 An arrangement is prescribed for the purposes of Article 41(2)(d) if —
 
 - (a) the party or parties to the arrangement consent to the jurisdiction of the courts of Northern Ireland, and
 - (b) where there is more than one party to the arrangement, those parties enter into a legally enforceable agreement.
 
-## 15. Former employers[^key-038bfe4caed7bc7f5d2c13b91aa60480]
+## 15. Former employers[^c-038bfe4caed7bc7f5d2c13b91aa60480]
 
 (1) In Articles 34 to 52 (contribution notices, financial support directions and transactions at an undervalue) and these Regulations, “employer”, in relation to—
 
@@ -225,10 +225,10 @@ An arrangement is prescribed for the purposes of Article 41(2)(d) if —
 
 which has no active members, includes the person who was the employer of persons in the description of employment to which the scheme or section relates immediately before the time at which the scheme or section ceased to have any active members in relation to it.
 
-(2) In Articles 34 to 52 and these Regulations, “employer”, in relation to a non-segregated scheme or a multi-employer section of a segregated scheme includes any person who has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, AA, AB, B, C, D, E or F[^key-a76a9d09b1be4d10062e6d5bbea9250d] is satisfied where—
+(2) In Articles 34 to 52 and these Regulations, “employer”, in relation to a non-segregated scheme or a multi-employer section of a segregated scheme includes any person who has ceased to be the employer of persons in the description of employment to which the scheme or section relates unless condition A, AA, AB, B, C, D, E or F[^c-a76a9d09b1be4d10062e6d5bbea9250d] is satisfied where—
 
 - (a) condition A is that an Article 75 debt became due from that employer and the full amount of the debt has been paid;
-- (aa)[^key-5ae12f1dc05af720da41784829b0bbc7] condition AA is that—
+- (aa)[^c-5ae12f1dc05af720da41784829b0bbc7] condition AA is that—
   - (i) such a debt became due;
   - (ii) under regulation 7 of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005 an approved withdrawal arrangement came into force and the debt treated as due, as a result of that arrangement, is the approved withdrawal arrangement share and the cessation expenses attributable to the employer within the meaning of those Regulations, and
   - (iii) that debt has been paid;
@@ -242,10 +242,10 @@ which has no active members, includes the person who was the employer of persons
   - (iii) the reduced amount has been paid in full;
 - (c) condition C is that such a debt became due but it is excluded from the value of the assets of the scheme or section because it is unlikely to be recovered without disproportionate costs or within a reasonable time;
 - (d) condition D is that at the time at which any such person ceased to be the employer of persons in the description of employment to which the scheme or section relates the value of the assets of the scheme or section was such that no such debt was treated as becoming due.
-- (e)[^key-5807c4ee1ac3f27d3a67f97f1a02496e] condition E is that—
+- (e)[^c-5807c4ee1ac3f27d3a67f97f1a02496e] condition E is that—
   - (i) as a result of a restructuring occurring within regulation 6ZB or 6ZC of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005 (employment-cessation events: exemptions), no Article 75 debt became due, and
   - (ii) regulation 6ZA(3) or (4) of those Regulations (employment-cessation events: general) does not apply in relation to that restructuring.
-- (f)[^key-d01ccbe9ecc9fe3913c339e71d210960] condition F is that a flexible apportionment arrangement has taken effect in accordance with regulation 6E of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005 where the employer was the leaving employer within the meaning given in paragraph (7) of that regulation.
+- (f)[^c-d01ccbe9ecc9fe3913c339e71d210960] condition F is that a flexible apportionment arrangement has taken effect in accordance with regulation 6E of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005 where the employer was the leaving employer within the meaning given in paragraph (7) of that regulation.
 
 (3) In this regulation—
 
@@ -254,7 +254,7 @@ which has no active members, includes the person who was the employer of persons
   - (a) any contributions payable to the scheme by an employer in relation to the scheme or by a member are allocated to that employer’s or that member’s section, and
   - (b) a specified proportion of the assets of the scheme is attributable to each section of the scheme and cannot be used for the purposes of any other section.
 
-## 16. Multi-employer schemes[^key-365188cfb8502327e8f33e0d5e4a70e1]
+## 16. Multi-employer schemes[^c-365188cfb8502327e8f33e0d5e4a70e1]
 
 (1) Where Articles 34 to 52 (contribution notices, financial support directions and transactions at an undervalue) apply in relation to an occupational pension scheme which is a multi-employer scheme, those Articles are modified so that references to the employer are to be treated as references to any employer in relation to the scheme to which those Articles apply.
 
@@ -314,54 +314,54 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-a8c75e54276b5fee4b07f0874504bca7]: Commencement: Reg. 1 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-a8c75e54276b5fee4b07f0874504bca7]: Commencement: Reg. 1 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-d65e84cb36d499a7d92119f0b8299685]: Commencement: Reg. 2 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-d65e84cb36d499a7d92119f0b8299685]: Commencement: Reg. 2 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
 [^f00002]: Footnote: Article 75 was amended by Article 248 of the Pensions (Northern Ireland) Order 2005
 
 [^f00003]: Footnote: Articles 234 to 235C were substituted for Articles 234 and 235 by regulation 2 of [S.R. 2004 No. 496](https://www.legislation.gov.uk/nisr/2004/496)
 
-[^key-cceaaa9ee1bbd73c09fc6569fc20dd4d]: Commencement: Reg. 3 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-cceaaa9ee1bbd73c09fc6569fc20dd4d]: Commencement: Reg. 3 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 173](https://www.legislation.gov.uk/nisr/2005/173); regulation 2 was amended by regulation 5 of [S.R. 2005 No. 194](https://www.legislation.gov.uk/nisr/2005/194)
 
-[^key-b452263cb73d5addb24055b3fd50546b]: Commencement: Reg. 4 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-b452263cb73d5addb24055b3fd50546b]: Commencement: Reg. 4 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2005 No. 172](https://www.legislation.gov.uk/nisr/2005/172); regulation 2 was amended by regulation 9 of [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357)
 
-[^key-1c3eae049172a40904c7f9571cb612d6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/378/regulation/5) substituted (6.4.2009) by [The Pensions Regulator (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/106)](https://www.legislation.gov.uk/nisr/2009/106), [regs. 1](https://www.legislation.gov.uk/nisr/2009/106/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/106/regulation/3)
+[^c-1c3eae049172a40904c7f9571cb612d6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/378/regulation/5) substituted (6.4.2009) by [The Pensions Regulator (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/106)](https://www.legislation.gov.uk/nisr/2009/106), [regs. 1](https://www.legislation.gov.uk/nisr/2009/106/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/106/regulation/3)
 
-[^key-5d11cf1277dcaa5f2d212fd51b47e2e5]: Commencement: Reg. 6 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-5d11cf1277dcaa5f2d212fd51b47e2e5]: Commencement: Reg. 6 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-1035cdb6bddb38a164250ce992bb609e]: Commencement: Reg. 7 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-1035cdb6bddb38a164250ce992bb609e]: Commencement: Reg. 7 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-3a3aea54d4128e765676d679efe94351]: Commencement: Reg. 8 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-3a3aea54d4128e765676d679efe94351]: Commencement: Reg. 8 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-90cd2be97426a7fa5c45bdf92b53a2e5]: Commencement: Reg. 9 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-90cd2be97426a7fa5c45bdf92b53a2e5]: Commencement: Reg. 9 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-f64caf6ce13d28926d4c942f6ae223b2]: Commencement: Reg. 10 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-f64caf6ce13d28926d4c942f6ae223b2]: Commencement: Reg. 10 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
 [^f00006]: Footnote: S.I. [1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)
 
-[^key-939e218151d648522efa7455de583d31]: Commencement: Reg. 11 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-939e218151d648522efa7455de583d31]: Commencement: Reg. 11 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-8721f8a6246ca1d4bea54b197112b20f]: Commencement: Reg. 12 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-8721f8a6246ca1d4bea54b197112b20f]: Commencement: Reg. 12 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-739e4b74c9e1356ee80d0313e4f14f82]: Commencement: Reg. 13 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-739e4b74c9e1356ee80d0313e4f14f82]: Commencement: Reg. 13 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-d771daf2bebc22c26786e1e7281e7125]: Commencement: Reg. 14 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-d771daf2bebc22c26786e1e7281e7125]: Commencement: Reg. 14 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-038bfe4caed7bc7f5d2c13b91aa60480]: Commencement: Reg. 15 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-038bfe4caed7bc7f5d2c13b91aa60480]: Commencement: Reg. 15 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
-[^key-a76a9d09b1be4d10062e6d5bbea9250d]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2) substituted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/1)](https://www.legislation.gov.uk/nisr/2012/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/1/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2012/1/regulation/14/a)
+[^c-a76a9d09b1be4d10062e6d5bbea9250d]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2) substituted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/1)](https://www.legislation.gov.uk/nisr/2012/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/1/regulation/1/1), [14(a)](https://www.legislation.gov.uk/nisr/2012/1/regulation/14/a)
 
-[^key-5ae12f1dc05af720da41784829b0bbc7]: Textual amendment: [Reg. 15(2)(aa)(ab)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2/aa) substituted for [reg. 15(2)(aa)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2/aa) (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [19(b)](https://www.legislation.gov.uk/nisr/2008/132/regulation/19/b) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+[^c-5ae12f1dc05af720da41784829b0bbc7]: Textual amendment: [Reg. 15(2)(aa)(ab)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2/aa) substituted for [reg. 15(2)(aa)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2/aa) (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [19(b)](https://www.legislation.gov.uk/nisr/2008/132/regulation/19/b) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
 
-[^key-5807c4ee1ac3f27d3a67f97f1a02496e]: Textual amendment: [Reg. 15(2)(e)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2/e) added (6.4.2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://www.legislation.gov.uk/nisr/2010/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/111/regulation/1/1), [22(b)](https://www.legislation.gov.uk/nisr/2010/111/regulation/22/b)
+[^c-5807c4ee1ac3f27d3a67f97f1a02496e]: Textual amendment: [Reg. 15(2)(e)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2/e) added (6.4.2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://www.legislation.gov.uk/nisr/2010/111), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/111/regulation/1/1), [22(b)](https://www.legislation.gov.uk/nisr/2010/111/regulation/22/b)
 
-[^key-d01ccbe9ecc9fe3913c339e71d210960]: Textual amendment: [Reg. 15(2)(f)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2/f) added (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/1)](https://www.legislation.gov.uk/nisr/2012/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/1/regulation/1/1), [14(b)](https://www.legislation.gov.uk/nisr/2012/1/regulation/14/b)
+[^c-d01ccbe9ecc9fe3913c339e71d210960]: Textual amendment: [Reg. 15(2)(f)](https://www.legislation.gov.uk/nisr/2005/378/regulation/15/2/f) added (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/1)](https://www.legislation.gov.uk/nisr/2012/1), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/1/regulation/1/1), [14(b)](https://www.legislation.gov.uk/nisr/2012/1/regulation/14/b)
 
-[^key-365188cfb8502327e8f33e0d5e4a70e1]: Commencement: Reg. 16 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
+[^c-365188cfb8502327e8f33e0d5e4a70e1]: Commencement: Reg. 16 in operation at 1.9.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/378/regulation/1)
 
 [^f00007]: Footnote: Article 75A was inserted by Article 249 of the Pensions (Northern Ireland) Order 2005

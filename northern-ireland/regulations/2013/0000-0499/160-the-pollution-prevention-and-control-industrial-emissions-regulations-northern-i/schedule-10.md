@@ -22,15 +22,15 @@ summary: ''
 
 Regulation 7
 
-### 1. Application[^key-1a5099c8cc8eb692669c1079ac7e1335]
+### 1. Application[^c-1a5099c8cc8eb692669c1079ac7e1335]
 
 This Schedule applies in relation to every installation producing titanium dioxide.
 
-### 2. Interpretation[^key-1196b2252da3b22f525e7a3fb12317ff]
+### 2. Interpretation[^c-1196b2252da3b22f525e7a3fb12317ff]
 
 Chapter VI of the IED shall be read as if the words “Member States” were replaced by “the chief inspector”.
 
-### 3. Exercise of functions[^key-c6a4a05cee7d14ad4311fe2d92c04dcb]
+### 3. Exercise of functions[^c-c6a4a05cee7d14ad4311fe2d92c04dcb]
 
 The chief inspector must exercise his functions under regulation 7 so as to ensure compliance with the following provisions of the IED—
 
@@ -41,8 +41,8 @@ The chief inspector must exercise his functions under regulation 7 so as to ensu
 
 ## Annotations
 
-[^key-1a5099c8cc8eb692669c1079ac7e1335]: Commencement: Sch. 10 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-1a5099c8cc8eb692669c1079ac7e1335]: Commencement: Sch. 10 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-1196b2252da3b22f525e7a3fb12317ff]: Commencement: Sch. 10 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-1196b2252da3b22f525e7a3fb12317ff]: Commencement: Sch. 10 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-c6a4a05cee7d14ad4311fe2d92c04dcb]: Commencement: Sch. 10 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-c6a4a05cee7d14ad4311fe2d92c04dcb]: Commencement: Sch. 10 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

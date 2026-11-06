@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84D. Procedure where no postal voting document handed in by P is rejected in accordance with regulation 84C[^key-1b5f18fa4241927042dc251d777be8c8][^key-6750eef57b03e996acab911c50e0b11d]
+## 84D. Procedure where no postal voting document handed in by P is rejected in accordance with regulation 84C[^c-1b5f18fa4241927042dc251d777be8c8][^c-6750eef57b03e996acab911c50e0b11d]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b5f18fa4241927042dc251d777be8c8]: Modification: [Regs. 84A-84I](https://www.legislation.gov.uk/uksi/2008/1741/regulation/84A) applied (26.3.2024) by [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/2599/schedule/2) (as amended by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/13/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3)))
+[^c-1b5f18fa4241927042dc251d777be8c8]: Modification: [Regs. 84A-84I](https://www.legislation.gov.uk/uksi/2008/1741/regulation/84A) applied (26.3.2024) by [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/2599/schedule/2) (as amended by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/13/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3)))
 
-[^key-6750eef57b03e996acab911c50e0b11d]: Textual amendment: [Regs. 84A-84I](https://www.legislation.gov.uk/uksi/2008/1741/regulation/84A) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/319/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))
+[^c-6750eef57b03e996acab911c50e0b11d]: Textual amendment: [Regs. 84A-84I](https://www.legislation.gov.uk/uksi/2008/1741/regulation/84A) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/319/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))

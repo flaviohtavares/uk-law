@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.2. Appointment of advocate to cross-examine witness[^key-06a023ba60c7c8fcf6cca2f21718ea14]
+## 23.2. Appointment of advocate to cross-examine witness[^c-06a023ba60c7c8fcf6cca2f21718ea14]
 
 *Extent: E+W*
 
@@ -89,7 +89,7 @@ summary: ''
 
 ## Annotations
 
-[^key-06a023ba60c7c8fcf6cca2f21718ea14]: Commencement: [Rule 23.2](https://www.legislation.gov.uk/uksi/2025/909/rule/23.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-06a023ba60c7c8fcf6cca2f21718ea14]: Commencement: [Rule 23.2](https://www.legislation.gov.uk/uksi/2025/909/rule/23.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00502]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 3 was amended by section 82 of, and paragraph 7 of Schedule 4 to, the Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23), section 32 of, and paragraphs 20 and 21 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 271 of, and paragraph 39 of Schedule 10 to, the Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25). Section 7A was inserted by section 37 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and was amended by section 271 of, and paragraph 39 of Schedule 10 to, the Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25).
 

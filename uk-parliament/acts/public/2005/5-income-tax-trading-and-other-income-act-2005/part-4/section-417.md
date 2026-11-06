@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-04f352ecbbdf644e3631032db93a75af] The person liable for any tax charged under this Chapter is—
+(1)[^c-04f352ecbbdf644e3631032db93a75af] The person liable for any tax charged under this Chapter is—
 
 - (a) in the case of a loan or advance made to a partnership, any partner who is an individual, and
 - (b) in any other case, the person to whom the loan or advance was made.
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04f352ecbbdf644e3631032db93a75af]: Textual amendment: S. 417(1)(1A) substituted for s. 417(1) (with effect in accordance with Sch. 30 para. 14(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 30 para. 14(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/14/1)
+[^c-04f352ecbbdf644e3631032db93a75af]: Textual amendment: S. 417(1)(1A) substituted for s. 417(1) (with effect in accordance with Sch. 30 para. 14(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 30 para. 14(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/14/1)

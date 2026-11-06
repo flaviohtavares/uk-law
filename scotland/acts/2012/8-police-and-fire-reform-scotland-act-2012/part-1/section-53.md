@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Personal records[^key-5f03420dbaa305c8bb2546f5fc026658]
+## 53. Personal records[^c-5f03420dbaa305c8bb2546f5fc026658]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Regulations made under section 48 may make provision relating to—
 
 ## Annotations
 
-[^key-5f03420dbaa305c8bb2546f5fc026658]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2012/8/section/53) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-5f03420dbaa305c8bb2546f5fc026658]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2012/8/section/53) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 63. Contents of pastoral (church buildings disposal) schemes[^key-4ddae90dd181ee8f779aaf78a3825391]
+## 63. Contents of pastoral (church buildings disposal) schemes[^c-4ddae90dd181ee8f779aaf78a3825391]
 
 *Extent: E*
 
@@ -81,7 +81,7 @@ and the said section shall otherwise apply.
 
 (14) Section 52 shall apply to pastoral (church buildings disposal) schemes in like manner as it applies to pastoral church buildings schemes, with the omission of the reference to the agreement of the bishop or bishops concerned.
 
-(15)[^key-5a535bac1a6ed2648b74e906403b7bb2] In this section “**relative**”, in relation to a person, means—
+(15)[^c-5a535bac1a6ed2648b74e906403b7bb2] In this section “**relative**”, in relation to a person, means—
 
 - (a) a spouse or civil partner, parent or grandparent or child or grandchild of the person, or
 - (b) a person who is, or is the child of, a brother, sister, uncle or aunt of the person.
@@ -90,6 +90,6 @@ and the said section shall otherwise apply.
 
 ## Annotations
 
-[^key-4ddae90dd181ee8f779aaf78a3825391]: Commencement: S. 63 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-4ddae90dd181ee8f779aaf78a3825391]: Commencement: S. 63 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-5a535bac1a6ed2648b74e906403b7bb2]: Textual amendment: S. 63(15)(16) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 6(10)](https://www.legislation.gov.uk/ukcm/2020/1/section/6/10), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-5a535bac1a6ed2648b74e906403b7bb2]: Textual amendment: S. 63(15)(16) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 6(10)](https://www.legislation.gov.uk/ukcm/2020/1/section/6/10), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)

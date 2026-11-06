@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89C. Obligation to notify OFCOM of voluntary separation[^key-1d9175928b0d14098bd419ddf87d289f]
+## 89C. Obligation to notify OFCOM of voluntary separation[^c-1d9175928b0d14098bd419ddf87d289f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d9175928b0d14098bd419ddf87d289f]: Textual amendment: Ss. 89A-89C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/50) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-1d9175928b0d14098bd419ddf87d289f]: Textual amendment: Ss. 89A-89C inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/50) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

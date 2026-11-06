@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Arbitration[^key-c4283c545fc512736bfcf63bc4681700]
+## 41. Arbitration[^c-c4283c545fc512736bfcf63bc4681700]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any difference under any provision of this Order, unless otherwise provided for,
 
 ## Annotations
 
-[^key-c4283c545fc512736bfcf63bc4681700]: Commencement: Art. 41 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-c4283c545fc512736bfcf63bc4681700]: Commencement: Art. 41 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

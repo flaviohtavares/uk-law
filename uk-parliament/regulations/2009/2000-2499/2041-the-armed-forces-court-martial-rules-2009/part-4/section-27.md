@@ -43,8 +43,8 @@ summary: ''
 
 (6) This rule applies to ancillary proceedings.
 
-(7)[^key-fef9bd616e0ada21bdbbaddfba3c8e64] This rule applies to review of sentence proceedings if it applied to the proceedings in which the sentence that falls to be reviewed was imposed.
+(7)[^c-fef9bd616e0ada21bdbbaddfba3c8e64] This rule applies to review of sentence proceedings if it applied to the proceedings in which the sentence that falls to be reviewed was imposed.
 
 ## Annotations
 
-[^key-fef9bd616e0ada21bdbbaddfba3c8e64]: Textual amendment: [Rule 27(7)](https://www.legislation.gov.uk/uksi/2009/2041/rule/27/7) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [7](https://www.legislation.gov.uk/uksi/2024/1036/rule/7)
+[^c-fef9bd616e0ada21bdbbaddfba3c8e64]: Textual amendment: [Rule 27(7)](https://www.legislation.gov.uk/uksi/2009/2041/rule/27/7) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [7](https://www.legislation.gov.uk/uksi/2024/1036/rule/7)

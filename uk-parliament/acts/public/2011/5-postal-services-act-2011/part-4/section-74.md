@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Winding-up orders[^key-ba4a8d6a7e2929a23fea642ec1907303]
+## 74. Winding-up orders[^c-ba4a8d6a7e2929a23fea642ec1907303]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba4a8d6a7e2929a23fea642ec1907303]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2011/5/section/74) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-ba4a8d6a7e2929a23fea642ec1907303]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2011/5/section/74) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

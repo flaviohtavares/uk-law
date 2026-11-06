@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Review of exercise of powers under Article 23D[^key-a8a8f743af48f74b303892486e1aa4d7]
+## 16. Review of exercise of powers under Article 23D[^c-a8a8f743af48f74b303892486e1aa4d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ In the Benchmarks Regulation, after Article 23D (inserted by section 15) insertâ
 
 ## Annotations
 
-[^key-a8a8f743af48f74b303892486e1aa4d7]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/22/section/16) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/i)
+[^c-a8a8f743af48f74b303892486e1aa4d7]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/22/section/16) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/i)

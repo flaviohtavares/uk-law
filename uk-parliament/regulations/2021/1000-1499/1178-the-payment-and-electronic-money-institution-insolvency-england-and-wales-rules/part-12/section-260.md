@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 260. General use of websites to deliver notices and other documents[^key-bc078b019c8ac5cb591b0f06e319ab45]
+## 260. General use of websites to deliver notices and other documents[^c-bc078b019c8ac5cb591b0f06e319ab45]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc078b019c8ac5cb591b0f06e319ab45]: Commencement: Rule 260 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-bc078b019c8ac5cb591b0f06e319ab45]: Commencement: Rule 260 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

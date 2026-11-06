@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — The Development Board for Rural Wales[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+## SCHEDULE 1 — The Development Board for Rural Wales[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,132 +24,132 @@ summary: ''
 
 Section 1(7).
 
-### Incorporation and status[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Incorporation and status[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
-#### 1.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 1.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 2.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appointment and tenure of members[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Appointment and tenure of members[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
-#### 3.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 3.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 4.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 5.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 6.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 7.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Disqualification of members[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Disqualification of members[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
-#### 8.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 8.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Staff[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
-#### 9.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 9.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 10.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Remuneration[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Remuneration[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
-#### 11.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 11.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 12.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 13.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 14.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 15.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 16.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Conduct of the Board’s affairs[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Conduct of the Board’s affairs[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
-#### 17.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 17.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 18.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 19.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 20.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 21.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 22.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Documents[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Documents[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
-#### 23.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 23.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 24.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 25.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]: Textual amendment: Act repealed (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 50](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/50)
+[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]: Textual amendment: Act repealed (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 50](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/50)

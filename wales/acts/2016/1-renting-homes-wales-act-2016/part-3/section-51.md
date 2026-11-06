@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Adding a joint contract-holder: formalities[^key-aa709b8c5254f737c8d4714b900e4784]
+## 51. Adding a joint contract-holder: formalities[^c-aa709b8c5254f737c8d4714b900e4784]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa709b8c5254f737c8d4714b900e4784]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2016/1/section/51) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-aa709b8c5254f737c8d4714b900e4784]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2016/1/section/51) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

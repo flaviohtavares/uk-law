@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.12. Right of appeal under Part 27[^key-6f6406abb16e0763bf1a3e14298dde3d]
+## 27.12. Right of appeal under Part 27[^c-6f6406abb16e0763bf1a3e14298dde3d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f6406abb16e0763bf1a3e14298dde3d]: Textual amendment: [Rule 27.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.12) revoked (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rules 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [11](https://www.legislation.gov.uk/uksi/2000/2092/rule/11) (with [rule 29](https://www.legislation.gov.uk/uksi/2000/2092/rule/29))
+[^c-6f6406abb16e0763bf1a3e14298dde3d]: Textual amendment: [Rule 27.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.12) revoked (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rules 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [11](https://www.legislation.gov.uk/uksi/2000/2092/rule/11) (with [rule 29](https://www.legislation.gov.uk/uksi/2000/2092/rule/29))

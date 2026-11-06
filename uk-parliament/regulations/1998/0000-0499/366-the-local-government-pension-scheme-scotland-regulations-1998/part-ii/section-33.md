@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. No double entitlement[^key-b23acd7f378e03133311b532f4f94e72]
+## 33. No double entitlement[^c-b23acd7f378e03133311b532f4f94e72]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b23acd7f378e03133311b532f4f94e72]: Commencement: Reg. 33 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-b23acd7f378e03133311b532f4f94e72]: Commencement: Reg. 33 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00017]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

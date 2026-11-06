@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Procedure at inquiry[^key-5c6eb6043746b897542aac221303f58a]
+## 45. Procedure at inquiry[^c-5c6eb6043746b897542aac221303f58a]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ which the appointed person considers to be irrelevant or repetitious.
 
 ## Annotations
 
-[^key-5c6eb6043746b897542aac221303f58a]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2017/544/regulation/45) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-5c6eb6043746b897542aac221303f58a]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2017/544/regulation/45) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

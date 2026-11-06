@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 805A. Meaning of providing qualifying care[^key-cbec104759cb95e176ec2f1cf6bf3838]
+## 805A. Meaning of providing qualifying care[^c-cbec104759cb95e176ec2f1cf6bf3838]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For the purposes of this Chapter qualifying care is provided if an individual (a
 
 ## Annotations
 
-[^key-cbec104759cb95e176ec2f1cf6bf3838]: Textual amendment: S. 805A inserted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/6) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-cbec104759cb95e176ec2f1cf6bf3838]: Textual amendment: S. 805A inserted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/6) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

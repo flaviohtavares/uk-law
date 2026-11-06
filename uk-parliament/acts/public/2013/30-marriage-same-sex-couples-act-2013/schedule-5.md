@@ -26,11 +26,11 @@ Section 12
 
 #### Introduction
 
-**1.**[^key-13dda22ff631d2edb842aa67483cf12a][^key-da464318a784a738924440bda1a8b3fa] The Gender Recognition Act 2004 is amended in accordance with this Part of this Schedule.
+**1.**[^c-13dda22ff631d2edb842aa67483cf12a][^c-da464318a784a738924440bda1a8b3fa] The Gender Recognition Act 2004 is amended in accordance with this Part of this Schedule.
 
 #### Evidence
 
-**2.**[^key-e262252db9fd0f1c4152f49d4ecabc97] Section 3 (evidence): after subsection (6) insert—
+**2.**[^c-e262252db9fd0f1c4152f49d4ecabc97] Section 3 (evidence): after subsection (6) insert—
 
 > (6A) If the applicant is married, an application under section 1(1) must include a statutory declaration as to whether the marriage is a marriage under the law of England and Wales, of Scotland, of Northern Ireland, or of a country or territory outside the United Kingdom.
 >
@@ -45,7 +45,7 @@ Section 12
 
 #### Successful applications
 
-**3.**[^key-1f16cd8deb2d77f98788f4e94ad477e9] Section 4 (successful applications): for subsections (2) and (3) substitute—
+**3.**[^c-1f16cd8deb2d77f98788f4e94ad477e9] Section 4 (successful applications): for subsections (2) and (3) substitute—
 
 > (2) The certificate is to be a full gender recognition certificate if—
 >
@@ -69,7 +69,7 @@ Section 12
 
 #### Issue of full certificate after interim certificate: applicant married
 
-**4.**[^key-bd4f1ef41ae70e6662a600056b95c37f] After section 4 insert—
+**4.**[^c-bd4f1ef41ae70e6662a600056b95c37f] After section 4 insert—
 
 > **Issue of full certificate after interim certificate: applicant married**
 >
@@ -133,7 +133,7 @@ Section 12
 
 #### Applications by both civil partners
 
-**5.**[^key-dec1f43cf81217e32c860323d8e77365] After section 5A insert—
+**5.**[^c-dec1f43cf81217e32c860323d8e77365] After section 5A insert—
 
 > **Other provision about applications and certificates**
 >
@@ -151,7 +151,7 @@ Section 12
 
 #### Errors in certificates
 
-**6.**[^key-a3c9ba1e8d60c84428ae107e99e20c0a] Section 6 (errors in certificates)—
+**6.**[^c-a3c9ba1e8d60c84428ae107e99e20c0a] Section 6 (errors in certificates)—
 
 - (a) for the title substitute “ **Errors** ”;
 - (b) for subsection (1) substitute—
@@ -172,11 +172,11 @@ Section 12
 
 #### Applications: supplementary
 
-**7.**[^key-7a2c3cba41f400cee27ee066abe6370a] Section 7 (applications: supplementary), subsection (1): after “1(1),” insert “ 4A, ”.
+**7.**[^c-7a2c3cba41f400cee27ee066abe6370a] Section 7 (applications: supplementary), subsection (1): after “1(1),” insert “ 4A, ”.
 
 #### Appeals etc
 
-**8.**[^key-dd47164153b8beeb1dcea1ebf4ed800c] Section 8 (appeals etc)—
+**8.**[^c-dd47164153b8beeb1dcea1ebf4ed800c] Section 8 (appeals etc)—
 
 - (a) subsection (1): after “1(1),” insert “ 4A, ”;
 - (b) subsection (5): after “1(1),” insert “ 4A, ”;
@@ -189,7 +189,7 @@ Section 12
 
 #### Registration
 
-**9.**[^key-167e70307393ecbd9823c246b0fd57c1][^key-5ebc725b4016d23c5ace3c3d9dd510fc] (1) Section 10 (registration): after subsection (1) insert—
+**9.**[^c-167e70307393ecbd9823c246b0fd57c1][^c-5ebc725b4016d23c5ace3c3d9dd510fc] (1) Section 10 (registration): after subsection (1) insert—
 
 > (1A) Where a full gender recognition certificate is issued to a person who is a party to—
 >
@@ -223,7 +223,7 @@ Section 12
 
 #### Change in gender of party to marriage
 
-**10.**[^key-4f31de16d2611f2aea92cfa3d59c4b51] After section 11 insert—
+**10.**[^c-4f31de16d2611f2aea92cfa3d59c4b51] After section 11 insert—
 
 > **11A. Change in gender of party to marriage**
 >
@@ -247,7 +247,7 @@ Section 12
 
 #### Change in gender of civil partners
 
-**11.**[^key-c7ee9c0c698585db966751c1cf587a20] After section 11A (inserted by paragraph 10) insert—
+**11.**[^c-c7ee9c0c698585db966751c1cf587a20] After section 11A (inserted by paragraph 10) insert—
 
 > **11B. Change in gender of civil partners**
 >
@@ -257,7 +257,7 @@ Section 12
 
 #### Foreign gender change and marriage
 
-**12.**[^key-15cf07b506cfcc11a04a7dede621a315] Section 21 (foreign gender change and marriage)—
+**12.**[^c-15cf07b506cfcc11a04a7dede621a315] Section 21 (foreign gender change and marriage)—
 
 - (a) after subsection (1) insert—
 
@@ -268,11 +268,11 @@ Section 12
 
 #### Prohibition on disclosure of information
 
-**13.**[^key-d835dc913f0deb79f315cc9ae42b201d] Section 22 (prohibition on disclosure of information), subsection (2)(a): after “section” insert “ 4A, ”.
+**13.**[^c-d835dc913f0deb79f315cc9ae42b201d] Section 22 (prohibition on disclosure of information), subsection (2)(a): after “section” insert “ 4A, ”.
 
 #### Interpretation
 
-**14.**[^key-eda8d00d84fd8d562d1823396e88554a] Section 25 (interpretation)—
+**14.**[^c-eda8d00d84fd8d562d1823396e88554a] Section 25 (interpretation)—
 
 - (a) after the definition of “Gender Recognition Panel” insert—
 
@@ -294,15 +294,15 @@ Section 12
 
 #### Introduction
 
-**15.**[^key-fe32e03b2370e8ca755ea957d2e6df68] The Gender Recognition Act 2004 is amended in accordance with this Part of this Schedule.
+**15.**[^c-fe32e03b2370e8ca755ea957d2e6df68] The Gender Recognition Act 2004 is amended in accordance with this Part of this Schedule.
 
 #### Alternative grounds for granting applications
 
-**16.**[^key-b3132a4584c48f009d806fe7afd2c93b] Section 2 (determination of applications): after subsection (3) insert—
+**16.**[^c-b3132a4584c48f009d806fe7afd2c93b] Section 2 (determination of applications): after subsection (3) insert—
 
 > (3A) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3A.
 
-**17.**[^key-793d269f2cfdab415a030755c3998086] After section 3 insert—
+**17.**[^c-793d269f2cfdab415a030755c3998086] After section 3 insert—
 
 > **3A. Alternative grounds for granting applications**
 >
@@ -329,11 +329,11 @@ Section 12
 
 #### Evidence for granting applications on alternative grounds
 
-**18.**[^key-8db334376224b6e3c8673926e2ec2d6b] Section 3 (evidence): after subsection (8) insert—
+**18.**[^c-8db334376224b6e3c8673926e2ec2d6b] Section 3 (evidence): after subsection (8) insert—
 
 > (9) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3A.
 
-**19.**[^key-8d98a1cef5b8b9bd5d43c231fea4c9cd][^key-c3036336fb1ad2ab5b2b57b6366729d7] After section 3A (inserted by paragraph 17) insert—
+**19.**[^c-8d98a1cef5b8b9bd5d43c231fea4c9cd][^c-c3036336fb1ad2ab5b2b57b6366729d7] After section 3A (inserted by paragraph 17) insert—
 
 > **3B. Evidence for granting applications on alternative grounds**
 >
@@ -381,7 +381,7 @@ Section 12
 
 #### Membership of Panels determining applications on alternative grounds
 
-**20.**[^key-95eac1b7f3278d3499383c70f7a89e51] Schedule 1 (Gender Recognition Panels), paragraph 4: after sub-paragraph (2) insert—
+**20.**[^c-95eac1b7f3278d3499383c70f7a89e51] Schedule 1 (Gender Recognition Panels), paragraph 4: after sub-paragraph (2) insert—
 
 > (3) But a Panel need not include a medical member when determining an application under section 1(1)(a) for a certificate to be granted in accordance with section 3A.
 
@@ -389,48 +389,48 @@ Section 12
 
 ## Annotations
 
-[^key-13dda22ff631d2edb842aa67483cf12a]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/1) in force at 30.6.2014 for specified purposes by [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b)
+[^c-13dda22ff631d2edb842aa67483cf12a]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/1) in force at 30.6.2014 for specified purposes by [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b)
 
-[^key-da464318a784a738924440bda1a8b3fa]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/1) in force at 10.12.2014 in so far as not already in force by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-da464318a784a738924440bda1a8b3fa]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/1) in force at 10.12.2014 in so far as not already in force by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-e262252db9fd0f1c4152f49d4ecabc97]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/2) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-e262252db9fd0f1c4152f49d4ecabc97]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/2) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-1f16cd8deb2d77f98788f4e94ad477e9]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/3) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-1f16cd8deb2d77f98788f4e94ad477e9]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/3) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-bd4f1ef41ae70e6662a600056b95c37f]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/4) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-bd4f1ef41ae70e6662a600056b95c37f]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/4) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-dec1f43cf81217e32c860323d8e77365]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/5) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-dec1f43cf81217e32c860323d8e77365]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/5) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-a3c9ba1e8d60c84428ae107e99e20c0a]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/6) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-a3c9ba1e8d60c84428ae107e99e20c0a]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/6) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-7a2c3cba41f400cee27ee066abe6370a]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/7) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-7a2c3cba41f400cee27ee066abe6370a]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/7) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-dd47164153b8beeb1dcea1ebf4ed800c]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/8) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-dd47164153b8beeb1dcea1ebf4ed800c]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/8) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-167e70307393ecbd9823c246b0fd57c1]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/9) in force at 30.6.2014 for specified purposes by [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b)
+[^c-167e70307393ecbd9823c246b0fd57c1]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/9) in force at 30.6.2014 for specified purposes by [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b)
 
-[^key-5ebc725b4016d23c5ace3c3d9dd510fc]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/9) in force at 10.12.2014 in so far as not already in force by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-5ebc725b4016d23c5ace3c3d9dd510fc]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/9) in force at 10.12.2014 in so far as not already in force by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-4f31de16d2611f2aea92cfa3d59c4b51]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/10) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-4f31de16d2611f2aea92cfa3d59c4b51]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/10) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-c7ee9c0c698585db966751c1cf587a20]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/11) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-c7ee9c0c698585db966751c1cf587a20]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/11) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-15cf07b506cfcc11a04a7dede621a315]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/12) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-15cf07b506cfcc11a04a7dede621a315]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/12) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-d835dc913f0deb79f315cc9ae42b201d]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/13) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-d835dc913f0deb79f315cc9ae42b201d]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/13) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-eda8d00d84fd8d562d1823396e88554a]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/14) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-eda8d00d84fd8d562d1823396e88554a]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/14) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-fe32e03b2370e8ca755ea957d2e6df68]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/15) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-fe32e03b2370e8ca755ea957d2e6df68]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/15) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-b3132a4584c48f009d806fe7afd2c93b]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/16) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-b3132a4584c48f009d806fe7afd2c93b]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/16) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-793d269f2cfdab415a030755c3998086]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/17) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-793d269f2cfdab415a030755c3998086]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/17) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-8db334376224b6e3c8673926e2ec2d6b]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/18) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-8db334376224b6e3c8673926e2ec2d6b]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/18) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-8d98a1cef5b8b9bd5d43c231fea4c9cd]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/19) in force at 30.6.2014 for specified purposes by [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b)
+[^c-8d98a1cef5b8b9bd5d43c231fea4c9cd]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/19) in force at 30.6.2014 for specified purposes by [S.I. 2014/1662](https://www.legislation.gov.uk/uksi/2014/1662), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1662/article/2/b)
 
-[^key-c3036336fb1ad2ab5b2b57b6366729d7]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/19) in force at 10.12.2014 in so far as not already in force by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-c3036336fb1ad2ab5b2b57b6366729d7]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/19) in force at 10.12.2014 in so far as not already in force by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-95eac1b7f3278d3499383c70f7a89e51]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/20) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-95eac1b7f3278d3499383c70f7a89e51]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/20) in force at 10.12.2014 by [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)

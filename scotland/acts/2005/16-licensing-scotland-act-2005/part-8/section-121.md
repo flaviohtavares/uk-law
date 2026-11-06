@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Keeping of smuggled goods[^key-6e09bf09ae8c1d933a6d89b34cdc8118]
+## 121. Keeping of smuggled goods[^c-6e09bf09ae8c1d933a6d89b34cdc8118]
 
 *Extent: S*
 
-(1) Any responsible person who [^key-4ec4f2de8350c48a6b0c75382a3f6834]... keeps or allows to be kept on licensed premises any goods which—
+(1) Any responsible person who [^c-4ec4f2de8350c48a6b0c75382a3f6834]... keeps or allows to be kept on licensed premises any goods which—
 
 - (a) have been imported without any duty payable on their importation having been paid, or
 - (b) have otherwise been unlawfully imported,
@@ -36,6 +36,6 @@ commits an offence.
 
 ## Annotations
 
-[^key-6e09bf09ae8c1d933a6d89b34cdc8118]: Commencement: S. 121 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-6e09bf09ae8c1d933a6d89b34cdc8118]: Commencement: S. 121 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
-[^key-4ec4f2de8350c48a6b0c75382a3f6834]: Textual amendment: Word in s. 121(1) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(2)(g)](https://www.legislation.gov.uk/asp/2010/13/section/195/2/g), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-4ec4f2de8350c48a6b0c75382a3f6834]: Textual amendment: Word in s. 121(1) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(2)(g)](https://www.legislation.gov.uk/asp/2010/13/section/195/2/g), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

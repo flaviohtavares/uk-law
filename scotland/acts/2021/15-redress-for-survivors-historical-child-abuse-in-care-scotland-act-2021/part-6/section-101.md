@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Power to make provision about additional redress reporting[^key-0034faf71e6bbae7f683201ea1e5d573]
+## 101. Power to make provision about additional redress reporting[^c-0034faf71e6bbae7f683201ea1e5d573]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ on the support as described in paragraphs (a) and (b) of section 99(2) which the
 
 ## Annotations
 
-[^key-0034faf71e6bbae7f683201ea1e5d573]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2021/15/section/101) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-0034faf71e6bbae7f683201ea1e5d573]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2021/15/section/101) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

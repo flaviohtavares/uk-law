@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 501b. Derogation from reporting requirements[^key-0c19a8f231681f3e04bbf471257efff1]
+## Article 501b. Derogation from reporting requirements[^c-0c19a8f231681f3e04bbf471257efff1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c19a8f231681f3e04bbf471257efff1]: Textual amendment: [Art. 501b](https://www.legislation.gov.uk/eur/2013/575/article/501b) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/12/6)
+[^c-0c19a8f231681f3e04bbf471257efff1]: Textual amendment: [Art. 501b](https://www.legislation.gov.uk/eur/2013/575/article/501b) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/12/6)

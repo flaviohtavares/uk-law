@@ -39,139 +39,139 @@ laying down criteria and measures for the financing of commercial demonstration 
 
 (2010/670/EU) (revoked)
 
-[^key-18b787a8a965a1b337e5fe5854134914]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18b787a8a965a1b337e5fe5854134914]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 1. Subject matter[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Principles[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 2. Principles[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Relevant costs[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 3. Relevant costs[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Role of the EIB[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 4. Role of the EIB[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Selection procedure[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 5. Selection procedure[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Eligibility criteria[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 6. Eligibility criteria[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Financial and technical due diligence[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 7. Financial and technical due diligence[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Project selection[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 8. Project selection[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Award decisions[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 9. Award decisions[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Monetisation of allowances and management of revenues[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 10. Monetisation of allowances and management of revenues[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Disbursement of revenues and use of non-disbursed revenues[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 11. Disbursement of revenues and use of non-disbursed revenues[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Knowledge-sharing[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 12. Knowledge-sharing[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Reporting by Member States[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 13. Reporting by Member States[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Reporting by the Commission[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 14. Reporting by the Commission[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Addressees[^key-18b787a8a965a1b337e5fe5854134914]
+## Article 15. Addressees[^c-18b787a8a965a1b337e5fe5854134914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — ELIGIBILITY CRITERIA[^key-18b787a8a965a1b337e5fe5854134914]
+## ANNEX I — ELIGIBILITY CRITERIA[^c-18b787a8a965a1b337e5fe5854134914]
 
-[^key-18b787a8a965a1b337e5fe5854134914]A.
+[^c-18b787a8a965a1b337e5fe5854134914]A.
 
 PROJECT CATEGORIES
 
-[^key-18b787a8a965a1b337e5fe5854134914]I.
+[^c-18b787a8a965a1b337e5fe5854134914]I.
 
 **CCS demonstration project categories (with minimum capacity thresholds****)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18b787a8a965a1b337e5fe5854134914]II.
+[^c-18b787a8a965a1b337e5fe5854134914]II.
 
 **Innovative RES demonstration project categories (with minimum size thresholds)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18b787a8a965a1b337e5fe5854134914]B.
+[^c-18b787a8a965a1b337e5fe5854134914]B.
 
 PROJECT REQUIREMENTS
 
-[^key-18b787a8a965a1b337e5fe5854134914]I.
+[^c-18b787a8a965a1b337e5fe5854134914]I.
 
 **Common requirements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18b787a8a965a1b337e5fe5854134914]II.
+[^c-18b787a8a965a1b337e5fe5854134914]II.
 
 **CCS demonstration projects**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — KNOWLEDGE-SHARING REQUIREMENTS[^key-18b787a8a965a1b337e5fe5854134914]
+## ANNEX II — KNOWLEDGE-SHARING REQUIREMENTS[^c-18b787a8a965a1b337e5fe5854134914]
 
-[^key-18b787a8a965a1b337e5fe5854134914]A.
+[^c-18b787a8a965a1b337e5fe5854134914]A.
 
 **Technical set-up and performance**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18b787a8a965a1b337e5fe5854134914]B.
+[^c-18b787a8a965a1b337e5fe5854134914]B.
 
 **Cost level**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18b787a8a965a1b337e5fe5854134914]C.
+[^c-18b787a8a965a1b337e5fe5854134914]C.
 
 **Project management**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18b787a8a965a1b337e5fe5854134914]D.
+[^c-18b787a8a965a1b337e5fe5854134914]D.
 
 **Environmental impact**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18b787a8a965a1b337e5fe5854134914]E.
+[^c-18b787a8a965a1b337e5fe5854134914]E.
 
 **Health and safety**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18b787a8a965a1b337e5fe5854134914]F.
+[^c-18b787a8a965a1b337e5fe5854134914]F.
 
 **CCS storage site performance**
 
@@ -179,4 +179,4 @@ PROJECT REQUIREMENTS
 
 ## Annotations
 
-[^key-18b787a8a965a1b337e5fe5854134914]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-18b787a8a965a1b337e5fe5854134914]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

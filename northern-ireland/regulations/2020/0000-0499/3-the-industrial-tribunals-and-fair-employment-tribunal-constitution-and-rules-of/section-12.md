@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Composition of individual tribunals: national security proceedings[^key-9871cc8e58eccf4246fefcc36029f9f2]
+## 12. Composition of individual tribunals: national security proceedings[^c-9871cc8e58eccf4246fefcc36029f9f2]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where proceedings before an industrial tribunal or the Fair Employment Tribunal 
 
 ## Annotations
 
-[^key-9871cc8e58eccf4246fefcc36029f9f2]: Commencement: Reg. 12 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-9871cc8e58eccf4246fefcc36029f9f2]: Commencement: Reg. 12 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

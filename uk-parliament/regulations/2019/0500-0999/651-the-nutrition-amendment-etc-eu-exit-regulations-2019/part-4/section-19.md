@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendment of Regulation (EU) No 609/2013[^key-dfee6f70b156c0fddfa8951fe5147170]
+## 19. Amendment of Regulation (EU) No 609/2013[^c-dfee6f70b156c0fddfa8951fe5147170]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation (EU) No 609/2013 of the European Parliament and of the Council of 12 June 2013 on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive [92/52/EEC](https://www.legislation.gov.uk/eudr/1992/52), Commission Directives [96/8/EC](https://www.legislation.gov.uk/eudr/1996/8), [1999/21/EC](https://www.legislation.gov.uk/eudr/1999/21), [2006/125/EC](https://www.legislation.gov.uk/eudr/2006/125) and [2006/141/EC](https://www.legislation.gov.uk/eudr/2006/141), Directive [2009/39/EC](https://www.legislation.gov.uk/eudr/2009/39) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/eur/2009/41) and [(EC) No 953/2009](https://www.legislation.gov.uk/eur/2009/953) is amended as follows.
 
-(2) In Article 1 (subject matter), in paragraph 2, for “Union” substitute “ Great Britain[^key-5e74c4511322c2aec2d375193e8c6b6b] ”.
+(2) In Article 1 (subject matter), in paragraph 2, for “Union” substitute “ Great Britain[^c-5e74c4511322c2aec2d375193e8c6b6b] ”.
 
 (3) In Article 2 (definitions), after paragraph (h) insert—
 
@@ -57,7 +57,7 @@ summary: ''
 
 (11) In Article 14 (technical guidelines)—
 
-- (a) for “The Commission” substitute “ The Secretary of State, the Scottish Ministers and the Welsh Ministers[^key-5ccefa424ba14ad748895558bad6d1cc] ”;
+- (a) for “The Commission” substitute “ The Secretary of State, the Scottish Ministers and the Welsh Ministers[^c-5ccefa424ba14ad748895558bad6d1cc] ”;
 - (b) for “SMEs” substitute “ small or medium sized enterprises as defined in the Annex to Commission Recommendation 2003/361/EC concerning the definition of micro, small and medium-sized enterprises ”;
 - (c) after “Chapter III”, insert—
 
@@ -70,7 +70,7 @@ summary: ''
   > - (b) in Article 3—
   >   - (i) in paragraph 2(a), for “EUR 1 250 000” there were substituted “ £1,100,000 ”;
   >   - (ii) in paragraph 2(d), for “EUR 10 million” there were substituted “ £8,800,000 ”;
-  >   - (iii) in paragraph 5, for “by national or Community rules” there were substituted “ under the law of Great Britain[^key-290c791d8e85dd353a627b21c512cd9e] (or any part of it) ”;
+  >   - (iii) in paragraph 5, for “by national or Community rules” there were substituted “ under the law of Great Britain[^c-290c791d8e85dd353a627b21c512cd9e] (or any part of it) ”;
   > - (c) in Article 5, in paragraph (b), for “national law” there were substituted “the law of Great Britain (or any part of it).
 
   .
@@ -102,7 +102,7 @@ summary: ''
 >
 > - (a) for regulations applying in relation to Scotland, the Scottish Ministers;
 > - (b) for regulations applying in relation to Wales, the Welsh Ministers;
-> - (c)[^key-c7c0bc5132475d4c9d9e2093ced6f36f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-c7c0bc5132475d4c9d9e2093ced6f36f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **2.**
 >
@@ -119,7 +119,7 @@ summary: ''
 >   - (a) for regulations applying in relation to England, the Secretary of State;
 >   - (b) for regulations applying in relation to Scotland, the Scottish Ministers;
 >   - (c) for regulations applying in relation to Wales, the Welsh Ministers;
->   - (d) [^key-12c7e51ae6619409124be0001c7e8824]...
+>   - (d) [^c-12c7e51ae6619409124be0001c7e8824]...
 > - “**enactment**” includes any enactment of the types specified in the definition of ‘enactment’ in section 20(1) of the European Union (Withdrawal) Act 2018.
 >
 > **Article 16B — Regulations: Secretary of State**
@@ -154,7 +154,7 @@ summary: ''
 >
 > **Article 16E — Regulations: Northern Ireland**
 >
-> [^key-0c1de3cd6339c4952a56942e619a4095]
+> [^c-0c1de3cd6339c4952a56942e619a4095]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -179,18 +179,18 @@ summary: ''
 
 ## Annotations
 
-[^key-dfee6f70b156c0fddfa8951fe5147170]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dfee6f70b156c0fddfa8951fe5147170]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-5e74c4511322c2aec2d375193e8c6b6b]: Textual amendment: Words in reg. 19 substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/a)
+[^c-5e74c4511322c2aec2d375193e8c6b6b]: Textual amendment: Words in reg. 19 substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/a)
 
-[^key-5ccefa424ba14ad748895558bad6d1cc]: Textual amendment: Words in reg. 19(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(c)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/c)
+[^c-5ccefa424ba14ad748895558bad6d1cc]: Textual amendment: Words in reg. 19(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(c)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/c)
 
 [^c23668801]: Marginal citation: OJ L 124, 20.5.2003, p. 36.
 
-[^key-290c791d8e85dd353a627b21c512cd9e]: Textual amendment: Words in reg. 19 substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/b)
+[^c-290c791d8e85dd353a627b21c512cd9e]: Textual amendment: Words in reg. 19 substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/b)
 
-[^key-c7c0bc5132475d4c9d9e2093ced6f36f]: Textual amendment: Words in reg. 19(15) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/d/i/aa)
+[^c-c7c0bc5132475d4c9d9e2093ced6f36f]: Textual amendment: Words in reg. 19(15) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/d/i/aa)
 
-[^key-12c7e51ae6619409124be0001c7e8824]: Textual amendment: Words in reg. 19(15) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/d/i/bb)
+[^c-12c7e51ae6619409124be0001c7e8824]: Textual amendment: Words in reg. 19(15) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/d/i/bb)
 
-[^key-0c1de3cd6339c4952a56942e619a4095]: Textual amendment: Words in reg. 19(15) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/d/ii)
+[^c-0c1de3cd6339c4952a56942e619a4095]: Textual amendment: Words in reg. 19(15) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [5(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/5/4/d/ii)

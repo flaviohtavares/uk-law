@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Transitional provisions: tips[^key-af786d54c7fccd83e38b7534d1fad9d0]
+## 72. Transitional provisions: tips[^c-af786d54c7fccd83e38b7534d1fad9d0]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af786d54c7fccd83e38b7534d1fad9d0]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2016/427/regulation/72) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-af786d54c7fccd83e38b7534d1fad9d0]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2016/427/regulation/72) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

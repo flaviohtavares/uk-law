@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Change of name by certain bodies[^key-2712ce712c7ee451295072364b4ee834]
+## 30. Change of name by certain bodies[^c-2712ce712c7ee451295072364b4ee834]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 3 (powers of the Scottish Ministers) of the 1992 Act, for subsection 
 
 ## Annotations
 
-[^key-2712ce712c7ee451295072364b4ee834]: Commencement: S. 30 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-2712ce712c7ee451295072364b4ee834]: Commencement: S. 30 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

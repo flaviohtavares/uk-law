@@ -43,7 +43,7 @@ Coming into force
 
 6th April 2004
 
-The Commissioners of Inland Revenue in exercise of the powers conferred on them by sections 684, 685(4), 692, 704, 705, 706, 707, 708 and 710 of the Income Tax (Earnings and Pensions) Act 2003[^f00001], sections 59A(10), 59B(8), 98A and 113(1) of the Taxes Management Act 1970[^f00002], sections 132 and 133(2) of the Finance Act 1999[^f00003], section 136 of the Finance Act 2002[^f00004], and sections 145(4) and 205 of the Finance Act 2003[^f00005], hereby make the following Regulations:[^key-d77759f6f3c2dd9187facee6d94578cb]
+The Commissioners of Inland Revenue in exercise of the powers conferred on them by sections 684, 685(4), 692, 704, 705, 706, 707, 708 and 710 of the Income Tax (Earnings and Pensions) Act 2003[^f00001], sections 59A(10), 59B(8), 98A and 113(1) of the Taxes Management Act 1970[^f00002], sections 132 and 133(2) of the Finance Act 1999[^f00003], section 136 of the Finance Act 2002[^f00004], and sections 145(4) and 205 of the Finance Act 2003[^f00005], hereby make the following Regulations:[^c-d77759f6f3c2dd9187facee6d94578cb]
 
 ## Contents
 
@@ -141,7 +141,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 30 — Non-cumulative basis: employee not paid weekly or monthly](part-3/section-30.md)
 - [Section 31 — Payments in short payment periods](part-3/section-31.md)
 
-##### Higher rate, additional rate and nil tax codes[^key-5fbf472c60d67884bd9e0aa19acfddbb]
+##### Higher rate, additional rate and nil tax codes[^c-5fbf472c60d67884bd9e0aa19acfddbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -200,7 +200,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 52 — Late presentation of Form P45: employer’s duties](part-3/section-52.md)
 - [Section 53 — No Form P45: subsequent procedure on issue of employee’s code](part-3/section-53.md)
 
-#### CHAPTER 3 — NEW PENSIONERS: FORMS P45 AND P46(PEN)[^key-97c5aebe5757db10e979a53436e85834]
+#### CHAPTER 3 — NEW PENSIONERS: FORMS P45 AND P46(PEN)[^c-97c5aebe5757db10e979a53436e85834]
 
 *Extent: E+W+S+N.I.*
 
@@ -217,7 +217,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 60 — Late presentation of Form P45](part-3/section-60.md)
 - [Section 61 — Subsequent procedure on issue of UK resident pensioner’s code](part-3/section-61.md)
 
-#### CHAPTER 3A — BENEFITS IN KIND[^key-ecb4e687e0271e10013cc735d05beac4]
+#### CHAPTER 3A — BENEFITS IN KIND[^c-ecb4e687e0271e10013cc735d05beac4]
 
 - [Section 61A — Interpretation](part-3/section-61a.md)
 - [Section 61B — PAYE: benefits in kind](part-3/section-61b.md)
@@ -256,7 +256,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 
 *Extent: E+W+S+N.I.*
 
-##### Real time returns[^key-08b6e8f9f8eba33d4316dc76fb9ec396]
+##### Real time returns[^c-08b6e8f9f8eba33d4316dc76fb9ec396]
 
 - [Section 67B — Real time returns of information about relevant payments](part-4/section-67b.md)
 - [Section 67BA — Employees in respect of whom employer is not required to maintain deductions working sheets](part-4/section-67ba.md)
@@ -270,18 +270,18 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 67EA — Failure to make a return under regulation 67B or 67D](part-4/section-67ea.md)
 - [Section 67F — Additional information about payments](part-4/section-67f.md)
 
-##### Payment and recovery of tax by employer[^key-08b6e8f9f8eba33d4316dc76fb9ec396]
+##### Payment and recovery of tax by employer[^c-08b6e8f9f8eba33d4316dc76fb9ec396]
 
 - [Section 67G — Payments to and recoveries from HMRC for each tax period by Real Time Information employers](part-4/section-67g.md)
 - [Section 67H — Payments to and recoveries from HMRC for each tax period by Real Time Information employers: returns under regulation 67E(6)](part-4/section-67h.md)
 
-##### Penalties under Schedule 55 to the Finance Act 2009[^key-bd34a6c50e9054748fb9f29bb73ba145]
+##### Penalties under Schedule 55 to the Finance Act 2009[^c-bd34a6c50e9054748fb9f29bb73ba145]
 
 - [Section 67I — Penalty: failure to comply with regulation 67B or 67D](part-4/section-67i.md)
 - [Section 67J — Penalty: initial period](part-4/section-67j.md)
 - [Section 67K — Penalty: first failure to deliver a return in a tax year](part-4/section-67k.md)
 
-##### ...[^key-f7392ffb8bf419891a7db780fdbb5980]
+##### ...[^c-f7392ffb8bf419891a7db780fdbb5980]
 
 *Extent: E+W+S+N.I.*
 
@@ -339,14 +339,14 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 
 - [Section 84 — Recovery of tax and interest](part-4/section-84.md)
 
-##### Continental shelf workers: provisions relating to certificates[^key-347c1d1b2f7a16d8248d3af536cbf47b]
+##### Continental shelf workers: provisions relating to certificates[^c-347c1d1b2f7a16d8248d3af536cbf47b]
 
 - [Section 84A — Application for certificate](part-4/section-84a.md)
 - [Section 84B — UKCS continental shelf workers certificate holder: obligations](part-4/section-84b.md)
 - [Section 84C — UKCS oil field licensee certificate](part-4/section-84c.md)
 - [Section 84D — Interpretation of regulations 84A to 114C](part-4/section-84d.md)
 
-##### Employment Intermediaries: return of information relating to agency workers for whom they have not operated PAYE[^key-5c4100ee959ba4e92c9ce917a9b41898]
+##### Employment Intermediaries: return of information relating to agency workers for whom they have not operated PAYE[^c-5c4100ee959ba4e92c9ce917a9b41898]
 
 - [Section 84E — Specified employment intermediaries](part-4/section-84e.md)
 - [Section 84F — Returns by specified employment intermediaries](part-4/section-84f.md)
@@ -385,7 +385,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 
 - [Section 97 — Retention by employer of PAYE records](part-4/section-97.md)
 
-#### CHAPTER 3A — Certain debts of companies under Chapter 7 of Part 2 of ITEPA (agencies)[^key-17395c0b901d39f8086f57ae94375c1f]
+#### CHAPTER 3A — Certain debts of companies under Chapter 7 of Part 2 of ITEPA (agencies)[^c-17395c0b901d39f8086f57ae94375c1f]
 
 - [Section 97ZA — Interpretation of Chapter 3A](part-4/section-97za.md)
 - [Section 97ZB — Liability of directors for relevant PAYE debts](part-4/section-97zb.md)
@@ -394,7 +394,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 97ZE — Recovery of sums due under personal liability notice: application of Part 6 of TMA](part-4/section-97ze.md)
 - [Section 97ZF — Repayment of surplus amounts](part-4/section-97zf.md)
 
-#### CHAPTER 3B — Certain debts of companies under section 339A of ITEPA (travel expenses of workers providing services through employment intermediaries)[^key-a8200f0847159118a9e781f694cbb78e]
+#### CHAPTER 3B — Certain debts of companies under section 339A of ITEPA (travel expenses of workers providing services through employment intermediaries)[^c-a8200f0847159118a9e781f694cbb78e]
 
 - [Section 97ZG — Interpretation of Chapter 3B: “relevant PAYE debt” and “relevant date”](part-4/section-97zg.md)
 - [Section 97ZH — Interpretation of Chapter 3B: general](part-4/section-97zh.md)
@@ -404,7 +404,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 97ZL — Recovery of sums due under personal liability notice: application of Part 6 of TMA](part-4/section-97zl.md)
 - [Section 97ZM — Repayment of surplus amounts](part-4/section-97zm.md)
 
-#### CHAPTER 4 — DEBTS OF MANAGED SERVICE COMPANIES[^key-7d4617430a0049f624fddf2d6c5ac8b1]
+#### CHAPTER 4 — DEBTS OF MANAGED SERVICE COMPANIES[^c-7d4617430a0049f624fddf2d6c5ac8b1]
 
 - [Section 97A — Interpretation of Chapter 4](part-4/section-97a.md)
 - [Section 97B — Relevant PAYE and apprenticeship levy debts of managed service companies](part-4/section-97b.md)
@@ -418,7 +418,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 97K — Application of Part 6 of TMA](part-4/section-97k.md)
 - [Section 97L — Repayment of surplus amounts](part-4/section-97l.md)
 
-#### CHAPTER 5 — DEBTS ARISING UNDER CHAPTER 10 OF PART 2 OF ITEPA (INTERMEDIARIES)[^key-a427e956584b4f42d2502d13f9285bee]
+#### CHAPTER 5 — DEBTS ARISING UNDER CHAPTER 10 OF PART 2 OF ITEPA (INTERMEDIARIES)[^c-a427e956584b4f42d2502d13f9285bee]
 
 - [Section 97LA — Recovery from relevant persons](part-4/section-97la.md)
 - [Section 97LB — Recovery of PAYE debt](part-4/section-97lb.md)
@@ -429,7 +429,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 97LG — Withdrawal of recovery notices](part-4/section-97lg.md)
 - [Section 97LH — Application of Part 6 of TMA](part-4/section-97lh.md)
 
-### PART 4A — Security for payment of PAYE[^key-806b3c5606653214d650bd0c19648977]
+### PART 4A — Security for payment of PAYE[^c-806b3c5606653214d650bd0c19648977]
 
 - [Section 97M — Interpretation](part-4a/section-97m.md)
 - [Section 97N — Requirement for security](part-4a/section-97n.md)
@@ -542,7 +542,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 132 — End of year certificate](part-7/section-132.md)
 - [Section 133 — Other PAYE income of reservist](part-7/section-133.md)
 
-#### CHAPTER 2A — SOCIAL SECURITY LUMP SUMS[^key-b938ba14786892f1be33cb618079d081]
+#### CHAPTER 2A — SOCIAL SECURITY LUMP SUMS[^c-b938ba14786892f1be33cb618079d081]
 
 - [Section 133A — Interpretation of Chapter 2A](part-7/section-133a.md)
 - [Section 133B — Application of other Parts](part-7/section-133b.md)
@@ -578,7 +578,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 147 — Direct collection: failure to pay](part-7/section-147.md)
 - [Section 147A — Circumstances in which payment of a lesser amount is to be treated as payment in full for the purposes of paragraph 6(2) of Schedule 56 to the Finance Act 2009](part-7/section-147a.md)
 
-### Part 7A — Apprenticeship Levy[^key-937f54e360ea7aaf085cc7de2b061d0b]
+### Part 7A — Apprenticeship Levy[^c-937f54e360ea7aaf085cc7de2b061d0b]
 
 - [Section 147B — Interpretation of Part 7A](part-7a/section-147b.md)
 - [Section 147C — Due date for payment of apprenticeship levy](part-7a/section-147c.md)
@@ -655,7 +655,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 183 — Information to be supplied when an award of taxable income support ceases](part-8/section-183.md)
 - [Section 184 — Adjustments of taxable income support](part-8/section-184.md)
 
-#### CHAPTER 5 — EMPLOYMENT AND SUPPORT ALLOWANCE[^key-c08c73bf913dc1fcb9d8153ea8ca5d9b]
+#### CHAPTER 5 — EMPLOYMENT AND SUPPORT ALLOWANCE[^c-c08c73bf913dc1fcb9d8153ea8ca5d9b]
 
 - [Section 184A — Interpretation of Chapter 5](part-8/section-184a.md)
 - [Section 184B — Application of other regulations](part-8/section-184b.md)
@@ -722,7 +722,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 203 — Default surcharge](part-10/section-203.md)
 - [Section 204 — Surcharge notice and appeal](part-10/section-204.md)
 
-#### CHAPTER 4 — MANDATORY USE OF ELECTRONIC COMMUNICATIONS : SPECIFIED INFORMATION[^key-f4786970c854ba264713b5aeb7886271]
+#### CHAPTER 4 — MANDATORY USE OF ELECTRONIC COMMUNICATIONS : SPECIFIED INFORMATION[^c-f4786970c854ba264713b5aeb7886271]
 
 *Extent: E+W+S+N.I.*
 
@@ -741,7 +741,7 @@ The Commissioners of Inland Revenue in exercise of the powers conferred on them 
 - [Section 210BA — Penalty: form P45 (Part 1 or Part 3), P46 or P46(Pen); tax years ending 5th April 2014 and subsequent years](part-10/section-210ba.md)
 - [Section 210C — Appeals and interest](part-10/section-210c.md)
 
-#### CHAPTER 4A — Mandatory use of electronic communications: real time returns of information about relevant payments of tax and associated matters[^key-ef185efac9e3c828bcb1277448c2767d]
+#### CHAPTER 4A — Mandatory use of electronic communications: real time returns of information about relevant payments of tax and associated matters[^c-ef185efac9e3c828bcb1277448c2767d]
 
 - [Section 210D — Application of Chapter 4 to real time returns of information about relevant payments of tax and associated matters](part-10/section-210d.md)
 
@@ -813,40 +813,40 @@ A Regulatory Impact Assessment has also been prepared in relation to these Regul
 
 [^f00005]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14).
 
-[^key-d77759f6f3c2dd9187facee6d94578cb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/2682) applied (with modifications) (with application in accordance with reg. 1(5) of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [87](https://www.legislation.gov.uk/uksi/2016/606/regulation/87) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/4))
+[^c-d77759f6f3c2dd9187facee6d94578cb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/2682) applied (with modifications) (with application in accordance with reg. 1(5) of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [87](https://www.legislation.gov.uk/uksi/2016/606/regulation/87) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/4))
 
-[^key-5fbf472c60d67884bd9e0aa19acfddbb]: Textual amendment: [Reg. 32 cross-heading](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/1/crossheading/higher-rate-and-nil-tax-codes) substituted (6.4.2011) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2011 (S.I. 2011/729)](https://www.legislation.gov.uk/uksi/2011/729), [regs. 1](https://www.legislation.gov.uk/uksi/2011/729/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/729/regulation/6)
+[^c-5fbf472c60d67884bd9e0aa19acfddbb]: Textual amendment: [Reg. 32 cross-heading](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/1/crossheading/higher-rate-and-nil-tax-codes) substituted (6.4.2011) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2011 (S.I. 2011/729)](https://www.legislation.gov.uk/uksi/2011/729), [regs. 1](https://www.legislation.gov.uk/uksi/2011/729/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/729/regulation/6)
 
-[^key-97c5aebe5757db10e979a53436e85834]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3) heading substituted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2007/2969/regulation/11)
+[^c-97c5aebe5757db10e979a53436e85834]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3) heading substituted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2007/2969/regulation/11)
 
-[^key-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
+[^c-ecb4e687e0271e10013cc735d05beac4]: Textual amendment: [Pt. 3 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/3/chapter/3A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/1927/regulation/6)
 
-[^key-08b6e8f9f8eba33d4316dc76fb9ec396]: Textual amendment: Regs. 67B-67H and cross-headings inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/27/b) (with [regs. 54-57](https://www.legislation.gov.uk/uksi/2012/822/regulation/54))
+[^c-08b6e8f9f8eba33d4316dc76fb9ec396]: Textual amendment: Regs. 67B-67H and cross-headings inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/27/b) (with [regs. 54-57](https://www.legislation.gov.uk/uksi/2012/822/regulation/54))
 
-[^key-bd34a6c50e9054748fb9f29bb73ba145]: Textual amendment: [Regs. 67I-67K](https://www.legislation.gov.uk/uksi/2003/2682/regulation/67I) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2014 (S.I. 2014/2396)](https://www.legislation.gov.uk/uksi/2014/2396), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2396/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/2396/regulation/2)
+[^c-bd34a6c50e9054748fb9f29bb73ba145]: Textual amendment: [Regs. 67I-67K](https://www.legislation.gov.uk/uksi/2003/2682/regulation/67I) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2014 (S.I. 2014/2396)](https://www.legislation.gov.uk/uksi/2014/2396), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2396/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/2396/regulation/2)
 
-[^key-f7392ffb8bf419891a7db780fdbb5980]: Textual amendment: [Reg. 68 cross-heading](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/1/crossheading/payment-and-recovery-of-tax-by-employer) omitted (6.4.2012) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2012/822/regulation/27/a)
+[^c-f7392ffb8bf419891a7db780fdbb5980]: Textual amendment: [Reg. 68 cross-heading](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/1/crossheading/payment-and-recovery-of-tax-by-employer) omitted (6.4.2012) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2012/822/regulation/27/a)
 
-[^key-347c1d1b2f7a16d8248d3af536cbf47b]: Textual amendment: [Regs. 84A-84D](https://www.legislation.gov.uk/uksi/2003/2682/regulation/84A) and cross-heading inserted (6.4.2014) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2014 (S.I. 2014/474)](https://www.legislation.gov.uk/uksi/2014/474), [regs. 1](https://www.legislation.gov.uk/uksi/2014/474/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/474/regulation/2/2)
+[^c-347c1d1b2f7a16d8248d3af536cbf47b]: Textual amendment: [Regs. 84A-84D](https://www.legislation.gov.uk/uksi/2003/2682/regulation/84A) and cross-heading inserted (6.4.2014) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2014 (S.I. 2014/474)](https://www.legislation.gov.uk/uksi/2014/474), [regs. 1](https://www.legislation.gov.uk/uksi/2014/474/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/474/regulation/2/2)
 
-[^key-5c4100ee959ba4e92c9ce917a9b41898]: Textual amendment: [Regs. 84E-84H](https://www.legislation.gov.uk/uksi/2003/2682/regulation/84E) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2015 (S.I. 2015/171)](https://www.legislation.gov.uk/uksi/2015/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/171/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/171/regulation/2/3)
+[^c-5c4100ee959ba4e92c9ce917a9b41898]: Textual amendment: [Regs. 84E-84H](https://www.legislation.gov.uk/uksi/2003/2682/regulation/84E) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2015 (S.I. 2015/171)](https://www.legislation.gov.uk/uksi/2015/171), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/171/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/171/regulation/2/3)
 
-[^key-17395c0b901d39f8086f57ae94375c1f]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/3A) inserted (with effect in accordance with s. 17(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/17/1)[(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/17/5)
+[^c-17395c0b901d39f8086f57ae94375c1f]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/3A) inserted (with effect in accordance with s. 17(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/17/1)[(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/17/5)
 
-[^key-a8200f0847159118a9e781f694cbb78e]: Textual amendment: [Pt. 4 Ch. 3B](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/3B) inserted (with effect in accordance with s. 14(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/5)
+[^c-a8200f0847159118a9e781f694cbb78e]: Textual amendment: [Pt. 4 Ch. 3B](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/3B) inserted (with effect in accordance with s. 14(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/5)
 
-[^key-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
+[^c-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
 
-[^key-a427e956584b4f42d2502d13f9285bee]: Textual amendment: [Pt. 4 Ch. 5](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/5) inserted (6.4.2021) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2020 (S.I. 2020/1150)](https://www.legislation.gov.uk/uksi/2020/1150), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1150/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1150/regulation/3)
+[^c-a427e956584b4f42d2502d13f9285bee]: Textual amendment: [Pt. 4 Ch. 5](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/5) inserted (6.4.2021) by [The Income Tax (Pay As You Earn) (Amendment No. 3) Regulations 2020 (S.I. 2020/1150)](https://www.legislation.gov.uk/uksi/2020/1150), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1150/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1150/regulation/3)
 
-[^key-806b3c5606653214d650bd0c19648977]: Textual amendment: Pt. 4A inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2012/822/regulation/58)
+[^c-806b3c5606653214d650bd0c19648977]: Textual amendment: Pt. 4A inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2012/822/regulation/58)
 
-[^key-b938ba14786892f1be33cb618079d081]: Textual amendment: Pt. 7 Ch. 2A added (6.4.2006) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2006 (S.I. 2006/243)](https://www.legislation.gov.uk/uksi/2006/243), [regs. 1](https://www.legislation.gov.uk/uksi/2006/243/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/243/regulation/3)
+[^c-b938ba14786892f1be33cb618079d081]: Textual amendment: Pt. 7 Ch. 2A added (6.4.2006) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2006 (S.I. 2006/243)](https://www.legislation.gov.uk/uksi/2006/243), [regs. 1](https://www.legislation.gov.uk/uksi/2006/243/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/243/regulation/3)
 
-[^key-937f54e360ea7aaf085cc7de2b061d0b]: Textual amendment: Pt. 7A inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/414/regulation/3)
+[^c-937f54e360ea7aaf085cc7de2b061d0b]: Textual amendment: Pt. 7A inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/414/regulation/3)
 
-[^key-c08c73bf913dc1fcb9d8153ea8ca5d9b]: Textual amendment: Pt. 8 Ch. 5 inserted (27.10.2008) by [The Income Tax (Pay As You Earn) (Amendment) (No.2) Regulations 2008 (S.I. 2008/2601)](https://www.legislation.gov.uk/uksi/2008/2601), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2601/regulation/1), [3](https://www.legislation.gov.uk/uksi/2008/2601/regulation/3)
+[^c-c08c73bf913dc1fcb9d8153ea8ca5d9b]: Textual amendment: Pt. 8 Ch. 5 inserted (27.10.2008) by [The Income Tax (Pay As You Earn) (Amendment) (No.2) Regulations 2008 (S.I. 2008/2601)](https://www.legislation.gov.uk/uksi/2008/2601), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2601/regulation/1), [3](https://www.legislation.gov.uk/uksi/2008/2601/regulation/3)
 
-[^key-f4786970c854ba264713b5aeb7886271]: Textual amendment: Words in [Pt. 10 Ch. 4](https://www.legislation.gov.uk/uksi/2003/2682/part/10/chapter/4) heading inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [48](https://www.legislation.gov.uk/uksi/2012/822/regulation/48)
+[^c-f4786970c854ba264713b5aeb7886271]: Textual amendment: Words in [Pt. 10 Ch. 4](https://www.legislation.gov.uk/uksi/2003/2682/part/10/chapter/4) heading inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [48](https://www.legislation.gov.uk/uksi/2012/822/regulation/48)
 
-[^key-ef185efac9e3c828bcb1277448c2767d]: Textual amendment: [Pt. 10 Ch. 4A](https://www.legislation.gov.uk/uksi/2003/2682/part/10/chapter/4A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [49](https://www.legislation.gov.uk/uksi/2012/822/regulation/49)
+[^c-ef185efac9e3c828bcb1277448c2767d]: Textual amendment: [Pt. 10 Ch. 4A](https://www.legislation.gov.uk/uksi/2003/2682/part/10/chapter/4A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [49](https://www.legislation.gov.uk/uksi/2012/822/regulation/49)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13A. Retirement pension after period of deferment[^key-1656f79aec97fc0bda38a0e2a512889a]
+## 13A. Retirement pension after period of deferment[^c-1656f79aec97fc0bda38a0e2a512889a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1656f79aec97fc0bda38a0e2a512889a]: Textual amendment: Reg. 13A inserted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/9/6)
+[^c-1656f79aec97fc0bda38a0e2a512889a]: Textual amendment: Reg. 13A inserted (6.4.2006) by [Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/9/6)

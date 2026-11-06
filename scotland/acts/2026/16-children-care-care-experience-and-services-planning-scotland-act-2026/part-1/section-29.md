@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Services taking cross-border placements[^key-0e9e99e9bbffc8f26a77a396c541543f][^key-b2449f4a6f609df2ece6b8b5aea7493c]
+## 29. Services taking cross-border placements[^c-0e9e99e9bbffc8f26a77a396c541543f][^c-b2449f4a6f609df2ece6b8b5aea7493c]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e9e99e9bbffc8f26a77a396c541543f]: Commencement: S. 29 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-0e9e99e9bbffc8f26a77a396c541543f]: Commencement: S. 29 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-b2449f4a6f609df2ece6b8b5aea7493c]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2026/16/section/29) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-b2449f4a6f609df2ece6b8b5aea7493c]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2026/16/section/29) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

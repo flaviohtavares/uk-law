@@ -34,32 +34,32 @@ of 7 December 1992
 
 applying the principle of freedom to provide sevices to maritime transport within Member States (maritime cabotage) (revoked)
 
-[^key-d4787878359341597dc390378c6f4c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4787878359341597dc390378c6f4c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-d4787878359341597dc390378c6f4c31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4787878359341597dc390378c6f4c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4787878359341597dc390378c6f4c31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4787878359341597dc390378c6f4c31]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/488/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4787878359341597dc390378c6f4c31]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/488/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

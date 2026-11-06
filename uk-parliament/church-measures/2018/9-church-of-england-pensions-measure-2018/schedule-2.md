@@ -26,14 +26,14 @@ Section 16(4)
 
 #### Introduction
 
-**1.**[^key-b10e94e5e7810476ff280cec7052a9da] This Part of this Schedule applies in the case of a member of the past service scheme who—
+**1.**[^c-b10e94e5e7810476ff280cec7052a9da] This Part of this Schedule applies in the case of a member of the past service scheme who—
 
 - (a) retired before the commencement of this Schedule (whether or not before 1 January 1998) and on or after reaching the retiring age, or
 - (b) retires after that commencement on or after reaching that age.
 
 #### Service of 37 years or more
 
-**2.**[^key-ed4f8162940fa949182fc2203557cee8] (1) This paragraph applies where the member's qualifying period of pensionable service to which the past service scheme applies is at least 37 years of whole-time service.
+**2.**[^c-ed4f8162940fa949182fc2203557cee8] (1) This paragraph applies where the member's qualifying period of pensionable service to which the past service scheme applies is at least 37 years of whole-time service.
 
 (2) If the member has not at any time in that period held the office of archbishop, diocesan bishop, suffragan bishop, dean, provost or archdeacon, the rate of pension is the full basic pension.
 
@@ -58,7 +58,7 @@ Section 16(4)
 
 #### Whole-time service of under 37 years
 
-**3.**[^key-dba8144482060b65ffc4e7061e322738] (1) This paragraph applies where the member's qualifying period of pensionable service to which the past service scheme applies is less than 37 years of whole-time service.
+**3.**[^c-dba8144482060b65ffc4e7061e322738] (1) This paragraph applies where the member's qualifying period of pensionable service to which the past service scheme applies is less than 37 years of whole-time service.
 
 (2) The rate of the pension for that period of service is calculated as follows.
 
@@ -76,7 +76,7 @@ Section 16(4)
 
 #### Part-time service after 1 January 1987
 
-**4.**[^key-d54e342039c24c774117fa65aeafe08a] (1) This paragraph applies where the member's qualifying period of pensionable service to which the past service scheme applies consists of or includes part-time service performed after 1 January 1987.
+**4.**[^c-d54e342039c24c774117fa65aeafe08a] (1) This paragraph applies where the member's qualifying period of pensionable service to which the past service scheme applies consists of or includes part-time service performed after 1 January 1987.
 
 (2) In a case where the pension for that part-time service became payable before the commencement of this Schedule, the rate of pension continues to be the rate which the Board had determined under paragraph 4 of Schedule 1 to the Church of England Pensions Regulations 1998.
 
@@ -92,7 +92,7 @@ Section 16(4)
 
 #### Retirement from office on grounds of infirmity
 
-**5.**[^key-9bc774821dc4aaff543b9e9947e0b869] (1) This paragraph applies in the case of a member of the past service scheme who retires, or has already retired, before reaching the retiring age on grounds of having become incapable through infirmity of performing the duties of his or her office.
+**5.**[^c-9bc774821dc4aaff543b9e9947e0b869] (1) This paragraph applies in the case of a member of the past service scheme who retires, or has already retired, before reaching the retiring age on grounds of having become incapable through infirmity of performing the duties of his or her office.
 
 (2) If the member retired before 1 January 1998, the rate of pension is the rate to which the member would have been entitled if he or she—
 
@@ -103,7 +103,7 @@ Section 16(4)
 
 #### Infirmity arising after pensionable service ended
 
-**6.**[^key-3c607b8a092f070458ab606196fc2d7a] (1) This paragraph applies in the case of a member of the past service scheme—
+**6.**[^c-3c607b8a092f070458ab606196fc2d7a] (1) This paragraph applies in the case of a member of the past service scheme—
 
 - (a) who ceases, or has already ceased, to perform pensionable service before reaching the retiring age and without becoming entitled to receive a pension under the scheme, and
 - (b) who, after ceasing to do so but before reaching the retiring age, satisfies the Board that he or she has, or satisfied it that he or she had, become incapable through infirmity of performing pensionable service.
@@ -114,7 +114,7 @@ Section 16(4)
 
 #### Retirement which began before commencement of this Schedule
 
-**7.**[^key-05696ea88b16f15d01ff376ea39da247] (1) This paragraph applies in the case of a member of the past service scheme who retired before the commencement of this Schedule and before reaching the retiring age, otherwise than on grounds of infirmity but no more than 10 years before he or she would have reached the retiring age.
+**7.**[^c-05696ea88b16f15d01ff376ea39da247] (1) This paragraph applies in the case of a member of the past service scheme who retired before the commencement of this Schedule and before reaching the retiring age, otherwise than on grounds of infirmity but no more than 10 years before he or she would have reached the retiring age.
 
 (2) The rate of pension is the rate calculated by—
 
@@ -123,7 +123,7 @@ Section 16(4)
 
 #### Retirement which begins after commencement of this Schedule
 
-**8.**[^key-6d129b6d2fc0a988d6a38e17dd2a1b4e] (1) This paragraph applies in the case of a member of the past service scheme who retires after the commencement of this Schedule and before reaching the retiring age, otherwise than on grounds of infirmity but no more than 10 years before he or she would have reached the retiring age.
+**8.**[^c-6d129b6d2fc0a988d6a38e17dd2a1b4e] (1) This paragraph applies in the case of a member of the past service scheme who retires after the commencement of this Schedule and before reaching the retiring age, otherwise than on grounds of infirmity but no more than 10 years before he or she would have reached the retiring age.
 
 (2) The rate of pension is calculated by—
 
@@ -139,7 +139,7 @@ Section 16(4)
 
 ### PART 4 — Additional lump sum payment
 
-**9.**[^key-735d5709b459a8a2ffc9423d24319fa6] (1) A member of the past service scheme who becomes entitled to a lump sum payment under section 15 after the commencement of this Schedule may, with the agreement of the Board, give up pension under the scheme for an additional lump sum payment.
+**9.**[^c-735d5709b459a8a2ffc9423d24319fa6] (1) A member of the past service scheme who becomes entitled to a lump sum payment under section 15 after the commencement of this Schedule may, with the agreement of the Board, give up pension under the scheme for an additional lump sum payment.
 
 (2) It is up to the member to choose the amount of an additional lump sum payment under this paragraph; but the amount must not exceed that which, when aggregated with the amount of the member's lump sum payment under section 15, is the maximum amount permitted as a pension commencement lump sum.
 
@@ -155,20 +155,20 @@ Section 16(4)
 
 ## Annotations
 
-[^key-b10e94e5e7810476ff280cec7052a9da]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/1) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-b10e94e5e7810476ff280cec7052a9da]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/1) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-ed4f8162940fa949182fc2203557cee8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/2) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-ed4f8162940fa949182fc2203557cee8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/2) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-dba8144482060b65ffc4e7061e322738]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/3) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-dba8144482060b65ffc4e7061e322738]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/3) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-d54e342039c24c774117fa65aeafe08a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/4) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-d54e342039c24c774117fa65aeafe08a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/4) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-9bc774821dc4aaff543b9e9947e0b869]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/5) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-9bc774821dc4aaff543b9e9947e0b869]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/5) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-3c607b8a092f070458ab606196fc2d7a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/6) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-3c607b8a092f070458ab606196fc2d7a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/6) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-05696ea88b16f15d01ff376ea39da247]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/7) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-05696ea88b16f15d01ff376ea39da247]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/7) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-6d129b6d2fc0a988d6a38e17dd2a1b4e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/8) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-6d129b6d2fc0a988d6a38e17dd2a1b4e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/8) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-735d5709b459a8a2ffc9423d24319fa6]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/9) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-735d5709b459a8a2ffc9423d24319fa6]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukcm/2018/9/schedule/2/paragraph/9) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

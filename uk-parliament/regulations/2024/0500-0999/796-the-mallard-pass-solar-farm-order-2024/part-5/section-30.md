@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Temporary use of land for maintaining the authorised development[^key-f6c0bad63d2ab07da62a0a1c42592fdb]
+## 30. Temporary use of land for maintaining the authorised development[^c-f6c0bad63d2ab07da62a0a1c42592fdb]
 
 *Extent: E+W*
 
@@ -47,10 +47,10 @@ summary: ''
 
 (10) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act applies to the temporary use of land under this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 (application of compulsory acquisition provisions) of the 2008 Act.
 
-(11) In this article “**the maintenance period**” means the period of five years beginning with the date of final commissioning of the phase[^key-f124e586be73ef69d74c8a268f9aac84] of the authorised development for which temporary possession is required under this article except in relation to landscaping or ecological works where “**the maintenance period**” means such period as set out in the landscape and ecology management plan which is approved under requirement 7 beginning with the date on which that part of the landscaping is completed.
+(11) In this article “**the maintenance period**” means the period of five years beginning with the date of final commissioning of the phase[^c-f124e586be73ef69d74c8a268f9aac84] of the authorised development for which temporary possession is required under this article except in relation to landscaping or ecological works where “**the maintenance period**” means such period as set out in the landscape and ecology management plan which is approved under requirement 7 beginning with the date on which that part of the landscaping is completed.
 
 ## Annotations
 
-[^key-f6c0bad63d2ab07da62a0a1c42592fdb]: Commencement: Art. 30 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-f6c0bad63d2ab07da62a0a1c42592fdb]: Commencement: Art. 30 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-f124e586be73ef69d74c8a268f9aac84]: Textual amendment: Word in [art. 30(11)](https://www.legislation.gov.uk/uksi/2024/796/article/30/11) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-f124e586be73ef69d74c8a268f9aac84]: Textual amendment: Word in [art. 30(11)](https://www.legislation.gov.uk/uksi/2024/796/article/30/11) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)

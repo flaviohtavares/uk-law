@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, England
 
-The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Amendment Order 2011 (revoked)[^key-e469da53fa6bb7a2d4d77c99b2cf505a]
+The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Amendment Order 2011 (revoked)[^c-e469da53fa6bb7a2d4d77c99b2cf505a]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 1st January 2012
 
-[^key-e469da53fa6bb7a2d4d77c99b2cf505a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e469da53fa6bb7a2d4d77c99b2cf505a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e469da53fa6bb7a2d4d77c99b2cf505a]
+## 1. Citation, commencement and interpretation[^c-e469da53fa6bb7a2d4d77c99b2cf505a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Substitution of article 1(2) of the Appointment Order[^key-e469da53fa6bb7a2d4d77c99b2cf505a]
+## 2. Substitution of article 1(2) of the Appointment Order[^c-e469da53fa6bb7a2d4d77c99b2cf505a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of article 2 of the Appointment Order[^key-e469da53fa6bb7a2d4d77c99b2cf505a]
+## 3. Amendment of article 2 of the Appointment Order[^c-e469da53fa6bb7a2d4d77c99b2cf505a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Substitution of article 3 of the Appointment Order[^key-e469da53fa6bb7a2d4d77c99b2cf505a]
+## 4. Substitution of article 3 of the Appointment Order[^c-e469da53fa6bb7a2d4d77c99b2cf505a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Insertion of article 3A to the Appointment Order[^key-e469da53fa6bb7a2d4d77c99b2cf505a]
+## 5. Insertion of article 3A to the Appointment Order[^c-e469da53fa6bb7a2d4d77c99b2cf505a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Schedule to the Appointment Order[^key-e469da53fa6bb7a2d4d77c99b2cf505a]
+## 6. Amendment of the Schedule to the Appointment Order[^c-e469da53fa6bb7a2d4d77c99b2cf505a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Insertion of Schedule 2[^key-e469da53fa6bb7a2d4d77c99b2cf505a]
+## 7. Insertion of Schedule 2[^c-e469da53fa6bb7a2d4d77c99b2cf505a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e469da53fa6bb7a2d4d77c99b2cf505a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e469da53fa6bb7a2d4d77c99b2cf505a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e469da53fa6bb7a2d4d77c99b2cf505a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e469da53fa6bb7a2d4d77c99b2cf505a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e469da53fa6bb7a2d4d77c99b2cf505a]: Textual amendment: Order revoked (1.10.2018) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Revocation Order 2018 (S.I. 2018/1002)](https://www.legislation.gov.uk/uksi/2018/1002), [art. 1](https://www.legislation.gov.uk/uksi/2018/1002/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1002/schedule)
+[^c-e469da53fa6bb7a2d4d77c99b2cf505a]: Textual amendment: Order revoked (1.10.2018) by [The NHS Foundation Trusts (Trust Funds: Appointment of Trustees) Revocation Order 2018 (S.I. 2018/1002)](https://www.legislation.gov.uk/uksi/2018/1002), [art. 1](https://www.legislation.gov.uk/uksi/2018/1002/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1002/schedule)

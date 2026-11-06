@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**51.**[^key-5a92472d912a31f0ade1a3e4eea24c52] For the title of Part 2 substitute “LUMP SUMS AND WIDOWS', SURVIVING CIVIL PARTNERS' AND CHILDREN'S PENSIONS”.
+**51.**[^c-5a92472d912a31f0ade1a3e4eea24c52] For the title of Part 2 substitute “LUMP SUMS AND WIDOWS', SURVIVING CIVIL PARTNERS' AND CHILDREN'S PENSIONS”.
 
 ## Annotations
 
-[^key-5a92472d912a31f0ade1a3e4eea24c52]: Commencement: Art. 51 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-5a92472d912a31f0ade1a3e4eea24c52]: Commencement: Art. 51 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

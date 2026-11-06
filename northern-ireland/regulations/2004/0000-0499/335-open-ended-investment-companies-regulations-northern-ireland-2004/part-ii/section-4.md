@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Registration by the Authority[^key-ccd1ddc64d788578672248226603fb38]
+## 4. Registration by the Authority[^c-ccd1ddc64d788578672248226603fb38]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccd1ddc64d788578672248226603fb38]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/335/regulation/4) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-ccd1ddc64d788578672248226603fb38]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/335/regulation/4) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

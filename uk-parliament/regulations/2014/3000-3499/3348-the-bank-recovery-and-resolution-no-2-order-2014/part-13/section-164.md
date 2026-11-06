@@ -25,8 +25,8 @@ Chapter 1 applies for the purpose of the assessment and approval of the business
 | *Article* | *Modification* |
 | --- | --- |
 | Article 159 | Ignore this article. |
-| Articles 160,161 and 162 | Each reference to an institution is a reference to the relevant entity.<br>[^key-152e93e8c7d31cb1a36ba1b5eac8e7be]...<br>[^key-152e93e8c7d31cb1a36ba1b5eac8e7be]... |
+| Articles 160,161 and 162 | Each reference to an institution is a reference to the relevant entity.<br>[^c-152e93e8c7d31cb1a36ba1b5eac8e7be]...<br>[^c-152e93e8c7d31cb1a36ba1b5eac8e7be]... |
 
 ## Annotations
 
-[^key-152e93e8c7d31cb1a36ba1b5eac8e7be]: Textual amendment: Words in [art. 164](https://www.legislation.gov.uk/uksi/2014/3348/article/164) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 94(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/94/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-152e93e8c7d31cb1a36ba1b5eac8e7be]: Textual amendment: Words in [art. 164](https://www.legislation.gov.uk/uksi/2014/3348/article/164) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 94(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/94/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

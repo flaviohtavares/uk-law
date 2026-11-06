@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Advice etc. by Scottish Natural Heritage as regards Nature Conservation MPAs and Demonstration and Research MPAs[^key-c3e1c6e338ab4664b02da80199bf91b3]
+## 80. Advice etc. by Scottish Natural Heritage as regards Nature Conservation MPAs and Demonstration and Research MPAs[^c-c3e1c6e338ab4664b02da80199bf91b3]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3e1c6e338ab4664b02da80199bf91b3]: Commencement: S. 80 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-c3e1c6e338ab4664b02da80199bf91b3]: Commencement: S. 80 in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

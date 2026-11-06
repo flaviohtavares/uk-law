@@ -24,7 +24,7 @@ Articles 2 and 39
 
 ### PART A — Licensed activities
 
-#### 1. Interpretation[^key-8c2950bf4766c18c7b20f1c7bb4c0c15]
+#### 1. Interpretation[^c-8c2950bf4766c18c7b20f1c7bb4c0c15]
 
 (1) In this licence—
 
@@ -185,7 +185,7 @@ Tyne and Wear NE30 0LJ
 
 Tel: 0191 257 4520.
 
-#### 2. Details of licensed activities[^key-8612769cf5c12e741dcbd81c9bbeef05]
+#### 2. Details of licensed activities[^c-8612769cf5c12e741dcbd81c9bbeef05]
 
 (1) This licence authorises the undertaker (and any agent or contractor acting on its behalf) to carry out the following licensable marine activities under Part 4 of the 2009 Act, subject to the Conditions—
 
@@ -247,7 +247,7 @@ Tel: 0191 257 4520.
 
 ### PART B — Conditions
 
-#### 3. Detailed offshore design parameters[^key-b763a8e756071bc38c3f9bf136e37555]
+#### 3. Detailed offshore design parameters[^c-b763a8e756071bc38c3f9bf136e37555]
 
 (1) Subject to sub-paragraph (2), no wind turbine generator forming part of the authorised scheme must—
 
@@ -288,7 +288,7 @@ Tel: 0191 257 4520.
 
 (13) The length of HVAC cables comprising Work No. 1A must not exceed 950 kilometres.
 
-**4.**[^key-de4417f65591186bd9621f9186c747df] (1) The total number of offshore platforms forming part of the authorised scheme must not exceed 7 comprising—
+**4.**[^c-de4417f65591186bd9621f9186c747df] (1) The total number of offshore platforms forming part of the authorised scheme must not exceed 7 comprising—
 
 - (a) up to 4 offshore collector platforms;
 - (b) up to 1 offshore converter platform;
@@ -321,7 +321,7 @@ provided that any of the platforms comprised in paragraphs (a) to (c) may be co-
 
 (10) The number of vessels actively carrying out impact piling as part of the installation of driven pile foundations for the authorised scheme must at no time exceed 2 within Work No. 1A.
 
-#### 5. Layout rules[^key-20763762bbf51c967c9365f42fd8cbeb]
+#### 5. Layout rules[^c-20763762bbf51c967c9365f42fd8cbeb]
 
 (1) The positions of wind turbine generators and offshore platforms must be arrayed in accordance with parameters applicable to Work No. 1A specified in Condition 3 and the principles within section 5.2 of Chapter 5 of the environmental statement.
 
@@ -329,7 +329,7 @@ provided that any of the platforms comprised in paragraphs (a) to (c) may be co-
 
 (3) The construction of the wind turbine generators and offshore platforms must be carried out as approved.
 
-#### 6. Notifications and inspections[^key-c66081742914f8962e258db3d3df7e60]
+#### 6. Notifications and inspections[^c-c66081742914f8962e258db3d3df7e60]
 
 (1) The undertaker must ensure that—
 
@@ -369,7 +369,7 @@ provided that any of the platforms comprised in paragraphs (a) to (c) may be co-
 - (a) the United Kingdom Hydrographic Office at least 2 weeks before commencement, and no later than 2 weeks following completion, of the authorised scheme in order that all necessary amendments to nautical charts are made; and
 - (b) the MMO, MCA and Trinity House once the authorised scheme is completed and any required lighting or marking has been established.
 
-#### 7. Chemicals, drilling and debris[^key-20578ace6b6bf231fa1ab52163355049]
+#### 7. Chemicals, drilling and debris[^c-20578ace6b6bf231fa1ab52163355049]
 
 (1) All chemicals used in the construction of the authorised scheme, including any chemical agents placed within any monopile or other foundation structure void, must be selected from the list of notified chemicals approved for use by the offshore oil and gas industry under the Offshore Chemicals Regulations 2002[^f00049].
 
@@ -395,14 +395,14 @@ provided that any of the platforms comprised in paragraphs (a) to (c) may be co-
 
 (8) In the event that the MMO becomes aware that any of the materials on the audit sheet cannot be accounted for, it must require the undertaker to carry out a side-scan sonar survey to plot all obstructions across a reasonable area of search agreed with the MMO where construction works and related activities have been carried out. Representatives of the Holderness Fishing Industry Group must be invited to send a representative to be present during the survey. Any obstructions that the MMO believes to be associated with the authorised scheme must be removed at the undertaker’s expense.
 
-#### 8. Force majeure[^key-9735a1de9e9ffb7c4d70f9a7103b71a4]
+#### 8. Force majeure[^c-9735a1de9e9ffb7c4d70f9a7103b71a4]
 
 If, due to stress of weather or any other cause, the master of a vessel determines that it is necessary to deposit the authorised deposits otherwise than in accordance with Condition 10(2) because the safety of human life or the vessel is threatened—
 
 - (a) within 48 hours full details of the circumstances of the deposit must be notified to the MMO; and
 - (b) at the written request of the MMO, the unauthorised deposits must be removed at the expense of the undertaker.
 
-#### 9. Pre-construction plans and documentation[^key-d0148d7e1c90de595721a083190e7b62]
+#### 9. Pre-construction plans and documentation[^c-d0148d7e1c90de595721a083190e7b62]
 
 The licensed activities or any phase of those activities must not commence until the following (insofar as relevant to that activity or phase of activity) have been submitted to and approved in writing by the MMO—
 
@@ -447,11 +447,11 @@ The licensed activities or any phase of those activities must not commence until
   - (vi) archiving of archaeological material including ensuring that a copy of any agreed archaeological report is deposited with the English Heritage archive by submitting an English Heritage OASIS form with a digital copy of the report; and
   - (vii) a reporting and recording protocol, including reporting of any wreck or wreck material during construction, operation and decommissioning of the authorised scheme.
 
-**10.**[^key-150492dd4c5f0e10ff6c11a791f91c22] (1) Each programme, statement, plan, protocol, scheme or details required to be approved under Condition 9, and the arrangements required to be approved under Condition 5, must be submitted for approval at least 4 months before the intended commencement of construction, except where otherwise stated or unless otherwise agreed in writing by the MMO.
+**10.**[^c-150492dd4c5f0e10ff6c11a791f91c22] (1) Each programme, statement, plan, protocol, scheme or details required to be approved under Condition 9, and the arrangements required to be approved under Condition 5, must be submitted for approval at least 4 months before the intended commencement of construction, except where otherwise stated or unless otherwise agreed in writing by the MMO.
 
 (2) The licensed activities must be carried out in accordance with the programme, statement, plan, protocol scheme or details approved under Condition 9.
 
-#### 11. Offshore safety management[^key-02806d32e9f583d3135e676f4f481bab]
+#### 11. Offshore safety management[^c-02806d32e9f583d3135e676f4f481bab]
 
 (1) Offshore works must not commence until the MMO, in consultation with the MCA, has given written approval for an Emergency Response and Co-operation Plan (“ERCoP”) which includes full details of the ERCoP for the construction, operation and decommissioning phases of the authorised scheme in accordance with the MCA recommendations contained within MGN371 “Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues”. The ERCoP must include the identification of a point of contact for emergency response.
 
@@ -459,7 +459,7 @@ The licensed activities or any phase of those activities must not commence until
 
 (3) No authorised development seaward of MHWS must commence until the MMO, in consultation with the MCA, has confirmed in writing that the undertaker has taken into account and adequately addressed all MCA recommendations as appropriate to the authorised scheme contained within MGN371 “Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues” and its annexes.
 
-#### 12. Reporting of engaged agents, contractors and vessels[^key-866bbab811190e4fc3aa421cde257ade]
+#### 12. Reporting of engaged agents, contractors and vessels[^c-866bbab811190e4fc3aa421cde257ade]
 
 (1) The undertaker must provide the name and function of any agent or contractor appointed to engage in the licensed activities to the MMO at least 2 weeks before the intended commencement of construction.
 
@@ -467,7 +467,7 @@ The licensed activities or any phase of those activities must not commence until
 
 (3) Any changes to the supplied details must be notified to the MMO in writing before the agent, contractor or vessel engages in the licensed activities.
 
-#### 13. Equipment and operation of vessels engaged in licensed activities[^key-30cd4a10eaf935016f6ebde9992c6034]
+#### 13. Equipment and operation of vessels engaged in licensed activities[^c-30cd4a10eaf935016f6ebde9992c6034]
 
 (1) All vessels employed to perform the licensed activities must be constructed and equipped to be capable of the proper performance of such activities in accordance with the Conditions and (except in the case of remotely-operated vehicles or vessels) must comply with sub-paragraphs (2) to (6).
 
@@ -486,7 +486,7 @@ The licensed activities or any phase of those activities must not commence until
 
 (6) No vessel must engage in the licensed activities until all the equipment specified in sub-paragraph (2) is fully operational.
 
-#### 14. Pre-construction monitoring[^key-3d3572af4fd08862c7fcc870d688b60e]
+#### 14. Pre-construction monitoring[^c-3d3572af4fd08862c7fcc870d688b60e]
 
 (1) The undertaker must, in discharging Condition 9(b), submit details for written approval by the MMO of proposed pre-construction surveys, including methodologies and timings, and a proposed format and content for a pre-construction baseline report. The survey proposals must be in accordance with the principles set out in the In Principle Monitoring Plan and must specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the post-construction position or will enable the validation or otherwise of key predictions in the environmental statement. The baseline report proposals must ensure that the outcome of the agreed surveys together with existing data and reports are drawn together to present a valid statement of the pre-construction position, with any limitations, and must make clear what post-construction comparison is intended and the justification for this being required.
 
@@ -499,7 +499,7 @@ The licensed activities or any phase of those activities must not commence until
 
 (3) The undertaker must carry out and complete the surveys to be undertaken under sub-paragraph (1) in a timescale which must be agreed with the MMO.
 
-#### 15. Construction monitoring[^key-f2b224fab24d95b9ad11204d7d607bf9]
+#### 15. Construction monitoring[^c-f2b224fab24d95b9ad11204d7d607bf9]
 
 (1) The undertaker must, in discharging Condition 9(b), submit details for approval by the MMO of any proposed surveys or monitoring, including methodologies and timings, to be carried out during the construction of the authorised scheme.
 
@@ -509,7 +509,7 @@ The licensed activities or any phase of those activities must not commence until
 - (b) vessel traffic monitoring by Automatic Identification System, including the provision of reports on the results of that monitoring periodically as requested by the MMO; and
 - (c) appropriate surveys of ornithological activity inside the areas within the Order limits in which it is proposed to carry out construction works, and any wider areas where appropriate, dependent on the outcomes of the pre-construction surveys, as agreed with the MMO in consultation with the relevant statutory nature conservation body.
 
-#### 16. Post-construction surveys[^key-2798f85828fe78b9d3457d16cf6e0c1a]
+#### 16. Post-construction surveys[^c-2798f85828fe78b9d3457d16cf6e0c1a]
 
 (1) The undertaker must, in discharging Condition 9(b), submit details for written approval by the MMO of the post-construction surveys proposed in sub-paragraph (2), including methodologies and timings, and a proposed format, content and timings for providing reports on the results at least 4 months before commencement of any survey works detailed within. The survey proposals must be in accordance with the principles set out in the In Principle Monitoring Plan and must specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the pre-construction position or will enable the validation or otherwise of key predictions in the environmental statement.
 
@@ -524,7 +524,7 @@ The licensed activities or any phase of those activities must not commence until
 
 (3) The undertaker must carry out the surveys under sub-paragraph (1) and provide the reports in the agreed format in accordance with the timetable as agreed in writing with the MMO following consultation with the relevant statutory nature conservation body.
 
-#### 17. Post-construction maintenance plan[^key-7a45b130db5a86b40a485949bbd83c77]
+#### 17. Post-construction maintenance plan[^c-7a45b130db5a86b40a485949bbd83c77]
 
 (1) A post-construction maintenance plan must be submitted for written approval by the MMO at least 4 months before the licensed activities are commissioned, based on the maintenance in the outline maintenance plan.
 
@@ -532,7 +532,7 @@ The licensed activities or any phase of those activities must not commence until
 
 (3) Maintenance must be carried out as approved.
 
-#### 18. Aids to navigation[^key-3d030666b592e8148b0be3a0f8ebaf92]
+#### 18. Aids to navigation[^c-3d030666b592e8148b0be3a0f8ebaf92]
 
 (1) Before commencement of the authorised scheme, an aids to navigation management plan must be approved in writing by the MMO following consultation with Trinity House and MCA specifying the—
 
@@ -542,21 +542,21 @@ The licensed activities or any phase of those activities must not commence until
 
 (2) The licensed activities must be carried out in accordance with the plan approved under this Condition.
 
-**19.**[^key-d30bd97f34048b97cd1849d292c1f1ec] The undertaker must keep Trinity House and the MMO informed of progress of the authorised scheme seaward of MHWS including—
+**19.**[^c-d30bd97f34048b97cd1849d292c1f1ec] The undertaker must keep Trinity House and the MMO informed of progress of the authorised scheme seaward of MHWS including—
 
 - (a) notice of commencement of construction of the authorised scheme within 24 hours of commencement having occurred;
 - (b) notice within 24 hours of any aids to navigation being established by the undertaker; and
 - (c) notice within 5 working days of completion of construction of the authorised scheme.
 
-**20.**[^key-7faa33a9347f3faef255ead9841a0439] The undertaker must notify Trinity House and the MMO of any failure of the aids to navigation, including timescales and plans for remedying such failures, as soon as possible and no later than 24 hours following the detection of any such failure.
+**20.**[^c-7faa33a9347f3faef255ead9841a0439] The undertaker must notify Trinity House and the MMO of any failure of the aids to navigation, including timescales and plans for remedying such failures, as soon as possible and no later than 24 hours following the detection of any such failure.
 
-**21.**[^key-58f2ab73a57f15002bbb4cc38714b88e] The undertaker must at or near the authorised scheme during the whole period of the construction, operation, alteration, replacement or decommissioning of the authorised scheme seaward of MHWS exhibit such lights, marks, sounds, signals and other aids to navigation, and take such other steps for the prevention of danger to navigation, as Trinity House may from time to time direct following consultation with the MMO.
+**21.**[^c-58f2ab73a57f15002bbb4cc38714b88e] The undertaker must at or near the authorised scheme during the whole period of the construction, operation, alteration, replacement or decommissioning of the authorised scheme seaward of MHWS exhibit such lights, marks, sounds, signals and other aids to navigation, and take such other steps for the prevention of danger to navigation, as Trinity House may from time to time direct following consultation with the MMO.
 
-**22.**[^key-6539a699562c6f275781b7713c25226e] The undertaker must submit reports quarterly to the MMO and Trinity House detailing the working condition of aids to navigation. Reports may be requested more frequently by the MMO or Trinity House and must be submitted by the undertaker as specified.
+**22.**[^c-6539a699562c6f275781b7713c25226e] The undertaker must submit reports quarterly to the MMO and Trinity House detailing the working condition of aids to navigation. Reports may be requested more frequently by the MMO or Trinity House and must be submitted by the undertaker as specified.
 
-**23.**[^key-7d792afaca8c2d19999d4513ed57f301] In case of damage to, or destruction or decay of, the authorised scheme seaward of MHWS or any part of it, the undertaker must, as soon as possible and no later than 24 hours following the identification of damage, destruction or decay, notify Trinity House and the MMO. The undertaker must also lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as directed by Trinity House following consultation with the MMO.
+**23.**[^c-7d792afaca8c2d19999d4513ed57f301] In case of damage to, or destruction or decay of, the authorised scheme seaward of MHWS or any part of it, the undertaker must, as soon as possible and no later than 24 hours following the identification of damage, destruction or decay, notify Trinity House and the MMO. The undertaker must also lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as directed by Trinity House following consultation with the MMO.
 
-#### 24. Colour of authorised scheme[^key-060ec2636f633fdbbf23710b96a73be1]
+#### 24. Colour of authorised scheme[^c-060ec2636f633fdbbf23710b96a73be1]
 
 (1) The undertaker must colour all structures that are part of the authorised scheme seaward of MHWS yellow (colour code RAL 1023) from at least HAT to a height approved by the MMO following consultation with Trinity House.
 
@@ -564,60 +564,60 @@ The licensed activities or any phase of those activities must not commence until
 
 (3) The structures must be coloured in accordance with the approved details.
 
-#### 25. Amendments to plans, etc.[^key-4165d3a6e3b9b2ed20c7f77dff1a7b94]
+#### 25. Amendments to plans, etc.[^c-4165d3a6e3b9b2ed20c7f77dff1a7b94]
 
 Where any Condition requires licensed activities to be carried out in accordance with any programme, statement, plan, protocol, scheme, details or arrangements approved by the MMO, the approved programme, statement, plan, protocol, scheme, details or arrangements must be taken to include any amendments that may subsequently be approved in writing by the MMO (after consulting any person that the MMO is required to consult under the relevant Condition).
 
 ## Annotations
 
-[^key-8c2950bf4766c18c7b20f1c7bb4c0c15]: Commencement: Sch. 8 para. 1 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-8c2950bf4766c18c7b20f1c7bb4c0c15]: Commencement: Sch. 8 para. 1 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-8612769cf5c12e741dcbd81c9bbeef05]: Commencement: Sch. 8 para. 2 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-8612769cf5c12e741dcbd81c9bbeef05]: Commencement: Sch. 8 para. 2 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-b763a8e756071bc38c3f9bf136e37555]: Commencement: Sch. 8 para. 3 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-b763a8e756071bc38c3f9bf136e37555]: Commencement: Sch. 8 para. 3 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-de4417f65591186bd9621f9186c747df]: Commencement: Sch. 8 para. 4 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-de4417f65591186bd9621f9186c747df]: Commencement: Sch. 8 para. 4 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-20763762bbf51c967c9365f42fd8cbeb]: Commencement: Sch. 8 para. 5 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-20763762bbf51c967c9365f42fd8cbeb]: Commencement: Sch. 8 para. 5 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-c66081742914f8962e258db3d3df7e60]: Commencement: Sch. 8 para. 6 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-c66081742914f8962e258db3d3df7e60]: Commencement: Sch. 8 para. 6 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-20578ace6b6bf231fa1ab52163355049]: Commencement: Sch. 8 para. 7 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-20578ace6b6bf231fa1ab52163355049]: Commencement: Sch. 8 para. 7 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
 [^f00049]: Footnote: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355), amended by [S.I. 2011/982](https://www.legislation.gov.uk/uksi/2011/982).
 
-[^key-9735a1de9e9ffb7c4d70f9a7103b71a4]: Commencement: Sch. 8 para. 8 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-9735a1de9e9ffb7c4d70f9a7103b71a4]: Commencement: Sch. 8 para. 8 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-d0148d7e1c90de595721a083190e7b62]: Commencement: Sch. 8 para. 9 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-d0148d7e1c90de595721a083190e7b62]: Commencement: Sch. 8 para. 9 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-150492dd4c5f0e10ff6c11a791f91c22]: Commencement: Sch. 8 para. 10 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-150492dd4c5f0e10ff6c11a791f91c22]: Commencement: Sch. 8 para. 10 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-02806d32e9f583d3135e676f4f481bab]: Commencement: Sch. 8 para. 11 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-02806d32e9f583d3135e676f4f481bab]: Commencement: Sch. 8 para. 11 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-866bbab811190e4fc3aa421cde257ade]: Commencement: Sch. 8 para. 12 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-866bbab811190e4fc3aa421cde257ade]: Commencement: Sch. 8 para. 12 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-30cd4a10eaf935016f6ebde9992c6034]: Commencement: Sch. 8 para. 13 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-30cd4a10eaf935016f6ebde9992c6034]: Commencement: Sch. 8 para. 13 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-3d3572af4fd08862c7fcc870d688b60e]: Commencement: Sch. 8 para. 14 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-3d3572af4fd08862c7fcc870d688b60e]: Commencement: Sch. 8 para. 14 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-f2b224fab24d95b9ad11204d7d607bf9]: Commencement: Sch. 8 para. 15 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-f2b224fab24d95b9ad11204d7d607bf9]: Commencement: Sch. 8 para. 15 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-2798f85828fe78b9d3457d16cf6e0c1a]: Commencement: Sch. 8 para. 16 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-2798f85828fe78b9d3457d16cf6e0c1a]: Commencement: Sch. 8 para. 16 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-7a45b130db5a86b40a485949bbd83c77]: Commencement: Sch. 8 para. 17 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-7a45b130db5a86b40a485949bbd83c77]: Commencement: Sch. 8 para. 17 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-3d030666b592e8148b0be3a0f8ebaf92]: Commencement: Sch. 8 para. 18 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-3d030666b592e8148b0be3a0f8ebaf92]: Commencement: Sch. 8 para. 18 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-d30bd97f34048b97cd1849d292c1f1ec]: Commencement: Sch. 8 para. 19 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-d30bd97f34048b97cd1849d292c1f1ec]: Commencement: Sch. 8 para. 19 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-7faa33a9347f3faef255ead9841a0439]: Commencement: Sch. 8 para. 20 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-7faa33a9347f3faef255ead9841a0439]: Commencement: Sch. 8 para. 20 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-58f2ab73a57f15002bbb4cc38714b88e]: Commencement: Sch. 8 para. 21 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-58f2ab73a57f15002bbb4cc38714b88e]: Commencement: Sch. 8 para. 21 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-6539a699562c6f275781b7713c25226e]: Commencement: Sch. 8 para. 22 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-6539a699562c6f275781b7713c25226e]: Commencement: Sch. 8 para. 22 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-7d792afaca8c2d19999d4513ed57f301]: Commencement: Sch. 8 para. 23 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-7d792afaca8c2d19999d4513ed57f301]: Commencement: Sch. 8 para. 23 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-060ec2636f633fdbbf23710b96a73be1]: Commencement: Sch. 8 para. 24 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-060ec2636f633fdbbf23710b96a73be1]: Commencement: Sch. 8 para. 24 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
-[^key-4165d3a6e3b9b2ed20c7f77dff1a7b94]: Commencement: Sch. 8 para. 25 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-4165d3a6e3b9b2ed20c7f77dff1a7b94]: Commencement: Sch. 8 para. 25 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)

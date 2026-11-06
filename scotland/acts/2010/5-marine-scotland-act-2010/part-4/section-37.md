@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Submarine cables[^key-565217ada0db6444085624ff10ebcd1d]
+## 37. Submarine cables[^c-565217ada0db6444085624ff10ebcd1d]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) is in the course of being laid,
 - (c) has been laid,
 
-beyond the seaward limits of the territorial sea , subject to subsection (5A)[^key-e5c23464334ce083dbdbd7c611f07b0e].
+beyond the seaward limits of the territorial sea , subject to subsection (5A)[^c-e5c23464334ce083dbdbd7c611f07b0e].
 
 (2) The Scottish Ministers must grant any application made to them for a marine licence for the carrying on of a licensable marine activity in the course of laying any stretch of the cable in the Scottish marine area.
 
@@ -41,7 +41,7 @@ beyond the seaward limits of the territorial sea , subject to subsection (5A)[^k
 - (c) the operations of artificial islands, installations and structures under the jurisdiction of the United Kingdom,
 - (d) the prevention, reduction or control of pollution from pipelines.
 
-(5A)[^key-23b4b387c150dffb3e9e01129a6d2884] This section does not prevent the application of this Part in relation to activity designated under section 21(3A).
+(5A)[^c-23b4b387c150dffb3e9e01129a6d2884] This section does not prevent the application of this Part in relation to activity designated under section 21(3A).
 
 (6) In this section—
 
@@ -55,8 +55,8 @@ beyond the seaward limits of the territorial sea , subject to subsection (5A)[^k
 
 ## Annotations
 
-[^key-565217ada0db6444085624ff10ebcd1d]: Commencement: S. 37 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-565217ada0db6444085624ff10ebcd1d]: Commencement: S. 37 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
-[^key-e5c23464334ce083dbdbd7c611f07b0e]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/asp/2010/5/section/37/1) inserted (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 23(4)(a)](https://www.legislation.gov.uk/ukpga/2026/6/section/23/4/a), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))
+[^c-e5c23464334ce083dbdbd7c611f07b0e]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/asp/2010/5/section/37/1) inserted (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 23(4)(a)](https://www.legislation.gov.uk/ukpga/2026/6/section/23/4/a), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))
 
-[^key-23b4b387c150dffb3e9e01129a6d2884]: Textual amendment: [S. 37(5A)](https://www.legislation.gov.uk/asp/2010/5/section/37/5A) inserted (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 23(4)(b)](https://www.legislation.gov.uk/ukpga/2026/6/section/23/4/b), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))
+[^c-23b4b387c150dffb3e9e01129a6d2884]: Textual amendment: [S. 37(5A)](https://www.legislation.gov.uk/asp/2010/5/section/37/5A) inserted (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 23(4)(b)](https://www.legislation.gov.uk/ukpga/2026/6/section/23/4/b), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))

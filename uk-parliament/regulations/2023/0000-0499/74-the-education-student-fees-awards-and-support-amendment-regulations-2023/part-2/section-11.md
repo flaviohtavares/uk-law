@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Amendments relating to the ordinary residence requirements for students in existing protected categories[^key-1e42910ceb6a6f92b65926c73e1e161a]
+## 11. Amendments relating to the ordinary residence requirements for students in existing protected categories[^c-1e42910ceb6a6f92b65926c73e1e161a]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e42910ceb6a6f92b65926c73e1e161a]: Commencement: Reg. 11 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-1e42910ceb6a6f92b65926c73e1e161a]: Commencement: Reg. 11 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00011]: Footnote: Paragraph 4A was inserted by [S.I. 2018/137](https://www.legislation.gov.uk/uksi/2018/137) and amended by [S.I, 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 4B was substituted by [S.I, 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 4C was inserted by [S.I. 2020/48](https://www.legislation.gov.uk/uksi/2020/48). Paragraph 4D was substituted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 4E was inserted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5 was amended by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 14 was inserted by [S.I. 2021/1483](https://www.legislation.gov.uk/uksi/2021/1483) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph 15 was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

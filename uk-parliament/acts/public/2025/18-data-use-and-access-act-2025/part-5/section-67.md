@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Meaning of research and statistical purposes[^key-4b6312169f4e96fa02d546fd15a50dfd][^key-633aeabe5ed2a2f07876d4adaf67c03b]
+## 67. Meaning of research and statistical purposes[^c-4b6312169f4e96fa02d546fd15a50dfd][^c-633aeabe5ed2a2f07876d4adaf67c03b]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b6312169f4e96fa02d546fd15a50dfd]: Commencement: S. 67 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-4b6312169f4e96fa02d546fd15a50dfd]: Commencement: S. 67 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-633aeabe5ed2a2f07876d4adaf67c03b]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2025/18/section/67) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/a)
+[^c-633aeabe5ed2a2f07876d4adaf67c03b]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2025/18/section/67) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/a)

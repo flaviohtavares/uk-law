@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80K. Tax on disposals to landfill[^key-c742b7f034a4c4ae6f99bf4d493cd644]
+## 80K. Tax on disposals to landfill[^c-c742b7f034a4c4ae6f99bf4d493cd644]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c742b7f034a4c4ae6f99bf4d493cd644]: Textual amendment: Pt. 4A Ch. 4 inserted (1.7.2012 with effect in accordance with [s. 44(3)(c)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/c) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/30/1), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), (3)(c); [S.I. 2015/638](https://www.legislation.gov.uk/uksi/2015/638), [art 2](https://www.legislation.gov.uk/uksi/2015/638/article/2).
+[^c-c742b7f034a4c4ae6f99bf4d493cd644]: Textual amendment: Pt. 4A Ch. 4 inserted (1.7.2012 with effect in accordance with [s. 44(3)(c)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/c) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2012/11/section/30/1), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), (3)(c); [S.I. 2015/638](https://www.legislation.gov.uk/uksi/2015/638), [art 2](https://www.legislation.gov.uk/uksi/2015/638/article/2).

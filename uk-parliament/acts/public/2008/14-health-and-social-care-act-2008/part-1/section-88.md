@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Guidance by the Commission in relation to enforcement action[^c1942204][^key-3803b38d2673dc1beac07bfc3eca6c25]
+## 88. Guidance by the Commission in relation to enforcement action[^c1942204][^c-3803b38d2673dc1beac07bfc3eca6c25]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) section 12(5) (variation, removal or imposition of condition in relation to registration as a service provider),
 - (b) section 15(5) (variation, removal or imposition of condition in relation to registration as a manager),
 - (c) sections 17 and 18 (cancellation or suspension of registration),
-- (d) sections 29 and 29A[^key-e6b19dedda34b108197c1d378f75f202] (warning notice),
+- (d) sections 29 and 29A[^c-e6b19dedda34b108197c1d378f75f202] (warning notice),
 - (e) section 86 (penalty notices), and
 - (f) section 89 (publication of information).
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c1942204]: Commencement: S. 88 partly in force; S. 88 in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-3803b38d2673dc1beac07bfc3eca6c25]: Commencement: S. 88 in force at 1.10.2008 in so far as not already in force by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/k)
+[^c-3803b38d2673dc1beac07bfc3eca6c25]: Commencement: S. 88 in force at 1.10.2008 in so far as not already in force by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/k)
 
-[^key-e6b19dedda34b108197c1d378f75f202]: Textual amendment: Words in s. 88(1)(d) substituted (1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 82(5)](https://www.legislation.gov.uk/ukpga/2014/23/section/82/5), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(v)](https://www.legislation.gov.uk/uksi/2015/993/article/2/v) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))
+[^c-e6b19dedda34b108197c1d378f75f202]: Textual amendment: Words in s. 88(1)(d) substituted (1.4.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 82(5)](https://www.legislation.gov.uk/ukpga/2014/23/section/82/5), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(v)](https://www.legislation.gov.uk/uksi/2015/993/article/2/v) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995))

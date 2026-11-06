@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Felling or lopping of trees[^key-247b732b181e3b5708ed3b5f876ad6b1]
+## 35. Felling or lopping of trees[^c-247b732b181e3b5708ed3b5f876ad6b1]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-247b732b181e3b5708ed3b5f876ad6b1]: Commencement: Art. 35 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-247b732b181e3b5708ed3b5f876ad6b1]: Commencement: Art. 35 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

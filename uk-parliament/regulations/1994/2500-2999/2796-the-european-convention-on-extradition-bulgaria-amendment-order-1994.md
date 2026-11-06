@@ -30,7 +30,7 @@ summary: ''
 
 EXTRADITION
 
-The European Convention on Extradition (Bulgaria) (Amendment) Order 1994 (revoked)[^key-dbefd25c33d27b244a1dec5952610982]
+The European Convention on Extradition (Bulgaria) (Amendment) Order 1994 (revoked)[^c-dbefd25c33d27b244a1dec5952610982]
 
 Made
 
@@ -50,20 +50,20 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-dbefd25c33d27b244a1dec5952610982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbefd25c33d27b244a1dec5952610982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-dbefd25c33d27b244a1dec5952610982] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-dbefd25c33d27b244a1dec5952610982] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-dbefd25c33d27b244a1dec5952610982] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-dbefd25c33d27b244a1dec5952610982] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dbefd25c33d27b244a1dec5952610982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbefd25c33d27b244a1dec5952610982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dbefd25c33d27b244a1dec5952610982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbefd25c33d27b244a1dec5952610982]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbefd25c33d27b244a1dec5952610982]: Textual amendment: Order revoked (17.4.2001) by The European Convention on [Extradition Order 2001 (S.I. 2001/962)](https://www.legislation.gov.uk/uksi/2001/962), [arts. 1](https://www.legislation.gov.uk/uksi/2001/962/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/962/article/5/3), [Sch. 5 Pt. II](https://www.legislation.gov.uk/uksi/2001/962/schedule/5/part/II)
+[^c-dbefd25c33d27b244a1dec5952610982]: Textual amendment: Order revoked (17.4.2001) by The European Convention on [Extradition Order 2001 (S.I. 2001/962)](https://www.legislation.gov.uk/uksi/2001/962), [arts. 1](https://www.legislation.gov.uk/uksi/2001/962/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/962/article/5/3), [Sch. 5 Pt. II](https://www.legislation.gov.uk/uksi/2001/962/schedule/5/part/II)

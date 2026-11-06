@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Objection and arbitration in relation to charges[^key-f8ffaa14f357fd5c32410c7eee80385d]
+## 41. Objection and arbitration in relation to charges[^c-f8ffaa14f357fd5c32410c7eee80385d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8ffaa14f357fd5c32410c7eee80385d]: Commencement: Art. 41 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-f8ffaa14f357fd5c32410c7eee80385d]: Commencement: Art. 41 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

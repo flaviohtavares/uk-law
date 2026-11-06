@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Interpretation of this Chapter[^key-b2709f594114ea897d15c3dddc3f898a][^key-14fdab00c6d002066f02a80cf469d883]
+## 33. Interpretation of this Chapter[^c-b2709f594114ea897d15c3dddc3f898a][^c-14fdab00c6d002066f02a80cf469d883]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-b2709f594114ea897d15c3dddc3f898a]: Commencement: S. 33 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-b2709f594114ea897d15c3dddc3f898a]: Commencement: S. 33 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-14fdab00c6d002066f02a80cf469d883]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/35/section/33) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-14fdab00c6d002066f02a80cf469d883]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/35/section/33) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

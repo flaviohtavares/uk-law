@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.C.12. Exercise of options under regulations 2.C.8, 2.C.10 and 2.C.11[^key-b4f0759521b119cc71f46c2213e8a2f4]
+## 2.C.12. Exercise of options under regulations 2.C.8, 2.C.10 and 2.C.11[^c-b4f0759521b119cc71f46c2213e8a2f4]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4f0759521b119cc71f46c2213e8a2f4]: Modification: [Regs. 2.C.8-2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/i)
+[^c-b4f0759521b119cc71f46c2213e8a2f4]: Modification: [Regs. 2.C.8-2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/i)

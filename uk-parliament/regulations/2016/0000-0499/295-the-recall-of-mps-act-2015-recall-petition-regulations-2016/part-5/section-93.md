@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Delivery of postal signing sheets[^key-8147baab86f6f80e45c40691b044927b]
+## 93. Delivery of postal signing sheets[^c-8147baab86f6f80e45c40691b044927b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8147baab86f6f80e45c40691b044927b]: Commencement: Reg. 93 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-8147baab86f6f80e45c40691b044927b]: Commencement: Reg. 93 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

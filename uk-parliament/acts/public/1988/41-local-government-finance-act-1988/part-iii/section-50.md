@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The appropriate national authority[^key-6d82b4c5649966fd701b81b4c838da09] may make such regulations as it sees fit to deal with any case where (apart from the regulations) there would be more than one owner or occupier of a hereditament or part or of land at a particular time.
+(1) The appropriate national authority[^c-6d82b4c5649966fd701b81b4c838da09] may make such regulations as it sees fit to deal with any case where (apart from the regulations) there would be more than one owner or occupier of a hereditament or part or of land at a particular time.
 
 (2) Nothing in the following provisions of this section shall prejudice the generality of subsection (1) above.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d82b4c5649966fd701b81b4c838da09]: Textual amendment: Word in s. 50(1) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(6)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/6)
+[^c-6d82b4c5649966fd701b81b4c838da09]: Textual amendment: Word in s. 50(1) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(6)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/6)

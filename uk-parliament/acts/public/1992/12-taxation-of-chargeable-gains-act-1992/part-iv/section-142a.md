@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142A. REITs: chargeable gains on stock dividends[^key-8ac7ad9c3f62d66d964ae9a5a9a75c94]
+## 142A. REITs: chargeable gains on stock dividends[^c-8ac7ad9c3f62d66d964ae9a5a9a75c94]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ is attributed as mentioned in section 550(2)(a), (c) or (d) of CTA 2010 (attribu
 
 ## Annotations
 
-[^key-8ac7ad9c3f62d66d964ae9a5a9a75c94]: Textual amendment: S. 142A inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/1)
+[^c-8ac7ad9c3f62d66d964ae9a5a9a75c94]: Textual amendment: S. 142A inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/1)

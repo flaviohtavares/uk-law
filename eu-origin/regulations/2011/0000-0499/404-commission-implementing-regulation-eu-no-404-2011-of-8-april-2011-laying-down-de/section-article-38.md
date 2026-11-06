@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Return messages shall be issued to the United Kingdom[^key-5b15bc30d32fe22f929b7e1a4be5f2a0][^c000001] fishing vessels for each transmission of fishing logbook, transhipment, prior notification and landing data. The return message shall contain an acknowledgement of receipt.
+1. Return messages shall be issued to the United Kingdom[^c-5b15bc30d32fe22f929b7e1a4be5f2a0][^c000001] fishing vessels for each transmission of fishing logbook, transhipment, prior notification and landing data. The return message shall contain an acknowledgement of receipt.
 
-2. The master of a United Kingdom[^key-27c8164588a83c17f7ce1c35d1de1650] fishing vessel shall retain the return message until the end of the fishing trip.
+2. The master of a United Kingdom[^c-27c8164588a83c17f7ce1c35d1de1650] fishing vessel shall retain the return message until the end of the fishing trip.
 
 ## Annotations
 
-[^key-5b15bc30d32fe22f929b7e1a4be5f2a0]: Textual amendment: Words in [Art. 38(1)](https://www.legislation.gov.uk/eur/2011/404/article/38/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(34)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/34/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b15bc30d32fe22f929b7e1a4be5f2a0]: Textual amendment: Words in [Art. 38(1)](https://www.legislation.gov.uk/eur/2011/404/article/38/1) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(34)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/34/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2015/1962 of 28 October 2015 amending Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy](https://www.legislation.gov.uk/eur/2015/1962).
 
-[^key-27c8164588a83c17f7ce1c35d1de1650]: Textual amendment: Words in [Art. 38(2)](https://www.legislation.gov.uk/eur/2011/404/article/38/2) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(34)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/34/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27c8164588a83c17f7ce1c35d1de1650]: Textual amendment: Words in [Art. 38(2)](https://www.legislation.gov.uk/eur/2011/404/article/38/2) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(34)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/34/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

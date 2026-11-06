@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.24. Appeal about decision on application to realise seized property or to realise or destroy cryptoassets[^key-997383890ad2ee0c6fab61d76c7a17ac]
+## 33.24. Appeal about decision on application to realise seized property or to realise or destroy cryptoassets[^c-997383890ad2ee0c6fab61d76c7a17ac]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-997383890ad2ee0c6fab61d76c7a17ac]: Commencement: [Rule 33.24](https://www.legislation.gov.uk/uksi/2025/909/rule/33.24) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-997383890ad2ee0c6fab61d76c7a17ac]: Commencement: [Rule 33.24](https://www.legislation.gov.uk/uksi/2025/909/rule/33.24) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00821]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 67C was inserted by section 58 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26).
 

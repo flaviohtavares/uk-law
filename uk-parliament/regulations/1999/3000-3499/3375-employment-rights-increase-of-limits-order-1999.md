@@ -31,7 +31,7 @@ summary: ''
 
 TERMS AND CONDITIONS OF EMPLOYMENT
 
-Employment Rights (Increase of Limits) Order 1999 (revoked)[^key-11827bf63a4da3e3a156860ff73c30e7]
+Employment Rights (Increase of Limits) Order 1999 (revoked)[^c-11827bf63a4da3e3a156860ff73c30e7]
 
 Made
 
@@ -45,31 +45,31 @@ Coming into force
 
 1st February 2000
 
-[^key-11827bf63a4da3e3a156860ff73c30e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11827bf63a4da3e3a156860ff73c30e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-11827bf63a4da3e3a156860ff73c30e7]
+## 1. Citation, commencement and interpretation[^c-11827bf63a4da3e3a156860ff73c30e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-11827bf63a4da3e3a156860ff73c30e7]
+## 2. Revocation[^c-11827bf63a4da3e3a156860ff73c30e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-11827bf63a4da3e3a156860ff73c30e7]
+## 3. Increase of limits[^c-11827bf63a4da3e3a156860ff73c30e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-11827bf63a4da3e3a156860ff73c30e7]
+## 4. Transitional provisions[^c-11827bf63a4da3e3a156860ff73c30e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11827bf63a4da3e3a156860ff73c30e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11827bf63a4da3e3a156860ff73c30e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TABLE OF INCREASE OF LIMITS[^key-11827bf63a4da3e3a156860ff73c30e7]
+## SCHEDULE — TABLE OF INCREASE OF LIMITS[^c-11827bf63a4da3e3a156860ff73c30e7]
 
 Article 3
 
@@ -77,8 +77,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-11827bf63a4da3e3a156860ff73c30e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11827bf63a4da3e3a156860ff73c30e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11827bf63a4da3e3a156860ff73c30e7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/3375) revoked (1.2.2001) by [Employment Rights (Increase of Limits) Order 2001 (S.I. 2001/21)](https://www.legislation.gov.uk/uksi/2001/21), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/21/article/1/1), [2](https://www.legislation.gov.uk/uksi/2001/21/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2001/21/article/4))
+[^c-11827bf63a4da3e3a156860ff73c30e7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/3375) revoked (1.2.2001) by [Employment Rights (Increase of Limits) Order 2001 (S.I. 2001/21)](https://www.legislation.gov.uk/uksi/2001/21), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/21/article/1/1), [2](https://www.legislation.gov.uk/uksi/2001/21/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2001/21/article/4))

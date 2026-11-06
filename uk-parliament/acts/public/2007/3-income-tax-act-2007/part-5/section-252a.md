@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252A. Meaning of “knowledge-intensive company”[^key-9117616fa41562db16322e17df3c5822]
+## 252A. Meaning of “knowledge-intensive company”[^c-9117616fa41562db16322e17df3c5822]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,9 +38,9 @@ summary: ''
   - (b) if the issuing company is a parent company at the time the relevant shares are issued, the sum of—
     - (i) the operating costs of the issuing company, and
     - (ii) the operating costs of each company which is a qualifying subsidiary of the issuing company at that time;
-- “**the relevant three preceding years**” means, subject to subsection (4A), the three consecutive years the last of which ends immediately before the beginning of the last accounts filing period.[^key-5ce4389fb658e4db9433fc4acba582de]
+- “**the relevant three preceding years**” means, subject to subsection (4A), the three consecutive years the last of which ends immediately before the beginning of the last accounts filing period.[^c-5ce4389fb658e4db9433fc4acba582de]
 
-(4A)[^key-c1fb65d7b279b3c0a406b60e85bc4bd3] If the last accounts filing period ends more than 12 months before the date on which the relevant shares are issued, the relevant three preceding years are the three consecutive years the last of which ends 12 months before the date on which the relevant shares are issued.
+(4A)[^c-c1fb65d7b279b3c0a406b60e85bc4bd3] If the last accounts filing period ends more than 12 months before the date on which the relevant shares are issued, the relevant three preceding years are the three consecutive years the last of which ends 12 months before the date on which the relevant shares are issued.
 
 (5) “The innovation condition” is—
 
@@ -117,8 +117,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9117616fa41562db16322e17df3c5822]: Textual amendment: S. 252A inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/19)
+[^c-9117616fa41562db16322e17df3c5822]: Textual amendment: S. 252A inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/19)
 
-[^key-5ce4389fb658e4db9433fc4acba582de]: Textual amendment: Words in s. 252A(4) substituted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/2/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
+[^c-5ce4389fb658e4db9433fc4acba582de]: Textual amendment: Words in s. 252A(4) substituted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/2/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
 
-[^key-c1fb65d7b279b3c0a406b60e85bc4bd3]: Textual amendment: S. 252A(4A) inserted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/2/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
+[^c-c1fb65d7b279b3c0a406b60e85bc4bd3]: Textual amendment: S. 252A(4A) inserted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/2/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))

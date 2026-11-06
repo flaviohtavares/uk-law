@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184G. Avoidance involving losses: schemes converting income to capital[^key-bfdbcc1b01762a5278551a00a33a1a84]
+## 184G. Avoidance involving losses: schemes converting income to capital[^c-bfdbcc1b01762a5278551a00a33a1a84]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies for the purposes of corporation tax in respect of chargeable gains if conditions A to D are satisfied.
 
-(2)[^key-17db8a9893e85b61bdcd8f6f5dd20459] Condition A is that a receipt or other amount arises to a company directly or indirectly in consequence of, or otherwise in connection with, any arrangements.
+(2)[^c-17db8a9893e85b61bdcd8f6f5dd20459] Condition A is that a receipt or other amount arises to a company directly or indirectly in consequence of, or otherwise in connection with, any arrangements.
 
 (3) Condition B is that—
 
 - (a) that amount falls to be taken into account in calculating a chargeable gain (the “relevant gain”) which accrues to a company (“**the relevant company**”), and
 - (b) losses accrue (or have accrued) to the relevant company (whether before or after or as part of the arrangements).
 
-(4) Condition C is that, but for the arrangements, an amount would have fallen to be taken into account wholly or partly instead of the amount mentioned in subsection (2)[^key-04779e084d6bbf2d07051061d24bf48e] in calculating the income chargeable to corporation tax—
+(4) Condition C is that, but for the arrangements, an amount would have fallen to be taken into account wholly or partly instead of the amount mentioned in subsection (2)[^c-04779e084d6bbf2d07051061d24bf48e] in calculating the income chargeable to corporation tax—
 
 - (a) of the relevant company, or
 - (b) of a company which, at any qualifying time, is a member of the same group as the relevant company.
@@ -64,8 +64,8 @@ is to secure a tax advantage that involves the deduction of any of the losses fr
 
 ## Annotations
 
-[^key-bfdbcc1b01762a5278551a00a33a1a84]: Textual amendment: Ss. 184G-184I inserted (with effect in accordance with s. 71(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/71/1)
+[^c-bfdbcc1b01762a5278551a00a33a1a84]: Textual amendment: Ss. 184G-184I inserted (with effect in accordance with s. 71(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/71/1)
 
-[^key-17db8a9893e85b61bdcd8f6f5dd20459]: Textual amendment: S. 184G(2)(3) substituted (with effect in accordance with s. 63(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/63/1/a)
+[^c-17db8a9893e85b61bdcd8f6f5dd20459]: Textual amendment: S. 184G(2)(3) substituted (with effect in accordance with s. 63(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/63/1/a)
 
-[^key-04779e084d6bbf2d07051061d24bf48e]: Textual amendment: Words in s. 184G(4) substituted (with effect in accordance with s. 63(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 63(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/63/1/b)
+[^c-04779e084d6bbf2d07051061d24bf48e]: Textual amendment: Words in s. 184G(4) substituted (with effect in accordance with s. 63(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 63(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/63/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57ZQ. Complaint to employment tribunal: agency workers[^key-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
+## 57ZQ. Complaint to employment tribunal: agency workers[^c-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
 
 *Extent: E+W+S*
 
@@ -29,10 +29,10 @@ summary: ''
 
 (3) An employment tribunal may not consider a complaint under subsection (1) or (2) unless it is presented—
 
-- (a) before the end of the period of six[^key-fd9b85367583287a6133a70fbb387638] months beginning with the day of the appointment in question, or
-- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^key-1c7d6eebcde6d69ed5294cb1aab50baf] months.
+- (a) before the end of the period of six[^c-fd9b85367583287a6133a70fbb387638] months beginning with the day of the appointment in question, or
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^c-1c7d6eebcde6d69ed5294cb1aab50baf] months.
 
-(4)[^key-8055b64cf6515724af2b5e0240dd8bea] Section 207B applies for the purposes of subsection (3)(a).
+(4)[^c-8055b64cf6515724af2b5e0240dd8bea] Section 207B applies for the purposes of subsection (3)(a).
 
 (5) Where an employment tribunal finds a complaint under subsection (1) or (2) well-founded, it must make a declaration to that effect.
 
@@ -55,10 +55,10 @@ where—
 
 ## Annotations
 
-[^key-ba5989c0e9dfaa4fed1f7d4e67cffb7a]: Textual amendment: Ss. 57ZJ-57ZS and cross-headings inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
+[^c-ba5989c0e9dfaa4fed1f7d4e67cffb7a]: Textual amendment: Ss. 57ZJ-57ZS and cross-headings inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
 
-[^key-fd9b85367583287a6133a70fbb387638]: Textual amendment: Word in [s. 57ZQ(3)(a)](https://www.legislation.gov.uk/ukpga/1996/18/section/57ZQ/3/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 4(14)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/4/14/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-fd9b85367583287a6133a70fbb387638]: Textual amendment: Word in [s. 57ZQ(3)(a)](https://www.legislation.gov.uk/ukpga/1996/18/section/57ZQ/3/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 4(14)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/4/14/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-1c7d6eebcde6d69ed5294cb1aab50baf]: Textual amendment: Word in [s. 57ZQ(3)(b)](https://www.legislation.gov.uk/ukpga/1996/18/section/57ZQ/3/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 4(14)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/4/14/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-1c7d6eebcde6d69ed5294cb1aab50baf]: Textual amendment: Word in [s. 57ZQ(3)(b)](https://www.legislation.gov.uk/ukpga/1996/18/section/57ZQ/3/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 4(14)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/4/14/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-8055b64cf6515724af2b5e0240dd8bea]: Textual amendment: [S. 57ZQ(4)](https://www.legislation.gov.uk/ukpga/1996/18/section/57ZQ/4) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 12(13)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/12/13) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8055b64cf6515724af2b5e0240dd8bea]: Textual amendment: [S. 57ZQ(4)](https://www.legislation.gov.uk/ukpga/1996/18/section/57ZQ/4) substituted (31.12.2020) by [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 12(13)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/12/13) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

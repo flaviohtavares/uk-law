@@ -22,7 +22,7 @@ summary: ''
 
 Article 82
 
-### PART 1 — ELECTION AND RETURN OF CONSTITUENCY MEMBER[^key-8218de74c5d9cf683e3c5b54a428fb8d]
+### PART 1 — ELECTION AND RETURN OF CONSTITUENCY MEMBER[^c-8218de74c5d9cf683e3c5b54a428fb8d]
 
 <table>
 <thead>
@@ -90,9 +90,9 @@ Article 82
 </tbody>
 </table>
 
-[^key-c17c6d3b219631f04f3be011049009a7][^key-c92ddb3a93f19efc7cf89224f2d64904][^key-c0d5c9b0eaeb0bc7f53e78a1f74f3cb0][^key-fd39afa903d30deace8e6df70ba281f2][^key-ea46a3ae3e2e304465279a52f57cc948]
+[^c-c17c6d3b219631f04f3be011049009a7][^c-c92ddb3a93f19efc7cf89224f2d64904][^c-c0d5c9b0eaeb0bc7f53e78a1f74f3cb0][^c-fd39afa903d30deace8e6df70ba281f2][^c-ea46a3ae3e2e304465279a52f57cc948]
 
-### PART 2 — ELECTION AND RETURN OF REGIONAL MEMBER[^key-1b797a7338665e90689ce4ab7d45823d]
+### PART 2 — ELECTION AND RETURN OF REGIONAL MEMBER[^c-1b797a7338665e90689ce4ab7d45823d]
 
 <table>
 <thead>
@@ -170,24 +170,24 @@ Article 82
 </tbody>
 </table>
 
-[^key-1ff388045587606646a46183cee51c14][^key-facf889e0fc87a0d2cc1554bfbf6a3fd]
+[^c-1ff388045587606646a46183cee51c14][^c-facf889e0fc87a0d2cc1554bfbf6a3fd]
 
 ## Annotations
 
-[^key-8218de74c5d9cf683e3c5b54a428fb8d]: Commencement: Sch. 6 Pt. 1 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-8218de74c5d9cf683e3c5b54a428fb8d]: Commencement: Sch. 6 Pt. 1 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-c17c6d3b219631f04f3be011049009a7]: Textual amendment: Words in [sch. 6 Pt. 1 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) omitted (11.12.2020) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/a/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-c17c6d3b219631f04f3be011049009a7]: Textual amendment: Words in [sch. 6 Pt. 1 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) omitted (11.12.2020) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/a/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
-[^key-c92ddb3a93f19efc7cf89224f2d64904]: Textual amendment: Word in [sch. 6 Pt. 1 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) substituted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/a/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-c92ddb3a93f19efc7cf89224f2d64904]: Textual amendment: Word in [sch. 6 Pt. 1 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) substituted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/a/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
-[^key-c0d5c9b0eaeb0bc7f53e78a1f74f3cb0]: Textual amendment: Words in [sch. 6 Pt. 1 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) omitted (11.12.2020) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/b/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-c0d5c9b0eaeb0bc7f53e78a1f74f3cb0]: Textual amendment: Words in [sch. 6 Pt. 1 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) omitted (11.12.2020) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/b/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
-[^key-fd39afa903d30deace8e6df70ba281f2]: Textual amendment: Words in [sch. 6 Pt. 1](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) omitted (11.12.2020) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/b/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-fd39afa903d30deace8e6df70ba281f2]: Textual amendment: Words in [sch. 6 Pt. 1](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) omitted (11.12.2020) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/b/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
-[^key-ea46a3ae3e2e304465279a52f57cc948]: Textual amendment: [Words in sch. 6 Pt. 1 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(c)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-ea46a3ae3e2e304465279a52f57cc948]: Textual amendment: [Words in sch. 6 Pt. 1 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/1) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(2)(c)](https://www.legislation.gov.uk/ssi/2020/426/article/18/2/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
-[^key-1b797a7338665e90689ce4ab7d45823d]: Commencement: Sch. 6 Pt. 2 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-1b797a7338665e90689ce4ab7d45823d]: Commencement: Sch. 6 Pt. 2 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-1ff388045587606646a46183cee51c14]: Textual amendment: [Words in sch. 6 Pt. 2 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/2) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(3)(a)](https://www.legislation.gov.uk/ssi/2020/426/article/18/3/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-1ff388045587606646a46183cee51c14]: Textual amendment: [Words in sch. 6 Pt. 2 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/2) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(3)(a)](https://www.legislation.gov.uk/ssi/2020/426/article/18/3/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
-[^key-facf889e0fc87a0d2cc1554bfbf6a3fd]: Textual amendment: [Words in sch. 6 Pt. 2 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/2) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(3)(b)](https://www.legislation.gov.uk/ssi/2020/426/article/18/3/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-facf889e0fc87a0d2cc1554bfbf6a3fd]: Textual amendment: [Words in sch. 6 Pt. 2 Table](https://www.legislation.gov.uk/ssi/2015/425/schedule/6/part/2) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [18(3)(b)](https://www.legislation.gov.uk/ssi/2020/426/article/18/3/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))

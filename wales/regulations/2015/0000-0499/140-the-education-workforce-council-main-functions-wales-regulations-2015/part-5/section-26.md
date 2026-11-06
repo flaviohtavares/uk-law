@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Membership and procedure of Committees[^key-8b3d389ac144adf4bc010e45f73f1cdb]
+## 26. Membership and procedure of Committees[^c-8b3d389ac144adf4bc010e45f73f1cdb]
 
 *Extent: E+W*
 
-(1) The Council must include on an Investigating Committee or a Fitness to Practise[^key-a14784f8595f70c24685506dea86ea92] Committee (“a Committee”)—
+(1) The Council must include on an Investigating Committee or a Fitness to Practise[^c-a14784f8595f70c24685506dea86ea92] Committee (“a Committee”)—
 
 - (a) one or more lay members; and
 - (b) one or more registered person member.
@@ -46,7 +46,7 @@ summary: ''
   - (iv) subject to a disciplinary order made under the 2014 Act by virtue of which the person is ineligible to register; or
   - (v) disqualified from working in a post equivalent to a category of registration;
 - (b) “registered person member” (“*aelod sy’n berson cofrestredig*”) means a person who is—
-  - (i)[^key-b3c21f5d1f18ed0550e4116ed369bc75] a person registered in at least one of the categories of registration; and
+  - (i)[^c-b3c21f5d1f18ed0550e4116ed369bc75] a person registered in at least one of the categories of registration; and
   - (ii) employed, or engaged otherwise than under a contract of employment, in at least one of the posts described in the categories of registration on the date of that registered person member’s appointment to the Committee.
 
 (7) A registered person member who ceases to be registered person or who ceases to be employed or engaged in one of the posts described in the categories of registration must cease to be a registered person member.
@@ -55,10 +55,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8b3d389ac144adf4bc010e45f73f1cdb]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2015/140/regulation/26) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-8b3d389ac144adf4bc010e45f73f1cdb]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2015/140/regulation/26) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
+[^c-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
 
 [^f00022]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-b3c21f5d1f18ed0550e4116ed369bc75]: Textual amendment: [Reg. 26(6)(b)(i)](https://www.legislation.gov.uk/wsi/2015/140/regulation/26/6/b/i)[(ii)](https://www.legislation.gov.uk/wsi/2015/140/regulation/26/6/b/ii) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/4)
+[^c-b3c21f5d1f18ed0550e4116ed369bc75]: Textual amendment: [Reg. 26(6)(b)(i)](https://www.legislation.gov.uk/wsi/2015/140/regulation/26/6/b/i)[(ii)](https://www.legislation.gov.uk/wsi/2015/140/regulation/26/6/b/ii) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/4)

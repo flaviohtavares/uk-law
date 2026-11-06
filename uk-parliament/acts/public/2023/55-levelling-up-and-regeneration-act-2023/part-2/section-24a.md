@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Health improvement and health inequalities duty[^key-c7d4174b720ccc096834502b3d4cd847]
+## 24A. Health improvement and health inequalities duty[^c-c7d4174b720ccc096834502b3d4cd847]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ and any other matters that are determinants of life expectancy or the state of h
 
 ## Annotations
 
-[^key-c7d4174b720ccc096834502b3d4cd847]: Textual amendment: S. 24A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/45/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-c7d4174b720ccc096834502b3d4cd847]: Textual amendment: S. 24A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 45(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/45/2), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

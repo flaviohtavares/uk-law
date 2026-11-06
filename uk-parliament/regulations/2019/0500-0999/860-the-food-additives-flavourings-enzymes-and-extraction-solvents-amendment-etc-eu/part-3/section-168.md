@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168.[^key-438a83325e8a9ae0eb5dd044d738420e]
+## 168.[^c-438a83325e8a9ae0eb5dd044d738420e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 2 omit the following words “This Regulation shall be binding in 
 
 ## Annotations
 
-[^key-438a83325e8a9ae0eb5dd044d738420e]: Commencement: Reg. 168 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-438a83325e8a9ae0eb5dd044d738420e]: Commencement: Reg. 168 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

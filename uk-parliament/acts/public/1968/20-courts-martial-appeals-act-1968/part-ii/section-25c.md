@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25C. Power to dismiss certain appeals following references by the CCRC[^key-add66d3421d84dbcfdd909c03856e63b]
+## 25C. Power to dismiss certain appeals following references by the CCRC[^c-add66d3421d84dbcfdd909c03856e63b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ the Court would not think it appropriate to grant the application by exercising 
 
 ## Annotations
 
-[^key-add66d3421d84dbcfdd909c03856e63b]: Textual amendment: S. 25C and cross-heading inserted (31.10.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/25/paragraph/2); [S.I. 2009/1028](https://www.legislation.gov.uk/uksi/2009/1028), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1028/article/2/a)
+[^c-add66d3421d84dbcfdd909c03856e63b]: Textual amendment: S. 25C and cross-heading inserted (31.10.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 25 para. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/25/paragraph/2); [S.I. 2009/1028](https://www.legislation.gov.uk/uksi/2009/1028), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1028/article/2/a)

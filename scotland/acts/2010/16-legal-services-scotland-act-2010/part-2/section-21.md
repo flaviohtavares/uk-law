@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Performance report[^key-6ba9af9eb88a13df1914bd448051ee6a]
+## 21. Performance report[^c-6ba9af9eb88a13df1914bd448051ee6a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ba9af9eb88a13df1914bd448051ee6a]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2010/16/section/21) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-6ba9af9eb88a13df1914bd448051ee6a]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2010/16/section/21) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

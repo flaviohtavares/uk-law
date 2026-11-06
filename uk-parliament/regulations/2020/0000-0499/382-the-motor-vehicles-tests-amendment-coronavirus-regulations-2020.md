@@ -46,17 +46,17 @@ The Secretary of State makes the following Regulations in exercise of the power 
 
 The Secretary of State, in accordance with section 195(2) of that Act, has consulted such representative organisations as the Secretary of State thinks fit.
 
-## 1. Citation, commencement and interpretation[^key-18476f411278f1dceeee3922690f6f9e]
+## 1. Citation, commencement and interpretation[^c-18476f411278f1dceeee3922690f6f9e]
 
 (1) These Regulations may be cited as the Motor Vehicles (Tests) (Amendment) (Coronavirus) Regulations 2020.
 
 (2) This regulation and regulation 2 come into force on 31st March 2020.
 
-(3) Regulation 3 comes into force on 1st February 2021[^key-781c9359118884630dc74c7f56487563].
+(3) Regulation 3 comes into force on 1st February 2021[^c-781c9359118884630dc74c7f56487563].
 
 (4) In these Regulations, “**the 1981 Regulations**” means the Motor Vehicles (Tests) Regulations 1981 [^c24047651].
 
-## 2. Amendments to the 1981 Regulations[^key-8d5294f32f74b2dd62200768fe500b06]
+## 2. Amendments to the 1981 Regulations[^c-8d5294f32f74b2dd62200768fe500b06]
 
 (1) Regulation 6 (exemptions) of the 1981 Regulations is amended as follows.
 
@@ -79,7 +79,7 @@ The Secretary of State, in accordance with section 195(2) of that Act, has consu
 
 .
 
-## 3. Revocation of amendments[^key-033b3b69613bb1ce7a5e008beff17469]
+## 3. Revocation of amendments[^c-033b3b69613bb1ce7a5e008beff17469]
 
 In regulation 6 of the 1981 Regulations, omit paragraphs (1)(xxix) and (1B).
 
@@ -109,12 +109,12 @@ No impact assessment has been prepared for these Regulations. An Explanatory Mem
 
 [^c24047641]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52). Section 47 was amended by the [Vehicle Excise and Registration Act 1994 (c. 22)](https://www.legislation.gov.uk/ukpga/1994/22), [section 63](https://www.legislation.gov.uk/ukpga/1994/22/section/63) and Schedule 3, paragraph 24(2), and the [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [section 5](https://www.legislation.gov.uk/ukpga/1994/9/section/5) and Schedule 2, paragraph 25.
 
-[^key-18476f411278f1dceeee3922690f6f9e]: Commencement: Reg. 1 in force at 31.3.2020, see reg. 1(2)
+[^c-18476f411278f1dceeee3922690f6f9e]: Commencement: Reg. 1 in force at 31.3.2020, see reg. 1(2)
 
-[^key-781c9359118884630dc74c7f56487563]: Textual amendment: Words in reg. 1(3) substituted (31.7.2020) by [The Motor Vehicles (Tests) (Amendment) (Coronavirus) (No. 2) Regulations 2020 (S.I. 2020/790)](https://www.legislation.gov.uk/uksi/2020/790), [regs. 1](https://www.legislation.gov.uk/uksi/2020/790/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/790/regulation/3)
+[^c-781c9359118884630dc74c7f56487563]: Textual amendment: Words in reg. 1(3) substituted (31.7.2020) by [The Motor Vehicles (Tests) (Amendment) (Coronavirus) (No. 2) Regulations 2020 (S.I. 2020/790)](https://www.legislation.gov.uk/uksi/2020/790), [regs. 1](https://www.legislation.gov.uk/uksi/2020/790/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/790/regulation/3)
 
 [^c24047651]: Marginal citation: [S.I. 1981/1694](https://www.legislation.gov.uk/uksi/1981/1694), amended by [S.I. 1995/1457](https://www.legislation.gov.uk/uksi/1995/1457), 2003/1113 and 2017/850; there are other amending instruments but none is relevant.
 
-[^key-8d5294f32f74b2dd62200768fe500b06]: Commencement: Reg. 2 in force at 31.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/382/regulation/1/2)
+[^c-8d5294f32f74b2dd62200768fe500b06]: Commencement: Reg. 2 in force at 31.3.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/382/regulation/1/2)
 
-[^key-033b3b69613bb1ce7a5e008beff17469]: Commencement: Reg. 3 in force at 1.2.2021, see reg. 1(3) (as amended by [S.I. 2020/790](https://www.legislation.gov.uk/uksi/2020/790), [reg. 3](https://www.legislation.gov.uk/uksi/2020/790/regulation/3))
+[^c-033b3b69613bb1ce7a5e008beff17469]: Commencement: Reg. 3 in force at 1.2.2021, see reg. 1(3) (as amended by [S.I. 2020/790](https://www.legislation.gov.uk/uksi/2020/790), [reg. 3](https://www.legislation.gov.uk/uksi/2020/790/regulation/3))

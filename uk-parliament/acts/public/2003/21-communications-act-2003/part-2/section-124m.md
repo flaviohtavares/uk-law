@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124M. Sharing of costs[^key-56b10db967f4340735e27120f411c738]
+## 124M. Sharing of costs[^c-56b10db967f4340735e27120f411c738]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56b10db967f4340735e27120f411c738]: Textual amendment: S. 124M inserted (8.4.2010) by virtue of [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 15](https://www.legislation.gov.uk/ukpga/2010/24/section/15), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)
+[^c-56b10db967f4340735e27120f411c738]: Textual amendment: S. 124M inserted (8.4.2010) by virtue of [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 15](https://www.legislation.gov.uk/ukpga/2010/24/section/15), [47(2)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/a)

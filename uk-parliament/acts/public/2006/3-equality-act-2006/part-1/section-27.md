@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Conciliation[^key-d7f5824ca8ba7dabf5260d4803b72634]
+## 27. Conciliation[^c-d7f5824ca8ba7dabf5260d4803b72634]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f5824ca8ba7dabf5260d4803b72634]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/2006/3/section/27) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(1)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/1/b), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)
+[^c-d7f5824ca8ba7dabf5260d4803b72634]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/2006/3/section/27) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(1)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/1/b), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)

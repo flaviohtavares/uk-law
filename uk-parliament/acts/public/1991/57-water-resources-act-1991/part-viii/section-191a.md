@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) No information shall be included in a register kept or maintained by the appropriate agency[^key-71d5b396987579b35fd123aa3a0030cb] under any provision of this Act if and so long as, in the opinion of the Secretary of State, the inclusion in such a register of that information, or information of that description, would be contrary to the interests of national security.
+(1) No information shall be included in a register kept or maintained by the appropriate agency[^c-71d5b396987579b35fd123aa3a0030cb] under any provision of this Act if and so long as, in the opinion of the Secretary of State, the inclusion in such a register of that information, or information of that description, would be contrary to the interests of national security.
 
 (2) The Secretary of State may, for the purpose of securing the exclusion from registers of information to which subsection (1) above applies, give to the appropriate agency directions—
 
@@ -42,4 +42,4 @@ and no information referred to the Secretary of State in pursuance of paragraph 
 
 [^c18740081]: Textual amendment: S. 191A inserted (21.11.1996 for certain purposes and 31.12.1996 otherwise) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 170](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/170) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2909](https://www.legislation.gov.uk/uksi/1996/2909), [arts. 2](https://www.legislation.gov.uk/uksi/1996/2909/article/2), [3](https://www.legislation.gov.uk/uksi/1996/2909/article/3) (subject to saving provisions in [art. 4](https://www.legislation.gov.uk/uksi/1996/2909/article/4))
 
-[^key-71d5b396987579b35fd123aa3a0030cb]: Textual amendment: Words in ss. 189-197 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-71d5b396987579b35fd123aa3a0030cb]: Textual amendment: Words in ss. 189-197 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

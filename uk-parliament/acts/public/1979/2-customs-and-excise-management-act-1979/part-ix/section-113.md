@@ -30,7 +30,7 @@ summary: ''
 
 (5) If any damage is done in any such search as aforesaid and the search is unsuccessful, the Commissioners shall make good the damage.
 
-(6) The revenue traders to whom this section applies are persons who produce alcoholic products[^key-893e49fb5b3efe122ce0737a4124b881] or vaping products[^key-dd26579f6a889aee1876a5c868178811].
+(6) The revenue traders to whom this section applies are persons who produce alcoholic products[^c-893e49fb5b3efe122ce0737a4124b881] or vaping products[^c-dd26579f6a889aee1876a5c868178811].
 
 (7) This section also applies to the occupier of a refinery as it applies to the traders mentioned in subsection (6) above, whether or not the occupier is a revenue trader.
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c14777801]: Textual amendment: Words in s. 113(4) repealed (1.1.1995) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 26 Pt. III](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/III) Note (with s. 19(3)); [S.I. 1994/2679](https://www.legislation.gov.uk/uksi/1994/2679), [art. 3](https://www.legislation.gov.uk/uksi/1994/2679/article/3) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/1994/2679/article/4/3))
 
-[^key-893e49fb5b3efe122ce0737a4124b881]: Textual amendment: Words in [s. 113(6)](https://www.legislation.gov.uk/ukpga/1979/2/section/113/6) substituted (1.2.2025) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/24); [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))
+[^c-893e49fb5b3efe122ce0737a4124b881]: Textual amendment: Words in [s. 113(6)](https://www.legislation.gov.uk/ukpga/1979/2/section/113/6) substituted (1.2.2025) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/24); [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))
 
-[^key-dd26579f6a889aee1876a5c868178811]: Textual amendment: Words in [s. 113(6)](https://www.legislation.gov.uk/ukpga/1979/2/section/113/6) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 15 para. 3(d)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/15/paragraph/3/d)
+[^c-dd26579f6a889aee1876a5c868178811]: Textual amendment: Words in [s. 113(6)](https://www.legislation.gov.uk/ukpga/1979/2/section/113/6) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 15 para. 3(d)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/15/paragraph/3/d)

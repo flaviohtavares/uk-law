@@ -48,36 +48,36 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by sections 45D(1A) and (7) and 104AA(5) of the Capital Allowances Act 2001[^f00001].
 
-## 1. Citation and commencement[^key-e710c68a1642c32c59bc31f8091c3467]
+## 1. Citation and commencement[^c-e710c68a1642c32c59bc31f8091c3467]
 
 This Order may be cited as the Capital Allowances Act 2001 (Cars Emissions) Order 2016 and comes into force on 1st November 2016.
 
-## 2.[^key-3d5f70703b62167ca3c08e82a3963f07]
+## 2.[^c-3d5f70703b62167ca3c08e82a3963f07]
 
-(1)[^key-01ed5da45013d20e497aef82da8b2807] The amendments made by article 4(b) and article 5 have effect in relation to expenditure incurred on or after 1st April 2018.
+(1)[^c-01ed5da45013d20e497aef82da8b2807] The amendments made by article 4(b) and article 5 have effect in relation to expenditure incurred on or after 1st April 2018.
 
-(2)[^key-a5c2ead1182525aba884d0fd2abf1a68] This article is subject to article 7 (savings).
+(2)[^c-a5c2ead1182525aba884d0fd2abf1a68] This article is subject to article 7 (savings).
 
-## 3. Amendment of the Capital Allowances Act 2001[^key-f94e38220a0e4740a5cf2c92db6f3b73]
+## 3. Amendment of the Capital Allowances Act 2001[^c-f94e38220a0e4740a5cf2c92db6f3b73]
 
 The Capital Allowances Act 2001 is amended as follows.
 
-## 4.[^key-b676b16aa763013658f6e9e386605e1a]
+## 4.[^c-b676b16aa763013658f6e9e386605e1a]
 
 In section 45D—
 
 - (a) in subsection (1)(a)[^f00002] for “2018” substitute “2021”; and
 - (b) in subsection (4)[^f00003] for “75” substitute “50”.
 
-## 5.[^key-ace7ece7c0001eb9c9f5f3de91a992eb]
+## 5.[^c-ace7ece7c0001eb9c9f5f3de91a992eb]
 
 In section 104AA(4)[^f00004] for “130” substitute “110”.
 
-## 6. Revocation[^key-ecc644c8f4e442149a508db6a3657751]
+## 6. Revocation[^c-ecc644c8f4e442149a508db6a3657751]
 
 Article 4(a) of the Capital Allowances Act 2001 (Extension of first-year allowances) (Amendment) Order 2015[^f00005] is revoked.
 
-## 7. Savings[^key-ea440df808057cc85fa63dbfb5ea505c]
+## 7. Savings[^c-ea440df808057cc85fa63dbfb5ea505c]
 
 (1) In relation to expenditure incurred on the hiring of a car—
 
@@ -117,28 +117,28 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2001 c.2](https://www.legislation.gov.uk/ukpga/2001/2); section 45D was inserted by section 59 of, and paragraph 3 of Schedule 19 to, the Finance Act [2002 (c.23)](https://www.legislation.gov.uk/ukpga/2002/23); section 45D(1A) was inserted by section 64(2) of the Finance Act [2014 (c.26)](https://www.legislation.gov.uk/ukpga/2014/26); section 104AA was inserted by paragraph 8 of Schedule 11 to the Finance Act [2009 (c.10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-e710c68a1642c32c59bc31f8091c3467]: Commencement: Art. 1 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
+[^c-e710c68a1642c32c59bc31f8091c3467]: Commencement: Art. 1 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
 
-[^key-3d5f70703b62167ca3c08e82a3963f07]: Commencement: Art. 2 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
+[^c-3d5f70703b62167ca3c08e82a3963f07]: Commencement: Art. 2 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
 
-[^key-01ed5da45013d20e497aef82da8b2807]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2016/984/article/2) renumbered as [art. 2(1)](https://www.legislation.gov.uk/uksi/2016/984/article/2/1) (3.8.2017) by [The Capital Allowances Act 2001 (Cars Emissions) (Amendment) Order 2017 (S.I. 2017/740)](https://www.legislation.gov.uk/uksi/2017/740), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/740/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/740/article/2/2)
+[^c-01ed5da45013d20e497aef82da8b2807]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2016/984/article/2) renumbered as [art. 2(1)](https://www.legislation.gov.uk/uksi/2016/984/article/2/1) (3.8.2017) by [The Capital Allowances Act 2001 (Cars Emissions) (Amendment) Order 2017 (S.I. 2017/740)](https://www.legislation.gov.uk/uksi/2017/740), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/740/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/740/article/2/2)
 
-[^key-a5c2ead1182525aba884d0fd2abf1a68]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2016/984/article/2/2) inserted (3.8.2017) by [The Capital Allowances Act 2001 (Cars Emissions) (Amendment) Order 2017 (S.I. 2017/740)](https://www.legislation.gov.uk/uksi/2017/740), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/740/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/740/article/2/3)
+[^c-a5c2ead1182525aba884d0fd2abf1a68]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2016/984/article/2/2) inserted (3.8.2017) by [The Capital Allowances Act 2001 (Cars Emissions) (Amendment) Order 2017 (S.I. 2017/740)](https://www.legislation.gov.uk/uksi/2017/740), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/740/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/740/article/2/3)
 
-[^key-f94e38220a0e4740a5cf2c92db6f3b73]: Commencement: Art. 3 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
+[^c-f94e38220a0e4740a5cf2c92db6f3b73]: Commencement: Art. 3 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
 
-[^key-b676b16aa763013658f6e9e386605e1a]: Commencement: Art. 4 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
+[^c-b676b16aa763013658f6e9e386605e1a]: Commencement: Art. 4 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
 
 [^f00002]: Footnote: Section 45D(1)(a) was amended by [S.I. 2015/60](https://www.legislation.gov.uk/uksi/2015/60).
 
 [^f00003]: Footnote: Section 45D(4) was amended by paragraph 14 of Schedule 11 to the Finance Act [2009 (c.10)](https://www.legislation.gov.uk/ukpga/2009/10) and [S.I. 2015/60](https://www.legislation.gov.uk/uksi/2015/60); there are other amendments to section 45D not relevant to this Order.
 
-[^key-ace7ece7c0001eb9c9f5f3de91a992eb]: Commencement: Art. 5 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
+[^c-ace7ece7c0001eb9c9f5f3de91a992eb]: Commencement: Art. 5 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
 
 [^f00004]: Footnote: Section 104AA(4) was amended by section 68(3) of the Finance Act [2013 (c.29)](https://www.legislation.gov.uk/ukpga/2013/29).
 
-[^key-ecc644c8f4e442149a508db6a3657751]: Commencement: Art. 6 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
+[^c-ecc644c8f4e442149a508db6a3657751]: Commencement: Art. 6 in force at 1.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/984/article/1)
 
 [^f00005]: Footnote: [S.I. 2015/60](https://www.legislation.gov.uk/uksi/2015/60).
 
-[^key-ea440df808057cc85fa63dbfb5ea505c]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2016/984/article/7) inserted (3.8.2017) by [The Capital Allowances Act 2001 (Cars Emissions) (Amendment) Order 2017 (S.I. 2017/740)](https://www.legislation.gov.uk/uksi/2017/740), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/740/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/740/article/2/4)
+[^c-ea440df808057cc85fa63dbfb5ea505c]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2016/984/article/7) inserted (3.8.2017) by [The Capital Allowances Act 2001 (Cars Emissions) (Amendment) Order 2017 (S.I. 2017/740)](https://www.legislation.gov.uk/uksi/2017/740), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/740/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/740/article/2/4)

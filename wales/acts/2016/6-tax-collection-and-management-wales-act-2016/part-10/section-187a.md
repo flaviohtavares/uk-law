@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187A. Crown application for the purposes of Land Transaction Tax[^key-6cefd6673ae6a220aeb173d38c38c067]
+## 187A. Crown application for the purposes of Land Transaction Tax[^c-6cefd6673ae6a220aeb173d38c38c067]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cefd6673ae6a220aeb173d38c38c067]: Textual amendment: [S. 187A](https://www.legislation.gov.uk/anaw/2016/6/section/187A) inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 66](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/66); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6cefd6673ae6a220aeb173d38c38c067]: Textual amendment: [S. 187A](https://www.legislation.gov.uk/anaw/2016/6/section/187A) inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 66](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/66); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

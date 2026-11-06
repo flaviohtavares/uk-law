@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. “Give notice” etc[^key-9b61d8fd4066c28064a5c43c8c972c5a]
+## 178. “Give notice” etc[^c-9b61d8fd4066c28064a5c43c8c972c5a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b61d8fd4066c28064a5c43c8c972c5a]: Commencement: Rule 178 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-9b61d8fd4066c28064a5c43c8c972c5a]: Commencement: Rule 178 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

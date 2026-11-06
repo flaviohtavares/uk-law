@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Maintenance of sideguards[^key-3d70a0812e4e0df745fbbf40a7f8cde0]
+## 52. Maintenance of sideguards[^c-3d70a0812e4e0df745fbbf40a7f8cde0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Every sideguard fitted to a vehicle in compliance with the requirements of regul
 
 ## Annotations
 
-[^key-3d70a0812e4e0df745fbbf40a7f8cde0]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1986/1078/regulation/52) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-3d70a0812e4e0df745fbbf40a7f8cde0]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1986/1078/regulation/52) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

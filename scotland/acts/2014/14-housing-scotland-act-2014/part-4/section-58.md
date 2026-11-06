@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Offences by bodies corporate etc.[^key-7b8a81311413e473f6db53f77daf384f]
+## 58. Offences by bodies corporate etc.[^c-7b8a81311413e473f6db53f77daf384f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the individual (as well as the body corporate, partnership or, as the case may b
 
 ## Annotations
 
-[^key-7b8a81311413e473f6db53f77daf384f]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2014/14/section/58) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-7b8a81311413e473f6db53f77daf384f]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2014/14/section/58) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

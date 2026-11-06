@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102B. Matters to consider when imposing generally applicable requirements[^key-516322097f0876cec59b72e8e7eb670d]
+## 102B. Matters to consider when imposing generally applicable requirements[^c-516322097f0876cec59b72e8e7eb670d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-516322097f0876cec59b72e8e7eb670d]: Textual amendment: [S. 102B](https://www.legislation.gov.uk/ukpga/2013/33/section/102B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/5); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)
+[^c-516322097f0876cec59b72e8e7eb670d]: Textual amendment: [S. 102B](https://www.legislation.gov.uk/ukpga/2013/33/section/102B) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/5); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/iv)

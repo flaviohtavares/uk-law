@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Construction and maintenance of new, altered or diverted streets[^key-4fc39bd1d57d93f20a687cf27fb1aa96]
+## 14. Construction and maintenance of new, altered or diverted streets[^c-4fc39bd1d57d93f20a687cf27fb1aa96]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ but for the purposes of such a defence it is not relevant that the promoter had 
 
 ## Annotations
 
-[^key-4fc39bd1d57d93f20a687cf27fb1aa96]: Commencement: Art. 14 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-4fc39bd1d57d93f20a687cf27fb1aa96]: Commencement: Art. 14 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Safeguards relating to disclosure of material overseas[^key-7c1102a38ef3bc593e01a8a60ce504a0]
+## 54. Safeguards relating to disclosure of material overseas[^c-7c1102a38ef3bc593e01a8a60ce504a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c1102a38ef3bc593e01a8a60ce504a0]: Commencement: S. 54 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/r)
+[^c-7c1102a38ef3bc593e01a8a60ce504a0]: Commencement: S. 54 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/r)

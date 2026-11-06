@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Consultation with EBA: supervisory benchmarking of internal approaches for calculation own funds requirements[^key-d59c8b4090d01da1cc0b2cb49c3d5536]
+## 38. Consultation with EBA: supervisory benchmarking of internal approaches for calculation own funds requirements[^c-d59c8b4090d01da1cc0b2cb49c3d5536]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d59c8b4090d01da1cc0b2cb49c3d5536]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2013/3115/regulation/38) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [26](https://www.legislation.gov.uk/uksi/2018/1401/regulation/26) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d59c8b4090d01da1cc0b2cb49c3d5536]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2013/3115/regulation/38) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [26](https://www.legislation.gov.uk/uksi/2018/1401/regulation/26) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14B. Regulations about offences[^key-1151965ed2e5155fc93de0ef2beb4cac]
+## 14B. Regulations about offences[^c-1151965ed2e5155fc93de0ef2beb4cac]
 
 *Extent: E+W*
 
@@ -42,10 +42,10 @@ summary: ''
 (4) Regulations under subsection (1)(d), (e) or (f) that create an offence that may only be committed by a person acting dishonestly—
 
 - (a) must provide for the offence to be triable summarily or on indictment;
-- (b) may not provide for the offence to be punishable on summary conviction with imprisonment for a term exceeding the general limit in a magistrates’ court[^key-407afdbfa6f869f5a2e0fc2ba79f8e41] or with a fine exceeding the statutory maximum;
+- (b) may not provide for the offence to be punishable on summary conviction with imprisonment for a term exceeding the general limit in a magistrates’ court[^c-407afdbfa6f869f5a2e0fc2ba79f8e41] or with a fine exceeding the statutory maximum;
 - (c) may not provide for the offence to be punishable on conviction on indictment with imprisonment for a term exceeding 7 years (and may provide for the offence to be punishable on conviction on indictment with a fine).
 
-(5) Regulations under this section that create an offence within subsection (4) that may be committed before 2 May 2022[^key-fc8a7de1aa5addb7964714506f313e60] may not provide for such an offence committed before that date to be punishable on summary conviction with imprisonment for a term exceeding 6 months.
+(5) Regulations under this section that create an offence within subsection (4) that may be committed before 2 May 2022[^c-fc8a7de1aa5addb7964714506f313e60] may not provide for such an offence committed before that date to be punishable on summary conviction with imprisonment for a term exceeding 6 months.
 
 (6) Regulations under subsection (1)(d), (e) or (f) that create an offence that may be committed by a person acting otherwise than dishonestly—
 
@@ -82,8 +82,8 @@ with such modifications as the appropriate authority thinks fit.
 
 ## Annotations
 
-[^key-1151965ed2e5155fc93de0ef2beb4cac]: Textual amendment: Ss. 14A-14D inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/14/2)
+[^c-1151965ed2e5155fc93de0ef2beb4cac]: Textual amendment: Ss. 14A-14D inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/14/2)
 
-[^key-407afdbfa6f869f5a2e0fc2ba79f8e41]: Textual amendment: Words in [s. 14B(4)(b)](https://www.legislation.gov.uk/ukpga/1992/14/section/14B/4/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-407afdbfa6f869f5a2e0fc2ba79f8e41]: Textual amendment: Words in [s. 14B(4)(b)](https://www.legislation.gov.uk/ukpga/1992/14/section/14B/4/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-fc8a7de1aa5addb7964714506f313e60]: Textual amendment: Words in [s. 14B(5)](https://www.legislation.gov.uk/ukpga/1992/14/section/14B/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-fc8a7de1aa5addb7964714506f313e60]: Textual amendment: Words in [s. 14B(5)](https://www.legislation.gov.uk/ukpga/1992/14/section/14B/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

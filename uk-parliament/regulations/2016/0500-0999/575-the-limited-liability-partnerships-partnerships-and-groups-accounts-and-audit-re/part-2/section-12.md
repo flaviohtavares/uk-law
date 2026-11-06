@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Duty to file accounts and reports[^key-9ca196af6f9ab5522f2d9abbbdeef4e7]
+## 12. Duty to file accounts and reports[^c-9ca196af6f9ab5522f2d9abbbdeef4e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ca196af6f9ab5522f2d9abbbdeef4e7]: Commencement: Reg. 12 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-9ca196af6f9ab5522f2d9abbbdeef4e7]: Commencement: Reg. 12 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00030]: Footnote: Paragraph 1A of Schedule 1 is inserted by regulation 34 of these Regulations.

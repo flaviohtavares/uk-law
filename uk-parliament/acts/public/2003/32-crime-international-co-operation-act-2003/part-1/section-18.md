@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Warrants in Scotland[^key-116f5c0d4c769401e34946f634688457]
+## 18. Warrants in Scotland[^c-116f5c0d4c769401e34946f634688457]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,10 +32,10 @@ the sheriff has the like power to grant warrant authorising entry, search and se
 - (a) in pursuance of a direction given under section 13, or
 - (b) if it is an application made at the request of an international joint investigation team for the purposes of their investigation.
 
-“**International joint investigation team**” has the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012[^key-b6e2969a1a33c156f0b7d57ecfeea8d9] .
+“**International joint investigation team**” has the meaning given by section 99(1) of the Police and Fire Reform (Scotland) Act 2012[^c-b6e2969a1a33c156f0b7d57ecfeea8d9] .
 
 ## Annotations
 
-[^key-116f5c0d4c769401e34946f634688457]: Commencement: S. 18 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-116f5c0d4c769401e34946f634688457]: Commencement: S. 18 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-b6e2969a1a33c156f0b7d57ecfeea8d9]: Textual amendment: Words in s. 18(2) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 42(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/42/2)
+[^c-b6e2969a1a33c156f0b7d57ecfeea8d9]: Textual amendment: Words in s. 18(2) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 42(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/42/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Approval of modification of the Emissions Monitoring Plan[^key-c094e1c748b2389bed74d2a804201934]
+## 27. Approval of modification of the Emissions Monitoring Plan[^c-c094e1c748b2389bed74d2a804201934]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-245e55ca0af95795a82cf3a90a280e93] A Regulator may allow an aeroplane operator to notify modifications of the Emissions Monitoring Plan that are not significant, without such modifications being the subject of the Regulator’s approval.
+(1)[^c-245e55ca0af95795a82cf3a90a280e93] A Regulator may allow an aeroplane operator to notify modifications of the Emissions Monitoring Plan that are not significant, without such modifications being the subject of the Regulator’s approval.
 
-(2) Any significant modification of the Emissions Monitoring Plan must be subject to approval by notice[^key-b58f75bc54d194bd4c617357bcd5ccfa] by a Regulator.
+(2) Any significant modification of the Emissions Monitoring Plan must be subject to approval by notice[^c-b58f75bc54d194bd4c617357bcd5ccfa] by a Regulator.
 
 (3) Where the Regulator considers a modification not to be significant, it must inform the aeroplane operator without undue delay.
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c094e1c748b2389bed74d2a804201934]: Commencement: Art. 27 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-c094e1c748b2389bed74d2a804201934]: Commencement: Art. 27 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-245e55ca0af95795a82cf3a90a280e93]: Textual amendment: [Art. 27(1)](https://www.legislation.gov.uk/uksi/2021/534/article/27/1) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/14/2)
+[^c-245e55ca0af95795a82cf3a90a280e93]: Textual amendment: [Art. 27(1)](https://www.legislation.gov.uk/uksi/2021/534/article/27/1) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/14/2)
 
-[^key-b58f75bc54d194bd4c617357bcd5ccfa]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/uksi/2021/534/article/27/2) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [14(3)](https://www.legislation.gov.uk/uksi/2022/1050/article/14/3)
+[^c-b58f75bc54d194bd4c617357bcd5ccfa]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/uksi/2021/534/article/27/2) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [14(3)](https://www.legislation.gov.uk/uksi/2022/1050/article/14/3)

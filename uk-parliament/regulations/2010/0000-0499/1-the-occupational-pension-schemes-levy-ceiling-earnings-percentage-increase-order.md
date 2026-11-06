@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Occupational Pension Schemes (Levy Ceiling – Earnings Percentage Increase) Order 2010 (revoked)[^key-75f3177cfab14ab30d3deca6ac223e43]
+The Occupational Pension Schemes (Levy Ceiling – Earnings Percentage Increase) Order 2010 (revoked)[^c-75f3177cfab14ab30d3deca6ac223e43]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 3rd February 2010
 
-[^key-75f3177cfab14ab30d3deca6ac223e43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75f3177cfab14ab30d3deca6ac223e43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-75f3177cfab14ab30d3deca6ac223e43]
+## 1. Citation and commencement[^c-75f3177cfab14ab30d3deca6ac223e43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The earnings percentage[^key-75f3177cfab14ab30d3deca6ac223e43]
+## 2. The earnings percentage[^c-75f3177cfab14ab30d3deca6ac223e43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-75f3177cfab14ab30d3deca6ac223e43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75f3177cfab14ab30d3deca6ac223e43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-75f3177cfab14ab30d3deca6ac223e43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75f3177cfab14ab30d3deca6ac223e43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-75f3177cfab14ab30d3deca6ac223e43]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/1) revoked (1.4.2012) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012 (revoked) 2012 (S.I. 2012/528)](https://www.legislation.gov.uk/uksi/2012/528), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/528/article/1/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2012/528/schedule)
+[^c-75f3177cfab14ab30d3deca6ac223e43]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/1) revoked (1.4.2012) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012 (revoked) 2012 (S.I. 2012/528)](https://www.legislation.gov.uk/uksi/2012/528), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/528/article/1/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2012/528/schedule)

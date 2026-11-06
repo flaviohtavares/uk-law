@@ -24,30 +24,30 @@ Regulations 2(1), 15(1) and (2) and 24(5) and (6)
 
 ### PART I — SAMPLING OF SEED LOTS
 
-#### 1. Definitions[^key-8232ab83c9d1d5f7eacbc6584121e5ba]
+#### 1. Definitions[^c-8232ab83c9d1d5f7eacbc6584121e5ba]
 
 In this Part of this Schedule–
 
 - “composite sample” means a single sample comprising all of the primary samples taken from a seed lot during a single sampling exercise to produce a submitted sample for the seed lot; and
 - “primary sample” means a sample taken from a seed lot in accordance with paragraphs 13 to 19 of this Part of this Schedule.
 
-#### 2. Obtaining a submitted sample[^key-62029adf1ae79cea202a75e93a44222a]
+#### 2. Obtaining a submitted sample[^c-62029adf1ae79cea202a75e93a44222a]
 
 A submitted sample shall be obtained from the seed lot by taking primary samples systematically or at random from different positions in the seed lot and combining them to form a composite sample. Where the composite sample is a submitted sample, it may be submitted for an official examination intact or it may be reduced in weight by using one of the instruments referred to in paragraph 20 of this Part of this Schedule in accordance, where appropriate, with the relevant procedures specified in paragraphs 20 to 22 of this Part of this Schedule to give a smaller submitted sample.
 
-#### 3. Primary sample size[^key-1d91bdf2c40ee4d03f27d411ba97541f]
+#### 3. Primary sample size[^c-1d91bdf2c40ee4d03f27d411ba97541f]
 
 At each position of sampling of a seed lot, primary samples of approximately equal size shall be taken.
 
-#### 4. Condition of the seed lot[^key-de6a29cde5f50c4ceb488069482b8000]
+#### 4. Condition of the seed lot[^c-de6a29cde5f50c4ceb488069482b8000]
 
 The seed lot to be sampled shall be a homogeneous seed lot.
 
-#### 5. Seed lot containers[^key-c2362f3e95e5468bf7d3a2cb69b142f7]
+#### 5. Seed lot containers[^c-c2362f3e95e5468bf7d3a2cb69b142f7]
 
 If a seed lot is presented for sampling in more than one container, the containers shall be of the same size and type and contain approximately the same weight of seed.
 
-#### 6. Sampling from sacks – minimum number of containers to be sampled[^key-ae4b93ad57ccfe27fc309dae202aa0aa]
+#### 6. Sampling from sacks – minimum number of containers to be sampled[^c-ae4b93ad57ccfe27fc309dae202aa0aa]
 
 When the seed lot is in sacks or similar sized containers each containing at least 15 kilograms of seed and not more than 100 kilograms of seed, the minimum number of containers to be sampled shall be in accordance with the following table–
 
@@ -60,23 +60,23 @@ When the seed lot is in sacks or similar sized containers each containing at lea
 | 31–59 | A total of 20 primary samples with each sample being taken from a different container |
 | 60 or more | A total of 30 primary samples with each sample being taken from a different container |
 
-#### 7. Sampling from sacks or similar containers[^key-a765ab908c9470a34a3fb8e540eda715]
+#### 7. Sampling from sacks or similar containers[^c-a765ab908c9470a34a3fb8e540eda715]
 
 The containers to be sampled shall be selected systematically or at random and primary samples shall be drawn from the top, middle and bottom of containers; and if more than one primary sample is taken from any container then the position from which the seed is taken shall be varied from primary sample to primary sample and from container to container.
 
-#### 8. Sampling from small containers – general[^key-833cb9b7033b1e3758c2c674a64efe1f]
+#### 8. Sampling from small containers – general[^c-833cb9b7033b1e3758c2c674a64efe1f]
 
 For sampling seed lots in containers holding less than 15 kilograms of seed, a 100 kilogram weight of seed shall be taken as the basic unit and the small containers shall be combined to form sampling units not exceeding this weight (for example 9 packages of 10 kilograms, 20 packages of 5 kilograms) and for sampling purposes each unit shall be regarded as one container and the sampling procedures prescribed in paragraphs 6 and 7 of this Part of this Schedule shall be used.
 
-#### 9. Sampling from small containers – moisture-proof containers[^key-e3fcdbf58fd61b1200e0bff0754311f0]
+#### 9. Sampling from small containers – moisture-proof containers[^c-e3fcdbf58fd61b1200e0bff0754311f0]
 
 When seed is in moisture-proof containers the opened or pierced containers shall be adequately closed or the residues from sampling transferred to new containers.
 
-#### 10. Sampling from small containers – primary samples[^key-27480c51f9f87ac92bc0ee923c151ec9]
+#### 10. Sampling from small containers – primary samples[^c-27480c51f9f87ac92bc0ee923c151ec9]
 
 When seed is in packets of 100 grams or less each packet may be considered as a primary sample and sufficient packets shall be taken at random to obtain a submitted sample.
 
-#### 11. Sampling from large containers[^key-3f1fb8e8bd9018a86deab0aed69f9ce0]
+#### 11. Sampling from large containers[^c-3f1fb8e8bd9018a86deab0aed69f9ce0]
 
 For the sampling of containers holding at least 100 kilograms of seed, primary samples shall be taken from different horizontal and vertical positions selected at random and the minimum number of primary samples to be taken shall be in accordance with the following table–
 
@@ -87,27 +87,27 @@ For the sampling of containers holding at least 100 kilograms of seed, primary s
 | 3,001–20,000 | 1 for each 500 kilograms but no fewer than 10 |
 | 20,001 and above | 1 for each 700 kilograms but no fewer than 40 |
 
-#### 12. Sampling of seed lots intended to be Excepted Seed Marketed in Bulk[^key-00480f9af6e45fd3aca7a1c0f1beb4af]
+#### 12. Sampling of seed lots intended to be Excepted Seed Marketed in Bulk[^c-00480f9af6e45fd3aca7a1c0f1beb4af]
 
 Random sampling of seed lots of seed which is intended to be Excepted Seed Marketed in Bulk shall be carried out in accordance with the requirements of this Schedule during the filling of the container used by the final consumer and into which the seed is placed.
 
-#### 13. Sampling from a seed stream[^key-207a39bf469657b41f5377aa74f5595c]
+#### 13. Sampling from a seed stream[^c-207a39bf469657b41f5377aa74f5595c]
 
 Primary samples may be drawn from a seed stream during processing using an automatic sampling device, which shall uniformly sample the entire cross-section of the seed stream when a sample is taken. Primary samples of seed shall be taken at regular intervals throughout the processing of the seed lot using the same sampling intensity as specified in paragraph 11 of this Part of this Schedule.
 
-#### 14. Sampling instruments – general[^key-7489611f6c9885bd09bc769f2e5f5a9b]
+#### 14. Sampling instruments – general[^c-7489611f6c9885bd09bc769f2e5f5a9b]
 
 Sampling instruments shall be capable of sampling all parts of the seed lot.
 
-#### 15. Sampling instruments – instruments and methods[^key-41a456937769888d03b6882c2d617fa6]
+#### 15. Sampling instruments – instruments and methods[^c-41a456937769888d03b6882c2d617fa6]
 
 Subject to paragraph 16 of this Part of this Schedule, one of the instruments described in paragraph 17 of this Part of this Schedule shall be used, as appropriate to the location of the seed, to draw primary samples in accordance with the relevant methods described in paragraphs 18 and 19 of this Part of this Schedule.
 
-#### 16. Sampling instruments – power to allow other instruments and methods[^key-ebaac93d408b299ff72cb394e06f51e3]
+#### 16. Sampling instruments – power to allow other instruments and methods[^c-ebaac93d408b299ff72cb394e06f51e3]
 
 Where it is not practicable to use any of the instruments described in paragraph 17 of this Part of this Schedule in accordance with the relevant methods described in paragraphs 18 and 19 of this Part of this Schedule, another instrument or method may be used with the written approval of the Scottish Ministers.
 
-#### 17. Sampling instruments – instruments for drawing primary samples[^key-5756cea382dd6f40cf82d53e6eb1ebb0]
+#### 17. Sampling instruments – instruments for drawing primary samples[^c-5756cea382dd6f40cf82d53e6eb1ebb0]
 
 The instruments referred to in paragraph 15 of this Part of this Schedule, to be used for drawing primary samples are as follows–
 
@@ -175,11 +175,11 @@ The instruments referred to in paragraph 15 of this Part of this Schedule, to be
 
 - (d) Subject to paragraph 14 of this Part of this Schedule, a seed stream sampler may be used if it has been approved in writing by the Scottish Ministers and if it uniformly samples the cross section of the seed stream without any loss of the seed and any other particles which enter the seed stream sampler, in accordance with the method described in paragraph 19(d) of this Part of this Schedule. Timing devices shall be attached so that the frequency and duration of sampling can be adjusted to meet the requirements of paragraph 13 of this Part of this Schedule.
 
-#### 18. Methods of use of dynamic spear samplers, stick samplers, cargo samplers and seed stream samplers – general[^key-b82723cd9e4951e60262ccc83dcccd29]
+#### 18. Methods of use of dynamic spear samplers, stick samplers, cargo samplers and seed stream samplers – general[^c-b82723cd9e4951e60262ccc83dcccd29]
 
 All instruments shall be clean before use.
 
-#### 19. Methods of use of dynamic spear samplers, stick samplers, cargo samplers and seed stream samplers[^key-ce07b167c7824b2ff5dbc75ce33a3a88]
+#### 19. Methods of use of dynamic spear samplers, stick samplers, cargo samplers and seed stream samplers[^c-ce07b167c7824b2ff5dbc75ce33a3a88]
 
 The methods of using the instruments described in paragraph 17 shall be as follows–
 
@@ -240,7 +240,7 @@ The methods of using the instruments described in paragraph 17 shall be as follo
 
 - (d) In the case of a seed stream sampler, the instrument shall take the number of primary samples necessary for the weight of seed lot being sampled, the primary samples being taken from the seed lot at regular intervals and the resultant composite sample being of a weight not less than the minimum weight prescribed in paragraph 26 of Part II of this Schedule and not greater than can conveniently be reduced by means of one of the methods of sample reduction specified in paragraphs 21 and 22. They shall be installed in such a way that the composite sample can be readily identified with the seed lot from which it was taken.
 
-#### 20. Obtaining a submitted sample – composite sample division instruments[^key-b17700b714943527918c2b3ddd099ca7]
+#### 20. Obtaining a submitted sample – composite sample division instruments[^c-b17700b714943527918c2b3ddd099ca7]
 
 Where the composite sample exceeds the minimum weight prescribed for a sample in paragraph 26 of Part II of this Schedule, any of the following instruments may be used to reduce the weight of the sample–
 
@@ -261,7 +261,7 @@ Where the composite sample exceeds the minimum weight prescribed for a sample in
 
 - (c) other instruments and methods may be used with the written approval of the Scottish Ministers.
 
-#### 21. Method of use of riffle divider[^key-2e60187554f3b6a931a0e52f01e4a371]
+#### 21. Method of use of riffle divider[^c-2e60187554f3b6a931a0e52f01e4a371]
 
 The method of using a riffle divider shall be as follows–
 
@@ -294,7 +294,7 @@ The method of using a riffle divider shall be as follows–
 - (r) when two submitted samples are required from one composite sample, one composite sample of at least twice the minimum weight prescribed in paragraph 26 of Part II of this Schedule for a sample shall be obtained using the procedures specified in sub-paragraphs (c) to (g) and (h) to (q), as appropriate. The composite sample shall then be divided into two parts by passing it once through the riffle divider; and
 - (s) when three submitted samples are required from one composite sample, one composite sample of at least three times the minimum weight prescribed in paragraph 26 of Part II of this Schedule for a sample shall be obtained using the procedures specified in sub-paragraphs (c) to (g) and (h) to (q) as appropriate. A submitted sample shall then be extracted using the procedures specified in sub-paragraphs (c) to (g) and (h) to (q), as appropriate. All portions of seed which have been set aside shall then be recombined and two submitted samples shall be obtained from this residue of the composite sample by following the procedure specified in sub-paragraph (r).
 
-#### 22. Method of use of a centrifugal divider[^key-216714518114d144c73b07a57be09f67]
+#### 22. Method of use of a centrifugal divider[^c-216714518114d144c73b07a57be09f67]
 
 The method of using a centrifugal divider shall be as follows–
 
@@ -331,13 +331,13 @@ The method of using a centrifugal divider shall be as follows–
 
 ### PART II — MAXIMUM WEIGHT OF A SEED LOT AND MINIMUM WEIGHT OF A SUBMITTED SAMPLE
 
-#### 23. Maximum weight of a seed lot[^key-48891bc783cc6afa0cf16b0657859be6]
+#### 23. Maximum weight of a seed lot[^c-48891bc783cc6afa0cf16b0657859be6]
 
-Subject to paragraphs 23A,[^key-08735c5b5b7d8dfd3d0aa9401ff3bc81] 24 and 25, the maximum weight of a seed lot shall be that set out in column 2 of the table in paragraph 26 in relation to the corresponding entry in column 1 of the table.
+Subject to paragraphs 23A,[^c-08735c5b5b7d8dfd3d0aa9401ff3bc81] 24 and 25, the maximum weight of a seed lot shall be that set out in column 2 of the table in paragraph 26 in relation to the corresponding entry in column 1 of the table.
 
-#### 23A. Increase to maximum weight of a seed lot of grasses[^key-a05f9ec086c77201c8b338a35608e042]
+#### 23A. Increase to maximum weight of a seed lot of grasses[^c-a05f9ec086c77201c8b338a35608e042]
 
-(1)[^key-36bfc938da6bcf8ee1af3a14876e8f19] Any person licensed by the Scottish Ministers as a professional seed operator under regulation 4(1)(a) (determination of licences) of the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 or licensed or registered by a GB Authority, other than the Scottish Ministers, or the NI Authority[^key-7104c1fa988eb11e41ef7f462fbeb9d7] under provisions equivalent to that regulation, may apply to the Scottish Ministers for approval to increase to 25 tonnes the maximum weight of a seed lot of any of the grasses set out in column 1 of the table in paragraph 26.
+(1)[^c-36bfc938da6bcf8ee1af3a14876e8f19] Any person licensed by the Scottish Ministers as a professional seed operator under regulation 4(1)(a) (determination of licences) of the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 or licensed or registered by a GB Authority, other than the Scottish Ministers, or the NI Authority[^c-7104c1fa988eb11e41ef7f462fbeb9d7] under provisions equivalent to that regulation, may apply to the Scottish Ministers for approval to increase to 25 tonnes the maximum weight of a seed lot of any of the grasses set out in column 1 of the table in paragraph 26.
 
 (2) An application under sub-paragraph (1) shall contain such information as the Scottish Ministers may require.
 
@@ -347,19 +347,19 @@ Subject to paragraphs 23A,[^key-08735c5b5b7d8dfd3d0aa9401ff3bc81] 24 and 25, the
 
 (5) The Scottish Ministers may revoke an approval under sub-paragraph (4) where they are satisfied that there has been a breach of any condition to which the approval is subject.
 
-#### 24. Margin by which seed lots can exceed maximum weight[^key-8a251776d6972c8503a3bbd458f4ee0a]
+#### 24. Margin by which seed lots can exceed maximum weight[^c-8a251776d6972c8503a3bbd458f4ee0a]
 
 (1) Subject to sub-paragraph (2), a seed lot may exceed the maximum weight for a seed lot set out in column 2 of the table in paragraph 26 by not more than 5%.
 
 (2) Where a person referred to in paragraph 23A(1) has approval to increase the maximum weight of a seed lot of grasses to 25 tonnes, the weight of such a seed lot may exceed 25 tonnes by not more than 5%.
 
-#### 25. Maximum weight of a seed lot of mixtures[^key-80a59ec00f7cbfd350903e9eb3e06753]
+#### 25. Maximum weight of a seed lot of mixtures[^c-80a59ec00f7cbfd350903e9eb3e06753]
 
 (1) The maximum weight of a seed lot of a mixture of seeds shall be 10 tonnes, subject to sub paragraph (2).
 
 (2) Where more than 50% of a mixture of seeds consists of species of seed for which the maximum weight of a seed lot prescribed in seeds regulations is more than 10 tonnes, the maximum weight of a seed lot shall be as prescribed for the species of that type that appears in the larger or largest proportion.
 
-#### 26. Minimum weight of a sample[^key-51386cfc2515622af75b17d093b290c1]
+#### 26. Minimum weight of a sample[^c-51386cfc2515622af75b17d093b290c1]
 
 The minimum weight of a sample submitted for official examination shall be that specified in column 3 of the following table in relation to the corresponding entry in column 1 of the table–
 
@@ -419,70 +419,70 @@ The minimum weight of a sample submitted for official examination shall be that 
 </tbody>
 </table>
 
-[^key-c2ebcccc596b80449532ce8e1df8821e][^key-9f93e046233b389f4af8bbd1f1b0608d]
+[^c-c2ebcccc596b80449532ce8e1df8821e][^c-9f93e046233b389f4af8bbd1f1b0608d]
 
 ## Annotations
 
-[^key-8232ab83c9d1d5f7eacbc6584121e5ba]: Commencement: Sch. 5 para. 1 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-8232ab83c9d1d5f7eacbc6584121e5ba]: Commencement: Sch. 5 para. 1 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-62029adf1ae79cea202a75e93a44222a]: Commencement: Sch. 5 para. 2 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-62029adf1ae79cea202a75e93a44222a]: Commencement: Sch. 5 para. 2 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-1d91bdf2c40ee4d03f27d411ba97541f]: Commencement: Sch. 5 para. 3 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-1d91bdf2c40ee4d03f27d411ba97541f]: Commencement: Sch. 5 para. 3 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-de6a29cde5f50c4ceb488069482b8000]: Commencement: Sch. 5 para. 4 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-de6a29cde5f50c4ceb488069482b8000]: Commencement: Sch. 5 para. 4 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-c2362f3e95e5468bf7d3a2cb69b142f7]: Commencement: Sch. 5 para. 5 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-c2362f3e95e5468bf7d3a2cb69b142f7]: Commencement: Sch. 5 para. 5 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-ae4b93ad57ccfe27fc309dae202aa0aa]: Commencement: Sch. 5 para. 6 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-ae4b93ad57ccfe27fc309dae202aa0aa]: Commencement: Sch. 5 para. 6 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-a765ab908c9470a34a3fb8e540eda715]: Commencement: Sch. 5 para. 7 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-a765ab908c9470a34a3fb8e540eda715]: Commencement: Sch. 5 para. 7 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-833cb9b7033b1e3758c2c674a64efe1f]: Commencement: Sch. 5 para. 8 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-833cb9b7033b1e3758c2c674a64efe1f]: Commencement: Sch. 5 para. 8 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-e3fcdbf58fd61b1200e0bff0754311f0]: Commencement: Sch. 5 para. 9 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-e3fcdbf58fd61b1200e0bff0754311f0]: Commencement: Sch. 5 para. 9 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-27480c51f9f87ac92bc0ee923c151ec9]: Commencement: Sch. 5 para. 10 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-27480c51f9f87ac92bc0ee923c151ec9]: Commencement: Sch. 5 para. 10 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-3f1fb8e8bd9018a86deab0aed69f9ce0]: Commencement: Sch. 5 para. 11 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-3f1fb8e8bd9018a86deab0aed69f9ce0]: Commencement: Sch. 5 para. 11 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-00480f9af6e45fd3aca7a1c0f1beb4af]: Commencement: Sch. 5 para. 12 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-00480f9af6e45fd3aca7a1c0f1beb4af]: Commencement: Sch. 5 para. 12 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-207a39bf469657b41f5377aa74f5595c]: Commencement: Sch. 5 para. 13 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-207a39bf469657b41f5377aa74f5595c]: Commencement: Sch. 5 para. 13 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-7489611f6c9885bd09bc769f2e5f5a9b]: Commencement: Sch. 5 para. 14 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-7489611f6c9885bd09bc769f2e5f5a9b]: Commencement: Sch. 5 para. 14 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-41a456937769888d03b6882c2d617fa6]: Commencement: Sch. 5 para. 15 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-41a456937769888d03b6882c2d617fa6]: Commencement: Sch. 5 para. 15 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-ebaac93d408b299ff72cb394e06f51e3]: Commencement: Sch. 5 para. 16 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-ebaac93d408b299ff72cb394e06f51e3]: Commencement: Sch. 5 para. 16 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-5756cea382dd6f40cf82d53e6eb1ebb0]: Commencement: Sch. 5 para. 17 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-5756cea382dd6f40cf82d53e6eb1ebb0]: Commencement: Sch. 5 para. 17 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-b82723cd9e4951e60262ccc83dcccd29]: Commencement: Sch. 5 para. 18 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-b82723cd9e4951e60262ccc83dcccd29]: Commencement: Sch. 5 para. 18 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-ce07b167c7824b2ff5dbc75ce33a3a88]: Commencement: Sch. 5 para. 19 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-ce07b167c7824b2ff5dbc75ce33a3a88]: Commencement: Sch. 5 para. 19 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-b17700b714943527918c2b3ddd099ca7]: Commencement: Sch. 5 para. 20 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-b17700b714943527918c2b3ddd099ca7]: Commencement: Sch. 5 para. 20 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-2e60187554f3b6a931a0e52f01e4a371]: Commencement: Sch. 5 para. 21 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-2e60187554f3b6a931a0e52f01e4a371]: Commencement: Sch. 5 para. 21 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-216714518114d144c73b07a57be09f67]: Commencement: Sch. 5 para. 22 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-216714518114d144c73b07a57be09f67]: Commencement: Sch. 5 para. 22 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-48891bc783cc6afa0cf16b0657859be6]: Commencement: Sch. 5 para. 23 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-48891bc783cc6afa0cf16b0657859be6]: Commencement: Sch. 5 para. 23 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-08735c5b5b7d8dfd3d0aa9401ff3bc81]: Textual amendment: Word in [sch. 5 para. 23](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/23) inserted (16.12.2013) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2013 (S.S.I. 2013/326)](https://www.legislation.gov.uk/ssi/2013/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/326/regulation/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2013/326/regulation/5/a)
+[^c-08735c5b5b7d8dfd3d0aa9401ff3bc81]: Textual amendment: Word in [sch. 5 para. 23](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/23) inserted (16.12.2013) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2013 (S.S.I. 2013/326)](https://www.legislation.gov.uk/ssi/2013/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/326/regulation/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2013/326/regulation/5/a)
 
-[^key-a05f9ec086c77201c8b338a35608e042]: Textual amendment: [Sch. 5 para. 23A](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/23A) inserted (16.12.2013) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2013 (S.S.I. 2013/326)](https://www.legislation.gov.uk/ssi/2013/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/326/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2013/326/regulation/5/b)
+[^c-a05f9ec086c77201c8b338a35608e042]: Textual amendment: [Sch. 5 para. 23A](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/23A) inserted (16.12.2013) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2013 (S.S.I. 2013/326)](https://www.legislation.gov.uk/ssi/2013/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/326/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2013/326/regulation/5/b)
 
-[^key-36bfc938da6bcf8ee1af3a14876e8f19]: Textual amendment: [Sch. 5 para. 23A(1)](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/part/II/paragraph/23A/1) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 3(6)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/3/6)
+[^c-36bfc938da6bcf8ee1af3a14876e8f19]: Textual amendment: [Sch. 5 para. 23A(1)](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/part/II/paragraph/23A/1) substituted (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [sch. 3 para. 3(6)](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/3/6)
 
-[^key-7104c1fa988eb11e41ef7f462fbeb9d7]: Textual amendment: Words in [sch. 5 para. 23A(1)](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/23A/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 14(25A)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/25A) (as inserted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(23)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/23)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7104c1fa988eb11e41ef7f462fbeb9d7]: Textual amendment: Words in [sch. 5 para. 23A(1)](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/23A/1) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 14(25A)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/25A) (as inserted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(23)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/23)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8a251776d6972c8503a3bbd458f4ee0a]: Textual amendment: [Sch. 5 para. 24](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/24) substituted (16.12.2013) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2013 (S.S.I. 2013/326)](https://www.legislation.gov.uk/ssi/2013/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/326/regulation/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2013/326/regulation/5/c)
+[^c-8a251776d6972c8503a3bbd458f4ee0a]: Textual amendment: [Sch. 5 para. 24](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/24) substituted (16.12.2013) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2013 (S.S.I. 2013/326)](https://www.legislation.gov.uk/ssi/2013/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/326/regulation/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2013/326/regulation/5/c)
 
-[^key-80a59ec00f7cbfd350903e9eb3e06753]: Textual amendment: [Sch. 5 para. 25](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/25) substituted (26.9.2006) by [The Cereal Seed (Scotland) and Fodder Plant Seed (Scotland) Amendment Regulations 2006 (S.S.I. 2006/448)](https://www.legislation.gov.uk/ssi/2006/448), [regs. 1](https://www.legislation.gov.uk/ssi/2006/448/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2006/448/regulation/3/2)
+[^c-80a59ec00f7cbfd350903e9eb3e06753]: Textual amendment: [Sch. 5 para. 25](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/25) substituted (26.9.2006) by [The Cereal Seed (Scotland) and Fodder Plant Seed (Scotland) Amendment Regulations 2006 (S.S.I. 2006/448)](https://www.legislation.gov.uk/ssi/2006/448), [regs. 1](https://www.legislation.gov.uk/ssi/2006/448/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2006/448/regulation/3/2)
 
-[^key-51386cfc2515622af75b17d093b290c1]: Commencement: Sch. 5 para. 26 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-51386cfc2515622af75b17d093b290c1]: Commencement: Sch. 5 para. 26 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
 
-[^key-c2ebcccc596b80449532ce8e1df8821e]: Textual amendment: [Sch. 5 para. 26](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/26) Table entry substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2010/219/regulation/9)
+[^c-c2ebcccc596b80449532ce8e1df8821e]: Textual amendment: [Sch. 5 para. 26](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/26) Table entry substituted (30.6.2010) by [The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 (S.S.I. 2010/219)](https://www.legislation.gov.uk/ssi/2010/219), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/219/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2010/219/regulation/9)
 
-[^key-9f93e046233b389f4af8bbd1f1b0608d]: Textual amendment: Word in [sch. 5 para. 26](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/26) Table substituted (2.11.2009) by [The Fodder Plant Seed (Scotland) Amendment Regulations 2009 (S.S.I. 2009/330)](https://www.legislation.gov.uk/ssi/2009/330), [regs. 1](https://www.legislation.gov.uk/ssi/2009/330/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/330/regulation/2/2)
+[^c-9f93e046233b389f4af8bbd1f1b0608d]: Textual amendment: Word in [sch. 5 para. 26](https://www.legislation.gov.uk/ssi/2005/329/schedule/5/paragraph/26) Table substituted (2.11.2009) by [The Fodder Plant Seed (Scotland) Amendment Regulations 2009 (S.S.I. 2009/330)](https://www.legislation.gov.uk/ssi/2009/330), [regs. 1](https://www.legislation.gov.uk/ssi/2009/330/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/330/regulation/2/2)

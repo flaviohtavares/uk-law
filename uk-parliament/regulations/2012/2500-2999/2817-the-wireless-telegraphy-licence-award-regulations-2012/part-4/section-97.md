@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Submission of assignment stage bid form to OFCOM[^key-50176ed0069acb1119f8ade6d9188c1c]
+## 97. Submission of assignment stage bid form to OFCOM[^c-50176ed0069acb1119f8ade6d9188c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50176ed0069acb1119f8ade6d9188c1c]: Commencement: Reg. 97 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-50176ed0069acb1119f8ade6d9188c1c]: Commencement: Reg. 97 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

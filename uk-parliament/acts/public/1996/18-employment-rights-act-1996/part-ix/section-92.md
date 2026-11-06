@@ -28,7 +28,7 @@ summary: ''
 
 (2) Subject to subsections (4) and (4A)[^c16757531] , an employee is entitled to a written statement under this section only if he makes a request for one; and a statement shall be provided within fourteen days of such a request.
 
-(3) Subject to subsections (4) and (4A)[^c16761141] , an employee is not entitled to a written statement under this section unless on the effective date of termination he has been, or will have been, continuously employed for a period of not less than two years[^key-8c8d11b6b19312f9f1115e5db693c586] ending with that date.
+(3) Subject to subsections (4) and (4A)[^c16761141] , an employee is not entitled to a written statement under this section unless on the effective date of termination he has been, or will have been, continuously employed for a period of not less than two years[^c-8c8d11b6b19312f9f1115e5db693c586] ending with that date.
 
 (4) An employee is entitled to a written statement under this section without having to request it and irrespective of whether she has been continuously employed for any period if she is dismissed—
 
@@ -75,7 +75,7 @@ the later date is the effective date of termination.
 
 [^c16761141]: Textual amendment: Words in s. 92(3) substituted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 53](https://www.legislation.gov.uk/ukpga/2002/22/section/53), [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2002/22/schedule/7/paragraph/31); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)
 
-[^key-8c8d11b6b19312f9f1115e5db693c586]: Textual amendment: Words in s. 92(3) substituted (6.4.2012) by [The Unfair Dismissal and Statement of Reasons for Dismissal (Variation of Qualifying Period) Order 2012 (S.I. 2012/989)](https://www.legislation.gov.uk/uksi/2012/989), [arts. 1](https://www.legislation.gov.uk/uksi/2012/989/article/1), [2](https://www.legislation.gov.uk/uksi/2012/989/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/989/article/4))
+[^c-8c8d11b6b19312f9f1115e5db693c586]: Textual amendment: Words in s. 92(3) substituted (6.4.2012) by [The Unfair Dismissal and Statement of Reasons for Dismissal (Variation of Qualifying Period) Order 2012 (S.I. 2012/989)](https://www.legislation.gov.uk/uksi/2012/989), [arts. 1](https://www.legislation.gov.uk/uksi/2012/989/article/1), [2](https://www.legislation.gov.uk/uksi/2012/989/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/989/article/4))
 
 [^c16328961]: Textual amendment: Words in s. 92(4)(b) substituted (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 9](https://www.legislation.gov.uk/ukpga/1999/26/section/9), [Sch. 4 Pt. III para. 12](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/III/paragraph/12); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/II) (with [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10), [11](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/11))
 

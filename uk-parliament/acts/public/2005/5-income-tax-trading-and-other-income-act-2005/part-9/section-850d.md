@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 850D. Excess profit allocation: cases involving individuals who are not partners[^key-9c7ff51333a0fb38b7d7849897220877][^M_C_8b11b8f6-4d5b-427f-df89-7260aa73dfd1]
+## 850D. Excess profit allocation: cases involving individuals who are not partners[^c-9c7ff51333a0fb38b7d7849897220877][^M_C_8b11b8f6-4d5b-427f-df89-7260aa73dfd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,6 +73,6 @@ But A's share of the firm's profit by virtue of paragraph (b)(ii) is not to exce
 
 ## Annotations
 
-[^key-9c7ff51333a0fb38b7d7849897220877]: Textual amendment: Ss. 850C-850E inserted (retrospective for specified purposes and 6.4.2014 in so far as not already in force and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/7/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11)
+[^c-9c7ff51333a0fb38b7d7849897220877]: Textual amendment: Ss. 850C-850E inserted (retrospective for specified purposes and 6.4.2014 in so far as not already in force and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/7/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11)
 
 [^M_C_8b11b8f6-4d5b-427f-df89-7260aa73dfd1]: Modification: S. 850D(4) applied by 2009 c. 4, s. 1264A(1) (as inserted) (5.12.2013) (retrospective for specified purposes and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/10/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11)

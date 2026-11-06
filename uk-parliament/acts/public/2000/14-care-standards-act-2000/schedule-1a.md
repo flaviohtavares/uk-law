@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1A — Monetary penalties under Part 2[^key-bd1db6034c8d92bbc40a6331450a61ec]
+## Schedule 1A — Monetary penalties under Part 2[^c-bd1db6034c8d92bbc40a6331450a61ec]
 
 *Extent: E+W*
 
@@ -125,4 +125,4 @@ Section 30ZN
 
 ## Annotations
 
-[^key-bd1db6034c8d92bbc40a6331450a61ec]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/2000/14/schedule/1A) inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/19/3), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/g)
+[^c-bd1db6034c8d92bbc40a6331450a61ec]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/2000/14/schedule/1A) inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/19/3), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/g)

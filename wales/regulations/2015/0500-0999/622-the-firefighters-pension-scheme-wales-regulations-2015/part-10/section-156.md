@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156. Request to confirm details on certificate[^key-6e7d9cb9b3f4e97bba631732b3a8abc1]
+## 156. Request to confirm details on certificate[^c-6e7d9cb9b3f4e97bba631732b3a8abc1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a member has been provided with a certificate under regulation 155 (requir
 
 ## Annotations
 
-[^key-6e7d9cb9b3f4e97bba631732b3a8abc1]: Commencement: Reg. 156 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-6e7d9cb9b3f4e97bba631732b3a8abc1]: Commencement: Reg. 156 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Interpretation[^key-54a9595b064af2a33928712fea0f5993]
+## 130. Interpretation[^c-54a9595b064af2a33928712fea0f5993]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In regulation 2(1) (interpretation)[^f00123] for the definition of a “society 
 
 ## Annotations
 
-[^key-54a9595b064af2a33928712fea0f5993]: Commencement: Art. 130 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-54a9595b064af2a33928712fea0f5993]: Commencement: Art. 130 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00123]: Footnote: Regulation 2 was relevantly amended by regulation 3(1) of S.I. [1995/1929](https://www.legislation.gov.uk/uksi/1995/1929) and regulation 8(c) of S.I. [1995/3239](https://www.legislation.gov.uk/uksi/1995/3239).

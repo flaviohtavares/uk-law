@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Notification of offences[^key-9bd8ff154c95679a7a5a2ed2064aeaf4]
+## 9. Notification of offences[^c-9bd8ff154c95679a7a5a2ed2064aeaf4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where the registered person or the responsible individual is convicted of a crim
 
 ## Annotations
 
-[^key-9bd8ff154c95679a7a5a2ed2064aeaf4]: Commencement: Reg. 9 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-9bd8ff154c95679a7a5a2ed2064aeaf4]: Commencement: Reg. 9 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

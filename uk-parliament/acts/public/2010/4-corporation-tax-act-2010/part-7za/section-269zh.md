@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269ZH. “Insolvency procedures”[^key-df4edca86bcded2474d7f6ddaaeaa41e]
+## 269ZH. “Insolvency procedures”[^c-df4edca86bcded2474d7f6ddaaeaa41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,11 +44,11 @@ summary: ''
 
 (5) In this section “**relevant scheme**” means a compromise or arrangement—
 
-- (a) under section 425 of the Companies Act 1985, Article 418 of the Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6)) or Part 26 or 26A[^key-a57f494ac99dda75cf68b6b4605d5c24] of the Companies Act 2006, or
+- (a) under section 425 of the Companies Act 1985, Article 418 of the Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6)) or Part 26 or 26A[^c-a57f494ac99dda75cf68b6b4605d5c24] of the Companies Act 2006, or
 - (b) under any corresponding provision of the law of a country or territory outside the United Kingdom.
 
 ## Annotations
 
-[^key-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
+[^c-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
 
-[^key-a57f494ac99dda75cf68b6b4605d5c24]: Textual amendment: Words in s. 269ZH(5)(a) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 43(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/43/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-a57f494ac99dda75cf68b6b4605d5c24]: Textual amendment: Words in s. 269ZH(5)(a) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 43(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/43/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

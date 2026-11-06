@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Form of application[^key-51230c16e9f5b5d075889a98f3ffb806][^key-4547bad9a490b65965c05f4f2697a256]
+## 5. Form of application[^c-51230c16e9f5b5d075889a98f3ffb806][^c-4547bad9a490b65965c05f4f2697a256]
 
 *Extent: S*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-51230c16e9f5b5d075889a98f3ffb806]: Commencement: Rule 5 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-51230c16e9f5b5d075889a98f3ffb806]: Commencement: Rule 5 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-4547bad9a490b65965c05f4f2697a256]: Textual amendment: Word in [rule 5](https://www.legislation.gov.uk/uksi/2016/900/rule/5) heading substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/3)
+[^c-4547bad9a490b65965c05f4f2697a256]: Textual amendment: Word in [rule 5](https://www.legislation.gov.uk/uksi/2016/900/rule/5) heading substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/3)
 
 [^f00007]: Footnote: Section 124A was inserted by the Companies Act [1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40), section 60(3). It was amended by the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27), Schedule 2, paragraph 27 and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), Article 305.

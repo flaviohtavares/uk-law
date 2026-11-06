@@ -39,7 +39,7 @@ An Act to grant certain duties of Customs and Inland Revenue (including Excise),
 
 ### 3, 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c609886]
 
-### 5. Repeal of male servant duty, and effect thereof on game licence duty.[^key-60604a922adb4467f67d5e70f9a16e24][^key-399cd3c5357a2a348cb70306d6a79712]
+### 5. Repeal of male servant duty, and effect thereof on game licence duty.[^c-60604a922adb4467f67d5e70f9a16e24][^c-399cd3c5357a2a348cb70306d6a79712]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -62,9 +62,9 @@ An Act to grant certain duties of Customs and Inland Revenue (including Excise),
 - (a) for the re-transfer of any stock the nominal value whereof exceeds twenty pounds; or
 - (b) for the payment of any dividends or other moneys amounting in all to more than twenty pounds;
 
-the direction may, if the Registrar of Government Stock[^key-5050eea73089def77900ede16eceb7cf] thinks fit, be witheld until three months after public notice of the application has been given by advertisement in such manner and containing such particulars as he may direct.
+the direction may, if the Registrar of Government Stock[^c-5050eea73089def77900ede16eceb7cf] thinks fit, be witheld until three months after public notice of the application has been given by advertisement in such manner and containing such particulars as he may direct.
 
-(2)[^key-537c68832402b223dbee2244fb4a88fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-537c68832402b223dbee2244fb4a88fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c609902]
 
@@ -96,7 +96,7 @@ the direction may, if the Registrar of Government Stock[^key-5050eea73089def7790
 
 ## FIRST SCHEDULE — . . .[^c609911]
 
-## SECOND SCHEDULE — Amendment of Game Licences Act, 1860. (23 & 24 VICT. C. 90)[^key-79e01b0b157e0c3bda69dda67d65c3e1]
+## SECOND SCHEDULE — Amendment of Game Licences Act, 1860. (23 & 24 VICT. C. 90)[^c-79e01b0b157e0c3bda69dda67d65c3e1]
 
 **No longer in force.**
 
@@ -122,9 +122,9 @@ the direction may, if the Registrar of Government Stock[^key-5050eea73089def7790
 
 [^c609886]: Textual amendment: [Ss. 3](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/54/section/3), [4](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/54/section/4) repealed by [Import Duties Act 1958 (c. 6)](https://www.legislation.gov.uk/ukpga/1958/6), [s. 16(4)](https://www.legislation.gov.uk/ukpga/1958/6/section/16/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1958/6/schedule/7)
 
-[^key-60604a922adb4467f67d5e70f9a16e24]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/54/section/5) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
+[^c-60604a922adb4467f67d5e70f9a16e24]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/54/section/5) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
 
-[^key-399cd3c5357a2a348cb70306d6a79712]: Textual amendment: S. 5 repealed (E.W.) (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(h)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/h)
+[^c-399cd3c5357a2a348cb70306d6a79712]: Textual amendment: S. 5 repealed (E.W.) (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(h)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/h)
 
 [^c609891]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/Edw8and1Geo6/1/54/section/6) repealed by [Customs and Excise Act 1952 (c. 44)](https://www.legislation.gov.uk/ukpga/1952/44), [s. 320](https://www.legislation.gov.uk/ukpga/1952/44/section/320), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/1952/44/schedule/12/part/I)
 
@@ -140,9 +140,9 @@ the direction may, if the Registrar of Government Stock[^key-5050eea73089def7790
 
 [^c609900]: Marginal citation: 10 & 11 Geo. 5. c. 32.
 
-[^key-5050eea73089def77900ede16eceb7cf]: Textual amendment: Words in s. 28(1) substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/11/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-5050eea73089def77900ede16eceb7cf]: Textual amendment: Words in s. 28(1) substituted (1.7.2004) by [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/11/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-537c68832402b223dbee2244fb4a88fc]: Textual amendment: S. 28(2) omitted (1.7.2004) by virtue of [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/11/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-537c68832402b223dbee2244fb4a88fc]: Textual amendment: S. 28(2) omitted (1.7.2004) by virtue of [Government Stock (Consequential and Transitional Provision) (No.2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/11/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c609902]: Textual amendment: S. 28(3) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 
@@ -164,7 +164,7 @@ the direction may, if the Registrar of Government Stock[^key-5050eea73089def7790
 
 [^c609911]: Textual amendment: Sch. 1 repealed by [Import Duties Act 1958 (c. 6)](https://www.legislation.gov.uk/ukpga/1958/6), [s. 16(4)](https://www.legislation.gov.uk/ukpga/1958/6/section/16/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1958/6/schedule/7)
 
-[^key-79e01b0b157e0c3bda69dda67d65c3e1]: Textual amendment: Sch. 2 repealed (1.8.2007 for E.W. and 29.6.2011 for S.) by Regulatory Reform (Game) Order 2007 (S.I. 2007/2007), art. 1(1), Sch. para. 1(h);[Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
+[^c-79e01b0b157e0c3bda69dda67d65c3e1]: Textual amendment: Sch. 2 repealed (1.8.2007 for E.W. and 29.6.2011 for S.) by Regulatory Reform (Game) Order 2007 (S.I. 2007/2007), art. 1(1), Sch. para. 1(h);[Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
 
 [^c609913]: Textual amendment: Sch. 3 repealed (with savings) by [Income Tax Act 1952 (c. 10)](https://www.legislation.gov.uk/ukpga/1952/10), [s. 527](https://www.legislation.gov.uk/ukpga/1952/10/section/527), [Sch. 25](https://www.legislation.gov.uk/ukpga/1952/10/schedule/25)
 

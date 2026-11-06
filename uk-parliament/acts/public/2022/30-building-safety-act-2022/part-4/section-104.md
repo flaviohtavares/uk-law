@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Appeals against decisions of the regulator made under this Part[^key-d087b25504078c4dd788ac0dcb5c2c51][^key-8e5ffbccd38bbf1b897d35fd34740f5f]
+## 104. Appeals against decisions of the regulator made under this Part[^c-d087b25504078c4dd788ac0dcb5c2c51][^c-8e5ffbccd38bbf1b897d35fd34740f5f]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d087b25504078c4dd788ac0dcb5c2c51]: Commencement: S. 104 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-d087b25504078c4dd788ac0dcb5c2c51]: Commencement: S. 104 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-8e5ffbccd38bbf1b897d35fd34740f5f]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2022/30/section/104) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/v)
+[^c-8e5ffbccd38bbf1b897d35fd34740f5f]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2022/30/section/104) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/v)

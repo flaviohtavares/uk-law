@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. When sequestration is awarded[^key-34f010d0eeb2545045251245001d8d36]
+## 22. When sequestration is awarded[^c-34f010d0eeb2545045251245001d8d36]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) that the application is made in accordance with—
   - (i) this Act, and
   - (ii) any provisions made under this Act,
-- (b) that section 2(2) or (8)[^key-fa6b845501e643ee6db09b9ab31ddc2d] applies to the debtor, and
+- (b) that section 2(2) or (8)[^c-fa6b845501e643ee6db09b9ab31ddc2d] applies to the debtor, and
 - (c) that the provisions of section 8(3)(a) have been complied with.
 
 (2) Where a debtor application is made under section 5(a), AiB must award sequestration forthwith if satisfied—
@@ -66,6 +66,6 @@ days after the date of citation.
 
 ## Annotations
 
-[^key-34f010d0eeb2545045251245001d8d36]: Commencement: S. 22 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-34f010d0eeb2545045251245001d8d36]: Commencement: S. 22 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-fa6b845501e643ee6db09b9ab31ddc2d]: Textual amendment: Words in s. 22(1)(b) substituted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 6(2)](https://www.legislation.gov.uk/asp/2024/9/section/6/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))
+[^c-fa6b845501e643ee6db09b9ab31ddc2d]: Textual amendment: Words in s. 22(1)(b) substituted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 6(2)](https://www.legislation.gov.uk/asp/2024/9/section/6/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Remote attendance at meetings[^key-cab3a47198f2972b9496a7cf0d001ec2]
+## 4. Remote attendance at meetings[^c-cab3a47198f2972b9496a7cf0d001ec2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cab3a47198f2972b9496a7cf0d001ec2]: Textual amendment: S. 4 omitted (1.5.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 23(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/23/2); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c)
+[^c-cab3a47198f2972b9496a7cf0d001ec2]: Textual amendment: S. 4 omitted (1.5.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 23(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/23/2); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c)

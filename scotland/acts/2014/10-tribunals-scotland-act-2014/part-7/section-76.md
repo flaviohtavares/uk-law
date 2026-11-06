@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Tribunal fees[^key-3dcc10509c424ae2b8aa1c3fa67574b0]
+## 76. Tribunal fees[^c-3dcc10509c424ae2b8aa1c3fa67574b0]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dcc10509c424ae2b8aa1c3fa67574b0]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2014/10/section/76) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-3dcc10509c424ae2b8aa1c3fa67574b0]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2014/10/section/76) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

@@ -46,7 +46,7 @@ Coming into force in accordance with regulation 1(2)
 
 [^c1661832] Whereas a draft of this Instrument was laid before Parliament in accordance with section 80(1) of the Social Security Act 1998 and approved by resolution of each House of Parliament;
 
-Now, therefore, the Secretary of State for Social Security, in exercise of powers set out in Schedule 1 to this Instrument and of all other powers enabling him in that behalf, with the concurrence of the Lord Chancellor in so far as the Regulations are made under section 6(3) of the Social Security Act 1998, by this Instrument, which contains only regulations made by virtue of, or consequential upon, those provisions of the Social Security Act 1998 and which is made before the end of the period of six months beginning with the coming into force of those provisions[^c1661833], after consultation with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^c1661834], hereby makes the following Regulations:[^key-19033fa40b7c5d3977b3768cdc4ad879][^key-365c0a8b05be92dcbc1f59d895be0b01][^key-a9f51be145c25c366e461d1364460ca4]
+Now, therefore, the Secretary of State for Social Security, in exercise of powers set out in Schedule 1 to this Instrument and of all other powers enabling him in that behalf, with the concurrence of the Lord Chancellor in so far as the Regulations are made under section 6(3) of the Social Security Act 1998, by this Instrument, which contains only regulations made by virtue of, or consequential upon, those provisions of the Social Security Act 1998 and which is made before the end of the period of six months beginning with the coming into force of those provisions[^c1661833], after consultation with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^c1661834], hereby makes the following Regulations:[^c-19033fa40b7c5d3977b3768cdc4ad879][^c-365c0a8b05be92dcbc1f59d895be0b01][^c-a9f51be145c25c366e461d1364460ca4]
 
 ## Contents
 
@@ -57,7 +57,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of power
 - [Section 1 — Citation, commencement, application and interpretation](part-i/section-1.md)
 - [Section 2 — Service of notices or documents](part-i/section-2.md)
 
-### PART II — REVISIONS, SUPERSESSIONS AND OTHER MATTERS SOCIAL SECURITY AND CHILD SUPPORT[^key-64e34167657952fe06b9851be7d3b14d][^key-8392c5df55e8950f02b072e263ce5338]
+### PART II — REVISIONS, SUPERSESSIONS AND OTHER MATTERS SOCIAL SECURITY AND CHILD SUPPORT[^c-64e34167657952fe06b9851be7d3b14d][^c-8392c5df55e8950f02b072e263ce5338]
 
 *Extent: E+W+S*
 
@@ -110,7 +110,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of power
 - [Section 15C — Notification of a decision made under section 16 or 17 of the Child Support Act](part-ii/section-15c.md)
 - [Section 15D — Procedure in relation to the adjustment of the amount payable under a maintenance calculation](part-ii/section-15d.md)
 
-### PART III — SUSPENSION, TERMINATION AND OTHER MATTERS[^key-64e34167657952fe06b9851be7d3b14d]
+### PART III — SUSPENSION, TERMINATION AND OTHER MATTERS[^c-64e34167657952fe06b9851be7d3b14d]
 
 *Extent: E+W+S*
 
@@ -131,7 +131,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of power
 - [Section 23 — Child support decisions involving issues that arise on appeal in other cases](part-iii/section-23.md)
 - [Section 24 — Child support appeals involving issues that arise in other cases](part-iii/section-24.md)
 
-### PART IV — RIGHTS OF APPEAL AND PROCEDURE FOR BRINGING APPEALS[^key-64e34167657952fe06b9851be7d3b14d]
+### PART IV — RIGHTS OF APPEAL AND PROCEDURE FOR BRINGING APPEALS[^c-64e34167657952fe06b9851be7d3b14d]
 
 *Extent: E+W+S*
 
@@ -270,14 +270,14 @@ These Regulations do not impose a charge on business.
 
 [^c1661834]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53) .
 
-[^key-19033fa40b7c5d3977b3768cdc4ad879]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1999/991) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-19033fa40b7c5d3977b3768cdc4ad879]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1999/991) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii)[(3)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
-[^key-365c0a8b05be92dcbc1f59d895be0b01]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1999/991) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/6/1), [(2)(e)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/6/2/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1907/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-365c0a8b05be92dcbc1f59d895be0b01]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1999/991) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/6/1), [(2)(e)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/6/2/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1907/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
-[^key-a9f51be145c25c366e461d1364460ca4]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1999/991) modified (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [reg. 6](https://www.legislation.gov.uk/uksi/2015/338/regulation/6)
+[^c-a9f51be145c25c366e461d1364460ca4]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1999/991) modified (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [reg. 6](https://www.legislation.gov.uk/uksi/2015/338/regulation/6)
 
-[^key-64e34167657952fe06b9851be7d3b14d]: Textual amendment: Pts. II III IV revoked (7.4.2003 for specified purposes and with effect in accordance with reg. 1(2)) by [The Child Benefit and Guardian s Allowance (Decisions and Appeals) Regulations 2003 (S.I. 2003/916)](https://www.legislation.gov.uk/uksi/2003/916) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/916/regulation/1/1) , [34(a)](https://www.legislation.gov.uk/uksi/2003/916/regulation/34/a) (with [reg. 35](https://www.legislation.gov.uk/uksi/2003/916/regulation/35) )
+[^c-64e34167657952fe06b9851be7d3b14d]: Textual amendment: Pts. II III IV revoked (7.4.2003 for specified purposes and with effect in accordance with reg. 1(2)) by [The Child Benefit and Guardian s Allowance (Decisions and Appeals) Regulations 2003 (S.I. 2003/916)](https://www.legislation.gov.uk/uksi/2003/916) , [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/916/regulation/1/1) , [34(a)](https://www.legislation.gov.uk/uksi/2003/916/regulation/34/a) (with [reg. 35](https://www.legislation.gov.uk/uksi/2003/916/regulation/35) )
 
-[^key-8392c5df55e8950f02b072e263ce5338]: Textual amendment: Words in Pt. II added (3.3.2003 for specified purposes and ) by [The Child Support (Decisions and Appeals) (Amendment) Regulations 2000 (S.I. 2000/3185)](https://www.legislation.gov.uk/uksi/2000/3185) , [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/1/1) [(2)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/1/2) [4](https://www.legislation.gov.uk/uksi/2000/3185/regulation/4) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/14/3) ) (see S.I. 2003/192, art. 3, Sch.)
+[^c-8392c5df55e8950f02b072e263ce5338]: Textual amendment: Words in Pt. II added (3.3.2003 for specified purposes and ) by [The Child Support (Decisions and Appeals) (Amendment) Regulations 2000 (S.I. 2000/3185)](https://www.legislation.gov.uk/uksi/2000/3185) , [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/1/1) [(2)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/1/2) [4](https://www.legislation.gov.uk/uksi/2000/3185/regulation/4) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2000/3185/regulation/14/3) ) (see S.I. 2003/192, art. 3, Sch.)
 
 [^M_C_7440bae8-5b69-4f1b-aeeb-55f9a2be7630]: Modification: Pt. 3 Ch. 1 applied (5.10.1999) by [The Social Security Act 1998 (Commencement No. 10 and Transitional Provisions) Order 1999 (S.I. 1999/2739)](https://www.legislation.gov.uk/uksi/1999/2739), [art. 3](https://www.legislation.gov.uk/uksi/1999/2739/article/3), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/1999/2739/schedule/2/paragraph/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1068A. Registrar’s rules requiring documents to be delivered together[^key-a50c2b72515242f1e17fdf9d8dab1ab2]
+## 1068A. Registrar’s rules requiring documents to be delivered together[^c-a50c2b72515242f1e17fdf9d8dab1ab2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a50c2b72515242f1e17fdf9d8dab1ab2]: Textual amendment: [S. 1068A](https://www.legislation.gov.uk/ukpga/2006/46/section/1068A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/78/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z20)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z20)
+[^c-a50c2b72515242f1e17fdf9d8dab1ab2]: Textual amendment: [S. 1068A](https://www.legislation.gov.uk/ukpga/2006/46/section/1068A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/78/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z20)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z20)

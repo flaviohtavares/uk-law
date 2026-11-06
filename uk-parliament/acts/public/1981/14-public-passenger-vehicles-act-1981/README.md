@@ -31,7 +31,7 @@ Public Passenger Vehicles Act 1981
 
 An Act to consolidate certain enactments relating to public passenger vehicles.
 
-\[15th April 1981\][^c2514671][^c2514681][^c2514691][^c2514701][^c2514711][^c2514721][^c2514731][^c2514741][^key-4bc4bd793f92f952a28842b031b40e51][^key-e7a70addfede007ba57dd0650e1c559c][^key-7689ca4171df86768513678e48de00a7][^key-7f32989bc1b5ca3a72b33dc70d7dbbd3][^key-01e0d729f11005e7de632f4d300ca78e]
+\[15th April 1981\][^c2514671][^c2514681][^c2514691][^c2514701][^c2514711][^c2514721][^c2514731][^c2514741][^c-4bc4bd793f92f952a28842b031b40e51][^c-e7a70addfede007ba57dd0650e1c559c][^c-7689ca4171df86768513678e48de00a7][^c-7f32989bc1b5ca3a72b33dc70d7dbbd3][^c-01e0d729f11005e7de632f4d300ca78e]
 
 ## Contents
 
@@ -109,7 +109,7 @@ An Act to consolidate certain enactments relating to public passenger vehicles.
 - [Section 28 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-28.md)
 - [Section 29 — Avoidance of contracts so far as restrictive of liability in respect of death of or injury to passengers in public service vehicles.](part-ii/section-29.md)
 
-### Part 2A — Safeguarding duty: drivers of school services[^key-78da5d9ad6f5a46a696d9f0545fe8766]
+### Part 2A — Safeguarding duty: drivers of school services[^c-78da5d9ad6f5a46a696d9f0545fe8766]
 
 *Extent: E+W*
 
@@ -242,18 +242,18 @@ SCHEDULES
 
     Act: modified (28.1.2000) by [S.I. 1999/3413](https://www.legislation.gov.uk/uksi/1999/3413), [reg. 10(2)](https://www.legislation.gov.uk/uksi/1999/3413/regulation/10/2)
 
-[^key-4bc4bd793f92f952a28842b031b40e51]: Modification: Act modified (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
+[^c-4bc4bd793f92f952a28842b031b40e51]: Modification: Act modified (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
 
-[^key-e7a70addfede007ba57dd0650e1c559c]: Modification: Act: transfer of functions (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1885/article/2/3)
+[^c-e7a70addfede007ba57dd0650e1c559c]: Modification: Act: transfer of functions (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1885/article/2/3)
 
-[^key-7689ca4171df86768513678e48de00a7]: Modification: Act modified (4.12.2011) by [The Public Service Vehicles (Community Licences) Regulations 2011 (S.I. 2011/2634)](https://www.legislation.gov.uk/uksi/2011/2634), [reg. 18](https://www.legislation.gov.uk/uksi/2011/2634/regulation/18)
+[^c-7689ca4171df86768513678e48de00a7]: Modification: Act modified (4.12.2011) by [The Public Service Vehicles (Community Licences) Regulations 2011 (S.I. 2011/2634)](https://www.legislation.gov.uk/uksi/2011/2634), [reg. 18](https://www.legislation.gov.uk/uksi/2011/2634/regulation/18)
 
-[^key-7f32989bc1b5ca3a72b33dc70d7dbbd3]: Modification: Act modified by S.I. 1981/1628, reg. 5(2) (as amended (5.10.2017) by [The Operation of Public Service Vehicles (Partnership) (Amendment) Regulations 2017 (S.I. 2017/873)](https://www.legislation.gov.uk/uksi/2017/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/873/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/873/regulation/5/a))
+[^c-7f32989bc1b5ca3a72b33dc70d7dbbd3]: Modification: Act modified by S.I. 1981/1628, reg. 5(2) (as amended (5.10.2017) by [The Operation of Public Service Vehicles (Partnership) (Amendment) Regulations 2017 (S.I. 2017/873)](https://www.legislation.gov.uk/uksi/2017/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/873/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/873/regulation/5/a))
 
-[^key-01e0d729f11005e7de632f4d300ca78e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/14) modified (1.2.2019) by [The Road Transport (International Passenger Services) Regulations 2018 (S.I. 2018/1395)](https://www.legislation.gov.uk/uksi/2018/1395), [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/2/a)
+[^c-01e0d729f11005e7de632f4d300ca78e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1981/14) modified (1.2.2019) by [The Road Transport (International Passenger Services) Regulations 2018 (S.I. 2018/1395)](https://www.legislation.gov.uk/uksi/2018/1395), [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/5/2/a)
 
 [^c2514761]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1981/14/part/I) (ss. 1–5) amended by [Road Traffic Act 1988 (c. 52, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/52), [s. 187(3)](https://www.legislation.gov.uk/ukpga/1988/52/section/187/3)
 
 [^c2515001]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1981/14/part/II) (ss. 6–29) amended by [Road Traffic Act 1988 (c. 52, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/52), [s. 187(3)](https://www.legislation.gov.uk/ukpga/1988/52/section/187/3)
 
-[^key-78da5d9ad6f5a46a696d9f0545fe8766]: Textual amendment: Pt. 2A inserted (E.W) (27.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 33](https://www.legislation.gov.uk/ukpga/2025/24/section/33), [41(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/3)
+[^c-78da5d9ad6f5a46a696d9f0545fe8766]: Textual amendment: Pt. 2A inserted (E.W) (27.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 33](https://www.legislation.gov.uk/ukpga/2025/24/section/33), [41(3)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/3)

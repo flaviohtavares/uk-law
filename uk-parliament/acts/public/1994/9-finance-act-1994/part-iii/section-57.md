@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Tax representatives.[^key-861bcda4ac501535d3ff866be5633dae]
+## 57. Tax representatives.[^c-861bcda4ac501535d3ff866be5633dae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-861bcda4ac501535d3ff866be5633dae]: Textual amendment: S. 57 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/a)
+[^c-861bcda4ac501535d3ff866be5633dae]: Textual amendment: S. 57 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/a)

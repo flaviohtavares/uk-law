@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amendment of the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012[^key-cdd0000688baef462c7db182bdb19892]
+## 55. Amendment of the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012[^c-cdd0000688baef462c7db182bdb19892]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cdd0000688baef462c7db182bdb19892]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2023/1071/regulation/55) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-cdd0000688baef462c7db182bdb19892]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2023/1071/regulation/55) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00044]: Footnote: [S.I. 2012/2886](https://www.legislation.gov.uk/uksi/2012/2886), amended by [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634); there are other amending instruments but none is relevant.

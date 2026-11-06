@@ -49,31 +49,31 @@ The Welsh Ministers make the following Order in exercise of powers conferred by 
 
 ## PART 1 — General
 
-### 1. Title, commencement and application[^key-0332239262819259339df4565a989c0f]
+### 1. Title, commencement and application[^c-0332239262819259339df4565a989c0f]
 
 The title of this Order is the Tuberculosis (Wales) Order 2011; it applies in relation to Wales and comes into force on 31 March 2011.
 
-### 2. Interpretation[^key-542342e66ea9c7d04bfeb905b8819b42]
+### 2. Interpretation[^c-542342e66ea9c7d04bfeb905b8819b42]
 
 In this Order—
 
 - “the Act” (“*y Ddeddf*”) means the Animal Health Act 1981;
 - “affected animal” (“*anifail yr effeithiwyd arno*”) means a non-bovine animal which is affected with tuberculous emaciation, or is excreting or discharging tuberculous material, or is affected with a chronic cough, or shows any other clinical signs of tuberculosis;
 - “approved disinfectant” (“*diheintydd cymeradwy*”) means a disinfectant that is approved for use against tuberculosis in accordance with the Diseases of Animals (Approved Disinfectants) (Wales) Order 2007[^f00002];
-- “approved veterinary surgeon” (“[^key-7daef22e64ff9e92b9b7393fa2388202]*milfeddyg cymeradwy*”) means a veterinary surgeon who is approved in accordance with article 2A;
+- “approved veterinary surgeon” (“[^c-7daef22e64ff9e92b9b7393fa2388202]*milfeddyg cymeradwy*”) means a veterinary surgeon who is approved in accordance with article 2A;
 - “keeper” (“*ceidwad*”) means any person who owns or is responsible for a non-bovine animal whether on a permanent or temporary basis, but it does not include a person responsible for a non-bovine animal solely because the person is transporting it;
 - “non-bovine animal” (“*anifail nad yw'n anifail buchol*”) means a deer, goat, alpaca, guanaco, llama or vicuna;
 - “premises” (“*mangre*”) includes—
   - (a) land or buildings; and
   - (b) any other place including, in particular, a vehicle, a vessel, an aircraft, or a tent or other moveable structure;
-- “relevant test” (“[^key-9299518322dcae811bb7a3aaa71061b5]*prawf perthnasol*”) means—
+- “relevant test” (“[^c-9299518322dcae811bb7a3aaa71061b5]*prawf perthnasol*”) means—
   - (a) a skin test; or
   - (b) any other diagnostic test for tuberculosis approved by the Welsh Ministers;
 - “suspected animal” (“*anifail dan amheuaeth*”) means a non-bovine animal which is suspected of being affected with tuberculosis and includes a non-bovine animal that has been in close contact with such a non-bovine animal;
 - “tuberculosis” (“*twbercwlosis*”) means infection with *Mycobacterium bovis (M.bovis)*; and
 - “veterinary improvement notice” (“*hysbysiad gwella milfeddygol*”) means a notice served under article 8 (veterinary improvement notice).
 
-### 2A. Approval of veterinary surgeons[^key-9a785ea14e0dc056d52cd2bffbfda2cb]
+### 2A. Approval of veterinary surgeons[^c-9a785ea14e0dc056d52cd2bffbfda2cb]
 
 (1) The Welsh Ministers may approve a veterinary surgeon where—
 
@@ -82,7 +82,7 @@ In this Order—
 
 (2) The Welsh Ministers may by notice revoke any such approval, giving reasons for the revocation.
 
-### 3. Revocations and amendments[^key-804534b6dc23325d8f0600d5005b955f]
+### 3. Revocations and amendments[^c-804534b6dc23325d8f0600d5005b955f]
 
 (1) The following Orders are revoked insofar as they apply in relation to Wales—
 
@@ -94,7 +94,7 @@ In this Order—
 - (a) in article 12(1) (tuberculosis testing) for “by” substitute “before”; and
 - (b) in article 22(1) (isolation of M. Bovis in a laboratory) for “Veterinary Laboratories Agency” substitute “Welsh Ministers”.
 
-### 4. Savings and transition[^key-02314949dd39b0af6cbca6476bd3f325]
+### 4. Savings and transition[^c-02314949dd39b0af6cbca6476bd3f325]
 
 (1) Any notice or licence issued, or approval or consent granted, under the Tuberculosis (Deer) Order 1989 or the Tuberculosis (Deer) Notice of Intended Slaughter and Compensation Order 1989 and which has effect at the coming into force of this Order remains in force as if it were a notice or licence issued, or approval or consent granted, under this Order.
 
@@ -102,11 +102,11 @@ In this Order—
 
 ## PART 2 — Testing and Movement
 
-### 5. Identification[^key-fd4fa28d3ad16c049bb4c5a1765aa862]
+### 5. Identification[^c-fd4fa28d3ad16c049bb4c5a1765aa862]
 
 The keeper of a deer, alpaca, guanaco, llama or vicuna must mark or identify it in a manner approved by the Welsh Ministers.
 
-### 6. Notification of disease in non-bovine animals[^key-5c548583e086c8631d9a901ae7636af7]
+### 6. Notification of disease in non-bovine animals[^c-5c548583e086c8631d9a901ae7636af7]
 
 (1) Any person who—
 
@@ -122,7 +122,7 @@ must notify the Welsh Ministers immediately.
 - (b) isolate it from other animals to the extent specified in the notice; and
 - (c) adopt precautions with respect to milk produced by that non-bovine animal as if a notice under article 7 had already been served.
 
-### 7. Veterinary inquiry as to the existence of disease[^key-f8fad7101cf23e5e10288fd5800ce4e9]
+### 7. Veterinary inquiry as to the existence of disease[^c-f8fad7101cf23e5e10288fd5800ce4e9]
 
 (1) Where a veterinary inspector reasonably believes an affected animal or a suspected animal (other than a reactor) or a carcase of a non-bovine animal that is affected with or suspected of being affected with tuberculosis is present on any premises, the veterinary inspector must, with all practicable speed, take such steps as may be necessary to establish whether it is in fact an affected or suspected animal or carcase.
 
@@ -136,7 +136,7 @@ must notify the Welsh Ministers immediately.
 
 (4) In this article “reactor” (“*adweithydd*”) means a non-bovine animal that gives rise to a reaction to a relevant test which is consistent with its being affected with tuberculosis.
 
-### 8. Veterinary improvement notice[^key-bf497e07df6e52510d65e1171d71311f]
+### 8. Veterinary improvement notice[^c-bf497e07df6e52510d65e1171d71311f]
 
 (1) A veterinary inspector may serve a notice (“veterinary improvement notice”) (“*hysbysiad gwella milfeddygol*”) on the keeper of a non-bovine animal requiring the keeper, by a date specified in the notice, to do things or to refrain from doing things for the purpose of preventing the spread of disease and, in particular, may impose any of the requirements mentioned in paragraph (2).
 
@@ -147,19 +147,19 @@ must notify the Welsh Ministers immediately.
 - (c) protecting silage, feed storage and feeding areas from wildlife including birds;
 - (d) taking reasonable steps to ensure that people who enter the keeper’s land take reasonable precautions against the spread of disease.
 
-### 9. Tuberculosis testing[^key-8bec75bac4d6a17c3010db1bc1d6a5d1]
+### 9. Tuberculosis testing[^c-8bec75bac4d6a17c3010db1bc1d6a5d1]
 
 (1) The Welsh Ministers may serve on the keeper of a non-bovine animal a notice (“test notice”) (“*hysbysiad prawf*”) requiring the keeper to have any such non-bovine animal tested for tuberculosis with a relevant test before a date specified in the notice.
 
-(2) The keeper of any non-bovine animal must comply with all reasonable requirements of an inspector or an approved veterinary surgeon[^key-6dd053cc6cee5274cf34be408a2c9bb4] with a view to facilitating—
+(2) The keeper of any non-bovine animal must comply with all reasonable requirements of an inspector or an approved veterinary surgeon[^c-6dd053cc6cee5274cf34be408a2c9bb4] with a view to facilitating—
 
-- (a) the identification and examination of that non-bovine animal by that inspector or an approved veterinary surgeon[^key-99fd9a25905d8caf8b81fdacd7b8c70d];
+- (a) the identification and examination of that non-bovine animal by that inspector or an approved veterinary surgeon[^c-99fd9a25905d8caf8b81fdacd7b8c70d];
 - (b) the application to it, or the reading, of any relevant test; or
 - (c) the removal of that non-bovine animal for slaughter,
 
 and in particular must arrange at the keeper’s own expense for the collection, penning and securing of any such non-bovine animal if so required.
 
-(3)[^key-853d7d5438237908517b5e05c4934b09] The requirements on the keeper in paragraph (3A) apply where—
+(3)[^c-853d7d5438237908517b5e05c4934b09] The requirements on the keeper in paragraph (3A) apply where—
 
 - (a) a relevant test has been applied to a non-bovine animal;
 - (b) the result of that test has been read by an inspector or an approved veterinary surgeon and that result communicated to the keeper; and
@@ -188,13 +188,13 @@ the non-bovine animal must be treated as being affected with tuberculosis for th
 
 (7) The reasons mentioned in paragraph (6) are those of practicability and include difficulties in gathering the non-bovine animal safely due to its wildness or the nature of the terrain on which it is kept.
 
-(8)[^key-d1dcb7c0dc6290541ab13add8bf66883] The inspector or approved veterinary surgeon reading the result of a relevant test which reveals a reactor or inconclusive reactor must report such test result as soon as reasonably practicable to the Welsh Ministers.
+(8)[^c-d1dcb7c0dc6290541ab13add8bf66883] The inspector or approved veterinary surgeon reading the result of a relevant test which reveals a reactor or inconclusive reactor must report such test result as soon as reasonably practicable to the Welsh Ministers.
 
 (9) In this article “inconclusive reactor” (“*adweithydd amhendant*”) means a non-bovine animal that reveals a non-negative reading when tested for tuberculosis, but is not regarded as a reactor.
 
-### 10. Tuberculosis test records[^key-e9025c0aeb5e7e23469d968f2f0eae0a]
+### 10. Tuberculosis test records[^c-e9025c0aeb5e7e23469d968f2f0eae0a]
 
-(1) Where a relevant test has been applied to a non-bovine animal, the Welsh Ministers must, as soon as practicable after the results of the test have been read by an inspector or an approved veterinary surgeon[^key-6296944cc9b09ad17073c5c45bbd679b], give the keeper of that non-bovine animal a written record of the results.
+(1) Where a relevant test has been applied to a non-bovine animal, the Welsh Ministers must, as soon as practicable after the results of the test have been read by an inspector or an approved veterinary surgeon[^c-6296944cc9b09ad17073c5c45bbd679b], give the keeper of that non-bovine animal a written record of the results.
 
 (2) Paragraph (1) does not apply to non-bovine animals in respect of which movement is, or remains, prohibited under this Order following the test.
 
@@ -203,7 +203,7 @@ the non-bovine animal must be treated as being affected with tuberculosis for th
 - (a) retain the record of the results of the test for a period of 3 years and 60 days beginning with the day following the date of injection of tuberculin; and
 - (b) produce such record when requested to do so by an inspector.
 
-### 11. Prohibitions[^key-01b57cebb0eb7b15c5aef0e23f9f2344]
+### 11. Prohibitions[^c-01b57cebb0eb7b15c5aef0e23f9f2344]
 
 (1) No person may vaccinate a non-bovine animal against tuberculosis without the written consent of the Welsh Ministers.
 
@@ -213,20 +213,20 @@ the non-bovine animal must be treated as being affected with tuberculosis for th
 
 (4) No person may interfere with or obstruct the application or the reading of a relevant test.
 
-### 12. Isolation and prohibition on movement of non-bovine animals[^key-8e1e0d8373063ee0de5173e1b897afd6]
+### 12. Isolation and prohibition on movement of non-bovine animals[^c-8e1e0d8373063ee0de5173e1b897afd6]
 
 An inspector may, for the purpose of controlling or preventing the spread of tuberculosis, by notice served on the keeper of non-bovine animals kept on such premises as are specified in the notice–
 
 - (a) require such non-bovine animals as are specified in the notice to be isolated from other animals to the extent specified in the notice; and
 - (b) prohibit the movement of non-bovine animals, or of such non-bovine animals as are specified in the notice, on to or off such premises, except under the authority of a licence issued by an inspector.
 
-### 13. Notification of intended slaughter of non-bovine animals[^key-ba3a614009dc765d420e9a7a20852c91]
+### 13. Notification of intended slaughter of non-bovine animals[^c-ba3a614009dc765d420e9a7a20852c91]
 
 (1) Where the Welsh Ministers intend to cause a non-bovine animal to be slaughtered under section 32 of the Act in its application to tuberculosis, an inspector must serve a notice on the keeper of the non-bovine animal informing the keeper of the intended slaughter and requiring the keeper to detain the non-bovine animal pending such slaughter, or its removal for such slaughter, on such part of the premises as is specified in the notice and to isolate it to the extent specified in the notice.
 
 (2) Where a notice has been served under paragraph (1), no person may move the non-bovine animal, other than to slaughter, except under the authority of a licence issued by an inspector.
 
-### 14. Precautions against spread of infection[^key-be382b42e315d7f8bf4c00845f6719ba]
+### 14. Precautions against spread of infection[^c-be382b42e315d7f8bf4c00845f6719ba]
 
 (1) Where a veterinary inspector is satisfied that any non-bovine animal kept on any premises is an affected animal or a suspected animal, the veterinary inspector may, by notice served on the keeper of any such non-bovine animal, require the keeper–
 
@@ -242,7 +242,7 @@ An inspector may, for the purpose of controlling or preventing the spread of tub
 
 (2) Where the keeper fails to comply with the requirements of the notice, the Welsh Ministers may, without prejudice to any proceedings arising out of such default, carry out or cause to be carried out the requirements of the notice, and the amount of any expenses reasonably incurred by them is recoverable from the keeper.
 
-### 15. Suspected animals in markets, shows etc[^key-d96f607a52cbf05399079448cf3be125]
+### 15. Suspected animals in markets, shows etc[^c-d96f607a52cbf05399079448cf3be125]
 
 (1) Where a veterinary inspector reasonably believes that a non-bovine animal on any premises at which a show, exhibition, market, sale or fair is being held is an affected animal, a suspected animal or has been exposed to infection by tuberculosis, the veterinary inspector may–
 
@@ -260,17 +260,17 @@ An inspector may, for the purpose of controlling or preventing the spread of tub
 
 (3) If any person on whom a notice is served under paragraph (1)(b) fails to comply with the requirements of the notice, the Welsh Ministers may, without prejudice to any proceedings arising out of such default, carry out or cause to be carried out the requirements of the notice, and the amount of any expenses reasonably incurred by them is recoverable by them from the person in default.
 
-### 16. Marking and movement of non-bovine animals[^key-4a84835ffb0fa3278264c965a6c1aa36]
+### 16. Marking and movement of non-bovine animals[^c-4a84835ffb0fa3278264c965a6c1aa36]
 
-(1)[^key-348ccaa81920b433856df783a431be93] If directed to do so by an inspector or an approved veterinary surgeon the keeper must mark any non-bovine animal in the manner required by the inspector or the approved veterinary surgeon
+(1)[^c-348ccaa81920b433856df783a431be93] If directed to do so by an inspector or an approved veterinary surgeon the keeper must mark any non-bovine animal in the manner required by the inspector or the approved veterinary surgeon
 
-(2) The inspector or approved veterinary surgeon[^key-5ed3760fad279acdc15e989fcc5bb22a] may mark non-bovine animals.
+(2) The inspector or approved veterinary surgeon[^c-5ed3760fad279acdc15e989fcc5bb22a] may mark non-bovine animals.
 
 (3) No person may change or interfere with any mark that has been applied under this article.
 
-(4) The keeper must keep a record of the movement of non-bovine animals and must produce that record on being required to do so by an inspector or an approved veterinary surgeon[^key-be645eac866850d4bf867aa9a300567c].
+(4) The keeper must keep a record of the movement of non-bovine animals and must produce that record on being required to do so by an inspector or an approved veterinary surgeon[^c-be645eac866850d4bf867aa9a300567c].
 
-### 17. General provisions as to notices, licences and approvals[^key-0ba05b8d1e529c9af4baf9d18a658248]
+### 17. General provisions as to notices, licences and approvals[^c-0ba05b8d1e529c9af4baf9d18a658248]
 
 (1) Any notice, licence or approval issued or granted under this Order must be in writing.
 
@@ -282,11 +282,11 @@ An inspector may, for the purpose of controlling or preventing the spread of tub
 
 (5) Any person to whom any requirement or condition in a notice, licence or approval issued or granted under this Order applies must comply with the requirement or condition.
 
-### 18. Production of licences[^key-03aba124fafecbee7807c6e5dac81814]
+### 18. Production of licences[^c-03aba124fafecbee7807c6e5dac81814]
 
 Where a non-bovine animal is moved under the authority of a licence (other than a general licence) issued under this Order, the person in charge of the non-bovine animal being moved must, on demand made under this Order by an inspector, give his or her name and address and must produce the licence and allow a copy of it to be taken.
 
-### 19. Enforcement[^key-76f2bf895c5cc1679d2875886a727b96]
+### 19. Enforcement[^c-76f2bf895c5cc1679d2875886a727b96]
 
 (1) This Order must be enforced by the local authority.
 
@@ -294,7 +294,7 @@ Where a non-bovine animal is moved under the authority of a licence (other than 
 
 ## PART 3 — Compensation
 
-### 20. Compensation for non-bovine animals slaughtered for tuberculosis[^key-9810496adb8e3a02659020bf29a61409]
+### 20. Compensation for non-bovine animals slaughtered for tuberculosis[^c-9810496adb8e3a02659020bf29a61409]
 
 (1) Where—
 
@@ -319,7 +319,7 @@ Minister for Rural Affairs, one of the Welsh Ministers
 
 Article 20
 
-### 1. Calculation[^key-baada802dfbc9aff6b567d5fa1a348c8]
+### 1. Calculation[^c-baada802dfbc9aff6b567d5fa1a348c8]
 
 The value of a non-bovine animal slaughtered for tuberculosis is to be calculated using the following formula—
 
@@ -345,7 +345,7 @@ Where—
 |  | - (c) breeding female aged more than 18 months; | - (c) £1500.00 |
 |  | - (d) stud male aged more than 18 months; | - (d) £1500.00 |
 
-### 2. Veterinary improvement notice[^key-cd80661803c637aa2405055223029726]
+### 2. Veterinary improvement notice[^c-cd80661803c637aa2405055223029726]
 
 (1) This paragraph applies where the keeper of a non-bovine animal has been served with a veterinary improvement notice and fails to comply with one or more of its requirements.
 
@@ -368,7 +368,7 @@ Where—
   - (i) for the first time, “B” is 0.5; or
   - (ii) subsequently, “B” is 0.05.
 
-### 3. Failure to have a non-bovine animal tested[^key-6a233a3f572223b57516e663141c9ad7]
+### 3. Failure to have a non-bovine animal tested[^c-6a233a3f572223b57516e663141c9ad7]
 
 (1) Where—
 
@@ -384,7 +384,7 @@ Where—
 
 (3) Where a non-bovine animal has been slaughtered by virtue of the provisions of article 9(6), “B” is 0.05.
 
-### 4. Breach of obligations[^key-4f0998460a8779ab56b4b4df67691c3a]
+### 4. Breach of obligations[^c-4f0998460a8779ab56b4b4df67691c3a]
 
 (1) Where—
 
@@ -398,7 +398,7 @@ Where—
 
 (2) This paragraph does not apply to a failure to comply with notices served under article 8(1) or 9(1).
 
-### 5. Other cases[^key-8bd1f9309d7a054e5a1a95de04938a0b]
+### 5. Other cases[^c-8bd1f9309d7a054e5a1a95de04938a0b]
 
 Where paragraphs 2, 3, and 4 do not apply, “B” is 1.
 
@@ -418,19 +418,19 @@ A regulatory impact assessment has been prepared in relation to this Order and a
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). The meaning of “the Minister” is given by section 86(1). Functions under the Act are exercisable by the Welsh Ministers (in relation to Wales), by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)); the National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. [2004/3044](https://www.legislation.gov.uk/uksi/2004/3044)) and section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-0332239262819259339df4565a989c0f]: Commencement: Art. 1 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-0332239262819259339df4565a989c0f]: Commencement: Art. 1 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-542342e66ea9c7d04bfeb905b8819b42]: Commencement: Art. 2 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-542342e66ea9c7d04bfeb905b8819b42]: Commencement: Art. 2 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
 [^f00002]: Footnote: S.I. [2007/2803 (W.236)](https://www.legislation.gov.uk/wsi/2007/2803).
 
-[^key-7daef22e64ff9e92b9b7393fa2388202]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2011/692/article/2) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/wsi/2014/632/article/3/2/a)
+[^c-7daef22e64ff9e92b9b7393fa2388202]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2011/692/article/2) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/wsi/2014/632/article/3/2/a)
 
-[^key-9299518322dcae811bb7a3aaa71061b5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2011/692/article/2) substituted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(2)(b)](https://www.legislation.gov.uk/wsi/2014/632/article/3/2/b)
+[^c-9299518322dcae811bb7a3aaa71061b5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2011/692/article/2) substituted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(2)(b)](https://www.legislation.gov.uk/wsi/2014/632/article/3/2/b)
 
-[^key-9a785ea14e0dc056d52cd2bffbfda2cb]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/wsi/2011/692/article/2A) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(3)](https://www.legislation.gov.uk/wsi/2014/632/article/3/3)
+[^c-9a785ea14e0dc056d52cd2bffbfda2cb]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/wsi/2011/692/article/2A) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(3)](https://www.legislation.gov.uk/wsi/2014/632/article/3/3)
 
-[^key-804534b6dc23325d8f0600d5005b955f]: Commencement: Art. 3 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-804534b6dc23325d8f0600d5005b955f]: Commencement: Art. 3 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
 [^f00003]: Footnote: S.I. [1989/878](https://www.legislation.gov.uk/uksi/1989/878).
 
@@ -438,66 +438,66 @@ A regulatory impact assessment has been prepared in relation to this Order and a
 
 [^f00005]: Footnote: S.I. [2010/1379 (W.122)](https://www.legislation.gov.uk/wsi/2010/1379).
 
-[^key-02314949dd39b0af6cbca6476bd3f325]: Commencement: Art. 4 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-02314949dd39b0af6cbca6476bd3f325]: Commencement: Art. 4 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-fd4fa28d3ad16c049bb4c5a1765aa862]: Commencement: Art. 5 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-fd4fa28d3ad16c049bb4c5a1765aa862]: Commencement: Art. 5 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-5c548583e086c8631d9a901ae7636af7]: Commencement: Art. 6 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-5c548583e086c8631d9a901ae7636af7]: Commencement: Art. 6 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-f8fad7101cf23e5e10288fd5800ce4e9]: Commencement: Art. 7 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-f8fad7101cf23e5e10288fd5800ce4e9]: Commencement: Art. 7 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-bf497e07df6e52510d65e1171d71311f]: Commencement: Art. 8 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-bf497e07df6e52510d65e1171d71311f]: Commencement: Art. 8 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-8bec75bac4d6a17c3010db1bc1d6a5d1]: Commencement: Art. 9 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-8bec75bac4d6a17c3010db1bc1d6a5d1]: Commencement: Art. 9 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-6dd053cc6cee5274cf34be408a2c9bb4]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/wsi/2011/692/article/9/2) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(4)(a)](https://www.legislation.gov.uk/wsi/2014/632/article/3/4/a)
+[^c-6dd053cc6cee5274cf34be408a2c9bb4]: Textual amendment: Words in [art. 9(2)](https://www.legislation.gov.uk/wsi/2011/692/article/9/2) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(4)(a)](https://www.legislation.gov.uk/wsi/2014/632/article/3/4/a)
 
-[^key-99fd9a25905d8caf8b81fdacd7b8c70d]: Textual amendment: Words in [art. 9(2)(a)](https://www.legislation.gov.uk/wsi/2011/692/article/9/2/a) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(4)(b)](https://www.legislation.gov.uk/wsi/2014/632/article/3/4/b)
+[^c-99fd9a25905d8caf8b81fdacd7b8c70d]: Textual amendment: Words in [art. 9(2)(a)](https://www.legislation.gov.uk/wsi/2011/692/article/9/2/a) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(4)(b)](https://www.legislation.gov.uk/wsi/2014/632/article/3/4/b)
 
-[^key-853d7d5438237908517b5e05c4934b09]: Textual amendment: [Art. 9(3)-(3B)](https://www.legislation.gov.uk/wsi/2011/692/article/9/3) substituted for [art. 9(3)](https://www.legislation.gov.uk/wsi/2011/692/article/9/3) (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(4)(c)](https://www.legislation.gov.uk/wsi/2014/632/article/3/4/c)
+[^c-853d7d5438237908517b5e05c4934b09]: Textual amendment: [Art. 9(3)-(3B)](https://www.legislation.gov.uk/wsi/2011/692/article/9/3) substituted for [art. 9(3)](https://www.legislation.gov.uk/wsi/2011/692/article/9/3) (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(4)(c)](https://www.legislation.gov.uk/wsi/2014/632/article/3/4/c)
 
-[^key-d1dcb7c0dc6290541ab13add8bf66883]: Textual amendment: [Art. 9(8)](https://www.legislation.gov.uk/wsi/2011/692/article/9/8)[(9)](https://www.legislation.gov.uk/wsi/2011/692/article/9/9) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(4)(d)](https://www.legislation.gov.uk/wsi/2014/632/article/3/4/d)
+[^c-d1dcb7c0dc6290541ab13add8bf66883]: Textual amendment: [Art. 9(8)](https://www.legislation.gov.uk/wsi/2011/692/article/9/8)[(9)](https://www.legislation.gov.uk/wsi/2011/692/article/9/9) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(4)(d)](https://www.legislation.gov.uk/wsi/2014/632/article/3/4/d)
 
-[^key-e9025c0aeb5e7e23469d968f2f0eae0a]: Commencement: Art. 10 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-e9025c0aeb5e7e23469d968f2f0eae0a]: Commencement: Art. 10 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-6296944cc9b09ad17073c5c45bbd679b]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/wsi/2011/692/article/10/1) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(5)](https://www.legislation.gov.uk/wsi/2014/632/article/3/5)
+[^c-6296944cc9b09ad17073c5c45bbd679b]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/wsi/2011/692/article/10/1) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(5)](https://www.legislation.gov.uk/wsi/2014/632/article/3/5)
 
-[^key-01b57cebb0eb7b15c5aef0e23f9f2344]: Commencement: Art. 11 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-01b57cebb0eb7b15c5aef0e23f9f2344]: Commencement: Art. 11 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-8e1e0d8373063ee0de5173e1b897afd6]: Commencement: Art. 12 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-8e1e0d8373063ee0de5173e1b897afd6]: Commencement: Art. 12 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-ba3a614009dc765d420e9a7a20852c91]: Commencement: Art. 13 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-ba3a614009dc765d420e9a7a20852c91]: Commencement: Art. 13 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-be382b42e315d7f8bf4c00845f6719ba]: Commencement: Art. 14 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-be382b42e315d7f8bf4c00845f6719ba]: Commencement: Art. 14 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-d96f607a52cbf05399079448cf3be125]: Commencement: Art. 15 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-d96f607a52cbf05399079448cf3be125]: Commencement: Art. 15 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-4a84835ffb0fa3278264c965a6c1aa36]: Commencement: Art. 16 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-4a84835ffb0fa3278264c965a6c1aa36]: Commencement: Art. 16 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-348ccaa81920b433856df783a431be93]: Textual amendment: [Art. 16(1)](https://www.legislation.gov.uk/wsi/2011/692/article/16/1) substituted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(6)(a)](https://www.legislation.gov.uk/wsi/2014/632/article/3/6/a)
+[^c-348ccaa81920b433856df783a431be93]: Textual amendment: [Art. 16(1)](https://www.legislation.gov.uk/wsi/2011/692/article/16/1) substituted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(6)(a)](https://www.legislation.gov.uk/wsi/2014/632/article/3/6/a)
 
-[^key-5ed3760fad279acdc15e989fcc5bb22a]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/wsi/2011/692/article/16/2) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(6)(b)](https://www.legislation.gov.uk/wsi/2014/632/article/3/6/b)
+[^c-5ed3760fad279acdc15e989fcc5bb22a]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/wsi/2011/692/article/16/2) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(6)(b)](https://www.legislation.gov.uk/wsi/2014/632/article/3/6/b)
 
-[^key-be645eac866850d4bf867aa9a300567c]: Textual amendment: Words in [art. 16(4)](https://www.legislation.gov.uk/wsi/2011/692/article/16/4) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(6)(c)](https://www.legislation.gov.uk/wsi/2014/632/article/3/6/c)
+[^c-be645eac866850d4bf867aa9a300567c]: Textual amendment: Words in [art. 16(4)](https://www.legislation.gov.uk/wsi/2011/692/article/16/4) inserted (6.4.2014) by [The Tuberculosis (Miscellaneous Amendments) (Wales) Order 2014 (S.I. 2014/632)](https://www.legislation.gov.uk/wsi/2014/632), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2014/632/article/1/3), [3(6)(c)](https://www.legislation.gov.uk/wsi/2014/632/article/3/6/c)
 
-[^key-0ba05b8d1e529c9af4baf9d18a658248]: Commencement: Art. 17 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-0ba05b8d1e529c9af4baf9d18a658248]: Commencement: Art. 17 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-03aba124fafecbee7807c6e5dac81814]: Commencement: Art. 18 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-03aba124fafecbee7807c6e5dac81814]: Commencement: Art. 18 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-76f2bf895c5cc1679d2875886a727b96]: Commencement: Art. 19 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-76f2bf895c5cc1679d2875886a727b96]: Commencement: Art. 19 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-9810496adb8e3a02659020bf29a61409]: Commencement: Art. 20 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-9810496adb8e3a02659020bf29a61409]: Commencement: Art. 20 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
 [^f00006]: Footnote: S.I. [2009/3364 (W.296)](https://www.legislation.gov.uk/wsi/2009/3364).
 
 [^f00007]: Footnote: S.I. [2006/3342 (W.303)](https://www.legislation.gov.uk/wsi/2006/3342).
 
-[^key-baada802dfbc9aff6b567d5fa1a348c8]: Commencement: Sch. para. 1 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-baada802dfbc9aff6b567d5fa1a348c8]: Commencement: Sch. para. 1 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-cd80661803c637aa2405055223029726]: Commencement: Sch. para. 2 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-cd80661803c637aa2405055223029726]: Commencement: Sch. para. 2 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-6a233a3f572223b57516e663141c9ad7]: Commencement: Sch. para. 3 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-6a233a3f572223b57516e663141c9ad7]: Commencement: Sch. para. 3 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-4f0998460a8779ab56b4b4df67691c3a]: Commencement: Sch. para. 4 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-4f0998460a8779ab56b4b4df67691c3a]: Commencement: Sch. para. 4 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
 
-[^key-8bd1f9309d7a054e5a1a95de04938a0b]: Commencement: Sch. para. 5 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)
+[^c-8bd1f9309d7a054e5a1a95de04938a0b]: Commencement: Sch. para. 5 in force at 31.3.2011, see [art. 1](https://www.legislation.gov.uk/wsi/2011/692/article/1)

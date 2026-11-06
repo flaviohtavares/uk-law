@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20A. Deemed contracts[^key-a6288d5813906460a8a48b7bcfe6b0e1]
+## 20A. Deemed contracts[^c-a6288d5813906460a8a48b7bcfe6b0e1]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6288d5813906460a8a48b7bcfe6b0e1]: Textual amendment: Ss. 20A, 20B and cross-heading inserted (10.6.2013 for specified purposes, 1.4.2016 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 32](https://www.legislation.gov.uk/asp/2013/5/section/32), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2016/14](https://www.legislation.gov.uk/ssi/2016/14), [art. 2](https://www.legislation.gov.uk/ssi/2016/14/article/2)
+[^c-a6288d5813906460a8a48b7bcfe6b0e1]: Textual amendment: Ss. 20A, 20B and cross-heading inserted (10.6.2013 for specified purposes, 1.4.2016 in so far as not already in force) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 32](https://www.legislation.gov.uk/asp/2013/5/section/32), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule); [S.S.I. 2016/14](https://www.legislation.gov.uk/ssi/2016/14), [art. 2](https://www.legislation.gov.uk/ssi/2016/14/article/2)

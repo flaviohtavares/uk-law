@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Substitution of section 14[^key-fcc54b613664ea4d17d11f4484bfaccd]
+## 6. Substitution of section 14[^c-fcc54b613664ea4d17d11f4484bfaccd]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ For section 14 substitute—
 
 ## Annotations
 
-[^key-fcc54b613664ea4d17d11f4484bfaccd]: Commencement: Art. 6 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-fcc54b613664ea4d17d11f4484bfaccd]: Commencement: Art. 6 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

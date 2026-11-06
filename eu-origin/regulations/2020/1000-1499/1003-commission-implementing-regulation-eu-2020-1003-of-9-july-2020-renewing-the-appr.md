@@ -35,34 +35,34 @@ renewing the approval of the active substances *Phlebiopsis gigantea* strains VR
 
 (Text with EEA relevance) (revoked)
 
-[^key-655954153518494537ea8d9ed6375100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-655954153518494537ea8d9ed6375100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Renewal of the approval of the active substance[^key-655954153518494537ea8d9ed6375100]
+## Article 1. Renewal of the approval of the active substance[^c-655954153518494537ea8d9ed6375100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-655954153518494537ea8d9ed6375100]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-655954153518494537ea8d9ed6375100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force and date of application[^key-655954153518494537ea8d9ed6375100]
+## Article 3. Entry into force and date of application[^c-655954153518494537ea8d9ed6375100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-655954153518494537ea8d9ed6375100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-655954153518494537ea8d9ed6375100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-655954153518494537ea8d9ed6375100]
+## ANNEX I[^c-655954153518494537ea8d9ed6375100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-655954153518494537ea8d9ed6375100]
+## ANNEX II[^c-655954153518494537ea8d9ed6375100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-655954153518494537ea8d9ed6375100]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-655954153518494537ea8d9ed6375100]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 274. Mark-to-Market Method[^key-c6ada450975e3f943438d4499fef441d]
+## Article 274. Mark-to-Market Method[^c-c6ada450975e3f943438d4499fef441d]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-c6ada450975e3f943438d4499fef441d]: Textual amendment: [Art. 274](https://www.legislation.gov.uk/eur/2013/575/article/274) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(f)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/f/ii/bb)
+[^c-c6ada450975e3f943438d4499fef441d]: Textual amendment: [Art. 274](https://www.legislation.gov.uk/eur/2013/575/article/274) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(f)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/f/ii/bb)

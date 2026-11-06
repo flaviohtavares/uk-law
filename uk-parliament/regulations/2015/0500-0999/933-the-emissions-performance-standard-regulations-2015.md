@@ -49,7 +49,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 1
 
-### 1. Citation, commencement, extent and application[^key-07c712ee872087163768dd758e51ebe6]
+### 1. Citation, commencement, extent and application[^c-07c712ee872087163768dd758e51ebe6]
 
 (1) These Regulations may be cited as the Emissions Performance Standard Regulations 2015, and come into force on the day after the day on which they are made.
 
@@ -57,7 +57,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 (3) Part 3 of these Regulations applies to England only.
 
-### 2. Interpretation[^key-42bb89214b991ab10de1d21a35bde767][^key-2f84cd0f7316ef1a4023f197d1e831dd]
+### 2. Interpretation[^c-42bb89214b991ab10de1d21a35bde767][^c-2f84cd0f7316ef1a4023f197d1e831dd]
 
 In these Regulations—
 
@@ -65,7 +65,7 @@ In these Regulations—
 - “associated gasification plant” has the meaning given by regulation 5;
 - “CCS notification” means a notification under regulation 10;
 - “CHPQA certificate” means a certificate issued by the Secretary of State in which is reported the amount specified as CHP Qualifying Heat Output (as defined in the CHPQA standard) applying to the relevant fossil fuel plant;
-- “CHPQA standard” means the Combined Heat and Power Quality Assurance Standard, Issue 6, October 2016;[^key-9fe8b6d6b6d622671f753d148047f105]
+- “CHPQA standard” means the Combined Heat and Power Quality Assurance Standard, Issue 6, October 2016;[^c-9fe8b6d6b6d622671f753d148047f105]
 - “civil penalty notice” means a notice issued under regulation 15;
 - “combined heat and power generating station” means a generating station which is (or may be) operated in order to supply to any premises—
   - (a) heat produced in association with the electricity generated; or
@@ -76,11 +76,11 @@ In these Regulations—
 - “EPS annual emissions notification” means a notification under regulation 11;
 - “generating station” means a station which generates electricity;
 - “generating unit” means any combination of generators, boilers, turbines, or other prime movers that are physically connected as one unit and operated together to produce electricity independently of any other unit;
-- **the GGETS Order *(Extent: E.)*[^key-33d54a5c40cb42dc4b689841b5990a46]**” means the Greenhouse Gas Emissions Trading Scheme Order 2020 *(Extent: E.)*
+- **the GGETS Order *(Extent: E.)*[^c-33d54a5c40cb42dc4b689841b5990a46]**” means the Greenhouse Gas Emissions Trading Scheme Order 2020 *(Extent: E.)*
 - “the GGETS Regulations” means the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^f00003];
-- “Greenhouse Gas Emissions Permit” means a permit granted under regulation 10 of the *(Extent: E.)* *(affected by repeal, see note)*[^key-d171ed41fdc5a2d7b09565ae70a67f03] GGETS Regulations *(Extent: E.)* *(affected by repeal, see note)*[^key-d171ed41fdc5a2d7b09565ae70a67f03]; *(Extent: E.)* *(affected by repeal, see note)*[^key-d171ed41fdc5a2d7b09565ae70a67f03]
+- “Greenhouse Gas Emissions Permit” means a permit granted under regulation 10 of the *(Extent: E.)* *(affected by repeal, see note)*[^c-d171ed41fdc5a2d7b09565ae70a67f03] GGETS Regulations *(Extent: E.)* *(affected by repeal, see note)*[^c-d171ed41fdc5a2d7b09565ae70a67f03]; *(Extent: E.)* *(affected by repeal, see note)*[^c-d171ed41fdc5a2d7b09565ae70a67f03]
 - “ *(Extent: E.)***Greenhouse Gas Emissions Permit *(Extent: E.)***” has the meaning given by article 4(1) of the GGETS Order; *(Extent: E.)*
-- “Greenhouse Gas Emissions Report” means a report required to be submitted by an operator by Article 67(1) of the Monitoring and Reporting Regulation *(Extent: E.)* *(affected by repeal, see note)*[^key-d45c6dd97143e903ddb7bea93b90fe95][^f00004]; *(Extent: E.)* *(affected by repeal, see note)*[^key-d45c6dd97143e903ddb7bea93b90fe95]
+- “Greenhouse Gas Emissions Report” means a report required to be submitted by an operator by Article 67(1) of the Monitoring and Reporting Regulation *(Extent: E.)* *(affected by repeal, see note)*[^c-d45c6dd97143e903ddb7bea93b90fe95][^f00004]; *(Extent: E.)* *(affected by repeal, see note)*[^c-d45c6dd97143e903ddb7bea93b90fe95]
 - “ *(Extent: E.)***Greenhouse Gas Emissions Report *(Extent: E.)***” means— *(Extent: E.)*
   - (a) for emissions occurring before 1 January 2021, a report required to be submitted by an operator by virtue of Article 67(1) of the Monitoring and Reporting Regulation 2012 *(Extent: E.)*
   - (b) for emissions occurring on or after 1 January 2021, a report required to be submitted in accordance with a monitoring and report condition in the operator’s greenhouse gas emissions permit, by virtue of article 26(3) of, and paragraph 4(2)(b) of Schedule 6 to, the GGETS Order; *(Extent: E.)*
@@ -89,7 +89,7 @@ In these Regulations—
 - “main boiler” means any fired vessel or vessels used to produce steam as part of a generating unit—
   - (a) with a total thermal capacity in excess of 300MWth; and
   - (b) in which any mixture of fossil fuel in gaseous, liquid or pulverised solid form is combusted;
-- “the Monitoring and Reporting Regulation” means Commission Regulation ( *(Extent: E.)* *(affected by repeal, see note)*[^key-79f8f2bedfb4144c15b156acf45dd66c]EU *(Extent: E.)* *(affected by repeal, see note)*[^key-79f8f2bedfb4144c15b156acf45dd66c]) No 601/2012 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive *(Extent: E.)* *(affected by repeal, see note)*[^key-79f8f2bedfb4144c15b156acf45dd66c] [2003/87/ *(Extent: E.)* *(affected by repeal, see note)*EC *(Extent: E.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^key-79f8f2bedfb4144c15b156acf45dd66c][^key-79f8f2bedfb4144c15b156acf45dd66c] of the European Parliament and of the Council *(Extent: E.)* *(affected by repeal, see note)*[^key-79f8f2bedfb4144c15b156acf45dd66c][^f00005]; *(Extent: E.)* *(affected by repeal, see note)*[^key-79f8f2bedfb4144c15b156acf45dd66c]
+- “the Monitoring and Reporting Regulation” means Commission Regulation ( *(Extent: E.)* *(affected by repeal, see note)*[^c-79f8f2bedfb4144c15b156acf45dd66c]EU *(Extent: E.)* *(affected by repeal, see note)*[^c-79f8f2bedfb4144c15b156acf45dd66c]) No 601/2012 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive *(Extent: E.)* *(affected by repeal, see note)*[^c-79f8f2bedfb4144c15b156acf45dd66c] [2003/87/ *(Extent: E.)* *(affected by repeal, see note)*EC *(Extent: E.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^c-79f8f2bedfb4144c15b156acf45dd66c][^c-79f8f2bedfb4144c15b156acf45dd66c] of the European Parliament and of the Council *(Extent: E.)* *(affected by repeal, see note)*[^c-79f8f2bedfb4144c15b156acf45dd66c][^f00005]; *(Extent: E.)* *(affected by repeal, see note)*[^c-79f8f2bedfb4144c15b156acf45dd66c]
 - “ *(Extent: E.)***the Monitoring and Reporting Regulation *(Extent: E.)***” means— *(Extent: E.)*
   - (a) for emissions and activity data occurring before 1 January 2021, *(Extent: E.)* [Commission Regulation (EU) No 601/2012 *(Extent: E.)*](https://www.legislation.gov.uk/european/regulation/2012/0601) of 21 June 2012 on the monitoring and reporting of greenhouse gas emissions pursuant to *(Extent: E.)* [Directive 2003/87/EC *(Extent: E.)*](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council, as it had effect immediately before IP completion day; and *(Extent: E.)*
   - (b) for emissions and activity data occurring on or after 1 January 2021, Commission Implementing Regulation (EU) 2018/2066 of 19 December 2018 on the monitoring and reporting of greenhouse gas emissions pursuant to *(Extent: E.)* [Directive 2003/87/EC *(Extent: E.)*](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council, as given effect by article 24 of the GGETS Order; *(Extent: E.)*
@@ -98,13 +98,13 @@ In these Regulations—
 - “operator”, in relation to a relevant fossil fuel plant, means the person required to hold a Greenhouse Gas Emissions Permit for the relevant fossil fuel plant;
 - “relevant fossil fuel plant” means a fossil fuel plant to which the emissions limit duty applies under the Act or a generating unit to which the emissions limit duty applies by virtue of regulation 3;
 - “source stream” has the same meaning as in Article 3(4) of the Monitoring and Reporting Regulation;
-- “the Verification Regulation” means Commission Regulation ( *(Extent: E.)* *(affected by repeal, see note)*[^key-c8394e20f0e167e5c6786f8a9751bde0]EU *(Extent: E.)* *(affected by repeal, see note)*[^key-c8394e20f0e167e5c6786f8a9751bde0]) No 600/2012 on the verification of greenhouse gas emission reports and tonne-kilometre reports and the accreditation of verifiers pursuant to Directive *(Extent: E.)* *(affected by repeal, see note)*[^key-c8394e20f0e167e5c6786f8a9751bde0] [2003/87/ *(Extent: E.)* *(affected by repeal, see note)*EC *(Extent: E.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^key-c8394e20f0e167e5c6786f8a9751bde0][^key-c8394e20f0e167e5c6786f8a9751bde0] of the European Parliament and of the Council *(Extent: E.)* *(affected by repeal, see note)*[^key-c8394e20f0e167e5c6786f8a9751bde0][^f00006]; and *(Extent: E.)* *(affected by repeal, see note)*[^key-c8394e20f0e167e5c6786f8a9751bde0]
+- “the Verification Regulation” means Commission Regulation ( *(Extent: E.)* *(affected by repeal, see note)*[^c-c8394e20f0e167e5c6786f8a9751bde0]EU *(Extent: E.)* *(affected by repeal, see note)*[^c-c8394e20f0e167e5c6786f8a9751bde0]) No 600/2012 on the verification of greenhouse gas emission reports and tonne-kilometre reports and the accreditation of verifiers pursuant to Directive *(Extent: E.)* *(affected by repeal, see note)*[^c-c8394e20f0e167e5c6786f8a9751bde0] [2003/87/ *(Extent: E.)* *(affected by repeal, see note)*EC *(Extent: E.)* *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2003/0087)[^c-c8394e20f0e167e5c6786f8a9751bde0][^c-c8394e20f0e167e5c6786f8a9751bde0] of the European Parliament and of the Council *(Extent: E.)* *(affected by repeal, see note)*[^c-c8394e20f0e167e5c6786f8a9751bde0][^f00006]; and *(Extent: E.)* *(affected by repeal, see note)*[^c-c8394e20f0e167e5c6786f8a9751bde0]
 - “ *(Extent: E.)***the Verification Regulation 2018 *(Extent: E.)***” means Commission Implementing Regulation (EU) 2018/2067 on the verification of data and on the accreditation of verifiers pursuant to *(Extent: E.)* [Directive 2003/87/EC *(Extent: E.)*](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council, as given effect by virtue of article 25 of the GGETS Order; and *(Extent: E.)*
-- “verified” means verified in accordance with the Verification Regulation 2018 *(Extent: E.)*[^key-89b76e3d16bb6b65afd5682de9d66381].
+- “verified” means verified in accordance with the Verification Regulation 2018 *(Extent: E.)*[^c-89b76e3d16bb6b65afd5682de9d66381].
 
 ## PART 2 — Emissions limit duty
 
-### 3. Application of emissions limit duty to additional cases[^key-0a3f0137d9d55dbdc3cd760d6f3d986f]
+### 3. Application of emissions limit duty to additional cases[^c-0a3f0137d9d55dbdc3cd760d6f3d986f]
 
 (1) The emissions limit duty applies to a generating unit which satisfies the conditions in paragraphs (2) and (3).
 
@@ -126,7 +126,7 @@ In these Regulations—
 
 (6) In paragraph (5), “emergency” means an occurrence which involves a risk to the health or safety of persons or to the safe operation of the generating station.
 
-### 4. Modification of emissions limit[^key-fb64237e83e3f68a109122a8f18414cc]
+### 4. Modification of emissions limit[^c-fb64237e83e3f68a109122a8f18414cc]
 
 (1) Paragraph (3) applies to a relevant fossil fuel plant in respect of any year in which the plant meets any of the conditions in paragraph (2).
 
@@ -180,7 +180,7 @@ In these Regulations—
   - N is the number of days in the year in which the relevant fossil fuel plant generated electricity before the alteration in the installed generating capacity of that plant; and
   - R is the statutory rate of emissions, in g/kWh.
 
-### 5. Associated gasification plant[^key-5b8a9de19fb20ec84987ad5fcb29bb54]
+### 5. Associated gasification plant[^c-5b8a9de19fb20ec84987ad5fcb29bb54]
 
 “Associated gasification plant” means any gasification plant where—
 
@@ -189,18 +189,18 @@ In these Regulations—
   - (ii) produces fuel from the fossil fuel; and
 - (b) the fuel so produced by that plant is used by a relevant fossil fuel plant to generate electricity.
 
-### 6. Exemption for complete carbon capture and storage system[^key-36fa643c14e6ca027f7d74bf9d95d3dd]
+### 6. Exemption for complete carbon capture and storage system[^c-36fa643c14e6ca027f7d74bf9d95d3dd]
 
 The exemption from the emissions limit duty in section 58(1) of the Act applies only to those generating units which use a complete CCS system[^f00009].
 
-### 7. EPS annual emissions[^key-27f8d03948d54d0cc686836cb340fcef]
+### 7. EPS annual emissions[^c-27f8d03948d54d0cc686836cb340fcef]
 
 Subject to regulation 8, in respect of a relevant fossil fuel plant, the emissions from it that are attributable to the use of fossil fuel in any year (“EPS annual emissions”) are—
 
 - (a) the total emissions of carbon dioxide which are the direct result of operations and processes carried out in the generation of electricity during the year by that relevant fossil fuel plant; and
 - (b) if not already included in the total under paragraph (a), the total emissions of carbon dioxide directly attributable to the production of the fuel produced by any associated gasification plant and used by the fossil fuel plant in the generation of electricity in that year.
 
-### 8. EPS annual emissions: reduction for CHPQA[^key-042b48b6e4d87b99f756caed6631c9cd]
+### 8. EPS annual emissions: reduction for CHPQA[^c-042b48b6e4d87b99f756caed6631c9cd]
 
 Where a relevant fossil fuel plant is a combined heat and power generating station, EPS annual emissions are—
 
@@ -215,7 +215,7 @@ where—
 
 *Extent: E+W*
 
-### 9. Emissions limit notification duty[^key-f4bbba5a8033e1d3ed013a35205af039]
+### 9. Emissions limit notification duty[^c-f4bbba5a8033e1d3ed013a35205af039]
 
 (1) If any of the conditions in paragraph (3) are met in relation to a relevant fossil fuel plant, the operator of the plant must submit a notification (“an emissions limit notification”) to the Environment Agency within 31 days of the date on which the condition is met (or if more than one condition is met, within 31 days of the date on which the earliest condition is met).
 
@@ -235,7 +235,7 @@ where—
 
 (4) An emissions limit notification must be submitted in such form and manner as the Environment Agency may reasonably require.
 
-### 10. CCS notification[^key-e6998c28f684927a65bb5a92c42dea05]
+### 10. CCS notification[^c-e6998c28f684927a65bb5a92c42dea05]
 
 (1) For the purposes of section 58 of the Act, the Environment Agency must not consider a complete CCS system to be ready for use unless it has first received from the operator a notification (“a CCS notification”) in respect of the system.
 
@@ -247,7 +247,7 @@ where—
 
 (3) A CCS notification must be submitted in such form and manner as the Environment Agency may reasonably require.
 
-### 11. EPS annual emissions notification[^key-830f0dca195fa0d084346d129f3457b5]
+### 11. EPS annual emissions notification[^c-830f0dca195fa0d084346d129f3457b5]
 
 (1) If the condition in paragraph (2) is satisfied in relation to a relevant fossil fuel plant, the operator of the plant must submit a notification (“an EPS annual emissions notification”) to the Environment Agency in accordance with paragraphs (4) and (5).
 
@@ -270,7 +270,7 @@ is greater than the emissions limit for that plant for the year covered by the r
 - (c) be submitted to the Environment Agency within 10 days of the submission of the verified Greenhouse Gas Emissions Report referred to in paragraph (2); and
 - (d) be submitted in such form and manner as the Environment Agency may reasonably require.
 
-### 12. Charges[^key-93ca5a34d3fa99289494ad90e558e7fb]
+### 12. Charges[^c-93ca5a34d3fa99289494ad90e558e7fb]
 
 (1) The Secretary of State may make, and from time to time revise, a scheme for the charging by the Environment Agency of fees or other charges for the carrying out of functions conferred on it by these Regulations (“an EPS charging scheme”).
 
@@ -289,7 +289,7 @@ is greater than the emissions limit for that plant for the year covered by the r
 
 (5) An EPS charging scheme must be made publically available by the Secretary of State before it has effect.
 
-### 13. Information notices[^key-822dc093d92befe8d1027e969663e600]
+### 13. Information notices[^c-822dc093d92befe8d1027e969663e600]
 
 (1) For any of the purposes mentioned in paragraph (2), the Environment Agency may, by notice served on an operator or the operator of an associated gasification plant (“an information notice”), require that person to furnish to the Environment Agency such information as is stated in the notice, in such form and within such period following service of the notice or at such time as is so stated.
 
@@ -302,7 +302,7 @@ is greater than the emissions limit for that plant for the year covered by the r
   - (i) the carbon dioxide emissions of the associated gasification plant; and
   - (ii) the amount of fuel produced by the associated gasification plant and used by the relevant fossil fuel plant.
 
-### 14. Enforcement notices[^key-31237acc8bd49b8e6ef8c63c85ec33fd]
+### 14. Enforcement notices[^c-31237acc8bd49b8e6ef8c63c85ec33fd]
 
 (1) Where the Environment Agency is of the view that an operator has breached the emissions limit duty, the Environment Agency may serve a notice (“an enforcement notice”) on that operator.
 
@@ -323,7 +323,7 @@ is greater than the emissions limit for that plant for the year covered by the r
 
 (6) The Environment Agency may vary or withdraw an enforcement notice at any time by further notice served on the operator.
 
-### 15. Civil penalty notices[^key-cb185f22c6d7e7b8ce9b5b84e077a330]
+### 15. Civil penalty notices[^c-cb185f22c6d7e7b8ce9b5b84e077a330]
 
 (1) Subject to paragraph (7), where the Environment Agency is of the view that an operator has breached the emissions limit duty, the Environment Agency may serve a notice (“a civil penalty notice”) on that operator which states the financial penalty which is payable in respect of that breach.
 
@@ -363,14 +363,14 @@ is greater than the emissions limit for that plant for the year covered by the r
 
 (13) Any sum received by the Environment Agency under this regulation must be paid into the Consolidated Fund.
 
-### 16. Directions under section 59(2) of the Act[^key-134e9ec181b1495a8fa53c33d9787e77]
+### 16. Directions under section 59(2) of the Act[^c-134e9ec181b1495a8fa53c33d9787e77]
 
 Where the Secretary of State makes a direction under section 59(2) of the Act, the Environment Agency must—
 
 - (a) treat the emissions limit duty as suspended or modified as required by the direction; and
 - (b) comply with any requirement imposed on it by the direction.
 
-### 17. Appeals[^key-0d26a7ae97d42e342987d4b5fb259781]
+### 17. Appeals[^c-0d26a7ae97d42e342987d4b5fb259781]
 
 (1) An operator may appeal to the First-tier Tribunal against—
 
@@ -387,7 +387,7 @@ Where the Secretary of State makes a direction under section 59(2) of the Act, t
 - (b) direct the Environment Agency to vary or withdraw the enforcement notice or civil penalty notice; or
 - (c) impose such other enforcement notice or civil penalty notice as the First-tier Tribunal thinks fit.
 
-### 18. Publication of information[^key-7b84754a9a1178253ca5d26d054c4ac8]
+### 18. Publication of information[^c-7b84754a9a1178253ca5d26d054c4ac8]
 
 (1) Subject to paragraph (3), the Environment Agency may publish any of the information stated in paragraph (2) in relation to an enforcement notice or civil penalty notice on or after the later of—
 
@@ -406,7 +406,7 @@ Where the Secretary of State makes a direction under section 59(2) of the Act, t
 - (a) the operator is found on appeal not to have breached the emissions limit duty; or
 - (b) the enforcement notice or civil penalty notice has been withdrawn.
 
-### 19. Enforcement by the High Court[^key-4fdc6a040ac32768642fe384bfd07453]
+### 19. Enforcement by the High Court[^c-4fdc6a040ac32768642fe384bfd07453]
 
 (1) If an operator fails to comply with a relevant obligation, the High Court may, on an application by the Environment Agency, make an order requiring the operator to comply with the relevant obligation.
 
@@ -421,7 +421,7 @@ Where the Secretary of State makes a direction under section 59(2) of the Act, t
 - (b) an enforcement notice; or
 - (c) a civil penalty notice.
 
-### 20. Amendment of the GGETS Regulations[^key-8cd4468b1b10fa370c9822a6630573d7]
+### 20. Amendment of the GGETS Regulations[^c-8cd4468b1b10fa370c9822a6630573d7]
 
 (1) At the end of regulation 46(1)(a)(ii) of the GGETS Regulations, after “;” omit “or”.
 
@@ -431,7 +431,7 @@ Where the Secretary of State makes a direction under section 59(2) of the Act, t
 
 .
 
-### 21. Documents[^key-e72408a77002c917940fb1826508ef21]
+### 21. Documents[^c-e72408a77002c917940fb1826508ef21]
 
 The Schedule (documents) has effect.
 
@@ -449,7 +449,7 @@ Department of Energy and Climate Change
 
 Regulation 21
 
-**1.**[^key-736f916ddb244a542c3c53f19b1549d6] (1) Subject to sub-paragraph (2), the provisions of this Schedule apply to any document issued under these Regulations.
+**1.**[^c-736f916ddb244a542c3c53f19b1549d6] (1) Subject to sub-paragraph (2), the provisions of this Schedule apply to any document issued under these Regulations.
 
 (2) The provisions of this Schedule do not apply to—
 
@@ -457,11 +457,11 @@ Regulation 21
 - (b) a CCS notification; and
 - (c) an EPS annual emissions notification.
 
-**2.**[^key-1031ba3d454f74daa15b1921af816d84] A document must be in writing and dated.
+**2.**[^c-1031ba3d454f74daa15b1921af816d84] A document must be in writing and dated.
 
-**3.**[^key-27773995a83f889515fcab2681654c7e] A document given to a person on a non-working day is to be treated as given on the next following working day.
+**3.**[^c-27773995a83f889515fcab2681654c7e] A document given to a person on a non-working day is to be treated as given on the next following working day.
 
-**4.**[^key-1022ad6f7f358b4b66786e0bd8a03344] A document may be given to a person by—
+**4.**[^c-1022ad6f7f358b4b66786e0bd8a03344] A document may be given to a person by—
 
 - (a) delivering it to that person in person;
 - (b) leaving it at that person’s proper address;
@@ -469,13 +469,13 @@ Regulation 21
 - (d) sending it by email to that person; or
 - (e) submitting it by means of a dedicated portal on that person’s website.
 
-**5.**[^key-6bf7603fa2b5de0786a4c8d2fc37915e] For the purposes of paragraph 4(a), a document is given to—
+**5.**[^c-6bf7603fa2b5de0786a4c8d2fc37915e] For the purposes of paragraph 4(a), a document is given to—
 
 - (a) a body corporate, where it is given to a person having control or management of that body;
 - (b) a partnership, where it is given to a partner or a person having control or management of the partnership business;
 - (c) an unincorporated association, where it is given to a person having management responsibilities in respect of the association.
 
-**6.**[^key-3dd47cf213a1cfd312d34bac8267eb3a] For the purposes of paragraph 4(d), a document is given to—
+**6.**[^c-3dd47cf213a1cfd312d34bac8267eb3a] For the purposes of paragraph 4(d), a document is given to—
 
 - (a) a body corporate, where it is sent to an email address of—
   - (i) the body corporate, or
@@ -489,9 +489,9 @@ Regulation 21
   where that address is supplied by that partnership for the conduct of the affairs of that partnership;
 - (c) an unincorporated association, where it is sent to an email address of a person having management responsibilities in respect of the association, where that address is supplied by that association for the conduct of the affairs of that association.
 
-**7.**[^key-1da1946b110b45aba509080328a7a96c] A person may, in substitution for the proper address which would otherwise apply, state an address in the United Kingdom at which that person or someone on that person’s behalf may be given documents, which address is to be treated instead as that person’s proper address.
+**7.**[^c-1da1946b110b45aba509080328a7a96c] A person may, in substitution for the proper address which would otherwise apply, state an address in the United Kingdom at which that person or someone on that person’s behalf may be given documents, which address is to be treated instead as that person’s proper address.
 
-**8.**[^key-a390e989fc26850aecfc8e3065cbb5e7] In this Schedule—
+**8.**[^c-a390e989fc26850aecfc8e3065cbb5e7] In this Schedule—
 
 - “dedicated portal” means a facility on a person’s website which is established to allow electronic communication with that person;
 - “non-working day” means—
@@ -565,92 +565,92 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00001]: Footnote: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32) which has been amended by [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638), regulation 48(1) and (2), Schedule 13, Part 1, paragraph 8 and Schedule 14, Part 1.
 
-[^key-07c712ee872087163768dd758e51ebe6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/933/regulation/1) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-07c712ee872087163768dd758e51ebe6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/933/regulation/1) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-42bb89214b991ab10de1d21a35bde767]: Commencement: Reg. 2 in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-42bb89214b991ab10de1d21a35bde767]: Commencement: Reg. 2 in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-2f84cd0f7316ef1a4023f197d1e831dd]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) modified (temp.) (29.5.2021) by [The Combined Heat and Power Quality Assurance (Temporary Modifications) Regulations 2021 (S.I. 2021/656)](https://www.legislation.gov.uk/uksi/2021/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/656/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/656/regulation/2/2)
+[^c-2f84cd0f7316ef1a4023f197d1e831dd]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) modified (temp.) (29.5.2021) by [The Combined Heat and Power Quality Assurance (Temporary Modifications) Regulations 2021 (S.I. 2021/656)](https://www.legislation.gov.uk/uksi/2021/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/656/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/656/regulation/2/2)
 
-[^key-9fe8b6d6b6d622671f753d148047f105]: Textual amendment: Words in reg. 2 substituted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/1108/regulation/6)
+[^c-9fe8b6d6b6d622671f753d148047f105]: Textual amendment: Words in reg. 2 substituted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2016/1108/regulation/6)
 
-[^key-33d54a5c40cb42dc4b689841b5990a46]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) inserted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/a)
+[^c-33d54a5c40cb42dc4b689841b5990a46]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) inserted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/a)
 
 [^f00003]: Footnote: [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038) which has been amended by [S.I. 2013/1037](https://www.legislation.gov.uk/uksi/2013/1037), [S.I. 2013/3135](https://www.legislation.gov.uk/uksi/2013/3135) and [S.I. 2014/3125](https://www.legislation.gov.uk/uksi/2014/3125).
 
-[^key-d171ed41fdc5a2d7b09565ae70a67f03]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) substituted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/b)
+[^c-d171ed41fdc5a2d7b09565ae70a67f03]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) substituted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/b)
 
-[^key-d45c6dd97143e903ddb7bea93b90fe95]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) substituted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/c)
+[^c-d45c6dd97143e903ddb7bea93b90fe95]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) substituted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/c)
 
 [^f00004]: Footnote: See the requirement in a Greenhouse Gas Emissions Permit inserted pursuant to Schedule 4, paragraph 2(3)(b) of the GGETS Regulations.
 
-[^key-79f8f2bedfb4144c15b156acf45dd66c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) substituted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/d)
+[^c-79f8f2bedfb4144c15b156acf45dd66c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) substituted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/d)
 
 [^f00005]: Footnote: OJ No L 181, 12.7.2012, p 30.
 
-[^key-c8394e20f0e167e5c6786f8a9751bde0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) substituted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/e)
+[^c-c8394e20f0e167e5c6786f8a9751bde0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) substituted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/e)
 
 [^f00006]: Footnote: OJ No L 181, 12.7.2012, p 1.
 
-[^key-89b76e3d16bb6b65afd5682de9d66381]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) inserted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(f)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/f)
+[^c-89b76e3d16bb6b65afd5682de9d66381]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2015/933/regulation/2) inserted (E.) (17.5.2022) by [The Emissions Performance Standard (Amendment) Regulations 2022 (S.I. 2022/467)](https://www.legislation.gov.uk/uksi/2022/467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/467/regulation/1/1), [2(f)](https://www.legislation.gov.uk/uksi/2022/467/regulation/2/f)
 
-[^key-0a3f0137d9d55dbdc3cd760d6f3d986f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/933/regulation/3) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-0a3f0137d9d55dbdc3cd760d6f3d986f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/933/regulation/3) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
 [^f00007]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 36 was amended by the Energy Act 2004, section 93(1) and (3), the Planning Act 2008, section 36 and Schedule 2, paragraphs 31, 32(1), (2) and (3), the Marine and Coastal Access Act 2009, section 12(7)(a) and (8), and [S.I. 2006/1054](https://www.legislation.gov.uk/uksi/2006/1054), article 2 and Schedule 1, Part 1, paragraph 1(1) and (2).
 
 [^f00008]: Footnote: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231).
 
-[^key-fb64237e83e3f68a109122a8f18414cc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/933/regulation/4) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-fb64237e83e3f68a109122a8f18414cc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/933/regulation/4) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-5b8a9de19fb20ec84987ad5fcb29bb54]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/933/regulation/5) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-5b8a9de19fb20ec84987ad5fcb29bb54]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/933/regulation/5) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-36fa643c14e6ca027f7d74bf9d95d3dd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/933/regulation/6) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-36fa643c14e6ca027f7d74bf9d95d3dd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/933/regulation/6) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
 [^f00009]: Footnote: “Complete CCS system” has the same meaning as in section 58 of the Act.
 
-[^key-27f8d03948d54d0cc686836cb340fcef]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/933/regulation/7) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-27f8d03948d54d0cc686836cb340fcef]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/933/regulation/7) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-042b48b6e4d87b99f756caed6631c9cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/933/regulation/8) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-042b48b6e4d87b99f756caed6631c9cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/933/regulation/8) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-f4bbba5a8033e1d3ed013a35205af039]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/933/regulation/9) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-f4bbba5a8033e1d3ed013a35205af039]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/933/regulation/9) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-e6998c28f684927a65bb5a92c42dea05]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/933/regulation/10) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-e6998c28f684927a65bb5a92c42dea05]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/933/regulation/10) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-830f0dca195fa0d084346d129f3457b5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/933/regulation/11) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-830f0dca195fa0d084346d129f3457b5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/933/regulation/11) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-93ca5a34d3fa99289494ad90e558e7fb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/933/regulation/12) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-93ca5a34d3fa99289494ad90e558e7fb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/933/regulation/12) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-822dc093d92befe8d1027e969663e600]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/933/regulation/13) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-822dc093d92befe8d1027e969663e600]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/933/regulation/13) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-31237acc8bd49b8e6ef8c63c85ec33fd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/933/regulation/14) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-31237acc8bd49b8e6ef8c63c85ec33fd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/933/regulation/14) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-cb185f22c6d7e7b8ce9b5b84e077a330]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/933/regulation/15) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-cb185f22c6d7e7b8ce9b5b84e077a330]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/933/regulation/15) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-134e9ec181b1495a8fa53c33d9787e77]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/933/regulation/16) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-134e9ec181b1495a8fa53c33d9787e77]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/933/regulation/16) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-0d26a7ae97d42e342987d4b5fb259781]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/933/regulation/17) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-0d26a7ae97d42e342987d4b5fb259781]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/933/regulation/17) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-7b84754a9a1178253ca5d26d054c4ac8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/933/regulation/18) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-7b84754a9a1178253ca5d26d054c4ac8]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/933/regulation/18) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-4fdc6a040ac32768642fe384bfd07453]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/933/regulation/19) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-4fdc6a040ac32768642fe384bfd07453]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/933/regulation/19) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-8cd4468b1b10fa370c9822a6630573d7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/933/regulation/20) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-8cd4468b1b10fa370c9822a6630573d7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/933/regulation/20) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-e72408a77002c917940fb1826508ef21]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/933/regulation/21) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-e72408a77002c917940fb1826508ef21]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/933/regulation/21) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-736f916ddb244a542c3c53f19b1549d6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/1) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-736f916ddb244a542c3c53f19b1549d6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/1) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-1031ba3d454f74daa15b1921af816d84]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/2) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-1031ba3d454f74daa15b1921af816d84]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/2) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-27773995a83f889515fcab2681654c7e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/3) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-27773995a83f889515fcab2681654c7e]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/3) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-1022ad6f7f358b4b66786e0bd8a03344]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/4) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-1022ad6f7f358b4b66786e0bd8a03344]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/4) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-6bf7603fa2b5de0786a4c8d2fc37915e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/5) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-6bf7603fa2b5de0786a4c8d2fc37915e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/5) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-3dd47cf213a1cfd312d34bac8267eb3a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/6) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-3dd47cf213a1cfd312d34bac8267eb3a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/6) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-1da1946b110b45aba509080328a7a96c]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/7) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-1da1946b110b45aba509080328a7a96c]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/7) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
-[^key-a390e989fc26850aecfc8e3065cbb5e7]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/8) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
+[^c-a390e989fc26850aecfc8e3065cbb5e7]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/933/schedule/paragraph/8) in force at 25.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/933/regulation/1/1)
 
 [^f00010]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

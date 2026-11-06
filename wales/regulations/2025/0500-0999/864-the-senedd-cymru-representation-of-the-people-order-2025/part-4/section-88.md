@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Rules of procedure[^key-574f906bf813e56ad98568e302c5a9ba]
+## 88. Rules of procedure[^c-574f906bf813e56ad98568e302c5a9ba]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-574f906bf813e56ad98568e302c5a9ba]: Commencement: Art. 88 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-574f906bf813e56ad98568e302c5a9ba]: Commencement: Art. 88 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00063]: Footnote: At the time this Order was made, the relevant “authority” is the Civil Procedure Rule Committee as set up under section 2 of the Civil Procedure Act [1997 (c. 12)](https://www.legislation.gov.uk/ukpga/1997/12).

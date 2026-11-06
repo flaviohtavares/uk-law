@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. The National Health Service Act 2006[^key-76fe7e6fd6df12566b59d18e8870eb93]
+## 3. The National Health Service Act 2006[^c-76fe7e6fd6df12566b59d18e8870eb93]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ In the National Health Service Act 2006—
 
 ## Annotations
 
-[^key-76fe7e6fd6df12566b59d18e8870eb93]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-76fe7e6fd6df12566b59d18e8870eb93]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23695391]: Marginal citation: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41); section 183 was amended by paragraph 98 of Schedule 4 to the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12F. Spatial development strategy timetable: further provision[^key-7d6fc29b9587be7529b03bdeead25eaf]
+## 12F. Spatial development strategy timetable: further provision[^c-7d6fc29b9587be7529b03bdeead25eaf]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ the Secretary of State may prepare a spatial development strategy timetable and 
 
 ## Annotations
 
-[^key-7d6fc29b9587be7529b03bdeead25eaf]: Textual amendment: Pt. 1A inserted (18.12.2025 for the purposes of making regulations, otherwise prosp.) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/1), [118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-7d6fc29b9587be7529b03bdeead25eaf]: Textual amendment: Pt. 1A inserted (18.12.2025 for the purposes of making regulations, otherwise prosp.) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/1), [118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

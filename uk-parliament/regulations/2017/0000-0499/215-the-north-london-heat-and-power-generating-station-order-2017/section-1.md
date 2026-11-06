@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-078f5c9a401e23b9b8602e50d18a4c19]
+## 1. Citation and commencement[^c-078f5c9a401e23b9b8602e50d18a4c19]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the North London Heat and Power Generating Station Or
 
 ## Annotations
 
-[^key-078f5c9a401e23b9b8602e50d18a4c19]: Commencement: Art. 1 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-078f5c9a401e23b9b8602e50d18a4c19]: Commencement: Art. 1 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

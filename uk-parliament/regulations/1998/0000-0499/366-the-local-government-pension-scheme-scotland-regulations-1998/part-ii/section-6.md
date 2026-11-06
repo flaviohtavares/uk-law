@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Joining the Scheme[^key-c30c961e181cdd89191f18bd15edd19e]
+## 6. Joining the Scheme[^c-c30c961e181cdd89191f18bd15edd19e]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c30c961e181cdd89191f18bd15edd19e]: Commencement: Reg. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-c30c961e181cdd89191f18bd15edd19e]: Commencement: Reg. 6 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00008]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).

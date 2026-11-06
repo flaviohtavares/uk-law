@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Crucorney, Grosmont and Skenfrith — change in community boundaries and consequential changes to electoral arrangements[^key-aacd47acb59c15086c80ee8eaa3d6f22][^key-7d6978858ec1baefdcf8ebc596a580c1]
+## 86. Crucorney, Grosmont and Skenfrith — change in community boundaries and consequential changes to electoral arrangements[^c-aacd47acb59c15086c80ee8eaa3d6f22][^c-7d6978858ec1baefdcf8ebc596a580c1]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of Crucorney shown hatched on Map 66—
 
 ## Annotations
 
-[^key-aacd47acb59c15086c80ee8eaa3d6f22]: Commencement: Art. 86 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-aacd47acb59c15086c80ee8eaa3d6f22]: Commencement: Art. 86 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-7d6978858ec1baefdcf8ebc596a580c1]: Commencement: [Art. 86](https://www.legislation.gov.uk/wsi/2021/1227/article/86) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-7d6978858ec1baefdcf8ebc596a580c1]: Commencement: [Art. 86](https://www.legislation.gov.uk/wsi/2021/1227/article/86) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

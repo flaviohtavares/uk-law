@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.122-CVL. Release of resigning or removed liquidator[^key-251c08459a02efd8998007118dd164a5]
+## 4.122-CVL. Release of resigning or removed liquidator[^c-251c08459a02efd8998007118dd164a5]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-251c08459a02efd8998007118dd164a5]: Commencement: [Rule 4.122CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.122CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-251c08459a02efd8998007118dd164a5]: Commencement: [Rule 4.122CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.122CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00076]: Marginal citation: \[FORM 4.40\]
 

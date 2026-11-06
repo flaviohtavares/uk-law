@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86A. Preferences relating to sixth-form education: local authority arrangements[^key-d00f36a263d7071431c3a763158da06e][^key-5177265949adaa73e26402711f36dc2e]
+## 86A. Preferences relating to sixth-form education: local authority arrangements[^c-d00f36a263d7071431c3a763158da06e][^c-5177265949adaa73e26402711f36dc2e]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ that person shall be regarded for the purposes of this Chapter as having express
 
 ## Annotations
 
-[^key-d00f36a263d7071431c3a763158da06e]: Textual amendment: Ss. 86A, 86B inserted (26.1.2009 for E., 31.3.2009 for W.) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 150](https://www.legislation.gov.uk/ukpga/2008/25/section/150), [173(3)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/3/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/3077/article/6)); [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/784/article/4))
+[^c-d00f36a263d7071431c3a763158da06e]: Textual amendment: Ss. 86A, 86B inserted (26.1.2009 for E., 31.3.2009 for W.) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 150](https://www.legislation.gov.uk/ukpga/2008/25/section/150), [173(3)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/3/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/3077/article/6)); [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/784/article/4))
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27E. ESOS action plan review[^key-6be0ea0a3e81f0a0adebc460d6bb8bf8]
+## 27E. ESOS action plan review[^c-6be0ea0a3e81f0a0adebc460d6bb8bf8]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6be0ea0a3e81f0a0adebc460d6bb8bf8]: Textual amendment: [Pt. 4 Ch. 3B](https://www.legislation.gov.uk/uksi/2014/1643/part/4/chapter/3B) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/701/regulation/17)
+[^c-6be0ea0a3e81f0a0adebc460d6bb8bf8]: Textual amendment: [Pt. 4 Ch. 3B](https://www.legislation.gov.uk/uksi/2014/1643/part/4/chapter/3B) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/701/regulation/17)

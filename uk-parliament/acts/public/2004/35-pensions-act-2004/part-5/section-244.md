@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Investment principles[^key-e7041dfaec7329e8dcc7b4bdb2cf9232]
+## 244. Investment principles[^c-e7041dfaec7329e8dcc7b4bdb2cf9232]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ For section 35 of the Pensions Act 1995 (investment principles) substitute—
 
 ## Annotations
 
-[^key-e7041dfaec7329e8dcc7b4bdb2cf9232]: Commencement: S. 244 in force at 4.12.2005 for specified purposes and 30.12.2005 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)
+[^c-e7041dfaec7329e8dcc7b4bdb2cf9232]: Commencement: S. 244 in force at 4.12.2005 for specified purposes and 30.12.2005 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1)

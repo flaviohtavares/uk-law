@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Interim preservation of estate[^key-8eb91a75ade0c0ab708ea963480326a3]
+## 39. Interim preservation of estate[^c-8eb91a75ade0c0ab708ea963480326a3]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eb91a75ade0c0ab708ea963480326a3]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/21/section/39) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-8eb91a75ade0c0ab708ea963480326a3]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/21/section/39) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

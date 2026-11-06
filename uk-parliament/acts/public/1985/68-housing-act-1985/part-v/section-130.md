@@ -28,7 +28,7 @@ summary: ''
 - (aa)[^c15064131] on conveyance of the freehold, or a grant or assignment of a long lease of a dwelling-house by a person against whom the right to buy was exercisable by virtue of section 171A (preservation of right to buy on disposal to private sector landlord) to a person who was a qualifying person for the purposes of the preserved right to buy and in relation to whom that dwelling-house was the qualifying dwelling-house, or
 - (ab)[^c15064141] in pursuance of the provision required by paragraphs 3 to 5 or paragraph 7 of Schedule 6A (redemption of landlord’s share), or
 - (b) in pursuance of the provision required by paragraph 1 of Schedule 8 (terms of shared ownership lease: right to acquire additional shares), or any other provision to the like effect or[^c15064151].
-- (c) in pursuance of any provision of, or required by, this Part [^key-bc840a5876cdeb8eda918ec4f15193dc]... by virtue of section 17 of the Housing Act 1996 (the right to acquire).
+- (c) in pursuance of any provision of, or required by, this Part [^c-bc840a5876cdeb8eda918ec4f15193dc]... by virtue of section 17 of the Housing Act 1996 (the right to acquire).
 
 (3) A previous discount qualifies for the purposes of this section if it was given—
 
@@ -65,7 +65,7 @@ then, so much of the discount as has been so recovered shall be disregarded for 
 
 [^c15064151]: Textual amendment: S. 130(2)(c) and word “or” preceding it inserted (1.4.1997) by [S.I. 1997/627](https://www.legislation.gov.uk/uksi/1997/627), [art. 2](https://www.legislation.gov.uk/uksi/1997/627/article/2), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/1997/627/schedule/paragraph/3/3)
 
-[^key-bc840a5876cdeb8eda918ec4f15193dc]: Textual amendment: Words in [s. 130(2)(c)](https://www.legislation.gov.uk/ukpga/1985/68/section/130/2/c) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(j)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/j) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
+[^c-bc840a5876cdeb8eda918ec4f15193dc]: Textual amendment: Words in [s. 130(2)(c)](https://www.legislation.gov.uk/ukpga/1985/68/section/130/2/c) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(j)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/j) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
 
 [^c19076721]: Textual amendment: Words in s. 130(3)(b) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 81](https://www.legislation.gov.uk/ukpga/2004/33/section/81), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 29(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/29/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 

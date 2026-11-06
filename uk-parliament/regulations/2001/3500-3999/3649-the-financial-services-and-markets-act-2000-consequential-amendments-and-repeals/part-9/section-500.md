@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 500. Interpretation of the 1995 Order: meaning of “insurer”[^key-dd80e7be55f5f8714d4da13106467b05]
+## 500. Interpretation of the 1995 Order: meaning of “insurer”[^c-dd80e7be55f5f8714d4da13106467b05]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ Article 2 of the Value Added Tax (Special Provisions) Order 1995 (interpretation
 
 ## Annotations
 
-[^key-dd80e7be55f5f8714d4da13106467b05]: Commencement: Art. 500 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-dd80e7be55f5f8714d4da13106467b05]: Commencement: Art. 500 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

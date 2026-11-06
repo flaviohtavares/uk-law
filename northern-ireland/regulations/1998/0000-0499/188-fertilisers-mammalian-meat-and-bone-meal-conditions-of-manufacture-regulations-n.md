@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-Fertilisers (Mammalian Meat and Bone Meal) (Conditions of Manufacture) Regulations (Northern Ireland) 1998 (revoked)[^key-47776ba9e20edb7f6cd45dd6d0a814fa]
+Fertilisers (Mammalian Meat and Bone Meal) (Conditions of Manufacture) Regulations (Northern Ireland) 1998 (revoked)[^c-47776ba9e20edb7f6cd45dd6d0a814fa]
 
 Made
 
@@ -40,44 +40,44 @@ Coming into operation
 
 6th July 1998
 
-[^key-47776ba9e20edb7f6cd45dd6d0a814fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47776ba9e20edb7f6cd45dd6d0a814fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-47776ba9e20edb7f6cd45dd6d0a814fa]
+## 1. Citation and commencement[^c-47776ba9e20edb7f6cd45dd6d0a814fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-47776ba9e20edb7f6cd45dd6d0a814fa]
+## 2. Interpretation[^c-47776ba9e20edb7f6cd45dd6d0a814fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on the production of mammalian meat and bone meal for use as or in the production of fertilisers[^key-47776ba9e20edb7f6cd45dd6d0a814fa]
+## 3. Restriction on the production of mammalian meat and bone meal for use as or in the production of fertilisers[^c-47776ba9e20edb7f6cd45dd6d0a814fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of authorised officers[^key-47776ba9e20edb7f6cd45dd6d0a814fa]
+## 4. Powers of authorised officers[^c-47776ba9e20edb7f6cd45dd6d0a814fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Obstruction[^key-47776ba9e20edb7f6cd45dd6d0a814fa]
+## 5. Obstruction[^c-47776ba9e20edb7f6cd45dd6d0a814fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-47776ba9e20edb7f6cd45dd6d0a814fa]
+## 6. Offences and penalties[^c-47776ba9e20edb7f6cd45dd6d0a814fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Time limit for prosecutions[^key-47776ba9e20edb7f6cd45dd6d0a814fa]
+## 7. Time limit for prosecutions[^c-47776ba9e20edb7f6cd45dd6d0a814fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47776ba9e20edb7f6cd45dd6d0a814fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47776ba9e20edb7f6cd45dd6d0a814fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-47776ba9e20edb7f6cd45dd6d0a814fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47776ba9e20edb7f6cd45dd6d0a814fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47776ba9e20edb7f6cd45dd6d0a814fa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/188) revoked (18.7.2002) by [Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (S.R. 2002/225)](https://www.legislation.gov.uk/nisr/2002/225), [reg. 1](https://www.legislation.gov.uk/nisr/2002/225/regulation/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/I)
+[^c-47776ba9e20edb7f6cd45dd6d0a814fa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/188) revoked (18.7.2002) by [Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (S.R. 2002/225)](https://www.legislation.gov.uk/nisr/2002/225), [reg. 1](https://www.legislation.gov.uk/nisr/2002/225/regulation/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/I)

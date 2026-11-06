@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. List of emerging Category 1 services[^key-bc2fc70a37d19bf1cf37d1f91bf6ab1e][^key-99b06e0512d2e29adc913edd4196edeb]
+## 97. List of emerging Category 1 services[^c-bc2fc70a37d19bf1cf37d1f91bf6ab1e][^c-99b06e0512d2e29adc913edd4196edeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc2fc70a37d19bf1cf37d1f91bf6ab1e]: Commencement: S. 97 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-bc2fc70a37d19bf1cf37d1f91bf6ab1e]: Commencement: S. 97 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-99b06e0512d2e29adc913edd4196edeb]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/50/section/97) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z4)
+[^c-99b06e0512d2e29adc913edd4196edeb]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/50/section/97) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z4)

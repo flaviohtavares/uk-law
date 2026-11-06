@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendment of regulation 14 (consent to pipe-line works)[^key-e84f89e33f96a96b76a5fff8f0391800]
+## 38. Amendment of regulation 14 (consent to pipe-line works)[^c-e84f89e33f96a96b76a5fff8f0391800]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ In regulation 14—
 
 ## Annotations
 
-[^key-e84f89e33f96a96b76a5fff8f0391800]: Commencement: Reg. 38 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-e84f89e33f96a96b76a5fff8f0391800]: Commencement: Reg. 38 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**114.**[^key-7d7e32a4cefc8ec0077ddb87eddd4209] In regulation 1, after paragraph (2), insert—
+**114.**[^c-7d7e32a4cefc8ec0077ddb87eddd4209] In regulation 1, after paragraph (2), insert—
 
 > (3) These Regulations form part of a code of law relating to the historic environment of Wales.
 
 ## Annotations
 
-[^key-7d7e32a4cefc8ec0077ddb87eddd4209]: Commencement: [Reg. 114](https://www.legislation.gov.uk/wsi/2024/924/regulation/114) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-7d7e32a4cefc8ec0077ddb87eddd4209]: Commencement: [Reg. 114](https://www.legislation.gov.uk/wsi/2024/924/regulation/114) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

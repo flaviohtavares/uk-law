@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Excise duty on the removal of goods to Northern Ireland[^c24415741][^key-b37ea7b823f57a62413dc9134a238050]
+## 4. Excise duty on the removal of goods to Northern Ireland[^c24415741][^c-b37ea7b823f57a62413dc9134a238050]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Each of the following is a “relevant excise duty provision”—
 
-- (a)[^key-c50d73075526076f80ce8576fa914b2a] section 47[^key-862a2672001d4645bf762385e8f064f8] of F(No.2) A 2023 (alcohol);
+- (a)[^c-c50d73075526076f80ce8576fa914b2a] section 47[^c-862a2672001d4645bf762385e8f064f8] of F(No.2) A 2023 (alcohol);
 - (g) section 6 of HODA 1979 (hydrocarbon oil);
 - (h) section 6AA of that Act (biodiesel);
 - (i) section 6AB of that Act (bioblend);
@@ -57,8 +57,8 @@ summary: ''
 
 [^c24415741]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/26/section/4) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-b37ea7b823f57a62413dc9134a238050]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/26/section/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-b37ea7b823f57a62413dc9134a238050]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/26/section/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-c50d73075526076f80ce8576fa914b2a]: Textual amendment: [S. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2020/26/section/4/2/a) substituted for s. 4(2)(a)-(f) (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/20); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-c50d73075526076f80ce8576fa914b2a]: Textual amendment: [S. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2020/26/section/4/2/a) substituted for s. 4(2)(a)-(f) (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/20); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-862a2672001d4645bf762385e8f064f8]: Textual amendment: Words in [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2020/26/section/4/2/a) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 85(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/85/3)
+[^c-862a2672001d4645bf762385e8f064f8]: Textual amendment: Words in [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2020/26/section/4/2/a) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 85(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/85/3)

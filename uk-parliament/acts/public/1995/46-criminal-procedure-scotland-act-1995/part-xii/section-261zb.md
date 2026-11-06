@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261ZB. Exception to rule on inadmissiblity[^key-8e3ba54f61280a77cf76ba6126cedc0b]
+## 261ZB. Exception to rule on inadmissiblity[^c-8e3ba54f61280a77cf76ba6126cedc0b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Evidence of a statement made by a person in response to questioning carried out 
 
 ## Annotations
 
-[^key-8e3ba54f61280a77cf76ba6126cedc0b]: Textual amendment: S. 261ZB and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 34](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/34); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-8e3ba54f61280a77cf76ba6126cedc0b]: Textual amendment: S. 261ZB and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 34](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/34); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

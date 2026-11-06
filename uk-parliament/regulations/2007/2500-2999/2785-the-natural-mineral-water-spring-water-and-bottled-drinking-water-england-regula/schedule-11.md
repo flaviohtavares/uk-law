@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — MINIMUM FREQUENCIES FOR SAMPLING AND ANALYSIS OF SPRING WATER AND BOTTLED DRINKING WATER[^key-49324454f0be6b488784b0b4e2adc517]
+## SCHEDULE 11 — MINIMUM FREQUENCIES FOR SAMPLING AND ANALYSIS OF SPRING WATER AND BOTTLED DRINKING WATER[^c-49324454f0be6b488784b0b4e2adc517]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Regulation 16(5)(c)
 
 ## Annotations
 
-[^key-49324454f0be6b488784b0b4e2adc517]: Textual amendment: Sch. 11 omitted (6.4.2018) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2018/352/regulation/11/c)
+[^c-49324454f0be6b488784b0b4e2adc517]: Textual amendment: Sch. 11 omitted (6.4.2018) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2018/352/regulation/11/c)

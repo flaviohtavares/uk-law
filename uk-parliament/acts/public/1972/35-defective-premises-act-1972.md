@@ -53,7 +53,7 @@ to see that the work which he takes on is done in a workmanlike or, as the case 
 
 arranges for another to take on work for or in connection with the provision of a dwelling shall be treated for the purposes of this section as included among the persons who have taken on the work.
 
-(5) Any cause of action in respect of a breach of the duty imposed by this section shall be deemed, for the purposes of the Limitation Act 1980[^key-2391a3d8d7509e24261fbc1bfcf550cf], to have accrued at the time when the dwelling was completed, but if after that time a person who has done work for or in connection with the provision of the dwelling does further work to rectify the work he has already done, any such cause of action in respect of that further work shall be deemed for those purposes to have accrued at the time when the further work was finished.
+(5) Any cause of action in respect of a breach of the duty imposed by this section shall be deemed, for the purposes of the Limitation Act 1980[^c-2391a3d8d7509e24261fbc1bfcf550cf], to have accrued at the time when the dwelling was completed, but if after that time a person who has done work for or in connection with the provision of the dwelling does further work to rectify the work he has already done, any such cause of action in respect of that further work shall be deemed for those purposes to have accrued at the time when the further work was finished.
 
 ## 2. Cases excluded from the remedy under section 1.
 
@@ -85,7 +85,7 @@ no action shall be brought by any person having or acquiring an interest in the 
 - (a) no action shall be brought by the acquiring authority for breach of the duty imposed by section 1 above in respect of the dwelling; and
 - (b) if any work for or in connection with the provision of the dwelling was done otherwise than in the course of a business by the person in occupation of the dwelling at the time of the compulsory acquisition, the acquiring authority and not that person shall be treated as the person who took on the work and accordingly as owing that duty.
 
-## 2A. Duties relating to work to dwellings etc[^key-924651ec90661bf2ebe957f202635d59]
+## 2A. Duties relating to work to dwellings etc[^c-924651ec90661bf2ebe957f202635d59]
 
 (1) This section applies where a person, in the course of a business, takes on work in relation to any part of a relevant building.
 
@@ -121,7 +121,7 @@ to see that the work is done in a workmanlike or (as the case may be) profession
 - (b) in the case of premises disposed of in any other way, when the disposal of the premises was completed, or a contract for their disposal was entered into, before the commencement of this Act; or
 - (c) in either case, where the relevant transaction disposing of the premises is entered into in pursuance of an enforceable option by which the consideration for the disposal was fixed before the commencement of this Act.
 
-## 4. Landlord’s duty of care in virtue of obligation or right to repair premises demised.[^key-73a71b21d4c7a82a4e2fa94dde4d460d]
+## 4. Landlord’s duty of care in virtue of obligation or right to repair premises demised.[^c-73a71b21d4c7a82a4e2fa94dde4d460d]
 
 (1) Where premises are let under a tenancy which puts on the landlord an obligation to the tenant for the maintenance or repair of the premises, the landlord owes to all persons who might reasonably be expected to be affected by defects in the state of the premises a duty to take such care as is reasonable in all the circumstances to see that they are reasonably safe from personal injury or from damage to their property caused by a relevant defect.
 
@@ -176,11 +176,11 @@ This Act shall bind the Crown, but as regards the Crown’s liability in tort sh
 
 [^c822836]: Modification: Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-2391a3d8d7509e24261fbc1bfcf550cf]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1972/35/section/1/5) substituted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/2), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3) (with [s. 135(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/6))
+[^c-2391a3d8d7509e24261fbc1bfcf550cf]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1972/35/section/1/5) substituted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/2), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3) (with [s. 135(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/6))
 
-[^key-924651ec90661bf2ebe957f202635d59]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/1972/35/section/2A) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 134(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/134/1), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3) (with [s. 134(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/134/2))
+[^c-924651ec90661bf2ebe957f202635d59]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/1972/35/section/2A) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 134(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/134/1), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3) (with [s. 134(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/134/2))
 
-[^key-73a71b21d4c7a82a4e2fa94dde4d460d]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1972/35/section/4) modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/2); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/wsi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/669/article/2/a)
+[^c-73a71b21d4c7a82a4e2fa94dde4d460d]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1972/35/section/4) modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/2); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/wsi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/669/article/2/a)
 
 [^c822841]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
 

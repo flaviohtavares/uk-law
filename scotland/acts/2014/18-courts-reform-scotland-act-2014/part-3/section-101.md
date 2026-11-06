@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Vexatious litigation orders: further provision[^key-300aaccff4206db9c9043f08fe545493]
+## 101. Vexatious litigation orders: further provision[^c-300aaccff4206db9c9043f08fe545493]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-300aaccff4206db9c9043f08fe545493]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2014/18/section/101) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)
+[^c-300aaccff4206db9c9043f08fe545493]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2014/18/section/101) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)

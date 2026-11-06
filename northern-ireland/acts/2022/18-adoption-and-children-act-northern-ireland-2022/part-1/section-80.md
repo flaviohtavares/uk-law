@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Adoption Contact Register: supplementary[^key-3626d731ed91255b27ab6f36b5defccf]
+## 80. Adoption Contact Register: supplementary[^c-3626d731ed91255b27ab6f36b5defccf]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3626d731ed91255b27ab6f36b5defccf]: Commencement: S. 80 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-3626d731ed91255b27ab6f36b5defccf]: Commencement: S. 80 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

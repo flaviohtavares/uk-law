@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Reviews of operation of this Chapter[^key-1f003401983be143f769cbf28e9059a4]
+## 231. Reviews of operation of this Chapter[^c-1f003401983be143f769cbf28e9059a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In the Counter-Terrorism and Security Act 2015, in section 44(2) (provisions the
 
 ## Annotations
 
-[^key-1f003401983be143f769cbf28e9059a4]: Commencement: S. 231 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1f003401983be143f769cbf28e9059a4]: Commencement: S. 231 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

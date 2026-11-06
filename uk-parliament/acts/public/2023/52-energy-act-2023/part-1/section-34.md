@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Liability of officers of entities[^key-05601857fb6079f35f1789d0117c2c82]
+## 34. Liability of officers of entities[^c-05601857fb6079f35f1789d0117c2c82]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ that officer (as well as the body corporate) commits the offence and is liable t
 
 ## Annotations
 
-[^key-05601857fb6079f35f1789d0117c2c82]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/52/section/34) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-05601857fb6079f35f1789d0117c2c82]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/52/section/34) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

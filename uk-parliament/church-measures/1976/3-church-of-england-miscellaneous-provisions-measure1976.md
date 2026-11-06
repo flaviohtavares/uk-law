@@ -36,7 +36,7 @@ A Measure passed by the General Synod of the Church of England to enable provisi
 
 ## 1. Provision by Canon with respect to declarations and other matters required on ordination and admission to office.
 
-(1) Subject to subsection (2) below, it shall be lawful for the General Synod to make provision by Canon for dispensing with or modifying any formal procedure or document required on the occasion of ordination or admission to any office in the Church of England[^key-71980027d22c4bb837197b578cbb2e4e]....
+(1) Subject to subsection (2) below, it shall be lawful for the General Synod to make provision by Canon for dispensing with or modifying any formal procedure or document required on the occasion of ordination or admission to any office in the Church of England[^c-71980027d22c4bb837197b578cbb2e4e]....
 
 (2) Subsection (1) above shall not apply in relation to any declaration of assent to the doctrine of the Church of England which by any Canon made in pursuance of section 2 of the [^c922088]Church of England (Worship and Doctrine) Measure 1974 any person is required to make on any occasion.
 
@@ -44,11 +44,11 @@ A Measure passed by the General Synod of the Church of England to enable provisi
 
 (4) In this section “**ordination**” includes consecration as a bishop; and “admission” to an office includes every step in the procedure by which a person comes into full possession of the office.
 
-(5)[^key-afc29c5a0ff638e8fe42b0007c6ee05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-afc29c5a0ff638e8fe42b0007c6ee05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-f7e6decd75a58959e64d39f6b3e150de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f7e6decd75a58959e64d39f6b3e150de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provision by Canon with respect to licensing of assistant curate for fixed term.[^key-5f444f33bfca0d5d3085ef1c2c1cfd8e]
+## 2. Provision by Canon with respect to licensing of assistant curate for fixed term.[^c-5f444f33bfca0d5d3085ef1c2c1cfd8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -64,13 +64,13 @@ At the end of section 6 of the [^c922094]Cathedral Measure 1963 (relationship of
 
 In section 1(1) of the [^c922096]Benefices (Sequestrations) Measure 1933 (which empowers bishops to determine the amount of the remuneration to be paid to clerks in Holy Orders who perform occasional ecclesiastical duties in vacant benefices), for the words from “to clerks” to the end there shall be substituted the words “for the performance of occasional ecclesiastical duties in any benefice during a vacancy therein and, where any such duty is performed by a person other than a clerk in Holy Orders, the person to whom the remuneration is to be paid”.
 
-## 6. Amendment of law relating to burials in parish burial ground.[^key-1da61e06b4d01b5e46fb74cd55873237]
+## 6. Amendment of law relating to burials in parish burial ground.[^c-1da61e06b4d01b5e46fb74cd55873237]
 
 *Extent: E*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Repeal of s. 13 of Burnley Rectory Act 1890.[^key-5104e6e69be342ea62c934193a8989fa]
+## 7. Repeal of s. 13 of Burnley Rectory Act 1890.[^c-5104e6e69be342ea62c934193a8989fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -80,7 +80,7 @@ In section 1(1) of the [^c922096]Benefices (Sequestrations) Measure 1933 (which 
 
 (2) Any reference in this Measure to any enactment shall be construed as a reference to that enactment as amended by any subsequent enactment.
 
-(3)[^key-e2aa59621b07e34ab9cae1b3a898d0cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e2aa59621b07e34ab9cae1b3a898d0cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This Measure shall extend to the provinces of Canterbury and York except that it shall only extend to the Isle of Man and the Channel Islands in accordance with the following provisions of this section.
 
@@ -92,7 +92,7 @@ In section 1(1) of the [^c922096]Benefices (Sequestrations) Measure 1933 (which 
 
 Sections 1, 3.
 
-### Part I — Repeals under Section 1 of this Measure[^key-b01f6f8dd7146465aaa31fa8a63256c9]
+### Part I — Repeals under Section 1 of this Measure[^c-b01f6f8dd7146465aaa31fa8a63256c9]
 
 **No longer in force.**
 
@@ -118,17 +118,17 @@ Sections 1, 3.
 
 [^c922086]: Commencement: Measure wholly in force at 15.12.1976 see [s. 8(3)](https://www.legislation.gov.uk/ukcm/1976/3/section/8/3).
 
-[^key-71980027d22c4bb837197b578cbb2e4e]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukcm/1976/3/section/1/1) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-71980027d22c4bb837197b578cbb2e4e]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukcm/1976/3/section/1/1) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c922088]: Marginal citation: [1974 No. 2](https://www.legislation.gov.uk/ukcm/1974/2).
 
 [^c922089]: Marginal citation: [1533 c. 19](https://www.legislation.gov.uk/aep/1533/19).
 
-[^key-afc29c5a0ff638e8fe42b0007c6ee05f]: Textual amendment: S. 1(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
+[^c-afc29c5a0ff638e8fe42b0007c6ee05f]: Textual amendment: S. 1(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
 
-[^key-f7e6decd75a58959e64d39f6b3e150de]: Textual amendment: [S. 1(6)](https://www.legislation.gov.uk/ukcm/1976/3/section/1/6) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-f7e6decd75a58959e64d39f6b3e150de]: Textual amendment: [S. 1(6)](https://www.legislation.gov.uk/ukcm/1976/3/section/1/6) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-5f444f33bfca0d5d3085ef1c2c1cfd8e]: Textual amendment: S. 2 repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-5f444f33bfca0d5d3085ef1c2c1cfd8e]: Textual amendment: S. 2 repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
 [^c922092]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukcm/1976/3/section/3) repealed by [Church of England (Miscellaneous Provisions) Measure 1983 (No. 2, SIF 21:3)](https://www.legislation.gov.uk/ukcm/1983/2), [s. 8(11)](https://www.legislation.gov.uk/ukcm/1983/2/section/8/11)
 
@@ -140,12 +140,12 @@ Sections 1, 3.
 
 [^c922096]: Marginal citation: [1933 No. 4](https://www.legislation.gov.uk/ukcm/1933/4).
 
-[^key-1da61e06b4d01b5e46fb74cd55873237]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukcm/1976/3/section/6) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-1da61e06b4d01b5e46fb74cd55873237]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukcm/1976/3/section/6) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-5104e6e69be342ea62c934193a8989fa]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukcm/1976/3/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
+[^c-5104e6e69be342ea62c934193a8989fa]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukcm/1976/3/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
 
-[^key-e2aa59621b07e34ab9cae1b3a898d0cc]: Textual amendment: [S. 8(3)](https://www.legislation.gov.uk/ukcm/1976/3/section/8/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
+[^c-e2aa59621b07e34ab9cae1b3a898d0cc]: Textual amendment: [S. 8(3)](https://www.legislation.gov.uk/ukcm/1976/3/section/8/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
 
 [^c922100]: Modification: The text of ss. 1(6), 4, 5, and Sch. Pts. I, II is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-b01f6f8dd7146465aaa31fa8a63256c9]: Textual amendment: Sch. Pt. 1 repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-b01f6f8dd7146465aaa31fa8a63256c9]: Textual amendment: Sch. Pt. 1 repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)

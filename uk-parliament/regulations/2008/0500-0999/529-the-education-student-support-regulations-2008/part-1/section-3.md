@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Revocation, savings and transitional provisions[^key-dad96a15e9b8298428fac7717b5f8098]
+## 3. Revocation, savings and transitional provisions[^c-dad96a15e9b8298428fac7717b5f8098]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ he is an old system student for the purposes of Parts 4 and 5 in connection with
 
 ## Annotations
 
-[^key-dad96a15e9b8298428fac7717b5f8098]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-dad96a15e9b8298428fac7717b5f8098]: Commencement: Reg. 3 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00038]: Footnote: [S.I. 2007/1336](https://www.legislation.gov.uk/uksi/2007/1336).
 

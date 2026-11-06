@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Orders, regulations and directions.[^key-03c680b97e59502d42da8d0be9a50e9e]
+## 105. Orders, regulations and directions.[^c-03c680b97e59502d42da8d0be9a50e9e]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (2A)[^c20972571] No regulations shall be made under paragraph 12(1) of Schedule 1A (Health Board elections) unless a draft has been laid before, and approved by resolution of, the Scottish Parliament.
 
-(3) No regulations shall be made under section 17L(1)(b)[^c20985661]section 10O, section 10Z7[^key-8f2e2c4df657977e3e7f5a819e121611] , section 12IJ(5), section 12IK(4)[^key-19395f875874ead48e99d9a7e5e9e43f] or sub-paragraphs (1) or (2) of paragraph 6 of Schedule 6 (capital value of and borrowings from relevant endowments or orders under[^c14172961] section 10G, 10Z16(3) or[^key-c6a04c381c0c2d0becde3c1f4ca1e70b] section 99ZB(3)) unless a draft has been laid before Parliament and approved by a resolution of each House of Parliament.
+(3) No regulations shall be made under section 17L(1)(b)[^c20985661]section 10O, section 10Z7[^c-8f2e2c4df657977e3e7f5a819e121611] , section 12IJ(5), section 12IK(4)[^c-19395f875874ead48e99d9a7e5e9e43f] or sub-paragraphs (1) or (2) of paragraph 6 of Schedule 6 (capital value of and borrowings from relevant endowments or orders under[^c14172961] section 10G, 10Z16(3) or[^c-c6a04c381c0c2d0becde3c1f4ca1e70b] section 99ZB(3)) unless a draft has been laid before Parliament and approved by a resolution of each House of Parliament.
 
 (4) Subsection (2) does not apply to—
 
@@ -61,7 +61,7 @@ This subsection does not apply to regulations made under section 22 (but without
 
 ## Annotations
 
-[^key-03c680b97e59502d42da8d0be9a50e9e]: Modification: S. 105 modified (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Health and Social Care) Savings and Transitional Provisions Order 2011 (S.S.I. 2011/121)](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [12](https://www.legislation.gov.uk/ssi/2011/121/article/12)
+[^c-03c680b97e59502d42da8d0be9a50e9e]: Modification: S. 105 modified (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Health and Social Care) Savings and Transitional Provisions Order 2011 (S.S.I. 2011/121)](https://www.legislation.gov.uk/ssi/2011/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/121/article/1/1), [12](https://www.legislation.gov.uk/ssi/2011/121/article/12)
 
 [^c14172951]: Textual amendment: S. 105(1A) inserted by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1), [Sch. 9 para. 19(21)(a)](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/19/21/a)
 
@@ -71,13 +71,13 @@ This subsection does not apply to regulations made under section 22 (but without
 
 [^c20985661]: Textual amendment: Words in s. 105(3) inserted (8.11.2010 for certain purposes, otherwise 22.12.2010) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [ss. 39(2)](https://www.legislation.gov.uk/asp/2010/3/section/39/2), [43(3)](https://www.legislation.gov.uk/asp/2010/3/section/43/3); [S.S.I. 2010/372](https://www.legislation.gov.uk/ssi/2010/372), [art. 2](https://www.legislation.gov.uk/ssi/2010/372/article/2), [Schs. 1](https://www.legislation.gov.uk/ssi/2010/372/schedule/1), [2](https://www.legislation.gov.uk/ssi/2010/372/schedule/2)
 
-[^key-8f2e2c4df657977e3e7f5a819e121611]: Textual amendment: Words in s. 105(3) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 21(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/21/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-8f2e2c4df657977e3e7f5a819e121611]: Textual amendment: Words in s. 105(3) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 21(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/21/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-19395f875874ead48e99d9a7e5e9e43f]: Textual amendment: Words in [s. 105(3)](https://www.legislation.gov.uk/ukpga/1978/29/section/105/3) inserted (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 4(4)](https://www.legislation.gov.uk/asp/2019/6/section/4/4), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
+[^c-19395f875874ead48e99d9a7e5e9e43f]: Textual amendment: Words in [s. 105(3)](https://www.legislation.gov.uk/ukpga/1978/29/section/105/3) inserted (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 4(4)](https://www.legislation.gov.uk/asp/2019/6/section/4/4), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2)
 
 [^c14172961]: Textual amendment: Words in s. 105(3) inserted (14.10.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 59(2)](https://www.legislation.gov.uk/ukpga/1999/8/section/59/2); [S.S.I. 1999/115](https://www.legislation.gov.uk/ssi/1999/115), [art. 2](https://www.legislation.gov.uk/ssi/1999/115/article/2)
 
-[^key-c6a04c381c0c2d0becde3c1f4ca1e70b]: Textual amendment: Words in s. 105(3) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 21(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/21/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-c6a04c381c0c2d0becde3c1f4ca1e70b]: Textual amendment: Words in s. 105(3) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 21(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/21/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
 [^c14172971]: Textual amendment: Figures inserted by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1), [Sch. 9 para. 19(21)(b)](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/19/21/b)
 

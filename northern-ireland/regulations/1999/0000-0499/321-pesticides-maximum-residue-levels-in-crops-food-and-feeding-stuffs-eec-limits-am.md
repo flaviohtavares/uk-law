@@ -32,7 +32,7 @@ AGRICULTURE
 
 PESTICIDES
 
-Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (EEC Limits) (Amendment No. 2) Regulations (Northern Ireland) 1999 (revoked)[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]
+Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (EEC Limits) (Amendment No. 2) Regulations (Northern Ireland) 1999 (revoked)[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]
 
 Made
 
@@ -42,45 +42,45 @@ Coming into operation
 
 25th August 1999
 
-[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]
+## 1. Citation and commencement[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]
+## 2. Interpretation[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]
+## 3. Amendment of the principal Regulations[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-db51ef0d5b6aea4ab1e7c9ad9358772d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-db51ef0d5b6aea4ab1e7c9ad9358772d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-db51ef0d5b6aea4ab1e7c9ad9358772d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-db51ef0d5b6aea4ab1e7c9ad9358772d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-db51ef0d5b6aea4ab1e7c9ad9358772d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-db51ef0d5b6aea4ab1e7c9ad9358772d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]
+## SCHEDULE 1[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]
+## SCHEDULE 2[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]
 
 Regulation 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]
+## SCHEDULE 3[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]
 
 Regulation 5
 
@@ -88,8 +88,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db51ef0d5b6aea4ab1e7c9ad9358772d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/321) revoked (4.3.2002) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2002 (S.R. 2002/20)](https://www.legislation.gov.uk/nisr/2002/20), [regs. 1](https://www.legislation.gov.uk/nisr/2002/20/regulation/1), [7](https://www.legislation.gov.uk/nisr/2002/20/regulation/7), [Sch. 4](https://www.legislation.gov.uk/nisr/2002/20/schedule/4)
+[^c-db51ef0d5b6aea4ab1e7c9ad9358772d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/321) revoked (4.3.2002) by [Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) Regulations (Northern Ireland) 2002 (S.R. 2002/20)](https://www.legislation.gov.uk/nisr/2002/20), [regs. 1](https://www.legislation.gov.uk/nisr/2002/20/regulation/1), [7](https://www.legislation.gov.uk/nisr/2002/20/regulation/7), [Sch. 4](https://www.legislation.gov.uk/nisr/2002/20/schedule/4)

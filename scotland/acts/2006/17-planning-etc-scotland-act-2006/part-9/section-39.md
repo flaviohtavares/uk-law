@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Entitlement to vote in ballot[^key-cf4cd5c735ed5e819ec8e2774c1923be][^key-03b41015931b58c9b08c00ac621d45e1]
+## 39. Entitlement to vote in ballot[^c-cf4cd5c735ed5e819ec8e2774c1923be][^c-03b41015931b58c9b08c00ac621d45e1]
 
 *Extent: S*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf4cd5c735ed5e819ec8e2774c1923be]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2006/17/section/39) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-cf4cd5c735ed5e819ec8e2774c1923be]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2006/17/section/39) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-03b41015931b58c9b08c00ac621d45e1]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2006/17/section/39) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-03b41015931b58c9b08c00ac621d45e1]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2006/17/section/39) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

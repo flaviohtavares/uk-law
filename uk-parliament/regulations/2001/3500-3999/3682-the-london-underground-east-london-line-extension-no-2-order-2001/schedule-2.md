@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — ACQUISITION OF CERTAIN LAND[^key-7ad8bf3b3680ec5debae641804de91ae]
+## SCHEDULE 2 — ACQUISITION OF CERTAIN LAND[^c-7ad8bf3b3680ec5debae641804de91ae]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ Articles 4 and 18
 
 ## Annotations
 
-[^key-7ad8bf3b3680ec5debae641804de91ae]: Commencement: Sch. 2 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-7ad8bf3b3680ec5debae641804de91ae]: Commencement: Sch. 2 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

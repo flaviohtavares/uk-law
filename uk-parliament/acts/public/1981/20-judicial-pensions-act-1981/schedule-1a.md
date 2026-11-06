@@ -59,7 +59,7 @@ summary: ''
 
 #### Other provisions about transfer values
 
-**3.** Chapter 1 of Part 4ZA of the Pension Schemes Act 1993[^key-23f7c6f85bd3869149ff580d6b8f9f4d] (transfer values) and Chapter 1 of Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993[^key-35035e7440b07e992cecacfcfd5bb1ee] (corresponding Northern Ireland provisions) shall not apply in relation to those schemes to which this Schedule applies.
+**3.** Chapter 1 of Part 4ZA of the Pension Schemes Act 1993[^c-23f7c6f85bd3869149ff580d6b8f9f4d] (transfer values) and Chapter 1 of Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993[^c-35035e7440b07e992cecacfcfd5bb1ee] (corresponding Northern Ireland provisions) shall not apply in relation to those schemes to which this Schedule applies.
 
 ### Part II — Transfers Out
 
@@ -242,9 +242,9 @@ whichever is the earlier.
 
 [^c10351091]: Textual amendment: [Sch. 1A para. 1(2)](https://www.legislation.gov.uk/ukpga/1981/20/schedule/1A/paragraph/1/2) inserted (1.12.2001) by [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41), [Sch. 13](https://www.legislation.gov.uk/ukpga/1990/41/schedule/13) (as amended (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [art. 326(1)(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/326/1/4))
 
-[^key-23f7c6f85bd3869149ff580d6b8f9f4d]: Textual amendment: Words in Sch. 1A para. 3 substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/1) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-23f7c6f85bd3869149ff580d6b8f9f4d]: Textual amendment: Words in Sch. 1A para. 3 substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/1) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-35035e7440b07e992cecacfcfd5bb1ee]: Textual amendment: Words in Sch. 1A para. 3 substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/47) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-35035e7440b07e992cecacfcfd5bb1ee]: Textual amendment: Words in Sch. 1A para. 3 substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/47) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
 [^c10351261]: Textual amendment: Words in [Sch. 1A para. 6(2)(c)](https://www.legislation.gov.uk/ukpga/1981/20/schedule/1A/paragraph/6/2/c) substituted (1.12.2001) by [1990 c. 41 (as amended (1.12.2001)](https://www.legislation.gov.uk/ukpga/1990/41) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [art. 326(1)(5)](https://www.legislation.gov.uk/uksi/2001/3649/article/326/1/5))
 

@@ -43,7 +43,7 @@ Coming into force in accordance with regulation 1
 
 In accordance with section 40(5) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-Accordingly, the Secretary of State, in exercise of the powers conferred by sections 27 to 33, 34(3) to (6), 36, 38(a), 40(1) and 63 of the Energy Act 2013, makes the following Regulations:[^key-4ec5e692ca5d8de60b828b5fc838fbac][^key-27688ef59a89b9fc24919ec1f8058571]
+Accordingly, the Secretary of State, in exercise of the powers conferred by sections 27 to 33, 34(3) to (6), 36, 38(a), 40(1) and 63 of the Energy Act 2013, makes the following Regulations:[^c-4ec5e692ca5d8de60b828b5fc838fbac][^c-27688ef59a89b9fc24919ec1f8058571]
 
 ## Contents
 
@@ -421,9 +421,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-4ec5e692ca5d8de60b828b5fc838fbac]: Modification: Regulations applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 29-52](https://www.legislation.gov.uk/uksi/2019/862/regulation/29) (with [reg. 28](https://www.legislation.gov.uk/uksi/2019/862/regulation/28)) (as amended (18.7.2019) by [S.I. 2019/1139](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(5)(6)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/5/6))
+[^c-4ec5e692ca5d8de60b828b5fc838fbac]: Modification: Regulations applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 29-52](https://www.legislation.gov.uk/uksi/2019/862/regulation/29) (with [reg. 28](https://www.legislation.gov.uk/uksi/2019/862/regulation/28)) (as amended (18.7.2019) by [S.I. 2019/1139](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(5)(6)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/5/6))
 
-[^key-27688ef59a89b9fc24919ec1f8058571]: Modification: Regulations applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 12-23](https://www.legislation.gov.uk/uksi/2019/862/regulation/12) (with [reg. 11](https://www.legislation.gov.uk/uksi/2019/862/regulation/11)) (as amended (18.7.2019) by [S.I. 2019/1139](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(4)(6)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/4/6))
+[^c-27688ef59a89b9fc24919ec1f8058571]: Modification: Regulations applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 12-23](https://www.legislation.gov.uk/uksi/2019/862/regulation/12) (with [reg. 11](https://www.legislation.gov.uk/uksi/2019/862/regulation/11)) (as amended (18.7.2019) by [S.I. 2019/1139](https://www.legislation.gov.uk/uksi/2019/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/1/2), [3(4)(6)](https://www.legislation.gov.uk/uksi/2019/1139/regulation/3/4/6))
 
 [^c22186301]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 

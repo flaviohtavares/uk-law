@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Powers of entry for the purposes of complaints and appeals[^key-68ff0ded4dd3e3b37819628148bfe032][^key-3fa1274b50b9a1371e9249565e02ef65]
+## 74. Powers of entry for the purposes of complaints and appeals[^c-68ff0ded4dd3e3b37819628148bfe032][^c-3fa1274b50b9a1371e9249565e02ef65]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ may enter the neighbouring land in order to obtain information required by the a
 
 ## Annotations
 
-[^key-68ff0ded4dd3e3b37819628148bfe032]: Commencement: S. 74 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-68ff0ded4dd3e3b37819628148bfe032]: Commencement: S. 74 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-3fa1274b50b9a1371e9249565e02ef65]: Commencement: S. 74 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-3fa1274b50b9a1371e9249565e02ef65]: Commencement: S. 74 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Notices to quit by tenants under assured tenancies: timing[^key-276c0ed53fea80fe8385403fbe774dc9][^key-5b1409639b5d5670e2b480adc39b73f9]
+## 20. Notices to quit by tenants under assured tenancies: timing[^c-276c0ed53fea80fe8385403fbe774dc9][^c-5b1409639b5d5670e2b480adc39b73f9]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-276c0ed53fea80fe8385403fbe774dc9]: Commencement: S. 20 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-276c0ed53fea80fe8385403fbe774dc9]: Commencement: S. 20 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-5b1409639b5d5670e2b480adc39b73f9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/26/section/20) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-5b1409639b5d5670e2b480adc39b73f9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/26/section/20) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

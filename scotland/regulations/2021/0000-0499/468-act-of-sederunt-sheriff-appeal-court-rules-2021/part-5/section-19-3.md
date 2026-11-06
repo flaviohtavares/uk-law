@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19.3. Orders for caution or other security: time for compliance[^key-db9bae12b685192054575d37188e2b2d]
+## 19.3. Orders for caution or other security: time for compliance[^c-db9bae12b685192054575d37188e2b2d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the Court makes an order for caution or to give other security, the order 
 
 ## Annotations
 
-[^key-db9bae12b685192054575d37188e2b2d]: Commencement: Para. 19.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-db9bae12b685192054575d37188e2b2d]: Commencement: Para. 19.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

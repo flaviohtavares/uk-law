@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Child Benefit (General) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-41e81e3b5c8e360fcf5910d1936fce21]
+The Child Benefit (General) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-41e81e3b5c8e360fcf5910d1936fce21]
 
 Made
 
@@ -39,24 +39,24 @@ Made
 
 Coming into operation in accordance with regulation 1(1)
 
-[^key-41e81e3b5c8e360fcf5910d1936fce21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41e81e3b5c8e360fcf5910d1936fce21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-41e81e3b5c8e360fcf5910d1936fce21]
+## 1. Citation, commencement and interpretation[^c-41e81e3b5c8e360fcf5910d1936fce21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Child Benefit (General) Regulations[^key-41e81e3b5c8e360fcf5910d1936fce21]
+## 2. Amendment of the Child Benefit (General) Regulations[^c-41e81e3b5c8e360fcf5910d1936fce21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-41e81e3b5c8e360fcf5910d1936fce21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41e81e3b5c8e360fcf5910d1936fce21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-41e81e3b5c8e360fcf5910d1936fce21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-41e81e3b5c8e360fcf5910d1936fce21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-41e81e3b5c8e360fcf5910d1936fce21]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/361) revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (revoked) 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)
+[^c-41e81e3b5c8e360fcf5910d1936fce21]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/361) revoked (7.4.2003) by [The Child Benefit (General) Regulations 2003 (revoked) 2003 (S.I. 2003/493)](https://www.legislation.gov.uk/uksi/2003/493), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/493/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2003/493/schedule/2/part/1)

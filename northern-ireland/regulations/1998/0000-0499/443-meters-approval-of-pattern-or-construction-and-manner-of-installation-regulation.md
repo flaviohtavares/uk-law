@@ -40,27 +40,27 @@ Coming into operation
 
 The Director General of Electricity Supply for Northern Ireland, in exercise of the powers conferred on him by Articles 34 and 64 of, and paragraphs 1 and 3 of Schedule 7 to, the Electricity (Northern Ireland) Order 1992[^f00001] and of every other power enabling him in that behalf, and with the consent of the Department of Economic Development in accordance with Article 2(2) of that Order, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-e83681e6e9ced2bca351685970b9fcbd]
+## 1. Citation and commencement[^c-e83681e6e9ced2bca351685970b9fcbd]
 
 These Regulations may be cited as the Meters (Approval of Pattern or Construction and Manner of Installation) Regulations (Northern Ireland) 1998 and shall come into operation on 1st February 1999.
 
-## 2. Interpretation[^key-2d510428c8c95015c56ca3399b368a94]
+## 2. Interpretation[^c-2d510428c8c95015c56ca3399b368a94]
 
 In these Regulations—
 
 - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00002] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00003];
-- “EEA State” means a state which, at the date of the entry into force of these Regulations, is a Contracting Party to the EEA Agreement but does not include the United Kingdom[^key-4934cacf66fb2926cbccad39b42b8bbf] ;
+- “EEA State” means a state which, at the date of the entry into force of these Regulations, is a Contracting Party to the EEA Agreement but does not include the United Kingdom[^c-4934cacf66fb2926cbccad39b42b8bbf] ;
 - “meter examiner” means a person who has been appointed under paragraph 5 of Schedule 7 to the Electricity (Northern Ireland) Order 1992; and
 - “notification of approval” means a notification issued under regulation 7.
 
-## 3. Approved pattern or construction and approved manner of installation[^key-24d107947d861eae64eaf4edcb27c19e][^key-6cefb8e0cb6e3bfe010d108cad037b3b]
+## 3. Approved pattern or construction and approved manner of installation[^c-24d107947d861eae64eaf4edcb27c19e][^c-6cefb8e0cb6e3bfe010d108cad037b3b]
 
 A meter, other than a meter which is deemed to be of an approved pattern or construction under regulation 4(2) of the Measuring Instruments(EC Requirements) (Electrical Energy Meters) Regulations 1995[^f00004], used for ascertaining the quantity of electricity supplied by an electricity supplier to a customer shall not be regarded as being:—
 
 - (a) of an approved pattern or construction unless a notification of approval in respect of that pattern or construction has been issued, or is deemed to have been issued, and that approval has not been revoked; or
 - (b) installed in an approved manner unless a notification of approval of that manner of installation has been issued, or is deemed to have been issued, and that approval has not been revoked.
 
-## 4. Application for approval[^key-016880c05e884fd20acf35969c8938c9]
+## 4. Application for approval[^c-016880c05e884fd20acf35969c8938c9]
 
 (1) Any person who requires the pattern or construction of a meter or its manner of installation to be approved shall submit to the Director—
 
@@ -69,7 +69,7 @@ A meter, other than a meter which is deemed to be of an approved pattern or cons
 
 (2) References in this regulation to the pattern or construction of a meter or to the manner of its installation include references to a modification of a pattern or construction or of a manner of installation which has previously been approved in accordance with these Regulations.
 
-## 5. Testing of meters[^key-2d63dec2228830de79a49a73e6ff333b]
+## 5. Testing of meters[^c-2d63dec2228830de79a49a73e6ff333b]
 
 (1) Subject to paragraph (3), where a meter has been submitted to the Director under regulation 4, a meter examiner shall carry out, or procure the carrying out of, such tests as he considers are necessary to determine whether the pattern or construction of the meter or the proposed manner of its installation is such that any meter of that pattern or construction or such a meter installed in that manner will be capable of accurately recording the quantity of electricity for which the meter is intended to operate.
 
@@ -85,7 +85,7 @@ provided that a meter complying with sub-paragraph (a), (b) or (c) will be of an
 
 (4) Any meter which a meter examiner is satisfied complies with the standards set out in paragraph (3) shall be deemed to be capable of accurately recording the quantity of electricity for which it is intended to operate.
 
-(5) For the purpose of paragraph (3) a meter examiner shall take into account the results of the checks and tests carried out by the bodies and laboratories of [^key-d4ca6e9041ffdc298ccace293086ec39]... EEA States if those checks and tests conform with European Standard EN45001[^f00005].
+(5) For the purpose of paragraph (3) a meter examiner shall take into account the results of the checks and tests carried out by the bodies and laboratories of [^c-d4ca6e9041ffdc298ccace293086ec39]... EEA States if those checks and tests conform with European Standard EN45001[^f00005].
 
 (6) In relation to any one or more of the tests which the meter examiner considers necessary, he may require the person applying for approval to procure the carrying out of specified tests at any premises approved by the Director for carrying out tests of the type specified.
 
@@ -98,13 +98,13 @@ and the meters shall on completion of the test be delivered to the meter examine
 
 (8) A meter which has been submitted to the Director under regulation 4 shall not be repaired or modified by any person, other than by a meter examiner for the purpose of carrying out tests in accordance with this regulation, until a notification has been issued under regulation 6 or 7.
 
-## 6. Notification of refusal of approval[^key-1b1c75222d9a61daca41b0f72ff031e2]
+## 6. Notification of refusal of approval[^c-1b1c75222d9a61daca41b0f72ff031e2]
 
 (1) If a meter examiner concludes that the pattern or construction of the meter or the proposed manner of its installation is such that any meter of that pattern or construction of any such meter installed in that manner will not be capable of satisfying the requirement set out in regulation 5(1), the Director shall notify the person applying for approval accordingly, giving the reasons for such refusal.
 
 (2) Where a meter examiner reaches the conclusion mentioned in paragraph (1) before he has completed every test which he had considered necessary for the purpose of regulation 5, he shall not be required to carryout the remainder of those tests.
 
-## 7. Notification of approval[^key-f747cfd480df67ea07953f2d65492a74]
+## 7. Notification of approval[^c-f747cfd480df67ea07953f2d65492a74]
 
 (1) Where a meter examiner concludes that the pattern or construction of the meter or the manner of its installation complies with regulation 5(3) of is such that any meter of that pattern or construction or any such meter installed in that manner will be capable of satisfying the requirements set out in regulation 5(1), the meter examiner shall issue a notification of approval of the applicant, and a notification of approval may notify approval both of the pattern or construction of the meter and of the manner of its installation.
 
@@ -130,11 +130,11 @@ and shall relate only to a meter of the pattern or construction and containing t
 
 (7) For the purposes of these Regulations a meter which is installed at an inclination of not more than three degrees from the vertical in any direction shall be deemed to have been installed in a vertical position.
 
-## 8. Modifications[^key-7dd1a992387859e97ba66d8d9803e5f7]
+## 8. Modifications[^c-7dd1a992387859e97ba66d8d9803e5f7]
 
 A modification to any part of a meter that has satisfied the requirement set out in regulation 5(1) shall cause that meter to cease to be of an approved pattern of construction or installed in an approved manner unless a meter examiner issues a notification of approval under regulation 7 in respect of the pattern of construction or manner of installation of the meter including that modification.
 
-## 9. Revocation of approval[^key-cac0ecb6e4853c464bc9754f2bb5bfd5]
+## 9. Revocation of approval[^c-cac0ecb6e4853c464bc9754f2bb5bfd5]
 
 (1) If the Director wishes to revoke an approval given under these Regulations, he shall publish in such manner as he considers appropriate—
 
@@ -152,7 +152,7 @@ and he shall invite representations within a period of not less than 28 days fro
 
 (5) Where the approval of the manner of installation of a meter has been revoked, every meter installed in that manner which is used as aforesaid shall be installed in an approved manner within six months of the date on which the revocation takes effect.
 
-## 10. Fees[^key-21b80219568a799cc2ad288eb4fa8d64]
+## 10. Fees[^c-21b80219568a799cc2ad288eb4fa8d64]
 
 (1) A person who submits an application for approval pursuant to regulation 4 or an application for the renewal of an approval pursuant to regulation 7(5), shall pay to the Director a fee in respect of the application.
 
@@ -186,36 +186,36 @@ Assistant Secretary
 
 Regulations 4(1) and 7(6)
 
-**1.**[^key-cfcb0c77265e564562a5a5c098a432f6] Name and address of the person submitting the application.
+**1.**[^c-cfcb0c77265e564562a5a5c098a432f6] Name and address of the person submitting the application.
 
-**2.**[^key-f936371e33c2119ed766ecb1748ae72c] Name and address of the person by whom the meter was manufactured.
+**2.**[^c-f936371e33c2119ed766ecb1748ae72c] Name and address of the person by whom the meter was manufactured.
 
-**3.**[^key-3aebfa3d905d4b9a3b9965026a10139b] The type or model number of the meter.
+**3.**[^c-3aebfa3d905d4b9a3b9965026a10139b] The type or model number of the meter.
 
-**4.**[^key-d917a5aad558cb2f7c89b348dd7089f4] The voltage and current rating of the meter and the frequency at which it is designed to operate.
+**4.**[^c-d917a5aad558cb2f7c89b348dd7089f4] The voltage and current rating of the meter and the frequency at which it is designed to operate.
 
-**5.**[^key-38322d92669ca9dabef850346ddf2d95] A description of the meter, stating—
+**5.**[^c-38322d92669ca9dabef850346ddf2d95] A description of the meter, stating—
 
 - (i) whether the meter is single or polyphase;
 - (ii) whether it is an induction or electronic meter;
 - (iii) whether it is a prepayment or credit meter; and
 - (vi) if it contains more than one register, the number of registers it contains.
 
-**6.**[^key-a1675fe7f34c07408688fd9dc9acb4da] Conceptual designs, manufacturing drawings, and schemes of all components, including sub-assemblies and circuits.
+**6.**[^c-a1675fe7f34c07408688fd9dc9acb4da] Conceptual designs, manufacturing drawings, and schemes of all components, including sub-assemblies and circuits.
 
-**7.**[^key-0f92054756ef6a58b94fd256675388b6] A description and explanation of the information in paragraph 6 sufficient to enable a meter examiner to understand the design and operation of the meter.
+**7.**[^c-0f92054756ef6a58b94fd256675388b6] A description and explanation of the information in paragraph 6 sufficient to enable a meter examiner to understand the design and operation of the meter.
 
-**8.**[^key-14fabe71a4cc81bb14416ff26d34daf6] The manner in which the meter is to be fixed in position.
+**8.**[^c-14fabe71a4cc81bb14416ff26d34daf6] The manner in which the meter is to be fixed in position.
 
-**9.**[^key-3413ead0a62b685a85e5453874120198] A list of any national, European or international standards with which the meter or any parts of it comply or are believed to comply.
+**9.**[^c-3413ead0a62b685a85e5453874120198] A list of any national, European or international standards with which the meter or any parts of it comply or are believed to comply.
 
-**10.**[^key-6e904abf6da785b2ef0b674f0c6067a7] A report of any examination or test of the meter.
+**10.**[^c-6e904abf6da785b2ef0b674f0c6067a7] A report of any examination or test of the meter.
 
-**11.**[^key-9a191442e9abddf40ce7e21d6abedcea] A statement of the instructions for connection of the meter to the electric line when it is in operation which will be permanently fixed to the meter if a notification of approval is issued (unless the instructions are attached to or impressed on the meters submitted under regulation 4(1)(b)).
+**11.**[^c-9a191442e9abddf40ce7e21d6abedcea] A statement of the instructions for connection of the meter to the electric line when it is in operation which will be permanently fixed to the meter if a notification of approval is issued (unless the instructions are attached to or impressed on the meters submitted under regulation 4(1)(b)).
 
-**12.**[^key-ed929f4a21479913ce4a525677ab8423] A statement of any other body to which the meter has been submitted for an approval having the same or substantially similar effect to a notification of approval.
+**12.**[^c-ed929f4a21479913ce4a525677ab8423] A statement of any other body to which the meter has been submitted for an approval having the same or substantially similar effect to a notification of approval.
 
-**13.**[^key-0ff5735d6524c1ae86671355baaefc33] An indication whether the applicant acquires approval of the pattern or construction of the meter, of the manner of its installation, or of both.
+**13.**[^c-0ff5735d6524c1ae86671355baaefc33] An indication whether the applicant acquires approval of the pattern or construction of the meter, of the manner of its installation, or of both.
 
 (This note is not part of the Regulations.)
 
@@ -235,64 +235,64 @@ Copies of European Standard EN 45001 (referred to in regulation 5(5))may be obta
 
 [^f00001]: Footnote: S.I. [1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231)
 
-[^key-e83681e6e9ced2bca351685970b9fcbd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-e83681e6e9ced2bca351685970b9fcbd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-2d510428c8c95015c56ca3399b368a94]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/443/regulation/2) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-2d510428c8c95015c56ca3399b368a94]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/443/regulation/2) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
 [^f00002]: Footnote: O.J. No. L1, 3.1.94, p. 3
 
 [^f00003]: Footnote: O.J. No. L1, 3.1.94, p. 572
 
-[^key-4934cacf66fb2926cbccad39b42b8bbf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/443/regulation/2) inserted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4934cacf66fb2926cbccad39b42b8bbf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/443/regulation/2) inserted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24d107947d861eae64eaf4edcb27c19e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/443/regulation/3) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-24d107947d861eae64eaf4edcb27c19e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/443/regulation/3) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-6cefb8e0cb6e3bfe010d108cad037b3b]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/443/regulation/3) excluded (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 7(5)(b)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/7/5/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
+[^c-6cefb8e0cb6e3bfe010d108cad037b3b]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/443/regulation/3) excluded (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 7(5)(b)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/7/5/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
 
 [^f00004]: Footnote: S.I. [1995/2607](https://www.legislation.gov.uk/uksi/1995/2607)
 
-[^key-016880c05e884fd20acf35969c8938c9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/443/regulation/4) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-016880c05e884fd20acf35969c8938c9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/443/regulation/4) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-2d63dec2228830de79a49a73e6ff333b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/443/regulation/5) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-2d63dec2228830de79a49a73e6ff333b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/443/regulation/5) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-d4ca6e9041ffdc298ccace293086ec39]: Textual amendment: Word in [reg. 5(5)](https://www.legislation.gov.uk/nisr/1998/443/regulation/5/5) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4ca6e9041ffdc298ccace293086ec39]: Textual amendment: Word in [reg. 5(5)](https://www.legislation.gov.uk/nisr/1998/443/regulation/5/5) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: EN 45001 is a European Standard which is equivalent to BS 7501 (ISBN 0 580 17939 7), “General criteria for the operation of testing laboratories”, published by the British Standards Institution and having effect from 31st October 1989
 
-[^key-1b1c75222d9a61daca41b0f72ff031e2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/443/regulation/6) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-1b1c75222d9a61daca41b0f72ff031e2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/443/regulation/6) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-f747cfd480df67ea07953f2d65492a74]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/443/regulation/7) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-f747cfd480df67ea07953f2d65492a74]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/443/regulation/7) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-7dd1a992387859e97ba66d8d9803e5f7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/443/regulation/8) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-7dd1a992387859e97ba66d8d9803e5f7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/443/regulation/8) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-cac0ecb6e4853c464bc9754f2bb5bfd5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/443/regulation/9) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-cac0ecb6e4853c464bc9754f2bb5bfd5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/443/regulation/9) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-21b80219568a799cc2ad288eb4fa8d64]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/443/regulation/10) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-21b80219568a799cc2ad288eb4fa8d64]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/443/regulation/10) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-cfcb0c77265e564562a5a5c098a432f6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/1) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-cfcb0c77265e564562a5a5c098a432f6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/1) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-f936371e33c2119ed766ecb1748ae72c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/2) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-f936371e33c2119ed766ecb1748ae72c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/2) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-3aebfa3d905d4b9a3b9965026a10139b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/3) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-3aebfa3d905d4b9a3b9965026a10139b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/3) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-d917a5aad558cb2f7c89b348dd7089f4]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/4) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-d917a5aad558cb2f7c89b348dd7089f4]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/4) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-38322d92669ca9dabef850346ddf2d95]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/5) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-38322d92669ca9dabef850346ddf2d95]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/5) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-a1675fe7f34c07408688fd9dc9acb4da]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/6) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-a1675fe7f34c07408688fd9dc9acb4da]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/6) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-0f92054756ef6a58b94fd256675388b6]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/7) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-0f92054756ef6a58b94fd256675388b6]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/7) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-14fabe71a4cc81bb14416ff26d34daf6]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/8) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-14fabe71a4cc81bb14416ff26d34daf6]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/8) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-3413ead0a62b685a85e5453874120198]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/9) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-3413ead0a62b685a85e5453874120198]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/9) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-6e904abf6da785b2ef0b674f0c6067a7]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/10) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-6e904abf6da785b2ef0b674f0c6067a7]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/10) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-9a191442e9abddf40ce7e21d6abedcea]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/11) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-9a191442e9abddf40ce7e21d6abedcea]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/11) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-ed929f4a21479913ce4a525677ab8423]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/12) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-ed929f4a21479913ce4a525677ab8423]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/12) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
-[^key-0ff5735d6524c1ae86671355baaefc33]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/13) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
+[^c-0ff5735d6524c1ae86671355baaefc33]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nisr/1998/443/schedule/paragraph/13) in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/443/regulation/1)
 
 [^f00006]: Footnote: S.I. [1998/1565](https://www.legislation.gov.uk/uksi/1998/1565)

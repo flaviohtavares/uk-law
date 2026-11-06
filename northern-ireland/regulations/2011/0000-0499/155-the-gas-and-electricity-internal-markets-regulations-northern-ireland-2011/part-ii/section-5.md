@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Amendment of provisions dealing with determination of disputes[^key-b814edcc6d91a24a30df4a74fbd22dea]
+## 5. Amendment of provisions dealing with determination of disputes[^c-b814edcc6d91a24a30df4a74fbd22dea]
 
 *Extent: N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 > - (a) the period of 2 months from the date when the dispute was referred to the Authority; or
 > - (b) where the information sent to the Authority under paragraph (1)(a) was in its opinion insufficient to enable it to make a determination, the period of 4 months from the date when the dispute was referred to the Authority.
 
-**6.**[^key-38d8457eb5c5208ef55c89e22bd05593] (1) Article 42A of the Electricity Order, shall be amended as provided in this regulation.
+**6.**[^c-38d8457eb5c5208ef55c89e22bd05593] (1) Article 42A of the Electricity Order, shall be amended as provided in this regulation.
 
 (2) In paragraph (1) for sub-paragraph (a) there shall be substituted the following sub-paragraph—
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b814edcc6d91a24a30df4a74fbd22dea]: Commencement: Reg. 5 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-b814edcc6d91a24a30df4a74fbd22dea]: Commencement: Reg. 5 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-38d8457eb5c5208ef55c89e22bd05593]: Commencement: Reg. 6 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-38d8457eb5c5208ef55c89e22bd05593]: Commencement: Reg. 6 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

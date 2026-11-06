@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Limit on Step 2 deductions[^key-796123befef33f26054c7efa8fc301ef]
+## 24A. Limit on Step 2 deductions[^c-796123befef33f26054c7efa8fc301ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,10 +54,10 @@ summary: ''
 
 - (a) deductions for amounts of relief so far as attributable to allowances under Part 3A of CAA 2001 (business premises renovation allowances);
 - (b) deductions for amounts of relief under a provision mentioned in subsection (6)(a) to (e) so far as made from profits of the trade or business to which the relief in question relates;
-- (c)[^key-5f6885d45b0e3d8223e5c57493a99d70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5f6885d45b0e3d8223e5c57493a99d70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) deductions for amounts of relief under the provision mentioned in subsection (6)(g)—
   - (i) where the shares in question fall within section 131(2)(a) (qualifying shares to which EIS relief is attributable), or
-  - (ii) where SEIS relief is attributable to the shares in question as determined in accordance with Part 5A (seed enterprise investment scheme), or[^key-41fbc0d96bc57edd7b9a24d7f86d82ee]
+  - (ii) where SEIS relief is attributable to the shares in question as determined in accordance with Part 5A (seed enterprise investment scheme), or[^c-41fbc0d96bc57edd7b9a24d7f86d82ee]
 - (iii) where SI relief is attributable to the shares in question as determined in accordance with Part 5B (income tax relief for social investments).
 
 (8) The taxpayer's “adjusted total income” for the tax year is calculated as follows.
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-796123befef33f26054c7efa8fc301ef]: Textual amendment: S. 24A inserted (with effect in accordance with Sch. 3 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/1) (with [Sch. 3 paras. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/4), [5](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/5))
+[^c-796123befef33f26054c7efa8fc301ef]: Textual amendment: S. 24A inserted (with effect in accordance with Sch. 3 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/1) (with [Sch. 3 paras. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/4), [5](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/5))
 
-[^key-5f6885d45b0e3d8223e5c57493a99d70]: Textual amendment: [S. 24A(7)(c)](https://www.legislation.gov.uk/ukpga/2007/3/section/24A/7/c) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 39](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/39), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-5f6885d45b0e3d8223e5c57493a99d70]: Textual amendment: [S. 24A(7)(c)](https://www.legislation.gov.uk/ukpga/2007/3/section/24A/7/c) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 39](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/39), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
 
-[^key-41fbc0d96bc57edd7b9a24d7f86d82ee]: Textual amendment: S. 24A(7)(d)(iii) and word inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/5)
+[^c-41fbc0d96bc57edd7b9a24d7f86d82ee]: Textual amendment: S. 24A(7)(d)(iii) and word inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/5)

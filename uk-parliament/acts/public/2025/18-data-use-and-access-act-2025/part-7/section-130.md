@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Recognition of EU conformity assessment bodies[^key-0b03a32f547d5a299588e25b53c328af][^key-d9dafce37338555916eb79434131a978]
+## 130. Recognition of EU conformity assessment bodies[^c-0b03a32f547d5a299588e25b53c328af][^c-d9dafce37338555916eb79434131a978]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In Chapter 3 of the eIDAS Regulation (trust services), after Article 24A insertâ
 
 ## Annotations
 
-[^key-0b03a32f547d5a299588e25b53c328af]: Commencement: S. 130 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-0b03a32f547d5a299588e25b53c328af]: Commencement: S. 130 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-d9dafce37338555916eb79434131a978]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2025/18/section/130) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z3)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z3)
+[^c-d9dafce37338555916eb79434131a978]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2025/18/section/130) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z3)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z3)

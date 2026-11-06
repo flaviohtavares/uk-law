@@ -33,14 +33,14 @@ A Measure passed by the General Synod of the Church of England to make new provi
 
 \[2nd April 2009\]
 
-## 1. Common Tenure[^key-23419391e5a0fae6090689caf31d878a]
+## 1. Common Tenure[^c-23419391e5a0fae6090689caf31d878a]
 
 (1) Subject to the provisions of this section, this Measure shall apply to each of the following holders of ecclesiastical offices—
 
 - (a) the Archbishops of Canterbury and York;
 - (b) any diocesan bishop;
 - (c) any suffragan bishop;
-- (d) any dean, residentiary canon or other person in holy orders holding a stipendiary office in a cathedral other than the office under section 13(1) of the Cathedrals Measure 2021 (interim dean)[^key-06b0541edc1429309d778ce93a5d9dd5] , and any lay residentiary canon of a cathedral[^key-e7c5f492468b82007fc2fe77dc670d8a];
+- (d) any dean, residentiary canon or other person in holy orders holding a stipendiary office in a cathedral other than the office under section 13(1) of the Cathedrals Measure 2021 (interim dean)[^c-06b0541edc1429309d778ce93a5d9dd5] , and any lay residentiary canon of a cathedral[^c-e7c5f492468b82007fc2fe77dc670d8a];
 - (e) any archdeacon;
 - (f) any incumbent;
 - (g) any person in holy orders who exercises his or her office or ministry in accordance with a licence from the bishop of the diocese in which the office is exercised issued under any Canon of the Church of England; and
@@ -52,7 +52,7 @@ who—
 - (ii) in the case of any residentiary canon appointed for a term of years, holds office on the coming into force of this section, and
 - (iii) in the case of any other person referred to in this subsection, holds office on the coming into force of this section and has agreed to the application of this Measure to him or her in accordance with subsections (4) and (5) below or is appointed to his or her office after the coming into force of this section.
 
-(1A)[^key-278f3d5c02a404056aacdc513de78997] The reference in subsection (1)(h) to emoluments of office does not include a reference to fees which, pursuant to a decision of the Diocesan Board of Finance, have been paid to a deaconess, reader or lay worker in respect of a matter set out in Schedule A1 to the Ecclesiastical Fees Measure 1986.
+(1A)[^c-278f3d5c02a404056aacdc513de78997] The reference in subsection (1)(h) to emoluments of office does not include a reference to fees which, pursuant to a decision of the Diocesan Board of Finance, have been paid to a deaconess, reader or lay worker in respect of a matter set out in Schedule A1 to the Ecclesiastical Fees Measure 1986.
 
 (2) Any person to whom this Measure applies shall hold his or her office in accordance with terms of service specified in Regulations.
 
@@ -67,7 +67,7 @@ requesting him or her to indicate whether or not that person agrees to the appli
 
 (5) As soon as the archbishop or, as the case may be, the bishop has received a declaration in accordance with subsection (4) above this Measure shall, with immediate effect, apply to the person who made the declaration and that person shall be informed, in writing, accordingly.
 
-## 2. Regulations[^key-b2a095fd71ddb26472b217a56be12d53]
+## 2. Regulations[^c-b2a095fd71ddb26472b217a56be12d53]
 
 (1) The Archbishops' Council shall, in accordance with the following provisions of this section, by Regulations make provision for the terms of service of persons holding office under Common Tenure (in this Measure referred to as “**office holders**”).
 
@@ -107,7 +107,7 @@ the draft Regulations shall, for the purposes of subsections (5) and (6) above, 
 
 (8) The Statutory Instruments Act 1946 (c. 36) shall apply to any Regulations sealed by the Archbishops' Council under subsection (6) above as if they were a statutory instrument and were made when sealed by the Archbishops' Council, and as if this Measure were an Act providing that any such Regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 3. Duration of appointments[^key-4aad67cf0266d89a346e1b10cf7e5877]
+## 3. Duration of appointments[^c-4aad67cf0266d89a346e1b10cf7e5877]
 
 (1) Subject to subsection (2) below, an office holder other than an archbishop or a bishop may resign his or her office by giving written notice not less than three months before the resignation is to take place to the bishop of the diocese in which the post is held.
 
@@ -116,16 +116,16 @@ the draft Regulations shall, for the purposes of subsections (5) and (6) above, 
 (3) The term of office of a person who holds office under Common Tenure shall be terminated only—
 
 - (a) on the death of the office holder;
-- (aa)[^key-85bc8701397be0ad9d0e3b3daf74ed3d] in the case of an archbishop or a bishop, on his resignation under section 1 or 4 of the Bishops (Retirement) Measure 1986;
+- (aa)[^c-85bc8701397be0ad9d0e3b3daf74ed3d] in the case of an archbishop or a bishop, on his resignation under section 1 or 4 of the Bishops (Retirement) Measure 1986;
 - (b) on attaining the retirement age specified in relation to that office in section 1 of the Ecclesiastical Offices (Age Limit) Measure 1975 (1975 No. 2) or on the expiration for any period which the office holder is permitted to continue in office after the retirement age under section 2 or 3 of that Measure or in provision made by regulations under section 2 of this Measure[^M_F_8ae3b6ed-a6ce-4cd1-91ea-570b0e6c1646];
 - (c) where the office ceases to exist in consequence of a pastoral scheme or order made under the Pastoral Measure 1983 (1983 No. 1) or reorganisation scheme made under Part II of the Dioceses, Pastoral and Mission Measure 2007 (2007 No. 1);
 - (d) where the office holder is removed from office following a finding of guilt for an offence under Part VI of the Ecclesiastical Jurisdiction Measure 1963 (1963 No. 1) or under any provision of the Clergy Discipline Measure 2003 (2003 No. 3);
 - (e) where the term is fixed or is otherwise limited, on the expiry of the term or the occurrence of the event in question, as the case may be; or
-- (f) under subsection (4), (5) or (6) below or subsection (1) above or section 3A of this Measure[^key-46a3c515b7b5c8be427a791579a14639].
+- (f) under subsection (4), (5) or (6) below or subsection (1) above or section 3A of this Measure[^c-46a3c515b7b5c8be427a791579a14639].
 
-(4) The bishop of the diocese in which an office holder referred to in section 1(1)(g) [^key-a5487ada608ae3972f2644d98274d4fb]... of this Measure holds office may revoke the office holder's licence to exercise the office only in accordance with the capability procedures or in accordance with the Ecclesiastical Jurisdiction Measure 1963 (1963 No. 1) or the Clergy Discipline Measure 2003 (2003 No. 3) or, in the case of a priest-in-charge appointed to a benefice during a vacancy, when the vacancy comes to an end.
+(4) The bishop of the diocese in which an office holder referred to in section 1(1)(g) [^c-a5487ada608ae3972f2644d98274d4fb]... of this Measure holds office may revoke the office holder's licence to exercise the office only in accordance with the capability procedures or in accordance with the Ecclesiastical Jurisdiction Measure 1963 (1963 No. 1) or the Clergy Discipline Measure 2003 (2003 No. 3) or, in the case of a priest-in-charge appointed to a benefice during a vacancy, when the vacancy comes to an end.
 
-(4A)[^key-9a9692441891661ec8a11444e22aa998] The bishop of the diocese in which an office holder referred to in section 1(1)(h) of this Measure holds office may revoke the office holder's licence to exercise the office only on grounds of misconduct, including any act or omission relating to matters involving ritual, doctrine or ceremonial or in accordance with the capability procedures.
+(4A)[^c-9a9692441891661ec8a11444e22aa998] The bishop of the diocese in which an office holder referred to in section 1(1)(h) of this Measure holds office may revoke the office holder's licence to exercise the office only on grounds of misconduct, including any act or omission relating to matters involving ritual, doctrine or ceremonial or in accordance with the capability procedures.
 
 (5) Where a licence has been granted by a diocesan bishop to a person to exercise an office which is held by the office holder in connection with employment under a contract of employment the bishop may revoke the licence if that contract is terminated and the term of office of the office holder shall, thereupon, be terminated.
 
@@ -139,7 +139,7 @@ the draft Regulations shall, for the purposes of subsections (5) and (6) above, 
 
 (10) In the Schedule to the Ecclesiastical Offices (Age Limit) Measure 1975 (1975 No. 2) there shall be added at the end “Any other holder of an ecclesiastical office who is subject to Common Tenure ”.
 
-## 3A. Removal from cathedral office after disqualification as charity trustee[^key-33f6dbcb112a649a44ee3c4fa7259665]
+## 3A. Removal from cathedral office after disqualification as charity trustee[^c-33f6dbcb112a649a44ee3c4fa7259665]
 
 (1) This section applies in the case of an office holder referred to in section 1(1)(d) who—
 
@@ -167,9 +167,9 @@ the draft Regulations shall, for the purposes of subsections (5) and (6) above, 
 
 ## 3B. Suspension of dean or residentiary canon
 
-Where a dean or residentiary canon , including a lay residentiary canon[^key-a312923946d3a46e5e329ba598ac8450] holding office under Common Tenure is suspended under section 76(3) of the Charities Act 2011, the bishop of the diocese must, by notice in writing, suspend the person from office until the end of the period of the suspension under section 76(3) of that Act (including any extensions of that period).
+Where a dean or residentiary canon , including a lay residentiary canon[^c-a312923946d3a46e5e329ba598ac8450] holding office under Common Tenure is suspended under section 76(3) of the Charities Act 2011, the bishop of the diocese must, by notice in writing, suspend the person from office until the end of the period of the suspension under section 76(3) of that Act (including any extensions of that period).
 
-## 4. Provision of housing for office holders[^key-8e3145e271ca892a135219ec81b8d8e1]
+## 4. Provision of housing for office holders[^c-8e3145e271ca892a135219ec81b8d8e1]
 
 (1) Every office holder who holds a full-time office for which he or she is entitled to receive a stipend other than the incumbent of a benefice shall be entitled to be provided by the relevant housing provider with accommodation which is reasonably suitable for the purpose and accommodation provided under this section is referred to in this Measure as a “house of residence”.
 
@@ -177,7 +177,7 @@ Where a dean or residentiary canon , including a lay residentiary canon[^key-a31
 
 (3) Where the particulars of office served on an office holder who holds a part-time post specify the provision of accommodation for the office holder the office holder shall be treated, for the purposes of this section, as if he or she had an entitlement under subsection (1) to be provided with accommodation in accordance with those particulars of office.
 
-(3A)[^key-1c2b3753fcc79086e13615668bbc3ae9] A lay residentiary canon of a cathedral does not have the right conferred by subsection (1) or (3) but the relevant housing provider may nonetheless decide to provide the office holder with a house of residence.
+(3A)[^c-1c2b3753fcc79086e13615668bbc3ae9] A lay residentiary canon of a cathedral does not have the right conferred by subsection (1) or (3) but the relevant housing provider may nonetheless decide to provide the office holder with a house of residence.
 
 (4) Except as aforesaid, it shall be a condition of the provision of a house of residence to an office holder that the office holder occupies it for the better performance of the duties of the office and the terms on which the house of residence is occupied shall not create a relationship of landlord and tenant between the relevant housing provider and the office holder.
 
@@ -188,20 +188,20 @@ Where a dean or residentiary canon , including a lay residentiary canon[^key-a31
 (7) In this Measure “**relevant housing provider**” means—
 
 - (a) in the case of an archbishop or a diocesan bishop, the Commissioners;
-- (b) in the case of a dean, residentiary canon or other person in holy orders holding a stipendiary office in a cathedral or in the case of a lay residentiary canon of a cathedral[^key-2379996e7b21b3f4618312cf09925a38], the Chapter of the cathedral; and
+- (b) in the case of a dean, residentiary canon or other person in holy orders holding a stipendiary office in a cathedral or in the case of a lay residentiary canon of a cathedral[^c-2379996e7b21b3f4618312cf09925a38], the Chapter of the cathedral; and
 - (c) in the case of a suffragan bishop, archdeacon or other office holder, the Board.
 
 (8) A relevant housing provider may agree with another relevant housing provider (“the second provider”) that the second provider shall be responsible for providing accommodation in a particular case and, whilst any such agreement is in force, the second provider shall, in relation to any such accommodation, be deemed to be the relevant housing provider for the purposes of this Measure.
 
-(9)[^key-4b9445220d1c383e4509c0def0049d67] A person who is entitled to grant land under section 29 of the Church Property Measure 2018 (grants to diocesan board of finance) is entitled also to grant land to the Board for the purposes of its functions under this Measure.
+(9)[^c-4b9445220d1c383e4509c0def0049d67] A person who is entitled to grant land under section 29 of the Church Property Measure 2018 (grants to diocesan board of finance) is entitled also to grant land to the Board for the purposes of its functions under this Measure.
 
-## 5. Provision of housing by Board and other relevant housing providers[^key-e61352fda03da688e65dc45262a1b963]
+## 5. Provision of housing by Board and other relevant housing providers[^c-e61352fda03da688e65dc45262a1b963]
 
 (1) It shall be the duty of the Board to oversee the provision of housing for all office holders holding office in the diocese for whom it is the relevant housing provider and to ensure, whether directly or by means of an arrangement with another person, body or authority, that suitable housing is provided for each such office holder who is entitled under section 4 above to be provided with accommodation.
 
 (2) Subject to section 4(1) and (3) above, the Board and any other relevant housing provider may also provide such housing accommodation as it thinks fit for any office holder for whom it is the relevant housing provider.
 
-## 6. Powers to acquire and dispose of houses of residence and carrying out of works[^key-591528b34af1928b722445126539b8f7]
+## 6. Powers to acquire and dispose of houses of residence and carrying out of works[^c-591528b34af1928b722445126539b8f7]
 
 (1) Subject to subsection (4) below, any relevant housing provider may acquire (including by way of gift), exchange or dispose of any land, or any interest in or over land, or any building which it considers necessary or appropriate for the provision of a house of residence for an office holder for which it is the relevant housing provider or is no longer required, as the case may be.
 
@@ -209,9 +209,9 @@ Where a dean or residentiary canon , including a lay residentiary canon[^key-a31
 
 (3) Before carrying out any works in accordance with subsection (2) above the relevant housing provider shall consult the office holder, unless the transaction is a regulated transaction to which section 7 below applies.
 
-(4) This section and section 7 below do not apply to a parsonage house vested in an incumbent of a benefice or to any land or buildings to which the powers conferred by section 1 or 2 of the Church Property Measure 2018[^key-7c81e44314d41a8fe895e8fe8ea79a82] relate.
+(4) This section and section 7 below do not apply to a parsonage house vested in an incumbent of a benefice or to any land or buildings to which the powers conferred by section 1 or 2 of the Church Property Measure 2018[^c-7c81e44314d41a8fe895e8fe8ea79a82] relate.
 
-## 7. Transactions by relevant housing providers relating to houses of residence[^key-2b972a6ed1fe68de9db7dd1eb058b218]
+## 7. Transactions by relevant housing providers relating to houses of residence[^c-2b972a6ed1fe68de9db7dd1eb058b218]
 
 (1) Subject to section 6(4) above, in this Measure a “**regulated transaction**” means—
 
@@ -251,7 +251,7 @@ Where a dean or residentiary canon , including a lay residentiary canon[^key-a31
 
 (9) Schedule 1 to this Measure shall have effect in relation to the application of any money received by the Board in connection with a sale or exchange of a house of residence owned by it and to other matters relating to regulated transactions.
 
-## 8. Codes of Practice[^key-6dc67eb62f00ee4cb8bff87fda949aea]
+## 8. Codes of Practice[^c-6dc67eb62f00ee4cb8bff87fda949aea]
 
 (1) It shall be the duty of the Archbishops' Council to formulate guidance for the purposes of this Measure and to promulgate such guidance in one or more Codes of Practice.
 
@@ -268,7 +268,7 @@ the Code shall, for the purposes of subsection (3) above, be deemed to have been
 
 (5) Any person or body carrying out functions under this Measure or Regulations shall have regard to any Code of Practice issued under this section.
 
-## 9. Supplementary provisions[^key-642b0a5608d3827bb1f9a2eecbf3a3be]
+## 9. Supplementary provisions[^c-642b0a5608d3827bb1f9a2eecbf3a3be]
 
 (1) Nothing in this Measure or in Regulations shall have effect so as to enable procedures to be applied in relation to any person to whom this Measure applies in respect of any misconduct within the meaning of section 38 of the Ecclesiastical Jurisdiction Measure 1963 or section 8 of the Clergy Discipline Measure 2003 otherwise than under the said Measure of 1963 or the said Measure of 2003, as the case may be.
 
@@ -288,7 +288,7 @@ the Code shall, for the purposes of subsection (3) above, be deemed to have been
 
 (9) This Measure shall have effect notwithstanding any provision in the constitution or statutes of a cathedral.
 
-## 10. Interpretation[^key-29788e4e87652aa357a654a3c92ed252]
+## 10. Interpretation[^c-29788e4e87652aa357a654a3c92ed252]
 
 In this Measure—
 
@@ -303,37 +303,37 @@ In this Measure—
 
 ## 11. Amendment of Enactments
 
-(1)[^key-b07e5736a6eea8bcded5a078a4ac83db] The Archbishops' Council may, by Order, make provision—
+(1)[^c-b07e5736a6eea8bcded5a078a4ac83db] The Archbishops' Council may, by Order, make provision—
 
 - (a) for such amendments or repeals of any provision of a Measure or other enactment or instrument, or
 - (b) for transitional matters,
 
 as appear to the Council to be necessary or expedient in consequence of any provision of this Measure or of Regulations.
 
-(2)[^key-b07e5736a6eea8bcded5a078a4ac83db] Section 2(5) to (8) above shall apply in relation to any Order made under this section as if any reference therein to draft Regulations or a draft of Regulations or to Regulations were a reference to a draft Order or a draft of an Order or to an Order, as the case may be.
+(2)[^c-b07e5736a6eea8bcded5a078a4ac83db] Section 2(5) to (8) above shall apply in relation to any Order made under this section as if any reference therein to draft Regulations or a draft of Regulations or to Regulations were a reference to a draft Order or a draft of an Order or to an Order, as the case may be.
 
-(3)[^key-b07e5736a6eea8bcded5a078a4ac83db] No draft order under section 2(5) above, as applied by subsection (2) above, shall be laid before the General Synod after the expiry of the period of five years beginning with the day on which this section comes into force.
+(3)[^c-b07e5736a6eea8bcded5a078a4ac83db] No draft order under section 2(5) above, as applied by subsection (2) above, shall be laid before the General Synod after the expiry of the period of five years beginning with the day on which this section comes into force.
 
-(4)[^key-bbd5d01df5f8a73e8c7fca475bf59983] The enactments set out in Schedule 2 to this Measure shall have effect subject to the amendments specified in that Schedule.
+(4)[^c-bbd5d01df5f8a73e8c7fca475bf59983] The enactments set out in Schedule 2 to this Measure shall have effect subject to the amendments specified in that Schedule.
 
-(5)[^key-bbd5d01df5f8a73e8c7fca475bf59983] Section 3 of the Episcopal Endowments and Stipends Measure 1943 (6 & 7 Geo. 6 No. 2) shall not have effect in relation to a house of residence provided for a diocesan bishop who is subject to Common Tenure but section 4 of that Measure shall apply to the exercise of powers in relation to a house of residence provided under this Measure as it applies in relation to the exercise of powers under that Measure.
+(5)[^c-bbd5d01df5f8a73e8c7fca475bf59983] Section 3 of the Episcopal Endowments and Stipends Measure 1943 (6 & 7 Geo. 6 No. 2) shall not have effect in relation to a house of residence provided for a diocesan bishop who is subject to Common Tenure but section 4 of that Measure shall apply to the exercise of powers in relation to a house of residence provided under this Measure as it applies in relation to the exercise of powers under that Measure.
 
-(6)[^key-bbd5d01df5f8a73e8c7fca475bf59983] The Incumbents (Vacation of Benefices) Measure 1977 (1977 No. 1) (in this subsection and subsection (7) below referred to as “**the 1977 Measure**”) shall have effect only in relation to benefices of which the incumbent is not subject to Common Tenure, but if—
+(6)[^c-bbd5d01df5f8a73e8c7fca475bf59983] The Incumbents (Vacation of Benefices) Measure 1977 (1977 No. 1) (in this subsection and subsection (7) below referred to as “**the 1977 Measure**”) shall have effect only in relation to benefices of which the incumbent is not subject to Common Tenure, but if—
 
 - (a) the incumbent of a benefice makes a declaration under section 1(4) above agreeing to the application of this Measure to him or her, and
 - (b) at the time when the declaration is received by the bishop of the diocese a request for an enquiry has been made under section 1A or the bishop has instructed the secretary of the diocesan synod to institute an enquiry under section 6 of the 1977 Measure and proceedings under the Measure in respect of the enquiry have not been concluded,
 
 section 1(5) above shall not have effect and this Measure shall not apply to the incumbent until all such proceedings have been concluded and until (if the incumbent remains in office) the bishop has notified the incumbent in writing that this Measure applies to this incumbent from the date specified in the notice.
 
-(7)[^key-bbd5d01df5f8a73e8c7fca475bf59983] Where, on the coming into force of section 1 above, a vicar in a team ministry is the subject of a request for an enquiry or an enquiry under the provisions of the 1977 Measure referred to in subsection (6)(b) above in relation to which proceedings under that Measure have not been concluded, this Measure shall not apply to the vicar until all such proceedings have been concluded and the bishop has notified him or her in writing that this Measure applies to him or her from the date specified in the notice.
+(7)[^c-bbd5d01df5f8a73e8c7fca475bf59983] Where, on the coming into force of section 1 above, a vicar in a team ministry is the subject of a request for an enquiry or an enquiry under the provisions of the 1977 Measure referred to in subsection (6)(b) above in relation to which proceedings under that Measure have not been concluded, this Measure shall not apply to the vicar until all such proceedings have been concluded and the bishop has notified him or her in writing that this Measure applies to him or her from the date specified in the notice.
 
-(8)[^key-333201cbc2c5603029ecdbf23069b232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-333201cbc2c5603029ecdbf23069b232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Repeals[^key-97fed11b5d098839f6bbbac3aa178650]
+## 12. Repeals[^c-97fed11b5d098839f6bbbac3aa178650]
 
 The enactments set out in Schedule 3 to this Measure are hereby repealed to the extent specified in the second column of that Schedule.
 
-## 13. Citation, commencement and extent[^key-8907ef0276ed397f48738ea06ace6c05]
+## 13. Citation, commencement and extent[^c-8907ef0276ed397f48738ea06ace6c05]
 
 (1) This Measure may be cited as the Ecclesiastical Offices (Terms of Service) Measure 2009.
 
@@ -349,7 +349,7 @@ Section 7(9)
 
 ### Application of money received
 
-**1.**[^key-dd963915772e19257c10df3116beaec5] (1) The Board shall apply any money arising from any sale or exchange of a house of residence for the purposes set out below in the following order of priority—
+**1.**[^c-dd963915772e19257c10df3116beaec5] (1) The Board shall apply any money arising from any sale or exchange of a house of residence for the purposes set out below in the following order of priority—
 
 - (a) in payment of the costs, charges and expenses of such a sale or exchange;
 - (b) in or towards repayment of any money expended by the Board for the purpose of rendering the property sold or exchanged more readily saleable or exchangeable;
@@ -365,7 +365,7 @@ Section 7(9)
 
 ### Formalities
 
-**2.**[^key-717f2be068f6d79edc430353e250776c] (1) Any consent or approval by a bishop in relation to a regulated transaction shall be signified by writing under his hand.
+**2.**[^c-717f2be068f6d79edc430353e250776c] (1) Any consent or approval by a bishop in relation to a regulated transaction shall be signified by writing under his hand.
 
 (2) The sealing by the Board of any transfer of land under section 6 above shall be conclusive evidence that any requirements of this Measure with respect to the transfer have been complied with.
 
@@ -385,57 +385,57 @@ Section 11(4)
 
 ### The Deaconesses and Lay Ministry Measure 1972
 
-**1.**[^key-1faef843cf7337e0d1db68f0e528301c] In section 1A(b) of the Deaconesses and Lay Ministry Measure 1972 (1972 No. 4) there shall be inserted at the beginning the words “ in the case of any such person who is not subject to Common Tenure, ”.
+**1.**[^c-1faef843cf7337e0d1db68f0e528301c] In section 1A(b) of the Deaconesses and Lay Ministry Measure 1972 (1972 No. 4) there shall be inserted at the beginning the words “ in the case of any such person who is not subject to Common Tenure, ”.
 
 ### The Pastoral Measure 1983
 
-**2.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-8ac118351f441db5f5229f2189ccb918] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988
 
-**19.**[^key-018cd340b445a2d85486d5b4cba0e583] In section 7(1) of the Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988 (1988 No. 1), for the words “ministers, deaconesses, lay workers and readers” there shall be substituted the words “ deaconesses, lay workers and readers who are not subject to common tenure ”.
+**19.**[^c-018cd340b445a2d85486d5b4cba0e583] In section 7(1) of the Church of England (Legal Aid and Miscellaneous Provisions) Measure 1988 (1988 No. 1), for the words “ministers, deaconesses, lay workers and readers” there shall be substituted the words “ deaconesses, lay workers and readers who are not subject to common tenure ”.
 
-### ...[^key-78c7a9b4074a164bb23776745bdef1fb]
+### ...[^c-78c7a9b4074a164bb23776745bdef1fb]
 
-**20.**[^key-78c7a9b4074a164bb23776745bdef1fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-78c7a9b4074a164bb23776745bdef1fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-78c7a9b4074a164bb23776745bdef1fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-78c7a9b4074a164bb23776745bdef1fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-78c7a9b4074a164bb23776745bdef1fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-78c7a9b4074a164bb23776745bdef1fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Repeals[^key-9e5927718d317f334976ea44079fb2b6]
+## SCHEDULE 3 — Repeals[^c-9e5927718d317f334976ea44079fb2b6]
 
 Section 12
 
@@ -452,76 +452,76 @@ Section 12
 
 ## Annotations
 
-[^key-23419391e5a0fae6090689caf31d878a]: Commencement: S. 1 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-23419391e5a0fae6090689caf31d878a]: Commencement: S. 1 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-06b0541edc1429309d778ce93a5d9dd5]: Textual amendment: Words in s. 1(1)(d) inserted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2021/2/section/13/2) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-06b0541edc1429309d778ce93a5d9dd5]: Textual amendment: Words in s. 1(1)(d) inserted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2021/2/section/13/2) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-e7c5f492468b82007fc2fe77dc670d8a]: Textual amendment: Words in [s. 1(1)(d)](https://www.legislation.gov.uk/ukcm/2009/1/section/1/1/d) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/5)
+[^c-e7c5f492468b82007fc2fe77dc670d8a]: Textual amendment: Words in [s. 1(1)(d)](https://www.legislation.gov.uk/ukcm/2009/1/section/1/1/d) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/5)
 
-[^key-278f3d5c02a404056aacdc513de78997]: Textual amendment: S. 1(1A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/6), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
+[^c-278f3d5c02a404056aacdc513de78997]: Textual amendment: S. 1(1A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/6), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
 
-[^key-b2a095fd71ddb26472b217a56be12d53]: Commencement: S. 2 in force at 11.6.2009 by [S.I. 2009/1](https://www.legislation.gov.uk/ukci/2009/1), Instrument made by Archbishops
+[^c-b2a095fd71ddb26472b217a56be12d53]: Commencement: S. 2 in force at 11.6.2009 by [S.I. 2009/1](https://www.legislation.gov.uk/ukci/2009/1), Instrument made by Archbishops
 
 [^M_F_62f4a7d6-a927-45f5-c1f7-f9637b17d1af]: Textual amendment: S. 2(2A) inserted (retrospectively) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(7)(12)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/7/12), [17(2)(b)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/2/b)
 
-[^key-4aad67cf0266d89a346e1b10cf7e5877]: Commencement: S. 3 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-4aad67cf0266d89a346e1b10cf7e5877]: Commencement: S. 3 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-85bc8701397be0ad9d0e3b3daf74ed3d]: Textual amendment: S. 3(3)(aa) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 17(1)(a)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/17/1/a); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-85bc8701397be0ad9d0e3b3daf74ed3d]: Textual amendment: S. 3(3)(aa) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 17(1)(a)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/17/1/a); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
 [^M_F_8ae3b6ed-a6ce-4cd1-91ea-570b0e6c1646]: Textual amendment: Words in s. 3(3)(b) inserted (retrospectively) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 68](https://www.legislation.gov.uk/ukcm/2018/7/section/68))(12), 17(2)(b)
 
-[^key-46a3c515b7b5c8be427a791579a14639]: Textual amendment: Words in s. 3(3)(f) inserted (coming into force in accordance with s. 53(6)(7) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 42(2)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/2) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4)[(5)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/5), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-46a3c515b7b5c8be427a791579a14639]: Textual amendment: Words in s. 3(3)(f) inserted (coming into force in accordance with s. 53(6)(7) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 42(2)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/2) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4)[(5)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/5), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-a5487ada608ae3972f2644d98274d4fb]: Textual amendment: Words in s. 3(4) omitted (19.5.2014) by virtue of [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 17(1)(b)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/17/1/b); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-a5487ada608ae3972f2644d98274d4fb]: Textual amendment: Words in s. 3(4) omitted (19.5.2014) by virtue of [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 17(1)(b)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/17/1/b); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-9a9692441891661ec8a11444e22aa998]: Textual amendment: S. 3(4A) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 17(1)(c)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/17/1/c); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-9a9692441891661ec8a11444e22aa998]: Textual amendment: S. 3(4A) inserted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 17(1)(c)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/17/1/c); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-33f6dbcb112a649a44ee3c4fa7259665]: Textual amendment: Ss. 3A, 3B inserted (coming into force in accordance with s. 53(6)(7) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 42(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/1) (with [ss. 42(3)(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4)[(5)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/5), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-33f6dbcb112a649a44ee3c4fa7259665]: Textual amendment: Ss. 3A, 3B inserted (coming into force in accordance with s. 53(6)(7) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 42(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/1) (with [ss. 42(3)(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4)[(5)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/5), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-a312923946d3a46e5e329ba598ac8450]: Textual amendment: Words in [s. 3B](https://www.legislation.gov.uk/ukcm/2009/1/section/3B) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/6)
+[^c-a312923946d3a46e5e329ba598ac8450]: Textual amendment: Words in [s. 3B](https://www.legislation.gov.uk/ukcm/2009/1/section/3B) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/6)
 
-[^key-8e3145e271ca892a135219ec81b8d8e1]: Commencement: S. 4 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-8e3145e271ca892a135219ec81b8d8e1]: Commencement: S. 4 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-1c2b3753fcc79086e13615668bbc3ae9]: Textual amendment: [S. 4(3A)](https://www.legislation.gov.uk/ukcm/2009/1/section/4/3A) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/7/2)
+[^c-1c2b3753fcc79086e13615668bbc3ae9]: Textual amendment: [S. 4(3A)](https://www.legislation.gov.uk/ukcm/2009/1/section/4/3A) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/7/2)
 
-[^key-2379996e7b21b3f4618312cf09925a38]: Textual amendment: Words in [s. 4(7)(b)](https://www.legislation.gov.uk/ukcm/2009/1/section/4/7/b) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/7/3)
+[^c-2379996e7b21b3f4618312cf09925a38]: Textual amendment: Words in [s. 4(7)(b)](https://www.legislation.gov.uk/ukcm/2009/1/section/4/7/b) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/7/3)
 
-[^key-4b9445220d1c383e4509c0def0049d67]: Textual amendment: S. 4(9) inserted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [ss. 29(8)](https://www.legislation.gov.uk/ukcm/2018/8/section/29/8), [53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-4b9445220d1c383e4509c0def0049d67]: Textual amendment: S. 4(9) inserted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [ss. 29(8)](https://www.legislation.gov.uk/ukcm/2018/8/section/29/8), [53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-e61352fda03da688e65dc45262a1b963]: Commencement: S. 5 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-e61352fda03da688e65dc45262a1b963]: Commencement: S. 5 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-591528b34af1928b722445126539b8f7]: Commencement: S. 6 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-591528b34af1928b722445126539b8f7]: Commencement: S. 6 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-7c81e44314d41a8fe895e8fe8ea79a82]: Textual amendment: Words in s. 6(4) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/22); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-7c81e44314d41a8fe895e8fe8ea79a82]: Textual amendment: Words in s. 6(4) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/22); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-2b972a6ed1fe68de9db7dd1eb058b218]: Commencement: S. 7 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-2b972a6ed1fe68de9db7dd1eb058b218]: Commencement: S. 7 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-6dc67eb62f00ee4cb8bff87fda949aea]: Commencement: S. 8 in force at 24.11.2009 by [S.I. 2009/2](https://www.legislation.gov.uk/ukci/2009/2), Instrument made by Archbishops
+[^c-6dc67eb62f00ee4cb8bff87fda949aea]: Commencement: S. 8 in force at 24.11.2009 by [S.I. 2009/2](https://www.legislation.gov.uk/ukci/2009/2), Instrument made by Archbishops
 
-[^key-642b0a5608d3827bb1f9a2eecbf3a3be]: Commencement: S. 9 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-642b0a5608d3827bb1f9a2eecbf3a3be]: Commencement: S. 9 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-29788e4e87652aa357a654a3c92ed252]: Commencement: S. 10 in force at 11.6.2009 by [S.I. 2009/1](https://www.legislation.gov.uk/ukci/2009/1), Instrument made by Archbishops
+[^c-29788e4e87652aa357a654a3c92ed252]: Commencement: S. 10 in force at 11.6.2009 by [S.I. 2009/1](https://www.legislation.gov.uk/ukci/2009/1), Instrument made by Archbishops
 
-[^key-b07e5736a6eea8bcded5a078a4ac83db]: Commencement: S. 11(1)-(3) in force at 27.9.2010 by [S.I. 2010/5](https://www.legislation.gov.uk/ukci/2010/5), [art. 2](https://www.legislation.gov.uk/ukci/2010/5/article/2)
+[^c-b07e5736a6eea8bcded5a078a4ac83db]: Commencement: S. 11(1)-(3) in force at 27.9.2010 by [S.I. 2010/5](https://www.legislation.gov.uk/ukci/2010/5), [art. 2](https://www.legislation.gov.uk/ukci/2010/5/article/2)
 
-[^key-bbd5d01df5f8a73e8c7fca475bf59983]: Commencement: S. 11(4)-(8) in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-bbd5d01df5f8a73e8c7fca475bf59983]: Commencement: S. 11(4)-(8) in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-333201cbc2c5603029ecdbf23069b232]: Textual amendment: S. 11(8) repealed (coming into force in accordance with s. 53(3)(8) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(2)(d)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/2/d) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-333201cbc2c5603029ecdbf23069b232]: Textual amendment: S. 11(8) repealed (coming into force in accordance with s. 53(3)(8) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [s. 51(2)(d)](https://www.legislation.gov.uk/ukcm/2021/2/section/51/2/d) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-97fed11b5d098839f6bbbac3aa178650]: Commencement: S. 12 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-97fed11b5d098839f6bbbac3aa178650]: Commencement: S. 12 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-8907ef0276ed397f48738ea06ace6c05]: Commencement: S. 13 in force at 11.6.2009 by [S.I. 2009/1](https://www.legislation.gov.uk/ukci/2009/1), Instrument made by Archbishops
+[^c-8907ef0276ed397f48738ea06ace6c05]: Commencement: S. 13 in force at 11.6.2009 by [S.I. 2009/1](https://www.legislation.gov.uk/ukci/2009/1), Instrument made by Archbishops
 
-[^key-dd963915772e19257c10df3116beaec5]: Commencement: Sch. 1 para. 1 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-dd963915772e19257c10df3116beaec5]: Commencement: Sch. 1 para. 1 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-717f2be068f6d79edc430353e250776c]: Commencement: Sch. 1 para. 2 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-717f2be068f6d79edc430353e250776c]: Commencement: Sch. 1 para. 2 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-1faef843cf7337e0d1db68f0e528301c]: Commencement: Sch. 2 para. 1 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-1faef843cf7337e0d1db68f0e528301c]: Commencement: Sch. 2 para. 1 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-8ac118351f441db5f5229f2189ccb918]: Textual amendment: Sch. 2 paras. 2-18 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8ac118351f441db5f5229f2189ccb918]: Textual amendment: Sch. 2 paras. 2-18 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-018cd340b445a2d85486d5b4cba0e583]: Commencement: Sch. 2 para. 19 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-018cd340b445a2d85486d5b4cba0e583]: Commencement: Sch. 2 para. 19 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-78c7a9b4074a164bb23776745bdef1fb]: Textual amendment: Sch. 2 paras. 20-22 and cross-heading repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-78c7a9b4074a164bb23776745bdef1fb]: Textual amendment: Sch. 2 paras. 20-22 and cross-heading repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-9e5927718d317f334976ea44079fb2b6]: Commencement: Sch. 3 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-9e5927718d317f334976ea44079fb2b6]: Commencement: Sch. 3 in force at 31.1.2011 by [S.I. 2010/8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)

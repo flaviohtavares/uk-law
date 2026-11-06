@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Review[^key-45836894e01ac264ccf0d4c222b7a25b]
+## 26. Review[^c-45836894e01ac264ccf0d4c222b7a25b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ After regulation 58 (revocation and transitional provisions) insert—
 
 ## Annotations
 
-[^key-45836894e01ac264ccf0d4c222b7a25b]: Commencement: Reg. 26 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-45836894e01ac264ccf0d4c222b7a25b]: Commencement: Reg. 26 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00040]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).

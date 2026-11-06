@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Deputy President of the Tribunal[^key-980dabf7a5f7511ccd34f21d331df276]
+## 93. Deputy President of the Tribunal[^c-980dabf7a5f7511ccd34f21d331df276]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-980dabf7a5f7511ccd34f21d331df276]: Commencement: S. 93 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-980dabf7a5f7511ccd34f21d331df276]: Commencement: S. 93 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

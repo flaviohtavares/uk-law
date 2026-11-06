@@ -81,11 +81,11 @@ HAS ADOPTED THIS DECISION:
 
 **Article 3.**[^c000001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-dbca5293e656e56ba4990590ac9c5f38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-dbca5293e656e56ba4990590ac9c5f38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-b8ac7468f42e5d960cb0174316939a26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-b8ac7468f42e5d960cb0174316939a26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-8d7030c4c117af0a319bb5ced8010407] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-8d7030c4c117af0a319bb5ced8010407] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX — LIST OF WASTE REFERRED TO IN ARTICLE 7 OF DIRECTIVE 2008/98/EC[^c000002]
 
@@ -93,7 +93,7 @@ DEFINITIONS
 
 For the purposes of this Annex, the following definitions shall apply:
 
-- A1.. ‘the Waste Framework Directive’ means[^key-01cf7ade2d5053830775ee9d04070dc3] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851, and read as if, in Annex 3, in entry HP 9, in the second sentence, “in the Member States” were omitted;
+- A1.. ‘the Waste Framework Directive’ means[^c-01cf7ade2d5053830775ee9d04070dc3] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851, and read as if, in Annex 3, in entry HP 9, in the second sentence, “in the Member States” were omitted;
 - A2.. ‘waste’, ‘hazardous waste’ and ‘non-hazardous waste’ have the meanings given in the Waste Framework Directive;
 - 1.. ‘hazardous substance’ means a substance classified as hazardous as a consequence of fulfilling the criteria laid down in parts 2 to 5 of Annex I to Regulation (EC) No 1272/2008;
 - 2.. ‘heavy metal’ means any compound of antimony, arsenic, cadmium, chromium (VI), copper, lead, mercury, nickel, selenium, tellurium, thallium and tin, as well as these materials in metallic form, as far as these are classified as hazardous substances;
@@ -109,15 +109,15 @@ ASSESSMENT AND CLASSIFICATION
 
 Assessment of hazardous properties of waste
 
-When assessing the hazardous properties of wastes, the criteria laid down in Annex III to the Waste Framework Directive[^key-ff000ec90338f7c1a9936053c6536372] shall apply. For the hazardous properties HP 4, HP 6 and HP 8, cut-off values for individual substances as indicated in Annex III to the Waste Framework Directive shall apply to the assessment. Where a substance is present in the waste below its cut-off value, it shall not be included in any calculation of a threshold. Where a hazardous property of a waste has been assessed by a test and by using the concentrations of hazardous substances as indicated in Annex III to the Waste Framework Directive, the results of the test shall prevail.
+When assessing the hazardous properties of wastes, the criteria laid down in Annex III to the Waste Framework Directive[^c-ff000ec90338f7c1a9936053c6536372] shall apply. For the hazardous properties HP 4, HP 6 and HP 8, cut-off values for individual substances as indicated in Annex III to the Waste Framework Directive shall apply to the assessment. Where a substance is present in the waste below its cut-off value, it shall not be included in any calculation of a threshold. Where a hazardous property of a waste has been assessed by a test and by using the concentrations of hazardous substances as indicated in Annex III to the Waste Framework Directive, the results of the test shall prevail.
 
 2\.
 
 Classification of waste as hazardous
 
-Any waste marked with an asterisk (\*) in the list of wastes shall be considered as hazardous waste for the purposes of any legislation relating to hazardous waste[^key-75536c2d7b88c8e925e48a518118d64b].
+Any waste marked with an asterisk (\*) in the list of wastes shall be considered as hazardous waste for the purposes of any legislation relating to hazardous waste[^c-75536c2d7b88c8e925e48a518118d64b].
 
-This is subject to any legislation which provides, or gives a person power to determine, that—[^key-14be6838aeeec6bd2e39c85d2ae6bb2d]
+This is subject to any legislation which provides, or gives a person power to determine, that—[^c-14be6838aeeec6bd2e39c85d2ae6bb2d]
 
 (a) waste of a kind which is listed as hazardous waste in the list of wastes is to be treated as non-hazardous waste in particular cases or circumstances (including in the case of a particular batch or consignment of waste); or
 
@@ -125,7 +125,7 @@ This is subject to any legislation which provides, or gives a person power to de
 
 For those wastes for which hazardous and non-hazardous waste codes could be assigned, the following shall apply:
 
-- An entry in the harmonised list of wastes marked as hazardous, having a specific or general reference to 'hazardous substances', is only appropriate to a waste when that waste contains relevant hazardous substances that cause the waste to display one or more of the hazardous properties HP 1 to HP 8 and/or HP 10 to HP 15 as listed in Annex III to the Waste Framework Directive. The assessment of the hazardous property HP 9 'infectious' shall be made according to relevant legislation or reference documents [^key-365c923c1a81c46c496124608bfdda1e]....
+- An entry in the harmonised list of wastes marked as hazardous, having a specific or general reference to 'hazardous substances', is only appropriate to a waste when that waste contains relevant hazardous substances that cause the waste to display one or more of the hazardous properties HP 1 to HP 8 and/or HP 10 to HP 15 as listed in Annex III to the Waste Framework Directive. The assessment of the hazardous property HP 9 'infectious' shall be made according to relevant legislation or reference documents [^c-365c923c1a81c46c496124608bfdda1e]....
 - A hazardous property can be assessed by using the concentration of substances in the waste as specified in Annex III to the Waste Framework Directive or, unless otherwise specified in Regulation (EC) No 1272/2008, by performing a test in accordance with Regulation (EC) No 440/2008 or other internationally recognised test methods and guidelines, taking into account Article 7 of Regulation (EC) No 1272/2008 as regards animal and human testing.
 - Wastes containing polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF), DDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl)ethane), chlordane, hexachlorocyclohexanes (including lindane), dieldrin, endrin, heptachlor, hexaclorobenzene, chlordecone, aldrine, pentachlorobenzene, mirex, toxaphene hexabromobiphenyl and/or PCB exceeding the concentration limits indicated in Annex IV to Regulation (EC) No 850/2004 of the European Parliament and of the Council[^f00009] shall be classified as hazardous.
 - The concentration limits defined in Annex III to the Waste Framework Directive do not apply to pure metal alloys in their massive form (not contaminated with hazardous substances). Those waste alloys that are considered as hazardous waste are specifically enumerated in this list and marked with an asterisk (\*).
@@ -1169,25 +1169,25 @@ INDEX
 
 [^c000001]: Textual amendment: Deleted by [Commission Decision of 18 December 2014 amending Decision 2000/532/EC on the list of waste pursuant to Directive 2008/98/EC of the European Parliament and of the Council (Text with EEA relevance) (2014/955/EU)](https://www.legislation.gov.uk/eudn/2014/955).
 
-[^key-dbca5293e656e56ba4990590ac9c5f38]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2000/532/article/4) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/2)
+[^c-dbca5293e656e56ba4990590ac9c5f38]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2000/532/article/4) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/2)
 
-[^key-b8ac7468f42e5d960cb0174316939a26]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2000/532/article/5) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/2)
+[^c-b8ac7468f42e5d960cb0174316939a26]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eudn/2000/532/article/5) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/2)
 
-[^key-8d7030c4c117af0a319bb5ced8010407]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2000/532/article/6) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/2)
+[^c-8d7030c4c117af0a319bb5ced8010407]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2000/532/article/6) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/2)
 
 [^c000002]: Textual amendment: Substituted by [Commission Decision of 18 December 2014 amending Decision 2000/532/EC on the list of waste pursuant to Directive 2008/98/EC of the European Parliament and of the Council (Text with EEA relevance) (2014/955/EU)](https://www.legislation.gov.uk/eudn/2014/955).
 
-[^key-01cf7ade2d5053830775ee9d04070dc3]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) inserted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/3)
+[^c-01cf7ade2d5053830775ee9d04070dc3]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) inserted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/3)
 
 [^f00008]: Footnote: Council Directive 96/59/EC of[^c000002] 16 September 1996 on the disposal of polychlorinated biphenyls and polychlorinated terphenyls (PCB/PCT) ( [OJ L 243, 24.9.1996, p. 31](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1996.243.01.0031.01.ENG) ).
 
-[^key-ff000ec90338f7c1a9936053c6536372]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(4)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/4/a)
+[^c-ff000ec90338f7c1a9936053c6536372]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(4)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/4/a)
 
-[^key-75536c2d7b88c8e925e48a518118d64b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/4/b/i)
+[^c-75536c2d7b88c8e925e48a518118d64b]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/4/b/i)
 
-[^key-14be6838aeeec6bd2e39c85d2ae6bb2d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) inserted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/4/b/ii)
+[^c-14be6838aeeec6bd2e39c85d2ae6bb2d]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) inserted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/4/b/ii)
 
-[^key-365c923c1a81c46c496124608bfdda1e]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/4/b/iii)
+[^c-365c923c1a81c46c496124608bfdda1e]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eudn/2000/532/annex) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [16(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/16/4/b/iii)
 
 [^f00009]: Footnote: Regulation (EC) No 850/2004 of the European parliament and of the Council of 29 April 2004 on persistent organic pollutants and amending Directive 79/117/EEC ( [OJ L 158, 30.4.2004, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.158.01.0007.01.ENG) ).
 

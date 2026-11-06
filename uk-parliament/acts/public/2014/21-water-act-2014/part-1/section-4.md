@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-bb1f7e2f17ee93f36b5022d317e4f831][^key-ddc55e4ecf5380e3ad59ec472155e9aa] After section 17B of the Water Industry Act 1991 there is inserted—
+(1)[^c-bb1f7e2f17ee93f36b5022d317e4f831][^c-ddc55e4ecf5380e3ad59ec472155e9aa] After section 17B of the Water Industry Act 1991 there is inserted—
 
 > **17BA. Sewerage licences**
 >
@@ -61,26 +61,26 @@ summary: ''
 >
 > (4) The restriction in subsection (3) does not apply if the sewerage licence gives only a retail authorisation.
 
-(2)[^key-400d269289872ba5271eab87c34b634d] After Schedule 2A to the Water Industry Act 1991 (inserted by section 1) there is inserted the Schedule set out in Schedule 3.
+(2)[^c-400d269289872ba5271eab87c34b634d] After Schedule 2A to the Water Industry Act 1991 (inserted by section 1) there is inserted the Schedule set out in Schedule 3.
 
-(3)[^key-837f9f13ab043301188d8896c8605ac7][^key-bd5c43d02e1c9affe3ac15dedc56cb6a][^key-f6c279e1695b9df7108f5f7f384c19ad][^key-db871b740cf85ca3b7330fb1547d1f43][^key-dc97291ea648c78594958e1e304af896][^key-08fd4de96048d14aac3260c5d756db8d] Schedule 4 (which amends Part 4 of the Water Industry Act 1991 to add a Chapter 2A relating to arrangements between sewerage undertakers and sewerage licensees) has effect.
+(3)[^c-837f9f13ab043301188d8896c8605ac7][^c-bd5c43d02e1c9affe3ac15dedc56cb6a][^c-f6c279e1695b9df7108f5f7f384c19ad][^c-db871b740cf85ca3b7330fb1547d1f43][^c-dc97291ea648c78594958e1e304af896][^c-08fd4de96048d14aac3260c5d756db8d] Schedule 4 (which amends Part 4 of the Water Industry Act 1991 to add a Chapter 2A relating to arrangements between sewerage undertakers and sewerage licensees) has effect.
 
 ## Annotations
 
-[^key-bb1f7e2f17ee93f36b5022d317e4f831]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/1) in force at 1.1.2016 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/b/i)
+[^c-bb1f7e2f17ee93f36b5022d317e4f831]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/1) in force at 1.1.2016 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/b/i)
 
-[^key-ddc55e4ecf5380e3ad59ec472155e9aa]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2016/465/article/2/b/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-ddc55e4ecf5380e3ad59ec472155e9aa]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2016/465/article/2/b/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-400d269289872ba5271eab87c34b634d]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/2) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art.](https://www.legislation.gov.uk/uksi/2015/1938/article)
+[^c-400d269289872ba5271eab87c34b634d]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/2) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art.](https://www.legislation.gov.uk/uksi/2015/1938/article)
 
-[^key-837f9f13ab043301188d8896c8605ac7]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.9.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/773/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/773/article/5))
+[^c-837f9f13ab043301188d8896c8605ac7]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.9.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/773/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/773/article/5))
 
-[^key-bd5c43d02e1c9affe3ac15dedc56cb6a]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/b)
+[^c-bd5c43d02e1c9affe3ac15dedc56cb6a]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/b)
 
-[^key-f6c279e1695b9df7108f5f7f384c19ad]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-f6c279e1695b9df7108f5f7f384c19ad]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-db871b740cf85ca3b7330fb1547d1f43]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/465/article/3/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-db871b740cf85ca3b7330fb1547d1f43]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/465/article/3/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-dc97291ea648c78594958e1e304af896]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 30.3.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/462/article/2/b)
+[^c-dc97291ea648c78594958e1e304af896]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 30.3.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/462/article/2/b)
 
-[^key-08fd4de96048d14aac3260c5d756db8d]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(c)](https://www.legislation.gov.uk/uksi/2017/462/article/3/c)
+[^c-08fd4de96048d14aac3260c5d756db8d]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/4/3) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(c)](https://www.legislation.gov.uk/uksi/2017/462/article/3/c)

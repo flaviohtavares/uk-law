@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120A. Notice to the regulators and the Bank of England of preliminary steps[^key-58618db5fc1a792ccabffedeee288555]
+## 120A. Notice to the regulators and the Bank of England of preliminary steps[^c-58618db5fc1a792ccabffedeee288555]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (b) “financial holding company” has the meaning given in Article 4.1(2) of the capital requirements regulation (within the meaning of section 3);
 - (c) “financial institution” has the meaning given in Article 4.1(26) of the capital requirements regulation (within the meaning of section 3);
 - (d) “mixed activity holding company” has the meaning given in Article 4.1(22) of the capital requirements regulation (within the meaning of section 3);
-- (e) “mixed financial holding company” has the meaning given in Article 4.1(21) of the capital requirements regulation (within the meaning of section 3).[^key-55945e5459e82362d2004d9e5c29a8ae]
+- (e) “mixed financial holding company” has the meaning given in Article 4.1(21) of the capital requirements regulation (within the meaning of section 3).[^c-55945e5459e82362d2004d9e5c29a8ae]
 
 (3) In this section, references to “the appropriate regulator” are—
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-58618db5fc1a792ccabffedeee288555]: Textual amendment: S. 120A inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [106](https://www.legislation.gov.uk/uksi/2014/3329/article/106)
+[^c-58618db5fc1a792ccabffedeee288555]: Textual amendment: S. 120A inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [106](https://www.legislation.gov.uk/uksi/2014/3329/article/106)
 
-[^key-55945e5459e82362d2004d9e5c29a8ae]: Textual amendment: Words in s. 120A(2) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55945e5459e82362d2004d9e5c29a8ae]: Textual amendment: Words in s. 120A(2) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41B. Power of Society to examine files in connection with complaints[^key-d41b903707de8d6d4729dd5d74843caf][^c17113101]
+## 41B. Power of Society to examine files in connection with complaints[^c-d41b903707de8d6d4729dd5d74843caf][^c17113101]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ the Society may give notice to the solicitor or his firm requiring the productio
 
 ## Annotations
 
-[^key-d41b903707de8d6d4729dd5d74843caf]: Modification: [Art. 41B](https://www.legislation.gov.uk/nisi/1976/582/article/41B) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(s)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/s)
+[^c-d41b903707de8d6d4729dd5d74843caf]: Modification: [Art. 41B](https://www.legislation.gov.uk/nisi/1976/582/article/41B) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(s)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/s)
 
 [^c17113101]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

@@ -30,7 +30,7 @@ if conditions A and B are met.
 (2) Condition A is that the payment is paid to—
 
 - (a) a former employee or a former office-holder,
-- (b) the widow or widower or surviving civil partner[^key-a967ccfe4f8c65d8d912b9397327e9a4] of a former employee or former office-holder, or
+- (b) the widow or widower or surviving civil partner[^c-a967ccfe4f8c65d8d912b9397327e9a4] of a former employee or former office-holder, or
 - (c) any child, relative or dependant of a former employee or a former office-holder.
 
 (3) Condition B is that the payment is paid by or on behalf of—
@@ -46,4 +46,4 @@ if conditions A and B are met.
 
 ## Annotations
 
-[^key-a967ccfe4f8c65d8d912b9397327e9a4]: Textual amendment: Words in s. 633(2)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [159](https://www.legislation.gov.uk/uksi/2005/3229/regulation/159)
+[^c-a967ccfe4f8c65d8d912b9397327e9a4]: Textual amendment: Words in s. 633(2)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [159](https://www.legislation.gov.uk/uksi/2005/3229/regulation/159)

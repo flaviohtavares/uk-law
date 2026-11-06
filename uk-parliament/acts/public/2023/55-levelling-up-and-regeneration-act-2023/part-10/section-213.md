@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Power to extend time limits[^key-6a8d6a2eaa6840f319b6a5c5f0c47b3a][^key-1497f6a23ef6c07d8b16b1a0b4bc33c8]
+## 213. Power to extend time limits[^c-6a8d6a2eaa6840f319b6a5c5f0c47b3a][^c-1497f6a23ef6c07d8b16b1a0b4bc33c8]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ a local authority has been impeded in deciding whether or how to exercise its fu
 
 ## Annotations
 
-[^key-6a8d6a2eaa6840f319b6a5c5f0c47b3a]: Commencement: S. 213 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-6a8d6a2eaa6840f319b6a5c5f0c47b3a]: Commencement: S. 213 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-1497f6a23ef6c07d8b16b1a0b4bc33c8]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2023/55/section/213) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-1497f6a23ef6c07d8b16b1a0b4bc33c8]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2023/55/section/213) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)

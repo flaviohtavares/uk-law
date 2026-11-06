@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Other sums to be disregarded[^key-c28885d9ff840f0a3a42ae8ef8883aea]
+## 15. Other sums to be disregarded[^c-c28885d9ff840f0a3a42ae8ef8883aea]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ There is to be disregarded in the calculation of A’s total income for the purp
 
 ## Annotations
 
-[^key-c28885d9ff840f0a3a42ae8ef8883aea]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2015/1844/regulation/15) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-c28885d9ff840f0a3a42ae8ef8883aea]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2015/1844/regulation/15) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

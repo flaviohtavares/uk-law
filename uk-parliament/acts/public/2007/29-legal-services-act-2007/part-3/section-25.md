@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Provisional designation as approved regulators and licensing authorities[^c20581371][^key-a182ba1d0c36194059fe105e67bb4953]
+## 25. Provisional designation as approved regulators and licensing authorities[^c20581371][^c-a182ba1d0c36194059fe105e67bb4953]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c20581371]: Commencement: S. 25 partly in force: s. 25 not in force at Royal Assent see s. 211; s. 25 in force for certain purposes at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/b/i) (subject to [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/3250/article/3/2) (as amended (30.9.2011) by S.I. 2011/2196, arts. 1(2), 5) and with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-a182ba1d0c36194059fe105e67bb4953]: Commencement: S. 25 in force at 2.8.2010 subject to the transitional provision previously made in relation to s. 25(3)(a)(b) by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)
+[^c-a182ba1d0c36194059fe105e67bb4953]: Commencement: S. 25 in force at 2.8.2010 subject to the transitional provision previously made in relation to s. 25(3)(a)(b) by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)

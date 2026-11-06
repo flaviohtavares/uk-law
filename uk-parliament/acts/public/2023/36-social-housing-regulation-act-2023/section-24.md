@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Direction by Secretary of State[^key-02201a3fff1f1ba6ed485e63bbffca9d][^key-c71cb210d409b368057cd976ea02bb21]
+## 24. Direction by Secretary of State[^c-02201a3fff1f1ba6ed485e63bbffca9d][^c-c71cb210d409b368057cd976ea02bb21]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ In section 197 of the Housing and Regeneration Act 2008 (direction by Secretary 
 
 ## Annotations
 
-[^key-02201a3fff1f1ba6ed485e63bbffca9d]: Commencement: S. 24 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-02201a3fff1f1ba6ed485e63bbffca9d]: Commencement: S. 24 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-c71cb210d409b368057cd976ea02bb21]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/36/section/24) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/l)
+[^c-c71cb210d409b368057cd976ea02bb21]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/36/section/24) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/l)

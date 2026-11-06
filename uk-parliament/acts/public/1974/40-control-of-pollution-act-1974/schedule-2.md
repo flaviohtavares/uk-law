@@ -32,9 +32,9 @@ Section 99.
 
 ### The Alkali, &c. Works Regulation Act 1906
 
-**4.**[^key-d6b161212f1239f4c1efaa6eb1253c49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d6b161212f1239f4c1efaa6eb1253c49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6111e2f227b40d4c109704a88a886310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6111e2f227b40d4c109704a88a886310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Public Health Act 1936[^c2463601]
 
@@ -82,7 +82,7 @@ Section 99.
 
 ### The Radioactive Substances Act 1960
 
-**20.**[^key-a55c4a3bdbecdd535eef155cc6f29d3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-a55c4a3bdbecdd535eef155cc6f29d3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Sewerage (Scotland) Act 1968[^c2463921]
 
@@ -113,9 +113,9 @@ Section 99.
 
 [^c18920381]: Textual amendment: Sch. 2 para. 3 repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-d6b161212f1239f4c1efaa6eb1253c49]: Textual amendment: Sch. 2 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-d6b161212f1239f4c1efaa6eb1253c49]: Textual amendment: Sch. 2 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
-[^key-6111e2f227b40d4c109704a88a886310]: Textual amendment: Sch. 2 para. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-6111e2f227b40d4c109704a88a886310]: Textual amendment: Sch. 2 para. 5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c2463601]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
@@ -147,7 +147,7 @@ Section 99.
 
 [^c18919751]: Textual amendment: Sch. 2 para. 19 repealed (27.8.1993) by [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/1993/11/section/67/3), [68(2)](https://www.legislation.gov.uk/ukpga/1993/11/section/68/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1993/11/schedule/6)
 
-[^key-a55c4a3bdbecdd535eef155cc6f29d3c]: Textual amendment: Sch. 2 para. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-a55c4a3bdbecdd535eef155cc6f29d3c]: Textual amendment: Sch. 2 para. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c2463921]: Marginal citation: [1968 c. 47](https://www.legislation.gov.uk/ukpga/1968/47).
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Declaration required of persons who are not members of council[^key-be12f3e891754bb7e42e7f9bea301f01]
+## 16. Declaration required of persons who are not members of council[^c-be12f3e891754bb7e42e7f9bea301f01]
 
 *Extent: N.I.*
 
 (1) A person who—
 
-- (a)[^key-aa029fafb57fc82c40210771446255f9] is a member of a committee appointed under section 11 or 12; but
+- (a)[^c-aa029fafb57fc82c40210771446255f9] is a member of a committee appointed under section 11 or 12; but
 - (b) is not a member of the council which appointed that committee,
 
 must not act as a member of that committee until the person has made, and served on the clerk of the council, a declaration in the form set out in Schedule 3.
@@ -34,6 +34,6 @@ must not act as a member of that committee until the person has made, and served
 
 ## Annotations
 
-[^key-be12f3e891754bb7e42e7f9bea301f01]: Commencement: S. 16 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-be12f3e891754bb7e42e7f9bea301f01]: Commencement: S. 16 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-aa029fafb57fc82c40210771446255f9]: Modification: S. 16 applied (with Modifications) (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/148/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2014/148/regulation/5/4/a)
+[^c-aa029fafb57fc82c40210771446255f9]: Modification: S. 16 applied (with Modifications) (28.5.2014) by [The Local Government (Transitional, Supplementary, Incidental Provisions and Modifications) Regulations (Northern Ireland) 2014 (S.R. 2014/148)](https://www.legislation.gov.uk/nisr/2014/148), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/148/regulation/1/1), [5(4)](https://www.legislation.gov.uk/nisr/2014/148/regulation/5/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69L. Disclosures relating to off-balance-sheet arrangements[^key-a8afdc1c6a077bc2fe47580d3f10d629]
+## 69L. Disclosures relating to off-balance-sheet arrangements[^c-a8afdc1c6a077bc2fe47580d3f10d629]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the information required by this section must be given in notes to the societyâ€
 
 ## Annotations
 
-[^key-a8afdc1c6a077bc2fe47580d3f10d629]: Textual amendment: [S. 69L](https://www.legislation.gov.uk/ukpga/1992/40/section/69L) inserted (29.6.2008 with effect in accordance with art. 1(3) of the amending S.I.) by [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [3](https://www.legislation.gov.uk/uksi/2008/1140/article/3)
+[^c-a8afdc1c6a077bc2fe47580d3f10d629]: Textual amendment: [S. 69L](https://www.legislation.gov.uk/ukpga/1992/40/section/69L) inserted (29.6.2008 with effect in accordance with art. 1(3) of the amending S.I.) by [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [3](https://www.legislation.gov.uk/uksi/2008/1140/article/3)

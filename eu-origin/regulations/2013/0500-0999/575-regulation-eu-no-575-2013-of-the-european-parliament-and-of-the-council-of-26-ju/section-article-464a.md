@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 464A. Regulations: general provisions[^key-94a1e616ba7515d498d0f73c2daaa212]
+## Article 464A. Regulations: general provisions[^c-94a1e616ba7515d498d0f73c2daaa212]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94a1e616ba7515d498d0f73c2daaa212]: Textual amendment: [Arts. 464A](https://www.legislation.gov.uk/eur/2013/575/article/464A), [464B](https://www.legislation.gov.uk/eur/2013/575/article/464B) inserted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [205](https://www.legislation.gov.uk/uksi/2018/1401/regulation/205) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94a1e616ba7515d498d0f73c2daaa212]: Textual amendment: [Arts. 464A](https://www.legislation.gov.uk/eur/2013/575/article/464A), [464B](https://www.legislation.gov.uk/eur/2013/575/article/464B) inserted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [205](https://www.legislation.gov.uk/uksi/2018/1401/regulation/205) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -35,7 +35,7 @@ A Measure passed by the General Synod of the Church of England to make further p
 
 ## Part 1 — Parochial Fees
 
-### 1. Preparation of Parochial Fees Order[^key-f078f99ddabbdc6d20761585b50048a0]
+### 1. Preparation of Parochial Fees Order[^c-f078f99ddabbdc6d20761585b50048a0]
 
 (1) For section 1 of the Ecclesiastical Fees Measure 1986 (1986 No. 2) there shall be substituted the following section—
 
@@ -85,21 +85,21 @@ A Measure passed by the General Synod of the Church of England to make further p
 
 (2) Schedule A1 to the 1986 Measure is set out in Schedule 1 to this Measure.
 
-### 2. Amendment of section 2 of the 1986 Measure[^key-89105236a4a56d3e2476c6e9edc94c4c]
+### 2. Amendment of section 2 of the 1986 Measure[^c-89105236a4a56d3e2476c6e9edc94c4c]
 
 In subsections (1), (2), (3) and (4) of section 2 of the 1986 Measure, after the words “Parochial Fees Order” there shall be inserted, in each place, the words “ or Scheduled Matters Amending Order ”.
 
-## Part 2 — Ecclesiastical Judges' and Legal Officers' Fees[^key-1d16ea89dcc4034c0bd79f535b669801]
+## Part 2 — Ecclesiastical Judges' and Legal Officers' Fees[^c-1d16ea89dcc4034c0bd79f535b669801]
 
 **No longer in force.**
 
-### 3. Constitution of Fees Advisory Commission and Ecclesiastical Judges and Legal Officers (Annual Fees) Orders[^key-1d16ea89dcc4034c0bd79f535b669801]
+### 3. Constitution of Fees Advisory Commission and Ecclesiastical Judges and Legal Officers (Annual Fees) Orders[^c-1d16ea89dcc4034c0bd79f535b669801]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part 3 — General
 
-### 4. Consequential amendments and repeals[^key-d4f1c614269ddd5485155743aff7509b]
+### 4. Consequential amendments and repeals[^c-d4f1c614269ddd5485155743aff7509b]
 
 (1) The 1986 Measure shall be further amended as follows—
 
@@ -124,18 +124,18 @@ In subsections (1), (2), (3) and (4) of section 2 of the 1986 Measure, after the
 
 ### 5. Transitional provisions
 
-(1)[^key-7ab75ded5e2c3811e4ab07cc75fb5f2c][^key-44cc8e02a42f167095122292d532b1ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7ab75ded5e2c3811e4ab07cc75fb5f2c][^c-44cc8e02a42f167095122292d532b1ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-28df57161d485c3077b4983ec7e2c90c] Any incumbent holding office on the coming into force of this section who is entitled to receive a fee relating to any matter under a Parochial Fees Order shall, if he or she—
+(2)[^c-28df57161d485c3077b4983ec7e2c90c] Any incumbent holding office on the coming into force of this section who is entitled to receive a fee relating to any matter under a Parochial Fees Order shall, if he or she—
 
 - (a) has not assigned that fee to the diocesan board of finance of the diocese in which the benefice of which he or she is the incumbent is situated or, in the case of an incumbent of a benefice comprising a parish of which a cathedral is the parish church, to the corporate body of the cathedral, and
 - (b) notifies the bishop of the diocese in writing within the period of six months from the coming into force of this section that he or she wishes to preserve that entitlement,
 
 so long as he or she holds office, be entitled to receive the fee which would, apart from this subsection, be payable to the diocesan board of finance or the corporate body of the cathedral, as the case may be.
 
-(3)[^key-28df57161d485c3077b4983ec7e2c90c] Any Parochial Fees Order in force on the coming into force of Part 1 shall continue in force until it is replaced or amended by a subsequent Parochial Fees Order.
+(3)[^c-28df57161d485c3077b4983ec7e2c90c] Any Parochial Fees Order in force on the coming into force of Part 1 shall continue in force until it is replaced or amended by a subsequent Parochial Fees Order.
 
-### 6. Citation, commencement and extent[^key-41c282cd4fa9fdb39b1205436589f8e8]
+### 6. Citation, commencement and extent[^c-41c282cd4fa9fdb39b1205436589f8e8]
 
 (1) This Measure may be cited as the Ecclesiastical Fees (Amendment) Measure 2011.
 
@@ -150,7 +150,7 @@ so long as he or she holds office, be entitled to receive the fee which would, a
 
 SCHEDULES
 
-## SCHEDULE 1 — Schedule inserted as Schedule A1 to the 1986 Measure[^key-e3a309ef9b80dcf0965e84f2984a4e47]
+## SCHEDULE 1 — Schedule inserted as Schedule A1 to the 1986 Measure[^c-e3a309ef9b80dcf0965e84f2984a4e47]
 
 Section 1(2)
 
@@ -215,15 +215,15 @@ Section 1(2)
 
 Section 4(2)
 
-**1.**[^key-8a75f0eb35ae41c9916d0b52f9b5ad8e] The enactments listed in this Schedule shall be amended as follows.
+**1.**[^c-8a75f0eb35ae41c9916d0b52f9b5ad8e] The enactments listed in this Schedule shall be amended as follows.
 
 ### The Marriage Act 1949 (12, 13 & 14 Geo. 6 c. 76)
 
-**2.**[^key-a60686d2cd8fe0e75040643888c513b4] In section 63(1) of the Marriage Act 1949, after the word “fee” there shall be inserted the words “ , payable, in the case of a fee previously payable to an incumbent, to the parochial church council of the parish, ”.
+**2.**[^c-a60686d2cd8fe0e75040643888c513b4] In section 63(1) of the Marriage Act 1949, after the word “fee” there shall be inserted the words “ , payable, in the case of a fee previously payable to an incumbent, to the parochial church council of the parish, ”.
 
 ### The Local Authorities' Cemeteries Order 1977 (S.I. 1977/204)
 
-**3.**[^key-96f05f2248b1453ad1ba9d12c2ca5844] The Local Authorities' Cemeteries Order 1977 shall be amended as follows—
+**3.**[^c-96f05f2248b1453ad1ba9d12c2ca5844] The Local Authorities' Cemeteries Order 1977 shall be amended as follows—
 
 - (a) in Article 15(2), at the end there shall be added the words “ , except that, in the case of fees collected for services rendered by a minister of the Church of England, the fees shall be paid to the diocesan board of finance to which fees are payable under section 1 of the Ecclesiastical Fees Measure 1986 ”;
 - (b) Article 15(4) shall be omitted; and
@@ -231,7 +231,7 @@ Section 4(2)
 
 ### The Parochial Registers and Records Measure 1978 (1978 No. 2)
 
-**4.**[^key-ae1967a5886bf89890e42a37902de2f5] Section 20 of the Parochial Registers and Records Measure 1978 shall be amended as follows—
+**4.**[^c-ae1967a5886bf89890e42a37902de2f5] Section 20 of the Parochial Registers and Records Measure 1978 shall be amended as follows—
 
 - (a) in subsection (2)(b), for the word “incumbent” there shall be substituted the words “ diocesan board of finance ”;
 - (b) in subsection (3), after the word “incumbent” there shall be inserted the words “ and to the parochial church council of the parish ”; and
@@ -243,28 +243,28 @@ Section 4(2)
 
 ## Annotations
 
-[^key-f078f99ddabbdc6d20761585b50048a0]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2011/2/section/1) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-f078f99ddabbdc6d20761585b50048a0]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2011/2/section/1) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
-[^key-89105236a4a56d3e2476c6e9edc94c4c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2011/2/section/2) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-89105236a4a56d3e2476c6e9edc94c4c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2011/2/section/2) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
-[^key-1d16ea89dcc4034c0bd79f535b669801]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukcm/2011/2/part/2) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-1d16ea89dcc4034c0bd79f535b669801]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukcm/2011/2/part/2) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-d4f1c614269ddd5485155743aff7509b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2011/2/section/4) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-d4f1c614269ddd5485155743aff7509b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2011/2/section/4) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
-[^key-7ab75ded5e2c3811e4ab07cc75fb5f2c]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukcm/2011/2/section/5/1) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-7ab75ded5e2c3811e4ab07cc75fb5f2c]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukcm/2011/2/section/5/1) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-44cc8e02a42f167095122292d532b1ff]: Commencement: S. 5(1) in force at 1.10.2011 by [2011 No. 3](https://www.legislation.gov.uk/ukci/2011/3), [art. 2](https://www.legislation.gov.uk/ukci/2011/3/article/2)
+[^c-44cc8e02a42f167095122292d532b1ff]: Commencement: S. 5(1) in force at 1.10.2011 by [2011 No. 3](https://www.legislation.gov.uk/ukci/2011/3), [art. 2](https://www.legislation.gov.uk/ukci/2011/3/article/2)
 
-[^key-28df57161d485c3077b4983ec7e2c90c]: Commencement: S. 5(2)(3) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-28df57161d485c3077b4983ec7e2c90c]: Commencement: S. 5(2)(3) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
-[^key-41c282cd4fa9fdb39b1205436589f8e8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2011/2/section/6) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-41c282cd4fa9fdb39b1205436589f8e8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2011/2/section/6) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
-[^key-e3a309ef9b80dcf0965e84f2984a4e47]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukcm/2011/2/schedule/1) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-e3a309ef9b80dcf0965e84f2984a4e47]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukcm/2011/2/schedule/1) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
-[^key-8a75f0eb35ae41c9916d0b52f9b5ad8e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/1) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-8a75f0eb35ae41c9916d0b52f9b5ad8e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/1) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
-[^key-a60686d2cd8fe0e75040643888c513b4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/2) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-a60686d2cd8fe0e75040643888c513b4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/2) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
-[^key-96f05f2248b1453ad1ba9d12c2ca5844]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/3) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-96f05f2248b1453ad1ba9d12c2ca5844]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/3) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
 
-[^key-ae1967a5886bf89890e42a37902de2f5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/4) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)
+[^c-ae1967a5886bf89890e42a37902de2f5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukcm/2011/2/schedule/2/paragraph/4) in force at 1.7.2011 by [2011 No. 1](https://www.legislation.gov.uk/ukci/2011/1), [art. 2](https://www.legislation.gov.uk/ukci/2011/1/article/2)

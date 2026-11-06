@@ -59,7 +59,7 @@ A draft of these Regulations has been laid before, and approved by a resolution 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent, transitional provisions and savings[^key-7506d7294eb2e8c3d577239d5a58c79c]
+### 1. Citation, commencement, extent, transitional provisions and savings[^c-7506d7294eb2e8c3d577239d5a58c79c]
 
 (1) These Regulations may be cited as the Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023.
 
@@ -88,11 +88,11 @@ A draft of these Regulations has been laid before, and approved by a resolution 
 
 ## PART 2 — Amendment of the Representation of the People (England and Wales) Regulations 2001
 
-### 2. Introduction to Part 2[^key-515451a4b790f2252258420a3072eb49]
+### 2. Introduction to Part 2[^c-515451a4b790f2252258420a3072eb49]
 
 The Representation of the People (England and Wales) Regulations 2001[^f00016] are amended in accordance with this Part.
 
-### 3. Amendment of Part 1 (general, interpretation and miscellaneous)[^key-ac0508be82073abe5190b97ce6db32d8]
+### 3. Amendment of Part 1 (general, interpretation and miscellaneous)[^c-ac0508be82073abe5190b97ce6db32d8]
 
 (1) Part 1 (general, interpretation and miscellaneous) is amended as follows.
 
@@ -133,7 +133,7 @@ The Representation of the People (England and Wales) Regulations 2001[^f00016] a
 
 .
 
-### 4. Amendment of Part 3 (registration)[^key-436c797c8adde42a99571fcfe30e6f40]
+### 4. Amendment of Part 3 (registration)[^c-436c797c8adde42a99571fcfe30e6f40]
 
 (1) Part 3 (registration) is amended as follows.
 
@@ -164,7 +164,7 @@ The Representation of the People (England and Wales) Regulations 2001[^f00016] a
 
     .
 
-### 5. Amendment of Part 4 (absent voters)[^key-8664840a9316a83212c0f636b5f2a6b0]
+### 5. Amendment of Part 4 (absent voters)[^c-8664840a9316a83212c0f636b5f2a6b0]
 
 (1) Part 4 (absent voters) is amended as follows.
 
@@ -505,18 +505,18 @@ The Representation of the People (England and Wales) Regulations 2001[^f00016] a
 
 (12) In regulation 61 (records and lists kept under Schedule 4), in paragraph (7) after “regulation 56(3A)” insert “or (3D)”.
 
-### 6. Amendment of Schedule 3 (forms)[^key-77e115e52448e8923dada23b3c86ff85][^key-008936db7e8b2023643ce018f1228096]
+### 6. Amendment of Schedule 3 (forms)[^c-77e115e52448e8923dada23b3c86ff85][^c-008936db7e8b2023643ce018f1228096]
 
 In Schedule 3 (forms)—
 
-- (a)[^key-77e115e52448e8923dada23b3c86ff85] in the arrangement of forms—
+- (a)[^c-77e115e52448e8923dada23b3c86ff85] in the arrangement of forms—
   - (i) in the entry for Form E, after “proxy paper” insert “(local government elections in Wales)”;
   - (ii) after that entry insert—
 
     > Form E1: Proxy paper (parliamentary elections and local government elections in England)
 
     ;
-- (b)[^key-008936db7e8b2023643ce018f1228096] for Form A (official poll card to be sent to an elector voting in person) and Form B (official proxy poll card to be sent to an appointed proxy voting in person) substitute the corresponding forms as set out in Schedule 3;
+- (b)[^c-008936db7e8b2023643ce018f1228096] for Form A (official poll card to be sent to an elector voting in person) and Form B (official proxy poll card to be sent to an appointed proxy voting in person) substitute the corresponding forms as set out in Schedule 3;
 - (c) in Form E—
   - (i) omit “Constituency”;
   - (ii) omit “\*\[” in the first place it occurs;
@@ -529,11 +529,11 @@ In Schedule 3 (forms)—
 
 ## PART 3 — Amendment of the Representation of the People (Scotland) Regulations 2001
 
-### 7. Introduction to Part 3[^key-dea8a57aee76bff41c4dd49fb2924866]
+### 7. Introduction to Part 3[^c-dea8a57aee76bff41c4dd49fb2924866]
 
 The Representation of the People (Scotland) Regulations 2001 are amended in accordance with this Part.
 
-### 8. Amendment of Part 1 (general, interpretation and miscellaneous)[^key-2457617c87d092b4f8c72cd338968e03]
+### 8. Amendment of Part 1 (general, interpretation and miscellaneous)[^c-2457617c87d092b4f8c72cd338968e03]
 
 (1) Part 1 (general, interpretation and miscellaneous) is amended as follows.
 
@@ -574,7 +574,7 @@ The Representation of the People (Scotland) Regulations 2001 are amended in acco
 
 .
 
-### 9. Amendment of Part 3 (registration)[^key-2e7a3664c53bca9b0bd648b978dcf5e2]
+### 9. Amendment of Part 3 (registration)[^c-2e7a3664c53bca9b0bd648b978dcf5e2]
 
 (1) Part 3 (registration) is amended as follows.
 
@@ -605,7 +605,7 @@ The Representation of the People (Scotland) Regulations 2001 are amended in acco
 
     .
 
-### 10. Amendment of Part 4 (absent voters)[^key-316b0cc61a82381e03ff240c6775b297]
+### 10. Amendment of Part 4 (absent voters)[^c-316b0cc61a82381e03ff240c6775b297]
 
 (1) Part 4 (absent voters) is amended as follows.
 
@@ -943,19 +943,19 @@ The Representation of the People (Scotland) Regulations 2001 are amended in acco
 
 (12) In regulation 61 (records and lists kept under Schedule 4), in paragraph (7) after “regulation 56(3A)” insert “or (3D)”.
 
-### 11. Amendment of Schedule 3 (forms)[^key-8ef992b0a10603138a4d8c06fd89dbf3][^key-ee2403e3561211874f367ebcc186d279]
+### 11. Amendment of Schedule 3 (forms)[^c-8ef992b0a10603138a4d8c06fd89dbf3][^c-ee2403e3561211874f367ebcc186d279]
 
 In Schedule 3 (forms)—
 
-- (a)[^key-8ef992b0a10603138a4d8c06fd89dbf3] in the arrangement of forms—
+- (a)[^c-8ef992b0a10603138a4d8c06fd89dbf3] in the arrangement of forms—
   - (i) in the entry for Form E, after “proxy paper” insert “(local government elections)”;
   - (ii) after that entry insert—
 
     > Form E1: Proxy paper (parliamentary elections)
 
     ;
-- (b)[^key-ee2403e3561211874f367ebcc186d279] for Form A (official poll card to be sent to an elector voting in person) and Form B (official proxy poll card to be sent to an appointed proxy voting in person) substitute the corresponding forms as set out in Schedule 4;
-- (c)[^key-8ef992b0a10603138a4d8c06fd89dbf3] in Form E—
+- (b)[^c-ee2403e3561211874f367ebcc186d279] for Form A (official poll card to be sent to an elector voting in person) and Form B (official proxy poll card to be sent to an appointed proxy voting in person) substitute the corresponding forms as set out in Schedule 4;
+- (c)[^c-8ef992b0a10603138a4d8c06fd89dbf3] in Form E—
   - (i) omit “Constituency”;
   - (ii) omit “\*\[” in the first place it occurs;
   - (iii) omit “\]” in the first place it occurs;
@@ -963,11 +963,11 @@ In Schedule 3 (forms)—
   - (v) for “\*\[parliamentary\] \*\[local government\]” in both places it occurs substitute “local government”;
   - (vi) for “\*\[constituency\] \*\[electoral area\]” in both places it occurs substitute “electoral area”;
   - (vii) in the section titled “Your right to vote as proxy”, in paragraph (2), omit “parliamentary, or”;
-- (d)[^key-8ef992b0a10603138a4d8c06fd89dbf3] after Form E, insert new Form E1 as set out in Schedule 4.
+- (d)[^c-8ef992b0a10603138a4d8c06fd89dbf3] after Form E, insert new Form E1 as set out in Schedule 4.
 
 ## PART 4 — Other amendments
 
-### 12. Amendment of the Representation of the People (Scotland) Regulations 1986[^key-26db95bd94f1ede129ca7f56663e46ea]
+### 12. Amendment of the Representation of the People (Scotland) Regulations 1986[^c-26db95bd94f1ede129ca7f56663e46ea]
 
 In regulation 98 of the Representation of the People (Scotland) Regulations 1986 (modification of parliamentary elections rules)[^f00039], in paragraph (8) after sub-paragraph (a) insert—
 
@@ -976,7 +976,7 @@ In regulation 98 of the Representation of the People (Scotland) Regulations 1986
 
 .
 
-### 13. Amendment of the Representation of the People (Combination of Polls) (England and Wales) Regulations 2004[^key-6bda9d8e53c56af22c59197f3a3607d2]
+### 13. Amendment of the Representation of the People (Combination of Polls) (England and Wales) Regulations 2004[^c-6bda9d8e53c56af22c59197f3a3607d2]
 
 In Schedule 2 to the Representation of the People (Combination of Polls) (England and Wales) Regulations 2004 (modifications to parliamentary elections rules)[^f00040], in paragraph 12(2), after paragraph (a) insert—
 
@@ -985,13 +985,13 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
 
 .
 
-### 14. Amendment of the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007[^key-88e6f647dd2c33f441b959c302035eb7][^key-5d7ceb0c3b11e0f749fe8c0a2b813637]
+### 14. Amendment of the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007[^c-88e6f647dd2c33f441b959c302035eb7][^c-5d7ceb0c3b11e0f749fe8c0a2b813637]
 
 (1) The Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007[^f00041] are amended as follows.
 
 (2) Schedule 1 (the mayoral elections rules) is amended in accordance with paragraphs (3) to (5).
 
-(3)[^key-5d7ceb0c3b11e0f749fe8c0a2b813637] In rule 35 (questions to be put to voters)—
+(3)[^c-5d7ceb0c3b11e0f749fe8c0a2b813637] In rule 35 (questions to be put to voters)—
 
 - (a) in paragraph (1)—
   - (i) at the end of sub-paragraph (a), omit “and”;
@@ -1023,11 +1023,11 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
 
 .
 
-(5)[^key-5d7ceb0c3b11e0f749fe8c0a2b813637] In the Appendix of Forms, for Forms 8A (elector’s official poll card (for use at mayoral elections in England)) and 10A (official proxy poll card (for use at mayoral elections in England) substitute the corresponding forms in Part 1 of Schedule 5.
+(5)[^c-5d7ceb0c3b11e0f749fe8c0a2b813637] In the Appendix of Forms, for Forms 8A (elector’s official poll card (for use at mayoral elections in England)) and 10A (official proxy poll card (for use at mayoral elections in England) substitute the corresponding forms in Part 1 of Schedule 5.
 
 (6) Schedule 3 (mayoral election (combination of polls) rules) is amended in accordance with paragraphs (7) to (9).
 
-(7)[^key-5d7ceb0c3b11e0f749fe8c0a2b813637] In rule 35 (questions to be put to voters)—
+(7)[^c-5d7ceb0c3b11e0f749fe8c0a2b813637] In rule 35 (questions to be put to voters)—
 
 - (a) in paragraph (1)—
   - (i) at the end of sub-paragraph (a), omit “and”;
@@ -1059,15 +1059,15 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
 
 .
 
-(9)[^key-5d7ceb0c3b11e0f749fe8c0a2b813637] In the Appendix of Forms, for Forms 8A (elector’s official poll card (for use at mayoral elections in England)) and 10A (official proxy poll card (for use at mayoral elections in England) substitute the corresponding forms in Part 2 of Schedule 5.
+(9)[^c-5d7ceb0c3b11e0f749fe8c0a2b813637] In the Appendix of Forms, for Forms 8A (elector’s official poll card (for use at mayoral elections in England)) and 10A (official proxy poll card (for use at mayoral elections in England) substitute the corresponding forms in Part 2 of Schedule 5.
 
-### 15. The Local Authorities (Conduct of Referendums) (England) Regulations 2012[^key-85e7ce886f6ad2babcadf1e33e2f3e1a][^key-7546736aca87f5f664b7e979e26f7d28]
+### 15. The Local Authorities (Conduct of Referendums) (England) Regulations 2012[^c-85e7ce886f6ad2babcadf1e33e2f3e1a][^c-7546736aca87f5f664b7e979e26f7d28]
 
-(1)[^key-85e7ce886f6ad2babcadf1e33e2f3e1a] The Local Authorities (Conduct of Referendums) (England) Regulations 2012[^f00042] are amended as follows.
+(1)[^c-85e7ce886f6ad2babcadf1e33e2f3e1a] The Local Authorities (Conduct of Referendums) (England) Regulations 2012[^f00042] are amended as follows.
 
-(2)[^key-85e7ce886f6ad2babcadf1e33e2f3e1a] Schedule 3 (local government act referendum rules) is amended in accordance with paragraphs (3) and (4).
+(2)[^c-85e7ce886f6ad2babcadf1e33e2f3e1a] Schedule 3 (local government act referendum rules) is amended in accordance with paragraphs (3) and (4).
 
-(3)[^key-85e7ce886f6ad2babcadf1e33e2f3e1a] In rule 24 (questions to be put to voters and proxies)—
+(3)[^c-85e7ce886f6ad2babcadf1e33e2f3e1a] In rule 24 (questions to be put to voters and proxies)—
 
 - (a) in paragraph (1)(b), after “put if” insert “the person has answered the previous question in the manner indicated (where applicable), and”;
 - (b) in the table following paragraph (1)—
@@ -1082,7 +1082,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   - (ii) omit entry 4;
 - (c) in paragraph (2), for “3(a), (b) and (c)” substitute “3(a) and (b)”.
 
-(4)[^key-85e7ce886f6ad2babcadf1e33e2f3e1a] In Part 8 (appendix of forms), for the form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) substitute the corresponding forms in Part 1 of Schedule 6.
+(4)[^c-85e7ce886f6ad2babcadf1e33e2f3e1a] In Part 8 (appendix of forms), for the form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) substitute the corresponding forms in Part 1 of Schedule 6.
 
 (5) In Schedule 4 (application, with modifications, of Acts and subordinate legislation)—
 
@@ -1096,10 +1096,10 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     > - (c) in paragraph (d)(ii), after “that election” insert “or referendum”.
 
     ;
-  - (ii)[^key-85e7ce886f6ad2babcadf1e33e2f3e1a] in the modifications for subsections (2) to (4)—
+  - (ii)[^c-85e7ce886f6ad2babcadf1e33e2f3e1a] in the modifications for subsections (2) to (4)—
     - (aa) for “subsections (2) to (4)” substitute “subsections (2) to (3A)”;
     - (bb) omit the text of substituted subsection (4);
-  - (iii)[^key-85e7ce886f6ad2babcadf1e33e2f3e1a] after those modifications insert—
+  - (iii)[^c-85e7ce886f6ad2babcadf1e33e2f3e1a] after those modifications insert—
 
     > In subsection (3B)—
     >
@@ -1117,7 +1117,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     > In paragraphs 3(4)(aa), 3(5)(ca), 7(6)(aa) and 7(9)(ca), for “(or both)” substitute “or referendums, or at any combination of such polls”.
 
     ;
-- (c)[^key-7546736aca87f5f664b7e979e26f7d28] in Table 6 (Representation of the People (England and Wales) Regulations 2001)—
+- (c)[^c-7546736aca87f5f664b7e979e26f7d28] in Table 6 (Representation of the People (England and Wales) Regulations 2001)—
   - (i) in the entry for regulation 3, in the second column, at the beginning insert—
 
     > In paragraph (1), for the definition of “relevant absent voting application” substitute—
@@ -1162,9 +1162,9 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     ;
   - (viii) in the entry for Schedule 3, Form E, in the first column, for “Form E” substitute “Form E1”.
 
-(6)[^key-85e7ce886f6ad2babcadf1e33e2f3e1a] Schedule 5 (the local government act referendums (combination of polls) rules) is amended in accordance with paragraphs (7) and (8).
+(6)[^c-85e7ce886f6ad2babcadf1e33e2f3e1a] Schedule 5 (the local government act referendums (combination of polls) rules) is amended in accordance with paragraphs (7) and (8).
 
-(7)[^key-85e7ce886f6ad2babcadf1e33e2f3e1a] In rule 26 (questions to be put to voters and proxies)—
+(7)[^c-85e7ce886f6ad2babcadf1e33e2f3e1a] In rule 26 (questions to be put to voters and proxies)—
 
 - (a) in paragraph (1)(b), after “put if” insert “(where applicable) the person has answered the previous question in the manner indicated, and”;
 - (b) in the table following paragraph (1)—
@@ -1179,15 +1179,15 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   - (ii) omit entry 4;
 - (c) in paragraph (2), for “3(a), (b) and (c)” substitute “3(a) and (b)”.
 
-(8)[^key-85e7ce886f6ad2babcadf1e33e2f3e1a] In Part 8 (appendix of forms), for the form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) substitute the corresponding forms in Part 2 of Schedule 6.
+(8)[^c-85e7ce886f6ad2babcadf1e33e2f3e1a] In Part 8 (appendix of forms), for the form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) substitute the corresponding forms in Part 2 of Schedule 6.
 
-### 16. The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^key-0c07cd6d4281a88a3c1a16b6693336ed][^key-5d38fe52cb7de7b3e8e54ed95a553156]
+### 16. The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^c-0c07cd6d4281a88a3c1a16b6693336ed][^c-5d38fe52cb7de7b3e8e54ed95a553156]
 
-(1)[^key-0c07cd6d4281a88a3c1a16b6693336ed] The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^f00045] are amended as follows.
+(1)[^c-0c07cd6d4281a88a3c1a16b6693336ed] The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^f00045] are amended as follows.
 
-(2)[^key-0c07cd6d4281a88a3c1a16b6693336ed] Schedule 3 (the local government finance act referendums rules) is amended in accordance with paragraphs (3) and (4).
+(2)[^c-0c07cd6d4281a88a3c1a16b6693336ed] Schedule 3 (the local government finance act referendums rules) is amended in accordance with paragraphs (3) and (4).
 
-(3)[^key-0c07cd6d4281a88a3c1a16b6693336ed] In rule 24 (questions to be put to voters and proxies)—
+(3)[^c-0c07cd6d4281a88a3c1a16b6693336ed] In rule 24 (questions to be put to voters and proxies)—
 
 - (a) in paragraph (1)(b), after “put if” insert “the person has answered the previous question in the manner indicated (where applicable), and”;
 - (b) in the table following paragraph (1)—
@@ -1202,7 +1202,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   - (ii) omit entry 4;
 - (c) in paragraph (2), for “3(a), (b) and (c)” substitute “3(a) and (b)”.
 
-(4)[^key-0c07cd6d4281a88a3c1a16b6693336ed] In Part 8 (appendix of forms), for the form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) substitute the corresponding forms in Part 1 of Schedule 7.
+(4)[^c-0c07cd6d4281a88a3c1a16b6693336ed] In Part 8 (appendix of forms), for the form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) substitute the corresponding forms in Part 1 of Schedule 7.
 
 (5) In Schedule 4 (application, with modifications, of Acts and subordinate legislation)—
 
@@ -1216,10 +1216,10 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     > - (c) in paragraph (d)(ii), after “that election” insert “or referendum”.
 
     ;
-  - (ii)[^key-0c07cd6d4281a88a3c1a16b6693336ed] in the modifications for subsections (2) to (4)—
+  - (ii)[^c-0c07cd6d4281a88a3c1a16b6693336ed] in the modifications for subsections (2) to (4)—
     - (aa) for “subsections (2) to (4)” substitute “subsections (2) to (3A)”;
     - (bb) omit the text of substituted subsection (4);
-  - (iii)[^key-0c07cd6d4281a88a3c1a16b6693336ed] after those modifications insert—
+  - (iii)[^c-0c07cd6d4281a88a3c1a16b6693336ed] after those modifications insert—
 
     > In subsection (3B)—
     >
@@ -1237,7 +1237,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     > In paragraphs 3(4)(aa), 3(5)(ca), 7(6)(aa) and 7(9)(ca), for “(or both)” substitute “or referendums, or at any combination of such polls”.
 
     ;
-- (c)[^key-5d38fe52cb7de7b3e8e54ed95a553156] in Table 6 (Representation of the People (England and Wales) Regulations 2001)—
+- (c)[^c-5d38fe52cb7de7b3e8e54ed95a553156] in Table 6 (Representation of the People (England and Wales) Regulations 2001)—
   - (i) in the entry for regulation 3, in the second column, at the beginning insert—
 
     > In paragraph (1), for the definition of “relevant absent voting application” substitute—
@@ -1282,9 +1282,9 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     ;
   - (viii) in the entry for Schedule 3, Form E, in the first column, for “Form E” substitute “Form E1”.
 
-(6)[^key-0c07cd6d4281a88a3c1a16b6693336ed] Schedule 5 (local government finance Act referendums (combination of polls) rules) is amended in accordance with paragraphs (7) and (8).
+(6)[^c-0c07cd6d4281a88a3c1a16b6693336ed] Schedule 5 (local government finance Act referendums (combination of polls) rules) is amended in accordance with paragraphs (7) and (8).
 
-(7)[^key-0c07cd6d4281a88a3c1a16b6693336ed] In rule 26 (questions to be put to voters and proxies)—
+(7)[^c-0c07cd6d4281a88a3c1a16b6693336ed] In rule 26 (questions to be put to voters and proxies)—
 
 - (a) in paragraph (1)(b), after “put if” insert “the person has answered the previous question in the manner indicated (where applicable), and”;
 - (b) in the table following paragraph (1)—
@@ -1299,9 +1299,9 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   - (ii) omit entry 4;
 - (c) in paragraph (2), for “3(a), (b) and (c)” substitute “3(a) and (b)”.
 
-(8)[^key-0c07cd6d4281a88a3c1a16b6693336ed] In Part 8 (appendix of forms), for the form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) substitute the corresponding forms in Part 2 of Schedule 7.
+(8)[^c-0c07cd6d4281a88a3c1a16b6693336ed] In Part 8 (appendix of forms), for the form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) substitute the corresponding forms in Part 2 of Schedule 7.
 
-### 17. Amendment of the Police and Crime Commissioner Elections Order 2012[^key-797e97f940b9fb9260d10c84eddfb89c]
+### 17. Amendment of the Police and Crime Commissioner Elections Order 2012[^c-797e97f940b9fb9260d10c84eddfb89c]
 
 (1) The Police and Crime Commissioner Elections Order 2012 is amended as follows.
 
@@ -1323,7 +1323,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   >   - (ii) P knows that the person to be appointed is already appointed as a proxy to vote at that election, or at PCC elections, for two or more other electors, none of whom is registered in a register of PCC electors in pursuance of a service declaration.
 
   .
-- (b)[^key-95b1bab702655a210fe4fcd1ebeccb08] for paragraph (4) substitute—
+- (b)[^c-95b1bab702655a210fe4fcd1ebeccb08] for paragraph (4) substitute—
 
   > (4) A person (“**P**”) is also guilty of an offence if P votes as a proxy—
   >
@@ -1346,19 +1346,19 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
 
 (5) In Schedule 2 (absent voting in PCC elections)—
 
-- (a)[^key-95b1bab702655a210fe4fcd1ebeccb08] in paragraph 3 (application to vote by post or by proxy at a particular PCC election)—
-  - (i) in sub-paragraph (4)(a), at the end insert[^key-d06534872351efb906cd0a4b0dd26ab0] “other than a relevant Welsh elector,”;
+- (a)[^c-95b1bab702655a210fe4fcd1ebeccb08] in paragraph 3 (application to vote by post or by proxy at a particular PCC election)—
+  - (i) in sub-paragraph (4)(a), at the end insert[^c-d06534872351efb906cd0a4b0dd26ab0] “other than a relevant Welsh elector,”;
   - (ii) in sub-paragraph (5), after “person” in the first place it occurs insert “other than a relevant Welsh elector”;
-  - (iii)[^key-e311acf02b17d3ea781dc486df763347] after sub-paragraph (9) insert—
+  - (iii)[^c-e311acf02b17d3ea781dc486df763347] after sub-paragraph (9) insert—
 
     > (10) In this paragraph “**relevant Welsh elector**” means a person who is included in the record mentioned in sub-paragraph (4)(a) only by virtue of an entitlement to vote by post or by proxy at local government elections in Wales.
 
     ;
 - (b) in paragraph 4 (absent voter lists)—
   - (i) in sub-paragraph (2)(a)—
-    - (aa)[^key-95b1bab702655a210fe4fcd1ebeccb08] after “persons” insert “other than relevant Welsh electors”;
+    - (aa)[^c-95b1bab702655a210fe4fcd1ebeccb08] after “persons” insert “other than relevant Welsh electors”;
     - (bb) omit “or (b)”;
-  - (ii)[^key-95b1bab702655a210fe4fcd1ebeccb08] in sub-paragraph (3)(a), after “persons” insert “other than relevant Welsh electors”;
+  - (ii)[^c-95b1bab702655a210fe4fcd1ebeccb08] in sub-paragraph (3)(a), after “persons” insert “other than relevant Welsh electors”;
   - (iii) after sub-paragraph (5) insert—
 
     > (6) In this paragraph, “**relevant Welsh elector**” has the meaning given in paragraph 3(10).
@@ -1376,7 +1376,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   > (7) Where the polls for two or more PCC elections are held on the same day, references in sub-paragraph (5) to a PCC election are to all of those PCC elections taken together.
 
   ;
-- (ca)[^key-9fe6153f8617c984e9ff1dd2d4db95bc] in paragraph 7 (voting as proxy)—
+- (ca)[^c-9fe6153f8617c984e9ff1dd2d4db95bc] in paragraph 7 (voting as proxy)—
   - (i) in sub-paragraph (6), in paragraph (a) at the end insert “and is not a relevant Welsh proxy”;
   - (ii) in sub-paragraph (7), in paragraph (a), in sub-paragraph (ii) at the end insert “and are not relevant Welsh proxies”;
   - (iii) after sub-paragraph (13) insert—
@@ -1660,9 +1660,9 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
 - (k) in paragraph 20 (absent voting lists: supply of copies etc), in sub-paragraph (6) after “16(2)” insert “or (2C)”;
 - (l) in paragraph 60, for Form 1 (proxy paper) substitute the corresponding form set out in Part 1 of Schedule 8.
 
-(6)[^key-95b1bab702655a210fe4fcd1ebeccb08] Schedule 3 (rules for the conduct of PCC elections where poll not taken together with poll at another election) is amended in accordance with paragraphs (7) and (8).
+(6)[^c-95b1bab702655a210fe4fcd1ebeccb08] Schedule 3 (rules for the conduct of PCC elections where poll not taken together with poll at another election) is amended in accordance with paragraphs (7) and (8).
 
-(7)[^key-95b1bab702655a210fe4fcd1ebeccb08] In rule 37 (questions to be put to voters)—
+(7)[^c-95b1bab702655a210fe4fcd1ebeccb08] In rule 37 (questions to be put to voters)—
 
 - (a) in paragraph (1)(b), after “put if” insert “the person has answered the previous question in the manner indicated (where applicable), and”;
 - (b) in the table following paragraph (1)—
@@ -1676,15 +1676,15 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     ;
   - (ii) omit entry 4.
 
-(8)[^key-95b1bab702655a210fe4fcd1ebeccb08] In rule 70 (forms), for form 11 (official poll card) and form 13 (official proxy poll card) substitute the corresponding forms in Part 2 of Schedule 8.
+(8)[^c-95b1bab702655a210fe4fcd1ebeccb08] In rule 70 (forms), for form 11 (official poll card) and form 13 (official proxy poll card) substitute the corresponding forms in Part 2 of Schedule 8.
 
-### 18. Amendment of the Neighbourhood Planning (Referendums) Regulations 2012[^key-95cab990073d696e15b405328987423e][^key-78439e2eb51e391c145bf511d7d84a74]
+### 18. Amendment of the Neighbourhood Planning (Referendums) Regulations 2012[^c-95cab990073d696e15b405328987423e][^c-78439e2eb51e391c145bf511d7d84a74]
 
-(1)[^key-95cab990073d696e15b405328987423e] The Neighbourhood Planning (Referendums) Regulations 2012[^f00048] are amended as follows.
+(1)[^c-95cab990073d696e15b405328987423e] The Neighbourhood Planning (Referendums) Regulations 2012[^f00048] are amended as follows.
 
-(2)[^key-95cab990073d696e15b405328987423e] Schedule 3 (neighbourhood planning referendums rules) is amended in accordance with paragraphs (3) and (4).
+(2)[^c-95cab990073d696e15b405328987423e] Schedule 3 (neighbourhood planning referendums rules) is amended in accordance with paragraphs (3) and (4).
 
-(3)[^key-95cab990073d696e15b405328987423e] In rule 25 (questions to be put to voters and proxies)—
+(3)[^c-95cab990073d696e15b405328987423e] In rule 25 (questions to be put to voters and proxies)—
 
 - (a) in paragraph (1)(b), after “put if” insert “the person has answered the previous question in the manner indicated (where applicable), and”;
 - (b) in the table following paragraph (1)—
@@ -1699,7 +1699,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   - (ii) omit entry 4;
 - (c) in paragraph (2), for “3(a), (b) and (c)” substitute “3(a) and (b)”.
 
-(4)[^key-95cab990073d696e15b405328987423e] In Part 8 (appendix of forms), for form 7 (official poll card (to be sent to a voter voting in person)) and form 9 (official proxy poll card (to be sent to an appointed proxy voting in person)) substitute the corresponding forms in Part 1 of Schedule 9.
+(4)[^c-95cab990073d696e15b405328987423e] In Part 8 (appendix of forms), for form 7 (official poll card (to be sent to a voter voting in person)) and form 9 (official proxy poll card (to be sent to an appointed proxy voting in person)) substitute the corresponding forms in Part 1 of Schedule 9.
 
 (5) In Schedule 4 (application, with modification, of other Acts and subordinate legislation)—
 
@@ -1713,7 +1713,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     > - (c) in paragraph (d)(ii), after “that election” insert “or referendum”.
 
     ;
-  - (ii)[^key-95cab990073d696e15b405328987423e] in the modifications for subsections (2) to (4)—
+  - (ii)[^c-95cab990073d696e15b405328987423e] in the modifications for subsections (2) to (4)—
     - (aa) for “subsections (2) to (4)” substitute “subsections (2) to (3A)”;
     - (bb) omit the text of substituted subsection (4);
   - (iii) after those modifications insert—
@@ -1734,7 +1734,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     > In paragraphs 3(4)(aa), 3(5)(ca), 7(6)(aa) and 7(9)(ca), for “(or both)” substitute “or referendums, or at any combination of such polls”.
 
     ;
-- (c)[^key-78439e2eb51e391c145bf511d7d84a74][^key-95cab990073d696e15b405328987423e] in Table 6 (Representation of the People (England and Wales) Regulations 2001)—
+- (c)[^c-78439e2eb51e391c145bf511d7d84a74][^c-95cab990073d696e15b405328987423e] in Table 6 (Representation of the People (England and Wales) Regulations 2001)—
   - (i) in the entry for regulation 3, in the second column, at the beginning insert—
 
     > In paragraph (1), for the definition of “relevant absent voting application” substitute—
@@ -1779,9 +1779,9 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
     ;
   - (viii) in the entry for Schedule 3, Form E, in the first column, for “Form E” substitute “Form E1”.
 
-(6)[^key-95cab990073d696e15b405328987423e] Schedule 5 (neighbourhood planning referendums (combination of polls) rules) is amended in accordance with paragraphs (7) and (8).
+(6)[^c-95cab990073d696e15b405328987423e] Schedule 5 (neighbourhood planning referendums (combination of polls) rules) is amended in accordance with paragraphs (7) and (8).
 
-(7)[^key-95cab990073d696e15b405328987423e] In rule 25 (questions to be put to voters and proxies)—
+(7)[^c-95cab990073d696e15b405328987423e] In rule 25 (questions to be put to voters and proxies)—
 
 - (a) in paragraph (1)(b), after “put if” insert “the person has answered the previous question in the manner indicated (where applicable), and”;
 - (b) in the table following paragraph (1)—
@@ -1796,9 +1796,9 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   - (ii) omit entry 4;
 - (c) in paragraph (2), for “3(a), (b) and (c)” substitute “3(a) and (b)”.
 
-(8)[^key-95cab990073d696e15b405328987423e] In Part 8 (appendix of forms), for form 8 (official poll card (to be sent to a voter voting in person)) and form 10 (official proxy poll card (to be sent to an appointed proxy voting in person)) substitute the corresponding forms in Part 2 of Schedule 9.
+(8)[^c-95cab990073d696e15b405328987423e] In Part 8 (appendix of forms), for form 8 (official poll card (to be sent to a voter voting in person)) and form 10 (official proxy poll card (to be sent to an appointed proxy voting in person)) substitute the corresponding forms in Part 2 of Schedule 9.
 
-### 19. The Recall of MPs Act 2015 (Recall Petition) Regulations 2016[^key-62714ab3639d826f6c56eb9d17c3374f][^key-8fc291bfb3c336df20a805509bf681f9][^key-02e4e9a9bb5044645daded8f7139ec24]
+### 19. The Recall of MPs Act 2015 (Recall Petition) Regulations 2016[^c-62714ab3639d826f6c56eb9d17c3374f][^c-8fc291bfb3c336df20a805509bf681f9][^c-02e4e9a9bb5044645daded8f7139ec24]
 
 (1) The Recall of MPs Act 2015 (Recall Petition) Regulations 2016 are amended as follows.
 
@@ -1824,7 +1824,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
 
   .
 
-(4)[^key-02e4e9a9bb5044645daded8f7139ec24] In regulation 25 (questions to be put to persons signing the petition)—
+(4)[^c-02e4e9a9bb5044645daded8f7139ec24] In regulation 25 (questions to be put to persons signing the petition)—
 
 - (a) in the table following paragraph (1)—
   - (i) in entry 2, in the column headed “Questions”, for question (c) substitute—
@@ -1893,7 +1893,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   > - (za) is not registered in a register of parliamentary electors,
 
   ;
-- (b)[^key-02e4e9a9bb5044645daded8f7139ec24] for paragraph (5) substitute—
+- (b)[^c-02e4e9a9bb5044645daded8f7139ec24] for paragraph (5) substitute—
 
   > (5) A person—
   >
@@ -2255,7 +2255,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
   >   - (ii) P knows that the person to be appointed is already appointed to sign a petition or petitions, for two or more other persons none of whom is registered in the register in pursuance of an overseas elector’s declaration or as a service voter.
 
   ;
-- (b)[^key-02e4e9a9bb5044645daded8f7139ec24] for paragraph (4) substitute—
+- (b)[^c-02e4e9a9bb5044645daded8f7139ec24] for paragraph (4) substitute—
 
   > (4) A person (“**P**”) is guilty of an offence if P signs a petition as proxy—
   >
@@ -2278,7 +2278,7 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
 - (a) in Part 1 (United Kingdom), for Form D (official petition notice for an elector who may sign the petition in person), Form F (official petition notice for a proxy who may sign the petition in person) and Form J (proxy paper) substitute the corresponding forms in Part 1 of Schedule 10;
 - (b) in Part 3 (Northern Ireland), for Form D (official petition notice for an elector who may sign the petition in person), Form F (official petition notice for a proxy who may sign the petition in person) and Form J (proxy paper) substitute the corresponding forms in Part 2 of Schedule 10.
 
-### 20. Amendment of the Combined Authorities (Mayoral Elections) Order 2017[^key-5728615e1e27b1061bbdb4cc35e5a25a]
+### 20. Amendment of the Combined Authorities (Mayoral Elections) Order 2017[^c-5728615e1e27b1061bbdb4cc35e5a25a]
 
 (1) The Combined Authorities (Mayoral Elections) Order 2017[^f00051] is amended as follows.
 
@@ -2325,14 +2325,14 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
 
 (8) In Part 9 (appendix of forms), for Form 8 (elector’s official poll card) and Form 10 (official proxy poll card) substitute the corresponding forms in Part 2 of Schedule 11.
 
-### 21. Amendment of the Police and Crime Commissioner Elections (Welsh Forms) Order 2021[^key-df6cf2a6086f4cf6b02657e5a03fccad]
+### 21. Amendment of the Police and Crime Commissioner Elections (Welsh Forms) Order 2021[^c-df6cf2a6086f4cf6b02657e5a03fccad]
 
 In the Police and Crime Commissioner Elections (Welsh Forms) Order 2021—
 
 - (a) in Schedule 1 (Welsh versions of forms of words), for Part 2 substitute the new Part 2 as set out in Part 1 of Schedule 12;
 - (b) in Schedule 3 (Welsh and English versions of prescribed forms), for Form 1 (proxy paper), Form 11 (official poll card) and Form 13 (official proxy poll card) substitute the corresponding forms set out in Part 2 of Schedule 12.
 
-### 22. Amendment of the Voter Identification Regulations 2022[^key-db576ba6670a5d367c74dd7d911b1cb8]
+### 22. Amendment of the Voter Identification Regulations 2022[^c-db576ba6670a5d367c74dd7d911b1cb8]
 
 (1) The Voter Identification Regulations 2022 are amended as follows.
 
@@ -2377,11 +2377,11 @@ Department for Levelling Up, Housing and Communities
 
 25th October 2023
 
-## SCHEDULE 1 — Enabling Powers[^key-8597b10258715dca95950b38d8091dcf]
+## SCHEDULE 1 — Enabling Powers[^c-8597b10258715dca95950b38d8091dcf]
 
 Preamble
 
-[^key-8597b10258715dca95950b38d8091dcf]
+[^c-8597b10258715dca95950b38d8091dcf]
 
 These Regulations are made under the following powers—
 
@@ -2404,13 +2404,13 @@ Regulation 1(7)
 
 ### PART 1 — Introduction
 
-#### 1. Interpretation[^key-4ec1694ea417252ded46236530924042]
+#### 1. Interpretation[^c-4ec1694ea417252ded46236530924042]
 
 In this Schedule “**EA 2022**” means the Elections Act 2022[^f00062].
 
 ### PART 2 — Provisions related to the 2001 Regulations and related to Parliamentary elections
 
-#### 2. Interpretation[^key-48db4a543e09b4b0e5d2b17704552377]
+#### 2. Interpretation[^c-48db4a543e09b4b0e5d2b17704552377]
 
 In this Part—
 
@@ -2418,20 +2418,20 @@ In this Part—
 - “**ongoing parliamentary election**” means a relevant parliamentary election for which the date of poll as stated in the notice of election is on or after 31st January 2024;
 - “**relevant parliamentary election**” means a parliamentary election for which the notice of election is published in accordance with rule 5 of Schedule 1 to the Representation of the People Act 1983[^f00063] on or before 30th January 2024.
 
-#### 3. Requirement to notify that postal vote entitlement is to end where entitlement altered by paragraph 4 of Schedule 3 to EA 2022[^key-44fe072737c37bf27b28d4847a38c5c6]
+#### 3. Requirement to notify that postal vote entitlement is to end where entitlement altered by paragraph 4 of Schedule 3 to EA 2022[^c-44fe072737c37bf27b28d4847a38c5c6]
 
 Regulation 60ZA of the 2001 Regulations (as inserted by regulations 5(10) or 10(10)) applies in respect of a postal vote entitlement to which the transitional provision in paragraph 4 of Schedule 3 to EA 2022 applies as it applies to a postal vote entitlement which was granted for the maximum period.
 
-#### 4. Poll card forms for certain parliamentary elections[^key-9d193ef585187376d2009b7642603335][^key-2d8ab33d9ccf4f86c1671f3b8c7a6e7f]
+#### 4. Poll card forms for certain parliamentary elections[^c-9d193ef585187376d2009b7642603335][^c-2d8ab33d9ccf4f86c1671f3b8c7a6e7f]
 
-(1)[^key-9d193ef585187376d2009b7642603335] The amendments made by regulations 6(b) and 11(b) do not apply in respect of an ongoing parliamentary election.
+(1)[^c-9d193ef585187376d2009b7642603335] The amendments made by regulations 6(b) and 11(b) do not apply in respect of an ongoing parliamentary election.
 
-(2)[^key-2d8ab33d9ccf4f86c1671f3b8c7a6e7f] In respect of a relevant parliamentary election—
+(2)[^c-2d8ab33d9ccf4f86c1671f3b8c7a6e7f] In respect of a relevant parliamentary election—
 
 - (a) Form A (official poll card to be sent to an elector voting in person) and Form B (official proxy poll card to be sent to an appointed proxy voting in person) in Schedule 3 to the 2001 Regulations apply as if, on the front of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”;
 - (b) Form A1 (official postal poll card (to be sent to an elector voting by post)) and Form B1 (official proxy postal poll card (to be sent to an appointed proxy voting by post) in Schedule 3 to the 2001 Regulations apply as if, on the back of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(3)[^key-3c1b89644b65caae23ac21af0d43a6f1] Sub-paragraph (4) applies in respect of a parliamentary election for which—
+(3)[^c-3c1b89644b65caae23ac21af0d43a6f1] Sub-paragraph (4) applies in respect of a parliamentary election for which—
 
 - (a) the notice of election is published in accordance with rule 5 of Schedule 1 to the Representation of the People Act 1983 on or after 31st January 2024, and
 - (b) the date of poll stated in that notice is on or before 1st May 2024.
@@ -2442,7 +2442,7 @@ Regulation 60ZA of the 2001 Regulations (as inserted by regulations 5(10) or 10(
 
 .
 
-#### 5. Proxy paper form for certain proxy appointments[^key-2fb7f7525e866339fe74fd18415428f1]
+#### 5. Proxy paper form for certain proxy appointments[^c-2fb7f7525e866339fe74fd18415428f1]
 
 (1) This paragraph applies where a proxy appointment is made during the period—
 
@@ -2453,13 +2453,13 @@ Regulation 60ZA of the 2001 Regulations (as inserted by regulations 5(10) or 10(
 
 (3) In this paragraph, “**proxy appointment**” has the same meaning as in paragraph 8(8) of Schedule 4 to EA 2022.
 
-#### 6. Savings for certain parliamentary elections combined with other elections or referendums[^key-f0e0c65a68f8dd32aebc5c484c6a0af1]
+#### 6. Savings for certain parliamentary elections combined with other elections or referendums[^c-f0e0c65a68f8dd32aebc5c484c6a0af1]
 
 The amendments made by regulations 12 and 13 do not apply in respect of an ongoing parliamentary election.
 
 ### PART 3 — Local authority mayoral elections
 
-#### 7. Interpretation[^key-0d231db1605d2c7e183ca81540557a91]
+#### 7. Interpretation[^c-0d231db1605d2c7e183ca81540557a91]
 
 In this Part—
 
@@ -2467,11 +2467,11 @@ In this Part—
 - “**ongoing local authority mayoral election**” means a relevant local authority mayoral election for which the date of poll as specified in the notice of election is on or after 31st January 2024;
 - “**relevant local authority mayoral election**” means an election in England for the return of an elected mayor as defined by section 9H(1) of the Local Government Act 2000[^f00064] for which the notice of election is published in accordance with rule 5 of the mayoral election rules on or before 30th January 2024.
 
-#### 8. Questions for proxies at certain local authority mayoral elections[^key-b96592c85798deda93a2feab4028664c][^key-d2603c5431c0e8197846b92f57c59973]
+#### 8. Questions for proxies at certain local authority mayoral elections[^c-b96592c85798deda93a2feab4028664c][^c-d2603c5431c0e8197846b92f57c59973]
 
-(1)[^key-b96592c85798deda93a2feab4028664c] The amendments made by regulation 14(3) and (7) do not apply in respect of an ongoing local authority mayoral election.
+(1)[^c-b96592c85798deda93a2feab4028664c] The amendments made by regulation 14(3) and (7) do not apply in respect of an ongoing local authority mayoral election.
 
-(2)[^key-d2603c5431c0e8197846b92f57c59973] Rule 35 of the mayoral election rules applies in respect of a relevant local authority mayoral election as if—
+(2)[^c-d2603c5431c0e8197846b92f57c59973] Rule 35 of the mayoral election rules applies in respect of a relevant local authority mayoral election as if—
 
 - (a) in the table following paragraph (1)—
   - (i) in entry 2 (proxy), in the column headed “Question”—
@@ -2490,15 +2490,15 @@ In this Part—
     - (bb) in question (c), after “in Wales” there were inserted “in all cases, and at a mayoral election in England where the person answers question (ba) in the positive”;
 - (b) in paragraph (2), after “3(a), (b)” there were inserted “, (ba)”.
 
-#### 9. Poll card forms for certain local authority mayoral elections[^key-b7582939a6cba43c93d2cbe5554a8be9][^key-9220ce02a87970e721ce613404367d1c]
+#### 9. Poll card forms for certain local authority mayoral elections[^c-b7582939a6cba43c93d2cbe5554a8be9][^c-9220ce02a87970e721ce613404367d1c]
 
-(1)[^key-b7582939a6cba43c93d2cbe5554a8be9] The amendments made by regulation 14(5) and (9) do not apply in respect of an ongoing local authority mayoral election.
+(1)[^c-b7582939a6cba43c93d2cbe5554a8be9] The amendments made by regulation 14(5) and (9) do not apply in respect of an ongoing local authority mayoral election.
 
-(2)[^key-9220ce02a87970e721ce613404367d1c] Form 8A (elector’s official poll card (for use at mayoral elections in England)) and Form 10A (official proxy poll card (for use at mayoral elections in England)) in the mayoral election rules apply in respect of a relevant local authority mayoral election as if, on the front of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
+(2)[^c-9220ce02a87970e721ce613404367d1c] Form 8A (elector’s official poll card (for use at mayoral elections in England)) and Form 10A (official proxy poll card (for use at mayoral elections in England)) in the mayoral election rules apply in respect of a relevant local authority mayoral election as if, on the front of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(3)[^key-9220ce02a87970e721ce613404367d1c] Form 9 (official postal poll card) and Form 11 (official proxy postal poll card) in the mayoral election rules apply in respect of a relevant local authority mayoral election as if on the back of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
+(3)[^c-9220ce02a87970e721ce613404367d1c] Form 9 (official postal poll card) and Form 11 (official proxy postal poll card) in the mayoral election rules apply in respect of a relevant local authority mayoral election as if on the back of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(4)[^key-93e87bd22e471a3b35c2aab0c9ffa354] Sub-paragraph (5) applies in respect of an election in England for the return of an elected mayor as defined by section 9H(1) of the Local Government Act 2000 for which—
+(4)[^c-93e87bd22e471a3b35c2aab0c9ffa354] Sub-paragraph (5) applies in respect of an election in England for the return of an elected mayor as defined by section 9H(1) of the Local Government Act 2000 for which—
 
 - (a) the notice of election is published in accordance with rule 5 of the mayoral election rules on or after 31st January 2024, and
 - (b) the date of poll stated in that notice is on or before 1st May 2024.
@@ -2511,7 +2511,7 @@ In this Part—
 
 ### PART 4 — Referendums under Part 1A of the Local Government Act 2000
 
-#### 10. Interpretation[^key-69b11fde34f0e7954fed606f0a009cb1]
+#### 10. Interpretation[^c-69b11fde34f0e7954fed606f0a009cb1]
 
 In this Part—
 
@@ -2521,13 +2521,13 @@ In this Part—
 - “**referendum rules**” means the rules set out in Schedules 3 and 5 to the 2012 Regulations;
 - “**relevant referendum**” means a referendum for which the notice of referendum is published in accordance with rule 5 of the referendum rules on or before 30th January 2024.
 
-#### 11. Questions for proxies at certain referendums[^key-75a56d662071b3799bff08a011a6ff28][^key-5c72f6ba60ed29f619c84953226ec1f7]
+#### 11. Questions for proxies at certain referendums[^c-75a56d662071b3799bff08a011a6ff28][^c-5c72f6ba60ed29f619c84953226ec1f7]
 
-(1)[^key-75a56d662071b3799bff08a011a6ff28] The amendments made by regulation 15(3) and (7) do not apply in respect of an ongoing referendum.
+(1)[^c-75a56d662071b3799bff08a011a6ff28] The amendments made by regulation 15(3) and (7) do not apply in respect of an ongoing referendum.
 
-(2)[^key-5c72f6ba60ed29f619c84953226ec1f7] Rule 24 of Schedule 3 and rule 26 of Schedule 5 to the 2012 Regulations (questions to be put to voters and proxies) apply in respect of a relevant referendum subject to the modifications in sub-paragraph (3).
+(2)[^c-5c72f6ba60ed29f619c84953226ec1f7] Rule 24 of Schedule 3 and rule 26 of Schedule 5 to the 2012 Regulations (questions to be put to voters and proxies) apply in respect of a relevant referendum subject to the modifications in sub-paragraph (3).
 
-(3)[^key-5c72f6ba60ed29f619c84953226ec1f7] The rule applies as if—
+(3)[^c-5c72f6ba60ed29f619c84953226ec1f7] The rule applies as if—
 
 - (a) in the table following paragraph (1)—
   - (i) in entry 2 (proxy), in the column headed “Question”—
@@ -2546,21 +2546,21 @@ In this Part—
     - (bb) in question (c), at the beginning there were inserted “If the person answers question (ba) in the affirmative:”;
 - (b) in paragraph (2), after “(3)(a), (b)” there were inserted “, (ba)”.
 
-#### 12. Disapplication of amendments to the modifications of section 61 of the Representation of the People Act 1983 in respect of an ongoing referendum[^key-a04ab5196ec1f7f3e1a0384cb87a850f]
+#### 12. Disapplication of amendments to the modifications of section 61 of the Representation of the People Act 1983 in respect of an ongoing referendum[^c-a04ab5196ec1f7f3e1a0384cb87a850f]
 
 (1) The amendments made by regulation 15(5)(a)(ii) and (iii) to Table 1 (modifications to the Representation of the People Act 1983) in Schedule 4 to the 2012 Regulations do not apply in respect of a person voting by virtue of a proxy appointment at an ongoing referendum.
 
 (2) In sub-paragraph (1), “**proxy appointment**” has the same meaning as in paragraph 8(8) of Schedule 4 to EA 2022.
 
-#### 13. Poll card forms for certain referendums[^key-081f6742547eda209aee3f5ed4b8dbcc][^key-a8af33271fbbe083391fb27f603f1802]
+#### 13. Poll card forms for certain referendums[^c-081f6742547eda209aee3f5ed4b8dbcc][^c-a8af33271fbbe083391fb27f603f1802]
 
-(1)[^key-081f6742547eda209aee3f5ed4b8dbcc] The amendments made by regulation 15(4) and (8) do not apply in respect of an ongoing referendum.
+(1)[^c-081f6742547eda209aee3f5ed4b8dbcc] The amendments made by regulation 15(4) and (8) do not apply in respect of an ongoing referendum.
 
-(2)[^key-a8af33271fbbe083391fb27f603f1802] The form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) in the referendum rules apply in respect of a relevant referendum as if, on the front of the form, before the text that begins “vote as a proxy at this referendum” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
+(2)[^c-a8af33271fbbe083391fb27f603f1802] The form of the Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) in the referendum rules apply in respect of a relevant referendum as if, on the front of the form, before the text that begins “vote as a proxy at this referendum” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(3)[^key-a8af33271fbbe083391fb27f603f1802] The form of the Official Postal Poll Card (to be sent to a voter voting by post) and the Official Proxy Postal Poll Card (to be sent to an appointed proxy voting by post) in the referendum rules apply in respect of a relevant referendum as if, on the back of the form, before the text that begins “vote as a proxy at the same referendum” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
+(3)[^c-a8af33271fbbe083391fb27f603f1802] The form of the Official Postal Poll Card (to be sent to a voter voting by post) and the Official Proxy Postal Poll Card (to be sent to an appointed proxy voting by post) in the referendum rules apply in respect of a relevant referendum as if, on the back of the form, before the text that begins “vote as a proxy at the same referendum” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(4)[^key-16c99bf29a61f72321a388b9a7635fde] Sub-paragraph (5) applies in respect of a referendum for which—
+(4)[^c-16c99bf29a61f72321a388b9a7635fde] Sub-paragraph (5) applies in respect of a referendum for which—
 
 - (a) the notice of referendum is published in accordance with rule 5 of the referendum rules on or after 31st January 2024, and
 - (b) the date of poll stated in that notice is on or before 1st May 2024.
@@ -2573,7 +2573,7 @@ In this Part—
 
 ### PART 5 — Referendums under Chapter 4ZA of Part 1 of the Local Government Finance Act 1992
 
-#### 14. Interpretation[^key-2906819f40f4a6b9df5bb20d99a90efd]
+#### 14. Interpretation[^c-2906819f40f4a6b9df5bb20d99a90efd]
 
 In this Part—
 
@@ -2583,13 +2583,13 @@ In this Part—
 - “**referendum rules**” means the rules set out in Schedules 3 and 5 to the 2012 Regulations;
 - “**relevant referendum**” means a referendum for which the notice of referendum is published in accordance with rule 5 of the referendum rules on or before 30th January 2024.
 
-#### 15. Questions for proxies at certain referendums[^key-04e703a53ccc5b1845f5d7dc917027a8][^key-a51d8cd66210b0f089c9fc493e35a8f9]
+#### 15. Questions for proxies at certain referendums[^c-04e703a53ccc5b1845f5d7dc917027a8][^c-a51d8cd66210b0f089c9fc493e35a8f9]
 
-(1)[^key-04e703a53ccc5b1845f5d7dc917027a8] The amendments made by regulation 16(3) and (7) do not apply in respect of an ongoing referendum.
+(1)[^c-04e703a53ccc5b1845f5d7dc917027a8] The amendments made by regulation 16(3) and (7) do not apply in respect of an ongoing referendum.
 
-(2)[^key-a51d8cd66210b0f089c9fc493e35a8f9] Rule 24 of Schedule 3 and rule 26 of Schedule 5 to the 2012 Regulations (questions to be put to voters and proxies) apply in respect of a relevant referendum subject to the modifications in sub-paragraph (3).
+(2)[^c-a51d8cd66210b0f089c9fc493e35a8f9] Rule 24 of Schedule 3 and rule 26 of Schedule 5 to the 2012 Regulations (questions to be put to voters and proxies) apply in respect of a relevant referendum subject to the modifications in sub-paragraph (3).
 
-(3)[^key-a51d8cd66210b0f089c9fc493e35a8f9] The rule applies as if—
+(3)[^c-a51d8cd66210b0f089c9fc493e35a8f9] The rule applies as if—
 
 - (a) in the table following paragraph (1)—
   - (i) in entry 2 (proxy), in the column headed “Questions”—
@@ -2608,21 +2608,21 @@ In this Part—
     - (bb) in question (c), at the beginning there were inserted “If the person answers question (ba) in the affirmative:”;
 - (b) in paragraph (2), after “(3)(a), (b)” there were inserted “, (ba)”.
 
-#### 16. Disapplication of amendments to the modifications of section 61 of the Representation of the People Act 1983 in respect of an ongoing referendum[^key-447734eeb69ad8ba0e362ac78e46d402]
+#### 16. Disapplication of amendments to the modifications of section 61 of the Representation of the People Act 1983 in respect of an ongoing referendum[^c-447734eeb69ad8ba0e362ac78e46d402]
 
 (1) The amendments made by regulation 16(5)(a)(ii) and (iii) to Table 1 (modifications to the Representation of the People Act 1983) in Schedule 4 to the 2012 Regulations do not apply in respect of a person voting by virtue of a proxy appointment at an ongoing referendum.
 
 (2) In sub-paragraph (1), “**proxy appointment**” has the same meaning as in paragraph 8(8) of Schedule 4 to EA 2022.
 
-#### 17. Poll card forms for certain referendums[^key-28e7af2c3c13321edec55323c48dec6c][^key-9ec25883e6bf946ff3eccecd2ba97557]
+#### 17. Poll card forms for certain referendums[^c-28e7af2c3c13321edec55323c48dec6c][^c-9ec25883e6bf946ff3eccecd2ba97557]
 
-(1)[^key-28e7af2c3c13321edec55323c48dec6c] The amendments made by regulation 16(4) and (8) do not apply in respect of an ongoing referendum.
+(1)[^c-28e7af2c3c13321edec55323c48dec6c] The amendments made by regulation 16(4) and (8) do not apply in respect of an ongoing referendum.
 
-(2)[^key-9ec25883e6bf946ff3eccecd2ba97557] The Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) in the referendum rules apply in respect of a relevant referendum as if, on the front of the form, before the text that begins “vote as a proxy at this referendum” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
+(2)[^c-9ec25883e6bf946ff3eccecd2ba97557] The Official Poll Card (to be sent to a voter voting in person) and the Official Proxy Poll Card (to be sent to an appointed proxy voting in person) in the referendum rules apply in respect of a relevant referendum as if, on the front of the form, before the text that begins “vote as a proxy at this referendum” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(3)[^key-9ec25883e6bf946ff3eccecd2ba97557] The form of the Official Postal Poll Card (to be sent to a voter voting by post) and the Official Proxy Postal Poll Card (to be sent to an appointed proxy voting by post) in the referendum rules apply in respect of a relevant referendum as if, on the back of the form, before the text that begins “vote as a proxy at the same referendum” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
+(3)[^c-9ec25883e6bf946ff3eccecd2ba97557] The form of the Official Postal Poll Card (to be sent to a voter voting by post) and the Official Proxy Postal Poll Card (to be sent to an appointed proxy voting by post) in the referendum rules apply in respect of a relevant referendum as if, on the back of the form, before the text that begins “vote as a proxy at the same referendum” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(4)[^key-9f7d03b803a2f8b64d2875e50e2cf451] Sub-paragraph (5) applies in respect of a referendum for which—
+(4)[^c-9f7d03b803a2f8b64d2875e50e2cf451] Sub-paragraph (5) applies in respect of a referendum for which—
 
 - (a) the notice of referendum is published in accordance with rule 5 of the referendum rules on or after 31st January 2024, and
 - (b) the date of poll stated in that notice is on or before 1st May 2024.
@@ -2635,7 +2635,7 @@ In this Part—
 
 ### PART 6 — Police and Crime Commissioner elections: general
 
-#### 18. Interpretation[^key-f6207eb022bab75e0e2e33ec7b1fc221]
+#### 18. Interpretation[^c-f6207eb022bab75e0e2e33ec7b1fc221]
 
 In this Part—
 
@@ -2649,30 +2649,30 @@ In this Part—
     - (i) for the purposes of an ongoing PCC election, the day after the day of poll for that election;
     - (ii) for all other purposes, 31st January 2024.
 
-#### 19. Proxy voting offences and restrictions for certain proxy appointments[^key-ff24287c0d08bd4a097f44f6963b6bb1][^key-277a81680803023cf8d4f599ce58f86d]
+#### 19. Proxy voting offences and restrictions for certain proxy appointments[^c-ff24287c0d08bd4a097f44f6963b6bb1][^c-277a81680803023cf8d4f599ce58f86d]
 
-(1)[^key-ff24287c0d08bd4a097f44f6963b6bb1] Article 18(4) of, and paragraph 6(5) of Schedule 2 to, the 2012 Order do not apply in respect of a post-commencement proxy appointment during the transitional period.
+(1)[^c-ff24287c0d08bd4a097f44f6963b6bb1] Article 18(4) of, and paragraph 6(5) of Schedule 2 to, the 2012 Order do not apply in respect of a post-commencement proxy appointment during the transitional period.
 
-(2)[^key-277a81680803023cf8d4f599ce58f86d] The amendments made by regulation 17(3)(b) and (5)(c) do not apply in respect of a person voting by virtue of a proxy appointment at an ongoing PCC election.
+(2)[^c-277a81680803023cf8d4f599ce58f86d] The amendments made by regulation 17(3)(b) and (5)(c) do not apply in respect of a person voting by virtue of a proxy appointment at an ongoing PCC election.
 
-(3)[^key-ff24287c0d08bd4a097f44f6963b6bb1] In this paragraph—
+(3)[^c-ff24287c0d08bd4a097f44f6963b6bb1] In this paragraph—
 
 - “**post-commencement proxy appointment**” means a proxy appointment as a result of an application made on or after 31st October 2023;
 - “**proxy appointment**” means—
   - (a) an appointment resulting from an application under paragraph 3(2) of Schedule 4 to the Representation of the People Act 2000 by which, by virtue of paragraphs 2 and 4(3) of Schedule 2 to the 2012 Order, a person is entitled to vote at a PCC election by proxy;
   - (b) an appointment resulting from an application under paragraph 3(2), (3) or (5)(b) of Schedule 2 to the 2012 Order.
 
-#### 20. Saving for certain postal, proxy and postal proxy voting entitlements at ongoing PCC elections in Wales[^key-2d108546f6cfe27aba63928d36f4680b][^key-1631d5f8be9cf4e1a8093c761ed950cb]
+#### 20. Saving for certain postal, proxy and postal proxy voting entitlements at ongoing PCC elections in Wales[^c-2d108546f6cfe27aba63928d36f4680b][^c-1631d5f8be9cf4e1a8093c761ed950cb]
 
-The amendments made by regulation 17(5)(a) , (b) and (ca)[^key-b6ae3aee94de9b784e739d7bbfbf9075], other than regulation 17(5)(b)(i)(bb), do not apply in respect of an ongoing PCC election in Wales.
+The amendments made by regulation 17(5)(a) , (b) and (ca)[^c-b6ae3aee94de9b784e739d7bbfbf9075], other than regulation 17(5)(b)(i)(bb), do not apply in respect of an ongoing PCC election in Wales.
 
-#### 21. Questions for proxies at certain PCC elections[^key-6b30e6d23a0653d4f7f66c87c5f357b1][^key-06071727a02ae34d69693f87156157c5]
+#### 21. Questions for proxies at certain PCC elections[^c-6b30e6d23a0653d4f7f66c87c5f357b1][^c-06071727a02ae34d69693f87156157c5]
 
-(1)[^key-6b30e6d23a0653d4f7f66c87c5f357b1] The amendments made by regulations 17(7) and 21(a) do not apply to an ongoing PCC election.
+(1)[^c-6b30e6d23a0653d4f7f66c87c5f357b1] The amendments made by regulations 17(7) and 21(a) do not apply to an ongoing PCC election.
 
-(2)[^key-06071727a02ae34d69693f87156157c5] Sub-paragraphs (3) and (4) apply in respect of a relevant PCC election.
+(2)[^c-06071727a02ae34d69693f87156157c5] Sub-paragraphs (3) and (4) apply in respect of a relevant PCC election.
 
-(3)[^key-06071727a02ae34d69693f87156157c5] Rule 37 of Schedule 3 to the 2012 Order applies as if in the Table after paragraph (1)—
+(3)[^c-06071727a02ae34d69693f87156157c5] Rule 37 of Schedule 3 to the 2012 Order applies as if in the Table after paragraph (1)—
 
 - (a) in entry 2 (proxies), in the column headed “Questions”—
   - (i) after question (b) there were inserted—
@@ -2689,9 +2689,9 @@ The amendments made by regulation 17(5)(a) , (b) and (ca)[^key-b6ae3aee94de9b784
     ;
   - (ii) in question (c), at the beginning there were inserted “If the person answers question (ba) in the affirmative:”.
 
-(4)[^key-06071727a02ae34d69693f87156157c5] Schedule 1 to the Police and Crime Commissioner Elections (Welsh Forms) Order 2021 applies as if for Part 2 there were substituted Part 2 as set out in Part 7 of this Schedule.
+(4)[^c-06071727a02ae34d69693f87156157c5] Schedule 1 to the Police and Crime Commissioner Elections (Welsh Forms) Order 2021 applies as if for Part 2 there were substituted Part 2 as set out in Part 7 of this Schedule.
 
-#### 22. Proxy paper form for certain proxy appointments[^key-1dde69b6302691a1c51be3aad5c05568]
+#### 22. Proxy paper form for certain proxy appointments[^c-1dde69b6302691a1c51be3aad5c05568]
 
 (1) This paragraph applies where a proxy appointment is made during the period—
 
@@ -2707,25 +2707,25 @@ The amendments made by regulation 17(5)(a) , (b) and (ca)[^key-b6ae3aee94de9b784
 
 (4) In this paragraph, “**proxy appointment**” means a proxy appointment under paragraph 3(2), (3) or (5)(b) of Schedule 2 to the 2012 Order.
 
-#### 23. Poll card forms for certain PCC elections[^key-f9c75a620cd188892f14cc16533638ef][^key-9a5c6807526c0729d96abca1e5a6da63]
+#### 23. Poll card forms for certain PCC elections[^c-f9c75a620cd188892f14cc16533638ef][^c-9a5c6807526c0729d96abca1e5a6da63]
 
-(1)[^key-f9c75a620cd188892f14cc16533638ef] The amendments made by regulation 17(8) and regulation 21(b), so far as substituting forms 11 and 13, do not apply in respect of an ongoing PCC election.
+(1)[^c-f9c75a620cd188892f14cc16533638ef] The amendments made by regulation 17(8) and regulation 21(b), so far as substituting forms 11 and 13, do not apply in respect of an ongoing PCC election.
 
-(2)[^key-9a5c6807526c0729d96abca1e5a6da63] Form 11 (official poll card) and form 13 (official proxy poll card) in rule 70 of Schedule 3 to the 2012 Order apply in respect of a relevant PCC election as if, on the front of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
+(2)[^c-9a5c6807526c0729d96abca1e5a6da63] Form 11 (official poll card) and form 13 (official proxy poll card) in rule 70 of Schedule 3 to the 2012 Order apply in respect of a relevant PCC election as if, on the front of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(3)[^key-9a5c6807526c0729d96abca1e5a6da63] Form 12 (official postal poll card) and form 14 (official postal proxy poll card) in rule 70 of Schedule 3 to the 2012 Order apply in respect of a relevant PCC election as if, on the back of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
+(3)[^c-9a5c6807526c0729d96abca1e5a6da63] Form 12 (official postal poll card) and form 14 (official postal proxy poll card) in rule 70 of Schedule 3 to the 2012 Order apply in respect of a relevant PCC election as if, on the back of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(4)[^key-9a5c6807526c0729d96abca1e5a6da63] Form 11 (official poll card) and form 13 (official proxy poll card) in Schedule 3 to the Police and Crime Commissioner Elections (Welsh Forms) Order 2021 apply in respect of a relevant PCC election as if, on the front of the form—
+(4)[^c-9a5c6807526c0729d96abca1e5a6da63] Form 11 (official poll card) and form 13 (official proxy poll card) in Schedule 3 to the Police and Crime Commissioner Elections (Welsh Forms) Order 2021 apply in respect of a relevant PCC election as if, on the front of the form—
 
 - (a) before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”;
 - (b) before the text that begins “I bleidleisio fel dirprwy yn yr etholiad” there were inserted “(yn achos dirprwy a benodwyd cyn 31 Hydref 2023)”.
 
-(5)[^key-9a5c6807526c0729d96abca1e5a6da63] Form 12 (official postal poll card) and form 14 (official postal proxy poll card) in in Schedule 3 to the Police and Crime Commissioner Elections (Welsh Forms) Order 2021 apply in respect of a relevant PCC election as if, on the back of the form—
+(5)[^c-9a5c6807526c0729d96abca1e5a6da63] Form 12 (official postal poll card) and form 14 (official postal proxy poll card) in in Schedule 3 to the Police and Crime Commissioner Elections (Welsh Forms) Order 2021 apply in respect of a relevant PCC election as if, on the back of the form—
 
 - (a) before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”;
 - (b) before the text that begins “pleidleisio fel dirprwy i fwy na” there were inserted “(yn achos dirprwy a benodwyd cyn 31 Hydref 2023)”.
 
-#### 24. Termination of certain proxy appointments[^key-fa0ca54cb3c644bae3a97b36884a26df]
+#### 24. Termination of certain proxy appointments[^c-fa0ca54cb3c644bae3a97b36884a26df]
 
 (1) This paragraph applies where a proxy appointment is in force immediately before 31st January 2024 as the result of an application made before 31st October 2023.
 
@@ -2740,7 +2740,7 @@ The amendments made by regulation 17(5)(a) , (b) and (ca)[^key-b6ae3aee94de9b784
 
 (5) In this paragraph, “**proxy appointment**” means a proxy appointment under paragraph 3(2), (3) or (5)(b) of Schedule 2 to the 2012 Order.
 
-#### 25. Termination of applications for certain proxy appointments[^key-9a4e93c3842853bd62915d5f330387e3]
+#### 25. Termination of applications for certain proxy appointments[^c-9a4e93c3842853bd62915d5f330387e3]
 
 (1) An application for a proxy appointment that is made before, but not determined by, 31st October 2023 is to be treated as not having been made.
 
@@ -2748,7 +2748,7 @@ The amendments made by regulation 17(5)(a) , (b) and (ca)[^key-b6ae3aee94de9b784
 
 (3) In sub-paragraph (1), “**proxy appointment**” means a proxy appointment under paragraph 3(2), (3) or (5)(b) of Schedule 2 to the 2012 Order.
 
-#### 26. Saving for certain proxy appointments at ongoing PCC elections[^key-0173071517f031e4b9113293378b61b5]
+#### 26. Saving for certain proxy appointments at ongoing PCC elections[^c-0173071517f031e4b9113293378b61b5]
 
 (1) This paragraph applies where—
 
@@ -2759,7 +2759,7 @@ The amendments made by regulation 17(5)(a) , (b) and (ca)[^key-b6ae3aee94de9b784
 
 (3) In this paragraph, “**proxy appointment**” has the meaning given in paragraph 19(3).
 
-### PART 7 — Police and Crime Commissioner Elections: Welsh form of statutory questions for elections held on or before 30th January 2024[^key-461cd70d277b0d7e1068068182268769]
+### PART 7 — Police and Crime Commissioner Elections: Welsh form of statutory questions for elections held on or before 30th January 2024[^c-461cd70d277b0d7e1068068182268769]
 
 > **PART 2 — Welsh version of questions to be put to voters**
 >
@@ -2801,7 +2801,7 @@ The amendments made by regulation 17(5)(a) , (b) and (ca)[^key-b6ae3aee94de9b784
 
 ### PART 8 — Referendums under Schedule 4B to the Town and Country Planning Act 1990
 
-#### 27. Interpretation[^key-992ed3dde92344ad2d34edde3f025743]
+#### 27. Interpretation[^c-992ed3dde92344ad2d34edde3f025743]
 
 In this Part—
 
@@ -2811,13 +2811,13 @@ In this Part—
 - “**referendum rules**” means the rules set out in Schedules 3 and 5 to the 2012 Regulations;
 - “**relevant referendum**” means a referendum for which the notice of referendum is published in accordance with rule 5 of the referendum rules on or before 30th January 2024.
 
-#### 28. Questions for proxies at certain referendums[^key-3e3aa11180f1706f5e0ba020b3dcb091][^key-7b41e561a26b7da82f9ee2394108e884]
+#### 28. Questions for proxies at certain referendums[^c-3e3aa11180f1706f5e0ba020b3dcb091][^c-7b41e561a26b7da82f9ee2394108e884]
 
-(1)[^key-3e3aa11180f1706f5e0ba020b3dcb091] The amendments made by regulation 18(3) and (7) do not apply in respect of an ongoing referendum.
+(1)[^c-3e3aa11180f1706f5e0ba020b3dcb091] The amendments made by regulation 18(3) and (7) do not apply in respect of an ongoing referendum.
 
-(2)[^key-7b41e561a26b7da82f9ee2394108e884] Rule 25 of Schedule 3 and rule 25 of Schedule 5 to the 2012 Regulations apply in respect of a relevant referendum subject to the modifications in sub-paragraph (3).
+(2)[^c-7b41e561a26b7da82f9ee2394108e884] Rule 25 of Schedule 3 and rule 25 of Schedule 5 to the 2012 Regulations apply in respect of a relevant referendum subject to the modifications in sub-paragraph (3).
 
-(3)[^key-7b41e561a26b7da82f9ee2394108e884] The rule applies as if—
+(3)[^c-7b41e561a26b7da82f9ee2394108e884] The rule applies as if—
 
 - (a) in the table following paragraph (1)—
   - (i) in entry 2 (proxy), in the column headed “Question”—
@@ -2836,15 +2836,15 @@ In this Part—
     - (bb) in question (c), at the beginning there were inserted “If the person answers question (ba) in the affirmative:”;
 - (b) in paragraph (2), after “(3)(a), (b)” there were inserted “, (ba)”.
 
-#### 29. Disapplication of amendments to the modifications of section 61 of the Representation of the People Act 1983 in respect of an ongoing referendum[^key-9205c292284dc0b7f81a719c248dfd95]
+#### 29. Disapplication of amendments to the modifications of section 61 of the Representation of the People Act 1983 in respect of an ongoing referendum[^c-9205c292284dc0b7f81a719c248dfd95]
 
 (1) The amendments made by regulation 18(5)(a)(ii) and (iii) to Table 1 (modifications to the Representation of the People Act 1983) in Schedule 4 to the 2012 Regulations do not apply in respect of a person voting by virtue of a proxy appointment at an ongoing referendum.
 
 (2) In sub-paragraph (1), “**proxy appointment**” has the same meaning as in paragraph 8(8) of Schedule 4 to EA 2022.
 
-#### 30. Poll card forms for certain referendum[^key-508e1084394648cf9095bc0b13ca4234][^key-9a2ca77468d54737e1b16d60c381f368]
+#### 30. Poll card forms for certain referendum[^c-508e1084394648cf9095bc0b13ca4234][^c-9a2ca77468d54737e1b16d60c381f368]
 
-(1)[^key-508e1084394648cf9095bc0b13ca4234] The amendments made by regulation 18(4) and (8) do not apply in respect of an ongoing referendum.
+(1)[^c-508e1084394648cf9095bc0b13ca4234] The amendments made by regulation 18(4) and (8) do not apply in respect of an ongoing referendum.
 
 (2) The following apply in respect of a relevant referendum subject to the modification in sub-paragraph (3)—
 
@@ -2860,7 +2860,7 @@ In this Part—
 
 (5) The form applies as if, on the back of the form, before the text that begins “vote as a proxy at the same referendum” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(6)[^key-432ec8c0b9e65532388e684370ad68e8] The following apply subject to the modification in sub-paragraph (7) in respect of a referendum for which the notice of referendum is published in accordance with rule 5 of the referendum rules on or after 31st January 2024 and the date of poll stated in that notice is on or before 1st May 2024—
+(6)[^c-432ec8c0b9e65532388e684370ad68e8] The following apply subject to the modification in sub-paragraph (7) in respect of a referendum for which the notice of referendum is published in accordance with rule 5 of the referendum rules on or after 31st January 2024 and the date of poll stated in that notice is on or before 1st May 2024—
 
 - (a) form 8 (official postal poll card (to be sent to a voter voting by post)) and form 10 (official proxy postal poll card (to be sent to an appointed proxy voting by post)) in Schedule 3 to the 2012 Regulations;
 - (b) form 9 (official postal poll card (to be sent to a voter voting by post)) and form 11 (official proxy postal poll card (to be sent to an appointed proxy voting by post)) in Schedule 5 to the 2012 Regulations.
@@ -2873,7 +2873,7 @@ In this Part—
 
 ### PART 9 — Recall petitions
 
-#### 31. Interpretation[^key-3014ca664d758e9928353019cca1024b]
+#### 31. Interpretation[^c-3014ca664d758e9928353019cca1024b]
 
 In this Part—
 
@@ -2888,11 +2888,11 @@ In this Part—
     - (i) for the purposes of an ongoing recall petition, the day after the last day of the signing period for that petition;
     - (ii) for all other purposes, 31st January 2024.
 
-#### 32. Questions for proxies at certain recall petitions[^key-0f61dabef41e59b77550907d31f63cf5][^key-d7a8d3a1d9c0e9905722f72beb6f657c]
+#### 32. Questions for proxies at certain recall petitions[^c-0f61dabef41e59b77550907d31f63cf5][^c-d7a8d3a1d9c0e9905722f72beb6f657c]
 
-(1)[^key-0f61dabef41e59b77550907d31f63cf5] The amendments made by regulation 19(4) do not apply to an ongoing recall petition.
+(1)[^c-0f61dabef41e59b77550907d31f63cf5] The amendments made by regulation 19(4) do not apply to an ongoing recall petition.
 
-(2)[^key-d7a8d3a1d9c0e9905722f72beb6f657c] Regulation 25 of the 2016 Regulations applies in respect of a relevant recall petition as if in the Table after paragraph (1)—
+(2)[^c-d7a8d3a1d9c0e9905722f72beb6f657c] Regulation 25 of the 2016 Regulations applies in respect of a relevant recall petition as if in the Table after paragraph (1)—
 
 - (a) in entry 2 (proxies), in the column headed “Questions”—
   - (i) after question (b) there were inserted—
@@ -2909,7 +2909,7 @@ In this Part—
     ;
   - (ii) in question (c), at the beginning there were inserted “If the person answers question (ba) in the affirmative:”.
 
-#### 33. Limitation of certain pre-commencement postal signing entitlements[^key-f36a54bbb307f9f1bd1ab11c9a2d46eb]
+#### 33. Limitation of certain pre-commencement postal signing entitlements[^c-f36a54bbb307f9f1bd1ab11c9a2d46eb]
 
 (1) This paragraph applies where, immediately before 31st October 2023, a person—
 
@@ -2931,20 +2931,20 @@ In this Part—
 
 (6) In this paragraph, “**overseas elector’s declaration**” has the meaning given in regulation 3(1) of the 2016 Regulations.
 
-#### 34. Proxy signing offences and restrictions for certain proxy appointments[^key-aec7f463ef2f7adb728095fc51af321c][^key-a83cf1b0dab5ea55a2453b3db2dcc561]
+#### 34. Proxy signing offences and restrictions for certain proxy appointments[^c-aec7f463ef2f7adb728095fc51af321c][^c-a83cf1b0dab5ea55a2453b3db2dcc561]
 
-(1)[^key-aec7f463ef2f7adb728095fc51af321c] Regulations 57(5) and 119(4) of the 2016 Regulations do not apply in respect of a post-commencement proxy appointment during the transitional period.
+(1)[^c-aec7f463ef2f7adb728095fc51af321c] Regulations 57(5) and 119(4) of the 2016 Regulations do not apply in respect of a post-commencement proxy appointment during the transitional period.
 
-(2)[^key-a83cf1b0dab5ea55a2453b3db2dcc561] The amendments made by regulation 19(7)(b) and (16)(b) do not apply in respect of a person voting by virtue of a proxy appointment at an ongoing recall petition.
+(2)[^c-a83cf1b0dab5ea55a2453b3db2dcc561] The amendments made by regulation 19(7)(b) and (16)(b) do not apply in respect of a person voting by virtue of a proxy appointment at an ongoing recall petition.
 
-(3)[^key-aec7f463ef2f7adb728095fc51af321c] In this paragraph—
+(3)[^c-aec7f463ef2f7adb728095fc51af321c] In this paragraph—
 
 - “**post-commencement proxy appointment**” means a proxy appointment as a result of an application made on or after 31st October 2023;
 - “**proxy appointment**” means—
   - (a) an appointment resulting from an application under paragraph 3(2) of Schedule 4 to the Representation of the People Act 2000 or section 6(1) of the Representation of the People Act 1985[^f00067] by which, by virtue of regulation 50(2) or (3) of the 2016 Regulations a person is entitled to sign a recall petition by proxy;
   - (b) an appointment resulting from an application under regulation 51(2) or (6), 52(1) or (7), 53(2), (3) or (4)(b) or 54(1) or (4)(b) of the 2016 Regulations.
 
-#### 35. Termination of certain proxy appointments[^key-af7814fe6f8913554e7c37f08379a958]
+#### 35. Termination of certain proxy appointments[^c-af7814fe6f8913554e7c37f08379a958]
 
 (1) This paragraph applies where—
 
@@ -2964,21 +2964,21 @@ In this Part—
 
 (6) In this paragraph, “**proxy appointment**” means an appointment resulting from an application under regulation 51(2) or (6) or 52(1) or (7) of the 2016 Regulations.
 
-#### 36. Termination of applications for certain proxy appointments[^key-a16c9c48c62104da0024a0617b7f2075]
+#### 36. Termination of applications for certain proxy appointments[^c-a16c9c48c62104da0024a0617b7f2075]
 
 (1) An application for a proxy appointment under regulation 51(2) or (6), 52(1) or (7), 53(2), (3) or (4)(b) or 54(1) or (4)(b) of the 2016 Regulations that is made before, but not determined by, 31st October 2023 is to be treated as not having been made.
 
 (2) The registration officer must, as soon as practicable, send each person whose application is affected by sub-paragraph (1) information about how to make a fresh application to sign by proxy.
 
-#### 37. Official petition notice forms for certain recall petitions[^key-acbae1469462bd6aa9f86ffaca3e7267][^key-9ef7cf6dac0c4b0057f128cf5dcc79ff]
+#### 37. Official petition notice forms for certain recall petitions[^c-acbae1469462bd6aa9f86ffaca3e7267][^c-9ef7cf6dac0c4b0057f128cf5dcc79ff]
 
 (1) The amendments made by regulation 19(18), so far as they substitute forms D and F in Parts 1 and 3 of Schedule 2 to the 2016 Regulations, do not apply in respect of an ongoing recall petition.
 
 (2) Form D (official petition notice for an elector who may sign the petition in person), form F (official petition notice for a proxy who may sign the petition in person) and form G (official petition notice for a proxy who may sign the petition by post) in Part 1 of Schedule 2 to the 2016 Regulations apply in respect of a relevant recall petition as if, on the third page of the form, in the text that begins “Sign the petition as a proxy for more than two people”, for “Sign” there were substituted “(In the case of a proxy appointed before 31st October 2023) sign”.
 
-(3) Form E (official petition notice for an elector who may sign the petition by post) in Part 1 of Schedule 2 to the 2016 Regulations applies[^key-003be665203b219d220639568cbb8732] in respect of a relevant recall petition as if, on the second page of the form, in the text that begins “Sign the petition as a proxy for more than two people”, for “Sign” there were substituted “(In the case of a proxy appointed before 31st October 2023) sign”.
+(3) Form E (official petition notice for an elector who may sign the petition by post) in Part 1 of Schedule 2 to the 2016 Regulations applies[^c-003be665203b219d220639568cbb8732] in respect of a relevant recall petition as if, on the second page of the form, in the text that begins “Sign the petition as a proxy for more than two people”, for “Sign” there were substituted “(In the case of a proxy appointed before 31st October 2023) sign”.
 
-(3A)[^key-7153059ee40edb8b0d55396a91b64ef2] Form E (official petition notice for an elector who may sign the petition by post) in Part 1 of Schedule 2 to the 2016 Regulations applies in respect of a recall petition to which sub-paragraph (8) applies as if, on the second page of the notice, for the text that begins with “Sign the petition as a proxy for more than two people” and ends with “grandchild” there were substituted—
+(3A)[^c-7153059ee40edb8b0d55396a91b64ef2] Form E (official petition notice for an elector who may sign the petition by post) in Part 1 of Schedule 2 to the 2016 Regulations applies in respect of a recall petition to which sub-paragraph (8) applies as if, on the second page of the notice, for the text that begins with “Sign the petition as a proxy for more than two people” and ends with “grandchild” there were substituted—
 
 > In the case of a proxy appointed on or after 31st October 2023, sign the petition as a proxy on behalf of more than four people, of which no more than two may be on behalf of other domestic electors (a domestic elector is one who is not an overseas or service elector)
 
@@ -2992,9 +2992,9 @@ In this Part—
 
 (4) Form D (official petition notice for an elector who may sign the petition in person), form F (official petition notice for a proxy who may sign the petition in person) and form G (official petition notice for a proxy who may sign the petition by post) in Part 3 of Schedule 2 to the 2016 Regulations apply in respect of a relevant recall petition as if, on the final page of the form, in the text that begins “Sign the petition as a proxy for more than two people”, for “Sign” there were substituted “(In the case of a proxy appointed before 31st October 2023) sign”.
 
-(5) Form E (official petition notice for an elector who may sign the petition by post) in Part 3 of Schedule 2 to the 2016 Regulations applies[^key-3070ee727867eb45efbbf7cd9e6ea813] in respect of a relevant recall petition as if, on the second page of the form, in the text that begins “Sign the petition as a proxy for more than two people”, for “Sign” there were substituted “(In the case of a proxy appointed before 31st October 2023) sign”.
+(5) Form E (official petition notice for an elector who may sign the petition by post) in Part 3 of Schedule 2 to the 2016 Regulations applies[^c-3070ee727867eb45efbbf7cd9e6ea813] in respect of a relevant recall petition as if, on the second page of the form, in the text that begins “Sign the petition as a proxy for more than two people”, for “Sign” there were substituted “(In the case of a proxy appointed before 31st October 2023) sign”.
 
-(6)[^key-daf115df30e8bb5c44dd2e2d36897269] Form E (official petition notice for an elector who may sign the petition by post) in Part 3 of Schedule 2 to the 2016 Regulations applies in respect of a recall petition to which sub-paragraph (8) applies as if, on the second page of the notice, for the text that begins with “Sign the petition as a proxy for more than two people” and ends with “grandchild” there were substituted—
+(6)[^c-daf115df30e8bb5c44dd2e2d36897269] Form E (official petition notice for an elector who may sign the petition by post) in Part 3 of Schedule 2 to the 2016 Regulations applies in respect of a recall petition to which sub-paragraph (8) applies as if, on the second page of the notice, for the text that begins with “Sign the petition as a proxy for more than two people” and ends with “grandchild” there were substituted—
 
 > In the case of a proxy appointed on or after 31st October 2023, sign the petition as a proxy on behalf of more than four people, of which no more than two may be on behalf of other domestic electors (a domestic elector is one who is not an overseas or service elector)
 
@@ -3011,7 +3011,7 @@ In this Part—
 - (a) the Speaker’s notice is given in accordance with section 5(1) of the Recall of MPs Act 2015 on or after 31st January 2024, and
 - (b) the date for the beginning of the signing period for that petition is on or before 1st May 2024.
 
-#### 38. Proxy paper form for certain proxy appointments[^key-2ff12fd476a09071fbd5639d304d2780]
+#### 38. Proxy paper form for certain proxy appointments[^c-2ff12fd476a09071fbd5639d304d2780]
 
 (1) This paragraph applies where a proxy appointment is made during the period—
 
@@ -3024,7 +3024,7 @@ In this Part—
 
 (4) In this paragraph, “**proxy appointment**” means an appointment resulting from an application under regulation 51(2) or (6), 52(1) or (7), 53(2), (3) or (4)(b) or 54(1) or (4)(b) of the 2016 Regulations.
 
-#### 39. Saving for certain proxy appointments at ongoing recall petitions[^key-2b46357ceee54627a8f22a029c8193f8]
+#### 39. Saving for certain proxy appointments at ongoing recall petitions[^c-2b46357ceee54627a8f22a029c8193f8]
 
 (1) This paragraph applies where—
 
@@ -3037,7 +3037,7 @@ In this Part—
 
 ### PART 10 — Combined authority mayoral elections
 
-#### 40. Interpretation of Part 10[^key-a02f10dd58d1c6a3670cd32ab79be6f4]
+#### 40. Interpretation of Part 10[^c-a02f10dd58d1c6a3670cd32ab79be6f4]
 
 In this Part—
 
@@ -3045,11 +3045,11 @@ In this Part—
 - “**ongoing combined authority mayoral election**” means a relevant combined authority mayoral election for which the date of poll as specified in the notice of election is on or after 31st January 2024;
 - “**relevant combined authority mayoral election**” means an election for the return of a mayor as provided for in an order made under Schedule 5B to the Local Democracy, Economic Development and Construction Act 2009 for which the notice of election is published in accordance with rule 5 of the mayoral election rules on or before 30th January 2024.
 
-#### 41. Questions for proxies at certain combined authority mayoral elections[^key-6fd66a6c52f869f44a3d37366aeba41e][^key-ac54614c306b61156ee3e3f2d3b5eba6]
+#### 41. Questions for proxies at certain combined authority mayoral elections[^c-6fd66a6c52f869f44a3d37366aeba41e][^c-ac54614c306b61156ee3e3f2d3b5eba6]
 
-(1)[^key-6fd66a6c52f869f44a3d37366aeba41e] The amendments made by regulation 20(3) and (7) do not apply in respect of an ongoing combined authority mayoral election.
+(1)[^c-6fd66a6c52f869f44a3d37366aeba41e] The amendments made by regulation 20(3) and (7) do not apply in respect of an ongoing combined authority mayoral election.
 
-(2)[^key-ac54614c306b61156ee3e3f2d3b5eba6] Rule 35 of the mayoral election rules applies in respect of a relevant combined authority mayoral election as if—
+(2)[^c-ac54614c306b61156ee3e3f2d3b5eba6] Rule 35 of the mayoral election rules applies in respect of a relevant combined authority mayoral election as if—
 
 - (a) in the Table after paragraph (1)—
   - (i) in entry 2 (proxies), in the column headed “Question”—
@@ -3068,7 +3068,7 @@ In this Part—
     - (bb) in question (c), at the beginning there were inserted “If the person answers question (ba) in the affirmative:”;
 - (b) in paragraph (2), after “3(a), (b)” there were inserted “, (ba)”.
 
-#### 42. Poll card forms for certain combined authority mayoral elections[^key-7ed1edc1d9d98831c60a343cd8ae1834][^key-8a1a5ae8525b664aa33ddd36f56d2d9b]
+#### 42. Poll card forms for certain combined authority mayoral elections[^c-7ed1edc1d9d98831c60a343cd8ae1834][^c-8a1a5ae8525b664aa33ddd36f56d2d9b]
 
 (1) The amendments made by regulation 20(4) and (8) do not apply in respect of an ongoing combined authority mayoral election.
 
@@ -3076,7 +3076,7 @@ In this Part—
 
 (3) Form 9 (official postal poll card) and Form 11 (official proxy postal poll card) in the mayoral election rules apply in respect of a relevant combined authority mayoral election as if on the back of the form, before the text that begins “vote as a proxy at this election” there were inserted “(in the case of a proxy appointed before 31st October 2023)”.
 
-(4)[^key-eda1672b1e2fe671d3a3352bca2c2dfe] Sub-paragraph (5) applies in respect of an election for the return of a mayor as provided for in an order made under Schedule 5B to the Local Democracy, Economic Development and Construction Act 2009 for which—
+(4)[^c-eda1672b1e2fe671d3a3352bca2c2dfe] Sub-paragraph (5) applies in respect of an election for the return of a mayor as provided for in an order made under Schedule 5B to the Local Democracy, Economic Development and Construction Act 2009 for which—
 
 - (a) the notice of election is published in accordance with rule 5 of the mayoral election rules on or after 31st January 2024, and
 - (b) the date of poll stated in that notice is on or before 1st May 2024.
@@ -3087,105 +3087,105 @@ In this Part—
 
 .
 
-## SCHEDULE 3 — New forms for the Representation of the People (England and Wales) Regulations 2001[^key-4a89de873af5effd086b9b91e4a0c0f8]
+## SCHEDULE 3 — New forms for the Representation of the People (England and Wales) Regulations 2001[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 Regulation 6(b) and (d)
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]
+[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 **Form A (official poll card to be sent to an elector voting in person)**
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]
+[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 *Front of form*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_001)
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]
+[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 *Rear of form*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_002)
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]
+[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 **Form B (official proxy poll card to be sent to an appointed proxy voting in person)**
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]
+[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 *Front of form*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_003)
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]
+[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 *Rear of form*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_004)
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]
+[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 **Form E1 (proxy paper (parliamentary elections and local government elections in England))**
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]
+[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 *First page*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_005)
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]
+[^c-4a89de873af5effd086b9b91e4a0c0f8]
 
 *Final page*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_006)
 
-## SCHEDULE 4 — New forms for the Representation of the People (Scotland) Regulations 2001[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+## SCHEDULE 4 — New forms for the Representation of the People (Scotland) Regulations 2001[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 Regulation 11(b) and (d)
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 **Form A (official poll card to be sent to an elector voting in person)**
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 *Front of form*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_007)
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 *Rear of form*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_008)
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 **Form B (official proxy poll card to be sent to an appointed proxy voting in person)**
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 *Front of form*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_009)
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 *Rear of form*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_010)
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 **Form E1 (proxy paper (parliamentary elections))**
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 *First page*
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_011)
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]
 
 *Last page*
 
@@ -3195,7 +3195,7 @@ Regulation 11(b) and (d)
 
 Regulation 14(5) and (9)
 
-### PART 1 — Forms for use at a mayoral election in England where the poll is not taken together with another election or referendum[^key-d27b990981179491e83a118b5fdeadf2]
+### PART 1 — Forms for use at a mayoral election in England where the poll is not taken together with another election or referendum[^c-d27b990981179491e83a118b5fdeadf2]
 
 **Form 8A (elector’s official poll card (for use at mayoral elections in England))**
 
@@ -3217,7 +3217,7 @@ Regulation 14(5) and (9)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_016)
 
-### PART 2 — Forms for use at a mayoral election in England where the poll is taken together with another election or referendum[^key-97e8b227acd241ca11e2802e0e4233ca]
+### PART 2 — Forms for use at a mayoral election in England where the poll is taken together with another election or referendum[^c-97e8b227acd241ca11e2802e0e4233ca]
 
 **Form 8A (elector’s official poll card (for use at mayoral elections in England))**
 
@@ -3243,7 +3243,7 @@ Regulation 14(5) and (9)
 
 Regulation 15(4) and (8)
 
-### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^key-377829a69f4239e08c7817fe73f787ca]
+### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^c-377829a69f4239e08c7817fe73f787ca]
 
 **Official poll card (to be sent to a voter voting in person)**
 
@@ -3265,7 +3265,7 @@ Regulation 15(4) and (8)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_020)
 
-### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^key-6572da8c247433eb61ec19ede6ac0210]
+### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^c-6572da8c247433eb61ec19ede6ac0210]
 
 **Official poll card (to be sent to a voter voting in person)**
 
@@ -3291,7 +3291,7 @@ Regulation 15(4) and (8)
 
 Regulation 16(4) and (8)
 
-### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^key-b875e4cb0d4914d1c35fa56bd1b7bb73]
+### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^c-b875e4cb0d4914d1c35fa56bd1b7bb73]
 
 **Official poll card (to be sent to a voter voting in person)**
 
@@ -3313,7 +3313,7 @@ Regulation 16(4) and (8)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_024)
 
-### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^key-acac3f2e93694712453a2e90215d4af3]
+### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^c-acac3f2e93694712453a2e90215d4af3]
 
 **Official poll card (to be sent to a voter voting in person)**
 
@@ -3339,7 +3339,7 @@ Regulation 16(4) and (8)
 
 Regulation 17(5)(l) and (8)
 
-### PART 1 — New proxy paper[^key-fbe5d4e941adf059ead42ebfbcdd831a]
+### PART 1 — New proxy paper[^c-fbe5d4e941adf059ead42ebfbcdd831a]
 
 **Form 1: proxy paper**
 
@@ -3351,7 +3351,7 @@ Regulation 17(5)(l) and (8)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_026)
 
-### PART 2 — New official poll card and official proxy poll card[^key-dacac14318d42adbfeedaf41afe961a6]
+### PART 2 — New official poll card and official proxy poll card[^c-dacac14318d42adbfeedaf41afe961a6]
 
 **Form 11: Official poll card**
 
@@ -3377,7 +3377,7 @@ Regulation 17(5)(l) and (8)
 
 Regulation 18(4) and (8)
 
-### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^key-7ca5bd4af310edec429ade3989f5c167]
+### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^c-7ca5bd4af310edec429ade3989f5c167]
 
 **Form 7: Official poll card (to be sent to a voter voting in person)**
 
@@ -3399,7 +3399,7 @@ Regulation 18(4) and (8)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_033)
 
-### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^key-a56157ad52cf067219a81f93ec6fcf7b]
+### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^c-a56157ad52cf067219a81f93ec6fcf7b]
 
 **Form 8: Official poll card (to be sent to a voter voting in person)**
 
@@ -3425,7 +3425,7 @@ Regulation 18(4) and (8)
 
 Regulation 19(18)
 
-### PART 1 — United Kingdom forms[^key-25dde63d3a942afe47593683e09c2129]
+### PART 1 — United Kingdom forms[^c-25dde63d3a942afe47593683e09c2129]
 
 **Form D: Official petition notice for an elector who may sign the petition in person**
 
@@ -3471,7 +3471,7 @@ Regulation 19(18)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_043)
 
-### PART 2 — Northern Ireland forms[^key-bd33f69d87f8c93af6ce3f5c27dbd87c]
+### PART 2 — Northern Ireland forms[^c-bd33f69d87f8c93af6ce3f5c27dbd87c]
 
 **Form D: Official petition notice for an elector who may sign the petition in person**
 
@@ -3489,7 +3489,7 @@ Regulation 19(18)
 
 Regulation 20(4) and (8)
 
-### PART 1 — Forms for use at an election where the poll is not taken together with another election or referendum[^key-81b7c48ec4112a28c09d314aab21712a]
+### PART 1 — Forms for use at an election where the poll is not taken together with another election or referendum[^c-81b7c48ec4112a28c09d314aab21712a]
 
 **Form 8 (elector’s official poll card)**
 
@@ -3511,7 +3511,7 @@ Regulation 20(4) and (8)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2023/1147/images/uksi_20231147_en_054)
 
-### PART 2 — Forms for use at an election where the poll is taken together with another election or referendum[^key-a666a72ca5706b2dc50d1abbdc4226ae]
+### PART 2 — Forms for use at an election where the poll is taken together with another election or referendum[^c-a666a72ca5706b2dc50d1abbdc4226ae]
 
 **Form 8 (elector’s official poll card)**
 
@@ -3537,7 +3537,7 @@ Regulation 20(4) and (8)
 
 Regulation 21
 
-### PART 1 — New Part 2 of Schedule 1 (Welsh versions of forms of words)[^key-bc82f591fa445acc08576efe0aa13fbc]
+### PART 1 — New Part 2 of Schedule 1 (Welsh versions of forms of words)[^c-bc82f591fa445acc08576efe0aa13fbc]
 
 > **PART 2 — Welsh version of questions to be put to voters**
 >
@@ -3577,7 +3577,7 @@ Regulation 21
 > |  | (a) A wnaethoch gais i bleidleisio drwy’r post fel dirprwy? |
 > |  | (b) Pam nad ydych wedi pleidleisio drwy’r post fel dirprwy? |
 
-### PART 2 — New proxy paper, official poll card and official proxy poll card[^key-bee50b2759482599973aa6924ab8026b]
+### PART 2 — New proxy paper, official poll card and official proxy poll card[^c-bee50b2759482599973aa6924ab8026b]
 
 **Form 1: proxy paper**
 
@@ -3665,21 +3665,21 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00014]: Footnote: [2015 c. 25](https://www.legislation.gov.uk/ukpga/2015/25).
 
-[^key-7506d7294eb2e8c3d577239d5a58c79c]: Commencement: Reg. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-7506d7294eb2e8c3d577239d5a58c79c]: Commencement: Reg. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2021/291](https://www.legislation.gov.uk/uksi/2021/291), amended by [S.I. 2022/1382](https://www.legislation.gov.uk/uksi/2022/1382).
 
-[^key-515451a4b790f2252258420a3072eb49]: Commencement: Reg. 2 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-515451a4b790f2252258420a3072eb49]: Commencement: Reg. 2 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341); relevant amending instruments are [S.I. 2001/1700](https://www.legislation.gov.uk/uksi/2001/1700), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2006/752](https://www.legislation.gov.uk/uksi/2006/752), [2910](https://www.legislation.gov.uk/uksi/2006/2910), [2009/725](https://www.legislation.gov.uk/uksi/2009/725), [2013/3198](https://www.legislation.gov.uk/uksi/2013/3198), [2015/467](https://www.legislation.gov.uk/uksi/2015/467), [1971](https://www.legislation.gov.uk/uksi/2015/1971), [2016/211](https://www.legislation.gov.uk/uksi/2016/211), [694](https://www.legislation.gov.uk/uksi/2016/694), [2018/312](https://www.legislation.gov.uk/uksi/2018/312), [644](https://www.legislation.gov.uk/uksi/2018/644), [1310](https://www.legislation.gov.uk/uksi/2018/1310), [2019/1451](https://www.legislation.gov.uk/uksi/2019/1451), [2020/50](https://www.legislation.gov.uk/uksi/2020/50), [2021/391](https://www.legislation.gov.uk/uksi/2021/391), [1265](https://www.legislation.gov.uk/uksi/2021/1265), [2022/1382](https://www.legislation.gov.uk/uksi/2022/1382), [2023/149](https://www.legislation.gov.uk/uksi/2023/149).
 
-[^key-ac0508be82073abe5190b97ce6db32d8]: Commencement: Reg. 3 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-ac0508be82073abe5190b97ce6db32d8]: Commencement: Reg. 3 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00017]: Footnote: Sections 10ZC and 10ZD were inserted by paragraph 1 of Schedule 1 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6) and were amended by section 6(2) and (3) of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11) and by section 7 of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
 [^f00018]: Footnote: Paragraph 1A was inserted by paragraph 2 of Schedule 2 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6) and was amended by section 20(2)(b) of the Northern Ireland (Miscellaneous Provisions) Act [2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), by paragraph 18(2) of Schedule 19 to the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12) and by paragraph 4 of Schedule 2 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37).
 
-[^key-436c797c8adde42a99571fcfe30e6f40]: Commencement: Reg. 4 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-436c797c8adde42a99571fcfe30e6f40]: Commencement: Reg. 4 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917); relevant amending instruments are: [S.I. 2014/921](https://www.legislation.gov.uk/uksi/2014/921), [2016/300](https://www.legislation.gov.uk/uksi/2016/300), [2018/272](https://www.legislation.gov.uk/uksi/2018/272), [1310](https://www.legislation.gov.uk/uksi/2018/1310), [2020/190](https://www.legislation.gov.uk/uksi/2020/190), [2021/1265](https://www.legislation.gov.uk/uksi/2021/1265), [2022/175](https://www.legislation.gov.uk/uksi/2022/175), [391](https://www.legislation.gov.uk/uksi/2022/391), [1354](https://www.legislation.gov.uk/uksi/2022/1354), [1382](https://www.legislation.gov.uk/uksi/2022/1382).
 
@@ -3687,7 +3687,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00021]: Footnote: [S.I. 2022/1382](https://www.legislation.gov.uk/uksi/2022/1382).
 
-[^key-8664840a9316a83212c0f636b5f2a6b0]: Commencement: Reg. 5 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-8664840a9316a83212c0f636b5f2a6b0]: Commencement: Reg. 5 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00022]: Footnote: [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2). Paragraph 3 was amended by paragraph 164 of Schedule 27 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), by section 14(1) and (8) of, and paragraphs 20 and 137 of Schedule 1 to, the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), by section 34(5) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), by section 9(3) of the Scottish Elections (Franchise and Representation) Act [2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6) and by paragraph 2 of Schedule 3 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37).
 
@@ -3723,39 +3723,39 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00038]: Footnote: Paragraph 7 was amended by sections 14(3) and (8) and 38(6)(b) of, and paragraphs 23 and 137(7) of Schedule 1 to, the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), by sections 20(c)(iv) and 27(2)(b) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14) and by paragraph 3 of Schedule 3 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37).
 
-[^key-77e115e52448e8923dada23b3c86ff85]: Commencement: [Reg. 6(a)(c)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/6/a/c/d) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-77e115e52448e8923dada23b3c86ff85]: Commencement: [Reg. 6(a)(c)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/6/a/c/d) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-008936db7e8b2023643ce018f1228096]: Commencement: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/6/b) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
+[^c-008936db7e8b2023643ce018f1228096]: Commencement: [Reg. 6(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/6/b) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
 
-[^key-dea8a57aee76bff41c4dd49fb2924866]: Commencement: Reg. 7 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-dea8a57aee76bff41c4dd49fb2924866]: Commencement: Reg. 7 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-2457617c87d092b4f8c72cd338968e03]: Commencement: Reg. 8 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-2457617c87d092b4f8c72cd338968e03]: Commencement: Reg. 8 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-2e7a3664c53bca9b0bd648b978dcf5e2]: Commencement: Reg. 9 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-2e7a3664c53bca9b0bd648b978dcf5e2]: Commencement: Reg. 9 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-316b0cc61a82381e03ff240c6775b297]: Commencement: Reg. 10 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-316b0cc61a82381e03ff240c6775b297]: Commencement: Reg. 10 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-8ef992b0a10603138a4d8c06fd89dbf3]: Commencement: Reg. 11(a)(c)(d) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-8ef992b0a10603138a4d8c06fd89dbf3]: Commencement: Reg. 11(a)(c)(d) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-ee2403e3561211874f367ebcc186d279]: Commencement: [Reg. 11(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/11/b) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
+[^c-ee2403e3561211874f367ebcc186d279]: Commencement: [Reg. 11(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/11/b) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
 
-[^key-26db95bd94f1ede129ca7f56663e46ea]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/1147/regulation/12) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
+[^c-26db95bd94f1ede129ca7f56663e46ea]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/1147/regulation/12) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
 
 [^f00039]: Footnote: [S.I. 1986/1111](https://www.legislation.gov.uk/uksi/1986/1111), amended by [S.I. 2022/1382](https://www.legislation.gov.uk/uksi/2022/1382); there are other amending instruments but none is relevant.
 
-[^key-6bda9d8e53c56af22c59197f3a3607d2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/1147/regulation/13) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
+[^c-6bda9d8e53c56af22c59197f3a3607d2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/1147/regulation/13) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
 
 [^f00040]: Footnote: [S.I. 2004/294](https://www.legislation.gov.uk/uksi/2004/294), amended by [S.I. 2006/3278](https://www.legislation.gov.uk/uksi/2006/3278); there are other amending instruments but none is relevant.
 
-[^key-88e6f647dd2c33f441b959c302035eb7]: Commencement: Reg. 14(1)((2)(4)(6)(8) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-88e6f647dd2c33f441b959c302035eb7]: Commencement: Reg. 14(1)((2)(4)(6)(8) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-5d7ceb0c3b11e0f749fe8c0a2b813637]: Commencement: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/14/3)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/14/5)[(7)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/14/7)[(9)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/14/9) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
+[^c-5d7ceb0c3b11e0f749fe8c0a2b813637]: Commencement: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/14/3)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/14/5)[(7)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/14/7)[(9)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/14/9) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
 
 [^f00041]: Footnote: [S.I. 2007/1024](https://www.legislation.gov.uk/uksi/2007/1024), amended by [S.I. 2022/1382](https://www.legislation.gov.uk/uksi/2022/1382); there are other amending instruments but none is relevant.
 
-[^key-85e7ce886f6ad2babcadf1e33e2f3e1a]: Commencement: [Reg. 15(1)-(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/1), [(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/5/a/ii)[(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/5/a/iii), [(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/6) in force at 31.1.2024, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b)
+[^c-85e7ce886f6ad2babcadf1e33e2f3e1a]: Commencement: [Reg. 15(1)-(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/1), [(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/5/a/ii)[(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/5/a/iii), [(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/15/6) in force at 31.1.2024, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b)
 
-[^key-7546736aca87f5f664b7e979e26f7d28]: Commencement: Reg. 15(5)(a)(i)(b)(c) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-7546736aca87f5f664b7e979e26f7d28]: Commencement: Reg. 15(5)(a)(i)(b)(c) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00042]: Footnote: [S.I. 2012/323](https://www.legislation.gov.uk/uksi/2012/323); relevant amending instruments are: [S.I. 2014/924](https://www.legislation.gov.uk/uksi/2014/924), [2022/1382](https://www.legislation.gov.uk/uksi/2022/1382).
 
@@ -3763,49 +3763,49 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00044]: Footnote: Paragraph 2 was amended by sections 35 and 38(6)(a) of, and paragraph 137(3) of Schedule 1 to, the Electoral Administration Act 2006, by sections 27(2)(a) and 32 of the Local Electoral Administration and Registration Services (Scotland) Act 2006, by section 21(3) of the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), by paragraph 12 of Schedule 12 to the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3) and by section 9(2) of the Scottish Elections (Franchise and Representation) Act [2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6). Paragraph 5 was amended by paragraphs 22 and 137(5) and (6) of Schedule 1 to the Electoral Administration Act 2006. Paragraph 6 was amended by paragraph 164(3) of Schedule 27 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), by section 3 of the Electoral Registration and Administration Act 2013, by section 16 of the Scottish Elections (Reduction of Voting Age) Act [2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), by section 9(4) of the Scottish Elections (Franchise and Representation) Act 2020, by paragraph 8(3)(b) of Schedule 2 to the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), and by paragraph 7 of Schedule 4 to the Elections Act 2022. Paragraphs 7C and 7D were inserted by section 14(4) and (8) of the Electoral Administration Act 2006.
 
-[^key-0c07cd6d4281a88a3c1a16b6693336ed]: Commencement: [Reg. 16(1)-(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/1), [(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/ii)[(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/iii), [(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/6) in force at 31.1.2024, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c)
+[^c-0c07cd6d4281a88a3c1a16b6693336ed]: Commencement: [Reg. 16(1)-(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/1), [(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/ii)[(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/iii), [(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/6) in force at 31.1.2024, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c)
 
-[^key-5d38fe52cb7de7b3e8e54ed95a553156]: Commencement: Reg. 16(5)(a)(i)(b)(c) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-5d38fe52cb7de7b3e8e54ed95a553156]: Commencement: Reg. 16(5)(a)(i)(b)(c) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00045]: Footnote: [S.I. 2012/444](https://www.legislation.gov.uk/uksi/2012/444); relevant amending instruments are [S.I. 2014/925](https://www.legislation.gov.uk/uksi/2014/925), [2022/1382](https://www.legislation.gov.uk/uksi/2022/1382).
 
-[^key-797e97f940b9fb9260d10c84eddfb89c]: Commencement: Reg. 17(1)(2)(3)(a)(4)(5)(b)(i)(bb)(d)-(l) in force at 31.10.2023 see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-797e97f940b9fb9260d10c84eddfb89c]: Commencement: Reg. 17(1)(2)(3)(a)(4)(5)(b)(i)(bb)(d)-(l) in force at 31.10.2023 see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00046]: Footnote: Section 15 was amended by paragraph 8 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2); by sections 12(7) and 13(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22); by paragraph 15 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6); by section 9(3) of the Scottish Elections (Reduction of Voting Age) Act [2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7); by section 1(5) of the Scottish Elections (Franchise and Representation) Act [2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6); by section 20(3) of the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1) and by [S.I. 1995/1948](https://www.legislation.gov.uk/uksi/1995/1948). It is prospectively amended by paragraph 1(4) of Schedule 8 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37) from a date and time to be appointed.
 
-[^key-95b1bab702655a210fe4fcd1ebeccb08]: Commencement: [Reg. 17(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/3/b)[(5)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/a)[(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/b/i/aa)[(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/b/ii)[(iii)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/b/iii/c), [(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/6) in force at 31.1.2024, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/d)
+[^c-95b1bab702655a210fe4fcd1ebeccb08]: Commencement: [Reg. 17(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/3/b)[(5)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/a)[(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/b/i/aa)[(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/b/ii)[(iii)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/b/iii/c), [(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/6) in force at 31.1.2024, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/d)
 
-[^key-d06534872351efb906cd0a4b0dd26ab0]: Textual amendment: Words in [reg. 17(5)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/a/i) inserted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/2/a/i)
+[^c-d06534872351efb906cd0a4b0dd26ab0]: Textual amendment: Words in [reg. 17(5)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/a/i) inserted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/2/a/i)
 
-[^key-e311acf02b17d3ea781dc486df763347]: Textual amendment: [Reg. 17(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/a/iii) substituted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/2/a/ii)
+[^c-e311acf02b17d3ea781dc486df763347]: Textual amendment: [Reg. 17(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/a/iii) substituted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/2/a/ii)
 
-[^key-9fe6153f8617c984e9ff1dd2d4db95bc]: Textual amendment: [Reg. 17(5)(ca)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/ca) inserted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(2)(b)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/2/b)
+[^c-9fe6153f8617c984e9ff1dd2d4db95bc]: Textual amendment: [Reg. 17(5)(ca)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/5/ca) inserted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(2)(b)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/2/b)
 
-[^key-95cab990073d696e15b405328987423e]: Commencement: [Reg. 18(1)-(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/1), [(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/5/a/ii)[(iii)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/5/a/iii/b)[(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/5/c), [(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/6) in force at 31.1.2024, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/e)
+[^c-95cab990073d696e15b405328987423e]: Commencement: [Reg. 18(1)-(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/1), [(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/5/a/ii)[(iii)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/5/a/iii/b)[(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/5/c), [(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/18/6) in force at 31.1.2024, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/e)
 
-[^key-78439e2eb51e391c145bf511d7d84a74]: Commencement: Reg. 18(5)(a)(i)(b)(c) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-78439e2eb51e391c145bf511d7d84a74]: Commencement: Reg. 18(5)(a)(i)(b)(c) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00048]: Footnote: [S.I. 2012/2031](https://www.legislation.gov.uk/uksi/2012/2031); relevant amending instruments are [S.I. 2014/333](https://www.legislation.gov.uk/uksi/2014/333), [2022/1382](https://www.legislation.gov.uk/uksi/2022/1382).
 
-[^key-62714ab3639d826f6c56eb9d17c3374f]: Commencement: Reg. 19(1)-(3)(7)(a)(8)-(15)(16)(a)(17) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-62714ab3639d826f6c56eb9d17c3374f]: Commencement: Reg. 19(1)-(3)(7)(a)(8)-(15)(16)(a)(17) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-8fc291bfb3c336df20a805509bf681f9]: Commencement: [Reg. 19(18)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/18) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)[(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f)
+[^c-8fc291bfb3c336df20a805509bf681f9]: Commencement: [Reg. 19(18)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/18) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)[(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f)
 
-[^key-02e4e9a9bb5044645daded8f7139ec24]: Commencement: [Reg. 19(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/4)[(7)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/7/b)[(16)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/16/b) in force at 31.1.2024, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f)
+[^c-02e4e9a9bb5044645daded8f7139ec24]: Commencement: [Reg. 19(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/4)[(7)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/7/b)[(16)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/16/b) in force at 31.1.2024, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f)
 
 [^f00049]: Footnote: Section 2 was substituted by paragraph 3 of Schedule 2 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2). It is prospectively substituted by section 14(1) of the Election Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37) from a date and time to be appointed.
 
 [^f00050]: Footnote: Section 9 was repealed, in relation to England, Wales and Scotland, by section 12(2) of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2). Subsection (6) was amended by paragraph 17(5) of Schedule 6 to the Representation of the People Act 2000.
 
-[^key-5728615e1e27b1061bbdb4cc35e5a25a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/1147/regulation/20) in force at 31.1.2024, see [reg. 1(3)(g)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/g)
+[^c-5728615e1e27b1061bbdb4cc35e5a25a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/1147/regulation/20) in force at 31.1.2024, see [reg. 1(3)(g)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/g)
 
 [^f00051]: Footnote: [S.I. 2017/67](https://www.legislation.gov.uk/uksi/2017/67), amended by [S.I. 2022/1382](https://www.legislation.gov.uk/uksi/2022/1382); there are other amending instruments but none is relevant.
 
-[^key-df6cf2a6086f4cf6b02657e5a03fccad]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/1147/regulation/21) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)[(3)(h)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/h)
+[^c-df6cf2a6086f4cf6b02657e5a03fccad]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/1147/regulation/21) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)[(3)(h)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/h)
 
-[^key-db576ba6670a5d367c74dd7d911b1cb8]: Commencement: Reg. 22 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-db576ba6670a5d367c74dd7d911b1cb8]: Commencement: Reg. 22 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-8597b10258715dca95950b38d8091dcf]: Commencement: Sch. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-8597b10258715dca95950b38d8091dcf]: Commencement: Sch. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00052]: Footnote: See section 202(1) for the meaning of “prescribed” in section 9B(1A). Section 9B was inserted by section 10(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), and was amended by section 20(a) of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14) and by paragraph 7 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6). Section 53(1)(ba) was inserted by paragraph 1(b) of Schedule 2 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37). Section 53(4) was inserted by paragraph 109 of Schedule 1 to the Electoral Administration Act 2006. Section 201(3) was inserted by paragraph 21 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) and amended by paragraph 6(7) of Schedule 21 to the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41).
 
@@ -3827,194 +3827,194 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00061]: Footnote: See section 22(1) for the meaning of “the Minister”.
 
-[^key-4ec1694ea417252ded46236530924042]: Commencement: Sch. 2 para. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-4ec1694ea417252ded46236530924042]: Commencement: Sch. 2 para. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00062]: Footnote: [2022 c. 37](https://www.legislation.gov.uk/ukpga/2022/37).
 
-[^key-48db4a543e09b4b0e5d2b17704552377]: Commencement: Sch. 2 para. 2 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-48db4a543e09b4b0e5d2b17704552377]: Commencement: Sch. 2 para. 2 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00063]: Footnote: Rule 5 was amended by Part 1 of Schedule 2 and paragraph 74 of Schedule 4 to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), by paragraph 10 of Schedule 6 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) and by section 19(3) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-44fe072737c37bf27b28d4847a38c5c6]: Commencement: Sch. 2 para. 3 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-44fe072737c37bf27b28d4847a38c5c6]: Commencement: Sch. 2 para. 3 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-9d193ef585187376d2009b7642603335]: Commencement: [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/4/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-9d193ef585187376d2009b7642603335]: Commencement: [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/4/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-2d8ab33d9ccf4f86c1671f3b8c7a6e7f]: Commencement: Sch. 2 para. 4(2) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-2d8ab33d9ccf4f86c1671f3b8c7a6e7f]: Commencement: Sch. 2 para. 4(2) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-3c1b89644b65caae23ac21af0d43a6f1]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/4/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/4/4) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/2)
+[^c-3c1b89644b65caae23ac21af0d43a6f1]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/4/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/4/4) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/2)
 
-[^key-2fb7f7525e866339fe74fd18415428f1]: Commencement: Sch. 2 para. 5 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-2fb7f7525e866339fe74fd18415428f1]: Commencement: Sch. 2 para. 5 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-f0e0c65a68f8dd32aebc5c484c6a0af1]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/6) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-f0e0c65a68f8dd32aebc5c484c6a0af1]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/6) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-0d231db1605d2c7e183ca81540557a91]: Commencement: Sch. 2 para. 7 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-0d231db1605d2c7e183ca81540557a91]: Commencement: Sch. 2 para. 7 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00064]: Footnote: Section 9H was inserted by paragraph 1 of Schedule 2 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-b96592c85798deda93a2feab4028664c]: Commencement: [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/8/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-b96592c85798deda93a2feab4028664c]: Commencement: [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/8/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-d2603c5431c0e8197846b92f57c59973]: Commencement: Sch. 2 para. 8(2) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-d2603c5431c0e8197846b92f57c59973]: Commencement: Sch. 2 para. 8(2) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-b7582939a6cba43c93d2cbe5554a8be9]: Commencement: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/9/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-b7582939a6cba43c93d2cbe5554a8be9]: Commencement: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/9/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-9220ce02a87970e721ce613404367d1c]: Commencement: Sch. 2 para. 9(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-9220ce02a87970e721ce613404367d1c]: Commencement: Sch. 2 para. 9(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-93e87bd22e471a3b35c2aab0c9ffa354]: Textual amendment: [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/9/4)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/9/5) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/3)
+[^c-93e87bd22e471a3b35c2aab0c9ffa354]: Textual amendment: [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/9/4)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/9/5) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/3)
 
-[^key-69b11fde34f0e7954fed606f0a009cb1]: Commencement: Sch. 2 para. 10 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-69b11fde34f0e7954fed606f0a009cb1]: Commencement: Sch. 2 para. 10 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00065]: Footnote: Part 1A was inserted by paragraph 1 of Schedule 2 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and was amended by section 190(10) of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), by section 20 of the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1) and by [S.I. 2013/594](https://www.legislation.gov.uk/uksi/2013/594), [2597](https://www.legislation.gov.uk/uksi/2013/2597), [2021/1265](https://www.legislation.gov.uk/uksi/2021/1265).
 
-[^key-75a56d662071b3799bff08a011a6ff28]: Commencement: [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-75a56d662071b3799bff08a011a6ff28]: Commencement: [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/11/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-5c72f6ba60ed29f619c84953226ec1f7]: Commencement: Sch. 2 para. 11(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-5c72f6ba60ed29f619c84953226ec1f7]: Commencement: Sch. 2 para. 11(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-a04ab5196ec1f7f3e1a0384cb87a850f]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/12) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-a04ab5196ec1f7f3e1a0384cb87a850f]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/12) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-081f6742547eda209aee3f5ed4b8dbcc]: Commencement: [Sch. 2 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/13/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-081f6742547eda209aee3f5ed4b8dbcc]: Commencement: [Sch. 2 para. 13(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/13/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-a8af33271fbbe083391fb27f603f1802]: Commencement: Sch. 2 para. 13(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-a8af33271fbbe083391fb27f603f1802]: Commencement: Sch. 2 para. 13(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-16c99bf29a61f72321a388b9a7635fde]: Textual amendment: [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/13/4)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/13/5) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/4)
+[^c-16c99bf29a61f72321a388b9a7635fde]: Textual amendment: [Sch. 2 para. 13(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/13/4)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/13/5) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/4)
 
-[^key-2906819f40f4a6b9df5bb20d99a90efd]: Commencement: Sch. 2 para. 14 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-2906819f40f4a6b9df5bb20d99a90efd]: Commencement: Sch. 2 para. 14 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
 [^f00066]: Footnote: Chapter 4ZA was inserted by Schedule 5 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and was amended by section 3(5) to (7) of the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), by section 41 of the Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2) and by [S.I. 2013/733](https://www.legislation.gov.uk/uksi/2013/733), [2021/1265](https://www.legislation.gov.uk/uksi/2021/1265).
 
-[^key-04e703a53ccc5b1845f5d7dc917027a8]: Commencement: [Sch. 2 para. 15(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/15/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-04e703a53ccc5b1845f5d7dc917027a8]: Commencement: [Sch. 2 para. 15(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/15/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-a51d8cd66210b0f089c9fc493e35a8f9]: Commencement: Sch. 2 para. 15(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-a51d8cd66210b0f089c9fc493e35a8f9]: Commencement: Sch. 2 para. 15(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-447734eeb69ad8ba0e362ac78e46d402]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/16) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-447734eeb69ad8ba0e362ac78e46d402]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/16) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-28e7af2c3c13321edec55323c48dec6c]: Commencement: [Sch. 2 para. 17(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/17/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-28e7af2c3c13321edec55323c48dec6c]: Commencement: [Sch. 2 para. 17(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/17/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-9ec25883e6bf946ff3eccecd2ba97557]: Commencement: Sch. 2 para. 17(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-9ec25883e6bf946ff3eccecd2ba97557]: Commencement: Sch. 2 para. 17(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-9f7d03b803a2f8b64d2875e50e2cf451]: Textual amendment: [Sch. 2 para. 17(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/17/4)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/17/5) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/5)
+[^c-9f7d03b803a2f8b64d2875e50e2cf451]: Textual amendment: [Sch. 2 para. 17(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/17/4)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/17/5) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/5)
 
-[^key-f6207eb022bab75e0e2e33ec7b1fc221]: Commencement: Sch. 2 para. 18 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-f6207eb022bab75e0e2e33ec7b1fc221]: Commencement: Sch. 2 para. 18 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-ff24287c0d08bd4a097f44f6963b6bb1]: Commencement: Sch. 2 para. 19(1)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-ff24287c0d08bd4a097f44f6963b6bb1]: Commencement: Sch. 2 para. 19(1)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-277a81680803023cf8d4f599ce58f86d]: Commencement: [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/19/2) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-277a81680803023cf8d4f599ce58f86d]: Commencement: [Sch. 2 para. 19(2)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/19/2) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-2d108546f6cfe27aba63928d36f4680b]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/20) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-2d108546f6cfe27aba63928d36f4680b]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/20) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-1631d5f8be9cf4e1a8093c761ed950cb]: Textual amendment: Words in [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/20) heading substituted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(3)(a)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/3/a)
+[^c-1631d5f8be9cf4e1a8093c761ed950cb]: Textual amendment: Words in [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/20) heading substituted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(3)(a)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/3/a)
 
-[^key-b6ae3aee94de9b784e739d7bbfbf9075]: Textual amendment: Words in [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/20) substituted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(3)(b)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/3/b)
+[^c-b6ae3aee94de9b784e739d7bbfbf9075]: Textual amendment: Words in [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/20) substituted (31.1.2024 immediately before S.I. 2023/1147, reg. 17(5)(a) comes into force) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/5), [19(3)(b)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/19/3/b)
 
-[^key-6b30e6d23a0653d4f7f66c87c5f357b1]: Commencement: [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/21/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-6b30e6d23a0653d4f7f66c87c5f357b1]: Commencement: [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/21/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-06071727a02ae34d69693f87156157c5]: Commencement: Sch. 2 para. 21(2)-(4) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-06071727a02ae34d69693f87156157c5]: Commencement: Sch. 2 para. 21(2)-(4) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-1dde69b6302691a1c51be3aad5c05568]: Commencement: Sch. 2 para. 22 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-1dde69b6302691a1c51be3aad5c05568]: Commencement: Sch. 2 para. 22 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-f9c75a620cd188892f14cc16533638ef]: Commencement: [Sch. 2 para. 23(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/23/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-f9c75a620cd188892f14cc16533638ef]: Commencement: [Sch. 2 para. 23(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/23/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-9a5c6807526c0729d96abca1e5a6da63]: Commencement: Sch. 2 para. 23(2)-(5) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-9a5c6807526c0729d96abca1e5a6da63]: Commencement: Sch. 2 para. 23(2)-(5) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-fa0ca54cb3c644bae3a97b36884a26df]: Commencement: Sch. 2 para. 24 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-fa0ca54cb3c644bae3a97b36884a26df]: Commencement: Sch. 2 para. 24 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-9a4e93c3842853bd62915d5f330387e3]: Commencement: Sch. 2 para. 25 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-9a4e93c3842853bd62915d5f330387e3]: Commencement: Sch. 2 para. 25 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-0173071517f031e4b9113293378b61b5]: Commencement: Sch. 2 para. 26 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-0173071517f031e4b9113293378b61b5]: Commencement: Sch. 2 para. 26 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-461cd70d277b0d7e1068068182268769]: Commencement: Sch. 2 Pt. 7 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-461cd70d277b0d7e1068068182268769]: Commencement: Sch. 2 Pt. 7 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-992ed3dde92344ad2d34edde3f025743]: Commencement: Sch. 2 para. 27 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-992ed3dde92344ad2d34edde3f025743]: Commencement: Sch. 2 para. 27 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-3e3aa11180f1706f5e0ba020b3dcb091]: Commencement: [Sch. 2 para. 28(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/28/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-3e3aa11180f1706f5e0ba020b3dcb091]: Commencement: [Sch. 2 para. 28(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/28/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-7b41e561a26b7da82f9ee2394108e884]: Commencement: Sch. 2 para. 28(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-7b41e561a26b7da82f9ee2394108e884]: Commencement: Sch. 2 para. 28(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-9205c292284dc0b7f81a719c248dfd95]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/29) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-9205c292284dc0b7f81a719c248dfd95]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/29) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-508e1084394648cf9095bc0b13ca4234]: Commencement: [Sch. 2 para. 30(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/30/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-508e1084394648cf9095bc0b13ca4234]: Commencement: [Sch. 2 para. 30(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/30/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-9a2ca77468d54737e1b16d60c381f368]: Commencement: Sch. 2 para. 30(2)-(5) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-9a2ca77468d54737e1b16d60c381f368]: Commencement: Sch. 2 para. 30(2)-(5) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-432ec8c0b9e65532388e684370ad68e8]: Textual amendment: [Sch. 2 para. 30(6)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/30/6)[(7)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/30/7) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/6)
+[^c-432ec8c0b9e65532388e684370ad68e8]: Textual amendment: [Sch. 2 para. 30(6)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/30/6)[(7)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/30/7) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/6)
 
-[^key-3014ca664d758e9928353019cca1024b]: Commencement: Sch. 2 para. 31 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-3014ca664d758e9928353019cca1024b]: Commencement: Sch. 2 para. 31 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-0f61dabef41e59b77550907d31f63cf5]: Commencement: [Sch. 2 para. 32(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/32/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-0f61dabef41e59b77550907d31f63cf5]: Commencement: [Sch. 2 para. 32(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/32/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-d7a8d3a1d9c0e9905722f72beb6f657c]: Commencement: Sch. 2 para. 32(2) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-d7a8d3a1d9c0e9905722f72beb6f657c]: Commencement: Sch. 2 para. 32(2) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-f36a54bbb307f9f1bd1ab11c9a2d46eb]: Commencement: Sch. 2 para. 33 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-f36a54bbb307f9f1bd1ab11c9a2d46eb]: Commencement: Sch. 2 para. 33 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-aec7f463ef2f7adb728095fc51af321c]: Commencement: Sch. 2 para. 34(1)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-aec7f463ef2f7adb728095fc51af321c]: Commencement: Sch. 2 para. 34(1)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-a83cf1b0dab5ea55a2453b3db2dcc561]: Commencement: [Sch. 2 para. 34(2)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/34/2) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-a83cf1b0dab5ea55a2453b3db2dcc561]: Commencement: [Sch. 2 para. 34(2)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/34/2) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
 [^f00067]: Footnote: Section 6 was repealed, in relation to England, Wales and Scotland, by section 12(2) of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2). Subsection (1) was amended by paragraph 14(2) of Schedule 6 to the Representation of the People Act 2000, by section 3(2) of the Electoral Fraud (Northern Ireland) Act [2002 (c. 13)](https://www.legislation.gov.uk/ukpga/2002/13) and by [S.I. 2018/699](https://www.legislation.gov.uk/uksi/2018/699).
 
-[^key-af7814fe6f8913554e7c37f08379a958]: Commencement: Sch. 2 para. 35 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-af7814fe6f8913554e7c37f08379a958]: Commencement: Sch. 2 para. 35 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-a16c9c48c62104da0024a0617b7f2075]: Commencement: Sch. 2 para. 36 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-a16c9c48c62104da0024a0617b7f2075]: Commencement: Sch. 2 para. 36 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-acbae1469462bd6aa9f86ffaca3e7267]: Commencement: [Sch. 2 para. 37(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-acbae1469462bd6aa9f86ffaca3e7267]: Commencement: [Sch. 2 para. 37(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-9ef7cf6dac0c4b0057f128cf5dcc79ff]: Commencement: Sch. 2 para. 37(2)-(5) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-9ef7cf6dac0c4b0057f128cf5dcc79ff]: Commencement: Sch. 2 para. 37(2)-(5) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-003be665203b219d220639568cbb8732]: Textual amendment: Word in [Sch. 2 para. 37(3)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/3) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/7/a)
+[^c-003be665203b219d220639568cbb8732]: Textual amendment: Word in [Sch. 2 para. 37(3)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/3) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/7/a)
 
-[^key-7153059ee40edb8b0d55396a91b64ef2]: Textual amendment: [Sch. 2 para. 37(3A)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/3A)[(3B)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/3B) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/7/b)
+[^c-7153059ee40edb8b0d55396a91b64ef2]: Textual amendment: [Sch. 2 para. 37(3A)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/3A)[(3B)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/3B) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/7/b)
 
-[^key-3070ee727867eb45efbbf7cd9e6ea813]: Textual amendment: Word in [Sch. 2 para. 37(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/5) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/7/c)
+[^c-3070ee727867eb45efbbf7cd9e6ea813]: Textual amendment: Word in [Sch. 2 para. 37(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/5) substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/7/c)
 
-[^key-daf115df30e8bb5c44dd2e2d36897269]: Textual amendment: [Sch. 2 para. 37(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/6) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(7)(d)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/7/d)
+[^c-daf115df30e8bb5c44dd2e2d36897269]: Textual amendment: [Sch. 2 para. 37(6)-(8)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/37/6) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(7)(d)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/7/d)
 
-[^key-2ff12fd476a09071fbd5639d304d2780]: Commencement: Sch. 2 para. 38 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-2ff12fd476a09071fbd5639d304d2780]: Commencement: Sch. 2 para. 38 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-2b46357ceee54627a8f22a029c8193f8]: Commencement: Sch. 2 para. 39 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-2b46357ceee54627a8f22a029c8193f8]: Commencement: Sch. 2 para. 39 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-a02f10dd58d1c6a3670cd32ab79be6f4]: Commencement: Sch. 2 para. 40 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-a02f10dd58d1c6a3670cd32ab79be6f4]: Commencement: Sch. 2 para. 40 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-6fd66a6c52f869f44a3d37366aeba41e]: Commencement: [Sch. 2 para. 41(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/41/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-6fd66a6c52f869f44a3d37366aeba41e]: Commencement: [Sch. 2 para. 41(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/41/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-ac54614c306b61156ee3e3f2d3b5eba6]: Commencement: Sch. 2 para. 41(2) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-ac54614c306b61156ee3e3f2d3b5eba6]: Commencement: Sch. 2 para. 41(2) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-7ed1edc1d9d98831c60a343cd8ae1834]: Commencement: [Sch. 2 para. 42(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/42/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
+[^c-7ed1edc1d9d98831c60a343cd8ae1834]: Commencement: [Sch. 2 para. 42(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/42/1) in force at 31.1.2024, see [reg. 1(3)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/i)
 
-[^key-8a1a5ae8525b664aa33ddd36f56d2d9b]: Commencement: Sch. 2 para. 42(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-8a1a5ae8525b664aa33ddd36f56d2d9b]: Commencement: Sch. 2 para. 42(2)(3) in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-eda1672b1e2fe671d3a3352bca2c2dfe]: Textual amendment: [Sch. 2 para. 42(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/42/4)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/42/5) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/8)
+[^c-eda1672b1e2fe671d3a3352bca2c2dfe]: Textual amendment: [Sch. 2 para. 42(4)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/42/4)[(5)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/42/5) inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2024 (S.I. 2024/99)](https://www.legislation.gov.uk/uksi/2024/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/99/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2024/99/regulation/2/8)
 
-[^key-4a89de873af5effd086b9b91e4a0c0f8]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1147/schedule/3) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
+[^c-4a89de873af5effd086b9b91e4a0c0f8]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1147/schedule/3) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
 
-[^key-f0f5694f7337aa7f7d55f1f8d20c4d6a]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2023/1147/schedule/4) in force at 31.10.2023for specified purposes and otherwise 31.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
+[^c-f0f5694f7337aa7f7d55f1f8d20c4d6a]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2023/1147/schedule/4) in force at 31.10.2023for specified purposes and otherwise 31.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
 
-[^key-d27b990981179491e83a118b5fdeadf2]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/5/part/1) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
+[^c-d27b990981179491e83a118b5fdeadf2]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/5/part/1) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
 
-[^key-97e8b227acd241ca11e2802e0e4233ca]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/5/part/2) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
+[^c-97e8b227acd241ca11e2802e0e4233ca]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/5/part/2) in force at 31.1.2024, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/a)
 
-[^key-377829a69f4239e08c7817fe73f787ca]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/6/part/1) in force at 31.1.2024, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b)
+[^c-377829a69f4239e08c7817fe73f787ca]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/6/part/1) in force at 31.1.2024, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b)
 
-[^key-6572da8c247433eb61ec19ede6ac0210]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/6/part/2) in force at 31.1.2024, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b)
+[^c-6572da8c247433eb61ec19ede6ac0210]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/6/part/2) in force at 31.1.2024, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/b)
 
-[^key-b875e4cb0d4914d1c35fa56bd1b7bb73]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/7/part/1) in force at 31.1.2024, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c)
+[^c-b875e4cb0d4914d1c35fa56bd1b7bb73]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/7/part/1) in force at 31.1.2024, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c)
 
-[^key-acac3f2e93694712453a2e90215d4af3]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/7/part/2) in force at 31.1.2024, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c)
+[^c-acac3f2e93694712453a2e90215d4af3]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/7/part/2) in force at 31.1.2024, see [reg. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c)
 
-[^key-fbe5d4e941adf059ead42ebfbcdd831a]: Commencement: Sch. 8 Pt. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-fbe5d4e941adf059ead42ebfbcdd831a]: Commencement: Sch. 8 Pt. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-dacac14318d42adbfeedaf41afe961a6]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/8/part/2) in force at 31.1.2024, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/d)
+[^c-dacac14318d42adbfeedaf41afe961a6]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/8/part/2) in force at 31.1.2024, see [reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/d)
 
-[^key-7ca5bd4af310edec429ade3989f5c167]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/9/part/1) in force at 31.1.2024, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/e)
+[^c-7ca5bd4af310edec429ade3989f5c167]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/9/part/1) in force at 31.1.2024, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/e)
 
-[^key-a56157ad52cf067219a81f93ec6fcf7b]: Commencement: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/9/part/2) in force at 31.1.2024, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/e)
+[^c-a56157ad52cf067219a81f93ec6fcf7b]: Commencement: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/9/part/2) in force at 31.1.2024, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/e)
 
-[^key-25dde63d3a942afe47593683e09c2129]: Commencement: [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/10/part/1) in force at 31.1.2024, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f)
+[^c-25dde63d3a942afe47593683e09c2129]: Commencement: [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/10/part/1) in force at 31.1.2024, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f)
 
-[^key-bd33f69d87f8c93af6ce3f5c27dbd87c]: Commencement: [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/10/part/2) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2/3/f)
+[^c-bd33f69d87f8c93af6ce3f5c27dbd87c]: Commencement: [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/10/part/2) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2/3/f)
 
-[^key-81b7c48ec4112a28c09d314aab21712a]: Commencement: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/11/part/1) in force at 31.1.2024, see [reg. 1(3)(g)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/g)
+[^c-81b7c48ec4112a28c09d314aab21712a]: Commencement: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1147/schedule/11/part/1) in force at 31.1.2024, see [reg. 1(3)(g)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/g)
 
-[^key-a666a72ca5706b2dc50d1abbdc4226ae]: Commencement: [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/11/part/2) in force at 31.1.2024, see [reg. 1(3)(g)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/g)
+[^c-a666a72ca5706b2dc50d1abbdc4226ae]: Commencement: [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/11/part/2) in force at 31.1.2024, see [reg. 1(3)(g)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/g)
 
-[^key-bc82f591fa445acc08576efe0aa13fbc]: Commencement: Sch. 12 Pt. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
+[^c-bc82f591fa445acc08576efe0aa13fbc]: Commencement: Sch. 12 Pt. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2)
 
-[^key-bee50b2759482599973aa6924ab8026b]: Commencement: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/12/part/2) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)(3)(h)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2/3/h)
+[^c-bee50b2759482599973aa6924ab8026b]: Commencement: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1147/schedule/12/part/2) in force at 31.10.2023 for specified purposes and otherwise 31.1.2024, see [reg. 1(2)(3)(h)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2/3/h)

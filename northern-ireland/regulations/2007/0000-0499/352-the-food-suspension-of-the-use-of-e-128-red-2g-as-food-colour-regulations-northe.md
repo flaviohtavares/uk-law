@@ -31,7 +31,7 @@ summary: ''
 
 Food
 
-The Food (Suspension of the Use of E 128 Red 2G as Food Colour) Regulations (Northern Ireland) 2007 (revoked)[^key-a99120253bc2e7bae1510cc13a4b8921]
+The Food (Suspension of the Use of E 128 Red 2G as Food Colour) Regulations (Northern Ireland) 2007 (revoked)[^c-a99120253bc2e7bae1510cc13a4b8921]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation-
 
 3rd August 2007
 
-[^key-a99120253bc2e7bae1510cc13a4b8921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a99120253bc2e7bae1510cc13a4b8921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a99120253bc2e7bae1510cc13a4b8921]
+## 1. Citation and commencement[^c-a99120253bc2e7bae1510cc13a4b8921]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a99120253bc2e7bae1510cc13a4b8921]
+## 2. Interpretation[^c-a99120253bc2e7bae1510cc13a4b8921]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Suspension of activities involving the colour E128 Red 2G[^key-a99120253bc2e7bae1510cc13a4b8921]
+## 3. Suspension of activities involving the colour E128 Red 2G[^c-a99120253bc2e7bae1510cc13a4b8921]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-a99120253bc2e7bae1510cc13a4b8921]
+## 4. Enforcement[^c-a99120253bc2e7bae1510cc13a4b8921]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-a99120253bc2e7bae1510cc13a4b8921]
+## 5. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^c-a99120253bc2e7bae1510cc13a4b8921]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a99120253bc2e7bae1510cc13a4b8921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a99120253bc2e7bae1510cc13a4b8921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a99120253bc2e7bae1510cc13a4b8921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a99120253bc2e7bae1510cc13a4b8921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a99120253bc2e7bae1510cc13a4b8921]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/352) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013 (S.R. 2013/220)](https://www.legislation.gov.uk/nisr/2013/220), [regs. 1](https://www.legislation.gov.uk/nisr/2013/220/regulation/1), [21](https://www.legislation.gov.uk/nisr/2013/220/regulation/21), [Sch. 6](https://www.legislation.gov.uk/nisr/2013/220/schedule/6)
+[^c-a99120253bc2e7bae1510cc13a4b8921]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/352) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013 (S.R. 2013/220)](https://www.legislation.gov.uk/nisr/2013/220), [regs. 1](https://www.legislation.gov.uk/nisr/2013/220/regulation/1), [21](https://www.legislation.gov.uk/nisr/2013/220/regulation/21), [Sch. 6](https://www.legislation.gov.uk/nisr/2013/220/schedule/6)

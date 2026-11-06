@@ -28,15 +28,15 @@ Mental Health (Amendment) Act 1994 (repealed)
 
 1994 c. 6
 
-[^key-f98988ab71c4efd10449a5206c185515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f98988ab71c4efd10449a5206c185515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Definition of managers.[^key-f98988ab71c4efd10449a5206c185515]
+## 1. Definition of managers.[^c-f98988ab71c4efd10449a5206c185515]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, extent and commencement.[^key-f98988ab71c4efd10449a5206c185515]
+## 2. Short title, extent and commencement.[^c-f98988ab71c4efd10449a5206c185515]
 
 **No longer in force.**
 
@@ -44,4 +44,4 @@ Mental Health (Amendment) Act 1994 (repealed)
 
 ## Annotations
 
-[^key-f98988ab71c4efd10449a5206c185515]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1994/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
+[^c-f98988ab71c4efd10449a5206c185515]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1994/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8

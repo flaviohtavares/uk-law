@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Trust special administration: appointment of administrator[^key-4d085ff407e91ddddee0d9137bf4ba23]
+## 84. Trust special administration: appointment of administrator[^c-4d085ff407e91ddddee0d9137bf4ba23]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d085ff407e91ddddee0d9137bf4ba23]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/23/section/84) in force at 15.7.2014 by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/2/a)
+[^c-4d085ff407e91ddddee0d9137bf4ba23]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/23/section/84) in force at 15.7.2014 by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/2/a)

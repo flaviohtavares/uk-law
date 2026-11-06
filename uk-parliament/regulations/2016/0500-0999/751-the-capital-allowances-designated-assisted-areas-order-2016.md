@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by section 45K(2)(a), (3) and (4) of the Capital Allowances Act 2001[^f00001].
 
-## 1. Citation, commencement, effect and interpretation[^key-477a96ca816745d41d1832ae1f723ccf]
+## 1. Citation, commencement, effect and interpretation[^c-477a96ca816745d41d1832ae1f723ccf]
 
 (1) This Order may be cited as the Capital Allowances (Designated Assisted Areas) Order 2016.
 
@@ -58,7 +58,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 (5) In this Order “CAA 2001” means the Capital Allowances Act 2001.
 
-## 2. Designation of areas[^key-7ac657fde67fcf7e76dea455969bdeed]
+## 2. Designation of areas[^c-7ac657fde67fcf7e76dea455969bdeed]
 
 (1) The areas shown enclosed by a line on the map of a scale of 1:1250 included in the schedule to each memorandum of understanding described in paragraph (2) are designated as designated assisted areas for the purposes of section 45K of CAA 2001 (expenditure on plant and machinery for use in designated assisted areas).
 
@@ -74,11 +74,11 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 14th July 2016
 
-## SCHEDULE 1[^key-e2352919ed5284896bfd9cb51e9b7bbc]
+## SCHEDULE 1[^c-e2352919ed5284896bfd9cb51e9b7bbc]
 
 Articles 1(3) and 2(2)
 
-Table 1[^key-fd0080ca1137ab8f8f94099f347f1ea5]
+Table 1[^c-fd0080ca1137ab8f8f94099f347f1ea5]
 
 | Name of responsible authority | Date of memorandum of understanding | Area included in the map | Enterprise Zone within which area falls | Assisted area within which area falls |
 | --- | --- | --- | --- | --- |
@@ -107,7 +107,7 @@ Table 1[^key-fd0080ca1137ab8f8f94099f347f1ea5]
 | Cornwall Council | 12th June 2015 | Newquay | Aerohub | Cornwall and the Isles of Scilly |
 |  |  | Goonhilly Earth Station | Aerohub | Cornwall and the Isles of Scilly |
 
-## SCHEDULE 2[^key-5cfa22b59323e9c22a64a506dc784e53]
+## SCHEDULE 2[^c-5cfa22b59323e9c22a64a506dc784e53]
 
 Articles 1(4) and 2(2)
 
@@ -153,12 +153,12 @@ A Tax Information and Impact Note covering this instrument was published on 16th
 
 [^f00001]: Footnote: [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2); section 45K was inserted by paragraph 3 of Schedule 11 to the Finance Act [2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) and amended by sections 64(1) and (5) and paragraphs 1 and 3 of Schedule 13 to Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
 
-[^key-477a96ca816745d41d1832ae1f723ccf]: Commencement: Art. 1 in force at 5.8.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/751/article/1/2)
+[^c-477a96ca816745d41d1832ae1f723ccf]: Commencement: Art. 1 in force at 5.8.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/751/article/1/2)
 
-[^key-7ac657fde67fcf7e76dea455969bdeed]: Commencement: Art. 2 in force at 5.8.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/751/article/1/2)
+[^c-7ac657fde67fcf7e76dea455969bdeed]: Commencement: Art. 2 in force at 5.8.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/751/article/1/2)
 
-[^key-e2352919ed5284896bfd9cb51e9b7bbc]: Commencement: Sch. 1 in force at 5.8.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/751/article/1/2)
+[^c-e2352919ed5284896bfd9cb51e9b7bbc]: Commencement: Sch. 1 in force at 5.8.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/751/article/1/2)
 
-[^key-fd0080ca1137ab8f8f94099f347f1ea5]: Textual amendment: Sch. 1 Table 1 substituted (8.5.2018) by [The Capital Allowances (Designated Assisted Areas and Amendment) Order 2018 (S.I. 2018/485)](https://www.legislation.gov.uk/uksi/2018/485), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/485/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/485/article/3/2)
+[^c-fd0080ca1137ab8f8f94099f347f1ea5]: Textual amendment: Sch. 1 Table 1 substituted (8.5.2018) by [The Capital Allowances (Designated Assisted Areas and Amendment) Order 2018 (S.I. 2018/485)](https://www.legislation.gov.uk/uksi/2018/485), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/485/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/485/article/3/2)
 
-[^key-5cfa22b59323e9c22a64a506dc784e53]: Commencement: Sch. 2 in force at 5.8.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/751/article/1/2)
+[^c-5cfa22b59323e9c22a64a506dc784e53]: Commencement: Sch. 2 in force at 5.8.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/751/article/1/2)

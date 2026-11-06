@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Validity of certain alterations to GB salary-related contracted-out pension schemes: subsisting schemes[^key-6f0616845a46243d9f7298b5a335fae8]
+## 102. Validity of certain alterations to GB salary-related contracted-out pension schemes: subsisting schemes[^c-6f0616845a46243d9f7298b5a335fae8]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ In this subsection “**the statutory standard**” means the statutory standard
 
 ## Annotations
 
-[^key-6f0616845a46243d9f7298b5a335fae8]: Commencement: S. 102 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)
+[^c-6f0616845a46243d9f7298b5a335fae8]: Commencement: S. 102 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)

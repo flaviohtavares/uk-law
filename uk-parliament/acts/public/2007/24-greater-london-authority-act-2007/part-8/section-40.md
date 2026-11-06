@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. The general power of the Authority: duty to have regard[^key-7bc9a76a1418b16b7d5f9aef32764866]
+## 40. The general power of the Authority: duty to have regard[^c-7bc9a76a1418b16b7d5f9aef32764866]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bc9a76a1418b16b7d5f9aef32764866]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2007/24/section/40) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)
+[^c-7bc9a76a1418b16b7d5f9aef32764866]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2007/24/section/40) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)

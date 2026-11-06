@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Condition relating to youth – full-time education[^key-dd3c4b53894b0eda8159f4f7ed774b05]
+## 13. Condition relating to youth – full-time education[^c-dd3c4b53894b0eda8159f4f7ed774b05]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd3c4b53894b0eda8159f4f7ed774b05]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/219/regulation/13) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-dd3c4b53894b0eda8159f4f7ed774b05]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/219/regulation/13) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

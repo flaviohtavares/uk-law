@@ -80,7 +80,7 @@ Section 19.
 | The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order (Northern Ireland) 2005 (S.R. 2005/433) | In Schedule 1, paragraphs 10 to 12. |
 | The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745 | Article 8(3) and (4). |
 
-### PART 7 — ABOLITION OF CONTRACTING-OUT FOR DEFINED CONTRIBUTION PENSION SCHEMES: FURTHER REPEALS[^key-32b70a2bcec710530b3cc76f232158c1][^key-7c04c7e391cd91a5545ea4523ffa30c8][^key-54265260bedcafafb2a858526650988c][^key-b04ad071e8d2a9d252c4f87d8d34f0bd]
+### PART 7 — ABOLITION OF CONTRACTING-OUT FOR DEFINED CONTRIBUTION PENSION SCHEMES: FURTHER REPEALS[^c-32b70a2bcec710530b3cc76f232158c1][^c-7c04c7e391cd91a5545ea4523ffa30c8][^c-54265260bedcafafb2a858526650988c][^c-b04ad071e8d2a9d252c4f87d8d34f0bd]
 
 | Short Title | Extent of repeal |
 | --- | --- |
@@ -101,10 +101,10 @@ Section 19.
 
 ## Annotations
 
-[^key-32b70a2bcec710530b3cc76f232158c1]: Commencement: Sch. 6 Pt. 7 in operation at 6.4.2012 by [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/115/article/2/1/c)
+[^c-32b70a2bcec710530b3cc76f232158c1]: Commencement: Sch. 6 Pt. 7 in operation at 6.4.2012 by [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/115/article/2/1/c)
 
-[^key-7c04c7e391cd91a5545ea4523ffa30c8]: Commencement: Sch. 6 Pt. 7 in operation at 7.6.2012 for specified purposes by [S.R. 2012/234](https://www.legislation.gov.uk/nisr/2012/234), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/234/article/2/1/b)
+[^c-7c04c7e391cd91a5545ea4523ffa30c8]: Commencement: Sch. 6 Pt. 7 in operation at 7.6.2012 for specified purposes by [S.R. 2012/234](https://www.legislation.gov.uk/nisr/2012/234), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/234/article/2/1/b)
 
-[^key-54265260bedcafafb2a858526650988c]: Commencement: Sch. 6 Pt. 7 in operation at 6.4.2015 for specified purposes by [S.R. 2012/234](https://www.legislation.gov.uk/nisr/2012/234), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/234/article/2/2)
+[^c-54265260bedcafafb2a858526650988c]: Commencement: Sch. 6 Pt. 7 in operation at 6.4.2015 for specified purposes by [S.R. 2012/234](https://www.legislation.gov.uk/nisr/2012/234), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/234/article/2/2)
 
-[^key-b04ad071e8d2a9d252c4f87d8d34f0bd]: Commencement: Sch. 6 Pt. 7 in operation at 6.4.2015 by [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/115/article/2/2/b/i)
+[^c-b04ad071e8d2a9d252c4f87d8d34f0bd]: Commencement: Sch. 6 Pt. 7 in operation at 6.4.2015 by [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/115/article/2/2/b/i)

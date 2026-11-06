@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 51. Powers exercisable by pastoral order[^key-e86deb2257c5d4bc5403ab26cf6d8322]
+## 51. Powers exercisable by pastoral order[^c-e86deb2257c5d4bc5403ab26cf6d8322]
 
 *Extent: E*
 
@@ -38,13 +38,13 @@ The following powers exercisable under this Part by a pastoral scheme shall also
 - (h) the powers under section 45 as respects parsonage houses and the residences of vicars in team ministries, except so far as they relate to a new benefice;
 - (i) the power under section 46(1) to provide for the exchange or transfer of rights of patronage of any benefice or church and the power to provide for the exercise of patronage of benefices held in plurality under section 46(5).
 - (j) the power to provide for the payment to the income account of the diocesan stipends fund of the income of the endowments of a benefice under section 47(1);
-- (k) the power under section 47(5) to make provision as to the manner in which moneys arising from any sale or exchange of the property of a benefice under Part 1 of the Church Property Measure 2018[^key-459a693767274973d9510a82dae67085] are to be dealt with;
+- (k) the power under section 47(5) to make provision as to the manner in which moneys arising from any sale or exchange of the property of a benefice under Part 1 of the Church Property Measure 2018[^c-459a693767274973d9510a82dae67085] are to be dealt with;
 - (l) the powers under section 49 so far as they relate to altering the boundaries between a parish or extra-parochial place in one diocese and a parish or extra-parochial place in another, but not so as to transfer from any benefice or parish any church used for public worship, and the powers under that section so far as they relate to the holding of benefices in plurality, subject to the modification that the reference to the conditions specified in section 15 shall include a reference to the condition specified in section 17(3);
 
 and accordingly those provisions of this Part, and also sections 32(4), 41(6), (7) and (8) and 47(2) and (3), shall apply, subject to any limitations specified above, to pastoral orders as they apply to pastoral schemes:
 
 ## Annotations
 
-[^key-e86deb2257c5d4bc5403ab26cf6d8322]: Commencement: S. 51 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-e86deb2257c5d4bc5403ab26cf6d8322]: Commencement: S. 51 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-459a693767274973d9510a82dae67085]: Textual amendment: Words in [s. 51(k)](https://www.legislation.gov.uk/ukcm/2011/3/section/51/k) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/26); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-459a693767274973d9510a82dae67085]: Textual amendment: Words in [s. 51(k)](https://www.legislation.gov.uk/ukcm/2011/3/section/51/k) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/26); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

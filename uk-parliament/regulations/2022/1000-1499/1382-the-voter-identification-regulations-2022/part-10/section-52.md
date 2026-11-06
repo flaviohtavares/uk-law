@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Amendment of Schedule 3 (local government finance act referendum rules)[^key-84d69bfe8e89efa3bd97f9422794d49a]
+## 52. Amendment of Schedule 3 (local government finance act referendum rules)[^c-84d69bfe8e89efa3bd97f9422794d49a]
 
 *Extent: E+W+S+N.I.*
 
@@ -279,4 +279,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84d69bfe8e89efa3bd97f9422794d49a]: Commencement: Reg. 52 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-84d69bfe8e89efa3bd97f9422794d49a]: Commencement: Reg. 52 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

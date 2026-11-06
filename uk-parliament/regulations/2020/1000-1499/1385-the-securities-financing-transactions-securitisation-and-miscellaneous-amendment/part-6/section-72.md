@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924)[^key-cc7b1745ae22099c313e5c04a5c679e1]
+## 72. Regulation [(EC) No 924/2009](https://www.legislation.gov.uk/european/regulation/2009/0924)[^c-cc7b1745ae22099c313e5c04a5c679e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc7b1745ae22099c313e5c04a5c679e1]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)
+[^c-cc7b1745ae22099c313e5c04a5c679e1]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2020/1385/regulation/72) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)
 
 [^f00064]: Footnote: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), paragraph (1A) to be inserted by [S.I. 2018/1201](https://www.legislation.gov.uk/uksi/2018/1201).

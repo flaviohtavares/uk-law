@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3G — Text of the 2007 Hague Convention[^key-1d6d9ec101680caa603e1f84eab6d73a]
+## SCHEDULE 3G — Text of the 2007 Hague Convention[^c-1d6d9ec101680caa603e1f84eab6d73a]
 
 *Extent: E+W+S+N.I.*
 
@@ -752,4 +752,4 @@ Done at The Hague, on the 23rd day of November 2007, in the English and French l
 
 ## Annotations
 
-[^key-1d6d9ec101680caa603e1f84eab6d73a]: Textual amendment: [Sch. 3G](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3G) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2020/24/schedule/4) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/8))
+[^c-1d6d9ec101680caa603e1f84eab6d73a]: Textual amendment: [Sch. 3G](https://www.legislation.gov.uk/ukpga/1982/27/schedule/3G) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2020/24/schedule/4) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — MODIFICATION OF TAX CREDITS LEGISLATION (FINALISATION OF TAX CREDITS)[^M_F_83232d02-f368-4b87-e9fc-b850f6a03a78][^key-284cf70f8e1558c7004c88e32cb069d7]
+## SCHEDULE 1 — MODIFICATION OF TAX CREDITS LEGISLATION (FINALISATION OF TAX CREDITS)[^M_F_83232d02-f368-4b87-e9fc-b850f6a03a78][^c-284cf70f8e1558c7004c88e32cb069d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ Paragraphs 2 to 10 prescribe modifications to the application of the 2002 Act wh
 **2.** In section 7 (income test)—
 
 - (a) in subsection (3), before “current year income” in each place where it occurs, insert “notional”;
-- (b)[^key-06fb641aefa9f07c5f5784e8cd0c448d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-06fb641aefa9f07c5f5784e8cd0c448d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) after subsection (4), insert—
 
   > (4A) In this section “the notional current year income” means—
@@ -155,7 +155,7 @@ Paragraphs 12 to 23 prescribe modifications to the application of the Tax Credit
 - (b) in paragraph (1) (as so re-numbered)—
   - (i) in sub-paragraph (a), for “taxable profits for the tax year” substitute “actual or estimated taxable profits attributable to the part tax year”;
   - (ii) in sub-paragraph (b), for “taxable profit for the” substitute “actual or estimated taxable profit attributable to the part tax”;
-- (c)[^key-aeb99958ba27c90146ae425838a4a632] after paragraph (1) insert—
+- (c)[^c-aeb99958ba27c90146ae425838a4a632] after paragraph (1) insert—
 
   > (2) Actual or estimated taxable profits attributable to the part tax year (“the relevant trading income”) is to be calculated by reference to the basis period (determined by reference to paragraph 63 or paragraph 65 of Schedule 1 to the Finance Act 2022, whichever applies) ending with 5th April 2024.
   >
@@ -197,18 +197,18 @@ Paragraphs 25 to 27 prescribe modifications to the application of the Tax Credit
 
 **25.** In regulation 2 (interpretation)—
 
-- (a)[^key-3d3970d561689aa4acc20a8e11ed1620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3d3970d561689aa4acc20a8e11ed1620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definition of “the relevant income” insert “as modified by the Universal Credit (Transitional Provisions) Regulations 2014” at the end.
 
 **26.** In regulation 7(3) (determination of rate of working tax credit)—
 
 - (a) in Step 1, in the definition of “MR”, after “maximum rate” insert “(determined in the manner prescribed at the date on which the award of the tax credit terminated)”;
-- (b)[^key-d1a484c3c27b3044ce331f07cb5bf48b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d1a484c3c27b3044ce331f07cb5bf48b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** In regulation 8(3) (determination of rate of child tax credit)—
 
 - (a) in Step 1, in the definition of “MR”, after “maximum rate” insert “(determined in the manner prescribed at the date on which the award of the tax credit terminated)”;
-- (b)[^key-67257a9d8087560454022a2d72fa4db1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-67257a9d8087560454022a2d72fa4db1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 28. Modifications to the Tax Credits (Claims and Notifications) Regulations 2002
 
@@ -251,14 +251,14 @@ Paragraph 38 prescribes a modification to the application of the Tax Credits (Re
 
 [^M_F_83232d02-f368-4b87-e9fc-b850f6a03a78]: Textual amendment: Sch. inserted (13.10.2014) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/1626)](https://www.legislation.gov.uk/uksi/2014/1626), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/4/2)
 
-[^key-284cf70f8e1558c7004c88e32cb069d7]: Textual amendment: Sch. renumbered as Sch. 1 (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/8)
+[^c-284cf70f8e1558c7004c88e32cb069d7]: Textual amendment: Sch. renumbered as Sch. 1 (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/8)
 
-[^key-06fb641aefa9f07c5f5784e8cd0c448d]: Textual amendment: [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/2/b) omitted (29.6.2023) by virtue of [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/a)
+[^c-06fb641aefa9f07c5f5784e8cd0c448d]: Textual amendment: [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/2/b) omitted (29.6.2023) by virtue of [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/a)
 
-[^key-aeb99958ba27c90146ae425838a4a632]: Textual amendment: [Sch. 1 para. 16(c)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/16/c) substituted (6.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/4), [8(4)](https://www.legislation.gov.uk/uksi/2024/341/regulation/8/4)
+[^c-aeb99958ba27c90146ae425838a4a632]: Textual amendment: [Sch. 1 para. 16(c)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/16/c) substituted (6.4.2024) by [The Social Security and Universal Credit (Migration of Tax Credit Claimants and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/341)](https://www.legislation.gov.uk/uksi/2024/341), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/341/regulation/1/4), [8(4)](https://www.legislation.gov.uk/uksi/2024/341/regulation/8/4)
 
-[^key-3d3970d561689aa4acc20a8e11ed1620]: Textual amendment: [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/25/a) omitted (29.6.2023) by virtue of [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/b)
+[^c-3d3970d561689aa4acc20a8e11ed1620]: Textual amendment: [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/25/a) omitted (29.6.2023) by virtue of [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/b)
 
-[^key-d1a484c3c27b3044ce331f07cb5bf48b]: Textual amendment: [Sch. 1 para. 26(b)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/26/b) omitted (29.6.2023) by virtue of [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(c)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/c)
+[^c-d1a484c3c27b3044ce331f07cb5bf48b]: Textual amendment: [Sch. 1 para. 26(b)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/26/b) omitted (29.6.2023) by virtue of [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(c)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/c)
 
-[^key-67257a9d8087560454022a2d72fa4db1]: Textual amendment: [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/27/b) omitted (29.6.2023) by virtue of [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(d)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/d)
+[^c-67257a9d8087560454022a2d72fa4db1]: Textual amendment: [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1/paragraph/27/b) omitted (29.6.2023) by virtue of [The Social Security and Universal Credit (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/543)](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(d)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/d)

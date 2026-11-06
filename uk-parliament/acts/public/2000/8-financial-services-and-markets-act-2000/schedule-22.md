@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 22 — Repeals[^c1709997][^key-d988016f77b9e18bf7b11fe11e545cf7]
+## SCHEDULE 22 — Repeals[^c1709997][^c-d988016f77b9e18bf7b11fe11e545cf7]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ Section 432(3).
 
 [^c1709997]: Commencement: Sch. 22 wholly in force at 2.7.2002; Sch. 22 not in force at Royal Assent see s. 431(2); Sch. 22 in force for specified purposes at 30.4.2001 by [S.I. 2001/1282](https://www.legislation.gov.uk/uksi/2001/1282), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/1282/article/2/b); Sch. 22 in force 2.7.2002 in relation to the Credit Union Act 1979 by [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/5/b); Sch. 22 in force at in so far as not already in force at 1.12.2001 by [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-d988016f77b9e18bf7b11fe11e545cf7]: Modification: Sch. 22 applied (E.W.) (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [10(7)(c)](https://www.legislation.gov.uk/uksi/2013/1046/rule/10/7/c) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))
+[^c-d988016f77b9e18bf7b11fe11e545cf7]: Modification: Sch. 22 applied (E.W.) (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [10(7)(c)](https://www.legislation.gov.uk/uksi/2013/1046/rule/10/7/c) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))

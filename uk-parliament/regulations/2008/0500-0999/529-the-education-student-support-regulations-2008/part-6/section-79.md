@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Applying for an additional amount of loan for living costs or long courses loan[^key-de365813ebf7a18c9636b6c005b32b21]
+## 79. Applying for an additional amount of loan for living costs or long courses loan[^c-de365813ebf7a18c9636b6c005b32b21]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de365813ebf7a18c9636b6c005b32b21]: Commencement: Reg. 79 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-de365813ebf7a18c9636b6c005b32b21]: Commencement: Reg. 79 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

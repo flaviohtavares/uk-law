@@ -38,7 +38,7 @@ After Article 44 of the Criminal Justice (Children) (Northern Ireland) Order 199
 >
 > (5) Where a court makes a custody care order for a period longer than six months, it shall state in open court its reasons for doing so.
 >
-> (6) Subject to paragraph (7), the period for which a child is to be kept in secure accommodation under a custody care order shall be one half of the period of the order; but the appropriate authority may, with the consent of the Department of Justice[^key-fbd5263cb2c3e029ea847bd0603f0040], at any time discharge a child who is being so kept.
+> (6) Subject to paragraph (7), the period for which a child is to be kept in secure accommodation under a custody care order shall be one half of the period of the order; but the appropriate authority may, with the consent of the Department of Justice[^c-fbd5263cb2c3e029ea847bd0603f0040], at any time discharge a child who is being so kept.
 >
 > (7) The length of the period for which the child is to be kept in secure accommodation shall be treated as reduced by any period which is a relevant period within the meaning of section 26(2) and (2A) of the Treatment of Offenders Act (Northern Ireland) 1968 (c. 29 (N.I.)) (reduction of sentence).
 >
@@ -136,7 +136,7 @@ After Article 44 of the Criminal Justice (Children) (Northern Ireland) Order 199
 >
 > (4) The Department of Justice may make rules regulating the supervision of a child subject to a custody care order.
 >
-> (5) Rules under paragraph (4) are subject to negative resolution[^key-ef472c2027c2a0ed28e98e771bc181b5].
+> (5) Rules under paragraph (4) are subject to negative resolution[^c-ef472c2027c2a0ed28e98e771bc181b5].
 >
 > (6) The Department of Justice may pay the expenses incurred by any person designated under paragraph (1) arising from the supervision of a child under this Article.
 >
@@ -191,6 +191,6 @@ After Article 44 of the Criminal Justice (Children) (Northern Ireland) Order 199
 
 ## Annotations
 
-[^key-fbd5263cb2c3e029ea847bd0603f0040]: Textual amendment: Words in [s. 56](https://www.legislation.gov.uk/ukpga/2002/26/section/56) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/11/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-fbd5263cb2c3e029ea847bd0603f0040]: Textual amendment: Words in [s. 56](https://www.legislation.gov.uk/ukpga/2002/26/section/56) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/11/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-ef472c2027c2a0ed28e98e771bc181b5]: Textual amendment: Words in [s. 56](https://www.legislation.gov.uk/ukpga/2002/26/section/56) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/11/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-ef472c2027c2a0ed28e98e771bc181b5]: Textual amendment: Words in [s. 56](https://www.legislation.gov.uk/ukpga/2002/26/section/56) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/11/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

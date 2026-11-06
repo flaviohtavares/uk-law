@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Hospital patients[^key-8f8969c08e6ae6b640efcca0add362a7]
+## 21. Hospital patients[^c-8f8969c08e6ae6b640efcca0add362a7]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f8969c08e6ae6b640efcca0add362a7]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2016/219/regulation/21) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-8f8969c08e6ae6b640efcca0add362a7]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2016/219/regulation/21) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

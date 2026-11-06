@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Safety duties protecting children[^key-334dffe3e41d536422a25bce67a50df7][^key-df886ddda127ac9bff3ee39e341aac6f]
+## 12. Safety duties protecting children[^c-334dffe3e41d536422a25bce67a50df7][^c-df886ddda127ac9bff3ee39e341aac6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,6 +79,6 @@ Additional duty for Category 1 services
 
 ## Annotations
 
-[^key-334dffe3e41d536422a25bce67a50df7]: Commencement: S. 12 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-334dffe3e41d536422a25bce67a50df7]: Commencement: S. 12 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-df886ddda127ac9bff3ee39e341aac6f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/50/section/12) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/d)
+[^c-df886ddda127ac9bff3ee39e341aac6f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/50/section/12) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/d)

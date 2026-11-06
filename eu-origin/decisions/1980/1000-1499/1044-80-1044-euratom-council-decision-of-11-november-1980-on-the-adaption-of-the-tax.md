@@ -31,10 +31,10 @@ summary: ''
 
 of 11 November 1980 on the adaption of the tax advantages conferred on the Schnell-Brüter-Kernkraftwerksgesellschaft mbH (SBK) joint undertaking (revoked)
 
-[^key-8e936ed0ceffc4a2c907052d6ebcccab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e936ed0ceffc4a2c907052d6ebcccab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-8e936ed0ceffc4a2c907052d6ebcccab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-8e936ed0ceffc4a2c907052d6ebcccab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8e936ed0ceffc4a2c907052d6ebcccab]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-8e936ed0ceffc4a2c907052d6ebcccab]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

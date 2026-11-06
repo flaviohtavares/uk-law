@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, ENGLAND
 
-The National Health Service (Charges for Drugs and Appliances) Regulations 2000 (revoked)[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+The National Health Service (Charges for Drugs and Appliances) Regulations 2000 (revoked)[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 Made
 
@@ -45,103 +45,103 @@ Coming into force
 
 1st April 2000
 
-[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 1. Citation, commencement and extent[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 2. Interpretation[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2A.**[^key-7e5f1f2fdf93b629d7914c78e7ed30c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2A.**[^c-7e5f1f2fdf93b629d7914c78e7ed30c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Supply of drugs and appliances by chemists[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Supply of drugs and appliances by doctors[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 3. Supply of drugs and appliances by chemists[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Out of hours supply of drugs and appliances by providers of out of hours services[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 4. Supply of drugs and appliances by doctors[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supply of drugs and appliances by NHS trusts and NHS foundation trusts[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 4A. Out of hours supply of drugs and appliances by providers of out of hours services[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Supply of drugs and appliances at Walk-in-Centres[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 5. Supply of drugs and appliances by NHS trusts and NHS foundation trusts[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6A. Supply of drugs under Patient Group Directions[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 6. Supply of drugs and appliances at Walk-in-Centres[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6B. Supply of drugs and appliances by other providers of NHS services[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 6A. Supply of drugs under Patient Group Directions[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exemptions[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 6B. Supply of drugs and appliances by other providers of NHS services[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7A. Exemption from charges for prisoners[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 7. Exemptions[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7B. Exemption from charges for detainees[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 7A. Exemption from charges for prisoners[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7C. Exemption from charges in respect of listed or emergency medicines[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 7B. Exemption from charges for detainees[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7D. Exemption for prescriptions provided or issued in Northern Ireland[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 7C. Exemption from charges in respect of listed or emergency medicines[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Certificates of exemption—application and issue[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 7D. Exemption for prescriptions provided or issued in Northern Ireland[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Pre-payment certificates[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 8. Certificates of exemption—application and issue[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Repayment of charges[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 9. Pre-payment certificates[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Arrangements between NHS bodies and Local Authorities[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 10. Repayment of charges[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Transitional Provision[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 11. Arrangements between NHS bodies and Local Authorities[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Revocations[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## 12. Transitional Provision[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 13. Revocations[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — CHARGES FOR FABRIC SUPPORTS AND WIGS[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## SCHEDULE 1 — CHARGES FOR FABRIC SUPPORTS AND WIGS[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 Regulation 5(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Regulations Revoked[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]
+## SCHEDULE 2 — Regulations Revoked[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]
 
 Regulation 13
 
@@ -149,8 +149,8 @@ Regulation 13
 
 **May not be in force at this date. Check the source.**
 
-[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e5f1f2fdf93b629d7914c78e7ed30c5]: Textual amendment: Instrument revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2015/570/regulation/19))
+[^c-7e5f1f2fdf93b629d7914c78e7ed30c5]: Textual amendment: Instrument revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2015/570/regulation/19))

@@ -34,7 +34,7 @@ This Scottish Statutory Instrument has been printed to correct errors in [S.S.I 
 
 Census
 
-The Census (Scotland) Amendment Regulations 2010 (revoked)[^key-cc833f3f2791443b9eacd1219d1bfd38]
+The Census (Scotland) Amendment Regulations 2010 (revoked)[^c-cc833f3f2791443b9eacd1219d1bfd38]
 
 Made
 
@@ -48,23 +48,23 @@ Coming into force
 
 25th June 2010
 
-[^key-cc833f3f2791443b9eacd1219d1bfd38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc833f3f2791443b9eacd1219d1bfd38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cc833f3f2791443b9eacd1219d1bfd38]
+## 1. Citation and commencement[^c-cc833f3f2791443b9eacd1219d1bfd38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Census (Scotland) Regulations 2010[^key-cc833f3f2791443b9eacd1219d1bfd38]
+## 2. Amendment of the Census (Scotland) Regulations 2010[^c-cc833f3f2791443b9eacd1219d1bfd38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc833f3f2791443b9eacd1219d1bfd38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc833f3f2791443b9eacd1219d1bfd38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Individual Household Form of Return for 2011 Census[^key-cc833f3f2791443b9eacd1219d1bfd38]
+## SCHEDULE — Individual Household Form of Return for 2011 Census[^c-cc833f3f2791443b9eacd1219d1bfd38]
 
 Regulation 2(6)
 
@@ -72,8 +72,8 @@ Regulation 2(6)
 
 **May not be in force at this date. Check the source.**
 
-[^key-cc833f3f2791443b9eacd1219d1bfd38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc833f3f2791443b9eacd1219d1bfd38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc833f3f2791443b9eacd1219d1bfd38]: Textual amendment: Regulations revoked (16.6.2020) by [The Census (Scotland) Regulations 2020 (S.S.I. 2020/143)](https://www.legislation.gov.uk/ssi/2020/143), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2020/143/regulation/7/b)
+[^c-cc833f3f2791443b9eacd1219d1bfd38]: Textual amendment: Regulations revoked (16.6.2020) by [The Census (Scotland) Regulations 2020 (S.S.I. 2020/143)](https://www.legislation.gov.uk/ssi/2020/143), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/143/regulation/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2020/143/regulation/7/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Title and commencement[^key-f282470f962f23a519b11abf38526414]
+## 1. Title and commencement[^c-f282470f962f23a519b11abf38526414]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f282470f962f23a519b11abf38526414]: Commencement: Art. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f282470f962f23a519b11abf38526414]: Commencement: Art. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977).

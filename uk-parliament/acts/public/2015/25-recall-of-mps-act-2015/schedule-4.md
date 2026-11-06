@@ -26,7 +26,7 @@ Section 16
 
 #### Operation of Schedule and meaning of “accredited campaigner” and “relevant donation” etc
 
-**1.**[^key-6f85d9edcade3e9a5a45ce702584c9a5] (1) This Schedule has effect for controlling relevant donations to accredited campaigners who—
+**1.**[^c-6f85d9edcade3e9a5a45ce702584c9a5] (1) This Schedule has effect for controlling relevant donations to accredited campaigners who—
 
 - (a) are not registered parties, or
 - (b) are registered parties but are minor parties.
@@ -50,7 +50,7 @@ Section 16
 
 #### Donations: general rules
 
-**2.**[^key-2b8035e21d2990bf6177233c45647dfc] (1) In this Schedule, “**donation**”, in relation to an accredited campaigner, means—
+**2.**[^c-2b8035e21d2990bf6177233c45647dfc] (1) In this Schedule, “**donation**”, in relation to an accredited campaigner, means—
 
 - (a) a gift to the accredited campaigner of money or other property,
 - (b) sponsorship provided in relation to the accredited campaigner (see paragraph 3),
@@ -98,20 +98,20 @@ sub-paragraph (1)(b) applies in relation to it to the exclusion of the other pro
 
 #### Sponsorship
 
-**3.**[^c22525451] (1)[^key-95b026b2e364cd8084702249742b4738] For the purposes of this Schedule sponsorship is provided in relation to an accredited campaigner if—
+**3.**[^c22525451] (1)[^c-95b026b2e364cd8084702249742b4738] For the purposes of this Schedule sponsorship is provided in relation to an accredited campaigner if—
 
 - (a) money or other property is transferred to the accredited campaigner or to any person for the benefit of the accredited campaigner, and
 - (b) the purpose (or one of the purposes) of the transfer is (or, having regard to all the circumstances, must reasonably be assumed to be)—
   - (i) to help the accredited campaigner with meeting, or to meet, to any extent, defined expenses incurred or to be incurred by or on behalf of the accredited campaigner, or
   - (ii) to secure that, to any extent, defined expenses are not incurred by or on behalf of the accredited campaigner.
 
-(2)[^key-95b026b2e364cd8084702249742b4738] “**Defined expenses**” means expenses in connection with—
+(2)[^c-95b026b2e364cd8084702249742b4738] “**Defined expenses**” means expenses in connection with—
 
 - (a) a conference, meeting or other event organised by or on behalf of the accredited campaigner,
 - (b) the preparation, production or dissemination of any publication by or on behalf of the accredited campaigner, or
 - (c) study or research organised by or on behalf of the accredited campaigner.
 
-(3)[^key-95b026b2e364cd8084702249742b4738] But the following do not constitute sponsorship for the purposes of this Schedule—
+(3)[^c-95b026b2e364cd8084702249742b4738] But the following do not constitute sponsorship for the purposes of this Schedule—
 
 - (a) the making of a payment in respect of a charge for admission to a conference, meeting or other event;
 - (b) the making of a payment in respect of the purchase price of, or any other charge for access to, any publication;
@@ -127,7 +127,7 @@ sub-paragraph (1)(b) applies in relation to it to the exclusion of the other pro
 
 #### Payments etc not to be regarded as donations
 
-**4.**[^key-e365ef4841cdaaac81fb4d9ec593d4ae] (1) In this Schedule “**donation**” does not include—
+**4.**[^c-e365ef4841cdaaac81fb4d9ec593d4ae] (1) In this Schedule “**donation**” does not include—
 
 - (a) a donation as described in paragraph 2(1)(a) to (f)—
   - (i) whose amount, where the donation is of money, is £500 or less, or
@@ -140,7 +140,7 @@ sub-paragraph (1)(b) applies in relation to it to the exclusion of the other pro
 
 #### Value of donations
 
-**5.**[^key-25aa32639164c9b7639d2f5a604ab0ca] (1) This paragraph has effect for the purposes of this Schedule.
+**5.**[^c-25aa32639164c9b7639d2f5a604ab0ca] (1) This paragraph has effect for the purposes of this Schedule.
 
 (2) The value of a donation within paragraph 2(1)(a) is the value of the money or the market value of the property.
 
@@ -173,9 +173,9 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Meaning of “permissible donor”
 
-**6.**[^key-96cba1ec464caaf215b33546aea11d3e] (1) In this Schedule “**permissible donor**” means—
+**6.**[^c-96cba1ec464caaf215b33546aea11d3e] (1) In this Schedule “**permissible donor**” means—
 
-- (a) a registered party [^key-981279f16652cc7290439da6c381cb01]...,
+- (a) a registered party [^c-981279f16652cc7290439da6c381cb01]...,
 - (b) an individual who is registered in an electoral register,
 - (c) a company incorporated in the United Kingdom or another member State that is registered under the Companies Act 2006 and carries on business in the United Kingdom,
 - (d) a trade union entered in the list kept under the Trade Union and Labour Relations (Consolidation) Act 1992 or the Industrial Relations (Northern Ireland) Order 1992 (S.I. 1992/807 (N.I. 5)),
@@ -191,12 +191,12 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 (4) In this paragraph “**an electoral register**” means—
 
 - (a) a register of parliamentary or local government electors maintained under section 9 of the Representation of the People Act 1983,
-- (b)[^key-d5528ad1ccd0eacf20fc46d6fa171dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-d5528ad1ccd0eacf20fc46d6fa171dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d5528ad1ccd0eacf20fc46d6fa171dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d5528ad1ccd0eacf20fc46d6fa171dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Return of donations
 
-**7.**[^key-a9721f0689ddbcd4b4eb2c30afeb0a20] References in this Schedule to returning a donation (however expressed) include returning an equivalent amount or, where the donation is not of money, returning an amount equivalent to the value of the donation.
+**7.**[^c-a9721f0689ddbcd4b4eb2c30afeb0a20] References in this Schedule to returning a donation (however expressed) include returning an equivalent amount or, where the donation is not of money, returning an amount equivalent to the value of the donation.
 
 #### Power to alter certain financial limits
 
@@ -215,14 +215,14 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Prohibition on accepting donations from impermissible or unidentifiable donors
 
-**9.**[^key-518b12ea9dd9a07e797b4b9152db8aae] A relevant donation received by an accredited campaigner must not be accepted by the accredited campaigner if—
+**9.**[^c-518b12ea9dd9a07e797b4b9152db8aae] A relevant donation received by an accredited campaigner must not be accepted by the accredited campaigner if—
 
 - (a) the donor is not, at the time of its receipt, a permissible donor, or
 - (b) the accredited campaigner is unable to ascertain the identity of the donor (whether because the donation is given anonymously or by reason of any deception or concealment or otherwise).
 
 #### Donations treated as received or not received from permissible donors
 
-**10.**[^key-b0098cdd916159b8d9c9d6c026925386] (1) For the purposes of this Schedule—
+**10.**[^c-b0098cdd916159b8d9c9d6c026925386] (1) For the purposes of this Schedule—
 
 - (a) a relevant donation received by an accredited campaigner which is an exempt trust donation is treated as a relevant donation received from a permissible donor;
 - (b) any other relevant donation received by an accredited campaigner from a trustee of any property (in the trustee's capacity as such) is treated as a relevant donation received otherwise than from a permissible donor.
@@ -234,7 +234,7 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Meaning of “exempt trust donation” in paragraph 10
 
-**11.**[^key-a617d58c3926f9d144f73b4d1fffdca6] (1) In paragraph 10 “**exempt trust donation**” means a donation that—
+**11.**[^c-a617d58c3926f9d144f73b4d1fffdca6] (1) In paragraph 10 “**exempt trust donation**” means a donation that—
 
 - (a) meets condition A or B, and
 - (b) is not received from a trustee of any property pursuant to the exercise of any discretion vested by a trust in the trustee or any other person.
@@ -274,7 +274,7 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Donations made on behalf of other persons
 
-**12.**[^key-dbe8eb25ddfee8263612d98278959e15] (1) Sub-paragraphs (2) and (3) apply where—
+**12.**[^c-dbe8eb25ddfee8263612d98278959e15] (1) Sub-paragraphs (2) and (3) apply where—
 
 - (a) a person (“**the agent**”) causes an amount (“**the relevant amount**”) to be received by an accredited campaigner—
   - (i) on behalf of the agent and one or more other persons, or
@@ -300,13 +300,13 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 12 months or a fine (or both), and
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-84932353c78e9ba1f5d37b7580e5dc54] or a fine (or both),
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-84932353c78e9ba1f5d37b7580e5dc54] or a fine (or both),
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both), and
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both).
 
 #### Duty to verify identity of donor
 
-**13.**[^key-b6aec6cd7d6455c106727004c2b90861] (1) This paragraph applies where—
+**13.**[^c-b6aec6cd7d6455c106727004c2b90861] (1) This paragraph applies where—
 
 - (a) a relevant donation is received by an accredited campaigner, and
 - (b) it is not immediately decided that the accredited campaigner should (for whatever reason) refuse the donation.
@@ -319,7 +319,7 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Duty to return donations from impermissible donors
 
-**14.**[^key-598cac63fab4ad23545d1443b8f3e8c9] (1) This paragraph applies where an accredited campaigner receives a relevant donation which the accredited campaigner is prohibited from accepting by virtue of paragraph 9(a) (impermissible donor) but not by virtue of paragraph 9(b) (unidentifiable donor).
+**14.**[^c-598cac63fab4ad23545d1443b8f3e8c9] (1) This paragraph applies where an accredited campaigner receives a relevant donation which the accredited campaigner is prohibited from accepting by virtue of paragraph 9(a) (impermissible donor) but not by virtue of paragraph 9(b) (unidentifiable donor).
 
 (2) The donation must, before the end of the period of 30 days beginning with the day on which the donation is received, be returned to—
 
@@ -345,13 +345,13 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 12 months or a fine (or both), and
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-69aeb053d8e9e9034b2402f902c81e2a] or a fine (or both),
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-69aeb053d8e9e9034b2402f902c81e2a] or a fine (or both),
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both), and
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both).
 
 #### Duty to return donations from unidentifiable donors
 
-**15.**[^key-8b45029ab2eb7972c645ce997b4f2dcd] (1) This paragraph applies where an accredited campaigner receives a relevant donation which the accredited campaigner is prohibited from accepting by virtue of paragraph 9(b) (unidentifiable donor).
+**15.**[^c-8b45029ab2eb7972c645ce997b4f2dcd] (1) This paragraph applies where an accredited campaigner receives a relevant donation which the accredited campaigner is prohibited from accepting by virtue of paragraph 9(b) (unidentifiable donor).
 
 (2) The donation must be returned to the appropriate person before the end of the period of 30 days beginning with the day on which the donation is received.
 
@@ -370,7 +370,7 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 12 months or a fine (or both), and
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-b23345bf4f47173cee0dee0e7c81eed5] or a fine (or both),
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-b23345bf4f47173cee0dee0e7c81eed5] or a fine (or both),
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both), and
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both).
 
@@ -378,7 +378,7 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Circumstances in which donations treated as accepted or received
 
-**16.**[^key-9c36530acf144df2b8e65a927ab9d8b7] (1) A relevant donation received by an accredited campaigner that is not accepted before the end of the period of 30 days beginning with the day on which it is received is treated for the purposes of this Act as accepted by the accredited campaigner at the end of that period.
+**16.**[^c-9c36530acf144df2b8e65a927ab9d8b7] (1) A relevant donation received by an accredited campaigner that is not accepted before the end of the period of 30 days beginning with the day on which it is received is treated for the purposes of this Act as accepted by the accredited campaigner at the end of that period.
 
 (2) Sub-paragraph (1) does not apply where—
 
@@ -389,7 +389,7 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Forfeiture of donations made by impermissible or unidentifiable donors
 
-**17.**[^key-ea92cf1075db2bcd725ef3858af53486] (1) This paragraph applies where an accredited campaigner accepts a relevant donation in contravention of paragraph 9.
+**17.**[^c-ea92cf1075db2bcd725ef3858af53486] (1) This paragraph applies where an accredited campaigner accepts a relevant donation in contravention of paragraph 9.
 
 (2) The court may, on an application made by the Electoral Commission, order the forfeiture by the accredited campaigner of an amount equal to—
 
@@ -410,7 +410,7 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Appeal against order under paragraph 17
 
-**18.**[^key-90c4e13838ed46a12f69aaf649e2a1a7] (1) Sub-paragraphs (2) to (5) apply where an order is made under paragraph 17 by—
+**18.**[^c-90c4e13838ed46a12f69aaf649e2a1a7] (1) Sub-paragraphs (2) to (5) apply where an order is made under paragraph 17 by—
 
 - (a) a magistrates' court, or
 - (b) a court of summary jurisdiction in Northern Ireland.
@@ -430,7 +430,7 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Supplementary provision about orders under paragraph 17 or 18
 
-**19.**[^key-c479cfdc2dbcff1d534e6074de075758] (1) Provision may be made by rules of court—
+**19.**[^c-c479cfdc2dbcff1d534e6074de075758] (1) Provision may be made by rules of court—
 
 - (a) with respect to applications or appeals under paragraph 17 or 18 to any court,
 - (b) for the giving of notice of such applications or appeals to persons affected,
@@ -455,7 +455,7 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 #### Evasion of restrictions on donations
 
-**20.**[^key-9e45fd3db51d6ea25785d72110552e79] (1) A person commits an offence if the person—
+**20.**[^c-9e45fd3db51d6ea25785d72110552e79] (1) A person commits an offence if the person—
 
 - (a) knowingly enters into an evasion arrangement, or
 - (b) knowingly does any act in furtherance of an evasion arrangement.
@@ -476,13 +476,13 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 12 months or a fine (or both), and
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-da9ddedcbd4cf40063d026a2b1a279ae] or a fine (or both),
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-da9ddedcbd4cf40063d026a2b1a279ae] or a fine (or both),
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both), and
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both).
 
 #### Further provision about offences under this Schedule
 
-**21.**[^key-d31f05056d4db26b309fa91453a193c4] (1) The following provisions of PPERA 2000 apply in relation to offences under this Schedule as they apply in relation to offences under that Act—
+**21.**[^c-d31f05056d4db26b309fa91453a193c4] (1) The following provisions of PPERA 2000 apply in relation to offences under this Schedule as they apply in relation to offences under that Act—
 
 - (a) section 151 (summary proceedings);
 - (b) section 152 (offences committed by bodies corporate);
@@ -491,73 +491,73 @@ and accordingly the value in monetary terms of any benefit conferred on the pers
 
 (2) In paragraphs 12(7)(b)(i), 14(6)(b)(i), 15(5)(b)(i) and 20(5)(b)(i)—
 
-- (a) the reference to the general limit in a magistrates’ court[^key-98bcac167160fa8ae8687929cf42e0d6] is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022[^key-a6270fc0841d337d1014aa0734e613d5], and
+- (a) the reference to the general limit in a magistrates’ court[^c-98bcac167160fa8ae8687929cf42e0d6] is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022[^c-a6270fc0841d337d1014aa0734e613d5], and
 - (b) the reference to a fine is to be read as a reference to a fine not exceeding the statutory maximum in relation to an offence committed before section 85(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 comes into force.
 
 #### Application of defined terms in PPERA 2000
 
-**22.**[^key-bbe7864835caeaf510e0c08b07310d28] In this Schedule, the following expressions have the same meaning as in PPERA 2000: “bequest”; “business”; [^key-8305e164dfc1a2bdbae6b03c673f48b1]... “market value”; “property” (see section 160(1) of that Act).
+**22.**[^c-bbe7864835caeaf510e0c08b07310d28] In this Schedule, the following expressions have the same meaning as in PPERA 2000: “bequest”; “business”; [^c-8305e164dfc1a2bdbae6b03c673f48b1]... “market value”; “property” (see section 160(1) of that Act).
 
 ## Annotations
 
-[^key-6f85d9edcade3e9a5a45ce702584c9a5]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-6f85d9edcade3e9a5a45ce702584c9a5]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-2b8035e21d2990bf6177233c45647dfc]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-2b8035e21d2990bf6177233c45647dfc]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c22525451]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/3) partly in force; [Sch. 4 para. 3(4)-(6)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/3/4) in force at Royal Assent, see [s. 24(2)(e)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/e)
 
-[^key-95b026b2e364cd8084702249742b4738]: Commencement: [Sch. 4 para. 3(1)-(3)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/3/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-95b026b2e364cd8084702249742b4738]: Commencement: [Sch. 4 para. 3(1)-(3)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/3/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-e365ef4841cdaaac81fb4d9ec593d4ae]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e365ef4841cdaaac81fb4d9ec593d4ae]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-25aa32639164c9b7639d2f5a604ab0ca]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-25aa32639164c9b7639d2f5a604ab0ca]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-96cba1ec464caaf215b33546aea11d3e]: Commencement: Sch. 4 para. 6 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-96cba1ec464caaf215b33546aea11d3e]: Commencement: Sch. 4 para. 6 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-981279f16652cc7290439da6c381cb01]: Textual amendment: Words in Sch. 4 para. 6(1)(a) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-981279f16652cc7290439da6c381cb01]: Textual amendment: Words in Sch. 4 para. 6(1)(a) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-d5528ad1ccd0eacf20fc46d6fa171dfe]: Textual amendment: Sch. 4 para. 6(4)(b)(c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-d5528ad1ccd0eacf20fc46d6fa171dfe]: Textual amendment: Sch. 4 para. 6(4)(b)(c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-a9721f0689ddbcd4b4eb2c30afeb0a20]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/7) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-a9721f0689ddbcd4b4eb2c30afeb0a20]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/7) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-518b12ea9dd9a07e797b4b9152db8aae]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/9) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-518b12ea9dd9a07e797b4b9152db8aae]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/9) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-b0098cdd916159b8d9c9d6c026925386]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/10) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-b0098cdd916159b8d9c9d6c026925386]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/10) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-a617d58c3926f9d144f73b4d1fffdca6]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/11) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-a617d58c3926f9d144f73b4d1fffdca6]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/11) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-dbe8eb25ddfee8263612d98278959e15]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/12) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-dbe8eb25ddfee8263612d98278959e15]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/12) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-84932353c78e9ba1f5d37b7580e5dc54]: Textual amendment: Words in [Sch. 4 para. 12(7)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/12/7/b/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-84932353c78e9ba1f5d37b7580e5dc54]: Textual amendment: Words in [Sch. 4 para. 12(7)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/12/7/b/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-b6aec6cd7d6455c106727004c2b90861]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/13) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-b6aec6cd7d6455c106727004c2b90861]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/13) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-598cac63fab4ad23545d1443b8f3e8c9]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/14) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-598cac63fab4ad23545d1443b8f3e8c9]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/14) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-69aeb053d8e9e9034b2402f902c81e2a]: Textual amendment: Words in [Sch. 4 para. 14(6)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/14/6/b/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-69aeb053d8e9e9034b2402f902c81e2a]: Textual amendment: Words in [Sch. 4 para. 14(6)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/14/6/b/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-8b45029ab2eb7972c645ce997b4f2dcd]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/15) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-8b45029ab2eb7972c645ce997b4f2dcd]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/15) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-b23345bf4f47173cee0dee0e7c81eed5]: Textual amendment: Words in [Sch. 4 para. 15(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/15/5/b/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-b23345bf4f47173cee0dee0e7c81eed5]: Textual amendment: Words in [Sch. 4 para. 15(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/15/5/b/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-9c36530acf144df2b8e65a927ab9d8b7]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/16) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-9c36530acf144df2b8e65a927ab9d8b7]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/16) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-ea92cf1075db2bcd725ef3858af53486]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/17) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-ea92cf1075db2bcd725ef3858af53486]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/17) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-90c4e13838ed46a12f69aaf649e2a1a7]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/18) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-90c4e13838ed46a12f69aaf649e2a1a7]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/18) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-c479cfdc2dbcff1d534e6074de075758]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/19) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-c479cfdc2dbcff1d534e6074de075758]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/19) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-9e45fd3db51d6ea25785d72110552e79]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/20) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-9e45fd3db51d6ea25785d72110552e79]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/20) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-da9ddedcbd4cf40063d026a2b1a279ae]: Textual amendment: Words in [Sch. 4 para. 20(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/20/5/b/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-da9ddedcbd4cf40063d026a2b1a279ae]: Textual amendment: Words in [Sch. 4 para. 20(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/20/5/b/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-d31f05056d4db26b309fa91453a193c4]: Commencement: Sch. 4 para. 21 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-d31f05056d4db26b309fa91453a193c4]: Commencement: Sch. 4 para. 21 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-98bcac167160fa8ae8687929cf42e0d6]: Textual amendment: Words in [Sch. 4 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/21/2/a) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-98bcac167160fa8ae8687929cf42e0d6]: Textual amendment: Words in [Sch. 4 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/21/2/a) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-a6270fc0841d337d1014aa0734e613d5]: Textual amendment: Words in [Sch. 4 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/21/2/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-a6270fc0841d337d1014aa0734e613d5]: Textual amendment: Words in [Sch. 4 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/4/paragraph/21/2/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-bbe7864835caeaf510e0c08b07310d28]: Commencement: Sch. 4 para. 22 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-bbe7864835caeaf510e0c08b07310d28]: Commencement: Sch. 4 para. 22 in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-8305e164dfc1a2bdbae6b03c673f48b1]: Textual amendment: Words in Sch. 4 para. 22 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-8305e164dfc1a2bdbae6b03c673f48b1]: Textual amendment: Words in Sch. 4 para. 22 repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Increase in rates of disability living allowance[^key-0f8fa381b6288b893120a4c28d1dab4e]
+## 12. Increase in rates of disability living allowance[^c-0f8fa381b6288b893120a4c28d1dab4e]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ In regulation 4 of the Social Security (Disability Living Allowance) Regulations
 
 ## Annotations
 
-[^key-0f8fa381b6288b893120a4c28d1dab4e]: Commencement: Art. 12 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
+[^c-0f8fa381b6288b893120a4c28d1dab4e]: Commencement: Art. 12 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
 
 [^f00021]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); relevant amending provisions are [S.R. 1993 No. 340](https://www.legislation.gov.uk/nisr/1993/340) and [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)

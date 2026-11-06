@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Exemption orders: traffic signs[^key-e70fd238cfdcc10750af5dc05c06d9f4]
+## 53. Exemption orders: traffic signs[^c-e70fd238cfdcc10750af5dc05c06d9f4]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e70fd238cfdcc10750af5dc05c06d9f4]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2019/17/section/53) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-e70fd238cfdcc10750af5dc05c06d9f4]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2019/17/section/53) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

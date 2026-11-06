@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Proceedings in an all-Scotland sheriff court[^key-a03d8b942840f6f4109d70ee815ab6d9]
+## 73. Proceedings in an all-Scotland sheriff court[^c-a03d8b942840f6f4109d70ee815ab6d9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a03d8b942840f6f4109d70ee815ab6d9]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/18/section/73) in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(4)](https://www.legislation.gov.uk/ssi/2016/291/article/3/4))
+[^c-a03d8b942840f6f4109d70ee815ab6d9]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/18/section/73) in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(4)](https://www.legislation.gov.uk/ssi/2016/291/article/3/4))

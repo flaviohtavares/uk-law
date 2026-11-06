@@ -34,9 +34,9 @@ summary: ''
 
 (4) In this section—
 
-- “**disabled person's trusts**” means trusts falling within paragraph 3 of Schedule 1C[^key-d8ae9ef81c773aaa99d9e6dab6d42a73] to TCGA 1992 (application of annual exempt amount), and
+- “**disabled person's trusts**” means trusts falling within paragraph 3 of Schedule 1C[^c-d8ae9ef81c773aaa99d9e6dab6d42a73] to TCGA 1992 (application of annual exempt amount), and
 - “**the relevant tax year**” has the meaning given by section 639(4).
 
 ## Annotations
 
-[^key-d8ae9ef81c773aaa99d9e6dab6d42a73]: Textual amendment: Words in [s. 641(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/641/4) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 100](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/100)
+[^c-d8ae9ef81c773aaa99d9e6dab6d42a73]: Textual amendment: Words in [s. 641(4)](https://www.legislation.gov.uk/ukpga/2007/3/section/641/4) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 100](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/100)

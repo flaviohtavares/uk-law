@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Person to whom benefit is to be paid[^key-28dcc54f50b08a2c9236ab87d1eecc66]
+## 78. Person to whom benefit is to be paid[^c-28dcc54f50b08a2c9236ab87d1eecc66]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28dcc54f50b08a2c9236ab87d1eecc66]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/1992/1814/regulation/78) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-28dcc54f50b08a2c9236ab87d1eecc66]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/1992/1814/regulation/78) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

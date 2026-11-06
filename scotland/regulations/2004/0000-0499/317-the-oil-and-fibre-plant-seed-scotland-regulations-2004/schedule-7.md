@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — LIMITS OF VARIATION[^key-748d5966178ebf57522a8ef565fd84ea]
+## SCHEDULE 7 — LIMITS OF VARIATION[^c-748d5966178ebf57522a8ef565fd84ea]
 
 *Extent: S*
 
@@ -84,4 +84,4 @@ Regulation 23(2)
 
 ## Annotations
 
-[^key-748d5966178ebf57522a8ef565fd84ea]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2004/317/schedule/7/part/1) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-748d5966178ebf57522a8ef565fd84ea]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2004/317/schedule/7/part/1) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)

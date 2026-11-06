@@ -30,7 +30,7 @@ Regulation 5
 - **Equality and Diversity**
 - Police officers act with fairness and impartiality. They do not discriminate unlawfully or unfairly.
 - **Use of Force**
-- Police officers only use force when they honestly believe this to be necessary. The force used should be necessary, proportionate and reasonable.[^key-096ccea466b61792283c830b37900ee5]
+- Police officers only use force when they honestly believe this to be necessary. The force used should be necessary, proportionate and reasonable.[^c-096ccea466b61792283c830b37900ee5]
 - **Orders and Instructions**
 - Police officers only give and carry out lawful orders and instructions.
 - Police officers abide by police regulations, force policies and lawful orders.
@@ -51,4 +51,4 @@ Regulation 5
 
 [^M_I_494bfaa3-d9a6-4e6d-ee69-1c6cf0c7ed4a]: Commencement: Sch. 2 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-096ccea466b61792283c830b37900ee5]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2020/4/schedule/2) substituted (30.6.2026) by [The Police (Conduct) (Amendment) Regulations 2026 (S.I. 2026/597)](https://www.legislation.gov.uk/uksi/2026/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/597/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/597/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/597/regulation/3))
+[^c-096ccea466b61792283c830b37900ee5]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2020/4/schedule/2) substituted (30.6.2026) by [The Police (Conduct) (Amendment) Regulations 2026 (S.I. 2026/597)](https://www.legislation.gov.uk/uksi/2026/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/597/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/597/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/597/regulation/3))

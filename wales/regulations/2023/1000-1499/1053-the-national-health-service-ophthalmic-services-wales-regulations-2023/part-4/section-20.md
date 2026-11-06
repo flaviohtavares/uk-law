@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Withdrawal from an ophthalmic list[^key-f2b4c734a7df65de945e591062d9a1fa]
+## 20. Withdrawal from an ophthalmic list[^c-f2b4c734a7df65de945e591062d9a1fa]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2b4c734a7df65de945e591062d9a1fa]: Commencement: Reg. 20 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-f2b4c734a7df65de945e591062d9a1fa]: Commencement: Reg. 20 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

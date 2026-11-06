@@ -48,11 +48,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-15765c0a3ca3b9330d6ddacc93f64a96]
+### 1. Citation and commencement[^c-15765c0a3ca3b9330d6ddacc93f64a96]
 
 These Regulations may be cited as the British Nationality (British Overseas Territories) Regulations 2007 and shall come into force on 3rd December 2007.
 
-### 2. Interpretation[^key-b520404357a6eed23fbaac6ace010f93]
+### 2. Interpretation[^c-b520404357a6eed23fbaac6ace010f93]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the British Nationality (British Overseas Terr
 
 ## PART 2 — Registration and Naturalisation
 
-### 3. Applications[^key-006b9fc58ea95b3c7fdf4e17cf73ad89]
+### 3. Applications[^c-006b9fc58ea95b3c7fdf4e17cf73ad89]
 
 Any application for registration as a British overseas territories citizen or for a certificate of naturalisation as a British overseas territories citizen shall—
 
@@ -72,7 +72,7 @@ Any application for registration as a British overseas territories citizen or fo
 - (b) satisfy the requirements of Part 1 of Schedule 1 and, if made on behalf of a person not of full age or capacity, Part 2 of that Schedule; and
 - (c) satisfy any further requirements specified in relation to that application in Schedule 2.
 
-### 4. Authority to whom application is to be made[^key-999c10a263d85249bfc21fc5243e6244]
+### 4. Authority to whom application is to be made[^c-999c10a263d85249bfc21fc5243e6244]
 
 The authority to whom an application is to be made is— 
 
@@ -82,14 +82,14 @@ The authority to whom an application is to be made is— 
 - (d) if the applicant is in a country mentioned in Schedule 3 to the Act, the High Commissioner or, if there is no High Commissioner, the Secretary of State for the Home Department;
 - (e) if the applicant is elsewhere, any consular officer, any established officer in the Diplomatic Service of Her Majesty’s Government in the United Kingdom or any person authorised by the Secretary of State for that purpose.
 
-### 5. Persons not of full age or capacity[^key-f2c28a6ca224bcb5c52acb2cf3476368]
+### 5. Persons not of full age or capacity[^c-f2c28a6ca224bcb5c52acb2cf3476368]
 
 The following persons may make an application on behalf of someone who is not of full age or capacity—
 
 - (a) the individual’s father or mother;
 - (b) any person who has assumed responsibility for the individual’s welfare.
 
-### 6. Citizenship oaths and pledges[^key-200c15a605ee26b0c0bdb13b64be1d9b]
+### 6. Citizenship oaths and pledges[^c-200c15a605ee26b0c0bdb13b64be1d9b]
 
 (1) This regulation applies where, by virtue of section 42 of the Act (registration and naturalisation: citizenship ceremony, oath and pledge)[^f00004], an applicant for registration or for a certificate of naturalisation is required to make a citizenship oath or pledge.
 
@@ -105,7 +105,7 @@ The following persons may make an application on behalf of someone who is not of
 - (a) where the applicant’s whereabouts are known, by causing the notice to be delivered to him personally or by sending it to him by post;
 - (b) where the applicant’s whereabouts are not known, by sending it by post in a letter addressed to him at his last known address.
 
-### 7. Certificates of naturalisation[^key-9251e9f0a33bfbd107d8b98804fe16c6]
+### 7. Certificates of naturalisation[^c-9251e9f0a33bfbd107d8b98804fe16c6]
 
 A certificate of naturalisation shall include the following information relating to the person to whom the certificate is being granted—
 
@@ -115,14 +115,14 @@ A certificate of naturalisation shall include the following information relating
 
 ## PART 3 — Renunciation and Deprivation
 
-### 8. Declarations of renunciation[^key-b4875dc15b4f0e67e2b48e8ce9235ce6]
+### 8. Declarations of renunciation[^c-b4875dc15b4f0e67e2b48e8ce9235ce6]
 
 Any declaration of renunciation of British overseas territories citizenship shall—
 
 - (a) be made to the appropriate authority specified in regulation 9; and
 - (b) satisfy the requirements of Schedule 4.
 
-### 9. Authority to whom declaration of renunciation is to be made[^key-72f47a45b7cda74542bf678199c89f43]
+### 9. Authority to whom declaration of renunciation is to be made[^c-72f47a45b7cda74542bf678199c89f43]
 
 The authority to whom a declaration of renunciation is to be made is—
 
@@ -134,20 +134,20 @@ The authority to whom a declaration of renunciation is to be made is—
 
 ## PART 4 — Supplemental
 
-### 10. Evidence[^key-d75ca95ba41d6644c88ca54a52c04787]
+### 10. Evidence[^c-d75ca95ba41d6644c88ca54a52c04787]
 
 A document may be certified to be a true copy of a document for the purpose of section 45(2) of the Act (evidence) by means of a statement in writing to that effect signed by a person authorised by the Secretary of State, the Lieutenant-Governor, the High Commissioner or the Governor for that purpose.
 
-### 11. Manner of signifying parental consent to registration[^key-0f504425396b566ff08731062cbfbc0f]
+### 11. Manner of signifying parental consent to registration[^c-0f504425396b566ff08731062cbfbc0f]
 
-(1)[^key-21e9552eb78212d8e504b0293a43c440] Where a parent, in pursuance of section 17(5)(c) of the Act (acquisition by registration: minors)[^f00005], consents to the registration of a person as a British overseas territories citizen under that provision, the consent shall be expressed in writing and signed by the parent.
+(1)[^c-21e9552eb78212d8e504b0293a43c440] Where a parent, in pursuance of section 17(5)(c) of the Act (acquisition by registration: minors)[^f00005], consents to the registration of a person as a British overseas territories citizen under that provision, the consent shall be expressed in writing and signed by the parent.
 
-(2)[^key-96a8da582ce9d7a89911c7dc69dd5432] Any consent required to be signified under section 17D(3) of the Act (consent of a person’s natural father and mother, or either of them) must be—
+(2)[^c-96a8da582ce9d7a89911c7dc69dd5432] Any consent required to be signified under section 17D(3) of the Act (consent of a person’s natural father and mother, or either of them) must be—
 
 - (a) signified in writing, and
 - (b) signed by the person signifying it.
 
-### 12. Revocation[^key-11076625bae58b20c6726f028e6ad63b]
+### 12. Revocation[^c-11076625bae58b20c6726f028e6ad63b]
 
 The following instruments are revoked—
 
@@ -168,13 +168,13 @@ Regulation 3
 
 ### PART 1 — All applications
 
-**1.**[^key-f6cc8c5206e2d6ca58da4ffc211899a6] An application shall be made in writing and shall state the name, address and date and place of birth of the applicant.
+**1.**[^c-f6cc8c5206e2d6ca58da4ffc211899a6] An application shall be made in writing and shall state the name, address and date and place of birth of the applicant.
 
-**2.**[^key-6287fa38a810de3a92b94b0f3e1cf2ea] An application shall contain a declaration that the particulars stated in the application are true.
+**2.**[^c-6287fa38a810de3a92b94b0f3e1cf2ea] An application shall contain a declaration that the particulars stated in the application are true.
 
 ### PART 2 — Applications made by persons not of full age or capacity
 
-**3.**[^key-7a16b83ffbfbd06c0dc65a3076c265df] An application in respect of someone not of full age or capacity made by another person on his behalf shall—
+**3.**[^c-7a16b83ffbfbd06c0dc65a3076c265df] An application in respect of someone not of full age or capacity made by another person on his behalf shall—
 
 - (a) state that the application is made on behalf of a person who is not of full age or capacity;
 - (b) state the name and address of the person who is making the application;
@@ -185,30 +185,30 @@ Regulation 3
 
 Regulation 3
 
-### A1. Interpretation[^key-e81170d5802ed82956cd4feea5e85b1a]
+### A1. Interpretation[^c-e81170d5802ed82956cd4feea5e85b1a]
 
 In this Schedule—
 
 - (a) a reference to a person’s “**natural father**” is to be construed in accordance with section 17G(1) of the Act[^f00015];
 - (b) a reference to a person automatically becoming a citizen of a certain type is to be construed in accordance with section 17G(4) of the Act.
 
-### 1. Application under section 15(3) of the Act[^key-529345db5dc7a980bd0c731147d31643]
+### 1. Application under section 15(3) of the Act[^c-529345db5dc7a980bd0c731147d31643]
 
 The application shall contain information showing—
 
 - (a) that the applicant’s father or mother became a British overseas territories citizen, or became settled in a British overseas territory, after the applicant’s birth; and
 - (b) where the applicant is aged 10 or over, that he is of good character.
 
-### 2. Application under section 15(4) of the Act[^key-7d43510c4e69437f30dd0bf883bd4285]
+### 2. Application under section 15(4) of the Act[^c-7d43510c4e69437f30dd0bf883bd4285]
 
 The application shall contain information showing—
 
 - (a) that the applicant possesses the requisite qualifications in respect of residence; and
 - (b) that he is of good character.
 
-**3.**[^key-7133962d0b73aab9e4252311b5da066e] If the applicant was absent from the British overseas territory in which he was born for more than 90 days in any one of the first 10 years of his life and it is desired that the application should nevertheless be considered under section 15(7) of the Act (acquisition of citizenship by birth or adoption)[^f00010], the application shall specify the special circumstances to be taken into consideration.
+**3.**[^c-7133962d0b73aab9e4252311b5da066e] If the applicant was absent from the British overseas territory in which he was born for more than 90 days in any one of the first 10 years of his life and it is desired that the application should nevertheless be considered under section 15(7) of the Act (acquisition of citizenship by birth or adoption)[^f00010], the application shall specify the special circumstances to be taken into consideration.
 
-### 4. Application under section 17(2) of the Act[^key-5b3828111bd0ad8f5b2a988cc7a55879]
+### 4. Application under section 17(2) of the Act[^c-5b3828111bd0ad8f5b2a988cc7a55879]
 
 The application shall contain information showing—
 
@@ -220,11 +220,11 @@ The application shall contain information showing—
 - (c) either—
   - (i) that the parent in question possesses the requisite qualifications in respect of residence; or
   - (ii) that the applicant was born stateless.
-- (d)[^key-968aa0f24f00c1144e6a90d750ac2ad0] where the applicant is aged 10 or over, that the applicant is of good character.
+- (d)[^c-968aa0f24f00c1144e6a90d750ac2ad0] where the applicant is aged 10 or over, that the applicant is of good character.
 
 **5.**[^M_F_5abe06cb-a116-49e2-86af-d399fb1a7a73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application under section 17(5) of the Act[^key-dc0d5e4ea5b573d3558728c1b1fb50fb]
+### 6. Application under section 17(5) of the Act[^c-dc0d5e4ea5b573d3558728c1b1fb50fb]
 
 The application shall contain information showing—
 
@@ -233,7 +233,7 @@ The application shall contain information showing—
 - (c) that the consent of the applicant’s father and mother (as required by section 17(5)(c) and (6) of the Act (acquisition of citizenship by registration: minors)) has been signified in accordance with regulation 11 and, if the consent of one parent only has been signified, the reason for that fact; and
 - (d) where the applicant is aged 10 or over, that he is of good character.
 
-### 6A. Application under section 17A of the Act[^key-92160c8b9953f4c4841b671d5d1dc387]
+### 6A. Application under section 17A of the Act[^c-92160c8b9953f4c4841b671d5d1dc387]
 
 The application must contain information showing—
 
@@ -313,7 +313,7 @@ The application must specify the information to be considered by the Secretary o
 
 **6P.** In paragraph 6L, “**historical legislative unfairness**” and “**public authority**” have the same meaning as in section 17I of the Act.
 
-### 7. Application under section 18(1) of the Act[^key-d38d844aa3fb1527bcb0b4c0dfbf549f]
+### 7. Application under section 18(1) of the Act[^c-d38d844aa3fb1527bcb0b4c0dfbf549f]
 
 The application shall contain information showing that the applicant—
 
@@ -326,11 +326,11 @@ The application shall contain information showing that the applicant—
 - (b) has the requisite intention with respect to residence or occupation in the event of a certificate of naturalisation being granted to him; and
 - (c) is of full capacity.
 
-**8.**[^key-717b74f50842e67fb19bf0ad7c9f65be] If the applicant does not possess the requisite qualifications in respect of residence, freedom from immigration restrictions, compliance with the immigration laws or knowledge of language and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 1 to the Act (naturalisation as a British overseas territories citizen under section 18(1)), the application shall specify the special circumstances to be taken into consideration.
+**8.**[^c-717b74f50842e67fb19bf0ad7c9f65be] If the applicant does not possess the requisite qualifications in respect of residence, freedom from immigration restrictions, compliance with the immigration laws or knowledge of language and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 1 to the Act (naturalisation as a British overseas territories citizen under section 18(1)), the application shall specify the special circumstances to be taken into consideration.
 
-**9.**[^key-928c98cbeee9e30dafc1220d451ae530] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity)[^f00012], the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+**9.**[^c-928c98cbeee9e30dafc1220d451ae530] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity)[^f00012], the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
 
-### 10. Application under section 18(2) of the Act[^key-81e2bc06b908946a755a3679cbc98a38]
+### 10. Application under section 18(2) of the Act[^c-81e2bc06b908946a755a3679cbc98a38]
 
 The application shall contain information showing that the applicant—
 
@@ -343,13 +343,13 @@ The application shall contain information showing that the applicant—
   - (v) knowledge of language; and
 - (c) is of full capacity.
 
-**11.**[^key-690152c8d626d0f918b3d5384de9cbcf] If the applicant does not possess the requisite qualifications in respect of residence, compliance with the immigration laws or knowledge of language and it is desired that the application should nevertheless be considered under paragraph 8 of Schedule 1 to the Act (naturalisation as a British overseas territories citizen under section 18(2))[^f00013], the application shall specify the special circumstances to be taken into consideration.
+**11.**[^c-690152c8d626d0f918b3d5384de9cbcf] If the applicant does not possess the requisite qualifications in respect of residence, compliance with the immigration laws or knowledge of language and it is desired that the application should nevertheless be considered under paragraph 8 of Schedule 1 to the Act (naturalisation as a British overseas territories citizen under section 18(2))[^f00013], the application shall specify the special circumstances to be taken into consideration.
 
-**12.**[^key-71f6c92fdc2f95bf721afd5524622f1e] If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 8(d) of Schedule 1 to the Act (naturalisation as a British overseas territories citizen under section 18(2)) on the grounds of marriage to, or civil partnership with, a person who is serving in Crown service under the government of a British overseas territory or other designated service, the application shall specify the nature of the service and contain information showing that recruitment for that service took place in a British overseas territory.
+**12.**[^c-71f6c92fdc2f95bf721afd5524622f1e] If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 8(d) of Schedule 1 to the Act (naturalisation as a British overseas territories citizen under section 18(2)) on the grounds of marriage to, or civil partnership with, a person who is serving in Crown service under the government of a British overseas territory or other designated service, the application shall specify the nature of the service and contain information showing that recruitment for that service took place in a British overseas territory.
 
-**13.**[^key-127cf6be8d3be538cc98974217251704] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+**13.**[^c-127cf6be8d3be538cc98974217251704] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
 
-### 14. Application under section 22(1) of the Act[^key-10c92af3922acf2c107f05d415daac85]
+### 14. Application under section 22(1) of the Act[^c-10c92af3922acf2c107f05d415daac85]
 
 The application shall contain information showing—
 
@@ -360,7 +360,7 @@ The application shall contain information showing—
 - (e) that the applicant has not previously been registered under section 22(1) of the Act (right to registration replacing right to resume citizenship of UK and Colonies)[^f00015]; and
 - (f) where the applicant is aged 10 or over, that he is of good character.
 
-### 15. Application under section 22(2) of the Act[^key-0dd23d904581a29f6bff8a0630410a24]
+### 15. Application under section 22(2) of the Act[^c-0dd23d904581a29f6bff8a0630410a24]
 
 The application shall contain information showing—
 
@@ -369,9 +369,9 @@ The application shall contain information showing—
 - (c) where the applicant is aged 10 or over, that he is of good character; and
 - (d) that the applicant is of full capacity.
 
-**16.**[^key-f3b7f53047a8d124d09dcbd73798002f] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+**16.**[^c-f3b7f53047a8d124d09dcbd73798002f] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
 
-### 17. Application under section 13(1) of the Act as applied by section 24 of that Act[^key-db498100257dcf6cc5e73df506005897]
+### 17. Application under section 13(1) of the Act as applied by section 24 of that Act[^c-db498100257dcf6cc5e73df506005897]
 
 The application shall contain information showing—
 
@@ -382,9 +382,9 @@ The application shall contain information showing—
 - (e) where the applicant is aged 10 or over, that he is of good character; and
 - (f) that the applicant is of full capacity.
 
-**18.**[^key-bdef1c2dc72ac00e2597783250e91af0] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+**18.**[^c-bdef1c2dc72ac00e2597783250e91af0] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
 
-### 19. Application under section 13(3) of the Act as applied by section 24 of that Act[^key-282bc3cfbd457de669caf360b2a98ed2]
+### 19. Application under section 13(3) of the Act as applied by section 24 of that Act[^c-282bc3cfbd457de669caf360b2a98ed2]
 
 The application shall contain information showing—
 
@@ -392,18 +392,18 @@ The application shall contain information showing—
 - (b) where the applicant is aged 10 or over, that he is of good character; and
 - (c) that the applicant is of full capacity.
 
-**20.**[^key-de5b9ec3ec53f3bbb19b217a6829ad47] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+**20.**[^c-de5b9ec3ec53f3bbb19b217a6829ad47] If the applicant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the application shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
 
-### 21. Application under paragraph 3 of Schedule 2 to the Act[^key-2339cb8268d158a3aa43d233ba235bd9]
+### 21. Application under paragraph 3 of Schedule 2 to the Act[^c-2339cb8268d158a3aa43d233ba235bd9]
 
 The application shall contain information showing—
 
 - (a) that the applicant is and always has been stateless;
 - (b) that the applicant seeks British overseas territories citizenship and possesses the requisite qualifications in respect of residence.
 
-**22.**[^key-ea87a1478dca22534bedd4573f64253a] If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 2 to the Act, the application shall specify the special circumstances to be taken into consideration.
+**22.**[^c-ea87a1478dca22534bedd4573f64253a] If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 2 to the Act, the application shall specify the special circumstances to be taken into consideration.
 
-### 22A. Application under paragraph 3A of Schedule 2 to the Act[^key-5a39bb91accb4a59a624c86eb7d30c17]
+### 22A. Application under paragraph 3A of Schedule 2 to the Act[^c-5a39bb91accb4a59a624c86eb7d30c17]
 
 The application must contain information showing—
 
@@ -421,7 +421,7 @@ The application must contain information showing—
 
 **22D.** If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 2 to the Act, it must specify the special considerations to be taken into consideration.
 
-### 23. Application under paragraph 4 of Schedule 2 to the Act[^key-309a51d492bb4e347ce7ea1e9e461a56]
+### 23. Application under paragraph 4 of Schedule 2 to the Act[^c-309a51d492bb4e347ce7ea1e9e461a56]
 
 The application shall contain information showing—
 
@@ -429,9 +429,9 @@ The application shall contain information showing—
 - (b) that the father or mother of the applicant was a British overseas territories citizen at the time of the applicant’s birth; and
 - (c) that the applicant seeks British overseas territories citizenship and possesses the requisite qualifications in respect of residence.
 
-**24.**[^key-4b99fa7edcbb4c7f10d662e80663a103] If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 2 to the Act, the application shall specify the special circumstances to be taken into consideration.
+**24.**[^c-4b99fa7edcbb4c7f10d662e80663a103] If the applicant does not possess the requisite qualifications in respect of residence and it is desired that the application should nevertheless be considered under paragraph 6 of Schedule 2 to the Act, the application shall specify the special circumstances to be taken into consideration.
 
-### 25. Application under paragraph 5 of Schedule 2 to the Act[^key-de8f4cf36382aab3cc2adf43145ba183]
+### 25. Application under paragraph 5 of Schedule 2 to the Act[^c-de8f4cf36382aab3cc2adf43145ba183]
 
 The application shall contain information showing—
 
@@ -445,11 +445,11 @@ The application shall contain information showing—
 
 Regulation 6(2)
 
-**1.**[^key-aa9083abef83b9873317096b95dd98be] Subject to paragraph 2, a citizenship oath or pledge shall be administered by one of the following persons—
+**1.**[^c-aa9083abef83b9873317096b95dd98be] Subject to paragraph 2, a citizenship oath or pledge shall be administered by one of the following persons—
 
-- (a) in England and Wales , a registrar[^key-140cd7457643e48249d9b79d707596b1], any justice of the peace, commissioner for oaths or notary public;
-- (b) in Scotland, a registrar,[^key-47bd588abbe6b92d9537830357deaab2] any sheriff principal, sheriff, justice of the peace or notary public;
-- (ba)[^key-aa745780ec86f245c1db971c2e0bcb1d] in Northern Ireland, any justice of the peace, commissioner for oaths, notary public, or a person authorised by the Secretary of State;
+- (a) in England and Wales , a registrar[^c-140cd7457643e48249d9b79d707596b1], any justice of the peace, commissioner for oaths or notary public;
+- (b) in Scotland, a registrar,[^c-47bd588abbe6b92d9537830357deaab2] any sheriff principal, sheriff, justice of the peace or notary public;
+- (ba)[^c-aa745780ec86f245c1db971c2e0bcb1d] in Northern Ireland, any justice of the peace, commissioner for oaths, notary public, or a person authorised by the Secretary of State;
 - (c) in the Channel Islands, the Isle of Man or any British overseas territory—
   - (i) any judge of any court of civil or criminal jurisdiction;
   - (ii) any justice of the peace or magistrate; or
@@ -463,26 +463,26 @@ Regulation 6(2)
   - (ii) any established officer of the Diplomatic Service of Her Majesty’s Government in the United Kingdom; or
   - (iii) any person authorised by the Secretary of State for that purpose.
 
-**2.**[^key-e11e21270583f1d7b0dd684b53851e52] If the deponent is serving in Her Majesty’s naval, military or air forces, the oath or pledge may be administered by any officer holding a commission in any of those forces, whether the oath or pledge is made in the United Kingdom or elsewhere.
+**2.**[^c-e11e21270583f1d7b0dd684b53851e52] If the deponent is serving in Her Majesty’s naval, military or air forces, the oath or pledge may be administered by any officer holding a commission in any of those forces, whether the oath or pledge is made in the United Kingdom or elsewhere.
 
-**3.**[^key-4a64e6bf73eca56040038b924f84765d] In this Schedule, a “**registrar**” means a registrar within the meaning of section 41(3B) of the Act.
+**3.**[^c-4a64e6bf73eca56040038b924f84765d] In this Schedule, a “**registrar**” means a registrar within the meaning of section 41(3B) of the Act.
 
 ## SCHEDULE 4 — Requirements for declaration of renunciation
 
 Regulation 8
 
-**1.**[^key-16e1a28a333fc1b452c4b36ddf374625] A declaration shall be made in writing and shall state the name, address, date and place of birth of the declarant.
+**1.**[^c-16e1a28a333fc1b452c4b36ddf374625] A declaration shall be made in writing and shall state the name, address, date and place of birth of the declarant.
 
-**2.**[^key-a44358dff3469fead55fb48fcb2886f0] A declaration shall contain information showing that the declarant—
+**2.**[^c-a44358dff3469fead55fb48fcb2886f0] A declaration shall contain information showing that the declarant—
 
 - (a) is a British overseas territories citizen;
 - (b) is of full age or, if not, has been married or has been a civil partner;
 - (c) is of full capacity; and
 - (d) will, after the registration of the declaration, have or acquire some citizenship or nationality other than British overseas territories citizenship.
 
-**3.**[^key-48e84a145a33681971c2d63b87c65cae] If the declarant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the declaration shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
+**3.**[^c-48e84a145a33681971c2d63b87c65cae] If the declarant is not of full capacity and it is desired that the requirement of full capacity be waived in accordance with section 44A of the Act (waiver of requirement for full capacity), the declaration shall specify why it would be in the applicant’s best interests for the requirement to be waived in his case.
 
-**4.**[^key-c89e8805d254a51295a23a18c849dfa5] A declaration shall contain a declaration that the particulars stated are true.
+**4.**[^c-c89e8805d254a51295a23a18c849dfa5] A declaration shall contain a declaration that the particulars stated are true.
 
 EXPLANATORY NOTE
 
@@ -494,41 +494,41 @@ These Regulations consolidate with amendments and revoke the British Nationality
 
 [^f00001]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61). Section 41(1) of the 1981 Act has been amended by: sections 1 and 3 of, and paragraphs 3 and 4 of Schedule 1 to, the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41); section 2 of the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8); and [S.I. 1986/948](https://www.legislation.gov.uk/uksi/1986/948). Section 41(1) of the 1981 Act is also amended by section 50(4) of the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13) but that amendment is not yet in force. Section 41(3) of the 1981 Act has been amended by: section 3 of, and paragraphs 3 and 6 of Schedule 1 to, the Nationality, Immigration and Asylum Act 2002; and sections 52 and 61 of, and Schedules 2 and 3 to, the Immigration, Asylum and Nationality Act 2006.
 
-[^key-15765c0a3ca3b9330d6ddacc93f64a96]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-15765c0a3ca3b9330d6ddacc93f64a96]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-b520404357a6eed23fbaac6ace010f93]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/3139/regulation/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-b520404357a6eed23fbaac6ace010f93]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/3139/regulation/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
 [^f00002]: Footnote: Schedule 3 to the 1981 Act has been amended by section 1 of the Brunei and Maldives Act [1985 (c. 3)](https://www.legislation.gov.uk/ukpga/1985/3); [S.I. 1983/882](https://www.legislation.gov.uk/uksi/1983/882); [S.I. 1983/1699](https://www.legislation.gov.uk/uksi/1983/1699); [S.I. 1989/1331](https://www.legislation.gov.uk/uksi/1989/1331); [S.I. 1990/1502](https://www.legislation.gov.uk/uksi/1990/1502); [S.I. 1994/1634](https://www.legislation.gov.uk/uksi/1994/1634); and [S.I. 1998/3161](https://www.legislation.gov.uk/uksi/1998/3161).
 
 [^f00003]: Footnote: Section 43(1) of the 1981 Act has been amended by: sections 1, 2 and 7 of, and Schedule 2 to, the British Overseas Territories Act 2002; and [S.I. 1986/948](https://www.legislation.gov.uk/uksi/1986/948).
 
-[^key-006b9fc58ea95b3c7fdf4e17cf73ad89]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3139/regulation/3) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-006b9fc58ea95b3c7fdf4e17cf73ad89]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3139/regulation/3) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-999c10a263d85249bfc21fc5243e6244]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3139/regulation/4) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-999c10a263d85249bfc21fc5243e6244]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3139/regulation/4) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-f2c28a6ca224bcb5c52acb2cf3476368]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/3139/regulation/5) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-f2c28a6ca224bcb5c52acb2cf3476368]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/3139/regulation/5) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-200c15a605ee26b0c0bdb13b64be1d9b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3139/regulation/6) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-200c15a605ee26b0c0bdb13b64be1d9b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3139/regulation/6) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
 [^f00004]: Footnote: Section 42 of the 1981 Act was substituted by section 3 of, and Schedule 1 to, the Nationality, Immigration and Asylum Act 2002.
 
-[^key-9251e9f0a33bfbd107d8b98804fe16c6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/3139/regulation/7) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-9251e9f0a33bfbd107d8b98804fe16c6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/3139/regulation/7) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-b4875dc15b4f0e67e2b48e8ce9235ce6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/3139/regulation/8) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-b4875dc15b4f0e67e2b48e8ce9235ce6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/3139/regulation/8) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-72f47a45b7cda74542bf678199c89f43]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/3139/regulation/9) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-72f47a45b7cda74542bf678199c89f43]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/3139/regulation/9) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-d75ca95ba41d6644c88ca54a52c04787]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/3139/regulation/10) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-d75ca95ba41d6644c88ca54a52c04787]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/3139/regulation/10) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-0f504425396b566ff08731062cbfbc0f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/3139/regulation/11) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-0f504425396b566ff08731062cbfbc0f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/3139/regulation/11) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-21e9552eb78212d8e504b0293a43c440]: Textual amendment: Reg. 11 renumbered as reg. 11(1) (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/2/a)
+[^c-21e9552eb78212d8e504b0293a43c440]: Textual amendment: Reg. 11 renumbered as reg. 11(1) (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/2/a)
 
 [^f00005]: Footnote: Section 17(5) of the 1981 Act has been amended by sections 1 and 2 of the British Overseas Territories Act 2002.
 
-[^key-96a8da582ce9d7a89911c7dc69dd5432]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2007/3139/regulation/11/2) inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/2/b)
+[^c-96a8da582ce9d7a89911c7dc69dd5432]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2007/3139/regulation/11/2) inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/2/b)
 
-[^key-11076625bae58b20c6726f028e6ad63b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/3139/regulation/12) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-11076625bae58b20c6726f028e6ad63b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/3139/regulation/12) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1982/987](https://www.legislation.gov.uk/uksi/1982/987) which has been amended by: sections 1 and 2 of the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8); [S.I. 2003/539](https://www.legislation.gov.uk/uksi/2003/539); [S.I. 2003/3159](https://www.legislation.gov.uk/uksi/2003/3159); and paragraph 4 of Part 2 of Schedule 13 to [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
 
@@ -538,100 +538,100 @@ These Regulations consolidate with amendments and revoke the British Nationality
 
 [^f00009]: Footnote: [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
 
-[^key-f6cc8c5206e2d6ca58da4ffc211899a6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/1/paragraph/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-f6cc8c5206e2d6ca58da4ffc211899a6]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/1/paragraph/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-6287fa38a810de3a92b94b0f3e1cf2ea]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/3139/schedule/1/paragraph/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-6287fa38a810de3a92b94b0f3e1cf2ea]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/3139/schedule/1/paragraph/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-7a16b83ffbfbd06c0dc65a3076c265df]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2007/3139/schedule/1/paragraph/3) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-7a16b83ffbfbd06c0dc65a3076c265df]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2007/3139/schedule/1/paragraph/3) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-e81170d5802ed82956cd4feea5e85b1a]: Textual amendment: [Sch. 2 para. A1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/A1) inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/3/a)
+[^c-e81170d5802ed82956cd4feea5e85b1a]: Textual amendment: [Sch. 2 para. A1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/A1) inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/3/a)
 
 [^f00015]: Footnote: Section 22(1) of the 1981 Act has been amended by: sections 1 and 2 of the British Overseas Territories Act 2002; and sections 5 and 161 of, and Schedule 9 to, the Nationality, Immigration and Asylum Act 2002.
 
-[^key-529345db5dc7a980bd0c731147d31643]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-529345db5dc7a980bd0c731147d31643]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-7d43510c4e69437f30dd0bf883bd4285]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-7d43510c4e69437f30dd0bf883bd4285]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-7133962d0b73aab9e4252311b5da066e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/3) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-7133962d0b73aab9e4252311b5da066e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/3) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
 [^f00010]: Footnote: Section 15(7) of the 1981 Act has been amended by section 1 of the British Overseas Territories Act 2002.
 
-[^key-5b3828111bd0ad8f5b2a988cc7a55879]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/4) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-5b3828111bd0ad8f5b2a988cc7a55879]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/4) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-968aa0f24f00c1144e6a90d750ac2ad0]: Textual amendment: [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/4/d) inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/3/b)
+[^c-968aa0f24f00c1144e6a90d750ac2ad0]: Textual amendment: [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/4/d) inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/3/b)
 
 [^M_F_5abe06cb-a116-49e2-86af-d399fb1a7a73]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/4/d) omitted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(3)(c)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/3/c)
 
-[^key-dc0d5e4ea5b573d3558728c1b1fb50fb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/6) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-dc0d5e4ea5b573d3558728c1b1fb50fb]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/6) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
 [^f00011]: Footnote: Section 17(5) and (6) of the 1981 Act has been amended by: sections 1 and 2 of the British Overseas Territories Act 2002; sections 9 and 161 of, and Schedule 9 to, the Nationality, Immigration and Asylum Act 2002; and section 261 of, and paragraph 75 of Schedule 27 to, the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-92160c8b9953f4c4841b671d5d1dc387]: Textual amendment: [Sch. 2 paras. 6A-6P](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/6A) inserted (28.6.2022 except for the insertion of Sch. 2 para. 6K, 23.11.2022 in so far as not already in force) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)(3)(a)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2/3/a), [3(3)(d)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/3/d); [S.I. 2022/1056](https://www.legislation.gov.uk/uksi/2022/1056), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1056/regulation/2/a)
+[^c-92160c8b9953f4c4841b671d5d1dc387]: Textual amendment: [Sch. 2 paras. 6A-6P](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/6A) inserted (28.6.2022 except for the insertion of Sch. 2 para. 6K, 23.11.2022 in so far as not already in force) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)(3)(a)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2/3/a), [3(3)(d)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/3/d); [S.I. 2022/1056](https://www.legislation.gov.uk/uksi/2022/1056), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1056/regulation/2/a)
 
 [^f00016]: Footnote: Section 24 of the 1981 Act has been amended by section 2 of the British Overseas Territories Act 2002.
 
-[^key-d38d844aa3fb1527bcb0b4c0dfbf549f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/7) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-d38d844aa3fb1527bcb0b4c0dfbf549f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/7) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-717b74f50842e67fb19bf0ad7c9f65be]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/8) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-717b74f50842e67fb19bf0ad7c9f65be]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/8) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-928c98cbeee9e30dafc1220d451ae530]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/9) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-928c98cbeee9e30dafc1220d451ae530]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/9) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
 [^f00012]: Footnote: Section 44A of the 1981 Act was inserted by section 49 of the Immigration, Asylum and Nationality Act 2006.
 
-[^key-81e2bc06b908946a755a3679cbc98a38]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/10) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-81e2bc06b908946a755a3679cbc98a38]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/10) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-690152c8d626d0f918b3d5384de9cbcf]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/11) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-690152c8d626d0f918b3d5384de9cbcf]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/11) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
 [^f00013]: Footnote: Paragraph 8 of Schedule 1 to the 1981 Act has been amended by: section 1 of the British Overseas Territories Act 2002; sections 2 and 161 of, and Schedule 9 to, the Nationality, Immigration and Asylum Act 2002; and section 261 of, and paragraph 78 of Schedule 27 to, the Civil Partnership Act 2004.
 
-[^key-71f6c92fdc2f95bf721afd5524622f1e]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/12) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-71f6c92fdc2f95bf721afd5524622f1e]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/12) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-127cf6be8d3be538cc98974217251704]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/13) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-127cf6be8d3be538cc98974217251704]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/13) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-10c92af3922acf2c107f05d415daac85]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/14) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-10c92af3922acf2c107f05d415daac85]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/14) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
 [^f00014]: Footnote: [1948 c. 56](https://www.legislation.gov.uk/ukpga/1948/56). Section 1 of the British Nationality Act 1948 was repealed by section 52(8) of, and Schedule 9 to, the 1981 Act.
 
-[^key-0dd23d904581a29f6bff8a0630410a24]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/15) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-0dd23d904581a29f6bff8a0630410a24]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/15) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-f3b7f53047a8d124d09dcbd73798002f]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/16) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-f3b7f53047a8d124d09dcbd73798002f]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/16) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-db498100257dcf6cc5e73df506005897]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/17) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-db498100257dcf6cc5e73df506005897]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/17) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-bdef1c2dc72ac00e2597783250e91af0]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/18) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-bdef1c2dc72ac00e2597783250e91af0]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/18) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-282bc3cfbd457de669caf360b2a98ed2]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/19) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-282bc3cfbd457de669caf360b2a98ed2]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/19) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-de5b9ec3ec53f3bbb19b217a6829ad47]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/20) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-de5b9ec3ec53f3bbb19b217a6829ad47]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/20) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-2339cb8268d158a3aa43d233ba235bd9]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/21) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-2339cb8268d158a3aa43d233ba235bd9]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/21) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-ea87a1478dca22534bedd4573f64253a]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/22) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-ea87a1478dca22534bedd4573f64253a]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/22) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-5a39bb91accb4a59a624c86eb7d30c17]: Textual amendment: [Sch. 2 paras. 22A-22D](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/22A) and cross-heading inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(3)(e)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/3/e)
+[^c-5a39bb91accb4a59a624c86eb7d30c17]: Textual amendment: [Sch. 2 paras. 22A-22D](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/22A) and cross-heading inserted (28.6.2022) by [The British Nationality (General, British Overseas Territories and Fees) (Amendment) Regulations 2022 (S.I. 2022/602)](https://www.legislation.gov.uk/uksi/2022/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/602/regulation/1/2), [3(3)(e)](https://www.legislation.gov.uk/uksi/2022/602/regulation/3/3/e)
 
-[^key-309a51d492bb4e347ce7ea1e9e461a56]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/23) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-309a51d492bb4e347ce7ea1e9e461a56]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/23) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-4b99fa7edcbb4c7f10d662e80663a103]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/24) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-4b99fa7edcbb4c7f10d662e80663a103]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/24) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-de8f4cf36382aab3cc2adf43145ba183]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/25) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-de8f4cf36382aab3cc2adf43145ba183]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2007/3139/schedule/2/paragraph/25) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-aa9083abef83b9873317096b95dd98be]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-aa9083abef83b9873317096b95dd98be]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-140cd7457643e48249d9b79d707596b1]: Textual amendment: Words in [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/1/a) substituted (8.11.2023) by [The British Nationality (British Overseas Territories) (Amendment) Regulations 2023 (S.I. 2023/1104)](https://www.legislation.gov.uk/uksi/2023/1104), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/2/2)
+[^c-140cd7457643e48249d9b79d707596b1]: Textual amendment: Words in [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/1/a) substituted (8.11.2023) by [The British Nationality (British Overseas Territories) (Amendment) Regulations 2023 (S.I. 2023/1104)](https://www.legislation.gov.uk/uksi/2023/1104), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/2/2)
 
-[^key-47bd588abbe6b92d9537830357deaab2]: Textual amendment: Words in [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/1/b) inserted (8.11.2023) by [The British Nationality (British Overseas Territories) (Amendment) Regulations 2023 (S.I. 2023/1104)](https://www.legislation.gov.uk/uksi/2023/1104), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/2/3)
+[^c-47bd588abbe6b92d9537830357deaab2]: Textual amendment: Words in [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/1/b) inserted (8.11.2023) by [The British Nationality (British Overseas Territories) (Amendment) Regulations 2023 (S.I. 2023/1104)](https://www.legislation.gov.uk/uksi/2023/1104), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/2/3)
 
-[^key-aa745780ec86f245c1db971c2e0bcb1d]: Textual amendment: [Sch. 3 para. 1(ba)](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/1/ba) inserted (8.11.2023) by [The British Nationality (British Overseas Territories) (Amendment) Regulations 2023 (S.I. 2023/1104)](https://www.legislation.gov.uk/uksi/2023/1104), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/2/4)
+[^c-aa745780ec86f245c1db971c2e0bcb1d]: Textual amendment: [Sch. 3 para. 1(ba)](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/1/ba) inserted (8.11.2023) by [The British Nationality (British Overseas Territories) (Amendment) Regulations 2023 (S.I. 2023/1104)](https://www.legislation.gov.uk/uksi/2023/1104), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/2/4)
 
-[^key-e11e21270583f1d7b0dd684b53851e52]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-e11e21270583f1d7b0dd684b53851e52]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-4a64e6bf73eca56040038b924f84765d]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/3) inserted (8.11.2023) by [The British Nationality (British Overseas Territories) (Amendment) Regulations 2023 (S.I. 2023/1104)](https://www.legislation.gov.uk/uksi/2023/1104), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/2/5)
+[^c-4a64e6bf73eca56040038b924f84765d]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2007/3139/schedule/3/paragraph/3) inserted (8.11.2023) by [The British Nationality (British Overseas Territories) (Amendment) Regulations 2023 (S.I. 2023/1104)](https://www.legislation.gov.uk/uksi/2023/1104), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2023/1104/regulation/2/5)
 
-[^key-16e1a28a333fc1b452c4b36ddf374625]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/4/paragraph/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-16e1a28a333fc1b452c4b36ddf374625]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2007/3139/schedule/4/paragraph/1) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-a44358dff3469fead55fb48fcb2886f0]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2007/3139/schedule/4/paragraph/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-a44358dff3469fead55fb48fcb2886f0]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2007/3139/schedule/4/paragraph/2) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-48e84a145a33681971c2d63b87c65cae]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2007/3139/schedule/4/paragraph/3) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-48e84a145a33681971c2d63b87c65cae]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2007/3139/schedule/4/paragraph/3) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
 
-[^key-c89e8805d254a51295a23a18c849dfa5]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2007/3139/schedule/4/paragraph/4) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)
+[^c-c89e8805d254a51295a23a18c849dfa5]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2007/3139/schedule/4/paragraph/4) in force at 3.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3139/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Application to agricultural tenants etc.[^key-3cb7e2908a5afc82f1dc1824ded6370d]
+## 93. Application to agricultural tenants etc.[^c-3cb7e2908a5afc82f1dc1824ded6370d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cb7e2908a5afc82f1dc1824ded6370d]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2006/1/section/93) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-3cb7e2908a5afc82f1dc1824ded6370d]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2006/1/section/93) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -37,88 +37,88 @@ implementing Directive 2005/32/EC of the European Parliament and of the Council 
 
 (Text with EEA relevance) (revoked)
 
-[^key-506549d08f3901bc4163c72d17526037]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-506549d08f3901bc4163c72d17526037]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-506549d08f3901bc4163c72d17526037]
+## Article 1. Subject matter and scope[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-506549d08f3901bc4163c72d17526037]
+## Article 2. Definitions[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Ecodesign requirements[^key-506549d08f3901bc4163c72d17526037]
+## Article 3. Ecodesign requirements[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Conformity assessment[^key-506549d08f3901bc4163c72d17526037]
+## Article 4. Conformity assessment[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Verification procedure for market surveillance purposes[^key-506549d08f3901bc4163c72d17526037]
+## Article 5. Verification procedure for market surveillance purposes[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Indicative benchmarks[^key-506549d08f3901bc4163c72d17526037]
+## Article 6. Indicative benchmarks[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Revision[^key-506549d08f3901bc4163c72d17526037]
+## Article 7. Revision[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-506549d08f3901bc4163c72d17526037]
+## Article 8. Entry into force[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-506549d08f3901bc4163c72d17526037]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-506549d08f3901bc4163c72d17526037]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Technical parameters covered and definitions for the purposes of Annexes II to IV[^key-506549d08f3901bc4163c72d17526037]
+## ANNEX I — Technical parameters covered and definitions for the purposes of Annexes II to IV[^c-506549d08f3901bc4163c72d17526037]
 
-[^key-506549d08f3901bc4163c72d17526037]1.
+[^c-506549d08f3901bc4163c72d17526037]1.
 
 TECHNICAL PARAMETERS FOR ECODESIGN REQUIREMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-506549d08f3901bc4163c72d17526037]2.
+[^c-506549d08f3901bc4163c72d17526037]2.
 
 DEFINITIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Ecodesign requirements for non-directional household lamps[^key-506549d08f3901bc4163c72d17526037]
+## ANNEX II — Ecodesign requirements for non-directional household lamps[^c-506549d08f3901bc4163c72d17526037]
 
-[^key-506549d08f3901bc4163c72d17526037]1.
+[^c-506549d08f3901bc4163c72d17526037]1.
 
 LAMP EFFICACY REQUIREMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-506549d08f3901bc4163c72d17526037]2.
+[^c-506549d08f3901bc4163c72d17526037]2.
 
 LAMP FUNCTIONALITY REQUIREMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-506549d08f3901bc4163c72d17526037]3.
+[^c-506549d08f3901bc4163c72d17526037]3.
 
 PRODUCT INFORMATION REQUIREMENTS ON LAMPS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Verification procedure for market surveillance purposes[^key-506549d08f3901bc4163c72d17526037]
+## ANNEX III — Verification procedure for market surveillance purposes[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Indicative benchmarks for non-directional household lamps — (for information)[^key-506549d08f3901bc4163c72d17526037]
+## ANNEX IV — Indicative benchmarks for non-directional household lamps — (for information)[^c-506549d08f3901bc4163c72d17526037]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-506549d08f3901bc4163c72d17526037]: Textual amendment: Regulation revoked (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Lighting Products) Regulations 2021 (S.I. 2021/1095)](https://www.legislation.gov.uk/uksi/2021/1095), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/19/a) (with [reg. 22(1)(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/22/1/2))
+[^c-506549d08f3901bc4163c72d17526037]: Textual amendment: Regulation revoked (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Lighting Products) Regulations 2021 (S.I. 2021/1095)](https://www.legislation.gov.uk/uksi/2021/1095), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/19/a) (with [reg. 22(1)(2)](https://www.legislation.gov.uk/uksi/2021/1095/regulation/22/1/2))

@@ -82,7 +82,7 @@ In accordance with Article 9 of Regulation [(EC) No 178/2002](https://www.legisl
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-bd24abf96e5590d2de7688f241c6fa3d]
+### 1. Citation, commencement and extent[^c-bd24abf96e5590d2de7688f241c6fa3d]
 
 (1) These Regulations may be cited as the Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 and come into force on 28 February 2019.
 
@@ -90,17 +90,17 @@ In accordance with Article 9 of Regulation [(EC) No 178/2002](https://www.legisl
 
 ## PART 2 — Amendments to legislation concerning environmental protection
 
-### 2. The Air Quality Standards (Scotland) Regulations 2010[^key-b3af0a677ab5e86d57feb1418ecb3be7]
+### 2. The Air Quality Standards (Scotland) Regulations 2010[^c-b3af0a677ab5e86d57feb1418ecb3be7]
 
 In regulation 18(4) (duties in relation to target values) of the Air Quality Standards (Scotland) Regulations 2010[^f00004], for “[Directive 2008/1/EC](https://www.legislation.gov.uk/european/directive/2008/0001) of the European Parliament and of the Council concerning integrated pollution prevention and control” substitute “the Pollution Prevention and Control (Scotland) Regulations 2012[^f00005]”.
 
-### 3. The Pollution Prevention and Control (Scotland) Regulations 2012[^key-7c4c8df91a0384db03742c8d354088f5]
+### 3. The Pollution Prevention and Control (Scotland) Regulations 2012[^c-7c4c8df91a0384db03742c8d354088f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendments to legislation concerning flood risk management
 
-### 4. Flood Risk Management (Scotland) Act 2009[^key-55426ff4a238062f2da5411957f2c0b4]
+### 4. Flood Risk Management (Scotland) Act 2009[^c-55426ff4a238062f2da5411957f2c0b4]
 
 (1) The Flood Risk Management (Scotland) Act 2009[^f00013] is amended as follows.
 
@@ -124,7 +124,7 @@ In regulation 18(4) (duties in relation to target values) of the Air Quality Sta
 
 ## PART 4 — Amendments to legislation concerning the water environment
 
-### 5. The Water Environment (Register of Protected Areas) (Scotland) Regulations 2004[^key-6b44d78e7d7312718ebac2fb3a750f8d]
+### 5. The Water Environment (Register of Protected Areas) (Scotland) Regulations 2004[^c-6b44d78e7d7312718ebac2fb3a750f8d]
 
 (1) Part I of the schedule (register) of the Water Environment (Register of Protected Areas) (Scotland) Regulations 2004[^f00019] is amended as follows.
 
@@ -146,7 +146,7 @@ In regulation 18(4) (duties in relation to target values) of the Air Quality Sta
 
 ## PART 5 — Amendments to legislation concerning the water industry
 
-### 6. The Trade Effluent (Asbestos) (Scotland) Regulations 1993[^key-dcb600e27add64a97bec9ca2358c2103]
+### 6. The Trade Effluent (Asbestos) (Scotland) Regulations 1993[^c-dcb600e27add64a97bec9ca2358c2103]
 
 (1) The Trade Effluent (Asbestos) (Scotland) Regulations 1993[^f00027] are amended as follows.
 
@@ -175,7 +175,7 @@ In regulation 18(4) (duties in relation to target values) of the Air Quality Sta
 - (b) in paragraph (2)(b), for “the authority” substitute “Scottish Water”, and
 - (c) in paragraph (3), for “the authority declared to be in default by such an order fails to comply with any requirements thereof within the time specified therein for compliance,” substitute “Scottish Water fails to comply with an order under paragraph (1),”.
 
-### 7. The Urban Waste Water Treatment (Scotland) Regulations 1994[^key-fd8bced538716c28a5949aa5e5a7ff4e]
+### 7. The Urban Waste Water Treatment (Scotland) Regulations 1994[^c-fd8bced538716c28a5949aa5e5a7ff4e]
 
 (1) The Urban Waste Water Treatment (Scotland) Regulations 1994[^f00030] are amended as follows.
 
@@ -212,11 +212,11 @@ In regulation 18(4) (duties in relation to target values) of the Air Quality Sta
 
 ## PART 6 — Amendments to legislation concerning waste
 
-### 8. The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991[^key-338f93db3a642e6198bb3c2a67f39d85]
+### 8. The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991[^c-338f93db3a642e6198bb3c2a67f39d85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. The Controlled Waste Regulations 1992[^key-eb8f967bf1b6832ae5f3f22324fb38c4]
+### 9. The Controlled Waste Regulations 1992[^c-eb8f967bf1b6832ae5f3f22324fb38c4]
 
 (1) The Controlled Waste Regulations 1992[^f00037] are amended as follows.
 
@@ -232,7 +232,7 @@ In regulation 18(4) (duties in relation to target values) of the Air Quality Sta
 
   .
 
-### 10. The Special Waste Regulations 1996[^key-c0adfdc967a62c12d90fd188dab1b079]
+### 10. The Special Waste Regulations 1996[^c-c0adfdc967a62c12d90fd188dab1b079]
 
 (1) The Special Waste Regulations 1996[^f00040] are amended as follows.
 
@@ -262,7 +262,7 @@ In regulation 18(4) (duties in relation to target values) of the Air Quality Sta
 
 (6) In regulation 19A (mutual recognition of consignment notes)[^f00047], for the words “form set out in the Annex” to “European Community” substitute “notification document for transboundary movements/shipments of waste set out in Annex 1A, and the movement document for transboundary movements/shipments of waste set out in Annex 1B, to Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council on shipments of waste, as last amended by Commission Regulation 2015/2002”.
 
-### 11. The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000[^key-2fdeb8ee68719bf67e77b803172f5f67]
+### 11. The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000[^c-2fdeb8ee68719bf67e77b803172f5f67]
 
 (1) The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Regulations 2000[^f00048] are amended as follows.
 
@@ -271,15 +271,15 @@ In regulation 18(4) (duties in relation to target values) of the Air Quality Sta
 - (a) in the definition of “disposal” for “as amended” substitute “as last amended by Council Regulation (EU) 2017/997”, and
 - (b) in the definition of “used PCBs” at the end insert “, as last amended by Council Regulation (EU) 2017/997”.
 
-### 12. The Landfill (Scotland) Regulations 2003[^key-8706b70809bf0a6b2421cd920348d919]
+### 12. The Landfill (Scotland) Regulations 2003[^c-8706b70809bf0a6b2421cd920348d919]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. The End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^key-9e1ab9a419462ecfe40cd3855eafe9fc]
+### 13. The End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^c-9e1ab9a419462ecfe40cd3855eafe9fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. The National Waste Management Plan for Scotland Regulations 2007[^key-921f5d51e16113bb2cee30eac8e60e31]
+### 14. The National Waste Management Plan for Scotland Regulations 2007[^c-921f5d51e16113bb2cee30eac8e60e31]
 
 (1) The National Waste Management Plan for Scotland Regulations 2007[^f00063] are amended as follows.
 
@@ -287,7 +287,7 @@ In regulation 18(4) (duties in relation to target values) of the Air Quality Sta
 
 (3) In regulation 2A(a) (interpretation: the Waste Directive)[^f00065], for the words “as last amended” to the end substitute “as last amended by Council Regulation (EU) 2017/997, and”.
 
-### 15. The Waste Batteries (Scotland) Regulations 2009[^key-2d4f2bdb04c49b38e1f3c18b178bb634]
+### 15. The Waste Batteries (Scotland) Regulations 2009[^c-2d4f2bdb04c49b38e1f3c18b178bb634]
 
 (1) The Waste Batteries (Scotland) Regulations 2009[^f00066] are amended as follows.
 
@@ -296,13 +296,13 @@ In regulation 18(4) (duties in relation to target values) of the Air Quality Sta
 - (a) in the definition of “Batteries Directive” at the end insert “, as last amended by [Directive 2013/56/EU](https://www.legislation.gov.uk/european/directive/2013/0056) of the European Parliament and of the Council”, and
 - (b) in the definition of “waste battery” at the end insert “, as last amended by Council Regulation (EU) 2017/997”.
 
-### 16. The Waste Management Licensing (Scotland) Regulations 2011[^key-48e53293d68d9c68d26e6e53d5ed8652]
+### 16. The Waste Management Licensing (Scotland) Regulations 2011[^c-48e53293d68d9c68d26e6e53d5ed8652]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 7 — Amendments to legislation concerning agriculture
 
-### 17. The Marketing of Vegetable Plant Material Regulations 1995[^key-5f555fdef81fdfd2722a16eedbd1942c]
+### 17. The Marketing of Vegetable Plant Material Regulations 1995[^c-5f555fdef81fdfd2722a16eedbd1942c]
 
 In regulation 8 (information to accompany plant material) of the Marketing of Vegetable Plant Material Regulations 1995[^f00077]—
 
@@ -313,15 +313,15 @@ In regulation 8 (information to accompany plant material) of the Marketing of Ve
 
   .
 
-### 18. The Crofting Counties Agricultural Grants (Scotland) Scheme 2006[^key-d6f90b5cfed7ca0ea23018fcb4be2e74]
+### 18. The Crofting Counties Agricultural Grants (Scotland) Scheme 2006[^c-d6f90b5cfed7ca0ea23018fcb4be2e74]
 
 In paragraph 2(1) (interpretation) of the Crofting Counties Agricultural Grants (Scotland) Scheme 2006[^f00080] omit the definition of “Commission Delegated Regulation 640/2014”.
 
-### 19. The EC Fertilisers (Scotland) Regulations 2006[^key-67d16f6c4e13524935ea22fb736b803d]
+### 19. The EC Fertilisers (Scotland) Regulations 2006[^c-67d16f6c4e13524935ea22fb736b803d]
 
 In regulation 2(1) (interpretation) of the EC Fertilisers (Scotland) Regulations 2006[^f00081], in the definition of “the Community Regulation”, after “fertilisers” insert “, as last amended by Commission Regulation (EU) 2016/1618[^f00082]”.
 
-### 20. The Marketing of Horticultural Produce (Scotland) Regulations 2009[^key-462795a4659917908b2ed50569999032]
+### 20. The Marketing of Horticultural Produce (Scotland) Regulations 2009[^c-462795a4659917908b2ed50569999032]
 
 (1) The Marketing of Horticultural Produce (Scotland) Regulations 2009[^f00083] are amended as follows.
 
@@ -333,11 +333,11 @@ In regulation 2(1) (interpretation) of the EC Fertilisers (Scotland) Regulations
 
 (3) In regulation 10(3) (authorised officer: powers to control the movement of horticultural produce)[^f00086], for “operator” substitute “person on whom the notice is served”.
 
-### 21. The Less Favoured Area Support Scheme (Scotland) Regulations 2010[^key-8257fc170e882830f350db7864d44573]
+### 21. The Less Favoured Area Support Scheme (Scotland) Regulations 2010[^c-8257fc170e882830f350db7864d44573]
 
 In regulation 1(3) (citation, commencement, extent and application) of the Less Favoured Area Support Scheme (Scotland) Regulations 2010[^f00087], after “2009” insert “or the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^f00088]”.
 
-### 22. The Seed Potatoes (Scotland) Regulations 2015[^key-a77b641ae69c209427769112e3f277d7]
+### 22. The Seed Potatoes (Scotland) Regulations 2015[^c-a77b641ae69c209427769112e3f277d7]
 
 (1) The Seed Potatoes (Scotland) Regulations 2015[^f00089] are amended as follows.
 
@@ -351,7 +351,7 @@ In regulation 1(3) (citation, commencement, extent and application) of the Less 
 
 ## PART 8 — Amendments to legislation concerning animal health
 
-### 23. The Diseases of Poultry (Scotland) Order 2003[^key-5ab98f211e5e2b5d2a1f24babba8e507]
+### 23. The Diseases of Poultry (Scotland) Order 2003[^c-5ab98f211e5e2b5d2a1f24babba8e507]
 
 (1) The Diseases of Poultry (Scotland) Order 2003[^f00091] is amended as follows.
 
@@ -373,7 +373,7 @@ In regulation 1(3) (citation, commencement, extent and application) of the Less 
 - (a) in paragraph 6 (restriction on removal of eggs), for “article 4.2(e) of and Annex I to Council [Directive 92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040)” substitute “Article 7(2)(f) of, and Annex III to, Council [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094)”, and
 - (b) in paragraph 11 (disinfection and restocking), for “Annex II of Council [Directive 92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040)” substitute “Annex VI to Council [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094)”.
 
-### 24. The Avian Influenza (Preventive Measures in Zoos) (Scotland) Regulations 2005[^key-6b84ccbd8b9fba53d3594ad41ed43b33]
+### 24. The Avian Influenza (Preventive Measures in Zoos) (Scotland) Regulations 2005[^c-6b84ccbd8b9fba53d3594ad41ed43b33]
 
 (1) The Avian Influenza (Preventive Measures in Zoos) (Scotland) Regulations 2005[^f00097] are amended as follows.
 
@@ -385,7 +385,7 @@ In regulation 1(3) (citation, commencement, extent and application) of the Less 
 
 (3) Omit regulation 4(6) (risk assessment and imposition of restrictions).
 
-### 25. The Foot-and-Mouth Disease (Scotland) Order 2006[^key-890807ba5d91c4c6bc2d21ee4dbd99a4]
+### 25. The Foot-and-Mouth Disease (Scotland) Order 2006[^c-890807ba5d91c4c6bc2d21ee4dbd99a4]
 
 (1) The Foot-and-Mouth Disease (Scotland) Order 2006[^f00099] is amended as follows.
 
@@ -408,7 +408,7 @@ In regulation 1(3) (citation, commencement, extent and application) of the Less 
 
 .
 
-### 26. The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006[^key-50b05757ffdffd191fbcfde751f0dbe7]
+### 26. The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006[^c-50b05757ffdffd191fbcfde751f0dbe7]
 
 (1) The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006[^f00106] are amended as follows.
 
@@ -444,7 +444,7 @@ In regulation 1(3) (citation, commencement, extent and application) of the Less 
 
 (8) In paragraph 13(2)(a)(i) (collection, transport and processing of milk produced in a vaccination zone) of the schedule (measures applicable in respect of a vaccination zone), for “the Specified Animal Pathogens Order 1998” substitute “the Specified Animal Pathogens (Scotland) Order 2009”.
 
-### 27. The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006[^key-ac42f3470d88cdcac606a5cb28cac335]
+### 27. The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006[^c-ac42f3470d88cdcac606a5cb28cac335]
 
 (1) The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Order 2006[^f00114] is amended as follows.
 
@@ -464,7 +464,7 @@ In regulation 1(3) (citation, commencement, extent and application) of the Less 
 - (b) in sub-paragraph (b), for “the Veterinary Medicines Regulations 2005” substitute “the Veterinary Medicines Regulations 2013”, and
 - (c) in sub-paragraph (d), for “the Specified Animal Pathogens Order 1998” substitute “the Specified Animal Pathogens (Scotland) Order 2009”.
 
-### 28. The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006[^key-6d5cf3207acece35d7a59f9e6b4c943f]
+### 28. The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006[^c-6d5cf3207acece35d7a59f9e6b4c943f]
 
 (1) The Avian Influenza (Slaughter and Vaccination) (Scotland) Regulations 2006[^f00118] are amended as follows.
 
@@ -484,7 +484,7 @@ In regulation 1(3) (citation, commencement, extent and application) of the Less 
 - (a) in sub-paragraph (a), for “the Specified Animal Pathogens Order 1998” substitute “the Specified Animal Pathogens (Scotland) Order 2009”, and
 - (b) in sub-paragraph (b), for “the Veterinary Medicines Regulations 2005” substitute “the Veterinary Medicines Regulations 2013”.
 
-### 29. The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007[^key-1432531d43f9bac0ea44edcfbf0f6c72]
+### 29. The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007[^c-1432531d43f9bac0ea44edcfbf0f6c72]
 
 (1) The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007[^f00124] is amended as follows.
 
@@ -498,7 +498,7 @@ In regulation 1(3) (citation, commencement, extent and application) of the Less 
 
 (4) In paragraph 9(2)(a) (restriction on the movement of controlled meat out of a wild bird control area) of schedule 1 (measures applicable in respect of a wild bird control), at the end insert “, as last amended by Commission Implementing Regulation (EU) 2018/981[^f00126]”.
 
-### 30. The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007[^key-9fb1f5e15fe2b6627d11dcfe817cbf19]
+### 30. The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007[^c-9fb1f5e15fe2b6627d11dcfe817cbf19]
 
 (1) The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007[^f00127] is amended as follows.
 
@@ -522,11 +522,11 @@ In regulation 1(3) (citation, commencement, extent and application) of the Less 
 
 (5) In article 17(1)(a) (cleansing and disinfection), for “the Diseases of Animals (Approved Disinfectants) Order 1978” substitute “the Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008”.
 
-### 31. The Cattle Identification (Scotland) Regulations 2007[^key-87b62128eb47059182fb41f6061ba60a]
+### 31. The Cattle Identification (Scotland) Regulations 2007[^c-87b62128eb47059182fb41f6061ba60a]
 
 In regulation 2(1) (interpretation) of the Cattle Identification (Scotland) Regulations 2007[^f00130], in the definition “[Commission Regulation (EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911)”, at the end insert “, as last amended by Commission Implementing Regulation (EU) 2017/949[^f00131]”.
 
-### 32. The Zoonoses (Monitoring) (Scotland) Regulations 2007[^key-b0773db642d4db032036d8c2207bf908]
+### 32. The Zoonoses (Monitoring) (Scotland) Regulations 2007[^c-b0773db642d4db032036d8c2207bf908]
 
 (1) The Zoonoses (Monitoring) (Scotland) Regulations 2007[^f00132] are amended as follows.
 
@@ -534,7 +534,7 @@ In regulation 2(1) (interpretation) of the Cattle Identification (Scotland) Regu
 
 (3) In regulation 6(2) (examination of isolates), for “the Poultry Breeding Flocks and Hatcheries (Scotland) Order 2007” substitute “the Control of Salmonella in Poultry (Breeding, Laying and Broiler Flocks) (Scotland) Order 2009[^f00134]”.
 
-### 33. The Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009[^key-7b97ca7d0bd3b3c134c8d6fc51fe77b7]
+### 33. The Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009[^c-7b97ca7d0bd3b3c134c8d6fc51fe77b7]
 
 (1) The Sheep and Goats (Records, Identification and Movement) (Scotland) Order 2009[^f00135] is amended as follows.
 
@@ -542,7 +542,7 @@ In regulation 2(1) (interpretation) of the Cattle Identification (Scotland) Regu
 
 (3) In article 9(4) (animals sent for export), at the end insert “, as last relevantly amended by Commission Implementing Decision (EU) 2016/2002[^f00137]”.
 
-### 34. The Control of Salmonella in Turkey Flocks (Scotland) Order 2009[^key-a18a2941b16aa9fb052aef4e9cc7f61d]
+### 34. The Control of Salmonella in Turkey Flocks (Scotland) Order 2009[^c-a18a2941b16aa9fb052aef4e9cc7f61d]
 
 (1) The Control of Salmonella in Turkey Flocks (Scotland) Order 2009[^f00138] is amended as follows.
 
@@ -560,7 +560,7 @@ In regulation 2(1) (interpretation) of the Cattle Identification (Scotland) Regu
 
 (6) In article 9 (duties of the person in charge of a laboratory), for “Regulation 584/2008” substitute “Regulation (EU) No 1190/2012”.
 
-### 35. The Trade in Animals and Related Products (Scotland) Regulations 2012[^key-bdc6480ec5547a4fe60e25f0d52d54ea]
+### 35. The Trade in Animals and Related Products (Scotland) Regulations 2012[^c-bdc6480ec5547a4fe60e25f0d52d54ea]
 
 (1) The Trade in Animals and Related Products (Scotland) Regulations 2012[^f00140] is amended as follows.
 
@@ -613,7 +613,7 @@ In regulation 2(1) (interpretation) of the Cattle Identification (Scotland) Regu
 
 ## PART 9 — Amendments to legislation concerning animal welfare
 
-### 36. The Welfare of Farmed Animals (Scotland) Regulations 2010[^key-0eebda2f1cbd8c5149511e8c4e6c1b51]
+### 36. The Welfare of Farmed Animals (Scotland) Regulations 2010[^c-0eebda2f1cbd8c5149511e8c4e6c1b51]
 
 In paragraph 1 (interpretation) of schedule 2 (additional conditions that apply to the keeping of conventionally reared meat chickens) of the Welfare of Farmed Animals (Scotland) Regulations 2010[^f00151], in the definition of—
 
@@ -624,7 +624,7 @@ in each case, at the end insert “, as last amended by Commission Regulation (E
 
 ## PART 10 — Amendments to legislation concerning food
 
-### 37. The Preserved Sardines (Marketing Standards) (Scotland) Regulations 1990[^key-d30cff7b670b9881f4e4511b9f3cc299]
+### 37. The Preserved Sardines (Marketing Standards) (Scotland) Regulations 1990[^c-d30cff7b670b9881f4e4511b9f3cc299]
 
 (1) The Preserved Sardines (Marketing Standards) (Scotland) Regulations 1990[^f00153] are amended as follows.
 
@@ -645,11 +645,11 @@ in each case, at the end insert “, as last amended by Commission Regulation (E
 
 .
 
-### 38. The Milk and Dairies (Scotland) Regulations 1990[^key-91fe622e04ec9170ca27a2ce1993f4c3]
+### 38. The Milk and Dairies (Scotland) Regulations 1990[^c-91fe622e04ec9170ca27a2ce1993f4c3]
 
 In regulation 2(1) (interpretation and enforcement) of the Milk and Dairies (Scotland) Regulations 1990[^f00156], in the definition of “milk”, from the words “point III(1)(b)” to “1234/2007” substitute “point III(1)(b) of Part IV of Annex VII to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^f00157]”.
 
-### 39. The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Regulations 2004[^key-c60e0f5285a03494db1033cc6d4e9af9]
+### 39. The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Regulations 2004[^c-c60e0f5285a03494db1033cc6d4e9af9]
 
 (1) The Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Scotland) Regulations 2004[^f00158] are amended as follows.
 
@@ -659,7 +659,7 @@ In regulation 2(1) (interpretation and enforcement) of the Milk and Dairies (Sco
 
 .
 
-### 40. The Sea Fish (Marketing Standards) (Scotland) Regulations 2004[^key-28e000d9c7e4b78d399bd6bb83cd06d8]
+### 40. The Sea Fish (Marketing Standards) (Scotland) Regulations 2004[^c-28e000d9c7e4b78d399bd6bb83cd06d8]
 
 In regulation 2 (interpretation) of the Sea Fish (Marketing Standards) (Scotland) Regulations 2004[^f00161], for the definition of “Regulation 2406/96” substitute—
 
@@ -667,7 +667,7 @@ In regulation 2 (interpretation) of the Sea Fish (Marketing Standards) (Scotland
 
 .
 
-### 41. The Beef and Veal Labelling (Scotland) Regulations 2010[^key-771ee9528835af15579ce5dd2c2f5da1]
+### 41. The Beef and Veal Labelling (Scotland) Regulations 2010[^c-771ee9528835af15579ce5dd2c2f5da1]
 
 (1) The Beef and Veal Labelling (Scotland) Regulations 2010[^f00166] are amended as follows.
 
@@ -690,7 +690,7 @@ In regulation 2 (interpretation) of the Sea Fish (Marketing Standards) (Scotland
 
   .
 
-### 42. The Drinking Milk (Scotland) Regulations 2011[^key-cb014a3f3f1b4e9d86f7c8eed2a0e5ab]
+### 42. The Drinking Milk (Scotland) Regulations 2011[^c-cb014a3f3f1b4e9d86f7c8eed2a0e5ab]
 
 (1) The Drinking Milk (Scotland) Regulations 2011[^f00170] are amended as follows.
 
@@ -721,7 +721,7 @@ In regulation 2 (interpretation) of the Sea Fish (Marketing Standards) (Scotland
 
 (5) Regulation 9 (amendments) is revoked.
 
-### 43. The Poultrymeat (Scotland) Regulations 2011[^key-adf86eb37b19b0ffb245d84ca63cf202]
+### 43. The Poultrymeat (Scotland) Regulations 2011[^c-adf86eb37b19b0ffb245d84ca63cf202]
 
 (1) The Poultrymeat (Scotland) Regulations 2011[^f00172] are amended as follows.
 
@@ -740,7 +740,7 @@ In regulation 2 (interpretation) of the Sea Fish (Marketing Standards) (Scotland
 
 ## PART 11 — Repeals and revocations of legislation concerning food
 
-### 44. Repeals and revocations[^key-8f91541308e89fabed45a677c48f577c]
+### 44. Repeals and revocations[^c-8f91541308e89fabed45a677c48f577c]
 
 The schedule has effect.
 
@@ -760,7 +760,7 @@ Regulation 44
 
 ### PART 1 — Primary legislation
 
-**1.**[^key-0cdcdd780e2a5a3836354039f5387999] The enactments listed in column 1 of the Table are repealed to the extent specified in column 3 of the Table.
+**1.**[^c-0cdcdd780e2a5a3836354039f5387999] The enactments listed in column 1 of the Table are repealed to the extent specified in column 3 of the Table.
 
 | *Column 1*<br>*Legislation repealed* | *Column 2*<br>*Reference* | *Column 3*<br>*Extent of repeal* |
 | --- | --- | --- |
@@ -771,7 +771,7 @@ Regulation 44
 
 ### PART 2 — Subordinate legislation
 
-**2.**[^key-582644549dc6fecd5ccc5a1f0b7fe9e9] The instruments listed in column 1 of the Table are revoked to the extent specified in column 3 of the Table.
+**2.**[^c-582644549dc6fecd5ccc5a1f0b7fe9e9] The instruments listed in column 1 of the Table are revoked to the extent specified in column 3 of the Table.
 
 | *Column 1*<br>*Instruments revoked* | *Column 2*<br>*Reference* | *Column 3*<br>*Extent of revocation* |
 | --- | --- | --- |
@@ -841,17 +841,17 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00003]: Footnote: OJ L 31, 1.2.2002, p.1, as last amended by Commission Regulation (EU) 2017/228 (OJ L 35, 10.2.2017, p.10).
 
-[^key-bd24abf96e5590d2de7688f241c6fa3d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2018/391/regulation/1) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-bd24abf96e5590d2de7688f241c6fa3d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2018/391/regulation/1) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
-[^key-b3af0a677ab5e86d57feb1418ecb3be7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2018/391/regulation/2) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-b3af0a677ab5e86d57feb1418ecb3be7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2018/391/regulation/2) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00004]: Footnote: [S.S.I. 2010/204](https://www.legislation.gov.uk/ssi/2010/204).
 
 [^f00005]: Footnote: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), to which there are amendments not relevant to these Regulations.
 
-[^key-7c4c8df91a0384db03742c8d354088f5]: Textual amendment: Reg. 3 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-7c4c8df91a0384db03742c8d354088f5]: Textual amendment: Reg. 3 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-55426ff4a238062f2da5411957f2c0b4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2018/391/regulation/4) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-55426ff4a238062f2da5411957f2c0b4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2018/391/regulation/4) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00013]: Footnote: [2009 asp 6](https://www.legislation.gov.uk/asp/2009/6).
 
@@ -865,7 +865,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00018]: Footnote: OJ L 197, 24.7.2012, p.1.
 
-[^key-6b44d78e7d7312718ebac2fb3a750f8d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2018/391/regulation/5) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-6b44d78e7d7312718ebac2fb3a750f8d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2018/391/regulation/5) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00019]: Footnote: [S.S.I. 2004/516](https://www.legislation.gov.uk/ssi/2004/516).
 
@@ -883,7 +883,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00026]: Footnote: OJ L 20, 26.1.2010, p.7.
 
-[^key-dcb600e27add64a97bec9ca2358c2103]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2018/391/regulation/6) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-dcb600e27add64a97bec9ca2358c2103]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2018/391/regulation/6) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 1993/1446](https://www.legislation.gov.uk/uksi/1993/1446).
 
@@ -891,15 +891,15 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00029]: Footnote: OJ L 150, 14.6.2018, p.155.
 
-[^key-fd8bced538716c28a5949aa5e5a7ff4e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2018/391/regulation/7) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-fd8bced538716c28a5949aa5e5a7ff4e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2018/391/regulation/7) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 1994/2842](https://www.legislation.gov.uk/uksi/1994/2842).
 
 [^f00031]: Footnote: Regulation 13(1) was amended by [S.I. 1996/973](https://www.legislation.gov.uk/uksi/1996/973).
 
-[^key-338f93db3a642e6198bb3c2a67f39d85]: Textual amendment: Reg. 8 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-338f93db3a642e6198bb3c2a67f39d85]: Textual amendment: Reg. 8 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-eb8f967bf1b6832ae5f3f22324fb38c4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2018/391/regulation/9) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-eb8f967bf1b6832ae5f3f22324fb38c4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2018/391/regulation/9) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00037]: Footnote: [S.I. 1992/588](https://www.legislation.gov.uk/uksi/1992/588).
 
@@ -907,7 +907,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00039]: Footnote: OJ L 300, 14.11.2009, p.1.
 
-[^key-c0adfdc967a62c12d90fd188dab1b079]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2018/391/regulation/10) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-c0adfdc967a62c12d90fd188dab1b079]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2018/391/regulation/10) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00040]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972).
 
@@ -925,17 +925,17 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00047]: Footnote: Regulation 19A was inserted by [S.S.I. 2004/112](https://www.legislation.gov.uk/ssi/2004/112).
 
-[^key-2fdeb8ee68719bf67e77b803172f5f67]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2018/391/regulation/11) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-2fdeb8ee68719bf67e77b803172f5f67]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2018/391/regulation/11) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00048]: Footnote: [S.S.I. 2000/95](https://www.legislation.gov.uk/ssi/2000/95).
 
 [^f00049]: Footnote: Regulation 2(1) was amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 
-[^key-8706b70809bf0a6b2421cd920348d919]: Textual amendment: Reg. 12 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-8706b70809bf0a6b2421cd920348d919]: Textual amendment: Reg. 12 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-9e1ab9a419462ecfe40cd3855eafe9fc]: Textual amendment: Reg. 13 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-9e1ab9a419462ecfe40cd3855eafe9fc]: Textual amendment: Reg. 13 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-921f5d51e16113bb2cee30eac8e60e31]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2018/391/regulation/14) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-921f5d51e16113bb2cee30eac8e60e31]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2018/391/regulation/14) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00063]: Footnote: [S.S.I. 2007/251](https://www.legislation.gov.uk/ssi/2007/251).
 
@@ -943,15 +943,15 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00065]: Footnote: Regulation 2A was inserted by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226) and was amended by [S.S.I. 2015/438](https://www.legislation.gov.uk/ssi/2015/438).
 
-[^key-2d4f2bdb04c49b38e1f3c18b178bb634]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2018/391/regulation/15) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-2d4f2bdb04c49b38e1f3c18b178bb634]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2018/391/regulation/15) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00066]: Footnote: [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247).
 
 [^f00067]: Footnote: Regulation 2 was relevantly amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 
-[^key-48e53293d68d9c68d26e6e53d5ed8652]: Textual amendment: Reg. 16 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-48e53293d68d9c68d26e6e53d5ed8652]: Textual amendment: Reg. 16 revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-5f555fdef81fdfd2722a16eedbd1942c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2018/391/regulation/17) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-5f555fdef81fdfd2722a16eedbd1942c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2018/391/regulation/17) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00077]: Footnote: [S.I. 1995/2652](https://www.legislation.gov.uk/uksi/1995/2652); relevant amending instrument is [S.S.I. 2007/113](https://www.legislation.gov.uk/ssi/2007/113).
 
@@ -959,17 +959,17 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00079]: Footnote: OJ L 271, 20.10.2017, p.34.
 
-[^key-d6f90b5cfed7ca0ea23018fcb4be2e74]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2018/391/regulation/18) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-d6f90b5cfed7ca0ea23018fcb4be2e74]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2018/391/regulation/18) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00080]: Footnote: [S.S.I. 2006/24](https://www.legislation.gov.uk/ssi/2006/24); relevant amending instrument is [S.S.I. 2015/105](https://www.legislation.gov.uk/ssi/2015/105).
 
-[^key-67d16f6c4e13524935ea22fb736b803d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2018/391/regulation/19) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-67d16f6c4e13524935ea22fb736b803d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2018/391/regulation/19) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00081]: Footnote: [S.S.I. 2006/543](https://www.legislation.gov.uk/ssi/2006/543).
 
 [^f00082]: Footnote: OJ L 242, 9.9.2016, p.24.
 
-[^key-462795a4659917908b2ed50569999032]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2018/391/regulation/20) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-462795a4659917908b2ed50569999032]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2018/391/regulation/20) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00083]: Footnote: [S.S.I. 2009/225](https://www.legislation.gov.uk/ssi/2009/225).
 
@@ -979,19 +979,19 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00086]: Footnote: Regulation 10(3) was amended by [S.S.I. 2011/324](https://www.legislation.gov.uk/ssi/2011/324).
 
-[^key-8257fc170e882830f350db7864d44573]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2018/391/regulation/21) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-8257fc170e882830f350db7864d44573]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2018/391/regulation/21) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00087]: Footnote: [S.I. 2010/273](https://www.legislation.gov.uk/uksi/2010/273), to which there are amendments not relevant to these Regulations.
 
 [^f00088]: Footnote: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), to which there are amendments not relevant to these Regulations.
 
-[^key-a77b641ae69c209427769112e3f277d7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2018/391/regulation/22) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-a77b641ae69c209427769112e3f277d7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2018/391/regulation/22) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00089]: Footnote: [S.S.I. 2015/395](https://www.legislation.gov.uk/ssi/2015/395), to which there are amendments not relevant to these Regulations.
 
 [^f00090]: Footnote: OJ L 60, 5.3.2016, p.88.
 
-[^key-5ab98f211e5e2b5d2a1f24babba8e507]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2018/391/regulation/23) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-5ab98f211e5e2b5d2a1f24babba8e507]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2018/391/regulation/23) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00091]: Footnote: [S.S.I. 2003/354](https://www.legislation.gov.uk/ssi/2003/354), to which there are amendments not relevant to these Regulations.
 
@@ -1005,13 +1005,13 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00096]: Footnote: [S.S.I. 2008/219](https://www.legislation.gov.uk/ssi/2008/219), to which there are amendments not relevant to these Regulations.
 
-[^key-6b84ccbd8b9fba53d3594ad41ed43b33]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2018/391/regulation/24) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-6b84ccbd8b9fba53d3594ad41ed43b33]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2018/391/regulation/24) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00097]: Footnote: [S.S.I. 2005/531](https://www.legislation.gov.uk/ssi/2005/531), to which there are amendments not relevant to these Regulations.
 
 [^f00098]: Footnote: OJ L 230, 1.9.2007, p.20.
 
-[^key-890807ba5d91c4c6bc2d21ee4dbd99a4]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2018/391/regulation/25) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-890807ba5d91c4c6bc2d21ee4dbd99a4]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2018/391/regulation/25) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00099]: Footnote: [S.S.I. 2006/44](https://www.legislation.gov.uk/ssi/2006/44).
 
@@ -1027,7 +1027,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00105]: Footnote: OJ L 59, 3.3.2015, p.1.
 
-[^key-50b05757ffdffd191fbcfde751f0dbe7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2018/391/regulation/26) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-50b05757ffdffd191fbcfde751f0dbe7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2018/391/regulation/26) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00106]: Footnote: [S.S.I. 2006/45](https://www.legislation.gov.uk/ssi/2006/45).
 
@@ -1045,7 +1045,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00113]: Footnote: OJ L 189, 27.6.2014, p.33.
 
-[^key-ac42f3470d88cdcac606a5cb28cac335]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2018/391/regulation/27) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-ac42f3470d88cdcac606a5cb28cac335]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2018/391/regulation/27) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00114]: Footnote: [S.S.I. 2006/336](https://www.legislation.gov.uk/ssi/2006/336).
 
@@ -1055,7 +1055,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00117]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916); relevant amending instrument is [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-6d5cf3207acece35d7a59f9e6b4c943f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2018/391/regulation/28) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-6d5cf3207acece35d7a59f9e6b4c943f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2018/391/regulation/28) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00118]: Footnote: [S.S.I. 2006/337](https://www.legislation.gov.uk/ssi/2006/337), to which there are amendments not relevant to these Regulations.
 
@@ -1069,7 +1069,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00123]: Footnote: OJ L 77, 20.3.2018, p.4.
 
-[^key-1432531d43f9bac0ea44edcfbf0f6c72]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2018/391/regulation/29) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-1432531d43f9bac0ea44edcfbf0f6c72]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2018/391/regulation/29) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00124]: Footnote: [S.S.I. 2007/61](https://www.legislation.gov.uk/ssi/2007/61).
 
@@ -1077,7 +1077,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00126]: Footnote: OJ L 176, 12.7.2018, p.11.
 
-[^key-9fb1f5e15fe2b6627d11dcfe817cbf19]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2018/391/regulation/30) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-9fb1f5e15fe2b6627d11dcfe817cbf19]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2018/391/regulation/30) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00127]: Footnote: [S.S.I. 2007/62](https://www.legislation.gov.uk/ssi/2007/62).
 
@@ -1085,13 +1085,13 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00129]: Footnote: OJ L 342, 21.12.2017, p.13.
 
-[^key-87b62128eb47059182fb41f6061ba60a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2018/391/regulation/31) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-87b62128eb47059182fb41f6061ba60a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2018/391/regulation/31) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00130]: Footnote: [S.S.I. 2007/174](https://www.legislation.gov.uk/ssi/2007/174), to which there are amendments not relevant to these Regulations.
 
 [^f00131]: Footnote: OJ L 143, 3.6.2017, p.1.
 
-[^key-b0773db642d4db032036d8c2207bf908]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2018/391/regulation/32) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-b0773db642d4db032036d8c2207bf908]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2018/391/regulation/32) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00132]: Footnote: [S.S.I. 2007/420](https://www.legislation.gov.uk/ssi/2007/420).
 
@@ -1099,7 +1099,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00134]: Footnote: [S.S.I. 2009/229](https://www.legislation.gov.uk/ssi/2009/229), to which there are amendments not relevant to these Regulations.
 
-[^key-7b97ca7d0bd3b3c134c8d6fc51fe77b7]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2018/391/regulation/33) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-7b97ca7d0bd3b3c134c8d6fc51fe77b7]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2018/391/regulation/33) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00135]: Footnote: [S.S.I. 2009/414](https://www.legislation.gov.uk/ssi/2009/414).
 
@@ -1107,13 +1107,13 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00137]: Footnote: OJ L 308, 16.11.2016, p.29.
 
-[^key-a18a2941b16aa9fb052aef4e9cc7f61d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2018/391/regulation/34) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-a18a2941b16aa9fb052aef4e9cc7f61d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2018/391/regulation/34) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00138]: Footnote: [S.S.I. 2009/417](https://www.legislation.gov.uk/ssi/2009/417), to which there are amendments not relevant to these Regulations.
 
 [^f00139]: Footnote: OJ L 340, 13.12.2012, p.29, corrected by Corrigendum to [Commission Regulation (EU) No 1190/2012](https://www.legislation.gov.uk/european/regulation/2012/1190) (OJ L 68, 13.3.2015, p.91).
 
-[^key-bdc6480ec5547a4fe60e25f0d52d54ea]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2018/391/regulation/35) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-bdc6480ec5547a4fe60e25f0d52d54ea]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2018/391/regulation/35) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00140]: Footnote: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177), to which there are amendments not relevant to these Regulations.
 
@@ -1137,13 +1137,13 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00150]: Footnote: OJ L 158, 10.6.2013, p.74, to which there are amendments not relevant to these Regulations.
 
-[^key-0eebda2f1cbd8c5149511e8c4e6c1b51]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2018/391/regulation/36) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-0eebda2f1cbd8c5149511e8c4e6c1b51]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2018/391/regulation/36) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00151]: Footnote: [S.S.I. 2010/388](https://www.legislation.gov.uk/ssi/2010/388).
 
 [^f00152]: Footnote: OJ L 69, 8.3.2014, p. 95.
 
-[^key-d30cff7b670b9881f4e4511b9f3cc299]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2018/391/regulation/37) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-d30cff7b670b9881f4e4511b9f3cc299]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2018/391/regulation/37) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00153]: Footnote: [S.I. 1990/1139](https://www.legislation.gov.uk/uksi/1990/1139), to which there are amendments not relevant to these Regulations.
 
@@ -1151,13 +1151,13 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00155]: Footnote: OJ L 348, 24.12.2008, p.76.
 
-[^key-91fe622e04ec9170ca27a2ce1993f4c3]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2018/391/regulation/38) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-91fe622e04ec9170ca27a2ce1993f4c3]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2018/391/regulation/38) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00156]: Footnote: [S.I. 1990/2507](https://www.legislation.gov.uk/uksi/1990/2507); relevant amending instruments are [S.I. 1992/3136](https://www.legislation.gov.uk/uksi/1992/3136), [S.I. 1998/2424](https://www.legislation.gov.uk/uksi/1998/2424) and [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235).
 
 [^f00157]: Footnote: OJ L 347, 20.12.2013, p.671, as last amended by Regulation (EU) 2017/2393 (OJ L 350, 29.12.2017, p.15).
 
-[^key-c60e0f5285a03494db1033cc6d4e9af9]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2018/391/regulation/39) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-c60e0f5285a03494db1033cc6d4e9af9]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2018/391/regulation/39) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00158]: Footnote: [S.S.I. 2004/278](https://www.legislation.gov.uk/ssi/2004/278); relevant amending instruments are [S.S.I. 2015/167](https://www.legislation.gov.uk/ssi/2015/167) and [S.S.I. 2017/178](https://www.legislation.gov.uk/ssi/2017/178).
 
@@ -1165,7 +1165,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00160]: Footnote: OJ L 26, 31.1.2018, p.11.
 
-[^key-28e000d9c7e4b78d399bd6bb83cd06d8]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2018/391/regulation/40) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-28e000d9c7e4b78d399bd6bb83cd06d8]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2018/391/regulation/40) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00161]: Footnote: [S.S.I. 2004/498](https://www.legislation.gov.uk/ssi/2004/498), to which there are amendments not relevant to these Regulations.
 
@@ -1177,7 +1177,7 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00165]: Footnote: OJ L 199, 21.7.2006, p.6.
 
-[^key-771ee9528835af15579ce5dd2c2f5da1]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2018/391/regulation/41) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-771ee9528835af15579ce5dd2c2f5da1]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2018/391/regulation/41) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00166]: Footnote: [S.S.I. 2010/402](https://www.legislation.gov.uk/ssi/2010/402).
 
@@ -1187,25 +1187,25 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^f00169]: Footnote: OJ L 189, 27.6.2014, p.33.
 
-[^key-cb014a3f3f1b4e9d86f7c8eed2a0e5ab]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2018/391/regulation/42) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-cb014a3f3f1b4e9d86f7c8eed2a0e5ab]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2018/391/regulation/42) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00170]: Footnote: [S.S.I. 2011/84](https://www.legislation.gov.uk/ssi/2011/84).
 
 [^f00171]: Footnote: Regulation 2(1) was amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235).
 
-[^key-adf86eb37b19b0ffb245d84ca63cf202]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2018/391/regulation/43) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-adf86eb37b19b0ffb245d84ca63cf202]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2018/391/regulation/43) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00172]: Footnote: [S.S.I. 2011/318](https://www.legislation.gov.uk/ssi/2011/318); relevant amending instrument is [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235).
 
 [^f00173]: Footnote: Regulation 2(1) was amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235).
 
-[^key-8f91541308e89fabed45a677c48f577c]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2018/391/regulation/44) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-8f91541308e89fabed45a677c48f577c]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2018/391/regulation/44) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
-[^key-0cdcdd780e2a5a3836354039f5387999]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/paragraph/1) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-0cdcdd780e2a5a3836354039f5387999]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/paragraph/1) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00174]: Footnote: The Milk (Cessation of Production) Act 1985 was repealed insofar as it extends to England and Wales and Northern Ireland by paragraph 39 of schedule 23 of the Deregulation Act [2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20). Paragraph 39 of schedule 23 of that Act extends to England and Wales and Northern Ireland by virtue of section 114 of that Act.
 
-[^key-582644549dc6fecd5ccc5a1f0b7fe9e9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/paragraph/2) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
+[^c-582644549dc6fecd5ccc5a1f0b7fe9e9]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/paragraph/2) in force at 28.2.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1)
 
 [^f00175]: Footnote: [S.I. 1996/3186](https://www.legislation.gov.uk/uksi/1996/3186) was revoked insofar as it extends to England by [S.I. 2015/639](https://www.legislation.gov.uk/uksi/2015/639) and insofar as it extends to Wales by [S.I. 2018/968 (W. 195)](https://www.legislation.gov.uk/wsi/2018/968).
 

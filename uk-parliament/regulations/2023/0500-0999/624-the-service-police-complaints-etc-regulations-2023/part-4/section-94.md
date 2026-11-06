@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Duty to determine eligibility for consideration[^key-8d07c4c63509187873105612118d6bc1]
+## 94. Duty to determine eligibility for consideration[^c-8d07c4c63509187873105612118d6bc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d07c4c63509187873105612118d6bc1]: Commencement: Reg. 94 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-8d07c4c63509187873105612118d6bc1]: Commencement: Reg. 94 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

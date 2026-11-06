@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Expenses and receipts.[^c7815741][^c20459811][^key-8be0b28a95ada425c9187e0e22c48e90]
+## 81. Expenses and receipts.[^c7815741][^c20459811][^c-8be0b28a95ada425c9187e0e22c48e90]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ and any sums received by a Minister of the Crown or government department by vir
 
 [^c20459811]: Modification: [Ss. 1-59](https://www.legislation.gov.uk/ukpga/1974/37/section/1), [80-82](https://www.legislation.gov.uk/ukpga/1974/37/section/80) applied (temp.) (5.8.2009) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) Order 2001 (S.I. 2001/2127)](https://www.legislation.gov.uk/uksi/2001/2127), [arts. 8A](https://www.legislation.gov.uk/uksi/2001/2127/article/8A), [8B](https://www.legislation.gov.uk/uksi/2001/2127/article/8B) (as inserted by [S.I. 2009/1750](https://www.legislation.gov.uk/uksi/2009/1750), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/1750/article/2/3))
 
-[^key-8be0b28a95ada425c9187e0e22c48e90]: Modification: Ss. 80-82 applied by S.I. 2001/2127 art. 8A 8B (as inserted (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-8be0b28a95ada425c9187e0e22c48e90]: Modification: Ss. 80-82 applied by S.I. 2001/2127 art. 8A 8B (as inserted (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))

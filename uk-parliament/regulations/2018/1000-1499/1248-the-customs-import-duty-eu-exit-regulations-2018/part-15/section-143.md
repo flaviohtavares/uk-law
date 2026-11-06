@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Interpretation[^key-818f980f446ccc0b9a0efa55c36e1d68]
+## 143. Interpretation[^c-818f980f446ccc0b9a0efa55c36e1d68]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,17 +28,17 @@ In this Part, the following expressions [^c23522641] have the same meaning as th
 - “customs supervision”;
 - “customs territory of the Union”;
 - “decision taken upon application” [^c23522671];
-- [^key-fa92d0191976709e46d3cf2aee7e5a35]...
+- [^c-fa92d0191976709e46d3cf2aee7e5a35]...
 - “special procedure” and the following types of special procedure: “end-use procedure”, “outward processing procedure”, “storage procedure” and “transit procedure”[^c23522681];
 - “temporary storage”;
 - “temporary storage declaration”, except where reference is made to a such declaration provided under the Act;
-- [^key-ba8cd7d78a8da47cd5ba2dedd47a3e2c]...
+- [^c-ba8cd7d78a8da47cd5ba2dedd47a3e2c]...
 - “Union goods”; and
 - “verification” [^c23522701].
 
 ## Annotations
 
-[^key-818f980f446ccc0b9a0efa55c36e1d68]: Commencement: Reg. 143 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-818f980f446ccc0b9a0efa55c36e1d68]: Commencement: Reg. 143 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522641]: Marginal citation: The expressions are found in Article 5 of the UCC except where otherwise indicated.
 
@@ -48,10 +48,10 @@ In this Part, the following expressions [^c23522641] have the same meaning as th
 
 [^c23522671]: Marginal citation: See Article 22 of the UCC.
 
-[^key-fa92d0191976709e46d3cf2aee7e5a35]: Textual amendment: Words in reg. 143 omitted (31.12.2020) by virtue of [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2), [11(24)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/24); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-fa92d0191976709e46d3cf2aee7e5a35]: Textual amendment: Words in reg. 143 omitted (31.12.2020) by virtue of [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2), [11(24)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/24); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522681]: Marginal citation: See also Title VII of the UCC concerning special procedures.
 
-[^key-ba8cd7d78a8da47cd5ba2dedd47a3e2c]: Textual amendment: Words in reg. 143 omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [11(7)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/11/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-ba8cd7d78a8da47cd5ba2dedd47a3e2c]: Textual amendment: Words in reg. 143 omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [11(7)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/11/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522701]: Marginal citation: See Article 188 of the UCC.

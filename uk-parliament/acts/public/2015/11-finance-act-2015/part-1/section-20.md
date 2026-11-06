@@ -22,7 +22,7 @@ summary: ''
 
 (1) Chapter 2 of Part 8 of ITA 2007 (gift aid) is amended as follows.
 
-(2)[^key-c293d2c580583300bc84b4de6da68d98] In section 416 (meaning of “qualifying donation” for the purpose of gift aid relief)—
+(2)[^c-c293d2c580583300bc84b4de6da68d98] In section 416 (meaning of “qualifying donation” for the purpose of gift aid relief)—
 
 - (a) in subsection (1)(b)—
   - (i) after “the individual” insert “ , or an intermediary representing the individual, ” and
@@ -35,7 +35,7 @@ summary: ''
   > - (b) a person authorised by a charity to receive a gift aid declaration on behalf of that charity, or
   > - (c) a person authorised to perform both of the roles described in paragraphs (a) and (b).
 
-(3)[^key-2c17f3b6e46e18a1b468d1caf3950f3b] For section 428(3) (regulations in relation to gift aid declarations) substitute—
+(3)[^c-2c17f3b6e46e18a1b468d1caf3950f3b] For section 428(3) (regulations in relation to gift aid declarations) substitute—
 
 > (3) The regulations may also require—
 >
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c293d2c580583300bc84b4de6da68d98]: Commencement: [S. 20(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/20/2) has effect as specified by [The Finance Act 2015, Section 20(2) and (3) and the Finance Act 2016, Section 173(1) (Appointed Days) Regulations 2016 (S.I. 2016/1010)](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 4](https://www.legislation.gov.uk/uksi/2016/1010/regulation/4)
+[^c-c293d2c580583300bc84b4de6da68d98]: Commencement: [S. 20(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/20/2) has effect as specified by [The Finance Act 2015, Section 20(2) and (3) and the Finance Act 2016, Section 173(1) (Appointed Days) Regulations 2016 (S.I. 2016/1010)](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 4](https://www.legislation.gov.uk/uksi/2016/1010/regulation/4)
 
-[^key-2c17f3b6e46e18a1b468d1caf3950f3b]: Commencement: [S. 20(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/20/3) has effect as specified by [The Finance Act 2015, Section 20(2) and (3) and the Finance Act 2016, Section 173(1) (Appointed Days) Regulations 2016 (S.I. 2016/1010)](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1010/regulation/2)
+[^c-2c17f3b6e46e18a1b468d1caf3950f3b]: Commencement: [S. 20(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/20/3) has effect as specified by [The Finance Act 2015, Section 20(2) and (3) and the Finance Act 2016, Section 173(1) (Appointed Days) Regulations 2016 (S.I. 2016/1010)](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1010/regulation/2)

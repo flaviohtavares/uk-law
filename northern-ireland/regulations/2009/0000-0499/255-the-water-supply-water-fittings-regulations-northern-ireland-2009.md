@@ -44,7 +44,7 @@ The Department for Regional Development makes the following Regulations in exerc
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement, and interpretation[^key-96cdf2d2bd2cb960f268df8872a8e2c0]
+### 1. Citation, commencement, and interpretation[^c-96cdf2d2bd2cb960f268df8872a8e2c0]
 
 (1) These Regulations may be cited as the Water Supply (Water Fittings) Regulations (Northern Ireland) 2009 and shall come into operation on 3<sup>rd</sup> August 2009.
 
@@ -54,13 +54,13 @@ The Department for Regional Development makes the following Regulations in exerc
   - (a) has been approved by the water undertaker for the area where a water fitting is installed or used, or
   - (b) has been certified as an approved contractor by an organisation specified by the Secretary of State or the National Assembly of Wales under The Water Supply (Water Fittings) Regulations 1999[^f00002];
 - “the Department” means the Department for Regional Development;
-- [^key-d5ae762fa912f4a4e7bfcdb7d563d773]...[^f00003]
-- [^key-2dca84ac6d6908f06a007f936b095210]...[^f00004][^f00005]<sup></sup>
+- [^c-d5ae762fa912f4a4e7bfcdb7d563d773]...[^f00003]
+- [^c-2dca84ac6d6908f06a007f936b095210]...[^f00004][^f00005]<sup></sup>
 - “EEA State” means a State which is a contracting party to the EEA Agreement;
-- [^key-d5ae762fa912f4a4e7bfcdb7d563d773]...
+- [^c-d5ae762fa912f4a4e7bfcdb7d563d773]...
 - “fluid category” means a category of fluid described in Schedule 1;
 - “greywater” means waste water from baths, showers, wash basins and washing machines;
-- [^key-d5ae762fa912f4a4e7bfcdb7d563d773]...
+- [^c-d5ae762fa912f4a4e7bfcdb7d563d773]...
 - “material change of use” means a change in the purpose for which, or the circumstances in which, premises are used, such that after that change the premises are used (where previously they were not so used)—
   - (a) as a dwelling;
   - (b) as an institution;
@@ -71,7 +71,7 @@ The Department for Regional Development makes the following Regulations in exerc
 - “supply pipe” means so much of any service pipe as is not vested in a water undertaker; and
 - “water undertaker” means a company appointed under Article 13(1) of the Order.
 
-### 2. Application of Regulations[^key-7d8abbe5b6c0057b80ffc42237d1fa47]
+### 2. Application of Regulations[^c-7d8abbe5b6c0057b80ffc42237d1fa47]
 
 (1) Subject to paragraphs (2) to (4), these Regulations apply to any water fitting installed or used, or to be installed or used, in premises to which water is or is to be supplied by a water undertaker.
 
@@ -87,7 +87,7 @@ The Department for Regional Development makes the following Regulations in exerc
 
 ## PART II — REQUIREMENTS
 
-### 3. Restriction on installation etc. of water fittings[^key-ae638fb4c0833d8799245ee6d652ee1b]
+### 3. Restriction on installation etc. of water fittings[^c-ae638fb4c0833d8799245ee6d652ee1b]
 
 (1) No person shall—
 
@@ -106,7 +106,7 @@ in contravention of the following provisions of this Part.
 - (a) waste, misuse, undue consumption or contamination of water supplied by a water undertaker; or
 - (b) the erroneous measurement of water supplied by a water undertaker.
 
-### 4. Requirements for water fittings etc.[^key-d9363df32620d37d8c40abe53d19956d]
+### 4. Requirements for water fittings etc.[^c-d9363df32620d37d8c40abe53d19956d]
 
 (1) Every water fitting shall—
 
@@ -115,9 +115,9 @@ in contravention of the following provisions of this Part.
 
 (2) For the purposes of this regulation, a water fitting is of an appropriate quality or standard only if—
 
-- (a)[^key-8018cb336125bb364e88f2ef1bf73691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-95662a040c43874a121497b189bdd817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) it conforms to an appropriate British Standard or some other national specification [^key-07278542519e102c3800a5209f598cde]... which provides an equivalent level of protection and performance; or
+- (a)[^c-8018cb336125bb364e88f2ef1bf73691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-95662a040c43874a121497b189bdd817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) it conforms to an appropriate British Standard or some other national specification [^c-07278542519e102c3800a5209f598cde]... which provides an equivalent level of protection and performance; or
 - (d) it conforms with the terms of a specification approved by the Secretary of State or the National Assembly of Wales under The Water Supply (Water Fittings) Regulations 1999.
 
 (3) Every water fitting shall comply with the requirements of Schedule 2 as it applies to that fitting.
@@ -128,11 +128,11 @@ in contravention of the following provisions of this Part.
 
 (6) For the purposes of this regulation, a water fitting is installed, connected, altered, repaired or disconnected in a workmanlike manner only if the work is carried out so as to conform—
 
-- (a) to an appropriate British Standard[^key-0dce55af4292ba4b8cb3b33a618e256d]... or some other national specification [^key-9c20333ca87b044f6897231c2dbfb37a]... which provides an equivalent level of protection and performance;
+- (a) to an appropriate British Standard[^c-0dce55af4292ba4b8cb3b33a618e256d]... or some other national specification [^c-9c20333ca87b044f6897231c2dbfb37a]... which provides an equivalent level of protection and performance;
 - (b) to a specification approved by the Secretary of State or the National Assembly of Wales under The Water Supply (Water Fittings) Regulations 1999; or
 - (c) to a method of installation approved by the water undertaker.
 
-### 5. Notification[^key-64db2304b0af042acfc2713042a669d0]
+### 5. Notification[^c-64db2304b0af042acfc2713042a669d0]
 
 (1) Subject to paragraph (2), any person who proposes to install a water fitting in connection with any of the operations listed in the Table below—
 
@@ -160,7 +160,7 @@ in contravention of the following provisions of this Part.
 
 (5) If no notice is given by the water undertaker within the period mentioned in paragraph (4), the consent required under paragraph (1) shall be deemed to have been granted unconditionally.
 
-### 6. Contractor’s certificate[^key-ab141a4b0b0bf1892a1488885a70ba1a]
+### 6. Contractor’s certificate[^c-ab141a4b0b0bf1892a1488885a70ba1a]
 
 (1) Where a water fitting is installed, altered, connected or disconnected by an approved contractor, the contractor shall upon completion of the work furnish a signed certificate stating whether the water fitting complies with the requirements of these Regulations to the person who commissioned the work.
 
@@ -168,7 +168,7 @@ in contravention of the following provisions of this Part.
 
 ## PART III — ENFORCEMENT ETC.
 
-### 7. Penalties for contravening Regulations[^key-fca26d8f0a9daca07f92050154e10133]
+### 7. Penalties for contravening Regulations[^c-fca26d8f0a9daca07f92050154e10133]
 
 (1) Subject to paragraph (2), a person who—
 
@@ -184,7 +184,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 - (a) that the work in question was carried out by or under the direction of an approved contractor, and
 - (b) that the contractor certified to the person who commissioned that work that the water fitting complied with the requirements of these Regulations.
 
-### 8. Inspections, measurements and tests[^key-1e29bb9e54352df63803e63a3b51d9a8]
+### 8. Inspections, measurements and tests[^c-1e29bb9e54352df63803e63a3b51d9a8]
 
 Any person designated in writing—
 
@@ -193,13 +193,13 @@ Any person designated in writing—
 
 may carry out such inspections, measurements and tests on premises entered by that person or on water fittings or other articles found on any such premises, and take away such samples of water or of any land, and such water fittings and other articles, as that person may consider necessary for the purposes of securing compliance with the requirements of Schedule 2.
 
-### 9. Enforcement[^key-4a950f01764f11213c2296efb1baa156]
+### 9. Enforcement[^c-4a950f01764f11213c2296efb1baa156]
 
 (1) A water undertaker shall enforce the requirements of these Regulations in relation to the area for which it holds an appointment under Part III of the Order.
 
 (2) The duty of a water undertaker under this regulation shall be enforceable under Article 30 of the Order by the Department.
 
-### 10. Relaxation of requirements[^key-c571c9cfb0d22f29e8fb2d05a63ec21c]
+### 10. Relaxation of requirements[^c-c571c9cfb0d22f29e8fb2d05a63ec21c]
 
 (1) Where a water undertaker considers that any requirement of Schedule 2 to these Regulations would be inappropriate in relation to a particular case, the undertaker may apply to the Department to authorise a relaxation of that requirement.
 
@@ -229,13 +229,13 @@ may carry out such inspections, measurements and tests on premises entered by th
 
 - (a) The Department shall not revoke or modify an authorisation without giving at least one months notice of its intention to do so to the water undertaker unless it appears to it that immediate revocation or modification is required in the interests of public health.
 
-### 11. Approval by the water undertaker[^key-48e112618b8e9e97cf24e66ea5344805]
+### 11. Approval by the water undertaker[^c-48e112618b8e9e97cf24e66ea5344805]
 
 (1) Where the water undertaker approves a method of installation under regulation 4, the undertaker shall give notice of the approval to the Department and shall publish it in such manner as the undertaker considers appropriate.
 
 (2) This regulation applies to the revocation or modification of an approval as it applies to the giving of that approval.
 
-### 12. Disputes[^key-876094690b7f2c1b80fb86527541d82d]
+### 12. Disputes[^c-876094690b7f2c1b80fb86527541d82d]
 
 Any dispute between a water undertaker and a person who has installed or proposes to install a water fitting—
 
@@ -244,7 +244,7 @@ Any dispute between a water undertaker and a person who has installed or propose
 
 shall be referred to arbitration by a single arbitrator to be appointed by agreement between the parties or, in default of agreement, by the Department.
 
-### 13. Publication of information[^key-31d01bd667a226a5b5d33ae5a4efa613]
+### 13. Publication of information[^c-31d01bd667a226a5b5d33ae5a4efa613]
 
 (1) The water undertaker shall, not later than 30th June in each year, publish a report relating to the preceding year containing—
 
@@ -258,14 +258,14 @@ shall be referred to arbitration by a single arbitrator to be appointed by agree
 
 (2) At the same time as it publishes a report in accordance with paragraph (1) the water undertaker shall send a copy of it to the Department.
 
-### 14. Contamination incidents; remedial works and recovery of expenses[^key-a769c3f0b31caa26798761c7d35e715e]
+### 14. Contamination incidents; remedial works and recovery of expenses[^c-a769c3f0b31caa26798761c7d35e715e]
 
 Where a person has caused or permitted contamination of the public drinking water supply by contravening a provision of these Regulations, the water undertaker may—
 
 - (a) carry out such works and take other steps as necessary for remedying the contravention; and
 - (b) recover any expenses reasonably incurred in remedying the contravention from that person.
 
-### 15. Revocation of Regulations[^key-07ec1d3e27282c5d36070d43b23fbc4e]
+### 15. Revocation of Regulations[^c-07ec1d3e27282c5d36070d43b23fbc4e]
 
 The Water Regulations (Northern Ireland) 1991 are revoked[^f00006].
 
@@ -277,36 +277,36 @@ A senior officer of the
 
 Department for Regional Development
 
-## SCHEDULE 1 — FLUID CATEGORIES[^key-14e2d20ed3da3b0e68095f8e6269f012]
+## SCHEDULE 1 — FLUID CATEGORIES[^c-14e2d20ed3da3b0e68095f8e6269f012]
 
 Regulation 1(2)
 
-### Fluid category 1[^key-14e2d20ed3da3b0e68095f8e6269f012]
+### Fluid category 1[^c-14e2d20ed3da3b0e68095f8e6269f012]
 
 Wholesome water supplied by a water undertaker and complying with the requirements of The Water Supply (Water Quality) Regulations (Northern Ireland) 2007[^f00007].
 
-### Fluid category 2[^key-14e2d20ed3da3b0e68095f8e6269f012]
+### Fluid category 2[^c-14e2d20ed3da3b0e68095f8e6269f012]
 
 Water which would be in fluid category 1 except whose aesthetic quality is impaired owing to—
 
 - (a) a change in its temperature, or
 - (b) the presence of substances or organisms causing a change in its taste, odour or appearance, including water in a hot water distribution system.
 
-### Fluid category 3[^key-14e2d20ed3da3b0e68095f8e6269f012]
+### Fluid category 3[^c-14e2d20ed3da3b0e68095f8e6269f012]
 
 Fluid which represents a slight health hazard because of the concentration of substances of low toxicity, including any fluid which contains—
 
 - (a) ethylene glycol, copper sulphate solution or similar chemical additives, or
 - (b) sodium hypochlorite (chloros and common disinfectants).
 
-### Fluid category 4[^key-14e2d20ed3da3b0e68095f8e6269f012]
+### Fluid category 4[^c-14e2d20ed3da3b0e68095f8e6269f012]
 
 Fluid which represents a significant health hazard because of the concentration of toxic substances, including any fluid which contains—
 
 - (a) chemical, carcinogenic substances or pesticides (including insecticides and herbicides), or
 - (b) environmental organisms of potential health significance.
 
-### Fluid category 5[^key-14e2d20ed3da3b0e68095f8e6269f012]
+### Fluid category 5[^c-14e2d20ed3da3b0e68095f8e6269f012]
 
 Fluid representing a serious health hazard because of the concentration of pathogenic organisms, radioactive or very toxic substances, including any fluid which contains—
 
@@ -320,7 +320,7 @@ Regulation 4(3)
 
 ### Interpretation
 
-**1.**[^key-bd491af80c2b7f8244f03e7550fb81a6] In this Schedule—
+**1.**[^c-bd491af80c2b7f8244f03e7550fb81a6] In this Schedule—
 
 - “backflow” means flow upstream, that is in a direction contrary to the intended normal direction of flow, within or from a water fitting;
 - “cistern” means a fixed container for holding water at atmospheric pressure;
@@ -345,7 +345,7 @@ Regulation 4(3)
 
 ### Materials and substances in contact with water
 
-**2.**[^key-9d666cd55f257a1b214d9a23b3241831] (1) Subject to sub-paragraph (2) below, no material or substance, either alone or in combination with any other material or substance or with the contents of any water fitting of which it forms a part, which causes or is likely to cause contamination of water shall be used in the construction, installation, renewal, repair or replacement of any water fitting which conveys or receives, or may convey or receive, water supplied for domestic or food production purposes.
+**2.**[^c-9d666cd55f257a1b214d9a23b3241831] (1) Subject to sub-paragraph (2) below, no material or substance, either alone or in combination with any other material or substance or with the contents of any water fitting of which it forms a part, which causes or is likely to cause contamination of water shall be used in the construction, installation, renewal, repair or replacement of any water fitting which conveys or receives, or may convey or receive, water supplied for domestic or food production purposes.
 
 (2) This requirement does not apply to a water fitting downstream of a terminal fitting supplying wholesome water where—
 
@@ -354,12 +354,12 @@ Regulation 4(3)
 
 ### Requirements for water fittings
 
-**3.**[^key-ffb4bebc1e7b2f9376f6816620c6ca51] Every water fitting shall—
+**3.**[^c-ffb4bebc1e7b2f9376f6816620c6ca51] Every water fitting shall—
 
 - (a) be immune to or protected from corrosion by galvanic action or by any other process which is likely to result in contamination or waste of water; and
 - (b) be constructed of materials of such strength and thickness as to resist damage from any external load, vibration, stress or settlement, pressure surges, or temperature fluctuation to which it is likely to be subjected.
 
-**4.**[^key-bd9bc6363ca02cd38d5c8912501c4770] Every water fitting shall—
+**4.**[^c-bd9bc6363ca02cd38d5c8912501c4770] Every water fitting shall—
 
 - (a) be watertight;
 - (b) be so constructed and installed as to—
@@ -368,11 +368,11 @@ Regulation 4(3)
 - (c) be so installed as to minimise the risk of permeation by, or deterioration from contact with, any substance which may cause contamination; and
 - (d) be adequately supported.
 
-**5.**[^key-f5ea7e29ab23e60864406af6784c4641] Every water fitting shall be capable of withstanding an internal water pressure not less than 1½ times the maximum pressure to which that fitting is designed to be subjected in operation.
+**5.**[^c-f5ea7e29ab23e60864406af6784c4641] Every water fitting shall be capable of withstanding an internal water pressure not less than 1½ times the maximum pressure to which that fitting is designed to be subjected in operation.
 
-**6.**[^key-7d4d0c7a7c52300b3e1e3103d214cee6] No water fitting shall be installed, connected or used which is likely to have a detrimental effect on the quality or pressure of water in a water main or other pipe of a water undertaker.
+**6.**[^c-7d4d0c7a7c52300b3e1e3103d214cee6] No water fitting shall be installed, connected or used which is likely to have a detrimental effect on the quality or pressure of water in a water main or other pipe of a water undertaker.
 
-**7.**[^key-6b7b79e92cddb5ef066a6633e92175d5] (1) No water fitting shall be embedded in any wall or solid floor.
+**7.**[^c-6b7b79e92cddb5ef066a6633e92175d5] (1) No water fitting shall be embedded in any wall or solid floor.
 
 (2) No fitting which is designed to be operated or maintained, whether manually or electronically, or which consists of a joint, shall be a concealed water fitting.
 
@@ -389,17 +389,17 @@ Regulation 4(3)
 
 ### Water system design and installation
 
-**8.**[^key-63868a081ed0b02c8e68f02d52b2fca7] No water fitting shall be installed in such a position, or pass through such surroundings, that it is likely to cause contamination or damage to the material of the fitting or the contamination of water supplied by the water undertaker.
+**8.**[^c-63868a081ed0b02c8e68f02d52b2fca7] No water fitting shall be installed in such a position, or pass through such surroundings, that it is likely to cause contamination or damage to the material of the fitting or the contamination of water supplied by the water undertaker.
 
-**9.**[^key-3e1d65b80f9560342119b94e3c33bb85] Any pipe supplying cold water for domestic purposes to any tap shall be so installed that, so far as is reasonably practicable, the water is not warmed above 20°C.
+**9.**[^c-3e1d65b80f9560342119b94e3c33bb85] Any pipe supplying cold water for domestic purposes to any tap shall be so installed that, so far as is reasonably practicable, the water is not warmed above 20°C.
 
-**10.**[^key-018e324693c224b5f2de7adbb1e1159e] (1) Every supply pipe or distributing pipe providing water to separate premises shall be fitted with a stopvalve conveniently located to enable the supply to those premises to be shut off without shutting off the supply to any other premises.
+**10.**[^c-018e324693c224b5f2de7adbb1e1159e] (1) Every supply pipe or distributing pipe providing water to separate premises shall be fitted with a stopvalve conveniently located to enable the supply to those premises to be shut off without shutting off the supply to any other premises.
 
 (2) Where a supply pipe or distributing pipe provides water in common to two or more premises, it shall be fitted with a stopvalve to which each occupier of those premises has access.
 
-**11.**[^key-dd49138581e7f0e50c8e69b0ad2d29ef] Water systems shall be capable of being drained down and be fitted with an adequate number of servicing valves and drain taps so as to minimize the discharge of water when water fittings are maintained or replaced. A sufficient number of stopvalves shall be installed for isolating parts of the pipework.
+**11.**[^c-dd49138581e7f0e50c8e69b0ad2d29ef] Water systems shall be capable of being drained down and be fitted with an adequate number of servicing valves and drain taps so as to minimize the discharge of water when water fittings are maintained or replaced. A sufficient number of stopvalves shall be installed for isolating parts of the pipework.
 
-**12.**[^key-80a88c0e118b1a731a4da5fd701aa3b9] (1) The water system shall be capable of withstanding an internal water pressure not less than 1½ times the maximum pressure to which the installation or relevant part is designed to be subjected in operation ( “the test pressure”).
+**12.**[^c-80a88c0e118b1a731a4da5fd701aa3b9] (1) The water system shall be capable of withstanding an internal water pressure not less than 1½ times the maximum pressure to which the installation or relevant part is designed to be subjected in operation ( “the test pressure”).
 
 (2) This requirement shall be deemed to be satisfied—
 
@@ -413,11 +413,11 @@ Regulation 4(3)
   | --- | --- |
   | - (i) the whole system is subjected to the test pressure by pumping for 30 minutes, after which the test continues for 90 minutes without further pumping;<br>- (ii) the pressure is reduced to one third of the test pressure after 30 minutes;<br>- (iii) the pressure does not drop below one third of the test pressure over the following 90 minutes; and<br>- (iv) there is no visible leakage throughout the test. | - (i) the whole system is subjected to the test pressure by pumping for 30 minutes, after which the pressure is noted and the test continues for 150 minutes without further pumping;<br>- (ii) the drop in pressure is less than 0.6 bar (60kPa) after the following 30 minutes, or 0.8 bar (80kPa) after the following 150 minutes; and<br>- (iii) there is no visible leakage throughout the test. |
 
-**13.**[^key-37855d2128cedc6f85b6694cae13349d] Every water system shall be tested, flushed and where necessary disinfected before it is first used.
+**13.**[^c-37855d2128cedc6f85b6694cae13349d] Every water system shall be tested, flushed and where necessary disinfected before it is first used.
 
 ### Prevention of cross connection to unwholesome water
 
-**14.**[^key-34e4ac7f299ef408854a070ea7e95ad0] (1) Any water fitting conveying—
+**14.**[^c-34e4ac7f299ef408854a070ea7e95ad0] (1) Any water fitting conveying—
 
 - (a) rain water, greywater, reclaimed water, recycled water or any fluid other than water supplied by a water undertaker; or
 - (b) any fluid that is not wholesome water;
@@ -428,7 +428,7 @@ shall be clearly identified so as to be easily distinguished from any supply pip
 
 ### Backflow prevention
 
-**15.**[^key-977da0ce087ade5246d92fc686ba01af] (1) Subject to the following provisions of this paragraph, every water system shall contain an adequate device or devices for preventing backflow of fluid from any appliance, fitting or process from occurring.
+**15.**[^c-977da0ce087ade5246d92fc686ba01af] (1) Subject to the following provisions of this paragraph, every water system shall contain an adequate device or devices for preventing backflow of fluid from any appliance, fitting or process from occurring.
 
 (2) Paragraph (1) does not apply to—
 
@@ -448,7 +448,7 @@ where the temperature of the water in the supply pipe or the cistern does not ex
 
 ### Cold water services
 
-**16.**[^key-1d2b5768a8066d32e8001889ae77642d] (1) Every pipe supplying water connected to a storage cistern shall be fitted with an effective adjustable valve capable of shutting off the inflow of water at a suitable level below the overflowing level of the cistern.
+**16.**[^c-1d2b5768a8066d32e8001889ae77642d] (1) Every pipe supplying water connected to a storage cistern shall be fitted with an effective adjustable valve capable of shutting off the inflow of water at a suitable level below the overflowing level of the cistern.
 
 (2) Every inlet to a storage cistern, combined feed and expansion cistern, WC flushing cistern or urinal flushing cistern shall be fitted with a servicing valve on the inlet pipe adjacent to the cistern.
 
@@ -464,31 +464,31 @@ where the temperature of the water in the supply pipe or the cistern does not ex
 
 ### Hot water services
 
-**17.**[^key-9ee5e4f374f6dc0240bb52d23dc21503] (1) Every unvented water heater, not being an instantaneous water heater with a capacity not greater than 15 litres, and every secondary coil contained in a primary system shall—
+**17.**[^c-9ee5e4f374f6dc0240bb52d23dc21503] (1) Every unvented water heater, not being an instantaneous water heater with a capacity not greater than 15 litres, and every secondary coil contained in a primary system shall—
 
 - (a) be fitted with a temperature control device and either a temperature relief valve or combined temperature and pressure relief valve; and
 - (b) be capable of accommodating expansion within the secondary hot water system.
 
 (2) An expansion valve shall be fitted with provision to ensure that water is discharged in a correct manner in the event of a malfunction of the expansion vessel or system.
 
-**18.**[^key-fc2bfc88ead2eb69bf678d1ac1ac36df] Appropriate vent pipes, temperature control devices and combined temperature pressure and relief valves shall be provided to prevent the temperature of the water within a secondary hot water system from exceeding 100°C.
+**18.**[^c-fc2bfc88ead2eb69bf678d1ac1ac36df] Appropriate vent pipes, temperature control devices and combined temperature pressure and relief valves shall be provided to prevent the temperature of the water within a secondary hot water system from exceeding 100°C.
 
-**19.**[^key-4dd5ff367a94bb6774c1343a65aeeac6] Discharges from temperature relief valves, combined temperature pressure and relief valves and expansion valves shall be made in a safe and conspicuous manner.
+**19.**[^c-4dd5ff367a94bb6774c1343a65aeeac6] Discharges from temperature relief valves, combined temperature pressure and relief valves and expansion valves shall be made in a safe and conspicuous manner.
 
-**20.**[^key-02d4042d8381d431e6ac1f170b71ede3] (1) No vent pipe from a primary circuit shall terminate over a storage cistern containing wholesome water for domestic supply or for supplying water to a secondary system.
+**20.**[^c-02d4042d8381d431e6ac1f170b71ede3] (1) No vent pipe from a primary circuit shall terminate over a storage cistern containing wholesome water for domestic supply or for supplying water to a secondary system.
 
 (2) No vent pipe from a secondary circuit shall terminate over any combined feed and expansion cistern connection to a primary circuit.
 
-**21.**[^key-fc1248191cc4720379d4771ad851fef1] Every expansion cistern or expansion vessel, and every cold water combined feed and expansion cistern connected to a primary circuit, shall be such as to accommodate any expansion water from that circuit during normal operation.
+**21.**[^c-fc1248191cc4720379d4771ad851fef1] Every expansion cistern or expansion vessel, and every cold water combined feed and expansion cistern connected to a primary circuit, shall be such as to accommodate any expansion water from that circuit during normal operation.
 
-**22.**[^key-dfca2fadf22d2de57178c01385a6cb52] (1) Every expansion valve, temperature relief valve or combined temperature and pressure relief valve connected to any fitting or appliance shall close automatically after a discharge of water.
+**22.**[^c-dfca2fadf22d2de57178c01385a6cb52] (1) Every expansion valve, temperature relief valve or combined temperature and pressure relief valve connected to any fitting or appliance shall close automatically after a discharge of water.
 
 (2) Every expansion valve shall—
 
 - (a) be fitted on the supply pipe close to the hot water vessel and without any intervening valves; and
 - (b) only discharge water when subjected to a water pressure of not less than 0.5 bar (50 kPa) above the pressure to which the hot water vessel is, or is likely to be, subjected in normal operation.
 
-**23.**[^key-2476948ae79c463000a6781f1577cdc5] (1) A temperature relief valve or combined temperature and pressure relief valve shall be provided on every unvented hot water storage vessel with a capacity greater than 15 litres.
+**23.**[^c-2476948ae79c463000a6781f1577cdc5] (1) A temperature relief valve or combined temperature and pressure relief valve shall be provided on every unvented hot water storage vessel with a capacity greater than 15 litres.
 
 (2) The valve shall—
 
@@ -499,11 +499,11 @@ where the temperature of the water in the supply pipe or the cistern does not ex
 
 (3) In this paragraph “unvented hot water storage vessel” means a hot water storage vessel that does not have a vent pipe to the atmosphere.
 
-**24.**[^key-668d99d3bf567226628c9f72d9d75297] No supply pipe or secondary circuit shall be permanently connected to a closed circuit for filling a heating system unless it incorporates a backflow prevention device in accordance with a specification approved by the Secretary of State or the National Assembly of Wales under the Water Supply (Water Fittings) Regulations 1999.
+**24.**[^c-668d99d3bf567226628c9f72d9d75297] No supply pipe or secondary circuit shall be permanently connected to a closed circuit for filling a heating system unless it incorporates a backflow prevention device in accordance with a specification approved by the Secretary of State or the National Assembly of Wales under the Water Supply (Water Fittings) Regulations 1999.
 
 ### WC’s, flushing devices and urinals
 
-**25.**[^key-cd8d24f0742f07c4451a69c0905cc68d] (1) Subject to the following provisions of this paragraph—
+**25.**[^c-cd8d24f0742f07c4451a69c0905cc68d] (1) Subject to the following provisions of this paragraph—
 
 - (a) every water closet pan shall be supplied with water from a flushing cistern, pressure flushing cistern or pressure flushing valve, and shall be so made and installed that after normal use its contents can be cleared effectively by a single flush of water, or, where the installation is designed to receive flushes of different volumes, by the largest of those flushes;
 - (b) no pressure flushing valve shall be installed—
@@ -543,15 +543,15 @@ where the temperature of the water in the supply pipe or the cistern does not ex
 
 ### Baths, sinks, showers and taps
 
-**26.**[^key-5b1cce35960171fa786a7ae89bf50ddb] All premises supplied with water for domestic purposes shall have at least one tap conveniently situated for the drawing of drinking water.
+**26.**[^c-5b1cce35960171fa786a7ae89bf50ddb] All premises supplied with water for domestic purposes shall have at least one tap conveniently situated for the drawing of drinking water.
 
-**27.**[^key-35b7ee88b13c012d4f8b8b3aa76a4086] A drinking water tap shall be supplied with wholesome water from—
+**27.**[^c-35b7ee88b13c012d4f8b8b3aa76a4086] A drinking water tap shall be supplied with wholesome water from—
 
 - (a) a supply pipe;
 - (b) a pump delivery pipe drawing water from a supply pipe; or
 - (c) a distributing pipe drawing water exclusively from a storage cistern supplying wholesome water.
 
-**28.**[^key-83783ac8e3a08bcb04bec1532578e47d] (1) Subject to paragraph (2), every bath, wash basin, sink or similar appliance shall be provided with a watertight and readily accessible plug or other device capable of closing the waste outlet.
+**28.**[^c-83783ac8e3a08bcb04bec1532578e47d] (1) Subject to paragraph (2), every bath, wash basin, sink or similar appliance shall be provided with a watertight and readily accessible plug or other device capable of closing the waste outlet.
 
 (2) This requirement does not apply to—
 
@@ -564,7 +564,7 @@ where the temperature of the water in the supply pipe or the cistern does not ex
 
 ### Washing machines, dishwashers and other appliances
 
-**29.**[^key-5b6f4d1fd75945a44c60c41bbf5e15c7] (1) Subject to paragraph (2), clothes washing machines, clothes washer-driers and dishwashers shall be economical in the use of water.
+**29.**[^c-5b6f4d1fd75945a44c60c41bbf5e15c7] (1) Subject to paragraph (2), clothes washing machines, clothes washer-driers and dishwashers shall be economical in the use of water.
 
 (2) The requirements of this paragraph shall be deemed to be satisfied in the case of machines having a water consumption per cycle of not greater than the following—
 
@@ -574,14 +574,14 @@ where the temperature of the water in the supply pipe or the cistern does not ex
 
 ### Water for outside use
 
-**30.**[^key-4211387e45a242711bd20f8af56145c7] Every pipe which conveys water to a drinking vessel for animals or poultry shall be fitted with—
+**30.**[^c-4211387e45a242711bd20f8af56145c7] Every pipe which conveys water to a drinking vessel for animals or poultry shall be fitted with—
 
 - (a) a float-operated valve, or some other no less effective device to control the inflow of water, which is—
   - (i) protected from damage and contamination; and
   - (ii) prevents contamination of the water supply; and
 - (b) a stopvalve or servicing valve as appropriate.
 
-**31.**[^key-c96cd089a5709c342417cf8d8a6a837f] Every pond, fountain or pool shall have an impervious lining or membrane to prevent the leakage or seepage of water.
+**31.**[^c-c96cd089a5709c342417cf8d8a6a837f] Every pond, fountain or pool shall have an impervious lining or membrane to prevent the leakage or seepage of water.
 
 EXPLANATORY NOTE
 
@@ -621,122 +621,122 @@ These regulations were notified in draft to the European Commission in accordanc
 
 [^f00001]: Footnote: [S.I. 2006/3336 (N.I. 21)](https://www.legislation.gov.uk/nisi/2006/3336)
 
-[^key-96cdf2d2bd2cb960f268df8872a8e2c0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/255/regulation/1) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-96cdf2d2bd2cb960f268df8872a8e2c0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/255/regulation/1) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1999/1148](https://www.legislation.gov.uk/uksi/1999/1148)
 
-[^key-d5ae762fa912f4a4e7bfcdb7d563d773]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/2) omitted (28.11.2015) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/363)](https://www.legislation.gov.uk/nisr/2015/363), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/363/regulation/1/1), [3(1)](https://www.legislation.gov.uk/nisr/2015/363/regulation/3/1)
+[^c-d5ae762fa912f4a4e7bfcdb7d563d773]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/2) omitted (28.11.2015) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/363)](https://www.legislation.gov.uk/nisr/2015/363), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/363/regulation/1/1), [3(1)](https://www.legislation.gov.uk/nisr/2015/363/regulation/3/1)
 
 [^f00003]: Footnote: OJ No. L40, 11.2.89, p. 12.
 
-[^key-2dca84ac6d6908f06a007f936b095210]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/2) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2dca84ac6d6908f06a007f936b095210]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/2) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Cmnd 2073
 
 [^f00005]: Footnote: Cmnd 2183.
 
-[^key-7d8abbe5b6c0057b80ffc42237d1fa47]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/255/regulation/2) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-7d8abbe5b6c0057b80ffc42237d1fa47]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/255/regulation/2) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-ae638fb4c0833d8799245ee6d652ee1b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/255/regulation/3) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-ae638fb4c0833d8799245ee6d652ee1b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/255/regulation/3) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-d9363df32620d37d8c40abe53d19956d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/255/regulation/4) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-d9363df32620d37d8c40abe53d19956d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/255/regulation/4) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-8018cb336125bb364e88f2ef1bf73691]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8018cb336125bb364e88f2ef1bf73691]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-95662a040c43874a121497b189bdd817]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/2/b) omitted (28.11.2015) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/363)](https://www.legislation.gov.uk/nisr/2015/363), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/363/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2015/363/regulation/3/2/b)
+[^c-95662a040c43874a121497b189bdd817]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/2/b) omitted (28.11.2015) by virtue of [The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/363)](https://www.legislation.gov.uk/nisr/2015/363), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/363/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2015/363/regulation/3/2/b)
 
-[^key-07278542519e102c3800a5209f598cde]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/2/c) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07278542519e102c3800a5209f598cde]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/2/c) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0dce55af4292ba4b8cb3b33a618e256d]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/6/a) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0dce55af4292ba4b8cb3b33a618e256d]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/6/a) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c20333ca87b044f6897231c2dbfb37a]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/6/a) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c20333ca87b044f6897231c2dbfb37a]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/nisr/2009/255/regulation/4/6/a) omitted (31.12.2020) by virtue of [The Water and Floods (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/32)](https://www.legislation.gov.uk/uksi/2019/32), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/32/regulation/1/1), [3(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/32/regulation/3/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64db2304b0af042acfc2713042a669d0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/255/regulation/5) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-64db2304b0af042acfc2713042a669d0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/255/regulation/5) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-ab141a4b0b0bf1892a1488885a70ba1a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/255/regulation/6) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-ab141a4b0b0bf1892a1488885a70ba1a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/255/regulation/6) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-fca26d8f0a9daca07f92050154e10133]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/255/regulation/7) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-fca26d8f0a9daca07f92050154e10133]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/255/regulation/7) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-1e29bb9e54352df63803e63a3b51d9a8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/255/regulation/8) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-1e29bb9e54352df63803e63a3b51d9a8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/255/regulation/8) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-4a950f01764f11213c2296efb1baa156]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/255/regulation/9) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-4a950f01764f11213c2296efb1baa156]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/255/regulation/9) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-c571c9cfb0d22f29e8fb2d05a63ec21c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/255/regulation/10) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-c571c9cfb0d22f29e8fb2d05a63ec21c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/255/regulation/10) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-48e112618b8e9e97cf24e66ea5344805]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/255/regulation/11) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-48e112618b8e9e97cf24e66ea5344805]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/255/regulation/11) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-876094690b7f2c1b80fb86527541d82d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/255/regulation/12) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-876094690b7f2c1b80fb86527541d82d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/255/regulation/12) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-31d01bd667a226a5b5d33ae5a4efa613]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/255/regulation/13) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-31d01bd667a226a5b5d33ae5a4efa613]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/255/regulation/13) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-a769c3f0b31caa26798761c7d35e715e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2009/255/regulation/14) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-a769c3f0b31caa26798761c7d35e715e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2009/255/regulation/14) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-07ec1d3e27282c5d36070d43b23fbc4e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/255/regulation/15) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-07ec1d3e27282c5d36070d43b23fbc4e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/255/regulation/15) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1991/50](https://www.legislation.gov.uk/nisr/1991/50)
 
-[^key-14e2d20ed3da3b0e68095f8e6269f012]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/255/schedule/1) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-14e2d20ed3da3b0e68095f8e6269f012]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/255/schedule/1) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2007/147](https://www.legislation.gov.uk/nisr/2007/147) as amended by [S.R. 2009/246](https://www.legislation.gov.uk/nisr/2009/246)
 
-[^key-bd491af80c2b7f8244f03e7550fb81a6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/1) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-bd491af80c2b7f8244f03e7550fb81a6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/1) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-9d666cd55f257a1b214d9a23b3241831]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/2) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-9d666cd55f257a1b214d9a23b3241831]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/2) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-ffb4bebc1e7b2f9376f6816620c6ca51]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/3) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-ffb4bebc1e7b2f9376f6816620c6ca51]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/3) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-bd9bc6363ca02cd38d5c8912501c4770]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/4) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-bd9bc6363ca02cd38d5c8912501c4770]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/4) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-f5ea7e29ab23e60864406af6784c4641]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/5) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-f5ea7e29ab23e60864406af6784c4641]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/5) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-7d4d0c7a7c52300b3e1e3103d214cee6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/6) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-7d4d0c7a7c52300b3e1e3103d214cee6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/6) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-6b7b79e92cddb5ef066a6633e92175d5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/7) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-6b7b79e92cddb5ef066a6633e92175d5]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/7) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-63868a081ed0b02c8e68f02d52b2fca7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/8) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-63868a081ed0b02c8e68f02d52b2fca7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/8) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-3e1d65b80f9560342119b94e3c33bb85]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/9) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-3e1d65b80f9560342119b94e3c33bb85]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/9) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-018e324693c224b5f2de7adbb1e1159e]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/10) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-018e324693c224b5f2de7adbb1e1159e]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/10) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-dd49138581e7f0e50c8e69b0ad2d29ef]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/11) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-dd49138581e7f0e50c8e69b0ad2d29ef]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/11) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-80a88c0e118b1a731a4da5fd701aa3b9]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/12) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-80a88c0e118b1a731a4da5fd701aa3b9]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/12) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-37855d2128cedc6f85b6694cae13349d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/13) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-37855d2128cedc6f85b6694cae13349d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/13) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-34e4ac7f299ef408854a070ea7e95ad0]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/14) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-34e4ac7f299ef408854a070ea7e95ad0]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/14) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-977da0ce087ade5246d92fc686ba01af]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/15) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-977da0ce087ade5246d92fc686ba01af]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/15) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-1d2b5768a8066d32e8001889ae77642d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/16) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-1d2b5768a8066d32e8001889ae77642d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/16) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-9ee5e4f374f6dc0240bb52d23dc21503]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/17) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-9ee5e4f374f6dc0240bb52d23dc21503]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/17) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-fc2bfc88ead2eb69bf678d1ac1ac36df]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/18) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-fc2bfc88ead2eb69bf678d1ac1ac36df]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/18) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-4dd5ff367a94bb6774c1343a65aeeac6]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/19) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-4dd5ff367a94bb6774c1343a65aeeac6]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/19) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-02d4042d8381d431e6ac1f170b71ede3]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/20) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-02d4042d8381d431e6ac1f170b71ede3]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/20) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-fc1248191cc4720379d4771ad851fef1]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/21) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-fc1248191cc4720379d4771ad851fef1]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/21) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-dfca2fadf22d2de57178c01385a6cb52]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/22) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-dfca2fadf22d2de57178c01385a6cb52]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/22) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-2476948ae79c463000a6781f1577cdc5]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/23) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-2476948ae79c463000a6781f1577cdc5]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/23) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-668d99d3bf567226628c9f72d9d75297]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/24) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-668d99d3bf567226628c9f72d9d75297]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/24) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-cd8d24f0742f07c4451a69c0905cc68d]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/25) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-cd8d24f0742f07c4451a69c0905cc68d]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/25) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-5b1cce35960171fa786a7ae89bf50ddb]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/26) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-5b1cce35960171fa786a7ae89bf50ddb]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/26) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-35b7ee88b13c012d4f8b8b3aa76a4086]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/27) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-35b7ee88b13c012d4f8b8b3aa76a4086]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/27) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-83783ac8e3a08bcb04bec1532578e47d]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/28) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-83783ac8e3a08bcb04bec1532578e47d]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/28) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-5b6f4d1fd75945a44c60c41bbf5e15c7]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/29) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-5b6f4d1fd75945a44c60c41bbf5e15c7]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/29) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-4211387e45a242711bd20f8af56145c7]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/30) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-4211387e45a242711bd20f8af56145c7]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/30) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
 
-[^key-c96cd089a5709c342417cf8d8a6a837f]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/31) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)
+[^c-c96cd089a5709c342417cf8d8a6a837f]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2009/255/schedule/2/paragraph/31) in operation at 3.8.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/255/regulation/1/1)

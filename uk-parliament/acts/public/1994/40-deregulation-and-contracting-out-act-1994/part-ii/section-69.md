@@ -38,7 +38,7 @@ summary: ''
 
 (5) An authorisation given by virtue of an order under this section—
 
-- (a)[^key-3d173551b0be1e436226bd67b15e400f] shall be for such period, not exceeding 10 years, as is specified in the authorisation;
+- (a)[^c-3d173551b0be1e436226bd67b15e400f] shall be for such period, not exceeding 10 years, as is specified in the authorisation;
 - (b) may be revoked at any time by the Minister or office-holder by whom the authorisation is given; and
 - (c) shall not prevent that Minister or office-holder or any other person from exercising the function to which the authorisation relates.
 
@@ -48,4 +48,4 @@ summary: ''
 
     S. 69 applied (with modifications) (27.7.2000) by [S.I. 2000/2040](https://www.legislation.gov.uk/uksi/2000/2040), [art. 2](https://www.legislation.gov.uk/uksi/2000/2040/article/2), [Sch. Pt. I para. 16](https://www.legislation.gov.uk/uksi/2000/2040/schedule/part/I/paragraph/16)
 
-[^key-3d173551b0be1e436226bd67b15e400f]: Modification: S. 69(5)(a) modified (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/7/2), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-3d173551b0be1e436226bd67b15e400f]: Modification: S. 69(5)(a) modified (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/7/2), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

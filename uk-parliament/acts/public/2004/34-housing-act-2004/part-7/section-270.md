@@ -24,7 +24,7 @@ summary: ''
 
 (2) The following provisions come into force on the day on which this Act is passed—
 
-- (a) sections 2, 9, [^key-6b98fe45e83b8bce62806d8241666fff]... 190, 208, 216, 233, 234, 244, 248, 250, 252, 264, 265(2) to (5), 267 to 269 and this section, and
+- (a) sections 2, 9, [^c-6b98fe45e83b8bce62806d8241666fff]... 190, 208, 216, 233, 234, 244, 248, 250, 252, 264, 265(2) to (5), 267 to 269 and this section, and
 - (b) any other provision of this Act so far as it confers any power to make an order or regulations which is exercisable by the Secretary of State or the National Assembly for Wales.
 
 Subsections (3) to (7) have effect subject to paragraph (b).
@@ -50,11 +50,11 @@ Subsections (3) to (7) have effect subject to paragraph (b).
 - (e) paragraphs 15 and 16 of Schedule 11, and
 - (f) Schedules 13, 15 and 16.
 
-(6)[^key-8281f68604cabdb7399b329080b23ff0][^c2072876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8281f68604cabdb7399b329080b23ff0][^c2072876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7)[^c2072877] Section 228 and Schedule 12 come into force on such day as the National Assembly for Wales may by order appoint.
 
-(8) Different days may be appointed for different purposes or different areas under subsection (4)[^key-172f718566c5a94b419f6ce59a0c15c7]... or (7).
+(8) Different days may be appointed for different purposes or different areas under subsection (4)[^c-172f718566c5a94b419f6ce59a0c15c7]... or (7).
 
 (9) The Secretary of State may by order make such provision as he considers necessary or expedient for transitory, transitional or saving purposes in connection with the coming into force of any provision of this Act.
 
@@ -73,7 +73,7 @@ extends to England and Wales only.
 
 ## Annotations
 
-[^key-6b98fe45e83b8bce62806d8241666fff]: Textual amendment: Words in s. 270(2)(a) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
+[^c-6b98fe45e83b8bce62806d8241666fff]: Textual amendment: Words in s. 270(2)(a) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
 
 [^c2057731]: Subordinate legislation: S. 270(4)(5) power partly exercised: 17.2.2005 appointed for specified provisions by {[S.I. 2005/326](https://www.legislation.gov.uk/uksi/2005/326)}, art. 2;
 
@@ -99,7 +99,7 @@ extends to England and Wales only.
 
     S. 270(4)(5) power partly exercised: 13.12.2007 appointed for specified provisions by {[S.I. 2007/3232](https://www.legislation.gov.uk/uksi/2007/3232)}, art. 2
 
-[^key-8281f68604cabdb7399b329080b23ff0]: Textual amendment: S. 270(6) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
+[^c-8281f68604cabdb7399b329080b23ff0]: Textual amendment: S. 270(6) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
 
 [^c2072876]: Subordinate legislation: S. 270(6) power partly exercised: 1.8.2007 appointed for specified provisions and purposes by {[S.I. 2007/1668](https://www.legislation.gov.uk/uksi/2007/1668)}, arts. 2-4;
 
@@ -111,4 +111,4 @@ extends to England and Wales only.
 
 [^c2072877]: Subordinate legislation: S. 270(7) power fully exercised: 14.7.2005 appointed for specified provisions by {[S.I. 2005/1814](https://www.legislation.gov.uk/uksi/2005/1814)}, art. 2
 
-[^key-172f718566c5a94b419f6ce59a0c15c7]: Textual amendment: Word in s. 270(8) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
+[^c-172f718566c5a94b419f6ce59a0c15c7]: Textual amendment: Word in s. 270(8) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)

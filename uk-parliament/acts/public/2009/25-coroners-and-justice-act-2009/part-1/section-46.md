@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Abolition of the office of coroner of the Queen's household[^key-8f4d1a3190d9e74c66f3a800266915ae]
+## 46. Abolition of the office of coroner of the Queen's household[^c-8f4d1a3190d9e74c66f3a800266915ae]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The office of coroner of the Queen's household is abolished.
 
 ## Annotations
 
-[^key-8f4d1a3190d9e74c66f3a800266915ae]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2009/25/section/46) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/e)
+[^c-8f4d1a3190d9e74c66f3a800266915ae]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2009/25/section/46) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/e)

@@ -26,23 +26,23 @@ Section 23
 
 #### Forfeiture Act 1982 (c. 34)
 
-**1.**[^key-9a60b4fce23c6b9fb8e7eae571546356] In section 4 of the Forfeiture Act 1982 (Upper Tribunal to decide whether forfeiture rule applies to social security benefits), in the definition of “relevant enactment” in subsection (5), after the entry relating to the Pension Schemes Act 1993 insert— “ Part 1 of the Pensions Act 2014, ”.
+**1.**[^c-9a60b4fce23c6b9fb8e7eae571546356] In section 4 of the Forfeiture Act 1982 (Upper Tribunal to decide whether forfeiture rule applies to social security benefits), in the definition of “relevant enactment” in subsection (5), after the entry relating to the Pension Schemes Act 1993 insert— “ Part 1 of the Pensions Act 2014, ”.
 
 #### Social Security Contributions and Benefits Act 1992 (c. 4)
 
-**2.**[^key-ada981d5eecc38acd7bbcf0dc25d1092][^key-69aaea3a7134a393106d3db276b6ef1b] The Contributions and Benefits Act is amended as follows.
+**2.**[^c-ada981d5eecc38acd7bbcf0dc25d1092][^c-69aaea3a7134a393106d3db276b6ef1b] The Contributions and Benefits Act is amended as follows.
 
-**3.**[^key-2f4d7f420734335a604378df9be101ab] In section 1 (outline of contributory system), in subsection (1)(a), after “this Act” insert “ or any other Act ”.
+**3.**[^c-2f4d7f420734335a604378df9be101ab] In section 1 (outline of contributory system), in subsection (1)(a), after “this Act” insert “ or any other Act ”.
 
-**4.**[^key-4e38d713acd662f7a808273f5ded1d47] In section 13 (Class 3 contributions), in subsection (2), omit “contribution”.
+**4.**[^c-4e38d713acd662f7a808273f5ded1d47] In section 13 (Class 3 contributions), in subsection (2), omit “contribution”.
 
-**5.**[^key-62893c1def067ec599dad9ebe82f3acf] After section 19A insert—
+**5.**[^c-62893c1def067ec599dad9ebe82f3acf] After section 19A insert—
 
 > **19B. Extended meaning of “benefit” etc in Part 1**
 >
 > In this Part references to “benefit” or “contributory benefit” include benefit under Part 1 of the Pensions Act 2014.
 
-**6.**[^key-83cf21210184e93ac931226dfbf38e0b] (1)[^key-8c2fa67f924bbe73c672626843787b84] Section 22 (earnings factors) is amended as follows.
+**6.**[^c-83cf21210184e93ac931226dfbf38e0b] (1)[^c-8c2fa67f924bbe73c672626843787b84] Section 22 (earnings factors) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -53,7 +53,7 @@ Section 23
   >
   > - (c) establishing entitlement to a state pension under Part 1 of the Pensions Act 2014 and, where relevant, calculating the rate of a state pension under that Part.
 
-(3)[^key-631b277b2ce94cb9087d44ff1adc7b18] After subsection (5) insert—
+(3)[^c-631b277b2ce94cb9087d44ff1adc7b18] After subsection (5) insert—
 
 > (5ZA) Regulations may provide for crediting—
 >
@@ -68,31 +68,31 @@ Section 23
 > - (b) accompanying the member on an assignment outside the United Kingdom, and
 > - (c) not of a description specified in the regulations.
 
-**7.**[^key-9127be4f7e718077222d02f155793d89] In section 122(1) (interpretation), in the definition of “benefit”, after paragraph (c) insert— “ (For the meaning of “benefit” in Part 1, see also section 19B) ”.
+**7.**[^c-9127be4f7e718077222d02f155793d89] In section 122(1) (interpretation), in the definition of “benefit”, after paragraph (c) insert— “ (For the meaning of “benefit” in Part 1, see also section 19B) ”.
 
 #### Social Security Administration Act 1992 (c. 5)
 
-**8.**[^key-86d20d85247212b88bc8454ade2094c0][^key-c5579333400b28d947546456caf163d2] The Administration Act is amended as follows.
+**8.**[^c-86d20d85247212b88bc8454ade2094c0][^c-c5579333400b28d947546456caf163d2] The Administration Act is amended as follows.
 
-**9.**[^key-eb7409b7dfad7b62f7a6b9f8e231167e] In section 1 (entitlement to benefit dependent on claim), in subsection (4), after paragraph (za) insert—
-
-> - (zb) state pension or a lump sum under Part 1 of the Pensions Act 2014;
-
-.
-
-**10.**[^key-d4417bbdc89d00dffb35e6384e500883] In section 5 (regulations about claims for and payments of benefits), in subsection (2), after paragraph (za) insert—
+**9.**[^c-eb7409b7dfad7b62f7a6b9f8e231167e] In section 1 (entitlement to benefit dependent on claim), in subsection (4), after paragraph (za) insert—
 
 > - (zb) state pension or a lump sum under Part 1 of the Pensions Act 2014;
 
 .
 
-**11.**[^key-f1216d69ab53aa9550bfeaf1d4aad354] In section 71 (overpayments - general), in subsection (11), before paragraph (a) insert—
+**10.**[^c-d4417bbdc89d00dffb35e6384e500883] In section 5 (regulations about claims for and payments of benefits), in subsection (2), after paragraph (za) insert—
+
+> - (zb) state pension or a lump sum under Part 1 of the Pensions Act 2014;
+
+.
+
+**11.**[^c-f1216d69ab53aa9550bfeaf1d4aad354] In section 71 (overpayments - general), in subsection (11), before paragraph (a) insert—
 
 > - (za) state pension or a lump sum under Part 1 of the Pensions Act 2014;
 
 .
 
-**12.**[^key-7c1599f35649b421685677c506315257] In section 73 (overlapping benefits - general)—
+**12.**[^c-7c1599f35649b421685677c506315257] In section 73 (overlapping benefits - general)—
 
 - (a) in subsection (1), after “adjusting” insert “ state pension under Part 1 of the Pensions Act 2014 or ”;
 - (b) in subsection (4), before paragraph (a) insert—
@@ -101,23 +101,23 @@ Section 23
 
   .
 
-**13.**[^key-883dfd14a91d1b89338ef6d65bd091a8] In section 121DA (interpretation of Part 6), in subsection (1), after paragraph (hk) insert—
+**13.**[^c-883dfd14a91d1b89338ef6d65bd091a8] In section 121DA (interpretation of Part 6), in subsection (1), after paragraph (hk) insert—
 
 > - (hl) Part 1 of the Pensions Act 2014;
 
 .
 
-**14.**[^key-89d85519b6731e7a48958e8c7a192518] In section 122B (supply of other government information for fraud prevention and verification), in subsection (3)(b), after “Part 4 of that Act” insert “ , Part 1 of the Pensions Act 2014 ”.
+**14.**[^c-89d85519b6731e7a48958e8c7a192518] In section 122B (supply of other government information for fraud prevention and verification), in subsection (3)(b), after “Part 4 of that Act” insert “ , Part 1 of the Pensions Act 2014 ”.
 
-**15.**[^key-9aa7bb349f268bd22264eda98dbd7629] In section 124 (age, death and marriage), in subsection (1), after paragraph (ae) insert—
+**15.**[^c-9aa7bb349f268bd22264eda98dbd7629] In section 124 (age, death and marriage), in subsection (1), after paragraph (ae) insert—
 
 > - (af) of the provisions of Part 1 of the Pensions Act 2014; and
 
 .
 
-**16.**[^key-7cbef8f70cc16d14d36653d9ff468262] In section 125 (regulations as to notification of deaths), in subsection (1), after “Part 4 of that Act” insert “ , Part 1 of the Pensions Act 2014 ”.
+**16.**[^c-7cbef8f70cc16d14d36653d9ff468262] In section 125 (regulations as to notification of deaths), in subsection (1), after “Part 4 of that Act” insert “ , Part 1 of the Pensions Act 2014 ”.
 
-**17.**[^key-49a2f0e2b9e76e413a44f1a95832b95c] After section 148AB insert—
+**17.**[^c-49a2f0e2b9e76e413a44f1a95832b95c] After section 148AB insert—
 
 > **148AC. Revaluation for transitional pensions under Pensions Act 2014**
 >
@@ -135,19 +135,19 @@ Section 23
 >
 > (7) For the purposes of any review under this section the Secretary of State may estimate the general level of prices in such manner as the Secretary of State thinks fit.
 
-**18.**[^key-5518509959dee6540fbcc710ff61ffac] In section 150 (annual up-rating of benefits), in subsection (1), after paragraph (o) insert—
+**18.**[^c-5518509959dee6540fbcc710ff61ffac] In section 150 (annual up-rating of benefits), in subsection (1), after paragraph (o) insert—
 
 > - (p) which are the increases in the rates of state pensions under section 17 of the Pensions Act 2014;
 
 .
 
-**19.**[^key-211f0987b71f1a8d3b546fbed0318303] In section 150A (annual up-rating), in subsection (1), before paragraph (a) insert—
+**19.**[^c-211f0987b71f1a8d3b546fbed0318303] In section 150A (annual up-rating), in subsection (1), before paragraph (a) insert—
 
 > - (za) the amount specified in regulations under section 3(1) of the Pensions Act 2014 (full rate of state pension);
 
 .
 
-**20.**[^key-561b9eb8396a2166fec5804ee4ec55af] In section 151 (up-rating: supplementary), in subsection (2)—
+**20.**[^c-561b9eb8396a2166fec5804ee4ec55af] In section 151 (up-rating: supplementary), in subsection (2)—
 
 - (a) for “(dza) or (e)” substitute “ (dza), (e) or (p) ”;
 - (b) after “order and” insert
@@ -163,7 +163,7 @@ Section 23
   >
   > - (b) in the case of the sums mentioned in subsection (1)(p) of that section, shall apply only in relation to sums calculated under section 17 of the Pensions Act 2014 by reference to periods which have ended before the coming into force of the order.
 
-**21.**[^key-0dc13fbfb2a5e069a1841192deedd73f] After section 151 insert—
+**21.**[^c-0dc13fbfb2a5e069a1841192deedd73f] After section 151 insert—
 
 > **151A. Up-rating of transitional state pensions under Pensions Act 2014**
 >
@@ -188,7 +188,7 @@ Section 23
 >
 > (8) For the purposes of any review under this section the Secretary of State may estimate the general level of prices in such manner as the Secretary of State thinks fit.
 
-**22.**[^key-28eeb7721ca37782c4e57557ac87f3ba] (1) Section 155A (power to anticipate pensions up-rating order) is amended as follows.
+**22.**[^c-28eeb7721ca37782c4e57557ac87f3ba] (1) Section 155A (power to anticipate pensions up-rating order) is amended as follows.
 
 (2) In subsection (1)(a)—
 
@@ -197,7 +197,7 @@ Section 23
 
 (3) In subsection (2), after “an award is made of” insert “ a state pension, ”.
 
-**23.**[^key-717d540098973ab7025e3da4796a2c0a] (1) Section 163 (general financial arrangements) is amended as follows.
+**23.**[^c-717d540098973ab7025e3da4796a2c0a] (1) Section 163 (general financial arrangements) is amended as follows.
 
 (2) In subsection (1), before paragraph (a) insert—
 
@@ -209,7 +209,7 @@ Section 23
 
 (4) In subsection (3)(b), after “that Act” insert “ or Part 1 of the Pensions Act 2014 ”.
 
-**24.**[^key-a53203429c9c91a68afc856d148e96f4] In section 170 (Social Security Advisory Committee), in subsection (5)—
+**24.**[^c-a53203429c9c91a68afc856d148e96f4] In section 170 (Social Security Advisory Committee), in subsection (5)—
 
 - (a) in the definition of “the relevant enactments”, after paragraph (al) insert—
 
@@ -222,7 +222,7 @@ Section 23
 
   .
 
-**25.**[^key-68871f785d4c5cdd0173f649225222c0] (1) Section 179 (reciprocal agreements) is amended as follows.
+**25.**[^c-68871f785d4c5cdd0173f649225222c0] (1) Section 179 (reciprocal agreements) is amended as follows.
 
 (2) In subsection (3)(a), after “Part 4 of that Act” insert “ , Part 1 of the Pensions Act 2014 ”.
 
@@ -241,29 +241,29 @@ Section 23
 
   .
 
-**26.**[^key-93e408fd0d889fed196ba766358f099d] In section 187 (inalienability), in subsection (1), after paragraph (za) insert—
+**26.**[^c-93e408fd0d889fed196ba766358f099d] In section 187 (inalienability), in subsection (1), after paragraph (za) insert—
 
 > - (zb) state pension under Part 1 of the Pensions Act 2014;
 
 .
 
-**27.**[^key-3bb7e7fa7dca7e7124de34206487d551] In section 190 (parliamentary control of orders and regulations), in subsection (1)(a) after “150A,” insert “ 151A, ”.
+**27.**[^c-3bb7e7fa7dca7e7124de34206487d551] In section 190 (parliamentary control of orders and regulations), in subsection (1)(a) after “150A,” insert “ 151A, ”.
 
-**28.**[^key-555033dab705e22a5866ed0768ba4b54] In section 191 (interpretation), in the definition of “benefit”, after “universal credit,” insert “ state pension under Part 1 of the Pensions Act 2014, ”.
+**28.**[^c-555033dab705e22a5866ed0768ba4b54] In section 191 (interpretation), in the definition of “benefit”, after “universal credit,” insert “ state pension under Part 1 of the Pensions Act 2014, ”.
 
 #### Social Security Act 1993 (c. 3)
 
-**29.**[^key-58bbc3ca1809df6cb4eaad1eeeaf0dbe] In section 2 of the Social Security Act 1993 (payments into National Insurance Fund out of money provided by Parliament), in subsection (4)(a), after “paragraphs” insert “ (za), ”.
+**29.**[^c-58bbc3ca1809df6cb4eaad1eeeaf0dbe] In section 2 of the Social Security Act 1993 (payments into National Insurance Fund out of money provided by Parliament), in subsection (4)(a), after “paragraphs” insert “ (za), ”.
 
 #### Pensions Act 1995 (c. 26)
 
-**30.**[^key-d745673fa9c08e3c25ab567146566d24] In Schedule 4 to the Pensions Act 1995 (pensionable age), in paragraph 1, for “and Part 1 of the Welfare Reform Act 2007” substitute “ , Part 1 of the Welfare Reform Act 2007 and the Pensions Act 2014 ”.
+**30.**[^c-d745673fa9c08e3c25ab567146566d24] In Schedule 4 to the Pensions Act 1995 (pensionable age), in paragraph 1, for “and Part 1 of the Welfare Reform Act 2007” substitute “ , Part 1 of the Welfare Reform Act 2007 and the Pensions Act 2014 ”.
 
 #### Social Security Act 1998 (c. 14)
 
-**31.**[^key-a77b45ffcfe29066f5baed66cef27827] The Social Security Act 1998 is amended as follows.
+**31.**[^c-a77b45ffcfe29066f5baed66cef27827] The Social Security Act 1998 is amended as follows.
 
-**32.**[^key-2b200249bb443ce5c7407f32b97b48f1] In section 2 (use of computers), in subsection (2)—
+**32.**[^c-2b200249bb443ce5c7407f32b97b48f1] In section 2 (use of computers), in subsection (2)—
 
 - (a) in paragraph (k), omit the final “or”;
 - (b) after paragraph (l) insert—
@@ -272,7 +272,7 @@ Section 23
 
   .
 
-**33.**[^key-2e10b46c8fe9b1fbbb7d90f337346eb0] In section 8 (decisions by Secretary of State)—
+**33.**[^c-2e10b46c8fe9b1fbbb7d90f337346eb0] In section 8 (decisions by Secretary of State)—
 
 - (a) in subsection (3), after paragraph (aa) insert—
 
@@ -281,13 +281,13 @@ Section 23
   ;
 - (b) in subsection (4), for “or Part 4 of that Act” substitute “ , Part 4 of that Act or Part 1 of the Pensions Act 2014 ”.
 
-**34.**[^key-34d5bfa100fb30bab972d7399e0800c3] In section 11 (regulations with respect to decisions), in subsection (3), in the definition of “the current legislation”, for “and Part 4 of that Act” substitute “ , Part 4 of that Act and Part 1 of the Pensions Act 2014 ”.
+**34.**[^c-34d5bfa100fb30bab972d7399e0800c3] In section 11 (regulations with respect to decisions), in subsection (3), in the definition of “the current legislation”, for “and Part 4 of that Act” substitute “ , Part 4 of that Act and Part 1 of the Pensions Act 2014 ”.
 
-**35.**[^key-6d7913b926102733d068770f29a8dba1] In section 27 (restrictions on entitlement to benefit in certain cases of error), in subsection (7), in the definition of “benefit”, after paragraph (f) insert—
+**35.**[^c-6d7913b926102733d068770f29a8dba1] In section 27 (restrictions on entitlement to benefit in certain cases of error), in subsection (7), in the definition of “benefit”, after paragraph (f) insert—
 
 > (g) state pension or a lump sum under Part 1 of the Pensions Act 2014.
 
-**36.**[^key-455de5419fcfdf802b0b012f2c064212] In section 28 (correction of errors in decisions etc), in subsection (3)—
+**36.**[^c-455de5419fcfdf802b0b012f2c064212] In section 28 (correction of errors in decisions etc), in subsection (3)—
 
 - (a) in paragraph (h), omit the final “or”;
 - (b) after paragraph (i) insert
@@ -296,7 +296,7 @@ Section 23
   >
   > - (j) Part 1 of the Pensions Act 2014.
 
-**37.**[^key-cd1963ed7c359dc2954bda6cbbd32c62] In Schedule 3 (decisions against which an appeal lies), after paragraph 6B insert—
+**37.**[^c-cd1963ed7c359dc2954bda6cbbd32c62] In Schedule 3 (decisions against which an appeal lies), after paragraph 6B insert—
 
 > **State pension: prisoners and overseas residents**
 >
@@ -306,7 +306,7 @@ Section 23
 
 #### Child Support, Pensions and Social Security Act 2000 (c. 19)
 
-**38.**[^key-05a7308d3b378df15450dc3b59add007] (1) Section 42 of the Child Support, Pensions and Social Security Act 2000 (disclosure of state pension information) is amended as follows.
+**38.**[^c-05a7308d3b378df15450dc3b59add007] (1) Section 42 of the Child Support, Pensions and Social Security Act 2000 (disclosure of state pension information) is amended as follows.
 
 (2) In subsection (7), after paragraph (a) insert—
 
@@ -319,9 +319,9 @@ Section 23
 
 #### Social Security Fraud Act 2001 (c. 11)
 
-**39.**[^key-0a74bf6202885fffe07567ef19f787ae] The Social Security Fraud Act 2001 is amended as follows.
+**39.**[^c-0a74bf6202885fffe07567ef19f787ae] The Social Security Fraud Act 2001 is amended as follows.
 
-**40.**[^key-937fc3d88506150a216159483be8e60c] In section 6A (definitions), in subsection (1)—
+**40.**[^c-937fc3d88506150a216159483be8e60c] In section 6A (definitions), in subsection (1)—
 
 - (a) in the definition of “disqualifying benefit”, after paragraph (za) insert—
 
@@ -334,7 +334,7 @@ Section 23
 
   .
 
-**41.**[^key-247c37f2edae97381c554aaa2070d701] In section 10 (power to supplement and mitigate loss of benefit provisions), in subsection (3), after paragraph (be) insert—
+**41.**[^c-247c37f2edae97381c554aaa2070d701] In section 10 (power to supplement and mitigate loss of benefit provisions), in subsection (3), after paragraph (be) insert—
 
 > - (bf) state pension or a lump sum under Part 1 of the Pensions Act 2014 or under any provision in Northern Ireland which corresponds to that Part;
 
@@ -342,11 +342,11 @@ Section 23
 
 #### State Pension Credit Act 2002 (c. 16)
 
-**42.**[^key-e1ac0c258831bf531b4fc8ec3027d243] The State Pension Credit Act 2002 is amended as follows.
+**42.**[^c-e1ac0c258831bf531b4fc8ec3027d243] The State Pension Credit Act 2002 is amended as follows.
 
-**43.**[^key-b5c66bd44c1337a3b3f22be1e6af588c] In section 7 (fixing of claimant's retirement provision for assessed income period), in subsection (6)(a), after “benefit under” insert “ Part 1 of the Pensions Act 2014 or ”.
+**43.**[^c-b5c66bd44c1337a3b3f22be1e6af588c] In section 7 (fixing of claimant's retirement provision for assessed income period), in subsection (6)(a), after “benefit under” insert “ Part 1 of the Pensions Act 2014 or ”.
 
-**44.**[^key-9de6d43eed1df552e5c1d90bbcfbc2b9] In section 16 (meaning of “retirement pension income”), in subsection (1), before paragraph (a) insert—
+**44.**[^c-9de6d43eed1df552e5c1d90bbcfbc2b9] In section 16 (meaning of “retirement pension income”), in subsection (1), before paragraph (a) insert—
 
 > - (za) a state pension under Part 1 of the Pensions Act 2014 or under any provision in Northern Ireland which corresponds to that Part;
 
@@ -354,7 +354,7 @@ Section 23
 
 #### Income Tax (Earnings and Pensions) Act 2003 (c. 1)
 
-**45.**[^key-b6f72a915487bf47d98d8b66aa41b85d] In section 577 of the Income Tax (Earnings and Pensions) Act 2003 (United Kingdom social security pensions), in the definition of “state pension” in subsection (2), before paragraph (a) insert—
+**45.**[^c-b6f72a915487bf47d98d8b66aa41b85d] In section 577 of the Income Tax (Earnings and Pensions) Act 2003 (United Kingdom social security pensions), in the definition of “state pension” in subsection (2), before paragraph (a) insert—
 
 > (za) any provision of Part 1 of the Pensions Act 2014 or any corresponding provision under the law of Northern Ireland,
 
@@ -362,11 +362,11 @@ Section 23
 
 #### Gender Recognition Act 2004 (c. 7)
 
-**46.**[^key-1f50102eb8e0046745ec94e7d00786b4] The Gender Recognition Act 2004 is amended as follows.
+**46.**[^c-1f50102eb8e0046745ec94e7d00786b4] The Gender Recognition Act 2004 is amended as follows.
 
-**47.**[^key-6561d49fc27fee7f3b01edd14763d064] In section 23 of that Act (power to modify statutory provisions) “**enactment**” includes sections 11 and 12 of, and Schedules 6 and 7 to, this Act.
+**47.**[^c-6561d49fc27fee7f3b01edd14763d064] In section 23 of that Act (power to modify statutory provisions) “**enactment**” includes sections 11 and 12 of, and Schedules 6 and 7 to, this Act.
 
-**48.**[^key-e7c8b308943343cc8de893c4122e62a4] (1) Schedule 5 (benefits and pensions) is amended as follows.
+**48.**[^c-e7c8b308943343cc8de893c4122e62a4] (1) Schedule 5 (benefits and pensions) is amended as follows.
 
 (2) After paragraph 6 insert—
 
@@ -409,9 +409,9 @@ Section 23
 
 #### Finance (No. 2) Act 2005 (c. 22)
 
-**49.**[^key-1f9c166d55ff09579478b5c0a1fab7a3] The Finance (No. 2) Act 2005 is amended as follows.
+**49.**[^c-1f9c166d55ff09579478b5c0a1fab7a3] The Finance (No. 2) Act 2005 is amended as follows.
 
-**50.**[^key-1f9d52b7cc80b4dad3116e26a00a4d20] (1) Section 8 (meaning of “applicable year of assessment” in section 7) is amended as follows.
+**50.**[^c-1f9d52b7cc80b4dad3116e26a00a4d20] (1) Section 8 (meaning of “applicable year of assessment” in section 7) is amended as follows.
 
 (2) In subsection (3), for “subsection (4)” substitute “ subsections (4) and (4A) ”.
 
@@ -419,7 +419,7 @@ Section 23
 
 > (4A) In a case where the social security pension lump sum is a lump sum under section 8 of the Pensions Act 2014 or under any corresponding provision under the law of Northern Ireland, “**the first benefit payment day**” for the purposes of subsection (2) is the day as from which the lump sum becomes payable.
 
-**51.**[^key-ec4742476be5454b75be0e2960cd74a9] In section 9 (interpretation), in the definition of “state pension lump sum” in subsection (2), before paragraph (a) insert—
+**51.**[^c-ec4742476be5454b75be0e2960cd74a9] In section 9 (interpretation), in the definition of “state pension lump sum” in subsection (2), before paragraph (a) insert—
 
 > (za) section 8 of the Pensions Act 2014 or under any corresponding provision under the law of Northern Ireland,
 
@@ -427,13 +427,13 @@ Section 23
 
 #### Welfare Reform Act 2012 (c. 5)
 
-**52.**[^key-a0b169c2e141aef88f856ab5683d4c1e][^key-21dee6760a76987363fcc5103490f1a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-a0b169c2e141aef88f856ab5683d4c1e][^c-21dee6760a76987363fcc5103490f1a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Amendments to do with old state pension system
 
 #### Graduated retirement benefit
 
-**53.**[^key-a8b4c1d9213019eeab241af7cfffb5e4] (1) Section 36 of the National Insurance Act 1965 (graduated retirement benefit), so far as continuing in force, is amended as follows.
+**53.**[^c-a8b4c1d9213019eeab241af7cfffb5e4] (1) Section 36 of the National Insurance Act 1965 (graduated retirement benefit), so far as continuing in force, is amended as follows.
 
 (2) In subsection (7), for “has attained pensionable age” substitute “ attained pensionable age before 6 April 2016 ”.
 
@@ -441,15 +441,15 @@ Section 23
 
 #### Category A retirement pensions
 
-**54.**[^key-692edb5a929beacd3da95f4c4363d857] The Contributions and Benefits Act is amended as follows.
+**54.**[^c-692edb5a929beacd3da95f4c4363d857] The Contributions and Benefits Act is amended as follows.
 
-**55.**[^key-867b38c650a4d9bd3a1f880b1fd909a2] In section 44(1) (Category A retirement pensions), for paragraph (a) substitute—
+**55.**[^c-867b38c650a4d9bd3a1f880b1fd909a2] In section 44(1) (Category A retirement pensions), for paragraph (a) substitute—
 
 > - (a) the person attained pensionable age before 6 April 2016,
 
 .
 
-**56.**[^key-fddc08b9847069bb752ed5e1821040c2] (1) Section 48 (use of former spouse's contributions) is amended as follows.
+**56.**[^c-fddc08b9847069bb752ed5e1821040c2] (1) Section 48 (use of former spouse's contributions) is amended as follows.
 
 (2) In subsection (1), after “person” insert “ who attained pensionable age before 6 April 2016 ”.
 
@@ -459,13 +459,13 @@ Section 23
 
 #### Category B retirement pensions
 
-**57.**[^key-0b97feae4f3d03ad598b57445f97ae58] The Contributions and Benefits Act is amended as follows.
+**57.**[^c-0b97feae4f3d03ad598b57445f97ae58] The Contributions and Benefits Act is amended as follows.
 
-**58.**[^key-a0c2ad19889eec97217ba91c5249c4da] In section 23A (contributions credits for relevant parents and carers), in subsection (1)(b), after “section 48A” insert “ or 48AA ”.
+**58.**[^c-a0c2ad19889eec97217ba91c5249c4da] In section 23A (contributions credits for relevant parents and carers), in subsection (1)(b), after “section 48A” insert “ or 48AA ”.
 
-**59.**[^key-295926efe22f2aaf4281acaef2d45256] In section 46 (modification of section 45 for calculating additional pension in certain benefits), in subsection (2), omit “48A(4) or” (in both places).
+**59.**[^c-295926efe22f2aaf4281acaef2d45256] In section 46 (modification of section 45 for calculating additional pension in certain benefits), in subsection (2), omit “48A(4) or” (in both places).
 
-**60.**[^key-6e8dd879e02088b413707b325be6261f] For section 48A substitute—
+**60.**[^c-6e8dd879e02088b413707b325be6261f] For section 48A substitute—
 
 > **48A. Category B retirement pension for married person or civil partner**
 >
@@ -546,7 +546,7 @@ Section 23
 >
 > (9) Section 51ZA contains special rules for cases involving changes in gender.
 
-**61.**[^key-e4b08a102a570fc6bcc85e6b88b9a785] (1) Section 48B (Category B retirement pension for widows and widowers) is amended as follows.
+**61.**[^c-e4b08a102a570fc6bcc85e6b88b9a785] (1) Section 48B (Category B retirement pension for widows and widowers) is amended as follows.
 
 (2) For subsections (1) to (1A) substitute—
 
@@ -607,19 +607,19 @@ Section 23
 
 > (9) Section 51ZA contains special rules for cases involving changes in gender.
 
-**62.**[^key-c8638611fc00adb65968bf48c682f955] (1) Section 48BB (Category B retirement pension: entitlement by reference to widowed parent's allowance or bereavement allowance where no dependent children) is amended as follows.
+**62.**[^c-c8638611fc00adb65968bf48c682f955] (1) Section 48BB (Category B retirement pension: entitlement by reference to widowed parent's allowance or bereavement allowance where no dependent children) is amended as follows.
 
 (2) In subsection (1), for “who has attained pensionable age” substitute “ who attained pensionable age before 6 April 2016 ”.
 
 (3) In subsection (3), for “who has attained pensionable age” substitute “ who attained pensionable age before 6 April 2016 ”.
 
-**63.**[^key-2d407c685bebcbff16548c065dd10da0] (1) Section 48C (Category B retirement pension: general) is amended as follows.
+**63.**[^c-2d407c685bebcbff16548c065dd10da0] (1) Section 48C (Category B retirement pension: general) is amended as follows.
 
 (2) In subsection (3), for “sections 48A(4)(b) and” substitute “ section ”.
 
 (3) In subsection (4), omit “48A(4),”.
 
-**64.**[^key-d1b0dcfc1806adc88691e92560662816] For section 51 substitute—
+**64.**[^c-d1b0dcfc1806adc88691e92560662816] For section 51 substitute—
 
 > **51. Category B retirement pension for widows, widowers and surviving civil partners who attained pensionable age before 6 April 2010**
 >
@@ -666,7 +666,7 @@ Section 23
 >
 > (10) Section 51ZA contains special rules for cases involving changes in gender.
 
-**65.**[^key-81809db20068059046164d51fd1afc52] After section 51 insert—
+**65.**[^c-81809db20068059046164d51fd1afc52] After section 51 insert—
 
 > **51ZA. Special provision for married person whose spouse changed gender**
 >
@@ -692,9 +692,9 @@ Section 23
 > - (a) her dead spouse was, at the time of death, a woman by virtue of a full gender recognition certificate having been issued under the Gender Recognition Act 2004, and
 > - (b) the marriage subsisted before the time when that certificate was issued.
 
-**66.**[^key-d2bcb8ed942017981c530a8242298d1e] In section 52(3) (special provision for surviving spouses) for “prescribed maximum” substitute “ maximum amount specified in regulations ”.
+**66.**[^c-d2bcb8ed942017981c530a8242298d1e] In section 52(3) (special provision for surviving spouses) for “prescribed maximum” substitute “ maximum amount specified in regulations ”.
 
-**67.**[^key-9fe81eac6b8122a5853ae61e3de98309] (1) Schedule 3 (contribution conditions for entitlement to benefit) is amended as follows.
+**67.**[^c-9fe81eac6b8122a5853ae61e3de98309] (1) Schedule 3 (contribution conditions for entitlement to benefit) is amended as follows.
 
 (2) In paragraph 5, for sub-paragraph (1) substitute—
 
@@ -708,51 +708,51 @@ Section 23
 
 > - (b) a Category B retirement pension in the cases provided for by any of sections 48A to 51ZA.
 
-**68.**[^key-e3bfea44215c970f9b60141c83f868f1] In Part 1 of Schedule 4 (rates of certain benefits), in paragraph 5, for “section 48A(3)” substitute “ section 48A(4) or 48AA(4) ”.
+**68.**[^c-e3bfea44215c970f9b60141c83f868f1] In Part 1 of Schedule 4 (rates of certain benefits), in paragraph 5, for “section 48A(3)” substitute “ section 48A(4) or 48AA(4) ”.
 
-**69.**[^key-ad5b9ec9d26d6b7fb1e2c9b3056099e8] In Schedule 4A (additional pension: accrual rates for purposes of section 45(2)(c)), in paragraph 1(2), omit “, 48A(4)” (in both places).
+**69.**[^c-ad5b9ec9d26d6b7fb1e2c9b3056099e8] In Schedule 4A (additional pension: accrual rates for purposes of section 45(2)(c)), in paragraph 1(2), omit “, 48A(4)” (in both places).
 
-**70.**[^key-54cee1a94e587c346ac5b3b56c1813f6] In section 150 of the Administration Act (annual up-rating of benefits), in subsection (1), after paragraph (ab) insert—
+**70.**[^c-54cee1a94e587c346ac5b3b56c1813f6] In section 150 of the Administration Act (annual up-rating of benefits), in subsection (1), after paragraph (ab) insert—
 
 > - (ac) specified in regulations under section 52(3) of that Act;
 
 .
 
-**71.**[^key-cf394a374063a0b5ab4ac49ba19b5e86] In section 46 of the Pension Schemes Act 1993 (effect of entitlement to guaranteed minimum pensions on payment of social security benefits), in subsection (6)(b)(iii), omit “48A,”.
+**71.**[^c-cf394a374063a0b5ab4ac49ba19b5e86] In section 46 of the Pension Schemes Act 1993 (effect of entitlement to guaranteed minimum pensions on payment of social security benefits), in subsection (6)(b)(iii), omit “48A,”.
 
-**72.**[^key-cd7759667e103e89438ba7c7a0cfbe88] In section 128 of the Pensions Act 1995 (additional pension: calculation of surpluses), in subsection (6), omit “48A,”.
+**72.**[^c-cd7759667e103e89438ba7c7a0cfbe88] In section 128 of the Pensions Act 1995 (additional pension: calculation of surpluses), in subsection (6), omit “48A,”.
 
-**73.**[^key-7542ba27bd10b198628ca685b85a03fe] In Schedule 4 to the Pensions Act 1995 (equalisation of, and increase in, pensionable age for men and women), omit paragraph 3(2) and (3).
+**73.**[^c-7542ba27bd10b198628ca685b85a03fe] In Schedule 4 to the Pensions Act 1995 (equalisation of, and increase in, pensionable age for men and women), omit paragraph 3(2) and (3).
 
-**74.**[^key-2a605bc98490b3e249261e2c5760c1c7] In section 577 of the Income Tax (Earnings and Pensions) Act 2003 (United Kingdom social security pensions), in the definition of “state pension” in subsection (2)—
+**74.**[^c-2a605bc98490b3e249261e2c5760c1c7] In section 577 of the Income Tax (Earnings and Pensions) Act 2003 (United Kingdom social security pensions), in the definition of “state pension” in subsection (2)—
 
 - (a) in paragraph (a), after “48A,” insert “ 48AA, ”;
 - (b) in paragraph (b), after “1992” insert “ or any provision under the law of Northern Ireland that corresponds to section 48AA of SSCBA 1992 ”.
 
-**75.**[^key-057fa45d5587448c0544071fe8d81315] In Schedule 24 to the Civil Partnership Act 2004, omit paragraphs 25(6) and 28(6).
+**75.**[^c-057fa45d5587448c0544071fe8d81315] In Schedule 24 to the Civil Partnership Act 2004, omit paragraphs 25(6) and 28(6).
 
-**76.**[^key-aff7d77a11d7536f6b4c52e6b3fabc7f] In Schedule 5 to the Gender Recognition Act 2004 (benefits and pensions), in paragraph 8(1)(a) and (3), after “48A,” insert “ 48AA, ”.
+**76.**[^c-aff7d77a11d7536f6b4c52e6b3fabc7f] In Schedule 5 to the Gender Recognition Act 2004 (benefits and pensions), in paragraph 8(1)(a) and (3), after “48A,” insert “ 48AA, ”.
 
-**77.**[^key-a7bc02a031905be2cf7048c3ec6c56cd] In Schedule 4 to the Marriage (Same Sex Couples) Act 2013, omit paragraphs 11, 12, 13 and 16.
+**77.**[^c-a7bc02a031905be2cf7048c3ec6c56cd] In Schedule 4 to the Marriage (Same Sex Couples) Act 2013, omit paragraphs 11, 12, 13 and 16.
 
 #### Category C retirement pensions: repeal of spent provisions
 
-**78.**[^key-2c97da267afdfae3859ef4463ebb89ad] The Contributions and Benefits Act is amended as follows.
+**78.**[^c-2c97da267afdfae3859ef4463ebb89ad] The Contributions and Benefits Act is amended as follows.
 
-**79.**[^key-d6f302d06fe0ad832a88dbc3e41e4240] In section 63(f)(i) (descriptions of non-contributory benefits), for the words from “payable” to “widows” substitute “ payable in certain cases to a widow whose husband was over pensionable age on 5 July 1948 or to a woman whose marriage to a husband who was over pensionable age on that date was terminated otherwise than by his death ”.
+**79.**[^c-d6f302d06fe0ad832a88dbc3e41e4240] In section 63(f)(i) (descriptions of non-contributory benefits), for the words from “payable” to “widows” substitute “ payable in certain cases to a widow whose husband was over pensionable age on 5 July 1948 or to a woman whose marriage to a husband who was over pensionable age on that date was terminated otherwise than by his death ”.
 
-**80.**[^key-50b0cd6c48269d1cf88e49d446e68a60] (1) Section 78 (Category C retirement pensions etc) is amended as follows.
+**80.**[^c-50b0cd6c48269d1cf88e49d446e68a60] (1) Section 78 (Category C retirement pensions etc) is amended as follows.
 
 (2) Omit subsections (1), (2) and (5).
 
 (3) In subsections (7) and (8), omit “Category C or”.
 
-**81.**[^key-ff36b2deaa01b60e04ab80adf4efd12c] In Part 3 of Schedule 4 —
+**81.**[^c-ff36b2deaa01b60e04ab80adf4efd12c] In Part 3 of Schedule 4 —
 
 - (a) omit paragraph 6 (rate of Category C retirement pension);
 - (b) in paragraph 7 (rate of Category D retirement pension), for the text in the second column substitute the amount specified in paragraph 6 as the higher rate for a Category C retirement pension immediately before 6 April 2016.
 
-**82.**[^key-34c9e38b9159692e276ef6ffa5bda807] In section 150A of the Administration Act (annual up-rating), in subsection (10), in the definition of “the specified amounts in the case of Category B, C or D retirement pensions”—
+**82.**[^c-34c9e38b9159692e276ef6ffa5bda807] In section 150A of the Administration Act (annual up-rating), in subsection (10), in the definition of “the specified amounts in the case of Category B, C or D retirement pensions”—
 
 - (a) in paragraph (a), omit the final “and”;
 - (b) in paragraph (b), for “amounts specified in paragraphs 6 and 7” substitute “ amount specified in paragraph 7 ”;
@@ -764,19 +764,19 @@ Section 23
 
   .
 
-**83.**[^key-d08e89ec5f0fd93ae90fc8f338a72327] In Schedule 5 to the Gender Recognition Act 2004 (benefits and pensions) omit paragraph 11 and the heading above it.
+**83.**[^c-d08e89ec5f0fd93ae90fc8f338a72327] In Schedule 5 to the Gender Recognition Act 2004 (benefits and pensions) omit paragraph 11 and the heading above it.
 
 #### Category D retirement pensions
 
-**84.**[^key-b058913308cd088a2f9c48279599583a] In section 78(3) of the Contributions and Benefits Act (entitlement to a Category D retirement pension), for “and satisfies” substitute “ , who reached pensionable age before 6 April 2016 and who satisfies ”.
+**84.**[^c-b058913308cd088a2f9c48279599583a] In section 78(3) of the Contributions and Benefits Act (entitlement to a Category D retirement pension), for “and satisfies” substitute “ , who reached pensionable age before 6 April 2016 and who satisfies ”.
 
 #### Age addition
 
-**85.**[^key-e1622c91e0422df8d1a30f39bdbd878f] In sections 63(g) and 79(1) of the Contributions and Benefits Act (age addition), after “retirement pension of any category” insert “ under this Act ”.
+**85.**[^c-e1622c91e0422df8d1a30f39bdbd878f] In sections 63(g) and 79(1) of the Contributions and Benefits Act (age addition), after “retirement pension of any category” insert “ under this Act ”.
 
 #### Christmas bonus
 
-**86.**[^key-89b67c6f2b073178f88422cab6607070] In section 150(2) of the Contributions and Benefits Act (Christmas bonus: interpretation), for the definition of “retirement pension” substitute—
+**86.**[^c-89b67c6f2b073178f88422cab6607070] In section 150(2) of the Contributions and Benefits Act (Christmas bonus: interpretation), for the definition of “retirement pension” substitute—
 
 > “**retirement pension**” means—
 >
@@ -786,22 +786,22 @@ Section 23
 
 #### Transition: same sex marriages
 
-**87.**[^key-f5a7130f3ae416ceba660226e7235b73] (1) If marriage of same sex couples is not lawful under the law of Scotland when the amendments made by this Part of this Schedule come into force then, under the law of Scotland, references in the amendments to a married person do not include a person married to someone of the same sex; and related expressions (such as “spouse”) are to be read accordingly.
+**87.**[^c-f5a7130f3ae416ceba660226e7235b73] (1) If marriage of same sex couples is not lawful under the law of Scotland when the amendments made by this Part of this Schedule come into force then, under the law of Scotland, references in the amendments to a married person do not include a person married to someone of the same sex; and related expressions (such as “spouse”) are to be read accordingly.
 
 (2) See also Part 1 of Schedule 2 to the Marriage (Same Sex Couples) Act 2013 (power to provide for English and Welsh marriages of same sex couples to be treated in Scotland as civil partnerships).
 
 ### Part 3 — Amendments to do with state pension credit
 
-**88.**[^key-971537a780491256bb34fee0f5d5335a][^key-8ce729d5ccac5fd6b83ec7205f401543] The State Pension Credit Act 2002 is amended as follows.
+**88.**[^c-971537a780491256bb34fee0f5d5335a][^c-8ce729d5ccac5fd6b83ec7205f401543] The State Pension Credit Act 2002 is amended as follows.
 
-**89.**[^key-d02c89bb8661c5bb1588799685d0c5ab] In section 3 (savings credit), for subsection (1) substitute—
+**89.**[^c-d02c89bb8661c5bb1588799685d0c5ab] In section 3 (savings credit), for subsection (1) substitute—
 
 > (1) The first of the conditions mentioned in section 1(2)(c)(ii) is that the claimant—
 >
 > - (a) has attained pensionable age before 6 April 2016 and has attained the age of 65 (before, on or after that date), or
 > - (b) is a member of a couple, the other member of which falls within paragraph (a).
 
-**90.**[^key-c447d74c340bf59e4b187dde3b451b04] After that section insert—
+**90.**[^c-c447d74c340bf59e4b187dde3b451b04] After that section insert—
 
 > **3ZA. Power to limit savings credit for certain mixed-age couples**
 >
@@ -814,15 +814,15 @@ Section 23
 >
 > (3) In this section “**mixed-age couple**” means a couple (whenever formed) one member of which had attained pensionable age before 6 April 2016 and the other had not.
 
-**91.**[^key-d55ab74af931beecffa9e99af9dbfb81] In Schedule 1 to the Pensions Act 2007, omit paragraph 44.
+**91.**[^c-d55ab74af931beecffa9e99af9dbfb81] In Schedule 1 to the Pensions Act 2007, omit paragraph 44.
 
 ### Part 4 — Other amendments to do with Part 1
 
 #### Social Security Contributions and Benefits Act 1992 (c. 4)
 
-**92.**[^key-1cf8baedca2590416cbd1431ef411be9] The Contributions and Benefits Act is amended as follows.
+**92.**[^c-1cf8baedca2590416cbd1431ef411be9] The Contributions and Benefits Act is amended as follows.
 
-**93.**[^key-1a524c0561c14bf4bee85bb994658643] (1) Section 39C (rate of widowed parent's allowance and bereavement allowance) is amended as follows.
+**93.**[^c-1a524c0561c14bf4bee85bb994658643] (1) Section 39C (rate of widowed parent's allowance and bereavement allowance) is amended as follows.
 
 (2) In subsection (1), for the words from “45AA” to “as they apply” substitute “ 45AA and Schedules 4A and 4B below as they apply ”.
 
@@ -830,7 +830,7 @@ Section 23
 
 (4) In subsection (4), for the words from “45AA” to “below” substitute “ 45AA and Schedules 4A and 4B below ”.
 
-**94.**[^key-332d66db3e40e63651e2b1901f98d6d1] (1) Schedule 5 (pension increase or lump sum where entitlement to retirement pension is deferred) is amended as follows.
+**94.**[^c-332d66db3e40e63651e2b1901f98d6d1] (1) Schedule 5 (pension increase or lump sum where entitlement to retirement pension is deferred) is amended as follows.
 
 (2) In the following provisions omit “(as those provisions have effect by virtue of section 2(7) of the Pensions Act 2011)”—
 
@@ -892,11 +892,11 @@ Section 23
 
 #### Pension Schemes Act 1993 (c. 48)
 
-**95.**[^key-6fa196fcf5a39095ecb20f060dbacac2] Section 46A of the Pension Schemes Act 1993 (retirement in tax year after 5 April 2020) is repealed.
+**95.**[^c-6fa196fcf5a39095ecb20f060dbacac2] Section 46A of the Pension Schemes Act 1993 (retirement in tax year after 5 April 2020) is repealed.
 
 #### Pensions Act 2008 (c. 30)
 
-**96.**[^key-82016cc8a2bba29ef9bd31af9e0d1214] In the Pensions Act 2008, the following are repealed—
+**96.**[^c-82016cc8a2bba29ef9bd31af9e0d1214] In the Pensions Act 2008, the following are repealed—
 
 - (a) sections 102 and 103 (consolidation of additional pension);
 - (b) Schedule 3 (consolidation of additional pension);
@@ -911,217 +911,217 @@ Section 23
 
 #### Pensions Act 2011 (c. 19)
 
-**97.**[^key-2c3e17e4a26693c9af5417ad11f3f205] In the Pensions Act 2011, the following are repealed—
+**97.**[^c-2c3e17e4a26693c9af5417ad11f3f205] In the Pensions Act 2011, the following are repealed—
 
 - (a) section 2(5) to (9) and Schedule 2 (abolition of certain additions to the state pension);
-- (b)[^key-b0d54cf091e52e358565481b0d959b70] section 3 and Schedule 3 (consolidation of additional pension).
+- (b)[^c-b0d54cf091e52e358565481b0d959b70] section 3 and Schedule 3 (consolidation of additional pension).
 
 ## Annotations
 
-[^key-9a60b4fce23c6b9fb8e7eae571546356]: Commencement: Sch. 12 para. 1 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9a60b4fce23c6b9fb8e7eae571546356]: Commencement: Sch. 12 para. 1 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-ada981d5eecc38acd7bbcf0dc25d1092]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/2) in force at 15.1.2016 for specified purposes by [S.I. 2015/2058](https://www.legislation.gov.uk/uksi/2015/2058), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/2058/article/2/a)
+[^c-ada981d5eecc38acd7bbcf0dc25d1092]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/2) in force at 15.1.2016 for specified purposes by [S.I. 2015/2058](https://www.legislation.gov.uk/uksi/2015/2058), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/2058/article/2/a)
 
-[^key-69aaea3a7134a393106d3db276b6ef1b]: Commencement: Sch. 12 para. 2 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-69aaea3a7134a393106d3db276b6ef1b]: Commencement: Sch. 12 para. 2 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
 
-[^key-2f4d7f420734335a604378df9be101ab]: Commencement: Sch. 12 para. 3 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2f4d7f420734335a604378df9be101ab]: Commencement: Sch. 12 para. 3 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-4e38d713acd662f7a808273f5ded1d47]: Commencement: Sch. 12 para. 4 in force at 6.4.2016, see s. 56(1)(4)
+[^c-4e38d713acd662f7a808273f5ded1d47]: Commencement: Sch. 12 para. 4 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-62893c1def067ec599dad9ebe82f3acf]: Commencement: Sch. 12 para. 5 in force at 6.4.2016, see s. 56(1)(4)
+[^c-62893c1def067ec599dad9ebe82f3acf]: Commencement: Sch. 12 para. 5 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-83cf21210184e93ac931226dfbf38e0b]: Commencement: Sch. 12 para. 6 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-83cf21210184e93ac931226dfbf38e0b]: Commencement: Sch. 12 para. 6 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
 
-[^key-8c2fa67f924bbe73c672626843787b84]: Commencement: [Sch. 12 para. 6(1)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/6/1) in force at 15.1.2016 for specified purposes by [S.I. 2015/2058](https://www.legislation.gov.uk/uksi/2015/2058), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/2058/article/2/a)
+[^c-8c2fa67f924bbe73c672626843787b84]: Commencement: [Sch. 12 para. 6(1)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/6/1) in force at 15.1.2016 for specified purposes by [S.I. 2015/2058](https://www.legislation.gov.uk/uksi/2015/2058), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/2058/article/2/a)
 
-[^key-631b277b2ce94cb9087d44ff1adc7b18]: Commencement: [Sch. 12 para. 6(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/6/3) in force at 15.1.2016 for specified purposes by [S.I. 2015/2058](https://www.legislation.gov.uk/uksi/2015/2058), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/2058/article/2/b)
+[^c-631b277b2ce94cb9087d44ff1adc7b18]: Commencement: [Sch. 12 para. 6(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/6/3) in force at 15.1.2016 for specified purposes by [S.I. 2015/2058](https://www.legislation.gov.uk/uksi/2015/2058), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/2058/article/2/b)
 
-[^key-9127be4f7e718077222d02f155793d89]: Commencement: Sch. 12 para. 7 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9127be4f7e718077222d02f155793d89]: Commencement: Sch. 12 para. 7 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-86d20d85247212b88bc8454ade2094c0]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/8) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/a)
+[^c-86d20d85247212b88bc8454ade2094c0]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/8) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/a)
 
-[^key-c5579333400b28d947546456caf163d2]: Commencement: Sch. 12 para. 8 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-c5579333400b28d947546456caf163d2]: Commencement: Sch. 12 para. 8 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
 
-[^key-eb7409b7dfad7b62f7a6b9f8e231167e]: Commencement: Sch. 12 para. 9 in force at 6.4.2016, see s. 56(1)(4)
+[^c-eb7409b7dfad7b62f7a6b9f8e231167e]: Commencement: Sch. 12 para. 9 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d4417bbdc89d00dffb35e6384e500883]: Commencement: Sch. 12 para. 10 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d4417bbdc89d00dffb35e6384e500883]: Commencement: Sch. 12 para. 10 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-f1216d69ab53aa9550bfeaf1d4aad354]: Commencement: Sch. 12 para. 11 in force at 6.4.2016, see s. 56(1)(4)
+[^c-f1216d69ab53aa9550bfeaf1d4aad354]: Commencement: Sch. 12 para. 11 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-7c1599f35649b421685677c506315257]: Commencement: Sch. 12 para. 12 in force at 6.4.2016, see s. 56(1)(4)
+[^c-7c1599f35649b421685677c506315257]: Commencement: Sch. 12 para. 12 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-883dfd14a91d1b89338ef6d65bd091a8]: Commencement: Sch. 12 para. 13 in force at 6.4.2016, see s. 56(1)(4)
+[^c-883dfd14a91d1b89338ef6d65bd091a8]: Commencement: Sch. 12 para. 13 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-89d85519b6731e7a48958e8c7a192518]: Commencement: Sch. 12 para. 14 in force at 6.4.2016, see s. 56(1)(4)
+[^c-89d85519b6731e7a48958e8c7a192518]: Commencement: Sch. 12 para. 14 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-9aa7bb349f268bd22264eda98dbd7629]: Commencement: Sch. 12 para. 15 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9aa7bb349f268bd22264eda98dbd7629]: Commencement: Sch. 12 para. 15 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-7cbef8f70cc16d14d36653d9ff468262]: Commencement: Sch. 12 para. 16 in force at 6.4.2016, see s. 56(1)(4)
+[^c-7cbef8f70cc16d14d36653d9ff468262]: Commencement: Sch. 12 para. 16 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-49a2f0e2b9e76e413a44f1a95832b95c]: Commencement: Sch. 12 para. 17 in force at 6.4.2016, see s. 56(1)(4)
+[^c-49a2f0e2b9e76e413a44f1a95832b95c]: Commencement: Sch. 12 para. 17 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-5518509959dee6540fbcc710ff61ffac]: Commencement: Sch. 12 para. 18 in force at 6.4.2016, see s. 56(1)(4)
+[^c-5518509959dee6540fbcc710ff61ffac]: Commencement: Sch. 12 para. 18 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-211f0987b71f1a8d3b546fbed0318303]: Commencement: Sch. 12 para. 19 in force at 6.4.2016, see s. 56(1)(4)
+[^c-211f0987b71f1a8d3b546fbed0318303]: Commencement: Sch. 12 para. 19 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-561b9eb8396a2166fec5804ee4ec55af]: Commencement: Sch. 12 para. 20 in force at 6.4.2016, see s. 56(1)(4)
+[^c-561b9eb8396a2166fec5804ee4ec55af]: Commencement: Sch. 12 para. 20 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-0dc13fbfb2a5e069a1841192deedd73f]: Commencement: Sch. 12 para. 21 in force at 6.4.2016, see s. 56(1)(4)
+[^c-0dc13fbfb2a5e069a1841192deedd73f]: Commencement: Sch. 12 para. 21 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-28eeb7721ca37782c4e57557ac87f3ba]: Commencement: Sch. 12 para. 22 in force at 6.4.2016, see s. 56(1)(4)
+[^c-28eeb7721ca37782c4e57557ac87f3ba]: Commencement: Sch. 12 para. 22 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-717d540098973ab7025e3da4796a2c0a]: Commencement: Sch. 12 para. 23 in force at 6.4.2016, see s. 56(1)(4)
+[^c-717d540098973ab7025e3da4796a2c0a]: Commencement: Sch. 12 para. 23 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a53203429c9c91a68afc856d148e96f4]: Commencement: Sch. 12 para. 24 in force at 6.4.2016, see s. 56(1)(4)
+[^c-a53203429c9c91a68afc856d148e96f4]: Commencement: Sch. 12 para. 24 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-68871f785d4c5cdd0173f649225222c0]: Commencement: [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/25) in force at 7.7.2015 by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/c)
+[^c-68871f785d4c5cdd0173f649225222c0]: Commencement: [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/25) in force at 7.7.2015 by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/c)
 
-[^key-93e408fd0d889fed196ba766358f099d]: Commencement: Sch. 12 para. 26 in force at 6.4.2016, see s. 56(1)(4)
+[^c-93e408fd0d889fed196ba766358f099d]: Commencement: Sch. 12 para. 26 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-3bb7e7fa7dca7e7124de34206487d551]: Commencement: Sch. 12 para. 27 in force at 6.4.2016, see s. 56(1)(4)
+[^c-3bb7e7fa7dca7e7124de34206487d551]: Commencement: Sch. 12 para. 27 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-555033dab705e22a5866ed0768ba4b54]: Commencement: Sch. 12 para. 28 in force at 6.4.2016, see s. 56(1)(4)
+[^c-555033dab705e22a5866ed0768ba4b54]: Commencement: Sch. 12 para. 28 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-58bbc3ca1809df6cb4eaad1eeeaf0dbe]: Commencement: Sch. 12 para. 29 in force at 6.4.2016, see s. 56(1)(4)
+[^c-58bbc3ca1809df6cb4eaad1eeeaf0dbe]: Commencement: Sch. 12 para. 29 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d745673fa9c08e3c25ab567146566d24]: Commencement: Sch. 12 para. 30 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d745673fa9c08e3c25ab567146566d24]: Commencement: Sch. 12 para. 30 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a77b45ffcfe29066f5baed66cef27827]: Commencement: Sch. 12 para. 31 in force at 6.4.2016, see s. 56(1)(4)
+[^c-a77b45ffcfe29066f5baed66cef27827]: Commencement: Sch. 12 para. 31 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2b200249bb443ce5c7407f32b97b48f1]: Commencement: Sch. 12 para. 32 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2b200249bb443ce5c7407f32b97b48f1]: Commencement: Sch. 12 para. 32 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2e10b46c8fe9b1fbbb7d90f337346eb0]: Commencement: Sch. 12 para. 33 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2e10b46c8fe9b1fbbb7d90f337346eb0]: Commencement: Sch. 12 para. 33 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-34d5bfa100fb30bab972d7399e0800c3]: Commencement: Sch. 12 para. 34 in force at 6.4.2016, see s. 56(1)(4)
+[^c-34d5bfa100fb30bab972d7399e0800c3]: Commencement: Sch. 12 para. 34 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-6d7913b926102733d068770f29a8dba1]: Commencement: Sch. 12 para. 35 in force at 6.4.2016, see s. 56(1)(4)
+[^c-6d7913b926102733d068770f29a8dba1]: Commencement: Sch. 12 para. 35 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-455de5419fcfdf802b0b012f2c064212]: Commencement: Sch. 12 para. 36 in force at 6.4.2016, see s. 56(1)(4)
+[^c-455de5419fcfdf802b0b012f2c064212]: Commencement: Sch. 12 para. 36 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-cd1963ed7c359dc2954bda6cbbd32c62]: Commencement: Sch. 12 para. 37 in force at 6.4.2016, see s. 56(1)(4)
+[^c-cd1963ed7c359dc2954bda6cbbd32c62]: Commencement: Sch. 12 para. 37 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-05a7308d3b378df15450dc3b59add007]: Commencement: Sch. 12 para. 38 in force at 6.4.2016, see s. 56(1)(4)
+[^c-05a7308d3b378df15450dc3b59add007]: Commencement: Sch. 12 para. 38 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-0a74bf6202885fffe07567ef19f787ae]: Commencement: Sch. 12 para. 39 in force at 6.4.2016, see s. 56(1)(4)
+[^c-0a74bf6202885fffe07567ef19f787ae]: Commencement: Sch. 12 para. 39 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-937fc3d88506150a216159483be8e60c]: Commencement: Sch. 12 para. 40 in force at 6.4.2016, see s. 56(1)(4)
+[^c-937fc3d88506150a216159483be8e60c]: Commencement: Sch. 12 para. 40 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-247c37f2edae97381c554aaa2070d701]: Commencement: Sch. 12 para. 41 in force at 6.4.2016, see s. 56(1)(4)
+[^c-247c37f2edae97381c554aaa2070d701]: Commencement: Sch. 12 para. 41 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e1ac0c258831bf531b4fc8ec3027d243]: Commencement: Sch. 12 para. 42 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e1ac0c258831bf531b4fc8ec3027d243]: Commencement: Sch. 12 para. 42 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-b5c66bd44c1337a3b3f22be1e6af588c]: Commencement: Sch. 12 para. 43 in force at 6.4.2016, see s. 56(1)(4)
+[^c-b5c66bd44c1337a3b3f22be1e6af588c]: Commencement: Sch. 12 para. 43 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-9de6d43eed1df552e5c1d90bbcfbc2b9]: Commencement: Sch. 12 para. 44 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9de6d43eed1df552e5c1d90bbcfbc2b9]: Commencement: Sch. 12 para. 44 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-b6f72a915487bf47d98d8b66aa41b85d]: Commencement: Sch. 12 para. 45 in force at 6.4.2016, see s. 56(1)(4)
+[^c-b6f72a915487bf47d98d8b66aa41b85d]: Commencement: Sch. 12 para. 45 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-1f50102eb8e0046745ec94e7d00786b4]: Commencement: Sch. 12 para. 46 in force at 6.4.2016, see s. 56(1)(4)
+[^c-1f50102eb8e0046745ec94e7d00786b4]: Commencement: Sch. 12 para. 46 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-6561d49fc27fee7f3b01edd14763d064]: Commencement: Sch. 12 para. 47 in force at 6.4.2016, see s. 56(1)(4)
+[^c-6561d49fc27fee7f3b01edd14763d064]: Commencement: Sch. 12 para. 47 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e7c8b308943343cc8de893c4122e62a4]: Commencement: Sch. 12 para. 48 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e7c8b308943343cc8de893c4122e62a4]: Commencement: Sch. 12 para. 48 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-1f9c166d55ff09579478b5c0a1fab7a3]: Commencement: Sch. 12 para. 49 in force at 6.4.2016, see s. 56(1)(4)
+[^c-1f9c166d55ff09579478b5c0a1fab7a3]: Commencement: Sch. 12 para. 49 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-1f9d52b7cc80b4dad3116e26a00a4d20]: Commencement: Sch. 12 para. 50 in force at 6.4.2016, see s. 56(1)(4)
+[^c-1f9d52b7cc80b4dad3116e26a00a4d20]: Commencement: Sch. 12 para. 50 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-ec4742476be5454b75be0e2960cd74a9]: Commencement: Sch. 12 para. 51 in force at 6.4.2016, see s. 56(1)(4)
+[^c-ec4742476be5454b75be0e2960cd74a9]: Commencement: Sch. 12 para. 51 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a0b169c2e141aef88f856ab5683d4c1e]: Textual amendment: [Sch. 12 para. 52](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/52) omitted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(7)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/7), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
+[^c-a0b169c2e141aef88f856ab5683d4c1e]: Textual amendment: [Sch. 12 para. 52](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/52) omitted (16.3.2016 for specified purposes, 7.11.2016 in so far as not already in force) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 8(7)](https://www.legislation.gov.uk/ukpga/2016/7/section/8/7), [36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3); [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
 
-[^key-21dee6760a76987363fcc5103490f1a6]: Commencement: Sch. 12 para. 52 in force at 6.4.2016, see s. 56(1)(4)
+[^c-21dee6760a76987363fcc5103490f1a6]: Commencement: Sch. 12 para. 52 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a8b4c1d9213019eeab241af7cfffb5e4]: Commencement: Sch. 12 para. 53 in force at 6.4.2016, see s. 56(1)(4)
+[^c-a8b4c1d9213019eeab241af7cfffb5e4]: Commencement: Sch. 12 para. 53 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-692edb5a929beacd3da95f4c4363d857]: Commencement: Sch. 12 para. 54 in force at 6.4.2016, see s. 56(1)(4)
+[^c-692edb5a929beacd3da95f4c4363d857]: Commencement: Sch. 12 para. 54 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-867b38c650a4d9bd3a1f880b1fd909a2]: Commencement: Sch. 12 para. 55 in force at 6.4.2016, see s. 56(1)(4)
+[^c-867b38c650a4d9bd3a1f880b1fd909a2]: Commencement: Sch. 12 para. 55 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-fddc08b9847069bb752ed5e1821040c2]: Commencement: Sch. 12 para. 56 in force at 6.4.2016, see s. 56(1)(4)
+[^c-fddc08b9847069bb752ed5e1821040c2]: Commencement: Sch. 12 para. 56 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-0b97feae4f3d03ad598b57445f97ae58]: Commencement: Sch. 12 para. 57 in force at 6.4.2016, see s. 56(1)(4)
+[^c-0b97feae4f3d03ad598b57445f97ae58]: Commencement: Sch. 12 para. 57 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a0c2ad19889eec97217ba91c5249c4da]: Commencement: Sch. 12 para. 58 in force at 6.4.2016, see s. 56(1)(4)
+[^c-a0c2ad19889eec97217ba91c5249c4da]: Commencement: Sch. 12 para. 58 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-295926efe22f2aaf4281acaef2d45256]: Commencement: Sch. 12 para. 59 in force at 6.4.2016, see s. 56(1)(4)
+[^c-295926efe22f2aaf4281acaef2d45256]: Commencement: Sch. 12 para. 59 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-6e8dd879e02088b413707b325be6261f]: Commencement: Sch. 12 para. 60 in force at 6.4.2016, see s. 56(1)(4)
+[^c-6e8dd879e02088b413707b325be6261f]: Commencement: Sch. 12 para. 60 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e4b08a102a570fc6bcc85e6b88b9a785]: Commencement: Sch. 12 para. 61 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e4b08a102a570fc6bcc85e6b88b9a785]: Commencement: Sch. 12 para. 61 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-c8638611fc00adb65968bf48c682f955]: Commencement: Sch. 12 para. 62 in force at 6.4.2016, see s. 56(1)(4)
+[^c-c8638611fc00adb65968bf48c682f955]: Commencement: Sch. 12 para. 62 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2d407c685bebcbff16548c065dd10da0]: Commencement: Sch. 12 para. 63 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2d407c685bebcbff16548c065dd10da0]: Commencement: Sch. 12 para. 63 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d1b0dcfc1806adc88691e92560662816]: Commencement: Sch. 12 para. 64 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d1b0dcfc1806adc88691e92560662816]: Commencement: Sch. 12 para. 64 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-81809db20068059046164d51fd1afc52]: Commencement: Sch. 12 para. 65 in force at 6.4.2016, see s. 56(1)(4)
+[^c-81809db20068059046164d51fd1afc52]: Commencement: Sch. 12 para. 65 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d2bcb8ed942017981c530a8242298d1e]: Commencement: Sch. 12 para. 66 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d2bcb8ed942017981c530a8242298d1e]: Commencement: Sch. 12 para. 66 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-9fe81eac6b8122a5853ae61e3de98309]: Commencement: Sch. 12 para. 67 in force at 6.4.2016, see s. 56(1)(4)
+[^c-9fe81eac6b8122a5853ae61e3de98309]: Commencement: Sch. 12 para. 67 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e3bfea44215c970f9b60141c83f868f1]: Commencement: Sch. 12 para. 68 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e3bfea44215c970f9b60141c83f868f1]: Commencement: Sch. 12 para. 68 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-ad5b9ec9d26d6b7fb1e2c9b3056099e8]: Commencement: Sch. 12 para. 69 in force at 6.4.2016, see s. 56(1)(4)
+[^c-ad5b9ec9d26d6b7fb1e2c9b3056099e8]: Commencement: Sch. 12 para. 69 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-54cee1a94e587c346ac5b3b56c1813f6]: Commencement: Sch. 12 para. 70 in force at 6.4.2016, see s. 56(1)(4)
+[^c-54cee1a94e587c346ac5b3b56c1813f6]: Commencement: Sch. 12 para. 70 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-cf394a374063a0b5ab4ac49ba19b5e86]: Commencement: Sch. 12 para. 71 in force at 6.4.2016, see s. 56(1)(4)
+[^c-cf394a374063a0b5ab4ac49ba19b5e86]: Commencement: Sch. 12 para. 71 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-cd7759667e103e89438ba7c7a0cfbe88]: Commencement: Sch. 12 para. 72 in force at 6.4.2016, see s. 56(1)(4)
+[^c-cd7759667e103e89438ba7c7a0cfbe88]: Commencement: Sch. 12 para. 72 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-7542ba27bd10b198628ca685b85a03fe]: Commencement: Sch. 12 para. 73 in force at 6.4.2016, see s. 56(1)(4)
+[^c-7542ba27bd10b198628ca685b85a03fe]: Commencement: Sch. 12 para. 73 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2a605bc98490b3e249261e2c5760c1c7]: Commencement: Sch. 12 para. 74 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2a605bc98490b3e249261e2c5760c1c7]: Commencement: Sch. 12 para. 74 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-057fa45d5587448c0544071fe8d81315]: Commencement: Sch. 12 para. 75 in force at 6.4.2016, see s. 56(1)(4)
+[^c-057fa45d5587448c0544071fe8d81315]: Commencement: Sch. 12 para. 75 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-aff7d77a11d7536f6b4c52e6b3fabc7f]: Commencement: Sch. 12 para. 76 in force at 6.4.2016, see s. 56(1)(4)
+[^c-aff7d77a11d7536f6b4c52e6b3fabc7f]: Commencement: Sch. 12 para. 76 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-a7bc02a031905be2cf7048c3ec6c56cd]: Commencement: Sch. 12 para. 77 in force at 6.4.2016, see s. 56(1)(4)
+[^c-a7bc02a031905be2cf7048c3ec6c56cd]: Commencement: Sch. 12 para. 77 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2c97da267afdfae3859ef4463ebb89ad]: Commencement: Sch. 12 para. 78 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2c97da267afdfae3859ef4463ebb89ad]: Commencement: Sch. 12 para. 78 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d6f302d06fe0ad832a88dbc3e41e4240]: Commencement: Sch. 12 para. 79 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d6f302d06fe0ad832a88dbc3e41e4240]: Commencement: Sch. 12 para. 79 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-50b0cd6c48269d1cf88e49d446e68a60]: Commencement: Sch. 12 para. 80 in force at 6.4.2016, see s. 56(1)(4)
+[^c-50b0cd6c48269d1cf88e49d446e68a60]: Commencement: Sch. 12 para. 80 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-ff36b2deaa01b60e04ab80adf4efd12c]: Commencement: Sch. 12 para. 81 in force at 6.4.2016, see s. 56(1)(4)
+[^c-ff36b2deaa01b60e04ab80adf4efd12c]: Commencement: Sch. 12 para. 81 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-34c9e38b9159692e276ef6ffa5bda807]: Commencement: Sch. 12 para. 82 in force at 6.4.2016, see s. 56(1)(4)
+[^c-34c9e38b9159692e276ef6ffa5bda807]: Commencement: Sch. 12 para. 82 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d08e89ec5f0fd93ae90fc8f338a72327]: Commencement: Sch. 12 para. 83 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d08e89ec5f0fd93ae90fc8f338a72327]: Commencement: Sch. 12 para. 83 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-b058913308cd088a2f9c48279599583a]: Commencement: Sch. 12 para. 84 in force at 6.4.2016, see s. 56(1)(4)
+[^c-b058913308cd088a2f9c48279599583a]: Commencement: Sch. 12 para. 84 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e1622c91e0422df8d1a30f39bdbd878f]: Commencement: Sch. 12 para. 85 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e1622c91e0422df8d1a30f39bdbd878f]: Commencement: Sch. 12 para. 85 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-89b67c6f2b073178f88422cab6607070]: Commencement: Sch. 12 para. 86 in force at 6.4.2016, see s. 56(1)(4)
+[^c-89b67c6f2b073178f88422cab6607070]: Commencement: Sch. 12 para. 86 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-f5a7130f3ae416ceba660226e7235b73]: Commencement: Sch. 12 para. 87 in force at 6.4.2016, see s. 56(1)(4)
+[^c-f5a7130f3ae416ceba660226e7235b73]: Commencement: Sch. 12 para. 87 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-971537a780491256bb34fee0f5d5335a]: Commencement: [Sch. 12 para. 88](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/88) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/a)
+[^c-971537a780491256bb34fee0f5d5335a]: Commencement: [Sch. 12 para. 88](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/88) in force at 7.7.2015 for specified purposes by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/a)
 
-[^key-8ce729d5ccac5fd6b83ec7205f401543]: Commencement: Sch. 12 para. 88 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-8ce729d5ccac5fd6b83ec7205f401543]: Commencement: Sch. 12 para. 88 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
 
-[^key-d02c89bb8661c5bb1588799685d0c5ab]: Commencement: Sch. 12 para. 89 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d02c89bb8661c5bb1588799685d0c5ab]: Commencement: Sch. 12 para. 89 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-c447d74c340bf59e4b187dde3b451b04]: Commencement: [Sch. 12 para. 90](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/90) in force at 7.7.2015 by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/d)
+[^c-c447d74c340bf59e4b187dde3b451b04]: Commencement: [Sch. 12 para. 90](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/90) in force at 7.7.2015 by [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2015/1475/article/2/2/d)
 
-[^key-d55ab74af931beecffa9e99af9dbfb81]: Commencement: Sch. 12 para. 91 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d55ab74af931beecffa9e99af9dbfb81]: Commencement: Sch. 12 para. 91 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-1cf8baedca2590416cbd1431ef411be9]: Commencement: Sch. 12 para. 92 in force at 6.4.2016, see s. 56(1)(4)
+[^c-1cf8baedca2590416cbd1431ef411be9]: Commencement: Sch. 12 para. 92 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-1a524c0561c14bf4bee85bb994658643]: Commencement: Sch. 12 para. 93 in force at 6.4.2016, see s. 56(1)(4)
+[^c-1a524c0561c14bf4bee85bb994658643]: Commencement: Sch. 12 para. 93 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-332d66db3e40e63651e2b1901f98d6d1]: Commencement: Sch. 12 para. 94 in force at 6.4.2016, see s. 56(1)(4)
+[^c-332d66db3e40e63651e2b1901f98d6d1]: Commencement: Sch. 12 para. 94 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-6fa196fcf5a39095ecb20f060dbacac2]: Commencement: Sch. 12 para. 95 in force at 6.4.2016, see s. 56(1)(4)
+[^c-6fa196fcf5a39095ecb20f060dbacac2]: Commencement: Sch. 12 para. 95 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-82016cc8a2bba29ef9bd31af9e0d1214]: Commencement: [Sch. 12 para. 96](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/96) in force at 1.10.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/ii)[(3)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/3/c)
+[^c-82016cc8a2bba29ef9bd31af9e0d1214]: Commencement: [Sch. 12 para. 96](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/96) in force at 1.10.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/ii)[(3)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/3/c)
 
-[^key-2c3e17e4a26693c9af5417ad11f3f205]: Commencement: Sch. 12 para. 97 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-2c3e17e4a26693c9af5417ad11f3f205]: Commencement: Sch. 12 para. 97 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
 
-[^key-b0d54cf091e52e358565481b0d959b70]: Commencement: [Sch. 12 para. 97(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/97/b) in force at 1.10.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/ii)[(3)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/3/c)
+[^c-b0d54cf091e52e358565481b0d959b70]: Commencement: [Sch. 12 para. 97(b)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/97/b) in force at 1.10.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/ii)[(3)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/3/c)

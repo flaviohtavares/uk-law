@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Government investment in securities of the companies.[^key-a4f46df58ba8d9af0381eee95c09c2ab]
+## 72. Government investment in securities of the companies.[^c-a4f46df58ba8d9af0381eee95c09c2ab]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4f46df58ba8d9af0381eee95c09c2ab]: Textual amendment: S. 72 repealed (8.5.2003) by [Electricity (Miscellaneous Provisions) Act 2003 (c. 9)](https://www.legislation.gov.uk/ukpga/2003/9), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2003/9/section/2/1)
+[^c-a4f46df58ba8d9af0381eee95c09c2ab]: Textual amendment: S. 72 repealed (8.5.2003) by [Electricity (Miscellaneous Provisions) Act 2003 (c. 9)](https://www.legislation.gov.uk/ukpga/2003/9), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2003/9/section/2/1)

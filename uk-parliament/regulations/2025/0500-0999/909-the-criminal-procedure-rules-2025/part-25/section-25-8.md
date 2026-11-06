@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.8. Objecting to jurors[^key-2035f8ffac52218abfc226d299df48d8]
+## 25.8. Objecting to jurors[^c-2035f8ffac52218abfc226d299df48d8]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2035f8ffac52218abfc226d299df48d8]: Commencement: [Rule 25.8](https://www.legislation.gov.uk/uksi/2025/909/rule/25.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2035f8ffac52218abfc226d299df48d8]: Commencement: [Rule 25.8](https://www.legislation.gov.uk/uksi/2025/909/rule/25.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00587]: Footnote: [1825 c. 50](https://www.legislation.gov.uk/ukpga/1825/50); section 29 was amended by section 40 of, and paragraph 3 of Schedule 4 to, the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23). There are other amendments not relevant to this rule.
 

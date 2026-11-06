@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.41. Statement of affairs[^key-eafbed656e2eb93dd89b929f63ee79dc]
+## 6.41. Statement of affairs[^c-eafbed656e2eb93dd89b929f63ee79dc]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eafbed656e2eb93dd89b929f63ee79dc]: Commencement: Rule 6.41 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-eafbed656e2eb93dd89b929f63ee79dc]: Commencement: Rule 6.41 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00143]: Marginal citation: \[FORM 6.28\]

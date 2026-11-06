@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## F2A. Member dies after a pension under regulation E11A becomes payable[^key-c5f1240c72cefcd0660cd3e2fe04783c]
+## F2A. Member dies after a pension under regulation E11A becomes payable[^c-c5f1240c72cefcd0660cd3e2fe04783c]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5f1240c72cefcd0660cd3e2fe04783c]: Textual amendment: Reg. F2A inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [16](https://www.legislation.gov.uk/ssi/2024/272/regulation/16)
+[^c-c5f1240c72cefcd0660cd3e2fe04783c]: Textual amendment: Reg. F2A inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [16](https://www.legislation.gov.uk/ssi/2024/272/regulation/16)

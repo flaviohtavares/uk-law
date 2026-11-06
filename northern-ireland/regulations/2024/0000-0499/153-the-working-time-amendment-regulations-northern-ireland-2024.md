@@ -42,11 +42,11 @@ Coming into operation in accordance with regulation 1
 
 The Department for the Economy makes these Regulations in exercise of the powers conferred by Article 15(1) and (2) of the Work and Families (Northern Ireland) Order 2006[^f00001], and now vested in it[^f00002]:
 
-## 1. Citation and commencement[^key-376a3a0cfd7977d220eee9cd6aee0083]
+## 1. Citation and commencement[^c-376a3a0cfd7977d220eee9cd6aee0083]
 
 These Regulations may be cited as the Working Time (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on the day after which they are approved.
 
-## 2. Amendments to the Working Time Regulations (Northern Ireland) 2016[^key-6fb24dbf476735e4ea4d99456f9e9bf3]
+## 2. Amendments to the Working Time Regulations (Northern Ireland) 2016[^c-6fb24dbf476735e4ea4d99456f9e9bf3]
 
 (1) The Working Time Regulations (Northern Ireland) 2016[^f00003] are amended in accordance with paragraphs (2) and (3).
 
@@ -78,9 +78,9 @@ An impact assessment has not been produced for these regulations as the purpose 
 
 [^f00002]: Footnote: The functions of the Department for Employment and Learning under the Work and Families (Northern Ireland) Order 2006 were transferred to the Department for the Economy by Article 6(1)(c) of the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76)).
 
-[^key-376a3a0cfd7977d220eee9cd6aee0083]: Commencement: Reg. 1 in operation at 4.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/153/regulation/1)
+[^c-376a3a0cfd7977d220eee9cd6aee0083]: Commencement: Reg. 1 in operation at 4.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/153/regulation/1)
 
-[^key-6fb24dbf476735e4ea4d99456f9e9bf3]: Commencement: Reg. 2 in operation at 4.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/153/regulation/1)
+[^c-6fb24dbf476735e4ea4d99456f9e9bf3]: Commencement: Reg. 2 in operation at 4.7.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/153/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2016 No. 49](https://www.legislation.gov.uk/nisr/2016/49).
 

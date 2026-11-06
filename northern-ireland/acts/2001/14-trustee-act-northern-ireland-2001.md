@@ -648,7 +648,7 @@ This Act binds the Crown to the full extent authorised or permitted by the const
 
 - “asset” includes any right or interest;
 - “asset management function” has the meaning given in section 15(5);
-- “charitable trust” means a trust under which property is held for charitable purposes and “charitable purposes” has the same meaning as in the Charities Act (Northern Ireland) 2008[^key-49a2d22f7c91bee9ce56de4865989fb1] ;
+- “charitable trust” means a trust under which property is held for charitable purposes and “charitable purposes” has the same meaning as in the Charities Act (Northern Ireland) 2008[^c-49a2d22f7c91bee9ce56de4865989fb1] ;
 - “custodian” has the meaning given by section 17(2);
 - “the duty of care” has the meaning given by section 1(2);
 - “the general power of investment” has the meaning given by section 3(2);
@@ -793,6 +793,6 @@ Section 44.
 
 [^c21832971]: Textual amendment: Words in [s. 19(3)](https://www.legislation.gov.uk/nia/2001/14/section/19/3) substituted (1.4.2010 with effect as mentioned in [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1177](https://www.legislation.gov.uk/ukpga/2010/4/section/1177), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 367](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/367) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-49a2d22f7c91bee9ce56de4865989fb1]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/nia/2001/14/section/43/1) substituted (24.6.2013) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/8); [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-49a2d22f7c91bee9ce56de4865989fb1]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/nia/2001/14/section/43/1) substituted (24.6.2013) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/8); [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
 
 [^c5490881]: Textual amendment: fully exercised by SR 2002/253

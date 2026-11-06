@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Completion and retention of records[^key-cab323b596adb198ffd019b64e0664b3]
+## 31. Completion and retention of records[^c-cab323b596adb198ffd019b64e0664b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ the pilot-in-command may, except where the pilot becomes aware of a defect durin
 
 ## Annotations
 
-[^key-cab323b596adb198ffd019b64e0664b3]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2013/2870/article/31) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-cab323b596adb198ffd019b64e0664b3]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2013/2870/article/31) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

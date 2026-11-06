@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225A. Effect of notice: surrender of losses ineffective, etc[^key-9e1f1c25af634f641088a0be4f4c41d4]
+## 225A. Effect of notice: surrender of losses ineffective, etc[^c-9e1f1c25af634f641088a0be4f4c41d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e1f1c25af634f641088a0be4f4c41d4]: Textual amendment: S. 225A and cross-heading inserted (with effect in accordance with Sch. 18 para. 12(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/7)
+[^c-9e1f1c25af634f641088a0be4f4c41d4]: Textual amendment: S. 225A and cross-heading inserted (with effect in accordance with Sch. 18 para. 12(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Members affected by court orders to former spouses and civil partners on death[^key-fec457d1085aa4d2069674ced424b91f]
+## 98. Members affected by court orders to former spouses and civil partners on death[^c-fec457d1085aa4d2069674ced424b91f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fec457d1085aa4d2069674ced424b91f]: Commencement: Reg. 98 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-fec457d1085aa4d2069674ced424b91f]: Commencement: Reg. 98 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

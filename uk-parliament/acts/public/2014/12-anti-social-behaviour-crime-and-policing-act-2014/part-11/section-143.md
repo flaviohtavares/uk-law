@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Powers of local policing bodies to provide or commission services[^key-e3b4c87dbe3f5d319e0aaff8b4eb22cb]
+## 143. Powers of local policing bodies to provide or commission services[^c-e3b4c87dbe3f5d319e0aaff8b4eb22cb]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ A grant may be subject to any conditions (including conditions as to repayment) 
 
 ## Annotations
 
-[^key-e3b4c87dbe3f5d319e0aaff8b4eb22cb]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2014/12/section/143) in force at 20.3.2014 by [S.I. 2014/630](https://www.legislation.gov.uk/uksi/2014/630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/630/article/3/a)
+[^c-e3b4c87dbe3f5d319e0aaff8b4eb22cb]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2014/12/section/143) in force at 20.3.2014 by [S.I. 2014/630](https://www.legislation.gov.uk/uksi/2014/630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/630/article/3/a)

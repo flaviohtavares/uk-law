@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Licence authorisation[^key-6a965c5fd89d893badc9d5bfbc98adb4][^key-f5ea743dbe2dc33e0f423077ed4ca3be]
+## 6. Licence authorisation[^c-6a965c5fd89d893badc9d5bfbc98adb4][^c-f5ea743dbe2dc33e0f423077ed4ca3be]
 
 *Extent: S*
 
-(1) The Commission may, subject to section 7 and paragraphs 1, 1A and 2[^key-ab46b638365d368185d4346df146d218] of schedule 2, grant a licence authorising a person—
+(1) The Commission may, subject to section 7 and paragraphs 1, 1A and 2[^c-ab46b638365d368185d4346df146d218] of schedule 2, grant a licence authorising a person—
 
 - (a) to—
   - (i) make arrangements with the occupier of any eligible premises for or in relation to the supply of water to the premises through the public water supply system; and
@@ -29,7 +29,7 @@ summary: ''
 
 (2) A licence granted under subsection (1) is in this Act referred to as a “**water services licence**”; and a person who holds a water services licence is in this Act referred to as a “**water services provider**”.
 
-(3) The Commission may, subject to section 7 and paragraphs 1, 1A and 2[^key-542487ce21da7ba6a96b3dc7894621bc] of schedule 2, grant a licence authorising a person—
+(3) The Commission may, subject to section 7 and paragraphs 1, 1A and 2[^c-542487ce21da7ba6a96b3dc7894621bc] of schedule 2, grant a licence authorising a person—
 
 - (a) to—
   - (i) make arrangements with the occupier of any eligible premises for or in relation to the provision of sewerage to, or the disposal of sewage from, the premises through the public sewerage system; and
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-6a965c5fd89d893badc9d5bfbc98adb4]: Commencement: S. 6 in force at 7.9.2006 for specified purposes by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-6a965c5fd89d893badc9d5bfbc98adb4]: Commencement: S. 6 in force at 7.9.2006 for specified purposes by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-f5ea743dbe2dc33e0f423077ed4ca3be]: Commencement: S. 6 in force at 8.1.2007 in so far as not already in force by [S.S.I. 2006/599](https://www.legislation.gov.uk/ssi/2006/599), [art. 2](https://www.legislation.gov.uk/ssi/2006/599/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/599/schedule)
+[^c-f5ea743dbe2dc33e0f423077ed4ca3be]: Commencement: S. 6 in force at 8.1.2007 in so far as not already in force by [S.S.I. 2006/599](https://www.legislation.gov.uk/ssi/2006/599), [art. 2](https://www.legislation.gov.uk/ssi/2006/599/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/599/schedule)
 
-[^key-ab46b638365d368185d4346df146d218]: Textual amendment: Words in s. 6(1) substituted (20.11.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/7/3/a), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.S.I. 2015/360](https://www.legislation.gov.uk/ssi/2015/360), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/360/article/2/b)
+[^c-ab46b638365d368185d4346df146d218]: Textual amendment: Words in s. 6(1) substituted (20.11.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/7/3/a), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.S.I. 2015/360](https://www.legislation.gov.uk/ssi/2015/360), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/360/article/2/b)
 
-[^key-542487ce21da7ba6a96b3dc7894621bc]: Textual amendment: Words in s. 6(3) substituted (20.11.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/7/3/b), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.S.I. 2015/360](https://www.legislation.gov.uk/ssi/2015/360), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/360/article/2/b)
+[^c-542487ce21da7ba6a96b3dc7894621bc]: Textual amendment: Words in s. 6(3) substituted (20.11.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/7/3/b), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.S.I. 2015/360](https://www.legislation.gov.uk/ssi/2015/360), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/360/article/2/b)

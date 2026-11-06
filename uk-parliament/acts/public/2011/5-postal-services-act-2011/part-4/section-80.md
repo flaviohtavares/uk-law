@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Indemnities[^key-6a60524c3158a118b121225c81aa5ab4]
+## 80. Indemnities[^c-6a60524c3158a118b121225c81aa5ab4]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a60524c3158a118b121225c81aa5ab4]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2011/5/section/80) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-6a60524c3158a118b121225c81aa5ab4]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2011/5/section/80) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Notifications to patients affected by differences between the terms of a default and a general medical services contract[^key-42b1b712a8bd39501a7af531d3521733]
+## 53. Notifications to patients affected by differences between the terms of a default and a general medical services contract[^c-42b1b712a8bd39501a7af531d3521733]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ the Board shall notify those patients in writing of the change and inform them o
 
 ## Annotations
 
-[^key-42b1b712a8bd39501a7af531d3521733]: Commencement: Art. 53 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-42b1b712a8bd39501a7af531d3521733]: Commencement: Art. 53 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

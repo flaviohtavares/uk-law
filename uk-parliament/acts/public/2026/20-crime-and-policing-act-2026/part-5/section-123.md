@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Review of indefinite notification requirements: England and Wales[^key-c641351fce8f5e910a6251ed751c31ed]
+## 123. Review of indefinite notification requirements: England and Wales[^c-c641351fce8f5e910a6251ed751c31ed]
 
 *Extent: E+W*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c641351fce8f5e910a6251ed751c31ed]: Commencement: S. 123 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-c641351fce8f5e910a6251ed751c31ed]: Commencement: S. 123 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

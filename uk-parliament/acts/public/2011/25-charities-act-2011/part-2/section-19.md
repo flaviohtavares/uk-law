@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-dcb31a49b268e7a34515eb597421c33b] may by regulations require the payment to the Commission of such fees as may be prescribed by the regulations in respect of—
+(1) The Secretary of State[^c-dcb31a49b268e7a34515eb597421c33b] may by regulations require the payment to the Commission of such fees as may be prescribed by the regulations in respect of—
 
 - (a) the discharge by the Commission of such functions under the enactments relating to charities as may be so prescribed;
 - (b) the inspection of the register of charities or of other material kept by the Commission under those enactments, or the provision of copies of or extracts from documents so kept.
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcb31a49b268e7a34515eb597421c33b]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/19/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(a)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-dcb31a49b268e7a34515eb597421c33b]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/19/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(a)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

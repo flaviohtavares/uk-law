@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## N7. Notification of decisions[^key-3f8c14e23009d0f62abef50b521ed779]
+## N7. Notification of decisions[^c-3f8c14e23009d0f62abef50b521ed779]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f8c14e23009d0f62abef50b521ed779]: Commencement: [Reg. N7](https://www.legislation.gov.uk/uksi/1986/24/regulation/N7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3f8c14e23009d0f62abef50b521ed779]: Commencement: [Reg. N7](https://www.legislation.gov.uk/uksi/1986/24/regulation/N7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

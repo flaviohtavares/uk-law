@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Short title[^key-e682334ac49241bb5f81396d1c0391c0][^key-e682334ac49241bb5f81396d1c0391c0]
+## 104. Short title[^c-e682334ac49241bb5f81396d1c0391c0][^c-e682334ac49241bb5f81396d1c0391c0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Regulation of Legal Services (Scotland) Act 2
 
 ## Annotations
 
-[^key-e682334ac49241bb5f81396d1c0391c0]: Commencement: S. 104 in force at Royal Assent, see [s. 103(1)](https://www.legislation.gov.uk/asp/2025/8/section/103/1)
+[^c-e682334ac49241bb5f81396d1c0391c0]: Commencement: S. 104 in force at Royal Assent, see [s. 103(1)](https://www.legislation.gov.uk/asp/2025/8/section/103/1)

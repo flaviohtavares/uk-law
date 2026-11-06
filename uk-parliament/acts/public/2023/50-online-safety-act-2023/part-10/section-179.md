@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. False communications offence[^key-c4627de808d14bd65f1755f66362b1a3][^key-08d3a753889dc280ea7a22bb0da88166]
+## 179. False communications offence[^c-c4627de808d14bd65f1755f66362b1a3][^c-08d3a753889dc280ea7a22bb0da88166]
 
 *Extent: E+W+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4627de808d14bd65f1755f66362b1a3]: Commencement: S. 179 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-c4627de808d14bd65f1755f66362b1a3]: Commencement: S. 179 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-08d3a753889dc280ea7a22bb0da88166]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2023/50/section/179) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-08d3a753889dc280ea7a22bb0da88166]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2023/50/section/179) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Prosecution[^key-dca5c19398a298a5e97e2a530ec392ad]
+## 32. Prosecution[^c-dca5c19398a298a5e97e2a530ec392ad]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where the Police Force investigates an offence in the course of the exercise of 
 
 ## Annotations
 
-[^key-dca5c19398a298a5e97e2a530ec392ad]: Commencement: S. 32 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(o)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/o)
+[^c-dca5c19398a298a5e97e2a530ec392ad]: Commencement: S. 32 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(o)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/o)

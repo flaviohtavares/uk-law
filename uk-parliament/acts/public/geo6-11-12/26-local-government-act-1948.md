@@ -125,7 +125,7 @@ An Act to amend the law relating to Exchequer grants to local authorities and ot
 
 *Extent: E+W*
 
-(1) So much of any statutory provision as authorises or requires any dispute arising in relation to water rates to be determined by a court of summary jurisdiction shall have effect as if it authorised or required that dispute to be determined by the county court [^key-1f10f590603a462f540a5f9e6769021e]....
+(1) So much of any statutory provision as authorises or requires any dispute arising in relation to water rates to be determined by a court of summary jurisdiction shall have effect as if it authorised or required that dispute to be determined by the county court [^c-1f10f590603a462f540a5f9e6769021e]....
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c639636]
 
@@ -187,7 +187,7 @@ This Part of this Act shall not extend to Scotland.
 - (b) there shall be ascribed to the hereditament such net annual value as may be just having regard to the extent to which it is occupied for those other purposes; and
 - (c) the deductions, if any, to be made from the net annual value in arriving at the rateable value shall be calculated with regard only to those other purposes.
 
-(2) Where by or under any enactment the amount of any water rate in England or Wales is to be determined by reference to the gross value or net annual value of any property as appearing in the valuation list for the time being in force, then, if the property in question is or forms part of a hereditament to which subsection (1) of this section applies, the value thereof for the purposes of that water rate shall not be determined by reference to the said gross value or the said net annual value but shall be determined in the event of any dispute by the county court [^key-d274bcd73cff189df1201eda4d4ef139]....
+(2) Where by or under any enactment the amount of any water rate in England or Wales is to be determined by reference to the gross value or net annual value of any property as appearing in the valuation list for the time being in force, then, if the property in question is or forms part of a hereditament to which subsection (1) of this section applies, the value thereof for the purposes of that water rate shall not be determined by reference to the said gross value or the said net annual value but shall be determined in the event of any dispute by the county court [^c-d274bcd73cff189df1201eda4d4ef139]....
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c639654]
 
@@ -539,7 +539,7 @@ The provisions of this Act shall, in relation to the Isles of Scilly, have effec
 
 [^c639635]: Modification: S. 62 amended by [Lands Tribunal Act 1949 (c. 42)](https://www.legislation.gov.uk/ukpga/1949/42), [s. 1(3)(e)](https://www.legislation.gov.uk/ukpga/1949/42/section/1/3/e)
 
-[^key-1f10f590603a462f540a5f9e6769021e]: Textual amendment: Words in [s. 62(1)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/26/section/62/1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 104](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/104); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-1f10f590603a462f540a5f9e6769021e]: Textual amendment: Words in [s. 62(1)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/26/section/62/1) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 104](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/104); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c639636]: Textual amendment: S. 49(2)–(4), 62(2), 87(3) repealed by [Lands Tribunal Act 1949 (c. 42)](https://www.legislation.gov.uk/ukpga/1949/42), [s. 10(4)](https://www.legislation.gov.uk/ukpga/1949/42/section/10/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1949/42/schedule/2)
 
@@ -577,7 +577,7 @@ The provisions of this Act shall, in relation to the Isles of Scilly, have effec
 
 [^c639652]: Textual amendment: S. 87(1) repealed (E.W.) by [General Rate Act 1967 (c. 9)](https://www.legislation.gov.uk/ukpga/1967/9), [Sch. 14 Pt. I](https://www.legislation.gov.uk/ukpga/1967/9/schedule/14/part/I); modified by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [s. 162(6)](https://www.legislation.gov.uk/ukpga/1968/73/section/162/6) and [S.I. 1978/1174](https://www.legislation.gov.uk/uksi/1978/1174), [art. 8(4)(a)](https://www.legislation.gov.uk/uksi/1978/1174/article/8/4/a)
 
-[^key-d274bcd73cff189df1201eda4d4ef139]: Textual amendment: Words in [s. 87(2)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/26/section/87/2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 104](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/104); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-d274bcd73cff189df1201eda4d4ef139]: Textual amendment: Words in [s. 87(2)](https://www.legislation.gov.uk/ukpga/Geo6/11-12/26/section/87/2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 104](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/104); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c639654]: Textual amendment: S. 49(2)–(4), 62(2), 87(3) repealed by [Lands Tribunal Act 1949 (c. 42)](https://www.legislation.gov.uk/ukpga/1949/42), [s. 10(4)](https://www.legislation.gov.uk/ukpga/1949/42/section/10/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/1949/42/schedule/2)
 

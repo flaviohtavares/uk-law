@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Resolutions[^key-70ff2c738564dd31b8add0a6b6b45f7b]
+## 50. Resolutions[^c-70ff2c738564dd31b8add0a6b6b45f7b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.070 of the 1991 Rules.
 
 ## Annotations
 
-[^key-70ff2c738564dd31b8add0a6b6b45f7b]: Commencement: Rule 50 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-70ff2c738564dd31b8add0a6b6b45f7b]: Commencement: Rule 50 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

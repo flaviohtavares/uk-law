@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Disclosures in relation to financial instruments[^key-a4cec731e87e63e016c7c812a9c3a840]
+## 13. Disclosures in relation to financial instruments[^c-a4cec731e87e63e016c7c812a9c3a840]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a4cec731e87e63e016c7c812a9c3a840]: Commencement: Reg. 13 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-a4cec731e87e63e016c7c812a9c3a840]: Commencement: Reg. 13 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00014]: Footnote: The paragraph in Schedule 7 previously numbered 5A was repealed by regulation 14 of S.I. [1996/189](https://www.legislation.gov.uk/uksi/1996/189).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147A. Caretaker flat owned by management company[^key-4e5497a02823d44771edcf6853c06a55]
+## 147A. Caretaker flat owned by management company[^c-4e5497a02823d44771edcf6853c06a55]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e5497a02823d44771edcf6853c06a55]: Textual amendment: S. 147A inserted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/7)
+[^c-4e5497a02823d44771edcf6853c06a55]: Textual amendment: S. 147A inserted (15.9.2016) (with effect in accordance with s. 135(12) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 135(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/135/7)

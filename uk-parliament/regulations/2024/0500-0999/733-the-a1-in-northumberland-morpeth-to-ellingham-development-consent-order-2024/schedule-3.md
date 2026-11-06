@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — CLASSIFICATION OF ROADS, ETC.[^key-e814a3de629527b371581567688fbb9d]
+## SCHEDULE 3 — CLASSIFICATION OF ROADS, ETC.[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Articles 15 and 19
 
-### PART 1 — TRUNK ROADS[^key-e814a3de629527b371581567688fbb9d]
+### PART 1 — TRUNK ROADS[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — ROADS TO BE DE-TRUNKED[^key-e814a3de629527b371581567688fbb9d]
+### PART 2 — ROADS TO BE DE-TRUNKED[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — CLASSIFIED ROADS[^key-e814a3de629527b371581567688fbb9d]
+### PART 3 — CLASSIFIED ROADS[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — UNCLASSIFIED ROADS[^key-e814a3de629527b371581567688fbb9d]
+### PART 4 — UNCLASSIFIED ROADS[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — OTHER PUBLIC RIGHTS OF WAY[^key-e814a3de629527b371581567688fbb9d]
+### PART 5 — OTHER PUBLIC RIGHTS OF WAY[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 6 — FOOTWAYS AND CYCLEWAYS TO BE PROVIDED[^key-e814a3de629527b371581567688fbb9d]
+### PART 6 — FOOTWAYS AND CYCLEWAYS TO BE PROVIDED[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)
+[^c-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)

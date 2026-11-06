@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.1. Types of claim in which the Part 8 procedure is used[^key-27d3b5800ce5d6d83afce85d3a80bb15]
+## 8.1. Types of claim in which the Part 8 procedure is used[^c-27d3b5800ce5d6d83afce85d3a80bb15]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27d3b5800ce5d6d83afce85d3a80bb15]: Textual amendment: [Rule 8.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.1) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/9/1)
+[^c-27d3b5800ce5d6d83afce85d3a80bb15]: Textual amendment: [Rule 8.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.1) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/9/1)

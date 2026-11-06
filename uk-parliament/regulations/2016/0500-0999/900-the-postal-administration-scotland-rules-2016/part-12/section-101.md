@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Omission of unobtainable information[^key-3ccae311b3a3eb3f33f42ee3b5f06615]
+## 101. Omission of unobtainable information[^c-3ccae311b3a3eb3f33f42ee3b5f06615]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Information required under Rules 98[^M_F_d57468dd-bec6-423b-c598-ab469cfcd903] a
 
 ## Annotations
 
-[^key-3ccae311b3a3eb3f33f42ee3b5f06615]: Commencement: Rule 101 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-3ccae311b3a3eb3f33f42ee3b5f06615]: Commencement: Rule 101 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^M_F_d57468dd-bec6-423b-c598-ab469cfcd903]: Textual amendment: Words in rule 101 substituted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

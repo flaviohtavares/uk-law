@@ -641,7 +641,7 @@ Schedule 7 (minor and consequential amendments relating to Part 2) has effect.
 
 *Extent: N.I.*
 
-#### 20. District policing partnerships[^key-393faaa4ccf438234b2d7f9f9d723f8d]
+#### 20. District policing partnerships[^c-393faaa4ccf438234b2d7f9f9d723f8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -753,7 +753,7 @@ In this Act—
 
 (5)[^M_C_89572521-870e-401e-bcc3-243bdcf2c5a6] If that Part comes into force in accordance with subsection (4), it shall come into force on 26 March 2007.
 
-(6)[^key-b8b370ab9ab0a7de6571e1b521b16bfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b8b370ab9ab0a7de6571e1b521b16bfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Section 21(2) shall only come into force in the circumstances specified in, and in accordance with, subsections (3) and (4) of that section.
 
@@ -1053,7 +1053,7 @@ Section 2(5)
 
 ### Repeal of the 2000 Act: supplementary provisions
 
-**2.** (1) No determination may be made under or by virtue of[^key-a4d06ed4171c8cdf0abc8bb7197e7b24] section 47 of the 1998 Act in respect of any period of suspension.
+**2.** (1) No determination may be made under or by virtue of[^c-a4d06ed4171c8cdf0abc8bb7197e7b24] section 47 of the 1998 Act in respect of any period of suspension.
 
 (2) No instrument made during any period of suspension shall be liable to annulment or capable of being revoked in pursuance of a resolution, motion or address of the Northern Ireland Assembly.
 
@@ -1327,7 +1327,7 @@ Section 19
 
 **6.** In section 1 of the 2000 Act (suspension of devolved government in Northern Ireland), in subsection (5), for “section 52” substitute “ section 52A, 52B ”.
 
-## SCHEDULE 8 — Reconstitution of district policing partnerships[^key-786ec166d2c5a82af55aecaf57a7188f]
+## SCHEDULE 8 — Reconstitution of district policing partnerships[^c-786ec166d2c5a82af55aecaf57a7188f]
 
 *Extent: N.I.*
 
@@ -1335,27 +1335,27 @@ Section 19
 
 Section 20(1)
 
-### Introduction[^key-786ec166d2c5a82af55aecaf57a7188f]
+### Introduction[^c-786ec166d2c5a82af55aecaf57a7188f]
 
-**1.**[^key-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Report on whether DPPs meet the political condition[^key-786ec166d2c5a82af55aecaf57a7188f]
+### Report on whether DPPs meet the political condition[^c-786ec166d2c5a82af55aecaf57a7188f]
 
-**2.**[^key-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appointment of political members of DPPs which do not meet the political condition[^key-786ec166d2c5a82af55aecaf57a7188f]
+### Appointment of political members of DPPs which do not meet the political condition[^c-786ec166d2c5a82af55aecaf57a7188f]
 
-**3.**[^key-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appointment of independent members of DPPs which do not meet the political condition[^key-786ec166d2c5a82af55aecaf57a7188f]
+### Appointment of independent members of DPPs which do not meet the political condition[^c-786ec166d2c5a82af55aecaf57a7188f]
 
-**4.**[^key-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary provisions[^key-786ec166d2c5a82af55aecaf57a7188f]
+### Supplementary provisions[^c-786ec166d2c5a82af55aecaf57a7188f]
 
-**5.**[^key-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-786ec166d2c5a82af55aecaf57a7188f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 9 — District policing partnerships: Belfast sub-groups[^key-7884ef078dc79047303c2a5d18d7de3e]
+## SCHEDULE 9 — District policing partnerships: Belfast sub-groups[^c-7884ef078dc79047303c2a5d18d7de3e]
 
 *Extent: N.I.*
 
@@ -1363,21 +1363,21 @@ Section 20(1)
 
 Section 20(2)
 
-### Introduction[^key-7884ef078dc79047303c2a5d18d7de3e]
+### Introduction[^c-7884ef078dc79047303c2a5d18d7de3e]
 
-**1.**[^key-7884ef078dc79047303c2a5d18d7de3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7884ef078dc79047303c2a5d18d7de3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Effect of local government election on membership of sub-group[^key-7884ef078dc79047303c2a5d18d7de3e]
+### Effect of local government election on membership of sub-group[^c-7884ef078dc79047303c2a5d18d7de3e]
 
-**2.**[^key-7884ef078dc79047303c2a5d18d7de3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7884ef078dc79047303c2a5d18d7de3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Removal of members of sub-group from office[^key-7884ef078dc79047303c2a5d18d7de3e]
+### Removal of members of sub-group from office[^c-7884ef078dc79047303c2a5d18d7de3e]
 
-**3.**[^key-7884ef078dc79047303c2a5d18d7de3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7884ef078dc79047303c2a5d18d7de3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chairman and vice-chairman of sub-group[^key-7884ef078dc79047303c2a5d18d7de3e]
+### Chairman and vice-chairman of sub-group[^c-7884ef078dc79047303c2a5d18d7de3e]
 
-**4.**[^key-7884ef078dc79047303c2a5d18d7de3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7884ef078dc79047303c2a5d18d7de3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -1419,7 +1419,7 @@ Section 20(2)
 
 [^c1769416]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2006/53/part/2) (ss. 5-19) in force at 8.5.2007, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2006/53/section/2/2), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4) (as amended by [2007 c. 4](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1](https://www.legislation.gov.uk/ukpga/2007/4/section/1)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [arts. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2), [3](https://www.legislation.gov.uk/uksi/2007/1397/article/3)
 
-[^key-393faaa4ccf438234b2d7f9f9d723f8d]: Textual amendment: S. 20 repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
+[^c-393faaa4ccf438234b2d7f9f9d723f8d]: Textual amendment: S. 20 repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
 
 [^c1769985]: Commencement: [S. 21(1)(3)-(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/21/1/3) in force at Royal Assent and s. 21(2) in force at 10.5.2007, see [s. 21(3)(4)](https://www.legislation.gov.uk/ukpga/2006/53/section/21/3/4), [27(7)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/7) (as amended by [2007 c. 4](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1](https://www.legislation.gov.uk/ukpga/2007/4/section/1))
 
@@ -1429,7 +1429,7 @@ Section 20(2)
 
 [^M_C_89572521-870e-401e-bcc3-243bdcf2c5a6]: Modification: S. 27(4)(5) specified particularly in retrospective modification of Act by [Northern Ireland (St Andrews Agreement) Act 2007 (c. 4)](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1](https://www.legislation.gov.uk/ukpga/2007/4/section/1)
 
-[^key-b8b370ab9ab0a7de6571e1b521b16bfd]: Textual amendment: S. 27(6) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
+[^c-b8b370ab9ab0a7de6571e1b521b16bfd]: Textual amendment: S. 27(6) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
 
 [^c2028377]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2006/53/schedule/1) repealed (8.5.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2006/53/section/2/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/2/paragraph/7/b) (as amended by [2007 c. 4](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1](https://www.legislation.gov.uk/ukpga/2007/4/section/1)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)
 
@@ -1439,7 +1439,7 @@ Section 20(2)
 
 [^c1771357]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/53/schedule/4) in force 10.5.2007, see [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/2/5), [27(1)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/1) (as amended by [2007 c. 4](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1](https://www.legislation.gov.uk/ukpga/2007/4/section/1))
 
-[^key-a4d06ed4171c8cdf0abc8bb7197e7b24]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/4/paragraph/2/1) substituted (5.7.2010) by [Northern Ireland Assembly Members Act 2010 (c. 16)](https://www.legislation.gov.uk/ukpga/2010/16), [ss. 1(13)](https://www.legislation.gov.uk/ukpga/2010/16/section/1/13), [3(3)](https://www.legislation.gov.uk/ukpga/2010/16/section/3/3); [S.I. 2010/1726](https://www.legislation.gov.uk/uksi/2010/1726), [art. 2](https://www.legislation.gov.uk/uksi/2010/1726/article/2)
+[^c-a4d06ed4171c8cdf0abc8bb7197e7b24]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2006/53/schedule/4/paragraph/2/1) substituted (5.7.2010) by [Northern Ireland Assembly Members Act 2010 (c. 16)](https://www.legislation.gov.uk/ukpga/2010/16), [ss. 1(13)](https://www.legislation.gov.uk/ukpga/2010/16/section/1/13), [3(3)](https://www.legislation.gov.uk/ukpga/2010/16/section/3/3); [S.I. 2010/1726](https://www.legislation.gov.uk/uksi/2010/1726), [art. 2](https://www.legislation.gov.uk/uksi/2010/1726/article/2)
 
 [^c1771358]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/53/schedule/5) in force at 8.5.2007, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2006/53/section/2/2), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (as amended by [2007 c. 4](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1](https://www.legislation.gov.uk/ukpga/2007/4/section/1)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [arts. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2), [3](https://www.legislation.gov.uk/uksi/2007/1397/article/3)
 
@@ -1447,6 +1447,6 @@ Section 20(2)
 
 [^c1771360]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2006/53/schedule/7) in force at 8.5.2007, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2006/53/section/2/2), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (as amended by [2007 c. 4](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1](https://www.legislation.gov.uk/ukpga/2007/4/section/1)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [arts. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2), [3](https://www.legislation.gov.uk/uksi/2007/1397/article/3)
 
-[^key-786ec166d2c5a82af55aecaf57a7188f]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/2006/53/schedule/8) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
+[^c-786ec166d2c5a82af55aecaf57a7188f]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/2006/53/schedule/8) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
 
-[^key-7884ef078dc79047303c2a5d18d7de3e]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
+[^c-7884ef078dc79047303c2a5d18d7de3e]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/53/schedule/9) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)

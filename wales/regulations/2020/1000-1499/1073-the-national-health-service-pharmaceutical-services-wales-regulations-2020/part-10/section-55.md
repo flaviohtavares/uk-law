@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. The Drug Tariff and remuneration of NHS pharmacists and NHS appliance contractors[^key-344181171585716e54ae004817be9d2f]
+## 55. The Drug Tariff and remuneration of NHS pharmacists and NHS appliance contractors[^c-344181171585716e54ae004817be9d2f]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ in the publication known as the Drug Tariff published by the Welsh Ministers in 
 
 ## Annotations
 
-[^key-344181171585716e54ae004817be9d2f]: Commencement: Reg. 55 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-344181171585716e54ae004817be9d2f]: Commencement: Reg. 55 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

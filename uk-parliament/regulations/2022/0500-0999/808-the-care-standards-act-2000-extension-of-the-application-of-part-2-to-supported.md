@@ -48,13 +48,13 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the power conferred by section 42(1) of the Care Standards Act 2000[^f00001].
 
-## 1. Citation, commencement and extent[^key-49a1a0de4febcf45f2b6755532083f8e]
+## 1. Citation, commencement and extent[^c-49a1a0de4febcf45f2b6755532083f8e]
 
 (1) These Regulations may be cited as the Care Standards Act 2000 (Extension of the Application of Part 2 to Supported Accommodation) (England) Regulations 2022 and come into force on 8th August 2022.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Interpretation[^key-bfb6655936084204b01445b2019f9312]
+## 2. Interpretation[^c-bfb6655936084204b01445b2019f9312]
 
 In these Regulations—
 
@@ -69,7 +69,7 @@ In these Regulations—
   - (g) a holiday scheme for disabled children, as defined by regulation 2(1) of the Residential Holiday Schemes for Disabled Children (England) Regulations 2013[^f00010];
 - “**supported accommodation undertaking**” means an undertaking which consists of or includes arranging the provision of supported accommodation.
 
-## 3. Application of Part 2 of the Act to persons carrying on or managing supported accommodation undertakings[^key-fd60d766a4e1ab0bcf9e4540cbee0a0a]
+## 3. Application of Part 2 of the Act to persons carrying on or managing supported accommodation undertakings[^c-fd60d766a4e1ab0bcf9e4540cbee0a0a]
 
 (1) A person who carries on or manages a supported accommodation undertaking (whether or not for profit) is prescribed for the purposes of section 42(1) of the Act.
 
@@ -82,7 +82,7 @@ In these Regulations—
 - (e) section 16(1) and (3) (regulations about registration)[^f00013];
 - (f) section 22(1)(a), (1A) to (2)(d), (2)(f) to (5)(a), (5)(c), 7(a) to (7)(j), and (8)(c) to (10) (regulation of establishments and agencies)[^f00014];
 - (g) section 23(1) and (1A) to (3) (national minimum standards)[^f00015];
-- (h)[^key-2e867d5c7b55d523cd730024dabad470] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-2e867d5c7b55d523cd730024dabad470] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) section 30A(1), (3) and (4) (notification of matters relating to persons carrying on or managing certain establishments or agencies)[^f00016];
 - (j) section 31(7) (inspections by persons authorised by registration authority)[^f00017];
 - (k) section 33 (annual returns);
@@ -102,25 +102,25 @@ Department for Education
 
 Regulation 3
 
-### 1. Modification of section 14 (cancellation of registration)[^key-85a1ce1856b2bd51423aebec2f24922f]
+### 1. Modification of section 14 (cancellation of registration)[^c-85a1ce1856b2bd51423aebec2f24922f]
 
-In section 14(1), in the words before paragraph (a) [^key-86bd219c8854a41f780229371b9fae0a]...—
+In section 14(1), in the words before paragraph (a) [^c-86bd219c8854a41f780229371b9fae0a]...—
 
 - (a) the reference to “the registration authority”, in respect of a supported accommodation undertaking, is to be read as a reference to the CIECSS;
 - (b) the reference to “an establishment or agency” is to be read as a reference to a supported accommodation undertaking.
 
-### 2. Modification of section 16 (regulations about registration)[^key-a67577c757f8fb778b2c744ec645f0d6]
+### 2. Modification of section 16 (regulations about registration)[^c-a67577c757f8fb778b2c744ec645f0d6]
 
 In section 16—
 
 - (a) in subsection (1), in the words before paragraph (a), the reference to “establishments or agencies” is to be read as a reference to supported accommodation undertakings;
 - (b) in subsection (3), the reference to “the registration authority”, in respect of a supported accommodation undertaking, is to be read as a reference to the CIECSS.
 
-### 3. Modification of section 22 (regulation of establishments and agencies)[^key-f1582b6398a6da201e4de9ce08c0032a]
+### 3. Modification of section 22 (regulation of establishments and agencies)[^c-f1582b6398a6da201e4de9ce08c0032a]
 
 In section 22—
 
-- (a) in subsection (1), in the words before paragraph (a)[^key-e9f6564293960a72c18b6a8c3ec4866e]..., the reference to “establishments and agencies” is to be read as a reference to supported accommodation undertakings;
+- (a) in subsection (1), in the words before paragraph (a)[^c-e9f6564293960a72c18b6a8c3ec4866e]..., the reference to “establishments and agencies” is to be read as a reference to supported accommodation undertakings;
 - (b) in subsections (1A), (2)(a), (f), (i) and (j), (3), and (7)(e) to (h) and (j), the references to “an establishment or agency” are to be read as references to a supported accommodation undertaking;
 - (c) in subsections (2)(b), (c) and (g), and (4), the references to “an agency” are to be read as references to a supported accommodation undertaking;
 - (d) in subsection (2)(d)—
@@ -128,13 +128,13 @@ In section 22—
   - (ii) the second reference to “an establishment” is to be read as a reference to a supported accommodation undertaking;
 - (e) in subsection (5)(c), the reference to “accommodated in, or provided with services by, an establishment” is to be read as a reference to accommodated in supported accommodation or provided with services by a supported accommodation undertaking;
 - (f) in subsection (7)—
-  - (i) in the words before paragraph (a) [^key-55fdcb63c319e3b590d4cf440b856cae]..., the reference to “establishments and agencies” is to be read as a reference to supported accommodation undertakings;
+  - (i) in the words before paragraph (a) [^c-55fdcb63c319e3b590d4cf440b856cae]..., the reference to “establishments and agencies” is to be read as a reference to supported accommodation undertakings;
   - (ii) in paragraphs (a) and (d), the references to “agencies” are to be read as references to supported accommodation undertakings;
   - (iii) in paragraph (e), the reference to “the establishment or agency” is to be read as a reference to the supported accommodation undertaking;
   - (iv) in paragraph (j), the reference to “by the agency” is to be read as a reference to by the supported accommodation undertaking;
 - (g) in subsection (8)(c), the reference to “children’s homes” is to be read as a reference to accommodation provided by a supported accommodation undertaking.
 
-### 4. Modification of section 23 (national minimum standards)[^key-0a5260a1e9e4cb6f75fd8e3f95fd2b6f]
+### 4. Modification of section 23 (national minimum standards)[^c-0a5260a1e9e4cb6f75fd8e3f95fd2b6f]
 
 In section 23—
 
@@ -143,22 +143,22 @@ In section 23—
   - (i) the reference to “an establishment or agency” is to be read as a reference to a supported accommodation undertaking;
   - (ii) the reference to “that establishment or agency” is to be read as a reference to that supported accommodation undertaking.
 
-### 5. Modification of section 30A (notification of matters relating to persons carrying on or managing certain establishments or agencies)[^key-899564ec220344f0c04eea834c424afc]
+### 5. Modification of section 30A (notification of matters relating to persons carrying on or managing certain establishments or agencies)[^c-899564ec220344f0c04eea834c424afc]
 
 In section 30A(1), the reference to “an establishment or agency in England mentioned in subsection (6)” is to be read as a reference to a supported accommodation undertaking.
 
-### 6. Modification of section 31 (inspections by persons authorised by registration authority)[^key-812dbbf0b6303efe81af09d970b55cfe]
+### 6. Modification of section 31 (inspections by persons authorised by registration authority)[^c-812dbbf0b6303efe81af09d970b55cfe]
 
 In section 31(7), the reference to “an agency” is to be read as a reference to a supported accommodation undertaking.
 
-### 7. Modification of section 33 (annual returns)[^key-e6fe25bdbbe32938a7da486c4918d51d]
+### 7. Modification of section 33 (annual returns)[^c-e6fe25bdbbe32938a7da486c4918d51d]
 
 In section 33(1)—
 
 - (a) the reference to “an establishment or agency” is to be read as a reference to a supported accommodation undertaking;
 - (b) the reference to “the registration authority”, in respect of a supported accommodation undertaking, is to be read as a reference to the CIECSS.
 
-### 8. Modification of section 34 (liquidators etc)[^key-cde62eba8607758371051e5b273f61a7]
+### 8. Modification of section 34 (liquidators etc)[^c-cde62eba8607758371051e5b273f61a7]
 
 In section 34—
 
@@ -166,7 +166,7 @@ In section 34—
 - (b) in subsection (1)(b), the reference to “the establishment or agency” is to be read as a reference to the supported accommodation undertaking;
 - (c) in subsection (3), the references to “an establishment or agency” are to be read as references to a supported accommodation undertaking.
 
-### 9. Modification of section 35 (death of registered person)[^key-d46c9738041fe814aca6d4d4b4f1f5d8]
+### 9. Modification of section 35 (death of registered person)[^c-d46c9738041fe814aca6d4d4b4f1f5d8]
 
 In section 35—
 
@@ -174,7 +174,7 @@ In section 35—
 - (b) in subsections (1)(b) and (2)(b), the references to “the registration authority”, in respect of a supported accommodation undertaking, are to be read as references to the CIECSS;
 - (c) in subsection (2)(a), the reference to “the establishment or agency” is to be read as a reference to the supported accommodation undertaking.
 
-### 10. Modification of section 36 (provision of copies of registers)[^key-e1a9502fc0626d7b4f017d752787f664]
+### 10. Modification of section 36 (provision of copies of registers)[^c-e1a9502fc0626d7b4f017d752787f664]
 
 In section 36(4), the references to “the registration authority”, in respect of a supported accommodation undertaking, are to be read as references to the CIECSS.
 
@@ -194,9 +194,9 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00001]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). The powers are conferred upon the “appropriate Minister” who is defined in section 121(1), in relation to England, as the Secretary of State. See section 121(1) also for the definitions of “prescribed” and “regulations”. Section 42(1) was amended by paragraph 28(2) of Schedule 5 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-49a1a0de4febcf45f2b6755532083f8e]: Commencement: Reg. 1 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-49a1a0de4febcf45f2b6755532083f8e]: Commencement: Reg. 1 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-bfb6655936084204b01445b2019f9312]: Commencement: Reg. 2 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-bfb6655936084204b01445b2019f9312]: Commencement: Reg. 2 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
 [^f00002]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 22C was substituted by section 8(1) of the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23). Section 23B was inserted by section 2(4) of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35). There are amendments to sections 22C and 23B which are not relevant to these Regulations. See [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959), regulation 27, for the general duties of the local authority when placing a child in accommodation in accordance with section 22C(6)(d). See [S.I. 2010/2571](https://www.legislation.gov.uk/uksi/2010/2571), regulation 9, for the meaning of “suitable accommodation” under section 23B(8)(b).
 
@@ -216,7 +216,7 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00010]: Footnote: [S.I. 2013/1394](https://www.legislation.gov.uk/uksi/2013/1394), to which there are amendments not relevant to these Regulations.
 
-[^key-fd60d766a4e1ab0bcf9e4540cbee0a0a]: Commencement: Reg. 3 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-fd60d766a4e1ab0bcf9e4540cbee0a0a]: Commencement: Reg. 3 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
 [^f00011]: Footnote: Section 11(4) was amended by: paragraph 20 of Schedule 9 to the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43); paragraph 42 of Schedule 14 to the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40); and paragraph 10(c) of Schedule 5 and Part 1 of Schedule 15 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
@@ -228,34 +228,34 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00015]: Footnote: Section 23(1A) was inserted by section 104 of the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
 
-[^key-2e867d5c7b55d523cd730024dabad470]: Textual amendment: [Reg. 3(2)(h)](https://www.legislation.gov.uk/uksi/2022/808/regulation/3/2/h) omitted (28.4.2023) by virtue of [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [40(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/40/2) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-2e867d5c7b55d523cd730024dabad470]: Textual amendment: [Reg. 3(2)(h)](https://www.legislation.gov.uk/uksi/2022/808/regulation/3/2/h) omitted (28.4.2023) by virtue of [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [40(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/40/2) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
 [^f00016]: Footnote: Section 30A was inserted by section 29 of the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23). Section 30A(3) was amended by paragraph 11(c) of Schedule 3 to the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw. 2).
 
 [^f00017]: Footnote: Section 31(7) was amended by paragraph 27 of Schedule 5 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-85a1ce1856b2bd51423aebec2f24922f]: Commencement: Sch. para. 1 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-85a1ce1856b2bd51423aebec2f24922f]: Commencement: Sch. para. 1 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-86bd219c8854a41f780229371b9fae0a]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/808/schedule/paragraph/1) omitted (28.4.2023) by virtue of [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [40(3)(a)](https://www.legislation.gov.uk/uksi/2023/416/regulation/40/3/a) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-86bd219c8854a41f780229371b9fae0a]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/808/schedule/paragraph/1) omitted (28.4.2023) by virtue of [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [40(3)(a)](https://www.legislation.gov.uk/uksi/2023/416/regulation/40/3/a) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
-[^key-a67577c757f8fb778b2c744ec645f0d6]: Commencement: Sch. para. 2 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-a67577c757f8fb778b2c744ec645f0d6]: Commencement: Sch. para. 2 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-f1582b6398a6da201e4de9ce08c0032a]: Commencement: Sch. para. 3 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-f1582b6398a6da201e4de9ce08c0032a]: Commencement: Sch. para. 3 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-e9f6564293960a72c18b6a8c3ec4866e]: Textual amendment: Words in [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2022/808/schedule/paragraph/3/a) omitted (28.4.2023) by virtue of [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [40(3)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/40/3/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-e9f6564293960a72c18b6a8c3ec4866e]: Textual amendment: Words in [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2022/808/schedule/paragraph/3/a) omitted (28.4.2023) by virtue of [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [40(3)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/40/3/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
-[^key-55fdcb63c319e3b590d4cf440b856cae]: Textual amendment: Words in [Sch. para. 3(f)(i)](https://www.legislation.gov.uk/uksi/2022/808/schedule/paragraph/3/f/i) omitted (28.4.2023) by virtue of [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [40(3)(c)](https://www.legislation.gov.uk/uksi/2023/416/regulation/40/3/c) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-55fdcb63c319e3b590d4cf440b856cae]: Textual amendment: Words in [Sch. para. 3(f)(i)](https://www.legislation.gov.uk/uksi/2022/808/schedule/paragraph/3/f/i) omitted (28.4.2023) by virtue of [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [40(3)(c)](https://www.legislation.gov.uk/uksi/2023/416/regulation/40/3/c) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
-[^key-0a5260a1e9e4cb6f75fd8e3f95fd2b6f]: Commencement: Sch. para. 4 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-0a5260a1e9e4cb6f75fd8e3f95fd2b6f]: Commencement: Sch. para. 4 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-899564ec220344f0c04eea834c424afc]: Commencement: Sch. para. 5 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-899564ec220344f0c04eea834c424afc]: Commencement: Sch. para. 5 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-812dbbf0b6303efe81af09d970b55cfe]: Commencement: Sch. para. 6 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-812dbbf0b6303efe81af09d970b55cfe]: Commencement: Sch. para. 6 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-e6fe25bdbbe32938a7da486c4918d51d]: Commencement: Sch. para. 7 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-e6fe25bdbbe32938a7da486c4918d51d]: Commencement: Sch. para. 7 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-cde62eba8607758371051e5b273f61a7]: Commencement: Sch. para. 8 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-cde62eba8607758371051e5b273f61a7]: Commencement: Sch. para. 8 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-d46c9738041fe814aca6d4d4b4f1f5d8]: Commencement: Sch. para. 9 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-d46c9738041fe814aca6d4d4b4f1f5d8]: Commencement: Sch. para. 9 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
 
-[^key-e1a9502fc0626d7b4f017d752787f664]: Commencement: Sch. para. 10 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)
+[^c-e1a9502fc0626d7b4f017d752787f664]: Commencement: Sch. para. 10 in force at 8.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/808/regulation/1/1)

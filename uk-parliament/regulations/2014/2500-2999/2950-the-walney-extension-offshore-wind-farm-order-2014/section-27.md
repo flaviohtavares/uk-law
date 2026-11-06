@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Temporary use of land for carrying out the authorised project[^key-6b190b77b52e7a9c8e3bd69b4ea8fc77]
+## 27. Temporary use of land for carrying out the authorised project[^c-6b190b77b52e7a9c8e3bd69b4ea8fc77]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b190b77b52e7a9c8e3bd69b4ea8fc77]: Commencement: Art. 27 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-6b190b77b52e7a9c8e3bd69b4ea8fc77]: Commencement: Art. 27 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)

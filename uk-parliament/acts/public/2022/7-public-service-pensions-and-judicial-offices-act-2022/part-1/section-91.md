@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Prohibition of new arrangements to pay voluntary contributions[^key-bfc616998984298f58ddec1b5c800198][^key-5bee3ac806c032acde90a4ba50d197ad]
+## 91. Prohibition of new arrangements to pay voluntary contributions[^c-bfc616998984298f58ddec1b5c800198][^c-5bee3ac806c032acde90a4ba50d197ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bfc616998984298f58ddec1b5c800198]: Commencement: S. 91 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-bfc616998984298f58ddec1b5c800198]: Commencement: S. 91 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-5bee3ac806c032acde90a4ba50d197ad]: Commencement: S. 91 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-5bee3ac806c032acde90a4ba50d197ad]: Commencement: S. 91 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

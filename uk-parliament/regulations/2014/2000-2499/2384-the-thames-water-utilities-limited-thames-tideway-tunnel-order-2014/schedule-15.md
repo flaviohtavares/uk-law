@@ -24,7 +24,7 @@ Article 50
 
 ### PART 1 — GENERAL
 
-#### 1. Interpretation[^key-6fd88d944f29f1d7e591d56f2e6d6bf5]
+#### 1. Interpretation[^c-6fd88d944f29f1d7e591d56f2e6d6bf5]
 
 In this licence—
 
@@ -63,7 +63,7 @@ In this licence—
     - King Edward memorial Park Foreshore; and
     - Abbey Mills Pumping Station.
 
-#### 2. Contacts[^key-07563fd32a24c30629883daa186b3b0a]
+#### 2. Contacts[^c-07563fd32a24c30629883daa186b3b0a]
 
 (1) Except where otherwise indicated, the main point of contact with the MMO and the address for email and postal returns and correspondence shall be—
 
@@ -95,7 +95,7 @@ Email—dispersants@marinemanagement.org.uk
 
 or such replacement contact details notified to the licence holder in writing by the MMO.
 
-#### 3. Details of Licensed Marine Activities[^key-f900751260460313d24c6a473a92fd32]
+#### 3. Details of Licensed Marine Activities[^c-f900751260460313d24c6a473a92fd32]
 
 (1) Subject to the licence conditions in Part 2, this licence authorises the licence holder (and any agent, contractor or subcontractor acting on their behalf) to carry out any licensable marine activities under section 66(1) of the 2009 Act which—
 
@@ -111,19 +111,19 @@ or such replacement contact details notified to the licence holder in writing by
 
 #### NOTIFICATIONS AND INSPECTIONS
 
-##### 4. Notice of Transfer of Benefit[^key-b078bf1b8bd38861fa474902dff32d4e]
+##### 4. Notice of Transfer of Benefit[^c-b078bf1b8bd38861fa474902dff32d4e]
 
 The licence holder shall serve notice in writing of any transfer made pursuant to Article 9 (*transfer of benefit of order*) upon the MMO together with a copy of the instrument of deed effecting such transfer within 10 business days of any such transfer.
 
-##### 5. Notification of person responsible for the carrying out of licensed activity[^key-c156544f1bc36986d8bac9249ee869d6]
+##### 5. Notification of person responsible for the carrying out of licensed activity[^c-c156544f1bc36986d8bac9249ee869d6]
 
 The licence holder shall serve a copy of its application to discharge PW4 upon the MMO within 10 business days of the submission of such application.
 
 - In this condition “**PW4**” means the requirement described in the fourth entry of the table within paragraph 2 of Schedule 3 (*requirements*) to the Order.
 
-**6.**[^key-6eac5ee7b29d2e1968106696b145b45e] The licence holder shall inform the MMO in writing of the intended start date and the likely duration of licensed activities on a site at least 10 business days prior to the commencement of the first licensed activity on that site.
+**6.**[^c-6eac5ee7b29d2e1968106696b145b45e] The licence holder shall inform the MMO in writing of the intended start date and the likely duration of licensed activities on a site at least 10 business days prior to the commencement of the first licensed activity on that site.
 
-##### 7. Prior Approval of Licensed Activities[^key-01cfc2e4b931f265325ddd4788275e0e]
+##### 7. Prior Approval of Licensed Activities[^c-01cfc2e4b931f265325ddd4788275e0e]
 
 (1) Prior to the commencement of a licensed activity, the licence holder shall submit details of the licensed activity to the MMO for approval in accordance with the procedure in Part 3, in consultation with the Environment Agency and Port of London Authority.
 
@@ -133,7 +133,7 @@ The licence holder shall serve a copy of its application to discharge PW4 upon t
 - (b) the location of the licensed activity;
 - (c) the duration of the licensed activity;
 - (d) plans and sections;
-- (e) details of where the licensed activity was assessed in the environmental statement[^key-761928d34ac76eed5bbe965e74ca766c];
+- (e) details of where the licensed activity was assessed in the environmental statement[^c-761928d34ac76eed5bbe965e74ca766c];
 - (f) details of materials to be placed in or removed from the marine area;
 - (g) timings of activities;
 - (h) environmental mitigation measures;
@@ -142,7 +142,7 @@ The licence holder shall serve a copy of its application to discharge PW4 upon t
 
 (3) The licensed activity shall be carried out in accordance with the approval of the MMO.
 
-##### 8. Scour and Accretion Monitoring and Mitigation[^key-bfc07c5df5a71b91185c78ebd5b5ddf6]
+##### 8. Scour and Accretion Monitoring and Mitigation[^c-bfc07c5df5a71b91185c78ebd5b5ddf6]
 
 (1) The licence holder must submit to the MMO for approval a scour and accretion monitoring and mitigation strategy. The MMO will issue their decision in respect of the scour and accretion monitoring and mitigation strategy:
 
@@ -155,7 +155,7 @@ The licence holder shall serve a copy of its application to discharge PW4 upon t
 
 (3) The carrying out of any licensed activity shall proceed only in accordance with the agreed scour and accretion monitoring and mitigation plan approved under condition 8(2).
 
-##### 9. Construction Environment Management Plan[^key-b92d74e80a6a07c19fcaee3cd1c53f9b]
+##### 9. Construction Environment Management Plan[^c-b92d74e80a6a07c19fcaee3cd1c53f9b]
 
 (1) Prior to the commencement of licensed activities on a site the licence holder shall submit to the MMO, for approval in accordance with the procedure in Part 3, those parts of a Construction Environment Management Plan for that site (prepared pursuant to the COCP Part A as modified by the COCP Part B for that site) which relate to construction in the marine environment for that site.
 
@@ -168,15 +168,15 @@ The licence holder shall serve a copy of its application to discharge PW4 upon t
 - (e) a pollution incident response plan to include details of how impacts on the River environment will be mitigated in the event of accidental spillage or other pollution event; and
 - (f) measures for the clearance of the site of equipment, temporary structures (other than those which will remain to mitigate environmental and navigation impacts), waste and debris associated with the licensed activities on the completion of licensed activities at that site.
 
-##### 10. Concrete and Cement[^key-9ce86cb027568a6dbc71dac7383b972d]
+##### 10. Concrete and Cement[^c-9ce86cb027568a6dbc71dac7383b972d]
 
 The licence holder shall ensure that no waste concrete slurry or wash water from concrete or cement is discharged into the marine area. Concrete and cement mixing and washing areas must be sited at least 10 metres from any watercourse or surface water drain to minimise the risk of run off entering a watercourse.
 
-##### 11. Coatings and Treatments[^key-450072be86cf72243d45c5a2614ad299]
+##### 11. Coatings and Treatments[^c-450072be86cf72243d45c5a2614ad299]
 
 The licence holder shall ensure that any coatings and any treatments are suitable for use in the marine area and are used in accordance with either guidelines approved by the Health and Safety Executive or the Environment Agency Pollution Prevention Control Guidelines.
 
-##### 12. Spills etc.[^key-5a27f8375300c2f71693e537f30f1a0a]
+##### 12. Spills etc.[^c-5a27f8375300c2f71693e537f30f1a0a]
 
 The licence holder shall—
 
@@ -184,11 +184,11 @@ The licence holder shall—
 - (b) report any spill of oil, fuel or chemicals into the marine area to the MMO Marine Pollution Response Team within 24 hours of the spill occurring; and
 - (c) ensure that all waste is stored in designated areas that are isolated from surface water drains and open water and are bunded.
 
-##### 13. Percussive Piling[^key-c621d389c7dbbcdf6ae4c95924aeaede]
+##### 13. Percussive Piling[^c-c621d389c7dbbcdf6ae4c95924aeaede]
 
 Where a licensed activity involves percussive piling the licence holder shall ensure that all soft-start procedures are used for at least 20 minutes to ensure an incremental increase in pile power over a set period of time until full operational power is achieved. Should piling cease for at least 10 minutes the soft-start procedures must be repeated.
 
-##### 14. Agents, Contractors and Sub-Contractors[^key-58735f11ad62708c2d68744857949d9a]
+##### 14. Agents, Contractors and Sub-Contractors[^c-58735f11ad62708c2d68744857949d9a]
 
 (1) The licence holder shall—
 
@@ -197,7 +197,7 @@ Where a licensed activity involves percussive piling the licence holder shall en
 
 (2) Only those agents, contractors or sub-contractors notified to the MMO in accordance with condition 14(1)(a) are permitted to carry out the licensed activities.
 
-##### 15. Vessels[^key-71d2ab21636b49b07114f09a5cc836a5]
+##### 15. Vessels[^c-71d2ab21636b49b07114f09a5cc836a5]
 
 (1) The licence holder shall—
 
@@ -206,27 +206,27 @@ Where a licensed activity involves percussive piling the licence holder shall en
 
 (2) Only those vessels notified to the MMO under condition 15(1)(a) are permitted to carry out the licensed activities.
 
-##### 16. Notice of Completion of Licensed Activity[^key-0e7fe24e4de7421281843b499443e87c]
+##### 16. Notice of Completion of Licensed Activity[^c-0e7fe24e4de7421281843b499443e87c]
 
 The licence holder shall inform the MMO, in writing no more than 10 business days following the completion of the last licensed activity.
 
-##### 17. Changes to this Licence[^key-29ec0585203103181c6452c12c508f79]
+##### 17. Changes to this Licence[^c-29ec0585203103181c6452c12c508f79]
 
 The licence holder shall notify the MMO at the earliest opportunity of any change to the information upon which the granting of the deemed marine licence was based.
 
 ### PART 3 — PROCEDURE FOR THE DISCHARGE OF CONDITIONS
 
-#### 18. Meaning of “application”[^key-4b68ffa21e5f0ac2693d2199b13e8ce8]
+#### 18. Meaning of “application”[^c-4b68ffa21e5f0ac2693d2199b13e8ce8]
 
 In this Part, “**application**” means a submission by the licence holder for approval under conditions 7, 8 or 9.
 
-#### 19. Further information regarding application[^key-ca69594339eaea592714ca2125c95462]
+#### 19. Further information regarding application[^c-ca69594339eaea592714ca2125c95462]
 
 (1) The MMO may request in writing such further information from the licence holder as is necessary to enable the MMO to consider the application.
 
 (2) In the event that the MMO does not make a request in accordance with condition 19(1) above, it shall be deemed to have sufficient information to consider the application and shall not thereafter be entitled to request further information without the prior agreement of the licence holder.
 
-#### 20. Determination of application[^key-31475cd06a487c989e39056d6609b620]
+#### 20. Determination of application[^c-31475cd06a487c989e39056d6609b620]
 
 (1) In determining the application the MMO may have regard to —
 
@@ -240,7 +240,7 @@ In this Part, “**application**” means a submission by the licence holder for
 - (b) grant the application subject to the conditions as the MMO thinks fit; or
 - (c) refuse the application.
 
-#### 21. Notice of Determination[^key-d8b1bb86013165dcbba7afc4909d4225]
+#### 21. Notice of Determination[^c-d8b1bb86013165dcbba7afc4909d4225]
 
 (1) Subject to condition 21 (2) or (3), the MMO shall give notice to the licence holder of the determination of the application within 35 business days of the day immediately following that on which the application is received by the MMO.
 
@@ -252,7 +252,7 @@ In this Part, “**application**” means a submission by the licence holder for
 
 (5) Where notice is not given by the MMO in accordance with condition 21(1) or (2) the application is deemed to have been refused.
 
-#### 22. Arbitration[^key-570cfe6ac6a916df34e0438bc7ee3201]
+#### 22. Arbitration[^c-570cfe6ac6a916df34e0438bc7ee3201]
 
 (1) Subject to condition 22(2), any difference under any provision of this licence shall, unless otherwise agreed between the MMO and the licence holder, be referred to and settled by a single arbitrator to be agreed between the MMO and the licence holder or, failing agreement, to be appointed on the application of either the MMO or the licence holder (after giving notice in writing to the other) by the President of the Institution of Civil Engineers.
 
@@ -260,48 +260,48 @@ In this Part, “**application**” means a submission by the licence holder for
 
 ## Annotations
 
-[^key-6fd88d944f29f1d7e591d56f2e6d6bf5]: Commencement: Sch. 15 para. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-6fd88d944f29f1d7e591d56f2e6d6bf5]: Commencement: Sch. 15 para. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-07563fd32a24c30629883daa186b3b0a]: Commencement: Sch. 15 para. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-07563fd32a24c30629883daa186b3b0a]: Commencement: Sch. 15 para. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-f900751260460313d24c6a473a92fd32]: Commencement: Sch. 15 para. 3 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-f900751260460313d24c6a473a92fd32]: Commencement: Sch. 15 para. 3 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-b078bf1b8bd38861fa474902dff32d4e]: Commencement: Sch. 15 para. 4 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-b078bf1b8bd38861fa474902dff32d4e]: Commencement: Sch. 15 para. 4 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-c156544f1bc36986d8bac9249ee869d6]: Commencement: Sch. 15 para. 5 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-c156544f1bc36986d8bac9249ee869d6]: Commencement: Sch. 15 para. 5 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-6eac5ee7b29d2e1968106696b145b45e]: Commencement: Sch. 15 para. 6 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-6eac5ee7b29d2e1968106696b145b45e]: Commencement: Sch. 15 para. 6 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-01cfc2e4b931f265325ddd4788275e0e]: Commencement: Sch. 15 para. 7 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-01cfc2e4b931f265325ddd4788275e0e]: Commencement: Sch. 15 para. 7 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-761928d34ac76eed5bbe965e74ca766c]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2014/2384) substituted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 1
+[^c-761928d34ac76eed5bbe965e74ca766c]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2014/2384) substituted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 1
 
-[^key-bfc07c5df5a71b91185c78ebd5b5ddf6]: Commencement: Sch. 15 para. 8 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-bfc07c5df5a71b91185c78ebd5b5ddf6]: Commencement: Sch. 15 para. 8 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-b92d74e80a6a07c19fcaee3cd1c53f9b]: Commencement: Sch. 15 para. 9 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-b92d74e80a6a07c19fcaee3cd1c53f9b]: Commencement: Sch. 15 para. 9 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-9ce86cb027568a6dbc71dac7383b972d]: Commencement: Sch. 15 para. 10 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-9ce86cb027568a6dbc71dac7383b972d]: Commencement: Sch. 15 para. 10 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-450072be86cf72243d45c5a2614ad299]: Commencement: Sch. 15 para. 11 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-450072be86cf72243d45c5a2614ad299]: Commencement: Sch. 15 para. 11 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-5a27f8375300c2f71693e537f30f1a0a]: Commencement: Sch. 15 para. 12 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-5a27f8375300c2f71693e537f30f1a0a]: Commencement: Sch. 15 para. 12 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-c621d389c7dbbcdf6ae4c95924aeaede]: Commencement: Sch. 15 para. 13 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-c621d389c7dbbcdf6ae4c95924aeaede]: Commencement: Sch. 15 para. 13 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-58735f11ad62708c2d68744857949d9a]: Commencement: Sch. 15 para. 14 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-58735f11ad62708c2d68744857949d9a]: Commencement: Sch. 15 para. 14 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-71d2ab21636b49b07114f09a5cc836a5]: Commencement: Sch. 15 para. 15 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-71d2ab21636b49b07114f09a5cc836a5]: Commencement: Sch. 15 para. 15 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-0e7fe24e4de7421281843b499443e87c]: Commencement: Sch. 15 para. 16 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-0e7fe24e4de7421281843b499443e87c]: Commencement: Sch. 15 para. 16 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-29ec0585203103181c6452c12c508f79]: Commencement: Sch. 15 para. 17 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-29ec0585203103181c6452c12c508f79]: Commencement: Sch. 15 para. 17 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-4b68ffa21e5f0ac2693d2199b13e8ce8]: Commencement: Sch. 15 para. 18 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-4b68ffa21e5f0ac2693d2199b13e8ce8]: Commencement: Sch. 15 para. 18 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-ca69594339eaea592714ca2125c95462]: Commencement: Sch. 15 para. 19 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-ca69594339eaea592714ca2125c95462]: Commencement: Sch. 15 para. 19 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-31475cd06a487c989e39056d6609b620]: Commencement: Sch. 15 para. 20 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-31475cd06a487c989e39056d6609b620]: Commencement: Sch. 15 para. 20 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-d8b1bb86013165dcbba7afc4909d4225]: Commencement: Sch. 15 para. 21 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-d8b1bb86013165dcbba7afc4909d4225]: Commencement: Sch. 15 para. 21 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-570cfe6ac6a916df34e0438bc7ee3201]: Commencement: Sch. 15 para. 22 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-570cfe6ac6a916df34e0438bc7ee3201]: Commencement: Sch. 15 para. 22 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

@@ -46,17 +46,17 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act, a draft of this ins
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations:
 
-## 1. Citation and Commencement[^key-a7728e11dbb8c3082210ae0a57c230e0]
+## 1. Citation and Commencement[^c-a7728e11dbb8c3082210ae0a57c230e0]
 
 These Regulations may be cited as the Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 and come into force at 00.02 on 1st June 2014.
 
-## 2. Amendments to the Copyright, Designs and Patents Act 1988 etc.[^key-420d9b9ad4c4e33bdd3691a0888072e5]
+## 2. Amendments to the Copyright, Designs and Patents Act 1988 etc.[^c-420d9b9ad4c4e33bdd3691a0888072e5]
 
 (1) The Copyright, Designs and Patents Act 1988[^f00003] is amended in accordance with these Regulations.
 
 (2) The Schedule (which contains consequential amendments, repeals and revocations) has effect.
 
-## 3. Research, private study and text and data analysis for non-commercial research[^key-b3850dada9c26c9880b4826e31aa90c3]
+## 3. Research, private study and text and data analysis for non-commercial research[^c-b3850dada9c26c9880b4826e31aa90c3]
 
 (1) In section 29[^f00004]—
 
@@ -136,7 +136,7 @@ These Regulations may be cited as the Copyright and Rights in Performances (Rese
 
 .
 
-## 4. Education[^key-c865e8fab69175f6e13a570c074064ab]
+## 4. Education[^c-c865e8fab69175f6e13a570c074064ab]
 
 (1) For section 32[^f00006], substitute—
 
@@ -288,7 +288,7 @@ These Regulations may be cited as the Copyright and Rights in Performances (Rese
 
 .
 
-## 5. Libraries and archives: amendments to Part 1 of the Act[^key-9bf95dd8a067d06a9563c4392a19fe81]
+## 5. Libraries and archives: amendments to Part 1 of the Act[^c-9bf95dd8a067d06a9563c4392a19fe81]
 
 (1) After section 40A[^f00011] insert—
 
@@ -427,7 +427,7 @@ These Regulations may be cited as the Copyright and Rights in Performances (Rese
 
 .
 
-## 6. Libraries and archives: amendments to Part 2 of the Act[^key-5cd9d104ac60eca404efe0295656f82c]
+## 6. Libraries and archives: amendments to Part 2 of the Act[^c-5cd9d104ac60eca404efe0295656f82c]
 
 In Schedule 2, after paragraph 6B[^f00013], insert—
 
@@ -542,7 +542,7 @@ In Schedule 2, after paragraph 6B[^f00013], insert—
 
 .
 
-## 7. Recordings of folksongs[^key-17269a5b71af218d2754e57040ee208c]
+## 7. Recordings of folksongs[^c-17269a5b71af218d2754e57040ee208c]
 
 (1) In section 61(1), for “designated body” substitute “body not established or conducted for profit”.
 
@@ -598,7 +598,7 @@ In Schedule 2, after paragraph 6B[^f00013], insert—
 
 .
 
-## 8. Recording of broadcasts for archival purposes[^key-1fc178551259708cc5e9efac1d85fc23]
+## 8. Recording of broadcasts for archival purposes[^c-1fc178551259708cc5e9efac1d85fc23]
 
 (1) For section 75[^f00016], substitute—
 
@@ -634,11 +634,11 @@ Department for Business, Innovation and Skills
 
 Regulation 2(2)
 
-### 1. Interpretation[^key-cc9f49a40e75f3e8f6d73f540e68b0fc]
+### 1. Interpretation[^c-cc9f49a40e75f3e8f6d73f540e68b0fc]
 
 References in this Schedule to the “1988 Act” are references to the Copyright, Designs and Patents Act 1988[^f00018].
 
-### 2. Consequential amendments[^key-3403fae4d56fda68232bb9a8556cb184]
+### 2. Consequential amendments[^c-3403fae4d56fda68232bb9a8556cb184]
 
 In section 27(6)[^f00019] of the 1988 Act (meaning of infringing copy)—
 
@@ -669,9 +669,9 @@ In section 27(6)[^f00019] of the 1988 Act (meaning of infringing copy)—
 
   .
 
-**3.**[^key-ce3cd78fd66229bc49f1f1350e0889d8] In section 40A(2)[^f00020] of the 1988 Act, omit “prescribed”.
+**3.**[^c-ce3cd78fd66229bc49f1f1350e0889d8] In section 40A(2)[^f00020] of the 1988 Act, omit “prescribed”.
 
-**4.**[^key-d9c4c4995052a1a6b609497caad10c93] In section 79[^f00021] of the 1988 Act—
+**4.**[^c-d9c4c4995052a1a6b609497caad10c93] In section 79[^f00021] of the 1988 Act—
 
 - (a) omit subsection (4)(c), and
 - (b) after subsection (4) insert—
@@ -680,12 +680,12 @@ In section 27(6)[^f00019] of the 1988 Act (meaning of infringing copy)—
 
   .
 
-**5.**[^key-ab5c3eadf803673f3ac05842db3d558b] In section 143[^f00022] of the 1988 Act—
+**5.**[^c-ab5c3eadf803673f3ac05842db3d558b] In section 143[^f00022] of the 1988 Act—
 
 - (a) omit subsection (1)(a), and
 - (b) in subsection (3) omit “35,”.
 
-**6.**[^key-839890dc53df940e9c4e478f742500cc] In section 179[^f00023] of the 1988 Act (index of defined expressions for the purposes of Part 1 of the 1988 Act)—
+**6.**[^c-839890dc53df940e9c4e478f742500cc] In section 179[^f00023] of the 1988 Act (index of defined expressions for the purposes of Part 1 of the 1988 Act)—
 
 - (a) for the entry relating to the definition of “archivist” substitute—
 
@@ -731,7 +731,7 @@ and
 
 - (d) omit the entries for “prescribed conditions” and “prescribed library or archive”.
 
-**7.**[^key-d35fe237340e14ba25f1d235c7222f96] In section 197(5)[^f00024] of the 1988 Act (meaning of illicit recording)—
+**7.**[^c-d35fe237340e14ba25f1d235c7222f96] In section 197(5)[^f00024] of the 1988 Act (meaning of illicit recording)—
 
 - (a) insert into the list in the proper place—
 
@@ -761,14 +761,14 @@ and
 
   .
 
-**8.**[^key-22471ac6ace00dbc67d3aa11dca5b0f4] In paragraph 6B of Schedule 2[^f00025] to the 1988 Act—
+**8.**[^c-22471ac6ace00dbc67d3aa11dca5b0f4] In paragraph 6B of Schedule 2[^f00025] to the 1988 Act—
 
 - (a) in sub-paragraph (1), omit “prescribed”; and
 - (b) omit sub-paragraph (2).
 
-**9.**[^key-1e5d2055c8ed160e3bdd582cf0812aba] In paragraph 16(1) of Schedule 2A[^f00026] to the 1988 Act, omit “6,” and “recording of broadcasts by educational establishments,”.
+**9.**[^c-1e5d2055c8ed160e3bdd582cf0812aba] In paragraph 16(1) of Schedule 2A[^f00026] to the 1988 Act, omit “6,” and “recording of broadcasts by educational establishments,”.
 
-**10.**[^key-60dd6aff1ce1785da1f5f77a52627523] (1) Schedule 5A[^f00027] to the 1988 Act (permitted acts to which section 296ZE applies) is amended as follows.
+**10.**[^c-60dd6aff1ce1785da1f5f77a52627523] (1) Schedule 5A[^f00027] to the 1988 Act (permitted acts to which section 296ZE applies) is amended as follows.
 
 (2) In Part 1—
 
@@ -852,13 +852,13 @@ and
 
   .
 
-**11.**[^key-02976eec81baf6f016f13c17b9d4ce49] In section 185 of the Broadcasting Act 1990[^f00028], omit subsection (2)(a).
+**11.**[^c-02976eec81baf6f016f13c17b9d4ce49] In section 185 of the Broadcasting Act 1990[^f00028], omit subsection (2)(a).
 
-**12.**[^key-6b39baa7b14ebcb23fde8c00f9ba5a0b] In section 43(8) of the Digital Economy Act 2010[^f00029], omit paragraph (b).
+**12.**[^c-6b39baa7b14ebcb23fde8c00f9ba5a0b] In section 43(8) of the Digital Economy Act 2010[^f00029], omit paragraph (b).
 
-**13.**[^key-307a12ca51e285b5cfbc4068ce96d7f9] In article 2 of the Copyright (Application of Provisions relating to Educational Establishments to Teachers) (No.2) Order 1989[^f00030], for the words “which provide for educational use of recordings of broadcasts and copying of passages from published works in which copyright subsists”, substitute “recording by educational establishments of broadcasts and copying and use of extracts by educational establishments”.
+**13.**[^c-307a12ca51e285b5cfbc4068ce96d7f9] In article 2 of the Copyright (Application of Provisions relating to Educational Establishments to Teachers) (No.2) Order 1989[^f00030], for the words “which provide for educational use of recordings of broadcasts and copying of passages from published works in which copyright subsists”, substitute “recording by educational establishments of broadcasts and copying and use of extracts by educational establishments”.
 
-### 14. Repeals and revocations[^key-1e5f9a38b5a942722ddbc8b24228a15d]
+### 14. Repeals and revocations[^c-1e5f9a38b5a942722ddbc8b24228a15d]
 
 The enactments listed in column 1 of the Table are repealed or revoked to the extent specified in column 2.
 
@@ -897,19 +897,19 @@ Full impact assessments of the effect that this instrument will have on the cost
 
 [^f00002]: Footnote: [S.I. 1992/707](https://www.legislation.gov.uk/uksi/1992/707) and [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-a7728e11dbb8c3082210ae0a57c230e0]: Commencement: Reg. 1 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-a7728e11dbb8c3082210ae0a57c230e0]: Commencement: Reg. 1 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
-[^key-420d9b9ad4c4e33bdd3691a0888072e5]: Commencement: Reg. 2 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-420d9b9ad4c4e33bdd3691a0888072e5]: Commencement: Reg. 2 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00003]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-b3850dada9c26c9880b4826e31aa90c3]: Commencement: Reg. 3 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-b3850dada9c26c9880b4826e31aa90c3]: Commencement: Reg. 3 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00004]: Footnote: Section 29 was amended by [S.I. 1992/3233](https://www.legislation.gov.uk/uksi/1992/3233), regulation 7, [S.I. 1997/3032](https://www.legislation.gov.uk/uksi/1997/3032), regulation 8 and [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 9.
 
 [^f00005]: Footnote: Paragraph 2 of Schedule 2 was substituted by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 10(2).
 
-[^key-c865e8fab69175f6e13a570c074064ab]: Commencement: Reg. 4 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-c865e8fab69175f6e13a570c074064ab]: Commencement: Reg. 4 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00006]: Footnote: Section 32 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 11.
 
@@ -921,81 +921,81 @@ Full impact assessments of the effect that this instrument will have on the cost
 
 [^f00010]: Footnote: Paragraph 6 of Schedule 2 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 12(2).
 
-[^key-9bf95dd8a067d06a9563c4392a19fe81]: Commencement: Reg. 5 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-9bf95dd8a067d06a9563c4392a19fe81]: Commencement: Reg. 5 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00011]: Footnote: Section 40A was inserted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulation 11(2) and is prospectively amended by section 43 of the Digital Economy Act [2010 (c.24)](https://www.legislation.gov.uk/ukpga/2010/24).
 
 [^f00012]: Footnote: Section 43 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 14.
 
-[^key-5cd9d104ac60eca404efe0295656f82c]: Commencement: Reg. 6 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-5cd9d104ac60eca404efe0295656f82c]: Commencement: Reg. 6 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00013]: Footnote: Paragraph 6B was inserted into Schedule 2 by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulation 20(3), was amended by [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18), paragraph 9 of the Schedule and is prospectively amended by section 43 of the Digital Economy Act [2010 (c.24)](https://www.legislation.gov.uk/ukpga/2010/24).
 
-[^key-17269a5b71af218d2754e57040ee208c]: Commencement: Reg. 7 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-17269a5b71af218d2754e57040ee208c]: Commencement: Reg. 7 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00014]: Footnote: Section 61(4) was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 16.
 
 [^f00015]: Footnote: Paragraph 14 was amended by [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18), paragraph 9 of the Schedule.
 
-[^key-1fc178551259708cc5e9efac1d85fc23]: Commencement: Reg. 8 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-1fc178551259708cc5e9efac1d85fc23]: Commencement: Reg. 8 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00016]: Footnote: Section 75 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(2) and Schedule 2.
 
 [^f00017]: Footnote: Paragraph 21 of Schedule 2 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), Schedule 2 and [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18), paragraph 9 of the Schedule.
 
-[^key-cc9f49a40e75f3e8f6d73f540e68b0fc]: Commencement: Sch. para. 1 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-cc9f49a40e75f3e8f6d73f540e68b0fc]: Commencement: Sch. para. 1 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00018]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-3403fae4d56fda68232bb9a8556cb184]: Commencement: Sch. para. 2 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-3403fae4d56fda68232bb9a8556cb184]: Commencement: Sch. para. 2 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00019]: Footnote: Section 27(6) has been amended but none of the amendments are relevant.
 
-[^key-ce3cd78fd66229bc49f1f1350e0889d8]: Commencement: Sch. para. 3 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-ce3cd78fd66229bc49f1f1350e0889d8]: Commencement: Sch. para. 3 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00020]: Footnote: Section 40A was inserted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulation 11(2) and is prospectively amended by section 43 of the Digital Economy Act [2010 (c.24)](https://www.legislation.gov.uk/ukpga/2010/24).
 
-[^key-d9c4c4995052a1a6b609497caad10c93]: Commencement: Sch. para. 4 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-d9c4c4995052a1a6b609497caad10c93]: Commencement: Sch. para. 4 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00021]: Footnote: Section 79 has been amended but none of the amendments are relevant.
 
-[^key-ab5c3eadf803673f3ac05842db3d558b]: Commencement: Sch. para. 5 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-ab5c3eadf803673f3ac05842db3d558b]: Commencement: Sch. para. 5 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00022]: Footnote: Section 143(1)(a) was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(2) and Schedule 2.
 
-[^key-839890dc53df940e9c4e478f742500cc]: Commencement: Sch. para. 6 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-839890dc53df940e9c4e478f742500cc]: Commencement: Sch. para. 6 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00023]: Footnote: Section 179 has been amended but none of the amendments are relevant.
 
-[^key-d35fe237340e14ba25f1d235c7222f96]: Commencement: Sch. para. 7 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-d35fe237340e14ba25f1d235c7222f96]: Commencement: Sch. para. 7 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00024]: Footnote: Section 197(5) was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498) regulation 20(4) and Schedule 2 and [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18), paragraph 8 of the Schedule.
 
-[^key-22471ac6ace00dbc67d3aa11dca5b0f4]: Commencement: Sch. para. 8 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-22471ac6ace00dbc67d3aa11dca5b0f4]: Commencement: Sch. para. 8 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00025]: Footnote: Paragraph 6B of Schedule 2 was inserted in to the 1988 Act by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) regulation 20(3), was amended by [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18), paragraph 9 of the Schedule and is prospectively amended by section 43 of the Digital Economy Act [2010 (c.24)](https://www.legislation.gov.uk/ukpga/2010/24).
 
-[^key-1e5d2055c8ed160e3bdd582cf0812aba]: Commencement: Sch. para. 9 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-1e5d2055c8ed160e3bdd582cf0812aba]: Commencement: Sch. para. 9 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00026]: Footnote: Schedule 2A was inserted into the 1988 Act by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulation 22(2) and paragraph 16(1) of Schedule 2A was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), Schedule 1, Part 1, paragraph 17.
 
-[^key-60dd6aff1ce1785da1f5f77a52627523]: Commencement: Sch. para. 10 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-60dd6aff1ce1785da1f5f77a52627523]: Commencement: Sch. para. 10 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00027]: Footnote: Schedule 5A was inserted into the 1988 Act by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 24(2).
 
-[^key-02976eec81baf6f016f13c17b9d4ce49]: Commencement: Sch. para. 11 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-02976eec81baf6f016f13c17b9d4ce49]: Commencement: Sch. para. 11 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00028]: Footnote: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42). Section 185(2) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 15, paragraph 64.
 
-[^key-6b39baa7b14ebcb23fde8c00f9ba5a0b]: Commencement: Sch. para. 12 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-6b39baa7b14ebcb23fde8c00f9ba5a0b]: Commencement: Sch. para. 12 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00029]: Footnote: [2010 c.24](https://www.legislation.gov.uk/ukpga/2010/24).
 
-[^key-307a12ca51e285b5cfbc4068ce96d7f9]: Commencement: Sch. para. 13 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-307a12ca51e285b5cfbc4068ce96d7f9]: Commencement: Sch. para. 13 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00030]: Footnote: [S.I. 1989/1067](https://www.legislation.gov.uk/uksi/1989/1067). Regulation 2 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(2) and Schedule 2 and [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), Schedule 3, paragraph 15.
 
-[^key-1e5f9a38b5a942722ddbc8b24228a15d]: Commencement: Sch. para. 14 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
+[^c-1e5f9a38b5a942722ddbc8b24228a15d]: Commencement: Sch. para. 14 in force at 1.6.2014 at 00.02, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1)
 
 [^f00031]: Footnote: [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47.[^key-7d7b1afb148613484aaee8edc4287f70]
+## 47.[^c-7d7b1afb148613484aaee8edc4287f70]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 45 (domicile of trusts), in subsection (1), omit the words from “th
 
 ## Annotations
 
-[^key-7d7b1afb148613484aaee8edc4287f70]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-7d7b1afb148613484aaee8edc4287f70]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36.[^key-038eb84fc9556860d478a3468fc4ffba]
+## 36.[^c-038eb84fc9556860d478a3468fc4ffba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 16(1) [^c24395101] (retailers' invoices), after “£250 and” in
 
 ## Annotations
 
-[^key-038eb84fc9556860d478a3468fc4ffba]: Commencement: Reg. 36 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-038eb84fc9556860d478a3468fc4ffba]: Commencement: Reg. 36 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395101]: Marginal citation: Relevantly amended by [S.I. 2003/3220](https://www.legislation.gov.uk/uksi/2003/3220) and 2019/59. The amendment made by the latter instrument has not been commenced and is omitted by this instrument.

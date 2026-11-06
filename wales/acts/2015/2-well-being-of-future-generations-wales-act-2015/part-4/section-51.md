@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Guidance[^key-3bbd60b47a41ea74fef1e98767f0c2f3]
+## 51. Guidance[^c-3bbd60b47a41ea74fef1e98767f0c2f3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bbd60b47a41ea74fef1e98767f0c2f3]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2015/2/section/51) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(m)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/m)
+[^c-3bbd60b47a41ea74fef1e98767f0c2f3]: Commencement: [S. 51](https://www.legislation.gov.uk/anaw/2015/2/section/51) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(m)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/m)

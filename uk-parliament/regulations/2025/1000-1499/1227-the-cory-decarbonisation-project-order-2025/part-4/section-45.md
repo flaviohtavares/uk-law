@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Protective provisions[^key-08828eeebdcc410cdf95a0b4a6721e72]
+## 45. Protective provisions[^c-08828eeebdcc410cdf95a0b4a6721e72]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-08828eeebdcc410cdf95a0b4a6721e72]: Commencement: Art. 45 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-08828eeebdcc410cdf95a0b4a6721e72]: Commencement: Art. 45 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

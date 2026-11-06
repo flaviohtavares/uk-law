@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Refusal of a needs assessment for a carer aged 16 or 17[^key-241827e44e0c9e13a857d1e453029599]
+## 26. Refusal of a needs assessment for a carer aged 16 or 17[^c-241827e44e0c9e13a857d1e453029599]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ the duty under that section to assess the carer's needs does not apply.
 
 ## Annotations
 
-[^key-241827e44e0c9e13a857d1e453029599]: Commencement: S. 26 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-241827e44e0c9e13a857d1e453029599]: Commencement: S. 26 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

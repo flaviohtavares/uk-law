@@ -60,7 +60,7 @@ may, with the consent of the Minister for the Civil Service, make, maintain and 
 - (c) persons who have served in the Central Office of the Overseas Audit Department (which was wound up on 31st December 1971); [^c870054] . . .
 - (d)[^c870055] a person who is—
   - (i) a member of a police force engaged on relevant service within the meaning of section 97(1)(a), (e) or (g) of the Police Act 1996 (service under section 26 of the Police Act 1996, under section 1(1) of the Police (Overseas Service) Act 1945 or pursuant to an appointment under section 10 of the Overseas Development and Co-operation Act 1980)[^c870056]or an appointment made in connection with the provision by the Secretary of State of assistance under the International Development Act 2002[^c870057], or
-  - (ii)[^key-ba65c8df6021b4261fc8e9b5b5542cdc] a constable of the Police Service of Scotland engaged on temporary service of any of the kinds listed in subsection (2A), or
+  - (ii)[^c-ba65c8df6021b4261fc8e9b5b5542cdc] a constable of the Police Service of Scotland engaged on temporary service of any of the kinds listed in subsection (2A), or
   - (iii) a member of the Royal Ulster Constabulary engaged on relevant service within the meaning of section 27(1)(d), (g) or (h) of the Police (Northern Ireland) Act 1998,
 
   and who is incapacitated or dies as a result of an injury sustained or disease contracted during that service;
@@ -69,7 +69,7 @@ may, with the consent of the Minister for the Civil Service, make, maintain and 
 
   persons who are contributing or who have contributed to the Oversea Superannuation Scheme, whether before or after the coming into force of this paragraph.
 
-(2A)[^key-efd1dbb252e78467dd6127e808ebf97e] The reference to temporary service in subsection (2)(d)(ii) is to any of the following kinds of temporary service in pursuance of section 15 of the Police and Fire Reform (Scotland) Act 2012—
+(2A)[^c-efd1dbb252e78467dd6127e808ebf97e] The reference to temporary service in subsection (2)(d)(ii) is to any of the following kinds of temporary service in pursuance of section 15 of the Police and Fire Reform (Scotland) Act 2012—
 
 - (a) service in pursuance of section 15 of the Police and Fire Reform (Scotland) Act 2012 with any person engaged in activity outwith the United Kingdom;
 - (b) service the expenses of which are payable under section 1(1) of the Police (Overseas Service) Act 1945 with the consent of the chief constable of the Police Service of Scotland;
@@ -238,9 +238,9 @@ Section 6.
 
 [^c870057]: Textual amendment: Words in s. 2(2)(d)(i)(ii) inserted (17.6.2002) by [2002 c. 1](https://www.legislation.gov.uk/ukpga/2002/1), [s. 19](https://www.legislation.gov.uk/ukpga/2002/1/section/19), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2002/1/schedule/3/paragraph/5) (with [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2002/1/schedule/5/paragraph/5)); [S.I. 2002/1408](https://www.legislation.gov.uk/uksi/2002/1408), [art. 2](https://www.legislation.gov.uk/uksi/2002/1408/article/2)
 
-[^key-ba65c8df6021b4261fc8e9b5b5542cdc]: Textual amendment: S. 2(2)(d)(ii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/9/a) (with [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/5))
+[^c-ba65c8df6021b4261fc8e9b5b5542cdc]: Textual amendment: S. 2(2)(d)(ii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/9/a) (with [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/5))
 
-[^key-efd1dbb252e78467dd6127e808ebf97e]: Textual amendment: S. 2(2A) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/9/b) (with [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/5))
+[^c-efd1dbb252e78467dd6127e808ebf97e]: Textual amendment: S. 2(2A) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/9/b) (with [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/5))
 
 [^c870062]: Textual amendment: s. 2(4A) inserted (27.08.1991) by [Oversea Superannuation Act 1991 (c. 16, SIF 101A)](https://www.legislation.gov.uk/ukpga/1991/16), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/1991/16/section/1/3), [3(2)](https://www.legislation.gov.uk/ukpga/1991/16/section/3/2).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Collaboration agreements: supplementary[^key-cc70ab404de172e3be07446842d8c596]
+## 79. Collaboration agreements: supplementary[^c-cc70ab404de172e3be07446842d8c596]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc70ab404de172e3be07446842d8c596]: Commencement: S. 79 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-cc70ab404de172e3be07446842d8c596]: Commencement: S. 79 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)

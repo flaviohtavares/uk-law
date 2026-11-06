@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.67. Child Witness Notice[^key-f3a34936d71d830ba99d7ba2732e222a]
+## 3.67. Child Witness Notice[^c-f3a34936d71d830ba99d7ba2732e222a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A child witness notice lodged in accordance with section 12(2) of the Act of 200
 
 ## Annotations
 
-[^key-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)
+[^c-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)

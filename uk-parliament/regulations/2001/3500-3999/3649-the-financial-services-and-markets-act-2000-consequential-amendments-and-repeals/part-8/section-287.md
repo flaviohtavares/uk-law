@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 287. Repeal of spent disqualifications[^key-e29420cffd5a92d583712f91c8e4a613]
+## 287. Repeal of spent disqualifications[^c-e29420cffd5a92d583712f91c8e4a613]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e29420cffd5a92d583712f91c8e4a613]: Commencement: Art. 287 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e29420cffd5a92d583712f91c8e4a613]: Commencement: Art. 287 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00209]: Footnote: Schedule 1 was reprinted (Reprint No. 15) incorporating all amendments in force on 19 March 1997.

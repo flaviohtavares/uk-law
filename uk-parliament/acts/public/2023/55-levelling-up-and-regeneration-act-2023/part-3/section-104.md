@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Urgent works to listed buildings: occupied buildings and recovery of costs[^key-b33a3e3ee875e73d7bdc3fb81ab31a7c]
+## 104. Urgent works to listed buildings: occupied buildings and recovery of costs[^c-b33a3e3ee875e73d7bdc3fb81ab31a7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b33a3e3ee875e73d7bdc3fb81ab31a7c]: Commencement: S. 104 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-b33a3e3ee875e73d7bdc3fb81ab31a7c]: Commencement: S. 104 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)

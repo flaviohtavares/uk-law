@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 434. Interpretation of the 1993 Order[^key-a40e4ab0e6d91e91481a88f2051a3a18]
+## 434. Interpretation of the 1993 Order[^c-a40e4ab0e6d91e91481a88f2051a3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a40e4ab0e6d91e91481a88f2051a3a18]: Commencement: Art. 434 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a40e4ab0e6d91e91481a88f2051a3a18]: Commencement: Art. 434 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Public functions: duties to provide information on certain expenditure etc.[^key-ccdfd90d0a3e1796ddf6ba4697e6d0bd]
+## 31. Public functions: duties to provide information on certain expenditure etc.[^c-ccdfd90d0a3e1796ddf6ba4697e6d0bd]
 
 *Extent: S*
 
-(1)[^key-aa5caabe5f5633b77bd68395141a01da] As soon as is reasonably practicable after the end of each financial year each listed public body must publish a statement of any expenditure that it has incurred during that financial year on or in connection with the matters described in subsection (2).
+(1)[^c-aa5caabe5f5633b77bd68395141a01da] As soon as is reasonably practicable after the end of each financial year each listed public body must publish a statement of any expenditure that it has incurred during that financial year on or in connection with the matters described in subsection (2).
 
 (2) Those matters are—
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) hospitality and entertainment,
 - (d) external consultancy.
 
-(3)[^key-aa5caabe5f5633b77bd68395141a01da] As soon as is reasonably practicable after the end of each financial year each listed public body must publish a statement specifying the amount, date, payee and subject-matter of any payment made during that financial year which has a value in excess of £25,000.
+(3)[^c-aa5caabe5f5633b77bd68395141a01da] As soon as is reasonably practicable after the end of each financial year each listed public body must publish a statement specifying the amount, date, payee and subject-matter of any payment made during that financial year which has a value in excess of £25,000.
 
 (4) As soon as is reasonably practicable after the end of each financial year each listed public body must publish a statement specifying the number of individuals (if any) who, during that financial year, received remuneration in excess of £150,000 in relation to service as a member of the listed public body or a member of its staff.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ccdfd90d0a3e1796ddf6ba4697e6d0bd]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2010/8/section/31) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-ccdfd90d0a3e1796ddf6ba4697e6d0bd]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2010/8/section/31) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-aa5caabe5f5633b77bd68395141a01da]: Modification: [S. 31(1)](https://www.legislation.gov.uk/asp/2010/8/section/31/1)[(3)](https://www.legislation.gov.uk/asp/2010/8/section/31/3) excluded (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [3](https://www.legislation.gov.uk/ssi/2010/322/article/3)
+[^c-aa5caabe5f5633b77bd68395141a01da]: Modification: [S. 31(1)](https://www.legislation.gov.uk/asp/2010/8/section/31/1)[(3)](https://www.legislation.gov.uk/asp/2010/8/section/31/3) excluded (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [3](https://www.legislation.gov.uk/ssi/2010/322/article/3)

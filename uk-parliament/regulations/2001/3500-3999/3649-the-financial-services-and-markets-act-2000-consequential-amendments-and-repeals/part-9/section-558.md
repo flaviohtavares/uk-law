@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 558. Prescribed persons to whom information may be provided[^key-1c407866df4ddb2f3910f7164079394b]
+## 558. Prescribed persons to whom information may be provided[^c-1c407866df4ddb2f3910f7164079394b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ Paragraph 1 of Schedule 5A[^f00355] (mis-sold pensions) to the Local Government 
 
 ## Annotations
 
-[^key-1c407866df4ddb2f3910f7164079394b]: Commencement: Art. 558 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1c407866df4ddb2f3910f7164079394b]: Commencement: Art. 558 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00355]: Footnote: Schedule 5A was inserted by [S.I. 1997/954](https://www.legislation.gov.uk/uksi/1997/954), regulation 6 (as amended by [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613), regulations 2(1), 27, Schedule 3, paragraph 62(1), (6)).

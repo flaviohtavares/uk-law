@@ -34,7 +34,7 @@ AGRICULTURE
 
 PESTICIDES
 
-The Fees for Assessment of Active Substances (Third Stage Review) Regulations 2005 (revoked)[^key-9c415f0b5a3674e9f0ab373f364e8eb1]
+The Fees for Assessment of Active Substances (Third Stage Review) Regulations 2005 (revoked)[^c-9c415f0b5a3674e9f0ab373f364e8eb1]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 17th February 2005
 
-[^key-9c415f0b5a3674e9f0ab373f364e8eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c415f0b5a3674e9f0ab373f364e8eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-9c415f0b5a3674e9f0ab373f364e8eb1]
+## 1. Title, commencement and interpretation[^c-9c415f0b5a3674e9f0ab373f364e8eb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable for third stage reviews[^key-9c415f0b5a3674e9f0ab373f364e8eb1]
+## 2. Fees payable for third stage reviews[^c-9c415f0b5a3674e9f0ab373f364e8eb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9c415f0b5a3674e9f0ab373f364e8eb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9c415f0b5a3674e9f0ab373f364e8eb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9c415f0b5a3674e9f0ab373f364e8eb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9c415f0b5a3674e9f0ab373f364e8eb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-9c415f0b5a3674e9f0ab373f364e8eb1]
+## 5. Revocation[^c-9c415f0b5a3674e9f0ab373f364e8eb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c415f0b5a3674e9f0ab373f364e8eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c415f0b5a3674e9f0ab373f364e8eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9c415f0b5a3674e9f0ab373f364e8eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c415f0b5a3674e9f0ab373f364e8eb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9c415f0b5a3674e9f0ab373f364e8eb1]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products (Fees and Charges) Regulations 2011 (S.I. 2011/2132)](https://www.legislation.gov.uk/uksi/2011/2132), [reg. 9(a)](https://www.legislation.gov.uk/uksi/2011/2132/regulation/9/a)
+[^c-9c415f0b5a3674e9f0ab373f364e8eb1]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products (Fees and Charges) Regulations 2011 (S.I. 2011/2132)](https://www.legislation.gov.uk/uksi/2011/2132), [reg. 9(a)](https://www.legislation.gov.uk/uksi/2011/2132/regulation/9/a)

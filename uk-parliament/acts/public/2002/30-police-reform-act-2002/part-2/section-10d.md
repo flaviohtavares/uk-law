@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10D. Code of practice[^key-a3766445b343fede2037ab38fa79138c][^key-3f9f833322cb9779a260109b1f2b5180]
+## 10D. Code of practice[^c-a3766445b343fede2037ab38fa79138c][^c-3f9f833322cb9779a260109b1f2b5180]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3766445b343fede2037ab38fa79138c]: Textual amendment: Ss. 10A-10D inserted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 34(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/34/6), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-a3766445b343fede2037ab38fa79138c]: Textual amendment: Ss. 10A-10D inserted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 34(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/34/6), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
-[^key-3f9f833322cb9779a260109b1f2b5180]: Modification: Pt. 2: power to amend conferred (E.W.) (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21), [s. 4K(2)(4)](https://www.legislation.gov.uk/ukpga/2004/21/section/4K/2/4) (as inserted by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38))
+[^c-3f9f833322cb9779a260109b1f2b5180]: Modification: Pt. 2: power to amend conferred (E.W.) (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21), [s. 4K(2)(4)](https://www.legislation.gov.uk/ukpga/2004/21/section/4K/2/4) (as inserted by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.20. Restriction on use of a privileged document inspection of which has been inadvertently allowed[^key-61060c2b5a79356db54de47ff4c5e281]
+## 31.20. Restriction on use of a privileged document inspection of which has been inadvertently allowed[^c-61060c2b5a79356db54de47ff4c5e281]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a party inadvertently allows a privileged<sup>(GL)</sup> document to be in
 
 ## Annotations
 
-[^key-61060c2b5a79356db54de47ff4c5e281]: Commencement: [Rule 31.20](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.20) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-61060c2b5a79356db54de47ff4c5e281]: Commencement: [Rule 31.20](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.20) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

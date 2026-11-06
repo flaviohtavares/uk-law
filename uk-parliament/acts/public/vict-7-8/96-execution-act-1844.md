@@ -29,23 +29,23 @@ Execution Act 1844 (repealed)
 
 1844 c. 96
 
-[^key-57abdeaa4c4ee9db3275004a9864454e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57abdeaa4c4ee9db3275004a9864454e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1—66. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-57abdeaa4c4ee9db3275004a9864454e][^key-57abdeaa4c4ee9db3275004a9864454e]
+## 1—66. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-57abdeaa4c4ee9db3275004a9864454e][^c-57abdeaa4c4ee9db3275004a9864454e]
 
 **May not be in force at this date. Check the source.**
 
-## 67.[^key-57abdeaa4c4ee9db3275004a9864454e][^key-57abdeaa4c4ee9db3275004a9864454e]
+## 67.[^c-57abdeaa4c4ee9db3275004a9864454e][^c-57abdeaa4c4ee9db3275004a9864454e]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 68—75. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-57abdeaa4c4ee9db3275004a9864454e][^key-57abdeaa4c4ee9db3275004a9864454e]
+## 68—75. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-57abdeaa4c4ee9db3275004a9864454e][^c-57abdeaa4c4ee9db3275004a9864454e]
 
 **May not be in force at this date. Check the source.**
 
-## SCHEDULES (A.), (B.). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-57abdeaa4c4ee9db3275004a9864454e]
+## SCHEDULES (A.), (B.). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-57abdeaa4c4ee9db3275004a9864454e]
 
 **No longer in force.**
 
@@ -53,4 +53,4 @@ Execution Act 1844 (repealed)
 
 ## Annotations
 
-[^key-57abdeaa4c4ee9db3275004a9864454e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/7-8/96) repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/8), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-57abdeaa4c4ee9db3275004a9864454e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/7-8/96) repealed (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/8), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

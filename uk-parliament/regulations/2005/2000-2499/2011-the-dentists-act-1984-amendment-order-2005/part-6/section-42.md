@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Repeal of section 50[^key-8f702b392f4881d4b82ccbc75448b4ea]
+## 42. Repeal of section 50[^c-8f702b392f4881d4b82ccbc75448b4ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Section 50 (evidence etc in certain proceedings under the Dentists Act 1984) is 
 
 ## Annotations
 
-[^key-8f702b392f4881d4b82ccbc75448b4ea]: Commencement: Art. 42 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-8f702b392f4881d4b82ccbc75448b4ea]: Commencement: Art. 42 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

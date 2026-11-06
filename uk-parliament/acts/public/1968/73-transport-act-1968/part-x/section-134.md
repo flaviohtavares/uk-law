@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to the following authorities, namely, the Boards, the new authorities, and the Executive for any designated area within the meaning of section 9(1)[^c15334891] area which is an integrated transport area or *(Extent: E+W)*[^key-345cebd06203cd6eef060a9f413a1f96] a passenger transport area for the purposes of Part II of this Act.
+(1) This section applies to the following authorities, namely, the Boards, the new authorities, and the Executive for any designated area within the meaning of section 9(1)[^c15334891] area which is an integrated transport area or *(Extent: E+W)*[^c-345cebd06203cd6eef060a9f413a1f96] a passenger transport area for the purposes of Part II of this Act.
 
 (2) Every authority to whom this section applies who engage, either directly or through a subsidiary, in any activities authorised by any of the provisions specified in subsection (3) of this section shall in carrying on those activities act as if they were a company engaged in a commercial enterprise or, as the case may be, shall exercise their control over that subsidiary so as to ensure that the subsidiary in carrying on those activities acts as a company so engaged.
 
@@ -33,6 +33,6 @@ summary: ''
 
 [^c15334891]: Textual amendment: Words commencing “area which is" substituted (E.W.S.) for words commencing “designated" by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 57(6)](https://www.legislation.gov.uk/ukpga/1985/67/section/57/6), [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/17)
 
-[^key-345cebd06203cd6eef060a9f413a1f96]: Textual amendment: Words in s. 134(1) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/13); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-345cebd06203cd6eef060a9f413a1f96]: Textual amendment: Words in s. 134(1) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/13); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c15334911]: Textual amendment: Words repealed by [Transport Act 1980 (c. 34, SIF 126)](https://www.legislation.gov.uk/ukpga/1980/34), [Sch. 9 Pt. III](https://www.legislation.gov.uk/ukpga/1980/34/schedule/9/part/III)

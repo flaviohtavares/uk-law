@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Guidance by the Secretary of State[^key-b0efc380be942c874c72e590b590599f]
+## 38. Guidance by the Secretary of State[^c-b0efc380be942c874c72e590b590599f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0efc380be942c874c72e590b590599f]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2009/23/section/38) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)
+[^c-b0efc380be942c874c72e590b590599f]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2009/23/section/38) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)

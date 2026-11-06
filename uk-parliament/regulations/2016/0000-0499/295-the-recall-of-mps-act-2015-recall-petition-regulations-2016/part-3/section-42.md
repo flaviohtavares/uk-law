@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Public notice of outcome of petition[^key-64d93a8b13498b4aaf3533cadd1d46fc]
+## 42. Public notice of outcome of petition[^c-64d93a8b13498b4aaf3533cadd1d46fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ The public notice given by the petition officer under section 14(2)(c) of the Ac
 
 ## Annotations
 
-[^key-64d93a8b13498b4aaf3533cadd1d46fc]: Commencement: Reg. 42 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-64d93a8b13498b4aaf3533cadd1d46fc]: Commencement: Reg. 42 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. The count[^key-a8d1e706b63085bc8d712529809f64d7]
+## 46. The count[^c-a8d1e706b63085bc8d712529809f64d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,6 +82,6 @@ In paragraph (a) “the appropriate area” means the voting area containing the
 
 ## Annotations
 
-[^key-a8d1e706b63085bc8d712529809f64d7]: Commencement: Reg. 46 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-a8d1e706b63085bc8d712529809f64d7]: Commencement: Reg. 46 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00035]: Footnote: Section 10 was substituted, and sections 10A and 13A were inserted, by paragraphs 1, 4 and 6 of Schedule 1 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2). Subsection (4B) of section 10, subsection (1B) of section 10A and subsection (2B) of section 13A were inserted by section 1 of the Electoral Fraud (Northern Ireland) Act [2002 (c.13)](https://www.legislation.gov.uk/ukpga/2002/13). Sections 10(4B) and 10A(1B) were amended by paragraphs 104, 105 and 106 of Schedule 1 to the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).

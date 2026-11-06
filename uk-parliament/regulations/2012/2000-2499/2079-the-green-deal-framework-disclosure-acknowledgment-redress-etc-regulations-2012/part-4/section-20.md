@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Changes to a membership list – update to registers[^key-01aa2715672cc451e0ca572756b21e7c]
+## 20. Changes to a membership list – update to registers[^c-01aa2715672cc451e0ca572756b21e7c]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Where the Secretary of State receives notification pursuant to regulation 19(1)(
 
 ## Annotations
 
-[^key-01aa2715672cc451e0ca572756b21e7c]: Commencement: Reg. 20 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-01aa2715672cc451e0ca572756b21e7c]: Commencement: Reg. 20 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

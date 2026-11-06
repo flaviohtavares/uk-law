@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Meeting of creditors[^key-f0652e282658c05f4080b46f957eac65]
+## 30. Meeting of creditors[^c-f0652e282658c05f4080b46f957eac65]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0652e282658c05f4080b46f957eac65]: Commencement: S. 30 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f0652e282658c05f4080b46f957eac65]: Commencement: S. 30 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

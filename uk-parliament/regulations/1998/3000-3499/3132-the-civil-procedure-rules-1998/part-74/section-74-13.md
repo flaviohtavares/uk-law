@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74.13. Evidence in support[^key-3bdde8a4ae2efc3f1bdb3d288be72b56]
+## 74.13. Evidence in support[^c-3bdde8a4ae2efc3f1bdb3d288be72b56]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the claim form in the proceedings in which judgment was given;
 - (b) evidence that it was served on the defendant;
 - (c) the statements of case; and
-- (d) where relevant, a document showing that for those proceedings the applicant was a person to whom legal aid, as defined in rule 44.1, was provided[^key-9d15494f50fe2b4947d14e2ec33970d7].
+- (d) where relevant, a document showing that for those proceedings the applicant was a person to whom legal aid, as defined in rule 44.1, was provided[^c-9d15494f50fe2b4947d14e2ec33970d7].
 
 (2) The written evidence must—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)
+[^c-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)
 
-[^key-9d15494f50fe2b4947d14e2ec33970d7]: Textual amendment: Words in [rule 74.13(1)(d)](https://www.legislation.gov.uk/uksi/1998/3132/rule/74.13/1/d) substituted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/13/b) (with [reg. 14(2)](https://www.legislation.gov.uk/uksi/2013/534/regulation/14/2))
+[^c-9d15494f50fe2b4947d14e2ec33970d7]: Textual amendment: Words in [rule 74.13(1)(d)](https://www.legislation.gov.uk/uksi/1998/3132/rule/74.13/1/d) substituted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/13/b) (with [reg. 14(2)](https://www.legislation.gov.uk/uksi/2013/534/regulation/14/2))

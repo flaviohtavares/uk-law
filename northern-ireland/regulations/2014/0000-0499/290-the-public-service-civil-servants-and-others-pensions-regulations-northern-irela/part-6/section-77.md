@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Periodical review of entitlement to upper tier top up earned pension[^key-45400210b4cdbbcaf54416ab46d64d94]
+## 77. Periodical review of entitlement to upper tier top up earned pension[^c-45400210b4cdbbcaf54416ab46d64d94]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45400210b4cdbbcaf54416ab46d64d94]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2014/290/regulation/77) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-45400210b4cdbbcaf54416ab46d64d94]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2014/290/regulation/77) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

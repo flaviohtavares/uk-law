@@ -33,7 +33,7 @@ FOOD, ENGLAND
 
 AGRICULTURE, ENGLAND
 
-The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Control) (England) Regulations 2002 (revoked)[^key-3cab455b4623b6e7443e9a6a0efdb61c]
+The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Control) (England) Regulations 2002 (revoked)[^c-3cab455b4623b6e7443e9a6a0efdb61c]
 
 Made
 
@@ -47,38 +47,38 @@ Coming into force
 
 2nd February 2002
 
-[^key-3cab455b4623b6e7443e9a6a0efdb61c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cab455b4623b6e7443e9a6a0efdb61c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-3cab455b4623b6e7443e9a6a0efdb61c]
+## 1. Title, commencement and extent[^c-3cab455b4623b6e7443e9a6a0efdb61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3cab455b4623b6e7443e9a6a0efdb61c]
+## 2. Interpretation[^c-3cab455b4623b6e7443e9a6a0efdb61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Disapplication[^key-3cab455b4623b6e7443e9a6a0efdb61c]
+## 3. Disapplication[^c-3cab455b4623b6e7443e9a6a0efdb61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition of importation and offence[^key-3cab455b4623b6e7443e9a6a0efdb61c]
+## 4. Prohibition of importation and offence[^c-3cab455b4623b6e7443e9a6a0efdb61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-3cab455b4623b6e7443e9a6a0efdb61c]
+## 5. Enforcement[^c-3cab455b4623b6e7443e9a6a0efdb61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Act[^key-3cab455b4623b6e7443e9a6a0efdb61c]
+## 6. Application of various provisions of the Act[^c-3cab455b4623b6e7443e9a6a0efdb61c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cab455b4623b6e7443e9a6a0efdb61c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cab455b4623b6e7443e9a6a0efdb61c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cab455b4623b6e7443e9a6a0efdb61c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cab455b4623b6e7443e9a6a0efdb61c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cab455b4623b6e7443e9a6a0efdb61c]: Textual amendment: Regulations revoked (20.6.2002) by [The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) (England) Regulations 2002 (S.I. 2002/1614)](https://www.legislation.gov.uk/uksi/2002/1614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1614/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2002/1614/regulation/6)
+[^c-3cab455b4623b6e7443e9a6a0efdb61c]: Textual amendment: Regulations revoked (20.6.2002) by [The Food and Animal Feedingstuffs (Products of Animal Origin from China) (Emergency Control) (England) Regulations 2002 (S.I. 2002/1614)](https://www.legislation.gov.uk/uksi/2002/1614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1614/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2002/1614/regulation/6)

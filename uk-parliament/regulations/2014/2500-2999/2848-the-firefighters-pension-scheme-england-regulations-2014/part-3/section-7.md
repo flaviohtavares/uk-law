@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Eligible persons[^key-620eeb5e4901de4e114a0edba6713631]
+## 7. Eligible persons[^c-620eeb5e4901de4e114a0edba6713631]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-620eeb5e4901de4e114a0edba6713631]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2848/regulation/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-620eeb5e4901de4e114a0edba6713631]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2848/regulation/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

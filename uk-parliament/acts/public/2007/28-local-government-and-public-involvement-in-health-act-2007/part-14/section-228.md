@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Transitional arrangements[^key-cb0d3769ab17ed83982ebb5616a5840f]
+## 228. Transitional arrangements[^c-cb0d3769ab17ed83982ebb5616a5840f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb0d3769ab17ed83982ebb5616a5840f]: Textual amendment: S. 228 omitted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 188(10)](https://www.legislation.gov.uk/ukpga/2012/7/section/188/10), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-cb0d3769ab17ed83982ebb5616a5840f]: Textual amendment: S. 228 omitted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 188(10)](https://www.legislation.gov.uk/ukpga/2012/7/section/188/10), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

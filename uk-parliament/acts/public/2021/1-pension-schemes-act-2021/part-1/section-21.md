@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Certificate that actuarial valuation prepared in accordance with scheme rules[^c24458891][^key-f45e166bd76a0b730a5f5f8bb4d8150d]
+## 21. Certificate that actuarial valuation prepared in accordance with scheme rules[^c24458891][^c-f45e166bd76a0b730a5f5f8bb4d8150d]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ A scheme actuary who prepares an actuarial valuation in pursuance of a provision
 
 [^c24458891]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/1/section/21) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-f45e166bd76a0b730a5f5f8bb4d8150d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/1/section/21) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-f45e166bd76a0b730a5f5f8bb4d8150d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/1/section/21) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

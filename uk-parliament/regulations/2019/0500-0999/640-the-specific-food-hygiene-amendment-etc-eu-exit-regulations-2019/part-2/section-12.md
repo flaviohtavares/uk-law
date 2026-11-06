@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.[^key-9dcaefa7b2a970ca54e932080ff7167a]
+## 12.[^c-9dcaefa7b2a970ca54e932080ff7167a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,10 +27,10 @@ In Article 11—
   > Without prejudice to the general application of Article 10(1), the appropriate authority may prescribe implementing measures or amendments to Annex 2 or 3—
 
   ;
-- (b)[^key-71a20fbf3c7a77352fc0d305ea665176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-71a20fbf3c7a77352fc0d305ea665176] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9dcaefa7b2a970ca54e932080ff7167a]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9dcaefa7b2a970ca54e932080ff7167a]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-71a20fbf3c7a77352fc0d305ea665176]: Textual amendment: Reg. 12(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/6)
+[^c-71a20fbf3c7a77352fc0d305ea665176]: Textual amendment: Reg. 12(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Improvement notices[^key-3c394efde29686350b7f1cbe53979270]
+## 37. Improvement notices[^c-3c394efde29686350b7f1cbe53979270]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c394efde29686350b7f1cbe53979270]: Commencement: Reg. 37 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-3c394efde29686350b7f1cbe53979270]: Commencement: Reg. 37 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

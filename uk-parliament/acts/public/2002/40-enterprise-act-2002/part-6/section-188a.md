@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188A. Circumstances in which cartel offence not committed[^key-c9eac511dab4b2ee0934ec03aea2ffbb]
+## 188A. Circumstances in which cartel offence not committed[^c-c9eac511dab4b2ee0934ec03aea2ffbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9eac511dab4b2ee0934ec03aea2ffbb]: Textual amendment: S. 188A inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/5), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c9eac511dab4b2ee0934ec03aea2ffbb]: Textual amendment: S. 188A inserted (25.4.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/5), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

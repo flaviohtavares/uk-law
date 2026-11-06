@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228B. Carry forward: certain periods treated as pension input periods[^key-e35eae22de10cc3b25b800e4d3364809]
+## 228B. Carry forward: certain periods treated as pension input periods[^c-e35eae22de10cc3b25b800e4d3364809]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) This section applies where the first pension input period for a relevant arrangement relating to an individual ends in the tax year 2011-12, 2012-13 or 2013-14.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e35eae22de10cc3b25b800e4d3364809]: Textual amendment: S. 228B inserted (28.1.2015) by [The Finance Act 2004 (Registered Pension Schemes and Annual Allowance Charge) (Amendment) Order 2015 (S.I. 2015/80)](https://www.legislation.gov.uk/uksi/2015/80), [arts. 1](https://www.legislation.gov.uk/uksi/2015/80/article/1), [11](https://www.legislation.gov.uk/uksi/2015/80/article/11)
+[^c-e35eae22de10cc3b25b800e4d3364809]: Textual amendment: S. 228B inserted (28.1.2015) by [The Finance Act 2004 (Registered Pension Schemes and Annual Allowance Charge) (Amendment) Order 2015 (S.I. 2015/80)](https://www.legislation.gov.uk/uksi/2015/80), [arts. 1](https://www.legislation.gov.uk/uksi/2015/80/article/1), [11](https://www.legislation.gov.uk/uksi/2015/80/article/11)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)

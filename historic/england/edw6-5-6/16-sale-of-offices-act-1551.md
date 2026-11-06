@@ -28,40 +28,40 @@ Sale of Offices Act 1551 (repealed)
 
 1551 c. 16
 
-[^key-f857730816c7c8c199ef7dcb9c3bb7c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f857730816c7c8c199ef7dcb9c3bb7c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## For avoiding Corruption in Offices of Justice or Places of Trust;[^key-f857730816c7c8c199ef7dcb9c3bb7c2]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## I.] Penalty on selling any Office, or receiving or agreeing to receive Money, &c. for any Office concerning the Administration of Justice, or the Receipt or Controul of the King’s Revenue, or the keeping, &c. of any Town, Castle, or Fortress, or any Clerkship in any Court of Record;On the Seller, Forfeiture of all Title to the Office sold; On the Buyer, Disability to hold such Office bought, &c.[^key-f857730816c7c8c199ef7dcb9c3bb7c2][^key-f857730816c7c8c199ef7dcb9c3bb7c2]
+## For avoiding Corruption in Offices of Justice or Places of Trust;[^c-f857730816c7c8c199ef7dcb9c3bb7c2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## II. All such Sales and Agreements, &c, declared void.[^key-f857730816c7c8c199ef7dcb9c3bb7c2][^key-f857730816c7c8c199ef7dcb9c3bb7c2]
+## I.] Penalty on selling any Office, or receiving or agreeing to receive Money, &c. for any Office concerning the Administration of Justice, or the Receipt or Controul of the King’s Revenue, or the keeping, &c. of any Town, Castle, or Fortress, or any Clerkship in any Court of Record;On the Seller, Forfeiture of all Title to the Office sold; On the Buyer, Disability to hold such Office bought, &c.[^c-f857730816c7c8c199ef7dcb9c3bb7c2][^c-f857730816c7c8c199ef7dcb9c3bb7c2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## III. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f857730816c7c8c199ef7dcb9c3bb7c2][^key-f857730816c7c8c199ef7dcb9c3bb7c2]
-
-**No longer in force.**
-
-## IV. Acts done by any Officer offending, before his Removal, declared valid.[^key-f857730816c7c8c199ef7dcb9c3bb7c2][^key-f857730816c7c8c199ef7dcb9c3bb7c2]
+## II. All such Sales and Agreements, &c, declared void.[^c-f857730816c7c8c199ef7dcb9c3bb7c2][^c-f857730816c7c8c199ef7dcb9c3bb7c2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## V, VI. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f857730816c7c8c199ef7dcb9c3bb7c2][^key-f857730816c7c8c199ef7dcb9c3bb7c2]
+## III. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f857730816c7c8c199ef7dcb9c3bb7c2][^c-f857730816c7c8c199ef7dcb9c3bb7c2]
+
+**No longer in force.**
+
+## IV. Acts done by any Officer offending, before his Removal, declared valid.[^c-f857730816c7c8c199ef7dcb9c3bb7c2][^c-f857730816c7c8c199ef7dcb9c3bb7c2]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## V, VI. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f857730816c7c8c199ef7dcb9c3bb7c2][^c-f857730816c7c8c199ef7dcb9c3bb7c2]
 
 **May not be in force at this date. Check the source.**
 
 ## Annotations
 
-[^key-f857730816c7c8c199ef7dcb9c3bb7c2]: Textual amendment: [Act](https://www.legislation.gov.uk/aep/Edw6/5-6/16) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 7
+[^c-f857730816c7c8c199ef7dcb9c3bb7c2]: Textual amendment: [Act](https://www.legislation.gov.uk/aep/Edw6/5-6/16) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/2) Group 7

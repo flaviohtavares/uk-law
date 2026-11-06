@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.7. Court’s power to direct that evidence is to be given by a single joint expert[^key-4920fa1cebec3975870f34d0801598ea]
+## 35.7. Court’s power to direct that evidence is to be given by a single joint expert[^c-4920fa1cebec3975870f34d0801598ea]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4920fa1cebec3975870f34d0801598ea]: Textual amendment: [Rule 35.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.7) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(k)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/k)
+[^c-4920fa1cebec3975870f34d0801598ea]: Textual amendment: [Rule 35.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.7) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [5(k)](https://www.legislation.gov.uk/uksi/2009/2092/rule/5/k)

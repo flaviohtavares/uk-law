@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Transitional supplement to income-based jobseeker’s allowance[^key-59919262938a863005942b2170c2d83a]
+## 87. Transitional supplement to income-based jobseeker’s allowance[^c-59919262938a863005942b2170c2d83a]
 
 *Extent: N.I.*
 
@@ -69,7 +69,7 @@ any requirement that the person be entitled to income support, or to income supp
 
 ## Annotations
 
-[^key-59919262938a863005942b2170c2d83a]: Commencement: Reg. 87 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-59919262938a863005942b2170c2d83a]: Commencement: Reg. 87 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00083]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460)
 

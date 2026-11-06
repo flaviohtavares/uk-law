@@ -46,23 +46,23 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-03199523d963b558c1bd6523e91a53e0]
+### 1. Citation and commencement[^c-03199523d963b558c1bd6523e91a53e0]
 
 These Regulations may be cited as the Child Support (Management of Payments and Arrears) Regulations (Northern Ireland) 2009 and shall come into operation on 25th January 2010.
 
-### 2. Interpretation[^key-996ffda9b21d85097824b7b011980e7a][^key-ff72f71c23de525c60939ec6191f937a]
+### 2. Interpretation[^c-996ffda9b21d85097824b7b011980e7a][^c-ff72f71c23de525c60939ec6191f937a]
 
 (1) In these Regulations—
 
 - “the Order” means the Child Support (Northern Ireland) Order 1991;
 - “old scheme case” means a case in respect of which the provisions of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00003] have not been brought into operation in accordance with Article 3 of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 9) Order (Northern Ireland) 2003[^f00004];
-- “a 2003 scheme case” means a case in respect of which the provisions of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 have been brought into operation in accordance with Article 3 of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 9) Order (Northern Ireland) 2003;[^key-110c7512c0ee24ba2a5614bea38493d0]
+- “a 2003 scheme case” means a case in respect of which the provisions of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 have been brought into operation in accordance with Article 3 of the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 9) Order (Northern Ireland) 2003;[^c-110c7512c0ee24ba2a5614bea38493d0]
 - “a 2012 scheme case” means a case in respect of which the provisions of the Child Maintenance (Northern Ireland) Act 2008 have been brought into operation in accordance with Article 2 of the Child Maintenance (2008 Act) (Commencement No. 10 and Transitional Provisions) Order (Northern Ireland) 2012, Article 2 of the Child Maintenance (2008 Act) (Commencement No. 11 and Transitional Provisions) Order (Northern Ireland) 2013 or Article 2 of the Child Maintenance (2008 Act) (Commencement No. 12 and Savings Provisions) Order (Northern Ireland) 2013;
 - “the AIAMA Regulations” means the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations (Northern Ireland) 1992[^f00005];
-- “Child Maintenance Service system” means the computer system used by the Child Maintenance Service which administers a 2012 scheme case or arrears from an old scheme case or 2003 scheme case;[^key-d86e17d3bc68e8dbb3aa3c90a78fb59c]
+- “Child Maintenance Service system” means the computer system used by the Child Maintenance Service which administers a 2012 scheme case or arrears from an old scheme case or 2003 scheme case;[^c-d86e17d3bc68e8dbb3aa3c90a78fb59c]
 - “Child Support Agency system” means the computer system used by the Child Maintenance Service which administers an old scheme case or 2003 scheme case;
 - “the Decisions and Appeals Regulations” means the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00006];
-- “[^key-d1b31481e2fef340dd5cbfeb3a06b487]**electronic communication**” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001;
+- “[^c-d1b31481e2fef340dd5cbfeb3a06b487]**electronic communication**” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001;
 - “non-resident parent” includes a person treated as a non-resident parent by virtue of regulations made under Article 39 of the Order[^f00007];
 - “relevant person” means—
   - (a) a person with care; or
@@ -72,13 +72,13 @@ These Regulations may be cited as the Child Support (Management of Payments and 
 
 (2) In the application of these Regulations to an old scheme case, any reference to expressions in the Order (including “non-resident parent” and “maintenance calculation”), or to regulations made under the Order, are to be read with the necessary modifications.
 
-### 2A. Use of electronic communications[^key-2eb09023a999b55bd883728ba2245a1b]
+### 2A. Use of electronic communications[^c-2eb09023a999b55bd883728ba2245a1b]
 
 Schedule 1 makes provision for the use of electronic communications.
 
-### 3. Arrears notices[^key-a5b0b3090740fb30127dfa1160cc9507]
+### 3. Arrears notices[^c-a5b0b3090740fb30127dfa1160cc9507]
 
-(1)[^key-b7c38c990ac853d04902662529424eb1][^key-f0c88703a0e61b4c2aa801c51c0aff8f] This regulation applies to a case where—
+(1)[^c-b7c38c990ac853d04902662529424eb1][^c-f0c88703a0e61b4c2aa801c51c0aff8f] This regulation applies to a case where—
 
 - (a) the Department is arranging for the collection of child support maintenance under Article 29 of the Order[^f00008]; and
 - (b) the non-resident parent has failed to make one or more payments of child support maintenance due.
@@ -87,7 +87,7 @@ Schedule 1 makes provision for the use of electronic communications.
 
 (3) The notice must—
 
-- (a)[^key-ec885cc299c84231835281bcbb65836e] include the amount of all outstanding arrears of child support maintenance due and not paid;
+- (a)[^c-ec885cc299c84231835281bcbb65836e] include the amount of all outstanding arrears of child support maintenance due and not paid;
 - (b) set out in general terms the provisions as to arrears contained in this regulation and regulation 8 of the AIAMA Regulations[^f00009]; and
 - (c) request the non-resident parent make payment of all outstanding arrears.
 
@@ -104,13 +104,13 @@ Schedule 1 makes provision for the use of electronic communications.
 
 (2) Where paragraph (1) applies to a case, the Department may only start making arrangements for collection under Article 29 of the Order or arrangements for enforcement under that Order (or both) where the non-resident parent has been given a notice, within the preceding 12 month period, setting out that the Department will consider making such arrangements where there is a failure to make one or more payments of child support maintenance due.
 
-### 4. Attribution of payments[^key-a5677689dbe26028ce5ce08544c43d03]
+### 4. Attribution of payments[^c-a5677689dbe26028ce5ce08544c43d03]
 
 Where a maintenance calculation is or has been in force and there are arrears of child support maintenance, the Department may attribute any payment of child support maintenance made by a non-resident parent to child support maintenance due as it thinks fit.
 
 ## PART 2 — Set Off
 
-### 5. Set off of liabilities to pay child support maintenance[^key-4d6ae5782f5fb3db42d8e73b8fdccb28]
+### 5. Set off of liabilities to pay child support maintenance[^c-4d6ae5782f5fb3db42d8e73b8fdccb28]
 
 (1) The circumstance prescribed for the purposes of Article 38C(1)(a) of the Order, in which the Department may set off liabilities to pay child support maintenance, are set out in paragraph (2).
 
@@ -121,7 +121,7 @@ Where a maintenance calculation is or has been in force and there are arrears of
 
 (3) There shall be no set off in relation to any amount which if paid could be retained under Article 38 of the Order[^f00010].
 
-### 6. Set off of payments against child support maintenance liability[^key-48ea7ffef351a271f500bb5d6bc2637d]
+### 6. Set off of payments against child support maintenance liability[^c-48ea7ffef351a271f500bb5d6bc2637d]
 
 (1) The circumstances prescribed for the purposes of Article 38C(1)(b) of the Order, in which the Department may set off a payment against a person’s liability to pay child support maintenance, are set out in paragraph (2).
 
@@ -139,7 +139,7 @@ Where a maintenance calculation is or has been in force and there are arrears of
 - (e) essential repairs to the heating system in the qualifying child’s home; or
 - (f) repairs which are essential to maintain the fabric of the qualifying child’s home.
 
-### 7. Application of set off[^key-d78137de2468d06822ada236b4a4a338]
+### 7. Application of set off[^c-d78137de2468d06822ada236b4a4a338]
 
 (1) In setting off a person’s liability for child support maintenance under this Part, the Department may apply the amount to be set off to reduce any arrears of child support maintenance due under any current maintenance calculation, or any previous maintenance calculation made in respect of the same relevant persons.
 
@@ -152,7 +152,7 @@ Where a maintenance calculation is or has been in force and there are arrears of
 
 ## PART 3 — Overpayments and Voluntary Payments
 
-### 8. Application of overpayments[^key-04ad7e96a7022afeae520a5bdf203e29]
+### 8. Application of overpayments[^c-04ad7e96a7022afeae520a5bdf203e29]
 
 (1) Where for any reason, including the retrospective effect of a maintenance calculation, there has been an overpayment of child support maintenance, the Department may apply the amount overpaid to reduce any arrears of child support maintenance due under any previous maintenance calculation in respect of the same relevant persons.
 
@@ -163,7 +163,7 @@ Where a maintenance calculation is or has been in force and there are arrears of
 
 (3) An adjustment of the amount payable in relation to the current maintenance calculation under paragraph (2) may reduce the amount payable to nil.
 
-### 9. Application of voluntary payments[^key-e0b14b14f08007a5ebddf70eb573e47f]
+### 9. Application of voluntary payments[^c-e0b14b14f08007a5ebddf70eb573e47f]
 
 (1) Where there has been a voluntary payment, the Department may apply the amount of the voluntary payment to reduce any arrears of child support maintenance due under any previous maintenance calculation in respect of the same relevant persons.
 
@@ -176,17 +176,17 @@ Where a maintenance calculation is or has been in force and there are arrears of
 
 ## PART 4 — Recovery from Estates
 
-### 10. Application and interpretation[^key-78efafd6a45a1c9f8353745339ead0de]
+### 10. Application and interpretation[^c-78efafd6a45a1c9f8353745339ead0de]
 
 (1) This Part applies in relation to the estate of a person who dies on or after the day on which these Regulations come into operation.
 
 (2) In this Part, “child support maintenance” means child support maintenance for the collection of which the Department is authorised to make arrangements.
 
-### 11. Recovery of arrears from a deceased person’s estate[^key-1d16ec96b65ad12d4911bfdbf334de9a][^key-a07b275d61cfaba8ab4bfffde04a027f]
+### 11. Recovery of arrears from a deceased person’s estate[^c-1d16ec96b65ad12d4911bfdbf334de9a][^c-a07b275d61cfaba8ab4bfffde04a027f]
 
 Arrears of child support maintenance for which a deceased person was liable immediately before death are a debt payable by the deceased’s executor or administrator out of the deceased’s estate to the Department.
 
-### 12. Appeals and other proceedings[^key-5d93bc164f9010ddce1c89bb4636ca6c]
+### 12. Appeals and other proceedings[^c-5d93bc164f9010ddce1c89bb4636ca6c]
 
 (1) The deceased’s executor or administrator has the same rights, subject to the same procedures and time limits, as the deceased person had immediately before death to institute, continue or withdraw any proceedings under the Order, whether by appeal or otherwise.
 
@@ -196,7 +196,7 @@ Arrears of child support maintenance for which a deceased person was liable imme
 
 .
 
-### 13. Disclosure of information[^key-6f6a7938bee19f5fb4845f0191a9b5a5]
+### 13. Disclosure of information[^c-6f6a7938bee19f5fb4845f0191a9b5a5]
 
 (1) The Department may disclose information held for the purposes of the Order to the deceased’s executor or administrator where, in the opinion of the Department, such information is essential to enable the executor or administrator to administer the deceased’s estate, including, where necessary, to institute, continue or withdraw proceedings under the Order.
 
@@ -207,7 +207,7 @@ Arrears of child support maintenance for which a deceased person was liable imme
 - (a) the address of any person, except that of the recipient of the information in question and the office of the officer concerned who is exercising functions of the Department under the Order, or any other information the use of which could reasonably be expected to lead to any such person being located;
 - (b) any other information the use of which could reasonably be expected to lead to any person, other than a party to the maintenance calculation, being identified.
 
-## PART 4A — Part Payment of Arrears in Full and Final Satisfaction[^key-a1b2be39cc701eb4f5a4c2aa749d9480]
+## PART 4A — Part Payment of Arrears in Full and Final Satisfaction[^c-a1b2be39cc701eb4f5a4c2aa749d9480]
 
 ### 13A. Amounts owed to different persons to be treated separately
 
@@ -276,12 +276,12 @@ The circumstances of the case specified for the purposes of Article 38E(1)(a) of
 - (a) the person with care has requested under Article 7(5) of the Order that the Department ceases to act in respect of the arrears;
 - (aa)[^M_F_8cb41db2-8558-4c80-a00c-4c3bbfb39673] the person with care, has died;
 - (b) the non-resident parent died before 25th January 2010 or there is no further action that can be taken with regard to recovery of the arrears from the non-resident parent’s estate under Part 4;
-- (c) the arrears relate to liability for child support maintenance for any period in respect of which an interim maintenance assessment was in force between 5th April 1993 and 18th April 1995; [^key-59ccd032526be241686acb2c9f8a4d5d]...
-- (d) the non-resident parent has been informed by the Department that no further action would ever be taken to recover those arrears ;[^key-0ad091cb27803002dc08297f8f9caf50]
+- (c) the arrears relate to liability for child support maintenance for any period in respect of which an interim maintenance assessment was in force between 5th April 1993 and 18th April 1995; [^c-59ccd032526be241686acb2c9f8a4d5d]...
+- (d) the non-resident parent has been informed by the Department that no further action would ever be taken to recover those arrears ;[^c-0ad091cb27803002dc08297f8f9caf50]
 - (e) the arrears relate to liability for child support maintenance accrued under an old or 2003 scheme case and the non-resident parent has failed to make any payments of child support maintenance within the 3 month period which precedes the date of the written notice sent by the Department under regulation 13G(1), or, where the arrears fall within regulations 13J(1)(a), (b) or (d), within the 3 month period which precedes the date of the decision of the Department under section 38E(1) of the Order;
-- (f) the arrears relate to liability for child support maintenance accrued under an old or 2003 scheme case which has transferred from the Child Support Agency system to the Child Maintenance Service system and the non-resident parent has failed to make any payments of child support maintenance within the 3 month period which precedes the date of the written notice sent by the Department under regulation 13G(1), or, where the arrears fall within regulations 13J(2)(a) or (b), within the 3 month period which precedes the date of the decision of the Department under section 38E(1) of the Order; [^key-735892d5a2c1ace0d57a5b94442c5dbc]...
-- (g) the arrears relate to sequestrated debt in Scotland for an old, 2003 or 2012 scheme case once the trustee administering the sequestration has confirmed that the period of sequestration has ended :[^key-1f8e081da329d38552e77faa6ab386f2] [^key-6ff99e96f43185a2d751e4a7451ffc9f]...
-- (h) the non-resident parent has been discharged under section 184 of the Bankruptcy (Scotland) Act 2016 (protected trust deed: discharge of debtor) from liability for the arrears ;[^key-ed2575e7880c76b6a85a7fc0d409e403]
+- (f) the arrears relate to liability for child support maintenance accrued under an old or 2003 scheme case which has transferred from the Child Support Agency system to the Child Maintenance Service system and the non-resident parent has failed to make any payments of child support maintenance within the 3 month period which precedes the date of the written notice sent by the Department under regulation 13G(1), or, where the arrears fall within regulations 13J(2)(a) or (b), within the 3 month period which precedes the date of the decision of the Department under section 38E(1) of the Order; [^c-735892d5a2c1ace0d57a5b94442c5dbc]...
+- (g) the arrears relate to sequestrated debt in Scotland for an old, 2003 or 2012 scheme case once the trustee administering the sequestration has confirmed that the period of sequestration has ended :[^c-1f8e081da329d38552e77faa6ab386f2] [^c-6ff99e96f43185a2d751e4a7451ffc9f]...
+- (h) the non-resident parent has been discharged under section 184 of the Bankruptcy (Scotland) Act 2016 (protected trust deed: discharge of debtor) from liability for the arrears ;[^c-ed2575e7880c76b6a85a7fc0d409e403]
 - (i) the arrears relate to liability for child support maintenance accrued under a 2012 scheme case where all of the following apply—
   - (i) a maintenance calculation has ceased to have effect under one or more of the following provisions under the 1991 Order—
     - (aa) Article 7(5) and (6) (a person who requested a maintenance calculation requests the Department to cease acting);
@@ -298,40 +298,40 @@ The circumstances of the case specified for the purposes of Article 38E(1)(a) of
 
 (1) Where the Department is considering exercising its powers under Article 38E(1) of the Order, it must send written notice to the person with care and the non-resident parent.
 
-(1A)[^key-aaef252a0f1fad2a45eb15963b0a0ce4] Where the arrears fall within regulation 13(J)(1)(c) or (e) or (2)(c) the requirement under paragraph (1) to send written notice to the non-resident parent only applies where the Department receives written representations within the period of 60 days beginning with the date the notice is received by the person with care.
+(1A)[^c-aaef252a0f1fad2a45eb15963b0a0ce4] Where the arrears fall within regulation 13(J)(1)(c) or (e) or (2)(c) the requirement under paragraph (1) to send written notice to the non-resident parent only applies where the Department receives written representations within the period of 60 days beginning with the date the notice is received by the person with care.
 
-(2) The requirement in paragraph (1) does not apply where the person in question cannot be traced or has died or the arrears fall within regulations 13F(g)[^key-8987eeea057661f96aa5c3a140707ab7] , 13F(h)[^key-dce64a2b70f0747586b639245a7c02d7], 13F(i), 13F(j),[^key-35f564c31c8b5a0074a388ea81b5cf3f] 13J(1)(a), 13J(1)(b), 13J(1)(d), 13J(2)(a) or 13J(2)(b).
+(2) The requirement in paragraph (1) does not apply where the person in question cannot be traced or has died or the arrears fall within regulations 13F(g)[^c-8987eeea057661f96aa5c3a140707ab7] , 13F(h)[^c-dce64a2b70f0747586b639245a7c02d7], 13F(i), 13F(j),[^c-35f564c31c8b5a0074a388ea81b5cf3f] 13J(1)(a), 13J(1)(b), 13J(1)(d), 13J(2)(a) or 13J(2)(b).
 
 (3) The notice must—
 
 - (a) specify the person with care in respect of whom liability in respect of arrears of child support maintenance has accrued;
-- (b) specify the amount of the arrears except where the arrears fall within regulation 13J(1)(c)[^key-d8a66efc483790c5bba3bb4aaf469e6f] and the period of liability to which the arrears relate except where the arrears fall within regulation 13J(1)(c) or (e) or (2)(c)[^key-3322251cb58446f405fc814c07570b40];
+- (b) specify the amount of the arrears except where the arrears fall within regulation 13J(1)(c)[^c-d8a66efc483790c5bba3bb4aaf469e6f] and the period of liability to which the arrears relate except where the arrears fall within regulation 13J(1)(c) or (e) or (2)(c)[^c-3322251cb58446f405fc814c07570b40];
 - (c) state why it appears to the Department that it would be unfair or inappropriate to enforce liability in respect of the arrears;
-- (d) subject to paragraph 3(da)[^key-61f8d2c8d46269b3b4f8c4ba0d5ed043] advise the person that the person may make representations, within 30 days of receiving the notice, to the Department as to whether the liability in respect of the arrears should be extinguished; [^key-6f4d17eba09ff29826e66ee22ee6da37]...
-- (da)[^key-659a42d68baa10ec656546e8a755a91e] where the arrears fall within regulation 13J(1)(c) or (e) or (2)(c)—
-  - (i) advise the person with care that they may make written representations as to whether the liability in respect of the arrears should be extinguished, and that any such representations must be sent by post , or electronic communication in accordance with Schedule 1,[^key-ca223f17ec4108b0edeb5d5d7b130211] to the Department within the period of 60 days beginning with the date the notice is received;
-  - (ii) where a notice is sent to the non-resident parent in accordance with paragraph (1A), advise the non-resident parent that they may make written representations which must be sent by post , or electronic communication in accordance with Schedule 1,[^key-cbf671bd17130d9793b3949cc8276e28] to the Department within the period of 21 days beginning with the date the notice is received; and
+- (d) subject to paragraph 3(da)[^c-61f8d2c8d46269b3b4f8c4ba0d5ed043] advise the person that the person may make representations, within 30 days of receiving the notice, to the Department as to whether the liability in respect of the arrears should be extinguished; [^c-6f4d17eba09ff29826e66ee22ee6da37]...
+- (da)[^c-659a42d68baa10ec656546e8a755a91e] where the arrears fall within regulation 13J(1)(c) or (e) or (2)(c)—
+  - (i) advise the person with care that they may make written representations as to whether the liability in respect of the arrears should be extinguished, and that any such representations must be sent by post , or electronic communication in accordance with Schedule 1,[^c-ca223f17ec4108b0edeb5d5d7b130211] to the Department within the period of 60 days beginning with the date the notice is received;
+  - (ii) where a notice is sent to the non-resident parent in accordance with paragraph (1A), advise the non-resident parent that they may make written representations which must be sent by post , or electronic communication in accordance with Schedule 1,[^c-cbf671bd17130d9793b3949cc8276e28] to the Department within the period of 21 days beginning with the date the notice is received; and
 - (e) explain the effect of any decision to extinguish liability in respect of any arrears of child support maintenance under Article 38E(1) of the Order.
 
-(4) Subject to paragraph (4A), if[^key-c1d7ae0137c57d8405580979425b4526] no representations are received by the Department within 30 days of the notice being received by the person with care and the non-resident parent, the Department may make the decision to extinguish the arrears.
+(4) Subject to paragraph (4A), if[^c-c1d7ae0137c57d8405580979425b4526] no representations are received by the Department within 30 days of the notice being received by the person with care and the non-resident parent, the Department may make the decision to extinguish the arrears.
 
-- (4A)[^key-7fd887d606b2708261c1f999369d9ae0] Where any of the conditions of write off mentioned in regulation 13J(1)(c) or (e) or (2)(c) apply, if no written representations are received by the Department within the period of 60 days beginning with the date the notice is received by the person with care, the Department may make the decision to extinguish the arrears.
+- (4A)[^c-7fd887d606b2708261c1f999369d9ae0] Where any of the conditions of write off mentioned in regulation 13J(1)(c) or (e) or (2)(c) apply, if no written representations are received by the Department within the period of 60 days beginning with the date the notice is received by the person with care, the Department may make the decision to extinguish the arrears.
 
-(5) For the purposes of this regulation, where the Department sends any written notice by ordinary post to a person’s last known or notified postal[^key-d85abb6f50beba4a897f77eea97cd4d5] address that document is treated as having been received by that person on the second day following the day on which it is posted.
+(5) For the purposes of this regulation, where the Department sends any written notice by ordinary post to a person’s last known or notified postal[^c-d85abb6f50beba4a897f77eea97cd4d5] address that document is treated as having been received by that person on the second day following the day on which it is posted.
 
-(6)[^key-5a59e0705b08847e7e3a5262b278b20e] For the purposes of this regulation, where the Department sends any written notification by electronic communication to a person’s last known or notified address for electronic communication, that document is treated as having been received by that person at the end of the first day after the day it was sent.
+(6)[^c-5a59e0705b08847e7e3a5262b278b20e] For the purposes of this regulation, where the Department sends any written notification by electronic communication to a person’s last known or notified address for electronic communication, that document is treated as having been received by that person at the end of the first day after the day it was sent.
 
 ### 13H. Department to take account of the parties’ views
 
-Where the Department receives representations within the 30-day period referred to in regulation 13G(3)(d) or within the 60 day period referred to in regulation 13G(3)(da)(i) or within the 21 day period referred to in regulation 13G(3)(da)(ii)[^key-8cfabf47dfe6f2c2fa577552831f1f4b] it must take account of those representations in making a decision under Article 38E(1) of the Order.
+Where the Department receives representations within the 30-day period referred to in regulation 13G(3)(d) or within the 60 day period referred to in regulation 13G(3)(da)(i) or within the 21 day period referred to in regulation 13G(3)(da)(ii)[^c-8cfabf47dfe6f2c2fa577552831f1f4b] it must take account of those representations in making a decision under Article 38E(1) of the Order.
 
 ### 13I. Notification of decision to write off
 
 (1) On making a decision under Article 38E(1) of the Order the Department must send written notification of that decision to the non-resident parent and the person with care.
 
-(2) The requirement in paragraph (1) does not apply where the person in question cannot be traced or has died or where the arrears fall within[^key-e549959c4e51dbd61aaf418fd1853b7e] regulations 13F(i) or (j) or 13J(1)(a) or (2)(a)[^key-e8e1e7ed7f5bbd4011fd44bbf2740651] or where the arrears fall within regulation 13J(1)(c) or (e) or (2)(c) and the Department has not received written representations by post , or electronic communication in accordance with Schedule 1,[^key-486b0353a51f2d29811a46353ec844a7] from the person with care within the 60 day period referred to in regulation 13G(3)(da).
+(2) The requirement in paragraph (1) does not apply where the person in question cannot be traced or has died or where the arrears fall within[^c-e549959c4e51dbd61aaf418fd1853b7e] regulations 13F(i) or (j) or 13J(1)(a) or (2)(a)[^c-e8e1e7ed7f5bbd4011fd44bbf2740651] or where the arrears fall within regulation 13J(1)(c) or (e) or (2)(c) and the Department has not received written representations by post , or electronic communication in accordance with Schedule 1,[^c-486b0353a51f2d29811a46353ec844a7] from the person with care within the 60 day period referred to in regulation 13G(3)(da).
 
-### 13J. Conditions of write off[^key-e07c041e7ee1bd58b36712edd9d97962]
+### 13J. Conditions of write off[^c-e07c041e7ee1bd58b36712edd9d97962]
 
 (1) The arrears mentioned above are—
 
@@ -349,11 +349,11 @@ Where the Department receives representations within the 30-day period referred 
 
 ## PART 5 — Revocations and Savings
 
-### 14. Revocations[^key-a415a063e27839456cf9260c4cabcdb7]
+### 14. Revocations[^c-a415a063e27839456cf9260c4cabcdb7]
 
-The statutory provisions specified in Schedule 2[^key-07f30ff21857c32f124154f186bedb37] are revoked to the extent specified there.
+The statutory provisions specified in Schedule 2[^c-07f30ff21857c32f124154f186bedb37] are revoked to the extent specified there.
 
-### 15. Savings[^key-f644ee5f854d3eedda835040ebc50f3e]
+### 15. Savings[^c-f644ee5f854d3eedda835040ebc50f3e]
 
 (1) Where before these Regulations come into operation, an adjustment has been made under regulation 10(1)[^f00011] of the AIAMA Regulations in an old scheme case, regulations 10(2) and (3) and 11 to 17 of those Regulations[^f00012] continue to apply to that case for the purposes of—
 
@@ -371,7 +371,7 @@ Anne McCleary
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE 1 — Electronic Communications[^key-2fb43a5c81f1339475e30fe05817e4e1]
+## SCHEDULE 1 — Electronic Communications[^c-2fb43a5c81f1339475e30fe05817e4e1]
 
 Regulation 2A
 
@@ -445,7 +445,7 @@ In this Schedule—
 - “**agreed purpose**” means the purpose agreed in accordance with paragraph 2(a);
 - “**official computer system**” means a computer system maintained by or on behalf of the Department for the purposes of these Regulations.
 
-## SCHEDULE 2 — Revocations[^key-0a3f094f83c777eb83d46c6a1a27bb6c][^key-d6c29c2a3224ba436d7d13bd34ee866d]
+## SCHEDULE 2 — Revocations[^c-0a3f094f83c777eb83d46c6a1a27bb6c][^c-d6c29c2a3224ba436d7d13bd34ee866d]
 
 Regulation 14
 
@@ -511,129 +511,129 @@ Regulation 15 saves the relevant provisions for specified purposes where the dec
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-03199523d963b558c1bd6523e91a53e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-03199523d963b558c1bd6523e91a53e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-996ffda9b21d85097824b7b011980e7a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/422/regulation/2) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-996ffda9b21d85097824b7b011980e7a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/422/regulation/2) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-ff72f71c23de525c60939ec6191f937a]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/422/regulation/2) modified (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2014/193/regulation/3/2)
+[^c-ff72f71c23de525c60939ec6191f937a]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/422/regulation/2) modified (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2014/193/regulation/3/2)
 
 [^f00003]: Footnote: [2000 (c. 4)(N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
 [^f00004]: Footnote: [S.R. 2003 No. 53 (C. 4)](https://www.legislation.gov.uk/nisr/2003/53)
 
-[^key-110c7512c0ee24ba2a5614bea38493d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/2/1) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/2/a), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-110c7512c0ee24ba2a5614bea38493d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/2/1) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/2/a), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
 [^f00005]: Footnote: [S.R. 1992 No. 342](https://www.legislation.gov.uk/nisr/1992/342)
 
-[^key-d86e17d3bc68e8dbb3aa3c90a78fb59c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/2/1) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/2/b), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-d86e17d3bc68e8dbb3aa3c90a78fb59c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/2/1) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/2/b), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
 [^f00006]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
 
-[^key-d1b31481e2fef340dd5cbfeb3a06b487]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/2/1) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/178/article/4/2)
+[^c-d1b31481e2fef340dd5cbfeb3a06b487]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/2/1) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/178/article/4/2)
 
 [^f00007]: Footnote: Article 39 is amended by paragraph 11 of Schedule 3 to the 2000 Act in respect of certain cases only
 
-[^key-2eb09023a999b55bd883728ba2245a1b]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2009/422/regulation/2A) added (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/178/article/4/3)
+[^c-2eb09023a999b55bd883728ba2245a1b]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2009/422/regulation/2A) added (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/178/article/4/3)
 
-[^key-a5b0b3090740fb30127dfa1160cc9507]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/422/regulation/3) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-a5b0b3090740fb30127dfa1160cc9507]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/422/regulation/3) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-b7c38c990ac853d04902662529424eb1]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/3/1) modified (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2014/193/regulation/3/3/a)
+[^c-b7c38c990ac853d04902662529424eb1]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/3/1) modified (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2014/193/regulation/3/3/a)
 
-[^key-f0c88703a0e61b4c2aa801c51c0aff8f]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/3/1) modified (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2014/193/regulation/3/3/b)
+[^c-f0c88703a0e61b4c2aa801c51c0aff8f]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2009/422/regulation/3/1) modified (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2014/193/regulation/3/3/b)
 
 [^f00008]: Footnote: Article 29 was amended by section 1(2) of the 2000 Act, and section 12 of, and Schedule 5 to, the 2008 Act
 
-[^key-ec885cc299c84231835281bcbb65836e]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/nisr/2009/422/regulation/3/3/a) substituted (30.4.2012) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/163)](https://www.legislation.gov.uk/nisr/2012/163), [regs. 1](https://www.legislation.gov.uk/nisr/2012/163/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/163/regulation/6)
+[^c-ec885cc299c84231835281bcbb65836e]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/nisr/2009/422/regulation/3/3/a) substituted (30.4.2012) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/163)](https://www.legislation.gov.uk/nisr/2012/163), [regs. 1](https://www.legislation.gov.uk/nisr/2012/163/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/163/regulation/6)
 
 [^f00009]: Footnote: Regulation 8 was substituted by regulation 5(2) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475) and was amended by regulation 22(1) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289) and regulation 2(7) of [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15)
 
 [^M_F_b6e4ec79-692b-4ee2-b795-2afa653f59d0]: Textual amendment: Reg. 3A inserted for specified purposes (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2014/193/regulation/3/4)
 
-[^key-a5677689dbe26028ce5ce08544c43d03]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/422/regulation/4) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-a5677689dbe26028ce5ce08544c43d03]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/422/regulation/4) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-4d6ae5782f5fb3db42d8e73b8fdccb28]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/422/regulation/5) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-4d6ae5782f5fb3db42d8e73b8fdccb28]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/422/regulation/5) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
 [^f00010]: Footnote: Article 38 was amended by paragraph (9) of Schedule 3 to the Child Support (Northern Ireland) Order 1995 ([S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)); sections 1(2) and 17(1) of, and paragraph 11 of Schedule 3 to, the 2000 Act, and paragraph 1(29) of Schedule 4, and Schedule 5, to the 2008 Act
 
-[^key-48ea7ffef351a271f500bb5d6bc2637d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/422/regulation/6) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-48ea7ffef351a271f500bb5d6bc2637d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/422/regulation/6) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-d78137de2468d06822ada236b4a4a338]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/422/regulation/7) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-d78137de2468d06822ada236b4a4a338]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2009/422/regulation/7) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-04ad7e96a7022afeae520a5bdf203e29]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/422/regulation/8) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-04ad7e96a7022afeae520a5bdf203e29]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2009/422/regulation/8) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-e0b14b14f08007a5ebddf70eb573e47f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/422/regulation/9) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-e0b14b14f08007a5ebddf70eb573e47f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2009/422/regulation/9) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-78efafd6a45a1c9f8353745339ead0de]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/422/regulation/10) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-78efafd6a45a1c9f8353745339ead0de]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2009/422/regulation/10) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-1d16ec96b65ad12d4911bfdbf334de9a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/422/regulation/11) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-1d16ec96b65ad12d4911bfdbf334de9a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/422/regulation/11) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-a07b275d61cfaba8ab4bfffde04a027f]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/422/regulation/11) modified (11.8.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/2), [3(5)](https://www.legislation.gov.uk/nisr/2014/193/regulation/3/5)
+[^c-a07b275d61cfaba8ab4bfffde04a027f]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2009/422/regulation/11) modified (11.8.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/2), [3(5)](https://www.legislation.gov.uk/nisr/2014/193/regulation/3/5)
 
-[^key-5d93bc164f9010ddce1c89bb4636ca6c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/422/regulation/12) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-5d93bc164f9010ddce1c89bb4636ca6c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/422/regulation/12) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-6f6a7938bee19f5fb4845f0191a9b5a5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/422/regulation/13) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-6f6a7938bee19f5fb4845f0191a9b5a5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/422/regulation/13) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-a1b2be39cc701eb4f5a4c2aa749d9480]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/nisr/2009/422/part/4A), [4B](https://www.legislation.gov.uk/nisr/2009/422/part/4B) inserted (10.12.2012) by [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/439)](https://www.legislation.gov.uk/nisr/2012/439), [regs. 1](https://www.legislation.gov.uk/nisr/2012/439/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/439/regulation/2); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2)
+[^c-a1b2be39cc701eb4f5a4c2aa749d9480]: Textual amendment: [Pts. 4A](https://www.legislation.gov.uk/nisr/2009/422/part/4A), [4B](https://www.legislation.gov.uk/nisr/2009/422/part/4B) inserted (10.12.2012) by [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/439)](https://www.legislation.gov.uk/nisr/2012/439), [regs. 1](https://www.legislation.gov.uk/nisr/2012/439/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/439/regulation/2); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2)
 
 [^M_F_8cb41db2-8558-4c80-a00c-4c3bbfb39673]: Textual amendment: Reg. 13F(aa) inserted (25.11.2013) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [5](https://www.legislation.gov.uk/nisr/2013/190/regulation/5)
 
-[^key-59ccd032526be241686acb2c9f8a4d5d]: Textual amendment: Word in [reg. 13F(c)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/c) omitted (10.12.2019) by virtue of [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/3/a), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-59ccd032526be241686acb2c9f8a4d5d]: Textual amendment: Word in [reg. 13F(c)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/c) omitted (10.12.2019) by virtue of [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/3/a), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-0ad091cb27803002dc08297f8f9caf50]: Textual amendment: [Regs. 13F(e)-(g)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/e) and semicolon inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/3/b), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-0ad091cb27803002dc08297f8f9caf50]: Textual amendment: [Regs. 13F(e)-(g)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/e) and semicolon inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/3/b), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-735892d5a2c1ace0d57a5b94442c5dbc]: Textual amendment: Word in [reg. 13F(f)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/f) omitted (10.12.2019) by virtue of [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2019/222/regulation/4/2/a), [8](https://www.legislation.gov.uk/nisr/2019/222/regulation/8)
+[^c-735892d5a2c1ace0d57a5b94442c5dbc]: Textual amendment: Word in [reg. 13F(f)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/f) omitted (10.12.2019) by virtue of [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2019/222/regulation/4/2/a), [8](https://www.legislation.gov.uk/nisr/2019/222/regulation/8)
 
-[^key-1f8e081da329d38552e77faa6ab386f2]: Textual amendment: [Reg. 13F(h)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/h) and word inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2019/222/regulation/4/2/b), [8](https://www.legislation.gov.uk/nisr/2019/222/regulation/8)
+[^c-1f8e081da329d38552e77faa6ab386f2]: Textual amendment: [Reg. 13F(h)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/h) and word inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2019/222/regulation/4/2/b), [8](https://www.legislation.gov.uk/nisr/2019/222/regulation/8)
 
-[^key-6ff99e96f43185a2d751e4a7451ffc9f]: Textual amendment: Word in [reg. 13F(g)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/g) omitted (26.2.2024) by virtue of [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/189)](https://www.legislation.gov.uk/nisr/2023/189), [regs. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/189/regulation/2/2/a)
+[^c-6ff99e96f43185a2d751e4a7451ffc9f]: Textual amendment: Word in [reg. 13F(g)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/g) omitted (26.2.2024) by virtue of [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/189)](https://www.legislation.gov.uk/nisr/2023/189), [regs. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2023/189/regulation/2/2/a)
 
-[^key-ed2575e7880c76b6a85a7fc0d409e403]: Textual amendment: [Reg. 13F(i)(j)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/i/j) and semicolon inserted (26.2.2024) by [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/189)](https://www.legislation.gov.uk/nisr/2023/189), [regs. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2023/189/regulation/2/2/b)
+[^c-ed2575e7880c76b6a85a7fc0d409e403]: Textual amendment: [Reg. 13F(i)(j)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13F/i/j) and semicolon inserted (26.2.2024) by [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/189)](https://www.legislation.gov.uk/nisr/2023/189), [regs. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2023/189/regulation/2/2/b)
 
-[^key-aaef252a0f1fad2a45eb15963b0a0ce4]: Textual amendment: [Reg. 13G(1A)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/1A) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/a), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-aaef252a0f1fad2a45eb15963b0a0ce4]: Textual amendment: [Reg. 13G(1A)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/1A) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/a), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-8987eeea057661f96aa5c3a140707ab7]: Textual amendment: Words in [reg. 13G(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/2) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/b), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-8987eeea057661f96aa5c3a140707ab7]: Textual amendment: Words in [reg. 13G(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/2) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/b), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-dce64a2b70f0747586b639245a7c02d7]: Textual amendment: Words in [reg. 13G(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/2) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2019/222/regulation/4/3), [8](https://www.legislation.gov.uk/nisr/2019/222/regulation/8)
+[^c-dce64a2b70f0747586b639245a7c02d7]: Textual amendment: Words in [reg. 13G(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/2) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2019/222/regulation/4/3), [8](https://www.legislation.gov.uk/nisr/2019/222/regulation/8)
 
-[^key-35f564c31c8b5a0074a388ea81b5cf3f]: Textual amendment: Words in [reg. 13G(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/2) inserted (26.2.2024) by [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/189)](https://www.legislation.gov.uk/nisr/2023/189), [regs. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/189/regulation/2/3)
+[^c-35f564c31c8b5a0074a388ea81b5cf3f]: Textual amendment: Words in [reg. 13G(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/2) inserted (26.2.2024) by [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/189)](https://www.legislation.gov.uk/nisr/2023/189), [regs. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2023/189/regulation/2/3)
 
-[^key-d8a66efc483790c5bba3bb4aaf469e6f]: Textual amendment: Words in [reg. 13G(3)(b)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/b) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(c)(i)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/c/i), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-d8a66efc483790c5bba3bb4aaf469e6f]: Textual amendment: Words in [reg. 13G(3)(b)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/b) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(c)(i)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/c/i), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-3322251cb58446f405fc814c07570b40]: Textual amendment: Words in [reg. 13G(3)(b)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/b) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/c/ii), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-3322251cb58446f405fc814c07570b40]: Textual amendment: Words in [reg. 13G(3)(b)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/b) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/c/ii), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-61f8d2c8d46269b3b4f8c4ba0d5ed043]: Textual amendment: Words in [reg. 13G(3)(d)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/d) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/d), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-61f8d2c8d46269b3b4f8c4ba0d5ed043]: Textual amendment: Words in [reg. 13G(3)(d)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/d) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/d), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-6f4d17eba09ff29826e66ee22ee6da37]: Textual amendment: Word in [reg. 13G(3)(d)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/d) omitted (10.12.2019) by virtue of [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/d), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-6f4d17eba09ff29826e66ee22ee6da37]: Textual amendment: Word in [reg. 13G(3)(d)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/d) omitted (10.12.2019) by virtue of [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/d), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-659a42d68baa10ec656546e8a755a91e]: Textual amendment: [Reg. 13G(3)(da)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/da) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(e)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/e), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-659a42d68baa10ec656546e8a755a91e]: Textual amendment: [Reg. 13G(3)(da)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/da) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(e)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/e), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-ca223f17ec4108b0edeb5d5d7b130211]: Textual amendment: Words in [reg. 13G(3)(da)(i)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/da/i) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2022/178/article/4/4/a)
+[^c-ca223f17ec4108b0edeb5d5d7b130211]: Textual amendment: Words in [reg. 13G(3)(da)(i)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/da/i) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2022/178/article/4/4/a)
 
-[^key-cbf671bd17130d9793b3949cc8276e28]: Textual amendment: Words in [reg. 13G(3)(da)(ii)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/da/ii) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2022/178/article/4/4/a)
+[^c-cbf671bd17130d9793b3949cc8276e28]: Textual amendment: Words in [reg. 13G(3)(da)(ii)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/3/da/ii) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(4)(a)](https://www.legislation.gov.uk/nisr/2022/178/article/4/4/a)
 
-[^key-c1d7ae0137c57d8405580979425b4526]: Textual amendment: Words in [reg. 13G(4)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/4) substituted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(f)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/f), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-c1d7ae0137c57d8405580979425b4526]: Textual amendment: Words in [reg. 13G(4)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/4) substituted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(f)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/f), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-7fd887d606b2708261c1f999369d9ae0]: Textual amendment: [Reg. 13G(4A)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/4A) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(g)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/g), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-7fd887d606b2708261c1f999369d9ae0]: Textual amendment: [Reg. 13G(4A)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/4A) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(4)(g)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/4/g), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-d85abb6f50beba4a897f77eea97cd4d5]: Textual amendment: Word in [reg. 13G(5)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/5) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2022/178/article/4/4/b)
+[^c-d85abb6f50beba4a897f77eea97cd4d5]: Textual amendment: Word in [reg. 13G(5)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/5) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(4)(b)](https://www.legislation.gov.uk/nisr/2022/178/article/4/4/b)
 
-[^key-5a59e0705b08847e7e3a5262b278b20e]: Textual amendment: [Reg. 13G(6)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/6) added (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(4)(c)](https://www.legislation.gov.uk/nisr/2022/178/article/4/4/c)
+[^c-5a59e0705b08847e7e3a5262b278b20e]: Textual amendment: [Reg. 13G(6)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13G/6) added (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(4)(c)](https://www.legislation.gov.uk/nisr/2022/178/article/4/4/c)
 
-[^key-8cfabf47dfe6f2c2fa577552831f1f4b]: Textual amendment: Words in [reg. 13H](https://www.legislation.gov.uk/nisr/2009/422/regulation/13H) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/5), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-8cfabf47dfe6f2c2fa577552831f1f4b]: Textual amendment: Words in [reg. 13H](https://www.legislation.gov.uk/nisr/2009/422/regulation/13H) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/5), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-e549959c4e51dbd61aaf418fd1853b7e]: Textual amendment: Words in [reg. 13I(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13I/2) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(6)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/6), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-e549959c4e51dbd61aaf418fd1853b7e]: Textual amendment: Words in [reg. 13I(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13I/2) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(6)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/6), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-e8e1e7ed7f5bbd4011fd44bbf2740651]: Textual amendment: Words in [reg. 13I(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13I/2) substituted (26.2.2024) by [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/189)](https://www.legislation.gov.uk/nisr/2023/189), [regs. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2023/189/regulation/2/4)
+[^c-e8e1e7ed7f5bbd4011fd44bbf2740651]: Textual amendment: Words in [reg. 13I(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13I/2) substituted (26.2.2024) by [The Child Support (Management of Payments and Arrears) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/189)](https://www.legislation.gov.uk/nisr/2023/189), [regs. 1](https://www.legislation.gov.uk/nisr/2023/189/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2023/189/regulation/2/4)
 
-[^key-486b0353a51f2d29811a46353ec844a7]: Textual amendment: Words in [reg. 13I(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13I/2) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(5)](https://www.legislation.gov.uk/nisr/2022/178/article/4/5)
+[^c-486b0353a51f2d29811a46353ec844a7]: Textual amendment: Words in [reg. 13I(2)](https://www.legislation.gov.uk/nisr/2009/422/regulation/13I/2) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(5)](https://www.legislation.gov.uk/nisr/2022/178/article/4/5)
 
-[^key-e07c041e7ee1bd58b36712edd9d97962]: Textual amendment: [Reg. 13J](https://www.legislation.gov.uk/nisr/2009/422/regulation/13J) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/7), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-e07c041e7ee1bd58b36712edd9d97962]: Textual amendment: [Reg. 13J](https://www.legislation.gov.uk/nisr/2009/422/regulation/13J) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2019/221/regulation/4/7), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-a415a063e27839456cf9260c4cabcdb7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2009/422/regulation/14) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-a415a063e27839456cf9260c4cabcdb7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2009/422/regulation/14) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-07f30ff21857c32f124154f186bedb37]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/nisr/2009/422/regulation/14) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(6)](https://www.legislation.gov.uk/nisr/2022/178/article/4/6)
+[^c-07f30ff21857c32f124154f186bedb37]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/nisr/2009/422/regulation/14) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(6)](https://www.legislation.gov.uk/nisr/2022/178/article/4/6)
 
-[^key-f644ee5f854d3eedda835040ebc50f3e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/422/regulation/15) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-f644ee5f854d3eedda835040ebc50f3e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/422/regulation/15) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
 [^f00011]: Footnote: Regulation 10 was substituted by regulation 3(3) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and paragraph (1) is amended by Article 10(4) of [S.R. 1999 No. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246), and regulation 2(10) of [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15)
 
@@ -643,8 +643,8 @@ Regulation 15 saves the relevant provisions for specified purposes where the dec
 
 [^f00014]: Footnote: Regulation 30A was inserted by regulation 2(11) of [S.R. 2001 No. 23](https://www.legislation.gov.uk/nisr/2001/23) and was amended by regulation 6(8) of [S.R. 2009 No. 133](https://www.legislation.gov.uk/nisr/2009/133)
 
-[^key-2fb43a5c81f1339475e30fe05817e4e1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/422/schedule/1) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(8)](https://www.legislation.gov.uk/nisr/2022/178/article/4/8)
+[^c-2fb43a5c81f1339475e30fe05817e4e1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/422/schedule/1) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(8)](https://www.legislation.gov.uk/nisr/2022/178/article/4/8)
 
-[^key-0a3f094f83c777eb83d46c6a1a27bb6c]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2009/422/schedule) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
+[^c-0a3f094f83c777eb83d46c6a1a27bb6c]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2009/422/schedule) in operation at 25.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/422/regulation/1)
 
-[^key-d6c29c2a3224ba436d7d13bd34ee866d]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2009/422/schedule) heading inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(7)](https://www.legislation.gov.uk/nisr/2022/178/article/4/7)
+[^c-d6c29c2a3224ba436d7d13bd34ee866d]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2009/422/schedule) heading inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [4(7)](https://www.legislation.gov.uk/nisr/2022/178/article/4/7)

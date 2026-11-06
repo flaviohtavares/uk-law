@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Removal of exemption for small employers[^key-1f89d521b732957af130237b4166259a]
+## 36. Removal of exemption for small employers[^c-1f89d521b732957af130237b4166259a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 3 of the Employment Rights Act 1996 (c. 18) (note about disciplinary 
 
 ## Annotations
 
-[^key-1f89d521b732957af130237b4166259a]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2002/22/section/36) in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)
+[^c-1f89d521b732957af130237b4166259a]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2002/22/section/36) in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)

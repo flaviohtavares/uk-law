@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**223.**[^key-276f945c9dec4b829b3c37756c394e62] In section 744[^f00194] (payments to adopters, etc: England and Wales)—
+**223.**[^c-276f945c9dec4b829b3c37756c394e62] In section 744[^f00194] (payments to adopters, etc: England and Wales)—
 
 - (a) after subsection (1)(i) insert—
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-276f945c9dec4b829b3c37756c394e62]: Commencement: Reg. 223 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-276f945c9dec4b829b3c37756c394e62]: Commencement: Reg. 223 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00194]: Footnote: Section 744 was amended by the Finance (No 3) Act [2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), section 2(2).

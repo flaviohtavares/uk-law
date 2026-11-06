@@ -26,7 +26,7 @@ Articles 36D, 36I and 36K
 
 **1.** (1) In this Schedule “relevant order” means a reparation order, a community responsibility order or a youth conference order.
 
-(2) In this Schedule “the appropriate court”, in relation to a relevant order, means a youth court [^key-cc4e57f5b8e9aee8e0298684be333587]....
+(2) In this Schedule “the appropriate court”, in relation to a relevant order, means a youth court [^c-cc4e57f5b8e9aee8e0298684be333587]....
 
 (2A)[^c21161201] In this Schedule “**the relevant court**”, in relation to a relevant order, means—
 
@@ -101,7 +101,7 @@ Articles 36D, 36I and 36K
 
 - (a) cancelling a requirement of the relevant order;
 - (b) reducing the period of any requirement;
-- (c)[^key-cb69b27d9b2bf93900b6f047a3d0a3bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-cb69b27d9b2bf93900b6f047a3d0a3bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) substituting a new responsible officer for the one specified in the relevant order.
 
 (7) The relevant court must not make an order under sub-paragraph (1) amending a youth conference order on the application of the offender unless the relevant court has consulted the responsible officer.
@@ -133,7 +133,7 @@ Articles 36D, 36I and 36K
 - (a) the offender subject to the relevant order; and
 - (b) his parent or guardian or, if he is in the care of an authority (within the meaning of the Children (Northern Ireland) Order 1995 (N.I. 2)), a social worker of the authority.
 
-(3)[^key-1fa95ff1b96b7ef116c92fd231c81224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1fa95ff1b96b7ef116c92fd231c81224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Presence of offender in court, remands etc.[^c20346911]
 
@@ -169,7 +169,7 @@ Articles 36D, 36I and 36K
 - (a) revoking the relevant order;
 - (b) cancelling a requirement of the relevant order;
 - (c) reducing the period of any requirement;
-- (d)[^key-8051db31fe90378f91fbc660a5e8c007] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8051db31fe90378f91fbc660a5e8c007] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) substituting a new responsible officer for the one specified in the relevant order.
 
 ## Annotations
@@ -178,7 +178,7 @@ Articles 36D, 36I and 36K
 
 [^c20346771]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-cc4e57f5b8e9aee8e0298684be333587]: Textual amendment: Words in [Sch. 1A para. 1(2)](https://www.legislation.gov.uk/nisi/1998/1504/schedule/1A/paragraph/1/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(10)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/10/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-cc4e57f5b8e9aee8e0298684be333587]: Textual amendment: Words in [Sch. 1A para. 1(2)](https://www.legislation.gov.uk/nisi/1998/1504/schedule/1A/paragraph/1/2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(10)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/10/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c21161201]: Textual amendment: Sch. 1A para. 1(2A) inserted (6.10.2008) by [Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [48(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/48/2); [S.R. 2008/383](https://www.legislation.gov.uk/nisr/2008/383), [art. 2](https://www.legislation.gov.uk/nisr/2008/383/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/383/schedule)
 
@@ -212,14 +212,14 @@ Articles 36D, 36I and 36K
 
 [^c21243401]: Textual amendment: Sch. 1A para. 5(2) omitted (6.10.2008) by virtue of [Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [48(9)](https://www.legislation.gov.uk/nisi/2008/1216/article/48/9); [S.R. 2008/383](https://www.legislation.gov.uk/nisr/2008/383), [art. 2](https://www.legislation.gov.uk/nisr/2008/383/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/383/schedule) (further repealed (1.4.2009) by [S.R. 2009/120](https://www.legislation.gov.uk/nisr/2009/120), [art. 2](https://www.legislation.gov.uk/nisr/2009/120/article/2), [Sch. 1 para. 19(c)](https://www.legislation.gov.uk/nisr/2009/120/schedule/1/paragraph/19/c))
 
-[^key-cb69b27d9b2bf93900b6f047a3d0a3bd]: Textual amendment: [Sch. 1A para. 5(6)(c)](https://www.legislation.gov.uk/nisi/1998/1504/schedule/1A/paragraph/5/6/c) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(10)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/10/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-cb69b27d9b2bf93900b6f047a3d0a3bd]: Textual amendment: [Sch. 1A para. 5(6)(c)](https://www.legislation.gov.uk/nisi/1998/1504/schedule/1A/paragraph/5/6/c) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(10)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/10/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c20346871]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
 [^c20346891]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-1fa95ff1b96b7ef116c92fd231c81224]: Textual amendment: [Sch. 1A para. 7(3)](https://www.legislation.gov.uk/nisi/1998/1504/schedule/1A/paragraph/7/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(10)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/10/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-1fa95ff1b96b7ef116c92fd231c81224]: Textual amendment: [Sch. 1A para. 7(3)](https://www.legislation.gov.uk/nisi/1998/1504/schedule/1A/paragraph/7/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(10)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/10/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c20346911]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-8051db31fe90378f91fbc660a5e8c007]: Textual amendment: [Sch. 1A para. 8(8)(d)](https://www.legislation.gov.uk/nisi/1998/1504/schedule/1A/paragraph/8/8/d) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(10)(d)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/10/d), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-8051db31fe90378f91fbc660a5e8c007]: Textual amendment: [Sch. 1A para. 8(8)(d)](https://www.legislation.gov.uk/nisi/1998/1504/schedule/1A/paragraph/8/8/d) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(10)(d)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/10/d), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

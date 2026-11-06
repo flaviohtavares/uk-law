@@ -32,11 +32,11 @@ Section 81.
 
 (2) Where the repealed provision was itself a re-enactment of an earlier provision the reference shall extend in the same way to that earlier provision and so on.
 
-### Advances ... to development corporations under previous enactments[^key-4b3fe0bd32682bd110e22ca4fc5bb3c1]
+### Advances ... to development corporations under previous enactments[^c-4b3fe0bd32682bd110e22ca4fc5bb3c1]
 
 *Extent: E+W*
 
-**3.**[^key-d0db8490cf011533269e006f0831c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d0db8490cf011533269e006f0831c25b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** For the purposes of section 60 above—
 
@@ -45,7 +45,7 @@ Section 81.
 
 shall continue to be regarded as having been made under that section 12(1). or that section 42(1), as the case may be, and not under section 58(1) above (which corresponds to those provisions).
 
-**5.**[^key-e58cc3b381778a7ade8e573ad1f86568] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e58cc3b381778a7ade8e573ad1f86568] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Saving as to certain provisions relating to housing
 
@@ -75,7 +75,7 @@ shall continue to be regarded as having been made under that section 12(1). or t
 
 ### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-5c13ce3ad14ffdc0e931a0db6475240c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-5c13ce3ad14ffdc0e931a0db6475240c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Schedule 25 to the Local Government, Planning and Land Act 1980[^c253458]
 
@@ -95,15 +95,15 @@ affects a transaction or purported disposal made before the coming into force of
 
 ## Annotations
 
-[^key-4b3fe0bd32682bd110e22ca4fc5bb3c1]: Textual amendment: Words in Sch. 11 para. 3 cross-heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 32(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-4b3fe0bd32682bd110e22ca4fc5bb3c1]: Textual amendment: Words in Sch. 11 para. 3 cross-heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 32(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
-[^key-d0db8490cf011533269e006f0831c25b]: Textual amendment: Sch. 11 para. 3 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 32(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-d0db8490cf011533269e006f0831c25b]: Textual amendment: Sch. 11 para. 3 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 32(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
 [^c253445]: Marginal citation: [1965 c. 59](https://www.legislation.gov.uk/ukpga/1965/59).
 
 [^c253446]: Marginal citation: [1946 c. 68](https://www.legislation.gov.uk/ukpga/1946/68).
 
-[^key-e58cc3b381778a7ade8e573ad1f86568]: Textual amendment: Sch. 11 para. 5 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 32(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-e58cc3b381778a7ade8e573ad1f86568]: Textual amendment: Sch. 11 para. 5 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 32(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
 [^c253448]: Marginal citation: [1959 c. 62](https://www.legislation.gov.uk/ukpga/1959/62).
 
@@ -121,6 +121,6 @@ affects a transaction or purported disposal made before the coming into force of
 
 [^c253455]: Marginal citation: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-5c13ce3ad14ffdc0e931a0db6475240c]: Textual amendment: Sch. 11 para. 12 and cross-heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 32(4)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32/4), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-5c13ce3ad14ffdc0e931a0db6475240c]: Textual amendment: Sch. 11 para. 12 and cross-heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 32(4)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/32/4), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
 [^c253458]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).

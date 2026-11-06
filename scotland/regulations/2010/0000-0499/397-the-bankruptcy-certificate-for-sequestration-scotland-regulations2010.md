@@ -34,7 +34,7 @@ Bankruptcy
 
 Debt
 
-The Bankruptcy (Certificate for Sequestration) (Scotland) Regulations 2010 (revoked)[^key-e3e5b556556bfb219c63a88395c0359c]
+The Bankruptcy (Certificate for Sequestration) (Scotland) Regulations 2010 (revoked)[^c-e3e5b556556bfb219c63a88395c0359c]
 
 Made
 
@@ -44,43 +44,43 @@ Coming into force
 
 15th November 2010
 
-[^key-e3e5b556556bfb219c63a88395c0359c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3e5b556556bfb219c63a88395c0359c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e3e5b556556bfb219c63a88395c0359c]
+## 1. Citation and commencement[^c-e3e5b556556bfb219c63a88395c0359c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e3e5b556556bfb219c63a88395c0359c]
+## 2. Interpretation[^c-e3e5b556556bfb219c63a88395c0359c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Authorised persons[^key-e3e5b556556bfb219c63a88395c0359c]
+## 3. Authorised persons[^c-e3e5b556556bfb219c63a88395c0359c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Further provisions relating to certification[^key-e3e5b556556bfb219c63a88395c0359c]
+## 4. Further provisions relating to certification[^c-e3e5b556556bfb219c63a88395c0359c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. The form and manner of certificate[^key-e3e5b556556bfb219c63a88395c0359c]
+## 5. The form and manner of certificate[^c-e3e5b556556bfb219c63a88395c0359c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fees[^key-e3e5b556556bfb219c63a88395c0359c]
+## 6. Fees[^c-e3e5b556556bfb219c63a88395c0359c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. The prescribed period[^key-e3e5b556556bfb219c63a88395c0359c]
+## 7. The prescribed period[^c-e3e5b556556bfb219c63a88395c0359c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e3e5b556556bfb219c63a88395c0359c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3e5b556556bfb219c63a88395c0359c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e3e5b556556bfb219c63a88395c0359c]
+## SCHEDULE[^c-e3e5b556556bfb219c63a88395c0359c]
 
 Regulation 5
 
@@ -88,8 +88,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-e3e5b556556bfb219c63a88395c0359c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3e5b556556bfb219c63a88395c0359c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3e5b556556bfb219c63a88395c0359c]: Textual amendment: Regulations revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [regs. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [32](https://www.legislation.gov.uk/ssi/2016/397/regulation/32), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3) (with [reg. 33](https://www.legislation.gov.uk/ssi/2016/397/regulation/33))
+[^c-e3e5b556556bfb219c63a88395c0359c]: Textual amendment: Regulations revoked (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [regs. 1](https://www.legislation.gov.uk/ssi/2016/397/regulation/1), [32](https://www.legislation.gov.uk/ssi/2016/397/regulation/32), [sch. 3](https://www.legislation.gov.uk/ssi/2016/397/schedule/3) (with [reg. 33](https://www.legislation.gov.uk/ssi/2016/397/regulation/33))

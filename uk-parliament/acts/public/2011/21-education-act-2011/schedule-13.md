@@ -24,11 +24,11 @@ Section 54
 
 ### AA 2010
 
-**1.**[^key-5d3450b0dc11b3168fde24899c43fe67] AA 2010 is amended as follows.
+**1.**[^c-5d3450b0dc11b3168fde24899c43fe67] AA 2010 is amended as follows.
 
-**2.**[^key-88adb2d9b2239e5459d761aed352cac6] In section 4(3) (Academy orders: when maintained school is “converted into” Academy) for “a school” substitute “ an educational institution ”.
+**2.**[^c-88adb2d9b2239e5459d761aed352cac6] In section 4(3) (Academy orders: when maintained school is “converted into” Academy) for “a school” substitute “ an educational institution ”.
 
-**3.**[^key-94d2f4a81cfaf75e18ed90272847071d] (1) Section 6 (effect of Academy order) is amended as follows.
+**3.**[^c-94d2f4a81cfaf75e18ed90272847071d] (1) Section 6 (effect of Academy order) is amended as follows.
 
 (2) In subsection (2), for “a school” substitute “ an educational institution ”.
 
@@ -47,9 +47,9 @@ Section 54
 
 > - (b) is to be converted into an Academy school.
 
-**4.**[^key-aa64053c9c6b2005bef3e0fd5a6956b2] In section 10A (charges at boarding Academies) (inserted by section 61), in subsection (1)(a), for “an Academy” substitute “ an Academy school or an alternative provision Academy ”.
+**4.**[^c-aa64053c9c6b2005bef3e0fd5a6956b2] In section 10A (charges at boarding Academies) (inserted by section 61), in subsection (1)(a), for “an Academy” substitute “ an Academy school or an alternative provision Academy ”.
 
-**5.**[^key-5f72f3594ec510948348606f30cc8c89] (1) Schedule 1 (Academies: land) (substituted by Schedule 14) is amended as follows.
+**5.**[^c-5f72f3594ec510948348606f30cc8c89] (1) Schedule 1 (Academies: land) (substituted by Schedule 14) is amended as follows.
 
 (2) In paragraph 10 (power of Secretary of State to make direction where Academy order made)—
 
@@ -60,7 +60,7 @@ Section 54
 
 ### Other Acts
 
-**6.**[^key-31918602d4f3cc12ffd018bbcc7e67cf] (1) The Children Act 1989 is amended as follows.
+**6.**[^c-31918602d4f3cc12ffd018bbcc7e67cf] (1) The Children Act 1989 is amended as follows.
 
 (2) In section 62 (voluntary organisations providing accommodation: duties of local authorities), in subsection (10), after “1992,” insert “ a 16 to 19 Academy ”.
 
@@ -83,11 +83,11 @@ Section 54
 
   > - (d) in relation to a 16 to 19 Academy, the proprietor of the Academy.
 
-**7.**[^key-0f4b271b6376500e3c93fc12e04ae794] In Schedule 4A to the Water Industry Act 1991 (premises that are not to be disconnected for non-payment of charges), after paragraph 10 insert—
+**7.**[^c-0f4b271b6376500e3c93fc12e04ae794] In Schedule 4A to the Water Industry Act 1991 (premises that are not to be disconnected for non-payment of charges), after paragraph 10 insert—
 
 > **10A.** A 16 to 19 Academy.
 
-**8.**[^key-307efe7e27ac41860387e4ce1f96de0b] (1) FHEA 1992 is amended as follows.
+**8.**[^c-307efe7e27ac41860387e4ce1f96de0b] (1) FHEA 1992 is amended as follows.
 
 (2) In section 85A (nuisance or disturbance on educational premises)—
 
@@ -123,7 +123,7 @@ Section 54
 - (a) in subsection (1), after “further education sector” insert “ or is a 16 to 19 Academy ”;
 - (b) in subsection (5), after “further education sector” insert “ or a 16 to 19 Academy ”.
 
-**9.**[^key-b6a480a95966dc6c4a64d3a4cfafb4a5] (1) EA 1996 is amended as follows.
+**9.**[^c-b6a480a95966dc6c4a64d3a4cfafb4a5] (1) EA 1996 is amended as follows.
 
 (2) In section 4 (schools: general)—
 
@@ -246,7 +246,7 @@ Section 54
 
 (20) In paragraph 15(2) of Schedule 35B (travel arrangements for eligible children: meaning of “qualifying school”), in paragraph (f), for “or an Academy” substitute “ , an Academy school or an alternative provision Academy ”.
 
-**10.**[^key-5d044b66a2055676a3b2a14f7dc7d5dc] (1) SSFA 1998 is amended as follows.
+**10.**[^c-5d044b66a2055676a3b2a14f7dc7d5dc] (1) SSFA 1998 is amended as follows.
 
 (2) In section 77 (control of disposals or changes in use of school playing fields) (as amended by Schedule 14)—
 
@@ -272,9 +272,9 @@ Section 54
 
 (8) In section 88Q (reports under section 88P: provision of information), in subsection (2)(d)(i), for “Academy” substitute “ Academy school ”.
 
-(9)[^key-abe93e2916e87b44c02eb1ea3a0dc6a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-abe93e2916e87b44c02eb1ea3a0dc6a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a4d5cb63bf119e0deeea9fd1590b8b81] In section 24 of the Anti-social Behaviour Act 2003 (sections 19 to 22A and 24: interpretation)—
+**11.**[^c-a4d5cb63bf119e0deeea9fd1590b8b81] In section 24 of the Anti-social Behaviour Act 2003 (sections 19 to 22A and 24: interpretation)—
 
 - (a) in the definition of “governing body”, for “Academy” substitute “ Academy school, alternative provision Academy ”;
 - (b) in the definition of “relevant school”, for paragraph (e) substitute—
@@ -284,9 +284,9 @@ Section 54
 
   .
 
-**12.**[^key-23f042147b4fce4f76d53c470c6b6ea4] In section 14 of the International Development Act 2002 (functions of the Commonwealth Scholarship Commission etc), in subsection (1)(b)(i), after “higher education sector” insert “ , at 16 to 19 Academies ”.
+**12.**[^c-23f042147b4fce4f76d53c470c6b6ea4] In section 14 of the International Development Act 2002 (functions of the Commonwealth Scholarship Commission etc), in subsection (1)(b)(i), after “higher education sector” insert “ , at 16 to 19 Academies ”.
 
-**13.**[^key-779133cdb00c53364a5bb69ea40066d4] (1) EA 2002 is amended as follows.
+**13.**[^c-779133cdb00c53364a5bb69ea40066d4] (1) EA 2002 is amended as follows.
 
 (2) In section 135A (requirement to serve induction period: teachers in England) (inserted by section 9)—
 
@@ -311,13 +311,13 @@ Section 54
   ;
 - (b) in subsection (5), at the end insert “ and “**proprietor**” has the same meaning as in the Education Act 1996 ”.
 
-**14.**[^key-1b1dead6c89826f9d737dec3a72ece87] In section 71 of the Income Tax (Trading and Other Income) Act 2005 (educational establishments for the purposes of section 70), in subsection (1), omit the “or” after paragraph (c) and after paragraph (d) insert
+**14.**[^c-1b1dead6c89826f9d737dec3a72ece87] In section 71 of the Income Tax (Trading and Other Income) Act 2005 (educational establishments for the purposes of section 70), in subsection (1), omit the “or” after paragraph (c) and after paragraph (d) insert
 
 > , or
 >
 > - (e) a 16 to 19 Academy.
 
-**15.**[^key-13751c435a6098f1630b405d7ca9d38b] (1) EA 2005 is amended as follows.
+**15.**[^c-13751c435a6098f1630b405d7ca9d38b] (1) EA 2005 is amended as follows.
 
 (2) In section 5 (duty to inspect certain schools at prescribed intervals), in subsection (2), for paragraph (d) substitute—
 
@@ -328,7 +328,7 @@ Section 54
 
 (3) In section 113 (information about the school workforce: introductory), in subsection (2)(c), after “institution” insert “ or a 16 to 19 Academy ”.
 
-**16.**[^key-5a65c1f0c14f23c12348032f4fe4e880] (1) EIA 2006 is amended as follows.
+**16.**[^c-5a65c1f0c14f23c12348032f4fe4e880] (1) EIA 2006 is amended as follows.
 
 (2) In section 7 (invitation for proposals for establishment of new schools), in subsection (2)(b), for “Academy” substitute “ Academy school ”.
 
@@ -353,27 +353,27 @@ Section 54
 
 (8) In Schedule 2 (consideration, approval and implementation of proposals for establishment or discontinuance of schools in England), in paragraph 3A(a) (inserted by Schedule 11), for “an Academy” substitute “ an Academy school ”.
 
-**17.** (1)[^key-9194766e795abee3615f3570967e87b8] The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
+**17.** (1)[^c-9194766e795abee3615f3570967e87b8] The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
 
 (2) In section 21 (controlled activity relating to children), in subsection (4), after “Education Act 2002)” insert “ or a 16 to 19 Academy ”.
 
-(3)[^key-9194766e795abee3615f3570967e87b8] In section 59 (meaning of “vulnerable adults”), in subsection (3), after paragraph (d) insert—
+(3)[^c-9194766e795abee3615f3570967e87b8] In section 59 (meaning of “vulnerable adults”), in subsection (3), after paragraph (d) insert—
 
 > - (e) a 16 to 19 Academy which provides accommodation for children.
 
-**18.**[^key-efbb8b1d1cef2c691b5f22627e0dc6b0] In section 71 of the Corporation Tax Act 2009 (educational establishments for the purposes of section 70), in subsection (1), omit the “or” after paragraph (c) and after paragraph (d) insert
+**18.**[^c-efbb8b1d1cef2c691b5f22627e0dc6b0] In section 71 of the Corporation Tax Act 2009 (educational establishments for the purposes of section 70), in subsection (1), omit the “or” after paragraph (c) and after paragraph (d) insert
 
 > , or
 >
 > - (e) a 16 to 19 Academy.
 
-**19.**[^key-9810e6d3ef66373be296ed665edc67b5] In section 23 of ASCLA 2009 (duty to prepare and submit draft specification of apprenticeship standards: England), in subsection (2)(b), omit the “and” after sub-paragraph (ii), and after that sub-paragraph insert—
+**19.**[^c-9810e6d3ef66373be296ed665edc67b5] In section 23 of ASCLA 2009 (duty to prepare and submit draft specification of apprenticeship standards: England), in subsection (2)(b), omit the “and” after sub-paragraph (ii), and after that sub-paragraph insert—
 
 > - (iia) 16 to 19 Academies, and
 
 .
 
-**20.**[^key-3b9ceaa3a93c03aedf45e97969cb3102] (1) The Equality Act 2010 is amended as follows.
+**20.**[^c-3b9ceaa3a93c03aedf45e97969cb3102] (1) The Equality Act 2010 is amended as follows.
 
 (2) In section 91 (students: admission and treatment, etc)—
 
@@ -397,44 +397,44 @@ Section 54
 
 ## Annotations
 
-[^key-5d3450b0dc11b3168fde24899c43fe67]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-5d3450b0dc11b3168fde24899c43fe67]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/1) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-88adb2d9b2239e5459d761aed352cac6]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-88adb2d9b2239e5459d761aed352cac6]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-94d2f4a81cfaf75e18ed90272847071d]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-94d2f4a81cfaf75e18ed90272847071d]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-aa64053c9c6b2005bef3e0fd5a6956b2]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-aa64053c9c6b2005bef3e0fd5a6956b2]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/4) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-5f72f3594ec510948348606f30cc8c89]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-5f72f3594ec510948348606f30cc8c89]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/5) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-31918602d4f3cc12ffd018bbcc7e67cf]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/6) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-31918602d4f3cc12ffd018bbcc7e67cf]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/6) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-0f4b271b6376500e3c93fc12e04ae794]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/7) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-0f4b271b6376500e3c93fc12e04ae794]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/7) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-307efe7e27ac41860387e4ce1f96de0b]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/8) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-307efe7e27ac41860387e4ce1f96de0b]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/8) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-b6a480a95966dc6c4a64d3a4cfafb4a5]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/9) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-b6a480a95966dc6c4a64d3a4cfafb4a5]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/9) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-5d044b66a2055676a3b2a14f7dc7d5dc]: Commencement: Sch. 13 para. 10 in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-5d044b66a2055676a3b2a14f7dc7d5dc]: Commencement: Sch. 13 para. 10 in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-abe93e2916e87b44c02eb1ea3a0dc6a7]: Textual amendment: [Sch. 13 para. 10(9)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/10/9) omitted (1.1.2016) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 16 para. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/2/2/d); [S.I. 2015/2074](https://www.legislation.gov.uk/uksi/2015/2074), [art. 2](https://www.legislation.gov.uk/uksi/2015/2074/article/2)
+[^c-abe93e2916e87b44c02eb1ea3a0dc6a7]: Textual amendment: [Sch. 13 para. 10(9)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/10/9) omitted (1.1.2016) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 16 para. 2(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/2/2/d); [S.I. 2015/2074](https://www.legislation.gov.uk/uksi/2015/2074), [art. 2](https://www.legislation.gov.uk/uksi/2015/2074/article/2)
 
-[^key-a4d5cb63bf119e0deeea9fd1590b8b81]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/11) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-a4d5cb63bf119e0deeea9fd1590b8b81]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/11) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-23f042147b4fce4f76d53c470c6b6ea4]: Commencement: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/12) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-23f042147b4fce4f76d53c470c6b6ea4]: Commencement: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/12) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-779133cdb00c53364a5bb69ea40066d4]: Commencement: [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/13) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-779133cdb00c53364a5bb69ea40066d4]: Commencement: [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/13) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-1b1dead6c89826f9d737dec3a72ece87]: Commencement: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/14) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-1b1dead6c89826f9d737dec3a72ece87]: Commencement: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/14) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-13751c435a6098f1630b405d7ca9d38b]: Commencement: [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/15) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-13751c435a6098f1630b405d7ca9d38b]: Commencement: [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/15) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-5a65c1f0c14f23c12348032f4fe4e880]: Commencement: [Sch. 13 para. 16](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/16) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-5a65c1f0c14f23c12348032f4fe4e880]: Commencement: [Sch. 13 para. 16](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/16) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-9194766e795abee3615f3570967e87b8]: Commencement: [Sch. 13 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/17/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/17/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-9194766e795abee3615f3570967e87b8]: Commencement: [Sch. 13 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/17/1)[(3)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/17/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-efbb8b1d1cef2c691b5f22627e0dc6b0]: Commencement: [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/18) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-efbb8b1d1cef2c691b5f22627e0dc6b0]: Commencement: [Sch. 13 para. 18](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/18) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-9810e6d3ef66373be296ed665edc67b5]: Commencement: [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/19) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-9810e6d3ef66373be296ed665edc67b5]: Commencement: [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/19) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-3b9ceaa3a93c03aedf45e97969cb3102]: Commencement: [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/20) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-3b9ceaa3a93c03aedf45e97969cb3102]: Commencement: [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/20) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Corporate parenting: application to persons looked after before age 16 and planning[^key-3a1ece1ea6d418a4de5beb0993aa0f70]
+## 25. Corporate parenting: application to persons looked after before age 16 and planning[^c-3a1ece1ea6d418a4de5beb0993aa0f70]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a1ece1ea6d418a4de5beb0993aa0f70]: Commencement: S. 25 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-3a1ece1ea6d418a4de5beb0993aa0f70]: Commencement: S. 25 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

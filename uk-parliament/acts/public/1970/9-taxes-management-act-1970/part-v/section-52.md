@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Evidence.[^key-41745f25cfd68bbbefe7a535763b6858]
+## 52. Evidence.[^c-41745f25cfd68bbbefe7a535763b6858]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41745f25cfd68bbbefe7a535763b6858]: Textual amendment: S. 52 repealed (with effect in accordance with reg. 1(1) of the amending S.I.) by [The General and Special Commissioners (Amendment of Enactments) Regulations 1994 (S.I. 1994/1813)](https://www.legislation.gov.uk/uksi/1994/1813), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1994/1813/schedule/1/paragraph/7), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1994/1813/schedule/2/part/I)
+[^c-41745f25cfd68bbbefe7a535763b6858]: Textual amendment: S. 52 repealed (with effect in accordance with reg. 1(1) of the amending S.I.) by [The General and Special Commissioners (Amendment of Enactments) Regulations 1994 (S.I. 1994/1813)](https://www.legislation.gov.uk/uksi/1994/1813), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1994/1813/schedule/1/paragraph/7), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1994/1813/schedule/2/part/I)

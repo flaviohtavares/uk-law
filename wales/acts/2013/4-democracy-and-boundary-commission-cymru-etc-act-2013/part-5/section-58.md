@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Registers of members' interests[^key-307e29ffb4e940abe949ea4dd9c45468]
+## 58. Registers of members' interests[^c-307e29ffb4e940abe949ea4dd9c45468]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-307e29ffb4e940abe949ea4dd9c45468]: Commencement: S. 58 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/d)
+[^c-307e29ffb4e940abe949ea4dd9c45468]: Commencement: S. 58 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/d)

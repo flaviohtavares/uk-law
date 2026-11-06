@@ -61,11 +61,11 @@ is a member of the partnership at the later time.
 
 #### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9b493088a2bf58a7e1f3669215331c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9b493088a2bf58a7e1f3669215331c76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — Conduct notices and monitoring notices
 
-#### Defeat notices[^key-1e87bfd1bd5c8dfe11e533c588b8fcf7]
+#### Defeat notices[^c-1e87bfd1bd5c8dfe11e533c588b8fcf7]
 
 **4A.** A defeat notice that is given to a partnership must state that it is a partnership defeat notice.
 
@@ -87,12 +87,12 @@ is a member of the partnership at the later time.
 **7.** (1) This paragraph applies where—
 
 - (a) a person or persons have ceased to be members of a partnership,
-- (b) immediately before the cessation, a defeat notice,[^key-e506ab1ca5696700f45febb3640dd748] conduct notice or monitoring notice had effect in relation to the partnership, and
+- (b) immediately before the cessation, a defeat notice,[^c-e506ab1ca5696700f45febb3640dd748] conduct notice or monitoring notice had effect in relation to the partnership, and
 - (c) immediately after the cessation, a person who was a member of the partnership immediately before the cessation is carrying on the business of the partnership, but not in partnership.
 
-(2) Where this paragraph applies, the defeat notice,[^key-a4bd6207c99af70685cbb64e7af9cc8f] conduct notice or monitoring notice continues (despite paragraphs 1 and 2) to have effect in relation to the person mentioned in sub-paragraph (1)(c) (but, in relation to times when the business is not being carried on in partnership, the notice is not regarded for the purposes of this Part of this Act as a notice that has been given to a partnership.)
+(2) Where this paragraph applies, the defeat notice,[^c-a4bd6207c99af70685cbb64e7af9cc8f] conduct notice or monitoring notice continues (despite paragraphs 1 and 2) to have effect in relation to the person mentioned in sub-paragraph (1)(c) (but, in relation to times when the business is not being carried on in partnership, the notice is not regarded for the purposes of this Part of this Act as a notice that has been given to a partnership.)
 
-#### Persons leaving partnership: defeat notices[^key-04d404daca0473b91182569c89c93727]
+#### Persons leaving partnership: defeat notices[^c-04d404daca0473b91182569c89c93727]
 
 **7A.** (1) Sub-paragraphs (2) and (3) apply where—
 
@@ -145,26 +145,26 @@ is a member of the partnership at the later time.
 **10.** (1) This paragraph applies if—
 
 - (a) a person (“a departing partner”) who has been carrying on a business in partnership ceases to carry on the business in partnership,
-- (b) a , defeat notice, conduct notice or[^key-ca42d2d3cbcfa7903af72fef3b890ab1] monitoring notice had effect in relation to the partnership immediately before the departing partner ceased to carry on the business in partnership, and
+- (b) a , defeat notice, conduct notice or[^c-ca42d2d3cbcfa7903af72fef3b890ab1] monitoring notice had effect in relation to the partnership immediately before the departing partner ceased to carry on the business in partnership, and
 - (c) the departing partner is continuing to carry on part (but not the whole) of the business (“the transferred part”).
 
 (2) The notice mentioned in sub-paragraph (1)(b) is referred to in this paragraph as “**the original notice**”.
 
 (3) An authorised officer may give the departing partner—
 
-- (za)[^key-3521e553a56dfa07ee8a95b9190e1844] a defeat notice (if the original notice is a defeat notice);
+- (za)[^c-3521e553a56dfa07ee8a95b9190e1844] a defeat notice (if the original notice is a defeat notice);
 - (a) a conduct notice (if the original notice is a conduct notice);
 - (b) a monitoring notice (if the original notice is a monitoring notice).
 
 (4) If the departing partner is itself carrying on the transferred part of the business in partnership, the authorised officer may give that partnership (“the new partnership”)—
 
-- (za)[^key-07c209d626bcf21c17822cacc158bec2] a defeat notice (if the original notice is a defeat notice);
+- (za)[^c-07c209d626bcf21c17822cacc158bec2] a defeat notice (if the original notice is a defeat notice);
 - (a) a conduct notice (if the original notice is a conduct notice);
 - (b) a monitoring notice (if the original notice is a monitoring notice).
 
 (5) A notice given under sub-paragraph (4) ceases to have effect if the departing partner ceases to be a member of the new partnership.
 
-(5A)[^key-f701eb5838c6cbe4b18b4a51d4e6a108] A notice under sub-paragraph (3)(za) or (4)(za) may not be given after the end of the look-forward period of the original notice.
+(5A)[^c-f701eb5838c6cbe4b18b4a51d4e6a108] A notice under sub-paragraph (3)(za) or (4)(za) may not be given after the end of the look-forward period of the original notice.
 
 (6) A notice under sub-paragraph (3)(a) or (4)(a) may not be given after the termination date of the original notice (under section 241(2)(a) or (b)).
 
@@ -275,36 +275,36 @@ that the affairs of B are conducted in accordance with P's wishes.
 
 #### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-645d06178c44b2f4d59ae456ef6f08d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-645d06178c44b2f4d59ae456ef6f08d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Power to amend definitions
 
-**21.** (1) The Treasury may by regulations amend paragraph 19 [^key-716f5ffd840f5180e4e64733887f200c]....
+**21.** (1) The Treasury may by regulations amend paragraph 19 [^c-716f5ffd840f5180e4e64733887f200c]....
 
 (2) Regulations under sub-paragraph (1) may include any amendment of this Schedule that is necessary in consequence of any amendment made by virtue of sub-paragraph (1).
 
 ## Annotations
 
-[^key-9b493088a2bf58a7e1f3669215331c76]: Textual amendment: Sch. 36 para. 4 and crossheading omitted (with effect in accordance with Sch. 19 para. 9 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 19 para. 5(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/19/paragraph/5/a)
+[^c-9b493088a2bf58a7e1f3669215331c76]: Textual amendment: Sch. 36 para. 4 and crossheading omitted (with effect in accordance with Sch. 19 para. 9 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 19 para. 5(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/19/paragraph/5/a)
 
-[^key-1e87bfd1bd5c8dfe11e533c588b8fcf7]: Textual amendment: [Sch. 36 para. 4A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/36/paragraph/4A) and cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/11)
+[^c-1e87bfd1bd5c8dfe11e533c588b8fcf7]: Textual amendment: [Sch. 36 para. 4A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/36/paragraph/4A) and cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/11)
 
-[^key-e506ab1ca5696700f45febb3640dd748]: Textual amendment: Words in [Sch. 36 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/36/paragraph/7/1/b) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(12)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/12)
+[^c-e506ab1ca5696700f45febb3640dd748]: Textual amendment: Words in [Sch. 36 para. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/36/paragraph/7/1/b) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(12)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/12)
 
-[^key-a4bd6207c99af70685cbb64e7af9cc8f]: Textual amendment: Words in [Sch. 36 para. 7(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/36/paragraph/7/2) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(13)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/13)
+[^c-a4bd6207c99af70685cbb64e7af9cc8f]: Textual amendment: Words in [Sch. 36 para. 7(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/36/paragraph/7/2) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(13)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/13)
 
-[^key-04d404daca0473b91182569c89c93727]: Textual amendment: [Sch. 36 para. 7A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/36/paragraph/7A) and cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/14)
+[^c-04d404daca0473b91182569c89c93727]: Textual amendment: [Sch. 36 para. 7A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/36/paragraph/7A) and cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/14)
 
-[^key-ca42d2d3cbcfa7903af72fef3b890ab1]: Textual amendment: Words in Sch. 36 para. 10(1)(b) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(15)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/15/a)
+[^c-ca42d2d3cbcfa7903af72fef3b890ab1]: Textual amendment: Words in Sch. 36 para. 10(1)(b) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(15)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/15/a)
 
-[^key-3521e553a56dfa07ee8a95b9190e1844]: Textual amendment: Sch. 36 para. 10(3)(za) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(15)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/15/b)
+[^c-3521e553a56dfa07ee8a95b9190e1844]: Textual amendment: Sch. 36 para. 10(3)(za) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(15)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/15/b)
 
-[^key-07c209d626bcf21c17822cacc158bec2]: Textual amendment: Sch. 36 para. 10(4)(za) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(15)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/15/c)
+[^c-07c209d626bcf21c17822cacc158bec2]: Textual amendment: Sch. 36 para. 10(4)(za) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(15)(c)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/15/c)
 
-[^key-f701eb5838c6cbe4b18b4a51d4e6a108]: Textual amendment: Sch. 36 para. 10(5A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(15)(d)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/15/d)
+[^c-f701eb5838c6cbe4b18b4a51d4e6a108]: Textual amendment: Sch. 36 para. 10(5A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(15)(d)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/15/d)
 
 [^M_F_423f0ab7-0073-4e26-fa4d-423f5c16d93f]: Textual amendment: Sch. 36 para. 11A inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(16)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/16)
 
-[^key-645d06178c44b2f4d59ae456ef6f08d3]: Textual amendment: Sch. 36 para. 20 and crossheading omitted (with effect in accordance with Sch. 19 para. 9 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 19 para. 5(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/19/paragraph/5/b)
+[^c-645d06178c44b2f4d59ae456ef6f08d3]: Textual amendment: Sch. 36 para. 20 and crossheading omitted (with effect in accordance with Sch. 19 para. 9 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 19 para. 5(b)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/19/paragraph/5/b)
 
-[^key-716f5ffd840f5180e4e64733887f200c]: Textual amendment: Words in Sch. 36 para. 21 omitted (with effect in accordance with Sch. 19 para. 9 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 19 para. 5(c)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/19/paragraph/5/c)
+[^c-716f5ffd840f5180e4e64733887f200c]: Textual amendment: Words in Sch. 36 para. 21 omitted (with effect in accordance with Sch. 19 para. 9 of the amending Act) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 19 para. 5(c)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/19/paragraph/5/c)

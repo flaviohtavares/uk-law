@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Duty to make petition scheme[^key-2567a8bfd2ccc3f6de4a8650ab9037f8]
+## 42. Duty to make petition scheme[^c-2567a8bfd2ccc3f6de4a8650ab9037f8]
 
 *Extent: E+W*
 
@@ -34,10 +34,10 @@ summary: ''
 
 (4) If a principal council revises or replaces a petition scheme, it must publish the revised or new scheme.
 
-(5)[^key-8bc738d6b8ffd64453f108e02783ac2e] This section applies to a corporate joint committee as it applies to a principal council and references in subsections (1) to (4) to a principal council are to be construed accordingly.
+(5)[^c-8bc738d6b8ffd64453f108e02783ac2e] This section applies to a corporate joint committee as it applies to a principal council and references in subsections (1) to (4) to a principal council are to be construed accordingly.
 
 ## Annotations
 
-[^key-2567a8bfd2ccc3f6de4a8650ab9037f8]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2021/1/section/42) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(d)](https://www.legislation.gov.uk/wsi/2021/231/article/6/d)
+[^c-2567a8bfd2ccc3f6de4a8650ab9037f8]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2021/1/section/42) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(d)](https://www.legislation.gov.uk/wsi/2021/231/article/6/d)
 
-[^key-8bc738d6b8ffd64453f108e02783ac2e]: Textual amendment: [S. 42(5)](https://www.legislation.gov.uk/asc/2021/1/section/42/5) inserted (6.5.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(3)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/c), [31](https://www.legislation.gov.uk/wsi/2021/1349/regulation/31)
+[^c-8bc738d6b8ffd64453f108e02783ac2e]: Textual amendment: [S. 42(5)](https://www.legislation.gov.uk/asc/2021/1/section/42/5) inserted (6.5.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(3)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/c), [31](https://www.legislation.gov.uk/wsi/2021/1349/regulation/31)

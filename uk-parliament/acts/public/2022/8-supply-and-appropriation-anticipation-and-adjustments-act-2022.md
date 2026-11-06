@@ -39,7 +39,7 @@ Be it therefore enacted by the Queen’s most Excellent Majesty, by and with the
 
 ## Vote on Account for 2022-23
 
-### 1. Vote on account for 2022-23[^key-70ea6d96ed8c196ad197697b36763339]
+### 1. Vote on account for 2022-23[^c-70ea6d96ed8c196ad197697b36763339]
 
 (1) The use of resources for the year ending with 31 March 2023 is authorised up to the amount of £410,557,176,000.
 
@@ -57,7 +57,7 @@ up to the amount of £361,722,188,000.
 
 ## Supplementary provision for 2021-22
 
-### 2. Authorisation of supplementary provision for 2021-22[^key-f654b2f12bb1607288afadfa4d2939a2]
+### 2. Authorisation of supplementary provision for 2021-22[^c-f654b2f12bb1607288afadfa4d2939a2]
 
 (1) The amount up to which the authorisation was conferred for the use of resources for the year ending with 31 March 2022 is to be treated as further increased by £320,020,642,000.
 
@@ -75,7 +75,7 @@ is to be treated as further increased by £21,456,287,000.
 
 (4) The increases for which this section provides are to be treated as having had effect from the beginning of 1 April 2021.
 
-### 3. Appropriation of supplementary provision for 2021-22[^key-d934f47a6758ec767208af044ae95e4e]
+### 3. Appropriation of supplementary provision for 2021-22[^c-d934f47a6758ec767208af044ae95e4e]
 
 (1) For the purposes of—
 
@@ -109,7 +109,7 @@ the Main Estimates Act 2021 is to be treated as having effect with the adjustmen
 
 ## Excesses for 2020-21
 
-### 4. Authorisation of excesses for 2020-21[^key-56e52675bdc0e01c53d9e803fa43d757]
+### 4. Authorisation of excesses for 2020-21[^c-56e52675bdc0e01c53d9e803fa43d757]
 
 (1) The amount up to which authorisation was conferred for the use of resources for the year ending with 31 March 2021 is to be treated as further increased, for the purpose of making good excesses, by £144,494,000.
 
@@ -117,7 +117,7 @@ the Main Estimates Act 2021 is to be treated as having effect with the adjustmen
 
 (3) The increases for which this section provides are to be treated as having had effect from the beginning of 1 April 2020.
 
-### 5. Appropriation of excesses for 2020-21[^key-a4ad04e039770639b0c9af3d95599c1d]
+### 5. Appropriation of excesses for 2020-21[^c-a4ad04e039770639b0c9af3d95599c1d]
 
 (1) For the purpose of appropriating the amount of resources the use of which for the year ending with 31 March 2021 is authorised by section 4(1), the Main Estimates Act 2020 is treated as having effect with the adjustments provided for in Schedule 2 to this Act.
 
@@ -142,7 +142,7 @@ the Main Estimates Act 2021 is to be treated as having effect with the adjustmen
 
 ## General
 
-### 6. Short title[^key-38f7006aa7758ddfd70227b81af7e715]
+### 6. Short title[^c-38f7006aa7758ddfd70227b81af7e715]
 
 This Act may be cited as the Supply and Appropriation (Anticipation and Adjustments) Act 2022.
 
@@ -152,11 +152,11 @@ SCHEDULES
 
 Section 3
 
-**1.**[^key-dbbc141a5416fb469ad24d257eba28ca] (1) In this Schedule, where an asterisk (\*) appears at the beginning of a description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2021 as originally enacted.
+**1.**[^c-dbbc141a5416fb469ad24d257eba28ca] (1) In this Schedule, where an asterisk (\*) appears at the beginning of a description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2021 as originally enacted.
 
 (2) Text which follows an asterisk (\*) is added by this Schedule.
 
-**2.**[^key-6d2699b3e2e67fa7ccbd9e7ea4d98b6c] In the Schedule to the Supply and Appropriation (Main Estimates) Act 2021, the title of the Estimate that is now entitled “Department for Levelling Up, Housing and Communities” was “Ministry of Housing, Communities and Local Government”.
+**2.**[^c-6d2699b3e2e67fa7ccbd9e7ea4d98b6c] In the Schedule to the Supply and Appropriation (Main Estimates) Act 2021, the title of the Estimate that is now entitled “Department for Levelling Up, Housing and Communities” was “Ministry of Housing, Communities and Local Government”.
 
 Department of Health and Social Care, 2021-22
 
@@ -1162,7 +1162,7 @@ The Local Government Boundary Commission for England
 
 Section 5
 
-**1.**[^key-b6aa3e4fe7cd148c25f8e0638dfce119] (1) In this Schedule, where two asterisks (\*\*) appear at the beginning of a description of matters to which expenditure may relate, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2020 as originally enacted.
+**1.**[^c-b6aa3e4fe7cd148c25f8e0638dfce119] (1) In this Schedule, where two asterisks (\*\*) appear at the beginning of a description of matters to which expenditure may relate, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2020 as originally enacted.
 
 (2) Text which follows two asterisks (\*\*) is added by this Schedule.
 
@@ -1228,20 +1228,20 @@ The Local Government Boundary Commission for England
 
 ## Annotations
 
-[^key-70ea6d96ed8c196ad197697b36763339]: Commencement: S. 1 in force at Royal Assent
+[^c-70ea6d96ed8c196ad197697b36763339]: Commencement: S. 1 in force at Royal Assent
 
-[^key-f654b2f12bb1607288afadfa4d2939a2]: Commencement: S. 2 in force at Royal Assent
+[^c-f654b2f12bb1607288afadfa4d2939a2]: Commencement: S. 2 in force at Royal Assent
 
-[^key-d934f47a6758ec767208af044ae95e4e]: Commencement: S. 3 in force at Royal Assent
+[^c-d934f47a6758ec767208af044ae95e4e]: Commencement: S. 3 in force at Royal Assent
 
-[^key-56e52675bdc0e01c53d9e803fa43d757]: Commencement: S. 4 in force at Royal Assent
+[^c-56e52675bdc0e01c53d9e803fa43d757]: Commencement: S. 4 in force at Royal Assent
 
-[^key-a4ad04e039770639b0c9af3d95599c1d]: Commencement: S. 5 in force at Royal Assent
+[^c-a4ad04e039770639b0c9af3d95599c1d]: Commencement: S. 5 in force at Royal Assent
 
-[^key-38f7006aa7758ddfd70227b81af7e715]: Commencement: S. 6 in force at Royal Assent
+[^c-38f7006aa7758ddfd70227b81af7e715]: Commencement: S. 6 in force at Royal Assent
 
-[^key-dbbc141a5416fb469ad24d257eba28ca]: Commencement: Sch. 1 para. 1 in force at Royal Assent
+[^c-dbbc141a5416fb469ad24d257eba28ca]: Commencement: Sch. 1 para. 1 in force at Royal Assent
 
-[^key-6d2699b3e2e67fa7ccbd9e7ea4d98b6c]: Commencement: Sch. 1 para. 2 in force at Royal Assent
+[^c-6d2699b3e2e67fa7ccbd9e7ea4d98b6c]: Commencement: Sch. 1 para. 2 in force at Royal Assent
 
-[^key-b6aa3e4fe7cd148c25f8e0638dfce119]: Commencement: Sch. 2 para. 1 in force at Royal Assent
+[^c-b6aa3e4fe7cd148c25f8e0638dfce119]: Commencement: Sch. 2 para. 1 in force at Royal Assent

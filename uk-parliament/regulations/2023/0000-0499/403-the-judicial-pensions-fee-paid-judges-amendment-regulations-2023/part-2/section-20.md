@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendment of regulation 18[^key-5ac29d1309a76f1f3a0936a88d46a9d6]
+## 20. Amendment of regulation 18[^c-5ac29d1309a76f1f3a0936a88d46a9d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ In regulation 18—
 
 ## Annotations
 
-[^key-5ac29d1309a76f1f3a0936a88d46a9d6]: Commencement: Reg. 20 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-5ac29d1309a76f1f3a0936a88d46a9d6]: Commencement: Reg. 20 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

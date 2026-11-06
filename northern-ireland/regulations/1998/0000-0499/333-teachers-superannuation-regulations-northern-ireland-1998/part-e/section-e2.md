@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E2. Nature of retirement benefits[^key-3a877de2891126196046076c025888f4]
+## E2. Nature of retirement benefits[^c-3a877de2891126196046076c025888f4]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ calculated in accordance with this Part.
 
 ## Annotations
 
-[^key-3a877de2891126196046076c025888f4]: Commencement: Reg. E2 in operation at 2.11.1998, see reg. A1
+[^c-3a877de2891126196046076c025888f4]: Commencement: Reg. E2 in operation at 2.11.1998, see reg. A1

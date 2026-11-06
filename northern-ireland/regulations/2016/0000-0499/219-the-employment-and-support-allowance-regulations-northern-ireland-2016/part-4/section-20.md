@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Matters to be taken into account in determining good cause in relation to regulation 18 or 19[^key-c49650adadde0d8f63aa668659555fb3]
+## 20. Matters to be taken into account in determining good cause in relation to regulation 18 or 19[^c-c49650adadde0d8f63aa668659555fb3]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The matters to be taken into account in determining whether a claimant has good 
 
 ## Annotations
 
-[^key-c49650adadde0d8f63aa668659555fb3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/219/regulation/20) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-c49650adadde0d8f63aa668659555fb3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/219/regulation/20) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Reviews with respect to an investigation and recommendations by relevant review bodies[^key-aa1eedd939dd73fdc2ee1a221d4dbaa4]
+## 64. Reviews with respect to an investigation and recommendations by relevant review bodies[^c-aa1eedd939dd73fdc2ee1a221d4dbaa4]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,4 +119,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa1eedd939dd73fdc2ee1a221d4dbaa4]: Commencement: Reg. 64 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-aa1eedd939dd73fdc2ee1a221d4dbaa4]: Commencement: Reg. 64 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

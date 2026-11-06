@@ -27,9 +27,9 @@ summary: ''
 - (a) provisions requiring agencies to maintain arrangements for that purpose and to draw up a memorandum of co-operation; and
 - (b) provisions regarding the exchange of information among them.
 
-(2A)[^key-59cf89859cb648932a47c4239608bda6] Guidance under this Article must contain provisions about arrangements for considering the disclosure, to any particular member of the public, of information concerning any relevant previous convictions of a person where it is necessary to protect a particular child or particular children from serious harm caused by that person; and the guidance may, in particular, contain provisions for the purpose of preventing a member of the public from disclosing that information to any other person.
+(2A)[^c-59cf89859cb648932a47c4239608bda6] Guidance under this Article must contain provisions about arrangements for considering the disclosure, to any particular member of the public, of information concerning any relevant previous convictions of a person where it is necessary to protect a particular child or particular children from serious harm caused by that person; and the guidance may, in particular, contain provisions for the purpose of preventing a member of the public from disclosing that information to any other person.
 
-(3) Paragraphs (2) and (2A) do[^key-2f3d4044ab5137fb67170af968c2fa08] not affect the generality of paragraph (1).
+(3) Paragraphs (2) and (2A) do[^c-2f3d4044ab5137fb67170af968c2fa08] not affect the generality of paragraph (1).
 
 (4) Agencies shall give effect to guidance under this Article.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59cf89859cb648932a47c4239608bda6]: Textual amendment: [Art. 50(2A)](https://www.legislation.gov.uk/nisi/2008/1216/article/50/2A) inserted (14.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 48(3)](https://www.legislation.gov.uk/nia/2015/9/section/48/3), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/136/article/2/a)
+[^c-59cf89859cb648932a47c4239608bda6]: Textual amendment: [Art. 50(2A)](https://www.legislation.gov.uk/nisi/2008/1216/article/50/2A) inserted (14.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 48(3)](https://www.legislation.gov.uk/nia/2015/9/section/48/3), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/136/article/2/a)
 
-[^key-2f3d4044ab5137fb67170af968c2fa08]: Textual amendment: Words in [art. 50(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/50/3) substituted (14.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 48(4)](https://www.legislation.gov.uk/nia/2015/9/section/48/4), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/136/article/2/a)
+[^c-2f3d4044ab5137fb67170af968c2fa08]: Textual amendment: Words in [art. 50(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/50/3) substituted (14.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 48(4)](https://www.legislation.gov.uk/nia/2015/9/section/48/4), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/136/article/2/a)

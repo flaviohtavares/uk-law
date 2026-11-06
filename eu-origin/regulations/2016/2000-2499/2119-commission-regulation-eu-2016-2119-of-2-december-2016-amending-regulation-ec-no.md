@@ -153,7 +153,7 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-e21e59c2d29b03bc75b588370f86fd63]...
+[^c-e21e59c2d29b03bc75b588370f86fd63]...
 
 Done at Brussels, 2 December 2016.
 
@@ -185,4 +185,4 @@ Jean-Claude Juncker
 
 [^f00010]: Footnote: Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code ([OJ L 343, 29.12.2015, p. 558](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.343.01.0558.01.ENG)).’
 
-[^key-e21e59c2d29b03bc75b588370f86fd63]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/2119/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(i)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e21e59c2d29b03bc75b588370f86fd63]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/2119/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(i)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Seed (Registration, Licensing and Enforcement) (Wales) Regulations 2005 (revoked)[^key-54230c0d004b6f9146fe3055a782a20f]
+The Seed (Registration, Licensing and Enforcement) (Wales) Regulations 2005 (revoked)[^c-54230c0d004b6f9146fe3055a782a20f]
 
 Made
 
@@ -41,18 +41,18 @@ Coming into force
 
 18 November 2005
 
-[^key-54230c0d004b6f9146fe3055a782a20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54230c0d004b6f9146fe3055a782a20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART I — GENERAL[^c-54230c0d004b6f9146fe3055a782a20f]
 
 **No longer in force.**
 
 - [Section 1 — Title, commencement and application](part-i/section-1.md)
 - [Section 2 — General interpretation](part-i/section-2.md)
 
-### PART II — REGISTRATION OF PERSONS ENGAGED IN SEED INDUSTRY ACTIVITIES[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART II — REGISTRATION OF PERSONS ENGAGED IN SEED INDUSTRY ACTIVITIES[^c-54230c0d004b6f9146fe3055a782a20f]
 
 **No longer in force.**
 
@@ -64,7 +64,7 @@ Coming into force
 - [Section 8 — Revocation of registrations](part-ii/section-8.md)
 - [Section 9 — List](part-ii/section-9.md)
 
-### PART III — LICENSED CROP INSPECTORS[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART III — LICENSED CROP INSPECTORS[^c-54230c0d004b6f9146fe3055a782a20f]
 
 **No longer in force.**
 
@@ -76,7 +76,7 @@ Coming into force
 - [Section 15 — List](part-iii/section-15.md)
 - [Section 16 — Fees](part-iii/section-16.md)
 
-### PART IV — LICENSED SEED SAMPLERS[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART IV — LICENSED SEED SAMPLERS[^c-54230c0d004b6f9146fe3055a782a20f]
 
 **No longer in force.**
 
@@ -88,7 +88,7 @@ Coming into force
 - [Section 22 — List](part-iv/section-22.md)
 - [Section 23 — Fees](part-iv/section-23.md)
 
-### PART V — LICENSED SEED TESTING STATIONS[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART V — LICENSED SEED TESTING STATIONS[^c-54230c0d004b6f9146fe3055a782a20f]
 
 **No longer in force.**
 
@@ -101,14 +101,14 @@ Coming into force
 - [Section 30 — List](part-v/section-30.md)
 - [Section 31 — Fees](part-v/section-31.md)
 
-### PART VI — ENFORCEMENT OF SEEDS REGULATIONS[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART VI — ENFORCEMENT OF SEEDS REGULATIONS[^c-54230c0d004b6f9146fe3055a782a20f]
 
 **No longer in force.**
 
 - [Section 32 — Sampling for enforcement purposes](part-vi/section-32.md)
 - [Section 33 — Certificates of taking and testing a sample](part-vi/section-33.md)
 
-### PART VII — MISCELLANEOUS AND SUPPLEMENTAL[^key-54230c0d004b6f9146fe3055a782a20f]
+### PART VII — MISCELLANEOUS AND SUPPLEMENTAL[^c-54230c0d004b6f9146fe3055a782a20f]
 
 **No longer in force.**
 
@@ -134,14 +134,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-54230c0d004b6f9146fe3055a782a20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54230c0d004b6f9146fe3055a782a20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-54230c0d004b6f9146fe3055a782a20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54230c0d004b6f9146fe3055a782a20f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-54230c0d004b6f9146fe3055a782a20f]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(f)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/f) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-54230c0d004b6f9146fe3055a782a20f]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(f)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/f) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

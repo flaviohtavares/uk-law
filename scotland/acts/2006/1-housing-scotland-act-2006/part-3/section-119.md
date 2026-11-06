@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Meaning of “on the market”, “sale” and related expressions[^key-45b0d9eb5aceaf67b99dcc0f2762041d]
+## 119. Meaning of “on the market”, “sale” and related expressions[^c-45b0d9eb5aceaf67b99dcc0f2762041d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45b0d9eb5aceaf67b99dcc0f2762041d]: Commencement: S. 119 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-45b0d9eb5aceaf67b99dcc0f2762041d]: Commencement: S. 119 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

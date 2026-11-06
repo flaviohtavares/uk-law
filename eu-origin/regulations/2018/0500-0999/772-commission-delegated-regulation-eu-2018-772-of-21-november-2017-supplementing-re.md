@@ -109,33 +109,33 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Subject matter and scope
 
-This Regulation lays down rules for the application of preventive health measures for the control of *Echinococcus multilocularis* infection in dogs intended for non-commercial movement into Great Britain[^key-dbbaba0927816f94f0f82430ef674136].
+This Regulation lays down rules for the application of preventive health measures for the control of *Echinococcus multilocularis* infection in dogs intended for non-commercial movement into Great Britain[^c-dbbaba0927816f94f0f82430ef674136].
 
-## Article 1a. Interpretation[^key-0ae1c27d5a8114d17995eb4adbfa4b77]
+## Article 1a. Interpretation[^c-0ae1c27d5a8114d17995eb4adbfa4b77]
 
 In this Regulation, “**the Commission Implementing Regulation**” means “Commission Implementing Regulation (EU) No 577/2013 on the model identification documents for the non-commercial movement of dogs, cats and ferrets, the establishment of lists of territories and third countries and the format, layout and language requirements of the declarations attesting compliance with certain conditions provided for in Regulation (EU) No 576/2013 of the European Parliament and the Council.
 
-## Article 2. Rules for the categorisation of Member States in view of their eligibility for preventive health measures[^key-e6c44933ce9115258769072f0bfbc4e0]
+## Article 2. Rules for the categorisation of Member States in view of their eligibility for preventive health measures[^c-e6c44933ce9115258769072f0bfbc4e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Eligibility for preventive health measures[^key-e6c44933ce9115258769072f0bfbc4e0]
+## Article 3. Eligibility for preventive health measures[^c-e6c44933ce9115258769072f0bfbc4e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Conditions to be fulfilled in order to remain eligible for preventive health measures[^key-e6c44933ce9115258769072f0bfbc4e0]
+## Article 4. Conditions to be fulfilled in order to remain eligible for preventive health measures[^c-e6c44933ce9115258769072f0bfbc4e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Failure to fulfil the conditions provided for in Article 4[^key-e6c44933ce9115258769072f0bfbc4e0]
+## Article 5. Failure to fulfil the conditions provided for in Article 4[^c-e6c44933ce9115258769072f0bfbc4e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 6. Preventive health measures
 
-1. The owner or authorised person as defined in points (c) and (d) of Article 3 of Regulation (EU) No 576/2013 shall ensure that dogs moved into Great Britain[^key-deaecdbc07edda0fe5f39ef11be2a8e6] have undergone a treatment against mature and immature intestinal forms of the *Echinococcus multilocularis* parasite.
+1. The owner or authorised person as defined in points (c) and (d) of Article 3 of Regulation (EU) No 576/2013 shall ensure that dogs moved into Great Britain[^c-deaecdbc07edda0fe5f39ef11be2a8e6] have undergone a treatment against mature and immature intestinal forms of the *Echinococcus multilocularis* parasite.
 
-2. The treatment referred to in paragraph 1 shall be carried out within a period of not more than 120 hours and not less than 24 hours before the time of the dog's scheduled entry into Great Britain[^key-3c450e59e422ff16cd90e5e9ecd09059] in accordance with paragraphs 3 and 4 of this Article.
+2. The treatment referred to in paragraph 1 shall be carried out within a period of not more than 120 hours and not less than 24 hours before the time of the dog's scheduled entry into Great Britain[^c-3c450e59e422ff16cd90e5e9ecd09059] in accordance with paragraphs 3 and 4 of this Article.
 
 3. The treatment referred to in paragraph 1 shall be administered by a veterinarian and shall consist of a medicinal product:
 
@@ -143,10 +143,10 @@ In this Regulation, “**the Commission Implementing Regulation**” means “Co
   - ((i)) praziquantel, or
   - ((ii)) other pharmacologically active substances, which alone or in combination, have been proven to reduce the burden of mature and immature intestinal forms of the *Echinococcus multilocularis* parasite in dogs at least as effectively as praziquantel; and
 - (b) which has been granted:
-  - ((i)) a marketing authorisation in accordance with regulation 4 of the Veterinary Medicines Regulations 2013[^key-c7cd279d2f27228dcbcb30b5ec544959] or Article 3 of Regulation (EC) No 726/2004 of the European Parliament and of the Council[^f00007] as it has effect in European Union law, as amended from time to time[^key-3d26a28a49bdcdbbd65f1752139c054f], or
+  - ((i)) a marketing authorisation in accordance with regulation 4 of the Veterinary Medicines Regulations 2013[^c-c7cd279d2f27228dcbcb30b5ec544959] or Article 3 of Regulation (EC) No 726/2004 of the European Parliament and of the Council[^f00007] as it has effect in European Union law, as amended from time to time[^c-3d26a28a49bdcdbbd65f1752139c054f], or
   - ((ii)) an approval or a licence by the competent authority of the third country of dispatch of the dog intended for non-commercial movement.
 
-4.[^key-4e1243184eec0f86a488f1b1e8d5d2db] The treatment referred to in paragraph 1 must be certified in the relevant section of the identification document by:
+4.[^c-4e1243184eec0f86a488f1b1e8d5d2db] The treatment referred to in paragraph 1 must be certified in the relevant section of the identification document by:
 
 - (a) where paragraph 4A applies, the administering veterinarian;
 - (b) where paragraph 4B applies—
@@ -159,19 +159,19 @@ In this Regulation, “**the Commission Implementing Regulation**” means “Co
 
 ## Article 7. Derogation from the application of the preventive health measures
 
-1. By way of derogation from Article 6, the appropriate authority[^key-9c25c1a3dd2ffd7065ce47155cf751c7] shall authorise the non-commercial movement into its constituent territory[^key-f383670f51a810ec3ce3d087e788ddc6] of dogs which have not been subjected to the preventive health measures provided those dogs are moved directly from:
+1. By way of derogation from Article 6, the appropriate authority[^c-9c25c1a3dd2ffd7065ce47155cf751c7] shall authorise the non-commercial movement into its constituent territory[^c-f383670f51a810ec3ce3d087e788ddc6] of dogs which have not been subjected to the preventive health measures provided those dogs are moved directly from:
 
-- (a) the territory of a member State listed in Part 1 of the Annex to Regulation 2018/878[^key-5def2dd86fbea75b191b384de428f6e9]; or
-- (b) the territory or part of the territory of a member State listed in Part 2 of the Annex to Regulation 2018/878[^key-ca29bfc0963ace153cea38b2a660b44c].
+- (a) the territory of a member State listed in Part 1 of the Annex to Regulation 2018/878[^c-5def2dd86fbea75b191b384de428f6e9]; or
+- (b) the territory or part of the territory of a member State listed in Part 2 of the Annex to Regulation 2018/878[^c-ca29bfc0963ace153cea38b2a660b44c].
 
-2. By way of derogation from Article 6(2) the appropriate authority[^key-42e7a69396d85fe6b9d06f5bac452448] may authorise the non-commercial movement into its constituent territory[^key-69b4b576ce4f85ec247f87686585468b] of dogs which have been subjected to the preventive health measures provided for:
+2. By way of derogation from Article 6(2) the appropriate authority[^c-42e7a69396d85fe6b9d06f5bac452448] may authorise the non-commercial movement into its constituent territory[^c-69b4b576ce4f85ec247f87686585468b] of dogs which have been subjected to the preventive health measures provided for:
 
 - (a) in Article 6(3) and in point (a) of Article 6(4), at least twice at an interval of a maximum of 28 days and the treatment is repeated thereafter at regular intervals not exceeding 28 days;
-- (b) in Article 6(3) and (4), not less than 24 hours before the time of entering, and not more than 28 days prior to the date of leaving the constituent territory, in which case those dogs must enter and leave that constituent territory through a travellers’ point of entry designated by the appropriate authority for the purposes[^key-0d0a7520043fe129e4486b6398549c71] of the checks referred to in Article 34(1) of Regulation (EU) No 576/2013.
+- (b) in Article 6(3) and (4), not less than 24 hours before the time of entering, and not more than 28 days prior to the date of leaving the constituent territory, in which case those dogs must enter and leave that constituent territory through a travellers’ point of entry designated by the appropriate authority for the purposes[^c-0d0a7520043fe129e4486b6398549c71] of the checks referred to in Article 34(1) of Regulation (EU) No 576/2013.
 
-3. If the appropriate authority makes[^key-aa91dfd371c8d49311590b791f0fd6e9] use of the derogation provided for in paragraph 2 , it[^key-8bd66a77098bd558a641a76237cd7970] shall establish the conditions for the control of such movements and make them publicly available.
+3. If the appropriate authority makes[^c-aa91dfd371c8d49311590b791f0fd6e9] use of the derogation provided for in paragraph 2 , it[^c-8bd66a77098bd558a641a76237cd7970] shall establish the conditions for the control of such movements and make them publicly available.
 
-(4.)[^key-2f4103292f4c73e03b994b83d36edf80] For the purposes of this Article, “**Regulation 2018/878**” means Commission Implementing Regulation (EU) 2018/878 adopting the list of Member States, or parts of the territory of Member States, that comply with the rules for categorisation laid down in Article 2(2) and (3) of Delegated Regulation (EU) 2018/772 concerning the application of preventative health measures for the control of *Echinococcus multilocularis* infection in dogs, as it has effect in European Union law, as amended from time to time.
+(4.)[^c-2f4103292f4c73e03b994b83d36edf80] For the purposes of this Article, “**Regulation 2018/878**” means Commission Implementing Regulation (EU) 2018/878 adopting the list of Member States, or parts of the territory of Member States, that comply with the rules for categorisation laid down in Article 2(2) and (3) of Delegated Regulation (EU) 2018/772 concerning the application of preventative health measures for the control of *Echinococcus multilocularis* infection in dogs, as it has effect in European Union law, as amended from time to time.
 
 ## Article 8. Repeal
 
@@ -185,7 +185,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 Article 8 shall apply from 1 July 2018.
 
-[^key-86591178174111a1faf5134420e9cda4]...
+[^c-86591178174111a1faf5134420e9cda4]...
 
 Done at Brussels, 21 November 2017.
 
@@ -195,19 +195,19 @@ Done at Brussels, 21 November 2017.
 
 Jean-Claude Juncker
 
-## ANNEX I — Requirements for the pathogen-specific surveillance programme provided for in Articles 2(3)(c), 4(2)(c) and Article 4(3)(c)(i)[^key-400321a372acc09a61b795a6efe0aa84]
+## ANNEX I — Requirements for the pathogen-specific surveillance programme provided for in Articles 2(3)(c), 4(2)(c) and Article 4(3)(c)(i)[^c-400321a372acc09a61b795a6efe0aa84]
 
 **No longer in force.**
 
-[^key-400321a372acc09a61b795a6efe0aa84]1.
+[^c-400321a372acc09a61b795a6efe0aa84]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-400321a372acc09a61b795a6efe0aa84]2.
+[^c-400321a372acc09a61b795a6efe0aa84]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-400321a372acc09a61b795a6efe0aa84]3.
+[^c-400321a372acc09a61b795a6efe0aa84]3.
 
 The pathogen-specific surveillance programme shall consist in the ongoing collection, during the 12-month surveillance period, of samples from wild definitive hosts to be analysed using:
 
@@ -258,44 +258,44 @@ The pathogen-specific surveillance programme shall consist in the ongoing collec
 
 [^f00005]: Footnote: Council Directive 92/65/EEC of 13 July 1992 laying down animal health requirements governing trade in and imports into the Community of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A (I) to Directive 90/425/EEC ([OJ L 268, 14.9.1992, p. 54](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.268.01.0054.01.ENG)).
 
-[^key-dbbaba0927816f94f0f82430ef674136]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2018/772/article/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/2)
+[^c-dbbaba0927816f94f0f82430ef674136]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2018/772/article/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/2)
 
-[^key-0ae1c27d5a8114d17995eb4adbfa4b77]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2018/772/article/1)a inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/3)
+[^c-0ae1c27d5a8114d17995eb4adbfa4b77]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2018/772/article/1)a inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/3)
 
-[^key-e6c44933ce9115258769072f0bfbc4e0]: Textual amendment: [Arts. 2-5](https://www.legislation.gov.uk/eur/2018/772/article/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(4)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/4)
+[^c-e6c44933ce9115258769072f0bfbc4e0]: Textual amendment: [Arts. 2-5](https://www.legislation.gov.uk/eur/2018/772/article/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(4)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/4)
 
-[^key-deaecdbc07edda0fe5f39ef11be2a8e6]: Textual amendment: Words in Art. 6(1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/a)
+[^c-deaecdbc07edda0fe5f39ef11be2a8e6]: Textual amendment: Words in Art. 6(1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/a)
 
-[^key-3c450e59e422ff16cd90e5e9ecd09059]: Textual amendment: Words in Art. 6(2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/b)
+[^c-3c450e59e422ff16cd90e5e9ecd09059]: Textual amendment: Words in Art. 6(2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/b)
 
-[^key-c7cd279d2f27228dcbcb30b5ec544959]: Textual amendment: Words in Art. 6(3)(b)(i) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/c/i)
+[^c-c7cd279d2f27228dcbcb30b5ec544959]: Textual amendment: Words in Art. 6(3)(b)(i) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/c/i)
 
 [^f00007]: Footnote: Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency ([OJ L 136, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.136.01.0001.01.ENG)).
 
-[^key-3d26a28a49bdcdbbd65f1752139c054f]: Textual amendment: Words in Art. 6(3)(b)(i) inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/c/ii)
+[^c-3d26a28a49bdcdbbd65f1752139c054f]: Textual amendment: Words in Art. 6(3)(b)(i) inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/c/ii)
 
-[^key-4e1243184eec0f86a488f1b1e8d5d2db]: Textual amendment: Art. 6(4)-(4B) substituted for Art. 6(4) (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(d)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/d)
+[^c-4e1243184eec0f86a488f1b1e8d5d2db]: Textual amendment: Art. 6(4)-(4B) substituted for Art. 6(4) (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(5)(d)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/5/d)
 
-[^key-9c25c1a3dd2ffd7065ce47155cf751c7]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2018/772/article/7/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/a/i/aa)
+[^c-9c25c1a3dd2ffd7065ce47155cf751c7]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2018/772/article/7/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/a/i/aa)
 
-[^key-f383670f51a810ec3ce3d087e788ddc6]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2018/772/article/7/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/a/i/bb)
+[^c-f383670f51a810ec3ce3d087e788ddc6]: Textual amendment: Words in [Art. 7(1)](https://www.legislation.gov.uk/eur/2018/772/article/7/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/a/i/bb)
 
-[^key-5def2dd86fbea75b191b384de428f6e9]: Textual amendment: Words in [Art. 7(1)(a)](https://www.legislation.gov.uk/eur/2018/772/article/7/1/a) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/a/ii)
+[^c-5def2dd86fbea75b191b384de428f6e9]: Textual amendment: Words in [Art. 7(1)(a)](https://www.legislation.gov.uk/eur/2018/772/article/7/1/a) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/a/ii)
 
-[^key-ca29bfc0963ace153cea38b2a660b44c]: Textual amendment: Words in [Art. 7(1)(b)](https://www.legislation.gov.uk/eur/2018/772/article/7/1/b) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/a/iii)
+[^c-ca29bfc0963ace153cea38b2a660b44c]: Textual amendment: Words in [Art. 7(1)(b)](https://www.legislation.gov.uk/eur/2018/772/article/7/1/b) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/a/iii)
 
-[^key-42e7a69396d85fe6b9d06f5bac452448]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2018/772/article/7/2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/b/i/aa)
+[^c-42e7a69396d85fe6b9d06f5bac452448]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2018/772/article/7/2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/b/i/aa)
 
-[^key-69b4b576ce4f85ec247f87686585468b]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2018/772/article/7/2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/b/i/bb)
+[^c-69b4b576ce4f85ec247f87686585468b]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2018/772/article/7/2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/b/i/bb)
 
-[^key-0d0a7520043fe129e4486b6398549c71]: Textual amendment: Words in [Art. 7(2)(b)](https://www.legislation.gov.uk/eur/2018/772/article/7/2/b) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/b/ii)
+[^c-0d0a7520043fe129e4486b6398549c71]: Textual amendment: Words in [Art. 7(2)(b)](https://www.legislation.gov.uk/eur/2018/772/article/7/2/b) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/b/ii)
 
-[^key-aa91dfd371c8d49311590b791f0fd6e9]: Textual amendment: Words in [Art. 7(3)](https://www.legislation.gov.uk/eur/2018/772/article/7/3) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/c/i)
+[^c-aa91dfd371c8d49311590b791f0fd6e9]: Textual amendment: Words in [Art. 7(3)](https://www.legislation.gov.uk/eur/2018/772/article/7/3) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/c/i)
 
-[^key-8bd66a77098bd558a641a76237cd7970]: Textual amendment: Word in [Art. 7(3)](https://www.legislation.gov.uk/eur/2018/772/article/7/3) inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/c/ii)
+[^c-8bd66a77098bd558a641a76237cd7970]: Textual amendment: Word in [Art. 7(3)](https://www.legislation.gov.uk/eur/2018/772/article/7/3) inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/c/ii)
 
-[^key-2f4103292f4c73e03b994b83d36edf80]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/eur/2018/772/article/7/4) inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(d)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/d)
+[^c-2f4103292f4c73e03b994b83d36edf80]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/eur/2018/772/article/7/4) inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(6)(d)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/6/d)
 
-[^key-86591178174111a1faf5134420e9cda4]: Textual amendment: Words in Signature omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(7)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/7)
+[^c-86591178174111a1faf5134420e9cda4]: Textual amendment: Words in Signature omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(7)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/7)
 
-[^key-400321a372acc09a61b795a6efe0aa84]: Textual amendment: Annex 1 omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(8)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/8)
+[^c-400321a372acc09a61b795a6efe0aa84]: Textual amendment: Annex 1 omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [17(8)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17/8)

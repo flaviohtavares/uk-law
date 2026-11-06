@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Secretary of State's duty to promote comprehensive health service[^key-4c5acf5448cccb149af80c244f90df57][^key-90899e411728db2580abf28813dbd193]
+## 1. Secretary of State's duty to promote comprehensive health service[^c-4c5acf5448cccb149af80c244f90df57][^c-90899e411728db2580abf28813dbd193]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ For section 1 of the National Health Service Act 2006 (Secretary of State's duty
 
 ## Annotations
 
-[^key-4c5acf5448cccb149af80c244f90df57]: Commencement: S. 1 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-4c5acf5448cccb149af80c244f90df57]: Commencement: S. 1 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-90899e411728db2580abf28813dbd193]: Commencement: S. 1 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-90899e411728db2580abf28813dbd193]: Commencement: S. 1 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

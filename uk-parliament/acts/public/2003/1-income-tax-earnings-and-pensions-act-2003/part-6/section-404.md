@@ -34,7 +34,7 @@ summary: ''
 (3) In subsection (2)—
 
 - (a) references to an employer, or to a person controlling or controlled by an employer, include the successors of the employer or person, and
-- (b) “**termination or change date**” means a date on which a termination or change occurs in connection with which a payment or other benefit to which section 403[^key-8a045affa3e2b2c3fe9275488ebb5ec3] applies is received in respect of the employee or former employee.
+- (b) “**termination or change date**” means a date on which a termination or change occurs in connection with which a payment or other benefit to which section 403[^c-8a045affa3e2b2c3fe9275488ebb5ec3] applies is received in respect of the employee or former employee.
 
 (4) If payments and other benefits are received in different tax years, the £30,000 is set against the amount of payments and other benefits received in earlier years before those received in later years.
 
@@ -43,13 +43,13 @@ summary: ''
 - (a) the £30,000 (or the balance of it) is set against the amounts of cash benefits as they are received, and
 - (b) any balance at the end of the year is set against the aggregate amount of non-cash benefits received in the year.
 
-(6)[^key-85d91bc5cea26a00350fc9dfa00a74b3] In subsection (3)(b), the reference to a payment or other benefit to which section 403 applies includes a reference to a payment or other benefit—
+(6)[^c-85d91bc5cea26a00350fc9dfa00a74b3] In subsection (3)(b), the reference to a payment or other benefit to which section 403 applies includes a reference to a payment or other benefit—
 
 - (a) received in the tax year 2017-18 or an earlier tax year, and
 - (b) to which this Chapter applied in the tax year of receipt.
 
 ## Annotations
 
-[^key-8a045affa3e2b2c3fe9275488ebb5ec3]: Textual amendment: Words in [s. 404(3)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/404/3/b) substituted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/5/a)
+[^c-8a045affa3e2b2c3fe9275488ebb5ec3]: Textual amendment: Words in [s. 404(3)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/404/3/b) substituted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/5/a)
 
-[^key-85d91bc5cea26a00350fc9dfa00a74b3]: Textual amendment: [S. 404(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/404/6) inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(5)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/5/b)
+[^c-85d91bc5cea26a00350fc9dfa00a74b3]: Textual amendment: [S. 404(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/404/6) inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(5)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/5/b)

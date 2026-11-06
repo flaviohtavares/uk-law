@@ -23,7 +23,7 @@ summary: ''
 (1) A person who makes an application under section 9 may appeal to the High Court against—
 
 - (a) a decision to refuse the application for a practising certificate,
-- (b)[^key-337ef8e3230f14c8a401795425691ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+- (b)[^c-337ef8e3230f14c8a401795425691ffb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
 - (c) a decision to impose a condition on a practising certificate issued in consequence of the application.
 
 (2)[^c20506711] A person who holds a practising certificate subject to a condition within section 10(4)(b) may appeal to the High Court against any decision by the Society to refuse to approve the taking of any step for the purposes of that condition.
@@ -33,11 +33,11 @@ summary: ''
 (4) On an appeal under subsection (1), the High Court may—
 
 - (a) affirm the decision of the Society,
-- (b)[^key-224e7bd08dac5d36d8ecef520a8708c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-224e7bd08dac5d36d8ecef520a8708c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) direct the Society to issue a certificate to the applicant free from conditions or subject to such conditions as the High Court may think fit,
 - (d) direct the Society not to issue a certificate,
 - (e) if a certificate has been issued, by order suspend it,
-- (f)[^key-049ddc23bf641b55e0ca8b3d7cab582a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+- (f)[^c-049ddc23bf641b55e0ca8b3d7cab582a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
 - (g) make such other order as the High Court thinks fit.
 
 (5)[^c20506741] On an appeal under subsection (2), the High Court may—
@@ -58,15 +58,15 @@ summary: ''
 
 [^c19644111]: Textual amendment: S. 13 substituted (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 14](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/14) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
-[^key-337ef8e3230f14c8a401795425691ffb]: Textual amendment: S. 13(1)(b) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/6/a)
+[^c-337ef8e3230f14c8a401795425691ffb]: Textual amendment: S. 13(1)(b) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/6/a)
 
 [^c20506711]: Modification: S. 13(2) extended (with modifications) (1.7.2009) by [The Registered Foreign Lawyers Order 2009 (S.I. 2009/1589)](https://www.legislation.gov.uk/uksi/2009/1589), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/1589/article/3/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2009/1589/schedule)
 
 [^c20506731]: Modification: S. 13(3) extended (with modifications) (1.7.2009) by [The Registered Foreign Lawyers Order 2009 (S.I. 2009/1589)](https://www.legislation.gov.uk/uksi/2009/1589), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/1589/article/3/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2009/1589/schedule)
 
-[^key-224e7bd08dac5d36d8ecef520a8708c1]: Textual amendment: S. 13(4)(b) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/6/b/i)
+[^c-224e7bd08dac5d36d8ecef520a8708c1]: Textual amendment: S. 13(4)(b) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/6/b/i)
 
-[^key-049ddc23bf641b55e0ca8b3d7cab582a]: Textual amendment: S. 13(4)(f) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/6/b/ii)
+[^c-049ddc23bf641b55e0ca8b3d7cab582a]: Textual amendment: S. 13(4)(f) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/6/b/ii)
 
 [^c20506741]: Modification: S. 13(5) extended (with modifications) (1.7.2009) by [The Registered Foreign Lawyers Order 2009 (S.I. 2009/1589)](https://www.legislation.gov.uk/uksi/2009/1589), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/1589/article/3/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2009/1589/schedule)
 

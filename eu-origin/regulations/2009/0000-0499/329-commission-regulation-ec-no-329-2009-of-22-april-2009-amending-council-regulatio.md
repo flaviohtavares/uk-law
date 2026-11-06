@@ -35,25 +35,25 @@ amending Council Regulation (EC) No 1165/98 concerning short-term statistics as 
 
 (Text with EEA relevance) (revoked)
 
-[^key-c4ea95155e247f3441dee77899f0786b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4ea95155e247f3441dee77899f0786b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Sole Article.**[^key-c4ea95155e247f3441dee77899f0786b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Sole Article.**[^c-c4ea95155e247f3441dee77899f0786b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4ea95155e247f3441dee77899f0786b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4ea95155e247f3441dee77899f0786b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-c4ea95155e247f3441dee77899f0786b]
+## ANNEX[^c-c4ea95155e247f3441dee77899f0786b]
 
-[^key-c4ea95155e247f3441dee77899f0786b]1.
+[^c-c4ea95155e247f3441dee77899f0786b]1.
 
 Annex C to Regulation (EC) No 1165/98 is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4ea95155e247f3441dee77899f0786b]2.
+[^c-c4ea95155e247f3441dee77899f0786b]2.
 
 Annex D to Regulation (EC) No 1165/98 is amended as follows:
 
@@ -61,4 +61,4 @@ Annex D to Regulation (EC) No 1165/98 is amended as follows:
 
 ## Annotations
 
-[^key-c4ea95155e247f3441dee77899f0786b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 152](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/152); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4ea95155e247f3441dee77899f0786b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 152](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/152); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

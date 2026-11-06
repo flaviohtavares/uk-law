@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-bbea8687641d97456d8cb2f5f01ffe15]
+### PART 1 — HIGHWAYS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-bbea8687641d97456d8cb2f5f01ffe15]
 
 | *(1)*<br>*Highway to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New highway to be provided* |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Article 15
 | M25 Northbound On-Slip | Between points 1/14 on sheet 1 to 3/3 on sheet 3 of the streets, rights of way and access plans | Work No. 8 |
 | Non-segregated footway in the verge of the existing A12 Eastbound Carriageway | Between points 1/10 to 1/18 on sheet 1 of the streets, rights of way and access plans | Work No. 2 |
 
-### PART 2 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-55bbfd2ef45b380f0a8a9bfa3e5d144c]
+### PART 2 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-55bbfd2ef45b380f0a8a9bfa3e5d144c]
 
 | *(1)*<br>*Private means of access to be stopped up* | *(2)*<br>*Extent of stopping up* | *(3)*<br>*New private means of access to be substituted or provided* |
 | --- | --- | --- |
@@ -39,6 +39,6 @@ Article 15
 
 ## Annotations
 
-[^key-bbea8687641d97456d8cb2f5f01ffe15]: Commencement: Sch. 3 Pt. 1 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-bbea8687641d97456d8cb2f5f01ffe15]: Commencement: Sch. 3 Pt. 1 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
-[^key-55bbfd2ef45b380f0a8a9bfa3e5d144c]: Commencement: Sch. 3 Pt. 2 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-55bbfd2ef45b380f0a8a9bfa3e5d144c]: Commencement: Sch. 3 Pt. 2 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

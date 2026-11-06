@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Financial threshold[^key-8007c8594fb24be9ab6a85ea3344b0c2]
+## 200. Financial threshold[^c-8007c8594fb24be9ab6a85ea3344b0c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8007c8594fb24be9ab6a85ea3344b0c2]: Commencement: [Art. 200](https://www.legislation.gov.uk/uksi/2005/3181/article/200) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-8007c8594fb24be9ab6a85ea3344b0c2]: Commencement: [Art. 200](https://www.legislation.gov.uk/uksi/2005/3181/article/200) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

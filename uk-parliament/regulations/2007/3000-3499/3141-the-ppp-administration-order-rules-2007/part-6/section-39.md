@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Preliminary[^key-5c9a93ed0ae95416d6f5426ad640ec0b]
+## 39. Preliminary[^c-5c9a93ed0ae95416d6f5426ad640ec0b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies to any application made to the court in PPP administration 
 
 ## Annotations
 
-[^key-5c9a93ed0ae95416d6f5426ad640ec0b]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2007/3141/rule/39) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-5c9a93ed0ae95416d6f5426ad640ec0b]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2007/3141/rule/39) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Co-operation and information: duties of responsible persons under Fire Safety Order[^key-267be2512e1018af3222fc29c314ca6f]
+## 121. Co-operation and information: duties of responsible persons under Fire Safety Order[^c-267be2512e1018af3222fc29c314ca6f]
 
 *Extent: E+W*
 
@@ -128,4 +128,4 @@ summary: ''
 
 ## Annotations
 
-[^key-267be2512e1018af3222fc29c314ca6f]: Commencement: S. 121 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-267be2512e1018af3222fc29c314ca6f]: Commencement: S. 121 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

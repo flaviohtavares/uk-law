@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Deputy Clerks of the Sheriff Appeal Court[^key-b8f7026d544d062c484cd86461e9c976]
+## 60. Deputy Clerks of the Sheriff Appeal Court[^c-b8f7026d544d062c484cd86461e9c976]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ as the Scottish Courts and Tribunals Service may determine.
 
 ## Annotations
 
-[^key-b8f7026d544d062c484cd86461e9c976]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2014/18/section/60) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-b8f7026d544d062c484cd86461e9c976]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2014/18/section/60) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

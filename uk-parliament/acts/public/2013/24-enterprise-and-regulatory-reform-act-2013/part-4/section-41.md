@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Extension of powers to issue warrants to CAT[^key-173b6901689a5ba1ed8c1c070b14926e]
+## 41. Extension of powers to issue warrants to CAT[^c-173b6901689a5ba1ed8c1c070b14926e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 13 (which amends the 1998 Act to extend the powers under that Act to is
 
 ## Annotations
 
-[^key-173b6901689a5ba1ed8c1c070b14926e]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2013/24/section/41) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-173b6901689a5ba1ed8c1c070b14926e]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2013/24/section/41) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

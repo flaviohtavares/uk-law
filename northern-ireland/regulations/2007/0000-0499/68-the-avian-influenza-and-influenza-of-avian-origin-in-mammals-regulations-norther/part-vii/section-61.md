@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Other measures to control the spread of virus in mammals[^key-b73d3dbf799ab5a5d0f29e1a10c14a19]
+## 61. Other measures to control the spread of virus in mammals[^c-b73d3dbf799ab5a5d0f29e1a10c14a19]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b73d3dbf799ab5a5d0f29e1a10c14a19]: Commencement: Reg. 61 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-b73d3dbf799ab5a5d0f29e1a10c14a19]: Commencement: Reg. 61 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

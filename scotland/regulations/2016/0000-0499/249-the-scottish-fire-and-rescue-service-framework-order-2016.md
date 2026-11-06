@@ -32,7 +32,7 @@ summary: ''
 
 Fire And Rescue Services
 
-The Scottish Fire and Rescue Service (Framework) Order 2016 (revoked)[^key-dbae1f134db32a67a82d285ff37a268c]
+The Scottish Fire and Rescue Service (Framework) Order 2016 (revoked)[^c-dbae1f134db32a67a82d285ff37a268c]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 4th October 2016
 
-[^key-dbae1f134db32a67a82d285ff37a268c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbae1f134db32a67a82d285ff37a268c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dbae1f134db32a67a82d285ff37a268c]
+## 1. Citation and commencement[^c-dbae1f134db32a67a82d285ff37a268c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Framework document[^key-dbae1f134db32a67a82d285ff37a268c]
+## 2. Framework document[^c-dbae1f134db32a67a82d285ff37a268c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-dbae1f134db32a67a82d285ff37a268c]
+## 3. Revocation[^c-dbae1f134db32a67a82d285ff37a268c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dbae1f134db32a67a82d285ff37a268c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbae1f134db32a67a82d285ff37a268c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dbae1f134db32a67a82d285ff37a268c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbae1f134db32a67a82d285ff37a268c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbae1f134db32a67a82d285ff37a268c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/249) revoked (26.5.2022) by [The Scottish Fire and Rescue Service (Framework) Order 2022 (S.S.I. 2022/119)](https://www.legislation.gov.uk/ssi/2022/119), [arts. 1](https://www.legislation.gov.uk/ssi/2022/119/article/1), [3](https://www.legislation.gov.uk/ssi/2022/119/article/3)
+[^c-dbae1f134db32a67a82d285ff37a268c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/249) revoked (26.5.2022) by [The Scottish Fire and Rescue Service (Framework) Order 2022 (S.S.I. 2022/119)](https://www.legislation.gov.uk/ssi/2022/119), [arts. 1](https://www.legislation.gov.uk/ssi/2022/119/article/1), [3](https://www.legislation.gov.uk/ssi/2022/119/article/3)

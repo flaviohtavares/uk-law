@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Continuity of scheme membership[^key-caef1a97f973dbe1577c6c8ae44a1a9b]
+## 34. Continuity of scheme membership[^c-caef1a97f973dbe1577c6c8ae44a1a9b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caef1a97f973dbe1577c6c8ae44a1a9b]: Textual amendment: Reg. 34 revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [31](https://www.legislation.gov.uk/uksi/2012/215/regulation/31)
+[^c-caef1a97f973dbe1577c6c8ae44a1a9b]: Textual amendment: Reg. 34 revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [31](https://www.legislation.gov.uk/uksi/2012/215/regulation/31)

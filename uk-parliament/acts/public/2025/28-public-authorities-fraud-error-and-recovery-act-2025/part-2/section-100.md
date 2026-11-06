@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 100. Recovery: further provision[^key-0ed4dca19a359a473cee4afdb9f247c0][^key-6cf9234e0c4766031738610873ea598f]
+## 100. Recovery: further provision[^c-0ed4dca19a359a473cee4afdb9f247c0][^c-6cf9234e0c4766031738610873ea598f]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ In the Social Security Administration Act 1992, after section 80G (inserted by s
 
 ## Annotations
 
-[^key-0ed4dca19a359a473cee4afdb9f247c0]: Commencement: S. 100 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-0ed4dca19a359a473cee4afdb9f247c0]: Commencement: S. 100 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-6cf9234e0c4766031738610873ea598f]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2025/28/section/100) in force at 24.6.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/e)
+[^c-6cf9234e0c4766031738610873ea598f]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2025/28/section/100) in force at 24.6.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/e)

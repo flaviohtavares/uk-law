@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Mergers of providers: removal of CMA powers[^key-e41dc6bdf8af72816844490e1d8fd219][^key-b5ae2dde9921d8340a6d7f8d2dbf25f7]
+## 83. Mergers of providers: removal of CMA powers[^c-e41dc6bdf8af72816844490e1d8fd219][^c-b5ae2dde9921d8340a6d7f8d2dbf25f7]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e41dc6bdf8af72816844490e1d8fd219]: Commencement: S. 83 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-e41dc6bdf8af72816844490e1d8fd219]: Commencement: S. 83 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-b5ae2dde9921d8340a6d7f8d2dbf25f7]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2022/31/section/83) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b5ae2dde9921d8340a6d7f8d2dbf25f7]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2022/31/section/83) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

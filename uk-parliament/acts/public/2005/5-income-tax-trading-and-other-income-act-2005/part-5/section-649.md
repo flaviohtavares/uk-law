@@ -22,7 +22,7 @@ summary: ''
 
 (1) Income tax is charged on estate income.
 
-(1A)[^key-5cfa92da747519a43ca3e0faeaafd2ba] But income tax is not charged on estate income so far as that income consists of a basic amount which section 679 treats as having been paid from de minimis aggregate income.
+(1A)[^c-5cfa92da747519a43ca3e0faeaafd2ba] But income tax is not charged on estate income so far as that income consists of a basic amount which section 679 treats as having been paid from de minimis aggregate income.
 
 (1B) In subsection (1A), “**de minimis aggregate income**” means aggregate income of an estate which is treated as bearing income tax at 0% because of section 680(1A).
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cfa92da747519a43ca3e0faeaafd2ba]: Textual amendment: [S. 649(1A)](https://www.legislation.gov.uk/ukpga/2005/5/section/649/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2005/5/section/649/1B) inserted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 11(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/11/2), [14(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/a)
+[^c-5cfa92da747519a43ca3e0faeaafd2ba]: Textual amendment: [S. 649(1A)](https://www.legislation.gov.uk/ukpga/2005/5/section/649/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2005/5/section/649/1B) inserted (6.4.2024 in relation to the tax year 2024-25 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 11(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/11/2), [14(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/3/a)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 43
 
-### PART 1 — REMOVAL OF IMPORTANT HEDGEROWS[^key-737bca48f679326983fc812fb47d40cb]
+### PART 1 — REMOVAL OF IMPORTANT HEDGEROWS[^c-737bca48f679326983fc812fb47d40cb]
 
 | (1) Area | (2) Number of hedgerow and extent of removal |
 | --- | --- |
@@ -40,7 +40,7 @@ Article 43
 | Ashford Borough Council | Removal of one section of hedgerow shown approximately within the area identified H49 on sheets 2 and 3 of the vegetation removal plan. |
 | Ashford Borough Council | Removal of one section of hedgerow shown approximately within the area identified H51 on sheets 2 and 3 of the vegetation removal plan. |
 
-### PART 2 — REMOVAL OF HEDGEROWS[^key-9819c47abc97c2ab88fa8b16435dc23c]
+### PART 2 — REMOVAL OF HEDGEROWS[^c-9819c47abc97c2ab88fa8b16435dc23c]
 
 | (1) Area | (2) Number of hedgerow and extent of removal |
 | --- | --- |
@@ -53,6 +53,6 @@ Article 43
 
 ## Annotations
 
-[^key-737bca48f679326983fc812fb47d40cb]: Commencement: Sch. 15 Pt. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-737bca48f679326983fc812fb47d40cb]: Commencement: Sch. 15 Pt. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-9819c47abc97c2ab88fa8b16435dc23c]: Commencement: Sch. 15 Pt. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-9819c47abc97c2ab88fa8b16435dc23c]: Commencement: Sch. 15 Pt. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

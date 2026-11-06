@@ -22,7 +22,7 @@ summary: ''
 
 Section 21
 
-**1.**[^key-0dab192da54fa018d5bd635cce34cd7a] After Part 2 of the Sexual Offences Act 2003 (c. 42) insert the following new Part—
+**1.**[^c-0dab192da54fa018d5bd635cce34cd7a] After Part 2 of the Sexual Offences Act 2003 (c. 42) insert the following new Part—
 
 > **Part 2A — Closure orders**
 >
@@ -456,7 +456,7 @@ Section 21
 >
 > are references to the local authority for the area in which the premises are situated.
 >
-> (8A)[^key-1bab44660839bedc6f78a9d503a1a3e8] In the application of this Part to Northern Ireland, references to the Secretary of State are to be read as references to the Department of Justice in Northern Ireland.
+> (8A)[^c-1bab44660839bedc6f78a9d503a1a3e8] In the application of this Part to Northern Ireland, references to the Secretary of State are to be read as references to the Department of Justice in Northern Ireland.
 >
 > (9) In the application of this Part to Northern Ireland, references to the local authority in relation to—
 >
@@ -482,18 +482,18 @@ Section 21
 >
 > (14) “**Specified pornography offence**” means an offence listed in section 136A(3).
 
-**2.**[^key-f94614879aede7357b954e8f206a05d0] In section 138 of that Act (orders and regulations), in subsections (2) and (6)[^key-970c365ccc938dc9b30f072ebfa48e63]for “or section 130” substitute “ , section 130 or section 136Q(1) ”.
+**2.**[^c-f94614879aede7357b954e8f206a05d0] In section 138 of that Act (orders and regulations), in subsections (2) and (6)[^c-970c365ccc938dc9b30f072ebfa48e63]for “or section 130” substitute “ , section 130 or section 136Q(1) ”.
 
-**3.**[^key-0abfd03392e82fc8448093c5aad4b493] In section 142 of that Act (extent), in subsection (2)(c) for “Part 2” substitute “ Parts 2 and 2A ”.
+**3.**[^c-0abfd03392e82fc8448093c5aad4b493] In section 142 of that Act (extent), in subsection (2)(c) for “Part 2” substitute “ Parts 2 and 2A ”.
 
 ## Annotations
 
-[^key-0dab192da54fa018d5bd635cce34cd7a]: Commencement: Sch. 2 para. 1 in force at 1.4.2010 for E.W. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(t)](https://www.legislation.gov.uk/uksi/2010/507/article/5/t)
+[^c-0dab192da54fa018d5bd635cce34cd7a]: Commencement: Sch. 2 para. 1 in force at 1.4.2010 for E.W. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(t)](https://www.legislation.gov.uk/uksi/2010/507/article/5/t)
 
-[^key-1bab44660839bedc6f78a9d503a1a3e8]: Textual amendment: Words in Sch. 2 para. 1 inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 108(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/108/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-1bab44660839bedc6f78a9d503a1a3e8]: Textual amendment: Words in Sch. 2 para. 1 inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 108(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/108/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-f94614879aede7357b954e8f206a05d0]: Commencement: Sch. 2 para. 2 in force at 1.4.2010 for E.W. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(t)](https://www.legislation.gov.uk/uksi/2010/507/article/5/t)
+[^c-f94614879aede7357b954e8f206a05d0]: Commencement: Sch. 2 para. 2 in force at 1.4.2010 for E.W. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(t)](https://www.legislation.gov.uk/uksi/2010/507/article/5/t)
 
-[^key-970c365ccc938dc9b30f072ebfa48e63]: Textual amendment: Words in Sch. 2 para. 2 substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 108(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/108/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-970c365ccc938dc9b30f072ebfa48e63]: Textual amendment: Words in Sch. 2 para. 2 substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 108(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/108/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-0abfd03392e82fc8448093c5aad4b493]: Commencement: Sch. 2 para. 3 in force at 1.4.2010 for E.W. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(t)](https://www.legislation.gov.uk/uksi/2010/507/article/5/t)
+[^c-0abfd03392e82fc8448093c5aad4b493]: Commencement: Sch. 2 para. 3 in force at 1.4.2010 for E.W. by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(t)](https://www.legislation.gov.uk/uksi/2010/507/article/5/t)

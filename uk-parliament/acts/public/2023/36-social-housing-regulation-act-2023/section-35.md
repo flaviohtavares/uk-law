@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Exercise of powers: land with a Crown or Duchy interest[^key-2f0721bb2b2856ee10ef2807f236372b][^key-5ecad89c62bcd75febe1f6e41d783d8c]
+## 35. Exercise of powers: land with a Crown or Duchy interest[^c-2f0721bb2b2856ee10ef2807f236372b][^c-5ecad89c62bcd75febe1f6e41d783d8c]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ Before section 277 of the Housing and Regeneration Act 2008 (but after the headi
 
 ## Annotations
 
-[^key-2f0721bb2b2856ee10ef2807f236372b]: Commencement: S. 35 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-2f0721bb2b2856ee10ef2807f236372b]: Commencement: S. 35 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-5ecad89c62bcd75febe1f6e41d783d8c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/36/section/35) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/p)
+[^c-5ecad89c62bcd75febe1f6e41d783d8c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/36/section/35) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/p)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Payment of pension instead of lump sum for members who have reached the age of 75[^key-29255600ded2d0c854983b9ba661ac94]
+## 118. Payment of pension instead of lump sum for members who have reached the age of 75[^c-29255600ded2d0c854983b9ba661ac94]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29255600ded2d0c854983b9ba661ac94]: Commencement: [Reg. 118](https://www.legislation.gov.uk/uksi/2015/182/regulation/118) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-29255600ded2d0c854983b9ba661ac94]: Commencement: [Reg. 118](https://www.legislation.gov.uk/uksi/2015/182/regulation/118) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

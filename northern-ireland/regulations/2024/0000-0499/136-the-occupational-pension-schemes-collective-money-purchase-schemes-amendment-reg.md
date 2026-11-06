@@ -42,7 +42,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 69(4), 71(5)(c), 87(2)(b) and (6) and 102(2) and (3)(b) of the Pension Schemes Act 2021[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-cd03f50e9dbdb4eaf461c7ff06009e81]
+## 1. Citation, commencement and interpretation[^c-cd03f50e9dbdb4eaf461c7ff06009e81]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 and, subject to paragraph (2), shall come into operation on 20th June 2024.
 
@@ -50,14 +50,14 @@ The Department for Communities makes the following Regulations in exercise of th
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations[^key-6555711ee27fcb570b2d364c7ca026ca][^key-ad32f1ddc0c945168de380b6d3cf431a]
+## 2. Amendment of the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations[^c-6555711ee27fcb570b2d364c7ca026ca][^c-ad32f1ddc0c945168de380b6d3cf431a]
 
 The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024[^f00003] are amended in accordance with—
 
-- (a)[^key-6555711ee27fcb570b2d364c7ca026ca] regulations 3 and 4;
+- (a)[^c-6555711ee27fcb570b2d364c7ca026ca] regulations 3 and 4;
 - (b) regulation 5.
 
-## 3. Amendment of regulation 17[^key-8e6d625108009e2a7f0b1769bf768e03]
+## 3. Amendment of regulation 17[^c-8e6d625108009e2a7f0b1769bf768e03]
 
 (1) Regulation 17 (calculation of benefits) is amended in accordance with paragraphs (2) to (5).
 
@@ -81,7 +81,7 @@ The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations
 
 .
 
-## 4. Amendment of regulation 19[^key-b73b06e5da559cc335102100d3353792]
+## 4. Amendment of regulation 19[^c-b73b06e5da559cc335102100d3353792]
 
 In regulation 19(4) (actuarial valuations)—
 
@@ -98,7 +98,7 @@ In regulation 19(4) (actuarial valuations)—
 
   .
 
-## 5. Amendment of Schedule 6[^key-d00d7cc113ef581d0eef4efed0f51622]
+## 5. Amendment of Schedule 6[^c-d00d7cc113ef581d0eef4efed0f51622]
 
 **Not yet in force.**
 
@@ -176,21 +176,21 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00001]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1)
 
-[^key-cd03f50e9dbdb4eaf461c7ff06009e81]: Commencement: Reg. 1 in operation at 20.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1)
+[^c-cd03f50e9dbdb4eaf461c7ff06009e81]: Commencement: Reg. 1 in operation at 20.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6555711ee27fcb570b2d364c7ca026ca]: Commencement: Reg. 2(a) in operation at 20.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1)
+[^c-6555711ee27fcb570b2d364c7ca026ca]: Commencement: Reg. 2(a) in operation at 20.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1)
 
-[^key-ad32f1ddc0c945168de380b6d3cf431a]: Commencement: Reg. 2(b) in operation at 1.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2)
+[^c-ad32f1ddc0c945168de380b6d3cf431a]: Commencement: Reg. 2(b) in operation at 1.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2024 No. 15](https://www.legislation.gov.uk/nisr/2024/15)
 
-[^key-8e6d625108009e2a7f0b1769bf768e03]: Commencement: Reg. 3 in operation at 20.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1)
+[^c-8e6d625108009e2a7f0b1769bf768e03]: Commencement: Reg. 3 in operation at 20.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1)
 
-[^key-b73b06e5da559cc335102100d3353792]: Commencement: Reg. 4 in operation at 20.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1)
+[^c-b73b06e5da559cc335102100d3353792]: Commencement: Reg. 4 in operation at 20.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/1)
 
-[^key-d00d7cc113ef581d0eef4efed0f51622]: Commencement: Reg. 5 in operation at 1.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2)
+[^c-d00d7cc113ef581d0eef4efed0f51622]: Commencement: Reg. 5 in operation at 1.10.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2)
 
 [^f00004]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); paragraph 15 was amended by paragraph 26 of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), paragraph 6(2) of Schedule 5 to the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24) and regulation 180 of [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229)
 

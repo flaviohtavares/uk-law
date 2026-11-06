@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018[^key-754077d6faf5f9add69fd960bbf6c261]
+## 2. The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018[^c-754077d6faf5f9add69fd960bbf6c261]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-754077d6faf5f9add69fd960bbf6c261]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1(5)
+[^c-754077d6faf5f9add69fd960bbf6c261]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1(5)
 
 [^c24413851]: Marginal citation: [S.I. 2018/1275](https://www.legislation.gov.uk/uksi/2018/1275), amended by [S.I. 2019/1488](https://www.legislation.gov.uk/uksi/2019/1488). Prospective amendments were included in [S.I. 2019/865](https://www.legislation.gov.uk/uksi/2019/865). They would have come into force on IP completion day. Those prospective amendments are omitted by regulation 6 of this instrument. They are replaced, in relation to Great Britain, on IP completion day with the amendments in regulation 12 of this instrument. They are replaced, in relation to Northern Ireland, on IP completion day with the amendments in regulation 15 of this instrument.
 

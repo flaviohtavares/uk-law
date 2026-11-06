@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. New general partners: transitional provision about officers[^key-be855943809faad6e009869a97c0ac9e]
+## 124. New general partners: transitional provision about officers[^c-be855943809faad6e009869a97c0ac9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ other than a legal entity that became a general partner in a limited partnership
 
 ## Annotations
 
-[^key-be855943809faad6e009869a97c0ac9e]: Commencement: S. 124 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-be855943809faad6e009869a97c0ac9e]: Commencement: S. 124 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

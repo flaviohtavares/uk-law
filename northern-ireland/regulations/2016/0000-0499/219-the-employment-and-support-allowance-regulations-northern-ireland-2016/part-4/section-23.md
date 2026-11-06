@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Claimant to be treated as having limited capability for work throughout a day[^key-afe388f9f02c59d0c189b39a1079843c]
+## 23. Claimant to be treated as having limited capability for work throughout a day[^c-afe388f9f02c59d0c189b39a1079843c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A claimant who, at the commencement of any day has, or after that develops, limi
 
 ## Annotations
 
-[^key-afe388f9f02c59d0c189b39a1079843c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/219/regulation/23) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-afe388f9f02c59d0c189b39a1079843c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2016/219/regulation/23) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

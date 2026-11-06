@@ -31,7 +31,7 @@ summary: ''
 
 (3) “**Court**” includes—
 
-- (a)[^key-5bdecd1083bcef8fd74e0673f8e4fc73] the First-tier Tribunal;
+- (a)[^c-5bdecd1083bcef8fd74e0673f8e4fc73] the First-tier Tribunal;
 - (b) the Upper Tribunal; and
 - (c) the Commission.
 
@@ -46,27 +46,27 @@ summary: ''
 
 (7) “**Transfer direction**” means
 
-- (a)[^key-a275126957c889682d416418600ae8a5] a transfer direction given under—
-- (i)[^key-870467c8500222cb1170b7de29ecb861] section 48 of the [^c11434811]Mental Health Act 1983 [^key-a967a417e25740b213a6e3edee34fe96]... (removal to hospital of, among others, persons detained under the 1971 Act); or
-- (ii) in Northern Ireland, article 54 of the [^c11434831]Mental Health (Northern Ireland) Order 1986 (provision corresponding to section 48 of the 1983 Act). or[^key-821a5fdf922a011f812629fae5cf9f01]
+- (a)[^c-a275126957c889682d416418600ae8a5] a transfer direction given under—
+- (i)[^c-870467c8500222cb1170b7de29ecb861] section 48 of the [^c11434811]Mental Health Act 1983 [^c-a967a417e25740b213a6e3edee34fe96]... (removal to hospital of, among others, persons detained under the 1971 Act); or
+- (ii) in Northern Ireland, article 54 of the [^c11434831]Mental Health (Northern Ireland) Order 1986 (provision corresponding to section 48 of the 1983 Act). or[^c-821a5fdf922a011f812629fae5cf9f01]
 - (b) a transfer for treatment direction given under section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003 as applied by article 13 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005.
 
 ## Annotations
 
 [^c11434791]: Commencement: S. 156 wholly in force at 2.4.2001; s. 156 not in force at Royal Assent; s. 156(5) in force at 1.8.2000 for certain purposes by [S.I. 2000/1985](https://www.legislation.gov.uk/uksi/2000/1985), [art. 2](https://www.legislation.gov.uk/uksi/2000/1985/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1985/schedule); s. 156 in force so far as not already in force at 2.4.2001 by [S.I. 2001/239](https://www.legislation.gov.uk/uksi/2001/239), [art. 2](https://www.legislation.gov.uk/uksi/2001/239/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/239/schedule)
 
-[^key-5bdecd1083bcef8fd74e0673f8e4fc73]: Textual amendment: S. 156(3)(a)(b) substituted for s. 156(3)(a) (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/21/schedule/1/paragraph/19) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))
+[^c-5bdecd1083bcef8fd74e0673f8e4fc73]: Textual amendment: S. 156(3)(a)(b) substituted for s. 156(3)(a) (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/21/schedule/1/paragraph/19) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))
 
 [^c11434801]: Marginal citation: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-a275126957c889682d416418600ae8a5]: Textual amendment: Words in s. 156(7) renumbered as s. 156(7)(a) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/1/paragraph/5/a)
+[^c-a275126957c889682d416418600ae8a5]: Textual amendment: Words in s. 156(7) renumbered as s. 156(7)(a) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/1/paragraph/5/a)
 
-[^key-870467c8500222cb1170b7de29ecb861]: Textual amendment: S. 156(7)(a)(b) renumbered as s. 156(7)(a)(i)(ii) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/1/paragraph/5/b)
+[^c-870467c8500222cb1170b7de29ecb861]: Textual amendment: S. 156(7)(a)(b) renumbered as s. 156(7)(a)(i)(ii) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/1/paragraph/5/b)
 
 [^c11434811]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-a967a417e25740b213a6e3edee34fe96]: Textual amendment: Words in s. 156(7)(a)(i) omitted (5.10.2005) by virtue of [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/1/paragraph/5/c)
+[^c-a967a417e25740b213a6e3edee34fe96]: Textual amendment: Words in s. 156(7)(a)(i) omitted (5.10.2005) by virtue of [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/1/paragraph/5/c)
 
 [^c11434831]: Marginal citation: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595).
 
-[^key-821a5fdf922a011f812629fae5cf9f01]: Textual amendment: S. 156(7)(b) and word added (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/1/paragraph/5/d)
+[^c-821a5fdf922a011f812629fae5cf9f01]: Textual amendment: S. 156(7)(b) and word added (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/uksi/2005/2078/schedule/1/paragraph/5/d)

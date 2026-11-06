@@ -50,25 +50,25 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 The Secretary of State has consulted with representative organisations as required by section 195(2) of the Road Traffic Act 1988.
 
-## 1. Citation and Commencement[^key-7ba58fa0533a56ee1d6897e98a9330b9]
+## 1. Citation and Commencement[^c-7ba58fa0533a56ee1d6897e98a9330b9]
 
 These Regulations may be cited as the Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016 and come into force on 9th December 2016.
 
-## 2. Amendment of the Road Traffic Act 1988[^key-6f7afd2d99cc0a508b5764b2342710ff]
+## 2. Amendment of the Road Traffic Act 1988[^c-6f7afd2d99cc0a508b5764b2342710ff]
 
 (1) Until the commencement of Schedule 6 to the Road Safety Act 2006[^f00008], Part 5 of the Road Traffic Act 1988 (driving instruction) has effect as if it were amended as follows.
 
-(2)[^key-0788ca8565282f6c8c32fde70613fccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0788ca8565282f6c8c32fde70613fccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c9a6f666d111ed76056deefe53aa37fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c9a6f666d111ed76056deefe53aa37fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 125 (the register of approved instructors)[^f00010]—
 
-- (a)[^key-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-298cb27876084d5667444aa85b8cb9ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) after subsection (3) insert—
 
   > (3A) Where the Registrar is satisfied that a person who has applied under subsection (3) is entitled to give paid instruction in the driving of motor cars by virtue of Part 3 of the European Union (Recognition of Professional Qualifications) Regulations 2015 ([S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059))—
@@ -77,21 +77,21 @@ These Regulations may be cited as the Driving and Motorcycle Riding Instructors 
   > - (b) subsection (3)(a) does not apply in relation to the applicant.
 
   , and
-- (fa)[^key-c370e95a9ee554e26508a45755f3bad4] after subsection (3A) (as inserted by sub-paragraph (f)), insert—
+- (fa)[^c-c370e95a9ee554e26508a45755f3bad4] after subsection (3A) (as inserted by sub-paragraph (f)), insert—
 
   > (3B) Where the Registrar is satisfied that a person who has applied under subsection (3) is entitled to give paid instruction in the driving of motor cars by virtue of Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023—
   >
   > - (a) the Registrar may not impose a requirement on the applicant under subsection (2C) if the Registrar is satisfied that the applicant holds a current certificate or other document that, under the law of one of the specified states set out in Schedule 1 to those Regulations, is of corresponding effect to an emergency control certificate, and
   > - (b) subsection (3)(a) does not apply in relation to the applicant.
-- (g)[^key-18eb66dca626ac895610f68003dad660] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-18eb66dca626ac895610f68003dad660] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-0cc835dad6cb180a6f4408e0ca868a59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0cc835dad6cb180a6f4408e0ca868a59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-79f0ff6e82ba3a32036eebc7929a70d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-79f0ff6e82ba3a32036eebc7929a70d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-c58ea19ef8e678359d1a5dc65425ab9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c58ea19ef8e678359d1a5dc65425ab9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-c0901fb29bb63fa2716dc84cc94f8def] In section 131 (appeals)—
+(8)[^c-c0901fb29bb63fa2716dc84cc94f8def] In section 131 (appeals)—
 
 - (a) before subsection (1), insert—
 
@@ -106,18 +106,18 @@ These Regulations may be cited as the Driving and Motorcycle Riding Instructors 
 
 (9) In section 135 (power to prescribe form of certificate of registration etc)—
 
-- (a)[^key-bb3d605a40df6a1179fc0ef38af1afa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-bb3d605a40df6a1179fc0ef38af1afa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-bb3d605a40df6a1179fc0ef38af1afa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-bb3d605a40df6a1179fc0ef38af1afa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for subsection (3) substitute—
 
-  > (3) If P uses, in relation to any person employed by P whose name is not in [^key-cd0e348609fe409bf49df5bc5248e015]... the register,
+  > (3) If P uses, in relation to any person employed by P whose name is not in [^c-cd0e348609fe409bf49df5bc5248e015]... the register,
   >
-  > - (a) a title or description prescribed under this section for use by persons whose names are in [^key-587a29845d41637518ff36b08b4f9e05]... the register, or
-  > - (b) a name, title, addition or description implying that the person’s name is in [^key-587a29845d41637518ff36b08b4f9e05]... the Register,
+  > - (a) a title or description prescribed under this section for use by persons whose names are in [^c-587a29845d41637518ff36b08b4f9e05]... the register, or
+  > - (b) a name, title, addition or description implying that the person’s name is in [^c-587a29845d41637518ff36b08b4f9e05]... the Register,
   >
-  > P is guilty of an offence unless P proves that P did not know, and had no reasonable cause to believe, that the person’s name was not in [^key-587a29845d41637518ff36b08b4f9e05]... the register at the material time.
+  > P is guilty of an offence unless P proves that P did not know, and had no reasonable cause to believe, that the person’s name was not in [^c-587a29845d41637518ff36b08b4f9e05]... the register at the material time.
   >
-  > (4)[^key-4836361f6eee2f0d35d5177ae43a85fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > (4)[^c-4836361f6eee2f0d35d5177ae43a85fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   >
   > (5) If P issues any advertisement or invitation calculated to mislead with respect to the extent to which persons employed by P are registered under this Part, P is guilty of an offence unless P proves that P did not know, and had no reasonable cause to believe, that the advertisement or invitation was misleading in that respect at the time it was issued.
   >
@@ -125,13 +125,13 @@ These Regulations may be cited as the Driving and Motorcycle Riding Instructors 
 
   .
 
-**3.**[^key-041bfbd076e959600e141bf35f4dddc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-041bfbd076e959600e141bf35f4dddc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4d78ee69b8289efd5d252b1a525b46be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4d78ee69b8289efd5d252b1a525b46be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7fda08837d947b40a61d0cf57c67e709] On the day on which these Regulations come into force, the register previously compiled and maintained under section 125 of the Road Traffic Act 1998 becomes Part 1 of the register compiled and maintained under that section.
+**5.**[^c-7fda08837d947b40a61d0cf57c67e709] On the day on which these Regulations come into force, the register previously compiled and maintained under section 125 of the Road Traffic Act 1998 becomes Part 1 of the register compiled and maintained under that section.
 
-## 6. Amendment of the Motor Vehicles (Driving Licences) Regulations 1999[^key-dd89409eb1165dc369f9c7918a643714]
+## 6. Amendment of the Motor Vehicles (Driving Licences) Regulations 1999[^c-dd89409eb1165dc369f9c7918a643714]
 
 (1) The Motor Vehicles (Driving licences) Regulations 1999[^f00019] are amended as follows.
 
@@ -284,7 +284,7 @@ These Regulations may be cited as the Driving and Motorcycle Riding Instructors 
 - (a) in the references at the heading to the Schedule, for “Regulations 60, 65 and 68” substitute “Regulations 60, 60A, 65, 65A and 68”, and
 - (b) after Part 3, insert Parts 4 and 5 as set out in Schedule 1 to these Regulations.
 
-## 7. Amendment of the Motor Cars (Driving Instruction) Regulations 2005[^key-4cf4114d29a686d30d758266925adbc0]
+## 7. Amendment of the Motor Cars (Driving Instruction) Regulations 2005[^c-4cf4114d29a686d30d758266925adbc0]
 
 (1) The Motor Cars (Driving Instruction) Regulations 2005[^f00024] are amended as follows.
 
@@ -375,7 +375,7 @@ Department for Transport
 
 14th November 2016
 
-## SCHEDULE 1 — PARTS TO BE INSERTED AFTER PART 3 OF SCHEDULE 13 TO THE MOTOR VEHICLES (DRIVING LICENCES) REGULATIONS 1999[^key-3f6570b7db1a453aac22bc91ad86272c]
+## SCHEDULE 1 — PARTS TO BE INSERTED AFTER PART 3 OF SCHEDULE 13 TO THE MOTOR VEHICLES (DRIVING LICENCES) REGULATIONS 1999[^c-3f6570b7db1a453aac22bc91ad86272c]
 
 Regulation 6(11)(b)
 
@@ -387,7 +387,7 @@ Regulation 6(11)(b)
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2016/1089/images/uksi_20161089_en_002)
 
-## SCHEDULE 2 — SCHEDULE TO BE INSERTED AFTER SCHEDULE 5 TO THE MOTOR CARS (DRIVING INSTRUCTION) REGULATIONS 2005[^key-9c375941109a8af6039d714bec56eb62]
+## SCHEDULE 2 — SCHEDULE TO BE INSERTED AFTER SCHEDULE 5 TO THE MOTOR CARS (DRIVING INSTRUCTION) REGULATIONS 2005[^c-9c375941109a8af6039d714bec56eb62]
 
 Regulation 7(12)
 
@@ -397,7 +397,7 @@ Regulation 7(12)
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2016/1089/images/uksi_20161089_en_003)
 
-## SCHEDULE 3 — SCHEDULE TO BE INSERTED AFTER SCHEDULE 6 TO THE MOTOR CARS (DRIVING INSTRUCTION) REGULATIONS 2005[^key-13eafa18ce37e9b02c3ea067009f741f]
+## SCHEDULE 3 — SCHEDULE TO BE INSERTED AFTER SCHEDULE 6 TO THE MOTOR CARS (DRIVING INSTRUCTION) REGULATIONS 2005[^c-13eafa18ce37e9b02c3ea067009f741f]
 
 Regulation 7(14)
 
@@ -447,47 +447,47 @@ The Directives referred to above can be found at http://eur-lex.europa.eu.
 
 [^f00007]: Footnote: [S.I. 2002/248](https://www.legislation.gov.uk/uksi/2002/248).
 
-[^key-7ba58fa0533a56ee1d6897e98a9330b9]: Commencement: Reg. 1 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
+[^c-7ba58fa0533a56ee1d6897e98a9330b9]: Commencement: Reg. 1 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
 
-[^key-6f7afd2d99cc0a508b5764b2342710ff]: Commencement: Reg. 2 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
+[^c-6f7afd2d99cc0a508b5764b2342710ff]: Commencement: Reg. 2 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
 
 [^f00008]: Footnote: [2006 c.49](https://www.legislation.gov.uk/ukpga/2006/49).
 
-[^key-0788ca8565282f6c8c32fde70613fccb]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/2) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/a)
+[^c-0788ca8565282f6c8c32fde70613fccb]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/2) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/a)
 
-[^key-c9a6f666d111ed76056deefe53aa37fd]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/b)
+[^c-c9a6f666d111ed76056deefe53aa37fd]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/b)
 
 [^f00010]: Footnote: Section 125 was amended by the Deregulation Act [2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20), Schedule 2, Part 2, paragraphs 16 and 17, and by [S.I. 1999/357](https://www.legislation.gov.uk/uksi/1999/357) and [S.I. 2015/583](https://www.legislation.gov.uk/uksi/2015/583).
 
-[^key-298cb27876084d5667444aa85b8cb9ac]: Textual amendment: [Reg. 2(4)(a)-(e)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/4/a) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(c)(i)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/c/i)
+[^c-298cb27876084d5667444aa85b8cb9ac]: Textual amendment: [Reg. 2(4)(a)-(e)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/4/a) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(c)(i)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/c/i)
 
-[^key-c370e95a9ee554e26508a45755f3bad4]: Textual amendment: [Reg. 2(4)(fa)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/4/fa) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/a)
+[^c-c370e95a9ee554e26508a45755f3bad4]: Textual amendment: [Reg. 2(4)(fa)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/4/fa) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/a)
 
-[^key-18eb66dca626ac895610f68003dad660]: Textual amendment: [Reg. 2(4)(g)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/4/g) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/c/ii)
+[^c-18eb66dca626ac895610f68003dad660]: Textual amendment: [Reg. 2(4)(g)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/4/g) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/c/ii)
 
-[^key-0cc835dad6cb180a6f4408e0ca868a59]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/5) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(d)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/d)
+[^c-0cc835dad6cb180a6f4408e0ca868a59]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/5) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(d)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/d)
 
-[^key-79f0ff6e82ba3a32036eebc7929a70d8]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/6) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(e)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/e)
+[^c-79f0ff6e82ba3a32036eebc7929a70d8]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/6) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(e)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/e)
 
-[^key-c58ea19ef8e678359d1a5dc65425ab9b]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/7) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(f)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/f)
+[^c-c58ea19ef8e678359d1a5dc65425ab9b]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/7) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(f)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/f)
 
-[^key-c0901fb29bb63fa2716dc84cc94f8def]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/8) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/b)
+[^c-c0901fb29bb63fa2716dc84cc94f8def]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/8) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/b)
 
-[^key-bb3d605a40df6a1179fc0ef38af1afa1]: Textual amendment: [Reg. 2(9)(a)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/a)[(b)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/b) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(g)(i)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/g/i)
+[^c-bb3d605a40df6a1179fc0ef38af1afa1]: Textual amendment: [Reg. 2(9)(a)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/a)[(b)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/b) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(g)(i)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/g/i)
 
-[^key-cd0e348609fe409bf49df5bc5248e015]: Textual amendment: Words in [reg. 2(9)(c)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/c) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/g/ii/aa)
+[^c-cd0e348609fe409bf49df5bc5248e015]: Textual amendment: Words in [reg. 2(9)(c)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/c) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/g/ii/aa)
 
-[^key-587a29845d41637518ff36b08b4f9e05]: Textual amendment: Words in [reg. 2(9)(c)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/c) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/g/ii/bb)
+[^c-587a29845d41637518ff36b08b4f9e05]: Textual amendment: Words in [reg. 2(9)(c)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/c) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/g/ii/bb)
 
-[^key-4836361f6eee2f0d35d5177ae43a85fa]: Textual amendment: Words in [reg. 2(9)(c)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/c) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(g)(iii)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/g/iii)
+[^c-4836361f6eee2f0d35d5177ae43a85fa]: Textual amendment: Words in [reg. 2(9)(c)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/9/c) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(2)(g)(iii)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/2/g/iii)
 
-[^key-041bfbd076e959600e141bf35f4dddc6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/1089/regulation/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/3)
+[^c-041bfbd076e959600e141bf35f4dddc6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/1089/regulation/3) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/3)
 
-[^key-4d78ee69b8289efd5d252b1a525b46be]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/1089/regulation/4) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/3)
+[^c-4d78ee69b8289efd5d252b1a525b46be]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/1089/regulation/4) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/7/3)
 
-[^key-7fda08837d947b40a61d0cf57c67e709]: Commencement: Reg. 5 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
+[^c-7fda08837d947b40a61d0cf57c67e709]: Commencement: Reg. 5 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
 
-[^key-dd89409eb1165dc369f9c7918a643714]: Commencement: Reg. 6 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
+[^c-dd89409eb1165dc369f9c7918a643714]: Commencement: Reg. 6 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
 
 [^f00019]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864); relevant amending instruments are [S.I. 2000/2766](https://www.legislation.gov.uk/uksi/2000/2766), [S.I. 2001/53](https://www.legislation.gov.uk/uksi/2001/53), [S.I. 2003/222](https://www.legislation.gov.uk/uksi/2003/222) and [S.I. 2012/977](https://www.legislation.gov.uk/uksi/2012/977).
 
@@ -499,7 +499,7 @@ The Directives referred to above can be found at http://eur-lex.europa.eu.
 
 [^f00023]: Footnote: OJ No L 255, 30.9.2005, p. 22. The Directive was amended by [Directive 2013/55/EU](https://www.legislation.gov.uk/european/directive/2013/0055); there are other amending measures but none is relevant.
 
-[^key-4cf4114d29a686d30d758266925adbc0]: Commencement: Reg. 7 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
+[^c-4cf4114d29a686d30d758266925adbc0]: Commencement: Reg. 7 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
 
 [^f00024]: Footnote: [S.I. 2005/1902](https://www.legislation.gov.uk/uksi/2005/1902); relevant amending instruments are [S.I. 2005/2716](https://www.legislation.gov.uk/uksi/2005/2716), [S.I. 2008/419](https://www.legislation.gov.uk/uksi/2008/419), [S.I. 2014/480](https://www.legislation.gov.uk/uksi/2014/480), [S.I. 2014/1816](https://www.legislation.gov.uk/uksi/2014/1816) and [S.I. 2015/952](https://www.legislation.gov.uk/uksi/2015/952).
 
@@ -507,8 +507,8 @@ The Directives referred to above can be found at http://eur-lex.europa.eu.
 
 [^f00026]: Footnote: OJ No L 255, 30.9.2005, p. 22. The Directive was amended by [Directive 2013/55/EU](https://www.legislation.gov.uk/european/directive/2013/0055); there are other amending measures but none is relevant.
 
-[^key-3f6570b7db1a453aac22bc91ad86272c]: Commencement: Sch. 1 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
+[^c-3f6570b7db1a453aac22bc91ad86272c]: Commencement: Sch. 1 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
 
-[^key-9c375941109a8af6039d714bec56eb62]: Commencement: Sch. 2 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
+[^c-9c375941109a8af6039d714bec56eb62]: Commencement: Sch. 2 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
 
-[^key-13eafa18ce37e9b02c3ea067009f741f]: Commencement: Sch. 3 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)
+[^c-13eafa18ce37e9b02c3ea067009f741f]: Commencement: Sch. 3 in force at 9.12.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1089/regulation/1)

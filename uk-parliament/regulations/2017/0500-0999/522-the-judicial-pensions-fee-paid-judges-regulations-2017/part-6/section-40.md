@@ -60,10 +60,10 @@ summary: ''
   - (i) before the time the marriage or civil partnership was entered into, or
   - (ii) after the time the marriage or civil partnership was entered into in a case where the parental order proceedings were pending at the time of the marriage or civil partnership.
 
-(9)[^key-9b614b278f185d00f084e19a0e2c43e3] In this regulation, “parental order” means an order made under section 54 or 54A of the 2008 Act.
+(9)[^c-9b614b278f185d00f084e19a0e2c43e3] In this regulation, “parental order” means an order made under section 54 or 54A of the 2008 Act.
 
 ## Annotations
 
 [^c23060481]: Textual amendment: [2008 c.22](https://www.legislation.gov.uk/ukpga/2008/22).
 
-[^key-9b614b278f185d00f084e19a0e2c43e3]: Textual amendment: [Reg. 40(9)](https://www.legislation.gov.uk/uksi/2017/522/regulation/40/9) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/15/2)
+[^c-9b614b278f185d00f084e19a0e2c43e3]: Textual amendment: [Reg. 40(9)](https://www.legislation.gov.uk/uksi/2017/522/regulation/40/9) substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/15/2)

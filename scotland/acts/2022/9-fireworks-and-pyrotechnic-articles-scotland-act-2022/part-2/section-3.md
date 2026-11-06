@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Application of Part[^key-6dec3a64d1851f4eae8be52e2cae0b1b]
+## 3. Application of Part[^c-6dec3a64d1851f4eae8be52e2cae0b1b]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dec3a64d1851f4eae8be52e2cae0b1b]: Commencement: S. 3 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-6dec3a64d1851f4eae8be52e2cae0b1b]: Commencement: S. 3 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

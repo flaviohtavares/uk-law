@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**319.**[^key-d9360253950ab971aaca33e20792256f] In section 197 (general interpretation and index of defined expressions)—
+**319.**[^c-d9360253950ab971aaca33e20792256f] In section 197 (general interpretation and index of defined expressions)—
 
 - (a) in subsection (1) for the definition of “local authority foster parent” substitute—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9360253950ab971aaca33e20792256f]: Commencement: Reg. 319 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d9360253950ab971aaca33e20792256f]: Commencement: Reg. 319 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

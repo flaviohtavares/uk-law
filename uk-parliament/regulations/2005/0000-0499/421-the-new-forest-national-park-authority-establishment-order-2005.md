@@ -164,7 +164,7 @@ In relation to the New Forest National Park, 1st April 2006 is the time specifie
 
 ### 16. Application of enactments and instruments
 
-The enactments and instruments mentioned in Schedule 3 shall apply to *(affected by repeal, see note)*[^key-52e19308136679fd5678daf413aa69d4] the Authority *(affected by repeal, see note)*[^key-52e19308136679fd5678daf413aa69d4] with the modifications there set out. *(affected by repeal, see note)*[^key-52e19308136679fd5678daf413aa69d4]
+The enactments and instruments mentioned in Schedule 3 shall apply to *(affected by repeal, see note)*[^c-52e19308136679fd5678daf413aa69d4] the Authority *(affected by repeal, see note)*[^c-52e19308136679fd5678daf413aa69d4] with the modifications there set out. *(affected by repeal, see note)*[^c-52e19308136679fd5678daf413aa69d4]
 
 ### 17. Transitional and supplemental provision
 
@@ -204,7 +204,7 @@ Article 10
 
 (6) So far as is consistent with the preceding provisions of this paragraph, the following provisions of this Schedule shall apply to the calling and conduct of meetings under this paragraph.
 
-### 2. Annual meetings and other meetings of the Authority[^key-086b951d32f122a2d4a2ea00ab32f9b7]
+### 2. Annual meetings and other meetings of the Authority[^c-086b951d32f122a2d4a2ea00ab32f9b7]
 
 (1) In the year commencing 1st April 2006 and in each subsequent year the Authority shall hold an annual meeting and those meetings shall be held at such hour as the Authority may fix or, if no hour is fixed, at twelve noon.
 
@@ -230,7 +230,7 @@ Article 10
 
 (4) Where necessary, the meeting at which the casual vacancy is to be filled shall be convened by the National Park officer.
 
-### 5. Calling of meetings of the Authority[^key-c1695f409bbbf9fdb961f6e3a89b70ca]
+### 5. Calling of meetings of the Authority[^c-c1695f409bbbf9fdb961f6e3a89b70ca]
 
 (1) Meetings of the Authority shall be held at such place, whether or not in the New Forest National Park, as the Authority may direct.
 
@@ -368,7 +368,7 @@ The Operations in Areas of Archaeological Importance (Forms of Notices etc.) Reg
 
 #### 9. Disposal of abandoned vehicles
 
-The Removal and Disposal of Vehicles Regulations 1986[^f00024] shall apply as if the Authority were a council of a county for the purposes of paragraph (aa) of regulation 12(1)(e)[^key-e363491aa5ddabe4ae72d75d471a79f6] and as if the New Forest National Park were that council’s area.
+The Removal and Disposal of Vehicles Regulations 1986[^f00024] shall apply as if the Authority were a council of a county for the purposes of paragraph (aa) of regulation 12(1)(e)[^c-e363491aa5ddabe4ae72d75d471a79f6] and as if the New Forest National Park were that council’s area.
 
 #### 10. Listed building purchase notices
 
@@ -377,7 +377,7 @@ The Planning (Listed Buildings and Conservation Areas) Regulations 1990[^f00025]
 - (a) the reference in regulation 9(1) (claims for compensation and listed building purchase notices) to the council of a district included a reference to the Authority; and
 - (b) the purchase notice referred to in paragraph (2) of the form set out in Part II of Schedule 1 (refusal of consent etc.) were, in the case where the land is situated in the New Forest National Park, to be served on the Authority.
 
-#### 11. Conservation (natural habitats)[^key-f783bd5482a4816d9b75a09b051d45c2]
+#### 11. Conservation (natural habitats)[^c-f783bd5482a4816d9b75a09b051d45c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -523,11 +523,11 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00007]: Footnote: Section 230 of the 1972 Act applies to the Authority by virtue of paragraph 17(2)(c) of Schedule 7 to the 1995 Act.
 
-[^key-52e19308136679fd5678daf413aa69d4]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/uksi/2005/421/article/16) revoked in part (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-52e19308136679fd5678daf413aa69d4]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/uksi/2005/421/article/16) revoked in part (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-086b951d32f122a2d4a2ea00ab32f9b7]: Modification: Sch. 1 para. 2 disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/11/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-086b951d32f122a2d4a2ea00ab32f9b7]: Modification: Sch. 1 para. 2 disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/11/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-c1695f409bbbf9fdb961f6e3a89b70ca]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/421/schedule/1/paragraph/5) modified (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/11/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-c1695f409bbbf9fdb961f6e3a89b70ca]: Modification: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/421/schedule/1/paragraph/5) modified (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/11/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
 [^f00008]: Footnote: Inserted by section 1 of the Local Government (Access to Information) Act [1985 (c. 43)](https://www.legislation.gov.uk/ukpga/1985/43).
 
@@ -563,11 +563,11 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00024]: Footnote: S.I. [1986/183](https://www.legislation.gov.uk/uksi/1986/183). Paragraph 9(1) of Schedule 9 to the 1995 Act provides that references to a local authority in the Refuse Disposal (Amenity) Act [1978 (c. 3)](https://www.legislation.gov.uk/ukpga/1978/3) shall have effect in relation to land in a National Park for which a National Park authority is the local planning authority as if they included references to that authority and as if the relevant Park were the authority’s area.
 
-[^key-e363491aa5ddabe4ae72d75d471a79f6]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/9) substituted (8.5.2007) by [The National Park Authorities (England) Order 2006 (S.I. 2006/3165)](https://www.legislation.gov.uk/uksi/2006/3165), [arts. 1](https://www.legislation.gov.uk/uksi/2006/3165/article/1), [3](https://www.legislation.gov.uk/uksi/2006/3165/article/3)
+[^c-e363491aa5ddabe4ae72d75d471a79f6]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/9) substituted (8.5.2007) by [The National Park Authorities (England) Order 2006 (S.I. 2006/3165)](https://www.legislation.gov.uk/uksi/2006/3165), [arts. 1](https://www.legislation.gov.uk/uksi/2006/3165/article/1), [3](https://www.legislation.gov.uk/uksi/2006/3165/article/3)
 
 [^f00025]: Footnote: S.I. [1990/1519](https://www.legislation.gov.uk/uksi/1990/1519). Paragraph 33 of Schedule 10 to the 1995 Act makes a National Park authority a body on whom a listed building purchase notice may be served where it is the local planning authority for the area in which the building and land in question are situated.
 
-[^key-f783bd5482a4816d9b75a09b051d45c2]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/11) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-f783bd5482a4816d9b75a09b051d45c2]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/11) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^f00027]: Footnote: S.I. [1992/1492](https://www.legislation.gov.uk/uksi/1992/1492).
 

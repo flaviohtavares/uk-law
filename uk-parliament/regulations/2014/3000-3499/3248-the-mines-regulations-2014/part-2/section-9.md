@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Health and safety document[^key-76b81ec88191babb522526af26700399]
+## 9. Health and safety document[^c-76b81ec88191babb522526af26700399]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76b81ec88191babb522526af26700399]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/3248/regulation/9) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-76b81ec88191babb522526af26700399]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/3248/regulation/9) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00018]: Footnote: Regulation 3 was amended by [S.I 2003/2457](https://www.legislation.gov.uk/uksi/2003/2457) and [2005/1541](https://www.legislation.gov.uk/uksi/2005/1541) and by [SSI 2006/457](https://www.legislation.gov.uk/ssi/2006/457).

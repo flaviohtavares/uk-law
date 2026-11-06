@@ -33,169 +33,169 @@ of 22 February 2006
 
 implementing Regulation (EC) No 1177/2003 of the European Parliament and of the Council concerning Community statistics on income and living conditions (EU-SILC) as regards the list of target secondary variables relating to housing conditions (revoked)
 
-[^key-c0ab573246c28eb9f48defc130596672]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0ab573246c28eb9f48defc130596672]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c0ab573246c28eb9f48defc130596672] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c0ab573246c28eb9f48defc130596672] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c0ab573246c28eb9f48defc130596672] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c0ab573246c28eb9f48defc130596672] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0ab573246c28eb9f48defc130596672]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c0ab573246c28eb9f48defc130596672]
+## ANNEX[^c-c0ab573246c28eb9f48defc130596672]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]1.
+[^c-c0ab573246c28eb9f48defc130596672]1.
 
 Units
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]2.
+[^c-c0ab573246c28eb9f48defc130596672]2.
 
 Modes of data collection
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]3.
+[^c-c0ab573246c28eb9f48defc130596672]3.
 
 Reference periods
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]4.
+[^c-c0ab573246c28eb9f48defc130596672]4.
 
 Definitions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]1.
+[^c-c0ab573246c28eb9f48defc130596672]1.
 
 Shortage of space in dwelling
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](a)
+[^c-c0ab573246c28eb9f48defc130596672](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]2.
+[^c-c0ab573246c28eb9f48defc130596672]2.
 
 Dwelling installations and facilities
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](a)
+[^c-c0ab573246c28eb9f48defc130596672](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](b)
+[^c-c0ab573246c28eb9f48defc130596672](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](c)
+[^c-c0ab573246c28eb9f48defc130596672](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](d)
+[^c-c0ab573246c28eb9f48defc130596672](d)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](e)
+[^c-c0ab573246c28eb9f48defc130596672](e)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](f)
+[^c-c0ab573246c28eb9f48defc130596672](f)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](g)
+[^c-c0ab573246c28eb9f48defc130596672](g)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]3.
+[^c-c0ab573246c28eb9f48defc130596672]3.
 
 Accessibility of basic needs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](a)
+[^c-c0ab573246c28eb9f48defc130596672](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](b)
+[^c-c0ab573246c28eb9f48defc130596672](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](c)
+[^c-c0ab573246c28eb9f48defc130596672](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](d)
+[^c-c0ab573246c28eb9f48defc130596672](d)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](e)
+[^c-c0ab573246c28eb9f48defc130596672](e)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](f)
+[^c-c0ab573246c28eb9f48defc130596672](f)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](g)
+[^c-c0ab573246c28eb9f48defc130596672](g)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]4.
+[^c-c0ab573246c28eb9f48defc130596672]4.
 
 Overall satisfaction with dwelling
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](a)
+[^c-c0ab573246c28eb9f48defc130596672](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]5.
+[^c-c0ab573246c28eb9f48defc130596672]5.
 
 Change of dwelling
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](a)
+[^c-c0ab573246c28eb9f48defc130596672](a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](b)
+[^c-c0ab573246c28eb9f48defc130596672](b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](c)
+[^c-c0ab573246c28eb9f48defc130596672](c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](d)
+[^c-c0ab573246c28eb9f48defc130596672](d)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](e)
+[^c-c0ab573246c28eb9f48defc130596672](e)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](f)
+[^c-c0ab573246c28eb9f48defc130596672](f)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](g)
+[^c-c0ab573246c28eb9f48defc130596672](g)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672](h)
+[^c-c0ab573246c28eb9f48defc130596672](h)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ab573246c28eb9f48defc130596672]5.
+[^c-c0ab573246c28eb9f48defc130596672]5.
 
 Transmission of data to Eurostat
 
@@ -203,4 +203,4 @@ Transmission of data to Eurostat
 
 ## Annotations
 
-[^key-c0ab573246c28eb9f48defc130596672]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0ab573246c28eb9f48defc130596672]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

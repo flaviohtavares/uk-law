@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17ZC. Consideration of young carers' needs assessments[^key-fe3054c1f690a71d82cbb478d58fc76e]
+## 17ZC. Consideration of young carers' needs assessments[^c-fe3054c1f690a71d82cbb478d58fc76e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ A local authority that carry out a young carer's needs assessment must consider 
 
 ## Annotations
 
-[^key-fe3054c1f690a71d82cbb478d58fc76e]: Textual amendment: Ss. 17ZA-17ZC inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 96(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/96/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/375/article/2/c)
+[^c-fe3054c1f690a71d82cbb478d58fc76e]: Textual amendment: Ss. 17ZA-17ZC inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 96(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/96/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/375/article/2/c)

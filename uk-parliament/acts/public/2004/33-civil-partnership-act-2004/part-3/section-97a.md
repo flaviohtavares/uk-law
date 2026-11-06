@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Second civil partnership registration[^key-47cfd5626ab5a8f86d18b0dbdfc8a053]
+## 97A. Second civil partnership registration[^c-47cfd5626ab5a8f86d18b0dbdfc8a053]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47cfd5626ab5a8f86d18b0dbdfc8a053]: Textual amendment: [S. 97A](https://www.legislation.gov.uk/ukpga/2004/33/section/97A) inserted (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [ss. 10(2)](https://www.legislation.gov.uk/asp/2020/15/section/10/2), [16](https://www.legislation.gov.uk/asp/2020/15/section/16); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-47cfd5626ab5a8f86d18b0dbdfc8a053]: Textual amendment: [S. 97A](https://www.legislation.gov.uk/ukpga/2004/33/section/97A) inserted (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [ss. 10(2)](https://www.legislation.gov.uk/asp/2020/15/section/10/2), [16](https://www.legislation.gov.uk/asp/2020/15/section/16); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))

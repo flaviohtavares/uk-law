@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Control of Substances Hazardous to Health (Amendment) Regulations 1998 (revoked)[^key-26719205ecb4705ebaec00a96c7842a6]
+The Control of Substances Hazardous to Health (Amendment) Regulations 1998 (revoked)[^c-26719205ecb4705ebaec00a96c7842a6]
 
 Made
 
@@ -44,27 +44,27 @@ Coming into force
 
 30 June 1998
 
-[^key-26719205ecb4705ebaec00a96c7842a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26719205ecb4705ebaec00a96c7842a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-26719205ecb4705ebaec00a96c7842a6]
+## 1. Citation and commencement[^c-26719205ecb4705ebaec00a96c7842a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Control of Substances Hazardous to Health Regulations 1994[^key-26719205ecb4705ebaec00a96c7842a6]
+## 2. Amendment of the Control of Substances Hazardous to Health Regulations 1994[^c-26719205ecb4705ebaec00a96c7842a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26719205ecb4705ebaec00a96c7842a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26719205ecb4705ebaec00a96c7842a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-26719205ecb4705ebaec00a96c7842a6]
+## SCHEDULE[^c-26719205ecb4705ebaec00a96c7842a6]
 
 Regulation 2(3)
 
-> **SCHEDULE 2 — PROHIBITION OF CERTAIN SUBSTANCES HAZARDOUS TO HEALTH FOR CERTAIN PURPOSES[^key-26719205ecb4705ebaec00a96c7842a6]**
+> **SCHEDULE 2 — PROHIBITION OF CERTAIN SUBSTANCES HAZARDOUS TO HEALTH FOR CERTAIN PURPOSES[^c-26719205ecb4705ebaec00a96c7842a6]**
 >
 > Regulation 4(1)
 >
@@ -72,8 +72,8 @@ Regulation 2(3)
 
 **May not be in force at this date. Check the source.**
 
-[^key-26719205ecb4705ebaec00a96c7842a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26719205ecb4705ebaec00a96c7842a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26719205ecb4705ebaec00a96c7842a6]: Textual amendment: Regulations revoked (25.3.1999) by [The Control of Substances Hazardous to Health Regulations 1999 (S.I. 1999/437)](https://www.legislation.gov.uk/uksi/1999/437), [regs. 1](https://www.legislation.gov.uk/uksi/1999/437/regulation/1), [18(1)(d)](https://www.legislation.gov.uk/uksi/1999/437/regulation/18/1/d) (with [reg. 18(4)](https://www.legislation.gov.uk/uksi/1999/437/regulation/18/4))
+[^c-26719205ecb4705ebaec00a96c7842a6]: Textual amendment: Regulations revoked (25.3.1999) by [The Control of Substances Hazardous to Health Regulations 1999 (S.I. 1999/437)](https://www.legislation.gov.uk/uksi/1999/437), [regs. 1](https://www.legislation.gov.uk/uksi/1999/437/regulation/1), [18(1)(d)](https://www.legislation.gov.uk/uksi/1999/437/regulation/18/1/d) (with [reg. 18(4)](https://www.legislation.gov.uk/uksi/1999/437/regulation/18/4))

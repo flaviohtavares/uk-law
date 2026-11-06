@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G4. Coroners[^key-6438e74ad5f226f316c1a8bd5b139d41]
+## G4. Coroners[^c-6438e74ad5f226f316c1a8bd5b139d41]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In their application to a coroner who is by virtue of regulation B1(14) a pensio
 
 ## Annotations
 
-[^key-6438e74ad5f226f316c1a8bd5b139d41]: Commencement: [Reg. G4](https://www.legislation.gov.uk/uksi/1986/24/regulation/G4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-6438e74ad5f226f316c1a8bd5b139d41]: Commencement: [Reg. G4](https://www.legislation.gov.uk/uksi/1986/24/regulation/G4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

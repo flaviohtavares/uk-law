@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Duty to provide information to Scottish Ministers[^key-ffed957e1c5548abeb4087fc545ea24c]
+## 62. Duty to provide information to Scottish Ministers[^c-ffed957e1c5548abeb4087fc545ea24c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffed957e1c5548abeb4087fc545ea24c]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/8/section/62) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-ffed957e1c5548abeb4087fc545ea24c]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/8/section/62) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

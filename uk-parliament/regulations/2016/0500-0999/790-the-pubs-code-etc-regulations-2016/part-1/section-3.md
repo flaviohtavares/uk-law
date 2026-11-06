@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Significant increase in price: beer[^key-8e85e5a8a22a644abca496016cf6434f]
+## 3. Significant increase in price: beer[^c-8e85e5a8a22a644abca496016cf6434f]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ where—
 - (a) “**beer product**” means a product which is beer and which is supplied under a product tie[^f00008];
 - (b) “**comparison period beer**” means all beer products invoiced to the tied pub tenant in the comparison period, in the quantities so invoiced, but excluding any beer product for which no invoice was issued to the tied pub tenant in the current period;
 - (c) “**current period**” means the period of 4 weeks ending with the day on which the relevant invoice is issued;
-- (d) “**the comparison period**” means the period of 4 weeks beginning[^key-172ed80a18db127f102b96b417631e9c] with the day 12 months before the day on which the relevant invoice is issued;
+- (d) “**the comparison period**” means the period of 4 weeks beginning[^c-172ed80a18db127f102b96b417631e9c] with the day 12 months before the day on which the relevant invoice is issued;
 - (e) “**current period price**”, in relation to a beer product, means the price of that product on the last invoice for that product issued during the current period;
 - (f) “**invoice for a beer product**” includes an invoice which covers (in addition to beer products) products other than beer products, or services; and references to a beer product being invoiced are to be read accordingly;
 - (g) “**the relevant annual percentage change in the consumer price index**” means the annual percentage change in the consumer price index most recently published before the day on which the relevant invoice is issued, in respect of the most recent month covered by that publication.
@@ -60,8 +60,8 @@ where—
 
 ## Annotations
 
-[^key-8e85e5a8a22a644abca496016cf6434f]: Commencement: Reg. 3 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-8e85e5a8a22a644abca496016cf6434f]: Commencement: Reg. 3 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00008]: Footnote: Section 72(1) of SBEEA 2015 defines “product tie”.
 
-[^key-172ed80a18db127f102b96b417631e9c]: Textual amendment: Word in [reg. 3(4)(d)](https://www.legislation.gov.uk/uksi/2016/790/regulation/3/4/d) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-172ed80a18db127f102b96b417631e9c]: Textual amendment: Word in [reg. 3(4)(d)](https://www.legislation.gov.uk/uksi/2016/790/regulation/3/4/d) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

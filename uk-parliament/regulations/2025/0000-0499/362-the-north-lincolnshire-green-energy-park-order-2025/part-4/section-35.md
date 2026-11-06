@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Apparatus and rights of statutory undertakers in stopped up streets[^key-400f461a9b9721208f5dc67bf79793f5]
+## 35. Apparatus and rights of statutory undertakers in stopped up streets[^c-400f461a9b9721208f5dc67bf79793f5]
 
 *Extent: E+W+S*
 
@@ -37,9 +37,9 @@ summary: ''
 - (a) apparatus of a better type, of greater capacity or of greater dimensions is placed in substitution for existing apparatus; or
 - (b) apparatus (whether existing apparatus or apparatus substituted for existing apparatus) is placed at a depth greater than the depth at which the existing apparatus was,
 
-and the placing of apparatus of that type or capacity or of those dimensions or the placing of apparatus at that depth, as the case may be, is not agreed by the undertaker, or, in default of agreement, is not determined by arbitration to be necessary, then, if it involves cost in the execution of the relocation works exceeding that which would have been involved if the apparatus placed had been of the existing type, capacity or dimensions, or at the existing depth, as the case may be, the amount which, apart from this paragraph, would be payable to the statutory utility by virtue of paragraph (3)[^key-9b1f0acaea7be1bec76b84002eba1709] is to be reduced by the amount of that excess.
+and the placing of apparatus of that type or capacity or of those dimensions or the placing of apparatus at that depth, as the case may be, is not agreed by the undertaker, or, in default of agreement, is not determined by arbitration to be necessary, then, if it involves cost in the execution of the relocation works exceeding that which would have been involved if the apparatus placed had been of the existing type, capacity or dimensions, or at the existing depth, as the case may be, the amount which, apart from this paragraph, would be payable to the statutory utility by virtue of paragraph (3)[^c-9b1f0acaea7be1bec76b84002eba1709] is to be reduced by the amount of that excess.
 
-(5) For the purposes of paragraph (4)[^key-d320c94de8fc1fde2b68fb6b6470bac1] —
+(5) For the purposes of paragraph (4)[^c-d320c94de8fc1fde2b68fb6b6470bac1] —
 
 - (a) an extension of apparatus to a length greater than the length of existing apparatus is not to be treated as a placing of apparatus of greater dimensions than those of the existing apparatus; and
 - (b) where the provision of a joint in a cable is agreed, or is determined to be necessary, the consequential provision of a jointing chamber or of a manhole is to be treated as if it also had been agreed or had been so determined.
@@ -58,8 +58,8 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-400f461a9b9721208f5dc67bf79793f5]: Commencement: Art. 35 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-400f461a9b9721208f5dc67bf79793f5]: Commencement: Art. 35 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-9b1f0acaea7be1bec76b84002eba1709]: Textual amendment: Words in [art. 35(4)](https://www.legislation.gov.uk/uksi/2025/362/article/35/4) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-9b1f0acaea7be1bec76b84002eba1709]: Textual amendment: Words in [art. 35(4)](https://www.legislation.gov.uk/uksi/2025/362/article/35/4) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
 
-[^key-d320c94de8fc1fde2b68fb6b6470bac1]: Textual amendment: Words in [art. 35(5)](https://www.legislation.gov.uk/uksi/2025/362/article/35/5) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-d320c94de8fc1fde2b68fb6b6470bac1]: Textual amendment: Words in [art. 35(5)](https://www.legislation.gov.uk/uksi/2025/362/article/35/5) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

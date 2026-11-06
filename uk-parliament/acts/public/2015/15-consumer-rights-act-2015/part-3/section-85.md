@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Fees to which the duty applies[^c22520531][^key-a98addf56da35e8c0d74942159820a1d][^key-f134bee157b90fc4e21ce174906c8e40]
+## 85. Fees to which the duty applies[^c22520531][^c-a98addf56da35e8c0d74942159820a1d][^c-f134bee157b90fc4e21ce174906c8e40]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^c22520531]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2015/15/section/85) in force for specified purposes at Royal Assent, see [s. 100(2)(b)(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/2/b)
 
-[^key-a98addf56da35e8c0d74942159820a1d]: Commencement: S. 85 in force at 27.5.2015 for E. in so far as not already in force by [S.I. 2015/965](https://www.legislation.gov.uk/uksi/2015/965), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/965/article/2/a)
+[^c-a98addf56da35e8c0d74942159820a1d]: Commencement: S. 85 in force at 27.5.2015 for E. in so far as not already in force by [S.I. 2015/965](https://www.legislation.gov.uk/uksi/2015/965), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/965/article/2/a)
 
-[^key-f134bee157b90fc4e21ce174906c8e40]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2015/15/section/85) in force at 23.11.2015 for W. in so far as not already in force by [S.I. 2015/1904](https://www.legislation.gov.uk/wsi/2015/1904), [art. 2](https://www.legislation.gov.uk/wsi/2015/1904/article/2)
+[^c-f134bee157b90fc4e21ce174906c8e40]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2015/15/section/85) in force at 23.11.2015 for W. in so far as not already in force by [S.I. 2015/1904](https://www.legislation.gov.uk/wsi/2015/1904), [art. 2](https://www.legislation.gov.uk/wsi/2015/1904/article/2)

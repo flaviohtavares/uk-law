@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Smoke-free premises: recasting of power to exempt performers[^key-e294ceb035ea2de3647cc70fab0cdc7e]
+## 143. Smoke-free premises: recasting of power to exempt performers[^c-e294ceb035ea2de3647cc70fab0cdc7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e294ceb035ea2de3647cc70fab0cdc7e]: Commencement: S. 143 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)
+[^c-e294ceb035ea2de3647cc70fab0cdc7e]: Commencement: S. 143 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)

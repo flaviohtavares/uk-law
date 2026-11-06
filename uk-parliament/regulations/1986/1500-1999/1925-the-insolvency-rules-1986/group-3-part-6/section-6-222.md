@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.222. Costs under this Chapter[^key-2a7fba3f7f2db5fc7268ee78a1658e2f]
+## 6.222. Costs under this Chapter[^c-2a7fba3f7f2db5fc7268ee78a1658e2f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In no case do any costs or expenses arising under this Chapter fall on the offic
 
 ## Annotations
 
-[^key-2a7fba3f7f2db5fc7268ee78a1658e2f]: Commencement: [Rule 6.222](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.222) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2a7fba3f7f2db5fc7268ee78a1658e2f]: Commencement: [Rule 6.222](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.222) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

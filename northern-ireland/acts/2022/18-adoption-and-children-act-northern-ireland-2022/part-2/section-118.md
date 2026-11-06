@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Duration of residence orders[^key-247e22b09f0fc9d009665f8dd1083b97][^key-a658aed15f894dbf87cba9fc1bf21445]
+## 118. Duration of residence orders[^c-247e22b09f0fc9d009665f8dd1083b97][^c-a658aed15f894dbf87cba9fc1bf21445]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-247e22b09f0fc9d009665f8dd1083b97]: Commencement: S. 118 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-247e22b09f0fc9d009665f8dd1083b97]: Commencement: S. 118 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-a658aed15f894dbf87cba9fc1bf21445]: Commencement: [S. 118](https://www.legislation.gov.uk/nia/2022/18/section/118) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/b)
+[^c-a658aed15f894dbf87cba9fc1bf21445]: Commencement: [S. 118](https://www.legislation.gov.uk/nia/2022/18/section/118) in operation at 1.4.2024 by [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/30/article/2/1/b)

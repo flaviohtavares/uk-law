@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendment of the Health Professions (Screeners) Rules Order of Council 2003[^key-2d2ddcd4795aa6f5cdc26749f58e951a]
+## 5. Amendment of the Health Professions (Screeners) Rules Order of Council 2003[^c-2d2ddcd4795aa6f5cdc26749f58e951a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d2ddcd4795aa6f5cdc26749f58e951a]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1479/article/5) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
+[^c-2d2ddcd4795aa6f5cdc26749f58e951a]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1479/article/5) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
 
 [^f00006]: Footnote: [S.I. 2003/1573](https://www.legislation.gov.uk/uksi/2003/1573).

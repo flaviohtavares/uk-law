@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9A — Devolved Welsh authorities[^key-934c28a2f6e70c25555c01ca00042eff]
+## SCHEDULE 9A — Devolved Welsh authorities[^c-934c28a2f6e70c25555c01ca00042eff]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ Section 157A
 - The Agricultural Land Tribunal for Wales or Tribiwnlys Tir Amaethyddol Cymru.
 - The All-Wales Medicines Strategy Group or Gr?p Strategaeth Meddyginiaethau Cymru Gyfan.
 - The Arts Council for Wales or Cyngor Celfyddydau Cymru.
-- The Senedd[^key-60edd79c70d763519861630d1afb7962] Commission or Comisiwn y Cynulliad.
+- The Senedd[^c-60edd79c70d763519861630d1afb7962] Commission or Comisiwn y Cynulliad.
 - The Auditor General for Wales or Archwilydd Cyffredinol Cymru.
 - The Board of Community Health Councils in Wales or Bwrdd Cynghorau Iechyd Cymuned Cymru.
 - The Children's Commissioner for Wales or Comisiynydd Plant Cymru.
@@ -40,8 +40,8 @@ Section 157A
 - A Community Health Council in Wales.
 - The Counsel General or Cwnsler Cyffredinol.
 - A county council, county borough council or community council in Wales.
-- The Democracy and Boundary Commission Cymru or Comisiwn Democratiaeth a Ffiniau Cymru.[^key-b87295f94d136de51a29f986386d01dd]
-- The Education Tribunal for Wales or Tribiwnlys Addysg Cymru.[^key-b39a737b9d50851664124f5c65401509]
+- The Democracy and Boundary Commission Cymru or Comisiwn Democratiaeth a Ffiniau Cymru.[^c-b87295f94d136de51a29f986386d01dd]
+- The Education Tribunal for Wales or Tribiwnlys Addysg Cymru.[^c-b39a737b9d50851664124f5c65401509]
 - The Education Workforce Council or Cyngor y Gweithlu Addysg.
 - An exclusion appeal panel, constituted in accordance with regulations under section 52 of the Education Act 2002, for schools in Wales.
 - A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004, or a scheme to which section 4 of that Act applies, for an area in Wales.
@@ -54,14 +54,14 @@ Section 157A
 - [^M_F_e33b9054-97e0-4d33-b3a5-21ad70433812]...
 - Hybu Cig Cymru or Meat Promotion Wales.
 - The Independent Groundwater Complaints Administrator.
-- The Independent Remuneration Board of the Senedd or Bwrdd Taliadau Annibynnol y Senedd.[^key-30c5509fdb65bfe2d6500de089eeb430]
-- [^key-6ecdd642de9f4ff793c40cd7bb4f5f87]...
+- The Independent Remuneration Board of the Senedd or Bwrdd Taliadau Annibynnol y Senedd.[^c-30c5509fdb65bfe2d6500de089eeb430]
+- [^c-6ecdd642de9f4ff793c40cd7bb4f5f87]...
 - A joint planning board constituted under section 2(1B) of the Town and Country Planning Act 1990.
-- [^key-a3c9f53bb720ef7f5f2e70a44b1bfb53]...
+- [^c-a3c9f53bb720ef7f5f2e70a44b1bfb53]...
 - A Local Health Board established under section 11 of the National Health Service (Wales) Act 2006.
 - The Mental Health Review Tribunal for Wales.
-- [^key-d7b02ad1b7ab28e65e924450eb600af8]...
-- [^key-6fd7a82d694b211666210cf3a19e3416]...
+- [^c-d7b02ad1b7ab28e65e924450eb600af8]...
+- [^c-6fd7a82d694b211666210cf3a19e3416]...
 - The National Independent Safeguarding Board or Bwrdd Diogelu Annibynnol Cenedlaethol.
 - The National Library of Wales or Llyfrgell Genedlaethol Cymru.
 - The National Museum of Wales or Amgueddfa Genedlaethol Cymru.
@@ -76,9 +76,9 @@ Section 157A
 - A regulated institution within the meaning of the Higher Education (Wales) Act 2015 (ignoring section 26 of that Act) other than an institution within the higher education sector (within the meaning of section 91(5) of the Further and Higher Education Act 1992).
 - A rent assessment committee constituted in accordance with Schedule 10 to the Rent Act 1977 (including a leasehold valuation tribunal and a residential property tribunal).
 - The Royal Commission on the Ancient and Historical Monuments of Wales or Comisiwn Brenhinol Henebion Cymru.
-- The Senedd Commissioner for Standards or Comisiynydd Safonau y Senedd.[^key-4fb634efa11649c8ec6d1a6f39ce8c1f]
+- The Senedd Commissioner for Standards or Comisiynydd Safonau y Senedd.[^c-4fb634efa11649c8ec6d1a6f39ce8c1f]
 - Social Care Wales or Gofal Cymdeithasol Cymru.
-- [^key-b6e4d7f102bc83e983195ef8513687a0]...
+- [^c-b6e4d7f102bc83e983195ef8513687a0]...
 - The Sports Council for Wales or Cyngor Chwaraeon Cymru.
 - A strategic planning panel established for an area in Wales by regulations under section 60D of the Planning and Compulsory Purchase Act 2004.
 - A tribunal constituted in accordance with Schedule 3 to the Education Act 2005 (registration of inspectors in Wales: tribunals hearing appeals under section 27).
@@ -99,28 +99,28 @@ Section 157A
 
 ## Annotations
 
-[^key-934c28a2f6e70c25555c01ca00042eff]: Textual amendment: Sch. 9A inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/4/schedule/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/o)
+[^c-934c28a2f6e70c25555c01ca00042eff]: Textual amendment: Sch. 9A inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2017/4/schedule/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/o)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
 [^M_F_12d32341-d36e-4989-e7f7-8fb5f2e72221]: Textual amendment: Words in Sch. 9A inserted (7.11.2024) by [The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2024 (S.I. 2024/1206)](https://www.legislation.gov.uk/uksi/2024/1206), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1206/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2024/1206/article/2/b)
 
-[^key-b87295f94d136de51a29f986386d01dd]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/9A) inserted (8.1.2026) by [The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025 (S.I. 2025/1297)](https://www.legislation.gov.uk/uksi/2025/1297), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1297/article/1/3), [2(c)](https://www.legislation.gov.uk/uksi/2025/1297/article/2/c)
+[^c-b87295f94d136de51a29f986386d01dd]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/9A) inserted (8.1.2026) by [The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025 (S.I. 2025/1297)](https://www.legislation.gov.uk/uksi/2025/1297), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1297/article/1/3), [2(c)](https://www.legislation.gov.uk/uksi/2025/1297/article/2/c)
 
-[^key-b39a737b9d50851664124f5c65401509]: Textual amendment: Words in Sch. 9A inserted (7.11.2023) by [The Government of Wales Act 2006 (Schedule 9A – Devolved Welsh Authorities) (Amendment) Order 2023 (S.I. 2023/1095)](https://www.legislation.gov.uk/uksi/2023/1095), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1095/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2023/1095/article/2/b)
+[^c-b39a737b9d50851664124f5c65401509]: Textual amendment: Words in Sch. 9A inserted (7.11.2023) by [The Government of Wales Act 2006 (Schedule 9A – Devolved Welsh Authorities) (Amendment) Order 2023 (S.I. 2023/1095)](https://www.legislation.gov.uk/uksi/2023/1095), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1095/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2023/1095/article/2/b)
 
 [^M_F_e33b9054-97e0-4d33-b3a5-21ad70433812]: Textual amendment: Words in Sch. 9A omitted (7.11.2024) by [The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2024 (S.I. 2024/1206)](https://www.legislation.gov.uk/uksi/2024/1206), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1206/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2024/1206/article/2/a)
 
-[^key-30c5509fdb65bfe2d6500de089eeb430]: Textual amendment: Words in Sch. 9A inserted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(10)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/10/c)
+[^c-30c5509fdb65bfe2d6500de089eeb430]: Textual amendment: Words in Sch. 9A inserted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(10)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/10/c)
 
-[^key-6ecdd642de9f4ff793c40cd7bb4f5f87]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/9A) omitted (8.1.2026) by virtue of [The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025 (S.I. 2025/1297)](https://www.legislation.gov.uk/uksi/2025/1297), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1297/article/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2025/1297/article/2/a)
+[^c-6ecdd642de9f4ff793c40cd7bb4f5f87]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/9A) omitted (8.1.2026) by virtue of [The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025 (S.I. 2025/1297)](https://www.legislation.gov.uk/uksi/2025/1297), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1297/article/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2025/1297/article/2/a)
 
-[^key-a3c9f53bb720ef7f5f2e70a44b1bfb53]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/9A) omitted (8.1.2026) by virtue of [The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025 (S.I. 2025/1297)](https://www.legislation.gov.uk/uksi/2025/1297), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1297/article/1/3), [2(b)](https://www.legislation.gov.uk/uksi/2025/1297/article/2/b)
+[^c-a3c9f53bb720ef7f5f2e70a44b1bfb53]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/ukpga/2006/32/schedule/9A) omitted (8.1.2026) by virtue of [The Government of Wales Act 2006 (Devolved Welsh Authorities) (Amendment) Order 2025 (S.I. 2025/1297)](https://www.legislation.gov.uk/uksi/2025/1297), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2025/1297/article/1/3), [2(b)](https://www.legislation.gov.uk/uksi/2025/1297/article/2/b)
 
-[^key-d7b02ad1b7ab28e65e924450eb600af8]: Textual amendment: Words in Sch. 9A omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(10)(a)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/10/a)
+[^c-d7b02ad1b7ab28e65e924450eb600af8]: Textual amendment: Words in Sch. 9A omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(10)(a)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/10/a)
 
-[^key-6fd7a82d694b211666210cf3a19e3416]: Textual amendment: Words in Sch. 9A omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(10)(b)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/10/b)
+[^c-6fd7a82d694b211666210cf3a19e3416]: Textual amendment: Words in Sch. 9A omitted (6.5.2020) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(10)(b)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/10/b)
 
-[^key-4fb634efa11649c8ec6d1a6f39ce8c1f]: Textual amendment: Words in Sch. 9A inserted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(10)(d)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/10/d)
+[^c-4fb634efa11649c8ec6d1a6f39ce8c1f]: Textual amendment: Words in Sch. 9A inserted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(10)(d)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/10/d)
 
-[^key-b6e4d7f102bc83e983195ef8513687a0]: Textual amendment: Words in Sch. 9A omitted (7.11.2023) by virtue of [The Government of Wales Act 2006 (Schedule 9A – Devolved Welsh Authorities) (Amendment) Order 2023 (S.I. 2023/1095)](https://www.legislation.gov.uk/uksi/2023/1095), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1095/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2023/1095/article/2/a)
+[^c-b6e4d7f102bc83e983195ef8513687a0]: Textual amendment: Words in Sch. 9A omitted (7.11.2023) by virtue of [The Government of Wales Act 2006 (Schedule 9A – Devolved Welsh Authorities) (Amendment) Order 2023 (S.I. 2023/1095)](https://www.legislation.gov.uk/uksi/2023/1095), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1095/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2023/1095/article/2/a)

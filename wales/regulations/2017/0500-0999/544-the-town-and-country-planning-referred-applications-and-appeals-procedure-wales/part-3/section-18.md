@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Application of Part 3[^key-34ba399f2e3e4ff2a5b3f80e64d45aa2]
+## 18. Application of Part 3[^c-34ba399f2e3e4ff2a5b3f80e64d45aa2]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ This Part only applies where—
 
 ## Annotations
 
-[^key-34ba399f2e3e4ff2a5b3f80e64d45aa2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2017/544/regulation/18) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-34ba399f2e3e4ff2a5b3f80e64d45aa2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2017/544/regulation/18) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

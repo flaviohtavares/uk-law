@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Grants to bus service operators[^key-290c1d001cc0c818d754388b49e896df]
+## 18. Grants to bus service operators[^c-290c1d001cc0c818d754388b49e896df]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-290c1d001cc0c818d754388b49e896df]: Commencement: Art. 18 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-290c1d001cc0c818d754388b49e896df]: Commencement: Art. 18 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
 
 [^c24433651]: Marginal citation: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 31. Implementing powers in accordance with the examination procedure[^key-324fff5fdd85942e52134b9b97c62e3a]
+## Article 31. Implementing powers in accordance with the examination procedure[^c-324fff5fdd85942e52134b9b97c62e3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-324fff5fdd85942e52134b9b97c62e3a]: Textual amendment: [Arts. 29-31](https://www.legislation.gov.uk/eur/2013/1308/article/29) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/821/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-324fff5fdd85942e52134b9b97c62e3a]: Textual amendment: [Arts. 29-31](https://www.legislation.gov.uk/eur/2013/1308/article/29) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [15](https://www.legislation.gov.uk/uksi/2019/821/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

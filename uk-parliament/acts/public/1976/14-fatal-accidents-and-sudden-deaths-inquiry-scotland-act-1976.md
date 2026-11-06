@@ -33,67 +33,67 @@ Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (repealed)
 
 1976 c. 14
 
-[^key-6d383f7f08c5e75549f815313b2fc969]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d383f7f08c5e75549f815313b2fc969]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Investigation of death and application for public inquiry.[^key-6d383f7f08c5e75549f815313b2fc969]
+## 1. Investigation of death and application for public inquiry.[^c-6d383f7f08c5e75549f815313b2fc969]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1A. Death of service personnel abroad[^key-6d383f7f08c5e75549f815313b2fc969]
+## 1A. Death of service personnel abroad[^c-6d383f7f08c5e75549f815313b2fc969]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Citation of witnesses for precognition.[^key-6d383f7f08c5e75549f815313b2fc969]
+## 2. Citation of witnesses for precognition.[^c-6d383f7f08c5e75549f815313b2fc969]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Holding of public inquiry.[^key-6d383f7f08c5e75549f815313b2fc969]
+## 3. Holding of public inquiry.[^c-6d383f7f08c5e75549f815313b2fc969]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Conduct of public inquiry.[^key-6d383f7f08c5e75549f815313b2fc969]
+## 4. Conduct of public inquiry.[^c-6d383f7f08c5e75549f815313b2fc969]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Criminal proceedings and compellability of witnesses.[^key-6d383f7f08c5e75549f815313b2fc969]
+## 5. Criminal proceedings and compellability of witnesses.[^c-6d383f7f08c5e75549f815313b2fc969]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Sheriff’s determination etc.[^key-6d383f7f08c5e75549f815313b2fc969]
+## 6. Sheriff’s determination etc.[^c-6d383f7f08c5e75549f815313b2fc969]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Rules.[^key-6d383f7f08c5e75549f815313b2fc969]
+## 7. Rules.[^c-6d383f7f08c5e75549f815313b2fc969]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Minor and consequential amendments and repeals[^key-6d383f7f08c5e75549f815313b2fc969]
+## 8. Minor and consequential amendments and repeals[^c-6d383f7f08c5e75549f815313b2fc969]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application to continental shelf.[^key-6d383f7f08c5e75549f815313b2fc969]
+## 9. Application to continental shelf.[^c-6d383f7f08c5e75549f815313b2fc969]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Interpretation, transitional, citation, commencement and extent.[^key-6d383f7f08c5e75549f815313b2fc969]
+## 10. Interpretation, transitional, citation, commencement and extent.[^c-6d383f7f08c5e75549f815313b2fc969]
 
 *Extent: S*
 
@@ -103,33 +103,33 @@ Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976 (repealed)
 
 **No longer in force.**
 
-[^key-6d383f7f08c5e75549f815313b2fc969] SCHEDULES
+[^c-6d383f7f08c5e75549f815313b2fc969] SCHEDULES
 
-## SCHEDULE 1 — MINOR AND CONSEQUENTIAL AMENDMENTS[^key-6d383f7f08c5e75549f815313b2fc969]
+## SCHEDULE 1 — MINOR AND CONSEQUENTIAL AMENDMENTS[^c-6d383f7f08c5e75549f815313b2fc969]
 
 Section 8(1).
 
-### The Gas Act 1965[^key-6d383f7f08c5e75549f815313b2fc969]
+### The Gas Act 1965[^c-6d383f7f08c5e75549f815313b2fc969]
 
-**1.**[^key-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Merchant Shipping Act 1970[^key-6d383f7f08c5e75549f815313b2fc969]
+### The Merchant Shipping Act 1970[^c-6d383f7f08c5e75549f815313b2fc969]
 
-**2.**[^key-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Minerals Workings (Offshore Installations) Act 1971[^key-6d383f7f08c5e75549f815313b2fc969]
+### The Minerals Workings (Offshore Installations) Act 1971[^c-6d383f7f08c5e75549f815313b2fc969]
 
-**3.**[^key-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Health and Safety at Work Etc. Act 1974[^key-6d383f7f08c5e75549f815313b2fc969]
+### The Health and Safety at Work Etc. Act 1974[^c-6d383f7f08c5e75549f815313b2fc969]
 
-**4.**[^key-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Petroleum and Submarine Pipe-lines Act 1975[^key-6d383f7f08c5e75549f815313b2fc969]
+### The Petroleum and Submarine Pipe-lines Act 1975[^c-6d383f7f08c5e75549f815313b2fc969]
 
-**5.**[^key-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6d383f7f08c5e75549f815313b2fc969] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REPEALS[^key-6d383f7f08c5e75549f815313b2fc969]
+## SCHEDULE 2 — REPEALS[^c-6d383f7f08c5e75549f815313b2fc969]
 
 Section 8(2).
 
@@ -137,4 +137,4 @@ Section 8(2).
 
 ## Annotations
 
-[^key-6d383f7f08c5e75549f815313b2fc969]: Textual amendment: Act repealed (S.) (15.6.2017) by Inquiries into [Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [ss. 39(1)](https://www.legislation.gov.uk/asp/2016/2/section/39/1), [42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(1)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/1), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5)); and ss. 4(4)(5), 9 repealed (15.6.2017) in so far as still in force by The Inquiries into [Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/4) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2)
+[^c-6d383f7f08c5e75549f815313b2fc969]: Textual amendment: Act repealed (S.) (15.6.2017) by Inquiries into [Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [ss. 39(1)](https://www.legislation.gov.uk/asp/2016/2/section/39/1), [42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(1)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/1), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5)); and ss. 4(4)(5), 9 repealed (15.6.2017) in so far as still in force by The Inquiries into [Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/4) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2)

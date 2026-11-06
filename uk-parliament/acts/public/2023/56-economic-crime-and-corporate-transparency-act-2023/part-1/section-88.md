@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Inspection of the register: general[^key-eaddc375284831e3ec27360c3f5a0826][^key-3eede166eafdd764f68ed0ebcc58833e]
+## 88. Inspection of the register: general[^c-eaddc375284831e3ec27360c3f5a0826][^c-3eede166eafdd764f68ed0ebcc58833e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In section 1085 of the Companies Act 2006 (inspection of the register), for subs
 
 ## Annotations
 
-[^key-eaddc375284831e3ec27360c3f5a0826]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-eaddc375284831e3ec27360c3f5a0826]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-3eede166eafdd764f68ed0ebcc58833e]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/56/section/88) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z30)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z30)
+[^c-3eede166eafdd764f68ed0ebcc58833e]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/56/section/88) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z30)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z30)

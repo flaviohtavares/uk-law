@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Compliance and enforcement[^key-ddab92804721d83401e3e5484cfa2f99]
+## 11. Compliance and enforcement[^c-ddab92804721d83401e3e5484cfa2f99]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddab92804721d83401e3e5484cfa2f99]: Commencement: S. 11 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-ddab92804721d83401e3e5484cfa2f99]: Commencement: S. 11 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

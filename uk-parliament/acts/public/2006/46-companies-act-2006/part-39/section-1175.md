@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1175. Removal of special provisions about accounts and audit of charitable companies[^key-f5aadde4fd75e9389045199fb1b2f4df]
+## 1175. Removal of special provisions about accounts and audit of charitable companies[^c-f5aadde4fd75e9389045199fb1b2f4df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5aadde4fd75e9389045199fb1b2f4df]: Textual amendment: S. 1175 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/1)
+[^c-f5aadde4fd75e9389045199fb1b2f4df]: Textual amendment: S. 1175 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/1)

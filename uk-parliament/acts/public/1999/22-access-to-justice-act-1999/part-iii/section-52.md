@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Commissioner’s functions.[^key-ee9a0de5e199b7f7837738dbed641066]
+## 52. Commissioner’s functions.[^c-ee9a0de5e199b7f7837738dbed641066]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee9a0de5e199b7f7837738dbed641066]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1999/22/section/52) repealed (6.10.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 159(2)(a)](https://www.legislation.gov.uk/ukpga/2007/29/section/159/2/a), [211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)(e)(vii)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a/e/vii)
+[^c-ee9a0de5e199b7f7837738dbed641066]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1999/22/section/52) repealed (6.10.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 159(2)(a)](https://www.legislation.gov.uk/ukpga/2007/29/section/159/2/a), [211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)(e)(vii)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a/e/vii)

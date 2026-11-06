@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Consequential provision[^key-043c53f630896d8a1bbbeaeddc299712]
+## 142. Consequential provision[^c-043c53f630896d8a1bbbeaeddc299712]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,9 +45,9 @@ summary: ''
 
 - (a) an Act of Parliament,
 - (b) a Measure or Act of Senedd Cymru,
-- (c) an Act of the Scottish Parliament, or[^key-1a9b581ef43065ced94d7511891c95a2]
-- (d) Northern Ireland legislation, [^key-3b3dafceaea74ad6d32f69866857d2c5]...
-- (e)[^key-3b3dafceaea74ad6d32f69866857d2c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) an Act of the Scottish Parliament, or[^c-1a9b581ef43065ced94d7511891c95a2]
+- (d) Northern Ireland legislation, [^c-3b3dafceaea74ad6d32f69866857d2c5]...
+- (e)[^c-3b3dafceaea74ad6d32f69866857d2c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Regulations under this section to which subsection (7) does not apply are subject to the negative procedure.
 
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-043c53f630896d8a1bbbeaeddc299712]: Commencement: S. 142 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-043c53f630896d8a1bbbeaeddc299712]: Commencement: S. 142 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
 
-[^key-1a9b581ef43065ced94d7511891c95a2]: Textual amendment: Word in [s. 142(7)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/142/7/c) inserted (29.6.2023) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/7/a)
+[^c-1a9b581ef43065ced94d7511891c95a2]: Textual amendment: Word in [s. 142(7)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/142/7/c) inserted (29.6.2023) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 7(a)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/7/a)
 
-[^key-3b3dafceaea74ad6d32f69866857d2c5]: Textual amendment: [S. 142(7)(e)](https://www.legislation.gov.uk/ukpga/2021/30/section/142/7/e) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/7/b)
+[^c-3b3dafceaea74ad6d32f69866857d2c5]: Textual amendment: [S. 142(7)(e)](https://www.legislation.gov.uk/ukpga/2021/30/section/142/7/e) and word omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/7/b)

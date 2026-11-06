@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Maintenance of approved works, etc.[^key-d9d8f6392dbd40291aeae0a4a17bbc4d]
+## 37. Maintenance of approved works, etc.[^c-d9d8f6392dbd40291aeae0a4a17bbc4d]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9d8f6392dbd40291aeae0a4a17bbc4d]: Commencement: Art. 37 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-d9d8f6392dbd40291aeae0a4a17bbc4d]: Commencement: Art. 37 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
 [^f00029]: Footnote: See S.I. [1994/157](https://www.legislation.gov.uk/uksi/1994/157).

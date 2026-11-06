@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26A. Parenting orders in respect of anti-social behaviour: local authorities[^key-fbe2cd37b0f3b871efba2e958a93b226]
+## 26A. Parenting orders in respect of anti-social behaviour: local authorities[^c-fbe2cd37b0f3b871efba2e958a93b226]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the local authority has reason to believe that the child or young person has engaged in anti-social behaviour, and
 - (b) the child or young person resides, or appears to reside, in the local authority's area.
 
-An application for such an order may be made to a magistrates' court or, where section 26C so allows, to the county court[^key-072c940a9dd0fed73372ccd40c696965] .
+An application for such an order may be made to a magistrates' court or, where section 26C so allows, to the county court[^c-072c940a9dd0fed73372ccd40c696965] .
 
 (2) If such an application is made, the court may make a parenting order in respect of a parent of the child or young person if it is satisfied—
 
@@ -54,6 +54,6 @@ A person may not be nominated under paragraph (b) without his consent.
 
 ## Annotations
 
-[^key-fbe2cd37b0f3b871efba2e958a93b226]: Textual amendment: Ss. 26A-26C inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 24](https://www.legislation.gov.uk/ukpga/2006/48/section/24), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)
+[^c-fbe2cd37b0f3b871efba2e958a93b226]: Textual amendment: Ss. 26A-26C inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 24](https://www.legislation.gov.uk/ukpga/2006/48/section/24), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)
 
-[^key-072c940a9dd0fed73372ccd40c696965]: Textual amendment: Words in [ss. 26A-28](https://www.legislation.gov.uk/ukpga/2003/38/section/26A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-072c940a9dd0fed73372ccd40c696965]: Textual amendment: Words in [ss. 26A-28](https://www.legislation.gov.uk/ukpga/2003/38/section/26A) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

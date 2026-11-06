@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Implementation[^key-e82ee00e415fea69b77d0d84ef695118]
+## 72. Implementation[^c-e82ee00e415fea69b77d0d84ef695118]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e82ee00e415fea69b77d0d84ef695118]: Commencement: [S. 72](https://www.legislation.gov.uk/nia/2014/8/section/72) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-e82ee00e415fea69b77d0d84ef695118]: Commencement: [S. 72](https://www.legislation.gov.uk/nia/2014/8/section/72) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

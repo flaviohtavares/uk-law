@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Appeal against enforcement notice[^key-e1f5876ffa6c47bbda4ae410bd10154f][^key-a1cceb4687ccbecb5a307accc595fb0d]
+## 39. Appeal against enforcement notice[^c-e1f5876ffa6c47bbda4ae410bd10154f][^c-a1cceb4687ccbecb5a307accc595fb0d]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1f5876ffa6c47bbda4ae410bd10154f]: Commencement: S. 39 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-e1f5876ffa6c47bbda4ae410bd10154f]: Commencement: S. 39 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-a1cceb4687ccbecb5a307accc595fb0d]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2023/3/section/39) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-a1cceb4687ccbecb5a307accc595fb0d]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2023/3/section/39) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

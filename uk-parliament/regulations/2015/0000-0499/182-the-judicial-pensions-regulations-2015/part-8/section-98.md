@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Annual rate of surviving adult’s pensions payable on death of pensioner member[^key-64e686287e8b6c99abbabd8bcf9a6da9]
+## 98. Annual rate of surviving adult’s pensions payable on death of pensioner member[^c-64e686287e8b6c99abbabd8bcf9a6da9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64e686287e8b6c99abbabd8bcf9a6da9]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2015/182/regulation/98) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-64e686287e8b6c99abbabd8bcf9a6da9]: Commencement: [Reg. 98](https://www.legislation.gov.uk/uksi/2015/182/regulation/98) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

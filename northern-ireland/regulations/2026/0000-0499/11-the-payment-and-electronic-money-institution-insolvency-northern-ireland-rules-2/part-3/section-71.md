@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. The chair at meetings[^key-fc575c52655f241dec788858a436f664]
+## 71. The chair at meetings[^c-fc575c52655f241dec788858a436f664]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc575c52655f241dec788858a436f664]: Commencement: [Rule 71](https://www.legislation.gov.uk/nisr/2026/11/rule/71) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-fc575c52655f241dec788858a436f664]: Commencement: [Rule 71](https://www.legislation.gov.uk/nisr/2026/11/rule/71) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

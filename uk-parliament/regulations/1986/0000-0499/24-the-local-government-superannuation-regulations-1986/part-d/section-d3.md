@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D3. Exclusion from reckonable service and qualifying service[^key-a33b294771355c830b30f6df8b93b593]
+## D3. Exclusion from reckonable service and qualifying service[^c-a33b294771355c830b30f6df8b93b593]
 
 *Extent: E+W+S*
 
@@ -74,4 +74,4 @@ a pensionable employee is not entitled to reckon either as reckonable service or
 
 ## Annotations
 
-[^key-a33b294771355c830b30f6df8b93b593]: Commencement: [Reg. D3](https://www.legislation.gov.uk/uksi/1986/24/regulation/D3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-a33b294771355c830b30f6df8b93b593]: Commencement: [Reg. D3](https://www.legislation.gov.uk/uksi/1986/24/regulation/D3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

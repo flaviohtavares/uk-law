@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Procedure for return of capital[^key-0a22b5484028b89e72c125b84e5d839a]
+## 179. Procedure for return of capital[^c-0a22b5484028b89e72c125b84e5d839a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.222 of the 1986 Rules.
 
 ## Annotations
 
-[^key-0a22b5484028b89e72c125b84e5d839a]: Commencement: Rule 179 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-0a22b5484028b89e72c125b84e5d839a]: Commencement: Rule 179 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

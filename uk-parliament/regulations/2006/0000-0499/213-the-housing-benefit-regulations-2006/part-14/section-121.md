@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 121. Criminal offence[^key-5be6316c96a91ae42dbb41cd750649b9]
+## 121. Criminal offence[^c-5be6316c96a91ae42dbb41cd750649b9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any supplier who fails to supply relevant information to the requirer as, when a
 
 ## Annotations
 
-[^key-5be6316c96a91ae42dbb41cd750649b9]: Textual amendment: Reg. 121 substituted (1.10.2008) by [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/2/9)
+[^c-5be6316c96a91ae42dbb41cd750649b9]: Textual amendment: Reg. 121 substituted (1.10.2008) by [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/2/9)

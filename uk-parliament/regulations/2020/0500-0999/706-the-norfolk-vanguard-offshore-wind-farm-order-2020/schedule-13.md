@@ -22,7 +22,7 @@ summary: ''
 
 Article 35
 
-### PART 1 — Removal of Potentially Important Hedgerows[^key-4e4c2b4f19f109e7a74208c094d3c982]
+### PART 1 — Removal of Potentially Important Hedgerows[^c-4e4c2b4f19f109e7a74208c094d3c982]
 
 | (1)<br>Area | (2)<br>Reference of hedgerow |
 | --- | --- |
@@ -205,7 +205,7 @@ Article 35
 | District of Breckland | The potentially important hedgerow marked 293 on the important hedgerows plan |
 | District of Breckland | The potentially important hedgerow marked 303 on the important hedgerows plan |
 
-### PART 2 — Removal of Important Hedgerows[^key-a16242e210c4844337ffd2d7f91699e4]
+### PART 2 — Removal of Important Hedgerows[^c-a16242e210c4844337ffd2d7f91699e4]
 
 | *(1)*<br>*Area* | *(2)*<br>*Reference of hedgerow* |
 | --- | --- |
@@ -308,7 +308,7 @@ Article 35
 | District of Breckland | The important hedgerow marked 315 on the important hedgerows plan |
 | District of Breckland | The important hedgerow marked 316 on the important hedgerows plan |
 
-### PART 3 — Removal of Hedgerows[^key-9d22bee20e0349394f43f43dca81b3a4]
+### PART 3 — Removal of Hedgerows[^c-9d22bee20e0349394f43f43dca81b3a4]
 
 | *(1)*<br>*Area* | *(2)*<br>*Reference of hedgerow* |
 | --- | --- |
@@ -355,8 +355,8 @@ Article 35
 
 ## Annotations
 
-[^key-4e4c2b4f19f109e7a74208c094d3c982]: Commencement: Sch. 13 Pt. 1 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-4e4c2b4f19f109e7a74208c094d3c982]: Commencement: Sch. 13 Pt. 1 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-a16242e210c4844337ffd2d7f91699e4]: Commencement: Sch. 13 Pt. 2 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-a16242e210c4844337ffd2d7f91699e4]: Commencement: Sch. 13 Pt. 2 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
-[^key-9d22bee20e0349394f43f43dca81b3a4]: Commencement: Sch. 13 Pt. 3 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-9d22bee20e0349394f43f43dca81b3a4]: Commencement: Sch. 13 Pt. 3 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)

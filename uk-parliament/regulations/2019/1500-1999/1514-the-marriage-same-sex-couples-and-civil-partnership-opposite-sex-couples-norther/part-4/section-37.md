@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Declarations as to marital status: jurisdiction of the courts[^key-8bd621beafff30b22ab6869709ed67d5]
+## 37. Declarations as to marital status: jurisdiction of the courts[^c-8bd621beafff30b22ab6869709ed67d5]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ In Article 31 of the Matrimonial and Family Proceedings (Northern Ireland) Order
 
 ## Annotations
 
-[^key-8bd621beafff30b22ab6869709ed67d5]: Commencement: Reg. 37 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-8bd621beafff30b22ab6869709ed67d5]: Commencement: Reg. 37 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00057]: Footnote: [S.I. 1989/677 (N.I. 4)](https://www.legislation.gov.uk/nisi/1989/677).

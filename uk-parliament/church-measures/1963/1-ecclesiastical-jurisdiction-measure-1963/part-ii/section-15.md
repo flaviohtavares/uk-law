@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E*
 
-Proceedings under this Measure for an offence involving matters of doctrine, ritual or ceremonial shall only be instituted if the offence was committed within the province of Canterbury or York,[^key-4fa701ff6b486d9a3b36a17f386fd27a]...
+Proceedings under this Measure for an offence involving matters of doctrine, ritual or ceremonial shall only be instituted if the offence was committed within the province of Canterbury or York,[^c-4fa701ff6b486d9a3b36a17f386fd27a]...
 
 ## Annotations
 
-[^key-4fa701ff6b486d9a3b36a17f386fd27a]: Textual amendment: Words in [s. 15](https://www.legislation.gov.uk/ukcm/1963/1/section/15) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-4fa701ff6b486d9a3b36a17f386fd27a]: Textual amendment: Words in [s. 15](https://www.legislation.gov.uk/ukcm/1963/1/section/15) repealed (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 2](https://www.legislation.gov.uk/ukcm/2003/3/schedule/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

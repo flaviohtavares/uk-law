@@ -103,7 +103,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 #### 40. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c745856]
 
-## Part IV — The Special Charge[^key-f0a9c3dd8e7ec65b513dcdc35fda2c4e]
+## Part IV — The Special Charge[^c-f0a9c3dd8e7ec65b513dcdc35fda2c4e]
 
 ### 41. The special charge.
 
@@ -189,12 +189,12 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 (3) This section has effect as respects tax becoming due and payable on or after 1st July 1968.
 
-### 54. Premium savings bonds: increase of prize money.[^key-b0ffd725eb9dd882baa3968c7526fbfa]
+### 54. Premium savings bonds: increase of prize money.[^c-b0ffd725eb9dd882baa3968c7526fbfa]
 
 (1) The terms of issue of premium savings bonds shall be altered by substituting for the prospectus relating to the issue of bonds of series B the provisions of Schedule 18 to this Act, being provisions which—
 
-- (a) increase the rate of interest at which the prize fund is calculated from 4½ per cent. to 45/8percent. (but subject [^key-659e80abd070943865d4d7454d22df51]... to a power of varying the rate of interest [^key-d738c848019cfcd55000b3c4083813f2]... )[^key-ada7f7e913d67d6061f05807cd1e4ac9]...
-- (b)[^key-d712b7bba0eb511469df0b0120e864fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) increase the rate of interest at which the prize fund is calculated from 4½ per cent. to 45/8percent. (but subject [^c-659e80abd070943865d4d7454d22df51]... to a power of varying the rate of interest [^c-d738c848019cfcd55000b3c4083813f2]... )[^c-ada7f7e913d67d6061f05807cd1e4ac9]...
+- (b)[^c-d712b7bba0eb511469df0b0120e864fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subsection (1) above shall come into force on 1st September 1968 and have effect as respects all bonds issued before that date, whether before or after the passing of this Act.
 
@@ -232,7 +232,7 @@ In section 1(4) of the Provisional Collection of Taxes Act 1968 [^c745919] (circ
 
 (6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c745924]
 
-(7)[^key-a0536322cb68080dec980b4e77a9606f][^c745920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-a0536322cb68080dec980b4e77a9606f][^c745920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Any reference in this Act to any other enactment shall, except so far as the context otherwise requires, be construed as a reference to that enactment as amended or applied by or under any other enactment, including this Act.
 
@@ -256,71 +256,71 @@ Schedules
 
 ## Schedule 14. — . . .[^c745934]
 
-## Schedule 15. — Special Charge: Trusts[^key-f28dbab61c60e0f649df70cd0190eede]
+## Schedule 15. — Special Charge: Trusts[^c-f28dbab61c60e0f649df70cd0190eede]
 
 **No longer in force.**
 
 Section 41.
 
-### Income out of capital, et ceteralaetc.[^key-f28dbab61c60e0f649df70cd0190eede]
+### Income out of capital, et ceteralaetc.[^c-f28dbab61c60e0f649df70cd0190eede]
 
-**1.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Recovery of charge from trustees[^key-f28dbab61c60e0f649df70cd0190eede]
+### Recovery of charge from trustees[^c-f28dbab61c60e0f649df70cd0190eede]
 
-**2.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3,**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3,**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Income derived from another trust[^key-f28dbab61c60e0f649df70cd0190eede]
+### Income derived from another trust[^c-f28dbab61c60e0f649df70cd0190eede]
 
-**6.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Notice to persons answerable for a trust[^key-f28dbab61c60e0f649df70cd0190eede]
+### Notice to persons answerable for a trust[^c-f28dbab61c60e0f649df70cd0190eede]
 
-**7.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Application of trust property in payment of charge[^key-f28dbab61c60e0f649df70cd0190eede]
+### Application of trust property in payment of charge[^c-f28dbab61c60e0f649df70cd0190eede]
 
-**8.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Foreign trusts[^key-f28dbab61c60e0f649df70cd0190eede]
+### Foreign trusts[^c-f28dbab61c60e0f649df70cd0190eede]
 
-**9.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Limitation of liability of trustees[^key-f28dbab61c60e0f649df70cd0190eede]
+### Limitation of liability of trustees[^c-f28dbab61c60e0f649df70cd0190eede]
 
-**10.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-f28dbab61c60e0f649df70cd0190eede]
+### Interpretation[^c-f28dbab61c60e0f649df70cd0190eede]
 
-**ll.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**ll.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-f28dbab61c60e0f649df70cd0190eede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 16. — Special Charge: Close Companies[^key-cf070e0ae4e0b45acb2ed533d3aed351]
+## Schedule 16. — Special Charge: Close Companies[^c-cf070e0ae4e0b45acb2ed533d3aed351]
 
 **No longer in force.**
 
 Section 45.
 
-### Special Apportionments[^key-cf070e0ae4e0b45acb2ed533d3aed351]
+### Special Apportionments[^c-cf070e0ae4e0b45acb2ed533d3aed351]
 
-**1.**[^key-cf070e0ae4e0b45acb2ed533d3aed351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cf070e0ae4e0b45acb2ed533d3aed351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cf070e0ae4e0b45acb2ed533d3aed351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cf070e0ae4e0b45acb2ed533d3aed351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cf070e0ae4e0b45acb2ed533d3aed351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cf070e0ae4e0b45acb2ed533d3aed351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Recovery of special charge from company[^key-cf070e0ae4e0b45acb2ed533d3aed351]
+### Recovery of special charge from company[^c-cf070e0ae4e0b45acb2ed533d3aed351]
 
-**4.**[^key-cf070e0ae4e0b45acb2ed533d3aed351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cf070e0ae4e0b45acb2ed533d3aed351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 17. — . . .[^c745947]
 
@@ -330,38 +330,38 @@ Section 45.
 
 **2.** Premium Saving Bonds, (Series B) (hereinafter called Bonds) will be issued in units of £1 by the Treasury and will be subject to regulations made from time to time by the Treasury under section 12 of the [^c745948]National Debt Act 1958, or having effect by virtue of that Act. The principal of the Bonds and the prizes allotted will be a charge on the National Loans Fund with recourse to the Consolidated Fund.
 
-**3.**[^key-db605613510987b8afe748e1e14b7420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-db605613510987b8afe748e1e14b7420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** Bonds are not transferable either during the lifetime or on the death of the registered holder. No responsibility can be accepted in respect of their use as security for a loan.
 
 **5.** There will be a monthly prize fund which will be determined by calculating one month’s interest on each bond eligible for the draws in that month. The rate of interest will be 45/8% per annum or such other rate as may be prescribed under the provisions of paragraph 15 below.
 
-**6.**[^key-f378c8c4f2256e4639a2298c4d0cf5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f378c8c4f2256e4639a2298c4d0cf5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** [^key-6dc0910ca2240d4a2d884c8ae39f2d5f]... After a Bond has qualified for its first draw it will be included in each succeeding draw, unless it has been repaid before the first day of the month in which the draw is held or (subject to the provisions of paragraph 15 below) the registered holder has died before the first day of a period of twelve consecutive calendar months preceding the month in which the draw is held.
+**7.** [^c-6dc0910ca2240d4a2d884c8ae39f2d5f]... After a Bond has qualified for its first draw it will be included in each succeeding draw, unless it has been repaid before the first day of the month in which the draw is held or (subject to the provisions of paragraph 15 below) the registered holder has died before the first day of a period of twelve consecutive calendar months preceding the month in which the draw is held.
 
 **8.** Each £1 unit Bond will have one chance in each draw for which it is eligible. Each £1 unit Bond may win not more than one prize in each draw for which it is eligible and in draws producing more that one prize will be allotted the highest prize for which it is drawn.
 
 **9.** Notwithstanding the provisions of paragraph 7 above any Bond purchased in contravention of any regulation limiting the number of unit Bonds which may held by any person shall not be eligible for inclusion in any draw until the holding has been reduced to not more than the maximum number permitted by such regulation.
 
-**10.**[^key-af1cb3295fccf0637f9eace72ff4bb89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-af1cb3295fccf0637f9eace72ff4bb89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.** The serial numbers of Bonds which are allotted prizes will be published [^key-79d190efce86403e90fd7a564838e187]... [^key-ff70af6009b0a7982933920e4aa6a903]...
+**11.** The serial numbers of Bonds which are allotted prizes will be published [^c-79d190efce86403e90fd7a564838e187]... [^c-ff70af6009b0a7982933920e4aa6a903]...
 
 **12.** All matters relating to the method and conduct of the draw and allotment of prizes shall be at the sole discretion of the Postmaster General, whose decision as to which Bonds have drawn prizes shall be final.
 
 **13.** The purchase price of a Bond is repayable in full on application to the Bonds and Stock Office.
 
-**14.**[^key-a3485734388e8ee03aeecd219d10c1d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a3485734388e8ee03aeecd219d10c1d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.** The Treasury reserve the right [^key-a2bba9b77cd737a535bbebdcb8d0fd45]...:—
+**15.** The Treasury reserve the right [^c-a2bba9b77cd737a535bbebdcb8d0fd45]...:—
 
 - (a) to vary the rate of interest specified in paragraph 5 above for determining the amount of the prize fund;
-- (b)[^key-ee44d386a7722c6a518e7c0fdeca231e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ee44d386a7722c6a518e7c0fdeca231e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) to vary the provisions of paragraph 7 above insofar as they relate to the eligibility of a Bond for inclusion in a draw after the death of the registered holder;
-- (d) to declare any Bonds purchased on or before a date specified [^key-6002c87e0244884cb3df116d871b8062]... to be ineligible for further draws.
+- (d) to declare any Bonds purchased on or before a date specified [^c-6002c87e0244884cb3df116d871b8062]... to be ineligible for further draws.
 
-**16.**[^key-e4bf62a7c1147d2bcfe3b827d94fd7fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-e4bf62a7c1147d2bcfe3b827d94fd7fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Schedule 19 — . . .[^c745949]
 
@@ -447,7 +447,7 @@ Section 61
 
 [^c745856]: Textual amendment: S. 40 repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group 2
 
-[^key-f0a9c3dd8e7ec65b513dcdc35fda2c4e]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ukpga/1968/44/part/IV) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-f0a9c3dd8e7ec65b513dcdc35fda2c4e]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ukpga/1968/44/part/IV) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c745891]: Textual amendment: S. 51(1)(3) repealed by [Finance Act 1969 (c. 32)](https://www.legislation.gov.uk/ukpga/1969/32), [s. 61(6)](https://www.legislation.gov.uk/ukpga/1969/32/section/61/6), [Sch. 21 Pt. VII](https://www.legislation.gov.uk/ukpga/1969/32/schedule/21/part/VII)
 
@@ -459,15 +459,15 @@ Section 61
 
 [^c745897]: Textual amendment: Words repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [ss. 538(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/538/1), [539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
-[^key-b0ffd725eb9dd882baa3968c7526fbfa]: Modification: S. 54 power to repeal conferred (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 325](https://www.legislation.gov.uk/ukpga/2004/12/section/325)
+[^c-b0ffd725eb9dd882baa3968c7526fbfa]: Modification: S. 54 power to repeal conferred (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 325](https://www.legislation.gov.uk/ukpga/2004/12/section/325)
 
-[^key-659e80abd070943865d4d7454d22df51]: Textual amendment: Words in s. 54(1)(a) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/article/1), [2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/1/a/i)
+[^c-659e80abd070943865d4d7454d22df51]: Textual amendment: Words in s. 54(1)(a) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/article/1), [2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/1/a/i)
 
-[^key-d738c848019cfcd55000b3c4083813f2]: Textual amendment: Words in s. 54(1)(a) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/article/1), [2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/1/a/ii)
+[^c-d738c848019cfcd55000b3c4083813f2]: Textual amendment: Words in s. 54(1)(a) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/article/1), [2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/1/a/ii)
 
-[^key-ada7f7e913d67d6061f05807cd1e4ac9]: Textual amendment: Word in s. 54(1)(a) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/article/1), [2(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/1/a/iii)
+[^c-ada7f7e913d67d6061f05807cd1e4ac9]: Textual amendment: Word in s. 54(1)(a) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/article/1), [2(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/1/a/iii)
 
-[^key-d712b7bba0eb511469df0b0120e864fa]: Textual amendment: S. 54(1)(b) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/1/b)
+[^c-d712b7bba0eb511469df0b0120e864fa]: Textual amendment: S. 54(1)(b) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/1/b)
 
 [^c745899]: Marginal citation: [1939 c. 119](https://www.legislation.gov.uk/ukpga/1939/119).
 
@@ -497,7 +497,7 @@ Section 61
 
 [^c745924]: Textual amendment: S. 61(6) repealed (with savings) by [Finance Act 1975 (c. 7)](https://www.legislation.gov.uk/ukpga/1975/7), [ss. 50](https://www.legislation.gov.uk/ukpga/1975/7/section/50), [52(2)(3)](https://www.legislation.gov.uk/ukpga/1975/7/section/52/2/3), [59](https://www.legislation.gov.uk/ukpga/1975/7/section/59), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I)
 
-[^key-a0536322cb68080dec980b4e77a9606f]: Textual amendment: [S. 61(7)](https://www.legislation.gov.uk/ukpga/1968/44/section/61/7) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-a0536322cb68080dec980b4e77a9606f]: Textual amendment: [S. 61(7)](https://www.legislation.gov.uk/ukpga/1968/44/section/61/7) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c745927]: Textual amendment: [Schs. 1–4](https://www.legislation.gov.uk/ukpga/1968/44/schedule/1) repealed by [Finance Act 1969 (c. 32)](https://www.legislation.gov.uk/ukpga/1969/32), [s. 61(6)](https://www.legislation.gov.uk/ukpga/1969/32/section/61/6), [Sch. 21 Pt. I](https://www.legislation.gov.uk/ukpga/1969/32/schedule/21/part/I)
 
@@ -515,35 +515,35 @@ Section 61
 
 [^c745934]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/ukpga/1968/44/schedule/14) repealed (with savings) by [Finance Act 1975 (c. 7)](https://www.legislation.gov.uk/ukpga/1975/7), [ss. 50](https://www.legislation.gov.uk/ukpga/1975/7/section/50), [52(2)(3)](https://www.legislation.gov.uk/ukpga/1975/7/section/52/2/3), [59](https://www.legislation.gov.uk/ukpga/1975/7/section/59), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I)
 
-[^key-f28dbab61c60e0f649df70cd0190eede]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/ukpga/1968/44/schedule/15) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-f28dbab61c60e0f649df70cd0190eede]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/ukpga/1968/44/schedule/15) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
-[^key-cf070e0ae4e0b45acb2ed533d3aed351]: Textual amendment: [Sch. 16](https://www.legislation.gov.uk/ukpga/1968/44/schedule/16) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-cf070e0ae4e0b45acb2ed533d3aed351]: Textual amendment: [Sch. 16](https://www.legislation.gov.uk/ukpga/1968/44/schedule/16) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c745947]: Textual amendment: [Sch. 17](https://www.legislation.gov.uk/ukpga/1968/44/schedule/17) repealed by [Finance Act 1972 (c. 41)](https://www.legislation.gov.uk/ukpga/1972/41), [ss. 122(5)](https://www.legislation.gov.uk/ukpga/1972/41/section/122/5), [134(7)](https://www.legislation.gov.uk/ukpga/1972/41/section/134/7), [Sch. 28 Pt. IX](https://www.legislation.gov.uk/ukpga/1972/41/schedule/28/part/IX)
 
 [^c745948]: Marginal citation: [1958 c. 6](https://www.legislation.gov.uk/ukpga/1958/6). (7 & 8 Eliz. 2).
 
-[^key-db605613510987b8afe748e1e14b7420]: Textual amendment: Sch. 18 para. 3 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
+[^c-db605613510987b8afe748e1e14b7420]: Textual amendment: Sch. 18 para. 3 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
 
-[^key-f378c8c4f2256e4639a2298c4d0cf5a5]: Textual amendment: Sch. 18 para. 6 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
+[^c-f378c8c4f2256e4639a2298c4d0cf5a5]: Textual amendment: Sch. 18 para. 6 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
 
-[^key-6dc0910ca2240d4a2d884c8ae39f2d5f]: Textual amendment: Words in [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/1968/44/schedule/18/paragraph/7) repealed (2.11.2010) by [Premium Savings Bonds (Amendment etc) Regulations 2010 (S.I. 2010/2479)](https://www.legislation.gov.uk/uksi/2010/2479), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2479/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2010/2479/regulation/14/a)
+[^c-6dc0910ca2240d4a2d884c8ae39f2d5f]: Textual amendment: Words in [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/1968/44/schedule/18/paragraph/7) repealed (2.11.2010) by [Premium Savings Bonds (Amendment etc) Regulations 2010 (S.I. 2010/2479)](https://www.legislation.gov.uk/uksi/2010/2479), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2479/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2010/2479/regulation/14/a)
 
-[^key-af1cb3295fccf0637f9eace72ff4bb89]: Textual amendment: Sch. 18 para. 10 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
+[^c-af1cb3295fccf0637f9eace72ff4bb89]: Textual amendment: Sch. 18 para. 10 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
 
-[^key-79d190efce86403e90fd7a564838e187]: Textual amendment: Words in Sch. 18 para. 11 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/3)
+[^c-79d190efce86403e90fd7a564838e187]: Textual amendment: Words in Sch. 18 para. 11 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/3)
 
-[^key-ff70af6009b0a7982933920e4aa6a903]: Textual amendment: Words in [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/1968/44/schedule/18/paragraph/11) repealed (2.11.2010) by [Premium Savings Bonds (Amendment etc) Regulations 2010 (S.I. 2010/2479)](https://www.legislation.gov.uk/uksi/2010/2479), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2479/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2010/2479/regulation/14/b)
+[^c-ff70af6009b0a7982933920e4aa6a903]: Textual amendment: Words in [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/1968/44/schedule/18/paragraph/11) repealed (2.11.2010) by [Premium Savings Bonds (Amendment etc) Regulations 2010 (S.I. 2010/2479)](https://www.legislation.gov.uk/uksi/2010/2479), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2479/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2010/2479/regulation/14/b)
 
-[^key-a3485734388e8ee03aeecd219d10c1d9]: Textual amendment: Sch. 18 para. 14 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
+[^c-a3485734388e8ee03aeecd219d10c1d9]: Textual amendment: Sch. 18 para. 14 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
 
-[^key-a2bba9b77cd737a535bbebdcb8d0fd45]: Textual amendment: Words in Sch. 18 para. 15 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/4/a)
+[^c-a2bba9b77cd737a535bbebdcb8d0fd45]: Textual amendment: Words in Sch. 18 para. 15 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/4/a)
 
-[^key-ee44d386a7722c6a518e7c0fdeca231e]: Textual amendment: Sch. 18 para. 15(b) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/4/b)
+[^c-ee44d386a7722c6a518e7c0fdeca231e]: Textual amendment: Sch. 18 para. 15(b) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/4/b)
 
-[^key-6002c87e0244884cb3df116d871b8062]: Textual amendment: Words in Sch. 18 para. 15(d) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/4/c)
+[^c-6002c87e0244884cb3df116d871b8062]: Textual amendment: Words in Sch. 18 para. 15(d) repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/4/c)
 
-[^key-e4bf62a7c1147d2bcfe3b827d94fd7fa]: Textual amendment: Sch. 18 para. 16 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
+[^c-e4bf62a7c1147d2bcfe3b827d94fd7fa]: Textual amendment: Sch. 18 para. 16 repealed (30.9.2004) by [Premium Savings Bonds (Amendment etc) Regulations 2004 (S.I. 2004/2353)](https://www.legislation.gov.uk/uksi/2004/2353), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2353/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/2353/regulation/2/2)
 
 [^c745949]: Textual amendment: [Sch. 19](https://www.legislation.gov.uk/ukpga/1968/44/schedule/19) repealed by [Finance Act 1971 (c. 68)](https://www.legislation.gov.uk/ukpga/1971/68), [s. 69(7)](https://www.legislation.gov.uk/ukpga/1971/68/section/69/7), [Sch. 14 Pt. VII](https://www.legislation.gov.uk/ukpga/1971/68/schedule/14/part/VII)
 

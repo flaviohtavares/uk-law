@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42A. Power to make road user charging schemes[^key-2cd1574151dcb357f9a934510f3f107c]
+## 42A. Power to make road user charging schemes[^c-2cd1574151dcb357f9a934510f3f107c]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cd1574151dcb357f9a934510f3f107c]: Textual amendment: [Art. 42A](https://www.legislation.gov.uk/uksi/2011/41/article/42A) inserted (14.9.2016) by [The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016 (S.I. 2016/851)](https://www.legislation.gov.uk/uksi/2016/851), [arts. 1](https://www.legislation.gov.uk/uksi/2016/851/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/851/article/3/3)
+[^c-2cd1574151dcb357f9a934510f3f107c]: Textual amendment: [Art. 42A](https://www.legislation.gov.uk/uksi/2011/41/article/42A) inserted (14.9.2016) by [The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016 (S.I. 2016/851)](https://www.legislation.gov.uk/uksi/2016/851), [arts. 1](https://www.legislation.gov.uk/uksi/2016/851/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/851/article/3/3)

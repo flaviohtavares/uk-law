@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28H. Risk notices[^key-16ee3dfa59ea62099657eccd838d3677]
+## 28H. Risk notices[^c-16ee3dfa59ea62099657eccd838d3677]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16ee3dfa59ea62099657eccd838d3677]: Textual amendment: [Ss. 28A-28L](https://www.legislation.gov.uk/ukpga/2008/30/section/28A) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(12)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/12), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
+[^c-16ee3dfa59ea62099657eccd838d3677]: Textual amendment: [Ss. 28A-28L](https://www.legislation.gov.uk/ukpga/2008/30/section/28A) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(12)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/12), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)

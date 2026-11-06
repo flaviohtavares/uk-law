@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Meaning of “relevant individual” and “officer”[^M_I_d7d046bd-95ab-46df-f7bc-a8edb01b7f79][^key-9ab86c52d4f1ac84eeb87355d32c7e75][^key-1d41ccd25dd8d42b369bd69a26cd96a8]
+## 226. Meaning of “relevant individual” and “officer”[^M_I_d7d046bd-95ab-46df-f7bc-a8edb01b7f79][^c-9ab86c52d4f1ac84eeb87355d32c7e75][^c-1d41ccd25dd8d42b369bd69a26cd96a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^M_I_d7d046bd-95ab-46df-f7bc-a8edb01b7f79]: Commencement: S. 226 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-9ab86c52d4f1ac84eeb87355d32c7e75]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2026/11/section/226) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-9ab86c52d4f1ac84eeb87355d32c7e75]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2026/11/section/226) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-1d41ccd25dd8d42b369bd69a26cd96a8]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2026/11/section/226) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-1d41ccd25dd8d42b369bd69a26cd96a8]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2026/11/section/226) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

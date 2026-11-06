@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.2. General powers and requirements[^key-7d775f8122b7616e7359a14e2c1251a3]
+## 25.2. General powers and requirements[^c-7d775f8122b7616e7359a14e2c1251a3]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7d775f8122b7616e7359a14e2c1251a3]: Commencement: [Rule 25.2](https://www.legislation.gov.uk/uksi/2025/909/rule/25.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7d775f8122b7616e7359a14e2c1251a3]: Commencement: [Rule 25.2](https://www.legislation.gov.uk/uksi/2025/909/rule/25.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00580]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
 

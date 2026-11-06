@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 203. Enforcement of penalties under sections 195, 196 and 197[^key-27f5d93d4ebf32ebf1c12b5dbae8eceb]
+## 203. Enforcement of penalties under sections 195, 196 and 197[^c-27f5d93d4ebf32ebf1c12b5dbae8eceb]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27f5d93d4ebf32ebf1c12b5dbae8eceb]: Commencement: [S. 203](https://www.legislation.gov.uk/asp/2014/16/section/203) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-27f5d93d4ebf32ebf1c12b5dbae8eceb]: Commencement: [S. 203](https://www.legislation.gov.uk/asp/2014/16/section/203) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

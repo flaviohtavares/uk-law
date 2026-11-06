@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Complaints relating to general medical services made after 31st March 2004[^key-64f1615a28f25d062a1f082985bab6d1]
+## 23. Complaints relating to general medical services made after 31st March 2004[^c-64f1615a28f25d062a1f082985bab6d1]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ shall apply to any complaint which a patient or former patient of the relevant m
 
 ## Annotations
 
-[^key-64f1615a28f25d062a1f082985bab6d1]: Commencement: Art. 23 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-64f1615a28f25d062a1f082985bab6d1]: Commencement: Art. 23 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

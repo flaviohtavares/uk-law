@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Imitation poll cards and notifications[^key-5f44f3e4ecaf08436c68c68cf127efd2]
+## 63. Imitation poll cards and notifications[^c-5f44f3e4ecaf08436c68c68cf127efd2]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f44f3e4ecaf08436c68c68cf127efd2]: Commencement: Art. 63 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5f44f3e4ecaf08436c68c68cf127efd2]: Commencement: Art. 63 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00043]: Footnote: Section 173 is applied by article 82 of and Schedule 6 to this Order. Section 173 was substituted by the 2000 Political Parties Act, section 136 and was amended by [S.I. 2007/931](https://www.legislation.gov.uk/uksi/2007/931), article 2(4).

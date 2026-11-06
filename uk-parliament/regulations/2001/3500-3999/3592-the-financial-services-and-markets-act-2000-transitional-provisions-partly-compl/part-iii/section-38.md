@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Unconfirmed directions under section 42B of the Building Societies Act[^key-2d976faa9c518c3998eb015b885cc766]
+## 38. Unconfirmed directions under section 42B of the Building Societies Act[^c-2d976faa9c518c3998eb015b885cc766]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ the right of appeal lapses at commencement, without prejudice to any right that 
 
 ## Annotations
 
-[^key-2d976faa9c518c3998eb015b885cc766]: Commencement: Art. 38 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-2d976faa9c518c3998eb015b885cc766]: Commencement: Art. 38 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00023]: Footnote: Section 42B was inserted by the Building Societies Act 1997, section 17.
 

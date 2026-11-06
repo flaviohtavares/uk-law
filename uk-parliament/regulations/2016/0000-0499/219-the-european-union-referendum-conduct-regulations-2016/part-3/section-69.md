@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Offences[^key-08d670cab38578b4223d467893ca3a98]
+## 69. Offences[^c-08d670cab38578b4223d467893ca3a98]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ the person whose signature it purports to be.
 
 ## Annotations
 
-[^key-08d670cab38578b4223d467893ca3a98]: Commencement: Reg. 69 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-08d670cab38578b4223d467893ca3a98]: Commencement: Reg. 69 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00045]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44).

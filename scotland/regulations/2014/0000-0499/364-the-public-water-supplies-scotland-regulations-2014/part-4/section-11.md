@@ -26,7 +26,7 @@ summary: ''
 - (b) whether water leaving the treatment works complies with the prescribed concentration or value for—
   - (i) coliform bacteria (item 3) in Table A;
   - (ii) *Escherichia coli* (item 4) in Table A; and
-  - (iii) nitrite (item 24)[^key-1aefb58b2c36715f033ad080e408c598] in Table B (where the point of compliance is a treatment works);
+  - (iii) nitrite (item 24)[^c-1aefb58b2c36715f033ad080e408c598] in Table B (where the point of compliance is a treatment works);
   - (iv) colony count (item 5) in Table C; and
   - (v) turbidity (item 13) in Table C.
 
@@ -53,4 +53,4 @@ the number of samples to be taken in the following year in respect of that param
 
 ## Annotations
 
-[^key-1aefb58b2c36715f033ad080e408c598]: Textual amendment: Words in [reg. 11(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2014/364/regulation/11/1/b/iii) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2022/387/regulation/5)
+[^c-1aefb58b2c36715f033ad080e408c598]: Textual amendment: Words in [reg. 11(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2014/364/regulation/11/1/b/iii) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2022/387/regulation/5)

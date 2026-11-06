@@ -27,13 +27,13 @@ summary: ''
 
 (2) There shall be issued to the Secretary of State by the Treasury out of the National Loans Fund any sums required by him for—
 
-- (a) making loans under section 52 to a transferee, [^key-7639f577b9eae6f2b5770973dbd6c940]...
-- (b)[^key-7639f577b9eae6f2b5770973dbd6c940] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) making loans under section 52 to a transferee, [^c-7639f577b9eae6f2b5770973dbd6c940]...
+- (b)[^c-7639f577b9eae6f2b5770973dbd6c940] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) There shall be paid into the National Loans Fund any repayment of, or payment of interest on, loans—
 
-- (a) made under section 52 by the Secretary of State to a transferee, [^key-e15ca8323e6095fe3bf4ce5f4043604b]...
-- (b)[^key-e15ca8323e6095fe3bf4ce5f4043604b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) made under section 52 by the Secretary of State to a transferee, [^c-e15ca8323e6095fe3bf4ce5f4043604b]...
+- (b)[^c-e15ca8323e6095fe3bf4ce5f4043604b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The assets of the National Loans Fund shall be reduced by an amount corresponding to such liability as the Secretary of State extinguishes by order under section 57.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7639f577b9eae6f2b5770973dbd6c940]: Textual amendment: S. 278(2)(b) and preceding word repealed (E.W.S.) (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-7639f577b9eae6f2b5770973dbd6c940]: Textual amendment: S. 278(2)(b) and preceding word repealed (E.W.S.) (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-e15ca8323e6095fe3bf4ce5f4043604b]: Textual amendment: S. 278(3)(b) and preceding word repealed (E.W.S.) (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-e15ca8323e6095fe3bf4ce5f4043604b]: Textual amendment: S. 278(3)(b) and preceding word repealed (E.W.S.) (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)

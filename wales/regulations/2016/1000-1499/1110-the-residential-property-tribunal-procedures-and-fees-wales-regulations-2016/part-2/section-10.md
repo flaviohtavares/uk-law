@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Urgent IMO authorisation applications[^key-005e73e080f145cbbc6c7bda65ac688d]
+## 10. Urgent IMO authorisation applications[^c-005e73e080f145cbbc6c7bda65ac688d]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-005e73e080f145cbbc6c7bda65ac688d]: Commencement: Reg. 10 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-005e73e080f145cbbc6c7bda65ac688d]: Commencement: Reg. 10 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

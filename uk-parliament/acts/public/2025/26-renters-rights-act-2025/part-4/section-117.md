@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Limitation on use of information provided under section 115[^key-8c094b9e32d20450fb7df59ae15c0b37]
+## 117. Limitation on use of information provided under section 115[^c-8c094b9e32d20450fb7df59ae15c0b37]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c094b9e32d20450fb7df59ae15c0b37]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2025/26/section/117) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-8c094b9e32d20450fb7df59ae15c0b37]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2025/26/section/117) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

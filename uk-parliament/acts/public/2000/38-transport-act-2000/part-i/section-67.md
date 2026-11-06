@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may nominate a non-executive member[^key-28740e87b15c1a3363337fc1eef8a52a] of the CAA for the purposes of this section, and in this section references to the national security nominee are to the person nominated under this section.
+(1) The Secretary of State may nominate a non-executive member[^c-28740e87b15c1a3363337fc1eef8a52a] of the CAA for the purposes of this section, and in this section references to the national security nominee are to the person nominated under this section.
 
 (2) Subsection (3) applies if—
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c14879651]: Commencement: S. 67 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-28740e87b15c1a3363337fc1eef8a52a]: Textual amendment: Words in s. 67(1) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/98/2), [110(3)(c)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/c) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
+[^c-28740e87b15c1a3363337fc1eef8a52a]: Textual amendment: Words in s. 67(1) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/98/2), [110(3)(c)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/c) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))

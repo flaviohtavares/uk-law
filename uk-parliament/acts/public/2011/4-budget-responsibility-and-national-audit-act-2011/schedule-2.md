@@ -26,7 +26,7 @@ Section 20
 
 #### Membership
 
-**1.**[^key-df92f7bf85c9436b85b1e2d8dbf3b3b9][^key-ec4959343ec1986fbba77c606b460594] (1) NAO is to have 9 members.
+**1.**[^c-df92f7bf85c9436b85b1e2d8dbf3b3b9][^c-ec4959343ec1986fbba77c606b460594] (1) NAO is to have 9 members.
 
 (2) They are to be—
 
@@ -36,18 +36,18 @@ Section 20
 
 #### Status
 
-**2.** (1)[^key-feb85a06056a05bb272f50f4e7cc4d8f][^key-4d0517260a59bfb685d8beaea025b3fc] Neither NAO nor any of its members or employees is to be regarded—
+**2.** (1)[^c-feb85a06056a05bb272f50f4e7cc4d8f][^c-4d0517260a59bfb685d8beaea025b3fc] Neither NAO nor any of its members or employees is to be regarded—
 
 - (a) as the servant or agent of the Crown, or
 - (b) as enjoying any status, immunity or privilege of the Crown.
 
-(2)[^key-2313bbcab5fb186daca10e4cc733cf25] NAO's property is not to be regarded as property of, or held on behalf of, the Crown.
+(2)[^c-2313bbcab5fb186daca10e4cc733cf25] NAO's property is not to be regarded as property of, or held on behalf of, the Crown.
 
 ### Part 2 — Non-executive members
 
 #### Member to chair NAO
 
-**3.**[^key-1ddc6d65003a024d916f52731420bf60] (1) One of the persons who is a non-executive member of NAO is to chair it.
+**3.**[^c-1ddc6d65003a024d916f52731420bf60] (1) One of the persons who is a non-executive member of NAO is to chair it.
 
 (2) It is for Her Majesty by Letters Patent to appoint that person.
 
@@ -65,7 +65,7 @@ Section 20
 
 #### Appointment of other non-executive members
 
-**4.**[^key-b2965086a68b50cb73da63aab3be3cdc] (1) The other non-executive members are to be appointed by the Public Accounts Commission as follows.
+**4.**[^c-b2965086a68b50cb73da63aab3be3cdc] (1) The other non-executive members are to be appointed by the Public Accounts Commission as follows.
 
 (2) If there is a vacancy, the person who chairs NAO must recommend a person to the Commission for appointment.
 
@@ -76,13 +76,13 @@ Section 20
 
 #### Period of appointment and re-appointment
 
-**5.**[^key-85f098005a7cc39c19976af8d4ea9857] (1) An appointment under this Part of this Schedule is to be for a period of no more than 3 years.
+**5.**[^c-85f098005a7cc39c19976af8d4ea9857] (1) An appointment under this Part of this Schedule is to be for a period of no more than 3 years.
 
 (2) A person may not be appointed under this Part of this Schedule more than twice.
 
 #### Remuneration arrangements
 
-**6.**[^key-802655cc202f8112e5459e504719ec8f] (1) The Prime Minister and the person who chairs the Committee of Public Accounts may jointly make remuneration arrangements in relation to the person who chairs NAO.
+**6.**[^c-802655cc202f8112e5459e504719ec8f] (1) The Prime Minister and the person who chairs the Committee of Public Accounts may jointly make remuneration arrangements in relation to the person who chairs NAO.
 
 (2) Amounts payable by virtue of sub-paragraph (1) are to be charged on, and paid out of, the Consolidated Fund.
 
@@ -97,7 +97,7 @@ Section 20
 
 #### Other terms of appointment
 
-**7.**[^key-aafe344af0c57a914970e2322a66b635] (1) The Public Accounts Commission may determine other terms for an appointment under this Part of this Schedule.
+**7.**[^c-aafe344af0c57a914970e2322a66b635] (1) The Public Accounts Commission may determine other terms for an appointment under this Part of this Schedule.
 
 (2) These terms may include restrictions on—
 
@@ -106,15 +106,15 @@ Section 20
 
 #### Consultation
 
-**8.**[^key-7c38b489b6b6d995013fe3fa6123face] Before making any arrangements under paragraph 6 or a determination under paragraph 7, the Commission must consult any person with oversight of public appointments whom the Commission thinks it is appropriate to consult.
+**8.**[^c-7c38b489b6b6d995013fe3fa6123face] Before making any arrangements under paragraph 6 or a determination under paragraph 7, the Commission must consult any person with oversight of public appointments whom the Commission thinks it is appropriate to consult.
 
 #### Termination of appointments
 
-**9.**[^key-c1b00b2afe36527cd5516b4229481450] (1) The person who chairs NAO may resign by giving written notice to the Prime Minister.
+**9.**[^c-c1b00b2afe36527cd5516b4229481450] (1) The person who chairs NAO may resign by giving written notice to the Prime Minister.
 
 (2) Any other non-executive member may resign by giving written notice to the Public Accounts Commission.
 
-**10.**[^key-47c784ff798a6ccccc8541962ac5a425] (1) Her Majesty may terminate the appointment of the person who chairs NAO on an address of both Houses of Parliament.
+**10.**[^c-47c784ff798a6ccccc8541962ac5a425] (1) Her Majesty may terminate the appointment of the person who chairs NAO on an address of both Houses of Parliament.
 
 (2) The Public Accounts Commission may terminate the appointment of any other non-executive member by giving the member written notice if—
 
@@ -127,13 +127,13 @@ Section 20
 
 ### Part 3 — Chief executive
 
-**11.**[^key-bbea0c2eb7fdce3463817e1ea2b88b05] The Comptroller and Auditor General is to be the chief executive (but not an employee) of NAO.
+**11.**[^c-bbea0c2eb7fdce3463817e1ea2b88b05] The Comptroller and Auditor General is to be the chief executive (but not an employee) of NAO.
 
 ### Part 4 — Employee members
 
 #### Appointment
 
-**12.**[^key-4cec5ffd201e3df99e27b672b1435faf] (1) The employee members are to be appointed by the non-executive members as follows.
+**12.**[^c-4cec5ffd201e3df99e27b672b1435faf] (1) The employee members are to be appointed by the non-executive members as follows.
 
 (2) If there is a vacancy, the Comptroller and Auditor General must recommend a person to the non-executive members for appointment.
 
@@ -144,7 +144,7 @@ Section 20
 
 #### Terms of appointment
 
-**13.**[^key-88fb4cd3d5590450a52caf86f027081a] (1) The terms of an employee member's appointment are to be determined by the non-executive members.
+**13.**[^c-88fb4cd3d5590450a52caf86f027081a] (1) The terms of an employee member's appointment are to be determined by the non-executive members.
 
 (2) The terms may include remuneration arrangements which—
 
@@ -157,14 +157,14 @@ Section 20
 
 #### Termination of appointments
 
-**14.**[^key-a47d22c69b906052f06df95a3f3494e3] The appointment of an employee member terminates—
+**14.**[^c-a47d22c69b906052f06df95a3f3494e3] The appointment of an employee member terminates—
 
 - (a) if the terms of the member's appointment provide for it to expire at the end of a period, at the end of that period, and
 - (b) in any event, when the member ceases to be an employee of NAO.
 
-**15.**[^key-63bbdf2cb9b9f6c4e07d2bc9fdb7237a] An employee member may resign by giving written notice to the non-executive members.
+**15.**[^c-63bbdf2cb9b9f6c4e07d2bc9fdb7237a] An employee member may resign by giving written notice to the non-executive members.
 
-**16.**[^key-1b30a5bb9cba581c5933e0fdbeeb0289] The non-executive members may terminate the appointment of an employee member by giving the member written notice if—
+**16.**[^c-1b30a5bb9cba581c5933e0fdbeeb0289] The non-executive members may terminate the appointment of an employee member by giving the member written notice if—
 
 - (a) the member has been absent from meetings of NAO without NAO's permission for a period of more than 3 months,
 - (b) the member has become bankrupt or has made an arrangement with creditors,
@@ -175,7 +175,7 @@ Section 20
 
 ### Part 5 — Employees
 
-**17.**[^key-7c62e63912dfffc07c247b937b9aeb76] (1) NAO may employ staff.
+**17.**[^c-7c62e63912dfffc07c247b937b9aeb76] (1) NAO may employ staff.
 
 (2) In determining the terms of employment of any staff, NAO must have regard to the desirability of keeping the terms broadly in line with those applying to civil servants.
 
@@ -185,15 +185,15 @@ Section 20
 
 #### General
 
-**18.**[^key-5445feb68bc04bd1b1cbc510b6bec8c4] NAO must make rules for the purpose of regulating NAO's procedure.
+**18.**[^c-5445feb68bc04bd1b1cbc510b6bec8c4] NAO must make rules for the purpose of regulating NAO's procedure.
 
 #### Quorum for NAO meetings
 
-**19.**[^key-c3dffe774f9086f079946e8c596a719b] If the rules provide for a quorum for any meetings of NAO, the quorum cannot be met unless a majority of the members present are non-executive members.
+**19.**[^c-c3dffe774f9086f079946e8c596a719b] If the rules provide for a quorum for any meetings of NAO, the quorum cannot be met unless a majority of the members present are non-executive members.
 
 #### Committees
 
-**20.**[^key-4d3c8c204c5e41996361c92c2e999c9c] (1) The rules may include—
+**20.**[^c-4d3c8c204c5e41996361c92c2e999c9c] (1) The rules may include—
 
 - (a) provision for the setting up of committees of NAO and for those committees to set up sub-committees, and
 - (b) provision regulating the procedures of those committees and sub-committees.
@@ -206,18 +206,18 @@ Section 20
 
 #### Powers
 
-**21.**[^key-9ac689188906d2953b4dd380677b8eae] NAO may do anything calculated to facilitate, or incidental or conducive to, the carrying out of any of its functions.
+**21.**[^c-9ac689188906d2953b4dd380677b8eae] NAO may do anything calculated to facilitate, or incidental or conducive to, the carrying out of any of its functions.
 
 #### Validity
 
-**22.**[^key-af5e50daa6b8f21431ecac64a3f85d34] The validity of anything done by NAO, the non-executive members or any committee or sub-committee is not affected by—
+**22.**[^c-af5e50daa6b8f21431ecac64a3f85d34] The validity of anything done by NAO, the non-executive members or any committee or sub-committee is not affected by—
 
 - (a) a vacancy, or
 - (b) a defective appointment.
 
 #### Delegation of functions
 
-**23.**[^key-83ee776f4ab4e5d120c6cabd1d64cca7] (1) NAO may delegate functions to any of its members, employees or committees.
+**23.**[^c-83ee776f4ab4e5d120c6cabd1d64cca7] (1) NAO may delegate functions to any of its members, employees or committees.
 
 (2) A committee may delegate functions (including functions delegated to it) to a sub-committee.
 
@@ -231,7 +231,7 @@ Section 20
 
 #### NAO resource accounts
 
-**24.**[^key-75db1f3a04a53dc185c6884ff6e16d54] (1) Resource accounts of the kind mentioned in section 5 of the Government Resources and Accounts Act 2000 must be prepared for NAO for each financial year by the person appointed as accounting officer under this paragraph.
+**24.**[^c-75db1f3a04a53dc185c6884ff6e16d54] (1) Resource accounts of the kind mentioned in section 5 of the Government Resources and Accounts Act 2000 must be prepared for NAO for each financial year by the person appointed as accounting officer under this paragraph.
 
 (2) The Public Accounts Commission must appoint the Comptroller and Auditor General or some other appropriate person as accounting officer.
 
@@ -239,7 +239,7 @@ Section 20
 
 #### Audit of NAO
 
-**25.**[^key-5fa0814003302870b0b51d9442e15913] (1) NAO must appoint an auditor for NAO for each financial year.
+**25.**[^c-5fa0814003302870b0b51d9442e15913] (1) NAO must appoint an auditor for NAO for each financial year.
 
 (2) The approval of the Public Accounts Commission is required for the appointment (including its terms).
 
@@ -258,13 +258,13 @@ Section 20
 
 (8) The Commission must lay the accounts and report before the House of Commons.
 
-**26.**[^key-6458233992bcc9f0863ceb026bab60d6] (1) The terms of the auditor's appointment may require the auditor to carry out economy, efficiency and effectiveness examinations of the use of NAO's resources.
+**26.**[^c-6458233992bcc9f0863ceb026bab60d6] (1) The terms of the auditor's appointment may require the auditor to carry out economy, efficiency and effectiveness examinations of the use of NAO's resources.
 
 (2) On completion of the examinations the auditor must prepare a report and send it to the Public Accounts Commission.
 
 (3) The Commission must lay the report before the House of Commons.
 
-**27.**[^key-ab690efc266352b94468ec64fbaad31a] (1) The auditor may require access at any reasonable time to any document where the auditor reasonably thinks it necessary for the purposes of the auditor's functions under paragraph 25 or 26.
+**27.**[^c-ab690efc266352b94468ec64fbaad31a] (1) The auditor may require access at any reasonable time to any document where the auditor reasonably thinks it necessary for the purposes of the auditor's functions under paragraph 25 or 26.
 
 (2) The auditor may also require any person holding or accountable for any document to provide any information or explanation that the auditor reasonably thinks necessary for those purposes.
 
@@ -272,7 +272,7 @@ Section 20
 
 *Extent: E+W+N.I.*
 
-**28.**[^key-3daa615c67f5be5d7aecdf91b0a193e0] (1) The application of NAO's seal is to be authenticated by the signature of—
+**28.**[^c-3daa615c67f5be5d7aecdf91b0a193e0] (1) The application of NAO's seal is to be authenticated by the signature of—
 
 - (a) a member of NAO, or
 - (b) any person authorised (whether generally or specifically) for the purpose by a member of NAO.
@@ -286,64 +286,64 @@ Section 20
 
 ## Annotations
 
-[^key-df92f7bf85c9436b85b1e2d8dbf3b3b9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/1) in force in so far as not already in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-df92f7bf85c9436b85b1e2d8dbf3b3b9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/1) in force in so far as not already in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-ec4959343ec1986fbba77c606b460594]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/1) in force for specified purposes at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/d)
+[^c-ec4959343ec1986fbba77c606b460594]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/1) in force for specified purposes at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/d)
 
-[^key-feb85a06056a05bb272f50f4e7cc4d8f]: Commencement: [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/2/1) in force in so far as not already in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-feb85a06056a05bb272f50f4e7cc4d8f]: Commencement: [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/2/1) in force in so far as not already in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-4d0517260a59bfb685d8beaea025b3fc]: Commencement: [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/2/1) in force for specified purposes at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/d)
+[^c-4d0517260a59bfb685d8beaea025b3fc]: Commencement: [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/2/1) in force for specified purposes at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/d)
 
-[^key-2313bbcab5fb186daca10e4cc733cf25]: Commencement: [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/2/2) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-2313bbcab5fb186daca10e4cc733cf25]: Commencement: [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/2/2) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-1ddc6d65003a024d916f52731420bf60]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/3) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
+[^c-1ddc6d65003a024d916f52731420bf60]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/3) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
 
-[^key-b2965086a68b50cb73da63aab3be3cdc]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/4) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
+[^c-b2965086a68b50cb73da63aab3be3cdc]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/4) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
 
-[^key-85f098005a7cc39c19976af8d4ea9857]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/5) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
+[^c-85f098005a7cc39c19976af8d4ea9857]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/5) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
 
-[^key-802655cc202f8112e5459e504719ec8f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/6) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
+[^c-802655cc202f8112e5459e504719ec8f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/6) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
 
-[^key-aafe344af0c57a914970e2322a66b635]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/7) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
+[^c-aafe344af0c57a914970e2322a66b635]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/7) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
 
-[^key-7c38b489b6b6d995013fe3fa6123face]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/8) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
+[^c-7c38b489b6b6d995013fe3fa6123face]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/8) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
 
-[^key-c1b00b2afe36527cd5516b4229481450]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/9) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
+[^c-c1b00b2afe36527cd5516b4229481450]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/9) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
 
-[^key-47c784ff798a6ccccc8541962ac5a425]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/10) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
+[^c-47c784ff798a6ccccc8541962ac5a425]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/10) in force at 1.11.2011 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2576/article/2/e)
 
-[^key-bbea0c2eb7fdce3463817e1ea2b88b05]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/11) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-bbea0c2eb7fdce3463817e1ea2b88b05]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/11) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-4cec5ffd201e3df99e27b672b1435faf]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/12) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-4cec5ffd201e3df99e27b672b1435faf]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/12) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-88fb4cd3d5590450a52caf86f027081a]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/13) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-88fb4cd3d5590450a52caf86f027081a]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/13) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-a47d22c69b906052f06df95a3f3494e3]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/14) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-a47d22c69b906052f06df95a3f3494e3]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/14) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-63bbdf2cb9b9f6c4e07d2bc9fdb7237a]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/15) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-63bbdf2cb9b9f6c4e07d2bc9fdb7237a]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/15) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-1b30a5bb9cba581c5933e0fdbeeb0289]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/16) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-1b30a5bb9cba581c5933e0fdbeeb0289]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/16) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-7c62e63912dfffc07c247b937b9aeb76]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/17) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-7c62e63912dfffc07c247b937b9aeb76]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/17) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-5445feb68bc04bd1b1cbc510b6bec8c4]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/18) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-5445feb68bc04bd1b1cbc510b6bec8c4]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/18) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-c3dffe774f9086f079946e8c596a719b]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/19) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-c3dffe774f9086f079946e8c596a719b]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/19) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-4d3c8c204c5e41996361c92c2e999c9c]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/20) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-4d3c8c204c5e41996361c92c2e999c9c]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/20) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-9ac689188906d2953b4dd380677b8eae]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/21) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-9ac689188906d2953b4dd380677b8eae]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/21) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-af5e50daa6b8f21431ecac64a3f85d34]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/22) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-af5e50daa6b8f21431ecac64a3f85d34]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/22) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-83ee776f4ab4e5d120c6cabd1d64cca7]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/23) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-83ee776f4ab4e5d120c6cabd1d64cca7]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/23) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-75db1f3a04a53dc185c6884ff6e16d54]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/24) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-75db1f3a04a53dc185c6884ff6e16d54]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/24) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-5fa0814003302870b0b51d9442e15913]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/25) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-5fa0814003302870b0b51d9442e15913]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/25) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-6458233992bcc9f0863ceb026bab60d6]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/26) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-6458233992bcc9f0863ceb026bab60d6]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/26) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-ab690efc266352b94468ec64fbaad31a]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/27) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-ab690efc266352b94468ec64fbaad31a]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/27) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-3daa615c67f5be5d7aecdf91b0a193e0]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/28) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-3daa615c67f5be5d7aecdf91b0a193e0]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2011/4/schedule/2/paragraph/28) in force at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(c)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))

@@ -24,11 +24,11 @@ summary: ''
 
 ### Application
 
-**1.**[^key-911763c07d729b59a8099eedabd2ceaf] This schedule applies where an approved regulator proposes to surrender its authorisation under section 39.
+**1.**[^c-911763c07d729b59a8099eedabd2ceaf] This schedule applies where an approved regulator proposes to surrender its authorisation under section 39.
 
 ### Surrender notice
 
-**2.**[^key-bae3a0c3451ea0f989771fae8e967c95] (1) The approved regulator must give the Scottish Ministers a notice (a “surrender notice”) of its proposal to do so.
+**2.**[^c-bae3a0c3451ea0f989771fae8e967c95] (1) The approved regulator must give the Scottish Ministers a notice (a “surrender notice”) of its proposal to do so.
 
 (2) The notice must—
 
@@ -37,11 +37,11 @@ summary: ''
 
 ### Consultation
 
-**3.**[^key-ef6019b5727c7074ab14c1280e4c8bbd] (1) The Scottish Ministers must, as soon as reasonably practicable after receipt of a surrender notice—
+**3.**[^c-ef6019b5727c7074ab14c1280e4c8bbd] (1) The Scottish Ministers must, as soon as reasonably practicable after receipt of a surrender notice—
 
 - (a) send a copy of the notice to—
   - (i) the Lord President,
-  - (ii) the CMA[^key-dee91311e87db41f6168f7bf9279be80],
+  - (ii) the CMA[^c-dee91311e87db41f6168f7bf9279be80],
   - (iii) each of the approved regulator's licensed providers,
   - (iv) such other person or body as they consider appropriate,
 - (b) consult them accordingly.
@@ -62,7 +62,7 @@ must provide the Lord President with such information about the proposed surrend
 
 ### Decision
 
-**4.**[^key-7966aaa11c3f71417ec0f2192f7d823e] (1) The Scottish Ministers must, within 28 days beginning with the day after the period mentioned in paragraph 3(2) ends, decide whether to agree to the proposed surrender.
+**4.**[^c-7966aaa11c3f71417ec0f2192f7d823e] (1) The Scottish Ministers must, within 28 days beginning with the day after the period mentioned in paragraph 3(2) ends, decide whether to agree to the proposed surrender.
 
 (2) In making their decision, the Scottish Ministers must have regard to—
 
@@ -85,7 +85,7 @@ must provide the Lord President with such information about the proposed surrend
 
 ### Date of surrender
 
-**5.**[^key-1f43539b7cf20f72b9b955aa89e188df] (1) If the Scottish Ministers agree to the surrender of the authorisation, the decision notice must specify the date from which the surrender is to be effective (which must be within the period of 6 months beginning with the date of the decision notice).
+**5.**[^c-1f43539b7cf20f72b9b955aa89e188df] (1) If the Scottish Ministers agree to the surrender of the authorisation, the decision notice must specify the date from which the surrender is to be effective (which must be within the period of 6 months beginning with the date of the decision notice).
 
 (2) That date—
 
@@ -94,14 +94,14 @@ must provide the Lord President with such information about the proposed surrend
 
 ## Annotations
 
-[^key-911763c07d729b59a8099eedabd2ceaf]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/1) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-911763c07d729b59a8099eedabd2ceaf]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/1) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-bae3a0c3451ea0f989771fae8e967c95]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/2) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-bae3a0c3451ea0f989771fae8e967c95]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/2) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-ef6019b5727c7074ab14c1280e4c8bbd]: Commencement: Sch. 7 para. 3 in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-ef6019b5727c7074ab14c1280e4c8bbd]: Commencement: Sch. 7 para. 3 in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-dee91311e87db41f6168f7bf9279be80]: Textual amendment: Word in [Sch. 7 para. 3(1)(a)(ii)](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/3/1/a/ii) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 208](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/208); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-dee91311e87db41f6168f7bf9279be80]: Textual amendment: Word in [Sch. 7 para. 3(1)(a)(ii)](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/3/1/a/ii) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 208](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/208); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-7966aaa11c3f71417ec0f2192f7d823e]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/4) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-7966aaa11c3f71417ec0f2192f7d823e]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/4) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-1f43539b7cf20f72b9b955aa89e188df]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/5) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-1f43539b7cf20f72b9b955aa89e188df]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/asp/2010/16/schedule/7/paragraph/5) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

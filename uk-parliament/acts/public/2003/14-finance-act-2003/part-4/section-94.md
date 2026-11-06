@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Power to inspect premises[^key-8ba38e2b8764eb57631be2163a674d1f]
+## 94. Power to inspect premises[^c-8ba38e2b8764eb57631be2163a674d1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ba38e2b8764eb57631be2163a674d1f]: Textual amendment: S. 94 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/11/3) (with [art. 7(5)](https://www.legislation.gov.uk/uksi/2009/3054/article/7/5))
+[^c-8ba38e2b8764eb57631be2163a674d1f]: Textual amendment: S. 94 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 11(3)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/11/3) (with [art. 7(5)](https://www.legislation.gov.uk/uksi/2009/3054/article/7/5))

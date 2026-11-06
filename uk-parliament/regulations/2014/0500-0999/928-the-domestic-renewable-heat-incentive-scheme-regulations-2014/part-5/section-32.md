@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Calculation of grant funding deduction[^key-86ee00dd2d0e43d2d98bf038b9f88eca]
+## 32. Calculation of grant funding deduction[^c-86ee00dd2d0e43d2d98bf038b9f88eca]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) for the quarterly period commencing on the tariff start date, the figure that the Authority believes represents the total value of any grants from public funds which were received by the participant or any other owner, or former owner, of the accredited domestic plant for the costs of the purchase or installation of the accredited domestic plant;
 - (b) for any subsequent quarterly period that—
   - (i) does not include 1st April of any calendar year, the value of A in the previous quarterly period; or
-  - (ii)[^key-a1bc1ac7db3250d6c46395f66e2d9823] includes 1st April of any calendar year, the value of A in the previous quarterly period adjusted by the percentage increase or decrease, for the calendar year ending on 31st December immediately preceding that 1st April, in—
+  - (ii)[^c-a1bc1ac7db3250d6c46395f66e2d9823] includes 1st April of any calendar year, the value of A in the previous quarterly period adjusted by the percentage increase or decrease, for the calendar year ending on 31st December immediately preceding that 1st April, in—
     - (aa) the retail prices index, if the tariff start date is earlier than 1st April 2016; or
     - (bb) the consumer prices index, if the tariff start date is on or after 1st April 2016,
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86ee00dd2d0e43d2d98bf038b9f88eca]: Commencement: Reg. 32 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-86ee00dd2d0e43d2d98bf038b9f88eca]: Commencement: Reg. 32 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-a1bc1ac7db3250d6c46395f66e2d9823]: Textual amendment: [Reg. 32(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/928/regulation/32/2/b/ii) substituted (24.3.2016) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (S.I. 2016/257)](https://www.legislation.gov.uk/uksi/2016/257), [regs. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1), [20](https://www.legislation.gov.uk/uksi/2016/257/regulation/20)
+[^c-a1bc1ac7db3250d6c46395f66e2d9823]: Textual amendment: [Reg. 32(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/928/regulation/32/2/b/ii) substituted (24.3.2016) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (S.I. 2016/257)](https://www.legislation.gov.uk/uksi/2016/257), [regs. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1), [20](https://www.legislation.gov.uk/uksi/2016/257/regulation/20)
